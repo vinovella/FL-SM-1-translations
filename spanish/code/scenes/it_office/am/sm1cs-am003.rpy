@@ -210,12 +210,6 @@ translate spanish sm1cs_am003_201598d2:
     # am "Well yeah. I knew that from the start."
     am "Well yeah. I knew that from the start."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:134
-translate spanish sm1cs_am003_99146660:
-
-    # am "After that work session, I... I figured you would have either quit or just do the bare minumum with your assignments."
-    am "After that work session, I... I figured you would have either quit or just do the bare minumum with your assignments."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:135
 translate spanish sm1cs_am003_7274fced:
 
@@ -750,18 +744,6 @@ translate spanish sm1cs_am003_cf1adef2:
     # mc "Yeah."
     mc "Yeah."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:467
-translate spanish sm1cs_am003_b2413e4c:
-
-    # am "Hey. If you're not busy sucking on Thursday night, my band is playing at a local bar near here."
-    am "Hey. If you're not busy sucking on Thursday night, my band is playing at a local bar near here."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:469
-translate spanish sm1cs_am003_f8a694a6:
-
-    # am "Hey. If you're not busy sucking next Thursday night, my band is playing at a local bar near here."
-    am "Hey. If you're not busy sucking next Thursday night, my band is playing at a local bar near here."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:472
 translate spanish sm1cs_am003_55bd932d:
 
@@ -779,12 +761,6 @@ translate spanish sm1cs_am003_036946db:
 
     # mc "I'm down. I can check my calendar."
     mc "I'm down. I can check my calendar."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:482
-translate spanish sm1cs_am003_d035ef28:
-
-    # am "Cool.{w} It's a pagan rock band. You might see me in something crazy, and I may or may not have warpaint on my face."
-    am "Cool.{w} It's a pagan rock band. You might see me in something crazy, and I may or may not have warpaint on my face."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:485
 translate spanish sm1cs_am003_d8bc74dd:
@@ -851,12 +827,6 @@ translate spanish sm1cs_am003_ef111773:
 
     # mct "Maybe I should check out the show. At least then both of us know it's totally not a work thing."
     mct "Maybe I should check out the show. At least then both of us know it's totally not a work thing."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:515
-translate spanish sm1cs_am003_ee5e70b1:
-
-    # mct "Whatever this 'thing' we're doing is..."
-    mct "Whatever this 'thing' we're doing is..."
 
 translate spanish strings:
 

@@ -18,12 +18,6 @@ translate spanish sm1cs_dc003_fea07740:
     # mc "No buts."
     mc "No buts."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:26
-translate spanish sm1cs_dc003_43d158d3:
-
-    # dc "Dark roast then...please."
-    dc "Dark roast then...please."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:31
 translate spanish sm1cs_dc003_06eccbc2:
 
@@ -90,12 +84,6 @@ translate spanish sm1cs_dc003_dcd35991:
     # dc "Oh boy, well it sounds like we may have to get coffee more often. I need to expand your horizons, [mcname]."
     dc "Oh boy, well it sounds like we may have to get coffee more often. I need to expand your horizons, [mcname]."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:69
-translate spanish sm1cs_dc003_00623011:
-
-    # mc "Oh yeah? What do you normally get."
-    mc "Oh yeah? What do you normally get."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:72
 translate spanish sm1cs_dc003_d1a5cfe1:
 
@@ -143,12 +131,6 @@ translate spanish sm1cs_dc003_ff0d0921:
 
     # dc "Good! I'm happy to be here with you.{w} And I can't say sorry enough about what happened the other night in the park."
     dc "Good! I'm happy to be here with you.{w} And I can't say sorry enough about what happened the other night in the park."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:99
-translate spanish sm1cs_dc003_a7163b87:
-
-    # mc "You've got nothing to apologize for. Hindsight being 20-20, probably shouldn't have been sneaking around the park while there's a creep on the loose."
-    mc "You've got nothing to apologize for. Hindsight being 20-20, probably shouldn't have been sneaking around the park while there's a creep on the loose."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:102
 translate spanish sm1cs_dc003_e3cfe840:
@@ -245,12 +227,6 @@ translate spanish sm1cs_dc003_f3634b9b:
 
     # dc "Maybe an hour outside of Crowning. Small, little town you've probably never heard of."
     dc "Maybe an hour outside of Crowning. Small, little town you've probably never heard of."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:144
-translate spanish sm1cs_dc003_a3dfff60:
-
-    # mc "So why move here instead of there?"
-    mc "So why move here instead of there?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:147
 translate spanish sm1cs_dc003_9987882e:
@@ -426,18 +402,6 @@ translate spanish sm1cs_dc003_ad1a70b8:
     # dc "I thought transferring here would be a step forward. I did a few years there, learned some things."
     dc "I thought transferring here would be a step forward. I did a few years there, learned some things."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:212
-translate spanish sm1cs_dc003_71cf7842:
-
-    # dc "Like I've put in my time. So I thought when I transferred, I'd continue with where I was. Maybe make detective, do something that {i}actually{/i} makes a difference."
-    dc "Like I've put in my time. So I thought when I transferred, I'd continue with where I was. Maybe make detective, do something that {i}actually{/i} makes a difference."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:215
-translate spanish sm1cs_dc003_7cecb04e:
-
-    # dc "Instead, I'm walking the park beat, chasing some weird creep in the middle of the night."
-    dc "Instead, I'm walking the park beat, chasing some weird creep in the middle of the night."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:216
 translate spanish sm1cs_dc003_860e1a24:
 
@@ -449,12 +413,6 @@ translate spanish sm1cs_dc003_fd3491e0:
 
     # mc "That sucks, Debbie."
     mc "That sucks, Debbie."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:220
-translate spanish sm1cs_dc003_b7d17cd1:
-
-    # mc "Why'd they put you in the park."
-    mc "Why'd they put you in the park."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:223
 translate spanish sm1cs_dc003_07458fbd:
@@ -504,12 +462,6 @@ translate spanish sm1cs_dc003_10ccbbf6:
     # dc "Not what {i}everyone{/i} would think."
     dc "Not what {i}everyone{/i} would think."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:245
-translate spanish sm1cs_dc003_5f14811a:
-
-    # mc "Well, at least everyone with half a brain would think."
-    mc "Well, at least everyone with half a brain would think."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:248
 translate spanish sm1cs_dc003_54c2154c:
 
@@ -546,23 +498,11 @@ translate spanish sm1cs_dc003_e7d45490:
     # mct "Might as well shoot my shot!"
     mct "Might as well shoot my shot!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:265
-translate spanish sm1cs_dc003_3b95b0e0:
-
-    # mc "Of course! Especially when the uniform looks like yours."
-    mc "Of course! Especially when the uniform looks like yours."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:270
 translate spanish sm1cs_dc003_7aea6364:
 
     # mc "Of course! I've always thought the police needed more women."
     mc "Of course! I've always thought the police needed more women."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:272
-translate spanish sm1cs_dc003_84584108:
-
-    # mc "How can you resist a woman in uniform?"
-    mc "How can you resist a woman in uniform?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:277
 translate spanish sm1cs_dc003_6826d023:
@@ -594,23 +534,11 @@ translate spanish sm1cs_dc003_68fca3f6:
     # mc "Oh, well I'm sorry I kept you too long."
     mc "Oh, well I'm sorry I kept you too long."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:291
-translate spanish sm1cs_dc003_8a118f1a:
-
-    # dc "Uhm, yeah, no. It's-it's okay."
-    dc "Uhm, yeah, no. It's-it's okay."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:294
 translate spanish sm1cs_dc003_ef589775:
 
     # mc "Well we should do this again-"
     mc "Well we should do this again-"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:297
-translate spanish sm1cs_dc003_e6eefa72:
-
-    # dc "Uh, yeah. We'll, uhm. Uh huh!"
-    dc "Uh, yeah. We'll, uhm. Uh huh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:300
 translate spanish sm1cs_dc003_f56b6f90:

@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2024-05-05 11:07
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:55
-translate spanish sm1cs_kv004_19e20281:
-
-    # kv "Oh, hey [mcname]!"
-    kv "Oh, hey [mcname]!"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:57
 translate spanish sm1cs_kv004_443c8e43:
 
@@ -77,12 +71,6 @@ translate spanish sm1cs_kv004_5dae7152:
 
     # "BDSM Model" "Uhm, no..."
     "BDSM Model" "Uhm, no..."
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:96
-translate spanish sm1cs_kv004_5a376191:
-
-    # kv "You're just a sexy little freak like us, aren't you?"
-    kv "You're just a sexy little freak like us, aren't you?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:98
 translate spanish sm1cs_kv004_afc0b373:
@@ -156,12 +144,6 @@ translate spanish sm1cs_kv004_cf11b021:
     # kv "Besides, I am a sexually liberated woman who likes telling her friends about her sexual exploits."
     kv "Besides, I am a sexually liberated woman who likes telling her friends about her sexual exploits."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:127
-translate spanish sm1cs_kv004_a0c0940d:
-
-    # kv "Where was I... Oh yeah - touring the studio."
-    kv "Where was I... Oh yeah - touring the studio."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:130
 translate spanish sm1cs_kv004_2f7258b2:
 
@@ -186,23 +168,11 @@ translate spanish sm1cs_kv004_c591cfb8:
     # "BDSM Model" "Huh..."
     "BDSM Model" "Huh..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:137
-translate spanish sm1cs_kv004_bc9b50ef:
-
-    # kv "Never tripped up once, like other guys."
-    kv "Never tripped up once, like other guys."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:140
 translate spanish sm1cs_kv004_a1f184e9_3:
 
     # "*CLICK*"
     "*CLICK*"
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:142
-translate spanish sm1cs_kv004_ae64cb4c:
-
-    # kv "The whole time we talked and got to know more about each other, the kinkier it got."
-    kv "The whole time we talked and got to know more about each other, the kinkier it got."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:145
 translate spanish sm1cs_kv004_be29bc2d:
@@ -318,12 +288,6 @@ translate spanish sm1cs_kv004_4d24e099:
     # kv "He had one hand on my shoulder, so he could get that {i}good{/i} leverage while he was thrusting. And one hand pulling my hair."
     kv "He had one hand on my shoulder, so he could get that {i}good{/i} leverage while he was thrusting. And one hand pulling my hair."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:190
-translate spanish sm1cs_kv004_303521d4:
-
-    # kv "It was so {i}fucking hot.{/i} I can't even tell you how hard it made me cum."
-    kv "It was so {i}fucking hot.{/i} I can't even tell you how hard it made me cum."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:192
 translate spanish sm1cs_kv004_02586238:
 
@@ -378,18 +342,6 @@ translate spanish sm1cs_kv004_6fa0d6dd:
     # kv "Of course! Anything for one of my best clients."
     kv "Of course! Anything for one of my best clients."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:215
-translate spanish sm1cs_kv004_173b880a:
-
-    # kv "{size=20}And absolutely not.{/size}"
-    kv "{size=20}And absolutely not.{/size}"
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:219
-translate spanish sm1cs_kv004_4cc76ba1:
-
-    # "BDSM Model" "And I'll see you around, [mcname]."
-    "BDSM Model" "And I'll see you around, [mcname]."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:227
 translate spanish sm1cs_kv004_3fc9c984:
 
@@ -432,12 +384,6 @@ translate spanish sm1cs_kv004_df542958:
     # kv "Yep, but that's just between us. You ever mention it to her I'll deny, deny, deny."
     kv "Yep, but that's just between us. You ever mention it to her I'll deny, deny, deny."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:253
-translate spanish sm1cs_kv004_4503a27b:
-
-    # mc "Well who is she?"
-    mc "Well who is she?"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:255
 translate spanish sm1cs_kv004_fdd1823a:
 
@@ -455,12 +401,6 @@ translate spanish sm1cs_kv004_37ec1e82:
 
     # kv "What's this?"
     kv "What's this?"
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:266
-translate spanish sm1cs_kv004_8b2eb8b1:
-
-    # mc "That is our official contract for the studio."
-    mc "That is our official contract for the studio."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:268
 translate spanish sm1cs_kv004_7dfe3925:

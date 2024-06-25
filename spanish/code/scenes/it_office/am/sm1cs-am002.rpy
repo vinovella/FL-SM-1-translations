@@ -264,12 +264,6 @@ translate spanish sm1cs_am002_788150a6:
     # ag "Will the task be done today or not?"
     ag "Will the task be done today or not?"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:180
-translate spanish sm1cs_am002_37698f3d:
-
-    # ag "I'll take that as a 'no'."
-    ag "I'll take that as a 'no'."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:184
 translate spanish sm1cs_am002_68e335dc:
 

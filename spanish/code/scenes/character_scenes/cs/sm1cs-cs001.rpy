@@ -102,18 +102,6 @@ translate spanish scm1cs001_4a0bf7b8:
     # cs "Okay?... Well, are you going to order something or not?"
     cs "Okay?... Well, are you going to order something or not?"
 
-# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:52
-translate spanish scm1cs001_f863c9a6:
-
-    # mc "Yeah, yeah. I'll have a dark roast cofee and a.."
-    mc "Yeah, yeah. I'll have a dark roast cofee and a.."
-
-# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:53
-translate spanish scm1cs001_fa82f2ce:
-
-    # mc "I guess just a medium cofee."
-    mc "I guess just a medium cofee."
-
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:56
 translate spanish scm1cs001_bedb708c:
 

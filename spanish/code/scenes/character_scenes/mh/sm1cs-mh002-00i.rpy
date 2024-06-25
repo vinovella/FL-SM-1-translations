@@ -18,9 +18,3 @@ translate spanish sm1cs_mh002_00i_d1cdbe69:
     # sy "Hmmm."
     sy "Hmmm."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh002-00i.rpy:14
-translate spanish sm1cs_mh002_00i_e4f6731f:
-
-    # sy "Just give me a minute. I just need to get changed."
-    sy "Just give me a minute. I just need to get changed."
-
