@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/minigames/wurst_delivery/wurst_delivery_labels.rpy:37
 translate spanish wurst_delivery_done_a9f58c90:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/scenes/it_office/sm1fs-i003.rpy:28
 translate spanish sm1fs_i003_ec136a61:
 

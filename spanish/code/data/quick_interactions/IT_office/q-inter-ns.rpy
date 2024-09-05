@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:27
 translate spanish q_inter_ns_1_50c97503:
 

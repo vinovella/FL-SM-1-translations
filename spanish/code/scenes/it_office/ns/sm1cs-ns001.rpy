@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:18
 translate spanish sm1cs_ns001_503308a4:
 

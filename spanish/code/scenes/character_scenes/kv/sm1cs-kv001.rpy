@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:24
 translate spanish sm1cs_kv001_44d82e84:
 

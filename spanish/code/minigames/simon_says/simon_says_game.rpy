@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 translate spanish strings:
 
     # game/code/minigames/simon_says/simon_says_game.rpy:39

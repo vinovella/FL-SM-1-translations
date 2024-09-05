@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:23
 translate spanish sm1cs_vs001_f7f006ae:
 

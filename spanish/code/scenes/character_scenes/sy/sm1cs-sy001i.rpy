@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy001i.rpy:6
 translate spanish sm1cs_sy001i_rent_penalty_e526a903:
 

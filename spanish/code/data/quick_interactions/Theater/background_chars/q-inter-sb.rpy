@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-sb.rpy:17
 translate spanish q_inter_sb_1_d2b6aa4b:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/scenes/main_story/sm1ms002_it.rpy:5
 translate spanish sm1ms002_it_fa27ef07:
 

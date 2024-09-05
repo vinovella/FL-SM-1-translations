@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:17
 translate spanish q_inter_km_1_3836c925:
 

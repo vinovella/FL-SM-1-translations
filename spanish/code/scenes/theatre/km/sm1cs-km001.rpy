@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:16
 translate spanish sm1cs_km001_d55f39b4:
 

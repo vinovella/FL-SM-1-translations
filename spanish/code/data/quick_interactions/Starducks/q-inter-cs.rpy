@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/data/quick_interactions/Starducks/q-inter-cs.rpy:18
 translate spanish q_inter_cs_1_77a255db:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/data/quick_interactions/Theater/q-inter-dvh.rpy:18
 translate spanish q_inter_dvh_1_b5ff2aaa:
 

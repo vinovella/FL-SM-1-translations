@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/scenes/theatre/sm1fs-t002.rpy:48
 translate spanish sm1fs_t002_6608cd4e:
 

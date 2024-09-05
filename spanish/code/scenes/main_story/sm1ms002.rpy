@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/scenes/main_story/sm1ms002.rpy:20
 translate spanish sm1ms002_809091fc:
 
@@ -77,12 +75,6 @@ translate spanish sm1ms002_2faef0f8:
 
     # sy "Yes?"
     sy "Yes?"
-
-# game/code/scenes/main_story/sm1ms002.rpy:72
-translate spanish sm1ms002_b72d8163:
-
-    # mc "About the rent. You said it was $[RENT_WEEKLY_AMOUNT] per month... but your asking for that amount every week."
-    mc "About the rent. You said it was $[RENT_WEEKLY_AMOUNT] per month... but your asking for that amount every week."
 
 # game/code/scenes/main_story/sm1ms002.rpy:75
 translate spanish sm1ms002_815bd6b6:

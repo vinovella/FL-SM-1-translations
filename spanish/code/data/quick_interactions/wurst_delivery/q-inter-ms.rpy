@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-05 11:07
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:46
 translate spanish q_inter_ms_1_dff5569e:
 
