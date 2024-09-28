@@ -1,4 +1,4 @@
-# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:27
+﻿# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:27
 translate spanish q_inter_ns_1_50c97503:
 
     # ns "Hello [mcname]."
@@ -315,4 +315,166 @@ translate spanish q_inter_ns_15_02efd091:
 
     # ns "They are absolutely disgusting, but they remind me of home."
     ns "They are absolutely disgusting, but they remind me of home."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:191
+translate spanish q_inter_ns_16_b8449005:
+
+    # ns "Hey, [mcname]. *sniffs* Such a wonderful day isn't it?"
+    ns "Hey, [mcname]. *sniffs* Such a wonderful day isn't it?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:193
+translate spanish q_inter_ns_16_72fe6ab0:
+
+    # mc "It really is. Especially around you."
+    mc "It really is. Especially around you."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:197
+translate spanish q_inter_ns_16_d389dcd8:
+
+    # ns "Hehehe."
+    ns "Hehehe."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:203
+translate spanish q_inter_ns_17_d9ea6390:
+
+    # ns "Nice work on that transfer error ticket, [mcname]. I think you're improving a lot."
+    ns "Nice work on that transfer error ticket, [mcname]. I think you're improving a lot."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:205
+translate spanish q_inter_ns_17_a31340dd:
+
+    # mc "Really?"
+    mc "Really?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:209
+translate spanish q_inter_ns_17_f757c9e1:
+
+    # ns "Totally. I mean, your skills were pretty non-existent earlier, so it's not too hard."
+    ns "Totally. I mean, your skills were pretty non-existent earlier, so it's not too hard."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:211
+translate spanish q_inter_ns_17_b8de06d3:
+
+    # mc "Oh."
+    mc "Oh."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:215
+translate spanish q_inter_ns_17_71bd37c4:
+
+    # ns "But. I mean, you've shown a lot of improvement."
+    ns "But. I mean, you've shown a lot of improvement."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:216
+translate spanish q_inter_ns_17_0d72609e:
+
+    # ns "I bet Anna will say the same during your next review."
+    ns "I bet Anna will say the same during your next review."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:222
+translate spanish q_inter_ns_18_e5a4c9e9:
+
+    # ns "Mmm. Hey."
+    ns "Mmm. Hey."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:224
+translate spanish q_inter_ns_18_669664cb:
+
+    # mc "Hey."
+    mc "Hey."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:228
+translate spanish q_inter_ns_18_879d09a2:
+
+    # ns "It's a little late, and people are heading home soon."
+    ns "It's a little late, and people are heading home soon."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:230
+translate spanish q_inter_ns_18_cf1adef2:
+
+    # mc "Yeah."
+    mc "Yeah."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:231
+translate spanish q_inter_ns_18_f04ec6ff:
+
+    # ns "Remind you of anything."
+    ns "Remind you of anything."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:232
+translate spanish q_inter_ns_18_758af13a:
+
+    # mc "Hehehe. Yeah."
+    mc "Hehehe. Yeah."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:236
+translate spanish q_inter_ns_18_cd71789f:
+
+    # ns "*giggles*"
+    ns "*giggles*"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:242
+translate spanish q_inter_ns_19_92097911:
+
+    # mc "I see you."
+    mc "I see you."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:244
+translate spanish q_inter_ns_19_7ad92c86:
+
+    # ns "Huh? What do you mean?"
+    ns "Huh? What do you mean?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:245
+translate spanish q_inter_ns_19_742c6986:
+
+    # mc "I see you making sexy eyes at me."
+    mc "I see you making sexy eyes at me."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:246
+translate spanish q_inter_ns_19_e4a6642c:
+
+    # mc "How is a man supposed to work around a cute little thing like you."
+    mc "How is a man supposed to work around a cute little thing like you."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:250
+translate spanish q_inter_ns_19_20bcd484:
+
+    # ns "Hehe. Well I hope that your financial stability is a good enough reason."
+    ns "Hehe. Well I hope that your financial stability is a good enough reason."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:251
+translate spanish q_inter_ns_19_8a2968ec:
+
+    # ns "I'd hate for you to get fired."
+    ns "I'd hate for you to get fired."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:255
+translate spanish q_inter_ns_19_446f2cc0:
+
+    # ns "Then again, that might mean more 'playtime'."
+    ns "Then again, that might mean more 'playtime'."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:257
+translate spanish q_inter_ns_19_faa03e1a:
+
+    # mc "Haha."
+    mc "Haha."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:263
+translate spanish q_inter_ns_20_af0e56b7:
+
+    # mc "What are you thinking about?"
+    mc "What are you thinking about?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:265
+translate spanish q_inter_ns_20_8f411162:
+
+    # ns "Mmmm."
+    ns "Mmmm."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:269
+translate spanish q_inter_ns_20_00765f51:
+
+    # ns "You. Hehe."
+    ns "You. Hehe."
 

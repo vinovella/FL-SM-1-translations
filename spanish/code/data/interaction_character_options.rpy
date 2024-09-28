@@ -1,4 +1,4 @@
-translate spanish strings:
+﻿translate spanish strings:
 
     # game/code/data/interaction_character_options.rpy:3
     old "Talk"
@@ -13,8 +13,24 @@ translate spanish strings:
     new "Work Wurst delivery"
 
     # game/code/data/interaction_character_options.rpy:3
+    old "Go on a Date"
+    new "Go on a Date"
+
+    # game/code/data/interaction_character_options.rpy:3
+    old "Give Stacy money for a wig"
+    new "Give Stacy money for a wig"
+
+    # game/code/data/interaction_character_options.rpy:3
+    old "Go to Kanya with the wig"
+    new "Go to Kanya with the wig"
+
+    # game/code/data/interaction_character_options.rpy:3
     old "Talk about finding more jobs"
     new "Talk about finding more jobs"
+
+    # game/code/data/interaction_character_options.rpy:3
+    old "Talk about theater girls"
+    new "Talk about theater girls"
 
     # game/code/data/interaction_character_options.rpy:3
     old "Help Stacy"
@@ -75,4 +91,8 @@ translate spanish strings:
     # game/code/data/interaction_character_options.rpy:3
     old "Rehearsal for the show"
     new "Rehearsal for the show"
+
+    # game/code/data/interaction_character_options.rpy:3
+    old "Date with Lyssa"
+    new "Date with Lyssa"
 

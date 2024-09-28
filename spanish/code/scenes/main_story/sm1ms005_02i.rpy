@@ -1,4 +1,4 @@
-# game/code/scenes/main_story/sm1ms005_02i.rpy:6
+﻿# game/code/scenes/main_story/sm1ms005_02i.rpy:6
 translate spanish sm1ms005_02i_6ef2ea4b:
 
     # sy "Hey, [mcname], coming to bed?"

@@ -1,4 +1,4 @@
-# game/code/scenes/character_scenes/mh/sm1cs-mh001i.rpy:6
+﻿# game/code/scenes/character_scenes/mh/sm1cs-mh001i.rpy:6
 translate spanish sm1cs_mh001i_e526a903:
 
     # mc "Hmmm."

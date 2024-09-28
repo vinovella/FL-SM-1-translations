@@ -1,4 +1,4 @@
-# game/code/scenes/character_scenes/dc/sm1cs-dc001i.rpy:6
+﻿# game/code/scenes/character_scenes/dc/sm1cs-dc001i.rpy:6
 translate spanish sm1cs_dc001i_25408090:
 
     # dc "Excuse me, sir."
@@ -27,6 +27,18 @@ translate spanish sm1cs_dc001i_a915c9ae:
 
     # dc "Okay? Anyway, there have been reports of a creep around the park. Please let me know if you see anything suspicious."
     dc "Okay? Anyway, there have been reports of a creep around the park. Please let me know if you see anything suspicious."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc001i.rpy:16
+translate spanish sm1cs_dc001i_a70fd013:
+
+    # mc "Sure. If I see something, I'll say something."
+    mc "Sure. If I see something, I'll say something."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc001i.rpy:20
+translate spanish sm1cs_dc001i_5b5a0be7:
+
+    # dc "Please do! He's been seen stalking around the park at night."
+    dc "Please do! He's been seen stalking around the park at night."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc001i.rpy:22
 translate spanish sm1cs_dc001i_2a67fcb3:

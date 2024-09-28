@@ -1,4 +1,4 @@
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:13
+﻿# game/code/scenes/it_office/am/sm1cs-am001.rpy:13
 translate spanish sm1cs_am001_b7ed3972:
 
     # am "Hey. Don't forget, we need to stay late tonight."

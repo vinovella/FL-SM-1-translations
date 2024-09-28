@@ -1,4 +1,4 @@
-# game/code/scenes/main_story/sm1ms006.rpy:27
+﻿# game/code/scenes/main_story/sm1ms006.rpy:27
 translate spanish sm1ms006_47476c7b:
 
     # mct "Oh shit, the USB!"

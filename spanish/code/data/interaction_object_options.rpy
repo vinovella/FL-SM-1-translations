@@ -1,12 +1,16 @@
-translate spanish strings:
+﻿translate spanish strings:
+
+    # game/code/data/interaction_object_options.rpy:3
+    old "Interact"
+    new "Interact"
 
     # game/code/data/interaction_object_options.rpy:3
     old "Read Photography-101"
     new "Read Photography-101"
 
     # game/code/data/interaction_object_options.rpy:3
-    old "Buy Energy Drink"
-    new "Buy Energy Drink"
+    old "Buy Energy Drink - $25"
+    new "Buy Energy Drink - $25"
 
     # game/code/data/interaction_object_options.rpy:3
     old "Read Fashion Magazine"

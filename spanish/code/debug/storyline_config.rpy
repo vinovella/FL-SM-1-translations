@@ -1,4 +1,4 @@
-translate spanish strings:
+﻿translate spanish strings:
 
     # game/code/debug/storyline_config.rpy:55
     old "Please enter your name. (Default - Mike)"

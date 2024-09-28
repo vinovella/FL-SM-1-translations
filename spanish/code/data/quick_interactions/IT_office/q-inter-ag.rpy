@@ -1,4 +1,4 @@
-# game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:26
+﻿# game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:26
 translate spanish q_inter_ag_1_3d682e9c:
 
     # ag "Hey [mcname]. I hope you're having a good day."

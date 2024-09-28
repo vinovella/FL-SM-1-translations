@@ -1,4 +1,4 @@
-# game/code/scenes/it_office/sm1fs-i002.rpy:16
+﻿# game/code/scenes/it_office/sm1fs-i002.rpy:16
 translate spanish sm1fs_i002_f4f1449d:
 
     # cw "You must be [mcname]."

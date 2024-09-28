@@ -1,4 +1,4 @@
-# game/code/data/quick_interactions/Theater/background_chars/q-inter-sj.rpy:15
+﻿# game/code/data/quick_interactions/Theater/background_chars/q-inter-sj.rpy:15
 translate spanish q_inter_sj_1_638dccc8:
 
     # mc "Hello Sue."

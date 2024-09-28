@@ -1,4 +1,4 @@
-# game/code/scenes/main_story/sm1ms002.rpy:20
+﻿# game/code/scenes/main_story/sm1ms002.rpy:20
 translate spanish sm1ms002_809091fc:
 
     # sy "Oh good, you're here."
@@ -75,6 +75,12 @@ translate spanish sm1ms002_2faef0f8:
 
     # sy "Yes?"
     sy "Yes?"
+
+# game/code/scenes/main_story/sm1ms002.rpy:72
+translate spanish sm1ms002_42f2ab00:
+
+    # mc "About the rent. You said it was $[RENT_WEEKLY_AMOUNT] per month... but you're asking for that amount every week."
+    mc "About the rent. You said it was $[RENT_WEEKLY_AMOUNT] per month... but you're asking for that amount every week."
 
 # game/code/scenes/main_story/sm1ms002.rpy:75
 translate spanish sm1ms002_815bd6b6:

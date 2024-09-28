@@ -1,4 +1,4 @@
-# game/code/scenes/theatre/tl/sm1cs-tl001.rpy:17
+﻿# game/code/scenes/theatre/tl/sm1cs-tl001.rpy:17
 translate spanish sm1cs_tl001_2bc398af:
 
     # sy "Welcome home, [mcname]!"

@@ -1,4 +1,4 @@
-translate spanish strings:
+﻿translate spanish strings:
 
     # game/code/minigames/simon_says/simon_says_game.rpy:39
     old "Ready!"

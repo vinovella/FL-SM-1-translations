@@ -1,4 +1,4 @@
-# game/code/scenes/main_story/sm1ms003.rpy:72
+﻿# game/code/scenes/main_story/sm1ms003.rpy:72
 translate spanish sm1ms003_start_97d32ee9:
 
     # sy "Not bad."

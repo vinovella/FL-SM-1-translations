@@ -1,4 +1,4 @@
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:16
+﻿# game/code/scenes/theatre/km/sm1cs-km001.rpy:16
 translate spanish sm1cs_km001_d55f39b4:
 
     # mct "Sam should know where the prop weapons are."

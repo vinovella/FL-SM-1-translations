@@ -1,3 +1,9 @@
+﻿# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:55
+translate spanish sm1cs_kv004_fd033fb9:
+
+    # kv "Oh, hey, [mcname]!"
+    kv "Oh, hey, [mcname]!"
+
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:57
 translate spanish sm1cs_kv004_443c8e43:
 
@@ -69,6 +75,12 @@ translate spanish sm1cs_kv004_5dae7152:
 
     # "BDSM Model" "Uhm, no..."
     "BDSM Model" "Uhm, no..."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:96
+translate spanish sm1cs_kv004_a697c068:
+
+    # kv "You're just a sexy, little freak like us, aren't you?"
+    kv "You're just a sexy, little freak like us, aren't you?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:98
 translate spanish sm1cs_kv004_afc0b373:
@@ -142,6 +154,12 @@ translate spanish sm1cs_kv004_cf11b021:
     # kv "Besides, I am a sexually liberated woman who likes telling her friends about her sexual exploits."
     kv "Besides, I am a sexually liberated woman who likes telling her friends about her sexual exploits."
 
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:127
+translate spanish sm1cs_kv004_fa38b17e:
+
+    # kv "Now, where was I... Oh yeah - touring the studio."
+    kv "Now, where was I... Oh yeah - touring the studio."
+
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:130
 translate spanish sm1cs_kv004_2f7258b2:
 
@@ -166,973 +184,1003 @@ translate spanish sm1cs_kv004_c591cfb8:
     # "BDSM Model" "Huh..."
     "BDSM Model" "Huh..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:140
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:139
 translate spanish sm1cs_kv004_a1f184e9_3:
 
     # "*CLICK*"
     "*CLICK*"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:145
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:141
+translate spanish sm1cs_kv004_476937cb:
+
+    # kv "The more we talked and got to know each other, the kinkier it got."
+    kv "The more we talked and got to know each other, the kinkier it got."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:144
 translate spanish sm1cs_kv004_be29bc2d:
 
     # kv "But there's really only one way to test sexual chemistry, you know?"
     kv "But there's really only one way to test sexual chemistry, you know?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:146
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:145
 translate spanish sm1cs_kv004_c568c804:
 
     # kv "So we did some good, old fashioned fucking."
     kv "So we did some good, old fashioned fucking."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:149
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:148
 translate spanish sm1cs_kv004_34a438a8:
 
     # "BDSM Model" "Oh, wow..."
     "BDSM Model" "Oh, wow..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:151
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:150
 translate spanish sm1cs_kv004_4b0457ea:
 
     # kv "You hear that, [mcname]? Sounds like I'm making another admirer of your work."
     kv "You hear that, [mcname]? Sounds like I'm making another admirer of your work."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:154
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:153
 translate spanish sm1cs_kv004_c6bceb68:
 
     # mc "And what work would that be?"
     mc "And what work would that be?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:156
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:155
 translate spanish sm1cs_kv004_dcf43fe1:
 
     # kv "Well, being a magician of course."
     kv "Well, being a magician of course."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:159
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:158
 translate spanish sm1cs_kv004_9f4c916d:
 
     # mc "What do you mean? I'm not a magician?"
     mc "What do you mean? I'm not a magician?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:161
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:160
 translate spanish sm1cs_kv004_f5b5d5fb:
 
     # kv "You sure? Because I think you've got a magic cock."
     kv "You sure? Because I think you've got a magic cock."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:164
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:163
 translate spanish sm1cs_kv004_b882791e:
 
     # mc "Uhmm, well thank you, Kanya. I like to think I do a good job."
     mc "Uhmm, well thank you, Kanya. I like to think I do a good job."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:167
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:166
 translate spanish sm1cs_kv004_0ecb75b2:
 
     # "BDSM Model" "So... {size=20}What'd you do next?{/size}"
     "BDSM Model" "So... {size=20}What'd you do next?{/size}"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:169
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:168
 translate spanish sm1cs_kv004_e21b6101:
 
     # kv "Oh, so Little Miss Bashful wants to know more?"
     kv "Oh, so Little Miss Bashful wants to know more?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:172
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:171
 translate spanish sm1cs_kv004_3ee8b4ec:
 
     # "BDSM Model" "{size=20}Maybe...{/size}"
     "BDSM Model" "{size=20}Maybe...{/size}"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:174
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:173
 translate spanish sm1cs_kv004_d49ed656:
 
     # kv "Mmmm, so first he gave me some spankings. Yeah, and it was the {i}perfect{/i} amount of force."
     kv "Mmmm, so first he gave me some spankings. Yeah, and it was the {i}perfect{/i} amount of force."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:175
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:174
 translate spanish sm1cs_kv004_1d181aa4:
 
     # kv "Hard enough for me to feel it, but not so hard that it felt like he didn't know what he was doing."
     kv "Hard enough for me to feel it, but not so hard that it felt like he didn't know what he was doing."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:178
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:177
 translate spanish sm1cs_kv004_39efdb07:
 
     # "BDSM Model" "Mmmmm..."
     "BDSM Model" "Mmmmm..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:180
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:179
 translate spanish sm1cs_kv004_a1f184e9_4:
 
     # "*CLICK*"
     "*CLICK*"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:183
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:182
 translate spanish sm1cs_kv004_859cbe8a:
 
     # kv "Then he fucked me from behind."
     kv "Then he fucked me from behind."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:186
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:185
 translate spanish sm1cs_kv004_5ae4ac19:
 
     # kv "We we're standing there, his thighs slapping against mine, dick buried deep in my pussy."
     kv "We we're standing there, his thighs slapping against mine, dick buried deep in my pussy."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:187
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:186
 translate spanish sm1cs_kv004_4d24e099:
 
     # kv "He had one hand on my shoulder, so he could get that {i}good{/i} leverage while he was thrusting. And one hand pulling my hair."
     kv "He had one hand on my shoulder, so he could get that {i}good{/i} leverage while he was thrusting. And one hand pulling my hair."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:192
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:189
+translate spanish sm1cs_kv004_0381753f:
+
+    # kv "It was so {w}{i}fucking {w}hot.{/i} I can't even tell you how hard it made me cum."
+    kv "It was so {w}{i}fucking {w}hot.{/i} I can't even tell you how hard it made me cum."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:191
 translate spanish sm1cs_kv004_02586238:
 
     # "BDSM Model" "Wow, uhm... Wow..."
     "BDSM Model" "Wow, uhm... Wow..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:195
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:194
 translate spanish sm1cs_kv004_784c6428:
 
     # kv "Then he spun me around, put me on the couch, and covered my face in cum."
     kv "Then he spun me around, put me on the couch, and covered my face in cum."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:196
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:195
 translate spanish sm1cs_kv004_6e202182:
 
     # kv "I licked up every, single, {i}delicious{/i} drop of it."
     kv "I licked up every, single, {i}delicious{/i} drop of it."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:199
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:198
 translate spanish sm1cs_kv004_0a8016a0:
 
     # "BDSM Model" "God, Kanya..."
     "BDSM Model" "God, Kanya..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:201
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:200
 translate spanish sm1cs_kv004_b7d0b520:
 
     # kv "What! I {i}know{/i} you want to hear all about it."
     kv "What! I {i}know{/i} you want to hear all about it."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:204
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:203
 translate spanish sm1cs_kv004_a4d3f37f:
 
     # kv "But, I think we got everything we needed!"
     kv "But, I think we got everything we needed!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:206
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:205
 translate spanish sm1cs_kv004_3fb8a7f4:
 
     # "BDSM Model" "Sounds good, Kanya. Thanks for another great shoot!"
     "BDSM Model" "Sounds good, Kanya. Thanks for another great shoot!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:210
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:209
 translate spanish sm1cs_kv004_92cb771a:
 
     # "BDSM Model" "{size=20}And stop picking on me in front of [mcname]!{/size}"
     "BDSM Model" "{size=20}And stop picking on me in front of [mcname]!{/size}"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:212
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:211
 translate spanish sm1cs_kv004_6fa0d6dd:
 
     # kv "Of course! Anything for one of my best clients."
     kv "Of course! Anything for one of my best clients."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:227
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:218
+translate spanish sm1cs_kv004_bda7dcbc:
+
+    # "BDSM Model" "I'll see you around, [mcname]."
+    "BDSM Model" "I'll see you around, [mcname]."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:226
 translate spanish sm1cs_kv004_3fc9c984:
 
     # mct "Fuck, she is hot! But... Who the hell is she?"
     mct "Fuck, she is hot! But... Who the hell is she?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:238
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:237
 translate spanish sm1cs_kv004_3e0b48f2:
 
     # kv "I hope you don't mind that I told her about our little sex-capade."
     kv "I hope you don't mind that I told her about our little sex-capade."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:239
 translate spanish sm1cs_kv004_41ac40ab:
 
     # mc "Not going to lie, it was a little awkward hearing someone talk about it with me in the room. She seemed to enjoy it, though."
     mc "Not going to lie, it was a little awkward hearing someone talk about it with me in the room. She seemed to enjoy it, though."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:243
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:242
 translate spanish sm1cs_kv004_96ff9235:
 
     # kv "She did. I know it's been awhile since she's gotten any action, so I figured something to stir her imagination would be appreciated."
     kv "She did. I know it's been awhile since she's gotten any action, so I figured something to stir her imagination would be appreciated."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:244
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:243
 translate spanish sm1cs_kv004_a0f8dcda:
 
     # kv "Besides, I think she may have a little crush on you."
     kv "Besides, I think she may have a little crush on you."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:246
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:245
 translate spanish sm1cs_kv004_66c80152:
 
     # mc "What, really?"
     mc "What, really?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:249
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:248
 translate spanish sm1cs_kv004_df542958:
 
     # kv "Yep, but that's just between us. You ever mention it to her I'll deny, deny, deny."
     kv "Yep, but that's just between us. You ever mention it to her I'll deny, deny, deny."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:255
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:252
+translate spanish sm1cs_kv004_6a1880a8:
+
+    # mc "Well, who is she?"
+    mc "Well, who is she?"
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:254
 translate spanish sm1cs_kv004_fdd1823a:
 
     # kv "Oh, that's strictly confidential. I don't reveal who my clients are. Which is something you'll come to appreciate if you hire me at the studio."
     kv "Oh, that's strictly confidential. I don't reveal who my clients are. Which is something you'll come to appreciate if you hire me at the studio."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:260
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:259
 translate spanish sm1cs_kv004_f35bfe99:
 
     # mc "Oh shit, that reminds me!"
     mc "Oh shit, that reminds me!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:262
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:261
 translate spanish sm1cs_kv004_37ec1e82:
 
     # kv "What's this?"
     kv "What's this?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:268
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:265
+translate spanish sm1cs_kv004_fa8afc29:
+
+    # mc "That is our contract for the studio."
+    mc "That is our contract for the studio."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:267
 translate spanish sm1cs_kv004_7dfe3925:
 
     # kv "Does that mean..."
     kv "Does that mean..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:271
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:270
 translate spanish sm1cs_kv004_a413a911:
 
     # mc "We would love to officially hire you for S&M Studios!"
     mc "We would love to officially hire you for S&M Studios!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:273
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:272
 translate spanish sm1cs_kv004_5ee101e6:
 
     # kv "Fuck yeah!"
     kv "Fuck yeah!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:276
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:275
 translate spanish sm1cs_kv004_cc781f39:
 
     # mc "So everything you need to know should be in there. I got a text about all the things I should mention, hang on..."
     mc "So everything you need to know should be in there. I got a text about all the things I should mention, hang on..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:277
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:276
 translate spanish sm1cs_kv004_0c9c1d08:
 
     # mc "Okay, I'm supposed to tell you that you're a \"for work\" hire, that the pay scale is equal to the earnings per film, that you will be covered under our liability insurance-"
     mc "Okay, I'm supposed to tell you that you're a \"for work\" hire, that the pay scale is equal to the earnings per film, that you will be covered under our liability insurance-"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:280
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:279
 translate spanish sm1cs_kv004_899d80e7:
 
     # kv "You have your own liability insurance?"
     kv "You have your own liability insurance?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:282
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:281
 translate spanish sm1cs_kv004_dda1548b:
 
     # mc "I guess so!"
     mc "I guess so!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:286
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:285
 translate spanish sm1cs_kv004_eb72b62b:
 
     # kv "Wow. You are super organized. It took me almost getting sued by a client who tripped on the door to start worrying about insurance. How the hell are you so organized?"
     kv "Wow. You are super organized. It took me almost getting sued by a client who tripped on the door to start worrying about insurance. How the hell are you so organized?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:288
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:287
 translate spanish sm1cs_kv004_cd0a5a3a:
 
     # mc "I have a really great lawyer."
     mc "I have a really great lawyer."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:291
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:290
 translate spanish sm1cs_kv004_7e6fc7f8:
 
     # kv "Yeah?"
     kv "Yeah?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:293
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:292
 translate spanish sm1cs_kv004_7e22714c:
 
     # mc "Yeah, she's awesome."
     mc "Yeah, she's awesome."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:296
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:295
 translate spanish sm1cs_kv004_c50afe0a:
 
     # kv "Well I'd love to meet her sometime. Maybe she could help me out here at the studio with a few things."
     kv "Well I'd love to meet her sometime. Maybe she could help me out here at the studio with a few things."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:299
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:298
 translate spanish sm1cs_kv004_078e08dc:
 
     # mc "I'll mention it to her, I bet she's always looking for clients."
     mc "I'll mention it to her, I bet she's always looking for clients."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:301
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:300
 translate spanish sm1cs_kv004_46789f61:
 
     # mc "I would love to introduce you two!"
     mc "I would love to introduce you two!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:304
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:303
 translate spanish sm1cs_kv004_1ec9c657:
 
     # mc "Oh, I'm also supposed to tell you that your gear is under the same insurance policy while on set, and that this agreement is only binding for you working on the crew."
     mc "Oh, I'm also supposed to tell you that your gear is under the same insurance policy while on set, and that this agreement is only binding for you working on the crew."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:305
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:304
 translate spanish sm1cs_kv004_291a562f:
 
     # mc "That if in any instance you wanted to perform on screen, you would need to sign a separate set of documents for that."
     mc "That if in any instance you wanted to perform on screen, you would need to sign a separate set of documents for that."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:308
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:307
 translate spanish sm1cs_kv004_f8472eb5:
 
     # mc "But that's everything!"
     mc "But that's everything!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:310
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:309
 translate spanish sm1cs_kv004_55bb1f20:
 
     # kv "That sounds perfect."
     kv "That sounds perfect."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:317
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:316
 translate spanish sm1cs_kv004_2c2a859d:
 
     # kv "So when are we filming?"
     kv "So when are we filming?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:319
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:318
 translate spanish sm1cs_kv004_b7d1ac7c:
 
     # mc "I think we're getting close! You'll literally be my first call when Stacy and I have someone lined up."
     mc "I think we're getting close! You'll literally be my first call when Stacy and I have someone lined up."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:323
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:322
 translate spanish sm1cs_kv004_3a75b622:
 
     # kv "Is that the secret sister of yours?"
     kv "Is that the secret sister of yours?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:325
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:324
 translate spanish sm1cs_kv004_25ac59a1:
 
     # kv "Is that the secret roommate?"
     kv "Is that the secret roommate?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:327
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:326
 translate spanish sm1cs_kv004_6ba0e57f:
 
     # mc "Yep, that's her."
     mc "Yep, that's her."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:330
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:329
 translate spanish sm1cs_kv004_770252ae:
 
     # kv "Another woman you know that I would love to meet."
     kv "Another woman you know that I would love to meet."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:332
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:331
 translate spanish sm1cs_kv004_23f53cb0:
 
     # mc "Oh, she absolutely wants to meet you too. One of these days I'll have to have you over at the studio when she's home."
     mc "Oh, she absolutely wants to meet you too. One of these days I'll have to have you over at the studio when she's home."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:336
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:335
 translate spanish sm1cs_kv004_5725f8b4:
 
     # kv "I'd love that."
     kv "I'd love that."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:337
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:336
 translate spanish sm1cs_kv004_2ed309b2:
 
     # kv "On a different subject. How are your camera skills coming along?"
     kv "On a different subject. How are your camera skills coming along?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:340
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:339
 translate spanish sm1cs_kv004_516fd583:
 
     # mc "Honestly, I haven't worked on them since I was here last. I, uh, figured when we hired you I wouldn't need to know anything else."
     mc "Honestly, I haven't worked on them since I was here last. I, uh, figured when we hired you I wouldn't need to know anything else."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:342
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:341
 translate spanish sm1cs_kv004_b4ffaa83:
 
     # kv "You never know. Sometimes people want a POV kind of thing. You'll have to work the camera then."
     kv "You never know. Sometimes people want a POV kind of thing. You'll have to work the camera then."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:345
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:344
 translate spanish sm1cs_kv004_deae60ee:
 
     # mc "Shit, I never even thought about that..."
     mc "Shit, I never even thought about that..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:347
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:346
 translate spanish sm1cs_kv004_792ddd20:
 
     # kv "You know, I've got some time if you want to practice."
     kv "You know, I've got some time if you want to practice."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:350
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:349
 translate spanish sm1cs_kv004_3f9087cc:
 
     # kv "And thinking about our last romp has gotten me kind of horny..."
     kv "And thinking about our last romp has gotten me kind of horny..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:365
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:364
 translate spanish sm1cs_kv004_sex_repeatable_acb6770d:
 
     # mc "Well practice makes perfect!"
     mc "Well practice makes perfect!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:367
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:366
 translate spanish sm1cs_kv004_sex_repeatable_e58d1fb5:
 
     # kv "I was hoping you'd say that!"
     kv "I was hoping you'd say that!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:374
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:373
 translate spanish sm1cs_kv004_sex_repeatable_3ffd6769:
 
     # kv "All right, hot stuff. Get reacquainted with my baby."
     kv "All right, hot stuff. Get reacquainted with my baby."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:379
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:378
 translate spanish sm1cs_kv004_sex_repeatable_e5ba3f5a:
 
     # mct "Okay, the white balance is set to 5600 already, and the ISO is 200. Good, good..."
     mct "Okay, the white balance is set to 5600 already, and the ISO is 200. Good, good..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:381
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:380
 translate spanish sm1cs_kv004_sex_repeatable_df54401a:
 
     # mct "Okay, I can do this... That's the F stop... And that's the shutter speed..."
     mct "Okay, I can do this... That's the F stop... And that's the shutter speed..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:395
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:394
 translate spanish sm1cs_kv004_sex_repeatable_babf1e75:
 
     # kv "You going to keep staring at the camera settings, or are you going to show a girl a good time?"
     kv "You going to keep staring at the camera settings, or are you going to show a girl a good time?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:402
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:401
 translate spanish sm1cs_kv004_sex_repeatable_b9e52793:
 
     # kv "We'll start off with an easy POV shot."
     kv "We'll start off with an easy POV shot."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:403
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:402
 translate spanish sm1cs_kv004_sex_repeatable_b32bc269:
 
     # kv "But we have to get rid of these pesky things..."
     kv "But we have to get rid of these pesky things..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:409
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:408
 translate spanish sm1cs_kv004_sex_repeatable_924c1b38:
 
     # mct "All right, switch it from photo to video... Make sure I've got auto-focus on..."
     mct "All right, switch it from photo to video... Make sure I've got auto-focus on..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:411
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:410
 translate spanish sm1cs_kv004_sex_repeatable_039fc004:
 
     # kv "Don't forget to press record."
     kv "Don't forget to press record."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:414
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:413
 translate spanish sm1cs_kv004_sex_repeatable_b7ce6ebf:
 
     # mc "Oh, shit - and we're rolling!"
     mc "Oh, shit - and we're rolling!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:416
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:415
 translate spanish sm1cs_kv004_sex_repeatable_f1c5a214:
 
     # mct "Press record, and..."
     mct "Press record, and..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:418
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:417
 translate spanish sm1cs_kv004_sex_repeatable_9d470bdb:
 
     # kv "We rolling?"
     kv "We rolling?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:421
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:420
 translate spanish sm1cs_kv004_sex_repeatable_c482a0d6:
 
     # mc "Yes ma'am!"
     mc "Yes ma'am!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:423
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:422
 translate spanish sm1cs_kv004_sex_repeatable_9ccc3d10:
 
     # kv "Good, because this is going to be golden."
     kv "Good, because this is going to be golden."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:438
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:437
 translate spanish sm1cs_kv004_sex_repeatable_4554710d:
 
     # mc "Holy shiiiiit, Kanya."
     mc "Holy shiiiiit, Kanya."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:445
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:444
 translate spanish sm1cs_kv004_sex_repeatable_886511cd:
 
     # mc "You were right, this looks fucking {i}hot!{/i}"
     mc "You were right, this looks fucking {i}hot!{/i}"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:452
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:451
 translate spanish sm1cs_kv004_sex_repeatable_ebeeae2e:
 
     # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, Goddamn."
     mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, Goddamn."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:464
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:463
 translate spanish sm1cs_kv004_sex_repeatable_334744a4:
 
     # kv "How's it looking so far?"
     kv "How's it looking so far?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:466
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:465
 translate spanish sm1cs_kv004_sex_repeatable_82cfef52:
 
     # mc "Awesome."
     mc "Awesome."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:469
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:468
 translate spanish sm1cs_kv004_sex_repeatable_887cd77c:
 
     # kv "Everything in focus?"
     kv "Everything in focus?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:471
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:470
 translate spanish sm1cs_kv004_sex_repeatable_bc233547:
 
     # mc "Uh, yep. I think so?"
     mc "Uh, yep. I think so?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:474
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:473
 translate spanish sm1cs_kv004_sex_repeatable_c892e46b:
 
     # kv "I know you're having fun, but you have to remember that you are still working."
     kv "I know you're having fun, but you have to remember that you are still working."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:476
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:475
 translate spanish sm1cs_kv004_sex_repeatable_2887ed7c:
 
     # mc "Yeah, it's going to be tough to remember to also do all the filming things."
     mc "Yeah, it's going to be tough to remember to also do all the filming things."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:477
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:476
 translate spanish sm1cs_kv004_sex_repeatable_91ef838f:
 
     # kv "And that's why we practice!"
     kv "And that's why we practice!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:480
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:479
 translate spanish sm1cs_kv004_sex_repeatable_0a4cdc2a:
 
     # mc "If this is what practice looks like, I'll have to do this waaaay more often."
     mc "If this is what practice looks like, I'll have to do this waaaay more often."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:482
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:481
 translate spanish sm1cs_kv004_sex_repeatable_9681afb1:
 
     # kv "Mmmm, I'd love that."
     kv "Mmmm, I'd love that."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:486
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:485
 translate spanish sm1cs_kv004_sex_repeatable_1bc774b1:
 
     # kv "Oh fuuuuck yessss."
     kv "Oh fuuuuck yessss."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:497
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:496
 translate spanish sm1cs_kv004_sex_repeatable_8a47f382:
 
     # kv "You - fuh - you in focus?"
     kv "You - fuh - you in focus?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:500
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:499
 translate spanish sm1cs_kv004_sex_repeatable_e9a28e46:
 
     # mc "Yeah!"
     mc "Yeah!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:501
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:500
 translate spanish sm1cs_kv004_sex_repeatable_9aa91e48:
 
     # kv "Goooooood, fucking goooooood. And - fuh - you got me in frame? Head to pussssy?"
     kv "Goooooood, fucking goooooood. And - fuh - you got me in frame? Head to pussssy?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:503
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:502
 translate spanish sm1cs_kv004_sex_repeatable_eb815940:
 
     # mc "Nnnng, yeah!"
     mc "Nnnng, yeah!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:504
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:503
 translate spanish sm1cs_kv004_sex_repeatable_c8cbbfd0:
 
     # kv "Good, good, fuck yes, good."
     kv "Good, good, fuck yes, good."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:509
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:508
 translate spanish sm1cs_kv004_sex_repeatable_a12e1049:
 
     # kv "And make sure you keep a little space above my head in the fraaaaame."
     kv "And make sure you keep a little space above my head in the fraaaaame."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:510
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:509
 translate spanish sm1cs_kv004_sex_repeatable_2b6215a6:
 
     # kv "Fuuuuuh - hang on, I want to enjoy this for a second."
     kv "Fuuuuuh - hang on, I want to enjoy this for a second."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:511
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:510
 translate spanish sm1cs_kv004_sex_repeatable_9dbf668e:
 
     # kv "Mmmmphsdg, God that's good."
     kv "Mmmmphsdg, God that's good."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:514
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:513
 translate spanish sm1cs_kv004_sex_repeatable_f10eebbe:
 
     # kv "I swear, you {i}do{/i} have a magic dick. This is fucking amazing."
     kv "I swear, you {i}do{/i} have a magic dick. This is fucking amazing."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:517
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:516
 translate spanish sm1cs_kv004_sex_repeatable_a046c9df:
 
     # mc "Fuck, and this looks great! You're so hot Kanya, you were fucking made to be on camera."
     mc "Fuck, and this looks great! You're so hot Kanya, you were fucking made to be on camera."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:518
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:517
 translate spanish sm1cs_kv004_sex_repeatable_faefe8d0:
 
     # kv "Fuck, I know!"
     kv "Fuck, I know!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:523
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:522
 translate spanish sm1cs_kv004_sex_repeatable_43ff088d:
 
     # kv "Hang on, I really want to ride you."
     kv "Hang on, I really want to ride you."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:525
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:524
 translate spanish sm1cs_kv004_sex_repeatable_1ce81b63:
 
     # mc "By all means."
     mc "By all means."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:533
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:532
 translate spanish sm1cs_kv004_sex_repeatable_22543fa9:
 
     # kv "Goooood, yes! That's so much better."
     kv "Goooood, yes! That's so much better."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:535
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:534
 translate spanish sm1cs_kv004_sex_repeatable_ad7ddf91:
 
     # kv "Less tits to film, but sometimes you get these awkward angles and you have to make it work."
     kv "Less tits to film, but sometimes you get these awkward angles and you have to make it work."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:538
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:537
 translate spanish sm1cs_kv004_sex_repeatable_f1a8334d:
 
     # mc "Still looks fucking good!"
     mc "Still looks fucking good!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:541
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:540
 translate spanish sm1cs_kv004_sex_repeatable_7261c57f:
 
     # kv "Mmmmpphhhhh, pr-probably not as good as it feeeeeels, holy shiiiiit!"
     kv "Mmmmpphhhhh, pr-probably not as good as it feeeeeels, holy shiiiiit!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:545
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:544
 translate spanish sm1cs_kv004_sex_repeatable_2c794ec4:
 
     # kv "Fuuuuuccccck, if we - nnnngnghghghh - stay in this position-"
     kv "Fuuuuuccccck, if we - nnnngnghghghh - stay in this position-"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:547
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:546
 translate spanish sm1cs_kv004_sex_repeatable_3272f42d:
 
     # kv "NNNNNGGG, I'm going to - fuuuuuucking -"
     kv "NNNNNGGG, I'm going to - fuuuuuucking -"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:549
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:548
 translate spanish sm1cs_kv004_sex_repeatable_13e8df3e:
 
     # mc "Oh God, fucccccking hell, Kanya!"
     mc "Oh God, fucccccking hell, Kanya!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:552
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:551
 translate spanish sm1cs_kv004_sex_repeatable_824d6908:
 
     # kv "Yes, right there, yes, right there - fuck, fuck, fuckfuckfuck!"
     kv "Yes, right there, yes, right there - fuck, fuck, fuckfuckfuck!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:553
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:552
 translate spanish sm1cs_kv004_sex_repeatable_b1fb8c3a:
 
     # kv "I'm going to cum, I'mgoingtocumI'mgoingtocum!"
     kv "I'm going to cum, I'mgoingtocumI'mgoingtocum!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:556
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:555
 translate spanish sm1cs_kv004_sex_repeatable_ef38e483:
 
     # kv "FuuuuuckI'mcummmmming!"
     kv "FuuuuuckI'mcummmmming!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:561
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:560
 translate spanish sm1cs_kv004_sex_repeatable_2f8872a0:
 
     # kv "MMmmmfuuuck, are you still rolling!?"
     kv "MMmmmfuuuck, are you still rolling!?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:563
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:562
 translate spanish sm1cs_kv004_sex_repeatable_31f30118:
 
     # mc "Yeah! Haven't stopped!"
     mc "Yeah! Haven't stopped!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:565
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:564
 translate spanish sm1cs_kv004_sex_repeatable_ac733224:
 
     # kv "Fuuucking put me on the ground and fuck meeeee!"
     kv "Fuuucking put me on the ground and fuck meeeee!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:568
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:567
 translate spanish sm1cs_kv004_sex_repeatable_579c5263:
 
     # kv "Get your dick back in me, and fuck me senseless!!"
     kv "Get your dick back in me, and fuck me senseless!!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:569
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:568
 translate spanish sm1cs_kv004_sex_repeatable_234a4a1f:
 
     # kv "And choke me! Fuck, I love it - wrap that big, strong hand around my neck!"
     kv "And choke me! Fuck, I love it - wrap that big, strong hand around my neck!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:579
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:578
 translate spanish sm1cs_kv004_sex_repeatable_b754232b:
 
     # kv "Fuuuuungnnaldjgn, keep fucking me - just like that! I can feel myself about to cum again!"
     kv "Fuuuuungnnaldjgn, keep fucking me - just like that! I can feel myself about to cum again!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:585
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:584
 translate spanish sm1cs_kv004_sex_repeatable_9ba64785:
 
     # kv "Fuck, [mcname], fuuuuck! I'm going to cum aggaaaaain!"
     kv "Fuck, [mcname], fuuuuck! I'm going to cum aggaaaaain!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:586
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:585
 translate spanish sm1cs_kv004_sex_repeatable_b9a1c35b:
 
     # mc "Goddamn, Kanya! I can feel you squeezing the shit out of my dick!"
     mc "Goddamn, Kanya! I can feel you squeezing the shit out of my dick!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:588
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:587
 translate spanish sm1cs_kv004_sex_repeatable_a360e115:
 
     # kv "Yesyesyes! I'm cumming again!"
     kv "Yesyesyes! I'm cumming again!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:591
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:590
 translate spanish sm1cs_kv004_sex_repeatable_aef2c7e5:
 
     # kv "Gooooood, chooooke me! Fuuuuck, I'mstillcummmmmming!"
     kv "Gooooood, chooooke me! Fuuuuck, I'mstillcummmmmming!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:592
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:591
 translate spanish sm1cs_kv004_sex_repeatable_2aadad2a:
 
     # mc "Mmmmnngnng, Kanya you're so tight! You're pussy is like a viccce!"
     mc "Mmmmnngnng, Kanya you're so tight! You're pussy is like a viccce!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:594
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:593
 translate spanish sm1cs_kv004_sex_repeatable_c5bef044:
 
     # mc "I'm going to - fuuuuuuck - I'm so close!"
     mc "I'm going to - fuuuuuuck - I'm so close!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:595
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:594
 translate spanish sm1cs_kv004_sex_repeatable_53203aff:
 
     # kv "Fuh - King - Cum - In - My - PUSSY!!!"
     kv "Fuh - King - Cum - In - My - PUSSY!!!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:600
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:599
 translate spanish sm1cs_kv004_sex_repeatable_f9fc7303:
 
     # mc "Holy shit!"
     mc "Holy shit!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:602
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:601
 translate spanish sm1cs_kv004_sex_repeatable_50067801:
 
     # mc "I'm cumming!"
     mc "I'm cumming!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:603
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:602
 translate spanish sm1cs_kv004_sex_repeatable_e3110cdd:
 
     # kv "Fuuuuck, fill me up!!!"
     kv "Fuuuuck, fill me up!!!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:607
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:606
 translate spanish sm1cs_kv004_sex_repeatable_d5b1dbbc:
 
     # mc "Oh my... Gahhhhd."
     mc "Oh my... Gahhhhd."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:612
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:611
 translate spanish sm1cs_kv004_sex_repeatable_68dcd1f2:
 
     # kv "Mmmm, fuck yes. It feels so good in me..."
     kv "Mmmm, fuck yes. It feels so good in me..."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:613
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:612
 translate spanish sm1cs_kv004_sex_repeatable_a0d20ec7:
 
     # kv "I was going to talk about the best way to do a money shot... But this is too good of a feeling to pass up on."
     kv "I was going to talk about the best way to do a money shot... But this is too good of a feeling to pass up on."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:616
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:615
 translate spanish sm1cs_kv004_sex_repeatable_9142d86a:
 
     # mc "I'm glad you like it."
     mc "I'm glad you like it."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:618
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:617
 translate spanish sm1cs_kv004_sex_repeatable_86852441:
 
     # kv "God, I haven't had a rolling orgasm like that in {i}ages{/i}."
     kv "God, I haven't had a rolling orgasm like that in {i}ages{/i}."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:621
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:620
 translate spanish sm1cs_kv004_sex_repeatable_52465330:
 
     # mc "Yeah, it was pretty hot on camera, too."
     mc "Yeah, it was pretty hot on camera, too."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:623
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:622
 translate spanish sm1cs_kv004_sex_repeatable_fba52cdd:
 
     # kv "Oh yeah? How's it look by the way?"
     kv "Oh yeah? How's it look by the way?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:625
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:624
 translate spanish sm1cs_kv004_sex_repeatable_5c1ca7ef:
 
     # mc "Pretty good if I do say so myself."
     mc "Pretty good if I do say so myself."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:628
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:627
 translate spanish sm1cs_kv004_sex_repeatable_cc9bf599:
 
     # kv "Awesome. Leave the camera on my desk and I'll start editing it."
     kv "Awesome. Leave the camera on my desk and I'll start editing it."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:630
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:629
 translate spanish sm1cs_kv004_sex_repeatable_3392c8a3:
 
     # kv "Mmmm, I'll edit it together again, just for funsies."
     kv "Mmmm, I'll edit it together again, just for funsies."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:632
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:631
 translate spanish sm1cs_kv004_sex_repeatable_0359a44a:
 
     # kv "I'll make sure to give you notes the next time you're around."
     kv "I'll make sure to give you notes the next time you're around."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:635
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:634
 translate spanish sm1cs_kv004_sex_repeatable_ddc209b1:
 
     # kv "I think I'm just going to hang out here for a sec... Until I can feel my legs again."
     kv "I think I'm just going to hang out here for a sec... Until I can feel my legs again."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:637
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:636
 translate spanish sm1cs_kv004_sex_repeatable_70f10dbf:
 
     # mc "Do you want me help getting up?"
     mc "Do you want me help getting up?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:640
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:639
 translate spanish sm1cs_kv004_sex_repeatable_393f902c:
 
     # kv "Nope. I just want to enjoy being pounded so hard that I can't walk. You know where the door is though."
     kv "Nope. I just want to enjoy being pounded so hard that I can't walk. You know where the door is though."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:642
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:641
 translate spanish sm1cs_kv004_sex_repeatable_6f7d81f9:
 
     # mc "That I do."
     mc "That I do."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:646
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:645
 translate spanish sm1cs_kv004_sex_repeatable_41d17af0:
 
     # kv "I'll see ya' later. New business partner."
     kv "I'll see ya' later. New business partner."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:648
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:647
 translate spanish sm1cs_kv004_sex_repeatable_33b4a109:
 
     # kv "I'll see you later, you bright, shining star."
     kv "I'll see you later, you bright, shining star."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:650
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:649
 translate spanish sm1cs_kv004_sex_repeatable_01d32247:
 
     # mc "Yeah, you will!"
     mc "Yeah, you will!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:663
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:662
 translate spanish sm1cs_kv004_no_sex_8ad58f44:
 
     # mc "Actually, I have to take off."
     mc "Actually, I have to take off."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:665
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:664
 translate spanish sm1cs_kv004_no_sex_ee24deab:
 
     # kv "No worries, [mcname]. Maybe some other time."
     kv "No worries, [mcname]. Maybe some other time."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:668
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:667
 translate spanish sm1cs_kv004_no_sex_6e031d5b:
 
     # mc "Yeah, maybe."
     mc "Yeah, maybe."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:670
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:669
 translate spanish sm1cs_kv004_no_sex_48cec831:
 
     # kv "You know where to find me."
     kv "You know where to find me."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:674
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:673
 translate spanish sm1cs_kv004_no_sex_f27b084f:
 
     # mc "I do! And I'm looking forward to working together!"
     mc "I do! And I'm looking forward to working together!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:676
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:675
 translate spanish sm1cs_kv004_no_sex_5aeedc49:
 
     # kv "Me too!"
@@ -1140,19 +1188,19 @@ translate spanish sm1cs_kv004_no_sex_5aeedc49:
 
 translate spanish strings:
 
-    # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:221
+    # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:220
     old "Check out her ass as she walks away"
     new "Check out her ass as she walks away"
 
-    # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:221
+    # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:220
     old "Get to business"
     new "Get to business"
 
-    # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:351
+    # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:350
     old "Practice your skills"
     new "Practice your skills"
 
-    # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:351
+    # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:350
     old "Maybe some other time"
     new "Maybe some other time"
 

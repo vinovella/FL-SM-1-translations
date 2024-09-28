@@ -1,4 +1,4 @@
-# game/code/scenes/main_story/sm1ms005_01i.rpy:6
+﻿# game/code/scenes/main_story/sm1ms005_01i.rpy:6
 translate spanish sm1ms005_01i_5ea165bd:
 
     # sy "[mcname], we need to have a talk."

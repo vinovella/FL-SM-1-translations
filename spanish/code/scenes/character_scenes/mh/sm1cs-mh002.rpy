@@ -1,4 +1,4 @@
-# game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:22
+﻿# game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:22
 translate spanish sm1cs_mh002_d63954f3:
 
     # mc "Should we have called ahead?"

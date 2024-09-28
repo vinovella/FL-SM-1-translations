@@ -1,4 +1,4 @@
-# game/code/scenes/main_story/sm1ms002_it.rpy:5
+﻿# game/code/scenes/main_story/sm1ms002_it.rpy:5
 translate spanish sm1ms002_it_fa27ef07:
 
     # sy "Well, I got you a nice, cushy, air-conditioned office job."

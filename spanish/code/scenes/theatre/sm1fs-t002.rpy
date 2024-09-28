@@ -1,4 +1,4 @@
-# game/code/scenes/theatre/sm1fs-t002.rpy:48
+﻿# game/code/scenes/theatre/sm1fs-t002.rpy:48
 translate spanish sm1fs_t002_6608cd4e:
 
     # sy "Taisia is here!"

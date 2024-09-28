@@ -1,4 +1,4 @@
-# game/code/scenes/theatre/sm1fs-t001.rpy:21
+﻿# game/code/scenes/theatre/sm1fs-t001.rpy:21
 translate spanish sm1fs_t001_fe5aabdc:
 
     # mc "I gotta admit - I've been wondering why you were so certain she would be at the theater."

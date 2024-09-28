@@ -1,4 +1,4 @@
-# game/code/data/quick_interactions/l71_shop/q-inter-ic.rpy:20
+﻿# game/code/data/quick_interactions/l71_shop/q-inter-ic.rpy:20
 translate spanish q_inter_ic_1_4f6f359d:
 
     # ic "What can I get for you?"

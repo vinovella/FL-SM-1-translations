@@ -1,4 +1,4 @@
-translate spanish strings:
+﻿translate spanish strings:
 
     # game/code/data/traits.rpy:82
     old "Brunette"

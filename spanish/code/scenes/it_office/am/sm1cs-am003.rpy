@@ -1,4 +1,4 @@
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:23
+﻿# game/code/scenes/it_office/am/sm1cs-am003.rpy:23
 translate spanish sm1cs_am003_65d3c1ab:
 
     # mc "Hey April."
@@ -208,6 +208,12 @@ translate spanish sm1cs_am003_201598d2:
     # am "Well yeah. I knew that from the start."
     am "Well yeah. I knew that from the start."
 
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:134
+translate spanish sm1cs_am003_e619f22b:
+
+    # am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
+    am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
+
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:135
 translate spanish sm1cs_am003_7274fced:
 
@@ -406,425 +412,449 @@ translate spanish sm1cs_am003_f305608a:
     # cs "Sure."
     cs "Sure."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:283
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:284
 translate spanish sm1cs_am003_06eccbc2:
 
     # cs "And here you go."
     cs "And here you go."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:285
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:286
 translate spanish sm1cs_am003_e9721ff3:
 
     # mc "Thank you!"
     mc "Thank you!"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:289
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:290
 translate spanish sm1cs_am003_ba3fd6b1:
 
     # mc "Ohe dark roast coffee for the girl who roasts me every day."
     mc "Ohe dark roast coffee for the girl who roasts me every day."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:292
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:293
 translate spanish sm1cs_am003_20494680:
 
     # am "Thank you for the drink."
     am "Thank you for the drink."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:296
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:297
 translate spanish sm1cs_am003_a7a92e8f:
 
     # mc "No problem."
     mc "No problem."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:302
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:303
 translate spanish sm1cs_am003_905ee756:
 
     # mct "Ah. That is the spot."
     mct "Ah. That is the spot."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:305
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:306
 translate spanish sm1cs_am003_3d905e5a:
 
     # mc "Alright let's see."
     mc "Alright let's see."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:308
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:309
 translate spanish sm1cs_am003_f04b7836:
 
     # am "You better not be swiping girls on Ember right now."
     am "You better not be swiping girls on Ember right now."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:311
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:312
 translate spanish sm1cs_am003_2d15a3a3:
 
     # mc "Huh? No, I'm getting onto their wifi."
     mc "Huh? No, I'm getting onto their wifi."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:312
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:313
 translate spanish sm1cs_am003_9ffd7377:
 
     # mc "There. The file is downloaded."
     mc "There. The file is downloaded."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:315
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:316
 translate spanish sm1cs_am003_33adcb95:
 
     # mc "Is something the matter, April?"
     mc "Is something the matter, April?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:318
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:319
 translate spanish sm1cs_am003_ca9489b5:
 
     # am "No. Nothing."
     am "No. Nothing."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:326
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:327
 translate spanish sm1cs_am003_1c8acf17_1:
 
     # am "..."
     am "..."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:330
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:331
 translate spanish sm1cs_am003_72f2508b:
 
     # am "Hold on one sec."
     am "Hold on one sec."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:333
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:334
 translate spanish sm1cs_am003_3054de01:
 
     # am "Hey Pepper. Yeah, they texted me."
     am "Hey Pepper. Yeah, they texted me."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:334
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:335
 translate spanish sm1cs_am003_898840ea:
 
     # am "It's going to be great.{w} I'm thinking some face paint.{w} I know, I'm excited."
     am "It's going to be great.{w} I'm thinking some face paint.{w} I know, I'm excited."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:337
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:338
 translate spanish sm1cs_am003_8180d435:
 
     # mct "What is going on here? While she's talking to this 'Pepper', its like April is a completely different person."
     mct "What is going on here? While she's talking to this 'Pepper', its like April is a completely different person."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:340
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:341
 translate spanish sm1cs_am003_8a6dc8d6:
 
     # am "Yeah. He just needs to chill."
     am "Yeah. He just needs to chill."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:341
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:342
 translate spanish sm1cs_am003_c1a91d47:
 
     # am "You know me. I've been practicing during all my free time."
     am "You know me. I've been practicing during all my free time."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:343
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:344
 translate spanish sm1cs_am003_50f0f82e:
 
     # am "Because I'm {i}with{/i} a guy from work right now."
     am "Because I'm {i}with{/i} a guy from work right now."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:346
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:347
 translate spanish sm1cs_am003_034c4511:
 
     # am "Shut up. Okay.{w} Okay, I don't know about that."
     am "Shut up. Okay.{w} Okay, I don't know about that."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:347
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:348
 translate spanish sm1cs_am003_454ffb73:
 
     # am "Yes, I will see you later. Bye."
     am "Yes, I will see you later. Bye."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:351
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:352
 translate spanish sm1cs_am003_7467dc14:
 
     # am "Pepper is one of my bandmates. We uh... we're going through a rough spot right now, and if someone on the band calls, you pretty much have to pick it up."
     am "Pepper is one of my bandmates. We uh... we're going through a rough spot right now, and if someone on the band calls, you pretty much have to pick it up."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:354
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:355
 translate spanish sm1cs_am003_3a38c822:
 
     # am "I didn't mean to get distracted. You came to me with a problem."
     am "I didn't mean to get distracted. You came to me with a problem."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:355
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:356
 translate spanish sm1cs_am003_8bba9938:
 
     # mc "That's cool. I didn't know you were even in a band. What do you play?"
     mc "That's cool. I didn't know you were even in a band. What do you play?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:358
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:359
 translate spanish sm1cs_am003_62ed9bfe:
 
     # am "Guitar. And I sing a bit too. I love it. But lately... lately, it's felt more like work than usual."
     am "Guitar. And I sing a bit too. I love it. But lately... lately, it's felt more like work than usual."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:361
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:362
 translate spanish sm1cs_am003_189dae3a:
 
     # mc "Like it's not fun anymore?"
     mc "Like it's not fun anymore?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:364
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:365
 translate spanish sm1cs_am003_b689b960:
 
     # am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
     am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:365
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:366
 translate spanish sm1cs_am003_5bd7e194:
 
     # am "*clears throat*"
     am "*clears throat*"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:366
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:367
 translate spanish sm1cs_am003_e9a611be:
 
     # am "Nobody has asked me out for coffee in a while."
     am "Nobody has asked me out for coffee in a while."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:369
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:370
 translate spanish sm1cs_am003_f1dc29f0:
 
     # mc "Uhhh, right."
     mc "Uhhh, right."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:372
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:373
 translate spanish sm1cs_am003_1409596f:
 
     # am "You wanted to ask me something?"
     am "You wanted to ask me something?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:375
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:376
 translate spanish sm1cs_am003_4f3ed993:
 
     # mc "I needed your help to figure out some code issues on this ticket."
     mc "I needed your help to figure out some code issues on this ticket."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:378
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:379
 translate spanish sm1cs_am003_fdb19f63:
 
     # am "Right. But... I thought you were trying to like... turn this into a date or something."
     am "Right. But... I thought you were trying to like... turn this into a date or something."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:381
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:382
 translate spanish sm1cs_am003_19fb34a9:
 
     # mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
     mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:384
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:385
 translate spanish sm1cs_am003_28df6c88:
 
     # am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
     am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:388
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:389
 translate spanish sm1cs_am003_85b15758:
 
     # am "You're probably too low-maintenance for me anyhow."
     am "You're probably too low-maintenance for me anyhow."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:391
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:392
 translate spanish sm1cs_am003_9e9df1f2:
 
     # mct "Ouch."
     mct "Ouch."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:397
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:398
 translate spanish sm1cs_am003_805458e5:
 
     # am "Listen. I'm not... {w}I tend to keep people at an arm's length."
     am "Listen. I'm not... {w}I tend to keep people at an arm's length."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:400
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:401
 translate spanish sm1cs_am003_de1cb490:
 
     # am "But... I see you now. You're being serious about getting better at coding, aren't you?"
     am "But... I see you now. You're being serious about getting better at coding, aren't you?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:403
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:404
 translate spanish sm1cs_am003_ebee4a17:
 
     # mc "Is that a big surprise?"
     mc "Is that a big surprise?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:406
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:407
 translate spanish sm1cs_am003_06015bec:
 
     # am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
     am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:409
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:410
 translate spanish sm1cs_am003_407e8a50:
 
     # mc "Trying to not suck all the time."
     mc "Trying to not suck all the time."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:412
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:413
 translate spanish sm1cs_am003_c35370b4:
 
     # am "Looks that way."
     am "Looks that way."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:413
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:414
 translate spanish sm1cs_am003_a1aafc40:
 
     # am "Okay. Let me load up the code, and we can find the problems."
     am "Okay. Let me load up the code, and we can find the problems."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:417
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:418
 translate spanish sm1cs_am003_970476b4:
 
     # am "Come over and sit besides me. You can't see the screen from there."
     am "Come over and sit besides me. You can't see the screen from there."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:424
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:425
 translate spanish sm1cs_am003_2689b56d:
 
     # mc "That's it?"
     mc "That's it?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:427
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:428
 translate spanish sm1cs_am003_a664589c:
 
     # am "That's it. Nice work."
     am "That's it. Nice work."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:430
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:431
 translate spanish sm1cs_am003_76bf5a03:
 
     # mc "It was mostly you."
     mc "It was mostly you."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:432
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:433
 translate spanish sm1cs_am003_d3a6be79:
 
     # am "Well yeah, but you still noticed that line forty-two was the root issue of why the first batch wasn't connecting to the second one."
     am "Well yeah, but you still noticed that line forty-two was the root issue of why the first batch wasn't connecting to the second one."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:435
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:436
 translate spanish sm1cs_am003_02c1f7dd:
 
     # mc "So I'm a elite-code-monkey now, right?"
     mc "So I'm a elite-code-monkey now, right?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:438
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:439
 translate spanish sm1cs_am003_caa31988:
 
     # am "Oh yeah. A future Wozniak."
     am "Oh yeah. A future Wozniak."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:442
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:443
 translate spanish sm1cs_am003_575001ec:
 
     # mc "That guy is super smart right?"
     mc "That guy is super smart right?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:446
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:447
 translate spanish sm1cs_am003_c9f42f7c:
 
     # am "Yes. Very smart."
     am "Yes. Very smart."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:452
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:453
 translate spanish sm1cs_am003_bf74be9b:
 
     # am "I need to get going. But I'll see you at work. Either at the park or back in the mines."
     am "I need to get going. But I'll see you at work. Either at the park or back in the mines."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:455
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:456
 translate spanish sm1cs_am003_cf1adef2:
 
     # mc "Yeah."
     mc "Yeah."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:472
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:469
+translate spanish sm1cs_am003_26668e99:
+
+    # am "Hey. If you're not busy sucking at night on Mondays or Thursdays my band is playing at a local bar near here."
+    am "Hey. If you're not busy sucking at night on Mondays or Thursdays my band is playing at a local bar near here."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:471
+translate spanish sm1cs_am003_26668e99_1:
+
+    # am "Hey. If you're not busy sucking at night on Mondays or Thursdays my band is playing at a local bar near here."
+    am "Hey. If you're not busy sucking at night on Mondays or Thursdays my band is playing at a local bar near here."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:474
 translate spanish sm1cs_am003_55bd932d:
 
     # mc "Are you inviting me to see you rock out?"
     mc "Are you inviting me to see you rock out?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:476
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:478
 translate spanish sm1cs_am003_e4c33493:
 
     # am "Yes. Or is that too weird?"
     am "Yes. Or is that too weird?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:479
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:481
 translate spanish sm1cs_am003_036946db:
 
     # mc "I'm down. I can check my calendar."
     mc "I'm down. I can check my calendar."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:485
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:484
+translate spanish sm1cs_am003_58dc05c7:
+
+    # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
+    am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:487
 translate spanish sm1cs_am003_d8bc74dd:
 
     # am "So... don't come if you're too straight-laced. Our music can be a lot for squares like you."
     am "So... don't come if you're too straight-laced. Our music can be a lot for squares like you."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:488
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:490
 translate spanish sm1cs_am003_4870abea:
 
     # mc "I'll make sure to wear laceless shoes."
     mc "I'll make sure to wear laceless shoes."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:491
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:493
 translate spanish sm1cs_am003_3641240c:
 
     # am "Good plan."
     am "Good plan."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:498
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:500
 translate spanish sm1cs_am003_1dc6c482:
 
     # mct "It's so hard to get a read on this girl. I mean it feels like there is something here."
     mct "It's so hard to get a read on this girl. I mean it feels like there is something here."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:499
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:501
 translate spanish sm1cs_am003_7680d563:
 
     # mct "Or was she just acting out because of the coffee and that call from Pepper."
     mct "Or was she just acting out because of the coffee and that call from Pepper."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:501
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:503
 translate spanish sm1cs_am003_f8966040:
 
     # mct "Even money she's about to get weird again and call me a name."
     mct "Even money she's about to get weird again and call me a name."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:508
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:510
 translate spanish sm1cs_am003_6d4c05f2:
 
     # am "I'm going now.{w} Bye."
     am "I'm going now.{w} Bye."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:509
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:511
 translate spanish sm1cs_am003_fdd5928f:
 
     # mc "Later April."
     mc "Later April."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:511
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:513
 translate spanish sm1cs_am003_62726b5a:
 
     # mct "And I thought Nari was weird. Maybe it's because of that call from her band."
     mct "And I thought Nari was weird. Maybe it's because of that call from her band."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:512
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:514
 translate spanish sm1cs_am003_8a979c2d:
 
     # mct "Sounds like there is some baggage attached to it."
     mct "Sounds like there is some baggage attached to it."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:514
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:516
 translate spanish sm1cs_am003_ef111773:
 
     # mct "Maybe I should check out the show. At least then both of us know it's totally not a work thing."
     mct "Maybe I should check out the show. At least then both of us know it's totally not a work thing."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:517
+translate spanish sm1cs_am003_a0a2a825:
+
+    # mct "Whatever this \"thing\" we're doing is..."
+    mct "Whatever this \"thing\" we're doing is..."
 
 translate spanish strings:
 

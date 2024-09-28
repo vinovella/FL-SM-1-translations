@@ -1,4 +1,4 @@
-# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:5
+﻿# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:5
 translate spanish scm1cs001_b054e0a7:
 
     # mct "Wow, it looks so different in here now."
@@ -100,6 +100,18 @@ translate spanish scm1cs001_4a0bf7b8:
     # cs "Okay?... Well, are you going to order something or not?"
     cs "Okay?... Well, are you going to order something or not?"
 
+# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:52
+translate spanish scm1cs001_649f6e26:
+
+    # mc "Yeah, yeah. I'll have a dark roast cofee and a..."
+    mc "Yeah, yeah. I'll have a dark roast cofee and a..."
+
+# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:53
+translate spanish scm1cs001_95ef3c92:
+
+    # mc "I guess just a medium coffee."
+    mc "I guess just a medium coffee."
+
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:56
 translate spanish scm1cs001_bedb708c:
 
@@ -154,19 +166,19 @@ translate spanish scm1cs001_1a7eca3c:
     # mc "Cool, then I'll have that."
     mc "Cool, then I'll have that."
 
-# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:78
+# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:79
 translate spanish scm1cs001_6d3aec5e:
 
     # cs "Great, one vento light roast and one dark roast coming up."
     cs "Great, one vento light roast and one dark roast coming up."
 
-# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:81
+# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:82
 translate spanish scm1cs001_e9721ff3:
 
     # mc "Thank you!"
     mc "Thank you!"
 
-# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:83
+# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:84
 translate spanish scm1cs001_24cdc073:
 
     # cs "Uh huh."

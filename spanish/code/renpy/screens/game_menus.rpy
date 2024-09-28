@@ -1,4 +1,4 @@
-translate spanish strings:
+﻿translate spanish strings:
 
     # game/code/renpy/screens/game_menus.rpy:128
     old "Back"

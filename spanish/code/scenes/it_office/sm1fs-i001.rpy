@@ -1,4 +1,4 @@
-# game/code/scenes/it_office/sm1fs-i001.rpy:24
+﻿# game/code/scenes/it_office/sm1fs-i001.rpy:24
 translate spanish sm1fs_i001_156d6c31:
 
     # ag "Hello! Are you looking to interview for Orbix?"

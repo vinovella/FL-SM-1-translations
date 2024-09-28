@@ -1,4 +1,4 @@
-# game/code/scenes/main_story/sm1ms011.rpy:23
+﻿# game/code/scenes/main_story/sm1ms011.rpy:23
 translate spanish sm1ms011_2634197c:
 
     # sy "What's up?"
@@ -64,25 +64,25 @@ translate spanish sm1ms011_6aa28226:
     # sy "*yawns* Phew. Let's talk about her another time. I'm already seeing 'Z's, hehe."
     sy "*yawns* Phew. Let's talk about her another time. I'm already seeing 'Z's, hehe."
 
-# game/code/scenes/main_story/sm1ms011.rpy:64
+# game/code/scenes/main_story/sm1ms011.rpy:62
 translate spanish sm1ms011_c0af0395:
 
     # sy "One more thing for you to keep in mind."
     sy "One more thing for you to keep in mind."
 
-# game/code/scenes/main_story/sm1ms011.rpy:65
+# game/code/scenes/main_story/sm1ms011.rpy:63
 translate spanish sm1ms011_bdfd5061:
 
     # sy "I've discovered some other {b}jobs{/b} in the city."
     sy "I've discovered some other {b}jobs{/b} in the city."
 
-# game/code/scenes/main_story/sm1ms011.rpy:68
+# game/code/scenes/main_story/sm1ms011.rpy:66
 translate spanish sm1ms011_59d24e9f:
 
     # sy "So if you want to expand your horizons, come check in with me."
     sy "So if you want to expand your horizons, come check in with me."
 
-# game/code/scenes/main_story/sm1ms011.rpy:70
+# game/code/scenes/main_story/sm1ms011.rpy:68
 translate spanish sm1ms011_75d0d357:
 
     # mc "Totally."

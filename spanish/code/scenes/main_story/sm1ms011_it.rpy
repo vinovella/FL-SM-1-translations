@@ -1,4 +1,4 @@
-# game/code/scenes/main_story/sm1ms011_it.rpy:6
+﻿# game/code/scenes/main_story/sm1ms011_it.rpy:6
 translate spanish sm1ms011_it_6e625941:
 
     # sy "Oh! Before I forget, I wanted to say I'm so proud of you for getting the IT job. You're really growing up, finally."

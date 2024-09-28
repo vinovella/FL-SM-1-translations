@@ -1,4 +1,4 @@
-# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:14
+﻿# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:14
 translate spanish sm1cs_dvh001_572c9daa:
 
     # dvh "Oh, it is just you."

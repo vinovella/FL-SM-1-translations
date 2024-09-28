@@ -1,4 +1,4 @@
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:16
+﻿# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:16
 translate spanish sm1cs_ag001_28ed110d:
 
     # ag "Hello, [mcname]."

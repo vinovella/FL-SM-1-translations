@@ -1,4 +1,4 @@
-# game/code/scenes/character_scenes/kv/sm1cs-kv000i.rpy:6
+﻿# game/code/scenes/character_scenes/kv/sm1cs-kv000i.rpy:6
 translate spanish sm1cs_kv000i_295df08f:
 
     # sy "Hey [mcname]! There's something I wanted to mention to you."

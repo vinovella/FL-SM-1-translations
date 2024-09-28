@@ -1,4 +1,4 @@
-# game/code/scenes/character_scenes/mh/sm1cs-mh002-00i.rpy:6
+﻿# game/code/scenes/character_scenes/mh/sm1cs-mh002-00i.rpy:6
 translate spanish sm1cs_mh002_00i_d44d5c85:
 
     # mc "Hey Stacy. Ready to go to Lyssa's office?"
@@ -15,4 +15,10 @@ translate spanish sm1cs_mh002_00i_d1cdbe69:
 
     # sy "Hmmm."
     sy "Hmmm."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh002-00i.rpy:14
+translate spanish sm1cs_mh002_00i_3aea7ff4:
+
+    # sy "Just give me a minute. Let me freshen up."
+    sy "Just give me a minute. Let me freshen up."
 

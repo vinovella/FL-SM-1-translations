@@ -1,4 +1,4 @@
-translate spanish strings:
+﻿translate spanish strings:
 
     # game/code/data/location_constants.rpy:31
     old "S&M Studio"
@@ -24,11 +24,15 @@ translate spanish strings:
     old "Photo Dojo"
     new "Photo Dojo"
 
-    # game/code/data/location_constants.rpy:98
+    # game/code/data/location_constants.rpy:103
     old "Theater"
     new "Theater"
 
-    # game/code/data/location_constants.rpy:133
+    # game/code/data/location_constants.rpy:146
     old "Starducks Café"
     new "Starducks Café"
+
+    # game/code/data/location_constants.rpy:155
+    old "Lysa's House"
+    new "Lysa's House"
 

@@ -1,4 +1,4 @@
-# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:15
+﻿# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:15
 translate spanish sm1cs_dc002_850e63b1:
 
     # mct "That lady cop said I should keep an eye out for that creep."
@@ -34,6 +34,12 @@ translate spanish sm1cs_dc002_a618d466:
     # mct "Shit. What do I do now? Do I call someone? Tackle him?"
     mct "Shit. What do I do now? Do I call someone? Tackle him?"
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:32
+translate spanish sm1cs_dc002_64d524a9:
+
+    # mct "What if he isn't wearing clothes under that trench coat? Or has a knife or something?"
+    mct "What if he isn't wearing clothes under that trench coat? Or has a knife or something?"
+
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:35
 translate spanish sm1cs_dc002_1e573032:
 
@@ -46,11 +52,23 @@ translate spanish sm1cs_dc002_6351a2c6:
     # mct "Okay, do I sneak up on him? Do I charge? Maybe like a full on bull rush-"
     mct "Okay, do I sneak up on him? Do I charge? Maybe like a full on bull rush-"
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:41
+translate spanish sm1cs_dc002_14d1bad1:
+
+    # "???" "Freeze, dirtbag."
+    "???" "Freeze, dirtbag."
+
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:44
 translate spanish sm1cs_dc002_82ff8fce:
 
     # "???" "Now turn around. {i}Slowly.{/i}"
     "???" "Now turn around. {i}Slowly.{/i}"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:46
+translate spanish sm1cs_dc002_a12f03fe:
+
+    # mct "Please, don't tell me I have a purty mouth. Please don't tell me-"
+    mct "Please, don't tell me I have a purty mouth. Please don't tell me-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:51
 translate spanish sm1cs_dc002_459c1e14:
@@ -214,6 +232,12 @@ translate spanish sm1cs_dc002_410fae19:
     # dc "Shhh, we're getting close."
     dc "Shhh, we're getting close."
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:136
+translate spanish sm1cs_dc002_062da632:
+
+    # mc "Hey, I've been meaning to ask; why is this guy creeping around the park?"
+    mc "Hey, I've been meaning to ask; why is this guy creeping around the park?"
+
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:138
 translate spanish sm1cs_dc002_9d2a400c:
 
@@ -225,6 +249,12 @@ translate spanish sm1cs_dc002_d1da0ef7:
 
     # dc "Now's our chance!"
     dc "Now's our chance!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:145
+translate spanish sm1cs_dc002_de94ba4c:
+
+    # dc "FREEZE, DIRTBAG!"
+    dc "FREEZE, DIRTBAG!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:147
 translate spanish sm1cs_dc002_7a06a51d:
@@ -286,6 +316,12 @@ translate spanish sm1cs_dc002_d7be5af5:
     # mc "Did ya'... Get him?"
     mc "Did ya'... Get him?"
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:243
+translate spanish sm1cs_dc002_0631f1bc:
+
+    # dc "No... The dirtbag is slipperier than I thought he was. Wiggled his way through a fence that I wouldn't fit through."
+    dc "No... The dirtbag is slipperier than I thought he was. Wiggled his way through a fence that I wouldn't fit through."
+
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:247
 translate spanish sm1cs_dc002_0a15e4e9:
 
@@ -303,6 +339,12 @@ translate spanish sm1cs_dc002_cb8870bc:
 
     # mc "Yeah! I won't rest... Until the Midnight Creep is caught!"
     mc "Yeah! I won't rest... Until the Midnight Creep is caught!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:256
+translate spanish sm1cs_dc002_05c85b7e:
+
+    # dc "Midnight Creep, I like that."
+    dc "Midnight Creep, I like that."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:260
 translate spanish sm1cs_dc002_fe573673:
@@ -382,11 +424,23 @@ translate spanish sm1cs_dc002_36bede1d:
     # mct "Huh... I didn't think that would get that kind of a reaction..."
     mct "Huh... I didn't think that would get that kind of a reaction..."
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:302
+translate spanish sm1cs_dc002_7c4c00b1:
+
+    # mc "Sorry, lame joke. But I do have a degree in{w} joke-ology!"
+    mc "Sorry, lame joke. But I do have a degree in{w} joke-ology!"
+
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:305
 translate spanish sm1cs_dc002_9844bf2c:
 
     # dc "That's pretty good!"
     dc "That's pretty good!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:308
+translate spanish sm1cs_dc002_d67cac83:
+
+    # mc "Thanks! And thank you for the banana. Seriously, I thought that cramp was going to be the end of me."
+    mc "Thanks! And thank you for the banana. Seriously, I thought that cramp was going to be the end of me."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:311
 translate spanish sm1cs_dc002_f84d5712:
@@ -405,6 +459,12 @@ translate spanish sm1cs_dc002_f5cf6530:
 
     # mc "As long as you teach me your cardio routine!"
     mc "As long as you teach me your cardio routine!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:320
+translate spanish sm1cs_dc002_598df679:
+
+    # dc "And listen, sorry for scaring you earlier.{w} And calling you a dirtbag."
+    dc "And listen, sorry for scaring you earlier.{w} And calling you a dirtbag."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:322
 translate spanish sm1cs_dc002_fe964b05:
@@ -435,6 +495,12 @@ translate spanish sm1cs_dc002_0dad9679:
 
     # dc "But I should get home. Technically I'm not on duty right now."
     dc "But I should get home. Technically I'm not on duty right now."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:332
+translate spanish sm1cs_dc002_079aeb9e:
+
+    # dc "But you can always find me on the park beat. Don't be a stranger!"
+    dc "But you can always find me on the park beat. Don't be a stranger!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:335
 translate spanish sm1cs_dc002_450bc632:

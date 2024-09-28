@@ -1,4 +1,4 @@
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:18
+﻿# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:18
 translate spanish sm1cs_ns001_503308a4:
 
     # ns "I'm hungry."

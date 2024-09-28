@@ -1,4 +1,4 @@
-# game/code/scenes/theatre/tl/sm1cs-tl001i.rpy:6
+﻿# game/code/scenes/theatre/tl/sm1cs-tl001i.rpy:6
 translate spanish sm1cs_tl001i_c7a0fb24:
 
     # mc "Hey, Taisia. I wanted to talk to you-"

@@ -1,4 +1,4 @@
-translate spanish strings:
+﻿translate spanish strings:
 
     # game/code/minigames/nonogram/nonogram_game.rpy:57
     old "Show Minigame help"

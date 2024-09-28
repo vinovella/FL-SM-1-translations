@@ -1,4 +1,4 @@
-# game/code/scenes/main_story/sm1ms011-01i.rpy:8
+﻿# game/code/scenes/main_story/sm1ms011-01i.rpy:8
 translate spanish sm1ms011_01i_3e8677b5:
 
     # sy "Hey there."

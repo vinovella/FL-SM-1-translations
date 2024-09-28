@@ -1,4 +1,4 @@
-# game/code/scenes/it_office/sm1fs-i004.rpy:13
+﻿# game/code/scenes/it_office/sm1fs-i004.rpy:13
 translate spanish sm1fs_i004_7b0d9720:
 
     # cw "[mcname], meeting in the conference room in five."

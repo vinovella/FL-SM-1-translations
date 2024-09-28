@@ -1,4 +1,4 @@
-# game/code/scenes/theatre/km/sm1cs-km001i.rpy:6
+﻿# game/code/scenes/theatre/km/sm1cs-km001i.rpy:6
 translate spanish sm1cs_km001i_0a710bfb:
 
     # mc "Hey Kellie."

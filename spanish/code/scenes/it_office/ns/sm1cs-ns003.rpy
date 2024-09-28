@@ -1,4 +1,4 @@
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:11
+﻿# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:11
 translate spanish sm1cs_ns003_0c054906:
 
     # mc "Phew."

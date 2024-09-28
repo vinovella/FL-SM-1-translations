@@ -1,4 +1,4 @@
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:23
+﻿# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:23
 translate spanish sm1cs_vs001_f7f006ae:
 
     # mc "Hey there-"

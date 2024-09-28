@@ -1,4 +1,4 @@
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:26
+﻿# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:26
 translate spanish q_inter_nr_1_6155afa5:
 
     # nr "Working hard or hardly working?"

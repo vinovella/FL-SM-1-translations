@@ -1,4 +1,4 @@
-# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:21
+﻿# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:21
 translate spanish q_inter_vs_1_f4a222ef:
 
     # mc "Hey, Veronica!"

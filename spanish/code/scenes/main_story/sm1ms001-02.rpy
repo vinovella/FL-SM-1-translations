@@ -1,4 +1,4 @@
-# game/code/scenes/main_story/sm1ms001-02.rpy:10
+﻿# game/code/scenes/main_story/sm1ms001-02.rpy:10
 translate spanish sm1ms001_02_1289ad51:
 
     # mct "Man, what a day. This bed feels so good."

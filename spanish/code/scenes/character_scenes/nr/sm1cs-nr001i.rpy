@@ -1,4 +1,4 @@
-# game/code/scenes/character_scenes/nr/sm1cs-nr001i.rpy:6
+﻿# game/code/scenes/character_scenes/nr/sm1cs-nr001i.rpy:6
 translate spanish sm1cs_nr001i_6c46623c:
 
     # nr "Welcome to Wurst Delivery. How many sausages you need, son?"

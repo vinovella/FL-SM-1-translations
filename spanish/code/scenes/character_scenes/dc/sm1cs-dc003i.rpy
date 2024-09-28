@@ -1,4 +1,4 @@
-# game/code/scenes/character_scenes/dc/sm1cs-dc003i.rpy:6
+﻿# game/code/scenes/character_scenes/dc/sm1cs-dc003i.rpy:6
 translate spanish sm1cs_dc003i_d81c4b26:
 
     # dc "[mcname]! I was hoping to bump into you!"

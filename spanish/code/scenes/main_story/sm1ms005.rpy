@@ -1,4 +1,4 @@
-# game/code/scenes/main_story/sm1ms005.rpy:61
+﻿# game/code/scenes/main_story/sm1ms005.rpy:61
 translate spanish sm1ms005_55c98361:
 
     # mc "Oooo! Is that the extra butter popcorn?"

@@ -1,4 +1,4 @@
-# game/code/data/quick_interactions/Theater/q-inter-km.rpy:17
+﻿# game/code/data/quick_interactions/Theater/q-inter-km.rpy:17
 translate spanish q_inter_km_1_3836c925:
 
     # km "I hope you are going to work hard around here. The theater isn't the place for people who slack off or get distracted."

@@ -1,4 +1,4 @@
-translate spanish strings:
+﻿translate spanish strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
@@ -96,35 +96,39 @@ translate spanish strings:
     old "Self-Voicing"
     new "Self-Voicing"
 
-    # renpy/common/00accessibility.rpy:198
+    # renpy/common/00accessibility.rpy:197
+    old "Self-voicing support is limited when using a touch screen."
+    new "Self-voicing support is limited when using a touch screen."
+
+    # renpy/common/00accessibility.rpy:201
     old "Off"
     new "Off"
 
-    # renpy/common/00accessibility.rpy:202
+    # renpy/common/00accessibility.rpy:205
     old "Text-to-speech"
     new "Text-to-speech"
 
-    # renpy/common/00accessibility.rpy:206
+    # renpy/common/00accessibility.rpy:209
     old "Clipboard"
     new "Clipboard"
 
-    # renpy/common/00accessibility.rpy:210
+    # renpy/common/00accessibility.rpy:213
     old "Debug"
     new "Debug"
 
-    # renpy/common/00accessibility.rpy:216
+    # renpy/common/00accessibility.rpy:219
     old "Voice Volume"
     new "Voice Volume"
 
-    # renpy/common/00accessibility.rpy:224
+    # renpy/common/00accessibility.rpy:227
     old "Self-Voicing Volume Drop"
     new "Self-Voicing Volume Drop"
 
-    # renpy/common/00accessibility.rpy:235
+    # renpy/common/00accessibility.rpy:236
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
 
-    # renpy/common/00accessibility.rpy:240
+    # renpy/common/00accessibility.rpy:241
     old "Return"
     new "Return"
 
@@ -532,7 +536,7 @@ translate spanish strings:
     old "Skip Mode"
     new "Skip Mode"
 
-    # renpy/common/00library.rpy:317
+    # renpy/common/00library.rpy:335
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
     new "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
 
@@ -1144,75 +1148,75 @@ translate spanish strings:
     old "Back (B)"
     new "Back (B)"
 
-    # renpy/common/_errorhandling.rpym:662
+    # renpy/common/_errorhandling.rpym:675
     old "Open"
     new "Open"
 
-    # renpy/common/_errorhandling.rpym:664
+    # renpy/common/_errorhandling.rpym:677
     old "Opens the traceback.txt file in a text editor."
     new "Opens the traceback.txt file in a text editor."
 
-    # renpy/common/_errorhandling.rpym:666
+    # renpy/common/_errorhandling.rpym:679
     old "Copy BBCode"
     new "Copy BBCode"
 
-    # renpy/common/_errorhandling.rpym:668
+    # renpy/common/_errorhandling.rpym:681
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
     new "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
 
-    # renpy/common/_errorhandling.rpym:670
+    # renpy/common/_errorhandling.rpym:683
     old "Copy Markdown"
     new "Copy Markdown"
 
-    # renpy/common/_errorhandling.rpym:672
+    # renpy/common/_errorhandling.rpym:685
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
     new "Copies the traceback.txt file to the clipboard as Markdown for Discord."
 
-    # renpy/common/_errorhandling.rpym:703
+    # renpy/common/_errorhandling.rpym:716
     old "An exception has occurred."
     new "An exception has occurred."
 
-    # renpy/common/_errorhandling.rpym:726
+    # renpy/common/_errorhandling.rpym:739
     old "Rollback"
     new "Rollback"
 
-    # renpy/common/_errorhandling.rpym:728
+    # renpy/common/_errorhandling.rpym:741
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
     new "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
 
-    # renpy/common/_errorhandling.rpym:731
+    # renpy/common/_errorhandling.rpym:744
     old "Ignore"
     new "Ignore"
 
-    # renpy/common/_errorhandling.rpym:735
+    # renpy/common/_errorhandling.rpym:748
     old "Ignores the exception, allowing you to continue."
     new "Ignores the exception, allowing you to continue."
 
-    # renpy/common/_errorhandling.rpym:737
+    # renpy/common/_errorhandling.rpym:750
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
     new "Ignores the exception, allowing you to continue. This often leads to additional errors."
 
-    # renpy/common/_errorhandling.rpym:741
+    # renpy/common/_errorhandling.rpym:754
     old "Reload"
     new "Reload"
 
-    # renpy/common/_errorhandling.rpym:743
+    # renpy/common/_errorhandling.rpym:756
     old "Reloads the game from disk, saving and restoring game state if possible."
     new "Reloads the game from disk, saving and restoring game state if possible."
 
-    # renpy/common/_errorhandling.rpym:746
+    # renpy/common/_errorhandling.rpym:759
     old "Console"
     new "Console"
 
-    # renpy/common/_errorhandling.rpym:748
+    # renpy/common/_errorhandling.rpym:761
     old "Opens a console to allow debugging the problem."
     new "Opens a console to allow debugging the problem."
 
-    # renpy/common/_errorhandling.rpym:761
+    # renpy/common/_errorhandling.rpym:774
     old "Quits the game."
     new "Quits the game."
 
-    # renpy/common/_errorhandling.rpym:782
+    # renpy/common/_errorhandling.rpym:795
     old "Parsing the script failed."
     new "Parsing the script failed."
 
