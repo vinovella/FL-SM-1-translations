@@ -118,12 +118,6 @@ translate spanish sm1cs_vs001_84aa4669:
     # mc "Uh, I hope so. We talked quite a bit after I screwed up my audition."
     mc "Uh, I hope so. We talked quite a bit after I screwed up my audition."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:84
-translate spanish sm1cs_vs001_8475cf40:
-
-    # vs "Yeah, but that's not what I'm talking about. I'm talking about how you are the guy who brought down Fetish Locator."
-    vs "Yeah, but that's not what I'm talking about. I'm talking about how you are the guy who brought down Fetish Locator."
-
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:85
 translate spanish sm1cs_vs001_7604ba8b:
 
@@ -196,35 +190,11 @@ translate spanish sm1cs_vs001_141d5cfe:
     # mc "Um... why did you bring me over here?"
     mc "Um... why did you bring me over here?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:135
-translate spanish sm1cs_vs001_260b4ea2:
-
-    # vs "I thought it would be better with some privacy, felt like you were worried other people would hear us."
-    vs "I thought it would be better with some privacy, felt like you were worried other people would hear us."
-
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:138
-translate spanish sm1cs_vs001_a7e11437:
-
-    # mc "Well I'm a little worried you already know about my past."
-    mc "Well I'm a little worried you already know about my past."
-
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:141
 translate spanish sm1cs_vs001_697d14fc:
 
     # vs "What? You don't have to worry about that with me, [mcname]."
     vs "What? You don't have to worry about that with me, [mcname]."
-
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:142
-translate spanish sm1cs_vs001_8ad6bd30:
-
-    # vs "But I can't resist some hot gossip."
-    vs "But I can't resist some hot gossip."
-
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:147
-translate spanish sm1cs_vs001_f318484d:
-
-    # vs "So is it true? Lydia, twisted you around her finger and then shattered your heart into like a million pieces."
-    vs "So is it true? Lydia, twisted you around her finger and then shattered your heart into like a million pieces."
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:150
 translate spanish sm1cs_vs001_a90e6f6b:
@@ -376,18 +346,6 @@ translate spanish sm1cs_vs001_50ea6126:
     # vs "Hehe. Picked up on that, did you?"
     vs "Hehe. Picked up on that, did you?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:211
-translate spanish sm1cs_vs001_6270709f:
-
-    # vs "Well, if there is something I'll never apologize for, it is my love of the theater."
-    vs "Well, if there is something I'll never apologize for, it is my love of the theater."
-
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:212
-translate spanish sm1cs_vs001_745586fe:
-
-    # vs "Every show, we get to become someone new, go somewhere exotic, learn something about ourselves that we never expected."
-    vs "Every show, we get to become someone new, go somewhere exotic, learn something about ourselves that we never expected."
-
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:213
 translate spanish sm1cs_vs001_fe83732e:
 
@@ -412,23 +370,11 @@ translate spanish sm1cs_vs001_9bd54f57:
     # vs "Your life could have turned into a real-world tragedy, and now you will carry that weight with you forever."
     vs "Your life could have turned into a real-world tragedy, and now you will carry that weight with you forever."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:226
-translate spanish sm1cs_vs001_cddf7c82:
-
-    # mc "Guess I've been stressing more than before."
-    mc "Guess I've been stressing more than before."
-
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:229
 translate spanish sm1cs_vs001_509e8a68:
 
     # vs "Hehehe. No silly. It's not real weight. You look fine."
     vs "Hehehe. No silly. It's not real weight. You look fine."
-
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:230
-translate spanish sm1cs_vs001_c8c001a4:
-
-    # vs "Very sturdy if I do say so myself."
-    vs "Very sturdy if I do say so myself."
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:231
 translate spanish sm1cs_vs001_5514b42b:

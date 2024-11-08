@@ -154,12 +154,6 @@ translate spanish sm1cs_ns002_e8da6e78:
     # ns "In here."
     ns "In here."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:114
-translate spanish sm1cs_ns002_3f6a127f:
-
-    # ns "Are you alone."
-    ns "Are you alone."
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:117
 translate spanish sm1cs_ns002_46bffa70:
 
@@ -418,12 +412,6 @@ translate spanish sm1cs_ns002_e918537a_1:
     # ns "This is going to be fine."
     ns "This is going to be fine."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:247
-translate spanish sm1cs_ns002_0fd02cb3:
-
-    # mc "Phew. Okay, got your ID card. What's next."
-    mc "Phew. Okay, got your ID card. What's next."
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:250
 translate spanish sm1cs_ns002_b98f7a28:
 
@@ -645,12 +633,6 @@ translate spanish sm1cs_ns002_14603a75:
 
     # mc "Listen, it's not all that bad. Later, we're totally going to laugh at this."
     mc "Listen, it's not all that bad. Later, we're totally going to laugh at this."
-
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:371
-translate spanish sm1cs_ns002_a19c49d3:
-
-    # ns "No we won't. but I'm sure you'll laugh about it with others."
-    ns "No we won't. but I'm sure you'll laugh about it with others."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:374
 translate spanish sm1cs_ns002_441e7eef:

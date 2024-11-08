@@ -16,12 +16,6 @@ translate spanish sm1cs_ns004_a70c5777:
     # mc "Hey Nari."
     mc "Hey Nari."
 
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:20
-translate spanish sm1cs_ns004_0d8523f9:
-
-    # ns "Is your financial future secure [mcname]?"
-    ns "Is your financial future secure [mcname]?"
-
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:23
 translate spanish sm1cs_ns004_11455b53:
 
@@ -57,12 +51,6 @@ translate spanish sm1cs_ns004_e5571b4c:
 
     # mc "Well I... I'm working very hard on making it secure, Nari."
     mc "Well I... I'm working very hard on making it secure, Nari."
-
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:36
-translate spanish sm1cs_ns004_20b6b6a6:
-
-    # ns "This is serious [mcname]. What does your savings account look like?"
-    ns "This is serious [mcname]. What does your savings account look like?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:38
 translate spanish sm1cs_ns004_09fc8196:
