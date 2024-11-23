@@ -118,6 +118,12 @@ translate spanish sm1cs_vs001_84aa4669:
     # mc "Uh, I hope so. We talked quite a bit after I screwed up my audition."
     mc "Uh, I hope so. We talked quite a bit after I screwed up my audition."
 
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:84
+translate spanish sm1cs_vs001_1fee883d:
+
+    # vs "Yeah, but that's not what I'm talking about.{w} I'm talking about how you are the guy who brought down Fetish Locator."
+    vs "Yeah, but that's not what I'm talking about.{w} I'm talking about how you are the guy who brought down Fetish Locator."
+
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:85
 translate spanish sm1cs_vs001_7604ba8b:
 
@@ -167,288 +173,348 @@ translate spanish sm1cs_vs001_00ada2bc:
     vs "This more comfortable?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:123
+translate spanish sm1cs_vs001_4c8dfac2:
+
+    # mc "It's great."
+    mc "It's great."
+
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:124
 translate spanish sm1cs_vs001_15d6b2dd:
 
     # mc "I imagine a smart girl like you could use this place for all sorts of mischief."
     mc "I imagine a smart girl like you could use this place for all sorts of mischief."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:126
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:127
 translate spanish sm1cs_vs001_132d4871:
 
     # vs "Hehehe. If these walls could talk."
     vs "Hehehe. If these walls could talk."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:127
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:128
 translate spanish sm1cs_vs001_e13d0981:
 
     # vs "But I still want to learn more about your story, [mcname]."
     vs "But I still want to learn more about your story, [mcname]."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:132
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:133
 translate spanish sm1cs_vs001_141d5cfe:
 
     # mc "Um... why did you bring me over here?"
     mc "Um... why did you bring me over here?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:141
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:136
+translate spanish sm1cs_vs001_cbec9117:
+
+    # vs "I thought it would be better with some privacy. It felt like you were worried other people might hear us."
+    vs "I thought it would be better with some privacy. It felt like you were worried other people might hear us."
+
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:139
+translate spanish sm1cs_vs001_2da82f4a:
+
+    # mc "Smart. But I'm still worried that {i}you{/i} already know about my past."
+    mc "Smart. But I'm still worried that {i}you{/i} already know about my past."
+
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:142
 translate spanish sm1cs_vs001_697d14fc:
 
     # vs "What? You don't have to worry about that with me, [mcname]."
     vs "What? You don't have to worry about that with me, [mcname]."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:150
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:143
+translate spanish sm1cs_vs001_45f0a713:
+
+    # vs "But I can't resist digging into some hot gossip."
+    vs "But I can't resist digging into some hot gossip."
+
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:148
+translate spanish sm1cs_vs001_fc873324:
+
+    # vs "So is it true? Lydia twisted you around her finger and then shattered your heart into like a million pieces."
+    vs "So is it true? Lydia twisted you around her finger and then shattered your heart into like a million pieces."
+
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:151
 translate spanish sm1cs_vs001_a90e6f6b:
 
     # mc "Twisted me around her finger? Listen, Veronica, this isn't really the-"
     mc "Twisted me around her finger? Listen, Veronica, this isn't really the-"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:153
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:154
 translate spanish sm1cs_vs001_748f6054:
 
     # vs "It's okay. This is a totally safe place, [mcname]. You don't have to say anything."
     vs "It's okay. This is a totally safe place, [mcname]. You don't have to say anything."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:156
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:157
 translate spanish sm1cs_vs001_0eacc45c:
 
     # mc "What? I don't... how did you figure out it was me anyhow?"
     mc "What? I don't... how did you figure out it was me anyhow?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:159
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:160
 translate spanish sm1cs_vs001_5101b0ad:
 
     # vs "Well, I didn't know for sure until you said it was you."
     vs "Well, I didn't know for sure until you said it was you."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:160
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:161
 translate spanish sm1cs_vs001_8d9d679a:
 
     # vs "But I got suspicious when we first met because I recognized you from campus."
     vs "But I got suspicious when we first met because I recognized you from campus."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:163
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:164
 translate spanish sm1cs_vs001_da4d7b85:
 
     # mc "You were a student at the college?"
     mc "You were a student at the college?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:166
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:167
 translate spanish sm1cs_vs001_3a2b0f96:
 
     # vs "Still am. Aren't you still taking classes?"
     vs "Still am. Aren't you still taking classes?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:169
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:170
 translate spanish sm1cs_vs001_80d150c4:
 
     # mc "Nah. I uh... I found something else to put my focus on."
     mc "Nah. I uh... I found something else to put my focus on."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:172
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:173
 translate spanish sm1cs_vs001_8818715f:
 
     # vs "Oh. Is it because of Lydia?"
     vs "Oh. Is it because of Lydia?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:175
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:176
 translate spanish sm1cs_vs001_140bb3a6:
 
     # mc "Why do you say that?"
     mc "Why do you say that?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:178
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:179
 translate spanish sm1cs_vs001_0915374d:
 
     # vs "Well, I can just imagine how that felt..."
     vs "Well, I can just imagine how that felt..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:179
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:180
 translate spanish sm1cs_vs001_9ccbe19c:
 
     # vs "The woman who was the apple of your eye turned out to be a snake whispering poison in your ears."
     vs "The woman who was the apple of your eye turned out to be a snake whispering poison in your ears."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:180
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:181
 translate spanish sm1cs_vs001_fc4bec49:
 
     # vs "You are so{w} lucky."
     vs "You are so{w} lucky."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:185
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:186
 translate spanish sm1cs_vs001_47bca6f2:
 
     # mc "Veronica, just stop. You don't know what you're talking about."
     mc "Veronica, just stop. You don't know what you're talking about."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:188
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:189
 translate spanish sm1cs_vs001_2bf45ce4:
 
     # vs "Oh. I'm... I'm sorry, [mcname]."
     vs "Oh. I'm... I'm sorry, [mcname]."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:189
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:190
 translate spanish sm1cs_vs001_69da281a:
 
     # vs "Hearing about the story, it got me so excited."
     vs "Hearing about the story, it got me so excited."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:190
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:191
 translate spanish sm1cs_vs001_352f3f19:
 
     # vs "I mean what else has ever happened in this town that even comes close to the Fetish Locator Story."
     vs "I mean what else has ever happened in this town that even comes close to the Fetish Locator Story."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:191
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:192
 translate spanish sm1cs_vs001_df953b2e:
 
     # vs "But it was-"
     vs "But it was-"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:194
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:195
 translate spanish sm1cs_vs001_c3e75512:
 
     # mc "-my life"
     mc "-my life"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:197
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:198
 translate spanish sm1cs_vs001_629bb7f4:
 
     # vs "Big yikes."
     vs "Big yikes."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:200
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:201
 translate spanish sm1cs_vs001_bf012f78:
 
     # mc "Don't worry about it, Veronica. It's strange, but it's almost nice to talk to someone about it."
     mc "Don't worry about it, Veronica. It's strange, but it's almost nice to talk to someone about it."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:201
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:202
 translate spanish sm1cs_vs001_eec2bcc0:
 
     # mc "But maybe we can talk more about it when we've gotten to know each other better."
     mc "But maybe we can talk more about it when we've gotten to know each other better."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:204
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:205
 translate spanish sm1cs_vs001_ac99e479:
 
     # vs "Oh, of course. Absolutely. Thanks for being cool about it. Sometimes I just get carried away."
     vs "Oh, of course. Absolutely. Thanks for being cool about it. Sometimes I just get carried away."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:207
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:208
 translate spanish sm1cs_vs001_9de865a1:
 
     # mc "I can see why you're the lead. No one else has your passion."
     mc "I can see why you're the lead. No one else has your passion."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:210
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:211
 translate spanish sm1cs_vs001_50ea6126:
 
     # vs "Hehe. Picked up on that, did you?"
     vs "Hehe. Picked up on that, did you?"
 
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:212
+translate spanish sm1cs_vs001_55e3292d:
+
+    # vs "Well, if there is something I'll never apologize for, it is my energy."
+    vs "Well, if there is something I'll never apologize for, it is my energy."
+
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:213
+translate spanish sm1cs_vs001_138e3534:
+
+    # vs "I love putting it to good use in a show."
+    vs "I love putting it to good use in a show."
+
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:214
+translate spanish sm1cs_vs001_7907039e:
+
+    # vs "Every play lets you become someone new, go somewhere exotic, learn something about ourselves that we never expected."
+    vs "Every play lets you become someone new, go somewhere exotic, learn something about ourselves that we never expected."
+
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:215
 translate spanish sm1cs_vs001_fe83732e:
 
     # vs "You'll understand once you're on stage with us."
     vs "You'll understand once you're on stage with us."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:219
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:221
 translate spanish sm1cs_vs001_5d3d609b:
 
     # mc "I'm so... lucky?"
     mc "I'm so... lucky?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:222
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:224
 translate spanish sm1cs_vs001_68d75a86:
 
     # vs "Totally! You've experienced the pain of actual, {b}real{/b}, betrayal. So few actors have experienced the kind of situations they take on."
     vs "Totally! You've experienced the pain of actual, {b}real{/b}, betrayal. So few actors have experienced the kind of situations they take on."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:223
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:225
 translate spanish sm1cs_vs001_9bd54f57:
 
     # vs "Your life could have turned into a real-world tragedy, and now you will carry that weight with you forever."
     vs "Your life could have turned into a real-world tragedy, and now you will carry that weight with you forever."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:229
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:228
+translate spanish sm1cs_vs001_2074a5c7:
+
+    # mc "Guess I've been stress-eating more than before."
+    mc "Guess I've been stress-eating more than before."
+
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:231
 translate spanish sm1cs_vs001_509e8a68:
 
     # vs "Hehehe. No silly. It's not real weight. You look fine."
     vs "Hehehe. No silly. It's not real weight. You look fine."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:231
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:232
+translate spanish sm1cs_vs001_c531db63:
+
+    # vs "Tall and sturdy and a little handsome."
+    vs "Tall and sturdy and a little handsome."
+
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:233
 translate spanish sm1cs_vs001_5514b42b:
 
     # vs "No, what I mean is that this weight is inside of you."
     vs "No, what I mean is that this weight is inside of you."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:234
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:236
 translate spanish sm1cs_vs001_04ac9c1b:
 
     # vs "And one day when you're on that stage, it's going to come out of you like lightning from a bottle."
     vs "And one day when you're on that stage, it's going to come out of you like lightning from a bottle."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:235
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:237
 translate spanish sm1cs_vs001_603aafb5:
 
     # vs "I just know you'll blow the tops off everyone in the audience."
     vs "I just know you'll blow the tops off everyone in the audience."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:236
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:238
 translate spanish sm1cs_vs001_df750a9a:
 
     # vs "The theater has power, [mcname]. And once you're on stage, I think you're going to show people something special."
     vs "The theater has power, [mcname]. And once you're on stage, I think you're going to show people something special."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:241
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:243
 translate spanish sm1cs_vs001_93a211e1:
 
     # vs "That's still your plan, right? You don't want to stay a stagehand forever, right?"
     vs "That's still your plan, right? You don't want to stay a stagehand forever, right?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:244
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:246
 translate spanish sm1cs_vs001_73d60dca:
 
     # mc "Getting on stage is definitely one of my goals."
     mc "Getting on stage is definitely one of my goals."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:247
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:249
 translate spanish sm1cs_vs001_38e4c4b1:
 
     # vs "Great. Then I'm your girl. If you ever need some pointers or want someone to give you notes on your next interview piece, give me a ring."
     vs "Great. Then I'm your girl. If you ever need some pointers or want someone to give you notes on your next interview piece, give me a ring."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:248
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:250
 translate spanish sm1cs_vs001_94150bc4:
 
     # vs "Give me your phone."
     vs "Give me your phone."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:255
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:257
 translate spanish sm1cs_vs001_3ecaa29e:
 
     # vs "I put myself in as Bubblegum so it's easy to find me."
     vs "I put myself in as Bubblegum so it's easy to find me."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:258
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:260
 translate spanish sm1cs_vs001_da224165:
 
     # vs "And if you ever need to talk about Lydia or whatever... feel free."
     vs "And if you ever need to talk about Lydia or whatever... feel free."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:262
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:264
 translate spanish sm1cs_vs001_ded64090:
 
     # mc "Sure. Maybe one day."
     mc "Sure. Maybe one day."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:265
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:267
 translate spanish sm1cs_vs001_9afb2679:
 
     # vs "Great. Well, I should probably get back to practicing with Kellie."
     vs "Great. Well, I should probably get back to practicing with Kellie."
 
-# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:269
+# game/code/scenes/theatre/vs/sm1cs-vs001.rpy:271
 translate spanish sm1cs_vs001_79f3527d:
 
     # vs "See you next time, [mcname]."
@@ -460,11 +526,11 @@ translate spanish strings:
     old "Worried"
     new "Worried"
 
-    # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:181
+    # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:182
     old "You don't know what you're talking about"
     new "You don't know what you're talking about"
 
-    # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:181
+    # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:182
     old "I'm so lucky?"
     new "I'm so lucky?"
 

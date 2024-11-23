@@ -1,74 +1,74 @@
 ﻿translate spanish strings:
 
-    # game/code/data/constants.rpy:270
+    # game/code/data/constants.rpy:296
     old "Animals"
     new "Animals"
 
-    # game/code/data/constants.rpy:271
+    # game/code/data/constants.rpy:297
     old "Art"
     new "Art"
 
-    # game/code/data/constants.rpy:272
+    # game/code/data/constants.rpy:298
     old "Automobiles"
     new "Automobiles"
 
-    # game/code/data/constants.rpy:273
+    # game/code/data/constants.rpy:299
     old "Collecting"
     new "Collecting"
 
-    # game/code/data/constants.rpy:274
+    # game/code/data/constants.rpy:300
     old "Fashion"
     new "Fashion"
 
-    # game/code/data/constants.rpy:275
+    # game/code/data/constants.rpy:301
     old "Film and TV"
     new "Film and TV"
 
-    # game/code/data/constants.rpy:276
+    # game/code/data/constants.rpy:302
     old "Finance"
     new "Finance"
 
-    # game/code/data/constants.rpy:277
+    # game/code/data/constants.rpy:303
     old "Fitness"
     new "Fitness"
 
-    # game/code/data/constants.rpy:278
+    # game/code/data/constants.rpy:304
     old "Food and Drink"
     new "Food and Drink"
 
-    # game/code/data/constants.rpy:279
+    # game/code/data/constants.rpy:305
     old "Gaming"
     new "Gaming"
 
-    # game/code/data/constants.rpy:280
+    # game/code/data/constants.rpy:306
     old "Gardening"
     new "Gardening"
 
-    # game/code/data/constants.rpy:281
+    # game/code/data/constants.rpy:307
     old "Literature"
     new "Literature"
 
-    # game/code/data/constants.rpy:282
+    # game/code/data/constants.rpy:308
     old "Music"
     new "Music"
 
-    # game/code/data/constants.rpy:283
+    # game/code/data/constants.rpy:309
     old "Photography"
     new "Photography"
 
-    # game/code/data/constants.rpy:284
+    # game/code/data/constants.rpy:310
     old "Science"
     new "Science"
 
-    # game/code/data/constants.rpy:285
+    # game/code/data/constants.rpy:311
     old "Sports"
     new "Sports"
 
-    # game/code/data/constants.rpy:286
+    # game/code/data/constants.rpy:312
     old "Technology"
     new "Technology"
 
-    # game/code/data/constants.rpy:287
+    # game/code/data/constants.rpy:313
     old "Travel"
     new "Travel"
 

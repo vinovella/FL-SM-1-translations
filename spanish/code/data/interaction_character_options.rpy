@@ -25,12 +25,24 @@
     new "Go to Kanya with the wig"
 
     # game/code/data/interaction_character_options.rpy:3
+    old "Talk about filming"
+    new "Talk about filming"
+
+    # game/code/data/interaction_character_options.rpy:3
+    old "Talk about AmRose"
+    new "Talk about AmRose"
+
+    # game/code/data/interaction_character_options.rpy:3
     old "Talk about finding more jobs"
     new "Talk about finding more jobs"
 
     # game/code/data/interaction_character_options.rpy:3
     old "Talk about theater girls"
     new "Talk about theater girls"
+
+    # game/code/data/interaction_character_options.rpy:3
+    old "About that USB drive"
+    new "About that USB drive"
 
     # game/code/data/interaction_character_options.rpy:3
     old "Help Stacy"
@@ -41,8 +53,8 @@
     new "Netfix and chill with Stacy"
 
     # game/code/data/interaction_character_options.rpy:3
-    old "Have shower with Stacy"
-    new "Have shower with Stacy"
+    old "Have a shower with Stacy"
+    new "Have a shower with Stacy"
 
     # game/code/data/interaction_character_options.rpy:3
     old "Check Stacy out"
@@ -57,8 +69,20 @@
     new "Purchase Photography-101 for $"
 
     # game/code/data/interaction_character_options.rpy:3
+    old "Purchase Stars Weekly for $"
+    new "Purchase Stars Weekly for $"
+
+    # game/code/data/interaction_character_options.rpy:3
+    old "Purchase An Actor Prepares for $"
+    new "Purchase An Actor Prepares for $"
+
+    # game/code/data/interaction_character_options.rpy:3
     old "Tell Stacy about Kanya"
     new "Tell Stacy about Kanya"
+
+    # game/code/data/interaction_character_options.rpy:3
+    old "Learn Photography"
+    new "Learn Photography"
 
     # game/code/data/interaction_character_options.rpy:3
     old "Talk about hiring people"

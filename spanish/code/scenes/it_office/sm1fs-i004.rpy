@@ -22,6 +22,12 @@ translate spanish sm1fs_i004_0dd6e790:
     # mc "Is there anything I should know?"
     mc "Is there anything I should know?"
 
+# game/code/scenes/it_office/sm1fs-i004.rpy:26
+translate spanish sm1fs_i004_40770b70:
+
+    # cw "Know?"
+    cw "Know?"
+
 # game/code/scenes/it_office/sm1fs-i004.rpy:27
 translate spanish sm1fs_i004_672b5eec:
 
@@ -33,6 +39,12 @@ translate spanish sm1fs_i004_e506f16c:
 
     # mc "Yep, popping my client meeting cherry!"
     mc "Yep, popping my client meeting cherry!"
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:35
+translate spanish sm1fs_i004_21e14c8e:
+
+    # cw "[mcname]... That kind of remark walks dangerously close to an HR complaint."
+    cw "[mcname]... That kind of remark walks dangerously close to an HR complaint."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:38
 translate spanish sm1fs_i004_b9314dfb:
@@ -244,6 +256,12 @@ translate spanish sm1fs_i004_629db91f:
     # cw "We are looking forward to working with you, and your network. We have a brief presentation about our plan for your new website."
     cw "We are looking forward to working with you, and your network. We have a brief presentation about our plan for your new website."
 
+# game/code/scenes/it_office/sm1fs-i004.rpy:160
+translate spanish sm1fs_i004_e18669dc:
+
+    # cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a new website."
+    cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a new website."
+
 # game/code/scenes/it_office/sm1fs-i004.rpy:163
 translate spanish sm1fs_i004_b32c8de0:
 
@@ -309,6 +327,18 @@ translate spanish sm1fs_i004_475a1da7:
 
     # atp "Naturally I want to stay out of your way, but I definitely want to stop by and get progress reports from time to time."
     atp "Naturally I want to stay out of your way, but I definitely want to stop by and get progress reports from time to time."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:193
+translate spanish sm1fs_i004_5721f7bc:
+
+    # atp "We should work closely together so there are no screwups."
+    atp "We should work closely together so there are no screwups."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:196
+translate spanish sm1fs_i004_03af6d84:
+
+    # cw "Of course. We're excited to be in bussiness with you, Angela. As soon as we have a progress update, I'll get in touch."
+    cw "Of course. We're excited to be in bussiness with you, Angela. As soon as we have a progress update, I'll get in touch."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:199
 translate spanish sm1fs_i004_d2033644:
@@ -531,6 +561,12 @@ translate spanish sm1fs_i004_57c9ecea:
 
     # am "Tch. And I'm not going to screw up. Your Friday night plans with your kitchen are safe."
     am "Tch. And I'm not going to screw up. Your Friday night plans with your kitchen are safe."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:320
+translate spanish sm1fs_i004_374ba8cc:
+
+    # ns "Um. Is this how most client meetings go?"
+    ns "Um. Is this how most client meetings go?"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:324
 translate spanish sm1fs_i004_83b3ae0e:

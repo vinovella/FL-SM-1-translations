@@ -9,6 +9,14 @@
     new "Read Photography-101"
 
     # game/code/data/interaction_object_options.rpy:3
+    old "Read An Actor Prepares"
+    new "Read An Actor Prepares"
+
+    # game/code/data/interaction_object_options.rpy:3
+    old "Read Stars Weekly"
+    new "Read Stars Weekly"
+
+    # game/code/data/interaction_object_options.rpy:3
     old "Buy Energy Drink - $25"
     new "Buy Energy Drink - $25"
 

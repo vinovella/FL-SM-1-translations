@@ -568,343 +568,343 @@ translate spanish sm1ms008_special_aced0db5:
     # mc "Wow. Very sexy and fiery. You might have to stick with red hair for a bit."
     mc "Wow. Very sexy and fiery. You might have to stick with red hair for a bit."
 
-# game/code/scenes/main_story/sm1ms008.rpy:334
+# game/code/scenes/main_story/sm1ms008.rpy:332
 translate spanish sm1ms008_special_d5a7a478:
 
     # sy "Really? It's that hot?"
     sy "Really? It's that hot?"
 
-# game/code/scenes/main_story/sm1ms008.rpy:338
+# game/code/scenes/main_story/sm1ms008.rpy:336
 translate spanish sm1ms008_special_05d8c386:
 
     # mc "You might even say 'red-hot'."
     mc "You might even say 'red-hot'."
 
-# game/code/scenes/main_story/sm1ms008.rpy:341
+# game/code/scenes/main_story/sm1ms008.rpy:339
 translate spanish sm1ms008_special_ac8123a1:
 
     # sy "Hahaha. Hmmm."
     sy "Hahaha. Hmmm."
 
-# game/code/scenes/main_story/sm1ms008.rpy:347
+# game/code/scenes/main_story/sm1ms008.rpy:345
 translate spanish sm1ms008_special_bad7c00a:
 
     # mc "It looks great, Stacy. I think it will fit perfectly for the scene."
     mc "It looks great, Stacy. I think it will fit perfectly for the scene."
 
-# game/code/scenes/main_story/sm1ms008.rpy:350
+# game/code/scenes/main_story/sm1ms008.rpy:348
 translate spanish sm1ms008_special_2bd452b0:
 
     # sy "Good. But that's it? Just for the scene?"
     sy "Good. But that's it? Just for the scene?"
 
-# game/code/scenes/main_story/sm1ms008.rpy:353
+# game/code/scenes/main_story/sm1ms008.rpy:351
 translate spanish sm1ms008_special_afd74152:
 
     # mc "What do you think?"
     mc "What do you think?"
 
-# game/code/scenes/main_story/sm1ms008.rpy:356
+# game/code/scenes/main_story/sm1ms008.rpy:354
 translate spanish sm1ms008_special_f2580a24:
 
     # sy "I don't know. Maybe once I see it in action, I'll have a better feel for it."
     sy "I don't know. Maybe once I see it in action, I'll have a better feel for it."
 
-# game/code/scenes/main_story/sm1ms008.rpy:358
+# game/code/scenes/main_story/sm1ms008.rpy:356
 translate spanish sm1ms008_special_4661a639:
 
     # mc "Mmhmm."
     mc "Mmhmm."
 
-# game/code/scenes/main_story/sm1ms008.rpy:364
+# game/code/scenes/main_story/sm1ms008.rpy:362
 translate spanish sm1ms008_special_331f4a9b:
 
     # mc "I'm glad it's just for a scene."
     mc "I'm glad it's just for a scene."
 
-# game/code/scenes/main_story/sm1ms008.rpy:367
+# game/code/scenes/main_story/sm1ms008.rpy:365
 translate spanish sm1ms008_special_e0e72b2d:
 
     # sy "What? It's that bad?"
     sy "What? It's that bad?"
 
-# game/code/scenes/main_story/sm1ms008.rpy:370
+# game/code/scenes/main_story/sm1ms008.rpy:368
 translate spanish sm1ms008_special_817f7d48:
 
     # mc "It's not bad."
     mc "It's not bad."
 
-# game/code/scenes/main_story/sm1ms008.rpy:371
+# game/code/scenes/main_story/sm1ms008.rpy:369
 translate spanish sm1ms008_special_489e301c:
 
     # mc "I just like you with your green hair."
     mc "I just like you with your green hair."
 
-# game/code/scenes/main_story/sm1ms008.rpy:382
+# game/code/scenes/main_story/sm1ms008.rpy:380
 translate spanish sm1ms008_after_choice_c3e521fc:
 
     # kv "Already Stacy, why don't you give me some poses."
     kv "Already Stacy, why don't you give me some poses."
 
-# game/code/scenes/main_story/sm1ms008.rpy:385
+# game/code/scenes/main_story/sm1ms008.rpy:383
 translate spanish sm1ms008_after_choice_5ae8e99b:
 
     # sy "Poses?"
     sy "Poses?"
 
-# game/code/scenes/main_story/sm1ms008.rpy:388
+# game/code/scenes/main_story/sm1ms008.rpy:386
 translate spanish sm1ms008_after_choice_12e7bf0e:
 
     # kv "Yeah, just move around. We're doing like a stress test for the wig."
     kv "Yeah, just move around. We're doing like a stress test for the wig."
 
-# game/code/scenes/main_story/sm1ms008.rpy:391
+# game/code/scenes/main_story/sm1ms008.rpy:389
 translate spanish sm1ms008_after_choice_a62dd883:
 
     # mc "I know how we could do a proper stress test."
     mc "I know how we could do a proper stress test."
 
-# game/code/scenes/main_story/sm1ms008.rpy:394
+# game/code/scenes/main_story/sm1ms008.rpy:392
 translate spanish sm1ms008_after_choice_d46200e5:
 
     # sy "Keep it your pants, Mister. I'm a classy redheaded lady, today."
     sy "Keep it your pants, Mister. I'm a classy redheaded lady, today."
 
-# game/code/scenes/main_story/sm1ms008.rpy:416
+# game/code/scenes/main_story/sm1ms008.rpy:414
 translate spanish sm1ms008_after_choice_dc9daeca:
 
     # kv "And done. Should be more than enough to see if there are any issues."
     kv "And done. Should be more than enough to see if there are any issues."
 
-# game/code/scenes/main_story/sm1ms008.rpy:419
+# game/code/scenes/main_story/sm1ms008.rpy:417
 translate spanish sm1ms008_after_choice_8d7eee51:
 
     # mc "Looks good to me."
     mc "Looks good to me."
 
-# game/code/scenes/main_story/sm1ms008.rpy:422
+# game/code/scenes/main_story/sm1ms008.rpy:420
 translate spanish sm1ms008_after_choice_d33b4230:
 
     # kv "Yup. Very promising so far."
     kv "Yup. Very promising so far."
 
-# game/code/scenes/main_story/sm1ms008.rpy:428
+# game/code/scenes/main_story/sm1ms008.rpy:426
 translate spanish sm1ms008_after_choice_cd8826d2:
 
     # kv "Okay, so we will work on the scene details once we set up a rehearsal time."
     kv "Okay, so we will work on the scene details once we set up a rehearsal time."
 
-# game/code/scenes/main_story/sm1ms008.rpy:429
+# game/code/scenes/main_story/sm1ms008.rpy:427
 translate spanish sm1ms008_after_choice_ffa6d3bc:
 
     # kv "I think the only thing left before we can start rehearsing and filming is getting our hands on the right camera."
     kv "I think the only thing left before we can start rehearsing and filming is getting our hands on the right camera."
 
-# game/code/scenes/main_story/sm1ms008.rpy:432
+# game/code/scenes/main_story/sm1ms008.rpy:430
 translate spanish sm1ms008_after_choice_147423a9:
 
     # mc "Wait, don't you have any camera we would ever need, Kanya?"
     mc "Wait, don't you have any camera we would ever need, Kanya?"
 
-# game/code/scenes/main_story/sm1ms008.rpy:435
+# game/code/scenes/main_story/sm1ms008.rpy:433
 translate spanish sm1ms008_after_choice_c97b9391:
 
     # kv "Oh I've got tons of cameras, just not the kind we need for a scene like this."
     kv "Oh I've got tons of cameras, just not the kind we need for a scene like this."
 
-# game/code/scenes/main_story/sm1ms008.rpy:436
+# game/code/scenes/main_story/sm1ms008.rpy:434
 translate spanish sm1ms008_after_choice_165f7688:
 
     # kv "Most of my cameras are for photos. For something like this we're going to want to get a video camera."
     kv "Most of my cameras are for photos. For something like this we're going to want to get a video camera."
 
-# game/code/scenes/main_story/sm1ms008.rpy:437
+# game/code/scenes/main_story/sm1ms008.rpy:435
 translate spanish sm1ms008_after_choice_6fb426c6:
 
     # kv "The Soh-Ni Venus would probably be great."
     kv "The Soh-Ni Venus would probably be great."
 
-# game/code/scenes/main_story/sm1ms008.rpy:440
+# game/code/scenes/main_story/sm1ms008.rpy:438
 translate spanish sm1ms008_after_choice_e0645ef0:
 
     # kv "Dual native ISO, with their top-of-the-line sensor, comes out in a raw format that's pretty manageable."
     kv "Dual native ISO, with their top-of-the-line sensor, comes out in a raw format that's pretty manageable."
 
-# game/code/scenes/main_story/sm1ms008.rpy:441
+# game/code/scenes/main_story/sm1ms008.rpy:439
 translate spanish sm1ms008_after_choice_01166e1c:
 
     # kv "Plus they use the E mounts, which are what all my lenses are, so we can use what I've already got."
     kv "Plus they use the E mounts, which are what all my lenses are, so we can use what I've already got."
 
-# game/code/scenes/main_story/sm1ms008.rpy:442
+# game/code/scenes/main_story/sm1ms008.rpy:440
 translate spanish sm1ms008_after_choice_aedee058:
 
     # kv "Does low light well... Real versatile camera that's not that expensive."
     kv "Does low light well... Real versatile camera that's not that expensive."
 
-# game/code/scenes/main_story/sm1ms008.rpy:446
+# game/code/scenes/main_story/sm1ms008.rpy:444
 translate spanish sm1ms008_after_choice_5334a07f:
 
     # sy "What about using my phone? It has a good camera, right?"
     sy "What about using my phone? It has a good camera, right?"
 
-# game/code/scenes/main_story/sm1ms008.rpy:449
+# game/code/scenes/main_story/sm1ms008.rpy:447
 translate spanish sm1ms008_after_choice_5542aa89:
 
     # kv "Come on, Stacy. You don't want us to look like some amateurs, do you? Your client will be very impressed if we go the extra mile."
     kv "Come on, Stacy. You don't want us to look like some amateurs, do you? Your client will be very impressed if we go the extra mile."
 
-# game/code/scenes/main_story/sm1ms008.rpy:451
+# game/code/scenes/main_story/sm1ms008.rpy:449
 translate spanish sm1ms008_after_choice_764fdf31:
 
     # sy "I don't know..."
     sy "I don't know..."
 
-# game/code/scenes/main_story/sm1ms008.rpy:454
+# game/code/scenes/main_story/sm1ms008.rpy:452
 translate spanish sm1ms008_after_choice_0d6231ab:
 
     # kv "You two need to think of this as an investment in the studio’s future."
     kv "You two need to think of this as an investment in the studio’s future."
 
-# game/code/scenes/main_story/sm1ms008.rpy:457
+# game/code/scenes/main_story/sm1ms008.rpy:455
 translate spanish sm1ms008_after_choice_c425bbc9:
 
     # sy "I'm thinking about the extra work you'll have to do to get this super camera."
     sy "I'm thinking about the extra work you'll have to do to get this super camera."
 
-# game/code/scenes/main_story/sm1ms008.rpy:460
+# game/code/scenes/main_story/sm1ms008.rpy:458
 translate spanish sm1ms008_after_choice_3724bdef:
 
     # kv "I wouldn't bring it up if it weren't worth it, Stacy. Trust me."
     kv "I wouldn't bring it up if it weren't worth it, Stacy. Trust me."
 
-# game/code/scenes/main_story/sm1ms008.rpy:468
+# game/code/scenes/main_story/sm1ms008.rpy:466
 translate spanish sm1ms008_after_choice_a0f5a809:
 
     # mc "Alright, you convinced me. Let’s get this super camera."
     mc "Alright, you convinced me. Let’s get this super camera."
 
-# game/code/scenes/main_story/sm1ms008.rpy:471
+# game/code/scenes/main_story/sm1ms008.rpy:469
 translate spanish sm1ms008_after_choice_2c9bb055:
 
     # sy "If it’s going to make a difference, then I’m in. Let’s make this project the best it can be."
     sy "If it’s going to make a difference, then I’m in. Let’s make this project the best it can be."
 
-# game/code/scenes/main_story/sm1ms008.rpy:474
+# game/code/scenes/main_story/sm1ms008.rpy:472
 translate spanish sm1ms008_after_choice_39454719:
 
     # kv "Great! I’ll text you the exact model and specifications. There are many cameras like it, but this one is top tier."
     kv "Great! I’ll text you the exact model and specifications. There are many cameras like it, but this one is top tier."
 
-# game/code/scenes/main_story/sm1ms008.rpy:477
+# game/code/scenes/main_story/sm1ms008.rpy:475
 translate spanish sm1ms008_after_choice_d13a3a1c:
 
     # mc "If you insist."
     mc "If you insist."
 
-# game/code/scenes/main_story/sm1ms008.rpy:480
+# game/code/scenes/main_story/sm1ms008.rpy:478
 translate spanish sm1ms008_after_choice_822500d4:
 
     # kv "I certainly do, [mcname]."
     kv "I certainly do, [mcname]."
 
-# game/code/scenes/main_story/sm1ms008.rpy:481
+# game/code/scenes/main_story/sm1ms008.rpy:479
 translate spanish sm1ms008_after_choice_25849749:
 
     # kv "If you can't do something right, don't do it at all."
     kv "If you can't do something right, don't do it at all."
 
-# game/code/scenes/main_story/sm1ms008.rpy:484
+# game/code/scenes/main_story/sm1ms008.rpy:482
 translate spanish sm1ms008_after_choice_2bb3b2af:
 
     # sy "Haha. Good thing that's not, [mcname]'s motto."
     sy "Haha. Good thing that's not, [mcname]'s motto."
 
-# game/code/scenes/main_story/sm1ms008.rpy:487
+# game/code/scenes/main_story/sm1ms008.rpy:485
 translate spanish sm1ms008_after_choice_669664cb:
 
     # mc "Hey."
     mc "Hey."
 
-# game/code/scenes/main_story/sm1ms008.rpy:490
+# game/code/scenes/main_story/sm1ms008.rpy:488
 translate spanish sm1ms008_after_choice_60e89e66:
 
     # mct "I'll have to get back at her later."
     mct "I'll have to get back at her later."
 
-# game/code/scenes/main_story/sm1ms008.rpy:493
+# game/code/scenes/main_story/sm1ms008.rpy:491
 translate spanish sm1ms008_after_choice_a3ad22fa:
 
     # mc "Alright, looks like we've got an update to our plan."
     mc "Alright, looks like we've got an update to our plan."
 
-# game/code/scenes/main_story/sm1ms008.rpy:496
+# game/code/scenes/main_story/sm1ms008.rpy:494
 translate spanish sm1ms008_after_choice_560a7414:
 
     # sy "I'll find the camera online, maybe we'll get lucky and get a deal."
     sy "I'll find the camera online, maybe we'll get lucky and get a deal."
 
-# game/code/scenes/main_story/sm1ms008.rpy:497
+# game/code/scenes/main_story/sm1ms008.rpy:495
 translate spanish sm1ms008_after_choice_a69f28cf:
 
     # sy "Once we have it, we'll give you a call to set up a time for filming."
     sy "Once we have it, we'll give you a call to set up a time for filming."
 
-# game/code/scenes/main_story/sm1ms008.rpy:500
+# game/code/scenes/main_story/sm1ms008.rpy:498
 translate spanish sm1ms008_after_choice_e40ff599:
 
     # kv "Got it, let me give you my number. In case you need to call me."
     kv "Got it, let me give you my number. In case you need to call me."
 
-# game/code/scenes/main_story/sm1ms008.rpy:504
+# game/code/scenes/main_story/sm1ms008.rpy:502
 translate spanish sm1ms008_after_choice_531bfbf1:
 
     # sy "Sure."
     sy "Sure."
 
-# game/code/scenes/main_story/sm1ms008.rpy:511
+# game/code/scenes/main_story/sm1ms008.rpy:509
 translate spanish sm1ms008_after_choice_930a86ed:
 
     # kv "Good. All set."
     kv "Good. All set."
 
-# game/code/scenes/main_story/sm1ms008.rpy:514
+# game/code/scenes/main_story/sm1ms008.rpy:512
 translate spanish sm1ms008_after_choice_bd05421c:
 
     # mc "With any luck, we'll be ready to film in a week."
     mc "With any luck, we'll be ready to film in a week."
 
-# game/code/scenes/main_story/sm1ms008.rpy:517
+# game/code/scenes/main_story/sm1ms008.rpy:515
 translate spanish sm1ms008_after_choice_9b508420:
 
     # sy "Woohoo! It's almost here!"
     sy "Woohoo! It's almost here!"
 
-# game/code/scenes/main_story/sm1ms008.rpy:520
+# game/code/scenes/main_story/sm1ms008.rpy:518
 translate spanish sm1ms008_after_choice_c9a38424:
 
     # kv "I for one, am very excited for our first wrap party."
     kv "I for one, am very excited for our first wrap party."
 
-# game/code/scenes/main_story/sm1ms008.rpy:523
+# game/code/scenes/main_story/sm1ms008.rpy:521
 translate spanish sm1ms008_after_choice_c25f6212:
 
     # mc "Alright, we'll get out of your hair for now. But hope to see you soon."
     mc "Alright, we'll get out of your hair for now. But hope to see you soon."
 
-# game/code/scenes/main_story/sm1ms008.rpy:526
+# game/code/scenes/main_story/sm1ms008.rpy:524
 translate spanish sm1ms008_after_choice_bee75bc2:
 
     # kv "You know I don't mind you messing around with my hair, [mcname]."
     kv "You know I don't mind you messing around with my hair, [mcname]."
 
-# game/code/scenes/main_story/sm1ms008.rpy:532
+# game/code/scenes/main_story/sm1ms008.rpy:530
 translate spanish sm1ms008_after_choice_f25eba41:
 
     # kv "Nice to meet you, Stacy."
     kv "Nice to meet you, Stacy."
 
-# game/code/scenes/main_story/sm1ms008.rpy:535
+# game/code/scenes/main_story/sm1ms008.rpy:533
 translate spanish sm1ms008_after_choice_fcbd7d08:
 
     # sy "Yeah, you too. We'll be in touch as soon as we get the camera."

@@ -64,189 +64,189 @@ translate spanish sm1ms011_01i_16142a81:
     # mc "Hmm. Alright, if you think I'm up to it, that's something I can look into."
     mc "Hmm. Alright, if you think I'm up to it, that's something I can look into."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:38
+# game/code/scenes/main_story/sm1ms011-01i.rpy:36
 translate spanish sm1ms011_01i_7b8a543a:
 
     # mc "Talk to me about that IT job."
     mc "Talk to me about that IT job."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:42
+# game/code/scenes/main_story/sm1ms011-01i.rpy:40
 translate spanish sm1ms011_01i_fb73a4fc:
 
     # sy "There is a IT Company called Orbix in Crowning. They're looking for a new software engineer."
     sy "There is a IT Company called Orbix in Crowning. They're looking for a new software engineer."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:43
-translate spanish sm1ms011_01i_5a217f29:
-
-    # mc "Uh. I don't know much about coding and stuff. I use computers for porn and... well that's about it."
-    mc "Uh. I don't know much about coding and stuff. I use computers for porn and... well that's about it."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:44
-translate spanish sm1ms011_01i_dadb93c2:
-
-    # sy "It's fine, [mcname] I can show you the ropes. That is if you're interested in the job."
-    sy "It's fine, [mcname] I can show you the ropes. That is if you're interested in the job."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:49
-translate spanish sm1ms011_01i_4efaaa37:
-
-    # mc "Yeah, tell me what you learned."
-    mc "Yeah, tell me what you learned."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:53
-translate spanish sm1ms011_01i_2f1dff94:
-
-    # sy "Great. I'll get set up in a bit. Just come talk to me in the evening when I'm on my laptop."
-    sy "Great. I'll get set up in a bit. Just come talk to me in the evening when I'm on my laptop."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:54
-translate spanish sm1ms011_01i_dc16ebcd:
-
-    # mc "Got it."
-    mc "Got it."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:60
-translate spanish sm1ms011_01i_74a6ce6d:
-
-    # sy "Let me get my laptop."
-    sy "Let me get my laptop."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:66
-translate spanish sm1ms011_01i_6c17550b:
-
-    # mc "I guess it couldn't hurt to learn more."
-    mc "I guess it couldn't hurt to learn more."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:70
-translate spanish sm1ms011_01i_20cb15d2:
-
-    # sy "Of course. It's late now, so just find me tomorrow evening when I'm on my laptop."
-    sy "Of course. It's late now, so just find me tomorrow evening when I'm on my laptop."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:71
-translate spanish sm1ms011_01i_caff95f9:
-
-    # sy "I'll walk you through what I found."
-    sy "I'll walk you through what I found."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:72
-translate spanish sm1ms011_01i_85785fdb:
-
-    # mc "Perfect."
-    mc "Perfect."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:76
-translate spanish sm1ms011_01i_7d3bfb8b:
-
-    # mc "Let me give it a think."
-    mc "Let me give it a think."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:78
-translate spanish sm1ms011_01i_56230744:
-
-    # sy "Your call."
-    sy "Your call."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:82
+# game/code/scenes/main_story/sm1ms011-01i.rpy:45
 translate spanish sm1ms011_01i_1ee27939:
 
     # mc "Tell me more about the theater."
     mc "Tell me more about the theater."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:86
+# game/code/scenes/main_story/sm1ms011-01i.rpy:49
 translate spanish sm1ms011_01i_0e042ad2:
 
     # sy "There is a small community theater troupe in Crowning."
     sy "There is a small community theater troupe in Crowning."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:87
+# game/code/scenes/main_story/sm1ms011-01i.rpy:50
 translate spanish sm1ms011_01i_66e1bd0e:
 
     # sy "I looked on their website and couldn't find out if they were hiring."
     sy "I looked on their website and couldn't find out if they were hiring."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:88
-translate spanish sm1ms011_01i_e047cf5b:
+# game/code/scenes/main_story/sm1ms011-01i.rpy:57
+translate spanish sm1ms011_01i_it_job_5a217f29:
 
-    # sy "But I think I found someone who works in the group who could help us."
-    sy "But I think I found someone who works in the group who could help us."
+    # mc "Uh. I don't know much about coding and stuff. I use computers for porn and... well that's about it."
+    mc "Uh. I don't know much about coding and stuff. I use computers for porn and... well that's about it."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:93
-translate spanish sm1ms011_01i_64578a06:
+# game/code/scenes/main_story/sm1ms011-01i.rpy:58
+translate spanish sm1ms011_01i_it_job_dadb93c2:
 
-    # mc "If you found someone who can help us, that would be great."
-    mc "If you found someone who can help us, that would be great."
+    # sy "It's fine, [mcname] I can show you the ropes. That is if you're interested in the job."
+    sy "It's fine, [mcname] I can show you the ropes. That is if you're interested in the job."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:97
-translate spanish sm1ms011_01i_1b11e88f:
+# game/code/scenes/main_story/sm1ms011-01i.rpy:63
+translate spanish sm1ms011_01i_it_job_4efaaa37:
 
-    # sy "Mmhmm. I'll fill you in a little later. Come talk to me in the evening when I'm on my laptop."
-    sy "Mmhmm. I'll fill you in a little later. Come talk to me in the evening when I'm on my laptop."
+    # mc "Yeah, tell me what you learned."
+    mc "Yeah, tell me what you learned."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:98
-translate spanish sm1ms011_01i_dc16ebcd_1:
+# game/code/scenes/main_story/sm1ms011-01i.rpy:67
+translate spanish sm1ms011_01i_it_job_2f1dff94:
+
+    # sy "Great. I'll get set up in a bit. Just come talk to me in the evening when I'm on my laptop."
+    sy "Great. I'll get set up in a bit. Just come talk to me in the evening when I'm on my laptop."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:68
+translate spanish sm1ms011_01i_it_job_dc16ebcd:
 
     # mc "Got it."
     mc "Got it."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:104
-translate spanish sm1ms011_01i_74a6ce6d_1:
+# game/code/scenes/main_story/sm1ms011-01i.rpy:74
+translate spanish sm1ms011_01i_it_job_74a6ce6d:
 
     # sy "Let me get my laptop."
     sy "Let me get my laptop."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:110
-translate spanish sm1ms011_01i_48f01058:
+# game/code/scenes/main_story/sm1ms011-01i.rpy:80
+translate spanish sm1ms011_01i_it_job_6c17550b:
 
-    # mc "We should keep our options. Who is this person?"
-    mc "We should keep our options. Who is this person?"
+    # mc "I guess it couldn't hurt to learn more."
+    mc "I guess it couldn't hurt to learn more."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:114
-translate spanish sm1ms011_01i_78860363:
+# game/code/scenes/main_story/sm1ms011-01i.rpy:84
+translate spanish sm1ms011_01i_it_job_20cb15d2:
 
-    # sy "*yawns* It's a little late now. Come talk to me tomorrow evening when I'm on my laptop."
-    sy "*yawns* It's a little late now. Come talk to me tomorrow evening when I'm on my laptop."
+    # sy "Of course. It's late now, so just find me tomorrow evening when I'm on my laptop."
+    sy "Of course. It's late now, so just find me tomorrow evening when I'm on my laptop."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:115
-translate spanish sm1ms011_01i_7c91a495:
+# game/code/scenes/main_story/sm1ms011-01i.rpy:85
+translate spanish sm1ms011_01i_it_job_caff95f9:
 
-    # sy "I can show you what I got."
-    sy "I can show you what I got."
+    # sy "I'll walk you through what I found."
+    sy "I'll walk you through what I found."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:116
-translate spanish sm1ms011_01i_74c498aa:
+# game/code/scenes/main_story/sm1ms011-01i.rpy:86
+translate spanish sm1ms011_01i_it_job_85785fdb:
 
-    # mc "Sounds good to me."
-    mc "Sounds good to me."
+    # mc "Perfect."
+    mc "Perfect."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:120
-translate spanish sm1ms011_01i_7d3bfb8b_1:
+# game/code/scenes/main_story/sm1ms011-01i.rpy:90
+translate spanish sm1ms011_01i_it_job_7d3bfb8b:
 
     # mc "Let me give it a think."
     mc "Let me give it a think."
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:122
-translate spanish sm1ms011_01i_56230744_1:
+# game/code/scenes/main_story/sm1ms011-01i.rpy:92
+translate spanish sm1ms011_01i_it_job_56230744:
+
+    # sy "Your call."
+    sy "Your call."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:98
+translate spanish sm1ms011_01i_th_job_e047cf5b:
+
+    # sy "But I think I found someone who works in the group who could help us."
+    sy "But I think I found someone who works in the group who could help us."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:103
+translate spanish sm1ms011_01i_th_job_64578a06:
+
+    # mc "If you found someone who can help us, that would be great."
+    mc "If you found someone who can help us, that would be great."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:107
+translate spanish sm1ms011_01i_th_job_1b11e88f:
+
+    # sy "Mmhmm. I'll fill you in a little later. Come talk to me in the evening when I'm on my laptop."
+    sy "Mmhmm. I'll fill you in a little later. Come talk to me in the evening when I'm on my laptop."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:108
+translate spanish sm1ms011_01i_th_job_dc16ebcd:
+
+    # mc "Got it."
+    mc "Got it."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:114
+translate spanish sm1ms011_01i_th_job_74a6ce6d:
+
+    # sy "Let me get my laptop."
+    sy "Let me get my laptop."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:120
+translate spanish sm1ms011_01i_th_job_48f01058:
+
+    # mc "We should keep our options. Who is this person?"
+    mc "We should keep our options. Who is this person?"
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:124
+translate spanish sm1ms011_01i_th_job_78860363:
+
+    # sy "*yawns* It's a little late now. Come talk to me tomorrow evening when I'm on my laptop."
+    sy "*yawns* It's a little late now. Come talk to me tomorrow evening when I'm on my laptop."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:125
+translate spanish sm1ms011_01i_th_job_7c91a495:
+
+    # sy "I can show you what I got."
+    sy "I can show you what I got."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:126
+translate spanish sm1ms011_01i_th_job_74c498aa:
+
+    # mc "Sounds good to me."
+    mc "Sounds good to me."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:130
+translate spanish sm1ms011_01i_th_job_7d3bfb8b:
+
+    # mc "Let me give it a think."
+    mc "Let me give it a think."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:132
+translate spanish sm1ms011_01i_th_job_56230744:
 
     # sy "Your call."
     sy "Your call."
 
 translate spanish strings:
 
-    # game/code/scenes/main_story/sm1ms011-01i.rpy:34
+    # game/code/scenes/main_story/sm1ms011-01i.rpy:32
     old "The IT Job"
     new "The IT Job"
 
-    # game/code/scenes/main_story/sm1ms011-01i.rpy:34
+    # game/code/scenes/main_story/sm1ms011-01i.rpy:32
     old "The Theater"
     new "The Theater"
 
-    # game/code/scenes/main_story/sm1ms011-01i.rpy:45
+    # game/code/scenes/main_story/sm1ms011-01i.rpy:59
     old "Tell me more"
     new "Tell me more"
 
-    # game/code/scenes/main_story/sm1ms011-01i.rpy:45
+    # game/code/scenes/main_story/sm1ms011-01i.rpy:59
     old "I'll think about it"
     new "I'll think about it"
 

@@ -640,775 +640,775 @@ translate spanish sm1cs_tl003_in_street_999086e7:
     # sy "All right... Camera set, aaaaaaand action!"
     sy "All right... Camera set, aaaaaaand action!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:347
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:346
 translate spanish sm1cs_tl003_in_street_a60c5d7e:
 
     # tl "So you showed up, Officer Johnson."
     tl "So you showed up, Officer Johnson."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:350
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:349
 translate spanish sm1cs_tl003_in_street_5734da4a:
 
     # mc "I couldn't stay away... Even though this means my career as a cop is over."
     mc "I couldn't stay away... Even though this means my career as a cop is over."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:353
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:352
 translate spanish sm1cs_tl003_in_street_60b449c7:
 
     # tl "Then why show up?"
     tl "Then why show up?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:356
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:355
 translate spanish sm1cs_tl003_in_street_6fafce0f:
 
     # mc "Because... I see what you do for your family. And I can respect that."
     mc "Because... I see what you do for your family. And I can respect that."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:357
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:356
 translate spanish sm1cs_tl003_in_street_ece63635:
 
     # mc "I wish... I had someone to look out for me like that."
     mc "I wish... I had someone to look out for me like that."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:359
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:358
 translate spanish sm1cs_tl003_in_street_4338fb9e:
 
     # tl "Really?"
     tl "Really?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:362
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:361
 translate spanish sm1cs_tl003_in_street_ff505ffb:
 
     # mc "Yeah. I've... Been a lone wolf for so long, it's nice to be a part of a pack."
     mc "Yeah. I've... Been a lone wolf for so long, it's nice to be a part of a pack."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:364
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:363
 translate spanish sm1cs_tl003_in_street_a2a71633:
 
     # tl "You know..."
     tl "You know..."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:365
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:364
 translate spanish sm1cs_tl003_in_street_663a553a:
 
     # tl "I think there may be space in our family for you."
     tl "I think there may be space in our family for you."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:368
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:367
 translate spanish sm1cs_tl003_in_street_a31340dd:
 
     # mc "Really?"
     mc "Really?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:371
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:370
 translate spanish sm1cs_tl003_in_street_768779b0:
 
     # tl "Yeah. But you'll have to prove yourself."
     tl "Yeah. But you'll have to prove yourself."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:373
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:372
 translate spanish sm1cs_tl003_in_street_b5c609e6:
 
     # mc "You've seen how I race! You know I can do it."
     mc "You've seen how I race! You know I can do it."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:375
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:374
 translate spanish sm1cs_tl003_in_street_fee79709:
 
     # tl "No, I don't mean proving yourself on the streets."
     tl "No, I don't mean proving yourself on the streets."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:379
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:378
 translate spanish sm1cs_tl003_in_street_dd839c3e:
 
     # tl "I need you to prove yourself {i}to me{/i}."
     tl "I need you to prove yourself {i}to me{/i}."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:387
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:386
 translate spanish sm1cs_tl003_sex_e3c378c5:
 
     # tl "Are you willing to drive fast? Drive {i}hard?{/i}"
     tl "Are you willing to drive fast? Drive {i}hard?{/i}"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:389
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:388
 translate spanish sm1cs_tl003_sex_7488ae3e:
 
     # mc "Oh yeah."
     mc "Oh yeah."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:390
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:389
 translate spanish sm1cs_tl003_sex_09d8928d:
 
     # tl "Let's see how you work that {i}gear shift{/i}, Officer Johnson."
     tl "Let's see how you work that {i}gear shift{/i}, Officer Johnson."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:394
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:393
 translate spanish sm1cs_tl003_sex_18015171:
 
     # mc "Oh, yeah. Get ready to see me put the pedal to the metal."
     mc "Oh, yeah. Get ready to see me put the pedal to the metal."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:397
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:396
 translate spanish sm1cs_tl003_sex_33d8c729:
 
     # tl "Ready...{w} Set... {w} Go!"
     tl "Ready...{w} Set... {w} Go!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:405
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:404
 translate spanish sm1cs_tl003_sex_5c7dfd87:
 
     # mc "How's this for fast!?"
     mc "How's this for fast!?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:408
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:407
 translate spanish sm1cs_tl003_sex_c550fbfe:
 
     # tl "Huuuack - huuuuuack!"
     tl "Huuuack - huuuuuack!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:409
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:408
 translate spanish sm1cs_tl003_sex_aadfda77:
 
     # mc "And {i}furious!?{/i}"
     mc "And {i}furious!?{/i}"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:412
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:411
 translate spanish sm1cs_tl003_sex_65a33a5d:
 
     # tl "Huack - huack - huack!"
     tl "Huack - huack - huack!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:417
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:416
 translate spanish sm1cs_tl003_sex_7a9efef3:
 
     # mc "My engine {i}stroke{/i} has been a little off, I'm hoping this {i}lubricates{/i} my piston!"
     mc "My engine {i}stroke{/i} has been a little off, I'm hoping this {i}lubricates{/i} my piston!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:420
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:419
 translate spanish sm1cs_tl003_sex_726bd085:
 
     # tl "Gwwwack - gwack - huuuuack!"
     tl "Gwwwack - gwack - huuuuack!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:423
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:422
 translate spanish sm1cs_tl003_sex_b6f5504f:
 
     # mc "This is the perfect engine maintenance! Fuck!"
     mc "This is the perfect engine maintenance! Fuck!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:429
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:428
 translate spanish sm1cs_tl003_sex_16f31852:
 
     # tl "Fuck, you're doing well so far, Officer."
     tl "Fuck, you're doing well so far, Officer."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:431
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:430
 translate spanish sm1cs_tl003_sex_f49fff8f:
 
     # mc "Yeah?"
     mc "Yeah?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:432
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:431
 translate spanish sm1cs_tl003_sex_e7f95c0c:
 
     # tl "But now that you've got your engine running, can you get mine started?"
     tl "But now that you've got your engine running, can you get mine started?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:435
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:434
 translate spanish sm1cs_tl003_sex_fa5a1097:
 
     # mc "Oh, is there a special trick to get you going?"
     mc "Oh, is there a special trick to get you going?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:439
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:438
 translate spanish sm1cs_tl003_sex_919599d7:
 
     # tl "Oh yeah, I use a {i}paddle{/i} shifter to get into a higher gear."
     tl "Oh yeah, I use a {i}paddle{/i} shifter to get into a higher gear."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:442
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:441
 translate spanish sm1cs_tl003_sex_1b1aa91f:
 
     # mc "Yeah? Well let's start shifting then!"
     mc "Yeah? Well let's start shifting then!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:449
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:448
 translate spanish sm1cs_tl003_sex_6aad58d7:
 
     # mc "How's that for my shifting?"
     mc "How's that for my shifting?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:450
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:449
 translate spanish sm1cs_tl003_sex_fcffe589:
 
     # tl "Oooo! Make sure you're double clutching!"
     tl "Oooo! Make sure you're double clutching!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:453
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:452
 translate spanish sm1cs_tl003_sex_4b5ed56c:
 
     # mc "Oh, I can hear your engine purrrrrring!"
     mc "Oh, I can hear your engine purrrrrring!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:454
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:453
 translate spanish sm1cs_tl003_sex_28a87da7:
 
     # tl "Oh, just wait - mmmmph! Just wait until we get behind the wheel, Officer."
     tl "Oh, just wait - mmmmph! Just wait until we get behind the wheel, Officer."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:457
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:456
 translate spanish sm1cs_tl003_sex_b710b18e:
 
     # mc "Oh? Do you plan on driving dirty?"
     mc "Oh? Do you plan on driving dirty?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:458
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:457
 translate spanish sm1cs_tl003_sex_c4871c46:
 
     # tl "That's how you like it, isn't it?"
     tl "That's how you like it, isn't it?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:459
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:458
 translate spanish sm1cs_tl003_sex_4c004ef7:
 
     # mc "Hey, I race clean!"
     mc "Hey, I race clean!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:460
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:459
 translate spanish sm1cs_tl003_sex_d4a43c93:
 
     # tl "Then why are you here!?"
     tl "Then why are you here!?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:465
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:464
 translate spanish sm1cs_tl003_sex_5ff76364:
 
     # mc "Because some naughty chick in a hot outfit convinced me."
     mc "Because some naughty chick in a hot outfit convinced me."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:466
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:465
 translate spanish sm1cs_tl003_sex_aaa32284:
 
     # tl "OOOmph! Officer, are you really going to blame me for turning your back on the law?"
     tl "OOOmph! Officer, are you really going to blame me for turning your back on the law?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:469
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:468
 translate spanish sm1cs_tl003_sex_3c0bbbee:
 
     # mc "Absolutely!"
     mc "Absolutely!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:470
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:469
 translate spanish sm1cs_tl003_sex_646b98ac:
 
     # tl "Who are you kidding? You {i}want this too{/i}."
     tl "Who are you kidding? You {i}want this too{/i}."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:473
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:472
 translate spanish sm1cs_tl003_sex_0fb0e24a:
 
     # mc "Or maybe I'm just here to punish you!"
     mc "Or maybe I'm just here to punish you!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:474
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:473
 translate spanish sm1cs_tl003_sex_1f3f5d8f:
 
     # tl "If you {i}really{/i} want to punish me, you need to do it behind the wheel."
     tl "If you {i}really{/i} want to punish me, you need to do it behind the wheel."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:476
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:475
 translate spanish sm1cs_tl003_sex_10f917e0:
 
     # mc "If you think you need more punishment, then let's get behind the wheel."
     mc "If you think you need more punishment, then let's get behind the wheel."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:491
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:490
 translate spanish sm1cs_tl003_sex_8d3e0504:
 
     # tl "Ready to race for my {i}pink slip?{/i}"
     tl "Ready to race for my {i}pink slip?{/i}"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:494
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:493
 translate spanish sm1cs_tl003_sex_e36dab88:
 
     # mc "I've been waiting for this ride all night."
     mc "I've been waiting for this ride all night."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:495
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:494
 translate spanish sm1cs_tl003_sex_26eb8e13:
 
     # tl "Well let's see if you can handle this beauty."
     tl "Well let's see if you can handle this beauty."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:504
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:503
 translate spanish sm1cs_tl003_sex_db1a7cea:
 
     # tl "Think you can last a quarter mile?"
     tl "Think you can last a quarter mile?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:506
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:505
 translate spanish sm1cs_tl003_sex_eb9128e1:
 
     # mc "I can handle anything you throw at me!"
     mc "I can handle anything you throw at me!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:508
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:507
 translate spanish sm1cs_tl003_sex_25b533fa:
 
     # tl "Mmmmm - you've got a good {i}stick{/i} shift, Officer."
     tl "Mmmmm - you've got a good {i}stick{/i} shift, Officer."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:509
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:508
 translate spanish sm1cs_tl003_sex_49981f29:
 
     # mc "Oh yeah, ooooooo - downshift as much as you want, this is incredible."
     mc "Oh yeah, ooooooo - downshift as much as you want, this is incredible."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:510
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:509
 translate spanish sm1cs_tl003_sex_867da440:
 
     # tl "Don't lose sight of the finish line though!"
     tl "Don't lose sight of the finish line though!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:513
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:512
 translate spanish sm1cs_tl003_sex_fb35951c:
 
     # mc "Oh yeah? What about you? Not even looking the right way!"
     mc "Oh yeah? What about you? Not even looking the right way!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:514
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:513
 translate spanish sm1cs_tl003_sex_33e0c2eb:
 
     # tl "Mmmmmm, I don't need to see the road. Mmmmph - I drive by feeeeeel."
     tl "Mmmmmm, I don't need to see the road. Mmmmph - I drive by feeeeeel."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:515
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:514
 translate spanish sm1cs_tl003_sex_88a6757e:
 
     # tl "Fuh - This is so goooood."
     tl "Fuh - This is so goooood."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:518
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:517
 translate spanish sm1cs_tl003_sex_76ca6e9e:
 
     # tl "Fuck, [mcname], you've got a great dick."
     tl "Fuck, [mcname], you've got a great dick."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:519
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:518
 translate spanish sm1cs_tl003_sex_7b710f47:
 
     # mc "Nnnng - you mean, 'Officer' [mcname], yeah?"
     mc "Nnnng - you mean, 'Officer' [mcname], yeah?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:520
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:519
 translate spanish sm1cs_tl003_sex_720ee4c3:
 
     # tl "Yeah - whatever - just fuuuck me!"
     tl "Yeah - whatever - just fuuuck me!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:523
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:522
 translate spanish sm1cs_tl003_sex_8d72597b:
 
     # tl "Fuck, yes! Right fucking there!"
     tl "Fuck, yes! Right fucking there!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:524
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:523
 translate spanish sm1cs_tl003_sex_3dabacb8:
 
     # tl "Yeah - mmmmmmnnng - yessss!"
     tl "Yeah - mmmmmmnnng - yessss!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:525
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:524
 translate spanish sm1cs_tl003_sex_a98ff5a7:
 
     # mc "Goddamn! This got high octane!"
     mc "Goddamn! This got high octane!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:528
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:527
 translate spanish sm1cs_tl003_sex_1f36d05c:
 
     # tl "This isn't even high octane! Just - oooooooo - wait!"
     tl "This isn't even high octane! Just - oooooooo - wait!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:529
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:528
 translate spanish sm1cs_tl003_sex_f42dc4c4:
 
     # tl "Mmmmmmmmm, I need to feel you deeeeeper!"
     tl "Mmmmmmmmm, I need to feel you deeeeeper!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:531
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:530
 translate spanish sm1cs_tl003_sex_8cf139ce:
 
     # mc "Gah-Goddamn, babe!"
     mc "Gah-Goddamn, babe!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:537
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:536
 translate spanish sm1cs_tl003_sex_0b766453:
 
     # tl "I really need you to gas it, [mcname]. Fuck me like you mean it."
     tl "I really need you to gas it, [mcname]. Fuck me like you mean it."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:538
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:537
 translate spanish sm1cs_tl003_sex_0407312f:
 
     # tl "And I want you to {i}throttle{/i} my gas."
     tl "And I want you to {i}throttle{/i} my gas."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:540
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:539
 translate spanish sm1cs_tl003_sex_810fe451:
 
     # mc "You want me to..."
     mc "You want me to..."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:542
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:541
 translate spanish sm1cs_tl003_sex_b9a614e1:
 
     # tl "Squeeze my tits and hold on tight."
     tl "Squeeze my tits and hold on tight."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:543
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:542
 translate spanish sm1cs_tl003_sex_68e95772:
 
     # mc "I can do that, I'll grip them like my steeri-"
     mc "I can do that, I'll grip them like my steeri-"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:544
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:543
 translate spanish sm1cs_tl003_sex_6c7eff67:
 
     # tl "Shut up and fuck me!"
     tl "Shut up and fuck me!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:551
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:550
 translate spanish sm1cs_tl003_sex_f2429ec1:
 
     # tl "Fuck, that's it! Yes!"
     tl "Fuck, that's it! Yes!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:552
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:551
 translate spanish sm1cs_tl003_sex_fe583909:
 
     # mc "Oh fuuuuck, fuck Taisia!"
     mc "Oh fuuuuck, fuck Taisia!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:553
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:552
 translate spanish sm1cs_tl003_sex_56ba026c:
 
     # tl "Choke meeee, hardeeer!"
     tl "Choke meeee, hardeeer!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:556
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:555
 translate spanish sm1cs_tl003_sex_0bcfb58d:
 
     # mc "You wanted fast!"
     mc "You wanted fast!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:557
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:556
 translate spanish sm1cs_tl003_sex_f00b9250:
 
     # tl "What??"
     tl "What??"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:558
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:557
 translate spanish sm1cs_tl003_sex_e60193ba:
 
     # mc "You know, {i}fast{/i}? Like-"
     mc "You know, {i}fast{/i}? Like-"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:559
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:558
 translate spanish sm1cs_tl003_sex_56d6692c:
 
     # tl "Just shut up and fuck me!"
     tl "Just shut up and fuck me!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:562
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:561
 translate spanish sm1cs_tl003_sex_c0fa3a5a:
 
     # tl "Gah, this is fucking ahhh-mazing! I can feel your dick so deeeeeep."
     tl "Gah, this is fucking ahhh-mazing! I can feel your dick so deeeeeep."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:563
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:562
 translate spanish sm1cs_tl003_sex_1e5468a0:
 
     # tl "We should've -mmmnnnng - started with this position!"
     tl "We should've -mmmnnnng - started with this position!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:566
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:565
 translate spanish sm1cs_tl003_sex_fa52f539:
 
     # tl "Squeeze my throat tighter!"
     tl "Squeeze my throat tighter!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:567
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:566
 translate spanish sm1cs_tl003_sex_bae80873:
 
     # mc "Fuuuhhh - whaaa?"
     mc "Fuuuhhh - whaaa?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:568
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:567
 translate spanish sm1cs_tl003_sex_2cba4f00:
 
     # tl "Fucking me like you mean it! Punish this bad girl!"
     tl "Fucking me like you mean it! Punish this bad girl!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:569
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:568
 translate spanish sm1cs_tl003_sex_f72a0195:
 
     # mct "I forget that Taisia is a freak sometimes."
     mct "I forget that Taisia is a freak sometimes."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:572
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:571
 translate spanish sm1cs_tl003_sex_fc3a93fa:
 
     # tl "Oh - fuuh - tha - yeeeessss!"
     tl "Oh - fuuh - tha - yeeeessss!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:573
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:572
 translate spanish sm1cs_tl003_sex_de0a7174:
 
     # mc "You like that, you dirty slut?"
     mc "You like that, you dirty slut?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:574
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:573
 translate spanish sm1cs_tl003_sex_a88d1dd6:
 
     # tl "Yeee - yeeeee! Fuuuh - I'm close!"
     tl "Yeee - yeeeee! Fuuuh - I'm close!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:577
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:576
 translate spanish sm1cs_tl003_sex_97d2f8ed:
 
     # mc "Me too, I'm going to {i}fill up your tank!{/i}"
     mc "Me too, I'm going to {i}fill up your tank!{/i}"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:578
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:577
 translate spanish sm1cs_tl003_sex_60da3151:
 
     # tl "I can't - I can't -"
     tl "I can't - I can't -"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:579
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:578
 translate spanish sm1cs_tl003_sex_bab69050:
 
     # mc "Fuuuuuuuck!"
     mc "Fuuuuuuuck!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:581
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:580
 translate spanish sm1cs_tl003_sex_e85d5bd9:
 
     # tl "Bre... Brea... Goi... Cum!"
     tl "Bre... Brea... Goi... Cum!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:582
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:581
 translate spanish sm1cs_tl003_sex_0c6d4e7e:
 
     # mc "Fuck, I'm cumming!"
     mc "Fuck, I'm cumming!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:590
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:589
 translate spanish sm1cs_tl003_sex_2af9a42d:
 
     # tl "Holy fuuuuuuuuck!"
     tl "Holy fuuuuuuuuck!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:598
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:597
 translate spanish sm1cs_tl003_sex_end_3aca2b0d:
 
     # sy "Aaaaaand cut...{w} Holy shit that was hot."
     sy "Aaaaaand cut...{w} Holy shit that was hot."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:601
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:600
 translate spanish sm1cs_tl003_sex_end_9adb5b1c:
 
     # mc "Fuck, you're telling me."
     mc "Fuck, you're telling me."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:605
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:604
 translate spanish sm1cs_tl003_sex_end_0fb10c0b:
 
     # sy "And it was so much hotter having a sweet car like this, instead of... The set."
     sy "And it was so much hotter having a sweet car like this, instead of... The set."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:607
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:606
 translate spanish sm1cs_tl003_sex_end_7637cac9:
 
     # tl "Yeah... isn't the... real thing... much better?"
     tl "Yeah... isn't the... real thing... much better?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:608
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:607
 translate spanish sm1cs_tl003_sex_end_25069130:
 
     # sy "Oh yeah."
     sy "Oh yeah."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:611
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:610
 translate spanish sm1cs_tl003_sex_end_7af68a21:
 
     # sy "I'm just mad I had to be on camera duty... That looked like so much fun."
     sy "I'm just mad I had to be on camera duty... That looked like so much fun."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:613
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:612
 translate spanish sm1cs_tl003_sex_end_ff9c0713:
 
     # tl "Maybe... Next time..."
     tl "Maybe... Next time..."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:616
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:615
 translate spanish sm1cs_tl003_sex_end_6e29cd8e:
 
     # mc "I'm actually impressed, Stacy. I thought for sure you'd at least rub one out while we were filming."
     mc "I'm actually impressed, Stacy. I thought for sure you'd at least rub one out while we were filming."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:619
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:618
 translate spanish sm1cs_tl003_sex_end_bf31c466:
 
     # sy "Me!? What! [mcname], I am a professional!"
     sy "Me!? What! [mcname], I am a professional!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:620
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:619
 translate spanish sm1cs_tl003_sex_end_9a9a1d8f:
 
     # sy "{size=*0.6}But when we get home, I definitely need a copy of this.{/size}"
     sy "{size=*0.6}But when we get home, I definitely need a copy of this.{/size}"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:623
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:622
 translate spanish sm1cs_tl003_sex_end_bc0c622e:
 
     # mc "Speaking of home, we should probably get out of here before that security guard wakes up."
     mc "Speaking of home, we should probably get out of here before that security guard wakes up."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:627
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:626
 translate spanish sm1cs_tl003_sex_end_33e80014:
 
     # tl "Uh huh..."
     tl "Uh huh..."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:630
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:629
 translate spanish sm1cs_tl003_sex_end_e744f0f3:
 
     # sy "Oops, looks like we left a little mess."
     sy "Oops, looks like we left a little mess."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:641
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:640
 translate spanish sm1cs_tl003_sex_end_bc1bf114:
 
     # tl "All cleaned, now let's-"
     tl "All cleaned, now let's-"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:645
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:644
 translate spanish sm1cs_tl003_sex_end_9a38998b:
 
     # tl "Oh shit! Get down!"
     tl "Oh shit! Get down!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:661
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:660
 translate spanish sm1cs_tl003_sex_end_972dc55f:
 
     # mc "Oh no, oh no - I'm too handsome to go to jail!"
     mc "Oh no, oh no - I'm too handsome to go to jail!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:663
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:662
 translate spanish sm1cs_tl003_sex_end_3574fcd3:
 
     # tl "Shut it, [mcname]. Noone is going to jail today. Just be quiet, and follow me!"
     tl "Shut it, [mcname]. Noone is going to jail today. Just be quiet, and follow me!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:714
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:713
 translate spanish sm1cs_tl003_sex_end_2aba6cf1:
 
     # tl "Wooo, nothing like an adrenaline rush after an orgasm."
     tl "Wooo, nothing like an adrenaline rush after an orgasm."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:717
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:716
 translate spanish sm1cs_tl003_sex_end_c2050e14:
 
     # mc "You're telling me! Jesus!"
     mc "You're telling me! Jesus!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:719
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:718
 translate spanish sm1cs_tl003_sex_end_b91e282e:
 
     # sy "I wish I had had an orgasm..."
     sy "I wish I had had an orgasm..."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:724
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:723
 translate spanish sm1cs_tl003_sex_end_606145b9:
 
     # mc "I'm sure you'll have plenty watching that video tonight."
     mc "I'm sure you'll have plenty watching that video tonight."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:726
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:725
 translate spanish sm1cs_tl003_sex_end_2306b455:
 
     # sy "[mcname]!"
     sy "[mcname]!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:729
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:728
 translate spanish sm1cs_tl003_sex_end_739d1bb0:
 
     # tl "Speaking of... I believe I'm owed some compensation?"
     tl "Speaking of... I believe I'm owed some compensation?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:732
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:731
 translate spanish sm1cs_tl003_sex_end_0e5a457d:
 
     # mc "Oh shit, yeah."
     mc "Oh shit, yeah."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:736
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:735
 translate spanish sm1cs_tl003_sex_end_209631b2:
 
     # mc "And... Here you go!"
     mc "And... Here you go!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:743
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:742
 translate spanish sm1cs_tl003_sex_end_a6f1213e:
 
     # tl "Man... This was a lot of fun."
     tl "Man... This was a lot of fun."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:745
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:744
 translate spanish sm1cs_tl003_sex_end_fcf340b6:
 
     # mc "I agree."
     mc "I agree."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:747
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:746
 translate spanish sm1cs_tl003_sex_end_10b8073b:
 
     # sy "Me too!"
     sy "Me too!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:748
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:747
 translate spanish sm1cs_tl003_sex_end_b4565abe:
 
     # tl "We should definitely do it again, right?"
     tl "We should definitely do it again, right?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:749
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:748
 translate spanish sm1cs_tl003_sex_end_ac2bf2bb:
 
     # sy "Absolutely. Next time I'll ask you about a car before I call everyone I know."
     sy "Absolutely. Next time I'll ask you about a car before I call everyone I know."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:753
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:752
 translate spanish sm1cs_tl003_sex_end_c4b98384:
 
     # tl "Well, I'm going to take off. I can feel [mcname]'s cum getting sticky on my leg."
     tl "Well, I'm going to take off. I can feel [mcname]'s cum getting sticky on my leg."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:755
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:754
 translate spanish sm1cs_tl003_sex_end_8d3bf09b:
 
     # mc "We'll let you know when we release the video!"
     mc "We'll let you know when we release the video!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:757
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:756
 translate spanish sm1cs_tl003_sex_end_11f99e7f:
 
     # tl "Awesome! I'll see you two later."
     tl "Awesome! I'll see you two later."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:759
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:758
 translate spanish sm1cs_tl003_sex_end_1ed8f75c:
 
     # sy "See ya', Taisia!"

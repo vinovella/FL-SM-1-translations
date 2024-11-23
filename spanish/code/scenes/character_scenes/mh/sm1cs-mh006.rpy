@@ -238,1141 +238,1141 @@ translate spanish sm1cs_mh006_f71d126e:
     # mc "And you know..."
     mc "And you know..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:140
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:139
 translate spanish sm1cs_mh006_a4e33397:
 
     # mc "We can all spend some time together. Learn a little bit more about each other."
     mc "We can all spend some time together. Learn a little bit more about each other."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:143
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:142
 translate spanish sm1cs_mh006_b6057d9e:
 
     # mh "I would like that."
     mh "I would like that."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:144
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:143
 translate spanish sm1cs_mh006_22ac5bf9:
 
     # mc "I think I would, too."
     mc "I think I would, too."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:151
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:149
 translate spanish sm1cs_mh006_fb0f1f6f:
 
     # mc "When I'm here, it can be just you and me."
     mc "When I'm here, it can be just you and me."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:154
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:152
 translate spanish sm1cs_mh006_60249650:
 
     # mh "You don't need to do that, [mcname]."
     mh "You don't need to do that, [mcname]."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:156
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:154
 translate spanish sm1cs_mh006_323a47da:
 
     # mc "If it will make you more comfortable-"
     mc "If it will make you more comfortable-"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:157
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:155
 translate spanish sm1cs_mh006_c006bcdf:
 
     # mh "What would make me more comfortable is knowing that we are both totally open and honest with each other."
     mh "What would make me more comfortable is knowing that we are both totally open and honest with each other."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:165
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:163
 translate spanish sm1cs_mh006_after_choice_552d17e4:
 
     # mc "You know... There's something that's been bothering me a little bit..."
     mc "You know... There's something that's been bothering me a little bit..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:167
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:165
 translate spanish sm1cs_mh006_after_choice_01cba904:
 
     # mh "What's that?"
     mh "What's that?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:168
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:166
 translate spanish sm1cs_mh006_after_choice_d0e5c4f2:
 
     # mc "The other night, after the arcade. I thought we were having a nice moment, but then you kind of shut down..."
     mc "The other night, after the arcade. I thought we were having a nice moment, but then you kind of shut down..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:171
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:169
 translate spanish sm1cs_mh006_after_choice_8c3a2df4:
 
     # mh "Yes, I've been meaning to apologize for that..."
     mh "Yes, I've been meaning to apologize for that..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:174
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:172
 translate spanish sm1cs_mh006_after_choice_4e37c26e:
 
     # mc "Can you tell me what happened?"
     mc "Can you tell me what happened?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:177
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:175
 translate spanish sm1cs_mh006_after_choice_10cf7798:
 
     # mh "I... I wanted to hold out a little longer..."
     mh "I... I wanted to hold out a little longer..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:179
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:177
 translate spanish sm1cs_mh006_after_choice_b2b9e19d:
 
     # mc "What do you mean?"
     mc "What do you mean?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:180
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:178
 translate spanish sm1cs_mh006_after_choice_bf05c5a5:
 
     # mh "When we first started seeing each other again, I... I told myself I would hold out until at least the third date. I wouldn't even think the word sex until you had wined and dined me enough."
     mh "When we first started seeing each other again, I... I told myself I would hold out until at least the third date. I wouldn't even think the word sex until you had wined and dined me enough."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:181
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:179
 translate spanish sm1cs_mh006_after_choice_c328ad82:
 
     # mh "But the other night..."
     mh "But the other night..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:184
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:182
 translate spanish sm1cs_mh006_after_choice_a089f383:
 
     # mh "I don't know what it is about you, [mcname], but there is an intoxicating aura that surrounds you. Whenever I get close to you, I..."
     mh "I don't know what it is about you, [mcname], but there is an intoxicating aura that surrounds you. Whenever I get close to you, I..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:185
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:183
 translate spanish sm1cs_mh006_after_choice_72bab072:
 
     # mh "God, I sound like a horny teenager."
     mh "God, I sound like a horny teenager."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:188
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:186
 translate spanish sm1cs_mh006_after_choice_b5d99a54:
 
     # mc "No! No, not at all. Please, go on."
     mc "No! No, not at all. Please, go on."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:189
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:187
 translate spanish sm1cs_mh006_after_choice_077f479f:
 
     # mct "For the love of God, go on!"
     mct "For the love of God, go on!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:193
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:191
 translate spanish sm1cs_mh006_after_choice_c3abf3b2:
 
     # mh "The other night I caved to my... Baser instincts. I was... Not ashamed, or guilty, but... Not proud of it. I broke that promise to myself."
     mh "The other night I caved to my... Baser instincts. I was... Not ashamed, or guilty, but... Not proud of it. I broke that promise to myself."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:197
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:195
 translate spanish sm1cs_mh006_after_choice_d9ac63e5:
 
     # mc "I am sorry for being so... Enticing, I guess?"
     mc "I am sorry for being so... Enticing, I guess?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:200
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:198
 translate spanish sm1cs_mh006_after_choice_b5ed92df:
 
     # mh "You should be sorry. The amount of trouble and turmoil you cause is truly astonishing."
     mh "You should be sorry. The amount of trouble and turmoil you cause is truly astonishing."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:202
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:200
 translate spanish sm1cs_mh006_after_choice_49c6ffe2:
 
     # mc "Oh, I know."
     mc "Oh, I know."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:203
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:201
 translate spanish sm1cs_mh006_after_choice_0cbbebaf:
 
     # mh "Oh, [mcname]..."
     mh "Oh, [mcname]..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:206
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:204
 translate spanish sm1cs_mh006_after_choice_872840f2:
 
     # mc "Yes, Lyssa?"
     mc "Yes, Lyssa?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:209
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:207
 translate spanish sm1cs_mh006_after_choice_f685f918:
 
     # mh "I love being around you."
     mh "I love being around you."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:212
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:210
 translate spanish sm1cs_mh006_after_choice_dd46282f:
 
     # mc "And I love being around you."
     mc "And I love being around you."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:213
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:211
 translate spanish sm1cs_mh006_after_choice_1ab3ced8:
 
     # mc "So... You can think about sex again, huh?"
     mc "So... You can think about sex again, huh?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:216
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:214
 translate spanish sm1cs_mh006_after_choice_318233a7:
 
     # mh "Oh? Someone's keeping track, huh."
     mh "Oh? Someone's keeping track, huh."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:218
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:216
 translate spanish sm1cs_mh006_after_choice_0048f7e6:
 
     # mc "Maaaaaaybe."
     mc "Maaaaaaybe."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:219
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:217
 translate spanish sm1cs_mh006_after_choice_1a900bdf:
 
     # mh "I see where your mind is."
     mh "I see where your mind is."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:222
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:220
 translate spanish sm1cs_mh006_after_choice_905dec45:
 
     # mc "Hey! I'm only thinking about it because you brought it up!"
     mc "Hey! I'm only thinking about it because you brought it up!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:225
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:223
 translate spanish sm1cs_mh006_after_choice_cb764a66:
 
     # mh "Are you trying to tell me that the guy running a porn studio only thinks about sex when it's brought up in conversation?"
     mh "Are you trying to tell me that the guy running a porn studio only thinks about sex when it's brought up in conversation?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:226
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:224
 translate spanish sm1cs_mh006_after_choice_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:229
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:227
 translate spanish sm1cs_mh006_after_choice_2ab50be8:
 
     # mc "Okay, technically, I was thinking about it before, but I'm only {i}talking{/i} about it because you brought it up!"
     mc "Okay, technically, I was thinking about it before, but I'm only {i}talking{/i} about it because you brought it up!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:232
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:230
 translate spanish sm1cs_mh006_after_choice_653a8793:
 
     # mh "Mmmhmmmm. I'll believe that when pigs fly."
     mh "Mmmhmmmm. I'll believe that when pigs fly."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:235
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:233
 translate spanish sm1cs_mh006_after_choice_54fc16cf:
 
     # mc "Or when a shark bites a lawyer."
     mc "Or when a shark bites a lawyer."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:238
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:236
 translate spanish sm1cs_mh006_after_choice_81cc3a3a:
 
     # mh "What? What do you mean 'when a shark bites a lawyer'?"
     mh "What? What do you mean 'when a shark bites a lawyer'?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:241
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:239
 translate spanish sm1cs_mh006_after_choice_df387c72:
 
     # mc "Yeah. Because sharks don't bite lawyers. Professional courtesy."
     mc "Yeah. Because sharks don't bite lawyers. Professional courtesy."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:245
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:243
 translate spanish sm1cs_mh006_after_choice_00aadb60:
 
     # mh "That was okay. Off your game tonight."
     mh "That was okay. Off your game tonight."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:248
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:246
 translate spanish sm1cs_mh006_after_choice_3092a798:
 
     # mc "I'll take a pity chuckle."
     mc "I'll take a pity chuckle."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:251
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:249
 translate spanish sm1cs_mh006_after_choice_a41ee276:
 
     # mh "You know, you are absolutely ridiculous."
     mh "You know, you are absolutely ridiculous."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:254
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:252
 translate spanish sm1cs_mh006_after_choice_16cbee7d:
 
     # mc "Yeah, it's all a part of my charm!"
     mc "Yeah, it's all a part of my charm!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:256
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:254
 translate spanish sm1cs_mh006_after_choice_a21a6c96:
 
     # mh "Sure it is."
     mh "Sure it is."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:257
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:255
 translate spanish sm1cs_mh006_after_choice_90500071:
 
     # mc "So... Third date... What are the chances?"
     mc "So... Third date... What are the chances?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:260
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:258
 translate spanish sm1cs_mh006_after_choice_3ccd0cc3:
 
     # mh "We'll see, if you play it cool. Then, maybe."
     mh "We'll see, if you play it cool. Then, maybe."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:263
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:261
 translate spanish sm1cs_mh006_after_choice_0b4e0455:
 
     # mc "Good enough for me!"
     mc "Good enough for me!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:266
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:264
 translate spanish sm1cs_mh006_after_choice_138ff025:
 
     # mh "It looks like our food is on it's way."
     mh "It looks like our food is on it's way."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:269
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:267
 translate spanish sm1cs_mh006_after_choice_88cd8991:
 
     # mc "Great, because I am starving!"
     mc "Great, because I am starving!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:272
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:270
 translate spanish sm1cs_mh006_after_choice_53990969:
 
     # mh "Thinking about sex making you hungry?"
     mh "Thinking about sex making you hungry?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:275
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:273
 translate spanish sm1cs_mh006_after_choice_63540d25:
 
     # mc "Nope.{w} Trying to resist the gravitational pull of your beauty has really worked up my appetite."
     mc "Nope.{w} Trying to resist the gravitational pull of your beauty has really worked up my appetite."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:277
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:275
 translate spanish sm1cs_mh006_after_choice_8444950d:
 
     # mh "You smooth talker."
     mh "You smooth talker."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:278
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:276
 translate spanish sm1cs_mh006_after_choice_cfcc2293:
 
     # mc "I know."
     mc "I know."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:291
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:289
 translate spanish sm1cs_mh006_after_choice_38c2a39d:
 
     # mh "... Well you know the real difference between a lawyer and a vampire, right, [mcname]?"
     mh "... Well you know the real difference between a lawyer and a vampire, right, [mcname]?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:294
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:292
 translate spanish sm1cs_mh006_after_choice_67009d7f:
 
     # mc "Uhhh, nope."
     mc "Uhhh, nope."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:297
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:295
 translate spanish sm1cs_mh006_after_choice_7b4f451e:
 
     # mh "Law school."
     mh "Law school."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:300
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:298
 translate spanish sm1cs_mh006_after_choice_aaf63cf5:
 
     # mc "That one was pretty good!"
     mc "That one was pretty good!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:303
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:301
 translate spanish sm1cs_mh006_after_choice_dd90d3c6:
 
     # mh "I don't know, I really liked your cement joke."
     mh "I don't know, I really liked your cement joke."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:306
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:304
 translate spanish sm1cs_mh006_after_choice_0d3ef2ba:
 
     # mc "That one is an absolute classic."
     mc "That one is an absolute classic."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:307
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:305
 translate spanish sm1cs_mh006_after_choice_cb70afb1:
 
     # mc "So..."
     mc "So..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:309
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:307
 translate spanish sm1cs_mh006_after_choice_08e608a8:
 
     # mh "So..."
     mh "So..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:310
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:308
 translate spanish sm1cs_mh006_after_choice_d1acc3d9:
 
     # mc "I had a great time tonight, Lyssa."
     mc "I had a great time tonight, Lyssa."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:313
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:311
 translate spanish sm1cs_mh006_after_choice_4078371f:
 
     # mh "I had a great time as well, [mcname]."
     mh "I had a great time as well, [mcname]."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:316
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:314
 translate spanish sm1cs_mh006_after_choice_ced52754:
 
     # mc "We should... Do it again, sometime, maybe?"
     mc "We should... Do it again, sometime, maybe?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:318
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:316
 translate spanish sm1cs_mh006_after_choice_7f0d5945:
 
     # mh "I think that would be amenable to me."
     mh "I think that would be amenable to me."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:319
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:317
 translate spanish sm1cs_mh006_after_choice_5ac8cc43:
 
     # mc "Good. Good..."
     mc "Good. Good..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:322
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:320
 translate spanish sm1cs_mh006_after_choice_047c5d38:
 
     # mc "Wel, uhm... I guess-"
     mc "Wel, uhm... I guess-"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:325
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:323
 translate spanish sm1cs_mh006_after_choice_b5fd75b7:
 
     # mh "You want to come in for tea, or something?"
     mh "You want to come in for tea, or something?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:328
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:326
 translate spanish sm1cs_mh006_after_choice_db325a73:
 
     # mc "Yes! Yeah, uhm, absolutely."
     mc "Yes! Yeah, uhm, absolutely."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:329
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:327
 translate spanish sm1cs_mh006_after_choice_c6f5aad5:
 
     # mct "I don't know about tea, but I'm definitely down for something!"
     mct "I don't know about tea, but I'm definitely down for something!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:332
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:330
 translate spanish sm1cs_mh006_after_choice_0655c0b0:
 
     # mh "Tsk tsk, [mcname]. You're losing your cool."
     mh "Tsk tsk, [mcname]. You're losing your cool."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:334
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:332
 translate spanish sm1cs_mh006_after_choice_2affa0d3:
 
     # mc "You're right, I'm sorry."
     mc "You're right, I'm sorry."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:338
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:336
 translate spanish sm1cs_mh006_after_choice_9c4093be:
 
     # mc "'Yeah, tea sounds cool. Or whatever.'"
     mc "'Yeah, tea sounds cool. Or whatever.'"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:341
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:339
 translate spanish sm1cs_mh006_after_choice_1cbf27a3:
 
     # mh "Come on, before I change my mind, you weirdo."
     mh "Come on, before I change my mind, you weirdo."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:346
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:344
 translate spanish sm1cs_mh006_after_choice_76d24172:
 
     # mct "Hell yeah!!!"
     mct "Hell yeah!!!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:355
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:353
 translate spanish sm1cs_mh006_after_choice_99463040:
 
     # mct "Oh... She meant actual tea..."
     mct "Oh... She meant actual tea..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:358
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:356
 translate spanish sm1cs_mh006_after_choice_aec001e1:
 
     # mh "Disappointed?"
     mh "Disappointed?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:361
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:359
 translate spanish sm1cs_mh006_after_choice_586568b7:
 
     # mc "Uh, huh? What?"
     mc "Uh, huh? What?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:364
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:362
 translate spanish sm1cs_mh006_after_choice_860de970:
 
     # mh "The look on your face. You look disappointed."
     mh "The look on your face. You look disappointed."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:367
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:365
 translate spanish sm1cs_mh006_after_choice_e273a8d7:
 
     # mc "What! Nahhhhh. I'm... Like, totally cool."
     mc "What! Nahhhhh. I'm... Like, totally cool."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:370
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:368
 translate spanish sm1cs_mh006_after_choice_52c0ff02:
 
     # mh "Sure, Casanova. What kind of tea do you want?"
     mh "Sure, Casanova. What kind of tea do you want?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:372
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:370
 translate spanish sm1cs_mh006_after_choice_b3ae8984:
 
     # mc "Uhm..."
     mc "Uhm..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:375
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:373
 translate spanish sm1cs_mh006_after_choice_b8c18fdc:
 
     # mct "Shit! The only tea I can think of is a video game teabag and that is {u}very different.{/u}"
     mct "Shit! The only tea I can think of is a video game teabag and that is {u}very different.{/u}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:376
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:374
 translate spanish sm1cs_mh006_after_choice_eb25c9ca:
 
     # mc "I'll have some... Jasper tea?"
     mc "I'll have some... Jasper tea?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:379
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:377
 translate spanish sm1cs_mh006_after_choice_40d02e69:
 
     # mh "Did you mean jasmine?"
     mh "Did you mean jasmine?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:382
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:380
 translate spanish sm1cs_mh006_after_choice_dfbaed0a:
 
     # mc "Yeah! Jasmine, that's it."
     mc "Yeah! Jasmine, that's it."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:385
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:383
 translate spanish sm1cs_mh006_after_choice_655cfc38:
 
     # mh "Sometimes you are the smoothest man I've ever met. Other times, I'd swear you learned how to talk on the internet."
     mh "Sometimes you are the smoothest man I've ever met. Other times, I'd swear you learned how to talk on the internet."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:388
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:386
 translate spanish sm1cs_mh006_after_choice_d3483b23:
 
     # mct "If she only knew..."
     mct "If she only knew..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:391
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:389
 translate spanish sm1cs_mh006_after_choice_3651ee69:
 
     # mh "I will be right back, just need to use the ladies room."
     mh "I will be right back, just need to use the ladies room."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:393
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:391
 translate spanish sm1cs_mh006_after_choice_e94ab8a1:
 
     # mc "Okay! I will be right here, waiting for the tea to be ready."
     mc "Okay! I will be right here, waiting for the tea to be ready."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:400
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:398
 translate spanish sm1cs_mh006_after_choice_b290422d:
 
     # mct "I don't think I've ever used a teapot before..."
     mct "I don't think I've ever used a teapot before..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:401
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:399
 translate spanish sm1cs_mh006_after_choice_7e05c2e7:
 
     # mct "In fact, I don't think anyone has ever really made me tea..."
     mct "In fact, I don't think anyone has ever really made me tea..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:403
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:401
 translate spanish sm1cs_mh006_after_choice_d04e4d62:
 
     # mct "Is that weird?"
     mct "Is that weird?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:409
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:407
 translate spanish sm1cs_mh006_after_choice_9344b249:
 
     # mct "Oh shit! What did I do!?"
     mct "Oh shit! What did I do!?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:417
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:415
 translate spanish sm1cs_mh006_after_choice_c478a49b:
 
     # mct "Did I break it? Uhhh, I don't know what to do. Uhm, I guess I'll just turn off the stove?"
     mct "Did I break it? Uhhh, I don't know what to do. Uhm, I guess I'll just turn off the stove?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:422
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:420
 translate spanish sm1cs_mh006_after_choice_f0dd61f2:
 
     # mh "Looks like our tea is ready."
     mh "Looks like our tea is ready."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:427
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:425
 translate spanish sm1cs_mh006_after_choice_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:429
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:427
 translate spanish sm1cs_mh006_after_choice_0f5e6726:
 
     # mh "You okay?"
     mh "You okay?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:431
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:429
 translate spanish sm1cs_mh006_after_choice_0c170bad:
 
     # mc "Yep. You look so damn good I was stunned silent."
     mc "Yep. You look so damn good I was stunned silent."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:434
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:432
 translate spanish sm1cs_mh006_after_choice_cc49fce0:
 
     # mh "Well, since the tea is ready, I think it's time for the 'something else'."
     mh "Well, since the tea is ready, I think it's time for the 'something else'."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:454
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:452
 translate spanish sm1cs_mh006_sex_b8b7db21:
 
     # mh "You know, keeping your clothes on might make this harder than it needs to be."
     mh "You know, keeping your clothes on might make this harder than it needs to be."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:457
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:455
 translate spanish sm1cs_mh006_sex_621a3f7b:
 
     # mc "You've got a good point."
     mc "You've got a good point."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:462
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:460
 translate spanish sm1cs_mh006_sex_f8260be7:
 
     # mh "Mmmmmmm..."
     mh "Mmmmmmm..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:464
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:462
 translate spanish sm1cs_mh006_sex_f49fff8f:
 
     # mc "Yeah?"
     mc "Yeah?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:465
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:463
 translate spanish sm1cs_mh006_sex_95145c92:
 
     # mh "I missed this view a lot... I may have spent a few nights picturing this moment..."
     mh "I missed this view a lot... I may have spent a few nights picturing this moment..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:468
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:466
 translate spanish sm1cs_mh006_sex_6eb5f030:
 
     # mc "Yeah? Well, in your fantasy, what's next?"
     mc "Yeah? Well, in your fantasy, what's next?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:472
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:470
 translate spanish sm1cs_mh006_sex_3292f73e:
 
     # mh "This."
     mh "This."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:475
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:473
 translate spanish sm1cs_mh006_sex_a2813ae7:
 
     # mh "I have missed the taste of your dick, [mcname]."
     mh "I have missed the taste of your dick, [mcname]."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:476
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:474
 translate spanish sm1cs_mh006_sex_471b89ea:
 
     # mh "And judging by how hard you are, it's missed being in my mouth."
     mh "And judging by how hard you are, it's missed being in my mouth."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:479
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:477
 translate spanish sm1cs_mh006_sex_f8cf1e9b:
 
     # mc "More than you know."
     mc "More than you know."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:481
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:479
 translate spanish sm1cs_mh006_sex_555ce2d0:
 
     # mh "Should we let them get reacquainted then?"
     mh "Should we let them get reacquainted then?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:483
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:481
 translate spanish sm1cs_mh006_sex_f69b0fd2:
 
     # mc "God, yes."
     mc "God, yes."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:490
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:488
 translate spanish sm1cs_mh006_sex_7448b0a8:
 
     # mc "Fuck, Lyssa... You weren't lying when you said you missed my dick."
     mc "Fuck, Lyssa... You weren't lying when you said you missed my dick."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:491
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:489
 translate spanish sm1cs_mh006_sex_a02a717b:
 
     # mc "I've missed your blowjobs, so much... You know exactly what I want."
     mc "I've missed your blowjobs, so much... You know exactly what I want."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:494
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:492
 translate spanish sm1cs_mh006_sex_117c7b2f:
 
     # mc "Oh shit, that's {i}fucking amazing!{/i}"
     mc "Oh shit, that's {i}fucking amazing!{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:495
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:493
 translate spanish sm1cs_mh006_sex_ab0f0e94:
 
     # mh "Gllllllck, glck, glck, gllllllllllcccccck!"
     mh "Gllllllck, glck, glck, gllllllllllcccccck!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:498
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:496
 translate spanish sm1cs_mh006_sex_5e58901a:
 
     # mc "If I could, I wouldn't ever let you stop... This is just so wonderful..."
     mc "If I could, I wouldn't ever let you stop... This is just so wonderful..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:499
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:497
 translate spanish sm1cs_mh006_sex_528f798e:
 
     # mc "Your lips wrapped around me, your head bobbing down on my cock, your tongue - God, your tongue!"
     mc "Your lips wrapped around me, your head bobbing down on my cock, your tongue - God, your tongue!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:504
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:502
 translate spanish sm1cs_mh006_sex_74c4e690:
 
     # mh "Glck, glck, glck!"
     mh "Glck, glck, glck!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:505
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:503
 translate spanish sm1cs_mh006_sex_509ac89a:
 
     # mc "If you're not careful-"
     mc "If you're not careful-"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:508
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:506
 translate spanish sm1cs_mh006_sex_2b65586a:
 
     # mc "-Jesus, I want to cum down your throat. Holllly guacamollllley!"
     mc "-Jesus, I want to cum down your throat. Holllly guacamollllley!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:509
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:507
 translate spanish sm1cs_mh006_sex_91f75041:
 
     # mc "Yeah, just like that - fuh - just like that!"
     mc "Yeah, just like that - fuh - just like that!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:512
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:510
 translate spanish sm1cs_mh006_sex_4e99a1c1:
 
     # mh "Glck, glck, glck, glck."
     mh "Glck, glck, glck, glck."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:513
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:511
 translate spanish sm1cs_mh006_sex_e1875902:
 
     # mc "I'm so close, Lyssa. Gah, I'm close!"
     mc "I'm so close, Lyssa. Gah, I'm close!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:518
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:516
 translate spanish sm1cs_mh006_sex_0efca0a0:
 
     # mh "I can't wait any longer, [mcname]."
     mh "I can't wait any longer, [mcname]."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:519
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:517
 translate spanish sm1cs_mh006_sex_ec24b5ab:
 
     # mh "Please, will you fuck me?"
     mh "Please, will you fuck me?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:522
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:520
 translate spanish sm1cs_mh006_sex_a8ca7c99:
 
     # mc "I would be an idiot to say no."
     mc "I would be an idiot to say no."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:526
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:524
 translate spanish sm1cs_mh006_sex_49c16406:
 
     # mh "I've been waiting for this... I... I've missed this, so much... Missed you..."
     mh "I've been waiting for this... I... I've missed this, so much... Missed you..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:529
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:527
 translate spanish sm1cs_mh006_sex_02926c63:
 
     # mc "Sounds like I need to make up for lost time."
     mc "Sounds like I need to make up for lost time."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:533
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:531
 translate spanish sm1cs_mh006_sex_9339daec:
 
     # mh "Please."
     mh "Please."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:540
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:538
 translate spanish sm1cs_mh006_sex_912c7e55:
 
     # mh "Oh my - [mcname]!"
     mh "Oh my - [mcname]!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:541
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:539
 translate spanish sm1cs_mh006_sex_95c7633a:
 
     # mc "Are you okay?"
     mc "Are you okay?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:544
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:542
 translate spanish sm1cs_mh006_sex_8337c3e3:
 
     # mh "I'm more than okay! Fnnnnng - I'm in {i}heaven{/i}!"
     mh "I'm more than okay! Fnnnnng - I'm in {i}heaven{/i}!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:547
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:545
 translate spanish sm1cs_mh006_sex_43c042ff:
 
     # mh "I forgot how incredible this felt - how perfect your dick feels inside me."
     mh "I forgot how incredible this felt - how perfect your dick feels inside me."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:548
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:546
 translate spanish sm1cs_mh006_sex_ac05fc0b:
 
     # mh "Your cock fills me up, and stretches me - Mmmmmmmm! It's nothing short of {i}perfect!{/i}"
     mh "Your cock fills me up, and stretches me - Mmmmmmmm! It's nothing short of {i}perfect!{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:551
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:549
 translate spanish sm1cs_mh006_sex_b1665062:
 
     # mc "And you're so incredibly tight. Jesus, I don't think I could pull my dick out if I tried!"
     mc "And you're so incredibly tight. Jesus, I don't think I could pull my dick out if I tried!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:552
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:550
 translate spanish sm1cs_mh006_sex_ce6c4fc3:
 
     # mh "{i}Don't you dare, [mcname].{/i}"
     mh "{i}Don't you dare, [mcname].{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:555
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:553
 translate spanish sm1cs_mh006_sex_b82b8d78:
 
     # mc "I wouldn't dream of it."
     mc "I wouldn't dream of it."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:556
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:554
 translate spanish sm1cs_mh006_sex_a0f276e0:
 
     # mh "Good, because - ohh, ohhhh, yessss - I need you to cum in meee."
     mh "Good, because - ohh, ohhhh, yessss - I need you to cum in meee."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:559
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:557
 translate spanish sm1cs_mh006_sex_c2d1457d:
 
     # mh "I need to feel you fill me up, your warm, sticky cum coating my insides."
     mh "I need to feel you fill me up, your warm, sticky cum coating my insides."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:560
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:558
 translate spanish sm1cs_mh006_sex_fbddc464:
 
     # mc "Goddamn, Lyssa..."
     mc "Goddamn, Lyssa..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:561
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:559
 translate spanish sm1cs_mh006_sex_a5d39a36:
 
     # mh "I've been thinking about this... A lot. And I just need to remember what it feels like."
     mh "I've been thinking about this... A lot. And I just need to remember what it feels like."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:564
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:562
 translate spanish sm1cs_mh006_sex_e1170953:
 
     # mc "I think I can fulfill your fantasy."
     mc "I think I can fulfill your fantasy."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:565
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:563
 translate spanish sm1cs_mh006_sex_70694833:
 
     # mh "Good. Because you've already filled me today."
     mh "Good. Because you've already filled me today."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:568
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:566
 translate spanish sm1cs_mh006_sex_d39ee0f9:
 
     # mc "Mmmmnnngnnnngggg, I'm getting close!"
     mc "Mmmmnnngnnnngggg, I'm getting close!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:569
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:567
 translate spanish sm1cs_mh006_sex_539d9a98:
 
     # mh "Flip me over, I want to see you cum!"
     mh "Flip me over, I want to see you cum!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:575
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:573
 translate spanish sm1cs_mh006_sex_e44443f0:
 
     # mh "What are you-"
     mh "What are you-"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:579
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:577
 translate spanish sm1cs_mh006_sex_346b716c:
 
     # mh "Oh my God!!!"
     mh "Oh my God!!!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:581
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:579
 translate spanish sm1cs_mh006_sex_f49fff8f_1:
 
     # mc "Yeah?"
     mc "Yeah?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:583
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:581
 translate spanish sm1cs_mh006_sex_925b1184:
 
     # mh "Fuhhh - that felt -"
     mh "Fuhhh - that felt -"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:586
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:584
 translate spanish sm1cs_mh006_sex_ab9779f2:
 
     # mc "Almost as good as this?"
     mc "Almost as good as this?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:593
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:591
 translate spanish sm1cs_mh006_sex_7cf675bc:
 
     # mh "Oh my {i}GOD!{/i}"
     mh "Oh my {i}GOD!{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:594
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:592
 translate spanish sm1cs_mh006_sex_8df4c2b5:
 
     # mh "Don't stop, [mcname], please don't stop!"
     mh "Don't stop, [mcname], please don't stop!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:596
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:594
 translate spanish sm1cs_mh006_sex_352ece69:
 
     # mh "You're going to make me cum - holy shit, you're going to make me cum!"
     mh "You're going to make me cum - holy shit, you're going to make me cum!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:597
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:595
 translate spanish sm1cs_mh006_sex_3dcedd30:
 
     # mc "I can feel myself getting close..."
     mc "I can feel myself getting close..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:599
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:597
 translate spanish sm1cs_mh006_sex_65155363:
 
     # mh "I want to cum together, {i}I need us to cum together!{/i}"
     mh "I want to cum together, {i}I need us to cum together!{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:602
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:600
 translate spanish sm1cs_mh006_sex_ce14dda4:
 
     # mh "Your dick is getting so much deeper now, holy - mmmmmmmm!"
     mh "Your dick is getting so much deeper now, holy - mmmmmmmm!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:604
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:602
 translate spanish sm1cs_mh006_sex_b3bc47a9:
 
     # mc "Lyssa, fuuuuuuuuhhhhg, Lyssa!"
     mc "Lyssa, fuuuuuuuuhhhhg, Lyssa!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:605
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:603
 translate spanish sm1cs_mh006_sex_eae76607:
 
     # mh "Yes, [mcname], yes!"
     mh "Yes, [mcname], yes!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:607
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:605
 translate spanish sm1cs_mh006_sex_3c3da4b8:
 
     # mc "Gaaaahh, I'm going to - fuuuuuck!"
     mc "Gaaaahh, I'm going to - fuuuuuck!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:608
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:606
 translate spanish sm1cs_mh006_sex_9c0ce43f:
 
     # mh "Yes! Yes, yes, yes!"
     mh "Yes! Yes, yes, yes!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:609
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:607
 translate spanish sm1cs_mh006_sex_d4900efc:
 
     # mh "God yes, fill me up! Shoot your cum deep inside my ass! Yes, yes, yes!"
     mh "God yes, fill me up! Shoot your cum deep inside my ass! Yes, yes, yes!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:612
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:610
 translate spanish sm1cs_mh006_sex_e3132734:
 
     # mc "Fuck, Lyssa, I'm cummmmmming!"
     mc "Fuck, Lyssa, I'm cummmmmming!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:613
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:611
 translate spanish sm1cs_mh006_sex_0b0368d2:
 
     # mh "Yes! {i}Yes! YES! I'M CUMMING!{/i}"
     mh "Yes! {i}Yes! YES! I'M CUMMING!{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:618
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:616
 translate spanish sm1cs_mh006_sex_05931324:
 
     # mh "Ohhhh fuuUUUCK!"
     mh "Ohhhh fuuUUUCK!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:628
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:626
 translate spanish sm1cs_mh006_sex_1ba4cf58:
 
     # mc "Everything you had imagined?"
     mc "Everything you had imagined?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:631
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:629
 translate spanish sm1cs_mh006_sex_aee6cab9:
 
     # mh "No. It was better than I could have ever dreamed."
     mh "No. It was better than I could have ever dreamed."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:633
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:631
 translate spanish sm1cs_mh006_sex_45e2a861:
 
     # mc "Good. That's what we aim to do here."
     mc "Good. That's what we aim to do here."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:636
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:634
 translate spanish sm1cs_mh006_sex_0da88a45:
 
     # mh "We?"
     mh "We?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:639
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:637
 translate spanish sm1cs_mh006_sex_4a073610:
 
     # mc "Yeah, me and you."
     mc "Yeah, me and you."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:640
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:638
 translate spanish sm1cs_mh006_sex_8321fefe:
 
     # mc "We aim to have the best sex possible."
     mc "We aim to have the best sex possible."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:643
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:641
 translate spanish sm1cs_mh006_sex_95dec991:
 
     # mh "Well I think we exceeded those expectations tonight."
     mh "Well I think we exceeded those expectations tonight."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:646
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:644
 translate spanish sm1cs_mh006_sex_3e780cd0:
 
     # mc "I think so, too."
     mc "I think so, too."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:649
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:647
 translate spanish sm1cs_mh006_sex_6d853030:
 
     # mh "Hell, I think you might have fucked me into a coma... I can't move an inch."
     mh "Hell, I think you might have fucked me into a coma... I can't move an inch."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:651
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:649
 translate spanish sm1cs_mh006_sex_4eadc533:
 
     # mc "Neither can I."
     mc "Neither can I."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:655
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:653
 translate spanish sm1cs_mh006_sex_eb9608ff:
 
     # mc "But I should get up, otherwise, I'll fall asleep here."
     mc "But I should get up, otherwise, I'll fall asleep here."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:657
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:655
 translate spanish sm1cs_mh006_sex_a88aada8:
 
     # mh "That's fine."
     mh "That's fine."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:658
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:656
 translate spanish sm1cs_mh006_sex_cc44a9c5:
 
     # mc "Really? What happened to taking it slow?"
     mc "Really? What happened to taking it slow?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:661
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:659
 translate spanish sm1cs_mh006_sex_bcea909b:
 
     # mh "It's not like you're leaving a toothbrush in the bathroom. Besides, I don't have the energy to kick you out."
     mh "It's not like you're leaving a toothbrush in the bathroom. Besides, I don't have the energy to kick you out."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:664
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:662
 translate spanish sm1cs_mh006_sex_d20c600e:
 
     # mc "Well, how can I say no to spending the night with a beautiful woman?"
     mc "Well, how can I say no to spending the night with a beautiful woman?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:665
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:663
 translate spanish sm1cs_mh006_sex_a8660272:
 
     # mc "Should I get you a towel or something?"
     mc "Should I get you a towel or something?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:667
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:665
 translate spanish sm1cs_mh006_sex_9c263754:
 
     # mh "Hmmm? Why?"
     mh "Hmmm? Why?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:668
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:666
 translate spanish sm1cs_mh006_sex_f40e1934:
 
     # mc "Well, you made a mess of yourself."
     mc "Well, you made a mess of yourself."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:671
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:669
 translate spanish sm1cs_mh006_sex_ff158da2:
 
     # mh "It's fine, I'll deal with it in the morning."
     mh "It's fine, I'll deal with it in the morning."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:673
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:671
 translate spanish sm1cs_mh006_sex_74c498aa:
 
     # mc "Sounds good to me."
     mc "Sounds good to me."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:689
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:687
 translate spanish sm1cs_mh006_sex_39ab3d10:
 
     # mc "Mmmmmm, morning, Lyssa."
     mc "Mmmmmm, morning, Lyssa."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:693
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:691
 translate spanish sm1cs_mh006_sex_3645e64f:
 
     # mc "Lyssa?"
     mc "Lyssa?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:699
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:697
 translate spanish sm1cs_mh006_sex_5ff87e6d:
 
     # mct "\"[mcname], got an early morning call from a client, had to run to the office. I loved our date last night, hope to do it again soon. x o, Lyssa.\""
     mct "\"[mcname], got an early morning call from a client, had to run to the office. I loved our date last night, hope to do it again soon. x o, Lyssa.\""
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:702
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:700
 translate spanish sm1cs_mh006_sex_9b56754e:
 
     # mct "I hope we get to do that again real soon, too.{w} But I should probably get a start on the day."
@@ -1388,7 +1388,7 @@ translate spanish strings:
     old "I don't need to talk about Stacy when we're together"
     new "I don't need to talk about Stacy when we're together"
 
-    # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:283
+    # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:281
     old "After dinner"
     new "After dinner"
 

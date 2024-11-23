@@ -1,38 +1,38 @@
 ﻿translate spanish strings:
 
-    # game/code/renpy/screens/game_menus.rpy:128
+    # game/code/renpy/screens/game_menus.rpy:150
     old "Back"
     new "Back"
 
-    # game/code/renpy/screens/game_menus.rpy:129
+    # game/code/renpy/screens/game_menus.rpy:151
     old "History"
     new "History"
 
-    # game/code/renpy/screens/game_menus.rpy:130
+    # game/code/renpy/screens/game_menus.rpy:152
     old "Skip"
     new "Skip"
 
-    # game/code/renpy/screens/game_menus.rpy:131
+    # game/code/renpy/screens/game_menus.rpy:153
     old "Auto"
     new "Auto"
 
-    # game/code/renpy/screens/game_menus.rpy:132
+    # game/code/renpy/screens/game_menus.rpy:154
     old "Save"
     new "Save"
 
-    # game/code/renpy/screens/game_menus.rpy:133
+    # game/code/renpy/screens/game_menus.rpy:155
     old "Q.Save"
     new "Q.Save"
 
-    # game/code/renpy/screens/game_menus.rpy:134
+    # game/code/renpy/screens/game_menus.rpy:156
     old "Q.Load"
     new "Q.Load"
 
-    # game/code/renpy/screens/game_menus.rpy:135
+    # game/code/renpy/screens/game_menus.rpy:157
     old "Prefs"
     new "Prefs"
 
-    # game/code/renpy/screens/game_menus.rpy:138
+    # game/code/renpy/screens/game_menus.rpy:160
     old "Open phone"
     new "Open phone"
 

@@ -154,331 +154,331 @@ translate spanish sm1ms011_it_dbb29552:
     # sy "Sure, but I'd bet my last pair of panties that someone stood out."
     sy "Sure, but I'd bet my last pair of panties that someone stood out."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:101
-translate spanish sm1fs_i011_it_menu_18515f7b:
+# game/code/scenes/main_story/sm1ms011_it.rpy:113
+translate spanish sm1fs_i011_it_talk_ns_18515f7b:
 
     # mc "This girl Nari Song is pretty cute"
     mc "This girl Nari Song is pretty cute"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:104
-translate spanish sm1fs_i011_it_menu_446f60a3:
+# game/code/scenes/main_story/sm1ms011_it.rpy:116
+translate spanish sm1fs_i011_it_talk_ns_446f60a3:
 
     # sy "Haha. Someone has a crush. What's she like?"
     sy "Haha. Someone has a crush. What's she like?"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:107
-translate spanish sm1fs_i011_it_menu_1f3af657:
+# game/code/scenes/main_story/sm1ms011_it.rpy:119
+translate spanish sm1fs_i011_it_talk_ns_1f3af657:
 
     # mc "Eager. Not in that way."
     mc "Eager. Not in that way."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:108
-translate spanish sm1fs_i011_it_menu_edd6053c:
+# game/code/scenes/main_story/sm1ms011_it.rpy:120
+translate spanish sm1fs_i011_it_talk_ns_edd6053c:
 
     # mc "Like she's this really smart girl from South Korea. She left her family to come out here."
     mc "Like she's this really smart girl from South Korea. She left her family to come out here."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:112
-translate spanish sm1fs_i011_it_menu_51144288:
+# game/code/scenes/main_story/sm1ms011_it.rpy:124
+translate spanish sm1fs_i011_it_talk_ns_51144288:
 
     # sy "Left her home country? That's badass. I like her already!"
     sy "Left her home country? That's badass. I like her already!"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:115
-translate spanish sm1fs_i011_it_menu_8dcd0898:
+# game/code/scenes/main_story/sm1ms011_it.rpy:127
+translate spanish sm1fs_i011_it_talk_ns_8dcd0898:
 
     # mc "Haha. I'm sure she'd be tickled to hear you say that."
     mc "Haha. I'm sure she'd be tickled to hear you say that."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:116
-translate spanish sm1fs_i011_it_menu_e12f86a4:
+# game/code/scenes/main_story/sm1ms011_it.rpy:128
+translate spanish sm1fs_i011_it_talk_ns_e12f86a4:
 
     # mc "She is a little strange, though. Like when I said eager, I mean super eager."
     mc "She is a little strange, though. Like when I said eager, I mean super eager."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:117
-translate spanish sm1fs_i011_it_menu_c888b368:
+# game/code/scenes/main_story/sm1ms011_it.rpy:129
+translate spanish sm1fs_i011_it_talk_ns_c888b368:
 
     # mc "And kind of a stickler for rules. She already knows every little detail from the employee handbook."
     mc "And kind of a stickler for rules. She already knows every little detail from the employee handbook."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:120
-translate spanish sm1fs_i011_it_menu_f538d0cf:
+# game/code/scenes/main_story/sm1ms011_it.rpy:132
+translate spanish sm1fs_i011_it_talk_ns_f538d0cf:
 
     # sy "Okay, I'm a big nerd too, but no one is that big of a nerd."
     sy "Okay, I'm a big nerd too, but no one is that big of a nerd."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:123
-translate spanish sm1fs_i011_it_menu_f9332188:
+# game/code/scenes/main_story/sm1ms011_it.rpy:135
+translate spanish sm1fs_i011_it_talk_ns_f9332188:
 
     # mc "She is."
     mc "She is."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:127
-translate spanish sm1fs_i011_it_menu_bbb2ebfe:
+# game/code/scenes/main_story/sm1ms011_it.rpy:139
+translate spanish sm1fs_i011_it_talk_ns_bbb2ebfe:
 
     # sy "Hmm. Well, maybe you can get her to loosen up a bit."
     sy "Hmm. Well, maybe you can get her to loosen up a bit."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:128
-translate spanish sm1fs_i011_it_menu_a1b72c0f:
+# game/code/scenes/main_story/sm1ms011_it.rpy:140
+translate spanish sm1fs_i011_it_talk_ns_a1b72c0f:
 
     # sy "You managed to corrupt me over one summer."
     sy "You managed to corrupt me over one summer."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:134
-translate spanish sm1fs_i011_it_menu_06f69d15:
+# game/code/scenes/main_story/sm1ms011_it.rpy:146
+translate spanish sm1fs_i011_it_talk_ns_06f69d15:
 
     # mc "I think that door was already open a little."
     mc "I think that door was already open a little."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:138
-translate spanish sm1fs_i011_it_menu_8e8c0b3a:
+# game/code/scenes/main_story/sm1ms011_it.rpy:150
+translate spanish sm1fs_i011_it_talk_ns_8e8c0b3a:
 
     # sy "Haha. Not on your life. I was as innocent as an angel."
     sy "Haha. Not on your life. I was as innocent as an angel."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:141
-translate spanish sm1fs_i011_it_menu_78eb43fc:
+# game/code/scenes/main_story/sm1ms011_it.rpy:153
+translate spanish sm1fs_i011_it_talk_ns_78eb43fc:
 
     # mc "Maybe one of those horny angels."
     mc "Maybe one of those horny angels."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:143
-translate spanish sm1fs_i011_it_menu_bca09261:
+# game/code/scenes/main_story/sm1ms011_it.rpy:155
+translate spanish sm1fs_i011_it_talk_ns_bca09261:
 
     # sy "Hehehe."
     sy "Hehehe."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:148
-translate spanish sm1fs_i011_it_menu_48ebd424:
+# game/code/scenes/main_story/sm1ms011_it.rpy:160
+translate spanish sm1fs_i011_it_talk_ns_48ebd424:
 
     # mc "Hey. No one made you look at all my porn."
     mc "Hey. No one made you look at all my porn."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:152
-translate spanish sm1fs_i011_it_menu_0f252176:
+# game/code/scenes/main_story/sm1ms011_it.rpy:164
+translate spanish sm1fs_i011_it_talk_ns_0f252176:
 
     # sy "You know how curious I can be."
     sy "You know how curious I can be."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:154
-translate spanish sm1fs_i011_it_menu_2d26999b:
+# game/code/scenes/main_story/sm1ms011_it.rpy:166
+translate spanish sm1fs_i011_it_talk_ns_2d26999b:
 
     # sy "*giggles* It was all just a big box of horny catnip."
     sy "*giggles* It was all just a big box of horny catnip."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:164
-translate spanish sm1fs_i011_it_menu_63b84cfe:
+# game/code/scenes/main_story/sm1ms011_it.rpy:176
+translate spanish sm1fs_i011_it_talk_ag_63b84cfe:
 
     # mc "Anna, is a real looker and seems pretty cool. She's got very good energy, and I'm excited to learn more about her."
     mc "Anna, is a real looker and seems pretty cool. She's got very good energy, and I'm excited to learn more about her."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:167
-translate spanish sm1fs_i011_it_menu_cbf7728f:
+# game/code/scenes/main_story/sm1ms011_it.rpy:179
+translate spanish sm1fs_i011_it_talk_ag_cbf7728f:
 
     # sy "What about anything deeper? Something under the covers?"
     sy "What about anything deeper? Something under the covers?"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:170
-translate spanish sm1fs_i011_it_menu_23684996:
+# game/code/scenes/main_story/sm1ms011_it.rpy:182
+translate spanish sm1fs_i011_it_talk_ag_23684996:
 
     # mc "If she has any kinks, they haven't come up quite yet. Time will tell."
     mc "If she has any kinks, they haven't come up quite yet. Time will tell."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:173
-translate spanish sm1fs_i011_it_menu_950290e9:
+# game/code/scenes/main_story/sm1ms011_it.rpy:185
+translate spanish sm1fs_i011_it_talk_ag_950290e9:
 
     # sy "Sure, but if there is nothing there, don't forget there are other fish in the sea."
     sy "Sure, but if there is nothing there, don't forget there are other fish in the sea."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:174
-translate spanish sm1fs_i011_it_menu_fe9fd89f:
+# game/code/scenes/main_story/sm1ms011_it.rpy:186
+translate spanish sm1fs_i011_it_talk_ag_fe9fd89f:
 
     # sy "And we need those that will make great actresses."
     sy "And we need those that will make great actresses."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:177
-translate spanish sm1fs_i011_it_menu_606e2d02:
+# game/code/scenes/main_story/sm1ms011_it.rpy:189
+translate spanish sm1fs_i011_it_talk_ag_606e2d02:
 
     # mc "Sure."
     mc "Sure."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:187
-translate spanish sm1fs_i011_it_menu_11fd1f1e:
+# game/code/scenes/main_story/sm1ms011_it.rpy:199
+translate spanish sm1fs_i011_it_talk_am_11fd1f1e:
 
     # mc "I feel like, April might be a lot to handle."
     mc "I feel like, April might be a lot to handle."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:190
-translate spanish sm1fs_i011_it_menu_954a072f:
+# game/code/scenes/main_story/sm1ms011_it.rpy:202
+translate spanish sm1fs_i011_it_talk_am_954a072f:
 
     # sy "How so?"
     sy "How so?"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:193
-translate spanish sm1fs_i011_it_menu_918f4a78:
+# game/code/scenes/main_story/sm1ms011_it.rpy:205
+translate spanish sm1fs_i011_it_talk_am_918f4a78:
 
     # mc "I guess just her energy. She definitely wanted Nari and I to know how little she felt about us."
     mc "I guess just her energy. She definitely wanted Nari and I to know how little she felt about us."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:197
-translate spanish sm1fs_i011_it_menu_4208fc10:
+# game/code/scenes/main_story/sm1ms011_it.rpy:209
+translate spanish sm1fs_i011_it_talk_am_4208fc10:
 
     # sy "What a bitch!"
     sy "What a bitch!"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:200
-translate spanish sm1fs_i011_it_menu_0503cb58:
+# game/code/scenes/main_story/sm1ms011_it.rpy:212
+translate spanish sm1fs_i011_it_talk_am_0503cb58:
 
     # mc "Maybe. If she's been pared with other people before that didn't work out, maybe she's tired to dealing with noobs."
     mc "Maybe. If she's been pared with other people before that didn't work out, maybe she's tired to dealing with noobs."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:203
-translate spanish sm1fs_i011_it_menu_fd753b6a:
+# game/code/scenes/main_story/sm1ms011_it.rpy:215
+translate spanish sm1fs_i011_it_talk_am_fd753b6a:
 
     # sy "Hmmmph. That's no need to be rude to your or the new girl."
     sy "Hmmmph. That's no need to be rude to your or the new girl."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:206
-translate spanish sm1fs_i011_it_menu_6c3434eb:
+# game/code/scenes/main_story/sm1ms011_it.rpy:218
+translate spanish sm1fs_i011_it_talk_am_6c3434eb:
 
     # mc "If anything, figuring out what her deal is will be an extra challenge for me."
     mc "If anything, figuring out what her deal is will be an extra challenge for me."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:209
-translate spanish sm1fs_i011_it_menu_ece347cc:
+# game/code/scenes/main_story/sm1ms011_it.rpy:221
+translate spanish sm1fs_i011_it_talk_am_ece347cc:
 
     # sy "At least you got the right attitude for it. In a little bit, she'll be glad to have you as a friend."
     sy "At least you got the right attitude for it. In a little bit, she'll be glad to have you as a friend."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:210
-translate spanish sm1fs_i011_it_menu_0d82105c:
+# game/code/scenes/main_story/sm1ms011_it.rpy:222
+translate spanish sm1fs_i011_it_talk_am_0d82105c:
 
     # sy "Or more."
     sy "Or more."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:218
+# game/code/scenes/main_story/sm1ms011_it.rpy:230
 translate spanish sm1ms011_it_continue_abe25c2f:
 
     # sy "And what about your boss' boss. Claire?"
     sy "And what about your boss' boss. Claire?"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:221
+# game/code/scenes/main_story/sm1ms011_it.rpy:233
 translate spanish sm1ms011_it_continue_a23917d6:
 
     # mc "What about her?"
     mc "What about her?"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:224
+# game/code/scenes/main_story/sm1ms011_it.rpy:236
 translate spanish sm1ms011_it_continue_20251c36:
 
     # sy "Please tell me you're not going to leave her out of the party?"
     sy "Please tell me you're not going to leave her out of the party?"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:227
+# game/code/scenes/main_story/sm1ms011_it.rpy:239
 translate spanish sm1ms011_it_continue_14c261e5:
 
     # mc "Given she's my boss' boss, I figured it would be smart to stay clear of her."
     mc "Given she's my boss' boss, I figured it would be smart to stay clear of her."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:230
+# game/code/scenes/main_story/sm1ms011_it.rpy:242
 translate spanish sm1ms011_it_continue_6fb9ec78:
 
     # sy "No way. Big mistake, pal. Think about it. She could be the biggest close pervert of the mall."
     sy "No way. Big mistake, pal. Think about it. She could be the biggest close pervert of the mall."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:231
+# game/code/scenes/main_story/sm1ms011_it.rpy:243
 translate spanish sm1ms011_it_continue_00b812a7:
 
     # sy "I just don't think you should leave her out of the conversation, is all."
     sy "I just don't think you should leave her out of the conversation, is all."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:237
+# game/code/scenes/main_story/sm1ms011_it.rpy:249
 translate spanish sm1ms011_it_continue_300adfda:
 
     # mc "She is super hot."
     mc "She is super hot."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:240
+# game/code/scenes/main_story/sm1ms011_it.rpy:252
 translate spanish sm1ms011_it_continue_5cb6bd22:
 
     # sy "See. You totally want to bang your boss. I mean that makes sense. Who wouldn't?"
     sy "See. You totally want to bang your boss. I mean that makes sense. Who wouldn't?"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:243
+# game/code/scenes/main_story/sm1ms011_it.rpy:255
 translate spanish sm1ms011_it_continue_736941f1:
 
     # mc "Feelings aside, it might make things super complicated."
     mc "Feelings aside, it might make things super complicated."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:246
+# game/code/scenes/main_story/sm1ms011_it.rpy:258
 translate spanish sm1ms011_it_continue_6235ecd8:
 
     # sy "Super complicated is just our style."
     sy "Super complicated is just our style."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:250
+# game/code/scenes/main_story/sm1ms011_it.rpy:262
 translate spanish sm1ms011_it_continue_a499bb20:
 
     # mc "I think our style is more like a cat wearing rollerblades flying down a hillside."
     mc "I think our style is more like a cat wearing rollerblades flying down a hillside."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:253
+# game/code/scenes/main_story/sm1ms011_it.rpy:265
 translate spanish sm1ms011_it_continue_37eb6c61:
 
     # sy "We can have multiple styles. All I'm saying is that you shouldn't count her out."
     sy "We can have multiple styles. All I'm saying is that you shouldn't count her out."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:256
+# game/code/scenes/main_story/sm1ms011_it.rpy:268
 translate spanish sm1ms011_it_continue_cf1adef2:
 
     # mc "Yeah."
     mc "Yeah."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:262
+# game/code/scenes/main_story/sm1ms011_it.rpy:274
 translate spanish sm1ms011_it_continue_ddaffa1b:
 
     # mc "I'll see what I can do."
     mc "I'll see what I can do."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:265
+# game/code/scenes/main_story/sm1ms011_it.rpy:277
 translate spanish sm1ms011_it_continue_fdc777bd:
 
     # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it ouf the park."
     sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it ouf the park."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:268
+# game/code/scenes/main_story/sm1ms011_it.rpy:280
 translate spanish sm1ms011_it_continue_6be1610b:
 
     # mc "Maybe. I'll keep my ears open."
     mc "Maybe. I'll keep my ears open."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:272
+# game/code/scenes/main_story/sm1ms011_it.rpy:284
 translate spanish sm1ms011_it_continue_dc165418:
 
     # sy "Well it sounds like the place is going to offer you a lot of opportunity."
     sy "Well it sounds like the place is going to offer you a lot of opportunity."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:275
+# game/code/scenes/main_story/sm1ms011_it.rpy:287
 translate spanish sm1ms011_it_continue_af34b134:
 
     # sy "Just try not to get lost in the code and ones and zeroes too much."
     sy "Just try not to get lost in the code and ones and zeroes too much."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:276
+# game/code/scenes/main_story/sm1ms011_it.rpy:288
 translate spanish sm1ms011_it_continue_2785891a:
 
     # sy "We've got to keep our eyes on the prize."
     sy "We've got to keep our eyes on the prize."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:280
+# game/code/scenes/main_story/sm1ms011_it.rpy:292
 translate spanish sm1ms011_it_continue_26c75a22:
 
     # mc "No worries there, Sis."
     mc "No worries there, Sis."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:282
+# game/code/scenes/main_story/sm1ms011_it.rpy:294
 translate spanish sm1ms011_it_continue_af16fc6f:
 
     # mc "No worries there, Stacy."
@@ -506,19 +506,19 @@ translate spanish strings:
     old "Talk about April"
     new "Talk about April"
 
-    # game/code/scenes/main_story/sm1ms011_it.rpy:129
+    # game/code/scenes/main_story/sm1ms011_it.rpy:141
     old "It wasn't all me"
     new "It wasn't all me"
 
-    # game/code/scenes/main_story/sm1ms011_it.rpy:129
+    # game/code/scenes/main_story/sm1ms011_it.rpy:141
     old "No one made you look at all my porn"
     new "No one made you look at all my porn"
 
-    # game/code/scenes/main_story/sm1ms011_it.rpy:232
+    # game/code/scenes/main_story/sm1ms011_it.rpy:244
     old "She is super hot"
     new "She is super hot"
 
-    # game/code/scenes/main_story/sm1ms011_it.rpy:232
+    # game/code/scenes/main_story/sm1ms011_it.rpy:244
     old "I'll see what I can do"
     new "I'll see what I can do"
 

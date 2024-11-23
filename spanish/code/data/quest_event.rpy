@@ -45,8 +45,8 @@
     new "Progress Theater story"
 
     # game/code/data/quest_event.rpy:5
-    old "Talk with Stacy about theater"
-    new "Talk with Stacy about theater"
+    old "Talk with Stacy about the theater"
+    new "Talk with Stacy about the theater"
 
     # game/code/data/quest_event.rpy:5
     old "Go To Sleep"
@@ -65,12 +65,28 @@
     new "Talk with Stacy after she buys a wig"
 
     # game/code/data/quest_event.rpy:5
+    old "Talk to Stacy about filming"
+    new "Talk to Stacy about filming"
+
+    # game/code/data/quest_event.rpy:5
+    old "Progress AmRose's Storyline"
+    new "Progress AmRose's Storyline"
+
+    # game/code/data/quest_event.rpy:5
+    old "Wait for one day"
+    new "Wait for one day"
+
+    # game/code/data/quest_event.rpy:5
+    old "Talk with Stacy about AmRose"
+    new "Talk with Stacy about AmRose"
+
+    # game/code/data/quest_event.rpy:5
     old "This quest line will continue in the next release"
     new "This quest line will continue in the next release"
 
     # game/code/data/quest_event.rpy:5
-    old "Talk with Stacy about camera girl"
-    new "Talk with Stacy about camera girl"
+    old "Talk with Stacy about the camera girl"
+    new "Talk with Stacy about the camera girl"
 
     # game/code/data/quest_event.rpy:5
     old "Find Kanya at Photo Dojo"
@@ -109,8 +125,36 @@
     new "Visit Kanya"
 
     # game/code/data/quest_event.rpy:5
+    old "Wait a few days"
+    new "Wait a few days"
+
+    # game/code/data/quest_event.rpy:5
+    old "Talk with Kanya to learn more about Photography"
+    new "Talk with Kanya to learn more about Photography"
+
+    # game/code/data/quest_event.rpy:5
+    old "Talk with Stacy about the USB drive"
+    new "Talk with Stacy about the USB drive"
+
+    # game/code/data/quest_event.rpy:5
+    old "Progress Main Story"
+    new "Progress Main Story"
+
+    # game/code/data/quest_event.rpy:5
     old "Go to the Photodojo to talk with the BDSM girl"
     new "Go to the Photodojo to talk with the BDSM girl"
+
+    # game/code/data/quest_event.rpy:5
+    old "Talk to Amore in the Photodojo"
+    new "Talk to Amore in the Photodojo"
+
+    # game/code/data/quest_event.rpy:5
+    old "Go to Wurst Delivery"
+    new "Go to Wurst Delivery"
+
+    # game/code/data/quest_event.rpy:5
+    old "Get 6 Relationship points with Maya and talk to her"
+    new "Get 6 Relationship points with Maya and talk to her"
 
     # game/code/data/quest_event.rpy:5
     old "Talk with Stacy about going to Lyssa during the day timeslot"
@@ -237,8 +281,32 @@
     new "Go to the Theater for audition during the Day timeslot"
 
     # game/code/data/quest_event.rpy:5
+    old "Progress the individual storylines for the Theater characters"
+    new "Progress the individual storylines for the Theater characters"
+
+    # game/code/data/quest_event.rpy:5
+    old "Talk to Denise"
+    new "Talk to Denise"
+
+    # game/code/data/quest_event.rpy:5
     old "Talk to Kelly at her dressing room"
     new "Talk to Kelly at her dressing room"
+
+    # game/code/data/quest_event.rpy:5
+    old "Progress the Theater storyline"
+    new "Progress the Theater storyline"
+
+    # game/code/data/quest_event.rpy:5
+    old "Talk to Kellie on the stage"
+    new "Talk to Kellie on the stage"
+
+    # game/code/data/quest_event.rpy:5
+    old "Buy the 'An Actor Prepares' book at the store"
+    new "Buy the 'An Actor Prepares' book at the store"
+
+    # game/code/data/quest_event.rpy:5
+    old "Get your Film and TV Topic to 3"
+    new "Get your Film and TV Topic to 3"
 
     # game/code/data/quest_event.rpy:5
     old "Talk with Denise in her office"
@@ -260,67 +328,99 @@
     old "Talk to Veronica at the Stage"
     new "Talk to Veronica at the Stage"
 
-    # game/code/data/quest_event.rpy:250
+    # game/code/data/quest_event.rpy:5
+    old "Talk to Veronica"
+    new "Talk to Veronica"
+
+    # game/code/data/quest_event.rpy:5
+    old "Buy the 'Stars Weekly' Magazin from the store"
+    new "Buy the 'Stars Weekly' Magazin from the store"
+
+    # game/code/data/quest_event.rpy:5
+    old "Get your Fashion Topic to 5"
+    new "Get your Fashion Topic to 5"
+
+    # game/code/data/quest_event.rpy:5
+    old "Progress Kellie's storyline"
+    new "Progress Kellie's storyline"
+
+    # game/code/data/quest_event.rpy:5
+    old "Talk to Veronica on the Stage"
+    new "Talk to Veronica on the Stage"
+
+    # game/code/data/quest_event.rpy:326
     old "Main Story"
     new "Main Story"
 
-    # game/code/data/quest_event.rpy:250
+    # game/code/data/quest_event.rpy:326
     old "Unlock more jobs"
     new "Unlock more jobs"
 
-    # game/code/data/quest_event.rpy:250
+    # game/code/data/quest_event.rpy:326
     old "Stacy's story"
     new "Stacy's story"
 
-    # game/code/data/quest_event.rpy:250
+    # game/code/data/quest_event.rpy:326
+    old "AmRose's story"
+    new "AmRose's story"
+
+    # game/code/data/quest_event.rpy:326
     old "Kanya's story"
     new "Kanya's story"
 
-    # game/code/data/quest_event.rpy:250
+    # game/code/data/quest_event.rpy:326
     old "Lyssa's story"
     new "Lyssa's story"
 
-    # game/code/data/quest_event.rpy:250
-    old "Theater story line"
-    new "Theater story line"
+    # game/code/data/quest_event.rpy:326
+    old "Amore's story"
+    new "Amore's story"
 
-    # game/code/data/quest_event.rpy:250
-    old "Orbix story line"
-    new "Orbix story line"
+    # game/code/data/quest_event.rpy:326
+    old "Maya's story"
+    new "Maya's story"
 
-    # game/code/data/quest_event.rpy:250
-    old "Nari's story"
-    new "Nari's story"
-
-    # game/code/data/quest_event.rpy:250
-    old "Anna's story"
-    new "Anna's story"
-
-    # game/code/data/quest_event.rpy:250
+    # game/code/data/quest_event.rpy:326
     old "Debbie's story"
     new "Debbie's story"
 
-    # game/code/data/quest_event.rpy:250
+    # game/code/data/quest_event.rpy:326
+    old "Theater story line"
+    new "Theater story line"
+
+    # game/code/data/quest_event.rpy:326
+    old "Orbix story line"
+    new "Orbix story line"
+
+    # game/code/data/quest_event.rpy:326
+    old "Nari's story"
+    new "Nari's story"
+
+    # game/code/data/quest_event.rpy:326
+    old "Anna's story"
+    new "Anna's story"
+
+    # game/code/data/quest_event.rpy:326
     old "April's story"
     new "April's story"
 
-    # game/code/data/quest_event.rpy:250
+    # game/code/data/quest_event.rpy:326
+    old "Claire's story"
+    new "Claire's story"
+
+    # game/code/data/quest_event.rpy:326
     old "Denise's story"
     new "Denise's story"
 
-    # game/code/data/quest_event.rpy:250
+    # game/code/data/quest_event.rpy:326
     old "Kelly's story"
     new "Kelly's story"
 
-    # game/code/data/quest_event.rpy:250
+    # game/code/data/quest_event.rpy:326
     old "Taisia's story"
     new "Taisia's story"
 
-    # game/code/data/quest_event.rpy:250
+    # game/code/data/quest_event.rpy:326
     old "Veronica's story"
     new "Veronica's story"
-
-    # game/code/data/quest_event.rpy:250
-    old "Amore's story"
-    new "Amore's story"
 

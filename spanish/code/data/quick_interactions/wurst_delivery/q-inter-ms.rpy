@@ -256,379 +256,379 @@ translate spanish q_inter_ms_18_2ddd3ff5:
     # mc "Uh, sure... Good point."
     mc "Uh, sure... Good point."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:201
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:202
 translate spanish q_inter_ms_19_d561bafc:
 
     # ms "Gah."
     ms "Gah."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:203
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:204
 translate spanish q_inter_ms_19_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:204
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:205
 translate spanish q_inter_ms_19_ded3b362:
 
     # ms "Seeing you just reminds me that soon I have to be back at work handling weiners."
     ms "Seeing you just reminds me that soon I have to be back at work handling weiners."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:208
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:209
 translate spanish q_inter_ms_19_4fa138e3:
 
     # ms "Sorry. That's not your fault. I just can't wait to bail on that job."
     ms "Sorry. That's not your fault. I just can't wait to bail on that job."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:210
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:211
 translate spanish q_inter_ms_19_932a68df:
 
     # mc "Uh... Thanks?"
     mc "Uh... Thanks?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:211
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
 translate spanish q_inter_ms_19_867dffd4:
 
     # ms "Peace."
     ms "Peace."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:217
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:219
 translate spanish q_inter_ms_20_10f19b7f:
 
     # ms "Heheh."
     ms "Heheh."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:219
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:221
 translate spanish q_inter_ms_20_05500ff6:
 
     # mc "Huh?"
     mc "Huh?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:221
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:223
 translate spanish q_inter_ms_20_9e6d6cb5:
 
     # ms "Brave of you to come talking to me. You know I'm a ninja. All these trees give me lots of cover."
     ms "Brave of you to come talking to me. You know I'm a ninja. All these trees give me lots of cover."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:222
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:224
 translate spanish q_inter_ms_20_b4025c71:
 
     # ms "I could strike you down in an instant and then jump into that tree."
     ms "I could strike you down in an instant and then jump into that tree."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:224
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:226
 translate spanish q_inter_ms_20_50105f37:
 
     # mc "That would be pretty impressive."
     mc "That would be pretty impressive."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:228
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:230
 translate spanish q_inter_ms_20_0d0d41e0:
 
     # ms "Lucky for you I left my ninja stars at home. Bye [mcname]."
     ms "Lucky for you I left my ninja stars at home. Bye [mcname]."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:229
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:231
 translate spanish q_inter_ms_20_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:235
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:238
 translate spanish q_inter_ms_21_feca5cda:
 
     # ms "'Sup?"
     ms "'Sup?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:237
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:240
 translate spanish q_inter_ms_21_f0c6ddda:
 
     # mc "Uh, not much."
     mc "Uh, not much."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:238
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:241
 translate spanish q_inter_ms_21_70e2d311:
 
     # ms "Same. Big same."
     ms "Same. Big same."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:244
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:247
 translate spanish q_inter_ms_22_1fad5d35:
 
     # ms "Oh... You shop here too?"
     ms "Oh... You shop here too?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:246
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:249
 translate spanish q_inter_ms_22_bd731c13:
 
     # mc "Yep, at least sometimes."
     mc "Yep, at least sometimes."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:247
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:250
 translate spanish q_inter_ms_22_3ec87229:
 
     # ms "Huh..."
     ms "Huh..."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:253
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:256
 translate spanish q_inter_ms_23_6fe6e1d3:
 
     # ms "Oh, uhh, hey."
     ms "Oh, uhh, hey."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:255
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:258
 translate spanish q_inter_ms_23_eb6e1d7b:
 
     # mc "Uh, hey?"
     mc "Uh, hey?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:257
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:260
 translate spanish q_inter_ms_23_f6b61e21:
 
     # ms "Okay, bye."
     ms "Okay, bye."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:263
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:266
 translate spanish q_inter_ms_24_1bcff616:
 
     # ms "Shit. Shit, shit, shit."
     ms "Shit. Shit, shit, shit."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:265
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:268
 translate spanish q_inter_ms_24_91d8a70c:
 
     # mc "You okay?"
     mc "You okay?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:267
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:270
 translate spanish q_inter_ms_24_9cd6ab49:
 
     # ms "Yeah, I'm totally good. Later."
     ms "Yeah, I'm totally good. Later."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:273
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:276
 translate spanish q_inter_ms_25_3e27b4a7:
 
     # ms "Did you know that the most addictive substance on Earth is processed sugar?"
     ms "Did you know that the most addictive substance on Earth is processed sugar?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:274
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:277
 translate spanish q_inter_ms_25_e7875abd:
 
     # ms "Bastards still got me though..."
     ms "Bastards still got me though..."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:280
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:283
 translate spanish q_inter_ms_26_aed549c6:
 
     # ms "You know why they're always out of condoms?"
     ms "You know why they're always out of condoms?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:282
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:285
 translate spanish q_inter_ms_26_d9af6597:
 
     # mc "No?"
     mc "No?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:286
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:289
 translate spanish q_inter_ms_26_8d99e88e:
 
     # ms "Some high school kids robbed the cashier, and then used them for a water balloon fight."
     ms "Some high school kids robbed the cashier, and then used them for a water balloon fight."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:287
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:290
 translate spanish q_inter_ms_26_22f04511:
 
     # ms "Wonder where they got that idea..."
     ms "Wonder where they got that idea..."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:293
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:297
 translate spanish q_inter_ms_27_1bebe292:
 
     # ms "God. They sell seaweed chips here. What is the world coming to?"
     ms "God. They sell seaweed chips here. What is the world coming to?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:299
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:303
 translate spanish q_inter_ms_28_cb4c904f:
 
     # ms "How much you want to bet, in five years, they'll replace the cashier with a robot?"
     ms "How much you want to bet, in five years, they'll replace the cashier with a robot?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:305
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:309
 translate spanish q_inter_ms_29_1c16e45d:
 
     # ms "It's Wednesday, my dude."
     ms "It's Wednesday, my dude."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:311
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:315
 translate spanish q_inter_ms_30_866f4b07:
 
     # mc "Hey, Maya."
     mc "Hey, Maya."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:313
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:317
 translate spanish q_inter_ms_30_427bd0d5:
 
     # ms "Oh, uhm, heyyyy."
     ms "Oh, uhm, heyyyy."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:314
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:318
 translate spanish q_inter_ms_30_29d0ef6a:
 
     # mct "That was... Kind of weird."
     mct "That was... Kind of weird."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:320
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:324
 translate spanish q_inter_ms_31_c231c7c3:
 
     # mc "How are you doing today?"
     mc "How are you doing today?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:322
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:326
 translate spanish q_inter_ms_31_80f21090:
 
     # ms "I'm great! So, uhm, good."
     ms "I'm great! So, uhm, good."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:323
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:327
 translate spanish q_inter_ms_31_e0dfcaa0:
 
     # mc "That's good?"
     mc "That's good?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:329
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:334
 translate spanish q_inter_ms_32_c5db7965:
 
     # mc "What's new, Maya?"
     mc "What's new, Maya?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:331
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:336
 translate spanish q_inter_ms_32_4bbcd8be:
 
     # ms "Nothing! Nothing at all!"
     ms "Nothing! Nothing at all!"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:332
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:337
 translate spanish q_inter_ms_32_1b199792:
 
     # mc "Okay?"
     mc "Okay?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:338
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:343
 translate spanish q_inter_ms_33_552ea1e7:
 
     # ms "So I've got my next thing coming up..."
     ms "So I've got my next thing coming up..."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:340
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:345
 translate spanish q_inter_ms_33_b3fbd530:
 
     # mc "What are you up to?"
     mc "What are you up to?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:344
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:349
 translate spanish q_inter_ms_33_dae06d1d:
 
     # ms "[mcname]! Uhm, just, you know, uhhh, fighting the powers that be."
     ms "[mcname]! Uhm, just, you know, uhhh, fighting the powers that be."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:350
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:356
 translate spanish q_inter_ms_34_d3633d35:
 
     # ms "You come to bother my sister too, [mcname]?"
     ms "You come to bother my sister too, [mcname]?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:352
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:358
 translate spanish q_inter_ms_34_d233b0fa:
 
     # mc "I didn't realize the woman at the counter was your sister."
     mc "I didn't realize the woman at the counter was your sister."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:353
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:359
 translate spanish q_inter_ms_34_6951d752:
 
     # ms "That's what our parents told us anyhow."
     ms "That's what our parents told us anyhow."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:359
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:366
 translate spanish q_inter_ms_35_f687201e:
 
     # ms "Here's is to the day we can both just sleep in and not rush out to get grinded down to pebbles."
     ms "Here's is to the day we can both just sleep in and not rush out to get grinded down to pebbles."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:361
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:368
 translate spanish q_inter_ms_35_b51867ec:
 
     # mc "Yeah. Cheers to that, Maya."
     mc "Yeah. Cheers to that, Maya."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:362
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:369
 translate spanish q_inter_ms_35_7e52622a:
 
     # ms "Enjoy your coffee, [mcname]."
     ms "Enjoy your coffee, [mcname]."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:368
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:376
 translate spanish q_inter_ms_36_002305bc:
 
     # ms "I can get this one... Or maybe this one..."
     ms "I can get this one... Or maybe this one..."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:370
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:378
 translate spanish q_inter_ms_36_0ef36617:
 
     # mc "'Sup, Maya?"
     mc "'Sup, Maya?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:374
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:382
 translate spanish q_inter_ms_36_22ed23f4:
 
     # ms "Nothing! Just working for my corporate overlords!"
     ms "Nothing! Just working for my corporate overlords!"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:380
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:389
 translate spanish q_inter_ms_37_c716f1b6:
 
     # ms "Uggggggghhhhhhhh."
     ms "Uggggggghhhhhhhh."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:382
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:391
 translate spanish q_inter_ms_37_05c862e9:
 
     # mc "You okay, Maya?"
     mc "You okay, Maya?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:386
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:395
 translate spanish q_inter_ms_37_d10fff21:
 
     # ms "Yeah. I'd just rather be doing something else right now..."
     ms "Yeah. I'd just rather be doing something else right now..."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:388
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:397
 translate spanish q_inter_ms_37_b3e4e9e0:
 
     # mc "Like?"
     mc "Like?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:389
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:398
 translate spanish q_inter_ms_37_68468abb:
 
     # ms "Uhm, don't worry about it."
     ms "Uhm, don't worry about it."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:395
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:405
 translate spanish q_inter_ms_38_50cbb4d3:
 
     # mc "Got any fun plans coming up?"
     mc "Got any fun plans coming up?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:397
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:407
 translate spanish q_inter_ms_38_fecff6ba:
 
     # ms "Uhm, nope. Nothing fun at all."
     ms "Uhm, nope. Nothing fun at all."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:398
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:408
 translate spanish q_inter_ms_38_6f9b1be2:
 
     # mc "Okay?..."
