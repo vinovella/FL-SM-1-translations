@@ -1,8 +1,3 @@
-﻿# game/code/scenes/main_story/sm1ms002_t.rpy:6
-translate spanish sm1ms002_t_04b07118:
-
-    # sy "Okay so I think I found someone who works for the Theater Group."
-    sy "Okay so I think I found someone who works for the Theater Group."
 
 # game/code/scenes/main_story/sm1ms002_t.rpy:7
 translate spanish sm1ms002_t_2a671ba1:

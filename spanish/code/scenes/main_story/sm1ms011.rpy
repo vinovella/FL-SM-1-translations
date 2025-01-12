@@ -58,12 +58,6 @@ translate spanish sm1ms011_1b199792:
     # mc "Okay?"
     mc "Okay?"
 
-# game/code/scenes/main_story/sm1ms011.rpy:56
-translate spanish sm1ms011_6aa28226:
-
-    # sy "*yawns* Phew. Let's talk about her another time. I'm already seeing 'Z's, hehe."
-    sy "*yawns* Phew. Let's talk about her another time. I'm already seeing 'Z's, hehe."
-
 # game/code/scenes/main_story/sm1ms011.rpy:62
 translate spanish sm1ms011_c0af0395:
 
