@@ -604,12 +604,6 @@ translate spanish sm1cs_am004_continue_0d80df6d:
     # mcon "*singing* Even those who are insane will just hide away.{w=3.5}{nw}"
     mcon "*singing* Even those who are insane will just hide away.{w=3.5}{nw}"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:426
-translate spanish sm1cs_am004_continue_a27dd3df:
-
-    # mcon "*singing* We’re the children of the chaos, we feel your frightened gaze.{w=3.5}{nw}"
-    mcon "*singing* We’re the children of the chaos, we feel your frightened gaze.{w=3.5}{nw}"
-
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:428
 translate spanish sm1cs_am004_continue_c1b1bf5f:
 

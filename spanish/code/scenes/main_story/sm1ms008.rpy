@@ -760,12 +760,6 @@ translate spanish sm1ms008_after_choice_764fdf31:
     # sy "I don't know..."
     sy "I don't know..."
 
-# game/code/scenes/main_story/sm1ms008.rpy:452
-translate spanish sm1ms008_after_choice_0d6231ab:
-
-    # kv "You two need to think of this as an investment in the studio’s future."
-    kv "You two need to think of this as an investment in the studio’s future."
-
 # game/code/scenes/main_story/sm1ms008.rpy:455
 translate spanish sm1ms008_after_choice_c425bbc9:
 
@@ -777,24 +771,6 @@ translate spanish sm1ms008_after_choice_3724bdef:
 
     # kv "I wouldn't bring it up if it weren't worth it, Stacy. Trust me."
     kv "I wouldn't bring it up if it weren't worth it, Stacy. Trust me."
-
-# game/code/scenes/main_story/sm1ms008.rpy:466
-translate spanish sm1ms008_after_choice_a0f5a809:
-
-    # mc "Alright, you convinced me. Let’s get this super camera."
-    mc "Alright, you convinced me. Let’s get this super camera."
-
-# game/code/scenes/main_story/sm1ms008.rpy:469
-translate spanish sm1ms008_after_choice_2c9bb055:
-
-    # sy "If it’s going to make a difference, then I’m in. Let’s make this project the best it can be."
-    sy "If it’s going to make a difference, then I’m in. Let’s make this project the best it can be."
-
-# game/code/scenes/main_story/sm1ms008.rpy:472
-translate spanish sm1ms008_after_choice_39454719:
-
-    # kv "Great! I’ll text you the exact model and specifications. There are many cameras like it, but this one is top tier."
-    kv "Great! I’ll text you the exact model and specifications. There are many cameras like it, but this one is top tier."
 
 # game/code/scenes/main_story/sm1ms008.rpy:475
 translate spanish sm1ms008_after_choice_d13a3a1c:
