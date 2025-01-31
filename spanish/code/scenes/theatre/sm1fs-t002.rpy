@@ -940,12 +940,6 @@ translate spanish sm1fs_t002_sex_70cdfb64:
     # tl "I mean, the commentary is just kind of weird."
     tl "I mean, the commentary is just kind of weird."
 
-# game/code/scenes/theatre/sm1fs-t002.rpy:585
-translate spanish sm1fs_t002_sex_bcb4c0f3:
-
-    # sy "Uh,. it's all part of... Filming?"
-    sy "Uh,. it's all part of... Filming?"
-
 # game/code/scenes/theatre/sm1fs-t002.rpy:586
 translate spanish sm1fs_t002_sex_ca266a41:
 
