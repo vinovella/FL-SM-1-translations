@@ -1,0 +1,122 @@
+﻿translate chinese strings:
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Invite Stacy to Amusement Park during the day"
+    new "Invite Stacy to Amusement Park during the day"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Stacy during day timeslot to interview Taisia"
+    new "Talk to Stacy during day timeslot to interview Taisia"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Main Storyline"
+    new "Progress Main Storyline"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Go to the Theater"
+    new "Go to the Theater"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Go to the Theater for audition during the Day timeslot"
+    new "Go to the Theater for audition during the Day timeslot"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress the individual storylines for the Theater characters"
+    new "Progress the individual storylines for the Theater characters"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Denise"
+    new "Talk to Denise"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Kelly at her dressing room"
+    new "Talk to Kelly at her dressing room"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress the Theater storyline"
+    new "Progress the Theater storyline"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Kellie on the stage"
+    new "Talk to Kellie on the stage"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Buy the 'An Actor Prepares' book at the store"
+    new "Buy the 'An Actor Prepares' book at the store"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Get your Literature to 5"
+    new "Get your Literature to 5"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk with Denise in her office"
+    new "Talk with Denise in her office"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk with Taisia about \"work\" during the day time"
+    new "Talk with Taisia about \"work\" during the day time"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have ${}/$50 and talk with Taisia when she is in front of the stage"
+    new "Have ${}/$50 and talk with Taisia when she is in front of the stage"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have $50 and talk with Taisia when she is in front of the stage"
+    new "Have $50 and talk with Taisia when she is in front of the stage"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have ${}/$100 and invite Taisia to make a film"
+    new "Have ${}/$100 and invite Taisia to make a film"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have $100 and invite Taisia to make a film"
+    new "Have $100 and invite Taisia to make a film"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk with Taisia"
+    new "Talk with Taisia"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Wait for a message from Taisia"
+    new "Wait for a message from Taisia"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Answer Taisia"
+    new "Answer Taisia"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk with Stacy about Taisia"
+    new "Talk with Stacy about Taisia"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Message Taisia to meet her with Stacy"
+    new "Message Taisia to meet her with Stacy"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Veronica at the Stage"
+    new "Talk to Veronica at the Stage"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Veronica"
+    new "Talk to Veronica"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Buy the 'Stars Weekly' Magazin from the store"
+    new "Buy the 'Stars Weekly' Magazin from the store"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Get your Film and TV Topic to 3"
+    new "Get your Film and TV Topic to 3"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Kellie's storyline"
+    new "Progress Kellie's storyline"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Veronica on the Stage"
+    new "Talk to Veronica on the Stage"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the rehearsal on {}"
+    new "Do the rehearsal on {}"
+
