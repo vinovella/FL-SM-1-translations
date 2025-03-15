@@ -2,103 +2,103 @@
 translate chinese sm1ms005_55c98361:
 
     # mc "Oooo! Is that the extra butter popcorn?"
-    mc "Oooo! Is that the extra butter popcorn?"
+    mc "喔！那是黄油爆米花吗？"
 
 # game/code/scenes/main_story/sm1ms005.rpy:63
 translate chinese sm1ms005_b2d3cdaf:
 
     # sy "Who do you think I am? Of course it is."
-    sy "Who do you think I am? Of course it is."
+    sy "不想想我是谁？当然是了。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:70
 translate chinese sm1ms005_46d88c2b:
 
     # sy "You better share."
-    sy "You better share."
+    sy "你最好分享一下。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:72
 translate chinese sm1ms005_5c78a956:
 
     # mc "I make no promises."
-    mc "I make no promises."
+    mc "我可不保证--"
 
 # game/code/scenes/main_story/sm1ms005.rpy:75
 translate chinese sm1ms005_9444a934:
 
     # mc "So what movie have you picked out for us?"
-    mc "So what movie have you picked out for us?"
+    mc "你为我们选了什么电影？"
 
 # game/code/scenes/main_story/sm1ms005.rpy:77
 translate chinese sm1ms005_41fb58da:
 
     # sy "I was actually going to let you decide tonight. I picked out two; one is a romantic comedy, the other one is a horror."
-    sy "I was actually going to let you decide tonight. I picked out two; one is a romantic comedy, the other one is a horror."
+    sy "其实我打算今晚让你决定。我挑了两部，一部是浪漫喜剧，另一部是恐怖片。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:85
 translate chinese sm1ms005_2ba6afa7:
 
     # mc "Horror is good with me."
-    mc "Horror is good with me."
+    mc "恐怖片对我来说不错。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:87
 translate chinese sm1ms005_f9ab2454:
 
     # sy "Hell yes! I was hoping you'd say that."
-    sy "Hell yes! I was hoping you'd say that."
+    sy "好哎！我就希望你这么说。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:93
 translate chinese sm1ms005_8592081f:
 
     # mc "I actually wouldn't mind a rom-com right now."
-    mc "I actually wouldn't mind a rom-com right now."
+    mc "其实我现在不介意看爱情喜剧。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:95
 translate chinese sm1ms005_5108e0ea:
 
     # sy "Fine, ya' nerd."
-    sy "Fine, ya' nerd."
+    sy "好吧，你这个书呆子。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:100
 translate chinese sm1ms005_268374e1:
 
     # sy "But I'm mostly just excited that we get to spend some time together."
-    sy "But I'm mostly just excited that we get to spend some time together."
+    sy "但我最兴奋的是，我们现在有时间在一起。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:102
 translate chinese sm1ms005_ac627ec0:
 
     # mc "I didn't realize you were such a softie, Stacy."
-    mc "I didn't realize you were such a softie, Stacy."
+    mc "我没想到你这么温柔，史黛西。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:106
 translate chinese sm1ms005_1084362b:
 
     # sy "If you tell anyone, I swear to God..."
-    sy "If you tell anyone, I swear to God..."
+    sy "你敢告诉别人，我对天发誓..."
 
 # game/code/scenes/main_story/sm1ms005.rpy:108
 translate chinese sm1ms005_ee834a55:
 
     # mc "I won't! I promise. Your secret is safe with me."
-    mc "I won't! I promise. Your secret is safe with me."
+    mc "不会的！我保证。我会替你保守秘密的。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:112
 translate chinese sm1ms005_fd0fe580:
 
     # sy "What can I say? A girl has needs."
-    sy "What can I say? A girl has needs."
+    sy "我能说什么呢？女孩子也是有需求的。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:114
 translate chinese sm1ms005_3a039deb:
 
     # mc "All right, so what is the {i}name{/i} of this movie?"
-    mc "All right, so what is the {i}name{/i} of this movie?"
+    mc "好吧，这部电影叫什么{i}名字{/i}？"
 
 # game/code/scenes/main_story/sm1ms005.rpy:121
 translate chinese sm1ms005_c145b378:
 
     # sy "It's called DVD 2000. It's about this group of kids who pirate a bunch of short films, and after watching them in a specific order they die."
-    sy "It's called DVD 2000. It's about this group of kids who pirate a bunch of short films, and after watching them in a specific order they die."
+    sy "叫《DVD 2000》。讲的是一群孩子盗版了一堆短片，他们按照特定顺序看完之后就死了。"
 
 # game/code/scenes/main_story/sm1ms005.rpy:123
 translate chinese sm1ms005_656cf3fd:
