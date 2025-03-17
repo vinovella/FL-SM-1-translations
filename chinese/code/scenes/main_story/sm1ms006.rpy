@@ -596,101 +596,101 @@ translate chinese sm1ms006_273eb522:
 translate chinese sm1ms006_14c3c61b:
 
     # mct "Speaking of lessons, Stacy sure likes getting spanked. I wonder what other BDSM things we can get into..."
-    mct "Speaking of lessons, Stacy sure likes getting spanked. I wonder what other BDSM things we can get into..."
+    mct "说到教训，史黛西肯定喜欢被打屁股。要想想我们还能玩什么其他的BDSM游戏..."
 
 # game/code/scenes/main_story/sm1ms006.rpy:404
 translate chinese sm1ms006_c46490aa:
 
     # mc "Stacy... I'm curious about something."
-    mc "Stacy... I'm curious about something."
+    mc "史黛西...我对一件事很好奇。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:408
 translate chinese sm1ms006_2faef0f8:
 
     # sy "Yes?"
-    sy "Yes?"
+    sy "怎么？"
 
 # game/code/scenes/main_story/sm1ms006.rpy:411
 translate chinese sm1ms006_cc35edf4:
 
     # mc "If you downloaded all the porn off the servers, why did you have the USB delivered? Shouldn't you have already had it?"
-    mc "If you downloaded all the porn off the servers, why did you have the USB delivered? Shouldn't you have already had it?"
+    mc "如果你从服务器上下载了所有的色情内容，为什么还要爱洛丝送USB呢？你不是早就应该有那些数据了吗？。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:414
 translate chinese sm1ms006_c1224821:
 
     # sy "Uhm... I-"
-    sy "Uhm... I-"
+    sy "呃...我--"
 
 # game/code/scenes/main_story/sm1ms006.rpy:421
 translate chinese sm1ms006_4bc0e41b:
 
     # sy "Okay, please don't tell anyone... But the encryption was too hard for me to crack. I had to get a little help."
-    sy "Okay, please don't tell anyone... But the encryption was too hard for me to crack. I had to get a little help."
+    sy "好吧，拜托不要告诉别人...但加密太难了，我破解不了。不得不找人帮忙啊。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:424
 translate chinese sm1ms006_5693a819:
 
     # mc "Huh..."
-    mc "Huh..."
+    mc "啊..."
 
 # game/code/scenes/main_story/sm1ms006.rpy:427
 translate chinese sm1ms006_e3f922a5:
 
     # sy "And it's not \"gone\" gone. I made a backup of some of the spicier things."
-    sy "And it's not \"gone\" gone. I made a backup of some of the spicier things."
+    sy "而且也不是真的就\"没了\"。有些比较劲爆的内容我做了备份。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:435
 translate chinese sm1ms006_b9caeac1:
 
     # sy "Man, getting spanked first thing in the morning is better than a cup of coffee."
-    sy "Man, getting spanked first thing in the morning is better than a cup of coffee."
+    sy "哇哦，早上起来第一件事就是挨一顿屁股，比喝杯咖啡还爽。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:439
 translate chinese sm1ms006_2a67fcb3:
 
     # mc "I'll keep that in mind."
-    mc "I'll keep that in mind."
+    mc "我会记住的。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:442
 translate chinese sm1ms006_52387219:
 
     # sy "I'm really sorry, [mcname]."
-    sy "I'm really sorry, [mcname]."
+    sy "真的很抱歉，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:443
 translate chinese sm1ms006_cfcc2293:
 
     # mc "I know."
-    mc "I know."
+    mc "我知道。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:444
 translate chinese sm1ms006_a3c77400:
 
     # sy "And... maybe next time you should pull out some nipple clamps. Those always sound fun."
-    sy "And... maybe next time you should pull out some nipple clamps. Those always sound fun."
+    sy "还有...也许下次你应该拿出乳头夹。这玩意儿听起来总是很有趣。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:447
 translate chinese sm1ms006_49efd205:
 
     # mct "Even after getting punished, Stacy is still the best."
-    mct "Even after getting punished, Stacy is still the best."
+    mct "即使受到惩罚，史黛西还是最棒的。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:450
 translate chinese sm1ms006_7016c270:
 
     # sy "You doing to get dressed?"
-    sy "You doing to get dressed?"
+    sy "你要穿衣服吗？"
 
 # game/code/scenes/main_story/sm1ms006.rpy:454
 translate chinese sm1ms006_ed56daf5:
 
     # mc "Shit. You got me all worked up, I almost forgot about all the stuff I need to do."
-    mc "Shit. You got me all worked up, I almost forgot about all the stuff I need to do."
+    mc "妈的。你让我太兴奋了，差点忘了我还有很多事要做。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:455
 translate chinese sm1ms006_061f6f43:
 
     # sy "*giggles* Little old me? Distracting? Never."
-    sy "*giggles* Little old me? Distracting? Never."
+    sy "*笑着说* 就我这么个小人物？让你分心？怎么可能嘛。"
 
