@@ -412,12 +412,6 @@ translate chinese sm1cs_vs_renovation_25451c98:
     # vs "Sure. If only to see what you sing about next."
     vs "Sure. If only to see what you sing about next."
 
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:199
-translate chinese sm1cs_vs_renovation_779e8967:
-
-    # vs "My God, [mcname]. When you said you had a space, you didn't say you had a fucking ‘space'."
-    vs "My God, [mcname]. When you said you had a space, you didn't say you had a fucking ‘space'."
-
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:202
 translate chinese sm1cs_vs_renovation_e271230c:
 
