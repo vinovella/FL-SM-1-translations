@@ -2,631 +2,631 @@
 translate chinese sm1ms008_4d8ca382:
 
     # kv "Gah. Last time I work for a food influencer. Mayonnaise doesn't play nice with a camera."
-    kv "Gah. Last time I work for a food influencer. Mayonnaise doesn't play nice with a camera."
+    kv "哼。上次我为一个美食网红工作。蛋黄酱和相机不太搭。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:22
 translate chinese sm1ms008_93e13633:
 
     # kv "Still looks sexy as a thong though."
-    kv "Still looks sexy as a thong though."
+    kv "不过穿丁字裤还是很性感。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:32
 translate chinese sm1ms008_6a0fce3c:
 
     # sy "Hi, Kanya!"
-    sy "Hi, Kanya!"
+    sy "嗨，肯娅！"
 
 # game/code/scenes/main_story/sm1ms008.rpy:35
 translate chinese sm1ms008_02dc5f69:
 
     # kv "Hey! I wasn't expecting you today, [mcname]. What's up?"
-    kv "Hey! I wasn't expecting you today, [mcname]. What's up?"
+    kv "嘿，我没想到你今天会来，[mcname]。有什么事吗？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:38
 translate chinese sm1ms008_2261aeb1:
 
     # mc "We have some good news. We-"
-    mc "We have some good news. We-"
+    mc "我们有好消息哦。我们--"
 
 # game/code/scenes/main_story/sm1ms008.rpy:41
 translate chinese sm1ms008_8e2a05cf:
 
     # sy "We landed our first big client!"
-    sy "We landed our first big client!"
+    sy "我们找到了第一个大客户！"
 
 # game/code/scenes/main_story/sm1ms008.rpy:44
 translate chinese sm1ms008_45b2105d:
 
     # mc "Thunder stealer. I wanted to tell her."
-    mc "Thunder stealer. I wanted to tell her."
+    mc "抢风头的家伙。我本来想跟她说的。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:47
 translate chinese sm1ms008_60e11c93:
 
     # sy "Hahaha."
-    sy "Hahaha."
+    sy "哈哈哈。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:54
 translate chinese sm1ms008_2b15855c:
 
     # kv "*chuckles softly*"
-    kv "*chuckles softly*"
+    kv "*轻笑*"
 
 # game/code/scenes/main_story/sm1ms008.rpy:57
 translate chinese sm1ms008_7c04357b:
 
     # sy "I'm the one handling our email, so it was my news to share, right?"
-    sy "I'm the one handling our email, so it was my news to share, right?"
+    sy "我是处理邮件的人，所以这个新闻由我来分享，没毛病吧？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:60
 translate chinese sm1ms008_adbb1b09:
 
     # mc "Alright. It's not a competition."
-    mc "Alright. It's not a competition."
+    mc "好吧。这又不是比赛。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:63
 translate chinese sm1ms008_b065688b:
 
     # sy "I know, cause I kicked your butt."
-    sy "I know, cause I kicked your butt."
+    sy "我知道，因为我已经占了上风。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:66
 translate chinese sm1ms008_9fe2ad84:
 
     # kv "You must be Stacy. I was beginning to think we'd never meet up."
-    kv "You must be Stacy. I was beginning to think we'd never meet up."
+    kv "你一定是史黛西。我还以为我们再也见不到面了呢。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:69
 translate chinese sm1ms008_1ec6f83d:
 
     # sy "Haha. What makes you say that?"
-    sy "Haha. What makes you say that?"
+    sy "哈哈。你为什么这么说？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:72
 translate chinese sm1ms008_f660d4f8:
 
     # kv "Well, I guess it's been a while since [mcname] and I started working together, and we just..."
-    kv "Well, I guess it's been a while since [mcname] and I started working together, and we just..."
+    kv "嗯，我想自打我和[mcname]上次合作以来，已经过去好长一段时间了，而我们一直..."
 
 # game/code/scenes/main_story/sm1ms008.rpy:73
 translate chinese sm1ms008_77d42783:
 
     # kv "Hadn't got the chance yet."
-    kv "Hadn't got the chance yet."
+    kv "没机会再合作。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:76
 translate chinese sm1ms008_0f243771:
 
     # sy "Mmhmm. {w}Well, here I am."
-    sy "Mmhmm. {w}Well, here I am."
+    sy "嗯哼。{w}好了，我来了。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:78
 translate chinese sm1ms008_071606df:
 
     # sy "[mcname]'s little sister, in the flesh."
-    sy "[mcname]'s little sister, in the flesh."
+    sy "[mcname]的小妹妹，还是真人版。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:80
 translate chinese sm1ms008_db045570:
 
     # sy "[mcname]'s best friend, in the flesh."
-    sy "[mcname]'s best friend, in the flesh."
+    sy "[mcname]最好的朋友，还是真人版。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:83
 translate chinese sm1ms008_0ed48d7b:
 
     # kv "It's very good to meet you, Stacy."
-    kv "It's very good to meet you, Stacy."
+    kv "很高兴见到你，史黛西。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:90
 translate chinese sm1ms008_ff97fcf1:
 
     # sy "Samsies, Kanya. I've really enjoyed your photos online, and I'm sure you'll do great on the scenes."
-    sy "Samsies, Kanya. I've really enjoyed your photos online, and I'm sure you'll do great on the scenes."
+    sy "彼此彼此，肯娅，我很喜欢你在网上拍的照片，我相信你在现场会表现得很好。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:93
 translate chinese sm1ms008_afb8db4a:
 
     # kv "I'll do my best. I don't want to let [mcname] down."
-    kv "I'll do my best. I don't want to let [mcname] down."
+    kv "我会尽力的。我不想让[mcname]失望。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:96
 translate chinese sm1ms008_9507c1de:
 
     # mc "I'm sure you'll do good."
-    mc "I'm sure you'll do good."
+    mc "我相信你会做得很好。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:102
 translate chinese sm1ms008_9f5c0c5f:
 
     # kv "I'm pumped that you guys got your first job already. I remember how excited I got when I was starting out."
-    kv "I'm pumped that you guys got your first job already. I remember how excited I got when I was starting out."
+    kv "我很高兴你们已经接到了第一个活儿。我还记得自己刚出道时有多兴奋。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:105
 translate chinese sm1ms008_f455ca5a:
 
     # kv "After I got the down payment I ignored all my classes for a solid week."
-    kv "After I got the down payment I ignored all my classes for a solid week."
+    kv "拿到首付款后，我整整一周都没上课。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:106
 translate chinese sm1ms008_5982bff7:
 
     # kv "Every day I was working my tail off to get the client a perfect photoshoot."
-    kv "Every day I was working my tail off to get the client a perfect photoshoot."
+    kv "每天我都拼命工作，只为给客户拍一张完美的照片。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:107
 translate chinese sm1ms008_d55b0016:
 
     # kv "It was so bad, I think I missed two exams. Almost had to retake a class."
-    kv "It was so bad, I think I missed two exams. Almost had to retake a class."
+    kv "太惨了，我错过了两次考试。差点就得重修一门课。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:110
 translate chinese sm1ms008_3548065f:
 
     # kv "But in the end, I survived and got my grades back up while starting my photography career."
-    kv "But in the end, I survived and got my grades back up while starting my photography career."
+    kv "但最终，我挺过来了，成绩也上来了，同时开始了我的摄影生涯。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:114
 translate chinese sm1ms008_e370a65c:
 
     # sy "You should have just dropped out like we did."
-    sy "You should have just dropped out like we did."
+    sy "你应该像我们一样退学。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:117
 translate chinese sm1ms008_962dca87:
 
     # kv "That's not really my style. I like to see things through."
-    kv "That's not really my style. I like to see things through."
+    kv "那不是我的风格。我喜欢坚持把事情做完。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:120
 translate chinese sm1ms008_86c8e4fb:
 
     # kv "So, what's the lowdown boss? What kind of job are we looking at? A gangbang? A cosplay bukkake scene?"
-    kv "So, what's the lowdown boss? What kind of job are we looking at? A gangbang? A cosplay bukkake scene?"
+    kv "好了老板，是什么订单？我们要拍什么样的场景？轮奸？还是Cosplay艳舞？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:121
 translate chinese sm1ms008_9f53e170:
 
     # kv "Don't leave me in suspense, [mcname]."
-    kv "Don't leave me in suspense, [mcname]."
+    kv "别吊我胃口，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:124
 translate chinese sm1ms008_08a85551:
 
     # mc "It's pretty straightforward, just a one on one scene. The client has a couple of criteria."
-    mc "It's pretty straightforward, just a one on one scene. The client has a couple of criteria."
+    mc "很简单，就是一对一的场景。客户有几个标准。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:127
 translate chinese sm1ms008_db07abac:
 
     # mc "Stacy."
-    mc "Stacy."
+    mc "史黛西，你来说。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:130
 translate chinese sm1ms008_d3d71759:
 
     # sy "Thank you, [mcname]. It sounds like the client is into a little rough stuff. They want some spanking and maybe a little choking, little man-handling."
-    sy "Thank you, [mcname]. It sounds like the client is into a little rough stuff. They want some spanking and maybe a little choking, little man-handling."
+    sy "谢谢你，[mcname]。听起来客户喜欢粗暴的东西。他们想要打屁股，也许还要掐脖子那种的男人口味。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:136
 translate chinese sm1ms008_77082a31:
 
     # kv "I like their taste already."
-    kv "I like their taste already."
+    kv "我已经喜欢上他们的口味了。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:140
 translate chinese sm1ms008_dcea2b81:
 
     # sy "Thre is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-    sy "Thre is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+    sy "还有最后一个要求。有点奇怪。他们希望女孩是红头发的。所以[mcname]选了这顶假发。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:144
 translate chinese sm1ms008_fe56a94c:
 
     # kv "Interesting. Well, we should definitely have the actress try it on before the shoot. Want to make sure it looks good."
-    kv "Interesting. Well, we should definitely have the actress try it on before the shoot. Want to make sure it looks good."
+    kv "有意思。嗯，我们一定要让女演员在拍摄前试戴一下。要确保它看起来上镜。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:145
 translate chinese sm1ms008_e493322f:
 
     # kv "Wigs can look perfect on their own. But if a girl is moving around in one, it can get messy."
-    kv "Wigs can look perfect on their own. But if a girl is moving around in one, it can get messy."
+    kv "假发本身可以很完美。但如果一个女孩戴着假发走来走去，就会很乱。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:148
 translate chinese sm1ms008_109291bf:
 
     # sy "Good idea. I'll definitely be moving around."
-    sy "Good idea. I'll definitely be moving around."
+    sy "好主意。我肯定会走来走去的。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:151
 translate chinese sm1ms008_9bdecd39:
 
     # kv "Oh... so you're going to be the redhead Stacy?"
-    kv "Oh... so you're going to be the redhead Stacy?"
+    kv "哦...所以你到时候扮演红头发的史黛西？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:154
 translate chinese sm1ms008_012203b8:
 
     # sy "Of course. Who else?"
-    sy "Of course. Who else?"
+    sy "当然。还能有谁？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:157
 translate chinese sm1ms008_230893e9:
 
     # kv "Ah-hah. I thought that you two might be fooling around together."
-    kv "Ah-hah. I thought that you two might be fooling around together."
+    kv "啊哈。我还以为你们俩会在一起鬼混呢。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:160
 translate chinese sm1ms008_85b87e0d:
 
     # mc "Really? What made you think that?"
-    mc "Really? What made you think that?"
+    mc "真的吗？你怎么会这么想？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:169
 translate chinese sm1ms008_special_9f1a07d5:
 
     # kv "How many times have you heard of a brother and sister working together at a porn studio?"
-    kv "How many times have you heard of a brother and sister working together at a porn studio?"
+    kv "兄妹俩一起在色情工作室工作，这种事你听说过几次？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:170
 translate chinese sm1ms008_special_fa77a22b:
 
     # kv "And knowing how kinky you are, [mcname], I imagined your sister might be cut from the same cloth."
-    kv "And knowing how kinky you are, [mcname], I imagined your sister might be cut from the same cloth."
+    kv "我知道你有多变态，[mcname]，我以为你妹妹也会和你一样。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:173
 translate chinese sm1ms008_special_15452bfb:
 
     # sy "Hey, I was sweet and innocent before he left me his porn collection."
-    sy "Hey, I was sweet and innocent before he left me his porn collection."
+    sy "嘿，在他把他收藏的黄片留给我之前，我可是天真可爱的。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:174
 translate chinese sm1ms008_special_06eab400:
 
     # mct "Not sure I'd frame it like that."
-    mct "Not sure I'd frame it like that."
+    mct "我不确定我会这么说。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:178
 translate chinese sm1ms008_special_74c47a88:
 
     # sy "But now I'm the horny kitty that he can't keep his eyes off of."
-    sy "But now I'm the horny kitty that he can't keep his eyes off of."
+    sy "但现在我是一只让他目不转睛的性感猫咪。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:181
 translate chinese sm1ms008_special_982414d4:
 
     # kv "I love it! I've done a lot, but never taken pictures of siblings getting down and dirty."
-    kv "I love it! I've done a lot, but never taken pictures of siblings getting down and dirty."
+    kv 我喜欢！我拍过很多了，但从没拍过兄妹一起鬼混的照片。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:184
 translate chinese sm1ms008_special_10a5f518:
 
     # mc "So you're cool with it, Kanya?"
-    mc "So you're cool with it, Kanya?"
+    mc "所以你不介意，肯娅？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:187
 translate chinese sm1ms008_special_9c7bd4e3:
 
     # kv "Totally. When you do this all the time like I do, it's great when something pops up on your feed."
-    kv "Totally. When you do this all the time like I do, it's great when something pops up on your feed."
+    kv "当然。要是你像我一样一直都在做这种工作的话，那么当新鲜事突然出现时，那可太棒了。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:190
 translate chinese sm1ms008_special_1c56e8a5:
 
     # kv "And I promise to keep from getting too hot and bothered while I watch you two in action."
-    kv "And I promise to keep from getting too hot and bothered while I watch you two in action."
+    kv "而且我保证在看你们俩表演的时候，我不会太激动。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:193
 translate chinese sm1ms008_special_ecca2c85:
 
     # mc "That's good to know."
-    mc "That's good to know."
+    mc "很高兴能知道这一点。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:196
 translate chinese sm1ms008_special_351a0726:
 
     # kv "Ooooh, and the brother-sister angle will help our films do better on the market too."
-    kv "Ooooh, and the brother-sister angle will help our films do better on the market too."
+    kv "哦哦，这种兄妹关系的设定角度也会让我们的电影在市场上更好卖。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:199
 translate chinese sm1ms008_special_5328f655:
 
     # sy "Oh yeah! I don't think any other studio around will have that on their bingo card."
-    sy "Oh yeah! I don't think any other studio around will have that on their bingo card."
+    sy "哦，是哎！我觉得周围的其他工作室都不会在他们的计划里想到这一点呢。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:203
 translate chinese sm1ms008_special_17c2779d:
 
     # kv "When you talked about your 'best' friend, I had a feeling you might be friends with benefits by the way you talked about her."
-    kv "When you talked about your 'best' friend, I had a feeling you might be friends with benefits by the way you talked about her."
+    kv "当你谈到你‘最好的’朋友时，从你谈论她的方式来看，我就感觉你们之间可能是那种炮友关系。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:206
 translate chinese sm1ms008_special_9e3ed4a4:
 
     # sy "Awww, you're so sweet, [mcname]."
-    sy "Awww, you're so sweet, [mcname]."
+    sy "啊，你真好，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:209
 translate chinese sm1ms008_special_0593d0c6:
 
     # kv "How long have you been dating?"
-    kv "How long have you been dating?"
+    kv "你们交往多久了？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:212
 translate chinese sm1ms008_special_aab4d9f4:
 
     # mc "Hmm. I guess technically, it's only been a few weeks."
-    mc "Hmm. I guess technically, it's only been a few weeks."
+    mc "嗯，严格来说，我想只有几个星期。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:213
 translate chinese sm1ms008_special_455fd8bd:
 
     # mc "But we were best friends for years before we finally took things to the next level."
-    mc "But we were best friends for years before we finally took things to the next level."
+    mc "但我们做了很多年的好朋友，后来才更进一步。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:216
 translate chinese sm1ms008_special_9c10f0bd:
 
     # sy "Ugh. Don't remind me. We should have gotten together years ago, [mcname]."
-    sy "Ugh. Don't remind me. We should have gotten together years ago, [mcname]."
+    sy "哎呀，别提这事了。我们几年前就该在一起了，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:217
 translate chinese sm1ms008_special_e32b4852:
 
     # sy "So much wasted time."
-    sy "So much wasted time."
+    sy "浪费了太多时间。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:221
 translate chinese sm1ms008_special_5f718ef7:
 
     # mc "Well, we're together now. that's the important part."
-    mc "Well, we're together now. that's the important part."
+    mc "我们现在在一起了，这才是最重要的。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:224
 translate chinese sm1ms008_special_5ee8dc16:
 
     # sy "Mmhmm."
-    sy "Mmhmm."
+    sy "嗯嗯嗯。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:227
 translate chinese sm1ms008_special_9a654585:
 
     # kv "Alright, so to recap, for this scene, it will be you two together, and I will be operating the camera."
-    kv "Alright, so to recap, for this scene, it will be you two together, and I will be operating the camera."
+    kv "好了，总结一下，这场戏将由你们俩共同完成，而我将负责摄影。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:230
 translate chinese sm1ms008_special_8d3e80f4:
 
     # kv "I can promise you both you will not be disappointed when we see the final cut."
-    kv "I can promise you both you will not be disappointed when we see the final cut."
+    kv "我可以向你们保证，当我们看到最终剪辑的版本时，你们不会失望的。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:231
 translate chinese sm1ms008_special_031e3f9d:
 
     # kv "The studio's first film is going to knock the client's socks off."
-    kv "The studio's first film is going to knock the client's socks off."
+    kv "工作室的第一部影片，一定会让客户大吃一惊。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:234
 translate chinese sm1ms008_special_aa85db10:
 
     # sy "Brilliant! I can't wait to see you in action, Kanya."
-    sy "Brilliant! I can't wait to see you in action, Kanya."
+    sy "太棒了！我等不及要看你的厉害之处了，肯娅。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:237
 translate chinese sm1ms008_special_9b122cf2:
 
     # mc "She's going to do great. I've already seen some of her magic at the photo dojo."
-    mc "She's going to do great. I've already seen some of her magic at the photo dojo."
+    mc "她会做得很好的。我已经在摄影棚见识过她的魔力了。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:238
 translate chinese sm1ms008_special_fb3c101b:
 
     # mc "I think we'll be in for a treat when we see the final product."
-    mc "I think we'll be in for a treat when we see the final product."
+    mc "我想我们看到最终成品时一定会大饱眼福。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:241
 translate chinese sm1ms008_special_2d56b0c7:
 
     # kv "Thanks [mcname]. There will probably be a lot of treats for us all to enjoy."
-    kv "Thanks [mcname]. There will probably be a lot of treats for us all to enjoy."
+    kv "谢谢你[mcname]。到时候很可能会有好多好吃的，够我们大家一起享用呢。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:244
 translate chinese sm1ms008_special_fa752c26:
 
     # mc "And don't worry about not getting to act with me this time, Kanya."
-    mc "And don't worry about not getting to act with me this time, Kanya."
+    mc "对了肯娅，你别担心这次不能和我一起演戏了。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:245
 translate chinese sm1ms008_special_1dcea132:
 
     # mc "If you want to be in front of the camera some time, I'm sure there will be an opening for that down the line."
-    mc "If you want to be in front of the camera some time, I'm sure there will be an opening for that down the line."
+    mc "如果你想在镜头前表演，我相信以后会有机会的。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:248
 translate chinese sm1ms008_special_f49bf310:
 
     # kv "You read my mind, [mcname]. Maybe we'll do a threesome scene sometime."
-    kv "You read my mind, [mcname]. Maybe we'll do a threesome scene sometime."
+    kv "你读懂了我的心思，[mcname]。也许有机会我们可以拍三人行的戏。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:251
 translate chinese sm1ms008_special_ba4edf08:
 
     # sy "Oh my..."
-    sy "Oh my..."
+    sy "哦，天哪..."
 
 # game/code/scenes/main_story/sm1ms008.rpy:256
 translate chinese sm1ms008_special_e531cbb2:
 
     # sy "So, should I try the wig on now, [mcname]?"
-    sy "So, should I try the wig on now, [mcname]?"
+    sy "那么，我现在应该戴上假发试试吗，[mcname]？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:259
 translate chinese sm1ms008_special_2ca0ae0b:
 
     # mc "Couldn't hurt. Like Kanya said, we don't want to wait till we start and see a problem."
-    mc "Couldn't hurt. Like Kanya said, we don't want to wait till we start and see a problem."
+    mc "试一下也没什么坏处。就像肯娅说的，我们可不想等到开拍了才发现有问题。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:262
 translate chinese sm1ms008_special_fb49e021:
 
     # sy "Right."
-    sy "Right."
+    sy "对。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:265
 translate chinese sm1ms008_special_001e9d6a:
 
     # sy "Give me a minute."
-    sy "Give me a minute."
+    sy "给我一分钟。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:270
 translate chinese sm1ms008_special_ebd63877:
 
     # kv "Your sister is very nice, [mcname]."
-    kv "Your sister is very nice, [mcname]."
+    kv "你妹妹人很好，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:274
 translate chinese sm1ms008_special_1f0374d0:
 
     # mc "She can be a handful. But I love her."
-    mc "She can be a handful. But I love her."
+    mc "有时很难对付。但我爱她。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:277
 translate chinese sm1ms008_special_bd20f9c5:
 
     # kv "Stacy is very nice. You two have been friends for a long time?"
-    kv "Stacy is very nice. You two have been friends for a long time?"
+    kv "史黛西人很好。你们是老朋友了？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:281
 translate chinese sm1ms008_special_2bbdf405:
 
     # mc "Yup. Pretty much since we were growing up."
-    mc "Yup. Pretty much since we were growing up."
+    mc "是的，差不多从我们长大的时候就是了。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:284
 translate chinese sm1ms008_special_7e7b8815:
 
     # mc "She can be a lot to handle, but when something is important to her, she always puts her best foot forward."
-    mc "She can be a lot to handle, but when something is important to her, she always puts her best foot forward."
+    mc "她有时很难对付，但只要是对她很重要的事情，她总是会全力以赴。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:287
 translate chinese sm1ms008_special_4024608f:
 
     # kv "That's good to know."
-    kv "That's good to know."
+    kv "很高兴知道这一点。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:290
 translate chinese sm1ms008_special_a6a78d38:
 
     # kv "So what about location? Are you wanting to do it here?"
-    kv "So what about location? Are you wanting to do it here?"
+    kv "那么地点呢？你们想在这里拍吗？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:293
 translate chinese sm1ms008_special_7353b187:
 
     # kv "It's possible I can block out enough time for one scene to be filmed here."
-    kv "It's possible I can block out enough time for one scene to be filmed here."
+    kv "我或许能腾出足够的时间，在这儿把这场戏给拍了。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:296
 translate chinese sm1ms008_special_59f1a578:
 
     # mc "That's cool Kanya, but we'll shoot the scene in our studio."
-    mc "That's cool Kanya, but we'll shoot the scene in our studio."
+    mc "那很好，肯娅，但我们会在我们的工作室里拍摄。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:297
 translate chinese sm1ms008_special_e9a14304:
 
     # mc "But I appreciate the thought."
-    mc "But I appreciate the thought."
+    mc "但我很感谢你愿意帮我们。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:300
 translate chinese sm1ms008_special_8fa4aefd:
 
     # kv "You got it, [mcname]."
-    kv "You got it, [mcname]."
+    kv "没问题，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:314
 translate chinese sm1ms008_special_e58a8255:
 
     # sy "So, how do I look?"
-    sy "So, how do I look?"
+    sy "我看起来怎么样？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:317
 translate chinese sm1ms008_special_407155f3:
 
     # kv "Great, Stacy. It looks solid. Let me grab my camera."
-    kv "Great, Stacy. It looks solid. Let me grab my camera."
+    kv "很好，史黛西。看起来很不错。我去拿相机。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:321
 translate chinese sm1ms008_special_c5b44713:
 
     # sy "What do you think, [mcname]?"
-    sy "What do you think, [mcname]?"
+    sy "你觉得怎么样，[mcname]？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:327
 translate chinese sm1ms008_special_aced0db5:
 
     # mc "Wow. Very sexy and fiery. You might have to stick with red hair for a bit."
-    mc "Wow. Very sexy and fiery. You might have to stick with red hair for a bit."
+    mc "哇，非常性感、火辣。你或许得留一阵子红发了。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:332
 translate chinese sm1ms008_special_d5a7a478:
 
     # sy "Really? It's that hot?"
-    sy "Really? It's that hot?"
+    sy "真的吗？这么性感？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:336
 translate chinese sm1ms008_special_05d8c386:
 
     # mc "You might even say 'red-hot'."
-    mc "You might even say 'red-hot'."
+    mc "甚至可以说是‘炽热如火’。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:339
 translate chinese sm1ms008_special_ac8123a1:
 
     # sy "Hahaha. Hmmm."
-    sy "Hahaha. Hmmm."
+    sy "哈哈哈。这样嘛。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:345
 translate chinese sm1ms008_special_bad7c00a:
 
     # mc "It looks great, Stacy. I think it will fit perfectly for the scene."
-    mc "It looks great, Stacy. I think it will fit perfectly for the scene."
+    mc "看起来很棒，史黛西。我觉得它非常适合这场戏。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:348
 translate chinese sm1ms008_special_2bd452b0:
 
     # sy "Good. But that's it? Just for the scene?"
-    sy "Good. But that's it? Just for the scene?"
+    sy "很好。就这样？只是对这场戏来说不错？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:351
 translate chinese sm1ms008_special_afd74152:
 
     # mc "What do you think?"
-    mc "What do you think?"
+    mc "你觉得呢？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:354
 translate chinese sm1ms008_special_f2580a24:
 
     # sy "I don't know. Maybe once I see it in action, I'll have a better feel for it."
-    sy "I don't know. Maybe once I see it in action, I'll have a better feel for it."
+    sy "我不知道。也许等我开拍了再看，就会有更好的感觉。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:356
 translate chinese sm1ms008_special_4661a639:
 
     # mc "Mmhmm."
-    mc "Mmhmm."
+    mc "嗯。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:362
 translate chinese sm1ms008_special_331f4a9b:
 
     # mc "I'm glad it's just for a scene."
-    mc "I'm glad it's just for a scene."
+    mc "我很高兴这只是一场戏。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:365
 translate chinese sm1ms008_special_e0e72b2d:
 
     # sy "What? It's that bad?"
-    sy "What? It's that bad?"
+    sy "什么？有那么糟吗？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:368
 translate chinese sm1ms008_special_817f7d48:
