@@ -2,997 +2,997 @@
 translate chinese sm1ms009_99dd1116:
 
     # mc "Wow, this looks great!"
-    mc "Wow, this looks great!"
+    mc "哇，看起来太棒了！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:111
 translate chinese sm1ms009_55f01b7b:
 
     # sy "It totally does. Makes me think we need to redo the whole studio sooner rather than later..."
-    sy "It totally does. Makes me think we need to redo the whole studio sooner rather than later..."
+    sy "的确如此。这让我觉得我们需要尽快重做整个工作室..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:114
 translate chinese sm1ms009_72de6107:
 
     # sy "Oh! I need to get into wardrobe!"
-    sy "Oh! I need to get into wardrobe!"
+    sy "哦，我得去衣橱看看！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:116
 translate chinese sm1ms009_17f57afd:
 
     # mc "Wardrobe...?"
-    mc "Wardrobe...?"
+    mc "衣橱...？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:120
 translate chinese sm1ms009_55e7e059:
 
     # sy "That's what the professionals call it, [mcname]! And we are {i}professionals!{/i}"
-    sy "That's what the professionals call it, [mcname]! And we are {i}professionals!{/i}"
+    sy "这是专业人士的叫法，[mcname]！我们是{i}专业人士！{/i}"
 
 # game/code/scenes/main_story/sm1ms009.rpy:122
 translate chinese sm1ms009_8f3d580b:
 
     # mc "Okaaaaay!"
-    mc "Okaaaaay!"
+    mc "好嘞！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:125
 translate chinese sm1ms009_d9018f3c:
 
     # "*KNOCK KNOCK*"
-    "*KNOCK KNOCK*"
+    "*咚咚咚*"
 
 # game/code/scenes/main_story/sm1ms009.rpy:127
 translate chinese sm1ms009_9fc7d980:
 
     # sy "That's Kanya! Can you let her in?"
-    sy "That's Kanya! Can you let her in?"
+    sy "是肯娅，你能让她进来吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:130
 translate chinese sm1ms009_f347ee91:
 
     # mc "Yeah, not a problem."
-    mc "Yeah, not a problem."
+    mc "好，没问题。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:136
 translate chinese sm1ms009_6accfe95:
 
     # kv "Hey, [mcname]!"
-    kv "Hey, [mcname]!"
+    kv "嘿，[mcname]！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:139
 translate chinese sm1ms009_c7a254ee:
 
     # mc "What's up, Kanya?"
-    mc "What's up, Kanya?"
+    mc "怎么了，肯娅？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:142
 translate chinese sm1ms009_c13bdd60:
 
     # kv "Oh you know, getting ready to film a porno!"
-    kv "Oh you know, getting ready to film a porno!"
+    kv "哦，你知道的，准备拍色情片！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:146
 translate chinese sm1ms009_14541f4b:
 
     # kv "You excited? Getting anxious at all?"
-    kv "You excited? Getting anxious at all?"
+    kv "你兴奋吗？一点都不着急吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:148
 translate chinese sm1ms009_6002320a:
 
     # mc "Nope! I'm also pretty excited."
-    mc "Nope! I'm also pretty excited."
+    mc "不啊！我也挺兴奋的。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:151
 translate chinese sm1ms009_2b285705:
 
     # mc "Who wouldn't be when they have such a hot co-star?"
-    mc "Who wouldn't be when they have such a hot co-star?"
+    mc "有这么性感的搭档，谁会不兴奋呢？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:155
 translate chinese sm1ms009_0847afce:
 
     # kv "You've got a good point. Speaking of, where is the starlet?"
-    kv "You've got a good point. Speaking of, where is the starlet?"
+    kv "你说得有道理。说起来，那个女明星在哪儿呢？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:157
 translate chinese sm1ms009_75e76b58:
 
     # mc "Getting into 'wardrobe'."
-    mc "Getting into 'wardrobe'."
+    mc "进‘衣橱’了。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:160
 translate chinese sm1ms009_164a2e25:
 
     # kv "Ahh, I see you're picking up the lingo."
-    kv "Ahh, I see you're picking up the lingo."
+    kv "啊，看得出来你在学行话。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:162
 translate chinese sm1ms009_f22b973b:
 
     # mc "Trying to."
-    mc "Trying to."
+    mc "正在努力。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:165
 translate chinese sm1ms009_c20ce7bd:
 
     # mc "Looks like I'm not the only one picking up. I see you've got a new camera?"
-    mc "Looks like I'm not the only one picking up. I see you've got a new camera?"
+    mc "看来不只是我在跟上进度。我看你买了新相机？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:167
 translate chinese sm1ms009_a98c8e9d:
 
     # kv "Renting one, yeah. These things are expensive as hell."
-    kv "Renting one, yeah. These things are expensive as hell."
+    kv "租了一台。这些东西贵得要命。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:168
 translate chinese sm1ms009_def0ad19:
 
     # mc "What is it?"
-    mc "What is it?"
+    mc "这是什么？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:171
 translate chinese sm1ms009_b71bce81:
 
     # kv "Oh, this baby is a low end BLUE. They're renting them cheap because Neye-con just bought them out."
-    kv "Oh, this baby is a low end BLUE. They're renting them cheap because Neye-con just bought them out."
+    kv "哦，这台宝贝设备是台低端的蓝牌摄影机。他们把这台机子租得很便宜，因为倪康公司刚刚收购了蓝牌公司。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:172
 translate chinese sm1ms009_a5b13176:
 
     # kv "But, she's got a 6k sensor, native ISO of 800, which is great for natural light shoots, weighs like 7 pounds without a lens, which is useful for handheld, and-"
-    kv "But, she's got a 6k sensor, native ISO of 800, which is great for natural light shoots, weighs like 7 pounds without a lens, which is useful for handheld, and-"
+    kv "但是，她有一个6K传感器，原生感光度为800，非常适合自然光拍摄，不带镜头重达7磅，非常适合手持拍摄，而且--"
 
 # game/code/scenes/main_story/sm1ms009.rpy:175
 translate chinese sm1ms009_e2ce1ac1:
 
     # kv "Sorry, I'm just rambling specs. I'm a bit of a gearhead."
-    kv "Sorry, I'm just rambling specs. I'm a bit of a gearhead."
+    kv "对不起，我只是随便说说。我是个机械迷。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:177
 translate chinese sm1ms009_a64663d6:
 
     # mc "Oh believe me, I know."
-    mc "Oh believe me, I know."
+    mc "哦，相信我，我明白。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:180
 translate chinese sm1ms009_887f9679:
 
     # kv "But, gear is not the important thing today! This is a big thing for the two of you. Have you gone over what you're going to do?"
-    kv "But, gear is not the important thing today! This is a big thing for the two of you. Have you gone over what you're going to do?"
+    kv "但是，今天重要的不是设备！这对你们俩来说是件大事。你们想好要做什么了吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:182
 translate chinese sm1ms009_633268f3:
 
     # mc "Uhhhh... we have an outfit?"
-    mc "Uhhhh... we have an outfit?"
+    mc "呃...我们有造型吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:186
 translate chinese sm1ms009_fc920421:
 
     # sy "Yeah we do!"
-    sy "Yeah we do!"
+    sy "有啊。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:192
 translate chinese sm1ms009_3c7f0313:
 
     # sy "And I think it looks {i}damn good{/i}."
-    sy "And I think it looks {i}damn good{/i}."
+    sy "而且我觉得看起来{i}超有型{/i}。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:197
 translate chinese sm1ms009_79dba188:
 
     # mc "Shit..."
-    mc "Shit..."
+    mc "我去..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:199
 translate chinese sm1ms009_6cf7b267:
 
     # kv "You're not wrong."
-    kv "You're not wrong."
+    kv "你没说错。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:203
 translate chinese sm1ms009_b1051e16:
 
     # sy "Well, we have the hot pornstar, we have a camera, and we can get a hard dick. What else do we need?"
-    sy "Well, we have the hot pornstar, we have a camera, and we can get a hard dick. What else do we need?"
+    sy "我们有性感的色情明星，有摄像机，还能得到大鸡巴，我们还需要什么？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:205
 translate chinese sm1ms009_d0b1bfe3:
 
     # kv "Well, how do we start the scene?"
-    kv "Well, how do we start the scene?"
+    kv "那我们怎么开始这场戏呢？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:209
 translate chinese sm1ms009_27596b59:
 
     # sy "Oh, I'm just here to clean this rich man's studio apartment, a bachelor who made all his money in tech. He's not looking for love, he's looking for something {i}more{/i}."
-    sy "Oh, I'm just here to clean this rich man's studio apartment, a bachelor who made all his money in tech. He's not looking for love, he's looking for something {i}more{/i}."
+    sy "哦，我只是来打扫这个有钱人的公寓，他是个单身汉，靠技术赚钱。他不是在寻找爱情，而是在寻找比那{i}更刺激{/i}的东西。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:211
 translate chinese sm1ms009_328e24e4:
 
     # mc "*Gulp*{w} Hot..."
-    mc "*Gulp*{w} Hot..."
+    mc "*吞口水* {w}好性感..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:214
 translate chinese sm1ms009_38646ae8:
 
     # kv "Okay, and do you know what positions you're going to do?"
-    kv "Okay, and do you know what positions you're going to do?"
+    kv "好吧，你知道你要做什么姿势吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:217
 translate chinese sm1ms009_0f42acda:
 
     # sy "Erm... Whatever the {i}hot bachelor{/i} wants."
-    sy "Erm... Whatever the {i}hot bachelor{/i} wants."
+    sy "呃...{i}性感单身汉{/i}想要什么，我就做什么。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:219
 translate chinese sm1ms009_1c29c1cd:
 
     # kv "I mean, sure - but you need to make sure you're opening up to the camera."
-    kv "I mean, sure - but you need to make sure you're opening up to the camera."
+    kv "那是当然，但有一样--你得确保对着镜头。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:221
 translate chinese sm1ms009_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "什么意思？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:224
 translate chinese sm1ms009_6b6cccb8:
 
     # kv "Come here."
-    kv "Come here."
+    kv "过来。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:226
 translate chinese sm1ms009_1b199792:
 
     # mc "Okay?"
-    mc "Okay?"
+    mc "行吧？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:230
 translate chinese sm1ms009_f4152f70:
 
     # mc "Oh - Kanya-"
-    mc "Oh - Kanya-"
+    mc "哦--肯娅--"
 
 # game/code/scenes/main_story/sm1ms009.rpy:232
 translate chinese sm1ms009_66145359:
 
     # kv "Stacy, you see how I'm positioned?"
-    kv "Stacy, you see how I'm positioned?"
+    kv "史黛西，你看到我的站位了吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:235
 translate chinese sm1ms009_f7009eb5:
 
     # sy "Yeah. It's hot."
-    sy "Yeah. It's hot."
+    sy "看见了，很性感。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:237
 translate chinese sm1ms009_bc6ae0da:
 
     # kv "It is, but I won't be able to see anything except the terrible upwards dick angle. You've got your tits covered, there's no way for me to get in there."
-    kv "It is, but I won't be able to see anything except the terrible upwards dick angle. You've got your tits covered, there's no way for me to get in there."
+    kv "是的，但我什么都看不到，只能看到鸡巴向上这个很糟糕的角度。你的奶子被遮住了，我没办法进去。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:240
 translate chinese sm1ms009_88560e2a:
 
     # sy "Oh damn..."
-    sy "Oh damn..."
+    sy "哦，该死..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:242
 translate chinese sm1ms009_c86b71b3:
 
     # kv "But see, this is much better. I can get between you two, see your tits - in summary, I got options here."
-    kv "But see, this is much better. I can get between you two, see your tits - in summary, I got options here."
+    kv "但是你看，这样就好多了。我可以从你们两个中间钻进去，看到你的乳房--总之，我在这里有选择。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:243
 translate chinese sm1ms009_adfa798c:
 
     # kv "Plus, from where you're standing Stacy, I can see a whole lot more."
-    kv "Plus, from where you're standing Stacy, I can see a whole lot more."
+    kv "而且史黛西，从你站的位置看，我可以看到更多。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:246
 translate chinese sm1ms009_fdb5cb5b:
 
     # sy "Yeah... I get what you're saying."
-    sy "Yeah... I get what you're saying."
+    sy "嗯...我明白你的意思。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:248
 translate chinese sm1ms009_739cb4b1:
 
     # mc "Opening up to the camera, okay - yeah, that makes sense!"
-    mc "Opening up to the camera, okay - yeah, that makes sense!"
+    mc "对着镜头，好--对了，这样就行！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:252
 translate chinese sm1ms009_c88e7d53:
 
     # kv "Awesome. Well, ain't no reason to just stand around, let's make a fuckin' porno!"
-    kv "Awesome. Well, ain't no reason to just stand around, let's make a fuckin' porno!"
+    kv "真棒。好了，没理由傻站着，我们来拍一部色情片吧！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:254
 translate chinese sm1ms009_9678d6e4:
 
     # mc "Wooo!"
-    mc "Wooo!"
+    mc "哇！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:257
 translate chinese sm1ms009_47787dfc:
 
     # sy "Hell yeah!"
-    sy "Hell yeah!"
+    sy "哦耶！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:260
 translate chinese sm1ms009_ad8f8a82:
 
     # kv "All right, everyone to one!"
-    kv "All right, everyone to one!"
+    kv "好了，大家都去一号位置！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:262
 translate chinese sm1ms009_e18f9ec3:
 
     # mc "Uhhhhh..."
-    mc "Uhhhhh..."
+    mc "呃..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:265
 translate chinese sm1ms009_4e0dca5a:
 
     # kv "It means go to your starting places."
-    kv "It means go to your starting places."
+    kv "意思是，回到你们的起点。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:268
 translate chinese sm1ms009_3a7256c3:
 
     # mc "Oh, right!"
-    mc "Oh, right!"
+    mc "哦，对！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:273
 translate chinese sm1ms009_c275a93a:
 
     # kv "So, I'm thinking since we're handheld with the camera, we're going to do just a one shot take."
-    kv "So, I'm thinking since we're handheld with the camera, we're going to do just a one shot take."
+    kv "我想既然我们用的是手持摄像机，我们就拍个一镜到底吧。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:274
 translate chinese sm1ms009_3ea5b1c1:
 
     # kv "So just keep going until you hear me say 'cut'. We'll run it a couple different times so that we can splice in some different angles in the edit."
-    kv "So just keep going until you hear me say 'cut'. We'll run it a couple different times so that we can splice in some different angles in the edit."
+    kv "那就一直拍下去，直到听到我喊‘卡’。我们要多拍几次，这样在剪辑时就能拼接出不同的角度。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:277
 translate chinese sm1ms009_78646ea1:
 
     # sy "Will that work?"
-    sy "Will that work?"
+    sy "这样行吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:279
 translate chinese sm1ms009_dd59be2c:
 
     # kv "It might end up a little Italian neo-realistic-y, but I think it'll be cool."
-    kv "It might end up a little Italian neo-realistic-y, but I think it'll be cool."
+    kv "最后可能会有点意大利新现实主义风格，但我觉得会很酷。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:284
 translate chinese sm1ms009_112855cd:
 
     # sy "Sounds great!"
-    sy "Sounds great!"
+    sy "听起来很不错！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:288
 translate chinese sm1ms009_43444859:
 
     # mct "All right, here we go. Time to show everyone that I'm a bright, shining star."
-    mct "All right, here we go. Time to show everyone that I'm a bright, shining star."
+    mct "好了，我们开始吧，是时候向大家展示我是一颗闪亮的新星了。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:291
 translate chinese sm1ms009_78a6f49c:
 
     # kv "Aaaaaaaand, rolling!"
-    kv "Aaaaaaaand, rolling!"
+    kv "好--准备！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:295
 translate chinese sm1ms009_985fe4b5:
 
     # sy "Uhm, hello, sir-"
-    sy "Uhm, hello, sir-"
+    sy "嗯，你好，先生--"
 
 # game/code/scenes/main_story/sm1ms009.rpy:298
 translate chinese sm1ms009_41e1744b:
 
     # kv "Wait!"
-    kv "Wait!"
+    kv "等等！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:300
 translate chinese sm1ms009_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "怎么了？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:303
 translate chinese sm1ms009_ac19358c:
 
     # kv "You need to wait for me to say action."
-    kv "You need to wait for me to say action."
+    kv "你们得等我说开始。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:304
 translate chinese sm1ms009_e52f496b:
 
     # kv "I've got a lot of things to do to get set before you can go - make sure the audio levels are set, focus is sharp... so wait for the magic word."
-    kv "I've got a lot of things to do to get set before you can go - make sure the audio levels are set, focus is sharp... so wait for the magic word."
+    kv "在你们开始之前，我还有很多事情要做--确保音频水平调好，对焦清晰...所以，等着我说那个神奇的词吧。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:308
 translate chinese sm1ms009_ad09b856:
 
     # mc "Shit."
-    mc "Shit."
+    mc "靠。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:310
 translate chinese sm1ms009_ce4ba6bc:
 
     # kv "You're all good, plenty of people fuck that one up."
-    kv "You're all good, plenty of people fuck that one up."
+    kv "你们俩很棒，很多人之前都搞砸了。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:314
 translate chinese sm1ms009_ca200942:
 
     # mc "Woof, okay. Let's do this again."
-    mc "Woof, okay. Let's do this again."
+    mc "唔呼，好吧。我们再来一次。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:316
 translate chinese sm1ms009_435eb090:
 
     # kv "Okay, still rolling...{w} and...{w} action!"
-    kv "Okay, still rolling...{w} and...{w} action!"
+    kv "好，还是准备...{w}好...{w}开始！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:320
 translate chinese sm1ms009_ca0fbf84:
 
     # sy "Erm, hello - I'm the cleaner that you requested..."
-    sy "Erm, hello - I'm the cleaner that you requested..."
+    sy "呃，你好，我是你请的保洁员..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:322
 translate chinese sm1ms009_e218682b:
 
     # mc "Please, come on in."
-    mc "Please, come on in."
+    mc "请进。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:326
 translate chinese sm1ms009_9b342eb8:
 
     # sy "Wow, it's {i}so biiiiig{/i}."
-    sy "Wow, it's {i}so biiiiig{/i}."
+    sy "哇，{i}好大{/i}啊。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:327
 translate chinese sm1ms009_f63143a0:
 
     # sy "Is this for you and your girlfriend?"
-    sy "Is this for you and your girlfriend?"
+    sy "你和你女朋友一起住吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:329
 translate chinese sm1ms009_2f70d22d:
 
     # mc "No, it's just me here. That's why I hired a cleaner to help."
-    mc "No, it's just me here. That's why I hired a cleaner to help."
+    mc "不，这里只有我一个人。所以我雇了个清洁工来帮忙。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:332
 translate chinese sm1ms009_f4b6bdad:
 
     # sy "Mmmmm, I {i}definitely{/i} think I can help you out, sir."
-    sy "Mmmmm, I {i}definitely{/i} think I can help you out, sir."
+    sy "嗯嗯嗯，我{i}绝对{/i}认为我能帮您，先生。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:334
 translate chinese sm1ms009_0118183e:
 
     # mc "Great, uhhh, why don't you start with..."
-    mc "Great, uhhh, why don't you start with..."
+    mc "很好，呃...你先开始干...？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:338
 translate chinese sm1ms009_332c3e99:
 
     # sy "Mmmm, I can start with the floors!"
-    sy "Mmmm, I can start with the floors!"
+    sy "嗯，我可以从地板开始！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:340
 translate chinese sm1ms009_58114b7a:
 
     # mc "Perfect, that'll-"
-    mc "Perfect, that'll-"
+    mc "好极了，那就--"
 
 # game/code/scenes/main_story/sm1ms009.rpy:344
 translate chinese sm1ms009_dee5529a:
 
     # kv "And CUT!"
-    kv "And CUT!"
+    kv "卡--！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:347
 translate chinese sm1ms009_abcbc5f5:
 
     # kv "All right, and that's the master wide shot done with! Let's punch in for coverage."
-    kv "All right, and that's the master wide shot done with! Let's punch in for coverage."
+    kv "好啦，主镜头的全景拍摄完成了！咱们拉近镜头拍些补充镜头吧。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:348
 translate chinese sm1ms009_4a21d904:
 
     # kv "We're going to do everything again, but at a different angle."
-    kv "We're going to do everything again, but at a different angle."
+    kv "我们再来一遍，但角度不同。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:351
 translate chinese sm1ms009_c3010618:
 
     # sy "Ahhhh."
-    sy "Ahhhh."
+    sy "啊。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:354
 translate chinese sm1ms009_eea44f0e:
 
     # kv "Everyone to their ones!"
-    kv "Everyone to their ones!"
+    kv "大家回到一号位置！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:360
 translate chinese sm1ms009_bead4715:
 
     # kv "All right, set...{w} rolling...{w} aaaaaand, action!"
-    kv "All right, set...{w} rolling...{w} aaaaaand, action!"
+    kv "好了，{w}准备...{w}好——嘞，开始！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:364
 translate chinese sm1ms009_ea9564e1:
 
     # mc "Uhm, yes?"
-    mc "Uhm, yes?"
+    mc "嗯，什么事？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:366
 translate chinese sm1ms009_81c3c455:
 
     # sy "Uhm, hi. I'm the cleaner you called?"
-    sy "Uhm, hi. I'm the cleaner you called?"
+    sy "您好，我是您叫来的保洁员？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:367
 translate chinese sm1ms009_96945ace:
 
     # mc "Ah, yes. Come on in."
-    mc "Ah, yes. Come on in."
+    mc "啊，是的。请进。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:371
 translate chinese sm1ms009_3e9042a1:
 
     # sy "Wow, this place is {i}huge.{/i}"
-    sy "Wow, this place is {i}huge.{/i}"
+    sy "哇，这地方真{i}大{/i}。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:372
 translate chinese sm1ms009_4485a54d:
 
     # sy "Do you and your girlfriend live here?"
-    sy "Do you and your girlfriend live here?"
+    sy "你和你女朋友住在这里吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:375
 translate chinese sm1ms009_12906621:
 
     # mc "Nope, just me. Which is why I need a cleaner, too much of a workload for me to handle."
-    mc "Nope, just me. Which is why I need a cleaner, too much of a workload for me to handle."
+    mc "不，就我一个人。这就是为什么我需要一个保洁员，工作量太大了，我应付不来。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:377
 translate chinese sm1ms009_6bb6b991:
 
     # sy "Mmmm, well I can definitely help you with your {i}load{/i}."
-    sy "Mmmm, well I can definitely help you with your {i}load{/i}."
+    sy "嗯，我肯定能帮您分担{i}压力{/i}。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:381
 translate chinese sm1ms009_ecf65d06:
 
     # kv "Aaaaand, cut!"
-    kv "Aaaaand, cut!"
+    kv "好--卡！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:383
 translate chinese sm1ms009_5e5d0fa3:
 
     # mc "How was that?"
-    mc "How was that?"
+    mc "怎么样？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:386
 translate chinese sm1ms009_2cdf5fd1:
 
     # kv "Good! You're both loosening up, which is great."
-    kv "Good! You're both loosening up, which is great."
+    kv "很好！你们都放松了，这很好。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:387
 translate chinese sm1ms009_a7a599e3:
 
     # kv "But, be careful about changing your lines. It will make it harder to edit later."
-    kv "But, be careful about changing your lines. It will make it harder to edit later."
+    kv "但是，改台词时要小心。这会增加后期剪辑的难度。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:390
 translate chinese sm1ms009_bfc093ad:
 
     # sy "Wait, we changed our lines?"
-    sy "Wait, we changed our lines?"
+    sy "等等，我们改了台词？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:393
 translate chinese sm1ms009_85ac52f1:
 
     # kv "A bit, yeah. It just means that you have to use the whole line of dialogue, before you cut."
-    kv "A bit, yeah. It just means that you have to use the whole line of dialogue, before you cut."
+    kv "嗯哼，改了一点。意思就是在切换镜头之前，你们得把整段对话都演完。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:394
 translate chinese sm1ms009_b2e0feed:
 
     # kv "All right, let's do one more to make sure we have some coverage, and then we can move on!"
-    kv "All right, let's do one more to make sure we have some coverage, and then we can move on!"
+    kv "好的，咱们再拍一条，确保能有足够的素材，然后我们就可以进行下一项了！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:396
 translate chinese sm1ms009_eb0ad4ac:
 
     # sy "Sweet!"
-    sy "Sweet!"
+    sy "太棒了！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:400
 translate chinese sm1ms009_39cd7202:
 
     # kv "This time, we're going to do like a POV style shot. So for all intents and purposes I'm [mcname] now. And [mcname], you stand behind me to give your lines to Stacy."
-    kv "This time, we're going to do like a POV style shot. So for all intents and purposes I'm [mcname] now. And [mcname], you stand behind me to give your lines to Stacy."
+    kv "这一次，我们要拍一个POV式的镜头。所以现在我是[mcname]。[mcname]，你站在我身后，把你的台词给史黛西。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:402
 translate chinese sm1ms009_abcc2405:
 
     # mc "I can do that!"
-    mc "I can do that!"
+    mc "我看可以！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:405
 translate chinese sm1ms009_fa66b902:
 
     # kv "And look right down the barrel of the camera, Stacy."
-    kv "And look right down the barrel of the camera, Stacy."
+    kv "看着镜筒，史黛西。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:407
 translate chinese sm1ms009_b5964194:
 
     # sy "And the barrel is the lens?"
-    sy "And the barrel is the lens?"
+    sy "看镜筒就是看镜头？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:408
 translate chinese sm1ms009_be28800f:
 
     # kv "Yep!"
-    kv "Yep!"
+    kv "对！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:411
 translate chinese sm1ms009_41bbea25:
 
     # sy "Can do!"
-    sy "Can do!"
+    sy "没问题！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:414
 translate chinese sm1ms009_ad95e24b:
 
     # kv "Set, rolling, and...{w} action!"
-    kv "Set, rolling, and...{w} action!"
+    kv "准备，好...{w}开始！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:417
 translate chinese sm1ms009_5f9bb28d:
 
     # mc "Uhh, yes?"
-    mc "Uhh, yes?"
+    mc "嗯，怎么了？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:419
 translate chinese sm1ms009_d04b59df:
 
     # sy "Uhm, hey. I'm the cleaner you called?"
-    sy "Uhm, hey. I'm the cleaner you called?"
+    sy "嗯，您好。我是您叫来的保洁员？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:420
 translate chinese sm1ms009_cdf166b6:
 
     # mc "Ah, yeah. Come on in."
-    mc "Ah, yeah. Come on in."
+    mc "啊，是的。进来吧。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:424
 translate chinese sm1ms009_af216940:
 
     # sy "Wow, this place is {i}so big.{/i}"
-    sy "Wow, this place is {i}so big.{/i}"
+    sy "哇，这地方{i}真大。{/i}"
 
 # game/code/scenes/main_story/sm1ms009.rpy:425
 translate chinese sm1ms009_4485a54d_1:
 
     # sy "Do you and your girlfriend live here?"
-    sy "Do you and your girlfriend live here?"
+    sy "你和你女朋友住在这里吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:428
 translate chinese sm1ms009_12906621_1:
 
     # mc "Nope, just me. Which is why I need a cleaner, too much of a workload for me to handle."
-    mc "Nope, just me. Which is why I need a cleaner, too much of a workload for me to handle."
+    mc "不，就我一个人。这就是为什么我需要一个保洁员，工作量太大了，我应付不来。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:430
 translate chinese sm1ms009_6bb6b991_1:
 
     # sy "Mmmm, well I can definitely help you with your {i}load{/i}."
-    sy "Mmmm, well I can definitely help you with your {i}load{/i}."
+    sy "嗯，我肯定能帮您分担{i}压力{/i}。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:434
 translate chinese sm1ms009_ecf65d06_1:
 
     # kv "Aaaaand, cut!"
-    kv "Aaaaand, cut!"
+    kv "好--卡！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:438
 translate chinese sm1ms009_3edff017:
 
     # mc "Better?"
-    mc "Better?"
+    mc "好点了吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:440
 translate chinese sm1ms009_f7a295c1:
 
     # kv "So much better."
-    kv "So much better."
+    kv "好多了。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:443
 translate chinese sm1ms009_ea7e6e3e:
 
     # sy "Yay!"
-    sy "Yay!"
+    sy "耶！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:446
 translate chinese sm1ms009_93b4aa03:
 
     # kv "I'm feeling good about that, moving on!"
-    kv "I'm feeling good about that, moving on!"
+    kv "我现在感觉很好，继续前进！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:448
 translate chinese sm1ms009_74da21e1:
 
     # sy "What's next?"
-    sy "What's next?"
+    sy "接下来呢？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:451
 translate chinese sm1ms009_3916b306:
 
     # kv "Well..."
-    kv "Well..."
+    kv "嗯..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:452
 translate chinese sm1ms009_4baac869:
 
     # kv "It feels like someone is pretty excited to get to the sexy bits."
-    kv "It feels like someone is pretty excited to get to the sexy bits."
+    kv "要开始性感的部分了，感觉有人很兴奋啊。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:455
 translate chinese sm1ms009_7136c946:
 
     # mc "I mean..."
-    mc "I mean..."
+    mc "我是说..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:457
 translate chinese sm1ms009_35dde8ea:
 
     # sy "Yay! Sex!"
-    sy "Yay! Sex!"
+    sy "耶，性感部分！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:459
 translate chinese sm1ms009_112542cc:
 
     # kv "Let's find some marks, and get you two into place!"
-    kv "Let's find some marks, and get you two into place!"
+    kv "让我们找些标记，让你们俩就位！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:462
 translate chinese sm1ms009_8876e32a:
 
     # kv "So, you two were thinking like the classic 'maid cleaning becomes fucking' thing?"
-    kv "So, you two were thinking like the classic 'maid cleaning becomes fucking' thing?"
+    kv "所以，你们两个是在想经典的‘女仆打扫变成了做爱’的剧情吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:465
 translate chinese sm1ms009_0f6b39b4:
 
     # sy "Yeah! Because who doesn't like that?"
-    sy "Yeah! Because who doesn't like that?"
+    sy "是的！因为谁不喜欢这种剧情呢？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:468
 translate chinese sm1ms009_4dc291f0:
 
     # kv "Cool... are you wearing panties with that outfit?"
-    kv "Cool... are you wearing panties with that outfit?"
+    kv "酷...你这身打扮穿了内裤吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:470
 translate chinese sm1ms009_ae4138ce:
 
     # sy "Nope!"
-    sy "Nope!"
+    sy "没有！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:473
 translate chinese sm1ms009_cf3e6d95:
 
     # kv "Great...{w} so, [mcname], you sit down on the couch."
-    kv "Great...{w} so, [mcname], you sit down on the couch."
+    kv "太好了...{w}那么，[mcname]，你坐在沙发上。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:477
 translate chinese sm1ms009_1b199792_1:
 
     # mc "Okay?"
-    mc "Okay?"
+    mc "好？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:480
 translate chinese sm1ms009_08c38a50:
 
     # kv "And Stacy... you get on your hands and knees in front of him, wave that ass in his face."
-    kv "And Stacy... you get on your hands and knees in front of him, wave that ass in his face."
+    kv "史黛西...你跪在他面前，在他面前晃屁股。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:482
 translate chinese sm1ms009_53111809:
 
     # sy "Okay!"
-    sy "Okay!"
+    sy "好！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:486
 translate chinese sm1ms009_acf482fa:
 
     # kv "Perfect..."
-    kv "Perfect..."
+    kv "完美..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:489
 translate chinese sm1ms009_420bbb42:
 
     # kv "All right, let me get set up."
-    kv "All right, let me get set up."
+    kv "好了，让我准备一下。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:492
 translate chinese sm1ms009_11dc4a89:
 
     # mc "Why do you always start out so far away?"
-    mc "Why do you always start out so far away?"
+    mc "为什么你一开始总是离得那么远？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:495
 translate chinese sm1ms009_1ebc566a:
 
     # kv "Well it's always good to start with a wide shot, or a 'master' shot, so that you can see the whole scene play out, plus it makes editing easier."
-    kv "Well it's always good to start with a wide shot, or a 'master' shot, so that you can see the whole scene play out, plus it makes editing easier."
+    kv "嗯，从广角镜头或‘主’镜头开始总是好的，这样你就能看到整个场景，而且这样剪辑起来也更容易。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:496
 translate chinese sm1ms009_ecf49fe4:
 
     # kv "And then, I can see what happens, and I know what I should get in a medium, or a close."
-    kv "And then, I can see what happens, and I know what I should get in a medium, or a close."
+    kv "然后，我可以看到发生了什么，我就知道中景或近景应该怎么拍了。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:498
 translate chinese sm1ms009_21ddf55c:
 
     # mc "Ahhh, okay."
-    mc "Ahhh, okay."
+    mc "啊，好的。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:501
 translate chinese sm1ms009_31dc63f4:
 
     # kv "All right, rolling, set...{w} action!"
-    kv "All right, rolling, set...{w} action!"
+    kv "好了，准备...{w}开始！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:510
 translate chinese sm1ms099_recording_4f65e69a:
 
     # sy "I hope I'm doing a good job..."
-    sy "I hope I'm doing a good job..."
+    sy "希望我做得不错..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:512
 translate chinese sm1ms099_recording_c169e519:
 
     # mc "Oh, you're doing great."
-    mc "Oh, you're doing great."
+    mc "哦，你做得很好。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:513
 translate chinese sm1ms099_recording_6c05197c:
 
     # sy "Mmmmm, I'm glad you think so..."
-    sy "Mmmmm, I'm glad you think so..."
+    sy "嗯嗯，我很高兴你这么想..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:516
 translate chinese sm1ms099_recording_42baa0b0:
 
     # sy "Is there anything else I can do for you...?"
-    sy "Is there anything else I can do for you...?"
+    sy "我还能为您做些什么..？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:518
 translate chinese sm1ms099_recording_aa1741be:
 
     # mc "Hmmmmm..."
-    mc "Hmmmmm..."
+    mc "嗯..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:523
 translate chinese sm1ms099_recording_ce4f2559:
 
     # sy "Is there... anything else I can take care of for you?"
-    sy "Is there... anything else I can take care of for you?"
+    sy "还有什么...是我能为您做的吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:525
 translate chinese sm1ms099_recording_ca4865d7:
 
     # mc "I think there might be..."
-    mc "I think there might be..."
+    mc "我觉得可能有..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:528
 translate chinese sm1ms099_recording_166681c6:
 
     # sy "Tell me what you'd like me to {i}clean{/i}..."
-    sy "Tell me what you'd like me to {i}clean{/i}..."
+    sy "告诉我，您想要我{i}清洁{/i}什么..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:530
 translate chinese sm1ms099_recording_1a4b7465:
 
     # mc "Mmmmm, why don't you give my cock a little spit shine?"
-    mc "Mmmmm, why don't you give my cock a little spit shine?"
+    mc "嗯嗯，你为什么不给我的鸡巴来点水擦擦呢？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:534
 translate chinese sm1ms099_recording_30e4d2bb:
 
     # kv "And cut!{w} Beautiful!"
-    kv "And cut!{w} Beautiful!"
+    kv "卡！{w}漂亮！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:538
 translate chinese sm1ms099_recording_45e6026f:
 
     # kv "Now do that one more time, exactly like that."
-    kv "Now do that one more time, exactly like that."
+    kv "现在再做一次，要一模一样。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:540
 translate chinese sm1ms099_recording_53111809:
 
     # sy "Okay!"
-    sy "Okay!"
+    sy "好！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:543
 translate chinese sm1ms099_recording_1def9e27:
 
     # kv "This is going to be so hot...{w} and, action!"
-    kv "This is going to be so hot...{w} and, action!"
+    kv "一定会很要命...{w}好，开始！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:546
 translate chinese sm1ms099_recording_4f65e69a_1:
 
     # sy "I hope I'm doing a good job..."
-    sy "I hope I'm doing a good job..."
+    sy "希望我做得不错..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:548
 translate chinese sm1ms099_recording_52f10787:
 
     # mc "Oh, you're doing well."
-    mc "Oh, you're doing well."
+    mc "哦，你做得很好。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:549
 translate chinese sm1ms099_recording_6c05197c_1:
 
     # sy "Mmmmm, I'm glad you think so..."
-    sy "Mmmmm, I'm glad you think so..."
+    sy "嗯嗯，我很高兴你这么想..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:554
 translate chinese sm1ms099_recording_c5b478a6:
 
     # sy "Is there anything else I can do for you, sir...?"
-    sy "Is there anything else I can do for you, sir...?"
+    sy "先生，还有什么需要我帮忙的吗...？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:556
 translate chinese sm1ms099_recording_aa1741be_1:
 
     # mc "Hmmmmm..."
-    mc "Hmmmmm..."
+    mc "嗯..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:559
 translate chinese sm1ms099_recording_eeee0512:
 
     # sy "Is there... something else I can take care of for you?"
-    sy "Is there... something else I can take care of for you?"
+    sy "还有什么...是我能为您做的吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:561
 translate chinese sm1ms099_recording_ca4865d7_1:
 
     # mc "I think there might be..."
-    mc "I think there might be..."
+    mc "我觉得可能有..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:565
 translate chinese sm1ms099_recording_166681c6_1:
 
     # sy "Tell me what you'd like me to {i}clean{/i}..."
-    sy "Tell me what you'd like me to {i}clean{/i}..."
+    sy "告诉我，您想要我{i}清洁{/i}什么..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:567
 translate chinese sm1ms099_recording_1a4b7465_1:
 
     # mc "Mmmmm, why don't you give my cock a little spit shine?"
-    mc "Mmmmm, why don't you give my cock a little spit shine?"
+    mc "嗯嗯，你为什么不给我的鸡巴来点水擦擦呢？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:570
 translate chinese sm1ms099_recording_5c2c7bcf:
@@ -1010,7 +1010,7 @@ translate chinese sm1ms099_recording_2b35b6fe:
 translate chinese sm1ms099_recording_af6f6e2d:
 
     # kv "What's up?"
-    kv "What's up?"
+    kv "怎么了？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:576
 translate chinese sm1ms099_recording_218204f5:
