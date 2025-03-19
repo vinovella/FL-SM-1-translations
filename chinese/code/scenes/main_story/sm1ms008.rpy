@@ -632,299 +632,299 @@ translate chinese sm1ms008_special_e0e72b2d:
 translate chinese sm1ms008_special_817f7d48:
 
     # mc "It's not bad."
-    mc "It's not bad."
+    mc "还不错。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:369
 translate chinese sm1ms008_special_489e301c:
 
     # mc "I just like you with your green hair."
-    mc "I just like you with your green hair."
+    mc "只是我更喜欢你的绿头发。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:380
 translate chinese sm1ms008_after_choice_c3e521fc:
 
     # kv "Already Stacy, why don't you give me some poses."
-    kv "Already Stacy, why don't you give me some poses."
+    kv "好了史黛西，给我摆几个姿势吧。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:383
 translate chinese sm1ms008_after_choice_5ae8e99b:
 
     # sy "Poses?"
-    sy "Poses?"
+    sy "姿势？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:386
 translate chinese sm1ms008_after_choice_12e7bf0e:
 
     # kv "Yeah, just move around. We're doing like a stress test for the wig."
-    kv "Yeah, just move around. We're doing like a stress test for the wig."
+    kv "是啊，随便动动。我们要给假发做压力测试。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:389
 translate chinese sm1ms008_after_choice_a62dd883:
 
     # mc "I know how we could do a proper stress test."
-    mc "I know how we could do a proper stress test."
+    mc "我知道怎么做压力测试了。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:392
 translate chinese sm1ms008_after_choice_d46200e5:
 
     # sy "Keep it your pants, Mister. I'm a classy redheaded lady, today."
-    sy "Keep it your pants, Mister. I'm a classy redheaded lady, today."
+    sy "管好你的裤子，先生。今天，我是一位优雅的红发女士。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:414
 translate chinese sm1ms008_after_choice_dc9daeca:
 
     # kv "And done. Should be more than enough to see if there are any issues."
-    kv "And done. Should be more than enough to see if there are any issues."
+    kv "搞定。这肯定足以检查出是否存在什么问题了。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:417
 translate chinese sm1ms008_after_choice_8d7eee51:
 
     # mc "Looks good to me."
-    mc "Looks good to me."
+    mc "我觉得不错。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:420
 translate chinese sm1ms008_after_choice_d33b4230:
 
     # kv "Yup. Very promising so far."
-    kv "Yup. Very promising so far."
+    kv "是的，目前看来很有希望。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:426
 translate chinese sm1ms008_after_choice_cd8826d2:
 
     # kv "Okay, so we will work on the scene details once we set up a rehearsal time."
-    kv "Okay, so we will work on the scene details once we set up a rehearsal time."
+    kv "好的，一旦我们确定了排练时间，我们就会着手处理场景细节。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:427
 translate chinese sm1ms008_after_choice_ffa6d3bc:
 
     # kv "I think the only thing left before we can start rehearsing and filming is getting our hands on the right camera."
-    kv "I think the only thing left before we can start rehearsing and filming is getting our hands on the right camera."
+    kv "我想，在开始排练和拍摄之前，我们唯一要做的就是找到合适的摄影机。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:430
 translate chinese sm1ms008_after_choice_147423a9:
 
     # mc "Wait, don't you have any camera we would ever need, Kanya?"
-    mc "Wait, don't you have any camera we would ever need, Kanya?"
+    mc "等等，你没有我们需要的摄像机吗，肯娅？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:433
 translate chinese sm1ms008_after_choice_c97b9391:
 
     # kv "Oh I've got tons of cameras, just not the kind we need for a scene like this."
-    kv "Oh I've got tons of cameras, just not the kind we need for a scene like this."
+    kv "哦，我有很多相机，但都不是我们拍这种场景所需要的那种。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:434
 translate chinese sm1ms008_after_choice_165f7688:
 
     # kv "Most of my cameras are for photos. For something like this we're going to want to get a video camera."
-    kv "Most of my cameras are for photos. For something like this we're going to want to get a video camera."
+    kv "我的大部分相机都是用来拍照的。像这样的场景，我们需要一台摄影机。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:435
 translate chinese sm1ms008_after_choice_6fb426c6:
 
     # kv "The Soh-Ni Venus would probably be great."
-    kv "The Soh-Ni Venus would probably be great."
+    kv "索妮-维纳斯可能会很不错。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:438
 translate chinese sm1ms008_after_choice_e0645ef0:
 
     # kv "Dual native ISO, with their top-of-the-line sensor, comes out in a raw format that's pretty manageable."
-    kv "Dual native ISO, with their top-of-the-line sensor, comes out in a raw format that's pretty manageable."
+    kv "双原生感光度，搭配他们顶级的传感器，以原始格式输出，非常易于管理。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:439
 translate chinese sm1ms008_after_choice_01166e1c:
 
     # kv "Plus they use the E mounts, which are what all my lenses are, so we can use what I've already got."
-    kv "Plus they use the E mounts, which are what all my lenses are, so we can use what I've already got."
+    kv "另外，而且它们用的是E卡口，我所有的镜头都是这种卡口的，所以我们可以用我现有的这些镜头。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:440
 translate chinese sm1ms008_after_choice_aedee058:
 
     # kv "Does low light well... Real versatile camera that's not that expensive."
-    kv "Does low light well... Real versatile camera that's not that expensive."
+    kv "弱光下拍摄效果很好...真正的多功能相机，价格也不贵。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:444
 translate chinese sm1ms008_after_choice_5334a07f:
 
     # sy "What about using my phone? It has a good camera, right?"
-    sy "What about using my phone? It has a good camera, right?"
+    sy "用我的手机怎么样？它的摄像头就很好，对吧？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:447
 translate chinese sm1ms008_after_choice_5542aa89:
 
     # kv "Come on, Stacy. You don't want us to look like some amateurs, do you? Your client will be very impressed if we go the extra mile."
-    kv "Come on, Stacy. You don't want us to look like some amateurs, do you? Your client will be very impressed if we go the extra mile."
+    kv "别这样，史黛西。你不会想让我们看起来像一群外行吧？要是我们多下点功夫，你的客户肯定会对我们印象深刻的。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:449
 translate chinese sm1ms008_after_choice_764fdf31:
 
     # sy "I don't know..."
-    sy "I don't know..."
+    sy "我不知道..."
 
 # game/code/scenes/main_story/sm1ms008.rpy:452
 translate chinese sm1ms008_after_choice_2cf940ef:
 
     # kv "You two need to think of this as an investment in the studio's future."
-    kv "You two need to think of this as an investment in the studio's future."
+    kv "你们俩要把这当成对工作室未来的投资。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:455
 translate chinese sm1ms008_after_choice_c425bbc9:
 
     # sy "I'm thinking about the extra work you'll have to do to get this super camera."
-    sy "I'm thinking about the extra work you'll have to do to get this super camera."
+    sy "我在想，为了得到这台超级摄像机，你们得付出额外的努力。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:458
 translate chinese sm1ms008_after_choice_3724bdef:
 
     # kv "I wouldn't bring it up if it weren't worth it, Stacy. Trust me."
-    kv "I wouldn't bring it up if it weren't worth it, Stacy. Trust me."
+    kv "如果不值得，我就不会提出来，史黛西。相信我。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:466
 translate chinese sm1ms008_after_choice_9bce82c8:
 
     # mc "Alright, you convinced me. Let's get this super camera."
-    mc "Alright, you convinced me. Let's get this super camera."
+    mc "好吧，你说服我了。我们去买这个超级摄像机吧。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:469
 translate chinese sm1ms008_after_choice_3e15a348:
 
     # sy "If it's going to make a difference, then I'm in. Let's make this project the best it can be."
-    sy "If it's going to make a difference, then I'm in. Let's make this project the best it can be."
+    sy "如果它能带来改变，那我就加入。让我们把这个项目做到最好。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:472
 translate chinese sm1ms008_after_choice_363804f8:
 
     # kv "Great! I'll text you the exact model and specifications. There are many cameras like it, but this one is top tier."
-    kv "Great! I'll text you the exact model and specifications. There are many cameras like it, but this one is top tier."
+    kv "太好了！我把具体型号和规格发给你。类似的摄像机有很多，但这款是顶级的。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:475
 translate chinese sm1ms008_after_choice_d13a3a1c:
 
     # mc "If you insist."
-    mc "If you insist."
+    mc "如果你坚持的话。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:478
 translate chinese sm1ms008_after_choice_822500d4:
 
     # kv "I certainly do, [mcname]."
-    kv "I certainly do, [mcname]."
+    kv "我当然要坚持，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:479
 translate chinese sm1ms008_after_choice_25849749:
 
     # kv "If you can't do something right, don't do it at all."
-    kv "If you can't do something right, don't do it at all."
+    kv "如果你做不好一件事，那就别做。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:482
 translate chinese sm1ms008_after_choice_2bb3b2af:
 
     # sy "Haha. Good thing that's not, [mcname]'s motto."
-    sy "Haha. Good thing that's not, [mcname]'s motto."
+    sy "哈哈。幸好这不是[mcname]的座右铭。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:485
 translate chinese sm1ms008_after_choice_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "嘿。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:488
 translate chinese sm1ms008_after_choice_60e89e66:
 
     # mct "I'll have to get back at her later."
-    mct "I'll have to get back at her later."
+    mct "我等会儿再找她算账。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:491
 translate chinese sm1ms008_after_choice_a3ad22fa:
 
     # mc "Alright, looks like we've got an update to our plan."
-    mc "Alright, looks like we've got an update to our plan."
+    mc "好吧，看来我们的计划有了新进展。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:494
 translate chinese sm1ms008_after_choice_560a7414:
 
     # sy "I'll find the camera online, maybe we'll get lucky and get a deal."
-    sy "I'll find the camera online, maybe we'll get lucky and get a deal."
+    sy "我会在网上找找那款摄像机，说不定我们运气好，能碰到个划算的交易呢。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:495
 translate chinese sm1ms008_after_choice_a69f28cf:
 
     # sy "Once we have it, we'll give you a call to set up a time for filming."
-    sy "Once we have it, we'll give you a call to set up a time for filming."
+    sy 一旦我们找到了，就会给你打电话，安排拍摄时间。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:498
 translate chinese sm1ms008_after_choice_e40ff599:
 
     # kv "Got it, let me give you my number. In case you need to call me."
-    kv "Got it, let me give you my number. In case you need to call me."
+    kv "知道了，我把电话号码给你。以防你需要给我打电话。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:502
 translate chinese sm1ms008_after_choice_531bfbf1:
 
     # sy "Sure."
-    sy "Sure."
+    sy "当然。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:509
 translate chinese sm1ms008_after_choice_930a86ed:
 
     # kv "Good. All set."
-    kv "Good. All set."
+    kv "好。一切就绪。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:512
 translate chinese sm1ms008_after_choice_bd05421c:
 
     # mc "With any luck, we'll be ready to film in a week."
-    mc "With any luck, we'll be ready to film in a week."
+    mc "运气好的话，一周后就能开拍了。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:515
 translate chinese sm1ms008_after_choice_9b508420:
 
     # sy "Woohoo! It's almost here!"
-    sy "Woohoo! It's almost here!"
+    sy "哇！那就快到了！"
 
 # game/code/scenes/main_story/sm1ms008.rpy:518
 translate chinese sm1ms008_after_choice_c9a38424:
 
     # kv "I for one, am very excited for our first wrap party."
-    kv "I for one, am very excited for our first wrap party."
+    kv "就我个人而言，我对我们的第一场杀青派对可是非常期待呢。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:521
 translate chinese sm1ms008_after_choice_c25f6212:
 
     # mc "Alright, we'll get out of your hair for now. But hope to see you soon."
-    mc "Alright, we'll get out of your hair for now. But hope to see you soon."
+    mc "好了，我们先走了，希望很快能见到你。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:524
 translate chinese sm1ms008_after_choice_bee75bc2:
 
     # kv "You know I don't mind you messing around with my hair, [mcname]."
-    kv "You know I don't mind you messing around with my hair, [mcname]."
+    kv "你知道我不介意你弄乱我的头发，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:530
 translate chinese sm1ms008_after_choice_f25eba41:
 
     # kv "Nice to meet you, Stacy."
-    kv "Nice to meet you, Stacy."
+    kv "很高兴见到你，史黛西。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:533
 translate chinese sm1ms008_after_choice_fcbd7d08:
 
     # sy "Yeah, you too. We'll be in touch as soon as we get the camera."
-    sy "Yeah, you too. We'll be in touch as soon as we get the camera."
+    sy "我也一样。我们一拿到相机就联系你。"
 
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms008.rpy:10
     old "At the Photo Dojo"
-    new "At the Photo Dojo"
+    new "在摄影棚"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "You should stick with red hair."
-    new "You should stick with red hair."
+    new "你应该留一头红发"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I think it will do nicely for the scene."
-    new "I think it will do nicely for the scene."
+    new "我觉得这样很适合我们的戏"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I'm glad it's temporary"
-    new "I'm glad it's temporary"
+    new "我很高兴它只是暂时的"
 
