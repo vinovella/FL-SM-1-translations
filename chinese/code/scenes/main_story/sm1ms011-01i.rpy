@@ -2,79 +2,79 @@
 translate chinese sm1ms011_01i_3e8677b5:
 
     # sy "Hey there."
-    sy "Hey there."
+    sy "嘿，你好啊。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:10
 translate chinese sm1ms011_01i_d335741c:
 
     # sy "So I've been reading some stuff about a community theater group in town."
-    sy "So I've been reading some stuff about a community theater group in town."
+    sy "我最近一直在看一些关于镇上一个社区剧团的资料。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:14
 translate chinese sm1ms011_01i_5f8f1fea:
 
     # sy "I'd bet my right boob you could do some acting there for some easy cash. Plus if you're lucky, someone in there might be interested in working on a more adult stage."
-    sy "I'd bet my right boob you could do some acting there for some easy cash. Plus if you're lucky, someone in there might be interested in working on a more adult stage."
+    sy "我敢拿我的右胸打赌，你可以在那儿演演戏，轻松赚点小钱。而且要是你运气好的话，那里的人可能会对在更成人的舞台上工作感兴趣呢。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:15
 translate chinese sm1ms011_01i_bca09261:
 
     # sy "Hehehe."
-    sy "Hehehe."
+    sy "嘿嘿。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:17
 translate chinese sm1ms011_01i_317e2842:
 
     # mc "Haha. Well, I'm sure we can check it out."
-    mc "Haha. Well, I'm sure we can check it out."
+    mc "哈哈。好吧，我相信我们可以去看看。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:20
 translate chinese sm1ms011_01i_7e54b38f:
 
     # sy "We're in luck."
-    sy "We're in luck."
+    sy "我们运气不错。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:22
 translate chinese sm1ms011_01i_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "Oh yeah?"
+    mc "是吗？"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:26
 translate chinese sm1ms011_01i_97e65447:
 
     # sy "There is a IT company in Crowning that is looking for new coders."
-    sy "There is a IT company in Crowning that is looking for new coders."
+    sy "皇冠镇有一家IT公司正在招聘新的编码员。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:28
 translate chinese sm1ms011_01i_d57769c0:
 
     # mc "Uh, I'm not much of a coder."
-    mc "Uh, I'm not much of a coder."
+    mc "呃，我不太会编程。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:29
 translate chinese sm1ms011_01i_5ef11f01:
 
     # sy "Yeah but you can learn. You're a fast learner and you have a sexy tech-pro by your side."
-    sy "Yeah but you can learn. You're a fast learner and you have a sexy tech-pro by your side."
+    sy "是的，但你可以学呀。你学东西很快，而且还有一位性感的技术专家在你身边呢。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:30
 translate chinese sm1ms011_01i_16142a81:
 
     # mc "Hmm. Alright, if you think I'm up to it, that's something I can look into."
-    mc "Hmm. Alright, if you think I'm up to it, that's something I can look into."
+    mc "好吧，要是你觉得我能胜任，那我可以去研究研究。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:36
 translate chinese sm1ms011_01i_7b8a543a:
 
     # mc "Talk to me about that IT job."
-    mc "Talk to me about that IT job."
+    mc "跟我说说那份IT工作吧。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:40
 translate chinese sm1ms011_01i_fb73a4fc:
 
     # sy "There is a IT Company called Orbix in Crowning. They're looking for a new software engineer."
-    sy "There is a IT Company called Orbix in Crowning. They're looking for a new software engineer."
+    sy "皇冠镇有一家叫Orbix的IT公司。他们在找一个新的软件工程师。"
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:45
 translate chinese sm1ms011_01i_1ee27939:
