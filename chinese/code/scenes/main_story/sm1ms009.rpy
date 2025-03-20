@@ -2708,99 +2708,99 @@ translate chinese sm1ms009_part_2_a996d99a:
 translate chinese sm1ms009_part_2_2a6e791a:
 
     # sy "In the meantime, just keep doing your thing. I'll let you know when the video is done."
-    sy "In the meantime, just keep doing your thing. I'll let you know when the video is done."
+    sy "在此期间，继续做你的事。视频完成后我会告诉你的。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1392
 translate chinese sm1ms009_part_2_0b159e25:
 
     # mc "Outstanding. I can't wait."
-    mc "Outstanding. I can't wait."
+    mc "太棒了。我等不及了。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1394
 translate chinese sm1ms009_part_2_98eb1f77:
 
     # sy "We can do like a wrap party or something with Kanya, to celebrate making our first video."
-    sy "We can do like a wrap party or something with Kanya, to celebrate making our first video."
+    sy "我们可以和肯娅一起开个杀青派对，庆祝我们制作了第一部视频。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1398
 translate chinese sm1ms009_part_2_9f10dbdb:
 
     # mc "What about the video with Taisia?"
-    mc "What about the video with Taisia?"
+    mc "那和泰西娅的视频怎么说？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1400
 translate chinese sm1ms009_part_2_46f5f722:
 
     # sy "Our first {i}professional{/i} video."
-    sy "Our first {i}professional{/i} video."
+    sy "那是我们第一个{i}专业的{/i}视频。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1401
 translate chinese sm1ms009_part_2_d115e056:
 
     # mc "Oh yeah... that makes sense."
-    mc "Oh yeah... that makes sense."
+    mc "哦，没错...有道理。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1404
 translate chinese sm1ms009_part_2_630aee50:
 
     # mc "Wait, what's a wrap party?"
-    mc "Wait, what's a wrap party?"
+    mc "等等，什么是杀青派对？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1407
 translate chinese sm1ms009_part_2_4f6d7e37:
 
     # sy "Well, after you wrap a video, sometimes they throw a party. Like, 'yay, we made this thing'."
-    sy "Well, after you wrap a video, sometimes they throw a party. Like, 'yay, we made this thing'."
+    sy "嗯，当你完成一个视频的拍摄制作后，有时候大家会举办一个派对。就像是在说，‘耶，我们把这东西做出来啦’。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1409
 translate chinese sm1ms009_part_2_50ecea06:
 
     # mc "Do they do that after every video?"
-    mc "Do they do that after every video?"
+    mc "每次拍完视频都这样吗？"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1410
 translate chinese sm1ms009_part_2_70337c18:
 
     # sy "No, I think it's just usually longer projects... but I think it would be cool to do for our first one."
-    sy "No, I think it's just usually longer projects... but I think it would be cool to do for our first one."
+    sy "不，我觉得一般都是比较长的项目...但我觉得如果我们的第一部电影就这么做会很酷。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1411
 translate chinese sm1ms009_part_2_fd6f33e0_1:
 
     # mc "I think so too."
-    mc "I think so too."
+    mc "我也这么想。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1415
 translate chinese sm1ms009_part_2_98b09701:
 
     # sy "I think I might take a little nap. I didn't think shooting was going to wipe me out this much..."
-    sy "I think I might take a little nap. I didn't think shooting was going to wipe me out this much..."
+    sy "我想我可能会小睡一会儿。没想到拍摄会让我这么疲惫..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:1418
 translate chinese sm1ms009_part_2_b542f545:
 
     # mc "Yeah, I feel the same."
-    mc "Yeah, I feel the same."
+    mc "我也这么觉得。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1420
 translate chinese sm1ms009_part_2_e7b17839:
 
     # sy "Feel free to come and join me! Maybe even for a little {i}practice{/i} for the next video."
-    sy "Feel free to come and join me! Maybe even for a little {i}practice{/i} for the next video."
+    sy "欢迎来和我一起！也许还能为下一个视频做个小{i}练习{/i}。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1424
 translate chinese sm1ms009_part_2_82fb59a4:
 
     # mc "Maybe I will."
-    mc "Maybe I will."
+    mc "也许我会的。"
 
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms009.rpy:936
     old "Yeah, that sounds great!"
-    new "Yeah, that sounds great!"
+    new "好啊，听起来不错！"
 
     # game/code/scenes/main_story/sm1ms009.rpy:936
     old "Just, give me a second and I'll be ready"
-    new "Just, give me a second and I'll be ready"
+    new "等我一下，我很快准备好。"
 
