@@ -278,65 +278,65 @@ translate chinese sm1ms011_t_c93ee290:
 translate chinese sm1ms011_t_4aca7977:
 
     # mc "That's like asking me to choose a favorite dessert."
-    mc "That's like asking me to choose a favorite dessert."
+    mc "这问题就像让我选择最喜欢的甜点一样难。"
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:140
 translate chinese sm1ms011_t_83b259e2:
 
     # sy "Come on, I need more info to work with."
-    sy "Come on, I need more info to work with."
+    sy "拜托，我需要更多的信息。"
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:143
 translate chinese sm1ms011_t_63a07b57:
 
     # mc "Fine. Veronica for her cuteness, Kellie for her energy, Denise for her professionalism, and Taisia for her long legs. Happy now?"
-    mc "Fine. Veronica for her cuteness, Kellie for her energy, Denise for her professionalism, and Taisia for her long legs. Happy now?"
+    mc "好吧。喜欢维罗妮卡的可爱，凯莉的充满活力，丹尼丝的专业素养，泰西娅的大长腿。满意了吗？"
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:146
 translate chinese sm1ms011_t_698637f3:
 
     # sy "Ecstatic."
-    sy "Ecstatic."
+    sy "欣喜若狂。"
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:147
 translate chinese sm1ms011_t_2c6e4d38:
 
     # sy "So, when are you bringing Veronica and Denise over?"
-    sy "So, when are you bringing Veronica and Denise over?"
+    sy "那么，你什么时候带维罗妮卡和丹尼丝过来？"
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:150
 translate chinese sm1ms011_t_1044a760:
 
     # mc "I'll reach out soon."
-    mc "I'll reach out soon."
+    mc "我会尽快联系。"
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:153
 translate chinese sm1ms011_t_e357cbe6:
 
     # sy "Good. And Kellie?"
-    sy "Good. And Kellie?"
+    sy "好。凯莉呢？"
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:156
 translate chinese sm1ms011_t_36920e3c:
 
     # mc "I'll see if she's interested."
-    mc "I'll see if she's interested."
+    mc "我看看她有没有兴趣。"
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:159
 translate chinese sm1ms011_t_d4ef6108:
 
     # sy "You better."
-    sy "You better."
+    sy "最好如此。"
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:162
 translate chinese sm1ms011_t_fa295a50:
 
     # mc "You're really taking this manager role seriously, huh?"
-    mc "You're really taking this manager role seriously, huh?"
+    mc "你真的很重视这个经理人的角色吗？"
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:165
 translate chinese sm1ms011_t_7a002c3d:
 
     # sy "Someone has to keep you on track."
-    sy "Someone has to keep you on track."
+    sy "总得有人让你步入正轨。"
 
