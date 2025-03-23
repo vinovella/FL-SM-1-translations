@@ -650,611 +650,611 @@ translate chinese sm1ms013_93eb9dbc:
 translate chinese sm1ms013_20860ae6:
 
     # my "Then does it have something to do with Fetish Locator?"
-    my "Then does it have something to do with Fetish Locator?"
+    my "那是不是和性趣探测器有关？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:356
 translate chinese sm1ms013_50575423:
 
     # mc "What did you just say?"
-    mc "What did you just say?"
+    mc "你刚才说什么？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:359
 translate chinese sm1ms013_c8fabe60:
 
     # my "Fetish Locator. Is that why you dropped out of college?"
-    my "Fetish Locator. Is that why you dropped out of college?"
+    my "性趣探测器。这就是你从大学退学的原因吗？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:364
 translate chinese sm1ms013_d4c3ab73:
 
     # mc "I... uh... how do you know about Fetish Locator?"
-    mc "I... uh... how do you know about Fetish Locator?"
+    mc "我...呃...你怎么知道性趣探测器？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:367
 translate chinese sm1ms013_ac531659:
 
     # my "Because I know how to use the internet, [mcname]. After I saw your video, I spent some time checking in on you and I found the stories about your school, and..."
-    my "Because I know how to use the internet, [mcname]. After I saw your video, I spent some time checking in on you and I found the stories about your school, and..."
+    my "因为我会上网，[mcname]。看了你的视频后，我花了一些时间了解你的情况，发现了关于你学校的故事，然后..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:368
 translate chinese sm1ms013_adadc894:
 
     # my "I can put two and two together."
-    my "I can put two and two together."
+    my "我能把二者联系起来。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:371
 translate chinese sm1ms013_3dd25772:
 
     # mc "I... I'm not sure what to say."
-    mc "I... I'm not sure what to say."
+    mc "我...我不知道该说什么。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:374
 translate chinese sm1ms013_9d94b0f3:
 
     # my "I'm not upset about... the porn, or Fetish Locator. I understand, I was young once too."
-    my "I'm not upset about... the porn, or Fetish Locator. I understand, I was young once too."
+    my "我不是因为...色情片或性趣探测器而难过。我理解，我也年轻过。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:375
 translate chinese sm1ms013_061faddc:
 
     # mct "Wait, what did she just say?"
-    mct "Wait, what did she just say?"
+    mct "等等，她刚才说什么？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:376
 translate chinese sm1ms013_1ab3bb98:
 
     # my "But that doesn't mean you should abandon your studies!"
-    my "But that doesn't mean you should abandon your studies!"
+    my "但这并不意味着你应该放弃学业！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:380
 translate chinese sm1ms013_ab5490c7:
 
     # mc "Wait... you're not mad about Fetish Locator? Or about the porn?"
-    mc "Wait... you're not mad about Fetish Locator? Or about the porn?"
+    mc "等等...你不是在为性趣探测器生气？也不气色情片的事？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:384
 translate chinese sm1ms013_08325f9f:
 
     # my "No. I mean, is it awkward? Absolutely."
-    my "No. I mean, is it awkward? Absolutely."
+    my "不，我是说，你要是问我尴尬吗？那当然。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:389
 translate chinese sm1ms013_57ca7354:
 
     # my "I did not expect to hear and see my son's... proclivities on the internet, but things happen."
-    my "I did not expect to hear and see my son's... proclivities on the internet, but things happen."
+    my "我没想到会在网上听到或看到我儿子的...嗜好，但世事难料。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:391
 translate chinese sm1ms013_d800c5c0:
 
     # my "I didn't expect to learn so much about... your private life on the internet."
-    my "I didn't expect to learn so much about... your private life on the internet."
+    my "我没想到会在网上了解到这么多关于...你私人生活的事情。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:392
 translate chinese sm1ms013_d0775760:
 
     # my "I thought the worst thing I'd learn about you was in that box under your bed."
-    my "I thought the worst thing I'd learn about you was in that box under your bed."
+    my "我原以为我所了解到关于你的最糟糕的事情，就是在你床底下那个盒子里的东西了。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:395
 translate chinese sm1ms013_87c872c1:
 
     # mc "Wait... you knew about my special box!?"
-    mc "Wait... you knew about my special box!?"
+    mc "等等...你居然知道我那个特别的盒子!?"
 
 # game/code/scenes/main_story/sm1ms013.rpy:398
 translate chinese sm1ms013_6baeadf6:
 
     # my "Did you think your room magically cleaned itself, [mcname]?"
-    my "Did you think your room magically cleaned itself, [mcname]?"
+    my "你以为你的房间会自动打扫干净吗，[mcname]？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:401
 translate chinese sm1ms013_68c94d16:
 
     # sy "She's got a good point there, [mcname]."
-    sy "She's got a good point there, [mcname]."
+    sy "她说得很有道理，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:404
 translate chinese sm1ms013_b8e40c73:
 
     # my "I won't even get started about what I found in your room, missy."
-    my "I won't even get started about what I found in your room, missy."
+    my "我还没开始说我在你房间里发现了什么呢，小姐。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:407
 translate chinese sm1ms013_8f83ec54:
 
     # my "But, we're off track. I did not want to come here and talk about your... personal moments."
-    my "But, we're off track. I did not want to come here and talk about your... personal moments."
+    my "但是，我们偏离了正题。我不想来这里谈论你的...私人时刻。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:408
 translate chinese sm1ms013_5b2f1b51:
 
     # my "I came to try and get you to go back to school, [mcname]."
-    my "I came to try and get you to go back to school, [mcname]."
+    my "我是来劝你回学校的，[mcname]。 "
 
 # game/code/scenes/main_story/sm1ms013.rpy:411
 translate chinese sm1ms013_2485f494:
 
     # mc "I..."
-    mc "I..."
+    mc "我..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:415
 translate chinese sm1ms013_10b5497f:
 
     # my "I know that maybe I'm asking a lot. It sounds like everything that happened at school was... tough on you."
-    my "I know that maybe I'm asking a lot. It sounds like everything that happened at school was... tough on you."
+    my "我知道也许我问得太多了。听起来在学校发生的一切对你来说...很艰难。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:416
 translate chinese sm1ms013_535a1058:
 
     # my "But can you at least think about it? For me?"
-    my "But can you at least think about it? For me?"
+    my "但你能至少考虑一下吗？为了我？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:420
 translate chinese sm1ms013_b3f6a605:
 
     # mc "Yeah, I can do that, Mom."
-    mc "Yeah, I can do that, Mom."
+    mc "好的，我能做到，妈妈。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:422
 translate chinese sm1ms013_a7b5b0bd:
 
     # mc "Yeah, I can do that, Melony."
-    mc "Yeah, I can do that, Melony."
+    mc "好的，我能做到，梅洛妮。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:425
 translate chinese sm1ms013_dfc43943:
 
     # my "That's all I ask."
-    my "That's all I ask."
+    my "这就是我所有的要求。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:426
 translate chinese sm1ms013_28c9d12e:
 
     # my "And now that we have that uncomfortableness out of the way."
-    my "And now that we have that uncomfortableness out of the way."
+    my "现在我们把不愉快的事都解决了。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:430
 translate chinese sm1ms013_ac581dbc:
 
     # my "This is where you live! Why don't you give me the tour?"
-    my "This is where you live! Why don't you give me the tour?"
+    my "这就是你们住的地方！为什么不带我参观一下呢？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:434
 translate chinese sm1ms013_1349c106:
 
     # mc "Of course! Let's see..."
-    mc "Of course! Let's see..."
+    mc "当然可以！让我看看..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:437
 translate chinese sm1ms013_9ac75675:
 
     # mc "So, this is our kitchen and dining room."
-    mc "So, this is our kitchen and dining room."
+    mc "这是我们的厨房和餐厅。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:440
 translate chinese sm1ms013_63d681d8:
 
     # mc "Our living room."
-    mc "Our living room."
+    mc "这是我们的客厅。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:443
 translate chinese sm1ms013_50692970:
 
     # mc "Bathroom, and right next to it is the bedroom!"
-    mc "Bathroom, and right next to it is the bedroom!"
+    mc "这是浴室，旁边就是卧室！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:446
 translate chinese sm1ms013_8f1f02ed:
 
     # my "And what about the upstairs?"
-    my "And what about the upstairs?"
+    my "楼上呢？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:449
 translate chinese sm1ms013_e40eea59:
 
     # mc "Uhm... well, we don't have stairs that go up there, so we haven't really looked it over yet."
-    mc "Uhm... well, we don't have stairs that go up there, so we haven't really looked it over yet."
+    mc "呃...嗯，我们没有通往楼上的楼梯，所以还没仔细研究过上面。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:452
 translate chinese sm1ms013_62038c61:
 
     # my "I see..."
-    my "I see..."
+    my "这样啊..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:455
 translate chinese sm1ms013_349b75b3:
 
     # mc "Erm, what do you think?"
-    mc "Erm, what do you think?"
+    mc "你觉得怎么样？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:458
 translate chinese sm1ms013_1ebf24fc:
 
     # my "I think... it could definitely use some work. I don't think I'm crazy about the condition your apartment is in."
-    my "I think... it could definitely use some work. I don't think I'm crazy about the condition your apartment is in."
+    my "我觉得...肯定得好好修修。我不太喜欢你公寓的状况。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:459
 translate chinese sm1ms013_7b37de2f:
 
     # my "Hopefully your apartment is nicer, Stacy!"
-    my "Hopefully your apartment is nicer, Stacy!"
+    my "希望你的公寓更好，史黛西！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:464
 translate chinese sm1ms013_78d92bda:
 
     # sy "Oh, uhhhh, yeah! It totally is! It's just, uhm-"
-    sy "Oh, uhhhh, yeah! It totally is! It's just, uhm-"
+    sy "哦，嗯，是的！那是当然！只是，呃--"
 
 # game/code/scenes/main_story/sm1ms013.rpy:467
 translate chinese sm1ms013_bf23f467:
 
     # mc "Getting fumigated!"
-    mc "Getting fumigated!"
+    mc "正在消毒！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:470
 translate chinese sm1ms013_31e8ec09:
 
     # my "Wait, really?"
-    my "Wait, really?"
+    my "等等，真的吗？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:474
 translate chinese sm1ms013_0c3072a9:
 
     # sy "Yep, unfortunately, uhm, one of my downstairs neighbors had a weird bug problem..."
-    sy "Yep, unfortunately, uhm, one of my downstairs neighbors had a weird bug problem..."
+    sy "是啊，不幸的是，呃，我楼下的一个邻居有个奇怪的虫子问题..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:475
 translate chinese sm1ms013_f3f4c023:
 
     # sy "So, [mcname] is letting me stay here!"
-    sy "So, [mcname] is letting me stay here!"
+    sy "所以，[mcname]让我住在这里！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:478
 translate chinese sm1ms013_366d3d7f:
 
     # my "How kind of him!"
-    my "How kind of him!"
+    my "他真是太好了！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:481
 translate chinese sm1ms013_85ae8946:
 
     # mc "Yep - so kind!"
-    mc "Yep - so kind!"
+    mc "是啊--太好了！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:486
 translate chinese sm1ms013_b0993967:
 
     # my "Well, at least I know there isn't a secret stash of adult movies underneath this bed!"
-    my "Well, at least I know there isn't a secret stash of adult movies underneath this bed!"
+    my "好吧，至少我知道床底下没有藏成人电影！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:487
 translate chinese sm1ms013_d505e8a6:
 
     # my "But maybe I should check, just for old time's sake."
-    my "But maybe I should check, just for old time's sake."
+    my "但也许我应该检查一下，看在以前的份上。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:490
 translate chinese sm1ms013_77ec73ca:
 
     # sy "You don't need to do that! [mcname] has totally cleaned up his act."
-    sy "You don't need to do that! [mcname] has totally cleaned up his act."
+    sy "你没必要这么做！[mcname]已经完全洗心革面了。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:492
 translate chinese sm1ms013_134958bf:
 
     # my "Mmmhmmmm."
-    my "Mmmhmmmm."
+    my "嗯嗯嗯。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:496
 translate chinese sm1ms013_06cc6559:
 
     # my "At least your bathroom looks nice!"
-    my "At least your bathroom looks nice!"
+    my "至少你的浴室看起来不错！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:499
 translate chinese sm1ms013_3897f621:
 
     # mc "Yeah! That was a pleasant surprise."
-    mc "Yeah! That was a pleasant surprise."
+    mc "是啊！这真是个惊喜。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:502
 translate chinese sm1ms013_fbaf2113:
 
     # my "But so much of this place needs so much work... you especially need to get some stairs in here. And maybe a bed frame so you're not sleeping on the floor anymore."
-    my "But so much of this place needs so much work... you especially need to get some stairs in here. And maybe a bed frame so you're not sleeping on the floor anymore."
+    my "但是这个地方还有很多地方需要改造...你尤其需要在这里装上楼梯。也许还需要一个床架，这样你就不用再睡在地板上了。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:506
 translate chinese sm1ms013_243ac87d:
 
     # mc "Those are all good things to do, for sure..."
-    mc "Those are all good things to do, for sure..."
+    mc "这些肯定都是好事..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:510
 translate chinese sm1ms013_059d1ee0:
 
     # my "Then it's decided!"
-    my "Then it's decided!"
+    my "那就这么决定了！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:516
 translate chinese sm1ms013_a9e1084e:
 
     # sy "What's decided, Mom?"
-    sy "What's decided, Mom?"
+    sy "决定什么了，妈妈？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:518
 translate chinese sm1ms013_e8b1079a:
 
     # sy "What's decided?"
-    sy "What's decided?"
+    sy "决定什么了？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:521
 translate chinese sm1ms013_061c0edc:
 
     # my "I'll stay around town and help you fix the place up!"
-    my "I'll stay around town and help you fix the place up!"
+    my "我会留在城里帮你收拾房子！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:525
 translate chinese sm1ms013_505108df:
 
     # mc "You don't need to do that, Mom!"
-    mc "You don't need to do that, Mom!"
+    mc "你没必要这么做，妈妈！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:527
 translate chinese sm1ms013_4186fcc2:
 
     # mc "You don't need to do that, Melony!"
-    mc "You don't need to do that, Melony!"
+    mc "你没必要这么做，梅洛妮！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:530
 translate chinese sm1ms013_73bd8669:
 
     # my "Oh, pish posh. It's no bother, really."
-    my "Oh, pish posh. It's no bother, really."
+    my "哦，别这么说啦。一点都不麻烦，真的。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:531
 translate chinese sm1ms013_d4d25fb7:
 
     # my "I've been looking for a... new project lately, anywho. Something to keep me busy."
-    my "I've been looking for a... new project lately, anywho. Something to keep me busy."
+    my "我最近一直在找一个...新项目。能让我忙起来的事。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:534
 translate chinese sm1ms013_9a5216b3:
 
     # my "After you two left, life got quiet... I find myself needing something to do."
-    my "After you two left, life got quiet... I find myself needing something to do."
+    my "你们俩走后，生活变得好平静...我发现自己需要找点事做。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:535
 translate chinese sm1ms013_68882f63:
 
     # my "I'm staying just down the street as well! So I can come by every day and help out. Plus, it gives me a chance to spend some time with you two."
-    my "I'm staying just down the street as well! So I can come by every day and help out. Plus, it gives me a chance to spend some time with you two."
+    my "我也就住在街边！这样我就可以每天过来帮忙了。另外，这样我也有机会和你们俩在一起。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:539
 translate chinese sm1ms013_6c58d9c0:
 
     # my "Maybe convince someone here to go back to college!"
-    my "Maybe convince someone here to go back to college!"
+    my "也许能说服这里的某个人重返大学！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:542
 translate chinese sm1ms013_51d454b1:
 
     # mc "Uhm, yeah."
-    mc "Uhm, yeah."
+    mc "呃，好吧。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:546
 translate chinese sm1ms013_14637a3c:
 
     # my "But, I should go and check into my hotel. Plus, you two have lots to talk about I imagine."
-    my "But, I should go and check into my hotel. Plus, you two have lots to talk about I imagine."
+    my "不过，我该回酒店去了。另外，我想你们俩有很多话要聊。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:550
 translate chinese sm1ms013_d65a5696:
 
     # my "Give your mother a hug, and I'll see you tomorrow, okay?"
-    my "Give your mother a hug, and I'll see you tomorrow, okay?"
+    my "抱抱你妈妈，明天见，好吗？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:554
 translate chinese sm1ms013_916bb79c:
 
     # my "I love you, [mcname]."
-    my "I love you, [mcname]."
+    my "我爱你，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:557
 translate chinese sm1ms013_59f38e02:
 
     # mc "I love you too, Mom."
-    mc "I love you too, Mom."
+    mc "我也爱你，妈妈。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:561
 translate chinese sm1ms013_945cf669:
 
     # my "And I love you too, Stacy."
-    my "And I love you too, Stacy."
+    my "我也爱你，史黛西。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:564
 translate chinese sm1ms013_17b4bb33:
 
     # sy "Love ya, Mom."
-    sy "Love ya, Mom."
+    sy "爱你，妈妈。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:566
 translate chinese sm1ms013_3c603938:
 
     # my "Give me a hug, and I'll see you tomorrow, okay?"
-    my "Give me a hug, and I'll see you tomorrow, okay?"
+    my "拥抱一下，明天见，好吗？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:570
 translate chinese sm1ms013_afb98f82:
 
     # my "I'm so happy to see you again, [mcname]."
-    my "I'm so happy to see you again, [mcname]."
+    my "很高兴再见到你，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:573
 translate chinese sm1ms013_14576370:
 
     # mc "You too, Melony."
-    mc "You too, Melony."
+    mc "我也是，梅洛妮。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:577
 translate chinese sm1ms013_8e4e4c0b:
 
     # my "And you too, Stacy."
-    my "And you too, Stacy."
+    my "还有你，史黛西。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:580
 translate chinese sm1ms013_3641f6b0:
 
     # sy "Yeah, it's great seeing you, Melony."
-    sy "Yeah, it's great seeing you, Melony."
+    sy "是啊，很高兴见到你，梅洛妮。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:584
 translate chinese sm1ms013_db6d12eb:
 
     # my "All right, I'll see you both tomorrow morning! Bye!"
-    my "All right, I'll see you both tomorrow morning! Bye!"
+    my "好啦，明早见！走啦！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:587
 translate chinese sm1ms013_3f81b008:
 
     # mc "Bye!"
-    mc "Bye!"
+    mc "拜拜！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:590
 translate chinese sm1ms013_ad09b856:
 
     # mc "Shit."
-    mc "Shit."
+    mc "靠。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:593
 translate chinese sm1ms013_6465c3ac:
 
     # sy "You can say that again."
-    sy "You can say that again."
+    sy "你说得太对了。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:597
 translate chinese sm1ms013_b7564e21:
 
     # mc "...{w} Shit."
-    mc "...{w} Shit."
+    mc "...{w}靠。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:599
 translate chinese sm1ms013_11f1ba02:
 
     # mc "It is going to be way harder to run a porn studio with Mom around."
-    mc "It is going to be way harder to run a porn studio with Mom around."
+    mc "有妈妈在身边，色情工作室会更难经营。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:601
 translate chinese sm1ms013_300ef6a2:
 
     # mc "It is going to be way harder to run a porn studio with Melony around."
-    mc "It is going to be way harder to run a porn studio with Melony around."
+    mc "有梅洛妮在身边，色情工作室会更难经营。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:604
 translate chinese sm1ms013_266f45c4:
 
     # sy "It definitely is..."
-    sy "It definitely is..."
+    sy "确实如此..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:605
 translate chinese sm1ms013_649229ad:
 
     # sy "But, she's really only sticking around because the studio is such a mess, right?"
-    sy "But, she's really only sticking around because the studio is such a mess, right?"
+    sy "但是，她真的只是因为工作室一团糟才留下来的，对吗？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:608
 translate chinese sm1ms013_8852e77f:
 
     # mc "Uh huh."
-    mc "Uh huh."
+    mc "嗯哼。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:611
 translate chinese sm1ms013_9c3ccc8f:
 
     # sy "And we already needed to fix it up for the next video, right?"
-    sy "And we already needed to fix it up for the next video, right?"
+    sy "而我们这边又需要为下一个视频修整一下了，对吗？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:614
 translate chinese sm1ms013_6b023091:
 
     # mc "Yeah, we did."
-    mc "Yeah, we did."
+    mc "是的。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:617
 translate chinese sm1ms013_5fe069d9:
 
     # sy "So, we just have her help us out with the studio, and when we're all done she'll head back home and we can celebrate by butt fucking!"
-    sy "So, we just have her help us out with the studio, and when we're all done she'll head back home and we can celebrate by butt fucking!"
+    sy "所以，我们让她帮我们弄工作室，等我们都弄好了，她就会回家，我们就可以上床庆祝了！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:620
 translate chinese sm1ms013_ac15f41a:
 
     # mc "I like the sound of that."
-    mc "I like the sound of that."
+    mc "听起来不错。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:623
 translate chinese sm1ms013_8d9009d5:
 
     # sy "Yay! Me too!"
-    sy "Yay! Me too!"
+    sy "耶！我也觉得！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:624
 translate chinese sm1ms013_b8e3796b:
 
     # sy "I also like the sound of putting that wig on and going to pound town right now."
-    sy "I also like the sound of putting that wig on and going to pound town right now."
+    sy "我也挺想现在戴上那顶假发，然后咱们俩狂欢呢。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:627
 translate chinese sm1ms013_29588db0:
 
     # mc "I wish we could Stacy, but it sounds like I need to start figuring out how to renovate the studio."
-    mc "I wish we could Stacy, but it sounds like I need to start figuring out how to renovate the studio."
+    mc "我也希望我们可以，史黛西，但听上去我得开始想办法装修工作室了。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:630
 translate chinese sm1ms013_bde8478d:
 
     # sy "Fiiiiiiiiiiiine."
-    sy "Fiiiiiiiiiiiine."
+    sy "哎，好吧。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:634
 translate chinese sm1ms013_fde76b10:
 
     # mc "And maybe we should start locking the front door."
-    mc "And maybe we should start locking the front door."
+    mc "也许我们应该把前门锁上。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:636
 translate chinese sm1ms013_8d6e973c:
 
     # mc "You remember how Mom was, never remembering to knock."
-    mc "You remember how Mom was, never remembering to knock."
+    mc "你还记得妈妈吗，从不记得敲门。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:638
 translate chinese sm1ms013_e7b6ac58:
 
     # mc "You know how Melony is, she always forgets to knock."
-    mc "You know how Melony is, she always forgets to knock."
+    mc "你知道梅洛妮是怎样的人，她总是忘记敲门。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:642
 translate chinese sm1ms013_6a10df7c:
 
     # sy "I think that makes it more fun!"
-    sy "I think that makes it more fun!"
+    sy "我觉得这样更有趣！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:645
 translate chinese sm1ms013_cb99b6c0:
 
     # mc "You're insane."
-    mc "You're insane."
+    mc "你疯了。"
 
 # game/code/scenes/main_story/sm1ms013.rpy:648
 translate chinese sm1ms013_de4567dc:
 
     # sy "But you love it!"
-    sy "But you love it!"
+    sy "但你喜欢这样！"
 
 # game/code/scenes/main_story/sm1ms013.rpy:651
 translate chinese sm1ms013_3ef7b9e6:
 
     # mc "For better or worse."
-    mc "For better or worse."
+    mc "不管是好是坏。"
 
