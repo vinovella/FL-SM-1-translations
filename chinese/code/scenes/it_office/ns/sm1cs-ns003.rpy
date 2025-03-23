@@ -1076,14 +1076,6 @@ translate chinese strings:
     old "Tease her"
     new "Tease her"
 
-    # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:334
-    old "Say nothing"
-    new "Say nothing"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:386
-    old "Excited"
-    new "Excited"
-
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:386
     old "Bored"
     new "Bored"

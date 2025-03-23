@@ -1150,37 +1150,37 @@ translate chinese sm1cs_kv004_sex_repeatable_01d32247:
     # mc "Yeah, you will!"
     mc "Yeah, you will!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:668
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:669
 translate chinese sm1cs_kv004_no_sex_8ad58f44:
 
     # mc "Actually, I have to take off."
     mc "Actually, I have to take off."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:670
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:671
 translate chinese sm1cs_kv004_no_sex_ee24deab:
 
     # kv "No worries, [mcname]. Maybe some other time."
     kv "No worries, [mcname]. Maybe some other time."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:673
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:674
 translate chinese sm1cs_kv004_no_sex_6e031d5b:
 
     # mc "Yeah, maybe."
     mc "Yeah, maybe."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:675
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:676
 translate chinese sm1cs_kv004_no_sex_48cec831:
 
     # kv "You know where to find me."
     kv "You know where to find me."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:679
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:680
 translate chinese sm1cs_kv004_no_sex_f27b084f:
 
     # mc "I do! And I'm looking forward to working together!"
     mc "I do! And I'm looking forward to working together!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:681
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:682
 translate chinese sm1cs_kv004_no_sex_5aeedc49:
 
     # kv "Me too!"

@@ -1,3 +1,14 @@
+﻿# game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:6
+translate chinese sm1cs_dc006i_5391c6fe:
+
+    # mc "Good evening, Officer Callahan!"
+    mc "Good evening, Officer Callahan!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:8
+translate chinese sm1cs_dc006i_a5abcf94:
+
+    # dc "Good evening, cit-"
+    dc "Good evening, cit-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:12
 translate chinese sm1cs_dc006i_ae5fdc2c:

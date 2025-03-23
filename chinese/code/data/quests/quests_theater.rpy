@@ -21,12 +21,36 @@
     new "Go to the Theater for audition during the Day timeslot"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Progress the individual storylines for the Theater characters"
-    new "Progress the individual storylines for the Theater characters"
+    old "Progress the individual storylines for the Theater girls"
+    new "Progress the individual storylines for the Theater girls"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Denise"
     new "Talk to Denise"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Veronica and Kellie story line"
+    new "Progress Veronica and Kellie story line"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do Saturday show at least {}/3 times"
+    new "Do Saturday show at least {}/3 times"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have {}/10 total Relationship Points with Theater girls"
+    new "Have {}/10 total Relationship Points with Theater girls"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do Saturday show at least {}/3 times and have {}/10 total Relationship Points with Theater girls"
+    new "Do Saturday show at least {}/3 times and have {}/10 total Relationship Points with Theater girls"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Read message from Denise"
+    new "Read message from Denise"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Visit Theater at Noon"
+    new "Visit Theater at Noon"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kelly at her dressing room"
@@ -47,6 +71,18 @@
     # game/code/data/quests/quests_theater.rpy:3
     old "Get your Literature to 5"
     new "Get your Literature to 5"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Kellie"
+    new "Talk to Kellie"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Veronica's story"
+    new "Progress Veronica's story"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Text Kellie"
+    new "Text Kellie"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Denise in her office"
@@ -119,4 +155,16 @@
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the rehearsal on {}"
     new "Do the rehearsal on {}"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Kellie's story"
+    new "Progress Kellie's story"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Wait for Veronica to text you"
+    new "Wait for Veronica to text you"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Text Veronica"
+    new "Text Veronica"
 

@@ -562,55 +562,55 @@ translate chinese sm1fs_i001_fail_a3be9cda:
     # ag "Good."
     ag "Good."
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:419
+# game/code/scenes/it_office/sm1fs-i001.rpy:416
 translate chinese sm1fs_i001_fail_try_again_f472c24f:
 
     # ag "Hello! [mcname], right?"
     ag "Hello! [mcname], right?"
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:422
+# game/code/scenes/it_office/sm1fs-i001.rpy:419
 translate chinese sm1fs_i001_fail_try_again_01f08d5b:
 
     # mc "Yes! I'm surprised you remembered."
     mc "Yes! I'm surprised you remembered."
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:424
+# game/code/scenes/it_office/sm1fs-i001.rpy:421
 translate chinese sm1fs_i001_fail_try_again_bfa956ca:
 
     # ag "Of course I remembered, you're a, uhm, great potential candidate."
     ag "Of course I remembered, you're a, uhm, great potential candidate."
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:427
+# game/code/scenes/it_office/sm1fs-i001.rpy:424
 translate chinese sm1fs_i001_fail_try_again_5f887408:
 
     # ag "Shall we get to the test?"
     ag "Shall we get to the test?"
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:429
+# game/code/scenes/it_office/sm1fs-i001.rpy:426
 translate chinese sm1fs_i001_fail_try_again_df7ee913:
 
     # mc "Lead the way."
     mc "Lead the way."
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:434
+# game/code/scenes/it_office/sm1fs-i001.rpy:431
 translate chinese sm1fs_i001_fail_try_again_d273f447:
 
     # ag "Feeling better about the test?"
     ag "Feeling better about the test?"
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:436
+# game/code/scenes/it_office/sm1fs-i001.rpy:433
 translate chinese sm1fs_i001_fail_try_again_79b8492b:
 
     # mc "Yeah, much better in fact."
     mc "Yeah, much better in fact."
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:440
+# game/code/scenes/it_office/sm1fs-i001.rpy:437
 translate chinese sm1fs_i001_fail_try_again_f08672a7:
 
     # ag "Good. Let's get right to it."
     ag "Good. Let's get right to it."
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:446
+# game/code/scenes/it_office/sm1fs-i001.rpy:443
 translate chinese sm1fs_i001_fail_try_again_8db073a0:
 
     # ag "Start whenever you're ready."

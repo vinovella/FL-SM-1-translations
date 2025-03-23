@@ -544,37 +544,37 @@ translate chinese sm1ms007_after_choice_d2b46ebd:
     # sy "Mmwaaah."
     sy "Mmwaaah."
 
-# game/code/scenes/main_story/sm1ms007.rpy:305
+# game/code/scenes/main_story/sm1ms007.rpy:312
 translate chinese sm1ms007_after_choice_58c04641:
 
     # sy "So, you coming back home? Or heading out into the city?"
     sy "So, you coming back home? Or heading out into the city?"
 
-# game/code/scenes/main_story/sm1ms007.rpy:311
+# game/code/scenes/main_story/sm1ms007.rpy:318
 translate chinese sm1ms007_after_choice_91dbfe55:
 
     # mc "I'll come home with you."
     mc "I'll come home with you."
 
-# game/code/scenes/main_story/sm1ms007.rpy:312
+# game/code/scenes/main_story/sm1ms007.rpy:319
 translate chinese sm1ms007_after_choice_a9508985:
 
     # mc "I feel like chilling a bit after that meal."
     mc "I feel like chilling a bit after that meal."
 
-# game/code/scenes/main_story/sm1ms007.rpy:315
+# game/code/scenes/main_story/sm1ms007.rpy:322
 translate chinese sm1ms007_after_choice_e40b6926:
 
     # sy "Perfect."
     sy "Perfect."
 
-# game/code/scenes/main_story/sm1ms007.rpy:320
+# game/code/scenes/main_story/sm1ms007.rpy:327
 translate chinese sm1ms007_after_choice_681ee1d2:
 
     # mc "I'm going to check out the city. I need to earn some extra money."
     mc "I'm going to check out the city. I need to earn some extra money."
 
-# game/code/scenes/main_story/sm1ms007.rpy:323
+# game/code/scenes/main_story/sm1ms007.rpy:330
 translate chinese sm1ms007_after_choice_c6b797ac:
 
     # sy "Great. See you at home, handsome."
@@ -590,11 +590,11 @@ translate chinese strings:
     old "Disagree with Stacy"
     new "Disagree with Stacy"
 
-    # game/code/scenes/main_story/sm1ms007.rpy:306
+    # game/code/scenes/main_story/sm1ms007.rpy:313
     old "I'll come home with you"
     new "I'll come home with you"
 
-    # game/code/scenes/main_story/sm1ms007.rpy:306
+    # game/code/scenes/main_story/sm1ms007.rpy:313
     old "I'm going to check out the city"
     new "I'm going to check out the city"
 

@@ -1414,3 +1414,13 @@ translate chinese sm1cs_tl003_sex_end_1ed8f75c:
     # sy "See ya', Taisia!"
     sy "See ya', Taisia!"
 
+translate chinese strings:
+
+    # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:735
+    old "Taisia's compansation"
+    new "Taisia's compansation"
+
+    # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:735
+    old "You gave $100 to Taisia for the shoot"
+    new "You gave $100 to Taisia for the shoot"
+

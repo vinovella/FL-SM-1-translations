@@ -676,7 +676,7 @@ translate chinese sm1cs_arj001_29acff14:
     # mct "I guess... if I had the chance, I'd still have sex with AmRose."
     mct "I guess... if I had the chance, I'd still have sex with AmRose."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:349
+# game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:347
 translate chinese sm1cs_arj001_92b04d3a:
 
     # mct "I wonder if she feels the same way?"

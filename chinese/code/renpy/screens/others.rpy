@@ -16,35 +16,15 @@
     old "SKIP"
     new "SKIP"
 
-    # game/code/renpy/screens/others.rpy:89
-    old "GAME DIFFICULTY"
-    new "GAME DIFFICULTY"
-
-    # game/code/renpy/screens/others.rpy:91
-    old "Gameplay"
-    new "Gameplay"
-
-    # game/code/renpy/screens/others.rpy:95
-    old "Full exprience"
-    new "Full exprience"
-
-    # game/code/renpy/screens/others.rpy:101
-    old "Story Mode"
-    new "Story Mode"
-
-    # game/code/renpy/screens/others.rpy:105
-    old "No minigames"
-    new "No minigames"
-
-    # game/code/renpy/screens/others.rpy:215
+    # game/code/renpy/screens/others.rpy:198
     old "Please enter your name here!"
     new "Please enter your name here!"
 
-    # game/code/renpy/screens/others.rpy:223
+    # game/code/renpy/screens/others.rpy:206
     old "{u}DONE{/u}"
     new "{u}DONE{/u}"
 
-    # game/code/renpy/screens/others.rpy:270
+    # game/code/renpy/screens/others.rpy:253
     old "How do you want to name your save?"
     new "How do you want to name your save?"
 

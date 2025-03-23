@@ -77,6 +77,18 @@
     new "Visit Theather"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Are we done?"
+    new "Are we done?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Let's start working!"
+    new "Let's start working!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ready for next adventure!"
+    new "Ready for next adventure!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Help Stacy"
     new "Help Stacy"
 
@@ -91,6 +103,14 @@
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Check Stacy out"
     new "Check Stacy out"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Filming practice"
+    new "Filming practice"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Come with me to the bed"
+    new "Come with me to the bed"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about camera girl"
@@ -117,6 +137,10 @@
     new "Learn Photography"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about the Photoshoot"
+    new "Talk about the Photoshoot"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about hiring people"
     new "Talk about hiring people"
 
@@ -141,6 +165,14 @@
     new "Ask about getting coffee"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about Min"
+    new "Talk about Min"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Can you check my fit?"
+    new "Can you check my fit?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Invite Nari"
     new "Invite Nari"
 
@@ -161,6 +193,18 @@
     new "Ask her out"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about Claire"
+    new "Talk about Claire"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "How are you?"
+    new "How are you?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Do you know where is Anna?"
+    new "Do you know where is Anna?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Rehearsal for the show"
     new "Rehearsal for the show"
 
@@ -173,6 +217,10 @@
     new "Interview Taisia now"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "___ INSERT _____"
+    new "___ INSERT _____"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Stars Weekly for $"
     new "Purchase Stars Weekly for $"
 
@@ -181,8 +229,12 @@
     new "Purchase An Actor Prepares for $"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "___ INSERT _____"
-    new "___ INSERT _____"
+    old "Hey Kellie!"
+    new "Hey Kellie!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Hey!"
+    new "Hey!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about \"work\""

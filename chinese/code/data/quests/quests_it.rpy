@@ -121,12 +121,36 @@
     new "Be ready for a lunch next day"
 
     # game/code/data/quests/quests_it.rpy:3
+    old "Talk with Stacy about Claire"
+    new "Talk with Stacy about Claire"
+
+    # game/code/data/quests/quests_it.rpy:3
     old "Work 5 days at Orbix"
     new "Work 5 days at Orbix"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Talk with Anna during the day"
     new "Talk with Anna during the day"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Progress Orbix's story line"
+    new "Progress Orbix's story line"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work at Orbix {}/20 times"
+    new "Work at Orbix {}/20 times"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Talk with Anna"
+    new "Talk with Anna"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Ask Claire about Anna"
+    new "Ask Claire about Anna"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Find Anna in coffe shop"
+    new "Find Anna in coffe shop"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get 2 relationship points with April, then work at Orbix"

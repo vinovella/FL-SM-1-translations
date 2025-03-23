@@ -121,6 +121,14 @@
     new "Work on renovation and visit your other job with Stacy and Melony"
 
     # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy"
+    new "Talk with Stacy"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy at the studio at Morning"
+    new "Talk to Stacy at the studio at Morning"
+
+    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about the camera girl"
     new "Talk with Stacy about the camera girl"
 
@@ -193,12 +201,28 @@
     new "Talk to Amore in the Photodojo"
 
     # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Amore about the photos"
+    new "Talk to Amore about the photos"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Visit the Photodojo"
+    new "Visit the Photodojo"
+
+    # game/code/data/quests/quests_neutral.rpy:4
     old "Go to Wurst Delivery during the day"
     new "Go to Wurst Delivery during the day"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Get 6 Relationship points with Maya and talk to her in Wurst Delivery"
     new "Get 6 Relationship points with Maya and talk to her in Wurst Delivery"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get {}/9 Relationship points with Maya"
+    new "Get {}/9 Relationship points with Maya"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Visit Wurst Delivery in the evening"
+    new "Visit Wurst Delivery in the evening"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about going to Lyssa during the day timeslot"
@@ -265,6 +289,42 @@
     new "Wait for a day"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in evening"
-    new "Talk to Debbie in evening"
+    old "Talk to Debbie in the evening"
+    new "Talk to Debbie in the evening"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Debbie to message you"
+    new "Wait for Debbie to message you"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Answer Debbie"
+    new "Answer Debbie"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Find Debbie in the park at nightfall"
+    new "Find Debbie in the park at nightfall"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy about Min"
+    new "Talk with Stacy about Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Finish renovation to invite Min"
+    new "Finish renovation to invite Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Text Min"
+    new "Text Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Text Melony"
+    new "Text Melony"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy before going with Melony"
+    new "Talk with Stacy before going with Melony"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Meet Ridley"
+    new "Meet Ridley"
 

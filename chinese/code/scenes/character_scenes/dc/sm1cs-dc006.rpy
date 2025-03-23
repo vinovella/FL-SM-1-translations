@@ -580,355 +580,355 @@ translate chinese sm1cs_dc006_0a62110a:
     # mct "Well, at least I know where she's heading."
     mct "Well, at least I know where she's heading."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:298
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:299
 translate chinese sm1cs_dc006_at_park_a1327984:
 
     # mct "Where, oh where, could Officer Callahan be?"
     mct "Where, oh where, could Officer Callahan be?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:303
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:304
 translate chinese sm1cs_dc006_at_park_d60394de:
 
     # mc "Debbie!"
     mc "Debbie!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:307
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:308
 translate chinese sm1cs_dc006_at_park_f45827b3:
 
     # dc "[mcname]! I told you to stay at the coffee shop."
     dc "[mcname]! I told you to stay at the coffee shop."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:311
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:312
 translate chinese sm1cs_dc006_at_park_857d548c:
 
     # mc "I know, but you forgot something."
     mc "I know, but you forgot something."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:312
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:313
 translate chinese sm1cs_dc006_at_park_c886201d:
 
     # mc "I figured the coffee wasn't a big deal, but you might want your phone."
     mc "I figured the coffee wasn't a big deal, but you might want your phone."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:316
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:317
 translate chinese sm1cs_dc006_at_park_43182693:
 
     # dc "Oh my God..."
     dc "Oh my God..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:319
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:320
 translate chinese sm1cs_dc006_at_park_68d5ae84:
 
     # dc "Thanks, [mcname]. If I had gotten another call from the station and I didn't pick it up... I'm already in enough trouble."
     dc "Thanks, [mcname]. If I had gotten another call from the station and I didn't pick it up... I'm already in enough trouble."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:322
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:323
 translate chinese sm1cs_dc006_at_park_f3235f1a:
 
     # mc "Did you manage to get the creep?"
     mc "Did you manage to get the creep?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:325
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:326
 translate chinese sm1cs_dc006_at_park_a5fc27a2:
 
     # dc "No, by the time I got back here, he was gone."
     dc "No, by the time I got back here, he was gone."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:328
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:329
 translate chinese sm1cs_dc006_at_park_03aafd53:
 
     # mc "Don't worry, I know you'll catch him."
     mc "Don't worry, I know you'll catch him."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:331
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:332
 translate chinese sm1cs_dc006_at_park_deaf1f7d:
 
     # dc "Yeah... Sorry our coffee keeps getting interrupted."
     dc "Yeah... Sorry our coffee keeps getting interrupted."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:333
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:334
 translate chinese sm1cs_dc006_at_park_6dc06629:
 
     # mc "Hey, it's all a part of the gig, right? Nothing you can do about it."
     mc "Hey, it's all a part of the gig, right? Nothing you can do about it."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:334
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:335
 translate chinese sm1cs_dc006_at_park_6ce4cbe3:
 
     # dc "Yeah..."
     dc "Yeah..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:337
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:338
 translate chinese sm1cs_dc006_at_park_24969e74:
 
     # mc "Besides, it's kind of like our coffee date just moved outside!"
     mc "Besides, it's kind of like our coffee date just moved outside!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:339
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:340
 translate chinese sm1cs_dc006_at_park_5e69a015:
 
     # dc "D-date?"
     dc "D-date?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:340
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:341
 translate chinese sm1cs_dc006_at_park_022276bb:
 
     # mc "Yeah, or coffee hang out, or whatever."
     mc "Yeah, or coffee hang out, or whatever."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:341
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:342
 translate chinese sm1cs_dc006_at_park_fc20c130:
 
     # mct "Man, what did I do now? She's got the look again..."
     mct "Man, what did I do now? She's got the look again..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:344
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:345
 translate chinese sm1cs_dc006_at_park_e284eeee:
 
     # mc "Debbie, what's up?"
     mc "Debbie, what's up?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:346
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:347
 translate chinese sm1cs_dc006_at_park_14d101dd:
 
     # dc "I really need to tell you this... thing."
     dc "I really need to tell you this... thing."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:347
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:348
 translate chinese sm1cs_dc006_at_park_e1c41399:
 
     # mc "Okay, well I'm here now, and you can tell me."
     mc "Okay, well I'm here now, and you can tell me."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:350
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:351
 translate chinese sm1cs_dc006_at_park_c4fc5340:
 
     # dc "Okay, uhm..."
     dc "Okay, uhm..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:351
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:352
 translate chinese sm1cs_dc006_at_park_06c5fb5a:
 
     # dc "So, before I moved here..."
     dc "So, before I moved here..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:352
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:353
 translate chinese sm1cs_dc006_at_park_f27a172e:
 
     # dc "I... Well, I used to be different. I... uhm..."
     dc "I... Well, I used to be different. I... uhm..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:353
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:354
 translate chinese sm1cs_dc006_at_park_62c848c0:
 
     # dc "I didn't feel like I was... me, yet."
     dc "I didn't feel like I was... me, yet."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:362
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:363
 translate chinese sm1cs_dc006_at_park_5f1b3e13:
 
     # dc "So, I-"
     dc "So, I-"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:364
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:365
 translate chinese sm1cs_dc006_at_park_16b05ad9:
 
     # mc "Debbie?"
     mc "Debbie?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:366
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:367
 translate chinese sm1cs_dc006_at_park_650ec104:
 
     # dc "[mcname], I-"
     dc "[mcname], I-"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:369
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:370
 translate chinese sm1cs_dc006_at_park_62fa7a73:
 
     # mc "Is that the creep over there?"
     mc "Is that the creep over there?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:379
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:380
 translate chinese sm1cs_dc006_at_park_c680609a:
 
     # dc "Creep! Freeze!"
     dc "Creep! Freeze!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:385
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:386
 translate chinese sm1cs_dc006_at_park_902b991c:
 
     # "Creep" "Oink, oink, bacon!"
     "Creep" "Oink, oink, bacon!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:387
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:388
 translate chinese sm1cs_dc006_at_park_3de3da24:
 
     # mc "Wait, Debbie!"
     mc "Wait, Debbie!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:390
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:391
 translate chinese sm1cs_dc006_at_park_c3b81b15:
 
     # dc "I will get you, you sonuvabitch!"
     dc "I will get you, you sonuvabitch!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:392
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:393
 translate chinese sm1cs_dc006_at_park_9eedbba7:
 
     # "Creep" "You'll never take me alive!"
     "Creep" "You'll never take me alive!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:395
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:396
 translate chinese sm1cs_dc006_at_park_c585f227:
 
     # mct "Gah - this guy is fast!"
     mct "Gah - this guy is fast!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:404
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:405
 translate chinese sm1cs_dc006_at_park_99878731:
 
     # dc "Gotcha'!"
     dc "Gotcha'!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:406
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:407
 translate chinese sm1cs_dc006_at_park_c46906f4:
 
     # "Creep" "Not quite!"
     "Creep" "Not quite!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:413
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:414
 translate chinese sm1cs_dc006_at_park_64491fce:
 
     # "Creep" "Until next time! Hahahaha!"
     "Creep" "Until next time! Hahahaha!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:419
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:420
 translate chinese sm1cs_dc006_at_park_0314ba89:
 
     # dc "Gah! You bastard! I will get you!!"
     dc "Gah! You bastard! I will get you!!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:422
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:423
 translate chinese sm1cs_dc006_at_park_4566c62f:
 
     # mc "Shit... Did he... get... away?"
     mc "Shit... Did he... get... away?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:425
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:426
 translate chinese sm1cs_dc006_at_park_7c1a859d:
 
     # dc "Yeah, the bastard literally slipped through my fingers!"
     dc "Yeah, the bastard literally slipped through my fingers!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:427
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:428
 translate chinese sm1cs_dc006_at_park_307d02b1:
 
     # mc "But... at least... you've gotten... something?"
     mc "But... at least... you've gotten... something?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:433
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:435
 translate chinese sm1cs_dc006_at_park_35c00b3c:
 
     # dc "It's not enough. Dammit!"
     dc "It's not enough. Dammit!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:440
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:442
 translate chinese sm1cs_dc006_at_park_b8a803d5:
 
     # mc "You'll get him Debbie, I know it."
     mc "You'll get him Debbie, I know it."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:443
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:445
 translate chinese sm1cs_dc006_at_park_011f06e4:
 
     # dc "Thanks, [mcname]..."
     dc "Thanks, [mcname]..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:448
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:450
 translate chinese sm1cs_dc006_at_park_51886158:
 
     # mc "He wouldn't be a slippery bastard if he wasn't... slippery."
     mc "He wouldn't be a slippery bastard if he wasn't... slippery."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:450
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:452
 translate chinese sm1cs_dc006_at_park_6ce4cbe3_1:
 
     # dc "Yeah..."
     dc "Yeah..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:457
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:459
 translate chinese sm1cs_dc006_at_park_1501e18b:
 
     # dc "[mcname]... I..."
     dc "[mcname]... I..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:460
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:462
 translate chinese sm1cs_dc006_at_park_fce3af4d:
 
     # dc "I have a dick!"
     dc "I have a dick!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:463
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:465
 translate chinese sm1cs_dc006_at_park_47f0ea46:
 
     # mc "Wha..."
     mc "Wha..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:466
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:468
 translate chinese sm1cs_dc006_at_park_581f08ae:
 
     # dc "I've been trying to tell you all morning. I... transitioned back in my hometown because I never felt like {i}me{/i}. Now I do."
     dc "I've been trying to tell you all morning. I... transitioned back in my hometown because I never felt like {i}me{/i}. Now I do."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:470
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:472
 translate chinese sm1cs_dc006_at_park_19ea7790:
 
     # dc "But, I've talked to a lot of guys who... can't handle that."
     dc "But, I've talked to a lot of guys who... can't handle that."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:475
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:477
 translate chinese sm1cs_dc006_at_park_dc58e40c:
 
     # dc "This is, uhm... the station. I need to take this."
     dc "This is, uhm... the station. I need to take this."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:476
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:478
 translate chinese sm1cs_dc006_at_park_22778910:
 
     # dc "I... I'll understand if you don't want to talk to me anymore. You wouldn't be the first."
     dc "I... I'll understand if you don't want to talk to me anymore. You wouldn't be the first."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:479
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:481
 translate chinese sm1cs_dc006_at_park_e7f8c85e:
 
     # dc "I'll... it was nice getting to know you, [mcname]."
     dc "I'll... it was nice getting to know you, [mcname]."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:487
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:489
 translate chinese sm1cs_dc006_at_park_3de3da24_1:
 
     # mc "Wait, Debbie!"
     mc "Wait, Debbie!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:488
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:490
 translate chinese sm1cs_dc006_at_park_558be63e:
 
     # mc "I {i}will{/i} see you around. Hopefully I can catch you on a day where things are less crazy, and we can have a {i}real{/i} coffee date."
     mc "I {i}will{/i} see you around. Hopefully I can catch you on a day where things are less crazy, and we can have a {i}real{/i} coffee date."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:491
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:493
 translate chinese sm1cs_dc006_at_park_9e375c9e:
 
     # dc "I would like that. I would like that a lot."
     dc "I would like that. I would like that a lot."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:496
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:498
 translate chinese sm1cs_dc006_at_park_adecc7f3:
 
     # mct "Woah... that's a lot to take in..."
     mct "Woah... that's a lot to take in..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:501
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:503
 translate chinese sm1cs_dc006_at_park_c5d95126:
 
     # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w}I know, sir..."
@@ -936,19 +936,19 @@ translate chinese sm1cs_dc006_at_park_c5d95126:
 
 translate chinese strings:
 
-    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:434
+    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:436
     old "Reassure her"
     new "Reassure her"
 
-    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:434
+    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:436
     old "Crack a joke"
     new "Crack a joke"
 
-    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:481
+    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
     old "Stop Debbie"
     new "Stop Debbie"
 
-    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:481
+    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
     old "Let her take the call"
     new "Let her take the call"
 

@@ -1054,3 +1054,13 @@ translate chinese sm1ms014_after_montage_39113f01:
     # mct "But, there's more that needs doing."
     mct "But, there's more that needs doing."
 
+translate chinese strings:
+
+    # game/code/scenes/main_story/sm1ms014.rpy:546
+    old "Renovation equipment"
+    new "Renovation equipment"
+
+    # game/code/scenes/main_story/sm1ms014.rpy:546
+    old "You spent $300 on renovation equipment"
+    new "You spent $300 on renovation equipment"
+

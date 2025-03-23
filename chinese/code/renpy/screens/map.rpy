@@ -1,6 +1,6 @@
 ﻿translate chinese strings:
 
-    # game/code/renpy/screens/map.rpy:20
+    # game/code/renpy/screens/map.rpy:21
     old "Go back"
     new "Go back"
 

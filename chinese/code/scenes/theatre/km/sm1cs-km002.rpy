@@ -465,10 +465,6 @@ translate chinese strings:
     new "Yeah, maybe"
 
     # game/code/scenes/theatre/km/sm1cs-km002.rpy:183
-    old "Joke"
-    new "Joke"
-
-    # game/code/scenes/theatre/km/sm1cs-km002.rpy:183
     old "Neutral"
     new "Neutral"
 

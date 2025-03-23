@@ -16,11 +16,11 @@
     old "Track Quest"
     new "Track Quest"
 
-    # game/code/renpy/screens/quests.rpy:70
+    # game/code/renpy/screens/quests.rpy:71
     old "Go to faction page"
     new "Go to faction page"
 
-    # game/code/renpy/screens/quests.rpy:73
+    # game/code/renpy/screens/quests.rpy:74
     old "Go to character page"
     new "Go to character page"
 

@@ -28,3 +28,13 @@ translate chinese sm1ms007_01i_51a03eb2:
     # sy "Right back at you."
     sy "Right back at you."
 
+translate chinese strings:
+
+    # game/code/scenes/main_story/sm1ms007_01i.rpy:9
+    old "Wig for Stacy"
+    new "Wig for Stacy"
+
+    # game/code/scenes/main_story/sm1ms007_01i.rpy:9
+    old "You gave $50 to Stacy for buying a wig"
+    new "You gave $50 to Stacy for buying a wig"
+

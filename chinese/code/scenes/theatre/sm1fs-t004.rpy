@@ -1264,283 +1264,283 @@ translate chinese sm1fs_t004_km_trust_fall_2d8b120d:
     # km "Whatever."
     km "Whatever."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:818
+# game/code/scenes/theatre/sm1fs-t004.rpy:817
 translate chinese sm1fs_t004_km_trust_fall_9761ea74:
 
     # km "Just because you did it, doesn't mean I will."
     km "Just because you did it, doesn't mean I will."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:821
+# game/code/scenes/theatre/sm1fs-t004.rpy:820
 translate chinese sm1fs_t004_km_trust_fall_e0715dbc:
 
     # mc "But-"
     mc "But-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:824
+# game/code/scenes/theatre/sm1fs-t004.rpy:823
 translate chinese sm1fs_t004_km_trust_fall_29561603:
 
     # km "You won't change my mind, so scram."
     km "You won't change my mind, so scram."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:827
+# game/code/scenes/theatre/sm1fs-t004.rpy:826
 translate chinese sm1fs_t004_km_trust_fall_5875a1bf:
 
     # mc "Fine..."
     mc "Fine..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:837
+# game/code/scenes/theatre/sm1fs-t004.rpy:836
 translate chinese sm1fs_t004_vs_trust_fall_b931485f:
 
     # vs "Hey, [mcname]!"
     vs "Hey, [mcname]!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:840
+# game/code/scenes/theatre/sm1fs-t004.rpy:839
 translate chinese sm1fs_t004_vs_trust_fall_1b4baeb5:
 
     # mc "Hey, Veronica."
     mc "Hey, Veronica."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:843
+# game/code/scenes/theatre/sm1fs-t004.rpy:842
 translate chinese sm1fs_t004_vs_trust_fall_e36016a4:
 
     # vs "Are you ready to do a trust fall?"
     vs "Are you ready to do a trust fall?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:846
+# game/code/scenes/theatre/sm1fs-t004.rpy:845
 translate chinese sm1fs_t004_vs_trust_fall_3199f982:
 
     # mc "Uhm, sure?"
     mc "Uhm, sure?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:849
+# game/code/scenes/theatre/sm1fs-t004.rpy:848
 translate chinese sm1fs_t004_vs_trust_fall_a3447524:
 
     # vs "Ready?"
     vs "Ready?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:852
+# game/code/scenes/theatre/sm1fs-t004.rpy:851
 translate chinese sm1fs_t004_vs_trust_fall_f6cbc6e0:
 
     # mc "Yep?"
     mc "Yep?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:861
+# game/code/scenes/theatre/sm1fs-t004.rpy:860
 translate chinese sm1fs_t004_vs_trust_fall_cff7ef01:
 
     # vs "My hero."
     vs "My hero."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:864
+# game/code/scenes/theatre/sm1fs-t004.rpy:863
 translate chinese sm1fs_t004_vs_trust_fall_39ebee39:
 
     # mc "I just caught you, nothing special."
     mc "I just caught you, nothing special."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:867
+# game/code/scenes/theatre/sm1fs-t004.rpy:866
 translate chinese sm1fs_t004_vs_trust_fall_c953e64a:
 
     # vs "Still, I think the man who managed to stop Lydia is definitely a hero."
     vs "Still, I think the man who managed to stop Lydia is definitely a hero."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:869
+# game/code/scenes/theatre/sm1fs-t004.rpy:868
 translate chinese sm1fs_t004_vs_trust_fall_5c3254e6:
 
     # mc "Veronica-"
     mc "Veronica-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:872
+# game/code/scenes/theatre/sm1fs-t004.rpy:871
 translate chinese sm1fs_t004_vs_trust_fall_b99822dc:
 
     # vs "I know, I know..."
     vs "I know, I know..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:874
+# game/code/scenes/theatre/sm1fs-t004.rpy:873
 translate chinese sm1fs_t004_vs_trust_fall_7ccbc6de:
 
     # vs "But... I don't know... I just think it's so... cool."
     vs "But... I don't know... I just think it's so... cool."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:877
+# game/code/scenes/theatre/sm1fs-t004.rpy:876
 translate chinese sm1fs_t004_vs_trust_fall_fd561c54:
 
     # mc "Cool, Veronica-"
     mc "Cool, Veronica-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:880
+# game/code/scenes/theatre/sm1fs-t004.rpy:879
 translate chinese sm1fs_t004_vs_trust_fall_7c521537:
 
     # vs "Look, there was something special about Fetish Locator, and... I just want to know more. I'm sorry I'm weird about it."
     vs "Look, there was something special about Fetish Locator, and... I just want to know more. I'm sorry I'm weird about it."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:886
+# game/code/scenes/theatre/sm1fs-t004.rpy:885
 translate chinese sm1fs_t004_vs_trust_fall_51039495:
 
     # mc "Look, maybe I do need to talk about it more... normalize it, or whatever."
     mc "Look, maybe I do need to talk about it more... normalize it, or whatever."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:888
+# game/code/scenes/theatre/sm1fs-t004.rpy:887
 translate chinese sm1fs_t004_vs_trust_fall_2244e515:
 
     # mc "And it was kind of a big deal thing... I'm just being a little... I don't know. It's just a lot."
     mc "And it was kind of a big deal thing... I'm just being a little... I don't know. It's just a lot."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:891
+# game/code/scenes/theatre/sm1fs-t004.rpy:890
 translate chinese sm1fs_t004_vs_trust_fall_b2b57718:
 
     # vs "I promise to try and be more chill about it."
     vs "I promise to try and be more chill about it."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:894
+# game/code/scenes/theatre/sm1fs-t004.rpy:893
 translate chinese sm1fs_t004_vs_trust_fall_f335009f:
 
     # mc "Thanks, Veronica."
     mc "Thanks, Veronica."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:899
+# game/code/scenes/theatre/sm1fs-t004.rpy:898
 translate chinese sm1fs_t004_vs_trust_fall_8e877c97:
 
     # mc "Look, I'm just not ready to talk about it."
     mc "Look, I'm just not ready to talk about it."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:903
+# game/code/scenes/theatre/sm1fs-t004.rpy:902
 translate chinese sm1fs_t004_vs_trust_fall_0bef139e:
 
     # vs "Okay... I'm sorry, [mcname]."
     vs "Okay... I'm sorry, [mcname]."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:905
+# game/code/scenes/theatre/sm1fs-t004.rpy:904
 translate chinese sm1fs_t004_vs_trust_fall_2c8cfbd6:
 
     # mc "Just... don't worry about it."
     mc "Just... don't worry about it."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:909
+# game/code/scenes/theatre/sm1fs-t004.rpy:908
 translate chinese sm1fs_t004_vs_trust_fall_72c5c263:
 
     # mc "But, no matter what - I'm glad you trust me."
     mc "But, no matter what - I'm glad you trust me."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:912
+# game/code/scenes/theatre/sm1fs-t004.rpy:911
 translate chinese sm1fs_t004_vs_trust_fall_af4a66a2:
 
     # vs "Of course! Because... you're my-"
     vs "Of course! Because... you're my-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:915
+# game/code/scenes/theatre/sm1fs-t004.rpy:914
 translate chinese sm1fs_t004_vs_trust_fall_e346a918:
 
     # vs "Uhm, my stagehand."
     vs "Uhm, my stagehand."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:916
+# game/code/scenes/theatre/sm1fs-t004.rpy:915
 translate chinese sm1fs_t004_vs_trust_fall_f7ae10cd:
 
     # vs "I should probably get ready for my next trust fall."
     vs "I should probably get ready for my next trust fall."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:919
+# game/code/scenes/theatre/sm1fs-t004.rpy:918
 translate chinese sm1fs_t004_vs_trust_fall_74fc6761:
 
     # mc "Me too."
     mc "Me too."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:927
+# game/code/scenes/theatre/sm1fs-t004.rpy:926
 translate chinese sm1fs_t004_workshop_end_934991ee:
 
     # dvh "Now that we have all had time to do a trust fall together - Kellie, Veronica. Would you please step into the circle."
     dvh "Now that we have all had time to do a trust fall together - Kellie, Veronica. Would you please step into the circle."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:930
+# game/code/scenes/theatre/sm1fs-t004.rpy:929
 translate chinese sm1fs_t004_workshop_end_af8e22ff:
 
     # km "No."
     km "No."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:933
+# game/code/scenes/theatre/sm1fs-t004.rpy:932
 translate chinese sm1fs_t004_workshop_end_6ee06fd1:
 
     # dvh "Why not, Kellie?"
     dvh "Why not, Kellie?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:935
+# game/code/scenes/theatre/sm1fs-t004.rpy:934
 translate chinese sm1fs_t004_workshop_end_0ea278c6:
 
     # km "I won't do a trust fall with Veronica."
     km "I won't do a trust fall with Veronica."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:938
+# game/code/scenes/theatre/sm1fs-t004.rpy:937
 translate chinese sm1fs_t004_workshop_end_9385df83:
 
     # dvh "And why do you refuse such an easy exercise."
     dvh "And why do you refuse such an easy exercise."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:941
+# game/code/scenes/theatre/sm1fs-t004.rpy:940
 translate chinese sm1fs_t004_workshop_end_e553eaf8:
 
     # km "Because I don't trust her."
     km "Because I don't trust her."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:944
+# game/code/scenes/theatre/sm1fs-t004.rpy:943
 translate chinese sm1fs_t004_workshop_end_5f9e2380:
 
     # dvh "What has Veronica done to you, Kellie?"
     dvh "What has Veronica done to you, Kellie?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:947
+# game/code/scenes/theatre/sm1fs-t004.rpy:946
 translate chinese sm1fs_t004_workshop_end_5221f9c3:
 
     # vs "Whatever it is, I'm sorry!"
     vs "Whatever it is, I'm sorry!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:950
+# game/code/scenes/theatre/sm1fs-t004.rpy:949
 translate chinese sm1fs_t004_workshop_end_1ae88a5d:
 
     # km "Shut up, I don't care!"
     km "Shut up, I don't care!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:953
+# game/code/scenes/theatre/sm1fs-t004.rpy:952
 translate chinese sm1fs_t004_workshop_end_16c818f2:
 
     # vs "Sorry..."
     vs "Sorry..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:956
+# game/code/scenes/theatre/sm1fs-t004.rpy:955
 translate chinese sm1fs_t004_workshop_end_eb3ff2f3:
 
     # dvh "I do not have time for this squabble. You two must work it out if we are ever to move forward as a troupe."
     dvh "I do not have time for this squabble. You two must work it out if we are ever to move forward as a troupe."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:958
+# game/code/scenes/theatre/sm1fs-t004.rpy:957
 translate chinese sm1fs_t004_workshop_end_ba65df27:
 
     # dvh "But for now, I must leave. I am to speak with some sponsors about our newest show."
     dvh "But for now, I must leave. I am to speak with some sponsors about our newest show."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:961
+# game/code/scenes/theatre/sm1fs-t004.rpy:960
 translate chinese sm1fs_t004_workshop_end_53300a3c:
 
     # tl "Does that mean the workshop is over?"
     tl "Does that mean the workshop is over?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:964
+# game/code/scenes/theatre/sm1fs-t004.rpy:963
 translate chinese sm1fs_t004_workshop_end_08031fcf:
 
     # dvh "Yeah."
     dvh "Yeah."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:967
+# game/code/scenes/theatre/sm1fs-t004.rpy:966
 translate chinese sm1fs_t004_workshop_end_21e10080:
 
     # tl "Fucking finally."
     tl "Fucking finally."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:970
+# game/code/scenes/theatre/sm1fs-t004.rpy:969
 translate chinese sm1fs_t004_workshop_end_820b238f:
 
     # mct "Man. I wonder what their problem is..."
     mct "Man. I wonder what their problem is..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:971
+# game/code/scenes/theatre/sm1fs-t004.rpy:970
 translate chinese sm1fs_t004_workshop_end_f54a59a7:
 
     # mct "Maybe I should talk to Kellie about it... or Veronica."
@@ -1576,11 +1576,11 @@ translate chinese strings:
     old "That's everyone"
     new "That's everyone"
 
-    # game/code/scenes/theatre/sm1fs-t004.rpy:881
+    # game/code/scenes/theatre/sm1fs-t004.rpy:880
     old "Forgive and forget"
     new "Forgive and forget"
 
-    # game/code/scenes/theatre/sm1fs-t004.rpy:881
+    # game/code/scenes/theatre/sm1fs-t004.rpy:880
     old "Just move on"
     new "Just move on"
 

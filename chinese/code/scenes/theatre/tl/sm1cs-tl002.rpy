@@ -868,3 +868,13 @@ translate chinese sm1cs_tl002_worker_9232cdae:
     # sy "I know."
     sy "I know."
 
+translate chinese strings:
+
+    # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:329
+    old "Sexy outfit for Taisia"
+    new "Sexy outfit for Taisia"
+
+    # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:329
+    old "You spent $50 on a sexy outfit for Taisia"
+    new "You spent $50 on a sexy outfit for Taisia"
+

@@ -920,3 +920,11 @@ translate chinese strings:
     old "Corner pocket"
     new "Corner pocket"
 
+    # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
+    old "Pool bet with Taisia"
+    new "Pool bet with Taisia"
+
+    # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
+    old "You lost ${} to Taisia in a pool game."
+    new "You lost ${} to Taisia in a pool game."
+
