@@ -788,217 +788,217 @@ translate chinese sm1ms014_after_montage_828352fd:
 translate chinese sm1ms014_after_montage_94e4adc6:
 
     # my "In all the time I've known you, you've never thought anything out this far."
-    my "In all the time I've known you, you've never thought anything out this far."
+    my "我认识你这么久了，你从来没有想过这么远的事情。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:408
 translate chinese sm1ms014_after_montage_496f1d2b:
 
     # my "I'm proud of you, son."
-    my "I'm proud of you, son."
+    my "儿子，我为你感到骄傲。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:411
 translate chinese sm1ms014_after_montage_c74b5716:
 
     # mc "Thanks, Mom."
-    mc "Thanks, Mom."
+    mc "谢啦，老妈。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:413
 translate chinese sm1ms014_after_montage_b6ebebbf:
 
     # my "I'm proud of you, [mcname]."
-    my "I'm proud of you, [mcname]."
+    my " [mcname]，我为你感到骄傲。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:416
 translate chinese sm1ms014_after_montage_ae633b37:
 
     # mc "Thanks, Melony."
-    mc "Thanks, Melony."
+    mc "谢啦，梅洛妮。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:419
 translate chinese sm1ms014_after_montage_884b9bce:
 
     # my "I'm still not crazy about you not being in school, but..."
-    my "I'm still not crazy about you not being in school, but..."
+    my "我还是不喜欢你不去上学，但是..."
 
 # game/code/scenes/main_story/sm1ms014.rpy:423
 translate chinese sm1ms014_after_montage_edf93c3f:
 
     # my "At the very least, this doesn't sound like a half baked idea."
-    my "At the very least, this doesn't sound like a half baked idea."
+    my "至少，这听起来不像是一个不成熟的想法。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:424
 translate chinese sm1ms014_after_montage_5456032e:
 
     # my "Just, promise me you'll at least keep school in the back of your mind as an alternative."
-    my "Just, promise me you'll at least keep school in the back of your mind as an alternative."
+    my "只是，答应我，至少把上学作为备选方案吧。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:428
 translate chinese sm1ms014_after_montage_a7f1a632:
 
     # mc "I will, Mom."
-    mc "I will, Mom."
+    mc "我会的，妈妈。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:430
 translate chinese sm1ms014_after_montage_39b3a80e:
 
     # mc "I will, Melony."
-    mc "I will, Melony."
+    mc "我会的，梅洛妮。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:433
 translate chinese sm1ms014_after_montage_60141563:
 
     # my "All right, well I'm going to take off."
-    my "All right, well I'm going to take off."
+    my "好吧，我要走了。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:434
 translate chinese sm1ms014_after_montage_76088af8:
 
     # my "I'll be by tomorrow, and I can help you and Stacy out around the studio."
-    my "I'll be by tomorrow, and I can help you and Stacy out around the studio."
+    my "我明天会过来，可以帮你和史黛西处理工作室的事。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:438
 translate chinese sm1ms014_after_montage_47e8cad7:
 
     # mc "That sounds good!"
-    mc "That sounds good!"
+    mc "听起来不错！"
 
 # game/code/scenes/main_story/sm1ms014.rpy:445
 translate chinese sm1ms014_after_montage_4894ae24:
 
     # my "I'll see you tomorrow, Stacy! And keep your brother out of trouble."
-    my "I'll see you tomorrow, Stacy! And keep your brother out of trouble."
+    my "明天见，史黛西！别让你哥哥惹麻烦。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:448
 translate chinese sm1ms014_after_montage_1aeae6e5:
 
     # sy "I will, Mom!"
-    sy "I will, Mom!"
+    sy "我会的，妈妈！"
 
 # game/code/scenes/main_story/sm1ms014.rpy:451
 translate chinese sm1ms014_after_montage_4fcdb92b:
 
     # my "I love you, son."
-    my "I love you, son."
+    my "我爱你，儿子。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:454
 translate chinese sm1ms014_after_montage_ee080c14:
 
     # mc "Love you too, Mom."
-    mc "Love you too, Mom."
+    mc "我也爱你，妈妈。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:456
 translate chinese sm1ms014_after_montage_cd22cd49:
 
     # my "I'll see you tomorrow, Stacy! And keep [mcname] out of trouble."
-    my "I'll see you tomorrow, Stacy! And keep [mcname] out of trouble."
+    my "明天见，史黛西！别让[mcname]惹麻烦。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:459
 translate chinese sm1ms014_after_montage_f2ee99d0:
 
     # sy "I will, Melony!"
-    sy "I will, Melony!"
+    sy "我会的，梅洛妮！"
 
 # game/code/scenes/main_story/sm1ms014.rpy:462
 translate chinese sm1ms014_after_montage_8f071369:
 
     # my "Be good, [mcname]."
-    my "Be good, [mcname]."
+    my "[mcname]，要乖哦。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:465
 translate chinese sm1ms014_after_montage_dac16979:
 
     # mc "I will."
-    mc "I will."
+    mc 我会的。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:468
 translate chinese sm1ms014_after_montage_d899cc84:
 
     # my "Bye!"
-    my "Bye!"
+    my "拜拜！"
 
 # game/code/scenes/main_story/sm1ms014.rpy:472
 translate chinese sm1ms014_after_montage_861a0330:
 
     # mct "Phew... that was a lot."
-    mct "Phew... that was a lot."
+    mct "唷...可真不容易啊。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:475
 translate chinese sm1ms014_after_montage_6bcd4edb:
 
     # sy "That could have been... worse?"
-    sy "That could have been... worse?"
+    sy "情况本来可能会...更糟？"
 
 # game/code/scenes/main_story/sm1ms014.rpy:478
 translate chinese sm1ms014_after_montage_d3384d6e:
 
     # mc "Yeah. It definitely could have."
-    mc "Yeah. It definitely could have."
+    mc "是的，肯定有可能更糟的。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:481
 translate chinese sm1ms014_after_montage_75dd7bbe:
 
     # sy "At least she sounds like she's warming up to the idea."
-    sy "At least she sounds like she's warming up to the idea."
+    sy "至少她听起来好像对这个主意不那么抵触了。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:483
 translate chinese sm1ms014_after_montage_2a5177f5:
 
     # mc "That she is. Which is good."
-    mc "That she is. Which is good."
+    mc "是的，这是好事。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:486
 translate chinese sm1ms014_after_montage_c6af6b74:
 
     # mc "God, I am tired."
-    mc "God, I am tired."
+    mc "天哪，我好累。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:489
 translate chinese sm1ms014_after_montage_b3750052:
 
     # sy "Me too."
-    sy "Me too."
+    sy "我也是。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:494
 translate chinese sm1ms014_after_montage_13c47957:
 
     # mc "We've made some good progress though."
-    mc "We've made some good progress though."
+    mc "不过我们已经取得了一些不错的进展。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:496
 translate chinese sm1ms014_after_montage_bb7949c6:
 
     # sy "There's still so much to do though..."
-    sy "There's still so much to do though..."
+    sy "不过还有很多事情要做..."
 
 # game/code/scenes/main_story/sm1ms014.rpy:499
 translate chinese sm1ms014_after_montage_86d104ef:
 
     # sy "We should get those stairs installed though so we don't have to do some goofy climbing to get up there."
-    sy "We should get those stairs installed though so we don't have to do some goofy climbing to get up there."
+    sy "我们应该把楼梯装好，这样就不用傻乎乎地爬上去了。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:501
 translate chinese sm1ms014_after_montage_192528cb:
 
     # mc "I'll see if I can get some good stairs delivered. We can install those next time we can carve out some time for the renovation."
-    mc "I'll see if I can get some good stairs delivered. We can install those next time we can carve out some time for the renovation."
+    mc "我去看看能不能订到好的楼梯。下次有时间装修的时候，我们可以把楼梯装好。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:505
 translate chinese sm1ms014_after_montage_ea7e6e3e:
 
     # sy "Yay!"
-    sy "Yay!"
+    sy "耶！"
 
 # game/code/scenes/main_story/sm1ms014.rpy:506
 translate chinese sm1ms014_after_montage_769453af:
 
     # sy "This is so exciting!"
-    sy "This is so exciting!"
+    sy "太激动了！"
 
 # game/code/scenes/main_story/sm1ms014.rpy:509
 translate chinese sm1ms014_after_montage_82775245:
 
     # mc "I think so too!"
-    mc "I think so too!"
+    mc "我也这么认为！"
 
 # game/code/scenes/main_story/sm1ms014.rpy:510
 translate chinese sm1ms014_after_montage_5c2c7bcf:
@@ -1010,47 +1010,47 @@ translate chinese sm1ms014_after_montage_5c2c7bcf:
 translate chinese sm1ms014_after_montage_c0b251cc:
 
     # sy "Celebration sex?"
-    sy "Celebration sex?"
+    sy "做个爱庆祝一下？"
 
 # game/code/scenes/main_story/sm1ms014.rpy:516
 translate chinese sm1ms014_after_montage_5ec652db:
 
     # mc "I wish, Stacy, but I am exhausted."
-    mc "I wish, Stacy, but I am exhausted."
+    mc "我也想，史黛西，但我太累了。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:518
 translate chinese sm1ms014_after_montage_2404c756:
 
     # sy "Fiiiiiiine."
-    sy "Fiiiiiiine."
+    sy "哎~好吧。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:521
 translate chinese sm1ms014_after_montage_21c0361b:
 
     # sy "In that case, I'm going to shower. I worked up quite the sweat today!"
-    sy "In that case, I'm going to shower. I worked up quite the sweat today!"
+    sy "既然这样，我要去洗澡。我今天出了一身汗！"
 
 # game/code/scenes/main_story/sm1ms014.rpy:525
 translate chinese sm1ms014_after_montage_a49cf275:
 
     # mct "Man... we're really doing this."
-    mct "Man... we're really doing this."
+    mct "天哪...我们真的要干这件事了。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:526
 translate chinese sm1ms014_after_montage_f7cf06a6:
 
     # mct "By the time this is over we're going to have like a real studio."
-    mct "By the time this is over we're going to have like a real studio."
+    mct "等这一切结束，我们就会拥有一间真正的工作室了。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:528
 translate chinese sm1ms014_after_montage_345d95c2:
 
     # mct "We're doing this... we're really doing this."
-    mct "We're doing this... we're really doing this."
+    mct "我们真要这么做了...实实在在地在做了。"
 
 # game/code/scenes/main_story/sm1ms014.rpy:529
 translate chinese sm1ms014_after_montage_39113f01:
 
     # mct "But, there's more that needs doing."
-    mct "But, there's more that needs doing."
+    mct "但还有更多事情要做。"
 
