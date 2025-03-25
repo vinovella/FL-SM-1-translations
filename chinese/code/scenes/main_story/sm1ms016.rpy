@@ -866,7 +866,7 @@ translate chinese sm1ms016_d86f2819:
 translate chinese sm1ms016_dc0ede93:
 
     # sy "I wasn't kidding about painting."
-    sy "关于刷漆，我没开玩笑。"
+    sy "关于涂颜料，我没开玩笑。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:431
 translate chinese sm1ms016_e831b567:
