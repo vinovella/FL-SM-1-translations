@@ -2,127 +2,127 @@
 translate chinese sm1ms001_943ad8f6:
 
     # hr "Despite only existing for a few weeks, the Fetish Locator app devastated dozens of lives."
-    hr "Despite only existing for a few weeks, the Fetish Locator app devastated dozens of lives."
+    hr "尽管只存在了几个星期，性趣探测器这个应用却摧毁了几十个人的生活。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:28
 translate chinese sm1ms001_674a4482:
 
     # hr "The application pretended to be a simple dating app - connecting people with similar sexual fetishes and offering them challenges."
-    hr "The application pretended to be a simple dating app - connecting people with similar sexual fetishes and offering them challenges."
+    hr "这款应用表面上是一款简单的交友应用--将有类似性癖的人联系起来，定期向他们发布挑战。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:31
 translate chinese sm1ms001_09f6ff36:
 
     # hr "Behind the scenes it proved much more devious - manipulating and exploiting people for the sexual gratification of a single person."
-    hr "Behind the scenes it proved much more devious - manipulating and exploiting people for the sexual gratification of a single person."
+    hr "然而在幕后，它要狡猾得多。为了满足一个人的性欲，去操纵、利用那么多人。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:32
 translate chinese sm1ms001_04740383:
 
     # hr "It was the investigation of yours truly, with the help of a heroic male student at this college, that brought this dangerous abuse of technology to an end."
-    hr "It was the investigation of yours truly, with the help of a heroic male student at this college, that brought this dangerous abuse of technology to an end."
+    hr "在这所大学一名英勇的男学生的帮助下，通过调查终结了这种危险的技术滥用。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:35
 translate chinese sm1ms001_d3829494:
 
     # hr "While the mastermind behind it is safely behind bars, we can only speculate at the traumatic experiences of the victims and how they may be coping."
-    hr "While the mastermind behind it is safely behind bars, we can only speculate at the traumatic experiences of the victims and how they may be coping."
+    hr "虽然这起事件背后的主谋已被安全关押，但我们难以想象受害者曾遭受过怎样的创伤，也无从得知他们正怎样艰难地应对新的生活。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:45
 translate chinese sm1ms001_c7fbf081:
 
     # hr "This is Hana Rivera, Channel Six News, reporting-"
-    hr "This is Hana Rivera, Channel Six News, reporting-"
+    hr "这里是第六频道新闻，我是哈娜・里维拉，正在为您报道--"
 
 # game/code/scenes/main_story/sm1ms001.rpy:55
 translate chinese sm1ms001_c8ae2051:
 
     # sy "She called you a \"heroic student\" this time. Each time it becomes less surprising that she forgets the rest of us."
-    sy "She called you a \"heroic student\" this time. Each time it becomes less surprising that she forgets the rest of us."
+    sy "她这次称你为\英勇的学生\。每次她都会忘记我们其他人，我己经不奇怪了。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:57
 translate chinese sm1ms001_7d0a98b8:
 
     # mo "I {i}was{/i} the only one of us they called as a witness in court."
-    mo "I {i}was{/i} the only one of us they called as a witness in court."
+    mo "我{i}可是{/i}我们中唯一被传唤出庭作证的人。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:63
 translate chinese sm1ms001_fd0907e0:
 
     # sy "She could at least admit that AmRose and I helped."
-    sy "She could at least admit that AmRose and I helped."
+    sy "她至少可以承认我和爱洛丝帮过忙吧。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:65
 translate chinese sm1ms001_92ebc623:
 
     # mo "What can I say? I'm the protagonist."
-    mo "What can I say? I'm the protagonist."
+    mo "我能说什么呢？我是主角。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:72
 translate chinese sm1ms001_b56c811d:
 
     # sy "Alright, mister protagonist. You can answer the door this time."
-    sy "Alright, mister protagonist. You can answer the door this time."
+    sy "好吧，主角先生。这次你可以去开门了。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:79
 translate chinese sm1ms001_2600db44:
 
     # mo "Hi, how can I help-?"
-    mo "Hi, how can I help-?"
+    mo "你好，有什么事--？"
 
 # game/code/scenes/main_story/sm1ms001.rpy:83
 translate chinese sm1ms001_5a52c3f8:
 
     # "Delivery Person" "I have a parcel.{w} Sign here, please."
-    "Delivery Person" "I have a parcel.{w} Sign here, please."
+    "快递员" "有一个包裹。{w}请在这里签字。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:85
 translate chinese sm1ms001_33694022:
 
     # mo "Oh, sure."
-    mo "Oh, sure."
+    mo "哦，好的。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:109
 translate chinese name_done_08ad240c:
 
     # mc "Here you go."
-    mc "Here you go."
+    mc "给你。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:111
 translate chinese name_done_1607ef68:
 
     # "Delivery Person" "Thank you, uhh, Mr.{w} [mcname] Young."
-    "Delivery Person" "Thank you, uhh, Mr.{w} [mcname] Young."
+    "快递员" "谢谢您，{w}呃，杨先生。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:115
 translate chinese name_done_e744756d:
 
     # mc "It is pretty lightweight.{w} Did you order an empty package?"
-    mc "It is pretty lightweight.{w} Did you order an empty package?"
+    mc "很轻啊，{w}你订的是个空包裹吗？"
 
 # game/code/scenes/main_story/sm1ms001.rpy:117
 translate chinese name_done_186c5c87:
 
     # sy "Oh! Bring that here!! I've been waiting for that."
-    sy "Oh! Bring that here!! I've been waiting for that."
+    sy "哦！拿过来!! 我一直在等这个呢。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:120
 translate chinese name_done_608fc7a4:
 
     # sy "Thank you, [mcname]. You're my hero."
-    sy "Thank you, [mcname]. You're my hero."
+    sy "谢谢你，[mcname]。你真是我的英雄。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:122
 translate chinese name_done_a0217e6b:
 
     # mc "Are you still stuck on Hana's broadcast?{w} Stacy, she didn't even say my name."
-    mc "Are you still stuck on Hana's broadcast?{w} Stacy, she didn't even say my name."
+    mc "你还想着哈娜的广播呢？{w}史黛西，她连我的名字都没说。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:126
 translate chinese name_done_1584204b:
 
     # sy "Maybe she's just trying to keep you to herself."
-    sy "Maybe she's just trying to keep you to herself."
+    sy "也许她只是想把你留在自己身边。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:127
 translate chinese name_done_903c832f:
