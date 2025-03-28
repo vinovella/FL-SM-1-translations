@@ -2,313 +2,313 @@
 translate chinese sm1ms016_636ed9f0:
 
     # mct "Alright, time to continue working on the renovation."
-    mct "Alright, time to continue working on the renovation."
+    mct "好吧，是时候继续装修工作了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:15
 translate chinese sm1ms016_cbc3ccf2:
 
     # mc "Achooo!"
-    mc "Achooo!"
+    mc "阿嚏！"
 
 # game/code/scenes/main_story/sm1ms016.rpy:18
 translate chinese sm1ms016_81c80cc8:
 
     # my "God bless you."
-    my "God bless you."
+    my "愿上帝保佑你。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:25
 translate chinese sm1ms016_c74b5716:
 
     # mc "Thanks, Mom."
-    mc "Thanks, Mom."
+    mc "谢谢你，妈妈。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:27
 translate chinese sm1ms016_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "谢谢你。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:32
 translate chinese sm1ms016_3bad47db:
 
     # mct "Well the place is certainly turning out nice."
-    mct "Well the place is certainly turning out nice."
+    mct "嗯，这地方确实变得越来越漂亮了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:33
 translate chinese sm1ms016_11036a45:
 
     # mct "But we still have a long way to go."
-    mct "But we still have a long way to go."
+    mct "但我们还有很长的路要走。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:34
 translate chinese sm1ms016_23fdac3b:
 
     # mct "And the dust. I can't believe how much there can be sometimes."
-    mct "And the dust. I can't believe how much there can be sometimes."
+    mct "还有这灰尘。真不敢相信有时候会有这么多灰尘。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:35
 translate chinese sm1ms016_85b14af3:
 
     # mct "We vacuum each day, and it's still like my nose hairs are coated in the shit."
-    mct "We vacuum each day, and it's still like my nose hairs are coated in the shit."
+    mct "我们每天都吸尘，可我的鼻毛感觉还是沾满了那玩意儿。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:38
 translate chinese sm1ms016_ca178768:
 
     # sy "You going to survive over there?"
-    sy "You going to survive over there?"
+    sy "你在那边能撑得住吗？"
 
 # game/code/scenes/main_story/sm1ms016.rpy:41
 translate chinese sm1ms016_5e2b3f7d:
 
     # mc "I hope so."
-    mc "I hope so."
+    mc "希望能行。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:42
 translate chinese sm1ms016_b9f15a2a:
 
     # mc "Almost done."
-    mc "Almost done."
+    mc "快弄完了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:46
 translate chinese sm1ms016_ebe68c27:
 
     # sy "Mmm. Maybe halfway done."
-    sy "Mmm. Maybe halfway done."
+    sy "嗯。可能才完成一半吧。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:47
 translate chinese sm1ms016_f6f7c096:
 
     # sy "But each day we're making progress."
-    sy "But each day we're making progress."
+    sy "但我们每天都在进步。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:52
 translate chinese sm1ms016_b3b2e475:
 
     # mc "Yeah. I just wish we could snap our fingers and be done."
-    mc "Yeah. I just wish we could snap our fingers and be done."
+    mc "是啊。我只希望我们能打个响指，然后就完工了。
 
 # game/code/scenes/main_story/sm1ms016.rpy:53
 translate chinese sm1ms016_b7b26b6f:
 
     # mc "Hopefully then I'll stop waking up with dust in my nose."
-    mc "Hopefully then I'll stop waking up with dust in my nose."
+    mc "希望那样的话，我醒来鼻子里就不会再有灰尘了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:57
 translate chinese sm1ms016_006e260d:
 
     # my "I shouldn't say anything, but if you went back to your old dorm, you probably wouldn't be having this issue."
-    my "I shouldn't say anything, but if you went back to your old dorm, you probably wouldn't be having this issue."
+    my "我本不该说什么的，但是如果你回到大学以前的宿舍，可能就不会有这个问题了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:61
 translate chinese sm1ms016_3fd7a15b:
 
     # mc "I thought that we were getting past this, Mom?"
-    mc "I thought that we were getting past this, Mom?"
+    mc "妈，我以为我们已经不说这事了呢？"
 
 # game/code/scenes/main_story/sm1ms016.rpy:63
 translate chinese sm1ms016_d229418e:
 
     # mc "Melony, I thought that we were moving past this?"
-    mc "Melony, I thought that we were moving past this?"
+    mc "梅洛妮，我以为我们已经翻篇了呢？"
 
 # game/code/scenes/main_story/sm1ms016.rpy:66
 translate chinese sm1ms016_1365c969:
 
     # my "I know I know. You've have made up your mind."
-    my "I know I know. You've have made up your mind."
+    my "我知道，我知道。你已经下定决心了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:67
 translate chinese sm1ms016_62536d7e:
 
     # my "But it is just important to keep other options open."
-    my "But it is just important to keep other options open."
+    my "但多考虑一些其他选择总归是重要的。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:68
 translate chinese sm1ms016_d7b61f32:
 
     # my "You never want to wake up one day and only have one path forward."
-    my "You never want to wake up one day and only have one path forward."
+    my "你肯定不希望有一天醒来，发现自己只有一条路可走。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:71
 translate chinese sm1ms016_fd717128:
 
     # mc "Mmm. There is some wisdom to that."
-    mc "Mmm. There is some wisdom to that."
+    mc "嗯。这话还是有一定道理的。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:75
 translate chinese sm1ms016_62f14399:
 
     # sy "What are you talking about?"
-    sy "What are you talking about?"
+    sy "你们在说什么呢？"
 
 # game/code/scenes/main_story/sm1ms016.rpy:76
 translate chinese sm1ms016_9b502c48:
 
     # sy "We... I mean {i}you've{/i} already come this far."
-    sy "We... I mean {i}you've{/i} already come this far."
+    sy "我们...我是说，{i}你都已经{/i}走到这一步了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:79
 translate chinese sm1ms016_deb53eda:
 
     # mc "Yeah. I'm not stopping for anything."
-    mc "Yeah. I'm not stopping for anything."
+    mc "是啊。我不会因为任何事而停下脚步的。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:80
 translate chinese sm1ms016_08fc855d:
 
     # mc "But nothing is saying that this place wouldn't be a great apartment once we're done."
-    mc "But nothing is saying that this place wouldn't be a great apartment once we're done."
+    mc "但也没人说，一旦我们完工，这地方不会成为一间很棒的公寓。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:81
 translate chinese sm1ms016_8b04ee8a:
 
     # mc "No matter what we're using it for."
-    mc "No matter what we're using it for."
+    mc "不管我们以后拿它来做什么。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:84
 translate chinese sm1ms016_2bfa01e7:
 
     # sy "Well, and you just gotta keep moving forward on the renovation."
-    sy "Well, and you just gotta keep moving forward on the renovation."
+    sy "嗯，而且你得继续推进装修工作。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:85
 translate chinese sm1ms016_f974f172:
 
     # sy "Especially since we're getting the stairs in today."
-    sy "Especially since we're getting the stairs in today."
+    sy "特别是因为我们今天要装楼梯了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:86
 translate chinese sm1ms016_6179c6a1:
 
     # sy "Once those are in, this place will really start taking shape."
-    sy "Once those are in, this place will really start taking shape."
+    sy "楼梯一装好，这地方就真的开始像模像样了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:89
 translate chinese sm1ms016_3a7ffcd5:
 
     # my "That will be nice."
-    my "That will be nice."
+    my "那肯定会很不错。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:90
 translate chinese sm1ms016_b7d523a0:
 
     # my "Then you can finally stop sleeping on the floor and set up in one of the rooms upstairs."
-    my "Then you can finally stop sleeping on the floor and set up in one of the rooms upstairs."
+    my "那样你终于不用再睡在地板上了，可以在楼上的一个房间里安置下来。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:92
 translate chinese sm1ms016_137b0e7b:
 
     # mct "Haha. Yeah, she doesn't know that Stacy and I are planning to make a nice love nest upstairs."
-    mct "Haha. Yeah, she doesn't know that Stacy and I are planning to make a nice love nest upstairs."
+    mct "哈哈。是啊，她还不知道我和史黛西打算在楼上弄一个温馨的爱巢呢。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:96
 translate chinese sm1ms016_75d0d357:
 
     # mc "Totally."
-    mc "Totally."
+    mc "当然。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:100
 translate chinese sm1ms016_07efa768:
 
     # sy "*whispers* I can't wait till we're done so she can finally leave us alone."
-    sy "*whispers* I can't wait till we're done so she can finally leave us alone."
+    sy "*小声说* 我等不及完工了，这样她终于能不打扰我们了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:103
 translate chinese sm1ms016_8a8ae60a:
 
     # mc "*whispers* Hey be nice. She just wants the best for us."
-    mc "*whispers* Hey be nice. She just wants the best for us."
+    mc "*小声说* 嘿，嘴下留情。她只是想让我们好。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:104
 translate chinese sm1ms016_43dcb2c5:
 
     # mc "*whispers* And she's going to make that painting for us. I think it's a sign she's coming around."
-    mc "*whispers* And she's going to make that painting for us. I think it's a sign she's coming around."
+    mc "*小声说* 而且她还会为我们画一幅画呢。我觉得这是个迹象，说明她正在改变想法。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:107
 translate chinese sm1ms016_0f9406d5:
 
     # sy "*whispers* I hope you're right about that."
-    sy "*whispers* I hope you're right about that."
+    sy "*小声说* 希望你说得对。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:108
 translate chinese sm1ms016_df1c1b82:
 
     # sy "*whispers* But she's really cramping my style."
-    sy "*whispers* But she's really cramping my style."
+    sy "*小声说* 但她真的太妨碍我了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:109
 translate chinese sm1ms016_57b0bf8e:
 
     # sy "*whispers* With her over all the time, there is hardly time for you to smash my booty."
-    sy "*whispers* With her over all the time, there is hardly time for you to smash my booty."
+    sy "*小声说* 她老是在这儿，你几乎都没时间来疼爱我的身子了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:113
 translate chinese sm1ms016_7b9c1769:
 
     # mc "*whispers* Patience. We'll be sure to catch up once she's out of our hair."
-    mc "*whispers* Patience. We'll be sure to catch up once she's out of our hair."
+    mc "*小声说* 耐心点。等她不再烦我们了，我们肯定会补上的。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:116
 translate chinese sm1ms016_3cc35ce5:
 
     # sy "*whispers* I'll hold you to that."
-    sy "*whispers* I'll hold you to that."
+    sy "*小声说* 我可记着你这话呢。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:117
 translate chinese sm1ms016_cc10612e:
 
     # sy "*whispers* Alright, why don't you go make sure she's not up to no good."
-    sy "*whispers* Alright, why don't you go make sure she's not up to no good."
+    sy "*小声说* 好吧，你去看看她没在搞什么名堂吧。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:118
 translate chinese sm1ms016_ace9c663:
 
     # sy "*whispers* I'm pretty sure I saw her eyeing my bras earlier."
-    sy "*whispers* I'm pretty sure I saw her eyeing my bras earlier."
+    sy "*小声说* 我很确定我之前看到她盯着我的胸罩看。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:121
 translate chinese sm1ms016_897e419e:
 
     # sy "*whispers* I think she thinks they're too racy. I'm worried she's going to burn them or give them away."
-    sy "*whispers* I think she thinks they're too racy. I'm worried she's going to burn them or give them away."
+    sy "*小声说* 我觉得她觉得我的胸罩太暴露了。我担心她会把它们烧掉或者送人。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:124
 translate chinese sm1ms016_efadd7f0:
 
     # mc "*whispers* Alright."
-    mc "*whispers* Alright."
+    mc "*小声说* 好吧。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:130
 translate chinese sm1ms016_42c21344:
 
     # mc "This coming along nicely."
-    mc "This coming along nicely."
+    mc "进展得很顺利啊。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:133
 translate chinese sm1ms016_dae86793:
 
     # my "Thank you."
-    my "Thank you."
+    my "谢谢。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:134
 translate chinese sm1ms016_4d0c3e53:
 
     # my "Stacy had such specific instructions for what she wanted to see."
-    my "Stacy had such specific instructions for what she wanted to see."
+    my "史黛西对于她想要的样子提了很具体的要求。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:137
 translate chinese sm1ms016_0796b28e:
 
     # mc "Yeah, I think she'll love it. {w}I almost forgot how good you are at art."
-    mc "Yeah, I think she'll love it. {w}I almost forgot how good you are at art."
+    mc "是啊，我觉得她会喜欢的。我差点都忘了你在艺术方面有多厉害了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:140
 translate chinese sm1ms016_d7edff99:
 
     # my "Oh this is nothing. Some of the artists working in my gallery would be much better suited for this."
-    my "Oh this is nothing. Some of the artists working in my gallery would be much better suited for this."
+    my "哦，这算不了什么。在我画廊工作的一些艺术家做这个会更合适。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:143
 translate chinese sm1ms016_892e19a6:
