@@ -26,7 +26,7 @@ translate chinese sm1ms009_17f57afd:
 translate chinese sm1ms009_55e7e059:
 
     # sy "That's what the professionals call it, [mcname]! And we are {i}professionals!{/i}"
-    sy "这是专业人士的叫法，[mcname]！我们是{i}专业人士！{/i}。"
+    sy "这是专业人士的叫法，[mcname]！我们是{i}专业人士！{/i}"
 
 # game/code/scenes/main_story/sm1ms009.rpy:122
 translate chinese sm1ms009_8f3d580b:
@@ -956,7 +956,7 @@ translate chinese sm1ms099_recording_52f10787:
 translate chinese sm1ms099_recording_6c05197c_1:
 
     # sy "Mmmmm, I'm glad you think so..."
-    sy "Mmmmm, I'm glad you think so..."
+    sy "嗯，我很高兴你这么想..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:554
 translate chinese sm1ms099_recording_c5b478a6:
