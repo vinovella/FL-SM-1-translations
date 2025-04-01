@@ -2,79 +2,79 @@
 translate chinese sm1fs_i001_156d6c31:
 
     # ag "Hello! Are you looking to interview for Orbix?"
-    ag "Hello! Are you looking to interview for Orbix?"
+    ag "你好！你是参加Orbix面试的吗？"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:26
 translate chinese sm1fs_i001_aa796d2e:
 
     # mc "Actually, yes. That would be awesome."
-    mc "Actually, yes. That would be awesome."
+    mc "呃，是的。要是能面试的话那就太棒了。"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:28
 translate chinese sm1fs_i001_0364c095:
 
     # ag "Great!"
-    ag "Great!"
+    ag "太好了！"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:32
 translate chinese sm1fs_i001_8539a6b4:
 
     # ag "My name is Anna Goodwin, I'm in charge of the first round interviews."
-    ag "My name is Anna Goodwin, I'm in charge of the first round interviews."
+    ag "我叫安娜·古德温，负责第一轮面试。"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:34
 translate chinese sm1fs_i001_c496d7b5:
 
     # mc "It's nice to meet you Anna, my name is [mcname]."
-    mc "It's nice to meet you Anna, my name is [mcname]."
+    mc "很高兴见到你，安娜，我叫[mcname]。"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:35
 translate chinese sm1fs_i001_9f474277:
 
     # ag "Wonderful, follow me!"
-    ag "Wonderful, follow me!"
+    ag "太棒了，跟我来！"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:38
 translate chinese sm1fs_i001_cb3bba2b:
 
     # ag "I am the team lead for a growing part of the company."
-    ag "I am the team lead for a growing part of the company."
+    ag "我是团队负责人，我们部门正在发展壮大。"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:39
 translate chinese sm1fs_i001_0933a7a0:
 
     # ag "The last few quarters we've been growing by leaps and bounds, and when demand increases."
-    ag "The last few quarters we've been growing by leaps and bounds, and when demand increases."
+    ag "在过去的几个季度里，我们取得了飞速的发展，而且随着需求的增加。"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:43
 translate chinese sm1fs_i001_302a9aee:
 
     # ag "We have to grow our capacity."
-    ag "We have to grow our capacity."
+    ag "我们必须提升自身的产能。"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:45
 translate chinese sm1fs_i001_525776d2:
 
     # ag "We're looking to hire some new people to help out, real self-starters and go-getters."
-    ag "We're looking to hire some new people to help out, real self-starters and go-getters."
+    ag "我们正打算招聘一些新人来帮忙，要那种真正能够主动做事、积极进取的人。"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:50
 translate chinese sm1fs_i001_eaa649bb:
 
     # ag "Please have a sit."
-    ag "Please have a sit."
+    ag "请坐。"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:54
 translate chinese sm1fs_i001_f1001075:
 
     # ag "All right [mcname], why are you interested in working for Orbix?"
-    ag "All right [mcname], why are you interested in working for Orbix?"
+    ag "好吧，[mcname]，你为什么对在Orbix工作感兴趣？"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:56
 translate chinese sm1fs_i001_2dde8aff:
 
     # mc "I got interested in tech a few weeks ago when... I encountered the most bizarre and unique app I've ever come across."
-    mc "I got interested in tech a few weeks ago when... I encountered the most bizarre and unique app I've ever come across."
+    mc "几周前，我对计算机技术产生了兴趣，当时...我碰到了一款我有史以来见过的最离奇、最独特的应用程序。"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:59
 translate chinese sm1fs_i001_3b46a993:
