@@ -2,307 +2,307 @@
 translate chinese sm1fs_i004_7b0d9720:
 
     # cw "[mcname], meeting in the conference room in five."
-    cw "[mcname], meeting in the conference room in five."
+    cw "[mcname]，5分钟后在会议室开会。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:16
 translate chinese sm1fs_i004_2086b5a4:
 
     # mc "Everything okay?"
-    mc "Everything okay?"
+    mc "一切都还好吧？"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:19
 translate chinese sm1fs_i004_6c623705:
 
     # cw "Yeah, just got a client meeting. Nothing fancy."
-    cw "Yeah, just got a client meeting. Nothing fancy."
+    cw "嗯，就是有个客户会议。没什么特别的。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:23
 translate chinese sm1fs_i004_0dd6e790:
 
     # mc "Is there anything I should know?"
-    mc "Is there anything I should know?"
+    mc "有什么我该了解的吗？"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:26
 translate chinese sm1fs_i004_40770b70:
 
     # cw "Know?"
-    cw "Know?"
+    cw "你该了解的？"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:27
 translate chinese sm1fs_i004_672b5eec:
 
     # cw "This is your first client meeting, isn't it?"
-    cw "This is your first client meeting, isn't it?"
+    cw "这是你第一次参加客户会议，对吧？"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:32
 translate chinese sm1fs_i004_e506f16c:
 
     # mc "Yep, popping my client meeting cherry!"
-    mc "Yep, popping my client meeting cherry!"
+    mc "没错，我的客户会议‘处子秀’！"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:35
 translate chinese sm1fs_i004_21e14c8e:
 
     # cw "[mcname]... That kind of remark walks dangerously close to an HR complaint."
-    cw "[mcname]... That kind of remark walks dangerously close to an HR complaint."
+    cw "[mcname]...你这种话很容易引来HR部门的投诉。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:38
 translate chinese sm1fs_i004_b9314dfb:
 
     # mc "... Sorry Claire."
-    mc "... Sorry Claire."
+    mc "...对不起，克莱尔。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:41
 translate chinese sm1fs_i004_08061134:
 
     # cw "Just don't make any comments like that-"
-    cw "Just don't make any comments like that-"
+    cw "别再发表这样的评论了--"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:44
 translate chinese sm1fs_i004_d6da9b76:
 
     # cw "In fact, maybe for your first meeting you should just listen."
-    cw "In fact, maybe for your first meeting you should just listen."
+    cw "事实上，也许在你的第一次会议上，你就应该只听着。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:47
 translate chinese sm1fs_i004_26ef339d:
 
     # ag "You don't need to stress, [mcname]. These things are easy."
-    ag "You don't need to stress, [mcname]. These things are easy."
+    ag "不必紧张，[mcname]。这种事很简单的。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:50
 translate chinese sm1fs_i004_9d1d416b:
 
     # mc "Are they?"
-    mc "Are they?"
+    mc "是吗？"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:54
 translate chinese sm1fs_i004_ebc284a9:
 
     # ag "Yeah! All we're doing is showing face and making the client feel like she's heard."
-    ag "Yeah! All we're doing is showing face and making the client feel like she's heard."
+    ag "是啊！我们所要做的就是露个面，让客户觉得她的意见被听取了。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:57
 translate chinese sm1fs_i004_b554e335:
 
     # mc "Seems easy enough."
-    mc "Seems easy enough."
+    mc "听起来挺简单的。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:60
 translate chinese sm1fs_i004_4565fab2:
 
     # ag "It is. Just follow my lead and you'll do fine."
-    ag "It is. Just follow my lead and you'll do fine."
+    ag "的确如此。跟着我做，你会做得很好的。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:73
 translate chinese sm1fs_i004_ab0805dd:
 
     # ag "Where's Claire? Isn't she-"
-    ag "Where's Claire? Isn't she-"
+    ag "克莱尔在哪儿？她不是--"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:76
 translate chinese sm1fs_i004_03338559:
 
     # am "Don't get your panties in a twist. She just went to grab the client."
-    am "Don't get your panties in a twist. She just went to grab the client."
+    am "别这么着急上火的。她只是去接客户了。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:79
 translate chinese sm1fs_i004_7dd67392:
 
     # ag "I don't need the attitude, April."
-    ag "I don't need the attitude, April."
+    ag "我可不想听你这种态度，艾普尔。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:82
 translate chinese sm1fs_i004_78844870:
 
     # am "Sorry, {i}Aubergine Annie{/i}."
-    am "Sorry, {i}Aubergine Annie{/i}."
+    am "对不起，{i}茄子安妮{/i}。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:85
 translate chinese sm1fs_i004_bbcc2a25:
 
     # ag "April! I will get you written up again!"
-    ag "April! I will get you written up again!"
+    ag "艾普尔！我会让你再收到一次书面警告！"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:88
 translate chinese sm1fs_i004_80fd5ce7:
 
     # am "Oooo, I'm so scared. Big scary HR is going to sit me down and make me do another mandatory training."
-    am "Oooo, I'm so scared. Big scary HR is going to sit me down and make me do another mandatory training."
+    am "哦哟，我好害怕呀。吓死人的HR又要让我坐下来接受强制性培训了。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:91
 translate chinese sm1fs_i004_480645df:
 
     # ag "At least I have more going for me than some terrible band and HR meetings."
-    ag "At least I have more going for me than some terrible band and HR meetings."
+    ag "至少比起你那个破乐队还有要应付的HR会议，我有更多有意义的事要做。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:94
 translate chinese sm1fs_i004_e1124f44:
 
     # am "Oh, I've seen how much you've got going for you."
-    am "Oh, I've seen how much you've got going for you."
+    am "哦，我可看到你有多厉害了。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:97
 translate chinese sm1fs_i004_7f128b9b:
 
     # ag "Your hair screams Daddy issues."
-    ag "Your hair screams Daddy issues."
+    ag "你的发型就透露出你有恋父情结。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:100
 translate chinese sm1fs_i004_bf21465e:
 
     # am "And your code just screams issues."
-    am "And your code just screams issues."
+    am "而你的代码也透露出一堆问题。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:103
 translate chinese sm1fs_i004_5c986a92:
 
     # ag "It's better than your ramshackle, self taught, hack job code!"
-    ag "It's better than your ramshackle, self taught, hack job code!"
+    ag "总比你那东拼西凑、赶鸭子上架、胡乱编写的代码强！"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:106
 translate chinese sm1fs_i004_b249b4c1:
 
     # am "Remind me, how many errors were in your last job?"
-    am "Remind me, how many errors were in your last job?"
+    am "提醒我一下，你上一份工作有多少错误？"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:109
 translate chinese sm1fs_i004_a6a75cb9:
 
     # am "And how many were in mine?"
-    am "And how many were in mine?"
+    am "我的工作里又有多少错误呢？"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:112
 translate chinese sm1fs_i004_e8bf654c:
 
     # ns "Is this a typical office relationship, with normal banter?"
-    ns "Is this a typical office relationship, with normal banter?"
+    ns "这种斗嘴，算是常见的正常办公室关系吗？"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:115
 translate chinese sm1fs_i004_9af9eae3:
 
     # mc "Uh, nope."
-    mc "Uh, nope."
+    mc "呃，不是。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:118
 translate chinese sm1fs_i004_24c30707:
 
     # ns "Are you sure?"
-    ns "Are you sure?"
+    ns "你确定吗？"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:121
 translate chinese sm1fs_i004_3c2c4bec:
 
     # ag "Nari-"
-    ag "Nari-"
+    ag "娜丽--"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:124
 translate chinese sm1fs_i004_b146f86d:
 
     # ns "Yes, Aubergine Annie?"
-    ns "Yes, Aubergine Annie?"
+    ns "我在，茄子安妮？"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:127
 translate chinese sm1fs_i004_12c4a685:
 
     # ag "Don't call me that!"
-    ag "Don't call me that!"
+    ag "别这么叫我！"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:130
 translate chinese sm1fs_i004_49d545b5:
 
     # ns "I am sorry Ms. Goodwin! I thought it was an affectionate office nickname."
-    ns "I am sorry Ms. Goodwin! I thought it was an affectionate office nickname."
+    ns "对不起，古德温女士！我还以为这是个亲切的办公室昵称呢。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:133
 translate chinese sm1fs_i004_beb52aa5:
 
     # ag "It is not affectionate! It's because April is a-"
-    ag "It is not affectionate! It's because April is a-"
+    ag "一点都不亲切！这是因为艾普尔是个--"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:138
 translate chinese sm1fs_i004_d2d6f95b:
 
     # ag "Oh, Claire. April was-"
-    ag "Oh, Claire. April was-"
+    ag "哦，克莱尔。艾普尔她--"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:141
 translate chinese sm1fs_i004_7e6e748b:
 
     # cw "I don't want to hear it, Anna. We're here for an important meeting."
-    cw "I don't want to hear it, Anna. We're here for an important meeting."
+    cw "我不想听，安娜。我们是来开重要会议的。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:146
 translate chinese sm1fs_i004_fd0c2087:
 
     # cw "Team, I'd like you to meet our newest client, Angela Taylor Portillo."
-    cw "Team, I'd like you to meet our newest client, Angela Taylor Portillo."
+    cw "成员们，我想让你们认识一下我们最新的客户，安吉拉・泰勒・波蒂略。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:149
 translate chinese sm1fs_i004_73530a2d:
 
     # atp "Hello, it's a pleasure to meet you."
-    atp "Hello, it's a pleasure to meet you."
+    atp "你们好，很高兴见到各位。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:152
 translate chinese sm1fs_i004_aed07710:
 
     # atp "I'm looking forward to working with you all."
-    atp "I'm looking forward to working with you all."
+    atp "我很期待与大家合作。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:156
 translate chinese sm1fs_i004_629db91f:
 
     # cw "We are looking forward to working with you, and your network. We have a brief presentation about our plan for your new website."
-    cw "We are looking forward to working with you, and your network. We have a brief presentation about our plan for your new website."
+    cw "我们也期待着与您以及您的网络平台合作。下面，我们会简要介绍专为您打造新网站的计划。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:160
 translate chinese sm1fs_i004_e18669dc:
 
     # cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a new website."
-    cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a new website."
+    cw "我们已经让Orbix的团队做了一次市场分析。他们提出了一些新网站的解决方案。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:163
 translate chinese sm1fs_i004_b32c8de0:
 
     # cw "I won't bore you with the details; an expansion of your servers to host more video content, updating your mobile site, and a 'face lift' for your desktop presence."
-    cw "I won't bore you with the details; an expansion of your servers to host more video content, updating your mobile site, and a 'face lift' for your desktop presence."
+    cw "我就不多说具体细节来烦您了；包括扩充服务器以承载更多视频内容，更新移动网站，以及为桌面网站‘改头换面’。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:166
 translate chinese sm1fs_i004_347609b2:
 
     # atp "Good. How long will all of this take?"
-    atp "Good. How long will all of this take?"
+    atp "很好。这些工作需要多长时间？"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:169
 translate chinese sm1fs_i004_f3b30da6:
 
     # cw "We're looking at... Minimum, three months. Without any delays, but we'll most likely be looking at six months."
-    cw "We're looking at... Minimum, three months. Without any delays, but we'll most likely be looking at six months."
+    cw "我们预计...最少三个月。这还是如果没有任何延误的话，实际很可能要六个月。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:172
 translate chinese sm1fs_i004_e3c7ef6e:
 
     # atp "That's not acceptable."
-    atp "That's not acceptable."
+    atp "这可不行。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:175
 translate chinese sm1fs_i004_3aff3730:
 
     # am "I could do this all in my sleep. It will take me only three weeks if the existing code isn't a mess. Four if some idiots got a hold of it."
-    am "I could do this all in my sleep. It will take me only three weeks if the existing code isn't a mess. Four if some idiots got a hold of it."
+    am "这种事我闭着眼都能做。如果现有代码不是一堆狗屁的话，我只需要三周就能搞定。要是有些蠢货要碰那些代码，那就需要四周。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:178
 translate chinese sm1fs_i004_373dc58b:
 
     # cw "April-"
-    cw "April-"
+    cw "艾普尔--"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:181
 translate chinese sm1fs_i004_065ddd24:
 
     # atp "That is a much better timetable for me."
-    atp "That is a much better timetable for me."
+    atp "这个时间表对我来说就合适多了。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:182
 translate chinese sm1fs_i004_1f28d6f7:
@@ -314,31 +314,31 @@ translate chinese sm1fs_i004_1f28d6f7:
 translate chinese sm1fs_i004_dcdc01d7:
 
     # atp "I have worked tirelessly to keep the network on the cutting edge, the forefront of media technology."
-    atp "I have worked tirelessly to keep the network on the cutting edge, the forefront of media technology."
+    atp "我一直不懈地努力，想让我的网络平台处于前沿位置，站在媒体技术的最前端。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:189
 translate chinese sm1fs_i004_d77f641d:
 
     # atp "I'm very glad I went with Orbix. You all look full of determination. Hopefully enough to keep me on the leading edge."
-    atp "I'm very glad I went with Orbix. You all look full of determination. Hopefully enough to keep me on the leading edge."
+    atp "很高兴我选择了Orbix。你们看起来都很有决心。希望这份热情足以让我保持领先地位。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:192
 translate chinese sm1fs_i004_475a1da7:
 
     # atp "Naturally I want to stay out of your way, but I definitely want to stop by and get progress reports from time to time."
-    atp "Naturally I want to stay out of your way, but I definitely want to stop by and get progress reports from time to time."
+    atp "当然，我不想打扰你们的工作，但我肯定要时不时过来，了解一下进展如何。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:193
 translate chinese sm1fs_i004_5721f7bc:
 
     # atp "We should work closely together so there are no screwups."
-    atp "We should work closely together so there are no screwups."
+    atp "我们应该密切合作，这样才不会出错。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:196
 translate chinese sm1fs_i004_03af6d84:
 
     # cw "Of course. We're excited to be in bussiness with you, Angela. As soon as we have a progress update, I'll get in touch."
-    cw "Of course. We're excited to be in bussiness with you, Angela. As soon as we have a progress update, I'll get in touch."
+    cw "当然。我们很高兴能和您开展业务合作，安吉拉。一旦有最新进展，我会马上联系您。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:199
 translate chinese sm1fs_i004_d2033644:
