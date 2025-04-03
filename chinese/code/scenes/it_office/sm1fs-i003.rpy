@@ -2,49 +2,49 @@
 translate chinese sm1fs_i003_ec136a61:
 
     # sy "Shuuddddup."
-    sy "Shuuddddup."
+    sy "别吵了！"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:33
 translate chinese sm1fs_i003_527f7ed9:
 
     # mc "Hello, this is [mcname]."
-    mc "Hello, this is [mcname]."
+    mc "喂，我是[mcname]。"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:39
 translate chinese sm1fs_i003_8d30755e:
 
     # cw "Hello Mr. Young. I'm not waking you up, am I?"
-    cw "Hello Mr. Young. I'm not waking you up, am I?"
+    cw "你好，杨先生。我没打扰你睡觉吧？"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:44
 translate chinese sm1fs_i003_1bc00fca:
 
     # mc "Uhh, no. Just, uhm, doing a morning work out?"
-    mc "Uhh, no. Just, uhm, doing a morning work out?"
+    mc "呃，没有。我只是，嗯，在做晨练呢。"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:49
 translate chinese sm1fs_i003_3bb593c4:
 
     # cw "Sure. I'm calling to offer you the job if you're still interested."
-    cw "Sure. I'm calling to offer you the job if you're still interested."
+    cw "那好，如果你还有兴趣的话，我打电话是想向你提供这份工作。"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:54
 translate chinese sm1fs_i003_3eb2f721:
 
     # mc "Absolutely! Awesome, thank you! When do I start?"
-    mc "Absolutely! Awesome, thank you! When do I start?"
+    mc "当然了！太棒了，谢谢你！我什么时候开始工作？"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:61
 translate chinese sm1fs_i003_f8a06bc4:
 
     # cw "In 30 minutes. You and our other new hire are to be here to start your onboarding process. Don't be late."
-    cw "In 30 minutes. You and our other new hire are to be here to start your onboarding process. Don't be late."
+    cw "30 分钟后。你和我们的另一位新员工要在这里开始入职培训。不要迟到。"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:66
 translate chinese sm1fs_i003_af8ef791:
 
     # mc "Absolutely, I'll be there Ms. Watts!"
-    mc "Absolutely, I'll be there Ms. Watts!"
+    mc "当然，我会准时到的，沃茨女士！"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:68
 translate chinese sm1fs_i003_a20cefa7:
@@ -56,7 +56,7 @@ translate chinese sm1fs_i003_a20cefa7:
 translate chinese sm1fs_i003_25065765:
 
     # mc "Ms. Watts?"
-    mc "Ms. Watts?"
+    mc "沃茨女士？"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:73
 translate chinese sm1fs_i003_970da741:
