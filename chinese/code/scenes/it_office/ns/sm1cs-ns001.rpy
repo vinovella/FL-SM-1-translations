@@ -2,253 +2,253 @@
 translate chinese sm1cs_ns001_503308a4:
 
     # ns "I'm hungry."
-    ns "I'm hungry."
+    ns "我饿了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:21
 translate chinese sm1cs_ns001_3958177d:
 
     # mc "Uh yeah. You should fix that issue."
-    mc "Uh yeah. You should fix that issue."
+    mc "是啊。这还真是个问题。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:24
 translate chinese sm1cs_ns001_cfe99ec7:
 
     # ns "Yes. That is why I'm coming to you. I think I can ask Anna, but there is no clear definition in the employee handbook if I can bother a superior about something like this."
-    ns "Yes. That is why I'm coming to you. I think I can ask Anna, but there is no clear definition in the employee handbook if I can bother a superior about something like this."
+    ns "对。所以我才来找你。我觉得我可以问问安娜，但员工手册里也没明确说我能不能因为这种事去麻烦上级。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:28
 translate chinese sm1cs_ns001_89cc45a1:
 
     # mc "I'm sure she won't mind."
-    mc "I'm sure she won't mind."
+    mc "我相信她不会介意的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:31
 translate chinese sm1cs_ns001_6207b3f5:
 
     # mc "Hey Anna. Nari and I were looking for some food. Is there anything close around here?"
-    mc "Hey Anna. Nari and I were looking for some food. Is there anything close around here?"
+    mc "嘿，安娜。娜丽和我在找吃的。这附近有什么地方可以去吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:34
 translate chinese sm1cs_ns001_11a27173:
 
     # ag "Of course. The office has it's own cafeteria."
-    ag "Of course. The office has it's own cafeteria."
+    ag "当然有。办公室有自己的自助餐厅。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:37
 translate chinese sm1cs_ns001_db427dd9:
 
     # ag "Just take that hallway and watch for the signs. You can't miss it."
-    ag "Just take that hallway and watch for the signs. You can't miss it."
+    ag "就沿着那条走廊走，留意指示牌就行。你不会找不到的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:40
 translate chinese sm1cs_ns001_951c04b7:
 
     # mc "Thanks. Care to join us, Anna?"
-    mc "Thanks. Care to join us, Anna?"
+    mc "谢谢。要不要一起来，安娜？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:43
 translate chinese sm1cs_ns001_8bb5438e:
 
     # ag "Thank you, but maybe next time. Claire wants me to make sure the materials are prepared for our new client pitch. You two have a good time."
-    ag "Thank you, but maybe next time. Claire wants me to make sure the materials are prepared for our new client pitch. You two have a good time."
+    ag "谢谢，下次吧。克莱尔要我确保给新客户提案的材料都准备好了。你们俩玩得开心点。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:48
 translate chinese sm1cs_ns001_6df5f76a:
 
     # ns "Oh. Yes. Thank you very much, Anna."
-    ns "Oh. Yes. Thank you very much, Anna."
+    ns "哦，好的。非常感谢，安娜。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:62
 translate chinese sm1cs_ns001_cafeteria_08673d75:
 
     # ns "I'm glad you joined me. I was... apprehensive about leaving the office for lunch."
-    ns "I'm glad you joined me. I was... apprehensive about leaving the office for lunch."
+    ns "很高兴你能陪我来。我本来...对离开办公室去吃午饭这事儿有点担心。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:65
 translate chinese sm1cs_ns001_cafeteria_0e9013c7:
 
     # mc "Why is that?"
-    mc "Why is that?"
+    mc "这是为什么呢？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:69
 translate chinese sm1cs_ns001_cafeteria_20d8dc96:
 
     # ns "Anna has told me she doesn't want to see me at my desk during our breaks anymore."
-    ns "Anna has told me she doesn't want to see me at my desk during our breaks anymore."
+    ns "安娜告诉我，她不想再在休息时间看到我还在工位上了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:70
 translate chinese sm1cs_ns001_cafeteria_1756ec9d:
 
     # ns "I know I shouldn't continue working, but sometimes, I can't stop myself from figuring out one more problem."
-    ns "I know I shouldn't continue working, but sometimes, I can't stop myself from figuring out one more problem."
+    ns "我知道我不应该继续工作，但有时候，我就是忍不住想再解决一个问题。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:73
 translate chinese sm1cs_ns001_cafeteria_bdad440a:
 
     # ns "I love digging into the next problem. And when I finally unlock the solution, it's all I can do not to open up the next batch of code."
-    ns "I love digging into the next problem. And when I finally unlock the solution, it's all I can do not to open up the next batch of code."
+    ns "我喜欢钻研下一个问题。当我最终找到解决方案时，就会忍不住想接着去处理下一批代码。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:76
 translate chinese sm1cs_ns001_cafeteria_e1634f5a:
 
     # ns "But I don't want Anna to feel like I'm just some workaholic, or that I'm crazy, or that I don't respect her wishes."
-    ns "But I don't want Anna to feel like I'm just some workaholic, or that I'm crazy, or that I don't respect her wishes."
+    ns "但我不想让安娜觉得我是个工作狂，也不想让她觉得我很疯狂，又或者觉得我不尊重她的要求。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:79
 translate chinese sm1cs_ns001_cafeteria_b803a251:
 
     # mc "Ah so you're okay if I think that about you."
-    mc "Ah so you're okay if I think that about you."
+    mc "啊，所以如果我这么想你，你倒是无所谓咯。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:82
 translate chinese sm1cs_ns001_cafeteria_af9fb19d:
 
     # ns "Yes. No. I mean. I-"
-    ns "Yes. No. I mean. I-"
+    ns "是...不是。我是说...我--"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:85
 translate chinese sm1cs_ns001_cafeteria_bb36b8b3:
 
     # mc "Relax. I was just teasing you."
-    mc "Relax. I was just teasing you."
+    mc "放松点。我只是跟你开个玩笑。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:88
 translate chinese sm1cs_ns001_cafeteria_dff0c4b4:
 
     # ns "Oh."
-    ns "Oh."
+    ns "哦。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:89
 translate chinese sm1cs_ns001_cafeteria_46b0c6cc:
 
     # ns "Right."
-    ns "Right."
+    ns "对哦。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:92
 translate chinese sm1cs_ns001_cafeteria_9cb8a31d:
 
     # ns "Will this work?"
-    ns "Will this work?"
+    ns "这样行吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:95
 translate chinese sm1cs_ns001_cafeteria_85785fdb:
 
     # mc "Perfect."
-    mc "Perfect."
+    mc "很好。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:102
 translate chinese sm1cs_ns001_cafeteria_e8803bb3:
 
     # ns "No offense [mcname], but you're kind of weird. You're not like other coders I've met."
-    ns "No offense [mcname], but you're kind of weird. You're not like other coders I've met."
+    ns "无意冒犯，[mcname]，但你有点奇怪。你和我见过的其他程序员不太一样。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:105
 translate chinese sm1cs_ns001_cafeteria_b5dbfdf8:
 
     # mc "I get that. Probably because I wasn't super into it earlier."
-    mc "I get that. Probably because I wasn't super into it earlier."
+    mc "我明白。可能是因为我之前并不是特别热衷于编程。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:108
 translate chinese sm1cs_ns001_cafeteria_e2264395:
 
     # ns "What were you into before?"
-    ns "What were you into before?"
+    ns "那你之前喜欢什么？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:111
 translate chinese sm1cs_ns001_cafeteria_91732bd9:
 
     # mct "Don't say sex. Don't say sex."
-    mct "Don't say sex. Don't say sex."
+    mct "别说性。不要说性。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:114
 translate chinese sm1cs_ns001_cafeteria_6ae09feb:
 
     # mc "Just a lot of this and that. I was working on a business degree at college, and then my life got twisted upside down."
-    mc "Just a lot of this and that. I was working on a business degree at college, and then my life got twisted upside down."
+    mc "就是各种各样的事情吧。我在大学的时候修的是商科学位，然后我的生活就发生了天翻地覆的变化。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:117
 translate chinese sm1cs_ns001_cafeteria_79d2d9f8:
 
     # ns "That must have been painful. Were you in a car crash?"
-    ns "That must have been painful. Were you in a car crash?"
+    ns "那一定很痛苦。你出车祸了吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:120
 translate chinese sm1cs_ns001_cafeteria_6326de00:
 
     # mc "No, my life changed a lot in the last couple of months and what I thought I wanted to do just didn't hold my interest any more."
-    mc "No, my life changed a lot in the last couple of months and what I thought I wanted to do just didn't hold my interest any more."
+    mc "没有，在过去的几个月里，我的生活发生了很大的变化，我以前想做的事情再也提不起我的兴趣了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:121
 translate chinese sm1cs_ns001_cafeteria_6d20867f:
 
     # mc "I made some mistakes, but I survived and now I'm just doing my own thing and taking it one day at a time."
-    mc "I made some mistakes, but I survived and now I'm just doing my own thing and taking it one day at a time."
+    mc "我犯过一些错误，但我挺过来了，现在我就只是在做自己的事情，一天天地过。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:124
 translate chinese sm1cs_ns001_cafeteria_63ff33a6:
 
     # ns "That sounds very adventurous."
-    ns "That sounds very adventurous."
+    ns "听起来很有冒险精神。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:127
 translate chinese sm1cs_ns001_cafeteria_8244137b:
 
     # mc "Maybe. It's nothing like leaving your home and starting somewhere brand new."
-    mc "Maybe. It's nothing like leaving your home and starting somewhere brand new."
+    mc "也许吧。但这可比不上你离开自己的家乡，到一个全新的地方重新开始。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:131
 translate chinese sm1cs_ns001_cafeteria_1a006763:
 
     # mc "So can I ask why you left Korea?"
-    mc "So can I ask why you left Korea?"
+    mc "那我能问问你为什么离开韩国吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:134
 translate chinese sm1cs_ns001_cafeteria_97d3d6fd:
 
     # ns "Since I was a little girl, my choices were not really my own. Everything was prepared and planned out for me."
-    ns "Since I was a little girl, my choices were not really my own. Everything was prepared and planned out for me."
+    ns "从我还是个小女孩起，我的选择就不真正属于我自己。一切都有人为我准备好、规划好。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:137
 translate chinese sm1cs_ns001_cafeteria_5fb35389:
 
     # ns "I was happy. But it felt like a \"strange\" happy. Like a soldier who is \"happy\" to serve their country. Not the \"happy\" I saw in TV shows and movies."
-    ns "I was happy. But it felt like a \"strange\" happy. Like a soldier who is \"happy\" to serve their country. Not the \"happy\" I saw in TV shows and movies."
+    ns "我是开心的。但那种感觉有点像是\"奇怪\"的开心。不是我在电视剧和电影里看到的那种\"开心\"，而是像一个\"开心\"于为国家效力的士兵。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:139
 translate chinese sm1cs_ns001_cafeteria_1cfd9290:
 
     # ns "I wanted more, so I committed myself to exploring what else this world has to offer."
-    ns "I wanted more, so I committed myself to exploring what else this world has to offer."
+    ns "我想要更多，所以我下定决心去探索这个世界还能提供些什么别的东西。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:140
 translate chinese sm1cs_ns001_cafeteria_954f9005:
 
     # ns "I couldn't think of a better place to start than this melting pot. And now I'm really glad I did."
-    ns "I couldn't think of a better place to start than this melting pot. And now I'm really glad I did."
+    ns "我想不出比这个大熔炉更好的起点了。而且现在我真的很高兴自己这么做了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:143
 translate chinese sm1cs_ns001_cafeteria_19fbf109:
 
     # mc "Life is what you make it. It's really impressive that you pushed yourself to try out a new path."
-    mc "Life is what you make it. It's really impressive that you pushed yourself to try out a new path."
+    mc "生活是由自己创造的。令人印象深刻的是，你能逼着自己去尝试新的道路。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:146
 translate chinese sm1cs_ns001_cafeteria_db63051d:
 
     # ns "Yes. It's funny. We have more in common than I imagined."
-    ns "Yes. It's funny. We have more in common than I imagined."
+    ns "是的，很有意思。我们的共同点比我想象的要多。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:159
 translate chinese sm1cs_ns001_menu_e211405a:
 
     # mc "Heh. You are the true talent here, Nari. I didn't give up anything on the scale of what you did."
-    mc "Heh. You are the true talent here, Nari. I didn't give up anything on the scale of what you did."
+    mc "呵。你才是真正的天才，娜丽。我可没有像你那样放弃那么多东西。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:162
 translate chinese sm1cs_ns001_menu_8189ed31:
 
     # ns "You're too kind. But I prefer to think of it as just... expanding my horizons."
-    ns "You're too kind. But I prefer to think of it as just... expanding my horizons."
+    ns "你太客气了。但我更愿意把这看作...拓宽我的视野。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:163
 translate chinese sm1cs_ns001_menu_8d547490:
