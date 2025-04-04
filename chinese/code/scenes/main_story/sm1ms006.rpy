@@ -308,7 +308,7 @@ translate chinese sm1ms006_bf234fe3:
 translate chinese sm1ms006_b567c77c:
 
     # mc "Damn it, Stacy."
-    mc 你真是，史黛西。"
+    mc "你真是，史黛西。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:231
 translate chinese sm1ms006_c803e1f1:
@@ -668,7 +668,7 @@ translate chinese sm1ms006_cfcc2293:
 translate chinese sm1ms006_a3c77400:
 
     # sy "And... maybe next time you should pull out some nipple clamps. Those always sound fun."
-    sy 还有...也许下次你应该拿出乳头夹。这玩意儿听起来总是很有趣。"
+    sy "还有...也许下次你应该拿出乳头夹。这玩意儿听起来总是很有趣。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:447
 translate chinese sm1ms006_49efd205:

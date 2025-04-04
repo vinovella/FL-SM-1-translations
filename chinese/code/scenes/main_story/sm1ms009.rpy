@@ -1280,7 +1280,7 @@ translate chinese sm1ms099_recording_ca30ff43:
 translate chinese sm1ms099_recording_5673bfa7:
 
     # kv "{size=*0.8}*whisper* That's good, but talk more about his dick, Stacy. People love that.{/size}"
-    kv "{size=*0.8}*低语* 很好，但要多说说他的老二，史黛西。人们喜欢这样。"
+    kv "{size=*0.8}*低语* 很好，但要多说说他的老二，史黛西。人们喜欢这样。{/size}"
 
 # game/code/scenes/main_story/sm1ms009.rpy:707
 translate chinese sm1ms099_recording_a608bc7e:
@@ -2714,7 +2714,7 @@ translate chinese sm1ms009_part_2_2a6e791a:
 translate chinese sm1ms009_part_2_0b159e25:
 
     # mc "Outstanding. I can't wait."
-    mc 太棒了。我等不及了。"
+    mc "太棒了。我等不及了。"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1394
 translate chinese sm1ms009_part_2_98eb1f77:

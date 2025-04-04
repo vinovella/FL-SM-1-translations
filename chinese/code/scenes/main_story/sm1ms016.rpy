@@ -86,7 +86,7 @@ translate chinese sm1ms016_f6f7c096:
 translate chinese sm1ms016_b3b2e475:
 
     # mc "Yeah. I just wish we could snap our fingers and be done."
-    mc "是啊。我只希望我们能打个响指，然后就完工了。
+    mc "是啊。我只希望我们能打个响指，然后就完工了。"
 
 # game/code/scenes/main_story/sm1ms016.rpy:53
 translate chinese sm1ms016_b7b26b6f:

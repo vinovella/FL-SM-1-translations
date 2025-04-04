@@ -122,7 +122,7 @@ translate chinese sm1ms015_7984778f:
 translate chinese sm1ms015_87221ca9:
 
     # my "It's just that sometimes my son has been known to exaggerate."
-    my 只是我儿子有时会夸大其词。"
+    my "只是我儿子有时会夸大其词。"
 
 # game/code/scenes/main_story/sm1ms015.rpy:73
 translate chinese sm1ms015_6f96220a:

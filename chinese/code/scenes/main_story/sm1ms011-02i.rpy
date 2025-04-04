@@ -212,7 +212,7 @@ translate chinese sm1ms011_02i_3c649c79:
 translate chinese sm1ms011_02i_62e894c8:
 
     # mc "She assigned me to be a stagehand. I help this guy Bruce around back stage."
-    mc "她指派我做舞台管理。我在后台帮布鲁斯这个家伙。
+    mc "她指派我做舞台管理。我在后台帮布鲁斯这个家伙。"
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:82
 translate chinese sm1ms011_02i_c2afe789:
