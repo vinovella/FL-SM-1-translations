@@ -2,133 +2,133 @@
 translate chinese sm1cs_ns002_ee014359:
 
     # am "Hey."
-    am "Hey."
+    am "嘿。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:29
 translate chinese sm1cs_ns002_918c5ab0:
 
     # mc "Gah!"
-    mc "Gah!"
+    mc "啊！"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:32
 translate chinese sm1cs_ns002_f8bdb7c5:
 
     # mc "Jeez. Were you a vampire in your former life?"
-    mc "Jeez. Were you a vampire in your former life?"
+    mc "天哪。你上辈子是吸血鬼吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:35
 translate chinese sm1cs_ns002_001426f0:
 
     # am "Yes."
-    am "Yes."
+    am "是的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:36
 translate chinese sm1cs_ns002_bfb51d81:
 
     # am "Have you seen Nari?"
-    am "Have you seen Nari?"
+    am "你见过娜丽吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:39
 translate chinese sm1cs_ns002_387ed669:
 
     # mc "Uh, no. I've been kinda focused on my work."
-    mc "Uh, no. I've been kinda focused on my work."
+    mc "呃，没有。我一直都在专心工作呢。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:42
 translate chinese sm1cs_ns002_9e089daf:
 
     # am "Heh. Sure you are. If you see her, can you tell her I'm looking for her?"
-    am "Heh. Sure you are. If you see her, can you tell her I'm looking for her?"
+    am "呵。当然啦。如果你看到她，能告诉她我在找她吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:45
 translate chinese sm1cs_ns002_707b95b4:
 
     # mc "Trying to drink her blood?"
-    mc "Trying to drink her blood?"
+    mc "你想喝她的血？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:47
 translate chinese sm1cs_ns002_3e05604a:
 
     # mc "You know, because you're a vampire?"
-    mc "You know, because you're a vampire?"
+    mc "你知道，因为你是吸血鬼嘛。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:50
 translate chinese sm1cs_ns002_795ebd02:
 
     # am "She wrote a piece of code, and I need to figure out how she did it. It's impressive. Way better than anything you've done so far."
-    am "She wrote a piece of code, and I need to figure out how she did it. It's impressive. Way better than anything you've done so far."
+    am "她写了一段代码，我得弄清楚她是怎么写出来的。真的很厉害。比你目前写过的任何代码都要好得多。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:53
 translate chinese sm1cs_ns002_0e2cd3c4:
 
     # mc "Do you always insult people after asking them for help?"
-    mc "Do you always insult people after asking them for help?"
+    mc "你总是在向别人求助之后还侮辱人家吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:57
 translate chinese sm1cs_ns002_4dafe15c:
 
     # am "Whatever."
-    am "Whatever."
+    am "随便你帮不帮。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:59
 translate chinese sm1cs_ns002_2273b28f:
 
     # mct "She might have an attitude, but I really don't need to make any enemies at work."
-    mct "She might have an attitude, but I really don't need to make any enemies at work."
+    mct "她可能态度不太好，但我真的不想在工作中树敌。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:62
 translate chinese sm1cs_ns002_b8d2db3c:
 
     # mc "April, if I see her, I'll let you know."
-    mc "April, if I see her, I'll let you know."
+    mc "艾普尔，如果我看到她，我会告诉你的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:69
 translate chinese sm1cs_ns002_e7989a67:
 
     # mct "Got a text."
-    mct "Got a text."
+    mct "收到一条短信。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:73
 translate chinese sm1cs_ns002_0c9444dc:
 
     # mct "Lot of texts."
-    mct "Lot of texts."
+    mct "好多条短信。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:76
 translate chinese sm1cs_ns002_74ae53dd:
 
     # mct "Okay that sounds bad. What's with the X's?"
-    mct "Okay that sounds bad. What's with the X's?"
+    mct "好吧，听起来不太妙。这些‘X’是什么意思？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:77
 translate chinese sm1cs_ns002_ceec1548:
 
     # mct "They're from Nari."
-    mct "They're from Nari."
+    mct "是娜丽发来的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:80
 translate chinese sm1cs_ns002_4140b6f4:
 
     # ns "Emergency XXX."
-    ns "Emergency XXX."
+    ns "紧急情况 XXX。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:82
 translate chinese sm1cs_ns002_d3599da4:
 
     # ns "Please [mcname]! Come to the bathroom. Don't tell Anna."
-    ns "Please [mcname]! Come to the bathroom. Don't tell Anna."
+    ns "求你了，[mcname]！来一下洗手间。别告诉安娜。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:84
 translate chinese sm1cs_ns002_d742a358:
 
     # ns "Please hurry."
-    ns "Please hurry."
+    ns "请快点。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:88
 translate chinese sm1cs_ns002_19f42ec8:
 
     # mct "Shit. Sounds serious."
-    mct "Shit. Sounds serious."
+    mct "该死。听起来很严重啊。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:91
 translate chinese sm1cs_ns002_1e10f41d:
