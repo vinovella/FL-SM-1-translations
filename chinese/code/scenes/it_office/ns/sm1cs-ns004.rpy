@@ -2,97 +2,97 @@
 translate chinese sm1cs_ns004_34d4c315:
 
     # mct " Hmm. What is up with Nari?"
-    mct " Hmm. What is up with Nari?"
+    mct " 嗯。娜丽怎么了？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:12
 translate chinese sm1cs_ns004_f0a13dc7:
 
     # mct "It's strange not to see her at her desk."
-    mct "It's strange not to see her at her desk."
+    mct "没看到她在工位上，还真有点奇怪。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:15
 translate chinese sm1cs_ns004_a70c5777:
 
     # mc "Hey Nari."
-    mc "Hey Nari."
+    mc "嘿，娜丽。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:20
 translate chinese sm1cs_ns004_69a628d9:
 
     # ns "Is your financial future secure, [mcname]?"
-    ns "Is your financial future secure, [mcname]?"
+    ns "你的财务未来有保障吗，[mcname]？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:23
 translate chinese sm1cs_ns004_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:26
 translate chinese sm1cs_ns004_21ab2b17:
 
     # ns "Ah, forgive me. Over the last twenty-four hours, I've been doing some deep-diving into my financial situation and now I feel like I'm something of an expert."
-    ns "Ah, forgive me. Over the last twenty-four hours, I've been doing some deep-diving into my financial situation and now I feel like I'm something of an expert."
+    ns "啊，请原谅我。在过去的二十四小时里，我一直在深入研究我的财务状况，现在我觉得我已经是个专家了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:27
 translate chinese sm1cs_ns004_75ce7cbd:
 
     # ns "So, is your future financially stable? You know it's very important."
-    ns "So, is your future financially stable? You know it's very important."
+    ns "所以，你的未来在经济上稳定吗？你知道这很重要的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:29
 translate chinese sm1cs_ns004_d61c06a4:
 
     # mct "I think the last time I thought about my future was when I got accepted to college."
-    mct "I think the last time I thought about my future was when I got accepted to college."
+    mct "我上一次考虑我的未来好像还是我被大学录取的时候。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:30
 translate chinese sm1cs_ns004_7aaadebd:
 
     # mct "Then somewhere I blinked and zoom, here I am."
-    mct "Then somewhere I blinked and zoom, here I am."
+    mct "然后不知怎么一晃眼，咻，我就到现在这样了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:33
 translate chinese sm1cs_ns004_e5571b4c:
 
     # mc "Well I... I'm working very hard on making it secure, Nari."
-    mc "Well I... I'm working very hard on making it secure, Nari."
+    mc "嗯，我...我正在非常努力地让我的财务状况有保障，娜丽。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:36
 translate chinese sm1cs_ns004_2c2a4eb7:
 
     # ns "This is serious, [mcname]. What does your savings account look like?"
-    ns "This is serious, [mcname]. What does your savings account look like?"
+    ns "这很严肃，[mcname]。你的储蓄账户情况怎么样？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:38
 translate chinese sm1cs_ns004_09fc8196:
 
     # mc "It's uh, saving."
-    mc "It's uh, saving."
+    mc "呃，还在储蓄中。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:39
 translate chinese sm1cs_ns004_56f716db:
 
     # ns "And what about your 401k, or other suitable retirement plan?"
-    ns "And what about your 401k, or other suitable retirement plan?"
+    ns "那你的养老金计划，或者其他合适的退休计划怎么样呢？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:42
 translate chinese sm1cs_ns004_3c7bec81:
 
     # mc "Oh yes. My 401k."
-    mc "Oh yes. My 401k."
+    mc "哦，那个啊。我的养老金计划。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:43
 translate chinese sm1cs_ns004_a854d8c7:
 
     # mc "I am sure it's fine. But you know... it could always be better. I don't want to wind up in the streets in my sixties."
-    mc "I am sure it's fine. But you know... it could always be better. I don't want to wind up in the streets in my sixties."
+    mc "我肯定没问题。但你知道...总是可以更好的。我可不想六十多岁的时候流落街头。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:46
 translate chinese sm1cs_ns004_d26c22da:
 
     # ns "[mcname], if you haven't been putting money into your retirement plan each month, you'll never retire in your sixties."
-    ns "[mcname], if you haven't been putting money into your retirement plan each month, you'll never retire in your sixties."
+    ns "[mcname]，如果你每个月都不往退休计划里存钱，你到六十多岁也没法退休。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:49
 translate chinese sm1cs_ns004_b380ebbf:
