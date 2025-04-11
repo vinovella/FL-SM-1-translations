@@ -356,215 +356,215 @@ translate chinese sm1cs_ns008_e5be6dda:
 translate chinese sm1cs_ns008_1437a7d2:
 
     # ns "Ummm. It's probably a bad idea."
-    ns "Ummm. It's probably a bad idea."
+    ns "嗯...我想的可能不是个好主意。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:212
 translate chinese sm1cs_ns008_67da1872:
 
     # cw "Alright. What about other solutions? Eugene?"
-    cw "Alright. What about other solutions? Eugene?"
+    cw "好吧。其他解决方案呢？尤金？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:213
 translate chinese sm1cs_ns008_3f92c833:
 
     # cw "Eugene? Anything?"
-    cw "Eugene? Anything?"
+    cw "尤金？有什么想法吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:216
 translate chinese sm1cs_ns008_fef84e2d:
 
     # en "No. I am sorry, Claire. I am still thinking of my poor papa."
-    en "No. I am sorry, Claire. I am still thinking of my poor papa."
+    en "没有。抱歉，克莱尔。我还在想着我可怜的爸爸呢。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:219
 translate chinese sm1cs_ns008_31acf318:
 
     # cw "Take your time..."
-    cw "Take your time..."
+    cw "慢慢来吧..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:222
 translate chinese sm1cs_ns008_f8883351:
 
     # mc "*whispers* Come on. Tell Claire your idea."
-    mc "*whispers* Come on. Tell Claire your idea."
+    mc "*低语* 加油啊。把你的想法告诉克莱尔。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:225
 translate chinese sm1cs_ns008_4e4b39d7:
 
     # ns "*whispers* I can't. What if she gets mad? What if she hates it?"
-    ns "*whispers* I can't. What if she gets mad? What if she hates it?"
+    ns "*低语* 不行啊。要是她生气了怎么办？要是她不喜欢我的想法呢？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:229
 translate chinese sm1cs_ns008_50d2af66:
 
     # mc "*whispers* It's one of your ideas. I'm sure it's amazing."
-    mc "*whispers* It's one of your ideas. I'm sure it's amazing."
+    mc "*低语* 这是你的创意之一。我相信它一定很棒。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:230
 translate chinese sm1cs_ns008_90db8033:
 
     # mc "*whispers* You got this, Nari. I know you do."
-    mc "*whispers* You got this, Nari. I know you do."
+    mc "*低语* 你能行的，娜丽。我知道你可以的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:237
 translate chinese sm1cs_ns008_f33016dd:
 
     # ns "Claire. I mean... Ms. Watts.{w} I have a plan."
-    ns "Claire. I mean... Ms. Watts.{w} I have a plan."
+    ns "克莱尔。我是说...沃茨女士。{w}我有个计划。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:240
 translate chinese sm1cs_ns008_fde5c925:
 
     # cw "Well, let's hear it."
-    cw "Well, let's hear it."
+    cw "好，说来听听。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:243
 translate chinese sm1cs_ns008_dcc86111:
 
     # ns "I can create a program that will act as a monitor for the new website."
-    ns "I can create a program that will act as a monitor for the new website."
+    ns "我可以编一个程序，用来监控新网站。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:244
 translate chinese sm1cs_ns008_f708f754:
 
     # ns "I'm sure Ms. Porillo can provide us with some of the troublemaker's previous posts."
-    ns "I'm sure Ms. Porillo can provide us with some of the troublemaker's previous posts."
+    ns "我相信波蒂略女士能给我们提供一些那个捣乱者之前发布的帖子。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:246
 translate chinese sm1cs_ns008_e5c7dcc4:
 
     # ns "I'll take those old posts and teach the program what to look for so we can make sure this user is not a problem for our new website."
-    ns "I'll take those old posts and teach the program what to look for so we can make sure this user is not a problem for our new website."
+    ns "我会分析那些旧帖子，教会程序该留意什么，这样我们就能确保这个用户不会给我们的新网站带来麻烦。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:249
 translate chinese sm1cs_ns008_ae5c87b4:
 
     # ns "I can even add some tracking software so once a problem user is detected, we can locate their IP address."
-    ns "I can even add some tracking software so once a problem user is detected, we can locate their IP address."
+    ns "我甚至可以添加一些追踪软件，这样一旦检测到有问题的用户，我们就能定位到他们的IP 地址。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:250
 translate chinese sm1cs_ns008_f7f842c8:
 
     # ns "If the company wants to take legal action."
-    ns "If the company wants to take legal action."
+    ns "如果公司想采取法律行动的话。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:253
 translate chinese sm1cs_ns008_3bd769da:
 
     # am "Search and destroy. I like that."
-    am "Search and destroy. I like that."
+    am "搜索然后加以消灭。我喜欢这个方案。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:256
 translate chinese sm1cs_ns008_ce00d8c1:
 
     # cw "I'm finding myself a fan as well. How long would it take you, Ms. Song?"
-    cw "I'm finding myself a fan as well. How long would it take you, Ms. Song?"
+    cw "我也觉得这个方案不错。宋小姐，你需要多长时间呢？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:259
 translate chinese sm1cs_ns008_e11a3226:
 
     # ns "Probably about a week. I...{w} I would have to stay here late most days, if that is alright with you, Ms. Watts."
-    ns "Probably about a week. I...{w} I would have to stay here late most days, if that is alright with you, Ms. Watts."
+    ns "大概一个星期吧。我...{w}如果你不介意的话，沃茨女士，我大部分时间都会待在这里。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:262
 translate chinese sm1cs_ns008_a8d800ad:
 
     # cw "Sure, that would help make sure you can still spend time on the video servers."
-    cw "Sure, that would help make sure you can still spend time on the video servers."
+    cw "当然可以，这样也能确保你还有时间处理视频服务器的工作。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:264
 translate chinese sm1cs_ns008_3a0dc24c:
 
     # ns "Yes. That's exactly what I was thinking."
-    ns "Yes. That's exactly what I was thinking."
+    ns "是的，我也是这么想的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:266
 translate chinese sm1cs_ns008_d53d14ef:
 
     # cw "Alright, plan approved. Thank you, Nari, if you can put that program in action, the client will be very happy with us."
-    cw "Alright, plan approved. Thank you, Nari, if you can put that program in action, the client will be very happy with us."
+    cw "好，计划通过。谢谢你，娜丽，如果你能让这个程序运转起来，客户会对我们非常满意的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:269
 translate chinese sm1cs_ns008_2740d83e:
 
     # ns "Uh... happy to help."
-    ns "Uh... happy to help."
+    ns "呃...很高兴我能帮上忙。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:272
 translate chinese sm1cs_ns008_2ba13af9:
 
     # cw "Alright everyone, let's get back to it."
-    cw "Alright everyone, let's get back to it."
+    cw "好了，大家都回去工作吧。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:284
 translate chinese sm1cs_ns008_599d7e86:
 
     # mc "Way to go, Nari. I knew it would work out."
-    mc "Way to go, Nari. I knew it would work out."
+    mc "干得好，娜丽。我就知道会成功的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:287
 translate chinese sm1cs_ns008_e4c72d1d:
 
     # ns "Thank you, [mcname]. But my heart is still pounding a mile a minute."
-    ns "Thank you, [mcname]. But my heart is still pounding a mile a minute."
+    ns "谢谢你，[mcname]。但我的心还在砰砰直跳呢。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:288
 translate chinese sm1cs_ns008_2d1a4a27:
 
     # ns "Look you can feel it."
-    ns "Look you can feel it."
+    ns "来，你可以摸摸看。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:290
 translate chinese sm1cs_ns008_e46fc408:
 
     # mc "Maybe I can feel it later."
-    mc "Maybe I can feel it later."
+    mc "也许过会儿我再摸吧。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:292
 translate chinese sm1cs_ns008_09f9858e:
 
     # ns "Oh... *giggles* I like that idea."
-    ns "Oh... *giggles* I like that idea."
+    ns "哦...*咯咯笑* 我喜欢这个主意。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:299
 translate chinese sm1cs_ns008_4ab13f1b:
 
     # ns "But it's going to have to wait. I mean, I'd love to hang out with you tonight, but I should get started on the program."
-    ns "But it's going to have to wait. I mean, I'd love to hang out with you tonight, but I should get started on the program."
+    ns "但得等一等了。我是说，我今晚很想和你一起玩，但我该开始着手做那个程序了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:301
 translate chinese sm1cs_ns008_75d0d357:
 
     # mc "Totally."
-    mc "Totally."
+    mc "完全理解。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:304
 translate chinese sm1cs_ns008_338c147e:
 
     # ns "And you're okay, waiting a little bit until our next date?"
-    ns "And you're okay, waiting a little bit until our next date?"
+    ns "你不介意再等一段时间，等我们下次约会吧？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:306
 translate chinese sm1cs_ns008_8c3c47f9:
 
     # mc "Of course, I know how important this job is to you."
-    mc "Of course, I know how important this job is to you."
+    mc "当然不介意，我知道这份工作对你有多重要。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:309
 translate chinese sm1cs_ns008_6f1f47f8:
 
     # ns "Yes. Very... *yawns* very important."
-    ns "Yes. Very... *yawns* very important."
+    ns "是的，非常...*打哈欠* 非常重要。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:311
 translate chinese sm1cs_ns008_e526a903:
 
     # mc "Hmmm."
-    mc "Hmmm."
+    mc "嗯。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:312
 translate chinese sm1cs_ns008_93d23263:
 
     # ns "Excuse me, [mcname]."
-    ns "Excuse me, [mcname]."
+    ns "对不起，[mcname]。"
 
