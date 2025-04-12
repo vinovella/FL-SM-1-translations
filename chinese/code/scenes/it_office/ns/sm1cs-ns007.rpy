@@ -848,7 +848,7 @@ translate chinese sm1cs_ns007_resturant_2041d0ae:
 translate chinese sm1cs_ns007_resturant_720eaff2:
 
     # mc "What do you have in mind, Nari?"
-    mc 你是怎么想的，娜丽？"
+    mc "你是怎么想的，娜丽？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:481
 translate chinese sm1cs_ns007_resturant_f3f29dcf:

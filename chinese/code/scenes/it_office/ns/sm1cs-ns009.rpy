@@ -359,7 +359,7 @@ translate chinese sm1cs_ns009_5c1370c7:
     mct "我不喜欢这样，但至少我将来也许能帮到她。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:200
-Translate Chinese sm1cs_ns009_5989b9c1:
+translate chinese sm1cs_ns009_5989b9c1:
 
     # mct "Hmmm. Maybe Nari can come live at the studio."
     mct "嗯...也许娜丽可以来工作室住。"

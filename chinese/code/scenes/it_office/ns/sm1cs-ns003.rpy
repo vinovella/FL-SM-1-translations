@@ -476,7 +476,7 @@ translate chinese sm1cs_ns003_4ae54dc5:
 translate chinese sm1cs_ns003_7db546b7:
 
     # ns "Their financial estimates for the next twenty quarters are incredible, even if I think they're inflated by one point three percent."
-    ns "他们对未来二十个季度的财务预估非常惊人，尽管我觉得其中有1.3%的水分。"
+    ns "他们对未来二十个季度的财务预估非常惊人，尽管我觉得其中有1.3%%的水分。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:229
 translate chinese sm1cs_ns003_3071abe5:

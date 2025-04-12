@@ -383,7 +383,7 @@ translate chinese sm1cs_ns002_6e9ae8e6:
     mct "该死。我都没意识到我离娜丽裸露的下体这么近。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:227
-Translate Chinese sm1cs_ns002_36a267d1:
+translate chinese sm1cs_ns002_36a267d1:
 
     # mc "Nari. Say it with me. \"This is going to be fine.\""
     mc "娜丽。跟我一起说：\"这会没事的。\""
