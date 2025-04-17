@@ -2,385 +2,385 @@
 translate chinese sm1cs_am_renovation_273937a5:
 
     # am "What's that?"
-    am "What's that?"
+    am "那是什么？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:12
 translate chinese sm1cs_am_renovation_eff40e33:
 
     # am "Dandruff?"
-    am "Dandruff?"
+    am "头皮屑吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:15
 translate chinese sm1cs_am_renovation_0ffcd93b:
 
     # am "I know you're trying to work hard and make something of yourself, but you should still take care of yourself, [mcname]."
-    am "I know you're trying to work hard and make something of yourself, but you should still take care of yourself, [mcname]."
+    am "我知道你在努力工作，想做出一番成就，但你还是应该照顾好自己，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:19
 translate chinese sm1cs_am_renovation_0f8233f8:
 
     # am "A lesser woman would avoid dating you if she saw that."
-    am "A lesser woman would avoid dating you if she saw that."
+    am "要是哪个女人看到这个，除非她非常喜欢你，不然没人想跟这样的你约会的。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:22
 translate chinese sm1cs_am_renovation_634239df:
 
     # mc "Oh. It's plaster."
-    mc "Oh. It's plaster."
+    mc "哦，那是石膏。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:25
 translate chinese sm1cs_am_renovation_ebb79e64:
 
     # am "Right. Just plaster."
-    am "Right. Just plaster."
+    am "是嘛。只是石膏啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:28
 translate chinese sm1cs_am_renovation_3e71e5b9:
 
     # mc "No I swear."
-    mc "No I swear."
+    mc "真的，我发誓。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:29
 translate chinese sm1cs_am_renovation_c4ef35d1:
 
     # mc "I'm remodeling my home, and I'm doing a lot of the work myself."
-    mc "I'm remodeling my home, and I'm doing a lot of the work myself."
+    mc "我在重新装修我的家，很多活儿都是我自己干的。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:32
 translate chinese sm1cs_am_renovation_5f64efdb:
 
     # am "Why are you remodeling your home?"
-    am "Why are you remodeling your home?"
+    am "你为什么要重新装修房屋？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:35
 translate chinese sm1cs_am_renovation_675e8b2c:
 
     # mc "The place is nice, but there is definitely room for improvement."
-    mc "The place is nice, but there is definitely room for improvement."
+    mc "我住的地方还不错，但肯定还有改进的空间。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:37
 translate chinese sm1cs_am_renovation_9ba78559:
 
     # am "Haha. That should be the title of your biography."
-    am "Haha. That should be the title of your biography."
+    am "哈哈。那应该成为你传记的标题。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:43
 translate chinese sm1cs_am_renovation_21eb4bc4:
 
     # mc "And yours would be World's Bitchiest Coder."
-    mc "And yours would be World's Bitchiest Coder."
+    mc "而你的传记标题应该是《世界上最刻薄的程序员》。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:46
 translate chinese sm1cs_am_renovation_2f8f9ea4:
 
     # am "Meow."
-    am "Meow."
+    am "喵。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:47
 translate chinese sm1cs_am_renovation_b76d0e5e:
 
     # am "I've heard better titles."
-    am "I've heard better titles."
+    am "我听过更好的标题。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:52
 translate chinese sm1cs_am_renovation_e7b88e90:
 
     # mc "Whatever."
-    mc "Whatever."
+    mc "随便啦。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:56
 translate chinese sm1cs_am_renovation_89fd2105:
 
     # am "So why didn't you ask for my help with this remodel thing?"
-    am "So why didn't you ask for my help with this remodel thing?"
+    am "你为什么不叫我帮你分担点装修的活呢？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:59
 translate chinese sm1cs_am_renovation_cfa5c9cd:
 
     # am "Too proud?"
-    am "Too proud?"
+    am "太骄傲了？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:62
 translate chinese sm1cs_am_renovation_685bc611:
 
     # mc "Huh? Oh, you mean for my home?"
-    mc "Huh? Oh, you mean for my home?"
+    mc "嗯？哦，你是说我家的装修？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:64
 translate chinese sm1cs_am_renovation_7603fce8:
 
     # am "Duh."
-    am "Duh."
+    am "不然呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:69
 translate chinese sm1cs_am_renovation_3a409f44:
 
     # mc "I honestly didn't think about asking you, April."
-    mc "I honestly didn't think about asking you, April."
+    mc "说实话，我没想过要叫你帮忙，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:72
 translate chinese sm1cs_am_renovation_fccc484e:
 
     # am "That was a mistake."
-    am "That was a mistake."
+    am "那是你的失误。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:74
 translate chinese sm1cs_am_renovation_3b892edb:
 
     # mc "Uh... if you say so."
-    mc "Uh... if you say so."
+    mc "呃...如果你要这么说的话，也行。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:77
 translate chinese sm1cs_am_renovation_7dae2b6e:
 
     # am "You think because I'm a pro coder, I can't swing a hammer or run a saw?"
-    am "You think because I'm a pro coder, I can't swing a hammer or run a saw?"
+    am "你觉得因为我是个专业程序员，我就不会用锤子、或者操作锯子吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:79
 translate chinese sm1cs_am_renovation_998ea2a4:
 
     # mc "I've never heard of 'running' a saw."
-    mc "I've never heard of 'running' a saw."
+    mc "我从没听说过‘操作’锯子这种说法。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:82
 translate chinese sm1cs_am_renovation_0b2cf3d8:
 
     # mc "But honestly, it was just a-"
-    mc "But honestly, it was just a-"
+    mc "但说实话，这只是一个--"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:85
 translate chinese sm1cs_am_renovation_fd255b6a:
 
     # am "Save it. I'm going to make you eat your chauvinistic attitude, [mcname]."
-    am "Save it. I'm going to make you eat your chauvinistic attitude, [mcname]."
+    am "别说了。我要让你收回你这种大男子主义的态度，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:86
 translate chinese sm1cs_am_renovation_804a438d:
 
     # am "We're going to your place right now."
-    am "We're going to your place right now."
+    am "我们现在就去你家。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:92
 translate chinese sm1cs_am_renovation_2384c0d7:
 
     # mc "You really want to help?"
-    mc "You really want to help?"
+    mc "你真的想帮忙？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:95
 translate chinese sm1cs_am_renovation_ceb6d3a5:
 
     # am "Of course I want to help."
-    am "Of course I want to help."
+    am "我当然想帮忙。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:96
 translate chinese sm1cs_am_renovation_376c1e1e:
 
     # am "It's no good living in a half-complete mess of a place."
-    am "It's no good living in a half-complete mess of a place."
+    am "住在一个半拉子工程、乱七八糟的地方可不好。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:97
 translate chinese sm1cs_am_renovation_9d2e2ec9:
 
     # am "And I don't want you to use this as an excuse the next time I want to go on a date."
-    am "And I don't want you to use this as an excuse the next time I want to go on a date."
+    am "而且我不想下次我想约会的时候，你拿这个当借口。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:100
 translate chinese sm1cs_am_renovation_b82b8d78:
 
     # mc "I wouldn't dream of it."
-    mc "I wouldn't dream of it."
+    mc "我可不敢那么想。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:103
 translate chinese sm1cs_am_renovation_96f5693a:
 
     # am "Then it's settled. We'll go to your place right now."
-    am "Then it's settled. We'll go to your place right now."
+    am "那就这么定了。我们现在就去你家。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:107
 translate chinese sm1cs_am_renovation_3ecb2aab:
 
     # mc "Wait, 'now' now?"
-    mc "Wait, 'now' now?"
+    mc "等等，‘现在’就走吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:108
 translate chinese sm1cs_am_renovation_aa2a2ce3:
 
     # mc "What about work?"
-    mc "What about work?"
+    mc "工作怎么办？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:115
 translate chinese sm1cs_am_renovation_661bb6e4:
 
     # am "I have plenty of PTO to use."
-    am "I have plenty of PTO to use."
+    am "我有很多带薪休假时间可以用。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:118
 translate chinese sm1cs_am_renovation_080a57fa:
 
     # mc "I'm not so lucky."
-    mc "I'm not so lucky."
+    mc "我没那么幸运。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:120
 translate chinese sm1cs_am_renovation_9b2971d2:
 
     # am "I'll email Claire that I dragged you off to work on the project."
-    am "I'll email Claire that I dragged you off to work on the project."
+    am "我会给克莱尔发邮件，说我拉着你去做项目了。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:124
 translate chinese sm1cs_am_renovation_215f543b:
 
     # am "She won't mind. Or she will, whatever."
-    am "She won't mind. Or she will, whatever."
+    am "她不会介意的。或者她会介意，管它呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:141
 translate chinese sm1cs_am_renovation_studio_a03cd583:
 
     # am "Not bad."
-    am "Not bad."
+    am "还不错嘛。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:147
 translate chinese sm1cs_am_renovation_studio_3693e1f8:
 
     # am "So what exactly do you need with all this space?"
-    am "So what exactly do you need with all this space?"
+    am "你要这么大的空间到底想干什么呢？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:150
 translate chinese sm1cs_am_renovation_studio_3ae2ef8a:
 
     # am "You planning to build a startup? Or a small motel?"
-    am "You planning to build a startup? Or a small motel?"
+    am "你是打算开家初创公司？还是建个小汽车旅馆？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:153
 translate chinese sm1cs_am_renovation_studio_e334e13f:
 
     # mc "Something like that."
-    mc "Something like that."
+    mc "差不多吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:157
 translate chinese sm1cs_am_renovation_studio_f5ee8c00:
 
     # am "Why do I feel like you're a lot richer than you act?"
-    am "Why do I feel like you're a lot richer than you act?"
+    am "为什么我觉得你比你表现出来的要有钱得多？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:159
 translate chinese sm1cs_am_renovation_studio_17a83009:
 
     # mc "Even if I was rich, I'm not sure how to act rich."
-    mc "Even if I was rich, I'm not sure how to act rich."
+    mc "就算我真有钱，我也不知道有钱人应该怎么表现。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:162
 translate chinese sm1cs_am_renovation_studio_716a4175:
 
     # mc "But I'm not rich. I've been working my butt off to get the money to do this renovation."
-    mc "But I'm not rich. I've been working my butt off to get the money to do this renovation."
+    mc "再说实际我并不富有。我一直在拼命工作，才有钱进行这次翻新。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:165
 translate chinese sm1cs_am_renovation_studio_e6e89af6:
 
     # am "Really? You show this hard work very sneakily."
-    am "Really? You show this hard work very sneakily."
+    am "真的吗？你把这份努力藏得可够深的。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:170
 translate chinese sm1cs_am_renovation_studio_f66da0a9:
 
     # am "Is that supposed to be your sister or something?"
-    am "Is that supposed to be your sister or something?"
+    am "那画的应该是你妹妹或者之类的亲人吧？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:173
 translate chinese sm1cs_am_renovation_studio_aeb91b51:
 
     # mc "Yeah. Just something my mom wanted to add."
-    mc "Yeah. Just something my mom wanted to add."
+    mc "是啊。那是我妈妈想加进去的东西。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:174
 translate chinese sm1cs_am_renovation_studio_36d8d6bc:
 
     # mc "Liven up the place I guess."
-    mc "Liven up the place I guess."
+    mc "我猜是想让这个地方更有生气吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:176
 translate chinese sm1cs_am_renovation_studio_104e9a32:
 
     # am "Uh. Is this supposed to be your friend Stacy or something?"
-    am "Uh. Is this supposed to be your friend Stacy or something?"
+    am "呃。这画的应该是你的朋友史黛西之类的人吧？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:179
 translate chinese sm1cs_am_renovation_studio_45cac230:
 
     # mc "Yeah. Melony is doing the piece. She's got a natural talent for painting."
-    mc "Yeah. Melony is doing the piece. She's got a natural talent for painting."
+    mc "是的。梅洛妮画的这幅画。她在绘画方面很有天赋。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:183
 translate chinese sm1cs_am_renovation_studio_6206f164:
 
     # am "Hmmm."
-    am "Hmmm."
+    am "嗯..."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:185
 translate chinese sm1cs_am_renovation_studio_82eab48b:
 
     # am "Nice artwork. Someone you know."
-    am "Nice artwork. Someone you know."
+    am "艺术品很不错。你认识的人啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:188
 translate chinese sm1cs_am_renovation_studio_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "对。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:190
 translate chinese sm1cs_am_renovation_studio_1e356e31:
 
     # mc "It's a piece showing off my sister. Artist friend wanted to add a personal touch."
-    mc "It's a piece showing off my sister. Artist friend wanted to add a personal touch."
+    mc "这个作品只是想炫耀下我妹妹。我的艺术家朋友想加点个人风格进去。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:192
 translate chinese sm1cs_am_renovation_studio_33b1ba4b:
 
     # mc "Just something an artist friend wanted to add to the place."
-    mc "Just something an artist friend wanted to add to the place."
+    mc "就是我的一个艺术家朋友想给这里添点东西。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:196
 translate chinese sm1cs_am_renovation_studio_6206f164_1:
 
     # am "Hmmm."
-    am "Hmmm."
+    am "嗯。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:200
 translate chinese sm1cs_am_renovation_studio_f0ccb093:
 
     # am "Alright, so what can I do to help out?"
-    am "Alright, so what can I do to help out?"
+    am "好吧，我能帮上什么忙？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:203
 translate chinese sm1cs_am_renovation_studio_ab183a13:
 
     # mc "You can help me figure out the wiring for the TV. Should be easy with your technical know-how."
-    mc "You can help me figure out the wiring for the TV. Should be easy with your technical know-how."
+    mc "你可以帮我弄清电视机的线路。以你的技术知识，这应该很容易。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:205
 translate chinese sm1cs_am_renovation_studio_5773c5ec:
 
     # am "Uh. I'm more than just a pretty brain, [mcname]."
-    am "Uh. I'm more than just a pretty brain, [mcname]."
+    am "呃。我可不只是有聪明的头脑，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:206
 translate chinese sm1cs_am_renovation_studio_41243b6c:
 
     # am "Huberu Office Desk and Kenner-Tran Gaming Chair. Not bad."
-    am "Huberu Office Desk and Kenner-Tran Gaming Chair. Not bad."
+    am "Huberu办公桌还有Kenner-Tran电竞椅。还不错嘛。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:207
 translate chinese sm1cs_am_renovation_studio_414ba958:
 
     # am "I can help you build those two. Easy."
-    am "I can help you build those two. Easy."
+    am "我可以帮你组装这两样东西。小菜一碟。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:209
 translate chinese sm1cs_am_renovation_studio_b63393db:
 
     # mc "Alright. Let's do it."
-    mc "Alright. Let's do it."
+    mc "行啊。那我们开始吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:228
 translate chinese sm1cs_am_renovation_later_5b0b45d6:
