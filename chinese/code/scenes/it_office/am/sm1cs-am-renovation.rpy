@@ -386,19 +386,19 @@ translate chinese sm1cs_am_renovation_studio_b63393db:
 translate chinese sm1cs_am_renovation_later_5b0b45d6:
 
     # am "Ah. Shit, fucking fuck."
-    am "Ah. Shit, fucking fuck."
+    am "啊，妈的，真他妈的。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:231
 translate chinese sm1cs_am_renovation_later_7d010a14:
 
     # mc "What happened?"
-    mc "What happened?"
+    mc "怎么了？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:233
 translate chinese sm1cs_am_renovation_later_84cd6e25:
 
     # am "Fucking charlie horse. Nrraaah."
-    am "Fucking charlie horse. Nrraaah."
+    am "该死的腿部抽筋。啊啊啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:238
 translate chinese sm1cs_am_renovation_later_2b35b6fe:
@@ -410,307 +410,307 @@ translate chinese sm1cs_am_renovation_later_2b35b6fe:
 translate chinese sm1cs_am_renovation_later_07871f1f:
 
     # am "What are you doing?"
-    am "What are you doing?"
+    am "你在干什么？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:244
 translate chinese sm1cs_am_renovation_later_5b7eaca7:
 
     # mc "Just giving you a quick rub. Always helps when I get one."
-    mc "Just giving you a quick rub. Always helps when I get one."
+    mc "快速给你揉揉嘛。我抽筋的时候，这样做总是很有效果。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:247
 translate chinese sm1cs_am_renovation_later_cfcc4e77:
 
     # am "Listen closely, dummy. We might be dating but that doesn't mean my body is free to-"
-    am "Listen closely, dummy. We might be dating but that doesn't mean my body is free to-"
+    am "仔细听好了，笨蛋。我们可能是在约会，但这不意味着你可以随便碰我的身体--"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:251
 translate chinese sm1cs_am_renovation_later_00146ce6:
 
     # am "Oooouhaah..."
-    am "Oooouhaah..."
+    am "哦..."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:252
 translate chinese sm1cs_am_renovation_later_af786259:
 
     # am "Fuck. That is actually really helping."
-    am "Fuck. That is actually really helping."
+    am "靠。这还真的挺有帮助的。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:255
 translate chinese sm1cs_am_renovation_later_809a995f:
 
     # mc "See. Little trust goes a long way."
-    mc "See. Little trust goes a long way."
+    mc "看吧。多一点信任还是挺重要的。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:257
 translate chinese sm1cs_am_renovation_later_f52c2407:
 
     # am "I..."
-    am "I..."
+    am "我..."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:261
 translate chinese sm1cs_am_renovation_later_40e1dd77:
 
     # am "Yeah, sure. Whatever."
-    am "Yeah, sure. Whatever."
+    am "好啦好啦。随便啦。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:265
 translate chinese sm1cs_am_renovation_later_824e0146:
 
     # am "Why don't you finish the desk on your own. I don't want to slow you down."
-    am "Why don't you finish the desk on your own. I don't want to slow you down."
+    am "你干嘛不自己把桌子组装完呢。我不想拖你的后腿。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:267
 translate chinese sm1cs_am_renovation_later_c4c0ebea:
 
     # mc "You won't."
-    mc "You won't."
+    mc "你不会的。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:271
 translate chinese sm1cs_am_renovation_later_65e4c349:
 
     # am "Just... leave me be for a minute, [mcname]."
-    am "Just... leave me be for a minute, [mcname]."
+    am "只是... 让我一个人待一会儿，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:273
 translate chinese sm1cs_am_renovation_later_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "没问题。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:280
 translate chinese sm1cs_am_renovation_later_177d3eb2:
 
     # mc "What are you doing?"
-    mc "What are you doing?"
+    mc "你在干什么？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:283
 translate chinese sm1cs_am_renovation_later_6ee81245:
 
     # mc "Another charlie horse?"
-    mc "Another charlie horse?"
+    mc "又抽筋了吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:286
 translate chinese sm1cs_am_renovation_later_ef6429f5:
 
     # am "I'm feeling much better. After I came down I made sure to do some stretches."
-    am "I'm feeling much better. After I came down I made sure to do some stretches."
+    am "我感觉好多了。缓过来之后，我特意做了些拉伸运动。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:287
 translate chinese sm1cs_am_renovation_later_fd7e9c53:
 
     # am "Cribbed some notes from a yoga video."
-    am "Cribbed some notes from a yoga video."
+    am "从一个瑜伽视频里借鉴了一些动作。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:288
 translate chinese sm1cs_am_renovation_later_2fbc2d3d:
 
     # am "But that's not all I did."
-    am "But that's not all I did."
+    am "但我做的还不止这些。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:295
 translate chinese sm1cs_am_renovation_later_bcc6b193:
 
     # mct "Uhhh. I guess she wants me to ask her what she's up to."
-    mct "Uhhh. I guess she wants me to ask her what she's up to."
+    mct "呃...我猜她是想让我问她在搞什么名堂。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:300
 translate chinese sm1cs_am_renovation_later_925a5931:
 
     # mc "Would you like to show me something, April?"
-    mc "Would you like to show me something, April?"
+    mc "你是想给我看什么东西吗，艾普尔?"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:303
 translate chinese sm1cs_am_renovation_later_a2d98c0a:
 
     # am "Mmhmm."
-    am "Mmhmm."
+    am "嗯嗯。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:308
 translate chinese sm1cs_am_renovation_later_e50506da:
 
     # mc "Can you stop screwing around April?"
-    mc "Can you stop screwing around April?"
+    mc "艾普尔，你能不能别瞎闹了？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:311
 translate chinese sm1cs_am_renovation_later_8ab1c1ad:
 
     # am "Fine!"
-    am "Fine!"
+    am "好吧！"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:315
 translate chinese sm1cs_am_renovation_later_1410700b:
 
     # am "I went into your internet and checked your speeds."
-    am "I went into your internet and checked your speeds."
+    am "我进了你的网络，测了一下网速。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:316
 translate chinese sm1cs_am_renovation_later_2fa20a2b:
 
     # am "It was alright, decent enough for what your ISP is, but it was lacking a little juice."
-    am "It was alright, decent enough for what your ISP is, but it was lacking a little juice."
+    am "网速还行，就你的网络服务提供商来说还算体面，但还是差了点劲儿。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:319
 translate chinese sm1cs_am_renovation_later_66c2d306:
 
     # am "Took a little digging, and your neighbors might have a bit slower speed."
-    am "Took a little digging, and your neighbors might have a bit slower speed."
+    am "稍微查了一下，你邻居家的网速可能比你的还慢一点。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:320
 translate chinese sm1cs_am_renovation_later_e295cf10:
 
     # am "But I managed to boost your general speed up to one Gigabit."
-    am "But I managed to boost your general speed up to one Gigabit."
+    am "但我成功把你的网速提升到了千兆。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:324
 translate chinese sm1cs_am_renovation_later_83ff45ca:
 
     # am "You're welcome."
-    am "You're welcome."
+    am "不用谢。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:327
 translate chinese sm1cs_am_renovation_later_095e51ec:
 
     # mc "That's... really cool, April."
-    mc "That's... really cool, April."
+    mc "那...真的很酷，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:328
 translate chinese sm1cs_am_renovation_later_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "谢谢你。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:334
 translate chinese sm1cs_am_renovation_later_9fa8b7dc:
 
     # am "It was nothing."
-    am "It was nothing."
+    am "小事一桩。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:338
 translate chinese sm1cs_am_renovation_later_900f6517:
 
     # am "And if the cops come asking questions, you don't know me."
-    am "And if the cops come asking questions, you don't know me."
+    am "要是警察来问问题，你就说不认识我。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:341
 translate chinese sm1cs_am_renovation_later_c56846da:
 
     # am "Snitches get stitches."
-    am "Snitches get stitches."
+    am "告密者可是要挨揍的。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:344
 translate chinese sm1cs_am_renovation_later_faa03e1a:
 
     # mc "Haha."
-    mc "Haha."
+    mc "哈哈。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:345
 translate chinese sm1cs_am_renovation_later_34621949:
 
     # mc "Leaving already?"
-    mc "Leaving already?"
+    mc "这就要走了吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:348
 translate chinese sm1cs_am_renovation_later_b1f06615:
 
     # am "Yeah. I probably should go work a bit at Orbix since I took off."
-    am "Yeah. I probably should go work a bit at Orbix since I took off."
+    am "是啊。我既然是请假出来的，现在可能该回Orbix公司工作一会儿了。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:349
 translate chinese sm1cs_am_renovation_later_488d5d7a:
 
     # am "Unless you want to tell me the big secret about why you have a place like this."
-    am "Unless you want to tell me the big secret about why you have a place like this."
+    am "除非你想告诉我一个大秘密，你为什么会有这么个地方。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:354
 translate chinese sm1cs_am_renovation_later_321268fa:
 
     # mc "There is no big secret. I just like a lot of space."
-    mc "There is no big secret. I just like a lot of space."
+    mc "没有什么大秘密。我只是喜欢大空间。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:358
 translate chinese sm1cs_am_renovation_later_01a0a072:
 
     # am "Sure, [mcname]. Very believable."
-    am "Sure, [mcname]. Very believable."
+    am "当然啦，[mcname]。真让人信服。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:362
 translate chinese sm1cs_am_renovation_later_2f2beaf1:
 
     # mc "I... I will tell you one day. I promise."
-    mc "I... I will tell you one day. I promise."
+    mc "我...我总有一天会告诉你的。我保证。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:365
 translate chinese sm1cs_am_renovation_later_d5ab06c4:
 
     # am "Don't make a girl a promise, if you know you can't keep it."
-    am "Don't make a girl a promise, if you know you can't keep it."
+    am "如果你知道自己无法兑现承诺，就别给女孩子许下承诺。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:367
 translate chinese sm1cs_am_renovation_later_7bb7501d:
 
     # mc "I'll be back... {w}Cortana."
-    mc "I'll be back... {w}Cortana."
+    mc "我会回来的... {w}机器人女士。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:370
 translate chinese sm1cs_am_renovation_later_09f48b49:
 
     # am "Cool."
-    am "Cool."
+    am "行。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:375
 translate chinese sm1cs_am_renovation_later_7057021a:
 
     # am "Well good luck with the rest of the build, [mcname]."
-    am "Well good luck with the rest of the build, [mcname]."
+    am "好吧，祝你接下来的装修工作顺利，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:376
 translate chinese sm1cs_am_renovation_later_a66c55cc:
 
     # am "I'll see you around."
-    am "I'll see you around."
+    am "回头见。"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:379
 translate chinese sm1cs_am_renovation_later_0dfc7207:
 
     # mc "Yeah. See ya around."
-    mc "Yeah. See ya around."
+    mc "好。回头见。"
 
 translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:38
     old "Insult April"
-    new "Insult April"
+    new "挖苦艾普尔"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:38
     old "Shake it off"
-    new "Shake it off"
+    new "别往心里去"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "I didn't think to ask."
-    new "I didn't think to ask."
+    new "我没想到要问。"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "You want to help?"
-    new "You want to help?"
+    new "你想帮忙吗？"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:217
     old "A few minutes later"
-    new "A few minutes later"
+    new "几分钟后"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
     old "Ask April what she did."
-    new "Ask April what she did."
+    new "问艾普尔她做了什么"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
     old "Complain to April."
-    new "Complain to April."
+    new "向艾普尔抱怨"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Lie"
-    new "Lie"
+    new "撒谎"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Promise the answer one day."
-    new "Promise the answer one day."
+    new "承诺总有一天会告诉她答案"
 
