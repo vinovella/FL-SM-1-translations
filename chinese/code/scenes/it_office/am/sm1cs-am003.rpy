@@ -2,79 +2,79 @@
 translate chinese sm1cs_am003_65d3c1ab:
 
     # mc "Hey April."
-    mc "Hey April."
+    mc "嘿，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:26
 translate chinese sm1cs_am003_60929dc7:
 
     # mc "I emailed you earlier, saying I would meet you here."
-    mc "I emailed you earlier, saying I would meet you here."
+    mc "我之前给你发过邮件，说我会在这里等你。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:30
 translate chinese sm1cs_am003_86777f1e:
 
     # mc "You never replied back."
-    mc "You never replied back."
+    mc "你一直没回复我。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:37
 translate chinese sm1cs_am003_967cce7b:
 
     # am "Do you ever wonder if we went too far?"
-    am "Do you ever wonder if we went too far?"
+    am "你有没有想过，我们是不是做得太过分了？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:39
 translate chinese sm1cs_am003_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "啊?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:42
 translate chinese sm1cs_am003_9411ee06:
 
     # am "Humans. We have created all this technology. It can do incredible things."
-    am "Humans. We have created all this technology. It can do incredible things."
+    am "人类啊。我们创造了这么多科技。它们能做很多不可思议的事。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:43
 translate chinese sm1cs_am003_6836a542:
 
     # am "But then those things cost great amounts of time and sweat to maintain. And all the time we put into those things makes us unable to do other things."
-    am "But then those things cost great amounts of time and sweat to maintain. And all the time we put into those things makes us unable to do other things."
+    am "但维护这些东西却要耗费大量的时间和精力。而我们投入在这些事情上的所有时间，让我们无暇去做其他事。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:45
 translate chinese sm1cs_am003_9cd69884:
 
     # am "Maybe the animals know something we don't."
-    am "Maybe the animals know something we don't."
+    am "也许动物们知道一些我们不知道的东西。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:47
 translate chinese sm1cs_am003_8efea8a8:
 
     # mc "Living like animals does sound simpler."
-    mc "Living like animals does sound simpler."
+    mc "像动物一样生活听起来确实更简单。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:50
 translate chinese sm1cs_am003_0ca45c48:
 
     # am "Yup. If we didn't work together, you wouldn't be bothering my afternoon, that's for sure."
-    am "Yup. If we didn't work together, you wouldn't be bothering my afternoon, that's for sure."
+    am "是啊，要是我们不用一起工作，你肯定就不会来打扰我的下午时光了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:56
 translate chinese sm1cs_am003_92fdcba6:
 
     # mc "Nah. Bothering you is my new favorite pastime, April."
-    mc "Nah. Bothering you is my new favorite pastime, April."
+    mc "才不是。打扰你已经成了我新的心头好，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:59
 translate chinese sm1cs_am003_7cb715be:
 
     # am "Stop."
-    am "Stop."
+    am "别闹了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:62
 translate chinese sm1cs_am003_ad2ab32f:
 
     # mc "I'm actually pretty sure it's part of my job."
-    mc "I'm actually pretty sure it's part of my job."
+    mc "其实我很确定这是我工作的一部分。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:63
 translate chinese sm1cs_am003_1c8acf17:
@@ -86,145 +86,145 @@ translate chinese sm1cs_am003_1c8acf17:
 translate chinese sm1cs_am003_a294848d:
 
     # mct "Hmm. I almost thought she was going to laugh."
-    mct "Hmm. I almost thought she was going to laugh."
+    mct "嗯。我还以为她差点就要笑出来了呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:69
 translate chinese sm1cs_am003_bed158e3:
 
     # mc "So we can agree on something."
-    mc "So we can agree on something."
+    mc "所以我们还是能在某些事上达成共识的。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:72
 translate chinese sm1cs_am003_d243e017:
 
     # am "Heh. Imagine that."
-    am "Heh. Imagine that."
+    am "呵。真没想到。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:76
 translate chinese sm1cs_am003_0d8f5a58:
 
     # am "So {i}why{/i} are you bothering me again, [mcname]?"
-    am "So {i}why{/i} are you bothering me again, [mcname]?"
+    am "那你{i}为什么{/i}又来烦我了，[mcname]？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:82
 translate chinese sm1cs_am003_8cd6b4b5:
 
     # mc "I am only here because someone decided to work from a park instead of her station."
-    mc "I am only here because someone decided to work from a park instead of her station."
+    mc "我来这儿只是因为某人决定不在自己的工位上工作，而是跑到公园来。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:85
 translate chinese sm1cs_am003_65499029:
 
     # am "Good."
-    am "Good."
+    am "很好。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:90
 translate chinese sm1cs_am003_64d97158:
 
     # mc "I wanted to check on you, April."
-    mc "I wanted to check on you, April."
+    mc "我是想来看看你怎么样，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:93
 translate chinese sm1cs_am003_db88d856:
 
     # am "You mean Anna asked you to check on me."
-    am "You mean Anna asked you to check on me."
+    am "你是说安娜让你来看看我的吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:96
 translate chinese sm1cs_am003_4ced708b:
 
     # mc "She did not."
-    mc "She did not."
+    mc "她没有。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:99
 translate chinese sm1cs_am003_ff48ba88:
 
     # am "Hmmph. Sounds like you wasted your afternoon. I'm fine."
-    am "Hmmph. Sounds like you wasted your afternoon. I'm fine."
+    am "哼。看来你要浪费一下午时间了。我好着呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:102
 translate chinese sm1cs_am003_e2e1fb53:
 
     # mc "Checking on a friend is not a waste of time, April."
-    mc "Checking on a friend is not a waste of time, April."
+    mc "关心朋友可不算浪费时间，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:105
 translate chinese sm1cs_am003_7b6ed2d5:
 
     # am "Who said we were friends?"
-    am "Who said we were friends?"
+    am "谁说我们是朋友？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:108
 translate chinese sm1cs_am003_246b96f0:
 
     # mc "Well if we're not friends, your teasing feels a lot like bullying."
-    mc "Well if we're not friends, your teasing feels a lot like bullying."
+    mc "好吧，如果我们不是朋友，那你的打趣可就很像在欺负人了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:111
 translate chinese sm1cs_am003_c44693ed:
 
     # am "It's bullying to say someone sucks at their job?"
-    am "It's bullying to say someone sucks at their job?"
+    am "说某人工作不行也算欺负人吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:114
 translate chinese sm1cs_am003_81fb0059:
 
     # mc "Maybe the first time is teasing. I think you're into the double digits now."
-    mc "Maybe the first time is teasing. I think you're into the double digits now."
+    mc "也许第一次算是打趣。但我觉得你现在说的次数都已经两位数了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:117
 translate chinese sm1cs_am003_9b36aebd:
 
     # am "I didn't know you could count that high."
-    am "I didn't know you could count that high."
+    am "我都不知道你还能数到两位数呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:120
 translate chinese sm1cs_am003_b58f5af6:
 
     # mct "This girl. It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
-    mct "This girl. It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+    mct "这姑娘。就像安娜说的。要不是她能力强，就她这态度，早被Orbix公司开除了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:121
 translate chinese sm1cs_am003_ce80c7ee:
 
     # mct "Why does she pick on me so much?"
-    mct "Why does she pick on me so much?"
+    mct "她为什么老针对我呢？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:124
 translate chinese sm1cs_am003_3adad30a:
 
     # am "What, did that break you?"
-    am "What, did that break you?"
+    am "怎么，被我说中了？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:127
 translate chinese sm1cs_am003_fe1864dc:
 
     # mc "You were right. I didn't come to check on you. I need help with a work problem and this is where you are working now. Simple as that."
-    mc "You were right. I didn't come to check on you. I need help with a work problem and this is where you are working now. Simple as that."
+    mc "你说得对。我不是来关心你的。我工作上遇到个问题需要帮忙，而你现在又在这儿工作。就这么简单。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:130
 translate chinese sm1cs_am003_201598d2:
 
     # am "Well yeah. I knew that from the start."
-    am "Well yeah. I knew that from the start."
+    am "嗯，没错。我一开始就知道。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:134
 translate chinese sm1cs_am003_e619f22b:
 
     # am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
-    am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
+    am "在那次工作之后，我...我还以为你要么已经辞职了，要么就只会勉强完成你的工作任务。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:135
 translate chinese sm1cs_am003_7274fced:
 
     # am "But here you are."
-    am "But here you are."
+    am "但你还是挺过来了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:138
 translate chinese sm1cs_am003_226d5b69:
 
     # mc "Here I am."
-    mc "Here I am."
+    mc "可不是，我挺过来了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:141
 translate chinese sm1cs_am003_5c53c85f:
