@@ -230,259 +230,259 @@ translate chinese sm1cs_am003_226d5b69:
 translate chinese sm1cs_am003_5c53c85f:
 
     # am "Yeah.{w} Maybe I was wrong about you, [mcname]."
-    am "Yeah.{w} Maybe I was wrong about you, [mcname]."
+    am "是啊。{w}也许我之前看错你了，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:144
 translate chinese sm1cs_am003_7da007d5:
 
     # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want. Sometimes I stumble, but I never stay on the ground for long."
-    mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want. Sometimes I stumble, but I never stay on the ground for long."
+    mc "你是看错了。我是会犯错，但为了得到我想要的，我也能非常努力地工作。有时候我会跌倒，但我从不会在地上趴太久。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:145
 translate chinese sm1cs_am003_37d25850:
 
     # mc "I didn't study IT at college, but I've always been a fast learner. Teach me, I'm ready to learn at your feet, April."
-    mc "I didn't study IT at college, but I've always been a fast learner. Teach me, I'm ready to learn at your feet, April."
+    mc "我大学没学过信息技术，但我一直学得很快。教教我吧，我准备好拜在你脚下，喊你师傅了，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:148
 translate chinese sm1cs_am003_1446f8b8:
 
     # am "Learn at my feet? You really are a dork."
-    am "Learn at my feet? You really are a dork."
+    am "拜我为师？你可真傻。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:151
 translate chinese sm1cs_am003_2094ad80:
 
     # mc "Hey, I'm serious."
-    mc "Hey, I'm serious."
+    mc "嘿，我是认真的。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:154
 translate chinese sm1cs_am003_cb160673:
 
     # am "*sighs* Okay, you certainly got the energy. But you're not going near my feet."
-    am "*sighs* Okay, you certainly got the energy. But you're not going near my feet."
+    am "*叹气* 好吧，你确实精力充沛。但离我的脚远点。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:155
 translate chinese sm1cs_am003_3e875709:
 
     # am "Despite my better judgment, I'll try to give you some pointers here and there."
-    am "Despite my better judgment, I'll try to give you some pointers here and there."
+    am "尽管我觉得不该这么做，但我会时不时给你一些指点的。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:158
 translate chinese sm1cs_am003_35f64472:
 
     # am "Just don't you dare slow me down."
-    am "Just don't you dare slow me down."
+    am "你可别拖我的后腿。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:164
 translate chinese sm1cs_am003_0c569ca7:
 
     # mc "I won't slow you down. In fact, I'm sure in a little while, I'll surpass your skills."
-    mc "I won't slow you down. In fact, I'm sure in a little while, I'll surpass your skills."
+    mc "我不会拖你的后腿。事实上，我相信过不了多久，我的技术就会超过你。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:167
 translate chinese sm1cs_am003_e843326d:
 
     # am "I thought you were being serious..."
-    am "I thought you were being serious..."
+    am "我以为你是认真的..."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:173
 translate chinese sm1cs_am003_84fb7e61:
 
     # mc "If you teach me well, I'm sure I'll do great."
-    mc "If you teach me well, I'm sure I'll do great."
+    mc "如果你好好教我，我肯定能做得很好。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:176
 translate chinese sm1cs_am003_c742b267:
 
     # am "I am not your teacher, [mcname]. that's not my job."
-    am "I am not your teacher, [mcname]. that's not my job."
+    am "我不是你的老师，[mcname]，那不是我的工作。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:177
 translate chinese sm1cs_am003_7c802427:
 
     # am "The only thing I'm going to do for you is give you some tips and tricks."
-    am "The only thing I'm going to do for you is give you some tips and tricks."
+    am "我唯一会为你做的就是给你一些小窍门和技巧。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:178
 translate chinese sm1cs_am003_48ee144c:
 
     # am "We have a shared assignment, but you still have to pull your weight."
-    am "We have a shared assignment, but you still have to pull your weight."
+    am "我们有共同的工作任务，但你还是得尽到自己的责任。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:182
 translate chinese sm1cs_am003_442b1bff:
 
     # mc "Sure, sure. I got it."
-    mc "Sure, sure. I got it."
+    mc "当然，当然。我知道的。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:186
 translate chinese sm1cs_am003_c73287ef:
 
     # am "Okay. Show me what problems you're having with the website."
-    am "Okay. Show me what problems you're having with the website."
+    am "好吧，给我看看你在网站上遇到了什么问题。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:189
 translate chinese sm1cs_am003_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "好。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:190
 translate chinese sm1cs_am003_2a78bab9:
 
     # mct "Shit. Bad signal. The file isn't loading."
-    mct "Shit. Bad signal. The file isn't loading."
+    mct "糟了。信号不好。文件加载不出来。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:193
 translate chinese sm1cs_am003_bb238524:
 
     # am "What are you doing now?"
-    am "What are you doing now?"
+    am "你现在在做什么？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:195
 translate chinese sm1cs_am003_b489f3ff:
 
     # mc "Trying to get a signal. Shit. It's still not working."
-    mc "Trying to get a signal. Shit. It's still not working."
+    mc "在试着找信号。妈的。还是不行。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:198
 translate chinese sm1cs_am003_80588ed2:
 
     # am "You didn't download a copy of the file to show me?"
-    am "You didn't download a copy of the file to show me?"
+    am "你没有下载一份文件副本给我看？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:200
 translate chinese sm1cs_am003_ebdb91ef:
 
     # mc "I didn't think it would be a problem."
-    mc "I didn't think it would be a problem."
+    mc "我没想到会有问题。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:203
 translate chinese sm1cs_am003_eb6f2c0d:
 
     # mc "Hey, there is a coffee shop nearby. They gotta have better wifi than the park."
-    mc "Hey, there is a coffee shop nearby. They gotta have better wifi than the park."
+    mc "嘿，附近有一家咖啡店。他们的无线网肯定比公园的好。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:206
 translate chinese sm1cs_am003_db8c188d:
 
     # am "And?"
-    am "And?"
+    am "然后呢？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:210
 translate chinese sm1cs_am003_88b8407f:
 
     # mc "And you could come with me. It's only a short walk."
-    mc "And you could come with me. It's only a short walk."
+    mc "然后你可以跟我一起去。走过去没多远。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:213
 translate chinese sm1cs_am003_226d75de:
 
     # am "Okay. But I can only look through the stuff for an hour today."
-    am "Okay. But I can only look through the stuff for an hour today."
+    am "好吧。但我今天只能花一个小时看这些东西。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:217
 translate chinese sm1cs_am003_c2d87ca9:
 
     # mc "Then there is no time to waste."
-    mc "Then there is no time to waste."
+    mc "那就没有时间可以浪费了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:235
 translate chinese sm1cs_am003_2b951d59:
 
     # mc "Grab a seat somewhere. What would you like to drink?"
-    mc "Grab a seat somewhere. What would you like to drink?"
+    mc "找个地方坐下吧。你想喝点什么？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:239
 translate chinese sm1cs_am003_fe166261:
 
     # am "Dark roast coffee."
-    am "Dark roast coffee."
+    am "深烘焙咖啡。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:264
 translate chinese sm1cs_am003_11a20e88:
 
     # mc "One vento light roast and one dark roast please."
-    mc "One vento light roast and one dark roast please."
+    mc "请给我一杯超大杯浅烘焙咖啡，还有一杯深烘焙咖啡。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:266
 translate chinese sm1cs_am003_f305608a:
 
     # cs "Sure."
-    cs "Sure."
+    cs "好的。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:284
 translate chinese sm1cs_am003_06eccbc2:
 
     # cs "And here you go."
-    cs "And here you go."
+    cs "给您。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:286
 translate chinese sm1cs_am003_e9721ff3:
 
     # mc "Thank you!"
-    mc "Thank you!"
+    mc "谢谢！"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:290
 translate chinese sm1cs_am003_ba3fd6b1:
 
     # mc "Ohe dark roast coffee for the girl who roasts me every day."
-    mc "Ohe dark roast coffee for the girl who roasts me every day."
+    mc "为每天挖苦我的姑娘献上一杯深烘焙咖啡。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:293
 translate chinese sm1cs_am003_20494680:
 
     # am "Thank you for the drink."
-    am "Thank you for the drink."
+    am "谢谢你的饮料。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:297
 translate chinese sm1cs_am003_a7a92e8f:
 
     # mc "No problem."
-    mc "No problem."
+    mc "不客气。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:303
 translate chinese sm1cs_am003_905ee756:
 
     # mct "Ah. That is the spot."
-    mct "Ah. That is the spot."
+    mct "啊。这个位置不错。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:306
 translate chinese sm1cs_am003_3d905e5a:
 
     # mc "Alright let's see."
-    mc "Alright let's see."
+    mc "好吧，让我们看看。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:309
 translate chinese sm1cs_am003_f04b7836:
 
     # am "You better not be swiping girls on Ember right now."
-    am "You better not be swiping girls on Ember right now."
+    am "你最好现在没在约会软件上刷别的妹子。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:312
 translate chinese sm1cs_am003_2d15a3a3:
 
     # mc "Huh? No, I'm getting onto their wifi."
-    mc "Huh? No, I'm getting onto their wifi."
+    mc "啊？ 没有，我在连他们的无线网呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:313
 translate chinese sm1cs_am003_9ffd7377:
 
     # mc "There. The file is downloaded."
-    mc "There. The file is downloaded."
+    mc "好了。文件下载好了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:316
 translate chinese sm1cs_am003_33adcb95:
 
     # mc "Is something the matter, April?"
-    mc "Is something the matter, April?"
+    mc "你怎么了吗，艾普尔？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:319
 translate chinese sm1cs_am003_ca9489b5:
 
     # am "No. Nothing."
-    am "No. Nothing."
+    am "没有。没什么。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:327
 translate chinese sm1cs_am003_1c8acf17_1:
@@ -494,109 +494,109 @@ translate chinese sm1cs_am003_1c8acf17_1:
 translate chinese sm1cs_am003_72f2508b:
 
     # am "Hold on one sec."
-    am "Hold on one sec."
+    am "等一下。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:334
 translate chinese sm1cs_am003_3054de01:
 
     # am "Hey Pepper. Yeah, they texted me."
-    am "Hey Pepper. Yeah, they texted me."
+    am "嘿，佩珀。对，他们给我发短信了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:335
 translate chinese sm1cs_am003_898840ea:
 
     # am "It's going to be great.{w} I'm thinking some face paint.{w} I know, I'm excited."
-    am "It's going to be great.{w} I'm thinking some face paint.{w} I know, I'm excited."
+    am "一定会很棒的。{w}我在想要不要画点脸部彩绘。{w}我知道，我很期待。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:338
 translate chinese sm1cs_am003_8180d435:
 
     # mct "What is going on here? While she's talking to this 'Pepper', its like April is a completely different person."
-    mct "What is going on here? While she's talking to this 'Pepper', its like April is a completely different person."
+    mct "这是怎么回事？艾普尔跟这个佩珀说话的时候，她就像完全变了一个人似的。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:341
 translate chinese sm1cs_am003_8a6dc8d6:
 
     # am "Yeah. He just needs to chill."
-    am "Yeah. He just needs to chill."
+    am "是啊，他只是需要冷静一下。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:342
 translate chinese sm1cs_am003_c1a91d47:
 
     # am "You know me. I've been practicing during all my free time."
-    am "You know me. I've been practicing during all my free time."
+    am "你了解我的。我一直在利用空闲时间练习。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:344
 translate chinese sm1cs_am003_50f0f82e:
 
     # am "Because I'm {i}with{/i} a guy from work right now."
-    am "Because I'm {i}with{/i} a guy from work right now."
+    am "因为我现在正{i}和{/i}一个同事在一起呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:347
 translate chinese sm1cs_am003_034c4511:
 
     # am "Shut up. Okay.{w} Okay, I don't know about that."
-    am "Shut up. Okay.{w} Okay, I don't know about that."
+    am "闭嘴。好的。{w}好吧，关于那个我不太确定。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:348
 translate chinese sm1cs_am003_454ffb73:
 
     # am "Yes, I will see you later. Bye."
-    am "Yes, I will see you later. Bye."
+    am "好，晚点见。拜拜。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:352
 translate chinese sm1cs_am003_7467dc14:
 
     # am "Pepper is one of my bandmates. We uh... we're going through a rough spot right now, and if someone on the band calls, you pretty much have to pick it up."
-    am "Pepper is one of my bandmates. We uh... we're going through a rough spot right now, and if someone on the band calls, you pretty much have to pick it up."
+    am "佩珀是我的乐队成员之一。呃...我们现在正经历一段艰难时期，要是乐队里有人打电话来，基本上就得接。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:355
 translate chinese sm1cs_am003_3a38c822:
 
     # am "I didn't mean to get distracted. You came to me with a problem."
-    am "I didn't mean to get distracted. You came to me with a problem."
+    am "我不是故意分心的。我知道你来是找我解决问题的。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:356
 translate chinese sm1cs_am003_8bba9938:
 
     # mc "That's cool. I didn't know you were even in a band. What do you play?"
-    mc "That's cool. I didn't know you were even in a band. What do you play?"
+    mc "太酷了。我都不知道你还组过乐队。你会什么乐器？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:359
 translate chinese sm1cs_am003_62ed9bfe:
 
     # am "Guitar. And I sing a bit too. I love it. But lately... lately, it's felt more like work than usual."
-    am "Guitar. And I sing a bit too. I love it. But lately... lately, it's felt more like work than usual."
+    am "弹吉他。唱歌我也会一点。我很喜欢乐队的体验。但最近...最近感觉比平时更像工作。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:362
 translate chinese sm1cs_am003_189dae3a:
 
     # mc "Like it's not fun anymore?"
-    mc "Like it's not fun anymore?"
+    mc "你是说它没那么有趣了？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:365
 translate chinese sm1cs_am003_b689b960:
 
     # am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
-    am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
+    am "是的，有很多事情要做。我...我们必须做出决定。艰难的决定。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:366
 translate chinese sm1cs_am003_5bd7e194:
 
     # am "*clears throat*"
-    am "*clears throat*"
+    am "*清嗓子*"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:367
 translate chinese sm1cs_am003_e9a611be:
 
     # am "Nobody has asked me out for coffee in a while."
-    am "Nobody has asked me out for coffee in a while."
+    am "很久没有人约我喝咖啡了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:370
 translate chinese sm1cs_am003_f1dc29f0:
 
     # mc "Uhhh, right."
-    mc "Uhhh, right."
+    mc "嗯，对。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:373
 translate chinese sm1cs_am003_1409596f:
