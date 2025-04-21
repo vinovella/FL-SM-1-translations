@@ -2,313 +2,313 @@
 translate chinese sm1cs_am004_6aae1520:
 
     # mct "Show hasn't started yet."
-    mct "Show hasn't started yet."
+    mct "演出还没开始呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:50
 translate chinese sm1cs_am004_4bcf7214:
 
     # mct "I don't see April, but those must be her bandmates."
-    mct "I don't see April, but those must be her bandmates."
+    mct "我没看到艾普尔，但那些肯定是她的乐队成员。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:56
 translate chinese sm1cs_am004_65d3c1ab:
 
     # mc "Hey April."
-    mc "Hey April."
+    mc "嘿，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:59
 translate chinese sm1cs_am004_a7021baf:
 
     # am "You came?"
-    am "You came?"
+    am "你真的来了？"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:61
 translate chinese sm1cs_am004_5bc2f732:
 
     # mc "You invited me."
-    mc "You invited me."
+    mc "是你邀请我的呀。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:64
 translate chinese sm1cs_am004_96020bed:
 
     # am "Yeah, but that's just like... what people do, right?"
-    am "Yeah, but that's just like... what people do, right?"
+    am "是啊，但人们不都这么...随口一说嘛，不是吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:70
 translate chinese sm1cs_am004_fb769e21:
 
     # mc "Are you nervous to play for me?"
-    mc "Are you nervous to play for me?"
+    mc "你是因为要在我面前表演而紧张吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:74
 translate chinese sm1cs_am004_ee31e84b:
 
     # am "What? No. Don't be a dummy."
-    am "What? No. Don't be a dummy."
+    am "什么？才不是。别傻了。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:77
 translate chinese sm1cs_am004_8d9a4ac1:
 
     # am "I'm just a little surprised, is all."
-    am "I'm just a little surprised, is all."
+    am "我只是有点惊讶而已。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:79
 translate chinese sm1cs_am004_5671a31e:
 
     # mc "It's okay to be nervous."
-    mc "It's okay to be nervous."
+    mc "紧张也没什么的。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:83
 translate chinese sm1cs_am004_7c445318:
 
     # am "I haven't been nervous since I was ten. Got it?"
-    am "I haven't been nervous since I was ten. Got it?"
+    am "我从十岁起就没紧张过。明白了吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:85
 translate chinese sm1cs_am004_473f6d41:
 
     # mc "Yup."
-    mc "Yup."
+    mc "明白。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:90
 translate chinese sm1cs_am004_5f73e6ca:
 
     # mc "I mean, I can go if you don't want me here."
-    mc "I mean, I can go if you don't want me here."
+    mc "我是说，要是你不想我在这儿，我可以走。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:93
 translate chinese sm1cs_am004_1f439796:
 
     # am "No no. I didn't mean it like that, [mcname]."
-    am "No no. I didn't mean it like that, [mcname]."
+    am "不不。我不是那个意思，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:96
 translate chinese sm1cs_am004_9d09f2b0:
 
     # am "It's a free country, [mcname]. Stay or go. It makes no difference to me."
-    am "It's a free country, [mcname]. Stay or go. It makes no difference to me."
+    am "这是个自由的国家，[mcname]。你想走就走，想留就留。对我来说没什么区别。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:97
 translate chinese sm1cs_am004_ae23ebbd:
 
     # am "But I think you'll like it. So I don't know, stick around."
-    am "But I think you'll like it. So I don't know, stick around."
+    am "但我觉得你会喜欢我们的表演的。所以我也不知道，就留下吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:98
 translate chinese sm1cs_am004_b06934ce:
 
     # am "You're already here anyhow."
-    am "You're already here anyhow."
+    am "反正你已经来了。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:101
 translate chinese sm1cs_am004_716019b8:
 
     # mc "Right."
-    mc "Right."
+    mc "也对。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:107
 translate chinese sm1cs_am004_9aa2609f:
 
     # mc "I'm glad I came. You look amazing, April."
-    mc "I'm glad I came. You look amazing, April."
+    mc "我很高兴我来了。你看起来美极了，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:110
 translate chinese sm1cs_am004_c68a45b4:
 
     # am "Oh really? Now who's sending mixed signals?"
-    am "Oh really? Now who's sending mixed signals?"
+    am "哦，真的吗？现在是谁又在传递让人误解的信号了？"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:113
 translate chinese sm1cs_am004_2629b42b:
 
     # mc "What? I don't understand."
-    mc "What? I don't understand."
+    mc "什么？我不明白你的意思。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:115
 translate chinese sm1cs_am004_7d1da7c1:
 
     # am "At the coffee shop, you said you weren't interested in me."
-    am "At the coffee shop, you said you weren't interested in me."
+    am "在咖啡店的时候，你说过你对我没兴趣。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:118
 translate chinese sm1cs_am004_76042c93:
 
     # mct "You are one twisted pretzel, April."
-    mct "You are one twisted pretzel, April."
+    mct "你可真是个让人捉摸不透的人，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:119
 translate chinese sm1cs_am004_957e7d93:
 
     # mc "I said, that if I wanted to ask you out, I would ask you out."
-    mc "I said, that if I wanted to ask you out, I would ask you out."
+    mc "我说的是，如果我想约你出去，我就会直接约你。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:122
 translate chinese sm1cs_am004_2b6ae213:
 
     # am "Oh, of course."
-    am "Oh, of course."
+    am "哦，你当然这么说啦。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:123
 translate chinese sm1cs_am004_167be35e:
 
     # am "I should probably-"
-    am "I should probably-"
+    am "我可能该--"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:129
 translate chinese sm1cs_am004_c6a5927b:
 
     # ps "Talk to the groupies later, April. Come on, we're about to start."
-    ps "Talk to the groupies later, April. Come on, we're about to start."
+    ps "待会儿再和这些粉丝聊吧，艾普尔。快点，我们马上要开始了。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:132
 translate chinese sm1cs_am004_a696e679:
 
     # am "He's not a groupie."
-    am "He's not a groupie."
+    am "他不是什么粉丝。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:137
 translate chinese sm1cs_am004_a6fe189d:
 
     # ps "Whatever. One-night-dickbringer, FWB, boytoy, it doesn't matter. Mitch isn't going to care. Come on."
-    ps "Whatever. One-night-dickbringer, FWB, boytoy, it doesn't matter. Mitch isn't going to care. Come on."
+    ps "随便啦。一夜情对象、炮友、小白脸，都无所谓。米奇才不会在意呢。快点。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:140
 translate chinese sm1cs_am004_0a91fb01:
 
     # am "Talk later."
-    am "Talk later."
+    am "回头再聊。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:142
 translate chinese sm1cs_am004_473f6d41_1:
 
     # mc "Yup."
-    mc "Yup."
+    mc "嗯哼。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:146
 translate chinese sm1cs_am004_ae81d45f:
 
     # mct "She's definitely different than Lydia."
-    mct "She's definitely different than Lydia."
+    mct "她和莉迪亚可真是截然不同。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:149
 translate chinese sm1cs_am004_865c8254:
 
     # mct "Where the hell did that come from? I haven't thought about Lydia since things broke apart between us."
-    mct "Where the hell did that come from? I haven't thought about Lydia since things broke apart between us."
+    mct "我怎么突然想起这个了？自从我和莉迪亚分手之后，我就再没想过她了。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:152
 translate chinese sm1cs_am004_a11cef15:
 
     # mct "April and Lydia are nothing alike. Or... at least they don't seem anything alike."
-    mct "April and Lydia are nothing alike. Or... at least they don't seem anything alike."
+    mct "艾普尔和莉迪亚一点都不像。或者说...至少外表看来，她们一点都不像。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:156
 translate chinese sm1cs_am004_9dd94843:
 
     # mct "Just calm down. Take a breath. You're going to be fine."
-    mct "Just calm down. Take a breath. You're going to be fine."
+    mct "冷静点。深呼吸。你会没事的。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:158
 translate chinese sm1cs_am004_cda5ad99:
 
     # mct "You're okay. No one is locking your cock in a cage or anything."
-    mct "You're okay. No one is locking your cock in a cage or anything."
+    mct "你没问题的。没人会把你的命根子锁在笼子里之类的。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:159
 translate chinese sm1cs_am004_7d476efa:
 
     # mct "April is not Lydia."
-    mct "April is not Lydia."
+    mct "艾普尔不是莉迪亚。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:160
 translate chinese sm1cs_am004_3853d0df:
 
     # mct "I should get a drink."
-    mct "I should get a drink."
+    mct "我该去喝一杯。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:173
 translate chinese sm1cs_am004_df1809f0:
 
     # mct "Shit. That burns. But... I needed it."
-    mct "Shit. That burns. But... I needed it."
+    mct "靠。真辣。不过...我正需要这个。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:175
 translate chinese sm1cs_am004_71088954:
 
     # mct "Stupid to worry like that. Lydia is gone, and April hasn't done anything to hurt me."
-    mct "Stupid to worry like that. Lydia is gone, and April hasn't done anything to hurt me."
+    mct "像这样瞎担心真傻。莉迪亚已经走了，而且艾普尔也没做过什么伤害我的事。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:176
 translate chinese sm1cs_am004_8b894378:
 
     # mct "Okay, April is pretty sharp-tongued and gives me a lot of shit, but that's just her way. She seems to love breaking everyone's balls."
-    mct "Okay, April is pretty sharp-tongued and gives me a lot of shit, but that's just her way. She seems to love breaking everyone's balls."
+    mct "好吧，艾普尔确实说话很尖刻，还老找我茬，但那就是她的行事风格。她好像就喜欢刁难所有人。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:189
 translate chinese sm1cs_am004_ag_appears_a148e296:
 
     # ag "Hey there, stranger."
-    ag "Hey there, stranger."
+    ag "嘿，好久不见啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:192
 translate chinese sm1cs_am004_ag_appears_143c6865:
 
     # mc "Anna!"
-    mc "Anna!"
+    mc "安娜！"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:194
 translate chinese sm1cs_am004_ag_appears_b5a5d0aa:
 
     # ag "Wow. You look like you've seen a ghost."
-    ag "Wow. You look like you've seen a ghost."
+    ag "喂。你一副见鬼了的样子。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:195
 translate chinese sm1cs_am004_ag_appears_81992c0d:
 
     # ag "It's just me."
-    ag "It's just me."
+    ag "是我啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:198
 translate chinese sm1cs_am004_ag_appears_0dce3f68:
 
     # mc "Yes it is. How are you doing?"
-    mc "Yes it is. How are you doing?"
+    mc "哦，是你。你好吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:200
 translate chinese sm1cs_am004_ag_appears_378b7f9a:
 
     # ag "Pretty good. Just debating if I should pop in some earplugs when the music starts."
-    ag "Pretty good. Just debating if I should pop in some earplugs when the music starts."
+    ag "还不错。只是在纠结，等音乐开始的时候要不要戴上耳塞。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:203
 translate chinese sm1cs_am004_ag_appears_eb093abb:
 
     # mc "Are you a fan of April's music?"
-    mc "Are you a fan of April's music?"
+    mc "你是艾普尔乐队的歌迷吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:205
 translate chinese sm1cs_am004_ag_appears_3ccab8e3:
 
     # ag "No. Not really. It's just loud and grungy. Not my usual jam."
-    ag "No. Not really. It's just loud and grungy. Not my usual jam."
+    ag "不，算不上。他们的音乐太吵，太邋遢。不是我平时喜欢的类型。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:208
 translate chinese sm1cs_am004_ag_appears_db87e654:
 
     # ag "I'm just here to see April crash and burn."
-    ag "I'm just here to see April crash and burn."
+    ag "我就是来看看艾普尔出洋相的。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:210
 translate chinese sm1cs_am004_ag_appears_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:211
 translate chinese sm1cs_am004_ag_appears_796aeef4:
 
     # ag "She never has trouble at the office, so I figure if I want to see her stumble, it will be on that stage."
-    ag "She never has trouble at the office, so I figure if I want to see her stumble, it will be on that stage."
+    ag "她在办公室里从来都不会出什么岔子，所以我觉得要是想看到她栽跟头，那肯定是在那个舞台上。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:215
 translate chinese sm1cs_am004_ag_appears_c89b3a88:
