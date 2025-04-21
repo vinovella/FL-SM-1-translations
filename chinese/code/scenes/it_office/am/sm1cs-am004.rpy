@@ -314,349 +314,349 @@ translate chinese sm1cs_am004_ag_appears_796aeef4:
 translate chinese sm1cs_am004_ag_appears_c89b3a88:
 
     # mc "That's kind of messed up."
-    mc "That's kind of messed up."
+    mc "你这么想可有点过分了。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:218
 translate chinese sm1cs_am004_ag_appears_c7fe1826:
 
     # ag "Relax, I'm just kidding, [mcname]. Stubborn as she can be, I still like April."
-    ag "Relax, I'm just kidding, [mcname]. Stubborn as she can be, I still like April."
+    ag "别紧张，我只是在开玩笑，[mcname]。尽管艾普尔有时候很固执，但我还是挺喜欢她的。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:221
 translate chinese sm1cs_am004_ag_appears_aa616e0e:
 
     # ag "And she randomly texted me an invite to the gig."
-    ag "And she randomly texted me an invite to the gig."
+    ag "而且她还突然给我发短信，邀请我来看这场演出。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:223
 translate chinese sm1cs_am004_ag_appears_a167a0ba:
 
     # mc "That doesn't sound like her."
-    mc "That doesn't sound like her."
+    mc "这可不太像她的风格。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:227
 translate chinese sm1cs_am004_ag_appears_d8406979:
 
     # ag "Totally. I think I was just as surprised to get the invite as you were to see me here."
-    ag "Totally. I think I was just as surprised to get the invite as you were to see me here."
+    ag "就是啊。你现在看到我站在这儿有多吃惊，我当时收到邀请时就有多意外。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:231
 translate chinese sm1cs_am004_ag_appears_721f93b0:
 
     # mc "Looks like they're starting."
-    mc "Looks like they're starting."
+    mc "看来他们要开始表演了。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:235
 translate chinese sm1cs_am004_ag_appears_d6a2cbf1:
 
     # mcon "Hey everyone. We're Moonstone Blaze and we want you all to come on a journey with us!"
-    mcon "Hey everyone. We're Moonstone Blaze and we want you all to come on a journey with us!"
+    mcon "大家好。我们是--月长石烈焰乐队，希望大家能和我们一起踏上一段奇妙之旅！"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:239
 translate chinese sm1cs_am004_ag_appears_395d02a4:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*cheering*"
+    "人群" "*欢呼*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:242
 translate chinese sm1cs_am004_ag_appears_d34041f6:
 
     # mcon "For any losers who don't know, I'm Mitch Conner, lead guitar."
-    mcon "For any losers who don't know, I'm Mitch Conner, lead guitar."
+    mcon "要是有哪个蠢货还不知道的话，我是米奇・康纳，主吉他手。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:245
 translate chinese sm1cs_am004_ag_appears_395d02a4_1:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*cheering*"
+    "人群" "*欢呼*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:248
 translate chinese sm1cs_am004_ag_appears_0323f92f:
 
     # mcon "On drums we have Pepper Storm."
-    mcon "On drums we have Pepper Storm."
+    mcon "我们鼓手，佩珀・斯托姆。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:252
 translate chinese sm1cs_am004_ag_appears_395d02a4_2:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*cheering*"
+    "人群" "*欢呼*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:255
 translate chinese sm1cs_am004_ag_appears_e9508810:
 
     # mcon "And on base we have April the Merciless!"
-    mcon "And on base we have April the Merciless!"
+    mcon "我们的贝斯手，冷酷无情的艾普尔！"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:266
 translate chinese sm1cs_am004_ag_appears_395d02a4_3:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*cheering*"
+    "人群" "*欢呼*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:272
 translate chinese sm1cs_am004_ag_appears_cebe9fd8:
 
     # mc "Let's go. Rock on, April!"
-    mc "Let's go. Rock on, April!"
+    mc "加油啊。尽情摇滚吧，艾普尔！"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:279
 translate chinese sm1cs_am004_ag_appears_f3520090:
 
     # ag "Merciless sounds about right."
-    ag "Merciless sounds about right."
+    ag "“冷酷无情”这个称呼听起来还挺贴切的。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:281
 translate chinese sm1cs_am004_ag_appears_4661a639:
 
     # mc "Mmhmm."
-    mc "Mmhmm."
+    mc "嗯嗯。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:295
 translate chinese sm1cs_am004_music_87a40daa:
 
     # mcon "Take it away, Pepper!"
-    mcon "Take it away, Pepper!"
+    mcon "开始吧，佩珀！"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:303
 translate chinese sm1cs_am004_music_411f177d:
 
     # ps "One two three four!{w=2.0}{nw}"
-    ps "One two three four!{w=2.0}{nw}"
+    ps "一，二，三，四！{w=2.0}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:306
 translate chinese sm1cs_am004_music_1ef0e337:
 
     # mcon "*singing* In the forest of concrete, we dance wild and free.{w=3.5}{nw}"
-    mcon "*singing* In the forest of concrete, we dance wild and free.{w=3.5}{nw}"
+    mcon "*歌唱* 钢筋森林里，我们肆意舞狂浪{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:308
 translate chinese sm1cs_am004_music_3dacc7d4:
 
     # mcon "*singing* Underneath the moon's gaze, where spirits roam with glee.{w=3.8}{nw}"
-    mcon "*singing* Underneath the moon's gaze, where spirits roam with glee.{w=3.8}{nw}"
+    mcon "*歌唱* 月光倾洒处，灵魂自在地翱翔{w=3.8}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:310
 translate chinese sm1cs_am004_music_6d5e03c0:
 
     # mcon "*singing* We're the children of the chaos, the rebels of the yore!{w=4.2}{nw}"
-    mcon "*singing* We're the children of the chaos, the rebels of the yore!{w=4.2}{nw}"
+    mcon "*歌唱* 混沌的子民，叛逆书写旧时光！{w=4.2}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:312
 translate chinese sm1cs_am004_music_356abae4:
 
     # mcon "*singing* Join our deadly prayers. Let the thunder roar!{w=3.6}{nw}"
-    mcon "*singing* Join our deadly prayers. Let the thunder roar!{w=3.6}{nw}"
+    mcon "*歌唱* 致命的祷唱，引雷响彻这穹苍！{w=3.6}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:314
 translate chinese sm1cs_am004_music_3744bc7a:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* Lost souls with stoney hearts!{w=3.5}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* Lost souls with stoney hearts!{w=3.5}{nw}"
+    "{color=#b81c0c}米奇{/color}和{color=#79c18d}艾普尔{/color}" "*歌唱* 失魂又落魄，心似铁石般冷刚！{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:316
 translate chinese sm1cs_am004_music_793dc37c:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We'll tear down walls and break society's parts.{w=3.5}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We'll tear down walls and break society's parts.{w=3.5}{nw}"
+    "{color=#b81c0c}米奇{/color}和{color=#79c18d}艾普尔{/color}" "*歌唱* 推倒旧高墙，撕裂社会的罗网{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:318
 translate chinese sm1cs_am004_music_5fc828ba:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* With fire in our eyes and spells in our veins{w=4.25}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* With fire in our eyes and spells in our veins{w=4.25}{nw}"
+    "{color=#b81c0c}米奇{/color}和{color=#79c18d}艾普尔{/color}" "*歌唱* 眼中燃烈焰，魔力在血脉中荡{w=4.25}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:320
 translate chinese sm1cs_am004_music_6762bd11:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We chant our anthems in the pouring rain!{w=2.25}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We chant our anthems in the pouring rain!{w=2.25}{nw}"
+    "{color=#b81c0c}米奇{/color}和{color=#79c18d}艾普尔{/color}" "*歌唱* 暴雨中高歌，唱出心中的信仰！{w=2.25}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:323
 translate chinese sm1cs_am004_music_0ea6724a:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "KEEP UP THE FIGHT!{w=1.5}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "KEEP UP THE FIGHT!{w=1.5}{nw}"
+    "{color=#b81c0c}米奇{/color}和{color=#79c18d}April{/color}" "坚持战斗！{w=1.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:346
 translate chinese sm1cs_am004_music_1_end_587a13c6:
 
     # mc "I've never seen April like this."
-    mc "I've never seen April like this."
+    mc "我从没见过艾普尔这样。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:348
 translate chinese sm1cs_am004_music_1_end_262c5e5f:
 
     # ag "I have."
-    ag "I have."
+    ag "我见过。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:362
 translate chinese sm1cs_am004_more_about_ag_0f9faa6a:
 
     # mc "So things used to be a lot different between you two."
-    mc "So things used to be a lot different between you two."
+    mc "这么说，你们俩以前的关系和现在很不一样。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:365
 translate chinese sm1cs_am004_more_about_ag_1059b893:
 
     # ag "You could say that."
-    ag "You could say that."
+    ag "可以这么说。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:368
 translate chinese sm1cs_am004_more_about_ag_daaa629c:
 
     # mc "If you miss her that much, you should say something."
-    mc "If you miss her that much, you should say something."
+    mc "要是你这么想念她，就应该跟她说出来。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:370
 translate chinese sm1cs_am004_more_about_ag_aeced0b5:
 
     # ag "I do miss her. But I made a choice, and I have to stand by it, [mcname]."
-    ag "I do miss her. But I made a choice, and I have to stand by it, [mcname]."
+    ag "我确实很想她。但我做出了选择，就必须坚持下去，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:371
 translate chinese sm1cs_am004_more_about_ag_e92aa53a:
 
     # ag "But I didn't think my promotion would change things between us so much."
-    ag "But I didn't think my promotion would change things between us so much."
+    ag "我只是没想到我升职之后，我们之间的关系会发生这么大的变化。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:377
 translate chinese sm1cs_am004_more_about_ag_6949442b:
 
     # mc "It's not your fault, Anna. If you two were friends, {i}true{/i} friends, she should understand that you were just doing what you needed to do for yourself."
-    mc "It's not your fault, Anna. If you two were friends, {i}true{/i} friends, she should understand that you were just doing what you needed to do for yourself."
+    mc "这不是你的错，安娜。要是你们俩是朋友，{i}真正的{/i}朋友，她应该明白，你只是在做你自己该做的事。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:380
 translate chinese sm1cs_am004_more_about_ag_92ec7030:
 
     # mc "It's not like you bailed on her and quit the company or anything."
-    mc "It's not like you bailed on her and quit the company or anything."
+    mc "又不是说你抛弃了她，然后辞职离开了公司什么的。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:383
 translate chinese sm1cs_am004_more_about_ag_44af8f47:
 
     # ag "Exactly! But almost every day she acts like an absolute bitch to me."
-    ag "Exactly! But almost every day she acts like an absolute bitch to me."
+    ag "就是啊！可几乎每天，她对我的态度都差到了极点。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:385
 translate chinese sm1cs_am004_more_about_ag_a7e04290:
 
     # mc "*laughing* April the Merciless."
-    mc "*laughing* April the Merciless."
+    mc "*笑着说* 冷酷无情的艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:388
 translate chinese sm1cs_am004_more_about_ag_1e860b42:
 
     # ag "You're goddamn right about that ."
-    ag "You're goddamn right about that ."
+    ag "你说得太对了。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:395
 translate chinese sm1cs_am004_more_about_ag_ff7a0170:
 
     # mc "I don't believe that. You're smart, Anna. You had to know that April would take it personally when you took a promotion to be above her."
-    mc "I don't believe that. You're smart, Anna. You had to know that April would take it personally when you took a promotion to be above her."
+    mc "我可不这么认为。你很聪明，安娜。你肯定知道，当你升职后，成为她的上级时，艾普尔会觉得你是针对她。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:398
 translate chinese sm1cs_am004_more_about_ag_fe047c23:
 
     # ag "Oh really? So I was dumb to think my friend would support me?"
-    ag "Oh really? So I was dumb to think my friend would support me?"
+    ag "哦，真的吗？所以我以为我的朋友会支持我，是我太傻了吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:401
 translate chinese sm1cs_am004_more_about_ag_4146d77d:
 
     # ag "We both came up together in the company, [mcname]."
-    ag "We both came up together in the company, [mcname]."
+    ag "我们俩是一起在公司打拼上来的，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:402
 translate chinese sm1cs_am004_more_about_ag_53b9d94d:
 
     # ag "And if the tables were turned, I wouldn't drag April down every day like she does to me."
-    ag "And if the tables were turned, I wouldn't drag April down every day like she does to me."
+    ag "而且要是情况反过来，我可不会像她每天对我那样，故意打压她。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:405
 translate chinese sm1cs_am004_more_about_ag_6dc7246c:
 
     # ag "I just don't get her sometimes."
-    ag "I just don't get her sometimes."
+    ag "我有时候真的搞不懂她。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:407
 translate chinese sm1cs_am004_more_about_ag_0563d725:
 
     # mc "Yeah. She said she keeps things close to the chest."
-    mc "Yeah. She said she keeps things close to the chest."
+    mc "是啊。她说她不轻易表露自己的想法。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:410
 translate chinese sm1cs_am004_more_about_ag_f8e96a9f:
 
     # ag "More like buried in her chest."
-    ag "More like buried in her chest."
+    ag "说得好听，她更像是把自己的想法都深埋在心底。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:422
 translate chinese sm1cs_am004_continue_fef45dc8:
 
     # mcon "*singing* Keep your rules, we'll break the chains. No one dares to mess with our brains.{w=4.0}{nw}"
-    mcon "*singing* Keep your rules, we'll break the chains. No one dares to mess with our brains.{w=4.0}{nw}"
+    mcon "*歌唱* 坚守你规矩，我偏要挣脱囚缰。无人敢侵扰，这坚定不羁的思想。{w=4.0}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:424
 translate chinese sm1cs_am004_continue_0d80df6d:
 
     # mcon "*singing* Even those who are insane will just hide away.{w=3.5}{nw}"
-    mcon "*singing* Even those who are insane will just hide away.{w=3.5}{nw}"
+    mcon "*歌唱* 疯狂的世人，也只能暗自躲藏{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:426
 translate chinese sm1cs_am004_continue_54feb24a:
 
     # mcon "*singing* We're the children of the chaos, we feel your frightened gaze.{w=3.5}{nw}"
-    mcon "*singing* We're the children of the chaos, we feel your frightened gaze.{w=3.5}{nw}"
+    mcon "*歌唱* 我们是混沌之子，不惧你惊惶目光{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:428
 translate chinese sm1cs_am004_continue_c1b1bf5f:
 
     # mcon "*singing* With bare flesh and hearts ablaze{w=2.0}{nw}"
-    mcon "*singing* With bare flesh and hearts ablaze{w=2.0}{nw}"
+    mcon "*歌唱* 肌肤袒露间，心火熊熊地绽放{w=2.0}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:430
 translate chinese sm1cs_am004_continue_adc60659:
 
     # mcon "*singing* - We stand tall! Wishing for the forgotten age!{w=2.0}{nw}"
-    mcon "*singing* - We stand tall! Wishing for the forgotten age!{w=2.0}{nw}"
+    mcon "*歌唱* - 昂首挺胸膛，向往那失落的远方！{w=2.0}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:432
 translate chinese sm1cs_am004_continue_3744bc7a:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* Lost souls with stoney hearts!{w=3.5}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* Lost souls with stoney hearts!{w=3.5}{nw}"
+    "{color=#b81c0c}米奇{/color}和{color=#79c18d}艾普尔{/color}" "*歌唱* 继续去闯荡，让热血永远滚烫！{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:434
 translate chinese sm1cs_am004_continue_793dc37c:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We'll tear down walls and break society's parts.{w=3.5}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We'll tear down walls and break society's parts.{w=3.5}{nw}"
+    "{color=#b81c0c}米奇{/color}和{color=#79c18d}艾普尔{/color}" "*歌唱* 推倒旧高墙，撕裂社会的罗网{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:436
 translate chinese sm1cs_am004_continue_5fc828ba:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* With fire in our eyes and spells in our veins{w=4.25}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* With fire in our eyes and spells in our veins{w=4.25}{nw}"
+    "{color=#b81c0c}米奇{/color}和{color=#79c18d}艾普尔{/color}" "*歌唱* 眼中燃烈焰，魔力在血脉中荡{w=4.25}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:438
 translate chinese sm1cs_am004_continue_6762bd11:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We chant our anthems in the pouring rain!{w=2.25}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We chant our anthems in the pouring rain!{w=2.25}{nw}"
+    "{color=#b81c0c}米奇{/color}和{color=#79c18d}艾普尔{/color}" "*歌唱* 暴雨中高歌，唱出心中的信仰！{w=2.25}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:440
 translate chinese sm1cs_am004_continue_cfffe58f:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "KEEP UP THE FIGHT!{w=1.2}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "KEEP UP THE FIGHT!{w=1.2}{nw}"
+    "{color=#b81c0c}米奇{/color}和{color=#79c18d}艾普尔{/color}" "坚持战斗！{w=1.2}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:473
 translate chinese sm1cs_am004_music_2_end_395d02a4:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*cheering*"
+    "人群" "*欢呼*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:476
 translate chinese sm1cs_am004_music_2_end_8ede7d85:
