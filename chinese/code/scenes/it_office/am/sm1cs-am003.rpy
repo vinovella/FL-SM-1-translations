@@ -560,25 +560,25 @@ translate chinese sm1cs_am003_3a38c822:
 translate chinese sm1cs_am003_8bba9938:
 
     # mc "That's cool. I didn't know you were even in a band. What do you play?"
-    mc "太酷了。我都不知道你还组过乐队。你会什么乐器？"
+    mc "酷哎。我都不知道你竟然还加入了一个乐队。你负责演奏什么呢？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:359
 translate chinese sm1cs_am003_62ed9bfe:
 
     # am "Guitar. And I sing a bit too. I love it. But lately... lately, it's felt more like work than usual."
-    am "弹吉他。唱歌我也会一点。我很喜欢乐队的体验。但最近...最近感觉比平时更像工作。"
+    am "吉他。唱歌我也会一点。我很喜欢搞乐队。但最近...最近，感觉它比平常更像是一份工作了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:362
 translate chinese sm1cs_am003_189dae3a:
 
     # mc "Like it's not fun anymore?"
-    mc "你是说它没那么有趣了？"
+    mc "你是说不再像以前那么有趣了吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:365
 translate chinese sm1cs_am003_b689b960:
 
     # am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
-    am "是的，有很多事情要做。我...我们必须做出决定。艰难的决定。"
+    am "是的。有很多事情要处理。有些决定我...我们必须得做。艰难的决定。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:366
 translate chinese sm1cs_am003_5bd7e194:
@@ -596,289 +596,289 @@ translate chinese sm1cs_am003_e9a611be:
 translate chinese sm1cs_am003_f1dc29f0:
 
     # mc "Uhhh, right."
-    mc "嗯，对。"
+    mc "呃，这样啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:373
 translate chinese sm1cs_am003_1409596f:
 
     # am "You wanted to ask me something?"
-    am "You wanted to ask me something?"
+    am "你刚才是想问我什么事吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:376
 translate chinese sm1cs_am003_4f3ed993:
 
     # mc "I needed your help to figure out some code issues on this ticket."
-    mc "I needed your help to figure out some code issues on this ticket."
+    mc "我需要你帮我解决这张工单上的一些代码问题。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:379
 translate chinese sm1cs_am003_fdb19f63:
 
     # am "Right. But... I thought you were trying to like... turn this into a date or something."
-    am "Right. But... I thought you were trying to like... turn this into a date or something."
+    am "这样啊。但是...我还以为你是想...把这件见面变成一次约会呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:382
 translate chinese sm1cs_am003_19fb34a9:
 
     # mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
-    mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
+    mc "我觉得我们可能互相误解了对方的意思。要是我想约你出去，我就会直接约你。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:385
 translate chinese sm1cs_am003_28df6c88:
 
     # am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
-    am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
+    am "那是自然。再说你也不会约我出去吧，因为你知道我比你优秀很多。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:389
 translate chinese sm1cs_am003_85b15758:
 
     # am "You're probably too low-maintenance for me anyhow."
-    am "You're probably too low-maintenance for me anyhow."
+    am "反正你对我来说太随性简单了，不是我喜欢的类型。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:392
 translate chinese sm1cs_am003_9e9df1f2:
 
     # mct "Ouch."
-    mct "Ouch."
+    mct "好受伤啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:398
 translate chinese sm1cs_am003_805458e5:
 
     # am "Listen. I'm not... {w}I tend to keep people at an arm's length."
-    am "Listen. I'm not... {w}I tend to keep people at an arm's length."
+    am "听着。我不是...{w}我这人往往和别人保持一定距离。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:401
 translate chinese sm1cs_am003_de1cb490:
 
     # am "But... I see you now. You're being serious about getting better at coding, aren't you?"
-    am "But... I see you now. You're being serious about getting better at coding, aren't you?"
+    am "但是...我现在对你有了新的认识。你是真的想提高编码水平，对不对？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:404
 translate chinese sm1cs_am003_ebee4a17:
 
     # mc "Is that a big surprise?"
-    mc "Is that a big surprise?"
+    mc "这很让人惊讶吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:407
 translate chinese sm1cs_am003_06015bec:
 
     # am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
-    am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
+    am "我和很多混蛋共事过，我本来以为你也会和他们一样。但你不是那种无所事事的人。你是--"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:410
 translate chinese sm1cs_am003_407e8a50:
 
     # mc "Trying to not suck all the time."
-    mc "Trying to not suck all the time."
+    mc "努力不让自己一直这么差劲。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:413
 translate chinese sm1cs_am003_c35370b4:
 
     # am "Looks that way."
-    am "Looks that way."
+    am "看起来是这样。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:414
 translate chinese sm1cs_am003_a1aafc40:
 
     # am "Okay. Let me load up the code, and we can find the problems."
-    am "Okay. Let me load up the code, and we can find the problems."
+    am "好吧。让我加载一下代码，我们来找找问题出在哪儿。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:418
 translate chinese sm1cs_am003_970476b4:
 
     # am "Come over and sit besides me. You can't see the screen from there."
-    am "Come over and sit besides me. You can't see the screen from there."
+    am "过来坐在我旁边。你在那儿看不到屏幕。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:425
 translate chinese sm1cs_am003_2689b56d:
 
     # mc "That's it?"
-    mc "That's it?"
+    mc "就这样解决了？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:428
 translate chinese sm1cs_am003_a664589c:
 
     # am "That's it. Nice work."
-    am "That's it. Nice work."
+    am "就是这样。干得不错。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:431
 translate chinese sm1cs_am003_76bf5a03:
 
     # mc "It was mostly you."
-    mc "It was mostly you."
+    mc "主要是你的功劳。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:433
 translate chinese sm1cs_am003_d3a6be79:
 
     # am "Well yeah, but you still noticed that line forty-two was the root issue of why the first batch wasn't connecting to the second one."
-    am "Well yeah, but you still noticed that line forty-two was the root issue of why the first batch wasn't connecting to the second one."
+    am "嗯，话是这么说，但你还是注意到了第42行代码，它是第一批数据无法连接到第二批数据的根本原因。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:436
 translate chinese sm1cs_am003_02c1f7dd:
 
     # mc "So I'm a elite-code-monkey now, right?"
-    mc "So I'm a elite-code-monkey now, right?"
+    mc "所以我现在算是个精英码农了，对吧？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:439
 translate chinese sm1cs_am003_caa31988:
 
     # am "Oh yeah. A future Wozniak."
-    am "Oh yeah. A future Wozniak."
+    am "哦，那当然。堪称未来的苹果天才工程师。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:443
 translate chinese sm1cs_am003_575001ec:
 
     # mc "That guy is super smart right?"
-    mc "That guy is super smart right?"
+    mc "苹果的工程师超级聪明吧？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:447
 translate chinese sm1cs_am003_c9f42f7c:
 
     # am "Yes. Very smart."
-    am "Yes. Very smart."
+    am "对。非常聪明。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:453
 translate chinese sm1cs_am003_bf74be9b:
 
     # am "I need to get going. But I'll see you at work. Either at the park or back in the mines."
-    am "I need to get going. But I'll see you at work. Either at the park or back in the mines."
+    am "我得走了。不过工作的时候还会见到你。要么在公园，要么回办公室。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:456
 translate chinese sm1cs_am003_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "好。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:469
 translate chinese sm1cs_am003_26668e99:
 
     # am "Hey. If you're not busy sucking at night on Mondays or Thursdays my band is playing at a local bar near here."
-    am "Hey. If you're not busy sucking at night on Mondays or Thursdays my band is playing at a local bar near here."
+    am "嘿。要是周一或周四晚上你不忙的话，我的乐队会在这附近一家酒吧演出。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:471
 translate chinese sm1cs_am003_26668e99_1:
 
     # am "Hey. If you're not busy sucking at night on Mondays or Thursdays my band is playing at a local bar near here."
-    am "Hey. If you're not busy sucking at night on Mondays or Thursdays my band is playing at a local bar near here."
+    am "嘿。要是周一或周四晚上你不忙的话，我的乐队会在这附近一家酒吧演出。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:474
 translate chinese sm1cs_am003_55bd932d:
 
     # mc "Are you inviting me to see you rock out?"
-    mc "Are you inviting me to see you rock out?"
+    mc "你这是在邀请我去看你在舞台上大杀四方？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:478
 translate chinese sm1cs_am003_e4c33493:
 
     # am "Yes. Or is that too weird?"
-    am "Yes. Or is that too weird?"
+    am "对呀。还是说这感觉太奇怪了？"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:481
 translate chinese sm1cs_am003_036946db:
 
     # mc "I'm down. I can check my calendar."
-    mc "I'm down. I can check my calendar."
+    mc "我愿意去。我可以看看我那两天有什么安排。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:484
 translate chinese sm1cs_am003_58dc05c7:
 
     # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
-    am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
+    am "太好了。{w}我们是一支异教摇滚乐队，所以要有心理准备。你可能会看到我...样子有点疯狂。而且我脸上可能会涂着油彩，也可能没有。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:487
 translate chinese sm1cs_am003_d8bc74dd:
 
     # am "So... don't come if you're too straight-laced. Our music can be a lot for squares like you."
-    am "So... don't come if you're too straight-laced. Our music can be a lot for squares like you."
+    am "所以...要是你太循规蹈矩的话，就别来了。我们的音乐对于像你这样古板的人来说，可能有点太刺激了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:490
 translate chinese sm1cs_am003_4870abea:
 
     # mc "I'll make sure to wear laceless shoes."
-    mc "I'll make sure to wear laceless shoes."
+    mc "我保证会穿没有鞋带的鞋子，证明我不拘小节。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:493
 translate chinese sm1cs_am003_3641240c:
 
     # am "Good plan."
-    am "Good plan."
+    am "好主意。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:500
 translate chinese sm1cs_am003_1dc6c482:
 
     # mct "It's so hard to get a read on this girl. I mean it feels like there is something here."
-    mct "It's so hard to get a read on this girl. I mean it feels like there is something here."
+    mct "这个女孩可真让人捉摸不透。我的意思是，感觉我们之间有点什么。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:501
 translate chinese sm1cs_am003_7680d563:
 
     # mct "Or was she just acting out because of the coffee and that call from Pepper."
-    mct "Or was she just acting out because of the coffee and that call from Pepper."
+    mct "还是说，她只是因为那杯咖啡和佩珀的那个电话才表现得有点奇怪。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:503
 translate chinese sm1cs_am003_f8966040:
 
     # mct "Even money she's about to get weird again and call me a name."
-    mct "Even money she's about to get weird again and call me a name."
+    mct "很有可能她马上又会变得怪怪的，还会骂我。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:510
 translate chinese sm1cs_am003_6d4c05f2:
 
     # am "I'm going now.{w} Bye."
-    am "I'm going now.{w} Bye."
+    am "我现在要走了。{w}再见。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:511
 translate chinese sm1cs_am003_fdd5928f:
 
     # mc "Later April."
-    mc "Later April."
+    mc "回头见，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:513
 translate chinese sm1cs_am003_62726b5a:
 
     # mct "And I thought Nari was weird. Maybe it's because of that call from her band."
-    mct "And I thought Nari was weird. Maybe it's because of that call from her band."
+    mct "我之前还觉得娜丽很奇怪呢。也许是因为她乐队打来的那个电话吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:514
 translate chinese sm1cs_am003_8a979c2d:
 
     # mct "Sounds like there is some baggage attached to it."
-    mct "Sounds like there is some baggage attached to it."
+    mct "听起来这件事背后有点故事。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:516
 translate chinese sm1cs_am003_ef111773:
 
     # mct "Maybe I should check out the show. At least then both of us know it's totally not a work thing."
-    mct "Maybe I should check out the show. At least then both of us know it's totally not a work thing."
+    mct "也许我应该去看那场演出。至少这样一来，我们都明白这是个彻头彻尾的私人邀约，和工作无关。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:517
 translate chinese sm1cs_am003_a0a2a825:
 
     # mct "Whatever this \"thing\" we're doing is..."
-    mct "Whatever this \"thing\" we're doing is..."
+    mct "不管我们现在做的\"这种事\"到底算什么..."
 
 translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:51
     old "Bothering you is my new favorite pastime, April"
-    new "Bothering you is my new favorite pastime, April"
+    new "惹你生气现在成了我最喜欢的消遣方式了，艾普尔"
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:51
     old "We can agree on that"
-    new "We can agree on that"
+    new "这点我们倒是能达成共识"
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
     old "I had to come here for work."
-    new "I had to come here for work."
+    new "我是因为工作才来这儿的"
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
     old "I wanted to check on you"
-    new "I wanted to check on you"
+    new "我想来看看你"
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:159
     old "I'll surpass you in no time"
-    new "I'll surpass you in no time"
+    new "我很快就会超过你"
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:159
     old "If you teach me well, I'm sure I'll do great"
-    new "If you teach me well, I'm sure I'll do great"
+    new "要是你好好教我，我肯定能表现得很棒"
 
