@@ -494,19 +494,19 @@ translate chinese sm1cs_am005_no_sex_1_27eb138b:
 translate chinese sm1cs_am005_no_sex_1_186de1b6:
 
     # am "I misread things. I thought you liked me, and I started seeing something between us."
-    am "I misread things. I thought you liked me, and I started seeing something between us."
+    am "我误解了当时的情况。我以为你喜欢我，然后我就开始幻想我们之间会有什么。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:297
 translate chinese sm1cs_am005_no_sex_1_aacbc91f:
 
     # am "It's really Anna's fault. When I saw her talking to you."
-    am "It's really Anna's fault. When I saw her talking to you."
+    am "其实都怪安娜。我看到她和你说话。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:302
 translate chinese sm1cs_am005_no_sex_1_7ff1764f:
 
     # am "Follow me."
-    am "Follow me."
+    am "跟我来。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:324
 translate chinese sm1cs_am005_no_sex_1_1c8acf17:
@@ -518,145 +518,145 @@ translate chinese sm1cs_am005_no_sex_1_1c8acf17:
 translate chinese sm1cs_am005_no_sex_1_1880b7d5:
 
     # mc "You were talking about seeing me with Anna."
-    mc "You were talking about seeing me with Anna."
+    mc "你是说，看到我和安娜在一起那件事。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:331
 translate chinese sm1cs_am005_no_sex_1_97be8442:
 
     # am "Sometimes I see her, and I just see red, you know?"
-    am "Sometimes I see her, and I just see red, you know?"
+    am "有时候我一看到她，就火冒三丈，你懂吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:332
 translate chinese sm1cs_am005_no_sex_1_628884c9:
 
     # am "So I dragged you to the car and I made an ass out of myself."
-    am "So I dragged you to the car and I made an ass out of myself."
+    am "所以我把你拽到车上，然后出了个大洋相。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:335
 translate chinese sm1cs_am005_no_sex_1_ab4fe9fb:
 
     # am "At that moment, I really thought you'd say 'yes'."
-    am "At that moment, I really thought you'd say 'yes'."
+    am "当时，我真的以为你会答应。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:341
 translate chinese sm1cs_am005_no_sex_1_57999f2a:
 
     # mc "I figured you were just trying to trick me."
-    mc "I figured you were just trying to trick me."
+    mc "我觉得你只是想耍我。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:342
 translate chinese sm1cs_am005_no_sex_1_f0833100:
 
     # mc "It didn't feel serious."
-    mc "It didn't feel serious."
+    mc "感觉你不是认真的。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:345
 translate chinese sm1cs_am005_no_sex_1_207804b6:
 
     # mc "I mean the way you act toward me, I never have more than a faint guess what you're thinking."
-    mc "I mean the way you act toward me, I never have more than a faint guess what you're thinking."
+    mc "我是说，就你对我的态度而言，我从来都猜不透你在想什么。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:348
 translate chinese sm1cs_am005_no_sex_1_d88248e1:
 
     # am "So... if things were different, you would have said 'yes'?"
-    am "So... if things were different, you would have said 'yes'?"
+    am "那么...要是情况不一样，你会答应吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:350
 translate chinese sm1cs_am005_no_sex_1_70a444bd:
 
     # mc "I don't know."
-    mc "I don't know."
+    mc "我不知道。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:356
 translate chinese sm1cs_am005_no_sex_1_a1fd6321:
 
     # mc "What do you want from me?"
-    mc "What do you want from me?"
+    mc "你想从我这里得到什么？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:359
 translate chinese sm1cs_am005_no_sex_1_a291d04d:
 
     # am "I don't know."
-    am "I don't know."
+    am "我不知道。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:361
 translate chinese sm1cs_am005_no_sex_1_dbfc268c:
 
     # mc "Sounds like a lie to me."
-    mc "Sounds like a lie to me."
+    mc "听起来像是在撒谎。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:367
 translate chinese sm1cs_am005_no_sex_1_ff16afd9:
 
     # mc "You look so cute when you're flustered."
-    mc "You look so cute when you're flustered."
+    mc "你慌乱的时候看起来真可爱。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:370
 translate chinese sm1cs_am005_no_sex_1_c11b61ca:
 
     # am "I'm trying to be serious here."
-    am "I'm trying to be serious here."
+    am "我在这儿努力认真地说话呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:372
 translate chinese sm1cs_am005_no_sex_1_5bff308e:
 
     # mc "Me too. I seriously think you look cute when you get mad."
-    mc "Me too. I seriously think you look cute when you get mad."
+    mc "我也是啊。我是真觉得你生气的时候很可爱。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:375
 translate chinese sm1cs_am005_no_sex_1_1898f4d7:
 
     # mc "Like an angry little kitty."
-    mc "Like an angry little kitty."
+    mc "就像一只发怒的小猫咪。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:377
 translate chinese sm1cs_am005_no_sex_1_672d7580:
 
     # am "I will kick your ass."
-    am "I will kick your ass."
+    am "我要踢爆你的屁股。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:380
 translate chinese sm1cs_am005_no_sex_1_258f3e3b:
 
     # mc "Nuh-uh. I can see it. That's not what you want to do to me, is it?"
-    mc "Nuh-uh. I can see it. That's not what you want to do to me, is it?"
+    mc "才不会呢。我能看出来。你才不想揍我，不是吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:388
 translate chinese sm1cs_am005_reply_1_6a4bd240:
 
     # am "Shut up. Okay, you want the truth?"
-    am "Shut up. Okay, you want the truth?"
+    am "闭嘴。好吧，你想听真话吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:389
 translate chinese sm1cs_am005_reply_1_35637577:
 
     # am "The dumb stupid, no filters, just the bare thing?"
-    am "The dumb stupid, no filters, just the bare thing?"
+    am "毫无保留、不加掩饰，就最直白的那种？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:392
 translate chinese sm1cs_am005_reply_1_d50a48d7:
 
     # mc "Uh. Yes?"
-    mc "Uh. Yes?"
+    mc "呃...想啊？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:394
 translate chinese sm1cs_am005_reply_1_97e6eaeb:
 
     # am "I want to ask you a question, and I want a no bull-shit answer."
-    am "I want to ask you a question, and I want a no bull-shit answer."
+    am "我想问你个问题，而且我要你别糊弄我，给个实实在在的答案。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:397
 translate chinese sm1cs_am005_reply_1_79265f79:
 
     # mc "Ask away."
-    mc "Ask away."
+    mc "问吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:399
 translate chinese sm1cs_am005_reply_1_8e7e2198:
 
     # am "Even with me being a bitch to you, for some totally warranted reasons, and a few... unwarranted ones."
-    am "Even with me being a bitch to you, for some totally warranted reasons, and a few... unwarranted ones."
+    am "就算我之前对你态度不好，有些是有正当理由的，还有些...没什么理由。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:400
 translate chinese sm1cs_am005_reply_1_1c8acf17:
@@ -668,181 +668,181 @@ translate chinese sm1cs_am005_reply_1_1c8acf17:
 translate chinese sm1cs_am005_reply_1_5c17e1f1:
 
     # am "Do you like me?"
-    am "Do you like me?"
+    am "你喜欢我吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:404
 translate chinese sm1cs_am005_reply_1_1a508d51:
 
     # mct "Okay I didn't see that coming."
-    mct "Okay I didn't see that coming."
+    mct "好吧，我可没想到她会问这个。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:407
 translate chinese sm1cs_am005_reply_1_e5b77563:
 
     # mc "What kind of question is that?"
-    mc "What kind of question is that?"
+    mc "这是什么问题？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:409
 translate chinese sm1cs_am005_reply_1_a854066d:
 
     # am "The kind that has a simple binary answer, [mcname]."
-    am "The kind that has a simple binary answer, [mcname]."
+    am "就是那种很简单，只有是或否的二进制答案得问题，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:411
 translate chinese sm1cs_am005_reply_1_d3583e60:
 
     # mc "*sighs* Listen April. I'm going to tell you something that I haven't really talked to many people about."
-    mc "*sighs* Listen April. I'm going to tell you something that I haven't really talked to many people about."
+    mc "*叹气* 听着，艾普尔。我要告诉你一件事，一件我还没跟很多人说过的事。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:419
 translate chinese sm1cs_am005_reply_2_8c91780a:
 
     # mc "I rushed into a relationship with someone recently."
-    mc "I rushed into a relationship with someone recently."
+    mc "我最近刚仓促地谈了一段恋爱。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:420
 translate chinese sm1cs_am005_reply_2_f4315307:
 
     # mc "*softly* And it fucking blew up in my face."
-    mc "*softly* And it fucking blew up in my face."
+    mc "*轻声说* 结果搞得一团糟，让我颜面尽失。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:424
 translate chinese sm1cs_am005_reply_2_5cc774ed:
 
     # am "That sucks, [mcname]."
-    am "That sucks, [mcname]."
+    am "那也太惨了，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:425
 translate chinese sm1cs_am005_reply_2_7f9f6767:
 
     # am "But that doesn't excuse what I did. It wasn't fair."
-    am "But that doesn't excuse what I did. It wasn't fair."
+    am "但这不能成为我对你所作所为的借口。这不公平。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:428
 translate chinese sm1cs_am005_reply_2_98acd9a4:
 
     # am "So I guess I should just say that you're not a complete asshat."
-    am "So I guess I should just say that you're not a complete asshat."
+    am "所以我想我应该说，你也不是个彻头彻尾的混蛋。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:429
 translate chinese sm1cs_am005_reply_2_b6e47911:
 
     # am "And I like you, and I'm sorry for how I acted."
-    am "And I like you, and I'm sorry for how I acted."
+    am "而且我喜欢你，我为我之前的行为道歉。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:432
 translate chinese sm1cs_am005_reply_2_89481b1b:
 
     # mc "Wait. You like me, even with all my flaws?"
-    mc "Wait. You like me, even with all my flaws?"
+    mc "等等。就算我有这么多缺点，你还是喜欢我？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:434
 translate chinese sm1cs_am005_reply_2_ccb53b40:
 
     # am "I can like parts of you and dislike other parts of you."
-    am "I can like parts of you and dislike other parts of you."
+    am "我可以喜欢你的某些方面，也可以不喜欢你的其他方面。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:437
 translate chinese sm1cs_am005_reply_2_fff6acf2:
 
     # am "You're still pretty stupid for thinking you could just start working at an IT job without any training."
-    am "You're still pretty stupid for thinking you could just start working at an IT job without any training."
+    am "你还是很蠢，居然觉得不经过任何培训就能直接开始一份IT工作。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:438
 translate chinese sm1cs_am005_reply_2_787f6bcc:
 
     # am "But... you're not completely useless and I could probably stomach spending time with you."
-    am "But... you're not completely useless and I could probably stomach spending time with you."
+    am "但是...你也不是一无是处，我也许可以忍受和你在一起消磨时间。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:439
 translate chinese sm1cs_am005_reply_2_056a01cd:
 
     # am "Outside of work. Maybe. If that's something you'd be into."
-    am "Outside of work. Maybe. If that's something you'd be into."
+    am "在工作之余。也许吧。要是你也愿意的话。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:445
 translate chinese sm1cs_am005_reply_2_12ea8cdf:
 
     # mc "So I totally get... wanting to start things off on the right foot."
-    mc "So I totally get... wanting to start things off on the right foot."
+    mc "所以我完全理解...想要以正确的方式开始一段关系。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:446
 translate chinese sm1cs_am005_reply_2_a74231f3:
 
     # mc "Even when it doesn't seem like you're starting anything."
-    mc "Even when it doesn't seem like you're starting anything."
+    mc "哪怕看起来好像还没真正开始什么。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:450
 translate chinese sm1cs_am005_reply_2_d1a7ae61:
 
     # mc "So. Now what?"
-    mc "So. Now what?"
+    mc "那，现在怎么办？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:452
 translate chinese sm1cs_am005_reply_2_7c17c657:
 
     # am "I thought you would know."
-    am "I thought you would know."
+    am "我还以为你会知道呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:455
 translate chinese sm1cs_am005_reply_2_781bad67:
 
     # mc "I guess we can try a date. Or something."
-    mc "I guess we can try a date. Or something."
+    mc "我想我们可以试着约会。或者做点别的。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:457
 translate chinese sm1cs_am005_reply_2_af79af92:
 
     # am "Yeah. Or something."
-    am "Yeah. Or something."
+    am "是啊。或者做点别的。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:460
 translate chinese sm1cs_am005_reply_2_e0c0e14f:
 
     # am "You set something up.{w} Or I will.{w} No, you should.{w} You have more experience.{w} Or maybe I should."
-    am "You set something up.{w} Or I will.{w} No, you should.{w} You have more experience.{w} Or maybe I should."
+    am "你安排一下。{w}不然我来。{w}不，还是你来吧。{w}你经验更丰富。{w}要不还是我来。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:461
 translate chinese sm1cs_am005_reply_2_1c4dfd7f:
 
     # am "*frustrated growl* I don't know but-"
-    am "*frustrated growl* I don't know but-"
+    am "*懊恼地低吼* 我不知道，但是--"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:464
 translate chinese sm1cs_am005_reply_2_5135e6d4:
 
     # am "I like that...{w} we both {i}like{/i} each other."
-    am "I like that...{w} we both {i}like{/i} each other."
+    am "我喜欢这样...{w}我们俩都{i}喜欢{/i}对方。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:468
 translate chinese sm1cs_am005_reply_2_b4d4fcb9:
 
     # mct "Okay, that went in a very different direction than I thought it would go."
-    mct "Okay, that went in a very different direction than I thought it would go."
+    mct "好吧，事情的发展方向和我想的完全不一样。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:469
 translate chinese sm1cs_am005_reply_2_e9009559:
 
     # mct "But... I guess I should call it progress. I mean I definitely want to pick up where we left off last time."
-    mct "But... I guess I should call it progress. I mean I definitely want to pick up where we left off last time."
+    mct "不过...我想这也算是一种进展吧。我是说，我肯定想接着我们上次没做完的事情，继续向前推进。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:472
 translate chinese sm1cs_am005_reply_2_4b515b02:
 
     # mct "Then again, that's not exactly what April wants."
-    mct "Then again, that's not exactly what April wants."
+    mct "话又说回来，这好像也不完全是艾普尔想要的。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:473
 translate chinese sm1cs_am005_reply_2_547a4083:
 
     # mct "Hmmmm. Maybe. Nope, that's not it either."
-    mct "Hmmmm. Maybe. Nope, that's not it either."
+    mct "嗯...也许吧。不，好像也不是这样。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:476
 translate chinese sm1cs_am005_reply_2_c9539910:
 
     # mct "Serves me right for starting to like such a confounding woman..."
-    mct "Serves me right for starting to like such a confounding woman..."
+    mct "我喜欢上这么一个让人捉摸不透的女人，也算是活该..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:483
 translate chinese sm1cs_am005_no_sex_2_2b35b6fe:
@@ -854,267 +854,267 @@ translate chinese sm1cs_am005_no_sex_2_2b35b6fe:
 translate chinese sm1cs_am005_no_sex_2_76c0823d:
 
     # am "Well. Say something."
-    am "Well. Say something."
+    am "喂。说点什么呀。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:491
 translate chinese sm1cs_am005_no_sex_2_3fa791f0:
 
     # mc "What part of me do you like the most?"
-    mc "What part of me do you like the most?"
+    mc "你最喜欢我哪一点？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:493
 translate chinese sm1cs_am005_no_sex_2_0511c764:
 
     # am "Grrrrrr."
-    am "Grrrrrr."
+    am "呃啊啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:496
 translate chinese sm1cs_am005_no_sex_2_380c6933:
 
     # mc "Come on, you can say it."
-    mc "Come on, you can say it."
+    mc "来吧，你可以说出来。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:504
 translate chinese sm1cs_am005_no_sex_2_a29a1d93:
 
     # mc "*groaning* up-fuaah..."
-    mc "*groaning* up-fuaah..."
+    mc "*嘟囔* 哎呀..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:508
 translate chinese sm1cs_am005_no_sex_2_b751f05c:
 
     # am "Get your mind out of the gutter. {b}This{/b} is where I work, [mcname]."
-    am "Get your mind out of the gutter. {b}This{/b} is where I work, [mcname]."
+    am "别想些乱七八糟的。{b}这里{/b}可是我工作的地方，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:510
 translate chinese sm1cs_am005_no_sex_2_78216845:
 
     # mc "Hrrggh... understood. No fly zone."
-    mc "Hrrggh... understood. No fly zone."
+    mc "呃...明白。禁区是吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:511
 translate chinese sm1cs_am005_no_sex_2_ec923f1b:
 
     # mct "Could have gone worse."
-    mct "Could have gone worse."
+    mct "情况本来可能会更糟的。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:518
 translate chinese sm1cs_am005_no_sex_2_b845c299:
 
     # mc "I like you too, April."
-    mc "I like you too, April."
+    mc "我也喜欢你，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:521
 translate chinese sm1cs_am005_no_sex_2_a9a8e5f9:
 
     # am "Good. Then... we're both on the same page."
-    am "Good. Then... we're both on the same page."
+    am "很好。那...我们达成共识了。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:522
 translate chinese sm1cs_am005_no_sex_2_c63b8a78:
 
     # am "I feel a lot better about everything now."
-    am "I feel a lot better about everything now."
+    am "现在我对所有事情都感觉好多了。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:530
 translate chinese sm1cs_am005_no_sex_2_3cd6a3e6:
 
     # mc "No more games, April. If we're... I don't even know."
-    mc "No more games, April. If we're... I don't even know."
+    mc "别再互相试探了，艾普尔。如果我们...我都不知道该怎么说。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:533
 translate chinese sm1cs_am005_no_sex_2_6dd8309c:
 
     # am "Testing out a cooperative longevity growth exercise."
-    am "Testing out a cooperative longevity growth exercise."
+    am "尝试一段长期的合作发展关系。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:535
 translate chinese sm1cs_am005_no_sex_2_932c3766:
 
     # mc "Right, so if we're doing that, no more games."
-    mc "Right, so if we're doing that, no more games."
+    mc "对，所以如果我们要这样，就别再玩那些弯弯绕绕的了。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:538
 translate chinese sm1cs_am005_no_sex_2_10841e2d:
 
     # am "I don't understand. Games are fun with people you like."
-    am "I don't understand. Games are fun with people you like."
+    am "我不明白。和喜欢的人一起玩点小把戏挺有意思的呀。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:540
 translate chinese sm1cs_am005_no_sex_2_4c915ff3:
 
     # mc "I don't like games that end up with me being tossed out of a car in the middle of the night."
-    mc "I don't like games that end up with me being tossed out of a car in the middle of the night."
+    mc "我可不喜欢那种最后害我大半夜被扔出车外的小把戏。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:543
 translate chinese sm1cs_am005_no_sex_2_d57cc247:
 
     # am "Okay, so no games like {i}that{/i}."
-    am "Okay, so no games like {i}that{/i}."
+    am "好吧，那就不玩{i}那样的{/i}小把戏了。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:555
 translate chinese sm1cs_am005_no_sex_3_f661beb5:
 
     # mc "Sounds good."
-    mc "Sounds good."
+    mc "这还差不多。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:557
 translate chinese sm1cs_am005_no_sex_3_65499029:
 
     # am "Good."
-    am "Good."
+    am "好呀。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:558
 translate chinese sm1cs_am005_no_sex_3_9930ed4b:
 
     # mc "Great."
-    mc "Great."
+    mc "太好了。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:565
 translate chinese sm1cs_am005_no_sex_3_f1f5762f:
 
     # mc "No more games, period. You get me, April?"
-    mc "No more games, period. You get me, April?"
+    mc "总之别互相试探了。你懂我的意思吧，艾普尔？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:567
 translate chinese sm1cs_am005_no_sex_3_ef93ba34:
 
     # am "Okay okay. Easy."
-    am "Okay okay. Easy."
+    am "好啦好啦。别激动。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:570
 translate chinese sm1cs_am005_no_sex_3_29442dab:
 
     # am "I promise. No more games. I will court you like a southern bell from the Antebellum Era."
-    am "I promise. No more games. I will court you like a southern bell from the Antebellum Era."
+    am "我保证。不再耍心眼了。我会像美国南北战争前南方的淑女那样追求你。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:572
 translate chinese sm1cs_am005_no_sex_3_eb759522:
 
     # mc "Good. That's what I like to hear."
-    mc "Good. That's what I like to hear."
+    mc "很好。这才是我想听到的。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:575
 translate chinese sm1cs_am005_no_sex_3_66ce6fdb:
 
     # mc "I need to get back to it."
-    mc "I need to get back to it."
+    mc "我得回去工作了。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:577
 translate chinese sm1cs_am005_no_sex_3_d39ea885:
 
     # am "Yup. No slacking at Orbix, Mister Young."
-    am "Yup. No slacking at Orbix, Mister Young."
+    am "好的。在Orbix可别偷懒哦，杨先生。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:581
 translate chinese sm1cs_am005_no_sex_3_13c3b3ea:
 
     # mct "What the hell is the Antebellum Era?"
-    mct "What the hell is the Antebellum Era?"
+    mct "美国南北战争那是什么时代啊？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:584
 translate chinese sm1cs_am005_no_sex_3_ffa2f81f:
 
     # am "Hmm."
-    am "Hmm."
+    am "嗯..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:585
 translate chinese sm1cs_am005_no_sex_3_663beea9:
 
     # am "*thinking* Game on, [mcname]."
-    am "*thinking* Game on, [mcname]."
+    am "*思考* 好戏开始了，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:593
 translate chinese sm1cs_am005_thumbsup_end_e11617d0:
 
     # am "Uh."
-    am "Uh."
+    am "呃。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:596
 translate chinese sm1cs_am005_thumbsup_end_0950ecd7:
 
     # am "Keep up the good work."
-    am "Keep up the good work."
+    am "继续努力。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:599
 translate chinese sm1cs_am005_thumbsup_end_38428ea5:
 
     # mct "Uh. Did she just really give me a thumb's up?"
-    mct "Uh. Did she just really give me a thumb's up?"
+    mct "她真的给我竖了个大拇指？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:602
 translate chinese sm1cs_am005_thumbsup_end_58ecb03f:
 
     # mct "In a strange way, even though we're getting closer, I kind of prefer April's non-work side."
-    mct "In a strange way, even though we're getting closer, I kind of prefer April's non-work side."
+    mct "说来奇怪，虽然我们的关系越来越近了，但我还是更喜欢艾普尔工作之外的样子。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:603
 translate chinese sm1cs_am005_thumbsup_end_b70a262e:
 
     # mct "I doubt things will ever be boring if I get to know her better."
-    mct "I doubt things will ever be boring if I get to know her better."
+    mct "要是能更深入了解她，我觉得生活肯定不会无聊。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:622
 translate chinese sm1cs_am005_walkout_df9591cc:
 
     # cw "Hmmm."
-    cw "Hmmm."
+    cw "嗯。"
 
 translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
     old "Push it."
-    new "Push it."
+    new "再加把劲"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
     old "Don't push it."
-    new "Don't push it."
+    new "别太过分"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:98
     old "Act evasive"
-    new "Act evasive"
+    new "含糊其辞"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:98
     old "Push back"
-    new "Push back"
+    new "反驳回去"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:136
     old "Put an end to things with April"
-    new "Put an end to things with April"
+    new "结束和艾普尔的关系"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:136
     old "Be patient"
-    new "Be patient"
+    new "耐心点"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:336
     old "I thought it was a game"
-    new "I thought it was a game"
+    new "我还以为这是个玩笑呢"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:336
     old "What do you want from me?"
-    new "What do you want from me?"
+    new "你想从我这里得到什么？"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:336
     old "You look so cute when you're flustered"
-    new "You look so cute when you're flustered"
+    new "你慌乱的样子真可爱"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:486
     old "Tease April"
-    new "Tease April"
+    new "逗逗艾普尔"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:486
     old "I like you too, April"
-    new "I like you too, April"
+    new "我也喜欢你，艾普尔"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:486
     old "No more games"
-    new "No more games"
+    new "别再玩那些弯弯绕绕的了"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:550
     old "Sounds good"
-    new "Sounds good"
+    new "听起来不错。"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:550
     old "No more games, period"
-    new "No more games, period"
+    new "总之，别再玩那些弯弯绕绕的了"
 
