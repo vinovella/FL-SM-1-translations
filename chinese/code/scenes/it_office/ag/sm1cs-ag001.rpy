@@ -644,143 +644,143 @@ translate chinese sm1cs_ag001_continue_51a879c2:
 translate chinese sm1cs_ag001_continue_98f3a5be:
 
     # ag "Oh yeah. Intense, pesky, argumentative. She can be a royal pain in the ass when she wants to be."
-    ag "Oh yeah. Intense, pesky, argumentative. She can be a royal pain in the ass when she wants to be."
+    ag "哦，是啊。她这个人很有个性，有点难缠，还喜欢争论。她要是想的话，能把人烦得够呛。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:394
 translate chinese sm1cs_ag001_continue_0f22d93c:
 
     # ag "I'd like to say she grows on you, but we've worked together a while and I think that would be a lie, hahah."
-    ag "I'd like to say she grows on you, but we've worked together a while and I think that would be a lie, hahah."
+    ag "我想说你会慢慢喜欢上她的，但我们一起工作了一段时间了，我觉得这么说可能是在撒谎，哈哈哈。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:398
 translate chinese sm1cs_ag001_continue_34bad08b:
 
     # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Worts and all."
-    ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Worts and all."
+    ag "但她可能是皇冠镇最厉害的程序员了，能有她在我们团队里是一种荣幸，不管她有什么小毛病。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:401
 translate chinese sm1cs_ag001_continue_7a22d199:
 
     # mc "Yeah. Why does she call you Aubergine Anna?"
-    mc "Yeah. Why does she call you Aubergine Anna?"
+    mc "是啊。她为什么叫你‘茄子安娜’呢？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:404
 translate chinese sm1cs_ag001_continue_5826ec07:
 
     # ag "Oh it's just... a little inside joke between us."
-    ag "Oh it's just... a little inside joke between us."
+    ag "哦，这只是...我们之间的一个小玩笑。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:405
 translate chinese sm1cs_ag001_continue_66ec0be3:
 
     # ag "Maybe she'll give you one down the line. Heh."
-    ag "Maybe she'll give you one down the line. Heh."
+    ag "也许以后她也会给你起一个外号呢。嘿嘿。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:409
 translate chinese sm1cs_ag001_continue_6b32bf71:
 
     # ag "Alright, and the last thing."
-    ag "Alright, and the last thing."
+    ag "好吧，最后一件事。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:410
 translate chinese sm1cs_ag001_continue_bc45666e:
 
     # ag "It's not really a question. We have a new client coming in and the C.U.M. Division will be taking point and working hand in hand with her."
-    ag "It's not really a question. We have a new client coming in and the C.U.M. Division will be taking point and working hand in hand with her."
+    ag "这其实不算个问题。我们有一个新客户要来，C.U.M.部门将负责牵头，并和她密切合作。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:413
 translate chinese sm1cs_ag001_continue_e6d20dfe:
 
     # ag "I know you just joined up but I should warn you that I might have to ride you extra hard over the next couple of months."
-    ag "I know you just joined up but I should warn you that I might have to ride you extra hard over the next couple of months."
+    ag "我知道你刚加入不久，但我得提醒你，在接下来的几个月里，我可能会对你要求更严格。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
 translate chinese sm1cs_ag001_continue_657f6911:
 
     # mct "Oh I don't think either of us would mind that, Anna"
-    mct "Oh I don't think either of us would mind that, Anna"
+    mct "哦，我觉得我们俩应该都不会介意的，安娜。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:421
 translate chinese sm1cs_ag001_continue_cd952fa6:
 
     # mc "You can go as hard as you want, Anna."
-    mc "You can go as hard as you want, Anna."
+    mc "你想多严格都行，安娜。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:425
 translate chinese sm1cs_ag001_continue_b6a91e84:
 
     # mc "I won't let you down, Anna."
-    mc "I won't let you down, Anna."
+    mc "我不会让你失望的，安娜。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:429
 translate chinese sm1cs_ag001_continue_ad4c7889:
 
     # ag "Excellent. Well, I think that we're all done here."
-    ag "Excellent. Well, I think that we're all done here."
+    ag "好极了。好了，我想我们该谈的都谈完了。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:432
 translate chinese sm1cs_ag001_continue_d1fd97da:
 
     # mc "So I'm good?"
-    mc "So I'm good?"
+    mc "所以我表现还不错？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:435
 translate chinese sm1cs_ag001_continue_9127145a:
 
     # ag "Oh yes. I'll pass on my thoughts to Claire, let her know you're doing a bang-up job so far, [mcname]."
-    ag "Oh yes. I'll pass on my thoughts to Claire, let her know you're doing a bang-up job so far, [mcname]."
+    ag "哦，是的。我会把我的想法告诉克莱尔，让她知道到目前为止你干得非常出色，[mcname]。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:436
 translate chinese sm1cs_ag001_continue_858eb84a:
 
     # ag "Keep up the good work."
-    ag "Keep up the good work."
+    ag "继续保持哦。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:439
 translate chinese sm1cs_ag001_continue_7dc4ab47:
 
     # mc "Thanks Anna. See you around."
-    mc "Thanks Anna. See you around."
+    mc "谢谢你，安娜。回头见。"
 
 translate chinese strings:
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:30
     old "Huh?"
-    new "Huh?"
+    new "啊？"
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:30
     old "Totally"
-    new "Totally"
+    new "当然"
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:64
     old "Increase Job Difficulty"
-    new "Increase Job Difficulty"
+    new "增加工作难度"
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:64
     old "Do not increase Difficulty"
-    new "Do not increase Difficulty"
+    new "不增加工作难度"
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:304
     old "It can be difficult"
-    new "It can be difficult"
+    new "这可能会有点难"
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:304
     old "Not for me"
-    new "Not for me"
+    new "对我来说没难度"
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:344
     old "Professional"
-    new "Professional"
+    new "都挺专业的"
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:376
     old "It's been smooth"
-    new "It's been smooth"
+    new "一切都很顺利"
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:376
     old "April is intense"
-    new "April is intense"
+    new "艾普尔很难搞"
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:415
     old "Reassure"
-    new "Reassure"
+    new "让她安心"
 
