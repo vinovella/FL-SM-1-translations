@@ -716,7 +716,7 @@ translate chinese sm1cs_am001_later_9aa40e36:
 translate chinese sm1cs_am001_later_01268eee:
 
     # mct "At least now I can relax and not pretend for an hour straight."
-    mct "至少现在我可以放松了，不用连续一个小时装作在工作了。
+    mct "至少现在我可以放松了，不用连续一个小时装作在工作了。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:421
 translate chinese sm1cs_am001_later_47f4a9d0:
