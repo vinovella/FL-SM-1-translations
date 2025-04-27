@@ -2,319 +2,319 @@
 translate chinese sm1fs_t002_6608cd4e:
 
     # sy "Taisia is here!"
-    sy "Taisia is here!"
+    sy "泰西娅来了！"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:51
 translate chinese sm1fs_t002_cfa49bd1:
 
     # sy "That's probably fine. Let's do this."
-    sy "That's probably fine. Let's do this."
+    sy "这样应该也没什么问题。开始吧。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:55
 translate chinese sm1fs_t002_bbe5988c:
 
     # mct "Fine? Is there something wrong with my clothes?"
-    mct "Fine? Is there something wrong with my clothes?"
+    mct "应该没问题？我的穿着有什么不对劲的地方吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:57
 translate chinese sm1fs_t002_2c57e135:
 
     # sy "Taisia is incredible. You're dressed like... A college kid. Not a porn star."
-    sy "Taisia is incredible. You're dressed like... A college kid. Not a porn star."
+    sy "泰西娅那么迷人。你穿得却像...一个大学生。可不像个色情明星。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:60
 translate chinese sm1fs_t002_41562cc4:
 
     # mc "I think we have a long list of priorities before my fashion sense."
-    mc "I think we have a long list of priorities before my fashion sense."
+    mc "我觉得在考虑我的时尚品味之前，我们还有一长串更重要的事要做呢。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:63
 translate chinese sm1fs_t002_1df78835:
 
     # sy "Have you never heard 'the suit maketh the man?"
-    sy "Have you never heard 'the suit maketh the man?"
+    sy "你难道没听说过‘人靠衣装’这句话吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:66
 translate chinese sm1fs_t002_336b2e34:
 
     # sy "Just think about it. But come on! Can't keep our new star waiting."
-    sy "Just think about it. But come on! Can't keep our new star waiting."
+    sy "好好想想吧。不过来吧！可不能让我们的新明星久等了。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:78
 translate chinese sm1fs_t002_b8b6178c:
 
     # tl "Hey. What's up."
-    tl "Hey. What's up."
+    tl "嘿，你们好啊。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:80
 translate chinese sm1fs_t002_47e8366a:
 
     # sy "Oh, uhm, hi!"
-    sy "Oh, uhm, hi!"
+    sy "哦，呃，你好！"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:85
 translate chinese sm1fs_t002_5c6ea974:
 
     # tl "We doing the video out here, or..."
-    tl "We doing the video out here, or..."
+    tl "我们是在这儿拍视频，还是..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:89
 translate chinese sm1fs_t002_27015b9c:
 
     # sy "Oh my God, sorry. Please, come in!"
-    sy "Oh my God, sorry. Please, come in!"
+    sy "哦，天哪，不好意思。请进！"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:91
 translate chinese sm1fs_t002_553aff27:
 
     # tl "Thanks."
-    tl "Thanks."
+    tl "谢谢。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:94
 translate chinese sm1fs_t002_5534e572:
 
     # mc "Good to see you again."
-    mc "Good to see you again."
+    mc "很高兴再次见到你。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:96
 translate chinese sm1fs_t002_9129ad84:
 
     # tl "Yeah, same."
-    tl "Yeah, same."
+    tl "是啊，我也是。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:99
 translate chinese sm1fs_t002_04d08b27:
 
     # tl "Nice place you've got."
-    tl "Nice place you've got."
+    tl "你们这地方真不错。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:100
 translate chinese sm1fs_t002_556630ed:
 
     # mct "She has got to be insane. This place is definitely a lot of things. But nice?"
-    mct "She has got to be insane. This place is definitely a lot of things. But nice?"
+    mct "她肯定是疯了。这地方肯定有很多特点。但和‘不错’可搭不上边吧？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:102
 translate chinese sm1fs_t002_de01f209:
 
     # mc "Uh, yeah. It is. Got some big plans for it too."
-    mc "Uh, yeah. It is. Got some big plans for it too."
+    mc "呃，对。是不错。我们对这儿也有一些宏伟的规划呢。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:105
 translate chinese sm1fs_t002_c1b65ec0:
 
     # tl "So how do we do this?"
-    tl "So how do we do this?"
+    tl "那我们接下来要怎么做？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:107
 translate chinese sm1fs_t002_518af327:
 
     # mc "Uhm, just got to do a thing on the laptop and then we can get to it!"
-    mc "Uhm, just got to do a thing on the laptop and then we can get to it!"
+    mc "嗯，只要在笔记本电脑上操作一下，然后我们就可以开始了！"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:114
 translate chinese sm1fs_t002_c4ba06e8:
 
     # mc "*Whispers* Man... I'm kind of nervous."
-    mc "*Whispers* Man... I'm kind of nervous."
+    mc "*小声说* 我去...我有点紧张。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:117
 translate chinese sm1fs_t002_42aa95c1:
 
     # sy "*Whispers* Why? You've already done this once before."
-    sy "*Whispers* Why? You've already done this once before."
+    sy "*小声说* 为什么？你之前已经拍过一次了呀。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:120
 translate chinese sm1fs_t002_1807dbf4:
 
     # mc "*Whispers* Yeah, but at that point I had already been talking to Kanya for a little bit. This is like a cold call. But for a porn audition."
-    mc "*Whispers* Yeah, but at that point I had already been talking to Kanya for a little bit. This is like a cold call. But for a porn audition."
+    mc "*小声说* 是啊，但那时候我已经和坎亚聊了一会儿了。这次更像是突然上门推销。不过是为了色情片试镜。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:122
 translate chinese sm1fs_t002_bf665b01:
 
     # sy "Yeah, and? Didn't you ever watch those casting couch pornos you had?"
-    sy "Yeah, and? Didn't you ever watch those casting couch pornos you had?"
+    sy "那又怎么了？你没看过你那些选角沙发上的色情片吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:126
 translate chinese sm1fs_t002_735f40a6:
 
     # mc "*Whispers* How the hell do we do a casting couch audition?"
-    mc "*Whispers* How the hell do we do a casting couch audition?"
+    mc "*小声说* 我们到底该怎么在选角沙发上试镜？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:129
 translate chinese sm1fs_t002_31b3f72c:
 
     # sy "*Whispers* You had like 17 DVDs of casting couch stuff in that box of porn in your room."
-    sy "*Whispers* You had like 17 DVDs of casting couch stuff in that box of porn in your room."
+    sy "*小声说* 你房间那盒色情片里，有大概 17 张选角沙发上试镜的 DVD 呢。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:131
 translate chinese sm1fs_t002_36400b28:
 
     # mc "*Whispers* I know, I bought them."
-    mc "*Whispers* I know, I bought them."
+    mc "*小声说* 我知道，那可是我买的。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:132
 translate chinese sm1fs_t002_afa28013:
 
     # sy "*Whispers* I watched all of them. A lot. I have a lot of fond memories of picturing myself on that leather couch."
-    sy "*Whispers* I watched all of them. A lot. I have a lot of fond memories of picturing myself on that leather couch."
+    sy "*小声说* 我全都看过，而且看了很多遍。我有很多美好的回忆，想象着自己躺在那张皮沙发上。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:138
 translate chinese sm1fs_t002_a86ebfea:
 
     # sy "*Whispers* And I rewatched them all to get ready for today. So we're good."
-    sy "*Whispers* And I rewatched them all to get ready for today. So we're good."
+    sy "*小声说* 为了今天的拍摄，我又把它们全都重新看了一遍。所以我们没问题的。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:141
 translate chinese sm1fs_t002_2a227340:
 
     # sy "That dude was fucking awful at interviewing chicks. The questions were always dumb, and he always asked such vanilla stuff."
-    sy "That dude was fucking awful at interviewing chicks. The questions were always dumb, and he always asked such vanilla stuff."
+    sy "那个家伙在面试那些女孩的时候水平太差了。问的问题总是很蠢，而且总是问些很无聊的东西。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:143
 translate chinese sm1fs_t002_bf90adf1:
 
     # mc "*Whispers* Sorrrrry. Didn't realize you were such an adult cinema connoisseur."
-    mc "*Whispers* Sorrrrry. Didn't realize you were such an adult cinema connoisseur."
+    mc "*小声说* 抱歉啦。没想到你还是个成人电影鉴赏家呢。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:145
 translate chinese sm1fs_t002_1a16ccee:
 
     # sy "*Whispers* Only the best porn for your dear little sister."
-    sy "*Whispers* Only the best porn for your dear little sister."
+    sy "*小声说* 你亲爱的小妹只看最好的色情片。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:147
 translate chinese sm1fs_t002_0df1eef1:
 
     # sy "*Whispers* Only the best porn for your oldest friend."
-    sy "*Whispers* Only the best porn for your oldest friend."
+    sy "*小声说* 你最好的朋友也只看最好的色情片。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:151
 translate chinese sm1fs_t002_d80a6121:
 
     # tl "You two good over there?"
-    tl "You two good over there?"
+    tl "你们俩在那边还好吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:153
 translate chinese sm1fs_t002_3a41c5e6:
 
     # sy "Yep!"
-    sy "Yep!"
+    sy "没事！"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:157
 translate chinese sm1fs_t002_74fd6695:
 
     # sy "Sorry to keep you waiting. Our internet isn't all set up yet."
-    sy "Sorry to keep you waiting. Our internet isn't all set up yet."
+    sy "抱歉，让你久等了。我们的网络还没完全设置好。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:161
 translate chinese sm1fs_t002_208d7700:
 
     # sy "Someone has got to get on that."
-    sy "Someone has got to get on that."
+    sy "得有人去处理一下这个问题。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:164
 translate chinese sm1fs_t002_29054bcc:
 
     # mct "Woooow. Just going to throw me under the bus like that."
-    mct "Woooow. Just going to throw me under the bus like that."
+    mct "哇哦。就这么直接把我推出去背锅啊。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:168
 translate chinese sm1fs_t002_41203ac6:
 
     # sy "So I think we should start with, like, an interview before getting into your performance?"
-    sy "So I think we should start with, like, an interview before getting into your performance?"
+    sy "所以我觉得在开始你的表演之前，我们应该先来个采访之类的，你觉得呢？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:170
 translate chinese sm1fs_t002_84240097:
 
     # tl "Oh, I wasn't expecting a Q and A beforehand."
-    tl "Oh, I wasn't expecting a Q and A beforehand."
+    tl "哦，我还没想到之前会有问答环节呢。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:172
 translate chinese sm1fs_t002_0929fd9d:
 
     # mc "Also, is it cool if we record the interview?"
-    mc "Also, is it cool if we record the interview?"
+    mc "还有，我们把采访录下来可以吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:175
 translate chinese sm1fs_t002_3e71189c:
 
     # tl "Yeah, that's also cool with me."
-    tl "Yeah, that's also cool with me."
+    tl "可以啊，我也不介意。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:182
 translate chinese sm1fs_t002_067b134a:
 
     # tl "Cool. Are you sure you don't want me in clown make-up today?"
-    tl "Cool. Are you sure you don't want me in clown make-up today?"
+    tl "行。你们确定今天不需要我化小丑妆吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:184
 translate chinese sm1fs_t002_9fd05350:
 
     # mc "Uh... maybe next time. Today we want to do a more... natural look to our videos."
-    mc "Uh... maybe next time. Today we want to do a more... natural look to our videos."
+    mc "呃...也许下次吧。今天我们想把视频拍得更...自然一些。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:187
 translate chinese sm1fs_t002_7eca5bd2:
 
     # sy "At least to start! Maybe in the future though we can get more weird with it."
-    sy "At least to start! Maybe in the future though we can get more weird with it."
+    sy "至少初始阶段是这样！不过以后说不定我们可以拍得更古怪些。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:190
 translate chinese sm1fs_t002_ca266a41:
 
     # tl "Sure."
-    tl "Sure."
+    tl "好啊。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:193
 translate chinese sm1fs_t002_10d831d0:
 
     # tl "I, uh, have never really done anything... As me before."
-    tl "I, uh, have never really done anything... As me before."
+    tl "呃，我，以前从来没这么做过...以我本来的样子。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:195
 translate chinese sm1fs_t002_18fbcd19:
 
     # mc "We know, we saw-"
-    mc "We know, we saw-"
+    mc "我们知道，我们看过你--"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:198
 translate chinese sm1fs_t002_e6db12d3:
 
     # sy "COU-COU."
-    sy "COU-COU."
+    sy "咳--咳。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:201
 translate chinese sm1fs_t002_167f83ed:
 
     # mc "We, uh, saw one of your shows. At the theater."
-    mc "We, uh, saw one of your shows. At the theater."
+    mc "我们，呃，看过你的一场表演。在剧院看的。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:204
 translate chinese sm1fs_t002_4f63f4c0:
 
     # tl "I thought you said you hadn't been to one of my shows?"
-    tl "I thought you said you hadn't been to one of my shows?"
+    tl "你不是说你们没看过我的演出吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:206
 translate chinese sm1fs_t002_0362834a:
 
     # mc "Uhhmmm..."
-    mc "Uhhmmm..."
+    mc "呃嗯嗯..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:210
 translate chinese sm1fs_t002_86e6afe8:
 
     # sy "When you say you've never done anything as \"you\" before, do you mean sexually?"
-    sy "When you say you've never done anything as \"you\" before, do you mean sexually?"
+    sy "你说你以前从来没以\"本来的样子\"做过什么，你是指在性方面吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:213
 translate chinese sm1fs_t002_1c6bb585:
 
     # tl "Yeah, I kind of like doing a whole... Dress rehearsal when I get into it. Like the clown stuff. Never really gone au natural."
-    tl "Yeah, I kind of like doing a whole... Dress rehearsal when I get into it. Like the clown stuff. Never really gone au natural."
+    tl "对，我有点喜欢那种...全套的带妆彩排，就像化小丑妆那种。从来没试过这么自然的样子。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:216
 translate chinese sm1fs_t002_47a15334:
