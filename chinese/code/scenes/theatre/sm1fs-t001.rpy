@@ -1216,5 +1216,5 @@ translate chinese strings:
 
     # game/code/scenes/theatre/sm1fs-t001.rpy:277
     old "Fuck"
-    new "操"
+    new "开干"
 
