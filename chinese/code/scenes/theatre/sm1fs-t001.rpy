@@ -836,385 +836,385 @@ translate chinese sm1fs_t001_later_64542757:
 translate chinese sm1fs_t001_later_4f9a1f2b:
 
     # tl "Oh, thank you."
-    tl "Oh, thank you."
+    tl "哦，谢谢。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:457
 translate chinese sm1fs_t001_later_4e158bb0:
 
     # sy "We have a proposition for you."
-    sy "We have a proposition for you."
+    sy "我们有一个提议。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:460
 translate chinese sm1fs_t001_later_767cdec2:
 
     # tl "Girl power. I guess you're in charge?"
-    tl "Girl power. I guess you're in charge?"
+    tl "女权至上。我猜你是管事儿的吧？"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:463
 translate chinese sm1fs_t001_later_2c51cf81:
 
     # sy "We-"
-    sy "We-"
+    sy "我们--"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:465
 translate chinese sm1fs_t001_later_1807f2c3:
 
     # mc "It's a partnership."
-    mc "It's a partnership."
+    mc "我们是合作伙伴。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:466
 translate chinese sm1fs_t001_later_9428abc5:
 
     # sy "But yes, you can talk to me."
-    sy "But yes, you can talk to me."
+    sy "不够你说的也没错，你可以跟我谈。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:469
 translate chinese sm1fs_t001_later_430ae915:
 
     # tl "Good. So, I'm guessing you two aren't the normal clients, but I can guess what you want."
-    tl "Good. So, I'm guessing you two aren't the normal clients, but I can guess what you want."
+    tl "好。这么说，我猜你们俩可不是普通的客户，但我能猜到你们想要什么。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:470
 translate chinese sm1fs_t001_later_f9a7c7c5:
 
     # tl "Scary clown. Probably for some kind of sexy, young adult, maybe college party?"
-    tl "Scary clown. Probably for some kind of sexy, young adult, maybe college party?"
+    tl "恐怖小丑主题吧。可能是迎合那种擦边的年轻人，也许是大学生派对之类的？"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:473
 translate chinese sm1fs_t001_later_728e3b2f:
 
     # mc "Tempting, but no."
-    mc "Tempting, but no."
+    mc "这个描述挺诱人的，但不是。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:475
 translate chinese sm1fs_t001_later_c2e960ed:
 
     # sy "What we are looking for is something more au natural..."
-    sy "What we are looking for is something more au natural..."
+    sy "我们想要的是更自然一点的..."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:478
 translate chinese sm1fs_t001_later_caeedd75:
 
     # tl "Oh? Color me intrigued."
-    tl "Oh? Color me intrigued."
+    tl "哦？勾起我的兴趣了。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:481
 translate chinese sm1fs_t001_later_0eacfa33:
 
     # mc "As in without makeup... and naked."
-    mc "As in without makeup... and naked."
+    mc "就是不化妆...而且全裸的那种。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:483
 translate chinese sm1fs_t001_later_c465ffad:
 
     # sy "Basically, we want you to have sex - on camera."
-    sy "Basically, we want you to have sex - on camera."
+    sy "基本上，我们想让你做爱--在镜头前面做。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:486
 translate chinese sm1fs_t001_later_f853ba10:
 
     # tl "I'm sorry, what?!"
-    tl "I'm sorry, what?!"
+    tl "不是吧，你说什么?!"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:488
 translate chinese sm1fs_t001_later_e2b7793d:
 
     # sy "We run an adult film studio..."
-    sy "We run an adult film studio..."
+    sy "我们经营着一家成人影片工作室..."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:491
 translate chinese sm1fs_t001_later_3f964193:
 
     # mct "Just call it a porn studio."
-    mct "Just call it a porn studio."
+    mct "就直说色情工作室吧。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:493
 translate chinese sm1fs_t001_later_e4827357:
 
     # sy "...and we want you to-"
-    sy "...and we want you to-"
+    sy "...我们希望你--"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:496
 translate chinese sm1fs_t001_later_2e624c18:
 
     # tl "Do you think I'm a whore?"
-    tl "Do you think I'm a whore?"
+    tl "你们觉得我是个妓女？"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:499
 translate chinese sm1fs_t001_later_24fb4913:
 
     # sy "What?!"
-    sy "What?!"
+    sy "什么?!"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:502
 translate chinese sm1fs_t001_later_5d3b31d9:
 
     # tl "DO. YOU. THINK. I'M. A. WHORE???"
-    tl "DO. YOU. THINK. I'M. A. WHORE???"
+    tl "你、们、觉、得、我、是、个、妓、女、吗???"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:504
 translate chinese sm1fs_t001_later_5dd58247:
 
     # sy "What? No..."
-    sy "What? No..."
+    sy "什么？没有..."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:506
 translate chinese sm1fs_t001_later_e5152741:
 
     # tl "Because I'll have you know that the judge agreed with me!"
-    tl "Because I'll have you know that the judge agreed with me!"
+    tl "因为我得让你们知道，法官可是站在我这一边的！"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:509
 translate chinese sm1fs_t001_later_97412988:
 
     # mct "Interesting..."
-    mct "Interesting..."
+    mct "有意思..."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:512
 translate chinese sm1fs_t001_later_ea8a1485:
 
     # tl "It was just a stupid bet.{w} It wasn't prostitution."
-    tl "It was just a stupid bet.{w} It wasn't prostitution."
+    tl "这只是个愚蠢的赌注。{w}可不是卖淫。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:514
 translate chinese sm1fs_t001_later_cceda642:
 
     # sy "I didn't mean-"
-    sy "I didn't mean-"
+    sy "我不是那个意思--"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:518
 translate chinese sm1fs_t001_later_78c7510c:
 
     # mc "Can I jump in here? Great."
-    mc "Can I jump in here? Great."
+    mc "我能插句话吗？太好了。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:519
 translate chinese sm1fs_t001_later_63f073b8:
 
     # mc "What my partner here is trying to say is that we've seen a small example of your work."
-    mc "What my partner here is trying to say is that we've seen a small example of your work."
+    mc "我这位搭档想说的是，我们已经看过你一小段表演了。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:520
 translate chinese sm1fs_t001_later_028dcf4f:
 
     # mc "We would like to explore your abilities further and possibly contract you for further... performances."
-    mc "We would like to explore your abilities further and possibly contract you for further... performances."
+    mc "我们想进一步发掘你的能力，并有可能与你签订进一步...表演的合同。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:523
 translate chinese sm1fs_t001_later_3fc23ad0:
 
     # mc "Of course, we're not looking for charity."
-    mc "Of course, we're not looking for charity."
+    mc "当然，我们也不想让你白干活。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:524
 translate chinese sm1fs_t001_later_811566aa:
 
     # mc "You're a dedicated performer, and deserve adequate compensation."
-    mc "You're a dedicated performer, and deserve adequate compensation."
+    mc "你是一位敬业的表演者，理应得到合理的报酬。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:526
 translate chinese sm1fs_t001_later_d8faf6f3:
 
     # tl "That... doesn't sound so bad."
-    tl "That... doesn't sound so bad."
+    tl "这...听起来还不错。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:530
 translate chinese sm1fs_t001_later_585b6ceb:
 
     # mc "Shall we continue?"
-    mc "Shall we continue?"
+    mc "我们能接着说吗？"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:532
 translate chinese sm1fs_t001_later_806d6603:
 
     # tl "I would like more information."
-    tl "I would like more information."
+    tl "我想听你们多介绍下。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:533
 translate chinese sm1fs_t001_later_c1404e6d:
 
     # mc "Stacy, go ahead."
-    mc "Stacy, go ahead."
+    mc "史黛西，你来说吧。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:535
 translate chinese sm1fs_t001_later_3584c356:
 
     # mct "Hopefully with more tact this time."
-    mct "Hopefully with more tact this time."
+    mct "希望这次你能说得更得体些。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:537
 translate chinese sm1fs_t001_later_4aac450c:
 
     # sy "Right, so. I assume you've heard of casting couch videos?"
-    sy "Right, so. I assume you've heard of casting couch videos?"
+    sy "好的，是这样。我猜你听说过选角沙发视频吧？"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:540
 translate chinese sm1fs_t001_later_1088cde2:
 
     # tl "Uh huh."
-    tl "Uh huh."
+    tl "嗯哼。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:543
 translate chinese sm1fs_t001_later_f05cd0ac:
 
     # sy "We'd like to film you - without your makeup - during a test of your talents and abilities."
-    sy "We'd like to film you - without your makeup - during a test of your talents and abilities."
+    sy "我们想给你拍视频--在不化妆的情况下，来测试一下你的才华和能力。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:545
 translate chinese sm1fs_t001_later_5dadaba8:
 
     # tl "Who would I be working with?"
-    tl "Who would I be working with?"
+    tl "我会和谁搭档呢？"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:548
 translate chinese sm1fs_t001_later_fb00020d:
 
     # mc "Me."
-    mc "Me."
+    mc "我。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:550
 translate chinese sm1fs_t001_later_abd9c73f:
 
     # sy "Our studio specializes in a specific... genre."
-    sy "Our studio specializes in a specific... genre."
+    sy "我们的工作室专注于某一特定的...类型。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:551
 translate chinese sm1fs_t001_later_ef4b491b:
 
     # sy "Our only male performer is [mcname] here."
-    sy "Our only male performer is [mcname] here."
+    sy "我们唯一的男性演员就是这位[mcname]。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:554
 translate chinese sm1fs_t001_later_3937709c:
 
     # tl "So, you pay me to fuck him on camera?"
-    tl "So, you pay me to fuck him on camera?"
+    tl "所以，你们付钱让我在镜头前和他做爱？"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:557
 translate chinese sm1fs_t001_later_92539d25:
 
     # sy "Not yet. This will just be a casting video. It won't be sold."
-    sy "Not yet. This will just be a casting video. It won't be sold."
+    sy "还不是呢。这只是一个试镜视频。不会拿去售卖的。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:559
 translate chinese sm1fs_t001_later_430d575c:
 
     # mc "But if it goes well you can expect paying work in the future."
-    mc "But if it goes well you can expect paying work in the future."
+    mc "但如果效果好的话，你以后就能接到有报酬的工作了。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:561
 translate chinese sm1fs_t001_later_5794cb4e:
 
     # tl "Anything else I should know?"
-    tl "Anything else I should know?"
+    tl "还有什么我需要知道的吗？"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:563
 translate chinese sm1fs_t001_later_1ba2527e:
 
     # mc "Probably. Do you have any immediate questions or concerns?"
-    mc "Probably. Do you have any immediate questions or concerns?"
+    mc "可能以后会有。你现在有什么问题或顾虑吗？"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:566
 translate chinese sm1fs_t001_later_a6e2f17b:
 
     # tl "Hmm..."
-    tl "Hmm..."
+    tl "嗯..."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:567
 translate chinese sm1fs_t001_later_2c725c66:
 
     # tl "I was going to ask, \"How big is your cock?\", but I saw that earlier."
-    tl "I was going to ask, \"How big is your cock?\", but I saw that earlier."
+    tl "我本来想问，\"你的鸡巴有多大？\"，但我刚才已经看到过了。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:570
 translate chinese sm1fs_t001_later_8dc7e713:
 
     # sy "He's quite skilled with it. I can assure you."
-    sy "He's quite skilled with it. I can assure you."
+    sy "他在床上很有技巧的。我可以向你保证。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:572
 translate chinese sm1fs_t001_later_b415b15c:
 
     # mc "I could literally provide you with at least a dozen satisfied references."
-    mc "I could literally provide you with at least a dozen satisfied references."
+    mc "我背后至少有一打推荐人都给我五星好评呢。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:575
 translate chinese sm1fs_t001_later_1526081d:
 
     # tl "Hmm."
-    tl "Hmm."
+    tl "嗯。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:577
 translate chinese sm1fs_t001_later_d747f5f8:
 
     # sy "You don't have to agree now. Let me give you my digits and you can contact-"
-    sy "You don't have to agree now. Let me give you my digits and you can contact-"
+    sy "你不用现在就答应。我把我的联系方式给你，你可以联系--"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:580
 translate chinese sm1fs_t001_later_be4355b4:
 
     # tl "Okay, I'll do it."
-    tl "Okay, I'll do it."
+    tl "好的，我答应了。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:582
 translate chinese sm1fs_t001_later_c3b9d076:
 
     # mct "Well, that was easy enough."
-    mct "Well, that was easy enough."
+    mct "哦，还挺容易的。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:583
 translate chinese sm1fs_t001_later_43da9cc2:
 
     # tl "Give me your info and I'll let you know when it fits into my schedule."
-    tl "Give me your info and I'll let you know when it fits into my schedule."
+    tl "你把联系方式给我，我安排好时间后会通知你。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:586
 translate chinese sm1fs_t001_later_bd854202:
 
     # sy "Sounds good."
-    sy "Sounds good."
+    sy "听起来不错。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:588
 translate chinese sm1fs_t001_later_be3b74f9:
 
     # mc "Oh, it probably goes without saying, but we'd prefer to shoot this video without using condoms."
-    mc "Oh, it probably goes without saying, but we'd prefer to shoot this video without using condoms."
+    mc "哦，还有一个问题可能不用说大家也明白，但我们希望拍这个视频的时候不戴避孕套。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:590
 translate chinese sm1fs_t001_later_468b2675:
 
     # tl "That's fine with me. I'm protected."
-    tl "That's fine with me. I'm protected."
+    tl "没问题。我有采取避孕措施。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:593
 translate chinese sm1fs_t001_later_9263f762:
 
     # sy "Terrific. Here's my info."
-    sy "Terrific. Here's my info."
+    sy "太好了。这是我的联系方式。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:595
 translate chinese sm1fs_t001_later_e35cdf52:
 
     # tl "Excellent, and here's mine."
-    tl "Excellent, and here's mine."
+    tl "好，这是我的。"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:597
 translate chinese sm1fs_t001_later_def95913:
 
     # mc "We look forward to hearing from you."
-    mc "We look forward to hearing from you."
+    mc "我们期待你的消息哦。"
 
 translate chinese strings:
 
     # game/code/scenes/theatre/sm1fs-t001.rpy:277
     old "Fight"
-    new "Fight"
+    new "战斗"
 
     # game/code/scenes/theatre/sm1fs-t001.rpy:277
     old "Flight"
-    new "Flight"
+    new "逃跑"
 
     # game/code/scenes/theatre/sm1fs-t001.rpy:277
     old "Fuck"
-    new "Fuck"
+    new "操"
 
