@@ -320,583 +320,583 @@ translate chinese sm1fs_t002_1c6bb585:
 translate chinese sm1fs_t002_47a15334:
 
     # sy "What kind of freakier things?"
-    sy "What kind of freakier things?"
+    sy "你说‘更古怪’，是指哪方面呢？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:220
 translate chinese sm1fs_t002_644a163c:
 
     # tl "You know, more extreme stuff."
-    tl "You know, more extreme stuff."
+    tl "你懂的，更极端的那种。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:223
 translate chinese sm1fs_t002_c596af75:
 
     # mc "I think we're looking for more specifics. We want to know what kind of films you'd be open to making."
-    mc "I think we're looking for more specifics. We want to know what kind of films you'd be open to making."
+    mc "我觉得我们想了解得更具体些。我们想知道你愿意拍什么样的成人影片。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:226
 translate chinese sm1fs_t002_11a0096c:
 
     # tl "Off the top of my head, I've got a size fetish, cum swallowing and deep throating, breath play, masochism, pain, getting hit, clamps, electro-stim, anything where I'm in danger."
-    tl "Off the top of my head, I've got a size fetish, cum swallowing and deep throating, breath play, masochism, pain, getting hit, clamps, electro-stim, anything where I'm in danger."
+    tl "我现在能想到的，就是我好尺寸这口、还喜欢吞精、深喉、窒息play、受虐、疼痛、被打、用夹子、电刺激，还有任何让我处于危险中的场景。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:227
 translate chinese sm1fs_t002_8ca50c48:
 
     # tl "Just to name a few."
-    tl "Just to name a few."
+    tl "就先举这几个例子吧。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:230
 translate chinese sm1fs_t002_8f9a3d31:
 
     # tl "Looking forward to seeing how our styles mix."
-    tl "Looking forward to seeing how our styles mix."
+    tl "很期待看看我们的风格会怎么融合。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:232
 translate chinese sm1fs_t002_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "我也是。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:235
 translate chinese sm1fs_t002_4f74da77:
 
     # tl "Well what about you, [mcname]? What are you into?"
-    tl "Well what about you, [mcname]? What are you into?"
+    tl "你呢，[mcname]？你喜欢什么？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:238
 translate chinese sm1fs_t002_0399658f:
 
     # sy "Oh he's already got the job."
-    sy "Oh he's already got the job."
+    sy "哦，他已经得到这份工作了。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:241
 translate chinese sm1fs_t002_cde5e9f5:
 
     # tl "Yeah, but I want to know if we're going to be a good match too."
-    tl "Yeah, but I want to know if we're going to be a good match too."
+    tl "是的，但我也想知道我们俩搭不搭得来。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:243
 translate chinese sm1fs_t002_86b0afbd:
 
     # mc "That's fair. Well..."
-    mc "That's fair. Well..."
+    mc "说得有道理。嗯..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:249
 translate chinese sm1fs_t002_6d3a5821:
 
     # mc "Doggy is pretty great! And so is cowgirl?"
-    mc "Doggy is pretty great! And so is cowgirl?"
+    mc "后入式很棒哎！女上位也很不错？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:252
 translate chinese sm1fs_t002_f3a04bb7:
 
     # tl "I mean, for your first time, sure."
-    tl "I mean, for your first time, sure."
+    tl "在我看来，如果是第一次接触的话，当然可以选这些。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:258
 translate chinese sm1fs_t002_b2948e8a:
 
     # mc "I like to give a good spanking from time to time."
-    mc "I like to give a good spanking from time to time."
+    mc "我喜欢时不时地打一下屁股。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:261
 translate chinese sm1fs_t002_2deb87b7:
 
     # tl "Hopefully it's more than from time to time..."
-    tl "Hopefully it's more than from time to time..."
+    tl "希望打得能多一些..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:267
 translate chinese sm1fs_t002_f7cf894f:
 
     # mc "I am down for all of those things. I like the extreme stuff."
-    mc "I am down for all of those things. I like the extreme stuff."
+    mc "这些我都愿意尝试。我喜欢那种比较极端的玩法。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:270
 translate chinese sm1fs_t002_fd3e3c7d:
 
     # tl "That's good to hear."
-    tl "That's good to hear."
+    tl "很高兴听到你这么说。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:276
 translate chinese sm1fs_t002_9fffdbeb:
 
     # mc "I'm down for that, especially if you can do the freaky stuff to me."
-    mc "I'm down for that, especially if you can do the freaky stuff to me."
+    mc "我愿意尝试，特别是如果你能对我玩那些古怪的花样。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:279
 translate chinese sm1fs_t002_5c5a668c:
 
     # tl "I've never tried that... But I'd be open to it."
-    tl "I've never tried that... But I'd be open to it."
+    tl "我从没试过...但我愿意试试。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:283
 translate chinese sm1fs_t002_5dc990a6:
 
     # tl "Well, that's good enough for me. What other questions have you got?"
-    tl "Well, that's good enough for me. What other questions have you got?"
+    tl "好吧，对我来说这就够了。你们还有其他问题吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:285
 translate chinese sm1fs_t002_5878e39a:
 
     # mc "Uhm... Let's see..."
-    mc "Uhm... Let's see..."
+    mc "嗯...我想想..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:288
 translate chinese sm1fs_t002_f82923e3:
 
     # sy "Why don't you tell us about why you're interested in becoming an adult star?"
-    sy "Why don't you tell us about why you're interested in becoming an adult star?"
+    sy "不如你说说看，你为什么有兴趣成为一名成人影片明星呢？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:291
 translate chinese sm1fs_t002_1b2ac3e0:
 
     # tl "I guess for the money. Isn't that why most people do it?"
-    tl "I guess for the money. Isn't that why most people do it?"
+    tl "我想是为了钱吧。大多数人做这行不都是为了钱吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:293
 translate chinese sm1fs_t002_5cc8cc1f:
 
     # sy "Sometimes people are just in to getting fucked on camera."
-    sy "Sometimes people are just in to getting fucked on camera."
+    sy "有时候，人们就是喜欢在镜头前被操。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:294
 translate chinese sm1fs_t002_7648c8e0:
 
     # tl "Is that why you're doing this?"
-    tl "Is that why you're doing this?"
+    tl "这就是你们做这行的原因吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:295
 translate chinese sm1fs_t002_dbef676e:
 
     # sy "Partially..."
-    sy "Partially..."
+    sy "有一部分原因是..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:303
 translate chinese sm1fs_t002_63f502f0:
 
     # tl "So what's your two's story?"
-    tl "So what's your two's story?"
+    tl "哦，那你们俩有什么故事呢？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:305
 translate chinese sm1fs_t002_6b2e55df:
 
     # mc "Oh, well..."
-    mc "Oh, well..."
+    mc "哦，是这样..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:309
 translate chinese sm1fs_t002_b14f9cda:
 
     # mc "She's my sister."
-    mc "She's my sister."
+    mc "她是我妹妹。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:311
 translate chinese sm1fs_t002_f974ca6e:
 
     # mc "She's my best friend."
-    mc "She's my best friend."
+    mc "她是我最好的朋友。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:312
 translate chinese sm1fs_t002_0b94bbc1:
 
     # mc "And my business partner here at the studio."
-    mc "And my business partner here at the studio."
+    mc "也是我在工作室的生意伙伴。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:315
 translate chinese sm1fs_t002_8770742a:
 
     # tl "That's pretty hot."
-    tl "That's pretty hot."
+    tl "这还挺带劲的。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:318
 translate chinese sm1fs_t002_10dee4ef:
 
     # mc "You think so?"
-    mc "You think so?"
+    mc "你真这么觉得？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:320
 translate chinese sm1fs_t002_600a16cc:
 
     # tl "Yeah, I'm into all the freaky shit. Why wouldn't I think it's hot?"
-    tl "Yeah, I'm into all the freaky shit. Why wouldn't I think it's hot?"
+    tl "对啊，我喜欢各种古怪的东西。所以我自然也觉得这很带劲啦。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:321
 translate chinese sm1fs_t002_21ab16a1:
 
     # mc "That's a good point..."
-    mc "That's a good point..."
+    mc "说得好..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:324
 translate chinese sm1fs_t002_91380777:
 
     # sy "Next up in the interview, why don't you tell us about your first orgasm?"
-    sy "Next up in the interview, why don't you tell us about your first orgasm?"
+    sy "接下来的问题是，不如你描述一下你第一次高潮是什么样的？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:327
 translate chinese sm1fs_t002_4725d0bb:
 
     # tl "Okay."
-    tl "Okay."
+    tl "好的。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:330
 translate chinese sm1fs_t002_b6068290:
 
     # tl "My first orgasm was... Oh yeah, it was the shampoo bottles."
-    tl "My first orgasm was... Oh yeah, it was the shampoo bottles."
+    tl "我的第一次高潮是...哦，对，是洗发水瓶子。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:331
 translate chinese sm1fs_t002_73e1d88d:
 
     # tl "When I first learned how to masturbate, I tried it out. It was a lot of rubbing and all it did was make me horny."
-    tl "When I first learned how to masturbate, I tried it out. It was a lot of rubbing and all it did was make me horny."
+    tl "我第一次学会自慰的时候，就试了试。就是一顿摩擦，结果只是让我欲火焚身。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:335
 translate chinese sm1fs_t002_49c28b0c:
 
     # tl "I needed to put something in me, anything. And the closest thing to me was a shampoo bottle. I was about to push it into my pussy, but didn't want to lose my virginity to a shampoo bottle."
-    tl "I needed to put something in me, anything. And the closest thing to me was a shampoo bottle. I was about to push it into my pussy, but didn't want to lose my virginity to a shampoo bottle."
+    tl "我得往身体里放点东西，什么都行。离我最近的就是一个洗发水瓶子。我当时差点就把它塞进我的小穴了，但又不想把第一次给一个洗发水瓶子。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:338
 translate chinese sm1fs_t002_c4a98b85:
 
     # tl "So I put it in my ass. It was a whole lot of work, but after a bit of wiggling I managed to get it inside."
-    tl "So I put it in my ass. It was a whole lot of work, but after a bit of wiggling I managed to get it inside."
+    tl "所以我就把它塞进了我的肛门。费了好大劲，不过扭动了好一会儿之后，我还是成功塞进去了。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:341
 translate chinese sm1fs_t002_86444321:
 
     # tl "I came so hard when it slid in. I tried moving it, and I came, like, immediately again. I figured the only thing better than that would be if I also put a shampoo bottle in my pussy."
-    tl "I came so hard when it slid in. I tried moving it, and I came, like, immediately again. I figured the only thing better than that would be if I also put a shampoo bottle in my pussy."
+    tl "当它滑进去的时候，我高潮得很厉害。我试着动了动，然后马上又高潮了一次。要是有什么比这还爽的事，就是再往我的阴道里也塞一个洗发水瓶子。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:344
 translate chinese sm1fs_t002_f374f593:
 
     # tl "I ended up dp-ing myself in the bathtub for like a half hour with the two shampoo bottles, and it was amazing."
-    tl "I ended up dp-ing myself in the bathtub for like a half hour with the two shampoo bottles, and it was amazing."
+    tl "最后我用了两个洗发水瓶子，在浴缸里玩了差不多半个小时，简直太爽了。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:345
 translate chinese sm1fs_t002_c5e7e592:
 
     # tl "It's definitely at least my first orgasm I remember."
-    tl "It's definitely at least my first orgasm I remember."
+    tl "这绝对是我记忆中的第一次高潮。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:349
 translate chinese sm1fs_t002_0e06f20c:
 
     # mc "That... Kind of explains a lot."
-    mc "That... Kind of explains a lot."
+    mc "这...倒是解释了很多事。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:352
 translate chinese sm1fs_t002_1c300718:
 
     # tl "Definitely why I have the size fetish and like getting double penetrated."
-    tl "Definitely why I have the size fetish and like getting double penetrated."
+    tl "这就是为什么我喜欢大尺寸，还喜欢被双洞插入。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:355
 translate chinese sm1fs_t002_51484701:
 
     # mc "I think that's the last of the questions. Maybe we start the performance part of the interview?"
-    mc "I think that's the last of the questions. Maybe we start the performance part of the interview?"
+    mc "我觉得这差不多是最后一个问题了。也许我们该开始采访的表演部分了？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:359
 translate chinese sm1fs_t002_b4bbb763:
 
     # sy "Yes!"
-    sy "Yes!"
+    sy "好啊！"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:363
 translate chinese sm1fs_t002_7a88b35e:
 
     # tl "Sure, how are we starting?"
-    tl "Sure, how are we starting?"
+    tl "行，那我们怎么开始呢？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:367
 translate chinese sm1fs_t002_19f8a7c5:
 
     # sy "Maybe we'll have you show off your kissing with me?"
-    sy "Maybe we'll have you show off your kissing with me?"
+    sy "也许可以先让你和我展示一下接吻？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:369
 translate chinese sm1fs_t002_733e7294:
 
     # tl "Cool with me. I don't think I've really ever made out with a chick. At least sober."
-    tl "Cool with me. I don't think I've really ever made out with a chick. At least sober."
+    tl "我没问题。我觉得我还从来没和女生接过吻呢。至少清醒的时候没有过。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:371
 translate chinese sm1fs_t002_2ac623c8:
 
     # sy "Well I am more than happy to be your first!"
-    sy "Well I am more than happy to be your first!"
+    sy "好吧，我非常乐意成为你的第一个！"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:372
 translate chinese sm1fs_t002_21f1b495:
 
     # sy "Lets' get this party started!"
-    sy "Lets' get this party started!"
+    sy "嗯，我很乐意成为你的第一次！"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:394
 translate chinese sm1fs_t002_sex_e4ccea3e:
 
     # sy "Huh."
-    sy "Huh."
+    sy "嗯。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:396
 translate chinese sm1fs_t002_sex_52e1d5bf:
 
     # tl "Huh, what?"
-    tl "Huh, what?"
+    tl "嗯什么？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:399
 translate chinese sm1fs_t002_sex_74067702:
 
     # sy "It was okay."
-    sy "It was okay."
+    sy "还可以吧。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:401
 translate chinese sm1fs_t002_sex_91278382:
 
     # tl "Okay my ass. I'm a great kisser."
-    tl "Okay my ass. I'm a great kisser."
+    tl "还可以个鬼。我可是个接吻高手。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:403
 translate chinese sm1fs_t002_sex_a3c3b52c:
 
     # sy "I mean, it wasn't terrible but..."
-    sy "I mean, it wasn't terrible but..."
+    sy "我是说，也不算太糟糕，但是..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:406
 translate chinese sm1fs_t002_sex_02221ef0:
 
     # tl "Let me try again then."
-    tl "Let me try again then."
+    tl "那我再试一次。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:408
 translate chinese sm1fs_t002_sex_8e05ed5a:
 
     # sy "I won't say no to that."
-    sy "I won't say no to that."
+    sy "我不会拒绝的。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:419
 translate chinese sm1fs_t002_sex_c148fa61:
 
     # sy "I mean, definitely better."
-    sy "I mean, definitely better."
+    sy "哦豁，这次肯定好多了。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:424
 translate chinese sm1fs_t002_sex_9f4a6a14:
 
     # sy "How'd it look on camera?"
-    sy "How'd it look on camera?"
+    sy "在镜头里看起来怎么样？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:428
 translate chinese sm1fs_t002_sex_41f7683f:
 
     # mc "Uhh, I think... That regular making out doesn't always look good on camera. So maybe it's not that you're a bad kisser, you've just never kissed anyone on camera?"
-    mc "Uhh, I think... That regular making out doesn't always look good on camera. So maybe it's not that you're a bad kisser, you've just never kissed anyone on camera?"
+    mc "呃，我觉得...普通的接吻在镜头里不一定好看。所以也许不是你接吻技术不好，只是你以前没在镜头前和人接过吻。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:432
 translate chinese sm1fs_t002_sex_4b6e26e3:
 
     # tl "Bullshit. [mcname]. Come over here."
-    tl "Bullshit. [mcname]. Come over here."
+    tl "胡说八道。[mcname]，到这儿来。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:436
 translate chinese sm1fs_t002_sex_2ffe9bdf:
 
     # tl "I'll show you some good kissing."
-    tl "I'll show you some good kissing."
+    tl "我给你展示一下什么是高质量的接吻。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:440
 translate chinese sm1fs_t002_sex_ef1a84d2:
 
     # tl "I'll show you good kissing."
-    tl "I'll show you good kissing."
+    tl "我会让你见识见识怎么好好接吻。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:452
 translate chinese sm1fs_t002_sex_8cb4de7c:
 
     # tl "How'd you like that, cowboy? Good enough?"
-    tl "How'd you like that, cowboy? Good enough?"
+    tl "你觉得怎么样，帅哥？够好了吧？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:454
 translate chinese sm1fs_t002_sex_41ca6c81:
 
     # mc "It wasn't bad at all."
-    mc "It wasn't bad at all."
+    mc "一点也不差。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:455
 translate chinese sm1fs_t002_sex_c8ea6348:
 
     # mc "How'd it look on camera?"
-    mc "How'd it look on camera?"
+    mc "上镜效果如何？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:458
 translate chinese sm1fs_t002_sex_f39b8737:
 
     # sy "Better. But still could use some on camera work, I think."
-    sy "Better. But still could use some on camera work, I think."
+    sy "好多了。但我觉得在镜头表现方面还是可以再改进一下。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:461
 translate chinese sm1fs_t002_sex_8855ff15:
 
     # mc "But that's true for everyone their first time on camera. So, uh, let's not get stuck on that."
-    mc "But that's true for everyone their first time on camera. So, uh, let's not get stuck on that."
+    mc "不过，对于第一次上镜的人来说，这都是正常的。所以，呃，我们别纠结这个了。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:463
 translate chinese sm1fs_t002_sex_675b9296:
 
     # tl "Whatever. What's next on your audition list?"
-    tl "Whatever. What's next on your audition list?"
+    tl "随便啦。你们试镜清单上的下一项是什么？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:466
 translate chinese sm1fs_t002_sex_afd74152:
 
     # mc "What do you think?"
-    mc "What do you think?"
+    mc "你觉得呢？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:468
 translate chinese sm1fs_t002_sex_a5bd875e:
 
     # sy "Probably a blowjob. That'll be something we do all the time."
-    sy "Probably a blowjob. That'll be something we do all the time."
+    sy "可能是口交吧。这是我们经常会拍的场景。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:472
 translate chinese sm1fs_t002_sex_b6378224:
 
     # tl "Cool with me."
-    tl "Cool with me."
+    tl "我没问题。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:474
 translate chinese sm1fs_t002_sex_4fe0c1d5:
 
     # sy "Maybe take your clothes off? It would be good to see you naked."
-    sy "Maybe take your clothes off? It would be good to see you naked."
+    sy "要不把衣服脱了？看看你的裸体也不错。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:477
 translate chinese sm1fs_t002_sex_35aea4ba:
 
     # tl "Getting naked for a blowjob?"
-    tl "Getting naked for a blowjob?"
+    tl "为了口交还得脱光？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:479
 translate chinese sm1fs_t002_sex_2401509b:
 
     # mc "I mean, when we do this for a scene you'll probably already be naked."
-    mc "I mean, when we do this for a scene you'll probably already be naked."
+    mc "我是说，等我们正式拍这场戏的时候 你可能已经一丝不挂了。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:482
 translate chinese sm1fs_t002_sex_d2f9e242:
 
     # tl "Fair enough."
-    tl "Fair enough."
+    tl "有道理。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:489
 translate chinese sm1fs_t002_sex_14b3cfb7:
 
     # tl "Oh, real quick, so we don't have to do this later. [mcname], can you pull out my plug?"
-    tl "Oh, real quick, so we don't have to do this later. [mcname], can you pull out my plug?"
+    tl "哦，得赶紧，省得一会儿还得弄。[mcname]，你能把我屁股里的肛塞取出来吗？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:492
 translate chinese sm1fs_t002_sex_1932e9e4:
 
     # mc "Your..."
-    mc "Your..."
+    mc "你的..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:502
 translate chinese sm1fs_t002_sex_1dece518:
 
     # tl "My butt plug."
-    tl "My butt plug."
+    tl "我的肛塞。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:505
 translate chinese sm1fs_t002_sex_d70673d8:
 
     # sy "You wore a butt plug for the audition?"
-    sy "You wore a butt plug for the audition?"
+    sy "你试镜还戴着肛塞啊？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:508
 translate chinese sm1fs_t002_sex_6900ad1c:
 
     # tl "I mean, I kind of always have one in."
-    tl "I mean, I kind of always have one in."
+    tl "老实说，我基本上一直都戴着一个。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:510
 translate chinese sm1fs_t002_sex_5fa52909:
 
     # sy "Hawt."
-    sy "Hawt."
+    sy "好性感。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:513
 translate chinese sm1fs_t002_sex_65483227:
 
     # mc "Yeah, I can help pulls that out."
-    mc "Yeah, I can help pulls that out."
+    mc "行，我可以帮你取出来。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:515
 translate chinese sm1fs_t002_sex_6063c570:
 
     # tl "Cool."
-    tl "Cool."
+    tl "好。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:518
 translate chinese sm1fs_t002_sex_2d348d28:
 
     # mct "Damn, this plug is no joke. How the hell did she get it in there?"
-    mct "Damn, this plug is no joke. How the hell did she get it in there?"
+    mct "靠，这肛塞可不一般啊。她到底是怎么塞进去的？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:521
 translate chinese sm1fs_t002_sex_9050dde5:
 
     # sy "Damn, girl."
-    sy "Damn, girl."
+    sy "哇哦，妹子。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:524
 translate chinese sm1fs_t002_sex_e58a5352:
 
     # tl "I like 'em big, what can I say?"
-    tl "I like 'em big, what can I say?"
+    tl "我就喜欢大的，我能说什么呢？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:530
 translate chinese sm1fs_t002_sex_df604538:
 
     # tl "Come on, whip it out."
-    tl "Come on, whip it out."
+    tl "来吧，掏出来。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:534
 translate chinese sm1fs_t002_sex_e9f1f302:
 
     # tl "Damn. Someone is defintiely not shy."
-    tl "Damn. Someone is defintiely not shy."
+    tl "靠。某人真是一点也不害羞啊。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:536
 translate chinese sm1fs_t002_sex_64e8e006:
 
     # mc "I like putting on a show."
-    mc "I like putting on a show."
+    mc "我喜欢表演。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:542
 translate chinese sm1fs_t002_sex_12c8cce1:
 
     # tl "Mmmm. Show me..."
-    tl "Mmmm. Show me..."
+    tl "嗯...证明给我看..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:553
 translate chinese sm1fs_t002_sex_46a6664f:
 
     # sy "Okay, not bad so far, not bad."
-    sy "Okay, not bad so far, not bad."
+    sy "好，目前为止还不错，还不错。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:557
 translate chinese sm1fs_t002_sex_7f28e87d:
 
     # sy "Tell me, [mcname], how is it for you so far?"
-    sy "Tell me, [mcname], how is it for you so far?"
+    sy "告诉我，[mcname]，到目前为止你觉得怎么样？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:560
 translate chinese sm1fs_t002_sex_a56b58f5:
 
     # mc "A blowjob is a blowjob, Stacy."
-    mc "A blowjob is a blowjob, Stacy."
+    mc "口交不都一样嘛，史黛西。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:562
 translate chinese sm1fs_t002_sex_f4ab3307:
