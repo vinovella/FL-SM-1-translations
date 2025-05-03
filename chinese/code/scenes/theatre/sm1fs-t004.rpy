@@ -2,523 +2,523 @@
 translate chinese sm1fs_t004_d525eeaa:
 
     # dvh "Goedendag, everyone."
-    dvh "Goedendag, everyone."
+    dvh "大家下午好。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:36
 translate chinese sm1fs_t004_bc76ec4f:
 
     # tl "What's going on?"
-    tl "What's going on?"
+    tl "这是怎么了？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:39
 translate chinese sm1fs_t004_dbea22b2:
 
     # dvh "Today we are doing something different. We have been doing the same show now for two months."
-    dvh "Today we are doing something different. We have been doing the same show now for two months."
+    dvh "今天我们要做点不一样的。同一出戏我们已经演了两个月了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:42
 translate chinese sm1fs_t004_6a0fcf62:
 
     # dvh "I suspect that many of us could do this show while sleeping, at this point."
-    dvh "I suspect that many of us could do this show while sleeping, at this point."
+    dvh "我觉得，现在我们很多人就算睡着了都能演好这出戏。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:43
 translate chinese sm1fs_t004_64262d6e:
 
     # dvh "Which does not make good actors. Today, we are going to be doing a workshop, to keep your instincts honed."
-    dvh "Which does not make good actors. Today, we are going to be doing a workshop, to keep your instincts honed."
+    dvh "但这可培养不出好演员。今天，我们要举办一个研习班，来磨练一下你们的表演直觉。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:46
 translate chinese sm1fs_t004_89246670:
 
     # tl "Uggggggggghhhhhh."
-    tl "Uggggggggghhhhhh."
+    tl "呃..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:49
 translate chinese sm1fs_t004_1d80b7b1:
 
     # dvh "I will hear no back talk. Believe me when I say that this is important."
-    dvh "I will hear no back talk. Believe me when I say that this is important."
+    dvh "别跟我顶嘴。相信我，这很重要。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:52
 translate chinese sm1fs_t004_3aab00f3:
 
     # km "Then what is he doing here? He's just a stagehand."
-    km "Then what is he doing here? He's just a stagehand."
+    km "那他在这儿干什么？他不过是个舞台助手。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:55
 translate chinese sm1fs_t004_a2856a1e:
 
     # mct "Jesus. Sounds like someone is in a bad mood today."
-    mct "Jesus. Sounds like someone is in a bad mood today."
+    mct "喔。听起来有人今天心情不太好啊。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:58
 translate chinese sm1fs_t004_e566df3e:
 
     # dvh "He has demonstrated interest in the craft. I want him to witness the amount of work it takes to be an actor."
-    dvh "He has demonstrated interest in the craft. I want him to witness the amount of work it takes to be an actor."
+    dvh "他表现出了对表演这一行的兴趣。我想让他见识一下，成为一名演员需要付出多少努力。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:59
 translate chinese sm1fs_t004_1c414820:
 
     # dvh "And, he is in need of more training with Bruce. Today is as much of a workshop for us, as it is for the crew."
-    dvh "And, he is in need of more training with Bruce. Today is as much of a workshop for us, as it is for the crew."
+    dvh "而且，他还需要跟着布鲁斯接受更多培训。今天这个研习班对我们来说是学习的机会，对工作人员来说也是一样。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:62
 translate chinese sm1fs_t004_6fe4c086:
 
     # vs "So what are we going to be doing in the workshop?"
-    vs "So what are we going to be doing in the workshop?"
+    vs "那么，我们在研习班上要做些什么呢？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:65
 translate chinese sm1fs_t004_25811662:
 
     # dvh "First, we will be doing some group improvisation. I will be giving you each an emotion to try and elicit from the audience, who will be me."
-    dvh "First, we will be doing some group improvisation. I will be giving you each an emotion to try and elicit from the audience, who will be me."
+    dvh "首先，我们要进行一些小组即兴表演。我会给你们每个人一种情绪，让你们试着把这种情绪传达给观众，而这个观众就是我。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:69
 translate chinese sm1fs_t004_a2786aa3:
 
     # dvh "But first, I want you each to stretch. Before we begin to use our skills, our bodies must be ready."
-    dvh "But first, I want you each to stretch. Before we begin to use our skills, our bodies must be ready."
+    dvh "但首先，我希望你们每个人都先伸展一下。在运用我们的表演技巧之前，我们的身体得先做好准备。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:70
 translate chinese sm1fs_t004_a06adca3:
 
     # dvh "Chop, chop!"
-    dvh "Chop, chop!"
+    dvh "快点，快点！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:80
 translate chinese sm1fs_t004_42d43146:
 
     # tl "God, I {i}haaaaaaaaate{/i} these workshops."
-    tl "God, I {i}haaaaaaaaate{/i} these workshops."
+    tl "天哪，我真是{i}讨厌死{/i}这种研习班了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:83
 translate chinese sm1fs_t004_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "为什么？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:86
 translate chinese sm1fs_t004_25d49e08:
 
     # tl "They're fucking boring as hell. We do some stupid scene studies, and then we do some stupid trust building activity."
-    tl "They're fucking boring as hell. We do some stupid scene studies, and then we do some stupid trust building activity."
+    tl "实在是无聊透顶。就是让我们做一些愚蠢的场景分析，然后再做一些愚蠢的信任培养活动。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:89
 translate chinese sm1fs_t004_16c3c699:
 
     # mc "That doesn't sound that bad."
-    mc "That doesn't sound that bad."
+    mc "听起来也没那么糟糕吧。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:92
 translate chinese sm1fs_t004_f5a025f8:
 
     # tl "Pfft. Whatever."
-    tl "Pfft. Whatever."
+    tl "切。随你怎么说。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:95
 translate chinese sm1fs_t004_8f7346c1:
 
     # mc "What would you rather be doing?"
-    mc "What would you rather be doing?"
+    mc "那你更想做什么呢？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:98
 translate chinese sm1fs_t004_34c4f473:
 
     # tl "Literally anything. Even fucking you would be better than this."
-    tl "Literally anything. Even fucking you would be better than this."
+    tl "说真的，干什么都行。哪怕和你上床都比这个强。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:101
 translate chinese sm1fs_t004_fe1ef078:
 
     # mc "Well, ouch."
-    mc "Well, ouch."
+    mc "哎呀，真伤人。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:104
 translate chinese sm1fs_t004_83425536:
 
     # tl "I'm kidding. Fucking you is pretty all right."
-    tl "I'm kidding. Fucking you is pretty all right."
+    tl "开玩笑的啦。和你上床还挺不错的。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:107
 translate chinese sm1fs_t004_e22cfd27:
 
     # mc "I'd hope so."
-    mc "I'd hope so."
+    mc "但愿如此。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:110
 translate chinese sm1fs_t004_939ff553:
 
     # tl "But, I'd rather be practicing some monster makeup, or something. But Denise doesn't like horror at all. So, instead I have to sit and try to entertain myself during this stupid shit..."
-    tl "But, I'd rather be practicing some monster makeup, or something. But Denise doesn't like horror at all. So, instead I have to sit and try to entertain myself during this stupid shit..."
+    tl "不过，我宁愿去练习化一些怪物妆之类的。但丹妮丝一点都不喜欢恐怖片。所以，我只能坐在这儿，在这愚蠢的活动中想办法给自己找点乐子..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:113
 translate chinese sm1fs_t004_57385777:
 
     # mc "Well, I don't think it's that stupid."
-    mc "Well, I don't think it's that stupid."
+    mc "嗯，我觉得没那么蠢。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:117
 translate chinese sm1fs_t004_dba52e07:
 
     # tl "Yeah, yeah... well I better start stretching before Denise comes over here and yells at me."
-    tl "Yeah, yeah... well I better start stretching before Denise comes over here and yells at me."
+    tl "是是是...好吧，我最好开始做伸展运动了，免得丹妮丝过来冲我大喊大叫。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:124
 translate chinese sm1fs_t004_46c5af37:
 
     # vs "Come on, Denise! I bet you're working on a new show right now!"
-    vs "Come on, Denise! I bet you're working on a new show right now!"
+    vs "拜托啦，丹妮丝！我打赌你现在正在筹备一出新戏！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:127
 translate chinese sm1fs_t004_c2f8d11f:
 
     # dvh "I may. I may not. But, that is all you will hear from me."
-    dvh "I may. I may not. But, that is all you will hear from me."
+    dvh "也许吧。也有可能没有。但我就只能告诉你这么多。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:130
 translate chinese sm1fs_t004_678a025f:
 
     # vs "Pleeeaaaaaaase!"
-    vs "Pleeeaaaaaaase!"
+    vs "求你啦！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:133
 translate chinese sm1fs_t004_019f9461:
 
     # dvh "Begging does not suit you, Veronica."
-    dvh "Begging does not suit you, Veronica."
+    dvh "求人的样子可不适合你，维罗妮卡。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:136
 translate chinese sm1fs_t004_407b98bf:
 
     # vs "How about just a hint! Just a small little hint about what you're working on?"
-    vs "How about just a hint! Just a small little hint about what you're working on?"
+    vs "就给点提示嘛！就一点小提示，告诉我你在做什么？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:139
 translate chinese sm1fs_t004_99944ebe:
 
     # km "You heard her, Veronica. Knock it off and start stretching."
-    km "You heard her, Veronica. Knock it off and start stretching."
+    km "你听到她的话了，维罗妮卡。别闹了，开始做伸展运动。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:143
 translate chinese sm1fs_t004_0076395b:
 
     # vs "You're right, Kellie. I'll find out soon enough, I bet!"
-    vs "You're right, Kellie. I'll find out soon enough, I bet!"
+    vs "你说得对，凯莉。我打赌我很快就能知道了！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:147
 translate chinese sm1fs_t004_eae9d8ee:
 
     # dvh "Ya?"
-    dvh "Ya?"
+    dvh "嗯？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:150
 translate chinese sm1fs_t004_f33e0e8b:
 
     # mc "I was wondering if I could do the workshop too."
-    mc "I was wondering if I could do the workshop too."
+    mc "我在想我能不能也参加这个研习班。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:153
 translate chinese sm1fs_t004_4b6dbd24:
 
     # dvh "You are not an actor. You are a stagehand."
-    dvh "You are not an actor. You are a stagehand."
+    dvh "你不是演员。你是舞台助手。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:156
 translate chinese sm1fs_t004_c0671928:
 
     # mc "But I want to be an actor."
-    mc "But I want to be an actor."
+    mc "但我想成为一名演员。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:158
 translate chinese sm1fs_t004_552c5b1e:
 
     # mc "And you told me I have to show some initiative."
-    mc "And you told me I have to show some initiative."
+    mc "你还告诉我，我必须表现出一些主动性。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:161
 translate chinese sm1fs_t004_93008cfe:
 
     # dvh "Fine, you can participate."
-    dvh "Fine, you can participate."
+    dvh "好吧，你可以参加。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:164
 translate chinese sm1fs_t004_4440d747:
 
     # mc "Yaaay!"
-    mc "Yaaay!"
+    mc "耶！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:167
 translate chinese sm1fs_t004_f5640fee:
 
     # dvh "{i}But,{/i} only after you have finished your work with Bruce. Your role as a stagehand will not be overtaken by your desire to act. Understand?"
-    dvh "{i}But,{/i} only after you have finished your work with Bruce. Your role as a stagehand will not be overtaken by your desire to act. Understand?"
+    dvh "{i}但是，{/i}你得先完成和布鲁斯的工作。你的舞台助手工作可不能因为你想演戏的愿望而受到影响。明白了吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:171
 translate chinese sm1fs_t004_1b4f0b45:
 
     # mc "Yes, of course! Thank you, Denise!"
-    mc "Yes, of course! Thank you, Denise!"
+    mc "当然！谢谢你，丹妮丝！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:174
 translate chinese sm1fs_t004_f3131e16:
 
     # vs "Did I hear Denise say that you could join us for the workshop?"
-    vs "Did I hear Denise say that you could join us for the workshop?"
+    vs "我听到丹妮丝说，你可以和我们一起参加研讨会？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:177
 translate chinese sm1fs_t004_b6db7154:
 
     # mc "You did! At least, after I'm done working with Bruce!"
-    mc "You did! At least, after I'm done working with Bruce!"
+    mc "没错！至少在我和布鲁斯的工作完成之后就没问题！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:180
 translate chinese sm1fs_t004_f4d67eec:
 
     # vs "Oh that's awesome! Yay! You better work quickly, then!"
-    vs "Oh that's awesome! Yay! You better work quickly, then!"
+    vs "哦，太棒了！耶！那你最好快点干活！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:183
 translate chinese sm1fs_t004_21fb468d:
 
     # mc "Oh believe me, I'm going to!"
-    mc "Oh believe me, I'm going to!"
+    mc "哦，相信我，我会的！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:200
 translate chinese sm1fs_t004_backstage_d2b6aa4b:
 
     # sb "Hey, kid."
-    sb "Hey, kid."
+    sb "嘿，小子。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:203
 translate chinese sm1fs_t004_backstage_a44ffdf3:
 
     # mc "Hey, Bruce! Looks like I'm working with you today. So what's first!"
-    mc "Hey, Bruce! Looks like I'm working with you today. So what's first!"
+    mc "嘿，布鲁斯！看来我今天要和你一起工作了。那我们先做什么！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:206
 translate chinese sm1fs_t004_backstage_f1faa0b9:
 
     # sb "My, my. You sound very gung ho today."
-    sb "My, my. You sound very gung ho today."
+    sb "哟，你今天听起来干劲十足啊。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:209
 translate chinese sm1fs_t004_backstage_2627e8f0:
 
     # mc "Well, I'm, uhhhh, just excited to be a stagehand!"
-    mc "Well, I'm, uhhhh, just excited to be a stagehand!"
+    mc "嗯，我，呃，就是很兴奋能当舞台助手！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:212
 translate chinese sm1fs_t004_backstage_7cc815d7:
 
     # sb "And it has nothing to do at all with little miss thing out there being excited for you to join her in the workshop."
-    sb "And it has nothing to do at all with little miss thing out there being excited for you to join her in the workshop."
+    sb "是嘛，所以，这和那边那位小姑娘盼着你参加研习班，一点关系都没有？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:215
 translate chinese sm1fs_t004_backstage_75654578:
 
     # mc "Oh, well, uhmmmm..."
-    mc "Oh, well, uhmmmm..."
+    mc "哦，好吧，嗯嗯..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:216
 translate chinese sm1fs_t004_backstage_a4257f99:
 
     # mc "I'm surprised you heard that."
-    mc "I'm surprised you heard that."
+    mc "真没想到你听到了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:219
 translate chinese sm1fs_t004_backstage_1e9f0508:
 
     # sb "It's a theater. Great acoustics in here."
-    sb "It's a theater. Great acoustics in here."
+    sb "这里是剧院。这里的音响效果很好。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:222
 translate chinese sm1fs_t004_backstage_5ab7ad6f:
 
     # mc "Oh... that makes sense."
-    mc "Oh... that makes sense."
+    mc "哦...有道理。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:223
 translate chinese sm1fs_t004_backstage_95e36182:
 
     # mc "What are you looking at?"
-    mc "What are you looking at?"
+    mc "你在看什么？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:226
 translate chinese sm1fs_t004_backstage_8a85b66d:
 
     # sb "Wonderin' if I need to add more lights up there."
-    sb "Wonderin' if I need to add more lights up there."
+    sb "在想我是不是得在那儿再加点灯。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:227
 translate chinese sm1fs_t004_backstage_34041268:
 
     # sb "You know how to tie any knots?"
-    sb "You know how to tie any knots?"
+    sb "你会打结吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:230
 translate chinese sm1fs_t004_backstage_fcb00355:
 
     # mc "I can't say that I do..."
-    mc "I can't say that I do..."
+    mc "我得说我不会..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:233
 translate chinese sm1fs_t004_backstage_adf777c1:
 
     # sb "You should learn. It's a useful skill. You never know what you're going to use them for."
-    sb "You should learn. It's a useful skill. You never know what you're going to use them for."
+    sb "你应该学学。这是个很有用的技能。你永远不知道什么时候会用到。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:237
 translate chinese sm1fs_t004_backstage_5693a819:
 
     # mc "Huh..."
-    mc "Huh..."
+    mc "嗯..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:239
 translate chinese sm1fs_t004_backstage_adf09453:
 
     # sb "Well come on, I think I got something for you to do."
-    sb "Well come on, I think I got something for you to do."
+    sb "来吧，我想我有事情让你做。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:248
 translate chinese sm1fs_t004_backstage_cb70afb1:
 
     # mc "So..."
-    mc "So..."
+    mc "那..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:251
 translate chinese sm1fs_t004_backstage_0117ba17:
 
     # sb "So, we need to organize the prop storage area."
-    sb "So, we need to organize the prop storage area."
+    sb "那么，我们需要整理一下道具存放区。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:254
 translate chinese sm1fs_t004_backstage_184581c7:
 
     # mc "And that's..."
-    mc "And that's..."
+    mc "也就是..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:257
 translate chinese sm1fs_t004_backstage_45954c17:
 
     # sb "Everything in here. It's a bit of a mess, but with a new show coming, we need to be able to find stuff."
-    sb "Everything in here. It's a bit of a mess, but with a new show coming, we need to be able to find stuff."
+    sb "这里的所有东西。现在有点乱，但是新戏要来了，我们得能快速找到要用的东西。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:260
 translate chinese sm1fs_t004_backstage_541c3bbf:
 
     # mct "Shit, this is going to suck..."
-    mct "Shit, this is going to suck..."
+    mct "靠，这可太糟了..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:263
 translate chinese sm1fs_t004_backstage_cc075f63:
 
     # sb "Yeah, this is going to suck."
-    sb "Yeah, this is going to suck."
+    sb "是啊，这可够麻烦的。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:266
 translate chinese sm1fs_t004_backstage_442a4c6a:
 
     # mct "Can he read my mind!?"
-    mct "Can he read my mind!?"
+    mct "他会读心术吗!?"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:269
 translate chinese sm1fs_t004_backstage_716575f8:
 
     # sb "And if you're wondering if I can read your mind, I can't. This is just a shitty job."
-    sb "And if you're wondering if I can read your mind, I can't. This is just a shitty job."
+    sb "如果你在想我是不是会读心术，我不会。这本来就是个讨厌的活儿。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:273
 translate chinese sm1fs_t004_backstage_8feb6de7:
 
     # mct "Oh..."
-    mct "Oh..."
+    mct "哦..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:277
 translate chinese sm1fs_t004_backstage_e48641ad:
 
     # sb "Good luck kid. If you need me, I'll be talking with Denise."
-    sb "Good luck kid. If you need me, I'll be talking with Denise."
+    sb "祝你好运，小子。我会去和丹妮丝谈话，要是你需要帮忙，过来找我。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:281
 translate chinese sm1fs_t004_backstage_cacddeec:
 
     # mct "God... where do I even start?"
-    mct "God... where do I even start?"
+    mct "老天...我到底该从哪儿开始啊？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:284
 translate chinese sm1fs_t004_backstage_6e557ee8:
 
     # mct "This is going to suck..."
-    mct "This is going to suck..."
+    mct "这下糟了..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:302
 translate chinese sm1fs_t004_one_hour_later_d005d5b4:
 
     # mct "Shit... this is exhausting..."
-    mct "Shit... this is exhausting..."
+    mct "靠...累死我了..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:306
 translate chinese sm1fs_t004_one_hour_later_cd832782:
 
     # sb "Wow, you did a lot of work in here, [mcname]."
-    sb "Wow, you did a lot of work in here, [mcname]."
+    sb "哇，你在这儿干了不少活儿啊，[mcname]。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:309
 translate chinese sm1fs_t004_one_hour_later_8c8521a7:
 
     # mct "What's he talking about!? It looks exactly the same!"
-    mct "What's he talking about!? It looks exactly the same!"
+    mct "他在说什么啊!? 这里看起来跟原来一模一样啊！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:312
 translate chinese sm1fs_t004_one_hour_later_184163db:
 
     # mc "I'm glad you think so."
-    mc "I'm glad you think so."
+    mc "我很高兴你这么想。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:315
 translate chinese sm1fs_t004_one_hour_later_1d1ee173:
 
     # sb "I do."
-    sb "I do."
+    sb "我确实这么觉得。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:318
 translate chinese sm1fs_t004_one_hour_later_94794782:
 
     # mc "What else do you want me to do?"
-    mc "What else do you want me to do?"
+    mc "你还想让我做什么？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:322
 translate chinese sm1fs_t004_one_hour_later_b4a34845:
 
     # sb "Just finish up in here and then you can go and join the actresses on stage."
-    sb "Just finish up in here and then you can go and join the actresses on stage."
+    sb "把这儿的活儿收尾一下，然后你就可以去舞台上和女演员们一起参加研习班了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:325
 translate chinese sm1fs_t004_one_hour_later_1adeaa84:
 
     # mc "Thanks Bruce!"
-    mc "Thanks Bruce!"
+    mc "谢谢你，布鲁斯！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:328
 translate chinese sm1fs_t004_one_hour_later_6aa2758c:
 
     # sb "Don't mention it."
-    sb "Don't mention it."
+    sb "小事儿。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:334
 translate chinese sm1fs_t004_one_hour_later_13e27742:
 
     # mct "Uhhhhh, what else is there to do?"
-    mct "Uhhhhh, what else is there to do?"
+    mct "呃...还有什么要做的？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:340
 translate chinese sm1fs_t004_one_hour_later_a5ca8619:
 
     # mct "Did someone just walk in?"
-    mct "Did someone just walk in?"
+    mct "是不是有人刚走进来？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:341
 translate chinese sm1fs_t004_one_hour_later_295bbea7:
@@ -530,355 +530,355 @@ translate chinese sm1fs_t004_one_hour_later_295bbea7:
 translate chinese sm1fs_t004_one_hour_later_20676d4c:
 
     # mct "Must just be imagining things."
-    mct "Must just be imagining things."
+    mct "肯定是我的幻觉吧。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:348
 translate chinese sm1fs_t004_one_hour_later_cbb99805:
 
     # tl "{size=*0.3}Oh fuuuuuuuck...{/size}"
-    tl "{size=*0.3}Oh fuuuuuuuck...{/size}"
+    tl "{size=*0.3}哦，操...{/size}"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:351
 translate chinese sm1fs_t004_one_hour_later_f2db5fff:
 
     # mct "What the hell was that?"
-    mct "What the hell was that?"
+    mct "是什么声音？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:353
 translate chinese sm1fs_t004_one_hour_later_db6b7e02:
 
     # mct "Was the Taisia? It kind of sounded like Taisia..."
-    mct "Was the Taisia? It kind of sounded like Taisia..."
+    mct "是泰西娅吗？听起来有点像泰西娅..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:363
 translate chinese sm1fs_t004_one_hour_later_d82e8c55:
 
     # mct "Nah... I must just be imagining things."
-    mct "Nah... I must just be imagining things."
+    mct "不...我一定是在胡思乱想。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:364
 translate chinese sm1fs_t004_one_hour_later_4b6e7ed9:
 
     # mct "I think... that's good enough. Time to get to the workshop!"
-    mct "I think... that's good enough. Time to get to the workshop!"
+    mct "我觉得...差不多够了。该去参加研习班了！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:382
 translate chinese sm1fs_t004_tl_masturbating_5be13812:
 
     # tl "{size=*0.6}Yesssssssss...{/size}"
-    tl "{size=*0.6}Yesssssssss...{/size}"
+    tl "{size=*0.6}噢噢噢...{/size}"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:385
 translate chinese sm1fs_t004_tl_masturbating_31f58705:
 
     # mct "Oh, that is definitely Taisia, but where-"
-    mct "Oh, that is definitely Taisia, but where-"
+    mct "哦，绝对是泰西娅了，但她在哪儿..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:388
 translate chinese sm1fs_t004_tl_masturbating_a77fd7d6:
 
     # mct "Oh shit!"
-    mct "Oh shit!"
+    mct "哦，操！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:395
 translate chinese sm1fs_t004_tl_masturbating_50e51bc1:
 
     # tl "{size=*0.8}Fuck, yesssss, oh that's sooo gooooood!{/size}"
-    tl "{size=*0.8}Fuck, yesssss, oh that's sooo gooooood!{/size}"
+    tl "{size=*0.8}操，耶，哦噢，太爽了！{/size}"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:397
 translate chinese sm1fs_t004_tl_masturbating_fff2b57d:
 
     # tl "{size=*0.8}Gooood, I'm so cloooooooseeeee.{/size}"
-    tl "{size=*0.8}Gooood, I'm so cloooooooseeeee.{/size}"
+    tl "{size=*0.8}好爽，我快高潮了...{/size}"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:400
 translate chinese sm1fs_t004_tl_masturbating_314f042d:
 
     # mct "Holy shit, Taisia is really masturbating in the props storage!"
-    mct "Holy shit, Taisia is really masturbating in the props storage!"
+    mct "我去，泰西娅居然真的在道具存放区自慰！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:401
 translate chinese sm1fs_t004_tl_masturbating_9a16f82f:
 
     # mct "It's kind of super hot..."
-    mct "It's kind of super hot..."
+    mct "移不开眼啊..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:404
 translate chinese sm1fs_t004_tl_masturbating_1b3d9557:
 
     # tl "{size=*0.8}Mmmmmmm, yesss, oooooooo!{/size}"
-    tl "{size=*0.8}Mmmmmmm, yesss, oooooooo!{/size}"
+    tl "{size=*0.8}嗯嗯嗯，呃啊啊，哦哦哦！{/size}"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:406
 translate chinese sm1fs_t004_tl_masturbating_56d1af8a:
 
     # mct "And she has no idea I'm watching her... damn..."
-    mct "And she has no idea I'm watching her... damn..."
+    mct "而且她根本不知道我在看着她...靠..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:411
 translate chinese sm1fs_t004_tl_masturbating_219d97d1:
 
     # tl "Mmmmm... [mcname], is that you over there?"
-    tl "Mmmmm... [mcname], is that you over there?"
+    tl "嗯嗯...[mcname]，是你在那边吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:414
 translate chinese sm1fs_t004_tl_masturbating_55157c75:
 
     # mct "Fuck, my cover is blown."
-    mct "Fuck, my cover is blown."
+    mct "操，被发现了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:418
 translate chinese sm1fs_t004_tl_masturbating_ccedc7b8:
 
     # mc "Yep, it's me..."
-    mc "Yep, it's me..."
+    mc "没错，是我..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:422
 translate chinese sm1fs_t004_tl_masturbating_d6573e4d:
 
     # tl "Cool, I thought it was - ooooo!"
-    tl "Cool, I thought it was - ooooo!"
+    tl "哈，我就觉得是--哦哦！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:425
 translate chinese sm1fs_t004_tl_masturbating_398642e3:
 
     # mc "And you're... still masturbating?"
-    mc "And you're... still masturbating?"
+    mc "你还在...自慰啊？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:428
 translate chinese sm1fs_t004_tl_masturbating_928b054f:
 
     # tl "Fuuuuucccck yes, I'm too close to stop! Plus, having an audience makes this hoooootter."
-    tl "Fuuuuucccck yes, I'm too close to stop! Plus, having an audience makes this hoooootter."
+    tl "操操操，对啊，我都快高潮了，停不下来！而且，有观众看着更刺激。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:432
 translate chinese sm1fs_t004_tl_masturbating_4de25061:
 
     # mc "Oh, well if you're cool with it-"
-    mc "Oh, well if you're cool with it-"
+    mc "哦，好吧，要是你不介意的话--"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:436
 translate chinese sm1fs_t004_tl_masturbating_d0412aa2:
 
     # tl "Oh God!"
-    tl "Oh God!"
+    tl "哦，天哪！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:437
 translate chinese sm1fs_t004_tl_masturbating_d5575333:
 
     # tl "Shut up and go back to watching me! Oh fuck - I'm so clooooose! Fuck, fuck, fuck!"
-    tl "Shut up and go back to watching me! Oh fuck - I'm so clooooose! Fuck, fuck, fuck!"
+    tl "闭嘴，接着看我！哦，操--我太兴奋了！操，操，操！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:440
 translate chinese sm1fs_t004_tl_masturbating_1d0dbe2b:
 
     # tl "Mmmmmnnnnng - fuuuuuuuck!"
-    tl "Mmmmmnnnnng - fuuuuuuuck!"
+    tl "嗯嗯嗯嗯--操！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:442
 translate chinese sm1fs_t004_tl_masturbating_68a35a18:
 
     # mct "Well if all I have to do to get a free show is stay quiet..."
-    mct "Well if all I have to do to get a free show is stay quiet..."
+    mct "好吧，要是我只要保持安静就能免费看一场好戏..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:443
 translate chinese sm1fs_t004_tl_masturbating_2ca16694:
 
     # tl "Shiiiiit - I'm going to cum sooo hard with a little perv watching meeee!"
-    tl "Shiiiiit - I'm going to cum sooo hard with a little perv watching meeee!"
+    tl "靠--有个小变态看着我，我要爽死了！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:447
 translate chinese sm1fs_t004_tl_masturbating_c3e1ec29:
 
     # mct "Wait a second... Am I the little perv?"
-    mct "Wait a second... Am I the little perv?"
+    mct "等一下...你说我是那个小变态？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:450
 translate chinese sm1fs_t004_tl_masturbating_376e5074:
 
     # tl "Fuhhh - fuuuuhhh - fuuuucccccckkk!"
-    tl "Fuhhh - fuuuuhhh - fuuuucccccckkk!"
+    tl "次--奥--啊啊操操操！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:452
 translate chinese sm1fs_t004_tl_masturbating_934ad9af:
 
     # tl "I'm-I'm-I'm-!"
-    tl "I'm-I'm-I'm-!"
+    tl "我-我-我...！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:456
 translate chinese sm1fs_t004_tl_masturbating_b6b897c5:
 
     # tl "Cuuuuummmmiiiinnnnnggggg!"
-    tl "Cuuuuummmmiiiinnnnnggggg!"
+    tl "爽死了啊啊啊啊！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:463
 translate chinese sm1fs_t004_tl_masturbating_06838148:
 
     # mc "So... rubbing one out in the storage?"
-    mc "So... rubbing one out in the storage?"
+    mc "话说...在道具存放区自慰？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:466
 translate chinese sm1fs_t004_tl_masturbating_fbc9f53c:
 
     # tl "Yeah. No one ever comes back here."
-    tl "Yeah. No one ever comes back here."
+    tl "是啊。从来没人会到这儿来。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:470
 translate chinese sm1fs_t004_tl_masturbating_1a59fce1:
 
     # tl "Plus, these workshops are boring as fuck. At the very least I can get an orgasm out of it."
-    tl "Plus, these workshops are boring as fuck. At the very least I can get an orgasm out of it."
+    tl "而且，这些研习班无聊透顶。至少我能借此高潮一次。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:473
 translate chinese sm1fs_t004_tl_masturbating_18562e18:
 
     # mct "Damn. Taisia is such a freak."
-    mct "Damn. Taisia is such a freak."
+    mct "靠。泰西娅可真够野的。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:476
 translate chinese sm1fs_t004_tl_masturbating_d62e2785:
 
     # mct "But, I should probably get back to the workshop."
-    mct "But, I should probably get back to the workshop."
+    mct "不过，我可能该回研习班了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:493
 translate chinese sm1fs_t004_workshop_bf9a0f41:
 
     # dvh "That is the improvisation part of the workshop. You have all done well."
-    dvh "That is the improvisation part of the workshop. You have all done well."
+    dvh "即兴表演部分就到这里。你们都做得很好。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:496
 translate chinese sm1fs_t004_workshop_d5573cf9:
 
     # dvh "Good. Mr. Bruce told me of your hard work, and I am happy that you can join us."
-    dvh "Good. Mr. Bruce told me of your hard work, and I am happy that you can join us."
+    dvh "很好。布鲁斯先生跟我说了你工作很努力，我很高兴你能加入我们。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:500
 translate chinese sm1fs_t004_workshop_592028bd:
 
     # mc "Oh, uhm, thanks Denise."
-    mc "Oh, uhm, thanks Denise."
+    mc "哦，谢谢你，丹妮丝。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:503
 translate chinese sm1fs_t004_workshop_e679995d:
 
     # dvh "Of course."
-    dvh "Of course."
+    dvh "不客气。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:507
 translate chinese sm1fs_t004_workshop_1d1ecf87:
 
     # dvh "Now, to our trust building exercise."
-    dvh "Now, to our trust building exercise."
+    dvh "现在，进行我们的信任培养练习。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:508
 translate chinese sm1fs_t004_workshop_f14028ed:
 
     # dvh "We are going to do trust falls. If we are to operate as a theater team, we need to trust each other wholly."
-    dvh "We are going to do trust falls. If we are to operate as a theater team, we need to trust each other wholly."
+    dvh "我们要做信任背摔。如果我们要作为一个剧院团队来运作，我们需要完全信任彼此。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:512
 translate chinese sm1fs_t004_workshop_ea0fb35d:
 
     # dvh "Veronica, Kelly. Please walk into the center of the circle."
-    dvh "Veronica, Kelly. Please walk into the center of the circle."
+    dvh "维罗妮卡，凯莉。请到圈子中间来。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:515
 translate chinese sm1fs_t004_workshop_63db503b:
 
     # dvh "Kellie. I want you to turn and fall into Veronica's arms."
-    dvh "Kellie. I want you to turn and fall into Veronica's arms."
+    dvh "凯莉。我要你转过身，倒向维罗妮卡的怀里。。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:518
 translate chinese sm1fs_t004_workshop_25538df5:
 
     # km "What!"
-    km "What!"
+    km "什么！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:521
 translate chinese sm1fs_t004_workshop_6fc3cd8a:
 
     # dvh "You will begin this trust fall exercise."
-    dvh "You will begin this trust fall exercise."
+    dvh "你们要开始这个信任背摔练习。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:524
 translate chinese sm1fs_t004_workshop_65abebdf:
 
     # km "Absolutely not!"
-    km "Absolutely not!"
+    km "绝对不行！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:527
 translate chinese sm1fs_t004_workshop_d49ad810:
 
     # dvh "Do you not trust Veronica?"
-    dvh "Do you not trust Veronica?"
+    dvh "你不信任维罗妮卡吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:530
 translate chinese sm1fs_t004_workshop_fbe27e71:
 
     # km "No! Not at all!"
-    km "No! Not at all!"
+    km "不！一点也不！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:533
 translate chinese sm1fs_t004_workshop_72782043:
 
     # vs "Why?"
-    vs "Why?"
+    vs "为什么？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:536
 translate chinese sm1fs_t004_workshop_799390e1:
 
     # km "Because-because-"
-    km "Because-because-"
+    km "因为--因为--"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:539
 translate chinese sm1fs_t004_workshop_ac78a45c:
 
     # dvh "You must learn to trust her. To trust your troupe."
-    dvh "You must learn to trust her. To trust your troupe."
+    dvh "你必须学会信任她。信任你的剧团成员。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:542
 translate chinese sm1fs_t004_workshop_3bbe2bb3:
 
     # dvh "I will show you.{w} [mcname], come here."
-    dvh "I will show you.{w} [mcname], come here."
+    dvh "我来给你示范一下。{w}[mcname]，过来。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:546
 translate chinese sm1fs_t004_workshop_1b199792:
 
     # mc "Okay?"
-    mc "Okay?"
+    mc "哦？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:550
 translate chinese sm1fs_t004_workshop_8ad90ba2:
 
     # dvh "You will catch me now, understood?"
-    dvh "You will catch me now, understood?"
+    dvh "你现在接着我，明白了吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:553
 translate chinese sm1fs_t004_workshop_db9f1eec:
 
     # mc "Oh, uhm-"
-    mc "Oh, uhm-"
+    mc "哦，呃--"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:556
 translate chinese sm1fs_t004_workshop_2f0624c5:
 
     # mct "Oh-!"
-    mct "Oh-!"
+    mct "哦--！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:563
 translate chinese sm1fs_t004_workshop_2dda59bb:
 
     # mct "-shit!"
-    mct "-shit!"
+    mct "--我靠！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:570
 translate chinese sm1fs_t004_workshop_ef93df8a:
 
     # dvh "Very good, [mcname]."
-    dvh "Very good, [mcname]."
+    dvh "做得很好，[mcname]。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:574
 translate chinese sm1fs_t004_workshop_d64899ab:
