@@ -110,167 +110,167 @@ translate chinese sm1cs_km003_8aaf8bd9:
 translate chinese sm1cs_km003_fa56fa90:
 
     # mct "Someone is taking a shower."
-    mct "Someone is taking a shower."
+    mct "有人在洗澡。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:98
 translate chinese sm1cs_km003_096642ed:
 
     # mct "I need to get out of here."
-    mct "I need to get out of here."
+    mct "我得离开这儿。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:107
 translate chinese sm1cs_km003_dbc9c5b2:
 
     # mct "Oh shit."
-    mct "Oh shit."
+    mct "哦，糟了。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:112
 translate chinese sm1cs_km003_7d652dda:
 
     # mc "What are we doing here?"
-    mc "What are we doing here?"
+    mc "我们在这里做什么？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:131
 translate chinese sm1cs_km003_459e4b93:
 
     # vs "Ahuuaaa-fuffyaah... Yes..."
-    vs "Ahuuaaa-fuffyaah... Yes..."
+    vs "哇啊啊--呼...舒服..."
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:134
 translate chinese sm1cs_km003_d397d61b:
 
     # mct "Woah."
-    mct "Woah."
+    mct "哇哦。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:140
 translate chinese sm1cs_km003_533c0bf2:
 
     # vs "Oh hey."
-    vs "Oh hey."
+    vs "哦，嘿。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:146
 translate chinese sm1cs_km003_4622fe60:
 
     # vs "Sorry, you two, am I making too much noise?"
-    vs "Sorry, you two, am I making too much noise?"
+    vs "对不起，两位，我是不是太吵了？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:151
 translate chinese sm1cs_km003_883e2349:
 
     # vs "Or is this a VidVok thing? That's so cool."
-    vs "Or is this a VidVok thing? That's so cool."
+    vs "还是说这是在拍短视频？那可太酷了。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:154
 translate chinese sm1cs_km003_795cfc87:
 
     # vs "My one rule is no face shots."
-    vs "My one rule is no face shots."
+    vs "我只有一个要求，别拍到脸。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:157
 translate chinese sm1cs_km003_91478ad1:
 
     # vs "Gotta keep anonymous, after all. *giggles*"
-    vs "Gotta keep anonymous, after all. *giggles*"
+    vs "毕竟得保持匿名嘛。*咯咯笑*"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:160
 translate chinese sm1cs_km003_bf2d950c:
 
     # vs "Wait, why doesn't anyone have their phone out."
-    vs "Wait, why doesn't anyone have their phone out."
+    vs "等等，怎么没人拿出手机呢。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:163
 translate chinese sm1cs_km003_465aabb4:
 
     # km "That's it. We've seen you naked and you're just... giving us rules on how to take pictures of you?"
-    km "That's it. We've seen you naked and you're just... giving us rules on how to take pictures of you?"
+    km "够了。我们都看到你没穿衣服了，可你却...还在给我们定规矩，指导我们怎么给你拍照片？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:166
 translate chinese sm1cs_km003_1206870f:
 
     # vs "Yeah.{w} Why?"
-    vs "Yeah.{w} Why?"
+    vs "是啊。{w}怎么了？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:169
 translate chinese sm1cs_km003_7bb3ad9c:
 
     # km "Aren't you shocked and embarrassed?"
-    km "Aren't you shocked and embarrassed?"
+    km "你难道不震惊、不觉得尴尬吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:172
 translate chinese sm1cs_km003_a4c133f0:
 
     # vs "No. Why?{w} We're in the theater."
-    vs "No. Why?{w} We're in the theater."
+    vs "不啊。为什么要尴尬？{w}我们可是在剧院里。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:175
 translate chinese sm1cs_km003_b28fd901:
 
     # km "*aggravated growl*"
-    km "*aggravated growl*"
+    km "*恼怒地低吼*"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:177
 translate chinese sm1cs_km003_31798e77:
 
     # mct "Looks like lessons are canceled for today."
-    mct "Looks like lessons are canceled for today."
+    mct "看来今天的课取消了。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:180
 translate chinese sm1cs_km003_e378909b:
 
     # mct "What is up with Kellie?"
-    mct "What is up with Kellie?"
+    mct "凯莉到底怎么回事？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:181
 translate chinese sm1cs_km003_e3c0ef1b:
 
     # mct "Why did she want to embarrass Veronica?"
-    mct "Why did she want to embarrass Veronica?"
+    mct "她为什么想让维罗妮卡难堪呢？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:184
 translate chinese sm1cs_km003_9f76c990:
 
     # mc "Oh fuck. Sorry, Veronica. I didn't mean to peep. It was... I know this will sound like bullshit."
-    mc "Oh fuck. Sorry, Veronica. I didn't mean to peep. It was... I know this will sound like bullshit."
+    mc "哦，该死。抱歉，维罗妮卡。我不是故意偷看的。只是...我知道这听起来像胡扯。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:188
 translate chinese sm1cs_km003_385afe2a:
 
     # mc "But it was all her idea."
-    mc "But it was all her idea."
+    mc "但这都是她的主意。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:192
 translate chinese sm1cs_km003_675ca506:
 
     # mc "Nrugh. Ouch."
-    mc "Nrugh. Ouch."
+    mc "呃啊。哎呀。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:195
 translate chinese sm1cs_km003_bec2ba77:
 
     # vs "*giggles*"
-    vs "*giggles*"
+    vs "*咯咯笑*"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:198
 translate chinese sm1cs_km003_fc8ee83e:
 
     # vs "Now that you saw mine, you have to show me yours next time."
-    vs "Now that you saw mine, you have to show me yours next time."
+    vs "既然你看到了我的，下次一定要让我看看你的。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:201
 translate chinese sm1cs_km003_3b96daba:
 
     # vs "I better get dried off now."
-    vs "I better get dried off now."
+    vs "我最好现在就去擦干。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:204
 translate chinese sm1cs_km003_68d240a1:
 
     # vs "Don't want to make a scene."
-    vs "Don't want to make a scene."
+    vs "可不想闹出什么乱子。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:210
 translate chinese sm1cs_km003_6aec3e56:
 
     # mct "I'm starting to really like some of these theater girls."
-    mct "I'm starting to really like some of these theater girls."
+    mct "我开始真的喜欢上这些剧院里的女孩了。"
 
