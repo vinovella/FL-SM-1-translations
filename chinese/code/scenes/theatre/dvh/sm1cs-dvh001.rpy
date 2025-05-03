@@ -434,93 +434,93 @@ translate chinese sm1cs_dvh001_479abc76:
 translate chinese sm1cs_dvh001_1b2e3253:
 
     # dvh "Words are cheap. I believe in actions. In {i}actors{/i}."
-    dvh "光说说是没用的。我相信行动，相信真正的{i}演员{i}。"
+    dvh "光说说是没用的。我相信行动，更信真正躬身入局的{i}演员{i}。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:207
 translate chinese sm1cs_dvh001_f2b8bf25:
 
     # dvh "Prove yourself to me. Then... perhaps I will consider teaching you."
-    dvh "Prove yourself to me. Then... perhaps I will consider teaching you."
+    dvh "向我证明你自己。到那时... 或许我会考虑教你。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:209
 translate chinese sm1cs_dvh001_8dd93297:
 
     # mc "Thanks for{w}, wait what?"
-    mc "Thanks for{w}, wait what?"
+    mc "谢谢你--{w}等等，你说什么？"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:212
 translate chinese sm1cs_dvh001_14552750:
 
     # dvh "You have to prove to me, and this theater, that you are worth the work."
-    dvh "You have to prove to me, and this theater, that you are worth the work."
+    dvh "你得向我和这家剧院证明，你值得我们花精力培养。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:213
 translate chinese sm1cs_dvh001_719e3578:
 
     # dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on."
-    dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on."
+    dvh "我确实在你身上看到了潜力。但在我确定你不是另一个布拉姆之前，我都不会在你身上浪费多余的时间。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:214
 translate chinese sm1cs_dvh001_830dd4fe:
 
     # dvh "Do you understand?"
-    dvh "Do you understand?"
+    dvh "你明白吗？"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:217
 translate chinese sm1cs_dvh001_f09b6f30:
 
     # mc "Oh, uh, yeah! Actually, not at all. I'm not sure how I should prove myself."
-    mc "Oh, uh, yeah! Actually, not at all. I'm not sure how I should prove myself."
+    mc "哦，呃，明白！其实，还是不明白。我不确定该怎么证明自己。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:220
 translate chinese sm1cs_dvh001_077d14ff:
 
     # dvh "You will be here for rehearsal. You will learn the part, even though you are not the part."
-    dvh "You will be here for rehearsal. You will learn the part, even though you are not the part."
+    dvh "你得来参加排练。你要学习那个角色的戏份，哪怕你不演那个角色。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:221
 translate chinese sm1cs_dvh001_b82c4ca7:
 
     # dvh "You will work, you will listen, you will pay attention."
-    dvh "You will work, you will listen, you will pay attention."
+    dvh "你要努力，要倾听，要专注。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:222
 translate chinese sm1cs_dvh001_7f2a0439:
 
     # dvh "Improve your skill as an actor, and that is how you will show me that you are serious."
-    dvh "Improve your skill as an actor, and that is how you will show me that you are serious."
+    dvh "一心提升你的演技，这就是你要向我展现出来的诚意。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:226
 translate chinese sm1cs_dvh001_d40608a9:
 
     # mc "Oh, okay - yeah, I can do that!"
-    mc "Oh, okay - yeah, I can do that!"
+    mc "哦，好的--没问题，我能做到！"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:228
 translate chinese sm1cs_dvh001_678552aa:
 
     # dvh "Try not to disappoint me, [mcname]. And if you do, just make it quick."
-    dvh "Try not to disappoint me, [mcname]. And if you do, just make it quick."
+    dvh "尽量别让我失望，[mcname]。要是你让我失望了，就给我个痛快。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:231
 translate chinese sm1cs_dvh001_784ea34b:
 
     # mc "I will do my best! Thank you Ms. Van der Haute!"
-    mc "I will do my best! Thank you Ms. Van der Haute!"
+    mc "我会尽力的！谢谢你，范德·奥特女士！"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:233
 translate chinese sm1cs_dvh001_e196466c:
 
     # mct "Hell yeah, time to... Do some acting!"
-    mct "Hell yeah, time to... Do some acting!"
+    mct "太棒了，是时候... 来演演戏了！"
 
 translate chinese strings:
 
     # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:148
     old "Tell Denise why you're different"
-    new "Tell Denise why you're different"
+    new "告诉丹妮丝你有何不同之处"
 
     # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:148
     old "Tell Denise that you're only interested in acting"
-    new "Tell Denise that you're only interested in acting"
+    new "告诉丹妮丝你只对演戏感兴趣"
 
