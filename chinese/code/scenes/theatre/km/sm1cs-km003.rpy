@@ -2,109 +2,109 @@
 translate chinese sm1cs_km003_0e131225:
 
     # mc "Hey, Kellie. I finished reading up on my chapters."
-    mc "Hey, Kellie. I finished reading up on my chapters."
+    mc "嘿，凯莉。我读完了你让我读的那几章内容。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:25
 translate chinese sm1cs_km003_a0c368ac:
 
     # mc "Did you know that some people consider Theater an art form?"
-    mc "Did you know that some people consider Theater an art form?"
+    mc "你知道吗，有些人认为戏剧是一种艺术形式？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:29
 translate chinese sm1cs_km003_edb6300c:
 
     # mc "The more you know, am I right?"
-    mc "The more you know, am I right?"
+    mc "知道得越多，才越了解，我说得没错吧？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:33
 translate chinese sm1cs_km003_327ae879:
 
     # km "That's great, very good. A+, [mcname]. Our next lesson begins right now."
-    km "That's great, very good. A+, [mcname]. Our next lesson begins right now."
+    km "太棒了，非常好。给你个A+，[mcname]。我们的下一课现在就开始。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:36
 translate chinese sm1cs_km003_fcb1e975:
 
     # mc "What are we doing?"
-    mc "What are we doing?"
+    mc "我们要做什么？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:39
 translate chinese sm1cs_km003_e0cf3c6d:
 
     # km "I need your help. Don't ask questions."
-    km "I need your help. Don't ask questions."
+    km "我需要你帮忙。别问问题。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:48
 translate chinese sm1cs_km003_ba78f835:
 
     # mc "Hey Taisia. Little help?"
-    mc "Hey Taisia. Little help?"
+    mc "嘿，泰西娅。能帮个忙吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:51
 translate chinese sm1cs_km003_37e9b881:
 
     # tl "I'm sure you'll survive. Or not."
-    tl "I'm sure you'll survive. Or not."
+    tl "我相信你能挺过去的。或者挺不过去。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:54
 translate chinese sm1cs_km003_ecf61e0e:
 
     # mc "Come on."
-    mc "Come on."
+    mc "别这样。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:57
 translate chinese sm1cs_km003_6fbc23b3:
 
     # km "Come on, this is part of your training, so stop being a wuss."
-    km "Come on, this is part of your training, so stop being a wuss."
+    km "来吧，这是你训练的一部分，所以别这么胆小。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:63
 translate chinese sm1cs_km003_116bbd72:
 
     # mc "A wuss? Really. Real good teaching technique, coming from a girl who was ready to give me a concussion."
-    mc "A wuss? Really. Real good teaching technique, coming from a girl who was ready to give me a concussion."
+    mc "胆小？真的吗。这话竟然从一个差点把我打成脑震荡的女孩嘴里说出来，真是个好教学方法啊。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:66
 translate chinese sm1cs_km003_40626d0a:
 
     # km "[mcname], I said I was sorry. We don't have time for this."
-    km "[mcname], I said I was sorry. We don't have time for this."
+    km "[mcname]，我说过我很抱歉了。我们没时间在这上面浪费了。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:69
 translate chinese sm1cs_km003_714eb50e:
 
     # mc "Oh yeah, you're two out of five-star apology. Very sincere."
-    mc "Oh yeah, you're two out of five-star apology. Very sincere."
+    mc "哦，是啊，满分五分的话，你那道歉也就两分吧。真够诚恳的。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:70
 translate chinese sm1cs_km003_1d7f48ab:
 
     # mc "This doesn't feel like training, so why should I do anything you want?"
-    mc "This doesn't feel like training, so why should I do anything you want?"
+    mc "这可不像是训练啊，那我为什么要按你说的做呢？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:73
 translate chinese sm1cs_km003_23966df9:
 
     # km "Because I'm asking for your help."
-    km "Because I'm asking for your help."
+    km "因为我在请求你的帮助。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:76
 translate chinese sm1cs_km003_58d02f5e:
 
     # mc "I'm going to regret this."
-    mc "I'm going to regret this."
+    mc "我肯定会后悔的。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:86
 translate chinese sm1cs_km003_20e69bde:
 
     # km "Shhhh."
-    km "Shhhh."
+    km "嘘。"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:89
 translate chinese sm1cs_km003_8aaf8bd9:
 
     # mct "Oh man. What is she getting me into?"
-    mct "Oh man. What is she getting me into?"
+    mct "哎呀天哪。她这是要把我卷进什么事儿里去啊？
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:95
 translate chinese sm1cs_km003_fa56fa90:
