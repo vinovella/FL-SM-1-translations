@@ -608,533 +608,533 @@ translate chinese sm1fs_t003_74cc6e17:
 translate chinese sm1fs_t003_f2e6cbcd:
 
     # mc "I've got my phone, though."
-    mc "I've got my phone, though."
+    mc "不过我有手机。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:330
 translate chinese sm1fs_t003_b1c40274:
 
     # vs "Lame. Everyone needs a watch piece. Because you know who can tell the time?"
-    vs "Lame. Everyone needs a watch piece. Because you know who can tell the time?"
+    vs "真没劲。每个人都该有块手表。因为你知道谁会看时间吗？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:333
 translate chinese sm1fs_t003_bec29a72:
 
     # mc "Uhh, who tells time?"
-    mc "Uhh, who tells time?"
+    mc "呃，谁会看时间呢？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:335
 translate chinese sm1fs_t003_600e7de5:
 
     # vs "A guy with a hot fiance, a hot fiance who's going to be married in a week. Which feels like forever away."
-    vs "A guy with a hot fiance, a hot fiance who's going to be married in a week. Which feels like forever away."
+    vs "一个有着超级火辣未婚妻的男人，他那个性感至极的未婚妻一周后就要结婚了。感觉那一天遥不可及呢。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:338
 translate chinese sm1fs_t003_5ef81639:
 
     # mc "But, erm, who has the time?"
-    mc "But, erm, who has the time?"
+    mc "但是，呃，到底谁会看时间呢？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:347
 translate chinese sm1fs_t003_1d8b7d58:
 
     # dvh "I have seen enough."
-    dvh "I have seen enough."
+    dvh "我已经看够了。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:350
 translate chinese sm1fs_t003_037687a8:
 
     # vs "Hey, you did great!"
-    vs "Hey, you did great!"
+    vs "嘿，你表现得很棒！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:352
 translate chinese sm1fs_t003_a64e8bc0:
 
     # mc "Thanks."
-    mc "Thanks."
+    mc "谢谢。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:355
 translate chinese sm1fs_t003_a27410eb:
 
     # dvh "Hmmm. {w}I think you posess some talent, [mcname]."
-    dvh "Hmmm. {w}I think you posess some talent, [mcname]."
+    dvh "嗯。{w}我觉得你还是有点天赋的，[mcname]。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:358
 translate chinese sm1fs_t003_e4288785:
 
     # mc "Really!?"
-    mc "Really!?"
+    mc "真的吗!?"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:361
 translate chinese sm1fs_t003_28a847d8:
 
     # dvh "{i}Some.{/i}"
-    dvh "{i}Some.{/i}"
+    dvh "{i}是有一点。{/i}"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:363
 translate chinese sm1fs_t003_c1dff962:
 
     # mc "Oh..."
-    mc "Oh..."
+    mc "哦..."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:365
 translate chinese sm1fs_t003_0f252a64:
 
     # dvh "Not enough to take my stage though."
-    dvh "Not enough to take my stage though."
+    dvh "但还不足以让你登上我的舞台。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:368
 translate chinese sm1fs_t003_83ab2841:
 
     # vs "I thought he did great!"
-    vs "I thought he did great!"
+    vs "我觉得他做得很棒！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:371
 translate chinese sm1fs_t003_49f22d6e:
 
     # tl "I mean, he definitely has potential."
-    tl "I mean, he definitely has potential."
+    tl "我是说，他肯定是有潜力的。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:374
 translate chinese sm1fs_t003_bbd68095:
 
     # dvh "That might be. But he is not ready to take {i}my{/i} stage."
-    dvh "That might be. But he is not ready to take {i}my{/i} stage."
+    dvh "也许吧。但他还没准备好登上{i}我的{/i}舞台。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:378
 translate chinese sm1fs_t003_81c98ae7:
 
     # km "I agree with Denise. I've seen trees give more compelling performances."
-    km "I agree with Denise. I've seen trees give more compelling performances."
+    km "我同意丹妮丝的看法。我见过树的表演都比他更有感染力。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:381
 translate chinese sm1fs_t003_c4147339:
 
     # dvh "Kellie, silence."
-    dvh "Kellie, silence."
+    dvh "凯莉，闭嘴。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:383
 translate chinese sm1fs_t003_dec29a80:
 
     # km "But-"
-    km "But-"
+    km "可是--"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:386
 translate chinese sm1fs_t003_08f97363:
 
     # tl "Denise, I-"
-    tl "Denise, I-"
+    tl "丹妮丝，我--"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:389
 translate chinese sm1fs_t003_c7ef6c05:
 
     # vs "Come on-"
-    vs "Come on-"
+    vs "拜托--"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:392
 translate chinese sm1fs_t003_10bd5776:
 
     # dvh "{i}Silence.{/i}"
-    dvh "{i}Silence.{/i}"
+    dvh "{i}安静。{/i}"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:393
 translate chinese sm1fs_t003_47e51d35:
 
     # dvh "I agree. You have potential, [mcname]. Maybe in the future you will be ready. But for now, we have a position in the backstage for another hand. This is what I can offer you."
-    dvh "I agree. You have potential, [mcname]. Maybe in the future you will be ready. But for now, we have a position in the backstage for another hand. This is what I can offer you."
+    dvh "我承认。你很有潜力，[mcname]。也许将来你会做好准备。但现在，我们在后台有一个职位，需要另一名助手。这就是我能提供给你的。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:394
 translate chinese sm1fs_t003_a4b67268:
 
     # mct "That's not exactly what I want but... She said I could maybe act in the future? Besides, a job is a job."
-    mct "That's not exactly what I want but... She said I could maybe act in the future? Besides, a job is a job."
+    mct "这可不是我想要的，但...她说将来我也许能演戏？而且，有份工作总比没有好吧。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:397
 translate chinese sm1fs_t003_1aada34d:
 
     # mc "I'll take it."
-    mc "I'll take it."
+    mc "我接受这份工作。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:400
 translate chinese sm1fs_t003_28ed5238:
 
     # dvh "Good. Veronica, you show him around. Make sure to introduce him to Sam."
-    dvh "Good. Veronica, you show him around. Make sure to introduce him to Sam."
+    dvh "很好。维罗妮卡，你带他四处转转。一定要把他介绍给山姆认识。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:403
 translate chinese sm1fs_t003_e53458dd:
 
     # vs "Of course, Denise! Anything you want. I'd love to show [mcname] around!"
-    vs "Of course, Denise! Anything you want. I'd love to show [mcname] around!"
+    vs "没问题，丹妮丝！包在我身上。我很乐意带[mcname]四处转转！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:407
 translate chinese sm1fs_t003_30b8f264:
 
     # dvh "I will be in my office if anyone is looking for me."
-    dvh "I will be in my office if anyone is looking for me."
+    dvh "如果有人找我，我就在办公室。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:411
 translate chinese sm1fs_t003_0d6dd87e:
 
     # vs "Don't worry, I thought you were great! You'll be on stage in no time!"
-    vs "Don't worry, I thought you were great! You'll be on stage in no time!"
+    vs "别担心，我觉得你很棒！你很快就能登上舞台的！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:414
 translate chinese sm1fs_t003_5bc2bf26:
 
     # mc "Thanks. Definitely not how I wanted today to go."
-    mc "Thanks. Definitely not how I wanted today to go."
+    mc "谢谢。今天的结果可真不是我想要的。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:416
 translate chinese sm1fs_t003_06f8b886:
 
     # km "What?"
-    km "What?"
+    km "什么？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:419
 translate chinese sm1fs_t003_218bc2e6:
 
     # km "You used to life just giving you everything you wanted, whenever you give the bare minimum effort?"
-    km "You used to life just giving you everything you wanted, whenever you give the bare minimum effort?"
+    km "你以前是不是觉得只要付出一点点努力，生活就会把你想要的一切都给你？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:421
 translate chinese sm1fs_t003_9e5138a1:
 
     # mc "Kind of? I mean, it's not the bare minimum effort, but-"
-    mc "Kind of? I mean, it's not the bare minimum effort, but-"
+    mc "算是吧？我是说，我也不是只付出了一点点努力，但是--"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:424
 translate chinese sm1fs_t003_6467dc79:
 
     # km "HMPH."
-    km "HMPH."
+    km "哼。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:429
 translate chinese sm1fs_t003_da0e810f:
 
     # mc "What'd I say?"
-    mc "What'd I say?"
+    mc "我说错什么了吗？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:432
 translate chinese sm1fs_t003_999ef4d9:
 
     # vs "Oh nothing, that's just Kellie. She's like that. Always upset about something."
-    vs "Oh nothing, that's just Kellie. She's like that. Always upset about something."
+    vs "哦，没什么，凯莉就是那样。她总是因为点什么事儿不高兴。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:435
 translate chinese sm1fs_t003_83ccc24a:
 
     # vs "But come on! Let me show you around."
-    vs "But come on! Let me show you around."
+    vs "但是来吧！让我带你四处转转。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:446
 translate chinese sm1fs_t003_6ef663b8:
 
     # vs "This is backstage! Where you'll be doing all of the stagehand work."
-    vs "This is backstage! Where you'll be doing all of the stagehand work."
+    vs "这里就是后台啦！你以后的舞台助手工作就在这儿。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:449
 translate chinese sm1fs_t003_e4cf01f3:
 
     # vs "Usually Bruce is back here somewhere... But I don't see him. I'll show you the rest of the theater while we wait!"
-    vs "Usually Bruce is back here somewhere... But I don't see him. I'll show you the rest of the theater while we wait!"
+    vs "通常布鲁斯会在这附近的某个地方...但我没看到他。我们一边等他，我一边带你看看剧院的其他地方吧！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:450
 translate chinese sm1fs_t003_7b47d70d:
 
     # vs "Pretty much every room you'll need is in the hallway! Let's see..."
-    vs "Pretty much every room you'll need is in the hallway! Let's see..."
+    vs "几乎你需要去的所有房间都在这条走廊上！让我看看..."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:454
 translate chinese sm1fs_t003_92da93c7:
 
     # vs "This is where we store our old props and sets."
-    vs "This is where we store our old props and sets."
+    vs "这是我们存放旧道具和布景的地方。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:459
 translate chinese sm1fs_t003_646de045:
 
     # vs "This is where most of the actors and actresses do their makeup and get dressed in wardrobe."
-    vs "This is where most of the actors and actresses do their makeup and get dressed in wardrobe."
+    vs "这里是大多数演员化妆和换衣服的地方。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:462
 translate chinese sm1fs_t003_4dab3c0a:
 
     # mc "Oh? Does everyone just... Get dressed together?"
-    mc "Oh? Does everyone just... Get dressed together?"
+    mc "哦？大家都是...一起换衣服的吗？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:464
 translate chinese sm1fs_t003_650ade00:
 
     # vs "Yep!"
-    vs "Yep!"
+    vs "没错！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:466
 translate chinese sm1fs_t003_66a4db2e:
 
     # mct "Hell. Yeah."
-    mct "Hell. Yeah."
+    mct "哦，吼，爽了。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:470
 translate chinese sm1fs_t003_c065431d:
 
     # vs "And this is the lead actress makeup and wardrobe area!"
-    vs "And this is the lead actress makeup and wardrobe area!"
+    vs "这边是女主角的化妆和换衣区！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:473
 translate chinese sm1fs_t003_bee32661:
 
     # mc "Who's in here?"
-    mc "Who's in here?"
+    mc "现在谁在用这里呢？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:476
 translate chinese sm1fs_t003_d71436d1:
 
     # vs "It changes depending on the production, but lately it's been mine!"
-    vs "It changes depending on the production, but lately it's been mine!"
+    vs "根据不同的演出会有所不同，但最近一直是我在用！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:479
 translate chinese sm1fs_t003_03224b6e:
 
     # mc "You're the star of the show?"
-    mc "You're the star of the show?"
+    mc "你是这部剧的主演吗？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:482
 translate chinese sm1fs_t003_1f6bb230:
 
     # vs "Yeah! Denise thinks I've got what it takes to go the distance."
-    vs "Yeah! Denise thinks I've got what it takes to go the distance."
+    vs "对呀！丹妮丝觉得我有能力走得更远。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:484
 translate chinese sm1fs_t003_f479facc:
 
     # mc "Wow, I didn't realize the big time actress was showing me around!"
-    mc "Wow, I didn't realize the big time actress was showing me around!"
+    mc "哇，我都没意识到是大牌女演员在带我参观呢！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:486
 translate chinese sm1fs_t003_7ed98bea:
 
     # vs "I'm not big time. Not like some people here!"
-    vs "I'm not big time. Not like some people here!"
+    vs "我可不是什么大牌。可不像这儿的某些人！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:487
 translate chinese sm1fs_t003_c277c835:
 
     # vs "Seriously, it's not a problem! I'm super happy to show you around"
-    vs "Seriously, it's not a problem! I'm super happy to show you around"
+    vs "说真的，这没什么！我很乐意带你到处转转。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:490
 translate chinese sm1fs_t003_cee91ee1:
 
     # vs "Over there is Denise's office. And that's pretty much it!"
-    vs "Over there is Denise's office. And that's pretty much it!"
+    vs "那边是丹妮丝的办公室。基本上就是这些啦！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:493
 translate chinese sm1fs_t003_e9968d08:
 
     # mc "No tour of Denise's office?"
-    mc "No tour of Denise's office?"
+    mc "不参观一下丹妮丝的办公室吗？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:495
 translate chinese sm1fs_t003_6ecce0a1:
 
     # vs "She's taking her \"me\" time. Best not to interrupt her."
-    vs "She's taking her \"me\" time. Best not to interrupt her."
+    vs "她正在享受属于\"自己的\"时间呢。最好别去打扰她。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:496
 translate chinese sm1fs_t003_0d455d76:
 
     # mc "Good to know!"
-    mc "Good to know!"
+    mc "记住了！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:497
 translate chinese sm1fs_t003_960f07a2:
 
     # vs "Come on, let's go see if Bruce is back!"
-    vs "Come on, let's go see if Bruce is back!"
+    vs "来吧，我们去看看布鲁斯回来了没！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:503
 translate chinese sm1fs_t003_b80a1a53:
 
     # vs "Bruce-y!"
-    vs "Bruce-y!"
+    vs "布鲁斯～"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:507
 translate chinese sm1fs_t003_5cadfa27:
 
     # sb "Hey Veronica."
-    sb "Hey Veronica."
+    sb "嘿，维罗妮卡。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:511
 translate chinese sm1fs_t003_e086606a:
 
     # vs "I want to introduce you to [mcname]! Denise just hired him as a new stagehand."
-    vs "I want to introduce you to [mcname]! Denise just hired him as a new stagehand."
+    vs "我想给你介绍一下[mcname]！丹妮丝刚雇他做新的舞台助手。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:515
 translate chinese sm1fs_t003_a709a983:
 
     # sb "Huh, nice to meet you. Sam Bruce."
-    sb "Huh, nice to meet you. Sam Bruce."
+    sb "嗯，很高兴认识你。我是山姆・布鲁斯。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:516
 translate chinese sm1fs_t003_0de087be:
 
     # sb "I guess I'm your new boss."
-    sb "I guess I'm your new boss."
+    sb "我想我就是你的新老板了。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:519
 translate chinese sm1fs_t003_8cc105c3_1:
 
     # mc "I guess so."
-    mc "I guess so."
+    mc "应该是的。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:520
 translate chinese sm1fs_t003_84820921:
 
     # mc "Do I have something on my face?"
-    mc "Do I have something on my face?"
+    mc "我脸上有东西吗？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:523
 translate chinese sm1fs_t003_6f921626:
 
     # sb "No but... There ain't no way to say this nice but you're real pretty for a stagehand."
-    sb "No but... There ain't no way to say this nice but you're real pretty for a stagehand."
+    sb "没有，但是...我也不知道怎么说委婉一点，你当舞台助手可太帅了。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:526
 translate chinese sm1fs_t003_2dfcd218:
 
     # mc "What???"
-    mc "What???"
+    mc "什么???"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:529
 translate chinese sm1fs_t003_cfdfd5dc:
 
     # sb "Most stagehands look like construction workers. You look like Denise put you on the wrong side of the curtain."
-    sb "Most stagehands look like construction workers. You look like Denise put you on the wrong side of the curtain."
+    sb "大多数舞台助手看起来都像建筑工人。你看起来倒像是丹妮丝把你安排错了位置，照理不该在幕后的。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:532
 translate chinese sm1fs_t003_25687fea:
 
     # mc "Oh, uhm... Thanks? I guess?"
-    mc "Oh, uhm... Thanks? I guess?"
+    mc "哦，呃...我要说，谢谢？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:535
 translate chinese sm1fs_t003_93db039d:
 
     # sb "Don't mention it. You ever worked in a theater before?"
-    sb "Don't mention it. You ever worked in a theater before?"
+    sb "不客气。你以前在剧院工作过吗？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:537
 translate chinese sm1fs_t003_6ff41185:
 
     # mc "Nope."
-    mc "Nope."
+    mc "没有。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:539
 translate chinese sm1fs_t003_0fef6bd0:
 
     # sb "Okay, well it ain't rocket surgery so you'll be fine. Come with me, I'll show you the ropes. Literally."
-    sb "Okay, well it ain't rocket surgery so you'll be fine. Come with me, I'll show you the ropes. Literally."
+    sb "好吧，这也不是什么难事，你会适应的。跟我来，我来教你一些基本工作。字面意义上的教你哦。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:542
 translate chinese sm1fs_t003_70b4230d:
 
     # mc "Sounds good! Uh, thanks for showing me around Veronica."
-    mc "Sounds good! Uh, thanks for showing me around Veronica."
+    mc "听起来不错！谢谢你带我参观，维罗妮卡。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:546
 translate chinese sm1fs_t003_f004bc77:
 
     # vs "Of course! I'm hoping to see you around some more!"
-    vs "Of course! I'm hoping to see you around some more!"
+    vs "这没什么！我还盼着以后能多见到你呢！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:550
 translate chinese sm1fs_t003_86811407:
 
     # sb "Okay, this is the nerve center of the show. From here, we make the magic happen."
-    sb "Okay, this is the nerve center of the show. From here, we make the magic happen."
+    sb "好啦，这里就是演出的神经中枢啦。从这里开始，我们创造奇迹。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:553
 translate chinese sm1fs_t003_5bd103ef:
 
     # mc "Looks... Fancy."
-    mc "Looks... Fancy."
+    mc "看起来...很高大上啊。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:555
 translate chinese sm1fs_t003_0fe24be9:
 
     # sb "Let me show you..."
-    sb "Let me show you..."
+    sb "我来给你展示一下..."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:574
 translate chinese sm1fs_t003_ss_tutorial_end_cb202996:
 
     # sb "And that's it!"
-    sb "And that's it!"
+    sb "就是这样！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:576
 translate chinese sm1fs_t003_ss_tutorial_end_20ea3c1f:
 
     # mc "Huh. That wasn't so bad."
-    mc "Huh. That wasn't so bad."
+    mc "嗯。看起来也没那么难嘛。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:577
 translate chinese sm1fs_t003_ss_tutorial_end_5742fd81:
 
     # sb "Now, the important thing is to remember the rehearsals."
-    sb "Now, the important thing is to remember the rehearsals."
+    sb "现在，重要的是要记住排练的事儿。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:580
 translate chinese sm1fs_t003_ss_tutorial_end_beb53763:
 
     # mc "Rehearsals."
-    mc "Rehearsals."
+    mc "排练。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:582
 translate chinese sm1fs_t003_ss_tutorial_end_9841d933:
 
     # sb "Yep. Throughout the week we hold rehearsals for the show on Saturday. Show up, practice what you need to do, and come Saturday you just need to show up and do it for the show."
-    sb "Yep. Throughout the week we hold rehearsals for the show on Saturday. Show up, practice what you need to do, and come Saturday you just need to show up and do it for the show."
+    sb "没错。这一周我们都会为周六的演出进行排练。你人要过来，排练需要做的事情，然后到了周六，你只要来参加正式演出就行了。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:583
 translate chinese sm1fs_t003_ss_tutorial_end_2aa20ca2:
 
     # mc "Oh, that makes sense."
-    mc "Oh, that makes sense."
+    mc "哦，明白了。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:586
 translate chinese sm1fs_t003_ss_tutorial_end_98e24843:
 
     # sb "We'll even pay you for rehearsals, but the big payday comes Saturday nights."
-    sb "We'll even pay you for rehearsals, but the big payday comes Saturday nights."
+    sb "排练的时候我们也会给你报酬，但真正的高薪是在周六晚上演出之后。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:588
 translate chinese sm1fs_t003_ss_tutorial_end_0dbac4de:
 
     # mc "Cool. So show up, rehearse, then Saturday night showtime?"
-    mc "Cool. So show up, rehearse, then Saturday night showtime?"
+    mc "真不错。所以就是来参加排练，然后周六晚上演出？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:590
 translate chinese sm1fs_t003_ss_tutorial_end_f499b56b:
 
     # sb "You got it?"
-    sb "You got it?"
+    sb "你记住了吗？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:593
 translate chinese sm1fs_t003_ss_tutorial_end_17e99eb4:
 
     # mc "Cool, I can do that."
-    mc "Cool, I can do that."
+    mc "行，我能做到。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:595
 translate chinese sm1fs_t003_ss_tutorial_end_da8dace7:
 
     # sb "Great. Well I've done my 12 today, so I'm heading out. I'll see ya' around kid."
-    sb "Great. Well I've done my 12 today, so I'm heading out. I'll see ya' around kid."
+    sb "很好。我今天的班已经上完了，所以我要走了。回头见，小子。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:599
 translate chinese sm1fs_t003_ss_tutorial_end_548f0968:
 
     # mc "Sounds good, I'll see ya', Sam!"
-    mc "Sounds good, I'll see ya', Sam!"
+    mc "好的，回头见，山姆！"
 
