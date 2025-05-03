@@ -884,703 +884,703 @@ translate chinese sm1fs_t004_workshop_ef93df8a:
 translate chinese sm1fs_t004_workshop_d64899ab:
 
     # mct "I can't believe I caught her."
-    mct "I can't believe I caught her."
+    mct "真不敢相信我接住她了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:577
 translate chinese sm1fs_t004_workshop_2df0cb42:
 
     # dvh "See? We must trust all in this troupe. And if I can trust a man who has yet to prove himself to us, I believe you can all trust each other."
-    dvh "See? We must trust all in this troupe. And if I can trust a man who has yet to prove himself to us, I believe you can all trust each other."
+    dvh "看到了吧？我们必须信任剧团里的每一个人。如果我能信任一个还没向我们证明自己的人，我相信你们也都能信任彼此。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:580
 translate chinese sm1fs_t004_workshop_9e9df1f2:
 
     # mct "Ouch."
-    mct "Ouch."
+    mct "哎哟。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:583
 translate chinese sm1fs_t004_workshop_0621c52b:
 
     # dvh "Now, each of you will take turns trusting one another with a fall. We shall not move on until each one of you has fallen for another."
-    dvh "Now, each of you will take turns trusting one another with a fall. We shall not move on until each one of you has fallen for another."
+    dvh "现在，你们每个人都要轮流信任对方，进行背摔。只有等你们每个人都和另一个人完成背摔，我们才会进行下一步。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:586
 translate chinese sm1fs_t004_workshop_d632a133:
 
     # mct "Fuck... I didn't expect to have to do trust falls with everyone. I guess... where do I get started?"
-    mct "Fuck... I didn't expect to have to do trust falls with everyone. I guess... where do I get started?"
+    mct "操...我没想到还得和每个人都做信任背摔。那...我该从谁开始呢？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:617
 translate chinese sm1fs_t004_tl_trust_fall_dbd6ecd4:
 
     # mc "So-"
-    mc "So-"
+    mc "那个--"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:620
 translate chinese sm1fs_t004_tl_trust_fall_5c893620:
 
     # tl "Come on, let's get this over with."
-    tl "Come on, let's get this over with."
+    tl "来吧，赶紧把这事儿做完。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:623
 translate chinese sm1fs_t004_tl_trust_fall_8b5e620a:
 
     # mc "Wait!"
-    mc "Wait!"
+    mc "等等！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:633
 translate chinese sm1fs_t004_tl_trust_fall_923d3b2c:
 
     # mc "What were you thinking!"
-    mc "What were you thinking!"
+    mc "你在想什么呢！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:636
 translate chinese sm1fs_t004_tl_trust_fall_13b36e2c:
 
     # tl "That you'd either catch me, or I'd smack into the ground and I could leave early."
-    tl "That you'd either catch me, or I'd smack into the ground and I could leave early."
+    tl "我想着要么你能接住我，要么我就摔在地上，这样我就能早点离开了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:640
 translate chinese sm1fs_t004_tl_trust_fall_264ffab1:
 
     # mc "Jesus, Taisia."
-    mc "Jesus, Taisia."
+    mc "老天啊，泰西娅。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:643
 translate chinese sm1fs_t004_tl_trust_fall_35c45ce8:
 
     # tl "What! I'm boooooored!"
-    tl "What! I'm boooooored!"
+    tl "怎么了！我太无聊了！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:646
 translate chinese sm1fs_t004_tl_trust_fall_336d77fe:
 
     # mc "Why is this so boring to you?"
-    mc "Why is this so boring to you?"
+    mc "为什么这对你来说这么无聊呢？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:649
 translate chinese sm1fs_t004_tl_trust_fall_fde9525e:
 
     # tl "I've said it before - it's not creature stuff. Or monster stuff. It's just... 'actress' stuff."
-    tl "I've said it before - it's not creature stuff. Or monster stuff. It's just... 'actress' stuff."
+    tl "我之前就说过了--这又不是扮演怪物之类的。就是些...‘女演员’该做的事儿。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:652
 translate chinese sm1fs_t004_tl_trust_fall_2b059533:
 
     # mc "And why is actress stuff so boring."
-    mc "And why is actress stuff so boring."
+    mc "那为什么女演员做的事儿就让你觉得无聊？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:655
 translate chinese sm1fs_t004_tl_trust_fall_94c22f56:
 
     # tl "It just is. I'd rather be a clown, or wendigo, or... or... literally anything else."
-    tl "It just is. I'd rather be a clown, or wendigo, or... or... literally anything else."
+    tl "反正就是无聊。我宁愿扮小丑，或者扮演食人怪，或者...或者...随便什么都行。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:658
 translate chinese sm1fs_t004_tl_trust_fall_8a731707:
 
     # mc "Why are you so obsessed with monsters?"
-    mc "Why are you so obsessed with monsters?"
+    mc "你为什么这么痴迷于怪物呢？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:661
 translate chinese sm1fs_t004_tl_trust_fall_7c9747b4:
 
     # tl "Because they're unique. Different. Misunderstood."
-    tl "Because they're unique. Different. Misunderstood."
+    tl "因为它们独特。与众不同。还总被误解。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:664
 translate chinese sm1fs_t004_tl_trust_fall_ad1eaa57:
 
     # mc "Huh."
-    mc "Huh."
+    mc "嗯？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:667
 translate chinese sm1fs_t004_tl_trust_fall_1b400966:
 
     # tl "What?"
-    tl "What?"
+    tl "怎么了？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:670
 translate chinese sm1fs_t004_tl_trust_fall_84056325:
 
     # mc "I don't know... I thought you were going to say something like 'because they scare the shit out of people'. That was... I don't know, deep?"
-    mc "I don't know... I thought you were going to say something like 'because they scare the shit out of people'. That was... I don't know, deep?"
+    mc "我不知道...我还以为你会说类似‘因为它们能把人吓得屁滚尿流’之类的话呢。你说的这些...感觉还挺有深度的？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:673
 translate chinese sm1fs_t004_tl_trust_fall_5ad7a1b3:
 
     # tl "Shut up and let me catch you before you say something else stupid."
-    tl "Shut up and let me catch you before you say something else stupid."
+    tl "闭嘴，趁你还没说出更蠢的话之前，让我接住你。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:676
 translate chinese sm1fs_t004_tl_trust_fall_f854d61b:
 
     # mct "Yeah... I'm the one being stupid."
-    mct "Yeah... I'm the one being stupid."
+    mct "是啊...我才是那个说蠢话的人。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:679
 translate chinese sm1fs_t004_tl_trust_fall_adcb563d:
 
     # tl "You ready?"
-    tl "You ready?"
+    tl "准备好了吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:682
 translate chinese sm1fs_t004_tl_trust_fall_7d2c5138:
 
     # mc "You promise to catch me?"
-    mc "You promise to catch me?"
+    mc "你保证会接住我吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:685
 translate chinese sm1fs_t004_tl_trust_fall_75bfdff3:
 
     # tl "You going to say something else stupid?"
-    tl "You going to say something else stupid?"
+    tl "你还想说什么蠢话吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:688
 translate chinese sm1fs_t004_tl_trust_fall_dc851375:
 
     # mc "Uhhhh..."
-    mc "Uhhhh..."
+    mc "呃..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:691
 translate chinese sm1fs_t004_tl_trust_fall_e0e6cfd2:
 
     # tl "Just fall already, you big baby."
-    tl "Just fall already, you big baby."
+    tl "赶紧倒下来吧，你个大宝贝。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:694
 translate chinese sm1fs_t004_tl_trust_fall_687f6cd7:
 
     # mct "Here goes nothing..."
-    mct "Here goes nothing..."
+    mct "拼了..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:697
 translate chinese sm1fs_t004_tl_trust_fall_69ed4e34:
 
     # mct "God I hope she catches me."
-    mct "God I hope she catches me."
+    mct "我去我去，真希望她能接住我。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:703
 translate chinese sm1fs_t004_tl_trust_fall_b2cddd3e:
 
     # mc "Woooo... I thought you were going to drop me."
-    mc "Woooo... I thought you were going to drop me."
+    mc "哇哦...我还以为你要把我扔下去呢。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:706
 translate chinese sm1fs_t004_tl_trust_fall_de2e315b:
 
     # tl "I thought about it."
-    tl "I thought about it."
+    tl "我确实想过。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:709
 translate chinese sm1fs_t004_tl_trust_fall_701d2464:
 
     # mc "What!?"
-    mc "What!?"
+    mc "什么!?"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:713
 translate chinese sm1fs_t004_tl_trust_fall_28fd735f:
 
     # tl "I told you not to say anything stupid."
-    tl "I told you not to say anything stupid."
+    tl "我告诉过你，别再说蠢话了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:716
 translate chinese sm1fs_t004_tl_trust_fall_ac8a7d48:
 
     # mc "That wasn't stupid!"
-    mc "That wasn't stupid!"
+    mc "这话可不蠢！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:720
 translate chinese sm1fs_t004_tl_trust_fall_da3be155:
 
     # tl "Yes it was."
-    tl "Yes it was."
+    tl "就是蠢。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:722
 translate chinese sm1fs_t004_tl_trust_fall_9a14d0a0:
 
     # tl "We're business partners now. I wouldn't want my costar getting fucked up. Because that would fuck with my money."
-    tl "We're business partners now. I wouldn't want my costar getting fucked up. Because that would fuck with my money."
+    tl "我们现在是生意伙伴了。我可不想我的搭档受伤。因为那样我拿到的钱就会变少。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:724
 translate chinese sm1fs_t004_tl_trust_fall_1adde8d6:
 
     # tl "I'm trying to convince you to hire me. Why would I let you get hurt?"
-    tl "I'm trying to convince you to hire me. Why would I let you get hurt?"
+    tl "我还想说服你雇我呢。又怎么会让你受伤呢？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:728
 translate chinese sm1fs_t004_tl_trust_fall_b5fbd5a1:
 
     # mc "Good point."
-    mc "Good point."
+    mc "有道理。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:731
 translate chinese sm1fs_t004_tl_trust_fall_a64e8bc0:
 
     # mc "Thanks."
-    mc "Thanks."
+    mc "谢谢。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:734
 translate chinese sm1fs_t004_tl_trust_fall_e74bbd8f:
 
     # tl "You learn to trust me yet?"
-    tl "You learn to trust me yet?"
+    tl "你学会信任我了吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:737
 translate chinese sm1fs_t004_tl_trust_fall_8cc105c3:
 
     # mc "I guess so."
-    mc "I guess so."
+    mc "学会了吧。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:740
 translate chinese sm1fs_t004_tl_trust_fall_8170d300:
 
     # tl "Learn to stop saying stupid shit?"
-    tl "Learn to stop saying stupid shit?"
+    tl "那学会别再说蠢话了吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:743
 translate chinese sm1fs_t004_tl_trust_fall_f757e943:
 
     # mc "That one... not so much."
-    mc "That one... not so much."
+    mc "这个嘛...还没太学会。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:746
 translate chinese sm1fs_t004_tl_trust_fall_3e4f0d3b:
 
     # tl "Whatever. At least we're closer to being done."
-    tl "Whatever. At least we're closer to being done."
+    tl "管它呢。至少我们离完成任务又近了一步。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:756
 translate chinese sm1fs_t004_km_trust_fall_770ea954:
 
     # mc "Hey, Kellie."
-    mc "Hey, Kellie."
+    mc "嘿，凯莉。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:759
 translate chinese sm1fs_t004_km_trust_fall_ff4f3199:
 
     # km "What do you want?"
-    km "What do you want?"
+    km "你想干嘛？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:762
 translate chinese sm1fs_t004_km_trust_fall_794c6cd3:
 
     # mc "Uhm, just trying to do the trust falls-"
-    mc "Uhm, just trying to do the trust falls-"
+    mc "呃，就是想做信任背摔--"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:765
 translate chinese sm1fs_t004_km_trust_fall_5f859842:
 
     # km "I'm not doing a trust fall with you."
-    km "I'm not doing a trust fall with you."
+    km "我才不会和你做信任背摔呢。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:768
 translate chinese sm1fs_t004_km_trust_fall_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "为什么？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:771
 translate chinese sm1fs_t004_km_trust_fall_c18bb69d:
 
     # km "Because."
-    km "Because."
+    km "没有为什么。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:774
 translate chinese sm1fs_t004_km_trust_fall_09eb0555:
 
     # mc "Becaaaaaause...?"
-    mc "Becaaaaaause...?"
+    mc "因--为...？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:777
 translate chinese sm1fs_t004_km_trust_fall_524544c0:
 
     # km "I don't owe you an explanation."
-    km "I don't owe you an explanation."
+    km "我没必要给你解释。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:780
 translate chinese sm1fs_t004_km_trust_fall_7ed76e50:
 
     # mc "Well... we have to do this..."
-    mc "Well... we have to do this..."
+    mc "呃...我们必须得做这个..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:783
 translate chinese sm1fs_t004_km_trust_fall_3d001c3e:
 
     # mc "What if... I go first?"
-    mc "What if... I go first?"
+    mc "要不...我先倒下去？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:786
 translate chinese sm1fs_t004_km_trust_fall_06f8b886:
 
     # km "What?"
-    km "What?"
+    km "什么？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:789
 translate chinese sm1fs_t004_km_trust_fall_7801acb7:
 
     # mc "I'll go first."
-    mc "I'll go first."
+    mc "我先倒下去。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:792
 translate chinese sm1fs_t004_km_trust_fall_115f3b3b:
 
     # mct "I feel like this might be a bad idea..."
-    mct "I feel like this might be a bad idea..."
+    mct "我觉得这可能是个馊主意..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:795
 translate chinese sm1fs_t004_km_trust_fall_1da84e5b:
 
     # km "I won't catch you."
-    km "I won't catch you."
+    km "我不会接住你的。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:799
 translate chinese sm1fs_t004_km_trust_fall_e44aaa1d:
 
     # mc "Well... I'm falling!"
-    mc "Well... I'm falling!"
+    mc "好吧...我要倒啦！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:806
 translate chinese sm1fs_t004_km_trust_fall_96368e12:
 
     # mc "God, I was really hoping you'd catch me."
-    mc "God, I was really hoping you'd catch me."
+    mc "天啊，我真的很希望你能接住我。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:809
 translate chinese sm1fs_t004_km_trust_fall_d4cf2109:
 
     # km "You're an asshole."
-    km "You're an asshole."
+    km "你个混蛋。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:812
 translate chinese sm1fs_t004_km_trust_fall_e4fcb0d4:
 
     # mc "Well, we need to do this... right?"
-    mc "Well, we need to do this... right?"
+    mc "可是，我们得完成任务...对吧？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:816
 translate chinese sm1fs_t004_km_trust_fall_2d8b120d:
 
     # km "Whatever."
-    km "Whatever."
+    km "随便。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:817
 translate chinese sm1fs_t004_km_trust_fall_9761ea74:
 
     # km "Just because you did it, doesn't mean I will."
-    km "Just because you did it, doesn't mean I will."
+    km "就因为你做了，可不代表我也会做。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:820
 translate chinese sm1fs_t004_km_trust_fall_e0715dbc:
 
     # mc "But-"
-    mc "But-"
+    mc "但是--"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:823
 translate chinese sm1fs_t004_km_trust_fall_29561603:
 
     # km "You won't change my mind, so scram."
-    km "You won't change my mind, so scram."
+    km "你改变不了我的主意，滚吧。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:826
 translate chinese sm1fs_t004_km_trust_fall_5875a1bf:
 
     # mc "Fine..."
-    mc "Fine..."
+    mc "好吧..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:836
 translate chinese sm1fs_t004_vs_trust_fall_b931485f:
 
     # vs "Hey, [mcname]!"
-    vs "Hey, [mcname]!"
+    vs "嘿，[mcname]！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:839
 translate chinese sm1fs_t004_vs_trust_fall_1b4baeb5:
 
     # mc "Hey, Veronica."
-    mc "Hey, Veronica."
+    mc "嘿，维罗妮卡。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:842
 translate chinese sm1fs_t004_vs_trust_fall_e36016a4:
 
     # vs "Are you ready to do a trust fall?"
-    vs "Are you ready to do a trust fall?"
+    vs "你准备好做信任背摔了吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:845
 translate chinese sm1fs_t004_vs_trust_fall_3199f982:
 
     # mc "Uhm, sure?"
-    mc "Uhm, sure?"
+    mc "呃，当然？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:848
 translate chinese sm1fs_t004_vs_trust_fall_a3447524:
 
     # vs "Ready?"
-    vs "Ready?"
+    vs "准备好了吗？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:851
 translate chinese sm1fs_t004_vs_trust_fall_f6cbc6e0:
 
     # mc "Yep?"
-    mc "Yep?"
+    mc "好了？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:860
 translate chinese sm1fs_t004_vs_trust_fall_cff7ef01:
 
     # vs "My hero."
-    vs "My hero."
+    vs "我的英雄。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:863
 translate chinese sm1fs_t004_vs_trust_fall_39ebee39:
 
     # mc "I just caught you, nothing special."
-    mc "I just caught you, nothing special."
+    mc "我只是接住了你而已，没什么特别的。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:866
 translate chinese sm1fs_t004_vs_trust_fall_c953e64a:
 
     # vs "Still, I think the man who managed to stop Lydia is definitely a hero."
-    vs "Still, I think the man who managed to stop Lydia is definitely a hero."
+    vs "可还是很厉害呀，我觉得能搞定莉迪亚的人绝对是英雄。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:868
 translate chinese sm1fs_t004_vs_trust_fall_5c3254e6:
 
     # mc "Veronica-"
-    mc "Veronica-"
+    mc "维罗妮卡--"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:871
 translate chinese sm1fs_t004_vs_trust_fall_b99822dc:
 
     # vs "I know, I know..."
-    vs "I know, I know..."
+    vs "我知道，我知道..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:873
 translate chinese sm1fs_t004_vs_trust_fall_7ccbc6de:
 
     # vs "But... I don't know... I just think it's so... cool."
-    vs "But... I don't know... I just think it's so... cool."
+    vs "但是...我不知道...我就觉得这事儿太...酷了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:876
 translate chinese sm1fs_t004_vs_trust_fall_fd561c54:
 
     # mc "Cool, Veronica-"
-    mc "Cool, Veronica-"
+    mc "好了，维罗妮卡--"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:879
 translate chinese sm1fs_t004_vs_trust_fall_7c521537:
 
     # vs "Look, there was something special about Fetish Locator, and... I just want to know more. I'm sorry I'm weird about it."
-    vs "Look, there was something special about Fetish Locator, and... I just want to know more. I'm sorry I'm weird about it."
+    vs "听着，性趣探测器那事儿确实有点特别，而且...我就是想多了解了解。很抱歉我对这事儿反应有点奇怪。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:885
 translate chinese sm1fs_t004_vs_trust_fall_51039495:
 
     # mc "Look, maybe I do need to talk about it more... normalize it, or whatever."
-    mc "Look, maybe I do need to talk about it more... normalize it, or whatever."
+    mc "听着，也许我确实得多聊聊这事儿...让它变得正常点，或者随便怎么补救吧。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:887
 translate chinese sm1fs_t004_vs_trust_fall_2244e515:
 
     # mc "And it was kind of a big deal thing... I'm just being a little... I don't know. It's just a lot."
-    mc "And it was kind of a big deal thing... I'm just being a little... I don't know. It's just a lot."
+    mc "而且那事儿确实还挺重大的...我只是有点...我不知道。就是感觉这事儿有点复杂。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:890
 translate chinese sm1fs_t004_vs_trust_fall_b2b57718:
 
     # vs "I promise to try and be more chill about it."
-    vs "I promise to try and be more chill about it."
+    vs "我保证会尽量淡定些的。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:893
 translate chinese sm1fs_t004_vs_trust_fall_f335009f:
 
     # mc "Thanks, Veronica."
-    mc "Thanks, Veronica."
+    mc "谢谢，维罗妮卡。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:898
 translate chinese sm1fs_t004_vs_trust_fall_8e877c97:
 
     # mc "Look, I'm just not ready to talk about it."
-    mc "Look, I'm just not ready to talk about it."
+    mc "听着，我只是还没准备好谈这事儿。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:902
 translate chinese sm1fs_t004_vs_trust_fall_0bef139e:
 
     # vs "Okay... I'm sorry, [mcname]."
-    vs "Okay... I'm sorry, [mcname]."
+    vs "好吧...对不起，[mcname]。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:904
 translate chinese sm1fs_t004_vs_trust_fall_2c8cfbd6:
 
     # mc "Just... don't worry about it."
-    mc "Just... don't worry about it."
+    mc "别...别往心里去。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:908
 translate chinese sm1fs_t004_vs_trust_fall_72c5c263:
 
     # mc "But, no matter what - I'm glad you trust me."
-    mc "But, no matter what - I'm glad you trust me."
+    mc "不过，不管怎样--我很高兴你信任我。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:911
 translate chinese sm1fs_t004_vs_trust_fall_af4a66a2:
 
     # vs "Of course! Because... you're my-"
-    vs "Of course! Because... you're my-"
+    vs "当然！因为...你是我的--"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:914
 translate chinese sm1fs_t004_vs_trust_fall_e346a918:
 
     # vs "Uhm, my stagehand."
-    vs "Uhm, my stagehand."
+    vs "呃，我的舞台助手。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:915
 translate chinese sm1fs_t004_vs_trust_fall_f7ae10cd:
 
     # vs "I should probably get ready for my next trust fall."
-    vs "I should probably get ready for my next trust fall."
+    vs "我也许该为下一次信任背摔做好准备了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:918
 translate chinese sm1fs_t004_vs_trust_fall_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "我也是。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:926
 translate chinese sm1fs_t004_workshop_end_934991ee:
 
     # dvh "Now that we have all had time to do a trust fall together - Kellie, Veronica. Would you please step into the circle."
-    dvh "Now that we have all had time to do a trust fall together - Kellie, Veronica. Would you please step into the circle."
+    dvh "既然我们都一起做过信任背摔了--凯莉，维罗妮卡。请你们到圈子中间来好吗。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:929
 translate chinese sm1fs_t004_workshop_end_af8e22ff:
 
     # km "No."
-    km "No."
+    km "不要。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:932
 translate chinese sm1fs_t004_workshop_end_6ee06fd1:
 
     # dvh "Why not, Kellie?"
-    dvh "Why not, Kellie?"
+    dvh "为什么不行，凯莉？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:934
 translate chinese sm1fs_t004_workshop_end_0ea278c6:
 
     # km "I won't do a trust fall with Veronica."
-    km "I won't do a trust fall with Veronica."
+    km "我不会和维罗妮卡做信任背摔的。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:937
 translate chinese sm1fs_t004_workshop_end_9385df83:
 
     # dvh "And why do you refuse such an easy exercise."
-    dvh "And why do you refuse such an easy exercise."
+    dvh "你为什么拒绝这么简单的一个练习呢。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:940
 translate chinese sm1fs_t004_workshop_end_e553eaf8:
 
     # km "Because I don't trust her."
-    km "Because I don't trust her."
+    km "因为我不信任她。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:943
 translate chinese sm1fs_t004_workshop_end_5f9e2380:
 
     # dvh "What has Veronica done to you, Kellie?"
-    dvh "What has Veronica done to you, Kellie?"
+    dvh "维罗妮卡对你做了什么吗，凯莉？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:946
 translate chinese sm1fs_t004_workshop_end_5221f9c3:
 
     # vs "Whatever it is, I'm sorry!"
-    vs "Whatever it is, I'm sorry!"
+    vs "不管我对你造成了怎样的伤害，都对不起！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:949
 translate chinese sm1fs_t004_workshop_end_1ae88a5d:
 
     # km "Shut up, I don't care!"
-    km "Shut up, I don't care!"
+    km "闭嘴，我不在乎！"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:952
 translate chinese sm1fs_t004_workshop_end_16c818f2:
 
     # vs "Sorry..."
-    vs "Sorry..."
+    vs "对不起..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:955
 translate chinese sm1fs_t004_workshop_end_eb3ff2f3:
 
     # dvh "I do not have time for this squabble. You two must work it out if we are ever to move forward as a troupe."
-    dvh "I do not have time for this squabble. You two must work it out if we are ever to move forward as a troupe."
+    dvh "我可没时间给你俩协调。如果我们想作为一个剧团继续发展下去，你们俩必须把这事儿解决好。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:957
 translate chinese sm1fs_t004_workshop_end_ba65df27:
 
     # dvh "But for now, I must leave. I am to speak with some sponsors about our newest show."
-    dvh "But for now, I must leave. I am to speak with some sponsors about our newest show."
+    dvh "但现在，我得走了。我要和赞助商谈谈我们的新戏。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:960
 translate chinese sm1fs_t004_workshop_end_53300a3c:
 
     # tl "Does that mean the workshop is over?"
-    tl "Does that mean the workshop is over?"
+    tl "那是不是意味着研习班结束了？"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:963
 translate chinese sm1fs_t004_workshop_end_08031fcf:
 
     # dvh "Yeah."
-    dvh "Yeah."
+    dvh "是的。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:966
 translate chinese sm1fs_t004_workshop_end_21e10080:
 
     # tl "Fucking finally."
-    tl "Fucking finally."
+    tl "终于结束了。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:969
 translate chinese sm1fs_t004_workshop_end_820b238f:
 
     # mct "Man. I wonder what their problem is..."
-    mct "Man. I wonder what their problem is..."
+    mct "唉。真不知道她们之间有什么矛盾..."
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:970
 translate chinese sm1fs_t004_workshop_end_f54a59a7:
 
     # mct "Maybe I should talk to Kellie about it... or Veronica."
-    mct "Maybe I should talk to Kellie about it... or Veronica."
+    mct "也许我应该找凯莉聊聊这事儿...或者找维罗妮卡。"
 
 translate chinese strings:
 
     # game/code/scenes/theatre/sm1fs-t004.rpy:294
     old "One hour later"
-    new "One hour later"
+    new "一小时后"
 
     # game/code/scenes/theatre/sm1fs-t004.rpy:354
     old "Check the storage area"
-    new "Check the storage area"
+    new "检查道具存放区"
 
     # game/code/scenes/theatre/sm1fs-t004.rpy:354
     old "Just finish up"
-    new "Just finish up"
+    new "把活儿干完就行"
 
     # game/code/scenes/theatre/sm1fs-t004.rpy:595
     old "Taisia"
-    new "Taisia"
+    new "泰西娅"
 
     # game/code/scenes/theatre/sm1fs-t004.rpy:595
     old "Kelly"
-    new "Kelly"
+    new "凯莉"
 
     # game/code/scenes/theatre/sm1fs-t004.rpy:595
     old "Veronica"
-    new "Veronica"
+    new "维罗妮卡"
 
     # game/code/scenes/theatre/sm1fs-t004.rpy:595
     old "That's everyone"
-    new "That's everyone"
+    new "所有人都在这儿了"
 
     # game/code/scenes/theatre/sm1fs-t004.rpy:880
     old "Forgive and forget"
-    new "Forgive and forget"
+    new "既往不咎"
 
     # game/code/scenes/theatre/sm1fs-t004.rpy:880
     old "Just move on"
-    new "Just move on"
+    new "向前看就好"
 
