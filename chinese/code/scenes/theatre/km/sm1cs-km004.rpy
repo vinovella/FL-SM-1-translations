@@ -2,145 +2,145 @@
 translate chinese sm1cs_km004_783cf0f3:
 
     # km "This is going to be great, [mcname]."
-    km "This is going to be great, [mcname]."
+    km "这肯定会很有意思的，[mcname]。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:37
 translate chinese sm1cs_km004_8baeea33:
 
     # mc "Yeah, it's pretty exciting."
-    mc "Yeah, it's pretty exciting."
+    mc "是啊，挺让人兴奋的。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:40
 translate chinese sm1cs_km004_2d2feac1:
 
     # km "Thanks again for helping."
-    km "Thanks again for helping."
+    km "再次感谢你的帮忙。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:43
 translate chinese sm1cs_km004_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "不客气。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:50
 translate chinese sm1cs_km004_1702ba2c:
 
     # mc "What is my role for the prank again?"
-    mc "What is my role for the prank again?"
+    mc "我在这次恶作剧里到底要做什么来着？"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:53
 translate chinese sm1cs_km004_160fa50b:
 
     # km "Nothing major. I just need you to watch out for people."
-    km "Nothing major. I just need you to watch out for people."
+    km "也没什么大事。我只是需要你留意着点人。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:54
 translate chinese sm1cs_km004_34732c19:
 
     # km "Make sure that the coast is clear. Stuff like that."
-    km "Make sure that the coast is clear. Stuff like that."
+    km "确保周围没人。诸如此类的事。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:57
 translate chinese sm1cs_km004_18577038:
 
     # mc "Okay. Cool."
-    mc "Okay. Cool."
+    mc "好的。没问题。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:60
 translate chinese sm1cs_km004_80d24e60:
 
     # km "I can't wait to hear her freaking out."
-    km "I can't wait to hear her freaking out."
+    km "我都等不及听她抓狂的样子了。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:63
 translate chinese sm1cs_km004_3d9ef9ad:
 
     # mc "But we're not hurting Veronica, right?"
-    mc "But we're not hurting Veronica, right?"
+    mc "但我们不会伤害维罗妮卡的，对吧？"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:66
 translate chinese sm1cs_km004_a6977e95:
 
     # km "Of course not. We just need to get her so embarrassed that she quits the group and regrets ever joining."
-    km "Of course not. We just need to get her so embarrassed that she quits the group and regrets ever joining."
+    km "当然不会。我们只需要让她难堪到主动退出这个团队，并且后悔加入过。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:71
 translate chinese sm1cs_km004_eeccc0eb:
 
     # km "Okay, I just want to throw her off her game so that I get the lead in the next show."
-    km "Okay, I just want to throw her off her game so that I get the lead in the next show."
+    km "好吧，我只是想打乱她的状态，这样我就能在下一场演出里拿到主角了。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:74
 translate chinese sm1cs_km004_5d9e34a4:
 
     # mc "Thank you. Much less, wicked witch vibe."
-    mc "Thank you. Much less, wicked witch vibe."
+    mc "谢天谢地。没那么像恶毒女巫的做派了。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:77
 translate chinese sm1cs_km004_b68cdbc5:
 
     # km "Alright, here we go."
-    km "Alright, here we go."
+    km "好了，我们开始吧。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:80
 translate chinese sm1cs_km004_1e769ab0:
 
     # km "You're up, [mcname]."
-    km "You're up, [mcname]."
+    km "该你了，[mcname]。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:81
 translate chinese sm1cs_km004_d551a398:
 
     # km "Watch the door, I'll be done in two minutes."
-    km "Watch the door, I'll be done in two minutes."
+    km "看好门，我两分钟就好。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:84
 translate chinese sm1cs_km004_0ffb15aa:
 
     # mc "How do you know that?"
-    mc "How do you know that?"
+    mc "你怎么知道只需两分钟？"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:87
 translate chinese sm1cs_km004_896351e5:
 
     # km "I practiced last night."
-    km "I practiced last night."
+    km "我昨晚练习过了。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:95
 translate chinese sm1cs_km004_ff5d95c4:
 
     # mct "No problem with a little harmless fun now and then."
-    mct "No problem with a little harmless fun now and then."
+    mct "偶尔来点无伤大雅的玩笑也没什么问题。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:98
 translate chinese sm1cs_km004_e8f00132:
 
     # mct "I never got to do any college pranks."
-    mct "I never got to do any college pranks."
+    mct "我在大学的时候从来没搞过恶作剧。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:101
 translate chinese sm1cs_km004_5d6a181c:
 
     # mct "Then again I got to fuck some of my teachers, so maybe you either get to do one or the other..."
-    mct "Then again I got to fuck some of my teachers, so maybe you either get to do one or the other..."
+    mct "不过话说回来，我和一些老师上过床，所以也许鱼与熊掌不可兼得..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:104
 translate chinese sm1cs_km004_b223d3e8:
 
     # mct "A discussion for wiser men than I."
-    mct "A discussion for wiser men than I."
+    mct "这问题还是留给比我聪明的人去讨论吧。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:105
 translate chinese sm1cs_km004_099e4d6b:
 
     # mct "I wonder what she's doing over there with Veronica's purse."
-    mct "I wonder what she's doing over there with Veronica's purse."
+    mct 我想知道她拿着维罗妮卡的钱包在那边做什么。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:110
 translate chinese sm1cs_km004_81c0b4b7:
 
     # mct "I don't get Kellie."
-    mct "I don't get Kellie."
+    mct "我真搞不懂凯莉。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:111
 translate chinese sm1cs_km004_33399f56:
