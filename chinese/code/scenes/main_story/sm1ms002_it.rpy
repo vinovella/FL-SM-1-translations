@@ -332,3 +332,9 @@ translate chinese strings:
     old "Still Confused"
     new "依然糊涂"
 
+translate chinese strings:
+
+    # game/code/scenes/main_story/sm1ms002_it.rpy:76
+    old "One eternity later"
+    new "One eternity later"
+

@@ -176,7 +176,7 @@ translate chinese sm1cs_ag001_8ff28f75:
 translate chinese sm1cs_ag001_c20e21ba:
 
     # mj "My team managed to nail down that analytics error that was a real thorn in our butts.. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
-    mj "我的团队好不容易搞定了那个一直让我们头疼的数据错误...现在杰登又说，当我们的服务器容量达到15%时，压力测试警报就会响起来。"
+    mj "我的团队好不容易搞定了那个一直让我们头疼的数据错误...现在杰登又说，当我们的服务器容量达到15%%时，压力测试警报就会响起来。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:109
 translate chinese sm1cs_ag001_2769889a:
