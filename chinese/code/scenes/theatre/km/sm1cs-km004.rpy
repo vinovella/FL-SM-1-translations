@@ -134,7 +134,7 @@ translate chinese sm1cs_km004_b223d3e8:
 translate chinese sm1cs_km004_099e4d6b:
 
     # mct "I wonder what she's doing over there with Veronica's purse."
-    mct 我想知道她拿着维罗妮卡的钱包在那边做什么。"
+    mct "我想知道她拿着维罗妮卡的钱包在那边做什么。"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:110
 translate chinese sm1cs_km004_81c0b4b7:

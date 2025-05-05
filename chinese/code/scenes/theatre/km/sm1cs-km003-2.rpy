@@ -278,7 +278,7 @@ translate chinese sm1cs_km003_2_after_montage_3066339e:
 translate chinese sm1cs_km003_2_after_montage_6b59e6d9:
 
     # km "Don't worry about that. It's from {i}The Tempest{/i}. Pretty old play, but one of my favorites."
-    km "别担心那个。这句台词出自{i}《暴风雨》。是部挺老的戏了，但却是我最喜欢的戏之一。"
+    km "别担心那个。这句台词出自《暴风雨》。是部挺老的戏了，但却是我最喜欢的戏之一。"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:161
 translate chinese sm1cs_km003_2_after_montage_be94e048:

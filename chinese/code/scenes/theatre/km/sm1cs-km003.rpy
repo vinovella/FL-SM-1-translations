@@ -104,7 +104,7 @@ translate chinese sm1cs_km003_20e69bde:
 translate chinese sm1cs_km003_8aaf8bd9:
 
     # mct "Oh man. What is she getting me into?"
-    mct "哎呀天哪。她这是要把我卷进什么事儿里去啊？
+    mct "哎呀天哪。她这是要把我卷进什么事儿里去啊？"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:95
 translate chinese sm1cs_km003_fa56fa90:

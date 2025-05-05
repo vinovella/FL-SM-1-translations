@@ -434,7 +434,7 @@ translate chinese sm1cs_dvh001_479abc76:
 translate chinese sm1cs_dvh001_1b2e3253:
 
     # dvh "Words are cheap. I believe in actions. In {i}actors{/i}."
-    dvh "光说说是没用的。我相信行动，更信真正躬身入局的{i}演员{i}。"
+    dvh "光说说是没用的。我相信行动，更信真正躬身入局的{i}演员{/i}。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:207
 translate chinese sm1cs_dvh001_f2b8bf25:

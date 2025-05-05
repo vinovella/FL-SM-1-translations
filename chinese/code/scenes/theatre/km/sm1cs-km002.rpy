@@ -446,7 +446,7 @@ translate chinese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km002.rpy:74
     old "Ask her if that was her apologizing"
-    new 问问她刚才是不是在道歉"
+    new "问问她刚才是不是在道歉"
 
     # game/code/scenes/theatre/km/sm1cs-km002.rpy:74
     old "Compliment her energy"
