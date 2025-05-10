@@ -530,7 +530,7 @@ translate chinese sm1cs_tl001_1ec2c8a6:
 translate chinese sm1cs_tl001_5dfaadb2:
 
     # mc "Yeah... I don't know."
-    mc "是啊…… 我也不知道。"
+    mc "是啊...我也不知道。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:275
 translate chinese sm1cs_tl001_535a41b9:
