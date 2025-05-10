@@ -482,125 +482,125 @@ translate chinese sm1cs_tl001_99cd1986:
 translate chinese sm1cs_tl001_50140d22:
 
     # mc "What don't you know? I mean, think about it. We have a willing actress, who is down to do whatever, and is chomping at the bit to do whatever. I think we should use it!"
-    mc "What don't you know? I mean, think about it. We have a willing actress, who is down to do whatever, and is chomping at the bit to do whatever. I think we should use it!"
+    mc "怎么会不确定呢？我是说，好好想想。我们有一个愿意配合的女演员，她急切地什么都愿意做，而且是迫不及待的那种。我觉得我们应该好好利用这一点！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:255
 translate chinese sm1cs_tl001_8a0f339f:
 
     # sy "Okay, sure. But you're the one who's going to have to pay her. Because the studio is making no money right now."
-    sy "Okay, sure. But you're the one who's going to have to pay her. Because the studio is making no money right now."
+    sy "好吧，行。但得由你来付她钱。因为工作室现在还没赚到钱付她报酬。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:257
 translate chinese sm1cs_tl001_f9ea0cc2:
 
     # sy "Okay, sure. But you're the one who's going to have to pay her. Because the studio can't afford to pay her right now."
-    sy "Okay, sure. But you're the one who's going to have to pay her. Because the studio can't afford to pay her right now."
+    sy "好吧，行。但得由你来付她钱。因为工作室现在付不起她的报酬。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:260
 translate chinese sm1cs_tl001_a1822c84:
 
     # mc "Fine, if that's what I have to do to keep Taisia around, that's what I have to do."
-    mc "Fine, if that's what I have to do to keep Taisia around, that's what I have to do."
+    mc "好吧，如果必须这么做才能把泰西娅留下来，那我就这么做。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:263
 translate chinese sm1cs_tl001_28973243:
 
     # sy "So Mr. Pornstar, what the hell is this movie going to be about?"
-    sy "So Mr. Pornstar, what the hell is this movie going to be about?"
+    sy "那么，色情片先生，这部电影到底要拍什么内容呢？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:266
 translate chinese sm1cs_tl001_bb7ed5f6:
 
     # mc "I honestly have no clue."
-    mc "I honestly have no clue."
+    mc "说实话，我也不知道。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:270
 translate chinese sm1cs_tl001_b147fc15:
 
     # sy "Well you have to figure that out if you plan to keep Taisia around."
-    sy "Well you have to figure that out if you plan to keep Taisia around."
+    sy "嗯，如果你打算把泰西娅留下来，就得把这事弄清楚。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:271
 translate chinese sm1cs_tl001_1ec2c8a6:
 
     # sy "You did just promise her her own little movie."
-    sy "You did just promise her her own little movie."
+    sy "你可是不久前才答应给她拍一部小电影呢。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:274
 translate chinese sm1cs_tl001_5dfaadb2:
 
     # mc "Yeah... I don't know."
-    mc "Yeah... I don't know."
+    mc "是啊…… 我也不知道。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:275
 translate chinese sm1cs_tl001_535a41b9:
 
     # mc "I know nothing about her. Like what would she be interested in filming, what kind of movie she would want to make..."
-    mc "I know nothing about her. Like what would she be interested in filming, what kind of movie she would want to make..."
+    mc "我对她一无所知。也不知道她对什么内容感兴趣，她想拍什么样的电影..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:279
 translate chinese sm1cs_tl001_ded50a32:
 
     # sy "You better figure out something. Taisia doesn't seem to be the type to forgive easily."
-    sy "You better figure out something. Taisia doesn't seem to be the type to forgive easily."
+    sy "你最好想出点办法来。泰西娅可不像是那种轻易会原谅别人的人。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:283
 translate chinese sm1cs_tl001_cfb4ea88:
 
     # mc "Yeah, yeah. I get it. I'll make sure to talk to you about this in the future."
-    mc "Yeah, yeah. I get it. I'll make sure to talk to you about this in the future."
+    mc "是，是。我懂了。以后这种事儿我肯定会和你商量的。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:287
 translate chinese sm1cs_tl001_b4003cc4:
 
     # sy "Just remember, sister knows best."
-    sy "Just remember, sister knows best."
+    sy "记住，老妹我最懂了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:289
 translate chinese sm1cs_tl001_a2be1920:
 
     # sy "Good, I'm glad you are starting to realize that I know what I'm talking about."
-    sy "Good, I'm glad you are starting to realize that I know what I'm talking about."
+    sy "很好，现在知道我可比你有谱多了吧？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:292
 translate chinese sm1cs_tl001_d5705756:
 
     # mc "I've always known that, Stacy."
-    mc "I've always known that, Stacy."
+    mc "我一直都清楚得很，史黛西。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:295
 translate chinese sm1cs_tl001_d34d9e92:
 
     # sy "Well maybe you'll finally start to listen to me then!"
-    sy "Well maybe you'll finally start to listen to me then!"
+    sy "嗯，那也许你终于能开始听我的话了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:299
 translate chinese sm1cs_tl001_05b7068f:
 
     # mc "Will you help me figure this out?"
-    mc "Will you help me figure this out?"
+    mc "你会帮我想出办法来吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:302
 translate chinese sm1cs_tl001_8f5093fe:
 
     # sy "Of course I will."
-    sy "Of course I will."
+    sy "当然会。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:304
 translate chinese sm1cs_tl001_20dbfe9c:
 
     # mc "Thanks, Stacy. I owe you."
-    mc "Thanks, Stacy. I owe you."
+    mc "谢了，史黛西。我欠你个人情。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:305
 translate chinese sm1cs_tl001_f75fe256:
 
     # sy "I'll put it on the tab."
-    sy "I'll put it on the tab."
+    sy "我会记着的。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:309
 translate chinese sm1cs_tl001_757c4db5:
 
     # mc "What would I do without you?"
-    mc "What would I do without you?"
+    mc "要是没有你我该怎么办啊？"
 
