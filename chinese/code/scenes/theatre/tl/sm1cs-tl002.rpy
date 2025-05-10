@@ -2,289 +2,289 @@
 translate chinese sm1cs_tl002_25e8e476:
 
     # mc "How have I never seen this place before?"
-    mc "How have I never seen this place before?"
+    mc "我怎么从来没见过这个地方？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:18
 translate chinese sm1cs_tl002_88d10eca:
 
     # "Worker" "We just opened!"
-    "Worker" "We just opened!"
+    "工作人员" "我们刚开业！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:21
 translate chinese sm1cs_tl002_f9fc7303:
 
     # mc "Holy shit!"
-    mc "Holy shit!"
+    mc "我去！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:24
 translate chinese sm1cs_tl002_7963fdb5:
 
     # "Worker" "I'm sorry! I didn't mean to scare you!"
-    "Worker" "I'm sorry! I didn't mean to scare you!"
+    "工作人员" "真对不起！我不是故意要吓到你的！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:26
 translate chinese sm1cs_tl002_833a73e2:
 
     # mc "You, uhm, didn't. I was excited about the, uhh... dildos."
-    mc "You, uhm, didn't. I was excited about the, uhh... dildos."
+    mc "你，呃，没事。我只是对这些...假阳具很感兴趣。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:29
 translate chinese sm1cs_tl002_f78ce37b:
 
     # tl "Yeah? Is that what gets you going?"
-    tl "Yeah? Is that what gets you going?"
+    tl "是吗？这些东西能让你兴奋？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:32
 translate chinese sm1cs_tl002_9c135e76:
 
     # mc "Wait, uh, I mean-"
-    mc "Wait, uh, I mean-"
+    mc "等等，呃，我是说--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:35
 translate chinese sm1cs_tl002_7f76f812:
 
     # tl "Hey man, no shame here. Whatever floats your boat."
-    tl "Hey man, no shame here. Whatever floats your boat."
+    tl "嘿，伙计，别不好意思。只要你喜欢就行。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:38
 translate chinese sm1cs_tl002_d5c9df98:
 
     # mc "That's not-"
-    mc "That's not-"
+    mc "不是这样--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:40
 translate chinese sm1cs_tl002_4ee6c4bb:
 
     # tl "Whatever, smooth brain. Let's take a look around."
-    tl "Whatever, smooth brain. Let's take a look around."
+    tl "随便啦，笨脑瓜。我们四处看看吧。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:44
 translate chinese sm1cs_tl002_ba0cc9b1:
 
     # "Worker" "Let me know if you need anything!"
-    "Worker" "Let me know if you need anything!"
+    "工作人员" "如果你们需要什么就告诉我！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:49
 translate chinese sm1cs_tl002_0910c569:
 
     # tl "You know, if you don't have a film start soon, I might have to get one of these little guys."
-    tl "You know, if you don't have a film start soon, I might have to get one of these little guys."
+    tl "你知道吗，如果不能尽快开始拍电影，我可能就得买一个像这种的小玩意儿了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:52
 translate chinese sm1cs_tl002_d8af05d5:
 
     # mc "These are little!?"
-    mc "These are little!?"
+    mc "这些还算小吗!?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:55
 translate chinese sm1cs_tl002_a9c08f5c:
 
     # tl "I mean, kind of?"
-    tl "I mean, kind of?"
+    tl "要我说，算是吧？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:57
 translate chinese sm1cs_tl002_6573f5da:
 
     # mct "Jee-zus! If she thinks these are little..."
-    mct "Jee-zus! If she thinks these are little..."
+    mct "我滴个去！要是她觉得这些算小的话..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:58
 translate chinese sm1cs_tl002_4ac6a0bc:
 
     # tl "You don't have to worry, [mcname]."
-    tl "You don't have to worry, [mcname]."
+    tl "你别担心，[mcname]。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:61
 translate chinese sm1cs_tl002_7a61e941:
 
     # mc "What! I'm- I'm totally cool. Not worried at all."
-    mc "What! I'm- I'm totally cool. Not worried at all."
+    mc "怎么会！我--我完全不在乎。一点都不担心好嘛。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:64
 translate chinese sm1cs_tl002_64aa3d73:
 
     # tl "Uh huh. That's what they all say."
-    tl "Uh huh. That's what they all say."
+    tl "嗯哼。他们都这么说。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:65
 translate chinese sm1cs_tl002_afcfa447:
 
     # tl "But nothing beats a real dick. Nothing.{w} It would just be nice if you also shoved something in my ass while you fucked me."
-    tl "But nothing beats a real dick. Nothing.{w} It would just be nice if you also shoved something in my ass while you fucked me."
+    tl "但没什么能比得上真家伙。说真的。{w}要是你在操我的时候还能往我屁股里塞点东西，那就更好了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:67
 translate chinese sm1cs_tl002_e0d9a7e1:
 
     # mct "God, Taisia is a freak."
-    mct "God, Taisia is a freak."
+    mct "天呐，泰西娅可真够变态的。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:69
 translate chinese sm1cs_tl002_d1123148:
 
     # mc "Well, uhm, why don't you tell me something else about yourself?"
-    mc "Well, uhm, why don't you tell me something else about yourself?"
+    mc "嗯，呃，你能多和我说说你自己的事吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:72
 translate chinese sm1cs_tl002_48008a5e:
 
     # tl "Like what? I already told you about my kinks-"
-    tl "Like what? I already told you about my kinks-"
+    tl "比如什么？我已经跟你说过我的癖好了--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:74
 translate chinese sm1cs_tl002_ccd16d34:
 
     # mc "No, I mean like about you. Tell me about Taisia."
-    mc "No, I mean like about you. Tell me about Taisia."
+    mc "不，我是说关于你本人。和我说说泰西娅是个怎样的人。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:79
 translate chinese sm1cs_tl002_fec24e32:
 
     # tl "Like what?"
-    tl "Like what?"
+    tl "比如什么？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:82
 translate chinese sm1cs_tl002_3bd720a7:
 
     # mc "I don't know. Like, what do you do for fun?"
-    mc "I don't know. Like, what do you do for fun?"
+    mc "我不知道。比如，你平时喜欢做什么？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:85
 translate chinese sm1cs_tl002_cb1510e8:
 
     # tl "Wait. You want to talk about me?"
-    tl "Wait. You want to talk about me?"
+    tl "等等。你是想聊聊我？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:88
 translate chinese sm1cs_tl002_cbb72223:
 
     # mc "Yeah, that's kind of the point of talking to your costar, you know? What do you like, what things interest you. That sort of thing."
-    mc "Yeah, that's kind of the point of talking to your costar, you know? What do you like, what things interest you. That sort of thing."
+    mc "是啊，这就是和搭档聊天的意义所在，你懂吧？你喜欢什么，对什么感兴趣。诸如此类的事。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:90
 translate chinese sm1cs_tl002_9df84382:
 
     # tl "Huh..."
-    tl "Huh..."
+    tl "嗯..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:95
 translate chinese sm1cs_tl002_dfbd2539:
 
     # mc "What? Did I say something bad or something?"
-    mc "What? Did I say something bad or something?"
+    mc "怎么了？我是不是说错什么了？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:97
 translate chinese sm1cs_tl002_5646e2a6:
 
     # tl "No, it's just..."
-    tl "No, it's just..."
+    tl "没有，只是..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:100
 translate chinese sm1cs_tl002_4a15a5bb:
 
     # tl "Usually guys just want to get to know me to try and fuck me. But, since you already fucked me... I don't know."
-    tl "Usually guys just want to get to know me to try and fuck me. But, since you already fucked me... I don't know."
+    tl "通常男的想了解我都是想和我上床。但是，既然你都已经和我上过床了...我也说不好。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:101
 translate chinese sm1cs_tl002_bbad5cac:
 
     # tl "I just... don't get asked about 'me' a lot, you know?"
-    tl "I just... don't get asked about 'me' a lot, you know?"
+    tl "我只是...很少有人问我关于‘我’的事，你懂吧？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:104
 translate chinese sm1cs_tl002_accdcd89:
 
     # mc "I get it. Well, why don't we start easy?"
-    mc "I get it. Well, why don't we start easy?"
+    mc "我懂。那，我们从简单的开始说？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:107
 translate chinese sm1cs_tl002_9b744cd6:
 
     # tl "Uhm, sure."
-    tl "Uhm, sure."
+    tl "呃，好吧。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:110
 translate chinese sm1cs_tl002_e7a93b78:
 
     # mc "What do you like to do in your free time?"
-    mc "What do you like to do in your free time?"
+    mc "你空闲时间喜欢做什么？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:113
 translate chinese sm1cs_tl002_ff166e82:
 
     # tl "I don't know... I like cars."
-    tl "I don't know... I like cars."
+    tl "我不知道...我喜欢汽车。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:116
 translate chinese sm1cs_tl002_b7bd295a:
 
     # mc "Oh?{w} Shit, getting offered a mechanic job makes way more sense now."
-    mc "Oh?{w} Shit, getting offered a mechanic job makes way more sense now."
+    mc "哦？{w}靠，这么说来你被邀请去做机械师的工作就说得通了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:119
 translate chinese sm1cs_tl002_7256c754:
 
     # tl "Yeah, that's part of why it's such a sweet gig."
-    tl "Yeah, that's part of why it's such a sweet gig."
+    tl "是啊，这也是那份工作很诱人的一部分原因。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:124
 translate chinese sm1cs_tl002_91b6616d:
 
     # mc "What do you like about cars?"
-    mc "What do you like about cars?"
+    mc "你喜欢汽车哪一点呢？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:127
 translate chinese sm1cs_tl002_85c4865c:
 
     # tl "I don't know. They just make sense to me. Every part has a function, a purpose. Nothing is an accident."
-    tl "I don't know. They just make sense to me. Every part has a function, a purpose. Nothing is an accident."
+    tl "我不知道。它们对我来说很有意义。每个零件都有它的功能，有特定用途。没有什么是偶然的。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:130
 translate chinese sm1cs_tl002_2d55d172:
 
     # mc "I get that. Like a puzzle kind of."
-    mc "I get that. Like a puzzle kind of."
+    mc "我懂。就像一个拼图一样。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:133
 translate chinese sm1cs_tl002_d3dbeb21:
 
     # tl "Kind of."
-    tl "Kind of."
+    tl "差不多吧。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:136
 translate chinese sm1cs_tl002_92e0baf7:
 
     # mc "When did you get into cars?"
-    mc "When did you get into cars?"
+    mc "你是什么时候开始喜欢汽车的？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:138
 translate chinese sm1cs_tl002_5088a739:
 
     # tl "I was young, I'm not sure when."
-    tl "I was young, I'm not sure when."
+    tl "我小时候就喜欢了，我也不确定具体是什么时候。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:139
 translate chinese sm1cs_tl002_299b3e9e:
 
     # mc "What got you into them?"
-    mc "What got you into them?"
+    mc "是什么让你喜欢上汽车的呢？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:142
 translate chinese sm1cs_tl002_14ee98c0:
 
     # tl "My mom's boyfriend was over and put on this movie. Some car racing flick. 'Speed and Fury'."
-    tl "My mom's boyfriend was over and put on this movie. Some car racing flick. 'Speed and Fury'."
+    tl "我妈妈的男朋友在我家，然后他放了一部电影。一部赛车电影。《速度与激情》。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:143
 translate chinese sm1cs_tl002_a9159dbd:
 
     # tl "I remember how they all looked, so cool with their outfits, and cars... Doing something that was important to them. You know? And the bald guy, he..."
-    tl "I remember how they all looked, so cool with their outfits, and cars... Doing something that was important to them. You know? And the bald guy, he..."
+    tl "我记得他们的样子，全都穿得好酷，还有那些车...他们在投身于那些对自己意义非凡的事情。你懂吧？还有那个光头男人，他..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:144
 translate chinese sm1cs_tl002_c197d36b:
 
     # tl "Doesn't matter. I just remember them being cool and sexy. I caught the bug right then and there. I watched every car movie I could, and started working on cars."
-    tl "Doesn't matter. I just remember them being cool and sexy. I caught the bug right then and there. I watched every car movie I could, and started working on cars."
+    tl "算了。我只记得他们又酷又性感。从那时起我就迷上了。我看了所有我能找到的汽车电影，还开始摆弄汽车。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:145
 translate chinese sm1cs_tl002_7f2950c8:
