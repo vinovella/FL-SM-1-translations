@@ -290,217 +290,217 @@ translate chinese sm1cs_tl002_c197d36b:
 translate chinese sm1cs_tl002_7f2950c8:
 
     # tl "The rest is history."
-    tl "The rest is history."
+    tl "剩下的就众所周知了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:148
 translate chinese sm1cs_tl002_14a9a662:
 
     # mc "Wow, that's pretty cool."
-    mc "Wow, that's pretty cool."
+    mc "哇，听上去很酷啊。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:149
 translate chinese sm1cs_tl002_f1707db2:
 
     # mc "You know... That gives me an idea..."
-    mc "You know... That gives me an idea..."
+    mc "你知道…… 这让我有了个主意..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:151
 translate chinese sm1cs_tl002_f62dd3c1:
 
     # tl "Yeah?"
-    tl "Yeah?"
+    tl "哦？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:153
 translate chinese sm1cs_tl002_7406e43d:
 
     # mc "Yeah... What if our movie was about a racer?"
-    mc "Yeah... What if our movie was about a racer?"
+    mc "嗯…… 要是我们的电影设定为一个赛车手，怎么样？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:156
 translate chinese sm1cs_tl002_5a402f79:
 
     # tl "Oh?"
-    tl "Oh?"
+    tl "哦？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:158
 translate chinese sm1cs_tl002_42bac3fb:
 
     # mc "Yeah. You can be some racecar chick at the track, and-"
-    mc "Yeah. You can be some racecar chick at the track, and-"
+    mc "对呀。你可以扮演赛道上的某个赛车女郎，然后--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:159
 translate chinese sm1cs_tl002_1ec9987f:
 
     # tl "Track?"
-    tl "Track?"
+    tl "赛道？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:160
 translate chinese sm1cs_tl002_45045b6b:
 
     # mc "Uh huh, like, uhm... The cars that go in the circle?"
-    mc "Uh huh, like, uhm... The cars that go in the circle?"
+    mc "是啊，就像，呃…… 那种在环形赛道上跑的车？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:162
 translate chinese sm1cs_tl002_3453c172:
 
     # tl "No."
-    tl "No."
+    tl "不要。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:165
 translate chinese sm1cs_tl002_9c3c517c:
 
     # mc "What do you mean, I thought you liked cars and racers and stuff?"
-    mc "What do you mean, I thought you liked cars and racers and stuff?"
+    mc "怎么个意思，我还以为你喜欢汽车和赛车手之类的呢？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:168
 translate chinese sm1cs_tl002_c63d0ee5:
 
     # tl "{i}Street{/i} racers. Not that lame-o track shit."
-    tl "{i}Street{/i} racers. Not that lame-o track shit."
+    tl "{i}街头{/i}赛车手。可不是那种老土的赛道赛车。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:169
 translate chinese sm1cs_tl002_44cc7630:
 
     # tl "The movie can be about a street racer."
-    tl "The movie can be about a street racer."
+    tl "电影设定为一个街头赛车手还差不多。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:171
 translate chinese sm1cs_tl002_46c90c49:
 
     # mc "Hey, that's cool with me."
-    mc "Hey, that's cool with me."
+    mc "嘿，我觉得这不错。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:176
 translate chinese sm1cs_tl002_4cb02809:
 
     # tl "Good. Look at that, a productive work trip."
-    tl "Good. Look at that, a productive work trip."
+    tl "很好。瞧瞧，这趟工作之旅还挺有成果的。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:178
 translate chinese sm1cs_tl002_6dd27602:
 
     # mc "Yeah... Okay, so a movie about a street racer, and... I don't know. I'll have to go home and work on a script, and getting a location figured out..."
-    mc "Yeah... Okay, so a movie about a street racer, and... I don't know. I'll have to go home and work on a script, and getting a location figured out..."
+    mc "是啊…… 好吧，所以电影设定为一个街头赛车手，然后…… 我不知道。我得回家去写个剧本，再找个拍摄场地..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:179
 translate chinese sm1cs_tl002_208a7153:
 
     # mc "I don't know if this is a job for Kanya... I don't think we'll make a lot on this one..."
-    mc "I don't know if this is a job for Kanya... I don't think we'll make a lot on this one..."
+    mc "我不知道这事儿让康雅来做合不合适…… 我觉得这部电影我们赚不了多少钱..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:182
 translate chinese sm1cs_tl002_3bd90a01:
 
     # tl "Hey, [mcname]?"
-    tl "Hey, [mcname]?"
+    tl "嘿，[mcname]？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:184
 translate chinese sm1cs_tl002_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "怎么了？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:185
 translate chinese sm1cs_tl002_2d7a3e04:
 
     # tl "For this movie, I'm going to need an outfit, right?"
-    tl "For this movie, I'm going to need an outfit, right?"
+    tl "拍这部电影的话，我需要一套服装，对吧？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:186
 translate chinese sm1cs_tl002_7414084e:
 
     # mc "I mean, yeah?"
-    mc "I mean, yeah?"
+    mc "呃，是的吧？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:189
 translate chinese sm1cs_tl002_0b0e8daa:
 
     # tl "I think I found the perfect one."
-    tl "I think I found the perfect one."
+    tl "我觉得我找到了最佳造型。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:192
 translate chinese sm1cs_tl002_65534fec:
 
     # mc "Holy shit."
-    mc "Holy shit."
+    mc "我的天呐。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:194
 translate chinese sm1cs_tl002_6e57b8be:
 
     # tl "Right? I would look super hot in that."
-    tl "Right? I would look super hot in that."
+    tl "对吧？我穿上肯定超级性感。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:197
 translate chinese sm1cs_tl002_8f41f84b:
 
     # mc "Hell yeah you would. Let's get it."
-    mc "Hell yeah you would. Let's get it."
+    mc "那是肯定的。我们买下来吧。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:199
 translate chinese sm1cs_tl002_2079e6c0:
 
     # tl "Slow down there, tiger. I need to try it on first."
-    tl "Slow down there, tiger. I need to try it on first."
+    tl "别急呀，小老虎。我得先试穿一下。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:202
 translate chinese sm1cs_tl002_a8067dd9:
 
     # tl "Hey, you got a changing room in here?"
-    tl "Hey, you got a changing room in here?"
+    tl "嘿，这儿有试衣间吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:205
 translate chinese sm1cs_tl002_882d9cf9:
 
     # "Worker" "We do! Would you like to try that outfit on?"
-    "Worker" "We do! Would you like to try that outfit on?"
+    "工作人员" "有的！你想试穿那件衣服吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:207
 translate chinese sm1cs_tl002_1088cde2:
 
     # tl "Uh huh."
-    tl "Uh huh."
+    tl "嗯哼。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:208
 translate chinese sm1cs_tl002_1ed5ccc8:
 
     # "Worker" "Right this way."
-    "Worker" "Right this way."
+    "工作人员" "这边请。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:216
 translate chinese sm1cs_tl002_2fa0d64b:
 
     # mc "Everything okay in there?"
-    mc "Everything okay in there?"
+    mc "你在里面还好吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:219
 translate chinese sm1cs_tl002_f0f2b2f5:
 
     # tl "Damn!"
-    tl "Damn!"
+    tl "该死！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:221
 translate chinese sm1cs_tl002_40de551a:
 
     # mc "What!?!"
-    mc "What!?!"
+    mc "怎么了!?!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:225
 translate chinese sm1cs_tl002_45d58bfa:
 
     # mc "Taisia?"
-    mc "Taisia?"
+    mc "泰西娅？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:228
 translate chinese sm1cs_tl002_efab7677:
 
     # tl "Sorry. I just look {i}fucking good{/i} in this."
-    tl "Sorry. I just look {i}fucking good{/i} in this."
+    tl "抱歉。我穿上这衣服简直{i}太他妈的{/i}好看了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:231
 translate chinese sm1cs_tl002_39e878e1:
 
     # mc "Jesus, you had me wor-"
-    mc "Jesus, you had me wor-"
+    mc "老天，你吓我一跳--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:233
 translate chinese sm1cs_tl002_2b35b6fe:
@@ -512,157 +512,157 @@ translate chinese sm1cs_tl002_2b35b6fe:
 translate chinese sm1cs_tl002_ef19b81d:
 
     # tl "Yeah? Your brain short circuit?"
-    tl "Yeah? Your brain short circuit?"
+    tl "怎么？你大脑短路了？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:239
 translate chinese sm1cs_tl002_c1e7f53c:
 
     # mc "Damn."
-    mc "Damn."
+    mc "我靠。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:241
 translate chinese sm1cs_tl002_b801b721:
 
     # tl "Exactly."
-    tl "Exactly."
+    tl "就是嘛。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:249
 translate chinese sm1cs_tl002_62376bd4:
 
     # tl "How does my ass look though?"
-    tl "How does my ass look though?"
+    tl "你觉得我这屁股看起来怎么样？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:252
 translate chinese sm1cs_tl002_c1e7f53c_1:
 
     # mc "Damn."
-    mc "Damn."
+    mc "操。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:253
 translate chinese sm1cs_tl002_cf88d197:
 
     # tl "Good."
-    tl "Good."
+    tl "很好。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:258
 translate chinese sm1cs_tl002_ef4ee3c6:
 
     # tl "Can you just imagine..."
-    tl "Can you just imagine..."
+    tl "你可以想象一下..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:262
 translate chinese sm1cs_tl002_c27f33c0:
 
     # tl "Me..."
-    tl "Me..."
+    tl "我..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:266
 translate chinese sm1cs_tl002_78fb6103:
 
     # tl "Getting out of a sexy car in this..."
-    tl "Getting out of a sexy car in this..."
+    tl "穿着这身，从一辆超性感的车里下来..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:270
 translate chinese sm1cs_tl002_751e3ef4:
 
     # tl "What do you think of that?"
-    tl "What do you think of that?"
+    tl "你觉得怎么样？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:273
 translate chinese sm1cs_tl002_d9d300ad:
 
     # mc "Damn..."
-    mc "Damn..."
+    mc "该死..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:275
 translate chinese sm1cs_tl002_b86f7667:
 
     # tl "You know any other words?"
-    tl "You know any other words?"
+    tl "你就会说这一个词吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:277
 translate chinese sm1cs_tl002_4180c24a:
 
     # mct "Come on, [mcname]! Show her that you're cool too!"
-    mct "Come on, [mcname]! Show her that you're cool too!"
+    mct "加油啊，[mcname]！让她看看你也很厉害！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:279
 translate chinese sm1cs_tl002_cb723dc7:
 
     # mc "I'd... Let you use my gear shift whenever you wanted."
-    mc "I'd... Let you use my gear shift whenever you wanted."
+    mc "我…… 只要你想，我这儿的变速杆都给你用。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:282
 translate chinese sm1cs_tl002_6f5d4463:
 
     # tl "Not bad. You're starting to catch on."
-    tl "Not bad. You're starting to catch on."
+    tl "还不错嘛。你开始开窍了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:283
 translate chinese sm1cs_tl002_255af707:
 
     # tl "You want to race for my tight, wet, little pink... Slip?"
-    tl "You want to race for my tight, wet, little pink... Slip?"
+    tl "你想为了我这紧致、湿润、粉嫩的…… 小玩意儿比赛吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:287
 translate chinese sm1cs_tl002_596784ab:
 
     # mc "*Gulp*"
-    mc "*Gulp*"
+    mc "*吞口水*"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:291
 translate chinese sm1cs_tl002_9db79c19:
 
     # tl "I promise, I'll go real... Real... Slow..."
-    tl "I promise, I'll go real... Real... Slow..."
+    tl "我保证，我会…… 慢慢来...慢慢地..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:292
 translate chinese sm1cs_tl002_43187d71:
 
     # tl "Unless you think you can handle me in 5th gear."
-    tl "Unless you think you can handle me in 5th gear."
+    tl "除非你觉得你能驾驭我这五档的速度。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:295
 translate chinese sm1cs_tl002_58b58807:
 
     # mc "Oh, I think I can even get you into 6th."
-    mc "Oh, I think I can even get you into 6th."
+    mc "哦，我觉得我甚至能让你上到六档呢。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:303
 translate chinese sm1cs_tl002_worker_88ebbf02:
 
     # tl "Well-"
-    tl "Well-"
+    tl "嗯--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:309
 translate chinese sm1cs_tl002_worker_63882ad0:
 
     # "Worker" "Hey! You can't do that in here! At least, not until you've paid for the outfit!"
-    "Worker" "Hey! You can't do that in here! At least, not until you've paid for the outfit!"
+    "工作人员" "嘿！你们在这儿可不能这样！至少，在你们买下这套衣服之前都不行！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:311
 translate chinese sm1cs_tl002_worker_9d2f0b59:
 
     # tl "Don't worry, we'll take it.{w} Among a few other things. Right, [mcname]?"
-    tl "Don't worry, we'll take it.{w} Among a few other things. Right, [mcname]?"
+    tl "别担心，我们会买的。{w}还有其他一些东西也会买。对吧，[mcname]？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:315
 translate chinese sm1cs_tl002_worker_ea6e3bd1:
 
     # mc "Yes. Definitely getting the outfit."
-    mc "Yes. Definitely getting the outfit."
+    mc "对。这套衣服肯定要买下来。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:317
 translate chinese sm1cs_tl002_worker_ea29e112:
 
     # tl "Let me change and I'll bring it up front."
-    tl "Let me change and I'll bring it up front."
+    tl "我去换下来，然后拿到前台去。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:321
 translate chinese sm1cs_tl002_worker_0bb41cea:
 
     # "Worker" "Okay, that's going to be $50."
-    "Worker" "Okay, that's going to be $50."
+    "Worker" "好的，一共50美元。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:324
 translate chinese sm1cs_tl002_worker_9c5de379:
@@ -674,145 +674,145 @@ translate chinese sm1cs_tl002_worker_9c5de379:
 translate chinese sm1cs_tl002_worker_c3f89c23:
 
     # mc "Oh, yeah. Here you go!"
-    mc "Oh, yeah. Here you go!"
+    mc "哦，好。给你！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:332
 translate chinese sm1cs_tl002_worker_b415620e:
 
     # "Worker" "Great! Let me get this wrapped up for you."
-    "Worker" "Great! Let me get this wrapped up for you."
+    "工作人员" "太棒了！我给你包起来。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:337
 translate chinese sm1cs_tl002_worker_e8e463fe:
 
     # tl "Looks like we're doing it."
-    tl "Looks like we're doing it."
+    tl "看来我们真的要开始干啦。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:340
 translate chinese sm1cs_tl002_worker_856843b1:
 
     # mc "Did you ever doubt it?"
-    mc "Did you ever doubt it?"
+    mc "你之前还怀疑过吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:341
 translate chinese sm1cs_tl002_worker_c39e1741:
 
     # tl "Well..."
-    tl "Well..."
+    tl "呃..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:345
 translate chinese sm1cs_tl002_worker_4f46bebc:
 
     # tl "Thanks for the follow through, [mcname]."
-    tl "Thanks for the follow through, [mcname]."
+    tl "谢谢你坚持做这件事，[mcname]。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:346
 translate chinese sm1cs_tl002_worker_db6bc240:
 
     # tl "But I'll catch you later. I have a few things I need to take care of today. See ya'."
-    tl "But I'll catch you later. I have a few things I need to take care of today. See ya'."
+    tl "那回头见啦。我今天还有些事儿要处理。再见。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:349
 translate chinese sm1cs_tl002_worker_0419d335:
 
     # mc "Later."
-    mc "Later."
+    mc "回头见。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:365
 translate chinese sm1cs_tl002_worker_9de07441:
 
     # mc "Stacy!"
-    mc "Stacy!"
+    mc "史黛西！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:368
 translate chinese sm1cs_tl002_worker_de0ecb93:
 
     # sy "Yeah?"
-    sy "Yeah?"
+    sy "怎么了？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:371
 translate chinese sm1cs_tl002_worker_694cba8f:
 
     # mc "I've had a stroke of genius!"
-    mc "I've had a stroke of genius!"
+    mc "我突然灵光一闪！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:374
 translate chinese sm1cs_tl002_worker_f99e5998:
 
     # sy "Quick, lift up your left arm!"
-    sy "Quick, lift up your left arm!"
+    sy "快，把你左臂抬起来！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:378
 translate chinese sm1cs_tl002_worker_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "啊？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:381
 translate chinese sm1cs_tl002_worker_bb590141:
 
     # sy "I'm assuming that you're having just a regular stroke and it scrambled your brain."
-    sy "I'm assuming that you're having just a regular stroke and it scrambled your brain."
+    sy "我猜你刚刚是脑子突然短路了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:385
 translate chinese sm1cs_tl002_worker_a3e2bc78:
 
     # mc "What! No! I'm being serious. I think I figured out what to do for Taisia's movie!"
-    mc "What! No! I'm being serious. I think I figured out what to do for Taisia's movie!"
+    mc "什么啊！才没有！我是认真的。我觉得我知道给泰西娅拍的电影要怎么做了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:388
 translate chinese sm1cs_tl002_worker_5ef431f8:
 
     # sy "Yeah? And what's that, Mr. Spielberg?"
-    sy "Yeah? And what's that, Mr. Spielberg?"
+    sy "哦？那你有什么想法，大导演斯皮尔伯格先生？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:391
 translate chinese sm1cs_tl002_worker_33660947:
 
     # mc "Can you rent 'Speed and Fury'?"
-    mc "Can you rent 'Speed and Fury'?"
+    mc "你能租到《速度与激情》吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:395
 translate chinese sm1cs_tl002_worker_a50bf924:
 
     # sy "That shitty car movie? Uhm, sure."
-    sy "That shitty car movie? Uhm, sure."
+    sy "那部烂汽车电影？呃，当然可以。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:396
 translate chinese sm1cs_tl002_worker_cd97709a:
 
     # sy "It's ready."
-    sy "It's ready."
+    sy "租好了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:398
 translate chinese sm1cs_tl002_worker_2f521110:
 
     # mc "Alright, let's give it a spin."
-    mc "Alright, let's give it a spin."
+    mc "好嘞，我们看看吧。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:402
 translate chinese sm1cs_tl002_worker_f43d39d4:
 
     # mct "Okay. I can see why Stacy thinks it's a little shitty."
-    mct "Okay. I can see why Stacy thinks it's a little shitty."
+    mct "好吧。我明白史黛西为什么觉得这电影有点烂了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:409
 translate chinese sm1cs_tl002_worker_941b4a9f:
 
     # mc "Alright, so now that we know what the movie is like, we need to figure out how to make our own version."
-    mc "Alright, so now that we know what the movie is like, we need to figure out how to make our own version."
+    mc "好吧，既然我们知道那部电影是什么样的了，我们得想想怎么拍出我们自己的版本"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:411
 translate chinese sm1cs_tl002_worker_839359e9:
 
     # sy "Yup. Our sexier, much better version."
-    sy "Yup. Our sexier, much better version."
+    sy "没错。我们要拍出更性感、更优秀的版本。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:416
 translate chinese sm1cs_tl002_worker_d07eae8f:
 
     # sy "The script is taking shape. Let's practice some of these positions and get a feel for it."
-    sy "The script is taking shape. Let's practice some of these positions and get a feel for it."
+    sy "剧本也有点头绪了。我们练习一下里面的一些姿势，找找感觉吧。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:418
 translate chinese sm1cs_tl002_worker_fafbfb54:
