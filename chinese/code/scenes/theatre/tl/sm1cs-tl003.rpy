@@ -116,7 +116,7 @@ translate chinese sm1cs_tl003_418dc1d1:
 translate chinese sm1cs_tl003_2a98e323:
 
     # tl "Yeah, but like... An {i}cool{/i} car."
-    tl "是没错，但是…… 得是一辆{i}酷炫{/i}的车才行。"
+    tl "是没错，但是...得是一辆{i}酷炫{/i}的车才行。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:97
 translate chinese sm1cs_tl003_6e81da53:
@@ -134,7 +134,7 @@ translate chinese sm1cs_tl003_9b4872fe:
 translate chinese sm1cs_tl003_c4ae27d8:
 
     # tl "Fix it in... What?"
-    tl "后期处理…… 什么？"
+    tl "后期处理...什么？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:103
 translate chinese sm1cs_tl003_bdbe4519:
@@ -158,7 +158,7 @@ translate chinese sm1cs_tl003_8dd0fd7f:
 translate chinese sm1cs_tl003_a83389ed:
 
     # tl "No... This just... Kind of sucks."
-    tl "不…… 这真的…… 有点烂。"
+    tl "不...这真的...有点烂。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:114
 translate chinese sm1cs_tl003_56d3ff98:
@@ -182,13 +182,13 @@ translate chinese sm1cs_tl003_36c4057d:
 translate chinese sm1cs_tl003_773b2119:
 
     # tl "Yeah, uhh... Sorry?"
-    tl "是没错，呃…… 抱歉？"
+    tl "是没错，呃...抱歉？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:123
 translate chinese sm1cs_tl003_aff4c6c8:
 
     # mc "It might be... Less than ideal, but it's what we've got."
-    mc "这可能…… 不太理想，但这是目前我们仅能提供的条件了。"
+    mc "这可能...不太理想，但这是目前我们仅能提供的条件了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:124
 translate chinese sm1cs_tl003_472a31bd:
@@ -200,7 +200,7 @@ translate chinese sm1cs_tl003_472a31bd:
 translate chinese sm1cs_tl003_e3a58c6e:
 
     # tl "I mean... I might have one."
-    tl "说实话…… 我可能真有个主意。"
+    tl "说实话...我可能真有个主意。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:129
 translate chinese sm1cs_tl003_def0ad19:
@@ -662,7 +662,7 @@ translate chinese sm1cs_tl003_in_street_60b449c7:
 translate chinese sm1cs_tl003_in_street_6fafce0f:
 
     # mc "Because... I see what you do for your family. And I can respect that."
-    mc "因为…… 我看到了你为家人所做的一切。我很敬佩。"
+    mc "因为...我看到了你为家人所做的一切。我很敬佩。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:355
 translate chinese sm1cs_tl003_in_street_ece63635:
@@ -1214,7 +1214,7 @@ translate chinese sm1cs_tl003_sex_2af9a42d:
 translate chinese sm1cs_tl003_sex_end_3aca2b0d:
 
     # sy "Aaaaaand cut...{w} Holy shit that was hot."
-    sy "好…… 停…… {w}我的天，那可真够劲爆的。"
+    sy "好...停...{w}我的天，那可真够劲爆的。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:599
 translate chinese sm1cs_tl003_sex_end_9adb5b1c:
@@ -1244,13 +1244,13 @@ translate chinese sm1cs_tl003_sex_end_25069130:
 translate chinese sm1cs_tl003_sex_end_7af68a21:
 
     # sy "I'm just mad I had to be on camera duty... That looked like so much fun."
-    sy "气人的是我得负责摄像…… 明明看起来超好玩。"
+    sy "气人的是我得负责摄像...明明看起来超好玩。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:611
 translate chinese sm1cs_tl003_sex_end_ff9c0713:
 
     # tl "Maybe... Next time..."
-    tl "也许…… 下次..."
+    tl "也许...下次..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:614
 translate chinese sm1cs_tl003_sex_end_6e29cd8e:
@@ -1346,81 +1346,81 @@ translate chinese sm1cs_tl003_sex_end_2306b455:
 translate chinese sm1cs_tl003_sex_end_739d1bb0:
 
     # tl "Speaking of... I believe I'm owed some compensation?"
-    tl "Speaking of... I believe I'm owed some compensation?"
+    tl "说到这个...我的报酬该结了吧？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:730
 translate chinese sm1cs_tl003_sex_end_0e5a457d:
 
     # mc "Oh shit, yeah."
-    mc "Oh shit, yeah."
+    mc "卧槽，对哦。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:734
 translate chinese sm1cs_tl003_sex_end_209631b2:
 
     # mc "And... Here you go!"
-    mc "And... Here you go!"
+    mc "给...你的酬劳！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:741
 translate chinese sm1cs_tl003_sex_end_a6f1213e:
 
     # tl "Man... This was a lot of fun."
-    tl "Man... This was a lot of fun."
+    tl "哈...真带劲。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:743
 translate chinese sm1cs_tl003_sex_end_fcf340b6:
 
     # mc "I agree."
-    mc "I agree."
+    mc "同感。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:745
 translate chinese sm1cs_tl003_sex_end_10b8073b:
 
     # sy "Me too!"
-    sy "Me too!"
+    sy "我也是！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:746
 translate chinese sm1cs_tl003_sex_end_b4565abe:
 
     # tl "We should definitely do it again, right?"
-    tl "We should definitely do it again, right?"
+    tl "我们肯定得再拍一次，对吧？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:747
 translate chinese sm1cs_tl003_sex_end_ac2bf2bb:
 
     # sy "Absolutely. Next time I'll ask you about a car before I call everyone I know."
-    sy "Absolutely. Next time I'll ask you about a car before I call everyone I know."
+    sy "那当然。下回我会先向你问清楚车子的事再摇人。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:751
 translate chinese sm1cs_tl003_sex_end_c4b98384:
 
     # tl "Well, I'm going to take off. I can feel [mcname]'s cum getting sticky on my leg."
-    tl "Well, I'm going to take off. I can feel [mcname]'s cum getting sticky on my leg."
+    tl "好吧，我得走了。我都感觉[mcname]的精液在我腿上变黏了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:753
 translate chinese sm1cs_tl003_sex_end_8d3bf09b:
 
     # mc "We'll let you know when we release the video!"
-    mc "We'll let you know when we release the video!"
+    mc "等我们把视频发出去会告诉你的！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:755
 translate chinese sm1cs_tl003_sex_end_11f99e7f:
 
     # tl "Awesome! I'll see you two later."
-    tl "Awesome! I'll see you two later."
+    tl "酷！回头见二位。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:757
 translate chinese sm1cs_tl003_sex_end_1ed8f75c:
 
     # sy "See ya', Taisia!"
-    sy "See ya', Taisia!"
+    sy "拜拜，泰西娅！"
 
 translate chinese strings:
 
     # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:735
     old "Taisia's compansation"
-    new "Taisia's compansation"
+    new "泰西娅的报酬"
 
     # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:735
     old "You gave $100 to Taisia for the shoot"
-    new "You gave $100 to Taisia for the shoot"
+    new "你支付了100美元片酬给泰西娅"
 
