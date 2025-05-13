@@ -302,7 +302,7 @@ translate chinese sm1cs_tl002_14a9a662:
 translate chinese sm1cs_tl002_f1707db2:
 
     # mc "You know... That gives me an idea..."
-    mc "你知道…… 这让我有了个主意..."
+    mc "你知道...这让我有了个主意..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:151
 translate chinese sm1cs_tl002_f62dd3c1:
@@ -314,7 +314,7 @@ translate chinese sm1cs_tl002_f62dd3c1:
 translate chinese sm1cs_tl002_7406e43d:
 
     # mc "Yeah... What if our movie was about a racer?"
-    mc "嗯…… 要是我们的电影设定为一个赛车手，怎么样？"
+    mc "嗯...要是我们的电影设定为一个赛车手，怎么样？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:156
 translate chinese sm1cs_tl002_5a402f79:
@@ -338,7 +338,7 @@ translate chinese sm1cs_tl002_1ec9987f:
 translate chinese sm1cs_tl002_45045b6b:
 
     # mc "Uh huh, like, uhm... The cars that go in the circle?"
-    mc "是啊，就像，呃…… 那种在环形赛道上跑的车？"
+    mc "是啊，就像，呃...那种在环形赛道上跑的车？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:162
 translate chinese sm1cs_tl002_3453c172:
@@ -380,13 +380,13 @@ translate chinese sm1cs_tl002_4cb02809:
 translate chinese sm1cs_tl002_6dd27602:
 
     # mc "Yeah... Okay, so a movie about a street racer, and... I don't know. I'll have to go home and work on a script, and getting a location figured out..."
-    mc "是啊…… 好吧，所以电影设定为一个街头赛车手，然后…… 我不知道。我得回家去写个剧本，再找个拍摄场地..."
+    mc "是啊...好吧，所以电影设定为一个街头赛车手，然后...我不知道。我得回家去写个剧本，再找个拍摄场地..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:179
 translate chinese sm1cs_tl002_208a7153:
 
     # mc "I don't know if this is a job for Kanya... I don't think we'll make a lot on this one..."
-    mc "我不知道这事儿让康雅来做合不合适…… 我觉得这部电影我们赚不了多少钱..."
+    mc "我不知道这事儿让康雅来做合不合适...我觉得这部电影我们赚不了多少钱..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:182
 translate chinese sm1cs_tl002_3bd90a01:
@@ -590,7 +590,7 @@ translate chinese sm1cs_tl002_4180c24a:
 translate chinese sm1cs_tl002_cb723dc7:
 
     # mc "I'd... Let you use my gear shift whenever you wanted."
-    mc "我…… 只要你想，我这儿的变速杆都给你用。"
+    mc "我...只要你想，我这儿的变速杆都给你用。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:282
 translate chinese sm1cs_tl002_6f5d4463:
@@ -602,7 +602,7 @@ translate chinese sm1cs_tl002_6f5d4463:
 translate chinese sm1cs_tl002_255af707:
 
     # tl "You want to race for my tight, wet, little pink... Slip?"
-    tl "你想为了我这紧致、湿润、粉嫩的…… 小玩意儿比赛吗？"
+    tl "你想为了我这紧致、湿润、粉嫩的...小玩意儿比赛吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:287
 translate chinese sm1cs_tl002_596784ab:
@@ -614,7 +614,7 @@ translate chinese sm1cs_tl002_596784ab:
 translate chinese sm1cs_tl002_9db79c19:
 
     # tl "I promise, I'll go real... Real... Slow..."
-    tl "我保证，我会…… 慢慢来...慢慢地..."
+    tl "我保证，我会...慢慢来...慢慢地..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:292
 translate chinese sm1cs_tl002_43187d71:
@@ -818,63 +818,63 @@ translate chinese sm1cs_tl002_worker_d07eae8f:
 translate chinese sm1cs_tl002_worker_fafbfb54:
 
     # mc "Good thinking."
-    mc "Good thinking."
+    mc "好主意。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:457
 translate chinese sm1cs_tl002_worker_204f04ea:
 
     # sy "The end..."
-    sy "The end..."
+    sy "就这样..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:459
 translate chinese sm1cs_tl002_worker_3f658580:
 
     # mc "It's perfect."
-    mc "It's perfect."
+    mc "太完美了。"
 
-# game/code/scenes/theatre/tl/sm1cs-tl002.rpy:462
+# game/code/scenes/thIt's perfect.eatre/tl/sm1cs-tl002.rpy:462
 translate chinese sm1cs_tl002_worker_50e2b9fd:
 
     # sy "I mean, maybe not {i}perfect{/i}...{w}But it's pretty good."
-    sy "I mean, maybe not {i}perfect{/i}...{w}But it's pretty good."
+    sy "其实也不算{i}完美{/i}啦...{w}不过还不错。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:463
 translate chinese sm1cs_tl002_worker_db277fd2:
 
     # sy "I need to flesh out a few more details, and starting sourcing some of the things to shoot, but I have a good feeling about this."
-    sy "I need to flesh out a few more details, and starting sourcing some of the things to shoot, but I have a good feeling about this."
+    sy "我还得再完善些细节，再着手找些拍摄要用的东西，但我这次感觉还不错。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:466
 translate chinese sm1cs_tl002_worker_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "我也是。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:469
 translate chinese sm1cs_tl002_worker_f2bee2a6:
 
     # sy "I'll get started. You go keep our actress happy, and I'll let you know when I'm ready to film."
-    sy "I'll get started. You go keep our actress happy, and I'll let you know when I'm ready to film."
+    sy "我要开工了。你去哄好咱们的女演员，等我准备好开拍就叫你。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:472
 translate chinese sm1cs_tl002_worker_a0062620:
 
     # mc "You're the best, Stacy."
-    mc "You're the best, Stacy."
+    mc "你最棒了，史黛西。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:476
 translate chinese sm1cs_tl002_worker_9232cdae:
 
     # sy "I know."
-    sy "I know."
+    sy "我知道。"
 
 translate chinese strings:
 
     # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:329
     old "Sexy outfit for Taisia"
-    new "Sexy outfit for Taisia"
+    new "为泰西娅购置性感服装"
 
     # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:329
     old "You spent $50 on a sexy outfit for Taisia"
-    new "You spent $50 on a sexy outfit for Taisia"
+    new "你花费50美元为泰西娅购买了一套性感服装"
 
