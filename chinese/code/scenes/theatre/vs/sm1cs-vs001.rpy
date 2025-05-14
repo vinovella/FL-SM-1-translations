@@ -56,7 +56,7 @@ translate chinese sm1cs_vs001_bec2ba77:
 translate chinese sm1cs_vs001_1556b0a8:
 
     # vs "Nrrrh... Yeah. She's the one who gave you a chance, silly."
-    vs "呃…… 对。她就是给了你机会的那个人啊，傻瓜。"
+    vs "呃...对。她就是给了你机会的那个人啊，傻瓜。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:51
 translate chinese sm1cs_vs001_f99a4450:
@@ -200,7 +200,7 @@ translate chinese sm1cs_vs001_e13d0981:
 translate chinese sm1cs_vs001_141d5cfe:
 
     # mc "Um... why did you bring me over here?"
-    mc "嗯…… 你为什么带我来这儿？"
+    mc "嗯...你为什么带我来这儿？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:136
 translate chinese sm1cs_vs001_cbec9117:
@@ -500,7 +500,7 @@ translate chinese sm1cs_vs001_3ecaa29e:
 translate chinese sm1cs_vs001_da224165:
 
     # vs "And if you ever need to talk about Lydia or whatever... feel free."
-    vs "要是你想聊聊莉迪亚或者别的什么…… 随时找我。"
+    vs "要是你想聊聊莉迪亚或者别的什么...随时找我。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:264
 translate chinese sm1cs_vs001_ded64090:
