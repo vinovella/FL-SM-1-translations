@@ -290,247 +290,247 @@ translate chinese sm1cs_vs001_8818715f:
 translate chinese sm1cs_vs001_140bb3a6:
 
     # mc "Why do you say that?"
-    mc "Why do you say that?"
+    mc "为什么这么说？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:179
 translate chinese sm1cs_vs001_0915374d:
 
     # vs "Well, I can just imagine how that felt..."
-    vs "Well, I can just imagine how that felt..."
+    vs "嗯，我能想象那是什么感觉..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:180
 translate chinese sm1cs_vs001_9ccbe19c:
 
     # vs "The woman who was the apple of your eye turned out to be a snake whispering poison in your ears."
-    vs "The woman who was the apple of your eye turned out to be a snake whispering poison in your ears."
+    vs "那个曾是你眼中珍宝的女人，结果像条毒蛇一样在你耳边说些伤人的话。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:181
 translate chinese sm1cs_vs001_fc4bec49:
 
     # vs "You are so{w} lucky."
-    vs "You are so{w} lucky."
+    vs "你真是{w}太幸运了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:186
 translate chinese sm1cs_vs001_47bca6f2:
 
     # mc "Veronica, just stop. You don't know what you're talking about."
-    mc "Veronica, just stop. You don't know what you're talking about."
+    mc "维罗妮卡，别说了。你根本不知道你在说什么。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:189
 translate chinese sm1cs_vs001_2bf45ce4:
 
     # vs "Oh. I'm... I'm sorry, [mcname]."
-    vs "Oh. I'm... I'm sorry, [mcname]."
+    vs "对不起...[mcname]。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:190
 translate chinese sm1cs_vs001_69da281a:
 
     # vs "Hearing about the story, it got me so excited."
-    vs "Hearing about the story, it got me so excited."
+    vs "听到这个故事，我太激动了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:191
 translate chinese sm1cs_vs001_352f3f19:
 
     # vs "I mean what else has ever happened in this town that even comes close to the Fetish Locator Story."
-    vs "I mean what else has ever happened in this town that even comes close to the Fetish Locator Story."
+    vs "我是说，在这个小镇上，哪发生过比性趣探测器更刺激的事呢。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:192
 translate chinese sm1cs_vs001_df953b2e:
 
     # vs "But it was-"
-    vs "But it was-"
+    vs "但这毕竟是--"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:195
 translate chinese sm1cs_vs001_c3e75512:
 
     # mc "-my life"
-    mc "-my life"
+    mc "--是我的生活。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:198
 translate chinese sm1cs_vs001_629bb7f4:
 
     # vs "Big yikes."
-    vs "Big yikes."
+    vs "超级尴尬。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:201
 translate chinese sm1cs_vs001_bf012f78:
 
     # mc "Don't worry about it, Veronica. It's strange, but it's almost nice to talk to someone about it."
-    mc "Don't worry about it, Veronica. It's strange, but it's almost nice to talk to someone about it."
+    mc "没关系。说来也奇怪，能和人聊聊这件事，反而舒服些。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:202
 translate chinese sm1cs_vs001_eec2bcc0:
 
     # mc "But maybe we can talk more about it when we've gotten to know each other better."
-    mc "But maybe we can talk more about it when we've gotten to know each other better."
+    mc "不过也许等我们更了解彼此之后，我们可以再多聊聊这个。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:205
 translate chinese sm1cs_vs001_ac99e479:
 
     # vs "Oh, of course. Absolutely. Thanks for being cool about it. Sometimes I just get carried away."
-    vs "Oh, of course. Absolutely. Thanks for being cool about it. Sometimes I just get carried away."
+    vs "哦，当然。没问题。谢谢你这么通情达理，有时候我就是有点激动过头了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:208
 translate chinese sm1cs_vs001_9de865a1:
 
     # mc "I can see why you're the lead. No one else has your passion."
-    mc "I can see why you're the lead. No one else has your passion."
+    mc "我明白你为什么能当主演了。没人能像你这么有激情。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:211
 translate chinese sm1cs_vs001_50ea6126:
 
     # vs "Hehe. Picked up on that, did you?"
-    vs "Hehe. Picked up on that, did you?"
+    vs "呵呵。你注意到了，是吧？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:212
 translate chinese sm1cs_vs001_55e3292d:
 
     # vs "Well, if there is something I'll never apologize for, it is my energy."
-    vs "Well, if there is something I'll never apologize for, it is my energy."
+    vs "有件事我绝不道歉，那就是我的活力四射。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:213
 translate chinese sm1cs_vs001_138e3534:
 
     # vs "I love putting it to good use in a show."
-    vs "I love putting it to good use in a show."
+    vs "我喜欢在演出中好好释放我的热情。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:214
 translate chinese sm1cs_vs001_7907039e:
 
     # vs "Every play lets you become someone new, go somewhere exotic, learn something about ourselves that we never expected."
-    vs "Every play lets you become someone new, go somewhere exotic, learn something about ourselves that we never expected."
+    vs "每一场戏都能让你体验新的人生，去到一个充满异国情调的地方，发现意想不到的自我。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:215
 translate chinese sm1cs_vs001_fe83732e:
 
     # vs "You'll understand once you're on stage with us."
-    vs "You'll understand once you're on stage with us."
+    vs "等你和我们一起上台之后就会明白了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:221
 translate chinese sm1cs_vs001_5d3d609b:
 
     # mc "I'm so... lucky?"
-    mc "I'm so... lucky?"
+    mc "我真是...幸运？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:224
 translate chinese sm1cs_vs001_68d75a86:
 
     # vs "Totally! You've experienced the pain of actual, {b}real{/b}, betrayal. So few actors have experienced the kind of situations they take on."
-    vs "Totally! You've experienced the pain of actual, {b}real{/b}, betrayal. So few actors have experienced the kind of situations they take on."
+    vs "那当然！你经历了{b}真正意义上{/b}的背叛之痛。很少有演员能体会自己演绎的角色的处境。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:225
 translate chinese sm1cs_vs001_9bd54f57:
 
     # vs "Your life could have turned into a real-world tragedy, and now you will carry that weight with you forever."
-    vs "Your life could have turned into a real-world tragedy, and now you will carry that weight with you forever."
+    vs "你的生活本可能变成一场现实中的悲剧，而现在你要永远背负着这份伤痛。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:228
 translate chinese sm1cs_vs001_2074a5c7:
 
     # mc "Guess I've been stress-eating more than before."
-    mc "Guess I've been stress-eating more than before."
+    mc "那怪不得我最近压力大，吃的比以前多了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:231
 translate chinese sm1cs_vs001_509e8a68:
 
     # vs "Hehehe. No silly. It's not real weight. You look fine."
-    vs "Hehehe. No silly. It's not real weight. You look fine."
+    vs "噗，不是指体重啦。你身材挺好的。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:232
 translate chinese sm1cs_vs001_c531db63:
 
     # vs "Tall and sturdy and a little handsome."
-    vs "Tall and sturdy and a little handsome."
+    vs "高大结实，还有点小帅。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:233
 translate chinese sm1cs_vs001_5514b42b:
 
     # vs "No, what I mean is that this weight is inside of you."
-    vs "No, what I mean is that this weight is inside of you."
+    vs "我说的是你内心因伤痛而更有重量。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:236
 translate chinese sm1cs_vs001_04ac9c1b:
 
     # vs "And one day when you're on that stage, it's going to come out of you like lightning from a bottle."
-    vs "And one day when you're on that stage, it's going to come out of you like lightning from a bottle."
+    vs "等有一天你站在舞台上，它会像闪电一样迸发出来。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:237
 translate chinese sm1cs_vs001_603aafb5:
 
     # vs "I just know you'll blow the tops off everyone in the audience."
-    vs "I just know you'll blow the tops off everyone in the audience."
+    vs "我打赌你会让所有观众惊叹不已。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:238
 translate chinese sm1cs_vs001_df750a9a:
 
     # vs "The theater has power, [mcname]. And once you're on stage, I think you're going to show people something special."
-    vs "The theater has power, [mcname]. And once you're on stage, I think you're going to show people something special."
+    vs "剧场是有魔力的，[mcname]。等你登台那刻，一定会给大家展现出非凡的东西。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:243
 translate chinese sm1cs_vs001_93a211e1:
 
     # vs "That's still your plan, right? You don't want to stay a stagehand forever, right?"
-    vs "That's still your plan, right? You don't want to stay a stagehand forever, right?"
+    vs "这还是你的目标吧？你不会想一直当舞台工作人员，对吧？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:246
 translate chinese sm1cs_vs001_73d60dca:
 
     # mc "Getting on stage is definitely one of my goals."
-    mc "Getting on stage is definitely one of my goals."
+    mc "上台表演绝对是我的目标之一。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:249
 translate chinese sm1cs_vs001_38e4c4b1:
 
     # vs "Great. Then I'm your girl. If you ever need some pointers or want someone to give you notes on your next interview piece, give me a ring."
-    vs "Great. Then I'm your girl. If you ever need some pointers or want someone to give you notes on your next interview piece, give me a ring."
+    vs "太好了！那以后我就是你的专属顾问。要是你需要一些建议，或者想找个人给你的下一次面试作品提提意见，给我打电话。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:250
 translate chinese sm1cs_vs001_94150bc4:
 
     # vs "Give me your phone."
-    vs "Give me your phone."
+    vs "把你的手机给我。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:257
 translate chinese sm1cs_vs001_3ecaa29e:
 
     # vs "I put myself in as Bubblegum so it's easy to find me."
-    vs "I put myself in as Bubblegum so it's easy to find me."
+    vs "我把自己的联系方式存成‘泡泡糖’了，这样你找我的时候会很容易。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:260
 translate chinese sm1cs_vs001_da224165:
 
     # vs "And if you ever need to talk about Lydia or whatever... feel free."
-    vs "And if you ever need to talk about Lydia or whatever... feel free."
+    vs "要是你想聊聊莉迪亚或者别的什么…… 随时找我。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:264
 translate chinese sm1cs_vs001_ded64090:
 
     # mc "Sure. Maybe one day."
-    mc "Sure. Maybe one day."
+    mc "好。说不定哪天会找你聊。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:267
 translate chinese sm1cs_vs001_9afb2679:
 
     # vs "Great. Well, I should probably get back to practicing with Kellie."
-    vs "Great. Well, I should probably get back to practicing with Kellie."
+    vs "很好。嗯，我可能得回去和凯莉一起练习了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:271
 translate chinese sm1cs_vs001_79f3527d:
 
     # vs "See you next time, [mcname]."
-    vs "See you next time, [mcname]."
+    vs "下次见，[mcname]。"
 
 translate chinese strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:118
     old "Worried"
-    new "Worried"
+    new "忧虑"
 
     # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:182
     old "You don't know what you're talking about"
-    new "You don't know what you're talking about"
+    new "你根本不懂"
 
     # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:182
     old "I'm so lucky?"
-    new "I'm so lucky?"
+    new "看来我很幸运了？"
 
