@@ -2,289 +2,289 @@
 translate chinese sm1cs_vs001_f7f006ae:
 
     # mc "Hey there-"
-    mc "Hey there-"
+    mc "嗨--"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:26
 translate chinese sm1cs_vs001_c9b0ba18:
 
     # mct "Woah. That is some flexibility."
-    mct "Woah. That is some flexibility."
+    mct "哇哦，这柔韧性可真不错。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:29
 translate chinese sm1cs_vs001_32aef527:
 
     # mc "Hey there, Veronica."
-    mc "Hey there, Veronica."
+    mc "嗨，维罗妮卡。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:33
 translate chinese sm1cs_vs001_e6a6b4da:
 
     # vs "Hey, [mcname]. What's new?"
-    vs "Hey, [mcname]. What's new?"
+    vs "嘿[mname]，最近好吗？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:36
 translate chinese sm1cs_vs001_e5cf89cd:
 
     # mc "Not much, still just getting used to navigating this place."
-    mc "Not much, still just getting used to navigating this place."
+    mc "还行，还在熟悉环境。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:39
 translate chinese sm1cs_vs001_22a01072:
 
     # vs "Haha. I'm sure you'll get the hang of it. Just don't take too long."
-    vs "Haha. I'm sure you'll get the hang of it. Just don't take too long."
+    vs "哈哈。很快你就会熟悉的。不过别拖太久哦。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:40
 translate chinese sm1cs_vs001_81c2d8fa:
 
     # vs "You want to impress Denise, right?"
-    vs "You want to impress Denise, right?"
+    vs "你想给丹妮丝留下好印象，对吧？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:43
 translate chinese sm1cs_vs001_959fb56e:
 
     # mc "Denise. Yeah, she's the director, right?"
-    mc "Denise. Yeah, she's the director, right?"
+    mc "丹妮丝。对，她是导演，对吧？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:46
 translate chinese sm1cs_vs001_bec2ba77:
 
     # vs "*giggles*"
-    vs "*giggles*"
+    vs "*嗤笑*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:47
 translate chinese sm1cs_vs001_1556b0a8:
 
     # vs "Nrrrh... Yeah. She's the one who gave you a chance, silly."
-    vs "Nrrrh... Yeah. She's the one who gave you a chance, silly."
+    vs "呃…… 对。她就是给了你机会的那个人啊，傻瓜。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:51
 translate chinese sm1cs_vs001_f99a4450:
 
     # vs "Are my stretches too distracting?"
-    vs "Are my stretches too distracting?"
+    vs "我做拉伸动作是不是太让人分心了？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:53
 translate chinese sm1cs_vs001_6a28d7c1:
 
     # mc "Huh? No, I mean, not at all. I didn't realize the show going on right now was so physical."
-    mc "Huh? No, I mean, not at all. I didn't realize the show going on right now was so physical."
+    mc "啊？没有，完全不会。我只是没想到演出需要这么强的柔韧性。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:56
 translate chinese sm1cs_vs001_ac79cf81:
 
     # vs "This one isn't, but I always try to keep up with my stretches during downtime."
-    vs "This one isn't, but I always try to keep up with my stretches during downtime."
+    vs "这次演出用不着，但我习惯利用空闲时间坚持拉伸。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:57
 translate chinese sm1cs_vs001_89456440:
 
     # vs "Plus I'm going out dancing tonight. Gotta keep things limber."
-    vs "Plus I'm going out dancing tonight. Gotta keep things limber."
+    vs "而且我今晚要去跳舞。得让身体保持灵活。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:61
 translate chinese sm1cs_vs001_4a181df1:
 
     # mc "Yeah limber. Very important."
-    mc "Yeah limber. Very important."
+    mc "对，灵活，灵活很重要。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:66
 translate chinese sm1cs_vs001_e7ff2259:
 
     # mct "Why is she looking at me like that?"
-    mct "Why is she looking at me like that?"
+    mct "她为什么那样看着我？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:68
 translate chinese sm1cs_vs001_191559e1:
 
     # mc "What's up?"
-    mc "What's up?"
+    mc "怎么了？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:74
 translate chinese sm1cs_vs001_898f89dd:
 
     # vs "Well, I was trying to keep it a secret, but I suppose I should tell you."
-    vs "Well, I was trying to keep it a secret, but I suppose I should tell you."
+    vs "嗯，我本来想保密的，不过还是告诉你吧。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:78
 translate chinese sm1cs_vs001_72599e16:
 
     # vs "I know who you are."
-    vs "I know who you are."
+    vs "我知道你是谁。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:81
 translate chinese sm1cs_vs001_84aa4669:
 
     # mc "Uh, I hope so. We talked quite a bit after I screwed up my audition."
-    mc "Uh, I hope so. We talked quite a bit after I screwed up my audition."
+    mc "呃，希望如此？毕竟在我试镜搞砸之后，我们聊了不少呢。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:84
 translate chinese sm1cs_vs001_1fee883d:
 
     # vs "Yeah, but that's not what I'm talking about.{w} I'm talking about how you are the guy who brought down Fetish Locator."
-    vs "Yeah, but that's not what I'm talking about.{w} I'm talking about how you are the guy who brought down Fetish Locator."
+    vs "是呀，但我不是说这个。{w}我是说，搞垮性趣探测器的人就是你。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:85
 translate chinese sm1cs_vs001_7604ba8b:
 
     # vs "At least I'm pretty sure you are. Right?"
-    vs "At least I'm pretty sure you are. Right?"
+    vs "至少我很确定是你。没错吧？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:87
 translate chinese sm1cs_vs001_31926a74:
 
     # mct "Hopefully, no one is paying attention to us."
-    mct "Hopefully, no one is paying attention to us."
+    mct "希望没人注意到我们。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:89
 translate chinese sm1cs_vs001_21d60d8b:
 
     # mc "I am."
-    mc "I am."
+    mc "是我。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:92
 translate chinese sm1cs_vs001_6056ab01:
 
     # vs "I knew it!"
-    vs "I knew it!"
+    vs "我就知道！"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:95
 translate chinese sm1cs_vs001_4654a5a1:
 
     # mc "Easy. It's not like I'm hiding that part of my life, but you never know how some people will react to information like that."
-    mc "Easy. It's not like I'm hiding that part of my life, but you never know how some people will react to information like that."
+    mc "别激动。我又没打算刻意隐瞒我生活中的这件事，但你也知道，有些人听到这种事会有什么反应。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:98
 translate chinese sm1cs_vs001_dd50404a:
 
     # vs "I didn't think about that. That's so true."
-    vs "I didn't think about that. That's so true."
+    vs "这点我倒是没想到。你说得对。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:109
 translate chinese sm1cs_vs001_94ec7e3b:
 
     # vs "Come on, I know the perfect spot backstage."
-    vs "Come on, I know the perfect spot backstage."
+    vs "来吧，我知道后台有个绝佳的地方。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:117
 translate chinese sm1cs_vs001_00ada2bc:
 
     # vs "This more comfortable?"
-    vs "This more comfortable?"
+    vs "这儿更舒服吧？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:123
 translate chinese sm1cs_vs001_4c8dfac2:
 
     # mc "It's great."
-    mc "It's great."
+    mc "很棒。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:124
 translate chinese sm1cs_vs001_15d6b2dd:
 
     # mc "I imagine a smart girl like you could use this place for all sorts of mischief."
-    mc "I imagine a smart girl like you could use this place for all sorts of mischief."
+    mc "我觉得像你这么机灵的姑娘，肯定常在这里搞小动作吧？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:127
 translate chinese sm1cs_vs001_132d4871:
 
     # vs "Hehehe. If these walls could talk."
-    vs "Hehehe. If these walls could talk."
+    vs "嘿嘿。要是这些墙会说话就好了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:128
 translate chinese sm1cs_vs001_e13d0981:
 
     # vs "But I still want to learn more about your story, [mcname]."
-    vs "But I still want to learn more about your story, [mcname]."
+    vs "但我还是想多了解一下你的故事，[mcname]。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:133
 translate chinese sm1cs_vs001_141d5cfe:
 
     # mc "Um... why did you bring me over here?"
-    mc "Um... why did you bring me over here?"
+    mc "嗯…… 你为什么带我来这儿？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:136
 translate chinese sm1cs_vs001_cbec9117:
 
     # vs "I thought it would be better with some privacy. It felt like you were worried other people might hear us."
-    vs "I thought it would be better with some privacy. It felt like you were worried other people might hear us."
+    vs "我觉得在这儿更私密些。感觉你担心别人会听到我们说话。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:139
 translate chinese sm1cs_vs001_2da82f4a:
 
     # mc "Smart. But I'm still worried that {i}you{/i} already know about my past."
-    mc "Smart. But I'm still worried that {i}you{/i} already know about my past."
+    mc "真聪明。但我还是担心{i}你{/i}已经知道了我的过去了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:142
 translate chinese sm1cs_vs001_697d14fc:
 
     # vs "What? You don't have to worry about that with me, [mcname]."
-    vs "What? You don't have to worry about that with me, [mcname]."
+    vs "什么呀，对我完全不用防备，[mcname]。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:143
 translate chinese sm1cs_vs001_45f0a713:
 
     # vs "But I can't resist digging into some hot gossip."
-    vs "But I can't resist digging into some hot gossip."
+    vs "不过我确实是忍不住想听点劲爆的八卦。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:148
 translate chinese sm1cs_vs001_fc873324:
 
     # vs "So is it true? Lydia twisted you around her finger and then shattered your heart into like a million pieces."
-    vs "So is it true? Lydia twisted you around her finger and then shattered your heart into like a million pieces."
+    vs "所以是真的吗？莉迪亚把你玩弄于股掌之间，然后把你的心伤得支离破碎？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:151
 translate chinese sm1cs_vs001_a90e6f6b:
 
     # mc "Twisted me around her finger? Listen, Veronica, this isn't really the-"
-    mc "Twisted me around her finger? Listen, Veronica, this isn't really the-"
+    mc "把我玩弄于股掌之间？听着，维罗妮卡，这可不是--"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:154
 translate chinese sm1cs_vs001_748f6054:
 
     # vs "It's okay. This is a totally safe place, [mcname]. You don't have to say anything."
-    vs "It's okay. This is a totally safe place, [mcname]. You don't have to say anything."
+    vs "没事。这儿很安全，[mcname]，你不想说可以不说。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:157
 translate chinese sm1cs_vs001_0eacc45c:
 
     # mc "What? I don't... how did you figure out it was me anyhow?"
-    mc "What? I don't... how did you figure out it was me anyhow?"
+    mc "什么？我只是...你到底怎么发现的？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:160
 translate chinese sm1cs_vs001_5101b0ad:
 
     # vs "Well, I didn't know for sure until you said it was you."
-    vs "Well, I didn't know for sure until you said it was you."
+    vs "嗯，在你承认之前我也不确定。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:161
 translate chinese sm1cs_vs001_8d9d679a:
 
     # vs "But I got suspicious when we first met because I recognized you from campus."
-    vs "But I got suspicious when we first met because I recognized you from campus."
+    vs "但我们第一次见面的时候我就起疑心了，因为我在学校里认出你了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:164
 translate chinese sm1cs_vs001_da4d7b85:
 
     # mc "You were a student at the college?"
-    mc "You were a student at the college?"
+    mc "你是我那所大学的学生？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:167
 translate chinese sm1cs_vs001_3a2b0f96:
 
     # vs "Still am. Aren't you still taking classes?"
-    vs "Still am. Aren't you still taking classes?"
+    vs "现在还是在校生。你还在上课吗？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:170
 translate chinese sm1cs_vs001_80d150c4:
 
     # mc "Nah. I uh... I found something else to put my focus on."
-    mc "Nah. I uh... I found something else to put my focus on."
+    mc "没有了。我，呃...我找到了别的让我更专注的事。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:173
 translate chinese sm1cs_vs001_8818715f:
 
     # vs "Oh. Is it because of Lydia?"
-    vs "Oh. Is it because of Lydia?"
+    vs "哦。是因为莉迪亚吗？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:176
 translate chinese sm1cs_vs001_140bb3a6:
