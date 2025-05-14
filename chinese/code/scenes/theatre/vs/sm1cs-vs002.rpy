@@ -2,163 +2,163 @@
 translate chinese sm1cs_vs002_19ed340b:
 
     # vs "Hiya, [mcname]."
-    vs "Hiya, [mcname]."
+    vs "嗨~[mcname]。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:16
 translate chinese sm1cs_vs002_3a6a6b81:
 
     # mct "Here she comes. Is she finally going to dig into me about seeing her masturbating in the shower?"
-    mct "Here she comes. Is she finally going to dig into me about seeing her masturbating in the shower?"
+    mct "来了...她终于要提浴室自慰那件事了？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:20
 translate chinese sm1cs_vs002_51fb5a4c:
 
     # vs "What's shaking?"
-    vs "What's shaking?"
+    vs "你怎么样？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:23
 translate chinese sm1cs_vs002_8b61fb97:
 
     # mc "Not much."
-    mc "Not much."
+    mc "还行。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:26
 translate chinese sm1cs_vs002_23672224:
 
     # vs "You look a lilttle nervous."
-    vs "You look a lilttle nervous."
+    vs "你看起来有点紧张。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:29
 translate chinese sm1cs_vs002_471af77b:
 
     # mc "Hah, well that's probably because the last time I saw you, you were in your birthday suit."
-    mc "Hah, well that's probably because the last time I saw you, you were in your birthday suit."
+    mc "哈哈，嗯，可能是因为我上次见你的时候，你没穿衣服。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:32
 translate chinese sm1cs_vs002_cad7c623:
 
     # vs "*giggles* Ooooh. Sounds like someone enjoyed their glimpse."
-    vs "*giggles* Ooooh. Sounds like someone enjoyed their glimpse."
+    vs "*咯咯笑* 哦哦。听起来有人很享受那一眼呢。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:33
 translate chinese sm1cs_vs002_647fdc98:
 
     # mct "I hope a glimpse is not all I'll get."
-    mct "I hope a glimpse is not all I'll get."
+    mct "我希望看到的不只是那一眼。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:36
 translate chinese sm1cs_vs002_e1a49e21:
 
     # mc "You're very comfortable in own skin, aren't you?"
-    mc "You're very comfortable in own skin, aren't you?"
+    mc "你对自己的身体很自在啊，是吧？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:39
 translate chinese sm1cs_vs002_608c2faa:
 
     # vs "Oh yeah. I think it's an after-effected of cheerleading."
-    vs "Oh yeah. I think it's an after-effected of cheerleading."
+    vs "哦，没错。我觉得这是当啦啦队员带来的影响。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:40
 translate chinese sm1cs_vs002_449be770:
 
     # vs "I'm glad you're here. You're a healthy distraction from another boring theater session."
-    vs "I'm glad you're here. You're a healthy distraction from another boring theater session."
+    vs "很高兴你来了。你能让我从又一场无聊的剧院排练中解脱出来。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:43
 translate chinese sm1cs_vs002_2703cd5f:
 
     # mc "Strange to think that working in a theater could ever be boring."
-    mc "Strange to think that working in a theater could ever be boring."
+    mc "在剧院工作还会无聊？难以想象。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:46
 translate chinese sm1cs_vs002_9bb57b80:
 
     # vs "Well, it totally is. I mean, it can be. And it is today."
-    vs "Well, it totally is. I mean, it can be. And it is today."
+    vs "嗯，确实会无聊。我是说，有时候会。今天就很无聊。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:47
 translate chinese sm1cs_vs002_be8d7eb6:
 
     # vs "Earlier, Denise took Kellie's advice that we needed to practice our breathing exercises, and we spent an hour just sitting on the floor breathing."
-    vs "Earlier, Denise took Kellie's advice that we needed to practice our breathing exercises, and we spent an hour just sitting on the floor breathing."
+    vs "早些时候，丹妮丝听了凯莉的建议，让我们练习呼吸练习，我们在地板上坐着，呼吸了一个小时。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:51
 translate chinese sm1cs_vs002_86291277:
 
     # vs "In and out, in and out. For an hour. I didn't even get sweaty, it was so lame."
-    vs "In and out, in and out. For an hour. I didn't even get sweaty, it was so lame."
+    vs "吸气，呼气，吸气，呼气。整整一个小时。我连汗都没出，太无聊了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:52
 translate chinese sm1cs_vs002_61badc67:
 
     # vs "I thought my brain might jump out of my skull, summersault off my tits and run off."
-    vs "I thought my brain might jump out of my skull, summersault off my tits and run off."
+    vs "我都觉得我的脑子要从脑袋里蹦出来，从我胸前翻个跟头跑掉了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:55
 translate chinese sm1cs_vs002_b6a43ae4:
 
     # mc "That would have been a tough act to follow."
-    mc "That would have been a tough act to follow."
+    mc "那接下来的表演可难办了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:58
 translate chinese sm1cs_vs002_27f7aaf5:
 
     # vs "Hehehe. Yeah, but I pushed through it. My cheerleading coach always said, 'Just keep bouncing, and everything will work out.'"
-    vs "Hehehe. Yeah, but I pushed through it. My cheerleading coach always said, 'Just keep bouncing, and everything will work out.'"
+    vs "嘿嘿~是啊，但我坚持下来了。我的啦啦队教练总是说，‘继续蹦跶，一切都会好起来的。’"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:60
 translate chinese sm1cs_vs002_37aaed28:
 
     # mc "Uh-huh."
-    mc "Uh-huh."
+    mc "嗯嗯。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:64
 translate chinese sm1cs_vs002_4fdf7362:
 
     # vs "I guess I'm still not one hundred percent into Denise's new show."
-    vs "I guess I'm still not one hundred percent into Denise's new show."
+    vs "我觉得我还没有完全投入到丹妮丝的新演出中。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:67
 translate chinese sm1cs_vs002_8948b085:
 
     # mc "I can see that. Still, it's going to bring the theater some money, so the next show will probably be way cooler."
-    mc "I can see that. Still, it's going to bring the theater some money, so the next show will probably be way cooler."
+    mc "我看得出来。不过，这演出会给剧院带来收入，所以下一场演出可能会好得多。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:70
 translate chinese sm1cs_vs002_139481b3:
 
     # vs "That's months from now. I don't know if I can wait that long."
-    vs "That's months from now. I don't know if I can wait that long."
+    vs "那得等好几个月！我不知道能不能等那么久。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:73
 translate chinese sm1cs_vs002_ce19f84b:
 
     # mc "Why all the rush, Veronica?"
-    mc "Why all the rush, Veronica?"
+    mc "干嘛这么着急啊，维罗妮卡？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:75
 translate chinese sm1cs_vs002_b13c50bc:
 
     # vs "I probably wouldn't feel so bored if Denise just told me what the next show is. I'm pretty sure she's figured it out but she won't tell us yet."
-    vs "I probably wouldn't feel so bored if Denise just told me what the next show is. I'm pretty sure she's figured it out but she won't tell us yet."
+    vs "要是丹尼斯肯透露下部戏内容，我也不会这么躁。她明明已经想好了。却偏要卖关子。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:76
 translate chinese sm1cs_vs002_94c904f7:
 
     # vs "The suspense is killing me."
-    vs "The suspense is killing me."
+    vs "这悬念简直要把我逼疯了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:79
 translate chinese sm1cs_vs002_f0444c16:
 
     # mc "Denise is the director, I'm sure she'll reveal it soon. Why all the rush, Veronica?"
-    mc "Denise is the director, I'm sure she'll reveal it soon. Why all the rush, Veronica?"
+    mc "丹妮丝是导演，我敢说她很快就会透露的。你干嘛这么着急啊，维罗妮卡？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:82
 translate chinese sm1cs_vs002_ce3ee1a7:
 
     # vs "Come on, [mcname]. I've been working at this theater for a couple of months now, and I haven't had my big break."
-    vs "Come on, [mcname]. I've been working at this theater for a couple of months now, and I haven't had my big break."
+    vs "得了吧，[mcname]。我在这个剧院干了好几个月了，始终等不到爆红的机会。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:83
 translate chinese sm1cs_vs002_502a7b4b:
