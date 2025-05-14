@@ -422,91 +422,91 @@ translate chinese sm1cs_tl005_fountain_b2b9e19d:
 translate chinese sm1cs_tl005_fountain_9613107f:
 
     # tl "I mean, one of my neighbors thinks he saw him prowling around my area. She thinks."
-    tl "I mean, one of my neighbors thinks he saw him prowling around my area. She thinks."
+    tl "我是说，我有个邻居声称看见那家伙在我家附近鬼鬼祟祟的。她说她觉得看到了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:269
 translate chinese sm1cs_tl005_fountain_c966aef0:
 
     # tl "Which is... part of the reason I've been so hard up for money. I'm trying to save up for a new place."
-    tl "Which is... part of the reason I've been so hard up for money. I'm trying to save up for a new place."
+    tl "所以...这也是我最近手头紧的原因之一。我正在攒钱准备换个新住处。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:273
 translate chinese sm1cs_tl005_fountain_f89735f5:
 
     # mc "Well why didn't you say something earlier?"
-    mc "Well why didn't you say something earlier?"
+    mc "那你怎么不早点说呢？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:279
 translate chinese sm1cs_tl005_fountain_a1c65cb8:
 
     # tl "Have you not met me, [mcname]? Being honest about my problems doesn't really go with the tough girl routine."
-    tl "Have you not met me, [mcname]? Being honest about my problems doesn't really go with the tough girl routine."
+    tl "你还不了解我吗，[mcname]？坦白说出自己的困境，这可不符合我女汉子的人设。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:282
 translate chinese sm1cs_tl005_fountain_7bbab449:
 
     # mc "Fair point."
-    mc "Fair point."
+    mc "这倒也是。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:285
 translate chinese sm1cs_tl005_fountain_c8109153:
 
     # tl "Yeah..."
-    tl "Yeah..."
+    tl "就是啊..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:286
 translate chinese sm1cs_tl005_fountain_80eea7ec:
 
     # tl "Anyways, that's enough of me spilling my guts for one night."
-    tl "Anyways, that's enough of me spilling my guts for one night."
+    tl "算了，今晚掏心窝子的话说得够多了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:289
 translate chinese sm1cs_tl005_fountain_fd394cc8:
 
     # tl "You gonna' keep being a gentleman and walk me home?"
-    tl "You gonna' keep being a gentleman and walk me home?"
+    tl "要继续当绅士送我回家吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:292
 translate chinese sm1cs_tl005_fountain_1b400966:
 
     # tl "What?"
-    tl "What?"
+    tl "干嘛？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:293
 translate chinese sm1cs_tl005_fountain_4fe61dce:
 
     # tl "The hell are you looking at me like that for?"
-    tl "The hell are you looking at me like that for?"
+    tl "你干嘛那样看着我？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:297
 translate chinese sm1cs_tl005_fountain_37c76e83:
 
     # tl "The fuck..."
-    tl "The fuck..."
+    tl "靠..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:300
 translate chinese sm1cs_tl005_fountain_a6829ec5:
 
     # mc "Thanks for being honest with me."
-    mc "Thanks for being honest with me."
+    mc "谢谢你对我坦诚相待。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:303
 translate chinese sm1cs_tl005_fountain_2c7307ba:
 
     # tl "I-"
-    tl "I-"
+    tl "我--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:306
 translate chinese sm1cs_tl005_fountain_023c5d81:
 
     # mc "Just, enjoy the moment."
-    mc "Just, enjoy the moment."
+    mc "别说话，用心享受这一刻。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:308
 translate chinese sm1cs_tl005_fountain_072f1038:
 
     # tl "I..."
-    tl "I..."
+    tl "我..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:309
 translate chinese sm1cs_tl005_fountain_a4cd1341:
@@ -518,107 +518,107 @@ translate chinese sm1cs_tl005_fountain_a4cd1341:
 translate chinese sm1cs_tl005_fountain_f37097e9:
 
     # tl "All tight, moment over. Come on."
-    tl "All tight, moment over. Come on."
+    tl "好了，温情时间结束。走吧。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:320
 translate chinese sm1cs_tl005_fountain_68645620:
 
     # mct "I didn't realize Taisia had it so rough right now..."
-    mct "I didn't realize Taisia had it so rough right now..."
+    mct "我之前都没意识到泰西娅现在过得这么艰难..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:321
 translate chinese sm1cs_tl005_fountain_3738eecc:
 
     # mct "But it makes a lot of things make a lot more sense."
-    mct "But it makes a lot of things make a lot more sense."
+    mct "不过很多事倒是解释得通了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:324
 translate chinese sm1cs_tl005_fountain_cbf27319:
 
     # mct "But her looking for a place to live... that's something I should keep in mind."
-    mct "But her looking for a place to live... that's something I should keep in mind."
+    mct "她在找新住处...这事儿我得记在心里。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:326
 translate chinese sm1cs_tl005_fountain_60df2935:
 
     # mct "Maybe I can talk to her about moving into the studio."
-    mct "Maybe I can talk to her about moving into the studio."
+    mct "或许我可以和她谈谈，建议她搬来工作室住。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:328
 translate chinese sm1cs_tl005_fountain_13b09e8c:
 
     # mct "Might come in handy one day."
-    mct "Might come in handy one day."
+    mct "说不定哪天能派上用场。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:331
 translate chinese sm1cs_tl005_fountain_1b400966_1:
 
     # tl "What?"
-    tl "What?"
+    tl "怎么了？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:334
 translate chinese sm1cs_tl005_fountain_1382bcdf:
 
     # mc "Just... thinking."
-    mc "Just... thinking."
+    mc "只是...在想事情。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:337
 translate chinese sm1cs_tl005_fountain_3205ff32:
 
     # tl "Don't get mushy on me now, [mcname]."
-    tl "Don't get mushy on me now, [mcname]."
+    tl "别突然跟我煽情啊，[mcname]。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:338
 translate chinese sm1cs_tl005_fountain_e4ae8385:
 
     # tl "We still have plenty of porn to make!"
-    tl "We still have plenty of porn to make!"
+    tl "我们还有一堆小黄片要拍呢！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:341
 translate chinese sm1cs_tl005_fountain_8efa3174:
 
     # tl "And I swear to god, if you tell anyone this, I will end you."
-    tl "And I swear to god, if you tell anyone this, I will end you."
+    tl "要是你敢把这些告诉别人，我发誓会宰了你。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:344
 translate chinese sm1cs_tl005_fountain_2915dd90:
 
     # mc "Your secret is safe with me, Taisia."
-    mc "Your secret is safe with me, Taisia."
+    mc "我会守口如瓶的，泰西娅。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:347
 translate chinese sm1cs_tl005_fountain_f8156df4:
 
     # tl "It better be."
-    tl "It better be."
+    tl "最好是这样。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:348
 translate chinese sm1cs_tl005_fountain_e33159a5:
 
     # tl "Otherwise I'm not putting out anymore."
-    tl "Otherwise I'm not putting out anymore."
+    tl "否则你以后别想碰我。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:351
 translate chinese sm1cs_tl005_fountain_2b5ed3c4:
 
     # mc "Hahahaha!"
-    mc "Hahahaha!"
+    mc "哈哈哈！"
 
 translate chinese strings:
 
     # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:39
     old "Scream"
-    new "Scream"
+    new "尖叫"
 
     # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:39
     old "Slap"
-    new "Slap"
+    new "扇巴掌"
 
     # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:185
     old "Call her out"
-    new "Call her out"
+    new "叫她出来"
 
     # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:185
     old "Let her tell you in her own time"
-    new "Let her tell you in her own time"
+    new "等她自己觉得合适的时候告诉你"
 
