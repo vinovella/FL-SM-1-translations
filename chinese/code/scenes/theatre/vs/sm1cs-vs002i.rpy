@@ -2,31 +2,31 @@
 translate chinese sm1cs_vs002i_33296dea:
 
     # mc "What do you got there, Veronica?"
-    mc "What do you got there, Veronica?"
+    mc "你拿的是什么，维罗妮卡？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:8
 translate chinese sm1cs_vs002i_0f1aa95a:
 
     # vs "Just the latest issue of {u}Stars Weekly{/u}."
-    vs "Just the latest issue of {u}Stars Weekly{/u}."
+    vs "只是最新一期的{u}明星周刊{/u}。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:9
 translate chinese sm1cs_vs002i_9f99a66b:
 
     # vs "The comprehensive guide to everything happening in Hollywood."
-    vs "The comprehensive guide to everything happening in Hollywood."
+    vs "这是一本全面介绍好莱坞大小事件的指南。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:14
 translate chinese sm1cs_vs002i_2a4b37b4:
 
     # mc "Looks interesting."
-    mc "Looks interesting."
+    mc "看起来很有趣。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:18
 translate chinese sm1cs_vs002i_a358e25d:
 
     # vs "It's the best. It keeps me up to date on all the news about upcoming films and new trends."
-    vs "It's the best. It keeps me up to date on all the news about upcoming films and new trends."
+    vs "它是最棒的杂志。能让我随时了解所有即将上映的电影，还有当下的热门趋势。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:19
 translate chinese sm1cs_vs002i_bbdbca43:
