@@ -1262,7 +1262,7 @@ translate chinese sm1cs_vs003_part3_85eaf391:
 translate chinese sm1cs_vs003_part3_39ac7f27:
 
     # vs "This... this is so hot."
-    vs "太...太刺激了...
+    vs "太...太刺激了..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:691
 translate chinese sm1cs_vs003_part3_94e5a2e7:
