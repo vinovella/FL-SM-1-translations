@@ -2,235 +2,235 @@
 translate chinese sm1cs_bg002_d141f335:
 
     # kv "I was hoping you'd drop by!"
-    kv "I was hoping you'd drop by!"
+    kv "正盼着你来呢！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:52
 translate chinese sm1cs_bg002_6f43fdcd:
 
     # mc "Oh? What for?"
-    mc "Oh? What for?"
+    mc "哦？有什么事？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:56
 translate chinese sm1cs_bg002_c33ce883:
 
     # kv "I got a message today for a commission, and I think you two are perfect."
-    kv "I got a message today for a commission, and I think you two are perfect."
+    kv "今天接到个定制拍摄的委托，我觉得你俩特别合适。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:58
 translate chinese sm1cs_bg002_29f139f9:
 
     # mc "Commission? I thought you took photos of models?"
-    mc "Commission? I thought you took photos of models?"
+    mc "定制？你不是只拍模特写真吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:61
 translate chinese sm1cs_bg002_93a13fd2:
 
     # kv "Mmhmm, that's what I do, Mr. Observant. But, sometimes people just want art to hang in their homes, so they ask me to find models and take specific photos of them."
-    kv "Mmhmm, that's what I do, Mr. Observant. But, sometimes people just want art to hang in their homes, so they ask me to find models and take specific photos of them."
+    kv "嗯哼，是这样没错，看来你观察力不错嘛。不过有时候客户想要些艺术照挂家里，所以会让我找模特，安排拍摄特定主题。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:63
 translate chinese sm1cs_bg002_00c64e4f:
 
     # mc "Oh, I had no idea... So what the hell do you need me for?"
-    mc "Oh, I had no idea... So what the hell do you need me for?"
+    mc "原来如此...那需要我做什么？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:66
 translate chinese sm1cs_bg002_a20c9b58:
 
     # kv "Actually, I need both of you."
-    kv "Actually, I need both of you."
+    kv "准确地说，需要你们俩。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:68
 translate chinese sm1cs_bg002_838ec088:
 
     # bg "Okay? Why?"
-    bg "Okay? Why?"
+    bg "啊？为什么？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:69
 translate chinese sm1cs_bg002_7b2c4752:
 
     # kv "I was asked to shoot a doubles, and I think you two would be perfect for it."
-    kv "I was asked to shoot a doubles, and I think you two would be perfect for it."
+    kv "客户要求拍双人照，我觉得你俩简直是天作之合。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:72
 translate chinese sm1cs_bg002_098cb474:
 
     # bg "What! You want us to do what?"
-    bg "What! You want us to do what?"
+    bg "什么！你要我们做什么？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:76
 translate chinese sm1cs_bg002_27db209b:
 
     # kv "It's nothing too spicy. And you can keep your mask on, I think the client would love that."
-    kv "It's nothing too spicy. And you can keep your mask on, I think the client would love that."
+    kv "不会太刺激。而且你可以继续戴面具，我觉得客户会喜欢这个设定。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:78
 translate chinese sm1cs_bg002_02ff8466:
 
     # bg "I just, I don't know."
-    bg "I just, I don't know."
+    bg "我只是...不确定..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:81
 translate chinese sm1cs_bg002_4d4372fc:
 
     # mc "I think it'll be great, Amore."
-    mc "I think it'll be great, Amore."
+    mc "我觉得会很棒，阿茉。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:83
 translate chinese sm1cs_bg002_35e6f4b2:
 
     # bg "I don't know..."
-    bg "I don't know..."
+    bg "我还是有点犹豫..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:86
 translate chinese sm1cs_bg002_de133e32:
 
     # mc "Remember how you told me about your dream shoot?"
-    mc "Remember how you told me about your dream shoot?"
+    mc "记得你跟我说过的理想拍摄吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:88
 translate chinese sm1cs_bg002_e2c7a6b7:
 
     # bg "Mmmhmmmm..."
-    bg "Mmmhmmmm..."
+    bg "嗯..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:91
 translate chinese sm1cs_bg002_d6059051:
 
     # mc "Well, what if this is, like, a trial run? You can get some practice doing the some soft dom sub stuff, and you can start to get a feel for it."
-    mc "Well, what if this is, like, a trial run? You can get some practice doing the some soft dom sub stuff, and you can start to get a feel for it."
+    mc "不如，把这次当作试水，如何？你可以体验下温和的支配与服从玩法，找找感觉。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:93
 translate chinese sm1cs_bg002_304e22f7:
 
     # bg "Well..."
-    bg "Well..."
+    bg "这个..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:94
 translate chinese sm1cs_bg002_14720b40:
 
     # mc "And if you hate it, and you hate working with me, we'll never do it again."
-    mc "And if you hate it, and you hate working with me, we'll never do it again."
+    mc "如果不喜欢，或者讨厌和我合作，以后再也不拍就是了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:97
 translate chinese sm1cs_bg002_2ac0d1ba:
 
     # bg "{size=*0.6}I don't think that's going to be a problem...{/size}"
-    bg "{size=*0.6}I don't think that's going to be a problem...{/size}"
+    bg "{size=*0.6}我觉得应该不会讨厌你的...{/size}"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:99
 translate chinese sm1cs_bg002_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "嗯？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:103
 translate chinese sm1cs_bg002_75ab0ace:
 
     # bg "Let's do it."
-    bg "Let's do it."
+    bg "那试试看吧。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:105
 translate chinese sm1cs_bg002_2e578d66:
 
     # kv "Hell yeah. [mcname], pop that shirt off while I go grab my camera. I'll meet you both on the sweep!"
-    kv "Hell yeah. [mcname], pop that shirt off while I go grab my camera. I'll meet you both on the sweep!"
+    kv "太棒了。[mcname]，快脱上衣，我去拿相机。待会儿在弧形背景板那边集合！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:112
 translate chinese sm1cs_bg002_30f7e746:
 
     # mc "I think this is going to be a lot of fun."
-    mc "I think this is going to be a lot of fun."
+    mc "肯定会很有趣。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:114
 translate chinese sm1cs_bg002_ddd7fea9:
 
     # bg "Mmhmmm..."
-    bg "Mmhmmm..."
+    bg "嗯..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:126
 translate chinese sm1cs_bg002_white_screen_3330e079:
 
     # mc "Something wrong, Amore?"
-    mc "Something wrong, Amore?"
+    mc "怎么了，阿茉？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:128
 translate chinese sm1cs_bg002_white_screen_1e84fd91:
 
     # bg "I'm just... nervous."
-    bg "I'm just... nervous."
+    bg "只是...有点紧张。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:131
 translate chinese sm1cs_bg002_white_screen_eaa8ee47:
 
     # mc "About what?"
-    mc "About what?"
+    mc "担心什么？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:134
 translate chinese sm1cs_bg002_white_screen_d032283b:
 
     # bg "I just... haven't really ever worked with anyone else."
-    bg "I just... haven't really ever worked with anyone else."
+    bg "我从来没...和别人合作过。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:136
 translate chinese sm1cs_bg002_white_screen_0d85f76c:
 
     # mc "I think you're going to do great. Having photographed you myself, you're an awesome model."
-    mc "I think you're going to do great. Having photographed you myself, you're an awesome model."
+    mc "你会很棒的。以我拍过的经验，你是个超棒的模特。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:140
 translate chinese sm1cs_bg002_white_screen_e9c07e51:
 
     # bg "{size=*0.6}Oh boy...{/size}"
-    bg "{size=*0.6}Oh boy...{/size}"
+    bg "{size=*0.6}天啊...{/size}"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:142
 translate chinese sm1cs_bg002_white_screen_845c4c57:
 
     # mc "What was that?"
-    mc "What was that?"
+    mc "你说什么？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:143
 translate chinese sm1cs_bg002_white_screen_52c530e5:
 
     # bg "Erm, nothing. Just... getting mentally ready for the shoot."
-    bg "Erm, nothing. Just... getting mentally ready for the shoot."
+    bg "没、没什么。就是...在做心理准备。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:146
 translate chinese sm1cs_bg002_white_screen_21c7b9d2:
 
     # mc "Oh, have you got like a process or something? Maybe like a useful tip or tick for me?"
-    mc "Oh, have you got like a process or something? Maybe like a useful tip or tick for me?"
+    mc "你有什么准备诀窍吗？能不能教教我？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:147
 translate chinese sm1cs_bg002_white_screen_af9f20d7:
 
     # mc "Because I haven't really done this, and I'm a little nervous."
-    mc "Because I haven't really done this, and I'm a little nervous."
+    mc "毕竟我是第一次拍这种，有点慌。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:149
 translate chinese sm1cs_bg002_white_screen_20fd11dd:
 
     # bg "Aren't you trying to be a pornstar or something?"
-    bg "Aren't you trying to be a pornstar or something?"
+    bg "你不是想当成人片明星吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:152
 translate chinese sm1cs_bg002_white_screen_5375d54f:
 
     # mc "Yeah, but this is different. With the porn stuff it's just 'fuck, fuck, fuck'. Nobody cares what I look like."
-    mc "Yeah, but this is different. With the porn stuff it's just 'fuck, fuck, fuck'. Nobody cares what I look like."
+    mc "是啊，但这不一样。拍片只要'干就完了'，没人真的管我帅不帅。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:153
 translate chinese sm1cs_bg002_white_screen_75bec635:
 
     # mc "But sexy photos... means I have to try and look sexy."
-    mc "But sexy photos... means I have to try and look sexy."
+    mc "可是性感写真...得真的摆出性感样子。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:156
 translate chinese sm1cs_bg002_white_screen_efa7ed5c:
 
     # bg "My trick... is that you have nothing to worry about, [mcname]. You're more than sexy enough."
-    bg "My trick... is that you have nothing to worry about, [mcname]. You're more than sexy enough."
+    bg "我的秘诀就是...[mcname]，你根本不用担心。你已经性感超标了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:158
 translate chinese sm1cs_bg002_white_screen_17ab6817:
