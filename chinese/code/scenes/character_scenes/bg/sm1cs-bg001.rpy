@@ -542,475 +542,475 @@ translate chinese sm1cs_bg001_more_talking_0692bbfd:
 translate chinese sm1cs_bg001_more_talking_ab2b1530:
 
     # bg "It sounds like opening up a porn studio is the best career move you could make."
-    bg "It sounds like opening up a porn studio is the best career move you could make."
+    bg "听起来开成人影片工作室是你最明智的职业选择。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:288
 translate chinese sm1cs_bg001_more_talking_60dd4786:
 
     # mc "Wait, she told you about the studio too?"
-    mc "Wait, she told you about the studio too?"
+    mc "等等，她连工作室的事都告诉你了？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:291
 translate chinese sm1cs_bg001_more_talking_f8575cf6:
 
     # bg "Yep."
-    bg "Yep."
+    bg "没错。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:294
 translate chinese sm1cs_bg001_more_talking_a1b2e62b:
 
     # mc "Everything about it?"
-    mc "Everything about it?"
+    mc "全部细节？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:298
 translate chinese sm1cs_bg001_more_talking_9c43682a:
 
     # bg "Like the part about you starting the porn studio with your sister?"
-    bg "Like the part about you starting the porn studio with your sister?"
+    bg "比如你和妹妹合伙开成人工作室？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:300
 translate chinese sm1cs_bg001_more_talking_84388d40:
 
     # bg "Like the part about you starting the porn studio with your best friend?"
-    bg "Like the part about you starting the porn studio with your best friend?"
+    bg "比如你和最好的朋友合伙开成人工作室？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:302
 translate chinese sm1cs_bg001_more_talking_69c25b65:
 
     # mc "Yeah..."
-    mc "Yeah..."
+    mc "呃..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:305
 translate chinese sm1cs_bg001_more_talking_22fc378a:
 
     # bg "She might have mentioned it."
-    bg "She might have mentioned it."
+    bg "她可能提过那么一嘴。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:306
 translate chinese sm1cs_bg001_more_talking_e3e1587c:
 
     # mct "I really need to talk to Kanya about not telling everyone about the studio."
-    mct "I really need to talk to Kanya about not telling everyone about the studio."
+    mct "我真得跟康雅谈谈，叫她别到处宣扬工作室的事。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:309
 translate chinese sm1cs_bg001_more_talking_6404ac3a:
 
     # mc "Oh boy..."
-    mc "Oh boy..."
+    mc "我的老天..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:312
 translate chinese sm1cs_bg001_more_talking_e56774bb:
 
     # bg "What? You think I'm going to judge you?"
-    bg "What? You think I'm going to judge you?"
+    bg "怎么？你觉得我会戴着有色眼镜看你？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:315
 translate chinese sm1cs_bg001_more_talking_7136c946:
 
     # mc "I mean..."
-    mc "I mean..."
+    mc "这个..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:318
 translate chinese sm1cs_bg001_more_talking_b61a8f1d:
 
     # bg "You think the chick that wears leather and latex is going to judge you for opening up a porn studio?"
-    bg "You think the chick that wears leather and latex is going to judge you for opening up a porn studio?"
+    bg "你觉得一个整天穿皮革乳胶的妞，会因为你开成人工作室就对你说三道四？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:321
 translate chinese sm1cs_bg001_more_talking_edfb2ff8:
 
     # mc "I guess when you put it like that..."
-    mc "I guess when you put it like that..."
+    mc "这么说好像也是..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:324
 translate chinese sm1cs_bg001_more_talking_d45716b6:
 
     # bg "C'mon, [mcname]. I thought you knew me better than that."
-    bg "C'mon, [mcname]. I thought you knew me better than that."
+    bg "拜托，[mcname]，我以为你多少懂我了呢。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:327
 translate chinese sm1cs_bg001_more_talking_4edb7fd8:
 
     # mc "I mean, I didn't really know you until today."
-    mc "I mean, I didn't really know you until today."
+    mc "可我们今天才刚认识啊。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:330
 translate chinese sm1cs_bg001_more_talking_63c175e4:
 
     # bg "Okay, that's a fair point."
-    bg "Okay, that's a fair point."
+    bg "好吧，这话没毛病。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:331
 translate chinese sm1cs_bg001_more_talking_24a17715:
 
     # bg "Well, in the spirit of getting to know me, what else do you want to know?"
-    bg "Well, in the spirit of getting to know me, what else do you want to know?"
+    bg "既然想了解我，你还想知道什么？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:334
 translate chinese sm1cs_bg001_more_talking_f305cb4e:
 
     # mc "Uhm, let's see... How long have you been doing this?"
-    mc "Uhm, let's see... How long have you been doing this?"
+    mc "嗯...你做这行多久了？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:337
 translate chinese sm1cs_bg001_more_talking_cecbe6cb:
 
     # bg "A few years now. Working with Kanya is definitely more recent... I think we started shooting a year ago?"
-    bg "A few years now. Working with Kanya is definitely more recent... I think we started shooting a year ago?"
+    bg "有几年了。和康雅合作是最近的事...大概一年前开始拍的？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:340
 translate chinese sm1cs_bg001_more_talking_ae293271:
 
     # mc "And where do you find all of your outfits?"
-    mc "And where do you find all of your outfits?"
+    mc "你这些行头都是从哪儿搞来的？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:344
 translate chinese sm1cs_bg001_more_talking_5c89062f:
 
     # bg "There's a shop in town and I special order a lot of things through them."
-    bg "There's a shop in town and I special order a lot of things through them."
+    bg "城里有个专卖店，很多东西都是特别定制的。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:347
 translate chinese sm1cs_bg001_more_talking_c7c91852:
 
     # mc "Huh... There's a fetish shop for leather outfits in town?"
-    mc "Huh... There's a fetish shop for leather outfits in town?"
+    mc "咦...咱们这儿还有卖皮革制品的成人用品店？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:349
 translate chinese sm1cs_bg001_more_talking_31367741:
 
     # bg "I usually get most of my stuff online."
-    bg "I usually get most of my stuff online."
+    bg "其实大部分都是网购啦。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:352
 translate chinese sm1cs_bg001_more_talking_3d8f10dc:
 
     # mc "Huh... There's a fetish website for leather outfits?"
-    mc "Huh... There's a fetish website for leather outfits?"
+    mc "啊...网上还有卖这种情趣服饰的？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:355
 translate chinese sm1cs_bg001_more_talking_d4269993:
 
     # bg "Oh, there's {i}tons{/i} of them."
-    bg "Oh, there's {i}tons{/i} of them."
+    bg "噢，这类网站{i}多如牛毛{/i}。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:358
 translate chinese sm1cs_bg001_more_talking_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的假的？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:361
 translate chinese sm1cs_bg001_more_talking_b7587a99:
 
     # bg "Yeah, there's the big box places, then there are indie makers who do their own things. You can order a lot of different custom pieces if you want."
-    bg "Yeah, there's the big box places, then there are indie makers who do their own things. You can order a lot of different custom pieces if you want."
+    bg "当然了，有大品牌旗舰店，也有独立设计师品牌。只要你想，要什么款式都能定制。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:364
 translate chinese sm1cs_bg001_more_talking_670f13ab:
 
     # mc "Wow. There's just a whole world of stuff I know absolutely nothing about."
-    mc "Wow. There's just a whole world of stuff I know absolutely nothing about."
+    mc "哇，原来还有这么一个我完全不了解的世界。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:367
 translate chinese sm1cs_bg001_more_talking_0009412d:
 
     # bg "Well, I can always teach you whatever you need to know."
-    bg "Well, I can always teach you whatever you need to know."
+    bg "需要的话，我可以教你。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:369
 translate chinese sm1cs_bg001_more_talking_a31340dd_1:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:370
 translate chinese sm1cs_bg001_more_talking_31e80983:
 
     # bg "Of course! I think you're pretty cool, [mcname]."
-    bg "Of course! I think you're pretty cool, [mcname]."
+    bg "当然啦！我觉得你挺有意思的，[mcname]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:373
 translate chinese sm1cs_bg001_more_talking_cb1119d1:
 
     # mc "I think you're pretty cool too, Amore."
-    mc "I think you're pretty cool too, Amore."
+    mc "我也觉得你很特别，阿茉。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:374
 translate chinese sm1cs_bg001_more_talking_a02b877f:
 
     # mc "So, I was wondering. Have you got, like, a favorite photoshoot you've ever done?"
-    mc "So, I was wondering. Have you got, like, a favorite photoshoot you've ever done?"
+    mc "对了，我很好奇...你拍过的作品里有没有特别中意的一套？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:377
 translate chinese sm1cs_bg001_more_talking_60aa684c:
 
     # bg "Oh boy, uhm..."
-    bg "Oh boy, uhm..."
+    bg "这个嘛..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:378
 translate chinese sm1cs_bg001_more_talking_b610ffe1:
 
     # bg "I mean, I do but... It's kind of embarrassing."
-    bg "I mean, I do but... It's kind of embarrassing."
+    bg "有是有...但说起来怪难为情的。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:381
 translate chinese sm1cs_bg001_more_talking_769943b0:
 
     # mc "Oh, it can't be that bad. I've seen and done lots of weird things."
-    mc "Oh, it can't be that bad. I've seen and done lots of weird things."
+    mc "能有多夸张？什么奇葩事我没见过。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:384
 translate chinese sm1cs_bg001_more_talking_4338f72e:
 
     # bg "It's not because it's weird, or anything, just..."
-    bg "It's not because it's weird, or anything, just..."
+    bg "不是内容奇葩...就是..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:387
 translate chinese sm1cs_bg001_more_talking_90339c7d:
 
     # mc "You don't have to tell me if you don't want to."
-    mc "You don't have to tell me if you don't want to."
+    mc "不想说也没关系。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:390
 translate chinese sm1cs_bg001_more_talking_b4008cb9:
 
     # bg "No, I do, just..."
-    bg "No, I do, just..."
+    bg "不是不想说..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:391
 translate chinese sm1cs_bg001_more_talking_d61714b1:
 
     # bg "Just don't judge me, 'kay?"
-    bg "Just don't judge me, 'kay?"
+    bg "就是别笑话我，行吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:394
 translate chinese sm1cs_bg001_more_talking_0a4dbc8d:
 
     # mc "I promise."
-    mc "I promise."
+    mc "我保证。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:397
 translate chinese sm1cs_bg001_more_talking_56ed7aef:
 
     # bg "Okay, well..."
-    bg "Okay, well..."
+    bg "好吧..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:398
 translate chinese sm1cs_bg001_more_talking_ddf3e74f:
 
     # bg "I... Really, really enjoyed the last shoot we did.... You, me, and Kanya..."
-    bg "I... Really, really enjoyed the last shoot we did.... You, me, and Kanya..."
+    bg "我...真的超级喜欢上次我们三个...你、我和康雅...拍的那组..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:401
 translate chinese sm1cs_bg001_more_talking_a31340dd_2:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:404
 translate chinese sm1cs_bg001_more_talking_e2c7a6b7:
 
     # bg "Mmmhmmmm..."
-    bg "Mmmhmmmm..."
+    bg "嗯哼..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:407
 translate chinese sm1cs_bg001_more_talking_91611cee:
 
     # mc "Wasn't that the shoot where Kanya was telling her all about the sex interview?"
-    mc "Wasn't that the shoot where Kanya was telling her all about the sex interview?"
+    mc "是不是康雅大谈性爱访谈的那次？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:410
 translate chinese sm1cs_bg001_more_talking_b51ce4aa:
 
     # mc "I'm pretty sure it was."
-    mc "I'm pretty sure it was."
+    mc "肯定是那次。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:413
 translate chinese sm1cs_bg001_more_talking_832d62ac:
 
     # bg "I don't know what it is about the photos but... Kanya really captured me in a way that was... {i}Arousing.{/i}"
-    bg "I don't know what it is about the photos but... Kanya really captured me in a way that was... {i}Arousing.{/i}"
+    bg "说不清为什么...但康雅镜头下的我特别...{i}欲{/i}。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:416
 translate chinese sm1cs_bg001_more_talking_e8aa2550:
 
     # mc "Huh, and is that what you're going for in your photos?"
-    mc "Huh, and is that what you're going for in your photos?"
+    mc "所以你希望所有照片都有这种效果？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:419
 translate chinese sm1cs_bg001_more_talking_a8b1cb28:
 
     # bg "What do you mean?"
-    bg "What do you mean?"
+    bg "什么意思？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:422
 translate chinese sm1cs_bg001_more_talking_993d8187:
 
     # mc "Do you want all of your photos to look arousing?"
-    mc "Do you want all of your photos to look arousing?"
+    mc "你想让所有照片都充满性张力？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:425
 translate chinese sm1cs_bg001_more_talking_06ef9548:
 
     # bg "I mean... Kind of."
-    bg "I mean... Kind of."
+    bg "算是吧..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:426
 translate chinese sm1cs_bg001_more_talking_3ed6b96a:
 
     # bg "But just to me. I don't care if anyone else finds them arousing, or exciting. All that matters is that I like them."
-    bg "But just to me. I don't care if anyone else finds them arousing, or exciting. All that matters is that I like them."
+    bg "但只需要我觉得性感就行。别人怎么看无所谓，重要的是我自己喜欢。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:429
 translate chinese sm1cs_bg001_more_talking_3cfcb202:
 
     # mc "Oh? Do you not care what everyone else thinks?"
-    mc "Oh? Do you not care what everyone else thinks?"
+    mc "哦？你完全不在乎别人的看法？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:432
 translate chinese sm1cs_bg001_more_talking_cab7253c:
 
     # bg "Not really? I guess... I want the photos so that in 50 years, I can look back at myself, and see what I looked like when I was young and hot, you know?"
-    bg "Not really? I guess... I want the photos so that in 50 years, I can look back at myself, and see what I looked like when I was young and hot, you know?"
+    bg "不太在乎...我想留着这些照片，等五十年后回头看，能看到自己年轻又充满魅力的样子就够了，你懂吧？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:435
 translate chinese sm1cs_bg001_more_talking_9f70fd5e:
 
     # mc "Yeah, I get that."
-    mc "Yeah, I get that."
+    mc "明白，这想法很棒。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:438
 translate chinese sm1cs_bg001_more_talking_9f544331:
 
     # bg "I think there's really something amazing about our ability to have a million photographs of a million memories. I think it's something we should cherish."
-    bg "I think there's really something amazing about our ability to have a million photographs of a million memories. I think it's something we should cherish."
+    bg "我们能通过海量照片定格无数个回忆，这种能力本身就很神奇。我觉得我们应该好好珍惜。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:441
 translate chinese sm1cs_bg001_more_talking_6c290c3e:
 
     # mc "That's a good point, I've never really thought about it that way."
-    mc "That's a good point, I've never really thought about it that way."
+    mc "有道理，我以前从没这么想过。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:444
 translate chinese sm1cs_bg001_more_talking_c6f0fd5c:
 
     # bg "Well, you should start! Especially now that you're learning how to become a photographer."
-    bg "Well, you should start! Especially now that you're learning how to become a photographer."
+    bg "现在开始也不晚！特别是你正在学摄影。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:447
 translate chinese sm1cs_bg001_more_talking_52de371a:
 
     # mc "Well, kind of learning. I'm mostly doing it so that the porn will look good, you know?"
-    mc "Well, kind of learning. I'm mostly doing it so that the porn will look good, you know?"
+    mc "勉强算在学吧...主要还是为了把成人影片拍好看。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:450
 translate chinese sm1cs_bg001_more_talking_1567cf22:
 
     # bg "I get that. I think a lot of pornstars could use some behind-the-camera experience."
-    bg "I get that. I think a lot of pornstars could use some behind-the-camera experience."
+    bg "我懂。我觉得很多成人片演员都该学学幕后经验。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:453
 translate chinese sm1cs_bg001_more_talking_fd6f33e0:
 
     # mc "I think so too."
-    mc "I think so too."
+    mc "我也这么想。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:454
 translate chinese sm1cs_bg001_more_talking_38b92a1f:
 
     # mc "But I definitely need more practice."
-    mc "But I definitely need more practice."
+    mc "不过我自己确实还需要多练习。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:455
 translate chinese sm1cs_bg001_more_talking_7e1f6f3a:
 
     # mc "Speaking of... What's like a 'dream shoot' for you?"
-    mc "Speaking of... What's like a 'dream shoot' for you?"
+    mc "说到这个...你理想中的拍摄是什么样的？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:458
 translate chinese sm1cs_bg001_more_talking_a8b1cb28_1:
 
     # bg "What do you mean?"
-    bg "What do you mean?"
+    bg "什么意思？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:461
 translate chinese sm1cs_bg001_more_talking_ddefdd3f:
 
     # mc "You know, if you could do any shoot you wanted, what would you want to do?"
-    mc "You know, if you could do any shoot you wanted, what would you want to do?"
+    mc "就是如果让你随心所欲地拍，你最想拍什么类型？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:464
 translate chinese sm1cs_bg001_more_talking_380b515b:
 
     # bg "Oh, well, uhm..."
-    bg "Oh, well, uhm..."
+    bg "噢，这个嘛，呃..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:467
 translate chinese sm1cs_bg001_more_talking_9b7c3935:
 
     # mct "Man, she is definitely nervous. I wasn't really expecting that."
-    mct "Man, she is definitely nervous. I wasn't really expecting that."
+    mct "哦，她明显很紧张。这倒出乎我的意料。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:469
 translate chinese sm1cs_bg001_more_talking_7290f611:
 
     # bg "Well... If I could do any shoot..."
-    bg "Well... If I could do any shoot..."
+    bg "嗯...如果真能随便拍的话..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:472
 translate chinese sm1cs_bg001_more_talking_dd9756fd:
 
     # bg "I've wanted to do a dom and sub shoot for forever... I've just never been able to find the right person to be a dom for me."
-    bg "I've wanted to do a dom and sub shoot for forever... I've just never been able to find the right person to be a dom for me."
+    bg "我一直想拍支配与臣服的戏码...就是始终找不到合适的支配者来配合我。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:475
 translate chinese sm1cs_bg001_more_talking_a31340dd_3:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:478
 translate chinese sm1cs_bg001_more_talking_e9ce241a:
 
     # bg "Uh huh. Most of the people I know are actually, like... Not kinky enough, or are weird about it..."
-    bg "Uh huh. Most of the people I know are actually, like... Not kinky enough, or are weird about it..."
+    bg "是啊。我身边认识的人...要么不够重口味，要么对这种事特别别扭..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:479
 translate chinese sm1cs_bg001_more_talking_08612bde:
 
     # bg "I've just never really gelled with anyone in a way that makes me want to call them 'Daddy'."
-    bg "I've just never really gelled with anyone in a way that makes me want to call them 'Daddy'."
+    bg "从来没遇到能让我心甘情愿喊'爸爸'的人。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:481
 translate chinese sm1cs_bg001_more_talking_934fc5ec:
 
     # mct "Man, she's a freak..."
-    mct "Man, she's a freak..."
+    mct "哇哦，原来她好这口..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:485
 translate chinese sm1cs_bg001_more_talking_54f9c339:
 
     # mct "I'd definitely let her call me Daddy, or Sir, or whatever."
-    mct "I'd definitely let her call me Daddy, or Sir, or whatever."
+    mct "我倒是不介意她叫我‘爸爸’或者‘主人’什么的。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:488
 translate chinese sm1cs_bg001_more_talking_c0aab76f:
 
     # mct "Hmm. That's not really my thing."
-    mct "Hmm. That's not really my thing."
+    mct "不过这种玩法其实不是我的菜。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:489
 translate chinese sm1cs_bg001_more_talking_7c4d28fb:
 
     # mct "But I hope Amore finds the right person for that."
-    mct "But I hope Amore finds the right person for that."
+    mct "但希望阿茉能找到合拍的人。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:493
 translate chinese sm1cs_bg001_more_talking_0f02b930:
 
     # mc "You know-"
-    mc "You know-"
+    mc "你知道--"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:498
 translate chinese sm1cs_bg001_more_talking_4005b7ef:
@@ -1022,105 +1022,105 @@ translate chinese sm1cs_bg001_more_talking_4005b7ef:
 translate chinese sm1cs_bg001_more_talking_73cb9ef5:
 
     # kv "Are you bugging my model while she's having a break?"
-    kv "Are you bugging my model while she's having a break?"
+    kv "你趁我的模特休息时骚扰她是不是？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:502
 translate chinese sm1cs_bg001_more_talking_4aa0639e:
 
     # mc "No! I'm just trying to get to know Amore better."
-    mc "No! I'm just trying to get to know Amore better."
+    mc "没！我只是想多了解阿茉。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:505
 translate chinese sm1cs_bg001_more_talking_a84af5d7:
 
     # kv "Amore?"
-    kv "Amore?"
+    kv "阿茉？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:508
 translate chinese sm1cs_bg001_more_talking_20e3f384:
 
     # bg "Yep, I finally picked a stage name."
-    bg "Yep, I finally picked a stage name."
+    bg "对，我终于想好艺名了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:511
 translate chinese sm1cs_bg001_more_talking_f8732447:
 
     # kv "Took you long enough!"
-    kv "Took you long enough!"
+    kv "早该定了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:512
 translate chinese sm1cs_bg001_more_talking_ea4fc47e:
 
     # kv "But I'm happy to hear it. Doesn't answer my question though."
-    kv "But I'm happy to hear it. Doesn't answer my question though."
+    kv "不过我很高兴听你这么说。但这不算回答我的问题。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:515
 translate chinese sm1cs_bg001_more_talking_fd5d6c1d:
 
     # mc "I mean... Technically she was eating, but I thought it was fine!"
-    mc "I mean... Technically she was eating, but I thought it was fine!"
+    mc "呃...严格来说，她只是在吃饭，我觉得聊聊没关系！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:518
 translate chinese sm1cs_bg001_more_talking_98da2b36:
 
     # kv "Aye yea yea. Let her finish her drink, [mcname]! She can't just sit around the studio all day in her mask."
-    kv "Aye yea yea. Let her finish her drink, [mcname]! She can't just sit around the studio all day in her mask."
+    kv "得了吧。让她喝完饮料行不行，[mcname]！总不能让人家整天戴着面具在摄影棚干坐着。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:521
 translate chinese sm1cs_bg001_more_talking_78fad35d:
 
     # bg "I wish I could."
-    bg "I wish I could."
+    bg "我倒希望能一直戴着。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:524
 translate chinese sm1cs_bg001_more_talking_90e4f3db:
 
     # kv "So you get out of here, and let her change."
-    kv "So you get out of here, and let her change."
+    kv "所以你现在赶紧出去，让她换衣服。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:529
 translate chinese sm1cs_bg001_more_talking_37f5dfa3:
 
     # mc "All right, all right! I'm going."
-    mc "All right, all right! I'm going."
+    mc "好吧好吧！这就走。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:532
 translate chinese sm1cs_bg001_more_talking_2e817404:
 
     # kv "Besides, you two are going to see each other again. Real soon."
-    kv "Besides, you two are going to see each other again. Real soon."
+    kv "再说了，你们很快会再合作的。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:536
 translate chinese sm1cs_bg001_more_talking_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "什么意思？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:539
 translate chinese sm1cs_bg001_more_talking_af03f096:
 
     # kv "I'll tell you when I need to, now get outta' here!"
-    kv "I'll tell you when I need to, now get outta' here!"
+    kv "该你知道的时候自然告诉你，现在快出去！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:543
 translate chinese sm1cs_bg001_more_talking_b4049bcb:
 
     # mc "All right! I'm gone. I'll see you later, Amore."
-    mc "All right! I'm gone. I'll see you later, Amore."
+    mc "遵命！阿茉，待会见。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:546
 translate chinese sm1cs_bg001_more_talking_e97f7743:
 
     # bg "See ya', [mcname]!"
-    bg "See ya', [mcname]!"
+    bg "回头见，[mcname]！"
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:482
     old "I'm into it"
-    new "I'm into it"
+    new "我挺有兴趣"
 
     # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:482
     old "Not really my thing"
-    new "Not really my thing"
+    new "不是我的菜"
 
