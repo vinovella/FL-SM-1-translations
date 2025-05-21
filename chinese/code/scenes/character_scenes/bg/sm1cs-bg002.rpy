@@ -830,199 +830,199 @@ translate chinese sm1cs_bg002_white_screen_bac0d1a1:
 translate chinese sm1cs_bg002_white_screen_b368f3d2:
 
     # kv "Must be uncomfortable... all cooped up in those pants of yours..."
-    kv "Must be uncomfortable... all cooped up in those pants of yours..."
+    kv "肯定很难受吧...就这样憋在裤子里..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:411
 translate chinese sm1cs_bg002_white_screen_abc5a711:
 
     # kv "Why don't you take them off?"
-    kv "Why don't you take them off?"
+    kv "不如把裤子脱了？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:414
 translate chinese sm1cs_bg002_white_screen_dc25ae36:
 
     # mc "What, my pants?"
-    mc "What, my pants?"
+    mc "什么？我的裤子？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:416
 translate chinese sm1cs_bg002_white_screen_e7387e37:
 
     # kv "Yeah, your pants!"
-    kv "Yeah, your pants!"
+    kv "对呀，就是你的裤子！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:419
 translate chinese sm1cs_bg002_white_screen_98f7b2b9:
 
     # mc "But Amore is here!"
-    mc "But Amore is here!"
+    mc "可阿茉还在这儿呢！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:421
 translate chinese sm1cs_bg002_white_screen_2136ffeb:
 
     # kv "So? I doubt she'll mind."
-    kv "So? I doubt she'll mind."
+    kv "那又怎样？她才不会介意。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:424
 translate chinese sm1cs_bg002_white_screen_50eec7db:
 
     # mc "Amore?"
-    mc "Amore?"
+    mc "阿茉？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:426
 translate chinese sm1cs_bg002_white_screen_d6d50148:
 
     # bg "Hmmm?"
-    bg "Hmmm?"
+    bg "嗯哼？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:429
 translate chinese sm1cs_bg002_white_screen_545a97cc:
 
     # mc "I'm going to take my pants off now."
-    mc "I'm going to take my pants off now."
+    mc "我现在要脱裤子了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:431
 translate chinese sm1cs_bg002_white_screen_d1cb0a25:
 
     # bg "Oh?"
-    bg "Oh?"
+    bg "哦？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:434
 translate chinese sm1cs_bg002_white_screen_2bbe8bf5:
 
     # kv "Yeah, for the shoot."
-    kv "Yeah, for the shoot."
+    kv "对，为了拍摄。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:436
 translate chinese sm1cs_bg002_white_screen_07b93be2:
 
     # bg "That sounds goooood to me."
-    bg "That sounds goooood to me."
+    bg "我觉得...很棒啊。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:447
 translate chinese sm1cs_bg002_continue_shoot_b6349627:
 
     # kv "We definitely have some good stuff already. But a few extra spicy ones never hurt."
-    kv "We definitely have some good stuff already. But a few extra spicy ones never hurt."
+    kv "素材已经够好了，不过再来点劲爆的也无妨。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:453
 translate chinese sm1cs_bg002_continue_shoot_63cf2417:
 
     # mc "All right, now what do you want me to do?"
-    mc "All right, now what do you want me to do?"
+    mc "好吧，现在要我怎么做？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:455
 translate chinese sm1cs_bg002_continue_shoot_a6dfed33:
 
     # kv "Hmmm... I'm not sure. How about-"
-    kv "Hmmm... I'm not sure. How about-"
+    kv "嗯...还没想好。要不--"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:461
 translate chinese sm1cs_bg002_continue_shoot_eeffb9b3:
 
     # kv "Perfect!"
-    kv "Perfect!"
+    kv "完美！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:463
 translate chinese sm1cs_bg002_continue_shoot_8e479415:
 
     # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    "*相机闪光灯声*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:464
 translate chinese sm1cs_bg002_continue_shoot_dca36c2e:
 
     # kv "Oh, that's excellent! Yes. Yes, yes, yes!"
-    kv "Oh, that's excellent! Yes. Yes, yes, yes!"
+    kv "太棒了！对，就是这样！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:467
 translate chinese sm1cs_bg002_continue_shoot_23dad97b:
 
     # mc "Damn, Amore. Really getting into it now!"
-    mc "Damn, Amore. Really getting into it now!"
+    mc "天，阿茉你居然这么投入！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:469
 translate chinese sm1cs_bg002_continue_shoot_8a9b2ef2:
 
     # bg "Yeah... I am... this is... wonderful."
-    bg "Yeah... I am... this is... wonderful."
+    bg "是啊...我...感觉...好爽..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:480
 translate chinese sm1cs_bg002_continue_shoot_be58a88f:
 
     # kv "Yeah, Amore... stroke [mcname]'s cock... feel his shaft gliding along your fingertips."
-    kv "Yeah, Amore... stroke [mcname]'s cock... feel his shaft gliding along your fingertips."
+    kv "对，阿茉...摸[mcname]的鸡巴...用指尖感受他肉棒的脉动..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:482
 translate chinese sm1cs_bg002_continue_shoot_d23cc7df:
 
     # kv "Mmmm, that goldilocks pressure, too. Not too hard, not too soft..."
-    kv "Mmmm, that goldilocks pressure, too. Not too hard, not too soft..."
+    kv "嗯...力道也恰到好处，不轻不重..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:485
 translate chinese sm1cs_bg002_continue_shoot_c56612d4:
 
     # mc "Oh shit, Amore. That feels great!"
-    mc "Oh shit, Amore. That feels great!"
+    mc "操，阿茉！太舒服了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:491
 translate chinese sm1cs_bg002_continue_shoot_c7ab7bc9:
 
     # kv "This was definitely unexpected, but God do these photos look good!"
-    kv "This was definitely unexpected, but God do these photos look good!"
+    kv "虽然出乎我的意料，但拍出来的效果简直绝了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:493
 translate chinese sm1cs_bg002_continue_shoot_8e479415_1:
 
     # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    "*相机闪光灯声*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:496
 translate chinese sm1cs_bg002_continue_shoot_3d1d69eb:
 
     # mc "Fuuuck, Amore."
-    mc "Fuuuck, Amore."
+    mc "妈的...阿茉..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:504
 translate chinese sm1cs_bg002_continue_shoot_d9051f43:
 
     # bg "Do you like this, [mcname]?"
-    bg "Do you like this, [mcname]?"
+    bg "你喜欢这样吗，[mcname]？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:505
 translate chinese sm1cs_bg002_continue_shoot_dd20112e:
 
     # mc "Yes, you're doing such a good job."
-    mc "Yes, you're doing such a good job."
+    mc "爱死了，你做得太棒了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:508
 translate chinese sm1cs_bg002_continue_shoot_335d4549:
 
     # bg "S-say that again."
-    bg "S-say that again."
+    bg "再...再说一次..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:509
 translate chinese sm1cs_bg002_continue_shoot_e6f7e6ae:
 
     # mc "You're stroking my cock so well, Amore."
-    mc "You're stroking my cock so well, Amore."
+    mc "你给我撸肉棒的手法太棒了，阿茉。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:511
 translate chinese sm1cs_bg002_continue_shoot_831f8981:
 
     # mc "Just like a good girl."
-    mc "Just like a good girl."
+    mc "真是个好姑娘。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:514
 translate chinese sm1cs_bg002_continue_shoot_e9ae9cba:
 
     # bg "O-oh, fuck..."
-    bg "O-oh, fuck..."
+    bg "啊...要死了..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:520
 translate chinese sm1cs_bg002_continue_shoot_25c2b167:
 
     # kv "Oh, does our little Amore have a bit of a praise kink? Does she like being a good girl?"
-    kv "Oh, does our little Amore have a bit of a praise kink? Does she like being a good girl?"
+    kv "哦？我们的小阿茉原来喜欢被夸奖？想被夸乖孩子呀？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:521
 translate chinese sm1cs_bg002_continue_shoot_2b06504c:
@@ -1034,97 +1034,97 @@ translate chinese sm1cs_bg002_continue_shoot_2b06504c:
 translate chinese sm1cs_bg002_continue_shoot_3b27d3bf:
 
     # kv "Haha! She does! Well I can say this much, you're definitely being a good girl for [mcname]!"
-    kv "Haha! She does! Well I can say this much, you're definitely being a good girl for [mcname]!"
+    kv "哈哈！被我说中了！我可以这么说，你确实把[mcname]伺候得很舒服！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:528
 translate chinese sm1cs_bg002_continue_shoot_4ccfb190:
 
     # kv "But, you know what they say about handjobs."
-    kv "But, you know what they say about handjobs."
+    kv "不过，你知道手活的关键是什么吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:530
 translate chinese sm1cs_bg002_continue_shoot_d6b0205c:
 
     # bg "Uhm, no?"
-    bg "Uhm, no?"
+    bg "唔...不知道？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:531
 translate chinese sm1cs_bg002_continue_shoot_4c0741cb:
 
     # kv "They're better when you use your mouth."
-    kv "They're better when you use your mouth."
+    kv "上嘴的话，会更棒哦。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:534
 translate chinese sm1cs_bg002_continue_shoot_24ff3a75:
 
     # bg "I..."
-    bg "I..."
+    bg "我..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:536
 translate chinese sm1cs_bg002_continue_shoot_dc2858f9:
 
     # mc "It's okay, Amore. You don't have to do anything."
-    mc "It's okay, Amore. You don't have to do anything."
+    mc "没关系阿茉，你不用勉强。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:540
 translate chinese sm1cs_bg002_continue_shoot_f83f44e4:
 
     # kv "Mmmmm, well if you don't want it."
-    kv "Mmmmm, well if you don't want it."
+    kv "嗯，既然你不想的话..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:541
 translate chinese sm1cs_bg002_continue_shoot_ab2365bb:
 
     # kv "Don't mind if I do!"
-    kv "Don't mind if I do!"
+    kv "那就让我来吧！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:553
 translate chinese sm1cs_bg002_continue_shoot_60de4160:
 
     # kv "Glllllcccccck, glllllckkkkkkk!"
-    kv "Glllllcccccck, glllllckkkkkkk!"
+    kv "咕噜噜噜...咕噜噜..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:555
 translate chinese sm1cs_bg002_continue_shoot_60f80c98:
 
     # mc "Oh shit, Kanya!"
-    mc "Oh shit, Kanya!"
+    mc "卧槽！康雅！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:558
 translate chinese sm1cs_bg002_continue_shoot_b7865286:
 
     # bg "She just went straight for it, damn..."
-    bg "She just went straight for it, damn..."
+    bg "直接就含上去了...天啊..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:561
 translate chinese sm1cs_bg002_continue_shoot_d2500fe7:
 
     # mc "God, Kanya - that feels amazing!"
-    mc "God, Kanya - that feels amazing!"
+    mc "天啊...康雅...太爽了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:562
 translate chinese sm1cs_bg002_continue_shoot_77e4b182:
 
     # kv "Huuuuaacccck, huuuuuack, gllllcccckk!"
-    kv "Huuuuaacccck, huuuuuack, gllllcccckk!"
+    kv "哈啊...咕...唔嗯..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:565
 translate chinese sm1cs_bg002_continue_shoot_00443dd8:
 
     # mc "Fuuuuuuuckkkk!"
-    mc "Fuuuuuuuckkkk!"
+    mc "操操操！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:569
 translate chinese sm1cs_bg002_continue_shoot_7c7b5df7:
 
     # bg "{size=*0.6}This is so hot...{/size}"
-    bg "{size=*0.6}This is so hot...{/size}"
+    bg "{size=*0.6}太刺激了...{/size}"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:570
 translate chinese sm1cs_bg002_continue_shoot_9b9b7950:
 
     # bg "{size=*0.6}I... I want that...{/size}"
-    bg "{size=*0.6}I... I want that...{/size}"
+    bg "{size=*0.6}我...我也想要...{/size}"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:573
 translate chinese sm1cs_bg002_continue_shoot_ce17f686:
