@@ -2,265 +2,265 @@
 translate chinese sm1cs_bg003_52204566:
 
     # kv "Yeah? What?"
-    kv "Yeah? What?"
+    kv "嗯？怎么了？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:36
 translate chinese sm1cs_bg003_82e39ed5:
 
     # bg "You haven't shown [mcname] the photos yet?"
-    bg "You haven't shown [mcname] the photos yet?"
+    bg "你还没给[mcname]看照片吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:39
 translate chinese sm1cs_bg003_7ba6c240:
 
     # kv "I, like, just finished them."
-    kv "I, like, just finished them."
+    kv "我、我这才刚弄好。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:42
 translate chinese sm1cs_bg003_393c06ec:
 
     # bg "Come on! We have to show him!"
-    bg "Come on! We have to show him!"
+    bg "快点嘛！必须让他看看！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:45
 translate chinese sm1cs_bg003_5b68d6dc:
 
     # kv "All right, don't get your panties in a twist, Amore."
-    kv "All right, don't get your panties in a twist, Amore."
+    kv "好好好，别急得跳脚啊阿茉。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:48
 translate chinese sm1cs_bg003_919c6f8e:
 
     # bg "What! I'm just excited!"
-    bg "What! I'm just excited!"
+    bg "哪有！我就是很兴奋！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:52
 translate chinese sm1cs_bg003_6ac54f32:
 
     # bg "I think they turned out so good."
-    bg "I think they turned out so good."
+    bg "我觉得成品效果超级棒。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:55
 translate chinese sm1cs_bg003_68fa01f7:
 
     # mc "I can tell."
-    mc "I can tell."
+    mc "看出来了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:58
 translate chinese sm1cs_bg003_5ae7cf70:
 
     # mc "And there's nothing wrong with that! I have to say I'm pretty excited to see them."
-    mc "And there's nothing wrong with that! I have to say I'm pretty excited to see them."
+    mc "这有什么不好意思的？说实话我也超期待看成品。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:61
 translate chinese sm1cs_bg003_2f768388:
 
     # bg "Oh yeah?"
-    bg "Oh yeah?"
+    bg "真的吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:64
 translate chinese sm1cs_bg003_a2271655:
 
     # mc "Yeah! Are you kidding me? I bet they look super hot."
-    mc "Yeah! Are you kidding me? I bet they look super hot."
+    mc "那当然！你在开玩笑吧，成品肯定火辣到爆。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:68
 translate chinese sm1cs_bg003_96f60271:
 
     # kv "Well, you can see for yourself."
-    kv "Well, you can see for yourself."
+    kv "那你自己亲眼看看。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:72
 translate chinese sm1cs_bg003_2c9a23fd:
 
     # mc "Wow..."
-    mc "Wow..."
+    mc "哇..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:75
 translate chinese sm1cs_bg003_9c34c041:
 
     # bg "Right!?"
-    bg "Right!?"
+    bg "对吧!?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:79
 translate chinese sm1cs_bg003_8019b235:
 
     # mc "Those are..."
-    mc "Those are..."
+    mc "这些..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:83
 translate chinese sm1cs_bg003_65534fec:
 
     # mc "Holy shit."
-    mc "Holy shit."
+    mc "我去。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:87
 translate chinese sm1cs_bg003_f3fa90f9:
 
     # mc "Those are {i}super{/i} hot."
-    mc "Those are {i}super{/i} hot."
+    mc "简直{i}辣到让人流鼻血{/i}。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:89
 translate chinese sm1cs_bg003_05c024ee:
 
     # bg "And that's not even my favorite one!"
-    bg "And that's not even my favorite one!"
+    bg "这还不是我最满意的一张呢！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:91
 translate chinese sm1cs_bg003_1428c0cb:
 
     # kv "Mine neither."
-    kv "Mine neither."
+    kv "我也觉得。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:95
 translate chinese sm1cs_bg003_6f7039ce:
 
     # mc "Goddamn..."
-    mc "Goddamn..."
+    mc "天啊..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:99
 translate chinese sm1cs_bg003_9a775dd8:
 
     # bg "Uh huh. We nailed this shoot."
-    bg "Uh huh. We nailed this shoot."
+    bg "嗯哼，我们这次拍摄相当成功。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:103
 translate chinese sm1cs_bg003_8b9e0f13:
 
     # kv "You both really did. But..."
-    kv "You both really did. But..."
+    kv "你们俩确实表现力爆棚。不过..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:107
 translate chinese sm1cs_bg003_33b5787c:
 
     # kv "This one is probably my favorite."
-    kv "This one is probably my favorite."
+    kv "这张可能是我最喜欢的。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:109
 translate chinese sm1cs_bg003_ec288f63:
 
     # bg "Same."
-    bg "Same."
+    bg "我也是。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:116
 translate chinese sm1cs_bg003_0f592884:
 
     # mc "Kanya... these are incredible."
-    mc "Kanya... these are incredible."
+    mc "康雅...你拍得太绝了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:120
 translate chinese sm1cs_bg003_6581fe71:
 
     # kv "I know."
-    kv "I know."
+    kv "我知道。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:123
 translate chinese sm1cs_bg003_aae8ce7b:
 
     # mc "Seriously... you did an incredible job."
-    mc "Seriously... you did an incredible job."
+    mc "说真的...你技术太神了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:126
 translate chinese sm1cs_bg003_9b2fe9cd:
 
     # kv "Hey, a photographer can only achieve greatness if her models are great. And you two showed some real chemistry."
-    kv "Hey, a photographer can only achieve greatness if her models are great. And you two showed some real chemistry."
+    kv "喂，再厉害的摄影师也得有好模特才行。你俩的化学反应简直了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:129
 translate chinese sm1cs_bg003_10dee4ef:
 
     # mc "You think so?"
-    mc "You think so?"
+    mc "你真这么觉得？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:132
 translate chinese sm1cs_bg003_7ddb5465:
 
     # kv "I don't need to \"think\". I have evidence."
-    kv "I don't need to \"think\". I have evidence."
+    kv "不需要我\"觉得\"，我有铁证。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:135
 translate chinese sm1cs_bg003_32e8f3be:
 
     # bg "Yeah..."
-    bg "Yeah..."
+    bg "嗯..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:138
 translate chinese sm1cs_bg003_c990d200:
 
     # kv "Come on, out with it."
-    kv "Come on, out with it."
+    kv "别憋着了，说吧。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:141
 translate chinese sm1cs_bg003_976bc655:
 
     # mc "Out with what?"
-    mc "Out with what?"
+    mc "说什么？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:144
 translate chinese sm1cs_bg003_c32d2745:
 
     # kv "Our little resident freak has something she wants to ask you."
-    kv "Our little resident freak has something she wants to ask you."
+    kv "我们的小变态有话想问你。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:148
 translate chinese sm1cs_bg003_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "Oh yeah?"
+    mc "哦？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:151
 translate chinese sm1cs_bg003_5133eb8d:
 
     # bg "Uhm..."
-    bg "Uhm..."
+    bg "那个..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:152
 translate chinese sm1cs_bg003_aba048b6:
 
     # bg "I was wondering if you wanted to do another shoot..."
-    bg "I was wondering if you wanted to do another shoot..."
+    bg "我在想...你要不要再约一次拍摄..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:155
 translate chinese sm1cs_bg003_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:158
 translate chinese sm1cs_bg003_84e7214e:
 
     # bg "The last one was... it was incredible."
-    bg "The last one was... it was incredible."
+    bg "上次实在...太美妙了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:159
 translate chinese sm1cs_bg003_d8a22422:
 
     # bg "I've never felt so... hot. And I want to do it again."
-    bg "I've never felt so... hot. And I want to do it again."
+    bg "我从没觉得自己这么...性感过。还想再体验一次。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:162
 translate chinese sm1cs_bg003_0a5d48af:
 
     # mc "Okay! Yeah, I'd love to!"
-    mc "Okay! Yeah, I'd love to!"
+    mc "好啊！我求之不得！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:165
 translate chinese sm1cs_bg003_a68a6f0a:
 
     # bg "Awesome!"
-    bg "Awesome!"
+    bg "太棒了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:170
 translate chinese sm1cs_bg003_793ce495:
 
     # kv "Let me grab my camera and we can get going!"
-    kv "Let me grab my camera and we can get going!"
+    kv "等我去拿相机，马上开工！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:171
 translate chinese sm1cs_bg003_d1760465:
 
     # kv "But you and Amore need to change, [mcname]."
-    kv "But you and Amore need to change, [mcname]."
+    kv "不过你和阿茉得先换衣服，[mcname]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:174
 translate chinese sm1cs_bg003_05500ff6:
