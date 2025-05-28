@@ -470,43 +470,43 @@ translate chinese sm1cs_dc002_598df679:
 translate chinese sm1cs_dc002_fe964b05:
 
     # mc "It's okay, don't worry about it. You're trying to stop a creep from harassing women, and I love women! Don't even think twice about it."
-    mc "没事，别往心里去。你是在阻止变态骚扰女生哎，而我爱女生爱的要死！完全不用在意。"
+    mc "没事，别往心里去。你是在阻止变态骚扰女生哎，而我很尊重女生的！完全不用在意这个。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:323
 translate chinese sm1cs_dc002_94658191:
 
     # dc "Good. But I owe you one for helping out."
-    dc "那就好。不过帮忙的事我欠你一次。"
+    dc "那就好。不过这次你帮忙了，我欠你个人情。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:326
 translate chinese sm1cs_dc002_43aeb882:
 
     # mc "I'll have to take you up on that."
-    mc "这份人情我记下了。"
+    mc "我可记着你这话了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:328
 translate chinese sm1cs_dc002_ec275c7d:
 
     # dc "Please do! I, uh, don't have any ideas right now of how to pay you back, but I'll think of something!"
-    dc "尽管提！呃...虽然现在还没想好怎么还，但总会想到的！"
+    dc "尽管记住！呃...虽然我现在还没想好怎么回报你，但总会想到的！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:331
 translate chinese sm1cs_dc002_0dad9679:
 
     # dc "But I should get home. Technically I'm not on duty right now."
-    dc "我该回去了。严格来说现在不算执勤时间。"
+    dc "不过我该回去了。严格来说，我现在不算执勤。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:332
 translate chinese sm1cs_dc002_079aeb9e:
 
     # dc "But you can always find me on the park beat. Don't be a stranger!"
-    dc "不过公园巡逻常能找到我。记得常来找我！"
+    dc "但你随时能在公园巡逻区找到我。别见外啊！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:335
 translate chinese sm1cs_dc002_450bc632:
 
     # mc "I won't!"
-    mc "一定！"
+    mc "不会的！"
 
 translate chinese strings:
 
@@ -524,5 +524,5 @@ translate chinese strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:177
     old "Check out the nude jogger"
-    new "偷看裸跑姑娘"
+    new "偷看裸身慢跑的人"
 
