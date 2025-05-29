@@ -590,57 +590,57 @@ translate chinese sm1cs_dc003_bca6bcfd:
 translate chinese sm1cs_dc003_68fca3f6:
 
     # mc "Oh, well I'm sorry I kept you too long."
-    mc "Oh, well I'm sorry I kept you too long."
+    mc "啊，抱歉耽误你这么久。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:292
 translate chinese sm1cs_dc003_e85e327e:
 
     # dc "Uhm - yeah, no. It-it's okay."
-    dc "Uhm - yeah, no. It-it's okay."
+    dc "呃--没、没关系。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:295
 translate chinese sm1cs_dc003_ef589775:
 
     # mc "Well we should do this again-"
-    mc "Well we should do this again-"
+    mc "那我们改天再--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:298
 translate chinese sm1cs_dc003_39204298:
 
     # dc "Uh, yeah. We'll - uhm. Uh huh!"
-    dc "Uh, yeah. We'll - uhm. Uh huh!"
+    dc "呃，好啊。我们可以--嗯。对！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:301
 translate chinese sm1cs_dc003_f56b6f90:
 
     # mct "Did I say something weird?"
-    mct "Did I say something weird?"
+    mct "我说错什么了吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:305
 translate chinese sm1cs_dc003_82042db3:
 
     # mct "Do I have bad breath or something?"
-    mct "Do I have bad breath or something?"
+    mct "难道我有口臭？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:308
 translate chinese sm1cs_dc003_3d59e736:
 
     # mct "Nope, smells minty fresh... I wonder what happened?"
-    mct "Nope, smells minty fresh... I wonder what happened?"
+    mct "不会啊，明明有薄荷清香...到底怎么回事？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:310
 translate chinese sm1cs_dc003_77f83bea:
 
     # mct "I should ask Debbie... Maybe give her a day or two though before I do."
-    mct "I should ask Debbie... Maybe give her a day or two though before I do."
+    mct "我得问问黛比...不过也许该给她一两天缓缓。"
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:260
     old "Flirt"
-    new "Flirt"
+    new "调情"
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:260
     old "Compliment"
-    new "Compliment"
+    new "赞美"
 
