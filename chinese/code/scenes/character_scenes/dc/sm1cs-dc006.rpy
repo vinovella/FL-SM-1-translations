@@ -194,7 +194,7 @@ translate chinese sm1cs_dc006_180f30a4:
 translate chinese sm1cs_dc006_2b4b0363:
 
     # mc "I'll make you a deal. If you tell me what's been bothering you, I'll tell you something about Fetish Locator."
-    mc "我们做个交易吧。你告诉我最近在烦恼什么，我就跟你说些性癖定位器的事。"
+    mc "我们做个交易吧。你告诉我最近在烦恼什么，我就跟你说些性趣探测器的事。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:112
 translate chinese sm1cs_dc006_6ce99d90:
@@ -398,7 +398,7 @@ translate chinese sm1cs_dc006_1b199792:
 translate chinese sm1cs_dc006_662dac76:
 
     # dc "I didn't ever really feel like I fit in. Well, kind of. I guess... I just never really got to feel like me."
-    dc "我总觉得自己融不进去。怎么说呢，我好像…… 从没真正做过自己。"
+    dc "我总觉得自己融不进去。怎么说呢，我好像...从没真正做过自己。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:206
 translate chinese sm1cs_dc006_a5060ced:
