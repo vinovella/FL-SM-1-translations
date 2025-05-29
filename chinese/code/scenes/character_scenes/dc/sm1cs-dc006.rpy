@@ -686,269 +686,269 @@ translate chinese sm1cs_dc006_at_park_fc20c130:
 translate chinese sm1cs_dc006_at_park_e284eeee:
 
     # mc "Debbie, what's up?"
-    mc "Debbie, what's up?"
+    mc "黛比，怎么了？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:347
 translate chinese sm1cs_dc006_at_park_14d101dd:
 
     # dc "I really need to tell you this... thing."
-    dc "I really need to tell you this... thing."
+    dc "我必须把这事...告诉你。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:348
 translate chinese sm1cs_dc006_at_park_e1c41399:
 
     # mc "Okay, well I'm here now, and you can tell me."
-    mc "Okay, well I'm here now, and you can tell me."
+    mc "好啊，我就在这儿听着呢。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:351
 translate chinese sm1cs_dc006_at_park_c4fc5340:
 
     # dc "Okay, uhm..."
-    dc "Okay, uhm..."
+    dc "好吧，呃..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:352
 translate chinese sm1cs_dc006_at_park_06c5fb5a:
 
     # dc "So, before I moved here..."
-    dc "So, before I moved here..."
+    dc "在我搬来之前..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:353
 translate chinese sm1cs_dc006_at_park_f27a172e:
 
     # dc "I... Well, I used to be different. I... uhm..."
-    dc "I... Well, I used to be different. I... uhm..."
+    dc "我...嗯，那时候的我和现在不一样。我...呃..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:354
 translate chinese sm1cs_dc006_at_park_62c848c0:
 
     # dc "I didn't feel like I was... me, yet."
-    dc "I didn't feel like I was... me, yet."
+    dc "那时候的我感觉...不像自己，真正的自己。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:363
 translate chinese sm1cs_dc006_at_park_5f1b3e13:
 
     # dc "So, I-"
-    dc "So, I-"
+    dc "所以我--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:365
 translate chinese sm1cs_dc006_at_park_16b05ad9:
 
     # mc "Debbie?"
-    mc "Debbie?"
+    mc "黛比？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:367
 translate chinese sm1cs_dc006_at_park_650ec104:
 
     # dc "[mcname], I-"
-    dc "[mcname], I-"
+    dc "[mcname]，我--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:370
 translate chinese sm1cs_dc006_at_park_62fa7a73:
 
     # mc "Is that the creep over there?"
-    mc "Is that the creep over there?"
+    mc "那边是不是那个变态？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:380
 translate chinese sm1cs_dc006_at_park_c680609a:
 
     # dc "Creep! Freeze!"
-    dc "Creep! Freeze!"
+    dc "变态！站住！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:386
 translate chinese sm1cs_dc006_at_park_902b991c:
 
     # "Creep" "Oink, oink, bacon!"
-    "Creep" "Oink, oink, bacon!"
+    "变态" "哼哼，猪猪警官来啦！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:388
 translate chinese sm1cs_dc006_at_park_3de3da24:
 
     # mc "Wait, Debbie!"
-    mc "Wait, Debbie!"
+    mc "等等，黛比！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:391
 translate chinese sm1cs_dc006_at_park_c3b81b15:
 
     # dc "I will get you, you sonuvabitch!"
-    dc "I will get you, you sonuvabitch!"
+    dc "这次一定要抓住你个狗娘养的！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:393
 translate chinese sm1cs_dc006_at_park_9eedbba7:
 
     # "Creep" "You'll never take me alive!"
-    "Creep" "You'll never take me alive!"
+    "变态" "你们别想活捉我！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:396
 translate chinese sm1cs_dc006_at_park_c585f227:
 
     # mct "Gah - this guy is fast!"
-    mct "Gah - this guy is fast!"
+    mct "靠--这家伙跑得真快！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:405
 translate chinese sm1cs_dc006_at_park_99878731:
 
     # dc "Gotcha'!"
-    dc "Gotcha'!"
+    dc "逮到你了！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:407
 translate chinese sm1cs_dc006_at_park_c46906f4:
 
     # "Creep" "Not quite!"
-    "Creep" "Not quite!"
+    "变态" "还差得远呢！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:414
 translate chinese sm1cs_dc006_at_park_64491fce:
 
     # "Creep" "Until next time! Hahahaha!"
-    "Creep" "Until next time! Hahahaha!"
+    "变态" "下次再见！哈哈哈！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:420
 translate chinese sm1cs_dc006_at_park_0314ba89:
 
     # dc "Gah! You bastard! I will get you!!"
-    dc "Gah! You bastard! I will get you!!"
+    dc "操！王八蛋！我一定会抓住你的！！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:423
 translate chinese sm1cs_dc006_at_park_4566c62f:
 
     # mc "Shit... Did he... get... away?"
-    mc "Shit... Did he... get... away?"
+    mc "靠...他...跑...掉了？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:426
 translate chinese sm1cs_dc006_at_park_7c1a859d:
 
     # dc "Yeah, the bastard literally slipped through my fingers!"
-    dc "Yeah, the bastard literally slipped through my fingers!"
+    dc "是啊，那混蛋竟然从我指缝里溜走了！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:428
 translate chinese sm1cs_dc006_at_park_307d02b1:
 
     # mc "But... at least... you've gotten... something?"
-    mc "But... at least... you've gotten... something?"
+    mc "不过...至少...你拿到了点线索？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:435
 translate chinese sm1cs_dc006_at_park_35c00b3c:
 
     # dc "It's not enough. Dammit!"
-    dc "It's not enough. Dammit!"
+    dc "这还远远不够。该死！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:442
 translate chinese sm1cs_dc006_at_park_b8a803d5:
 
     # mc "You'll get him Debbie, I know it."
-    mc "You'll get him Debbie, I know it."
+    mc "你一定能抓住他的，黛比，我相信你。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:445
 translate chinese sm1cs_dc006_at_park_011f06e4:
 
     # dc "Thanks, [mcname]..."
-    dc "Thanks, [mcname]..."
+    dc "谢谢，[mcname]..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:450
 translate chinese sm1cs_dc006_at_park_51886158:
 
     # mc "He wouldn't be a slippery bastard if he wasn't... slippery."
-    mc "He wouldn't be a slippery bastard if he wasn't... slippery."
+    mc "他要是不滑头，不那么难对付，也不配叫变态了..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:452
 translate chinese sm1cs_dc006_at_park_6ce4cbe3_1:
 
     # dc "Yeah..."
-    dc "Yeah..."
+    dc "是啊..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:459
 translate chinese sm1cs_dc006_at_park_1501e18b:
 
     # dc "[mcname]... I..."
-    dc "[mcname]... I..."
+    dc "[mcname]...我..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:462
 translate chinese sm1cs_dc006_at_park_fce3af4d:
 
     # dc "I have a dick!"
-    dc "I have a dick!"
+    dc "我有鸡巴！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:465
 translate chinese sm1cs_dc006_at_park_47f0ea46:
 
     # mc "Wha..."
-    mc "Wha..."
+    mc "什..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:468
 translate chinese sm1cs_dc006_at_park_581f08ae:
 
     # dc "I've been trying to tell you all morning. I... transitioned back in my hometown because I never felt like {i}me{/i}. Now I do."
-    dc "I've been trying to tell you all morning. I... transitioned back in my hometown because I never felt like {i}me{/i}. Now I do."
+    dc "我整个早上都想告诉你。我...在家乡做了变性手术，因为以前总觉得不像{i}真正的自己{/i}。现在我终于做回自己了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:472
 translate chinese sm1cs_dc006_at_park_19ea7790:
 
     # dc "But, I've talked to a lot of guys who... can't handle that."
-    dc "But, I've talked to a lot of guys who... can't handle that."
+    dc "但是，我跟很多男人聊过，他们...接受不了这个。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:477
 translate chinese sm1cs_dc006_at_park_dc58e40c:
 
     # dc "This is, uhm... the station. I need to take this."
-    dc "This is, uhm... the station. I need to take this."
+    dc "呃，这是...警局电话。我得接。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:478
 translate chinese sm1cs_dc006_at_park_22778910:
 
     # dc "I... I'll understand if you don't want to talk to me anymore. You wouldn't be the first."
-    dc "I... I'll understand if you don't want to talk to me anymore. You wouldn't be the first."
+    dc "如果...如果你不想再跟我说话，我也理解。你不是第一个这样的人。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:481
 translate chinese sm1cs_dc006_at_park_e7f8c85e:
 
     # dc "I'll... it was nice getting to know you, [mcname]."
-    dc "I'll... it was nice getting to know you, [mcname]."
+    dc "我会...认识你很开心，[mcname]。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:489
 translate chinese sm1cs_dc006_at_park_3de3da24_1:
 
     # mc "Wait, Debbie!"
-    mc "Wait, Debbie!"
+    mc "等等，黛比！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:490
 translate chinese sm1cs_dc006_at_park_558be63e:
 
     # mc "I {i}will{/i} see you around. Hopefully I can catch you on a day where things are less crazy, and we can have a {i}real{/i} coffee date."
-    mc "I {i}will{/i} see you around. Hopefully I can catch you on a day where things are less crazy, and we can have a {i}real{/i} coffee date."
+    mc "我们{i}肯定{/i}还会再见。希望下次能找个不那么疯狂的日子，咱们好好来场{i}正经{/i}的咖啡约会。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:493
 translate chinese sm1cs_dc006_at_park_9e375c9e:
 
     # dc "I would like that. I would like that a lot."
-    dc "I would like that. I would like that a lot."
+    dc "我很期待。非常期待。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:498
 translate chinese sm1cs_dc006_at_park_adecc7f3:
 
     # mct "Woah... that's a lot to take in..."
-    mct "Woah... that's a lot to take in..."
+    mct "哇哦...信息量有点大..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:503
 translate chinese sm1cs_dc006_at_park_c5d95126:
 
     # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w}I know, sir..."
-    dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w}I know, sir..."
+    dc "我是卡拉汉警官...{w}我知道。我到的时候他刚好逃跑...{w}明白，长官..."
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:436
     old "Reassure her"
-    new "Reassure her"
+    new "让她放心"
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:436
     old "Crack a joke"
-    new "Crack a joke"
+    new "开个玩笑"
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
     old "Stop Debbie"
-    new "Stop Debbie"
+    new "拦住黛比"
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
     old "Let her take the call"
-    new "Let her take the call"
+    new "让她接电话"
 
