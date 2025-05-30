@@ -440,125 +440,125 @@ translate chinese sm1cs_kv002_94c69e23:
 translate chinese sm1cs_kv002_2cd8e858:
 
     # kv "Well, you've definitely got a good eye. It's no Guy Bourdin, but there's a bit of talent in these photos."
-    kv "Well, you've definitely got a good eye. It's no Guy Bourdin, but there's a bit of talent in these photos."
+    kv "嗯，你确实很有眼光。虽然还赶不上大师级水准，但这些照片里能看出天赋。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:231
 translate chinese sm1cs_kv002_97a64fa5:
 
     # kv "Maybe you do have what it takes to open a porn studio."
-    kv "Maybe you do have what it takes to open a porn studio."
+    kv "说不定你真有开色情工作室的本事。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:234
 translate chinese sm1cs_kv002_ba853102:
 
     # mc "It is the dream."
-    mc "It is the dream."
+    mc "这可是我的梦想。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:236
 translate chinese sm1cs_kv002_f331b902:
 
     # kv "I think I should stop by and check it out."
-    kv "I think I should stop by and check it out."
+    kv "我想我该抽空去看看你们的场地。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:238
 translate chinese sm1cs_kv002_5844ae44:
 
     # mc "Hell yeah."
-    mc "Hell yeah."
+    mc "必须的！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:242
 translate chinese sm1cs_kv002_459dd9e6:
 
     # kv "You're ridiculous."
-    kv "You're ridiculous."
+    kv "你这人真搞笑。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:244
 translate chinese sm1cs_kv002_17239b3c:
 
     # mc "It's probably my best trait, if I'm honest."
-    mc "It's probably my best trait, if I'm honest."
+    mc "老实说，这可能是我最大的优点了。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:247
 translate chinese sm1cs_kv002_f156bf59:
 
     # kv "I don't know if it's your {i}best{/i} trait, but it's up there."
-    kv "I don't know if it's your {i}best{/i} trait, but it's up there."
+    kv "我不知道这算不算你{i}最大的{/i}优点，但肯定排得上号。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:248
 translate chinese sm1cs_kv002_9337074a:
 
     # mct "Is she... Flirting with me?"
-    mct "Is she... Flirting with me?"
+    mct "她这是在...跟我调情吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:251
 translate chinese sm1cs_kv002_3ee97022:
 
     # kv "You just let me know when I can stop by."
-    kv "You just let me know when I can stop by."
+    kv "你定好时间，就告诉我什么时候能去参观。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:253
 translate chinese sm1cs_kv002_1559a009:
 
     # mc "Definitely! I'll call you. In fact..."
-    mc "Definitely! I'll call you. In fact..."
+    mc "一定！我会联系你。其实..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:257
 translate chinese sm1cs_kv002_87442d6e:
 
     # mc "That's my address. Send me a message when you want to stop by."
-    mc "That's my address. Send me a message when you want to stop by."
+    mc "这是地址。你想来的时候，就发消息给我。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:259
 translate chinese sm1cs_kv002_15ff6a8a:
 
     # kv "Oh, I will!"
-    kv "Oh, I will!"
+    kv "哦，我会的！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:262
 translate chinese sm1cs_kv002_db30c400:
 
     # kv "But I've actually got to get going. I've got an at home session to run too."
-    kv "But I've actually got to get going. I've got an at home session to run too."
+    kv "不过现在我真得走了，还有个私人拍摄预约。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:264
 translate chinese sm1cs_kv002_5ef609b1:
 
     # mc "Oh, shit, sorry!"
-    mc "Oh, shit, sorry!"
+    mc "哦，抱歉耽误你时间了！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:265
 translate chinese sm1cs_kv002_20a4d082:
 
     # kv "Don't worry about it. It's a long time client of mine and... It's a bit of an unusual shoot. But you should give me a call soon!"
-    kv "Don't worry about it. It's a long time client of mine and... It's a bit of an unusual shoot. But you should give me a call soon!"
+    kv "没关系。是个合作很久的客户了，而且...拍摄内容有点特别。总之你记得尽快联系我！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:268
 translate chinese sm1cs_kv002_412bb0e3:
 
     # mc "I will!"
-    mc "I will!"
+    mc "我会的！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:270
 translate chinese sm1cs_kv002_68a0b075:
 
     # kv "You better!"
-    kv "You better!"
+    kv "最好说到做到！"
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:151
     old "Okay"
-    new "Okay"
+    new "好的"
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:151
     old "I don't know..."
-    new "I don't know..."
+    new "我不知道..."
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:205
     old "You must get bored at those"
-    new "You must get bored at those"
+    new "拍那些很无聊吧"
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:205
     old "Beats sitting in an office"
-    new "Beats sitting in an office"
+    new "总比坐办公室强"
 
