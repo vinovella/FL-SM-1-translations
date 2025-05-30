@@ -104,7 +104,7 @@ translate chinese sm1cs_kv001_34cd519f:
 translate chinese sm1cs_kv001_54ca141c:
 
     # kv "Were you a part of Fetish Locator?"
-    kv "你参与过性癖定位器吗？"
+    kv "你参与过性趣探测器吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:77
 translate chinese sm1cs_kv001_66aeb13e:
@@ -152,7 +152,7 @@ translate chinese sm1cs_kv001_27805947:
 translate chinese sm1cs_kv001_84e5d310:
 
     # mc "But I'm not here about FL."
-    mc "不过我今天来不是为了性癖定位器的事。"
+    mc "不过我今天来不是为了性趣探测器的事。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:94
 translate chinese sm1cs_kv001_1556d6cd:
