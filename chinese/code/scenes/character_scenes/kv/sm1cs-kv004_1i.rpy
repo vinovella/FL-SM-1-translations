@@ -2,43 +2,43 @@
 translate chinese sm1cs_kv004_1i_228b8fe7:
 
     # kv "Hey, [mcname]."
-    kv "Hey, [mcname]."
+    kv "嘿，[mcname]。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004_1i.rpy:10
 translate chinese sm1cs_kv004_1i_5d802d41:
 
     # mc "Hey, Kanya! I wanted to talk to you about something."
-    mc "Hey, Kanya! I wanted to talk to you about something."
+    mc "康雅！我有事想跟你说。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004_1i.rpy:14
 translate chinese sm1cs_kv004_1i_af6f6e2d:
 
     # kv "What's up?"
-    kv "What's up?"
+    kv "怎么了？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004_1i.rpy:16
 translate chinese sm1cs_kv004_1i_0cb4993f:
 
     # mc "You know how you offered to help my practice some of my camera skills?"
-    mc "You know how you offered to help my practice some of my camera skills?"
+    mc "记得你说要帮我练习拍摄技巧吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004_1i.rpy:20
 translate chinese sm1cs_kv004_1i_7e6fc7f8:
 
     # kv "Yeah?"
-    kv "Yeah?"
+    kv "记得啊？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004_1i.rpy:22
 translate chinese sm1cs_kv004_1i_9512f2cb:
 
     # mc "Well I'm thinking that practice {i}does{/i} make perfect..."
-    mc "Well I'm thinking that practice {i}does{/i} make perfect..."
+    mc "我觉得{i}熟能生巧{/i}..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004_1i.rpy:23
 translate chinese sm1cs_kv004_1i_62312871:
 
     # kv "Yeah!?"
-    kv "Yeah!?"
+    kv "所以呢!?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004_1i.rpy:24
 translate chinese sm1cs_kv004_1i_d3621aad:
