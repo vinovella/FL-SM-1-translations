@@ -200,163 +200,163 @@ translate chinese sm1cs_kv001_40f3e2eb:
 translate chinese sm1cs_kv001_c79a5a30:
 
     # kv "Okay, so porn studio. I'm now even more interested. What have you got so far?"
-    kv "Okay, so porn studio. I'm now even more interested. What have you got so far?"
+    kv "好吧，你说要开色情工作室。现在我更感兴趣了。你们进展到哪一步了？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:112
 translate chinese sm1cs_kv001_21102e7f:
 
     # mc "We're renting a studio thing that we want to fix up."
-    mc "We're renting a studio thing that we want to fix up."
+    mc "我们租了个场地想翻新一下。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:114
 translate chinese sm1cs_kv001_d4b3f8cb:
 
     # kv "Oh wow! Already got access to a film studio. I'm impressed."
-    kv "Oh wow! Already got access to a film studio. I'm impressed."
+    kv "哇哦！已经搞到摄影棚了？厉害啊。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:116
 translate chinese sm1cs_kv001_8c3d3ea4:
 
     # mc "Uhhh... It's more of a warehouse we want to turn into a studio, and a mattress in the corner."
-    mc "Uhhh... It's more of a warehouse we want to turn into a studio, and a mattress in the corner."
+    mc "呃...其实是个仓库，我们想改造成工作室，角落里还有张床垫。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:119
 translate chinese sm1cs_kv001_f794ce5b:
 
     # kv "Oh... That is less than ideal."
-    kv "Oh... That is less than ideal."
+    kv "哦...这条件可不太理想。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:121
 translate chinese sm1cs_kv001_ff173576:
 
     # mc "But we have grand plans! We're going to fix it up and turn it into a real space."
-    mc "But we have grand plans! We're going to fix it up and turn it into a real space."
+    mc "但我们有宏伟计划！我们会把它翻新成一个真正的场地。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:122
 translate chinese sm1cs_kv001_ad6dfaad:
 
     # kv "That's a good plan! I heard you say \"we\". Have you got another business partner?"
-    kv "That's a good plan! I heard you say \"we\". Have you got another business partner?"
+    kv "这计划不错！你刚才说\"我们\"，还有其他合伙人吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:126
 translate chinese sm1cs_kv001_d9f892f2:
 
     # mc "I do... It's actually my sister, Stacy."
-    mc "I do... It's actually my sister, Stacy."
+    mc "是的...其实是我妹妹，史黛西。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:128
 translate chinese sm1cs_kv001_796a673d:
 
     # mc "I do! My best friend, Stacy, is also in this with me."
-    mc "I do! My best friend, Stacy, is also in this with me."
+    mc "有啊！我最好的朋友史黛西也和我一起做这事。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:130
 translate chinese sm1cs_kv001_5ed0685c:
 
     # kv "Huh, wasn't expecting that either."
-    kv "Huh, wasn't expecting that either."
+    kv "哈，这又是个我没想到的答案。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:133
 translate chinese sm1cs_kv001_fcd6c205:
 
     # mc "That a bad thing?"
-    mc "That a bad thing?"
+    mc "这是坏事吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:135
 translate chinese sm1cs_kv001_7f6303d5:
 
     # kv "No, it's just good to know what is involved."
-    kv "No, it's just good to know what is involved."
+    kv "不是，我只是需要了解清楚团队情况。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:138
 translate chinese sm1cs_kv001_e9371374:
 
     # kv "Now that we've got that, what about gear?"
-    kv "Now that we've got that, what about gear?"
+    kv "既然说到这儿了，设备方面呢？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:140
 translate chinese sm1cs_kv001_db9e7c11:
 
     # mc "Gear... Like sex toys?"
-    mc "Gear... Like sex toys?"
+    mc "设备...你指情趣玩具？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:143
 translate chinese sm1cs_kv001_1565fec2:
 
     # kv "No, like camera, lighting, sound."
-    kv "No, like camera, lighting, sound."
+    kv "不是，我是说摄像机、灯光、音响这些。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:145
 translate chinese sm1cs_kv001_342277ba:
 
     # mc "... I have my phone?"
-    mc "... I have my phone?"
+    mc "...我有手机？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:148
 translate chinese sm1cs_kv001_7c6e36b7:
 
     # kv "That'll work to get started. A lot of people do it that way when they start."
-    kv "That'll work to get started. A lot of people do it that way when they start."
+    kv "起步阶段够用了。很多人刚开始都这么干。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:149
 translate chinese sm1cs_kv001_b51c8c88:
 
     # kv "What do you all know about photography and filmmaking?"
-    kv "What do you all know about photography and filmmaking?"
+    kv "你们对摄影和电影制作了解多少？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:152
 translate chinese sm1cs_kv001_e4ace57b:
 
     # mc "I know you need a camera, and actors and actresses, and... Other stuff?"
-    mc "I know you need a camera, and actors and actresses, and... Other stuff?"
+    mc "我知道需要摄像机、男演员女演员，还有...其他东西？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:154
 translate chinese sm1cs_kv001_34471cfd:
 
     # kv "Well before we get too deep into gear and space and everything else..."
-    kv "Well before we get too deep into gear and space and everything else..."
+    kv "在深入讨论设备和场地之前..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:157
 translate chinese sm1cs_kv001_109e49bc:
 
     # kv "You should go and pick up a book on photography. Really explore some of the theory."
-    kv "You should go and pick up a book on photography. Really explore some of the theory."
+    kv "你应该先去买本摄影入门书。好好学些理论知识。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:158
 translate chinese sm1cs_kv001_357311d3:
 
     # kv "It will help you out a lot in the future."
-    kv "It will help you out a lot in the future."
+    kv "这对你将来大有帮助。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:162
 translate chinese sm1cs_kv001_59834c95:
 
     # kv "The store should have one. Here's my number. Text me so I have yours, and I'll tell you what book to get."
-    kv "The store should have one. Here's my number. Text me so I have yours, and I'll tell you what book to get."
+    kv "书店应该有卖。这是我的号码。你给我发条短信，我就有你号码了，然后我告诉你该买哪本书。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:165
 translate chinese sm1cs_kv001_62020752:
 
     # mct "Hell yeah, I got her number."
-    mct "Hell yeah, I got her number."
+    mct "太棒了，搞到她的联系方式了。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:168
 translate chinese sm1cs_kv001_f0e38cb6:
 
     # kv "After you read up a bit, why don't you come back and we'll talk some more about your business."
-    kv "After you read up a bit, why don't you come back and we'll talk some more about your business."
+    kv "等你读完书，不如再来一趟，我们再好好聊聊你的生意。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:170
 translate chinese sm1cs_kv001_d7b9b9ca:
 
     # mc "That sounds like a plan to me! I'll get to reading then I guess."
-    mc "That sounds like a plan to me! I'll get to reading then I guess."
+    mc "这计划听起来不错！那我这就去读书了。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:172
 translate chinese sm1cs_kv001_a0e03e18:
 
     # kv "And don't keep me waiting too long."
-    kv "And don't keep me waiting too long."
+    kv "别让我等太久哦。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:175
 translate chinese sm1cs_kv001_b283f471:
