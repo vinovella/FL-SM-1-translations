@@ -2,199 +2,199 @@
 translate chinese sm1cs_kv001_44d82e84:
 
     # mc "Hi, are you Kanya Vu?"
-    mc "Hi, are you Kanya Vu?"
+    mc "你好，是武康雅吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:27
 translate chinese sm1cs_kv001_7f4d57d2:
 
     # kv "Yeah, just a minute. We're just about to take a break."
-    kv "Yeah, just a minute. We're just about to take a break."
+    kv "我是，稍等。我们正好要休息。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:29
 translate chinese sm1cs_kv001_1f5f4c44:
 
     # mc "Sure, not a problem."
-    mc "Sure, not a problem."
+    mc "没问题。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:34
 translate chinese sm1cs_kv001_a1f184e9:
 
     # "*CLICK*"
-    "*CLICK*"
+    "*咔嚓*"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:37
 translate chinese sm1cs_kv001_a1f184e9_1:
 
     # "*CLICK*"
-    "*CLICK*"
+    "*咔嚓*"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:40
 translate chinese sm1cs_kv001_d397ae59:
 
     # kv "I think this is a good spot to take a break."
-    kv "I think this is a good spot to take a break."
+    kv "就在这儿休息吧。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:42
 translate chinese sm1cs_kv001_7141e992:
 
     # zh "Great, I'll go grab some water and change."
-    zh "Great, I'll go grab some water and change."
+    zh "好，我去喝点水换身衣服。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:51
 translate chinese sm1cs_kv001_98d67ec1:
 
     # kv "Hey, what can I help you with?"
-    kv "Hey, what can I help you with?"
+    kv "嘿，你有什么事吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:53
 translate chinese sm1cs_kv001_cccf273c:
 
     # mc "Hi, I'm [mcname]. I have a business proposition for you."
-    mc "Hi, I'm [mcname]. I have a business proposition for you."
+    mc "你好，我是[mcname]，我有个商业提议想和你谈谈。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:55
 translate chinese sm1cs_kv001_a6e7598e:
 
     # kv "Oh? Well I only like to get into business with people I know."
-    kv "Oh? Well I only like to get into business with people I know."
+    kv "哦？不过我只喜欢和了解的人合作。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:59
 translate chinese sm1cs_kv001_8a234e5c:
 
     # kv "Tell me about yourself, [mcname]."
-    kv "Tell me about yourself, [mcname]."
+    kv "跟我说说你自己吧，[mcname]。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:61
 translate chinese sm1cs_kv001_d79d21ea:
 
     # mc "Well, I used to be a student at the college here-"
-    mc "Well, I used to be a student at the college here-"
+    mc "嗯，我以前是这里学校的学生--"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:64
 translate chinese sm1cs_kv001_d608b9d8:
 
     # kv "I'm a student there too! Beats the university, right?"
-    kv "I'm a student there too! Beats the university, right?"
+    kv "我也是那儿的！比综合大学强多了，对吧？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:66
 translate chinese sm1cs_kv001_36dc022b:
 
     # mc "Yeah it does!"
-    mc "Yeah it does!"
+    mc "确实！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:69
 translate chinese sm1cs_kv001_0c557787:
 
     # kv "God, did you have Nordin as a professor?"
-    kv "God, did you have Nordin as a professor?"
+    kv "天，你上过诺丁教授的课吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:71
 translate chinese sm1cs_kv001_968f3066:
 
     # mc "I did. He was the actual worst to have as a professor."
-    mc "I did. He was the actual worst to have as a professor."
+    mc "上过，简直是噩梦。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:72
 translate chinese sm1cs_kv001_34cd519f:
 
     # kv "Oh, yeah. I hate his classes."
-    kv "Oh, yeah. I hate his classes."
+    kv "深有同感，我最讨厌他的课。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:75
 translate chinese sm1cs_kv001_54ca141c:
 
     # kv "Were you a part of Fetish Locator?"
-    kv "Were you a part of Fetish Locator?"
+    kv "你参与过性癖定位器吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:77
 translate chinese sm1cs_kv001_66aeb13e:
 
     # mc "Actually, yeah I was. I'm actually the guy who helped bring it down."
-    mc "Actually, yeah I was. I'm actually the guy who helped bring it down."
+    mc "事实上，我就是捣毁那个应用的人。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:80
 translate chinese sm1cs_kv001_33689907:
 
     # kv "Really. Man, I was having a {i}ton of fun{/i} on that app. Even found a couple of photo models on it."
-    kv "Really. Man, I was having a {i}ton of fun{/i} on that app. Even found a couple of photo models on it."
+    kv "真的？哇，那个应用{i}好有意思{/i}，我还在上面找到过摄影模特呢。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:81
 translate chinese sm1cs_kv001_1a458dac:
 
     # kv "It was a real bummer to hear about all the bad things happening behind the scenes."
-    kv "It was a real bummer to hear about all the bad things happening behind the scenes."
+    kv "我听说了那些幕后发生的糟心事儿，真是让人沮丧。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:84
 translate chinese sm1cs_kv001_35b758d1:
 
     # mc "I can tell you that being dragged into it really sucked."
-    mc "I can tell you that being dragged into it really sucked."
+    mc "我可以告诉你，被卷进那件事真的很糟糕。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:86
 translate chinese sm1cs_kv001_e94874b5:
 
     # kv "I heard. I watched all of Hana's in-depth reporting on it."
-    kv "I heard. I watched all of Hana's in-depth reporting on it."
+    kv "我听说了。我看过哈娜所有的深度报道。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:87
 translate chinese sm1cs_kv001_706e421a:
 
     # kv "That was all about you?"
-    kv "That was all about you?"
+    kv "那些报道都是关于你的？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:90
 translate chinese sm1cs_kv001_27805947:
 
     # mc "I mean, some of it was. Yeah."
-    mc "I mean, some of it was. Yeah."
+    mc "呃，有一部分是。没错。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:91
 translate chinese sm1cs_kv001_84e5d310:
 
     # mc "But I'm not here about FL."
-    mc "But I'm not here about FL."
+    mc "不过我今天来不是为了性癖定位器的事。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:94
 translate chinese sm1cs_kv001_1556d6cd:
 
     # kv "Right, right. Business proposition and all that. You've got me interested, [mcname]."
-    kv "Right, right. Business proposition and all that. You've got me interested, [mcname]."
+    kv "哦，对哦，你说商业合作什么的。你成功勾起我的兴趣了，[mcname]。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:95
 translate chinese sm1cs_kv001_d4d61d25:
 
     # kv "Anything involving the \"heroic student\" that brought down Fetish Locator definitely is something I want to hear about."
-    kv "Anything involving the \"heroic student\" that brought down Fetish Locator definitely is something I want to hear about."
+    kv "能和搞垮性趣探测器的\"英雄学生\"合作，我当然想听听看。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:99
 translate chinese sm1cs_kv001_0bd15820:
 
     # mc "It's funny that you brought up the app, that's actually kind of tied to what I wanted to talk to you about."
-    mc "It's funny that you brought up the app, that's actually kind of tied to what I wanted to talk to you about."
+    mc "有意思，你提到了那个应用，其实这和我想谈的事还有点关系。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:100
 translate chinese sm1cs_kv001_b00e8c4c:
 
     # mc "I am working right now on opening up my own porn studio."
-    mc "I am working right now on opening up my own porn studio."
+    mc "我现在正打算开一家自己的色情工作室。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:103
 translate chinese sm1cs_kv001_eeaf2869:
 
     # kv "Huh, porn studio was definitely not my first guess."
-    kv "Huh, porn studio was definitely not my first guess."
+    kv "哈，色情工作室我真没想到。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:105
 translate chinese sm1cs_kv001_038db868:
 
     # mc "What was your first guess?"
-    mc "What was your first guess?"
+    mc "那你第一反应觉得是什么？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:108
 translate chinese sm1cs_kv001_40f3e2eb:
 
     # kv "... I didn't actually have one."
-    kv "... I didn't actually have one."
+    kv "...其实我也没什么想法。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:109
 translate chinese sm1cs_kv001_c79a5a30:
