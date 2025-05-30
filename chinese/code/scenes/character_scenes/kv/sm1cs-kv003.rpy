@@ -2,403 +2,403 @@
 translate chinese sm1cs_kv003_aa0d9ec1:
 
     # sy "Hey there stud, how was meeting Kanya?"
-    sy "Hey there stud, how was meeting Kanya?"
+    sy "嘿帅哥，见康雅还顺利吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:38
 translate chinese sm1cs_kv003_cc4e203d:
 
     # mc "It was good! Definitely hit it off. I think she might be the perfect person to help us."
-    mc "It was good! Definitely hit it off. I think she might be the perfect person to help us."
+    mc "很棒！特别投缘。我觉得她就是我们需要的完美人选。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:41
 translate chinese sm1cs_kv003_93094637:
 
     # sy "Hell yeah! S and M studios is getting its first crew member!"
-    sy "Hell yeah! S and M studios is getting its first crew member!"
+    sy "太棒了！S&M工作室要迎来第一位成员啦！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:47
 translate chinese sm1cs_kv003_26cc3943:
 
     # mc "Oh shit, Kanya is actually on her way here right now."
-    mc "Oh shit, Kanya is actually on her way here right now."
+    mc "靠，康雅现在正往这边来呢。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:49
 translate chinese sm1cs_kv003_0de4cbb6:
 
     # sy "Eager. I like that. Have you told her about me yet?"
-    sy "Eager. I like that. Have you told her about me yet?"
+    sy "这么积极。我喜欢。你跟她提起我了吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:51
 translate chinese sm1cs_kv003_5552c7f7:
 
     # mc "Haven't really had time to mention it..."
-    mc "Haven't really had time to mention it..."
+    mc "还没来得及说..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:54
 translate chinese sm1cs_kv003_e568a587:
 
     # sy "That's fine, just help me get up to the second floor!"
-    sy "That's fine, just help me get up to the second floor!"
+    sy "没关系，先帮我躲到二楼去！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:56
 translate chinese sm1cs_kv003_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "为什么？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:60
 translate chinese sm1cs_kv003_79025f3c:
 
     # sy "I don't want to freak her out by your living arrangement with your sister."
-    sy "I don't want to freak her out by your living arrangement with your sister."
+    sy "我不想让她看到你和妹妹一起住的样子，免得吓到她。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:62
 translate chinese sm1cs_kv003_50d906d6:
 
     # sy "Maybe we shouldn't tell her about living with your girlfriend in your porn studio the first time she visits."
-    sy "Maybe we shouldn't tell her about living with your girlfriend in your porn studio the first time she visits."
+    sy "让她第一次来参观就看到你和女朋友住在色情片拍摄现场，可能会吓到人家。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:64
 translate chinese sm1cs_kv003_e676959a:
 
     # mc "That's a good point, okay."
-    mc "That's a good point, okay."
+    mc "你说得对，好吧。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:70
 translate chinese sm1cs_kv003_922621ba:
 
     # sy "Come on, [mcname], lift!"
-    sy "Come on, [mcname], lift!"
+    sy "快点[mcname]，抬我上去！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:72
 translate chinese sm1cs_kv003_06227ef6:
 
     # mc "I'm trying!"
-    mc "I'm trying!"
+    mc "我在努力！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:78
 translate chinese sm1cs_kv003_a8ccd044:
 
     # mc "Just one minute!"
-    mc "Just one minute!"
+    mc "再等一分钟！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:81
 translate chinese sm1cs_kv003_6611072b:
 
     # mc "Phew, okay stay out of sight!"
-    mc "Phew, okay stay out of sight!"
+    mc "呼--好了，躲好别出声！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:83
 translate chinese sm1cs_kv003_cde0f359:
 
     # sy "I am a professional voyeur, don't you worry about it!"
-    sy "I am a professional voyeur, don't you worry about it!"
+    sy "我可是专业偷窥狂，放心吧！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:92
 translate chinese sm1cs_kv003_5074e0ed:
 
     # kv "Yo!-"
-    kv "Yo!-"
+    kv "哟！--"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:95
 translate chinese sm1cs_kv003_6166ae29:
 
     # kv "I'm not interrupting something, am I?"
-    kv "I'm not interrupting something, am I?"
+    kv "我没打扰到什么吧？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:97
 translate chinese sm1cs_kv003_d99f6857:
 
     # mc "Nope! I was just, uh, getting some things cleaned up before you got here!"
-    mc "Nope! I was just, uh, getting some things cleaned up before you got here!"
+    mc "没有！我只是在...呃...在你来之前收拾东西呢！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:100
 translate chinese sm1cs_kv003_6605e969:
 
     # kv "Classic."
-    kv "Classic."
+    kv "男人的典型操作。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:101
 translate chinese sm1cs_kv003_7b4e06ad:
 
     # mc "Come on in."
-    mc "Come on in."
+    mc "请进。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:105
 translate chinese sm1cs_kv003_93aaa40e:
 
     # mc "Welcome to mi casa!"
-    mc "Welcome to mi casa!"
+    mc "欢迎来到寒舍！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:114
 translate chinese sm1cs_kv003_afd74152:
 
     # mc "What do you think?"
-    mc "What do you think?"
+    mc "你觉得怎么样？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:116
 translate chinese sm1cs_kv003_1a1fbeae:
 
     # kv "It's a little rougher than I expected."
-    kv "It's a little rougher than I expected."
+    kv "比我想象的还要简陋些。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:118
 translate chinese sm1cs_kv003_83ee2844:
 
     # mc "But if you use your imagination a little bit..."
-    mc "But if you use your imagination a little bit..."
+    mc "但只要稍微发挥点想象力..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:121
 translate chinese sm1cs_kv003_68fd9a68:
 
     # mc "Over here, we'll make a set. Get a cool bed, with some nice sheets."
-    mc "Over here, we'll make a set. Get a cool bed, with some nice sheets."
+    mc "这边我们可以搭个场景，弄张很酷的床，铺上漂亮床单。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:124
 translate chinese sm1cs_kv003_82089ccb:
 
     # mc "Maybe we can do some kitchen scenes. Maybe... Something about cream pies or sexy baking."
-    mc "Maybe we can do some kitchen scenes. Maybe... Something about cream pies or sexy baking."
+    mc "厨房场景也不错。比如...奶油派或者性感烘焙主题。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:126
 translate chinese sm1cs_kv003_c5f02e40:
 
     # kv "Also a great place to put craft services during shoots."
-    kv "Also a great place to put craft services during shoots."
+    kv "拍摄间隙还能当餐饮区用。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:127
 translate chinese sm1cs_kv003_a4d2e07a:
 
     # mc "That too! And-"
-    mc "That too! And-"
+    mc "没错！还有--"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:130
 translate chinese sm1cs_kv003_39362c3e:
 
     # mc "A couch for casting."
-    mc "A couch for casting."
+    mc "选角用的沙发。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:132
 translate chinese sm1cs_kv003_5ba99367:
 
     # kv "Personally I think that's a little canned, but it works."
-    kv "Personally I think that's a little canned, but it works."
+    kv "个人觉得有点老套，但也能用。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:135
 translate chinese sm1cs_kv003_858ac424:
 
     # mc "As long as you think it works. Let's see... Oh, also getting stairs for the second floor because that will open up a whole new world of possibilities."
-    mc "As long as you think it works. Let's see... Oh, also getting stairs for the second floor because that will open up a whole new world of possibilities."
+    mc "你觉得行就行。再看看...哦，还要给二楼装楼梯，这样就能解锁全新场景了。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:137
 translate chinese sm1cs_kv003_7cab6a07:
 
     # kv "You can't get up there right now?"
-    kv "You can't get up there right now?"
+    kv "你现在上不去吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:139
 translate chinese sm1cs_kv003_881230f2:
 
     # mc "We can, it just involves a lot more parkour than should be necessary."
-    mc "We can, it just involves a lot more parkour than should be necessary."
+    mc "能上，就是得跑酷，太麻烦了。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:142
 translate chinese sm1cs_kv003_61a0f839:
 
     # kv "Probably not something you want your actresses to have to do on set."
-    kv "Probably not something you want your actresses to have to do on set."
+    kv "总不能让女演员在片场表演特技吧。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:144
 translate chinese sm1cs_kv003_1e5ff0b2:
 
     # mc "Definitely not."
-    mc "Definitely not."
+    mc "那肯定不行。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:147
 translate chinese sm1cs_kv003_00dbce7e:
 
     # kv "I can see the vision. Definitely going to take a lot of work to get there, but it's doable. And expensive."
-    kv "I can see the vision. Definitely going to take a lot of work to get there, but it's doable. And expensive."
+    kv "我明白你的规划了。确实得花大力气改造，但可行。就是烧钱。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:148
 translate chinese sm1cs_kv003_7a956b48:
 
     # kv "But checking out the studio isn't the only reason I came over."
-    kv "But checking out the studio isn't the only reason I came over."
+    kv "不过我来你这，可不只是为了看工作室。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:150
 translate chinese sm1cs_kv003_90612b6d:
 
     # mc "Oh, what else did you want to talk about?"
-    mc "Oh, what else did you want to talk about?"
+    mc "哦，还有什么事？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:153
 translate chinese sm1cs_kv003_f653d215:
 
     # kv "Can't guess?"
-    kv "Can't guess?"
+    kv "猜不到？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:155
 translate chinese sm1cs_kv003_95f48c18:
 
     # mc "I've never been good at guessing."
-    mc "I've never been good at guessing."
+    mc "我向来不擅长猜谜。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:158
 translate chinese sm1cs_kv003_56de6b93:
 
     # kv "I've been wondering how you're going to convince some of these actresses to star in your porn.."
-    kv "I've been wondering how you're going to convince some of these actresses to star in your porn.."
+    kv "我在想，你打算怎么说服女演员来拍你的色情片..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:161
 translate chinese sm1cs_kv003_8dbc347b:
 
     # mc "I like to think that I've got a little bit of charm."
-    mc "I like to think that I've got a little bit of charm."
+    mc "我觉得自己还算有点魅力吧。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:165
 translate chinese sm1cs_kv003_bdc87d6b:
 
     # kv "Why don't you show me."
-    kv "Why don't you show me."
+    kv "那证明给我看。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:167
 translate chinese sm1cs_kv003_585dbc90:
 
     # mc "Like, ask you the questions?"
-    mc "Like, ask you the questions?"
+    mc "你是要我现场用面试的问题问你？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:170
 translate chinese sm1cs_kv003_dafbeb81:
 
     # kv "Yeah, I want to know what it's like for you to hire an actress."
-    kv "Yeah, I want to know what it's like for you to hire an actress."
+    kv "对，我想体验下被你招募的感觉。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:173
 translate chinese sm1cs_kv003_f650b3a0:
 
     # mc "Some of the questions will get a little personal."
-    mc "Some of the questions will get a little personal."
+    mc "有些问题会比较私密。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:175
 translate chinese sm1cs_kv003_dc05cbea:
 
     # kv "That's fine, it's just us here."
-    kv "That's fine, it's just us here."
+    kv "没关系，反正就我们俩在这儿。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:178
 translate chinese sm1cs_kv003_6fbcceac:
 
     # mc "Yep! Just the two of us..."
-    mc "Yep! Just the two of us..."
+    mc "没错！就我们俩..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:182
 translate chinese sm1cs_kv003_6a59a54c:
 
     # mc "I've actually been able to do one interview so far."
-    mc "I've actually been able to do one interview so far."
+    mc "其实我已经面试过一个人了。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:184
 translate chinese sm1cs_kv003_8198421b:
 
     # kv "Really? Already casting stars?"
-    kv "Really? Already casting stars?"
+    kv "真的？已经开始选角了？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:187
 translate chinese sm1cs_kv003_83db7903:
 
     # mc "Kind of... stumbled into it."
-    mc "Kind of... stumbled into it."
+    mc "算是...误打误撞吧。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:189
 translate chinese sm1cs_kv003_c8593a7f:
 
     # kv "Mhmm, show me what you've got."
-    kv "Mhmm, show me what you've got."
+    kv "嗯哼，让我看看你的本事。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:202
 translate chinese sm1cs_kv003_98a5d8c4:
 
     # mc "I like to start off by asking, why do you want to get into the adult entertainment industry?"
-    mc "I like to start off by asking, why do you want to get into the adult entertainment industry?"
+    mc "我一般会先问，你为什么想进入成人娱乐行业？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:205
 translate chinese sm1cs_kv003_9fd79028:
 
     # kv "I think it's kind of hot, plus I'm hoping for a sexy co-star."
-    kv "I think it's kind of hot, plus I'm hoping for a sexy co-star."
+    kv "我觉得这挺刺激的，而且希望有个性感的搭档。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:207
 translate chinese sm1cs_kv003_76b6058d:
 
     # mc "Well, you're looking at him! Uhm..."
-    mc "Well, you're looking at him! Uhm..."
+    mc "那你现在眼前就有一位！呃..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:210
 translate chinese sm1cs_kv003_b8cca24c:
 
     # mc "Uh, let's see... Next question is..."
-    mc "Uh, let's see... Next question is..."
+    mc "嗯，让我看看...下一个问题是..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:216
 translate chinese sm1cs_kv003_97eb7456:
 
     # mc "Next question is usually, how do you feel about blowjobs, vaginal, anal?"
-    mc "Next question is usually, how do you feel about blowjobs, vaginal, anal?"
+    mc "下一题通常是：你对口交、阴道性交、肛交怎么看？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:218
 translate chinese sm1cs_kv003_cacd8e14:
 
     # kv "Probably. If I try it and it feels good, I'm down."
-    kv "Probably. If I try it and it feels good, I'm down."
+    kv "都可以尝试。只要舒服就行。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:221
 translate chinese sm1cs_kv003_c8319dc9:
 
     # kv "As long as it's deeeeep. You know?"
-    kv "As long as it's deeeeep. You know?"
+    kv "不过要够~深~。你懂吧？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:228
 translate chinese sm1cs_kv003_8b165420:
 
     # mc "That's doable. Let's see... What is a place you've always wanted to have sex?"
-    mc "That's doable. Let's see... What is a place you've always wanted to have sex?"
+    mc "可以满足。我看看啊...你最想在什么地方做爱？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:230
 translate chinese sm1cs_kv003_9bca1dd4:
 
     # kv "Like, the absolute dream? Or something that's more attainable?"
-    kv "Like, the absolute dream? Or something that's more attainable?"
+    kv "这题是说终极幻想，还是要现实点的？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:233
 translate chinese sm1cs_kv003_0094df05:
 
     # mc "Why don't you tell me about both?"
-    mc "Why don't you tell me about both?"
+    mc "不如都说来听听？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:235
 translate chinese sm1cs_kv003_c2e27b87:
 
     # kv "Okay, so the absolute dream is to spend a whole night in a castle dungeon."
-    kv "Okay, so the absolute dream is to spend a whole night in a castle dungeon."
+    kv "终极幻想是在城堡地牢里过夜。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:238
 translate chinese sm1cs_kv003_e21fbf3e:
 
     # mc "Medieval?"
-    mc "Medieval?"
+    mc "中世纪那种？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:240
 translate chinese sm1cs_kv003_a80a72ba:
 
     # kv "No, like a kink dungeon. Whips and chains and clamps and ropes."
-    kv "No, like a kink dungeon. Whips and chains and clamps and ropes."
+    kv "不是，BDSM地牢。鞭子啊锁链啊夹子啊绳索啊，一应俱全的那种。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:243
 translate chinese sm1cs_kv003_ab09f18f:
 
     # mc "Oh my."
-    mc "Oh my."
+    mc "哇哦。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:245
 translate chinese sm1cs_kv003_22894c7f:
