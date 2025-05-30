@@ -362,151 +362,151 @@ translate chinese sm1cs_kv001_a0e03e18:
 translate chinese sm1cs_kv001_b283f471:
 
     # mct "What the hell?! Nobody said anything about needing to read to make porn..."
-    mct "What the hell?! Nobody said anything about needing to read to make porn..."
+    mct "搞什么？！没听说过拍成人片还要先读书..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:178
 translate chinese sm1cs_kv001_cc6bc831:
 
     # zh "Ready to get back to shooting Kanya?"
-    zh "Ready to get back to shooting Kanya?"
+    zh "康雅，准备好继续拍了吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:180
 translate chinese sm1cs_kv001_a3bd9021:
 
     # kv "Yeah! Let's get to it."
-    kv "Yeah! Let's get to it."
+    kv "嗯！开始吧。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:187
 translate chinese sm1cs_kv001_c13f529e:
 
     # kv "[mcname], you want to hang out and see how a photo shoot works?"
-    kv "[mcname], you want to hang out and see how a photo shoot works?"
+    kv "[mcname]，要不要留下来看看摄影是怎么拍的？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:189
 translate chinese sm1cs_kv001_5cbb18f4:
 
     # kv "If that's cool with you."
-    kv "If that's cool with you."
+    kv "如果你不介意的话。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:191
 translate chinese sm1cs_kv001_fe3abb10:
 
     # zh "Not problem. I like having an audience."
-    zh "Not problem. I like having an audience."
+    zh "我没问题。我喜欢有观众围观。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:198
 translate chinese sm1cs_kv001_6cc9ae32:
 
     # mct "I did come here to learn after all..."
-    mct "I did come here to learn after all..."
+    mct "反正我本来也是来学习的..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:204
 translate chinese sm1cs_kv001_da6075bf:
 
     # mc "I'll just... Wait over here."
-    mc "I'll just... Wait over here."
+    mc "我就...在旁边等着吧。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:211
 translate chinese sm1cs_kv001_photoshoot_122636f4:
 
     # kv "Great, then watch carefully."
-    kv "Great, then watch carefully."
+    kv "太好了，那看仔细咯。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:217
 translate chinese sm1cs_kv001_photoshoot_a3c04d0a:
 
     # mct "Damn, she's super hot."
-    mct "Damn, she's super hot."
+    mct "靠，她太辣了。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:221
 translate chinese sm1cs_kv001_photoshoot_a1f184e9:
 
     # "*CLICK*"
-    "*CLICK*"
+    "*咔嚓*"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:224
 translate chinese sm1cs_kv001_photoshoot_a1f184e9_1:
 
     # "*CLICK*"
-    "*CLICK*"
+    "*咔嚓*"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:227
 translate chinese sm1cs_kv001_photoshoot_e4143ea3:
 
     # mct "Holy shit, I should have become a photographer."
-    mct "Holy shit, I should have become a photographer."
+    mct "靠，我当初该去当摄影师的。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:230
 translate chinese sm1cs_kv001_photoshoot_a1f184e9_2:
 
     # "*CLICK*"
-    "*CLICK*"
+    "*咔嚓*"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:233
 translate chinese sm1cs_kv001_photoshoot_a1f184e9_3:
 
     # "*CLICK*"
-    "*CLICK*"
+    "*咔嚓*"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:237
 translate chinese sm1cs_kv001_photoshoot_54210fe8:
 
     # kv "Looks good to me! I think that's a wrap for today."
-    kv "Looks good to me! I think that's a wrap for today."
+    kv "我觉得很棒！今天就拍到这儿吧。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:239
 translate chinese sm1cs_kv001_photoshoot_a8f72c03:
 
     # zh "Great! How'd the photos turn out?"
-    zh "Great! How'd the photos turn out?"
+    zh "好啊！拍的效果怎么样？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:242
 translate chinese sm1cs_kv001_photoshoot_e9e7ccab:
 
     # kv "Good, real good. Super happy with how they're looking so far."
-    kv "Good, real good. Super happy with how they're looking so far."
+    kv "很好，非常棒。我对目前的成果很满意。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:244
 translate chinese sm1cs_kv001_photoshoot_001a4e46:
 
     # zh "Awesome, well I'm going to get changed. Looking forward to seeing the edits!"
-    zh "Awesome, well I'm going to get changed. Looking forward to seeing the edits!"
+    zh "太好了，那我去换衣服。期待看到修图效果！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:267
 translate chinese sm1cs_kv001_ending_aa5911e6:
 
     # kv "Good talk, [mcname]. I'm excited for our future plans."
-    kv "Good talk, [mcname]. I'm excited for our future plans."
+    kv "聊得很愉快，[mcname]。我对我们未来的计划很期待。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:269
 translate chinese sm1cs_kv001_ending_bd8a7499:
 
     # mc "Me too! I'll get to reading and I'll text you."
-    mc "Me too! I'll get to reading and I'll text you."
+    mc "我也是！我会好好读完书然后联系你的。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:273
 translate chinese sm1cs_kv001_ending_cb407456:
 
     # kv "I'll see ya around."
-    kv "I'll see ya around."
+    kv "回头见。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:275
 translate chinese sm1cs_kv001_ending_ad25f2ce:
 
     # mc "Later Kanya."
-    mc "Later Kanya."
+    mc "待会儿见，康雅。"
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:6
     old "BOOK NAME"
-    new "BOOK NAME"
+    new "书名"
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
     old "Sure, I'm interested in how a photoshoot like this works."
-    new "Sure, I'm interested in how a photoshoot like this works."
+    new "好啊，我正想了解这类拍摄的流程"
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
     old "Oh, I'll give you some space."
-    new "Oh, I'll give you some space."
+    new "哦，那我就不打扰了"
 
