@@ -2,31 +2,31 @@
 translate chinese sm1cs_mes001_aafb1345:
 
     # mc "Min...?"
-    mc "Min...?"
+    mc "明...？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:31
 translate chinese sm1cs_mes001_8d605673:
 
     # mes "*slightly startled* Oh... [mcname], hi."
-    mes "*slightly startled* Oh... [mcname], hi."
+    mes "*微微吃惊* 哦...[mcname]，你好啊。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:32
 translate chinese sm1cs_mes001_57568108:
 
     # mct "Her voice sounds hesitant, almost as though she'd rather not admit she's here."
-    mct "Her voice sounds hesitant, almost as though she'd rather not admit she's here."
+    mct "她的声音听起来很犹豫，感觉不太愿意被人发现在这里。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:35
 translate chinese sm1cs_mes001_90d60996:
 
     # mc "I... I can't believe it's you. I kind of figured that you would still be in Korea. When did you get back?"
-    mc "I... I can't believe it's you. I kind of figured that you would still be in Korea. When did you get back?"
+    mc "我...真没想到是你。还以为你在韩国呢。你什么时候回来的？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:37
 translate chinese sm1cs_mes001_896556ad:
 
     # mes "Not too long ago. I guess I wanted to slip back quietly. Didn't expect to run into anyone so soon."
-    mes "Not too long ago. I guess I wanted to slip back quietly. Didn't expect to run into anyone so soon."
+    mes "刚回来没多久。本来想悄悄回来的。没想到这么快就遇到熟人。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:40
 translate chinese sm1cs_mes001_b40c990f:
