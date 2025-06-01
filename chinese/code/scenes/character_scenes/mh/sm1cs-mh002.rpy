@@ -8,7 +8,7 @@ translate chinese sm1cs_mh002_d63954f3:
 translate chinese sm1cs_mh002_5871363e:
 
     # sy "Probably. But it will be fun. Lyssa is always happy to see me?"
-    sy "可能该打。但直接去更有意思。莱萨见到我肯定很高兴。"
+    sy "可能该打。但直接去更有意思。丽莎见到我肯定很高兴。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:28
 translate chinese sm1cs_mh002_a4a43383:
@@ -86,13 +86,13 @@ translate chinese sm1cs_mh002_ebd8c616:
 translate chinese sm1cs_mh002_63ff37cc:
 
     # mc "Hey Lyssa."
-    mc "嘿，莱萨。"
+    mc "嘿，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:81
 translate chinese sm1cs_mh002_e4233afc:
 
     # sy "Hi Lyssa!"
-    sy "嗨，莱萨！"
+    sy "嗨，丽莎！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:84
 translate chinese sm1cs_mh002_3f131c1b:
@@ -140,7 +140,7 @@ translate chinese sm1cs_mh002_b832916a:
 translate chinese sm1cs_mh002_b7e0aef0:
 
     # sy "We weren't trying to exclude you or anything, Lyssa."
-    sy "我们不是故意不带你的，莱萨。"
+    sy "我们不是故意不带你的，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:107
 translate chinese sm1cs_mh002_07a8e5c1:
@@ -278,119 +278,119 @@ translate chinese sm1cs_mh002_a8a3b437:
 translate chinese sm1cs_mh002_c9da7be6:
 
     # mh "Well Stacy, I appreciate your faith in my expert knowledge of the law, but the specific arena of employment contracts for adult film actors was not something that interested me while I studied."
-    mh "Well Stacy, I appreciate your faith in my expert knowledge of the law, but the specific arena of employment contracts for adult film actors was not something that interested me while I studied."
+    mh "史黛西，感谢你对我的法律专业能力这么信任，不过成人影片演员的雇佣合同这个细分领域，确实不是我读书时的研究方向。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:165
 translate chinese sm1cs_mh002_892c5b08:
 
     # sy "Oh no."
-    sy "Oh no."
+    sy "糟了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:168
 translate chinese sm1cs_mh002_004459f6:
 
     # mh "But what kind of amazing lawyer would I be if I couldn't find out the basics of what you two need to get things started?"
-    mh "But what kind of amazing lawyer would I be if I couldn't find out the basics of what you two need to get things started?"
+    mh "但要是连帮你们起步的基本法律需求都搞不定，我还算什么优秀律师？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:171
 translate chinese sm1cs_mh002_9779bfcd:
 
     # sy "You mean it?"
-    sy "You mean it?"
+    sy "真的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:174
 translate chinese sm1cs_mh002_f04cf1c9:
 
     # mh "Of course. You came to me for help, and I'm not in the habit of letting my friends down."
-    mh "Of course. You came to me for help, and I'm not in the habit of letting my friends down."
+    mh "当然。你们都来找我帮忙了，我绝不会辜负朋友。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:177
 translate chinese sm1cs_mh002_87747d41:
 
     # mc "Thanks, Lyssa."
-    mc "Thanks, Lyssa."
+    mc "谢了，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:180
 translate chinese sm1cs_mh002_3c3e2215:
 
     # mh "Now it might take me a few days to get the basics worked out, so I'll need the basic information for the candidate sent to me as soon as possible."
-    mh "Now it might take me a few days to get the basics worked out, so I'll need the basic information for the candidate sent to me as soon as possible."
+    mh "我可能需要几天时间来梳理基本条款，所以要请你们尽快把演员候选人的基本信息发给我。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:181
 translate chinese sm1cs_mh002_d41850e8:
 
     # mh "Legal name, date of birth, a copy of a government-issued license. There is probably more."
-    mh "Legal name, date of birth, a copy of a government-issued license. There is probably more."
+    mh "需要法定姓名、出生日期、政府签发的证件复印件。可能还有其他材料。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:193
 translate chinese sm1cs_mh002_29c9069c:
 
     # sy "Of course. I can email you over everything we have and get anything missing sent over."
-    sy "Of course. I can email you over everything we have and get anything missing sent over."
+    sy "没问题。我会把现有资料都发邮件给你，缺什么再补。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
 translate chinese sm1cs_mh002_b15c5e17:
 
     # mh "Excellent. Well, I coudln't be much help today, but I am sure I can deliver in the next couple of days."
-    mh "Excellent. Well, I coudln't be much help today, but I am sure I can deliver in the next couple of days."
+    mh "很好。今天我虽然帮不上你们大忙，但可以保证，几天内就能搞定。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:198
 translate chinese sm1cs_mh002_4191e217:
 
     # mc "Right. And uh... we'll have to figure out how to pay you for your time."
-    mc "Right. And uh... we'll have to figure out how to pay you for your time."
+    mc "好哎。呃对了...我们得商量下怎么付你律师费。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:199
 translate chinese sm1cs_mh002_88f6806c:
 
     # mc "Things are a bit tight right now."
-    mc "Things are a bit tight right now."
+    mc "目前我们这边手头有点紧。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:203
 translate chinese sm1cs_mh002_58de2e4e:
 
     # mh "Nonsense. It shouldn't be too difficult for me. Let's just say that you both owe me one."
-    mh "Nonsense. It shouldn't be too difficult for me. Let's just say that you both owe me one."
+    mh "别见外。这事对我来说不难。就当你们各自欠我一个人情好了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:205
 translate chinese sm1cs_mh002_818562dd:
 
     # mc "You're a diamond, Lyssa."
-    mc "You're a diamond, Lyssa."
+    mc "丽莎，你真是太好了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:206
 translate chinese sm1cs_mh002_2b383daa:
 
     # mh "I like helping people. That's all."
-    mh "I like helping people. That's all."
+    mh "我喜欢帮助别人。仅此而已。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:209
 translate chinese sm1cs_mh002_99ac3410:
 
     # sy "So is that one favor from both of us? Or one favor from each of us."
-    sy "So is that one favor from both of us? Or one favor from each of us."
+    sy "所以是我们俩共同欠你一个人情？还是各自欠一个？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:212
 translate chinese sm1cs_mh002_956f0b53:
 
     # mh "I supposed you'll find out when I come up with something, Stacy."
-    mh "I supposed you'll find out when I come up with something, Stacy."
+    mh "等我想好要什么的时候你就知道了，史黛西。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:213
 translate chinese sm1cs_mh002_2aa570c0:
 
     # mh "For now though, I will have to bid you two adieu. I have a client coming in. But I'll be in touch."
-    mh "For now though, I will have to bid you two adieu. I have a client coming in. But I'll be in touch."
+    mh "但是现在我得跟你们告别了。待会有客户要来。不过我们保持联系。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:216
 translate chinese sm1cs_mh002_823362de:
 
     # sy "Bye Lyssa. Thanks again."
-    sy "Bye Lyssa. Thanks again."
+    sy "拜拜丽莎。再次感谢你啦。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:218
 translate chinese sm1cs_mh002_92b73ecf:
 
     # mh "Ciao."
-    mh "Ciao."
+    mh "回见。"
 
