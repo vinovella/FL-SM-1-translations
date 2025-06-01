@@ -62,7 +62,7 @@ translate chinese sm1cs_mh004_d794b21e:
 translate chinese sm1cs_mh004_6071cd8b:
 
     # mh "And you? How's... Your newest thing going."
-    mh "你呢？你那个…… 新事业进展如何？"
+    mh "你呢？你那个...新事业进展如何？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:76
 translate chinese sm1cs_mh004_c14a1f50:
@@ -152,7 +152,7 @@ translate chinese sm1cs_mh004_d3e1e622:
 translate chinese sm1cs_mh004_cabc5a88:
 
     # mc "Ahhh. Is he... Thinking about it?"
-    mc "啊…… 他有没有…… 考虑过跳槽？"
+    mc "啊...他有没有...考虑过跳槽？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:122
 translate chinese sm1cs_mh004_46e6a5d6:
@@ -314,7 +314,7 @@ translate chinese sm1cs_mh004_flashback_313aeadb:
 translate chinese sm1cs_mh004_flashback_5bb50448:
 
     # mc "Shutting down Fetish Locator was the first thing I feel like I ever really finished. Then Stacy proposed this and... It felt like something I could actually do."
-    mc "关停性趣探测器是我人生中第一件坚持到底的事。然后史黛西提出了开工作室的想法…… 我觉得这是我真正能做成的事。"
+    mc "关停性趣探测器是我人生中第一件坚持到底的事。然后史黛西提出了开工作室的想法...我觉得这是我真正能做成的事。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:277
 translate chinese sm1cs_mh004_flashback_87b3b652:
@@ -404,13 +404,13 @@ translate chinese sm1cs_mh004_flashback_8aff9180:
 translate chinese sm1cs_mh004_flashback_0c2e48ac:
 
     # mc "Lyssa... Stacy is my sister, and she's always going to be a part of my life."
-    mc "丽莎…… 史黛西是我妹妹，她永远都会是我生活的一部分。"
+    mc "丽莎...史黛西是我妹妹，她永远都会是我生活的一部分。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:322
 translate chinese sm1cs_mh004_flashback_ec164f03:
 
     # mc "Lyssa... Stacy is my best friend, and she's always going to be a part of my life."
-    mc "丽莎…… 史黛西是我最好的朋友，她永远都会是我生活的一部分。"
+    mc "丽莎...史黛西是我最好的朋友，她永远都会是我生活的一部分。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:325
 translate chinese sm1cs_mh004_flashback_2c8c0e81:
@@ -458,7 +458,7 @@ translate chinese sm1cs_mh004_flashback_c5d3e248:
 translate chinese sm1cs_mh004_flashback_bad512d7:
 
     # mh "But I miss what we had, and... I have my reservations, and I'm still hurt, but..."
-    mh "但我也怀念我们的过去，而且…… 我有顾虑，也还在受伤，但是..."
+    mh "但我也怀念我们的过去，而且...我有顾虑，也还在受伤，但是..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:343
 translate chinese sm1cs_mh004_flashback_7f74ecb0:
