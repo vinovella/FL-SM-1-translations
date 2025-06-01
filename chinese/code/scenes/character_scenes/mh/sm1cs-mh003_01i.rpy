@@ -122,23 +122,23 @@ translate chinese sm1cs_mh003_1i_548ef689:
 translate chinese sm1cs_mh003_1i_cd570cc2:
 
     # mh "Then I look forward to your call."
-    mh "Then I look forward to your call."
+    mh "那我期待你的电话。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003_01i.rpy:71
 translate chinese sm1cs_mh003_1i_12bd986c:
 
     # mc "Good, I'll definitely call you!"
-    mc "Good, I'll definitely call you!"
+    mc "好，我肯定会打给你的！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003_01i.rpy:75
 translate chinese sm1cs_mh003_1i_4f738f64:
 
     # mh "I'll see you later, [mcname]."
-    mh "I'll see you later, [mcname]."
+    mh "回头见，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003_01i.rpy:77
 translate chinese sm1cs_mh003_1i_39937a5b:
 
     # mc "Yeah! I'll see you later!"
-    mc "Yeah! I'll see you later!"
+    mc "嗯！回头见！"
 
