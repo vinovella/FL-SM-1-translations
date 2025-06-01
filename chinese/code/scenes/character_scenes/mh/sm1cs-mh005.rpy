@@ -2,331 +2,331 @@
 translate chinese sm1cs_mh005_f2c071ff:
 
     # mh "The arcade?"
-    mh "The arcade?"
+    mh "游戏厅？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:25
 translate chinese sm1cs_mh005_c7b99930:
 
     # mc "Yep! I thought it would be nice."
-    mc "Yep! I thought it would be nice."
+    mc "对啊！我觉得这儿不错。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:28
 translate chinese sm1cs_mh005_0616f80e:
 
     # mh "I wouldn't mind kicking your ass in air hockey again."
-    mh "I wouldn't mind kicking your ass in air hockey again."
+    mh "我不介意再在空气曲棍球上打败你一次。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:31
 translate chinese sm1cs_mh005_c45c0e70:
 
     # mc "It won't be as easy this time. I've been practicing."
-    mc "It won't be as easy this time. I've been practicing."
+    mc "这次可没那么容易了。我一直在练习。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:34
 translate chinese sm1cs_mh005_ddca5486:
 
     # mh "Oh have you now?"
-    mh "Oh have you now?"
+    mh "哦，是吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:35
 translate chinese sm1cs_mh005_0e3dd832:
 
     # mh "You'll have to show me these new skills of yours then."
-    mh "You'll have to show me these new skills of yours then."
+    mh "那你得让我见识下你的新本事了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:40
 translate chinese sm1cs_mh005_373d211e:
 
     # mc "Oh don't you worry. I'm going to being it."
-    mc "Oh don't you worry. I'm going to being it."
+    mc "别担心。我会全力以赴的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:47
 translate chinese sm1cs_mh005_f4308ba2:
 
     # mc "I promised you maximum effort."
-    mc "I promised you maximum effort."
+    mc "我向你保证，我会尽最大努力。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:50
 translate chinese sm1cs_mh005_48ffe213:
 
     # mh "Less talking, and more showing, [mcname]."
-    mh "Less talking, and more showing, [mcname]."
+    mh "少废话，多展示，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:53
 translate chinese sm1cs_mh005_22bb32c1:
 
     # mh "I'll give you first serve."
-    mh "I'll give you first serve."
+    mh "你先发球。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:57
 translate chinese sm1cs_mh005_74c498aa:
 
     # mc "Sounds good to me."
-    mc "Sounds good to me."
+    mc "没问题。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:73
 translate chinese sm1cs_mh005_fe72aff2:
 
     # mh "You weren't bluffing about practicing."
-    mh "You weren't bluffing about practicing."
+    mh "你没吹牛，真的练过啊。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:74
 translate chinese sm1cs_mh005_4336b4f5:
 
     # mh "I guess I'll also have to bring my A game."
-    mh "I guess I'll also have to bring my A game."
+    mh "看来我也得拿出真本事了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:87
 translate chinese sm1cs_mh005_dd9b64dc:
 
     # mh "Looks like it's one to one, now."
-    mh "Looks like it's one to one, now."
+    mh "现在1比1，平了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:109
 translate chinese sm1cs_mh005_73e00303:
 
     # mh "Two unanswered points. Maybe you should have practiced more."
-    mh "Two unanswered points. Maybe you should have practiced more."
+    mh "连得两分。看来你练习的还是不够啊。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:112
 translate chinese sm1cs_mh005_a85b614e:
 
     # mc "The game has just started."
-    mc "The game has just started."
+    mc "比赛才刚开始呢。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:143
 translate chinese sm1cs_mh005_af5f41e3:
 
     # mh "Tied game, 5 to 5. You're doing better this time."
-    mh "Tied game, 5 to 5. You're doing better this time."
+    mh "5比5平。你这次进步了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:146
 translate chinese sm1cs_mh005_ed8219a9:
 
     # mc "I'm trying."
-    mc "I'm trying."
+    mc "我在努力。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:149
 translate chinese sm1cs_mh005_840d9371:
 
     # mct "But holy shit, I forgot how good Lyssa was at air hockey..."
-    mct "But holy shit, I forgot how good Lyssa was at air hockey..."
+    mct "但说真的，我都忘了丽莎空气曲棍球有多厉害了..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:152
 translate chinese sm1cs_mh005_271f925a:
 
     # mh "How about we make things more interesting?"
-    mh "How about we make things more interesting?"
+    mh "要不要让比赛更有意思点？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:155
 translate chinese sm1cs_mh005_10d21639:
 
     # mc "Oh, proposing a bet?"
-    mc "Oh, proposing a bet?"
+    mc "哦，想打赌？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:158
 translate chinese sm1cs_mh005_0f752eef:
 
     # mh "Maybe... If I win... You need to get us the first round of drinks."
-    mh "Maybe... If I win... You need to get us the first round of drinks."
+    mh "这样吧...如果我赢了...你得请我们第一轮饮料。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:161
 translate chinese sm1cs_mh005_147bf55c:
 
     # mc "Hmmm... And if I win..."
-    mc "Hmmm... And if I win..."
+    mc "嗯...那如果我赢了..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:166
 translate chinese sm1cs_mh005_de568aca:
 
     # mc "And I would like my drink with ice."
-    mc "And I would like my drink with ice."
+    mc "我要加冰的饮料。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:169
 translate chinese sm1cs_mh005_c56c067f:
 
     # mh "Oh, confident are we?"
-    mh "Oh, confident are we?"
+    mh "哦，很有信心啊？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:175
 translate chinese sm1cs_mh005_687974e1:
 
     # mc "Just a little kiss. Nothing crazy."
-    mc "Just a little kiss. Nothing crazy."
+    mc "只要一个小小的吻。没别的要求。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:178
 translate chinese sm1cs_mh005_e0f85c5a:
 
     # mh "Uh huh. Smooth operator over there, I see."
-    mh "Uh huh. Smooth operator over there, I see."
+    mh "嗯...看来你很会撩嘛。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:180
 translate chinese sm1cs_mh005_cc2bb1e4:
 
     # mh "But first, you have to win."
-    mh "But first, you have to win."
+    mh "但首先，你得赢了再说。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:183
 translate chinese sm1cs_mh005_c8103a84:
 
     # mc "Easy."
-    mc "Easy."
+    mc "小菜一碟。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:186
 translate chinese sm1cs_mh005_6207ae24:
 
     # mh "Oh ho ho. Show me, then."
-    mh "Oh ho ho. Show me, then."
+    mh "喔喔喔。那试试看。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:197
 translate chinese sm1cs_mh005_after_game_acf7a41e:
 
     # mc "Tied game. 9 to 9."
-    mc "Tied game. 9 to 9."
+    mc "9比9平。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:200
 translate chinese sm1cs_mh005_after_game_24622cd1:
 
     # mh "You have learned, my young padawan. But you have not yet earned the title of master."
-    mh "You have learned, my young padawan. But you have not yet earned the title of master."
+    mh "你进步了，我的小徒弟。但这水平还没资格当大师呢。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:203
 translate chinese sm1cs_mh005_after_game_ab9dacd1:
 
     # mc "Soon, the student will become the teacher."
-    mc "Soon, the student will become the teacher."
+    mc "很快，徒弟就会变成师傅。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:209
 translate chinese sm1cs_mh005_after_game_ce2c1037:
 
     # mct "I think I can win this. But should I?"
-    mct "I think I can win this. But should I?"
+    mct "我觉得我能赢。但是该不该赢呢？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:213
 translate chinese sm1cs_mh005_after_game_52362b8e:
 
     # mct "Maybe... I'll just take a little off the top. Not throw the game, but..."
-    mct "Maybe... I'll just take a little off the top. Not throw the game, but..."
+    mct "也许...我就稍微让点步。这不是故意输，只是..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:233
 translate chinese sm1cs_mh005_after_game_5a23189b:
 
     # mct "Time to win this... I can do it..."
-    mct "Time to win this... I can do it..."
+    mct "要赢了...我能行..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:257
 translate chinese sm1cs_mh005_after_game_8f3e8e31:
 
     # mc "Well it looks like that's the game."
-    mc "Well it looks like that's the game."
+    mc "看来比赛结束了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:260
 translate chinese sm1cs_mh005_after_game_0e3c2d11:
 
     # mh "That is does. Good game, [mcname]."
-    mh "That is does. Good game, [mcname]."
+    mh "是的。打得不错，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:263
 translate chinese sm1cs_mh005_after_game_06de81b9:
 
     # mh "Now to the winner go the spoils."
-    mh "Now to the winner go the spoils."
+    mh "现在赢家可以要求奖励了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:265
 translate chinese sm1cs_mh005_after_game_d3fd002b:
 
     # mh "Even if you threw the game a little bit."
-    mh "Even if you threw the game a little bit."
+    mh "就算你中间还让了让我。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:268
 translate chinese sm1cs_mh005_after_game_e94f3e7b:
 
     # mc "What!? I would never!"
-    mc "What!? I would never!"
+    mc "什么!? 我才没有！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:269
 translate chinese sm1cs_mh005_after_game_1ebc1e00:
 
     # mct "Holy shit, she is observant."
-    mct "Holy shit, she is observant."
+    mct "天呐，她观察力好敏锐。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:272
 translate chinese sm1cs_mh005_after_game_f69df3b7:
 
     # mh "Would you check to see if they have anything diet?"
-    mh "Would you check to see if they have anything diet?"
+    mh "你能去看看有没有低糖饮料吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:276
 translate chinese sm1cs_mh005_after_game_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:278
 translate chinese sm1cs_mh005_after_game_39f3d5e3:
 
     # mh "And, [mcname]?"
-    mh "And, [mcname]?"
+    mh "还有，[mcname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:280
 translate chinese sm1cs_mh005_after_game_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "嗯？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:292
 translate chinese sm1cs_mh005_after_game_5f0a028b:
 
     # mh "I decided I also wanted a kiss for winning. That okay?"
-    mh "I decided I also wanted a kiss for winning. That okay?"
+    mh "我决定了，我也想要一个胜利之吻。可以吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:295
 translate chinese sm1cs_mh005_after_game_0817892e:
 
     # mc "Always."
-    mc "Always."
+    mc "当然可以。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:298
 translate chinese sm1cs_mh005_after_game_8ed0cc97:
 
     # mh "I believe someone asked for a kiss."
-    mh "I believe someone asked for a kiss."
+    mh "我记得好像有人想要一个吻。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:301
 translate chinese sm1cs_mh005_after_game_a60be4e8:
 
     # mc "I might have..."
-    mc "I might have..."
+    mc "那个人也许就是我..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:304
 translate chinese sm1cs_mh005_after_game_accca639:
 
     # mh "Who am I to deny such a request?"
-    mh "Who am I to deny such a request?"
+    mh "我怎么能拒绝这样的请求呢？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:315
 translate chinese sm1cs_mh005_after_game_e395dc6d:
 
     # mc "I think that's worth a couple of drinks. Something diet?"
-    mc "I think that's worth a couple of drinks. Something diet?"
+    mc "这值得喝几杯。要低糖的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:318
 translate chinese sm1cs_mh005_after_game_b3ef49bb:
 
     # mh "Yes, please."
-    mh "Yes, please."
+    mh "好啊。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:322
 translate chinese sm1cs_mh005_after_game_8a0430f0:
 
     # mc "I'll take mine with light ice, please."
-    mc "I'll take mine with light ice, please."
+    mc "我要少冰的，谢谢。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:325
 translate chinese sm1cs_mh005_after_game_1c1ea86f:
 
     # mh "Anything else?"
-    mh "Anything else?"
+    mh "还要别的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:327
 translate chinese sm1cs_mh005_after_game_fe725217:
