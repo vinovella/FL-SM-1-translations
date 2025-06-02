@@ -4,13 +4,13 @@ translate turkish strings:
 
     # game/code/classes/player_controller.rpy:17
     old "You already learned everything from this book"
-    new ""
+    new "Bu kitaptan zaten her şeyi öğrendiniz"
 
     # game/code/classes/player_controller.rpy:26
     old "You bought {} for ${}"
-    new ""
+    new "${} karşılığında {} satın aldınız"
 
     # game/code/classes/player_controller.rpy:39
     old "You don't have enough money."
-    new ""
+    new "Yeterince paran yok."
 
