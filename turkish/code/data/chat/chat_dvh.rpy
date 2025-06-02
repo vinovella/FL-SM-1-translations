@@ -4,13 +4,13 @@ translate turkish strings:
 
     # game/code/data/chat/chat_dvh.rpy:3
     old "Come to the theater at Noon."
-    new ""
+    new "Öğlen tiyatroya gelin."
 
     # game/code/data/chat/chat_dvh.rpy:3
     old "It's important."
-    new ""
+    new "Bu çok önemli."
 
     # game/code/data/chat/chat_dvh.rpy:3
     old "Ok, I'll be there! 🫡"
-    new ""
+    new "Tamam, orada olacağım! 🫡"
 
