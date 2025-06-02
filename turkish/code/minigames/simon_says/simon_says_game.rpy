@@ -1,0 +1,20 @@
+﻿# TODO: Translation updated at 2025-06-02 06:24
+
+translate turkish strings:
+
+    # game/code/minigames/simon_says/simon_says_game.rpy:41
+    old "Ready!"
+    new ""
+
+    # game/code/minigames/simon_says/simon_says_game.rpy:44
+    old "Submit"
+    new ""
+
+    # game/code/minigames/simon_says/simon_says_game.rpy:89
+    old "You finished the rehearsal!"
+    new ""
+
+    # game/code/minigames/simon_says/simon_says_game.rpy:91
+    old "You finished the show successfully!"
+    new ""
+

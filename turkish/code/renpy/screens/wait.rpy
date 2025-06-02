@@ -1,0 +1,20 @@
+﻿# TODO: Translation updated at 2025-06-02 06:24
+
+translate turkish strings:
+
+    # game/code/renpy/screens/wait.rpy:6
+    old "Delivering Wurst..."
+    new ""
+
+    # game/code/renpy/screens/wait.rpy:8
+    old "Coding Solutions..."
+    new ""
+
+    # game/code/renpy/screens/wait.rpy:10
+    old "Reading Book..."
+    new ""
+
+    # game/code/renpy/screens/wait.rpy:12
+    old "Working in the Theater..."
+    new ""
+

@@ -1,0 +1,134 @@
+﻿# TODO: Translation updated at 2025-06-02 06:24
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:18
+translate turkish q_inter_jh_1_628f35cc:
+
+    # mc "Hey, Jayden."
+    mc ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:20
+translate turkish q_inter_jh_1_79a9be58:
+
+    # jh "Oh, uh, hi [mcname]."
+    jh ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:21
+translate turkish q_inter_jh_1_191559e1:
+
+    # mc "What's up?"
+    mc ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:25
+translate turkish q_inter_jh_1_974b614a:
+
+    # jh "Oh just trying to figure out why the adaptive assist high contrast mode on the site is making the website crash for people."
+    jh ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:27
+translate turkish q_inter_jh_1_402ada0a:
+
+    # mc "Oh, sounds... Difficult."
+    mc ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:28
+translate turkish q_inter_jh_1_4c09d69b:
+
+    # jh "You have {i}no idea.{/i}"
+    jh ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:34
+translate turkish q_inter_jh_2_3f9b5650:
+
+    # jh "Urrrgggh..."
+    jh ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:36
+translate turkish q_inter_jh_2_c821e64f:
+
+    # mc "Something wrong, Jayden?"
+    mc ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:38
+translate turkish q_inter_jh_2_03800dc7:
+
+    # jh "Yeah. I think April's been messing with my code again."
+    jh ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:39
+translate turkish q_inter_jh_2_2fe58337:
+
+    # mc "Oh? How do you know?"
+    mc ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:40
+translate turkish q_inter_jh_2_7304ae9b:
+
+    # jh "... It's better now."
+    jh ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:46
+translate turkish q_inter_jh_3_7c9e5220:
+
+    # mc "Jayden, can I ask-"
+    mc ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:48
+translate turkish q_inter_jh_3_806cff5e:
+
+    # jh "Can't talk, busy."
+    jh ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:50
+translate turkish q_inter_jh_3_cde572c9:
+
+    # mc "Oh, I'm-"
+    mc ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:52
+translate turkish q_inter_jh_3_064ea717:
+
+    # jh "Why aren't we just using hex codes for colors!?!"
+    jh ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:53
+translate turkish q_inter_jh_3_b747b5c8:
+
+    # mct "Someone has some feelings about colors, huh..."
+    mct ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:59
+translate turkish q_inter_jh_4_06a9c4ae:
+
+    # jh "What do you think, [mcname], CSS or HTML?"
+    jh ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:61
+translate turkish q_inter_jh_4_410fc45d:
+
+    # mc "Uhm... I don't really have to use either, but... HTML?"
+    mc ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:62
+translate turkish q_inter_jh_4_f0139d37:
+
+    # jh "Mmmmm. Maybe..."
+    jh ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:68
+translate turkish q_inter_jh_5_b508bde9:
+
+    # jh "Hey, have you heard about these new books?"
+    jh ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:70
+translate turkish q_inter_jh_5_11809067:
+
+    # mc "Which ones?"
+    mc ""
+
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:71
+translate turkish q_inter_jh_5_0b36c9e9:
+
+    # jh "A Castle of Thistle and Orchids. Anna turned me on to them."
+    jh ""
+

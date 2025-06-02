@@ -1,0 +1,8 @@
+﻿# TODO: Translation updated at 2025-06-02 06:24
+
+translate turkish strings:
+
+    # game/code/classes/interaction_location_option.rpy:47
+    old "{name} ({wrong_time_message})"
+    new ""
+
