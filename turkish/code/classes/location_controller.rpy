@@ -4,21 +4,21 @@ translate turkish strings:
 
     # game/code/classes/location_controller.rpy:129
     old "This location is not accessible right now"
-    new ""
+    new "Bu konuma şu anda erişilemiyor"
 
     # game/code/classes/location_controller.rpy:135
     old "This location is closed today"
-    new ""
+    new "Bu lokasyon bugün kapalıdır"
 
     # game/code/classes/location_controller.rpy:135
     old "This location is not open yet"
-    new ""
+    new "Bu konum henüz açık değil"
 
     # game/code/classes/location_controller.rpy:135
     old "This location is already closed for the day"
-    new ""
+    new "Bu konum bugün için zaten kapalı"
 
     # game/code/classes/location_controller.rpy:135
     old "This location is unavailable"
-    new ""
+    new "Bu konum kullanılamıyor"
 
