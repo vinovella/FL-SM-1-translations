@@ -2,85 +2,85 @@
 translate chinese sm1cs_sy001_88e51425:
 
     # mc "Oh, I didn't realize you were in the shower."
-    mc "Oh, I didn't realize you were in the shower."
+    mc "哦，我没想到你在洗澡。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:46
 translate chinese sm1cs_sy001_92ae624b:
 
     # sy "Yeah, big ass studio - one bathroom."
-    sy "Yeah, big ass studio - one bathroom."
+    sy "是啊，工作室这么大，结果就一间浴室。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:47
 translate chinese sm1cs_sy001_680a0906:
 
     # sy "You can join me if you want. You can help me wash my back. Among other things."
-    sy "You can join me if you want. You can help me wash my back. Among other things."
+    sy "想一起洗的话可以进来。你可以帮我搓背。还可以帮我别的忙。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:57
 translate chinese sm1cs_sy001_35f42e7a:
 
     # mc "Not today. I have some things I need to take care of."
-    mc "Not today. I have some things I need to take care of."
+    mc "今天就算了。我有点事要处理。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:59
 translate chinese sm1cs_sy001_5a4c6a30:
 
     # sy "Suit yourself!"
-    sy "Suit yourself!"
+    sy "随你便！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:66
 translate chinese sm1cs_sy001_0506349a:
 
     # mc "Actually, I just need to pee."
-    mc "Actually, I just need to pee."
+    mc "其实，我只是想尿尿。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:68
 translate chinese sm1cs_sy001_149bd478:
 
     # sy "Go for it then."
-    sy "Go for it then."
+    sy "那就尿呗。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:70
 translate chinese sm1cs_sy001_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:72
 translate chinese sm1cs_sy001_5bbc86dd:
 
     # sy "Seriously? We've done some super nasty stuff together. Peeing in the same room doesn't even register anymore."
-    sy "Seriously? We've done some super nasty stuff together. Peeing in the same room doesn't even register anymore."
+    sy "你认真的？我们都一起玩过那么多刺激的花样了。在同一个房间尿尿根本不算什么。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:73
 translate chinese sm1cs_sy001_0f240219:
 
     # mc "If you say so..."
-    mc "If you say so..."
+    mc "既然你这么说了..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:95
 translate chinese sm1cs_sy001_shower_sex_024dd403:
 
     # mc "Fuck that's hot!"
-    mc "Fuck that's hot!"
+    mc "靠，受不住啊！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:97
 translate chinese sm1cs_sy001_shower_sex_8d63d2b9:
 
     # sy "If the water doesn't burn your skin off, it's not hot enough."
-    sy "If the water doesn't burn your skin off, it's not hot enough."
+    sy "如果水温没把皮肤烫掉，就说不上‘受不住’。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:100
 translate chinese sm1cs_sy001_shower_sex_40a97c46:
 
     # mc "What if I was talking about you?"
-    mc "What if I was talking about you?"
+    mc "要是我说的是你呢？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:102
 translate chinese sm1cs_sy001_shower_sex_6ab8aaa8:
 
     # sy "Ooo, you charmer. Come over here and wash my back, please."
-    sy "Ooo, you charmer. Come over here and wash my back, please."
+    sy "哦，你这嘴真甜。过来帮我搓背，求你了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:105
 translate chinese sm1cs_sy001_shower_sex_1bf60051:
