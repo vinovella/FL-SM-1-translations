@@ -860,7 +860,7 @@ translate chinese sm1cs_mh006_sex_621a3f7b:
 translate chinese sm1cs_mh006_sex_f8260be7:
 
     # mh "Mmmmmmm..."
-    mh "嗯......"
+    mh "嗯..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:462
 translate chinese sm1cs_mh006_sex_f49fff8f:
@@ -926,7 +926,7 @@ translate chinese sm1cs_mh006_sex_7448b0a8:
 translate chinese sm1cs_mh006_sex_a02a717b:
 
     # mc "I've missed your blowjobs, so much... You know exactly what I want."
-    mc "我好怀念你给我口交，太想了...你完全知道怎么取悦我。"
+    mc "我好怀念你给我口交，太想了...你完全知道怎么样让我舒服。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:492
 translate chinese sm1cs_mh006_sex_117c7b2f:
@@ -944,7 +944,7 @@ translate chinese sm1cs_mh006_sex_ab0f0e94:
 translate chinese sm1cs_mh006_sex_5e58901a:
 
     # mc "If I could, I wouldn't ever let you stop... This is just so wonderful..."
-    mc "要是可以，我真想让你一直含着，别停下来...太美妙了..."
+    mc "要是可以的话，我真想让你一直含着，别停下来...太美妙了..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:497
 translate chinese sm1cs_mh006_sex_528f798e:
@@ -1010,7 +1010,7 @@ translate chinese sm1cs_mh006_sex_a8ca7c99:
 translate chinese sm1cs_mh006_sex_49c16406:
 
     # mh "I've been waiting for this... I... I've missed this, so much... Missed you..."
-    mh "我一直在等这一刻...我...太想念这一刻了，好想你..."
+    mh "我一直在等这一刻...我...太想念它了，好想你..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:527
 translate chinese sm1cs_mh006_sex_02926c63:
@@ -1076,13 +1076,13 @@ translate chinese sm1cs_mh006_sex_b82b8d78:
 translate chinese sm1cs_mh006_sex_a0f276e0:
 
     # mh "Good, because - ohh, ohhhh, yessss - I need you to cum in meee."
-    mh "很好，因为--哦，哦哦，对--我要你射在里面。"
+    mh "很好，因为--哦，哦哦，好舒服--我要你射在里面。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:557
 translate chinese sm1cs_mh006_sex_c2d1457d:
 
     # mh "I need to feel you fill me up, your warm, sticky cum coating my insides."
-    mh "我要感受你灌满我，滚烫的精液涂满内壁。"
+    mh "我要感受你把我填满，还有你滚烫的精液灌满我体内的感觉。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:558
 translate chinese sm1cs_mh006_sex_fbddc464:
@@ -1106,13 +1106,13 @@ translate chinese sm1cs_mh006_sex_e1170953:
 translate chinese sm1cs_mh006_sex_70694833:
 
     # mh "Good. Because you've already filled me today."
-    mh "很好。毕竟你今天已经填满我了。"
+    mh "很好。毕竟你今天已经把我填满过了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:566
 translate chinese sm1cs_mh006_sex_d39ee0f9:
 
     # mc "Mmmmnnngnnnngggg, I'm getting close!"
-    mc "嗯啊--我快到了！"
+    mc "嗯嗯嗯嗯嗯嗯，我快射了！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:567
 translate chinese sm1cs_mh006_sex_539d9a98:
@@ -1130,25 +1130,25 @@ translate chinese sm1cs_mh006_sex_e44443f0:
 translate chinese sm1cs_mh006_sex_346b716c:
 
     # mh "Oh my God!!!"
-    mh "我的天！！！!!!"
+    mh "我的天!!!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:579
 translate chinese sm1cs_mh006_sex_f49fff8f_1:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "嗯哼？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:581
 translate chinese sm1cs_mh006_sex_925b1184:
 
     # mh "Fuhhh - that felt -"
-    mh "Fuhhh - that felt -"
+    mh "靠--这感觉--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:584
 translate chinese sm1cs_mh006_sex_ab9779f2:
 
     # mc "Almost as good as this?"
-    mc "有现在这么爽吗？"
+    mc "有这个爽吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:591
 translate chinese sm1cs_mh006_sex_7cf675bc:
@@ -1160,13 +1160,13 @@ translate chinese sm1cs_mh006_sex_7cf675bc:
 translate chinese sm1cs_mh006_sex_8df4c2b5:
 
     # mh "Don't stop, [mcname], please don't stop!"
-    mh "别停，[mcname]，求你别停！"
+    mh "别停，[mcname]，求你别停下！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:594
 translate chinese sm1cs_mh006_sex_352ece69:
 
     # mh "You're going to make me cum - holy shit, you're going to make me cum!"
-    mh "你要让我高潮了--靠，你要让我高潮了！"
+    mh "你要让我射了--靠，你要让我高潮了！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:595
 translate chinese sm1cs_mh006_sex_3dcedd30:
@@ -1184,7 +1184,7 @@ translate chinese sm1cs_mh006_sex_65155363:
 translate chinese sm1cs_mh006_sex_ce14dda4:
 
     # mh "Your dick is getting so much deeper now, holy - mmmmmmmm!"
-    mh "插得更深了，天--嗯！插得更深了，天--嗯！"
+    mh "你的鸡巴插得更深了，天啊啊啊--嗯嗯！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:602
 translate chinese sm1cs_mh006_sex_b3bc47a9:
@@ -1196,25 +1196,25 @@ translate chinese sm1cs_mh006_sex_b3bc47a9:
 translate chinese sm1cs_mh006_sex_eae76607:
 
     # mh "Yes, [mcname], yes!"
-    mh "对，[mcname]，对！"
+    mh "嗯嗯，[mcname]，啊啊啊！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:605
 translate chinese sm1cs_mh006_sex_3c3da4b8:
 
     # mc "Gaaaahh, I'm going to - fuuuuuck!"
-    mc "啊--我要--操！"
+    mc "啊--我要--操操操！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:606
 translate chinese sm1cs_mh006_sex_9c0ce43f:
 
     # mh "Yes! Yes, yes, yes!"
-    mh "Yes! Yes, yes, yes!"
+    mh "啊啊啊好爽！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:607
 translate chinese sm1cs_mh006_sex_d4900efc:
 
     # mh "God yes, fill me up! Shoot your cum deep inside my ass! Yes, yes, yes!"
-    mh "射进来！把精液全射进我屁股里！对，对，对！"
+    mh "射进来！把精液全射进我屁股里！啊啊啊，就是这样！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:610
 translate chinese sm1cs_mh006_sex_e3132734:
@@ -1226,7 +1226,7 @@ translate chinese sm1cs_mh006_sex_e3132734:
 translate chinese sm1cs_mh006_sex_0b0368d2:
 
     # mh "Yes! {i}Yes! YES! I'M CUMMING!{/i}"
-    mh "啊！{i}啊！啊！我也高潮了！{/i}"
+    mh "啊！{i}啊！啊！我也来了！{/i}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:616
 translate chinese sm1cs_mh006_sex_05931324:
@@ -1244,151 +1244,151 @@ translate chinese sm1cs_mh006_sex_1ba4cf58:
 translate chinese sm1cs_mh006_sex_aee6cab9:
 
     # mh "No. It was better than I could have ever dreamed."
-    mh "No. It was better than I could have ever dreamed."
+    mh "不。这比我做过的任何梦都要更美好。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:631
 translate chinese sm1cs_mh006_sex_45e2a861:
 
     # mc "Good. That's what we aim to do here."
-    mc "Good. That's what we aim to do here."
+    mc "很好。这就是我们的目标。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:634
 translate chinese sm1cs_mh006_sex_0da88a45:
 
     # mh "We?"
-    mh "We?"
+    mh "我们？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:637
 translate chinese sm1cs_mh006_sex_4a073610:
 
     # mc "Yeah, me and you."
-    mc "Yeah, me and you."
+    mc "对啊，我和你。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:638
 translate chinese sm1cs_mh006_sex_8321fefe:
 
     # mc "We aim to have the best sex possible."
-    mc "We aim to have the best sex possible."
+    mc "我们的目标就是尽可能享受最棒的性爱。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:641
 translate chinese sm1cs_mh006_sex_95dec991:
 
     # mh "Well I think we exceeded those expectations tonight."
-    mh "Well I think we exceeded those expectations tonight."
+    mh "我觉得我们今晚已经远超预期了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:644
 translate chinese sm1cs_mh006_sex_3e780cd0:
 
     # mc "I think so, too."
-    mc "I think so, too."
+    mc "我也这么觉得。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:647
 translate chinese sm1cs_mh006_sex_6d853030:
 
     # mh "Hell, I think you might have fucked me into a coma... I can't move an inch."
-    mh "Hell, I think you might have fucked me into a coma... I can't move an inch."
+    mh "靠，你简直把我干到昏迷…… 我都没力气动了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:649
 translate chinese sm1cs_mh006_sex_4eadc533:
 
     # mc "Neither can I."
-    mc "Neither can I."
+    mc "我也动不了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:653
 translate chinese sm1cs_mh006_sex_eb9608ff:
 
     # mc "But I should get up, otherwise, I'll fall asleep here."
-    mc "But I should get up, otherwise, I'll fall asleep here."
+    mc "不过我该起来了，不然就要在这儿睡着了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:655
 translate chinese sm1cs_mh006_sex_a88aada8:
 
     # mh "That's fine."
-    mh "That's fine."
+    mh "没关系。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:656
 translate chinese sm1cs_mh006_sex_cc44a9c5:
 
     # mc "Really? What happened to taking it slow?"
-    mc "Really? What happened to taking it slow?"
+    mc "真没关系？不是说要慢慢来吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:659
 translate chinese sm1cs_mh006_sex_bcea909b:
 
     # mh "It's not like you're leaving a toothbrush in the bathroom. Besides, I don't have the energy to kick you out."
-    mh "It's not like you're leaving a toothbrush in the bathroom. Besides, I don't have the energy to kick you out."
+    mh "又不是说像你要在浴室留下牙刷那样不能接受。再说了，我连把你踢出去的力气都没有。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:662
 translate chinese sm1cs_mh006_sex_d20c600e:
 
     # mc "Well, how can I say no to spending the night with a beautiful woman?"
-    mc "Well, how can I say no to spending the night with a beautiful woman?"
+    mc "那我怎么能拒绝和美女共度一晚呢？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:663
 translate chinese sm1cs_mh006_sex_a8660272:
 
     # mc "Should I get you a towel or something?"
-    mc "Should I get you a towel or something?"
+    mc "要我拿条毛巾什么的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:665
 translate chinese sm1cs_mh006_sex_9c263754:
 
     # mh "Hmmm? Why?"
-    mh "Hmmm? Why?"
+    mh "嗯？为什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:666
 translate chinese sm1cs_mh006_sex_f40e1934:
 
     # mc "Well, you made a mess of yourself."
-    mc "Well, you made a mess of yourself."
+    mc "你身上弄得一团糟。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:669
 translate chinese sm1cs_mh006_sex_ff158da2:
 
     # mh "It's fine, I'll deal with it in the morning."
-    mh "It's fine, I'll deal with it in the morning."
+    mh "没事，早上再说吧。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:671
 translate chinese sm1cs_mh006_sex_74c498aa:
 
     # mc "Sounds good to me."
-    mc "Sounds good to me."
+    mc "我当然可以。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:687
 translate chinese sm1cs_mh006_sex_39ab3d10:
 
     # mc "Mmmmmm, morning, Lyssa."
-    mc "Mmmmmm, morning, Lyssa."
+    mc "嗯嗯嗯，早上好，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:691
 translate chinese sm1cs_mh006_sex_3645e64f:
 
     # mc "Lyssa?"
-    mc "Lyssa?"
+    mc "丽莎？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:697
 translate chinese sm1cs_mh006_sex_5ff87e6d:
 
     # mct "\"[mcname], got an early morning call from a client, had to run to the office. I loved our date last night, hope to do it again soon. x o, Lyssa.\""
-    mct "\"[mcname], got an early morning call from a client, had to run to the office. I loved our date last night, hope to do it again soon. x o, Lyssa.\""
+    mct "\"[mcname]，我早上接到客户电话，得去办公室一趟。昨晚的约会很开心，希望我们很快能再约。亲亲，丽莎。\""
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:700
 translate chinese sm1cs_mh006_sex_9b56754e:
 
     # mct "I hope we get to do that again real soon, too.{w} But I should probably get a start on the day."
-    mct "I hope we get to do that again real soon, too.{w} But I should probably get a start on the day."
+    mct "我也希望能很快再重温昨晚的甜蜜。{w}不过我大概该开始新的一天了。"
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:135
     old "Offer to hang out - you, Lyssa, Stacy"
-    new "Offer to hang out - you, Lyssa, Stacy"
+    new "提议一起玩--你、丽莎、史黛西"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:135
     old "I don't need to talk about Stacy when we're together"
-    new "I don't need to talk about Stacy when we're together"
+    new "我们俩相处时没必要聊史黛西"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:281
     old "After dinner"
-    new "After dinner"
+    new "晚餐后"
 
