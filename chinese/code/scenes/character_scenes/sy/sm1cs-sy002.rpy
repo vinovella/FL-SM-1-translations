@@ -2,133 +2,133 @@
 translate chinese sm1cs_sy002_899a5465:
 
     # sy "This place has such a vibe at night. Imagine a scene with a couple having a secret meeting here. Shadows, whispers, starting to get a little handsy..."
-    sy "This place has such a vibe at night. Imagine a scene with a couple having a secret meeting here. Shadows, whispers, starting to get a little handsy..."
+    sy "这公园夜景真有感觉。想象一下，一对情在这里秘密约会。他们在阴影里窃窃私语，手脚开始不老实..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:44
 translate chinese sm1cs_sy002_b3017d24:
 
     # mc "Yeah, I can see it. Over there by the fountain, maybe? Or..."
-    mc "Yeah, I can see it. Over there by the fountain, maybe? Or..."
+    mc "确实很有画面感。喷泉旁边怎么样？或者..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:47
 translate chinese sm1cs_sy002_a79526c8:
 
     # mc "That bench. Classic."
-    mc "That bench. Classic."
+    mc "那张长椅。经典场景。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:50
 translate chinese sm1cs_sy002_dde4a9ce:
 
     # sy "This park has so many possibilities! Like over there by the trees. Imagine a chase scene, or like trying to hide from someone so you don't get caught."
-    sy "This park has so many possibilities! Like over there by the trees. Imagine a chase scene, or like trying to hide from someone so you don't get caught."
+    sy "这个公园可挖掘的素材太多了！比如树林那边。可以拍一场追逐戏，或者为了不被人发现而躲起来。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:52
 translate chinese sm1cs_sy002_12f2b795:
 
     # mc "Are we making like a spy porno?"
-    mc "Are we making like a spy porno?"
+    mc "我们是要拍间谍色情片吗？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:57
 translate chinese sm1cs_sy002_81498c40:
 
     # sy "Just picture it! You as a sexy double O agent, me as your sexy lady."
-    sy "Just picture it! You as a sexy double O agent, me as your sexy lady."
+    sy "想象一下！你演性感特工，我是你的性感女伴。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:58
 translate chinese sm1cs_sy002_b2d4bce0:
 
     # sy "License to fuck."
-    sy "License to fuck."
+    sy "持证上床。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:60
 translate chinese sm1cs_sy002_1ad37e50:
 
     # mc "I love it. Suits and fast cars and sexy rendezvous in the park."
-    mc "I love it. Suits and fast cars and sexy rendezvous in the park."
+    mc "我喜欢。西装、豪车，加上公园幽会。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:64
 translate chinese sm1cs_sy002_adffbbb0:
 
     # sy "Uh huh! Like by the bridge! It would be perfect for something suspenseful. A standoff or a secret handoff."
-    sy "Uh huh! Like by the bridge! It would be perfect for something suspenseful. A standoff or a secret handoff."
+    sy "没错！那座桥也是绝佳取景地！那里拍紧张场面最适合了。来场对峙戏或者秘密交接的戏。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:67
 translate chinese sm1cs_sy002_5459ee9a:
 
     # mc "You've really got an eye for this. I think we could map out at least three solid scenes here."
-    mc "You've really got an eye for this. I think we could map out at least three solid scenes here."
+    mc "你真有眼光。我觉得我们至少能在这里设计三个完整的场景。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:69
 translate chinese sm1cs_sy002_90a08b79:
 
     # sy "Three? Oh no, [mcname]. I'm thinking bigger. This park could be the set for an entire sexy film."
-    sy "Three? Oh no, [mcname]. I'm thinking bigger. This park could be the set for an entire sexy film."
+    sy "三个？不不不，mcname]，你太保守了。整座公园都可以作为一部情色大片的取景地。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:70
 translate chinese sm1cs_sy002_6e103a6e:
 
     # mc "Ambitious, but I like the idea. But what would we do about, you know, filming in a public park? I don't think you can just make a porno anywhere you want."
-    mc "Ambitious, but I like the idea. But what would we do about, you know, filming in a public park? I don't think you can just make a porno anywhere you want."
+    mc "野心不小啊，不过我喜欢。但问题是，在公共公园拍摄...应该不能随便拍成人片吧？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:73
 translate chinese sm1cs_sy002_c393ff42:
 
     # sy "Details, details. We'll figure it out, [mcname]."
-    sy "Details, details. We'll figure it out, [mcname]."
+    sy "细节问题都好解决，[mcname]。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:76
 translate chinese sm1cs_sy002_6936a4b2:
 
     # mc "It sounds like you've been planning this idea out for awhile, Stacy."
-    mc "It sounds like you've been planning this idea out for awhile, Stacy."
+    mc "史黛西，你盘算这个创意很久了吧？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:79
 translate chinese sm1cs_sy002_069819a2:
 
     # sy "Maaaaaaaaaybe."
-    sy "Maaaaaaaaaybe."
+    sy "可～能～是～哦～"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:82
 translate chinese sm1cs_sy002_5269e6ed:
 
     # mc "Well, Ms. Writer - how does this porno start, huh?"
-    mc "Well, Ms. Writer - how does this porno start, huh?"
+    mc "那么编剧小姐，这部色情片怎么开场呢？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:85
 translate chinese sm1cs_sy002_d503e0f0:
 
     # sy "Well, with a secret meeting of course. Between two spies from opposing sides during the Cold War."
-    sy "Well, with a secret meeting of course. Between two spies from opposing sides during the Cold War."
+    sy "当然是秘密会面。冷战时期，两个敌对阵营的特工秘密见面。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:86
 translate chinese sm1cs_sy002_98b9a582:
 
     # sy "See, they don't love each other, not in an emotional way. But, they love to {i}fuck{/i} each other and they curse their countries from keeping them out of bed together."
-    sy "See, they don't love each other, not in an emotional way. But, they love to {i}fuck{/i} each other and they curse their countries from keeping them out of bed together."
+    sy "他们之间没有真爱，纯粹是肉体关系。但是，他们爱和对方{i}上床{/i}，也很痛恨自己国家的立场阻碍他们尽情缠绵。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:87
 translate chinese sm1cs_sy002_b88ea519:
 
     # sy "So they plan to escape their lives as spies, so they can fuck the rest of their lives!"
-    sy "So they plan to escape their lives as spies, so they can fuck the rest of their lives!"
+    sy "所以他们计划逃离间谍生涯，只为了余生都能尽情做爱！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:91
 translate chinese sm1cs_sy002_2c506dfd:
 
     # mc "Ooooo, hot, forbidden love!"
-    mc "Ooooo, hot, forbidden love!"
+    mc "哦哦，禁忌之恋！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:93
 translate chinese sm1cs_sy002_5b56268b:
 
     # sy "Exactly!"
-    sy "Exactly!"
+    sy "正是！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:96
 translate chinese sm1cs_sy002_a9a4c527:
 
     # mc "So, how does this scene go?"
-    mc "So, how does this scene go?"
+    mc "具体场景怎么安排？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:99
 translate chinese sm1cs_sy002_1b347aa7:
