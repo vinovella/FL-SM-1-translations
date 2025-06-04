@@ -134,145 +134,145 @@ translate chinese sm1cs_sy002_a9a4c527:
 translate chinese sm1cs_sy002_1b347aa7:
 
     # sy "Mmmm, we want to act it out?"
-    sy "Mmmm, we want to act it out?"
+    sy "嗯...我们要来演一下吗？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:101
 translate chinese sm1cs_sy002_85d475fe:
 
     # mc "Of course!"
-    mc "Of course!"
+    mc "当然！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:102
 translate chinese sm1cs_sy002_0cae5a95:
 
     # sy "Well, let me get into character!"
-    sy "Well, let me get into character!"
+    sy "好，让我进入角色！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:108
 translate chinese sm1cs_sy002_1e3ed3c8:
 
     # sy "Aaaaand...{w} action!"
-    sy "Aaaaand...{w} action!"
+    sy "准备...{w} 开始！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:112
 translate chinese sm1cs_sy002_f571c894:
 
     # sy "You're late."
-    sy "You're late."
+    sy "你迟到了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:115
 translate chinese sm1cs_sy002_5f5f958b:
 
     # mc "I had to make sure I wasn't followed."
-    mc "I had to make sure I wasn't followed."
+    mc "我得确保没被跟踪。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:117
 translate chinese sm1cs_sy002_0a1cd281:
 
     # sy "Do you have it?"
-    sy "Do you have it?"
+    sy "拿到了吗？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:120
 translate chinese sm1cs_sy002_de987db1:
 
     # mc "I told you, it's not safe to talk here."
-    mc "I told you, it's not safe to talk here."
+    mc "我说过，在这儿说话不安全。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:123
 translate chinese sm1cs_sy002_0674b066:
 
     # sy "But do you have it? We {i}need{/i} it."
-    sy "But do you have it? We {i}need{/i} it."
+    sy "到底带没带？我们{i}必须{/i}拿到它。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:125
 translate chinese sm1cs_sy002_62081b08:
 
     # mc "Of course I do. We can finally escape, together, and fuck like nobody is watching."
-    mc "Of course I do. We can finally escape, together, and fuck like nobody is watching."
+    mc "当然带了。我们终于能远走高飞，想怎么做爱就怎么做爱。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:126
 translate chinese sm1cs_sy002_23418219:
 
     # mc "Because {i}finally{/i} no one will be watching."
-    mc "Because {i}finally{/i} no one will be watching."
+    mc "因为{i}终于{/i}没人监视我们了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:129
 translate chinese sm1cs_sy002_5af5a24c:
 
     # sy "Not bad, [mcname]. You might have a future in acting."
-    sy "Not bad, [mcname]. You might have a future in acting."
+    sy "演得不错嘛，[mcname]。你说不定有当演员的天赋。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:131
 translate chinese sm1cs_sy002_b8196348:
 
     # mc "Oh? Might? {i}Might{/i} have a future in acting?"
-    mc "Oh? Might? {i}Might{/i} have a future in acting?"
+    mc "哦？说不定？只是{i}说不定{/i}有当演员的天赋？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:132
 translate chinese sm1cs_sy002_dffa6aa3:
 
     # sy "That's what I said, isn't it?"
-    sy "That's what I said, isn't it?"
+    sy "我就是这么说的呀。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:139
 translate chinese sm1cs_sy002_d2c9ed1b:
 
     # sy "Okay, but what if we made the opening spicier, you know? Little more heat to their passion?"
-    sy "Okay, but what if we made the opening spicier, you know? Little more heat to their passion?"
+    sy "不过开场能不能弄得更火辣点呢？你懂吧，让他们的激情更升温些？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:142
 translate chinese sm1cs_sy002_0bbe8df1:
 
     # mc "Oh? I can do that!"
-    mc "Oh? I can do that!"
+    mc "哦？这个我在行！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:145
 translate chinese sm1cs_sy002_b5e61c2b:
 
     # sy "Okay, so they can't keep their hands off each other, but they're not supposed to be here. They're risking {i}everything{/i} right now."
-    sy "Okay, so they can't keep their hands off each other, but they're not supposed to be here. They're risking {i}everything{/i} right now."
+    sy "好，那设定他们无法抗拒彼此的身体，但又不该出现在这里。他们现在是在{i}赌上一切{/i}。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:147
 translate chinese sm1cs_sy002_3936177d:
 
     # mc "Alright!...{w} And, action!"
-    mc "Alright!...{w} And, action!"
+    mc "准备...{w}开始！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:150
 translate chinese sm1cs_sy002_e8585962:
 
     # mc "I shouldn't be here, but I couldn't stay away."
-    mc "I shouldn't be here, but I couldn't stay away."
+    mc "我不该在这里，却控制不住自己。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:154
 translate chinese sm1cs_sy002_f77505d2:
 
     # sy "You shouldn't have come. It's dangerous! If they find out..."
-    sy "You shouldn't have come. It's dangerous! If they find out..."
+    sy "你不该来的。太危险了！要是被他们发现..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:156
 translate chinese sm1cs_sy002_f1b6b822:
 
     # mc "But... I can't stop thinking about you."
-    mc "But... I can't stop thinking about you."
+    mc "可我...止不住地想你。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:157
 translate chinese sm1cs_sy002_a0a54554:
 
     # sy "And I, you..."
-    sy "And I, you..."
+    sy "我也是..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:161
 translate chinese sm1cs_sy002_9edf7d71:
 
     # mc "I almost have everything we need, to leave this place. Together."
-    mc "I almost have everything we need, to leave this place. Together."
+    mc "我差不多凑齐了离开这里要带的东西。我们可以永远在一起了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:165
 translate chinese sm1cs_sy002_21411923:
 
     # sy "I can't wait... to finally be able to fuck you in peace!"
-    sy "I can't wait... to finally be able to fuck you in peace!"
+    sy "我等不及了...终于能和你尽情缠绵！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:172
 translate chinese sm1cs_sy002_2306b455:
@@ -284,349 +284,349 @@ translate chinese sm1cs_sy002_2306b455:
 translate chinese sm1cs_sy002_f2c25646:
 
     # mc "What! I'm sorry! It's hard to take you seriously!"
-    mc "What! I'm sorry! It's hard to take you seriously!"
+    mc "干嘛！抱歉！实在没法对你严肃起来！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:178
 translate chinese sm1cs_sy002_4a81b49f:
 
     # sy "Come on! We're serious actors! Doing serious acting work!"
-    sy "Come on! We're serious actors! Doing serious acting work!"
+    sy "认真点！我们可是专业演员！在进行专业表演！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:179
 translate chinese sm1cs_sy002_ad797be3:
 
     # sy "It's your turn to do a serious moment!"
-    sy "It's your turn to do a serious moment!"
+    sy "该你演深情戏码了！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:181
 translate chinese sm1cs_sy002_7d11e890:
 
     # mc "Fine. Serious face on!"
-    mc "Fine. Serious face on!"
+    mc "好吧。切换严肃模式！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:185
 translate chinese sm1cs_sy002_01930136:
 
     # mc "If loving you is wrong, then I don't want to be right."
-    mc "If loving you is wrong, then I don't want to be right."
+    mc "如果爱你是个错误，我宁愿一错到底。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:187
 translate chinese sm1cs_sy002_aeb55dee:
 
     # sy "Come on, that's the most canned line in the book!"
-    sy "Come on, that's the most canned line in the book!"
+    sy "拜托，这是最老套的台词了好吗！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:188
 translate chinese sm1cs_sy002_a96f2443:
 
     # mc "I-I- I'll do anything to win you over! My life is yours! I love you-"
-    mc "I-I- I'll do anything to win you over! My life is yours! I love you-"
+    mc "我--我愿付出一切来赢得你的心！我的命都是你的！我爱你--"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:199
 translate chinese sm1cs_sy002_a699ad7d:
 
     # sy "Okay, that was terrible! What's even better was that jogger running by. Kodak moment - did you see her face?"
-    sy "Okay, that was terrible! What's even better was that jogger running by. Kodak moment - did you see her face?"
+    sy "停，太俗了！刚才跑步路过的人都比你强。你看到她表情没？那叫一个精彩！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:202
 translate chinese sm1cs_sy002_72d41c8d:
 
     # mc "I don't think she appreciated my dramatic flair!"
-    mc "I don't think she appreciated my dramatic flair!"
+    mc "我觉得她欣赏不来我的戏剧天赋！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:204
 translate chinese sm1cs_sy002_0fae6727:
 
     # sy "Yeah, if you were trying to audition for a soap opera!"
-    sy "Yeah, if you were trying to audition for a soap opera!"
+    sy "是啊，除非你想试镜肥皂剧！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:208
 translate chinese sm1cs_sy002_a5c71a30:
 
     # mc "Oh, you wound me so, sister!"
-    mc "Oh, you wound me so, sister!"
+    mc "哦，你这话太伤人了，老妹！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:210
 translate chinese sm1cs_sy002_609f0d6b:
 
     # mc "Oh, you wound me so, Stacy!"
-    mc "Oh, you wound me so, Stacy!"
+    mc "哦，你这话太伤人了，史黛西！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:213
 translate chinese sm1cs_sy002_ef78fde3:
 
     # mc "Think she might call someone about us?"
-    mc "Think she might call someone about us?"
+    mc "你说她会不会打电话举报我们？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:216
 translate chinese sm1cs_sy002_3c2e5819:
 
     # sy "What, like the cops? For acting? Come on, [mcname]."
-    sy "What, like the cops? For acting? Come on, [mcname]."
+    sy "举报什么，演话剧吗？别闹了，[mcname]。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:217
 translate chinese sm1cs_sy002_9c50b34f:
 
     # sy "Besides, she's running naked through the park! Why the hell would she call the cops on us?"
-    sy "Besides, she's running naked through the park! Why the hell would she call the cops on us?"
+    sy "再说了，她自己都光着身子在公园跑！怎么好意思举报我们？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:220
 translate chinese sm1cs_sy002_ad04b1d7:
 
     # mc "Good point. Why the hell is she running through the park naked anyways?"
-    mc "Good point. Why the hell is she running through the park naked anyways?"
+    mc "有道理。话说她为什么在公园裸奔啊？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:222
 translate chinese sm1cs_sy002_667dcfbb:
 
     # sy "Who knows. But, back to acting!"
-    sy "Who knows. But, back to acting!"
+    sy "谁知道呢。继续排练！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:223
 translate chinese sm1cs_sy002_f23d454d:
 
     # mc "Oh? More acting fun?"
-    mc "Oh? More acting fun?"
+    mc "哦？还要继续？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:226
 translate chinese sm1cs_sy002_f8e935d5:
 
     # sy "We haven't even got to the fun part yet."
-    sy "We haven't even got to the fun part yet."
+    sy "精彩部分还没开始呢。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:230
 translate chinese sm1cs_sy002_9e938f53:
 
     # mc "You never know. People get weird about things like this."
-    mc "You never know. People get weird about things like this."
+    mc "小心为好。有些人就是爱多管闲事。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:233
 translate chinese sm1cs_sy002_ea8ce5a5:
 
     # sy "Alright, let's step it up. Time for the {i}real{/i} drama."
-    sy "Alright, let's step it up. Time for the {i}real{/i} drama."
+    sy "好吧，加大力度。该来点{i}真正的{/i}激情戏了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:235
 translate chinese sm1cs_sy002_9757ef2f:
 
     # mc "Oh, you're challenging me now?"
-    mc "Oh, you're challenging me now?"
+    mc "哦，你这是在挑战我？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:236
 translate chinese sm1cs_sy002_7c7664d1:
 
     # sy "Absolutely."
-    sy "Absolutely."
+    sy "当然。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:253
 translate chinese sm1cs_sy002_2_35acf99c:
 
     # sy "This place has such a vibe at night. It's really, like, the {i}perfect place{/i} for a little saucy acting."
-    sy "This place has such a vibe at night. It's really, like, the {i}perfect place{/i} for a little saucy acting."
+    sy "这地方晚上氛围太棒了。简直是{i}完美的{/i}激情戏表演场地。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:255
 translate chinese sm1cs_sy002_2_90462333:
 
     # mc "Yeah, it is. Hopefully we won't be interepted this time!"
-    mc "Yeah, it is. Hopefully we won't be interepted this time!"
+    mc "是啊。希望咱们这次别被打断了！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:256
 translate chinese sm1cs_sy002_2_f11720dd:
 
     # mc "Because there is a lot for us to still try here."
-    mc "Because there is a lot for us to still try here."
+    mc "我们还有很多姿势要尝试呢。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:259
 translate chinese sm1cs_sy002_2_548e7b61:
 
     # mc "But we should practice our last scene some more."
-    mc "But we should practice our last scene some more."
+    mc "不过得先把最后那场戏练熟。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:260
 translate chinese sm1cs_sy002_2_48e3c08a:
 
     # sy "Yeah, you {i}definitely{/i} need the practice."
-    sy "Yeah, you {i}definitely{/i} need the practice."
+    sy "没错，你{i}确实{/i}需要多加练习。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:261
 translate chinese sm1cs_sy002_2_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "喂！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:266
 translate chinese sm1cs_sy002_2_2ccc42f5:
 
     # sy "Nut nevermind that! Lets get into the acting!"
-    sy "Nut nevermind that! Lets get into the acting!"
+    sy "别管那些了！快进入状态！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:268
 translate chinese sm1cs_sy002_2_d75d9db1:
 
     # mc "Alright, alright... now where were we?"
-    mc "Alright, alright... now where were we?"
+    mc "好吧好吧...我们演到哪了？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:272
 translate chinese sm1cs_sy002_2_12c5ed77:
 
     # sy "Tell me everything. I need to know the truth."
-    sy "Tell me everything. I need to know the truth."
+    sy "跟我坦白一切。我要知道真相。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:274
 translate chinese sm1cs_sy002_2_ac0312b6:
 
     # mc "The truth? You can't handle the truth!"
-    mc "The truth? You can't handle the truth!"
+    mc "真相？你承受不了真相！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:278
 translate chinese sm1cs_sy002_2_2defb3d0:
 
     # mc "I've given up everything for this. For us. And now you question me?"
-    mc "I've given up everything for this. For us. And now you question me?"
+    mc "我放弃了一切。为了我们。现在你居然质疑我？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:281
 translate chinese sm1cs_sy002_2_487d9154:
 
     # sy "How dare you! I trusted you!"
-    sy "How dare you! I trusted you!"
+    sy "混蛋！我那么信任你！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:285
 translate chinese sm1cs_sy002_2_fce3736e:
 
     # mc "Don't leave me. You're all I have left."
-    mc "Don't leave me. You're all I have left."
+    mc "别离开我。你是我唯一的寄托了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:288
 translate chinese sm1cs_sy002_2_5c720981:
 
     # sy "Then prove it."
-    sy "Then prove it."
+    sy "那就证明给我看。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:297
 translate chinese sm1cs_sy002_2_f7c6eed0:
 
     # sy "You think a kiss is enough? I need {i}more.{/i} Show me that you trust me!"
-    sy "You think a kiss is enough? I need {i}more.{/i} Show me that you trust me!"
+    sy "你觉得一个吻就够了？还{i}差得多{/i}呢。向我证明你信任我！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:299
 translate chinese sm1cs_sy002_2_f74794a6:
 
     # mc "Oh, I will my darling."
-    mc "Oh, I will my darling."
+    mc "如你所愿，亲爱的。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:306
 translate chinese sm1cs_sy002_2_e9a17a2e:
 
     # sy "Mmmmm, I like where this is going."
-    sy "Mmmmm, I like where this is going."
+    sy "嗯～这走向我喜欢。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:308
 translate chinese sm1cs_sy002_2_ff4d1452:
 
     # mc "I haven't even started yet."
-    mc "I haven't even started yet."
+    mc "我还没开始发力呢。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:311
 translate chinese sm1cs_sy002_2_78dcf7c5:
 
     # sy "Well don't keep me waiting! I need proof that you believe in me!"
-    sy "Well don't keep me waiting! I need proof that you believe in me!"
+    sy "那还等什么！我要你证明你对我的信任！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:313
 translate chinese sm1cs_sy002_2_aa514fc1:
 
     # mc "Aye, aye!"
-    mc "Aye, aye!"
+    mc "遵命！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:317
 translate chinese sm1cs_sy002_2_561c9b87:
 
     # sy "Oh yessss, [mcname]! Oh that feels sooooo goood!"
-    sy "Oh yessss, [mcname]! Oh that feels sooooo goood!"
+    sy "啊没错，[mcname]！啊啊啊就是这种感觉！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:318
 translate chinese sm1cs_sy002_2_e3ec9059:
 
     # sy "Mmhmmmm, juuuuusssst like thaaaaat!"
-    sy "Mmhmmmm, juuuuusssst like thaaaaat!"
+    sy "嗯啊～～～就是这～～～样！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:321
 translate chinese sm1cs_sy002_2_f3c3bffc:
 
     # mc "Shhllllpppp, shllllp!"
-    mc "Shhllllpppp, shllllp!"
+    mc "吸溜吸溜，啧啧啧！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:322
 translate chinese sm1cs_sy002_2_9566bc87:
 
     # sy "Oooooouuuaaaaaahhhh - yesssssss!"
-    sy "Oooooouuuaaaaaahhhh - yesssssss!"
+    sy "噢啊啊啊--太棒了！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:325
 translate chinese sm1cs_sy002_2_71dda033:
 
     # sy "Show me that legendary tongue, agent!"
-    sy "Show me that legendary tongue, agent!"
+    sy "让我见识下你那传说中的舌头，特工！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:326
 translate chinese sm1cs_sy002_2_80fa2811:
 
     # mct "Man, I can't believe she's staying in character."
-    mct "Man, I can't believe she's staying in character."
+    mct "天，她居然还在角色里。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:329
 translate chinese sm1cs_sy002_2_d02ea3cb:
 
     # mct "Stacy was always destined to be a porn star with a talent like that."
-    mct "Stacy was always destined to be a porn star with a talent like that."
+    mct "史黛西天生就是当艳星的料。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:330
 translate chinese sm1cs_sy002_2_5690cd3a:
 
     # sy "Oh God, Agent [mcname]!"
-    sy "Oh God, Agent [mcname]!"
+    sy "天啊，[mcname]特工！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:331
 translate chinese sm1cs_sy002_2_b37f9b79:
 
     # mct "Like, how can she stay so focused?"
-    mct "Like, how can she stay so focused?"
+    mct "她怎么能这么投入？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:335
 translate chinese sm1cs_sy002_2_e19484b3:
 
     # sy "Oh, if they let you use that tongue on the world stage... you'd end the Cold War! Oh!"
-    sy "Oh, if they let you use that tongue on the world stage... you'd end the Cold War! Oh!"
+    sy "哦，要是允许你用这舌头征服世界舞台…… 冷战都能被你终结！哦！噢！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:338
 translate chinese sm1cs_sy002_2_cfbc263a:
 
     # sy "Oh God, with your tongue - I'm getting closssssse!"
-    sy "Oh God, with your tongue - I'm getting closssssse!"
+    sy "哦天呐，你的舌头太--要去了～～～"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:339
 translate chinese sm1cs_sy002_2_345c673b:
 
     # sy "Oh yes, do that - mmmmmmpppphhh - do that thing with your tongue I like!"
-    sy "Oh yes, do that - mmmmmmpppphhh - do that thing with your tongue I like!"
+    sy "对就这样--嗯嗯嗯--用我最爱的那招！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:342
 translate chinese sm1cs_sy002_2_160cd786:
 
     # sy "Yes, yes, yes, yes, yesssssss!"
-    sy "Yes, yes, yes, yes, yesssssss!"
+    sy "来了来了来了来了啊啊啊！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:343
 translate chinese sm1cs_sy002_2_db8dab70:
 
     # mct "Oooo, Stacy's really turned on tonight. She must really enjoy roleplaying."
-    mct "Oooo, Stacy's really turned on tonight. She must really enjoy roleplaying."
+    mct "史黛西今晚特别兴奋啊。看来她真的很喜欢角色扮演。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:344
 translate chinese sm1cs_sy002_2_4b511c95:
 
     # mct "I'll need to remember this..."
-    mct "I'll need to remember this..."
+    mct "我得把这个记下来..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:347
 translate chinese sm1cs_sy002_2_180a2373:
