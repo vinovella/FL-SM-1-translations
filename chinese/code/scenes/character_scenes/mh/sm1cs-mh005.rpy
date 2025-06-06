@@ -338,7 +338,7 @@ translate chinese sm1cs_mh005_after_game_fe725217:
 translate chinese sm1cs_mh005_after_game_a1d94d36:
 
     # mh "Can I make a request?"
-    mh "我能提个请求吗？
+    mh "我能提个请求吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:332
 translate chinese sm1cs_mh005_after_game_8dd9efd1:
@@ -404,7 +404,7 @@ translate chinese sm1cs_mh005_after_game_f9dcfe91:
 translate chinese sm1cs_mh005_after_game_3857c92f:
 
     # mc "Good! Busy. I have been real busy."
-    mc "不错！挺忙的。我最近真的特别忙。
+    mc "不错！挺忙的。我最近真的特别忙。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:381
 translate chinese sm1cs_mh005_after_game_abeaf693:

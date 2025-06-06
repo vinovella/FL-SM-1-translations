@@ -32,7 +32,7 @@ translate chinese sm1cs_mh002_9a625c0b:
 translate chinese sm1cs_mh002_eaa8ee47:
 
     # mc "About what?"
-    mc "担心什么？
+    mc "担心什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:40
 translate chinese sm1cs_mh002_46c5654c:

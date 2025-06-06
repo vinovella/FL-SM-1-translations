@@ -680,7 +680,7 @@ translate chinese sm1cs_dc006_at_park_022276bb:
 translate chinese sm1cs_dc006_at_park_fc20c130:
 
     # mct "Man, what did I do now? She's got the look again..."
-    mct "天，我又说错什么了？她又露出那种表情...""
+    mct "天，我又说错什么了？她又露出那种表情..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:345
 translate chinese sm1cs_dc006_at_park_e284eeee:

@@ -44,7 +44,7 @@ translate chinese sm1cs_kv000i_94ce756d:
 translate chinese sm1cs_kv000i_0ca7fef1:
 
     # mc "Okay, okay. Where is she?"
-    mc "好吧...她在哪儿？
+    mc "好吧...她在哪儿？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv000i.rpy:27
 translate chinese sm1cs_kv000i_84157046:

@@ -254,7 +254,7 @@ translate chinese sm1cs_dc_renovation_f7c21acd:
 translate chinese sm1cs_dc_renovation_51e4b1d1:
 
     # dc "And one of your connections was loose. You had it like 90 percent of the way there."
-    dc "还有个接口松了。其实你已经完成90%了。"
+    dc "还有个接口松了。其实你已经完成90%%了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:189
 translate chinese sm1cs_dc_renovation_a1c774a3:
@@ -590,7 +590,7 @@ translate chinese sm1cs_dc_renovation_4b5b2052:
 translate chinese sm1cs_dc_renovation_a25cfcd0:
 
     # dc "Mmmmm, I guess we will!"
-    dc "嗯～看来是得想想办法！" 
+    dc "嗯～看来是得想想办法！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:359
 translate chinese sm1cs_dc_renovation_fce227f8:

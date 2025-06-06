@@ -1760,7 +1760,7 @@ translate chinese sm1cs_bg003_continue_228a6c27:
 translate chinese sm1cs_bg003_continue_218be03c:
 
     # mc "Oh shi- I'm getting close."
-    mc 操...我快射了。"
+    mc "操...我快射了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:926
 translate chinese sm1cs_bg003_continue_a34a54ab:
