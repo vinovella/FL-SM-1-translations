@@ -4,201 +4,200 @@ translate turkish strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Invite Stacy to Amusement Park during the day"
-    new ""
+    new "Gündüz Stacy'yi Lunapark'a davet et"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Stacy during day timeslot to interview Taisia"
-    new ""
+    new "Gündüz zaman diliminde Taisia ile röportaj yapmak için Stacy ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Main Storyline"
-    new ""
+    new "Ana hikayeyi ilerlet"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Go to the Theater"
-    new ""
+    new "Tiyatroya git"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Go to the Theater for audition during the Day timeslot"
-    new ""
+    new "Gündüz zaman diliminde seçmelere katılmak için tiyatroya git"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress the individual storylines for the Theater girls"
-    new ""
+    new "Tiyatro kızlarının bireysel hikayelerini ilerlet"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Denise"
-    new ""
+    new "Denise ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica and Kellie story line"
-    new ""
+    new "Veronica ve Kellie'nin hikayesini ilerlet"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do Saturday show at least {}/3 times"
-    new ""
+    new "Cumartesi gösterisini en az {}/3 kez yap"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have {}/10 total Relationship Points with Theater girls"
-    new ""
+    new "Tiyatro kızlarıyla toplam {}/10 ilişki puanı kazan"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do Saturday show at least {}/3 times and have {}/10 total Relationship Points with Theater girls"
-    new ""
+    new "Cumartesi gösterisini en az {}/3 kez yap ve tiyatro kızlarıyla toplam {}/10 ilişki puanı kazan"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Read message from Denise"
-    new ""
+    new "Denise'den gelen mesajı oku"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Visit Theater at Noon"
-    new ""
+    new "Öğle vakti tiyatroyu ziyaret et"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kelly at her dressing room"
-    new ""
+    new "Kelly ile kulisinde konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress the Theater storyline"
-    new ""
+    new "Tiyatro hikayesini ilerlet"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kellie on the stage"
-    new ""
+    new "Sahnede Kellie ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Buy the 'An Actor Prepares' book at the store"
-    new ""
+    new "'Bir Aktör Hazırlanıyor' kitabını mağazadan satın al"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Get your Literature to 5"
-    new ""
+    new "Edebiyat seviyeni 5'e çıkar"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kellie"
-    new ""
+    new "Kellie ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's story"
-    new ""
+    new "Veronica'nın hikayesini ilerlet"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Text Kellie"
-    new ""
+    new "Kellie'ye mesaj at"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's story line"
-    new ""
+    new "Veronica'nın hikayesini ilerlet"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica in the afternoon"
-    new ""
+    new "Öğleden sonra Veronica ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kellie in the afternoon at Theater"
-    new ""
+    new "Öğleden sonra tiyatroda Kellie ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "This quest line is finished for this game"
-    new ""
+    new "Bu görev dizisi bu oyun için tamamlandı"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Denise in her office"
-    new ""
+    new "Denise ile ofisinde konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia about \"work\" during the day time"
-    new ""
+    new "Gündüz saatlerinde Taisia ile "iş" hakkında konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have ${}/$50 and talk with Taisia when she is in front of the stage"
-    new ""
+    new "${}/50$ paran olsun ve Taisia sahnenin önündeyken onunla konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $50 and talk with Taisia when she is in front of the stage"
-    new ""
+    new "50$'ın olsun ve Taisia sahnenin önündeyken onunla konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have ${}/$100 and invite Taisia to make a film"
-    new ""
+    new "${}/100$ paran olsun ve Taisia'yı film yapmaya davet et"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $100 and invite Taisia to make a film"
-    new ""
+    new "100$'ın olsun ve Taisia'yı film yapmaya davet et"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia"
-    new ""
+    new "Taisia ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Wait for a message from Taisia"
-    new ""
+    new "Taisia'dan mesaj bekle"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Answer Taisia"
-    new ""
+    new "Taisia'ya cevap ver"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Stacy about Taisia"
-    new ""
+    new "Taisia hakkında Stacy ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Message Taisia to meet her with Stacy"
-    new ""
+    new "Stacy ile buluşmak için Taisia'ya mesaj at"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia about moving in"
-    new ""
+    new "Taisia ile taşınma hakkında konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia about moving in after finishing the renovations"
-    new ""
+    new "Tadilat bittikten sonra taşınma hakkında Taisia ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Visit Taisia in her room in the evening"
-    new ""
+    new "Akşamları Taisia'yı odasında ziyaret et"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica at the Stage"
-    new ""
+    new "Sahnede Veronica ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica"
-    new ""
+    new "Veronica ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Buy the 'Stars Weekly' Magazin from the store"
-    new ""
+    new "'Stars Weekly' dergisini mağazadan satın al"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Get your Film and TV Topic to 3"
-    new ""
+    new "Film ve TV konusunu 3. seviyeye çıkar"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Kellie's storyline"
-    new ""
+    new "Kellie'nin hikayesini ilerlet"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica on the Stage"
-    new ""
+    new "Sahnede Veronica ile konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the rehearsal on {}"
-    new ""
+    new "{} tarihinde provaya katıl"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Kellie's story"
-    new ""
+    new "Kellie'nin hikayesini ilerlet"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Wait for Veronica to text you"
-    new ""
+    new "Veronica'nın sana mesaj atmasını bekle"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Text Veronica"
-    new ""
+    new "Veronica'ya mesaj at"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Veronica in the afternoon"
-    new ""
-
+    new "Öğleden sonra Veronica ile konuş"
