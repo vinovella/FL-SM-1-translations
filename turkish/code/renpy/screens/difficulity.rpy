@@ -4,17 +4,17 @@ translate turkish strings:
 
     # game/code/renpy/screens/difficulity.rpy:12
     old "GAME MODE"
-    new ""
+    new "OYUN MODU"
 
     # game/code/renpy/screens/difficulity.rpy:22
     old "Full Experience"
-    new ""
+    new "Tam Deneyim"
 
     # game/code/renpy/screens/difficulity.rpy:34
     old "No Minigames"
-    new ""
+    new "Minigame yok"
 
     # game/code/renpy/screens/difficulity.rpy:46
     old "No Sandbox\n{size=25}(Beta){/size}"
-    new ""
+    new "Sandbox yok\n{size=25}(Beta){/size}"
 
