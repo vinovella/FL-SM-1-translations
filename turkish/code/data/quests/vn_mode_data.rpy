@@ -4,569 +4,568 @@ translate turkish strings:
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Movie night with Stacy"
-    new ""
+    new "Stacy ile film gecesi"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk with Stacy about new job"
-    new ""
+    new "Yeni iş hakkında Stacy ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Check out what Stacy is doing"
-    new ""
+    new "Stacy'nin ne yaptığına bak"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet an unexpected visitor"
-    new ""
+    new "Beklenmedik bir ziyaretçiyle tanış"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Progress Denise, Kellie and Veronica's storyline"
-    new ""
+    new "Denise, Kellie ve Veronica'nın hikayesini ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "A call with AmRose"
-    new ""
+    new "AmRose ile bir telefon görüşmesi"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about Theater"
-    new ""
+    new "Tiyatro hakkında Stacy ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Lunch with Stacy"
-    new ""
+    new "Stacy ile öğle yemeği"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "At the restaurant"
-    new ""
+    new "Restoranda"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Give Stacy the money for a wig"
-    new ""
+    new "Stacy'ye peruk parası ver"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Tell Kanya about the client"
-    new ""
+    new "Müşteri hakkında Kanya'ya bilgi ver"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Prepare for the first film"
-    new ""
+    new "İlk film için hazırlan"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Trouble with AmRose"
-    new ""
+    new "AmRose ile sorun"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Review your first film"
-    new ""
+    new "İlk filmini gözden geçir"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Have some fun with Stacy"
-    new ""
+    new "Stacy ile biraz eğlen"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Progress the Theater and Taisia's storyline"
-    new ""
+    new "Tiyatro ve Taisia'nın hikayesini ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Begin the renovation"
-    new ""
+    new "Yenilemeye başla"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Tour the Theater with Stacy and Melony"
-    new ""
+    new "Stacy ve Melony ile tiyatroyu gez"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "At the Theater"
-    new ""
+    new "Tiyatroda"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Continue renovating"
-    new ""
+    new "Yenilemeye devam et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Take a break with Stacy"
-    new ""
+    new "Stacy ile ara ver"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Tour Orbix with Stacy and Melony"
-    new ""
+    new "Stacy ve Melony ile Orbix'i gez"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "At Orbix"
-    new ""
+    new "Orbix'te"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Finish the renovation"
-    new ""
+    new "Yenilemeyi bitir"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Celebrate your success"
-    new ""
+    new "Başarını kutla"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Tell Stacy you are ready"
-    new ""
+    new "Stacy'ye hazır olduğunu söyle"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Plan the next steps"
-    new ""
+    new "Bir sonraki adımları planla"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Text Kanya"
-    new ""
+    new "Kanya'ya mesaj at"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Film the next movie"
-    new ""
+    new "Bir sonraki filmi çek"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Help Stacy with editing the movie"
-    new ""
+    new "Filmi düzenlemede Stacy'ye yardım et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Check the status of the movie editing"
-    new ""
+    new "Film düzenlemesinin durumunu kontrol et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Check out the edited movie"
-    new ""
+    new "Düzenlenmiş filmi incele"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Learn about other jobs"
-    new ""
+    new "Diğer işler hakkında bilgi edin"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about AmRose"
-    new ""
+    new "AmRose hakkında Stacy ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet with AmRose"
-    new ""
+    new "AmRose ile buluş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "At the Starducks Cafe"
-    new ""
+    new "Starducks Kafede"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Chat with Amore"
-    new ""
+    new "Amore ile sohbet et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Photoshoot with Amore"
-    new ""
+    new "Amore ile fotoğraf çekimi"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Check out photos"
-    new ""
+    new "Fotoğraflara göz at"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Next steps with Amore"
-    new ""
+    new "Amore ile sonraki adımlar"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet Debbie the cop"
-    new ""
+    new "Polis Debbie ile tanış"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Help out Debbie"
-    new ""
+    new "Debbie'ye yardım et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Coffee with Debbie"
-    new ""
+    new "Debbie ile kahve iç"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Chat with Debbie"
-    new ""
+    new "Debbie ile sohbet et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "What's up with Debbie?"
-    new ""
+    new "Debbie ile neler oluyor?"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Coffee break with Debbie"
-    new ""
+    new "Debbie ile kahve molası"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Answer Debbie's message"
-    new ""
+    new "Debbie'nin mesajına cevap ver"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet Debbie in the park at night"
-    new ""
+    new "Geceleri parkta Debbie ile buluş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Learn about Kanya"
-    new ""
+    new "Kanya hakkında bilgi edin"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet Kanya"
-    new ""
+    new "Kanya ile tanış"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Improve your photography skills"
-    new ""
+    new "Fotoğrafçılık becerilerini geliştir"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Show your home to Kanya"
-    new ""
+    new "Evini Kanya'ya göster"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Sexy photo session with Kanya"
-    new ""
+    new "Kanya ile seksi fotoğraf çekimi"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Progress Lyssa's and Main storylines"
-    new ""
+    new "Lyssa'nın ve ana hikayenin ilerlemesi"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Show off your photo skills"
-    new ""
+    new "Fotoğrafçılık yeteneklerini göster"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Encounter with Maya"
-    new ""
+    new "Maya ile karşılaşma"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Maya"
-    new ""
+    new "Maya ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Delivery with Maya"
-    new ""
+    new "Maya ile teslimat"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet a old friend"
-    new ""
+    new "Eski bir arkadaşla buluş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about Min"
-    new ""
+    new "Min hakkında Stacy ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Invite Min to the Studio"
-    new ""
+    new "Min'i stüdyoya davet et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Answer Min's text"
-    new ""
+    new "Min'in mesajına cevap ver"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk with Stacy about Lyssa"
-    new ""
+    new "Lyssa hakkında Stacy ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Go see Lyssa"
-    new ""
+    new "Lyssa'yı görmeye git"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about Lyssa"
-    new ""
+    new "Lyssa hakkında Stacy ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about date with Lyssa"
-    new ""
+    new "Lyssa ile randevu hakkında Stacy ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Go on date with Lyssa"
-    new ""
+    new "Lyssa ile randevuya çık"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Next date with Lyssa"
-    new ""
+    new "Lyssa ile bir sonraki randevu"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Another date with Lyssa"
-    new ""
+    new "Lyssa ile başka bir randevu"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Help Lyssa relax"
-    new ""
+    new "Lyssa'nın rahatlamasına yardım et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "An evening with Melony"
-    new ""
+    new "Melony ile bir akşam"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk with the Bartender"
-    new ""
+    new "Barmen ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Kinky time with Stacy"
-    new ""
+    new "Stacy ile fantezi dolu zaman"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "An evening with Stacy"
-    new ""
+    new "Stacy ile bir akşam"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "First IT Interview"
-    new ""
+    new "İlk BT görüşmesi"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Second IT Interview"
-    new ""
+    new "İkinci BT görüşmesi"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "First day at IT"
-    new ""
+    new "BT'de ilk gün"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet the client"
-    new ""
+    new "Müşteri ile tanış"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Progress Anna and Nari's storylines"
-    new ""
+    new "Anna ve Nari'nin hikayesini ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Night out at the bar"
-    new ""
+    new "Barda geçirilen bir gece"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Where is Anna?"
-    new ""
+    new "Anna nerede?"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Anna's cliché"
-    new ""
+    new "Anna'nın klişesi"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Work with April"
-    new ""
+    new "April ile çalış"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "What's up with April?"
-    new ""
+    new "April'de neler oluyor?"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Visit April"
-    new ""
+    new "April'i ziyaret et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Watch April's band"
-    new ""
+    new "April'in grubunu izle"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to April"
-    new ""
+    new "April ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Decide to date April"
-    new ""
+    new "April ile çıkmaya karar ver"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Go on date with April"
-    new ""
+    new "April ile randevuya çık"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Claire"
-    new ""
+    new "Claire ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Go see Claire"
-    new ""
+    new "Claire'i görmeye git"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Claire has a request"
-    new ""
+    new "Claire'in bir isteği var"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Client meeting with Claire"
-    new ""
+    new "Claire ile müşteri toplantısı"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about Claire"
-    new ""
+    new "Claire hakkında Stacy ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet Claire at the office kitchen"
-    new ""
+    new "Ofis mutfağında Claire ile buluş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Lunch with Nari"
-    new ""
+    new "Nari ile öğle yemeği"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Help out Nari"
-    new ""
+    new "Nari'ye yardım et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "What's with Nari"
-    new ""
+    new "Nari ile ilgili ne var"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Learn more about Nari"
-    new ""
+    new "Nari hakkında daha fazla bilgi edin"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Nari has a gift for you"
-    new ""
+    new "Nari'nin senin için bir hediyesi var"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Work late with Nari"
-    new ""
+    new "Nari ile geç saate kadar çalış"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Ask Nari on a date"
-    new ""
+    new "Nari'ye çıkma teklif et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Date with Nari"
-    new ""
+    new "Nari ile randevu"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Time for meeting"
-    new ""
+    new "Toplantı zamanı"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Suprise Nari at night"
-    new ""
+    new "Gece Nari'ye sürpriz yap"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Empty office\nAt night"
-    new ""
+    new "Boş ofis\nGece"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Text Nari"
-    new ""
+    new "Nari'ye mesaj at"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about Nari"
-    new ""
+    new "Nari hakkında Stacy ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Go to the Haunted House"
-    new ""
+    new "Perili Eve git"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "At the Haunted House"
-    new ""
+    new "Perili Evde"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Research Theater"
-    new ""
+    new "Tiyatroyu araştır"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Go to Theater"
-    new ""
+    new "Tiyatroya git"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Group meeting"
-    new ""
+    new "Grup toplantısı"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Progress Denise, Kellie, Taisia and Veronica's storyline"
-    new ""
+    new "Denise, Kellie, Taisia ve Veronica'nın hikayesini ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Acting workshop"
-    new ""
+    new "Oyunculuk atölyesi"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "New show announcement"
-    new ""
+    new "Yeni gösteri duyurusu"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet with Denise"
-    new ""
+    new "Denise ile buluş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet Kellie"
-    new ""
+    new "Kellie ile tanış"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet with Kellie"
-    new ""
+    new "Kellie ile buluş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Learn about Kellie"
-    new ""
+    new "Kellie hakkında bilgi edin"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Kellie is up to something"
-    new ""
+    new "Kellie bir şeyler çeviriyor"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Help out Kellie"
-    new ""
+    new "Kellie'ye yardım et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet with Taisia"
-    new ""
+    new "Taisia ile buluş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Taisia"
-    new ""
+    new "Taisia ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Film with Taisia"
-    new ""
+    new "Taisia ile film çek"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Have a drink with Taisia"
-    new ""
+    new "Taisia ile bir şeyler iç"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Answer Taisia's message"
-    new ""
+    new "Taisia'nın mesajına cevap ver"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Message Taisia for meet up"
-    new ""
+    new "Buluşmak için Taisia'ya mesaj at"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about Taisia"
-    new ""
+    new "Taisia hakkında Stacy ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Taisia Date"
-    new ""
+    new "Taisia ile randevu"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Visit Taisia in her room"
-    new ""
+    new "Taisia'yı odasında ziyaret et"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet Veronica"
-    new ""
+    new "Veronica ile tanış"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk with Veronica"
-    new ""
+    new "Veronica ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Learn about Veronica"
-    new ""
+    new "Veronica hakkında bilgi edin"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Practice with Veronica"
-    new ""
+    new "Veronica ile prova yap"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Filming practice with Stacy"
-    new ""
+    new "Stacy ile çekim provası"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Renovation help from Nari"
-    new ""
+    new "Yenileme için Nari'den yardım al"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Renovation help from Taisia"
-    new ""
+    new "Yenileme için Taisia'dan yardım al"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Renovation help from Kanya"
-    new ""
+    new "Yenileme için Kanya'dan yardım al"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Renovation help from April"
-    new ""
+    new "Yenileme için April'den yardım al"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Renovation help from Veronica"
-    new ""
+    new "Yenileme için Veronica'dan yardım al"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Renovation help from Debbie"
-    new ""
-
+    new "Yenileme için Debbie'den yardım al"
