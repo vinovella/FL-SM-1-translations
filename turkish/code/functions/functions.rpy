@@ -4,13 +4,13 @@ translate turkish strings:
 
     # game/code/functions/functions.rpy:9
     old "Young"
-    new ""
+    new "Young"
 
     # game/code/functions/functions.rpy:10
     old "Brown"
-    new ""
+    new "Brown"
 
     # game/code/functions/functions.rpy:15
     old "Chase"
-    new ""
+    new "Chase"
 
