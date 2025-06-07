@@ -4,21 +4,21 @@ translate turkish strings:
 
     # game/code/renpy/screens/character.rpy:29
     old "Relationship Points"
-    new ""
+    new "İlişki Puanları"
 
     # game/code/renpy/screens/character.rpy:35
     old "Topics"
-    new ""
+    new "Konular"
 
     # game/code/renpy/screens/character.rpy:44
     old "Traits"
-    new ""
+    new "Özellikler"
 
     # game/code/renpy/screens/character.rpy:52
     old "Fetishes"
-    new ""
+    new "Fetişler"
 
     # game/code/renpy/screens/character.rpy:59
     old "Progress "
-    new ""
+    new "İlerleme "
 
