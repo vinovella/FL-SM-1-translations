@@ -1,90 +1,89 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
+# TODO: Translation updated at 2025-06-02 06:24
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:6
 translate turkish sm1cs_am004i_71f06d2b:
 
     # mc "Hey, April."
-    mc ""
+    mc "Merhaba, April."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:8
 translate turkish sm1cs_am004i_61497916:
 
     # am "Yes?"
-    am ""
+    am "Evet?" diyorum
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:9
 translate turkish sm1cs_am004i_c60dab29:
 
     # mc "That concert you invited to, it's tonight, right?"
-    mc ""
+    mc "Davet ettiğin konser bu gece, değil mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:13
 translate turkish sm1cs_am004i_4663ec60:
 
     # am "Huh? Oh yeah. I thought you might have forgotten about that."
-    am ""
+    am "Ha? Ah evet. Bunu unutmuş olabileceğini düşünmüştüm."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:15
 translate turkish sm1cs_am004i_6ff41185:
 
     # mc "Nope."
-    mc ""
+    mc "Hayır."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:16
 translate turkish sm1cs_am004i_938610e5:
 
     # am "So you're for sure coming?"
-    am ""
+    am "Yani kesin geliyorsun?"
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:20
 translate turkish sm1cs_am004i_6d5df964:
 
     # mc "Yes, of course, I'm coming. I'm excited to see you rock out."
-    mc ""
+    mc "Evet, elbette geliyorum. Senin rock yaptığını görmek ami heyecanlandırıyor."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:24
 translate turkish sm1cs_am004i_ff3a2552:
 
     # am "Well, don't forget, it's pagon rock. I don't want to hear you whining later."
-    am ""
+    am "Unutma, bu pagon rock. Daha sonra sızlanmanı duymak istemiyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
 translate turkish sm1cs_am004i_9cbe2ef6:
 
     # mc "Woudln't dream of it. See you tonight."
-    mc ""
+    mc "Aklımdan bile geçirmem. Bu gece görüşürüz."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:27
 translate turkish sm1cs_am004i_6e94d2fc:
 
     # am "Later."
-    am ""
+    am"Sonra."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:32
 translate turkish sm1cs_am004i_10ea311e:
 
     # mc "Oh shit. I actually have something going on tonight."
-    mc ""
+    mc "Aman Tanrım. Bu gece gerçekten yapacak bir şeyim var."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:36
 translate turkish sm1cs_am004i_7297c52f:
 
     # am "Whatever. If you don't want to come, just say that."
-    am ""
+    am "Ne olursa olsun. Gelmek istemiyorsan söyle."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:37
 translate turkish sm1cs_am004i_c3079f66:
 
     # am "Bye."
-    am ""
+    am "Hoşça kalın."
 
 translate turkish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am004i.rpy:17
     old "Of course I am"
-    new ""
+    new "Elbette öyleyim"
 
     # game/code/scenes/it_office/am/sm1cs-am004i.rpy:17
     old "On second thought, I have something I need to do"
-    new ""
-
+    new "Bir daha düşündüm de, yapmam gereken bir şey var."
