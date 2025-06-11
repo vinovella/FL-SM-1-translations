@@ -1,4 +1,4 @@
-﻿translate spanish strings:
+translate spanish strings:
 
     # game/code/debug/quests.rpy:3
     old "T001"
