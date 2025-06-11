@@ -1,14 +1,14 @@
-﻿translate spanish strings:
+translate spanish strings:
 
     # game/code/renpy/screens/sandbox.rpy:50
     old "Open map"
-    new "Open map"
+    new "Mapa"
 
     # game/code/renpy/screens/sandbox.rpy:89
     old "Show Navigation"
-    new "Show Navigation"
+    new "Mostrar navegación"
 
     # game/code/renpy/screens/sandbox.rpy:91
     old "Hide Navigation"
-    new "Hide Navigation"
+    new "Ocultar navegación"
 
