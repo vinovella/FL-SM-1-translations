@@ -1,4 +1,4 @@
-﻿translate spanish strings:
+translate spanish strings:
 
     # game/code/functions/functions.rpy:9
     old "Young"
@@ -6,7 +6,7 @@
 
     # game/code/functions/functions.rpy:10
     old "Brown"
-    new "Brown"
+    new "Marrón"
 
     # game/code/functions/functions.rpy:15
     old "Chase"
