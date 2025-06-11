@@ -1,74 +1,74 @@
-﻿translate spanish strings:
+translate spanish strings:
 
     # game/code/data/constants/constants.rpy:343
     old "Animals"
-    new "Animals"
+    new "Animales"
 
     # game/code/data/constants/constants.rpy:344
     old "Art"
-    new "Art"
+    new "Arte"
 
     # game/code/data/constants/constants.rpy:345
     old "Automobiles"
-    new "Automobiles"
+    new "Automóviles"
 
     # game/code/data/constants/constants.rpy:346
     old "Collecting"
-    new "Collecting"
+    new "Colección"
 
     # game/code/data/constants/constants.rpy:347
     old "Fashion"
-    new "Fashion"
+    new "Moda"
 
     # game/code/data/constants/constants.rpy:348
     old "Film and TV"
-    new "Film and TV"
+    new "Cine y televisión"
 
     # game/code/data/constants/constants.rpy:349
     old "Finance"
-    new "Finance"
+    new "Finanzas"
 
     # game/code/data/constants/constants.rpy:350
     old "Fitness"
-    new "Fitness"
+    new "Aptitud física"
 
     # game/code/data/constants/constants.rpy:351
     old "Food and Drink"
-    new "Food and Drink"
+    new "Comida y bebida"
 
     # game/code/data/constants/constants.rpy:352
     old "Gaming"
-    new "Gaming"
+    new "Juegos"
 
     # game/code/data/constants/constants.rpy:353
     old "Gardening"
-    new "Gardening"
+    new "Jardinería"
 
     # game/code/data/constants/constants.rpy:354
     old "Literature"
-    new "Literature"
+    new "Literatura"
 
     # game/code/data/constants/constants.rpy:355
     old "Music"
-    new "Music"
+    new "Música"
 
     # game/code/data/constants/constants.rpy:356
     old "Photography"
-    new "Photography"
+    new "Fotografía"
 
     # game/code/data/constants/constants.rpy:357
     old "Science"
-    new "Science"
+    new "Ciencia"
 
     # game/code/data/constants/constants.rpy:358
     old "Sports"
-    new "Sports"
+    new "Deportes"
 
     # game/code/data/constants/constants.rpy:359
     old "Technology"
-    new "Technology"
+    new "Tecnología"
 
     # game/code/data/constants/constants.rpy:360
     old "Travel"
-    new "Travel"
+    new "Viajar"
 
