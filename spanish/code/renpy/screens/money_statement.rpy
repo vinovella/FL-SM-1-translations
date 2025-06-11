@@ -1,18 +1,18 @@
-﻿translate spanish strings:
+translate spanish strings:
 
     # game/code/renpy/screens/money_statement.rpy:71
     old "BACK"
-    new "BACK"
+    new "ATRÁS"
 
     # game/code/renpy/screens/money_statement.rpy:72
     old "NEXT"
-    new "NEXT"
+    new "SIGUIENTE"
 
     # game/code/renpy/screens/money_statement.rpy:72
     old "HIDE"
-    new "HIDE"
+    new "ESCONDER"
 
     # game/code/renpy/screens/money_statement.rpy:78
     old "SKIP ALL"
-    new "SKIP ALL"
+    new "OMITIR TODO"
 
