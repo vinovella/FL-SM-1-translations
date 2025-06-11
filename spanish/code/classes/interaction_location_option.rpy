@@ -1,4 +1,4 @@
-﻿translate spanish strings:
+translate spanish strings:
 
     # game/code/classes/interaction_location_option.rpy:47
     old "{name} ({wrong_time_message})"
