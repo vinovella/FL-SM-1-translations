@@ -1,8 +1,8 @@
-﻿# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:35
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:35
 translate spanish q_inter_ns_1_50c97503:
 
     # ns "Hello [mcname]."
-    ns "Hello [mcname]."
+    ns "Hola [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:41
 translate spanish q_inter_ns_2_8238e93f:
@@ -14,43 +14,43 @@ translate spanish q_inter_ns_2_8238e93f:
 translate spanish q_inter_ns_2_98040bc6:
 
     # mc "Hey Nari. Everything alright?"
-    mc "Hey Nari. Everything alright?"
+    mc "Hola Nari. ¿Todo está bien?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:45
 translate spanish q_inter_ns_2_6f9834b8:
 
     # ns "Yes. No. I mean it will be. I just need to reopen my last ticket."
-    ns "Yes. No. I mean it will be. I just need to reopen my last ticket."
+    ns "Sí. No. Quiero decir, lo estará. Solo necesito reabrir mi último ticket."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:46
 translate spanish q_inter_ns_2_d826c946:
 
     # ns "I think I forgot something. I don't want April to see."
-    ns "I think I forgot something. I don't want April to see."
+    ns "Creo que olvidé algo. No quiero que Abril lo vea."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:53
 translate spanish q_inter_ns_3_73e3eacd:
 
     # mc "What's new, Nari?"
-    mc "What's new, Nari?"
+    mc "¿Qué hay de nuevo, Nari?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:55
 translate spanish q_inter_ns_3_1cebca22:
 
     # ns "Hmm. Well, I was just about to check out my stocks."
-    ns "Hmm. Well, I was just about to check out my stocks."
+    ns "Mmm. Bueno, estaba a punto de ver mis acciones."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:56
 translate spanish q_inter_ns_3_79c83692:
 
-    # ns "Oh... "
-    ns "Oh... "
+    # ns "Oh..."
+    ns "Oh..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:58
 translate spanish q_inter_ns_3_a78f91f6:
 
     # mc "Bad news?"
-    mc "Bad news?"
+    mc "¿Malas noticias?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:60
 translate spanish q_inter_ns_3_254a8a0c:
@@ -62,295 +62,295 @@ translate spanish q_inter_ns_3_254a8a0c:
 translate spanish q_inter_ns_4_3da4d721:
 
     # ns "I've been listening to a new podcast called Dog Day Money, [mcname]."
-    ns "I've been listening to a new podcast called Dog Day Money, [mcname]."
+    ns "He estado escuchando un nuevo podcast llamado Dog Day Money, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:68
 translate spanish q_inter_ns_4_b268d502:
 
     # ns "If you're interested in becoming a millionaire quick, you should listen in."
-    ns "If you're interested in becoming a millionaire quick, you should listen in."
+    ns "Si estás interesado en convertirte en un millonario rápido, debes escucharlo."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:70
 translate spanish q_inter_ns_4_f89f6ba5:
 
     # mc "Heh. Sounds a bit like a scam."
-    mc "Heh. Sounds a bit like a scam."
+    mc "Je. Suena un poco como una estafa."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:71
 translate spanish q_inter_ns_4_be4014f8:
 
     # ns "You're wise to be cautious, but Dr. Dog is a professional. He says so himself."
-    ns "You're wise to be cautious, but Dr. Dog is a professional. He says so himself."
+    ns "Eres sabio por ser cauteloso, pero el Dr. Dog es un profesional. Lo dice él mismo."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:78
 translate spanish q_inter_ns_5_3711e06c:
 
     # ns "Do you think that one day I could be in charge of my own company, [mcname]?"
-    ns "Do you think that one day I could be in charge of my own company, [mcname]?"
+    ns "¿Crees que algún día podría estar a cargo de mi propia empresa, [mcname]?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:80
 translate spanish q_inter_ns_5_89e0ec43:
 
     # mc "You're pretty smart and very hard-working, Nari."
-    mc "You're pretty smart and very hard-working, Nari."
+    mc "Eres bastante inteligente y muy trabajadora, Nari."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:81
 translate spanish q_inter_ns_5_a5116b32:
 
     # mc "With enough time, I think you could totally become a CEO."
-    mc "With enough time, I think you could totally become a CEO."
+    mc "Con suficiente tiempo, creo que podrías convertirte totalmente en CEO."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:85
 translate spanish q_inter_ns_5_cd831e20:
 
     # ns "Really? Thanks [mcname]!"
-    ns "Really? Thanks [mcname]!"
+    ns "¿De verdad? ¡Gracias [mcname]!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:92
 translate spanish q_inter_ns_6_941f107c:
 
     # ns "This place is really amazing."
-    ns "This place is really amazing."
+    ns "Este lugar es realmente sorprendente."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:94
 translate spanish q_inter_ns_6_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "¿Sí?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:95
 translate spanish q_inter_ns_6_e639df42:
 
     # ns "Mmhmm! A lot of potential. Most of the offices I worked in Korea were a lot more compact."
-    ns "Mmhmm! A lot of potential. Most of the offices I worked in Korea were a lot more compact."
+    ns "¡Mmhmm! Mucho potencial. La mayoría de las oficinas en las que trabajé en Corea eran mucho más compactas."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:96
 translate spanish q_inter_ns_6_e69a46ff:
 
     # mc "Glad you like it, Nari."
-    mc "Glad you like it, Nari."
+    mc "Me alegro de que te guste, Nari."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:103
 translate spanish q_inter_ns_7_b09fb556:
 
     # ns "Oh hey there. How's it going , [mcname]?"
-    ns "Oh hey there. How's it going , [mcname]?"
+    ns "Oh, oye, ahí. ¿Cómo te va, [mcname]?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:105
 translate spanish q_inter_ns_7_6045e3dc:
 
     # mc "Not bad, Nari. What are you up to?"
-    mc "Not bad, Nari. What are you up to?"
+    mc "No está mal, Nari. ¿Qué estás haciendo?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:107
 translate spanish q_inter_ns_7_77d33219:
 
     # ns "*sniffs* Nothing much, just taking a stroll and enjoying some fresh air."
-    ns "*sniffs* Nothing much, just taking a stroll and enjoying some fresh air."
+    ns "*olfatea* No mucho, solo dando un paseo y disfrutando de un poco del aire fresco."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:108
 translate spanish q_inter_ns_7_01ef969c:
 
     # ns "I'll catch you next time, [mcname]."
-    ns "I'll catch you next time, [mcname]."
+    ns "Te veré la próxima vez, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:114
 translate spanish q_inter_ns_8_1adbede7:
 
     # mc "Hey Nari. You're looking perky."
-    mc "Hey Nari. You're looking perky."
+    mc "Hola Nari. Te ves alegre."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:116
 translate spanish q_inter_ns_8_bcec72e1:
 
     # ns "Mmhmm!"
-    ns "Mmhmm!"
+    ns "¡Mmhmm!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:117
 translate spanish q_inter_ns_8_6060da66:
 
     # ns "I love just strolling through the park. Especially after work."
-    ns "I love just strolling through the park. Especially after work."
+    ns "Me encanta pasear por el parque. Especialmente después del trabajo."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:118
 translate spanish q_inter_ns_8_fb12104e:
 
     # ns "It's great to stretch out my legs and feel the breeze on my nip-"
-    ns "It's great to stretch out my legs and feel the breeze on my nip-"
+    ns "Es genial estirar mis piernas y sentir la brisa en mis pezo...."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:120
 translate spanish q_inter_ns_8_b17ab48f:
 
     # ns "Well... you know *giggles*"
-    ns "Well... you know *giggles*"
+    ns "Bueno... ya sabes *risas*"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:127
 translate spanish q_inter_ns_9_a70c5777:
 
     # mc "Hey Nari."
-    mc "Hey Nari."
+    mc "Hola Nari."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:129
 translate spanish q_inter_ns_9_92f52b58:
 
     # ns "Oh hey, [mcname]."
-    ns "Oh hey, [mcname]."
+    ns "Oh, oye, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:130
 translate spanish q_inter_ns_9_5e57df47:
 
     # mc "Something on your mind?"
-    mc "Something on your mind?"
+    mc "¿Te preocupa algo?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:134
 translate spanish q_inter_ns_9_6631d74b:
 
     # ns "Mmm. If I could just figure out some groundbreaking tech, I could buy a home and turn my big backyard into something beautiful like this."
-    ns "Mmm. If I could just figure out some groundbreaking tech, I could buy a home and turn my big backyard into something beautiful like this."
+    ns "Mmm. Si pudiera encontrar una tecnología innovadora, podría comprar una casa y convertir mi gran patio trasero en algo hermoso como este."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:136
 translate spanish q_inter_ns_9_1dabadf4:
 
     # mc "I hope I get an invite when you do."
-    mc "I hope I get an invite when you do."
+    mc "Espero recibir una invitación cuando lo hagas."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:137
 translate spanish q_inter_ns_9_00ea30d8:
 
     # ns "Of course!"
-    ns "Of course!"
+    ns "¡Por supuesto!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:143
 translate spanish q_inter_ns_10_cbb6b4f9:
 
     # mct "There's Nari. She's looking sneaky."
-    mct "There's Nari. She's looking sneaky."
+    mct "Ahí está Nari. Está mirando a escondidas."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:145
 translate spanish q_inter_ns_10_cd71789f:
 
     # ns "*giggles*"
-    ns "*giggles*"
+    ns "*risas*"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:147
 translate spanish q_inter_ns_10_1c8d0e6f:
 
     # mc "What's up, Nari?"
-    mc "What's up, Nari?"
+    mc "¿Qué pasa, Nari?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:149
 translate spanish q_inter_ns_10_2a426873:
 
     # ns "I keep thinking about our little experiment in the bathroom over there, [mcname]."
-    ns "I keep thinking about our little experiment in the bathroom over there, [mcname]."
+    ns "Sigo pensando en nuestro pequeño experimento en el baño de allí, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:150
 translate spanish q_inter_ns_10_55d4ce9e:
 
     # ns "Maybe we can try that again some time."
-    ns "Maybe we can try that again some time."
+    ns "Tal vez podamos intentarlo nuevamente en algún momento."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:157
 translate spanish q_inter_ns_11_28e68eea:
 
     # mc "Hey Nari. What's new with you?"
-    mc "Hey Nari. What's new with you?"
+    mc "Hola Nari. ¿Qué hay de nuevo contigo?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:159
 translate spanish q_inter_ns_11_d0a16866:
 
     # ns "Nothing new. Just trying to clear my mind a bit."
-    ns "Nothing new. Just trying to clear my mind a bit."
+    ns "Nada nuevo. Solo trato de aclarar un poco mi mente."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:160
 translate spanish q_inter_ns_11_77b9b3ae:
 
     # ns "I shouldn't say anything, but working with April can get a little frustrating."
-    ns "I shouldn't say anything, but working with April can get a little frustrating."
+    ns "No debería decir nada, pero trabajar con Abril puede ser un poco frustrante."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:162
 translate spanish q_inter_ns_11_d4128e7b:
 
     # mc "I know the feeling."
-    mc "I know the feeling."
+    mc "Conozco el sentimiento."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:169
 translate spanish q_inter_ns_12_7774d4bf:
 
     # ns "[mcname]! This is my first time having candy outside of Seoul and it's AMAZING!"
-    ns "[mcname]! This is my first time having candy outside of Seoul and it's AMAZING!"
+    ns "¡[mcname]! Es la primera vez que como dulces fuera de Seúl, ¡y son INCREÍBLES!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:175
 translate spanish q_inter_ns_13_25953b9f:
 
     # ns "Is this where you go to get food?"
-    ns "Is this where you go to get food?"
+    ns "¿Es aquí donde vas a buscar comida?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:177
 translate spanish q_inter_ns_13_ebdae454:
 
     # mc "Uh, it's usually better to get food from a grocery store."
-    mc "Uh, it's usually better to get food from a grocery store."
+    mc "Uh, generalmente es mejor conseguir comida de una tienda de comestibles."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:178
 translate spanish q_inter_ns_13_2d3c2239:
 
     # ns "Oh, back home we have small stores like this where we do most of our shopping."
-    ns "Oh, back home we have small stores like this where we do most of our shopping."
+    ns "Oh, en casa tenemos pequeñas tiendas como esta donde hacemos la mayor parte de nuestras compras."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:185
 translate spanish q_inter_ns_14_e7e8c0ea:
 
     # ns "Did you know they sell lube here!?"
-    ns "Did you know they sell lube here!?"
+    ns "¿¡Sabías que venden lubricante aquí!?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:191
 translate spanish q_inter_ns_15_5cc23027:
 
     # ns "[mcname]! This is the only store I've been able to find seaweed chips in!"
-    ns "[mcname]! This is the only store I've been able to find seaweed chips in!"
+    ns "¡[mcname]! ¡Esta es la única tienda en la que he podido encontrar chips de algas!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:192
 translate spanish q_inter_ns_15_02efd091:
 
     # ns "They are absolutely disgusting, but they remind me of home."
-    ns "They are absolutely disgusting, but they remind me of home."
+    ns "Son absolutamente repugnantes, pero me recuerdan a casa."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:199
 translate spanish q_inter_ns_16_b8449005:
 
     # ns "Hey, [mcname]. *sniffs* Such a wonderful day isn't it?"
-    ns "Hey, [mcname]. *sniffs* Such a wonderful day isn't it?"
+    ns "Hola, [mcname]. *oliendo* Un día tan maravilloso, ¿no?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:201
 translate spanish q_inter_ns_16_72fe6ab0:
 
     # mc "It really is. Especially around you."
-    mc "It really is. Especially around you."
+    mc "Realmente lo es. Especialmente a tu alrededor."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:205
 translate spanish q_inter_ns_16_d389dcd8:
 
     # ns "Hehehe."
-    ns "Hehehe."
+    ns "Jejeje."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:212
 translate spanish q_inter_ns_17_d9ea6390:
 
     # ns "Nice work on that transfer error ticket, [mcname]. I think you're improving a lot."
-    ns "Nice work on that transfer error ticket, [mcname]. I think you're improving a lot."
+    ns "Buen trabajo con el ticket sobre el error de transferencia, [mcname]. Creo que estás mejorando mucho."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:214
 translate spanish q_inter_ns_17_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "¿Lo crees?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:218
 translate spanish q_inter_ns_17_f757c9e1:
 
     # ns "Totally. I mean, your skills were pretty non-existent earlier, so it's not too hard."
-    ns "Totally. I mean, your skills were pretty non-existent earlier, so it's not too hard."
+    ns "Totalmente. Quiero decir, tus habilidades eran bastante inexistentes antes, por lo que no es demasiado difícil."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:220
 translate spanish q_inter_ns_17_b8de06d3:
@@ -362,109 +362,109 @@ translate spanish q_inter_ns_17_b8de06d3:
 translate spanish q_inter_ns_17_71bd37c4:
 
     # ns "But. I mean, you've shown a lot of improvement."
-    ns "But. I mean, you've shown a lot of improvement."
+    ns "Pero. Quiero decir, has mostrado mucha mejora."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:225
 translate spanish q_inter_ns_17_0d72609e:
 
     # ns "I bet Anna will say the same during your next review."
-    ns "I bet Anna will say the same during your next review."
+    ns "Apuesto a que Anna dirá lo mismo durante tu próxima revisión."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:231
 translate spanish q_inter_ns_18_e5a4c9e9:
 
     # ns "Mmm. Hey."
-    ns "Mmm. Hey."
+    ns "Mmm. Ey."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:233
 translate spanish q_inter_ns_18_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "Ey."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:237
 translate spanish q_inter_ns_18_879d09a2:
 
     # ns "It's a little late, and people are heading home soon."
-    ns "It's a little late, and people are heading home soon."
+    ns "Es un poco tarde y la gente se va pronto a casa."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:239
 translate spanish q_inter_ns_18_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "Sí."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:240
 translate spanish q_inter_ns_18_f04ec6ff:
 
     # ns "Remind you of anything."
-    ns "Remind you of anything."
+    ns "Te recuerda a algo."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:241
 translate spanish q_inter_ns_18_758af13a:
 
     # mc "Hehehe. Yeah."
-    mc "Hehehe. Yeah."
+    mc "Jejeje. Sí."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:245
 translate spanish q_inter_ns_18_cd71789f:
 
     # ns "*giggles*"
-    ns "*giggles*"
+    ns "*risas*"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:252
 translate spanish q_inter_ns_19_92097911:
 
     # mc "I see you."
-    mc "I see you."
+    mc "Te veo."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:254
 translate spanish q_inter_ns_19_7ad92c86:
 
     # ns "Huh? What do you mean?"
-    ns "Huh? What do you mean?"
+    ns "¿Eh? ¿Qué quieres decir?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:255
 translate spanish q_inter_ns_19_742c6986:
 
     # mc "I see you making sexy eyes at me."
-    mc "I see you making sexy eyes at me."
+    mc "Te veo haciéndome ojitos sexys."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:256
 translate spanish q_inter_ns_19_e4a6642c:
 
     # mc "How is a man supposed to work around a cute little thing like you."
-    mc "How is a man supposed to work around a cute little thing like you."
+    mc "¿Cómo se supone que un hombre trabaje alrededor de una cosita tan linda como tú?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:260
 translate spanish q_inter_ns_19_20bcd484:
 
     # ns "Hehe. Well I hope that your financial stability is a good enough reason."
-    ns "Hehe. Well I hope that your financial stability is a good enough reason."
+    ns "Jeje. Bueno, espero que tu estabilidad financiera sea una buena razón."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:261
 translate spanish q_inter_ns_19_8a2968ec:
 
     # ns "I'd hate for you to get fired."
-    ns "I'd hate for you to get fired."
+    ns "Odiaría que te despidieran."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:265
 translate spanish q_inter_ns_19_446f2cc0:
 
     # ns "Then again, that might mean more 'playtime'."
-    ns "Then again, that might mean more 'playtime'."
+    ns "Por otra parte, eso podría significar más 'tiempo de juego'."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:267
 translate spanish q_inter_ns_19_faa03e1a:
 
     # mc "Haha."
-    mc "Haha."
+    mc "Jaja."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:274
 translate spanish q_inter_ns_20_af0e56b7:
 
     # mc "What are you thinking about?"
-    mc "What are you thinking about?"
+    mc "¿En qué estás pensando?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:276
 translate spanish q_inter_ns_20_8f411162:
@@ -476,59 +476,59 @@ translate spanish q_inter_ns_20_8f411162:
 translate spanish q_inter_ns_20_00765f51:
 
     # ns "You. Hehe."
-    ns "You. Hehe."
+    ns "En ti. Jeje."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:287
 translate spanish q_inter_ns_21_c86edee2:
 
     # ns "I still can't believe how close Megan came to finding us being so bad."
-    ns "I still can't believe how close Megan came to finding us being so bad."
+    ns "Todavía no puedo creer lo cerca que estuvo Megan de encontrarnos siendo tan malos."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:288
 translate spanish q_inter_ns_21_70fe6e0a:
 
     # ns "*whispers* Oooh. I probably shouldn't talk so loud about it."
-    ns "*whispers* Oooh. I probably shouldn't talk so loud about it."
+    ns "*susurros* Oooh. Probablemente no debería hablar tan fuerte al respecto."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:294
 translate spanish q_inter_ns_22_ff4d3e62:
 
     # ns "*whispers* Pssst. [mcname]."
-    ns "*whispers* Pssst. [mcname]."
+    ns "*susurros* Pssst. [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:296
 translate spanish q_inter_ns_22_03d1e965:
 
     # mc "Yes, Nari?"
-    mc "Yes, Nari?"
+    mc "¿Sí, Nari?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:300
 translate spanish q_inter_ns_22_cc4e1e2c:
 
     # ns "Hehehe. Nevermind. I just wanted you to look at me."
-    ns "Hehehe. Nevermind. I just wanted you to look at me."
+    ns "Jejeje. No importa. Solo quería que me miraras."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:307
 translate spanish q_inter_ns_23_97fe8f84:
 
     # ns "You don't think... Was Megan cockblocking us that night?"
-    ns "You don't think... Was Megan cockblocking us that night?"
+    ns "No crees que... ¿Megan estaba bloqueándonos la polla esa noche?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:309
 translate spanish q_inter_ns_23_2e9d798c:
 
     # mc "No. And we gotta be careful, Nari."
-    mc "No. And we gotta be careful, Nari."
+    mc "No. Y tenemos que tener cuidado, Nari."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:310
 translate spanish q_inter_ns_23_708583d2:
 
     # mc "Some stuff is open to misinterpretation, but cockblocking is pretty universal."
-    mc "Some stuff is open to misinterpretation, but cockblocking is pretty universal."
+    mc "Algunas cosas pueden malinterpretarse, pero el bloqueo de pollas es bastante universal."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:314
 translate spanish q_inter_ns_23_dbd81ba2:
 
     # ns "Okay."
-    ns "Okay."
+    ns "Está bien."
 
