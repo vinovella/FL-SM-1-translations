@@ -1,14 +1,14 @@
-﻿translate spanish strings:
+translate spanish strings:
 
     # game/code/classes/player_controller.rpy:17
     old "You already learned everything from this book"
-    new "You already learned everything from this book"
+    new "Ya aprendiste todo de este libro"
 
     # game/code/classes/player_controller.rpy:26
     old "You bought {} for ${}"
-    new "You bought {} for ${}"
+    new "Compraste {} por ${}"
 
     # game/code/classes/player_controller.rpy:39
     old "You don't have enough money."
-    new "You don't have enough money."
+    new "No tienes suficiente dinero."
 
