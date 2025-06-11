@@ -1,26 +1,26 @@
-﻿translate spanish strings:
+translate spanish strings:
 
     # game/code/renpy/screens/quests.rpy:11
     old "STORYLINES"
-    new "STORYLINES"
+    new "LINEAS DE HISTORIA"
 
     # game/code/renpy/screens/quests.rpy:12
     old "QUESTS"
-    new "QUESTS"
+    new "MISIONES"
 
     # game/code/renpy/screens/quests.rpy:58
     old "Untrack Quest"
-    new "Untrack Quest"
+    new "Dejar de rastrear la misión"
 
     # game/code/renpy/screens/quests.rpy:61
     old "Track Quest"
-    new "Track Quest"
+    new "Rastrear la misión"
 
     # game/code/renpy/screens/quests.rpy:71
     old "Go to faction page"
-    new "Go to faction page"
+    new "Ir a la página de facción"
 
     # game/code/renpy/screens/quests.rpy:74
     old "Go to character page"
-    new "Go to character page"
+    new "Ir a la página del personaje"
 
