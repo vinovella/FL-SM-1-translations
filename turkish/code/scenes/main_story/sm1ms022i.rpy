@@ -1,64 +1,64 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
+# TODO: Translation updated at 2025-06-02 06:24
 
 # game/code/scenes/main_story/sm1ms022i.rpy:6
 translate turkish sm1ms022i_795e5b77:
 
     # sy "Are you ready to film!?"
-    sy ""
+    sy "Çekim yapmaya hazır mısınız!?"
 
 # game/code/scenes/main_story/sm1ms022i.rpy:8
 translate turkish sm1ms022i_d55ae269:
 
     # mc "Yep!"
-    mc ""
+    mc "Evet!"
 
 # game/code/scenes/main_story/sm1ms022i.rpy:9
 translate turkish sm1ms022i_302355d4:
 
     # sy "Do you have the money for Kanya?"
-    sy ""
+    sy "Kanya için paran var mı?"
 
 # game/code/scenes/main_story/sm1ms022i.rpy:16
 translate turkish sm1ms022i_1dc3a549:
 
     # sy "Then help me move this stuff and get the set ready!"
-    sy ""
+    sy "O zaman şu eşyaları taşımama ve seti hazırlamama yardım et!"
 
 # game/code/scenes/main_story/sm1ms022i.rpy:17
 translate turkish sm1ms022i_a49ed4f8:
 
     # mc "Okay."
-    mc ""
+    mc "Tamam."
 
 # game/code/scenes/main_story/sm1ms022i.rpy:22
 translate turkish sm1ms022i_bd9c9d94:
 
     # sy "Then come back when you have it!"
-    sy ""
+    sy "O zaman eline geçtiğinde geri gel!"
 
 # game/code/scenes/main_story/sm1ms022i.rpy:24
 translate turkish sm1ms022i_844d9e36:
 
     # sy "{size=20}Goddamn [mcname], getting me excited for nothing.{/size}"
-    sy ""
+    sy "{size=20}Kahretsin [mcname], beni boşuna heyecanlandırıyorsun.{/size}"
 
 # game/code/scenes/main_story/sm1ms022i.rpy:29
 translate turkish sm1ms022i_1b9412d8:
 
     # sy "Then we will do it tomorrow..."
-    sy ""
+    sy "O zaman yarın yapalım..."
 
 translate turkish strings:
 
     # game/code/scenes/main_story/sm1ms022i.rpy:10
     old "Give Stacy the $200"
-    new ""
+    new "Stacy'ye 200$ ver"
 
     # game/code/scenes/main_story/sm1ms022i.rpy:10
     old "I don't have the money"
-    new ""
+    new "Param yok"
 
     # game/code/scenes/main_story/sm1ms022i.rpy:10
     old "I'm too tired..."
-    new ""
+    new "Çok yorgunum..."
 
