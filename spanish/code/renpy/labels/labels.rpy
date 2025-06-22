@@ -1,4 +1,4 @@
-﻿# game/code/renpy/labels/labels.rpy:75
+# game/code/renpy/labels/labels.rpy:75
 translate spanish buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
@@ -8,5 +8,5 @@ translate spanish buzz_4377a2f7:
 translate spanish knock_40511e6c:
 
     # "*knock knock*"
-    "*knock knock*"
+    "*Toc toc*"
 
