@@ -826,7 +826,7 @@ translate turkish sm1cs_kv004_sex_repeatable_e9a28e46:
 translate turkish sm1cs_kv004_sex_repeatable_9aa91e48:
 
     # kv "Goooooood, fucking goooooood. And - fuh - you got me in frame? Head to pussssy?"
-    kv "Gü ...
+    kv "Harika, harika. Ve... beni kadraja aldın mı? Kafanı amcığa mı çevirdin?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:507
 translate turkish sm1cs_kv004_sex_repeatable_eb815940:
