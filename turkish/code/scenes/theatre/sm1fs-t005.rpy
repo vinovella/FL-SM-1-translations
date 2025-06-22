@@ -130,7 +130,7 @@ translate turkish sm1fs_t005_b0d83db3:
 translate turkish sm1fs_t005_e85d77d9:
 
     # dvh "They agreed to support us so long as we come up with a story that is focused around..."
-    dvh "Bizim hikayemizin odak noktası..." olduğu sürece bizi desteklemeyi kabul ettiler.
+    dvh "Bizim hikayemizin odak noktası... olduğu sürece bizi desteklemeyi kabul ettiler."
 
 # game/code/scenes/theatre/sm1fs-t005.rpy:72
 translate turkish sm1fs_t005_51e0ca90:

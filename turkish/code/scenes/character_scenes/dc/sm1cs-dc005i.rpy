@@ -28,7 +28,7 @@ translate turkish sm1cs_dc005i_5fb18bca:
 translate turkish sm1cs_dc005i_1b199792:
 
     # mc "Okay?"
-    #mc "Tamam mı?"
+    mc "Tamam mı?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc005i.rpy:14
 translate turkish sm1cs_dc005i_9705b44e:

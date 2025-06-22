@@ -1072,7 +1072,7 @@ translate turkish sm1cs_tl006_continue_d90c642c:
 translate turkish sm1cs_tl006_continue_01d6f223:
 
     # tl "Shllllrrrrrrp, glllck!"
-    tl "Şş ...
+    tl "Shllllrrrrrrp, glllck!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:671
 translate turkish sm1cs_tl006_continue_c3021b65:
@@ -1312,7 +1312,7 @@ translate turkish sm1cs_tl006_continue_397bb6f5:
 translate turkish sm1cs_tl006_continue_b3bdbcc5:
 
     # sy "Sssssccchhhp, ssscccchhhhhp!"
-    sy "Şş ...
+    sy "Sssssccchhhp, ssscccchhhhhp!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:768
 translate turkish sm1cs_tl006_continue_9758029c:
@@ -1402,7 +1402,7 @@ translate turkish sm1cs_tl006_continue_70914f86:
 translate turkish sm1cs_tl006_continue_ae76366e:
 
     # sy "Swwp, swwwp, swwp, swwwwwp!"
-    o "Şş ...
+    sy "Swwp, swwwp, swwp, swwwwwp!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:801
 translate turkish sm1cs_tl006_continue_6c820763:
@@ -1852,7 +1852,7 @@ translate turkish sm1cs_tl006_continue_855bc7f8:
 translate turkish sm1cs_tl006_continue_3cd8de54:
 
     # tl "I'M GOING TO - FUUUUUUCK!"
-    tl "BEN - SİKİ ...
+    tl "BEN - SİKİ ..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1006
 translate turkish sm1cs_tl006_continue_e3c478fe:
@@ -1900,7 +1900,7 @@ translate turkish sm1cs_tl006_continue_25fdd3ee:
 translate turkish sm1cs_tl006_continue_7d9a199c:
 
     # sy "Ohhh Goooooodddd!"
-    sy "Aman Tanrıııııı!" içinde
+    sy "Aman Tanrıııııı!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1028
 translate turkish sm1cs_tl006_continue_38cb8147:
@@ -1924,7 +1924,7 @@ translate turkish sm1cs_tl006_continue_ef9893aa:
 translate turkish sm1cs_tl006_continue_3523c9d1:
 
     # mc "Shit... sorry, Taisia..."
-    mc "Kahretsin... üzgünüm, Taisia​​..."
+    mc "Kahretsin... üzgünüm, Taisia..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1041
 translate turkish sm1cs_tl006_continue_a8c55fda:

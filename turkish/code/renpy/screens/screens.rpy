@@ -144,7 +144,7 @@ translate turkish strings:
 
     # game/code/renpy/screens/screens.rpy:654
     old "Version [config.version!t]\n"
-    new "Sürüm [config.version!t]"\n
+    new "Sürüm [config.version!t]\n"
 
     # game/code/renpy/screens/screens.rpy:659
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"

@@ -34,7 +34,7 @@ translate turkish sm1cs_dc003_06eccbc2:
 translate turkish sm1cs_dc003_e9721ff3:
 
     # mc "Thank you!"
-    #mc "Teşekkür ederim!"
+    mc "Teşekkür ederim!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:41
 translate turkish sm1cs_dc003_b88b5d2c:
@@ -46,7 +46,7 @@ translate turkish sm1cs_dc003_b88b5d2c:
 translate turkish sm1cs_dc003_e9721ff3_1:
 
     # mc "Thank you!"
-    #mc "Teşekkür ederim!"
+    mc "Teşekkür ederim!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:48
 translate turkish sm1cs_dc003_b30dd281:
@@ -202,7 +202,7 @@ translate turkish sm1cs_dc003_768cd422:
 translate turkish sm1cs_dc003_ee87e6f3:
 
     # mc "Oh?"
-    #mc "Ne?"
+    mc "Ne?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:126
 translate turkish sm1cs_dc003_dd1e30c7:

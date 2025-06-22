@@ -358,7 +358,7 @@ translate turkish sm1cs_am004_ag_appears_d6a2cbf1:
 translate turkish sm1cs_am004_ag_appears_395d02a4:
 
     # "Crowd" "*cheering*"
-    am "Kalabalık" "*alkışlar*"
+    "Kalabalık" "*alkışlar*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:242
 translate turkish sm1cs_am004_ag_appears_d34041f6:
@@ -370,7 +370,7 @@ translate turkish sm1cs_am004_ag_appears_d34041f6:
 translate turkish sm1cs_am004_ag_appears_395d02a4_1:
 
     # "Crowd" "*cheering*"
-    am "Kalabalık" "*alkışlar*"
+    "Kalabalık" "*alkışlar*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:248
 translate turkish sm1cs_am004_ag_appears_0323f92f:
@@ -382,7 +382,7 @@ translate turkish sm1cs_am004_ag_appears_0323f92f:
 translate turkish sm1cs_am004_ag_appears_395d02a4_2:
 
     # "Crowd" "*cheering*"
-    am "Kalabalık" "*alkışlar*"
+    "Kalabalık" "*alkışlar*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:255
 translate turkish sm1cs_am004_ag_appears_01e66815:
@@ -394,7 +394,7 @@ translate turkish sm1cs_am004_ag_appears_01e66815:
 translate turkish sm1cs_am004_ag_appears_395d02a4_3:
 
     # "Crowd" "*cheering*"
-    am "Kalabalık" "*alkışlar*"
+    "Kalabalık" "*alkışlar*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:272
 translate turkish sm1cs_am004_ag_appears_cebe9fd8:
@@ -454,31 +454,31 @@ translate turkish sm1cs_am004_music_356abae4:
 translate turkish sm1cs_am004_music_3744bc7a:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* Lost souls with stoney hearts!{w=3.5}{nw}"
-    am "{color=b81c0c}Mitch{/color} ve {color=79c18d}April{/color}" "*şarkı söylüyor* Taş kalpli kayıp ruhlar!{w=3.5}{nw}"
+    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*şarkı söylüyor* Taş kalpli kayıp ruhlar!{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:316
 translate turkish sm1cs_am004_music_793dc37c:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We'll tear down walls and break society's parts.{w=3.5}{nw}"
-    am "{color=b81c0c}Mitch{/color} ve {color=79c18d}April{/color}" "*şarkı söylüyor* Duvarları yıkacağız ve toplumun parçalarını kıracağız.{w=3.5}{nw}"
+    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*şarkı söylüyor* Duvarları yıkacağız ve toplumun parçalarını kıracağız.{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:318
 translate turkish sm1cs_am004_music_5fc828ba:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* With fire in our eyes and spells in our veins{w=4.25}{nw}"
-    am "{color=b81c0c}Mitch{/color} ve {color=79c18d}April{/color}" "*şarkı söylüyoruz* Gözlerimizde ateş ve damarlarımızda büyüyle{w=4.25}{nw}"
+    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*şarkı söylüyoruz* Gözlerimizde ateş ve damarlarımızda büyüyle{w=4.25}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:320
 translate turkish sm1cs_am004_music_6762bd11:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We chant our anthems in the pouring rain!{w=2.25}{nw}"
-    am "{color=b81c0c}Mitch{/color} ve {color=79c18d}April{/color}" "*şarkı söylüyoruz* Şiddetli yağmurda marşlarımızı söylüyoruz!{w=2.25}{nw}"
+    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*şarkı söylüyoruz* Şiddetli yağmurda marşlarımızı söylüyoruz!{w=2.25}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:323
 translate turkish sm1cs_am004_music_0ea6724a:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "KEEP UP THE FIGHT!{w=1.5}{nw}"
-    am "{color=b81c0c}Mitch{/color} ve {color=79c18d}April{/color}" "MÜCADELEYE DEVAM EDİN!{w=1.5}{nw}"
+    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "MÜCADELEYE DEVAM EDİN!{w=1.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:346
 translate turkish sm1cs_am004_music_1_end_587a13c6:
@@ -628,37 +628,37 @@ translate turkish sm1cs_am004_continue_adc60659:
 translate turkish sm1cs_am004_continue_3744bc7a:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* Lost souls with stoney hearts!{w=3.5}{nw}"
-    am "{color=b81c0c}Mitch{/color} ve {color=79c18d}April{/color}" "*şarkı söylüyor* Taş kalpli kayıp ruhlar!{w=3.5}{nw}"
+    "{color=#b81c0c}Mitch{/color} ve {color=#79c18d}April{/color}" "*şarkı söylüyor* Taş kalpli kayıp ruhlar!{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:434
 translate turkish sm1cs_am004_continue_793dc37c:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We'll tear down walls and break society's parts.{w=3.5}{nw}"
-    am "{color=b81c0c}Mitch{/color} ve {color=79c18d}April{/color}" "*şarkı söylüyor* Duvarları yıkacağız ve toplumun parçalarını kıracağız.{w=3.5}{nw}"
+    "{color=#b81c0c}Mitch{/color} ve {color=#79c18d}April{/color}" "*şarkı söylüyor* Duvarları yıkacağız ve toplumun parçalarını kıracağız.{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:436
 translate turkish sm1cs_am004_continue_5fc828ba:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* With fire in our eyes and spells in our veins{w=4.25}{nw}"
-    am "{color=b81c0c}Mitch{/color} ve {color=79c18d}April{/color}" "*şarkı söylüyoruz* Gözlerimizde ateş ve damarlarımızda büyüyle{w=4.25}{nw}"
+    "{color=#b81c0c}Mitch{/color} ve {color=#79c18d}April{/color}" "*şarkı söylüyoruz* Gözlerimizde ateş ve damarlarımızda büyüyle{w=4.25}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:438
 translate turkish sm1cs_am004_continue_6762bd11:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We chant our anthems in the pouring rain!{w=2.25}{nw}"
-    am "{color=b81c0c}Mitch{/color} ve {color=79c18d}April{/color}" "*şarkı söylüyoruz* Şiddetli yağmurda marşlarımızı söylüyoruz!{w=2.25}{nw}"
+    "{color=#b81c0c}Mitch{/color} ve {color=#79c18d}April{/color}" "*şarkı söylüyoruz* Şiddetli yağmurda marşlarımızı söylüyoruz!{w=2.25}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:440
 translate turkish sm1cs_am004_continue_cfffe58f:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "KEEP UP THE FIGHT!{w=1.2}{nw}"
-    am "{color=b81c0c}Mitch{/color} ve {color=79c18d}April{/color}" "MÜCADELEYE DEVAM EDİN!{w=1.2}{nw}"
+    "{color=#b81c0c}Mitch{/color} ve {color=#79c18d}April{/color}" "MÜCADELEYE DEVAM EDİN!{w=1.2}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:473
 translate turkish sm1cs_am004_music_2_end_395d02a4:
 
     # "Crowd" "*cheering*"
-    am "Kalabalık" "*alkışlar*"
+    "Kalabalık" "*alkışlar*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:476
 translate turkish sm1cs_am004_music_2_end_8ede7d85:
@@ -1240,7 +1240,7 @@ translate turkish sm1cs_am004_sex_58ce69f5:
 translate turkish sm1cs_am004_sex_6ab8a6eb:
 
     # am "Ow!"
-    am "Ah!" diyorum
+    am "Ah!"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:857
 translate turkish sm1cs_am004_sex_3b364f6e:
@@ -1324,7 +1324,7 @@ translate turkish sm1cs_am004_after_spank_d1246d6b:
 translate turkish sm1cs_am004_after_spank_35107833:
 
     # am "Wrrrrllhmmm..."
-    am "Wrrrrllhmmm..." diyorum
+    am "Wrrrrllhmmm..."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:906
 translate turkish sm1cs_am004_after_spank_fad3c43f:
@@ -1600,7 +1600,7 @@ translate turkish sm1cs_am004_after_spank_dc16ebcd:
 translate turkish sm1cs_am004_after_spank_3fb09463:
 
     # am "Now."
-    am "Şimdi"yim.
+    am "Şimdi."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:1044
 translate turkish sm1cs_am004_after_spank_472942c5:

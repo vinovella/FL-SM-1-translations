@@ -118,7 +118,7 @@ translate turkish sm1cs_am003_8cd6b4b5:
 translate turkish sm1cs_am003_65499029:
 
     # am "Good."
-    İyiyim."
+    am "İyiyim."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:90
 translate turkish sm1cs_am003_64d97158:

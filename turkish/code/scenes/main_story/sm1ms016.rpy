@@ -838,7 +838,7 @@ translate turkish sm1ms016_f02441da:
 translate turkish sm1ms016_321171ea:
 
     # sy "Bye mom."
-    sy "Hoşça kal anne" dedi.
+    sy "Hoşça kal anne."
 
 # game/code/scenes/main_story/sm1ms016.rpy:417
 translate turkish sm1ms016_a2ebb134:

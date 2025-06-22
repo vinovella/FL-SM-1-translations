@@ -112,7 +112,7 @@ translate turkish sm1cs_ns008_fd1c0766:
 translate turkish sm1cs_ns008_425d808a:
 
     # ns "Did you know that the word \"conference\" comes from the Medieval Latin word conferentia, which means \"contribution, discussion\"?"
-    ns "Konferans kelimesinin Ortaçağ Latincesi conferentia kelimesinden geldiğini ve "katkı, tartışma" anlamına geldiğini biliyor muydunuz?"
+    ns "Konferans kelimesinin Ortaçağ Latincesi conferentia kelimesinden geldiğini ve \"katkı, tartışma\" anlamına geldiğini biliyor muydunuz?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:81
 translate turkish sm1cs_ns008_e7604c08:

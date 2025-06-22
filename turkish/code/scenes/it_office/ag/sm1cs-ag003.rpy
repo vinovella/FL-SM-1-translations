@@ -358,7 +358,7 @@ translate turkish sm1cs_ag003_01adb396:
 translate turkish sm1cs_ag003_17b065a4:
 
     # ag "Mmmhmmmm."
-    "Mmmhmmmm." tarafından.
+    ag "Mmmhmmmm."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:197
 translate turkish sm1cs_ag003_ae50ed3d:
@@ -430,7 +430,7 @@ translate turkish sm1cs_ag003_0157e422:
 translate turkish sm1cs_ag003_23ceb72e:
 
     # ag "..."
-    "..." noktasında
+    ag "..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:229
 translate turkish sm1cs_ag003_2d11be64:

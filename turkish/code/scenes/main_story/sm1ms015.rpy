@@ -574,7 +574,7 @@ translate turkish sm1ms015_7db27f39:
 translate turkish sm1ms015_09f48b49:
 
     # am "Cool."
-    am "Harika"yım.
+    am "Harika."
 
 # game/code/scenes/main_story/sm1ms015.rpy:274
 translate turkish sm1ms015_8f3a9605:

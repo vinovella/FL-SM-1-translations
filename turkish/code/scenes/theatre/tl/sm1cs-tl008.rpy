@@ -298,7 +298,7 @@ translate turkish sm1cs_tl008_sex_f2b5d112:
 translate turkish sm1cs_tl008_sex_3e50c097:
 
     # tl "Shlrrrprp, shlrp, shlrppp."
-    tl "Şş ...
+    tl "Shlrrrprp, shlrp, shlrppp."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:247
 translate turkish sm1cs_tl008_sex_1ce3d46d:
@@ -670,7 +670,7 @@ translate turkish sm1cs_tl008_sex_5e485ebc:
 translate turkish sm1cs_tl008_sex_9f060849:
 
     # tl "Fuuucking fuck, fuck, [mcname]! {w}Gooood, I love having your cock in my ass!"
-    tl "Siktir git, siktir git, [mcname]! {w}Gü ...
+    tl "Fuuucking fuck, fuck, [mcname]! {w}Gooood, I love having your cock in my ass!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:415
 translate turkish sm1cs_tl008_sex_a3dc1d1b:

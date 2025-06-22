@@ -628,7 +628,7 @@ translate turkish sm1ms013_cf6b1115:
 translate turkish sm1ms013_f10fdeff:
 
     # sy "Uhhhhhmmmmmm... nope."
-    sy "Uhhhhhhmmmmmm... hayır" dedi.
+    sy "Uhhhhhhmmmmmm... hayır dedi."
 
 # game/code/scenes/main_story/sm1ms013.rpy:346
 translate turkish sm1ms013_b88a14b4:

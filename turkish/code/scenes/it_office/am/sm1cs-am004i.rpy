@@ -10,7 +10,7 @@ translate turkish sm1cs_am004i_71f06d2b:
 translate turkish sm1cs_am004i_61497916:
 
     # am "Yes?"
-    am "Evet?" diyorum
+    am "Evet?"
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:9
 translate turkish sm1cs_am004i_c60dab29:

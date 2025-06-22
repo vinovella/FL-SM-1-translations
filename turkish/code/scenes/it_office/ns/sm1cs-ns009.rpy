@@ -1344,8 +1344,7 @@ translate turkish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
     old "Dominate Nari."
-    new Nari'yi domine et.""
-    new ""
+    new "Nari'yi domine et."
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
     old "Don't dominate Nari."

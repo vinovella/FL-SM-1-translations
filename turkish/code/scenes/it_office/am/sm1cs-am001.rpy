@@ -460,7 +460,7 @@ translate turkish sm1cs_am001_bfa5d5fc:
 translate turkish sm1cs_am001_c80cf83b:
 
     # am "Yeah?"
-    am "Evet?" diyorum
+    am "Evet?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:249
 translate turkish sm1cs_am001_04f4431d:
@@ -748,7 +748,7 @@ translate turkish sm1cs_am001_later_729d2aec:
 translate turkish sm1cs_am001_later_a385c31a:
 
     # am "Mrraah."
-    am "Mrraah."ım.
+    am "Mrraah."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:442
 translate turkish sm1cs_am001_later_4ad6c608:

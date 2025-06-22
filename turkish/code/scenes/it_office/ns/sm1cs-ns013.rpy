@@ -412,7 +412,7 @@ translate turkish sm1cs_ns013_55a3de5e:
 translate turkish sm1cs_ns013_cd080ddb:
 
     # sy "Murraaah...."
-    sy "Murray...." içinde
+    sy "Murray...."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:354
 translate turkish sm1cs_ns013_d33b34e8:
@@ -1480,7 +1480,7 @@ translate turkish sm1cs_ns013_e42b4771:
 translate turkish sm1cs_ns013_c9dcabdc:
 
     # "Stacy and Nari" "Mrrrrrrrmmm."
-    sy "Stacy ve Nari" "Mrrrrrrrmmm."
+    "Stacy ve Nari" "Mrrrrrrrmmm."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:940
 translate turkish sm1cs_ns013_4aabf257:
@@ -1636,7 +1636,7 @@ translate turkish sm1cs_ns013_cd60a2fb:
 translate turkish sm1cs_ns013_67b7b940:
 
     # sy "Mrraa-humam."
-    Ben "Mrraa-humam"ım.
+    sy "Mrraa-humamım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1020
 translate turkish sm1cs_ns013_72813ae1:
@@ -1666,7 +1666,7 @@ translate turkish sm1cs_ns013_e8301e81:
 translate turkish sm1cs_ns013_4d152809:
 
     # "Stacy and Nari" "*panting*"
-    sy "Stacy ve Nari" "*nefes nefese*"
+    "Stacy ve Nari" "*nefes nefese*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1041
 translate turkish sm1cs_ns013_628bf4a3:
@@ -1714,7 +1714,7 @@ translate turkish sm1cs_ns013_55b79db6:
 translate turkish sm1cs_ns013_1c81208e:
 
     # "Stacy and Nari" "*giggling*"
-    sy "Stacy ve Nari" "*kıkırdar*"
+    "Stacy ve Nari" "*kıkırdar*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1074
 translate turkish sm1cs_ns013_8e9ba5df:
@@ -2092,7 +2092,7 @@ translate turkish sm1cs_ns013_88a5f694:
 translate turkish sm1cs_ns013_50800ec3:
 
     # "[mcname] and Stacy" "*laughing*"
-    sy "[mcname] ve Stacy" "*gülüyor*"
+    "[mcname] ve Stacy" "*gülüyor*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1302
 translate turkish sm1cs_ns013_57d25b67:
@@ -2176,7 +2176,7 @@ translate turkish sm1cs_ns013_f401d19f:
 translate turkish sm1cs_ns013_32a59417:
 
     # sy "You."
-    sy sen."
+    sy "Sen."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1341
 translate turkish sm1cs_ns013_b820a812:

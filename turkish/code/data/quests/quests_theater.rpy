@@ -108,7 +108,7 @@ translate turkish strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia about \"work\" during the day time"
-    new "Gündüz saatlerinde Taisia ile "iş" hakkında konuş"
+    new "Gündüz saatlerinde Taisia ile \"iş\" hakkında konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have ${}/$50 and talk with Taisia when she is in front of the stage"

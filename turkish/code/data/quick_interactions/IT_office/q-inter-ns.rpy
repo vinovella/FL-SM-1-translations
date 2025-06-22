@@ -736,7 +736,7 @@ translate turkish q_inter_ns_27_a2bea4b1:
 translate turkish q_inter_ns_27_a9b33723:
 
     # ns "Which means we can have more \"fun\" together!"
-    ns "Yani daha fazla \ zaman geçirebiliriz demek."fun\" together!"
+    ns "Yani daha fazla \"eğlence\" yaşayabiliriz demek!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:416
 translate turkish q_inter_ns_27_ac15f41a:

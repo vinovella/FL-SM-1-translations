@@ -496,7 +496,7 @@ translate turkish sm1cs_kv001_ending_cb407456:
 translate turkish sm1cs_kv001_ending_ad25f2ce:
 
     # mc "Later Kanya."
-    #mc "Sonra O."
+    mc "Sonra O."
 
 translate turkish strings:
 

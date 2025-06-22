@@ -1720,7 +1720,7 @@ translate turkish strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:63
     old "Fifteen Minutes Later"
-    new On Beş Dakika Sonra""
+    new "On Beş Dakika Sonra"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:109
     old "Check out her ass"

@@ -4,7 +4,7 @@
 translate turkish sm1cs_kv002_9356c126:
 
     # mc "Hey Kanya."
-    #mc "Merhaba Kanya."
+    mc "Merhaba Kanya."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:26
 translate turkish sm1cs_kv002_2ea7f9eb:

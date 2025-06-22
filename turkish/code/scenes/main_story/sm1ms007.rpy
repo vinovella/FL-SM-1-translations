@@ -309,8 +309,8 @@ translate turkish sm1ms007_after_choice_9538fb3b:
 # game/code/scenes/main_story/sm1ms007.rpy:153
 translate turkish sm1ms007_after_choice_c20154b5:
 
-    # sy "Waiter" "The deux loups fantaisie cabernet sauvignon is five hundred dollars a bottle."
-    sy "Garson" "Deux loups fantaisie cabernet sauvignon'un şişesi beş yüz dolar."
+    # "Waiter" "The deux loups fantaisie cabernet sauvignon is five hundred dollars a bottle."
+    "Garson" "Deux loups fantaisie cabernet sauvignon'un şişesi beş yüz dolar."
 
 # game/code/scenes/main_story/sm1ms007.rpy:157
 translate turkish sm1ms007_after_choice_2b35b6fe:
@@ -327,8 +327,8 @@ translate turkish sm1ms007_after_choice_56b0c5a6:
 # game/code/scenes/main_story/sm1ms007.rpy:160
 translate turkish sm1ms007_after_choice_4290e358:
 
-    # sy "Waiter" "Of course, sir."
-    sy "Garson" "Elbette efendim."
+    # "Waiter" "Of course, sir."
+    "Garson" "Elbette efendim."
 
 # game/code/scenes/main_story/sm1ms007.rpy:165
 translate turkish sm1ms007_after_choice_3456f39c:

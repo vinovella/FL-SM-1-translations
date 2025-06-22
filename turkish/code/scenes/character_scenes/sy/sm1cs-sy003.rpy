@@ -478,7 +478,7 @@ translate turkish sm1cs_sy003_sex_90727cef:
 translate turkish sm1cs_sy003_sex_56e17f29:
 
     # sy "Ahhmmmm."
-    "Ahhmmmm" dedi.
+    sy "Ahhmmmm."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:407
 translate turkish sm1cs_sy003_sex_4339a5c5:

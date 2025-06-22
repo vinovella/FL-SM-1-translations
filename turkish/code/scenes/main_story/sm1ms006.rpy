@@ -376,7 +376,7 @@ translate turkish sm1ms006_516e0998:
 translate turkish sm1ms006_e2ec1c71:
 
     # sy "Uhmmm, coffee?"
-    sy "Şey, kahve?" dedi.
+    sy "Şey, kahve?"
 
 # game/code/scenes/main_story/sm1ms006.rpy:260
 translate turkish sm1ms006_91b4277a:

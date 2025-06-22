@@ -346,7 +346,7 @@ translate turkish sm1ms023_02_e281e04c:
 translate turkish sm1ms023_02_d493b236:
 
     # sy "Ugggggggh!"
-    sy "Ugggggggh!" anlamına gelen
+    sy "Ugggggggh!"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:186
 translate turkish sm1ms023_02_fd2deb56:

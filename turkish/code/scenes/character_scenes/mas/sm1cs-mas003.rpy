@@ -4,7 +4,7 @@
 translate turkish sm1cs_mas003_4256d734:
 
     # mc "Hey Maya."
-    #mc "Merhaba Maya."
+    mc "Merhaba Maya."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:17
 translate turkish sm1cs_mas003_5067b7e6:
@@ -178,7 +178,7 @@ translate turkish sm1cs_mas003_4a76cbe5:
 translate turkish sm1cs_mas003_669664cb:
 
     # mc "Hey."
-    #mc "Merhaba."
+    mc "Merhaba."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:108
 translate turkish sm1cs_mas003_40dbba9f:
@@ -298,7 +298,7 @@ translate turkish sm1cs_mas003_d852e2d0:
 translate turkish sm1cs_mas003_f800bed0:
 
     # mc "Yes."
-    #mc "Evet."
+    mc "Evet."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:184
 translate turkish sm1cs_mas003_c211e60a:
@@ -1210,7 +1210,7 @@ translate turkish sm1cs_mas003_third_delivery_07eced0d:
 translate turkish sm1cs_mas003_third_delivery_28709c77:
 
     # ka "No, the Pi Phi house. For Pi Beta Phi. Get it right."
-    ka "Hayır, Pi Phi evi. Pi Beta Phi için. Doğru anlayın.
+    ka "Hayır, Pi Phi evi. Pi Beta Phi için. Doğru anlayın."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:701
 translate turkish sm1cs_mas003_third_delivery_9d9edc58:
@@ -1270,7 +1270,7 @@ translate turkish sm1cs_mas003_third_delivery_74d63b1a:
 translate turkish sm1cs_mas003_third_delivery_28acfa00:
 
     # ols "Lauren."
-    #ols "Lauren."
+    ols "Lauren."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:728
 translate turkish sm1cs_mas003_third_delivery_715889b4:
@@ -1420,7 +1420,7 @@ translate turkish sm1cs_mas003_third_delivery_c7253fdd:
 translate turkish sm1cs_mas003_third_delivery_4f5fd961:
 
     # ka "Not bad."
-    "Fena değil.
+    ka "Fena değil."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:799
 translate turkish sm1cs_mas003_third_delivery_c5639972:

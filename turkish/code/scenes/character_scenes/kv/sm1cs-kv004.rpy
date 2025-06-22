@@ -820,13 +820,13 @@ translate turkish sm1cs_kv004_sex_repeatable_8a47f382:
 translate turkish sm1cs_kv004_sex_repeatable_e9a28e46:
 
     # mc "Yeah!"
-    #mc "Evet!"
+    mc "Evet!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:505
 translate turkish sm1cs_kv004_sex_repeatable_9aa91e48:
 
     # kv "Goooooood, fucking goooooood. And - fuh - you got me in frame? Head to pussssy?"
-    kv "Gü ...
+    kv "Goooooood, fucking goooooood. And - fuh - you got me in frame? Head to pussssy?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:507
 translate turkish sm1cs_kv004_sex_repeatable_eb815940:

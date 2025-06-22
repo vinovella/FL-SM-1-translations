@@ -172,7 +172,7 @@ translate turkish sm1ms020_ae1edb5d:
 translate turkish sm1ms020_5ef2d3d9:
 
     # sy "Tadaaaaa!"
-    sy "Olmaz!" dedim.
+    sy "Olmaz!"
 
 # game/code/scenes/main_story/sm1ms020.rpy:105
 translate turkish sm1ms020_b77ecb7e:
@@ -268,7 +268,7 @@ translate turkish sm1ms020_9a2324a6:
 translate turkish sm1ms020_6278d0c6:
 
     # "Bartender" "What can I get you?"
-    sy "Barmen" "Size ne ikram edebilirim?"
+    "Barmen" "Size ne ikram edebilirim?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:153
 translate turkish sm1ms020_19780611:
@@ -292,7 +292,7 @@ translate turkish sm1ms020_deea79cc:
 translate turkish sm1ms020_95a3bb15:
 
     # "Bartender" "Coming right up."
-    sy "Barmen" "Hemen geliyor."
+    "Barmen" "Hemen geliyor."
 
 # game/code/scenes/main_story/sm1ms020.rpy:166
 translate turkish sm1ms020_0ca1377f:
@@ -454,7 +454,7 @@ translate turkish sm1ms020_b9c695eb:
 translate turkish sm1ms020_d7aaaf5b:
 
     # sy "Bull shit!"
-    sy "Saçmalık!" içinde
+    sy "Saçmalık!"
 
 # game/code/scenes/main_story/sm1ms020.rpy:244
 translate turkish sm1ms020_8807bc3c:

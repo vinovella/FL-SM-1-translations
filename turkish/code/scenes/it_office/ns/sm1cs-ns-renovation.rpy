@@ -226,7 +226,7 @@ translate turkish sm1cs_ns_renovation_19200fab:
 translate turkish sm1cs_ns_renovation_f486a742:
 
     # ns "Yeol-bat-ne."
-    ns "Yeol-bat-ne.
+    ns "Yeol-bat-ne."
 
 # game/code/scenes/it_office/ns/sm1cs-ns-renovation.rpy:149
 translate turkish sm1cs_ns_renovation_267e71a5:

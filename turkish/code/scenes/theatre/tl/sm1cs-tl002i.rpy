@@ -52,7 +52,7 @@ translate turkish sm1cs_tl002i_0e8d8ed9:
 translate turkish sm1cs_tl002i_da071411:
 
     # tl "It's a Hatichi wand."
-    tl "Bu bir Hatch asası.
+    tl "Bu bir Hatch asası."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002i.rpy:34
 translate turkish sm1cs_tl002i_178a1605:

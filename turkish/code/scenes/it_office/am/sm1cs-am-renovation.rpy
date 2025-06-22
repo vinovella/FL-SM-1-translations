@@ -448,7 +448,7 @@ translate turkish sm1cs_am_renovation_later_809a995f:
 translate turkish sm1cs_am_renovation_later_f52c2407:
 
     # am "I..."
-    am "Ben..." miyim
+    am "Ben..."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:261
 translate turkish sm1cs_am_renovation_later_40e1dd77:
@@ -538,7 +538,7 @@ translate turkish sm1cs_am_renovation_later_e50506da:
 translate turkish sm1cs_am_renovation_later_8ab1c1ad:
 
     # am "Fine!"
-    İyiyim!"
+    am "İyiyim!"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:315
 translate turkish sm1cs_am_renovation_later_1410700b:
@@ -658,7 +658,7 @@ translate turkish sm1cs_am_renovation_later_7bb7501d:
 translate turkish sm1cs_am_renovation_later_09f48b49:
 
     # am "Cool."
-    am "Harika"yım.
+    am "Harika."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:375
 translate turkish sm1cs_am_renovation_later_7057021a:

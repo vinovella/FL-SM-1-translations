@@ -10,7 +10,7 @@ translate turkish sm1cs_am006_b47fb680:
 translate turkish sm1cs_am006_61497916:
 
     # am "Yes?"
-    "Evet?" diyorum
+    am "Evet?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:15
 translate turkish sm1cs_am006_a54c76eb:
@@ -22,7 +22,7 @@ translate turkish sm1cs_am006_a54c76eb:
 translate turkish sm1cs_am006_09f48b49:
 
     # am "Cool."
-    "Harika"yım.
+    am "Harika"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:22
 translate turkish sm1cs_am006_ce9f134c:

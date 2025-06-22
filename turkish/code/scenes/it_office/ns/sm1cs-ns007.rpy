@@ -376,7 +376,7 @@ translate turkish sm1cs_ns007_resturant_3fc2a097:
 translate turkish sm1cs_ns007_resturant_3a87eb41:
 
     # ns "Chuh-PEE-noh."
-    ns "Çuh-PEE-noh.
+    ns "Çuh-PEE-noh."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:259
 translate turkish sm1cs_ns007_resturant_9c236895:
@@ -898,7 +898,7 @@ translate turkish sm1cs_ns007_light_house_0dab8ab5:
 translate turkish sm1cs_ns007_light_house_7e58aaeb:
 
     # mc "But my history teacher said he built it so he could spy on the busty lasses that worked at the local-"
-    mc "Ama tarih öğretmenim, yerel-"de çalışan iri göğüslü kızları gözetlemek için bunu yaptırdığını söyledi.
+    mc "Ama tarih öğretmenim, yerel-de çalışan iri göğüslü kızları gözetlemek için bunu yaptırdığını söyledi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:514
 translate turkish sm1cs_ns007_light_house_0c7cde4c:

@@ -388,7 +388,7 @@ translate turkish sm1ms019_64fd3f73:
 translate turkish sm1ms019_2c52881c:
 
     # my "Pleasure?"
-    memnuniyetle?"
+    my "memnuniyetle?"
 
 # game/code/scenes/main_story/sm1ms019.rpy:254
 translate turkish sm1ms019_2b6fc3df:

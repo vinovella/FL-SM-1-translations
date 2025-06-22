@@ -268,7 +268,7 @@ translate turkish sm1cs_tl_renovation_studio_33e80014:
 translate turkish sm1cs_tl_renovation_studio_5ba143b2:
 
     # tl "I just want to... uhm..."
-    tl "Sadece... şey..." istiyorum
+    tl "Sadece... şey..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl-renovation.rpy:189
 translate turkish sm1cs_tl_renovation_studio_11455b53:

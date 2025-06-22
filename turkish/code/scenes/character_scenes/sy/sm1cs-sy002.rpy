@@ -646,7 +646,7 @@ translate turkish sm1cs_sy002_2_6c5ba43c:
 translate turkish sm1cs_sy002_2_e3652c66:
 
     # sy "CUM!"
-    "CUM!" anlamına gelen
+    sy "CUM!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:353
 translate turkish sm1cs_sy002_2_7f7c78b9:
@@ -772,7 +772,7 @@ translate turkish sm1cs_sy002_2_9a221847:
 translate turkish sm1cs_sy002_2_5a962b2f:
 
     # sy "Ohhhhhhh yesssssss!"
-    "Ohhhhhhh evet!" dedi
+    sy "Ohhhhhhh evet!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:409
 translate turkish sm1cs_sy002_2_903a0a02:

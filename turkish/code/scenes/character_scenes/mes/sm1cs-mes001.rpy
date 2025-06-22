@@ -76,7 +76,7 @@ translate turkish sm1cs_mes001_94c2b1ed:
 translate turkish sm1cs_mes001_7b702c04:
 
     # mes "It was... fine, I guess. I got to see my parents. Well, \"see\" them might be an overstatement."
-    mes "İyiydi sanırım. Ailemi görebildim. Aslında, onları "görmek" biraz abartı olabilir."
+    mes "İyiydi sanırım. Ailemi görebildim. Aslında, onları \"görmek\" biraz abartı olabilir."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:62
 translate turkish sm1cs_mes001_7a34177c:

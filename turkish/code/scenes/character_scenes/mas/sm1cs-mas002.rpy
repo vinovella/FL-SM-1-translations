@@ -160,7 +160,7 @@ translate turkish sm1cs_mas002_d8ce5347:
 translate turkish sm1cs_mas002_f49fff8f:
 
     # mc "Yeah?"
-    #mc "Evet?"
+    mc "Evet?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:82
 translate turkish sm1cs_mas002_4f79227d:
@@ -244,7 +244,7 @@ translate turkish sm1cs_mas002_177aa502:
 translate turkish sm1cs_mas002_8f537a77:
 
     # mc "Nelson!"
-    #mc "Nelson!"
+    mc "Nelson!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:127
 translate turkish sm1cs_mas002_acb888a2:

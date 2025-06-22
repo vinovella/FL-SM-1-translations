@@ -22,7 +22,7 @@ translate turkish sm1cs_dc_renovation_7daa0cc7:
 translate turkish sm1cs_dc_renovation_16b05ad9:
 
     # mc "Debbie?"
-    #mc "Debbie?"
+    mc "Debbie?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:33
 translate turkish sm1cs_dc_renovation_3c0c267e:
@@ -442,7 +442,7 @@ translate turkish sm1cs_dc_renovation_e1b24751:
 translate turkish sm1cs_dc_renovation_7168d4f3:
 
     # mc "What!"
-    #mc "Ne!"
+    mc "Ne!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:290
 translate turkish sm1cs_dc_renovation_92fab953:

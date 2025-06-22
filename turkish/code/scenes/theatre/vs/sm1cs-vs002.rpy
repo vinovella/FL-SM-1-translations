@@ -388,7 +388,7 @@ translate turkish sm1cs_vs002_half_hour_later_f607d5dc:
 translate turkish sm1cs_vs002_half_hour_later_bb0ce43b:
 
     # vs "Then I'm like, if they were super hot, I'd get too distracted."
-    vs "O zaman ben de, eğer çok ateşli olsalardı, çok fazla dikkatim dağılırdı." diyorum.
+    vs "O zaman ben de, eğer çok ateşli olsalardı, çok fazla dikkatim dağılırdı."
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:219
 translate turkish sm1cs_vs002_half_hour_later_b3a3ca64:

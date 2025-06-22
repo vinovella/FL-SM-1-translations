@@ -244,7 +244,7 @@ translate turkish sm1fs_i003_116a6082:
 translate turkish sm1fs_i003_8702ceea:
 
     # en "Hmmph."
-    "Hımmf" üzerine.
+    en "Hımmf"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:175
 translate turkish sm1fs_i003_8d8f75d4:

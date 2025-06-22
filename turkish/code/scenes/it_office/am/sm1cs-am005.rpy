@@ -178,7 +178,7 @@ translate turkish sm1cs_am005_hours_later_a49ed4f8:
 translate turkish sm1cs_am005_hours_later_f52c2407:
 
     # am "I..."
-    "Ben..." miyim
+    am "Ben..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:130
 translate turkish sm1cs_am005_hours_later_1c8acf17:
@@ -874,7 +874,7 @@ translate turkish sm1cs_am005_no_sex_2_3fa791f0:
 translate turkish sm1cs_am005_no_sex_2_0511c764:
 
     # am "Grrrrrr."
-    am"Grrrrrr." diyorum.
+    am "Grrrrrr."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:497
 translate turkish sm1cs_am005_no_sex_2_380c6933:
@@ -970,7 +970,7 @@ translate turkish sm1cs_am005_no_sex_3_f661beb5:
 translate turkish sm1cs_am005_no_sex_3_65499029:
 
     # am "Good."
-    İyiyim."
+    am "İyiyim."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:559
 translate turkish sm1cs_am005_no_sex_3_9930ed4b:

@@ -202,7 +202,7 @@ translate turkish sm1fs_t002_d80a6121:
 translate turkish sm1fs_t002_3a41c5e6:
 
     # sy "Yep!"
-    "Evet!" anlamına geliyor
+    sy "Evet!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:157
 translate turkish sm1fs_t002_74fd6695:
@@ -826,7 +826,7 @@ translate turkish sm1fs_t002_sex_6900ad1c:
 translate turkish sm1fs_t002_sex_5fa52909:
 
     # sy "Hawt."
-    "Hawt" olan.
+    sy "Hawt."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:513
 translate turkish sm1fs_t002_sex_65483227:

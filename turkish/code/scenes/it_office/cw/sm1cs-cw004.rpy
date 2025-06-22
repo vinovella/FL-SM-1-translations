@@ -460,7 +460,7 @@ translate turkish sm1cs_cw004_docks_e3343d02:
 translate turkish sm1cs_cw004_docks_62882512:
 
     # chw "Yes. She is one of our favorite treat-yourself toys."
-    chw "Evet. O bizim en sevdiğimiz "kendine ödül" oyuncaklarından biri."
+    chw "Evet. O bizim en sevdiğimiz kendine ödül oyuncaklarından biri."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:273
 translate turkish sm1cs_cw004_docks_3ea2f9d9:
@@ -1702,7 +1702,7 @@ translate turkish sm1cs_cw004_first_evening_05500ff6:
 translate turkish sm1cs_cw004_first_evening_3241f49e:
 
     # cw "*whispers* Why.{w} Aren't.{w} You.{w} Cumming?"
-    cw "*fısıldar* Neden.{w} Sen.{w} Boşalmıyorsun?{w}
+    cw "*fısıldar* Neden.{w} Sen.{w} Boşalmıyorsun?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:918
 translate turkish sm1cs_cw004_first_evening_8aff1fa7:
