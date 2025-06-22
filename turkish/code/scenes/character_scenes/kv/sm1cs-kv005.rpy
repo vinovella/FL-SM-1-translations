@@ -340,7 +340,7 @@ translate turkish sm1cs_kv005_start_f9a84df0:
 translate turkish sm1cs_kv005_start_dc851375:
 
     # mc "Uhhhh..."
-    #mc "Eee..."
+    mc "Eee..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:189
 translate turkish sm1cs_kv005_start_2ad9e274:
@@ -772,7 +772,7 @@ translate turkish sm1cs_kv005_part_2_fcb03f0b:
 translate turkish sm1cs_kv005_part_2_e9a28e46:
 
     # mc "Yeah!"
-    #mc "Evet!"
+    mc "Evet!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:402
 translate turkish sm1cs_kv005_part_2_30f3cdd3:
