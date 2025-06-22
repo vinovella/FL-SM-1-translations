@@ -4,21 +4,21 @@ translate turkish strings:
 
     # game/code/renpy/screens/faction_th.rpy:12
     old "THEATER"
-    new ""
+    new "TİYATRO"
 
     # game/code/renpy/screens/faction_th.rpy:38
     old "Theater schedule"
-    new ""
+    new "Tiyatro programı"
 
     # game/code/renpy/screens/faction_th.rpy:45
     old "6 PM"
-    new ""
+    new "18:00"
 
     # game/code/renpy/screens/faction_th.rpy:60
     old "Pay after show on "
-    new ""
+    new "Gösteriden sonra ödeme yapın"
 
     # game/code/renpy/screens/faction_th.rpy:67
     old "Extra pay for successful show:"
-    new ""
+    new "Başarılı gösteri için ekstra ödeme:"
 
