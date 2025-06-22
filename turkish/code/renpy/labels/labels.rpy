@@ -4,11 +4,11 @@
 translate turkish buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
-    "" with hpunch
+    "Bzzzzz" with hpunch
 
 # game/code/renpy/labels/labels.rpy:81
 translate turkish knock_40511e6c:
 
     # "*knock knock*"
-    ""
+    "*Tak Tak*"
 
