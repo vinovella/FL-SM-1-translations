@@ -4,17 +4,17 @@ translate turkish strings:
 
     # game/code/renpy/screens/wait.rpy:6
     old "Delivering Wurst..."
-    new ""
+    new "Sosis teslimatı..."
 
     # game/code/renpy/screens/wait.rpy:8
     old "Coding Solutions..."
-    new ""
+    new "Kodlama Çözümleri..."
 
     # game/code/renpy/screens/wait.rpy:10
     old "Reading Book..."
-    new ""
+    new "Kitap okuyor..."
 
     # game/code/renpy/screens/wait.rpy:12
     old "Working in the Theater..."
-    new ""
+    new "Tiyatroda çalışıyor..."
 
