@@ -4,89 +4,89 @@ translate turkish strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Main Story"
-    new ""
+    new "Ana Hikaye"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Unlock more jobs"
-    new ""
+    new "Daha fazla iş aç"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "AmRose's story"
-    new ""
+    new "Amrose'un Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Amore's story"
-    new ""
+    new "Amore'nin Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Debbie's story"
-    new ""
+    new "Debbie'nin Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Kanya's story"
-    new ""
+    new "Kanya'nın Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Maya's story"
-    new ""
+    new "Maya'nın Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Lyssa's story"
-    new ""
+    new "Lyssa'nın Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Stacy's story"
-    new ""
+    new "Stacy'nin Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Min's story"
-    new ""
+    new "Min'in Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Ridley's story"
-    new ""
+    new "Ridley'nin Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Melony's story"
-    new ""
+    new "Melony'nin Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Theater story"
-    new ""
+    new "Tiyatro Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Orbix story"
-    new ""
+    new "Orbix Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "April's story"
-    new ""
+    new "April'ın Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Anna's story"
-    new ""
+    new "Anna'nın Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Claire's story"
-    new ""
+    new "Claire'ın Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Nari's story"
-    new ""
+    new "Nari'nin Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Denise's story"
-    new ""
+    new "Denise'in Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Kelly's story"
-    new ""
+    new "Kelly'nin Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Taisia's story"
-    new ""
+    new "Taisia'nın Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Veronica's story"
-    new ""
+    new "Veronica'nın Hikayesi"
 
