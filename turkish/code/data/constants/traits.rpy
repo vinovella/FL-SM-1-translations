@@ -4,305 +4,305 @@ translate turkish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Brunette"
-    new ""
+    new "Brunette"
 
     # game/code/data/constants/traits.rpy:82
     old "Blonde"
-    new ""
+    new "Sarışın"
 
     # game/code/data/constants/traits.rpy:82
     old "Redhead"
-    new ""
+    new "Kızıl Saçlı"
 
     # game/code/data/constants/traits.rpy:82
     old "Dyed Hair"
-    new ""
+    new "Boyalı Saç"
 
     # game/code/data/constants/traits.rpy:82
     old "Multiple Color Hair"
-    new ""
+    new "Çok Renkli Saç"
 
     # game/code/data/constants/traits.rpy:82
     old "Blue Hair"
-    new ""
+    new "Mavi Saç"
 
     # game/code/data/constants/traits.rpy:82
     old "Green Hair"
-    new ""
+    new "Yeşil saç"
 
     # game/code/data/constants/traits.rpy:82
     old "Platinum Hair"
-    new ""
+    new "Platin Saç"
 
     # game/code/data/constants/traits.rpy:82
     old "Grey Hair"
-    new ""
+    new "Gri Saç"
 
     # game/code/data/constants/traits.rpy:82
     old "Bald"
-    new ""
+    new "Kel"
 
     # game/code/data/constants/traits.rpy:82
     old "Long Hair"
-    new ""
+    new "Uzun Saç"
 
     # game/code/data/constants/traits.rpy:82
     old "Short Hair"
-    new ""
+    new "Kısa Saç"
 
     # game/code/data/constants/traits.rpy:82
     old "Braces"
-    new ""
+    new "Diş Tel"
 
     # game/code/data/constants/traits.rpy:82
     old "Black Hair"
-    new ""
+    new "Siyah Saç"
 
     # game/code/data/constants/traits.rpy:82
     old "Braids"
-    new ""
+    new "Örgüler"
 
     # game/code/data/constants/traits.rpy:82
     old "Dreads"
-    new ""
+    new "Dreadloklar"
 
     # game/code/data/constants/traits.rpy:82
     old "Afro Hair"
-    new ""
+    new "Afro Saç"
 
     # game/code/data/constants/traits.rpy:82
     old "Curly Hair"
-    new ""
+    new "Kıvırcık Saç"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Boobs"
-    new ""
+    new "Büyük Göğüsler"
 
     # game/code/data/constants/traits.rpy:82
     old "Small Boobs"
-    new ""
+    new "Küçük Göğüsler"
 
     # game/code/data/constants/traits.rpy:82
     old "Huge Boobs"
-    new ""
+    new "Kocaman Göğüsler"
 
     # game/code/data/constants/traits.rpy:82
     old "MILF"
-    new ""
+    new "Milf"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Ass"
-    new ""
+    new "Büyük Kıç "
 
     # game/code/data/constants/traits.rpy:82
     old "Skinny"
-    new ""
+    new "Sıska"
 
     # game/code/data/constants/traits.rpy:82
     old "Curvy"
-    new ""
+    new "Kıvrımlı"
 
     # game/code/data/constants/traits.rpy:82
     old "BBW"
-    new ""
+    new "BBW"
 
     # game/code/data/constants/traits.rpy:82
     old "Muscular"
-    new ""
+    new "Kaslı"
 
     # game/code/data/constants/traits.rpy:82
     old "Short"
-    new ""
+    new "Kısa"
 
     # game/code/data/constants/traits.rpy:82
     old "Tall"
-    new ""
+    new "Uzun"
 
     # game/code/data/constants/traits.rpy:82
     old "Amputee"
-    new ""
+    new "Ampute"
 
     # game/code/data/constants/traits.rpy:82
     old "Facial Piercing"
-    new ""
+    new "Yüz Piercingi"
 
     # game/code/data/constants/traits.rpy:82
     old "Nipples Piercing"
-    new ""
+    new "Meme Ucu Piercingi"
 
     # game/code/data/constants/traits.rpy:82
     old "Genital Piercing"
-    new ""
+    new "Vajina Piercingi"
 
     # game/code/data/constants/traits.rpy:82
     old "Tattoo"
-    new ""
+    new "Dövme"
 
     # game/code/data/constants/traits.rpy:82
     old "Freckles"
-    new ""
+    new "Çiller"
 
     # game/code/data/constants/traits.rpy:82
     old "Tan lines"
-    new ""
+    new "Bronzluk izleri"
 
     # game/code/data/constants/traits.rpy:82
     old "Hairy"
-    new ""
+    new "Kıllı"
 
     # game/code/data/constants/traits.rpy:82
     old "Trimmed"
-    new ""
+    new "Kesilmiş"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Lips"
-    new ""
+    new "Büyük Dudaklar"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Nipples"
-    new ""
+    new "Büyük Meme Uçları"
 
     # game/code/data/constants/traits.rpy:82
     old "Pregnant"
-    new ""
+    new "Hamile"
 
     # game/code/data/constants/traits.rpy:82
     old "Pale"
-    new ""
+    new "Soluk"
 
     # game/code/data/constants/traits.rpy:82
     old "Innocent"
-    new ""
+    new "Masum"
 
     # game/code/data/constants/traits.rpy:82
     old "Trans"
-    new ""
+    new "Trans"
 
     # game/code/data/constants/traits.rpy:82
     old "Smoking"
-    new ""
+    new "Sigara"
 
     # game/code/data/constants/traits.rpy:82
     old "Anal"
-    new ""
+    new "Anal"
 
     # game/code/data/constants/traits.rpy:82
     old "Watersports"
-    new ""
+    new "Su Sporları"
 
     # game/code/data/constants/traits.rpy:82
     old "Creampie"
-    new ""
+    new "Boşalma"
 
     # game/code/data/constants/traits.rpy:82
     old "Facial"
-    new ""
+    new "Yüz"
 
     # game/code/data/constants/traits.rpy:82
     old "Group sex"
-    new ""
+    new "Grup Sex"
 
     # game/code/data/constants/traits.rpy:82
     old "Sex with women"
-    new ""
+    new "Kadınlarla Sex"
 
     # game/code/data/constants/traits.rpy:82
     old "Deep Throat"
-    new ""
+    new "Derin Boğaz"
 
     # game/code/data/constants/traits.rpy:82
     old "Fisting"
-    new ""
+    new "Yumruklama"
 
     # game/code/data/constants/traits.rpy:82
     old "Foot Fetish"
-    new ""
+    new "Ayak Fetişi"
 
     # game/code/data/constants/traits.rpy:82
     old "Masochism"
-    new ""
+    new "Mazoşizm"
 
     # game/code/data/constants/traits.rpy:82
     old "Humiliation"
-    new ""
+    new "Aşşağılama"
 
     # game/code/data/constants/traits.rpy:82
     old "Submission"
-    new ""
+    new "Boyun Eğme"
 
     # game/code/data/constants/traits.rpy:82
     old "Domination"
-    new ""
+    new "Hakimiyet"
 
     # game/code/data/constants/traits.rpy:82
     old "Bondage"
-    new ""
+    new "Esaret"
 
     # game/code/data/constants/traits.rpy:82
     old "Spanking"
-    new ""
+    new "Şaplak"
 
     # game/code/data/constants/traits.rpy:82
     old "Enema"
-    new ""
+    new "Lavman"
 
     # game/code/data/constants/traits.rpy:82
     old "Pet Play"
-    new ""
+    new "Evcil Hayvan Oyunu"
 
     # game/code/data/constants/traits.rpy:82
     old "Exhibitionism"
-    new ""
+    new "Sergileme"
 
     # game/code/data/constants/traits.rpy:82
     old "Cum Swallow"
-    new ""
+    new "Döl Yutma"
 
     # game/code/data/constants/traits.rpy:82
     old "Pegging"
-    new ""
+    new "Sabitleme"
 
     # game/code/data/constants/traits.rpy:82
     old "Toys"
-    new ""
+    new "Oyuncaklar"
 
     # game/code/data/constants/traits.rpy:82
     old "Food Play"
-    new ""
+    new "Yiyecek Oyunu"
 
     # game/code/data/constants/traits.rpy:82
     old "Gangbang"
-    new ""
+    new "Gangbang"
 
     # game/code/data/constants/traits.rpy:82
     old "Rough Sex"
-    new ""
+    new "Sert Sex"
 
     # game/code/data/constants/traits.rpy:82
     old "Rimming"
-    new ""
+    new "Çevreleme"
 
     # game/code/data/constants/traits.rpy:82
     old "Felching"
-    new ""
+    new "Felç"
 
     # game/code/data/constants/traits.rpy:82
     old "Squirting"
-    new ""
+    new "Sıçratma"
 
     # game/code/data/constants/traits.rpy:82
     old "Double Penetration"
-    new ""
+    new "Çift Penetrasyon"
 
     # game/code/data/constants/traits.rpy:82
     old "Ass to Mouth"
-    new ""
+    new "Götten Ağza"
 
     # game/code/data/constants/traits.rpy:82
     old "Choking"
-    new ""
+    new "Boğma"
 
     # game/code/data/constants/traits.rpy:82
     old "Extreme"
-    new ""
+    new "Aşırı"
 
