@@ -4,73 +4,73 @@ translate turkish strings:
 
     # game/code/data/constants/constants.rpy:345
     old "Animals"
-    new ""
+    new "Hayvanlar"
 
     # game/code/data/constants/constants.rpy:346
     old "Art"
-    new ""
+    new "Sanat"
 
     # game/code/data/constants/constants.rpy:347
     old "Automobiles"
-    new ""
+    new "Otomobiller"
 
     # game/code/data/constants/constants.rpy:348
     old "Collecting"
-    new ""
+    new "Koleksiyonculuk"
 
     # game/code/data/constants/constants.rpy:349
     old "Fashion"
-    new ""
+    new "Moda"
 
     # game/code/data/constants/constants.rpy:350
     old "Film and TV"
-    new ""
+    new "Film ve Tv"
 
     # game/code/data/constants/constants.rpy:351
     old "Finance"
-    new ""
+    new "Finans"
 
     # game/code/data/constants/constants.rpy:352
     old "Fitness"
-    new ""
+    new "Fitness"
 
     # game/code/data/constants/constants.rpy:353
     old "Food and Drink"
-    new ""
+    new "Yiyecek ve İçecek"
 
     # game/code/data/constants/constants.rpy:354
     old "Gaming"
-    new ""
+    new "Oyun"
 
     # game/code/data/constants/constants.rpy:355
     old "Gardening"
-    new ""
+    new "Bahçecilik"
 
     # game/code/data/constants/constants.rpy:356
     old "Literature"
-    new ""
+    new "Edebiyat"
 
     # game/code/data/constants/constants.rpy:357
     old "Music"
-    new ""
+    new "Müzik"
 
     # game/code/data/constants/constants.rpy:358
     old "Photography"
-    new ""
+    new "Fotoğrafçılık"
 
     # game/code/data/constants/constants.rpy:359
     old "Science"
-    new ""
+    new "Bilim"
 
     # game/code/data/constants/constants.rpy:360
     old "Sports"
-    new ""
+    new "Spor"
 
     # game/code/data/constants/constants.rpy:361
     old "Technology"
-    new ""
+    new "Teknoloji"
 
     # game/code/data/constants/constants.rpy:362
     old "Travel"
-    new ""
+    new "Seyahat"
 
