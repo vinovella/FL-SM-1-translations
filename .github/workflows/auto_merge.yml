@@ -1,0 +1,33 @@
+for PR in $PRS; do
+  echo "Checking mergeability of PR #$PR"
+  ATTEMPTS=0
+  while true; do
+    MERGEABLE=$(curl -s -H "Authorization: token $GH_TOKEN" \
+      "https://api.github.com/repos/$OWNER/$REPO_NAME/pulls/$PR" | jq -r '.mergeable')
+    if [[ "$MERGEABLE" != "null" ]]; then
+      break
+    fi
+    ATTEMPTS=$((ATTEMPTS + 1))
+    if [[ $ATTEMPTS -ge 10 ]]; then
+      echo "Mergeable status still unknown for PR #$PR after 10 attempts, skipping."
+      continue 2
+    fi
+    echo "Mergeable status unknown for PR #$PR, retrying in 5 seconds..."
+    sleep 5
+  done
+
+  if [[ "$MERGEABLE" == "true" ]]; then
+    # Proceed with merge
+    RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" -X PUT \
+      -H "Authorization: token $GH_TOKEN" \
+      -H "Accept: application/vnd.github.v3+json" \
+      "https://api.github.com/repos/$OWNER/$REPO_NAME/pulls/$PR/merge")
+    if [ "$RESPONSE" = "200" ]; then
+      echo "Successfully merged PR #$PR"
+    else
+      echo "Failed to merge PR #$PR (HTTP $RESPONSE) - It may require review, have conflicts, or be blocked."
+    fi
+  else
+    echo "PR #$PR is not mergeable (mergeable=$MERGEABLE), skipping."
+  fi
+done
