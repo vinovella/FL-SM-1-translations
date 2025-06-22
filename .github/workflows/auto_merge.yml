@@ -11,6 +11,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
+          set +e  # Continue on error
           sudo apt-get update
           sudo apt-get install -y jq curl
           REPO="${GITHUB_REPOSITORY}"
@@ -53,3 +54,4 @@ jobs:
               echo "PR #$PR is not mergeable (mergeable=$MERGEABLE), skipping."
             fi
           done
+          exit 0  # Always exit successfully so the workflow doesn't fail if some merges fail
