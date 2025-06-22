@@ -436,7 +436,7 @@ translate turkish sm1cs_kv003_dc3841e0:
 translate turkish sm1cs_kv003_ad1eaa57:
 
     # mc "Huh."
-    #mc "Ha."
+    mc "Ha."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:259
 translate turkish sm1cs_kv003_c1477d1c:
@@ -484,7 +484,7 @@ translate turkish sm1cs_kv003_712ee372:
 translate turkish sm1cs_kv003_76e36874:
 
     # kv "Yeah, shibari."
-    #kv"Evet, shibari."
+    kv"Evet, shibari."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:279
 translate turkish sm1cs_kv003_e1a7fe7d:
@@ -664,7 +664,7 @@ translate turkish sm1cs_kv003_48d2a972:
 translate turkish sm1cs_kv003_f49fff8f:
 
     # mc "Yeah?"
-    #mc "Evet?"
+    mc "Evet?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:395
 translate turkish sm1cs_kv003_3693b736:
@@ -940,7 +940,7 @@ translate turkish sm1cs_kv003_a067b4ce:
 translate turkish sm1cs_kv003_f49fff8f_1:
 
     # mc "Yeah?"
-    #mc "Evet?"
+    mc "Evet?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:563
 translate turkish sm1cs_kv003_f1a647d0:
