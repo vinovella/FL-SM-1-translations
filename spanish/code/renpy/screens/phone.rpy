@@ -1,34 +1,34 @@
-﻿translate spanish strings:
+translate spanish strings:
 
     # game/code/renpy/screens/phone.rpy:23
     old "Quests"
-    new "Quests"
+    new "Misiones"
 
     # game/code/renpy/screens/phone.rpy:43
     old "Renovation"
-    new "Renovation"
+    new "Renovación"
 
     # game/code/renpy/screens/phone.rpy:48
     old "Messenger"
-    new "Messenger"
+    new "Mensajero"
 
     # game/code/renpy/screens/phone.rpy:58
     old "VN Mode"
-    new "VN Mode"
+    new "Modo Novela Visual"
 
     # game/code/renpy/screens/phone.rpy:64
     old "Quick Save"
-    new "Quick Save"
+    new "Guardado rápido"
 
     # game/code/renpy/screens/phone.rpy:67
     old "Quick Load"
-    new "Quick Load"
+    new "Cargado rápido"
 
     # game/code/renpy/screens/phone.rpy:76
     old "Load"
-    new "Load"
+    new "Cargar"
 
     # game/code/renpy/screens/phone.rpy:79
     old "Settings"
-    new "Settings"
+    new "Ajustes"
 
