@@ -376,7 +376,7 @@ translate turkish sm1cs_am005_sex_1_07f2a776:
 translate turkish sm1cs_am005_sex_1_1c8acf17_1:
 
     # am "..."
-    ben "..."
+    am "..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:227
 translate turkish sm1cs_am005_sex_1_1d60ca19:
@@ -520,7 +520,7 @@ translate turkish sm1cs_am005_no_sex_1_7ff1764f:
 translate turkish sm1cs_am005_no_sex_1_1c8acf17:
 
     # am "..."
-    ben "..."
+    am "..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:329
 translate turkish sm1cs_am005_no_sex_1_1880b7d5:
