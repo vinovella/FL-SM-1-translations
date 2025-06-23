@@ -58,7 +58,7 @@ translate turkish sm1cs_am004i_9cbe2ef6:
 translate turkish sm1cs_am004i_6e94d2fc:
 
     # am "Later."
-    am"Sonra."
+    am "Sonra."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:32
 translate turkish sm1cs_am004i_10ea311e:
