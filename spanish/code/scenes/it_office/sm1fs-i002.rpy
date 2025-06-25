@@ -586,12 +586,6 @@ translate spanish sm1fs_i002_0532ea45:
     # cw "I will be making a final decision by tomorrow morning."
     cw "Tomaré una decisión final mañana por la mañana."
 
-# game/code/scenes/it_office/sm1fs-i002.rpy:280
-translate spanish sm1fs_i002_a6a8005e:
-
-    # cw "After I've made my decision [gt.next_day] by 8:00 am I'll give you a call."
-    cw "Después de tomar mi decisión [gt.next_day] a las 8:00 a.m., te llamaré."
-
 # game/code/scenes/it_office/sm1fs-i002.rpy:284
 translate spanish sm1fs_i002_720d455d:
 
@@ -603,12 +597,6 @@ translate spanish sm1fs_i002_e3657940:
 
     # cw "You're welcome Mr. [mcname] Young."
     cw "De nada Sr. [mcname] Young."
-
-# game/code/scenes/it_office/sm1fs-i002.rpy:287
-translate spanish sm1fs_i002_ecac4227:
-
-    # mc "I look forward to your call at [gt.next_day] 8:00 am!"
-    mc "¡Espero su llamada el [gt.next_day] a las 8:00 am!"
 
 translate spanish strings:
 

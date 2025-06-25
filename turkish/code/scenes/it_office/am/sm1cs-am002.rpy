@@ -30,12 +30,6 @@ translate turkish sm1cs_am002_220cb3d0:
     # mc "April, you okay?"
     mc "Nisan, iyi misin?"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:57
-translate turkish sm1cs_am002_e86d99ac:
-
-    # mc "Uh... Earth to April."
-    mc "Şey... Dünya'dan Nisan'a."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:60
 translate turkish sm1cs_am002_ba03ec07:
 
@@ -72,18 +66,6 @@ translate turkish sm1cs_am002_c9b9b334:
     # ag "Sorry for being sneaky, [mcname]."
     ag "Gizlice davrandığım için özür dilerim, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:78
-translate turkish sm1cs_am002_39bb3e71:
-
-    # mc "Totally fine.{w} Gave my heart a workout."
-    mc "Tamamen iyiyim.{w} Kalbimi çalıştırdım."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:81
-translate turkish sm1cs_am002_9222011b:
-
-    # ag "Did she say anything?{w} Did you hear her talking on her phone?"
-    ag "Bir şey söyledi mi?{w} Telefonla konuştuğunu duydun mu?"
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:84
 translate turkish sm1cs_am002_14b03134:
 
@@ -108,18 +90,6 @@ translate turkish sm1cs_am002_8cb7e073:
     # mc "Is there a problem?"
     mc "Bir sorun mu var?"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:96
-translate turkish sm1cs_am002_72c66862:
-
-    # ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
-    ag "Ah hayır. Sadece şey...{w} April'in şirket zamanında banyoda saklanıp kişisel görüşmeler yapmadığından emin olmak istiyorum."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:99
-translate turkish sm1cs_am002_d06f9e7a:
-
-    # mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
-    mc "Tamam... Belki de mesajlar alıyordu?{w} Telefonuna çok düşkün görünüyordu."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:102
 translate turkish sm1cs_am002_ebca0e7d:
 
@@ -131,12 +101,6 @@ translate turkish sm1cs_am002_91ba7775:
 
     # ag "How is she doing on your work for the project?"
     ag "Projedeki çalışmanız nasıl gidiyor?"
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:106
-translate turkish sm1cs_am002_e2dd0671:
-
-    # mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
-    mc "Gerçekten çok iyi. Ve birçok denemeden sonra, bana bağırmadan yardım istemenin en iyi yolunu bulduğumu düşünüyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:109
 translate turkish sm1cs_am002_e7084851:
@@ -240,12 +204,6 @@ translate turkish sm1cs_am002_acaba40a:
     # mct "Did April just use the word 'please'?"
     mct "Nisan az önce 'lütfen' kelimesini mi kullandı?"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:167
-translate turkish sm1cs_am002_9bab7d01:
-
-    # ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
-    ag "Yarın mı?{w} Hayır. Ara yazılımdaki bu değişiklikleri bugün yapmanız gerekiyordu."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:168
 translate turkish sm1cs_am002_1d114e05:
 
@@ -276,23 +234,11 @@ translate turkish sm1cs_am002_68e335dc:
     # am "There, you have your answer."
     am "İşte cevabını aldın."
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:185
-translate turkish sm1cs_am002_38cb486e:
-
-    # am "Look, it's like I said earlier.{w} It will be ready tomorrow."
-    am "Bak, daha önce söylediğim gibi.{w} Yarın hazır olacak."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:188
 translate turkish sm1cs_am002_ff6e3ead:
 
     # ag "I don't need to-"
     ag "İhtiyacım yok-"
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:189
-translate turkish sm1cs_am002_f059d2ec:
-
-    # ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
-    ag "*iç çeker* April, lütfen benimle konuş.{w} Bu sana benzemiyor. Yani, sana benziyor ama... tüm hakaretlerine ve küçük laflarına rağmen, asla bu kadar geride kalmıyorsun."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:193
 translate turkish sm1cs_am002_5915abe8:
@@ -317,12 +263,6 @@ translate turkish sm1cs_am002_4ba21ae4:
 
     # am "I've asked every month for those compatibility upgrades but no one gives me a straight answer."
     am "Her ay uyumluluk yükseltmeleri için talepte bulunuyorum ama kimse bana net bir cevap vermiyor."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:201
-translate turkish sm1cs_am002_371de864:
-
-    # am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
-    am "Ara yazılımın ne kadar kararsız olabileceğini biliyorsun.{w} Ve senin tüm bu bağırıp çağırmaların beni oyundan düşürüyor ve daha da geriye götürüyor."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:204
 translate turkish sm1cs_am002_59f48bb5:
@@ -534,18 +474,6 @@ translate turkish sm1cs_am002_1eb5239c:
     # mc "Hah. So April was defending you."
     mc "Hah. Yani April seni savunuyordu."
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:311
-translate turkish sm1cs_am002_cb355b8b:
-
-    # ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
-    ag "Hahaha, asla.{w} Onun dikkatini çekmenin en hızlı yolu olduğunu ve onu bayıltacağını düşünmediğini söyledi."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:312
-translate turkish sm1cs_am002_a8caa986:
-
-    # ag "That was quite the day..."
-    ag "Gerçekten de çok güzel bir gündü..."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:315
 translate turkish sm1cs_am002_f25b708f:
 
@@ -569,12 +497,6 @@ translate turkish sm1cs_am002_bf8549a7:
 
     # mc "Loud and clear."
     mc "Yüksek sesle ve net."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:323
-translate turkish sm1cs_am002_cff053f3:
-
-    # ag "Thanks, [mcname]."
-    ag "Teşekkürler, [mcname]."
 
 translate turkish strings:
 

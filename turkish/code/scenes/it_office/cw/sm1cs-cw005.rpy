@@ -216,12 +216,6 @@ translate turkish sm1cs_cw005_pushy_menu_80f6d00e:
     # cw "Hmm."
     cw "Hımm."
 
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:172
-translate turkish sm1cs_cw005_pushy_menu_0c1cb963:
-
-    # cw "Well, get moving, Mr. Bird."
-    cw "Hadi, harekete geçin Bay Kuş."
-
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:173
 translate turkish sm1cs_cw005_pushy_menu_58d653aa:
 

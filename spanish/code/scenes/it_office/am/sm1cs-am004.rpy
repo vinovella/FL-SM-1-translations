@@ -382,12 +382,6 @@ translate spanish sm1cs_am004_ag_appears_395d02a4_2:
     # "Crowd" "*cheering*"
     "Multitud" "*aplausos*"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:255
-translate spanish sm1cs_am004_ag_appears_e9508810:
-
-    # mcon "And on base we have April the Merciless!"
-    mcon "¡Y en el bajo tenemos a la despiadada Abril!"
-
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:266
 translate spanish sm1cs_am004_ag_appears_395d02a4_3:
 

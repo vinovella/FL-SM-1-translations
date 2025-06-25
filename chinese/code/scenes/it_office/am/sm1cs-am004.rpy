@@ -382,12 +382,6 @@ translate chinese sm1cs_am004_ag_appears_395d02a4_2:
     # "Crowd" "*cheering*"
     "人群" "*欢呼*"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:255
-translate chinese sm1cs_am004_ag_appears_e9508810:
-
-    # mcon "And on base we have April the Merciless!"
-    mcon "我们的贝斯手，冷酷无情的艾普尔！"
-
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:266
 translate chinese sm1cs_am004_ag_appears_395d02a4_3:
 

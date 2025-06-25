@@ -382,12 +382,6 @@ translate portuguese sm1cs_am004_ag_appears_395d02a4_2:
     # "Crowd" "*cheering*"
     "Crowd" "*cheering*"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:255
-translate portuguese sm1cs_am004_ag_appears_e9508810:
-
-    # mcon "And on base we have April the Merciless!"
-    mcon "And on base we have April the Merciless!"
-
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:266
 translate portuguese sm1cs_am004_ag_appears_395d02a4_3:
 

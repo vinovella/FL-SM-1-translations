@@ -42,18 +42,6 @@ translate turkish sm1cs_am005_bd5cc34c:
     # mct "Then something switched, and she kicked me out of the car. I thought we were going all the way for sure."
     mct "Sonra bir şeyler değişti ve beni arabadan attı. Kesinlikle sonuna kadar gideceğimizi düşünmüştüm."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:34
-translate turkish sm1cs_am005_d267eb2f:
-
-    # mct "This can't go on. I need to at least get us back on the same page."
-    mct "Bu böyle devam edemez. En azından aynı sayfada buluşalım."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:37
-translate turkish sm1cs_am005_71f06d2b:
-
-    # mc "Hey, April."
-    mc "Merhaba, April."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:39
 translate turkish sm1cs_am005_0fed480a:
 
@@ -84,23 +72,11 @@ translate turkish sm1cs_am005_f8c981fd:
     # mct "Okay. Message received, April."
     mct "Tamam. Mesaj alındı, April."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:77
-translate turkish sm1cs_am005_hours_later_e90fce66:
-
-    # mct "Finally. That's the last ticket for my shift."
-    mct "Sonunda. Bu benim vardiyam için son bilet."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:80
 translate turkish sm1cs_am005_hours_later_e526a903:
 
     # mc "Hmmm."
     mc "Hımmm."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:86
-translate turkish sm1cs_am005_hours_later_a896092a:
-
-    # mct "April texted me."
-    mct "April bana mesaj attı."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:87
 translate turkish sm1cs_am005_hours_later_0457cee3:
@@ -113,12 +89,6 @@ translate turkish sm1cs_am005_hours_later_b7e91ea9:
 
     # mct "Why do I feel like she's going to ninja-jump my ass or something?"
     mct "Neden sanki ninja-jump yapacakmış gibi hissediyorum?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:96
-translate turkish sm1cs_am005_hours_later_66953d1c:
-
-    # am "Now I can talk.{w} So talk."
-    am "Artık konuşabilirim.{w} Hadi konuş."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:104
 translate turkish sm1cs_am005_hours_later_7b0f101d:
@@ -150,23 +120,11 @@ translate turkish sm1cs_am005_hours_later_52e80c48:
     # mc "You've been blowing me off all day, and now you want to talk?"
     mc "Bütün gün beni savuşturdun, şimdi de konuşmak mı istiyorsun?"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:118
-translate turkish sm1cs_am005_hours_later_146a1f48:
-
-    # am "I... yes.{w} I want to talk."
-    am "Ben... evet.{k} Konuşmak istiyorum."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:121
 translate turkish sm1cs_am005_hours_later_998ba37e:
 
     # am "But you're right, I could have handled things a lot better."
     am "Ama haklısın, işleri çok daha iyi halledebilirdim."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:122
-translate turkish sm1cs_am005_hours_later_7d046d84:
-
-    # am "So... can we just open up a new doc, [mcname{w} Start fresh?"
-    am "Peki... yeni bir doküman açabilir miyiz, [mcname{w}, baştan başlayalım mı?"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:124
 translate turkish sm1cs_am005_hours_later_a49ed4f8:
@@ -210,23 +168,11 @@ translate turkish sm1cs_am005_hours_later_c970342f:
     # am "Yeah, well... Whatever."
     am "Evet, peki... Neyse."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:155
-translate turkish sm1cs_am005_hours_later_a275d6ef:
-
-    # mct "I should be a little patient with April.{w} She's obviously got something on her mind."
-    mct "April'e karşı biraz sabırlı olmalıyım.{w} Belli ki aklında bir şeyler var."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:156
 translate turkish sm1cs_am005_hours_later_68bdc5fa:
 
     # mct "What is it? And why is she struggling so much?"
     mct "Nedir bu? Ve neden bu kadar çok mücadele ediyor?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:159
-translate turkish sm1cs_am005_hours_later_a7b1f1c9:
-
-    # mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
-    mct "Bekle...{w} April benden hoşlanıyor mu?{w} Arabasında öyle görünmüyordu."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:163
 translate turkish sm1cs_am005_hours_later_dcfc613f:
@@ -258,18 +204,6 @@ translate turkish sm1cs_am005_hours_later_8d2b864e:
     # am "The {i}trunk{/i}."
     am "{i}Sandık{/i}."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:175
-translate turkish sm1cs_am005_hours_later_0ff1fdb3:
-
-    # am "What do you think, idiot?{w} All of it."
-    am "Ne düşünüyorsun aptal?{w} Hepsini."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:186
-translate turkish sm1cs_am005_sex_1_bd4a6ae6:
-
-    # am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
-    am "Kötü dürtülerimin beni ele geçirmesine izin verdim.{w} Beynim doğru düzgün düşünemiyordu."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:188
 translate turkish sm1cs_am005_sex_1_70d74354:
 
@@ -288,12 +222,6 @@ translate turkish sm1cs_am005_sex_1_e5544801:
     # mc "I get it."
     mc "Anladım."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:198
-translate turkish sm1cs_am005_sex_1_028c5529:
-
-    # mc "Say no more..."
-    mc "Daha fazla söze gerek yok..."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:199
 translate turkish sm1cs_am005_sex_1_0e0c320b:
 
@@ -305,12 +233,6 @@ translate turkish sm1cs_am005_sex_1_15ee2653:
 
     # mc "Maybe in the next life."
     mc "Belki bir sonraki hayatta."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:203
-translate turkish sm1cs_am005_sex_1_bd9f2d5b:
-
-    # am "[mcname]...{w} That's not what I mean."
-    am "[mcname]...{w} Benim demek istediğim bu değil."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:206
 translate turkish sm1cs_am005_sex_1_69da63a3:
@@ -324,12 +246,6 @@ translate turkish sm1cs_am005_sex_1_c9c2e027:
     # mc "What the hell-"
     mc "Ne oluyor-"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:210
-translate turkish sm1cs_am005_sex_1_4e767ae1:
-
-    # mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
-    mc "Bunu açıklayabilir misin, April?{w} Sık sık söylediğin gibi, senin kadar zeki değilim."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:213
 translate turkish sm1cs_am005_sex_1_e07a0189:
 
@@ -341,12 +257,6 @@ translate turkish sm1cs_am005_sex_1_460a97ce:
 
     # am "I don't know, something bent in a direction it's not meant to bend."
     am "Bilmiyorum, bir şey eğilmemesi gereken bir yöne doğru eğilmiş."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:217
-translate turkish sm1cs_am005_sex_1_5c9540af:
-
-    # am "And I just, I don't know, I went stupid mode.{w} Basic mode."
-    am "Ve ben sadece, bilmiyorum, aptal moduna geçtim.{w} Temel mod."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:218
 translate turkish sm1cs_am005_sex_1_a4204147:
@@ -377,18 +287,6 @@ translate turkish sm1cs_am005_sex_1_1c8acf17_1:
 
     # am "..."
     am "..."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:227
-translate turkish sm1cs_am005_sex_1_1d60ca19:
-
-    # mct "I guess she doesn't have {b}all{/b} the answers."
-    mct "Sanırım {b}tüm{/b} cevaplara sahip değil."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:230
-translate turkish sm1cs_am005_sex_1_5dc800e5:
-
-    # mc "Text me if you ever figure it out.{w} I got other-"
-    mc "Eğer bir gün anlarsan bana mesaj at.{w} Başka bir-"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:234
 translate turkish sm1cs_am005_sex_1_cc27a1f7:
@@ -432,12 +330,6 @@ translate turkish sm1cs_am005_sex_1_11455b53:
     # mc "What?"
     mc "Ne?"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:263
-translate turkish sm1cs_am005_sex_1_61ca4758:
-
-    # am "I didn't want {b}our{/b} first time to be like that."
-    am "İlk seferimizin böyle olmasını istemedim."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:266
 translate turkish sm1cs_am005_sex_1_343269bc:
 
@@ -456,23 +348,11 @@ translate turkish sm1cs_am005_sex_1_b7547a2f:
     # mc "Wait, how long have you been thinking of us do-"
     mc "Dur, ne zamandır bizi düşünüyorsun-"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:274
-translate turkish sm1cs_am005_sex_1_de51fd56:
-
-    # am "Shuuuussssssh.{w} Not out here."
-    am "Shuuuussssssh.{w} Burada değil."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:278
 translate turkish sm1cs_am005_sex_1_ea038288:
 
     # mc "How long have you been thinking... about this?"
     mc "Bunun hakkında ne kadar zamandır düşünüyorsun?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:280
-translate turkish sm1cs_am005_sex_1_246cc10d:
-
-    # am "I don't know.{w} Maybe after I invited you to see my band."
-    am "Bilmiyorum.{w} Belki seni grubumu görmeye davet ettikten sonra."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:281
 translate turkish sm1cs_am005_sex_1_565fb882:
