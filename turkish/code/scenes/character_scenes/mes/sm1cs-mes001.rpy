@@ -664,7 +664,7 @@ translate turkish sm1cs_mes001_7b252ff6:
 translate turkish sm1cs_mes001_81aef917:
 
     # mes "..."
-    Biz "..."
+    mes "..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:309
 translate turkish sm1cs_mes001_1fd38f1f:
