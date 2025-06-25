@@ -536,3 +536,37 @@
     old "Renovation help from Debbie"
     new "Renovation help from Debbie"
 
+translate chinese strings:
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Text Kanya"
+    new "Text Kanya"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Film the next movie"
+    new "Film the next movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Help Stacy with editing the movie"
+    new "Help Stacy with editing the movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Check the status of the movie editing"
+    new "Check the status of the movie editing"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Check out the edited movie"
+    new "Check out the edited movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Answer Min's text"
+    new "Answer Min's text"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet Claire at the office kitchen"
+    new "Meet Claire at the office kitchen"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Visit Taisia in her room"
+    new "Visit Taisia in her room"
+

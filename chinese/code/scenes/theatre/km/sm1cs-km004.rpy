@@ -1670,3 +1670,9 @@ translate chinese strings:
     old "I'm starting to get worried"
     new "我开始有点担心了"
 
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:978
+translate chinese sm1cs_km004_later_e06e0046:
+
+    # vs "Did I just blank out for a minute, or did Taisia steal Kellie's clothes?"
+    vs "Did I just blank out for a minute, or did Taisia steal Kellie's clothes?"
+

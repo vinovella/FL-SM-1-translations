@@ -328,3 +328,53 @@
     old "Meet Ridley"
     new "Meet Ridley"
 
+translate chinese strings:
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Have $200 and text Kanya"
+    new "Have $200 and text Kanya"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy about editing during the day"
+    new "Talk to Stacy about editing during the day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Stacy to make editing progress"
+    new "Wait for Stacy to make editing progress"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy about editing again... during the day"
+    new "Talk to Stacy about editing again... during the day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Stacy to finish editing"
+    new "Wait for Stacy to finish editing"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy"
+    new "Talk to Stacy"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Text Debbie"
+    new "Text Debbie"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get to 3 relationship points with Min"
+    new "Get to 3 relationship points with Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Min to text you"
+    new "Wait for Min to text you"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Answer Min"
+    new "Answer Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get to 5 relationship points with Min"
+    new "Get to 5 relationship points with Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Min in a bar"
+    new "Talk with Min in a bar"
+

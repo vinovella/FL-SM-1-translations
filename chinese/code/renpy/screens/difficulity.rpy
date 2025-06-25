@@ -5,8 +5,8 @@
     new "GAME MODE"
 
     # game/code/renpy/screens/difficulity.rpy:22
-    old "Full Exprience"
-    new "Full Exprience"
+    old "Full Experience"
+    new "Full Experience"
 
     # game/code/renpy/screens/difficulity.rpy:34
     old "No Minigames"

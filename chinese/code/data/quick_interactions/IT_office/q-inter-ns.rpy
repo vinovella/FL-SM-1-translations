@@ -532,3 +532,453 @@ translate chinese q_inter_ns_23_dbd81ba2:
     # ns "Okay."
     ns "Okay."
 
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:334
+translate chinese q_inter_ns_24_550583b3:
+
+    # mc "That's quite a computer set up you've got there, Nari."
+    mc "That's quite a computer set up you've got there, Nari."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:336
+translate chinese q_inter_ns_24_e6735192:
+
+    # ns "Yes, [mcname]. I do a little bit of crypto mining and it requires quite the computer set up."
+    ns "Yes, [mcname]. I do a little bit of crypto mining and it requires quite the computer set up."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:340
+translate chinese q_inter_ns_24_7ffe2a1a:
+
+    # mc "Yeah... {w}Wait, doesn't that take a lot of power, too?"
+    mc "Yeah... {w}Wait, doesn't that take a lot of power, too?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:342
+translate chinese q_inter_ns_24_3b160f9e:
+
+    # ns "It does, yes."
+    ns "It does, yes."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:343
+translate chinese q_inter_ns_24_c9891d31:
+
+    # mc "Is that going to make our electric bill go crazy?"
+    mc "Is that going to make our electric bill go crazy?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:347
+translate chinese q_inter_ns_24_b982509b:
+
+    # ns "Uhm..."
+    ns "Uhm..."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:349
+translate chinese q_inter_ns_24_18206bf0:
+
+    # mct "Oh boy..."
+    mct "Oh boy..."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:356
+translate chinese q_inter_ns_25_958dac75:
+
+    # mc "I like the poster you have on your wall."
+    mc "I like the poster you have on your wall."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:358
+translate chinese q_inter_ns_25_a9c5ce13:
+
+    # ns "I like it too! Isn't she so cool!?!"
+    ns "I like it too! Isn't she so cool!?!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:359
+translate chinese q_inter_ns_25_fcd9f9ab:
+
+    # mc "Yeah, and... also a little naked."
+    mc "Yeah, and... also a little naked."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:363
+translate chinese q_inter_ns_25_4b049db2:
+
+    # ns "What! Her outfit isn't - wait, is that-"
+    ns "What! Her outfit isn't - wait, is that-"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:364
+translate chinese q_inter_ns_25_d30bf643:
+
+    # ns "Oh my! How did I never realize her nipple was showing!"
+    ns "Oh my! How did I never realize her nipple was showing!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:366
+translate chinese q_inter_ns_25_b3ae8984:
+
+    # mc "Uhm..."
+    mc "Uhm..."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:368
+translate chinese q_inter_ns_25_d3559ec8:
+
+    # ns "I'm not a pervert! I swear!"
+    ns "I'm not a pervert! I swear!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:369
+translate chinese q_inter_ns_25_50122ae2:
+
+    # mc "But you kind of are, Nari."
+    mc "But you kind of are, Nari."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:370
+translate chinese q_inter_ns_25_3dfe9a15:
+
+    # ns "That is not the point!"
+    ns "That is not the point!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:377
+translate chinese q_inter_ns_26_0e76845b:
+
+    # mc "I didn't realize you like plants, Nari."
+    mc "I didn't realize you like plants, Nari."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:379
+translate chinese q_inter_ns_26_0db0186a:
+
+    # ns "I do! They act as natural air purifiers."
+    ns "I do! They act as natural air purifiers."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:380
+translate chinese q_inter_ns_26_9e4f921f:
+
+    # mc "I feel like I've heard that be-"
+    mc "I feel like I've heard that be-"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:384
+translate chinese q_inter_ns_26_aa44f1ba:
+
+    # ns "And NASA found that a single plant can effectively purify 30 square meters of a space."
+    ns "And NASA found that a single plant can effectively purify 30 square meters of a space."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:385
+translate chinese q_inter_ns_26_f41785c5:
+
+    # ns "And since this is roughly a 120 square foot room, 4 plants should effectively purify the whole space."
+    ns "And since this is roughly a 120 square foot room, 4 plants should effectively purify the whole space."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:387
+translate chinese q_inter_ns_26_02799621:
+
+    # mc "Oh, well that's-"
+    mc "Oh, well that's-"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:391
+translate chinese q_inter_ns_26_c4056161:
+
+    # ns "However, other studies suggest that plants are not as effective as suggested in air purification, and that they can only improve a space by 25%%."
+    ns "However, other studies suggest that plants are not as effective as suggested in air purification, and that they can only improve a space by 25%%."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:393
+translate chinese q_inter_ns_26_3ef5c158:
+
+    # mc "Cool-"
+    mc "Cool-"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:394
+translate chinese q_inter_ns_26_c5ecf159:
+
+    # ns "Some of these studies focus on specific plants, and each plants..."
+    ns "Some of these studies focus on specific plants, and each plants..."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:395
+translate chinese q_inter_ns_26_ae9ae27e:
+
+    # mct "I didn't realize I had opened such a big can of worms..."
+    mct "I didn't realize I had opened such a big can of worms..."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:396
+translate chinese q_inter_ns_26_d25b3fb8:
+
+    # mct "Should probably just... leave her be?"
+    mct "Should probably just... leave her be?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:403
+translate chinese q_inter_ns_27_f7213e35:
+
+    # mc "How do you like your new room, Nari?"
+    mc "How do you like your new room, Nari?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:405
+translate chinese q_inter_ns_27_7aa02855:
+
+    # ns "It's wonderful! Much nicer than where I was before."
+    ns "It's wonderful! Much nicer than where I was before."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:406
+translate chinese q_inter_ns_27_546c5d68:
+
+    # mc "Good! I'm happy to hear that!"
+    mc "Good! I'm happy to hear that!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:407
+translate chinese q_inter_ns_27_b6c1233c:
+
+    # ns "Mmmhmmm! And, it comes with a fun utility included."
+    ns "Mmmhmmm! And, it comes with a fun utility included."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:409
+translate chinese q_inter_ns_27_1fb12c9f:
+
+    # mc "Oh? Is there some secret about the studio I don't know?"
+    mc "Oh? Is there some secret about the studio I don't know?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:413
+translate chinese q_inter_ns_27_a2bea4b1:
+
+    # ns "Oh, I think you are aware of it.{w} Living here means I get to be closer to you."
+    ns "Oh, I think you are aware of it.{w} Living here means I get to be closer to you."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:414
+translate chinese q_inter_ns_27_a9b33723:
+
+    # ns "Which means we can have more \"fun\" together!"
+    ns "Which means we can have more \"fun\" together!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:416
+translate chinese q_inter_ns_27_ac15f41a:
+
+    # mc "I like the sound of that."
+    mc "I like the sound of that."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:417
+translate chinese q_inter_ns_27_98583cc4:
+
+    # ns "Me too!"
+    ns "Me too!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:424
+translate chinese q_inter_ns_28_cc9ea2ea:
+
+    # ns "[mcname]. Do you have a portfolio?"
+    ns "[mcname]. Do you have a portfolio?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:426
+translate chinese q_inter_ns_28_fbf1de87:
+
+    # mc "Like... an artist's portfolio?"
+    mc "Like... an artist's portfolio?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:428
+translate chinese q_inter_ns_28_13a1b4af:
+
+    # ns "No, a stock portfolio."
+    ns "No, a stock portfolio."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:430
+translate chinese q_inter_ns_28_ad5e75f1:
+
+    # mc "Uhm, no."
+    mc "Uhm, no."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:431
+translate chinese q_inter_ns_28_66c0b8ba:
+
+    # ns "You really need to get one."
+    ns "You really need to get one."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:438
+translate chinese q_inter_ns_29_a2123298:
+
+    # ns "[mcname], what are you doing for dinner tonight?"
+    ns "[mcname], what are you doing for dinner tonight?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:440
+translate chinese q_inter_ns_29_deb9a320:
+
+    # mc "No idea."
+    mc "No idea."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:441
+translate chinese q_inter_ns_29_d5eb1a27:
+
+    # ns "Hmmmm. I've been thinking about going to a KBBQ restaurant that I saw online, but I am unsure."
+    ns "Hmmmm. I've been thinking about going to a KBBQ restaurant that I saw online, but I am unsure."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:442
+translate chinese q_inter_ns_29_58602942:
+
+    # mc "KBBQ?"
+    mc "KBBQ?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:446
+translate chinese q_inter_ns_29_d54a09db:
+
+    # ns "Korean barbecue! It's amazing!"
+    ns "Korean barbecue! It's amazing!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:448
+translate chinese q_inter_ns_29_57daf7f9:
+
+    # mct "Crowning has a Korean barbeque place?"
+    mct "Crowning has a Korean barbeque place?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:455
+translate chinese q_inter_ns_30_db455a15:
+
+    # ns "Oh, [mcname], I believe a package will be arriving for me today!"
+    ns "Oh, [mcname], I believe a package will be arriving for me today!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:457
+translate chinese q_inter_ns_30_01fe7847:
+
+    # mc "Good to know. I'll make sure Stacy keeps an eye out for it."
+    mc "Good to know. I'll make sure Stacy keeps an eye out for it."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:458
+translate chinese q_inter_ns_30_cd19445a:
+
+    # ns "Thank you!"
+    ns "Thank you!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:464
+translate chinese q_inter_ns_31_a2eb34f3:
+
+    # mc "How are you doing, Nari?"
+    mc "How are you doing, Nari?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:466
+translate chinese q_inter_ns_31_874a3f03:
+
+    # ns "Pretty good."
+    ns "Pretty good."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:467
+translate chinese q_inter_ns_31_74ef64e7:
+
+    # ns "Happy to not be worried about my living situation."
+    ns "Happy to not be worried about my living situation."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:468
+translate chinese q_inter_ns_31_1dca69a6:
+
+    # ns "April seemed to notice that something has changed."
+    ns "April seemed to notice that something has changed."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:472
+translate chinese q_inter_ns_31_28b99311:
+
+    # ns "She complained that I am smiling more than normal. *giggles*"
+    ns "She complained that I am smiling more than normal. *giggles*"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:479
+translate chinese q_inter_ns_32_ee60d830:
+
+    # ns "I wonder if we are breaking any Orbix rules by living together?"
+    ns "I wonder if we are breaking any Orbix rules by living together?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:480
+translate chinese q_inter_ns_32_797eb5c6:
+
+    # ns "It's kind of fun to think about it."
+    ns "It's kind of fun to think about it."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:487
+translate chinese q_inter_ns_33_af54bf96:
+
+    # ns "See you at home, [mcname]."
+    ns "See you at home, [mcname]."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:493
+translate chinese q_inter_ns_34_80f66704:
+
+    # ns "Maybe we should think of doing some meal prep together, [mcname]."
+    ns "Maybe we should think of doing some meal prep together, [mcname]."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:495
+translate chinese q_inter_ns_34_a8bb4dab:
+
+    # mc "That could be fun. And we'd probably save on lunches."
+    mc "That could be fun. And we'd probably save on lunches."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:499
+translate chinese q_inter_ns_34_1a2369ae:
+
+    # ns "That's what I was thinking about."
+    ns "That's what I was thinking about."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:506
+translate chinese q_inter_ns_35_d389dcd8:
+
+    # ns "Hehehe."
+    ns "Hehehe."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:507
+translate chinese q_inter_ns_35_3649ff39:
+
+    # ns "It's so funny, keeping a secret from everyone."
+    ns "It's so funny, keeping a secret from everyone."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:509
+translate chinese q_inter_ns_35_cead7b03:
+
+    # mc "It is, but let's still be careful about talking too much about it, Nari."
+    mc "It is, but let's still be careful about talking too much about it, Nari."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:510
+translate chinese q_inter_ns_35_bcec72e1:
+
+    # ns "Mmhmm!"
+    ns "Mmhmm!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:517
+translate chinese q_inter_ns_36_7b92d90c:
+
+    # ns "I'm really conflicted about which video driver company to invest in."
+    ns "I'm really conflicted about which video driver company to invest in."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:518
+translate chinese q_inter_ns_36_84876de3:
+
+    # ns "They both seem to be rollercoasters."
+    ns "They both seem to be rollercoasters."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:520
+translate chinese q_inter_ns_36_aa6b1ad0:
+
+    # mc "You're talking about... video drivers, like for video games?"
+    mc "You're talking about... video drivers, like for video games?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:524
+translate chinese q_inter_ns_36_560e7b4d:
+
+    # ns "Oh yes. The top two are constantly dancing with one another."
+    ns "Oh yes. The top two are constantly dancing with one another."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:526
+translate chinese q_inter_ns_36_35a72f19:
+
+    # mc "Interesting."
+    mc "Interesting."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:532
+translate chinese q_inter_ns_37_15c1b1c9:
+
+    # ns "With all these advances in AI scrip modules, I wonder if I would have used them in classes."
+    ns "With all these advances in AI scrip modules, I wonder if I would have used them in classes."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:533
+translate chinese q_inter_ns_37_214256e1:
+
+    # ns "What about you, [mcname]?"
+    ns "What about you, [mcname]?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:535
+translate chinese q_inter_ns_37_0572d01b:
+
+    # mc "I haven't given it much thought."
+    mc "I haven't given it much thought."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:536
+translate chinese q_inter_ns_37_a354679b:
+
+    # mc "But I'm glad I'm not a teacher right now."
+    mc "But I'm glad I'm not a teacher right now."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:540
+translate chinese q_inter_ns_37_0bc7a040:
+
+    # ns "*giggles* Yeah."
+    ns "*giggles* Yeah."
+

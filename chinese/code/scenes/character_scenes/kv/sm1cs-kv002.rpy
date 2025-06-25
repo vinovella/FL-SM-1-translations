@@ -562,3 +562,9 @@ translate chinese strings:
     old "Beats sitting in an office"
     new "总比坐办公室强"
 
+# game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:171
+translate chinese sm1cs_kv002_01496ef0:
+
+    # kv "No, but in the future you might have to. But we can skip it today."
+    kv "No, but in the future you might have to. But we can skip it today."
+
