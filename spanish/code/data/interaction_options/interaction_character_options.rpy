@@ -248,3 +248,53 @@ translate spanish strings:
     old "Talk about Taisia"
     new "Hablar sobre Taisia"
 
+translate spanish strings:
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about Filming"
+    new "Talk about Filming"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ask about editing"
+    new "Ask about editing"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ask about editing again..."
+    new "Ask about editing again..."
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Film done?"
+    new "Film done?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about Melony"
+    new "Talk about Melony"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "About moving in"
+    new "About moving in"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "How is your room?"
+    new "How is your room?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Hey sexy!!"
+    new "Hey sexy!!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Next Blitz?"
+    new "Next Blitz?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "About Kellie"
+    new "About Kellie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about last time"
+    new "Talk about last time"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about moving in"
+    new "Talk about moving in"
+

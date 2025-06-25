@@ -632,3 +632,15 @@ translate spanish strings:
     old "I'd rather not say"
     new "Prefiero no decirlo"
 
+# game/code/scenes/it_office/sm1fs-i002.rpy:280
+translate spanish sm1fs_i002_c861b23f:
+
+    # cw "After I've made my decision [gt.next_day!t] by 8:00 am I'll give you a call."
+    cw "After I've made my decision [gt.next_day!t] by 8:00 am I'll give you a call."
+
+# game/code/scenes/it_office/sm1fs-i002.rpy:287
+translate spanish sm1fs_i002_3de939df:
+
+    # mc "I look forward to your call at [gt.next_day!t] 8:00 am!"
+    mc "I look forward to your call at [gt.next_day!t] 8:00 am!"
+

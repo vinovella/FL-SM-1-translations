@@ -20,3 +20,9 @@ translate spanish strings:
     old "Extra pay for successful show:"
     new "Pago extra por espectáculo exitoso:"
 
+translate spanish strings:
+
+    # game/code/renpy/screens/faction_th.rpy:60
+    old "Pay after show on "
+    new "Pay after show on "
+

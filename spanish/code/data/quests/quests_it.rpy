@@ -172,3 +172,33 @@ translate spanish strings:
     old "Get 8 relationship points with April, then talk with her"
     new "Consigue 8 puntos de relación con Abril, luego habla con ella"
 
+translate spanish strings:
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Finish renovation"
+    new "Finish renovation"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Talk with Nari"
+    new "Talk with Nari"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get 22 Relationship Points with Nari"
+    new "Get 22 Relationship Points with Nari"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Talk with Nari in the evening"
+    new "Talk with Nari in the evening"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Talk with Stacy in the evening"
+    new "Talk with Stacy in the evening"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get 8 relationship points with Claire and talk with her"
+    new "Get 8 relationship points with Claire and talk with her"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Talk with Claire On Friday evening"
+    new "Talk with Claire On Friday evening"
+

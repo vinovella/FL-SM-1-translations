@@ -332,3 +332,9 @@ translate spanish strings:
     old "Still Confused"
     new "Todavía confundido"
 
+translate spanish strings:
+
+    # game/code/scenes/main_story/sm1ms002_it.rpy:76
+    old "One eternity later"
+    new "One eternity later"
+

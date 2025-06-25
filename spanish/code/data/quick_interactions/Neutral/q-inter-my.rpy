@@ -274,3 +274,21 @@ translate spanish q_inter_my_9_92b8cda4:
     # mct "Or, hangout, or whatever."
     mct "O, pasar el rato, o lo que sea."
 
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:179
+translate spanish q_inter_my_10_9cd3ef66:
+
+    # my "[mcname], I really enjoyed getting dinner with you."
+    my "[mcname], I really enjoyed getting dinner with you."
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:181
+translate spanish q_inter_my_10_f27266f9:
+
+    # mc "I had a lot of fun too!"
+    mc "I had a lot of fun too!"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:182
+translate spanish q_inter_my_10_ccd0c639:
+
+    # my "I'm looking forward to going again."
+    my "I'm looking forward to going again."
+

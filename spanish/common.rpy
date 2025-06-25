@@ -1232,3 +1232,13 @@ translate spanish strings:
     old "Parsing the script failed."
     new "Analizar el script fallido."
 
+translate spanish strings:
+
+    # renpy/common/00accessibility.rpy:29
+    old "Clipboard voicing enabled. "
+    new "Clipboard voicing enabled. "
+
+    # renpy/common/00accessibility.rpy:30
+    old "Self-voicing enabled. "
+    new "Self-voicing enabled. "
+

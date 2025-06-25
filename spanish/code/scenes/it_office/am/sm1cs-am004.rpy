@@ -1694,3 +1694,9 @@ translate spanish strings:
     old "Don't spank her ass"
     new "No le azotes el culo"
 
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:255
+translate spanish sm1cs_am004_ag_appears_01e66815:
+
+    # mcon "And on bass we have April the Merciless!"
+    mcon "And on bass we have April the Merciless!"
+

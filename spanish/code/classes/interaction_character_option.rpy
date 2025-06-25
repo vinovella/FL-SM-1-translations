@@ -46,5 +46,11 @@ translate spanish strings:
 
     # game/code/classes/interaction_character_option.rpy:101
     old "{name} (not available now)"
-    new "<8> (no está disponible ahora)"
+    new "{name} (no está disponible ahora)"
+
+translate spanish strings:
+
+    # game/code/classes/interaction_character_option.rpy:92
+    old "{name} (You need to have ${amount})"
+    new "{name} (You need to have ${amount})"
 
