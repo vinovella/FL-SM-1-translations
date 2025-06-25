@@ -304,7 +304,7 @@ translate turkish sm1cs_mes003_99766361:
 translate turkish sm1cs_mes003_81aef917:
 
     # mes "..."
-    Biz "..."
+    mes "..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:205
 translate turkish sm1cs_mes003_957ac67d:
@@ -628,7 +628,7 @@ translate turkish sm1cs_mes003_04e9f4df:
 translate turkish sm1cs_mes003_81aef917_1:
 
     # mes "..."
-    Biz "..."
+    mes "..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:355
 translate turkish sm1cs_mes003_ede99395:
@@ -730,7 +730,7 @@ translate turkish sm1cs_mes003_continue_27617b28:
 translate turkish sm1cs_mes003_continue_1ff7900c:
 
     # mes "Ahuaah..."
-    benim "Ahuaah..."
+    mes "Ahuaah..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:432
 translate turkish sm1cs_mes003_continue_ae409fa1:
@@ -808,7 +808,7 @@ translate turkish sm1cs_mes003_continue_7d6b1bde:
 translate turkish sm1cs_mes003_continue_9c4b8b04:
 
     # mes "No..."
-    ay "Hayır..."
+    mes "Hayır..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:463
 translate turkish sm1cs_mes003_continue_571dca18:
@@ -1234,7 +1234,7 @@ translate turkish sm1cs_mes003_pussy_12ef5632:
 translate turkish sm1cs_mes003_pussy_5726109c:
 
     # mes "Oh yess-ssssss-ssaaah."
-    me "Ah evet-ssssss-saaa."
+    mes "Ah evet-ssssss-saaa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:696
 translate turkish sm1cs_mes003_pussy_ea890083:
@@ -1570,7 +1570,7 @@ translate turkish sm1cs_mes003_after_menu_08ae9e32:
 translate turkish sm1cs_mes003_after_menu_ce5f26d0:
 
     # sy "Hello Min."
-    ve "Merhaba Min."
+    sy "Merhaba Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:928
 translate turkish sm1cs_mes003_after_menu_6759281f:
@@ -1642,7 +1642,7 @@ translate turkish sm1cs_mes003_after_menu_1d5f9943:
 translate turkish sm1cs_mes003_after_menu_b6b8cfeb:
 
     # sy "Later Min."
-    ve "Daha Sonra Min."
+    sy "Daha Sonra Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:966
 translate turkish sm1cs_mes003_after_menu_5ef43fce:
