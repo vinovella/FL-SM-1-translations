@@ -168,3 +168,37 @@
     old "Text Veronica"
     new "Text Veronica"
 
+translate portuguese strings:
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Veronica's story line"
+    new "Progress Veronica's story line"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Veronica in the afternoon"
+    new "Talk to Veronica in the afternoon"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Kellie in the afternoon at Theater"
+    new "Talk to Kellie in the afternoon at Theater"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "This quest line is finished for this game"
+    new "This quest line is finished for this game"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk with Taisia about moving in"
+    new "Talk with Taisia about moving in"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk with Taisia about moving in after finishing the renovations"
+    new "Talk with Taisia about moving in after finishing the renovations"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Visit Taisia in her room in the evening"
+    new "Visit Taisia in her room in the evening"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk with Veronica in the afternoon"
+    new "Talk with Veronica in the afternoon"
+

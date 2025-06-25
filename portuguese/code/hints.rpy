@@ -344,3 +344,17 @@
     old "Min will not like this and you will lose 1 RP."
     new "Min will not like this and you will lose 1 RP."
 
+translate portuguese strings:
+
+    # game/code/hints.rpy:5
+    old "Gain 2 RP with Nari for checking"
+    new "Gain 2 RP with Nari for checking"
+
+    # game/code/hints.rpy:5
+    old "Claire will appreciate this a lot. Gain 2 Relationship Points."
+    new "Claire will appreciate this a lot. Gain 2 Relationship Points."
+
+    # game/code/hints.rpy:5
+    old "This will stop your Claire Relationship path."
+    new "This will stop your Claire Relationship path."
+
