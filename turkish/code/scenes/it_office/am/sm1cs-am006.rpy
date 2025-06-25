@@ -88,7 +88,7 @@ translate turkish sm1cs_am006_a64e8bc0:
 translate turkish sm1cs_am006_e5a1dd91:
 
     # am "Haha."
-    "Haha."
+    am "Haha."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:54
 translate turkish sm1cs_am006_ef01ca54:
@@ -130,7 +130,7 @@ translate turkish sm1cs_am006_b1931e2e:
 translate turkish sm1cs_am006_a081cfb8:
 
     # am "Heh."
-    "Heh."
+    am "Heh."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:70
 translate turkish sm1cs_am006_abd68f55:
@@ -304,7 +304,7 @@ translate turkish sm1cs_am006_arcade_7a7cb966:
 translate turkish sm1cs_am006_arcade_954c80a5:
 
     # am "Mmmm."
-    "Mmmm."
+    am "Mmmm."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:176
 translate turkish sm1cs_am006_arcade_6d73d37a:
@@ -382,7 +382,7 @@ translate turkish sm1cs_am006_arcade_2b35b6fe:
 translate turkish sm1cs_am006_arcade_af264e30:
 
     # am "[mcname]..."
-    ben "[mcname]..."
+    am "[mcname]..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:222
 translate turkish sm1cs_am006_arcade_5bd7e194:
@@ -394,7 +394,7 @@ translate turkish sm1cs_am006_arcade_5bd7e194:
 translate turkish sm1cs_am006_arcade_6c8b6bb5:
 
     # am "I {b}know{/b} I can be a lot.{w} That's what you're thinking, right?"
-    "Çok şey olabileceğimi {b}biliyorum.{w} Sen de öyle düşünüyorsun, değil mi?"
+    am "Çok şey olabileceğimi {b}biliyorum.{w} Sen de öyle düşünüyorsun, değil mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:230
 translate turkish sm1cs_am006_arcade_d3ecb31c:
@@ -442,13 +442,13 @@ translate turkish sm1cs_am006_arcade_710722d1:
 translate turkish sm1cs_am006_arcade_1c8acf17:
 
     # am "..."
-    ben "..."
+    am "..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:250
 translate turkish sm1cs_am006_arcade_073a951f:
 
     # am "I'm not {b}that{/b} easy, [mcname]."
-    "Ben {b}o kadar{/b} kolay değilim, [mcname]."
+    am "Ben {b}o kadar{/b} kolay değilim, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:253
 translate turkish sm1cs_am006_arcade_3b107314:
@@ -484,7 +484,7 @@ translate turkish sm1cs_am006_arcade_3129ed18:
 translate turkish sm1cs_am006_arcade_6206f164:
 
     # am "Hmmm."
-    "Hmmm."
+    am "Hmmm."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:273
 translate turkish sm1cs_am006_arcade_d4eb51c0:
@@ -670,7 +670,7 @@ translate turkish sm1cs_am006_arcade_39c7e4cc:
 translate turkish sm1cs_am006_arcade_ebaaa585:
 
     # am "Umm."
-    "Şey."
+    am "Şey."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:454
 translate turkish sm1cs_am006_arcade_6fc685b2:
@@ -1024,7 +1024,7 @@ translate turkish sm1cs_am006_arcade_e8d5bc75:
 translate turkish sm1cs_am006_arcade_9a9b5a38:
 
     # am "Mmm."
-    "Mmm."
+    am "Mmm."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:640
 translate turkish sm1cs_am006_arcade_c39fb585:
@@ -1078,7 +1078,7 @@ translate turkish sm1cs_am006_arcade_e4c6086e:
 translate turkish sm1cs_am006_arcade_af477e06:
 
     # am "That I got wet when we kissed?"
-    "Öpüştüğümüzde ıslandığımı mı?"
+    am "Öpüştüğümüzde ıslandığımı mı?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:662
 translate turkish sm1cs_am006_arcade_43393439:
@@ -1126,7 +1126,7 @@ translate turkish sm1cs_am006_arcade_b43108d8:
 translate turkish sm1cs_am006_arcade_5446535a:
 
     # am "I {b}hate{/b} that thought more."
-    "Bu düşünceden daha çok {b}nefret ediyorum{/b}."
+    am "Bu düşünceden daha çok {b}nefret ediyorum{/b}."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:680
 translate turkish sm1cs_am006_arcade_2b35b6fe_1:
