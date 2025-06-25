@@ -764,3 +764,123 @@ translate turkish strings:
     old "If you teach me well, I'm sure I'll do great"
     new "Bana iyi öğretirsen, eminim harika iş çıkaracağım."
 
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:23
+translate turkish sm1cs_am003_65d3c1ab:
+
+    # mc "Hey April."
+    mc "Hey April."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:42
+translate turkish sm1cs_am003_9411ee06:
+
+    # am "Humans. We have created all this technology. It can do incredible things."
+    am "Humans. We have created all this technology. It can do incredible things."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:99
+translate turkish sm1cs_am003_ff48ba88:
+
+    # am "Hmmph. Sounds like you wasted your afternoon. I'm fine."
+    am "Hmmph. Sounds like you wasted your afternoon. I'm fine."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:111
+translate turkish sm1cs_am003_c44693ed:
+
+    # am "It's bullying to say someone sucks at their job?"
+    am "It's bullying to say someone sucks at their job?"
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:120
+translate turkish sm1cs_am003_b58f5af6:
+
+    # mct "This girl. It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+    mct "This girl. It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:127
+translate turkish sm1cs_am003_fe1864dc:
+
+    # mc "You were right. I didn't come to check on you. I need help with a work problem and this is where you are working now. Simple as that."
+    mc "You were right. I didn't come to check on you. I need help with a work problem and this is where you are working now. Simple as that."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:134
+translate turkish sm1cs_am003_e619f22b:
+
+    # am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
+    am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:135
+translate turkish sm1cs_am003_7274fced:
+
+    # am "But here you are."
+    am "But here you are."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:144
+translate turkish sm1cs_am003_7da007d5:
+
+    # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want. Sometimes I stumble, but I never stay on the ground for long."
+    mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want. Sometimes I stumble, but I never stay on the ground for long."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:145
+translate turkish sm1cs_am003_37d25850:
+
+    # mc "I didn't study IT at college, but I've always been a fast learner. Teach me, I'm ready to learn at your feet, April."
+    mc "I didn't study IT at college, but I've always been a fast learner. Teach me, I'm ready to learn at your feet, April."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:155
+translate turkish sm1cs_am003_3e875709:
+
+    # am "Despite my better judgment, I'll try to give you some pointers here and there."
+    am "Despite my better judgment, I'll try to give you some pointers here and there."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:186
+translate turkish sm1cs_am003_c73287ef:
+
+    # am "Okay. Show me what problems you're having with the website."
+    am "Okay. Show me what problems you're having with the website."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:303
+translate turkish sm1cs_am003_905ee756:
+
+    # mct "Ah. That is the spot."
+    mct "Ah. That is the spot."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:365
+translate turkish sm1cs_am003_b689b960:
+
+    # am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
+    am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:382
+translate turkish sm1cs_am003_19fb34a9:
+
+    # mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
+    mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:385
+translate turkish sm1cs_am003_28df6c88:
+
+    # am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
+    am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:407
+translate turkish sm1cs_am003_06015bec:
+
+    # am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
+    am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:410
+translate turkish sm1cs_am003_407e8a50:
+
+    # mc "Trying to not suck all the time."
+    mc "Trying to not suck all the time."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:439
+translate turkish sm1cs_am003_caa31988:
+
+    # am "Oh yeah. A future Wozniak."
+    am "Oh yeah. A future Wozniak."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:484
+translate turkish sm1cs_am003_58dc05c7:
+
+    # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
+    am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
+

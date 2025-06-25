@@ -2578,3 +2578,9 @@ translate turkish strings:
     old "It was actually a lot of fun"
     new "Aslında çok eğlenceliydi"
 
+# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:172
+translate turkish sm1cs_cw005_pushy_menu_74f0afa1:
+
+    # cw "Well, get moving Mr. Bird."
+    cw "Well, get moving Mr. Bird."
+

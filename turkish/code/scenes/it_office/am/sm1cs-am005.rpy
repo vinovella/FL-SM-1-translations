@@ -1006,3 +1006,117 @@ translate turkish strings:
     old "No more games, period"
     new "Artık oyun yok, nokta"
 
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:34
+translate turkish sm1cs_am005_07845eba:
+
+    # mct "This can't go on. I need to at least get us back on some kind of page. We can't work like this."
+    mct "This can't go on. I need to at least get us back on some kind of page. We can't work like this."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:37
+translate turkish sm1cs_am005_65d3c1ab:
+
+    # mc "Hey April."
+    mc "Hey April."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:77
+translate turkish sm1cs_am005_hours_later_31c9e580:
+
+    # mct "Finally. That's the last ticket for my shit."
+    mct "Finally. That's the last ticket for my shit."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:95
+translate turkish sm1cs_am005_hours_later_00e95f32:
+
+    # am "Now I can talk. So talk."
+    am "Now I can talk. So talk."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:117
+translate turkish sm1cs_am005_hours_later_baf13cb7:
+
+    # am "I... yes. I want to talk."
+    am "I... yes. I want to talk."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:121
+translate turkish sm1cs_am005_hours_later_8452c48a:
+
+    # am "So... can we just open up a new doc, [mcname]? Start fresh?"
+    am "So... can we just open up a new doc, [mcname]? Start fresh?"
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:154
+translate turkish sm1cs_am005_hours_later_d3fe4b1b:
+
+    # mct "I should be a little patient with her. She's obviously got something on her mind."
+    mct "I should be a little patient with her. She's obviously got something on her mind."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:158
+translate turkish sm1cs_am005_hours_later_80ee915e:
+
+    # mct "Wait. Was there more going on when we were in her car?"
+    mct "Wait. Was there more going on when we were in her car?"
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:159
+translate turkish sm1cs_am005_hours_later_1d1d3df5:
+
+    # mct "Does April have-"
+    mct "Does April have-"
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:175
+translate turkish sm1cs_am005_hours_later_c4077dbc:
+
+    # am "What do you think, idiot? All of it."
+    am "What do you think, idiot? All of it."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:186
+translate turkish sm1cs_am005_sex_1_a74cd018:
+
+    # am "I let my bad impulses take over. My brain wasn't thinking straight."
+    am "I let my bad impulses take over. My brain wasn't thinking straight."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:198
+translate turkish sm1cs_am005_sex_1_1e01a266:
+
+    # mc "Say no more."
+    mc "Say no more."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:203
+translate turkish sm1cs_am005_sex_1_47c34679:
+
+    # am "That's not what I mean."
+    am "That's not what I mean."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:210
+translate turkish sm1cs_am005_sex_1_4a972b58:
+
+    # mc "Care to explain that, April? As you often say, I'm not as sharp as you."
+    mc "Care to explain that, April? As you often say, I'm not as sharp as you."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:217
+translate turkish sm1cs_am005_sex_1_581443a6:
+
+    # am "And I just, I don't know, I went stupid mode. Basic mode."
+    am "And I just, I don't know, I went stupid mode. Basic mode."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:229
+translate turkish sm1cs_am005_sex_1_b3c344b0:
+
+    # mc "Text me if you ever figure it out. I got other-"
+    mc "Text me if you ever figure it out. I got other-"
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:262
+translate turkish sm1cs_am005_sex_1_1329a68f:
+
+    # am "I didn't want our first time to be like that."
+    am "I didn't want our first time to be like that."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:273
+translate turkish sm1cs_am005_sex_1_72823e2d:
+
+    # am "Shuuuussssssh. Not here."
+    am "Shuuuussssssh. Not here."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:279
+translate turkish sm1cs_am005_sex_1_5601eb0e:
+
+    # am "I don't know. Maybe after I invited you to see my band."
+    am "I don't know. Maybe after I invited you to see my band."
+

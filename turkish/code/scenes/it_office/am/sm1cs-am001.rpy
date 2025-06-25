@@ -798,3 +798,117 @@ translate turkish strings:
     old "Oh shit"
     new "Oh siktir"
 
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:317
+translate turkish sm1cs_am001_after_coding_6542cc23:
+
+    # am "Yes, there is a problem. Some Business 101 dropout just fucked my night."
+    am "Yes, there is a problem. Some Business 101 dropout just fucked my night."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:330
+translate turkish sm1cs_am001_after_coding_ad59f37c:
+
+    # mc "Oh. Really. I must have gotten em mixed up. Sorry. I'm sure that kind of things happens all the time."
+    mc "Oh. Really. I must have gotten em mixed up. Sorry. I'm sure that kind of things happens all the time."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:333
+translate turkish sm1cs_am001_after_coding_5cde476c:
+
+    # am "You dense motherfucker. This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
+    am "You dense motherfucker. This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:336
+translate turkish sm1cs_am001_after_coding_dc84c055:
+
+    # am "The country. We don't make simple mistakes here. But we do pay for them."
+    am "The country. We don't make simple mistakes here. But we do pay for them."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:353
+translate turkish sm1cs_am001_after_coding_1e29912c:
+
+    # am "You want to fix this?"
+    am "You want to fix this?"
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:359
+translate turkish sm1cs_am001_after_coding_4ca6be45:
+
+    # am "Maybe go play in traffic. That might do it."
+    am "Maybe go play in traffic. That might do it."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:365
+translate turkish sm1cs_am001_after_coding_32e8fed2:
+
+    # am "You're right. You'd probably screw that up too."
+    am "You're right. You'd probably screw that up too."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:374
+translate turkish sm1cs_am001_after_coding_093f24d8:
+
+    # am "I fix your fuckup. You're lucky I'm nearly done with my own workload."
+    am "I fix your fuckup. You're lucky I'm nearly done with my own workload."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:384
+translate turkish sm1cs_am001_after_coding_821a55cb:
+
+    # mc "Right. Desk, going."
+    mc "Right. Desk, going."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:416
+translate turkish sm1cs_am001_later_9aa40e36:
+
+    # am "Smooth."
+    am "Smooth."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:442
+translate turkish sm1cs_am001_later_fa2f0659:
+
+    # am "Huh? Now where did the idiot go?"
+    am "Huh? Now where did the idiot go?"
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:481
+translate turkish sm1cs_am001_later_3e05ca8f:
+
+    # am "You got one thing right tonight."
+    am "You got one thing right tonight."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:487
+translate turkish sm1cs_am001_later_5c3bb464:
+
+    # am "I was too busy to fink on you. Maybe next time."
+    am "I was too busy to fink on you. Maybe next time."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:494
+translate turkish sm1cs_am001_later_f3d3184d:
+
+    # am "I'm dead serious. We have a job to do. Sometimes it's long hours, and that sucks."
+    am "I'm dead serious. We have a job to do. Sometimes it's long hours, and that sucks."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:497
+translate turkish sm1cs_am001_later_26aa8427:
+
+    # am "But if you're here, and especially if you're working with me, I need your A game."
+    am "But if you're here, and especially if you're working with me, I need your A game."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:498
+translate turkish sm1cs_am001_later_9da00458:
+
+    # am "Got it?"
+    am "Got it?"
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:511
+translate turkish sm1cs_am001_later_085c2d38:
+
+    # am "I just texted Anna the good news. Had to rub it in her face that we did it all in one night."
+    am "I just texted Anna the good news. Had to rub it in her face that we did it all in one night."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:523
+translate turkish sm1cs_am001_later_1bbf39bb:
+
+    # am "Night loser."
+    am "Night loser."
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:526
+translate turkish sm1cs_am001_later_6cba793b:
+
+    # mc "Night April."
+    mc "Night April."
+

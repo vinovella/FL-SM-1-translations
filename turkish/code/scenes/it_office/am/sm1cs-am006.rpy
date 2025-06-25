@@ -1044,3 +1044,219 @@ translate turkish strings:
     old "Don't kiss April."
     new "April'ı öpme."
 
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:227
+translate turkish sm1cs_am006_arcade_3a045f0c:
+
+    # am "I know I can be a lot. That's what you're thinking, right?"
+    am "I know I can be a lot. That's what you're thinking, right?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:238
+translate turkish sm1cs_am006_arcade_fc17eca6:
+
+    # mc "So. These shields. They're down now?"
+    mc "So. These shields. They're down now?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:250
+translate turkish sm1cs_am006_arcade_f97f119b:
+
+    # am "I'm not that easy, [mcname]."
+    am "I'm not that easy, [mcname]."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:253
+translate turkish sm1cs_am006_arcade_d66cf936:
+
+    # mc "The last time we were out, you asked me to fuck you in your car."
+    mc "The last time we were out, you asked me to fuck you in your car."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:290
+translate turkish sm1cs_am006_arcade_9f4b1aa7:
+
+    # mct "I remember this machine. It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
+    mct "I remember this machine. It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:318
+translate turkish sm1cs_am006_arcade_3427dd07:
+
+    # am "I'm a little rusty."
+    am "I'm a little rusty."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:324
+translate turkish sm1cs_am006_arcade_ac3fad90:
+
+    # am "And you know you're never going to see my smaller hole acting like that."
+    am "And you know you're never going to see my smaller hole acting like that."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:352
+translate turkish sm1cs_am006_arcade_a3cb1ef6:
+
+    # am "It's gotta be you. When I do this alone, I always score way higher."
+    am "It's gotta be you. When I do this alone, I always score way higher."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:355
+translate turkish sm1cs_am006_arcade_66098328:
+
+    # mc "That might be it. Or it's because you're not really letting yourself relax."
+    mc "That might be it. Or it's because you're not really letting yourself relax."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:364
+translate turkish sm1cs_am006_arcade_c75da145:
+
+    # mc "I was watching you. Your body was so stiff and tense."
+    mc "I was watching you. Your body was so stiff and tense."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:371
+translate turkish sm1cs_am006_arcade_d7551d98:
+
+    # mc "Yeah, sounds like you're totally relaxed."
+    mc "Yeah, sounds like you're totally relaxed."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:380
+translate turkish sm1cs_am006_arcade_b1eb74bd:
+
+    # mc "Once is lucky. Twice is good."
+    mc "Once is lucky. Twice is good."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:402
+translate turkish sm1cs_am006_arcade_b426e714:
+
+    # am "No way. Best two out of three."
+    am "No way. Best two out of three."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:439
+translate turkish sm1cs_am006_arcade_86e51696:
+
+    # am "Yes! Wooh. She shoots, she scores!"
+    am "Yes! Wooh. She shoots, she scores!"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:448
+translate turkish sm1cs_am006_arcade_292e3b29:
+
+    # am "In your face! In your stupid handsome face!"
+    am "In your face! In your stupid handsome face!"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:457
+translate turkish sm1cs_am006_arcade_f224e2d1:
+
+    # am "Oh yeah. Forget I said anything."
+    am "Oh yeah. Forget I said anything."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:491
+translate turkish sm1cs_am006_arcade_ba5353b8:
+
+    # mc "So spill it. When was the last time you let your shields down?"
+    mc "So spill it. When was the last time you let your shields down?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:511
+translate turkish sm1cs_am006_arcade_467b5add:
+
+    # mc "Okay liar."
+    mc "Okay liar."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:514
+translate turkish sm1cs_am006_arcade_72bac36e:
+
+    # am "I'm not a liar. I... I really mean it, [mcname]."
+    am "I'm not a liar. I... I really mean it, [mcname]."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:515
+translate turkish sm1cs_am006_arcade_c1253295:
+
+    # am "It's probably been years."
+    am "It's probably been years."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:518
+translate turkish sm1cs_am006_arcade_4a514cd2:
+
+    # am "When I started getting really good at coding, a lot of guys {i}changed{/i} how they acted toward me."
+    am "When I started getting really good at coding, a lot of guys {i}changed{/i} how they acted toward me."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:519
+translate turkish sm1cs_am006_arcade_bc06e96c:
+
+    # am "Or worse. Some friends I'd known for years turned into super assholes."
+    am "Or worse. Some friends I'd known for years turned into super assholes."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:540
+translate turkish sm1cs_am006_arcade_9bb599a4:
+
+    # am "I had to break them with my words. Or at least get them to leave me the hell alone."
+    am "I had to break them with my words. Or at least get them to leave me the hell alone."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:543
+translate turkish sm1cs_am006_arcade_92a22754:
+
+    # mc "Is that why you treat Anna like you do? Because she got the promotion and is now above you?"
+    mc "Is that why you treat Anna like you do? Because she got the promotion and is now above you?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:556
+translate turkish sm1cs_am006_arcade_544a9504:
+
+    # mc "Maybe because I'm the first non-asshole who saw the real you? Underneath the barbs."
+    mc "Maybe because I'm the first non-asshole who saw the real you? Underneath the barbs."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:560
+translate turkish sm1cs_am006_arcade_4e623dfd:
+
+    # am "Hmmph. Maybe you're onto something."
+    am "Hmmph. Maybe you're onto something."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:561
+translate turkish sm1cs_am006_arcade_c4a11646:
+
+    # am "But I think it's just that I have a crush on you. And one day, it will wear off."
+    am "But I think it's just that I have a crush on you. And one day, it will wear off."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:573
+translate turkish sm1cs_am006_arcade_7b4325ae:
+
+    # mc "I do. Maybe we can test things out again."
+    mc "I do. Maybe we can test things out again."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:619
+translate turkish sm1cs_am006_arcade_a1bbe86b:
+
+    # mc "Okay, okay. We don't have to-"
+    mc "Okay, okay. We don't have to-"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:642
+translate turkish sm1cs_am006_arcade_d206c2fd:
+
+    # mct "Woah. She's... she's really into this."
+    mct "Woah. She's... she's really into this."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:661
+translate turkish sm1cs_am006_arcade_285422b5:
+
+    # am "What? No. Of course I didn't. Shut up."
+    am "What? No. Of course I didn't. Shut up."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:671
+translate turkish sm1cs_am006_arcade_732d2098:
+
+    # am "I know. I don't know what's gotten into me."
+    am "I know. I don't know what's gotten into me."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:675
+translate turkish sm1cs_am006_arcade_1358c39d:
+
+    # am "I hate that thought more."
+    am "I hate that thought more."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:679
+translate turkish sm1cs_am006_arcade_51de11e4:
+
+    # mc "So what happens now."
+    mc "So what happens now."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:684
+translate turkish sm1cs_am006_arcade_07abde05:
+
+    # am "You were right, this was a good idea."
+    am "You were right, this was a good idea."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:685
+translate turkish sm1cs_am006_arcade_e99f4fca:
+
+    # am "I just. For now, I still need time."
+    am "I just. For now, I still need time."
+
