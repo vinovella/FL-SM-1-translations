@@ -548,7 +548,7 @@ translate spanish sm1ms020_d3cfb4ee:
 translate spanish sm1ms020_d645862b:
 
     # sy "Come on! Melony is fucking {i}sexy!{/i} And she has a banging bod."
-    sy "¡Venga ya! ¡Melony es jodidamente {i}sexy!{i} Y tiene un cuerpazo."
+    sy "¡Venga ya! ¡Melony es jodidamente {i}sexy!{/i} Y tiene un cuerpazo."
 
 # game/code/scenes/main_story/sm1ms020.rpy:285
 translate spanish sm1ms020_97e833cc:

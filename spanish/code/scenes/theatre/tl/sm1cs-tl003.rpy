@@ -728,7 +728,7 @@ translate spanish sm1cs_tl003_in_street_dd839c3e:
 translate spanish sm1cs_tl003_sex_e3c378c5:
 
     # tl "Are you willing to drive fast? Drive {i}hard?{/i}"
-    tl "¿Estás dispuesto a conducir rápido? Conducir {i}duro?{i}"
+    tl "¿Estás dispuesto a conducir rápido? Conducir {i}duro?{/i}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:387
 translate spanish sm1cs_tl003_sex_7488ae3e:

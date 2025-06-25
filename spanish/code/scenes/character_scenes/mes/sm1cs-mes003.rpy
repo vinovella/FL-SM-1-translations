@@ -1610,7 +1610,7 @@ translate spanish sm1cs_mes003_after_menu_83abfe84:
 translate spanish sm1cs_mes003_after_menu_497900d4:
 
     # mes "But. I really appreciated getting some time to... {i}clear{/i} my head."
-    mes "Pero. Realmente aprecié tener algo de tiempo para... {i}aclarar{i} mi cabeza."
+    mes "Pero. Realmente aprecié tener algo de tiempo para... {i}aclarar{/i} mi cabeza."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:947
 translate spanish sm1cs_mes003_after_menu_f6ef10a7:

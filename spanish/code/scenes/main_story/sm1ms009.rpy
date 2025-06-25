@@ -686,7 +686,7 @@ translate spanish sm1ms009_cdf166b6:
 translate spanish sm1ms009_af216940:
 
     # sy "Wow, this place is {i}so big.{/i}"
-    sy "Wow, este lugar es {i}tan grande.{w}"
+    sy "Wow, este lugar es {i}tan grande{/i}."
 
 # game/code/scenes/main_story/sm1ms009.rpy:425
 translate spanish sm1ms009_4485a54d_1:

@@ -482,7 +482,7 @@ translate spanish sm1cs_cw001_end_convo_5c06ba6e:
 translate spanish sm1cs_cw001_end_convo_ed1fe56f:
 
     # mc "Did {i}you{/i} get in big trouble when people found out?"
-    mc "¿{i}te metiste en un gran problema cuando la gente se enteró?"
+    mc "¿Te metiste en un gran problema cuando la gente se enteró?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:303
 translate spanish sm1cs_cw001_end_convo_a793e4c1:

@@ -620,7 +620,7 @@ translate spanish sm1cs_mh007_b4e2d645:
 translate spanish sm1cs_mh007_b5be640a:
 
     # mh "Oh {i}fuuuuuuuck!{/i}"
-    mh "¡Oh, {i}miiieeerda!{i}"
+    mh "¡Oh, {i}miiieeerda!{/i}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:321
 translate spanish sm1cs_mh007_6bfb8a87:
