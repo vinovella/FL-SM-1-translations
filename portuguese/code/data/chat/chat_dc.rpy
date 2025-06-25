@@ -31,8 +31,8 @@ translate portuguese strings:
     new "Hey Debbie! 👋"
 
     # game/code/data/chat/chat_dc.rpy:41
-    old "Hey, [mcname]! What can I do for you?"
-    new "Hey, [mcname]! What can I do for you?"
+    old "Hey, [mcname!t]! What can I do for you?"
+    new "Hey, [mcname!t]! What can I do for you?"
 
     # game/code/data/chat/chat_dc.rpy:41
     old "Well I promised you a date and I was wondering if you'd want to go on a date soon? 😊"
@@ -47,8 +47,8 @@ translate portuguese strings:
     new "There's this nice restaurant... wanna go there?"
 
     # game/code/data/chat/chat_dc.rpy:41
-    old "It sounds like a date, [mcname] 😉"
-    new "It sounds like a date, [mcname] 😉"
+    old "It sounds like a date, [mcname!t] 😉"
+    new "It sounds like a date, [mcname!t] 😉"
 
     # game/code/data/chat/chat_dc.rpy:41
     old "I'll send  you the address! See you in a bit 😏"

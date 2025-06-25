@@ -31,8 +31,8 @@ translate turkish strings:
     new "Selam Debbie! 👋"
 
     # game/code/data/chat/chat_dc.rpy:41
-    old "Hey, [mcname]! What can I do for you?"
-    new "Selam, [mcname]! Senin için ne yapabilirim?"
+    old "Hey, [mcname!t]! What can I do for you?"
+    new "Selam, [mcname!t]! Senin için ne yapabilirim?"
 
     # game/code/data/chat/chat_dc.rpy:41
     old "Well I promised you a date and I was wondering if you'd want to go on a date soon? 😊"
@@ -47,8 +47,8 @@ translate turkish strings:
     new "Güzel bir restoran var... Oraya gitmek ister misin?"
 
     # game/code/data/chat/chat_dc.rpy:41
-    old "It sounds like a date, [mcname] 😉"
-    new "Bir randevuya benziyor, [mcname] 😉"
+    old "It sounds like a date, [mcname!t] 😉"
+    new "Bir randevuya benziyor, [mcname!t] 😉"
 
     # game/code/data/chat/chat_dc.rpy:41
     old "I'll send  you the address! See you in a bit 😏"
