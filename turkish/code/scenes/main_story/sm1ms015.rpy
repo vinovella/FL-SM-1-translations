@@ -94,7 +94,7 @@ translate turkish sm1ms015_b8ea19d4:
 translate turkish sm1ms015_6b34436a:
 
     # my "But there is no way this is a fake workplace."
-    benim "Ama bu sahte bir işyeri olamaz."
+    my "Ama bu sahte bir işyeri olamaz."
 
 # game/code/scenes/main_story/sm1ms015.rpy:61
 translate turkish sm1ms015_376ec9a4:

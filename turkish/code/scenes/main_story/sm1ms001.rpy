@@ -154,7 +154,7 @@ translate turkish name_done_0e7041bf:
 translate turkish name_done_11715779:
 
     # mc "Who am I living with and spending 99%% of my time with these days?"
-    mc "Bu günlerde kiminle yaşıyorum ve zamanımın %99'unu kiminle geçiriyorum?"
+    mc "Bu günlerde kiminle yaşıyorum ve zamanımın %%99'unu kiminle geçiriyorum?"
 
 # game/code/scenes/main_story/sm1ms001.rpy:142
 translate turkish name_done_59232249:
@@ -346,7 +346,7 @@ translate turkish name_done_d7371140:
 translate turkish name_done_5c2c7bcf:
 
     # sy "..."
-    Ve "..."
+    sy "..."
 
 # game/code/scenes/main_story/sm1ms001.rpy:221
 translate turkish name_done_11455b53:
@@ -412,7 +412,7 @@ translate turkish name_done_6d70654b:
 translate turkish name_done_cb7a4cfb:
 
     # sy "Bingo."
-    ve "Bingo."
+    sy "Bingo."
 
 # game/code/scenes/main_story/sm1ms001.rpy:265
 translate turkish name_done_c4a0019b:

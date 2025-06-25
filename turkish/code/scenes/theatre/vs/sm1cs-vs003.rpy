@@ -892,7 +892,7 @@ translate turkish sm1cs_vs003_part3_7ec5cd96:
 translate turkish sm1cs_vs003_part3_bd563f54:
 
     # vs "Right. So...{w} what do you want me to do?"
-    vs "Doğru. Peki...{n} benden ne yapmamı istiyorsun?"
+    vs "Doğru. Peki...{w} benden ne yapmamı istiyorsun?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:540
 translate turkish sm1cs_vs003_part3_460993fd:

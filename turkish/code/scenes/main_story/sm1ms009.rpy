@@ -1114,7 +1114,7 @@ translate turkish sm1ms099_recording_131d087f:
 translate turkish sm1ms099_recording_d70e29ba:
 
     # mc "Mmmm, you looked so damn good on your knees, clea-{w} washing the floors."
-    mc "Mmmm, dizlerinin üstünde çok iyi görünüyordun, yerleri temiz-{k}."
+    mc "Mmmm, dizlerinin üstünde çok iyi görünüyordun, yerleri temiz-{w}."
 
 # game/code/scenes/main_story/sm1ms009.rpy:624
 translate turkish sm1ms099_recording_61acdfa9:

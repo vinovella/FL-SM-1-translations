@@ -538,7 +538,7 @@ translate turkish sm1cs_km005_3a406fa8:
 translate turkish sm1cs_km005_19b4d91c:
 
     # mc "Kellie?{w} Kellie?"
-    mc "Kellie?{k} Kellie?"
+    mc "Kellie?{w} Kellie?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:309
 translate turkish sm1cs_km005_f9f8576e:

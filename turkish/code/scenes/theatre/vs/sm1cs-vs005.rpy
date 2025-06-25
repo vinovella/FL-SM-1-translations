@@ -556,7 +556,7 @@ translate turkish sm1cs_vs005_11455b53:
 translate turkish sm1cs_vs005_db258bd3:
 
     # vs "*moaning*{w} N-nothing. You sure she didn't say anything about me?"
-    vs "*inleme*{h} H-hiçbir şey. Benim hakkımda hiçbir şey söylemediğinden emin misin?"
+    vs "*inleme*{w} H-hiçbir şey. Benim hakkımda hiçbir şey söylemediğinden emin misin?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:335
 translate turkish sm1cs_vs005_a22f0b32:

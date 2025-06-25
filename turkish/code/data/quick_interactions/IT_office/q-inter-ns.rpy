@@ -670,7 +670,7 @@ translate turkish q_inter_ns_26_02799621:
 translate turkish q_inter_ns_26_c4056161:
 
     # ns "However, other studies suggest that plants are not as effective as suggested in air purification, and that they can only improve a space by 25%%."
-    ns "Ancak diğer çalışmalar bitkilerin hava temizleme konusunda o kadar etkili olmadığını, yalnızca alanın %25’ini iyileştirebildiğini öne sürüyor."
+    ns "Ancak diğer çalışmalar bitkilerin hava temizleme konusunda o kadar etkili olmadığını, yalnızca alanın %%25’ini iyileştirebildiğini öne sürüyor."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:393
 translate turkish q_inter_ns_26_3ef5c158:

@@ -826,7 +826,7 @@ translate turkish sm1cs_mh007_cfb38661:
 translate turkish sm1cs_mh007_3355807b:
 
     # mh "I..."
-    Ben "Sen..."
+    mh "Sen..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:423
 translate turkish sm1cs_mh007_90bdb1b2:

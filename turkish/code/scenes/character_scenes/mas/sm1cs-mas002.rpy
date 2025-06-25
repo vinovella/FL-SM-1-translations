@@ -40,7 +40,7 @@ translate turkish sm1cs_mas002_eaebbe1e:
 translate turkish sm1cs_mas002_374d0d66:
 
     # ms "..."
-    msn "..."
+    ms "..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:32
 translate turkish sm1cs_mas002_4dffea71:
@@ -52,7 +52,7 @@ translate turkish sm1cs_mas002_4dffea71:
 translate turkish sm1cs_mas002_374d0d66_1:
 
     # ms "..."
-    msn "..."
+    ms "..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:36
 translate turkish sm1cs_mas002_127f760d:

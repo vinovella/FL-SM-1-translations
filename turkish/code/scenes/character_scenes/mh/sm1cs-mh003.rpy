@@ -10,7 +10,7 @@ translate turkish sm1cs_mh003_c4fec48b:
 translate turkish sm1cs_mh003_d093c9b4:
 
     # sy "Is that Lyssa!?"
-    ve "O Lyssa mı!?"
+    sy "O Lyssa mı!?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:17
 translate turkish sm1cs_mh003_381f4b9b:
@@ -238,7 +238,7 @@ translate turkish sm1cs_mh003_9446e9f7:
 translate turkish sm1cs_mh003_0bf97885:
 
     # sy "Wow..."
-    ve "Vay canına..."
+    sy "Vay canına..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:137
 translate turkish sm1cs_mh003_c7c8d788:
@@ -538,13 +538,13 @@ translate turkish sm1cs_mh003_romance_30ead74e:
 translate turkish sm1cs_mh003_romance_b1157049:
 
     # sy "Okay?"
-    ve "Tamam mı?"
+    sy "Tamam mı?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:280
 translate turkish sm1cs_mh003_romance_c2fd5fcb:
 
     # mh "I'm..."
-    ben "Ben..."
+    mh "Ben..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:283
 translate turkish sm1cs_mh003_romance_16d7733a:
@@ -724,7 +724,7 @@ translate turkish sm1cs_mh003_stacy_11455b53:
 translate turkish sm1cs_mh003_stacy_d8c878cc:
 
     # sy "I... Uhm..."
-    ve "Ben... Şey..."
+    sy "Ben... Şey..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:384
 translate turkish sm1cs_mh003_stacy_2fc1ab8c:

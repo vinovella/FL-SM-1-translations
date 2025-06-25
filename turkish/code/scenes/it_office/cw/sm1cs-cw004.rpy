@@ -1024,7 +1024,7 @@ translate turkish sm1cs_cw004_later_56da7945:
 translate turkish sm1cs_cw004_later_2dfb53f1:
 
     # chw "Mmhmm. Self-control {b}is{/b} very important."
-    chw "Mmhmm. Özdenetim {b}çok önemlidir."
+    chw "Mmhmm. Özdenetim çok önemlidir."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:595
 translate turkish sm1cs_cw004_later_2864080c:

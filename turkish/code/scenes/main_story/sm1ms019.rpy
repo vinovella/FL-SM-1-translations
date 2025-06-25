@@ -46,7 +46,7 @@ translate turkish sm1ms019_e8d2eeb4:
 translate turkish sm1ms019_2e0897cd:
 
     # sy "[mcname]...{w} are we...?"
-    sy "[mcname]...{k} biz miyiz...?"
+    sy "[mcname]...{w} biz miyiz...?"
 
 # game/code/scenes/main_story/sm1ms019.rpy:75
 translate turkish sm1ms019_3d9d5cbe:

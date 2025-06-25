@@ -1264,7 +1264,7 @@ translate turkish sm1cs_am004_sex_fc0e252f:
 translate turkish sm1cs_am004_sex_6e0d5a83:
 
     # mc "Your ass is {b}made{/b} for spanking."
-    mc "Senin kıçın şaplaklanmak için {b}yaratılmış."
+    mc "Senin kıçın şaplaklanmak için yaratılmış."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:870
 translate turkish sm1cs_am004_sex_ecd5926a:

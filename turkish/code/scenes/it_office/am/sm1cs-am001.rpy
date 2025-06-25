@@ -184,7 +184,7 @@ translate turkish sm1cs_am001_f2ce4c16:
 translate turkish sm1cs_am001_fb05a763:
 
     # pm "Hmmm."
-    ös "Hımmm."
+    pm "Hımmm."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:122
 translate turkish sm1cs_am001_6043bd73:

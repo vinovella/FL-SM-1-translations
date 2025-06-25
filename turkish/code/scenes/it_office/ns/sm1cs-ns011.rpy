@@ -412,7 +412,7 @@ translate turkish sm1cs_ns011_sy_interruption_c90611f2:
 translate turkish sm1cs_ns011_sy_interruption_ae41869d:
 
     # sy "Right..."
-    ve "Doğru..."
+    sy "Doğru..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:261
 translate turkish sm1cs_ns011_sy_interruption_4fcfed8c:
@@ -430,7 +430,7 @@ translate turkish sm1cs_ns011_sy_interruption_9e587159:
 translate turkish sm1cs_ns011_sy_interruption_d91d57e6:
 
     # sy "*giggles*"
-    ve "*kıkırdar*"
+    sy "*kıkırdar*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:270
 translate turkish sm1cs_ns011_sy_interruption_06a865aa:

@@ -1426,7 +1426,7 @@ translate turkish sm1cs_ns012_part_2_996ed26f:
 translate turkish sm1cs_ns012_part_2_54a9555b:
 
     # ns "Ooohuaa-huffaah!"
-    sözde "Ooohuaa-huffaah!"
+    ns "Ooohuaa-huffaah!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:852
 translate turkish sm1cs_ns012_part_2_3bec10e1:

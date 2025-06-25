@@ -112,7 +112,7 @@ translate turkish sm1cs_mes004_f46b669d:
 translate turkish sm1cs_mes004_81aef917:
 
     # mes "..."
-    ay "..."
+    mes "..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:73
 translate turkish sm1cs_mes004_acaf9271:

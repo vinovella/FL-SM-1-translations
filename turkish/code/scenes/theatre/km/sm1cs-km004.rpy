@@ -988,7 +988,7 @@ translate turkish sm1cs_km004_stage_f619f2ec:
 translate turkish sm1cs_km004_stage_edaa7b97:
 
     # dvh "What {b}is{/b} going on?"
-    dvh "Neler {b}oluyor?"
+    dvh "Neler oluyor?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:630
 translate turkish sm1cs_km004_stage_64acf592:

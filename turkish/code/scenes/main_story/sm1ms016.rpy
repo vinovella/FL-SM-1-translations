@@ -712,7 +712,7 @@ translate turkish sm1ms016_ad63275d:
 translate turkish sm1ms016_e4f1b49a:
 
     # sy "Weee!"
-    onun "Vay canına!"
+    sy "Vay canına!"
 
 # game/code/scenes/main_story/sm1ms016.rpy:356
 translate turkish sm1ms016_460669d7:

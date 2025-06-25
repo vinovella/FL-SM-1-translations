@@ -598,7 +598,7 @@ translate turkish sm1cs_mas003_second_delivery_cf1adef2:
 translate turkish sm1cs_mas003_second_delivery_e6026cd5:
 
     # ms "Mmm."
-    msn "Mmm."
+    ms "Mmm."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:385
 translate turkish sm1cs_mas003_second_delivery_0c404a5a:
@@ -808,7 +808,7 @@ translate turkish sm1cs_mas003_third_delivery_8e2e9aa5:
 translate turkish sm1cs_mas003_third_delivery_374d0d66:
 
     # ms "..."
-    msn "..."
+    ms "..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:509
 translate turkish sm1cs_mas003_third_delivery_0b8f9a7e:
@@ -982,7 +982,7 @@ translate turkish sm1cs_mas003_third_delivery_5693a819:
 translate turkish sm1cs_mas003_third_delivery_e6026cd5:
 
     # ms "Mmm."
-    msn "Mmm."
+    ms "Mmm."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:585
 translate turkish sm1cs_mas003_third_delivery_7683afef:
@@ -1462,7 +1462,7 @@ translate turkish sm1cs_mas003_after_delivery_674ff5b6:
 translate turkish sm1cs_mas003_after_delivery_374d0d66:
 
     # ms "..."
-    msn "..."
+    ms "..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:841
 translate turkish sm1cs_mas003_after_delivery_7af7b9a6:

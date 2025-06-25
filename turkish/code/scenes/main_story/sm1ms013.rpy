@@ -166,7 +166,7 @@ translate turkish sm1ms013_40511e6c_1:
 translate turkish sm1ms013_72f9212f:
 
     # sy "Goddamnit."
-    bu "Kahretsin."
+    sy "Kahretsin."
 
 # game/code/scenes/main_story/sm1ms013.rpy:102
 translate turkish sm1ms013_a362fe68:

@@ -1018,7 +1018,7 @@ translate turkish sm1cs_tl003_sex_8d72597b:
 translate turkish sm1cs_tl003_sex_3dabacb8:
 
     # tl "Yeah - mmmmmmnnng - yessss!"
-    tr "Evet - mmmmmmnnng - evettt!"
+    tl "Evet - mmmmmmnnng - evettt!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:523
 translate turkish sm1cs_tl003_sex_a98ff5a7:

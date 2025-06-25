@@ -376,7 +376,7 @@ translate turkish sm1cs_ns013_44adfba6:
 translate turkish sm1cs_ns013_8c7f53ac:
 
     # sy "*light wimpering*"
-    o "*hafif yanıp söner*"
+    sy "*hafif yanıp söner*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:334
 translate turkish sm1cs_ns013_0a203103:
@@ -574,7 +574,7 @@ translate turkish sm1cs_ns013_6415cc6c:
 translate turkish sm1cs_ns013_f4d8552f:
 
     # sy "Can you...{w} can you kriffing fuck me finally?"
-    sy "Sonunda...{n} beni becerip sikebilir misin?"
+    sy "Sonunda...{w} beni becerip sikebilir misin?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:476
 translate turkish sm1cs_ns013_f1e0010d:
@@ -1246,7 +1246,7 @@ translate turkish sm1cs_ns013_2c24f27a:
 translate turkish sm1cs_ns013_20e1f6eb:
 
     # sy "*spits*"
-    onun "*puanları*"
+    sy "*puanları*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:821
 translate turkish sm1cs_ns013_f9acd26c:
@@ -1600,7 +1600,7 @@ translate turkish sm1cs_ns013_b710308a:
 translate turkish sm1cs_ns013_e3339053:
 
     # ns "Nuhaaa-huaah..."
-    sözde "Sniff-wh..."
+    ns "Sniff-wh..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1001
 translate turkish sm1cs_ns013_2317e74e:

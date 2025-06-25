@@ -28,7 +28,7 @@ translate turkish sm1cs_mh004i_bd89add8:
 translate turkish sm1cs_mh004i_c8c8de57:
 
     # sy "... "
-    Ve "... "
+    sy "... "
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004i.rpy:19
 translate turkish sm1cs_mh004i_66a1e60f:

@@ -886,7 +886,7 @@ translate turkish sm1cs_mes005_032c70a4:
 translate turkish sm1cs_mes005_ad7bfc2c:
 
     # mes "So...{w} How do I look?"
-    mes "Peki...{n} Nasıl görünüyorum?"
+    mes "Peki...{w} Nasıl görünüyorum?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:498
 translate turkish sm1cs_mes005_e1365cc9:

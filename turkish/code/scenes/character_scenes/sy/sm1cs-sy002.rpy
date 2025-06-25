@@ -550,7 +550,7 @@ translate turkish sm1cs_sy002_2_561c9b87:
 translate turkish sm1cs_sy002_2_e3ec9059:
 
     # sy "Mmhmmmm, juuuuusssst like thaaaaat!"
-    o "Mmhmmmm, tam da öyle!"
+    sy "Mmhmmmm, tam da öyle!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:321
 translate turkish sm1cs_sy002_2_f3c3bffc:
@@ -838,7 +838,7 @@ translate turkish sm1cs_sy002_2_454754a8:
 translate turkish sm1cs_sy002_2_c1b246a4:
 
     # sy "Oh God, yes! Mmmmmnnnnnnnng, yessssss!"
-    dikmek "Aman Tanrım, evet! Mmmmmnnnnnnng, evet!"
+    sy "Aman Tanrım, evet! Mmmmmnnnnnnng, evet!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:432
 translate turkish sm1cs_sy002_2_b2b3f2b4:

@@ -958,7 +958,7 @@ translate turkish sm1cs_cw005_sauna_d38aadc5:
 translate turkish sm1cs_cw005_sauna_65a285f9:
 
     # mc "*panting* Wooo...{w} is it supposed to be this hot?"
-    mc "*nefes nefese* Vay canına...{n} bu kadar sıcak olması mı gerekiyor?"
+    mc "*nefes nefese* Vay canına...{w} bu kadar sıcak olması mı gerekiyor?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:587
 translate turkish sm1cs_cw005_sauna_bfc81a3a:

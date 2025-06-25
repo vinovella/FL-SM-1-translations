@@ -904,7 +904,7 @@ translate turkish sm1cs_kv003_041d8d10:
 translate turkish sm1cs_kv003_bd48d65e:
 
     # sy "Hello? [mcname]?"
-    ve "Merhaba? [mcname]?"
+    sy "Merhaba? [mcname]?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:548
 translate turkish sm1cs_kv003_ddb41403:
@@ -928,7 +928,7 @@ translate turkish sm1cs_kv003_954510a3:
 translate turkish sm1cs_kv003_bf1c7fbe:
 
     # sy "Uh huh."
-    ve "Hı hı."
+    sy "Hı hı."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:558
 translate turkish sm1cs_kv003_a067b4ce:

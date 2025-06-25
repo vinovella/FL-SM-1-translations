@@ -346,7 +346,7 @@ translate turkish sm1ms003_postcum_ed68420b:
 translate turkish sm1ms003_postcum_b6be4b14:
 
     # sy "Uppies! I need uppies!!!"
-    o "Uppies! Uppies'e ihtiyacım var!!!"
+    sy "Uppies! Uppies'e ihtiyacım var!!!"
 
 # game/code/scenes/main_story/sm1ms003.rpy:408
 translate turkish sm1ms003_postcum_44c0f1c0:
@@ -388,7 +388,7 @@ translate turkish sm1ms003_tickle_aeceee46:
 translate turkish sm1ms003_support_eba24561:
 
     # sy "Uppies!"
-    onun "Uppies!"
+    sy "Uppies!"
 
 # game/code/scenes/main_story/sm1ms003.rpy:459
 translate turkish sm1ms003_upper_8c2938c2:

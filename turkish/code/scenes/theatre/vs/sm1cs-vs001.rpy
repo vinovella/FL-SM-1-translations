@@ -310,7 +310,7 @@ translate turkish sm1cs_vs001_9ccbe19c:
 translate turkish sm1cs_vs001_fc4bec49:
 
     # vs "You are so{w} lucky."
-    vs "Çok{ç} şanslısın."
+    vs "Ço{w} şanslısın."
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:186
 translate turkish sm1cs_vs001_47bca6f2:

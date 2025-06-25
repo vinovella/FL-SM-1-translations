@@ -658,7 +658,7 @@ translate turkish sm1fs_t001_1deb6c78:
 translate turkish sm1fs_t001_7010c7fb:
 
     # "Scary Clown" "Huh?{w} Why?"
-    "Korkunç Palyaço" "Ha?{n} Neden?"
+    "Korkunç Palyaço" "Ha?{w} Neden?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:370
 translate turkish sm1fs_t001_82eb8e19:

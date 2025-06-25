@@ -76,7 +76,7 @@ translate turkish sm1ms024_6581bd6f:
 translate turkish sm1ms024_e162e8fc:
 
     # sy "Let's see... {w}here it is!"
-    sy "Bakalım... {nerede}!"
+    sy "Bakalım... nerede!"
 
 # game/code/scenes/main_story/sm1ms024.rpy:71
 translate turkish sm1ms024_5ed6af01:

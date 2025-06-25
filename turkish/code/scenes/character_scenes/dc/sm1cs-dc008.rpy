@@ -28,7 +28,7 @@ translate turkish sm1cs_dc008_0ee89fa0:
 translate turkish sm1cs_dc008_2a2af33c:
 
     # mct "And looking {b}damn{/b} good."
-    mct "Ve {b}çok iyi görünüyorsun{/b}."
+    mct "Ve çok iyi görünüyorsun."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:32
 translate turkish sm1cs_dc008_3e0984ed:
@@ -106,13 +106,13 @@ translate turkish sm1cs_dc008_de852206:
 translate turkish sm1cs_dc008_63ea85aa:
 
     # dc "They don't need to be {i}that{/i} interesting!"
-    dc "Bu kadar {i}ilginç olmalarına gerek yok!"
+    dc "Bu kadar ilginç olmalarına gerek yok!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:80
 translate turkish sm1cs_dc008_e3dfd71f:
 
     # mc "All right, all right - I promise to take... 20 percent off the top."
-    mc "Tamam, tamam - söz veriyorum... %20 indirimle."
+    mc "Tamam, tamam - söz veriyorum... %%20 indirimle."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:83
 translate turkish sm1cs_dc008_7955a532:
@@ -982,7 +982,7 @@ translate turkish sm1cs_dc008_564f41da:
 translate turkish sm1cs_dc008_eec09208:
 
     # dc "It's kind of exciting, having you know the {b}real{/b} me..."
-    dc "Gerçek beni {b}tanımak heyecan verici bir şey..."
+    dc "Gerçek beni tanımak heyecan verici bir şey..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:511
 translate turkish sm1cs_dc008_69325c6a:

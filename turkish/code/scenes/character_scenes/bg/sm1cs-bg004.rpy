@@ -478,7 +478,7 @@ translate turkish sm1cs_bg004_67cebdd1:
 translate turkish sm1cs_bg004_df5ac675:
 
     # bg "I...{w} I'm not sure what you mean, [mcname]?"
-    bg "Ben...{k} Ne demek istediğinden emin değilim, [mcname]?"
+    bg "Ben...{w} Ne demek istediğinden emin değilim, [mcname]?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:289
 translate turkish sm1cs_bg004_09391b7f:
@@ -526,7 +526,7 @@ translate turkish sm1cs_bg004_5aa3933e:
 translate turkish sm1cs_bg004_9ec65f24:
 
     # bg "I...{w} it makes me happy that you like my ass, [mcname] - erm, [bg_mcname!t]."
-    bg "Ben...{k} kıçımı beğenmen beni mutlu ediyor, [mcname] - şey, [bg_mcname!t]."
+    bg "Ben...{w} kıçımı beğenmen beni mutlu ediyor, [mcname] - şey, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:312
 translate turkish sm1cs_bg004_e7dd8341:

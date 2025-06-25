@@ -310,7 +310,7 @@ translate turkish sm1cs_my002_art_gallery_b80e9c87:
 translate turkish sm1cs_my002_art_gallery_735a0b56:
 
     # my "[mcname]! Hi, sorry I'm late."
-    benim "[mcname]! Merhaba, geciktiğim için özür dilerim."
+    my "[mcname]! Merhaba, geciktiğim için özür dilerim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:190
 translate turkish sm1cs_my002_art_gallery_99ab05db:
@@ -328,7 +328,7 @@ translate turkish sm1cs_my002_art_gallery_6beafc7e:
 translate turkish sm1cs_my002_art_gallery_37c57fdf:
 
     # my "Wow, this place looks great, [mcname]! How'd you hear about it?"
-    benim "Vay canına, burası harika görünüyor, [mcname]! Bunu nereden duydun?"
+    my "Vay canına, burası harika görünüyor, [mcname]! Bunu nereden duydun?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:200
 translate turkish sm1cs_my002_art_gallery_d9730db5:
@@ -340,7 +340,7 @@ translate turkish sm1cs_my002_art_gallery_d9730db5:
 translate turkish sm1cs_my002_art_gallery_31322929:
 
     # my "Uh huh. Did Stacy tell you about it?"
-    benim "Hı hı. Stacy sana bundan bahsetti mi?"
+    my "Hı hı. Stacy sana bundan bahsetti mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:206
 translate turkish sm1cs_my002_art_gallery_7fd2e22a:
@@ -352,13 +352,13 @@ translate turkish sm1cs_my002_art_gallery_7fd2e22a:
 translate turkish sm1cs_my002_art_gallery_6ef549e3:
 
     # my "You always struggled to give your sister her fair due."
-    benim "Sen her zaman kız kardeşine hakkını vermek için çabaladın."
+    my "Sen her zaman kız kardeşine hakkını vermek için çabaladın."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:212
 translate turkish sm1cs_my002_art_gallery_eb7615f8:
 
     # my "You always struggled to give Stacy her fair due."
-    benim "Stacy'ye hakkını vermek için her zaman çabaladın."
+    my "Stacy'ye hakkını vermek için her zaman çabaladın."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:215
 translate turkish sm1cs_my002_art_gallery_4b3368e6:
@@ -370,13 +370,13 @@ translate turkish sm1cs_my002_art_gallery_4b3368e6:
 translate turkish sm1cs_my002_art_gallery_2b07640b:
 
     # my "Hahahaha! You two have grown-up a lot..."
-    benim "Hahahaha! İkiniz de çok büyümüşsünüz..."
+    my "Hahahaha! İkiniz de çok büyümüşsünüz..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:219
 translate turkish sm1cs_my002_art_gallery_0a22f587:
 
     # my "But some things never change."
-    benim "Ama bazı şeyler asla değişmez."
+    my "Ama bazı şeyler asla değişmez."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:222
 translate turkish sm1cs_my002_art_gallery_97182e10:
@@ -388,13 +388,13 @@ translate turkish sm1cs_my002_art_gallery_97182e10:
 translate turkish sm1cs_my002_art_gallery_179b1239:
 
     # my "Hahahahaha!"
-    benim "Hahahahaha!"
+    my "Hahahahaha!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:226
 translate turkish sm1cs_my002_art_gallery_acfea76c:
 
     # my "I will say, I am a little surprised that you invited me to an art exhibit."
-    benim "Bir sanat sergisine beni davet ettiğinize biraz şaşırdım diyebilirim."
+    my "Bir sanat sergisine beni davet ettiğinize biraz şaşırdım diyebilirim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:231
 translate turkish sm1cs_my002_art_gallery_f4c4a94d:
@@ -406,13 +406,13 @@ translate turkish sm1cs_my002_art_gallery_f4c4a94d:
 translate turkish sm1cs_my002_art_gallery_bacab1d7:
 
     # my "You never struck me as someone interested in art."
-    benim "Bana hiç sanata ilgi duyan biri gibi gelmedin."
+    my "Bana hiç sanata ilgi duyan biri gibi gelmedin."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:235
 translate turkish sm1cs_my002_art_gallery_c9a3e534:
 
     # my "You did want to go to school for business."
-    benim "Sen işletme okumak istiyordun."
+    my "Sen işletme okumak istiyordun."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:238
 translate turkish sm1cs_my002_art_gallery_2b42a320:
@@ -424,7 +424,7 @@ translate turkish sm1cs_my002_art_gallery_2b42a320:
 translate turkish sm1cs_my002_art_gallery_7a9c5d08:
 
     # my "Hahahaha - in my experience, guys who go to school for business aren't usually the most artistic."
-    benim "Hahahaha - deneyimime göre, işletme okuyan çocuklar genelde çok sanatsal olmuyorlar."
+    my "Hahahaha - deneyimime göre, işletme okuyan çocuklar genelde çok sanatsal olmuyorlar."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:244
 translate turkish sm1cs_my002_art_gallery_8fbc20f6:
@@ -436,7 +436,7 @@ translate turkish sm1cs_my002_art_gallery_8fbc20f6:
 translate turkish sm1cs_my002_art_gallery_abbfe110:
 
     # my "Oh yeah? You can?"
-    benim "Öyle mi? Yapabilir misin?"
+    my "Öyle mi? Yapabilir misin?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:250
 translate turkish sm1cs_my002_art_gallery_f4777aee:
@@ -448,7 +448,7 @@ translate turkish sm1cs_my002_art_gallery_f4777aee:
 translate turkish sm1cs_my002_art_gallery_158b5817:
 
     # my "Well, let's hear your critique than, hotshot!"
-    benim "Hadi bakalım eleştirini duyalım, delikanlı!"
+    my "Hadi bakalım eleştirini duyalım, delikanlı!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:257
 translate turkish sm1cs_my002_art_gallery_c316e703:
@@ -466,7 +466,7 @@ translate turkish sm1cs_my002_art_gallery_2b35b6fe:
 translate turkish sm1cs_my002_art_gallery_c64a7cee:
 
     # my "So? What does the big business art man think of \"Diana and her Nymphs\"?"
-    benim "Peki? Büyük iş adamı sanat adamı \"Diana ve Perileri\" hakkında ne düşünüyor?"
+    my "Peki? Büyük iş adamı sanat adamı \"Diana ve Perileri\" hakkında ne düşünüyor?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:264
 translate turkish sm1cs_my002_art_gallery_c98cca41:
@@ -490,7 +490,7 @@ translate turkish sm1cs_my002_art_gallery_95a66299:
 translate turkish sm1cs_my002_art_gallery_79ab2a27:
 
     # my "Wow, you spotted the use of glaze?"
-    benim "Vay canına, sır kullanımını fark ettin mi?"
+    my "Vay canına, sır kullanımını fark ettin mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:278
 translate turkish sm1cs_my002_art_gallery_8852e77f:
@@ -502,7 +502,7 @@ translate turkish sm1cs_my002_art_gallery_8852e77f:
 translate turkish sm1cs_my002_art_gallery_688ab86d:
 
     # my "I'm impressed."
-    benim "Etkilendim."
+    my "Etkilendim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:288
 translate turkish sm1cs_my002_art_gallery_84b09aba:
@@ -520,7 +520,7 @@ translate turkish sm1cs_my002_art_gallery_859d6362:
 translate turkish sm1cs_my002_art_gallery_21758090:
 
     # my "Oh, commentary on the voyeurism of viewing art?"
-    benim "Ah, sanat izlemenin röntgenciliğine dair yorumum?"
+    my "Ah, sanat izlemenin röntgenciliğine dair yorumum?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:295
 translate turkish sm1cs_my002_art_gallery_a87a337b:
@@ -532,7 +532,7 @@ translate turkish sm1cs_my002_art_gallery_a87a337b:
 translate turkish sm1cs_my002_art_gallery_688ab86d_1:
 
     # my "I'm impressed."
-    benim "Etkilendim."
+    my "Etkilendim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:305
 translate turkish sm1cs_my002_art_gallery_ab56833c:
@@ -562,7 +562,7 @@ translate turkish sm1cs_my002_art_gallery_a87a337b_1:
 translate turkish sm1cs_my002_art_gallery_688ab86d_2:
 
     # my "I'm impressed."
-    benim "Etkilendim."
+    my "Etkilendim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:321
 translate turkish sm1cs_my002_art_gallery_52497eed:
@@ -574,7 +574,7 @@ translate turkish sm1cs_my002_art_gallery_52497eed:
 translate turkish sm1cs_my002_art_gallery_5777aec1:
 
     # my "Oh, [mcname]... Diana is the Roman version of Artemis, the goddess of the hunt."
-    benim "Ah, [mcname]... Diana, av tanrıçası Artemis'in Roma versiyonudur."
+    my "Ah, [mcname]... Diana, av tanrıçası Artemis'in Roma versiyonudur."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:327
 translate turkish sm1cs_my002_art_gallery_13753dd3:
@@ -586,7 +586,7 @@ translate turkish sm1cs_my002_art_gallery_13753dd3:
 translate turkish sm1cs_my002_art_gallery_64bc3838:
 
     # my "It really is a beautiful piece."
-    benim "Gerçekten çok güzel bir parça."
+    my "Gerçekten çok güzel bir parça."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:334
 translate turkish sm1cs_my002_art_gallery_fd6f33e0:
@@ -598,13 +598,13 @@ translate turkish sm1cs_my002_art_gallery_fd6f33e0:
 translate turkish sm1cs_my002_art_gallery_778cbbc6:
 
     # my "I'm shocked that this exhibit was able to get such high quality pieces."
-    benim "Bu serginin bu kadar kaliteli parçaları bir araya getirebilmesine şaşırdım."
+    my "Bu serginin bu kadar kaliteli parçaları bir araya getirebilmesine şaşırdım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:338
 translate turkish sm1cs_my002_art_gallery_d2685e75:
 
     # my "I might have to try and speak with the manager here."
-    benim "Buradaki müdürle konuşmayı deneyebilirim."
+    my "Buradaki müdürle konuşmayı deneyebilirim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:343
 translate turkish sm1cs_my002_art_gallery_8cb7e073:
@@ -616,13 +616,13 @@ translate turkish sm1cs_my002_art_gallery_8cb7e073:
 translate turkish sm1cs_my002_art_gallery_3b405bd8:
 
     # my "Oh no, not at all. In fact, I'm impressed by their work."
-    benim "Aman hayır, hiç de değil. Aslında, yaptıkları işten etkilendim."
+    my "Aman hayır, hiç de değil. Aslında, yaptıkları işten etkilendim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:347
 translate turkish sm1cs_my002_art_gallery_7cbb71f8:
 
     # my "I might try and steal them away from here."
-    benim "Onları buradan çalmayı deneyebilirim."
+    my "Onları buradan çalmayı deneyebilirim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:350
 translate turkish sm1cs_my002_art_gallery_82ee8b51:
@@ -634,13 +634,13 @@ translate turkish sm1cs_my002_art_gallery_82ee8b51:
 translate turkish sm1cs_my002_art_gallery_9689a479:
 
     # my "Yep. Everywhere I go I'm always looking for talent."
-    benim "Evet. Gittiğim her yerde yetenek arıyorum."
+    my "Evet. Gittiğim her yerde yetenek arıyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:358
 translate turkish sm1cs_my002_art_gallery_b4558f4c:
 
     # my "And whomever is curating this exhibit has some talent."
-    benim "Ve bu sergiyi düzenleyen kişi yetenekli biri."
+    my "Ve bu sergiyi düzenleyen kişi yetenekli biri."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:360
 translate turkish sm1cs_my002_art_gallery_77a15526:
@@ -652,7 +652,7 @@ translate turkish sm1cs_my002_art_gallery_77a15526:
 translate turkish sm1cs_my002_art_gallery_8fa9669a:
 
     # my "So what do you think of \"Mishief and Repose\", hotshot?"
-    benim "Peki \"Mishief and Repose\" hakkında ne düşünüyorsun, yakışıklı?"
+    my "Peki \"Mishief and Repose\" hakkında ne düşünüyorsun, yakışıklı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:365
 translate turkish sm1cs_my002_art_gallery_0972c153:
@@ -676,7 +676,7 @@ translate turkish sm1cs_my002_art_gallery_a4b6f8fc:
 translate turkish sm1cs_my002_art_gallery_2d3390ea:
 
     # my "Brush strokes? You've got quite an eye, [mcname]."
-    benim "Fırça darbelerim mi? Oldukça iyi bir gözün var, [mcname]."
+    my "Fırça darbelerim mi? Oldukça iyi bir gözün var, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:379
 translate turkish sm1cs_my002_art_gallery_bb0eeaf4:
@@ -694,7 +694,7 @@ translate turkish sm1cs_my002_art_gallery_d0057a13:
 translate turkish sm1cs_my002_art_gallery_3e088487:
 
     # my "Oh, [mcname]... this is an oil painting."
-    benim "Ah, [mcname]... bu bir yağlıboya tablo."
+    my "Ah, [mcname]... bu bir yağlıboya tablo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:391
 translate turkish sm1cs_my002_art_gallery_8b30d89f:
@@ -706,13 +706,13 @@ translate turkish sm1cs_my002_art_gallery_8b30d89f:
 translate turkish sm1cs_my002_art_gallery_0276d317:
 
     # my "Yep."
-    benim "Evet."
+    my "Evet."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:401
 translate turkish sm1cs_my002_art_gallery_bdb15127:
 
     # my "Why do you say that?"
-    benim "Neden bunu söylüyorsun?"
+    my "Neden bunu söylüyorsun?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:404
 translate turkish sm1cs_my002_art_gallery_4d9b22cf:
@@ -730,7 +730,7 @@ translate turkish sm1cs_my002_art_gallery_7b85f987:
 translate turkish sm1cs_my002_art_gallery_d6bb6298:
 
     # my "That's an incredible read, [mcname]."
-    benim "Bu inanılmaz bir okuma, [mcname]."
+    my "Bu inanılmaz bir okuma, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:414
 translate turkish sm1cs_my002_art_gallery_31834ab5:
@@ -742,13 +742,13 @@ translate turkish sm1cs_my002_art_gallery_31834ab5:
 translate turkish sm1cs_my002_art_gallery_96b87f1c:
 
     # my "It doesn't necessarily matter which is which."
-    benim "Hangisinin hangisi olduğu önemli değil."
+    my "Hangisinin hangisi olduğu önemli değil."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:418
 translate turkish sm1cs_my002_art_gallery_c82d7e91:
 
     # my "But it's the one with the needle."
-    benim "Ama iğneli olan o."
+    my "Ama iğneli olan o."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:421
 translate turkish sm1cs_my002_art_gallery_5ab7ad6f:
@@ -760,19 +760,19 @@ translate turkish sm1cs_my002_art_gallery_5ab7ad6f:
 translate turkish sm1cs_my002_art_gallery_7d412019:
 
     # my "Really... these are excellent finds."
-    benim "Gerçekten... bunlar mükemmel bulgular."
+    my "Gerçekten... bunlar mükemmel bulgular."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:428
 translate turkish sm1cs_my002_art_gallery_aa3c4a72:
 
     # my "And, I will say, it was quite... grown-up of you to invite me to an exhibit of nudes."
-    benim "Ve şunu söyleyeceğim ki, beni çıplaklık sergisine davet etmeniz oldukça... yetişkince bir davranıştı."
+    my "Ve şunu söyleyeceğim ki, beni çıplaklık sergisine davet etmeniz oldukça... yetişkince bir davranıştı."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:429
 translate turkish sm1cs_my002_art_gallery_caa45c86:
 
     # my "And to not make any jokes about the nude paintings."
-    benim "Ve çıplak resimlerle ilgili şaka yapmamak."
+    my "Ve çıplak resimlerle ilgili şaka yapmamak."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:432
 translate turkish sm1cs_my002_art_gallery_62b6818d:
@@ -796,7 +796,7 @@ translate turkish sm1cs_my002_art_gallery_ab92e0ec:
 translate turkish sm1cs_my002_art_gallery_62418335:
 
     # my "I'm grateful you invited me. I love spending this time with you."
-    benim "Beni davet ettiğin için minnettarım. Seninle bu zamanı geçirmeyi seviyorum."
+    my "Beni davet ettiğin için minnettarım. Seninle bu zamanı geçirmeyi seviyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:443
 translate turkish sm1cs_my002_art_gallery_5f848b6e:
@@ -814,13 +814,13 @@ translate turkish sm1cs_my002_art_gallery_3ae9bcfb:
 translate turkish sm1cs_my002_art_gallery_17165faf:
 
     # my "That makes me happy to hear, [mcname]."
-    benim "Bunu duyduğuma sevindim, [mcname]."
+    my "Bunu duyduğuma sevindim, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:453
 translate turkish sm1cs_my002_art_gallery_0c81369e:
 
     # my "Oh, well, here is the real test of your grown-up capacity."
-    benim "Ah, işte yetişkin kapasitenizin gerçek sınavı."
+    my "Ah, işte yetişkin kapasitenizin gerçek sınavı."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:456
 translate turkish sm1cs_my002_art_gallery_8758b2d2:
@@ -832,7 +832,7 @@ translate turkish sm1cs_my002_art_gallery_8758b2d2:
 translate turkish sm1cs_my002_art_gallery_c427e4d6:
 
     # my "This painting is titled \"Danae and the Golden Shower\"."
-    benim "Bu resmin adı \"Danae ve Altın Yağmuru\"."
+    my "Bu resmin adı \"Danae ve Altın Yağmuru\"."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:464
 translate turkish sm1cs_my002_art_gallery_ccb0b1c3:
@@ -844,7 +844,7 @@ translate turkish sm1cs_my002_art_gallery_ccb0b1c3:
 translate turkish sm1cs_my002_art_gallery_36494b18:
 
     # my "Anything to say about that, hotshot?"
-    benim "Bu konuda söyleyecek bir şeyin var mı, delikanlı?"
+    my "Bu konuda söyleyecek bir şeyin var mı, delikanlı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:469
 translate turkish sm1cs_my002_art_gallery_9cf9f4ad:
@@ -856,7 +856,7 @@ translate turkish sm1cs_my002_art_gallery_9cf9f4ad:
 translate turkish sm1cs_my002_art_gallery_c7c47d4a:
 
     # my "Come on, [mcname], we both know what a golden shower is."
-    benim "Hadi ama [mcname], ikimiz de altın yağmurunun ne olduğunu biliyoruz."
+    my "Hadi ama [mcname], ikimiz de altın yağmurunun ne olduğunu biliyoruz."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:475
 translate turkish sm1cs_my002_art_gallery_0972c153_1:
@@ -868,7 +868,7 @@ translate turkish sm1cs_my002_art_gallery_0972c153_1:
 translate turkish sm1cs_my002_art_gallery_d414109d:
 
     # my "Are you going to try and convince me that you, someone who's running a porn studio, doesn't know what a golden shower is?"
-    benim "Beni, bir porno stüdyosu işleten birinin, altın duşun ne olduğunu bilmediğine ikna etmeye mi çalışacaksın?"
+    my "Beni, bir porno stüdyosu işleten birinin, altın duşun ne olduğunu bilmediğine ikna etmeye mi çalışacaksın?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:481
 translate turkish sm1cs_my002_art_gallery_dc851375:
@@ -880,13 +880,13 @@ translate turkish sm1cs_my002_art_gallery_dc851375:
 translate turkish sm1cs_my002_art_gallery_06dbb7ef:
 
     # my "Uh huh, [mcname]."
-    benim "Hı hı, [mcname]."
+    my "Hı hı, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:485
 translate turkish sm1cs_my002_art_gallery_8748d600:
 
     # my "Come on, we're both adults. We can talk about golden showers and look at nudity together."
-    benim "Hadi, ikimiz de yetişkiniz. Birlikte altın duşlar hakkında konuşabilir ve çıplaklığa bakabiliriz."
+    my "Hadi, ikimiz de yetişkiniz. Birlikte altın duşlar hakkında konuşabilir ve çıplaklığa bakabiliriz."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:489
 translate turkish sm1cs_my002_art_gallery_ab464488:
@@ -904,7 +904,7 @@ translate turkish sm1cs_my002_art_gallery_3c43c929:
 translate turkish sm1cs_my002_art_gallery_fdfc21c0:
 
     # my "Good. Now, what do you think of the painting?"
-    benim "Güzel. Peki, tablo hakkında ne düşünüyorsun?"
+    my "Güzel. Peki, tablo hakkında ne düşünüyorsun?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:497
 translate turkish sm1cs_my002_art_gallery_c9b837d5:
@@ -922,7 +922,7 @@ translate turkish sm1cs_my002_art_gallery_bd379546:
 translate turkish sm1cs_my002_art_gallery_0af3da42:
 
     # my "Yes, [mcname], this one is an oil painting."
-    benim "Evet, [mcname], bu bir yağlıboya tablo."
+    my "Evet, [mcname], bu bir yağlıboya tablo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:511
 translate turkish sm1cs_my002_art_gallery_ed87ec31:
@@ -934,7 +934,7 @@ translate turkish sm1cs_my002_art_gallery_ed87ec31:
 translate turkish sm1cs_my002_art_gallery_3dd48845:
 
     # my "Wow, that's quite the read."
-    benim "Vay canına, gerçekten okunmaya değer."
+    my "Vay canına, gerçekten okunmaya değer."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:517
 translate turkish sm1cs_my002_art_gallery_1773932b:
@@ -946,7 +946,7 @@ translate turkish sm1cs_my002_art_gallery_1773932b:
 translate turkish sm1cs_my002_art_gallery_c4959804:
 
     # my "No, no. It's spot on, in fact."
-    benim "Hayır, hayır. Tam da bu aslında."
+    my "Hayır, hayır. Tam da bu aslında."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:527
 translate turkish sm1cs_my002_art_gallery_b090021b:
@@ -958,7 +958,7 @@ translate turkish sm1cs_my002_art_gallery_b090021b:
 translate turkish sm1cs_my002_art_gallery_3ae571d8:
 
     # my "And there is the [mcname] I know."
-    benim "Ve tanıdığım [mcname] var."
+    my "Ve tanıdığım [mcname] var."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:533
 translate turkish sm1cs_my002_art_gallery_0c4f91e7:
@@ -976,19 +976,19 @@ translate turkish sm1cs_my002_art_gallery_3ada0820:
 translate turkish sm1cs_my002_art_gallery_e47c489a:
 
     # my "Just because there's a dark background doesn't make it chiaroscuro, hot shot."
-    benim "Sadece karanlık bir arka plan olması onu ışık-gölge oyunu yapmaz, yakışıklı."
+    my "Sadece karanlık bir arka plan olması onu ışık-gölge oyunu yapmaz, yakışıklı."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:547
 translate turkish sm1cs_my002_art_gallery_9bf915e0:
 
     # mc "Well...{w} shit."
-    mc "Şey...{n} bok."
+    mc "Şey...{w} bok."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:553
 translate turkish sm1cs_my002_art_gallery_f8fcf48a:
 
     # my "Wow... this piece really speaks to me."
-    benim "Vay canına... bu parça gerçekten bana hitap ediyor."
+    my "Vay canına... bu parça gerçekten bana hitap ediyor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:558
 translate turkish sm1cs_my002_art_gallery_73b53cd3:
@@ -1000,31 +1000,31 @@ translate turkish sm1cs_my002_art_gallery_73b53cd3:
 translate turkish sm1cs_my002_art_gallery_f2b99715:
 
     # my "Danae is locked away, to stop Perseus from being born..."
-    benim "Danae, Perseus'un doğmasını engellemek için kilitlendi..."
+    my "Danae, Perseus'un doğmasını engellemek için kilitlendi..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:563
 translate turkish sm1cs_my002_art_gallery_9bbd6077:
 
     # my "But the lust of the gods cannot be stopped. And they come for her."
-    benim "Ama tanrıların şehveti durdurulamaz. Ve onlar onun için gelirler."
+    my "Ama tanrıların şehveti durdurulamaz. Ve onlar onun için gelirler."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:564
 translate turkish sm1cs_my002_art_gallery_f0f0b502:
 
     # my "And she's welcoming it, yearning for it. She's waiting, nude..."
-    benim "Ve o bunu memnuniyetle karşılıyor, özlüyor. Bekliyor, çıplak..."
+    my "Ve o bunu memnuniyetle karşılıyor, özlüyor. Bekliyor, çıplak..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:567
 translate turkish sm1cs_my002_art_gallery_77b55bb5:
 
     # my "And she's sensual, erotic... desire is written across her face, and she's ready for this."
-    benim "Ve o şehvetli, erotik... arzu yüzünden okunuyor ve buna hazır."
+    my "Ve o şehvetli, erotik... arzu yüzünden okunuyor ve buna hazır."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:568
 translate turkish sm1cs_my002_art_gallery_162ba143:
 
     # my "She's ready for her shower..."
-    benim "O duşa girmeye hazır..."
+    my "O duşa girmeye hazır..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:571
 translate turkish sm1cs_my002_art_gallery_b9da8623:
@@ -1054,7 +1054,7 @@ translate turkish sm1cs_my002_art_gallery_de248733:
 translate turkish sm1cs_my002_art_gallery_04fdadf8:
 
     # my "Sorry, I got a little lost there for a second. Shall we keep going?"
-    benim "Özür dilerim, bir an için konudan uzaklaştım. Devam edelim mi?"
+    my "Özür dilerim, bir an için konudan uzaklaştım. Devam edelim mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:584
 translate turkish sm1cs_my002_art_gallery_3742761d:
@@ -1072,7 +1072,7 @@ translate turkish sm1cs_my002_art_gallery_00506ee3:
 translate turkish sm1cs_my002_art_gallery_4c8b85bf:
 
     # my "So, [mcname], what are your thoughts about the exhibit as a whole?"
-    benim "Peki, [mcname], serginin tamamı hakkında ne düşünüyorsun?"
+    my "Peki, [mcname], serginin tamamı hakkında ne düşünüyorsun?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:593
 translate turkish sm1cs_my002_art_gallery_5a55a945:
@@ -1096,7 +1096,7 @@ translate turkish sm1cs_my002_art_gallery_f6bce4ae:
 translate turkish sm1cs_my002_art_gallery_0a76e245:
 
     # my "They're just bodies, [mcname]."
-    benim "Onlar sadece bedenler, [mcname]."
+    my "Onlar sadece bedenler, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:601
 translate turkish sm1cs_my002_art_gallery_14f21b7a:
@@ -1114,7 +1114,7 @@ translate turkish sm1cs_my002_art_gallery_8fb56558:
 translate turkish sm1cs_my002_art_gallery_63ab6a63:
 
     # my "You know, I've been quite impressed with your art knowledge, [mcname]."
-    benim "Biliyor musun, [mcname], senin sanat bilginden oldukça etkilendim."
+    my "Biliyor musun, [mcname], senin sanat bilginden oldukça etkilendim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:612
 translate turkish sm1cs_my002_art_gallery_a31340dd:
@@ -1126,7 +1126,7 @@ translate turkish sm1cs_my002_art_gallery_a31340dd:
 translate turkish sm1cs_my002_art_gallery_46b32ee1:
 
     # my "Yes. I guess I have to grant an exception to the \"business art\" types."
-    benim "Evet. Sanırım \"iş sanatı\" tiplerine bir istisna tanımam gerekiyor."
+    my "Evet. Sanırım \"iş sanatı\" tiplerine bir istisna tanımam gerekiyor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:618
 translate turkish sm1cs_my002_art_gallery_290c079d:
@@ -1138,7 +1138,7 @@ translate turkish sm1cs_my002_art_gallery_290c079d:
 translate turkish sm1cs_my002_art_gallery_97aeb6f8:
 
     # my "You did well with your art knowledge today, [mcname]."
-    benim "Bugün sanat bilgini iyi kullandın, [mcname]."
+    my "Bugün sanat bilgini iyi kullandın, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:626
 translate turkish sm1cs_my002_art_gallery_47ef95ec:
@@ -1150,13 +1150,13 @@ translate turkish sm1cs_my002_art_gallery_47ef95ec:
 translate turkish sm1cs_my002_art_gallery_498ca766:
 
     # my "Of course!"
-    benim "Elbette!"
+    my "Elbette!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:635
 translate turkish sm1cs_my002_art_gallery_a14e3eb0:
 
     # my "Well, you definitely did your best today, [mcname]."
-    benim "Bugün kesinlikle elinden gelenin en iyisini yaptın, [mcname]."
+    my "Bugün kesinlikle elinden gelenin en iyisini yaptın, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:639
 translate turkish sm1cs_my002_art_gallery_c74b5716:
@@ -1174,7 +1174,7 @@ translate turkish sm1cs_my002_art_gallery_ae633b37:
 translate turkish sm1cs_my002_art_gallery_56466a75:
 
     # my "Well, [mcname], this has been fun. But I do think I'm going to try and find the gallery manager."
-    benim "Şey, [mcname], bu eğlenceliydi. Ama galeri yöneticisini bulmaya çalışacağımı düşünüyorum."
+    my "Şey, [mcname], bu eğlenceliydi. Ama galeri yöneticisini bulmaya çalışacağımı düşünüyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:649
 translate turkish sm1cs_my002_art_gallery_d7064884:
@@ -1186,13 +1186,13 @@ translate turkish sm1cs_my002_art_gallery_d7064884:
 translate turkish sm1cs_my002_art_gallery_8810d1b0:
 
     # my "Sometimes I'm all work, my apologies."
-    benim "Bazen çok çalışıyorum, özür dilerim."
+    my "Bazen çok çalışıyorum, özür dilerim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:653
 translate turkish sm1cs_my002_art_gallery_fb4c6cce:
 
     # my "But, I promise the next date we have will be less work and more fun."
-    benim "Ama, bir sonraki buluşmamızda daha az iş ve daha çok eğlence olacağına söz veriyorum."
+    my "Ama, bir sonraki buluşmamızda daha az iş ve daha çok eğlence olacağına söz veriyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:656
 translate turkish sm1cs_my002_art_gallery_6d956d65:
@@ -1204,13 +1204,13 @@ translate turkish sm1cs_my002_art_gallery_6d956d65:
 translate turkish sm1cs_my002_art_gallery_088f1eaa:
 
     # my "Date, hang out, whatever you want to call it."
-    benim "Buluşmak, takılmak, adına ne derseniz deyin."
+    my "Buluşmak, takılmak, adına ne derseniz deyin."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:660
 translate turkish sm1cs_my002_art_gallery_47e75104:
 
     # my "But you've been quite the gentleman, so how could I not call it a date?"
-    benim "Ama sen tam bir beyefendiydin, buna nasıl randevu demem?"
+    my "Ama sen tam bir beyefendiydin, buna nasıl randevu demem?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:663
 translate turkish sm1cs_my002_art_gallery_c0bfbdcc:
@@ -1222,13 +1222,13 @@ translate turkish sm1cs_my002_art_gallery_c0bfbdcc:
 translate turkish sm1cs_my002_art_gallery_9ccf4b28:
 
     # my "Of course."
-    benim "Elbette."
+    my "Elbette."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:667
 translate turkish sm1cs_my002_art_gallery_d33cd13e:
 
     # my "Well, work intrudes. I'll see you later, 'kay?"
-    benim "İş araya girdi. Sonra görüşürüz, tamam mı?"
+    my "İş araya girdi. Sonra görüşürüz, tamam mı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:672
 translate turkish sm1cs_my002_art_gallery_d667a3ed:
@@ -1240,13 +1240,13 @@ translate turkish sm1cs_my002_art_gallery_d667a3ed:
 translate turkish sm1cs_my002_art_gallery_a652f616:
 
     # my "Me too."
-    benim "Ben de."
+    my "Ben de."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:683
 translate turkish sm1cs_my002_art_gallery_f84fe751:
 
     # my "Ciao, [mcname]!"
-    benim "Merhaba, [mcname]!"
+    my "Merhaba, [mcname]!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:687
 translate turkish sm1cs_my002_art_gallery_81e23de1:
