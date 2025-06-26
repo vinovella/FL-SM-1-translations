@@ -826,7 +826,7 @@ translate turkish sm1cs_kv004_sex_repeatable_e9a28e46:
 translate turkish sm1cs_kv004_sex_repeatable_9aa91e48:
 
     # kv "Goooooood, fucking goooooood. And - fuh - you got me in frame? Head to pussssy?"
-    kv "Goooooood, fucking goooooood. And - fuh - you got me in frame? Head to pussssy?"
+    kv "Harika, harika. Ve... beni kadraja aldın mı? Kafanı amcığa mı çevirdin?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:507
 translate turkish sm1cs_kv004_sex_repeatable_eb815940:
@@ -850,7 +850,7 @@ translate turkish sm1cs_kv004_sex_repeatable_a12e1049:
 translate turkish sm1cs_kv004_sex_repeatable_2b6215a6:
 
     # kv "Fuuuuuh - hang on, I want to enjoy this for a second."
-    kv "Fuuuuuuh - bekle, bunun tadını bir saniyeliğine çıkarmak istiyorum."
+    kv "Siiiikkktirrrr - bekle, bunun tadını bir saniyeliğine çıkarmak istiyorum."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:515
 translate turkish sm1cs_kv004_sex_repeatable_9dbf668e:
@@ -892,7 +892,7 @@ translate turkish sm1cs_kv004_sex_repeatable_1ce81b63:
 translate turkish sm1cs_kv004_sex_repeatable_22543fa9:
 
     # kv "Goooood, yes! That's so much better."
-    kv "Güüüüüüü, evet! Bu çok daha iyi."
+    kv "İyiiiiiiiii, evet! Bu çok daha iyi."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:539
 translate turkish sm1cs_kv004_sex_repeatable_ad7ddf91:
@@ -922,7 +922,7 @@ translate turkish sm1cs_kv004_sex_repeatable_2c794ec4:
 translate turkish sm1cs_kv004_sex_repeatable_3272f42d:
 
     # kv "NNNNNGGG, I'm going to - fuuuuuucking -"
-    kv "NNNNNGGG, ben - fuuuuuucking - yapacağım"
+    kv "NNNNNGGG, ben - siktirrrr - yapacağım"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:553
 translate turkish sm1cs_kv004_sex_repeatable_13e8df3e:
