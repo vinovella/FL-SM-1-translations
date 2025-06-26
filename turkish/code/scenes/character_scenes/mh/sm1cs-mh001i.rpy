@@ -52,7 +52,7 @@ translate turkish sm1cs_mh001i_47e20ce6:
 translate turkish sm1cs_mh001i_20b803d2:
 
     # sy "Oh shit."
-    "Aman Tanrım."
+    sy "Aman Tanrım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh001i.rpy:24
 translate turkish sm1cs_mh001i_2d84e161:
