@@ -1102,7 +1102,7 @@ translate turkish sm1cs_my002_art_gallery_0a76e245:
 translate turkish sm1cs_my002_art_gallery_14f21b7a:
 
     # my "Fleshy bits that we've all prescribed meaning to. Sexual or otherwise."
-    "Hepimizin anlam yüklediği etli parçalarım. Cinsel veya başka türlü."
+    my "Hepimizin anlam yüklediği etli parçalarım. Cinsel veya başka türlü."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:604
 translate turkish sm1cs_my002_art_gallery_8fb56558:
