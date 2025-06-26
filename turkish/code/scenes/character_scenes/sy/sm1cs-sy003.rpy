@@ -244,7 +244,7 @@ translate turkish sm1cs_sy003_first_time_6e85cde1:
 translate turkish sm1cs_sy003_first_time_c478c069:
 
     # sy "Nope."
-    sy"Hayır."
+    sy "Hayır."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:275
 translate turkish sm1cs_sy003_first_time_03a6b731:
@@ -346,7 +346,7 @@ translate turkish sm1cs_sy003_sex_fe3d3c58:
 translate turkish sm1cs_sy003_sex_99674341:
 
     # sy "Mmm."
-    sy"Mmm."
+    sy "Mmm."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:331
 translate turkish sm1cs_sy003_sex_ce531375:
@@ -388,7 +388,7 @@ translate turkish sm1cs_sy003_sex_d905a8f5:
 translate turkish sm1cs_sy003_sex_f7eca2e1:
 
     # sy "Tch. Liar."
-    sy"Tch. Yalancı."
+    sy "Tch. Yalancı."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:357
 translate turkish sm1cs_sy003_sex_175137fb:
@@ -430,7 +430,7 @@ translate turkish sm1cs_sy003_sex_57dd53e1:
 translate turkish sm1cs_sy003_sex_248db973:
 
     # sy "Mruhmmm."
-    sy"Mruhmm."
+    sy "Mruhmm."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:390
 translate turkish sm1cs_sy003_sex_018d5089:
@@ -550,7 +550,7 @@ translate turkish sm1cs_sy003_sex_ae0e6923:
 translate turkish sm1cs_sy003_sex_a62d25af:
 
     # sy "Ahuwaaah."
-    sy"Aman Tanrım."
+    sy "Aman Tanrım."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:449
 translate turkish sm1cs_sy003_sex_386d19c0:
@@ -568,7 +568,7 @@ translate turkish sm1cs_sy003_sex_3aced18e:
 translate turkish sm1cs_sy003_sex_39685004:
 
     # sy "Mmmm."
-    sy"Mmmm."
+    sy "Mmmm."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:457
 translate turkish sm1cs_sy003_sex_8cbe53af:
@@ -586,7 +586,7 @@ translate turkish sm1cs_sy003_sex_36da3417:
 translate turkish sm1cs_sy003_sex_d91d57e6:
 
     # sy "*giggles*"
-    sy"*kıkırdar*"
+    sy "*kıkırdar*"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:482
 translate turkish sm1cs_sy003_sex_2716f03e:
@@ -628,7 +628,7 @@ translate turkish sm1cs_sy003_sex_8c2c1b35:
 translate turkish sm1cs_sy003_sex_7c36056b:
 
     # sy "Haha."
-    sy"Haha."
+    sy "Haha."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:503
 translate turkish sm1cs_sy003_sex_9dff096f:
@@ -724,7 +724,7 @@ translate turkish sm1cs_sy003_sex_9e3d1643:
 translate turkish sm1cs_sy003_sex_080ac2c5:
 
     # sy "Oh fuck! Mmuhaaahhh..."
-    sy"Aman Tanrım! Mmuhaaahhh..."
+    sy "Aman Tanrım! Mmuhaaahhh..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:556
 translate turkish sm1cs_sy003_sex_b10ddeb5:
@@ -766,13 +766,13 @@ translate turkish sm1cs_sy003_sex_c4719402:
 translate turkish sm1cs_sy003_sex_17369933:
 
     # sy "Ahuaah..."
-    sy"Ahuaah..."
+    sy "Ahuaah..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:588
 translate turkish sm1cs_sy003_sex_22b70eab:
 
     # sy "*moaning*"
-    sy"*inleme*"
+    sy "*inleme*"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:593
 translate turkish sm1cs_sy003_sex_a3fe34b1:
@@ -802,7 +802,7 @@ translate turkish sm1cs_sy003_sex_fbfe8b8f:
 translate turkish sm1cs_sy003_sex_89083cfb:
 
     # sy "Nrrrrh-hannnn."
-    sy"Nrrrhr-hannnn."
+    sy "Nrrrhr-hannnn."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:614
 translate turkish sm1cs_sy003_sex_aa1d059b:
@@ -814,7 +814,7 @@ translate turkish sm1cs_sy003_sex_aa1d059b:
 translate turkish sm1cs_sy003_sex_bdbafdf1:
 
     # sy "Fu-huuhk-kaahh..."
-    sy"Fu-huuhk-kaahh..."
+    sy "Fu-huuhk-kaahh..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:622
 translate turkish sm1cs_sy003_sex_6c2949a2:
@@ -826,7 +826,7 @@ translate turkish sm1cs_sy003_sex_6c2949a2:
 translate turkish sm1cs_sy003_sex_c88b2bfb:
 
     # sy "*whimpering* Ahhu-yoouhaah..."
-    sy"*sızlanma* Ahhu-yoouhaah..."
+    sy "*sızlanma* Ahhu-yoouhaah..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:634
 translate turkish sm1cs_sy003_sex_55fbb90e:
@@ -856,7 +856,7 @@ translate turkish sm1cs_sy003_sex_0e10b9f4:
 translate turkish sm1cs_sy003_sex_977e806a:
 
     # sy "*moaning heartily*"
-    sy"*içtenlikle inleyerek*"
+    sy "*içtenlikle inleyerek*"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:655
 translate turkish sm1cs_sy003_sex_f7551dd2:
@@ -868,19 +868,19 @@ translate turkish sm1cs_sy003_sex_f7551dd2:
 translate turkish sm1cs_sy003_sex_04513ba1:
 
     # sy "Ahhuaaah!"
-    sy"Ahhuaaah!"
+    sy "Ahhuaaah!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:664
 translate turkish sm1cs_sy003_sex_7d44c571:
 
     # sy "Mrmmm-hmmm."
-    sy"Mmmmm-hmmm."
+    sy "Mmmmm-hmmm."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:674
 translate turkish sm1cs_sy003_sex_73e26adc:
 
     # sy "Mmm... So tasty."
-    sy"Mmm... Çok lezzetli."
+    sy "Mmm... Çok lezzetli."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:678
 translate turkish sm1cs_sy003_sex_23857018:
@@ -922,7 +922,7 @@ translate turkish sm1cs_sy003_end_965fb1d1:
 translate turkish sm1cs_sy003_end_2f93dbf4:
 
     # sy "I do."
-    sy"Evet."
+    sy "Evet."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:713
 translate turkish sm1cs_sy003_end_a411f02c:
@@ -958,7 +958,7 @@ translate turkish sm1cs_sy003_end_292896a8:
 translate turkish sm1cs_sy003_end_02b7350e:
 
     # sy "Mmmhmmm."
-    sy"Mmmhmmm."
+    sy "Mmmhmmm."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:734
 translate turkish sm1cs_sy003_end_31715aa5:
@@ -970,7 +970,7 @@ translate turkish sm1cs_sy003_end_31715aa5:
 translate turkish sm1cs_sy003_end_2aad5d84:
 
     # sy "Goodnight, [mcname]."
-    sy"İyi geceler, [mcname]."
+    sy "İyi geceler, [mcname]."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:740
 translate turkish sm1cs_sy003_end_e277e827:
