@@ -18,12 +18,6 @@ translate turkish sm1ms022i_302355d4:
     # sy "Do you have the money for Kanya?"
     sy "Kanya için paran var mı?"
 
-# game/code/scenes/main_story/sm1ms022i.rpy:16
-translate turkish sm1ms022i_1dc3a549:
-
-    # sy "Then help me move this stuff and get the set ready!"
-    sy "O zaman şu eşyaları taşımama ve seti hazırlamama yardım et!"
-
 # game/code/scenes/main_story/sm1ms022i.rpy:17
 translate turkish sm1ms022i_a49ed4f8:
 
@@ -61,4 +55,20 @@ translate turkish strings:
     # game/code/scenes/main_story/sm1ms022i.rpy:10
     old "I'm too tired..."
     new "Çok yorgunum..."
+
+# game/code/scenes/main_story/sm1ms022i.rpy:16
+translate turkish sm1ms022i_ebb39499:
+
+    # sy "Okay. Now help me move this stuff and get the set ready!"
+    sy "Okay. Now help me move this stuff and get the set ready!"
+
+translate turkish strings:
+
+    # game/code/scenes/main_story/sm1ms022i.rpy:12
+    old "Kanya's compensation"
+    new "Kanya's compensation"
+
+    # game/code/scenes/main_story/sm1ms022i.rpy:12
+    old "You gave $200 to Kanya for the shoot"
+    new "You gave $200 to Kanya for the shoot"
 
