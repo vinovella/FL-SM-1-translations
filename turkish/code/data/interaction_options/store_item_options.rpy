@@ -4,17 +4,17 @@ translate turkish strings:
 
     # game/code/data/interaction_options/store_item_options.rpy:3
     old "Photography-101"
-    new ""
+    new "Fotoğrafçılık-101"
 
     # game/code/data/interaction_options/store_item_options.rpy:3
     old "An Actor Prepares"
-    new ""
+    new "Bir Oyuncu Hazırlanıyor"
 
     # game/code/data/interaction_options/store_item_options.rpy:3
     old "Stars Weekly"
-    new ""
+    new "Yıldızlar Haftası"
 
     # game/code/data/interaction_options/store_item_options.rpy:3
     old "D-Energy"
-    new ""
+    new "D-Enerji"
 
