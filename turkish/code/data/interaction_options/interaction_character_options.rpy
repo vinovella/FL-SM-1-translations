@@ -4,297 +4,297 @@ translate turkish strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk"
-    new ""
+    new "Konuşma"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Go to sleep"
-    new ""
+    new "Uyumaya git"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Work Wurst delivery"
-    new ""
+    new "Work Wurst teslimatı"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Go on a Date"
-    new ""
+    new "Bir Randevuya Çık"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Give Stacy money for a wig"
-    new ""
+    new "Stacy'ye peruk için para ver"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Go to Kanya with the wig"
-    new ""
+    new "Perukla Kanya'ya git"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about filming"
-    new ""
+    new "Film çekimi hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about AmRose"
-    new ""
+    new "AmRose hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about finding more jobs"
-    new ""
+    new "Daha fazla iş bulmaktan bahset"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about your job progress"
-    new ""
+    new "İşinizin ilerleyişi hakkında konuşun"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "About that USB drive"
-    new ""
+    new "USB sürücüsü hakkında"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about the film"
-    new ""
+    new "Film hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Answer booty call"
-    new ""
+    new "Cevaplı seks çağrısı"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Start renovation!"
-    new ""
+    new "Yenilemeye başlayın!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Do renovation work"
-    new ""
+    new "Tadilat çalışması yap"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Visit Orbix"
-    new ""
+    new "Orbix'i ziyaret edin"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask for help with renovation"
-    new ""
+    new "Tadilat konusunda yardım isteyin"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Assemble stairs"
-    new ""
+    new "Merdivenleri birleştirin"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Visit Theather"
-    new ""
+    new "Tiyatroyu Ziyaret Et"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Are we done?"
-    new ""
+    new "Bitti mi?"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Let's start working!"
-    new ""
+    new "Hadi çalışmaya başlayalım!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ready for next adventure!"
-    new ""
+    new "Bir sonraki maceraya hazırım!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Filming"
-    new ""
+    new "Film Çekimi Hakkında Konuşma"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask about editing"
-    new ""
+    new "Düzenleme hakkında soru sor"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask about editing again..."
-    new ""
+    new "Tekrar düzenleme hakkında sor..."
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Film done?"
-    new ""
+    new "Film bitti mi?"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Help Stacy"
-    new ""
+    new "Stacy'ye yardım et"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Netfix and chill with Stacy"
-    new ""
+    new "Netfix ve Stacy ile takılmak"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have a shower with Stacy"
-    new ""
+    new "Stacy ile duş al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Check Stacy out"
-    new ""
+    new "Stacy'yi kontrol et"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Filming practice"
-    new ""
+    new "Film çekme uygulaması"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Come with me to the bed"
-    new ""
+    new "Benimle yatağa gel"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about camera girl"
-    new ""
+    new "Kamera kızı hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Photography-101 for $"
-    new ""
+    new "Fotoğrafçılık-101'i $'a satın al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Tell Stacy about Kanya"
-    new ""
+    new "Stacy'ye Kanya'dan bahset"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask for 'practice'"
-    new ""
+    new "Uygulama için sor"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask for some sexy 'practice'"
-    new ""
+    new "Biraz seksi 'pratik' isteyin"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Learn Photography"
-    new ""
+    new "Fotoğrafçılığı Öğrenin"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about the Photoshoot"
-    new ""
+    new "Fotoğraf Çekimi Hakkında Konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about hiring people"
-    new ""
+    new "İnsanları işe almaktan bahset"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Go with Stacy to meet with Lyssa"
-    new ""
+    new "Stacy ile Lyssa ile buluşmaya git"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Lyssa"
-    new ""
+    new "Lyssa hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Date with Lyssa"
-    new ""
+    new "Lyssa ile Randevu"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Confront Debbie"
-    new ""
+    new "Debbie ile Yüzleş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask about getting coffee"
-    new ""
+    new "Kahve almak hakkında soru sor"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Min"
-    new ""
+    new "Min Hakkında Konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Can you check my fit?"
-    new ""
+    new "Uyumumu kontrol edebilir misiniz?"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Melony"
-    new ""
+    new "Melony hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Invite Nari"
-    new ""
+    new "Nari'yi Davet Et"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about last date"
-    new ""
+    new "Son tarih hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Nari"
-    new ""
+    new "Nari hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "About moving in"
-    new ""
+    new "Taşınma hakkında"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "How is your room?"
-    new ""
+    new "Odan nasıl?"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Hey sexy!!"
-    new ""
+    new "Hey seksi!!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Fix things up with April"
-    new ""
+    new "Nisan'la işleri düzelt"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask her out"
-    new ""
+    new "Ona çıkma teklif et"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Claire"
-    new ""
+    new "Claire hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "How are you?"
-    new ""
+    new "Nasılsın?"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Do you know where is Anna?"
-    new ""
+    new "Anna'nın nerede olduğunu biliyor musun?"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Rehearsal for the show"
-    new ""
+    new "Gösteri için prova"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Let's go to Amusement Park"
-    new ""
+    new "Hadi Eğlence Parkına Gidelim"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Interview Taisia now"
-    new ""
+    new "Şimdi Taisia ​​ile röportaj"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "___ INSERT _____"
-    new ""
+    new "___ EKLE _____"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Stars Weekly for $"
-    new ""
+    new "Yıldızları Haftalık Olarak $'a Satın Al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Next Blitz?"
-    new ""
+    new "Bir Sonraki Blitz?"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase An Actor Prepares for $"
-    new ""
+    new "Bir Oyuncu $'a Hazırlanıyor"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Hey Kellie!"
-    new ""
+    new "Hey Kellie!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Hey!"
-    new ""
+    new "Hey!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "About Kellie"
-    new ""
+    new "Kellie Hakkında"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about last time"
-    new ""
+    new "Geçen seferden bahset"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about \"work\""
-    new ""
+    new "\"iş\" hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Chat with Taisia"
-    new ""
+    new "Taisia ​​ile Sohbet"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Taisia"
-    new ""
+    new "Taisia ​​hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about moving in"
-    new ""
+    new "Taşınma hakkında konuşma"
 
