@@ -4,49 +4,49 @@ translate turkish strings:
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Interact"
-    new ""
+    new "Etkileşim"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Photography-101"
-    new ""
+    new "Fotoğrafçılık-101'i Oku"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read An Actor Prepares"
-    new ""
+    new "Bir Oyuncu Hazırlanır"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Stars Weekly"
-    new ""
+    new "Yıldızları Haftalık Olarak Oku"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Buy Energy Drink - $25"
-    new ""
+    new "Enerji İçeceği Satın Al - 25$"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Fashion Magazine"
-    new ""
+    new "Moda Dergisi Oku"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Tech Magazine"
-    new ""
+    new "Teknoloji Dergisini Oku"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Animal Magazine"
-    new ""
+    new "Hayvan Dergisi Oku"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Start working"
-    new ""
+    new "Çalışmaya başla"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Take panties"
-    new ""
+    new "Külot al"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Pee in the toilet"
-    new ""
+    new "Tuvalete işe"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Take a shower"
-    new ""
+    new "Duş al"
 
