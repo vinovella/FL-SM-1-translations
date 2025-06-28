@@ -298,7 +298,7 @@ translate turkish sm1ms019_1b2007a3:
 translate turkish sm1ms019_e9da86dc:
 
     # my "I see you finally got a TV!"
-    sy "Sonunda bir televizyonun olduğunu görüyorum!"
+    my "Sonunda bir televizyonun olduğunu görüyorum!"
 
 # game/code/scenes/main_story/sm1ms019.rpy:208
 translate turkish sm1ms019_38b93139:
@@ -358,7 +358,7 @@ translate turkish sm1ms019_b1002515:
 translate turkish sm1ms019_f36db1ba:
 
     # my "I see that your bed is finally off the floor!"
-    sy "Yatağının nihayet yerden kalktığını görüyorum!"
+    my "Yatağının nihayet yerden kalktığını görüyorum!"
 
 # game/code/scenes/main_story/sm1ms019.rpy:239
 translate turkish sm1ms019_0b017a17:
