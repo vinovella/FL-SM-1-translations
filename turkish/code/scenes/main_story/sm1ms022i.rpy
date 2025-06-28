@@ -60,15 +60,15 @@ translate turkish strings:
 translate turkish sm1ms022i_ebb39499:
 
     # sy "Okay. Now help me move this stuff and get the set ready!"
-    sy "Okay. Now help me move this stuff and get the set ready!"
+    sy "Tamam. Şimdi bu eşyaları taşımama yardım et ve seti hazırla!"
 
 translate turkish strings:
 
     # game/code/scenes/main_story/sm1ms022i.rpy:12
     old "Kanya's compensation"
-    new "Kanya's compensation"
+    new "Kanya'nın tazminatı"
 
     # game/code/scenes/main_story/sm1ms022i.rpy:12
     old "You gave $200 to Kanya for the shoot"
-    new "You gave $200 to Kanya for the shoot"
+    new "Çekim için Kanya'ya 200 dolar verdin"
 
