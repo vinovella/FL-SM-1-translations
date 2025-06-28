@@ -488,7 +488,7 @@ translate turkish strings:
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Yükleme, kaydedilmemiş ilerlemeyi kaybedecektir.\nBunu yapmak istediğinizden emin misiniz?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
@@ -496,35 +496,35 @@ translate turkish strings:
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Ana menüye dönmek istediğinizden emin misiniz?\nBu işlem kaydedilmemiş ilerlemeyi kaybedecektir."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new ""
+    new "Bıraktığınız yerden devam etmek istediğinizden emin misiniz?"
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Yeniden oynatmayı sonlandırmak istediğinizden emin misiniz?"
 
     # renpy/common/00gui.rpy:456
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Atlamaya başlamak istediğinizden emin misiniz?"
 
     # renpy/common/00gui.rpy:457
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Bir sonraki seçeneğe atlamak istediğinizden emin misiniz?"
 
     # renpy/common/00gui.rpy:458
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Görülmemiş diyalogları atlayıp bir sonraki seçeneğe geçmek istediğinizden emin misiniz?"
 
     # renpy/common/00gui.rpy:459
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new ""
+    new "Bu kayıt farklı bir cihazda oluşturulmuştur. Kötü niyetle oluşturulmuş kayıt dosyaları bilgisayarınıza zarar verebilir. Bu kaydın oluşturucusuna ve dosyayı değiştirmiş olabilecek herkese güveniyor musunuz?"
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new ""
+    new "Kaydın oluşturulduğu cihaza güveniyor musunuz? Cihazın tek kullanıcısıysanız evet seçeneğini seçmelisiniz."
 
     # renpy/common/00keymap.rpy:325
     old "Failed to save screenshot as %s."
@@ -780,7 +780,7 @@ translate turkish strings:
 
     # renpy/common/00preferences.rpy:703
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new ""
+    new "Sesli okuma “[renpy.display.tts.last]” der. Devre dışı bırakmak için ‘alt+shift+V’ tuşlarına basın."
 
     # renpy/common/00preferences.rpy:705
     old "Self-voicing enabled. Press 'v' to disable."
@@ -820,7 +820,7 @@ translate turkish strings:
 
     # renpy/common/00sync.rpy:316
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new ""
+    new "Oluşturduğunuz senkronizasyon kimliğini girin.\nKendiniz oluşturmadığınız bir senkronizasyon kimliğini asla girmeyin."
 
     # renpy/common/00sync.rpy:335
     old "The sync ID is not in the correct format."
@@ -840,7 +840,7 @@ translate turkish strings:
 
     # renpy/common/00sync.rpy:440
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new ""
+    new "Bu, kayıtlarınızı {a=https://sync.renpy.org}Ren'Py Sync Server{/a} sunucusuna yükleyecektir.\nDevam etmek istiyor musunuz?"
 
     # renpy/common/00sync.rpy:448
     old "Yes"
@@ -868,7 +868,7 @@ translate turkish strings:
 
     # renpy/common/00sync.rpy:522
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new ""
+    new "Bu kimliği kullanarak kaydınızı başka bir cihaza indirebilirsiniz.\nBu senkronizasyon bir saat içinde sona erecektir.\nRen'Py Sync, {a=https://www.renpy.org/sponsors.html}Ren'Py'nin Sponsorları{/a} tarafından desteklenmektedir."
 
     # renpy/common/00sync.rpy:526
     old "Continue"
