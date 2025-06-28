@@ -34,7 +34,7 @@ translate turkish q_inter_sj_1_54e6f5c0:
 translate turkish q_inter_sj_1_798a3427:
 
     # sj "Hahaha."
-    sj ""
+    sj "Hahaha."
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-sj.rpy:26
 translate turkish q_inter_sj_1_273ae58e:
