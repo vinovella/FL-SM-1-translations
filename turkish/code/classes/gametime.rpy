@@ -8,7 +8,7 @@ translate turkish strings:
 
     # game/code/classes/gametime.rpy:196
     old "Wrong time. Available at {}"
-    new "Wrong time. Available at {}"
+    new "Yanlış zaman. {} adresinde mevcuttur."
 
     # game/code/classes/gametime.rpy:204
     old "Too early. Available from {}"
