@@ -670,7 +670,7 @@ translate turkish sm1cs_tl008_sex_5e485ebc:
 translate turkish sm1cs_tl008_sex_9f060849:
 
     # tl "Fuuucking fuck, fuck, [mcname]! {w}Gooood, I love having your cock in my ass!"
-    tl "Fuuucking fuck, fuck, [mcname]! {w}Gooood, I love having your cock in my ass!"
+    tl "Siktir, siktir, [mcname]! {w}Güzel, senin sikini kıçımda hissetmeye bayılıyorum!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:415
 translate turkish sm1cs_tl008_sex_a3dc1d1b:
