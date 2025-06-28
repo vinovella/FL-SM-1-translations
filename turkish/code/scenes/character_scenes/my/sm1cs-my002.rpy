@@ -550,7 +550,7 @@ translate turkish sm1cs_my002_art_gallery_72886ef4:
 translate turkish sm1cs_my002_art_gallery_81686ff6:
 
     # my "Commenting on the color palette?"
-    "Renk paleti hakkında yorum mu yapıyorsunuz?"
+    my "Renk paleti hakkında yorum mu yapıyorsunuz?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:312
 translate turkish sm1cs_my002_art_gallery_a87a337b_1:
