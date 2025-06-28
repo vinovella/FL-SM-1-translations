@@ -736,7 +736,7 @@ translate turkish sm1cs_sy003_sex_b10ddeb5:
 translate turkish sm1cs_sy003_sex_3a84a8cb:
 
     # sy "Oh my god... [mcname] Oh-huaah!"
-    sy "Aman tanrım... [inliyor] Oh-huaah!"
+    sy "Aman tanrım... [mcname] Oh-huaah!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:573
 translate turkish sm1cs_sy003_sex_d81f1ae4:
