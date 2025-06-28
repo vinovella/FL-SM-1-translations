@@ -658,7 +658,7 @@ translate turkish sm1ms018_backstage_0063d47b:
 translate turkish sm1ms018_backstage_9904fd1a:
 
     # my "{i}Other{/i} work down the line."
-    sy "{i}Diğer{/i} çalışmalarım."
+    my "{i}Diğer{/i} çalışmalarım."
 
 # game/code/scenes/main_story/sm1ms018.rpy:350
 translate turkish sm1ms018_backstage_d5c9e33c:
