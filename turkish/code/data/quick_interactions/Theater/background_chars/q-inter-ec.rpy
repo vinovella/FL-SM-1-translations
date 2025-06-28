@@ -28,7 +28,7 @@ translate turkish q_inter_ec_1_b5e6fa12:
 translate turkish q_inter_ec_2_7d19511a:
 
     # ec "*waves* Hey [mcname], "
-    ec ""
+    ec "*el sallar* Merhaba [mcname],"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:31
 translate turkish q_inter_ec_2_7fb08a75:
