@@ -58,7 +58,7 @@ translate turkish sm1cs_tl006i_df1af95a:
 translate turkish sm1cs_tl006i_2015d957:
 
     # sy "I don't care, yes! She can live here!"
-    sy ""
+    sy "Umurumda değil, evet! Burada yaşayabilir!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006i.rpy:32
 translate turkish sm1cs_tl006i_eb318180:
@@ -70,17 +70,17 @@ translate turkish sm1cs_tl006i_eb318180:
 translate turkish sm1cs_tl006i_b7f51296:
 
     # sy "Shut up, let's just make it happen!"
-    sy "Yapmalıyız-"
+    sy "Sus, hadi bunu gerçekleştirelim!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006i.rpy:38
 translate turkish sm1cs_tl006i_6e5ec112:
 
     # mc "All right, next chance we get we can go and talk to her."
-    mc "Çeneni kapat, hadi yapalım şu işi!"
+    mc "Tamam, bir sonraki fırsatta gidip onunla konuşabiliriz."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006i.rpy:42
 translate turkish sm1cs_tl006i_d9316f82:
 
     # sy "YAAAYYYYY!"
-    sy "Tamam, ilk fırsatta gidip onunla konuşabiliriz."
+    sy "YAAYYYYAYY!"
 
