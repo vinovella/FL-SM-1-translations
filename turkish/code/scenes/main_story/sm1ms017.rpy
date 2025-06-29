@@ -658,7 +658,7 @@ translate turkish sm1ms017_end_ccefcc04:
 translate turkish sm1ms017_end_489484fe:
 
     # my "Did I miss anything?"
-    sy "Bir şey kaçırdım mı?"
+    my "Bir şey kaçırdım mı?"
 
 # game/code/scenes/main_story/sm1ms017.rpy:529
 translate turkish sm1ms017_end_c40b886a:
