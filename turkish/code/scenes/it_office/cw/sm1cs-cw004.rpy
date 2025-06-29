@@ -1042,7 +1042,7 @@ translate turkish sm1cs_cw004_later_fc48517c_1:
 translate turkish sm1cs_cw004_later_185650d9:
 
     # "FWAP."
-    "FWAP."
+    "BOŞALMA."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:604
 translate turkish sm1cs_cw004_later_f491612f:
