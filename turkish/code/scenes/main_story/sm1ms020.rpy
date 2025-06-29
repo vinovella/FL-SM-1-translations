@@ -712,7 +712,7 @@ translate turkish sm1ms020_7b73fb33:
 translate turkish sm1ms020_489484fe:
 
     # my "Did I miss anything?"
-    sy "Bir şey kaçırdım mı?"
+    my "Bir şey kaçırdım mı?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:360
 translate turkish sm1ms020_3cb92188:
@@ -862,13 +862,13 @@ translate turkish sm1ms020_flirting_bb755514:
 translate turkish sm1ms020_flirting_6d0359b9:
 
     # my "God... I can't even remember the last time I put on a swimsuit. It had to be... ages ago."
-    sy "Tanrım... En son ne zaman mayo giydiğimi bile hatırlamıyorum. Çok uzun zaman önce olmalı."
+    my "Tanrım... En son ne zaman mayo giydiğimi bile hatırlamıyorum. Çok uzun zaman önce olmalı."
 
 # game/code/scenes/main_story/sm1ms020.rpy:444
 translate turkish sm1ms020_flirting_815a341b:
 
     # my "I bet I couldn't even fit into any of my old swimsuits anymore..."
-    sy "Eski mayolarımın hiçbirine artık sığamıyorum sanırım..."
+    my "Eski mayolarımın hiçbirine artık sığamıyorum sanırım..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:447
 translate turkish sm1ms020_flirting_c5ea591c:
