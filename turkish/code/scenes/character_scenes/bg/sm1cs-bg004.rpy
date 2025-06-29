@@ -1126,7 +1126,7 @@ translate turkish sm1cs_bg004_anal_1eadac68:
 translate turkish sm1cs_bg004_anal_af8077eb:
 
     # bg "God, God, God, GOODDDD, GOOOOOOODDDD, [mcname!u]!"
-    bg "Tanrım, Tanrım, Tanrım, İYİ..."
+    bg "Tanrım, Tanrım, Tanrım, İYİ..., [mcname!u]!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:541
 translate turkish sm1cs_bg004_anal_6c52da50:
