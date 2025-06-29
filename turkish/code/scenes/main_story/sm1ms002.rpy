@@ -130,7 +130,7 @@ translate turkish sm1ms002_continue_convo_2faef0f8:
 translate turkish sm1ms002_continue_convo_42f2ab00:
 
     # mc "About the rent. You said it was $[RENT_WEEKLY_AMOUNT] per month... but you're asking for that amount every week."
-    mc "Kira hakkında. Aylık [$RENT_WEEKLY_AMOUNT] dedin... ama her hafta bu miktarı istiyorsun."
+    mc "Kira hakkında. Aylık $[RENT_WEEKLY_AMOUNT] dedin... ama her hafta bu miktarı istiyorsun."
 
 # game/code/scenes/main_story/sm1ms002.rpy:110
 translate turkish sm1ms002_continue_convo_815bd6b6:
