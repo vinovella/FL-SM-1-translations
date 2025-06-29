@@ -646,7 +646,7 @@ translate turkish q_inter_ms_39_cb70afb1:
 translate turkish q_inter_ms_39_9bb2d389:
 
     # ms "So?"
-    ms ""
+    ms "Yani?"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:424
 translate turkish q_inter_ms_39_476325f2:
