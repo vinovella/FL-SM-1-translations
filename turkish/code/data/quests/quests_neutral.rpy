@@ -300,7 +300,7 @@ translate turkish strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Debbie in the Park during the day"
-    new ""
+    new "Gün içinde Park'ta Debbie ile konuşun."
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for few days"
