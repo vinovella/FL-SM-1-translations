@@ -226,7 +226,7 @@ translate turkish q_inter_ns_9_00ea30d8:
 translate turkish q_inter_ns_10_cbb6b4f9:
 
     # mct "There's Nari. She's looking sneaky."
-    mc "Nari orada. Sinsi görünüyor."
+    mct "Nari orada. Sinsi görünüyor."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:159
 translate turkish q_inter_ns_10_cd71789f:
@@ -574,7 +574,7 @@ translate turkish q_inter_ns_24_b982509b:
 translate turkish q_inter_ns_24_18206bf0:
 
     # mct "Oh boy..."
-    mc "Vay canına..."
+    mct "Vay canına..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:356
 translate turkish q_inter_ns_25_958dac75:
@@ -688,13 +688,13 @@ translate turkish q_inter_ns_26_c5ecf159:
 translate turkish q_inter_ns_26_ae9ae27e:
 
     # mct "I didn't realize I had opened such a big can of worms..."
-    mc "Bu kadar büyük bir mevzuyu açtığımı fark etmemiştim..."
+    mct "Bu kadar büyük bir mevzuyu açtığımı fark etmemiştim..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:396
 translate turkish q_inter_ns_26_d25b3fb8:
 
     # mct "Should probably just... leave her be?"
-    mc "Muhtemelen... kendi hâline bırakmalı?"
+    mct "Muhtemelen... kendi hâline bırakmalı?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:403
 translate turkish q_inter_ns_27_f7213e35:
@@ -814,7 +814,7 @@ translate turkish q_inter_ns_29_d54a09db:
 translate turkish q_inter_ns_29_57daf7f9:
 
     # mct "Crowning has a Korean barbeque place?"
-    mc "Crowning’de Kore barbekü restoranı mı var?"
+    mct "Crowning’de Kore barbekü restoranı mı var?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:455
 translate turkish q_inter_ns_30_db455a15:
