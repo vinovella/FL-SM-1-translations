@@ -34,7 +34,7 @@ translate turkish q_inter_tl_2_8148cb2c:
 translate turkish q_inter_tl_2_a4cd1341_1:
 
     # tl "..."
-    tl ""
+    tl "..."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:46
 translate turkish q_inter_tl_2_e8b0d2d1:
@@ -82,7 +82,7 @@ translate turkish q_inter_tl_4_a7e84ed9:
 translate turkish q_inter_tl_4_a4cd1341:
 
     # tl "..."
-    tl ""
+    tl "..."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:72
 translate turkish q_inter_tl_5_eb1bbc5d:
