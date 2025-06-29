@@ -634,7 +634,7 @@ translate turkish sm1cs_cw005_food_a4e16757:
 translate turkish sm1cs_cw005_food_fe2a2753:
 
     # fw "Charles?"
-    "Charles?"
+    fw "Charles?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:439
 translate turkish sm1cs_cw005_food_4e4e80e1:
@@ -2582,5 +2582,5 @@ translate turkish strings:
 translate turkish sm1cs_cw005_pushy_menu_74f0afa1:
 
     # cw "Well, get moving Mr. Bird."
-    cw "Well, get moving Mr. Bird."
+    cw "Hadi, hareket edin Bay Bird."
 
