@@ -64,7 +64,7 @@ translate turkish q_inter_rd_4_cbb1b367:
 translate turkish q_inter_rd_5_8ed8c7c3:
 
     # rd "It's days like today I wish I worked corporate."
-    rd "Keşke kurumsal bir işte çalışsaydım" dediğim günler oluyor."
+    rd "Keşke kurumsal bir işte çalışsaydım dediğim günler oluyor."
 
 # game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:55
 translate turkish q_inter_rd_5_2e4055cf:

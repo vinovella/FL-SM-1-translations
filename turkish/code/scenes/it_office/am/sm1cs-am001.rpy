@@ -856,7 +856,7 @@ translate turkish sm1cs_am001_after_coding_821a55cb:
 translate turkish sm1cs_am001_later_9aa40e36:
 
     # am "Smooth."
-    am "Pürüzsüz"üm."
+    am "Pürüzsüzüm."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:442
 translate turkish sm1cs_am001_later_fa2f0659:
