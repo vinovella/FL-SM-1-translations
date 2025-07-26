@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/it_office/ns/sm1cs-ns011i.rpy:6
+﻿# game/code/scenes/it_office/ns/sm1cs-ns011i.rpy:6
 translate turkish sm1cs_ns011i_1a4ea256:
 
     # mc "Hello Nari."

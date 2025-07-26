@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:36
 translate turkish sm1cs_kv003_aa0d9ec1:
 
@@ -995,3 +993,4 @@ translate turkish sm1cs_kv003_9c5419cb:
 
     # mc "Ugggggh, fine."
     mc "Ugggggh, tamam."
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:22
 translate turkish sm1cs_mh002_d63954f3:
 
@@ -395,3 +393,4 @@ translate turkish sm1cs_mh002_92b73ecf:
 
     # mh "Ciao."
     mh "Merhaba."
+

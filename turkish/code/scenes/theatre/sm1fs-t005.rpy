@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/sm1fs-t005.rpy:11
 translate turkish sm1fs_t005_7ba455b0:
 

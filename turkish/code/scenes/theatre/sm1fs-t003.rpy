@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/sm1fs-t003.rpy:14
 translate turkish sm1fs_t003_219aabda:
 
@@ -1139,3 +1137,4 @@ translate turkish sm1fs_t003_ss_tutorial_end_548f0968:
 
     # mc "Sounds good, I'll see ya', Sam!"
     mc "Güzel görünüyor, görüşürüz, Sam!" 
+

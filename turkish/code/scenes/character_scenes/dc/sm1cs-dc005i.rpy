@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc005i.rpy:6
 translate turkish sm1cs_dc005i_badcdb98:
 
@@ -53,3 +51,4 @@ translate turkish sm1cs_dc005i_e448ee8f:
 
     # dc "I'll see you later, [mcname]."
     dc "Sonra görüşürüz, [mcname]."
+

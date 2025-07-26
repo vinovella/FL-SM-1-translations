@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:6
 translate turkish sm1cs_vs005i_2e69e7da:
 
@@ -93,3 +91,4 @@ translate turkish strings:
     # game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:15
     old "I'm busy right now"
     new "Şu anda meşgulüm"
+

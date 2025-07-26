@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/theatre/tl/sm1cs-tl001i.rpy:6
+﻿# game/code/scenes/theatre/tl/sm1cs-tl001i.rpy:6
 translate turkish sm1cs_tl001i_c7a0fb24:
 
     # mc "Hey, Taisia. I wanted to talk to you-"

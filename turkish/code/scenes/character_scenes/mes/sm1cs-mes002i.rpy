@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:6
 translate turkish sm1cs_mes002i_d62eb2bc:
 
@@ -197,3 +195,4 @@ translate turkish sm1cs_mes002i_5ee8dc16:
 
     # sy "Mmhmm."
     sy "Mmmhmm."
+

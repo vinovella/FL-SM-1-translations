@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/it_office/cw/sm1cs-cw004i.rpy:6
+﻿# game/code/scenes/it_office/cw/sm1cs-cw004i.rpy:6
 translate turkish sm1cs_cw004i_4c2ba25b:
 
     # mc "Hello, Ms. Watts."

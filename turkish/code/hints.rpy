@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/hints.rpy:5
     old "Unlocks dates with Amore."
@@ -357,3 +355,4 @@ translate turkish strings:
     # game/code/hints.rpy:5
     old "Min will not like this and you will lose 1 RP."
     new "Min bundan hoşlanmayacak ve 1 İlişki Puanı kaybedeceksin."
+

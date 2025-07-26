@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:76
 translate turkish sm1cs_vs005_47747750:
 
@@ -1769,12 +1767,6 @@ translate turkish sm1cs_vs005_continue_53211051:
 
     # vs "Mhhhmmmm."
     vs "Mhhhmmmm."
-
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:948
-translate turkish sm1cs_vs005_continue_adf25a9e:
-
-    # vs "Good night, [mcname]."
-    vs "İyi geceler, [mcname]."
 
 translate turkish strings:
 

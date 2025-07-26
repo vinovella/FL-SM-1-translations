@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
@@ -1233,3 +1231,4 @@ translate turkish strings:
     # renpy/common/_errorhandling.rpym:796
     old "Parsing the script failed."
     new "Betik çözümlemesi başarısız oldu."
+

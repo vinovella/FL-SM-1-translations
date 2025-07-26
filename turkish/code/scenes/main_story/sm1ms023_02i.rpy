@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/main_story/sm1ms023_02i.rpy:5
+﻿# game/code/scenes/main_story/sm1ms023_02i.rpy:5
 translate turkish sm1ms023_02i_d580653f:
 
     # mc "How's the edit coming?"

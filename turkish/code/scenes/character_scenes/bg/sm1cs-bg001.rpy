@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:24
+﻿# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:24
 translate turkish sm1cs_bg001_ba263eeb:
 
     # mc "Oh, hey! Funny running into you here!"
@@ -1125,3 +1123,4 @@ translate turkish strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:482
     old "Not really my thing"
     new "Benim tarzım değil."
+

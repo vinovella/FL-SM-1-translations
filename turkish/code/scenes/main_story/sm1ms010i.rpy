@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/main_story/sm1ms010i.rpy:7
+﻿# game/code/scenes/main_story/sm1ms010i.rpy:7
 translate turkish sm1ms010i_31738962:
 
     # mc "Stacy, I wanted to...{w=1.2}{nw}"

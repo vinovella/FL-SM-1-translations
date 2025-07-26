@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:37
 translate turkish sm1cs_mh006_7215da74:
 

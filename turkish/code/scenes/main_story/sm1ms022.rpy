@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms022.rpy:86
 translate turkish sm1ms022_6d908b9d:
 
@@ -1703,3 +1701,4 @@ translate turkish sm1ms022_94f3e8f9:
 
     # mct "I really hope the client likes this next video..."
     mct "Umarım müşteri bu sonraki videoyu beğenir..."
+

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy:19
+﻿# game/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy:19
 translate turkish q_inter_bg_1_5c7e01fb:
 
     # "BDSM Model" "Hey!"
@@ -95,3 +93,4 @@ translate turkish q_inter_bg_6_e91d05df:
 
     # bg "Hey [mcname]"
     bg "Hey [mcname]"
+

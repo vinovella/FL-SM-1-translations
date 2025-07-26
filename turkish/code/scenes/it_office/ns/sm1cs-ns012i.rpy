@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/it_office/ns/sm1cs-ns012i.rpy:8
+﻿# game/code/scenes/it_office/ns/sm1cs-ns012i.rpy:8
 translate turkish sm1cs_ns012i_c769adfb:
 
     # ns "Hi [mcname]. Come to check out my finished room?"

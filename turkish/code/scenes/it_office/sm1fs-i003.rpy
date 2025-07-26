@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/sm1fs-i003.rpy:28
 translate turkish sm1fs_i003_ec136a61:
 

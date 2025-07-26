@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:10
 translate turkish sm1cs_kv005i_0bcf2115:
 
@@ -1259,3 +1257,4 @@ translate turkish sm1cs_kv005_come_back_later_74105290:
 
     # kv "I'm looking forward to it, [mcname]."
     kv "Bunu sabırsızlıkla bekliyorum, [mcname]."
+

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/minigames/simon_says/simon_says_game.rpy:41
     old "Ready!"

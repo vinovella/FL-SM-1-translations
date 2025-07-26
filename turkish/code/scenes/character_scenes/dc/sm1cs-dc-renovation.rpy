@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:15
 translate turkish sm1cs_dc_renovation_b8cfd8d1:
 
@@ -611,3 +609,4 @@ translate turkish sm1cs_dc_renovation_e5818002:
 
     # dc "And you, yours, [mcname]!"
     dc "Ve sen, senin [mcname]!"
+

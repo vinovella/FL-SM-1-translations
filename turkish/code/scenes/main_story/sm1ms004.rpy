@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms004.rpy:13
 translate turkish sm1ms004_9333a4a8:
 
@@ -599,3 +597,4 @@ translate turkish sm1ms004_fcf11b81:
 
     # mct "Still, I can't help feeling like I missed something really important."
     mct "Yine de, gerçekten önemli bir şeyi kaçırdığımı hissetmekten kendimi alamıyorum."
+

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:40
+﻿# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:40
 translate turkish q_inter_am_1_8056a53a:
 
     # am "This better be good."
@@ -773,3 +771,4 @@ translate turkish q_inter_am_28_1c1031d5:
 
     # am "I think you're drinking too much Liquid Bull."
     am "Sanırım fazla Liquid Bull içiyorsun."
+

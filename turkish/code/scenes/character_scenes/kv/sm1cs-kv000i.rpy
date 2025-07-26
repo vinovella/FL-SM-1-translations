@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv000i.rpy:6
 translate turkish sm1cs_kv000i_295df08f:
 
@@ -95,3 +93,4 @@ translate turkish sm1cs_kv000i_5e8db609:
 
     # sy "Right!"
     sy "Doğru!"
+

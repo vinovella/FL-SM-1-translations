@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms013.rpy:17
 translate turkish sm1ms013_79b3425d:
 
@@ -1259,3 +1257,4 @@ translate turkish sm1ms013_3ef7b9e6:
 
     # mc "For better or worse."
     mc "İyi günde, kötü günde."
+

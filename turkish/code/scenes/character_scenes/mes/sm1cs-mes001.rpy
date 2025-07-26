@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:28
 translate turkish sm1cs_mes001_aafb1345:
 
@@ -1049,3 +1047,4 @@ translate turkish sm1cs_mes001_927c1195:
 
     # mc "Cool, it's a deal then."
     mc "Tamam, anlaştık o zaman."
+

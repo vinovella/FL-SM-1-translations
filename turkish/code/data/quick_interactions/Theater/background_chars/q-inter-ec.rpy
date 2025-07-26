@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:19
+﻿# game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:19
 translate turkish q_inter_ec_1_b7c02df1:
 
     # mc "Hey Eileen."
@@ -197,3 +195,4 @@ translate turkish q_inter_ec_7_bc229872:
 
     # ec "Exactly."
     ec "Aynen öyle."
+

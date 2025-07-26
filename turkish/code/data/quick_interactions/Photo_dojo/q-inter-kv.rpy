@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:16
+﻿# game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:16
 translate turkish q_inter_kv_1_731787ec:
 
     # kv "Hey [mcname]!"
@@ -83,3 +81,4 @@ translate turkish q_inter_kv_4_08e5f9ce:
 
     # kv "Oh, you know it will be."
     kv "Ah, bunun eğlenceli olacağını biliyorsun."
+

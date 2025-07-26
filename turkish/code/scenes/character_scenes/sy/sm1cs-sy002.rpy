@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:42
 translate turkish sm1cs_sy002_899a5465:
 
@@ -1253,3 +1251,4 @@ translate turkish sm1cs_sy002_dc_talk_074ea2e5:
 
     # mc "Alright, we'll see. But next time, let's plan our park adventure a bit better."
     mc "Tamam, göreceğiz. Ama bir dahaki sefere park maceramızı biraz daha iyi planlayalım."
+

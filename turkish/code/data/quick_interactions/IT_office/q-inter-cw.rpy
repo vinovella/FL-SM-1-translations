@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:23
+﻿# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:23
 translate turkish q_inter_cw_1_42ce3580:
 
     # cw "[mcname], how are you settling in?"
@@ -293,3 +291,4 @@ translate turkish q_inter_cw_11_75ec40bb:
 
     # mc "Message recieved."
     mc "Mesaj alındı."
+

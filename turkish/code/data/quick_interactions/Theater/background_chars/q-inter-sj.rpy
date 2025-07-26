@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Theater/background_chars/q-inter-sj.rpy:15
+﻿# game/code/data/quick_interactions/Theater/background_chars/q-inter-sj.rpy:15
 translate turkish q_inter_sj_1_638dccc8:
 
     # mc "Hello Sue."
@@ -167,3 +165,4 @@ translate turkish q_inter_sj_3_8181169c:
 
     # sj "Not at all. If I ever end up working on movies, I'm sure I'll be dealing with people who make Denise look like a soft little kitty."
     sj "Hiç de değil. Bir gün film sektöründe çalışırsam, Denise’i uysal bir kedicik gibi gösterecek insanlarla uğraşmam gerekecek eminim."
+

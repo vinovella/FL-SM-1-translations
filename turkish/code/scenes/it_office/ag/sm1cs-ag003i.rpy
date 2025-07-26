@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/it_office/ag/sm1cs-ag003i.rpy:6
+﻿# game/code/scenes/it_office/ag/sm1cs-ag003i.rpy:6
 translate turkish sm1cs_ag003i_65996694:
 
     # cw "What can I do for you, [mcname]?"

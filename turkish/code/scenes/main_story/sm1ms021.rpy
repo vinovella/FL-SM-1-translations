@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms021.rpy:10
 translate turkish sm1ms021_754884af:
 
@@ -647,3 +645,4 @@ translate turkish sm1ms021_3829caaa:
 
     # sy "For the dream! Hehehe!"
     sy "Rüya için! Hehehe!"
+

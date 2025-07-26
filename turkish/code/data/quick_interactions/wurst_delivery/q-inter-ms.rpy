@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:56
+﻿# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:56
 translate turkish q_inter_ms_1_dff5569e:
 
     # mc "Hi!"
@@ -851,3 +849,4 @@ translate turkish q_inter_ms_45_a957599b:
 
     # ms "Maybe I'm on my first step to becomming one."
     ms "Belki de ben de ilk adımımı atmışımdır."
+

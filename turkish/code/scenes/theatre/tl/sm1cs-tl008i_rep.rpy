@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/tl/sm1cs-tl008i_rep.rpy:8
 translate turkish sm1cs_tl008_repeatablesexscene_25c53558:
 

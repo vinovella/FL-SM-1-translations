@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms012.rpy:11
 translate turkish sm1ms012_a6339388:
 
@@ -737,3 +735,4 @@ translate turkish sm1ms012_3dd4b3d3:
 
     # sy "Have a good day, [mcname]!"
     sy "İyi günler, [mcname]!"
+

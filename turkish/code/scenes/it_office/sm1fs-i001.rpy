@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/sm1fs-i001.rpy:24
 translate turkish sm1fs_i001_156d6c31:
 
@@ -627,3 +625,4 @@ translate turkish strings:
     # game/code/scenes/it_office/sm1fs-i001.rpy:147
     old "Cars"
     new "Arabalar"
+

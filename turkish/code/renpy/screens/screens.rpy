@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/renpy/screens/screens.rpy:19
     old "Start from release 2"
@@ -293,3 +291,4 @@ translate turkish strings:
     # game/code/renpy/screens/screens.rpy:908
     old "Skipping"
     new "Atlanıyor"
+

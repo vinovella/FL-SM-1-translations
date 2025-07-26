@@ -1048,12 +1048,6 @@ translate spanish sm1cs_km004_stage_5ee5358c:
     # vs "Oh right."
     vs "Oh, claro."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:662
-translate spanish sm1cs_km004_stage_70c6272e:
-
-    # vs "What's Montague? It is nor hand nor foot,"
-    vs "¿Qué es Montague? No es ni mano ni pie,"
-
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:665
 translate spanish sm1cs_km004_stage_ca93a884:
 

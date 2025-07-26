@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:10
 translate turkish sm1cs_cw003_414e9eda:
 
@@ -471,3 +469,4 @@ translate turkish strings:
     # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:159
     old "Excited"
     new "Heyecanlı"
+

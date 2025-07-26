@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms002.rpy:20
 translate turkish sm1ms002_809091fc:
 
@@ -249,3 +247,4 @@ translate turkish strings:
     # game/code/scenes/main_story/sm1ms002.rpy:74
     old "Start job in Theater"
     new "Tiyatroda işe başla"
+

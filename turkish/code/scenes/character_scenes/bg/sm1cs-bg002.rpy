@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:50
 translate turkish sm1cs_bg002_d141f335:
 
@@ -1581,3 +1579,4 @@ translate turkish strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:727
     old "I think I'm good"
     new "Sanırım iyiyim."
+

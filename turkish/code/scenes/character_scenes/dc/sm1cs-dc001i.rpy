@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc001i.rpy:6
 translate turkish sm1cs_dc001i_25408090:
 
@@ -47,3 +45,4 @@ translate turkish sm1cs_dc001i_2a67fcb3:
 
     # mc "I'll keep that in mind."
     mc "Bunu aklımda tutacağım."
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms002_t.rpy:6
 translate turkish sm1ms002_t_c63a2fb4:
 
@@ -245,3 +243,4 @@ translate turkish sm1ms002_t_cf627fba:
 
     # mc "I'll let you know when we can go."
     mc "Ne zaman gidebileceğimizi sana haber vereceğim."
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:16
 translate turkish sm1cs_ns010_4bbac841:
 
@@ -821,3 +819,4 @@ translate turkish sm1cs_ns010_adef7f9e:
 
     # mc "Yeah. Me too."
     mc "Evet. Ben de."
+

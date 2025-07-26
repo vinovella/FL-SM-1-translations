@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:61
 translate turkish sm1cs_tl008_ef0bd817:
 
@@ -1127,5 +1125,4 @@ translate turkish strings:
     # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:451
     old "Cum in Taisia's ass"
     new "Taisia'nın kıçına boşal"
-
 

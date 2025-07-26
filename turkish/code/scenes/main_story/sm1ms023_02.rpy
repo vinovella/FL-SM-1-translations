@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms023_02.rpy:14
 translate turkish sm1ms023_02_64956fcf:
 
@@ -389,3 +387,4 @@ translate turkish sm1ms023_02_06e815d3:
 
     # mc "See you, Stacy."
     mc "Görüşürüz, Stacy."
+

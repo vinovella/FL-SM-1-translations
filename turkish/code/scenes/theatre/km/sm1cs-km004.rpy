@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:31
 translate turkish sm1cs_km004_783cf0f3:
 
@@ -1049,12 +1047,6 @@ translate turkish sm1cs_km004_stage_5ee5358c:
 
     # vs "Oh right."
     vs "Ah doğru."
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:662
-translate turkish sm1cs_km004_stage_70c6272e:
-
-    # vs "What's Montague? It is nor hand nor foot,"
-    vs "Montague nedir? Ne el ne de ayaktır,"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:665
 translate turkish sm1cs_km004_stage_ca93a884:

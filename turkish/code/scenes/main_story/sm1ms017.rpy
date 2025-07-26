@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms017.rpy:59
 translate turkish sm1ms017_b373b940:
 
@@ -683,3 +681,4 @@ translate turkish sm1ms017_end_298609cd:
 
     # my "Your focus is very impressive for some millennials."
     my "Bazı milenyum kuşağı için odaklanmanız oldukça etkileyici."
+

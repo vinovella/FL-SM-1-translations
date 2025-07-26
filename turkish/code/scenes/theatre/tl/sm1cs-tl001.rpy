@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:17
 translate turkish sm1cs_tl001_2bc398af:
 
@@ -605,3 +603,4 @@ translate turkish sm1cs_tl001_757c4db5:
 
     # mc "What would I do without you?"
     mc "Sensiz ne yapardım?"
+

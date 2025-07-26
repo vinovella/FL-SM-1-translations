@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/theatre/sm1fs-t004i.rpy:6
+﻿# game/code/scenes/theatre/sm1fs-t004i.rpy:6
 translate turkish sm1fs_t004i_ce31906a:
 
     # mc "Hey, Denise-"

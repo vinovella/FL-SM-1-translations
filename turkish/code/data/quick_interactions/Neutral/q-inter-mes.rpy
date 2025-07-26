@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:20
+﻿# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:20
 translate turkish q_inter_mes_1_c9159ee9:
 
     # mes "Hey [mcname]."
@@ -161,3 +159,4 @@ translate turkish q_inter_mes_6_97110289:
 
     # mes "Well, I'm honored you chose my company as for your precious break time."
     mes "Kıymetli molanı benimle geçirmeyi seçtiğin için onur duydum."
+

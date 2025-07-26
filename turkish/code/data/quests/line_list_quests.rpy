@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Main Story"

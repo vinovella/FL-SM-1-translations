@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Invite Stacy to Amusement Park during the day"
@@ -201,3 +199,4 @@ translate turkish strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Veronica in the afternoon"
     new "Öğleden sonra Veronica ile konuş"
+

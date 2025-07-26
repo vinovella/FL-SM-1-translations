@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/main_story/sm1ms021i.rpy:6
+﻿# game/code/scenes/main_story/sm1ms021i.rpy:6
 translate turkish sm1ms021i_a774ab94:
 
     # mc "Hey Stacy."

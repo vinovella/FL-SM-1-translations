@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh004i.rpy:6
 translate turkish sm1cs_mh004i_abb38d3a:
 
@@ -77,3 +75,4 @@ translate turkish sm1cs_mh004i_db0d0c4c:
 
     # mc "I got it, I got it."
     mc "Başardım, başardım."
+

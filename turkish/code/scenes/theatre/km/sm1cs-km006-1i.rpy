@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/theatre/km/sm1cs-km006-1i.rpy:9
+﻿# game/code/scenes/theatre/km/sm1cs-km006-1i.rpy:9
 translate turkish sm1cs_km006_1i_56672025:
 
     # mc "I'm still having trouble figuring out how to talk to Kellie about you."

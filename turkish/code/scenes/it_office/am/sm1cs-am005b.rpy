@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/am/sm1cs-am005b.rpy:5
 translate turkish sm1cs_am005b_71f06d2b:
 
@@ -69,3 +67,4 @@ translate turkish strings:
     # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
     old "Nevermind."
     new "Boş ver."
+

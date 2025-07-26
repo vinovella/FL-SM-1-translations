@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:77
 translate turkish sm1cs_sy003_bar_start_9e9ec5a0:
 
@@ -977,3 +975,4 @@ translate turkish sm1cs_sy003_end_e277e827:
 
     # mc "Goodnight, Stacy."
     mc "İyi geceler, Stacy."
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms016.rpy:12
 translate turkish sm1ms016_636ed9f0:
 
@@ -887,3 +885,4 @@ translate turkish sm1ms016_7c52fcb9:
 
     # sy "Just a little paint."
     sy "Sadece biraz boya."
+

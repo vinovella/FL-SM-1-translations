@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:6
 translate turkish sm1cs_km001i_0a710bfb:
 
@@ -71,3 +69,4 @@ translate turkish sm1cs_km001i_46e19a95:
 
     # km "Meet me on stage. Duh."
     km "Sahnede buluşalım. Elbette."
+

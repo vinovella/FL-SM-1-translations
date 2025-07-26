@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms011_t.rpy:5
 translate turkish sm1ms011_t_666126d7:
 
@@ -341,3 +339,4 @@ translate turkish sm1ms011_t_7a002c3d:
 
     # sy "Someone has to keep you on track."
     sy "Birisinin seni yolda tutması lazım."
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh003_01i.rpy:16
 translate turkish sm1cs_mh003_1i_ba63aef7:
 
@@ -143,3 +141,4 @@ translate turkish sm1cs_mh003_1i_39937a5b:
 
     # mc "Yeah! I'll see you later!"
     mc "Evet! Sonra görüşürüz!"
+

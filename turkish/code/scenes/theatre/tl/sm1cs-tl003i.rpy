@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/theatre/tl/sm1cs-tl003i.rpy:6
+﻿# game/code/scenes/theatre/tl/sm1cs-tl003i.rpy:6
 translate turkish sm1cs_tl003i_2cdfea33:
 
     # tl "'Sup, [mcname]? You make any progress with the film?"

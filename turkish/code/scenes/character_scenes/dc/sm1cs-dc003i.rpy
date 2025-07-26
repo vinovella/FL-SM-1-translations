@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc003i.rpy:6
 translate turkish sm1cs_dc003i_d81c4b26:
 
@@ -59,3 +57,4 @@ translate turkish sm1cs_dc003i_ffe6b805:
 
     # mc "Sounds awesome, lead the way."
     mc "Harika görünüyor, öncülük et."
+

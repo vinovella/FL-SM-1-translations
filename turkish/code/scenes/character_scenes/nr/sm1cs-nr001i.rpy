@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/character_scenes/nr/sm1cs-nr001i.rpy:6
+﻿# game/code/scenes/character_scenes/nr/sm1cs-nr001i.rpy:6
 translate turkish sm1cs_nr001i_6c46623c:
 
     # nr "Welcome to Wurst Delivery. How many sausages you need, son?"

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:17
+﻿# game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:17
 translate turkish q_inter_pm_1_3cdd7f56:
 
     # pm "[mcname]! How are things going over on Anna's team?"
@@ -113,3 +111,4 @@ translate turkish q_inter_pm_5_414611e9:
 
     # pm "Well, if she's any good at stocks, definitely get your tips from her. Not me."
     pm "Eğer hisse senetleri konusunda iyiyse, ipuçlarını kesinlikle ondan al. Benden değil."
+

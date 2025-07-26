@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/IT_office/q-inter-sr.rpy:17
+﻿# game/code/data/quick_interactions/IT_office/q-inter-sr.rpy:17
 translate turkish q_inter_sr_1_9ef63a3e:
 
     # sr "[mcname], you're not downloading music on your computer, are you?"
@@ -113,3 +111,4 @@ translate turkish q_inter_sr_5_031e8a5d:
 
     # sr "If you get a chance, you should check out A Castle of Thistles and Orchids. Real good."
     sr "Fırsat bulursanız A Castle of Thistles and Orchids'i mutlaka izlemelisiniz. Gerçekten çok iyi."
+

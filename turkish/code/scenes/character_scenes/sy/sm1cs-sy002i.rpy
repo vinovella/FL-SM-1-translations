@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:10
 translate turkish sm1cs_sy002i_adb292dd:
 
@@ -161,3 +159,4 @@ translate turkish sm1cs_sy002i_first_time_fe6569c6:
 
     # mct "Oh boy... here we go."
     mct "Aman Tanrım... işte başlıyoruz."
+

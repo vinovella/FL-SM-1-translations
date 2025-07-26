@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg002i.rpy:6
 translate turkish sm1cs_bg002i_e941dad8:
 
@@ -29,3 +27,4 @@ translate turkish sm1cs_bg002i_57e6958c:
 
     # bg "Oh - there she is. You can ask her yourself."
     bg "Ah - işte orada. Ona kendin sorabilirsin."
+

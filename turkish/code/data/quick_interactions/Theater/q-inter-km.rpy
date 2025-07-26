@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Theater/q-inter-km.rpy:30
+﻿# game/code/data/quick_interactions/Theater/q-inter-km.rpy:30
 translate turkish q_inter_km_1_3836c925:
 
     # km "I hope you are going to work hard around here. The theater isn't the place for people who slack off or get distracted."
@@ -161,3 +159,4 @@ translate turkish q_inter_km_11_1342fee4:
 
     # km "Hey..."
     km "Selam..."
+

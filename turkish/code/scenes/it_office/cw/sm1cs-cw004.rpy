@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:32
 translate turkish sm1cs_cw004_f7cb7133:
 
@@ -209,42 +207,6 @@ translate turkish sm1cs_cw004_a986643f:
 
     # cw "*quietly* You can leave now."
     cw "*sessizce* Artık gidebilirsin."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:119
-translate turkish sm1cs_cw004_ae9263f5:
-
-    # mc "As long as you think this is a good idea."
-    mc "Bunun iyi bir fikir olduğunu düşündüğün sürece."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:122
-translate turkish sm1cs_cw004_753a8f9e:
-
-    # cw "Thank you, [mcname]. I mean..."
-    cw "Teşekkür ederim, [mcname]. Yani..."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:125
-translate turkish sm1cs_cw004_add432cd:
-
-    # cw "*ahem* Mr. Young."
-    cw "*öhö* Bay Young."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:126
-translate turkish sm1cs_cw004_6f8832f9:
-
-    # cw "And I'm sure it will be fine. We're both capable."
-    cw "Ve eminim ki iyi olacak. İkimiz de bunu başarabiliriz."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:130
-translate turkish sm1cs_cw004_14b1d440:
-
-    # cw "I will text you instructions tomorrow morning."
-    cw "Yarın sabah sana talimatları mesaj olarak atacağım."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:131
-translate turkish sm1cs_cw004_2a3fe990:
-
-    # cw "And for the love of god, don't be late."
-    cw "Ve Tanrı aşkına, geç kalmayın."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:158
 translate turkish sm1cs_cw004_docks_104170a7:

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms009.rpy:108
 translate turkish sm1ms009_99dd1116:
 
@@ -2805,3 +2803,4 @@ translate turkish strings:
     # game/code/scenes/main_story/sm1ms009.rpy:936
     old "Just, give me a second and I'll be ready"
     new "Sadece bir saniye bekleyin, hemen hazır olurum."
+

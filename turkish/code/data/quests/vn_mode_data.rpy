@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Movie night with Stacy"
@@ -569,3 +567,4 @@ translate turkish strings:
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Renovation help from Debbie"
     new "Yenileme için Debbie'den yardım al"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:6
 translate turkish sm1cs_ns010i_a752e663:
 
@@ -281,3 +279,4 @@ translate turkish sm1cs_ns010i_182f064b:
 
     # sy "Hehehe. That's good to hear."
     sy "Hehehe. Bunu duymak güzel."
+

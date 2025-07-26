@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Theater/q-inter-dvh.rpy:18
+﻿# game/code/data/quick_interactions/Theater/q-inter-dvh.rpy:18
 translate turkish q_inter_dvh_1_b5ff2aaa:
 
     # dvh "Yes?"
@@ -101,3 +99,4 @@ translate turkish q_inter_dvh_6_1bda6376:
 
     # dvh "Ask. Bruce."
     dvh "Bruce'a. Sor."
+

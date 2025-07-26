@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh006i.rpy:7
+﻿# game/code/scenes/character_scenes/mh/sm1cs-mh006i.rpy:7
 translate turkish sm1cs_mh006i_963c7d6f:
 
     # mc "Hey, Lyssa."

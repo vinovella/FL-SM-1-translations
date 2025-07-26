@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/theatre/tl/sm1cs-tl006i.rpy:6
+﻿# game/code/scenes/theatre/tl/sm1cs-tl006i.rpy:6
 translate turkish sm1cs_tl006i_5ab49ba4:
 
     # mc "So there's something I want to talk to you about."

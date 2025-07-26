@@ -1048,12 +1048,6 @@ translate chinese sm1cs_km004_stage_5ee5358c:
     # vs "Oh right."
     vs "哦，对。"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:662
-translate chinese sm1cs_km004_stage_70c6272e:
-
-    # vs "What's Montague? It is nor hand nor foot,"
-    vs "蒙塔古是什么？它既不是手，也不是脚。"
-
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:665
 translate chinese sm1cs_km004_stage_ca93a884:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh001i.rpy:6
 translate turkish sm1cs_mh001i_e526a903:
 
@@ -107,3 +105,4 @@ translate turkish sm1cs_mh001i_f67bb696:
 
     # sy "Great. We should go to her office Monday morning."
     sy "Harika. Pazartesi sabahı ofisine gitmeliyiz."
+

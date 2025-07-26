@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/main_story/sm1ms013i.rpy:6
+﻿# game/code/scenes/main_story/sm1ms013i.rpy:6
 translate turkish sm1ms013i_5820aec4:
 
     # sy "Heyyyyyyy, [mcname]."

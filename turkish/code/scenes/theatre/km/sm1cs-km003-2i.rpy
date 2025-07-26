@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:7
 translate turkish sm1cs_km003_2i_0a710bfb:
 

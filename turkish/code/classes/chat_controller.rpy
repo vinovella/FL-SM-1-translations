@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/classes/chat_controller.rpy:193
     old "{chat_message} ({wrong_time_message})"

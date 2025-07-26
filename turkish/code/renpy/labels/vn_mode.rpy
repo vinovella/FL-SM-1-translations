@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/renpy/labels/vn_mode.rpy:12
     old "You will switch to VN Mode now\nYour progress will be carried over\n\nThis is not recomended and doing this can introduce bugs and glitches"

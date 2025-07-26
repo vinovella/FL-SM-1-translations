@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:16
+﻿# game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:16
 translate turkish q_inter_mj_1_980ce44b:
 
     # mj "[mcname], are participating in this bet on who will have less errors, Anna or April?"
@@ -95,3 +93,4 @@ translate turkish q_inter_mj_4_fe961654:
 
     # mj "Drats. I was hoping you would..."
     mj "Tüh. Bileceğini ummuştum..."
+

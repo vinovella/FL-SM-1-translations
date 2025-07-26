@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Theater/background_chars/q-inter-kw.rpy:16
+﻿# game/code/data/quick_interactions/Theater/background_chars/q-inter-kw.rpy:16
 translate turkish q_inter_kw_1_a3562a96:
 
     # mc "Hello Kai."
@@ -173,3 +171,4 @@ translate turkish q_inter_kw_4_a49ed4f8:
 
     # mc "Okay."
     mc "Tamam."
+

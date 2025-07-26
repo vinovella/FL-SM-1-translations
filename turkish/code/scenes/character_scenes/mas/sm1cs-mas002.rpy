@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:11
 translate turkish sm1cs_mas002_f1a8e7e0:
 
@@ -449,3 +447,4 @@ translate turkish sm1cs_mas002_e047b1c0:
 
     # mct "That had to be it."
     mct "Bu kadar olması gerekiyordu."
+

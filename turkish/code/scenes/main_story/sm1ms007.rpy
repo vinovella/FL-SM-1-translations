@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms007.rpy:22
 translate turkish sm1ms007_20a87680:
 

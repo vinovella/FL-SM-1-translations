@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/data/chat/chat_my.rpy:3
     old "Hey, Mom. I just wanted to say thank you for all your help working on the studio"

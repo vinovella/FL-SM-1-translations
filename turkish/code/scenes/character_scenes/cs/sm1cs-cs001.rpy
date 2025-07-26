@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:9
 translate turkish sm1cs_cs001_b054e0a7:
 
@@ -203,3 +201,4 @@ translate turkish sm1cs_cs001_24cdc073:
 
     # cs "Uh huh."
     cs "Hı hı."
+

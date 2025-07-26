@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg003i.rpy:6
 translate turkish sm1cs_bg003i_f74bf0ff:
 
@@ -47,3 +45,4 @@ translate turkish sm1cs_bg003i_39d357bf:
 
     # bg "Kanya!"
     bg "O!"
+

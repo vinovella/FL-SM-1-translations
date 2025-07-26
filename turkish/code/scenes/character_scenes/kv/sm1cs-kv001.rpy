@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:25
 translate turkish sm1cs_kv001_44d82e84:
 

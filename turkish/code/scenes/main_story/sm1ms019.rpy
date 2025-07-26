@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms019.rpy:31
 translate turkish sm1ms019_356304bb:
 
@@ -1139,3 +1137,4 @@ translate turkish sm1ms019_a0cfca12:
 
     # mct "There's just no way..."
     mct "Hiçbir yolu yok..."
+

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:32
+﻿# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:32
 translate turkish q_inter_tl_1_a95cfbed:
 
     # mc "Hey, Taisia."
@@ -551,3 +549,4 @@ translate turkish q_inter_tl_21_c1dff962:
 
     # mc "Oh..."
     mc "Ah..."
+

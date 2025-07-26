@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/theatre/km/sm1cs-km004i.rpy:6
+﻿# game/code/scenes/theatre/km/sm1cs-km004i.rpy:6
 translate turkish sm1cs_km004i_5ec51e1a:
 
     # km "Great timing. I was just about to text you."

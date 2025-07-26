@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/l71_shop/q-inter-ic.rpy:20
+﻿# game/code/data/quick_interactions/l71_shop/q-inter-ic.rpy:20
 translate turkish q_inter_ic_1_4f6f359d:
 
     # ic "What can I get for you?"
@@ -101,3 +99,4 @@ translate turkish q_inter_ic_9_5963d8ca:
 
     # ic "I'll be with you in a sec."
     ic "Bir saniyeye yanında olacağım."
+

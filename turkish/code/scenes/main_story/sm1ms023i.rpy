@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/main_story/sm1ms023i.rpy:5
+﻿# game/code/scenes/main_story/sm1ms023i.rpy:5
 translate turkish sm1ms023i_37c02e61:
 
     # sy "Hey, [mcname], I need your help."

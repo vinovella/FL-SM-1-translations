@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/minigames/nonogram/nonogram_tutorial.rpy:48
     old "Your goal in these puzzles is to fill the whole grid with green and black squares.\n\nAbove and to the left of the grid are numbers. These are the indicator numbers that tell you the number of green squares in that specific row and column.\n\nExample. If the row has a '3' next to it, that means there will be a set of three green (connected) squares somewhere in that row. It is the same for columns based on the numbers at the top of the puzzle. A '2' at the top of a column means that in that column, there is a set of two green squares running vertically."

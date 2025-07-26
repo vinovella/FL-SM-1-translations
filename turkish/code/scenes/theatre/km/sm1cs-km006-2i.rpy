@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/theatre/km/sm1cs-km006-2i.rpy:10
+﻿# game/code/scenes/theatre/km/sm1cs-km006-2i.rpy:10
 translate turkish sm1cs_km006_2i_0a710bfb:
 
     # mc "Hey Kellie."

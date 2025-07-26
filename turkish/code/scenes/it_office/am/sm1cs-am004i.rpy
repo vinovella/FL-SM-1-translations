@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:6
 translate turkish sm1cs_am004i_71f06d2b:
 
@@ -87,3 +85,4 @@ translate turkish strings:
     # game/code/scenes/it_office/am/sm1cs-am004i.rpy:17
     old "On second thought, I have something I need to do"
     new "Bir daha düşündüm de, yapmam gereken bir şey var."
+

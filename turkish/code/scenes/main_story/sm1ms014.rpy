@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms014.rpy:10
 translate turkish sm1ms014_9e8594ad:
 
@@ -1065,3 +1063,4 @@ translate turkish strings:
     # game/code/scenes/main_story/sm1ms014.rpy:546
     old "You spent $300 on renovation equipment"
     new "Yenileme ekipmanlarına 300 dolar harcadınız."
+

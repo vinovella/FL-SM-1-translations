@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas001.rpy:13
 translate turkish sm1cs_mas001_32d96678:
 
@@ -225,3 +223,4 @@ translate turkish strings:
     # game/code/scenes/character_scenes/mas/sm1cs-mas001.rpy:83
     old "Just happy to help"
     new "Yardımcı olabildiğime sevindim."
+

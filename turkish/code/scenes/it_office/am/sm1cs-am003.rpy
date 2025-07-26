@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:26
+﻿# game/code/scenes/it_office/am/sm1cs-am003.rpy:26
 translate turkish sm1cs_am003_60929dc7:
 
     # mc "I emailed you earlier, saying I would meet you here."

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:13
 translate turkish sm1cs_tl007_9de07441:
 
@@ -851,3 +849,4 @@ translate turkish sm1cs_tl007_a27e233e:
 
     # mct "Stacy, Stacy, Stacy... what would I do without you?"
     mct "Stacy, Stacy, Stacy... sensiz ne yaparım?"
+

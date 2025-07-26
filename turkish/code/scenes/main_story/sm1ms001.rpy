@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms001.rpy:27
 translate turkish sm1ms001_943ad8f6:
 
@@ -533,3 +531,4 @@ translate turkish name_done_62a7465e:
 
     # sy "And now you're a delivery boy. Go make us some money!"
     sy "Ve şimdi bir kurye oldun. Git de bize biraz para kazandır!"
+

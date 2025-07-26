@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy003i.rpy:6
 translate turkish sm1cs_sy003i_d2aaf6c7:
 
@@ -69,3 +67,4 @@ translate turkish strings:
     # game/code/scenes/character_scenes/sy/sm1cs-sy003i.rpy:13
     old "Just sleep"
     new "Sadece Uyu"
+

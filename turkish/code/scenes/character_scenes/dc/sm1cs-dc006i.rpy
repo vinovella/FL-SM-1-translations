@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:6
 translate turkish sm1cs_dc006i_5391c6fe:
 
@@ -47,3 +45,4 @@ translate turkish sm1cs_dc006i_4456cb4d:
 
     # mct "Uh oh... she doesn't look too happy about it. I hope everything's okay."
     mct "Uh oh... bundan pek memnun görünmüyor. Umarım her şey yolundadır."
+

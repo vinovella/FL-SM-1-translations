@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:42
 translate turkish sm1cs_mh007_f8e54e42:
 
@@ -1071,3 +1069,4 @@ translate turkish strings:
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:392
     old "I don't know... I think I'm good for now"
     new "Bilmiyorum... Şimdilik iyiyim sanırım."
+

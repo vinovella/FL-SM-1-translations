@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/main_story/sm1ms011.rpy:23
+﻿# game/code/scenes/main_story/sm1ms011.rpy:23
 translate turkish sm1ms011_2634197c:
 
     # sy "What's up?"

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:30
+﻿# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:30
 translate turkish q_inter_nr_1_6155afa5:
 
     # nr "Working hard or hardly working?"
@@ -197,3 +195,4 @@ translate turkish q_inter_nr_18_636f1bcd:
 
     # nr "Don't ask how it's made. Just eat it."
     nr "Nasıl yapıldığını sorma. Sadece ye."
+

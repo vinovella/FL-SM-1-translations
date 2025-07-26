@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/main_story/sm1ms009_01i.rpy:6
+﻿# game/code/scenes/main_story/sm1ms009_01i.rpy:6
 translate turkish sm1ms009_01i_0fbb08f7:
 
     # sy "Sweet! Kanya said she could be here in like an hour!"

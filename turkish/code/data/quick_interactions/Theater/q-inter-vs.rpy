@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:24
+﻿# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:24
 translate turkish q_inter_vs_1_f4a222ef:
 
     # mc "Hey, Veronica!"
@@ -263,3 +261,4 @@ translate turkish q_inter_vs_11_cd1b3d42:
 
     # vs "Bubblegum likes gum, but I think she likes your cum better. *giggles*"
     vs "Bubblegum sakızı seviyor ama bence senin spermini daha çok seviyor. *kıkırdar*"
+

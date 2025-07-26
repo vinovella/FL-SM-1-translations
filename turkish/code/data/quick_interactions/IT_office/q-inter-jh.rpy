@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:18
+﻿# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:18
 translate turkish q_inter_jh_1_628f35cc:
 
     # mc "Hey, Jayden."
@@ -131,3 +129,4 @@ translate turkish q_inter_jh_5_0b36c9e9:
 
     # jh "A Castle of Thistle and Orchids. Anna turned me on to them."
     jh "A Castle of Thistle and Orchids. Anna bana önerdi."
+

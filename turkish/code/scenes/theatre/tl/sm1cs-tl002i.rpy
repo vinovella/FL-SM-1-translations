@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/theatre/tl/sm1cs-tl002i.rpy:6
 translate turkish sm1cs_tl002i_eb68a649:
 
@@ -119,3 +117,4 @@ translate turkish sm1cs_tl002i_25dc7429:
 
     # tl "Kinky, I like it. Let's go."
     tl "Sapık, hoşuma gitti. Hadi gidelim."
+

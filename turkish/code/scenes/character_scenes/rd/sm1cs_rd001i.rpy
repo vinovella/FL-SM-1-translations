@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/character_scenes/rd/sm1cs_rd001i.rpy:6
+﻿# game/code/scenes/character_scenes/rd/sm1cs_rd001i.rpy:6
 translate turkish sm1cs_rd001i_d5f403ec:
 
     # rd "Hi I'm Ridley. Welcome to Guns and Rosettes."

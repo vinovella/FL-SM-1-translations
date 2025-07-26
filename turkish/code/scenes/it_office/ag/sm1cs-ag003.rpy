@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:16
 translate turkish sm1cs_ag003_143c6865:
 
@@ -815,3 +813,4 @@ translate turkish sm1cs_ag003_353fb300:
 
     # mct "In the meantime... I wonder what the hot recluse is going to do now that he's seen Magnolia fingering herself..."
     mct "Bu arada... Magnolia'nın kendisini parmakladığını gören ateşli münzevi şimdi ne yapacak acaba..."
+

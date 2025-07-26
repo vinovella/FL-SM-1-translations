@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:21
 translate turkish sm1cs_dc008_6e54e9df:
 
@@ -1037,3 +1035,4 @@ translate turkish sm1cs_dc008_02776fbe:
 
     # mct "Hopefully..."
     mct "Umarım..."
+

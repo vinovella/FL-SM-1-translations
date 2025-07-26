@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:33
 translate turkish sm1cs_bg003_52204566:
 
@@ -1979,3 +1977,4 @@ translate turkish strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:750
     old "Please enter your BDSM nickname"
     new "Lütfen BDSM takma adınızı girin"
+

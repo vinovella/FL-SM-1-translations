@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:20
+﻿# game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:20
 translate turkish q_inter_rd_1_f379a2bb:
 
     # rd "What can I get you?"
@@ -83,3 +81,4 @@ translate turkish q_inter_rd_6_1203e51e:
 
     # mc "Ridley."
     mc "Ridley."
+

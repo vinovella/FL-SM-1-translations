@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh003i.rpy:6
+﻿# game/code/scenes/character_scenes/mh/sm1cs-mh003i.rpy:6
 translate turkish sm1cs_mh003i_3ca27941:
 
     # mc "Hey, you heard anything from Lyssa?"

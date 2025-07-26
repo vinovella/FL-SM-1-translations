@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms018.rpy:27
 translate turkish sm1ms018_64a2a45c:
 
@@ -755,3 +753,4 @@ translate turkish sm1ms018_backstage_c9a5ec06:
 
     # mc "I'll walk us out."
     mc "Bizi dışarıya kadar yürüteyim."
+

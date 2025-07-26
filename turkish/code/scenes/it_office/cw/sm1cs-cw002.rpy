@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:10
 translate turkish sm1cs_cw002_31eb2180:
 
@@ -243,3 +241,4 @@ translate turkish strings:
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I don't like it."
     new "Hoşuma gitmiyor."
+

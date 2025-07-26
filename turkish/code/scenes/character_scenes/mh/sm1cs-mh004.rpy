@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:25
 translate turkish sm1cs_mh004_fdf1cbec:
 
@@ -545,3 +543,4 @@ translate turkish sm1cs_mh004_flashback_aaf83c3e:
 
     # mct "Now I just need to figure out how the hell I'm going to top that."
     mct "Şimdi tek yapmam gereken bunu nasıl aşacağımı bulmak."
+

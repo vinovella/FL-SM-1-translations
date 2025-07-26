@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Starducks/q-inter-cs.rpy:18
+﻿# game/code/data/quick_interactions/Starducks/q-inter-cs.rpy:18
 translate turkish q_inter_cs_1_77a255db:
 
     # cs "Hi, welcome to Starducks. Where we don't purposefully burn the beans."
@@ -119,3 +117,4 @@ translate turkish q_inter_cs_6_8e269306:
 
     # cs "Need... Coffee..."
     cs "Kahve... Lazım..."
+

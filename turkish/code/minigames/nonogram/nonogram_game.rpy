@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/minigames/nonogram/nonogram_game.rpy:57
     old "Show Minigame help"

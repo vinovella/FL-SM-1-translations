@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:49
+﻿# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:49
 translate turkish q_inter_ns_1_50c97503:
 
     # ns "Hello [mcname]."
@@ -983,3 +981,4 @@ translate turkish q_inter_ns_37_0bc7a040:
 
     # ns "*giggles* Yeah."
     ns "*kıkırdar* Evet."
+

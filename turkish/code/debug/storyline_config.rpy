@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/debug/storyline_config.rpy:67
     old "Please enter your name. (Default - Mike)"

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/ns/sm1cs-ns007i.rpy:6
 translate turkish sm1cs_ns007i_f9d62f94:
 
@@ -113,3 +111,4 @@ translate turkish sm1cs_ns007i_65702a88:
 
     # ns "Thanks, [mcname]."
     ns "Teşekkürler, [mcname]."
+

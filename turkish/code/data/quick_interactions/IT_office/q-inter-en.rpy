@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/IT_office/q-inter-en.rpy:17
+﻿# game/code/data/quick_interactions/IT_office/q-inter-en.rpy:17
 translate turkish q_inter_en_1_8c561be0:
 
     # mc "Hey, Eugene-"
@@ -119,3 +117,4 @@ translate turkish q_inter_en_5_f6cd2d50:
 
     # en "Yes. It means people listen."
     en "Evet. İnsanlar dinliyor demektir."
+

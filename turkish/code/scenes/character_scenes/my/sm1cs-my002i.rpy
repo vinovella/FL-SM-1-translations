@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/character_scenes/my/sm1cs-my002i.rpy:7
+﻿# game/code/scenes/character_scenes/my/sm1cs-my002i.rpy:7
 translate turkish sm1cs_my002i_ad770c80:
 
     # sy "How'd your date with Mom go!"

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh002-00i.rpy:6
+﻿# game/code/scenes/character_scenes/mh/sm1cs-mh002-00i.rpy:6
 translate turkish sm1cs_mh002_00i_d44d5c85:
 
     # mc "Hey Stacy. Ready to go to Lyssa's office?"

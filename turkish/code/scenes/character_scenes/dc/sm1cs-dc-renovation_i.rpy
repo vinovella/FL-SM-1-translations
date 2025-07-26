@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation_i.rpy:6
 translate turkish sm1cs_dc_renovation_i_4af35993:
 
@@ -83,3 +81,4 @@ translate turkish sm1cs_dc_renovation_i_8013214b:
 
     # mc "Sounds great! Here's the address!"
     mc "Harika görünüyor! İşte adres!"
+

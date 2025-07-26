@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 translate turkish strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
@@ -377,3 +375,4 @@ translate turkish strings:
     # game/code/data/quests/quests_neutral.rpy:4
     old "Meet Ridley"
     new "Ridley ile tanış"
+

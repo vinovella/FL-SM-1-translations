@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms006.rpy:27
 translate turkish sm1ms006_47476c7b:
 
@@ -695,3 +693,4 @@ translate turkish sm1ms006_061f6f43:
 
     # sy "*giggles* Little old me? Distracting? Never."
     sy "*kıkırdar* Küçük ben? Dikkat dağıtıyor mu? Asla."
+

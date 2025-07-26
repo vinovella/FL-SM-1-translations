@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:29
 translate turkish q_inter_ag_1_3d682e9c:
 
@@ -305,3 +303,4 @@ translate turkish q_inter_ag_18_b714cbc4:
 
     # ag "Oh, erm... yep. Just until I finish this, erm, other project."
     ag "Ah, şey... evet. Şu diğer projeyi bitirene kadar."
+

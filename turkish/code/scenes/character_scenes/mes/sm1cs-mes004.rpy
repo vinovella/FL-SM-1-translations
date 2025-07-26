@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:14
 translate turkish sm1cs_mes004_bffc23cf:
 

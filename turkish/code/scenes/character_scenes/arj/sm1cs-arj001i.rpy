@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/character_scenes/arj/sm1cs-arj001i.rpy:6
+﻿# game/code/scenes/character_scenes/arj/sm1cs-arj001i.rpy:6
 translate turkish sm1cs_arj001i_22cd1cce:
 
     # sy "So... about that flash drive..."
@@ -107,3 +105,4 @@ translate turkish sm1cs_arj001i_87add3f5:
 
     # mc "Not a problem."
     mc "Sorun değil."
+

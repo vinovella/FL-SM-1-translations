@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:44
+﻿# game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:44
 translate turkish q_inter_sy_1_39a36168:
 
     # sy "Hey stud. You're looking good for Stacy today."
@@ -389,3 +387,4 @@ translate turkish q_inter_sy_32_3359e9ff:
 
     # mc "Damn straight."
     mc "Kesinlikle öyle."
+

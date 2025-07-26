@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy001i.rpy:6
 translate turkish sm1cs_sy001i_rent_penalty_e526a903:
 
@@ -95,3 +93,4 @@ translate turkish sm1cs_sy001i_rent_penalty_f800bed0:
 
     # mc "Yes."
     mc "Evet."
+

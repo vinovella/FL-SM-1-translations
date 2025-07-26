@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms011-02i.rpy:7
 translate turkish sm1ms011_02i_6b3597b1:
 
@@ -305,3 +303,4 @@ translate turkish sm1ms011_02i_e0d93906:
 
     # mc "That's the plan."
     mc "Plan bu."
+

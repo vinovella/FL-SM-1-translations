@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:22
+﻿# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:22
 translate turkish q_inter_my_1_3f300aea:
 
     # my "So, have you thought any more about college?"
@@ -293,3 +291,4 @@ translate turkish q_inter_my_10_ccd0c639:
 
     # my "I'm looking forward to going again."
     my "Tekrar gitmeyi dört gözle bekliyorum."
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:57
 translate turkish sm1cs_bg004_f7ac6284:
 
@@ -1571,3 +1569,4 @@ translate turkish sm1cs_bg004_anal_41c02abb:
 
     # mct "But, she's right. I should probably get dressed..."
     mct "Ama haklı. Sanırım giyinmeliyim..."
+

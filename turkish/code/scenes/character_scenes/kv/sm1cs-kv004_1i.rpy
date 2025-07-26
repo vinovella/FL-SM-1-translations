@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004_1i.rpy:8
 translate turkish sm1cs_kv004_1i_228b8fe7:
 
@@ -95,3 +93,4 @@ translate turkish sm1cs_kv004_1i_977893b5:
 
     # kv "Hell yeah I do, let's do it!"
     kv "Elbette yaparım, hadi yapalım!"
+

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/main_story/sm1ms008_01i.rpy:6
+﻿# game/code/scenes/main_story/sm1ms008_01i.rpy:6
 translate turkish sm1ms008_01i_a11a021b:
 
     # sy "Good news, [mcname]. The red wig came in today."

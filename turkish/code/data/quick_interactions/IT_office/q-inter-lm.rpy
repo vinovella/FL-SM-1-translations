@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:17
+﻿# game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:17
 translate turkish q_inter_lm_1_8fb45fc8:
 
     # lm "Can you do me a favor?"

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms024.rpy:26
 translate turkish sm1ms024_3bccd882:
 
@@ -839,3 +837,4 @@ translate turkish sm1ms024_72133c5b:
 
     # mct "This is exciting.{w} Terrifying. Wonderful... I can't wait to get started."
     mct "Bu heyecan verici.{w} Korkutucu. Harika... Başlamak için sabırsızlanıyorum."
+

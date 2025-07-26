@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv-renovation.rpy:9
 translate turkish sm1cs_kv_renovation_443c8e43:
 
@@ -419,3 +417,4 @@ translate turkish sm1cs_kv_renovation_at_studio_ee2d3543:
 
     # kv "Until next time."
     kv "Bir dahaki sefere kadar."
+

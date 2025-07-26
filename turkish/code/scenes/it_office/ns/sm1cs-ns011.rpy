@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:21
+﻿# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:21
 translate turkish sm1cs_ns011_140b4a85:
 
     # mc "This is you."

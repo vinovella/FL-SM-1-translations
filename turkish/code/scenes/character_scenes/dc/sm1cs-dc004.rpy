@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:6
 translate turkish sm1cs_dc004_f85e2029:
 
@@ -83,3 +81,4 @@ translate turkish sm1cs_dc004_404eabfc:
 
     # mct "I guess all I can do is try and talk to her later..."
     mct "Sanırım yapabileceğim tek şey onunla daha sonra konuşmaya çalışmak..."
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:18
 translate turkish sm1cs_my001_9b7ea265:
 
@@ -1353,3 +1351,4 @@ translate turkish strings:
     # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:682
     old "You paid $200 as restaurant bill"
     new "Restoran hesabı olarak 200 dolar ödediniz"
+

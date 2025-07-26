@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-translate turkish strings:
+﻿translate turkish strings:
 
     # game/code/data/chat/chat_dc.rpy:3
     old "Hey, [mcname!i]! I just wanted to say that I'm really happy I finally told you everything, and I am really excited for that future date! 😜"

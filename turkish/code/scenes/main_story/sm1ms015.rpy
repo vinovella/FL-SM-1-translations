@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms015.rpy:15
 translate turkish sm1ms015_8bffd48a:
 
@@ -905,3 +903,4 @@ translate turkish sm1ms015_894728ea:
 
     # sy "Yup."
     sy "Evet."
+

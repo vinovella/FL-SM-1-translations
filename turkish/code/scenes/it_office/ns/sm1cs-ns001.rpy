@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:18
 translate turkish sm1cs_ns001_503308a4:
 

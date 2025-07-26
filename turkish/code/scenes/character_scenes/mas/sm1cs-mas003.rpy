@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:13
 translate turkish sm1cs_mas003_4256d734:
 

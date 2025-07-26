@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:22
+﻿# game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:22
 translate turkish q_inter_dc_1_f6282497:
 
     # dc "Keep your eyes peeled for pickpockets. Apparently, there's a little group of them running around the park."
@@ -179,3 +177,4 @@ translate turkish q_inter_dc_11_d6858f30:
 
     # dc "I know this isn't the park, but keep your eyes peeled. You never know where that creep might be."
     dc "Burası park değil biliyorum ama dikkatli ol. O sapığın nerede olacağını asla bilemezsin."
+

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/theatre/tl/sm1cs-tl007i_1.rpy:5
+﻿# game/code/scenes/theatre/tl/sm1cs-tl007i_1.rpy:5
 translate turkish sm1cs_tl007i_1_462cdf24:
 
     # tl "So, when can I move in?"

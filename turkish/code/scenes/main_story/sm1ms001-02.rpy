@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2025-06-02 06:24
-
 # game/code/scenes/main_story/sm1ms001-02.rpy:10
 translate turkish sm1ms001_02_1289ad51:
 
@@ -83,3 +81,4 @@ translate turkish sm1ms001_02_7ecbbcd8:
 
     # sy "Good. Let's put this away and go to sleep."
     sy "Güzel. Hadi bunu kaldıralım ve uyuyalım."
+

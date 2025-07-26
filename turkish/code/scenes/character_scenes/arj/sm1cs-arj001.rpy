@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:11
+﻿# game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:11
 translate turkish sm1cs_arj001_5d6702d2:
 
     # mct "Man... I hope AmRose is a little less... spicy this time. She seemed upset the last time I saw her."
@@ -683,3 +681,4 @@ translate turkish sm1cs_arj001_92b04d3a:
 
     # mct "I wonder if she feels the same way?"
     mct "O da aynı şekilde hissediyor mu acaba?"
+

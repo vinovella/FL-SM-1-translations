@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-02 06:24
-
-# game/code/scenes/it_office/cw/sm1cs-cw003i.rpy:6
+﻿# game/code/scenes/it_office/cw/sm1cs-cw003i.rpy:6
 translate turkish sm1cs_cw003i_c012c5b5:
 
     # mc "Do you remember my bosse's boss Claire?"
