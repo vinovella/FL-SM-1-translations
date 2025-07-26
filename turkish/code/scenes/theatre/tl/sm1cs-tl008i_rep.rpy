@@ -1,32 +1,3 @@
-# game/code/scenes/theatre/tl/sm1cs-tl008i_rep.rpy:8
-translate turkish sm1cs_tl008_repeatablesexscene_25c53558:
-
-    # tl "Can you help me in my room, [mcname]?"
-    tl "Odamda bana yardım edebilir misin, [mcname]?"
-
-# game/code/scenes/theatre/tl/sm1cs-tl008i_rep.rpy:9
-translate turkish sm1cs_tl008_repeatablesexscene_0b004eba:
-
-    # tl "I've been thinking about your movie again, [mcname]."
-    tl "Yine filmini düşünmeye başladım, [mcname]."
-
-# game/code/scenes/theatre/tl/sm1cs-tl008i_rep.rpy:11
-translate turkish sm1cs_tl008_repeatablesexscene_4f43e9fe:
-
-    # mc "Oh yeah?"
-    mc "Öyle mi?"
-
-# game/code/scenes/theatre/tl/sm1cs-tl008i_rep.rpy:15
-translate turkish sm1cs_tl008_repeatablesexscene_00567279:
-
-    # tl "Mmmhmmmm. Want to go talk about it in my room?"
-    tl "Mmmhmmmm. Odama çıkıp bu konu hakkında konuşmak ister misin?"
-
-# game/code/scenes/theatre/tl/sm1cs-tl008i_rep.rpy:17
-translate turkish sm1cs_tl008_repeatablesexscene_606e2d02:
-
-    # mc "Sure."
-    mc "Elbette."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008i_rep.rpy:29
 translate turkish sm1cs_tl008_repeatable_7ba43117:

@@ -34,30 +34,6 @@ translate turkish sm1cs_ns012i_898c59fd:
     # ns "Great."
     ns "Harika."
 
-# game/code/scenes/it_office/ns/sm1cs-ns012i.rpy:23
-translate turkish sm1cs_ns012i_e99a5240:
-
-    # mc "I want to have some fun with you, Nari."
-    mc "Seninle biraz eğlenmek istiyorum, Nari."
-
-# game/code/scenes/it_office/ns/sm1cs-ns012i.rpy:27
-translate turkish sm1cs_ns012i_61a8dd53:
-
-    # ns "Mmmm. I like the sound of that."
-    ns "Mmmm. Bu fikir hoşuma gitti."
-
-# game/code/scenes/it_office/ns/sm1cs-ns012i.rpy:29
-translate turkish sm1cs_ns012i_3d5d7aab:
-
-    # mc "Let's go to your room, Nari."
-    mc "Hadi odana gidelim, Nari."
-
-# game/code/scenes/it_office/ns/sm1cs-ns012i.rpy:33
-translate turkish sm1cs_ns012i_ac748977:
-
-    # ns "Sure!"
-    ns "Tabii."
-
 translate turkish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns012i.rpy:34
