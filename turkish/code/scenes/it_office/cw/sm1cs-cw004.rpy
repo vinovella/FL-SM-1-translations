@@ -178,12 +178,6 @@ translate turkish sm1cs_cw004_b576f4f5:
     # cw "I will understand."
     cw "Anlayacağım."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:105
-translate turkish sm1cs_cw004_d4bfa7e3:
-
-    # mc "I will help you Claire."
-    mc "Sana yardım edeceğim Claire."
-
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:111
 translate turkish sm1cs_cw004_36e503a1:
 
