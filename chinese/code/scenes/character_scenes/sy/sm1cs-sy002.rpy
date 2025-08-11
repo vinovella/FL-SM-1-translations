@@ -62,7 +62,7 @@ translate chinese sm1cs_sy002_5459ee9a:
 translate chinese sm1cs_sy002_90a08b79:
 
     # sy "Three? Oh no, [mcname]. I'm thinking bigger. This park could be the set for an entire sexy film."
-    sy "三个？不不不，mcname]，你太保守了。整座公园都可以作为一部情色大片的取景地。"
+    sy "三个？不不不，[mcname]，你太保守了。整座公园都可以作为一部情色大片的取景地。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:70
 translate chinese sm1cs_sy002_6e103a6e:

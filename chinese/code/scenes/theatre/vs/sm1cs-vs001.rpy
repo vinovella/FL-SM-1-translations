@@ -20,7 +20,7 @@ translate chinese sm1cs_vs001_32aef527:
 translate chinese sm1cs_vs001_e6a6b4da:
 
     # vs "Hey, [mcname]. What's new?"
-    vs "嘿[mname]，最近好吗？"
+    vs "嘿[mcname]，最近好吗？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs001.rpy:36
 translate chinese sm1cs_vs001_e5cf89cd:

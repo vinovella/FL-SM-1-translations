@@ -434,7 +434,7 @@ translate chinese name_done_6ce900be:
 translate chinese name_done_8d9417f5:
 
     # sy "Each week, we need to have $[RENT_WEEKLY_AMOUNT] in the bank."
-    sy "每周，我们需要在银行账户里存入$[REN_WEEKLY_AMOUNT]。"
+    sy "每周，我们需要在银行账户里存入$[RENT_WEEKLY_AMOUNT]。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:270
 translate chinese name_done_2051d66a:
