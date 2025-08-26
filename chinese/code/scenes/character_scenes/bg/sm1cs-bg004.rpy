@@ -2,157 +2,157 @@
 translate chinese sm1cs_bg004_f7ac6284:
 
     # mct "Huh... seems like nobody's home..."
-    mct "Huh... seems like nobody's home..."
+    mct "嗯...怎么感觉这儿没人在家呢..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:60
 translate chinese sm1cs_bg004_4e85cb4d:
 
     # mc "Hello?"
-    mc "Hello?"
+    mc "有人在吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:61
 translate chinese sm1cs_bg004_735a5015:
 
     # mc "Hellllooooooooo?"
-    mc "Hellllooooooooo?"
+    mc "有 —— 人 —— 在 —— 吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:64
 translate chinese sm1cs_bg004_c2c6aa95:
 
     # "*CELLPHONE ALERT*"
-    "*CELLPHONE ALERT*"
+    "*手机提示音*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:66
 translate chinese sm1cs_bg004_01620f4e:
 
     # mct "I wonder who that could be..."
-    mct "I wonder who that could be..."
+    mct "不知道是谁发来的消息..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:70
 translate chinese sm1cs_bg004_0446e8e3:
 
     # mct "It's from Amore... \"the photos are on the tablet. Take a look.\""
-    mct "It's from Amore... \"the photos are on the tablet. Take a look.\""
+    mct "是阿茉发来的... \"照片在平板上，你看看。\""
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:71
 translate chinese sm1cs_bg004_a3bf8254:
 
     # mct "Does that mean Amore is here? Why is she being so weird?{w} Whatever. I'm too excited to see these photos!"
-    mct "Does that mean Amore is here? Why is she being so weird?{w} Whatever. I'm too excited to see these photos!"
+    mct "这么说阿茉现在就在这儿吗？她怎么这么奇怪啊？{w} 不管了，我现在太想看看这些照片了，别的都顾不上了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:78
 translate chinese sm1cs_bg004_1ebcb7fd:
 
     # mct "All right, let's see..."
-    mct "All right, let's see..."
+    mct "好了，快看看..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:82
 translate chinese sm1cs_bg004_181d09de:
 
     # mc "Holy shit..."
-    mc "Holy shit..."
+    mc "我的天..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:88
 translate chinese sm1cs_bg004_0c2399f6:
 
     # mc "This is so fucking hot..."
-    mc "This is so fucking hot..."
+    mc "这也太撩人了吧..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:92
 translate chinese sm1cs_bg004_6f7039ce:
 
     # mc "Goddamn..."
-    mc "Goddamn..."
+    mc "我操..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:96
 translate chinese sm1cs_bg004_1073371f:
 
     # mc "These are..."
-    mc "These are..."
+    mc "这些照片..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:99
 translate chinese sm1cs_bg004_89d4d828:
 
     # bg "Amazing."
-    bg "Amazing."
+    bg "太绝了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:103
 translate chinese sm1cs_bg004_941fee51:
 
     # mc "Amore..."
-    mc "Amore..."
+    mc "阿茉..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:114
 translate chinese sm1cs_bg004_ad1e3155:
 
     # mct "Oh shit, we're getting right into it."
-    mct "Oh shit, we're getting right into it."
+    mct "我去，这就直接开始了啊。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:120
 translate chinese sm1cs_bg004_5a204ef6:
 
     # mc "Sneaking up on me now? Don't you know that's {i}naughty?{/i}"
-    mc "Sneaking up on me now? Don't you know that's {i}naughty?{/i}"
+    mc "现在居然偷偷摸摸绕到我身后？你不知道这样做很{i}调皮{/i}吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:126
 translate chinese sm1cs_bg004_e3e4c41a:
 
     # mc "It's fine. I'll punish you later for it.{w} Now, where is Kanya?"
-    mc "It's fine. I'll punish you later for it.{w} Now, where is Kanya?"
+    mc "不过也没事。等会儿我再好好惩罚你。{w}对了，康雅人呢？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:129
 translate chinese sm1cs_bg004_6d6ba445:
 
     # mc "Oh really? It's just the two of us?"
-    mc "Oh really? It's just the two of us?"
+    mc "哦？真的吗？就咱们两个人在这儿？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:132
 translate chinese sm1cs_bg004_ad8c1b2d:
 
     # bg "Yes, I... may have asked her to let us use the studio tonight... alone."
-    bg "Yes, I... may have asked her to let us use the studio tonight... alone."
+    bg "对，我...我之前跟她说了，让她今晚别来工作室，就留咱们俩在这儿...只有我们。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:135
 translate chinese sm1cs_bg004_4bc231a6:
 
     # mc "And why might that be?"
-    mc "And why might that be?"
+    mc "那你为什么要这么做啊？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:136
 translate chinese sm1cs_bg004_2fea56be:
 
     # mc "I mean, why did you do that without telling me? It seems like someone is running amok."
-    mc "I mean, why did you do that without telling me? It seems like someone is running amok."
+    mc "我的意思是，你为什么不跟我说一声就这么安排了？感觉某人现在都有点随心所欲了啊。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:137
 translate chinese sm1cs_bg004_105fcb52:
 
     # mc "Do I need to get you a leash?"
-    mc "Do I need to get you a leash?"
+    mc "难不成我还得给你搞个皮带，把你拴住才行？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:140
 translate chinese sm1cs_bg004_f04a12dd:
 
     # bg "Maybe later."
-    bg "Maybe later."
+    bg "也许待会儿吧。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:144
 translate chinese sm1cs_bg004_2828178c:
 
     # mc "Hmmmm... well, I can only assume that it's meant to please me, yes?"
-    mc "Hmmmm... well, I can only assume that it's meant to please me, yes?"
+    mc "嗯哼...不过我猜，你这么做，肯定是为了让我开心，对吧？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:147
 translate chinese sm1cs_bg004_7b471f6f:
 
     # mc "Good."
-    mc "Good."
+    mc "很好。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:153
 translate chinese sm1cs_bg004_6b845a18:
 
     # mc "Is this for me?"
-    mc "Is this for me?"
+    mc "这是为我准备的吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:157
 translate chinese sm1cs_bg004_629fdcf2:
