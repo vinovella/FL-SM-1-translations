@@ -680,5 +680,5 @@ translate chinese sm1cs_arj001_29acff14:
 translate chinese sm1cs_arj001_92b04d3a:
 
     # mct "I wonder if she feels the same way?"
-    mct "I wonder if she feels the same way?"
+    mct "不知道她是不是也这么想？"
 
