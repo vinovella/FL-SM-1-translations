@@ -14,7 +14,7 @@ translate chinese sm1cs_bg004_4e85cb4d:
 translate chinese sm1cs_bg004_735a5015:
 
     # mc "Hellllooooooooo?"
-    mc "有——人——在——吗？"
+    mc "有--人--在--吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:64
 translate chinese sm1cs_bg004_c2c6aa95:
@@ -254,7 +254,7 @@ translate chinese sm1cs_bg004_17072ca3:
 translate chinese sm1cs_bg004_f6c7558a:
 
     # bg "Does this... make you happy, [mcname]?"
-    bg "[mcname]，这样…… 能让你开心吗？"
+    bg "[mcname]，这样...能让你开心吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:230
 translate chinese sm1cs_bg004_7acf3e51:
@@ -272,7 +272,7 @@ translate chinese sm1cs_bg004_9a0232ae:
 translate chinese sm1cs_bg004_aac52158:
 
     # mc "Yeah... that's better."
-    mc "嗯…… 这样好多了。"
+    mc "嗯...这样好多了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:242
 translate chinese sm1cs_bg004_518194dd:
@@ -416,13 +416,13 @@ translate chinese sm1cs_bg004_09391b7f:
 translate chinese sm1cs_bg004_fb37a534:
 
     # bg "Oh... okay."
-    bg "哦…… 好的。"
+    bg "哦...好的。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:294
 translate chinese sm1cs_bg004_ec2548be:
 
     # bg "L-like this?"
-    bg "这…… 这样可以吗？"
+    bg "这...这样可以吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:296
 translate chinese sm1cs_bg004_03fb0be2:
@@ -440,7 +440,7 @@ translate chinese sm1cs_bg004_e9a805cd:
 translate chinese sm1cs_bg004_a264948b:
 
     # bg "T-thank you, [mcname]."
-    bg "谢……谢谢你，[mcname]。"
+    bg "谢...谢谢你，[mcname]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:306
 translate chinese sm1cs_bg004_5aa3933e:
@@ -482,7 +482,7 @@ translate chinese sm1cs_bg004_e3d0b0fd:
 translate chinese sm1cs_bg004_690b6143:
 
     # bg "Y... yes. I do..."
-    bg "是…… 是的。我同意..."
+    bg "是...是的。我同意..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:329
 translate chinese sm1cs_bg004_9bef22ee:
@@ -494,7 +494,7 @@ translate chinese sm1cs_bg004_9bef22ee:
 translate chinese sm1cs_bg004_4a451b73:
 
     # bg "Of course... do as you see fit..."
-    bg "当然……随你处置..."
+    bg "当然...随你处置..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:333
 translate chinese sm1cs_bg004_0db14907_1:
@@ -560,7 +560,7 @@ translate chinese sm1cs_bg004_anal_cfce055e:
 translate chinese sm1cs_bg004_anal_910c171b:
 
     # bg "Ye... yes. I am."
-    bg "确…… 确定。我准备好了。"
+    bg "确...确定。我准备好了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:377
 translate chinese sm1cs_bg004_anal_8bbda247:
@@ -584,7 +584,7 @@ translate chinese sm1cs_bg004_anal_91d8a70c:
 translate chinese sm1cs_bg004_anal_7b5e4df8:
 
     # bg "Mmpphh... y-yes. It's just... new."
-    bg "唔…… 还--还好。就是…… 有点不太习惯。"
+    bg "唔...还--还好。就是...有点不太习惯。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:386
 translate chinese sm1cs_bg004_anal_4dcecd89:
@@ -596,7 +596,7 @@ translate chinese sm1cs_bg004_anal_4dcecd89:
 translate chinese sm1cs_bg004_anal_0be6528a:
 
     # bg "O-okay, [mcname]... but, please. I just... I want you to fuck me..."
-    bg "好--好的，[mcname]……但是，求你了。我只是……我想要你操我..."
+    bg "好--好的，[mcname]...但是，求你了。我只是...我想要你操我..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:391
 translate chinese sm1cs_bg004_anal_adce493e:
@@ -656,7 +656,7 @@ translate chinese sm1cs_bg004_anal_fca6c801:
 translate chinese sm1cs_bg004_anal_7abc78a6:
 
     # mc "That's... that's a good little slut, Amore!"
-    mc "这……这才是我的乖乖骚货，阿茉！"
+    mc "这...这才是我的乖乖骚货，阿茉！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:416
 translate chinese sm1cs_bg004_anal_2a1f7b28:
@@ -752,7 +752,7 @@ translate chinese sm1cs_bg004_anal_7e147f2f_1:
 translate chinese sm1cs_bg004_anal_d7b48d59:
 
     # bg "Nooooo... Mmmmm..."
-    bg "不是……嗯..."
+    bg "不是...嗯..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:451
 translate chinese sm1cs_bg004_anal_bc7fb85b:
@@ -788,7 +788,7 @@ translate chinese sm1cs_bg004_anal_bef71277:
 translate chinese sm1cs_bg004_anal_c72d695d:
 
     # bg "Wait, [mcname], I don't think I'm ready for... it to go in there."
-    bg "等等，[mcname]，我觉得我还没准备好…… 让你插那里。"
+    bg "等等，[mcname]，我觉得我还没准备好...让你插那里。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:471
 translate chinese sm1cs_bg004_anal_eebf2d38:
@@ -800,7 +800,7 @@ translate chinese sm1cs_bg004_anal_eebf2d38:
 translate chinese sm1cs_bg004_anal_a24a99d0:
 
     # bg "O... okay, [mcname]."
-    bg "哦…… 好的，[mcname]。"
+    bg "哦...好的，[mcname]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:474
 translate chinese sm1cs_bg004_anal_c24ef967:
@@ -824,7 +824,7 @@ translate chinese sm1cs_bg004_anal_be73382a:
 translate chinese sm1cs_bg004_anal_5409578a:
 
     # mc "Good... now-"
-    mc "好…… 现在--"
+    mc "好...现在--"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:484
 translate chinese sm1cs_bg004_anal_f01b293a:
@@ -854,7 +854,7 @@ translate chinese sm1cs_bg004_anal_4cd2d6dd:
 translate chinese sm1cs_bg004_anal_f10c8dad:
 
     # bg "I- Gooooooood!"
-    bg "我--太…… 太爽了！"
+    bg "我--太...太爽了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:501
 translate chinese sm1cs_bg004_anal_298261e7:
@@ -866,7 +866,7 @@ translate chinese sm1cs_bg004_anal_298261e7:
 translate chinese sm1cs_bg004_anal_a58aed76:
 
     # bg "I-I-I-"
-    bg "我…… 我…… 我--"
+    bg "我...我...我--"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:503
 translate chinese sm1cs_bg004_anal_01804292:
@@ -890,13 +890,13 @@ translate chinese sm1cs_bg004_anal_4ad70258:
 translate chinese sm1cs_bg004_anal_3f08ecc4:
 
     # bg "Nothing has ever satisfied me like..."
-    bg "从来没有什么东西能像这样…… 让我满足！"
+    bg "从来没有什么东西能像这样...让我满足！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:513
 translate chinese sm1cs_bg004_anal_952478a1:
 
     # bg "Your cock - it's my favorite thing in the world!"
-    bg "你的鸡巴 —— 它就是我这世上最爱的东西！"
+    bg "你的鸡巴 -- 它就是我这世上最爱的东西！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:517
 translate chinese sm1cs_bg004_anal_c3537f1e:
@@ -938,7 +938,7 @@ translate chinese sm1cs_bg004_anal_cb355e5d:
 translate chinese sm1cs_bg004_anal_c50c8001:
 
     # bg "Oh God, [mcname], I'm cummmmminnngg!"
-    bg "哦老天，[mcname]，我要…… 我要高潮了！"
+    bg "哦老天，[mcname]，我要...我要高潮了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:533
 translate chinese sm1cs_bg004_anal_f55e6501:
@@ -962,13 +962,13 @@ translate chinese sm1cs_bg004_anal_1eadac68:
 translate chinese sm1cs_bg004_anal_af8077eb:
 
     # bg "God, God, God, GOODDDD, GOOOOOOODDDD, [mcname!u]!"
-    bg "天啊，天啊，天啊，好——爽——，好——爽——[mcname!u]！"
+    bg "天啊，天啊，天啊，好--爽--，好--爽--[mcname!u]！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:541
 translate chinese sm1cs_bg004_anal_6c52da50:
 
     # mct "Maybe she has more of a praise kink than I thought... I assumed it was just part of, you know, the submission thing."
-    mct "看来她比我想的更喜欢被夸啊……我以为这只是服从的一部分，你懂的。"
+    mct "看来她比我想的更喜欢被夸啊...我以为这只是服从的一部分，你懂的。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:542
 translate chinese sm1cs_bg004_anal_26a64fd0:
@@ -986,7 +986,7 @@ translate chinese sm1cs_bg004_anal_9097d712:
 translate chinese sm1cs_bg004_anal_7b9fc1d1:
 
     # bg "IT'S TOO MUCH, TOO MUCH!"
-    bg "太…… 太刺激了，我受不了了！"
+    bg "太...太刺激了，我受不了了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:550
 translate chinese sm1cs_bg004_anal_50eec7db:
@@ -1016,7 +1016,7 @@ translate chinese sm1cs_bg004_anal_e2c7a6b7:
 translate chinese sm1cs_bg004_anal_3a4ffdc4:
 
     # mct "Shit... I think I broke her."
-    mct "糟了……我好像把她弄懵了。"
+    mct "糟了...我好像把她弄懵了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:566
 translate chinese sm1cs_bg004_anal_f046bd72:
@@ -1076,7 +1076,7 @@ translate chinese sm1cs_bg004_anal_f335fc14:
 translate chinese sm1cs_bg004_anal_5e749615:
 
     # bg "I can... do whatever I need to, to please you."
-    bg "我可以…… 做什么都行，只要能让你爽。"
+    bg "我可以...做什么都行，只要能让你爽。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:592
 translate chinese sm1cs_bg004_anal_87e26eb2:
@@ -1088,7 +1088,7 @@ translate chinese sm1cs_bg004_anal_87e26eb2:
 translate chinese sm1cs_bg004_anal_c4aece61:
 
     # bg "Oh my God, [mcname]! Oh my Gooooood!"
-    bg "哦天啊，[mcname]！哦天——啊——！"
+    bg "哦天啊，[mcname]！哦天--啊--！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:603
 translate chinese sm1cs_bg004_anal_3e17b239:
@@ -1100,7 +1100,7 @@ translate chinese sm1cs_bg004_anal_3e17b239:
 translate chinese sm1cs_bg004_anal_bc973a66:
 
     # bg "I already - mmmrrrrnnnng - I already feel like I'm going to cum!"
-    bg "我已经——嗯嗯嗯——我感觉我又要高潮了！"
+    bg "我已经--嗯嗯嗯--我感觉我又要高潮了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:607
 translate chinese sm1cs_bg004_anal_2343ba31:
@@ -1112,13 +1112,13 @@ translate chinese sm1cs_bg004_anal_2343ba31:
 translate chinese sm1cs_bg004_anal_1cc4b03d:
 
     # mc "Such a bad, bad girl. You're not allowed to cum...{w} until I come, Amore."
-    mc "真是个不听话的坏女孩。没我的允许，你不能高潮……{w}直到我射出来，阿茉。"
+    mc "真是个不听话的坏女孩。没我的允许，你不能高潮...{w}直到我射出来，阿茉。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:612
 translate chinese sm1cs_bg004_anal_b50431c3:
 
     # bg "I... mmmm... I..."
-    bg "我…… 嗯～我..."
+    bg "我...嗯～我..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:613
 translate chinese sm1cs_bg004_anal_981aa579:
@@ -1130,7 +1130,7 @@ translate chinese sm1cs_bg004_anal_981aa579:
 translate chinese sm1cs_bg004_anal_27e33261:
 
     # bg "I... oh Goooood..."
-    bg "我……哦天——啊..."
+    bg "我...哦天--啊..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:617
 translate chinese sm1cs_bg004_anal_064e0f8e:
@@ -1148,7 +1148,7 @@ translate chinese sm1cs_bg004_anal_d53ecad2:
 translate chinese sm1cs_bg004_anal_f125c823:
 
     # bg "I... I do."
-    bg "我…… 我想。"
+    bg "我...我想。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:622
 translate chinese sm1cs_bg004_anal_fb43015c:
@@ -1190,19 +1190,19 @@ translate chinese sm1cs_bg004_anal_d9d6bc81:
 translate chinese sm1cs_bg004_anal_e7c014d8:
 
     # bg "That is the - nnnnggghhh - best reward."
-    bg "这…… 这就是--嗯嗯嗯呃--最棒的奖励。"
+    bg "这...这就是--嗯嗯嗯呃--最棒的奖励。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:637
 translate chinese sm1cs_bg004_anal_b726dccd:
 
     # bg "Your hot cum... it's all I want."
-    bg "你滚烫的精液…… 我只想要这个。"
+    bg "你滚烫的精液...我只想要这个。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:638
 translate chinese sm1cs_bg004_anal_14a16e71:
 
     # bg "A sign of - of - mmmmnnnggg - the pleasure I've caused you!"
-    bg "这是…… 这是我…… 嗯～能让你爽的证明啊！"
+    bg "这是...这是我...嗯～能让你爽的证明啊！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:639
 translate chinese sm1cs_bg004_anal_74fab860:
@@ -1214,359 +1214,359 @@ translate chinese sm1cs_bg004_anal_74fab860:
 translate chinese sm1cs_bg004_anal_64965e81:
 
     # mct "Because it's surprisingly hot hearing her tell me how much she wants it."
-    mct "因为听她说出来有多想要我，居然出乎意料地让人兴奋。"
+    mct "听她说出来有多想要我，居然出乎意料地让人兴奋。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:643
 translate chinese sm1cs_bg004_anal_864312a4:
 
     # bg "In me... mmmmm... on me... I want to feel your hot sticky load."
-    bg "射里面……嗯嗯……射我身上……我想感受你滚烫又黏稠的精液。"
+    bg "射里面...嗯嗯...射我身上...我想感受你滚烫又黏稠的精液。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:644
 translate chinese sm1cs_bg004_anal_da5dc011:
 
     # bg "Because... because it means I did a good job."
-    bg "Because... because it means I did a good job."
+    bg "因为...因为这说明我做得还不错。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:645
 translate chinese sm1cs_bg004_anal_9821bd09:
 
     # bg "It means I... I..."
-    bg "It means I... I..."
+    bg "这说明我...我..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:646
 translate chinese sm1cs_bg004_anal_cb97c568:
 
     # mc "Oh God, Amore - I'm going to-"
-    mc "Oh God, Amore - I'm going to-"
+    mc "我去，阿茉--我要--"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:647
 translate chinese sm1cs_bg004_anal_e218e9eb:
 
     # bg "Yes, [mcname], cum! Cum!"
-    bg "Yes, [mcname], cum! Cum!"
+    bg "对，[mcname]，射吧！射出来！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:648
 translate chinese sm1cs_bg004_anal_46ef0eb4:
 
     # mc "Oh fuuuuuuuuuck!"
-    mc "Oh fuuuuuuuuuck!"
+    mc "操！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:654
 translate chinese sm1cs_bg004_anal_0c6d4e7e:
 
     # mc "Fuck, I'm cumming!"
-    mc "Fuck, I'm cumming!"
+    mc "操，我要射了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:660
 translate chinese sm1cs_bg004_anal_31eb7782_1:
 
     # bg "Oh fuck!"
-    bg "Oh fuck!"
+    bg "啊啊操！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:663
 translate chinese sm1cs_bg004_anal_964cab66:
 
     # bg "I-I-I- Gooooooood!"
-    bg "I-I-I- Gooooooood!"
+    bg "我--我--我--好--爽--！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:667
 translate chinese sm1cs_bg004_anal_8ca9e8c8:
 
     # bg "Oh my God... [mcname]..."
-    bg "Oh my God... [mcname]..."
+    bg "天啊...[mcname]..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:668
 translate chinese sm1cs_bg004_anal_66021d4b:
 
     # bg "Oh my God."
-    bg "Oh my God."
+    bg "啊，真的是..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:670
 translate chinese sm1cs_bg004_anal_104938bd:
 
     # mc "Everything okay, Amore?"
-    mc "Everything okay, Amore?"
+    mc "还好吗，阿茉？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:671
 translate chinese sm1cs_bg004_anal_5133eb8d:
 
     # bg "Uhm..."
-    bg "Uhm..."
+    bg "嗯..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:675
 translate chinese sm1cs_bg004_anal_42ae48c1:
 
     # bg "Yeah, uh, everything is fine. Just..."
-    bg "Yeah, uh, everything is fine. Just..."
+    bg "呃，我没事。只是..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:676
 translate chinese sm1cs_bg004_anal_f687d3a5:
 
     # bg "A little surprised by... everything."
-    bg "A little surprised by... everything."
+    bg "就是被... 眼前这一切搞得有点惊讶而已。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:678
 translate chinese sm1cs_bg004_anal_3656a527:
 
     # mc "You sure?"
-    mc "You sure?"
+    mc "你确定没事吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:682
 translate chinese sm1cs_bg004_anal_ad7e4b60:
 
     # bg "Yeah, totally... I just... I need to go wash up."
-    bg "Yeah, totally... I just... I need to go wash up."
+    bg "嗯，肯定没事...我就是...我得去洗一下。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:685
 translate chinese sm1cs_bg004_anal_f303c521:
 
     # mc "... Okay?"
-    mc "... Okay?"
+    mc "...行啊？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:686
 translate chinese sm1cs_bg004_anal_8517f2d3:
 
     # mc "It kind of sounds like everything is not fine?"
-    mc "It kind of sounds like everything is not fine?"
+    mc "听你这语气，好像根本就不是没事的样子啊？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:689
 translate chinese sm1cs_bg004_anal_4f85e7a3:
 
     # bg "No, no... everything is. Totally fine."
-    bg "No, no... everything is. Totally fine."
+    bg "没有，真没有... 我没事的。肯定没事。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:693
 translate chinese sm1cs_bg004_anal_10d5ac7e:
 
     # bg "Totally fine..."
-    bg "Totally fine..."
+    bg "绝对没事..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:694
 translate chinese sm1cs_bg004_anal_3789dc18:
 
     # bg "Kanya said she had to come back tonight, so maybe you should get dressed, and, uhm, we can talk later."
-    bg "Kanya said she had to come back tonight, so maybe you should get dressed, and, uhm, we can talk later."
+    bg "康雅说她今晚得回来，所以你或许该把衣服穿上，然后，呃，我们之后再聊。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:698
 translate chinese sm1cs_bg004_anal_1b199792:
 
     # mc "Okay?"
-    mc "Okay?"
+    mc "好啊？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:701
 translate chinese sm1cs_bg004_anal_9ba631d3:
 
     # mct "Huh... Why do I get the distinct feeling not everything is fine?"
-    mct "Huh... Why do I get the distinct feeling not everything is fine?"
+    mct "嗯... 为什么我总觉得事情根本就没那么简单呢？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:702
 translate chinese sm1cs_bg004_anal_c0763c48:
 
     # mct "I think the next chance I get, Amore and I need to have a long talk..."
-    mct "I think the next chance I get, Amore and I need to have a long talk..."
+    mct "我想下次有机会的时候，我得跟阿茉好好聊一聊..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:705
 translate chinese sm1cs_bg004_anal_41c02abb:
 
     # mct "But, she's right. I should probably get dressed..."
-    mct "But, she's right. I should probably get dressed..."
+    mct "不过，她说得也对。或许我是该先把衣服穿上..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:105
 translate chinese sm1cs_bg004_68f3bd4c:
 
     # bg "Yes, [bg_mcname!t]?"
-    bg "Yes, [bg_mcname!t]?"
+    bg "怎么了，[bg_mcname!t]？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:122
 translate chinese sm1cs_bg004_97b77ba4:
 
     # bg "I am sorry, [bg_mcname!t]."
-    bg "I am sorry, [bg_mcname!t]."
+    bg "对不起，[bg_mcname!t]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:128
 translate chinese sm1cs_bg004_b26ff5d6:
 
     # bg "She's... not here, [bg_mcname!t]."
-    bg "She's... not here, [bg_mcname!t]."
+    bg "她...她不在这里，[bg_mcname!t]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:141
 translate chinese sm1cs_bg004_0be10152:
 
     # bg "But I still have a surprise for you, [bg_mcname!t]."
-    bg "But I still have a surprise for you, [bg_mcname!t]."
+    bg "不过[bg_mcname!t]，我还是有个惊喜要给你。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:146
 translate chinese sm1cs_bg004_1ad962f3:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
+    bg "好的，[bg_mcname!t]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:178
 translate chinese sm1cs_bg004_53e8255e:
 
     # bg "Yes, [bg_mcname!t]..."
-    bg "Yes, [bg_mcname!t]..."
+    bg "好的，[bg_mcname!t]..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:191
 translate chinese sm1cs_bg004_f835aa01:
 
     # bg "I... I want you to fuck me, [bg_mcname!t]."
-    bg "I... I want you to fuck me, [bg_mcname!t]."
+    bg "[bg_mcname!t]，我...我想让你干我。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:198
 translate chinese sm1cs_bg004_acc2bd12:
 
     # bg "P-please, [bg_mcname!t], will you fuck me in the ass?"
-    bg "P-please, [bg_mcname!t], will you fuck me in the ass?"
+    bg "[bg_mcname!t]，求、求你了，你能从后面干我吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:204
 translate chinese sm1cs_bg004_1ad962f3_1:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
+    bg "好的，[bg_mcname!t]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:218
 translate chinese sm1cs_bg004_1ad962f3_2:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
+    bg "好的，[bg_mcname!t]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:274
 translate chinese sm1cs_bg004_1db454fd:
 
     # bg "Did I do a good job, [bg_mcname!t]?"
-    bg "Did I do a good job, [bg_mcname!t]?"
+    bg "[bg_mcname!t]，我做得还行吗？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:285
 translate chinese sm1cs_bg004_1ad962f3_3:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
+    bg "好的，[bg_mcname!t]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:310
 translate chinese sm1cs_bg004_9ec65f24:
 
     # bg "I...{w} it makes me happy that you like my ass, [mcname] - erm, [bg_mcname!t]."
-    bg "I...{w} it makes me happy that you like my ass, [mcname] - erm, [bg_mcname!t]."
+    bg "我...{w}[mcname]--呃，[bg_mcname!t]，你能喜欢我的屁股，我真的特别开心。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:322
 translate chinese sm1cs_bg004_d75e8f1f:
 
     # bg "Y-yes, [bg_mcname!t]."
-    bg "Y-yes, [bg_mcname!t]."
+    bg "是--是的，[bg_mcname!t]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:367
 translate chinese sm1cs_bg004_anal_48c7bc8f:
 
     # bg "Y-yes, [bg_mcname!t], I-I am."
-    bg "Y-yes, [bg_mcname!t], I-I am."
+    bg "是--是的，[bg_mcname!t]，我、我准备好了。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:374
 translate chinese sm1cs_bg004_anal_829a9180:
 
     # bg "Please, [bg_mcname!t]... I want your cock in my greedy little asshole."
-    bg "Please, [bg_mcname!t]... I want your cock in my greedy little asshole."
+    bg "[bg_mcname!t]，求你了... 我想让你的鸡巴插进我贪得无厌的小屁眼里。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:396
 translate chinese sm1cs_bg004_anal_d2f23d53:
 
     # bg "Please stop asking, and just fuck me, [bg_mcname!t]."
-    bg "Please stop asking, and just fuck me, [bg_mcname!t]."
+    bg "[bg_mcname!t]，别再问了，直接干我就行。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:426
 translate chinese sm1cs_bg004_anal_b25297b8:
 
     # bg "Mmmm, I love having your cock in my ass, [bg_mcname!t]. I hope it pleases you!"
-    bg "Mmmm, I love having your cock in my ass, [bg_mcname!t]. I hope it pleases you!"
+    bg "嗯～[bg_mcname!t]，我就喜欢让你的鸡巴插我屁眼里。希望这样能让你满意！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:431
 translate chinese sm1cs_bg004_anal_60e405c4:
 
     # bg "Yes, [bg_mcname!t]. My ass is yours - my body is yours!"
-    bg "Yes, [bg_mcname!t]. My ass is yours - my body is yours!"
+    bg "对，[bg_mcname!t]。我的屁股是你的--我的身体全是你的！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:432
 translate chinese sm1cs_bg004_anal_a7da00e4:
 
     # bg "I want nothing more, than to make you happy, [bg_mcname!t]! To serve you!"
-    bg "I want nothing more, than to make you happy, [bg_mcname!t]! To serve you!"
+    bg "[bg_mcname!t]，我现在最想做的事，就是让你开心！就是伺候你！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:458
 translate chinese sm1cs_bg004_anal_1ad962f3:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
+    bg "是的，[bg_mcname!t]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:496
 translate chinese sm1cs_bg004_anal_81564187:
 
     # bg "Oh my Gooood, [bg_mcname!t]!"
-    bg "Oh my Gooood, [bg_mcname!t]!"
+    bg "天啊，太爽了，[bg_mcname!t]！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:504
 translate chinese sm1cs_bg004_anal_09fd918d:
 
     # bg "I love your cock, [bg_mcname!t]!"
-    bg "I love your cock, [bg_mcname!t]!"
+    bg "[bg_mcname!t]，我好喜欢你的鸡巴！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:512
 translate chinese sm1cs_bg004_anal_9de0d4b8:
 
     # bg "Satisfied me like being fucked like a ragdoll, [bg_mcname!t]!"
-    bg "Satisfied me like being fucked like a ragdoll, [bg_mcname!t]!"
+    bg "[bg_mcname!t]，你像操布娃娃一样操我，真的太让我满足了！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:514
 translate chinese sm1cs_bg004_anal_021faad1:
 
     # bg "And I want - I want your cock always! Please, [bg_mcname!t], let me always have your cock!"
-    bg "And I want - I want your cock always! Please, [bg_mcname!t], let me always have your cock!"
+    bg "而且我还想--我还想一直拥有你的鸡巴！[bg_mcname!t]，求你了，让我一直拥有你的鸡巴好不好！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:518
 translate chinese sm1cs_bg004_anal_284b79bc:
 
     # bg "Yes, [bg_mcname!t], I am! I'm yoooooouuuursssss!"
-    bg "Yes, [bg_mcname!t], I am! I'm yoooooouuuursssss!"
+    bg "没错，[bg_mcname!t]，我是你的！我完完全全都是你的！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:524
 translate chinese sm1cs_bg004_anal_4803e072:
 
     # bg "Y-yes, [bg_mcname!t]! Yes!"
-    bg "Y-yes, [bg_mcname!t]! Yes!"
+    bg "是--是的，[bg_mcname!t]！就是这样！"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:582
 translate chinese sm1cs_bg004_anal_8246e89e:
 
     # bg "Of... of course, [bg_mcname!t]. I can..."
-    bg "Of... of course, [bg_mcname!t]. I can..."
+    bg "[bg_mcname!t]，当、当然可以。我能..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:608
 translate chinese sm1cs_bg004_anal_2cec0f28:
 
     # bg "Oh, oh - I'm, I'm sorry [bg_mcname!t]-"
-    bg "Oh, oh - I'm, I'm sorry [bg_mcname!t]-"
+    bg "噢，噢--对不起[bg_mcname!t]--"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:623
 translate chinese sm1cs_bg004_anal_ac4f330d:
 
     # bg "I understand. I won't cum until you do, [bg_mcname!t]."
-    bg "I understand. I won't cum until you do, [bg_mcname!t]."
+    bg "我明白了。在你射之前，我不会先高潮的，[bg_mcname!t]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:629
 translate chinese sm1cs_bg004_anal_339a170f:
 
     # bg "N-no, [bg_mcname!t]. But it's- it's hard-"
-    bg "N-no, [bg_mcname!t]. But it's- it's hard-"
+    bg "没--没有，[bg_mcname!t]。可是这--这真的好难--"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:632
 translate chinese sm1cs_bg004_anal_d75e8f1f:
 
     # bg "Y-yes, [bg_mcname!t]."
-    bg "Y-yes, [bg_mcname!t]."
+    bg "好--好的，[bg_mcname!t]。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:641
 translate chinese sm1cs_bg004_anal_be577bc5:
 
     # bg "I... I want your cum, [bg_mcname!t]."
-    bg "I... I want your cum, [bg_mcname!t]."
+    bg "我...我想要你的精液，[bg_mcname!t]。"
 
