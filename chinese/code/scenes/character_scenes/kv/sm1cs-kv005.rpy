@@ -2,199 +2,199 @@
 translate chinese sm1cs_kv005i_0bcf2115:
 
     # kv "Hey, [mcname]! Ready to keep practicing?"
-    kv "Hey, [mcname]! Ready to keep practicing?"
+    kv "嘿，[mcname]！准备好继续练习了吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:13
 translate chinese sm1cs_kv005i_3843bd28:
 
     # mc "Yeah! Let's do it!"
-    mc "Yeah! Let's do it!"
+    mc "准备好了！咱们开始吧！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:17
 translate chinese sm1cs_kv005i_685e0027:
 
     # kv "Oh hey, [mcname]."
-    kv "Oh hey, [mcname]."
+    kv "哦，嘿，[mcname]。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:20
 translate chinese sm1cs_kv005i_f226943a:
 
     # mc "What's up, Kanya!"
-    mc "What's up, Kanya!"
+    mc "康雅，最近怎么样啊！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:23
 translate chinese sm1cs_kv005i_523c10b4:
 
     # kv "I was actually hoping you'd stop by, I actually had something I wanted to run by you."
-    kv "I was actually hoping you'd stop by, I actually had something I wanted to run by you."
+    kv "其实我一直盼着你能过来呢，我正好有件事想跟你商量一下。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:26
 translate chinese sm1cs_kv005i_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "Oh yeah?"
+    mc "哦？什么事啊？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:29
 translate chinese sm1cs_kv005i_374d1285:
 
     # kv "Yep! I want you to do another photo shoot."
-    kv "Yep! I want you to do another photo shoot."
+    kv "是这样！我想让你再拍一组照片。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:32
 translate chinese sm1cs_kv005i_b68d62a4:
 
     # mc "Oh? With who?"
-    mc "Oh? With who?"
+    mc "哦？跟谁一起拍？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:34
 translate chinese sm1cs_kv005i_50ccc0e2:
 
     # kv "Me!"
-    kv "Me!"
+    kv "我啊！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:49
 translate chinese sm1cs_kv005_start_ca0cb360:
 
     # kv "Is that cool with you?"
-    kv "Is that cool with you?"
+    kv "你觉得这样可以吗？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:52
 translate chinese sm1cs_kv005_start_7b7ae0e1:
 
     # mc "You want me to... take photos of you?"
-    mc "You want me to... take photos of you?"
+    mc "你是想让我… 给你拍照？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:55
 translate chinese sm1cs_kv005_start_4a85400f:
 
     # kv "Yeah. Me."
-    kv "Yeah. Me."
+    kv "对啊，给我拍。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:59
 translate chinese sm1cs_kv005_start_b2589890:
 
     # mc "That's... Not what I was expecting."
-    mc "That's... Not what I was expecting."
+    mc "这… 可跟我想的不太一样。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:62
 translate chinese sm1cs_kv005_start_d0926fc6:
 
     # kv "What, am I not good enough to be in front of the camera, [mcname]?!"
-    kv "What, am I not good enough to be in front of the camera, [mcname]?!"
+    kv "怎么，[mcname]，难道我不配站在镜头前面吗?!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:65
 translate chinese sm1cs_kv005_start_fe067151:
 
     # mc "No! Wait - I mean, yes! I, uhm, I meant-"
-    mc "No! Wait - I mean, yes! I, uhm, I meant-"
+    mc "不是！等等--我是说，你当然配！我，呃，我刚才是想说--"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:68
 translate chinese sm1cs_kv005_start_9eeeadc3:
 
     # kv "Just fucking with you. I know I'm hot."
-    kv "Just fucking with you. I know I'm hot."
+    kv "逗你玩呢。我知道我自己长得好。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:71
 translate chinese sm1cs_kv005_start_5c926a4d:
 
     # mc "God, I almost had a heart attack."
-    mc "God, I almost had a heart attack."
+    mc "天啊，我刚才差点心脏病都吓出来了。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:72
 translate chinese sm1cs_kv005_start_8f876b9a:
 
     # mc "I was just trying to say that I was expecting there to be a model, and you with me behind the camera."
-    mc "I was just trying to say that I was expecting there to be a model, and you with me behind the camera."
+    mc "我刚才就是想说，我还以为会有个模特过来，然后你跟我一起在镜头后面忙活呢。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:75
 translate chinese sm1cs_kv005_start_7f886cb4:
 
     # kv "I know, but I figured we'd mix it up a bit."
-    kv "I know, but I figured we'd mix it up a bit."
+    kv "我知道你的意思，但我觉得我们可以稍微换个方式来。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:76
 translate chinese sm1cs_kv005_start_b881cfdf:
 
     # kv "Besides, this will be a real solid test of your skills, [mcname]."
-    kv "Besides, this will be a real solid test of your skills, [mcname]."
+    kv "而且啊，[mcname]，这样也能真正考验一下你的技术水平。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:77
 translate chinese sm1cs_kv005_start_8d7de685:
 
     # kv "And you don't have to worry too much about me not mentoring you. Even in front of the camera I can still tell you what to do."
-    kv "And you don't have to worry too much about me not mentoring you. Even in front of the camera I can still tell you what to do."
+    kv "你也不用太担心我没法指导你了。就算我站在镜头前面，我照样能告诉你该怎么做。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:82
 translate chinese sm1cs_kv005_start_09e8339c:
 
     # mc "I'm not surprised by that.{w} Where are you going?"
-    mc "I'm not surprised by that.{w} Where are you going?"
+    mc "这我倒不觉得意外。{w}你要去哪儿啊？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:85
 translate chinese sm1cs_kv005_start_5e74694b:
 
     # kv "To change!"
-    kv "To change!"
+    kv "去换衣服！"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:95
 translate chinese sm1cs_kv005_start_0c20625d:
 
     # mct "Fuck... Am I ready for this? I don't think I'm ready for this..."
-    mct "Fuck... Am I ready for this? I don't think I'm ready for this..."
+    mct "操……我准备好面对这个挑战了吗？我觉得自己还没准备好..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:97
 translate chinese sm1cs_kv005_start_0feca96b:
 
     # mct "But... I don't think Kanya is going to give me a choice..."
-    mct "But... I don't think Kanya is going to give me a choice..."
+    mct "可是… 康雅是不会给我选择的余地的..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:101
 translate chinese sm1cs_kv005_start_d513f47d:
 
     # mct "Here we go..."
-    mct "Here we go..."
+    mct "只能上了..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:104
 translate chinese sm1cs_kv005_start_5a3765d8:
 
     # mc "Oh shit."
-    mc "Oh shit."
+    mc "我靠。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:107
 translate chinese sm1cs_kv005_start_7e6fc7f8:
 
     # kv "Yeah?"
-    kv "Yeah?"
+    kv "怎么了？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:111
 translate chinese sm1cs_kv005_start_b825edb3:
 
     # mc "Yeah, I was expecting you to be more... Naked."
-    mc "Yeah, I was expecting you to be more... Naked."
+    mc "没什么，我就是以为你会… 更暴露一点。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:114
 translate chinese sm1cs_kv005_start_fbb8a214:
 
     # kv "Yeah, you dirty perv? Every woman in your life just ready to throw her panties at you?"
-    kv "Yeah, you dirty perv? Every woman in your life just ready to throw her panties at you?"
+    kv "怎么，你这色狼还以为你身边的每个女人都随时准备对你投怀送抱啊？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:116
 translate chinese sm1cs_kv005_start_41d186aa:
 
     # mc "Well, uhm..."
-    mc "Well, uhm..."
+    mc "这个嘛，呃..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:117
 translate chinese sm1cs_kv005_start_f211aa8c:
 
     # kv "Don't worry, stud. We'll get there. But, not every photoshoot is in latex or the nude! So I thought we'd start there."
-    kv "Don't worry, stud. We'll get there. But, not every photoshoot is in latex or the nude! So I thought we'd start there."
+    kv "别担心，帅哥。咱们之后会拍到那种程度的。但不是所有拍摄都得穿乳胶或者全裸上阵啊！所以我觉得咱们可以从现在这样开始。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:120
 translate chinese sm1cs_kv005_start_d5ae2301:
 
     # mc "Fair enough."
-    mc "Fair enough."
+    mc "说得对。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:123
 translate chinese sm1cs_kv005_start_dc27fd85:
