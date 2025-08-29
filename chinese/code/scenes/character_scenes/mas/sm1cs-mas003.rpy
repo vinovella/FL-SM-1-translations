@@ -668,139 +668,139 @@ translate chinese sm1cs_mas003_second_delivery_d1c4dd59:
 translate chinese sm1cs_mas003_second_delivery_1ec966ef:
 
     # mc "I can't imagine you'll be at the Wurst Delivery for the rest of your days."
-    mc "I can't imagine you'll be at the Wurst Delivery for the rest of your days."
+    mc "我没法想象你会一辈子都在‘香肠配送’这家店里工作。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:413
 translate chinese sm1cs_mas003_second_delivery_39020830:
 
     # ms "What if I am? My student loans aren't going to just disappear."
-    ms "What if I am? My student loans aren't going to just disappear."
+    ms "要是我真的一辈子都在这儿呢？我的学生贷款又不会凭空消失。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:414
 translate chinese sm1cs_mas003_second_delivery_6418a765:
 
     # ms "I need another job or just one that is better paying."
-    ms "I need another job or just one that is better paying."
+    ms "我需要找份别的工作，新工作至少工资要更高。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:422
 translate chinese sm1cs_mas003_second_delivery_9722553e:
 
     # ms "Or this is my life."
-    ms "Or this is my life."
+    ms "不然我的人生就只能这样了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:423
 translate chinese sm1cs_mas003_second_delivery_8bdbc8f8:
 
     # ms "Nights stuck in a car delivering sausages with some dude."
-    ms "Nights stuck in a car delivering sausages with some dude."
+    ms "每天晚上困在车里，跟某个家伙一起送香肠。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:426
 translate chinese sm1cs_mas003_second_delivery_6acb0238:
 
     # ms "I mean..."
-    ms "I mean..."
+    ms "我是说..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:429
 translate chinese sm1cs_mas003_second_delivery_9105f4e3:
 
     # mc "I think we're here."
-    mc "I think we're here."
+    mc "我觉得咱们到地方了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:431
 translate chinese sm1cs_mas003_second_delivery_21ea2a2b:
 
     # ms "So we are."
-    ms "So we are."
+    ms "还真到了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:459
 translate chinese sm1cs_mas003_third_delivery_4d222eb6:
 
     # mc "That guy was..."
-    mc "That guy was..."
+    mc "刚才那个男的..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:461
 translate chinese sm1cs_mas003_third_delivery_4e553143:
 
     # ms "Holy shit."
-    ms "Holy shit."
+    ms "我的天。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:464
 translate chinese sm1cs_mas003_third_delivery_bb393add:
 
     # mc "Weird."
-    mc "Weird."
+    mc "太奇怪了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:466
 translate chinese sm1cs_mas003_third_delivery_29fd0f04:
 
     # ms "No, you're {i}weird{/i}. That guy was just..."
-    ms "No, you're {i}weird{/i}. That guy was just..."
+    ms "不，你才{i}奇怪{/i}呢。那个男的就是..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:469
 translate chinese sm1cs_mas003_third_delivery_95c2a3b0:
 
     # ms "I mean, he wasn't a pervert."
-    ms "I mean, he wasn't a pervert."
+    ms "我是说，他又不是变态。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:471
 translate chinese sm1cs_mas003_third_delivery_9e13fa59:
 
     # mc "And wasn't a creep."
-    mc "And wasn't a creep."
+    mc "也不是个怪人。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:475
 translate chinese sm1cs_mas003_third_delivery_fbc9e608:
 
     # ms "Not a jackass..."
-    ms "Not a jackass..."
+    ms "不是个混蛋..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:477
 translate chinese sm1cs_mas003_third_delivery_8104f6ed:
 
     # mc "No. But he was something."
-    mc "No. But he was something."
+    mc "确实不是。但他就是有点不对劲。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:480
 translate chinese sm1cs_mas003_third_delivery_f1d06a18:
 
     # ms "Totally."
-    ms "Totally."
+    ms "太对了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:487
 translate chinese sm1cs_mas003_third_delivery_753a892f:
 
     # "[mcname] and Maya" "*laughing*"
-    "[mcname] and Maya" "*laughing*"
+    "[mcname]和玛雅" "*大笑*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:490
 translate chinese sm1cs_mas003_third_delivery_a311ba0f:
 
     # mc "Just more motivation for you to stop working at Wurst Delivery."
-    mc "Just more motivation for you to stop working at Wurst Delivery."
+    mc "这更能激励你赶紧辞掉‘香肠配送’的工作了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:492
 translate chinese sm1cs_mas003_third_delivery_0a3c0303:
 
     # ms "Amen to that."
-    ms "Amen to that."
+    ms "老天保佑。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:499
 translate chinese sm1cs_mas003_third_delivery_af1142a3:
 
     # ms "One more order."
-    ms "One more order."
+    ms "就剩最后一份订单了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:500
 translate chinese sm1cs_mas003_third_delivery_8d0e22fb:
 
     # ms "Then we're done."
-    ms "Then we're done."
+    ms "送完咱们就结束了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:505
 translate chinese sm1cs_mas003_third_delivery_8e2e9aa5:
 
     # mc "At least it hasn't been boring."
-    mc "At least it hasn't been boring."
+    mc "至少今天过得不算无聊。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:506
 translate chinese sm1cs_mas003_third_delivery_374d0d66:
@@ -812,349 +812,349 @@ translate chinese sm1cs_mas003_third_delivery_374d0d66:
 translate chinese sm1cs_mas003_third_delivery_0b8f9a7e:
 
     # ms "What do you do when you're not delivering wieners, [mcname]?"
-    ms "What do you do when you're not delivering wieners, [mcname]?"
+    ms "[mcname]，你不送香肠的时候都在做什么啊？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:510
 translate chinese sm1cs_mas003_third_delivery_51e32749:
 
     # ms "You're in college, right?"
-    ms "You're in college, right?"
+    ms "你现在在上大学，对吧？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:513
 translate chinese sm1cs_mas003_third_delivery_7f49d179:
 
     # mc "No. Not anymore. I finished my sophomore year."
-    mc "No. Not anymore. I finished my sophomore year."
+    mc "没有。我已经不上了。我大二就退学了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:515
 translate chinese sm1cs_mas003_third_delivery_9bc12de2:
 
     # ms "And?"
-    ms "And?"
+    ms "然后呢？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:518
 translate chinese sm1cs_mas003_third_delivery_7d56f3ed:
 
     # mc "And now I'm thinking of going in a different direction."
-    mc "And now I'm thinking of going in a different direction."
+    mc "然后我现在在考虑走一条不一样的路。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:520
 translate chinese sm1cs_mas003_third_delivery_1b49f525:
 
     # ms "Smart."
-    ms "Smart."
+    ms "挺聪明的。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:523
 translate chinese sm1cs_mas003_third_delivery_f431643c:
 
     # ms "Or dumb. What do I know?"
-    ms "Or dumb. What do I know?"
+    ms "也可能是犯蠢。我又懂什么呢。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:524
 translate chinese sm1cs_mas003_third_delivery_4ff6487d:
 
     # ms "At least you'll have fewer student loans than me."
-    ms "At least you'll have fewer student loans than me."
+    ms "至少你的学生贷款会比我少。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:526
 translate chinese sm1cs_mas003_third_delivery_b4955ac7:
 
     # ms "So, how are you surviving in the city? You must need money, or you wouldn't be doing this."
-    ms "So, how are you surviving in the city? You must need money, or you wouldn't be doing this."
+    ms "那你在这个城市是怎么生活的啊？你肯定需要钱，不然也不会来做这份工作了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:529
 translate chinese sm1cs_mas003_third_delivery_0533a611:
 
     # mc "Yeah. I have a main job. It's what I'm focusing all my energy on."
-    mc "Yeah. I have a main job. It's what I'm focusing all my energy on."
+    mc "是啊。我有一份主业。我现在所有精力都放在那份工作上了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:534
 translate chinese sm1cs_mas003_third_delivery_6c99f881:
 
     # ms "Oh a 'main' job. So mysterious."
-    ms "Oh a 'main' job. So mysterious."
+    ms "哦，还有‘主业’呢。挺神秘的嘛。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:535
 translate chinese sm1cs_mas003_third_delivery_5feed24f:
 
     # ms "What is it?"
-    ms "What is it?"
+    ms "到底是什么工作啊？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:538
 translate chinese sm1cs_mas003_third_delivery_ce33b62b:
 
     # mc "Uh."
-    mc "Uh."
+    mc "呃……"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:539
 translate chinese sm1cs_mas003_third_delivery_b3633cb7:
 
     # mct "I don't think this is the time to tell her I'm trying to become a porn actor and producer."
-    mct "I don't think this is the time to tell her I'm trying to become a porn actor and producer."
+    mct "我觉得现在不是时候，还不能跟她说我想当色情片演员兼制片人。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:540
 translate chinese sm1cs_mas003_third_delivery_277b60a5:
 
     # mct "I like Maya, but I'm not sure we're on the \"I do porn\" level of our friendship yet."
-    mct "I like Maya, but I'm not sure we're on the \"I do porn\" level of our friendship yet."
+    mct "我挺喜欢玛雅的，但我不确定我们的友谊已经到了可以说\"我是拍色情片的\"那种程度。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:543
 translate chinese sm1cs_mas003_third_delivery_50106593:
 
     # ms "Hey. Earth to [mcname]?"
-    ms "Hey. Earth to [mcname]?"
+    ms "喂，[mcname]，你回神了吗？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:545
 translate chinese sm1cs_mas003_third_delivery_dc0ff26a:
 
     # mc "Sorry."
-    mc "Sorry."
+    mc "抱歉。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:548
 translate chinese sm1cs_mas003_third_delivery_e810d7be:
 
     # ms "Just tell me what this main job is."
-    ms "Just tell me what this main job is."
+    ms "赶紧告诉我你那份主业是什么啊。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:550
 translate chinese sm1cs_mas003_third_delivery_a70c2050:
 
     # mc "Uh... a friend and I are trying to get into making... movies."
-    mc "Uh... a friend and I are trying to get into making... movies."
+    mc "呃…… 我跟一个朋友正试着进入…… 电影制作这一行。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:553
 translate chinese sm1cs_mas003_third_delivery_b0ce12ce:
 
     # ms "Hahaha."
-    ms "Hahaha."
+    ms "哈哈哈哈。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:556
 translate chinese sm1cs_mas003_third_delivery_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "笑什么？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:559
 translate chinese sm1cs_mas003_third_delivery_f0c77909:
 
     # ms "The way you said that, haha."
-    ms "The way you said that, haha."
+    ms "你刚才那说话的语气，也太好笑了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:560
 translate chinese sm1cs_mas003_third_delivery_a45b78c2:
 
     # ms "You acted so awkward. It sounds like you're trying to cover up something."
-    ms "You acted so awkward. It sounds like you're trying to cover up something."
+    ms "你表现得特别不自然，感觉像是在掩饰什么一样。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:562
 translate chinese sm1cs_mas003_third_delivery_b2aba0e3:
 
     # mc "Like what?"
-    mc "Like what?"
+    mc "掩饰什么啊？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:565
 translate chinese sm1cs_mas003_third_delivery_135b7d7b:
 
     # ms "Like you're making porn movies."
-    ms "Like you're making porn movies."
+    ms "掩饰你其实在拍色情片之类的。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:567
 translate chinese sm1cs_mas003_third_delivery_8228be7a:
 
     # mc "Haha. What? What made your mind go there."
-    mc "Haha. What? What made your mind go there."
+    mc "哈哈。什么啊？你怎么会想到那儿去的。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:570
 translate chinese sm1cs_mas003_third_delivery_df3a306b:
 
     # ms "I don't know. Just the first thought that came to mind."
-    ms "I don't know. Just the first thought that came to mind."
+    ms "我也不知道啊，就是脑子里第一反应就冒出这个了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:572
 translate chinese sm1cs_mas003_third_delivery_5693a819:
 
     # mc "Huh..."
-    mc "Huh..."
+    mc "哦..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:573
 translate chinese sm1cs_mas003_third_delivery_e6026cd5:
 
     # ms "Mmm."
-    ms "Mmm."
+    ms "嗯..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:585
 translate chinese sm1cs_mas003_third_delivery_7683afef:
 
     # ms "Oh, thank god we're at the last dropoff."
-    ms "Oh, thank god we're at the last dropoff."
+    ms "哦谢天谢地，终于到最后一个送货点了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
 translate chinese sm1cs_mas003_third_delivery_ee8e823e:
 
     # ms "Nevermind."
-    ms "Nevermind."
+    ms "算了，不说这个了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:590
 translate chinese sm1cs_mas003_third_delivery_f166395e:
 
     # mct "Alright, this is starting to feel strange."
-    mct "Alright, this is starting to feel strange."
+    mct "好吧，这情况开始变得有点奇怪了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:591
 translate chinese sm1cs_mas003_third_delivery_2042b8ae:
 
     # mct "Hopefully, we can just make this last delivery and then be done."
-    mct "Hopefully, we can just make this last delivery and then be done."
+    mct "真希望咱们赶紧送完这最后一单，然后就结束。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:602
 translate chinese sm1cs_mas003_third_delivery_0c61983f:
 
     # mc "I hope this one is quick. No weird customers and no awkwardness."
-    mc "I hope this one is quick. No weird customers and no awkwardness."
+    mc "希望这单能快点搞定。别再遇到奇怪的顾客，也别再有尴尬的事了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:615
 translate chinese sm1cs_mas003_third_delivery_ee2267ca:
 
     # ka "Yay. Food is here!"
-    ka "Yay. Food is here!"
+    ka "耶！吃的来啦！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:618
 translate chinese sm1cs_mas003_third_delivery_2d384679:
 
     # lg "And it's coming in style. *growls*"
-    lg "And it's coming in style. *growls*"
+    lg "而且还是坐着这么酷的车来的呢。*挑逗*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:620
 translate chinese sm1cs_mas003_third_delivery_925bec25:
 
     # ols "Oh my god, Lauren. Keep it in your pants."
-    ols "Oh my god, Lauren. Keep it in your pants."
+    ols "我的天，劳伦，你收敛点行不行。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:624
 translate chinese sm1cs_mas003_third_delivery_b448c6e1:
 
     # lg "What? It would be rude not to let the Johnny know he's handsome."
-    lg "What? It would be rude not to let the Johnny know he's handsome."
+    lg "怎么了？跟这位帅哥说他长得帅，不是基本的礼貌吗。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:626
 translate chinese sm1cs_mas003_third_delivery_db797870:
 
     # ka "Oh my god, she's so drunk."
-    ka "Oh my god, she's so drunk."
+    ka "我的天，她喝太醉了吧。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:629
 translate chinese sm1cs_mas003_third_delivery_28bdd7d3:
 
     # lg "She is, usually, she'd be the one saying something lewd."
-    lg "She is, usually, she'd be the one saying something lewd."
+    lg "确实醉了，平时啊，说这种荤话的人可是她。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:630
 translate chinese sm1cs_mas003_third_delivery_b95471f8:
 
     # lg "Oh my. It was me ethic's time."
-    lg "Oh my. It was me ethic's time."
+    lg "哦我的天，刚才那段话居然是我说的。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:633
 translate chinese sm1cs_mas003_third_delivery_d6cbe556:
 
     # ols "Drunk Lauren is the best."
-    ols "Drunk Lauren is the best."
+    ols "喝醉的劳伦也太好玩了吧。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:636
 translate chinese sm1cs_mas003_third_delivery_d1a2fc1b:
 
     # ms "Yeah, so we need the payment."
-    ms "Yeah, so we need the payment."
+    ms "行了，我们要拿钱走人了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:638
 translate chinese sm1cs_mas003_third_delivery_e483301b:
 
     # ka "Oh hey. Sorry didn't see you there."
-    ka "Oh hey. Sorry didn't see you there."
+    ka "哦，嘿。抱歉啊，刚才都没看到你们在那儿。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:641
 translate chinese sm1cs_mas003_third_delivery_c2287ff3:
 
     # ka "Which is a mistake.{w} You're kind of cute."
-    ka "Which is a mistake.{w} You're kind of cute."
+    ka "没看到你们可真是我的失误。{w}你还挺可爱的嘛。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:644
 translate chinese sm1cs_mas003_third_delivery_5ae806d1:
 
     # ms "What?"
-    ms "What?"
+    ms "你说什么？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:647
 translate chinese sm1cs_mas003_third_delivery_1f56924c:
 
     # lg "I say. Keen eyes, Kennedy."
-    lg "I say. Keen eyes, Kennedy."
+    lg "我说，肯尼迪，你真是好眼光啊。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:649
 translate chinese sm1cs_mas003_third_delivery_1d945691:
 
     # ols "Oh my god. How do the two of you go on deliveries together and not just snack on each other?"
-    ols "Oh my god. How do the two of you go on deliveries together and not just snack on each other?"
+    ols "我的天。你们俩这种绝色一起出来送货，怎么没直接抱在一起啃啊？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:652
 translate chinese sm1cs_mas003_third_delivery_11455b53_1:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:654
 translate chinese sm1cs_mas003_third_delivery_d3279198:
 
     # ms "Normally we don't go on deliveries together."
-    ms "Normally we don't go on deliveries together."
+    ms "我们平时根本不会一起出来送货的。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:657
 translate chinese sm1cs_mas003_third_delivery_47803213:
 
     # ka "But you've been wanting to."
-    ka "But you've been wanting to."
+    ka "但你心里其实一直想跟他一起送吧。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:659
 translate chinese sm1cs_mas003_third_delivery_01835f28:
 
     # ms "What? Gross."
-    ms "What? Gross."
+    ms "你说什么呢？真恶心。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:662
 translate chinese sm1cs_mas003_third_delivery_d919414d:
 
     # ols "She is totally glad they are. Oh my god."
-    ols "She is totally glad they are. Oh my god."
+    ols "她心里肯定特别庆幸这次能跟他一起出来。我的天。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:664
 translate chinese sm1cs_mas003_third_delivery_8968713b:
 
     # lg "Can we order food? I'm really hungry."
-    lg "Can we order food? I'm really hungry."
+    lg "我们能再点份吃的吗？我真的好饿啊。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:667
 translate chinese sm1cs_mas003_third_delivery_05d96d56:
 
     # mc "Uh yeah. You already did."
-    mc "Uh yeah. You already did."
+    mc "呃，可以啊。不过你们已经点过了啊。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:669
 translate chinese sm1cs_mas003_third_delivery_749aa996:
 
     # lg "Smashing good time."
-    lg "Smashing good time."
+    lg "今天可真是太开心了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:674
 translate chinese sm1cs_mas003_third_delivery_2702b4fc:
 
     # lg "You know... if this was a porno, I'd be smashing him already."
-    lg "You know... if this was a porno, I'd be smashing him already."
+    lg "你知道吗…… 要是这是在色情片里，我现在早就跟他滚到一块儿了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:676
 translate chinese sm1cs_mas003_third_delivery_e220f17d:
 
     # ols "She keeps outdoing herself."
-    ols "She keeps outdoing herself."
+    ols "她真是一次比一次语出惊人啊。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:679
 translate chinese sm1cs_mas003_third_delivery_4f9eeb06:
