@@ -2,301 +2,301 @@
 translate chinese sm1cs_mes003_d0baf70a:
 
     # mct "Sounds like she could really use a break."
-    mct "Sounds like she could really use a break."
+    mct "听起来她确实很需要休息一下。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:51
 translate chinese sm1cs_mes003_53a1f5ba:
 
     # mc "Luckily, this place is the perfect spot to chill and relax at."
-    mc "Luckily, this place is the perfect spot to chill and relax at."
+    mc "幸好，这个地方是放松休闲的绝佳去处。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:56
 translate chinese sm1cs_mes003_01cef211:
 
     # mct "Cool. Made it back before her."
-    mct "Cool. Made it back before her."
+    mct "太好了，我比她先回来了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:60
 translate chinese sm1cs_mes003_3c94a1b1:
 
     # mct "Min is going to love this place. It's the perfect chill spot."
-    mct "Min is going to love this place. It's the perfect chill spot."
+    mct "明肯定会喜欢这个地方的，这里很适合放松。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:71
 translate chinese sm1cs_mes003_a3fe61f9:
 
     # "Knock knock"
-    "Knock knock"
+    "咚咚咚"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:75
 translate chinese sm1cs_mes003_c22ab257:
 
     # mc "Welcome to the studio."
-    mc "Welcome to the studio."
+    mc "欢迎来到工作室。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:78
 translate chinese sm1cs_mes003_bad6f936:
 
     # mes "Thanks. I like the logo. Very nice touch."
-    mes "Thanks. I like the logo. Very nice touch."
+    mes "谢谢。我喜欢这个logo，设计特别棒。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:84
 translate chinese sm1cs_mes003_a7cff384:
 
     # mc "That's just the start."
-    mc "That's just the start."
+    mc "这还只是开始呢。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:85
 translate chinese sm1cs_mes003_f8f20d94:
 
     # mc "As you can see, everything the light touches is going to let us make some really amazing porn."
-    mc "As you can see, everything the light touches is going to let us make some really amazing porn."
+    mc "你也看到了，灯光能照到的每一个角落，都能让我们拍出高质量色情片。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:88
 translate chinese sm1cs_mes003_d1827689:
 
     # mes "It's a fine kingdom indeed."
-    mes "It's a fine kingdom indeed."
+    mes "这地方确实像个不错的‘王国’。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:91
 translate chinese sm1cs_mes003_513f283f:
 
     # mes "But I don't think it's without its worries."
-    mes "But I don't think it's without its worries."
+    mes "不过我觉得这个地方也不是没有问题。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:96
 translate chinese sm1cs_mes003_faa03e1a:
 
     # mc "Haha."
-    mc "Haha."
+    mc "哈哈。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:97
 translate chinese sm1cs_mes003_8cb285b2:
 
     # mc "Yeah. It was a lot of work to get us here, and the hard part hasn't really begun."
-    mc "Yeah. It was a lot of work to get us here, and the hard part hasn't really begun."
+    mc "是啊，能走到这一步已经花了我们好多功夫，真正困难的部分还没开始呢。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:100
 translate chinese sm1cs_mes003_19af2e82:
 
     # mes "I want to see the upstairs."
-    mes "I want to see the upstairs."
+    mes "我想去楼上看看。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:103
 translate chinese sm1cs_mes003_8fdeda07:
 
     # mc "Knock yourself out."
-    mc "Knock yourself out."
+    mc "随便看，别客气。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:108
 translate chinese sm1cs_mes003_0c7cde4c:
 
     # mct "Hmmm."
-    mct "Hmmm."
+    mct "嗯……"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:114
 translate chinese sm1cs_mes003_7b9976ff:
 
     # mct "Mmm. I've missed that cute butt."
-    mct "Mmm. I've missed that cute butt."
+    mct "嗯……我可太想念她那可爱的屁股了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:116
 translate chinese sm1cs_mes003_a189834f:
 
     # mct "A little small, but it was always leading me to fun situations."
-    mct "A little small, but it was always leading me to fun situations."
+    mct "虽然有点小，但每次看到，都能让我联想到一些有趣的场景。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:119
 translate chinese sm1cs_mes003_eb2e9344:
 
     # mes "Are you checking out my butt back there?"
-    mes "Are you checking out my butt back there?"
+    mes "你是不是在后面偷看我的屁股啊？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:122
 translate chinese sm1cs_mes003_2034c056:
 
     # mc "Maybe."
-    mc "Maybe."
+    mc "可能吧。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:123
 translate chinese sm1cs_mes003_afa1e270:
 
     # mc "It's been a minute, and my eyes are betraying me."
-    mc "It's been a minute, and my eyes are betraying me."
+    mc "咱们有阵子没见了，我的眼睛实在忍不住想看。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:126
 translate chinese sm1cs_mes003_ae87d8ad:
 
     # mes "Hah. Sure they are."
-    mes "Hah. Sure they are."
+    mes "哈，说得跟真的一样。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:127
 translate chinese sm1cs_mes003_e0d64eea:
 
     # mes "Just don't fall down the stairs."
-    mes "Just don't fall down the stairs."
+    mes "小心点，别从楼梯上摔下去了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:129
 translate chinese sm1cs_mes003_333bec9e:
 
     # mc "Never."
-    mc "Never."
+    mc "不会的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:139
 translate chinese sm1cs_mes003_02f7a7ca:
 
     # mc "As you can see, Stacy and I made a nice office area."
-    mc "As you can see, Stacy and I made a nice office area."
+    mc "你也看到了，我和史黛西整理出了一块不错的办公区域。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:140
 translate chinese sm1cs_mes003_a25af4a3:
 
     # mc "Plenty of room, top of the line computer with video-editing software."
-    mc "Plenty of room, top of the line computer with video-editing software."
+    mc "空间很宽敞，还有顶配的电脑，装了视频编辑软件。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:141
 translate chinese sm1cs_mes003_9a2cf8d3:
 
     # mc "And a gamer chair for those long midnight editing sessions."
-    mc "And a gamer chair for those long midnight editing sessions."
+    mc "还有一把游戏椅，方便我们半夜长时间做编辑工作的时候用。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:144
 translate chinese sm1cs_mes003_636e2d73:
 
     # mes "Mmm. I imagine you guys splurged on the gaming chair, but beyond that, very professional."
-    mes "Mmm. I imagine you guys splurged on the gaming chair, but beyond that, very professional."
+    mes "嗯。我猜你们肯定在游戏椅上花了不少钱，不过除此之外，这里看起来还挺专业的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:147
 translate chinese sm1cs_mes003_0b3b29c5:
 
     # mc "I am a man who likes to splurge."
-    mc "I am a man who likes to splurge."
+    mc "我就是个愿意在喜欢的东西上花钱的人。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:150
 translate chinese sm1cs_mes003_f28dc618:
 
     # mes "*soft giggles*"
-    mes "*soft giggles*"
+    mes "*轻轻笑出声*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:155
 translate chinese sm1cs_mes003_3b197c9f:
 
     # mes "You and Stacy definitely have a style."
-    mes "You and Stacy definitely have a style."
+    mes "你和史黛西的审美风格还挺统一的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:158
 translate chinese sm1cs_mes003_fa9960f3:
 
     # mc "Oh yeah. I call it Post-Modern-Kinkpunk."
-    mc "Oh yeah. I call it Post-Modern-Kinkpunk."
+    mc "那当然。我把这种风格叫做‘后现代怪癖朋克风’。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:159
 translate chinese sm1cs_mes003_242c218b:
 
     # mc "We're not going to be your father's porn studio."
-    mc "We're not going to be your father's porn studio."
+    mc "我们可不会做老一辈那种老派的色情工作室。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:162
 translate chinese sm1cs_mes003_8d7b5ff4:
 
     # mes "If my father ever watched porn, it might be too much of a shock to his system."
-    mes "If my father ever watched porn, it might be too much of a shock to his system."
+    mes "要是我爸爸看过色情片，那估计能把他吓得不轻。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:165
 translate chinese sm1cs_mes003_c6ba76aa:
 
     # mc "I can't imagine never having seen porn. There is so little magic left in the world."
-    mc "I can't imagine never having seen porn. There is so little magic left in the world."
+    mc "我真没法想象从没看过色情片的生活。这世界上有趣的东西本来就不多了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:170
 translate chinese sm1cs_mes003_8a26677a:
 
     # mc "And finally, this is our little love nest."
-    mc "And finally, this is our little love nest."
+    mc "最后，这就是我们的小窝啦。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:172
 translate chinese sm1cs_mes003_cbe9e73a:
 
     # mes "Not really little."
-    mes "Not really little."
+    mes "这可一点都不小啊。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:173
 translate chinese sm1cs_mes003_696470a7:
 
     # mc "Heh. You're right about that."
-    mc "Heh. You're right about that."
+    mc "嘿，你说得对。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:176
 translate chinese sm1cs_mes003_f18d8323:
 
     # mes "So you just sleep..."
-    mes "So you just sleep..."
+    mes "所以你就..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:177
 translate chinese sm1cs_mes003_c804347f:
 
     # mes "Out here?"
-    mes "Out here?"
+    mes "睡在这儿？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:180
 translate chinese sm1cs_mes003_473f6d41:
 
     # mc "Yup."
-    mc "Yup."
+    mc "对呀。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:182
 translate chinese sm1cs_mes003_d11a24ca:
 
     # mc "The other tenants don't mind."
-    mc "The other tenants don't mind."
+    mc "其他租客都不介意。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:183
 translate chinese sm1cs_mes003_e786c7fc:
 
     # mc "Actually, we encourage snuggle parties if they're up for it."
-    mc "Actually, we encourage snuggle parties if they're up for it."
+    mc "其实啊，要是她们愿意，我们还很欢迎大家一起举办抱抱派对呢。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:186
 translate chinese sm1cs_mes003_dd51dd89:
 
     # mes "*chuckles*"
-    mes "*chuckles*"
+    mes "*嗤笑*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:187
 translate chinese sm1cs_mes003_dd7ad295:
 
     # mes "Of course you would invite girls who are down for that."
-    mes "Of course you would invite girls who are down for that."
+    mes "有这种愿意参加派对的女生，你们当然会邀请她们了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:190
 translate chinese sm1cs_mes003_74ea9fda:
 
     # mc "And you wouldn't be?"
-    mc "And you wouldn't be?"
+    mc "那你就不愿意吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:193
 translate chinese sm1cs_mes003_d185b9b4:
 
     # mes "If the mood struck me, I suppose I might."
-    mes "If the mood struck me, I suppose I might."
+    mes "要是气氛到位了，我想我可能会愿意的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:197
 translate chinese sm1cs_mes003_2a287285:
 
     # mc "I mean, it's not like we'd be disturbing anyone else."
-    mc "I mean, it's not like we'd be disturbing anyone else."
+    mc "坦白说，我们又不会打扰到其他人。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:198
 translate chinese sm1cs_mes003_d5d68646:
 
     # mc "And even then. \"Our house, our rules.\""
-    mc "And even then. \"Our house, our rules.\""
+    mc "就算打扰到了也没事。\"我的地盘我做主\"嘛。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:201
 translate chinese sm1cs_mes003_99766361:
 
     # mes "True enough."
-    mes "True enough."
+    mes "说得太对了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:202
 translate chinese sm1cs_mes003_81aef917:
@@ -308,157 +308,157 @@ translate chinese sm1cs_mes003_81aef917:
 translate chinese sm1cs_mes003_957ac67d:
 
     # mc "So what do you think?"
-    mc "So what do you think?"
+    mc "那你觉得这里怎么样？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:209
 translate chinese sm1cs_mes003_70059498:
 
     # mes "Well, there is no pool. But other than that, it's alright."
-    mes "Well, there is no pool. But other than that, it's alright."
+    mes "嗯，就是没有泳池。不过除此之外，都还不错。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:215
 translate chinese sm1cs_mes003_9c05bc77:
 
     # mc "How did I know you were going to say that?"
-    mc "How did I know you were going to say that?"
+    mc "我就知道你会这么说。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:218
 translate chinese sm1cs_mes003_cc17436b:
 
     # mes "I guess we both enjoyed our time together in my pool."
-    mes "I guess we both enjoyed our time together in my pool."
+    mes "看来我们都很怀念当初在我家泳池边一起度过的时光啊。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:225
 translate chinese sm1cs_mes003_a5158368:
 
     # mc "We can't all live in trust-fun homes."
-    mc "We can't all live in trust-fun homes."
+    mc "可不是所有人都能住上有信托基金支撑的豪宅啊。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:228
 translate chinese sm1cs_mes003_61fad611:
 
     # mes "Sorry. It really is a great place, [mcname]."
-    mes "Sorry. It really is a great place, [mcname]."
+    mes "抱歉。说真的，[mcname]，这地方真的很棒。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:229
 translate chinese sm1cs_mes003_45c8f18a:
 
     # mes "You should be proud."
-    mes "You should be proud."
+    mes "你应该为此感到骄傲。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:232
 translate chinese sm1cs_mes003_21d60d8b:
 
     # mc "I am."
-    mc "I am."
+    mc "我确实很骄傲。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:236
 translate chinese sm1cs_mes003_1d929bce:
 
     # mes "You did all this after what Lydia did."
-    mes "You did all this after what Lydia did."
+    mes "在莉迪亚做了那些事之后，你还能做成这番成绩，真的很厉害。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:239
 translate chinese sm1cs_mes003_0b05ba43:
 
     # mc "Uh yeah."
-    mc "Uh yeah."
+    mc "呃，是啊。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:243
 translate chinese sm1cs_mes003_24f1183d:
 
     # mc "To be clear, I'm not doing this because of Lydia or anything."
-    mc "To be clear, I'm not doing this because of Lydia or anything."
+    mc "说清楚啊，我做这些可不是因为莉迪亚或者其他什么人。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:244
 translate chinese sm1cs_mes003_8fb4dcc4:
 
     # mc "I'm doing this because I'm confident that Stacy and I can do well in the field."
-    mc "I'm doing this because I'm confident that Stacy and I can do well in the field."
+    mc "我做这个，是因为我有信心，相信我和史黛西能在这个领域做出成绩。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:247
 translate chinese sm1cs_mes003_a7898e31:
 
     # mes "I know that."
-    mes "I know that."
+    mes "我知道。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:248
 translate chinese sm1cs_mes003_23d08ab1:
 
     # mes "I wasn't..."
-    mes "I wasn't..."
+    mes "我不是..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:252
 translate chinese sm1cs_mes003_02a4ca23:
 
     # mes "I didn't mean like... you were doing this because you were in crisis or anything."
-    mes "I didn't mean like... you were doing this because you were in crisis or anything."
+    mes "我不是说……你是因为陷入困境了才做这个的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:253
 translate chinese sm1cs_mes003_4aa3ead8:
 
     # mes "Quite the opposite."
-    mes "Quite the opposite."
+    mes "完全相反。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:256
 translate chinese sm1cs_mes003_4ce9542f:
 
     # mes "Do you remember me telling you that you should make a porn studio?"
-    mes "Do you remember me telling you that you should make a porn studio?"
+    mes "你还记得我跟你说过，你应该开个色情工作室吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:258
 translate chinese sm1cs_mes003_a5663f54:
 
     # mes "During our first date."
-    mes "During our first date."
+    mes "就在我们第一次约会的时候。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:261
 translate chinese sm1cs_mes003_77975f23:
 
     # mc "Mmmm."
-    mc "Mmmm."
+    mc "嗯……"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:264
 translate chinese sm1cs_mes003_98adc5d6:
 
     # mc "Now that you mention it, yeah. Heh. Funny how that worked out."
-    mc "Now that you mention it, yeah. Heh. Funny how that worked out."
+    mc "你提醒我了。嘿，没想到事情最后真的变成这样了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:265
 translate chinese sm1cs_mes003_61b8941f:
 
     # mc "I kind of wish you'd been with us since the start now. Especially if you gave me the idea."
-    mc "I kind of wish you'd been with us since the start now. Especially if you gave me the idea."
+    mc "我现在还挺希望你从一开始就跟我们一起干的。尤其是既然这个想法还是你先提出来的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:268
 translate chinese sm1cs_mes003_41be5c69:
 
     # mes "I was just talking. I'm sure the concept really evolved between you and Stacy."
-    mes "I was just talking. I'm sure the concept really evolved between you and Stacy."
+    mes "我当时就是随便说说而已。我敢肯定，这个想法后来在你和史黛西手里一定发展得更成熟了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:271
 translate chinese sm1cs_mes003_39c769df:
 
     # mes "And I would have been little use to you if I joined up after the semester finished."
-    mes "And I would have been little use to you if I joined up after the semester finished."
+    mes "而且要是我在学期结束之后才加入你们，也帮不上什么大忙。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:275
 translate chinese sm1cs_mes003_b06ba174:
 
     # mes "It's stupid. It's not like what Lydia did was the worst thing that could happen to me. Or anyone else?"
-    mes "It's stupid. It's not like what Lydia did was the worst thing that could happen to me. Or anyone else?"
+    mes "说起来也挺傻的。莉迪亚做的事又不是天塌了，对我或者对别人来说根本不算什么大事。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:276
 translate chinese sm1cs_mes003_f4805df8:
 
     # mes "But still..."
-    mes "But still..."
+    mes "可我还是..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:280
 translate chinese sm1cs_mes003_16a853d5:
 
     # mc "It's okay, Min. You don't have to explain."
-    mc "It's okay, Min. You don't have to explain."
+    mc "明，没关系的，你不用解释。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:281
 translate chinese sm1cs_mes003_8745d00c:
