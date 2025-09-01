@@ -31,8 +31,8 @@ translate chinese sm1cs_mh007_e86af968:
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:65
 translate chinese sm1cs_mh007_8de92c50:
 
-    # mh "I thought you might have been a courier. A court clerk threatened to messenger me some docs today, and I had some... choice words for him."
-    mh "我刚才还以为你是快递员呢。今天有个法院职员威胁说要给我寄些文件过来，我跟他说了些…… 不太好听的话。"
+    # mh "I thought you might have been a courier. A court clerk threatened to messenger me some docs today, and I had some...choice words for him."
+    mh "我刚才还以为你是快递员呢。今天有个法院职员威胁说要给我寄些文件过来，我跟他说了些...不太好听的话。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:72
 translate chinese sm1cs_mh007_0be80ec5:
@@ -49,8 +49,8 @@ translate chinese sm1cs_mh007_44bcd952:
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:80
 translate chinese sm1cs_mh007_09fb2fd5:
 
-    # mh "Yeah... I mean, not really."
-    mh "是啊……其实，也不完全是。"
+    # mh "Yeah...I mean, not really."
+    mh "是啊...其实，也不完全是。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:81
 translate chinese sm1cs_mh007_60633feb:
@@ -61,8 +61,8 @@ translate chinese sm1cs_mh007_60633feb:
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:84
 translate chinese sm1cs_mh007_c53bb6e7:
 
-    # mh "But... I think... I don't know."
-    mh "但是……我觉得……我也说不清楚。"
+    # mh "But...I think...I don't know."
+    mh "但是...我觉得...我也说不清楚。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:85
 translate chinese sm1cs_mh007_cda24377:
@@ -73,8 +73,8 @@ translate chinese sm1cs_mh007_cda24377:
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:88
 translate chinese sm1cs_mh007_adcb03d7:
 
-    # mct "Hmmm... I think Lyssa isn't telling me the full story."
-    mct "嗯……我觉得丽莎没把全部情况都告诉我。"
+    # mct "Hmmm...I think Lyssa isn't telling me the full story."
+    mct "嗯...我觉得丽莎没把全部情况都告诉我。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:90
 translate chinese sm1cs_mh007_39409111:
@@ -85,8 +85,8 @@ translate chinese sm1cs_mh007_39409111:
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:92
 translate chinese sm1cs_mh007_c60c9192:
 
-    # mh "But... I don't want to talk about work. I want to be distracted from work."
-    mh "但是…… 我不想聊工作的事了。我想找点事转移一下对工作的注意力。"
+    # mh "But...I don't want to talk about work. I want to be distracted from work."
+    mh "但是...我不想聊工作的事了。我想找点事转移一下对工作的注意力。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:96
 translate chinese sm1cs_mh007_5083a8a7:
@@ -152,7 +152,7 @@ translate chinese sm1cs_mh007_90b1c5bb:
 translate chinese sm1cs_mh007_ebb63535:
 
     # mh "Mmmmm, I think I might have {i}some{/i} idea."
-    mh "嗯…… 我觉得我{i}多少{/i}能猜到一点。"
+    mh "嗯...我觉得我{i}多少{/i}能猜到一点。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:144
 translate chinese sm1cs_mh007_a68cdb8e:
@@ -182,13 +182,13 @@ translate chinese sm1cs_mh007_009e5aa0:
 translate chinese sm1cs_mh007_b0619788:
 
     # mh "Gllllck, glllck, glllck, gllllck!"
-    mh "嗯嗯嗯嗯……噗……噗噗……"
+    mh "嗯嗯嗯嗯...噗...噗噗..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:153
 translate chinese sm1cs_mh007_e5361fa3:
 
     # mc "Oh sweet Jeeeeezuuuus, Lyssa!"
-    mc "哦，我的老天，莉萨！"
+    mc "哦，我的老天，丽莎！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:156
 translate chinese sm1cs_mh007_91f3af09:
@@ -211,8 +211,8 @@ translate chinese sm1cs_mh007_3b6195bd:
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:161
 translate chinese sm1cs_mh007_45d8da1b:
 
-    # mc "Fuuuuhhhhh... Lyssa..."
-    mc "操操操... 丽莎..."
+    # mc "Fuuuuhhhhh...Lyssa..."
+    mc "操操操...丽莎..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:162
 translate chinese sm1cs_mh007_cd8cd9a2:
@@ -229,14 +229,14 @@ translate chinese sm1cs_mh007_d82cd556:
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:166
 translate chinese sm1cs_mh007_77a1cc0a:
 
-    # mc "Oh, God... Lyssa - I'm - fuuuuuuuuh!"
-    mc "哦，天啊……丽莎--我要--操--！"
+    # mc "Oh, God...Lyssa - I'm - fuuuuuuuuh!"
+    mc "哦，天啊...丽莎--我要--操--！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:167
 translate chinese sm1cs_mh007_030db034:
 
-    # mc "If you keep... oh God, if you keep going, I'm - oh shiiiiiit."
-    mc "要是你再继续…… 哦老天，要是你再继续这样，我就要--哦靠--"
+    # mc "If you keep...oh God, if you keep going, I'm - oh shiiiiiit."
+    mc "要是你再继续...哦老天，要是你再继续这样，我就要--哦靠--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:168
 translate chinese sm1cs_mh007_62695d4a:
@@ -266,31 +266,31 @@ translate chinese sm1cs_mh007_837b6e63:
 translate chinese sm1cs_mh007_8300b6ae:
 
     # mh "Mmmmmmmmgoooood, yesssss."
-    mh "嗯嗯嗯……好舒服……"
+    mh "嗯嗯嗯...好舒服..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:188
 translate chinese sm1cs_mh007_d669fdbc:
 
-    # mh "I've been thinking about this all day... Goooooooood."
-    mh "我一整天都在想着这个……太--棒了。"
+    # mh "I've been thinking about this all day...Goooooooood."
+    mh "我一整天都在想着这个...太--棒了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:191
 translate chinese sm1cs_mh007_55cd1a16:
 
     # mc "Fuck, Lyssa..."
-    mc "操，丽莎……"
+    mc "操，丽莎..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:193
 translate chinese sm1cs_mh007_259ad6b6:
 
     # mh "Mmmhmmmm..."
-    mh "嗯哼……"
+    mh "嗯哼..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:194
 translate chinese sm1cs_mh007_8ae2a98c:
 
     # mh "Just...{w} give me a sec. I want to enjoy this feeling for a second."
-    mh "你……{w}给我一点时间。我想好好享受一下这种感觉。"
+    mh "你...{w}给我一点时间。我想好好享受一下这种感觉。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:198
 translate chinese sm1cs_mh007_409fb562:
@@ -302,13 +302,13 @@ translate chinese sm1cs_mh007_409fb562:
 translate chinese sm1cs_mh007_b1cea2f7:
 
     # mh "Mmmmmmmm..."
-    mh "嗯……"
+    mh "嗯..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:201
 translate chinese sm1cs_mh007_74bc0608:
 
-    # mh "Okay... God, this feels good..."
-    mh "好了……天啊，这感觉太棒了……"
+    # mh "Okay...God, this feels good..."
+    mh "好了...天啊，这感觉太棒了..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:208
 translate chinese sm1cs_mh007_95681ed0:
@@ -374,7 +374,7 @@ translate chinese sm1cs_mh007_af41bcfc:
 translate chinese sm1cs_mh007_e07b28f1:
 
     # mc "Grrrrr-Lyssa! This is-"
-    mc "呃啊啊--莉萨！这简直--"
+    mc "呃啊啊--丽莎！这简直--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:229
 translate chinese sm1cs_mh007_40a4baa0:
@@ -397,8 +397,8 @@ translate chinese sm1cs_mh007_74fe04de:
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:234
 translate chinese sm1cs_mh007_9350e3e2:
 
-    # mct "Those were some $5 words... Maybe I should've finished-"
-    mct "她还用上这么文雅的词…… 或许我当初该把大学念完--"
+    # mct "Those were some $5 words...Maybe I should've finished-"
+    mct "她还用上这么文雅的词...或许我当初该把大学念完--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:237
 translate chinese sm1cs_mh007_a64d31ab:
@@ -428,7 +428,7 @@ translate chinese sm1cs_mh007_e05b5a17:
 translate chinese sm1cs_mh007_2748d209:
 
     # mh "[mcname] - need. More. Leverage!"
-    mh "[mcname]……我要--更多--支撑点！"
+    mh "[mcname]...我要--更多--支撑点！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:246
 translate chinese sm1cs_mh007_861d37c5:
@@ -572,7 +572,7 @@ translate chinese sm1cs_mh007_4ba03775:
 translate chinese sm1cs_mh007_2c3d8962:
 
     # mh "Y-yes! Mmmmmmm - yes, yes, yes!"
-    mh "是--是的！嗯嗯嗯……对了，啊，啊啊啊！"
+    mh "是--是的！嗯嗯嗯...对了，啊，啊啊啊！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:305
 translate chinese sm1cs_mh007_b0072ede:
@@ -638,19 +638,19 @@ translate chinese sm1cs_mh007_7cc73022:
 translate chinese sm1cs_mh007_9c7e06b2:
 
     # mc "Wooooooooo...{w} that was good."
-    mc "喔--……{w}太棒了。"
+    mc "喔--...{w}太棒了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:340
 translate chinese sm1cs_mh007_986a89d8:
 
-    # mh "Yes... yes it was..."
-    mh "是的……确实很棒……"
+    # mh "Yes...yes it was..."
+    mh "是的...确实很棒..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:344
 translate chinese sm1cs_mh007_95e5c12c:
 
-    # mh "Thanks for coming over and taking my mind off... things."
-    mh "谢谢你过来帮我转移注意力，不去想那些……烦心事。"
+    # mh "Thanks for coming over and taking my mind off...things."
+    mh "谢谢你过来帮我转移注意力，不去想那些...烦心事。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:346
 translate chinese sm1cs_mh007_57eb4d21:
@@ -662,7 +662,7 @@ translate chinese sm1cs_mh007_57eb4d21:
 translate chinese sm1cs_mh007_109b8e4e:
 
     # mh "Hahaha...{w} I'll remember that."
-    mh "哈哈哈……{w}我会记住的。"
+    mh "哈哈哈...{w}我会记住的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:348
 translate chinese sm1cs_mh007_47554062:
@@ -673,14 +673,14 @@ translate chinese sm1cs_mh007_47554062:
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:351
 translate chinese sm1cs_mh007_6cfe8a27:
 
-    # mh "Mmhmmm... It's been a... long week."
-    mh "嗯…… 这周过得太漫长了。"
+    # mh "Mmhmmm...It's been a...long week."
+    mh "嗯...这周过得太漫长了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:354
 translate chinese sm1cs_mh007_9bc13801:
 
-    # mc "Can I... ask you something?"
-    mc "我……能问你点事吗？"
+    # mc "Can I...ask you something?"
+    mc "我...能问你点事吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:358
 translate chinese sm1cs_mh007_e2ef19db:
@@ -703,8 +703,8 @@ translate chinese sm1cs_mh007_231fc785:
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:366
 translate chinese sm1cs_mh007_c396584a:
 
-    # mc "Not exactly, but I was wondering... did you cum when I called you a good girl?"
-    mc "也不算吧，但我就是想知道…… 刚才我夸你是好女孩的时候，你是不是高潮了？"
+    # mc "Not exactly, but I was wondering...did you cum when I called you a good girl?"
+    mc "也不算吧，但我就是想知道...刚才我夸你是好女孩的时候，你是不是高潮了？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:369
 translate chinese sm1cs_mh007_f3763a23:
@@ -716,7 +716,7 @@ translate chinese sm1cs_mh007_f3763a23:
 translate chinese sm1cs_mh007_7136c946:
 
     # mc "I mean..."
-    mc "说实话……"
+    mc "说实话..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:373
 translate chinese sm1cs_mh007_88d63554:
@@ -728,13 +728,13 @@ translate chinese sm1cs_mh007_88d63554:
 translate chinese sm1cs_mh007_0facd114:
 
     # mh "Mmhmmm..."
-    mh "嗯哼……"
+    mh "嗯哼..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:378
 translate chinese sm1cs_mh007_95c6fa9c:
 
-    # mh "Well, I may have a little bit of a praise kink. It's just... nice to hear that you're doing a good job once in a while."
-    mh "嗯，我可能确实有点‘被夸癖’。只是……能听到别人夸奖我做得好，这种感觉真的很不错。"
+    # mh "Well, I may have a little bit of a praise kink. It's just...nice to hear that you're doing a good job once in a while."
+    mh "嗯，我可能确实有点‘被夸癖’。只是...能听到别人夸奖我做得好，这种感觉真的很不错。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:379
 translate chinese sm1cs_mh007_2b25d9be:
@@ -758,315 +758,315 @@ translate chinese sm1cs_mh007_b63d0dc9:
 translate chinese sm1cs_mh007_ecfbc871:
 
     # mc "I just wanted to check..."
-    mc "我就是想确认一下……"
+    mc "我就是想确认一下..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:389
 translate chinese sm1cs_mh007_df56fbad:
 
     # mh "I told you once upon a time that I am a switch. It's nice to be told what to do once in a while."
-    mh "I told you once upon a time that I am a switch. It's nice to be told what to do once in a while."
+    mh "我以前跟你说过，我是个可攻可受的人。偶尔有人能指挥我做些事，这种感觉其实挺好的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:390
 translate chinese sm1cs_mh007_f3565f13:
 
     # mh "Was that something you enjoyed? Because I am absolutely open to exploring more of my sub side."
-    mh "Was that something you enjoyed? Because I am absolutely open to exploring more of my sub side."
+    mh "你喜欢这样吗？因为我是很愿意多探索一下自己顺从的这一面。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:398
 translate chinese sm1cs_mh007_0a87c0c8:
 
     # mc "Yeah, I think we should explore more of that. I definitely had a good time."
-    mc "Yeah, I think we should explore more of that. I definitely had a good time."
+    mc "我很喜欢你这一面，我觉得咱们应该多试试这种方式。我刚才确实玩得很开心。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:400
 translate chinese sm1cs_mh007_b175489f:
 
-    # mh "Mmmmm... I was hoping you'd say that."
-    mh "Mmmmm... I was hoping you'd say that."
+    # mh "Mmmmm...I was hoping you'd say that."
+    mh "嗯...我就希望你能这么说。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:406
 translate chinese sm1cs_mh007_3c4b52a9:
 
-    # mc "I don't know... I'll need to think about it."
-    mc "I don't know... I'll need to think about it."
+    # mc "I don't know...I'll need to think about it."
+    mc "我也不知道...我得好好想想。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:409
 translate chinese sm1cs_mh007_6aad7d65:
 
     # mh "Either way, I'm just happy to be having sex with you again, [mcname]."
-    mh "Either way, I'm just happy to be having sex with you again, [mcname]."
+    mh "不管怎么样，[mcname]，能再跟你上床，我就已经很开心了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:413
 translate chinese sm1cs_mh007_1f2ebcf5:
 
-    # mc "So... work's not going well, huh."
-    mc "So... work's not going well, huh."
+    # mc "So...work's not going well, huh."
+    mc "所以...你工作不太顺利，是吧？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:415
 translate chinese sm1cs_mh007_e30ca83f:
 
-    # mh "Ugghhhh... [mcname]..."
-    mh "Ugghhhh... [mcname]..."
+    # mh "Ugghhhh...[mcname]..."
+    mh "唉...[mcname]..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:418
 translate chinese sm1cs_mh007_5090465c:
 
     # mc "Look, you don't have to talk to me about it. And believe me, if this is how you want to relieve work stress in the future, I am {i}so{/i} for it."
-    mc "Look, you don't have to talk to me about it. And believe me, if this is how you want to relieve work stress in the future, I am {i}so{/i} for it."
+    mc "听着，你要是不想说也没关系。而且说真的，要是以后你想靠这种方式缓解工作压力，我{i}举双手{/i}赞成。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:419
 translate chinese sm1cs_mh007_cfb38661:
 
     # mc "But, I can tell it's really bugging you, and that you should probably talk about it."
-    mc "But, I can tell it's really bugging you, and that you should probably talk about it."
+    mc "但我能看出来，这事确实让你很心烦，或许你还是该找人聊聊。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:422
 translate chinese sm1cs_mh007_3355807b:
 
     # mh "I..."
-    mh "I..."
+    mh "我..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:423
 translate chinese sm1cs_mh007_90bdb1b2:
 
     # mh "Dammit."
-    mh "Dammit."
+    mh "该死。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:426
 translate chinese sm1cs_mh007_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "怎么了？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:428
 translate chinese sm1cs_mh007_aafbd973:
 
     # mh "It's...{w} nothing."
-    mh "It's...{w} nothing."
+    mh "没什么...{w} 就是一点小事。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:429
 translate chinese sm1cs_mh007_33009130:
 
     # mc "Lyssa..."
-    mc "Lyssa..."
+    mc "丽莎..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:432
 translate chinese sm1cs_mh007_10275e30:
 
     # mh "It's just nice to see you care, is all. Not that you didn't care before, but..."
-    mh "It's just nice to see you care, is all. Not that you didn't care before, but..."
+    mh "我就是觉得，你能关心我，这种感觉挺好的。不是说你以前不关心我，只是..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:435
 translate chinese sm1cs_mh007_ce39f217:
 
     # mh "I've missed being able to talk to someone about things."
-    mh "I've missed being able to talk to someone about things."
+    mh "我一直很怀念能和人聊聊心事的感觉。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:437
 translate chinese sm1cs_mh007_21daeaf5:
 
     # mc "Well I got two ears, and I'm ready to listen!"
-    mc "Well I got two ears, and I'm ready to listen!"
+    mc "我有两只耳朵呢，随时准备听你说！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:440
 translate chinese sm1cs_mh007_b9ed86e0:
 
-    # mh "It's... honestly, it's just some idiotic thought that's been trapped in my head for the last few weeks."
-    mh "It's... honestly, it's just some idiotic thought that's been trapped in my head for the last few weeks."
+    # mh "It's...honestly, it's just some idiotic thought that's been trapped in my head for the last few weeks."
+    mh "其实...说实话，就是最近这几周，我脑子里总盘旋着一些很蠢的念头，甩都甩不掉。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:442
 translate chinese sm1cs_mh007_615c0669:
 
     # mc "You and idiotic don't belong in the same sentence. Ever."
-    mc "You and idiotic don't belong in the same sentence. Ever."
+    mc "你和‘蠢念头’这两个词，根本就不该放在同一句话里。永远都不该。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:445
 translate chinese sm1cs_mh007_82a29e92:
 
     # mh "Hahaha. Don't worry, [mcname]. I have my moments."
-    mh "Hahaha. Don't worry, [mcname]. I have my moments."
+    mh "哈哈哈。别这么说，[mcname]。我也有犯傻的时候。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:447
 translate chinese sm1cs_mh007_a385b01a:
 
     # mc "Nope. I don't believe it."
-    mc "Nope. I don't believe it."
+    mc "我才不信呢。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:450
 translate chinese sm1cs_mh007_cb11c524:
 
     # mh "Hahahahaha!"
-    mh "Hahahahaha!"
+    mh "哈哈哈！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:451
 translate chinese sm1cs_mh007_277802c1:
 
     # mh "You always know how to cheer me up, too."
-    mh "You always know how to cheer me up, too."
+    mh "你总是知道怎么能让我开心起来。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:453
 translate chinese sm1cs_mh007_5c6e1a41:
 
     # mc "I do my very best."
-    mc "I do my very best."
+    mc "我可是尽我所能了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:457
 translate chinese sm1cs_mh007_da08ed44:
 
     # mc "It helps though when I know what's bothering you."
-    mc "It helps though when I know what's bothering you."
+    mc "不过要是我知道你在烦什么，逗你开心会更容易些。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:459
 translate chinese sm1cs_mh007_c560a146:
 
-    # mh "*sigh*... Okay."
-    mh "*sigh*... Okay."
+    # mh "*sigh*...Okay."
+    mh "*叹气*...好吧。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:462
 translate chinese sm1cs_mh007_f6e806c4:
 
-    # mh "Lately I've just... not liked my job."
-    mh "Lately I've just... not liked my job."
+    # mh "Lately I've just...not liked my job."
+    mh "最近我就是...有点不喜欢我的工作了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:465
 translate chinese sm1cs_mh007_77f1a8c9:
 
     # mc "But I thought you loved being a lawyer?"
-    mc "But I thought you loved being a lawyer?"
+    mc "可我记得你不是很喜欢当律师吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:467
 translate chinese sm1cs_mh007_f0a73c3c:
 
     # mh "I do."
-    mh "I do."
+    mh "我是喜欢。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:471
 translate chinese sm1cs_mh007_8dad646b:
 
-    # mh "I still love being a lawyer. I'm just... not enjoying my practice right now."
-    mh "I still love being a lawyer. I'm just... not enjoying my practice right now."
+    # mh "I still love being a lawyer. I'm just...not enjoying my practice right now."
+    mh "我现在还是喜欢当律师。只是...我对现在的通用法律业务不太感兴趣了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:472
 translate chinese sm1cs_mh007_62bc3d3c:
 
-    # mh "After Oliver... you... maybe some of the magic wore off."
-    mh "After Oliver... you... maybe some of the magic wore off."
+    # mh "After Oliver...you...maybe some of the magic wore off."
+    mh "自从奥利弗的事...还有你的事之后...或许这份工作里的有些乐趣就慢慢消失了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:473
 translate chinese sm1cs_mh007_802dbe7b:
 
-    # mh "I know I'll always want to be a lawyer, but if I'm going to keep doing general practice work... I don't know."
-    mh "I know I'll always want to be a lawyer, but if I'm going to keep doing general practice work... I don't know."
+    # mh "I know I'll always want to be a lawyer, but if I'm going to keep doing general practice work...I don't know."
+    mh "我知道我会一直想当律师，但要是一直做这种综合业务...我真的不知道该怎么办。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:482
 translate chinese sm1cs_mh007_b9159d1c:
 
-    # mh "Call it a late quarter life crisis. I think... well, I'm not sure what I think."
-    mh "Call it a late quarter life crisis. I think... well, I'm not sure what I think."
+    # mh "Call it a late quarter life crisis. I think...well, I'm not sure what I think."
+    mh "你就当这是晚来的二十五岁危机吧。我觉得...唉，我也不知道自己在想什么。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:488
 translate chinese sm1cs_mh007_0bb62de8:
 
     # mc "Oh, Lyssa. That has to suck."
-    mc "Oh, Lyssa. That has to suck."
+    mc "哦，丽莎。那肯定很难受吧。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:490
 translate chinese sm1cs_mh007_581a31c7:
 
-    # mh "Yes... yes it does."
-    mh "Yes... yes it does."
+    # mh "Yes...yes it does."
+    mh "是啊...真的很难受。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:491
 translate chinese sm1cs_mh007_fbdfc6c0:
 
     # mc "You know what else sucks?"
-    mc "You know what else sucks?"
+    mc "你知道还有什么东西‘难受’吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:492
 translate chinese sm1cs_mh007_68f8d30b:
 
     # mh "Don't."
-    mh "Don't."
+    mh "不知道。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:496
 translate chinese sm1cs_mh007_784b2f61:
 
     # mc "Vampires suck."
-    mc "Vampires suck."
+    mc "吸血鬼啊，他们不是爱‘吸’血嘛。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:498
 translate chinese sm1cs_mh007_04bf46dd:
 
     # mh "God-"
-    mh "God-"
+    mh "好冷--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:500
 translate chinese sm1cs_mh007_a4e2f889:
 
     # mc "\"I vant to suck your blooooood!\""
-    mc "\"I vant to suck your blooooood!\""
+    mc "\"我要吸你的血！\""
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:503
 translate chinese sm1cs_mh007_58f91c29:
 
     # mh "Hahahahaha! [mcname]!"
-    mh "Hahahahaha! [mcname]!"
+    mh "哈哈哈！[mcname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:504
 translate chinese sm1cs_mh007_0b59c12a:
 
     # mh "You need some new material. Vampires are out, haven't you heard?"
-    mh "You need some new material. Vampires are out, haven't you heard?"
+    mh "你得找点新段子了。现在都不流行吸血鬼了，你没听说吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:508
 translate chinese sm1cs_mh007_399525de:
 
     # mc "I still think they're fun."
-    mc "I still think they're fun."
+    mc "可我觉得吸血鬼还挺有意思的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:510
 translate chinese sm1cs_mh007_586fe066:
 
     # mh "Mmhmmmm."
-    mh "Mmhmmmm."
+    mh "嗯..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:513
 translate chinese sm1cs_mh007_98e21a0a:
 
     # mc "But, Lyssa, you'll figure this out. I know you will. You're one of the smartest people I know."
-    mc "But, Lyssa, you'll figure this out. I know you will. You're one of the smartest people I know."
+    mc "不过丽莎，你肯定能想明白的。我知道你可以。你可是我认识的人里最聪明的之一。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:515
 translate chinese sm1cs_mh007_71413864:
 
     # mh "Oh, just one of them?"
-    mh "Oh, just one of them?"
+    mh "哦，只是‘之一’啊？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:516
 translate chinese sm1cs_mh007_b4b5c39b:
 
     # mc "At the very least."
-    mc "At the very least."
+    mc "至少是‘之一’。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:520
 translate chinese sm1cs_mh007_3ed77072:
 
     # mh "Thank you, [mcname]."
-    mh "Thank you, [mcname]."
+    mh "谢谢你，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:522
 translate chinese sm1cs_mh007_8dd9efd1:
 
     # mc "Of course, Lyssa."
-    mc "Of course, Lyssa."
+    mc "不用客气，丽莎。"
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:392
     old "I think it would be fun to do some more dom sub roleplay"
-    new "I think it would be fun to do some more dom sub roleplay"
+    new "我觉得多试试那种主仆角色扮演肯定会很有意思"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:392
-    old "I don't know... I think I'm good for now"
-    new "I don't know... I think I'm good for now"
+    old "I don't know...I think I'm good for now"
+    new "我也不知道...我觉得现在这样就挺好的"
 
