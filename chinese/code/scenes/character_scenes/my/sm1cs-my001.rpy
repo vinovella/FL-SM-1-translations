@@ -2,163 +2,163 @@
 translate chinese sm1cs_my001_9b7ea265:
 
     # mc "So, what do ya' think?"
-    mc "So, what do ya' think?"
+    mc "所以，你觉得怎么样？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:20
 translate chinese sm1cs_my001_78f4d6fe:
 
     # sy "Oooo la la! Someone is getting all fancy."
-    sy "Oooo la la! Someone is getting all fancy."
+    sy "哦哟哟！有人这是要好好打扮一番啊。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:24
 translate chinese sm1cs_my001_97928a99:
 
     # mc "Uh huh. I got myself a hot date tonight."
-    mc "Uh huh. I got myself a hot date tonight."
+    mc "嗯哼。我今晚有个约会，得穿得好看点。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:26
 translate chinese sm1cs_my001_98f81e33:
 
     # sy "Oh yeah? With who?"
-    sy "Oh yeah? With who?"
+    sy "哦？跟谁约会啊？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:30
 translate chinese sm1cs_my001_e85f03ff:
 
     # mc "Mom."
-    mc "Mom."
+    mc "妈妈啊。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:32
 translate chinese sm1cs_my001_e67e1668:
 
     # mc "Melony."
-    mc "Melony."
+    mc "梅洛妮啊。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:35
 translate chinese sm1cs_my001_9e3a3cc7:
 
     # sy "Like, a real bona fide date?"
-    sy "Like, a real bona fide date?"
+    sy "你是说，你打算来一场真正意义上的约会？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:37
 translate chinese sm1cs_my001_bbb44561:
 
     # mc "Well, I'm taking her to dinner to thank her for her help with the renovation."
-    mc "Well, I'm taking her to dinner to thank her for her help with the renovation."
+    mc "其实，我是想请她吃顿饭，感谢她帮咱们装修的忙。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:41
 translate chinese sm1cs_my001_14786da3:
 
     # sy "Oooooooh."
-    sy "Oooooooh."
+    sy "哦哦哦。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:43
 translate chinese sm1cs_my001_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "怎么了？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:46
 translate chinese sm1cs_my001_c02649b6:
 
     # sy "She doesn't {i}know{/i} it's a date."
-    sy "She doesn't {i}know{/i} it's a date."
+    sy "她肯定{i}不知道{/i}这是一场约会吧。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:48
 translate chinese sm1cs_my001_59d5afa2:
 
     # mc "But I'm taking her out!"
-    mc "But I'm taking her out!"
+    mc "可我就是在请她出去啊！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:52
 translate chinese sm1cs_my001_da48ac70:
 
     # sy "Yeah, her son is taking her to dinner for being a good mom. That's all she thinks it is."
-    sy "Yeah, her son is taking her to dinner for being a good mom. That's all she thinks it is."
+    sy "是啊，在她看来，就是儿子请妈妈吃顿饭，感谢妈妈这么贴心。她只会这么想。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:54
 translate chinese sm1cs_my001_f384df21:
 
     # sy "Yeah, her friend's kid is taking her out to dinner to say thanks for painting the wall. That's all she thinks it is."
-    sy "Yeah, her friend's kid is taking her out to dinner to say thanks for painting the wall. That's all she thinks it is."
+    sy "是啊，在她看来，就是朋友的孩子请她吃顿饭，感谢她帮忙刷墙。她只会这么想。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:57
 translate chinese sm1cs_my001_2fb4ae64:
 
     # mc "Well, when you put it that way..."
-    mc "Well, when you put it that way..."
+    mc "好吧，被你这么一说…… 好像确实是这样。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:61
 translate chinese sm1cs_my001_688d1fa8:
 
     # sy "You'll just have to use the ol' [mcname] charm on her to show her it's a {i}date{/i} date."
-    sy "You'll just have to use the ol' [mcname] charm on her to show her it's a {i}date{/i} date."
+    sy "那你就得拿出[mcname]专属魅力，让她明白这是一场真正的、有着{i}约会性质{/i}的约会。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:63
 translate chinese sm1cs_my001_831e66f9:
 
     # mc "What the hell is the \"[mcname] charm\"?"
-    mc "What the hell is the \"[mcname] charm\"?"
+    mc "\"[mcname]专属魅力\"是个什么鬼？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:67
 translate chinese sm1cs_my001_6bc011db:
 
     # sy "No clue. But it seems to work with pretty much everyone, so just be you tonight and everything will work out."
-    sy "No clue. But it seems to work with pretty much everyone, so just be you tonight and everything will work out."
+    sy "我也不知道。但这魅力好像对谁都管用，所以今晚做你自己就好了，一切都会顺利的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:70
 translate chinese sm1cs_my001_4dd94c72:
 
     # mc "Thanks for the pep talk, sis."
-    mc "Thanks for the pep talk, sis."
+    mc "谢谢你的鼓励，老妹。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:72
 translate chinese sm1cs_my001_c1097488:
 
     # mc "Thanks for the pep talk, Stacy."
-    mc "Thanks for the pep talk, Stacy."
+    mc "谢谢你的鼓励，史黛西。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:77
 translate chinese sm1cs_my001_293b6f8c:
 
     # sy "That's what I'm here for!"
-    sy "That's what I'm here for!"
+    sy "这就是我存在的意义！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:80
 translate chinese sm1cs_my001_efe5b177:
 
     # sy "I just can't believe you actually asked her out."
-    sy "I just can't believe you actually asked her out."
+    sy "真不敢相信，你居然真的约她出去了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:84
 translate chinese sm1cs_my001_9e65a1b3:
 
     # mc "Why!? This was your idea!"
-    mc "Why!? This was your idea!"
+    mc "为什么不敢信啊!? 这本来就是你出的主意！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:87
 translate chinese sm1cs_my001_fb7a3a46:
 
     # sy "Yeah, but I didn't think you'd do it."
-    sy "Yeah, but I didn't think you'd do it."
+    sy "是啊，可我没想到你真的会这么做。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:91
 translate chinese sm1cs_my001_56c3991c:
 
     # mc "Why not?"
-    mc "Why not?"
+    mc "为什么啊？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:95
 translate chinese sm1cs_my001_43595862:
 
     # sy "I don't know. But I support the fact that you're going for it!"
-    sy "I don't know. But I support the fact that you're going for it!"
+    sy "我也说不清楚。但你愿意去尝试，我特别支持你！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:97
 translate chinese sm1cs_my001_d1bddb7d:
 
     # mc "Well... I have to keep you guessing!"
-    mc "Well... I have to keep you guessing!"
+    mc "嗯…… 我就是要让你猜不透我！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:98
 translate chinese sm1cs_my001_2b35b6fe:
