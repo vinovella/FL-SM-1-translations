@@ -2,79 +2,79 @@
 translate chinese sm1cs_sy003_bar_start_9e9ec5a0:
 
     # mc "Well, you're probably right. We want to make sure the product holds up to our standards."
-    mc "Well, you're probably right. We want to make sure the product holds up to our standards."
+    mc "嗯，你说得可能没错。我们得确保产品能达到我们的标准。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:81
 translate chinese sm1cs_sy003_bar_start_ae224170:
 
     # sy "Exactly. And the only way to do that is a wonderful evening of my brother taking me to pound-town."
-    sy "Exactly. And the only way to do that is a wonderful evening of my brother taking me to pound-town."
+    sy "可不是嘛。而要做到这一点，唯一的办法就是让我哥哥今晚好好‘干’我一场。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:83
 translate chinese sm1cs_sy003_bar_start_cfff8975:
 
     # sy "Exatly. And the only way to do that is a wonderful evening of you taking me to pound-town."
-    sy "Exatly. And the only way to do that is a wonderful evening of you taking me to pound-town."
+    sy "可不是嘛。而要做到这一点，唯一的办法就是让你今晚好好‘干’我一场。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:92
 translate chinese sm1cs_sy003_bar_start_e1a0a221:
 
     # mc "Haha. Damn right."
-    mc "Haha. Damn right."
+    mc "哈哈。太对了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:110
 translate chinese sm1cs_sy003_home_start_9e9ec5a0:
 
     # mc "Well, you're probably right. We want to make sure the product holds up to our standards."
-    mc "Well, you're probably right. We want to make sure the product holds up to our standards."
+    mc "嗯，你说得可能没错。我们得确保产品能达到我们的标准。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:116
 translate chinese sm1cs_sy003_home_start_ae224170:
 
     # sy "Exactly. And the only way to do that is a wonderful evening of my brother taking me to pound-town."
-    sy "Exactly. And the only way to do that is a wonderful evening of my brother taking me to pound-town."
+    sy "可不是嘛。而要做到这一点，唯一的办法就是让我哥哥今晚好好‘干’我一场。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:118
 translate chinese sm1cs_sy003_home_start_cfff8975:
 
     # sy "Exatly. And the only way to do that is a wonderful evening of you taking me to pound-town."
-    sy "Exatly. And the only way to do that is a wonderful evening of you taking me to pound-town."
+    sy "可不是嘛。而要做到这一点，唯一的办法就是让你今晚好好‘干’我一场。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:123
 translate chinese sm1cs_sy003_home_start_e1a0a221:
 
     # mc "Haha. Damn right."
-    mc "Haha. Damn right."
+    mc "哈哈。太对了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:146
 translate chinese sm1cs_sy003_continue_2c602d26:
 
     # sy "Mmm. I love playing with your big cock on our huge bed."
-    sy "Mmm. I love playing with your big cock on our huge bed."
+    sy "嗯。我就喜欢在我们那张大大的床上，把玩你那根又大又硬的家伙。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:149
 translate chinese sm1cs_sy003_continue_7cc50d60:
 
     # sy "I just hope you still have enough energy left for me."
-    sy "I just hope you still have enough energy left for me."
+    sy "我就是担心你到时候还有没有力气陪我。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:152
 translate chinese sm1cs_sy003_continue_723dd9a3:
 
     # mc "You don't have to worry about that. Mrmm..."
-    mc "You don't have to worry about that. Mrmm..."
+    mc "这你就不用担心了。嗯..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:156
 translate chinese sm1cs_sy003_continue_a5da9d25:
 
     # sy "*giggles* Good."
-    sy "*giggles* Good."
+    sy "*咯咯笑* 那就好。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:166
 translate chinese sm1cs_sy003_first_time_b5156d3f:
 
     # sy "I almost forgot about this."
-    sy "I almost forgot about this."
+    sy "我差点把这个忘了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:168
 translate chinese sm1cs_sy003_first_time_35568682:
