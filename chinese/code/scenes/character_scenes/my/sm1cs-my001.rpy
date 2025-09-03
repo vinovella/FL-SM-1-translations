@@ -86,7 +86,7 @@ translate chinese sm1cs_my001_f384df21:
 translate chinese sm1cs_my001_2fb4ae64:
 
     # mc "Well, when you put it that way..."
-    mc "好吧，被你这么一说…… 好像确实是这样。"
+    mc "好吧，被你这么一说...好像确实是这样。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:61
 translate chinese sm1cs_my001_688d1fa8:
@@ -157,8 +157,8 @@ translate chinese sm1cs_my001_43595862:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:97
 translate chinese sm1cs_my001_d1bddb7d:
 
-    # mc "Well... I have to keep you guessing!"
-    mc "嗯…… 我就是要让你猜不透我！"
+    # mc "Well...I have to keep you guessing!"
+    mc "嗯...我就是要让你猜不透我！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:98
 translate chinese sm1cs_my001_2b35b6fe:
@@ -181,8 +181,8 @@ translate chinese sm1cs_my001_fc36362a:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:105
 translate chinese sm1cs_my001_d0272e8d:
 
-    # mc "Uh huh... and why didn't you just wait to get into the bathroom?"
-    mc "嗯哼…… 那你为什么不等到了浴室再脱呢？"
+    # mc "Uh huh...and why didn't you just wait to get into the bathroom?"
+    mc "嗯哼...那你为什么不等到了浴室再脱呢？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:108
 translate chinese sm1cs_my001_7fe7034c:
@@ -193,8 +193,8 @@ translate chinese sm1cs_my001_7fe7034c:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:110
 translate chinese sm1cs_my001_aa8caa83:
 
-    # mc "Wet... but... huh?"
-    mc "弄湿…… 可是…… 啊？"
+    # mc "Wet...but...huh?"
+    mc "弄湿...可是...啊？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:115
 translate chinese sm1cs_my001_f311ecb2:
@@ -271,8 +271,8 @@ translate chinese sm1cs_my001_a1d800a1:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:158
 translate chinese sm1cs_my001_38235a59:
 
-    # mct "Okay... I just need to be my usual, charming self... no need to overthink, or stress. Just do the date, [mcname]..."
-    mct "好了…… 我只要表现出平时那种有魅力的样子就行…… 不用想太多，也不用紧张。[mcname]，就正常约会就好..."
+    # mct "Okay...I just need to be my usual, charming self...no need to overthink, or stress. Just do the date, [mcname]..."
+    mct "好了...我只要表现出平时那种有魅力的样子就行...不用想太多，也不用紧张。[mcname]，就正常约会就好..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:163
 translate chinese sm1cs_my001_295d385a:
@@ -356,7 +356,7 @@ translate chinese sm1cs_my001_be1cf188:
 translate chinese sm1cs_my001_ed043ae2:
 
     # mc "Well, I just, uhm, really want to show you how much I appreciate you."
-    mc "嗯，我就是…… 呃，特别想让你知道，我有多感谢你。"
+    mc "嗯，我就是...呃，特别想让你知道，我有多感谢你。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:206
 translate chinese sm1cs_my001_bb278380:
@@ -428,7 +428,7 @@ translate chinese sm1cs_my001_3d8e743d:
 translate chinese sm1cs_my001_520dd091:
 
     # my "Mmmmm, I'll take a glass of the hosue red."
-    my "嗯…… 我要一杯餐厅的招牌红酒。"
+    my "嗯...我要一杯餐厅的招牌红酒。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:238
 translate chinese sm1cs_my001_9947685b:
@@ -451,20 +451,20 @@ translate chinese sm1cs_my001_9869e6bb:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:250
 translate chinese sm1cs_my001_a11e17c8:
 
-    # mc "Well... I also got that from you?"
-    mc "这个嘛……也是跟你学的？"
+    # mc "Well...I also got that from you?"
+    mc "这个嘛...也是跟你学的？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:252
 translate chinese sm1cs_my001_7f89a20b:
 
-    # mc "Well... I got that from watching you?"
-    mc "这个嘛……是看你喝酒学的？"
+    # mc "Well...I got that from watching you?"
+    mc "这个嘛...是看你喝酒学的？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:255
 translate chinese sm1cs_my001_7ef7cda9:
 
-    # my "Compliment after compliment... if I didn't know any better, I'd say this was a date."
-    my "一句接一句地夸我…… 要不是我了解你，我都要以为这是一场约会了。"
+    # my "Compliment after compliment...if I didn't know any better, I'd say this was a date."
+    my "一句接一句地夸我...要不是我了解你，我都要以为这是一场约会了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:256
 translate chinese sm1cs_my001_eacfa1b7:
@@ -499,8 +499,8 @@ translate chinese sm1cs_my001_b2b9e19d:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:268
 translate chinese sm1cs_my001_6dc64527:
 
-    # my "I used to have this... friend. Now, he wasn't exactly working in the adult entertainment industry, but close. Lots of nude models in his studio, lots of partying..."
-    my "我以前有个…… 朋友。他当时虽然不是在成人娱乐行业工作，但也差不多了。他的工作室里有好多裸体模特，还经常举办派对……"
+    # my "I used to have this...friend. Now, he wasn't exactly working in the adult entertainment industry, but close. Lots of nude models in his studio, lots of partying..."
+    my "我以前有个...朋友。他当时虽然不是在成人娱乐行业工作，但也差不多了。他的工作室里有好多裸体模特，还经常举办派对..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
 translate chinese sm1cs_my001_a83aec2c:
@@ -524,7 +524,7 @@ translate chinese sm1cs_my001_a9a8a236:
 translate chinese sm1cs_my001_bc250ca0:
 
     # mc "But I think w- I'm doing something different. There's a real plan, and professionals involved, and I think I'm going to be successful with the porn studio."
-    mc "但我觉得…… 我们现在做的事不一样。我们有明确的计划，还有专业人士参与，我觉得我的色情工作室肯定能成功。"
+    mc "但我觉得...我们现在做的事不一样。我们有明确的计划，还有专业人士参与，我觉得我的色情工作室肯定能成功。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:279
 translate chinese sm1cs_my001_5cb5703e:
@@ -637,8 +637,8 @@ translate chinese sm1cs_my001_866dba6a:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:337
 translate chinese sm1cs_my001_c5db756f:
 
-    # my "Mmmhmmm. There's just something about this place... I love it here."
-    my "嗯哼。这地方就是有种特别的魅力……我太爱这里了。"
+    # my "Mmmhmmm. There's just something about this place...I love it here."
+    my "嗯哼。这地方就是有种特别的魅力...我太爱这里了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:340
 translate chinese sm1cs_my001_fbc81922:
@@ -655,8 +655,8 @@ translate chinese sm1cs_my001_5cc1af5f:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:345
 translate chinese sm1cs_my001_b8cc636d:
 
-    # my "No, no. Nothing like that. I've just always found hotels... sterile. There's no life in them."
-    my "没有，没有。不是那种问题。我就是一直觉得酒店…… 太缺乏生气了。里面一点生活的气息都没有。"
+    # my "No, no. Nothing like that. I've just always found hotels...sterile. There's no life in them."
+    my "没有，没有。不是那种问题。我就是一直觉得酒店...太缺乏生气了。里面一点生活的气息都没有。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
 translate chinese sm1cs_my001_2cecdbca:
@@ -805,8 +805,8 @@ translate chinese sm1cs_my001_f581eec3:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:412
 translate chinese sm1cs_my001_840783b0:
 
-    # my "Mmmm... I can't even remember the last time I had oysters."
-    my "嗯…… 我都想不起来上一次吃生蚝是什么时候了。"
+    # my "Mmmm...I can't even remember the last time I had oysters."
+    my "嗯...我都想不起来上一次吃生蚝是什么时候了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:414
 translate chinese sm1cs_my001_4eadc533:
@@ -908,13 +908,13 @@ translate chinese sm1cs_my001_4fd73ed9:
 translate chinese sm1cs_my001_7d57780b:
 
     # my "Mmmmm. That's tough..."
-    my "嗯…… 这个有点难回答..."
+    my "嗯...这个有点难回答..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:461
 translate chinese sm1cs_my001_e1232321:
 
-    # my "But... the one I think back to the most was in Rome."
-    my "不过…… 我最常回想起来的，是在罗马的一段经历。"
+    # my "But...the one I think back to the most was in Rome."
+    my "不过...我最常回想起来的，是在罗马的一段经历。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:467
 translate chinese sm1cs_my001_52839a06:
@@ -1028,327 +1028,327 @@ translate chinese sm1cs_my001_8830467d:
 translate chinese sm1cs_my001_b3ad2cc0:
 
     # my "I stumbled around, until a kind person told me that it would be 5 euros. I nervously held out my hand, and felt them take the money."
-    my "我在里面摸索着走，后来有个好心人跟我说，想开灯得付 5 欧元。我紧张地伸出手，感觉他把钱接走了。"
+    my "我在里面摸索着走，后来有个好心人跟我说，想看画得付5欧元。我紧张地伸出手，感觉他把钱接走了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:510
 translate chinese sm1cs_my001_f49a102d:
 
-    # my "And then the lights came on. The walls, the ceiling... they were covered in these masterpieces. I can't even begin to describe how beautiful they were."
-    my "And then the lights came on. The walls, the ceiling... they were covered in these masterpieces. I can't even begin to describe how beautiful they were."
+    # my "And then the lights came on. The walls, the ceiling...they were covered in these masterpieces. I can't even begin to describe how beautiful they were."
+    my "然后灯就亮了。墙壁上、天花板上...全都是那些传世名作。它们有多美，我根本没办法用语言形容。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:511
 translate chinese sm1cs_my001_e106e346:
 
     # my "And then the lights shut off. 30 seconds is all I got."
-    my "And then the lights shut off. 30 seconds is all I got."
+    my "可紧接着灯又灭了。我就只看了三十秒。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:512
 translate chinese sm1cs_my001_6588ab4b:
 
     # my "I stumbled into the hostel that night, sore, exhausted, but more alive than I had ever felt."
-    my "I stumbled into the hostel that night, sore, exhausted, but more alive than I had ever felt."
+    my "那天晚上我跌跌撞撞回到旅社，浑身又酸又累，但那种鲜活的感觉，是我以前从来没有过的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:516
 translate chinese sm1cs_my001_2c9a23fd:
 
     # mc "Wow..."
-    mc "Wow..."
+    mc "哇..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:519
 translate chinese sm1cs_my001_17887d6c:
 
     # my "It seems I have another reason to apologize tonight. I didn't mean to get so lost in an old memory."
-    my "It seems I have another reason to apologize tonight. I didn't mean to get so lost in an old memory."
+    my "看来我今晚又多了一个该道歉的理由。我不是故意沉浸在过去的回忆里说个没完的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:521
 translate chinese sm1cs_my001_c3171379:
 
     # mc "No! Don't apologize. That was beautiful."
-    mc "No! Don't apologize. That was beautiful."
+    mc "不用道歉！你的故事特别棒。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:525
 translate chinese sm1cs_my001_544d05f8:
 
     # "Waiter" "And your main course for the evening, the pasta linguini. Please enjoy."
-    "Waiter" "And your main course for the evening, the pasta linguini. Please enjoy."
+    "服务员" "两位晚上点的主菜，扁意面来了。请慢用。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:532
 translate chinese sm1cs_my001_651faa76:
 
     # my "Wow, [mcname], this looks incredible."
-    my "Wow, [mcname], this looks incredible."
+    my "哇，[mcname]，这看起来也太好吃了吧。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:535
 translate chinese sm1cs_my001_e30ebd67:
 
     # mc "Only the best for you, Mom."
-    mc "Only the best for you, Mom."
+    mc "只有最好的才配得上你，妈妈。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:537
 translate chinese sm1cs_my001_44240522:
 
     # mc "Only the best for you, Melony."
-    mc "Only the best for you, Melony."
+    mc "只有最好的才配得上你，梅洛妮。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:540
 translate chinese sm1cs_my001_df2bd10a:
 
     # my "Thank you, sweetheart."
-    my "Thank you, sweetheart."
+    my "谢谢你，宝贝。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:541
 translate chinese sm1cs_my001_87225622:
 
     # my "But, before you ask me any other questions, let's eat. Lord knows what will happen if I keep rambling on."
-    my "But, before you ask me any other questions, let's eat. Lord knows what will happen if I keep rambling on."
+    my "不过，在你问我其他问题之前，咱们先吃饭吧。天知道我要是再絮叨下去，还会说出什么来。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:545
 translate chinese sm1cs_my001_6d22ede5:
 
     # mc "I'm enjoying the rambling though."
-    mc "I'm enjoying the rambling though."
+    mc "可我就喜欢听你絮叨啊。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:548
 translate chinese sm1cs_my001_ac0ee4ac:
 
     # my "Well, I'm happy to hear I'm not boring you."
-    my "Well, I'm happy to hear I'm not boring you."
+    my "那我就放心了，至少我没让你觉得无聊。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:550
 translate chinese sm1cs_my001_1f6f9af5:
 
     # mc "You never could."
-    mc "You never could."
+    mc "你从来都不会让我觉得无聊。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:556
 translate chinese sm1cs_my001_7e2aecd7:
 
     # my "Mmmmmm, that was wonderful."
-    my "Mmmmmm, that was wonderful."
+    my "嗯...太好吃了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:559
 translate chinese sm1cs_my001_3a52c789:
 
     # mc "Yeah, absolutely delicious!"
-    mc "Yeah, absolutely delicious!"
+    mc "是啊，简直太美味了！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:563
 translate chinese sm1cs_my001_4040cc16:
 
     # "Waiter" "Sir, would you and your date be interested in a dessert this evening?"
-    "Waiter" "Sir, would you and your date be interested in a dessert this evening?"
+    "服务员" "先生，您和您的女伴今晚有兴趣来点甜点吗？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:565
 translate chinese sm1cs_my001_ac58434a:
 
     # mc "Oh, she's-"
-    mc "Oh, she's-"
+    mc "哦，她其实--"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:568
 translate chinese sm1cs_my001_ca6fec8c:
 
     # my "I'm quite full actually. I believe just the check is all we need."
-    my "I'm quite full actually. I believe just the check is all we need."
+    my "我已经吃得很饱了。我们只需要结账就行。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:570
 translate chinese sm1cs_my001_3f5141d8:
 
     # "Waiter" "Of course, ma'am."
-    "Waiter" "Of course, ma'am."
+    "服务员" "好的，女士。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:573
 translate chinese sm1cs_my001_9c7841d6:
 
     # mc "I'm sorry, I said earlier I was waiting for my date. I didn't mean to make it weird or anything."
-    mc "I'm sorry, I said earlier I was waiting for my date. I didn't mean to make it weird or anything."
+    mc "对不起啊，你没来的时候是我说在等约会对象。我不是故意要让气氛变奇怪的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:576
 translate chinese sm1cs_my001_ade744bf:
 
     # my "It's all right, [mcname]."
-    my "It's all right, [mcname]."
+    my "没事的，[mcname]。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:579
 translate chinese sm1cs_my001_b441f99d:
 
     # my "It's been a long time since anyone has taken me on a date. I'm fine with leaning into it a bit."
-    my "It's been a long time since anyone has taken me on a date. I'm fine with leaning into it a bit."
+    my "已经有好长时间没人带我出来约会了。就算顺着这个氛围来，我也觉得挺好的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:580
 translate chinese sm1cs_my001_85db4fce:
 
     # my "This has truly been a wonderful evening."
-    my "This has truly been a wonderful evening."
+    my "今晚真的过得特别愉快。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:582
 translate chinese sm1cs_my001_fafc0cd2:
 
     # mc "Good. I wanted to make sure you had a pleasant evening."
-    mc "Good. I wanted to make sure you had a pleasant evening."
+    mc "那就好。我就是想让你今晚过得开心点。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:591
 translate chinese sm1cs_my001_b5c61a4a:
 
     # mc "Nuh uh. You don't get to pay for your \"thank you\" dinner."
-    mc "Nuh uh. You don't get to pay for your \"thank you\" dinner."
+    mc "不行不行。这顿\"感谢餐\"可不能让你付钱。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:598
 translate chinese sm1cs_my001_a34fe746:
 
     # "Waiter" "I hope you both had an excellent evening, and we hope to see you again soon."
-    "Waiter" "I hope you both had an excellent evening, and we hope to see you again soon."
+    "服务员" "希望两位今晚用餐愉快，也期待两位下次再来。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:601
 translate chinese sm1cs_my001_093e45b1:
 
     # my "[mcname], you don't need to be so ridiculous."
-    my "[mcname], you don't need to be so ridiculous."
+    my "[mcname]，你别这么固执嘛。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:603
 translate chinese sm1cs_my001_277fbca3:
 
     # mc "What, and let you pay for the dinner I asked you to?"
-    mc "What, and let you pay for the dinner I asked you to?"
+    mc "怎么能让你付钱呢？这顿饭本来就是我请你的啊。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:606
 translate chinese sm1cs_my001_f38ceacc:
 
     # my "Yes! Because this place is expensive, and you should be saving your money for the studio."
-    my "Yes! Because this place is expensive, and you should be saving your money for the studio."
+    my "当然要我付！这地方消费不低，你该把钱省下来用在工作室上。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:610
 translate chinese sm1cs_my001_da40fa13:
 
     # mc "There's no price too high for you, Mom."
-    mc "There's no price too high for you, Mom."
+    mc "妈妈，为你花钱，多少都值得。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:612
 translate chinese sm1cs_my001_63703fe4:
 
     # mc "There's no price too high for you, Melony."
-    mc "There's no price too high for you, Melony."
+    mc "梅洛妮，为你花钱，多少都值得。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:615
 translate chinese sm1cs_my001_0462e523:
 
     # my "Still. Save your money!"
-    my "Still. Save your money!"
+    my "还是不行。你得省钱！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:617
 translate chinese sm1cs_my001_2cb43627:
 
     # mc "When it comes to you? Never."
-    mc "When it comes to you? Never."
+    mc "只要是为你，我才不省呢。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:621
 translate chinese sm1cs_my001_2dffede9:
 
     # my "Oh you sweet talker."
-    my "Oh you sweet talker."
+    my "哦，你这小嘴可真甜。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:626
 translate chinese sm1cs_my001_9fab43d1:
 
     # mc "Would you like me to walk you back to your hotel?"
-    mc "Would you like me to walk you back to your hotel?"
+    mc "我送你回酒店吧？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:628
 translate chinese sm1cs_my001_04bea51e:
 
     # my "No, I'll be alright. The hotel is pretty close to here."
-    my "No, I'll be alright. The hotel is pretty close to here."
+    my "不用了，我自己可以的。酒店离这儿挺近的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:631
 translate chinese sm1cs_my001_39add513:
 
     # my "Thank you for a special evening, [mcname]."
-    my "Thank you for a special evening, [mcname]."
+    my "[mcname]，谢谢你给了我一个这么特别的晚上。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:636
 translate chinese sm1cs_my001_5c9c2dd2_1:
 
     # mc "Of course, Mom."
-    mc "Of course, Mom."
+    mc "我应该做的，妈妈。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:638
 translate chinese sm1cs_my001_6298931c_1:
 
     # mc "Of course, Melony."
-    mc "Of course, Melony."
+    mc "我应该做的，梅洛妮。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:639
 translate chinese sm1cs_my001_78afa441:
 
     # mc "We'll have to do it again soon."
-    mc "We'll have to do it again soon."
+    mc "我们得尽快再约一次。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:642
 translate chinese sm1cs_my001_efa3c9fa:
 
     # my "Promise?"
-    my "Promise?"
+    my "你保证？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:644
 translate chinese sm1cs_my001_e8b3c062:
 
     # mc "Promise."
-    mc "Promise."
+    mc "我保证。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:647
 translate chinese sm1cs_my001_e0af0515:
 
     # my "This really means the world to me. You have no idea."
-    my "This really means the world to me. You have no idea."
+    my "你都不知道，这对我来说有多重要。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:648
 translate chinese sm1cs_my001_6639754e:
 
     # mct "Man, this hug is going on for a while."
-    mct "Man, this hug is going on for a while."
+    mct "喔，这个拥抱持续得有点久啊。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:651
 translate chinese sm1cs_my001_b9421d51:
 
-    # mct "Like, a while a while... not like a friendly hug, but..."
-    mct "Like, a while a while... not like a friendly hug, but..."
+    # mct "Like, a while a while...not like a friendly hug, but..."
+    mct "真的好久...不像是普通朋友的拥抱，反而更像是..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:655
 translate chinese sm1cs_my001_2e4c0d84:
 
     # my "Well, you know how to get a hold of me."
-    my "Well, you know how to get a hold of me."
+    my "你知道怎么联系我。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:656
 translate chinese sm1cs_my001_7563bbbf:
 
     # my "I'll see you soon, I hope."
-    my "I'll see you soon, I hope."
+    my "希望我们很快能再见。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:658
 translate chinese sm1cs_my001_e427b8d8:
 
     # mc "Oh, you will!"
-    mc "Oh, you will!"
+    mc "肯定会的！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:663
 translate chinese sm1cs_my001_552fac8e:
 
-    # mct "Well, I think that went well... Like, really well."
-    mct "Well, I think that went well... Like, really well."
+    # mct "Well, I think that went well...Like, really well."
+    mct "嗯，我觉得进展得不错...真的不错。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:664
 translate chinese sm1cs_my001_52176b68:
 
     # mc "Well enough that she wants to do it again. Which is a good sign!"
-    mc "Well enough that she wants to do it again. Which is a good sign!"
+    mc "顺利到她还想再出来一次，这可是个好信号！"
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:682
     old "Date with Melony"
-    new "Date with Melony"
+    new "和梅洛妮约会"
 
     # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:682
     old "You paid $200 as restaurant bill"
-    new "You paid $200 as restaurant bill"
+    new "你支付了200美元的餐厅账单"
 
