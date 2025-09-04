@@ -2,61 +2,61 @@
 translate chinese sm1cs_ag003_143c6865:
 
     # mc "Anna!"
-    mc "Anna!"
+    mc "安娜！"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:20
 translate chinese sm1cs_ag003_f3430c0d:
 
     # ag "[mcname]!? What are you doing here?"
-    ag "[mcname]!? What are you doing here?"
+    ag "[mcname]!? 你怎么会在这里？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:25
 translate chinese sm1cs_ag003_db08acd6:
 
     # mc "I asked Claire where you were."
-    mc "I asked Claire where you were."
+    mc "我问克莱尔你在哪儿，她告诉我的。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:27
 translate chinese sm1cs_ag003_7809290e:
 
     # mc "I was just grabbing a cup of coffee and saw you."
-    mc "I was just grabbing a cup of coffee and saw you."
+    mc "我刚才过来买杯咖啡，就看到你了。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:30
 translate chinese sm1cs_ag003_2af35c01:
 
     # ag "Oh..."
-    ag "Oh..."
+    ag "哦..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:33
 translate chinese sm1cs_ag003_9d83a8e2:
 
     # mc "What are you doing here?"
-    mc "What are you doing here?"
+    mc "你在这里做什么？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:36
 translate chinese sm1cs_ag003_386184cb:
 
     # ag "Erm, I just wanted to, you know, mix up where I was working. Get out of the office."
-    ag "Erm, I just wanted to, you know, mix up where I was working. Get out of the office."
+    ag "呃，我就是想，你懂的，换个地方工作。不想待在办公室里。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:39
 translate chinese sm1cs_ag003_cc4ce0b6:
 
     # mc "Oh...{w} Is something going on in the office? Is April making fun of you again?"
-    mc "Oh...{w} Is something going on in the office? Is April making fun of you again?"
+    mc "哦……{w}办公室里是不是出什么事了？是不是艾普尔又取笑你了？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:43
 translate chinese sm1cs_ag003_71ee7c9c:
 
     # ag "No, no. At least not more than usual. Erm... I just can feel, erm, cramped when I'm in the office."
-    ag "No, no. At least not more than usual. Erm... I just can feel, erm, cramped when I'm in the office."
+    ag "没有，没有。至少没有比平时更过分。呃…… 我就是待在办公室里会觉得，呃，很压抑。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:46
 translate chinese sm1cs_ag003_e0dd96dd:
 
     # mct "Man, she is acting super strange... Something has to be up, right?"
-    mct "Man, she is acting super strange... Something has to be up, right?"
+    mct "天呐，她表现得也太奇怪了…… 肯定有什么事，对吧？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:49
 translate chinese sm1cs_ag003_0f786908:
