@@ -398,7 +398,7 @@ translate chinese sm1cs_am004_ag_appears_cebe9fd8:
 translate chinese sm1cs_am004_ag_appears_f3520090:
 
     # ag "Merciless sounds about right."
-    ag "“冷酷无情”这个称呼听起来还挺贴切的。"
+    ag "“冷面”这个称呼听起来还挺贴切的。"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:281
 translate chinese sm1cs_am004_ag_appears_4661a639:
@@ -1698,5 +1698,5 @@ translate chinese strings:
 translate chinese sm1cs_am004_ag_appears_01e66815:
 
     # mcon "And on bass we have April the Merciless!"
-    mcon "And on bass we have April the Merciless!"
+    mcon "负责贝斯部分的是我们的‘冷面艾普尔’！"
 
