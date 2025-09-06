@@ -2,121 +2,121 @@
 translate chinese sm1cs_ns010i_a752e663:
 
     # mc "I've been thinking. Something has come up with my friend Nari at work."
-    mc "I've been thinking. Something has come up with my friend Nari at work."
+    mc "我一直在想一件事。我在公司的朋友娜丽那边出了点情况。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:10
 translate chinese sm1cs_ns010i_eed433ea:
 
     # sy "Ooooh, are things getting spicy with her?"
-    sy "Ooooh, are things getting spicy with her?"
+    sy "哦～你跟她是不是有情况了啊？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:14
 translate chinese sm1cs_ns010i_26fe5218:
 
     # sy "Have you two done some {i}overtime{/i} in a cubicle yet?"
-    sy "Have you two done some {i}overtime{/i} in a cubicle yet?"
+    sy "你们俩有没有在格子间里{i}加那种班{/i}啊？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:16
 translate chinese sm1cs_ns010i_2a7a0b48:
 
     # mc "What? No. We don't have cubicles."
-    mc "What? No. We don't have cubicles."
+    mc "什么？没有。我们公司根本就没有格子间。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:17
 translate chinese sm1cs_ns010i_b064da60:
 
     # mc "But I guess you could say we have fooled around at the office once or twice."
-    mc "But I guess you could say we have fooled around at the office once or twice."
+    mc "不过我倒是可以说，我们在办公室里确实胡闹过一两次。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:21
 translate chinese sm1cs_ns010i_1f70ed6b:
 
     # sy "*giggles* You dog. I knew you'd loosen her up."
-    sy "*giggles* You dog. I knew you'd loosen her up."
+    sy "*咯咯笑* 你可真行啊。我就知道你能让她放得开。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:23
 translate chinese sm1cs_ns010i_8bda09e3:
 
     # mc "That's part of what I wanted to talk to you about."
-    mc "That's part of what I wanted to talk to you about."
+    mc "这也是我想跟你聊的事。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:24
 translate chinese sm1cs_ns010i_900b3dd7:
 
     # mc "You remember I told you that Nari left her family behind in South Korea to build her career here."
-    mc "You remember I told you that Nari left her family behind in South Korea to build her career here."
+    mc "你还记得我跟你说过，娜丽为了在这里发展事业，把家人留在韩国了吧。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:28
 translate chinese sm1cs_ns010i_6b6b2945:
 
     # sy "Totally. I was really impressed hearing how far she's come."
-    sy "Totally. I was really impressed hearing how far she's come."
+    sy "当然记得。我听说她一路走来这么不容易，特别佩服她。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:30
 translate chinese sm1cs_ns010i_ed81f835:
 
     # mc "Yeah. But there is a problem now."
-    mc "Yeah. But there is a problem now."
+    mc "是啊。但现在她遇到个麻烦。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:31
 translate chinese sm1cs_ns010i_ccf68b24:
 
     # mc "She's had a problem with her landlord. He tried to guilt trip her into staying when she mentioned she would start looking for her own place."
-    mc "She's had a problem with her landlord. He tried to guilt trip her into staying when she mentioned she would start looking for her own place."
+    mc "她跟房东闹了点矛盾。她跟房东说自己要开始找新住处的时候，房东还试图用愧疚感逼她留下来。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:32
 translate chinese sm1cs_ns010i_85933336:
 
     # mc "So she had to leave her current place behind and has been living at the Orbix office."
-    mc "So she had to leave her current place behind and has been living at the Orbix office."
+    mc "所以她没办法，只能从现在住的地方搬出来，一直住在Orbix公司的办公室里。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:36
 translate chinese sm1cs_ns010i_f10174c0:
 
     # sy "That's terrible."
-    sy "That's terrible."
+    sy "那也太惨了吧。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:38
 translate chinese sm1cs_ns010i_0bba90b8:
 
     # mc "Yup. But then I realized something that maybe she can come and stay with us."
-    mc "Yup. But then I realized something that maybe she can come and stay with us."
+    mc "是啊。不过后来我想到，或许她可以来跟我们一起住。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:42
 translate chinese sm1cs_ns010i_b9446a77:
 
     # sy "Here?"
-    sy "Here?"
+    sy "来这儿住？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:44
 translate chinese sm1cs_ns010i_ae1d4505:
 
     # sy "Hmmm. How well do you know this girl, bro?"
-    sy "Hmmm. How well do you know this girl, bro?"
+    sy "嗯…… 老哥，你跟这个女生熟吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:46
 translate chinese sm1cs_ns010i_a4504bf6:
 
     # sy "Hmmm. How well do you know this girl?"
-    sy "Hmmm. How well do you know this girl?"
+    sy "嗯…… 你跟这个女生熟吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:48
 translate chinese sm1cs_ns010i_9a019eea:
 
     # mc "Pretty good. She's hard-working, cute and eager."
-    mc "Pretty good. She's hard-working, cute and eager."
+    mc "挺熟的。她工作很努力，人又可爱，还特别好学。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:49
 translate chinese sm1cs_ns010i_dcb1a73f:
 
     # mc "And I should mention, super kinky."
-    mc "And I should mention, super kinky."
+    mc "而且我得说，她还挺有怪癖的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:53
 translate chinese sm1cs_ns010i_2192316b:
 
     # sy "Haha. I see what's going on."
-    sy "Haha. I see what's going on."
+    sy "哈哈。我明白怎么回事了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:54
 translate chinese sm1cs_ns010i_c1aacea7:
