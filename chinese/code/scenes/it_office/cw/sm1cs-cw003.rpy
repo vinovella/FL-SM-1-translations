@@ -2,241 +2,241 @@
 translate chinese sm1cs_cw003_414e9eda:
 
     # mc "You'll never guess what I found out about Claire!"
-    mc "You'll never guess what I found out about Claire!"
+    mc "你绝对猜不到我发现了克莱尔的什么事！"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:13
 translate chinese sm1cs_cw003_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "什么事啊？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:16
 translate chinese sm1cs_cw003_37335114:
 
     # sy "Wait, which one is Claire again?"
-    sy "Wait, which one is Claire again?"
+    sy "等等，克莱尔是哪个来着？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:19
 translate chinese sm1cs_cw003_d9828abd:
 
     # mc "My boss."
-    mc "My boss."
+    mc "我的上司。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:22
 translate chinese sm1cs_cw003_e4d45d0e:
 
     # mc "I mean, my boss' boss."
-    mc "I mean, my boss' boss."
+    mc "准确说，是我上司的上司。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:25
 translate chinese sm1cs_cw003_fe990ae9:
 
     # sy "Right. So what did you find out."
-    sy "Right. So what did you find out."
+    sy "哦对。那你发现什么了？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:28
 translate chinese sm1cs_cw003_cd015957:
 
     # mc "So first she pretends like we're going to this business meeting."
-    mc "So first she pretends like we're going to this business meeting."
+    mc "事情是这样的，一开始她跟我说要去开个工作会议。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:29
 translate chinese sm1cs_cw003_bd050eec:
 
     # mc "But it turns out her parents were there."
-    mc "But it turns out her parents were there."
+    mc "结果到了地方才发现，她爸妈也在那儿。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:32
 translate chinese sm1cs_cw003_fc2fcdc9:
 
     # mc "I'm about to turn around and leave, but then she comes up close."
-    mc "I'm about to turn around and leave, but then she comes up close."
+    mc "我本来都想转身走了，结果她突然凑过来。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:33
 translate chinese sm1cs_cw003_830adde2:
 
     # mc "Tells me to act like I'm her boyfriend."
-    mc "Tells me to act like I'm her boyfriend."
+    mc "让我装作是她男朋友。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:36
 translate chinese sm1cs_cw003_83ea124a:
 
     # sy "Wait. This woman had you pretend to be her boyfriend?"
-    sy "Wait. This woman had you pretend to be her boyfriend?"
+    sy "等等。这个女人居然让你装成她男朋友？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:37
 translate chinese sm1cs_cw003_cf51c04f:
 
     # sy "You were her beard?"
-    sy "You were her beard?"
+    sy "你这是被她当‘挡箭牌’了啊？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:40
 translate chinese sm1cs_cw003_f0b54cca:
 
     # mc "Beard?"
-    mc "Beard?"
+    mc "挡箭牌？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:43
 translate chinese sm1cs_cw003_f0a9dd95:
 
     # sy "Yeah. It's a cover. Sometimes people use it if they're not \"out\" yet."
-    sy "Yeah. It's a cover. Sometimes people use it if they're not \"out\" yet."
+    sy "对呀。就是用来掩饰的。有些人要是还没\"出柜\"，就会用这种办法。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:46
 translate chinese sm1cs_cw003_34592c10:
 
     # mc "Alright. Interesting."
-    mc "Alright. Interesting."
+    mc "原来如此。还挺有意思的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:47
 translate chinese sm1cs_cw003_0b0e1196:
 
     # mc "So anyhow, there I am, doing my best to pretend like Claire and I are in a relationship."
-    mc "So anyhow, there I am, doing my best to pretend like Claire and I are in a relationship."
+    mc "反正当时我就只能尽全力装出和克莱尔在谈恋爱的样子。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:48
 translate chinese sm1cs_cw003_4f124ce0:
 
     # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"kinky\" app anymore."
-    mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"kinky\" app anymore."
+    mc "她妈妈特别欣慰，还说幸好克莱尔不需要再用那个\"变态\"软件了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:51
 translate chinese sm1cs_cw003_790de301:
 
     # sy "No way."
-    sy "No way."
+    sy "不会吧。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:54
 translate chinese sm1cs_cw003_582956fd:
 
     # mc "Yes way. Claire was using Fetish Locator!"
-    mc "Yes way. Claire was using Fetish Locator!"
+    mc "真的！克莱尔居然用过性趣探测器！"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:57
 translate chinese sm1cs_cw003_64978ea6:
 
     # sy "I'm surprised they talked about that with you there."
-    sy "I'm surprised they talked about that with you there."
+    sy "我真没想到他们会当着你的面说这个。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:58
 translate chinese sm1cs_cw003_db919b74:
 
     # sy "You must have really impressed her parents."
-    sy "You must have really impressed her parents."
+    sy "看来你肯定给她爸妈留下特别好的印象了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:59
 translate chinese sm1cs_cw003_9efca0b9:
 
     # sy "Nice work, [mcname]."
-    sy "Nice work, [mcname]."
+    sy "[mcname]，干得不错。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:66
 translate chinese sm1cs_cw003_582a9966:
 
     # mc "Wait? That's it?"
-    mc "Wait? That's it?"
+    mc "等等？你就这点反应？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:69
 translate chinese sm1cs_cw003_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "啊？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:72
 translate chinese sm1cs_cw003_2d4736ff:
 
     # mc "You don't think that we should check the data you kept to figure out what she was into?"
-    mc "You don't think that we should check the data you kept to figure out what she was into?"
+    mc "你不觉得我们应该查查你之前保存的数据，看看她喜欢什么类型的吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:73
 translate chinese sm1cs_cw003_563c34e2:
 
     # mc "And see if she might be a potential actress for the studio?"
-    mc "And see if she might be a potential actress for the studio?"
+    mc "再看看她有没有可能来咱们工作室当演员啊？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:76
 translate chinese sm1cs_cw003_86787d71:
 
     # sy "I mean, sure that is a good point. But do you really want to go digging?"
-    sy "I mean, sure that is a good point. But do you really want to go digging?"
+    sy "也是，你这个想法确实有道理。但你真的想这么深入去查吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:77
 translate chinese sm1cs_cw003_92c30609:
 
     # sy "I thought we weren't supposed to use the data like that."
-    sy "I thought we weren't supposed to use the data like that."
+    sy "我记得我们之前说过，不能把那些数据用在这种地方吧。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:80
 translate chinese sm1cs_cw003_09723a68:
 
     # mc "Normally I would agree."
-    mc "Normally I would agree."
+    mc "换做平时，我肯定同意你的说法。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:83
 translate chinese sm1cs_cw003_6d76e51e:
 
     # mc "But she \"used\" me first. All things equal, I think it's only fair I get to know a little more about Claire."
-    mc "But she \"used\" me first. All things equal, I think it's only fair I get to know a little more about Claire."
+    mc "但这次是她先\"利用\"我的。既然这样，我多了解一点克莱尔的情况，也算是公平吧。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:84
 translate chinese sm1cs_cw003_a69f9463:
 
     # mc "Besides, since I'm her boyfriend, this is just like me getting the information early."
-    mc "Besides, since I'm her boyfriend, this is just like me getting the information early."
+    mc "再说了，既然我是她‘男朋友’，提前了解点她的信息也很正常啊。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:87
 translate chinese sm1cs_cw003_ba6ad70c:
 
     # sy "Fake boyfriend."
-    sy "Fake boyfriend."
+    sy "是假男朋友。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:90
 translate chinese sm1cs_cw003_5a6ef4d9:
 
     # mc "Details details."
-    mc "Details details."
+    mc "细节而已，别在意。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:93
 translate chinese sm1cs_cw003_392a813d:
 
     # sy "Alright, if you're in, I'm in."
-    sy "Alright, if you're in, I'm in."
+    sy "行吧，你要是想查，我就陪你一起。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:101
 translate chinese sm1cs_cw003_7a0e86b4:
 
     # mc "What is that?"
-    mc "What is that?"
+    mc "那是什么东西？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:104
 translate chinese sm1cs_cw003_fea735c1:
 
     # sy "The data."
-    sy "The data."
+    sy "就是那些数据啊。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:105
 translate chinese sm1cs_cw003_0f2fbab2:
 
     # sy "Not going to leave it around for AmRose to steal again."
-    sy "Not going to leave it around for AmRose to steal again."
+    sy "可不能再放在外面，免得又被爱洛丝偷走了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:108
 translate chinese sm1cs_cw003_7ade5ff1:
 
     # mc "But... in your panties?"
-    mc "But... in your panties?"
+    mc "但…… 怎么会在你内裤里啊？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:111
 translate chinese sm1cs_cw003_c04e47e0:
 
     # sy "My panties are always kept clean."
-    sy "My panties are always kept clean."
+    sy "我的内裤一直都很干净的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:112
 translate chinese sm1cs_cw003_0800c8b0:
 
     # sy "Now, are you going to question my methods, or do you want to check out Claire's naughty list?"
-    sy "Now, are you going to question my methods, or do you want to check out Claire's naughty list?"
+    sy "现在你是想质疑我的方法，还是想看看克莱尔的偏好清单啊？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:115
 translate chinese sm1cs_cw003_5b44531f:
