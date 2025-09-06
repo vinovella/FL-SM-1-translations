@@ -223,8 +223,8 @@ translate chinese sm1cs_cw003_0f2fbab2:
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:108
 translate chinese sm1cs_cw003_7ade5ff1:
 
-    # mc "But... in your panties?"
-    mc "但…… 怎么会在你内裤里啊？"
+    # mc "But...in your panties?"
+    mc "但...怎么会在你内裤里啊？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:111
 translate chinese sm1cs_cw003_c04e47e0:
@@ -242,231 +242,231 @@ translate chinese sm1cs_cw003_0800c8b0:
 translate chinese sm1cs_cw003_5b44531f:
 
     # mc "Check the naughty list."
-    mc "Check the naughty list."
+    mc "当然是看她的喜好了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:135
 translate chinese sm1cs_cw003_continue_9eccfeb7:
 
     # sy "Got it. I think this is her."
-    sy "Got it. I think this is her."
+    sy "找到了。我觉得这个应该就是她的记录。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:138
 translate chinese sm1cs_cw003_continue_b5c47e53:
 
     # mc "Oh yeah, that's definitely her."
-    mc "Oh yeah, that's definitely her."
+    mc "对，肯定是她没跑了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:141
 translate chinese sm1cs_cw003_continue_e140d87b:
 
     # mct "But completely different than how I've seen her before before."
-    mct "But completely different than how I've seen her before before."
+    mct "但这跟我平时看到的她，完全是两个人啊。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:157
 translate chinese sm1cs_cw003_continue_107952e3:
 
     # sy "Looks like in her last post before we took FL down, she used some of her points to make a challenge."
-    sy "Looks like in her last post before we took FL down, she used some of her points to make a challenge."
+    sy "看来在我们把性趣探测器关掉之前，她最后一次使用软件的时候，还花了些积分发布了一个挑战。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:158
 translate chinese sm1cs_cw003_continue_f7552d93:
 
     # sy "Keep up with your hot redhead dommy and maybe she will keep you."
-    sy "Keep up with your hot redhead dommy and maybe she will keep you."
+    sy "内容是‘跟上你性感红发女王大人的脚步，也许她会收留你哦’。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:164
 translate chinese sm1cs_cw003_continue_216d89da:
 
     # mc "Man, we must have been out of our minds to close down Fetish Locator."
-    mc "Man, we must have been out of our minds to close down Fetish Locator."
+    mc "天呐，我们当初把性趣探测器关掉，简直是脑子进水了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:167
 translate chinese sm1cs_cw003_continue_97f3676a:
 
     # sy "Apart from the whole Lydia being a supervillain in training, I agree."
-    sy "Apart from the whole Lydia being a supervillain in training, I agree."
+    sy "抛开莉迪亚那个超级大反派的事不谈，我同意你的说法。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:172
 translate chinese sm1cs_cw003_continue_df324199:
 
     # mc "I gotta see this side of her."
-    mc "I gotta see this side of her."
+    mc "我真想见识见识她这一面。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:175
 translate chinese sm1cs_cw003_continue_7192d0df:
 
     # sy "Careful. Looks like it might involve some spanking."
-    sy "Careful. Looks like it might involve some spanking."
+    sy "你可得小心点。看样子这可能还涉及到打屁股之类的玩法。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:178
 translate chinese sm1cs_cw003_continue_568c4b0d:
 
     # sy "If you two hook up, make sure she doesn't damage your derriere too much."
-    sy "If you two hook up, make sure she doesn't damage your derriere too much."
+    sy "你们俩要是真勾搭上了，可得让她手下留情，别把你的屁股打坏了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:181
 translate chinese sm1cs_cw003_continue_ae320cdf:
 
     # mc "Agreed. Besides, I'm usually the one doing the spanking."
-    mc "Agreed. Besides, I'm usually the one doing the spanking."
+    mc "放心。再说了，平时一般都是我动手打别人的屁股。
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:184
 translate chinese sm1cs_cw003_continue_dadf6b4d:
 
     # sy "Mmmhmm."
-    sy "Mmmhmm."
+    sy "嗯哼。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:188
 translate chinese sm1cs_cw003_continue_6e4049ba:
 
     # sy "So what are you going to do next?"
-    sy "So what are you going to do next?"
+    sy "那你接下来打算怎么办啊？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:191
 translate chinese sm1cs_cw003_continue_eb19af2d:
 
     # mc "I'm not sure."
-    mc "I'm not sure."
+    mc "我还没想好。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:192
 translate chinese sm1cs_cw003_continue_db16a644:
 
     # mc "I mean it would be great if she would be down to film a scene or two with us."
-    mc "I mean it would be great if she would be down to film a scene or two with us."
+    mc "要是她愿意来咱们这儿拍一两场戏，肯定是好事儿。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:193
 translate chinese sm1cs_cw003_continue_e250a4ff:
 
     # mc "I'm sure she'd end up getting a few fans."
-    mc "I'm sure she'd end up getting a few fans."
+    mc "我敢肯定她最后能圈不少粉丝。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:196
 translate chinese sm1cs_cw003_continue_18c1f091:
 
     # sy "Totally."
-    sy "Totally."
+    sy "那绝对的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:199
 translate chinese sm1cs_cw003_continue_d69fd79c:
 
     # sy "But how are you going to do that? This is your boss."
-    sy "But how are you going to do that? This is your boss."
+    sy "但你打算怎么跟她说啊？她可是你的上司。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:202
 translate chinese sm1cs_cw003_continue_991c9328:
 
     # mc "My boss' boss."
-    mc "My boss' boss."
+    mc "是我上司的上司。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:205
 translate chinese sm1cs_cw003_continue_52032bde:
 
     # sy "How are you going to ask your boss' boss if she wants to film porn?"
-    sy "How are you going to ask your boss' boss if she wants to film porn?"
+    sy "你总不能直接找你上司的上司，问她愿不愿意拍色情片吧？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:210
 translate chinese sm1cs_cw003_continue_6d8e7b0a:
 
     # mc "I have no freaking clue."
-    mc "I have no freaking clue."
+    mc "我是真的一点头绪都没有。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:213
 translate chinese sm1cs_cw003_continue_38463d5e:
 
     # mc "If I go up to her and she hates the idea, it won't just be a simple 'no' answer."
-    mc "If I go up to her and she hates the idea, it won't just be a simple 'no' answer."
+    mc "要是我直接去找她，她又不喜欢这个主意，那她肯定不会只简单拒绝我就完事。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:214
 translate chinese sm1cs_cw003_continue_8d24a63a:
 
     # mc "It could be a lot worse."
-    mc "It could be a lot worse."
+    mc "后果可能会严重得多。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:217
 translate chinese sm1cs_cw003_continue_88ab0cc8:
 
     # sy "Yeah, you could get fired."
-    sy "Yeah, you could get fired."
+    sy "是啊，说不定你还会被开除。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:220
 translate chinese sm1cs_cw003_continue_d5c0405f:
 
     # mc "Or end up on one of those lists that show up when people are looking for a home."
-    mc "Or end up on one of those lists that show up when people are looking for a home."
+    mc "甚至可能被列入那种黑名单里，别人找工作、找房子时会看到这些信息。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:223
 translate chinese sm1cs_cw003_continue_16ece9fb:
 
     # mc "I guess I'll just put the idea on the shelf for now."
-    mc "I guess I'll just put the idea on the shelf for now."
+    mc "我想我还是先把这个想法放一放吧。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:224
 translate chinese sm1cs_cw003_continue_de2867ee:
 
     # mc "And look for an opening."
-    mc "And look for an opening."
+    mc "等以后有合适的机会再说。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:227
 translate chinese sm1cs_cw003_continue_86160b68:
 
     # sy "Couldn't hurt."
-    sy "Couldn't hurt."
+    sy "这样也没什么坏处。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:235
 translate chinese sm1cs_cw003_continue_8d3f953d:
 
     # mc "Or she could text me and tell me that she wants to meet up and talk about her parents."
-    mc "Or she could text me and tell me that she wants to meet up and talk about her parents."
+    mc "说不定她还会主动给我发消息，说想跟我见面聊聊她爸妈的事呢。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:238
 translate chinese sm1cs_cw003_continue_89c364cc:
 
     # sy "Haha. Lucky dog."
-    sy "Haha. Lucky dog."
+    sy "哈哈。你可真会想美事。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:239
 translate chinese sm1cs_cw003_continue_844d4e50:
 
     # sy "Just be careful, it could be a trap."
-    sy "Just be careful, it could be a trap."
+    sy "不过还是要小心点，这说不定是个陷阱呢。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:242
 translate chinese sm1cs_cw003_continue_a1332860:
 
     # mc "I'm sure it's not a trap."
-    mc "I'm sure it's not a trap."
+    mc "我觉得肯定不是陷阱。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:246
 translate chinese sm1cs_cw003_continue_6fe11bf6:
 
     # mct "Then again, this is probably the best point where I can tell Claire that I don't want to get involved."
-    mct "Then again, this is probably the best point where I can tell Claire that I don't want to get involved."
+    mct "不过话说回来，现在或许是我跟克莱尔说清楚，不想再掺和这件事的最好时机。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:248
 translate chinese sm1cs_cw003_continue_b95e24f9:
 
     # mct "At least not any more involved than I already am."
-    mct "At least not any more involved than I already am."
+    mct "至少不想比现在掺和得更深了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:251
 translate chinese sm1cs_cw003_continue_6fd6058f:
 
     # mc "I should probably text her back. Later Stacy."
-    mc "I should probably text her back. Later Stacy."
+    mc "我还是赶紧给她回个消息吧。史黛西，回头见。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:254
 translate chinese sm1cs_cw003_continue_dd5023f7:
 
     # sy "Bye."
-    sy "Bye."
+    sy "拜拜。"
 
 translate chinese strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:127
     old "Fifteen minutes later"
-    new "Fifteen minutes later"
+    new "十五分钟后"
 
     # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:159
     old "Excited"
-    new "Excited"
+    new "兴奋"
 
