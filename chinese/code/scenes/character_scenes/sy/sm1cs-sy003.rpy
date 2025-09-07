@@ -139,7 +139,7 @@ translate chinese sm1cs_sy003_first_time_bea31133:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:202
 translate chinese sm1cs_sy003_first_time_83dfcd62:
 
-    # sy "For now though...I'm interested in more than just words."
+    # sy "For now though... I'm interested in more than just words."
     sy "不过现在嘛...我想要的可不止是好听话。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:213
@@ -175,7 +175,7 @@ translate chinese sm1cs_sy003_first_time_3718f233:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:227
 translate chinese sm1cs_sy003_first_time_1afa9991:
 
-    # sy "Ooouhah-huaaah...that's the good stuff."
+    # sy "Ooouhah-huaaah... that's the good stuff."
     sy "哦...哈啊--这感觉也太爽了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:233
@@ -259,7 +259,7 @@ translate chinese sm1cs_sy003_first_time_e84849e1:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:281
 translate chinese sm1cs_sy003_first_time_b66f871a:
 
-    # sy "You get to have me...all to yourself..."
+    # sy "You get to have me... all to yourself..."
     sy "你可以拥有我...完完全全属于你一个人..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:282
@@ -403,7 +403,7 @@ translate chinese sm1cs_sy003_sex_a1f85a06:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:364
 translate chinese sm1cs_sy003_sex_2fb6670e:
 
-    # sy "Mwaaah...you're getting so swollen. I want to feel you against me."
+    # sy "Mwaaah... you're getting so swollen. I want to feel you against me."
     sy "啊...你这都硬得发涨了。我想让它贴着我。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:372
@@ -487,13 +487,13 @@ translate chinese sm1cs_sy003_sex_4339a5c5:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:408
 translate chinese sm1cs_sy003_sex_3b7af9bc:
 
-    # mct "Stacy's mouth...It feels so amazing."
+    # mct "Stacy's mouth... It feels so amazing."
     mct "史黛西的嘴...这感觉也太爽了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:415
 translate chinese sm1cs_sy003_sex_034d861f:
 
-    # sy "*slurp...suck*"
+    # sy "*slurp... suck*"
     sy "*吸吮声...吞咽声*"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:420
@@ -529,7 +529,7 @@ translate chinese sm1cs_sy003_sex_3fb9dd46:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:437
 translate chinese sm1cs_sy003_sex_b43454de:
 
-    # sy "Mlrrrphh...Sllrrrrphhh...Glrrrrpph."
+    # sy "Mlrrrphh... Sllrrrrphhh... Glrrrrpph."
     sy "嗯...唔...啧啧..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:440
@@ -607,7 +607,7 @@ translate chinese sm1cs_sy003_sex_57bd29e8:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:490
 translate chinese sm1cs_sy003_sex_99403aff:
 
-    # mc "Sorry...what was that?"
+    # mc "Sorry... what was that?"
     mc "抱歉...你刚才说什么？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:491
@@ -631,7 +631,7 @@ translate chinese sm1cs_sy003_sex_7c36056b:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:503
 translate chinese sm1cs_sy003_sex_9dff096f:
 
-    # sy "You just...*moaning* You're just too good at this."
+    # sy "You just... *moaning* You're just too good at this."
     sy "你就是...*呻吟* 你就是太会弄了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:506
@@ -679,7 +679,7 @@ translate chinese sm1cs_sy003_sex_a67e2002:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:535
 translate chinese sm1cs_sy003_sex_22bf946b:
 
-    # sy "Huuah-huaah...Act? What act?"
+    # sy "Huuah-huaah... Act? What act?"
     sy "啊--哈啊...装样子？我装什么样子了？"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:536
@@ -727,13 +727,13 @@ translate chinese sm1cs_sy003_sex_080ac2c5:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:556
 translate chinese sm1cs_sy003_sex_b10ddeb5:
 
-    # sy "Please...keep going. Guhah...You feel so good inside."
+    # sy "Please... keep going. Guhah... You feel so good inside."
     sy "求你了...继续。哈啊...有你在我里面，感觉好舒服。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:561
 translate chinese sm1cs_sy003_sex_3a84a8cb:
 
-    # sy "Oh my god...[mcname] Oh-huaah!"
+    # sy "Oh my god... [mcname] Oh-huaah!"
     sy "哦我的天...[mcname] 哦--啊啊！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:573
@@ -751,7 +751,7 @@ translate chinese sm1cs_sy003_sex_39cd4850:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:578
 translate chinese sm1cs_sy003_sex_ca32b9a1:
 
-    # sy "Phew...hot. Making me think of our first time together."
+    # sy "Phew... hot. Making me think of our first time together."
     sy "呼...太刺激了。让我想起我们第一次在一起的时候了。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:579
@@ -775,7 +775,7 @@ translate chinese sm1cs_sy003_sex_22b70eab:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:593
 translate chinese sm1cs_sy003_sex_a3fe34b1:
 
-    # sy "*breathless* I want you...on top of me..."
+    # sy "*breathless* I want you... on top of me..."
     sy "*喘不上气* 我想让你...到我上面来..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:596
@@ -841,7 +841,7 @@ translate chinese sm1cs_sy003_sex_31387289:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:644
 translate chinese sm1cs_sy003_sex_0f029b72:
 
-    # sy "Fu-huck...me...until you explode!"
+    # sy "Fu-huck... me... until you explode!"
     sy "操...我...直到你射出来为止！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:649
@@ -877,7 +877,7 @@ translate chinese sm1cs_sy003_sex_7d44c571:
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:674
 translate chinese sm1cs_sy003_sex_73e26adc:
 
-    # sy "Mmm...So tasty."
+    # sy "Mmm... So tasty."
     sy "嗯...味道真不错。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:678
