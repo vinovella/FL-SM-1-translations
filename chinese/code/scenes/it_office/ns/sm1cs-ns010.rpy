@@ -211,7 +211,7 @@ translate chinese sm1cs_ns010_0de915dd:
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:149
 translate chinese sm1cs_ns010_398ae03b:
 
-    # sy "Yeah. Uh...good to be met."
+    # sy "Yeah. Uh... good to be met."
     sy "是啊。呃...我也很高兴认识你。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:151
@@ -295,13 +295,13 @@ translate chinese sm1cs_ns010_bf0a7793:
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:189
 translate chinese sm1cs_ns010_6a8a220d:
 
-    # mc "Nice, very uh...spacious. And we have space for you, if you're still looking for a place to live."
+    # mc "Nice, very uh... spacious. And we have space for you, if you're still looking for a place to live."
     mc "那地方很不错，特别...宽敞。如果你还在找住的地方，我们那儿有位置可以给你住。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:192
 translate chinese sm1cs_ns010_d56c0f3b:
 
-    # ns "[mcname], you told {i}her{/i} that I'm...having some trouble?"
+    # ns "[mcname], you told {i}her{/i} that I'm... having some trouble?"
     ns "[mcname]，你把我...有困难的事告诉{i}她{/i}了？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:195
@@ -313,7 +313,7 @@ translate chinese sm1cs_ns010_4caff02a:
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:198
 translate chinese sm1cs_ns010_4557ab91:
 
-    # ns "That was...my private business."
+    # ns "That was... my private business."
     ns "那可是...我的私事啊。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:200
@@ -325,7 +325,7 @@ translate chinese sm1cs_ns010_818c1bcf:
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:203
 translate chinese sm1cs_ns010_4f268e1b:
 
-    # mc "Well I...I'm sorry, Nari. You're right. I should have asked you first about sharing that information."
+    # mc "Well I... I'm sorry, Nari. You're right. I should have asked you first about sharing that information."
     mc "那个，我...对不起，娜丽。你说得对。我应该先问过你，再把这件事告诉别人的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:205
@@ -343,7 +343,7 @@ translate chinese sm1cs_ns010_ed452b2c:
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:210
 translate chinese sm1cs_ns010_6a5576ca:
 
-    # ns "*sighs* That is kind but...well back home, this is just not something we talk about so..."
+    # ns "*sighs* That is kind but... well back home, this is just not something we talk about so... "
     ns "*叹气* 我知道你们是好意，但是...在我老家，这种事我们是不会跟别人说的，所以..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:211
