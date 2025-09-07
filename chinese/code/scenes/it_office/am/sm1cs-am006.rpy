@@ -757,7 +757,7 @@ translate chinese sm1cs_am006_arcade_75843907:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:508
 translate chinese sm1cs_am006_arcade_48643627:
 
-    # am "I...I don't really remember."
+    # am "I... I don't really remember."
     am "我...我真记不清了。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:511
@@ -769,7 +769,7 @@ translate chinese sm1cs_am006_arcade_467b5add:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:514
 translate chinese sm1cs_am006_arcade_72bac36e:
 
-    # am "I'm not a liar. I...I really mean it, [mcname]."
+    # am "I'm not a liar. I... I really mean it, [mcname]."
     am "我没有骗人。我...我说的是真的，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:515
@@ -871,7 +871,7 @@ translate chinese sm1cs_am006_arcade_c183e4f5:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:570
 translate chinese sm1cs_am006_arcade_372ed858:
 
-    # am "You...really mean that?"
+    # am "You... really mean that?"
     am "你...你说的是真的？"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:573
@@ -883,7 +883,7 @@ translate chinese sm1cs_am006_arcade_7b4325ae:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:576
 translate chinese sm1cs_am006_arcade_9af134a8:
 
-    # am "I'm...I'm not ready for that again."
+    # am "I'm... I'm not ready for that again."
     am "我...我现在还没准备好再试一次。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:579
@@ -919,7 +919,7 @@ translate chinese sm1cs_am006_arcade_add339e2:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:594
 translate chinese sm1cs_am006_arcade_a63c9e6f:
 
-    # am "Well...there is a first time for everything, [mcname]."
+    # am "Well... there is a first time for everything, [mcname]."
     am "嗯...凡事都有第一次嘛，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:595
@@ -979,7 +979,7 @@ translate chinese sm1cs_am006_arcade_a1bbe86b:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:623
 translate chinese sm1cs_am006_arcade_ee6128e5:
 
-    # am "No. That's not it. I just...I wanted to take off my glasses."
+    # am "No. That's not it. I just... I wanted to take off my glasses."
     am "不是。不是不想。我只是...我想先把眼镜摘了。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:626
@@ -1015,7 +1015,7 @@ translate chinese sm1cs_am006_arcade_e32ab0a4:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:642
 translate chinese sm1cs_am006_arcade_d206c2fd:
 
-    # mct "Woah. She's...she's really into this."
+    # mct "Woah. She's... she's really into this."
     mct "哇哦。她...她好像真的很投入。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:645
@@ -1027,7 +1027,7 @@ translate chinese sm1cs_am006_arcade_c42b05ac:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:648
 translate chinese sm1cs_am006_arcade_44fbab6b:
 
-    # am "I...your lips taste like beer."
+    # am "I... your lips taste like beer."
     am "我...你的嘴唇有股啤酒味。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:651
@@ -1063,7 +1063,7 @@ translate chinese sm1cs_am006_arcade_285422b5:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:664
 translate chinese sm1cs_am006_arcade_6e779a52:
 
-    # am "Unless...you wanted me to-"
+    # am "Unless... you wanted me to-"
     am "除非...你想让我--"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:665
@@ -1075,7 +1075,7 @@ translate chinese sm1cs_am006_arcade_421888ee:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:668
 translate chinese sm1cs_am006_arcade_5974a2b0:
 
-    # mc "April...It's not just about what I want."
+    # mc "April... It's not just about what I want."
     mc "艾普尔...这不只是我想怎么样的问题。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:671
@@ -1087,7 +1087,7 @@ translate chinese sm1cs_am006_arcade_732d2098:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:672
 translate chinese sm1cs_am006_arcade_b43108d8:
 
-    # am "I hate this. Not being in control. But...{w} when I try to think about stopping this."
+    # am "I hate this. Not being in control. But... {w} when I try to think about stopping this."
     am "我讨厌这种感觉。讨厌自己失去掌控。可是...{w}每当我想停下来的时候。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:675
@@ -1111,13 +1111,13 @@ translate chinese sm1cs_am006_arcade_51de11e4:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:682
 translate chinese sm1cs_am006_arcade_312ca60f:
 
-    # am "I...You should walk me to my car."
+    # am "I... You should walk me to my car."
     am "我...你送我到我的车那儿吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:683
 translate chinese sm1cs_am006_arcade_4fce75df:
 
-    # am "And...I...I ended up having a good time on our date, [mcname]."
+    # am "And... I... I ended up having a good time on our date, [mcname]."
     am "还有...我...[mcname]，这次约会我其实玩得很开心。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:684
@@ -1201,7 +1201,7 @@ translate chinese sm1cs_am006_arcade_5f0c812a:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:720
 translate chinese sm1cs_am006_arcade_f331e4d6:
 
-    # am "Uh...buh. My car."
+    # am "Uh... buh. My car."
     am "呃...哦。我的车在那边。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:724
