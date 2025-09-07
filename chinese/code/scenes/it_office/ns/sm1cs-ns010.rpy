@@ -343,7 +343,7 @@ translate chinese sm1cs_ns010_ed452b2c:
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:210
 translate chinese sm1cs_ns010_6a5576ca:
 
-    # ns "*sighs* That is kind but... well back home, this is just not something we talk about so... "
+    # ns "*sighs* That is kind but... well back home, this is just not something we talk about so..."
     ns "*叹气* 我知道你们是好意，但是...在我老家，这种事我们是不会跟别人说的，所以..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:211
@@ -427,7 +427,7 @@ translate chinese sm1cs_ns010_979b3dd2:
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:239
 translate chinese sm1cs_ns010_dd62abaf:
 
-    # sy "Just Stacy is fine. Uh...let me think."
+    # sy "Just Stacy is fine. Uh... let me think."
     sy "叫我史黛西就好啦。呃...让我想想。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:240
@@ -631,7 +631,7 @@ translate chinese sm1cs_ns010_dff0c4b4_1:
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:327
 translate chinese sm1cs_ns010_4e4f28b2:
 
-    # ns "So that means I can come live with you two? That won't be...too much of a burden?"
+    # ns "So that means I can come live with you two? That won't be... too much of a burden?"
     ns "这么说我可以搬来跟你们俩一起住了？这样会不会...给你们添太多麻烦啊？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:330
