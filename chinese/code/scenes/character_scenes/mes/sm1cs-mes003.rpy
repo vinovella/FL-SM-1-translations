@@ -391,7 +391,7 @@ translate chinese sm1cs_mes003_23d08ab1:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:252
 translate chinese sm1cs_mes003_02a4ca23:
 
-    # mes "I didn't mean like...you were doing this because you were in crisis or anything."
+    # mes "I didn't mean like... you were doing this because you were in crisis or anything."
     mes "我不是说...你是因为陷入困境了才做这个的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:253
@@ -721,7 +721,7 @@ translate chinese sm1cs_mes003_continue_1d8e8771:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:410
 translate chinese sm1cs_mes003_continue_27617b28:
 
-    # mes "Besides...you're still {i}showing{/i} me in a way."
+    # mes "Besides... you're still {i}showing{/i} me in a way."
     mes "而且...从某种程度上来说，你已经在用{i}行动{/i}告诉我了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:413
@@ -925,7 +925,7 @@ translate chinese sm1cs_mes003_sucking_40757960:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:535
 translate chinese sm1cs_mes003_sucking_9ab8442e:
 
-    # mes "I had a feeling...I might lose control."
+    # mes "I had a feeling... I might lose control."
     mes "我当时就有种感觉...我可能会控制不住自己。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:539
@@ -1009,7 +1009,7 @@ translate chinese sm1cs_mes003_sucking_ef519637:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:583
 translate chinese sm1cs_mes003_pussy_47a25005:
 
-    # mes "Ah-uha...uhhuaah...Mrmmm."
+    # mes "Ah-uha... uhhuaah... Mrmmm."
     mes "啊--唔啊...嗯啊...嗯..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:586
@@ -1166,7 +1166,7 @@ translate chinese sm1cs_mes003_pussy_096bcc92:
 translate chinese sm1cs_mes003_pussy_4e7e35bf:
 
     # mes "Nnuuh-hmmmm."
-    mes "嗯嗯——嗯嗯..."
+    mes "嗯嗯--嗯嗯..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:660
 translate chinese sm1cs_mes003_pussy_6303fdaa:
@@ -1183,7 +1183,7 @@ translate chinese sm1cs_mes003_pussy_fed4bdbb:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:667
 translate chinese sm1cs_mes003_pussy_8c4e7a33:
 
-    # mes "Glrrrrrruppph...glrrrrurrh...fuhh-mah-throp..."
+    # mes "Glrrrrrruppph... glrrrrurrh... fuhh-mah-throp..."
     mes "咕噜噜噜...咕噜噜噜...噗--唔唔--嗯嗯嗯..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:670
@@ -1237,7 +1237,7 @@ translate chinese sm1cs_mes003_pussy_5726109c:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:696
 translate chinese sm1cs_mes003_pussy_ea890083:
 
-    # mes "*hissing* You don't...nrrrghh...waste any time."
+    # mes "*hissing* You don't... nrrrghh... waste any time."
     mes "*喘息着* 你真是...唔...一点时间都不浪费。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:699
@@ -1273,13 +1273,13 @@ translate chinese sm1cs_mes003_pussy_99f4bc1e:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:708
 translate chinese sm1cs_mes003_pussy_f3f32175:
 
-    # mes "Ooohua-huaah...yes. That gets you harder doesn't it?"
+    # mes "Ooohua-huaah... yes. That gets you harder doesn't it?"
     mes "哦噢噢--嗯...哦~这样是不是让你更硬了？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:712
 translate chinese sm1cs_mes003_pussy_90d8eb69:
 
-    # mes "Making their good, well-behaved girl into your...fucckk..."
+    # mes "Making their good, well-behaved girl into your... fucckk..."
     mes "把他们那乖巧懂事的女儿，变成你的...操..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:713
@@ -1297,7 +1297,7 @@ translate chinese sm1cs_mes003_pussy_e455a9fd:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:717
 translate chinese sm1cs_mes003_pussy_61ee44a6:
 
-    # mes "Muaaaah...Yes...That's right."
+    # mes "Muaaaah... Yes... That's right."
     mes "呜唔唔唔...是的...没错。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:720
@@ -1321,7 +1321,7 @@ translate chinese sm1cs_mes003_pussy_cb7cd11b:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:737
 translate chinese sm1cs_mes003_menu_47a25005:
 
-    # mes "Ah-uha...uhhuaah...Mrmmm."
+    # mes "Ah-uha... uhhuaah... Mrmmm."
     mes "哈啊...嗯嗯嗯..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:740
@@ -1345,7 +1345,7 @@ translate chinese sm1cs_mes003_menu_ef45ecc1:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:765
 translate chinese sm1cs_mes003_menu_8c4e7a33:
 
-    # mes "Glrrrrrruppph...glrrrrurrh...fuhh-mah-throp..."
+    # mes "Glrrrrrruppph... glrrrrurrh... fuhh-mah-throp..."
     mes "咕噜噜噜...咕噜噜噜...噗--唔唔--嗯嗯嗯..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:768
@@ -1369,7 +1369,7 @@ translate chinese sm1cs_mes003_menu_1c7497b8:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:788
 translate chinese sm1cs_mes003_menu_cd92439f:
 
-    # mes "Buaah...Ooouhaah..."
+    # mes "Buaah... Ooouhaah..."
     mes "嗯...呜啊啊..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:791
@@ -1393,7 +1393,7 @@ translate chinese sm1cs_mes003_menu_035936ea:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:805
 translate chinese sm1cs_mes003_menu_05575fa3:
 
-    # mes "Pretty soon, I can't think...straight...*husky moan*"
+    # mes "Pretty soon, I can't think... straight... *husky moan*"
     mes "很快，我就没法...正常思考了...*沙哑的呻吟声*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:821
@@ -1412,7 +1412,7 @@ translate chinese sm1cs_mes003_after_menu_2bd12fe9:
 translate chinese sm1cs_mes003_after_menu_9dfc7fa9:
 
     # mes "Oh my god...."
-    mes "哦我的天...."
+    mes "哦我的天..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:829
 translate chinese sm1cs_mes003_after_menu_ef586487:
@@ -1447,7 +1447,7 @@ translate chinese sm1cs_mes003_after_menu_d91b10cb:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:848
 translate chinese sm1cs_mes003_after_menu_0a60238c:
 
-    # mes "Fuhh-h...ahh-uuhahh.."
+    # mes "Fuhh-h... ahh-uuhahh.."
     mes "呼...啊--啊啊..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:862
@@ -1591,7 +1591,7 @@ translate chinese sm1cs_mes003_after_menu_73f30645:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:936
 translate chinese sm1cs_mes003_after_menu_e797e54a:
 
-    # mes "Oh. I...that's great."
+    # mes "Oh. I... that's great."
     mes "哦。我...那真是太好了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:940
@@ -1609,13 +1609,13 @@ translate chinese sm1cs_mes003_after_menu_83abfe84:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:946
 translate chinese sm1cs_mes003_after_menu_497900d4:
 
-    # mes "But. I really appreciated getting some time to...{i}clear{/i} my head."
+    # mes "But. I really appreciated getting some time to... {i}clear{/i} my head."
     mes "不过...我真的很感谢能有这段时间，让我...{i}理清{/i}一下思绪。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:947
 translate chinese sm1cs_mes003_after_menu_f6ef10a7:
 
-    # mes "I hope...I hope we can do it again."
+    # mes "I hope... I hope we can do it again."
     mes "我希望...希望我们下次还能这样。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:950
