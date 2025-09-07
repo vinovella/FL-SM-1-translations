@@ -7,7 +7,7 @@ translate chinese sm1cs_dc007_2a35955c:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:17
 translate chinese sm1cs_dc007_57278c51:
 
-    # mct "Maybe I'll bump into her again...hopefully not literally."
+    # mct "Maybe I'll bump into her again... hopefully not literally."
     mct "说不定我还能再碰到她呢...希望别再像上次那样真的‘撞’上了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:27
@@ -19,7 +19,7 @@ translate chinese sm1cs_dc007_4f240420:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:31
 translate chinese sm1cs_dc007_ca51fa79:
 
-    # mct "Wait...is that guy even looking where he's going?"
+    # mct "Wait... is that guy even looking where he's going?"
     mct "等等...那家伙走路都不看路的吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:36
@@ -97,7 +97,7 @@ translate chinese sm1cs_dc007_229712ba:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:94
 translate chinese sm1cs_dc007_7c968c9f:
 
-    # mc "I think so. Did I...just help?"
+    # mc "I think so. Did I... just help?"
     mc "应该没事。我刚才...是不是帮上忙了？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:97
@@ -139,7 +139,7 @@ translate chinese sm1cs_dc007_e5fb75de:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:113
 translate chinese sm1cs_dc007_723d2932:
 
-    # mct "Helping by being a human speed bump...At least we caught this guy."
+    # mct "Helping by being a human speed bump... At least we caught this guy."
     mct "虽然只是当个人肉减速带...不过至少我们把这家伙抓住了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:116
@@ -343,7 +343,7 @@ translate chinese sm1cs_dc007_continue_707f72e3:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:249
 translate chinese sm1cs_dc007_continue_a220b838:
 
-    # dc "Well you kow, I'm curious...what do you do for work that gives you so much free time to trip up my suspects?"
+    # dc "Well you kow, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
     dc "对了，我有点好奇...你是做什么工作的啊，怎么总有这么多时间，还能刚好绊倒我要抓的人？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:252
@@ -367,7 +367,7 @@ translate chinese sm1cs_dc007_continue_6e3c10b6:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:258
 translate chinese sm1cs_dc007_continue_d423cdd3:
 
-    # mct "Which isn't technically untrue...we do film stuff.{w} Just naked stuff."
+    # mct "Which isn't technically untrue... we do film stuff.{w} Just naked stuff."
     mct "其实这么说也不算骗人...我们确实是拍东西的。{w}只不过是拍裸片罢了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:261
@@ -433,7 +433,7 @@ translate chinese sm1cs_dc007_continue_fd50fbb2:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:294
 translate chinese sm1cs_dc007_continue_9f65386a:
 
-    # mc "We actually just started working on renovating the studio. It's been...a process."
+    # mc "We actually just started working on renovating the studio. It's been... a process."
     mc "其实我们已经开始着手装修工作室了，就是...过程还挺漫长的。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:296
@@ -475,7 +475,7 @@ translate chinese sm1cs_dc007_continue_08103986:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:313
 translate chinese sm1cs_dc007_continue_853be0aa:
 
-    # dc "That you are...What kind of movies do you make?"
+    # dc "That you are... What kind of movies do you make?"
     dc "确实是...那你们打算拍什么样的电影啊？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:317
@@ -487,7 +487,7 @@ translate chinese sm1cs_dc007_continue_a246c927:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:320
 translate chinese sm1cs_dc007_continue_24788ca0:
 
-    # mc "Erm...they're, uh, character driven pieces?"
+    # mc "Erm... they're, uh, character driven pieces?"
     mc "呃...我们拍的，嗯，是那种注重角色塑造的片子？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:323
@@ -559,7 +559,7 @@ translate chinese sm1cs_dc007_continue_af5be19a:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:355
 translate chinese sm1cs_dc007_continue_6f95e980:
 
-    # mc "Uhm...nowhere really, yet. We've mostly shot portfolio scenes. Stuff to try and help us get more...funding?"
+    # mc "Uhm... nowhere really, yet. We've mostly shot portfolio scenes. Stuff to try and help us get more... funding?"
     mc "呃...目前你还看不了。我们大部分时候就拍些作品集里的片段。这些东西就是为了帮我们争取到更多...资金？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:358
@@ -709,7 +709,7 @@ translate chinese sm1cs_dc007_continue_e5141d72:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:415
 translate chinese sm1cs_dc007_continue_cfc50e6f:
 
-    # dc "Hey, uh...wait a second."
+    # dc "Hey, uh... wait a second."
     dc "嘿，呃...等一下。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:422
@@ -757,7 +757,7 @@ translate chinese sm1cs_dc007_continue_6e23fdfe:
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:439
 translate chinese sm1cs_dc007_continue_8a656849:
 
-    # dc "Thanks. But seriously, I'm way better at chasing down criminals than...whatever this is."
+    # dc "Thanks. But seriously, I'm way better at chasing down criminals than... whatever this is."
     dc "多谢夸奖。不过说真的，我追犯人可比搞...搞现在这种事厉害多了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:444
