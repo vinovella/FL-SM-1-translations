@@ -223,7 +223,7 @@ translate chinese sm1cs_cw003_0f2fbab2:
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:108
 translate chinese sm1cs_cw003_7ade5ff1:
 
-    # mc "But...in your panties?"
+    # mc "But... in your panties?"
     mc "但...怎么会在你内裤里啊？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:111
