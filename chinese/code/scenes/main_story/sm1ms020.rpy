@@ -2,265 +2,265 @@
 translate chinese sm1ms020_1b1f67b4:
 
     # mct "Man, we did a really good job with the renovation."
-    mct "Man, we did a really good job with the renovation."
+    mct "哎呀，咱们装修得可真不错。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:18
 translate chinese sm1ms020_cbb30193:
 
     # mct "It's really starting to look like a real porn studio in here."
-    mct "It's really starting to look like a real porn studio in here."
+    mct "这里越来越像个真正的色情工作室了。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:22
 translate chinese sm1ms020_1e17d8c0:
 
     # mct "I can't wait to start filming in here."
-    mct "I can't wait to start filming in here."
+    mct "我都等不及要在这里开拍了。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:23
 translate chinese sm1ms020_bb4320c3:
 
     # mct "There's so much room for activities!"
-    mct "There's so much room for activities!"
+    mct "这么大的空间，完全可以安排各种拍摄活动！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:28
 translate chinese sm1ms020_50089a45:
 
     # mct "Oh, Mom must be done with her call."
-    mct "Oh, Mom must be done with her call."
+    mct "哦，妈妈应该打完电话了。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:30
 translate chinese sm1ms020_b730f98c:
 
     # mct "Oh, Melony must be done with her call."
-    mct "Oh, Melony must be done with her call."
+    mct "哦，梅洛妮应该打完电话了。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:34
 translate chinese sm1ms020_eeb4e2c9:
 
     # mc "All done?"
-    mc "All done?"
+    mc "打完了吗？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:35
 translate chinese sm1ms020_ca420406:
 
     # my "Yep!"
-    my "Yep!"
+    my "打完啦！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:39
 translate chinese sm1ms020_60cd8dad:
 
     # sy "How was your phone call?"
-    sy "How was your phone call?"
+    sy "你刚才电话里聊得怎么样？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:40
 translate chinese sm1ms020_e3fb50a3:
 
     # my "It was good! The client is just a little anxious 24/7. Just needed some gentle reassuring."
-    my "It was good! The client is just a little anxious 24/7. Just needed some gentle reassuring."
+    my "挺好的！那个客户就是一天到晚都有点焦虑，只需要温柔安慰她几句就行了。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:43
 translate chinese sm1ms020_c6d75bdf:
 
     # my "My, my - are you two going out?"
-    my "My, my - are you two going out?"
+    my "哎呀呀--你们俩这是要出去吗？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:46
 translate chinese sm1ms020_90c846f8:
 
     # sy "We are!"
-    sy "We are!"
+    sy "对呀！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:50
 translate chinese sm1ms020_70923836:
 
     # sy "We're going out to celebrate the studio being renovated!"
-    sy "We're going out to celebrate the studio being renovated!"
+    sy "我们要出去庆祝工作室装修完！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:53
 translate chinese sm1ms020_79cb1ef5:
 
     # my "Oh that sounds like a ton of fun!"
-    my "Oh that sounds like a ton of fun!"
+    my "哦，感觉一定很有意思！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:54
 translate chinese sm1ms020_27cd42eb:
 
     # my "Would you two mind if an old gal like me crashed your celebration?"
-    my "Would you two mind if an old gal like me crashed your celebration?"
+    my "你们俩介意我这个老太婆来蹭你们的庆祝活动吗？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:57
 translate chinese sm1ms020_f089f11d:
 
     # sy "Are you kidding me? You're not old!"
-    sy "Are you kidding me? You're not old!"
+    sy "你在开玩笑吧？你才不老呢！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:58
 translate chinese sm1ms020_ac7cb9b5:
 
     # sy "And of course you're welcome to join us!"
-    sy "And of course you're welcome to join us!"
+    sy "再说，你当然可以跟我们一起去啦！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:62
 translate chinese sm1ms020_12c8ac7d:
 
     # mc "You're always invited to spend time with us, Mom."
-    mc "You're always invited to spend time with us, Mom."
+    mc "妈妈，你随时都可以跟我们一起玩闹。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:64
 translate chinese sm1ms020_c701570b:
 
     # mc "You're always invited to spend time with us, Melony."
-    mc "You're always invited to spend time with us, Melony."
+    mc "梅洛妮，你随时都可以跟我们一起玩闹。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:65
 translate chinese sm1ms020_0c376b58:
 
     # mc "And you did so much to help around the studio, it would only be right if you were there with us. "
-    mc "And you did so much to help around the studio, it would only be right if you were there with us. "
+    mc "而且你在工作室帮了那么多忙，你能跟我们一起去庆祝才是应该的。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:69
 translate chinese sm1ms020_a71ba340:
 
     # my "Yay! So where are we going?"
-    my "Yay! So where are we going?"
+    my "太棒啦！那咱们要去哪里呀？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:72
 translate chinese sm1ms020_9ea5c75c:
 
     # sy "You'll see."
-    sy "You'll see."
+    sy "到了你就知道啦。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:76
 translate chinese sm1ms020_29b8ea4e:
 
     # my "Aye yi yi..."
-    my "Aye yi yi..."
+    my "哎呀呀..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:80
 translate chinese sm1ms020_956cd6bb:
 
     # mc "Hey, she's your daughter!"
-    mc "Hey, she's your daughter!"
+    mc "嘿，她可是你女儿！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:82
 translate chinese sm1ms020_c8cdc273:
 
     # my "And your sister."
-    my "And your sister."
+    my "也是你妹妹。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:84
 translate chinese sm1ms020_30fdb42b:
 
     # mc "You know how Stacy is."
-    mc "You know how Stacy is."
+    mc "你又不是不知道史黛西是什么性格。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:86
 translate chinese sm1ms020_f506113e:
 
     # my "Yes, yes I do."
-    my "Yes, yes I do."
+    my "是呀，我当然知道。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:91
 translate chinese sm1ms020_ae1edb5d:
 
     # my "Come along, [mcname]. Let's catch up to her."
-    my "Come along, [mcname]. Let's catch up to her."
+    my "[mcname]，快来。咱们追上她。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:102
 translate chinese sm1ms020_5ef2d3d9:
 
     # sy "Tadaaaaa!"
-    sy "Tadaaaaa!"
+    sy "当当当当！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:105
 translate chinese sm1ms020_b77ecb7e:
 
     # mct "I should've assumed this was the bar Stacy was talking about when she said she wanted to go to a dive."
-    mct "I should've assumed this was the bar Stacy was talking about when she said she wanted to go to a dive."
+    mct "我早该想到，史黛西说想去一家‘简陋小酒吧’的时候，指的就是这个地方。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:107
 translate chinese sm1ms020_ff81abaf:
 
     # mct "Wow, when Stacy said dive... I didn't think it would be this much of a dive."
-    mct "Wow, when Stacy said dive... I didn't think it would be this much of a dive."
+    mct "哇，史黛西说破酒吧……我没想到会破成这样。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:110
 translate chinese sm1ms020_4ee9b4b6:
 
     # my "Oh! You brought us to Guns and Rosette's!"
-    my "Oh! You brought us to Guns and Rosette's!"
+    my "哦！你居然带我们来‘枪炮与玫瑰’这里！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:113
 translate chinese sm1ms020_7ea9d06a:
 
     # mc "You... you've been here before?"
-    mc "You... you've been here before?"
+    mc "你…… 你以前来过这里？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:116
 translate chinese sm1ms020_592bc84c:
 
     # my "A long, long time ago this was my drinking spot!"
-    my "A long, long time ago this was my drinking spot!"
+    my "很久很久以前，这是我常来喝酒的地方！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:119
 translate chinese sm1ms020_62c252e1:
 
     # sy "What!"
-    sy "What!"
+    sy "什么！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:122
 translate chinese sm1ms020_c16e7876:
 
     # mc "You used to live in Crowning?"
-    mc "You used to live in Crowning?"
+    mc "你以前住在皇冠镇吗？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:124
 translate chinese sm1ms020_34429340:
 
     # my "You know I had a life before you two, right?"
-    my "You know I had a life before you two, right?"
+    my "你们俩应该知道在你们出生之前，我也有自己的生活吧？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:130
 translate chinese sm1ms020_cba02b08:
 
     # sy "Apparently. We've learned a lot about you since we started the renovation. You have nudes, you used to live in Crowning..."
-    sy "Apparently. We've learned a lot about you since we started the renovation. You have nudes, you used to live in Crowning..."
+    sy "显然是我们想错了。自从我们开始装修工作室，就知道了好多关于你的事。你有裸照，以前还住在皇冠镇..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:132
 translate chinese sm1ms020_f6b79e8d:
 
     # my "Well you two never asked me about me before!"
-    my "Well you two never asked me about me before!"
+    my "那还不是因为你们以前从来没问过我关于我的事！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:135
 translate chinese sm1ms020_fd52713d:
 
     # mc "Well... why did you used to live in Crowning?"
-    mc "Well... why did you used to live in Crowning?"
+    mc "那…… 你以前为什么会住在皇冠镇啊？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:138
 translate chinese sm1ms020_9a2ac44d:
 
     # my "This is where I did my art residency."
-    my "This is where I did my art residency."
+    my "我以前在这里做艺术驻留。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:141
 translate chinese sm1ms020_ebaddd32:
 
     # sy "You did an art residency?"
-    sy "You did an art residency?"
+    sy "你还做过艺术驻留啊？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:144
 translate chinese sm1ms020_986d4820:
 
     # my "Mmhmmmm. I started meeting artists here, and then gallery owners..."
-    my "Mmhmmmm. I started meeting artists here, and then gallery owners..."
+    my "嗯哼。我在这里认识了很多艺术家，后来还认识了画廊老板..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:145
 translate chinese sm1ms020_9a2324a6:
 
     # my "This is where my career got jump started."
-    my "This is where my career got jump started."
+    my "我的职业生涯就是从这里起步的。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:149
 translate chinese sm1ms020_6278d0c6:
