@@ -92,13 +92,13 @@ translate chinese sm1cs_ns010i_b9446a77:
 translate chinese sm1cs_ns010i_ae1d4505:
 
     # sy "Hmmm. How well do you know this girl, bro?"
-    sy "嗯…… 老哥，你跟这个女生熟吗？"
+    sy "嗯...老哥，你跟这个女生熟吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:46
 translate chinese sm1cs_ns010i_a4504bf6:
 
     # sy "Hmmm. How well do you know this girl?"
-    sy "嗯…… 你跟这个女生熟吗？"
+    sy "嗯...你跟这个女生熟吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:48
 translate chinese sm1cs_ns010i_9a019eea:
@@ -122,161 +122,161 @@ translate chinese sm1cs_ns010i_2192316b:
 translate chinese sm1cs_ns010i_c1aacea7:
 
     # sy "You're thinking she might be a candidate to join the studio one day."
-    sy "You're thinking she might be a candidate to join the studio one day."
+    sy "你是觉得她以后可能会加入我们的工作室吧。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:56
 translate chinese sm1cs_ns010i_70be4e24:
 
     # mc "Totally. She's super friendly and pretty damn kinky too."
-    mc "Totally. She's super friendly and pretty damn kinky too."
+    mc "没错。她人特别友好，而且在那方面也确实挺开放的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:60
 translate chinese sm1cs_ns010i_0f1d050d:
 
     # sy "Hahah. Nice."
-    sy "Hahah. Nice."
+    sy "哈哈。不错嘛。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:64
 translate chinese sm1cs_ns010i_06a48d4a:
 
     # sy "So does she know you're looking for people to join our studio?"
-    sy "So does she know you're looking for people to join our studio?"
+    sy "那她知道你在找人加入咱们工作室吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:66
 translate chinese sm1cs_ns010i_c7408b2a:
 
     # mc "Not yet. I haven't figured out the right time."
-    mc "Not yet. I haven't figured out the right time."
+    mc "她还不知道。我没找到合适的时机跟她说。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:70
 translate chinese sm1cs_ns010i_cb44ee00:
 
     # sy "Well sooner is probably going to be better than later. Especially if she is living with us."
-    sy "Well sooner is probably going to be better than later. Especially if she is living with us."
+    sy "不过可能还是早点说比较好，尤其是如果她要跟我们一起住的话。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:71
 translate chinese sm1cs_ns010i_9045122b:
 
     # sy "She's bound to figure things out on her own."
-    sy "She's bound to figure things out on her own."
+    sy "她早晚都会自己发现的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:73
 translate chinese sm1cs_ns010i_406418be:
 
     # mc "I know. Wait, does that mean I can invite her over?"
-    mc "I know. Wait, does that mean I can invite her over?"
+    mc "我知道。等等，这么说我可以邀请她过来住了？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:77
 translate chinese sm1cs_ns010i_22c2dcfe:
 
     # sy "*giggles* Yes, you can invite her to stay with us."
-    sy "*giggles* Yes, you can invite her to stay with us."
+    sy "*咯咯笑* 对，你可以邀请她来跟我们一起住。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:82
 translate chinese sm1cs_ns010i_84a3c92d:
 
     # sy "It's a good thing we got the place fixed up. If you asked me earlier, we wouldn't have really had any space that gives her privacy."
-    sy "It's a good thing we got the place fixed up. If you asked me earlier, we wouldn't have really had any space that gives her privacy."
+    sy "还好咱们把这地方收拾好了。要是你早点问我，咱们这儿还真腾不出地方给她做私人空间呢。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:84
 translate chinese sm1cs_ns010i_0a788d20:
 
     # mc "I think she would have been okay with that, heh."
-    mc "I think she would have been okay with that, heh."
+    mc "我觉得就算那样，她也不会在意的，嘿嘿。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:88
 translate chinese sm1cs_ns010i_515900a7:
 
     # sy "But I still need to meet her first."
-    sy "But I still need to meet her first."
+    sy "但我还是得先见见她才行。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:93
 translate chinese sm1cs_ns010i_1476a464:
 
     # sy "There is one thing. Even if I meet her and she's cool, she can't really come over just yet?"
-    sy "There is one thing. Even if I meet her and she's cool, she can't really come over just yet?"
+    sy "还有个事。就算我见了她，觉得她人不错，她现在也不能马上过来住。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:95
 translate chinese sm1cs_ns010i_56c3991c:
 
     # mc "Why not?"
-    mc "Why not?"
+    mc "为什么？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:96
 translate chinese sm1cs_ns010i_be854d43:
 
     # sy "I mean, the place is fine for us, but if we're going to have other people staying here, we really should spruce it up a bit."
-    sy "I mean, the place is fine for us, but if we're going to have other people staying here, we really should spruce it up a bit."
+    sy "你想啊，这地方咱们俩住还行，但要是有其他人加入，咱们真得把这里好好整理一下。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:100
 translate chinese sm1cs_ns010i_cffe4ac2:
 
     # sy "And we always wanted to make it nicer to it would be a better place to film at."
-    sy "And we always wanted to make it nicer to it would be a better place to film at."
+    sy "而且我们之前也一直想把这里弄得好一点，这样拍东西的环境也能更好。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:101
 translate chinese sm1cs_ns010i_ea0e2aba:
 
     # mc "That's a good point."
-    mc "That's a good point."
+    mc "你说得有道理。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:102
 translate chinese sm1cs_ns010i_c46e1be8:
 
     # mc "Wait, back up. You want to meet her before I invite her?"
-    mc "Wait, back up. You want to meet her before I invite her?"
+    mc "等等，回到上一个话题。你想在我邀请她过来住之前，先见见她？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:107
 translate chinese sm1cs_ns010i_1b84ace6:
 
     # sy "Yup. I mean this girl is dating my brother. I have to take a long look at her and make sure she's not just using you or planning to make your life a living hell."
-    sy "Yup. I mean this girl is dating my brother. I have to take a long look at her and make sure she's not just using you or planning to make your life a living hell."
+    sy "对呀。想想看，这个女生在跟我哥哥谈恋爱，我总得好好看看她，确认她不是在利用你，或者没打算想把你的生活搅得一团糟。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:108
 translate chinese sm1cs_ns010i_7b19f5f0:
 
     # sy "It's the sisterly thing to do."
-    sy "It's the sisterly thing to do."
+    sy "这是做妹妹该做的事。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:113
 translate chinese sm1cs_ns010i_960be5d1:
 
     # sy "Haha. I'm your partner, [mcname]. If someone is going to come live with us, I couldn't live with myself if I didn't check her out head to toe to make sure she's good enough for you."
-    sy "Haha. I'm your partner, [mcname]. If someone is going to come live with us, I couldn't live with myself if I didn't check her out head to toe to make sure she's good enough for you."
+    sy "哈哈。[mcname]，我可是你的合作伙伴。要是有人要过来跟咱们一起住，而我不从头到尾考察一下，确认她配得上你，我心里会不踏实的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:114
 translate chinese sm1cs_ns010i_b449ba30:
 
     # mc "Yeah, that makes sense."
-    mc "Yeah, that makes sense."
+    mc "嗯，你这么说也对。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:118
 translate chinese sm1cs_ns010i_d90c56ec:
 
     # sy "Good. So why don't you set up a meeting sometime in the afternoon so the three of us can meet in person?"
-    sy "Good. So why don't you set up a meeting sometime in the afternoon so the three of us can meet in person?"
+    sy "那就好。那你找个下午的时间，安排咱们三个人见个面吧，当面聊一聊。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:120
 translate chinese sm1cs_ns010i_513b938c:
 
     # mc "Great. And... thanks. Not everyone would be so cool to have another girl joining us."
-    mc "Great. And... thanks. Not everyone would be so cool to have another girl joining us."
+    mc "太好了。还有...谢谢你。不是所有人都能这么开明，接受另一个女生加入我们二人的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:124
 translate chinese sm1cs_ns010i_7d954c61:
 
     # sy "Well, it's kind of always been the plan. And besides, I've known from the first time we really shared our feelings that I wasn't going to be the only girl for you."
-    sy "Well, it's kind of always been the plan. And besides, I've known from the first time we really shared our feelings that I wasn't going to be the only girl for you."
+    sy "哎呀，这本来就是咱们计划的一部分啊。而且，从我们第一次真正敞开心扉聊天的时候，我就知道，我不会是你唯一喜欢的女生。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:126
 translate chinese sm1cs_ns010i_f603c8b2:
 
     # mc "Yeah, but you know you'll always come first."
-    mc "Yeah, but you know you'll always come first."
+    mc "嗯，但你要知道，你在我心里永远都是第一位。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:130
 translate chinese sm1cs_ns010i_182f064b:
 
     # sy "Hehehe. That's good to hear."
-    sy "Hehehe. That's good to hear."
+    sy "嘿嘿嘿。能听到你这么说真好。"
 
