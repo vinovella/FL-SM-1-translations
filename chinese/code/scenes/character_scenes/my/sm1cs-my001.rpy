@@ -157,7 +157,7 @@ translate chinese sm1cs_my001_43595862:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:97
 translate chinese sm1cs_my001_d1bddb7d:
 
-    # mc "Well...I have to keep you guessing!"
+    # mc "Well... I have to keep you guessing!"
     mc "嗯...我就是要让你猜不透我！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:98
@@ -181,7 +181,7 @@ translate chinese sm1cs_my001_fc36362a:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:105
 translate chinese sm1cs_my001_d0272e8d:
 
-    # mc "Uh huh...and why didn't you just wait to get into the bathroom?"
+    # mc "Uh huh... and why didn't you just wait to get into the bathroom?"
     mc "嗯哼...那你为什么不等到了浴室再脱呢？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:108
@@ -193,7 +193,7 @@ translate chinese sm1cs_my001_7fe7034c:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:110
 translate chinese sm1cs_my001_aa8caa83:
 
-    # mc "Wet...but...huh?"
+    # mc "Wet... but... huh?"
     mc "弄湿...可是...啊？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:115
@@ -271,7 +271,7 @@ translate chinese sm1cs_my001_a1d800a1:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:158
 translate chinese sm1cs_my001_38235a59:
 
-    # mct "Okay...I just need to be my usual, charming self...no need to overthink, or stress. Just do the date, [mcname]..."
+    # mct "Okay... I just need to be my usual, charming self... no need to overthink, or stress. Just do the date, [mcname]..."
     mct "好了...我只要表现出平时那种有魅力的样子就行...不用想太多，也不用紧张。[mcname]，就正常约会就好..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:163
@@ -457,13 +457,13 @@ translate chinese sm1cs_my001_a11e17c8:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:252
 translate chinese sm1cs_my001_7f89a20b:
 
-    # mc "Well...I got that from watching you?"
+    # mc "Well... I got that from watching you?"
     mc "这个嘛...是看你喝酒学的？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:255
 translate chinese sm1cs_my001_7ef7cda9:
 
-    # my "Compliment after compliment...if I didn't know any better, I'd say this was a date."
+    # my "Compliment after compliment... if I didn't know any better, I'd say this was a date."
     my "一句接一句地夸我...要不是我了解你，我都要以为这是一场约会了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:256
@@ -499,7 +499,7 @@ translate chinese sm1cs_my001_b2b9e19d:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:268
 translate chinese sm1cs_my001_6dc64527:
 
-    # my "I used to have this...friend. Now, he wasn't exactly working in the adult entertainment industry, but close. Lots of nude models in his studio, lots of partying..."
+    # my "I used to have this... friend. Now, he wasn't exactly working in the adult entertainment industry, but close. Lots of nude models in his studio, lots of partying..."
     my "我以前有个...朋友。他当时虽然不是在成人娱乐行业工作，但也差不多了。他的工作室里有好多裸体模特，还经常举办派对..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
@@ -637,7 +637,7 @@ translate chinese sm1cs_my001_866dba6a:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:337
 translate chinese sm1cs_my001_c5db756f:
 
-    # my "Mmmhmmm. There's just something about this place...I love it here."
+    # my "Mmmhmmm. There's just something about this place... I love it here."
     my "嗯哼。这地方就是有种特别的魅力...我太爱这里了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:340
@@ -655,7 +655,7 @@ translate chinese sm1cs_my001_5cc1af5f:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:345
 translate chinese sm1cs_my001_b8cc636d:
 
-    # my "No, no. Nothing like that. I've just always found hotels...sterile. There's no life in them."
+    # my "No, no. Nothing like that. I've just always found hotels... sterile. There's no life in them."
     my "没有，没有。不是那种问题。我就是一直觉得酒店...太缺乏生气了。里面一点生活的气息都没有。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
@@ -805,7 +805,7 @@ translate chinese sm1cs_my001_f581eec3:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:412
 translate chinese sm1cs_my001_840783b0:
 
-    # my "Mmmm...I can't even remember the last time I had oysters."
+    # my "Mmmm... I can't even remember the last time I had oysters."
     my "嗯...我都想不起来上一次吃生蚝是什么时候了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:414
@@ -913,7 +913,7 @@ translate chinese sm1cs_my001_7d57780b:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:461
 translate chinese sm1cs_my001_e1232321:
 
-    # my "But...the one I think back to the most was in Rome."
+    # my "But... the one I think back to the most was in Rome."
     my "不过...我最常回想起来的，是在罗马的一段经历。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:467
@@ -1033,7 +1033,7 @@ translate chinese sm1cs_my001_b3ad2cc0:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:510
 translate chinese sm1cs_my001_f49a102d:
 
-    # my "And then the lights came on. The walls, the ceiling...they were covered in these masterpieces. I can't even begin to describe how beautiful they were."
+    # my "And then the lights came on. The walls, the ceiling... they were covered in these masterpieces. I can't even begin to describe how beautiful they were."
     my "然后灯就亮了。墙壁上、天花板上...全都是那些传世名作。它们有多美，我根本没办法用语言形容。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:511
@@ -1309,7 +1309,7 @@ translate chinese sm1cs_my001_6639754e:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:651
 translate chinese sm1cs_my001_b9421d51:
 
-    # mct "Like, a while a while...not like a friendly hug, but..."
+    # mct "Like, a while a while... not like a friendly hug, but..."
     mct "真的好久...不像是普通朋友的拥抱，反而更像是..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:655
@@ -1333,7 +1333,7 @@ translate chinese sm1cs_my001_e427b8d8:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:663
 translate chinese sm1cs_my001_552fac8e:
 
-    # mct "Well, I think that went well...Like, really well."
+    # mct "Well, I think that went well... Like, really well."
     mct "嗯，我觉得进展得不错...真的不错。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:664
