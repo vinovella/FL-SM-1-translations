@@ -283,7 +283,7 @@ translate chinese sm1cs_mas003_6a33ac4e:
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:168
 translate chinese sm1cs_mas003_afa351c6:
 
-    # mc "*straining* Yeah...no problem."
+    # mc "*straining* Yeah... no problem."
     mc "*吃力地* 好...没问题。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:179
@@ -919,7 +919,7 @@ translate chinese sm1cs_mas003_third_delivery_e810d7be:
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:550
 translate chinese sm1cs_mas003_third_delivery_a70c2050:
 
-    # mc "Uh...a friend and I are trying to get into making...movies."
+    # mc "Uh... a friend and I are trying to get into making... movies."
     mc "呃...我跟一个朋友正试着进入...电影制作这一行。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:553
@@ -1147,7 +1147,7 @@ translate chinese sm1cs_mas003_third_delivery_749aa996:
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:674
 translate chinese sm1cs_mas003_third_delivery_2702b4fc:
 
-    # lg "You know...if this was a porno, I'd be smashing him already."
+    # lg "You know... if this was a porno, I'd be smashing him already."
     lg "你知道吗...要是这是在色情片里，我现在早就跟他滚到一块儿了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:676
@@ -1225,7 +1225,7 @@ translate chinese sm1cs_mas003_third_delivery_e02f26a6:
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:707
 translate chinese sm1cs_mas003_third_delivery_ee26e2b5:
 
-    # ka "I'm sorry. I just...I love my house. And I love these two bitches."
+    # ka "I'm sorry. I just... I love my house. And I love these two bitches."
     ka "抱歉啊。我就是...太爱我的姐妹会了。也很爱这两位妞儿。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
@@ -1279,7 +1279,7 @@ translate chinese sm1cs_mas003_third_delivery_715889b4:
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:730
 translate chinese sm1cs_mas003_third_delivery_61ee64c4:
 
-    # mc "Nah...no thanks. I'm just here to bring food."
+    # mc "Nah... no thanks. I'm just here to bring food."
     mc "不了...还是算了吧。我就是来送吃的而已。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:734
@@ -1633,7 +1633,7 @@ translate chinese sm1cs_mas003_after_delivery_f2ac2901:
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:917
 translate chinese sm1cs_mas003_after_delivery_7ac74bda:
 
-    # mc "So...what's my cut for keeping this a secret between us."
+    # mc "So... what's my cut for keeping this a secret between us."
     mc "那...我帮你保守这个秘密，我的好处是什么啊？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:920
