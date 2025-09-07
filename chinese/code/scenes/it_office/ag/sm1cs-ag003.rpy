@@ -49,13 +49,13 @@ translate chinese sm1cs_ag003_cc4ce0b6:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:43
 translate chinese sm1cs_ag003_71ee7c9c:
 
-    # ag "No, no. At least not more than usual. Erm...I just can feel, erm, cramped when I'm in the office."
+    # ag "No, no. At least not more than usual. Erm... I just can feel, erm, cramped when I'm in the office."
     ag "没有，没有。至少没有比平时更过分。呃...我就是待在办公室里会觉得，呃，很压抑。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:46
 translate chinese sm1cs_ag003_e0dd96dd:
 
-    # mct "Man, she is acting super strange...Something has to be up, right?"
+    # mct "Man, she is acting super strange... Something has to be up, right?"
     mct "哎，她表现得也太奇怪了...肯定有什么事吧？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:49
@@ -85,7 +85,7 @@ translate chinese sm1cs_ag003_be21a2cf:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:63
 translate chinese sm1cs_ag003_e388d5ce:
 
-    # ag "It's uhm...my code. Yeah, my code is the problem."
+    # ag "It's uhm... my code. Yeah, my code is the problem."
     ag "呃...是我写的代码。对，问题出在我写的代码上。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:66
@@ -97,7 +97,7 @@ translate chinese sm1cs_ag003_aebd1582:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:69
 translate chinese sm1cs_ag003_5763db88:
 
-    # mct "Man...she is being really, really weird. Something is {b}definitely{/b} up."
+    # mct "Man... she is being really, really weird. Something is {b}definitely{/b} up."
     mct "天呐...她表现得也太奇怪了，真的很奇怪。{b}肯定{/b}有什么事不对劲。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:72
@@ -157,7 +157,7 @@ translate chinese sm1cs_ag003_f037a4dc:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:101
 translate chinese sm1cs_ag003_90b0d785:
 
-    # mc "Sooo...while I wait for my coffee, can I sit with you?"
+    # mc "Sooo... while I wait for my coffee, can I sit with you?"
     mc "那...我等咖啡的时候，能跟你坐一块儿吗？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:104
@@ -193,19 +193,19 @@ translate chinese sm1cs_ag003_f49fff8f:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:118
 translate chinese sm1cs_ag003_b4fc0d09:
 
-    # ag "Can you...not mention seeing me here to anyone?"
+    # ag "Can you... not mention seeing me here to anyone?"
     ag "你能不能...别跟任何人说你在这儿看到我了？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:121
 translate chinese sm1cs_ag003_46fbb4e7:
 
-    # mc "Uhm...okay?"
+    # mc "Uhm... okay?"
     mc "呃...可以啊？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:124
 translate chinese sm1cs_ag003_b641787a:
 
-    # ag "It's just...this is where I come when I want to be alone, you know? I don't want Nari or April to come here and start asking me questions."
+    # ag "It's just... this is where I come when I want to be alone, you know? I don't want Nari or April to come here and start asking me questions."
     ag "就是...你也知道，我想一个人待着的时候就会来这儿。我不想让娜丽或者艾普尔找到这儿来，然后问东问西的。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:127
@@ -289,7 +289,7 @@ translate chinese sm1cs_ag003_df23c84c:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:160
 translate chinese sm1cs_ag003_5eff674f:
 
-    # mc "No, it's not weird at all! Just...different."
+    # mc "No, it's not weird at all! Just... different."
     mc "没有啊，这一点都不奇怪！就是...跟别人不太一样而已。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:163
@@ -481,13 +481,13 @@ translate chinese sm1cs_ag003_e5856a25:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:252
 translate chinese sm1cs_ag003_c42f0397:
 
-    # ag "Thanks! I've been...needing to use the ladies room for awhile, but I hate leaving my stuff unattended. I'll be right back!"
+    # ag "Thanks! I've been... needing to use the ladies room for awhile, but I hate leaving my stuff unattended. I'll be right back!"
     ag "谢谢！我...其实早就想去洗手间了，可我实在不喜欢把东西单独留在这儿。我马上就回来！"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:267
 translate chinese sm1cs_ag003_c833a2d2:
 
-    # mct "Hmmmm...all of Anna's stuff..."
+    # mct "Hmmmm... all of Anna's stuff..."
     mct "嗯...这全是安娜的东西..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:271
@@ -505,13 +505,13 @@ translate chinese sm1cs_ag003_8d7138b2:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:275
 translate chinese sm1cs_ag003_9e7bdc27:
 
-    # mct "But...maybe there's a clue as to why she's acting so weird..."
+    # mct "But... maybe there's a clue as to why she's acting so weird..."
     mct "可是...说不定能找到线索，说明她为什么表现得这么奇怪..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:276
 translate chinese sm1cs_ag003_f56cb5ec:
 
-    # mct "Maybe she's got hate mail...or a letter of review from Claire..."
+    # mct "Maybe she's got hate mail... or a letter of review from Claire..."
     mct "说不定她收到了恐吓信...或者克莱尔给她写的考核评价..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:277
@@ -523,13 +523,13 @@ translate chinese sm1cs_ag003_788b2bb8:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:281
 translate chinese sm1cs_ag003_551195b1:
 
-    # mct "So, in a way...snooping is kind of the right thing to do. Right?"
+    # mct "So, in a way... snooping is kind of the right thing to do. Right?"
     mct "所以，从某种角度来说...偷看其实也算是件好事，对吧？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:282
 translate chinese sm1cs_ag003_8879a28a:
 
-    # mct "Yeah...yeah, it totally is..."
+    # mct "Yeah... yeah, it totally is..."
     mct "对...对，肯定是好事..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:285
@@ -553,7 +553,7 @@ translate chinese sm1cs_ag003_901b012e:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:290
 translate chinese sm1cs_ag003_0391d5e0:
 
-    # mc "Wait a sec...what's this?"
+    # mc "Wait a sec... what's this?"
     mc "等等...这是什么？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:293
@@ -565,7 +565,7 @@ translate chinese sm1cs_ag003_8acc5638:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:298
 translate chinese sm1cs_ag003_1d421ca7:
 
-    # mct "Oh, this is more of Anna's book porn...I didn't realize she would have more than one."
+    # mct "Oh, this is more of Anna's book porn... I didn't realize she would have more than one."
     mct "哦，这又是安娜的色情小说...我真没想到她居然不止一本。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:299
@@ -583,19 +583,19 @@ translate chinese sm1cs_ag003_021a0098:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:303
 translate chinese sm1cs_ag003_72612944:
 
-    # mct "And even more book porn...does she just, carry this with her wherever she goes?"
+    # mct "And even more book porn... does she just, carry this with her wherever she goes?"
     mct "居然还有这么多本...她难道走到哪儿都带着这些东西吗？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:307
 translate chinese sm1cs_ag003_f727b063:
 
-    # mct "I mean...anyone can find this. It's hard to delete the browsing history of a book..."
+    # mct "I mean... anyone can find this. It's hard to delete the browsing history of a book..."
     mct "要知道...谁都有可能看到这些。书可不像网页那样，能轻易删掉浏览记录..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:310
 translate chinese sm1cs_ag003_4090725e:
 
-    # mct "If it's just the smut...this might be a dead-"
+    # mct "If it's just the smut... this might be a dead-"
     mct "要是里面就只有这些色情内容...那可能就白找了--"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:314
@@ -607,7 +607,7 @@ translate chinese sm1cs_ag003_f419bd54:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:319
 translate chinese sm1cs_ag003_b75cf878:
 
-    # mct "Okay, let's see...who the hell is \"Magnolia Fox\"?"
+    # mct "Okay, let's see... who the hell is \"Magnolia Fox\"?"
     mct "好，让我看看...这个\"玛格诺莉亚・福克斯\"到底是谁啊？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:320
@@ -619,19 +619,19 @@ translate chinese sm1cs_ag003_de057707:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:324
 translate chinese sm1cs_ag003_cda58318:
 
-    # mct "A few dates...is this a diary? Why does Anna have someone else's diary?"
+    # mct "A few dates... is this a diary? Why does Anna have someone else's diary?"
     mct "还有几个日期...这难道是日记？安娜为什么会有别人的日记啊？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:325
 translate chinese sm1cs_ag003_fe992a52:
 
-    # mct "This is a...travel journal for Magnolia..."
+    # mct "This is a... travel journal for Magnolia..."
     mct "这居然是...玛格诺莉亚的旅行日记..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:326
 translate chinese sm1cs_ag003_2bb27315:
 
-    # mct "She's in...Transylvania?"
+    # mct "She's in... Transylvania?"
     mct "她在...特兰西瓦尼亚？"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:329
@@ -649,7 +649,7 @@ translate chinese sm1cs_ag003_b026cc61:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:334
 translate chinese sm1cs_ag003_f1fb7189:
 
-    # mct "Magnolia is in a castle...owned by some...\"hot recluse\"..."
+    # mct "Magnolia is in a castle... owned by some... \"hot recluse\"..."
     mct "玛格诺莉亚在一座城堡里...这座城堡是某个...\"帅气隐士\"的..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:335
@@ -667,19 +667,19 @@ translate chinese sm1cs_ag003_bdfb0fcb:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:339
 translate chinese sm1cs_ag003_602b2806:
 
-    # mct "Woah. That's...that's a pretty detailed description of Magnolia's pussy..."
+    # mct "Woah. That's... that's a pretty detailed description of Magnolia's pussy..."
     mct "哇哦。这...这对玛格诺莉亚的小穴描述得也太详细了吧..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:340
 translate chinese sm1cs_ag003_a24738a2:
 
-    # mct "She's...horny, and masturbating, and..."
+    # mct "She's... horny, and masturbating, and..."
     mct "她现在...欲火焚身，正在自慰，而且..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:343
 translate chinese sm1cs_ag003_3d26a787:
 
-    # mct "Wait, the recluse...he's watching her. He's watching her lust, and-"
+    # mct "Wait, the recluse... he's watching her. He's watching her lust, and-"
     mct "等等，那个隐士...他正在看着她。他看着她那副春心荡漾的样子，然后--"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:347
@@ -763,7 +763,7 @@ translate chinese sm1cs_ag003_b3263fa2:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:391
 translate chinese sm1cs_ag003_bb23bb6a:
 
-    # ag "Well, you shouldn't keep her waiting. Claire can be...well, intense about work stuff."
+    # ag "Well, you shouldn't keep her waiting. Claire can be... well, intense about work stuff."
     ag "那你可别让她等太久。克莱尔在工作方面，有时候会...嗯，要求特别严格。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:394
@@ -787,7 +787,7 @@ translate chinese sm1cs_ag003_3397027b:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:405
 translate chinese sm1cs_ag003_527bc9a0:
 
-    # mct "Shit. Shit, shit, shit. I just stole Anna's notebook...which I think she stole from someone."
+    # mct "Shit. Shit, shit, shit. I just stole Anna's notebook... which I think she stole from someone."
     mct "靠靠靠靠。我居然把安娜的笔记本偷出来了...而且我觉得这本笔记本说不定也是她从别人那儿偷来的。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:406
@@ -805,12 +805,12 @@ translate chinese sm1cs_ag003_65958481:
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:410
 translate chinese sm1cs_ag003_28e77d45:
 
-    # mct "I guess...I'll figure something out."
+    # mct "I guess... I'll figure something out."
     mct "我想...总会有办法的。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:411
 translate chinese sm1cs_ag003_353fb300:
 
-    # mct "In the meantime...I wonder what the hot recluse is going to do now that he's seen Magnolia fingering herself..."
+    # mct "In the meantime... I wonder what the hot recluse is going to do now that he's seen Magnolia fingering herself..."
     mct "不过现在嘛...我倒是好奇，那个帅气隐士看到玛格诺莉亚自慰之后，会做些什么..."
 
