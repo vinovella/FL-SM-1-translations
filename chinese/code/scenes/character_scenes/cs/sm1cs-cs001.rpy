@@ -67,7 +67,7 @@ translate chinese sm1cs_cs001_1998bfa0:
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:40
 translate chinese sm1cs_cs001_3138ead7:
 
-    # cs "Oh yeah, some woman used to own this spot, right? It was...Nara's or something like that."
+    # cs "Oh yeah, some woman used to own this spot, right? It was... Nara's or something like that."
     cs "哦对，以前这地方是一个女人开的，是吧？好像叫...娜拉咖啡还是什么的。"
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:43
@@ -91,19 +91,19 @@ translate chinese sm1cs_cs001_fc1b3fb8:
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:50
 translate chinese sm1cs_cs001_d439de47:
 
-    # mc "Uhm, you know...Studying and...Stuff."
+    # mc "Uhm, you know... Studying and... Stuff."
     mc "呃，就是...在这里学习啊，还有...一些别的事之类的。"
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:53
 translate chinese sm1cs_cs001_4a0bf7b8:
 
-    # cs "Okay?...Well, are you going to order something or not?"
+    # cs "Okay?... Well, are you going to order something or not?"
     cs "好吧？...那你到底要不要点些什么？"
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:56
 translate chinese sm1cs_cs001_64d7541c:
 
-    # mc "You know...now that I think about it, my friend is waiting for me back there..."
+    # mc "You know... now that I think about it, my friend is waiting for me back there..."
     mc "你知道...现在我想起来了，我的朋友正在那边等我..."
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:59
@@ -139,7 +139,7 @@ translate chinese sm1cs_cs001_bedb708c:
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:72
 translate chinese sm1cs_cs001_6d7a79b5:
 
-    # mc "Uhhh...Which one do you like?"
+    # mc "Uhhh... Which one do you like?"
     mc "呃...你比较喜欢哪一种啊？"
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:74
@@ -157,7 +157,7 @@ translate chinese sm1cs_cs001_dd52fc66:
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:79
 translate chinese sm1cs_cs001_23e21098:
 
-    # cs "...Me?"
+    # cs "... Me?"
     cs "...我吗？"
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:81
