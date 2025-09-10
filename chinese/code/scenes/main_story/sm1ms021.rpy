@@ -2,343 +2,343 @@
 translate chinese sm1ms021_754884af:
 
     # mc "Still incredible thinking that this place used to be that old rundown space."
-    mc "Still incredible thinking that this place used to be that old rundown space."
+    mc "一想到这地方以前还是个破旧的空屋子，现在却变成这样，我还是觉得特别不可思议。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:13
 translate chinese sm1ms021_b398557c:
 
     # sy "I know, right? Feels like just yesterday we were just sleeping on a musty old mattress on the floor."
-    sy "I know, right? Feels like just yesterday we were just sleeping on a musty old mattress on the floor."
+    sy "我懂！感觉就像昨天，我们还只能睡在地板上那张发霉的旧床垫上呢。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:14
 translate chinese sm1ms021_93918ab7:
 
     # sy "Now we have an upstairs bedroom."
-    sy "Now we have an upstairs bedroom."
+    sy "现在我们楼上都有卧室了。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:17
 translate chinese sm1ms021_98e5d798:
 
     # mc "Yeah, but it's still not a room room."
-    mc "Yeah, but it's still not a room room."
+    mc "是啊，但那还不能算真正意义上的‘房间’。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:20
 translate chinese sm1ms021_991c40ae:
 
     # mc "You sure you're cool rawdogging it?"
-    mc "You sure you're cool rawdogging it?"
+    mc "你确定这样'裸奔'没问题吗？"
 
 # game/code/scenes/main_story/sm1ms021.rpy:21
 translate chinese sm1ms021_a5d43285:
 
     # mc "Could make for awkward situations with guests."
-    mc "Could make for awkward situations with guests."
+    mc "要是有客人来，可能会很尴尬。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:23
 translate chinese sm1ms021_9babff3c:
 
     # mc "And I don't know what Nari will think if she comes to live here."
-    mc "And I don't know what Nari will think if she comes to live here."
+    mc "而且我也不知道娜丽要是搬来住，她看到会怎么想。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:26
 translate chinese sm1ms021_6c3adc39:
 
     # sy "Hey, our house, our rules."
-    sy "Hey, our house, our rules."
+    sy "嘿，这是咱们的房子，规矩咱们定。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:29
 translate chinese sm1ms021_b5fbd5a1:
 
     # mc "Good point."
-    mc "Good point."
+    mc "说得对。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:36
 translate chinese sm1ms021_ede62c50:
 
     # sy "Come on, hot stuff. The view from upstairs is way better."
-    sy "Come on, hot stuff. The view from upstairs is way better."
+    sy "来吧，帅哥。楼上的视野可比这儿好多了。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:40
 translate chinese sm1ms021_faa03e1a:
 
     # mc "Haha."
-    mc "Haha."
+    mc "哈哈。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:45
 translate chinese sm1ms021_c6656698:
 
     # mc "It was a lot of hard work and sweat, but it's finally over."
-    mc "It was a lot of hard work and sweat, but it's finally over."
+    mc "虽然之前累得满头大汗，吃了不少苦，但总算是结束了。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:49
 translate chinese sm1ms021_5e1afed5:
 
     # mc "I never knew how painful it is to wang your own finger with a hammer until we did this."
-    mc "I never knew how painful it is to wang your own finger with a hammer until we did this."
+    mc "以前我从来不知道，用锤子砸到自己手指能这么疼，直到这次装修才体会到。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:52
 translate chinese sm1ms021_7542e49e:
 
     # sy "Hey remember. No pain, no gain."
-    sy "Hey remember. No pain, no gain."
+    sy "嘿，别忘了。一分耕耘，一分收获。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:55
 translate chinese sm1ms021_139b3780:
 
     # mc "Just remember that when I try to finger you with a swollen index finger."
-    mc "Just remember that when I try to finger you with a swollen index finger."
+    mc "等我用肿起来的食指摸你的时候，你可别忘了这句话。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:58
 translate chinese sm1ms021_08dcb8f8:
 
     # sy "I guess you can always finger me with something else."
-    sy "I guess you can always finger me with something else."
+    sy "那你也可以用别的东西摸我啊。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:59
 translate chinese sm1ms021_7346a77b:
 
     # sy "I know something else that is meant to get swollen."
-    sy "I know something else that is meant to get swollen."
+    sy "我知道有个东西本来就是会变硬的。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:63
 translate chinese sm1ms021_d1287a95:
 
     # sy "And it gets swollen a lot when I'm around."
-    sy "And it gets swollen a lot when I'm around."
+    sy "而且我在的时候，那东西经常会变硬。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:66
 translate chinese sm1ms021_7129dea6:
 
     # mc "Nice."
-    mc "Nice."
+    mc "厉害。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:69
 translate chinese sm1ms021_e9a1395f:
 
     # mc "You're talking about me, dick, right?"
-    mc "You're talking about me, dick, right?"
+    mc "你说的是我，还有我的老二，对吧？"
 
 # game/code/scenes/main_story/sm1ms021.rpy:73
 translate chinese sm1ms021_033974e5:
 
     # sy "Oh my god. You did not just ask that."
-    sy "Oh my god. You did not just ask that."
+    sy "我的天。你居然还问这种问题。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:77
 translate chinese sm1ms021_7a694e35:
 
     # sy "*laughing*"
-    sy "*laughing*"
+    sy "*大笑*"
 
 # game/code/scenes/main_story/sm1ms021.rpy:86
 translate chinese sm1ms021_ac1efce8:
 
     # sy "I'm feeling good, you know?"
-    sy "I'm feeling good, you know?"
+    sy "我现在心情特别好，你知道吗？"
 
 # game/code/scenes/main_story/sm1ms021.rpy:89
 translate chinese sm1ms021_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "嗯。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:92
 translate chinese sm1ms021_3a330c2b:
 
     # sy "This space... it’s not just a studio anymore. It’s starting to feel like our dream is finally taking shape."
-    sy "This space... it’s not just a studio anymore. It’s starting to feel like our dream is finally taking shape."
+    sy "这个地方…… 现在已经不只是个工作室了。我感觉咱们的梦想终于要成真了。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:93
 translate chinese sm1ms021_d21c8f26:
 
     # sy "It's crazy thinking not too long ago we were just recording ourselves having some fun at my apartment."
-    sy "It's crazy thinking not too long ago we were just recording ourselves having some fun at my apartment."
+    sy "想想不久前，我们还只是在我公寓里拍些亲热的视频玩，真是不可思议。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:94
 translate chinese sm1ms021_94919151:
 
     # sy "And now we've got our first adult film under our belts."
-    sy "And now we've got our first adult film under our belts."
+    sy "而现在我们已经拍了第一部成人电影。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:97
 translate chinese sm1ms021_12d74c6e:
 
     # sy "You really stepped up, [mcname]."
-    sy "You really stepped up, [mcname]."
+    sy "[mcname]，你真的付出了很多。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:101
 translate chinese sm1ms021_99674341:
 
     # sy "Mmm."
-    sy "Mmm."
+    sy "嗯。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:104
 translate chinese sm1ms021_6ea38681:
 
     # mc "We did this together, Stacy. Couldn't have done it without you."
-    mc "We did this together, Stacy. Couldn't have done it without you."
+    mc "这是我们共同努力的结果，史黛西。没有你我不可能做到这些。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:107
 translate chinese sm1ms021_03d3460b:
 
     # sy "Same here. I mean, you’re the one who kept me sane through all of this."
-    sy "Same here. I mean, you’re the one who kept me sane through all of this."
+    sy "我也是。说真的，这段时间全靠你，我才没被逼疯。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:112
 translate chinese sm1ms021_26fb55b4:
 
     # sy "And with mom around, it's been just a little bit more hectic."
-    sy "And with mom around, it's been just a little bit more hectic."
+    sy "而且妈妈在这儿，很多事儿也变得比以前更忙乱了点。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:114
 translate chinese sm1ms021_28d98971:
 
     # sy "And with Melony around, it's just been a little bit more hectic."
-    sy "And with Melony around, it's just been a little bit more hectic."
+    sy "而且梅洛妮在这儿，很多事儿也变得比以前更忙乱了点。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:117
 translate chinese sm1ms021_46a6b251:
 
     # mc "We always knew that it wasn't going to be easy."
-    mc "We always knew that it wasn't going to be easy."
+    mc "我们早就知道这条路不会好走。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:119
 translate chinese sm1ms021_4a7258c0:
 
     # mc "Mom being so... 'close' is just an extra hoop to jump through."
-    mc "Mom being so... 'close' is just an extra hoop to jump through."
+    mc "妈妈现在跟我们这么……‘亲近’，无非是多一个需要应对的问题。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:121
 translate chinese sm1ms021_923c7f2a:
 
     # mc "Melony being so... 'close' is just an extra hoop to jump through."
-    mc "Melony being so... 'close' is just an extra hoop to jump through."
+    mc "梅洛妮现在跟我们这么……‘亲近’，无非是多一个需要应对的问题。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:124
 translate chinese sm1ms021_894728ea:
 
     # sy "Yup."
-    sy "Yup."
+    sy "对。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:129
 translate chinese sm1ms021_99674341_1:
 
     # sy "Mmm."
-    sy "Mmm."
+    sy "嗯……"
 
 # game/code/scenes/main_story/sm1ms021.rpy:132
 translate chinese sm1ms021_d3826ca3:
 
     # sy "Score."
-    sy "Score."
+    sy "太好了。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:133
 translate chinese sm1ms021_24bfc387:
 
     # sy "More good news! {w}The client who commissioned the first film is ready to start another one."
-    sy "More good news! {w}The client who commissioned the first film is ready to start another one."
+    sy "还有个好消息！{w}之前委托我们拍第一部电影的客户，现在想再拍一部了。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:136
 translate chinese sm1ms021_ec200a3c:
 
     # mc "So soon? Man, it must be nice to have money."
-    mc "So soon? Man, it must be nice to have money."
+    mc "这么快？哇，有钱就是不一样。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:139
 translate chinese sm1ms021_95bc8299:
 
     # sy "Well, soon it will be our money."
-    sy "Well, soon it will be our money."
+    sy "这个嘛，用不了多久，我们也会有这么多钱的。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:142
 translate chinese sm1ms021_3e3982a7:
 
     # sy "Come on, I'll load up the email on the computer."
-    sy "Come on, I'll load up the email on the computer."
+    sy "来吧，我去把电脑打开，给你看邮件内容。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:146
 translate chinese sm1ms021_344ffae0:
 
     # sy "Here is some of what they wrote."
-    sy "Here is some of what they wrote."
+    sy "这是他们邮件里写的一部分内容。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:147
 translate chinese sm1ms021_8be8a842:
 
     # sy "'Loved your work. The scene was exactly what I was looking for.'"
-    sy "'Loved your work. The scene was exactly what I was looking for.'"
+    sy "‘很喜欢你们的作品。那场戏完全是我想要的效果。’"
 
 # game/code/scenes/main_story/sm1ms021.rpy:148
 translate chinese sm1ms021_0cf622cf:
 
     # sy "'Great work by both of your actors and your camera work. I really enjoyed watching the film.'"
-    sy "'Great work by both of your actors and your camera work. I really enjoyed watching the film.'"
+    sy "‘演员表现得都很棒，摄影也做得很好。这部电影我看得很享受。’"
 
 # game/code/scenes/main_story/sm1ms021.rpy:151
 translate chinese sm1ms021_85a9a2d1:
 
     # mc "Customer feedback. Why does it taste so sweet?"
-    mc "Customer feedback. Why does it taste so sweet?"
+    mc "客户的好评。怎么感觉这么让人开心呢？"
 
 # game/code/scenes/main_story/sm1ms021.rpy:154
 translate chinese sm1ms021_f605bc63:
 
     # sy "I know, right?"
-    sy "I know, right?"
+    sy "我懂，可不是嘛！"
 
 # game/code/scenes/main_story/sm1ms021.rpy:158
 translate chinese sm1ms021_58fb1987:
 
     # sy "Whoever it is, sounds like they totally jerked off to our film."
-    sy "Whoever it is, sounds like they totally jerked off to our film."
+    sy "不管这客户是谁，听这语气，肯定对着咱们的电影打飞机了。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:159
 translate chinese sm1ms021_1b56ff48:
 
     # sy "Ooouha. That's so hot."
-    sy "Ooouha. That's so hot."
+    sy "哦～这也太刺激了。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:160
 translate chinese sm1ms021_73c09c4c:
 
     # sy "And it keeps getting better!"
-    sy "And it keeps getting better!"
+    sy "而且还有更棒的呢！"
 
 # game/code/scenes/main_story/sm1ms021.rpy:163
 translate chinese sm1ms021_83104082:
 
     # mc "'This is embarrassing, but if I can't talk to you about it, who can I?'"
-    mc "'This is embarrassing, but if I can't talk to you about it, who can I?'"
+    mc "‘说出来有点不好意思，但这事我不跟你们说，还能跟谁说呢？’"
 
 # game/code/scenes/main_story/sm1ms021.rpy:164
 translate chinese sm1ms021_249173a2:
 
     # mc "'I have always been a fan of buttstuff. Not just anal sex, but that is where we can start.'"
-    mc "'I have always been a fan of buttstuff. Not just anal sex, but that is where we can start.'"
+    mc "‘我一直很喜欢跟屁股有关的玩法。不只是肛交，不过咱们可以从肛交开始。’"
 
 # game/code/scenes/main_story/sm1ms021.rpy:165
 translate chinese sm1ms021_dfac26d3:
 
     # mc "Start?"
-    mc "Start?"
+    mc "从它开始？"
 
 # game/code/scenes/main_story/sm1ms021.rpy:168
 translate chinese sm1ms021_8246bff8:
 
     # sy "Sweet. Maybe they're planning to do another one after this one."
-    sy "Sweet. Maybe they're planning to do another one after this one."
+    sy "太好了。说不定他们这次拍完，还想再拍一部呢。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:171
 translate chinese sm1ms021_8d99f8fd:
 
     # mc "Haha. Relax. Let's just focus on the meal in front of us."
-    mc "Haha. Relax. Let's just focus on the meal in front of us."
+    mc "哈哈。别着急。咱们先专注眼前这单生意就行。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:175
 translate chinese sm1ms021_7f33bf16:
 
     # sy "Right, right."
-    sy "Right, right."
+    sy "对，对。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:178
 translate chinese sm1ms021_4286ec2c:
