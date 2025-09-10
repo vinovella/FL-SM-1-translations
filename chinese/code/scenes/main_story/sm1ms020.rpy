@@ -1226,85 +1226,85 @@ translate chinese sm1ms020_cheers_3fab862d:
 translate chinese sm1ms020_cheers_5e2b3f7d:
 
     # mc "I hope so."
-    mc "I hope so."
+    mc "希望如此。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:636
 translate chinese sm1ms020_cheers_5d94067c:
 
     # sy "But, here's to us! And to finally being able to start filming again!"
-    sy "But, here's to us! And to finally being able to start filming again!"
+    sy "不过，为我们干杯！也为我们终于能重新开始拍摄干杯！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:639
 translate chinese sm1ms020_cheers_de21ee0c:
 
     # mc "Yeah, thank God for that!"
-    mc "Yeah, thank God for that!"
+    mc "是啊，真是谢天谢地！"
 
 # game/code/scenes/main_story/sm1ms020.rpy:650
 translate chinese sm1ms020_cheers_a1fd2645:
 
     # sy "You know, filming isn't the only thing we can start doing again?"
-    sy "You know, filming isn't the only thing we can start doing again?"
+    sy "你知道吗，我们能重新开始做的可不止拍摄这一件事哦？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:653
 translate chinese sm1ms020_cheers_c2b7c900:
 
     # mc "Hehehe."
-    mc "Hehehe."
+    mc "嘿嘿嘿。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:654
 translate chinese sm1ms020_cheers_b0c0c10e:
 
     # mc "What else can we do again?"
-    mc "What else can we do again?"
+    mc "我们还能重新开始做什么啊？"
 
 # game/code/scenes/main_story/sm1ms020.rpy:658
 translate chinese sm1ms020_cheers_60e11c93:
 
     # sy "Hahaha."
-    sy "Hahaha."
+    sy "哈哈哈。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:659
 translate chinese sm1ms020_cheers_52c32258:
 
     # sy "I was thinking that it is past time we try out our new bed."
-    sy "I was thinking that it is past time we try out our new bed."
+    sy "我在想，咱们早就该试试那张新床了。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:662
 translate chinese sm1ms020_cheers_f9b461d2:
 
     # mc "Mmmm. Not a bad idea."
-    mc "Mmmm. Not a bad idea."
+    mc "嗯。这主意不错。"
 
 # game/code/scenes/main_story/sm1ms020.rpy:666
 translate chinese sm1ms020_cheers_ebd5fe58:
 
     # sy "Alright, let's get the check and then get out of here."
-    sy "Alright, let's get the check and then get out of here."
+    sy "行了，咱们结账然后赶紧离开这儿吧。"
 
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms020.rpy:4
     old "A half hour later"
-    new "A half hour later"
+    new "半小时后"
 
     # game/code/scenes/main_story/sm1ms020.rpy:311
     old "Try and see where things go"
-    new "Try and see where things go"
+    new "先看看情况发展"
 
     # game/code/scenes/main_story/sm1ms020.rpy:311
     old "Leave it alone"
-    new "Leave it alone"
+    new "先别管这事"
 
     # game/code/scenes/main_story/sm1ms020.rpy:541
     old "To the future!"
-    new "To the future!"
+    new "为未来干杯！"
 
     # game/code/scenes/main_story/sm1ms020.rpy:541
     old "To the two of you!"
-    new "To the two of you!"
+    new "为你们俩干杯！"
 
     # game/code/scenes/main_story/sm1ms020.rpy:541
     old "To no more manual labor!"
-    new "To no more manual labor!"
+    new "为再也不用干体力活干杯！"
 
