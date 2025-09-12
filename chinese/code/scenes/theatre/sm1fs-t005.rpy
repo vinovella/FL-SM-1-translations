@@ -260,7 +260,7 @@ translate chinese sm1fs_t005_584638b5:
 translate chinese sm1fs_t005_3b5195a9:
 
     # dvh "It's been... a rough period since I found out they would sponsor us."
-    dvh "自从知道他们愿意资助我们之后，这段时间我一直…… 过得不太顺。"
+    dvh "自从知道他们愿意资助我们之后，这段时间我一直...过得不太顺。"
 
 # game/code/scenes/theatre/sm1fs-t005.rpy:145
 translate chinese sm1fs_t005_7fd3db46:
@@ -356,7 +356,7 @@ translate chinese sm1fs_t005_e79721f0:
 translate chinese sm1fs_t005_6d097fb4:
 
     # km "I... I don't have an idea."
-    km "我…… 我没什么想法。"
+    km "我...我没什么想法。"
 
 # game/code/scenes/theatre/sm1fs-t005.rpy:197
 translate chinese sm1fs_t005_a56d7ec4:
@@ -416,7 +416,7 @@ translate chinese sm1fs_t005_8fb62b81:
 translate chinese sm1fs_t005_6f011cf1:
 
     # dvh "Yes, yes... It might just work."
-    dvh "对，对…… 这个想法说不定真的可行。"
+    dvh "对，对...这个想法说不定真的可行。"
 
 # game/code/scenes/theatre/sm1fs-t005.rpy:231
 translate chinese sm1fs_t005_98420ec2:
@@ -434,7 +434,7 @@ translate chinese sm1fs_t005_6443f7a3:
 translate chinese sm1fs_t005_b6680027:
 
     # km "T-Thank you, Denise."
-    km "谢…… 谢谢你，丹妮丝。"
+    km "谢...谢谢你，丹妮丝。"
 
 # game/code/scenes/theatre/sm1fs-t005.rpy:241
 translate chinese sm1fs_t005_e0c23d3f:
@@ -566,25 +566,25 @@ translate chinese sm1fs_t005_b4b12104:
 translate chinese sm1fs_t005_68dbadb5:
 
     # dvh "So uh... try your best, I guess."
-    dvh "So uh... try your best, I guess."
+    dvh "所以...希望你尽力去做。"
 
 # game/code/scenes/theatre/sm1fs-t005.rpy:306
 translate chinese sm1fs_t005_cb9e798f:
 
     # dvh "I'll be around my office."
-    dvh "I'll be around my office."
+    dvh "我会在我的办公室待着。"
 
 translate chinese strings:
 
     # game/code/scenes/theatre/sm1fs-t005.rpy:97
     old "Do you know anyone hiring?"
-    new "Do you know anyone hiring?"
+    new "你知道有谁在招人吗？"
 
     # game/code/scenes/theatre/sm1fs-t005.rpy:97
     old "I'm sure you did your best, Denise."
-    new "I'm sure you did your best, Denise."
+    new "丹妮丝，我相信你已经尽力了"
 
     # game/code/scenes/theatre/sm1fs-t005.rpy:97
     old "Say nothing."
-    new "Say nothing."
+    new "什么也不说"
 
