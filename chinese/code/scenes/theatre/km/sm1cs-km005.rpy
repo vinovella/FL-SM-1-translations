@@ -2,121 +2,121 @@
 translate chinese sm1cs_km005_0a710bfb:
 
     # mc "Hey Kellie."
-    mc "Hey Kellie."
+    mc "嘿，凯莉。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:34
 translate chinese sm1cs_km005_f8c4c766:
 
     # mc "Everything alright?"
-    mc "Everything alright?"
+    mc "一切都还好吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:38
 translate chinese sm1cs_km005_8604af37:
 
     # km "Totally. Why wouldn't they be?"
-    km "Totally. Why wouldn't they be?"
+    km "当然。能有什么不好的？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:41
 translate chinese sm1cs_km005_c17fc37c:
 
     # mc "I don't know. You just look a little flush."
-    mc "I don't know. You just look a little flush."
+    mc "我不知道啊。就是你看起来好像有点脸红。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:44
 translate chinese sm1cs_km005_2c57d5ff:
 
     # km "I'm not flush. You just surprised me. I thought it would take you longer to get here."
-    km "I'm not flush. You just surprised me. I thought it would take you longer to get here."
+    km "我才没脸红呢。是你突然过来吓了我一跳。我以为你要过会儿才能到这儿呢。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:48
 translate chinese sm1cs_km005_309889a5:
 
     # mc "Sure and... what are you doing in Denise's office anyhow?"
-    mc "Sure and... what are you doing in Denise's office anyhow?"
+    mc "好吧，不过……你在丹妮丝的办公室里干什么呢？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:52
 translate chinese sm1cs_km005_b51e2c02:
 
     # km "She lets me practice here sometimes."
-    km "She lets me practice here sometimes."
+    km "她有时允许我在这里练习。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:53
 translate chinese sm1cs_km005_164ac464:
 
     # km "Helps me avoid {i}her{/i}."
-    km "Helps me avoid {i}her{/i}."
+    km "这样我就能躲开{i}那人{/i}了。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:56
 translate chinese sm1cs_km005_0fc1a486:
 
     # mc "Her?"
-    mc "Her?"
+    mc "哪个人？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:59
 translate chinese sm1cs_km005_534ef34d:
 
     # km "Veronica."
-    km "Veronica."
+    km "维罗妮卡啊。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:63
 translate chinese sm1cs_km005_e341676f:
 
     # mc "Huh. Funny you should mention her."
-    mc "Huh. Funny you should mention her."
+    mc "哦。真巧，你刚好提到她了。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:67
 translate chinese sm1cs_km005_e4c79593:
 
     # mc "Denise asked me to tell you that she wants you and Veronica to put together a workshop for the crew to do."
-    mc "Denise asked me to tell you that she wants you and Veronica to put together a workshop for the crew to do."
+    mc "丹妮丝让我告诉你，她想让你和维罗妮卡一起，给剧组的人组织一场工作坊活动。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:70
 translate chinese sm1cs_km005_a0d7542b:
 
     # km "Oh, did she?"
-    km "Oh, did she?"
+    km "哦，她这么说了吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:73
 translate chinese sm1cs_km005_889b3e07:
 
     # mc "Uh. Yeah. She thinks the two of you can come up with something unique."
-    mc "Uh. Yeah. She thinks the two of you can come up with something unique."
+    mc "呃。对呀。她觉得你们俩能想出一些特别的点子来。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:77
 translate chinese sm1cs_km005_1163fe56:
 
     # km "Why are you lying to me, [mcname]?"
-    km "Why are you lying to me, [mcname]?"
+    km "[mcname]，你为什么要骗我？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:80
 translate chinese sm1cs_km005_b113cb73:
 
     # mc "Huh-I... I'm not lying."
-    mc "Huh-I... I'm not lying."
+    mc "啊？我…… 我没骗你啊。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:81
 translate chinese sm1cs_km005_c43a1102:
 
     # mct "Okay, this is starting off rough."
-    mct "Okay, this is starting off rough."
+    mct "好吧，这开局可不太顺利。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:85
 translate chinese sm1cs_km005_a82f7f00:
 
     # km "Really? Because I just saw Denise a little while ago, and she didn't say anything about an assignment with Veronica."
-    km "Really? Because I just saw Denise a little while ago, and she didn't say anything about an assignment with Veronica."
+    km "真的吗？因为我刚才刚见过丹妮丝，她根本没提过要我和维罗妮卡一起做什么任务啊。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:89
 translate chinese sm1cs_km005_8fda4374:
 
     # km "So how about you tell me exactly what is going on?"
-    km "So how about you tell me exactly what is going on?"
+    km "所以你还是跟我说实话吧，到底是怎么回事？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:92
 translate chinese sm1cs_km005_e8608114:
 
     # mc "Okay. Just...{w} keep an open mind, okay?"
-    mc "Okay. Just...{w} keep an open mind, okay?"
+    mc "好吧。只是……{w}你先别急于下判断，行吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:94
 translate chinese sm1cs_km005_debd4bc9:
@@ -128,145 +128,145 @@ translate chinese sm1cs_km005_debd4bc9:
 translate chinese sm1cs_km005_9930ed4b:
 
     # mc "Great."
-    mc "Great."
+    mc "好好好。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:98
 translate chinese sm1cs_km005_a4d5495f:
 
     # mc "So... Veronica figured out that the reason you have been avoiding her is because of her getting all the lead roles."
-    mc "So... Veronica figured out that the reason you have been avoiding her is because of her getting all the lead roles."
+    mc "事情是这样的…… 维罗妮卡弄明白了，你之前一直躲着她，是因为她抢走了所有主角的角色。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:101
 translate chinese sm1cs_km005_874d9225:
 
     # km "And how did Veronica figure that out?"
-    km "And how did Veronica figure that out?"
+    km "那维罗妮卡是怎么明白的呢？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:105
 translate chinese sm1cs_km005_6e055a43:
 
     # mc "No clue. But she is very sincere about finding some common ground between you two."
-    mc "No clue. But she is very sincere about finding some common ground between you two."
+    mc "我也不清楚。但她是真心想找到一个你们俩都能接受的办法，改善一下你们的关系。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:109
 translate chinese sm1cs_km005_0bc0a228:
 
     # km "You're lying again."
-    km "You're lying again."
+    km "你又在撒谎了。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:112
 translate chinese sm1cs_km005_066375cd:
 
     # mc "Nope. She is really committed to it, Kellie. I promise."
-    mc "Nope. She is really committed to it, Kellie. I promise."
+    mc "我没撒谎。凯莉，她是真的很认真想解决这件事。我保证。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:115
 translate chinese sm1cs_km005_c929adf3:
 
     # km "Not going to happen."
-    km "Not going to happen."
+    km "绝对不可能。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:116
 translate chinese sm1cs_km005_d47b36f3:
 
     # km "It's just some trick. I know it is."
-    km "It's just some trick. I know it is."
+    km "这肯定是个圈套。我知道的。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:119
 translate chinese sm1cs_km005_4254fc69:
 
     # mc "A trick? Why would she be tricking you?"
-    mc "A trick? Why would she be tricking you?"
+    mc "圈套？她为什么要给你设圈套？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:122
 translate chinese sm1cs_km005_713f5897:
 
     # km "Because she..."
-    km "Because she..."
+    km "因为她..."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:123
 translate chinese sm1cs_km005_27b9f2ba:
 
     # km "Forget about it."
-    km "Forget about it."
+    km "算了，不说了。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:126
 translate chinese sm1cs_km005_0b83eab4:
 
     # mc "Come on, Kellie. You can tell me."
-    mc "Come on, Kellie. You can tell me."
+    mc "别这样，凯莉。你可以跟我说的。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:130
 translate chinese sm1cs_km005_a2960a90:
 
     # km "Oh yes, because you're so good at keeping secrets. Just..."
-    km "Oh yes, because you're so good at keeping secrets. Just..."
+    km "呵，是啊，因为你最擅长保守秘密了。你..."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:131
 translate chinese sm1cs_km005_fbf721d8:
 
     # km "Leave me alone, [mcname]."
-    km "Leave me alone, [mcname]."
+    km "[mcname]，别烦我了。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:135
 translate chinese sm1cs_km005_08c831ca:
 
     # mc "I don't get you. Veronica wants to figure out a better way going forward so you can get some of the lead roles and you just want to shut her down."
-    mc "I don't get you. Veronica wants to figure out a better way going forward so you can get some of the lead roles and you just want to shut her down."
+    mc "我真搞不懂你。维罗妮卡想找到一个更好的办法，让你以后也能拿到一些主角的角色，可你却只想把她拒之门外。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:136
 translate chinese sm1cs_km005_561e08a5:
 
     # mc "Don't you owe her a chance to help out?"
-    mc "Don't you owe her a chance to help out?"
+    mc "你就不能给她一个帮你的机会吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:137
 translate chinese sm1cs_km005_2a103291:
 
     # mc "Or are you that stubborn?"
-    mc "Or are you that stubborn?"
+    mc "还是说你就这么固执？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:140
 translate chinese sm1cs_km005_3693d149:
 
     # km "I'm..."
-    km "I'm..."
+    km "我..."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:141
 translate chinese sm1cs_km005_00092d87:
 
     # km "No. It's a trick. I know it is. She must have figured out what I was doing."
-    km "No. It's a trick. I know it is. She must have figured out what I was doing."
+    km "不行。这就是个圈套。我知道的。她肯定是发现我做的事了。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:145
 translate chinese sm1cs_km005_7af443c3:
 
     # mc "Uh, what have you been doing?"
-    mc "Uh, what have you been doing?"
+    mc "呃，你做什么了？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:148
 translate chinese sm1cs_km005_19edc705:
 
     # km "Liking all of her photos on Gram."
-    km "Liking all of her photos on Gram."
+    km "我给她在小蓝书上的所有照片都点了赞。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:149
 translate chinese sm1cs_km005_f4b003ab:
 
     # km "Damn. I should have been stronger. I don't know what's wrong with me."
-    km "Damn. I should have been stronger. I don't know what's wrong with me."
+    km "该死。我当时就该克制住自己的。真不知道我是怎么回事。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:153
 translate chinese sm1cs_km005_ce06bc9e:
 
     # km "And now Veronica knows, and she's going to lord it over my head."
-    km "And now Veronica knows, and she's going to lord it over my head."
+    km "现在维罗妮卡肯定知道了，她一定会拿这事来要挟我。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:154
 translate chinese sm1cs_km005_a076213b:
 
     # km "Admit it, [mcname]."
-    km "Admit it, [mcname]."
+    km "[mcname]，你就承认吧。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:157
 translate chinese sm1cs_km005_2b35b6fe:
@@ -278,109 +278,109 @@ translate chinese sm1cs_km005_2b35b6fe:
 translate chinese sm1cs_km005_5ef04767:
 
     # mc "You have lost me."
-    mc "You have lost me."
+    mc "我被你说糊涂了。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:162
 translate chinese sm1cs_km005_84d61b01:
 
     # km "It's nothing. Forget I said anything."
-    km "It's nothing. Forget I said anything."
+    km "没什么。就当我什么都没说。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:165
 translate chinese sm1cs_km005_915ea128:
 
     # mc "Wait. Liking her photos? You've been looking through Veronica's photos on Gram?"
-    mc "Wait. Liking her photos? You've been looking through Veronica's photos on Gram?"
+    mc "等等。给她的照片点赞？你一直在翻维罗妮卡小蓝书上的照片啊？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:168
 translate chinese sm1cs_km005_af8e22ff:
 
     # km "No."
-    km "No."
+    km "我没有。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:171
 translate chinese sm1cs_km005_667f267e:
 
     # km "*nervously* Why would I ever like Veronica's photos? She's just an airhead who keeps stealing the lead roles and looks really good in jeans and a low cut-"
-    km "*nervously* Why would I ever like Veronica's photos? She's just an airhead who keeps stealing the lead roles and looks really good in jeans and a low cut-"
+    km "*紧张地* 我怎么会给维罗妮卡的照片点赞呢？她就是个没脑子的家伙，只会抢主角的角色，而且穿牛仔裤和低领上衣--"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:174
 translate chinese sm1cs_km005_97ffde2c:
 
     # km "Gah. Never mind. I'm not falling for it. Nice try, [mcname]. But you failed your mission. So goodbye."
-    km "Gah. Never mind. I'm not falling for it. Nice try, [mcname]. But you failed your mission. So goodbye."
+    km "啊。算了。我才不上你的当呢。[mcname]，你这招不行。你任务失败了。所以再见。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:175
 translate chinese sm1cs_km005_ea338235:
 
     # mct "She is covering something up."
-    mct "She is covering something up."
+    mct "她肯定在隐瞒什么事。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:179
 translate chinese sm1cs_km005_8c0d2e72:
 
     # mc "Kellie."
-    mc "Kellie."
+    mc "凯莉。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:180
 translate chinese sm1cs_km005_f3fc220b:
 
     # mc "Were you looking up photos of Veronica just now?"
-    mc "Were you looking up photos of Veronica just now?"
+    mc "你刚才是不是在看维罗妮卡的照片啊？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:195
 translate chinese sm1cs_km005_2b68a637:
 
     # km "That's my phone."
-    km "That's my phone."
+    km "那是我的手机。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:198
 translate chinese sm1cs_km005_f8af0710:
 
     # mc "I'll give it back when you tell me the truth."
-    mc "I'll give it back when you tell me the truth."
+    mc "你跟我说实话，我就把手机还给你。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:203
 translate chinese sm1cs_km005_eedd2893:
 
     # km "Quit it, [mcname]."
-    km "Quit it, [mcname]."
+    km "[mcname]，别闹了。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:206
 translate chinese sm1cs_km005_56a90fb9:
 
     # mc "If you relax and just fess up, I'll give it back."
-    mc "If you relax and just fess up, I'll give it back."
+    mc "你要是放轻松点，老实交代，我马上就把手机还你。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:210
 translate chinese sm1cs_km005_ce6e9fe4:
 
     # km "Whatever. I have nothing to hide from you."
-    km "Whatever. I have nothing to hide from you."
+    km "随便你。我没什么要瞒着你的。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:217
 translate chinese sm1cs_km005_0857cb4b:
 
     # mct "She liked this one too."
-    mct "She liked this one too."
+    mct "这张她也点赞了啊。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:229
 translate chinese sm1cs_km005_8ceac919:
 
     # km "Perv."
-    km "Perv."
+    km "你真变态。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:232
 translate chinese sm1cs_km005_a764f681:
 
     # mc "Kellie...{w} Are you into Veronica?"
-    mc "Kellie...{w} Are you into Veronica?"
+    mc "凯莉……{w}你是不是对维罗妮卡有意思啊？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:235
 translate chinese sm1cs_km005_3da10ed3:
 
     # km "Shut up."
-    km "Shut up."
+    km "闭嘴。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:238
 translate chinese sm1cs_km005_ebc26797:
