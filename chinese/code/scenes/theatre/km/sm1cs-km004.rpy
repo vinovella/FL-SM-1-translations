@@ -1562,7 +1562,7 @@ translate chinese sm1cs_km004_later_18d7b4cb:
 translate Chinese sm1cs_km004_later_e06e0046:
 
     # vs "Did I just blank out for a minute, or did Taisia steal Kellie's clothes?"
-    vs "是我刚刚走神了一分钟，还是泰西娅真把凯莉的衣服偷走了？"
+    vs "是我刚刚走神了没注意泰西娅借衣服，还是她真的把凯莉的衣服偷走了？"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:981
 translate chinese sm1cs_km004_later_02971d9c:
@@ -1668,5 +1668,5 @@ translate chinese strings:
 translate chinese sm1cs_km004_later_e06e0046:
 
     # vs "Did I just blank out for a minute, or did Taisia steal Kellie's clothes?"
-    vs "Did I just blank out for a minute, or did Taisia steal Kellie's clothes?"
+    vs "是我刚刚走神了没注意泰西娅借衣服，还是她真的把凯莉的衣服偷走了？"
 
