@@ -32,7 +32,7 @@ translate chinese sm1cs_km005_2c57d5ff:
 translate chinese sm1cs_km005_309889a5:
 
     # mc "Sure and... what are you doing in Denise's office anyhow?"
-    mc "好吧，不过……你在丹妮丝的办公室里干什么呢？"
+    mc "好吧，不过...你在丹妮丝的办公室里干什么呢？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:52
 translate chinese sm1cs_km005_b51e2c02:
@@ -92,7 +92,7 @@ translate chinese sm1cs_km005_1163fe56:
 translate chinese sm1cs_km005_b113cb73:
 
     # mc "Huh-I... I'm not lying."
-    mc "啊？我…… 我没骗你啊。"
+    mc "啊？我...我没骗你啊。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:81
 translate chinese sm1cs_km005_c43a1102:
@@ -116,7 +116,7 @@ translate chinese sm1cs_km005_8fda4374:
 translate chinese sm1cs_km005_e8608114:
 
     # mc "Okay. Just...{w} keep an open mind, okay?"
-    mc "好吧。只是……{w}你先别急于下判断，行吗？"
+    mc "好吧。只是...{w}你先别急于下判断，行吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:94
 translate chinese sm1cs_km005_debd4bc9:
@@ -134,7 +134,7 @@ translate chinese sm1cs_km005_9930ed4b:
 translate chinese sm1cs_km005_a4d5495f:
 
     # mc "So... Veronica figured out that the reason you have been avoiding her is because of her getting all the lead roles."
-    mc "事情是这样的…… 维罗妮卡弄明白了，你之前一直躲着她，是因为她抢走了所有主角的角色。"
+    mc "事情是这样的...维罗妮卡弄明白了，你之前一直躲着她，是因为她抢走了所有主角的角色。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:101
 translate chinese sm1cs_km005_874d9225:
@@ -374,7 +374,7 @@ translate chinese sm1cs_km005_8ceac919:
 translate chinese sm1cs_km005_a764f681:
 
     # mc "Kellie...{w} Are you into Veronica?"
-    mc "凯莉……{w}你是不是对维罗妮卡有意思啊？"
+    mc "凯莉...{w}你是不是对维罗妮卡有意思啊？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:235
 translate chinese sm1cs_km005_3da10ed3:
@@ -410,7 +410,7 @@ translate chinese sm1cs_km005_16c580fe:
 translate chinese sm1cs_km005_b26c6f28:
 
     # mc "Sorry. I just. Sorry."
-    mc "对不起。我只是…… 抱歉。"
+    mc "对不起。我只是...抱歉。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:251
 translate chinese sm1cs_km005_52e8dafb:
@@ -446,7 +446,7 @@ translate chinese sm1cs_km005_3ffaacc2:
 translate chinese sm1cs_km005_3643dd91:
 
     # km "It looked like... like she might enjoy it."
-    km "那时候她的样子…… 好像…… 好像她还挺享受的。"
+    km "那时候她的样子...好像...好像她还挺享受的。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:263
 translate chinese sm1cs_km005_ad5f6563:
@@ -470,13 +470,13 @@ translate chinese sm1cs_km005_b60e8670:
 translate chinese sm1cs_km005_9488f14e:
 
     # km "I just started...{w} Wanting her."
-    km "我反而开始……{w}开始想得到她了。"
+    km "我反而开始...{w}开始想得到她了。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:273
 translate chinese sm1cs_km005_88a18e90:
 
     # mc "I'm... I mean, this is just crazy. I didn't even know you liked girls."
-    mc "我…… 我是说，这也太疯狂了。我之前都不知道你喜欢女生。"
+    mc "我...我是说，这也太疯狂了。我之前都不知道你喜欢女生。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:277
 translate chinese sm1cs_km005_2efd0f98:
@@ -614,7 +614,7 @@ translate chinese sm1cs_km005_06f8b886:
 translate chinese sm1cs_km005_e39113e5:
 
     # mc "You're just... nrrggh... It's not a race."
-    mc "就是…… 呃…… 这又不是在比赛。"
+    mc "就是...呃...这又不是在比赛。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:340
 translate chinese sm1cs_km005_c6e942c2:
@@ -686,7 +686,7 @@ translate chinese sm1cs_km005_8b5b3c69:
 translate chinese sm1cs_km005_5fd76827:
 
     # mc "No. It was...{w}. It could just be better."
-    mc "不好。刚才真实……{w}你可以做得更好的。"
+    mc "不好。刚才真实...{w}你可以做得更好的。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:367
 translate chinese sm1cs_km005_4efddcd5:
@@ -806,7 +806,7 @@ translate chinese sm1cs_km005_c9401de7:
 translate chinese sm1cs_km005_580b7198:
 
     # km "Oh my god. You're so disgusting. Mrmmmm."
-    km "我的天。你太恶心了。嗯……"
+    km "我的天。你太恶心了。嗯..."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:407
 translate chinese sm1cs_km005_df658d27:
@@ -872,7 +872,7 @@ translate chinese sm1cs_km005_11f4f907:
 translate chinese sm1cs_km005_9dc690bc:
 
     # km "So I just... go in like this?"
-    km "所以我就…… 像这样吗？"
+    km "所以我就...像这样吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:448
 translate chinese sm1cs_km005_d2288bee:
@@ -896,7 +896,7 @@ translate chinese sm1cs_km005_40e1d83c:
 translate chinese sm1cs_km005_ad0a7c10:
 
     # km "Thank you. So... what do I do next?"
-    km "谢谢夸奖。那…… 接下来我该做什么？"
+    km "谢谢夸奖。那...接下来我该做什么？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:460
 translate chinese sm1cs_km005_46689616:
@@ -920,7 +920,7 @@ translate chinese sm1cs_km005_fd7e7e18:
 translate chinese sm1cs_km005_1c479c35:
 
     # km "Mrmmm...{w} Just tell me what I should be doing so we can be done."
-    km "嗯……{w}赶紧告诉我该怎么做，咱们赶紧结束这事。"
+    km "嗯...{w}赶紧告诉我该怎么做，咱们赶紧结束这事。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:472
 translate chinese sm1cs_km005_9a4f9346:
@@ -932,7 +932,7 @@ translate chinese sm1cs_km005_9a4f9346:
 translate chinese sm1cs_km005_35b08d2d:
 
     # km "And your...{w} cock is the meat."
-    km "然后你的……{w}老二就是夹在中间的肉。"
+    km "然后你的...{w}老二就是夹在中间的肉。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:478
 translate chinese sm1cs_km005_b180829a:
@@ -1004,7 +1004,7 @@ translate chinese sm1cs_km005_f7fbdf47:
 translate chinese sm1cs_km005_bfb4b22a:
 
     # mc "Uhmmm. We haven't done one."
-    mc "呃…… 我们没做过这个。"
+    mc "呃...我们没做过这个。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:504
 translate chinese sm1cs_km005_43ed5197:
@@ -1304,45 +1304,45 @@ translate chinese sm1cs_km005_424183e9:
 translate chinese sm1cs_km005_8443cf23:
 
     # mct "There has to be a way that I can fix things between Kellie and Veronica."
-    mct "There has to be a way that I can fix things between Kellie and Veronica."
+    mct "我肯定能想到办法，修复凯莉和维罗妮卡之间的关系。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:653
 translate chinese sm1cs_km005_e3b8507e:
 
     # mct "Or at least, a way for me to get them back to normal."
-    mct "Or at least, a way for me to get them back to normal."
+    mct "就算不能修复，至少也能让她们回到以前那种状态。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:657
 translate chinese sm1cs_km005_88c4e3f7:
 
     # mct "Well, I certainly didn't think Kellie would change her mind about Veronica in this direction."
-    mct "Well, I certainly didn't think Kellie would change her mind about Veronica in this direction."
+    mct "不过我真的没料到，凯莉对维罗妮卡的想法会往这个方向发展。"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:658
 translate chinese sm1cs_km005_156b5666:
 
     # mct "What if this has been the case the whole time?"
-    mct "What if this has been the case the whole time?"
+    mct "万一一直以来都是这种情况呢？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:661
 translate chinese sm1cs_km005_f5a19c9b:
 
     # mct "Was she jealous of Veronica, or was she just wanting to get Veronica's attention and she didn't know what to do?"
-    mct "Was she jealous of Veronica, or was she just wanting to get Veronica's attention and she didn't know what to do?"
+    mct "她以前到底是在嫉妒维罗妮卡，还是只是想引起维罗妮卡的注意，却不知道该怎么做呢？"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:662
 translate chinese sm1cs_km005_fe17183d:
 
     # mct "Well, I guess the only thing to do is to tell Veronica about this new development."
-    mct "Well, I guess the only thing to do is to tell Veronica about this new development."
+    mct "嗯，我想现在唯一能做的，就是把这个新进展告诉维罗妮卡。"
 
 translate chinese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
     old "Why did you do that?"
-    new "Why did you do that?"
+    new "你为什么要那么做？"
 
     # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
     old "That was good. But now we've got a little mess to clean up."
-    new "That was good. But now we've got a little mess to clean up."
+    new "刚才确实很爽。不过现在咱们得清理一下这个小麻烦了。"
 
