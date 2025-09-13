@@ -1,4 +1,3 @@
-
 translate turkish strings:
 
     # game/code/scenes/theatre/tl/sm1cs-tl008i_rep.rpy:40
