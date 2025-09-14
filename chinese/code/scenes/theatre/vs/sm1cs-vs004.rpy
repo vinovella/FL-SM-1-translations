@@ -428,7 +428,7 @@ translate chinese sm1cs_vs004_after_choice_4aedbb48:
 translate chinese sm1cs_vs004_after_choice_d36f5733:
 
     # vs "I know, but... at least now, I can try to help her out."
-    vs "我知道，但…… 至少现在，我可以试着帮她一把。"
+    vs "我知道，但...至少现在，我可以试着帮她一把。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:232
 translate chinese sm1cs_vs004_after_choice_8f1b99b3:
@@ -470,291 +470,291 @@ translate chinese sm1cs_vs004_after_choice_8b066857:
 translate chinese sm1cs_vs004_after_choice_1967ad43:
 
     # vs "Oh, I'm such a terrible person."
-    vs "Oh, I'm such a terrible person."
+    vs "哎，我这人真是差劲。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:250
 translate chinese sm1cs_vs004_after_choice_9ae02168:
 
     # mc "I could ask her."
-    mc "I could ask her."
+    mc "我可以去问问她。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:253
 translate chinese sm1cs_vs004_after_choice_59d679d1:
 
     # vs "Yeah?"
-    vs "Yeah?"
+    vs "真的吗？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:256
 translate chinese sm1cs_vs004_after_choice_5ae17365:
 
     # mc "Yeah, if she is avoiding you, it might be the best shot."
-    mc "Yeah, if she is avoiding you, it might be the best shot."
+    mc "是啊，如果她是在躲着你，我去问她可能是最好的办法了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:257
 translate chinese sm1cs_vs004_after_choice_f8994a52:
 
     # mc "I can let her know that you want to hang out."
-    mc "I can let her know that you want to hang out."
+    mc "我可以让她知道你想和她一起玩。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:260
 translate chinese sm1cs_vs004_after_choice_f094d9c6:
 
     # mc "Mmmmmm."
-    mc "Mmmmmm."
+    mc "嗯..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:261
 translate chinese sm1cs_vs004_after_choice_4e752cef:
 
     # mc "How about this?"
-    mc "How about this?"
+    mc "这样怎么样？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:262
 translate chinese sm1cs_vs004_after_choice_2e3dbdb2:
 
     # mc "I convince her that Denise wants you and her to work together to create a new acting workshop for the theater."
-    mc "I convince her that Denise wants you and her to work together to create a new acting workshop for the theater."
+    mc "我去跟凯莉说，丹妮丝想让你和她一起合作，给剧团策划一个新的表演工作坊。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:265
 translate chinese sm1cs_vs004_after_choice_ae7429eb:
 
     # mc "If she thinks it's from Denise, she'll agree to it for sure. And it will get you two in the same room."
-    mc "If she thinks it's from Denise, she'll agree to it for sure. And it will get you two in the same room."
+    mc "要是她以为这是丹妮丝的意思，肯定会答应的。这样就能让你们俩待在同一个房间里了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:266
 translate chinese sm1cs_vs004_after_choice_cef1db4f:
 
     # mc "And maybe you can describe your style to her and who knows..."
-    mc "And maybe you can describe your style to her and who knows..."
+    mc "到时候你可以跟她讲讲你的表演风格，说不定..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:267
 translate chinese sm1cs_vs004_after_choice_dc2203f1:
 
     # mc "Maybe she tries some of your tips and tricks and is better prepared for the next audition."
-    mc "Maybe she tries some of your tips and tricks and is better prepared for the next audition."
+    mc "说不定她会试试你分享的那些技巧，这样下次试镜的时候就能准备得更充分了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:271
 translate chinese sm1cs_vs004_after_choice_c2f58021:
 
     # vs "That's a great idea."
-    vs "That's a great idea."
+    vs "这主意不错。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:272
 translate chinese sm1cs_vs004_after_choice_e0dda50a:
 
     # vs "But how are you going to get Denise to ask Kellie and I to do a workshop."
-    vs "But how are you going to get Denise to ask Kellie and I to do a workshop."
+    vs "可你要怎么让丹妮丝真的安排我和凯莉一起办工作坊啊？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:275
 translate chinese sm1cs_vs004_after_choice_33fd35a9:
 
     # mc "No uh..."
-    mc "No uh..."
+    mc "不是..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:276
 translate chinese sm1cs_vs004_after_choice_d780e101:
 
     # mc "Denise isn't actually going to ask you two to work together. But I'm going to convince Kellie that she is."
-    mc "Denise isn't actually going to ask you two to work together. But I'm going to convince Kellie that she is."
+    mc "丹尼斯实际上并不会要求你们俩一起工作。但我会想办法让凯莉相信丹妮丝有这个安排。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:279
 translate chinese sm1cs_vs004_after_choice_411636cf:
 
     # vs "Oooooh."
-    vs "Oooooh."
+    vs "原来是这样。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:280
 translate chinese sm1cs_vs004_after_choice_e3f86ad3:
 
     # vs "So you have an idea of how to get Denise to help us out."
-    vs "So you have an idea of how to get Denise to help us out."
+    vs "所以你已经想好怎么让丹妮丝帮我们了是吧。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:283
 translate chinese sm1cs_vs004_after_choice_29df6d24:
 
     # mc "No, it's-"
-    mc "No, it's-"
+    mc "不是，这事儿--"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:284
 translate chinese sm1cs_vs004_after_choice_05f7ac11:
 
     # mc "Nevermind. Just... leave it to me."
-    mc "Nevermind. Just... leave it to me."
+    mc "算了。你就...交给我来处理吧。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:287
 translate chinese sm1cs_vs004_after_choice_7ea45d72:
 
     # vs "Great. And if this plan doesn't work..."
-    vs "Great. And if this plan doesn't work..."
+    vs "太好了。那要是这个计划没成功..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:288
 translate chinese sm1cs_vs004_after_choice_cf3b502e:
 
     # vs "I can always just sabotage myself before the audition so that Denise would have to be crazy to pick me."
-    vs "I can always just sabotage myself before the audition so that Denise would have to be crazy to pick me."
+    vs "我大不了就在试镜前故意搞砸摆烂，那样丹妮丝要是还选我，就太没道理了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:291
 translate chinese sm1cs_vs004_after_choice_6e5eebc0:
 
     # mc "Let's save that in your pocket. Kellie will probably get more embarrassed if she sees you tanking an audition on purpose."
-    mc "Let's save that in your pocket. Kellie will probably get more embarrassed if she sees you tanking an audition on purpose."
+    mc "这招先留着吧。要是凯莉看到你故意搞砸试镜，说不定会更尴尬。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:294
 translate chinese sm1cs_vs004_after_choice_78e7708e:
 
     # vs "Good thinking, [mcname]. You really are sharp."
-    vs "Good thinking, [mcname]. You really are sharp."
+    vs "[mcname]，你想得真周到。你可真机灵。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:298
 translate chinese sm1cs_vs004_after_choice_d0ee9e95:
 
     # vs "Okay. We've got a plan."
-    vs "Okay. We've got a plan."
+    vs "好啦。咱们的计划就这么定了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:301
 translate chinese sm1cs_vs004_after_choice_28f877cd:
 
     # vs "Look out Kellie. We're going to be best friends in no time."
-    vs "Look out Kellie. We're going to be best friends in no time."
+    vs "凯莉，你等着。用不了多久咱们就能成好朋友了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:304
 translate chinese sm1cs_vs004_after_choice_77da1aa4:
 
     # mc "Try not to get too excited. It might not work out."
-    mc "Try not to get too excited. It might not work out."
+    mc "别太兴奋了。这计划说不定也不管用。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:307
 translate chinese sm1cs_vs004_after_choice_bdcf1a5d:
 
     # vs "I can't help it. Life is always better when you're excited and perky."
-    vs "I can't help it. Life is always better when you're excited and perky."
+    vs "我控制不住嘛。人只要兴奋起来、生气勃勃，生活就会变得更美好。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:308
 translate chinese sm1cs_vs004_after_choice_c048d67e:
 
     # vs "And perky things are the best things."
-    vs "And perky things are the best things."
+    vs "生气勃勃的东西都是最棒的。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:309
 translate chinese sm1cs_vs004_after_choice_9c1e4bd3:
 
     # vs "Perky music, perky boobs, perky butts. Free perks."
-    vs "Perky music, perky boobs, perky butts. Free perks."
+    vs "欢快的音乐，挺翘的胸，紧致的屁股。还有那些免费的福利。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:317
 translate chinese sm1cs_vs004_after_choice_19486607:
 
     # vs "*whispers* Perky things in guy's pants. Wouldn't you agree?"
-    vs "*whispers* Perky things in guy's pants. Wouldn't you agree?"
+    vs "*压低声音* 还有男生裤子里那生气勃勃的家伙。你同意吧？"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:321
 translate chinese sm1cs_vs004_after_choice_6b32b28f:
 
     # mc "I suppose you're right about that."
-    mc "I suppose you're right about that."
+    mc "我想你说得对。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:328
 translate chinese sm1cs_vs004_after_choice_ff6fd84a:
 
     # vs "Mwhaah."
-    vs "Mwhaah."
+    vs "唔哈哈。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:331
 translate chinese sm1cs_vs004_after_choice_c14c4f68:
 
     # vs "You're a great guy, [mcname]."
-    vs "You're a great guy, [mcname]."
+    vs "你真的很棒，[mcname]。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:332
 translate chinese sm1cs_vs004_after_choice_46d9270f:
 
     # vs "I really wish the Blitz Alert turned on right now."
-    vs "I really wish the Blitz Alert turned on right now."
+    vs "我真希望‘突发狂欢’现在就能触发。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:339
 translate chinese sm1cs_vs004_after_choice_599622e7:
 
     # vs "Woah tiger. Someone is ready to pounce."
-    vs "Woah tiger. Someone is ready to pounce."
+    vs "哇哦，你这热情也太足了，跟要扑上来似的。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:342
 translate chinese sm1cs_vs004_after_choice_ebafc16b:
 
     # vs "*giggles* I try not to tease, but I will say this."
-    vs "*giggles* I try not to tease, but I will say this."
+    vs "*咯咯笑* 我尽量不逗你，但我可以跟你说一件事。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:343
 translate chinese sm1cs_vs004_after_choice_7fee8ef0:
 
     # vs "When my phone does go off, I'll figure out something really special for us to do."
-    vs "When my phone does go off, I'll figure out something really special for us to do."
+    vs "等我手机真的响了，我会想个特别有意思的事，咱们一起做。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:346
 translate chinese sm1cs_vs004_after_choice_91ac882a:
 
     # mc "Looking forward to it, Veronica."
-    mc "Looking forward to it, Veronica."
+    mc "那我就期待了，维罗妮卡。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:349
 translate chinese sm1cs_vs004_after_choice_cdc18f74:
 
     # vs "Mmhmm. I should get going. My math teacher says if I fail my next exam, I will have to take the class over for some reason."
-    vs "Mmhmm. I should get going. My math teacher says if I fail my next exam, I will have to take the class over for some reason."
+    vs "嗯哼。我得走了。我的数学老师说，要是我下次考试再不及格，我就得莫名其妙地重修这门课了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:350
 translate chinese sm1cs_vs004_after_choice_2967d61f:
 
     # vs "I keep telling him when I get successful, I'll just hire an accountant to handle my money."
-    vs "I keep telling him when I get successful, I'll just hire an accountant to handle my money."
+    vs "我一直跟他说，等我以后成功了，直接雇个会计帮我管钱就行了。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:353
 translate chinese sm1cs_vs004_after_choice_207ccb99:
 
     # vs "Later, [mcname]."
-    vs "Later, [mcname]."
+    vs "[mcname]，回头见。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:356
 translate chinese sm1cs_vs004_after_choice_818892cf:
 
     # mc "Bye Veronica."
-    mc "Bye Veronica."
+    mc "维罗妮卡，再见。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:360
 translate chinese sm1cs_vs004_after_choice_bba1cb55:
 
     # mct "Alright. Now, just to figure out how to sell this to Kellie."
-    mct "Alright. Now, just to figure out how to sell this to Kellie."
+    mct "好了。现在只需要想办法让凯莉相信这个说法了。"
 
 translate chinese strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:28
     old "Check in on Blitz Alert"
-    new "Check in on Blitz Alert"
+    new "查看‘突发狂欢’情况"
 
     # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:28
     old "Focus on Kellie"
-    new "Focus on Kellie"
+    new "把注意力放在凯莉身上"
 
     # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:87
     old "Aren't we in a relationship?"
-    new "Aren't we in a relationship?"
+    new "咱们这不算在谈恋爱吗？"
 
     # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:87
     old "I don't think that is it"
-    new "I don't think that is it"
+    new "我觉得不是因为这个"
 
     # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:150
     old "Hope for something more"
-    new "Hope for something more"
+    new "希望能有更进一步的发展"
 
     # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:150
     old "It's good that we cleared that up"
-    new "It's good that we cleared that up"
+    new "还好咱们把这事说开了"
 
     # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:208
     old "That sounds like a major headache"
-    new "That sounds like a major headache"
+    new "这听起来也太让人头疼了"
 
     # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:208
     old "It's good that you want to fix things with Kellie"
-    new "It's good that you want to fix things with Kellie"
+    new "你愿意主动修复和凯莉的关系，挺好的"
 
