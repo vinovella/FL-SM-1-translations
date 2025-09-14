@@ -8,7 +8,7 @@ translate chinese sm1cs_tl002_25e8e476:
 translate chinese sm1cs_tl002_88d10eca:
 
     # "Worker" "We just opened!"
-    "工作人员" "我们刚开业！"
+    "店员" "我们刚开业！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:21
 translate chinese sm1cs_tl002_f9fc7303:
@@ -20,7 +20,7 @@ translate chinese sm1cs_tl002_f9fc7303:
 translate chinese sm1cs_tl002_7963fdb5:
 
     # "Worker" "I'm sorry! I didn't mean to scare you!"
-    "工作人员" "真对不起！我不是故意要吓到你的！"
+    "店员" "真对不起！我不是故意要吓到你的！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:26
 translate chinese sm1cs_tl002_833a73e2:
@@ -62,7 +62,7 @@ translate chinese sm1cs_tl002_4ee6c4bb:
 translate chinese sm1cs_tl002_ba0cc9b1:
 
     # "Worker" "Let me know if you need anything!"
-    "工作人员" "如果你们需要什么就告诉我！"
+    "店员" "如果你们需要什么就告诉我！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:49
 translate chinese sm1cs_tl002_0910c569:
@@ -452,7 +452,7 @@ translate chinese sm1cs_tl002_a8067dd9:
 translate chinese sm1cs_tl002_882d9cf9:
 
     # "Worker" "We do! Would you like to try that outfit on?"
-    "工作人员" "有的！你想试穿那件衣服吗？"
+    "店员" "有的！你想试穿那件衣服吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:207
 translate chinese sm1cs_tl002_1088cde2:
@@ -464,7 +464,7 @@ translate chinese sm1cs_tl002_1088cde2:
 translate chinese sm1cs_tl002_1ed5ccc8:
 
     # "Worker" "Right this way."
-    "工作人员" "这边请。"
+    "店员" "这边请。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:216
 translate chinese sm1cs_tl002_2fa0d64b:
@@ -638,7 +638,7 @@ translate chinese sm1cs_tl002_worker_88ebbf02:
 translate chinese sm1cs_tl002_worker_63882ad0:
 
     # "Worker" "Hey! You can't do that in here! At least, not until you've paid for the outfit!"
-    "工作人员" "嘿！你们在这儿可不能这样！至少，在你们买下这套衣服之前都不行！"
+    "店员" "嘿！你们在这儿可不能这样！至少，在你们买下这套衣服之前都不行！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:311
 translate chinese sm1cs_tl002_worker_9d2f0b59:
@@ -662,7 +662,7 @@ translate chinese sm1cs_tl002_worker_ea29e112:
 translate chinese sm1cs_tl002_worker_0bb41cea:
 
     # "Worker" "Okay, that's going to be $50."
-    "Worker" "好的，一共50美元。"
+    "店员" "好的，一共50美元。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:324
 translate chinese sm1cs_tl002_worker_9c5de379:
@@ -680,7 +680,7 @@ translate chinese sm1cs_tl002_worker_c3f89c23:
 translate chinese sm1cs_tl002_worker_b415620e:
 
     # "Worker" "Great! Let me get this wrapped up for you."
-    "工作人员" "太棒了！我给你包起来。"
+    "店员" "太棒了！我给你包起来。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:337
 translate chinese sm1cs_tl002_worker_e8e463fe:
