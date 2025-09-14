@@ -10,17 +10,17 @@
 
     # game/code/classes/chat_controller.rpy:218
     old "Send video"
-    new "Send video"
+    new "Video senden"
 
     # game/code/classes/chat_controller.rpy:218
     old "Sent a video."
-    new "Sent a video."
+    new "Ein Video gesendet."
 
     # game/code/classes/chat_controller.rpy:220
     old "Send photo"
-    new "Send photo"
+    new "Foto senden"
 
     # game/code/classes/chat_controller.rpy:220
     old "Sent a photo."
-    new "Sent a photo."
+    new "Ein Foto gesendet."
 
