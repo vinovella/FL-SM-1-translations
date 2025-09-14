@@ -2,201 +2,201 @@
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Invite Stacy to Amusement Park during the day"
-    new "Invite Stacy to Amusement Park during the day"
+    new "Lade Stacy tagsüber in den Vergnügungspark ein"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Stacy during day timeslot to interview Taisia"
-    new "Talk to Stacy during day timeslot to interview Taisia"
+    new "Sprich tagsüber mit Stacy, um ein Interview mit Taisia ​​zu führen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Main Storyline"
-    new "Progress Main Storyline"
+    new "Fortschritt Hauptgeschichte"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Go to the Theater"
-    new "Go to the Theater"
+    new "Ins Theater gehen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Go to the Theater for audition during the Day timeslot"
-    new "Go to the Theater for audition during the Day timeslot"
+    new "Gehe tagsüber zum Vorsprechen ins Theater"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress the individual storylines for the Theater girls"
-    new "Progress the individual storylines for the Theater girls"
+    new "Die individuellen Handlungsstränge für die Theatermädchen vorantreiben"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Denise"
-    new "Talk to Denise"
+    new "Sprich mit Denise"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica and Kellie story line"
-    new "Progress Veronica and Kellie story line"
+    new "Fortschritt Veronica und Kellie Geschichte"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do Saturday show at least {}/3 times"
-    new "Do Saturday show at least {}/3 times"
+    new "Mache die Samstagsshow mindestens {}/3 Mal"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have {}/10 total Relationship Points with Theater girls"
-    new "Have {}/10 total Relationship Points with Theater girls"
+    new "Habe insgesamt {}/10 Beziehungspunkte mit den Theatermädchen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do Saturday show at least {}/3 times and have {}/10 total Relationship Points with Theater girls"
-    new "Do Saturday show at least {}/3 times and have {}/10 total Relationship Points with Theater girls"
+    new "Mache mindestens {}/3 Mal die Samstagsshow und sammle insgesamt {}/10 Beziehungspunkte mit den Theatermädchen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Read message from Denise"
-    new "Read message from Denise"
+    new "Nachricht von Denise lesen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Visit Theater at Noon"
-    new "Visit Theater at Noon"
+    new "Besuche das Theater am Mittag"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kelly at her dressing room"
-    new "Talk to Kelly at her dressing room"
+    new "Sprich mit Kelly in ihrer Garderobe"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress the Theater storyline"
-    new "Progress the Theater storyline"
+    new "Die Handlung des Theaters vorantreiben"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kellie on the stage"
-    new "Talk to Kellie on the stage"
+    new "Sprich mit Kellie auf der Bühne"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Buy the 'An Actor Prepares' book at the store"
-    new "Buy the 'An Actor Prepares' book at the store"
+    new "Kaufe das Buch -Ein Schauspieler bereitet sich vor- im Laden"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Get your Literature to 5"
-    new "Get your Literature to 5"
+    new "Bringe deine Literatur auf 5"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kellie"
-    new "Talk to Kellie"
+    new "Sprich mit Kellie"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's story"
-    new "Progress Veronica's story"
+    new "Fortschritt Veronicas Geschichte"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Text Kellie"
-    new "Text Kellie"
+    new "Schreibe Kellie"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's story line"
-    new "Progress Veronica's story line"
+    new "Fortschritt Veronicas Geschichte"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica in the afternoon"
-    new "Talk to Veronica in the afternoon"
+    new "Sprich am Nachmittag mit Veronica"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kellie in the afternoon at Theater"
-    new "Talk to Kellie in the afternoon at Theater"
+    new "Sprich am Nachmittag mit Kellie im Theater"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "This quest line is finished for this game"
-    new "This quest line is finished for this game"
+    new "Diese Questreihe ist für dieses Spiel abgeschlossen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Denise in her office"
-    new "Talk with Denise in her office"
+    new "Sprich mit Denise in ihrem Büro"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia about \"work\" during the day time"
-    new "Talk with Taisia about \"work\" during the day time"
+    new "Sprich mit Taisia über die \"Arbeit\" während des Tages"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have ${}/$50 and talk with Taisia when she is in front of the stage"
-    new "Have ${}/$50 and talk with Taisia when she is in front of the stage"
+    new "Habe ${}/$50 und sprich mit Taisia, wenn sie vor der Bühne steht"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $50 and talk with Taisia when she is in front of the stage"
-    new "Have $50 and talk with Taisia when she is in front of the stage"
+    new "Habe $50 und sprich mit Taisia, wenn sie vor der Bühne steht"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have ${}/$100 and invite Taisia to make a film"
-    new "Have ${}/$100 and invite Taisia to make a film"
+    new "Habe ${}/$100 und lade Taisia ein, einen Film zu drehen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $100 and invite Taisia to make a film"
-    new "Have $100 and invite Taisia to make a film"
+    new "Habe $100 und lade Taisia ein, einen Film zu drehen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia"
-    new "Talk with Taisia"
+    new "Sprich mit Taisia"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Wait for a message from Taisia"
-    new "Wait for a message from Taisia"
+    new "Warte auf eine Nachricht von Taisia"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Answer Taisia"
-    new "Answer Taisia"
+    new "Antworte Taisia"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Stacy about Taisia"
-    new "Talk with Stacy about Taisia"
+    new "Sprich mit Stacy über Taisia"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Message Taisia to meet her with Stacy"
-    new "Message Taisia to meet her with Stacy"
+    new "Schreibe Taisia eine Nachricht, dass sie sich mit Stacy treffen soll"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia about moving in"
-    new "Talk with Taisia about moving in"
+    new "Sprich mit Taisia über den Einzug"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia about moving in after finishing the renovations"
-    new "Talk with Taisia about moving in after finishing the renovations"
+    new "Sprich mit Taisia über den Einzug nach Abschluss der Renovierungsarbeiten"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Visit Taisia in her room in the evening"
-    new "Visit Taisia in her room in the evening"
+    new "Besuche Taisia am Abend in ihrem Zimmer"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica at the Stage"
-    new "Talk to Veronica at the Stage"
+    new "Sprich mit Veronica auf der Bühne"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica"
-    new "Talk to Veronica"
+    new "Sprich mit Veronica"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Buy the 'Stars Weekly' Magazin from the store"
-    new "Buy the 'Stars Weekly' Magazin from the store"
+    new "Kaufe das Stars Weekly Magazin im Laden"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Get your Film and TV Topic to 3"
-    new "Get your Film and TV Topic to 3"
+    new "Bringe dein Film- und Fernsehthema auf 3"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Kellie's storyline"
-    new "Progress Kellie's storyline"
+    new "Fortschritt Kellies Geschichte"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica on the Stage"
-    new "Talk to Veronica on the Stage"
+    new "Sprich mit Veronica auf der Bühne"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the rehearsal on {}"
-    new "Do the rehearsal on {}"
+    new "Mach die Probe auf {}"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Kellie's story"
-    new "Progress Kellie's story"
+    new "Fortschritt Kellie's Geschichte"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Wait for Veronica to text you"
-    new "Wait for Veronica to text you"
+    new "Warte, bis Veronica dir eine Nachricht schickt"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Text Veronica"
-    new "Text Veronica"
+    new "Schreibe Veronica"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Veronica in the afternoon"
-    new "Talk with Veronica in the afternoon"
+    new "Sprich am Nachmittag mit Veronica"
 
