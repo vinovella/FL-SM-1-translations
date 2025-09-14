@@ -32,7 +32,7 @@ translate chinese sm1cs_tl006i_0e74b587:
 translate chinese sm1cs_tl006i_eea26cf1:
 
     # sy "Oh... well, what is it?"
-    sy "哦…… 那是什么事啊？"
+    sy "哦...那是什么事啊？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006i.rpy:24
 translate chinese sm1cs_tl006i_48a03f04:
