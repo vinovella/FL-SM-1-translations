@@ -140,19 +140,19 @@ translate chinese sm1cs_tl006_continue_173afac0:
 translate chinese sm1cs_tl006_continue_496b2a1a:
 
     # tl "So... how are things?"
-    tl "话说…… 最近怎么样啊？"
+    tl "话说...最近怎么样啊？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:166
 translate chinese sm1cs_tl006_continue_07a27c38:
 
     # mc "Uhm... good? I guess?"
-    mc "呃…… 还行吧？我觉得还行。"
+    mc "呃...还行吧？我觉得还行。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:169
 translate chinese sm1cs_tl006_continue_f87fdd36:
 
     # tl "Cool... and, uhm... how is... work? Or whatever?"
-    tl "那就好…… 那，呃…… 工作怎么样？或者别的什么方面呢？"
+    tl "那就好...那，呃...工作怎么样？或者别的什么方面呢？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:172
 translate chinese sm1cs_tl006_continue_fde655d7:
@@ -338,13 +338,13 @@ translate chinese sm1cs_tl006_continue_1a7728f1:
 translate chinese sm1cs_tl006_continue_d6e3eff4:
 
     # mc "Well... we need to do a little bit of work on the studio. Including adding some stairs."
-    mc "呃…… 我们工作室还需要做点改造。其中就包括装个楼梯。"
+    mc "呃...我们工作室还需要做点改造。其中就包括装个楼梯。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:267
 translate chinese sm1cs_tl006_continue_8ba73abe:
 
     # tl "I don't know... what would the deal be? I have to pay you in sex or something?"
-    tl "我不确定…… 那具体怎么算啊？难道我要靠跟你们上床来付房租之类的吗？"
+    tl "我不确定...那具体怎么算啊？难道我要靠跟你们上床来付房租之类的吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:271
 translate chinese sm1cs_tl006_continue_34443730:
@@ -368,13 +368,13 @@ translate chinese sm1cs_tl006_continue_6bfc74d9:
 translate chinese sm1cs_tl006_continue_0f92e14d:
 
     # mc "You'll have to forgive my sister, she is... excitable."
-    mc "你得原谅我妹妹，她就是…… 太兴奋了。"
+    mc "你得原谅我妹妹，她就是...太兴奋了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:282
 translate chinese sm1cs_tl006_continue_ad0383a0:
 
     # mc "You'll have to forgive her. She is... excitable."
-    mc "你得原谅她。她就是…… 太兴奋了。"
+    mc "你得原谅她。她就是...太兴奋了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:285
 translate chinese sm1cs_tl006_continue_56d3ff98:
@@ -452,7 +452,7 @@ translate chinese sm1cs_tl006_continue_e2be6b76:
 translate chinese sm1cs_tl006_continue_f84e4202:
 
     # tl "What if... we make a wager?"
-    tl "要是…… 咱们打个赌怎么样？"
+    tl "要是...咱们打个赌怎么样？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:322
 translate chinese sm1cs_tl006_continue_c1353656:
@@ -530,7 +530,7 @@ translate chinese sm1cs_tl006_continue_32f212d3:
 translate chinese sm1cs_tl006_continue_c46bd51b:
 
     # mc "You're gambling with $[sm1cs_tl006_sy_bet_money]!"
-    mc "你这是在拿$[sm1cs_tl006_sy_bet_money]美元赌啊！"
+    mc "你这是在拿$[sm1cs_tl006_sy_bet_money]赌啊！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:359
 translate chinese sm1cs_tl006_continue_8c9ccc57:
@@ -560,7 +560,7 @@ translate chinese sm1cs_tl006_continue_a0154f2b:
 translate chinese sm1cs_tl006_continue_af6f8b9e:
 
     # mct "Shit... this isn't going to go well... is it?"
-    mct "靠…… 这事肯定要搞砸了…… 是吧？"
+    mct "靠...这事肯定要搞砸了...是吧？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:375
 translate chinese sm1cs_tl006_continue_b879915f:
@@ -704,7 +704,7 @@ translate chinese sm1cs_tl006_continue_34583c3d_2:
 translate chinese sm1cs_tl006_continue_adf0ed63:
 
     # mct "Shit... this is {b}really{/b} not going to go well."
-    mct "该死…… 这事是{b}真的{/b}要搞砸了。"
+    mct "该死...这事是{b}真的{/b}要搞砸了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:453
 translate chinese sm1cs_tl006_continue_9c77951b:
@@ -788,7 +788,7 @@ translate chinese sm1cs_tl006_continue_f7c3275a:
 translate chinese sm1cs_tl006_continue_3fdaa521:
 
     # tl "Well, well, well... looks like I won. Again."
-    tl "哟，哟，哟…… 看来又是我赢了。"
+    tl "哟，哟，哟...看来又是我赢了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:525
 translate chinese sm1cs_tl006_continue_5c2c7bcf_2:
@@ -860,7 +860,7 @@ translate chinese sm1cs_tl006_continue_e3aab9b1:
 translate chinese sm1cs_tl006_continue_70310e6c:
 
     # sy "The bartender just... left us here?"
-    sy "酒保就这么…… 把咱们留在这儿了？"
+    sy "酒保就这么...把咱们留在这儿了？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:572
 translate chinese sm1cs_tl006_continue_e147b1d5:
@@ -878,7 +878,7 @@ translate chinese sm1cs_tl006_continue_032ad202:
 translate chinese sm1cs_tl006_continue_30bb2811:
 
     # sy "So that means... we're the only ones here."
-    sy "那这么说…… 这儿就咱们几个人了？"
+    sy "那这么说...这儿就咱们几个人了？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:583
 translate chinese sm1cs_tl006_continue_3cbc44c4:
@@ -890,7 +890,7 @@ translate chinese sm1cs_tl006_continue_3cbc44c4:
 translate chinese sm1cs_tl006_continue_67100f5a:
 
     # sy "How about... we make a {i}new{/i} bet?"
-    sy "那咱们…… 打个{i}新{/i}赌怎么样？"
+    sy "那咱们...打个{i}新{/i}赌怎么样？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:588
 translate chinese sm1cs_tl006_continue_1edc3d0f:
@@ -908,7 +908,7 @@ translate chinese sm1cs_tl006_continue_535e1461:
 translate chinese sm1cs_tl006_continue_ba2808f5:
 
     # sy "Well then... I bet that I can make you cum before I cum."
-    sy "那好啊…… 我赌我能在自己高潮之前，先让你高潮。"
+    sy "那好啊...我赌我能在自己高潮之前，先让你高潮。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:595
 translate chinese sm1cs_tl006_continue_b86bf87d:
@@ -1118,7 +1118,7 @@ translate chinese sm1cs_tl006_continue_283efe94:
 translate chinese sm1cs_tl006_continue_e5f42149:
 
     # mc "Oh God... fuck yesssss..."
-    mc "哦…… 这感觉..."
+    mc "哦...这感觉..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:687
 translate chinese sm1cs_tl006_continue_ca25effe:
@@ -1148,13 +1148,13 @@ translate chinese sm1cs_tl006_continue_de2bbf3b:
 translate chinese sm1cs_tl006_continue_326bf95c:
 
     # tl "Yeah... better than good..."
-    tl "嗯…… 何止是好..."
+    tl "嗯...何止是好..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:701
 translate chinese sm1cs_tl006_continue_303dd945:
 
     # tl "I didn't know Stacy... was such a freak..."
-    tl "我真没想到史黛西…… 居然这么放得开..."
+    tl "我真没想到史黛西...居然这么放得开..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:704
 translate chinese sm1cs_tl006_continue_bff2d586:
@@ -1370,7 +1370,7 @@ translate chinese sm1cs_tl006_continue_9a857470:
 translate chinese sm1cs_tl006_continue_5891ea60:
 
     # tl "Mmmmmm, nnnngggggg ohhhhyesssss!"
-    tl "嗯…… 嗯啊…… 哦太爽了！"
+    tl "嗯...嗯啊...哦太爽了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:790
 translate chinese sm1cs_tl006_continue_e219cf6d:
@@ -1394,7 +1394,7 @@ translate chinese sm1cs_tl006_continue_b4c945fb:
 translate chinese sm1cs_tl006_continue_70914f86:
 
     # mc "Meerrggggg!"
-    mc "呃啊……"
+    mc "呃啊..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:798
 translate chinese sm1cs_tl006_continue_ae76366e:
@@ -1418,7 +1418,7 @@ translate chinese sm1cs_tl006_continue_ce62d2c5:
 translate chinese sm1cs_tl006_continue_13549abc:
 
     # tl "Fuuuuuuuuck..."
-    tl "靠……"
+    tl "靠..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:815
 translate chinese sm1cs_tl006_continue_5edf0dac:
@@ -1466,7 +1466,7 @@ translate chinese sm1cs_tl006_continue_64824860:
 translate chinese sm1cs_tl006_continue_df464f00:
 
     # tl "Well... I won't say no to that."
-    tl "嗯…… 我可没说不乐意。"
+    tl "嗯...我可没说不乐意。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:847
 translate chinese sm1cs_tl006_continue_8601ce16:
@@ -1520,605 +1520,605 @@ translate chinese sm1cs_tl006_continue_b05bd9f5:
 translate chinese sm1cs_tl006_continue_00dff17a:
 
     # sy "You like having this biiiiig dildo stretching out your ass?"
-    sy "You like having this biiiiig dildo stretching out your ass?"
+    sy "你喜欢这个大大的假阳具撑开你的屁股吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:874
 translate chinese sm1cs_tl006_continue_09e65e33:
 
     # tl "Mmmhmmmm, I do, I doooooo!"
-    tl "Mmmhmmmm, I do, I doooooo!"
+    tl "嗯哼--喜欢，我太喜欢了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:877
 translate chinese sm1cs_tl006_continue_dc531570:
 
     # sy "And do you like having [mcname]'s cock buried in your pussssssy?"
-    sy "And do you like having [mcname]'s cock buried in your pussssssy?"
+    sy "那你喜欢[mcname]的鸡巴深深地插进你的小--穴--吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:878
 translate chinese sm1cs_tl006_continue_d2c73214:
 
     # tl "Mmmhmmmm, mmmmhmmmmmm!!!"
-    tl "Mmmhmmmm, mmmmhmmmmmm!!!"
+    tl "嗯哼--嗯嗯嗯嗯!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:881
 translate chinese sm1cs_tl006_continue_5b6c854e:
 
     # mc "Gah - I fucking love it too!!!"
-    mc "Gah - I fucking love it too!!!"
+    mc "啊--我他妈的也爱死这个感觉了!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:882
 translate chinese sm1cs_tl006_continue_ecb428c1:
 
     # tl "Come on, Stacy! Put your back into it!"
-    tl "Come on, Stacy! Put your back into it!"
+    tl "史黛西，加油啊！用点力！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:884
 translate chinese sm1cs_tl006_continue_3a3b1b7d:
 
     # sy "Oh? Am I not fucking you hard enough?"
-    sy "Oh? Am I not fucking you hard enough?"
+    sy "哦？我干你的力度还不够大吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:885
 translate chinese sm1cs_tl006_continue_fd00d638:
 
     # tl "Fuck me deeeeeeeper!"
-    tl "Fuck me deeeeeeeper!"
+    tl "再--深--一点操我！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:889
 translate chinese sm1cs_tl006_continue_0a109015:
 
     # tl "Oh God, yesssssss!"
-    tl "Oh God, yesssssss!"
+    tl "哦天啊，太--爽--了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:890
 translate chinese sm1cs_tl006_continue_b14d21cc:
 
     # mc "Fuck, Taisia! If you ride my dick any harder, you'll break me!"
-    mc "Fuck, Taisia! If you ride my dick any harder, you'll break me!"
+    mc "操，泰西娅！你要是再这么用力骑我，我就要散架了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:893
 translate chinese sm1cs_tl006_continue_6ae4cc08:
 
     # tl "If you can't handle this, [mcname]-!"
-    tl "If you can't handle this, [mcname]-!"
+    tl "你要是连这点都承受不住，[mcname]--！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:894
 translate chinese sm1cs_tl006_continue_37cd972e:
 
     # tl "Oh Goooood, yessssss!"
-    tl "Oh Goooood, yessssss!"
+    tl "哦老天，太爽了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:897
 translate chinese sm1cs_tl006_continue_919aeeda:
 
     # tl "Fuuuuuck, fuck, fuck, fuck, fuuuuuuuuuuccccckkkkk!"
-    tl "Fuuuuuck, fuck, fuck, fuck, fuuuuuuuuuuccccckkkkk!"
+    tl "靠，靠，靠，靠，靠啊！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:898
 translate chinese sm1cs_tl006_continue_1123ea37:
 
     # mc "Oh God, fuck!"
-    mc "Oh God, fuck!"
+    mc "我去，操操操！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:901
 translate chinese sm1cs_tl006_continue_ccdf8bd7:
 
     # tl "I'm going to - shiiiiiiit! I'm going to cuuuuuuum!"
-    tl "I'm going to - shiiiiiiit! I'm going to cuuuuuuum!"
+    tl "我要--不行了--！啊啊啊要高--潮--了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:902
 translate chinese sm1cs_tl006_continue_39cf2953:
 
     # sy "Yes, cum! Cum, Taisia, cuuuuuuum!"
-    sy "Yes, cum! Cum, Taisia, cuuuuuuum!"
+    sy "对，来吧！泰西娅，尽情释放吧！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:903
 translate chinese sm1cs_tl006_continue_daa113a0:
 
     # tl "Oh fuuuuuuh-"
-    tl "Oh fuuuuuuh-"
+    tl "哦靠--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:910
 translate chinese sm1cs_tl006_continue_497a831b:
 
     # tl "Fuu - fuuuu - fuuuuuuuuck!"
-    tl "Fuu - fuuuu - fuuuuuuuuck!"
+    tl "啊--靠--靠啊啊啊！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:912
 translate chinese sm1cs_tl006_continue_802043fc:
 
     # sy "Mmmm, that's it."
-    sy "Mmmm, that's it."
+    sy "嗯...就是这样。
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:916
 translate chinese sm1cs_tl006_continue_780a56b9:
 
     # tl "Fuck... that was good."
-    tl "Fuck... that was good."
+    tl "靠...太爽了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:917
 translate chinese sm1cs_tl006_continue_b7dfbbd0:
 
     # tl "But... technically [mcname] helped you still..."
-    tl "But... technically [mcname] helped you still..."
+    tl "不过...严格来说，[mcname]还是帮了你..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:918
 translate chinese sm1cs_tl006_continue_424fdd17:
 
     # tl "So you haven't won the bet."
-    tl "So you haven't won the bet."
+    tl "所以这个赌约你还没赢呢。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:921
 translate chinese sm1cs_tl006_continue_afb5a47e:
 
     # sy "Good thing neither [mcname] or I have cum yet."
-    sy "Good thing neither [mcname] or I have cum yet."
+    sy "还好我和[mcname]都还没高潮呢。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:924
 translate chinese sm1cs_tl006_continue_c4d44a6b:
 
     # tl "Wait, what?"
-    tl "Wait, what?"
+    tl "等等，你说什么？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:928
 translate chinese sm1cs_tl006_continue_d7ffe5e0:
 
     # sy "I got one more round in me. How about you, [mcname]?"
-    sy "I got one more round in me. How about you, [mcname]?"
+    sy "我还能再来一轮。[mcname]，你呢？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:930
 translate chinese sm1cs_tl006_continue_2713a7c4:
 
     # mc "Oh, I could definitely go one more round."
-    mc "Oh, I could definitely go one more round."
+    mc "哦，我肯定还能再来一轮。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:931
 translate chinese sm1cs_tl006_continue_5b6c0482:
 
     # sy "Can I make a request though?"
-    sy "Can I make a request though?"
+    sy "不过我能提个要求吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:935
 translate chinese sm1cs_tl006_continue_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "当然可以。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:937
 translate chinese sm1cs_tl006_continue_31f0adef:
 
     # sy "Can you fuck me? I've gotten all worked up."
-    sy "Can you fuck me? I've gotten all worked up."
+    sy "你能操我吗？我已经被撩拨得不行了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:938
 translate chinese sm1cs_tl006_continue_45c0b70b:
 
     # mc "I think I can oblige your request."
-    mc "I think I can oblige your request."
+    mc "我想我可以满足你的请求。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:941
 translate chinese sm1cs_tl006_continue_5e301904:
 
     # tl "And what about-"
-    tl "And what about-"
+    tl "那我呢--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:945
 translate chinese sm1cs_tl006_continue_f1923d64:
 
     # tl "What-"
-    tl "What-"
+    tl "怎么--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:949
 translate chinese sm1cs_tl006_continue_66c507f2:
 
     # tl "-the fuck!"
-    tl "-the fuck!"
+    tl "--回事！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:952
 translate chinese sm1cs_tl006_continue_22084b5d:
 
     # sy "[mcname], help a gal out and slide the strap on into Taisia's ass?"
-    sy "[mcname], help a gal out and slide the strap on into Taisia's ass?"
+    sy "[mcname]，帮个忙，把这根假阴茎插进泰西娅的屁眼里好吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:954
 translate chinese sm1cs_tl006_continue_928221a2:
 
     # mc "Oh, I think I can give you a hand with that!"
-    mc "Oh, I think I can give you a hand with that!"
+    mc "哦，这事我肯定能帮上忙！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:958
 translate chinese sm1cs_tl006_continue_0579f3d9:
 
     # tl "Ohhhh Gooooooooddddd..."
-    tl "Ohhhh Gooooooooddddd..."
+    tl "哦噢噢..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:962
 translate chinese sm1cs_tl006_continue_1a581383:
 
     # tl "Fuuuuuuuccccckkkkk..."
-    tl "Fuuuuuuuccccckkkkk..."
+    tl "要死了..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:964
 translate chinese sm1cs_tl006_continue_8b3deeb9:
 
     # sy "And don't forget about little ol' me, [mcname]."
-    sy "And don't forget about little ol' me, [mcname]."
+    sy "[mcname]，可别忘了还有我呢。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:966
 translate chinese sm1cs_tl006_continue_566994f9:
 
     # mc "I could never."
-    mc "I could never."
+    mc "我永远不会忘了你。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:973
 translate chinese sm1cs_tl006_continue_38e11854:
 
     # tl "Oh Godddddd, mmmmmyeessssss!"
-    tl "Oh Godddddd, mmmmmyeessssss!"
+    tl "哦天--啊--，嗯嗯嗯--太--爽--了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:974
 translate chinese sm1cs_tl006_continue_7bb5e87b:
 
     # mc "Fuck, Stacy you are so weeetttt!"
-    mc "Fuck, Stacy you are so weeetttt!"
+    mc "操，史黛西你好湿--啊！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:977
 translate chinese sm1cs_tl006_continue_63731694:
 
     # sy "Fuck me, [mcname]! Fuck me!"
-    sy "Fuck me, [mcname]! Fuck me!"
+    sy "[mcname]，干我！快干我！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:978
 translate chinese sm1cs_tl006_continue_78bc86fe:
 
     # tl "Mmmerrrrggghhhhhh!"
-    tl "Mmmerrrrggghhhhhh!"
+    tl "嗯啊..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:981
 translate chinese sm1cs_tl006_continue_08312e85:
 
     # sy "Oh yessss! Fuuuuuuuuhhhhhck!"
-    sy "Oh yessss! Fuuuuuuuuhhhhhck!"
+    sy "哦太爽了！操死我！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:982
 translate chinese sm1cs_tl006_continue_35bf176d:
 
     # mc "Oh my God, Stacy..."
-    mc "Oh my God, Stacy..."
+    mc "哦老天，史黛西..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:985
 translate chinese sm1cs_tl006_continue_d0eef29a:
 
     # sy "Fuck me! Fuck meeeee! Yes, yes, yes, yessssss!"
-    sy "Fuck me! Fuck meeeee! Yes, yes, yes, yessssss!"
+    sy "干我！快干我！啊，啊，好爽，好舒服啊啊啊！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:986
 translate chinese sm1cs_tl006_continue_5feafded:
 
     # tl "Oh Gooood, my asss is sooooo fuullllll!"
-    tl "Oh Gooood, my asss is sooooo fuullllll!"
+    tl "哦老天，我的屁--股--好--满--啊！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:989
 translate chinese sm1cs_tl006_continue_fb9934e8:
 
     # tl "Fucccccck, Stacy!"
-    tl "Fucccccck, Stacy!"
+    tl "靠，史黛西！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:990
 translate chinese sm1cs_tl006_continue_3603c620:
 
     # mc "Fucccck - I'm, I'm getting close!"
-    mc "Fucccck - I'm, I'm getting close!"
+    mc "操--我，我快不行了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:993
 translate chinese sm1cs_tl006_continue_48c02a04:
 
     # sy "Just a little bit - just a little bit moooooore!"
-    sy "Just a little bit - just a little bit moooooore!"
+    sy "再坚持一下--就再坚持一小会儿！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:994
 translate chinese sm1cs_tl006_continue_e4804560:
 
     # tl "I feel - I feel another one-"
-    tl "I feel - I feel another one-"
+    tl "我感觉--我感觉我又要来了--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:997
 translate chinese sm1cs_tl006_continue_e1806c85:
 
     # mc "Nnnnnnnggggggghhhhhh!"
-    mc "Nnnnnnnggggggghhhhhh!"
+    mc "嗯嗯嗯--！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:998
 translate chinese sm1cs_tl006_continue_b7e1fde7:
 
     # sy "Oh my God, [mcname] - oh God!"
-    sy "Oh my God, [mcname] - oh God!"
+    sy "哦我的天，[mcname]--哦天啊！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1001
 translate chinese sm1cs_tl006_continue_65202f23:
 
     # mc "Oh, Stacy-"
-    mc "Oh, Stacy-"
+    mc "哦，史黛西--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1002
 translate chinese sm1cs_tl006_continue_855bc7f8:
 
     # tl "FuuuuuUCCCCK!"
-    tl "FuuuuuUCCCCK!"
+    tl "操--！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1005
 translate chinese sm1cs_tl006_continue_3cd8de54:
 
     # tl "I'M GOING TO - FUUUUUUCK!"
-    tl "I'M GOING TO - FUUUUUUCK!"
+    tl "我要--啊啊啊--！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1006
 translate chinese sm1cs_tl006_continue_e3c478fe:
 
     # tl "FUCK - I'M CUMMING!!!"
-    tl "FUCK - I'M CUMMING!!!"
+    tl "操操操--我要高潮了!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1009
 translate chinese sm1cs_tl006_continue_2a645a79:
 
     # sy "I'm so cloooooose!!!"
-    sy "I'm so cloooooose!!!"
+    sy "我也快--不行了!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1012
 translate chinese sm1cs_tl006_continue_80e86122:
 
     # mc "Stacy-!"
-    mc "Stacy-!"
+    mc "史黛西--！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1013
 translate chinese sm1cs_tl006_continue_bb98d72c:
 
     # sy "Oh yyyaaaaasssssss! I'm- I'm-!"
-    sy "Oh yyyaaaaasssssss! I'm- I'm-!"
+    sy "啊啊啊好舒服！我--我要--"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1016
 translate chinese sm1cs_tl006_continue_78747f46:
 
     # tl "-FUCK-!"
-    tl "-FUCK-!"
+    tl "--操--!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1019
 translate chinese sm1cs_tl006_continue_5df8f9f3:
 
     # mc "-cumming!!!"
-    mc "-cumming!!!"
+    mc "--要射了!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1023
 translate chinese sm1cs_tl006_continue_25fdd3ee:
 
     # tl "FUCKITY FUUUUCK!"
-    tl "FUCKITY FUUUUCK!"
+    tl "啊啊啊要去了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1026
 translate chinese sm1cs_tl006_continue_7d9a199c:
 
     # sy "Ohhh Goooooodddd!"
-    sy "Ohhh Goooooodddd!"
+    sy "哦噢噢老天啊！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1028
 translate chinese sm1cs_tl006_continue_38cb8147:
 
     # mc "Fuck!"
-    mc "Fuck!"
+    mc "操！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1032
 translate chinese sm1cs_tl006_continue_70be13e2:
 
     # mc "Shit!!!"
-    mc "Shit!!!"
+    mc "我靠!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1034
 translate chinese sm1cs_tl006_continue_ef9893aa:
 
     # sy "Fuck... [mcname]..."
-    sy "Fuck... [mcname]..."
+    sy "靠...[mcname]..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1039
 translate chinese sm1cs_tl006_continue_3523c9d1:
 
     # mc "Shit... sorry, Taisia..."
-    mc "Shit... sorry, Taisia..."
+    mc "该死...泰西娅，对不起..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1041
 translate chinese sm1cs_tl006_continue_a8c55fda:
 
     # tl "It's all good."
-    tl "It's all good."
+    tl "没事的。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1045
 translate chinese sm1cs_tl006_continue_503dd507:
 
     # tl "I can use a little pick me up anyway."
-    tl "I can use a little pick me up anyway."
+    tl "反正我也需要点刺激来提提神。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1053
 translate chinese sm1cs_tl006_continue_c39e1741:
 
     # tl "Well..."
-    tl "Well..."
+    tl "好吧..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1054
 translate chinese sm1cs_tl006_continue_7827a858:
 
     # tl "It looks like you won the bet..."
-    tl "It looks like you won the bet..."
+    tl "看来这场赌是你赢了..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1056
 translate chinese sm1cs_tl006_continue_39e9a1fa:
 
     # sy "Shit, I did, didn't I?"
-    sy "Shit, I did, didn't I?"
+    sy "我靠，好像还真是我赢了？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1058
 translate chinese sm1cs_tl006_continue_b8c53a6a:
 
     # mc "Thank God."
-    mc "Thank God."
+    mc "谢天谢地。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1061
 translate chinese sm1cs_tl006_continue_8ab3fb01:
 
     # tl "So when should I pack my bags?"
-    tl "So when should I pack my bags?"
+    tl "那我什么时候收拾行李搬过去啊？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1064
 translate chinese sm1cs_tl006_continue_5ef43fce_1:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "啊？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1066
 translate chinese sm1cs_tl006_continue_64620271:
 
     # tl "Did [mcname] skip the part where I'm looking for a place to live like ASAP?"
-    tl "Did [mcname] skip the part where I'm looking for a place to live like ASAP?"
+    tl "[mcname] 没跟你说我急着找地方住吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1070
 translate chinese sm1cs_tl006_continue_7730e57d:
 
     # sy "Oh... uhhhh..."
-    sy "Oh... uhhhh..."
+    sy "哦...呃..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1072
 translate chinese sm1cs_tl006_continue_9176b0f5:
 
     # sy "Well, let me make sure the room is all good for you, and, uh... we can probably have you move in pretty soon?"
-    sy "Well, let me make sure the room is all good for you, and, uh... we can probably have you move in pretty soon?"
+    sy "这样吧，我先确认一下房间有没有问题，然后，呃...应该很快就能让你搬进去了？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1074
 translate chinese sm1cs_tl006_continue_3133a377:
 
     # sy "We still have some work to do in the studio, but we can let you know when it's all done. You should be able to move in pretty quick after that."
-    sy "We still have some work to do in the studio, but we can let you know when it's all done. You should be able to move in pretty quick after that."
+    sy "我们工作室还需要做点装修，但等装修完了我们会告诉你的。之后你应该很快就能搬进来了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1076
 translate chinese sm1cs_tl006_continue_45fc0712:
 
     # tl "Sounds good to me."
-    tl "Sounds good to me."
+    tl "听起来不错。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1080
 translate chinese sm1cs_tl006_continue_a02169ed:
 
     # tl "If you'll excuse me, I need to go wash up real quick."
-    tl "If you'll excuse me, I need to go wash up real quick."
+    tl "不好意思，我得去赶紧洗个澡。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1082
 translate chinese sm1cs_tl006_continue_bf1c7fbe:
 
     # sy "Uh huh."
-    sy "Uh huh."
+    sy "嗯哼。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1086
 translate chinese sm1cs_tl006_continue_c583e05d:
 
     # sy "It looks like we've got a new roommate!"
-    sy "It looks like we've got a new roommate!"
+    sy "看来我们要有新室友了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1088
 translate chinese sm1cs_tl006_continue_2602c202:
 
     # mc "That it does."
-    mc "That it does."
+    mc "确实是这样。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1091
 translate chinese sm1cs_tl006_continue_b0ca756e:
 
     # sy "And I got to fuuuuck her!"
-    sy "And I got to fuuuuck her!"
+    sy "而且我还他妈的--操--了--她！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1093
 translate chinese sm1cs_tl006_continue_81fefdc7:
 
     # mc "That you did."
-    mc "That you did."
+    mc "确实是这样。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1097
 translate chinese sm1cs_tl006_continue_dbe20161:
 
     # sy "We need to get that room ready for her as fast as we can."
-    sy "We need to get that room ready for her as fast as we can."
+    sy "我们得尽快把那个房间收拾好给她住。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1099
 translate chinese sm1cs_tl006_continue_fca6fb03:
 
     # mc "I'll get right on that."
-    mc "I'll get right on that."
+    mc "我马上就去办。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1100
 translate chinese sm1cs_tl006_continue_87024dfe:
 
     # sy "Good."
-    sy "Good."
+    sy "好。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1103
 translate chinese sm1cs_tl006_continue_790b5c17:
 
     # mc "Oh, totally different thought - we should film a movie here."
-    mc "Oh, totally different thought - we should film a movie here."
+    mc "哦，我突然想到一件完全不相干的事--我们应该在这儿拍一部片子。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1107
 translate chinese sm1cs_tl006_continue_5ef43fce_2:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "嗯？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1109
 translate chinese sm1cs_tl006_continue_942249d1:
 
     # mc "You know, for that porn studio we run."
-    mc "You know, for that porn studio we run."
+    mc "你知道的，就是为我们运营的那个色情工作室拍。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1112
 translate chinese sm1cs_tl006_continue_b68405e9:
 
     # sy "Oh yeah! That would be sick!"
-    sy "Oh yeah! That would be sick!"
+    sy "哦对！这主意太赞了！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1113
 translate chinese sm1cs_tl006_continue_70776d73:
 
     # sy "Do you think Taisia could make that happen?"
-    sy "Do you think Taisia could make that happen?"
+    sy "你觉得泰西娅会同意吗？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1115
 translate chinese sm1cs_tl006_continue_97bfc284:
 
     # mc "We did just fuck the shit out of her here. How much different would it be if we brought a camera along?"
-    mc "We did just fuck the shit out of her here. How much different would it be if we brought a camera along?"
+    mc "我们刚才都在这儿跟她疯狂做爱了。带个摄像机来拍，又能有多大差别呢？"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1117
 translate chinese sm1cs_tl006_continue_c0757c90:
 
     # sy "Good point."
-    sy "Good point."
+    sy "说得有道理。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1120
 translate chinese sm1cs_tl006_continue_781944af:
 
     # sy "But enough work chat! I want to enjoy my post orgasm glow."
-    sy "But enough work chat! I want to enjoy my post orgasm glow."
+    sy "不过别再聊工作的事了！我想好好享受一下高潮后的愉悦感。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1124
 translate chinese sm1cs_tl006_continue_a8ee5531:
 
     # mc "I wouldn't mind that either."
-    mc "I wouldn't mind that either."
+    mc "我也挺想享受一下的。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1127
 translate chinese sm1cs_tl006_continue_d140270e:
 
     # sy "And then we should probably head home and sleep."
-    sy "And then we should probably head home and sleep."
+    sy "之后我们或许该回家睡觉了。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1129
 translate chinese sm1cs_tl006_continue_86f9bab7:
 
     # mc "Agreed."
-    mc "Agreed."
+    mc "同意。"
 
