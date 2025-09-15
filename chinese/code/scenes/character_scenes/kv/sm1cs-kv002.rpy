@@ -332,7 +332,7 @@ translate chinese sm1cs_kv002_d9d3dce9:
 translate Chinese sm1cs_kv002_01496ef0:
 
     # kv "No, but in the future you might have to. But we can skip it today."
-    kv "不用，不过以后可能会需要。今天可以先跳过。"
+    kv "现在不用，不过以后可能会需要。我们今天可以先跳过。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:173
 translate chinese sm1cs_kv002_eed5622b:
@@ -566,5 +566,5 @@ translate chinese strings:
 translate chinese sm1cs_kv002_01496ef0:
 
     # kv "No, but in the future you might have to. But we can skip it today."
-    kv "No, but in the future you might have to. But we can skip it today."
+    kv "现在不用，不过以后可能会需要。我们今天可以先跳过。"
 
