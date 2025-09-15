@@ -2,27 +2,27 @@
 
     # game/code/renpy/screens/gallery.rpy:9
     old "Replay Gallery"
-    new "Replay Gallery"
+    new "Wiederholungs Galerie"
 
     # game/code/renpy/screens/gallery.rpy:15
     old "Achievements"
-    new "Achievements"
+    new "Erfolge"
 
     # game/code/renpy/screens/gallery.rpy:22
     old "Hints on"
-    new "Hints on"
+    new "Hinweise an"
 
     # game/code/renpy/screens/gallery.rpy:22
     old "Hints off"
-    new "Hints off"
+    new "Hinweise aus"
 
     # game/code/renpy/screens/gallery.rpy:31
     old "Character Filter: [character_filter!t]"
-    new "Character Filter: [character_filter!t]"
+    new "Charakter Filter: [character_filter!t]"
 
     # game/code/renpy/screens/gallery.rpy:48
     old "Page [page]"
-    new "Page [page]"
+    new "Seite [page]"
 
     # game/code/renpy/screens/gallery.rpy:92
     old "<"
@@ -34,21 +34,21 @@
 
     # game/code/renpy/screens/gallery.rpy:109
     old "None"
-    new "None"
+    new "Keine"
 
     # game/code/renpy/screens/gallery.rpy:112
     old "Close"
-    new "Close"
+    new "Schließen"
 
     # game/code/renpy/screens/gallery.rpy:120
     old "Image [index] of [count] locked."
-    new "Image [index] of [count] locked."
+    new "Bild [index] von [count] gesperrt."
 
     # game/code/renpy/screens/gallery.rpy:141
     old "Prev"
-    new "Prev"
+    new "Zurück"
 
     # game/code/renpy/screens/gallery.rpy:142
     old "Next"
-    new "Next"
+    new "Weiter"
 
