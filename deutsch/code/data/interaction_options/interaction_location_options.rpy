@@ -2,17 +2,17 @@
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Work as a stagehand"
-    new "Work as a stagehand"
+    new "Als Bühnenarbeiter arbeiten"
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Peek on Stacy"
-    new "Peek on Stacy"
+    new "Ein Blick auf Stacy"
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Romance Lyssa"
-    new "Romance Lyssa"
+    new "Romanze mit Lyssa"
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Take Lyssa on a date"
-    new "Take Lyssa on a date"
+    new "Lyssa zu einem Date einladen"
 
