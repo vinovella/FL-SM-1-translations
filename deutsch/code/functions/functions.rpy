@@ -2,13 +2,13 @@
 
     # game/code/functions/functions.rpy:10
     old "Young"
-    new "Young"
+    new "Jung"
 
     # game/code/functions/functions.rpy:11
     old "Brown"
-    new "Brown"
+    new "Braun"
 
     # game/code/functions/functions.rpy:16
     old "Chase"
-    new "Chase"
+    new "Verfolgung"
 
