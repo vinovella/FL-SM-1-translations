@@ -6,15 +6,15 @@
 
     # game/code/data/constants/location_constants.rpy:41
     old "Upstairs"
-    new "Upstairs"
+    new "Oben"
 
     # game/code/data/constants/location_constants.rpy:46
     old "Above Kitchen"
-    new "Above Kitchen"
+    new "Über der Küche"
 
     # game/code/data/constants/location_constants.rpy:59
     old "Wurst Delivery"
-    new "Wurst Delivery"
+    new "Wurstlieferung"
 
     # game/code/data/constants/location_constants.rpy:69
     old "Orbix"
@@ -26,11 +26,11 @@
 
     # game/code/data/constants/location_constants.rpy:107
     old "71 Store"
-    new "71 Store"
+    new "71 Geschäft"
 
     # game/code/data/constants/location_constants.rpy:114
     old "Photo Dojo"
-    new "Photo Dojo"
+    new "Foto-Dojo"
 
     # game/code/data/constants/location_constants.rpy:126
     old "Theater"
@@ -42,7 +42,7 @@
 
     # game/code/data/constants/location_constants.rpy:189
     old "Lyssa's House"
-    new "Lyssa's House"
+    new "Lyssa's Haus"
 
     # game/code/data/constants/location_constants.rpy:197
     old "Guns n' Rossette's"
