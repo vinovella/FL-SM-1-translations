@@ -8,7 +8,7 @@ translate deutsch sm1cs_cs001_b054e0a7:
 translate deutsch sm1cs_cs001_ed5f451e:
 
     # mct "It looks nothing like Nora's place anymore..."
-    mct "Es sieht überhaupt nicht mehr wie Noras Wohnung aus..."
+    mct "Es sieht überhaupt nicht mehr wie Noras Laden aus..."
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:14
 translate deutsch sm1cs_cs001_9654d2fb:
