@@ -278,211 +278,211 @@ translate chinese sm1ms019_9ed85745:
 translate chinese sm1ms019_6d164eb3:
 
     # my "It looks like the kitchen is about the same?"
-    my "It looks like the kitchen is about the same?"
+    my "厨房看起来跟以前差不多？"
 
 # game/code/scenes/main_story/sm1ms019.rpy:195
 translate chinese sm1ms019_80206133:
 
     # mc "Yeah, I wasn't sure what to do with the kitchen."
-    mc "Yeah, I wasn't sure what to do with the kitchen."
+    mc "是啊，我也没想好要怎么改造厨房。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:198
 translate chinese sm1ms019_1b2007a3:
 
     # my "No, that's fine. I love your kitchen as it is."
-    my "No, that's fine. I love your kitchen as it is."
+    my "不用改，这样就很好。我就喜欢现在这个厨房的样子。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:203
 translate chinese sm1ms019_e9da86dc:
 
     # my "I see you finally got a TV!"
-    my "I see you finally got a TV!"
+    my "你们终于买电视了！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:208
 translate chinese sm1ms019_38b93139:
 
     # sy "Yeah! I couldn't handle just staring at the walls anymore."
-    sy "Yeah! I couldn't handle just staring at the walls anymore."
+    sy "对啊！我实在受不了只能盯着墙看的日子了。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:211
 translate chinese sm1ms019_fa0b940a:
 
     # my "And you could afford this?"
-    my "And you could afford this?"
+    my "你们买得起这种大件电器？"
 
 # game/code/scenes/main_story/sm1ms019.rpy:214
 translate chinese sm1ms019_8bc781b2:
 
     # mc "Well, Stacy said we were buying this so we-erm, I could watch our playbacks for editing notes."
-    mc "Well, Stacy said we were buying this so we-erm, I could watch our playbacks for editing notes."
+    mc "呃，是史黛西说我们得买这个，这样我们--呃，这样我就能看拍摄回放，方便做剪辑笔记了。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:217
 translate chinese sm1ms019_1f42d2ec:
 
     # my "Ahhh..."
-    my "Ahhh..."
+    my "原来是这样..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:221
 translate chinese sm1ms019_1c9f5d64:
 
     # my "And the fact that it's a large TV that you can watch whenever you want is a perk?"
-    my "And the fact that it's a large TV that you can watch whenever you want is a perk?"
+    my "所以你们的目的不是为了这个大屏幕，平时也能随便看电视，只是个附带好处咯？"
 
 # game/code/scenes/main_story/sm1ms019.rpy:224
 translate chinese sm1ms019_87950f23:
 
     # sy "It's incredible how easy it is to make an excuse for a tax write off."
-    sy "It's incredible how easy it is to make an excuse for a tax write off."
+    sy "为抵税找借口也太容易了吧。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:228
 translate chinese sm1ms019_71e0a508:
 
     # my "Oh, it can be anything you want if you try hard enough."
-    my "Oh, it can be anything you want if you try hard enough."
+    my "哦，只要你肯想办法，什么都能当成抵扣项。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:229
 translate chinese sm1ms019_c6ce228e:
 
     # my "It must be nice to finally be able to get upstairs!"
-    my "It must be nice to finally be able to get upstairs!"
+    my "终于能上二楼了，肯定很不错吧！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:231
 translate chinese sm1ms019_b1002515:
 
     # mc "It is. We have so much more space now! So much room for activities!"
-    mc "It is. We have so much more space now! So much room for activities!"
+    mc "那可不。现在空间大多了！能做的事也多了！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:236
 translate chinese sm1ms019_f36db1ba:
 
     # my "I see that your bed is finally off the floor!"
-    my "I see that your bed is finally off the floor!"
+    my "这下你的床终于不用放在地上了！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:239
 translate chinese sm1ms019_0b017a17:
 
     # mc "It is!"
-    mc "It is!"
+    mc "对呀！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:242
 translate chinese sm1ms019_cde2c948:
 
     # my "It might be hard to sleep on a photo backdrop though."
-    my "It might be hard to sleep on a photo backdrop though."
+    my "不过睡在摄影背景布上，可能会不太舒服吧。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:245
 translate chinese sm1ms019_867078ec:
 
     # sy "We moved it up to the second floor!"
-    sy "We moved it up to the second floor!"
+    sy "我们把床搬到二楼去了！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:248
 translate chinese sm1ms019_64fd3f73:
 
     # sy "The whole first floor is for business, and the second floor is for pleasure!"
-    sy "The whole first floor is for business, and the second floor is for pleasure!"
+    sy "整个一楼都用来办公，二楼就是用来放松享乐的！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:251
 translate chinese sm1ms019_2c52881c:
 
     # my "Pleasure?"
-    my "Pleasure?"
+    my "享乐？"
 
 # game/code/scenes/main_story/sm1ms019.rpy:254
 translate chinese sm1ms019_2b6fc3df:
 
     # mc "She's, erm, being dramatic. It's mostly just for sleeping and living and whatnot."
-    mc "She's, erm, being dramatic. It's mostly just for sleeping and living and whatnot."
+    mc "呃，她，她这是夸张说法。二楼主要就是用来睡觉、日常起居什么的。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:257
 translate chinese sm1ms019_0730c9cf:
 
     # my "Uh huh. And all of these posters of sex toys on the wall are just for the ambiance, right?"
-    my "Uh huh. And all of these posters of sex toys on the wall are just for the ambiance, right?"
+    my "嗯哼。那墙上贴的这些性玩具海报，也只是为了营造氛围，对吧？"
 
 # game/code/scenes/main_story/sm1ms019.rpy:260
 translate chinese sm1ms019_0972c153:
 
     # mc "Erm..."
-    mc "Erm..."
+    mc "呃..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:264
 translate chinese sm1ms019_5c3df96d:
 
     # my "That's what I thought."
-    my "That's what I thought."
+    my "我就知道是这样。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:265
 translate chinese sm1ms019_89e9e766:
 
     # my "But I am excited to see what the upstairs looks like!"
-    my "But I am excited to see what the upstairs looks like!"
+    my "不过我还挺想看看二楼是什么样子的！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:268
 translate chinese sm1ms019_e13a1190:
 
     # mc "Me too, it's been a mystery to me what was up there this whole time!"
-    mc "Me too, it's been a mystery to me what was up there this whole time!"
+    mc "我也是，这一路过来，我都不知道二楼到底是什么样呢！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:272
 translate chinese sm1ms019_4722855d:
 
     # my "Oh wow, is this your bed, [mcname]?"
-    my "Oh wow, is this your bed, [mcname]?"
+    my "哦哇，[mcname]，这是你的床吗？"
 
 # game/code/scenes/main_story/sm1ms019.rpy:275
 translate chinese sm1ms019_e9a28e46:
 
     # mc "Yeah!"
-    mc "Yeah!"
+    mc "对呀！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:278
 translate chinese sm1ms019_8b0238c9:
 
     # my "I don't believe it..."
-    my "I don't believe it..."
+    my "简直不敢相信..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:282
 translate chinese sm1ms019_864ee5c2:
 
     # my "You have an actual bed frame!"
-    my "You have an actual bed frame!"
+    my "你居然有个正经的床架了！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:285
 translate chinese sm1ms019_9aafe78f:
 
     # mc "Yeah, I figured I can't have people over and see my mattress on the floor."
-    mc "Yeah, I figured I can't have people over and see my mattress on the floor."
+    mc "是啊，我想着总不能让别人来的时候，老是看到我的床垫直接放地上吧。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:288
 translate chinese sm1ms019_78c97648:
 
     # my "But why on the stairs landing?"
-    my "But why on the stairs landing?"
+    my "可为什么要放在楼梯平台上啊？"
 
 # game/code/scenes/main_story/sm1ms019.rpy:292
 translate chinese sm1ms019_5bfda2a6:
 
     # sy "So [mcname] can look over his kingdom!"
-    sy "So [mcname] can look over his kingdom!"
+    sy "这样[mcname]就能俯瞰他的‘王国’啦！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:293
 translate chinese sm1ms019_16d9907e:
 
     # sy "Because everything the light touches, is a part of his kingdoooooom!"
-    sy "Because everything the light touches, is a part of his kingdoooooom!"
+    sy "因为凡是阳光照到的地方，都是他的王--国--哦！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:296
 translate chinese sm1ms019_88b3942e:
 
     # my "Hmmmm... that's one way to look at it."
-    my "Hmmmm... that's one way to look at it."
+    my "嗯…… 这么想也挺有意思的。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:299
 translate chinese sm1ms019_c5cc75fb:
 
     # mc "I mean, I do pay rent here."
-    mc "I mean, I do pay rent here."
+    mc "这自然啦，毕竟这地方的房租是我付的。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:302
 translate chinese sm1ms019_bf8c7a05:
