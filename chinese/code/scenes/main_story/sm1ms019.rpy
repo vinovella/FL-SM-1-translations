@@ -2,277 +2,277 @@
 translate chinese sm1ms019_356304bb:
 
     # my "Hello?"
-    my "Hello?"
+    my "有人吗？"
 
 # game/code/scenes/main_story/sm1ms019.rpy:36
 translate chinese sm1ms019_e49a66d7:
 
     # sy "Hey, Mom!"
-    sy "Hey, Mom!"
+    sy "嘿，妈妈！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:38
 translate chinese sm1ms019_edd08fb7:
 
     # sy "Hey, Melony!"
-    sy "Hey, Melony!"
+    sy "嘿，梅洛妮！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:43
 translate chinese sm1ms019_519a2820:
 
     # my "Hey, you two!"
-    my "Hey, you two!"
+    my "你们俩好啊！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:46
 translate chinese sm1ms019_784315de:
 
     # my "The studio is really coming along!"
-    my "The studio is really coming along!"
+    my "工作室这边进度真的好快！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:49
 translate chinese sm1ms019_5223baf4:
 
     # mc "Yeah! I think we're just putting the finishing touches on the studio now!"
-    mc "Yeah! I think we're just putting the finishing touches on the studio now!"
+    mc "是啊！我觉得我们现在就差给工作室做最后的收尾了！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:52
 translate chinese sm1ms019_e8d2eeb4:
 
     # my "Perfect! Then let me do the same with the painting!"
-    my "Perfect! Then let me do the same with the painting!"
+    my "太好了！那我也赶紧把这幅画的最后部分完成！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:72
 translate chinese sm1ms019_2e0897cd:
 
     # sy "[mcname]...{w} are we...?"
-    sy "[mcname]...{w} are we...?"
+    sy "[mcname]...{w}我们…… 是不是弄完了？"
 
 # game/code/scenes/main_story/sm1ms019.rpy:75
 translate chinese sm1ms019_3d9d5cbe:
 
     # mc "I think so. I think that's it."
-    mc "I think so. I think that's it."
+    mc "我觉得是。应该都弄好了。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:78
 translate chinese sm1ms019_eb4ccdbc:
 
     # sy "Oh my God!"
-    sy "Oh my God!"
+    sy "哇塞，我去我去！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:82
 translate chinese sm1ms019_0d3c4730:
 
     # sy "We did it!"
-    sy "We did it!"
+    sy "我们做到了！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:85
 translate chinese sm1ms019_d31cc6da:
 
     # mc "We did! We renovated the studio!"
-    mc "We did! We renovated the studio!"
+    mc "我们真的做到了！我们把工作室翻新完了！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:89
 translate chinese sm1ms019_065b3a2d:
 
     # mc "Let's go see how Mom's painting is coming along."
-    mc "Let's go see how Mom's painting is coming along."
+    mc "咱们去看看妈妈的画进展得怎么样了吧。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:91
 translate chinese sm1ms019_3333cec5:
 
     # mc "Let's go see how Melony's painting is coming along."
-    mc "Let's go see how Melony's painting is coming along."
+    mc "咱们去看看梅洛妮的画进展得怎么样了吧。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:102
 translate chinese sm1ms019_06631ea4:
 
     # sy "Oh, wow..."
-    sy "Oh, wow..."
+    sy "哦，哇..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:106
 translate chinese sm1ms019_1d093fed:
 
     # mc "This is incredible, Mom!"
-    mc "This is incredible, Mom!"
+    mc "妈妈，这幅画也太厉害了吧！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:108
 translate chinese sm1ms019_4bee0ef9:
 
     # mc "This is incredible, Melony!"
-    mc "This is incredible, Melony!"
+    mc "梅洛妮，这幅画也太厉害了吧！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:111
 translate chinese sm1ms019_e87b1453:
 
     # my "Mmmm..."
-    my "Mmmm..."
+    my "嗯..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:114
 translate chinese sm1ms019_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "怎么了？"
 
 # game/code/scenes/main_story/sm1ms019.rpy:117
 translate chinese sm1ms019_e0db9667:
 
     # my "I don't think it's my best work."
-    my "I don't think it's my best work."
+    my "我觉得这不是我画得最好的作品。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:120
 translate chinese sm1ms019_87825cc2:
 
     # sy "Are you freaking kidding me! This is incredible!"
-    sy "Are you freaking kidding me! This is incredible!"
+    sy "你在开玩笑吧！这已经非常棒了啊！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:123
 translate chinese sm1ms019_219260b3:
 
     # sy "It looks {i}just{/i} like me!"
-    sy "It looks {i}just{/i} like me!"
+    sy "看起来{i}简直{/i}和我一模一样！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:126
 translate chinese sm1ms019_b5b0c143:
 
     # mc "It really does. I mean, I don't know why you put the diamond in there, though..."
-    mc "It really does. I mean, I don't know why you put the diamond in there, though..."
+    mc "真的特别像。不过我有点搞不懂，你为什么要把钻石放在那里..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:129
 translate chinese sm1ms019_6e51a8f1:
 
     # sy "Well, because weeee-"
-    sy "Well, because weeee-"
+    sy "哎呀，因为我们--"
 
 # game/code/scenes/main_story/sm1ms019.rpy:132
 translate chinese sm1ms019_66953528:
 
     # sy "Weeeellllllllll - you are building the studio on the ashes of Fetish Locator. I don't know, it felt important."
-    sy "Weeeellllllllll - you are building the studio on the ashes of Fetish Locator. I don't know, it felt important."
+    sy "其实是因为--你这个工作室，是在性趣探测器的基础上建起来的。我也说不上来，就是觉得这一点很重要。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:133
 translate chinese sm1ms019_ccd57733:
 
     # sy "It's important to know where you came from, and never forget that."
-    sy "It's important to know where you came from, and never forget that."
+    sy "知道自己从哪里来很重要，永远不要忘记这一点。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:134
 translate chinese sm1ms019_15d48c46:
 
     # sy "Because if you don't know where you've been you'll never know where you're going."
-    sy "Because if you don't know where you've been you'll never know where you're going."
+    sy "因为如果你不知道自己走过哪些路，就永远不知道该往哪里走。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:137
 translate chinese sm1ms019_bef79272:
 
     # mc "Wow, Stacy..."
-    mc "Wow, Stacy..."
+    mc "哇，史黛西..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:140
 translate chinese sm1ms019_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "怎么了？"
 
 # game/code/scenes/main_story/sm1ms019.rpy:143
 translate chinese sm1ms019_3a67ccd1:
 
     # my "That's just... surprisingly insightful, Stacy."
-    my "That's just... surprisingly insightful, Stacy."
+    my "史黛西，你这番话…… 真的好有见地，真没想到。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:146
 translate chinese sm1ms019_a1c3834c:
 
     # sy "Hey! I have my moments!"
-    sy "Hey! I have my moments!"
+    sy "嘿！我也有靠谱的时候好不好！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:149
 translate chinese sm1ms019_bd9472dc:
 
     # my "I know, Stacy."
-    my "I know, Stacy."
+    my "我知道，史黛西。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:150
 translate chinese sm1ms019_c6b34962:
 
     # my "That's why I agreed to paint the picture of you."
-    my "That's why I agreed to paint the picture of you."
+    my "所以我才答应给你画这幅肖像啊。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:153
 translate chinese sm1ms019_827e7ab4:
 
     # my "Because, even though you both get into a shocking amount of trouble..."
-    my "Because, even though you both get into a shocking amount of trouble..."
+    my "因为虽然你们俩总是惹出一大堆麻烦..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:156
 translate chinese sm1ms019_100f7be8:
 
     # my "When you two are together, you manage to keep each other... well, you manage to help each other out of trouble."
-    my "When you two are together, you manage to keep each other... well, you manage to help each other out of trouble."
+    my "但只要你们俩在一起，就总能互相照应…… 嗯，总能帮对方摆脱麻烦。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:159
 translate chinese sm1ms019_98c46765:
 
     # my "But enough of my sentimentality! I've been so preoccupied with the painting, I've missed how everything else has gone!"
-    my "But enough of my sentimentality! I've been so preoccupied with the painting, I've missed how everything else has gone!"
+    my "好了，不说这些感性的话了！我一直忙着画这幅画，都没顾上看其他地方弄成什么样了！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:160
 translate chinese sm1ms019_74f85333:
 
     # my "Give me the tour!"
-    my "Give me the tour!"
+    my "带我参观一下吧！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:163
 translate chinese sm1ms019_17a146e8:
 
     # mc "Uhm, yeah! Let's see - so you've seen the painting..."
-    mc "Uhm, yeah! Let's see - so you've seen the painting..."
+    mc "呃，好啊！我们去看--你已经见过这幅画了..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:166
 translate chinese sm1ms019_8cc04dca:
 
     # my "Very cute, [mcname]."
-    my "Very cute, [mcname]."
+    my "很可爱嘛，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:171
 translate chinese sm1ms019_307cb2ed:
 
     # mc "Uhm... first we have this new makeup area!"
-    mc "Uhm... first we have this new makeup area!"
+    mc "呃…… 首先是这个新弄的化妆区！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:176
 translate chinese sm1ms019_e66a7f2d:
 
     # mc "So when I have actresses come in to work, they have a place to get ready!"
-    mc "So when I have actresses come in to work, they have a place to get ready!"
+    mc "所以以后如果有女演员来这儿工作，她们就有地方收拾自己、做准备了！"
 
 # game/code/scenes/main_story/sm1ms019.rpy:179
 translate chinese sm1ms019_3f82086b:
 
     # my "Smart, you'll need that. It's always better to expect models to come in half ready and need to hurry to finish putting themselves together."
-    my "Smart, you'll need that. It's always better to expect models to come in half ready and need to hurry to finish putting themselves together."
+    my "想得真周到，这个确实需要。一般来说，模特过来的时候都只是收拾好一半的状态，这样会方便她们赶紧准备好。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:183
 translate chinese sm1ms019_6ae9b218:
 
     # sy "Mom! Seems like you know some things about the porn industry."
-    sy "Mom! Seems like you know some things about the porn industry."
+    sy "妈妈！看来你对色情行业还挺了解的嘛。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:185
 translate chinese sm1ms019_60aa2007:
 
     # sy "Melony! Seems like you know some things about the porn industry."
-    sy "Melony! Seems like you know some things about the porn industry."
+    sy "梅洛妮！看来你对色情行业还挺了解的嘛。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:188
 translate chinese sm1ms019_f40adb95:
 
     # my "Models are models. Whether in the adult industry, or the art world."
-    my "Models are models. Whether in the adult industry, or the art world."
+    my "模特就是模特。不管是在成人行业，还是在艺术圈里，都一样。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:189
 translate chinese sm1ms019_9ed85745:
 
     # my "No matter where you are, they're pretty much the same."
-    my "No matter where you are, they're pretty much the same."
+    my "不管在哪个领域，要注意的地方基本上都一个样。"
 
 # game/code/scenes/main_story/sm1ms019.rpy:192
 translate chinese sm1ms019_6d164eb3:
