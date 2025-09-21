@@ -158,5 +158,5 @@ translate deutsch q_inter_mes_6_f40d2f52:
 translate deutsch q_inter_mes_6_97110289:
 
     # mes "Well, I'm honored you chose my company as for your precious break time."
-    mes „Nun, ich fühle mich geehrt, dass du dich für meine Gesellschaft während deiner kostbaren Auszeit entschieden hast."
+    mes "Nun, ich fühle mich geehrt, dass du dich für meine Gesellschaft während deiner kostbaren Auszeit entschieden hast."
 

@@ -26,7 +26,7 @@ translate deutsch q_inter_ic_2_e178d2d4:
 translate deutsch q_inter_ic_3_001a61f4:
 
     # ic "If you're looking for condoms, we're out. Sorry."
-    ic "Wenn du Kondome suchst, wir haben keine mehr. Tut mir leid.
+    ic "Wenn du Kondome suchst, wir haben keine mehr. Tut mir leid."
 
 # game/code/data/quick_interactions/l71_shop/q-inter-ic.rpy:35
 translate deutsch q_inter_ic_3_21688d96:

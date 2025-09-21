@@ -86,7 +86,7 @@ translate chinese sm1cs_cs001_c74c1883:
 translate chinese sm1cs_cs001_fc1b3fb8:
 
     # cs "Oh yeah? Like what?"
-    cs "哦？是吗？比如呢？
+    cs "哦？是吗？比如呢？"
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:50
 translate chinese sm1cs_cs001_d439de47:

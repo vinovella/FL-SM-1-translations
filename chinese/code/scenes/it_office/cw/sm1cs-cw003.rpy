@@ -308,7 +308,7 @@ translate chinese sm1cs_cw003_continue_568c4b0d:
 translate chinese sm1cs_cw003_continue_ae320cdf:
 
     # mc "Agreed. Besides, I'm usually the one doing the spanking."
-    mc "放心。再说了，平时一般都是我动手打别人的屁股。
+    mc "放心。再说了，平时一般都是我动手打别人的屁股。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:184
 translate chinese sm1cs_cw003_continue_dadf6b4d:
