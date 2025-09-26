@@ -1,26 +1,3 @@
-﻿# game/code/scenes/main_story/sm1ms026i.rpy:7
-translate deutsch sm1ms026i_2faef0f8:
-
-    # sy "Yes?"
-    sy "Yes?"
-
-# game/code/scenes/main_story/sm1ms026i.rpy:9
-translate deutsch sm1ms026i_c09dac6f:
-
-    # mc "All right, what do we need to do to start making our first movie?"
-    mc "All right, what do we need to do to start making our first movie?"
-
-# game/code/scenes/main_story/sm1ms026i.rpy:13
-translate deutsch sm1ms026i_7d568254:
-
-    # sy "Yay! It's happening!"
-    sy "Yay! It's happening!"
-
-# game/code/scenes/main_story/sm1ms026i.rpy:14
-translate deutsch sm1ms026i_d3093dfe:
-
-    # sy "Let's go talk on the couch!"
-    sy "Let's go talk on the couch!"
 
 # game/code/scenes/main_story/sm1ms026i.rpy:18
 translate deutsch sm1ms026i_ae34085a:
