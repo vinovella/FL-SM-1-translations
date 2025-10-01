@@ -358,18 +358,6 @@ translate turkish sm1cs_km003_2_after_montage_777f7ffd:
     # km "Definitely."
     km "Kesinlikle."
 
-# game/code/scenes/theatre/km/sm1cs-km003-2.rpy:216
-translate turkish sm1cs_km003_2_after_montage_93b424a7:
-
-    # km "Maybe I was wrong about you. Denise made the right call to promote you to an actor."
-    km "Belki de senin hakkında yanılmışım. Denise seni oyunculuğa terfi ettirerek doğru kararı vermiş."
-
-# game/code/scenes/theatre/km/sm1cs-km003-2.rpy:218
-translate turkish sm1cs_km003_2_after_montage_d6471bfb:
-
-    # mc "I hope. But it's not like she's been the one helping me out, Kellie."
-    mc "Umarım. Ama bana yardım eden o değildi, Kellie."
-
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:222
 translate turkish sm1cs_km003_2_after_montage_54ac7efd:
 

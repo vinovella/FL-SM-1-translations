@@ -40,12 +40,6 @@ translate chinese sm1cs_km001i_4629c687:
     # mc "I don't want to just be a stagehand my whole time here."
     mc "我不想在这儿一直只当一个舞台助手。"
 
-# game/code/scenes/theatre/km/sm1cs-km001i.rpy:18
-translate chinese sm1cs_km001i_dde3d804:
-
-    # mc "Just because I got a part doesn't mean I don't want to hone my skills a bit."
-    mc "虽然我得到了一个角色，但这并不意味着我不想提升一下自己的演技。"
-
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:22
 translate chinese sm1cs_km001i_6d319b2b:
 

@@ -40,12 +40,6 @@ translate turkish sm1cs_km001i_4629c687:
     # mc "I don't want to just be a stagehand my whole time here."
     mc "Burada geçirdiğim süre boyunca sadece bir sahne görevlisi olmak istemiyorum."
 
-# game/code/scenes/theatre/km/sm1cs-km001i.rpy:18
-translate turkish sm1cs_km001i_dde3d804:
-
-    # mc "Just because I got a part doesn't mean I don't want to hone my skills a bit."
-    mc "Bir rol aldım diye yeteneklerimi biraz geliştirmek istemediğim anlamına gelmiyor."
-
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:22
 translate turkish sm1cs_km001i_6d319b2b:
 

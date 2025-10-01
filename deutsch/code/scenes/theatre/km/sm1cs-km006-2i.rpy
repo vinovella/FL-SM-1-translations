@@ -46,18 +46,6 @@ translate deutsch sm1cs_km006_2i_2bb12c20:
     # mc "I wanted to see if we could practice again."
     mc "I wanted to see if we could practice again."
 
-# game/code/scenes/theatre/km/sm1cs-km006-2i.rpy:23
-translate deutsch sm1cs_km006_2i_023a1767:
-
-    # mc "Gotta be ready for the next time I'm on stage with you."
-    mc "Gotta be ready for the next time I'm on stage with you."
-
-# game/code/scenes/theatre/km/sm1cs-km006-2i.rpy:27
-translate deutsch sm1cs_km006_2i_97a68b6b:
-
-    # km "Mmmm. It's good to see you taking the initiative, [mcname]."
-    km "Mmmm. It's good to see you taking the initiative, [mcname]."
-
 # game/code/scenes/theatre/km/sm1cs-km006-2i.rpy:29
 translate deutsch sm1cs_km006_2i_add4f23a:
 

@@ -160,24 +160,6 @@ translate turkish sm1cs_vs_renovation_122cb1b1:
     # vs "You'll get there one day. I know it."
     vs "Bir gün oraya varacaksın. Biliyorum."
 
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:100
-translate turkish sm1cs_vs_renovation_96813130:
-
-    # mc "I'll leave the rule-breaking to you."
-    mc "Kuralları çiğnemeyi sana bırakıyorum."
-
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:101
-translate turkish sm1cs_vs_renovation_42f43ef8:
-
-    # mc "Now that I'm with the cast, I don't want to give Denise the excuse to bump me down."
-    mc "Artık kadroda olduğuma göre, Denise'e beni alt etme bahanesi vermek istemiyorum."
-
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:104
-translate turkish sm1cs_vs_renovation_488f2825:
-
-    # vs "I guess that's the smart thing to do."
-    vs "Sanırım yapılacak en akıllıca şey bu."
-
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:107
 translate turkish sm1cs_vs_renovation_436202ca:
 

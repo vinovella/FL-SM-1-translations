@@ -88,12 +88,6 @@ translate turkish sm1cs_vs002i_6feebd2a:
     # vs "You'll never succeed if you just come here to work backstage."
     vs "Sadece sahne arkasında çalışmak için buraya gelirseniz asla başarılı olamazsınız."
 
-# game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:50
-translate turkish sm1cs_vs002i_9c58430e:
-
-    # vs "You'll never succeed if all you do is just come in and rehearse."
-    vs "Sadece gelip prova yaparsanız asla başarılı olamazsınız."
-
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:52
 translate turkish sm1cs_vs002i_0df2df12:
 

@@ -40,36 +40,6 @@ translate turkish sm1ms018_fb68a9b8:
     # sy "But it's only a matter of time, right."
     sy "Ama bu sadece zaman meselesi, değil mi?"
 
-# game/code/scenes/main_story/sm1ms018.rpy:48
-translate turkish sm1ms018_d57be4c2:
-
-    # mc "Haha. I'm sure you'll get the chance soon."
-    mc "Haha. Eminim yakında fırsatın olacak."
-
-# game/code/scenes/main_story/sm1ms018.rpy:49
-translate turkish sm1ms018_d65d18f6:
-
-    # mc "Right now, we're still waiting to hear what kind of show Denise wants to run."
-    mc "Şu anda Denise'in nasıl bir şov yapmak istediğini duymayı bekliyoruz."
-
-# game/code/scenes/main_story/sm1ms018.rpy:53
-translate turkish sm1ms018_0cba7108:
-
-    # mc "Haha. It should be."
-    mc "Haha. Öyle olmalı."
-
-# game/code/scenes/main_story/sm1ms018.rpy:54
-translate turkish sm1ms018_d3ba32df:
-
-    # mc "Denise has figured out what she wants to do for the next show."
-    mc "Denise bir sonraki şovda ne yapmak istediğine karar verdi."
-
-# game/code/scenes/main_story/sm1ms018.rpy:57
-translate turkish sm1ms018_79a80940:
-
-    # mc "It's a little strange but it should be fun."
-    mc "Biraz garip ama eğlenceli olmalı."
-
 # game/code/scenes/main_story/sm1ms018.rpy:60
 translate turkish sm1ms018_8ab6c7dc:
 
@@ -315,36 +285,6 @@ translate turkish sm1ms018_backstage_2c297a31:
 
     # tl "This is [mcname]'s domain. He works here with Bruce, our stage director."
     tl "Bu [mcname]'in alan adıdır. Burada sahne yönetmenimiz Bruce ile birlikte çalışıyor."
-
-# game/code/scenes/main_story/sm1ms018.rpy:191
-translate turkish sm1ms018_backstage_31cb9fc7:
-
-    # tl "This was where we kept [mcname] when he first started out."
-    tl "[mcname] ilk başladığında onu burada tutuyorduk."
-
-# game/code/scenes/main_story/sm1ms018.rpy:192
-translate turkish sm1ms018_backstage_e94b1c55:
-
-    # tl "He would work with Bruce, our stage director."
-    tl "Sahne yönetmenimiz Bruce ile çalışırdı."
-
-# game/code/scenes/main_story/sm1ms018.rpy:195
-translate turkish sm1ms018_backstage_0bd32909:
-
-    # tl "But now he's doing lines with the rest of us."
-    tl "Ama şimdi bizimle birlikte repliklerini söylüyor."
-
-# game/code/scenes/main_story/sm1ms018.rpy:198
-translate turkish sm1ms018_backstage_942e0699:
-
-    # sy "So his acting has improved."
-    sy "Yani oyunculuğu gelişmiş."
-
-# game/code/scenes/main_story/sm1ms018.rpy:201
-translate turkish sm1ms018_backstage_286f96ab:
-
-    # tl "Yup."
-    tl "Evet."
 
 # game/code/scenes/main_story/sm1ms018.rpy:204
 translate turkish sm1ms018_backstage_cdbb5c97:
@@ -600,18 +540,6 @@ translate turkish sm1ms018_backstage_9f04d8d8:
 
 # game/code/scenes/main_story/sm1ms018.rpy:324
 translate turkish sm1ms018_backstage_16ac9447:
-
-    # my "Glad to hear it."
-    my "Bunu duyduğuma sevindim."
-
-# game/code/scenes/main_story/sm1ms018.rpy:326
-translate turkish sm1ms018_backstage_f8cd556c:
-
-    # mc "The money could be a little better, but once the new show starts, I think things will improve."
-    mc "Para biraz daha iyi olabilirdi ama yeni dizi başlayınca her şeyin düzeleceğini düşünüyorum."
-
-# game/code/scenes/main_story/sm1ms018.rpy:329
-translate turkish sm1ms018_backstage_16ac9447_1:
 
     # my "Glad to hear it."
     my "Bunu duyduğuma sevindim."

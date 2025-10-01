@@ -130,24 +130,6 @@ translate turkish sm1cs_vs003_6944ae74:
     # vs "That's the spirit."
     vs "İşte ruh bu."
 
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:111
-translate turkish sm1cs_vs003_bec46c13:
-
-    # mc "I finally got a spot with the acting crew, but I'm still eager to hone my craft."
-    mc "Sonunda oyunculuk ekibinde bir yer edindim ama hâlâ yeteneğimi geliştirmek için istekliyim."
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:114
-translate turkish sm1cs_vs003_c1880ca3:
-
-    # vs "Totally. Work hard enough, and maybe you'll be half as good as me one day."
-    vs "Kesinlikle. Yeterince sıkı çalışırsan, belki bir gün benim yarım kadar iyi olabilirsin."
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:117
-translate turkish sm1cs_vs003_bfaa867e:
-
-    # mc "Haha. Right..."
-    mc "Haha. Doğru..."
-
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:120
 translate turkish sm1cs_vs003_dc4e595b:
 
@@ -532,24 +514,6 @@ translate turkish sm1cs_vs003_part2_61fb5431:
     # vs "Y-yeah. And you've been a good... student."
     vs "E-evet. Ve sen iyi bir... öğrencisin."
 
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:351
-translate turkish sm1cs_vs003_part2_33e7e342:
-
-    # tl "Keep improving and you'll be breaking a leg in no time."
-    tl "Gelişmeye devam edin, kısa sürede bacağınızı kıracaksınız."
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:352
-translate turkish sm1cs_vs003_part2_56eb95b4:
-
-    # tl "Maybe on the new show."
-    tl "Belki yeni şovda."
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:355
-translate turkish sm1cs_vs003_part2_7feb1e06:
-
-    # mc "One can dream."
-    mc "İnsan hayal kurabilir."
-
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:357
 translate turkish sm1cs_vs003_part2_f65d865b:
 
@@ -561,30 +525,6 @@ translate turkish sm1cs_vs003_part2_2a330754:
 
     # mc "That would be pretty cool."
     mc "Bu çok hoş olurdu."
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:363
-translate turkish sm1cs_vs003_part2_5db9660c:
-
-    # tl "Maybe once Denise shows us what the new show is, you'll get to audition."
-    tl "Belki Denise bize yeni gösterinin ne olduğunu gösterdiğinde, seçmelere katılırsın."
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:366
-translate turkish sm1cs_vs003_part2_bc00b03d:
-
-    # kw "Uh oh. Sounds like I need to watch my back."
-    kw "Uh oh. Sanırım arkamı kollamam gerekiyor."
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:367
-translate turkish sm1cs_vs003_part2_dabfc1ff:
-
-    # kw "Just messing with you. I'll only care about doing the lead role if our Dutch Mistress comes up with something spectacular."
-    kw "Sadece seninle dalga geçiyorum. Sadece Hollandalı Hanımımız muhteşem bir şey ortaya koyarsa başrolü üstlenmekle ilgileneceğim."
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:370
-translate turkish sm1cs_vs003_part2_a49ed4f8:
-
-    # mc "Okay."
-    mc "Tamam."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:372
 translate turkish sm1cs_vs003_part2_03b7405a:
@@ -1617,12 +1557,6 @@ translate turkish sm1cs_vs003_part3_2603ac1d:
 
     # mct "And I'd hate for something to change between us."
     mct "Ve aramızdaki bir şeyin değişmesinden nefret ederim."
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:879
-translate turkish sm1cs_vs003_part3_a34f16ee:
-
-    # mct "Plus, I'm probably goign to still need acting tips to make sure I stay in the acting crew."
-    mct "Ayrıca, oyunculuk ekibinde kalabilmek için muhtemelen oyunculuk ipuçlarına ihtiyacım olacak."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:881
 translate turkish sm1cs_vs003_part3_0cc62bb0:

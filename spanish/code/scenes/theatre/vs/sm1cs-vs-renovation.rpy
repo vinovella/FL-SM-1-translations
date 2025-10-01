@@ -160,24 +160,6 @@ translate spanish sm1cs_vs_renovation_122cb1b1:
     # vs "You'll get there one day. I know it."
     vs "Algún día lo conseguirás. Lo sé."
 
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:100
-translate spanish sm1cs_vs_renovation_96813130:
-
-    # mc "I'll leave the rule-breaking to you."
-    mc "Dejaré que seas tú quien rompa las reglas."
-
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:101
-translate spanish sm1cs_vs_renovation_42f43ef8:
-
-    # mc "Now that I'm with the cast, I don't want to give Denise the excuse to bump me down."
-    mc "Ahora que estoy con el reparto, no quiero darle a Denise la excusa para echarme."
-
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:104
-translate spanish sm1cs_vs_renovation_488f2825:
-
-    # vs "I guess that's the smart thing to do."
-    vs "Supongo que eso es inteligente."
-
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:107
 translate spanish sm1cs_vs_renovation_436202ca:
 

@@ -40,36 +40,6 @@ translate chinese sm1ms018_fb68a9b8:
     # sy "But it's only a matter of time, right."
     sy "但这只是时间问题，对吧。"
 
-# game/code/scenes/main_story/sm1ms018.rpy:48
-translate chinese sm1ms018_d57be4c2:
-
-    # mc "Haha. I'm sure you'll get the chance soon."
-    mc "哈哈。我相信你很快就会有机会的。"
-
-# game/code/scenes/main_story/sm1ms018.rpy:49
-translate chinese sm1ms018_d65d18f6:
-
-    # mc "Right now, we're still waiting to hear what kind of show Denise wants to run."
-    mc "现在，我们还在等丹尼丝想办什么样的节目。"
-
-# game/code/scenes/main_story/sm1ms018.rpy:53
-translate chinese sm1ms018_0cba7108:
-
-    # mc "Haha. It should be."
-    mc "哈哈。应该是这样的。"
-
-# game/code/scenes/main_story/sm1ms018.rpy:54
-translate chinese sm1ms018_d3ba32df:
-
-    # mc "Denise has figured out what she wants to do for the next show."
-    mc "丹尼丝已经想好了下一个节目要做什么。"
-
-# game/code/scenes/main_story/sm1ms018.rpy:57
-translate chinese sm1ms018_79a80940:
-
-    # mc "It's a little strange but it should be fun."
-    mc "有点奇怪，但应该会很有趣。"
-
 # game/code/scenes/main_story/sm1ms018.rpy:60
 translate chinese sm1ms018_8ab6c7dc:
 
@@ -315,36 +285,6 @@ translate chinese sm1ms018_backstage_2c297a31:
 
     # tl "This is [mcname]'s domain. He works here with Bruce, our stage director."
     tl "这里是[mcname]的地盘。他和我们的舞台导演布鲁斯在这里工作。"
-
-# game/code/scenes/main_story/sm1ms018.rpy:191
-translate chinese sm1ms018_backstage_31cb9fc7:
-
-    # tl "This was where we kept [mcname] when he first started out."
-    tl "[mcname]刚开始在这儿干的时候，就是在这个地方工作的。"
-
-# game/code/scenes/main_story/sm1ms018.rpy:192
-translate chinese sm1ms018_backstage_e94b1c55:
-
-    # tl "He would work with Bruce, our stage director."
-    tl "他会和我们的舞台导演布鲁斯一起共事。"
-
-# game/code/scenes/main_story/sm1ms018.rpy:195
-translate chinese sm1ms018_backstage_0bd32909:
-
-    # tl "But now he's doing lines with the rest of us."
-    tl "但现在他和我们一起对台词了。"
-
-# game/code/scenes/main_story/sm1ms018.rpy:198
-translate chinese sm1ms018_backstage_942e0699:
-
-    # sy "So his acting has improved."
-    sy "所以他的演技进步了。"
-
-# game/code/scenes/main_story/sm1ms018.rpy:201
-translate chinese sm1ms018_backstage_286f96ab:
-
-    # tl "Yup."
-    tl "是的。"
 
 # game/code/scenes/main_story/sm1ms018.rpy:204
 translate chinese sm1ms018_backstage_cdbb5c97:
@@ -603,18 +543,6 @@ translate chinese sm1ms018_backstage_16ac9447:
 
     # my "Glad to hear it."
     my "很高兴听到你这么说。"
-
-# game/code/scenes/main_story/sm1ms018.rpy:326
-translate chinese sm1ms018_backstage_f8cd556c:
-
-    # mc "The money could be a little better, but once the new show starts, I think things will improve."
-    mc "钱可以再多一点，但一旦新剧开拍，我想情况会有所改善。"
-
-# game/code/scenes/main_story/sm1ms018.rpy:329
-translate chinese sm1ms018_backstage_16ac9447_1:
-
-    # my "Glad to hear it."
-    my "你这么说我很欣慰。"
 
 # game/code/scenes/main_story/sm1ms018.rpy:333
 translate chinese sm1ms018_backstage_f81693b4:

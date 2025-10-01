@@ -40,12 +40,6 @@ translate spanish sm1cs_km001i_4629c687:
     # mc "I don't want to just be a stagehand my whole time here."
     mc "No quiero ser sólo un tramoyista todo el tiempo que esté aquí."
 
-# game/code/scenes/theatre/km/sm1cs-km001i.rpy:18
-translate spanish sm1cs_km001i_dde3d804:
-
-    # mc "Just because I got a part doesn't mean I don't want to hone my skills a bit."
-    mc "Que me hayan dado un papel no significa que no quiera perfeccionar un poco mis habilidades."
-
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:22
 translate spanish sm1cs_km001i_6d319b2b:
 

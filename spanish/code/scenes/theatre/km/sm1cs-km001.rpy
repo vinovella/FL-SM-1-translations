@@ -148,18 +148,6 @@ translate spanish sm1cs_km001_aee0b8ec:
     # mc "Listen, I'm just trying to find steady work, and getting to be on stage sounds a hell of a lot better than bagging groceries or working the night shift at a gas station."
     mc "Escucha, solo estoy tratando de encontrar un trabajo estable, y llegar al escenario suena mucho mejor que embolsar víveres o trabajar el turno de noche en una estación de servicio."
 
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:94
-translate spanish sm1cs_km001_0fb75443:
-
-    # mc "Well she obviously sees something in me. And Denise seems to agree with her, or I wouldn't have gotten a stage role."
-    mc "Bueno, ella obviamente ve algo en mí. Y Denise parece estar de acuerdo con ella, o no habría obtenido un papel escénico."
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:97
-translate spanish sm1cs_km001_d85fbafa:
-
-    # km "People make mistakes."
-    km "La gente comete errores."
-
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:99
 translate spanish sm1cs_km001_6fad65e5:
 
@@ -207,12 +195,6 @@ translate spanish sm1cs_km001_96bad0e1:
 
     # km "You're trying to join a theater troupe, not a high-school drama class."
     km "Estás tratando de unirte a una compañía de teatro, no una clase de drama de secundaria."
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:124
-translate spanish sm1cs_km001_53b9deff:
-
-    # km "You might have passed Denises' bar. But not mine."
-    km "Puede que hayas aprobado el examen de Denises. Pero no el mío."
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:125
 translate spanish sm1cs_km001_ce55f90f:

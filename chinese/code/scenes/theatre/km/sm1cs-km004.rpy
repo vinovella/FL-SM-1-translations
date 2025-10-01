@@ -322,30 +322,6 @@ translate chinese sm1cs_km004_553da677:
     # tl "To see if this is a bannable offense, you uncivilized orge."
     tl "我得看看这事儿严重到该不该直接开除你，你这个没教养的大老粗。"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:210
-translate chinese sm1cs_km004_24f86c5d:
-
-    # tl "I'll have no problem convincing Denise to bust you back down to stagehand."
-    tl "我让丹妮丝把你降回舞台工作人员，那是轻而易举的事。"
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:211
-translate chinese sm1cs_km004_59c6721c:
-
-    # tl "And you'll be lucky enough to stay backstage after then."
-    tl "到时候你还能留在后台，就该谢天谢地了。"
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:214
-translate chinese sm1cs_km004_e8dc20a7:
-
-    # mc "Oh, come on. It's just a-"
-    mc "哦，别这样。这不过是个--"
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:217
-translate chinese sm1cs_km004_8d7697c9:
-
-    # tl "Don't even finish that sentence."
-    tl "后面的话你省省吧。"
-
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:221
 translate chinese sm1cs_km004_29844415:
 

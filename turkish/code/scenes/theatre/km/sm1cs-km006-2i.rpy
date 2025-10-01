@@ -46,18 +46,6 @@ translate turkish sm1cs_km006_2i_2bb12c20:
     # mc "I wanted to see if we could practice again."
     mc "Tekrar pratik yapıp yapamayacağımızı görmek istedim."
 
-# game/code/scenes/theatre/km/sm1cs-km006-2i.rpy:27
-translate turkish sm1cs_km006_2i_023a1767:
-
-    # mc "Gotta be ready for the next time I'm on stage with you."
-    mc "Bir dahaki sefere seninle sahnede olacağım zamana hazır olmalıyım."
-
-# game/code/scenes/theatre/km/sm1cs-km006-2i.rpy:31
-translate turkish sm1cs_km006_2i_97a68b6b:
-
-    # km "Mmmm. It's good to see you taking the initiative, [mcname]."
-    km "Mmmm. İnisiyatif aldığını görmek güzel, [mcname]."
-
 # game/code/scenes/theatre/km/sm1cs-km006-2i.rpy:33
 translate turkish sm1cs_km006_2i_add4f23a:
 

@@ -40,36 +40,6 @@ translate spanish sm1ms018_fb68a9b8:
     # sy "But it's only a matter of time, right."
     sy "Pero es solo cuestión de tiempo, verdad."
 
-# game/code/scenes/main_story/sm1ms018.rpy:48
-translate spanish sm1ms018_d57be4c2:
-
-    # mc "Haha. I'm sure you'll get the chance soon."
-    mc "Jaja. Estoy seguro de que pronto tendrás la oportunidad."
-
-# game/code/scenes/main_story/sm1ms018.rpy:49
-translate spanish sm1ms018_d65d18f6:
-
-    # mc "Right now, we're still waiting to hear what kind of show Denise wants to run."
-    mc "En este momento, seguimos a la espera de saber qué tipo de programa quiere hacer Denise."
-
-# game/code/scenes/main_story/sm1ms018.rpy:53
-translate spanish sm1ms018_0cba7108:
-
-    # mc "Haha. It should be."
-    mc "Jaja. Debería ser."
-
-# game/code/scenes/main_story/sm1ms018.rpy:54
-translate spanish sm1ms018_d3ba32df:
-
-    # mc "Denise has figured out what she wants to do for the next show."
-    mc "Denise ha pensado lo que quiere hacer para el próximo espectáculo."
-
-# game/code/scenes/main_story/sm1ms018.rpy:57
-translate spanish sm1ms018_79a80940:
-
-    # mc "It's a little strange but it should be fun."
-    mc "Es un poco extraño pero debería ser divertido."
-
 # game/code/scenes/main_story/sm1ms018.rpy:60
 translate spanish sm1ms018_8ab6c7dc:
 
@@ -315,36 +285,6 @@ translate spanish sm1ms018_backstage_2c297a31:
 
     # tl "This is [mcname]'s domain. He works here with Bruce, our stage director."
     tl "Este es el dominio de [mcname]. Trabaja aquí con Bruce, nuestro director de escenografía."
-
-# game/code/scenes/main_story/sm1ms018.rpy:191
-translate spanish sm1ms018_backstage_31cb9fc7:
-
-    # tl "This was where we kept [mcname] when he first started out."
-    tl "Aquí fue donde pusimos a [mcname] cuando empezó."
-
-# game/code/scenes/main_story/sm1ms018.rpy:192
-translate spanish sm1ms018_backstage_e94b1c55:
-
-    # tl "He would work with Bruce, our stage director."
-    tl "Trabajaba con Bruce, nuestro director de escenografía."
-
-# game/code/scenes/main_story/sm1ms018.rpy:195
-translate spanish sm1ms018_backstage_0bd32909:
-
-    # tl "But now he's doing lines with the rest of us."
-    tl "Pero ahora está haciendo los diálogos con el resto de nosotros."
-
-# game/code/scenes/main_story/sm1ms018.rpy:198
-translate spanish sm1ms018_backstage_942e0699:
-
-    # sy "So his acting has improved."
-    sy "Entonces su actuación ha mejorado."
-
-# game/code/scenes/main_story/sm1ms018.rpy:201
-translate spanish sm1ms018_backstage_286f96ab:
-
-    # tl "Yup."
-    tl "Sí."
 
 # game/code/scenes/main_story/sm1ms018.rpy:204
 translate spanish sm1ms018_backstage_cdbb5c97:
@@ -600,18 +540,6 @@ translate spanish sm1ms018_backstage_9f04d8d8:
 
 # game/code/scenes/main_story/sm1ms018.rpy:324
 translate spanish sm1ms018_backstage_16ac9447:
-
-    # my "Glad to hear it."
-    my "Me alegro de escucharlo."
-
-# game/code/scenes/main_story/sm1ms018.rpy:326
-translate spanish sm1ms018_backstage_f8cd556c:
-
-    # mc "The money could be a little better, but once the new show starts, I think things will improve."
-    mc "El dinero podría ser un poco mejor, pero cuando empiece el nuevo espectáculo, creo que las cosas mejorarán."
-
-# game/code/scenes/main_story/sm1ms018.rpy:329
-translate spanish sm1ms018_backstage_16ac9447_1:
 
     # my "Glad to hear it."
     my "Me alegro de escucharlo."

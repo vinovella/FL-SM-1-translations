@@ -160,24 +160,6 @@ translate chinese sm1cs_vs_renovation_122cb1b1:
     # vs "You'll get there one day. I know it."
     vs "你迟早会成功的。我知道。"
 
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:100
-translate chinese sm1cs_vs_renovation_96813130:
-
-    # mc "I'll leave the rule-breaking to you."
-    mc "违规的事儿就交给你了。"
-
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:101
-translate chinese sm1cs_vs_renovation_42f43ef8:
-
-    # mc "Now that I'm with the cast, I don't want to give Denise the excuse to bump me down."
-    mc "既然我好不容易进组，就不会给丹妮丝把我刷下去的理由。"
-
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:104
-translate chinese sm1cs_vs_renovation_488f2825:
-
-    # vs "I guess that's the smart thing to do."
-    vs "你倒是挺谨慎。"
-
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:107
 translate chinese sm1cs_vs_renovation_436202ca:
 

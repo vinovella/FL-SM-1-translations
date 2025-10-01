@@ -322,30 +322,6 @@ translate turkish sm1cs_km004_553da677:
     # tl "To see if this is a bannable offense, you uncivilized orge."
     tl "Bunun yasaklanabilir bir suç olup olmadığını görmek için, seni uygarlaşmamış orge."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:210
-translate turkish sm1cs_km004_24f86c5d:
-
-    # tl "I'll have no problem convincing Denise to bust you back down to stagehand."
-    tl "Denise'i seni tekrar sahne görevlisi yapmaya ikna etmekte hiç zorluk çekmeyeceğim."
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:211
-translate turkish sm1cs_km004_59c6721c:
-
-    # tl "And you'll be lucky enough to stay backstage after then."
-    tl "Ve ondan sonra sahne arkasında kalabilecek kadar şanslı olacaksın."
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:214
-translate turkish sm1cs_km004_e8dc20a7:
-
-    # mc "Oh, come on. It's just a-"
-    mc "Hadi canım. Bu sadece bir-"
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:217
-translate turkish sm1cs_km004_8d7697c9:
-
-    # tl "Don't even finish that sentence."
-    tl "O cümleyi bile bitirme."
-
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:221
 translate turkish sm1cs_km004_29844415:
 
