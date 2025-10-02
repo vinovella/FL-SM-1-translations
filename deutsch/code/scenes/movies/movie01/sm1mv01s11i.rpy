@@ -88,12 +88,6 @@ translate deutsch sm1mv01s11i_56c2db18:
     # sy "I'm going to put the movie on the shop and post a preview clip."
     sy "I'm going to put the movie on the shop and post a preview clip."
 
-# game/code/scenes/movies/movie01/sm1mv01s11i.rpy:40
-translate deutsch sm1mv01s11i_a8392dcc:
-
-    # sy "I wonder if it will make more money than the sci-fi movie."
-    sy "I wonder if it will make more money than the sci-fi movie."
-
 # game/code/scenes/movies/movie01/sm1mv01s11i.rpy:44
 translate deutsch sm1mv01s11i_57e8f589:
 
