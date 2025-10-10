@@ -6,7 +6,7 @@
 
     # game/code/renpy/screens/phone.rpy:43
     old "Renovation"
-    new "Renovation"
+    new "Renovierung"
 
     # game/code/renpy/screens/phone.rpy:48
     old "Messenger"
@@ -14,21 +14,21 @@
 
     # game/code/renpy/screens/phone.rpy:63
     old "VN Mode"
-    new "VN Mode"
+    new "VN-Modus"
 
     # game/code/renpy/screens/phone.rpy:69
     old "Quick Save"
-    new "Quick Save"
+    new "Schnellspeichern"
 
     # game/code/renpy/screens/phone.rpy:72
     old "Quick Load"
-    new "Quick Load"
+    new "Schnellladen"
 
     # game/code/renpy/screens/phone.rpy:81
     old "Load"
-    new "Load"
+    new "Laden"
 
     # game/code/renpy/screens/phone.rpy:84
     old "Settings"
-    new "Settings"
+    new "Einstellungen"
 
