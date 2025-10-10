@@ -130,24 +130,6 @@ translate chinese sm1cs_vs003_6944ae74:
     # vs "That's the spirit."
     vs "这就对了。"
 
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:111
-translate chinese sm1cs_vs003_bec46c13:
-
-    # mc "I finally got a spot with the acting crew, but I'm still eager to hone my craft."
-    mc "我终于进了演员组，但还是想打磨演技。"
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:114
-translate chinese sm1cs_vs003_c1880ca3:
-
-    # vs "Totally. Work hard enough, and maybe you'll be half as good as me one day."
-    vs "没错。努力到一定程度，说不定有天能达到我的一半水准。"
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:117
-translate chinese sm1cs_vs003_bfaa867e:
-
-    # mc "Haha. Right..."
-    mc "哈哈。也对..."
-
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:120
 translate chinese sm1cs_vs003_dc4e595b:
 
@@ -532,24 +514,6 @@ translate chinese sm1cs_vs003_part2_61fb5431:
     # vs "Y-yeah. And you've been a good... student."
     vs "是--是啊。你学得也...很快。"
 
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:351
-translate chinese sm1cs_vs003_part2_33e7e342:
-
-    # tl "Keep improving and you'll be breaking a leg in no time."
-    tl "照这个进度，很快就能登台演出了。"
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:352
-translate chinese sm1cs_vs003_part2_56eb95b4:
-
-    # tl "Maybe on the new show."
-    tl "说不定新剧就有机会。"
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:355
-translate chinese sm1cs_vs003_part2_7feb1e06:
-
-    # mc "One can dream."
-    mc "希望吧。"
-
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:357
 translate chinese sm1cs_vs003_part2_f65d865b:
 
@@ -561,30 +525,6 @@ translate chinese sm1cs_vs003_part2_2a330754:
 
     # mc "That would be pretty cool."
     mc "那可就太棒了。"
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:363
-translate chinese sm1cs_vs003_part2_5db9660c:
-
-    # tl "Maybe once Denise shows us what the new show is, you'll get to audition."
-    tl "等丹妮丝公布新剧内容，你或许能参加试镜。"
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:366
-translate chinese sm1cs_vs003_part2_bc00b03d:
-
-    # kw "Uh oh. Sounds like I need to watch my back."
-    kw "哦豁。看来我得防着点了。"
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:367
-translate chinese sm1cs_vs003_part2_dabfc1ff:
-
-    # kw "Just messing with you. I'll only care about doing the lead role if our Dutch Mistress comes up with something spectacular."
-    kw "开玩笑的。除非咱们的荷兰女爵能搞出惊世之作，否则我才懒得争主角。"
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:370
-translate chinese sm1cs_vs003_part2_a49ed4f8:
-
-    # mc "Okay."
-    mc "好吧。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:372
 translate chinese sm1cs_vs003_part2_03b7405a:
@@ -1617,12 +1557,6 @@ translate chinese sm1cs_vs003_part3_2603ac1d:
 
     # mct "And I'd hate for something to change between us."
     mct "我不想我们之间的关系变味。"
-
-# game/code/scenes/theatre/vs/sm1cs-vs003.rpy:879
-translate chinese sm1cs_vs003_part3_a34f16ee:
-
-    # mct "Plus, I'm probably goign to still need acting tips to make sure I stay in the acting crew."
-    mct "再说了，我可能还需要她的演技指导，才能留在演员组里。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:881
 translate chinese sm1cs_vs003_part3_0cc62bb0:

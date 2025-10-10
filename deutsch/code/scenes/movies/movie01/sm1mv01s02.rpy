@@ -496,12 +496,6 @@ translate deutsch sm1mv01s02_c38e581b:
     # mc "I haven't been memorizing lines and dealing with super egos for weeks to skimp on costumes."
     mc "I haven't been memorizing lines and dealing with super egos for weeks to skimp on costumes."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:266
-translate deutsch sm1mv01s02_c7b1c904:
-
-    # mc "I haven't been memorizing lines and dealing with super egos for weeks to not get good-looking costumes."
-    mc "I haven't been memorizing lines and dealing with super egos for weeks to not get good-looking costumes."
-
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:268
 translate deutsch sm1mv01s02_ec4c9d50:
 

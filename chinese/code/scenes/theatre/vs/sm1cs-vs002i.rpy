@@ -88,12 +88,6 @@ translate chinese sm1cs_vs002i_6feebd2a:
     # vs "You'll never succeed if you just come here to work backstage."
     vs "如果只满足于在后台工作，你永远成不了气候。"
 
-# game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:50
-translate chinese sm1cs_vs002i_9c58430e:
-
-    # vs "You'll never succeed if all you do is just come in and rehearse."
-    vs "如果每天只来排练，你也永远不会成功。"
-
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:52
 translate chinese sm1cs_vs002i_0df2df12:
 

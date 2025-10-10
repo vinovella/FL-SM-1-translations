@@ -88,12 +88,6 @@ translate spanish sm1cs_vs002i_6feebd2a:
     # vs "You'll never succeed if you just come here to work backstage."
     vs "Nunca tendrás éxito si sólo vienes aquí a trabajar entre bastidores."
 
-# game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:50
-translate spanish sm1cs_vs002i_9c58430e:
-
-    # vs "You'll never succeed if all you do is just come in and rehearse."
-    vs "Nunca tendrás éxito si lo único que haces es venir y ensayar."
-
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:52
 translate spanish sm1cs_vs002i_0df2df12:
 

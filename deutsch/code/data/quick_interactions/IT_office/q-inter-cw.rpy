@@ -80,7 +80,7 @@ translate deutsch q_inter_cw_4_f8ad994a:
 translate deutsch q_inter_cw_4_5b4d2caa:
 
     # cw "I went to a new restaurant last night and wasn't a fan. I've got some promo coupons I can give you if you like Cuban Russian fusion."
-    cw "Ich war gestern Abend in einem neuen Restaurant und war nicht begeistert. Ich habe ein paar Gutscheine, die ich dir geben kann, wenn du kubanisch-russische Fusion-Küche magst.
+    cw "Ich war gestern Abend in einem neuen Restaurant und war nicht begeistert. Ich habe ein paar Gutscheine, die ich dir geben kann, wenn du kubanisch-russische Fusion-Küche magst."
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:62
 translate deutsch q_inter_cw_4_78af60f8:

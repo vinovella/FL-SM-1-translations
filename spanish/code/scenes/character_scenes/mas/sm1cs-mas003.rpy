@@ -1426,12 +1426,6 @@ translate spanish sm1cs_mas003_third_delivery_c5639972:
     # ols "Damn girl. You belong on a magazine or something."
     ols "Maldita chica. Perteneces a una revista o algo así."
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
-translate spanish sm1cs_mas003_third_delivery_e6bd15b8:
-
-    # ms "Show's over ladies."
-    ms "Se terminó el espectáculo, señoritas."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:809
 translate spanish sm1cs_mas003_third_delivery_0f81d339:
 

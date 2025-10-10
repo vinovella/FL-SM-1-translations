@@ -1426,12 +1426,6 @@ translate chinese sm1cs_mas003_third_delivery_c5639972:
     # ols "Damn girl. You belong on a magazine or something."
     ols "我的天，绝色啊。你简直该上杂志什么的。"
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
-translate chinese sm1cs_mas003_third_delivery_e6bd15b8:
-
-    # ms "Show's over ladies."
-    ms "各位，表演结束了。"
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:809
 translate chinese sm1cs_mas003_third_delivery_0f81d339:
 

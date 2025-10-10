@@ -88,12 +88,6 @@ translate deutsch sm1cs_vs002i_6feebd2a:
     # vs "You'll never succeed if you just come here to work backstage."
     vs "You'll never succeed if you just come here to work backstage."
 
-# game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:50
-translate deutsch sm1cs_vs002i_9c58430e:
-
-    # vs "You'll never succeed if all you do is just come in and rehearse."
-    vs "You'll never succeed if all you do is just come in and rehearse."
-
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:52
 translate deutsch sm1cs_vs002i_0df2df12:
 

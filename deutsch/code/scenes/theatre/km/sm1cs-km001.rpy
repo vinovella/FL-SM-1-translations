@@ -148,18 +148,6 @@ translate deutsch sm1cs_km001_aee0b8ec:
     # mc "Listen, I'm just trying to find steady work, and getting to be on stage sounds a hell of a lot better than bagging groceries or working the night shift at a gas station."
     mc "Listen, I'm just trying to find steady work, and getting to be on stage sounds a hell of a lot better than bagging groceries or working the night shift at a gas station."
 
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:94
-translate deutsch sm1cs_km001_0fb75443:
-
-    # mc "Well she obviously sees something in me. And Denise seems to agree with her, or I wouldn't have gotten a stage role."
-    mc "Well she obviously sees something in me. And Denise seems to agree with her, or I wouldn't have gotten a stage role."
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:97
-translate deutsch sm1cs_km001_d85fbafa:
-
-    # km "People make mistakes."
-    km "People make mistakes."
-
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:99
 translate deutsch sm1cs_km001_6fad65e5:
 
@@ -207,12 +195,6 @@ translate deutsch sm1cs_km001_96bad0e1:
 
     # km "You're trying to join a theater troupe, not a high-school drama class."
     km "You're trying to join a theater troupe, not a high-school drama class."
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:124
-translate deutsch sm1cs_km001_53b9deff:
-
-    # km "You might have passed Denises' bar. But not mine."
-    km "You might have passed Denises' bar. But not mine."
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:125
 translate deutsch sm1cs_km001_ce55f90f:

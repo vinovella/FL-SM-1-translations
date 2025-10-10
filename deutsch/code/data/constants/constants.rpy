@@ -22,7 +22,7 @@
 
     # game/code/data/constants/constants.rpy:363
     old "Film and TV"
-    new Film und Fernsehen"
+    new "Film und Fernsehen"
 
     # game/code/data/constants/constants.rpy:364
     old "Finance"

@@ -1628,7 +1628,7 @@ translate chinese sm1cs_tl006_continue_497a831b:
 translate chinese sm1cs_tl006_continue_802043fc:
 
     # sy "Mmmm, that's it."
-    sy "嗯...就是这样。
+    sy "嗯...就是这样。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:916
 translate chinese sm1cs_tl006_continue_780a56b9:

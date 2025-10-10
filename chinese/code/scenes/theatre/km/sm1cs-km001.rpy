@@ -148,18 +148,6 @@ translate chinese sm1cs_km001_aee0b8ec:
     # mc "Listen, I'm just trying to find steady work, and getting to be on stage sounds a hell of a lot better than bagging groceries or working the night shift at a gas station."
     mc "听着，我只是想找份稳定的工作，而且能登上舞台可比装袋杂货或者在加油站上夜班听起来好多了。"
 
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:94
-translate chinese sm1cs_km001_0fb75443:
-
-    # mc "Well she obviously sees something in me. And Denise seems to agree with her, or I wouldn't have gotten a stage role."
-    mc "嗯，显然她在我身上看到了什么。而且丹妮丝似乎也认同她的看法，不然我也不会得到一个舞台角色了。"
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:97
-translate chinese sm1cs_km001_d85fbafa:
-
-    # km "People make mistakes."
-    km "人都会犯错的。"
-
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:99
 translate chinese sm1cs_km001_6fad65e5:
 
@@ -207,12 +195,6 @@ translate chinese sm1cs_km001_96bad0e1:
 
     # km "You're trying to join a theater troupe, not a high-school drama class."
     km "你想加入的是一个真正的剧团，可不是高中的戏剧社团。"
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:124
-translate chinese sm1cs_km001_53b9deff:
-
-    # km "You might have passed Denises' bar. But not mine."
-    km "你也许通过了丹妮丝的考验。但我的可还没过。"
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:125
 translate chinese sm1cs_km001_ce55f90f:

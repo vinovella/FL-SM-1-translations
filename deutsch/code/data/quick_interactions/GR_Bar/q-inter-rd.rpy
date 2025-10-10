@@ -26,7 +26,7 @@ translate deutsch q_inter_rd_2_4110bb44:
 translate deutsch q_inter_rd_2_d0b2417d:
 
     # rd "No bloodsports around my bar."
-    rd Keine blutigen Sportarten in meiner Bar."
+    rd "Keine blutigen Sportarten in meiner Bar."
 
 # game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:31
 translate deutsch q_inter_rd_2_a49ed4f8:

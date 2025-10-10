@@ -82,24 +82,6 @@ translate deutsch sm1ms026_7cc854af:
     # sy "We should also maybe figure out if we want to do anything kinky in the movies. Because everyone has their own kinks they like."
     sy "We should also maybe figure out if we want to do anything kinky in the movies. Because everyone has their own kinks they like."
 
-# game/code/scenes/main_story/sm1ms026.rpy:56
-translate deutsch sm1ms026_c8543ee5:
-
-    # mc "You've got a good point there..."
-    mc "You've got a good point there..."
-
-# game/code/scenes/main_story/sm1ms026.rpy:59
-translate deutsch sm1ms026_89b28e76:
-
-    # sy "So, which movie do you want to figure out first?"
-    sy "So, which movie do you want to figure out first?"
-
-# game/code/scenes/main_story/sm1ms026.rpy:75
-translate deutsch sm1ms026_movie_708b7006:
-
-    # mc "Let's start with pirates."
-    mc "Let's start with pirates."
-
 # game/code/scenes/main_story/sm1ms026.rpy:93
 translate deutsch sm1ms026_pirates_824173ad:
 
@@ -117,12 +99,6 @@ translate deutsch sm1ms026_pirates_902a8562:
 
     # sy "Well, I guess the first question is, how kinky do we want to be?"
     sy "Well, I guess the first question is, how kinky do we want to be?"
-
-# game/code/scenes/main_story/sm1ms026.rpy:101
-translate deutsch sm1ms026_pirates_dc8b53ef:
-
-    # mc "Well, there's already a lot of action in the movie... so maybe we don't have to get too crazy with it?"
-    mc "Well, there's already a lot of action in the movie... so maybe we don't have to get too crazy with it?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:103
 translate deutsch sm1ms026_pirates_40ad57af:
@@ -160,12 +136,6 @@ translate deutsch sm1ms026_pirates_e9c15fc9:
     # sy "That is {i}so{/i} dark, [mcname]."
     sy "That is {i}so{/i} dark, [mcname]."
 
-# game/code/scenes/main_story/sm1ms026.rpy:120
-translate deutsch sm1ms026_pirates_89cafce9:
-
-    # mc "Is it?{w} Oh wait- shit!"
-    mc "Is it?{w} Oh wait- shit!"
-
 # game/code/scenes/main_story/sm1ms026.rpy:123
 translate deutsch sm1ms026_pirates_71b60910:
 
@@ -177,12 +147,6 @@ translate deutsch sm1ms026_pirates_3c19f788:
 
     # sy "All right. Choking. Now we just need a star!"
     sy "All right. Choking. Now we just need a star!"
-
-# game/code/scenes/main_story/sm1ms026.rpy:127
-translate deutsch sm1ms026_pirates_b0e8c56a:
-
-    # mc "Yeah... who to cast in a pirate themed porno..."
-    mc "Yeah... who to cast in a pirate themed porno..."
 
 # game/code/scenes/main_story/sm1ms026.rpy:131
 translate deutsch sm1ms026_pirates_b923ef69:
@@ -394,18 +358,6 @@ translate deutsch sm1ms026_pirates_6aac05d4:
     # sy "Sounds like you need to get out there and do some talent scouting!"
     sy "Sounds like you need to get out there and do some talent scouting!"
 
-# game/code/scenes/main_story/sm1ms026.rpy:233
-translate deutsch sm1ms026_pirates_c70fc938:
-
-    # mc "Should we talk about our sci fi film?"
-    mc "Should we talk about our sci fi film?"
-
-# game/code/scenes/main_story/sm1ms026.rpy:235
-translate deutsch sm1ms026_pirates_6792ce40:
-
-    # sy "We definitely should!"
-    sy "We definitely should!"
-
 # game/code/scenes/main_story/sm1ms026.rpy:247
 translate deutsch sm1ms026_scifi_0a05eca1:
 
@@ -472,23 +424,11 @@ translate deutsch sm1ms026_scifi_a7b1207b:
     # sy "I know, I know. Okay, so intrepid space explorers. Do you think we should make this movie a little kinkier?"
     sy "I know, I know. Okay, so intrepid space explorers. Do you think we should make this movie a little kinkier?"
 
-# game/code/scenes/main_story/sm1ms026.rpy:274
-translate deutsch sm1ms026_scifi_c134f5ef:
-
-    # mc "What are you thinking?"
-    mc "What are you thinking?"
-
 # game/code/scenes/main_story/sm1ms026.rpy:277
 translate deutsch sm1ms026_scifi_a382f7c1:
 
     # sy "I don't know... maybe watersports? Watersports seems to be a thing people like."
     sy "I don't know... maybe watersports? Watersports seems to be a thing people like."
-
-# game/code/scenes/main_story/sm1ms026.rpy:279
-translate deutsch sm1ms026_scifi_2cf4c37a:
-
-    # mc "Yeah, that works for me. We can probably come up with some crazy reasons why people need to pee. Maybe it's like an alien courting ritual?"
-    mc "Yeah, that works for me. We can probably come up with some crazy reasons why people need to pee. Maybe it's like an alien courting ritual?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:282
 translate deutsch sm1ms026_scifi_bcdc9caa:
@@ -507,18 +447,6 @@ translate deutsch sm1ms026_scifi_abd126a5:
 
     # sy "You know, so they can say a bunch of science words that sound really fancy."
     sy "You know, so they can say a bunch of science words that sound really fancy."
-
-# game/code/scenes/main_story/sm1ms026.rpy:293
-translate deutsch sm1ms026_end_2c4f37d3:
-
-    # sy "All right! Casting is kind of the big thing we need to do before we start filming. So go out and get us our lead actress!"
-    sy "All right! Casting is kind of the big thing we need to do before we start filming. So go out and get us our lead actress!"
-
-# game/code/scenes/main_story/sm1ms026.rpy:297
-translate deutsch sm1ms026_end_31a81817:
-
-    # mc "On it. And you'll get everything else we need figured out?"
-    mc "On it. And you'll get everything else we need figured out?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:299
 translate deutsch sm1ms026_end_cb7a4cfb:
