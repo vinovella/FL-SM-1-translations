@@ -1640,3 +1640,9 @@ translate turkish strings:
     old "I'm starting to get worried"
     new "Endişelenmeye başlıyorum"
 
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:650
+translate turkish sm1cs_km004_stage_79692656:
+
+    # vs "What's Montague? It is nor hand nor foot."
+    vs "What's Montague? It is nor hand nor foot."
+

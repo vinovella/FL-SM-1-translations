@@ -1970,3 +1970,45 @@ translate turkish strings:
     old "Resist!"
     new "Diren!"
 
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:122
+translate turkish sm1cs_cw004_onramp_d4bfa7e3:
+
+    # mc "I will help you Claire."
+    mc "I will help you Claire."
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:123
+translate turkish sm1cs_cw004_onramp_ae9263f5:
+
+    # mc "As long as you think this is a good idea."
+    mc "As long as you think this is a good idea."
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:126
+translate turkish sm1cs_cw004_onramp_753a8f9e:
+
+    # cw "Thank you, [mcname]. I mean..."
+    cw "Thank you, [mcname]. I mean..."
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:129
+translate turkish sm1cs_cw004_onramp_add432cd:
+
+    # cw "*ahem* Mr. Young."
+    cw "*ahem* Mr. Young."
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:130
+translate turkish sm1cs_cw004_onramp_6f8832f9:
+
+    # cw "And I'm sure it will be fine. We're both capable."
+    cw "And I'm sure it will be fine. We're both capable."
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:134
+translate turkish sm1cs_cw004_onramp_14b1d440:
+
+    # cw "I will text you instructions tomorrow morning."
+    cw "I will text you instructions tomorrow morning."
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:135
+translate turkish sm1cs_cw004_onramp_2a3fe990:
+
+    # cw "And for the love of god, don't be late."
+    cw "And for the love of god, don't be late."
+

@@ -486,3 +486,433 @@ translate deutsch strings:
     old "That's enough planning for now"
     new "That's enough planning for now"
 
+# game/code/scenes/main_story/sm1ms026.rpy:55
+translate deutsch sm1ms026_62fa9484:
+
+    # mc "Sure, sure."
+    mc "Sure, sure."
+
+# game/code/scenes/main_story/sm1ms026.rpy:58
+translate deutsch sm1ms026_75938f7b:
+
+    # sy "So, which movie idea should we figure out first?"
+    sy "So, which movie idea should we figure out first?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:86
+translate deutsch sm1ms026_2_b193da73:
+
+    # sy "So, which movie do you want to figure out next?"
+    sy "So, which movie do you want to figure out next?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:92
+translate deutsch sm1ms026_2_c1de97ae:
+
+    # mc "How about the Sci-Fi movie?"
+    mc "How about the Sci-Fi movie?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:103
+translate deutsch sm1ms026_2_6fda1cf2:
+
+    # mc "Let's talk about pirates now."
+    mc "Let's talk about pirates now."
+
+# game/code/scenes/main_story/sm1ms026.rpy:119
+translate deutsch sm1ms026_movie_a835a99d:
+
+    # mc "I like pirates."
+    mc "I like pirates."
+
+# game/code/scenes/main_story/sm1ms026.rpy:126
+translate deutsch sm1ms026_movie_d1e855fe:
+
+    # mc "How about the sci fi movie?"
+    mc "How about the sci fi movie?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:145
+translate deutsch sm1ms026_pirates_cf04a5f0:
+
+    # mc "Well, we want to probably focus on action. High-seas battles and sword fights."
+    mc "Well, we want to probably focus on action. High-seas battles and sword fights."
+
+# game/code/scenes/main_story/sm1ms026.rpy:146
+translate deutsch sm1ms026_pirates_43307cda:
+
+    # mc "So the kinky stuff shouldn't be too crazy."
+    mc "So the kinky stuff shouldn't be too crazy."
+
+# game/code/scenes/main_story/sm1ms026.rpy:169
+translate deutsch sm1ms026_pirates_2b5a1db6:
+
+    # mc "Yeah... who do we know who would fit in a pirate themed porno..."
+    mc "Yeah... who do we know who would fit in a pirate themed porno..."
+
+# game/code/scenes/main_story/sm1ms026.rpy:301
+translate deutsch sm1ms026_scifi_5ab4ccd3:
+
+    # mc "Let me think."
+    mc "Let me think."
+
+# game/code/scenes/main_story/sm1ms026.rpy:309
+translate deutsch sm1ms026_scifi_e1e6d1d7:
+
+    # mc "Yeah, that works for me. We can probably come up with some crazy way to sneak it into the story. Maybe it's like an alien courting ritual?"
+    mc "Yeah, that works for me. We can probably come up with some crazy way to sneak it into the story. Maybe it's like an alien courting ritual?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:314
+translate deutsch sm1ms026_scifi_f0616e86:
+
+    # mc "I think something fun would be a lot of group scenes."
+    mc "I think something fun would be a lot of group scenes."
+
+# game/code/scenes/main_story/sm1ms026.rpy:315
+translate deutsch sm1ms026_scifi_d640ccfb:
+
+    # mc "Me as the captain hooking up with alien babes and sexy crewmembers."
+    mc "Me as the captain hooking up with alien babes and sexy crewmembers."
+
+# game/code/scenes/main_story/sm1ms026.rpy:317
+translate deutsch sm1ms026_scifi_7640c158:
+
+    # sy "Haha. What a shocking idea. However did you come up with it?"
+    sy "Haha. What a shocking idea. However did you come up with it?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:319
+translate deutsch sm1ms026_scifi_f162436d:
+
+    # mc "Don't act like you don't like it."
+    mc "Don't act like you don't like it."
+
+# game/code/scenes/main_story/sm1ms026.rpy:320
+translate deutsch sm1ms026_scifi_69ff06f6:
+
+    # sy "Hehe. I never said that."
+    sy "Hehe. I never said that."
+
+# game/code/scenes/main_story/sm1ms026.rpy:328
+translate deutsch sm1ms026_scifi_b022daa2:
+
+    # mc "Ooooh, I bet Min might be a good fit."
+    mc "Ooooh, I bet Min might be a good fit."
+
+# game/code/scenes/main_story/sm1ms026.rpy:329
+translate deutsch sm1ms026_scifi_d7d3ee77:
+
+    # mc "She's sharp and good on her feet."
+    mc "She's sharp and good on her feet."
+
+# game/code/scenes/main_story/sm1ms026.rpy:331
+translate deutsch sm1ms026_scifi_3bbcf026:
+
+    # mc "Oh man, Min would probably be great for this."
+    mc "Oh man, Min would probably be great for this."
+
+# game/code/scenes/main_story/sm1ms026.rpy:333
+translate deutsch sm1ms026_scifi_4f79867b:
+
+    # sy "Min?"
+    sy "Min?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:335
+translate deutsch sm1ms026_scifi_bc0a5736:
+
+    # mc "You remember, she was the host for the Fetish Locator Parties."
+    mc "You remember, she was the host for the Fetish Locator Parties."
+
+# game/code/scenes/main_story/sm1ms026.rpy:336
+translate deutsch sm1ms026_scifi_45902eaf:
+
+    # sy "Oh yeah. So she can play the role."
+    sy "Oh yeah. So she can play the role."
+
+# game/code/scenes/main_story/sm1ms026.rpy:337
+translate deutsch sm1ms026_scifi_faf8e4bc:
+
+    # mc "I wish. So far she hasn't really seemed open to working for the studio."
+    mc "I wish. So far she hasn't really seemed open to working for the studio."
+
+# game/code/scenes/main_story/sm1ms026.rpy:338
+translate deutsch sm1ms026_scifi_dd809da1:
+
+    # sy "Mmm. Well, maybe there is hope that she'll be open to it at some point."
+    sy "Mmm. Well, maybe there is hope that she'll be open to it at some point."
+
+# game/code/scenes/main_story/sm1ms026.rpy:340
+translate deutsch sm1ms026_scifi_3bbcf026_1:
+
+    # mc "Oh man, Min would probably be great for this."
+    mc "Oh man, Min would probably be great for this."
+
+# game/code/scenes/main_story/sm1ms026.rpy:342
+translate deutsch sm1ms026_scifi_4f79867b_1:
+
+    # sy "Min?"
+    sy "Min?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:344
+translate deutsch sm1ms026_scifi_bc0a5736_1:
+
+    # mc "You remember, she was the host for the Fetish Locator Parties."
+    mc "You remember, she was the host for the Fetish Locator Parties."
+
+# game/code/scenes/main_story/sm1ms026.rpy:345
+translate deutsch sm1ms026_scifi_25069130:
+
+    # sy "Oh yeah."
+    sy "Oh yeah."
+
+# game/code/scenes/main_story/sm1ms026.rpy:347
+translate deutsch sm1ms026_scifi_8e91fc40:
+
+    # mc "Yeah. She was smart, and she was very kinky."
+    mc "Yeah. She was smart, and she was very kinky."
+
+# game/code/scenes/main_story/sm1ms026.rpy:348
+translate deutsch sm1ms026_scifi_ffdcec3f:
+
+    # mc "I wish I knew where she was."
+    mc "I wish I knew where she was."
+
+# game/code/scenes/main_story/sm1ms026.rpy:351
+translate deutsch sm1ms026_scifi_3474c6b5:
+
+    # mc "Hah. Lyssa!"
+    mc "Hah. Lyssa!"
+
+# game/code/scenes/main_story/sm1ms026.rpy:352
+translate deutsch sm1ms026_scifi_d54f9479:
+
+    # sy "Lyssa?"
+    sy "Lyssa?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:353
+translate deutsch sm1ms026_scifi_34315b65:
+
+    # mc "Yeah. Lyssa has finally agreed to do movies with us."
+    mc "Yeah. Lyssa has finally agreed to do movies with us."
+
+# game/code/scenes/main_story/sm1ms026.rpy:354
+translate deutsch sm1ms026_scifi_3cde44bd:
+
+    # mc "She's smart as a whip. She would make a perfect science officer."
+    mc "She's smart as a whip. She would make a perfect science officer."
+
+# game/code/scenes/main_story/sm1ms026.rpy:355
+translate deutsch sm1ms026_scifi_94009c9b:
+
+    # sy "You're right. Good thinking, [mcname]."
+    sy "You're right. Good thinking, [mcname]."
+
+# game/code/scenes/main_story/sm1ms026.rpy:358
+translate deutsch sm1ms026_scifi_41bd7923:
+
+    # mc "Man. You know who would be perfect for a science officer role?"
+    mc "Man. You know who would be perfect for a science officer role?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:359
+translate deutsch sm1ms026_scifi_f116b59a:
+
+    # sy "Who?"
+    sy "Who?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:360
+translate deutsch sm1ms026_scifi_e6bc6779:
+
+    # mc "Lyssa."
+    mc "Lyssa."
+
+# game/code/scenes/main_story/sm1ms026.rpy:362
+translate deutsch sm1ms026_scifi_c0d482d4:
+
+    # sy "Totally! But she doesn't want to film right."
+    sy "Totally! But she doesn't want to film right."
+
+# game/code/scenes/main_story/sm1ms026.rpy:363
+translate deutsch sm1ms026_scifi_b1238926:
+
+    # mc "Yeah. She's been very hesitant to do more for the studio than just keep our paperwork organized."
+    mc "Yeah. She's been very hesitant to do more for the studio than just keep our paperwork organized."
+
+# game/code/scenes/main_story/sm1ms026.rpy:364
+translate deutsch sm1ms026_scifi_e654551c:
+
+    # sy "Hmmm. Maybe she'll change her mind one day."
+    sy "Hmmm. Maybe she'll change her mind one day."
+
+# game/code/scenes/main_story/sm1ms026.rpy:366
+translate deutsch sm1ms026_scifi_cf9421b5:
+
+    # mc "We will need a sexy alien too."
+    mc "We will need a sexy alien too."
+
+# game/code/scenes/main_story/sm1ms026.rpy:367
+translate deutsch sm1ms026_scifi_d706042b:
+
+    # sy "Right. Any ideas for someone to fill that slot?"
+    sy "Right. Any ideas for someone to fill that slot?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:370
+translate deutsch sm1ms026_scifi_bddfe74f:
+
+    # mc "Mmmm. No one is really coming to mind."
+    mc "Mmmm. No one is really coming to mind."
+
+# game/code/scenes/main_story/sm1ms026.rpy:371
+translate deutsch sm1ms026_scifi_42766f37:
+
+    # mc "Maybe someone from the IT office might be a good fit."
+    mc "Maybe someone from the IT office might be a good fit."
+
+# game/code/scenes/main_story/sm1ms026.rpy:373
+translate deutsch sm1ms026_scifi_13ccde2e:
+
+    # sy "Why there?"
+    sy "Why there?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:374
+translate deutsch sm1ms026_scifi_13f27fb6:
+
+    # mc "Some of them are so tightly wound, I bet they have some kinky secrets."
+    mc "Some of them are so tightly wound, I bet they have some kinky secrets."
+
+# game/code/scenes/main_story/sm1ms026.rpy:375
+translate deutsch sm1ms026_scifi_631b1f4f:
+
+    # sy "Mmm. One can hope."
+    sy "Mmm. One can hope."
+
+# game/code/scenes/main_story/sm1ms026.rpy:378
+translate deutsch sm1ms026_scifi_0dba77bc:
+
+    # mc "Mmmm. I wonder if Nari might be a good alien babe."
+    mc "Mmmm. I wonder if Nari might be a good alien babe."
+
+# game/code/scenes/main_story/sm1ms026.rpy:379
+translate deutsch sm1ms026_scifi_45c83181:
+
+    # sy "Nari from the IT Office."
+    sy "Nari from the IT Office."
+
+# game/code/scenes/main_story/sm1ms026.rpy:380
+translate deutsch sm1ms026_scifi_f800bed0:
+
+    # mc "Yes."
+    mc "Yes."
+
+# game/code/scenes/main_story/sm1ms026.rpy:382
+translate deutsch sm1ms026_scifi_239f457a:
+
+    # mc "I know she's big into anal."
+    mc "I know she's big into anal."
+
+# game/code/scenes/main_story/sm1ms026.rpy:383
+translate deutsch sm1ms026_scifi_8265401d:
+
+    # mc "So maybe she'd be into trying out porn."
+    mc "So maybe she'd be into trying out porn."
+
+# game/code/scenes/main_story/sm1ms026.rpy:385
+translate deutsch sm1ms026_scifi_0a473d5b:
+
+    # sy "Hah. Sounds like you've got some work to do."
+    sy "Hah. Sounds like you've got some work to do."
+
+# game/code/scenes/main_story/sm1ms026.rpy:386
+translate deutsch sm1ms026_scifi_cf1adef2:
+
+    # mc "Yeah."
+    mc "Yeah."
+
+# game/code/scenes/main_story/sm1ms026.rpy:389
+translate deutsch sm1ms026_scifi_da10ad37:
+
+    # mc "Oh! Nari would be a great alien babe."
+    mc "Oh! Nari would be a great alien babe."
+
+# game/code/scenes/main_story/sm1ms026.rpy:390
+translate deutsch sm1ms026_scifi_ce99f23f:
+
+    # sy "Yes, she would. She's so cute and has that like naivety vibe."
+    sy "Yes, she would. She's so cute and has that like naivety vibe."
+
+# game/code/scenes/main_story/sm1ms026.rpy:392
+translate deutsch sm1ms026_scifi_10d2a88a:
+
+    # sy "Mmmm. But do you think she's up to it?"
+    sy "Mmmm. But do you think she's up to it?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:393
+translate deutsch sm1ms026_scifi_dfd7c641:
+
+    # sy "Being kinky doesn't mean you'll be a natural at filming porn."
+    sy "Being kinky doesn't mean you'll be a natural at filming porn."
+
+# game/code/scenes/main_story/sm1ms026.rpy:395
+translate deutsch sm1ms026_scifi_5d86b175:
+
+    # mc "True, but I know that Nari likes a challenge."
+    mc "True, but I know that Nari likes a challenge."
+
+# game/code/scenes/main_story/sm1ms026.rpy:396
+translate deutsch sm1ms026_scifi_d6a7516e:
+
+    # mc "And it doesn't hurt to ask."
+    mc "And it doesn't hurt to ask."
+
+# game/code/scenes/main_story/sm1ms026.rpy:397
+translate deutsch sm1ms026_scifi_6e83cc86:
+
+    # sy "Sound like a plan."
+    sy "Sound like a plan."
+
+# game/code/scenes/main_story/sm1ms026.rpy:406
+translate deutsch sm1ms026_end_ce116a80:
+
+    # sy "All right! Now the most important thing!"
+    sy "All right! Now the most important thing!"
+
+# game/code/scenes/main_story/sm1ms026.rpy:407
+translate deutsch sm1ms026_end_11455b53:
+
+    # mc "What?"
+    mc "What?"
+
+# game/code/scenes/main_story/sm1ms026.rpy:408
+translate deutsch sm1ms026_end_76bc562e:
+
+    # sy "You have to decide on which movie we are making."
+    sy "You have to decide on which movie we are making."
+
+# game/code/scenes/main_story/sm1ms026.rpy:412
+translate deutsch sm1ms026_end_25716dc3:
+
+    # mc "Oh right. That is pretty important."
+    mc "Oh right. That is pretty important."
+
+# game/code/scenes/main_story/sm1ms026.rpy:415
+translate deutsch sm1ms026_end_73ef10e9:
+
+    # sy "Once you figure it out, come and talk to me."
+    sy "Once you figure it out, come and talk to me."
+
+translate deutsch strings:
+
+    # game/code/scenes/main_story/sm1ms026.rpy:114
+    old "A Pirates Movie"
+    new "A Pirates Movie"
+
+    # game/code/scenes/main_story/sm1ms026.rpy:114
+    old "A Sci-Fi Movie"
+    new "A Sci-Fi Movie"
+
+    # game/code/scenes/main_story/sm1ms026.rpy:114
+    old "That's all for now"
+    new "That's all for now"
+
+    # game/code/scenes/main_story/sm1ms026.rpy:302
+    old "We should do watersports"
+    new "We should do watersports"
+
+    # game/code/scenes/main_story/sm1ms026.rpy:302
+    old "No watersports"
+    new "No watersports"
+

@@ -292,3 +292,9 @@ translate spanish strings:
     old "Skipping"
     new "Saltar"
 
+translate spanish strings:
+
+    # game/code/renpy/screens/screens.rpy:513
+    old "Taboo Mode"
+    new "Taboo Mode"
+

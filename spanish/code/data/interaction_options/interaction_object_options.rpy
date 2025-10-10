@@ -48,3 +48,9 @@ translate spanish strings:
     old "Take a shower"
     new "Tomar una ducha"
 
+translate spanish strings:
+
+    # game/code/data/interaction_options/interaction_object_options.rpy:3
+    old "Check Laptop"
+    new "Check Laptop"
+

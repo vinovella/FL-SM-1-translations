@@ -48,3 +48,9 @@
     old "Take a shower"
     new "Duş al"
 
+translate turkish strings:
+
+    # game/code/data/interaction_options/interaction_object_options.rpy:3
+    old "Check Laptop"
+    new "Check Laptop"
+

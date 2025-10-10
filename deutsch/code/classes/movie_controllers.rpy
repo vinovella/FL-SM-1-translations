@@ -36,3 +36,17 @@
     old "Add {amount} to {energy_name}"
     new "Füge {amount} zu {energy_name}"
 
+translate deutsch strings:
+
+    # game/code/classes/movie_controllers.rpy:37
+    old "Movie royalty"
+    new "Movie royalty"
+
+    # game/code/classes/movie_controllers.rpy:40
+    old "{} release"
+    new "{} release"
+
+    # game/code/classes/movie_controllers.rpy:211
+    old "Sci-Fi Movie"
+    new "Sci-Fi Movie"
+

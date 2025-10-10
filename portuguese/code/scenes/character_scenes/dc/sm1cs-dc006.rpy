@@ -952,3 +952,9 @@ translate portuguese strings:
     old "Let her take the call"
     new "Let her take the call"
 
+translate portuguese strings:
+
+    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
+    old "Show no interest in Debbie"
+    new "Show no interest in Debbie"
+

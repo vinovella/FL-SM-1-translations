@@ -4,3 +4,9 @@
     old "Progress {storyline_name}"
     new "Fortschritt {storyline_name}"
 
+translate deutsch strings:
+
+    # game/code/classes/vn_mode_controller.rpy:191
+    old "Progress required storylines"
+    new "Progress required storylines"
+

@@ -396,3 +396,33 @@
     old "Meet Ridley"
     new "Triff Ridley"
 
+translate deutsch strings:
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy to choose the movie you want to film"
+    new "Talk with Stacy to choose the movie you want to film"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy to borrow laptop for editing Lyssa's video"
+    new "Talk with Stacy to borrow laptop for editing Lyssa's video"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Show the edited video to Lyssa"
+    new "Show the edited video to Lyssa"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Min in the bar"
+    new "Talk with Min in the bar"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Min to text you again"
+    new "Wait for Min to text you again"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Text Min in the Morning to help her move in"
+    new "Text Min in the Morning to help her move in"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Stacy wants to talk to you about Melony"
+    new "Stacy wants to talk to you about Melony"
+

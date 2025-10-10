@@ -106,3 +106,9 @@ translate deutsch sm1mv01s11i_8a48223e:
     # mc "Cool!"
     mc "Cool!"
 
+# game/code/scenes/movies/movie01/sm1mv01s11i.rpy:40
+translate deutsch sm1mv01s11i_a320b680:
+
+    # sy "I wonder if it will make more money than the Sci-Fi movie."
+    sy "I wonder if it will make more money than the Sci-Fi movie."
+

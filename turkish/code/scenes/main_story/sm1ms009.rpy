@@ -2804,3 +2804,15 @@ translate turkish strings:
     old "Just, give me a second and I'll be ready"
     new "Sadece bir saniye bekleyin, hemen hazır olurum."
 
+# game/code/scenes/main_story/sm1ms009.rpy:424
+translate turkish sm1ms009_13c2aa71:
+
+    # sy "Hello!"
+    sy "Hello!"
+
+# game/code/scenes/main_story/sm1ms009.rpy:1316
+translate turkish sm1ms009_part_2_0561dc8d:
+
+    # sy "Just wait until you see how I clean up your mess!"
+    sy "Just wait until you see how I clean up your mess!"
+

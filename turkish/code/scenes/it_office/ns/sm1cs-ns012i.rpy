@@ -44,3 +44,27 @@ translate turkish strings:
     old "Be relaxed with Nari"
     new "Nari ile rahatlayın"
 
+# game/code/scenes/it_office/ns/sm1cs-ns012i.rpy:29
+translate turkish sm1cs_ns012i_repeatable_e99a5240:
+
+    # mc "I want to have some fun with you, Nari."
+    mc "I want to have some fun with you, Nari."
+
+# game/code/scenes/it_office/ns/sm1cs-ns012i.rpy:33
+translate turkish sm1cs_ns012i_repeatable_61a8dd53:
+
+    # ns "Mmmm. I like the sound of that."
+    ns "Mmmm. I like the sound of that."
+
+# game/code/scenes/it_office/ns/sm1cs-ns012i.rpy:35
+translate turkish sm1cs_ns012i_repeatable_3d5d7aab:
+
+    # mc "Let's go to your room, Nari."
+    mc "Let's go to your room, Nari."
+
+# game/code/scenes/it_office/ns/sm1cs-ns012i.rpy:39
+translate turkish sm1cs_ns012i_repeatable_ac748977:
+
+    # ns "Sure!"
+    ns "Sure!"
+

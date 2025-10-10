@@ -32,3 +32,13 @@ translate spanish strings:
     old "Settings"
     new "Ajustes"
 
+translate spanish strings:
+
+    # game/code/renpy/screens/phone.rpy:69
+    old "Laptop"
+    new "Laptop"
+
+    # game/code/renpy/screens/phone.rpy:75
+    old "Studio Laptop"
+    new "Studio Laptop"
+

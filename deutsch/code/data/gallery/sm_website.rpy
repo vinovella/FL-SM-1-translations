@@ -52,3 +52,33 @@
     old "Searose"
     new "Seerose"
 
+translate deutsch strings:
+
+    # game/code/data/gallery/sm_website.rpy:1
+    old "Star Voyage VI: Babe-lyon 9"
+    new "Star Voyage VI: Babe-lyon 9"
+
+    # game/code/data/gallery/sm_website.rpy:1
+    old "Captain Ramses Hornstar"
+    new "Captain Ramses Hornstar"
+
+    # game/code/data/gallery/sm_website.rpy:1
+    old "Lt. Luffie Orion"
+    new "Lt. Luffie Orion"
+
+    # game/code/data/gallery/sm_website.rpy:1
+    old "Lieutenant Kira Solo"
+    new "Lieutenant Kira Solo"
+
+    # game/code/data/gallery/sm_website.rpy:1
+    old "Doctor Jalerra"
+    new "Doctor Jalerra"
+
+    # game/code/data/gallery/sm_website.rpy:1
+    old "Spectre"
+    new "Spectre"
+
+    # game/code/data/gallery/sm_website.rpy:1
+    old "Captain Kimora"
+    new "Captain Kimora"
+

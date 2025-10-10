@@ -40,3 +40,9 @@
     old "Shop 71 Store"
     new "Shop 71 Store"
 
+translate portuguese strings:
+
+    # game/code/debug/dev_labels.rpy:7
+    old "Test Screen"
+    new "Test Screen"
+

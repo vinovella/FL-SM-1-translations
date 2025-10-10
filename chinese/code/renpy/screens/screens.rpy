@@ -292,3 +292,9 @@
     old "Skipping"
     new "Skipping"
 
+translate chinese strings:
+
+    # game/code/renpy/screens/screens.rpy:513
+    old "Taboo Mode"
+    new "Taboo Mode"
+

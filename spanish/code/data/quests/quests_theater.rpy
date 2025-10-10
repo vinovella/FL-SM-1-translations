@@ -202,3 +202,17 @@ translate spanish strings:
     old "Talk with Veronica in the afternoon"
     new "Talk with Veronica in the afternoon"
 
+translate spanish strings:
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Denise's story line"
+    new "Progress Denise's story line"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Nelson about sponsoring the new show"
+    new "Talk to Nelson about sponsoring the new show"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Denise about the Wurst Delivery Sponsorship in her office"
+    new "Talk to Denise about the Wurst Delivery Sponsorship in her office"
+

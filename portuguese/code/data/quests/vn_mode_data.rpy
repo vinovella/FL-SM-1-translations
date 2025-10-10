@@ -570,3 +570,161 @@ translate portuguese strings:
     old "Visit Taisia in her room"
     new "Visit Taisia in her room"
 
+translate portuguese strings:
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk about making a new move"
+    new "Talk about making a new move"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk about the movie options"
+    new "Talk about the movie options"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Choose which movie to make"
+    new "Choose which movie to make"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Stacy launched the S&M Website"
+    new "Stacy launched the S&M Website"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Answer Min's text again"
+    new "Answer Min's text again"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Help Min to move in"
+    new "Help Min to move in"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Carnival date with Lyssa"
+    new "Carnival date with Lyssa"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Show the renovated studio to Lyssa"
+    new "Show the renovated studio to Lyssa"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Borrow Stacy's laptop"
+    new "Borrow Stacy's laptop"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Visit museum with Melony"
+    new "Visit museum with Melony"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Go bouldering with Melony"
+    new "Go bouldering with Melony"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Problem at the IT Office"
+    new "Problem at the IT Office"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Go jogging with April"
+    new "Go jogging with April"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Get back with Claire"
+    new "Get back with Claire"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Continue what you had with Claire"
+    new "Continue what you had with Claire"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Nari wants to talk with you"
+    new "Nari wants to talk with you"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Ask Nelson about sponsoring theater"
+    new "Ask Nelson about sponsoring theater"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk about the Wurst Delivery Sponsorship"
+    new "Talk about the Wurst Delivery Sponsorship"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk to Stacy about the Pirates movie"
+    new "Talk to Stacy about the Pirates movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Buy costumes for the movie"
+    new "Buy costumes for the movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk about recruiting the actress"
+    new "Talk about recruiting the actress"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Recruit Taisia as the actress"
+    new "Recruit Taisia as the actress"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Start filming the next scene"
+    new "Start filming the next scene"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Travel to the location for shooting"
+    new "Travel to the location for shooting"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Finished editing the movie"
+    new "Finished editing the movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk to Stacy about the Sci-Fi Movie"
+    new "Talk to Stacy about the Sci-Fi Movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Recruit Min for Sci-Fi Movie"
+    new "Recruit Min for Sci-Fi Movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Recruit Lyssa for Sci-Fi Movie"
+    new "Recruit Lyssa for Sci-Fi Movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk to Stacy about Sci-Fi Movie props"
+    new "Talk to Stacy about Sci-Fi Movie props"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk to Stacy about building the set"
+    new "Talk to Stacy about building the set"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Build the rest of the set"
+    new "Build the rest of the set"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Start filming!"
+    new "Start filming!"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Film the second scene"
+    new "Film the second scene"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Plan a Spa day"
+    new "Plan a Spa day"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Enjoy a Spa day"
+    new "Enjoy a Spa day"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk about big scenes in the Sci-Fi Movie"
+    new "Talk about big scenes in the Sci-Fi Movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Film the third scene"
+    new "Film the third scene"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Film the last scene"
+    new "Film the last scene"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Watch the final cut"
+    new "Watch the final cut"
+

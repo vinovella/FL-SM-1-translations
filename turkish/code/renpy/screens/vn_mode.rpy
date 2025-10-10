@@ -4,3 +4,9 @@
     old "No scenes available in this location right now"
     new "Şu anda bu konumda mevcut sahne yok."
 
+translate turkish strings:
+
+    # game/code/renpy/screens/vn_mode.rpy:51
+    old "Rejected Characters"
+    new "Rejected Characters"
+

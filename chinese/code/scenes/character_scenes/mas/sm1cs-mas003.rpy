@@ -1710,3 +1710,9 @@ translate chinese strings:
     old "You got a ${} as your cut of the tip."
     new "你拿到了${}，作为小费里属于你的那部分"
 
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
+translate chinese sm1cs_mas003_third_delivery_ad7a3de6:
+
+    # ms "Shows over ladies."
+    ms "Shows over ladies."
+

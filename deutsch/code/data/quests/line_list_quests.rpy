@@ -88,3 +88,21 @@
     old "Veronica's story"
     new "Veronicas Geschichte"
 
+translate deutsch strings:
+
+    # game/code/data/quests/line_list_quests.rpy:5
+    old "Main story"
+    new "Main story"
+
+    # game/code/data/quests/line_list_quests.rpy:5
+    old "Second movie"
+    new "Second movie"
+
+    # game/code/data/quests/line_list_quests.rpy:5
+    old "Pirates movie"
+    new "Pirates movie"
+
+    # game/code/data/quests/line_list_quests.rpy:5
+    old "Sci-Fi movie"
+    new "Sci-Fi movie"
+

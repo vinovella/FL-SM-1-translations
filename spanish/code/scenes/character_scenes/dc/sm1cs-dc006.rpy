@@ -952,3 +952,9 @@ translate spanish strings:
     old "Let her take the call"
     new "Déjala atender la llamada"
 
+translate spanish strings:
+
+    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
+    old "Show no interest in Debbie"
+    new "Show no interest in Debbie"
+

@@ -52,3 +52,13 @@
     old "I'll send  you the address! See you in a bit 😏"
     new "Sana adresi göndereceğim! Birazdan görüşürüz 😏"
 
+translate turkish strings:
+
+    # game/code/data/chat/chat_dc.rpy:41
+    old "Hey, [mcname!i]! What can I do for you?"
+    new "Hey, [mcname!i]! What can I do for you?"
+
+    # game/code/data/chat/chat_dc.rpy:41
+    old "It sounds like a date, [mcname!i] 😉"
+    new "It sounds like a date, [mcname!i] 😉"
+

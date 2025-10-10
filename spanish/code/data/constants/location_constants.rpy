@@ -48,3 +48,9 @@ translate spanish strings:
     old "Guns n' Rossette's"
     new "Guns N 'Rossette's"
 
+translate spanish strings:
+
+    # game/code/data/constants/location_constants.rpy:189
+    old "Lyssa's House"
+    new "Lyssa's House"
+

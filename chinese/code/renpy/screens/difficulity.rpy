@@ -16,3 +16,9 @@
     old "No Sandbox\n{size=25}(Beta){/size}"
     new "No Sandbox\n{size=25}(Beta){/size}"
 
+translate chinese strings:
+
+    # game/code/renpy/screens/difficulity.rpy:46
+    old "No Sandbox"
+    new "No Sandbox"
+

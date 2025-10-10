@@ -202,3 +202,33 @@ translate chinese strings:
     old "Talk with Claire On Friday evening"
     new "Talk with Claire On Friday evening"
 
+translate chinese strings:
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work Orbix job 40/40 times and finish renovations"
+    new "Work Orbix job 40/40 times and finish renovations"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work Orbix job {}/40 times and finish renovations"
+    new "Work Orbix job {}/40 times and finish renovations"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Finish renovations"
+    new "Finish renovations"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work Orbix job {}/40 times"
+    new "Work Orbix job {}/40 times"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get at least {}/15 total relationship points with characters in Orbix"
+    new "Get at least {}/15 total relationship points with characters in Orbix"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get at least 15 total relationship points with characters in Orbix"
+    new "Get at least 15 total relationship points with characters in Orbix"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Talk with April when she is working"
+    new "Talk with April when she is working"
+

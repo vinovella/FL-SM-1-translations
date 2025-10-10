@@ -4,3 +4,9 @@
     old "You are currently watching the scene"
     new "You are currently watching the scene"
 
+translate portuguese strings:
+
+    # game/code/classes/quest_controller.rpy:156
+    old "You need to progress {storyline_name} "
+    new "You need to progress {storyline_name} "
+

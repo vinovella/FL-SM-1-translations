@@ -16,3 +16,17 @@ translate spanish strings:
     old "ON MY WAY!"
     new "¡ESTOY EN CAMINO!"
 
+translate spanish strings:
+
+    # game/code/data/chat/chat_mh.rpy:37
+    old "Hey, [mcname!i]. I have the next few mornings off. I was wondering if I could stop by and see the new renovations?"
+    new "Hey, [mcname!i]. I have the next few mornings off. I was wondering if I could stop by and see the new renovations?"
+
+    # game/code/data/chat/chat_mh.rpy:37
+    old "Yeah! I'm totally free this morning, stop on by!"
+    new "Yeah! I'm totally free this morning, stop on by!"
+
+    # game/code/data/chat/chat_mh.rpy:37
+    old "I'll be over in a jif"
+    new "I'll be over in a jif"
+

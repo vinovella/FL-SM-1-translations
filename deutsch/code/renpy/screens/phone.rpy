@@ -32,3 +32,13 @@
     old "Settings"
     new "Einstellungen"
 
+translate deutsch strings:
+
+    # game/code/renpy/screens/phone.rpy:69
+    old "Laptop"
+    new "Laptop"
+
+    # game/code/renpy/screens/phone.rpy:75
+    old "Studio Laptop"
+    new "Studio Laptop"
+

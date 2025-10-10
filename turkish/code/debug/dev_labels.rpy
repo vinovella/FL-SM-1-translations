@@ -40,3 +40,9 @@
     old "Shop 71 Store"
     new "Mağaza 71 Mağaza"
 
+translate turkish strings:
+
+    # game/code/debug/dev_labels.rpy:7
+    old "Test Screen"
+    new "Test Screen"
+

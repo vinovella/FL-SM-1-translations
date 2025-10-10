@@ -1646,3 +1646,9 @@ translate chinese sm1cs_km004_later_e06e0046:
     # vs "Did I just blank out for a minute, or did Taisia steal Kellie's clothes?"
     vs "是我刚刚走神了没注意泰西娅借衣服，还是她真的把凯莉的衣服偷走了？"
 
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:650
+translate chinese sm1cs_km004_stage_79692656:
+
+    # vs "What's Montague? It is nor hand nor foot."
+    vs "What's Montague? It is nor hand nor foot."
+

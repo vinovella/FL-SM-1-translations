@@ -376,3 +376,53 @@ translate turkish strings:
     old "Meet Ridley"
     new "Ridley ile tanış"
 
+translate turkish strings:
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy about new order from the client"
+    new "Talk to Stacy about new order from the client"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy to choose the movie you want to film"
+    new "Talk with Stacy to choose the movie you want to film"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Film and release the new movie"
+    new "Film and release the new movie"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Stacy to launch the website"
+    new "Wait for Stacy to launch the website"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Visit Lyssa in the afternoon"
+    new "Visit Lyssa in the afternoon"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Invite Lyssa to visit studio"
+    new "Invite Lyssa to visit studio"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy to borrow laptop for editing Lyssa's video"
+    new "Talk with Stacy to borrow laptop for editing Lyssa's video"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Show the edited video to Lyssa"
+    new "Show the edited video to Lyssa"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Min in the bar"
+    new "Talk with Min in the bar"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Min to text you again"
+    new "Wait for Min to text you again"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Text Min in the Morning to help her move in"
+    new "Text Min in the Morning to help her move in"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Stacy wants to talk to you about Melony"
+    new "Stacy wants to talk to you about Melony"
+

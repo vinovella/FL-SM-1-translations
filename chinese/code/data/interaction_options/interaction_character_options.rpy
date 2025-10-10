@@ -298,3 +298,161 @@ translate chinese strings:
     old "Talk about moving in"
     new "Talk about moving in"
 
+translate chinese strings:
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Watch her pee..."
+    new "Watch her pee..."
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Visit Theater"
+    new "Visit Theater"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about new order from the client"
+    new "Talk about new order from the client"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk to Stacy about the new movie"
+    new "Talk to Stacy about the new movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Choose the movie you want to film"
+    new "Choose the movie you want to film"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk to Stacy about the second movie"
+    new "Talk to Stacy about the second movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Borrow Stacy's Laptop"
+    new "Borrow Stacy's Laptop"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ask Debbie out again"
+    new "Ask Debbie out again"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Sexy Times?"
+    new "Sexy Times?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "I will help you Claire"
+    new "I will help you Claire"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "I want to continue what we had"
+    new "I want to continue what we had"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "I agree to your special assignment"
+    new "I agree to your special assignment"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Wurst Delivery Sponsorship"
+    new "Wurst Delivery Sponsorship"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Buy costume for the movie"
+    new "Buy costume for the movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Recruit actress for the movie"
+    new "Recruit actress for the movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Recruit Taisia for the movie"
+    new "Recruit Taisia for the movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Pirates Movie"
+    new "Pirates Movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about buying props for the movie"
+    new "Talk about buying props for the movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Build props for the movie"
+    new "Build props for the movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Start filming the movie"
+    new "Start filming the movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Start filming the second scene"
+    new "Start filming the second scene"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about the movie"
+    new "Talk about the movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Travel!"
+    new "Travel!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "I finished editing!"
+    new "I finished editing!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Sci-fi movie"
+    new "Sci-fi movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Recruit Min for the Sci-Fi Movie"
+    new "Recruit Min for the Sci-Fi Movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about Sci-Fi Movie props"
+    new "Talk about Sci-Fi Movie props"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Recruit Nari for the Sci-Fi Movie"
+    new "Recruit Nari for the Sci-Fi Movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about building set for Sci-Fi Movie"
+    new "Talk about building set for Sci-Fi Movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Continue building set for Sci-Fi Movie"
+    new "Continue building set for Sci-Fi Movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Next step for the Sci-Fi Movie"
+    new "Next step for the Sci-Fi Movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Prepare for filming the Sci-Fi Movie"
+    new "Prepare for filming the Sci-Fi Movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Start filming the Sci-Fi Movie"
+    new "Start filming the Sci-Fi Movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Film the next Sci-Fi Movie scene"
+    new "Film the next Sci-Fi Movie scene"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about going to the spa with Lyssa"
+    new "Talk about going to the spa with Lyssa"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about going to the spa with Min"
+    new "Talk about going to the spa with Min"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about big scenes in Sci-Fi Movie"
+    new "Talk about big scenes in Sci-Fi Movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Film the final scene of Sci-Fi Movie"
+    new "Film the final scene of Sci-Fi Movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Done editing the Sci-Fi Movie"
+    new "Done editing the Sci-Fi Movie"
+
