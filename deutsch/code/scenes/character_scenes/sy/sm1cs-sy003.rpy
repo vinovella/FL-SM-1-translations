@@ -422,7 +422,7 @@ translate deutsch sm1cs_sy003_sex_4419c75e_1:
 translate deutsch sm1cs_sy003_sex_57dd53e1:
 
     # sy "*hungrily* God. It feels so good in between my fingers."
-    sy "*hungrig* Gott. Das fühlt sich zwischen meinen Fingern so gut an.
+    sy "*hungrig* Gott. Das fühlt sich zwischen meinen Fingern so gut an."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:347
 translate deutsch sm1cs_sy003_sex_248db973:
