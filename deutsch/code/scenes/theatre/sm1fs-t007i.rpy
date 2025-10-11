@@ -88,12 +88,6 @@ translate deutsch sm1fs_t007i_2d81aaad:
     # dvh "I did not say such. It is best to stay realistic, [mcname]."
     dvh "I did not say such. It is best to stay realistic, [mcname]."
 
-# game/code/scenes/theatre/sm1fs-t007i.rpy:44
-translate deutsch sm1fs_t007i_75d5bb89:
-
-    # mc "Gotcha, Dense."
-    mc "Gotcha, Dense."
-
 # game/code/scenes/theatre/sm1fs-t007i.rpy:45
 translate deutsch sm1fs_t007i_4b81e3b5:
 

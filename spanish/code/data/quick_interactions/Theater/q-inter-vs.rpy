@@ -76,12 +76,6 @@ translate spanish q_inter_vs_3_8a62d62c:
     # vs "I do it all the time!"
     vs "¡Lo hago todo el tiempo!"
 
-# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:63
-translate spanish q_inter_vs_4_d9539ba7:
-
-    # vs "Hi, [mcname]. I relaly hope you're enjoying your time in the theater."
-    vs "Hola, [mcname]. Espero que estés disfrutando tu tiempo en el teatro."
-
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:64
 translate spanish q_inter_vs_4_1c7c4f01:
 

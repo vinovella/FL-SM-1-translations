@@ -76,12 +76,6 @@ translate french q_inter_vs_3_8a62d62c:
     # vs "I do it all the time!"
     vs "I do it all the time!"
 
-# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:63
-translate french q_inter_vs_4_d9539ba7:
-
-    # vs "Hi, [mcname]. I relaly hope you're enjoying your time in the theater."
-    vs "Hi, [mcname]. I relaly hope you're enjoying your time in the theater."
-
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:64
 translate french q_inter_vs_4_1c7c4f01:
 
