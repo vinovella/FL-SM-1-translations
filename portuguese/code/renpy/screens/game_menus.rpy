@@ -1,16 +1,16 @@
-﻿translate portuguese strings:
+translate portuguese strings:
 
     # game/code/renpy/screens/game_menus.rpy:148
     old "Back"
-    new "Back"
+    new "Voltar"
 
     # game/code/renpy/screens/game_menus.rpy:149
     old "History"
-    new "History"
+    new "Histórico"
 
     # game/code/renpy/screens/game_menus.rpy:150
     old "Skip"
-    new "Skip"
+    new "Pular"
 
     # game/code/renpy/screens/game_menus.rpy:151
     old "Auto"
@@ -18,7 +18,7 @@
 
     # game/code/renpy/screens/game_menus.rpy:152
     old "Save"
-    new "Save"
+    new "Salvar"
 
     # game/code/renpy/screens/game_menus.rpy:153
     old "Q.Save"
@@ -26,7 +26,7 @@
 
     # game/code/renpy/screens/game_menus.rpy:154
     old "Q.Load"
-    new "Q.Load"
+    new "Q.Carreg"
 
     # game/code/renpy/screens/game_menus.rpy:155
     old "Prefs"
@@ -34,5 +34,5 @@
 
     # game/code/renpy/screens/game_menus.rpy:158
     old "Open phone"
-    new "Open phone"
+    new "Abrir celular"
 
