@@ -976,3 +976,9 @@ translate chinese q_inter_ns_37_0bc7a040:
     # ns "*giggles* Yeah."
     ns "*giggles* Yeah."
 
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:531
+translate chinese q_inter_ns_37_18abae82:
+
+    # ns "With all these advances in AI script modules, I wonder if I would have used them in classes."
+    ns "With all these advances in AI script modules, I wonder if I would have used them in classes."
+

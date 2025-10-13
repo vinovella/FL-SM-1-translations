@@ -2386,3 +2386,33 @@ translate chinese strings:
     old "Fifteen minutes after end of filming"
     new "Fifteen minutes after end of filming"
 
+# game/code/scenes/movies/movie02/sm1mv02s05.rpy:97
+translate chinese sm1mv02s05_8ee6d23f:
+
+    # mc "We want the {i}Intrepid{/i} looking great for the first scene."
+    mc "We want the {i}Intrepid{/i} looking great for the first scene."
+
+# game/code/scenes/movies/movie02/sm1mv02s05.rpy:576
+translate chinese sm1mv02s05_movie_start_7da69867:
+
+    # sy "I'll run an advanced scan looking for residual Dickium radiation."
+    sy "I'll run an advanced scan looking for residual Dickium radiation."
+
+# game/code/scenes/movies/movie02/sm1mv02s05.rpy:614
+translate chinese sm1mv02s05_movie_start_a16145c5:
+
+    # sy "Yellow alert, aye Captain."
+    sy "Yellow alert, aye Captain."
+
+# game/code/scenes/movies/movie02/sm1mv02s05.rpy:656
+translate chinese sm1mv02s05_movie_start_d43915e7:
+
+    # sy "Yeah, ignore all that and the potential of Karasu raiders hiding in wait to kill us, it's the perfect vacation planet."
+    sy "Yeah, ignore all that and the potential of Karasu raiders hiding in wait to kill us, it's the perfect vacation planet."
+
+# game/code/scenes/movies/movie02/sm1mv02s05.rpy:685
+translate chinese sm1mv02s05_movie_start_f1a7c292:
+
+    # mc "Track in on signal. Got some technology here, doesn't look hostile."
+    mc "Track in on signal. Got some technology here, doesn't look hostile."
+

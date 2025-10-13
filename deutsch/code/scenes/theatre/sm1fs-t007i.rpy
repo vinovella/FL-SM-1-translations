@@ -100,3 +100,9 @@ translate deutsch sm1fs_t007i_a49ed4f8:
     # mc "Okay."
     mc "Okay."
 
+# game/code/scenes/theatre/sm1fs-t007i.rpy:44
+translate deutsch sm1fs_t007i_0da36bf0:
+
+    # mc "Gotcha, Denise."
+    mc "Gotcha, Denise."
+

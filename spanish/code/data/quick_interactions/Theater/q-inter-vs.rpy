@@ -256,3 +256,9 @@ translate spanish q_inter_vs_11_cd1b3d42:
     # vs "Bubblegum likes gum, but I think she likes your cum better. *giggles*"
     vs "A Bubblegum le gusta el chicle, pero creo que le gusta más tu semen. *risas*"
 
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:63
+translate spanish q_inter_vs_4_0ac7542c:
+
+    # vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
+    vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
+

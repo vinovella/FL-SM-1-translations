@@ -1256,3 +1256,9 @@ translate deutsch strings:
     old "I trust you"
     new "I trust you"
 
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:414
+translate deutsch sm1cs_ns014_studio_026d1f00:
+
+    # mc "Would you like one?"
+    mc "Would you like one?"
+

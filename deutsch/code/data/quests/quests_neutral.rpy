@@ -426,3 +426,13 @@ translate deutsch strings:
     old "Stacy wants to talk to you about Melony"
     new "Stacy wants to talk to you about Melony"
 
+translate deutsch strings:
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Debbie in the Park"
+    new "Talk to Debbie in the Park"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Debbie in the evening in the Park"
+    new "Talk to Debbie in the evening in the Park"
+

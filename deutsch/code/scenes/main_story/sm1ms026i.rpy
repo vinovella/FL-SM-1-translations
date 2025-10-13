@@ -1,4 +1,3 @@
-
 # game/code/scenes/main_story/sm1ms026i.rpy:6
 translate deutsch sm1ms026i_2faef0f8:
 

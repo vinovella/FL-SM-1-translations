@@ -450,3 +450,9 @@ translate turkish strings:
     old "Done editing the Sci-Fi Movie"
     new "Done editing the Sci-Fi Movie"
 
+translate turkish strings:
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk with Stacy about her job search"
+    new "Talk with Stacy about her job search"
+

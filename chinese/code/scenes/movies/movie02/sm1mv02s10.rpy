@@ -1616,3 +1616,9 @@ translate chinese strings:
     old "It's cool, but not my favorite"
     new "It's cool, but not my favorite"
 
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:441
+translate chinese sm1mv02s10_continue_e27903d2:
+
+    # mc "You never know. She could definitely bring her 'unique' perspective to other problems the {i}Intrepid{/i} might run into."
+    mc "You never know. She could definitely bring her 'unique' perspective to other problems the {i}Intrepid{/i} might run into."
+

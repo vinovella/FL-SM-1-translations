@@ -1172,3 +1172,15 @@ translate spanish strings:
     old "Immediately"
     new "Immediately"
 
+# game/code/scenes/movies/movie02/sm1mv02s08.rpy:82
+translate spanish sm1mv02s08_b62a0a72:
+
+    # mc "Everyone on the {i}Intrepid{/i} played their part, Commander."
+    mc "Everyone on the {i}Intrepid{/i} played their part, Commander."
+
+# game/code/scenes/movies/movie02/sm1mv02s08.rpy:647
+translate spanish sm1mv02s08_mid_continue_17625dad:
+
+    # mc "Lieutenant!"
+    mc "Lieutenant!"
+

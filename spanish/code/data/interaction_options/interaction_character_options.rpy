@@ -456,3 +456,9 @@ translate spanish strings:
     old "Done editing the Sci-Fi Movie"
     new "Done editing the Sci-Fi Movie"
 
+translate spanish strings:
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk with Stacy about her job search"
+    new "Talk with Stacy about her job search"
+
