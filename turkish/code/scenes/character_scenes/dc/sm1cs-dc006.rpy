@@ -956,5 +956,5 @@ translate turkish strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
     old "Show no interest in Debbie"
-    new "Show no interest in Debbie"
+    new "Debbie'ye ilgi gösterme"
 
