@@ -952,12 +952,6 @@ translate turkish q_inter_ns_36_35a72f19:
     # mc "Interesting."
     mc "İlginç."
 
-# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:532
-translate turkish q_inter_ns_37_15c1b1c9:
-
-    # ns "With all these advances in AI scrip modules, I wonder if I would have used them in classes."
-    ns "Yapay zekâ script modüllerindeki bu gelişmelerle, acaba ben de okuldayken bunları kullanır mıydım diye düşünüyorum."
-
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:533
 translate turkish q_inter_ns_37_214256e1:
 

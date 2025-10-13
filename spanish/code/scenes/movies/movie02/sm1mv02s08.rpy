@@ -82,12 +82,6 @@ translate spanish sm1mv02s08_207a1d88:
     # sy "You did it."
     sy "You did it."
 
-# game/code/scenes/movies/movie02/sm1mv02s08.rpy:82
-translate spanish sm1mv02s08_96dd727f:
-
-    # mc "Everyone on the {i}Intreprid{/i} played their part, Commander."
-    mc "Everyone on the {i}Intreprid{/i} played their part, Commander."
-
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:85
 translate spanish sm1mv02s08_9c689165:
 
@@ -861,12 +855,6 @@ translate spanish sm1mv02s08_mid_continue_1897ca26:
 
     # kv "Graaah!"
     kv "Graaah!"
-
-# game/code/scenes/movies/movie02/sm1mv02s08.rpy:647
-translate spanish sm1mv02s08_mid_continue_9bf04739:
-
-    # mc "Lientenant!"
-    mc "Lientenant!"
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:650
 translate spanish sm1mv02s08_mid_continue_60e11c93:

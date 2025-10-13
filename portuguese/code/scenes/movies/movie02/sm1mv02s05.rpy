@@ -52,12 +52,6 @@ translate portuguese sm1mv02s05_38223e1d:
     # mc "Alright. Stacy and Kanya, let's make sure all the cameras and rigging is set up."
     mc "Alright. Stacy and Kanya, let's make sure all the cameras and rigging is set up."
 
-# game/code/scenes/movies/movie02/sm1mv02s05.rpy:97
-translate portuguese sm1mv02s05_2948e1f3:
-
-    # mc "We want the {i}Intreprid{/i} looking great for the first scene."
-    mc "We want the {i}Intreprid{/i} looking great for the first scene."
-
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:100
 translate portuguese sm1mv02s05_70c65d06:
 
@@ -874,12 +868,6 @@ translate portuguese sm1mv02s05_movie_start_0c94f65c:
     # mc "It would be perfectly like them to hide after that raid on Dantu."
     mc "It would be perfectly like them to hide after that raid on Dantu."
 
-# game/code/scenes/movies/movie02/sm1mv02s05.rpy:576
-translate portuguese sm1mv02s05_movie_start_fa44bbd0:
-
-    # sy "I'll run an advanced scan looking for residual Dickium radiaion."
-    sy "I'll run an advanced scan looking for residual Dickium radiaion."
-
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:580
 translate portuguese sm1mv02s05_movie_start_a607d849:
 
@@ -946,12 +934,6 @@ translate portuguese sm1mv02s05_movie_start_1fe7451b:
     # mc "Bring the ship to yellow alert. I don't like this one bit."
     mc "Bring the ship to yellow alert. I don't like this one bit."
 
-# game/code/scenes/movies/movie02/sm1mv02s05.rpy:614
-translate portuguese sm1mv02s05_movie_start_3440c639:
-
-    # sy "Yello alert, aye Captain."
-    sy "Yello alert, aye Captain."
-
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:618
 translate portuguese sm1mv02s05_movie_start_11e4e07a:
 
@@ -988,12 +970,6 @@ translate portuguese sm1mv02s05_movie_start_a7eaec64:
     # mc "Just like home. Except for the purple, the potentially noxious fumes, and crystaline structures."
     mc "Just like home. Except for the purple, the potentially noxious fumes, and crystaline structures."
 
-# game/code/scenes/movies/movie02/sm1mv02s05.rpy:656
-translate portuguese sm1mv02s05_movie_start_acb2b68f:
-
-    # sy "Yeah, ignore all that and the potential of Karasu raideres hiding in wait to kill us, it's the perfect vacation planet."
-    sy "Yeah, ignore all that and the potential of Karasu raideres hiding in wait to kill us, it's the perfect vacation planet."
-
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:659
 translate portuguese sm1mv02s05_movie_start_b57a763b:
 
@@ -1023,12 +999,6 @@ translate portuguese sm1mv02s05_movie_start_106f1a14:
 
     # mhmes "Reading you, Captain."
     mhmes "Reading you, Captain."
-
-# game/code/scenes/movies/movie02/sm1mv02s05.rpy:685
-translate portuguese sm1mv02s05_movie_start_1bebb9b9:
-
-    # mc "Track in on signal. Got some technilogy here, doesn't look hostile."
-    mc "Track in on signal. Got some technilogy here, doesn't look hostile."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:693
 translate portuguese sm1mv02s05_movie_start_f5804b10:

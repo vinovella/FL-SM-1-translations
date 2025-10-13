@@ -952,12 +952,6 @@ translate deutsch q_inter_ns_36_35a72f19:
     # mc "Interesting."
     mc "Interessant."
 
-# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:531
-translate deutsch q_inter_ns_37_15c1b1c9:
-
-    # ns "With all these advances in AI scrip modules, I wonder if I would have used them in classes."
-    ns "Angesichts all dieser Fortschritte bei KI-Skriptmodulen frage ich mich, ob ich sie im Unterricht eingesetzt hätte."
-
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:532
 translate deutsch q_inter_ns_37_214256e1:
 

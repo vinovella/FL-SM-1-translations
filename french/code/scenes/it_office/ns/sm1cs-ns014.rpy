@@ -658,12 +658,6 @@ translate french sm1cs_ns014_studio_dec9e101:
     # mc "I'm going to grab a glass of water."
     mc "I'm going to grab a glass of water."
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:414
-translate french sm1cs_ns014_studio_9a82a920:
-
-    # mc "Would you like one."
-    mc "Would you like one."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:417
 translate french sm1cs_ns014_studio_60504da8:
 

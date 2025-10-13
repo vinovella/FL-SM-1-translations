@@ -586,12 +586,6 @@ translate turkish sm1mv02s10_continue_27069204:
     # ns "I wonder if in a sequel, Doctor Jalerra could make a cameo."
     ns "I wonder if in a sequel, Doctor Jalerra could make a cameo."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:441
-translate turkish sm1mv02s10_continue_29a50e6f:
-
-    # mc "You never know. She could definitely bring her 'unique' perspective to other problems the {i}Intreprid{/i} might run into."
-    mc "You never know. She could definitely bring her 'unique' perspective to other problems the {i}Intreprid{/i} might run into."
-
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:443
 translate turkish sm1mv02s10_continue_bf64d622:
 
