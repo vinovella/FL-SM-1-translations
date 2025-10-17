@@ -338,7 +338,7 @@ translate portuguese sm1fs_i003_4fff18c9:
 translate portuguese sm1fs_i003_908a0f34:
 
     # ml "Pleasure to meet you both! Welcome to C.U.M.!"
-    ml "É um prazer conhecer os dois. Bem-vindos ao C.U.M!"
+    ml "É um prazer conhecer os dois. Bem-vindos ao G.O.Z.U.!"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:216
 translate portuguese sm1fs_i003_834dac81:
@@ -356,13 +356,13 @@ translate portuguese sm1fs_i003_1e27f6cd:
 translate portuguese sm1fs_i003_9eee945a:
 
     # ns "My understanding of the word is that it is primarily a derogatory word for a man's semen."
-    ns "Até onde eu entendo a palavra é um termo chulo em inglês em referência a sêmen."
+    ns "Até onde eu entendo a palavra é um termo chulo em referência a sêmen."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:222
 translate portuguese sm1fs_i003_f4a86eea:
 
     # cw "Ms. Song. C.U.M. is an acronym for Cloud User Management. While here, you may hear this name used from time to time."
-    cw "Sra. Song, C.U.M. é uma sigla para Cloud User Management, ou Gerenciamento de Usuários da Nuvem. Vocês podem ouvir esse nome de vez em quando trabalhando aqui."
+    cw "Sra. Song, G.O.Z.U. é uma sigla para Gerenciamento Online do Zelo de Usuários. Vocês podem ouvir esse nome de vez em quando trabalhando aqui."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:223
 translate portuguese sm1fs_i003_a32b4516:
@@ -620,7 +620,7 @@ translate portuguese sm1fs_i003_7f9459ec:
 translate portuguese sm1fs_i003_9cc77597:
 
     # cw "They're all yours. I have some matters to attend to with the new client."
-    cw "São todos seus. Tenho assuntos a tratar com o cliente novo."
+    cw "São todos seus. Tenho assuntos a tratar com a cliente nova."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:365
 translate portuguese sm1fs_i003_6356d22f:
@@ -638,7 +638,7 @@ translate portuguese sm1fs_i003_eb4af79d:
 translate portuguese sm1fs_i003_0593b532:
 
     # ns "I thought it was wonderful. I've already learned so much about C.U.M., and I can't wait for more!"
-    ns "Eu achei que foi legal. Já aprendi tanto sobre C.U.M., mal consigo esperar por mais!"
+    ns "Eu achei que foi legal. Já aprendi tanto sobre G.O.Z.U., mal consigo esperar por mais!"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:372
 translate portuguese sm1fs_i003_5f5ba3ef:
