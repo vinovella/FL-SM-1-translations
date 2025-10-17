@@ -1,32 +1,32 @@
-﻿translate portuguese strings:
+translate portuguese strings:
 
     # game/code/data/constants/constants.rpy:343
     old "Animals"
-    new "Animals"
+    new "Animais"
 
     # game/code/data/constants/constants.rpy:344
     old "Art"
-    new "Art"
+    new "Arte"
 
     # game/code/data/constants/constants.rpy:345
     old "Automobiles"
-    new "Automobiles"
+    new "Automóveis"
 
     # game/code/data/constants/constants.rpy:346
     old "Collecting"
-    new "Collecting"
+    new "Coleções"
 
     # game/code/data/constants/constants.rpy:347
     old "Fashion"
-    new "Fashion"
+    new "Moda"
 
     # game/code/data/constants/constants.rpy:348
     old "Film and TV"
-    new "Film and TV"
+    new "Filme e TV"
 
     # game/code/data/constants/constants.rpy:349
     old "Finance"
-    new "Finance"
+    new "Finanças"
 
     # game/code/data/constants/constants.rpy:350
     old "Fitness"
@@ -34,41 +34,41 @@
 
     # game/code/data/constants/constants.rpy:351
     old "Food and Drink"
-    new "Food and Drink"
+    new "Comida e bebida"
 
     # game/code/data/constants/constants.rpy:352
     old "Gaming"
-    new "Gaming"
+    new "Jogos"
 
     # game/code/data/constants/constants.rpy:353
     old "Gardening"
-    new "Gardening"
+    new "Jardinagem"
 
     # game/code/data/constants/constants.rpy:354
     old "Literature"
-    new "Literature"
+    new "Literatura"
 
     # game/code/data/constants/constants.rpy:355
     old "Music"
-    new "Music"
+    new "Música"
 
     # game/code/data/constants/constants.rpy:356
     old "Photography"
-    new "Photography"
+    new "Fotografia"
 
     # game/code/data/constants/constants.rpy:357
     old "Science"
-    new "Science"
+    new "Ciência"
 
     # game/code/data/constants/constants.rpy:358
     old "Sports"
-    new "Sports"
+    new "Esportes"
 
     # game/code/data/constants/constants.rpy:359
     old "Technology"
-    new "Technology"
+    new "Tecnologia"
 
     # game/code/data/constants/constants.rpy:360
     old "Travel"
-    new "Travel"
+    new "Viagem"
 
