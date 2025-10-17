@@ -626,7 +626,7 @@ translate deutsch sm1cs_cw002_2_after_lunch_28190314:
 translate deutsch sm1cs_cw002_2_after_lunch_9c715666:
 
     # fw "You know what your father means."
-    fw "Du weißt, was dein Vater meint.
+    fw "Du weißt, was dein Vater meint."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:332
 translate deutsch sm1cs_cw002_2_after_lunch_4e4a697a:
