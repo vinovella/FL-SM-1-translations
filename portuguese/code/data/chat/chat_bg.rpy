@@ -1,14 +1,14 @@
-﻿translate portuguese strings:
+translate portuguese strings:
 
     # game/code/data/chat/chat_bg.rpy:3
     old "hey! The pics from the last photo shoot are ready!"
-    new "hey! The pics from the last photo shoot are ready!"
+    new "ei! As fotos do último ensaio estão prontas!"
 
     # game/code/data/chat/chat_bg.rpy:3
     old "Sweet!"
-    new "Sweet!"
+    new "Legal!"
 
     # game/code/data/chat/chat_bg.rpy:3
     old "u should come by the studio and check them out"
-    new "u should come by the studio and check them out"
+    new "vc devia passar no estúdio e dar uma olhada"
 
