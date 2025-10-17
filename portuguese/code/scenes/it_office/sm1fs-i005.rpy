@@ -1400,7 +1400,7 @@ translate portuguese sm1fs_i005_conference_5c7c3991:
 translate portuguese sm1fs_i005_conference_c7ee5017:
 
     # cw "It would be a blackmark on the C.U.M Division for the whole quarter."
-    cw "Isso seria um desastre para o trimestre inteiro do departamento de C.U.M."
+    cw "Isso seria um desastre para o trimestre inteiro do departamento de G.O.Z.U."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:759
 translate portuguese sm1fs_i005_conference_ca04c66a:
@@ -1586,7 +1586,7 @@ translate portuguese sm1fs_i005_conference_5b5f248a:
 translate portuguese sm1fs_i005_conference_569e04e7:
 
     # ag "So let's get back on our horses and make the C.U.M Division proud."
-    ag "Então vamos voltar ao trabalho e deixar o departamento C.U.M. orgulhoso."
+    ag "Então vamos voltar ao trabalho e deixar o departamento de G.O.Z.U. orgulhoso."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:866
 translate portuguese sm1fs_i005_conference_b46a79f6:
