@@ -62,7 +62,7 @@ translate deutsch sm1cs_cw002_2_922985af:
 translate deutsch sm1cs_cw002_2_3bf24d7c:
 
     # mc "*whispers* Eugene? Claire. I'm totally lost."
-    mc "*flüstert* Eugene? Claire. Ich bin total verwirrt.
+    mc "*flüstert* Eugene? Claire. Ich bin total verwirrt."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:60
 translate deutsch sm1cs_cw002_2_cc0d32d7:
