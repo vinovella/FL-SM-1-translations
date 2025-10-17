@@ -1150,12 +1150,6 @@ translate spanish sm1cs_sy002_dc_talk_0f7c37a5:
     # mc "{size=*0.7}Not really. I know she's the park cop, but that's about it.{/size}"
     mc "{size=*0.7}No realmente. Sé que ella es la policía del parque, pero eso es todo.{/size}"
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:586
-translate spanish sm1cs_sy002_dc_talk_79179cf9:
-
-    # mc "{size=*0.7}Nope... she looks like the park cop though.{/size}"
-    mc "{size=*0.7}No... aunque se parece a la policía del parque.{/size}"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:592
 translate spanish sm1cs_sy002_dc_talk_14caa8b8:
 

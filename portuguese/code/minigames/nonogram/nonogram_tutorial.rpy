@@ -10,7 +10,7 @@ translate portuguese strings:
 
     # game/code/minigames/nonogram/nonogram_tutorial.rpy:58
     old "Left-click on a square to make it green. Right-click to mark with black.\n\nIn our system, the black squares represent the empty or blank squares and the green squares are the coded or filled squares.\n\nYou do not need to fill in the blank squares by marking them if you do not want to. It is not required to solve the puzzle."
-    new "Clique com o botão esquerdo em um quadrado para deixá-lo verde. Clique com o botão direito para deixá-lo preto.\n\nNo nosso sistema, quadrados pretos representam vazio, ou quadrados sem nada, e quadrados verdes representam código, ou quadrados preenchidos.\n\Não é necessário marca os quadrados vazios se não quiser. Não é necessário para resolver o quebra-cabeças."
+    new "Clique com o botão esquerdo em um quadrado para deixá-lo verde. Clique com o botão direito para deixá-lo preto.\n\nNo nosso sistema, quadrados pretos representam vazio, ou quadrados sem nada, e quadrados verdes representam código, ou quadrados preenchidos.\n\nNão é necessário marca os quadrados vazios se não quiser. Não é necessário para resolver o quebra-cabeças."
 
     # game/code/minigames/nonogram/nonogram_tutorial.rpy:63
     old "It is strongly advised never to guess. Only squares that can be determined by logic should be coded or filled green.\n\nIt is easy for a single error to cause inaccuracies across the entire puzzle.\n\nSimple puzzles can usually be solved by figuring out the reasoning by focusing on a single row/column at a time. Then move to the next row and the next row until you have filled all the green squares."

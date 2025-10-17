@@ -46,9 +46,9 @@ translate portuguese sm1fs_i003_af8ef791:
     # mc "Absolutely, I'll be there Ms. Watts!"
     mc "Com certeza, já vou aparecer aí, Sra. Watts!"
 
-    # game/code/scenes/it_office/sm1fs-i003.rpy:68
+# game/code/scenes/it_office/sm1fs-i003.rpy:68
 translate portuguese sm1fs_i003_a20cefa7:
-0   
+
     # "..."
     "..."
 

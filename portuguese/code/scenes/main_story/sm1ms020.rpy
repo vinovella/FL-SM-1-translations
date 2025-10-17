@@ -232,12 +232,6 @@ translate portuguese sm1ms020_f6b79e8d:
     # my "Well you two never asked me about me before!"
     my "Ué, vocês nunca me perguntaram!"
 
-# game/code/scenes/main_story/sm1ms020.rpy:135
-translate portuguese sm1ms020_fd52713dq:
-
-    # mc "Well... why did you used to live in Crowning?"
-    mc "Bom... por que você morava em Crowning?"
-
 # game/code/scenes/main_story/sm1ms020.rpy:138
 translate portuguese sm1ms020_9a2ac44d:
 
