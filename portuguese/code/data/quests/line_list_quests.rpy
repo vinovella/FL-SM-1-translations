@@ -1,108 +1,108 @@
-﻿translate portuguese strings:
+translate portuguese strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Main Story"
-    new "Main Story"
+    new "História Principal"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Unlock more jobs"
-    new "Unlock more jobs"
+    new "Liberar mais empregos"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "AmRose's story"
-    new "AmRose's story"
+    new "História da AmRose"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Amore's story"
-    new "Amore's story"
+    new "História da Amore"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Debbie's story"
-    new "Debbie's story"
+    new "História da Debbie"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Kanya's story"
-    new "Kanya's story"
+    new "História da Kanya"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Maya's story"
-    new "Maya's story"
+    new "História da Maya"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Lyssa's story"
-    new "Lyssa's story"
+    new "História da Lyssa"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Stacy's story"
-    new "Stacy's story"
+    new "História da Stacy"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Min's story"
-    new "Min's story"
+    new "História da Min"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Ridley's story"
-    new "Ridley's story"
+    new "História da Ridley"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Melony's story"
-    new "Melony's story"
+    new "História da Melony"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Theater story"
-    new "Theater story"
+    new "História do Teatro"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Orbix story"
-    new "Orbix story"
+    new "História da Orbix"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "April's story"
-    new "April's story"
+    new "História da April"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Anna's story"
-    new "Anna's story"
+    new "História da Anna"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Claire's story"
-    new "Claire's story"
+    new "História da Claire"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Nari's story"
-    new "Nari's story"
+    new "História da Nari"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Denise's story"
-    new "Denise's story"
+    new "História da Denise"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Kelly's story"
-    new "Kelly's story"
+    new "História da Kelly"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Taisia's story"
-    new "Taisia's story"
+    new "História da Taisia"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Veronica's story"
-    new "Veronica's story"
+    new "História da Veronica"
 
 translate portuguese strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Main story"
-    new "Main story"
+    new "História principal"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Second movie"
-    new "Second movie"
+    new "Segundo filme"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Pirates movie"
-    new "Pirates movie"
+    new "Filme de Piratas"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Sci-Fi movie"
-    new "Sci-Fi movie"
+    new "Filme Sci-Fi"
 
