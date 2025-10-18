@@ -466,12 +466,6 @@ translate turkish sm1fs_i001_got_hired_bae0747f:
     # ag "She's in meetings for the rest of the day. But..."
     ag "Günün geri kalanında toplantılarda. Ama..."
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:336
-translate turkish sm1fs_i001_got_hired_0f44fdbc:
-
-    # ag "If you come tomorrow, [gt.next_day] at 8:00am you should be able to meet with her."
-    ag "Yarın [gt.next_day] sabah 8:00'de gelirsen onunla görüşebilmen gerekir."
-
 # game/code/scenes/it_office/sm1fs-i001.rpy:339
 translate turkish sm1fs_i001_got_hired_c90d928c:
 

@@ -466,12 +466,6 @@ translate spanish sm1fs_i001_got_hired_bae0747f:
     # ag "She's in meetings for the rest of the day. But..."
     ag "Ella está en reuniones por el resto del día. Pero..."
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:336
-translate spanish sm1fs_i001_got_hired_0f44fdbc:
-
-    # ag "If you come tomorrow, [gt.next_day] at 8:00am you should be able to meet with her."
-    ag "Si vienes mañana, [gt.next_day] a las 8:00 a.m., deberías poder reunirte con ella."
-
 # game/code/scenes/it_office/sm1fs-i001.rpy:339
 translate spanish sm1fs_i001_got_hired_c90d928c:
 
