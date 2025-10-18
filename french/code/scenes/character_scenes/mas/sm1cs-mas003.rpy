@@ -1426,12 +1426,6 @@ translate french sm1cs_mas003_third_delivery_c5639972:
     # ols "Damn girl. You belong on a magazine or something."
     ols "Damn girl. You belong on a magazine or something."
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
-translate french sm1cs_mas003_third_delivery_ad7a3de6:
-
-    # ms "Shows over ladies."
-    ms "Shows over ladies."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:809
 translate french sm1cs_mas003_third_delivery_0f81d339:
 

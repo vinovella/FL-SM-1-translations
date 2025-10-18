@@ -1711,8 +1711,8 @@ translate chinese strings:
     new "你拿到了${}，作为小费里属于你的那部分"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
-translate chinese sm1cs_mas003_third_delivery_ad7a3de6:
+translate chinese sm1cs_mas003_third_delivery_9ed10f06:
 
-    # ms "Shows over ladies."
-    ms "Shows over ladies."
+    # ms "Show's over, ladies."
+    ms "Show's over, ladies."
 
