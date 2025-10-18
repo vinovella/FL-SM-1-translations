@@ -1246,3 +1246,9 @@ translate chinese sm1cs_sy002_dc_talk_074ea2e5:
     # mc "Alright, we'll see. But next time, let's plan our park adventure a bit better."
     mc "先看看情况吧。但下次，咱们得好好规划下公园冒险。"
 
+# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:587
+translate chinese sm1cs_sy002_dc_talk_4558d886:
+
+    # mc "{size=*0.7}She looks like the park cop.{/size}"
+    mc "{size=*0.7}She looks like the park cop.{/size}"
+
