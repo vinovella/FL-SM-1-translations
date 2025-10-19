@@ -260,7 +260,7 @@ translate chinese sm1ms022_a0779750:
 translate chinese sm1ms022_ed953fc5:
 
     # mc "It looks... {w}hot, Stacy. Really fucking hot."
-    mc "你看上去……{w}太性感了，史黛西。真的超性感。"
+    mc "你看上去...{w}太性感了，史黛西。真的超性感。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:201
 translate chinese sm1ms022_65842efb:
@@ -380,13 +380,13 @@ translate chinese sm1ms022_74fc6761:
 translate chinese sm1ms022_d41333a1:
 
     # kv "All right...{w} and...{w} action."
-    kv "好……{w}那……{w}开始！"
+    kv "好...{w}那...{w}开始！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:265
 translate chinese sm1ms022_7e5707b4:
 
     # sy "Boy... this work sure is tiring. I could use a break..."
-    sy "哎呀……这农活可真累人啊。我真想歇一会儿..."
+    sy "哎呀...这农活可真累人啊。我真想歇一会儿..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:266
 translate chinese sm1ms022_834249e0:
@@ -428,7 +428,7 @@ translate chinese sm1ms022_5ff957c6:
 translate chinese sm1ms022_be305707:
 
     # kv "Why don't you go with...{w} ma'am?"
-    kv "要不你就叫她……{w}‘夫人’？"
+    kv "要不你就叫她...{w}‘夫人’？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:290
 translate chinese sm1ms022_525ff588:
@@ -458,7 +458,7 @@ translate chinese sm1ms022_38b5e631:
 translate chinese sm1ms022_db58699c:
 
     # kv "Okay, and... action."
-    kv "好，那…… 开始。"
+    kv "好，那...开始。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:314
 translate chinese sm1ms022_5ca01f25:
@@ -470,7 +470,7 @@ translate chinese sm1ms022_5ca01f25:
 translate chinese sm1ms022_60820e9c:
 
     # sy "Oh... Farmhand Jon...{w} how are you?"
-    sy "噢……是农场帮工乔恩……{w}你好吗？"
+    sy "噢...是农场帮工乔恩...{w}你好吗？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:320
 translate chinese sm1ms022_54f96de3:
@@ -482,7 +482,7 @@ translate chinese sm1ms022_54f96de3:
 translate chinese sm1ms022_1a123a72:
 
     # sy "Oh, I'm doing all right... just looking for a little break from work."
-    sy "哦，我还好啦…… 就是想从农活儿里抽个空歇一会儿。"
+    sy "哦，我还好啦...就是想从农活儿里抽个空歇一会儿。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:325
 translate chinese sm1ms022_8831990f:
@@ -500,7 +500,7 @@ translate chinese sm1ms022_68e460cf:
 translate chinese sm1ms022_129dd8f4:
 
     # sy "Oh, a big... strong... sweaty farmhand like you, might be able to help me?"
-    sy "哦，像你这样又高大…又强壮…还流着汗的农场工人，或许真能帮上我的忙？"
+    sy "哦，像你这样又高大...又强壮...还流着汗的农场工人，或许真能帮上我的忙？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:334
 translate chinese sm1ms022_5376e389:
@@ -512,7 +512,7 @@ translate chinese sm1ms022_5376e389:
 translate chinese sm1ms022_213c9559:
 
     # sy "Oh, well... I've been working real hard, and I think I need something to help me relax."
-    sy "嗯……我今天干活干得挺累的，真的需要点什么来帮我放松一下。"
+    sy "嗯...我今天干活干得挺累的，真的需要点什么来帮我放松一下。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:339
 translate chinese sm1ms022_ad4a240b:
@@ -530,7 +530,7 @@ translate chinese sm1ms022_8b48e49a:
 translate chinese sm1ms022_006a204e:
 
     # sy "Well... you know what a cucumber kind of looks like?"
-    sy "嗯…… 你知道黄瓜长得有点像什么吗？"
+    sy "嗯...你知道黄瓜长得有点像什么吗？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:347
 translate chinese sm1ms022_97fb546b:
@@ -548,7 +548,7 @@ translate chinese sm1ms022_a6d051a6:
 translate chinese sm1ms022_2ec1d05c:
 
     # mc "Uhm... like a... dick?"
-    mc "呃…… 像…… 像男人的家伙？"
+    mc "呃...像...像男人的家伙？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:355
 translate chinese sm1ms022_f64e9b7f:
@@ -560,7 +560,7 @@ translate chinese sm1ms022_f64e9b7f:
 translate chinese sm1ms022_4c60a1d2:
 
     # sy "And those are two things I've never had in my ass...{w} and I'm sitting here wondering something."
-    sy "而且我还从来没把这两样东西都塞进去过……{w}我现在就在琢磨一件事。"
+    sy "而且我还从来没把这两样东西都塞进去过...{w}我现在就在琢磨一件事。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:360
 translate chinese sm1ms022_2c302f1d:
@@ -596,7 +596,7 @@ translate chinese sm1ms022_ba4edf08:
 translate chinese sm1ms022_6f12062f:
 
     # sy "That's quite a pickle you've got...{w} I can't wait to see what it would feel like in my tight, little butthole."
-    sy "你的‘腌黄瓜’可真不小啊……{w}我已经等不及想知道把它插进我紧窄的小屁眼里会是什么感觉了。"
+    sy "你的‘腌黄瓜’可真不小啊...{w}我已经等不及想知道把它插进我紧窄的小屁眼里会是什么感觉了。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:382
 translate chinese sm1ms022_5e220e7e:
@@ -752,13 +752,13 @@ translate chinese sm1ms022_83ab14da:
 translate chinese sm1ms022_f8356483:
 
     # sy "Mmmmmm, oh Farmhand Jon... my asshole wants something in it."
-    sy "嗯……哦农场帮工乔恩…… 我的屁眼现在就想要点东西插进去。"
+    sy "嗯...哦农场帮工乔恩...我的屁眼现在就想要点东西插进去。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:476
 translate chinese sm1ms022_027ccfa7:
 
     # sy "Please... stuff my asshole with your cock?"
-    sy "求你了…… 把你的鸡巴插进来好吗？"
+    sy "求你了...把你的鸡巴插进来好吗？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:478
 translate chinese sm1ms022_d2cf78a9:
@@ -782,7 +782,7 @@ translate chinese sm1ms022_9d1b49aa:
 translate chinese sm1ms022_ea11ffea:
 
     # sy "Oh your cock fills me up soooooo nicely... it's stretching out my tight little asshole."
-    sy "哦你的鸡巴把我填得好--满啊…… 它正在一点点撑开我那紧致的小屁眼。"
+    sy "哦你的鸡巴把我填得好--满啊...它正在一点点撑开我那紧致的小屁眼。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:504
 translate chinese sm1ms022_86025bf5:
@@ -830,7 +830,7 @@ translate chinese sm1ms022_2e587348:
 translate chinese sm1ms022_6796c595:
 
     # sy "Ohhhh Gaaaawwwdddd, yessssss!"
-    sy "哦--我的天……啊啊啊！"
+    sy "哦--我的天...啊啊啊！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:525
 translate chinese sm1ms022_a98ad96a:
@@ -842,7 +842,7 @@ translate chinese sm1ms022_a98ad96a:
 translate chinese sm1ms022_8d52b511:
 
     # sy "Nppph, mppppphhhh, mmmmmmm!"
-    sy "嗯……唔唔唔，嗯--！"
+    sy "嗯...唔唔唔，嗯--！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:530
 translate chinese sm1ms022_cf47cfb3:
@@ -1082,7 +1082,7 @@ translate chinese sm1ms022_eb1e900b:
 translate chinese sm1ms022_5507beed:
 
     # sy "My goodness... I never... I never thought I could feel such a powerful orgasm... from getting my butt screwed!"
-    sy "我的天哪……我从没……从没想过因为屁股被干……能感受到这么强烈的高潮！"
+    sy "我的天哪...我从没...从没想过因为屁股被干...能感受到这么强烈的高潮！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:638
 translate chinese sm1ms022_32bd6ca8:
@@ -1136,7 +1136,7 @@ translate chinese sm1ms022_2fc3233c:
 translate chinese sm1ms022_46634ef8:
 
     # sy "Why don't you put your wonderful cock back in my dirty little hole, and you use that cucumber on my... pussy."
-    sy "你为什么不把你那美妙的鸡巴塞回我脏兮兮的小洞里，然后用那根黄瓜对付我的……小穴。"
+    sy "你为什么不把你那美妙的鸡巴塞回我脏兮兮的小洞里，然后用那根黄瓜对付我的...小穴。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:669
 translate chinese sm1ms022_02a6c1cb:
@@ -1232,7 +1232,7 @@ translate chinese sm1ms022_999bb174:
 translate chinese sm1ms022_51c9ff3a:
 
     # mc "Yes, ma'am!!!"
-    mc "好的，女士!!!"
+    mc "好的，夫人!!!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:714
 translate chinese sm1ms022_3728f99f:
@@ -1418,7 +1418,7 @@ translate chinese sm1ms022_799097d5:
 translate chinese sm1ms022_b4dc4dda:
 
     # sy "Oh, and I can feeeeeel your warm cum in my assssss... It feels sooooo good!"
-    sy "哦，我能感觉到你温热的精液在我屁股里面……这感觉实在--太--棒--了！"
+    sy "哦，我能感觉到你温热的精液在我屁股里面...这感觉实在--太--棒--了！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:780
 translate chinese sm1ms022_1b0df68e:
