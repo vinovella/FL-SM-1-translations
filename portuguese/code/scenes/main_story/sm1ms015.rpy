@@ -62,7 +62,7 @@ translate portuguese sm1ms015_047997aa:
 translate portuguese sm1ms015_42d68500:
 
     # mc "But they do a lot of specialized work, too. Right now, we're working on building a new website system for one of the local news companies."
-    mc "Mas eles também fazem bastante trabalho especializado. Agora estamos fazendo o sistema pra um site de um jornal local."
+    mc "Mas eles também fazem bastante trabalho especializado. Agora estamos fazendo o sistema de um site de um jornal local."
 
 # game/code/scenes/main_story/sm1ms015.rpy:43
 translate portuguese sm1ms015_19b2073c:
