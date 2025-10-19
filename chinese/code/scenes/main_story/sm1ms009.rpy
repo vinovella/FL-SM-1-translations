@@ -2808,11 +2808,11 @@ translate chinese strings:
 translate chinese sm1ms009_13c2aa71:
 
     # sy "Hello!"
-    sy "Hello!"
+    sy "喂！"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1316
 translate chinese sm1ms009_part_2_0561dc8d:
 
     # sy "Just wait until you see how I clean up your mess!"
-    sy "Just wait until you see how I clean up your mess!"
+    sy "等我把你这烂摊子收拾干净了，看你怎么说！"
 
