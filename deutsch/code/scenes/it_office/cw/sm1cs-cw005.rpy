@@ -248,7 +248,7 @@ translate deutsch sm1cs_cw005_pushy_menu_1f28d6f7:
 translate deutsch sm1cs_cw005_pushy_menu_0e0dad50:
 
     # cw "Well...{w} I'm sure you'll change you're tune once we're riding the waves on-"
-    cw "Nun...{w} Ich bin mir sicher, dass du deine Meinung ändern wirst, sobald wir auf den Wellen reiten...
+    cw "Nun...{w} Ich bin mir sicher, dass du deine Meinung ändern wirst, sobald wir auf den Wellen reiten..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:203
 translate deutsch sm1cs_cw005_jetski_92c12530:
