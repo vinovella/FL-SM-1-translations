@@ -208,12 +208,6 @@ translate portuguese q_inter_my_8_42bd829d:
     # mc "Wait, what?"
     mc "Wait, what?"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:138
-translate portuguese q_inter_my_8_4f6d487e:
-
-    # rd "Here you go."
-    rd "Here you go."
-
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:142
 translate portuguese q_inter_my_8_ddb4d089:
 

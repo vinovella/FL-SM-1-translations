@@ -208,12 +208,6 @@ translate turkish q_inter_my_8_42bd829d:
     # mc "Wait, what?"
     mc "Ne, pardon?"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:139
-translate turkish q_inter_my_8_4f6d487e:
-
-    # rd "Here you go."
-    rd "Buyurun."
-
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:143
 translate turkish q_inter_my_8_ddb4d089:
 

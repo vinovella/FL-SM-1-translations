@@ -208,12 +208,6 @@ translate spanish q_inter_my_8_42bd829d:
     # mc "Wait, what?"
     mc "Espera, ¿qué?"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:138
-translate spanish q_inter_my_8_4f6d487e:
-
-    # rd "Here you go."
-    rd "Aquí tienes."
-
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:142
 translate spanish q_inter_my_8_ddb4d089:
 
