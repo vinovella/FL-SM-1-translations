@@ -410,211 +410,211 @@ translate chinese sm1cs_mes005_cae9ffd6:
 translate chinese sm1cs_mes005_f77e0580:
 
     # mes "Woah!"
-    mes "Woah!"
+    mes "哇！"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:218
 translate chinese sm1cs_mes005_6ed5c19b:
 
     # kv "Hahaha!"
-    kv "Hahaha!"
+    kv "哈哈哈！"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:219
 translate chinese sm1cs_mes005_07523bcc:
 
     # kv "Oh the look on your face, [mcname]."
-    kv "Oh the look on your face, [mcname]."
+    kv "哦，你脸上的表情，[mcname]。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:224
 translate chinese sm1cs_mes005_038d3220:
 
     # mc "Jeez. You trying to give me a heart attack?"
-    mc "Jeez. You trying to give me a heart attack?"
+    mc "天哪。你想吓死我吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:228
 translate chinese sm1cs_mes005_805e5794:
 
     # kv "Course not."
-    kv "Course not."
+    kv "当然不是。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:229
 translate chinese sm1cs_mes005_32c10f50:
 
     # kv "Just keeping you on your toes."
-    kv "Just keeping you on your toes."
+    kv "只是让你保持警觉。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:235
 translate chinese sm1cs_mes005_b5cf54e6:
 
     # mc "Fun stuff, Kanya."
-    mc "Fun stuff, Kanya."
+    mc "真有趣，坎雅。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:236
 translate chinese sm1cs_mes005_4d17943c:
 
     # mc "But you know I'm going to have to get you back."
-    mc "But you know I'm going to have to get you back."
+    mc "但你知道我得报复回来。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:240
 translate chinese sm1cs_mes005_d7a77946:
 
     # kv "Haha.{w}Looking forward to it, [mcname]."
-    kv "Haha.{w}Looking forward to it, [mcname]."
+    kv "哈哈。{w}期待着呢，[mcname]。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:245
 translate chinese sm1cs_mes005_04f74f9a:
 
     # mc "Why do you even have a zebra mask out?"
-    mc "Why do you even have a zebra mask out?"
+    mc "你怎么会有斑马面具？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:248
 translate chinese sm1cs_mes005_80557770:
 
     # kv "Can't tell you."
-    kv "Can't tell you."
+    kv "不能告诉你。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:249
 translate chinese sm1cs_mes005_e0c3aab3:
 
     # kv "Photographer-client privilege."
-    kv "Photographer-client privilege."
+    kv "摄影师-客户保密特权。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:252
 translate chinese sm1cs_mes005_79af8fca:
 
     # mc "Oh like you don't tell people about what 'we' do."
-    mc "Oh like you don't tell people about what 'we' do."
+    mc "哦，好像你不会告诉别人"我们"在做什么似的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:256
 translate chinese sm1cs_mes005_e056ca63:
 
     # kv "I never said that.{w} You know I like to make people blush."
-    kv "I never said that.{w} You know I like to make people blush."
+    kv "我可没这么说。{w}你知道我喜欢让人脸红。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:257
 translate chinese sm1cs_mes005_5f97cddb:
 
     # kv "Reveal and play with their hidden desires gets me all tingly..."
-    kv "Reveal and play with their hidden desires gets me all tingly..."
+    kv "揭露和玩弄他们隐藏的欲望让我全身发麻..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:260
 translate chinese sm1cs_mes005_f5197599:
 
     # kv "Speaking of clients. Who's your friend, [mcname]?"
-    kv "Speaking of clients. Who's your friend, [mcname]?"
+    kv "说到客户。你的朋友是谁，[mcname]？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:263
 translate chinese sm1cs_mes005_76e4f0b4:
 
     # mes "Hello.{w} I am Min Eun-Soo."
-    mes "Hello.{w} I am Min Eun-Soo."
+    mes "你好。{w}我是闵恩秀。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:266
 translate chinese sm1cs_mes005_4b78fb44:
 
     # mes "[mcname] is one of my best friends."
-    mes "[mcname] is one of my best friends."
+    mes "[mcname]是我最好的朋友之一。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:269
 translate chinese sm1cs_mes005_1dcea84a:
 
     # kv "Great."
-    kv "Great."
+    kv "太好了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:270
 translate chinese sm1cs_mes005_87fd7419:
 
     # kv "Any friend of [mcname]'s is a friend of mine."
-    kv "Any friend of [mcname]'s is a friend of mine."
+    kv "[mcname]的朋友就是我的朋友。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:271
 translate chinese sm1cs_mes005_fe02c293:
 
     # kv "Kanya Vu. A pleasure."
-    kv "Kanya Vu. A pleasure."
+    kv "坎雅·武。很高兴见到你。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:277
 translate chinese sm1cs_mes005_4ced05f7:
 
     # kv "So.. uh... you know about..."
-    kv "So.. uh... you know about..."
+    kv "那么...呃...你知道..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:278
 translate chinese sm1cs_mes005_b6052949:
 
     # kv "The stuff?"
-    kv "The stuff?"
+    kv "那些事情？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:281
 translate chinese sm1cs_mes005_358b9630:
 
     # mc "Haha.{w} Yes, she knows about the studio."
-    mc "Haha.{w} Yes, she knows about the studio."
+    mc "哈哈。{w}是的，她知道工作室的事。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:282
 translate chinese sm1cs_mes005_9242eed2:
 
     # mc "I wanted to bring Min around and show her what you do here so she could meet the number one camera girl in the city."
-    mc "I wanted to bring Min around and show her what you do here so she could meet the number one camera girl in the city."
+    mc "我想带明来看看你在这里做什么，让她见见这座城市的头号摄影师。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:285
 translate chinese sm1cs_mes005_2c0b481a:
 
     # kv "Oh phew."
-    kv "Oh phew."
+    kv "哦，呼。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:286
 translate chinese sm1cs_mes005_239f4d4d:
 
     # kv "I was trying to figure out what my kink filter should be set to."
-    kv "I was trying to figure out what my kink filter should be set to."
+    kv "我正在想我的性癖过滤器应该设成什么程度。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:289
 translate chinese sm1cs_mes005_f3f8c25f:
 
     # mes "*giggles* You can wave your flag freely, Kanya. No need to censor yourself on my account."
-    mes "*giggles* You can wave your flag freely, Kanya. No need to censor yourself on my account."
+    mes "*咯咯笑* 你可以自由展示你的旗帜，坎雅。不用因为我而审查自己。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:292
 translate chinese sm1cs_mes005_f56ec975:
 
     # kv "Thanks Min. And by the way, I'm probably the best camera girl in [mcname]'s mind because I'm the only one he knows."
-    kv "Thanks Min. And by the way, I'm probably the best camera girl in [mcname]'s mind because I'm the only one he knows."
+    kv "谢谢，明。顺便说一下，我可能是[mcname]心目中最好的摄影师，因为我是他认识的唯一一个。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:296
 translate chinese sm1cs_mes005_8119ff39:
 
     # mes "Haha."
-    mes "Haha."
+    mes "哈哈。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:299
 translate chinese sm1cs_mes005_3a0ac2f8:
 
     # mc "Hey. There was no need to look elsewhere after I met you, Kanya."
-    mc "Hey. There was no need to look elsewhere after I met you, Kanya."
+    mc "嘿。遇到你之后，我就不需要再找别人了，坎雅。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:302
 translate chinese sm1cs_mes005_1912e03a:
 
     # kv "Mmm. Always the charmer."
-    kv "Mmm. Always the charmer."
+    kv "嗯。总是这么会说话。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:305
 translate chinese sm1cs_mes005_541f6366:
 
     # kv "So, Min, you thinking of joining the crew?"
-    kv "So, Min, you thinking of joining the crew?"
+    kv "那么，明，你想加入团队吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:306
 translate chinese sm1cs_mes005_62570f5a:
 
     # kv "We're going to need all the sexy people we can get to make a porn studio to stand the test of time."
-    kv "We're going to need all the sexy people we can get to make a porn studio to stand the test of time."
+    kv "我们需要所有能找到的性感的人来打造一个经得起时间考验的色情工作室。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:309
 translate chinese sm1cs_mes005_7d189cd2:
 
     # mes "Oh... I don't think that's an option, unfortunately."
-    mes "Oh... I don't think that's an option, unfortunately."
+    mes "哦...不幸的是，我觉得这不太可能。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:312
 translate chinese sm1cs_mes005_4f44c6d9:
