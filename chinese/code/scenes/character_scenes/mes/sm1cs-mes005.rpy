@@ -824,169 +824,169 @@ translate chinese sm1cs_mes005_eadaae7c:
 translate chinese sm1cs_mes005_0542ec99:
 
     # kv "And the only way I can keep my skills sharp is using what I know to capture the essence of new subjects."
-    kv "And the only way I can keep my skills sharp is using what I know to capture the essence of new subjects."
+    kv "而且我保持技艺精湛的唯一方法，就是用我所知道的来捕捉新对象的精髓。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:402
 translate chinese sm1cs_mes005_740b41c7:
 
     # kv "If you'll allow me."
-    kv "If you'll allow me."
+    kv "如果你允许的话。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:405
 translate chinese sm1cs_mes005_10c6d7e3:
 
     # mes "Uh..."
-    mes "Uh..."
+    mes "呃..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:406
 translate chinese sm1cs_mes005_a45dda56:
 
     # mes "Sure. Why not?{w} It will be good for a laugh."
-    mes "Sure. Why not?{w} It will be good for a laugh."
+    mes "当然。为什么不呢？{w}会很有趣的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:411
 translate chinese sm1cs_mes005_c5b2692b:
 
     # kv "Follow me. We'll find something nice for you."
-    kv "Follow me. We'll find something nice for you."
+    kv "跟我来。我们会给你找点好东西。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:414
 translate chinese sm1cs_mes005_5c1f233c:
 
     # mes "Lead the way."
-    mes "Lead the way."
+    mes "带路吧。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:419
 translate chinese sm1cs_mes005_c194968f:
 
     # mct "Heh. Seems like the old Min is back. She was always taking on whatever challenges came in front of her."
-    mct "Heh. Seems like the old Min is back. She was always taking on whatever challenges came in front of her."
+    mct "嘿。看来以前的明回来了。她总是迎接摆在面前的挑战。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:420
 translate chinese sm1cs_mes005_0f2d8e92:
 
     # mct "I'm glad she's getting along so well with Kanya."
-    mct "I'm glad she's getting along so well with Kanya."
+    mct "我很高兴她和坎雅相处得这么好。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:424
 translate chinese sm1cs_mes005_8e204029:
 
     # mct "That means they'd work well together if Min ever changes her mind about joining the team."
-    mct "That means they'd work well together if Min ever changes her mind about joining the team."
+    mct "这意味着如果明改变主意加入团队，她们会合作得很好。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:425
 translate chinese sm1cs_mes005_032c70a4:
 
     # mct "But even if that doesn't happen, it's all good.{w} I don't want to push Min into something she's not prepared for."
-    mct "But even if that doesn't happen, it's all good.{w} I don't want to push Min into something she's not prepared for."
+    mct "但即使那不会发生，也没关系。{w}我不想把明推进她还没准备好的事情。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:430
 translate chinese sm1cs_mes005_ad7bfc2c:
 
     # mes "So...{w} How do I look?"
-    mes "So...{w} How do I look?"
+    mes "那么...{w}我看起来怎么样？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:432
 translate chinese sm1cs_mes005_e1365cc9:
 
     # mc "Oh wow."
-    mc "Oh wow."
+    mc "哦，哇。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:433
 translate chinese sm1cs_mes005_0d5df970:
 
     # mc "You look great, Min."
-    mc "You look great, Min."
+    mc "你看起来棒极了，明。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:435
 translate chinese sm1cs_mes005_439a444a:
 
     # mes "Haha. You have to say that, [mcname]."
-    mes "Haha. You have to say that, [mcname]."
+    mes "哈哈。你必须这么说，[mcname]。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:438
 translate chinese sm1cs_mes005_28db3c43:
 
     # mc "No really. I wish we were going to a Fetish Locator party after this."
-    mc "No really. I wish we were going to a Fetish Locator party after this."
+    mc "不，真的。我希望我们之后能去参加性趣探测器派对。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:440
 translate chinese sm1cs_mes005_66d67cb2:
 
     # mes "Well, then you'll enjoy this ."
-    mes "Well, then you'll enjoy this ."
+    mes "嗯，那你会喜欢这个的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:449
 translate chinese sm1cs_mes005_0905cec0:
 
     # kv "Already, let's keep things nice and loose."
-    kv "Already, let's keep things nice and loose."
+    kv "好了，让我们保持轻松自然。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:452
 translate chinese sm1cs_mes005_a59da392:
 
     # kv "That's a good start."
-    kv "That's a good start."
+    kv "这是个好开始。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:455
 translate chinese sm1cs_mes005_54df6455:
 
     # kv "But try to drop your guard a little. Let the inner animal out."
-    kv "But try to drop your guard a little. Let the inner animal out."
+    kv "但试着放松一点警惕。释放内心的野性。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:458
 translate chinese sm1cs_mes005_b00c5cc6:
 
     # mes "That's uh..."
-    mes "That's uh..."
+    mes "那个呃..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:459
 translate chinese sm1cs_mes005_8e338342:
 
     # mes "I'll do my best."
-    mes "I'll do my best."
+    mes "我会尽力的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:467
 translate chinese sm1cs_mes005_bfab41ae:
 
     # mc "Come on, Min. You got this."
-    mc "Come on, Min. You got this."
+    mc "来吧，明。你可以的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:473
 translate chinese sm1cs_mes005_84f5c7d7:
 
     # mc "Shake that cute bootie."
-    mc "Shake that cute bootie."
+    mc "摇摇那可爱的小屁股。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:474
 translate chinese sm1cs_mes005_38e38f41:
 
     # mc "It's just us. No one is judging you."
-    mc "It's just us. No one is judging you."
+    mc "只有我们。没人评判你。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:506
 translate chinese sm1cs_mes005_5356ace8:
 
     # mc "Hey, Kanya, what if you stopped down a bit? To, maybe, a 5.6 f-stop? I feel like more of her body should be in focus."
-    mc "Hey, Kanya, what if you stopped down a bit? To, maybe, a 5.6 f-stop? I feel like more of her body should be in focus."
+    mc "嘿，坎雅，如果你缩小一点光圈怎么样？可能调到5.6光圈？我觉得她的身体应该有更多部分对焦。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:509
 translate chinese sm1cs_mes005_54362f75:
 
     # kv "Good thinking, [mcname]."
-    kv "Good thinking, [mcname]."
+    kv "想得好，[mcname]。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:512
 translate chinese sm1cs_mes005_25e7a433:
 
     # kv "Oh fuck yeah, [mcname]. Good tip."
-    kv "Oh fuck yeah, [mcname]. Good tip."
+    kv "哦，太棒了，[mcname]。好建议。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:513
 translate chinese sm1cs_mes005_722de9bd:
 
     # kv "That really did the trick."
-    kv "That really did the trick."
+    kv "真的起作用了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:515
 translate chinese sm1cs_mes005_85bfecbf:
@@ -998,7 +998,7 @@ translate chinese sm1cs_mes005_85bfecbf:
 translate chinese sm1cs_mes005_58ce69f5:
 
     # mct "Nice."
-    mct "Nice."
+    mct "不错。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:519
 translate chinese sm1cs_mes005_85bfecbf_1:
@@ -1010,283 +1010,283 @@ translate chinese sm1cs_mes005_85bfecbf_1:
 translate chinese sm1cs_mes005_568af612:
 
     # kv "And that's all she wrote."
-    kv "And that's all she wrote."
+    kv "就这样了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:535
 translate chinese sm1cs_mes005_5d580c57:
 
     # kv "Excellent work, Min."
-    kv "Excellent work, Min."
+    kv "干得好，明。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:539
 translate chinese sm1cs_mes005_3caef39e_1:
 
     # mes "Really?"
-    mes "Really?"
+    mes "真的吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:541
 translate chinese sm1cs_mes005_986655c3:
 
     # kv "Absolutely. You're a natural."
-    kv "Absolutely. You're a natural."
+    kv "绝对的。你是天生的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:542
 translate chinese sm1cs_mes005_40efa64d:
 
     # mes "You're too kind. I think in my case, half the success was audience participation."
-    mes "You're too kind. I think in my case, half the success was audience participation."
+    mes "你太客气了。我觉得在我的情况下，一半的成功来自观众的参与。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:543
 translate chinese sm1cs_mes005_fddf66ac:
 
     # mes "Either way, it was a blast."
-    mes "Either way, it was a blast."
+    mes "不管怎样，都很棒。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:546
 translate chinese sm1cs_mes005_54e9513f:
 
     # mes "I'm going to go get changed."
-    mes "I'm going to go get changed."
+    mes "我要去换衣服了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:549
 translate chinese sm1cs_mes005_364d4630:
 
     # mc "Yup. Changed. Good idea."
-    mc "Yup. Changed. Good idea."
+    mc "是的。换衣服。好主意。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:557
 translate chinese sm1cs_mes005_db01c28f:
 
     # kv "*humming*"
-    kv "*humming*"
+    kv "*哼唱*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:560
 translate chinese sm1cs_mes005_191559e1:
 
     # mc "What's up?"
-    mc "What's up?"
+    mc "怎么了？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:562
 translate chinese sm1cs_mes005_8b7acfa1:
 
     # kv "Oh nothing. Just wondering when you two are going to bang like animals on my floor."
-    kv "Oh nothing. Just wondering when you two are going to bang like animals on my floor."
+    kv "哦，没什么。只是想知道你们俩什么时候会像动物一样在我的地板上做爱。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:566
 translate chinese sm1cs_mes005_2fb3b0ca:
 
     # mc "Haha. We're not that wild and uncontrollable."
-    mc "Haha. We're not that wild and uncontrollable."
+    mc "哈哈。我们没那么狂野和失控。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:569
 translate chinese sm1cs_mes005_1651c997:
 
     # kv "Pssh. I think you two have it bad for each other."
-    kv "Pssh. I think you two have it bad for each other."
+    kv "噗。我觉得你们俩相互很着迷。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:572
 translate chinese sm1cs_mes005_422bd540:
 
     # mc "I mean, it's not like we haven't done stuff."
-    mc "I mean, it's not like we haven't done stuff."
+    mc "我的意思是，又不是我们没做过什么。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:573
 translate chinese sm1cs_mes005_38d8ab5c:
 
     # mc "But you think it's deeper?"
-    mc "But you think it's deeper?"
+    mc "但你觉得更深层？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:576
 translate chinese sm1cs_mes005_0b0b044f:
 
     # kv "To quote 'half the success was audience participation'."
-    kv "To quote 'half the success was audience participation'."
+    kv "引用一下"一半的成功来自观众的参与"。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:577
 translate chinese sm1cs_mes005_976c1d0a:
 
     # kv "I think she got to really step into her confident spot when she knew you were there, watching her."
-    kv "I think she got to really step into her confident spot when she knew you were there, watching her."
+    kv "我觉得当她知道你在那里看着她时，她真的进入了自信的状态。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:578
 translate chinese sm1cs_mes005_f1bfd198:
 
     # kv "Enjoying her..."
-    kv "Enjoying her..."
+    kv "欣赏她..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:582
 translate chinese sm1cs_mes005_307259d6:
 
     # mc "I appreciate your advice, Dr. Kanya."
-    mc "I appreciate your advice, Dr. Kanya."
+    mc "我很感激你的建议，坎雅博士。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:585
 translate chinese sm1cs_mes005_ec191cf9:
 
     # kv "*giggles* Anytime."
-    kv "*giggles* Anytime."
+    kv "*咯咯笑* 随时。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:592
 translate chinese sm1cs_mes005_15503ce6:
 
     # mes "Alright."
-    mes "Alright."
+    mes "好吧。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:593
 translate chinese sm1cs_mes005_0fed9142:
 
     # mes "I hope there were some salvageable pictures in the lot, Kanya."
-    mes "I hope there were some salvageable pictures in the lot, Kanya."
+    mes "我希望这一批里有些能用的照片，坎雅。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:596
 translate chinese sm1cs_mes005_52efac23:
 
     # kv "Oh, you don't have to worry about that, Min. By the time I'm done with them, they'll be exquisite."
-    kv "Oh, you don't have to worry about that, Min. By the time I'm done with them, they'll be exquisite."
+    kv "哦，你不用担心，明。等我处理完它们，它们会非常精美。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:598
 translate chinese sm1cs_mes005_69894ff2:
 
     # mes "*laughs* Thank you."
-    mes "*laughs* Thank you."
+    mes "*笑* 谢谢。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:601
 translate chinese sm1cs_mes005_1403895e:
 
     # kv "I'll send them along to [mcname] once they're all ready. Or I'm sure I can share them with you if we all end up at the studio one day."
-    kv "I'll send them along to [mcname] once they're all ready. Or I'm sure I can share them with you if we all end up at the studio one day."
+    kv "一旦它们都准备好了，我会发给[mcname]。或者如果我们某天都在工作室，我肯定可以跟你分享。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:604
 translate chinese sm1cs_mes005_b82a5cac:
 
     # mes "Sure. Stranger things have happened."
-    mes "Sure. Stranger things have happened."
+    mes "当然。更奇怪的事都发生过。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:605
 translate chinese sm1cs_mes005_2091191e:
 
     # mes "Thanks again for the photoshoot."
-    mes "Thanks again for the photoshoot."
+    mes "再次感谢拍摄。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:607
 translate chinese sm1cs_mes005_6f7b6f30:
 
     # kv "My pleasure."
-    kv "My pleasure."
+    kv "不客气。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:610
 translate chinese sm1cs_mes005_41ac8762:
 
     # mes "I should get going back home."
-    mes "I should get going back home."
+    mes "我该回家了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:613
 translate chinese sm1cs_mes005_b20f9e67:
 
     # mc "I'll walk you back."
-    mc "I'll walk you back."
+    mc "我陪你回去。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:615
 translate chinese sm1cs_mes005_ec2f9469:
 
     # mes "It's okay, I can handle it."
-    mes "It's okay, I can handle it."
+    mes "没关系，我能应付。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:620
 translate chinese sm1cs_mes005_abe82b02:
 
     # mes "This was a lot of fun. I've never been photographed like that before, [mcname]."
-    mes "This was a lot of fun. I've never been photographed like that before, [mcname]."
+    mes "这真的很有趣。我从来没有这样被拍过，[mcname]。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:623
 translate chinese sm1cs_mes005_5d6e5860:
 
     # mc "Kanya's alright, right?"
-    mc "Kanya's alright, right?"
+    mc "坎雅不错吧？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:626
 translate chinese sm1cs_mes005_54b85b32:
 
     # mes "Oh yes. I can see why you wanted to hire her."
-    mes "Oh yes. I can see why you wanted to hire her."
+    mes "哦，是的。我能理解你为什么想雇她。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:627
 translate chinese sm1cs_mes005_9a885e4a:
 
     # mes "She makes it seem so easy."
-    mes "She makes it seem so easy."
+    mes "她让一切看起来很轻松。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:628
 translate chinese sm1cs_mes005_a788c391:
 
     # mes "It makes it...{w} seductive."
-    mes "It makes it...{w} seductive."
+    mes "这让它...{w}很诱人。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:629
 translate chinese sm1cs_mes005_1bfa8b4f:
 
     # mes "Like stepping into a warm pool."
-    mes "Like stepping into a warm pool."
+    mes "就像踏入温暖的泳池。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:630
 translate chinese sm1cs_mes005_3004f16b:
 
     # mes "She'll be an asset to your team."
-    mes "She'll be an asset to your team."
+    mes "她会是你团队的资产。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:633
 translate chinese sm1cs_mes005_084beede:
 
     # mc "She and other people I know..."
-    mc "She and other people I know..."
+    mc "她和我认识的其他人..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:643
 translate chinese sm1cs_mes005_dadb5b86:
 
     # mes "Mmm."
-    mes "Mmm."
+    mes "嗯。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:649
 translate chinese sm1cs_mes005_55b55d4f:
 
     # mes "I am sure you have more than enough assets for what you need."
-    mes "I am sure you have more than enough assets for what you need."
+    mes "我相信你拥有的资产已经足够你需要的了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:650
 translate chinese sm1cs_mes005_9f9f36d2:
 
     # mes "Good night, [mcname]."
-    mes "Good night, [mcname]."
+    mes "晚安，[mcname]。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:654
 translate chinese sm1cs_mes005_1e3d0547:
 
     # mct "Damn. Sounds like she's pretty set on not joining the studio."
-    mct "Damn. Sounds like she's pretty set on not joining the studio."
+    mct "该死。听起来她已经决定不加入工作室了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:655
 translate chinese sm1cs_mes005_2bee7801:
 
     # mct "But that's alright. It doesn't change things between us."
-    mct "But that's alright. It doesn't change things between us."
+    mct "但没关系。这不会改变我们之间的关系。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:659
 translate chinese sm1cs_mes005_9435cfd0:
 
     # mct "That's the most important thing."
-    mct "That's the most important thing."
+    mct "这才是最重要的。"
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:220
     old "Trying to give me a heart attack?"
-    new "Trying to give me a heart attack?"
+    new "想吓死我吗？"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:220
     old "Oh, I'm going to have to get you for that..."
-    new "Oh, I'm going to have to get you for that..."
+    new "哦，我得为这个报复你..."
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:461
     old "Support Min"
-    new "Support Min"
+    new "支持明"
 
