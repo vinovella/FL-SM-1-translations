@@ -44,7 +44,7 @@ translate chinese sm1cs_mes004_b31d90d4:
 translate chinese sm1cs_mes004_f62e2872:
 
     # mes "I-..."
-    mes "我--..."
+    mes "我——..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:38
 translate chinese sm1cs_mes004_ae4050af:
