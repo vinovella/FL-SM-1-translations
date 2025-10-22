@@ -50,7 +50,7 @@ translate chinese sm1cs_mes005_93844fa3:
 translate chinese sm1cs_mes005_3caef39e:
 
     # mes "Really?"
-    mes "Really?"
+    mes "真的吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:38
 translate chinese sm1cs_mes005_cf1adef2:
@@ -62,349 +62,349 @@ translate chinese sm1cs_mes005_cf1adef2:
 translate chinese sm1cs_mes005_e254af4e:
 
     # mes "Give me the juicy, naughty details."
-    mes "Give me the juicy, naughty details."
+    mes "给我讲讲那些刺激、淘气的细节。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:44
 translate chinese sm1cs_mes005_8d889af6:
 
     # mc "Stacy and I did the scene, with this nice red wig.{w} And a lot of anal play."
-    mc "Stacy and I did the scene, with this nice red wig.{w} And a lot of anal play."
+    mc "史黛西和我拍了这场戏，用了个漂亮的红色假发。{w}还有很多后入戏。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:47
 translate chinese sm1cs_mes005_28167e02:
 
     # mes "I love the sound of that."
-    mes "I love the sound of that."
+    mes "听起来不错。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:48
 translate chinese sm1cs_mes005_58118644:
 
     # mes "Will the client be happy?"
-    mes "Will the client be happy?"
+    mes "客户会满意吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:51
 translate chinese sm1cs_mes005_1d396ee6:
 
     # mc "We'll know after post production."
-    mc "We'll know after post production."
+    mc "后期制作完成后就知道了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:57
 translate chinese sm1cs_mes005_95e94856:
 
     # mc "Not too bad. We're gearing up for the second film from our first client."
-    mc "Not too bad. We're gearing up for the second film from our first client."
+    mc "还不错。我们正在为第一位客户准备第二部影片。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:60
 translate chinese sm1cs_mes005_a58770f1:
 
     # mes "Impressive. So, a repeat customer. Very good."
-    mes "Impressive. So, a repeat customer. Very good."
+    mes "不错啊。这么说，回头客了。很好。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:63
 translate chinese sm1cs_mes005_2467ae6d:
 
     # mc "Yup. Hopefully the first of many."
-    mc "Yup. Hopefully the first of many."
+    mc "是啊。希望这只是第一个。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:65
 translate chinese sm1cs_mes005_b9231d75:
 
     # mc "Same old same old."
-    mc "Same old same old."
+    mc "老样子。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:66
 translate chinese sm1cs_mes005_bfc8ddbf:
 
     # mc "I'm starting to get excited for our next piece."
-    mc "I'm starting to get excited for our next piece."
+    mc "我开始对我们的下一个作品感到兴奋了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:67
 translate chinese sm1cs_mes005_fde70283:
 
     # mc "Whenever we start that one."
-    mc "Whenever we start that one."
+    mc "不管我们什么时候开始。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:71
 translate chinese sm1cs_mes005_e1597dda:
 
     # mes "So when you and Stacy are acting..."
-    mes "So when you and Stacy are acting..."
+    mes "那么当你和史黛西在表演时..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:72
 translate chinese sm1cs_mes005_18eafacf:
 
     # mes "And really in the heat of things..."
-    mes "And really in the heat of things..."
+    mes "而且真的进入状态时..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:73
 translate chinese sm1cs_mes005_18983e8d:
 
     # mes "Does one of you hold the camera? Or do you set it up on a tripod and just move it around a lot?"
-    mes "Does one of you hold the camera? Or do you set it up on a tripod and just move it around a lot?"
+    mes "你们当中有人拿着相机吗？还是把它架在三脚架上，经常移动它？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:76
 translate chinese sm1cs_mes005_2550a194:
 
     # mc "Oh no, we found someone for that."
-    mc "Oh no, we found someone for that."
+    mc "哦不，我们找到人专门负责这个了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:79
 translate chinese sm1cs_mes005_3b548064:
 
     # mes "Let me guess. You found a college student who was tired of doing unpaid internships?"
-    mes "Let me guess. You found a college student who was tired of doing unpaid internships?"
+    mes "让我猜猜。你找到了一个厌倦了无薪实习的大学生？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:82
 translate chinese sm1cs_mes005_86a9dd9a:
 
     # mc "No, but that is still the backup plan."
-    mc "No, but that is still the backup plan."
+    mc "不是，但那仍然是备用计划。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:83
 translate chinese sm1cs_mes005_b044e42e:
 
     # mc "But really, we found someone. A real professional."
-    mc "But really, we found someone. A real professional."
+    mc "但实际上，我们找到了人。一个真正的专业人士。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:84
 translate chinese sm1cs_mes005_e008c99e:
 
     # mc "Her name is Kanya, she's an up-and-coming photographer, but her style is great and she's worked extremely well with us so far."
-    mc "Her name is Kanya, she's an up-and-coming photographer, but her style is great and she's worked extremely well with us so far."
+    mc "她叫坎雅，是一位崭露头角的摄影师，她的风格很棒，到目前为止和我们合作得非常好。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:87
 translate chinese sm1cs_mes005_b1741818:
 
     # mes "Kanya. Was she part of the Fetish Locator parties at all?"
-    mes "Kanya. Was she part of the Fetish Locator parties at all?"
+    mes "坎雅。她参加过性趣探测器的派对吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:90
 translate chinese sm1cs_mes005_73f8d1ed:
 
     # mc "I don't think so. But she's certainly kink-positive and takes some real pride in her work."
-    mc "I don't think so. But she's certainly kink-positive and takes some real pride in her work."
+    mc "我觉得没有。但她肯定接受性癖，而且对自己的工作很自豪。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:93
 translate chinese sm1cs_mes005_77b23388:
 
     # mes "Hahaha."
-    mes "Hahaha."
+    mes "哈哈哈。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:96
 translate chinese sm1cs_mes005_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "怎么了？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:99
 translate chinese sm1cs_mes005_9a9a7a77:
 
     # mes "Already got your pen in the company ink, [mcname]?"
-    mes "Already got your pen in the company ink, [mcname]?"
+    mes "已经搞办公室恋情了，[mcname]？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:103
 translate chinese sm1cs_mes005_7fe4ddd8:
 
     # mc "Ah. Heh heh."
-    mc "Ah. Heh heh."
+    mc "啊。嘿嘿。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:104
 translate chinese sm1cs_mes005_c14667ce:
 
     # mc "Well Kanya and I just work {i}really{/i} well together."
-    mc "Well Kanya and I just work {i}really{/i} well together."
+    mc "坎雅和我合作{i}非常{/i}融洽。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:107
 translate chinese sm1cs_mes005_9de6796b:
 
     # mes "I'll bet."
-    mes "I'll bet."
+    mes "我相信。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:110
 translate chinese sm1cs_mes005_5858a4ba:
 
     # mc "You should meet her."
-    mc "You should meet her."
+    mc "你应该见见她。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:113
 translate chinese sm1cs_mes005_6341b83f:
 
     # mes "Huh?"
-    mes "Huh?"
+    mes "嗯？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:116
 translate chinese sm1cs_mes005_6ba11fe9:
 
     # mc "Yeah. Get to know the crew more and all that."
-    mc "Yeah. Get to know the crew more and all that."
+    mc "是啊。多了解一下团队什么的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:117
 translate chinese sm1cs_mes005_c8300e5b:
 
     # mc "Maybe one day you'll want a spot on the team for yourself."
-    mc "Maybe one day you'll want a spot on the team for yourself."
+    mc "也许有一天你也想在团队里占个位置。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:118
 translate chinese sm1cs_mes005_257b208b:
 
     # mc "If you already knew everyone, you'd probably just slide right in."
-    mc "If you already knew everyone, you'd probably just slide right in."
+    mc "如果你已经认识所有人，你可能就能直接融入进来。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:121
 translate chinese sm1cs_mes005_e382f503:
 
     # mes "That sounds fun, but-"
-    mes "That sounds fun, but-"
+    mes "听起来很有趣，但是--"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:122
 translate chinese sm1cs_mes005_f165dc50:
 
     # mes "It's kind of late. I don't want to bug anyone."
-    mes "It's kind of late. I don't want to bug anyone."
+    mes "有点晚了。我不想打扰任何人。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:125
 translate chinese sm1cs_mes005_db3718a0:
 
     # mc "What bugging? It's just a simple meet and greet."
-    mc "What bugging? It's just a simple meet and greet."
+    mc "什么打扰？只是简单见个面打个招呼。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:126
 translate chinese sm1cs_mes005_6c33d82a:
 
     # mc "I can text her to see if she's around."
-    mc "I can text her to see if she's around."
+    mc "我可以发短信问问她在不在。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:127
 translate chinese sm1cs_mes005_e97bbc06:
 
     # mc "Unless you prefer to just hang out here drinking for the evening."
-    mc "Unless you prefer to just hang out here drinking for the evening."
+    mc "除非你更喜欢就在这儿喝一晚上。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:131
 translate chinese sm1cs_mes005_c594cf28:
 
     # mes "Grrr."
-    mes "Grrr."
+    mes "呃。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:132
 translate chinese sm1cs_mes005_460e7639:
 
     # mes "When did you end up being the logical one?"
-    mes "When did you end up being the logical one?"
+    mes "你什么时候变得这么有逻辑了？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:135
 translate chinese sm1cs_mes005_381313f6:
 
     # mc "Haha, I'm sure it's a fleeting thing. {w}So?"
-    mc "Haha, I'm sure it's a fleeting thing. {w}So?"
+    mc "哈哈，我肯定这只是暂时的。{w}所以呢？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:139
 translate chinese sm1cs_mes005_b510379d:
 
     # mes "Sure. You can text her."
-    mes "Sure. You can text her."
+    mes "好啊。你可以给她发短信。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:143
 translate chinese sm1cs_mes005_126a3be6:
 
     # mes "So long as she understands there is no pressure for her to meet me."
-    mes "So long as she understands there is no pressure for her to meet me."
+    mes "只要她明白见我没有压力就行。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:145
 translate chinese sm1cs_mes005_117645cd:
 
     # mc "She's already replied."
-    mc "She's already replied."
+    mc "她已经回复了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:148
 translate chinese sm1cs_mes005_e669e732:
 
     # mes "She's already replied?"
-    mes "She's already replied?"
+    mes "她已经回复了？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:152
 translate chinese sm1cs_mes005_1da09c2a:
 
     # mc "Hup. She's that helpful."
-    mc "Hup. She's that helpful."
+    mc "是啊。她就是那么乐于助人。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:155
 translate chinese sm1cs_mes005_e1f4ad7b:
 
     # mes "Helpful, helpful girl, I see."
-    mes "Helpful, helpful girl, I see."
+    mes "乐于助人的女孩，我明白了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:159
 translate chinese sm1cs_mes005_221c7c0b:
 
     # mc "Come on. She says she's finishing up a session."
-    mc "Come on. She says she's finishing up a session."
+    mc "走吧。她说她正在结束一个拍摄。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:160
 translate chinese sm1cs_mes005_19a94ea1:
 
     # mc "Pay your bill and let's go meet Kanya"
-    mc "Pay your bill and let's go meet Kanya"
+    mc "付账吧，我们去见坎雅"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:163
 translate chinese sm1cs_mes005_90378096:
 
     # mes "*unenthusiastically* Yay..."
-    mes "*unenthusiastically* Yay..."
+    mes "*无精打采地* 耶..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:167
 translate chinese sm1cs_mes005_d1a3c0fe:
 
     # mc "Come on.{w} It will be fun."
-    mc "Come on.{w} It will be fun."
+    mc "来吧。{w}会很有趣的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:177
 translate chinese sm1cs_mes005_fdd311e2:
 
     # mc "Kanya?"
-    mc "Kanya?"
+    mc "坎雅？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:180
 translate chinese sm1cs_mes005_b3c39196:
 
     # mes "Maybe she went home."
-    mes "Maybe she went home."
+    mes "也许她回家了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:182
 translate chinese sm1cs_mes005_76429638:
 
     # mc "And didn't lock up? No way."
-    mc "And didn't lock up? No way."
+    mc "没锁门？不可能。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:195
 translate chinese sm1cs_mes005_cd60b427:
 
     # mc "Anything?"
-    mc "Anything?"
+    mc "有什么发现吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:197
 translate chinese sm1cs_mes005_bac456a8:
 
     # mes "Nope?"
-    mes "Nope?"
+    mes "没有？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:204
 translate chinese sm1cs_mes005_1de6cf58:
 
     # mc "Ah. Found her."
-    mc "Ah. Found her."
+    mc "啊。找到她了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:208
 translate chinese sm1cs_mes005_8fc458e6:
 
     # mc "Hey Kanya-oh my god!"
-    mc "Hey Kanya-oh my god!"
+    mc "嘿，坎雅--天哪！"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:212
 translate chinese sm1cs_mes005_cae9ffd6:
 
     # mc "Dah!"
-    mc "Dah!"
+    mc "啊！"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:215
 translate chinese sm1cs_mes005_f77e0580:
