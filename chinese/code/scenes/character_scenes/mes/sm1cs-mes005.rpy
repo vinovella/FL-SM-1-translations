@@ -68,7 +68,7 @@ translate chinese sm1cs_mes005_e254af4e:
 translate chinese sm1cs_mes005_8d889af6:
 
     # mc "Stacy and I did the scene, with this nice red wig.{w} And a lot of anal play."
-    mc "史黛西和我拍了这场戏，用了个漂亮的红色假发。{w}还有很多后入戏。"
+    mc "史黛西和我拍了这场戏，用了个漂亮的红色假发。{w}还有很多肛门玩法。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:47
 translate chinese sm1cs_mes005_28167e02:
