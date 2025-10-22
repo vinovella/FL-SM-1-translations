@@ -644,7 +644,7 @@ translate chinese sm1cs_mes005_4339a8e0:
 translate chinese sm1cs_mes005_292a3ee7:
 
     # kv "I get that. But it's not like hiding [mcname]'s sausage is not the only job there is."
-    kv "我理解。但不是只有藏[mcname]的香肠这一种工作。"
+    kv "我理解。但不是只有和[mcname]拍床戏这一种工作。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:321
 translate chinese sm1cs_mes005_d6821b9e:
