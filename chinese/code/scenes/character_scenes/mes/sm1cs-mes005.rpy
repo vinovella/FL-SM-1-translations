@@ -2,49 +2,49 @@
 translate chinese sm1cs_mes005_12202498:
 
     # mes "Fancy meeting you here, [mcname]."
-    mes "Fancy meeting you here, [mcname]."
+    mes "真巧在这儿遇到你，[mcname]。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:14
 translate chinese sm1cs_mes005_02576587:
 
     # mc "Haha. Am I becoming tedious?"
-    mc "Haha. Am I becoming tedious?"
+    mc "哈哈。我变得无趣了吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:17
 translate chinese sm1cs_mes005_293b6df9:
 
     # mes "Never. Tedious is... laundry."
-    mes "Never. Tedious is... laundry."
+    mes "从来不会。无趣的是...洗衣服。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:18
 translate chinese sm1cs_mes005_3b5781f7:
 
     # mes "And working out at the gym. And studying."
-    mes "And working out at the gym. And studying."
+    mes "还有去健身房。还有学习。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:19
 translate chinese sm1cs_mes005_6689f344:
 
     # mes "But certainly not you."
-    mes "But certainly not you."
+    mes "但肯定不是你。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:23
 translate chinese sm1cs_mes005_e383d317:
 
     # mc "Right back at you."
-    mc "Right back at you."
+    mc "你也一样。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:26
 translate chinese sm1cs_mes005_d0c3c595:
 
     # mes "So how are things? How is the studio going?"
-    mes "So how are things? How is the studio going?"
+    mes "最近怎么样？工作室进展如何？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:31
 translate chinese sm1cs_mes005_93844fa3:
 
     # mc "Really good. We actually just filmed a new scene for our client."
-    mc "Really good. We actually just filmed a new scene for our client."
+    mc "很不错。我们刚为客户拍了个新场景。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:34
 translate chinese sm1cs_mes005_3caef39e:
@@ -56,7 +56,7 @@ translate chinese sm1cs_mes005_3caef39e:
 translate chinese sm1cs_mes005_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "对啊。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:41
 translate chinese sm1cs_mes005_e254af4e:
