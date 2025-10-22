@@ -2,49 +2,49 @@
 translate chinese sm1cs_mes006_1e1af944:
 
     # mes "I'm here."
-    mes "I'm here."
+    mes "我来了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:90
 translate chinese sm1cs_mes006_ef1e3a02:
 
     # sy "Hi, Min!"
-    sy "Hi, Min!"
+    sy "嗨，明！"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:92
 translate chinese sm1cs_mes006_28bf1ea3:
 
     # mes "Uh. Hi, Stacy."
-    mes "Uh. Hi, Stacy."
+    mes "呃。嗨，史黛西。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:95
 translate chinese sm1cs_mes006_d0ae92f5:
 
     # sy "I got so excited when [mcname] told me we were going to do a game night."
-    sy "I got so excited when [mcname] told me we were going to do a game night."
+    sy "当[mcname]告诉我我们要玩游戏之夜时，我非常兴奋。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:98
 translate chinese sm1cs_mes006_c7e54aa0:
 
     # sy "Sometimes all we do is fuck fuck fuck and work work work."
-    sy "Sometimes all we do is fuck fuck fuck and work work work."
+    sy "有时候我们只是做做做和工作工作工作。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:102
 translate chinese sm1cs_mes006_8104b0ec:
 
     # mc "Isn't that what other people do?"
-    mc "Isn't that what other people do?"
+    mc "别人不也是这样吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:104
 translate chinese sm1cs_mes006_6c67fd02:
 
     # mes "In your dreams they do."
-    mes "In your dreams they do."
+    mes "在你的梦里是这样。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:105
 translate chinese sm1cs_mes006_b2f9559e:
 
     # mc "Yeah. I like dreams."
-    mc "Yeah. I like dreams."
+    mc "是啊。我喜欢做梦。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:108
 translate chinese sm1cs_mes006_6cfcd2dd:
