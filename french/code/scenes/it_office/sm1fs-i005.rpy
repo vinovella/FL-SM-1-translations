@@ -467,10 +467,10 @@ translate french sm1fs_i005_e51945c9:
     pm "I never did that."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:280
-translate french sm1fs_i005_e4e800cc:
+translate french sm1fs_i005_b16b4e3c:
 
-    # pm "Sienna. You're Dev Ops.{w} Stop this."
-    pm "Sienna. You're Dev Ops.{w} Stop this."
+    # pm "Sienna. You're DevOps.{w} Stop this."
+    pm "Sienna. You're DevOps.{w} Stop this."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:284
 translate french sm1fs_i005_ae2631c3:
@@ -737,10 +737,10 @@ translate french sm1fs_i005_1d74550d:
     ml "Can we help you? Libby's screen is still corrupted by smut."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:423
-translate french sm1fs_i005_3fe2de4f:
+translate french sm1fs_i005_849e0440:
 
-    # en "What is problem?"
-    en "What is problem?"
+    # en "What is the problem?"
+    en "What is the problem?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:424
 translate french sm1fs_i005_09d178b8:
@@ -893,10 +893,10 @@ translate french sm1fs_i005_cadd0aaa:
     ag "April, I found it."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:501
-translate french sm1fs_i005_34a4041c:
+translate french sm1fs_i005_bd4c8cdb:
 
-    # ag "It's in file directory sales flash two-thousand-twenty slash Oh Bee Jay slash archive."
-    ag "It's in file directory sales flash two-thousand-twenty slash Oh Bee Jay slash archive."
+    # ag "It's in file directory sales slash two-thousand-twenty slash Oh Bee Jay slash archive."
+    ag "It's in file directory sales slash two-thousand-twenty slash Oh Bee Jay slash archive."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:506
 translate french sm1fs_i005_f8ee961d:
@@ -1019,10 +1019,10 @@ translate french sm1fs_i005_75d741b5:
     am "*gulp gulp*"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:578
-translate french sm1fs_i005_2225d959:
+translate french sm1fs_i005_330d5a55:
 
-    # sr "Oh.{w} That's Peters."
-    sr "Oh.{w} That's Peters."
+    # sr "Oh.{w} That's Peter's."
+    sr "Oh.{w} That's Peter's."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:581
 translate french sm1fs_i005_15e1e8d2:
@@ -1067,10 +1067,10 @@ translate french sm1fs_i005_f2c88c7b:
     cw "And I've done things."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:609
-translate french sm1fs_i005_7c679794:
+translate french sm1fs_i005_d8a77a7d:
 
-    # cw "I {i}mean{/i} I've seen things."
-    cw "I {i}mean{/i} I've seen things."
+    # cw "I mean I've {i}seen{/i} things."
+    cw "I mean I've {i}seen{/i} things."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:612
 translate french sm1fs_i005_93ec2d34:
@@ -1379,10 +1379,10 @@ translate french sm1fs_i005_conference_8e7bec65:
     am "But it will take time."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:751
-translate french sm1fs_i005_conference_55d98fd1:
+translate french sm1fs_i005_conference_08fe18ca:
 
-    # am "And we're still make the new's website."
-    am "And we're still make the new's website."
+    # am "And we're still making the news website."
+    am "And we're still making the news website."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:752
 translate french sm1fs_i005_conference_f1db57cb:
@@ -1541,10 +1541,10 @@ translate french sm1fs_i005_conference_64f4e970:
     am "You'll tell Sienna the plan?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:831
-translate french sm1fs_i005_conference_f5f16d44:
+translate french sm1fs_i005_conference_53902fad:
 
-    # ag "Yes. And I presume you're going for a caffiene run?"
-    ag "Yes. And I presume you're going for a caffiene run?"
+    # ag "Yes. And I presume you're going for a caffeine run?"
+    ag "Yes. And I presume you're going for a caffeine run?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:834
 translate french sm1fs_i005_conference_dbad630f:

@@ -383,10 +383,10 @@ translate french q_inter_am_15_aeda5222:
     am "Yes. You just needed to switch those settings."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:222
-translate french q_inter_am_15_c1491850:
+translate french q_inter_am_15_f4735917:
 
-    # mc "I thought I could make it more effecient."
-    mc "I thought I could make it more effecient."
+    # mc "I thought I could make it more efficient."
+    mc "I thought I could make it more efficient."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:226
 translate french q_inter_am_15_18244209:
@@ -605,10 +605,10 @@ translate french q_inter_am_21_93202109:
     am "Really?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:330
-translate french q_inter_am_21_ba0d4547:
+translate french q_inter_am_21_5ceda4d0:
 
-    # am "Uh... nevermind. It might be awkward. And you'd just be sitting there."
-    am "Uh... nevermind. It might be awkward. And you'd just be sitting there."
+    # am "Uh... never mind. It might be awkward. And you'd just be sitting there."
+    am "Uh... never mind. It might be awkward. And you'd just be sitting there."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:332
 translate french q_inter_am_21_c20a9812:

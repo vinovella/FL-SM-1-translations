@@ -509,10 +509,10 @@ translate french sm1cs_kv003_c90951c8:
     mc "And maybe I can show you a few too."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:290
-translate french sm1cs_kv003_bb6c33ea:
+translate french sm1cs_kv003_51d06342:
 
-    # kv "Whats the next question?"
-    kv "Whats the next question?"
+    # kv "What's the next question?"
+    kv "What's the next question?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:292
 translate french sm1cs_kv003_85304d6b:

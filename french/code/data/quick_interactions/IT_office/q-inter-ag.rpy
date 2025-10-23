@@ -59,10 +59,10 @@ translate french q_inter_ag_4_44962b02:
     ag "Huh? Oh. Nothing. I uh ... I kind of stayed up late playing a game."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:59
-translate french q_inter_ag_4_08f17d14:
+translate french q_inter_ag_4_3546ca5d:
 
-    # ag "I defnintely shouldn't have had that extra energy drink."
-    ag "I defnintely shouldn't have had that extra energy drink."
+    # ag "I definitely shouldn't have had that extra energy drink."
+    ag "I definitely shouldn't have had that extra energy drink."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:66
 translate french q_inter_ag_5_6267fff3:
@@ -101,10 +101,10 @@ translate french q_inter_ag_7_4a1565c6:
     mc "Not too bad. How about you."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:85
-translate french q_inter_ag_7_df2dddfd:
+translate french q_inter_ag_7_79d8f0d1:
 
-    # ag "Great. I finished my book, 'The Mask of Morraco last night."
-    ag "Great. I finished my book, 'The Mask of Morraco last night."
+    # ag "Great. I finished my book, 'The Mask of Morraco' last night."
+    ag "Great. I finished my book, 'The Mask of Morraco' last night."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:86
 translate french q_inter_ag_7_c6a3e40d:
@@ -263,10 +263,10 @@ translate french q_inter_ag_16_6c504cef:
     ag "Awesome!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:174
-translate french q_inter_ag_17_8fc3f4a6:
+translate french q_inter_ag_17_e1f59b0c:
 
-    # ag "You know, Ridley makes a pretty margharita."
-    ag "You know, Ridley makes a pretty margharita."
+    # ag "You know, Ridley makes pretty good margaritas."
+    ag "You know, Ridley makes pretty good margaritas."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:175
 translate french q_inter_ag_17_cea800f6:
@@ -293,10 +293,10 @@ translate french q_inter_ag_18_fbdc9484:
     ag "It's good."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:188
-translate french q_inter_ag_18_93071ec1:
+translate french q_inter_ag_18_c20b0fa0:
 
-    # mc "Going to be working at the coffee shop for awhile?"
-    mc "Going to be working at the coffee shop for awhile?"
+    # mc "Going to be working at the coffee shop for a while?"
+    mc "Going to be working at the coffee shop for a while?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:190
 translate french q_inter_ag_18_b714cbc4:

@@ -9,8 +9,8 @@
     new "Play Nonogram"
 
     # game/code/debug/dev_labels.rpy:7
-    old "Play Simon Says Reharsel"
-    new "Play Simon Says Reharsel"
+    old "Play Simon Says Rehearsal"
+    new "Play Simon Says Rehearsal"
 
     # game/code/debug/dev_labels.rpy:7
     old "Play Simon Says"
@@ -35,10 +35,6 @@
     # game/code/debug/dev_labels.rpy:40
     old "IT Office"
     new "IT Office"
-
-    # game/code/debug/dev_labels.rpy:40
-    old "Theo Malt Park"
-    new "Theo Malt Park"
 
     # game/code/debug/dev_labels.rpy:40
     old "Shop 71 Store"

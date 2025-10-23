@@ -23,10 +23,10 @@ translate french sm1cs_am005b_3772aa1f:
     mc "With you."
 
 # game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
-translate french sm1cs_am005b_1d7ad725:
+translate french sm1cs_am005b_658994d8:
 
-    # mc "Nevermind."
-    mc "Nevermind."
+    # mc "Never mind."
+    mc "Never mind."
 
 # game/code/scenes/it_office/am/sm1cs-am005b.rpy:33
 translate french sm1cs_am005b_e1eef2d6:
@@ -65,6 +65,6 @@ translate french strings:
     new "Try out things with April."
 
     # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Nevermind."
-    new "Nevermind."
+    old "Never mind."
+    new "Never mind."
 

@@ -473,10 +473,10 @@ translate french sm1fs_t002_dbef676e:
     sy "Partially..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:304
-translate french sm1fs_t002_63f502f0:
+translate french sm1fs_t002_3cc3e891:
 
-    # tl "So what's your two's story?"
-    tl "So what's your two's story?"
+    # tl "So what's your story, you two?"
+    tl "So what's your story, you two?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:306
 translate french sm1fs_t002_6b2e55df:
@@ -629,10 +629,10 @@ translate french sm1fs_t002_2ac623c8:
     sy "Well I am more than happy to be your first!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:373
-translate french sm1fs_t002_21f1b495:
+translate french sm1fs_t002_48bdc3d2:
 
-    # sy "Lets' get this party started!"
-    sy "Lets' get this party started!"
+    # sy "Let's get this party started!"
+    sy "Let's get this party started!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:395
 translate french sm1fs_t002_sex_e4ccea3e:
@@ -863,10 +863,10 @@ translate french sm1fs_t002_sex_df604538:
     tl "Come on, whip it out."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:535
-translate french sm1fs_t002_sex_e9f1f302:
+translate french sm1fs_t002_sex_7f6d7367:
 
-    # tl "Damn. Someone is defintiely not shy."
-    tl "Damn. Someone is defintiely not shy."
+    # tl "Damn. Someone is definitely not shy."
+    tl "Damn. Someone is definitely not shy."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:537
 translate french sm1fs_t002_sex_64e8e006:
@@ -1181,10 +1181,10 @@ translate french sm1fs_t002_sex_a88fbee3:
     tl "Eh, mostly do it because [mcname] will be able to get deeper."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:704
-translate french sm1fs_t002_sex_ae2cb979:
+translate french sm1fs_t002_sex_226f2e7f:
 
-    # mc "LIterally zero complaints from me then."
-    mc "LIterally zero complaints from me then."
+    # mc "Literally zero complaints from me then."
+    mc "Literally zero complaints from me then."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:713
 translate french sm1fs_t002_sex_18c6234a:
@@ -1235,10 +1235,10 @@ translate french sm1fs_t002_sex_a6d5255f:
     tl "Well, that's where I'm going. This feels fuh-uhcking great."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:736
-translate french sm1fs_t002_sex_7ea30e17:
+translate french sm1fs_t002_sex_b41d6af2:
 
-    # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. THey want the cinema!"
-    sy "You got to show us, not tell us. Nobody wants the audiobook of porn. THey want the cinema!"
+    # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
+    sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:737
 translate french sm1fs_t002_sex_80a80799:

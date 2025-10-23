@@ -53,10 +53,10 @@ translate french sm1ms005_02i_db837775:
     mc "I think we slow it down and have some of that romantic passion."
 
 # game/code/scenes/main_story/sm1ms005_02i.rpy:43
-translate french sm1ms005_02i_e647c88a:
+translate french sm1ms005_02i_5ddbcfce:
 
-    # sy "Alright. Lets do it."
-    sy "Alright. Lets do it."
+    # sy "Alright. Let's do it."
+    sy "Alright. Let's do it."
 
 translate french strings:
 

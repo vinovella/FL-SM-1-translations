@@ -83,10 +83,10 @@ translate french q_inter_tl_4_a4cd1341:
     tl "..."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:72
-translate french q_inter_tl_5_eb1bbc5d:
+translate french q_inter_tl_5_2a8059e7:
 
-    # tl "If i get 8 hours at the other job... And I save, what, half of that paycheck..."
-    tl "If i get 8 hours at the other job... And I save, what, half of that paycheck..."
+    # tl "If I get 8 hours at the other job... And I save, what, half of that paycheck..."
+    tl "If I get 8 hours at the other job... And I save, what, half of that paycheck..."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:78
 translate french q_inter_tl_6_86351105:
@@ -221,10 +221,10 @@ translate french q_inter_tl_11_f40018c8:
     mc "How have I never heard about this?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:147
-translate french q_inter_tl_11_e81284ee:
+translate french q_inter_tl_11_687943e7:
 
-    # tl "Don't know. But I'm not surprsied."
-    tl "Don't know. But I'm not surprsied."
+    # tl "Don't know. But I'm not surprised."
+    tl "Don't know. But I'm not surprised."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:153
 translate french q_inter_tl_12_b7ab2768:
@@ -437,10 +437,10 @@ translate french q_inter_tl_17_d51d4d69:
     tl "And I think it's cool that you can do so much with one character."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:244
-translate french q_inter_tl_17_54713dc4:
+translate french q_inter_tl_17_543cc186:
 
-    # mc "Huh, I never thuoght about it like that."
-    mc "Huh, I never thuoght about it like that."
+    # mc "Huh, I never thought about it like that."
+    mc "Huh, I never thought about it like that."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:245
 translate french q_inter_tl_17_db029f0f:

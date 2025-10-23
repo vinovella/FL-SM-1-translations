@@ -37,10 +37,6 @@
     new "Ms. Jones"
 
     # game/code/data/gallery/sm_website.rpy:1
-    old "Curse of the Pirate Queen"
-    new "Curse of the Pirate Queen"
-
-    # game/code/data/gallery/sm_website.rpy:1
     old "Dickhart"
     new "Dickhart"
 
@@ -51,10 +47,6 @@
     # game/code/data/gallery/sm_website.rpy:1
     old "Searose"
     new "Searose"
-
-    # game/code/data/gallery/sm_website.rpy:1
-    old "Star Voyage VI: Babe-lyon 9"
-    new "Star Voyage VI: Babe-lyon 9"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Captain Ramses Hornstar"

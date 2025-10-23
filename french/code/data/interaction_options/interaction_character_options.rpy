@@ -17,6 +17,10 @@
     new "Watch her pee..."
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk with Stacy about her job search"
+    new "Talk with Stacy about her job search"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Go on a Date"
     new "Go on a Date"
 
@@ -285,8 +289,8 @@
     new "Rehearsal for the show"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Let's go to Amusement Park"
-    new "Let's go to Amusement Park"
+    old "Let's go to the Amusement Park"
+    new "Let's go to the Amusement Park"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Interview Taisia now"
@@ -389,8 +393,8 @@
     new "I finished editing!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Sci-fi movie"
-    new "Sci-fi movie"
+    old "Sci-Fi movie"
+    new "Sci-Fi movie"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Min for the Sci-Fi Movie"
@@ -447,10 +451,4 @@
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Done editing the Sci-Fi Movie"
     new "Done editing the Sci-Fi Movie"
-
-translate french strings:
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk with Stacy about her job search"
-    new "Talk with Stacy about her job search"
 

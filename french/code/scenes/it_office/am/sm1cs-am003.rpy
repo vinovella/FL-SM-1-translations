@@ -1,8 +1,8 @@
 ﻿# game/code/scenes/it_office/am/sm1cs-am003.rpy:23
-translate french sm1cs_am003_65d3c1ab:
+translate french sm1cs_am003_71f06d2b:
 
-    # mc "Hey April."
-    mc "Hey April."
+    # mc "Hey, April."
+    mc "Hey, April."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:26
 translate french sm1cs_am003_60929dc7:
@@ -29,10 +29,10 @@ translate french sm1cs_am003_05500ff6:
     mc "Huh?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:42
-translate french sm1cs_am003_9411ee06:
+translate french sm1cs_am003_9f59f0f4:
 
-    # am "Humans. We have created all this technology. It can do incredible things."
-    am "Humans. We have created all this technology. It can do incredible things."
+    # am "Humans. We have created all this technology.{w} It can do incredible things."
+    am "Humans. We have created all this technology.{w} It can do incredible things."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:43
 translate french sm1cs_am003_6836a542:
@@ -137,10 +137,10 @@ translate french sm1cs_am003_4ced708b:
     mc "She did not."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:99
-translate french sm1cs_am003_ff48ba88:
+translate french sm1cs_am003_1fd7d62e:
 
-    # am "Hmmph. Sounds like you wasted your afternoon. I'm fine."
-    am "Hmmph. Sounds like you wasted your afternoon. I'm fine."
+    # am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
+    am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:102
 translate french sm1cs_am003_e2e1fb53:
@@ -161,10 +161,10 @@ translate french sm1cs_am003_246b96f0:
     mc "Well if we're not friends, your teasing feels a lot like bullying."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:111
-translate french sm1cs_am003_c44693ed:
+translate french sm1cs_am003_bcf016f9:
 
-    # am "It's bullying to say someone sucks at their job?"
-    am "It's bullying to say someone sucks at their job?"
+    # am "It's bullying to say someone {b}sucks{/b} at their job?"
+    am "It's bullying to say someone {b}sucks{/b} at their job?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:114
 translate french sm1cs_am003_81fb0059:
@@ -179,10 +179,10 @@ translate french sm1cs_am003_9b36aebd:
     am "I didn't know you could count that high."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:120
-translate french sm1cs_am003_b58f5af6:
+translate french sm1cs_am003_aee5974a:
 
-    # mct "This girl. It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
-    mct "This girl. It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+    # mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+    mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:121
 translate french sm1cs_am003_ce80c7ee:
@@ -197,10 +197,10 @@ translate french sm1cs_am003_3adad30a:
     am "What, did that break you?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:127
-translate french sm1cs_am003_fe1864dc:
+translate french sm1cs_am003_b4faa8fc:
 
-    # mc "You were right. I didn't come to check on you. I need help with a work problem and this is where you are working now. Simple as that."
-    mc "You were right. I didn't come to check on you. I need help with a work problem and this is where you are working now. Simple as that."
+    # mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
+    mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:130
 translate french sm1cs_am003_201598d2:
@@ -209,16 +209,16 @@ translate french sm1cs_am003_201598d2:
     am "Well yeah. I knew that from the start."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:134
-translate french sm1cs_am003_e619f22b:
+translate french sm1cs_am003_ae4dcaad:
 
-    # am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
-    am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
+    # am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
+    am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:135
-translate french sm1cs_am003_7274fced:
+translate french sm1cs_am003_67284458:
 
-    # am "But here you are."
-    am "But here you are."
+    # am "But here you are..."
+    am "But here you are..."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:138
 translate french sm1cs_am003_226d5b69:
@@ -233,16 +233,16 @@ translate french sm1cs_am003_5c53c85f:
     am "Yeah.{w} Maybe I was wrong about you, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:144
-translate french sm1cs_am003_7da007d5:
+translate french sm1cs_am003_8a8d91f6:
 
-    # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want. Sometimes I stumble, but I never stay on the ground for long."
-    mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want. Sometimes I stumble, but I never stay on the ground for long."
+    # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
+    mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:145
-translate french sm1cs_am003_37d25850:
+translate french sm1cs_am003_b4235cd6:
 
-    # mc "I didn't study IT at college, but I've always been a fast learner. Teach me, I'm ready to learn at your feet, April."
-    mc "I didn't study IT at college, but I've always been a fast learner. Teach me, I'm ready to learn at your feet, April."
+    # mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
+    mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:148
 translate french sm1cs_am003_1446f8b8:
@@ -263,10 +263,10 @@ translate french sm1cs_am003_cb160673:
     am "*sighs* Okay, you certainly got the energy. But you're not going near my feet."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:155
-translate french sm1cs_am003_3e875709:
+translate french sm1cs_am003_e9ac1b53:
 
-    # am "Despite my better judgment, I'll try to give you some pointers here and there."
-    am "Despite my better judgment, I'll try to give you some pointers here and there."
+    # am "Against my better judgment, I'll try to give you some pointers here and there."
+    am "Against my better judgment, I'll try to give you some pointers here and there."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:158
 translate french sm1cs_am003_35f64472:
@@ -293,10 +293,10 @@ translate french sm1cs_am003_84fb7e61:
     mc "If you teach me well, I'm sure I'll do great."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:176
-translate french sm1cs_am003_c742b267:
+translate french sm1cs_am003_d5d84aa0:
 
-    # am "I am not your teacher, [mcname]. that's not my job."
-    am "I am not your teacher, [mcname]. that's not my job."
+    # am "I am not your teacher, [mcname]. That's not my job."
+    am "I am not your teacher, [mcname]. That's not my job."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:177
 translate french sm1cs_am003_7c802427:
@@ -317,10 +317,10 @@ translate french sm1cs_am003_442b1bff:
     mc "Sure, sure. I got it."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:186
-translate french sm1cs_am003_c73287ef:
+translate french sm1cs_am003_d6fb5843:
 
-    # am "Okay. Show me what problems you're having with the website."
-    am "Okay. Show me what problems you're having with the website."
+    # am "Okay.{w} Show me what problems you're having with the website."
+    am "Okay.{w} Show me what problems you're having with the website."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:189
 translate french sm1cs_am003_606e2d02:
@@ -425,10 +425,10 @@ translate french sm1cs_am003_e9721ff3:
     mc "Thank you!"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:290
-translate french sm1cs_am003_ba3fd6b1:
+translate french sm1cs_am003_ef447ff8:
 
-    # mc "Ohe dark roast coffee for the girl who roasts me every day."
-    mc "Ohe dark roast coffee for the girl who roasts me every day."
+    # mc "One dark roast coffee for the girl who roasts me every day."
+    mc "One dark roast coffee for the girl who roasts me every day."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:293
 translate french sm1cs_am003_20494680:
@@ -443,10 +443,10 @@ translate french sm1cs_am003_a7a92e8f:
     mc "No problem."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:303
-translate french sm1cs_am003_905ee756:
+translate french sm1cs_am003_97c62095:
 
-    # mct "Ah. That is the spot."
-    mct "Ah. That is the spot."
+    # mct "Ah. That hit the spot."
+    mct "Ah. That hit the spot."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:306
 translate french sm1cs_am003_3d905e5a:
@@ -575,10 +575,10 @@ translate french sm1cs_am003_189dae3a:
     mc "Like it's not fun anymore?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:365
-translate french sm1cs_am003_b689b960:
+translate french sm1cs_am003_9403deba:
 
-    # am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
-    am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
+    # am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
+    am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:366
 translate french sm1cs_am003_5bd7e194:
@@ -617,16 +617,16 @@ translate french sm1cs_am003_fdb19f63:
     am "Right. But... I thought you were trying to like... turn this into a date or something."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:382
-translate french sm1cs_am003_19fb34a9:
+translate french sm1cs_am003_2aa81bf8:
 
-    # mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
-    mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
+    # mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
+    mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:385
-translate french sm1cs_am003_28df6c88:
+translate french sm1cs_am003_1168ac9b:
 
-    # am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
-    am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
+    # am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
+    am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:389
 translate french sm1cs_am003_85b15758:
@@ -659,16 +659,16 @@ translate french sm1cs_am003_ebee4a17:
     mc "Is that a big surprise?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:407
-translate french sm1cs_am003_06015bec:
+translate french sm1cs_am003_d5031920:
 
-    # am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
-    am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
+    # am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
+    am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:410
-translate french sm1cs_am003_407e8a50:
+translate french sm1cs_am003_80afa197:
 
-    # mc "Trying to not suck all the time."
-    mc "Trying to not suck all the time."
+    # mc "Trying to not {b}suck{/b} all the time?"
+    mc "Trying to not {b}suck{/b} all the time?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:413
 translate french sm1cs_am003_c35370b4:
@@ -713,16 +713,16 @@ translate french sm1cs_am003_d3a6be79:
     am "Well yeah, but you still noticed that line forty-two was the root issue of why the first batch wasn't connecting to the second one."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:436
-translate french sm1cs_am003_02c1f7dd:
+translate french sm1cs_am003_5bb6b0ec:
 
-    # mc "So I'm a elite-code-monkey now, right?"
-    mc "So I'm a elite-code-monkey now, right?"
+    # mc "So I'm an elite-code-monkey now, right?"
+    mc "So I'm an elite-code-monkey now, right?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:439
-translate french sm1cs_am003_caa31988:
+translate french sm1cs_am003_d906822a:
 
-    # am "Oh yeah. A future Wozniak."
-    am "Oh yeah. A future Wozniak."
+    # am "Oh yeah... A future Wozniak."
+    am "Oh yeah... A future Wozniak."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:443
 translate french sm1cs_am003_575001ec:
@@ -779,10 +779,10 @@ translate french sm1cs_am003_036946db:
     mc "I'm down. I can check my calendar."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:484
-translate french sm1cs_am003_58dc05c7:
+translate french sm1cs_am003_45ccaa21:
 
-    # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
-    am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
+    # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
+    am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:487
 translate french sm1cs_am003_d8bc74dd:

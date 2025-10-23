@@ -917,10 +917,10 @@ translate french sm1cs_cw004_later_469ced3c:
     fw "Some things never change."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:540
-translate french sm1cs_cw004_later_b55f8aba:
+translate french sm1cs_cw004_later_6251a886:
 
-    # cw "How is he, daddy?"
-    cw "How is he, daddy?"
+    # cw "How is he, Daddy?"
+    cw "How is he, Daddy?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:542
 translate french sm1cs_cw004_later_0d6be925:
@@ -1090,877 +1090,877 @@ translate french sm1cs_cw004_later_eb33f326:
     # fw "Well if you two are done with your toys, lunch is ready."
     fw "Well if you two are done with your toys, lunch is ready."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:647
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:648
 translate french sm1cs_cw004_first_evening_6984a1d7:
 
     # mct "What a day..."
     mct "What a day..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:648
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:649
 translate french sm1cs_cw004_first_evening_d5c02a87:
 
     # mct "So glad to have a little time on my own."
     mct "So glad to have a little time on my own."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:651
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:652
 translate french sm1cs_cw004_first_evening_47879083:
 
     # mct "I should really start to learn how to say no to Claire."
     mct "I should really start to learn how to say no to Claire."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:652
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:653
 translate french sm1cs_cw004_first_evening_aa8ff31c:
 
     # mct "I can't imagine what will happen when we \"break up\"."
     mct "I can't imagine what will happen when we \"break up\"."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:659
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:660
 translate french sm1cs_cw004_first_evening_a80e7b34:
 
     # mct "Her dad wouldn't shoot me over that..."
     mct "Her dad wouldn't shoot me over that..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:660
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:661
 translate french sm1cs_cw004_first_evening_74dec95f:
 
     # mct "Would he?"
     mct "Would he?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:664
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:665
 translate french sm1cs_cw004_first_evening_307cfa16:
 
     # mct "Alright, just got to focus, and make sure not to let my guard down."
     mct "Alright, just got to focus, and make sure not to let my guard down."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:669
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:670
 translate french sm1cs_cw004_first_evening_9360d66a:
 
     # mc "Oh, Mrs. Watts."
     mc "Oh, Mrs. Watts."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:673
-translate french sm1cs_cw004_first_evening_0e6a755a:
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:674
+translate french sm1cs_cw004_first_evening_7d3aec05:
 
-    # fw "Farrah please, [mcname]."
-    fw "Farrah please, [mcname]."
+    # fw "Farah please, [mcname]."
+    fw "Farah please, [mcname]."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:676
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:677
 translate french sm1cs_cw004_first_evening_90ebc5b5:
 
     # fw "No need to be so formal..."
     fw "No need to be so formal..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:680
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:681
 translate french sm1cs_cw004_first_evening_2ab5fa40:
 
     # fw "My daughter is so lucky to have such a handsome, young boyfriend."
     fw "My daughter is so lucky to have such a handsome, young boyfriend."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:683
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:684
 translate french sm1cs_cw004_first_evening_82395776:
 
     # mc "Uh, yes she is."
     mc "Uh, yes she is."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:684
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:685
 translate french sm1cs_cw004_first_evening_51e6fa4b:
 
     # mc "And I feel very lucky to be with her."
     mc "And I feel very lucky to be with her."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:685
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:686
 translate french sm1cs_cw004_first_evening_62f62a6c:
 
     # mct "Claire is my boss' boss."
     mct "Claire is my boss' boss."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:686
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:687
 translate french sm1cs_cw004_first_evening_d98c6ec5:
 
     # mct "Why am I thinking about that?"
     mct "Why am I thinking about that?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:689
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:690
 translate french sm1cs_cw004_first_evening_498b5ecc:
 
     # mct "Oh yeah, because this is my boss' boss' mother."
     mct "Oh yeah, because this is my boss' boss' mother."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:690
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:691
 translate french sm1cs_cw004_first_evening_eb539a42:
 
     # mct "Standing this close to me.{w} Wearing that.{w} Looking like that."
     mct "Standing this close to me.{w} Wearing that.{w} Looking like that."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:693
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:694
 translate french sm1cs_cw004_first_evening_ee0d7251:
 
     # mct "I'm so fucked."
     mct "I'm so fucked."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:695
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:696
 translate french sm1cs_cw004_first_evening_689ec798:
 
     # fw "You seem nervous."
     fw "You seem nervous."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:698
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:699
 translate french sm1cs_cw004_first_evening_469f52c2:
 
     # mc "No no. Just a little."
     mc "No no. Just a little."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:699
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:700
 translate french sm1cs_cw004_first_evening_1f7cab19:
 
     # mc "Your husband really enjoys his guns."
     mc "Your husband really enjoys his guns."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:703
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:704
 translate french sm1cs_cw004_first_evening_752fb6f4:
 
     # fw "I don't want to talk about my husband."
     fw "I don't want to talk about my husband."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:704
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:705
 translate french sm1cs_cw004_first_evening_9864094c:
 
     # fw "He doesn't thrill me anymore."
     fw "He doesn't thrill me anymore."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:707
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:708
 translate french sm1cs_cw004_first_evening_fb6e03b2:
 
     # fw "I mean, I still love Charles. But his attention doesn't land on me as often as it used to."
     fw "I mean, I still love Charles. But his attention doesn't land on me as often as it used to."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:708
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:709
 translate french sm1cs_cw004_first_evening_49e3e51c:
 
     # fw "This... even after I got these puppies."
     fw "This... even after I got these puppies."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:711
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:712
 translate french sm1cs_cw004_first_evening_f1d0874b:
 
     # fw "You would not do that to me, would you, [mcname]?"
     fw "You would not do that to me, would you, [mcname]?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:713
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:714
 translate french sm1cs_cw004_first_evening_6eaff14c:
 
     # mc "What kind of man leaves his woman unattended?"
     mc "What kind of man leaves his woman unattended?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:716
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:717
 translate french sm1cs_cw004_first_evening_8564ae2e:
 
     # fw "Untouched..."
     fw "Untouched..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:718
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:719
 translate french sm1cs_cw004_first_evening_41b0f664:
 
     # mc "It's a conundrum."
     mc "It's a conundrum."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:721
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:722
 translate french sm1cs_cw004_first_evening_eeaa2348:
 
     # fw "You can feel them...{w} If you'd like."
     fw "You can feel them...{w} If you'd like."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:729
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:730
 translate french sm1cs_cw004_first_evening_3e4907c6:
 
     # mc "I mean... if you want it."
     mc "I mean... if you want it."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:734
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:735
 translate french sm1cs_cw004_first_evening_80a60165:
 
     # mc "*whispers* I don't think that's a good idea."
     mc "*whispers* I don't think that's a good idea."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:741
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:742
 translate french sm1cs_cw004_first_evening_63d90238:
 
     # cw "I-"
     cw "I-"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:744
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:745
 translate french sm1cs_cw004_first_evening_f191c337:
 
     # cw "You have got to be kidding me!"
     cw "You have got to be kidding me!"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:753
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:754
 translate french sm1cs_cw004_first_evening_b36f5e7c:
 
     # mct "Oh shit! Did Claire notice I was about to touch her mom?!"
     mct "Oh shit! Did Claire notice I was about to touch her mom?!"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:756
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:757
 translate french sm1cs_cw004_first_evening_172d47e0:
 
     # fw "Oh honey... I was just checking in on [mcname]."
     fw "Oh honey... I was just checking in on [mcname]."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:760
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:761
 translate french sm1cs_cw004_first_evening_0288665e:
 
     # cw "I cannot believe you were sticking your boobs out to a man half your age."
     cw "I cannot believe you were sticking your boobs out to a man half your age."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:761
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:762
 translate french sm1cs_cw004_first_evening_8ca360f9:
 
     # cw "And... You know... {w}He is my boyfriend on top of that!"
     cw "And... You know... {w}He is my boyfriend on top of that!"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:762
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:763
 translate french sm1cs_cw004_first_evening_817c79bc:
 
     # cw "I mean, really?"
     cw "I mean, really?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:765
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:766
 translate french sm1cs_cw004_first_evening_ea121e86:
 
     # fw "Mmm. Well, when I found him here alone, I figured you wanted me to keep him entertained."
     fw "Mmm. Well, when I found him here alone, I figured you wanted me to keep him entertained."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:768
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:769
 translate french sm1cs_cw004_first_evening_cd44fd8d:
 
     # cw "Nuh-uh!"
     cw "Nuh-uh!"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:769
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:770
 translate french sm1cs_cw004_first_evening_d7a389ae:
 
     # cw "Come out. Out of here. Let's go."
     cw "Come out. Out of here. Let's go."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:773
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:774
 translate french sm1cs_cw004_first_evening_545af8d3:
 
     # fw "So forceful."
     fw "So forceful."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:774
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:775
 translate french sm1cs_cw004_first_evening_434cf1f4:
 
     # fw "I merely wanted to get a second opinion on something."
     fw "I merely wanted to get a second opinion on something."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:776
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:777
 translate french sm1cs_cw004_first_evening_724e528d:
 
     # cw "We will talk about this later."
     cw "We will talk about this later."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:780
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:781
 translate french sm1cs_cw004_first_evening_e6d6413d:
 
     # cw "And what do {i}you{/i} have to say for yourself?"
     cw "And what do {i}you{/i} have to say for yourself?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:782
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:783
 translate french sm1cs_cw004_first_evening_31848bc8:
 
     # mc "It was totally innocent. And nothing happened."
     mc "It was totally innocent. And nothing happened."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:786
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:787
 translate french sm1cs_cw004_first_evening_48ed9169:
 
     # cw "But how could you let yourself be in a situation like that?"
     cw "But how could you let yourself be in a situation like that?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:788
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:789
 translate french sm1cs_cw004_first_evening_c40de8ea:
 
     # mc "I wouldn't be here if you didn't pull me into this."
     mc "I wouldn't be here if you didn't pull me into this."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:792
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:793
 translate french sm1cs_cw004_first_evening_21acad6e:
 
     # cw "And yet, you seemed to be enjoying yourself."
     cw "And yet, you seemed to be enjoying yourself."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:794
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:795
 translate french sm1cs_cw004_first_evening_f6483161:
 
     # cw "Doesn't look like you minded that too much."
     cw "Doesn't look like you minded that too much."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:796
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:797
 translate french sm1cs_cw004_first_evening_b457411f:
 
     # mc "I mean, that's just."
     mc "I mean, that's just."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:799
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:800
 translate french sm1cs_cw004_first_evening_cd9d463e:
 
     # mc "Totally unrelated physical reaction."
     mc "Totally unrelated physical reaction."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:801
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:802
 translate french sm1cs_cw004_first_evening_62e0b60a:
 
     # cw "Whatever {i}that{/i} is... It had better be because of {b}me{/b}."
     cw "Whatever {i}that{/i} is... It had better be because of {b}me{/b}."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:802
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:803
 translate french sm1cs_cw004_first_evening_080c47c9:
 
     # cw "*short breath* I mean...{w} because of {i}my{/i} outfit."
     cw "*short breath* I mean...{w} because of {i}my{/i} outfit."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:805
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:806
 translate french sm1cs_cw004_first_evening_845cf537:
 
     # mc "I feel like that's a trap."
     mc "I feel like that's a trap."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:807
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:808
 translate french sm1cs_cw004_first_evening_861dde3f:
 
     # cw "I'm not trying to trap you.{w} But..."
     cw "I'm not trying to trap you.{w} But..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:810
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:811
 translate french sm1cs_cw004_first_evening_5e1ddfe3:
 
     # cw "*whispers* Maybe my mom is trying to get both of us..."
     cw "*whispers* Maybe my mom is trying to get both of us..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:811
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:812
 translate french sm1cs_cw004_first_evening_322541a9:
 
     # cw "*whispers* Making sure we are a {i}happy{/i} couple..."
     cw "*whispers* Making sure we are a {i}happy{/i} couple..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:814
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:815
 translate french sm1cs_cw004_first_evening_df9591cc:
 
     # cw "Hmmm."
     cw "Hmmm."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:818
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:819
 translate french sm1cs_cw004_first_evening_49fd0cf3:
 
     # mc "Claire?"
     mc "Claire?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:820
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:821
 translate french sm1cs_cw004_first_evening_f1560f3a:
 
     # cw "It's fine. Just...{w} trust me."
     cw "It's fine. Just...{w} trust me."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:823
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:824
 translate french sm1cs_cw004_first_evening_ca95024c:
 
     # mc "*slow breath* Uh... okay."
     mc "*slow breath* Uh... okay."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:826
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:827
 translate french sm1cs_cw004_first_evening_85288d6a:
 
     # cw "*whispers* This is just for show, [mcname]."
     cw "*whispers* This is just for show, [mcname]."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:827
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:828
 translate french sm1cs_cw004_first_evening_b493929c:
 
     # cw "*whispers* I didn't hear her leave.{w} Or... I'm not sure I did."
     cw "*whispers* I didn't hear her leave.{w} Or... I'm not sure I did."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:828
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:829
 translate french sm1cs_cw004_first_evening_9e86601f:
 
     # cw "*whispers* So just play along."
     cw "*whispers* So just play along."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:830
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:831
 translate french sm1cs_cw004_first_evening_03ed8737:
 
     # mc "*whispers* Sure... makes sense."
     mc "*whispers* Sure... makes sense."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:833
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:834
 translate french sm1cs_cw004_first_evening_14ecba02:
 
     # cw "*whispers* If you ever breathe a word of this to anyone...{w} being fired will be the least of your worries."
     cw "*whispers* If you ever breathe a word of this to anyone...{w} being fired will be the least of your worries."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:834
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:835
 translate french sm1cs_cw004_first_evening_a6f2b272:
 
     # mc "*whispers* Are you sure?"
     mc "*whispers* Are you sure?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:839
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:840
 translate french sm1cs_cw004_first_evening_f4e72a58:
 
     # cw "*short breaths* Just drop the towel."
     cw "*short breaths* Just drop the towel."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:846
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:847
 translate french sm1cs_cw004_first_evening_80145596:
 
     # cw "*whispers* I... Well, obviously, you can't really blame my mom for her momentary lust."
     cw "*whispers* I... Well, obviously, you can't really blame my mom for her momentary lust."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:849
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:850
 translate french sm1cs_cw004_first_evening_e65df109:
 
     # cw "But you are going to make sure that you don't allow yourself to be cornered like a rabbit for the rest of the trip."
     cw "But you are going to make sure that you don't allow yourself to be cornered like a rabbit for the rest of the trip."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:853
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:854
 translate french sm1cs_cw004_first_evening_7e384155:
 
     # mct "She says that but isn't she kind of cornering me right now?"
     mct "She says that but isn't she kind of cornering me right now?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:854
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:855
 translate french sm1cs_cw004_first_evening_562c4a06:
 
     # mct "Probably best to keep that to myself."
     mct "Probably best to keep that to myself."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:857
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:858
 translate french sm1cs_cw004_first_evening_84d9991b:
 
     # mc "Yes..."
     mc "Yes..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:859
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:860
 translate french sm1cs_cw004_first_evening_b65a79d6:
 
     # cw "Good answer."
     cw "Good answer."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:863
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:864
 translate french sm1cs_cw004_first_evening_91d2d9f3:
 
     # cw "Mmmm."
     cw "Mmmm."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:865
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:866
 translate french sm1cs_cw004_first_evening_6daf661e:
 
     # mc "Impressed?"
     mc "Impressed?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:868
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:869
 translate french sm1cs_cw004_first_evening_fb1f6108:
 
     # cw "*whispers* Only with your stupidity. *very quiet moan*"
     cw "*whispers* Only with your stupidity. *very quiet moan*"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:872
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:873
 translate french sm1cs_cw004_first_evening_58de7354:
 
     # cw "*loudly* Oh, it's so big."
     cw "*loudly* Oh, it's so big."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:873
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:874
 translate french sm1cs_cw004_first_evening_6af0f4e7:
 
     # cw "*loudly* I can't wait to make you cum."
     cw "*loudly* I can't wait to make you cum."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:876
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:877
 translate french sm1cs_cw004_first_evening_1ad3b5eb:
 
     # cw "*softer* I can't believe I'm doing this."
     cw "*softer* I can't believe I'm doing this."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:877
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:878
 translate french sm1cs_cw004_first_evening_a18d1627:
 
     # mc "*whispers* Me neither."
     mc "*whispers* Me neither."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:880
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:881
 translate french sm1cs_cw004_first_evening_a6910465:
 
     # cw "*whispers* I insist that you release quickly, [mcname]."
     cw "*whispers* I insist that you release quickly, [mcname]."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:881
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:882
 translate french sm1cs_cw004_first_evening_5f71acf7:
 
     # mc "*grunting*"
     mc "*grunting*"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:884
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:885
 translate french sm1cs_cw004_first_evening_0a3008d4:
 
     # cw "What did I just say?"
     cw "What did I just say?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:885
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:886
 translate french sm1cs_cw004_first_evening_c89a76fb:
 
     # mc "I'm sorry. It just feels really good."
     mc "I'm sorry. It just feels really good."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:886
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:887
 translate french sm1cs_cw004_first_evening_1d298b33:
 
     # mc "*whispers* And... hu-gahh... I think your parents already assume we have sex."
     mc "*whispers* And... hu-gahh... I think your parents already assume we have sex."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:887
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:888
 translate french sm1cs_cw004_first_evening_1f28d6f7:
 
     # cw "..."
     cw "..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:890
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:891
 translate french sm1cs_cw004_first_evening_6d2e45ea:
 
     # cw "*whispers* Be that as it may. Your only job right now is to forget everything else and cum."
     cw "*whispers* Be that as it may. Your only job right now is to forget everything else and cum."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:891
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:892
 translate french sm1cs_cw004_first_evening_2d056fe5:
 
     # cw "*whispers* I don't want to sleep and think about your..."
     cw "*whispers* I don't want to sleep and think about your..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:894
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:895
 translate french sm1cs_cw004_first_evening_450e7637:
 
     # cw "*whispers* Weakness."
     cw "*whispers* Weakness."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:895
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:896
 translate french sm1cs_cw004_first_evening_c6bbeae0:
 
     # mc "*whispers* Well, I think it looks pretty strong."
     mc "*whispers* Well, I think it looks pretty strong."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:898
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:899
 translate french sm1cs_cw004_first_evening_5b77b33c:
 
     # cw "Hmmph."
     cw "Hmmph."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:899
-translate french sm1cs_cw004_first_evening_a1c866a5:
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:900
+translate french sm1cs_cw004_first_evening_19a0c527:
 
-    # cw "*whispers*Stop resisting."
-    cw "*whispers*Stop resisting."
+    # cw "*whispers* Stop resisting."
+    cw "*whispers* Stop resisting."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:902
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:903
 translate french sm1cs_cw004_first_evening_5ffac718:
 
     # mc "*strained* I'm not."
     mc "*strained* I'm not."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:903
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:904
 translate french sm1cs_cw004_first_evening_716bb552:
 
     # cw "*angry* [mcname]."
     cw "*angry* [mcname]."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:906
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:907
 translate french sm1cs_cw004_first_evening_bd989e7c:
 
     # mc "*whispers* I swear, I'm not putting on a show, Claire."
     mc "*whispers* I swear, I'm not putting on a show, Claire."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:907
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:908
 translate french sm1cs_cw004_first_evening_147ffb83:
 
     # cw "*growling* That's Ms. Watts right now..."
     cw "*growling* That's Ms. Watts right now..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:910
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:911
 translate french sm1cs_cw004_first_evening_b08d7aa3:
 
     # cw "*low growling* What is the problem?"
     cw "*low growling* What is the problem?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:914
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:915
 translate french sm1cs_cw004_first_evening_05500ff6:
 
     # mc "Huh?"
     mc "Huh?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:917
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:918
 translate french sm1cs_cw004_first_evening_3241f49e:
 
     # cw "*whispers* Why.{w} Aren't.{w} You.{w} Cumming?"
     cw "*whispers* Why.{w} Aren't.{w} You.{w} Cumming?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:921
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:922
 translate french sm1cs_cw004_first_evening_8aff1fa7:
 
     # cw "*whispers* This was supposed to be quick and dirty."
     cw "*whispers* This was supposed to be quick and dirty."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:922
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:923
 translate french sm1cs_cw004_first_evening_68097546:
 
     # cw "*whispers* A precise system fix."
     cw "*whispers* A precise system fix."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:925
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:926
 translate french sm1cs_cw004_first_evening_36b70476:
 
     # mc "*whispers* I mean... I guess it's just the stress... you know{w} the situation."
     mc "*whispers* I mean... I guess it's just the stress... you know{w} the situation."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:926
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:927
 translate french sm1cs_cw004_first_evening_03c2bdc0:
 
     # mc "*whispers* There is very little romance in the air."
     mc "*whispers* There is very little romance in the air."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:928
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:929
 translate french sm1cs_cw004_first_evening_235e846f:
 
     # cw "*whispers*..."
     cw "*whispers*..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:930
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:931
 translate french sm1cs_cw004_first_evening_21efdd65:
 
     # cw "*whispers* You had better have a suggestion."
     cw "*whispers* You had better have a suggestion."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:933
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:934
 translate french sm1cs_cw004_first_evening_8114a09f:
 
     # mc "Uh..."
     mc "Uh..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:934
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:935
 translate french sm1cs_cw004_first_evening_6ddddd1f:
 
     # mc "Maybe..."
     mc "Maybe..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:937
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:938
 translate french sm1cs_cw004_first_evening_46252ff5:
 
     # mct "This is going to blow up in my face, but I gotta do it."
     mct "This is going to blow up in my face, but I gotta do it."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:938
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:939
 translate french sm1cs_cw004_first_evening_56de7f6a:
 
     # mct "She's so sexy, and she's already jacking me off."
     mct "She's so sexy, and she's already jacking me off."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:939
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:940
 translate french sm1cs_cw004_first_evening_7a881de8:
 
     # mct "She might go for it."
     mct "She might go for it."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:942
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:943
 translate french sm1cs_cw004_first_evening_e15dd91f:
 
     # mc "Maybe you could use your mouth?{w} I'm sure that will help me cum..."
     mc "Maybe you could use your mouth?{w} I'm sure that will help me cum..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:943
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:944
 translate french sm1cs_cw004_first_evening_8c2c9d38:
 
     # mc "*whispers* Ms. Watts..."
     mc "*whispers* Ms. Watts..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:948
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:949
 translate french sm1cs_cw004_first_evening_1b66782c:
 
     # cw "*whispers* You had better cum quickly."
     cw "*whispers* You had better cum quickly."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:950
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:951
 translate french sm1cs_cw004_first_evening_ccfa4735:
 
     # mc "*whispers* Yes, Ms. Watts."
     mc "*whispers* Yes, Ms. Watts."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:953
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:954
 translate french sm1cs_cw004_first_evening_3435004d:
 
     # cw "Get... Get on the bed."
     cw "Get... Get on the bed."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:962
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:963
 translate french sm1cs_cw004_first_evening_ef0f3052:
 
     # cw "*soft panting*"
     cw "*soft panting*"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:967
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:968
 translate french sm1cs_cw004_first_evening_068ca45f:
 
     # mc "*soft grunting*"
     mc "*soft grunting*"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:968
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:969
 translate french sm1cs_cw004_first_evening_da6dfb0d:
 
     # mct "No way. Claire is doing it."
     mct "No way. Claire is doing it."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:971
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:972
 translate french sm1cs_cw004_first_evening_2e1d624c:
 
     # mct "She's sucking my cock. And we haven't even kissed."
     mct "She's sucking my cock. And we haven't even kissed."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:972
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:973
 translate french sm1cs_cw004_first_evening_313007b4:
 
     # mct "Well, I guess we have technically kissed, but it was always for show."
     mct "Well, I guess we have technically kissed, but it was always for show."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:973
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:974
 translate french sm1cs_cw004_first_evening_89670ab0:
 
     # mct "This isn't for show."
     mct "This isn't for show."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:976
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:977
 translate french sm1cs_cw004_first_evening_9624cc86:
 
     # mct "It's just the two of us. Alone in this cabin."
     mct "It's just the two of us. Alone in this cabin."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:977
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:978
 translate french sm1cs_cw004_first_evening_d1c779d0:
 
     # mct "She's fucking milking my balls dry."
     mct "She's fucking milking my balls dry."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:980
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:981
 translate french sm1cs_cw004_first_evening_9c027527:
 
     # mct "It feels so fucking good."
     mct "It feels so fucking good."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:981
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:982
 translate french sm1cs_cw004_first_evening_975ae211:
 
     # mct "Way better than her handjob."
     mct "Way better than her handjob."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:994
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:995
 translate french sm1cs_cw004_first_evening_a3f0e769:
 
     # cw "Puwah."
     cw "Puwah."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:998
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:999
 translate french sm1cs_cw004_first_evening_5db77737:
 
     # mc "*grunts*"
     mc "*grunts*"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1002
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1003
 translate french sm1cs_cw004_first_evening_ad349299:
 
     # mc "Grauah..."
     mc "Grauah..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1009
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1010
 translate french sm1cs_cw004_first_evening_ef9ee1a6:
 
     # cw "*whispers* Go in the bathroom and get cleaned up.{w} You pervert."
     cw "*whispers* Go in the bathroom and get cleaned up.{w} You pervert."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1011
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1012
 translate french sm1cs_cw004_first_evening_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1014
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1015
 translate french sm1cs_cw004_first_evening_175e0bf9:
 
     # cw "Did I stutter?"
     cw "Did I stutter?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1016
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1017
 translate french sm1cs_cw004_first_evening_91facaef:
 
     # mc "No ma'am?"
     mc "No ma'am?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1019
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1020
 translate french sm1cs_cw004_first_evening_d6966198:
 
     # cw "Good. So be a good boy and clean up. Then, take a pillow and a blanket from the closet."
     cw "Good. So be a good boy and clean up. Then, take a pillow and a blanket from the closet."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1021
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1022
 translate french sm1cs_cw004_first_evening_21ec3dff:
 
     # mc "Why? You said we would just sleep on the same bed."
     mc "Why? You said we would just sleep on the same bed."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1024
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1025
 translate french sm1cs_cw004_first_evening_b323799e:
 
     # cw "I've changed my mind.{w} You're going to sleep on the floor like a bad little boy and think about what you've done."
     cw "I've changed my mind.{w} You're going to sleep on the floor like a bad little boy and think about what you've done."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1026
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1027
 translate french sm1cs_cw004_first_evening_54696dae:
 
     # mc "What did I do?"
     mc "What did I do?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1029
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1030
 translate french sm1cs_cw004_first_evening_d34a1d54:
 
     # cw "Go wash up now, this isn't up for discussion."
     cw "Go wash up now, this isn't up for discussion."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1036
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1039
 translate french sm1cs_cw004_first_evening_e792141e:
 
     # "*washing sounds*"
     "*washing sounds*"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1042
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1045
 translate french sm1cs_cw004_first_evening_962dafc2:
 
     # mct "Could be worse. Her father could have walked in."
     mct "Could be worse. Her father could have walked in."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1046
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1049
 translate french sm1cs_cw004_first_evening_2030aa6c:
 
     # mct "Sleep now. Then it's just one more day of this strange journey."
     mct "Sleep now. Then it's just one more day of this strange journey."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1049
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1052
 translate french sm1cs_cw004_first_evening_5c0fa263:
 
     # mct "Still, that blowjob definitely helped push me over the hill."
     mct "Still, that blowjob definitely helped push me over the hill."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1052
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1055
 translate french sm1cs_cw004_first_evening_d259ade9:
 
     # mct "I'm going to have no problem falling to-"
     mct "I'm going to have no problem falling to-"
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1058
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1061
 translate french sm1cs_cw004_first_evening_80f6d00e:
 
     # cw "Hmm."
@@ -1993,18 +1993,18 @@ translate french strings:
     new "I don't want to waste your ammo"
 
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
-    old "Sure lets do it"
-    new "Sure lets do it"
+    old "Sure let's do it"
+    new "Sure let's do it"
 
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:636
     old "Later that evening"
     new "Later that evening"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:723
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:724
     old "Touch her boobs"
     new "Touch her boobs"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:723
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:724
     old "Resist!"
     new "Resist!"
 

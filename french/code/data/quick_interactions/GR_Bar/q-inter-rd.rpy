@@ -47,10 +47,10 @@ translate french q_inter_rd_3_df07d66e:
     rd "Sup, [mcname]."
 
 # game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:45
-translate french q_inter_rd_4_04b224fc:
+translate french q_inter_rd_4_64339c27:
 
-    # mc "Phe. Thanks god it's the weekend."
-    mc "Phe. Thanks god it's the weekend."
+    # mc "Phew. Thank god it's the weekend."
+    mc "Phew. Thank god it's the weekend."
 
 # game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:47
 translate french q_inter_rd_4_cbb1b367:

@@ -173,10 +173,10 @@ translate french sm1cs_ag001_8ff28f75:
     mj "Thanks. But we actually have a small problem, Anna."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:106
-translate french sm1cs_ag001_c20e21ba:
+translate french sm1cs_ag001_493be2ed:
 
-    # mj "My team managed to nail down that analytics error that was a real thorn in our butts.. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
-    mj "My team managed to nail down that analytics error that was a real thorn in our butts.. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
+    # mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
+    mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:109
 translate french sm1cs_ag001_2769889a:
@@ -377,10 +377,10 @@ translate french sm1cs_ag001_2750285d_1:
     mct "Deep. Wet. Undercover."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:234
-translate french sm1cs_ag001_0b374835:
+translate french sm1cs_ag001_314d6ac2:
 
-    # mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club"
-    mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club"
+    # mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
+    mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:235
 translate french sm1cs_ag001_c1d0d7a8:
@@ -389,28 +389,28 @@ translate french sm1cs_ag001_c1d0d7a8:
     mct "Will our hero be able to keep her resolve as she descends into a world of humiliation and debauchery?"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:238
-translate french sm1cs_ag001_87f92112:
+translate french sm1cs_ag001_9e2758b7:
 
-    # mct "This certainly deserves an Adults Only rating"
-    mct "This certainly deserves an Adults Only rating"
+    # mct "This certainly deserves an Adults Only rating."
+    mct "This certainly deserves an Adults Only rating."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
-translate french sm1cs_ag001_e4b9a970:
+translate french sm1cs_ag001_8601bed3:
 
-    # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down"
-    mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down"
+    # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
+    mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:243
-translate french sm1cs_ag001_5eea3769:
+translate french sm1cs_ag001_499c380f:
 
-    # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\""
-    mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\""
+    # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
+    mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:246
-translate french sm1cs_ag001_5d47ee66:
+translate french sm1cs_ag001_30f8e87b:
 
-    # mc "Oh cool, they're making a movie based on the book"
-    mc "Oh cool, they're making a movie based on the book"
+    # mc "Oh cool, they're making a movie based on the book."
+    mc "Oh cool, they're making a movie based on the book."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:249
 translate french sm1cs_ag001_f10be5b0:
@@ -653,10 +653,10 @@ translate french sm1cs_ag001_continue_0f22d93c:
     ag "I'd like to say she grows on you, but we've worked together a while and I think that would be a lie, hahah."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:398
-translate french sm1cs_ag001_continue_34bad08b:
+translate french sm1cs_ag001_continue_68649b33:
 
-    # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Worts and all."
-    ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Worts and all."
+    # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
+    ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:401
 translate french sm1cs_ag001_continue_7a22d199:
@@ -695,10 +695,10 @@ translate french sm1cs_ag001_continue_e6d20dfe:
     ag "I know you just joined up but I should warn you that I might have to ride you extra hard over the next couple of months."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
-translate french sm1cs_ag001_continue_657f6911:
+translate french sm1cs_ag001_continue_be0ef968:
 
-    # mct "Oh I don't think either of us would mind that, Anna"
-    mct "Oh I don't think either of us would mind that, Anna"
+    # mct "Oh I don't think either of us would mind that, Anna."
+    mct "Oh I don't think either of us would mind that, Anna."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:421
 translate french sm1cs_ag001_continue_cd952fa6:

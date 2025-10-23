@@ -209,10 +209,10 @@ translate french sm1ms006_669d5c5f:
     sy "We really need some better locks."
 
 # game/code/scenes/main_story/sm1ms006.rpy:180
-translate french sm1ms006_aef6fd4a:
+translate french sm1ms006_e6186b8f:
 
-    # mc "I do too. But... AmRose said something kind of interesting."
-    mc "I do too. But... AmRose said something kind of interesting."
+    # mc "I think so too. But... AmRose said something kind of interesting."
+    mc "I think so too. But... AmRose said something kind of interesting."
 
 # game/code/scenes/main_story/sm1ms006.rpy:183
 translate french sm1ms006_e14c35d4:
@@ -329,10 +329,10 @@ translate french sm1ms006_e501c93a:
     mc "But you lied to me."
 
 # game/code/scenes/main_story/sm1ms006.rpy:239
-translate french sm1ms006_a82624c8:
+translate french sm1ms006_eac16535:
 
-    # sy "It's not a big deal? I mean you lied about the metric ton of of porn you had hidden under your bed, [mcname]."
-    sy "It's not a big deal? I mean you lied about the metric ton of of porn you had hidden under your bed, [mcname]."
+    # sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
+    sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
 
 # game/code/scenes/main_story/sm1ms006.rpy:242
 translate french sm1ms006_6be9eb82:
@@ -677,10 +677,10 @@ translate french sm1ms006_49efd205:
     mct "Even after getting punished, Stacy is still the best."
 
 # game/code/scenes/main_story/sm1ms006.rpy:453
-translate french sm1ms006_7016c270:
+translate french sm1ms006_ed03918c:
 
-    # sy "You doing to get dressed?"
-    sy "You doing to get dressed?"
+    # sy "You going to get dressed?"
+    sy "You going to get dressed?"
 
 # game/code/scenes/main_story/sm1ms006.rpy:457
 translate french sm1ms006_ed56daf5:

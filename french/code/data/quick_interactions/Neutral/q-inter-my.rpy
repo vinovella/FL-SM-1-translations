@@ -53,10 +53,10 @@ translate french q_inter_my_3_49473dcc:
     my "And you don't need to. I'm happy to do it."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:54
-translate french q_inter_my_4_0ab36d3b:
+translate french q_inter_my_4_1b9be8cf:
 
-    # my "He wants 4 walls in the gallery... and then the other artists wants-"
-    my "He wants 4 walls in the gallery... and then the other artists wants-"
+    # my "He wants 4 walls in the gallery... and then the other artists want-"
+    my "He wants 4 walls in the gallery... and then the other artists want-"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:57
 translate french q_inter_my_4_a70f9d35:
@@ -208,79 +208,79 @@ translate french q_inter_my_8_42bd829d:
     # mc "Wait, what?"
     mc "Wait, what?"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:143
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:139
 translate french q_inter_my_8_ddb4d089:
 
     # my "Yay! To you, [mcname]."
     my "Yay! To you, [mcname]."
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:146
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:142
 translate french q_inter_my_8_b74430f4:
 
     # mc "Uhm, and to you, Mom!"
     mc "Uhm, and to you, Mom!"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:148
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:144
 translate french q_inter_my_8_12dd8a00:
 
     # mc "Uhm, and to you, Melony!"
     mc "Uhm, and to you, Melony!"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:151
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:147
 translate french q_inter_my_8_6da2a02f:
 
     # mc "*gulp* Tsssssss! Damn, that burns!"
     mc "*gulp* Tsssssss! Damn, that burns!"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:155
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:151
 translate french q_inter_my_8_9a180bac:
 
     # my "But yummy!"
     my "But yummy!"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:162
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:158
 translate french q_inter_my_9_0f29fba4:
 
     # my "Maybe one of the next times we spend some time together, we can do it here!"
     my "Maybe one of the next times we spend some time together, we can do it here!"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:164
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:160
 translate french q_inter_my_9_b6e7464c:
 
     # mc "I'd love that!"
     mc "I'd love that!"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:168
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:164
 translate french q_inter_my_9_ef63ff2b:
 
     # my "I would to, [mcname]."
     my "I would to, [mcname]."
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:171
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:167
 translate french q_inter_my_9_1744bb52:
 
     # mct "Sounds like we've got another date on the docket!"
     mct "Sounds like we've got another date on the docket!"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:172
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:168
 translate french q_inter_my_9_92b8cda4:
 
     # mct "Or, hangout, or whatever."
     mct "Or, hangout, or whatever."
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:179
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:175
 translate french q_inter_my_10_9cd3ef66:
 
     # my "[mcname], I really enjoyed getting dinner with you."
     my "[mcname], I really enjoyed getting dinner with you."
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:181
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:177
 translate french q_inter_my_10_f27266f9:
 
     # mc "I had a lot of fun too!"
     mc "I had a lot of fun too!"
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:182
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:178
 translate french q_inter_my_10_ccd0c639:
 
     # my "I'm looking forward to going again."

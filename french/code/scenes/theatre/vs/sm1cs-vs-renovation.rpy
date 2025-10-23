@@ -149,10 +149,10 @@ translate french sm1cs_vs_renovation_17f20e7d:
     vs "Oh come on, [mcname]. Like you've never broken a rule."
 
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:93
-translate french sm1cs_vs_renovation_5b7540d5:
+translate french sm1cs_vs_renovation_9c0bc37a:
 
-    # mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming a actor in the group."
-    mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming a actor in the group."
+    # mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming an actor in the group."
+    mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming an actor in the group."
 
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:96
 translate french sm1cs_vs_renovation_122cb1b1:

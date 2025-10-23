@@ -59,10 +59,10 @@ translate french sm1ms002_7e80f756:
     sy "Is the delivery job that bad?"
 
 # game/code/scenes/main_story/sm1ms002.rpy:59
-translate french sm1ms002_1b967ef2:
+translate french sm1ms002_4f8bfe43:
 
-    # mc "I haven't started cutting on myself yet."
-    mc "I haven't started cutting on myself yet."
+    # mc "I haven't started cutting myself yet."
+    mc "I haven't started cutting myself yet."
 
 # game/code/scenes/main_story/sm1ms002.rpy:61
 translate french sm1ms002_d8f519df:

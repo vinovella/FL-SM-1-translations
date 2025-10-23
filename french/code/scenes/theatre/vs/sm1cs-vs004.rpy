@@ -575,10 +575,10 @@ translate french sm1cs_vs004_after_choice_29df6d24:
     mc "No, it's-"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:284
-translate french sm1cs_vs004_after_choice_05f7ac11:
+translate french sm1cs_vs004_after_choice_9c38d0b3:
 
-    # mc "Nevermind. Just... leave it to me."
-    mc "Nevermind. Just... leave it to me."
+    # mc "Never mind. Just... leave it to me."
+    mc "Never mind. Just... leave it to me."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:287
 translate french sm1cs_vs004_after_choice_7ea45d72:

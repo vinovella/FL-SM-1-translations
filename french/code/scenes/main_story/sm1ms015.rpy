@@ -53,10 +53,10 @@ translate french sm1ms015_065a0b01:
     sy "What does Orbix do again?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:38
-translate french sm1ms015_047997aa:
+translate french sm1ms015_23dee611:
 
-    # mc "Their main focus is developing IT solutions and infastructure."
-    mc "Their main focus is developing IT solutions and infastructure."
+    # mc "Their main focus is developing IT solutions and infrastructure."
+    mc "Their main focus is developing IT solutions and infrastructure."
 
 # game/code/scenes/main_story/sm1ms015.rpy:41
 translate french sm1ms015_42d68500:
@@ -71,10 +71,10 @@ translate french sm1ms015_19b2073c:
     my "Mmmm."
 
 # game/code/scenes/main_story/sm1ms015.rpy:47
-translate french sm1ms015_7497e2f1:
+translate french sm1ms015_4211e622:
 
-    # mc "Everything okay, mom?"
-    mc "Everything okay, mom?"
+    # mc "Everything okay, Mom?"
+    mc "Everything okay, Mom?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:49
 translate french sm1ms015_cdda8f30:
@@ -335,10 +335,10 @@ translate french sm1ms015_c978a465:
     cw "It's Miss."
 
 # game/code/scenes/main_story/sm1ms015.rpy:157
-translate french sm1ms015_f141650f:
+translate french sm1ms015_d989617b:
 
-    # cw "Nevermind."
-    cw "Nevermind."
+    # cw "Never mind."
+    cw "Never mind."
 
 # game/code/scenes/main_story/sm1ms015.rpy:159
 translate french sm1ms015_05ee9ede:
@@ -533,10 +533,10 @@ translate french sm1ms015_85730248:
     sy "Likewise, Nari."
 
 # game/code/scenes/main_story/sm1ms015.rpy:246
-translate french sm1ms015_6e0d5e68:
+translate french sm1ms015_fdab53eb:
 
-    # ns "And I'm delighted to meet you too, Miss Melony."
-    ns "And I'm delighted to meet you too, Miss Melony."
+    # ns "And I'm delighted to meet you too, Ms. Melony."
+    ns "And I'm delighted to meet you too, Ms. Melony."
 
 # game/code/scenes/main_story/sm1ms015.rpy:248
 translate french sm1ms015_9b705389:
@@ -791,10 +791,10 @@ translate french sm1ms015_3df01a68:
     mc "On the other hand, I am a twenty-something co-owner for the studio."
 
 # game/code/scenes/main_story/sm1ms015.rpy:381
-translate french sm1ms015_caab2211:
+translate french sm1ms015_23fb47ba:
 
-    # sy "Haha. He's got you there, mom."
-    sy "Haha. He's got you there, mom."
+    # sy "Haha. He's got you there, Mom."
+    sy "Haha. He's got you there, Mom."
 
 # game/code/scenes/main_story/sm1ms015.rpy:383
 translate french sm1ms015_e575597a:

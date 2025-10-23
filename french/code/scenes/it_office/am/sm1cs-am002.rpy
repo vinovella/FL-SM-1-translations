@@ -29,10 +29,10 @@ translate french sm1cs_am002_220cb3d0:
     mc "April, you okay?"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:57
-translate french sm1cs_am002_d8baf531:
+translate french sm1cs_am002_e86d99ac:
 
-    # mc "Uh... earth to April."
-    mc "Uh... earth to April."
+    # mc "Uh... Earth to April."
+    mc "Uh... Earth to April."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:60
 translate french sm1cs_am002_ba03ec07:
@@ -71,16 +71,16 @@ translate french sm1cs_am002_c9b9b334:
     ag "Sorry for being sneaky, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:78
-translate french sm1cs_am002_b738f380:
+translate french sm1cs_am002_39bb3e71:
 
-    # mc "Totally fine. Gave my heart a workout."
-    mc "Totally fine. Gave my heart a workout."
+    # mc "Totally fine.{w} Gave my heart a workout."
+    mc "Totally fine.{w} Gave my heart a workout."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:81
-translate french sm1cs_am002_ec0ac282:
+translate french sm1cs_am002_9222011b:
 
-    # ag "Did she say anything? Did you hear her talking on her phone?"
-    ag "Did she say anything? Did you hear her talking on her phone?"
+    # ag "Did she say anything?{w} Did you hear her talking on her phone?"
+    ag "Did she say anything?{w} Did you hear her talking on her phone?"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:84
 translate french sm1cs_am002_14b03134:
@@ -107,16 +107,16 @@ translate french sm1cs_am002_8cb7e073:
     mc "Is there a problem?"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:96
-translate french sm1cs_am002_87d60ae7:
+translate french sm1cs_am002_72c66862:
 
-    # ag "Oh no. Just um... I want to make sure April is not hiding in the bathroom making personal calls on company time."
-    ag "Oh no. Just um... I want to make sure April is not hiding in the bathroom making personal calls on company time."
+    # ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
+    ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:99
-translate french sm1cs_am002_791e0999:
+translate french sm1cs_am002_d06f9e7a:
 
-    # mc "Okay... Maybe she was getting texts? She seemed super into her phone."
-    mc "Okay... Maybe she was getting texts? She seemed super into her phone."
+    # mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
+    mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:102
 translate french sm1cs_am002_ebca0e7d:
@@ -131,10 +131,10 @@ translate french sm1cs_am002_91ba7775:
     ag "How is she doing on your work for the project?"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:106
-translate french sm1cs_am002_a1a9e363:
+translate french sm1cs_am002_e2dd0671:
 
-    # mc "Oh really good. She's a natural. And after many attempts, I think I've figured out the best way to how to ask for help without her yelling at me."
-    mc "Oh really good. She's a natural. And after many attempts, I think I've figured out the best way to how to ask for help without her yelling at me."
+    # mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
+    mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:109
 translate french sm1cs_am002_e7084851:
@@ -239,10 +239,10 @@ translate french sm1cs_am002_acaba40a:
     mct "Did April just use the word 'please'?"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:167
-translate french sm1cs_am002_f178c726:
+translate french sm1cs_am002_9bab7d01:
 
-    # ag "Tomorrow? No. You were supposed to have those changes to the middleware done today."
-    ag "Tomorrow? No. You were supposed to have those changes to the middleware done today."
+    # ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
+    ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:168
 translate french sm1cs_am002_1d114e05:
@@ -275,10 +275,10 @@ translate french sm1cs_am002_68e335dc:
     am "There, you have your answer."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:185
-translate french sm1cs_am002_5b2e2465:
+translate french sm1cs_am002_38cb486e:
 
-    # am "Look, it's like I said earlier. It will be ready tomorrow."
-    am "Look, it's like I said earlier. It will be ready tomorrow."
+    # am "Look, it's like I said earlier.{w} It will be ready tomorrow."
+    am "Look, it's like I said earlier.{w} It will be ready tomorrow."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:188
 translate french sm1cs_am002_ff6e3ead:
@@ -287,10 +287,10 @@ translate french sm1cs_am002_ff6e3ead:
     ag "I don't need to-"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:189
-translate french sm1cs_am002_6755d878:
+translate french sm1cs_am002_f059d2ec:
 
-    # ag "*sighs* April, please just talk to me. This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
-    ag "*sighs* April, please just talk to me. This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
+    # ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
+    ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:193
 translate french sm1cs_am002_5915abe8:
@@ -317,10 +317,10 @@ translate french sm1cs_am002_4ba21ae4:
     am "I've asked every month for those compatibility upgrades but no one gives me a straight answer."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:201
-translate french sm1cs_am002_189f4325:
+translate french sm1cs_am002_371de864:
 
-    # am "You know how fickle middleware can be. And all this squawking from you throws me off my game and sets me back even further."
-    am "You know how fickle middleware can be. And all this squawking from you throws me off my game and sets me back even further."
+    # am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
+    am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:204
 translate french sm1cs_am002_59f48bb5:
@@ -533,16 +533,16 @@ translate french sm1cs_am002_1eb5239c:
     mc "Hah. So April was defending you."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:311
-translate french sm1cs_am002_32bf65bc:
+translate french sm1cs_am002_cb355b8b:
 
-    # ag "Hahaha, never. She said it was the fastest way to get his attention and didn't think it would knock him out."
-    ag "Hahaha, never. She said it was the fastest way to get his attention and didn't think it would knock him out."
+    # ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
+    ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:312
-translate french sm1cs_am002_f19c12d3:
+translate french sm1cs_am002_a8caa986:
 
-    # ag "That was quite the day."
-    ag "That was quite the day."
+    # ag "That was quite the day..."
+    ag "That was quite the day..."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:315
 translate french sm1cs_am002_f25b708f:
@@ -569,10 +569,10 @@ translate french sm1cs_am002_bf8549a7:
     mc "Loud and clear."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:323
-translate french sm1cs_am002_812760f1:
+translate french sm1cs_am002_cff053f3:
 
-    # ag "Thanks [mcname]."
-    ag "Thanks [mcname]."
+    # ag "Thanks, [mcname]."
+    ag "Thanks, [mcname]."
 
 translate french strings:
 

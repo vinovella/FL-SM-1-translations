@@ -1,8 +1,8 @@
 ﻿# game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:16
-translate french q_inter_mj_1_980ce44b:
+translate french q_inter_mj_1_e906923a:
 
-    # mj "[mcname], are participating in this bet on who will have less errors, Anna or April?"
-    mj "[mcname], are participating in this bet on who will have less errors, Anna or April?"
+    # mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
+    mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:18
 translate french q_inter_mj_1_e5d5f892:
@@ -59,10 +59,10 @@ translate french q_inter_mj_3_8a7ee1e8:
     mc "I will-"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:40
-translate french q_inter_mj_3_506081d3:
+translate french q_inter_mj_3_eadd033a:
 
-    # mj "Actually, I'll just talk to Anna about it! See if she can ge April to surrender her's too."
-    mj "Actually, I'll just talk to Anna about it! See if she can ge April to surrender her's too."
+    # mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
+    mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:46
 translate french q_inter_mj_4_819cf8a1:

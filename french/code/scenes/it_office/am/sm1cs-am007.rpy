@@ -23,10 +23,10 @@ translate french sm1cs_am007_f8576f9f:
     am "Shit, I gotta take this."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:46
-translate french sm1cs_am007_167c5538:
+translate french sm1cs_am007_ed615167:
 
-    # mct "I wonder what the call is about.{w} Seemed important.."
-    mct "I wonder what the call is about.{w} Seemed important.."
+    # mct "I wonder what the call is about.{w} Seemed important."
+    mct "I wonder what the call is about.{w} Seemed important."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:50
 translate french sm1cs_am007_271f3c49:
@@ -161,10 +161,10 @@ translate french sm1cs_am007_5f136771:
     ps "Okay, {i}maybe{/i} you have a point..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:114
-translate french sm1cs_am007_e5cab807:
+translate french sm1cs_am007_44f8eb4e:
 
-    # ps "We should have listened better and we should accept that sometimes you're going to miss pratice."
-    ps "We should have listened better and we should accept that sometimes you're going to miss pratice."
+    # ps "We should have listened better and we should accept that sometimes you're going to miss practice."
+    ps "We should have listened better and we should accept that sometimes you're going to miss practice."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:117
 translate french sm1cs_am007_4ad97173:
@@ -449,16 +449,16 @@ translate french sm1cs_am007_6ae6f77c:
     am "Just because we are dating, doesn't mean you have to come running to my aid anytime it looks like I'm in trouble."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:212
-translate french sm1cs_am007_f02f42d6:
+translate french sm1cs_am007_c4c994b5:
 
-    # am "I work in tech.{w} Every day is a shit sandwhich for breakfast and a anxiety cocktail for lunch."
-    am "I work in tech.{w} Every day is a shit sandwhich for breakfast and a anxiety cocktail for lunch."
+    # am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
+    am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:213
-translate french sm1cs_am007_d29f47da:
+translate french sm1cs_am007_45358e8c:
 
-    # am "And this week has been order on the double-shit sandwhich."
-    am "And this week has been order on the double-shit sandwhich."
+    # am "And this week has been order on the double-shit sandwich."
+    am "And this week has been order on the double-shit sandwich."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:218
 translate french sm1cs_am007_754afbcb:
@@ -1037,16 +1037,16 @@ translate french sm1cs_am007_20_minutes_later_bc21dd33:
     am "Why not?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:529
-translate french sm1cs_am007_20_minutes_later_2e6a0dc6:
+translate french sm1cs_am007_20_minutes_later_01c49227:
 
-    # mc "I have a sudden thrist for a big glass of milk."
-    mc "I have a sudden thrist for a big glass of milk."
+    # mc "I have a sudden thirst for a big glass of milk."
+    mc "I have a sudden thirst for a big glass of milk."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:532
-translate french sm1cs_am007_20_minutes_later_8443acfc:
+translate french sm1cs_am007_20_minutes_later_7368538e:
 
-    # am "You're here to run.{w} Not oggle my tits."
-    am "You're here to run.{w} Not oggle my tits."
+    # am "You're here to run.{w} Not ogle my tits."
+    am "You're here to run.{w} Not ogle my tits."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:535
 translate french sm1cs_am007_20_minutes_later_a65f771d:
@@ -1312,1303 +1312,1303 @@ translate french sm1cs_am007_jogging_continue_9909a9a8:
     # am "I'll be right here with you."
     am "I'll be right here with you."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:731
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:732
 translate french sm1cs_am007_one_hour_later_d29f0e4f:
 
     # mc "Oh... Sweet Fescue grass."
     mc "Oh... Sweet Fescue grass."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:732
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:733
 translate french sm1cs_am007_one_hour_later_3e9d4ba2:
 
     # mc "I've never been sexually attracted to a plant before before."
     mc "I've never been sexually attracted to a plant before before."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:736
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:737
 translate french sm1cs_am007_one_hour_later_0b89e280:
 
     # mc "But you feel so good beneath me."
     mc "But you feel so good beneath me."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:737
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:738
 translate french sm1cs_am007_one_hour_later_e06ee198:
 
     # mc "You are my {b}new{/b} girlfriend."
     mc "You are my {b}new{/b} girlfriend."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:740
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:741
 translate french sm1cs_am007_one_hour_later_d8643da8:
 
     # am "Haha. You ass."
     am "Haha. You ass."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:741
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:742
 translate french sm1cs_am007_one_hour_later_44bcc3dd:
 
     # am "Good thing I'm not the jealous type."
     am "Good thing I'm not the jealous type."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:745
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:746
 translate french sm1cs_am007_one_hour_later_506c2a9d:
 
     # mc "I still...{w} Can't believe...{w} You do this...{w} Like twice a month."
     mc "I still...{w} Can't believe...{w} You do this...{w} Like twice a month."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:748
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:749
 translate french sm1cs_am007_one_hour_later_ddcc28fb:
 
     # am "It's just one of my systems."
     am "It's just one of my systems."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:749
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:750
 translate french sm1cs_am007_one_hour_later_36d3a5e2:
 
     # am "Helps me out when I'm stressing too.{w} That massive surge of endorphins is just what the doctor ordered after a long day of breaking and fixing code."
     am "Helps me out when I'm stressing too.{w} That massive surge of endorphins is just what the doctor ordered after a long day of breaking and fixing code."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:752
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:753
 translate french sm1cs_am007_one_hour_later_3bee70b8:
 
     # mc "I might need a doctor after that jog."
     mc "I might need a doctor after that jog."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:755
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:756
 translate french sm1cs_am007_one_hour_later_45807a6c:
 
     # am "Oh please..."
     am "Oh please..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:756
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:757
 translate french sm1cs_am007_one_hour_later_50068de6:
 
     # am "If you were going to die you would have died by now."
     am "If you were going to die you would have died by now."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:760
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:761
 translate french sm1cs_am007_one_hour_later_1f5b224d:
 
     # mc "Hahaha."
     mc "Hahaha."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:763
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:764
 translate french sm1cs_am007_one_hour_later_518bf882:
 
     # mc "Haha- *groans* Oh!"
     mc "Haha- *groans* Oh!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:764
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:765
 translate french sm1cs_am007_one_hour_later_95064507:
 
     # mc "It does not feel good to laugh."
     mc "It does not feel good to laugh."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:767
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:768
 translate french sm1cs_am007_one_hour_later_84d141b5:
 
     # mc "April?"
     mc "April?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:770
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:771
 translate french sm1cs_am007_one_hour_later_82792784:
 
     # am "Yes, [mcname]."
     am "Yes, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:773
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:774
 translate french sm1cs_am007_one_hour_later_11130935:
 
     # mc "Where are you?"
     mc "Where are you?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:776
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:777
 translate french sm1cs_am007_one_hour_later_68317885:
 
     # am "Mmm. I'm right here."
     am "Mmm. I'm right here."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:779
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:780
 translate french sm1cs_am007_one_hour_later_1fe5fc2b:
 
     # mc "I don't think so."
     mc "I don't think so."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:780
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:781
 translate french sm1cs_am007_one_hour_later_9a2b5140:
 
     # mc "You're thinking about your band right?"
     mc "You're thinking about your band right?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:781
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:782
 translate french sm1cs_am007_one_hour_later_b6d84516:
 
     # mc "Pepper and Mitch."
     mc "Pepper and Mitch."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:786
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:787
 translate french sm1cs_am007_one_hour_later_57610924:
 
     # am "I just can't believe them.{w} Pepper and Mitch have been my friends for years."
     am "I just can't believe them.{w} Pepper and Mitch have been my friends for years."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:787
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:788
 translate french sm1cs_am007_one_hour_later_8b1ff3d2:
 
     # am "But if you looked up spoiled brats in the dictionary, their pictures would be right there!"
     am "But if you looked up spoiled brats in the dictionary, their pictures would be right there!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:790
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:791
 translate french sm1cs_am007_one_hour_later_a95f6f96:
 
     # am "They know how much I love music, and they act like I'm trying to sabotage the band."
     am "They know how much I love music, and they act like I'm trying to sabotage the band."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:791
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:792
 translate french sm1cs_am007_one_hour_later_062574da:
 
     # am "I'd fucking give up my left hand to make it big as a rock star."
     am "I'd fucking give up my left hand to make it big as a rock star."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:794
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:795
 translate french sm1cs_am007_one_hour_later_be60587c:
 
     # am "But I'm not an idiot."
     am "But I'm not an idiot."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:795
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:796
 translate french sm1cs_am007_one_hour_later_9425fa8c:
 
     # am "The odds to become a rock star are shit."
     am "The odds to become a rock star are shit."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:800
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:801
 translate french sm1cs_am007_one_hour_later_2f8e63ed:
 
     # am "And if I left Orbix...{w} if I just abandoned {i}Anna{/i} and the rest of them..."
     am "And if I left Orbix...{w} if I just abandoned {i}Anna{/i} and the rest of them..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:801
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:802
 translate french sm1cs_am007_one_hour_later_e95686fe:
 
     # am "They'd be {b}fucking{/b} lost without me."
     am "They'd be {b}fucking{/b} lost without me."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:802
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:803
 translate french sm1cs_am007_one_hour_later_56546b36:
 
     # am "And if the band doesn't make it.{w} I would have to earn my way back into tech."
     am "And if the band doesn't make it.{w} I would have to earn my way back into tech."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:803
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:804
 translate french sm1cs_am007_one_hour_later_645993d7:
 
     # am "I couldn't just walk back into Orbix like nothing happened."
     am "I couldn't just walk back into Orbix like nothing happened."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:806
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:807
 translate french sm1cs_am007_one_hour_later_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:808
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:809
 translate french sm1cs_am007_one_hour_later_02edda9c:
 
     # am "Well... say something, why don't you?"
     am "Well... say something, why don't you?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:812
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:813
 translate french sm1cs_am007_one_hour_later_8846cde8:
 
     # mc "You're obviously very passionate about the band."
     mc "You're obviously very passionate about the band."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:815
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:816
 translate french sm1cs_am007_one_hour_later_1c3f1056:
 
     # mc "But, as far as I can tell, coding has been part of your DNA even longer."
     mc "But, as far as I can tell, coding has been part of your DNA even longer."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:822
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:823
 translate french sm1cs_am007_one_hour_later_b86d31c6:
 
     # mc "You're between a rock and a hard place right now, April."
     mc "You're between a rock and a hard place right now, April."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:823
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:824
 translate french sm1cs_am007_one_hour_later_6c3b74b2:
 
     # mc "You're smart.{w} You know that sooner or later...{w} Something's gotta give."
     mc "You're smart.{w} You know that sooner or later...{w} Something's gotta give."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:824
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:825
 translate french sm1cs_am007_one_hour_later_d4a433ab:
 
     # mc "And... Something tells me...{w} You already made the call."
     mc "And... Something tells me...{w} You already made the call."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:827
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:828
 translate french sm1cs_am007_one_hour_later_9283c42a:
 
     # am "Maybe.{w} I think I needed to hear that from someone other than myself."
     am "Maybe.{w} I think I needed to hear that from someone other than myself."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:828
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:829
 translate french sm1cs_am007_one_hour_later_1a6bf816:
 
     # am "Thank you, [mcname]."
     am "Thank you, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:832
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:833
 translate french sm1cs_am007_one_hour_later_eed3d8ad:
 
     # mc "So what are you going to do?"
     mc "So what are you going to do?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:836
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:837
 translate french sm1cs_am007_one_hour_later_292a5e5a:
 
     # mc "I'm sorry. I can't really give you good advice about this."
     mc "I'm sorry. I can't really give you good advice about this."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:837
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:838
 translate french sm1cs_am007_one_hour_later_6c0cf4a7:
 
     # mc "It's your life, and I'd hate to say something that puts you on the wrong path."
     mc "It's your life, and I'd hate to say something that puts you on the wrong path."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:840
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:841
 translate french sm1cs_am007_one_hour_later_96e1bad9:
 
     # am "Yeah. Forget I said anything..."
     am "Yeah. Forget I said anything..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:842
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:843
 translate french sm1cs_am007_one_hour_later_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:844
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:845
 translate french sm1cs_am007_one_hour_later_157700e7:
 
     # mc "So what happens now?"
     mc "So what happens now?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:849
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:850
 translate french sm1cs_am007_one_hour_later_1c8acf17:
 
     # am "..."
     am "..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:850
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:851
 translate french sm1cs_am007_one_hour_later_08721f0d:
 
     # am "You should go to the bathroom. {w}Splash some water in your face."
     am "You should go to the bathroom. {w}Splash some water in your face."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:851
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:852
 translate french sm1cs_am007_one_hour_later_100fa7f1:
 
     # am "You've still got some grass up your nose."
     am "You've still got some grass up your nose."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:856
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:857
 translate french sm1cs_am007_one_hour_later_b29343f3:
 
     # mc "I'm good. I'll just shower off at home."
     mc "I'm good. I'll just shower off at home."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:859
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:860
 translate french sm1cs_am007_one_hour_later_cebafa02:
 
     # am "It's fine. I'll come with."
     am "It's fine. I'll come with."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:862
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:863
 translate french sm1cs_am007_one_hour_later_7a3456fb:
 
     # mc "Uh... I'm good. I don't need to go right now."
     mc "Uh... I'm good. I don't need to go right now."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:865
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:866
 translate french sm1cs_am007_one_hour_later_28981525:
 
     # am "I think you should {b}really{/b} go to the bathroom, [mcname]."
     am "I think you should {b}really{/b} go to the bathroom, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:866
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:867
 translate french sm1cs_am007_one_hour_later_49e2b5e0:
 
     # am "And I'll come {i}with{/i} you."
     am "And I'll come {i}with{/i} you."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:868
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:869
 translate french sm1cs_am007_one_hour_later_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:873
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:874
 translate french sm1cs_am007_one_hour_later_ad9a5476:
 
     # mc "Do you have some sixth sense about my bladder?"
     mc "Do you have some sixth sense about my bladder?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:874
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:875
 translate french sm1cs_am007_one_hour_later_55b15cb4:
 
     # mc "I'm telling you, I don't need to use the restroom."
     mc "I'm telling you, I don't need to use the restroom."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:877
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:878
 translate french sm1cs_am007_one_hour_later_2c373927:
 
     # am "Sure. But do you really know that for sure?"
     am "Sure. But do you really know that for sure?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:878
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:879
 translate french sm1cs_am007_one_hour_later_dfd6f92e:
 
     # am "Cause sometimes if you go into a restroom, stuff will happen."
     am "Cause sometimes if you go into a restroom, stuff will happen."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:881
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:882
 translate french sm1cs_am007_one_hour_later_42f745d8:
 
     # am "{i}Good{/i} stuff."
     am "{i}Good{/i} stuff."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:884
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:885
 translate french sm1cs_am007_one_hour_later_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:885
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:886
 translate french sm1cs_am007_one_hour_later_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:889
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:890
 translate french sm1cs_am007_one_hour_later_44644e27:
 
     # am "Oh my god."
     am "Oh my god."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:890
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:891
 translate french sm1cs_am007_one_hour_later_99f62563:
 
     # am "I want you to play with me in the bathroom, [mcname]."
     am "I want you to play with me in the bathroom, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:893
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:894
 translate french sm1cs_am007_one_hour_later_f2316b97:
 
     # mc "Ah."
     mc "Ah."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:896
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:897
 translate french sm1cs_am007_one_hour_later_844a7c83:
 
     # mc "Ahhhhh..."
     mc "Ahhhhh..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:897
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:898
 translate french sm1cs_am007_one_hour_later_cde84a9e:
 
     # mc "Why didn't you say so?"
     mc "Why didn't you say so?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:900
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:901
 translate french sm1cs_am007_one_hour_later_996c9c59:
 
     # am "Lord help me..."
     am "Lord help me..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:906
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:907
 translate french sm1cs_am007_one_hour_later_7133b732:
 
     # mc "Ooooooh. I get it."
     mc "Ooooooh. I get it."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:907
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:908
 translate french sm1cs_am007_one_hour_later_b2def198:
 
     # mc "You want to turn that restroom..."
     mc "You want to turn that restroom..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:908
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:909
 translate french sm1cs_am007_one_hour_later_2f5ffd80:
 
     # mc "Into a sex room..."
     mc "Into a sex room..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:911
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:912
 translate french sm1cs_am007_one_hour_later_44644e27_1:
 
     # am "Oh my god."
     am "Oh my god."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:912
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:913
 translate french sm1cs_am007_one_hour_later_8da34dec:
 
     # am "Forget I said anything."
     am "Forget I said anything."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:915
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:916
 translate french sm1cs_am007_one_hour_later_f8eeb524:
 
     # mc "Nah-uh. No take-backs."
     mc "Nah-uh. No take-backs."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:918
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:919
 translate french sm1cs_am007_one_hour_later_7cf9a676:
 
     # am "Then hurry the fuck up before I change my mind, dummy."
     am "Then hurry the fuck up before I change my mind, dummy."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:931
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:932
 translate french sm1cs_am007_one_hour_later_bfd26833:
 
     # am "Lock the door."
     am "Lock the door."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:934
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:935
 translate french sm1cs_am007_one_hour_later_45d4b8ac:
 
     # "Click"
     "Click"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:943
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:944
 translate french sm1cs_am007_one_hour_later_a06a0ff5:
 
     # mc "Mmmummm!"
     mc "Mmmummm!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:945
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:946
 translate french sm1cs_am007_one_hour_later_4fce0f53:
 
     # am "*moaning*"
     am "*moaning*"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:946
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:947
 translate french sm1cs_am007_one_hour_later_a0b304e8:
 
     # mct "All that fucking jogging and sweating has me right on the edge."
     mct "All that fucking jogging and sweating has me right on the edge."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:948
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:949
 translate french sm1cs_am007_one_hour_later_dc30ffd1:
 
     # am "Muah..."
     am "Muah..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:949
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:950
 translate french sm1cs_am007_one_hour_later_47eec681:
 
     # am "Take off your shirt!"
     am "Take off your shirt!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:962
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:963
 translate french sm1cs_am007_one_hour_later_d1f9307a:
 
     # am "*hungry licking*"
     am "*hungry licking*"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:965
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:966
 translate french sm1cs_am007_one_hour_later_30507156:
 
     # mct "April's not wasting any time."
     mct "April's not wasting any time."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:968
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:969
 translate french sm1cs_am007_one_hour_later_1f2e4625:
 
     # am "Lpppfff.... likkaah..."
     am "Lpppfff.... likkaah..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:971
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:972
 translate french sm1cs_am007_one_hour_later_ce766102:
 
     # mc "Mmm."
     mc "Mmm."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:975
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:976
 translate french sm1cs_am007_one_hour_later_3a028a00:
 
     # mc "This is so hot, April."
     mc "This is so hot, April."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:977
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:978
 translate french sm1cs_am007_one_hour_later_4cb837c7:
 
     # mct "When her switch goes off, she's a real wild thang."
     mct "When her switch goes off, she's a real wild thang."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:983
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:984
 translate french sm1cs_am007_one_hour_later_64e42b04:
 
     # am "Ahuaah..."
     am "Ahuaah..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:984
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:985
 translate french sm1cs_am007_one_hour_later_79ca4b0a:
 
     # am "You're so smelly right now."
     am "You're so smelly right now."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:985
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:986
 translate french sm1cs_am007_one_hour_later_191073cb:
 
     # am "Like an animal..."
     am "Like an animal..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:988
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:989
 translate french sm1cs_am007_one_hour_later_69c25b65:
 
     # mc "Yeah..."
     mc "Yeah..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:991
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:992
 translate french sm1cs_am007_one_hour_later_6cebdd07:
 
     # am "Can I... lick your armpits?"
     am "Can I... lick your armpits?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:999
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1000
 translate french sm1cs_am007_one_hour_later_682a47fe:
 
     # mc "So long as I can do the same to you."
     mc "So long as I can do the same to you."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1007
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1008
 translate french sm1cs_am007_one_hour_later_647f74a2:
 
     # mc "I'd prefer to just lick yours, April."
     mc "I'd prefer to just lick yours, April."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1009
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1010
 translate french sm1cs_am007_one_hour_later_5660918f:
 
     # am "Okay. That's fine."
     am "Okay. That's fine."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1017
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1018
 translate french sm1cs_am007_one_hour_later_013235ea:
 
     # mc "I have other things in mind, April."
     mc "I have other things in mind, April."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1020
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1021
 translate french sm1cs_am007_one_hour_later_14660504:
 
     # am "Okay."
     am "Okay."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1026
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1027
 translate french sm1cs_am007_one_hour_later_e9a4d565:
 
     # am "Mrmmm..."
     am "Mrmmm..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1027
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1028
 translate french sm1cs_am007_one_hour_later_c0e5d1f3:
 
     # am "*sniffing*"
     am "*sniffing*"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1028
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1029
 translate french sm1cs_am007_one_hour_later_16f570b6:
 
     # am "Gawd..."
     am "Gawd..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1032
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1033
 translate french sm1cs_am007_one_hour_later_97e20b6a:
 
     # mc "My turn..."
     mc "My turn..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1038
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1039
 translate french sm1cs_am007_one_hour_later_9b6fd1b4:
 
     # am "Yes..."
     am "Yes..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1039
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1040
 translate french sm1cs_am007_one_hour_later_3d7c9020:
 
     # am "Oh fuck."
     am "Oh fuck."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1040
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1041
 translate french sm1cs_am007_one_hour_later_b3745e5a:
 
     # am "Your tongue..."
     am "Your tongue..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1041
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1042
 translate french sm1cs_am007_one_hour_later_9d24ef07:
 
     # am "That's it. I like it so much."
     am "That's it. I like it so much."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1056
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1057
 translate french sm1cs_am007_one_hour_later_094f44bc:
 
     # am "*heavy breathing*"
     am "*heavy breathing*"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1061
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1062
 translate french sm1cs_am007_one_hour_later_e2e529bb:
 
     # am "Mrraa-hffah..."
     am "Mrraa-hffah..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1062
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1063
 translate french sm1cs_am007_one_hour_later_2295c0df:
 
     # am "Ahuaah. [mcname]."
     am "Ahuaah. [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1065
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1066
 translate french sm1cs_am007_one_hour_later_096bcc92:
 
     # mc "Too much?"
     mc "Too much?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1067
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1068
 translate french sm1cs_am007_one_hour_later_31538b5f:
 
     # am "*sighing* Just... a little..."
     am "*sighing* Just... a little..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1068
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1069
 translate french sm1cs_am007_one_hour_later_3088b4dd:
 
     # am "It's starting to feel better now."
     am "It's starting to feel better now."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1073
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1074
 translate french sm1cs_am007_one_hour_later_1f163a4f:
 
     # am "I want to feel your cock..."
     am "I want to feel your cock..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1074
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1075
 translate french sm1cs_am007_one_hour_later_af23ca9a:
 
     # am "Between my breasts."
     am "Between my breasts."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1082
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1083
 translate french sm1cs_am007_one_hour_later_d32126c2:
 
     # am "It's getting so warm."
     am "It's getting so warm."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1083
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1084
 translate french sm1cs_am007_one_hour_later_b14fe482:
 
     # am "Stroke your cock with my tits, [mcname]!"
     am "Stroke your cock with my tits, [mcname]!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1086
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1087
 translate french sm1cs_am007_one_hour_later_c4635acf:
 
     # am "I'm a bad girl. Seeing how hard I make you makes me so fucking wet!"
     am "I'm a bad girl. Seeing how hard I make you makes me so fucking wet!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1087
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1088
 translate french sm1cs_am007_one_hour_later_267a40ef:
 
     # mc "Your tits feel great, April."
     mc "Your tits feel great, April."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1090
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1091
 translate french sm1cs_am007_one_hour_later_cdd44701:
 
     # mc "Your whole body looks perfect for this kind of thing."
     mc "Your whole body looks perfect for this kind of thing."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1091
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1092
 translate french sm1cs_am007_one_hour_later_efcf743d:
 
     # am "*happy moaning*"
     am "*happy moaning*"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1097
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1098
 translate french sm1cs_am007_one_hour_later_8422de45:
 
     # am "Muaah..."
     am "Muaah..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1100
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1101
 translate french sm1cs_am007_one_hour_later_08dfc3d1:
 
     # am "I think I'm ready..."
     am "I think I'm ready..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1103
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1104
 translate french sm1cs_am007_one_hour_later_f49fff8f:
 
     # mc "Yeah?"
     mc "Yeah?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1104
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1105
 translate french sm1cs_am007_one_hour_later_a2d98c0a:
 
     # am "Mmhmm."
     am "Mmhmm."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1109
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1110
 translate french sm1cs_am007_one_hour_later_2b36c4d6:
 
     # am "Glrrph..."
     am "Glrrph..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1112
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1113
 translate french sm1cs_am007_one_hour_later_8fafb8d5:
 
     # am "Glrurrrp...{w} Plurrph...{w}"
     am "Glrurrrp...{w} Plurrph...{w}"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1115
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1116
 translate french sm1cs_am007_one_hour_later_f5b3e1a9:
 
     # am "Gallphh..."
     am "Gallphh..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1121
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1122
 translate french sm1cs_am007_one_hour_later_eab6139b:
 
     # am "Awwahhhh!"
     am "Awwahhhh!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1122
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1123
 translate french sm1cs_am007_one_hour_later_2ee33b29:
 
     # am "I want to feel it inside."
     am "I want to feel it inside."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1125
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1126
 translate french sm1cs_am007_one_hour_later_ac370935:
 
     # mc "I didn't think you wanted our first time to be something crazy like this."
     mc "I didn't think you wanted our first time to be something crazy like this."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1128
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1129
 translate french sm1cs_am007_one_hour_later_0a4aa5ad:
 
     # am "I'm not allowed to be wrong some times?"
     am "I'm not allowed to be wrong some times?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1130
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1131
 translate french sm1cs_am007_one_hour_later_5cb4bc0c:
 
     # mc "Of course you are. I just didn't expect it."
     mc "Of course you are. I just didn't expect it."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1133
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1134
 translate french sm1cs_am007_one_hour_later_aac0bd77:
 
     # am "Are you going to fuck me or not?"
     am "Are you going to fuck me or not?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1134
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1135
 translate french sm1cs_am007_one_hour_later_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1137
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1138
 translate french sm1cs_am007_one_hour_later_5cba0b2b:
 
     # am "Seriously?"
     am "Seriously?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1140
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1141
 translate french sm1cs_am007_one_hour_later_d11fa7b9:
 
     # mct "Time to activate beast mode."
     mct "Time to activate beast mode."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1142
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1143
 translate french sm1cs_am007_one_hour_later_476a0226:
 
     # mc "Fuck you. I'm going to fuck you."
     mc "Fuck you. I'm going to fuck you."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1145
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1146
 translate french sm1cs_am007_one_hour_later_060becd2:
 
     # am "You hesitated!"
     am "You hesitated!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1149
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1150
 translate french sm1cs_am007_one_hour_later_8d213f61:
 
     # mc "I was thinking of a funny story."
     mc "I was thinking of a funny story."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1152
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1153
 translate french sm1cs_am007_one_hour_later_bc39512b:
 
     # am "Oh yeah? Tell me-"
     am "Oh yeah? Tell me-"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1157
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1158
 translate french sm1cs_am007_one_hour_later_e9a4d565_1:
 
     # am "Mrmmm..."
     am "Mrmmm..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1160
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1161
 translate french sm1cs_am007_one_hour_later_7afa02a8:
 
     # am "Cheater."
     am "Cheater."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1163
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1164
 translate french sm1cs_am007_one_hour_later_96328983:
 
     # mc "Shut up and turn around."
     mc "Shut up and turn around."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1165
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1166
 translate french sm1cs_am007_one_hour_later_8881f328:
 
     # am "Mmmmuh...."
     am "Mmmmuh...."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1169
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1170
 translate french sm1cs_am007_one_hour_later_1c877f17:
 
     # mc "You're a bad girl, aren't you."
     mc "You're a bad girl, aren't you."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1172
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1173
 translate french sm1cs_am007_one_hour_later_7e10ce6f:
 
     # am "I try not to be."
     am "I try not to be."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1175
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1176
 translate french sm1cs_am007_one_hour_later_22dbd3e7:
 
     # mc "You kind of suck at it."
     mc "You kind of suck at it."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1179
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1180
 translate french sm1cs_am007_one_hour_later_f0c20ac5:
 
     # am "*light moaning* The world made me like this."
     am "*light moaning* The world made me like this."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1181
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1182
 translate french sm1cs_am007_one_hour_later_7cf65b22:
 
     # mc "Then I have the world to thank."
     mc "Then I have the world to thank."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1182
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1183
 translate french sm1cs_am007_one_hour_later_4fce0f53_1:
 
     # am "*moaning*"
     am "*moaning*"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1183
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1184
 translate french sm1cs_am007_one_hour_later_b3a91b79:
 
     # am "Please don't make me wait any more, [mcname]."
     am "Please don't make me wait any more, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1190
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1191
 translate french sm1cs_am007_one_hour_later_ace625cb:
 
     # am "Oh fuck!"
     am "Oh fuck!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1191
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1192
 translate french sm1cs_am007_one_hour_later_f1e37513:
 
     # am "It's so big."
     am "It's so big."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1194
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1195
 translate french sm1cs_am007_one_hour_later_028fe7d3:
 
     # am "Fuck... Fuck me! Fuck my pussy!"
     am "Fuck... Fuck me! Fuck my pussy!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1195
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1196
 translate french sm1cs_am007_one_hour_later_907cae99:
 
     # am "I love it."
     am "I love it."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1198
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1199
 translate french sm1cs_am007_one_hour_later_12577720:
 
     # am "Give me every inch, [mcname]!"
     am "Give me every inch, [mcname]!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1199
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1200
 translate french sm1cs_am007_one_hour_later_3a1d4cf8:
 
     # am "Owuaha..."
     am "Owuaha..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1200
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1201
 translate french sm1cs_am007_one_hour_later_37971945:
 
     # am "Fuuhhhaaak."
     am "Fuuhhhaaak."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1203
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1204
 translate french sm1cs_am007_one_hour_later_b630bcda:
 
     # am "I'm getting close."
     am "I'm getting close."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1204
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1205
 translate french sm1cs_am007_one_hour_later_74fc6761:
 
     # mc "Me too."
     mc "Me too."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1207
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1208
 translate french sm1cs_am007_one_hour_later_e5bb3850:
 
     # am "Mrrrrm-hmmm..."
     am "Mrrrrm-hmmm..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1208
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1209
 translate french sm1cs_am007_one_hour_later_dddb4ec5:
 
     # am "Awhuaah..."
     am "Awhuaah..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1211
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1212
 translate french sm1cs_am007_one_hour_later_00172338:
 
     # am "I'm cumming."
     am "I'm cumming."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1212
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1213
 translate french sm1cs_am007_one_hour_later_6a72c582:
 
     # am "Ahu-huaaaah!"
     am "Ahu-huaaaah!"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1215
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1216
 translate french sm1cs_am007_one_hour_later_6a6bc5a5:
 
     # mc "April. I'm getting close."
     mc "April. I'm getting close."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1216
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1217
 translate french sm1cs_am007_one_hour_later_c983c525:
 
     # am "Don't stop-huaah!... *moaning*"
     am "Don't stop-huaah!... *moaning*"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1219
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1220
 translate french sm1cs_am007_one_hour_later_728182d4:
 
     # am "I want it!{w} I want to feel your jizz fucking up my hole. *moans* "
     am "I want it!{w} I want to feel your jizz fucking up my hole. *moans* "
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1225
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1226
 translate french sm1cs_am007_one_hour_later_6cd61c3f:
 
     # am "Phuaah... phew..."
     am "Phuaah... phew..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1233
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1234
 translate french sm1cs_am007_one_hour_later_c921a7eb:
 
     # am "Mrraaah... so much cum."
     am "Mrraaah... so much cum."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1234
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1235
 translate french sm1cs_am007_one_hour_later_687af46f:
 
     # am "You really creampied me..."
     am "You really creampied me..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1237
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1238
 translate french sm1cs_am007_one_hour_later_018fe15a:
 
     # mc "Yeah. I should have asked earlier."
     mc "Yeah. I should have asked earlier."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1238
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1239
 translate french sm1cs_am007_one_hour_later_fd7a2976:
 
     # mc "I got a little crazy there at the end."
     mc "I got a little crazy there at the end."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1242
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1243
 translate french sm1cs_am007_one_hour_later_0f730d67:
 
     # am "It's alright. I wanted to feel you cum inside me."
     am "It's alright. I wanted to feel you cum inside me."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1245
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1246
 translate french sm1cs_am007_one_hour_later_5dccacf9:
 
     # am "In the heat of the moment, it felt wasteful to ask you to pull out."
     am "In the heat of the moment, it felt wasteful to ask you to pull out."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1248
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1249
 translate french sm1cs_am007_one_hour_later_27eb4581:
 
     # mc "So you enjoy a good creampie?"
     mc "So you enjoy a good creampie?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1252
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1253
 translate french sm1cs_am007_one_hour_later_b10fa58c:
 
     # am "I guess so."
     am "I guess so."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1253
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1254
 translate french sm1cs_am007_one_hour_later_ac7acec1:
 
     # am "There is something so... animalistic about a man spilling his load inside a woman..."
     am "There is something so... animalistic about a man spilling his load inside a woman..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1254
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1255
 translate french sm1cs_am007_one_hour_later_7a028b29:
 
     # am "I really wanted to try it."
     am "I really wanted to try it."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1257
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1258
 translate french sm1cs_am007_one_hour_later_646a2746:
 
     # mc "Happy to help."
     mc "Happy to help."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1258
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1259
 translate french sm1cs_am007_one_hour_later_89663c6e:
 
     # mc "We should try to clean up a little and get our clothes back on."
     mc "We should try to clean up a little and get our clothes back on."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1259
-translate french sm1cs_am007_one_hour_later_832c96b9:
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1260
+translate french sm1cs_am007_one_hour_later_36b9f516:
 
-    # mc "Aynone standing near this building might have heard us."
-    mc "Aynone standing near this building might have heard us."
+    # mc "Anyone standing near this building might have heard us."
+    mc "Anyone standing near this building might have heard us."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1263
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1264
 translate french sm1cs_am007_one_hour_later_a2d98c0a_1:
 
     # am "Mmhmm."
     am "Mmhmm."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1276
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1277
 translate french sm1cs_am007_one_hour_later_668ca335:
 
     # am "Thank you for that, [mcname]."
     am "Thank you for that, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1277
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1278
 translate french sm1cs_am007_one_hour_later_f56d580a:
 
     # am "I still have some shit to figure out with my band and work."
     am "I still have some shit to figure out with my band and work."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1278
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1279
 translate french sm1cs_am007_one_hour_later_fe91ed4c:
 
     # am "But at least I got an extra {b}load{/b} of endorphins to help keep my head on straight."
     am "But at least I got an extra {b}load{/b} of endorphins to help keep my head on straight."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1281
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1282
 translate french sm1cs_am007_one_hour_later_a5faeaa2:
 
     # mc "Yeah but... you know we're doing more than just hooking up, April."
     mc "Yeah but... you know we're doing more than just hooking up, April."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1284
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1285
 translate french sm1cs_am007_one_hour_later_a9c0e1eb:
 
     # am "I know. Which makes you a pretty good boyfriend."
     am "I know. Which makes you a pretty good boyfriend."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1285
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1286
 translate french sm1cs_am007_one_hour_later_2f92365c:
 
     # am "Helping to fuck his girlfriend nice and hard when she's struggling."
     am "Helping to fuck his girlfriend nice and hard when she's struggling."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1286
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1287
 translate french sm1cs_am007_one_hour_later_b4a41fd4:
 
     # am "I like...{w} I really like you, [mcname]."
     am "I like...{w} I really like you, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1287
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1288
 translate french sm1cs_am007_one_hour_later_bafeb2c1:
 
     # am "You understand me, and you know how to put up with my quirks."
     am "You understand me, and you know how to put up with my quirks."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1290
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1291
 translate french sm1cs_am007_one_hour_later_b845c299:
 
     # mc "I like you too, April."
     mc "I like you too, April."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1291
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1292
 translate french sm1cs_am007_one_hour_later_34ab3758:
 
     # mc "I never imagined I'd meet someone like you when I came to Orbix."
     mc "I never imagined I'd meet someone like you when I came to Orbix."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1292
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1293
 translate french sm1cs_am007_one_hour_later_826d8536:
 
     # mc "I thought I was just going to meet people like I met at the-"
     mc "I thought I was just going to meet people like I met at the-"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1295
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1296
 translate french sm1cs_am007_one_hour_later_dbc9c5b2:
 
     # mct "Oh shit."
     mct "Oh shit."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1296
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1297
 translate french sm1cs_am007_one_hour_later_5dc869e4:
 
     # mct "This is why I should stop talking after sex."
     mct "This is why I should stop talking after sex."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1297
-translate french sm1cs_am007_one_hour_later_dfa05469:
-
-    # mct "I almost said \"at Fetish Locator parties\""
-    mct "I almost said \"at Fetish Locator parties\""
-
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1298
+translate french sm1cs_am007_one_hour_later_6d10752d:
+
+    # mct "I almost said \"at Fetish Locator parties\"."
+    mct "I almost said \"at Fetish Locator parties\"."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1299
 translate french sm1cs_am007_one_hour_later_3eb067d9:
 
     # mct "Nothing good ever comes out of pillow talk."
     mct "Nothing good ever comes out of pillow talk."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1301
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1302
 translate french sm1cs_am007_one_hour_later_7d6cfb4e:
 
     # am "People you met where?"
     am "People you met where?"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1304
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1305
 translate french sm1cs_am007_one_hour_later_09eb76ba:
 
     # mc "Oh like. People I met in computer classes during college."
     mc "Oh like. People I met in computer classes during college."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1305
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1306
 translate french sm1cs_am007_one_hour_later_03e19c14:
 
     # mc "You're unlike any of them. {w} One of a kind."
     mc "You're unlike any of them. {w} One of a kind."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1308
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1309
 translate french sm1cs_am007_one_hour_later_a0c0da6f:
 
     # am "Well, You don't need to feed my ego too much."
     am "Well, You don't need to feed my ego too much."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1309
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1310
 translate french sm1cs_am007_one_hour_later_007199ad:
 
     # am "I'm still floating on cloud nine after you filled me up."
     am "I'm still floating on cloud nine after you filled me up."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1311
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1312
 translate french sm1cs_am007_one_hour_later_89e61160:
 
     # am "*giggles*"
     am "*giggles*"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1314
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1315
 translate french sm1cs_am007_one_hour_later_4fc13bf5:
 
     # am "I need to get going."
     am "I need to get going."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1315
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1316
 translate french sm1cs_am007_one_hour_later_f6732eb5:
 
     # am "I should make up some of the work I didn't do because of the call with Pepper and Mitch."
     am "I should make up some of the work I didn't do because of the call with Pepper and Mitch."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1320
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1321
 translate french sm1cs_am007_one_hour_later_5d8fc6e7:
 
     # mc "Good plan."
     mc "Good plan."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1325
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1326
 translate french sm1cs_am007_one_hour_later_bfc6451b:
 
     # am "*happy humming*"
     am "*happy humming*"
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1332
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1334
 translate french sm1cs_am007_one_hour_later_80ff4ce8:
 
     # am "I'll talk to you later, [mcname]."
     am "I'll talk to you later, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1335
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1337
 translate french sm1cs_am007_one_hour_later_8f353817:
 
     # mc "Count on it."
     mc "Count on it."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1339
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1342
 translate french sm1cs_am007_one_hour_later_928b0ded:
 
     # mct "Shit."
     mct "Shit."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1340
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1343
 translate french sm1cs_am007_one_hour_later_655bb713:
 
     # mct "I shouldn't have lied to April."
     mct "I shouldn't have lied to April."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1343
-translate french sm1cs_am007_one_hour_later_afbb7fa8:
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1346
+translate french sm1cs_am007_one_hour_later_620b174c:
 
-    # mct "It's a bit screwed up. I shouldn't get invovled with anyone without telling them why I came to Orbix in the first place."
-    mct "It's a bit screwed up. I shouldn't get invovled with anyone without telling them why I came to Orbix in the first place."
+    # mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
+    mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1344
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1347
 translate french sm1cs_am007_one_hour_later_0c987c56:
 
     # mct "But this wasn't the right time."
     mct "But this wasn't the right time."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1347
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1350
 translate french sm1cs_am007_one_hour_later_ead4ac04:
 
     # mct "Yeah. That's it..."
     mct "Yeah. That's it..."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1348
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1351
 translate french sm1cs_am007_one_hour_later_2e7e88fb:
 
     # mct "I'll tell her in due time."
     mct "I'll tell her in due time."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1349
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1352
 translate french sm1cs_am007_one_hour_later_76afc299:
 
     # mct "It will be fine.{w} I {b}know{/b} April will understand..."
@@ -2625,8 +2625,8 @@ translate french strings:
     new "You'll figure it out"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
-    old "Suprised it's taking you this long"
-    new "Suprised it's taking you this long"
+    old "Surprised it's taking you this long"
+    new "Surprised it's taking you this long"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "I have heard of the general concept"
@@ -2688,31 +2688,31 @@ translate french strings:
     old "One hour of torture later"
     new "One hour of torture later"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:816
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:817
     old "You're between a rock and a hard place"
     new "You're between a rock and a hard place"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:816
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:817
     old "I don't know what to say"
     new "I don't know what to say"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:869
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:870
     old "Do you have some sixth sense?"
     new "Do you have some sixth sense?"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:869
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:870
     old "Oh. I get it"
     new "Oh. I get it"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:993
     old "So long as I can lick yours"
     new "So long as I can lick yours"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:993
     old "I'd prefer to just lick yours"
     new "I'd prefer to just lick yours"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:993
     old "I'd like to do other things to you"
     new "I'd like to do other things to you"
 

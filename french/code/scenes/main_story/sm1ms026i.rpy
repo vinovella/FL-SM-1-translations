@@ -71,8 +71,8 @@ translate french strings:
     new "Choose the movie later"
 
     # game/code/scenes/main_story/sm1ms026i.rpy:112
-    old "Choose Pirates movie (progress Tiasia's story first)"
-    new "Choose Pirates movie (progress Tiasia's story first)"
+    old "Choose Pirates movie (progress Taisia's story first)"
+    new "Choose Pirates movie (progress Taisia's story first)"
 
     # game/code/scenes/main_story/sm1ms026i.rpy:113
     old "Choose Pirates movie"

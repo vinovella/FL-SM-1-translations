@@ -670,1063 +670,1063 @@ translate french cw006_choice1_a1d89218:
     # cw "Naturally."
     cw "Naturally."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:374
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:375
 translate french sm1cs_cw006_continue_relationship_acaff154:
 
     # mc "What about the option where we just keep seeing each other?"
     mc "What about the option where we just keep seeing each other?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:377
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:378
 translate french sm1cs_cw006_onramp_1a_277f7aa8:
 
     # cw "Well, obviously, even if I was... {i}curious{/i}... to see how we would work together as an actual couple."
     cw "Well, obviously, even if I was... {i}curious{/i}... to see how we would work together as an actual couple."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:378
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:379
 translate french sm1cs_cw006_onramp_1a_80e27e8f:
 
     # cw "I am afraid that is out of the question."
     cw "I am afraid that is out of the question."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:381
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:382
 translate french sm1cs_cw006_onramp_1a_416bfd85:
 
     # mct "Feels like I can't convince her to change her mind on that."
     mct "Feels like I can't convince her to change her mind on that."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:382
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:383
 translate french sm1cs_cw006_onramp_1a_6ab976d6:
 
     # mct "This sucks."
     mct "This sucks."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:386
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:387
 translate french sm1cs_cw006_onramp_1a_31f4de02:
 
     # cw "I see your disappointment, and I witness it."
     cw "I see your disappointment, and I witness it."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:387
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:388
 translate french sm1cs_cw006_onramp_1a_9cfbe5a0:
 
     # cw "But... there was one other thing I wanted to mention."
     cw "But... there was one other thing I wanted to mention."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:390
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:391
 translate french sm1cs_cw006_onramp_1a_362f03da:
 
     # mc "Yeah. What is that?"
     mc "Yeah. What is that?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:394
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:395
 translate french sm1cs_cw006_onramp_1a_173081c5:
 
     # cw "I was considering putting you on a {i}special{/i} assignment."
     cw "I was considering putting you on a {i}special{/i} assignment."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:395
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:396
 translate french sm1cs_cw006_onramp_1a_4240034f:
 
     # cw "Mr. Young..."
     cw "Mr. Young..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:396
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:397
 translate french sm1cs_cw006_onramp_1a_f13baa7e:
 
     # cw "Both..."
     cw "Both..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:399
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:400
 translate french sm1cs_cw006_onramp_1a_e54e3064:
 
     # cw "*clears throat* Both times that we {b}played{/b} our role on the yacht, I was able to think more clearly in the..."
     cw "*clears throat* Both times that we {b}played{/b} our role on the yacht, I was able to think more clearly in the..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:402
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:403
 translate french sm1cs_cw006_onramp_1a_612f21c5:
 
     # cw "{i}Post{/i} phase."
     cw "{i}Post{/i} phase."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:403
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:404
 translate french sm1cs_cw006_onramp_1a_0282ab77:
 
     # cw "Being around you...{w} appears to help with my workflow."
     cw "Being around you...{w} appears to help with my workflow."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:404
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:405
 translate french sm1cs_cw006_onramp_1a_61a975b5:
 
     # cw "I think a little further analysis would be good.{w} Neccesary even."
     cw "I think a little further analysis would be good.{w} Neccesary even."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:408
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:409
 translate french sm1cs_cw006_onramp_1a_212a1b90:
 
     # cw "The increase in my focus after... our play time, is certainly related to something else."
     cw "The increase in my focus after... our play time, is certainly related to something else."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:409
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:410
 translate french sm1cs_cw006_onramp_1a_b3462c02:
 
     # cw "But... if it's not."
     cw "But... if it's not."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:413
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:414
 translate french sm1cs_cw006_onramp_1a_07abf13f:
 
     # cw "Like I said, I'm willing to engage you in a special assignment."
     cw "Like I said, I'm willing to engage you in a special assignment."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:414
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:415
 translate french sm1cs_cw006_onramp_1a_1e1f85a7:
 
     # cw "On a purely probationary, of course."
     cw "On a purely probationary, of course."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:417
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:418
 translate french sm1cs_cw006_onramp_1a_8b9f9a98:
 
     # mc "I'm not quite sure what you're saying, Claire."
     mc "I'm not quite sure what you're saying, Claire."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:421
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:422
 translate french sm1cs_cw006_onramp_1a_42de4292:
 
     # cw "Ms. Watts. {i}Here{/i}."
     cw "Ms. Watts. {i}Here{/i}."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:423
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:424
 translate french sm1cs_cw006_onramp_1a_fbb86c59:
 
     # mc "Right. I'm not sure what you are saying, Ms. Watts."
     mc "Right. I'm not sure what you are saying, Ms. Watts."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:424
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:425
 translate french sm1cs_cw006_onramp_1a_38d02a53:
 
     # cw "In the weeks ahead, I may be calling on you to help me out with some technical details about a project I am working on."
     cw "In the weeks ahead, I may be calling on you to help me out with some technical details about a project I am working on."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:425
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:426
 translate french sm1cs_cw006_onramp_1a_bb517c47:
 
     # cw "And by helping me out, I mean I'd need you help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
     cw "And by helping me out, I mean I'd need you help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:426
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:427
 translate french sm1cs_cw006_onramp_1a_05500ff6:
 
     # mc "Huh?"
     mc "Huh?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:429
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:430
 translate french sm1cs_cw006_onramp_1a_cb7cb9f1:
 
     # mc "Oooooohhhh."
     mc "Oooooohhhh."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:431
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:432
 translate french sm1cs_cw006_onramp_1a_1a6a74be:
 
     # mct "I can't believe it.{w} Claire is asking me to be like her..."
     mct "I can't believe it.{w} Claire is asking me to be like her..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:432
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:433
 translate french sm1cs_cw006_onramp_1a_796670c6:
 
     # mct "Secret work sex buddy?"
     mct "Secret work sex buddy?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:434
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:435
 translate french sm1cs_cw006_onramp_1a_83396100:
 
     # cw "If you agree, then the project would be limited to just the two of us."
     cw "If you agree, then the project would be limited to just the two of us."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:435
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:436
 translate french sm1cs_cw006_onramp_1a_b230b4e5:
 
     # cw "You would be required to never share any details with anyone in the office."
     cw "You would be required to never share any details with anyone in the office."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:438
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:439
 translate french sm1cs_cw006_onramp_1a_b44a6d2a:
 
     # mc "Not even HR?"
     mc "Not even HR?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:441
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:442
 translate french sm1cs_cw006_onramp_1a_5ef14e28:
 
     # cw "Especially not HR."
     cw "Especially not HR."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:442
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:443
 translate french sm1cs_cw006_onramp_1a_e5dcba21:
 
     # cw "Ahem. I mean, if this special project continues for an extended time, I will make the correct arrangements with HR."
     cw "Ahem. I mean, if this special project continues for an extended time, I will make the correct arrangements with HR."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:445
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:446
 translate french sm1cs_cw006_onramp_1a_6d4e55d7:
 
     # cw "I've actually already printed out all the documents, so we can adjust as necessary."
     cw "I've actually already printed out all the documents, so we can adjust as necessary."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:446
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:447
 translate french sm1cs_cw006_onramp_1a_dfa55c86:
 
     # cw "But you can trust that I won't use this against you for any kind of dismissal event, [mcname]."
     cw "But you can trust that I won't use this against you for any kind of dismissal event, [mcname]."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:449
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:450
 translate french sm1cs_cw006_onramp_1a_606e2d02:
 
     # mc "Sure."
     mc "Sure."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:455
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:456
 translate french sm1cs_cw006_onramp_1a_a7b4d818:
 
     # mct "It sounds like Claire wants what I've got."
     mct "It sounds like Claire wants what I've got."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:456
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:457
 translate french sm1cs_cw006_onramp_1a_a5cf0c8b:
 
     # mct "And it's not like she fired me after the lunch date, or the trip."
     mct "And it's not like she fired me after the lunch date, or the trip."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:457
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:458
 translate french sm1cs_cw006_onramp_1a_08cf969b:
 
     # mct "So I feel like she's being genuine."
     mct "So I feel like she's being genuine."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:462
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:463
 translate french sm1cs_cw006_onramp_1a_93d9b07e:
 
     # mct "She says this now, but what happens if in two weeks from now, she changes her mind?"
     mct "She says this now, but what happens if in two weeks from now, she changes her mind?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:463
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:464
 translate french sm1cs_cw006_onramp_1a_5ac929a8:
 
     # mct "She could get rid of me like that."
     mct "She could get rid of me like that."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:464
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:465
 translate french sm1cs_cw006_onramp_1a_f51db5a5:
 
     # mct "I need to think about this. Hard."
     mct "I need to think about this. Hard."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:469
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:470
 translate french sm1cs_cw006_onramp_1a_4337f312:
 
     # mc "Can we talk plainly, Ms. Watts?"
     mc "Can we talk plainly, Ms. Watts?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:470
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:471
 translate french sm1cs_cw006_onramp_1a_a383c672:
 
     # mc "What is it you expect of me?"
     mc "What is it you expect of me?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:473
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:474
 translate french sm1cs_cw006_onramp_1a_fe643b03:
 
     # cw "Well, we would be working very closely together on this project."
     cw "Well, we would be working very closely together on this project."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:474
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:475
 translate french sm1cs_cw006_onramp_1a_1fe753b4:
 
     # cw "One of the first tasks, a test really, would involve you using that handsome mouth of yours."
     cw "One of the first tasks, a test really, would involve you using that handsome mouth of yours."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:477
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:478
 translate french sm1cs_cw006_onramp_1a_b4af63a0:
 
     # cw "To... interface with my {i}body{/i}. One specific part of my body."
     cw "To... interface with my {i}body{/i}. One specific part of my body."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:478
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:479
 translate french sm1cs_cw006_onramp_1a_c311d270:
 
     # cw "I wonder if you can guess which part?"
     cw "I wonder if you can guess which part?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:486
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:487
 translate french sm1cs_cw006_onramp_1a_9e452dac:
 
     # mc "Your lips?"
     mc "Your lips?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:489
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:490
 translate french sm1cs_cw006_onramp_1a_2743aca3:
 
     # cw "In a manner of speaking."
     cw "In a manner of speaking."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:490
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:491
 translate french sm1cs_cw006_onramp_1a_78a51fb3:
 
     # cw "I was thinking my {i}lower{/i} lips."
     cw "I was thinking my {i}lower{/i} lips."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:493
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:494
 translate french sm1cs_cw006_onramp_1a_1932e9e4:
 
     # mc "Your..."
     mc "Your..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:494
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:495
 translate french sm1cs_cw006_onramp_1a_7f32c68b:
 
     # mc "Your pussy.{w} You want me to eat your pussy."
     mc "Your pussy.{w} You want me to eat your pussy."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:500
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:501
 translate french sm1cs_cw006_onramp_1a_ec40a39e:
 
     # mc "You want me to lick your asshole?"
     mc "You want me to lick your asshole?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:504
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:505
 translate french sm1cs_cw006_onramp_1a_8c2a7226:
 
     # cw "What? No."
     cw "What? No."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:507
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:508
 translate french sm1cs_cw006_onramp_1a_9f049444:
 
     # cw "That's so dirty, [mcname]."
     cw "That's so dirty, [mcname]."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:508
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:509
 translate french sm1cs_cw006_onramp_1a_f9f31cd9:
 
     # cw "You're such a bad boy."
     cw "You're such a bad boy."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:511
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:512
 translate french sm1cs_cw006_onramp_1a_0ae3511b:
 
     # cw "No... I want you to eat my pussy."
     cw "No... I want you to eat my pussy."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:518
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:519
 translate french sm1cs_cw006_onramp_1a_ba64102f:
 
     # mc "You want me to eat your pussy."
     mc "You want me to eat your pussy."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:521
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:522
 translate french sm1cs_cw006_onramp_1a_38209a16:
 
     # cw "Excellent deduction, [mcname]."
     cw "Excellent deduction, [mcname]."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:526
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:527
 translate french sm1cs_cw006_onramp_1a_820caaee:
 
     # cw "Mmmm. Yes.{w} The only question is..."
     cw "Mmmm. Yes.{w} The only question is..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:527
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:528
 translate french sm1cs_cw006_onramp_1a_24ffdc36:
 
     # cw "Will you do what I ask?"
     cw "Will you do what I ask?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:531
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:532
 translate french sm1cs_cw006_onramp_1a_06e23fc5:
 
     # cw "I want you to make me feel {b}good{/b}."
     cw "I want you to make me feel {b}good{/b}."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:534
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:535
 translate french sm1cs_cw006_onramp_1a_6fd49647:
 
     # mct "Am I in a dream?"
     mct "Am I in a dream?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:537
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:538
 translate french sm1cs_cw006_onramp_1a_b3558c20:
 
     # mct "Did I get run over by Claire and now I'm in a fever dream state where it just seems like she is asking me to munch on her pussy?!"
     mct "Did I get run over by Claire and now I'm in a fever dream state where it just seems like she is asking me to munch on her pussy?!"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:538
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:539
 translate french sm1cs_cw006_onramp_1a_1b3719f4:
 
     # mct "In the office conference room!"
     mct "In the office conference room!"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:541
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:542
 translate french sm1cs_cw006_onramp_1a_e59cf96b:
 
     # mc "This is..."
     mc "This is..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:542
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:543
 translate french sm1cs_cw006_onramp_1a_9768167d:
 
     # mc "... A trick, right?"
     mc "... A trick, right?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:546
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:547
 translate french sm1cs_cw006_onramp_1a_af5158be:
 
     # mc "Some kind of joke?"
     mc "Some kind of joke?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:549
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:550
 translate french sm1cs_cw006_onramp_1a_e4d61da1:
 
     # cw "I don't joke about oral sex."
     cw "I don't joke about oral sex."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:552
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:553
 translate french sm1cs_cw006_onramp_1a_89b8ce10:
 
     # cw "I prefer a simple, clean operation."
     cw "I prefer a simple, clean operation."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:553
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:554
 translate french sm1cs_cw006_onramp_1a_d96275b5:
 
     # cw "When I desire it, and there is someone eager to give it to me, I ask for it."
     cw "When I desire it, and there is someone eager to give it to me, I ask for it."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:556
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:557
 translate french sm1cs_cw006_onramp_1a_666e3fc3:
 
     # cw "Simple... and clean."
     cw "Simple... and clean."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:560
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:561
 translate french sm1cs_cw006_onramp_1a_fd612ddc:
 
     # mct "And very fucking kinky."
     mct "And very fucking kinky."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:563
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:564
 translate french sm1cs_cw006_onramp_1a_3137c4d1:
 
     # cw "I thought about this for a long time before breathing a single word of it to you, [mcname]."
     cw "I thought about this for a long time before breathing a single word of it to you, [mcname]."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:564
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:565
 translate french sm1cs_cw006_onramp_1a_0da84be4:
 
     # cw "I want to see how you do as..."
     cw "I want to see how you do as..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:567
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:568
 translate french sm1cs_cw006_onramp_1a_e6ae3eca:
 
     # cw "A good boy."
     cw "A good boy."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:570
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:571
 translate french sm1cs_cw006_onramp_1a_fe598eae:
 
     # cw "{b}My{/b} good boy..."
     cw "{b}My{/b} good boy..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:572
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:573
 translate french sm1cs_cw006_onramp_1a_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:575
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:576
 translate french sm1cs_cw006_onramp_1a_c0642bcf:
 
     # cw "Now, this may be too much for you, and I could understand if you are not open to this."
     cw "Now, this may be too much for you, and I could understand if you are not open to this."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:576
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:577
 translate french sm1cs_cw006_onramp_1a_ed376ad8:
 
     # cw "But the basic point, no, the central point...{w} is that I am interested in you doing more physical things with me."
     cw "But the basic point, no, the central point...{w} is that I am interested in you doing more physical things with me."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:591
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:592
 translate french sm1cs_cw006_choice_2_b1204689:
 
     # mc "Thank you, Ms. Watts, but I can't do that."
     mc "Thank you, Ms. Watts, but I can't do that."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:592
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:593
 translate french sm1cs_cw006_choice_2_961ba5fd:
 
     # mc "My life is very complicated as it is."
     mc "My life is very complicated as it is."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:595
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:596
 translate french sm1cs_cw006_choice_2_7ba9efe3:
 
     # mc "I'm sorry to let you down."
     mc "I'm sorry to let you down."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:598
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:599
 translate french sm1cs_cw006_choice_2_61e2b48b:
 
     # cw "No need to apologize, Mr. Young."
     cw "No need to apologize, Mr. Young."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:602
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:603
 translate french sm1cs_cw006_choice_2_760171b7:
 
     # cw "I completely understand."
     cw "I completely understand."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:603
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:604
 translate french sm1cs_cw006_choice_2_ded11f05:
 
     # cw "Thank you being professional and understanding about this."
     cw "Thank you being professional and understanding about this."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:606
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:607
 translate french sm1cs_cw006_choice_2_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:610
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:611
 translate french sm1cs_cw006_choice_2_1bf60051:
 
     # mc "Of course."
     mc "Of course."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:614
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:615
 translate french sm1cs_cw006_choice_2_5d0f0137:
 
     # cw "Very good. You can return to your desk now."
     cw "Very good. You can return to your desk now."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:623
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:625
 translate french sm1cs_cw006_eat_pussy_57d25c2b:
 
     # mc "I'll take the assignment."
     mc "I'll take the assignment."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:624
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:626
 translate french sm1cs_cw006_eat_pussy_fe5fcb70:
 
     # mc "And all the perks it comes with."
     mc "And all the perks it comes with."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:627
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:629
 translate french sm1cs_cw006_eat_pussy_6d4974bd:
 
     # mc "There are perks aren't there?"
     mc "There are perks aren't there?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:630
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:632
 translate french sm1cs_cw006_eat_pussy_9ed65a06:
 
     # cw "Oh yes.{w} Many perks..."
     cw "Oh yes.{w} Many perks..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:631
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:633
 translate french sm1cs_cw006_eat_pussy_4e0415fb:
 
     # cw "Now, your boss."
     cw "Now, your boss."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:632
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:634
 translate french sm1cs_cw006_eat_pussy_a6bd5403:
 
     # cw "Ahem... your partner has put in a specific request."
     cw "Ahem... your partner has put in a specific request."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:635
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:637
 translate french sm1cs_cw006_eat_pussy_2147a67c:
 
     # cw "Won't you help me?{w} Please don't make me ask twice."
     cw "Won't you help me?{w} Please don't make me ask twice."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:638
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:640
 translate french sm1cs_cw006_eat_pussy_981d4a5f:
 
     # cw "We're in the clear."
     cw "We're in the clear."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:639
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:641
 translate french sm1cs_cw006_eat_pussy_f780eede:
 
     # cw "If you move quickly."
     cw "If you move quickly."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:642
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:644
 translate french sm1cs_cw006_eat_pussy_091841db:
 
     # mct "Fuck me. There are a hundred ways this can go bad."
     mct "Fuck me. There are a hundred ways this can go bad."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:643
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:645
 translate french sm1cs_cw006_eat_pussy_6387f39a:
 
     # mct "No not bad.{w} Grade-A Terrible!"
     mct "No not bad.{w} Grade-A Terrible!"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:644
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:646
 translate french sm1cs_cw006_eat_pussy_7e8ba5ec:
 
     # mct "But... Claire needs me."
     mct "But... Claire needs me."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:649
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:651
 translate french sm1cs_cw006_eat_pussy_78f101e1:
 
     # mct "Needs me to lick her. To taste her."
     mct "Needs me to lick her. To taste her."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:650
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:652
 translate french sm1cs_cw006_eat_pussy_70d327ec:
 
     # mct "Fuck it!"
     mct "Fuck it!"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:657
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:659
 translate french sm1cs_cw006_eat_pussy_533f0980:
 
     # mct "Here goes nothing."
     mct "Here goes nothing."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:667
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:669
 translate french sm1cs_cw006_eat_pussy_acf31cd2:
 
     # cw "Mmmmm. Not too hard."
     cw "Mmmmm. Not too hard."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:668
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:670
 translate french sm1cs_cw006_eat_pussy_545655b5:
 
     # cw "We... nuah... We are both performing here."
     cw "We... nuah... We are both performing here."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:671
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:673
 translate french sm1cs_cw006_eat_pussy_9006344b:
 
     # cw "Oh yes..."
     cw "Oh yes..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:672
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:674
 translate french sm1cs_cw006_eat_pussy_c576b66c:
 
     # cw "That is..."
     cw "That is..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:673
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:675
 translate french sm1cs_cw006_eat_pussy_cedb09a2:
 
     # cw "My... you certainly know your stuff, [mcname]."
     cw "My... you certainly know your stuff, [mcname]."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:676
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:678
 translate french sm1cs_cw006_eat_pussy_27754309:
 
     # cw "You can go harder."
     cw "You can go harder."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:677
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:679
 translate french sm1cs_cw006_eat_pussy_57e1895f:
 
     # mct "She's getting so wet."
     mct "She's getting so wet."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:678
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:680
 translate french sm1cs_cw006_eat_pussy_50a76222:
 
     # cw "Yes."
     cw "Yes."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:681
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:683
 translate french sm1cs_cw006_eat_pussy_a7798072:
 
     # cw "Right there."
     cw "Right there."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:682
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:684
 translate french sm1cs_cw006_eat_pussy_22dc91f7:
 
     # cw "I didn't realize how much I needed this."
     cw "I didn't realize how much I needed this."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:685
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:687
 translate french sm1cs_cw006_eat_pussy_980b5dc5:
 
     # mct "This taste. I could eat Claire up all day."
     mct "This taste. I could eat Claire up all day."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:686
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:688
 translate french sm1cs_cw006_eat_pussy_a5b82ef8:
 
     # cw "Yes... *moaning* Keep going."
     cw "Yes... *moaning* Keep going."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:689
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:691
 translate french sm1cs_cw006_eat_pussy_5028f7e3:
 
     # cw "Oh fuck. Jesus. Oh no."
     cw "Oh fuck. Jesus. Oh no."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:690
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:692
 translate french sm1cs_cw006_eat_pussy_a0a6c692:
 
     # cw "This... huaah... nuraah... this is a bad idea."
     cw "This... huaah... nuraah... this is a bad idea."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:693
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:695
 translate french sm1cs_cw006_eat_pussy_e79bdab6:
 
     # cw "*muffled moaning*"
     cw "*muffled moaning*"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:697
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:699
 translate french sm1cs_cw006_eat_pussy_b3cf7828:
 
     # cw "Mmm-rhuaaah... ffffffuaaah..."
     cw "Mmm-rhuaaah... ffffffuaaah..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:702
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:704
 translate french sm1cs_cw006_eat_pussy_13149977:
 
     # cw "Oooohua... *soft gasping*... Huhaahh..."
     cw "Oooohua... *soft gasping*... Huhaahh..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:705
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:707
 translate french sm1cs_cw006_eat_pussy_6b0edf92:
 
     # mct "What a pretty sight."
     mct "What a pretty sight."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:706
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:708
 translate french sm1cs_cw006_eat_pussy_555d1838:
 
     # mct "But I should get moving. Don't want to be caught here."
     mct "But I should get moving. Don't want to be caught here."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:710
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:712
 translate french sm1cs_cw006_eat_pussy_5f71acf7:
 
     # mc "*grunting*"
     mc "*grunting*"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:714
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:716
 translate french sm1cs_cw006_eat_pussy_e7c9f9db:
 
     # mc "Hup."
     mc "Hup."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:717
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:719
 translate french sm1cs_cw006_eat_pussy_361a1039:
 
     # cw "Hmmmm. Quite the showman, aren't you?"
     cw "Hmmmm. Quite the showman, aren't you?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:720
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:722
 translate french sm1cs_cw006_eat_pussy_7488ae3e:
 
     # mc "Oh yeah."
     mc "Oh yeah."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:721
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:723
 translate french sm1cs_cw006_eat_pussy_e13bb13d:
 
     # mc "I'm sure you'll see more as we try out this {i}special{/i} assignment."
     mc "I'm sure you'll see more as we try out this {i}special{/i} assignment."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:724
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:726
 translate french sm1cs_cw006_eat_pussy_31bb7c4c:
 
     # cw "Mmmm. I will hold you to that, Mister."
     cw "Mmmm. I will hold you to that, Mister."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:725
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:727
 translate french sm1cs_cw006_eat_pussy_3afb5508:
 
     # cw "I'm looking forward to working {i}very{/i} close to you in the future."
     cw "I'm looking forward to working {i}very{/i} close to you in the future."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:728
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:730
 translate french sm1cs_cw006_eat_pussy_e43ebc9a:
 
     # mc "Me too, Ms. Watts."
     mc "Me too, Ms. Watts."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:734
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:736
 translate french sm1cs_cw006_eat_pussy_e5dc7f93:
 
     # cw "*whispers* When it's just us."
     cw "*whispers* When it's just us."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:735
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:737
 translate french sm1cs_cw006_eat_pussy_4d80327a:
 
     # cw "Just {i}Claire{/i} will do..."
     cw "Just {i}Claire{/i} will do..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:739
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:741
 translate french sm1cs_cw006_eat_pussy_2656c29d:
 
     # cw "Now... *ahem*"
     cw "Now... *ahem*"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:740
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:742
 translate french sm1cs_cw006_eat_pussy_135662ee:
 
     # cw "You should return to your desk and I should figure out what I was actually {i}doing{/i} during this exercise."
     cw "You should return to your desk and I should figure out what I was actually {i}doing{/i} during this exercise."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:743
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:745
 translate french sm1cs_cw006_eat_pussy_0ba2050c:
 
     # mc "Heh heh.{w} Understood."
     mc "Heh heh.{w} Understood."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:759
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:763
 translate french sm1cs_cw006_at_desk_9115ef3b:
 
     # am "What was all that about?"
     am "What was all that about?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:762
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:766
 translate french sm1cs_cw006_at_desk_99a364ca:
 
     # mc "Jeez!"
     mc "Jeez!"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:765
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:769
 translate french sm1cs_cw006_at_desk_4c7a39da:
 
     # am "I smell {b}fear{/b} on you, [mcname]."
     am "I smell {b}fear{/b} on you, [mcname]."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:768
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:772
 translate french sm1cs_cw006_at_desk_5a2ae7d6:
 
     # mc "Most people don't just jump out at their co-workers like that."
     mc "Most people don't just jump out at their co-workers like that."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:772
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:776
 translate french sm1cs_cw006_at_desk_63518d94:
 
     # am "They do when they complete all their tasks and get bored."
     am "They do when they complete all their tasks and get bored."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:773
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:777
 translate french sm1cs_cw006_at_desk_638675e1:
 
     # am "Spill it. What did Claire want?"
     am "Spill it. What did Claire want?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:775
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:779
 translate french sm1cs_cw006_at_desk_5351c5d7:
 
     # mc "Just computer stuff."
     mc "Just computer stuff."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:778
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:782
 translate french sm1cs_cw006_at_desk_fe31eeea:
 
     # am "Right. So instead of coming to her hotshot best in the entire state coder, Claire, who is not even our boss..."
     am "Right. So instead of coming to her hotshot best in the entire state coder, Claire, who is not even our boss..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:779
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:783
 translate french sm1cs_cw006_at_desk_53d45c14:
 
     # am "Comes to you..."
     am "Comes to you..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:782
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:786
 translate french sm1cs_cw006_at_desk_63d5eef7:
 
     # mc "Maybe you're not as good as you think you are."
     mc "Maybe you're not as good as you think you are."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:785
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:789
 translate french sm1cs_cw006_at_desk_75d88743:
 
     # am "Impossible.{w} You're just hiding something."
     am "Impossible.{w} You're just hiding something."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:786
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:790
 translate french sm1cs_cw006_at_desk_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:789
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:793
 translate french sm1cs_cw006_at_desk_9060db20:
 
     # am "Fine, but I'll get the truth out of you one way or another."
     am "Fine, but I'll get the truth out of you one way or another."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:791
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:795
 translate french sm1cs_cw006_at_desk_5e836959:
 
     # mc "You sound confident."
     mc "You sound confident."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:795
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:799
 translate french sm1cs_cw006_at_desk_a1728b60:
 
     # am "I am. I know how weak you are."
     am "I am. I know how weak you are."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:796
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:800
 translate french sm1cs_cw006_at_desk_70e67a3e:
 
     # am "If I turn up the pressure even just a few degrees..."
     am "If I turn up the pressure even just a few degrees..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:799
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:803
 translate french sm1cs_cw006_at_desk_8bd2f382:
 
     # am "*slurps*"
     am "*slurps*"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:803
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:807
 translate french sm1cs_cw006_at_desk_741f3e92:
 
     # am "You'll crack."
     am "You'll crack."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:804
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:808
 translate french sm1cs_cw006_at_desk_ae90c704:
 
     # am "Like a rage gamer's 4k TV when he didn't put on his controller strap like an idiot."
     am "Like a rage gamer's 4k TV when he didn't put on his controller strap like an idiot."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:807
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:811
 translate french sm1cs_cw006_at_desk_fd4a5f3c:
 
     # mc "You're crazy."
     mc "You're crazy."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:809
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:813
 translate french sm1cs_cw006_at_desk_a2d98c0a:
 
     # am "Mmhmm."
     am "Mmhmm."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:819
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:823
 translate french sm1cs_cw006_onramp_1_b2123184:
 
     # cw "What exactly was it that you wanted to talk about, Mr. Young?"
     cw "What exactly was it that you wanted to talk about, Mr. Young?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:821
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:825
 translate french sm1cs_cw006_onramp_1_73dd760c:
 
     # mc "Well."
     mc "Well."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:822
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:826
 translate french sm1cs_cw006_onramp_1_3f06ab2a:
 
     # mc "I guess I wanted to say that I was not satisfied with how our last conversation ended."
     mc "I guess I wanted to say that I was not satisfied with how our last conversation ended."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:825
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:829
 translate french sm1cs_cw006_onramp_1_27a4581d:
 
     # cw "I hope you didn't come to whine. It wouldn't be a good look on you."
     cw "I hope you didn't come to whine. It wouldn't be a good look on you."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:827
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:831
 translate french sm1cs_cw006_onramp_1_5ade18f1:
 
     # mc "No. No whining, I just."
     mc "No. No whining, I just."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:830
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:834
 translate french sm1cs_cw006_onramp_1_fdfb82db:
 
     # mc "What if I told you I changed my mind?"
     mc "What if I told you I changed my mind?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:832
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:836
 translate french sm1cs_cw006_onramp_1_be845aac:
 
     # cw "Mmm. It doesn't matter.{w} Didn't we both agree it could get messy?"
     cw "Mmm. It doesn't matter.{w} Didn't we both agree it could get messy?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:835
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:839
 translate french sm1cs_cw006_onramp_1_b1b26356:
 
     # mc "It might. But I also think, it could be amazing."
     mc "It might. But I also think, it could be amazing."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:837
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:841
 translate french sm1cs_cw006_onramp_1_196e20e0:
 
     # cw "You don't know what you're talking about."
     cw "You don't know what you're talking about."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:843
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:847
 translate french sm1cs_cw006_onramp_1_8410abaf:
 
     # mc "I know I want to keep seeing you, Claire."
     mc "I know I want to keep seeing you, Claire."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:844
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:848
 translate french sm1cs_cw006_onramp_1_6f536a03:
 
     # mc "In whatever shape that takes."
     mc "In whatever shape that takes."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:850
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:854
 translate french sm1cs_cw006_onramp_1_85793807:
 
     # mc "I guess that's your answer."
     mc "I guess that's your answer."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:852
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:856
 translate french sm1cs_cw006_onramp_1_2ba0ca90:
 
     # cw "It is."
     cw "It is."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:859
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:863
 translate french sm1cs_cw006_onramp_2_82d718b7:
 
     # mc "I wanted to talk to you about that special assignement you mentioned?"
     mc "I wanted to talk to you about that special assignement you mentioned?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:861
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:865
 translate french sm1cs_cw006_onramp_2_641876ad:
 
     # cw "Hmmm. What makes you think it is still on the table?"
     cw "Hmmm. What makes you think it is still on the table?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:864
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:868
 translate french sm1cs_cw006_onramp_2_bf93fff5:
 
     # mc "Well, I've had more time to think of it."
     mc "Well, I've had more time to think of it."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:865
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:869
 translate french sm1cs_cw006_onramp_2_51cc9383:
 
     # mc "And, I'm sure you can appreciate not rushing into things, Ms. Watts."
     mc "And, I'm sure you can appreciate not rushing into things, Ms. Watts."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:868
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:872
 translate french sm1cs_cw006_onramp_2_80f6d00e:
 
     # cw "Hmm."
     cw "Hmm."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:869
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:873
 translate french sm1cs_cw006_onramp_2_2f80c7ac:
 
     # cw "So... you would like to join my {i}special project?{/i}"
@@ -1766,39 +1766,39 @@ translate french strings:
     old "Let things end with Claire"
     new "Let things end with Claire"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:450
+    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:451
     old "Believe her"
     new "Believe her"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:450
+    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:451
     old "Don't believe her"
     new "Don't believe her"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:480
+    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:481
     old "You're lips?"
     new "You're lips?"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:480
+    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:481
     old "Your ass?"
     new "Your ass?"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:480
+    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:481
     old "Your pussy?"
     new "Your pussy?"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:579
+    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:580
     old "Agree to try out Claire's special assignment"
     new "Agree to try out Claire's special assignment"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:579
+    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:580
     old "Do not do Claire's special assignment"
     new "Do not do Claire's special assignment"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:838
+    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:842
     old "I want to be with you"
     new "I want to be with you"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:838
+    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:842
     old "Then I have my answer"
     new "Then I have my answer"
 

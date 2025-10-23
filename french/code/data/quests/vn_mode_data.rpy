@@ -225,8 +225,8 @@
     new "Sexy photo session with Kanya"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Lyssa's and Main storylines"
-    new "Progress Lyssa's and Main storylines"
+    old "Progress Lyssa's storyline and Main Story"
+    new "Progress Lyssa's storyline and Main Story"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Show off your photo skills"
@@ -245,8 +245,8 @@
     new "Delivery with Maya"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet a old friend"
-    new "Meet a old friend"
+    old "Meet an old friend"
+    new "Meet an old friend"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about Min"
@@ -473,8 +473,8 @@
     new "Time for meeting"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Suprise Nari at night"
-    new "Suprise Nari at night"
+    old "Surprise Nari at night"
+    new "Surprise Nari at night"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Empty office\nAt night"
@@ -565,10 +565,6 @@
     new "Talk to Taisia"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Film with Taisia"
-    new "Film with Taisia"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
     old "Have a drink with Taisia"
     new "Have a drink with Taisia"
 
@@ -647,14 +643,6 @@
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Recruit Lyssa for Sci-Fi Movie"
     new "Recruit Lyssa for Sci-Fi Movie"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Stacy about Sci-Fi Movie props"
-    new "Talk to Stacy about Sci-Fi Movie props"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Stacy about building the set"
-    new "Talk to Stacy about building the set"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Build the rest of the set"

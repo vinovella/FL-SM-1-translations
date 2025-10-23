@@ -33,8 +33,8 @@
     new "😝"
 
     # game/code/data/chat/chat_kv.rpy:3
-    old "What's this one going be about?"
-    new "What's this one going be about?"
+    old "What's this one going to be about?"
+    new "What's this one going to be about?"
 
     # game/code/data/chat/chat_kv.rpy:3
     old "We haven't figured out the details."

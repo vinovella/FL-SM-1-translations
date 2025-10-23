@@ -929,10 +929,10 @@ translate french sm1cs_dc006_at_park_adecc7f3:
     mct "Woah... that's a lot to take in..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:505
-translate french sm1cs_dc006_at_park_c5d95126:
+translate french sm1cs_dc006_at_park_fb7dfd2e:
 
-    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w}I know, sir..."
-    dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w}I know, sir..."
+    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+    dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
 
 translate french strings:
 

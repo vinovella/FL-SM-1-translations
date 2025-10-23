@@ -989,10 +989,10 @@ translate french sm1cs_mas003_third_delivery_7683afef:
     ms "Oh, thank god we're at the last dropoff."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
-translate french sm1cs_mas003_third_delivery_ee8e823e:
+translate french sm1cs_mas003_third_delivery_7eec6586:
 
-    # ms "Nevermind."
-    ms "Nevermind."
+    # ms "Never mind."
+    ms "Never mind."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:590
 translate french sm1cs_mas003_third_delivery_f166395e:
@@ -1425,6 +1425,12 @@ translate french sm1cs_mas003_third_delivery_c5639972:
 
     # ols "Damn girl. You belong on a magazine or something."
     ols "Damn girl. You belong on a magazine or something."
+
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
+translate french sm1cs_mas003_third_delivery_9ed10f06:
+
+    # ms "Show's over, ladies."
+    ms "Show's over, ladies."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:809
 translate french sm1cs_mas003_third_delivery_0f81d339:

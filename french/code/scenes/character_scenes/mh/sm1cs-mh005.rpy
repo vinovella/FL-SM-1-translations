@@ -682,265 +682,265 @@ translate french sm1cs_mh005_after_game_8d5f79a9:
     # mc "Of course{w}, miss."
     mc "Of course{w}, miss."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:523
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:524
 translate french sm1cs_mh005_blowjob_dbd09fa0:
 
     # mh "Damnit!"
     mh "Damnit!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:526
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:527
 translate french sm1cs_mh005_blowjob_008043d2:
 
     # mc "What's wrong!?"
     mc "What's wrong!?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:529
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:530
 translate french sm1cs_mh005_blowjob_b82186d2:
 
     # mh "Oh, it's just these stupid shoes. Wearing them all day hurts, and I think there may be a pebble or something in them, hang on."
     mh "Oh, it's just these stupid shoes. Wearing them all day hurts, and I think there may be a pebble or something in them, hang on."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:537
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:538
 translate french sm1cs_mh005_blowjob_1e62d656:
 
     # mc "Why, hello there."
     mc "Why, hello there."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:540
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:541
 translate french sm1cs_mh005_blowjob_f16c65f9:
 
     # mh "Ooo, you been watching k-dramas lately, [mcname]?"
     mh "Ooo, you been watching k-dramas lately, [mcname]?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:543
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:544
 translate french sm1cs_mh005_blowjob_3d9109b0:
 
     # mc "Nope. Just putting the moves on the prettiest woman in here."
     mc "Nope. Just putting the moves on the prettiest woman in here."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:546
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:547
 translate french sm1cs_mh005_blowjob_f485368b:
 
     # mh "I think I'm the only woman in here."
     mh "I think I'm the only woman in here."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:549
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:550
 translate french sm1cs_mh005_blowjob_734e1c84:
 
     # mc "That may be the case, but the important thing is that I get to talk to her."
     mc "That may be the case, but the important thing is that I get to talk to her."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:552
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:553
 translate french sm1cs_mh005_blowjob_ff1b81de:
 
     # mh "Wow, you really are giving me maximum effort now, huh."
     mh "Wow, you really are giving me maximum effort now, huh."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:555
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:556
 translate french sm1cs_mh005_blowjob_7662652f:
 
     # mc "You said I needed to woo you, right?"
     mc "You said I needed to woo you, right?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:557
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:558
 translate french sm1cs_mh005_blowjob_491be0c9:
 
     # mh "I did."
     mh "I did."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:558
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:559
 translate french sm1cs_mh005_blowjob_2af99537:
 
     # mc "Well, this is me wooing you."
     mc "Well, this is me wooing you."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:567
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:568
 translate french sm1cs_mh005_blowjob_28be578f:
 
     # mh "Mmmm..."
     mh "Mmmm..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:570
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:571
 translate french sm1cs_mh005_blowjob_e760fd13:
 
     # mh "That was... Nice..."
     mh "That was... Nice..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:580
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:581
 translate french sm1cs_mh005_blowjob_d5cd9b30:
 
     # mh "...There it is..."
     mh "...There it is..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:583
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:584
 translate french sm1cs_mh005_blowjob_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:586
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:587
 translate french sm1cs_mh005_blowjob_5bfc2021:
 
     # mh "That spark..."
     mh "That spark..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:596
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:597
 translate french sm1cs_mh005_blowjob_33009130:
 
     # mc "Lyssa..."
     mc "Lyssa..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:599
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:600
 translate french sm1cs_mh005_blowjob_5094f4d9:
 
     # mh "Shhhhh, I want this..."
     mh "Shhhhh, I want this..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:603
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:604
 translate french sm1cs_mh005_blowjob_33009130_1:
 
     # mc "Lyssa..."
     mc "Lyssa..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:606
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:607
 translate french sm1cs_mh005_blowjob_65145fad:
 
     # mh "[mcname]..."
     mh "[mcname]..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:609
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:610
 translate french sm1cs_mh005_blowjob_cfce055e:
 
     # mc "Are you sure?"
     mc "Are you sure?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:612
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:613
 translate french sm1cs_mh005_blowjob_0facd114:
 
     # mh "Mmhmmm..."
     mh "Mmhmmm..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:615
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:616
 translate french sm1cs_mh005_blowjob_26f53832:
 
     # mh "Are you going to help me out with these pants?"
     mh "Are you going to help me out with these pants?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:619
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:620
 translate french sm1cs_mh005_blowjob_1bf60051:
 
     # mc "Of course."
     mc "Of course."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:623
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:624
 translate french sm1cs_mh005_blowjob_0efae951:
 
     # mh "Oh, how I've missed you..."
     mh "Oh, how I've missed you..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:627
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:628
 translate french sm1cs_mh005_blowjob_7d2d32ea:
 
     # mc "Oh, God..."
     mc "Oh, God..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:630
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:631
 translate french sm1cs_mh005_blowjob_fb0ac2d9:
 
     # mh "Seems like I'm not the only one..."
     mh "Seems like I'm not the only one..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:637
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:638
 translate french sm1cs_mh005_blowjob_0f72435e:
 
     # mc "Oh- Lyssa-!"
     mc "Oh- Lyssa-!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:640
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:641
 translate french sm1cs_mh005_blowjob_21e67478:
 
     # mc "OH fuhh- Lyssa!"
     mc "OH fuhh- Lyssa!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:644
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:645
 translate french sm1cs_mh005_blowjob_89fc186d:
 
     # mc "This is amazing, holy shiiiit."
     mc "This is amazing, holy shiiiit."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:645
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:646
 translate french sm1cs_mh005_blowjob_df00c0bd:
 
     # mc "I-I almost forgot how good you are at this-"
     mc "I-I almost forgot how good you are at this-"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:649
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:650
 translate french sm1cs_mh005_blowjob_8468bb2f:
 
     # mc "Your lips - your tongue - fuuuuhhhnnnnngggg!"
     mc "Your lips - your tongue - fuuuuhhhnnnnngggg!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:652
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:653
 translate french sm1cs_mh005_blowjob_3b47f7b8:
 
     # mc "Oh, God - Lyssa - Lyssa, I'm going to cum."
     mc "Oh, God - Lyssa - Lyssa, I'm going to cum."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:654
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:655
 translate french sm1cs_mh005_blowjob_d43b3558:
 
     # mc "Ly-Lyssa! I'm going to - I'm going to-!"
     mc "Ly-Lyssa! I'm going to - I'm going to-!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:656
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:657
 translate french sm1cs_mh005_blowjob_f9125357:
 
     # mc "Lyssa- I'm going to-!"
     mc "Lyssa- I'm going to-!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:662
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:663
 translate french sm1cs_mh005_blowjob_24edeec4:
 
     # mc "I'm cuummmMMMMING!"
     mc "I'm cuummmMMMMING!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:672
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:673
 translate french sm1cs_mh005_blowjob_96bc226e:
 
     # mc "Lyssa... Wow. Just... Wow."
     mc "Lyssa... Wow. Just... Wow."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:675
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:676
 translate french sm1cs_mh005_blowjob_b0b07ff2:
 
     # mh "Uhm... I..."
     mh "Uhm... I..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:676
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:677
 translate french sm1cs_mh005_blowjob_2f12fde7:
 
     # mh "I need to get going, [mcname]."
     mh "I need to get going, [mcname]."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:679
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:680
 translate french sm1cs_mh005_blowjob_6dbaab77:
 
     # mc "Lyssa, I-"
     mc "Lyssa, I-"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:682
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:683
 translate french sm1cs_mh005_blowjob_61dceb13:
 
     # mh "No need, I can get inside just fine. I-... I'll talk to you later."
     mh "No need, I can get inside just fine. I-... I'll talk to you later."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:686
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:687
 translate french sm1cs_mh005_blowjob_4869cf64:
 
     # mct "What the hell?"
     mct "What the hell?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:690
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:691
 translate french sm1cs_mh005_blowjob_a233799c:
 
     # mct "What... What just happened?{w} I guess... I'll give her some time and ask her what that was all about..."

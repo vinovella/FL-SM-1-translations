@@ -497,10 +497,10 @@ translate french sm1fs_t003_490046c8:
     mct "Hmmm. There is something off about her."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:273
-translate french sm1fs_t003_4479ad4e:
+translate french sm1fs_t003_11066cbf:
 
-    # mc "Veronica, have wet met before?"
-    mc "Veronica, have wet met before?"
+    # mc "Veronica, have we met before?"
+    mc "Veronica, have we met before?"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:276
 translate french sm1fs_t003_88bd8629:
@@ -653,10 +653,10 @@ translate french sm1fs_t003_a64e8bc0:
     mc "Thanks."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:355
-translate french sm1fs_t003_a27410eb:
+translate french sm1fs_t003_9c5ba426:
 
-    # dvh "Hmmm. {w}I think you posess some talent, [mcname]."
-    dvh "Hmmm. {w}I think you posess some talent, [mcname]."
+    # dvh "Hmmm. {w}I think you possess some talent, [mcname]."
+    dvh "Hmmm. {w}I think you possess some talent, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:358
 translate french sm1fs_t003_e4288785:
@@ -917,10 +917,10 @@ translate french sm1fs_t003_7ed98bea:
     vs "I'm not big time. Not like some people here!"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:487
-translate french sm1fs_t003_c277c835:
+translate french sm1fs_t003_51a53f66:
 
-    # vs "Seriously, it's not a problem! I'm super happy to show you around"
-    vs "Seriously, it's not a problem! I'm super happy to show you around"
+    # vs "Seriously, it's not a problem! I'm super happy to show you around."
+    vs "Seriously, it's not a problem! I'm super happy to show you around."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:490
 translate french sm1fs_t003_cee91ee1:

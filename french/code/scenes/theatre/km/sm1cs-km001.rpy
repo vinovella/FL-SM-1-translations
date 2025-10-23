@@ -113,10 +113,10 @@ translate french sm1cs_km001_6d319b2b:
     km "Hmmm."
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:73
-translate french sm1cs_km001_cf4ca314:
+translate french sm1cs_km001_b55f6d50:
 
-    # mct "Why is she shopping?"
-    mct "Why is she shopping?"
+    # mct "Why is she snooping?"
+    mct "Why is she snooping?"
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:76
 translate french sm1cs_km001_85ea63d5:
@@ -197,10 +197,10 @@ translate french sm1cs_km001_96bad0e1:
     km "You're trying to join a theater troupe, not a high-school drama class."
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:116
-translate french sm1cs_km001_ce55f90f:
+translate french sm1cs_km001_7262d936:
 
-    # km "Unless you're afraid to lose to a girl"
-    km "Unless you're afraid to lose to a girl"
+    # km "Unless you're afraid to lose to a girl."
+    km "Unless you're afraid to lose to a girl."
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:124
 translate french sm1cs_km001_ba81f3ed:
@@ -335,10 +335,10 @@ translate french sm1cs_km001_085722e2:
     mc "What?!"
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:240
-translate french sm1cs_km001_e1139fdc:
+translate french sm1cs_km001_7ca99b3a:
 
-    # km "Hmmm. Not bad for a amateur."
-    km "Hmmm. Not bad for a amateur."
+    # km "Hmmm. Not bad for an amateur."
+    km "Hmmm. Not bad for an amateur."
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:245
 translate french sm1cs_km001_e79f08af:

@@ -101,10 +101,10 @@ translate french sm1cs_km003_2i_8b4a888f:
     mc "Haha. Yeah. Veronica really is one of a kind, isn't she?"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:45
-translate french sm1cs_km003_2i_2237cc3e:
+translate french sm1cs_km003_2i_c20b6007:
 
-    # km "Scoffs."
-    km "Scoffs."
+    # km "*scoffs.*"
+    km "*scoffs.*"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:49
 translate french sm1cs_km003_2i_9ab052ea:
@@ -257,10 +257,10 @@ translate french sm1cs_km003_2i_menu_58850354:
     km "Well... since you asked. Sure."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:127
-translate french sm1cs_km003_2i_menu_de5db7e8:
+translate french sm1cs_km003_2i_menu_e67aa3d0:
 
-    # km "Let's go to the main stage"
-    km "Let's go to the main stage"
+    # km "Let's go to the main stage."
+    km "Let's go to the main stage."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:129
 translate french sm1cs_km003_2i_menu_716019b8:
