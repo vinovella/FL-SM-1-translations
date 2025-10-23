@@ -902,79 +902,79 @@ translate chinese sm1cs_mh009_b7bfa870:
 translate chinese sm1cs_mh009_de83e18c:
 
     # mh "I'm glad you believe in my dream."
-    mh "I'm glad you believe in my dream."
+    mh "我很高兴你相信我的梦想。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:454
 translate chinese sm1cs_mh009_0bf71e64:
 
     # mc "Of course!{w} That actually brings up another good point though."
-    mc "Of course!{w} That actually brings up another good point though."
+    mc "当然！{w}不过这确实提出了另一个好问题。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:455
 translate chinese sm1cs_mh009_5ec45140:
 
     # mc "Are there any other kinks or fetishes you're comfortable with? Or at least comfortable enough to do on camera?"
-    mc "Are there any other kinks or fetishes you're comfortable with? Or at least comfortable enough to do on camera?"
+    mc "你还有其他你感到舒适的癖好或恋物癖吗？或者至少舒适到可以在镜头前做？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:459
 translate chinese sm1cs_mh009_aba166b3:
 
     # mh "Yeah, there are a few. I'm a bit of a switch, so I can be dominating or submissive. But I generally prefer being submissive."
-    mh "Yeah, there are a few. I'm a bit of a switch, so I can be dominating or submissive. But I generally prefer being submissive."
+    mh "是的，有一些。我有点像开关，所以我可以支配或顺从。但我通常更喜欢顺从。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:461
 translate chinese sm1cs_mh009_0d455d76:
 
     # mc "Good to know!"
-    mc "Good to know!"
+    mc "很高兴知道！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:462
 translate chinese sm1cs_mh009_812f08c3:
 
     # mh "I also like some other sneaky public things, kind of like my fantasy... and I'm also into watersports."
-    mh "I also like some other sneaky public things, kind of like my fantasy... and I'm also into watersports."
+    mh "我还喜欢一些其他偷偷摸摸的公共场合的事情，有点像我的幻想...而且我也喜欢圣水。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:465
 translate chinese sm1cs_mh009_2844ced8:
 
     # mc "Watersports? Really?"
-    mc "Watersports? Really?"
+    mc "圣水？真的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:467
 translate chinese sm1cs_mh009_b4c0e77d:
 
     # mh "Yep! What do you think about that?"
-    mh "Yep! What do you think about that?"
+    mh "是的！你觉得怎么样？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:474
 translate chinese sm1cs_mh009_4d2a5947:
 
     # mc "You know, I'm totally down for watersports!"
-    mc "You know, I'm totally down for watersports!"
+    mc "你知道，我完全支持圣水！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:476
 translate chinese sm1cs_mh009_e5763ac5:
 
     # mh "That makes me happy."
-    mh "That makes me happy."
+    mh "那让我很高兴。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:482
 translate chinese sm1cs_mh009_23f65fff:
 
     # mc "You know, I don't really know if watersports is for me."
-    mc "You know, I don't really know if watersports is for me."
+    mc "你知道，我真的不知道圣水是否适合我。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:484
 translate chinese sm1cs_mh009_bccd8de7:
 
     # mh "That's okay, it's not for everyone."
-    mh "That's okay, it's not for everyone."
+    mh "没关系，这不适合所有人。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:489
 translate chinese sm1cs_mh009_94a7664a:
 
     # mc "Well, that's most of the interview. How about we move over to the backdrop and take some video of you there?"
-    mc "Well, that's most of the interview. How about we move over to the backdrop and take some video of you there?"
+    mc "嗯，面试大部分结束了。我们去背景布那边给你拍些视频怎么样？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:491
 translate chinese sm1cs_mh009_290063ca_1:
@@ -986,157 +986,157 @@ translate chinese sm1cs_mh009_290063ca_1:
 translate chinese sm1cs_mh009_8b8751be:
 
     # mct "You know, I've learned a lot of new things about Lyssa today."
-    mct "You know, I've learned a lot of new things about Lyssa today."
+    mct "你知道，今天我了解了很多关于丽莎的新事情。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:504
 translate chinese sm1cs_mh009_d3d98236:
 
     # mct "I was definitely not prepared to hear about her sexual fantasy. I almost busted through my jeans listening to her describe it!"
-    mct "I was definitely not prepared to hear about her sexual fantasy. I almost busted through my jeans listening to her describe it!"
+    mct "我绝对没有准备好听她的性幻想。听她描述的时候我差点把牛仔裤都撑破了！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:507
 translate chinese sm1cs_mh009_14fe9868:
 
     # mc "All right, so I figure-"
-    mc "All right, so I figure-"
+    mc "好吧，所以我想--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:510
 translate chinese sm1cs_mh009_731f6ea1:
 
     # mh "Figure what?"
-    mh "Figure what?"
+    mh "想什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:514
 translate chinese sm1cs_mh009_47c6cbdd:
 
     # mc "I, erm, was going to suggest doing a few poses while clothed to get you warmed up, but it seems like you're already good to go."
-    mc "I, erm, was going to suggest doing a few poses while clothed to get you warmed up, but it seems like you're already good to go."
+    mc "我，呃，本来想建议你穿着衣服摆几个姿势来热身，但看起来你已经准备好了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:517
 translate chinese sm1cs_mh009_5e91f740:
 
     # mh "I figure, why beat around the bush?"
-    mh "I figure, why beat around the bush?"
+    mh "我想，何必拐弯抹角呢？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:518
 translate chinese sm1cs_mh009_7d57c8ab:
 
     # mh "Not that I've got one."
-    mh "Not that I've got one."
+    mh "虽然我没有那个。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:522
 translate chinese sm1cs_mh009_f15568d5:
 
     # mc "Fair point. Might as well get right into it!"
-    mc "Fair point. Might as well get right into it!"
+    mc "有道理。不妨直接开始！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:523
 translate chinese sm1cs_mh009_335804c7:
 
     # mc "So why don't you just hit a few sexy poses?"
-    mc "So why don't you just hit a few sexy poses?"
+    mc "那你为什么不摆几个性感的姿势呢？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:526
 translate chinese sm1cs_mh009_064a9c5a:
 
     # mh "I think I can oblige that."
-    mh "I think I can oblige that."
+    mh "我想我可以满足你的要求。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:561
 translate chinese sm1cs_mh009_7a63cbb9:
 
     # mc "Wow, you're a natural! The camera absolutely loves you."
-    mc "Wow, you're a natural! The camera absolutely loves you."
+    mc "哇，你真是天生的！镜头绝对爱你。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:563
 translate chinese sm1cs_mh009_189ddb7f:
 
     # mh "I bet you say that to all of your actresses."
-    mh "I bet you say that to all of your actresses."
+    mh "我打赌你对所有女演员都这么说。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:566
 translate chinese sm1cs_mh009_0abe3b97:
 
     # mc "Actually, not really. Most of them need to do a lot of work to look like you on camera."
-    mc "Actually, not really. Most of them need to do a lot of work to look like you on camera."
+    mc "实际上，并不是。她们大多数人需要做很多工作才能在镜头前看起来像你这样。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:567
 translate chinese sm1cs_mh009_38a38140:
 
     # mc "It feels like you know how to pose yourself in your light, how to show off to the camera, how to be sexy without making it forced..."
-    mc "It feels like you know how to pose yourself in your light, how to show off to the camera, how to be sexy without making it forced..."
+    mc "感觉你知道如何在你的光线下摆姿势，如何在镜头前展示自己，如何在不显得勉强的情况下展现性感..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:570
 translate chinese sm1cs_mh009_294000b4:
 
     # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to preform for the camera."
-    mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to preform for the camera."
+    mc "而且我没有理由撒谎。这是一个商业场所，任何人才都应该知道如何在镜头前表演。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:571
 translate chinese sm1cs_mh009_8115fc5e:
 
     # mc "If we know how to look hot on camera, it means more clicks - and more clicks means more money, and more money means better business."
-    mc "If we know how to look hot on camera, it means more clicks - and more clicks means more money, and more money means better business."
+    mc "如果我们知道如何在镜头前看起来火辣，就意味着更多的点击——更多的点击意味着更多的钱，更多的钱意味着更好的生意。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:574
 translate chinese sm1cs_mh009_6b1bf756:
 
     # mh "You've got a good point there, [mcname]."
-    mh "You've got a good point there, [mcname]."
+    mh "你说得很对，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:576
 translate chinese sm1cs_mh009_229fe2de:
 
     # mc "So, now-"
-    mc "So, now-"
+    mc "所以，现在--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:579
 translate chinese sm1cs_mh009_10da84c1:
 
     # mh "Not to interrupt, but how about we skip that, and get to the part where I show you some of my skills?"
-    mh "Not to interrupt, but how about we skip that, and get to the part where I show you some of my skills?"
+    mh "不是要打断，但我们跳过那个，直接进入我向你展示一些技巧的部分怎么样？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:580
 translate chinese sm1cs_mh009_5aa19a40:
 
     # mh "And I bet you've been looking forward to that. I've seen your erection since I talked about my little sexual fantasy."
-    mh "And I bet you've been looking forward to that. I've seen your erection since I talked about my little sexual fantasy."
+    mh "而且我敢打赌你一直在期待这个。自从我谈到我的小性幻想以来，我就看到你勃起了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:582
 translate chinese sm1cs_mh009_6a515955:
 
     # mc "You know, I'm still not going to complain! Let's get to it!"
-    mc "You know, I'm still not going to complain! Let's get to it!"
+    mc "你知道，我还是不会抱怨的！让我们开始吧！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:589
 translate chinese sm1cs_mh009_687b9cfa:
 
     # mh "Mmmm.{w} You look just as excited about this as I am."
-    mh "Mmmm.{w} You look just as excited about this as I am."
+    mh "嗯嗯。{w}你看起来和我一样对此感到兴奋。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:591
 translate chinese sm1cs_mh009_da0edacd:
 
     # mc "Absolutely. I mean, you're stunning and I'm excited to see your skillset."
-    mc "Absolutely. I mean, you're stunning and I'm excited to see your skillset."
+    mc "当然。我的意思是，你很迷人，我很期待看到你的技能。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:595
 translate chinese sm1cs_mh009_8d618674:
 
     # mh "I hope you're ready to get {i}blown{/i} away!"
-    mh "I hope you're ready to get {i}blown{/i} away!"
+    mh "我希望你准备好被{i}吹{/i}飞！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:602
 translate chinese sm1cs_mh009_30dbc24f:
 
     # mc "Oh shit, [mhname]!"
-    mc "Oh shit, [mhname]!"
+    mc "哦，该死，[mhname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:603
 translate chinese sm1cs_mh009_c4971346:
 
     # mc "Coming out of the gate strong! Wow!"
-    mc "Coming out of the gate strong! Wow!"
+    mc "一开始就很强！哇！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:606
 translate chinese sm1cs_mh009_635e2099:
@@ -1274,7 +1274,7 @@ translate chinese sm1cs_mh009_ade9d370:
 translate chinese sm1cs_mh009_d66bda72:
 
     # mc "Hmmm, well I am definitely ready to be surprised."
-    mc "Hmmm, well I am definitely ready to be surprised."
+    mc "嗯，我绝对准备好接受惊喜了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:664
 translate chinese sm1cs_mh009_e3b5fd78:
