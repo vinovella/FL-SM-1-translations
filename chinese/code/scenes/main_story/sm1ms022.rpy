@@ -1430,275 +1430,275 @@ translate chinese sm1ms022_1b0df68e:
 translate chinese sm1ms022_01605c6d:
 
     # mc "Shit, sorry."
-    mc "Shit, sorry."
+    mc "靠，抱歉。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:786
 translate chinese sm1ms022_07ebb28c:
 
     # sy "Mmmmm..."
-    sy "Mmmmm..."
+    sy "嗯..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:792
 translate chinese sm1ms022_2d3cb02b:
 
     # sy "Now ain't that just the tastiest damn pie you ever did saw?"
-    sy "Now ain't that just the tastiest damn pie you ever did saw?"
+    sy "这应该是你这辈子见过的最美味的派了吧？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:794
 translate chinese sm1ms022_70a5187b:
 
     # mc "Why yes, ma'am, I think it is!"
-    mc "Why yes, ma'am, I think it is!"
+    mc "是啊，夫人，我绝对赞同！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:806
 translate chinese sm1ms022_25122c6e:
 
     # kv "...{w} And cut."
-    kv "...{w} And cut."
+    kv "...{w}好，卡！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:811
 translate chinese sm1ms022_e8fe9bb3:
 
     # kv "Damn... you two are hot."
-    kv "Damn... you two are hot."
+    kv "我去... 你们俩真火辣。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:813
 translate chinese sm1ms022_9fd77da1:
 
     # sy "What can I say? I got good genes."
-    sy "What can I say? I got good genes."
+    sy "我能说什么呢？我的遗传基因好啊。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:815
 translate chinese sm1ms022_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "嘿！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:819
 translate chinese sm1ms022_60d9e78d:
 
     # sy "And maybe you got a few good ones too."
-    sy "And maybe you got a few good ones too."
+    sy "或许你也遗传到了点好基因吧。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:821
 translate chinese sm1ms022_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "我谢谢你。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:824
 translate chinese sm1ms022_89f32b2e:
 
     # sy "Everything look good? Good gate?"
-    sy "Everything look good? Good gate?"
+    sy "一切都没问题吧？镜头光圈检查过了吗？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:826
 translate chinese sm1ms022_84115273:
 
     # kv "Good gate...?"
-    kv "Good gate...?"
+    kv "镜头光圈...?"
 
 # game/code/scenes/main_story/sm1ms022.rpy:829
 translate chinese sm1ms022_ed5122fb:
 
     # sy "Uh huh, did you check the gate before we started filming?"
-    sy "Uh huh, did you check the gate before we started filming?"
+    sy "对呀，咱们开始拍摄前，你检查镜头光圈了吗？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:831
 translate chinese sm1ms022_0c7093a2:
 
     # kv "That's like... not really a thing anymore."
-    kv "That's like... not really a thing anymore."
+    kv "现在早就不怎么需要做这种事了。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:832
 translate chinese sm1ms022_23856912:
 
     # mc "What's a gate?"
-    mc "What's a gate?"
+    mc "什么是镜头光圈啊？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:833
 translate chinese sm1ms022_224c0f0a:
 
     # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatver gets in there."
-    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatver gets in there."
+    kv "简单说，就是镜头和传感器之间的空隙。有时候会有灰尘或者别的东西进去。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:834
 translate chinese sm1ms022_ba55b433:
 
     # kv "So back when they used film, you'd have to check to make sure it was clean. Or you'd see the dirt on the final image."
-    kv "So back when they used film, you'd have to check to make sure it was clean. Or you'd see the dirt on the final image."
+    kv "以前用胶片拍摄的时候，必须得检查一下，确保那个空隙是干净的。不然最终成片里就会看到灰尘。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:835
 translate chinese sm1ms022_c082cc9d:
 
     # kv "But you don't really need to check it anymore, because you'd see it on the screen."
-    kv "But you don't really need to check it anymore, because you'd see it on the screen."
+    kv "但现在基本不用检查了，因为屏幕上就能直接看到有没有脏东西。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:838
 translate chinese sm1ms022_0948ddeb:
 
     # sy "Shit... the internet lied to me."
-    sy "Shit... the internet lied to me."
+    sy "靠...网上的信息骗我。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:840
 translate chinese sm1ms022_ad69fe13:
 
     # kv "Well... they used to, but I can always check the gate if you want me to. Some people still do it?"
-    kv "Well... they used to, but I can always check the gate if you want me to. Some people still do it?"
+    kv "嗯...以前确实是需要检查的，不过要是你想让我检查，我也可以看看。现在还是有人会检查的吧？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:843
 translate chinese sm1ms022_ef4cb853:
 
     # sy "Are you just saying that to make me feel better?"
-    sy "Are you just saying that to make me feel better?"
+    sy "你这么说，就是为了让我心里好受点吧？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:845
 translate chinese sm1ms022_2235fc74:
 
     # kv "Nope. It definitely stills happens."
-    kv "Nope. It definitely stills happens."
+    kv "不是的。现在确实还会发生这种情况。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:846
 translate chinese sm1ms022_16c31c4a:
 
     # kv "It's just not that important anymore."
-    kv "It's just not that important anymore."
+    kv "只是没以前那么重要了而已。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:847
 translate chinese sm1ms022_fdc16c64:
 
     # sy "Thanks, Kanya."
-    sy "Thanks, Kanya."
+    sy "谢谢你，康雅。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:850
 translate chinese sm1ms022_d79952f0:
 
     # kv "And you, [mcname]. You improve every time we shoot a scene!"
-    kv "And you, [mcname]. You improve every time we shoot a scene!"
+    kv "还有你，[mcname]。每次咱们拍新的戏，你都有进步！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:852
 translate chinese sm1ms022_70350721:
 
     # mc "Thanks, Kanya!"
-    mc "Thanks, Kanya!"
+    mc "谢谢夸奖，康雅！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:853
 translate chinese sm1ms022_76788ec4:
 
     # kv "Of course."
-    kv "Of course."
+    kv "不用客气。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:856
 translate chinese sm1ms022_5348e9d0:
 
     # kv "I'm going to get back to the studio and start dumping the footage. I can drop it off for you in a bit, if that's okay."
-    kv "I'm going to get back to the studio and start dumping the footage. I can drop it off for you in a bit, if that's okay."
+    kv "我要回工作室把拍摄素材导出来了。要是可以的话，过会儿我把素材给你们送过来。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:858
 translate chinese sm1ms022_23c39c4e:
 
     # sy "Totally okay! Do what you gotta do!"
-    sy "Totally okay! Do what you gotta do!"
+    sy "完全可以！你去忙你的吧！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:862
 translate chinese sm1ms022_a58ea750:
 
     # sy "Because I am exhausted. I can't even think about working."
-    sy "Because I am exhausted. I can't even think about working."
+    sy "因为我实在太累了。我现在连想工作的力气都没有。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:863
 translate chinese sm1ms022_63fec273:
 
     # sy "Two anal orgasms really takes it out of you."
-    sy "Two anal orgasms really takes it out of you."
+    sy "两次肛交高潮真的太消耗体力了。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:866
 translate chinese sm1ms022_433bd6e7:
 
     # mc "Wow, really that good, huh?"
-    mc "Wow, really that good, huh?"
+    mc "哇，真有那么爽吗？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:869
 translate chinese sm1ms022_e73b1839:
 
     # sy "All I can say is this; I will never fake an orgasm on camera with you, [mcname]."
-    sy "All I can say is this; I will never fake an orgasm on camera with you, [mcname]."
+    sy "我只能说，[mcname]，以后跟你在镜头前拍摄，我绝对不会假装高潮。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:870
 translate chinese sm1ms022_fe824802:
 
     # sy "So every time you see the big O happen, know that you earned it!"
-    sy "So every time you see the big O happen, know that you earned it!"
+    sy "所以每次你看到我在镜头里达到高潮，你都要知道，那都是你的真本事!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:873
 translate chinese sm1ms022_9ebdfd5b:
 
     # kv "Man, you got a special one in her, [mcname]."
-    kv "Man, you got a special one in her, [mcname]."
+    kv "哇，[mcname]，你能找到她这么特别的人，真是好福气。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:875
 translate chinese sm1ms022_8fd7233d:
 
     # mc "Oh, you have no idea."
-    mc "Oh, you have no idea."
+    mc "哦，你都想象不到她有多特别。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:879
 translate chinese sm1ms022_94c97865:
 
     # kv "Well, on that note..."
-    kv "Well, on that note..."
+    kv "好，既然这样..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:880
 translate chinese sm1ms022_df3378f1:
 
     # kv "I need to jet, but I'll let you know as soon as the footage is ready."
-    kv "I need to jet, but I'll let you know as soon as the footage is ready."
+    kv "我得赶紧走了，不过素材一准备好，我就马上通知你们。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:884
 translate chinese sm1ms022_f7b084b2:
 
     # mc "Awesome, I'm excited to see how it turns out!"
-    mc "Awesome, I'm excited to see how it turns out!"
+    mc "太好啦，我都等不及想看看成片效果了！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:886
 translate chinese sm1ms022_71638c04:
 
     # kv "Me too! This one easily tops your last one."
-    kv "Me too! This one easily tops your last one."
+    kv "我也是！这部片子肯定比你们上一部还要好。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:889
 translate chinese sm1ms022_10dee4ef:
 
     # mc "You think so?"
-    mc "You think so?"
+    mc "你真这么觉得？"
 
 # game/code/scenes/main_story/sm1ms022.rpy:891
 translate chinese sm1ms022_8bab7c5c:
 
     # kv "Oh, I know so."
-    kv "Oh, I know so."
+    kv "哦，我很确定。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:895
 translate chinese sm1ms022_3cbf4a10:
 
     # kv "Tata, [mcname]!"
-    kv "Tata, [mcname]!"
+    kv "再见啦，[mcname]！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:897
 translate chinese sm1ms022_7c19882c:
 
     # mc "See you later, Kanya!"
-    mc "See you later, Kanya!"
+    mc "康雅，回头见！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:901
 translate chinese sm1ms022_3f4bcb40:
 
     # mct "Man... that was a blast."
-    mct "Man... that was a blast."
+    mct "呼...刚才拍得真过瘾。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:902
 translate chinese sm1ms022_94f3e8f9:
 
     # mct "I really hope the client likes this next video..."
-    mct "I really hope the client likes this next video..."
+    mct "真希望客户会喜欢这部新片子..."
 
