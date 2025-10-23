@@ -980,73 +980,73 @@ translate chinese sm1cs_my004_a3b9e72c:
 translate chinese sm1cs_my004_899c9b8e:
 
     # mct "Oh God, Stacy is really flying by the seat of her pants."
-    mct "Oh God, Stacy is really flying by the seat of her pants."
+    mct "天啊，史黛西真的是在临场发挥。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:552
 translate chinese sm1cs_my004_69161202:
 
     # mct "She has no idea what she's doing."
-    mct "She has no idea what she's doing."
+    mct "她完全不知道自己在做什么。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:555
 translate chinese sm1cs_my004_a52b86d3:
 
     # sy "And we should put on some oil for this!"
-    sy "And we should put on some oil for this!"
+    sy "我们应该抹点油！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:558
 translate chinese sm1cs_my004_c9a742d3:
 
     # my "We should do what?"
-    my "We should do what?"
+    my "我们应该做什么？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:562
 translate chinese sm1cs_my004_aed626de:
 
     # sy "Oil up! You know, it'll make the photos pop!"
-    sy "Oil up! You know, it'll make the photos pop!"
+    sy "抹油！你知道的，这会让照片更出彩！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:564
 translate chinese sm1cs_my004_2a5b3ac3:
 
     # sy "I'll oil myself up! And [mcname] can help you, Mom!"
-    sy "I'll oil myself up! And [mcname] can help you, Mom!"
+    sy "我自己抹油！[mcname] 可以帮你，妈妈！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:566
 translate chinese sm1cs_my004_14e51563:
 
     # sy "I'll oil myself up! And [mcname] can help you, Melony!"
-    sy "I'll oil myself up! And [mcname] can help you, Melony!"
+    sy "我自己抹油！[mcname] 可以帮你，梅洛妮！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:569
 translate chinese sm1cs_my004_25b07361:
 
     # mct "Oh God... Stacy might have pushed it too far with that..."
-    mct "Oh God... Stacy might have pushed it too far with that..."
+    mct "天啊...史黛西可能把事情推得太过了..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:572
 translate chinese sm1cs_my004_ee84c85c:
 
     # my "I...{w} Okay. Where's the oil?"
-    my "I...{w} Okay. Where's the oil?"
+    my "我...{w} 好吧。油在哪儿？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:574
 translate chinese sm1cs_my004_c08618a5:
 
     # sy "It's right over here! Let me grab it for you!"
-    sy "It's right over here! Let me grab it for you!"
+    sy "就在这儿！让我帮你拿！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:577
 translate chinese sm1cs_my004_be2f1d3b:
 
     # mct "I can't believe she agreed to that..."
-    mct "I can't believe she agreed to that..."
+    mct "我不敢相信她居然同意了..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:581
 translate chinese sm1cs_my004_33d6b3ea:
 
     # my "All right, [mcname]. Let's start rubbing me down!"
-    my "All right, [mcname]. Let's start rubbing me down!"
+    my "好了，[mcname]。开始给我抹油吧！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:582
 translate chinese sm1cs_my004_2b35b6fe:
@@ -1058,157 +1058,157 @@ translate chinese sm1cs_my004_2b35b6fe:
 translate chinese sm1cs_my004_a9449e93:
 
     # my "[mcname]?"
-    my "[mcname]?"
+    my "[mcname]？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:584
 translate chinese sm1cs_my004_60fd5f6b:
 
     # mct "Shit! I think I spaced out for a minute."
-    mct "Shit! I think I spaced out for a minute."
+    mct "该死！我想我刚才走神了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:589
 translate chinese sm1cs_my004_6b310b89:
 
     # mc "Yeah, erm, of course, Mom."
-    mc "Yeah, erm, of course, Mom."
+    mc "是的，呃，当然，妈妈。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:592
 translate chinese sm1cs_my004_d03ddb2c:
 
     # mc "Yeah, erm, of course, Melony."
-    mc "Yeah, erm, of course, Melony."
+    mc "是的，呃，当然，梅洛妮。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:599
 translate chinese sm1cs_my004_1fae30fc:
 
     # mc "Are you sure you want to do this?"
-    mc "Are you sure you want to do this?"
+    mc "你确定要这么做吗？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:602
 translate chinese sm1cs_my004_9cd0192e:
 
     # my "Mostly. But you should start before I get cold feet."
-    my "Mostly. But you should start before I get cold feet."
+    my "基本上。但你应该在我反悔之前开始。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:604
 translate chinese sm1cs_my004_aa514fc1:
 
     # mc "Aye, aye!"
-    mc "Aye, aye!"
+    mc "遵命！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:609
 translate chinese sm1cs_my004_5e100d0e:
 
     # mct "I can't believe Mom is letting me rub oil all over her..."
-    mct "I can't believe Mom is letting me rub oil all over her..."
+    mct "我不敢相信妈妈让我给她全身抹油..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:611
 translate chinese sm1cs_my004_a7edc897:
 
     # mct "I can't believe Melony is letting me rub oil all over her..."
-    mct "I can't believe Melony is letting me rub oil all over her..."
+    mct "我不敢相信梅洛妮让我给她全身抹油..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:612
 translate chinese sm1cs_my004_0c437da8:
 
     # mct "I wonder..."
-    mct "I wonder..."
+    mct "我在想..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:616
 translate chinese sm1cs_my004_b2944b33:
 
     # mc "Hey, Mom?"
-    mc "Hey, Mom?"
+    mc "嘿，妈妈？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:618
 translate chinese sm1cs_my004_c8eae2e7:
 
     # mc "Hey, Melony?"
-    mc "Hey, Melony?"
+    mc "嘿，梅洛妮？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:621
 translate chinese sm1cs_my004_6ffa3639:
 
     # my "Yes?"
-    my "Yes?"
+    my "什么事？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:624
 translate chinese sm1cs_my004_578ad088:
 
     # mc "Uhhh, not that I'm not happy to have you in the competition, but... this doesn't feel like something you'd normally do-"
-    mc "Uhhh, not that I'm not happy to have you in the competition, but... this doesn't feel like something you'd normally do-"
+    mc "呃，不是说我不高兴你参加比赛，但是...这感觉不太像你平时会做的事--"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:626
 translate chinese sm1cs_my004_728a5fe5:
 
     # my "And you're wondering why I'm doing it?"
-    my "And you're wondering why I'm doing it?"
+    my "你想知道我为什么要这么做？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:629
 translate chinese sm1cs_my004_39748905:
 
     # mc "A little bit, yeah."
-    mc "A little bit, yeah."
+    mc "有一点，是的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:631
 translate chinese sm1cs_my004_7d62da46:
 
     # my "*sigh* Well... I don't know why I'm doing it either."
-    my "*sigh* Well... I don't know why I'm doing it either."
+    my "*叹气* 好吧...我也不知道我为什么要这么做。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:640
 translate chinese sm1cs_my004_8d4462dd:
 
     # my "Part of me thinks it's so I can spend time with you and your sister."
-    my "Part of me thinks it's so I can spend time with you and your sister."
+    my "我的一部分觉得是为了能和你和你妹妹共度时光。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:642
 translate chinese sm1cs_my004_78f056b6:
 
     # my "Part of me thinks it's so I can spend time with you and Stacy."
-    my "Part of me thinks it's so I can spend time with you and Stacy."
+    my "我的一部分觉得是为了能和你和史黛西共度时光。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:643
 translate chinese sm1cs_my004_eb32b762:
 
     # my "But I think another part is that... doing this...{w} To help me be more comfortable with what you do for work."
-    my "But I think another part is that... doing this...{w} To help me be more comfortable with what you do for work."
+    my "但我觉得另一部分原因是...做这个...{w} 是为了让我对你的工作更感到自在。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:646
 translate chinese sm1cs_my004_908d02c1:
 
     # my "Another part of me... misses being a little wild."
-    my "Another part of me... misses being a little wild."
+    my "我的另一部分...怀念过去有点狂野的自己。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:647
 translate chinese sm1cs_my004_78e8bc55:
 
     # my "The last few years I've focused on work, and you two, and... everything else in my life."
-    my "The last few years I've focused on work, and you two, and... everything else in my life."
+    my "过去几年我一直专注于工作，还有你们俩，还有...我生活中的其他一切。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:650
 translate chinese sm1cs_my004_f9c0e736:
 
     # my "And maybe I lost that side of that got really excited about life. It just... slipped away."
-    my "And maybe I lost that side of that got really excited about life. It just... slipped away."
+    my "也许我失去了那个对生活充满激情的自己。它就这样...溜走了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:653
 translate chinese sm1cs_my004_cc580392:
 
     # my "I miss that. The woman who could cut loose, be feral, be... free."
-    my "I miss that. The woman who could cut loose, be feral, be... free."
+    my "我怀念那样的自己。那个可以放纵、可以狂野、可以...自由的女人。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:656
 translate chinese sm1cs_my004_2c9a23fd:
 
     # mc "Wow..."
-    mc "Wow..."
+    mc "哇..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:658
 translate chinese sm1cs_my004_76b1c2a5:
 
     # my "Maybe that's why I'm here. To find her again."
-    my "Maybe that's why I'm here. To find her again."
+    my "也许这就是我在这儿的原因。为了重新找回她。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:662
 translate chinese sm1cs_my004_2b35b6fe_1:
@@ -1220,181 +1220,181 @@ translate chinese sm1cs_my004_2b35b6fe_1:
 translate chinese sm1cs_my004_9e2edb49:
 
     # mct "Damn..."
-    mct "Damn..."
+    mct "该死..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:666
 translate chinese sm1cs_my004_3bd87351:
 
     # my "You okay, [mcname]?"
-    my "You okay, [mcname]?"
+    my "你还好吗，[mcname]？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:668
 translate chinese sm1cs_my004_c910cd72:
 
     # mc "Uhm, yeah. Sorry. I just wasn't expecting such a deep thought."
-    mc "Uhm, yeah. Sorry. I just wasn't expecting such a deep thought."
+    mc "嗯，是的。抱歉。我只是没想到你会有这么深刻的想法。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:669
 translate chinese sm1cs_my004_be3f1e1d:
 
     # my "*giggles* I'm full of surprises."
-    my "*giggles* I'm full of surprises."
+    my "*咯咯笑* 我充满了惊喜。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:670
 translate chinese sm1cs_my004_f126e01d:
 
     # my "But uh... don't get too distrated. I think there are a more spots that need oil."
-    my "But uh... don't get too distrated. I think there are a more spots that need oil."
+    my "但是呃...别太分心。我想还有更多地方需要抹油。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:671
 translate chinese sm1cs_my004_13676ffb:
 
     # mc "Oh, uhm... what'd I miss?"
-    mc "Oh, uhm... what'd I miss?"
+    mc "哦，呃...我漏了哪里？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:675
 translate chinese sm1cs_my004_d799f609:
 
     # my "*giggles* They are kind of hard to miss, [mcname]."
-    my "*giggles* They are kind of hard to miss, [mcname]."
+    my "*咯咯笑* 它们很难错过的，[mcname]。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:677
 translate chinese sm1cs_my004_b0258397:
 
     # mct "My god. Melonly wants me to rub down her tits!"
-    mct "My god. Melonly wants me to rub down her tits!"
+    mct "我的天。梅洛妮想让我抹她的奶子！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:679
 translate chinese sm1cs_my004_dcd5bd3b:
 
     # mct "God, Mom is being so forward..."
-    mct "God, Mom is being so forward..."
+    mct "天啊，妈妈太直接了..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:681
 translate chinese sm1cs_my004_44e0e6a6:
 
     # mct "God, Melony is acting so forward..."
-    mct "God, Melony is acting so forward..."
+    mct "天啊，梅洛妮表现得太直接了..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:683
 translate chinese sm1cs_my004_a33efff5:
 
     # mc "Erm, yeah. Let me, uhm, get that- those, uhhh. Yeah."
-    mc "Erm, yeah. Let me, uhm, get that- those, uhhh. Yeah."
+    mc "呃，是的。让我，嗯，弄那个——那些，呃。是的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:685
 translate chinese sm1cs_my004_df590ddc:
 
     # mct "All right... time to fondle my Mom..."
-    mct "All right... time to fondle my Mom..."
+    mct "好吧...是时候抚摸我妈妈了..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:687
 translate chinese sm1cs_my004_c89a395c:
 
     # mct "All right... time to fondle Melony..."
-    mct "All right... time to fondle Melony..."
+    mct "好吧...是时候抚摸梅洛妮了..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:688
 translate chinese sm1cs_my004_137fac5f:
 
     # mct "Come on, [mcname]. Pull yourself together. You can do this."
-    mct "Come on, [mcname]. Pull yourself together. You can do this."
+    mct "来吧，[mcname]。振作起来。你能做到的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:689
 translate chinese sm1cs_my004_b034b205:
 
     # mct "Tits are tits, you got game. You got this."
-    mct "Tits are tits, you got game. You got this."
+    mct "奶子就是奶子，你很有一套。你能行的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:695
 translate chinese sm1cs_my004_673eec57:
 
     # mct "All right, so far so good..."
-    mct "All right, so far so good..."
+    mct "好吧，到目前为止还不错..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:696
 translate chinese sm1cs_my004_8587b10e:
 
     # mct "Tits are just tits."
-    mct "Tits are just tits."
+    mct "奶子就只是奶子。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:700
 translate chinese sm1cs_my004_b5f887de:
 
     # mct "Even if they're your Mom's huge... soft... pillowy... warm tits..."
-    mct "Even if they're your Mom's huge... soft... pillowy... warm tits..."
+    mct "即使它们是你妈妈巨大的...柔软的...像枕头一样...温暖的奶子..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:702
 translate chinese sm1cs_my004_1eab282c:
 
     # mct "Even if they're Melony's huge... soft... pillowy... warm tits..."
-    mct "Even if they're Melony's huge... soft... pillowy... warm tits..."
+    mct "即使它们是梅洛妮巨大的...柔软的...像枕头一样...温暖的奶子..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:705
 translate chinese sm1cs_my004_2880fc1c:
 
     # mct "Oh God, I feel myself getting a boner. S-O-S, S-O-S."
-    mct "Oh God, I feel myself getting a boner. S-O-S, S-O-S."
+    mct "天啊，我感觉自己要勃起了。S-O-S，S-O-S。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:706
 translate chinese sm1cs_my004_9c65fb41:
 
     # mct "Uhm, think of anything that isn't tits! Taxes, baseball, soccer balls..."
-    mct "Uhm, think of anything that isn't tits! Taxes, baseball, soccer balls..."
+    mct "呃，想点不是奶子的东西！税收、棒球、足球..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:710
 translate chinese sm1cs_my004_b662851f:
 
     # mct "Mom's tits are as big as a soccer ball-"
-    mct "Mom's tits are as big as a soccer ball-"
+    mct "妈妈的奶子和足球一样大--"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:712
 translate chinese sm1cs_my004_a3344c3b:
 
     # mct "Melony's tits are as big as a soccer ball-"
-    mct "Melony's tits are as big as a soccer ball-"
+    mct "梅洛妮的奶子和足球一样大--"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:715
 translate chinese sm1cs_my004_61dfe845:
 
     # mct "Get your head in the game, man!"
-    mct "Get your head in the game, man!"
+    mct "把心思放在游戏上，老兄！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:717
 translate chinese sm1cs_my004_710f1b74:
 
     # my "{size=*0.6}Mmmmmmmm...{/size}"
-    my "{size=*0.6}Mmmmmmmm...{/size}"
+    my "{size=*0.6}嗯嗯嗯嗯嗯...{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:721
 translate chinese sm1cs_my004_e6bedc9b:
 
     # mct "Did Mom just moan!?!"
-    mct "Did Mom just moan!?!"
+    mct "妈妈刚才在呻吟吗？！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:723
 translate chinese sm1cs_my004_8b84a011:
 
     # mct "Did Melony just moan!?!"
-    mct "Did Melony just moan!?!"
+    mct "梅洛妮刚才在呻吟吗？！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:724
 translate chinese sm1cs_my004_1882a016:
 
     # mct "No, I'm imagining it-"
-    mct "No, I'm imagining it-"
+    mct "不，我在幻想--"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:727
 translate chinese sm1cs_my004_b936e578:
 
     # my "{size=*0.6}Mmmmmmmmmmmmmmmmm...{/size}"
-    my "{size=*0.6}Mmmmmmmmmmmmmmmmm...{/size}"
+    my "{size=*0.6}嗯嗯嗯嗯嗯嗯嗯嗯嗯...{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:731
 translate chinese sm1cs_my004_f842086f:
 
     # mct "Nope, not imaging it!"
-    mct "Nope, not imaging it!"
+    mct "不，不是在幻想！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:736
 translate chinese sm1cs_my004_9c7b9eae:
@@ -1406,259 +1406,259 @@ translate chinese sm1cs_my004_9c7b9eae:
 translate chinese sm1cs_my004_b3ae8984:
 
     # mc "Uhm..."
-    mc "Uhm..."
+    mc "呃..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:745
 translate chinese sm1cs_my004_3b6f4b36:
 
     # my "Oh, uhm-"
-    my "Oh, uhm-"
+    my "哦，呃--"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:747
 translate chinese sm1cs_my004_137e90ba:
 
     # mc "Yeah, I think we're all done, erm..."
-    mc "Yeah, I think we're all done, erm..."
+    mc "是的，我想我们都完成了，呃..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:748
 translate chinese sm1cs_my004_11ce7ce2:
 
     # my "Yep!{w} I don't think you missed anything..."
-    my "Yep!{w} I don't think you missed anything..."
+    my "是的！{w} 我想你没有漏掉任何地方..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:754
 translate chinese sm1cs_my004_56f8ebcc:
 
     # sy "Looking good, Mom!"
-    sy "Looking good, Mom!"
+    sy "看起来很棒，妈妈！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:756
 translate chinese sm1cs_my004_7384052d:
 
     # sy "Looking good, Melony!"
-    sy "Looking good, Melony!"
+    sy "看起来很棒，梅洛妮！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:760
 translate chinese sm1cs_my004_e02944ae:
 
     # my "Thank you, Stacy. I, uhm, appreciate it."
-    my "Thank you, Stacy. I, uhm, appreciate it."
+    my "谢谢你，史黛西。我，呃，很感激。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:763
 translate chinese sm1cs_my004_92260ea3:
 
     # mct "God, did she... did she get turned on?"
-    mct "God, did she... did she get turned on?"
+    mct "天啊，她...她是不是兴奋了？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:766
 translate chinese sm1cs_my004_b9a7afd8:
 
     # my "Uhm, I actually... {w}I just remembered, I have an... important call with the gallery."
-    my "Uhm, I actually... {w}I just remembered, I have an... important call with the gallery."
+    my "呃，我实际上...{w}我刚想起来，我有个...和画廊的重要电话。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:769
 translate chinese sm1cs_my004_b4941afe:
 
     # sy "What! This is our last part of the contest!"
-    sy "What! This is our last part of the contest!"
+    sy "什么！这是我们比赛的最后一部分了！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:773
 translate chinese sm1cs_my004_122bdce4:
 
     # my "I know, I am so sorry. It totally slipped my mind but it's... important."
-    my "I know, I am so sorry. It totally slipped my mind but it's... important."
+    my "我知道，我真的很抱歉。我完全忘了，但这...很重要。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:774
 translate chinese sm1cs_my004_6b5ab763:
 
     # my "I'm just going to wash up a bit, and then I'll have to go."
-    my "I'm just going to wash up a bit, and then I'll have to go."
+    my "我只是去洗一下，然后我就得走了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:778
 translate chinese sm1cs_my004_00a6f085:
 
     # sy "{size=*0.6}[mcname]! What did you do!?{/size}"
-    sy "{size=*0.6}[mcname]! What did you do!?{/size}"
+    sy "{size=*0.6}[mcname]！你做了什么？！{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:781
 translate chinese sm1cs_my004_432a7cf8:
 
     # mc "{size=*0.6}Nothing! I just put the oil on her!{/size}"
-    mc "{size=*0.6}Nothing! I just put the oil on her!{/size}"
+    mc "{size=*0.6}什么都没做！我只是给她抹了油！{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:783
 translate chinese sm1cs_my004_7780998f:
 
     # sy "{size=*0.6}Then why is she sprinting out of here?{/size}"
-    sy "{size=*0.6}Then why is she sprinting out of here?{/size}"
+    sy "{size=*0.6}那她为什么要冲出去？{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:784
 translate chinese sm1cs_my004_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "我--"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:788
 translate chinese sm1cs_my004_c38ea4ea:
 
     # my "Again, I am so sorry, you two."
-    my "Again, I am so sorry, you two."
+    my "再次，我真的很抱歉，你们俩。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:789
 translate chinese sm1cs_my004_146820f5:
 
     # my "We'll have to... do something to make up for the interruption."
-    my "We'll have to... do something to make up for the interruption."
+    my "我们得...做点什么来弥补这次打断。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:794
 translate chinese sm1cs_my004_a971d921:
 
     # sy "Sounds good, Mom."
-    sy "Sounds good, Mom."
+    sy "听起来不错，妈妈。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:796
 translate chinese sm1cs_my004_4bc340c4:
 
     # sy "Sounds good, Melony."
-    sy "Sounds good, Melony."
+    sy "听起来不错，梅洛妮。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:799
 translate chinese sm1cs_my004_d609fdb6:
 
     # my "I'll see you two later, okay?"
-    my "I'll see you two later, okay?"
+    my "我待会儿见你们俩，好吗？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:802
 translate chinese sm1cs_my004_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "好的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:805
 translate chinese sm1cs_my004_97029f8b:
 
     # mc "Bye, Mom."
-    mc "Bye, Mom."
+    mc "再见，妈妈。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:808
 translate chinese sm1cs_my004_1855212b:
 
     # my "Bye, son."
-    my "Bye, son."
+    my "再见，儿子。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:810
 translate chinese sm1cs_my004_510dc38a:
 
     # mc "Bye, Melony."
-    mc "Bye, Melony."
+    mc "再见，梅洛妮。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:813
 translate chinese sm1cs_my004_beff4967:
 
     # my "Bye, [mcname]."
-    my "Bye, [mcname]."
+    my "再见，[mcname]。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:817
 translate chinese sm1cs_my004_697c695f:
 
     # sy "Wow. I can't believe she bolted that fast."
-    sy "Wow. I can't believe she bolted that fast."
+    sy "哇。我不敢相信她跑得那么快。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:820
 translate chinese sm1cs_my004_028f1999:
 
     # mc "I mean... I'm not that surprised."
-    mc "I mean... I'm not that surprised."
+    mc "我是说...我并不那么惊讶。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:823
 translate chinese sm1cs_my004_63a9e153:
 
     # sy "What do you mean?"
-    sy "What do you mean?"
+    sy "你什么意思？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:826
 translate chinese sm1cs_my004_90ba4701:
 
     # mc "I mean, I think it's a lot to just surprise someone with a two on one swimsuit competition."
-    mc "I mean, I think it's a lot to just surprise someone with a two on one swimsuit competition."
+    mc "我是说，我觉得突然给某人来个二对一泳装比赛太过了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:827
 translate chinese sm1cs_my004_44546bd6:
 
     # mc "And then shove oil in their hands and tell them to get lubed up."
-    mc "And then shove oil in their hands and tell them to get lubed up."
+    mc "然后把油塞给她们，让她们抹油。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:830
 translate chinese sm1cs_my004_d78c0334:
 
     # sy "Well what was I supposed to do!"
-    sy "Well what was I supposed to do!"
+    sy "那我应该怎么做！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:831
 translate chinese sm1cs_my004_0d359089:
 
     # sy "You weren't making any progress."
-    sy "You weren't making any progress."
+    sy "你一点进展都没有。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:834
 translate chinese sm1cs_my004_453349d5:
 
     # mc "*annooyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
-    mc "*annooyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
+    mc "*恼怒的声音* 我能处理，史黛西。你只需要对过程有点信心。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:838
 translate chinese sm1cs_my004_f054ee30:
 
     # sy "A little faith in the process, hmmmph."
-    sy "A little faith in the process, hmmmph."
+    sy "对过程有点信心，哼。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:839
 translate chinese sm1cs_my004_dc4a2f9e:
 
     # sy "And I covered myself in all this oil for nothing."
-    sy "And I covered myself in all this oil for nothing."
+    sy "而且我白白给自己抹了这么多油。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:842
 translate chinese sm1cs_my004_b918b106:
 
     # mc "What did you think was going to happen?"
-    mc "What did you think was going to happen?"
+    mc "你以为会发生什么？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:845
 translate chinese sm1cs_my004_ea1bb01e:
 
     # sy "I don't know. Maybe some oil wrestling. Or a nuru massage, those I guess are super hot."
-    sy "I don't know. Maybe some oil wrestling. Or a nuru massage, those I guess are super hot."
+    sy "我不知道。也许摔油跤。或者做个nu滑按摩，我猜那些超级火辣。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:849
 translate chinese sm1cs_my004_6e694f75:
 
     # mc "You thought you'd get a nuru massage from Mom?"
-    mc "You thought you'd get a nuru massage from Mom?"
+    mc "你以为你能从妈妈那里得到nuru滑按摩？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:851
 translate chinese sm1cs_my004_b56e71ce:
 
     # mc "You thought you'd get a nuru massage from Melony?"
-    mc "You thought you'd get a nuru massage from Melony?"
+    mc "你以为你能从梅洛妮那里得到nuru滑按摩？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:854
 translate chinese sm1cs_my004_8d6ec963:
 
     # sy "No, but maybe {i}we{/i} could have given you one."
-    sy "No, but maybe {i}we{/i} could have given you one."
+    sy "不，但也许{i}我们{/i}可以给你一个。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:857
 translate chinese sm1cs_my004_c1dff962:
 
     # mc "Oh..."
-    mc "Oh..."
+    mc "哦..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:860
 translate chinese sm1cs_my004_51acdef4:
 
     # sy "Yeah, sounds pretty hot, doesn't it."
-    sy "Yeah, sounds pretty hot, doesn't it."
+    sy "是啊，听起来挺火辣的，不是吗。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:861
 translate chinese sm1cs_my004_2b35b6fe_2:
@@ -1670,73 +1670,73 @@ translate chinese sm1cs_my004_2b35b6fe_2:
 translate chinese sm1cs_my004_fb474747:
 
     # sy "That's what I thought."
-    sy "That's what I thought."
+    sy "我就是这么想的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:866
 translate chinese sm1cs_my004_44482bd0:
 
     # sy "But now I need to take a cold shower to calm down and get all of this crap off of me."
-    sy "But now I need to take a cold shower to calm down and get all of this crap off of me."
+    sy "但现在我需要洗个冷水澡冷静一下，把这些东西洗掉。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:872
 translate chinese sm1cs_my004_3a18ac34:
 
     # mct "Man, that was incredible..."
-    mct "Man, that was incredible..."
+    mct "天啊，那真是太不可思议了..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:874
 translate chinese sm1cs_my004_d3a68d66:
 
     # mct "I still can't get over the fact that Mom agreed to do the competition at all."
-    mct "I still can't get over the fact that Mom agreed to do the competition at all."
+    mct "我还是无法接受妈妈竟然同意参加比赛这个事实。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:876
 translate chinese sm1cs_my004_be5f379f:
 
     # mct "I can't believe Melony even agreed to do the competition in the first place."
-    mct "I can't believe Melony even agreed to do the competition in the first place."
+    mct "我不敢相信梅洛妮一开始就同意参加比赛。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:879
 translate chinese sm1cs_my004_e5a4fa76:
 
     # mct "And then her moaning will I massaged her tits..."
-    mct "And then her moaning will I massaged her tits..."
+    mct "然后当我按摩她的奶子时她的呻吟..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:882
 translate chinese sm1cs_my004_ad1f7f82:
 
     # mct "God, enough to make a man go crazy.{w} Or a woman."
-    mct "God, enough to make a man go crazy.{w} Or a woman."
+    mct "天啊，足以让一个男人发疯。{w} 或者一个女人。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:885
 translate chinese sm1cs_my004_f8524200:
 
     # mct "I should probably give Melony a few days to calm down. That will give me some time to come up with a plan for what comes next."
-    mct "I should probably give Melony a few days to calm down. That will give me some time to come up with a plan for what comes next."
+    mct "我应该给梅洛妮几天时间冷静一下。这会给我一些时间来想出接下来该做什么。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:888
 translate chinese sm1cs_my004_05008e7d:
 
     # mct "Mmmm. I just hope that things didn't go too far today..."
-    mct "Mmmm. I just hope that things didn't go too far today..."
+    mct "嗯。我只是希望今天的事情没有走得太远..."
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:485
     old "Mom"
-    new "Mom"
+    new "妈妈"
 
     # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:485
     old "Melony"
-    new "Melony"
+    new "梅洛妮"
 
     # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:485
     old "Stacy"
-    new "Stacy"
+    new "史黛西"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:319
 translate chinese sm1cs_my004_3de68331:
 
     # sy "Come on, [mcname]. You have got to do better than that. How about the cut? The fit?"
-    sy "Come on, [mcname]. You have got to do better than that. How about the cut? The fit?"
+    sy "来吧，[mcname]。你得做得更好。剪裁怎么样？合身度呢？"
 
