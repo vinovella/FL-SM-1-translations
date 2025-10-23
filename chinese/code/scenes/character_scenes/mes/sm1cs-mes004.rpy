@@ -1049,3 +1049,4 @@ translate chinese strings:
     # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:454
     old "I could live without it"
     new "我没有也能活"
+
