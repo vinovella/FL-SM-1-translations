@@ -1700,145 +1700,145 @@ translate chinese sm1cs_mh009_33d59856:
 translate chinese sm1cs_mh009_705cb4f7:
 
     # mc "God, that was great - but holy shit do I have to take a piss now. Didn't realize how full my bladder was."
-    mc "God, that was great - but holy shit do I have to take a piss now. Didn't realize how full my bladder was."
+    mc "天啊，那真是太棒了--但该死的我现在得撒尿了。没意识到我的膀胱有多满。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:820
 translate chinese sm1cs_mh009_f8da9238:
 
     # mh "Is that so?"
-    mh "Is that so?"
+    mh "是吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:821
 translate chinese sm1cs_mh009_fe8ff023:
 
     # mc "Yeah, gimme a sec."
-    mc "Yeah, gimme a sec."
+    mc "是的，等我一下。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:824
 translate chinese sm1cs_mh009_80df68a2:
 
     # mh "Give you a sec for what?"
-    mh "Give you a sec for what?"
+    mh "等你一下干什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:826
 translate chinese sm1cs_mh009_6286c2e8:
 
     # mc "I'm just going to run to the bathroom-"
-    mc "I'm just going to run to the bathroom-"
+    mc "我只是要跑去洗手间--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:827
 translate chinese sm1cs_mh009_2f631098:
 
     # mh "Why?"
-    mh "Why?"
+    mh "为什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:828
 translate chinese sm1cs_mh009_11709406:
 
     # mc "Uhm... to, you know, piss?"
-    mc "Uhm... to, you know, piss?"
+    mc "呃...你知道的，撒尿？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:829
 translate chinese sm1cs_mh009_b5d6d247:
 
     # mh "Just do it here."
-    mh "Just do it here."
+    mh "就在这里做。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:832
 translate chinese sm1cs_mh009_b808b20f:
 
     # mc "On you?"
-    mc "On you?"
+    mc "在你身上？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:836
 translate chinese sm1cs_mh009_d1b55f0c:
 
     # mh "Uh huh. The only thing better than getting covered once, is getting covered twice."
-    mh "Uh huh. The only thing better than getting covered once, is getting covered twice."
+    mh "嗯哼。唯一比被覆盖一次更好的，就是被覆盖两次。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:839
 translate chinese sm1cs_mh009_90d05f6a:
 
     # mct "Damn. Lyssa is an absolute freak. But fuck it, this sounds too hot to pass up!"
-    mct "Damn. Lyssa is an absolute freak. But fuck it, this sounds too hot to pass up!"
+    mct "该死。丽莎绝对是个怪胎。但管它呢，这听起来太火辣了，不能错过！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:840
 translate chinese sm1cs_mh009_31171c40:
 
     # mc "As long as you're sure."
-    mc "As long as you're sure."
+    mc "只要你确定。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:843
 translate chinese sm1cs_mh009_79ec4f6b:
 
     # mh "Oh, I am very sure, [mcname]."
-    mh "Oh, I am very sure, [mcname]."
+    mh "哦，我非常确定，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:850
 translate chinese sm1cs_mh009_aa6fdad6:
 
     # mh "Oh Goooood! That feels ammaazzzing, [mcname]!"
-    mh "Oh Goooood! That feels ammaazzzing, [mcname]!"
+    mh "哦，天啊！感觉太棒了，[mcname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:851
 translate chinese sm1cs_mh009_1b7d849d:
 
     # mc "Oooooooo! Oh yeah!"
-    mc "Oooooooo! Oh yeah!"
+    mc "哦哦哦哦哦！哦，是的！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:854
 translate chinese sm1cs_mh009_088e3c18:
 
     # mh "It's so warm, mmmmm! God, this is what I needed today!"
-    mh "It's so warm, mmmmm! God, this is what I needed today!"
+    mh "好温暖，嗯嗯嗯！天啊，这就是我今天需要的！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:855
 translate chinese sm1cs_mh009_edce5d1c:
 
     # mh "Drench me with your piss, [mcname], I want to be absolutely covered, mmmm!"
-    mh "Drench me with your piss, [mcname], I want to be absolutely covered, mmmm!"
+    mh "用你的尿浇透我，[mcname]，我想被完全覆盖，嗯嗯嗯！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:858
 translate chinese sm1cs_mh009_5729424d:
 
     # mct "God, I didn't realize how wild Lyssa could get! We need to do this more often."
-    mct "God, I didn't realize how wild Lyssa could get! We need to do this more often."
+    mct "天啊，我没意识到丽莎可以这么狂野！我们需要更经常这样做。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:859
 translate chinese sm1cs_mh009_41d81870:
 
     # mct "Is this really just because of the camera?"
-    mct "Is this really just because of the camera?"
+    mct "这真的只是因为摄像机吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:862
 translate chinese sm1cs_mh009_aab53b3a:
 
     # mct "Definitely something to talk about."
-    mct "Definitely something to talk about."
+    mct "绝对是值得谈论的事。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:863
 translate chinese sm1cs_mh009_e67d216c:
 
     # mh "Oh God, [mcname], oh God-!"
-    mh "Oh God, [mcname], oh God-!"
+    mh "哦，天啊，[mcname]，哦，天啊--！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:866
 translate chinese sm1cs_mh009_5576d3f7:
 
     # mc "Are you going to cum, [mhname]?"
-    mc "Are you going to cum, [mhname]?"
+    mc "你要高潮了吗，[mhname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:867
 translate chinese sm1cs_mh009_b77a9e17:
 
     # mh "F-fuuuhh- yesssss!"
-    mh "F-fuuuhh- yesssss!"
+    mh "操--是的！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:870
 translate chinese sm1cs_mh009_f373df77:
 
     # mc "Good. Be a good girl and cover yourself in your cum while I piss on you!"
-    mc "Good. Be a good girl and cover yourself in your cum while I piss on you!"
+    mc "很好。做个好女孩，在我尿你的时候用你的精液覆盖自己！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:871
 translate chinese sm1cs_mh009_f9e53995:
@@ -1898,61 +1898,61 @@ translate chinese sm1cs_mh009_d6eff51b:
 translate chinese sm1cs_mh009_408b5706:
 
     # mc "Yeah, probably can't go back to work covered in cum and pee."
-    mc "Yeah, probably can't go back to work covered in cum and pee."
+    mc "是的，可能不能满身精液和尿回去工作。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:903
 translate chinese sm1cs_mh009_bef30000:
 
     # mh "Probably not. But I can probably go to work filled with cum."
-    mh "Probably not. But I can probably go to work filled with cum."
+    mh "可能不行。但我可能可以装满精液去工作。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:908
 translate chinese sm1cs_mh009_b17185a3:
 
     # mct "Holy shit..."
-    mct "Holy shit..."
+    mct "我的天..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:912
 translate chinese sm1cs_mh009_cd18ca2f:
 
     # mh "I'll be right back!"
-    mh "I'll be right back!"
+    mh "我马上回来！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:914
 translate chinese sm1cs_mh009_a0f18190:
 
     # mc "You know, I hate to watch you go-"
-    mc "You know, I hate to watch you go-"
+    mc "你知道，我讨厌看着你走--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:915
 translate chinese sm1cs_mh009_66e99990:
 
     # mh "Yes, yes, [mcname], we all know."
-    mh "Yes, yes, [mcname], we all know."
+    mh "是，是，[mcname]，我们都知道。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:920
 translate chinese sm1cs_mh009_d282da3a:
 
     # mc "Yeah it was, goddamn."
-    mc "Yeah it was, goddamn."
+    mc "是的，该死的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:921
 translate chinese sm1cs_mh009_0cfacd5d:
 
     # mc "You haven't finished yet, though."
-    mc "You haven't finished yet, though."
+    mc "不过你还没完成。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:924
 translate chinese sm1cs_mh009_52d4eb04:
 
     # mh "Mmm-mmm. Not yet. But I'm close."
-    mh "Mmm-mmm. Not yet. But I'm close."
+    mh "嗯-嗯。还没有。但我快了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:932
 translate chinese sm1cs_mh009_1_5f0c0848:
 
     # mc "Keep going. I want to see that gorgeous cock explode."
-    mc "Keep going. I want to see that gorgeous cock explode."
+    mc "继续。我想看到那根华丽的鸡巴爆发。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:939
 translate chinese sm1cs_mh009_1_32d23f2a:
@@ -1964,43 +1964,43 @@ translate chinese sm1cs_mh009_1_32d23f2a:
 translate chinese sm1cs_mh009_1_0e555272:
 
     # mc "Shhh, [mhname]. It looks amazing, watching your fingers move like that."
-    mc "Shhh, [mhname]. It looks amazing, watching your fingers move like that."
+    mc "嘘，[mhname]。看着你的手指那样移动看起来太棒了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:945
 translate chinese sm1cs_mh009_1_9dbc4ab2:
 
     # mc "Think about how good it'll feel, when you shoot your cum all over your perfect tits."
-    mc "Think about how good it'll feel, when you shoot your cum all over your perfect tits."
+    mc "想想当你把精液射在你完美的奶子上时会有多爽。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:954
 translate chinese sm1cs_mh009_1_c8ea777f:
 
     # mc "Cum for me, [mhname]."
-    mc "Cum for me, [mhname]."
+    mc "为我高潮，[mhname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:963
 translate chinese sm1cs_mh009_1_e0ab58b4:
 
     # mc "Keep going. Don't stop until you cum!"
-    mc "Keep going. Don't stop until you cum!"
+    mc "继续。直到你高潮才能停！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:964
 translate chinese sm1cs_mh009_1_389197eb:
 
     # mc "Got it?"
-    mc "Got it?"
+    mc "明白了吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:966
 translate chinese sm1cs_mh009_1_93bc5a72:
 
     # mh "Mmmmhmmmmmm.{w} Yes sir!"
-    mh "Mmmmhmmmmmm.{w} Yes sir!"
+    mh "嗯嗯嗯嗯嗯。{w}是的，先生！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:967
 translate chinese sm1cs_mh009_1_2f28dad7:
 
     # mc "Then cum, I want to watch you cover your beautiful tits with your cum."
-    mc "Then cum, I want to watch you cover your beautiful tits with your cum."
+    mc "那就高潮吧，我想看你用你的精液覆盖你美丽的奶子。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:972
 translate chinese sm1cs_mh009_1_f9e53995:
@@ -2060,7 +2060,7 @@ translate chinese sm1cs_mh009_1_d6eff51b:
 translate chinese sm1cs_mh009_1_3c4aeb68:
 
     # mc "Yeah, probably can't go back to work covered in cum."
-    mc "Yeah, probably can't go back to work covered in cum."
+    mc "是的，可能不能满身精液回去工作。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:996
 translate chinese sm1cs_mh009_1_bef30000:
@@ -2090,323 +2090,323 @@ translate chinese sm1cs_mh009_1_a0f18190:
 translate chinese sm1cs_mh009_1_66e99990:
 
     # mh "Yes, yes, [mcname], we all know."
-    mh "Yes, yes, [mcname], we all know."
+    mh "是，是，[mcname]，我们都知道。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1012
 translate chinese sm1cs_mh009_1_8431c6cd:
 
     # mct "Definitely not how I thought the tour was going to go."
-    mct "Definitely not how I thought the tour was going to go."
+    mct "这绝对不是我想象中的参观方式。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1013
 translate chinese sm1cs_mh009_1_e22c19c8:
 
     # mct "But I can't really complain. That was honestly a ton of fun."
-    mct "But I can't really complain. That was honestly a ton of fun."
+    mct "但我真的不能抱怨。老实说，那太有趣了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1017
 translate chinese sm1cs_mh009_1_ee06c6dd:
 
     # mct "I should probably upload the footage so I can give it to Lyssa when she's out of the bathroom."
-    mct "I should probably upload the footage so I can give it to Lyssa when she's out of the bathroom."
+    mct "我应该上传录像，这样她出浴室时我可以给她。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1020
 translate chinese sm1cs_mh009_1_91581872:
 
     # mct "Now, where the hell did Stacy put that laptop...?"
-    mct "Now, where the hell did Stacy put that laptop...?"
+    mct "现在，史黛西到底把那台笔记本电脑放在哪里了...？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1022
 translate chinese sm1cs_mh009_1_75d12473:
 
     # mct "There it is."
-    mct "There it is."
+    mct "在那里。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1026
 translate chinese sm1cs_mh009_1_2835928d:
 
     # mct "I can get these uploaded and put onto a flash drive or something?"
-    mct "I can get these uploaded and put onto a flash drive or something?"
+    mct "我可以把这些上传并放到闪存盘或什么上面吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1027
 translate chinese sm1cs_mh009_1_34af440b:
 
     # mct "I'll probably have to text Stacy about where she keeps all the flash drives..."
-    mct "I'll probably have to text Stacy about where she keeps all the flash drives..."
+    mct "我可能得发短信问史黛西她把所有闪存盘放在哪里..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1030
 translate chinese sm1cs_mh009_1_547150fc:
 
     # mct "Hopefully she has one that isn't just chock full of porn somewhere."
-    mct "Hopefully she has one that isn't just chock full of porn somewhere."
+    mct "希望她有一个不是塞满色情片的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1035
 translate chinese sm1cs_mh009_1_f587a6b7:
 
     # mct "Okay, let's see... the transfer has started, aaaaand..."
-    mct "Okay, let's see... the transfer has started, aaaaand..."
+    mct "好的，让我看看...传输已经开始了，然后..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1036
 translate chinese sm1cs_mh009_1_807f9462:
 
     # mct "Shit, it's going to take an hour!?"
-    mct "Shit, it's going to take an hour!?"
+    mct "该死，要花一个小时！？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1037
 translate chinese sm1cs_mh009_1_a3895755:
 
     # mct "Damn. That is not ideal..."
-    mct "Damn. That is not ideal..."
+    mct "该死。这不理想..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1041
 translate chinese sm1cs_mh009_1_5ced90a0:
 
     # mh "What are you doing over there?"
-    mh "What are you doing over there?"
+    mh "你在那边做什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1043
 translate chinese sm1cs_mh009_1_401e135a:
 
     # mc "Oh, I was going to transfer over the videos we got today and give them to you, but the download is going to take an hour."
-    mc "Oh, I was going to transfer over the videos we got today and give them to you, but the download is going to take an hour."
+    mc "哦，我本来要把我们今天拍的视频传输过来给你，但下载要花一个小时。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1047
 translate chinese sm1cs_mh009_1_0a2f725c:
 
     # mh "Damn. I actually need to get going right now. I guess a client needs me down at the courthouse, ASAP."
-    mh "Damn. I actually need to get going right now. I guess a client needs me down at the courthouse, ASAP."
+    mh "该死。我现在真的得走了。我想有个客户急需我去法院。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1049
 translate chinese sm1cs_mh009_1_cc441963:
 
     # mc "Uhm, I can always run them to you later? Maybe even edit the footage a little bit so that it looks nicer."
-    mc "Uhm, I can always run them to you later? Maybe even edit the footage a little bit so that it looks nicer."
+    mc "呃，我可以晚点给你送过去？也许还可以稍微编辑一下录像，让它看起来更好。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1050
 translate chinese sm1cs_mh009_1_43f85b91:
 
     # mc "And I promise that the only person who is ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
-    mc "And I promise that the only person who is ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
+    mc "我保证唯一会看到这个的人就是我和你。不会发布，不会给任何人看，我保证--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1053
 translate chinese sm1cs_mh009_1_c7cf2826:
 
     # mh "[mcname]?"
-    mh "[mcname]?"
+    mh "[mcname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1055
 translate chinese sm1cs_mh009_1_872840f2:
 
     # mc "Yes, Lyssa?"
-    mc "Yes, Lyssa?"
+    mc "什么，丽莎？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1056
 translate chinese sm1cs_mh009_1_7f478d9c:
 
     # mh "It's okay."
-    mh "It's okay."
+    mh "没关系。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1057
 translate chinese sm1cs_mh009_1_2967de58:
 
     # mh "I trust you. Completely."
-    mh "I trust you. Completely."
+    mh "我相信你。完全相信。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1066
 translate chinese sm1cs_mh009_1_48057382:
 
     # mh "But I do really need to get going."
-    mh "But I do really need to get going."
+    mh "但我真的需要走了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1067
 translate chinese sm1cs_mh009_1_22244441:
 
     # mh "Bold choice to not put pants on."
-    mh "Bold choice to not put pants on."
+    mh "不穿裤子是个大胆的选择。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1069
 translate chinese sm1cs_mh009_1_f9d11956:
 
     # mc "I figured that I'm already home, why put pants on? I pay rent, I should be able to walk around in the nude as much as I'd like!"
-    mc "I figured that I'm already home, why put pants on? I pay rent, I should be able to walk around in the nude as much as I'd like!"
+    mc "我想我已经在家了，为什么要穿裤子？我付房租，我应该可以想裸体走动就裸体走动！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1070
 translate chinese sm1cs_mh009_1_1a72ca13:
 
     # mh "Of course.{w} But seeing as your home, you might want to clean up the mess from our little bit of fun."
-    mh "Of course.{w} But seeing as your home, you might want to clean up the mess from our little bit of fun."
+    mh "当然。{w}但既然是你家，你可能想清理一下我们这点乐趣留下的mess。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1073
 translate chinese sm1cs_mh009_1_680def70:
 
     # mc "Yeah, you're probably right about that."
-    mc "Yeah, you're probably right about that."
+    mc "是的，你可能是对的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1077
 translate chinese sm1cs_mh009_1_5692831d:
 
     # mh "Goodbye, [mcname]."
-    mh "Goodbye, [mcname]."
+    mh "再见，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1079
 translate chinese sm1cs_mh009_1_85c1a7bb:
 
     # mc "See you later, Lyssa!"
-    mc "See you later, Lyssa!"
+    mc "回头见，丽莎！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1083
 translate chinese sm1cs_mh009_1_2478c805:
 
     # mct "Now, where the hell would Stacy have put the mop?"
-    mct "Now, where the hell would Stacy have put the mop?"
+    mct "现在，史黛西到底把拖把放哪儿了？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1084
 translate chinese sm1cs_mh009_1_dfe327b9:
 
     # mct "... I guess I have to go find it."
-    mct "... I guess I have to go find it."
+    mct "...我想我得去找找。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1087
 translate chinese sm1cs_mh009_1_50e9cd1b:
 
     # mct "So much for not having to think about cleaning up the studio..."
-    mct "So much for not having to think about cleaning up the studio..."
+    mct "说好的不用考虑打扫工作室呢..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1096
 translate chinese sm1cs_mh009_sy_entrance_a01773cc:
 
     # sy "Luuuuccccyyyy, I'm hoooooooome!"
-    sy "Luuuuccccyyyy, I'm hoooooooome!"
+    sy "露西西西西，我回来了！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1103
 translate chinese sm1cs_mh009_sy_entrance_1c092416:
 
     # mc "Oh, hey Stacy. How'd your errands go?"
-    mc "Oh, hey Stacy. How'd your errands go?"
+    mc "哦，嘿，史黛西。你的事办得怎么样？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1106
 translate chinese sm1cs_mh009_sy_entrance_efb960ce:
 
     # sy "Why are you mopping naked?"
-    sy "Why are you mopping naked?"
+    sy "你为什么裸着拖地？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1109
 translate chinese sm1cs_mh009_sy_entrance_317b2ae7:
 
     # mc "Lyssa and I made a bit of a mess."
-    mc "Lyssa and I made a bit of a mess."
+    mc "丽莎和我弄得有点乱。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1113
 translate chinese sm1cs_mh009_sy_entrance_216fc9e7:
 
     # sy "No way!{w} I missed out on sexy fun time with Lyssa!?!"
-    sy "No way!{w} I missed out on sexy fun time with Lyssa!?!"
+    sy "不是吧！{w}我错过了和丽莎的性感欢乐时光！？！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1116
 translate chinese sm1cs_mh009_sy_entrance_c7e2e599:
 
     # mc "Yeah. And we might have done a little bit of watersports."
-    mc "Yeah. And we might have done a little bit of watersports."
+    mc "是的。而且我们可能还玩了点圣水。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1117
 translate chinese sm1cs_mh009_sy_entrance_5893deba:
 
     # sy "And you two did watersports!?!"
-    sy "And you two did watersports!?!"
+    sy "你们俩还玩了圣水！？！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1118
 translate chinese sm1cs_mh009_sy_entrance_6ec4eeca:
 
     # mc "That's what I just said."
-    mc "That's what I just said."
+    mc "我刚才就是这么说的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1124
 translate chinese sm1cs_mh009_sy_entrance_5115358f:
 
     # sy "Oooo, sounds fun!"
-    sy "Oooo, sounds fun!"
+    sy "哦哦哦，听起来很有趣！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1125
 translate chinese sm1cs_mh009_sy_entrance_47b1c0eb:
 
     # sy "That's way more fun than running errands."
-    sy "That's way more fun than running errands."
+    sy "那比办事有趣多了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1128
 translate chinese sm1cs_mh009_sy_entrance_d4af1b8d:
 
     # mc "Yeah, I would definitely bet that I had more fun than you did."
-    mc "Yeah, I would definitely bet that I had more fun than you did."
+    mc "是的，我敢肯定我比你玩得更开心。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1131
 translate chinese sm1cs_mh009_sy_entrance_88532015:
 
     # sy "You got any left in the tank for me, tiger?"
-    sy "You got any left in the tank for me, tiger?"
+    sy "你还有精力留给我吗，老虎？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1133
 translate chinese sm1cs_mh009_sy_entrance_abb302cd:
 
     # mc "W... what?"
-    mc "W... what?"
+    mc "什...什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1134
 translate chinese sm1cs_mh009_sy_entrance_88b168c1:
 
     # sy "I want to have sex now, too!"
-    sy "I want to have sex now, too!"
+    sy "我现在也想做爱！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1137
 translate chinese sm1cs_mh009_sy_entrance_521c90e8:
 
     # mc "I need to finish cleaning first-"
-    mc "I need to finish cleaning first-"
+    mc "我得先把清洁做完--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1141
 translate chinese sm1cs_mh009_sy_entrance_0d8b8c57:
 
     # sy "I'll help!"
-    sy "I'll help!"
+    sy "我来帮忙！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1143
 translate chinese sm1cs_mh009_sy_entrance_5bf0e12b:
 
     # mc "But then I probably need to put pants on and do some things today."
-    mc "But then I probably need to put pants on and do some things today."
+    mc "但然后我可能需要穿上裤子，今天做点事情。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1145
 translate chinese sm1cs_mh009_sy_entrance_c0510655:
 
     # sy "Well, let's just see what happens!"
-    sy "Well, let's just see what happens!"
+    sy "嗯，让我们看看会发生什么吧！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1148
 translate chinese sm1cs_mh009_sy_entrance_43867854:
 
     # mct "Classic Stacy..."
-    mct "Classic Stacy..."
+    mct "典型的史黛西..."
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:329
     old "Please enter a name for Lyssa during roleplay"
-    new "Please enter a name for Lyssa during roleplay"
+    new "请输入丽莎在角色扮演中的名字"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:468
     old "I'm a fan!"
-    new "I'm a fan!"
+    new "我是粉丝！"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:468
     old "Watersports isn't really my thing"
-    new "Watersports isn't really my thing"
+    new "圣水不太适合我"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:926
     old "Be playful"
-    new "Be playful"
+    new "玩闹"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:926
     old "Be dominant"
-    new "Be dominant"
+    new "支配"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:425
 translate chinese sm1cs_mh009_d79e591d:
