@@ -260,7 +260,7 @@ translate chinese sm1ms023_02_99d9368e:
 translate chinese sm1ms023_02_02d62a2e:
 
     # mc "Wow... I'm impressed."
-    mc "哇…… 太厉害了，我真佩服你。"
+    mc "哇...太厉害了，我真佩服你。"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:141
 translate chinese sm1ms023_02_3a9d5096:
@@ -296,95 +296,95 @@ translate chinese sm1ms023_02_60639e3b:
 translate chinese sm1ms023_02_87024dfe:
 
     # sy "Good."
-    sy "Good."
+    sy "这还差不多。"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:158
 translate chinese sm1ms023_02_6abfb4c7:
 
     # sy "And I hope I get a reward for doing such a good job."
-    sy "And I hope I get a reward for doing such a good job."
+    sy "而且我做得这么好，总该有奖励吧。"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:162
 translate chinese sm1ms023_02_02d27103:
 
     # mc "Oh, you absolutely will."
-    mc "Oh, you absolutely will."
+    mc "哦，肯定会给你奖励的。"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:165
 translate chinese sm1ms023_02_3b642dc7:
 
     # sy "Right now?"
-    sy "Right now?"
+    sy "现在就给吗？"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:167
 translate chinese sm1ms023_02_0dca1676:
 
     # mc "I think you need to finish the video and send it to the client."
-    mc "I think you need to finish the video and send it to the client."
+    mc "我觉得你得先把视频做完，发给客户再说。"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:171
 translate chinese sm1ms023_02_17575cf1:
 
     # sy "Fuck meeeeeee."
-    sy "Fuck meeeeeee."
+    sy "干我嘛~~~"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:174
 translate chinese sm1ms023_02_bb9f6ea3:
 
     # sy "Please?"
-    sy "Please?"
+    sy "就现在嘛，好不好？"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:177
 translate chinese sm1ms023_02_e281e04c:
 
     # mc "Come on, Stacy."
-    mc "Come on, Stacy."
+    mc "别这样，史黛西。"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:181
 translate chinese sm1ms023_02_d493b236:
 
     # sy "Ugggggggh!"
-    sy "Ugggggggh!"
+    sy "呃啊！"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:186
 translate chinese sm1ms023_02_fd2deb56:
 
     # sy "Fiiiiiiiine."
-    sy "Fiiiiiiiine."
+    sy "真是...行吧。"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:187
 translate chinese sm1ms023_02_9d1cfaff:
 
     # sy "But I'm probably going to rub one out while I finish rendering the final."
-    sy "But I'm probably going to rub one out while I finish rendering the final."
+    sy "不过等会儿渲染最终成片的时候，我大概会自己解决一下需求。"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:190
 translate chinese sm1ms023_02_506e14f3:
 
     # mc "Hey, I ain't going to stop you."
-    mc "Hey, I ain't going to stop you."
+    mc "嘿，我又不会拦着你。"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:193
 translate chinese sm1ms023_02_acd8e3d0:
 
     # sy "Nothing on God's green earth could stop me from masturbating to this hot ass footage."
-    sy "Nothing on God's green earth could stop me from masturbating to this hot ass footage."
+    sy "在这绿油油的世界上，没有任何东西能阻止我对着这么要命的片段自慰。"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:197
 translate chinese sm1ms023_02_0b799436:
 
     # mct "God, Stacy is wild."
-    mct "God, Stacy is wild."
+    mct "我去，史黛西要玩真的了。"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:205
 translate chinese sm1ms023_02_037e6d31:
 
     # sy "Later, [mcname]!"
-    sy "Later, [mcname]!"
+    sy "回头见，[mcname]！"
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:210
 translate chinese sm1ms023_02_06e815d3:
 
     # mc "See you, Stacy."
-    mc "See you, Stacy."
+    mc "史黛西，再见。"
 
