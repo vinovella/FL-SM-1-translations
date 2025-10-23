@@ -78,3 +78,5 @@
 7. Always use the character's specialty and gender to guide translation choices, ensuring respectful and accurate representation.
 
 8. When translating to Chinese, use the provided Chinese translations for character names.
+
+9. If the speaker is text in quotes, then translate that as well.
