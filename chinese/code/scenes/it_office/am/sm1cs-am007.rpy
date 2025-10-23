@@ -2,421 +2,421 @@
 translate chinese sm1cs_am007_14c95358:
 
     # am "Hey, [mcname]."
-    am "Hey, [mcname]."
+    am "嘿，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:37
 translate chinese sm1cs_am007_8a7c3d13:
 
     # am "I've been meaning to talk to you."
-    am "I've been meaning to talk to you."
+    am "我一直想和你谈谈。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:40
 translate chinese sm1cs_am007_48d2216f:
 
     # "Buzz. Buzz."
-    "Buzz. Buzz."
+    "嗡嗡。嗡嗡。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:42
 translate chinese sm1cs_am007_f8576f9f:
 
     # am "Shit, I gotta take this."
-    am "Shit, I gotta take this."
+    am "该死，我得接这个电话。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:50
 translate chinese sm1cs_am007_271f3c49:
 
     # mct "Shit.{w} I remember Anna asking me about this earlier."
-    mct "Shit.{w} I remember Anna asking me about this earlier."
+    mct "该死。{w} 我记得安娜之前问过我这个问题。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:51
 translate chinese sm1cs_am007_00ee16a5:
 
     # mct "She wanted to know if April was taking up company time with personal calls..."
-    mct "She wanted to know if April was taking up company time with personal calls..."
+    mct "她想知道艾普尔是否在用公司时间打私人电话..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:54
 translate chinese sm1cs_am007_fd4787bd:
 
     # mct "I hope Anna or Claire don't realize what April is doing."
-    mct "I hope Anna or Claire don't realize what April is doing."
+    mct "我希望安娜或克莱尔不会意识到艾普尔在做什么。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:66
 translate chinese sm1cs_am007_90116dfb:
 
     # mct "I wonder what is keeping April?"
-    mct "I wonder what is keeping April?"
+    mct "我想知道艾普尔在忙什么？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:69
 translate chinese sm1cs_am007_f0cf8e85:
 
     # mct "I didn't see her leave the office.{w} She must still be in here somewhere."
-    mct "I didn't see her leave the office.{w} She must still be in here somewhere."
+    mct "我没看到她离开办公室。{w} 她一定还在这里的某个地方。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:74
 translate chinese sm1cs_am007_cdd62daf:
 
     # am "Pepper... I {b}really{/b} don't have time for this."
-    am "Pepper... I {b}really{/b} don't have time for this."
+    am "佩珀... 我{b}真的{/b}没时间处理这个。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:75
 translate chinese sm1cs_am007_5c6b21a4:
 
     # am "I never said I could make it."
-    am "I never said I could make it."
+    am "我从来没说过我能去。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:79
 translate chinese sm1cs_am007_8d7f9f3c:
 
     # am "You know how busy I am with work."
-    am "You know how busy I am with work."
+    am "你知道我工作有多忙。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:82
 translate chinese sm1cs_am007_b2c9bcdd:
 
     # ps "Listen, we get it, April."
-    ps "Listen, we get it, April."
+    ps "听着，我们理解的，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:83
 translate chinese sm1cs_am007_b989cb6b:
 
     # ps "But if we're ever going to make it big, we all have to make {b}sacrifices{/b}."
-    ps "But if we're ever going to make it big, we all have to make {b}sacrifices{/b}."
+    ps "但如果我们想要成功，我们都必须做出{b}牺牲{/b}。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:86
 translate chinese sm1cs_am007_6808cbe5:
 
     # am "Oh, we all have to make sacrifices, Pepper?"
-    am "Oh, we all have to make sacrifices, Pepper?"
+    am "哦，我们都必须做出牺牲吗，佩珀？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:90
 translate chinese sm1cs_am007_d7bcac59:
 
     # mct "April is talking to Pepper."
-    mct "April is talking to Pepper."
+    mct "艾普尔在和佩珀说话。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:91
 translate chinese sm1cs_am007_d900e5c6:
 
     # mct "The drummer from her band."
-    mct "The drummer from her band."
+    mct "她乐队的鼓手。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:94
 translate chinese sm1cs_am007_d855fa3d:
 
     # am "What do you two sacrifice?"
-    am "What do you two sacrifice?"
+    am "你们两个牺牲了什么？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:98
 translate chinese sm1cs_am007_a3c2a208:
 
     # am "I have a job I {i}have{/i} to do to make enough money to pay rent and bills."
-    am "I have a job I {i}have{/i} to do to make enough money to pay rent and bills."
+    am "我{i}必须{/i}工作才能赚够钱支付房租和账单。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:99
 translate chinese sm1cs_am007_9cf69707:
 
     # am "Pepper... your parents still pay your rent."
-    am "Pepper... your parents still pay your rent."
+    am "佩珀... 你父母还在给你付房租。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:102
 translate chinese sm1cs_am007_92a4906b:
 
     # am "And Mitch has been squatting with the Hastings for years."
-    am "And Mitch has been squatting with the Hastings for years."
+    am "而米奇已经在黑斯廷斯家白住了好几年。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:104
 translate chinese sm1cs_am007_b24e58ca:
 
     # mcon "And I'm very grateful to them."
-    mcon "And I'm very grateful to them."
+    mcon "我很感激他们。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:106
 translate chinese sm1cs_am007_316d14e1:
 
     # mct "That's Mitch. The lead guitarist and singer."
-    mct "That's Mitch. The lead guitarist and singer."
+    mct "那是米奇。主音吉他手兼歌手。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:107
 translate chinese sm1cs_am007_70ed3aa1:
 
     # mct "Better watch how you talk to my girl, Mitch."
-    mct "Better watch how you talk to my girl, Mitch."
+    mct "最好注意你和我女朋友说话的方式，米奇。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:111
 translate chinese sm1cs_am007_79bc2e75:
 
     # am "My point is...{w} You two have nothing to do but the band."
-    am "My point is...{w} You two have nothing to do but the band."
+    am "我的意思是...{w} 你们两个除了乐队什么都不用做。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:113
 translate chinese sm1cs_am007_5f136771:
 
     # ps "Okay, {i}maybe{/i} you have a point..."
-    ps "Okay, {i}maybe{/i} you have a point..."
+    ps "好吧，{i}也许{/i}你说得有道理..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:117
 translate chinese sm1cs_am007_4ad97173:
 
     # am "Thank you."
-    am "Thank you."
+    am "谢谢。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:119
 translate chinese sm1cs_am007_a7ecaad8:
 
     # mcon "Hopefully this means you can at {i}least{/i} do the other thing for us, April."
-    mcon "Hopefully this means you can at {i}least{/i} do the other thing for us, April."
+    mcon "希望这意味着你{i}至少{/i}能为我们做另一件事，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:122
 translate chinese sm1cs_am007_9436eb46:
 
     # am "No. I already told you 'no'."
-    am "No. I already told you 'no'."
+    am "不。我已经告诉过你'不行'了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:123
 translate chinese sm1cs_am007_9267df77:
 
     # am "I am not spamming Orbix's client list with an email promoting the band and our next three shows!"
-    am "I am not spamming Orbix's client list with an email promoting the band and our next three shows!"
+    am "我不会用推广乐队和我们接下来三场演出的邮件来骚扰Orbix的客户名单！"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:125
 translate chinese sm1cs_am007_7e6b524f:
 
     # ps "Please, April..."
-    ps "Please, April..."
+    ps "拜托了，艾普尔..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:126
 translate chinese sm1cs_am007_9b44f820:
 
     # am "Do you hear yourself, Pepper?"
-    am "Do you hear yourself, Pepper?"
+    am "你听听你自己在说什么，佩珀？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:128
 translate chinese sm1cs_am007_725210ba:
 
     # mcon "They won't care about one little email."
-    mcon "They won't care about one little email."
+    mcon "他们不会在意一封小小的邮件的。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:131
 translate chinese sm1cs_am007_3f7f1e59:
 
     # am "*sighs* Mitch, you haven't had a real job in years."
-    am "*sighs* Mitch, you haven't had a real job in years."
+    am "*叹气* 米奇，你好几年没有正经工作了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:132
 translate chinese sm1cs_am007_27c91aa1:
 
     # am "You don't have a pot to piss in."
-    am "You don't have a pot to piss in."
+    am "你穷得叮当响。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:134
 translate chinese sm1cs_am007_6ac5c548:
 
     # mcon "So you're really going to put working for those squares above the good of the band?"
-    mcon "So you're really going to put working for those squares above the good of the band?"
+    mcon "所以你真的要把为那些古板的人工作放在乐队的利益之上吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:135
 translate chinese sm1cs_am007_da66fea5:
 
     # mcon "You'd rather work for the {b}Man{/b} than help us succeed?"
-    mcon "You'd rather work for the {b}Man{/b} than help us succeed?"
+    mcon "你宁愿为{b}大人物{/b}工作也不愿帮助我们成功？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:137
 translate chinese sm1cs_am007_c88ce8ed:
 
     # ps "Mitch..."
-    ps "Mitch..."
+    ps "米奇..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:138
 translate chinese sm1cs_am007_f27d03ab:
 
     # mcon "No, I want to {b}hear{/b} her say it."
-    mcon "No, I want to {b}hear{/b} her say it."
+    mcon "不，我想{b}听{/b}她亲口说出来。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:142
 translate chinese sm1cs_am007_8208d46a:
 
     # am "*breathing deeply*"
-    am "*breathing deeply*"
+    am "*深呼吸*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:143
 translate chinese sm1cs_am007_5f17c58e:
 
     # am "You guys..."
-    am "You guys..."
+    am "你们..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:144
 translate chinese sm1cs_am007_7fd1f85f:
 
     # am "I love you.{w} And you know I love Moonstone Blaze."
-    am "I love you.{w} And you know I love Moonstone Blaze."
+    am "我爱你们。{w} 而且你们知道我爱月光石烈焰乐队。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:145
 translate chinese sm1cs_am007_130f647d:
 
     # am "But I'm not going to do something stupid that might threaten my job here."
-    am "But I'm not going to do something stupid that might threaten my job here."
+    am "但我不会做可能威胁到我这份工作的蠢事。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:146
 translate chinese sm1cs_am007_89adff3f:
 
     # am "And you're calling at the worst possible time."
-    am "And you're calling at the worst possible time."
+    am "而且你们偏偏在最糟糕的时候打电话来。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:150
 translate chinese sm1cs_am007_de04f5cf:
 
     # am "Some asshole put a virus into our systems and it's slowing down progress on our big project."
-    am "Some asshole put a virus into our systems and it's slowing down progress on our big project."
+    am "某个混蛋在我们的系统里植入了病毒，拖慢了我们大项目的进度。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:151
 translate chinese sm1cs_am007_651e99db:
 
     # am "Everyone is worried the client might dump us."
-    am "Everyone is worried the client might dump us."
+    am "大家都担心客户可能会甩了我们。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:152
 translate chinese sm1cs_am007_3e057a08:
 
     # am "And that could screw a lot of people here."
-    am "And that could screw a lot of people here."
+    am "这会让这里很多人倒霉。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:154
 translate chinese sm1cs_am007_3cfb854b:
 
     # am "We have still barely recovered from repairing the damage of that virus I told you guys about."
-    am "We have still barely recovered from repairing the damage of that virus I told you guys about."
+    am "我们还没完全从我告诉过你们的那个病毒造成的损害中恢复过来。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:156
 translate chinese sm1cs_am007_9407ca71:
 
     # mcon "What virus?"
-    mcon "What virus?"
+    mcon "什么病毒？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:158
 translate chinese sm1cs_am007_c1268932:
 
     # ps "Uh... I mean come on.{w} You're a pro.{w} Virus smirus."
-    ps "Uh... I mean come on.{w} You're a pro.{w} Virus smirus."
+    ps "呃... 我是说拜托。{w} 你是专业的。{w} 病毒什么的小事一桩。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:160
 translate chinese sm1cs_am007_e8cf1261:
 
     # am "I have a mountain of work to do around here."
-    am "I have a mountain of work to do around here."
+    am "我这里有堆积如山的工作要做。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:163
 translate chinese sm1cs_am007_a41c7fa1:
 
     # am "*sighs* And I can't keep spending so much time on the phone."
-    am "*sighs* And I can't keep spending so much time on the phone."
+    am "*叹气* 而且我不能再在电话上花这么多时间了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:164
 translate chinese sm1cs_am007_57d6e0c6:
 
     # am "Anna prefers to avoid me, but eventually she's going to check in on my work."
-    am "Anna prefers to avoid me, but eventually she's going to check in on my work."
+    am "安娜喜欢避开我，但她最终还是会来检查我的工作。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:165
 translate chinese sm1cs_am007_5eb88c9e:
 
     # am "And Claire keeps giving me looks."
-    am "And Claire keeps giving me looks."
+    am "而且克莱尔一直在看我。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:167
 translate chinese sm1cs_am007_03224fcb:
 
     # ps "What kind of looks?"
-    ps "What kind of looks?"
+    ps "什么样的眼神？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:171
 translate chinese sm1cs_am007_b2fc98e7:
 
     # am "The kind of looks my mom gave me every time I talked about Bill Gates and not Connie Dolls."
-    am "The kind of looks my mom gave me every time I talked about Bill Gates and not Connie Dolls."
+    am "就是我妈每次听我谈论比尔·盖茨而不是康妮娃娃时给我的那种眼神。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:173
 translate chinese sm1cs_am007_5397b61f:
 
     # ps "Oh shit.{w} I saw one of those once."
-    ps "Oh shit.{w} I saw one of those once."
+    ps "哦天哪。{w} 我见过一次那种眼神。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:175
 translate chinese sm1cs_am007_1d37f7a3:
 
     # mcon "We're getting off topic.{w} Can you at least say that you're going to be around for practice tomorrow?"
-    mcon "We're getting off topic.{w} Can you at least say that you're going to be around for practice tomorrow?"
+    mcon "我们跑题了。{w} 你至少能说你明天会来排练吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:179
 translate chinese sm1cs_am007_70bce338:
 
     # am "I gotta go."
-    am "I gotta go."
+    am "我得挂了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:180
 translate chinese sm1cs_am007_74bf8ae9:
 
     # am "The noobie needs something."
-    am "The noobie needs something."
+    am "新人需要我。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:182
 translate chinese sm1cs_am007_b042200c:
 
     # ps "Oh the stud?{w} Has he asked to strum your guitar yet?"
-    ps "Oh the stud?{w} Has he asked to strum your guitar yet?"
+    ps "哦，那个帅哥？{w} 他有没有请求弹你的吉他？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:185
 translate chinese sm1cs_am007_a53b24bd:
 
     # am "Pepper!"
-    am "Pepper!"
+    am "佩珀！"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:188
 translate chinese sm1cs_am007_858a4072:
 
     # ps "You know...{w} Has he pounded your kick drum?"
-    ps "You know...{w} Has he pounded your kick drum?"
+    ps "你知道的...{w} 他有没有敲你的大鼓？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:191
 translate chinese sm1cs_am007_d3e15a0c:
 
     # am "Oh my god.{w} I'm hanging up now!"
-    am "Oh my god.{w} I'm hanging up now!"
+    am "天哪。{w} 我要挂电话了！"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:195
 translate chinese sm1cs_am007_f64dc4d0:
 
     # "Beep"
-    "Beep"
+    "哔"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:197
 translate chinese sm1cs_am007_1aa2db4a:
 
     # mc "There you are."
-    mc "There you are."
+    mc "你在这儿啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:200
 translate chinese sm1cs_am007_3dd2531c:
 
     # am "Can I help you with something, [mcname]?"
-    am "Can I help you with something, [mcname]?"
+    am "有什么需要帮忙的吗，[mcname]？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:203
 translate chinese sm1cs_am007_19b9d452:
 
     # mc "I was going to ask you the same thing."
-    mc "I was going to ask you the same thing."
+    mc "我也正想问你同样的问题。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:204
 translate chinese sm1cs_am007_f1b2b6ac:
 
     # mc "And it doesn't seem like that phone call helped."
-    mc "And it doesn't seem like that phone call helped."
+    mc "而且那通电话似乎没什么帮助。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:207
 translate chinese sm1cs_am007_480c8bbb:
 
     # am "Congratulations. Your eyes and ears work."
-    am "Congratulations. Your eyes and ears work."
+    am "恭喜你。你的眼睛和耳朵都好使。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:208
 translate chinese sm1cs_am007_2b35b6fe:
@@ -428,67 +428,67 @@ translate chinese sm1cs_am007_2b35b6fe:
 translate chinese sm1cs_am007_03cc98de:
 
     # am "[mcname], I..."
-    am "[mcname], I..."
+    am "[mcname]，我..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:211
 translate chinese sm1cs_am007_6ae6f77c:
 
     # am "Just because we are dating, doesn't mean you have to come running to my aid anytime it looks like I'm in trouble."
-    am "Just because we are dating, doesn't mean you have to come running to my aid anytime it looks like I'm in trouble."
+    am "只是因为我们在约会，并不意味着每次我看起来有麻烦时你都要跑来帮我。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:218
 translate chinese sm1cs_am007_754afbcb:
 
     # am "I don't have to tell you what a headache the virus has been."
-    am "I don't have to tell you what a headache the virus has been."
+    am "我不用告诉你这个病毒有多让人头疼。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:219
 translate chinese sm1cs_am007_3d9d1707:
 
     # am "Every time Sienna and I are close to annihilating the damn thing, it mutates and we have to start over."
-    am "Every time Sienna and I are close to annihilating the damn thing, it mutates and we have to start over."
+    am "每次我和西耶娜快要消灭这该死的东西时，它就会变异，我们又得从头开始。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:225
 translate chinese sm1cs_am007_122c537b:
 
     # mc "I am sure that you will figure it out, April."
-    mc "I am sure that you will figure it out, April."
+    mc "我相信你会解决的，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:227
 translate chinese sm1cs_am007_468798a3:
 
     # am "I will.{w} Or I'll be fired."
-    am "I will.{w} Or I'll be fired."
+    am "我会的。{w} 不然我就会被解雇。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:232
 translate chinese sm1cs_am007_a4765750:
 
     # mc "It's kind of strange that it has taken so long."
-    mc "It's kind of strange that it has taken so long."
+    mc "花了这么长时间有点奇怪。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:235
 translate chinese sm1cs_am007_e307d2e8:
 
     # am "Yeah well, we can thank the absolute dick who designed it."
-    am "Yeah well, we can thank the absolute dick who designed it."
+    am "是啊，我们要感谢设计这玩意儿的那个大混蛋。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:236
 translate chinese sm1cs_am007_add6eaef:
 
     # am "The silver lining is that if the hacker attacked the client's website, it would be a different story."
-    am "The silver lining is that if the hacker attacked the client's website, it would be a different story."
+    am "好消息是如果黑客攻击的是客户的网站，那就是另一回事了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:237
 translate chinese sm1cs_am007_9cb00d63:
 
     # am "We have a chance to fight back."
-    am "We have a chance to fight back."
+    am "我们还有机会反击。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:241
 translate chinese sm1cs_am007_fa642a5a:
 
     # mc "That's the spirit, April."
-    mc "That's the spirit, April."
+    mc "这才对嘛，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:243
 translate chinese sm1cs_am007_1c8acf17:
@@ -500,115 +500,115 @@ translate chinese sm1cs_am007_1c8acf17:
 translate chinese sm1cs_am007_6002cba4:
 
     # mc "Hey, at least you figured out how to get that virus off the Orbix systems."
-    mc "Hey, at least you figured out how to get that virus off the Orbix systems."
+    mc "嘿，至少你搞清楚了如何把那个病毒从Orbix系统里清除。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:251
 translate chinese sm1cs_am007_498d67f1:
 
     # am "Well... that was a team effort."
-    am "Well... that was a team effort."
+    am "嗯... 那是团队的努力。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:252
 translate chinese sm1cs_am007_133e4585:
 
     # am "Even {i}you{/i} were able to help out, [mcname]."
-    am "Even {i}you{/i} were able to help out, [mcname]."
+    am "连{i}你{/i}都能帮上忙，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:255
 translate chinese sm1cs_am007_e3106390:
 
     # mc "Haha. Was that a rare compliment from you, Mercer?"
-    mc "Haha. Was that a rare compliment from you, Mercer?"
+    mc "哈哈。这是你难得的称赞吗，梅瑟？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:258
 translate chinese sm1cs_am007_db1dcc8d:
 
     # am "*playful* Shut up."
-    am "*playful* Shut up."
+    am "*俏皮地* 闭嘴。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:263
 translate chinese sm1cs_am007_42cc3d05:
 
     # am "So... I appreciate you checking in."
-    am "So... I appreciate you checking in."
+    am "所以... 我很感激你来关心我。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:264
 translate chinese sm1cs_am007_e108767c:
 
     # am "But I can manage just fine."
-    am "But I can manage just fine."
+    am "但我能应付得来。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:268
 translate chinese sm1cs_am007_5aa180da:
 
     # "Beep beep beep"
-    "Beep beep beep"
+    "哔哔哔"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:270
 translate chinese sm1cs_am007_70b09371:
 
     # am "Oh shit."
-    am "Oh shit."
+    am "哦该死。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:271
 translate chinese sm1cs_am007_332080c4:
 
     # am "Really?!{w} Today of all days?"
-    am "Really?!{w} Today of all days?"
+    am "真的吗？！{w} 偏偏是今天？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:275
 translate chinese sm1cs_am007_1c0ab73c:
 
     # am "I gotta...{w} go."
-    am "I gotta...{w} go."
+    am "我得...{w} 走了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:279
 translate chinese sm1cs_am007_1f7bd010:
 
     # mct "And there she goes again."
-    mct "And there she goes again."
+    mct "她又走了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:282
 translate chinese sm1cs_am007_26996107:
 
     # am "Hey, how good are you at jogging?"
-    am "Hey, how good are you at jogging?"
+    am "嘿，你慢跑怎么样？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:284
 translate chinese sm1cs_am007_8114a09f:
 
     # mc "Uh..."
-    mc "Uh..."
+    mc "呃..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:290
 translate chinese sm1cs_am007_c36f6987:
 
     # mc "I know the general premise."
-    mc "I know the general premise."
+    mc "我知道大概的概念。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:291
 translate chinese sm1cs_am007_d755ba11:
 
     # mc "People do it when they don't have a car."
-    mc "People do it when they don't have a car."
+    mc "人们在没车的时候会这么做。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:295
 translate chinese sm1cs_am007_49b06188:
 
     # mc "Pretty good."
-    mc "Pretty good."
+    mc "相当不错。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:299
 translate chinese sm1cs_am007_6db3821a:
 
     # mc "These puppies are my main vehicle all day. Seven days a week."
-    mc "These puppies are my main vehicle all day. Seven days a week."
+    mc "这双腿是我每天的主要交通工具。一周七天。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:303
 translate chinese sm1cs_am007_22907d01:
 
     # am "My marathon alarm just went off."
-    am "My marathon alarm just went off."
+    am "我的马拉松闹钟刚响了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:304
 translate chinese sm1cs_am007_3d30aaaa:
