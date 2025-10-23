@@ -404,7 +404,7 @@ translate chinese sm1cs_mes004_after_dance_750c4e59:
 translate chinese sm1cs_mes004_after_dance_a1fdf428:
 
     # mes "Let's see. Mine was with my neighbor at the park."
-    mes "让我想想。我的初吻是在公园和我的邻居。"
+    mes "让我想想。我的初吻是在公园里和我的邻居。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:295
 translate chinese sm1cs_mes004_after_dance_178dbc2d:
