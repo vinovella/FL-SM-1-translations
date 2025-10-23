@@ -1568,7 +1568,7 @@ translate chinese sm1cs_mes006_continue_ec50e082:
 translate chinese sm1cs_mes006_continue_a6a41626:
 
     # mc "Not really, but if you like, you can call me 'daddy'."
-    mc "不完全是，但如果你愿意，你可以叫我"爸爸"。"
+    mc "不完全是，但如果你愿意，你可以叫我\"爸爸\"。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:821
 translate chinese sm1cs_mes006_continue_aa6c8ba0:

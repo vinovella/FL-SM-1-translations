@@ -548,7 +548,7 @@ translate chinese sm1cs_mes004_after_dance_c770a76d:
 translate chinese sm1cs_mes004_after_dance_8be5a403:
 
     # mes "The occasional calls, the little \"check ins\" from my family are driving me nuts."
-    mes "偶尔的电话，家人的小"关心"让我发疯。"
+    mes "偶尔的电话，家人的小\"关心\"让我发疯。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:362
 translate chinese sm1cs_mes004_after_dance_bacaccb8:
