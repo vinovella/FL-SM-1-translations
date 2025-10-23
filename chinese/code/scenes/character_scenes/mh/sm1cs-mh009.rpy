@@ -2,127 +2,127 @@
 translate chinese sm1cs_mh009_1ba71b8e:
 
     # mct "I wonder how long it'll take for Lyssa to get over here..."
-    mct "I wonder how long it'll take for Lyssa to get over here..."
+    mct "不知道丽莎要多久才能到这里..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:62
 translate chinese sm1cs_mh009_c816523f:
 
     # mc "Where are you off to?"
-    mc "Where are you off to?"
+    mc "你要去哪儿？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:66
 translate chinese sm1cs_mh009_507bb37f:
 
     # sy "I have some errands I have to run this morning."
-    sy "I have some errands I have to run this morning."
+    sy "今天早上我有些事要办。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:67
 translate chinese sm1cs_mh009_b9ec1870:
 
     # sy "What are you doing today?"
-    sy "What are you doing today?"
+    sy "你今天要做什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:69
 translate chinese sm1cs_mh009_ca37196f:
 
     # mc "Lyssa is actually going to stop by and check out the new studio."
-    mc "Lyssa is actually going to stop by and check out the new studio."
+    mc "丽莎要过来看看新工作室。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:70
 translate chinese sm1cs_mh009_ff3a54a4:
 
     # sy "Oooooooo! That'll be fun!"
-    sy "Oooooooo! That'll be fun!"
+    sy "噢噢噢噢噢噢！那一定很有趣！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:73
 translate chinese sm1cs_mh009_60c2ddc5:
 
     # sy "And of course, I'm not going to be here."
-    sy "And of course, I'm not going to be here."
+    sy "当然，我不会在这里。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:75
 translate chinese sm1cs_mh009_19c1f0a2:
 
     # mc "I didn't do it on purpose!"
-    mc "I didn't do it on purpose!"
+    mc "我不是故意的！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:79
 translate chinese sm1cs_mh009_c15f3a90:
 
     # sy "Uh huuuuuuuuh."
-    sy "Uh huuuuuuuuh."
+    sy "嗯哼哼哼哼。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:80
 translate chinese sm1cs_mh009_67a074be:
 
     # sy "I know, and I really have to go run this errand..."
-    sy "I know, and I really have to go run this errand..."
+    sy "我知道，我真的得去办这些事了..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:84
 translate chinese sm1cs_mh009_4723b184:
 
     # sy "Well, tell Lyssa I said hi!"
-    sy "Well, tell Lyssa I said hi!"
+    sy "好吧，替我向丽莎问好！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:86
 translate chinese sm1cs_mh009_d82eab87:
 
     # sy "And tell her I had an incredible time at the carnival the other night."
-    sy "And tell her I had an incredible time at the carnival the other night."
+    sy "还要告诉她，那天晚上的嘉年华我玩得很开心。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:89
 translate chinese sm1cs_mh009_412bb0e3:
 
     # mc "I will!"
-    mc "I will!"
+    mc "我会的！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:91
 translate chinese sm1cs_mh009_470fc5ef:
 
     # sy "See you, [mcname]!"
-    sy "See you, [mcname]!"
+    sy "再见，[mcname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:95
 translate chinese sm1cs_mh009_3e2c099f:
 
     # mct "Hmmm.{w} Should I clean the studio?"
-    mct "Hmmm.{w} Should I clean the studio?"
+    mct "嗯。{w}我应该打扫工作室吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:98
 translate chinese sm1cs_mh009_cf40dcb5:
 
     # mct "Is it even messy?"
-    mct "Is it even messy?"
+    mct "它乱吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:99
 translate chinese sm1cs_mh009_73009b50:
 
     # mct "Man, when was the last time I even thought about having to clean the studio..."
-    mct "Man, when was the last time I even thought about having to clean the studio..."
+    mct "天啊，我上次想到要打扫工作室是什么时候..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:104
 translate chinese sm1cs_mh009_7dbd14c3:
 
     # mh "Your door is open, [mcname]."
-    mh "Your door is open, [mcname]."
+    mh "你的门开着，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:108
 translate chinese sm1cs_mh009_c7d060b0:
 
     # mc "Oh, well come on in! Because-"
-    mc "Oh, well come on in! Because-"
+    mc "哦，那就进来吧！因为--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:111
 translate chinese sm1cs_mh009_a316a748:
 
     # mh "[mcname], if you make one more vampire joke, I am going to walk right back out your door!"
-    mh "[mcname], if you make one more vampire joke, I am going to walk right back out your door!"
+    mh "[mcname]，如果你再讲一个吸血鬼笑话，我就要转身离开！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:113
 translate chinese sm1cs_mh009_9ca18dac:
 
     # mc "I, uhm, wasn't going to make another vampire joke..."
-    mc "I, uhm, wasn't going to make another vampire joke..."
+    mc "我，呃，不打算再讲吸血鬼笑话了..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:114
 translate chinese sm1cs_mh009_c651eae7:
@@ -134,217 +134,217 @@ translate chinese sm1cs_mh009_c651eae7:
 translate chinese sm1cs_mh009_133c0517:
 
     # mc "All right, guilty as charged."
-    mc "All right, guilty as charged."
+    mc "好吧，认罪。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:119
 translate chinese sm1cs_mh009_41a7e470:
 
     # mh "Wow, a court joke. Even {i}more{/i} original."
-    mh "Wow, a court joke. Even {i}more{/i} original."
+    mh "哇，法庭笑话。{i}更{/i}有创意了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:120
 translate chinese sm1cs_mh009_b57aae57:
 
     # mc "Hey, I'm having a rough day. Not every joke I make can be gold!"
-    mc "Hey, I'm having a rough day. Not every joke I make can be gold!"
+    mc "嘿，我今天过得很糟糕。我说的笑话不可能每个都是金玉良言！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:123
 translate chinese sm1cs_mh009_ab8ea5e2:
 
     # mh "Wow, you guys really upgraded your space."
-    mh "Wow, you guys really upgraded your space."
+    mh "哇，你们真的升级了你们的空间。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:126
 translate chinese sm1cs_mh009_42e0c6db:
 
     # mc "Yeah! Sorry, I got distracted by jokes. Let me give you the nickel tour!"
-    mc "Yeah! Sorry, I got distracted by jokes. Let me give you the nickel tour!"
+    mc "是的！抱歉，我被笑话分心了。让我带你简单参观一下！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:133
 translate chinese sm1cs_mh009_ed4845f7:
 
     # mc "Here's the kitchen."
-    mc "Here's the kitchen."
+    mc "这是厨房。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:136
 translate chinese sm1cs_mh009_f2b0a71d:
 
     # mh "Not much different here."
-    mh "Not much different here."
+    mh "这里没什么不同。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:138
 translate chinese sm1cs_mh009_814eb658:
 
     # mc "Yeah, we both thought we had a decent kitchen. Why fix what isn't broke?"
-    mc "Yeah, we both thought we had a decent kitchen. Why fix what isn't broke?"
+    mc "是的，我们都觉得厨房不错。何必修理没坏的东西呢？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:145
 translate chinese sm1cs_mh009_b9ae7ac7:
 
     # mc "But we got a new TV to watch the edits in fullscreen!"
-    mc "But we got a new TV to watch the edits in fullscreen!"
+    mc "但我们买了一台新电视来全屏观看编辑！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:147
 translate chinese sm1cs_mh009_32c6c192:
 
     # mh "And the fact that it's a tax write-off had nothing to do with buying it?"
-    mh "And the fact that it's a tax write-off had nothing to do with buying it?"
+    mh "它可以抵税这件事跟购买它没有任何关系？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:150
 translate chinese sm1cs_mh009_b549cbdf:
 
     # mc "Uhm... nope. Nope, nope, nope!"
-    mc "Uhm... nope. Nope, nope, nope!"
+    mc "呃...没有。没有，没有，没有！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:157
 translate chinese sm1cs_mh009_e5394d17:
 
     # mc "Here is where we do some of our test shoots, sometimes when we need a small set, we can build it here-"
-    mc "Here is where we do some of our test shoots, sometimes when we need a small set, we can build it here-"
+    mc "这里是我们进行一些测试拍摄的地方，有时当我们需要一个小布景时，我们可以在这里搭建--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:159
 translate chinese sm1cs_mh009_00f6bdb9:
 
     # mh "You're building sets?"
-    mh "You're building sets?"
+    mh "你们在搭建布景？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:160
 translate chinese sm1cs_mh009_4801012c:
 
     # mc "Sometimes. Really just depends on the shoot."
-    mc "Sometimes. Really just depends on the shoot."
+    mc "有时候。真的只是取决于拍摄。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:163
 translate chinese sm1cs_mh009_9a7ce323:
 
     # mh "I didn't know you were so handy."
-    mh "I didn't know you were so handy."
+    mh "我不知道你这么心灵手巧。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:165
 translate chinese sm1cs_mh009_b90d6db5:
 
     # mc "Oh, I do my best.{w} But that's most everything down here."
-    mc "Oh, I do my best.{w} But that's most everything down here."
+    mc "哦，我尽力而为。{w}但楼下大概就这些了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:170
 translate chinese sm1cs_mh009_a41c3134:
 
     # mc "We've tried to reserve the downstairs for business as much as possible."
-    mc "We've tried to reserve the downstairs for business as much as possible."
+    mc "我们尽可能把楼下留作商务用途。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:172
 translate chinese sm1cs_mh009_5e3c3f48:
 
     # mh "I totally missed the stairs! You can finally get up there?"
-    mh "I totally missed the stairs! You can finally get up there?"
+    mh "我完全没注意到楼梯！你终于能上去了？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:173
 translate chinese sm1cs_mh009_d55ae269:
 
     # mc "Yep!"
-    mc "Yep!"
+    mc "是的！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:178
 translate chinese sm1cs_mh009_8e1f2385:
 
     # mc "We moved our bed upstairs, and you know... got some better sheets and stuff."
-    mc "We moved our bed upstairs, and you know... got some better sheets and stuff."
+    mc "我们把床搬到了楼上，你知道的...买了些更好的床单之类的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:180
 translate chinese sm1cs_mh009_88e4573a:
 
     # mh "I see that."
-    mh "I see that."
+    mh "我看到了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:185
 translate chinese sm1cs_mh009_ec068f35:
 
     # mh "And I see you've redecorated a little bit."
-    mh "And I see you've redecorated a little bit."
+    mh "我看到你们稍微重新装饰了一下。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:187
 translate chinese sm1cs_mh009_1b60516a:
 
     # mc "Yeah, we figured we needed to put something on the walls, and we figured we should do something on brand for a porn studio."
-    mc "Yeah, we figured we needed to put something on the walls, and we figured we should do something on brand for a porn studio."
+    mc "是的，我们觉得需要在墙上挂点东西，而且我们觉得应该做一些符合色情工作室品牌的东西。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:188
 translate chinese sm1cs_mh009_3b8ad517:
 
     # mh "They are definitely the right look for a porn studio, I'll give you that."
-    mh "They are definitely the right look for a porn studio, I'll give you that."
+    mh "它们确实很适合色情工作室的风格，我承认这点。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:193
 translate chinese sm1cs_mh009_0d7d47b3:
 
     # mc "And we have a little editing slash hang out area, and a few extra rooms!"
-    mc "And we have a little editing slash hang out area, and a few extra rooms!"
+    mc "我们还有一个小的编辑兼休息区，还有几个额外的房间！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:195
 translate chinese sm1cs_mh009_a67a6f2c:
 
     # mh "What are you using the extra rooms for?"
-    mh "What are you using the extra rooms for?"
+    mh "你们用那些额外的房间做什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:199
 translate chinese sm1cs_mh009_a62f83a8:
 
     # mc "I've actually rented some of them to some of our actresses. They needed a place to rent and I've got all this space. So I figured, why not?"
-    mc "I've actually rented some of them to some of our actresses. They needed a place to rent and I've got all this space. So I figured, why not?"
+    mc "我实际上把其中一些租给了我们的一些女演员。她们需要一个地方住，而我有这么多空间。所以我想，为什么不呢？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:201
 translate chinese sm1cs_mh009_10c29e96:
 
     # mc "I've been thinking about maybe renting them out... a few of the actresses we work with might need a place to stay, or rent, or whatever."
-    mc "I've been thinking about maybe renting them out... a few of the actresses we work with might need a place to stay, or rent, or whatever."
+    mc "我一直在考虑把它们租出去...我们合作的一些女演员可能需要一个地方住，或者租，或者什么的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:204
 translate chinese sm1cs_mh009_4e016f97:
 
     # mh "Well, being a landlord, and a lawyer, if you want someone to look over your rent agreement, I would be happy to do that."
-    mh "Well, being a landlord, and a lawyer, if you want someone to look over your rent agreement, I would be happy to do that."
+    mh "嗯，作为一个房东和一名律师，如果你想让人看看你的租赁协议，我很乐意帮忙。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:206
 translate chinese sm1cs_mh009_6d07863a:
 
     # mct "Huh... maybe I should make a rent contract..."
-    mct "Huh... maybe I should make a rent contract..."
+    mct "嗯...也许我应该制定一份租赁合同..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:209
 translate chinese sm1cs_mh009_26a0422a:
 
     # mc "Awesome, I'll keep that in mind, Lyssa."
-    mc "Awesome, I'll keep that in mind, Lyssa."
+    mc "太好了，我会记住的，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:212
 translate chinese sm1cs_mh009_abdabcaa:
 
     # mh "But, it's pretty smart to rent out your extra space, [mcname]."
-    mh "But, it's pretty smart to rent out your extra space, [mcname]."
+    mh "不过，把你的额外空间租出去很聪明，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:214
 translate chinese sm1cs_mh009_10dee4ef:
 
     # mc "You think so?"
-    mc "You think so?"
+    mc "你这么认为？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:216
 translate chinese sm1cs_mh009_b8cb455f:
 
     # mh "Yeah. Help offset starting up a business any way you can. Write-offs, breaks on rent - every small business needs every penny they can save."
-    mh "Yeah. Help offset starting up a business any way you can. Write-offs, breaks on rent - every small business needs every penny they can save."
+    mh "是的。尽一切可能帮助抵消创业成本。税收减免、租金减免——每个小企业都需要能省则省。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:219
 translate chinese sm1cs_mh009_1dc71ef0:
 
     # mc "Why, thank you, Lyssa."
-    mc "Why, thank you, Lyssa."
+    mc "嗯，谢谢你，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:220
 translate chinese sm1cs_mh009_0b1558b3:
 
     # mc "Would uh, you want a water, or coffee?"
-    mc "Would uh, you want a water, or coffee?"
+    mc "呃，你想要水还是咖啡？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:222
 translate chinese sm1cs_mh009_290063ca:
@@ -356,7 +356,7 @@ translate chinese sm1cs_mh009_290063ca:
 translate chinese sm1cs_mh009_583f83b6:
 
     # mc "Here you go, Lyssa."
-    mc "Here you go, Lyssa."
+    mc "给你，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:238
 translate chinese sm1cs_mh009_0236ebb2:
