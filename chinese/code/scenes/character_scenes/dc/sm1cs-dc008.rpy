@@ -134,7 +134,7 @@ translate chinese sm1cs_dc008_f3203e54:
 translate chinese sm1cs_dc008_4c590f8e:
 
     # dc "I..."
-    dc "I..."
+    dc "我..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:81
 translate chinese sm1cs_dc008_b4e8d2fe:
@@ -200,7 +200,7 @@ translate chinese sm1cs_dc008_06ea2fde:
 translate chinese sm1cs_dc008_4c590f8e_1:
 
     # dc "I..."
-    dc "I..."
+    dc "我..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:115
 translate chinese sm1cs_dc008_86de3697:
@@ -212,7 +212,7 @@ translate chinese sm1cs_dc008_86de3697:
 translate chinese sm1cs_dc008_4c590f8e_2:
 
     # dc "I..."
-    dc "I..."
+    dc "我..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:120
 translate chinese sm1cs_dc008_1ed93cee:
@@ -266,7 +266,7 @@ translate chinese sm1cs_dc008_ddb7485f:
 translate chinese sm1cs_dc008_4290e358:
 
     # "Waiter" "Of course, sir."
-    "Waiter" "Of course, sir."
+    "服务员" "当然可以，先生。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:144
 translate chinese sm1cs_dc008_7c1ee514:
@@ -440,7 +440,7 @@ translate chinese sm1cs_dc008_9191e49c:
 translate chinese sm1cs_dc008_4290e358_1:
 
     # "Waiter" "Of course, sir."
-    "Waiter" "Of course, sir."
+    "服务员" "当然可以，先生。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:222
 translate chinese sm1cs_dc008_757c5cb4:
@@ -452,7 +452,7 @@ translate chinese sm1cs_dc008_757c5cb4:
 translate chinese sm1cs_dc008_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "怎么了？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:228
 translate chinese sm1cs_dc008_14ce548d:
