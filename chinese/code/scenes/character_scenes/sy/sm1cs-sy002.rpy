@@ -76,12 +76,6 @@ translate chinese sm1cs_sy002_c393ff42:
     # sy "Details, details. We'll figure it out, [mcname]."
     sy "细节问题都好解决，[mcname]。"
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:76
-translate chinese sm1cs_sy002_6936a4b2:
-
-    # mc "It sounds like you've been planning this idea out for awhile, Stacy."
-    mc "史黛西，你盘算这个创意很久了吧？"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:79
 translate chinese sm1cs_sy002_069819a2:
 
@@ -453,12 +447,6 @@ translate chinese sm1cs_sy002_2_699878f6:
 
     # mc "Hey!"
     mc "喂！"
-
-# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:266
-translate chinese sm1cs_sy002_2_2ccc42f5:
-
-    # sy "Nut nevermind that! Lets get into the acting!"
-    sy "别管那些了！快进入状态！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:268
 translate chinese sm1cs_sy002_2_d75d9db1:
@@ -1251,4 +1239,16 @@ translate chinese sm1cs_sy002_dc_talk_4558d886:
 
     # mc "{size=*0.7}She looks like the park cop.{/size}"
     mc "{size=*0.7}She looks like the park cop.{/size}"
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:77
+translate chinese sm1cs_sy002_77589fcc:
+
+    # mc "It sounds like you've been planning this idea out for a while, Stacy."
+    mc "It sounds like you've been planning this idea out for a while, Stacy."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:267
+translate chinese sm1cs_sy002_2_221a6943:
+
+    # sy "But never mind that! Let's get into the acting!"
+    sy "But never mind that! Let's get into the acting!"
 

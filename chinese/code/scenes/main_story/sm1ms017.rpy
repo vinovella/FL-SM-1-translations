@@ -400,12 +400,6 @@ translate chinese sm1ms017_5eb30774:
     # sy "That's... *sighing* That's what makes it feel so good."
     sy "正是...*喘气* 正因为如此，我感觉才会这么好。"
 
-# game/code/scenes/main_story/sm1ms017.rpy:378
-translate chinese sm1ms017_759eede0:
-
-    # mc "What will we do if Melony comes back."
-    mc "如果梅洛妮回来了，我们该怎么办？"
-
 # game/code/scenes/main_story/sm1ms017.rpy:380
 translate chinese sm1ms017_1188d007:
 
@@ -465,12 +459,6 @@ translate chinese sm1ms017_a2873c74:
 
     # sy "I can't... I'm going to cumm-fhuaaaa-huaaah."
     sy "不行了...我要--啊啊啊--喷--哈..."
-
-# game/code/scenes/main_story/sm1ms017.rpy:414
-translate chinese sm1ms017_54884cd5:
-
-    # mc "Well, if mom is in a two-block radius, she definitely heard you cumming."
-    mc "如果妈妈就在周边两三条街的范围内，那她肯定听到你的动静了。"
 
 # game/code/scenes/main_story/sm1ms017.rpy:416
 translate chinese sm1ms017_275d03a9:
@@ -555,12 +543,6 @@ translate chinese sm1ms017_fa33d1a3:
 
     # sy "I'm being squeezed in between a cock and a hard place-huaah."
     sy "我被挤在鸡巴和坚硬的地方之间--哈。"
-
-# game/code/scenes/main_story/sm1ms017.rpy:450
-translate chinese sm1ms017_6fdf8c60:
-
-    # mc "Chuckles."
-    mc "吃吃地笑"
 
 # game/code/scenes/main_story/sm1ms017.rpy:453
 translate chinese sm1ms017_ba3d397e:
@@ -681,4 +663,22 @@ translate chinese sm1ms017_end_298609cd:
 
     # my "Your focus is very impressive for some millennials."
     my "对于千禧一代来说，你们的专注让人印象深刻。"
+
+# game/code/scenes/main_story/sm1ms017.rpy:379
+translate chinese sm1ms017_317bedb5:
+
+    # mc "What will we do if Melony comes back?"
+    mc "What will we do if Melony comes back?"
+
+# game/code/scenes/main_story/sm1ms017.rpy:415
+translate chinese sm1ms017_869ad7f6:
+
+    # mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
+    mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
+
+# game/code/scenes/main_story/sm1ms017.rpy:451
+translate chinese sm1ms017_f46b669d_1:
+
+    # mc "*chuckles*"
+    mc "*chuckles*"
 

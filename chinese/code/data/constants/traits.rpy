@@ -125,8 +125,8 @@
     new "Facial Piercing"
 
     # game/code/data/constants/traits.rpy:82
-    old "Nipples Piercing"
-    new "Nipples Piercing"
+    old "Nipple Piercings"
+    new "Nipple Piercings"
 
     # game/code/data/constants/traits.rpy:82
     old "Genital Piercing"

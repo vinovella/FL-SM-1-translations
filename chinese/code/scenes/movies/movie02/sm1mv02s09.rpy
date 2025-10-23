@@ -1354,12 +1354,6 @@ translate chinese sm1mv02s09_watersports_d73a4817:
     # kv "Need... more..."
     kv "Need... more..."
 
-# game/code/scenes/movies/movie02/sm1mv02s09.rpy:1106
-translate chinese sm1mv02s09_watersports_beedada6:
-
-    # mhmes "It seems she's still under the affect of the lust."
-    mhmes "It seems she's still under the affect of the lust."
-
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1108
 translate chinese sm1mv02s09_watersports_b474b758:
 
@@ -1707,4 +1701,10 @@ translate chinese sm1mv02s09_end_ac4f60cc:
 
     # kv "Later, [mcname]."
     kv "Later, [mcname]."
+
+# game/code/scenes/movies/movie02/sm1mv02s09.rpy:1138
+translate chinese sm1mv02s09_watersports_0fb44886:
+
+    # mhmes "It seems she's still under the effect of the lust."
+    mhmes "It seems she's still under the effect of the lust."
 

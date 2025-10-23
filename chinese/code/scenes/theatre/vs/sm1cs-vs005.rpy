@@ -700,11 +700,11 @@ translate chinese sm1cs_vs005_64582890:
     # vs "Okay... *moans* I'll tell you."
     vs "Okay... *moans* I'll tell you."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:383
-translate chinese sm1cs_vs005_9a9e4a57:
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:384
+translate chinese sm1cs_vs005_70c5755c:
 
-    # vs "It's embarassing, but when the alarm went off...{w} I kind of panicked."
-    vs "It's embarassing, but when the alarm went off...{w} I kind of panicked."
+    # vs "It's embarrassing, but when the alarm went off...{w} I kind of panicked."
+    vs "It's embarrassing, but when the alarm went off...{w} I kind of panicked."
 
 # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:388
 translate chinese sm1cs_vs005_7faf17ba:

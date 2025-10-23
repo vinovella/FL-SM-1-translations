@@ -298,12 +298,6 @@ translate chinese sm1cs_km002_complement_km_5d2ced7c:
     # mc "Yeah. Maybe."
     mc "嗯。也许吧。"
 
-# game/code/scenes/theatre/km/sm1cs-km002.rpy:164
-translate chinese sm1cs_km002_complement_km_fd4ba94a:
-
-    # km "[mcname], are you still interested in learning to be a better actor."
-    km "[mcname]，你还想继续学习，成为一名更优秀的演员的话。"
-
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:167
 translate chinese sm1cs_km002_complement_km_7d5fb030:
 
@@ -467,4 +461,10 @@ translate chinese strings:
     # game/code/scenes/theatre/km/sm1cs-km002.rpy:183
     old "Neutral"
     new "中立态度"
+
+# game/code/scenes/theatre/km/sm1cs-km002.rpy:164
+translate chinese sm1cs_km002_complement_km_5e3be15b:
+
+    # km "[mcname], are you still interested in learning to be a better actor?"
+    km "[mcname], are you still interested in learning to be a better actor?"
 

@@ -214,12 +214,6 @@ translate chinese sm1ms008_77082a31:
     # kv "I like their taste already."
     kv "我已经喜欢上他们的口味了。"
 
-# game/code/scenes/main_story/sm1ms008.rpy:140
-translate chinese sm1ms008_dcea2b81:
-
-    # sy "Thre is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-    sy "还有最后一个要求。有点奇怪。他们希望女孩是红头发的。所以[mcname]选了这顶假发。"
-
 # game/code/scenes/main_story/sm1ms008.rpy:144
 translate chinese sm1ms008_fe56a94c:
 
@@ -375,12 +369,6 @@ translate chinese sm1ms008_special_e32b4852:
 
     # sy "So much wasted time."
     sy "浪费了太多时间。"
-
-# game/code/scenes/main_story/sm1ms008.rpy:221
-translate chinese sm1ms008_special_5f718ef7:
-
-    # mc "Well, we're together now. that's the important part."
-    mc "我们现在在一起了，这才是最重要的。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:224
 translate chinese sm1ms008_special_5ee8dc16:
@@ -640,12 +628,6 @@ translate chinese sm1ms008_special_489e301c:
     # mc "I just like you with your green hair."
     mc "只是我更喜欢你的绿头发。"
 
-# game/code/scenes/main_story/sm1ms008.rpy:380
-translate chinese sm1ms008_after_choice_c3e521fc:
-
-    # kv "Already Stacy, why don't you give me some poses."
-    kv "史黛西，给我摆几个姿势吧。"
-
 # game/code/scenes/main_story/sm1ms008.rpy:383
 translate chinese sm1ms008_after_choice_5ae8e99b:
 
@@ -699,12 +681,6 @@ translate chinese sm1ms008_after_choice_ffa6d3bc:
 
     # kv "I think the only thing left before we can start rehearsing and filming is getting our hands on the right camera."
     kv "我想，在开始排练和拍摄之前，我们唯一要做的就是找到合适的摄影机。"
-
-# game/code/scenes/main_story/sm1ms008.rpy:430
-translate chinese sm1ms008_after_choice_147423a9:
-
-    # mc "Wait, don't you have any camera we would ever need, Kanya?"
-    mc "等等，你没有我们需要的摄像机吗，肯娅？"
 
 # game/code/scenes/main_story/sm1ms008.rpy:433
 translate chinese sm1ms008_after_choice_c97b9391:
@@ -766,12 +742,6 @@ translate chinese sm1ms008_after_choice_2cf940ef:
     # kv "You two need to think of this as an investment in the studio's future."
     kv "你们俩要把这当成对工作室未来的投资。"
 
-# game/code/scenes/main_story/sm1ms008.rpy:455
-translate chinese sm1ms008_after_choice_c425bbc9:
-
-    # sy "I'm thinking about the extra work you'll have to do to get this super camera."
-    sy "我在想，为了得到这台超级摄像机，你们得付出额外的努力。"
-
 # game/code/scenes/main_story/sm1ms008.rpy:458
 translate chinese sm1ms008_after_choice_3724bdef:
 
@@ -814,12 +784,6 @@ translate chinese sm1ms008_after_choice_25849749:
     # kv "If you can't do something right, don't do it at all."
     kv "如果你做不好一件事，那就别做。"
 
-# game/code/scenes/main_story/sm1ms008.rpy:482
-translate chinese sm1ms008_after_choice_2bb3b2af:
-
-    # sy "Haha. Good thing that's not, [mcname]'s motto."
-    sy "哈哈。幸好这不是[mcname]的座右铭。"
-
 # game/code/scenes/main_story/sm1ms008.rpy:485
 translate chinese sm1ms008_after_choice_669664cb:
 
@@ -849,12 +813,6 @@ translate chinese sm1ms008_after_choice_a69f28cf:
 
     # sy "Once we have it, we'll give you a call to set up a time for filming."
     sy "一旦我们找到了，就会给你打电话，安排拍摄时间。"
-
-# game/code/scenes/main_story/sm1ms008.rpy:498
-translate chinese sm1ms008_after_choice_e40ff599:
-
-    # kv "Got it, let me give you my number. In case you need to call me."
-    kv "知道了，我把电话号码给你。以防你需要给我打电话。"
 
 # game/code/scenes/main_story/sm1ms008.rpy:502
 translate chinese sm1ms008_after_choice_531bfbf1:
@@ -927,4 +885,56 @@ translate chinese strings:
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I'm glad it's temporary"
     new "我很高兴这只是暂时的"
+
+# game/code/scenes/main_story/sm1ms008.rpy:140
+translate chinese sm1ms008_4b4bda9d:
+
+    # sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+    sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+
+# game/code/scenes/main_story/sm1ms008.rpy:221
+translate chinese sm1ms008_special_971cdae2:
+
+    # mc "Well, we're together now. That's the important part."
+    mc "Well, we're together now. That's the important part."
+
+# game/code/scenes/main_story/sm1ms008.rpy:380
+translate chinese sm1ms008_after_choice_c7b2de42:
+
+    # kv "Alright Stacy, why don't you give me some poses."
+    kv "Alright Stacy, why don't you give me some poses."
+
+# game/code/scenes/main_story/sm1ms008.rpy:430
+translate chinese sm1ms008_after_choice_afa6b554:
+
+    # mc "Wait, don't you have any cameras we might need, Kanya?"
+    mc "Wait, don't you have any cameras we might need, Kanya?"
+
+# game/code/scenes/main_story/sm1ms008.rpy:455
+translate chinese sm1ms008_after_choice_9090b1fc:
+
+    # sy "I'm thinking about the extra work we'll have to do to get this super camera."
+    sy "I'm thinking about the extra work we'll have to do to get this super camera."
+
+# game/code/scenes/main_story/sm1ms008.rpy:482
+translate chinese sm1ms008_after_choice_6805a231:
+
+    # sy "Haha. Good thing that's not [mcname]'s motto."
+    sy "Haha. Good thing that's not [mcname]'s motto."
+
+# game/code/scenes/main_story/sm1ms008.rpy:498
+translate chinese sm1ms008_after_choice_43fefb83:
+
+    # kv "Got it, let me give you my number."
+    kv "Got it, let me give you my number."
+
+translate chinese strings:
+
+    # game/code/scenes/main_story/sm1ms008.rpy:322
+    old "You should stick with red hair"
+    new "You should stick with red hair"
+
+    # game/code/scenes/main_story/sm1ms008.rpy:322
+    old "I think it will do nicely for the scene"
+    new "I think it will do nicely for the scene"
 

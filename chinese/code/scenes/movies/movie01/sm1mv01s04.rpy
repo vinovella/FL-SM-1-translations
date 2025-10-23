@@ -562,12 +562,6 @@ translate chinese sm1mv01s04_f8e8e248:
     # tl "So you know, these are stage swords, so they're not sharp."
     tl "So you know, these are stage swords, so they're not sharp."
 
-# game/code/scenes/movies/movie01/sm1mv01s04.rpy:311
-translate chinese sm1mv01s04_46fab19f:
-
-    # tl "But that doesnt mean that it won't fucking hurt if you hit someone with it."
-    tl "But that doesnt mean that it won't fucking hurt if you hit someone with it."
-
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:315
 translate chinese sm1mv01s04_bce72e62:
 
@@ -777,4 +771,10 @@ translate chinese sm1mv01s04_7816b969:
 
     # mct "But, I should get this set taken down..."
     mct "But, I should get this set taken down..."
+
+# game/code/scenes/movies/movie01/sm1mv01s04.rpy:311
+translate chinese sm1mv01s04_08511480:
+
+    # tl "But that doesn't mean that it won't fucking hurt if you hit someone with it."
+    tl "But that doesn't mean that it won't fucking hurt if you hit someone with it."
 

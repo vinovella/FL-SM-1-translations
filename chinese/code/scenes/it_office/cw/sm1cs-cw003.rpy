@@ -94,12 +94,6 @@ translate chinese sm1cs_cw003_0b0e1196:
     # mc "So anyhow, there I am, doing my best to pretend like Claire and I are in a relationship."
     mc "反正当时我就只能尽全力装出和克莱尔在谈恋爱的样子。"
 
-# game/code/scenes/it_office/cw/sm1cs-cw003.rpy:48
-translate chinese sm1cs_cw003_4f124ce0:
-
-    # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"kinky\" app anymore."
-    mc "她妈妈特别欣慰，还说幸好克莱尔不需要再用那个\"变态\"软件了。"
-
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:51
 translate chinese sm1cs_cw003_790de301:
 
@@ -469,4 +463,10 @@ translate chinese strings:
     # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:159
     old "Excited"
     new "兴奋"
+
+# game/code/scenes/it_office/cw/sm1cs-cw003.rpy:48
+translate chinese sm1cs_cw003_c8642c96:
+
+    # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
+    mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
 

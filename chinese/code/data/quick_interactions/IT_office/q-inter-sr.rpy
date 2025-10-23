@@ -89,10 +89,10 @@ translate chinese q_inter_sr_4_a89f787f:
     mc "What's wrong, Sienna?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-sr.rpy:51
-translate chinese q_inter_sr_4_7f60d36b:
+translate chinese q_inter_sr_4_6dd1d47e:
 
-    # sr "We've been getting bombarded with a DDoS all morning. Thank God we had April test the system when we implimented it."
-    sr "We've been getting bombarded with a DDoS all morning. Thank God we had April test the system when we implimented it."
+    # sr "We've been getting bombarded with a DDoS all morning. Thank God we had April test the system when we implemented it."
+    sr "We've been getting bombarded with a DDoS all morning. Thank God we had April test the system when we implemented it."
 
 # game/code/data/quick_interactions/IT_office/q-inter-sr.rpy:57
 translate chinese q_inter_sr_5_627912aa:

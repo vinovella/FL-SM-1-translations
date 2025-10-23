@@ -364,10 +364,10 @@ translate chinese sm1cs_tl003_in_street_ea6df87b:
     # sy "Why is there a cop parked here?"
     sy "怎么有警察停在这儿？"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:210
-translate chinese sm1cs_tl003_in_street_665d1eb6:
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:211
+translate chinese sm1cs_tl003_in_street_76592468:
 
-    # tl "Awhile back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
+    # tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
     tl "之前这儿发生过一场很疯狂的爆炸之类的事情。之后警察就决定留个人在这儿，以防再有人搞什么鬼。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:213
@@ -1306,10 +1306,10 @@ translate chinese sm1cs_tl003_sex_end_972dc55f:
     # mc "Oh no, oh no - I'm too handsome to go to jail!"
     mc "完了！我这么帅不能坐牢啊！"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:661
-translate chinese sm1cs_tl003_sex_end_3574fcd3:
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:698
+translate chinese sm1cs_tl003_sex_end_b82ee33e:
 
-    # tl "Shut it, [mcname]. Noone is going to jail today. Just be quiet, and follow me!"
+    # tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
     tl "闭嘴[mcname]。今天谁都不会进局子。悄悄跟我走！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:712

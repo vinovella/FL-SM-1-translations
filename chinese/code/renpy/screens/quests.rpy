@@ -8,19 +8,19 @@
     old "QUESTS"
     new "QUESTS"
 
-    # game/code/renpy/screens/quests.rpy:58
+    # game/code/renpy/screens/quests.rpy:59
     old "Untrack Quest"
     new "Untrack Quest"
 
-    # game/code/renpy/screens/quests.rpy:61
+    # game/code/renpy/screens/quests.rpy:62
     old "Track Quest"
     new "Track Quest"
 
-    # game/code/renpy/screens/quests.rpy:71
+    # game/code/renpy/screens/quests.rpy:73
     old "Go to faction page"
     new "Go to faction page"
 
-    # game/code/renpy/screens/quests.rpy:74
+    # game/code/renpy/screens/quests.rpy:76
     old "Go to character page"
     new "Go to character page"
 

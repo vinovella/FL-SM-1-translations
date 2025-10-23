@@ -58,12 +58,6 @@ translate chinese sm1ms002_7e80f756:
     # sy "Is the delivery job that bad?"
     sy "快递的活儿有那么糟糕吗？"
 
-# game/code/scenes/main_story/sm1ms002.rpy:59
-translate chinese sm1ms002_1b967ef2:
-
-    # mc "I haven't started cutting on myself yet."
-    mc "还没糟糕到需要我自残呢。"
-
 # game/code/scenes/main_story/sm1ms002.rpy:61
 translate chinese sm1ms002_d8f519df:
 
@@ -247,4 +241,10 @@ translate chinese strings:
     # game/code/scenes/main_story/sm1ms002.rpy:74
     old "Start job in Theater"
     new "开始在剧院工作"
+
+# game/code/scenes/main_story/sm1ms002.rpy:59
+translate chinese sm1ms002_4f8bfe43:
+
+    # mc "I haven't started cutting myself yet."
+    mc "I haven't started cutting myself yet."
 

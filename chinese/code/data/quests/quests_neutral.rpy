@@ -33,24 +33,24 @@
     new "Talk to Stacy during the evening"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy when she is bed"
-    new "Talk with Stacy when she is bed"
+    old "Talk with Stacy when she is in bed"
+    new "Talk with Stacy when she is in bed"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about getting more jobs"
     new "Talk with Stacy about getting more jobs"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress IT job's story line"
-    new "Progress IT job's story line"
+    old "Progress IT job's storyline"
+    new "Progress IT job's storyline"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress Theater job's story line"
-    new "Progress Theater job's story line"
+    old "Progress Theater job's storyline"
+    new "Progress Theater job's storyline"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress IT and Theater job story lines"
-    new "Progress IT and Theater job story lines"
+    old "Progress IT and Theater job storylines"
+    new "Progress IT and Theater job storylines"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about the IT job"
@@ -59,10 +59,6 @@
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about the theater"
     new "Talk with Stacy about the theater"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Go To Sleep"
-    new "Go To Sleep"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go on a Date with Stacy"
@@ -81,8 +77,8 @@
     new "Talk to Stacy about filming"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress AmRose's Storyline"
-    new "Progress AmRose's Storyline"
+    old "Progress AmRose's storyline"
+    new "Progress AmRose's storyline"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about AmRose"
@@ -97,8 +93,8 @@
     new "Talk with Stacy in the morning"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress Taisia's story line"
-    new "Progress Taisia's story line"
+    old "Progress Taisia's storyline"
+    new "Progress Taisia's storyline"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy during the day"
@@ -125,8 +121,48 @@
     new "Talk with Stacy"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Stacy at the studio at Morning"
-    new "Talk to Stacy at the studio at Morning"
+    old "Talk to Stacy at the studio in the morning"
+    new "Talk to Stacy at the studio in the morning"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Have $200 and text Kanya"
+    new "Have $200 and text Kanya"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy about editing during the day"
+    new "Talk to Stacy about editing during the day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Stacy to make editing progress"
+    new "Wait for Stacy to make editing progress"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy about editing again... during the day"
+    new "Talk to Stacy about editing again... during the day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Stacy to finish editing"
+    new "Wait for Stacy to finish editing"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy"
+    new "Talk to Stacy"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy about new order from the client"
+    new "Talk to Stacy about new order from the client"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy to choose the movie you want to film"
+    new "Talk with Stacy to choose the movie you want to film"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Film and release the new movie"
+    new "Film and release the new movie"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Stacy to launch the website"
+    new "Wait for Stacy to launch the website"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about the camera girl"
@@ -149,8 +185,8 @@
     new "Read the book on your couch"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Learn Photography until you have 5 in this topic (current {})"
-    new "Learn Photography until you have 5 in this topic (current {})"
+    old "Learn Photography until you have 5 in this topic (currently {})"
+    new "Learn Photography until you have 5 in this topic (currently {})"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Learn Photography until you have 5 in this topic"
@@ -213,24 +249,24 @@
     new "Go to Wurst Delivery during the day"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Get 6 Relationship points with Maya and talk to her in Wurst Delivery"
-    new "Get 6 Relationship points with Maya and talk to her in Wurst Delivery"
+    old "Get 6 Relationship Points with Maya and talk to her in Wurst Delivery"
+    new "Get 6 Relationship Points with Maya and talk to her in Wurst Delivery"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Get {}/9 Relationship points with Maya"
-    new "Get {}/9 Relationship points with Maya"
+    old "Get {}/9 Relationship Points with Maya"
+    new "Get {}/9 Relationship Points with Maya"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Visit Wurst Delivery in the evening"
     new "Visit Wurst Delivery in the evening"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy about going to Lyssa during the day timeslot"
-    new "Talk with Stacy about going to Lyssa during the day timeslot"
+    old "Talk with Stacy about going to Lyssa during the day"
+    new "Talk with Stacy about going to Lyssa during the day"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy about Lyssa during the day timeslot"
-    new "Talk with Stacy about Lyssa during the day timeslot"
+    old "Talk with Stacy about Lyssa during the day"
+    new "Talk with Stacy about Lyssa during the day"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about your date with Lyssa"
@@ -241,8 +277,8 @@
     new "Take Lyssa out for a nice Dinner"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Go to Lyssa's House during evening timeslot"
-    new "Go to Lyssa's House during evening timeslot"
+    old "Go to Lyssa's House during evening"
+    new "Go to Lyssa's House during evening"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Tell Stacy about your date with Lyssa"
@@ -265,138 +301,6 @@
     new "Answer Lyssa's message"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Look out for the shady guy in the park at night"
-    new "Look out for the shady guy in the park at night"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the park during the day"
-    new "Talk to Debbie in the park during the day"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the Park during the day"
-    new "Talk to Debbie in the Park during the day"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Wait for few days"
-    new "Wait for few days"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie"
-    new "Talk to Debbie"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Wait for a day"
-    new "Wait for a day"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the evening"
-    new "Talk to Debbie in the evening"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Wait for Debbie to message you"
-    new "Wait for Debbie to message you"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Answer Debbie"
-    new "Answer Debbie"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Find Debbie in the park at nightfall"
-    new "Find Debbie in the park at nightfall"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy about Min"
-    new "Talk with Stacy about Min"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Finish renovation to invite Min"
-    new "Finish renovation to invite Min"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Text Min"
-    new "Text Min"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Text Melony"
-    new "Text Melony"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy before going with Melony"
-    new "Talk with Stacy before going with Melony"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Meet Ridley"
-    new "Meet Ridley"
-
-translate chinese strings:
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Have $200 and text Kanya"
-    new "Have $200 and text Kanya"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Stacy about editing during the day"
-    new "Talk to Stacy about editing during the day"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Wait for Stacy to make editing progress"
-    new "Wait for Stacy to make editing progress"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Stacy about editing again... during the day"
-    new "Talk to Stacy about editing again... during the day"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Wait for Stacy to finish editing"
-    new "Wait for Stacy to finish editing"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Stacy"
-    new "Talk to Stacy"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Text Debbie"
-    new "Text Debbie"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Get to 3 relationship points with Min"
-    new "Get to 3 relationship points with Min"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Wait for Min to text you"
-    new "Wait for Min to text you"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Answer Min"
-    new "Answer Min"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Get to 5 relationship points with Min"
-    new "Get to 5 relationship points with Min"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Min in a bar"
-    new "Talk with Min in a bar"
-
-translate chinese strings:
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Stacy about new order from the client"
-    new "Talk to Stacy about new order from the client"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy to choose the movie you want to film"
-    new "Talk with Stacy to choose the movie you want to film"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Film and release the new movie"
-    new "Film and release the new movie"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Wait for Stacy to launch the website"
-    new "Wait for Stacy to launch the website"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Visit Lyssa in the afternoon"
     new "Visit Lyssa in the afternoon"
 
@@ -413,6 +317,78 @@ translate chinese strings:
     new "Show the edited video to Lyssa"
 
     # game/code/data/quests/quests_neutral.rpy:4
+    old "Look out for the shady guy in the park at night"
+    new "Look out for the shady guy in the park at night"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Debbie in the park during the day"
+    new "Talk to Debbie in the park during the day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Debbie in the Park during the day"
+    new "Talk to Debbie in the Park during the day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for a few days"
+    new "Wait for a few days"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Debbie in the Park"
+    new "Talk to Debbie in the Park"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for a day"
+    new "Wait for a day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Debbie in the evening in the Park"
+    new "Talk to Debbie in the evening in the Park"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Debbie to message you"
+    new "Wait for Debbie to message you"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Answer Debbie"
+    new "Answer Debbie"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Find Debbie in the park at nightfall"
+    new "Find Debbie in the park at nightfall"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Text Debbie"
+    new "Text Debbie"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy about Min"
+    new "Talk with Stacy about Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Finish renovation to invite Min"
+    new "Finish renovation to invite Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Text Min"
+    new "Text Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get to 3 Relationship Points with Min"
+    new "Get to 3 Relationship Points with Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for Min to text you"
+    new "Wait for Min to text you"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Answer Min"
+    new "Answer Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get to 5 Relationship Points with Min"
+    new "Get to 5 Relationship Points with Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Min in the bar"
     new "Talk with Min in the bar"
 
@@ -425,16 +401,18 @@ translate chinese strings:
     new "Text Min in the Morning to help her move in"
 
     # game/code/data/quests/quests_neutral.rpy:4
+    old "Text Melony"
+    new "Text Melony"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy before going with Melony"
+    new "Talk with Stacy before going with Melony"
+
+    # game/code/data/quests/quests_neutral.rpy:4
     old "Stacy wants to talk to you about Melony"
     new "Stacy wants to talk to you about Melony"
 
-translate chinese strings:
-
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the Park"
-    new "Talk to Debbie in the Park"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the evening in the Park"
-    new "Talk to Debbie in the evening in the Park"
+    old "Meet Ridley"
+    new "Meet Ridley"
 

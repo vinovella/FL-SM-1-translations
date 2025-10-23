@@ -575,9 +575,9 @@ translate chinese sm1cs_vs004_after_choice_29df6d24:
     mc "不是，这事儿--"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:284
-translate chinese sm1cs_vs004_after_choice_05f7ac11:
+translate chinese sm1cs_vs004_after_choice_9c38d0b3:
 
-    # mc "Nevermind. Just... leave it to me."
+    # mc "Never mind. Just... leave it to me."
     mc "算了。你就...交给我来处理吧。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:287

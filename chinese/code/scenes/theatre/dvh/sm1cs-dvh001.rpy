@@ -28,12 +28,6 @@ translate chinese sm1cs_dvh001_a41d5ab8:
     # mct "Is she checking me out? No, no way."
     mct "她是在打量我吗？不，不可能。"
 
-# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:27
-translate chinese sm1cs_dvh001_65e5fc7f:
-
-    # dvh "I shall return to the stage in a moment. Just need some time to breath deep."
-    dvh "我一会儿就回舞台上去。只是需要点时间好好喘口气。"
-
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:29
 translate chinese sm1cs_dvh001_5693a819:
 
@@ -454,12 +448,6 @@ translate chinese sm1cs_dvh001_14552750:
     # dvh "You have to prove to me, and this theater, that you are worth the work."
     dvh "你得向我和这家剧院证明，你值得我们花精力培养。"
 
-# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:213
-translate chinese sm1cs_dvh001_719e3578:
-
-    # dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on."
-    dvh "我确实在你身上看到了潜力。但在我确定你不是另一个布拉姆之前，我都不会在你身上浪费多余的时间。"
-
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:214
 translate chinese sm1cs_dvh001_830dd4fe:
 
@@ -523,4 +511,16 @@ translate chinese strings:
     # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:148
     old "Tell Denise that you're only interested in acting"
     new "告诉丹妮丝你只对演戏感兴趣"
+
+# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:27
+translate chinese sm1cs_dvh001_5264a337:
+
+    # dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
+    dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
+
+# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:213
+translate chinese sm1cs_dvh001_169f969d:
+
+    # dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
+    dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
 

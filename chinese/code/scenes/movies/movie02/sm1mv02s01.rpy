@@ -304,12 +304,6 @@ translate chinese sm1mv02s01_cad6b284:
     # mc "There's not a stage in here?"
     mc "There's not a stage in here?"
 
-# game/code/scenes/movies/movie02/sm1mv02s01.rpy:218
-translate chinese sm1mv02s01_adf0dae9:
-
-    # sy "No, but that's what they call the places the film movies. Shorthand for \"sound stage\"."
-    sy "No, but that's what they call the places the film movies. Shorthand for \"sound stage\"."
-
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:221
 translate chinese sm1mv02s01_8e11f0a8:
 
@@ -543,4 +537,28 @@ translate chinese sm1mv02s01_8a0ccce2:
 
     # mc "Aye, aye, captain!"
     mc "Aye, aye, captain!"
+
+# game/code/scenes/movies/movie02/sm1mv02s01.rpy:229
+translate chinese sm1mv02s01_0a3650d2:
+
+    # sy "No, but that's what they call the places they film movies. Shorthand for \"sound stage\"."
+    sy "No, but that's what they call the places they film movies. Shorthand for \"sound stage\"."
+
+translate chinese strings:
+
+    # game/code/scenes/movies/movie02/sm1mv02s01.rpy:4
+    old "Do you want to include watersports content in this replay?"
+    new "Do you want to include watersports content in this replay?"
+
+    # game/code/scenes/movies/movie02/sm1mv02s01.rpy:359
+    old "Whom do you want to recruit as the Spectre character in this replay?"
+    new "Whom do you want to recruit as the Spectre character in this replay?"
+
+    # game/code/scenes/movies/movie02/sm1mv02s01.rpy:359
+    old "Recruit Min"
+    new "Recruit Min"
+
+    # game/code/scenes/movies/movie02/sm1mv02s01.rpy:359
+    old "Recruit Lyssa"
+    new "Recruit Lyssa"
 

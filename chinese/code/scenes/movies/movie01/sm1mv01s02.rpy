@@ -988,12 +988,6 @@ translate chinese sm1mv01s02_later_8218548c:
     # sy "Hehe."
     sy "Hehe."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:508
-translate chinese sm1mv01s02_later_d0ee1c80:
-
-    # mc "I think it's the perfect ouftit for a pirate queen."
-    mc "I think it's the perfect ouftit for a pirate queen."
-
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:510
 translate chinese sm1mv01s02_later_e1b71c15:
 
@@ -2007,4 +2001,10 @@ translate chinese strings:
     # game/code/scenes/movies/movie01/sm1mv01s02.rpy:490
     old "Focused"
     new "Focused"
+
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:509
+translate chinese sm1mv01s02_later_1e8e7e72:
+
+    # mc "I think it's the perfect outfit for a pirate queen."
+    mc "I think it's the perfect outfit for a pirate queen."
 

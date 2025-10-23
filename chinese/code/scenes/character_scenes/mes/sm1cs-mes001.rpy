@@ -154,12 +154,6 @@ translate chinese sm1cs_mes001_fa9b2b83:
     # mc "Min... about Lydia and Fetish Locator—"
     mc "明...关于莉迪亚和性趣探测器--"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:104
-translate chinese sm1cs_mes001_54c51a69:
-
-    # mes "*chuckles wrly* The elephant in the room."
-    mes "*苦笑* 这话题早晚要谈。"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:107
 translate chinese sm1cs_mes001_9446a237:
 
@@ -423,12 +417,6 @@ translate chinese sm1cs_mes001_ac32440c:
 
     # mes "So... rumor has it you dropped out, right?"
     mes "所以...听说你退学了，是吗？"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:220
-translate chinese sm1cs_mes001_8d8790c7:
-
-    # mc "*sheepishily* Guilty as charged. The old business management program just wasn't cutting it for me."
-    mc "*不好意思地说* 是的。原来的工商管理专业实在不适合我。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:221
 translate chinese sm1cs_mes001_47a7309b:
@@ -748,12 +736,6 @@ translate chinese sm1cs_mes001_d19c0b1c:
     # mes "My {i}loving{/i} family tried setting me up with a 'nice, respectable' suitor — who does that these days?"
     mes "我{i}亲爱的{/i}家人想给我安排一个'体面优秀'的相亲对象--都什么年代了还搞这套？"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:345
-translate chinese sm1cs_mes001_f2902c14:
-
-    # mc "Are you telling me you almost got an set up for an arranged marriage type date in Korea?"
-    mc "你是说你在韩国差点被安排了一场包办婚姻式的约会？"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:348
 translate chinese sm1cs_mes001_bd02302b:
 
@@ -813,12 +795,6 @@ translate chinese sm1cs_mes001_cd529352:
 
     # mes "Impressive. I just assumed you two were just messing around with a camera in a warehouse."
     mes "挺厉害的。我之前还以为你们只是在仓库里拿着相机瞎玩。"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:369
-translate chinese sm1cs_mes001_197faa78:
-
-    # mc "Hey, we do that to, but we can be serious when we need to be."
-    mc "嘿，我们确实也会瞎玩，但该认真时还是不会马虎的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:371
 translate chinese sm1cs_mes001_c61da560:
@@ -1047,4 +1023,28 @@ translate chinese sm1cs_mes001_927c1195:
 
     # mc "Cool, it's a deal then."
     mc "好啊，那就说定了。"
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:103
+translate chinese sm1cs_mes001_66273e86:
+
+    # mes "*chuckles wryly* The elephant in the room."
+    mes "*chuckles wryly* The elephant in the room."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:219
+translate chinese sm1cs_mes001_9af4df5f:
+
+    # mc "*sheepishly* Guilty as charged. The old business management program just wasn't cutting it for me."
+    mc "*sheepishly* Guilty as charged. The old business management program just wasn't cutting it for me."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:344
+translate chinese sm1cs_mes001_3a955c35:
+
+    # mc "Are you telling me you almost got a set up for an arranged marriage type date in Korea?"
+    mc "Are you telling me you almost got a set up for an arranged marriage type date in Korea?"
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:368
+translate chinese sm1cs_mes001_229c1cea:
+
+    # mc "Hey, we do that too, but we can be serious when we need to be."
+    mc "Hey, we do that too, but we can be serious when we need to be."
 

@@ -40,18 +40,6 @@ translate chinese sm1cs_am004i_6d5df964:
     # mc "Yes, of course, I'm coming. I'm excited to see you rock out."
     mc "是的，我当然会来。我很期待看到你尽情摇滚起来。"
 
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:24
-translate chinese sm1cs_am004i_ff3a2552:
-
-    # am "Well, don't forget, it's pagon rock. I don't want to hear you whining later."
-    am "嗯，别忘了，这是异教摇滚风格。我可不想之后听到你发牢骚。"
-
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
-translate chinese sm1cs_am004i_9cbe2ef6:
-
-    # mc "Woudln't dream of it. See you tonight."
-    mc "绝对不可能。晚上见。"
-
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:27
 translate chinese sm1cs_am004i_6e94d2fc:
 
@@ -85,4 +73,16 @@ translate chinese strings:
     # game/code/scenes/it_office/am/sm1cs-am004i.rpy:17
     old "On second thought, I have something I need to do"
     new "仔细想想，我还有些事要做"
+
+# game/code/scenes/it_office/am/sm1cs-am004i.rpy:24
+translate chinese sm1cs_am004i_e2e0bcfb:
+
+    # am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
+    am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
+
+# game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
+translate chinese sm1cs_am004i_286029a4:
+
+    # mc "Wouldn't dream of it. See you tonight."
+    mc "Wouldn't dream of it. See you tonight."
 

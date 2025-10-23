@@ -466,12 +466,6 @@ translate chinese sm1cs_cw001_end_convo_37449fa2:
     # cw "Mmm. Perhaps I'll tell you once we know each other a little better."
     cw "这个嘛，也许等我们彼此熟悉了，我会告诉你的。"
 
-# game/code/scenes/it_office/cw/sm1cs-cw001.rpy:294
-translate chinese sm1cs_cw001_end_convo_e84d2828:
-
-    # mc "Did Orbix had some trouble with inter-office relationships in the past."
-    mc "Orbix公司过去在办公室恋情方面是不是出过什么问题？"
-
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:297
 translate chinese sm1cs_cw001_end_convo_5c06ba6e:
 
@@ -725,4 +719,10 @@ translate chinese strings:
     # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:369
     old "Disagree with Claire"
     new "不同意克莱尔的观点"
+
+# game/code/scenes/it_office/cw/sm1cs-cw001.rpy:294
+translate chinese sm1cs_cw001_end_convo_c4aa9c65:
+
+    # mc "Did Orbix have some trouble with inter-office relationships in the past?"
+    mc "Did Orbix have some trouble with inter-office relationships in the past?"
 

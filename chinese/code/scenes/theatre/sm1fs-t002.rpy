@@ -472,12 +472,6 @@ translate chinese sm1fs_t002_dbef676e:
     # sy "Partially..."
     sy "有一部分原因是..."
 
-# game/code/scenes/theatre/sm1fs-t002.rpy:303
-translate chinese sm1fs_t002_63f502f0:
-
-    # tl "So what's your two's story?"
-    tl "哦，那你们俩有什么故事呢？"
-
 # game/code/scenes/theatre/sm1fs-t002.rpy:305
 translate chinese sm1fs_t002_6b2e55df:
 
@@ -627,12 +621,6 @@ translate chinese sm1fs_t002_2ac623c8:
 
     # sy "Well I am more than happy to be your first!"
     sy "好吧，我非常乐意成为你的第一个！"
-
-# game/code/scenes/theatre/sm1fs-t002.rpy:372
-translate chinese sm1fs_t002_21f1b495:
-
-    # sy "Lets' get this party started!"
-    sy "嗯，我很乐意成为你的第一次！"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:394
 translate chinese sm1fs_t002_sex_e4ccea3e:
@@ -861,12 +849,6 @@ translate chinese sm1fs_t002_sex_df604538:
 
     # tl "Come on, whip it out."
     tl "来吧，掏出来。"
-
-# game/code/scenes/theatre/sm1fs-t002.rpy:534
-translate chinese sm1fs_t002_sex_e9f1f302:
-
-    # tl "Damn. Someone is defintiely not shy."
-    tl "靠。某人真是一点也不害羞啊。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:536
 translate chinese sm1fs_t002_sex_64e8e006:
@@ -1180,12 +1162,6 @@ translate chinese sm1fs_t002_sex_a88fbee3:
     # tl "Eh, mostly do it because [mcname] will be able to get deeper."
     tl "呃，主要是这么做的话[mcname]能插得更深。"
 
-# game/code/scenes/theatre/sm1fs-t002.rpy:703
-translate chinese sm1fs_t002_sex_ae2cb979:
-
-    # mc "LIterally zero complaints from me then."
-    mc "那我绝对没意见。"
-
 # game/code/scenes/theatre/sm1fs-t002.rpy:712
 translate chinese sm1fs_t002_sex_18c6234a:
 
@@ -1233,12 +1209,6 @@ translate chinese sm1fs_t002_sex_a6d5255f:
 
     # tl "Well, that's where I'm going. This feels fuh-uhcking great."
     tl "哎呀，我正往那方面去呢。这感觉--他妈的爽死了。"
-
-# game/code/scenes/theatre/sm1fs-t002.rpy:735
-translate chinese sm1fs_t002_sex_7ea30e17:
-
-    # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. THey want the cinema!"
-    sy "你得表现给我们看，而不是光说出来。没人想听色情片的有声书。大家要看的是色情电影！"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:736
 translate chinese sm1fs_t002_sex_80a80799:
@@ -1925,7 +1895,7 @@ translate chinese strings:
     new "我喜欢后入式和女上位？"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:244
-    old "I'm into spanking."
+    old "I'm into spanking"
     new "我喜欢打屁股这种玩法"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:244
@@ -1933,6 +1903,35 @@ translate chinese strings:
     new "这些我都喜欢！"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:244
-    old "I'm game. If you can do those things to me."
+    old "I'm game. If you can do those things to me"
     new "我都行。要是你能对我做这些的话"
 
+# game/code/scenes/theatre/sm1fs-t002.rpy:304
+translate chinese sm1fs_t002_3cc3e891:
+
+    # tl "So what's your story, you two?"
+    tl "So what's your story, you two?"
+
+# game/code/scenes/theatre/sm1fs-t002.rpy:373
+translate chinese sm1fs_t002_48bdc3d2:
+
+    # sy "Let's get this party started!"
+    sy "Let's get this party started!"
+
+# game/code/scenes/theatre/sm1fs-t002.rpy:535
+translate chinese sm1fs_t002_sex_7f6d7367:
+
+    # tl "Damn. Someone is definitely not shy."
+    tl "Damn. Someone is definitely not shy."
+
+# game/code/scenes/theatre/sm1fs-t002.rpy:704
+translate chinese sm1fs_t002_sex_226f2e7f:
+
+    # mc "Literally zero complaints from me then."
+    mc "Literally zero complaints from me then."
+
+# game/code/scenes/theatre/sm1fs-t002.rpy:736
+translate chinese sm1fs_t002_sex_b41d6af2:
+
+    # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
+    sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"

@@ -16,8 +16,6 @@
     old "ON MY WAY!"
     new "ON MY WAY!"
 
-translate chinese strings:
-
     # game/code/data/chat/chat_mh.rpy:37
     old "Hey, [mcname!i]. I have the next few mornings off. I was wondering if I could stop by and see the new renovations?"
     new "Hey, [mcname!i]. I have the next few mornings off. I was wondering if I could stop by and see the new renovations?"

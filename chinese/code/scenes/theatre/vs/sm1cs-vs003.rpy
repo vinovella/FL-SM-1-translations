@@ -1570,8 +1570,8 @@ translate chinese strings:
     old "What's wrong with my delivery?"
     new "我台词有什么问题？"
 
-    # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:121
-    old "Sounds good, Veronica."
+    # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:112
+    old "Sounds good, Veronica"
     new "听你的，维罗妮卡"
 
     # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:175

@@ -310,12 +310,6 @@ translate chinese sm1ms020_0b76e093:
     # mc "What do you do as an art gallery manager?"
     mc "艺术画廊经理主要做些什么工作啊？"
 
-# game/code/scenes/main_story/sm1ms020.rpy:175
-translate chinese sm1ms020_94ff1e98:
-
-    # my "I manage connections between investors and the gallery, talent scout for new artist's to showcase..."
-    my "我要维护投资者和画廊之间的关系，还要发掘有潜力的新艺术家，让他们有机会在画廊展出作品..."
-
 # game/code/scenes/main_story/sm1ms020.rpy:176
 translate chinese sm1ms020_1f2f2361:
 
@@ -1307,4 +1301,10 @@ translate chinese strings:
     # game/code/scenes/main_story/sm1ms020.rpy:541
     old "To no more manual labor!"
     new "为再也不用干体力活干杯！"
+
+# game/code/scenes/main_story/sm1ms020.rpy:175
+translate chinese sm1ms020_0046f9d0:
+
+    # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+    my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
 

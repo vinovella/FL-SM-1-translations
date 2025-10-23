@@ -172,12 +172,6 @@ translate chinese sm1cs_ag001_8ff28f75:
     # mj "Thanks. But we actually have a small problem, Anna."
     mj "谢谢。但实际上我们有一个小问题，安娜。"
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:106
-translate chinese sm1cs_ag001_c20e21ba:
-
-    # mj "My team managed to nail down that analytics error that was a real thorn in our butts.. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
-    mj "我的团队好不容易搞定了那个一直让我们头疼的数据错误...现在杰登又说，当我们的服务器容量达到15%%时，压力测试警报就会响起来。"
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:109
 translate chinese sm1cs_ag001_2769889a:
 
@@ -376,41 +370,11 @@ translate chinese sm1cs_ag001_2750285d_1:
     # mct "Deep. Wet. Undercover."
     mct "《深入、暧昧、卧底》"
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:234
-translate chinese sm1cs_ag001_0b374835:
-
-    # mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club"
-    mct "故事讲的是伊娃・金斯利潜入淫乱的侯爵俱乐部执行任务的经历。"
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:235
 translate chinese sm1cs_ag001_c1d0d7a8:
 
     # mct "Will our hero be able to keep her resolve as she descends into a world of humiliation and debauchery?"
     mct "当我们的女主角深陷羞辱与放荡交织的泥潭，她能否守住心中的信念？"
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:238
-translate chinese sm1cs_ag001_87f92112:
-
-    # mct "This certainly deserves an Adults Only rating"
-    mct "这书肯定得打上“成人专属”的标签。"
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
-translate chinese sm1cs_ag001_e4b9a970:
-
-    # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down"
-    mct "从这本书来看，我觉得要是性趣探测器没被关停的话，安娜可能会对它感兴趣。"
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:243
-translate chinese sm1cs_ag001_5eea3769:
-
-    # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\""
-    mct "我还是不应该看的。现在我知道她有点重口味，但我又不能走到她面前说\"嘿，我听说你喜欢羞辱类的色情内容。\""
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:246
-translate chinese sm1cs_ag001_5d47ee66:
-
-    # mc "Oh cool, they're making a movie based on the book"
-    mc "哦，真不错，他们要把这本书拍成电影了。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:249
 translate chinese sm1cs_ag001_f10be5b0:
@@ -652,12 +616,6 @@ translate chinese sm1cs_ag001_continue_0f22d93c:
     # ag "I'd like to say she grows on you, but we've worked together a while and I think that would be a lie, hahah."
     ag "我想说你会慢慢喜欢上她的，但我们一起工作了一段时间了，我觉得这么说可能是在撒谎，哈哈哈。"
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:398
-translate chinese sm1cs_ag001_continue_34bad08b:
-
-    # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Worts and all."
-    ag "但她可能是皇冠镇最厉害的程序员了，能有她在我们团队里是一种荣幸，不管她有什么小毛病。"
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:401
 translate chinese sm1cs_ag001_continue_7a22d199:
 
@@ -693,12 +651,6 @@ translate chinese sm1cs_ag001_continue_e6d20dfe:
 
     # ag "I know you just joined up but I should warn you that I might have to ride you extra hard over the next couple of months."
     ag "我知道你刚加入不久，但我得提醒你，在接下来的几个月里，我可能会对你要求更严格。"
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
-translate chinese sm1cs_ag001_continue_657f6911:
-
-    # mct "Oh I don't think either of us would mind that, Anna"
-    mct "哦，我觉得我们俩应该都不会介意的，安娜。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:421
 translate chinese sm1cs_ag001_continue_cd952fa6:
@@ -783,4 +735,52 @@ translate chinese strings:
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:415
     old "Reassure"
     new "让她安心"
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:106
+translate chinese sm1cs_ag001_493be2ed:
+
+    # mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
+    mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:234
+translate chinese sm1cs_ag001_314d6ac2:
+
+    # mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
+    mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:238
+translate chinese sm1cs_ag001_9e2758b7:
+
+    # mct "This certainly deserves an Adults Only rating."
+    mct "This certainly deserves an Adults Only rating."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
+translate chinese sm1cs_ag001_8601bed3:
+
+    # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
+    mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:243
+translate chinese sm1cs_ag001_499c380f:
+
+    # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
+    mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:246
+translate chinese sm1cs_ag001_30f8e87b:
+
+    # mc "Oh cool, they're making a movie based on the book."
+    mc "Oh cool, they're making a movie based on the book."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:398
+translate chinese sm1cs_ag001_continue_68649b33:
+
+    # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
+    ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
+translate chinese sm1cs_ag001_continue_be0ef968:
+
+    # mct "Oh I don't think either of us would mind that, Anna."
+    mct "Oh I don't think either of us would mind that, Anna."
 

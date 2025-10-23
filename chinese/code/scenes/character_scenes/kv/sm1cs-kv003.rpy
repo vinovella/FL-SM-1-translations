@@ -508,12 +508,6 @@ translate chinese sm1cs_kv003_c90951c8:
     # mc "And maybe I can show you a few too."
     mc "或许我也能给你展示点才艺。"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:289
-translate chinese sm1cs_kv003_bb6c33ea:
-
-    # kv "Whats the next question?"
-    kv "下一个问题是什么？"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:291
 translate chinese sm1cs_kv003_85304d6b:
 
@@ -993,4 +987,10 @@ translate chinese sm1cs_kv003_9c5419cb:
 
     # mc "Ugggggh, fine."
     mc "呃啊啊，好吧。"
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:290
+translate chinese sm1cs_kv003_51d06342:
+
+    # kv "What's the next question?"
+    kv "What's the next question?"
 

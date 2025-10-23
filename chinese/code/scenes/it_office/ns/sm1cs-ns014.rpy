@@ -634,12 +634,6 @@ translate chinese sm1cs_ns014_studio_f8405504:
     # sy "I'll put these back."
     sy "I'll put these back."
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:405
-translate chinese sm1cs_ns014_studio_eb8cad39:
-
-    # sy "And leave you to to..."
-    sy "And leave you to to..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:406
 translate chinese sm1cs_ns014_studio_120569a2:
 
@@ -970,12 +964,6 @@ translate chinese sm1cs_ns014_studio_991c2490:
     # ns "Hmmm. What cat?"
     ns "Hmmm. What cat?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:550
-translate chinese sm1cs_ns014_studio_1d7ad725:
-
-    # mc "Nevermind."
-    mc "Nevermind."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:553
 translate chinese sm1cs_ns014_studio_51a6e691:
 
@@ -1261,4 +1249,16 @@ translate chinese sm1cs_ns014_studio_026d1f00:
 
     # mc "Would you like one?"
     mc "Would you like one?"
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:406
+translate chinese sm1cs_ns014_studio_c5db71ea:
+
+    # sy "And leave you to..."
+    sy "And leave you to..."
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:553
+translate chinese sm1cs_ns014_studio_658994d8:
+
+    # mc "Never mind."
+    mc "Never mind."
 

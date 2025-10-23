@@ -22,12 +22,6 @@ translate chinese sm1cs_am007_f8576f9f:
     # am "Shit, I gotta take this."
     am "Shit, I gotta take this."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:46
-translate chinese sm1cs_am007_167c5538:
-
-    # mct "I wonder what the call is about.{w} Seemed important.."
-    mct "I wonder what the call is about.{w} Seemed important.."
-
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:50
 translate chinese sm1cs_am007_271f3c49:
 
@@ -159,12 +153,6 @@ translate chinese sm1cs_am007_5f136771:
 
     # ps "Okay, {i}maybe{/i} you have a point..."
     ps "Okay, {i}maybe{/i} you have a point..."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:114
-translate chinese sm1cs_am007_e5cab807:
-
-    # ps "We should have listened better and we should accept that sometimes you're going to miss pratice."
-    ps "We should have listened better and we should accept that sometimes you're going to miss pratice."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:117
 translate chinese sm1cs_am007_4ad97173:
@@ -447,18 +435,6 @@ translate chinese sm1cs_am007_6ae6f77c:
 
     # am "Just because we are dating, doesn't mean you have to come running to my aid anytime it looks like I'm in trouble."
     am "Just because we are dating, doesn't mean you have to come running to my aid anytime it looks like I'm in trouble."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:212
-translate chinese sm1cs_am007_f02f42d6:
-
-    # am "I work in tech.{w} Every day is a shit sandwhich for breakfast and a anxiety cocktail for lunch."
-    am "I work in tech.{w} Every day is a shit sandwhich for breakfast and a anxiety cocktail for lunch."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:213
-translate chinese sm1cs_am007_d29f47da:
-
-    # am "And this week has been order on the double-shit sandwhich."
-    am "And this week has been order on the double-shit sandwhich."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:218
 translate chinese sm1cs_am007_754afbcb:
@@ -1035,18 +1011,6 @@ translate chinese sm1cs_am007_20_minutes_later_bc21dd33:
 
     # am "Why not?"
     am "Why not?"
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:529
-translate chinese sm1cs_am007_20_minutes_later_2e6a0dc6:
-
-    # mc "I have a sudden thrist for a big glass of milk."
-    mc "I have a sudden thrist for a big glass of milk."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:532
-translate chinese sm1cs_am007_20_minutes_later_8443acfc:
-
-    # am "You're here to run.{w} Not oggle my tits."
-    am "You're here to run.{w} Not oggle my tits."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:535
 translate chinese sm1cs_am007_20_minutes_later_a65f771d:
@@ -2398,12 +2362,6 @@ translate chinese sm1cs_am007_one_hour_later_89663c6e:
     # mc "We should try to clean up a little and get our clothes back on."
     mc "We should try to clean up a little and get our clothes back on."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1259
-translate chinese sm1cs_am007_one_hour_later_832c96b9:
-
-    # mc "Aynone standing near this building might have heard us."
-    mc "Aynone standing near this building might have heard us."
-
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1263
 translate chinese sm1cs_am007_one_hour_later_a2d98c0a_1:
 
@@ -2487,12 +2445,6 @@ translate chinese sm1cs_am007_one_hour_later_5dc869e4:
 
     # mct "This is why I should stop talking after sex."
     mct "This is why I should stop talking after sex."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1297
-translate chinese sm1cs_am007_one_hour_later_dfa05469:
-
-    # mct "I almost said \"at Fetish Locator parties\""
-    mct "I almost said \"at Fetish Locator parties\""
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1298
 translate chinese sm1cs_am007_one_hour_later_3eb067d9:
@@ -2583,12 +2535,6 @@ translate chinese sm1cs_am007_one_hour_later_655bb713:
 
     # mct "I shouldn't have lied to April."
     mct "I shouldn't have lied to April."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1343
-translate chinese sm1cs_am007_one_hour_later_afbb7fa8:
-
-    # mct "It's a bit screwed up. I shouldn't get invovled with anyone without telling them why I came to Orbix in the first place."
-    mct "It's a bit screwed up. I shouldn't get invovled with anyone without telling them why I came to Orbix in the first place."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1344
 translate chinese sm1cs_am007_one_hour_later_0c987c56:
@@ -2715,4 +2661,64 @@ translate chinese strings:
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
     old "I'd like to do other things to you"
     new "I'd like to do other things to you"
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:46
+translate chinese sm1cs_am007_ed615167:
+
+    # mct "I wonder what the call is about.{w} Seemed important."
+    mct "I wonder what the call is about.{w} Seemed important."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:114
+translate chinese sm1cs_am007_44f8eb4e:
+
+    # ps "We should have listened better and we should accept that sometimes you're going to miss practice."
+    ps "We should have listened better and we should accept that sometimes you're going to miss practice."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:212
+translate chinese sm1cs_am007_c4c994b5:
+
+    # am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
+    am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:213
+translate chinese sm1cs_am007_45358e8c:
+
+    # am "And this week has been order on the double-shit sandwich."
+    am "And this week has been order on the double-shit sandwich."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:525
+translate chinese sm1cs_am007_20_minutes_later_01c49227:
+
+    # mc "I have a sudden thirst for a big glass of milk."
+    mc "I have a sudden thirst for a big glass of milk."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:528
+translate chinese sm1cs_am007_20_minutes_later_7368538e:
+
+    # am "You're here to run.{w} Not ogle my tits."
+    am "You're here to run.{w} Not ogle my tits."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1250
+translate chinese sm1cs_am007_one_hour_later_36b9f516:
+
+    # mc "Anyone standing near this building might have heard us."
+    mc "Anyone standing near this building might have heard us."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1288
+translate chinese sm1cs_am007_one_hour_later_6d10752d:
+
+    # mct "I almost said \"at Fetish Locator parties\"."
+    mct "I almost said \"at Fetish Locator parties\"."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1336
+translate chinese sm1cs_am007_one_hour_later_620b174c:
+
+    # mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
+    mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
+    old "Surprised it's taking you this long"
+    new "Surprised it's taking you this long"
 

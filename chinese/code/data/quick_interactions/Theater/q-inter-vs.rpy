@@ -76,6 +76,12 @@ translate chinese q_inter_vs_3_8a62d62c:
     # vs "I do it all the time!"
     vs "I do it all the time!"
 
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:63
+translate chinese q_inter_vs_4_0ac7542c:
+
+    # vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
+    vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
+
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:64
 translate chinese q_inter_vs_4_1c7c4f01:
 
@@ -101,10 +107,10 @@ translate chinese q_inter_vs_4_d3b89ead:
     vs "You got it."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:74
-translate chinese q_inter_vs_5_9af441bd:
+translate chinese q_inter_vs_5_26a5f019:
 
-    # vs "I really hope impress Denise the next time you get to audition, [mcname]."
-    vs "I really hope impress Denise the next time you get to audition, [mcname]."
+    # vs "I really hope you impress Denise the next time you get to audition, [mcname]."
+    vs "I really hope you impress Denise the next time you get to audition, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:75
 translate chinese q_inter_vs_5_3dcf4902:
@@ -137,10 +143,10 @@ translate chinese q_inter_vs_6_edabaf3a:
     vs "Keep up the good work!"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:92
-translate chinese q_inter_vs_7_1cdd3887:
+translate chinese q_inter_vs_7_2acf4fd6:
 
-    # vs "*whipsers* Hey [mcname]."
-    vs "*whipsers* Hey [mcname]."
+    # vs "*whispers* Hey [mcname]."
+    vs "*whispers* Hey [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:94
 translate chinese q_inter_vs_7_80cd8018:
@@ -149,10 +155,10 @@ translate chinese q_inter_vs_7_80cd8018:
     mc "*whispers* Hey Veronica. Why are we whispering?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:95
-translate chinese q_inter_vs_7_2fdd05a9:
+translate chinese q_inter_vs_7_305758d8:
 
-    # vs "*whispers* Because it's fun, and becauase you want to keep talk about FL on the downlow right?"
-    vs "*whispers* Because it's fun, and becauase you want to keep talk about FL on the downlow right?"
+    # vs "*whispers* Because it's fun, and because you want to keep talk about FL on the downlow right?"
+    vs "*whispers* Because it's fun, and because you want to keep talk about FL on the downlow right?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:96
 translate chinese q_inter_vs_7_a4e3fe5c:
@@ -255,10 +261,4 @@ translate chinese q_inter_vs_11_cd1b3d42:
 
     # vs "Bubblegum likes gum, but I think she likes your cum better. *giggles*"
     vs "Bubblegum likes gum, but I think she likes your cum better. *giggles*"
-
-# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:63
-translate chinese q_inter_vs_4_0ac7542c:
-
-    # vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
-    vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
 

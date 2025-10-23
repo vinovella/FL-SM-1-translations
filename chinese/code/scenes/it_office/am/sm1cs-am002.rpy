@@ -28,12 +28,6 @@ translate chinese sm1cs_am002_220cb3d0:
     # mc "April, you okay?"
     mc "艾普尔，你没事吧？"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:57
-translate chinese sm1cs_am002_d8baf531:
-
-    # mc "Uh... earth to April."
-    mc "呃...艾普尔，醒醒。"
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:60
 translate chinese sm1cs_am002_ba03ec07:
 
@@ -70,18 +64,6 @@ translate chinese sm1cs_am002_c9b9b334:
     # ag "Sorry for being sneaky, [mcname]."
     ag "不好意思吓到你了，[mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:78
-translate chinese sm1cs_am002_b738f380:
-
-    # mc "Totally fine. Gave my heart a workout."
-    mc "完全没关系。正好让我的心脏锻炼了一下。"
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:81
-translate chinese sm1cs_am002_ec0ac282:
-
-    # ag "Did she say anything? Did you hear her talking on her phone?"
-    ag "她有没有说什么？你有没有听到她在打电话？"
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:84
 translate chinese sm1cs_am002_14b03134:
 
@@ -106,18 +88,6 @@ translate chinese sm1cs_am002_8cb7e073:
     # mc "Is there a problem?"
     mc "有什么问题吗？"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:96
-translate chinese sm1cs_am002_87d60ae7:
-
-    # ag "Oh no. Just um... I want to make sure April is not hiding in the bathroom making personal calls on company time."
-    ag "哦，没有。只是嗯...我想确认一下艾普尔没有在洗手间里，在公司上班时间打私人电话。"
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:99
-translate chinese sm1cs_am002_791e0999:
-
-    # mc "Okay... Maybe she was getting texts? She seemed super into her phone."
-    mc "好吧...也许她在看短信？她好像一直在专心看手机。"
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:102
 translate chinese sm1cs_am002_ebca0e7d:
 
@@ -129,12 +99,6 @@ translate chinese sm1cs_am002_91ba7775:
 
     # ag "How is she doing on your work for the project?"
     ag "她在这个项目上，你俩一起的工作进展得怎么样？"
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:106
-translate chinese sm1cs_am002_a1a9e363:
-
-    # mc "Oh really good. She's a natural. And after many attempts, I think I've figured out the best way to how to ask for help without her yelling at me."
-    mc "哦，非常好。她很有天赋。而且试了很多次之后，我觉得我已经找到了最好的办法，能在不惹她对我大喊大叫的情况下向她求助。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:109
 translate chinese sm1cs_am002_e7084851:
@@ -238,12 +202,6 @@ translate chinese sm1cs_am002_acaba40a:
     # mct "Did April just use the word 'please'?"
     mct "艾普尔刚才用了'拜托'这个词吗？"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:167
-translate chinese sm1cs_am002_f178c726:
-
-    # ag "Tomorrow? No. You were supposed to have those changes to the middleware done today."
-    ag "明天？不行。你今天就应该把中间件的那些活儿修改完成。"
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:168
 translate chinese sm1cs_am002_1d114e05:
 
@@ -274,23 +232,11 @@ translate chinese sm1cs_am002_68e335dc:
     # am "There, you have your answer."
     am "喏，你已经得到答案了。"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:185
-translate chinese sm1cs_am002_5b2e2465:
-
-    # am "Look, it's like I said earlier. It will be ready tomorrow."
-    am "听着，就像我之前说的。明天就会弄好。"
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:188
 translate chinese sm1cs_am002_ff6e3ead:
 
     # ag "I don't need to-"
     ag "我不需要--"
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:189
-translate chinese sm1cs_am002_6755d878:
-
-    # ag "*sighs* April, please just talk to me. This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
-    ag "*叹气* 艾普尔，跟我好好说说吧。这可不像平时的你。我是说，风格还是有点像平时的你，但是...就算你平时总爱挖苦人、说些尖酸刻薄的话，也不至于落后这么多啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:193
 translate chinese sm1cs_am002_5915abe8:
@@ -315,12 +261,6 @@ translate chinese sm1cs_am002_4ba21ae4:
 
     # am "I've asked every month for those compatibility upgrades but no one gives me a straight answer."
     am "每个月我都在问那些兼容性升级的问题，但没人给我一个明确的答复。"
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:201
-translate chinese sm1cs_am002_189f4325:
-
-    # am "You know how fickle middleware can be. And all this squawking from you throws me off my game and sets me back even further."
-    am "你知道中间件这东西有多不稳定。而且你在这儿一直唠叨，让我没法集中精力，进度反而更慢了。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:204
 translate chinese sm1cs_am002_59f48bb5:
@@ -532,18 +472,6 @@ translate chinese sm1cs_am002_1eb5239c:
     # mc "Hah. So April was defending you."
     mc "哈。这么说艾普尔是在帮你出头。"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:311
-translate chinese sm1cs_am002_32bf65bc:
-
-    # ag "Hahaha, never. She said it was the fastest way to get his attention and didn't think it would knock him out."
-    ag "哈哈哈，才不是呢。她说那是引起那家伙注意的最快方式，而且她没想到会把人砸晕。"
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:312
-translate chinese sm1cs_am002_f19c12d3:
-
-    # ag "That was quite the day."
-    ag "那天可真是够乱的。"
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:315
 translate chinese sm1cs_am002_f25b708f:
 
@@ -568,12 +496,6 @@ translate chinese sm1cs_am002_bf8549a7:
     # mc "Loud and clear."
     mc "明白，非常清楚。"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:323
-translate chinese sm1cs_am002_812760f1:
-
-    # ag "Thanks [mcname]."
-    ag "谢谢你，[mcname]。"
-
 translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
@@ -591,4 +513,96 @@ translate chinese strings:
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
     old "She seems stressed."
     new "她看起来压力很大。"
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:57
+translate chinese sm1cs_am002_e86d99ac:
+
+    # mc "Uh... Earth to April."
+    mc "Uh... Earth to April."
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:78
+translate chinese sm1cs_am002_39bb3e71:
+
+    # mc "Totally fine.{w} Gave my heart a workout."
+    mc "Totally fine.{w} Gave my heart a workout."
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:81
+translate chinese sm1cs_am002_9222011b:
+
+    # ag "Did she say anything?{w} Did you hear her talking on her phone?"
+    ag "Did she say anything?{w} Did you hear her talking on her phone?"
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:96
+translate chinese sm1cs_am002_72c66862:
+
+    # ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
+    ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:99
+translate chinese sm1cs_am002_d06f9e7a:
+
+    # mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
+    mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:106
+translate chinese sm1cs_am002_e2dd0671:
+
+    # mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
+    mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:167
+translate chinese sm1cs_am002_9bab7d01:
+
+    # ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
+    ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:185
+translate chinese sm1cs_am002_38cb486e:
+
+    # am "Look, it's like I said earlier.{w} It will be ready tomorrow."
+    am "Look, it's like I said earlier.{w} It will be ready tomorrow."
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:189
+translate chinese sm1cs_am002_f059d2ec:
+
+    # ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
+    ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:201
+translate chinese sm1cs_am002_371de864:
+
+    # am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
+    am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:311
+translate chinese sm1cs_am002_cb355b8b:
+
+    # ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
+    ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:312
+translate chinese sm1cs_am002_a8caa986:
+
+    # ag "That was quite the day..."
+    ag "That was quite the day..."
+
+# game/code/scenes/it_office/am/sm1cs-am002.rpy:323
+translate chinese sm1cs_am002_cff053f3:
+
+    # ag "Thanks, [mcname]."
+    ag "Thanks, [mcname]."
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
+    old "You should watch where you're going"
+    new "You should watch where you're going"
+
+    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
+    old "She's a fucking menace"
+    new "She's a fucking menace"
+
+    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
+    old "She seems stressed"
+    new "She seems stressed"
 

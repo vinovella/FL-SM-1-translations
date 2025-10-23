@@ -21,12 +21,12 @@
     new "Focus on recruiting an actress by filling the actress budget"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with stacy to buy costumes"
-    new "Talk with stacy to buy costumes"
+    old "Talk with Stacy to buy costumes"
+    new "Talk with Stacy to buy costumes"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with stacy to hire actresses"
-    new "Talk with stacy to hire actresses"
+    old "Talk with Stacy to hire actresses"
+    new "Talk with Stacy to hire actresses"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Find Taisia and recruit her for the movie"
@@ -97,12 +97,12 @@
     new "Recruit Nari as the lead actress for the Sci-Fi Movie"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to stacy about Sci-Fi Movie props"
-    new "Talk to stacy about Sci-Fi Movie props"
+    old "Talk to Stacy about Sci-Fi Movie props"
+    new "Talk to Stacy about Sci-Fi Movie props"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to stacy about building the set"
-    new "Talk to stacy about building the set"
+    old "Talk to Stacy about building the set"
+    new "Talk to Stacy about building the set"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Talk to Kanya to continue building the set in Photo Dojo"
@@ -181,6 +181,6 @@
     new "Wait a couple of days"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy to film second movie"
-    new "Talk with Stacy to film second movie"
+    old "Talk with Stacy to film the second movie"
+    new "Talk with Stacy to film the second movie"
 

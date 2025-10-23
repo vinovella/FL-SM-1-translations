@@ -148,10 +148,10 @@ translate chinese sm1cs_vs_renovation_17f20e7d:
     # vs "Oh come on, [mcname]. Like you've never broken a rule."
     vs "哦，得了吧，[mcname]。你就没违反过规矩吗？"
 
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:95
-translate chinese sm1cs_vs_renovation_5b7540d5:
+# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:93
+translate chinese sm1cs_vs_renovation_9c0bc37a:
 
-    # mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming a actor in the group."
+    # mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming an actor in the group."
     mc "我确实违规过，但我可不想因此断送演员前途。"
 
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:98
@@ -697,10 +697,10 @@ translate chinese sm1cs_vs_renovation_ade0c19d:
 translate chinese strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:47
-    old "Pretend to be scared."
+    old "Pretend to be scared"
     new "装作很害怕的样子"
 
     # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:47
-    old "Act impressed."
+    old "Act impressed"
     new "表现出赞叹的样子"
 

@@ -460,12 +460,6 @@ translate chinese sm1mv02s05_cd71789f:
     # ns "*giggles*"
     ns "*giggles*"
 
-# game/code/scenes/movies/movie02/sm1mv02s05.rpy:295
-translate chinese sm1mv02s05_922daab7:
-
-    # ns "Every mountain you come acorss, you conquer."
-    ns "Every mountain you come acorss, you conquer."
-
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:298
 translate chinese sm1mv02s05_7f6a677d:
 
@@ -670,12 +664,6 @@ translate chinese sm1mv02s05_128a537c:
     # ns "Hehe."
     ns "Hehe."
 
-# game/code/scenes/movies/movie02/sm1mv02s05.rpy:400
-translate chinese sm1mv02s05_a060014c:
-
-    # ns "It's a little cold. And the bristles tipple my nipples."
-    ns "It's a little cold. And the bristles tipple my nipples."
-
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:403
 translate chinese sm1mv02s05_a8e9b060:
 
@@ -789,12 +777,6 @@ translate chinese sm1mv02s05_cdc8fd60:
 
     # sy "Later on in post, I'll go through and replace them with some basic 3d models I found."
     sy "Later on in post, I'll go through and replace them with some basic 3d models I found."
-
-# game/code/scenes/movies/movie02/sm1mv02s05.rpy:488
-translate chinese sm1mv02s05_f19e83f7:
-
-    # sy "They woun't look perfect up close, but from a distance, it will look like our ship is a fully crewed vessel."
-    sy "They woun't look perfect up close, but from a distance, it will look like our ship is a fully crewed vessel."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:492
 translate chinese sm1mv02s05_9fb527b9:
@@ -2415,4 +2397,22 @@ translate chinese sm1mv02s05_movie_start_f1a7c292:
 
     # mc "Track in on signal. Got some technology here, doesn't look hostile."
     mc "Track in on signal. Got some technology here, doesn't look hostile."
+
+# game/code/scenes/movies/movie02/sm1mv02s05.rpy:297
+translate chinese sm1mv02s05_46f309b4:
+
+    # ns "Every mountain you come across, you conquer."
+    ns "Every mountain you come across, you conquer."
+
+# game/code/scenes/movies/movie02/sm1mv02s05.rpy:401
+translate chinese sm1mv02s05_b132ad51:
+
+    # ns "It's a little cold. And the bristles tickle my nipples."
+    ns "It's a little cold. And the bristles tickle my nipples."
+
+# game/code/scenes/movies/movie02/sm1mv02s05.rpy:513
+translate chinese sm1mv02s05_710d2cab:
+
+    # sy "They won't look perfect up close, but from a distance, it will look like our ship is a fully crewed vessel."
+    sy "They won't look perfect up close, but from a distance, it will look like our ship is a fully crewed vessel."
 

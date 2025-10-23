@@ -137,10 +137,10 @@ translate chinese q_inter_cw_6_e4c37d5f:
     mc "Nope, nothing pressing."
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:86
-translate chinese q_inter_cw_6_7dd362e4:
+translate chinese q_inter_cw_6_144c0d07:
 
-    # cw "Good. I'm meeting a potential client at s new gastro-pub I've heard a lot about and don't want to be late."
-    cw "Good. I'm meeting a potential client at s new gastro-pub I've heard a lot about and don't want to be late."
+    # cw "Good. I'm meeting a potential client at a new gastro-pub I've heard a lot about and don't want to be late."
+    cw "Good. I'm meeting a potential client at a new gastro-pub I've heard a lot about and don't want to be late."
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:87
 translate chinese q_inter_cw_6_1f94f9a3:
@@ -239,10 +239,10 @@ translate chinese q_inter_cw_10_c9423ef7:
     mc "You know if I see your parents again, maybe we need to work out more backstory details."
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:137
-translate chinese q_inter_cw_10_af880d19:
+translate chinese q_inter_cw_10_1f0406dc:
 
-    # cw "No. We not. Keep it vague, Mr. Young."
-    cw "No. We not. Keep it vague, Mr. Young."
+    # cw "No. We do not. Keep it vague, Mr. Young."
+    cw "No. We do not. Keep it vague, Mr. Young."
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:138
 translate chinese q_inter_cw_10_4f4d96e6:
@@ -280,15 +280,15 @@ translate chinese q_inter_cw_11_21f87acc:
     # mc "*cutesy* Hey Honey. When is our next lunch?"
     mc "*cutesy* Hey Honey. When is our next lunch?"
 
-# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:159
+# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:160
 translate chinese q_inter_cw_11_03020337:
 
     # cw "Go away. Now."
     cw "Go away. Now."
 
-# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:161
-translate chinese q_inter_cw_11_75ec40bb:
+# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:162
+translate chinese q_inter_cw_11_9929b95c:
 
-    # mc "Message recieved."
-    mc "Message recieved."
+    # mc "Message received."
+    mc "Message received."
 

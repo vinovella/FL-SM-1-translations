@@ -22,12 +22,6 @@ translate chinese sm1cs_am005b_3772aa1f:
     # mc "With you."
     mc "和你一起..."
 
-# game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
-translate chinese sm1cs_am005b_1d7ad725:
-
-    # mc "Nevermind."
-    mc "当我没说。"
-
 # game/code/scenes/it_office/am/sm1cs-am005b.rpy:33
 translate chinese sm1cs_am005b_e1eef2d6:
 
@@ -67,4 +61,20 @@ translate chinese strings:
     # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
     old "Nevermind."
     new "当我没说"
+
+# game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
+translate chinese sm1cs_am005b_658994d8:
+
+    # mc "Never mind."
+    mc "Never mind."
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
+    old "Try out things with April"
+    new "Try out things with April"
+
+    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
+    old "Never mind"
+    new "Never mind"
 

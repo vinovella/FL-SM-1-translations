@@ -376,12 +376,6 @@ translate chinese sm1ms014_6a14826e:
     # my "I just hope it's not like [mcname] though, just posted on the internet for anyone to see."
     my "我只希望它不会像[mcname]那样，直接发布在互联网上，让任何人都能看到。"
 
-# game/code/scenes/main_story/sm1ms014.rpy:186
-translate chinese sm1ms014_8530affa:
-
-    # sy "Uhm, yeah... no internet nudies of me..."
-    sy "嗯，是的...网上没有我的裸照..."
-
 # game/code/scenes/main_story/sm1ms014.rpy:190
 translate chinese sm1ms014_fa381239:
 
@@ -1063,4 +1057,10 @@ translate chinese strings:
     # game/code/scenes/main_story/sm1ms014.rpy:546
     old "You spent $300 on renovation equipment"
     new "你在装修设备上花了$300 "
+
+# game/code/scenes/main_story/sm1ms014.rpy:186
+translate chinese sm1ms014_4834ec4b:
+
+    # sy "Uhm, yeah... no internet nudes of me..."
+    sy "Uhm, yeah... no internet nudes of me..."
 

@@ -826,18 +826,6 @@ translate chinese sm1ms016_b66f79f2:
     # my "I'll swing by tomorrow and check in."
     my "我明天顺道过来看看情况。"
 
-# game/code/scenes/main_story/sm1ms016.rpy:413
-translate chinese sm1ms016_f02441da:
-
-    # mc "Bye mom."
-    mc "妈妈再见。"
-
-# game/code/scenes/main_story/sm1ms016.rpy:415
-translate chinese sm1ms016_321171ea:
-
-    # sy "Bye mom."
-    sy "妈妈再见。"
-
 # game/code/scenes/main_story/sm1ms016.rpy:417
 translate chinese sm1ms016_a2ebb134:
 
@@ -885,4 +873,16 @@ translate chinese sm1ms016_7c52fcb9:
 
     # sy "Just a little paint."
     sy "就画一点。"
+
+# game/code/scenes/main_story/sm1ms016.rpy:413
+translate chinese sm1ms016_1cdacc1d:
+
+    # mc "Bye Mom."
+    mc "Bye Mom."
+
+# game/code/scenes/main_story/sm1ms016.rpy:415
+translate chinese sm1ms016_f63e17b6:
+
+    # sy "Bye Mom."
+    sy "Bye Mom."
 

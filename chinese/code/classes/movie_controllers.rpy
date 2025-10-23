@@ -48,8 +48,6 @@
     old "Sci-Fi Movie"
     new "Sci-Fi Movie"
 
-translate chinese strings:
-
     # game/code/classes/movie_controllers.rpy:246
     old "Add {amount}"
     new "Add {amount}"

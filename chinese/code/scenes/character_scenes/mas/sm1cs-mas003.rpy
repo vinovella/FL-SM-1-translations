@@ -988,12 +988,6 @@ translate chinese sm1cs_mas003_third_delivery_7683afef:
     # ms "Oh, thank god we're at the last dropoff."
     ms "哦谢天谢地，终于到最后一个送货点了。"
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
-translate chinese sm1cs_mas003_third_delivery_ee8e823e:
-
-    # ms "Nevermind."
-    ms "算了，不说这个了。"
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:590
 translate chinese sm1cs_mas003_third_delivery_f166395e:
 
@@ -1715,4 +1709,10 @@ translate chinese sm1cs_mas003_third_delivery_9ed10f06:
 
     # ms "Show's over, ladies."
     ms "Show's over, ladies."
+
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
+translate chinese sm1cs_mas003_third_delivery_7eec6586:
+
+    # ms "Never mind."
+    ms "Never mind."
 

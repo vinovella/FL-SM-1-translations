@@ -40,12 +40,6 @@ translate chinese sm1cs_dc004_6ce4cbe3:
     # dc "Yeah..."
     dc "好吧..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:25
-translate chinese sm1cs_dc004_f1498a85:
-
-    # mc "But I wanted to ask you something. The other day, at coffe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-    mc "不过我想问你件事。那天喝咖啡时，你突然匆匆忙忙走了。是出什么事了吗？我说错什么了吗？"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:29
 translate chinese sm1cs_dc004_4005297e:
 
@@ -81,4 +75,10 @@ translate chinese sm1cs_dc004_404eabfc:
 
     # mct "I guess all I can do is try and talk to her later..."
     mct "只能改天再找她聊聊了..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:25
+translate chinese sm1cs_dc004_768b2899:
+
+    # mc "But I wanted to ask you something. The other day, at coffee, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+    mc "But I wanted to ask you something. The other day, at coffee, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
 

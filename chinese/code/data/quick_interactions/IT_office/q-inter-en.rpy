@@ -95,10 +95,10 @@ translate chinese q_inter_en_4_a3aefbf0:
     mc "Okay, okay. I get it. I'll email you."
 
 # game/code/data/quick_interactions/IT_office/q-inter-en.rpy:57
-translate chinese q_inter_en_5_087c17a6:
+translate chinese q_inter_en_5_882773aa:
 
-    # mc "How'd your morning going, Eugene?"
-    mc "How'd your morning going, Eugene?"
+    # mc "How's your morning going, Eugene?"
+    mc "How's your morning going, Eugene?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-en.rpy:59
 translate chinese q_inter_en_5_76d6b633:

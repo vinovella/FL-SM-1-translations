@@ -112,12 +112,6 @@ translate chinese sm1cs_km001_6d319b2b:
     # km "Hmmm."
     km "嗯..."
 
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:73
-translate chinese sm1cs_km001_cf4ca314:
-
-    # mct "Why is she shopping?"
-    mct "她在挑什么东西呢？"
-
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:76
 translate chinese sm1cs_km001_85ea63d5:
 
@@ -195,12 +189,6 @@ translate chinese sm1cs_km001_96bad0e1:
 
     # km "You're trying to join a theater troupe, not a high-school drama class."
     km "你想加入的是一个真正的剧团，可不是高中的戏剧社团。"
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:125
-translate chinese sm1cs_km001_ce55f90f:
-
-    # km "Unless you're afraid to lose to a girl"
-    km "除非你害怕输给一个女生。"
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:133
 translate chinese sm1cs_km001_ba81f3ed:
@@ -333,12 +321,6 @@ translate chinese sm1cs_km001_085722e2:
 
     # mc "What?!"
     mc "什么?!"
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:249
-translate chinese sm1cs_km001_e1139fdc:
-
-    # km "Hmmm. Not bad for a amateur."
-    km "嗯。作为一个业余的来说还不错。"
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:254
 translate chinese sm1cs_km001_e79f08af:
@@ -547,4 +529,32 @@ translate chinese strings:
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:189
     old "Be sneaky and go low"
     new "偷偷攻击她的下盘"
+
+# game/code/scenes/theatre/km/sm1cs-km001.rpy:73
+translate chinese sm1cs_km001_b55f6d50:
+
+    # mct "Why is she snooping?"
+    mct "Why is she snooping?"
+
+# game/code/scenes/theatre/km/sm1cs-km001.rpy:116
+translate chinese sm1cs_km001_7262d936:
+
+    # km "Unless you're afraid to lose to a girl."
+    km "Unless you're afraid to lose to a girl."
+
+# game/code/scenes/theatre/km/sm1cs-km001.rpy:240
+translate chinese sm1cs_km001_7ca99b3a:
+
+    # km "Hmmm. Not bad for an amateur."
+    km "Hmmm. Not bad for an amateur."
+
+translate chinese strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
+    old "I'll go easy on you"
+    new "I'll go easy on you"
+
+    # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
+    old "Let's dance, Kellie"
+    new "Let's dance, Kellie"
 

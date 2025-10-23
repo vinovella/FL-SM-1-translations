@@ -124,12 +124,6 @@ translate chinese sm1ms004_bd406131:
     # arj "Yeah, and how long until they're broken?"
     arj "啊，新买的用不了多久又得坏，不是吗？"
 
-# game/code/scenes/main_story/sm1ms004.rpy:69
-translate chinese sm1ms004_38f4d5b9:
-
-    # arj "Nevermind. It doesn't matter."
-    arj "算了。不重要。"
-
 # game/code/scenes/main_story/sm1ms004.rpy:70
 translate chinese sm1ms004_0bc059a3:
 
@@ -364,12 +358,6 @@ translate chinese sm1ms004_0262f624:
     # mc "Well, I guess that ends the tour."
     mc "好吧，我想参观到此结束。"
 
-# game/code/scenes/main_story/sm1ms004.rpy:171
-translate chinese sm1ms004_a74686a4:
-
-    # mct "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-    mct "要是你跟史黛西说这件事的话，你或许得把话说得委婉些。她对这一切都很乐观，我不想让她失去信心。"
-
 # game/code/scenes/main_story/sm1ms004.rpy:174
 translate chinese sm1ms004_d2195659:
 
@@ -586,15 +574,27 @@ translate chinese sm1ms004_93730c07:
     # mct "That was interesting.{w} I feel good - like AmRose is coming back around to liking us."
     mct "真有意思。{w}我感觉很好--好像爱洛丝又开始喜欢我们了。"
 
-# game/code/scenes/main_story/sm1ms004.rpy:266
-translate chinese sm1ms004_46109a1d:
-
-    # mct "Maybe this isn't completely fucked afterall."
-    mct "也许这一切并没有完全搞砸。"
-
 # game/code/scenes/main_story/sm1ms004.rpy:268
 translate chinese sm1ms004_fcf11b81:
 
     # mct "Still, I can't help feeling like I missed something really important."
     mct "但我还是忍不住觉得，我错过了一些很重要的东西。"
+
+# game/code/scenes/main_story/sm1ms004.rpy:69
+translate chinese sm1ms004_6ca11396:
+
+    # arj "Never mind. It doesn't matter."
+    arj "Never mind. It doesn't matter."
+
+# game/code/scenes/main_story/sm1ms004.rpy:171
+translate chinese sm1ms004_b80a46ec:
+
+    # mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+    mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+
+# game/code/scenes/main_story/sm1ms004.rpy:266
+translate chinese sm1ms004_738d94cc:
+
+    # mct "Maybe this isn't completely fucked after all."
+    mct "Maybe this isn't completely fucked after all."
 

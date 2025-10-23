@@ -88,12 +88,6 @@ translate chinese sm1cs_am006_e5a1dd91:
     # am "Haha."
     am "哈哈。"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:54
-translate chinese sm1cs_am006_ef01ca54:
-
-    # mc "Isn't the customer always lying?"
-    mc "不是说‘客户永远是对的’吗？"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:57
 translate chinese sm1cs_am006_5671f688:
 
@@ -388,12 +382,6 @@ translate chinese sm1cs_am006_arcade_5bd7e194:
     # am "*clears throat*"
     am "*清嗓子*"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:227
-translate chinese sm1cs_am006_arcade_3a045f0c:
-
-    # am "I know I can be a lot. That's what you're thinking, right?"
-    am "我知道我有时候挺让人受不了的。你心里就是这么想的，对不对？"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:230
 translate chinese sm1cs_am006_arcade_d3ecb31c:
 
@@ -418,12 +406,6 @@ translate chinese sm1cs_am006_arcade_4b9a7996:
     # am "If your shields are up, no one can come aboard and talk to you."
     am "要是你把心防筑得太高，就没人能走进你的心里，跟你好好相处了。"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:238
-translate chinese sm1cs_am006_arcade_fc17eca6:
-
-    # mc "So. These shields. They're down now?"
-    mc "所以，你说的心防，现在是放下了吗？"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:241
 translate chinese sm1cs_am006_arcade_ca7b10c6:
 
@@ -441,18 +423,6 @@ translate chinese sm1cs_am006_arcade_1c8acf17:
 
     # am "..."
     am "..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:250
-translate chinese sm1cs_am006_arcade_f97f119b:
-
-    # am "I'm not that easy, [mcname]."
-    am "[mcname]，我可没那么容易对你敞开心扉。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:253
-translate chinese sm1cs_am006_arcade_d66cf936:
-
-    # mc "The last time we were out, you asked me to fuck you in your car."
-    mc "上次我们出去的时候，你还让我在你车里跟你做爱呢。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:256
 translate chinese sm1cs_am006_arcade_f6fc5558:
@@ -508,12 +478,6 @@ translate chinese sm1cs_am006_arcade_f46b669d:
     # mc "*chuckles*"
     mc "*被逗笑*"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:290
-translate chinese sm1cs_am006_arcade_9f4b1aa7:
-
-    # mct "I remember this machine. It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
-    mct "我记得这种机器。把球投进大圈里其实挺容易的，但要想拿高分，就得把球投进小圈里。"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:294
 translate chinese sm1cs_am006_arcade_4f43ac1a:
 
@@ -526,23 +490,11 @@ translate chinese sm1cs_am006_arcade_5308db9d:
     # am "We'll go in threes."
     am "我们一局投三个球。"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:318
-translate chinese sm1cs_am006_arcade_3427dd07:
-
-    # am "I'm a little rusty."
-    am "我都有点生疏了。"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:321
 translate chinese sm1cs_am006_arcade_a03938bb:
 
     # mc "You know you're supposed to go for the smaller holes."
     mc "你知道吧，应该瞄准那些小洞投。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:324
-translate chinese sm1cs_am006_arcade_ac3fad90:
-
-    # am "And you know you're never going to see my smaller hole acting like that."
-    am "你也该知道，你要是一直这么说话，这辈子都别想看到我的‘小洞’。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:338
 translate chinese sm1cs_am006_arcade_17639bac:
@@ -562,47 +514,17 @@ translate chinese sm1cs_am006_arcade_666143da:
     # mc "I think I know the problem."
     mc "我想我知道问题在哪儿了。"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:352
-translate chinese sm1cs_am006_arcade_a3cb1ef6:
-
-    # am "It's gotta be you. When I do this alone, I always score way higher."
-    am "肯定是因为你。我自己玩的时候分数总是高得多。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:355
-translate chinese sm1cs_am006_arcade_66098328:
-
-    # mc "That might be it. Or it's because you're not really letting yourself relax."
-    mc "也许是吧。或者是因为你根本没让自己放松下来。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:364
-translate chinese sm1cs_am006_arcade_c75da145:
-
-    # mc "I was watching you. Your body was so stiff and tense."
-    mc "我刚才观察你了。你身体绷得太紧、太僵硬了。"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:367
 translate chinese sm1cs_am006_arcade_9bb62813:
 
     # am "I know how to throw a fucking ball."
     am "我知道该怎么扔球，不用你教。"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:371
-translate chinese sm1cs_am006_arcade_d7551d98:
-
-    # mc "Yeah, sounds like you're totally relaxed."
-    mc "是啊，听上去你完全放松了。"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:377
 translate chinese sm1cs_am006_arcade_8b7ce4f0:
 
     # am "*grumbles* You're just lucky."
     am "*嘟囔着* 你只是走运。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:380
-translate chinese sm1cs_am006_arcade_b1eb74bd:
-
-    # mc "Once is lucky. Twice is good."
-    mc "一次是运气。两次是实力。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:384
 translate chinese sm1cs_am006_arcade_c654b893:
@@ -628,23 +550,11 @@ translate chinese sm1cs_am006_arcade_4af71457:
     # mc "You going to tell me the last time you lowered your shields?"
     mc "你现在该告诉我，你上一次放下心防是什么时候了吧？"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:402
-translate chinese sm1cs_am006_arcade_b426e714:
-
-    # am "No way. Best two out of three."
-    am "没门。三局两胜，还没结束呢。"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:434
 translate chinese sm1cs_am006_arcade_c1e7f53c:
 
     # mc "Damn."
     mc "靠。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:439
-translate chinese sm1cs_am006_arcade_86e51696:
-
-    # am "Yes! Wooh. She shoots, she scores!"
-    am "耶！哇哦。投中了，得分了！"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:440
 translate chinese sm1cs_am006_arcade_6025dd85:
@@ -658,12 +568,6 @@ translate chinese sm1cs_am006_arcade_e682b87a:
     # am "You like that?"
     am "你服不服？"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:448
-translate chinese sm1cs_am006_arcade_292e3b29:
-
-    # am "In your face! In your stupid handsome face!"
-    am "你个弱鸡！你那张帅气的蠢脸快服输！"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:451
 translate chinese sm1cs_am006_arcade_ebaaa585:
 
@@ -675,12 +579,6 @@ translate chinese sm1cs_am006_arcade_6fc685b2:
 
     # mc "Having fun?"
     mc "玩得开心吗？"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:457
-translate chinese sm1cs_am006_arcade_f224e2d1:
-
-    # am "Oh yeah. Forget I said anything."
-    am "当然了。忘了我刚才说的吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:460
 translate chinese sm1cs_am006_arcade_c409f6a1:
@@ -730,12 +628,6 @@ translate chinese sm1cs_am006_arcade_f46b669d_1:
     # mc "*chuckles*"
     mc "*嗤笑*"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:491
-translate chinese sm1cs_am006_arcade_ba5353b8:
-
-    # mc "So spill it. When was the last time you let your shields down?"
-    mc "所以快说吧。你上一次放下心防是什么时候？"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:494
 translate chinese sm1cs_am006_arcade_fb2050be:
 
@@ -760,36 +652,6 @@ translate chinese sm1cs_am006_arcade_48643627:
     # am "I... I don't really remember."
     am "我...我真记不清了。"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:511
-translate chinese sm1cs_am006_arcade_467b5add:
-
-    # mc "Okay liar."
-    mc "行吧，你个骗子。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:514
-translate chinese sm1cs_am006_arcade_72bac36e:
-
-    # am "I'm not a liar. I... I really mean it, [mcname]."
-    am "我没有骗人。我...我说的是真的，[mcname]。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:515
-translate chinese sm1cs_am006_arcade_c1253295:
-
-    # am "It's probably been years."
-    am "可能都过去好几年了。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:518
-translate chinese sm1cs_am006_arcade_4a514cd2:
-
-    # am "When I started getting really good at coding, a lot of guys {i}changed{/i} how they acted toward me."
-    am "我开始在编程上变得很厉害之后，很多男生对我的态度都{i}变了{/i}。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:519
-translate chinese sm1cs_am006_arcade_bc06e96c:
-
-    # am "Or worse. Some friends I'd known for years turned into super assholes."
-    am "有的甚至更过分。一些我认识了好几年的朋友，也变得特别混蛋。"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:527
 translate chinese sm1cs_am006_arcade_9d96222d:
 
@@ -801,18 +663,6 @@ translate chinese sm1cs_am006_arcade_a490bba1:
 
     # am "It wasn't enough to destroy them with my code and just being better than them."
     am "光靠写代码赢过他们、证明自己比他们强，还不够。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:540
-translate chinese sm1cs_am006_arcade_9bb599a4:
-
-    # am "I had to break them with my words. Or at least get them to leave me the hell alone."
-    am "我还得用言语击垮他们。至少得让他们别来烦我。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:543
-translate chinese sm1cs_am006_arcade_92a22754:
-
-    # mc "Is that why you treat Anna like you do? Because she got the promotion and is now above you?"
-    mc "所以你才那样对待安娜吗？是不是因为她升职了，现在职位比你高？"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:546
 translate chinese sm1cs_am006_arcade_dd5f61ea:
@@ -838,29 +688,11 @@ translate chinese sm1cs_am006_arcade_8410e8c3:
     # am "I don't know why I'm talking to you about this stuff."
     am "我都不知道自己为什么要跟你说这些。"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:556
-translate chinese sm1cs_am006_arcade_544a9504:
-
-    # mc "Maybe because I'm the first non-asshole who saw the real you? Underneath the barbs."
-    mc "或许是因为我是第一个没那么混蛋，还看到了你真实一面的人吧？只有我看到了你那些尖酸刻薄背后的样子。"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:557
 translate chinese sm1cs_am006_arcade_77ff2085:
 
     # mc "You're like a cute porcupine."
     mc "你就像只可爱的豪猪。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:560
-translate chinese sm1cs_am006_arcade_4e623dfd:
-
-    # am "Hmmph. Maybe you're onto something."
-    am "哼。或许你说的有点道理。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:561
-translate chinese sm1cs_am006_arcade_c4a11646:
-
-    # am "But I think it's just that I have a crush on you. And one day, it will wear off."
-    am "我倒是觉得更可能是，我对你有点好感。不过总有一天，这份好感会消失的。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:567
 translate chinese sm1cs_am006_arcade_c183e4f5:
@@ -873,12 +705,6 @@ translate chinese sm1cs_am006_arcade_372ed858:
 
     # am "You... really mean that?"
     am "你...你说的是真的？"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:573
-translate chinese sm1cs_am006_arcade_7b4325ae:
-
-    # mc "I do. Maybe we can test things out again."
-    mc "是真的。或许我们可以再试试，看看能不能发展下去。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:576
 translate chinese sm1cs_am006_arcade_9af134a8:
@@ -970,12 +796,6 @@ translate chinese sm1cs_am006_arcade_96580cbd:
     # am "Wait!"
     am "等等！"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:619
-translate chinese sm1cs_am006_arcade_a1bbe86b:
-
-    # mc "Okay, okay. We don't have to-"
-    mc "行行行。不想吻也没关系--"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:623
 translate chinese sm1cs_am006_arcade_ee6128e5:
 
@@ -1011,12 +831,6 @@ translate chinese sm1cs_am006_arcade_e32ab0a4:
 
     # am "Mmmmm."
     am "嗯..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:642
-translate chinese sm1cs_am006_arcade_d206c2fd:
-
-    # mct "Woah. She's... she's really into this."
-    mct "哇哦。她...她好像真的很投入。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:645
 translate chinese sm1cs_am006_arcade_c42b05ac:
@@ -1054,12 +868,6 @@ translate chinese sm1cs_am006_arcade_43393439:
     # mc "Did you?"
     mc "你湿了吗？"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:661
-translate chinese sm1cs_am006_arcade_285422b5:
-
-    # am "What? No. Of course I didn't. Shut up."
-    am "什么？没有。我当然没有。闭嘴。"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:664
 translate chinese sm1cs_am006_arcade_6e779a52:
 
@@ -1078,35 +886,17 @@ translate chinese sm1cs_am006_arcade_5974a2b0:
     # mc "April... It's not just about what I want."
     mc "艾普尔...这不只是我想怎么样的问题。"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:671
-translate chinese sm1cs_am006_arcade_732d2098:
-
-    # am "I know. I don't know what's gotten into me."
-    am "我知道。我都不知道自己是怎么了。"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:672
 translate chinese sm1cs_am006_arcade_b43108d8:
 
     # am "I hate this. Not being in control. But... {w} when I try to think about stopping this."
     am "我讨厌这种感觉。讨厌自己失去掌控。可是...{w}每当我想停下来的时候。"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:675
-translate chinese sm1cs_am006_arcade_1358c39d:
-
-    # am "I hate that thought more."
-    am "我更讨厌停下来这个想法。"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:676
 translate chinese sm1cs_am006_arcade_2b35b6fe_1:
 
     # mc "..."
     mc "..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:679
-translate chinese sm1cs_am006_arcade_51de11e4:
-
-    # mc "So what happens now."
-    mc "那现在怎么办？"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:682
 translate chinese sm1cs_am006_arcade_312ca60f:
@@ -1119,18 +909,6 @@ translate chinese sm1cs_am006_arcade_4fce75df:
 
     # am "And... I... I ended up having a good time on our date, [mcname]."
     am "还有...我...[mcname]，这次约会我其实玩得很开心。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:684
-translate chinese sm1cs_am006_arcade_07abde05:
-
-    # am "You were right, this was a good idea."
-    am "你说得对，选这个地方是个好主意。"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:685
-translate chinese sm1cs_am006_arcade_e99f4fca:
-
-    # am "I just. For now, I still need time."
-    am "只是。现在的话，我还需要一点时间。"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:688
 translate chinese sm1cs_am006_arcade_6857bc43:
@@ -1257,4 +1035,278 @@ translate chinese strings:
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
     old "Don't kiss April."
     new "不吻艾普尔"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:54
+translate chinese sm1cs_am006_58ee8e36:
+
+    # mc "Isn't the customer always right?"
+    mc "Isn't the customer always right?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:227
+translate chinese sm1cs_am006_arcade_6c8b6bb5:
+
+    # am "I {b}know{/b} I can be a lot.{w} That's what you're thinking, right?"
+    am "I {b}know{/b} I can be a lot.{w} That's what you're thinking, right?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:238
+translate chinese sm1cs_am006_arcade_e0313ce3:
+
+    # mc "So you're going to try lowering your shields?"
+    mc "So you're going to try lowering your shields?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:250
+translate chinese sm1cs_am006_arcade_073a951f:
+
+    # am "I'm not {b}that{/b} easy, [mcname]."
+    am "I'm not {b}that{/b} easy, [mcname]."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:253
+translate chinese sm1cs_am006_arcade_3b107314:
+
+    # mc "The last time we were out, you asked me to fuck you in your car..."
+    mc "The last time we were out, you asked me to fuck you in your car..."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:290
+translate chinese sm1cs_am006_arcade_521a9133:
+
+    # mct "I remember this machine.{w} It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
+    mct "I remember this machine.{w} It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:318
+translate chinese sm1cs_am006_arcade_134ebe15:
+
+    # am "I'm a little rusty..."
+    am "I'm a little rusty..."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:324
+translate chinese sm1cs_am006_arcade_ebdf84e1:
+
+    # am "And you know you're never going to see my smaller {b}hole{/b} acting like that."
+    am "And you know you're never going to see my smaller {b}hole{/b} acting like that."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:352
+translate chinese sm1cs_am006_arcade_cbdde717:
+
+    # am "It's gotta be you.{w} When I do this alone, I always score way higher."
+    am "It's gotta be you.{w} When I do this alone, I always score way higher."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:355
+translate chinese sm1cs_am006_arcade_ee626115:
+
+    # mc "That might be it.{w} Or it's because you're not really letting yourself relax."
+    mc "That might be it.{w} Or it's because you're not really letting yourself relax."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:364
+translate chinese sm1cs_am006_arcade_52b129bf:
+
+    # mc "I studied your movements, April.{w} Your body was so stiff and tense."
+    mc "I studied your movements, April.{w} Your body was so stiff and tense."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:371
+translate chinese sm1cs_am006_arcade_f9779a86:
+
+    # mc "Yeah, sounds like you're {b}totally{/b} relaxed."
+    mc "Yeah, sounds like you're {b}totally{/b} relaxed."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:380
+translate chinese sm1cs_am006_arcade_cfd32586:
+
+    # mc "Once is lucky.{w} Twice is just plain {b}good{/b}."
+    mc "Once is lucky.{w} Twice is just plain {b}good{/b}."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:402
+translate chinese sm1cs_am006_arcade_999e1d2f:
+
+    # am "No way.{w} Best two out of three."
+    am "No way.{w} Best two out of three."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:439
+translate chinese sm1cs_am006_arcade_585579e4:
+
+    # am "Yes!{w} Wooh. She shoots, she scores!"
+    am "Yes!{w} Wooh. She shoots, she scores!"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:448
+translate chinese sm1cs_am006_arcade_39c7e4cc:
+
+    # am "In your face!{w} In your stupid handsome face!"
+    am "In your face!{w} In your stupid handsome face!"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:457
+translate chinese sm1cs_am006_arcade_97275737:
+
+    # am "Oh yeah.{w} Forget I said anything."
+    am "Oh yeah.{w} Forget I said anything."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:491
+translate chinese sm1cs_am006_arcade_140a6992:
+
+    # mc "So spill it.{w} When was the last time you let your shields down?"
+    mc "So spill it.{w} When was the last time you let your shields down?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:511
+translate chinese sm1cs_am006_arcade_288b6525:
+
+    # mc "Okay, liar."
+    mc "Okay, liar."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:514
+translate chinese sm1cs_am006_arcade_e0d555f5:
+
+    # am "I'm not lying.{w} I... I really mean it, [mcname]."
+    am "I'm not lying.{w} I... I really mean it, [mcname]."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:515
+translate chinese sm1cs_am006_arcade_14e32ccd:
+
+    # am "It's probably been years..."
+    am "It's probably been years..."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:518
+translate chinese sm1cs_am006_arcade_b70189dd:
+
+    # am "Around middle school is when I realized how good I was with computers..."
+    am "Around middle school is when I realized how good I was with computers..."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:519
+translate chinese sm1cs_am006_arcade_49acd481:
+
+    # am "When I started getting really good, a lot of guys {i}changed{/i} how they acted toward me."
+    am "When I started getting really good, a lot of guys {i}changed{/i} how they acted toward me."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:520
+translate chinese sm1cs_am006_arcade_d1126a46:
+
+    # am "Sometimes it was small changes.{w} Other times..."
+    am "Sometimes it was small changes.{w} Other times..."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:521
+translate chinese sm1cs_am006_arcade_ffa0b403:
+
+    # am "I lost friends.{w} People I knew for years turned into super assholes."
+    am "I lost friends.{w} People I knew for years turned into super assholes."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:524
+translate chinese sm1cs_am006_arcade_53a463b4:
+
+    # mct "I can't imagine that was easy."
+    mct "I can't imagine that was easy."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:542
+translate chinese sm1cs_am006_arcade_2be93e70:
+
+    # am "I had to break them with my words.{w} Or at least get them to leave me the hell alone."
+    am "I had to break them with my words.{w} Or at least get them to leave me the hell alone."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:545
+translate chinese sm1cs_am006_arcade_1579fa81:
+
+    # mc "Is that why you treat Anna like you do?{w} Because she got the promotion and is now above you?"
+    mc "Is that why you treat Anna like you do?{w} Because she got the promotion and is now above you?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:558
+translate chinese sm1cs_am006_arcade_1106ff6e:
+
+    # mc "Maybe because I'm the first non-asshole who saw the {i}real{/i} you?{w} Underneath the barbs."
+    mc "Maybe because I'm the first non-asshole who saw the {i}real{/i} you?{w} Underneath the barbs."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:562
+translate chinese sm1cs_am006_arcade_d4cb5c7b:
+
+    # am "Hmmph.{w} Maybe you're onto something."
+    am "Hmmph.{w} Maybe you're onto something."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:563
+translate chinese sm1cs_am006_arcade_33057f39:
+
+    # am "But more realistically, it's probably because I have a crush on you."
+    am "But more realistically, it's probably because I have a crush on you."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:564
+translate chinese sm1cs_am006_arcade_ed63b19c:
+
+    # am "And one day, it will wear off."
+    am "And one day, it will wear off."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:576
+translate chinese sm1cs_am006_arcade_536b2a6a:
+
+    # mc "I do.{w} Maybe we can test things out again."
+    mc "I do.{w} Maybe we can test things out again."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:588
+translate chinese sm1cs_am006_arcade_db3fe2b0:
+
+    # mc "*softly* The basics."
+    mc "*softly* The basics."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:623
+translate chinese sm1cs_am006_arcade_811460c5:
+
+    # mc "Okay, okay.{w} We don't have to-"
+    mc "Okay, okay.{w} We don't have to-"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:646
+translate chinese sm1cs_am006_arcade_8441b9e9:
+
+    # mct "Woah.{w} She's... she's really into this."
+    mct "Woah.{w} She's... she's really into this."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:665
+translate chinese sm1cs_am006_arcade_07a645a2:
+
+    # am "What?{w} No. Of course I didn't.{w} Shut up!"
+    am "What?{w} No. Of course I didn't.{w} Shut up!"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:675
+translate chinese sm1cs_am006_arcade_9eebb2e3:
+
+    # am "I know.{w} I don't know what's gotten into me."
+    am "I know.{w} I don't know what's gotten into me."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:679
+translate chinese sm1cs_am006_arcade_5446535a:
+
+    # am "I {b}hate{/b} that thought more."
+    am "I {b}hate{/b} that thought more."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:683
+translate chinese sm1cs_am006_arcade_157700e7:
+
+    # mc "So what happens now?"
+    mc "So what happens now?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:688
+translate chinese sm1cs_am006_arcade_f98c4280:
+
+    # am "You {i}were{/i} right, this was a good idea."
+    am "You {i}were{/i} right, this was a good idea."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:689
+translate chinese sm1cs_am006_arcade_bb8e3797:
+
+    # am "I just.{w} For now, I still need time."
+    am "I just.{w} For now, I still need time."
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
+    old "That really sucks"
+    new "That really sucks"
+
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
+    old "You look great"
+    new "You look great"
+
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:565
+    old "I hope it doesn't"
+    new "I hope it doesn't"
+
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
+    old "Kiss April again"
+    new "Kiss April again"
+
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
+    old "Don't kiss April"
+    new "Don't kiss April"
 

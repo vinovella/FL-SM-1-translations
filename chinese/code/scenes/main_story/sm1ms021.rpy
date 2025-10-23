@@ -112,12 +112,6 @@ translate chinese sm1ms021_7129dea6:
     # mc "Nice."
     mc "厉害。"
 
-# game/code/scenes/main_story/sm1ms021.rpy:69
-translate chinese sm1ms021_e9a1395f:
-
-    # mc "You're talking about me, dick, right?"
-    mc "你说的是我，还有我的老二，对吧？"
-
 # game/code/scenes/main_story/sm1ms021.rpy:73
 translate chinese sm1ms021_033974e5:
 
@@ -183,12 +177,6 @@ translate chinese sm1ms021_03d3460b:
 
     # sy "Same here. I mean, you’re the one who kept me sane through all of this."
     sy "我也是。说真的，这段时间全靠你，我才没被逼疯。"
-
-# game/code/scenes/main_story/sm1ms021.rpy:112
-translate chinese sm1ms021_26fb55b4:
-
-    # sy "And with mom around, it's been just a little bit more hectic."
-    sy "而且妈妈在这儿，很多事儿也变得比以前更忙乱了点。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:114
 translate chinese sm1ms021_28d98971:
@@ -645,4 +633,16 @@ translate chinese sm1ms021_3829caaa:
 
     # sy "For the dream! Hehehe!"
     sy "为了梦想！嘿嘿嘿！"
+
+# game/code/scenes/main_story/sm1ms021.rpy:69
+translate chinese sm1ms021_f93fec35:
+
+    # mc "You're talking about my dick, right?"
+    mc "You're talking about my dick, right?"
+
+# game/code/scenes/main_story/sm1ms021.rpy:112
+translate chinese sm1ms021_1092c087:
+
+    # sy "And with Mom around, it's been just a little bit more hectic."
+    sy "And with Mom around, it's been just a little bit more hectic."
 

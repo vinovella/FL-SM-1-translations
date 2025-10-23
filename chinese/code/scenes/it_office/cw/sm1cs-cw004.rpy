@@ -916,12 +916,6 @@ translate chinese sm1cs_cw004_later_469ced3c:
     # fw "Some things never change."
     fw "Some things never change."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:540
-translate chinese sm1cs_cw004_later_b55f8aba:
-
-    # cw "How is he, daddy?"
-    cw "How is he, daddy?"
-
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:542
 translate chinese sm1cs_cw004_later_0d6be925:
 
@@ -1137,12 +1131,6 @@ translate chinese sm1cs_cw004_first_evening_9360d66a:
 
     # mc "Oh, Mrs. Watts."
     mc "Oh, Mrs. Watts."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:673
-translate chinese sm1cs_cw004_first_evening_0e6a755a:
-
-    # fw "Farrah please, [mcname]."
-    fw "Farrah please, [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:676
 translate chinese sm1cs_cw004_first_evening_90ebc5b5:
@@ -1654,12 +1642,6 @@ translate chinese sm1cs_cw004_first_evening_5b77b33c:
     # cw "Hmmph."
     cw "Hmmph."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:899
-translate chinese sm1cs_cw004_first_evening_a1c866a5:
-
-    # cw "*whispers*Stop resisting."
-    cw "*whispers*Stop resisting."
-
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:902
 translate chinese sm1cs_cw004_first_evening_5ffac718:
 
@@ -2007,4 +1989,28 @@ translate chinese strings:
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:723
     old "Resist!"
     new "Resist!"
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:540
+translate chinese sm1cs_cw004_later_6251a886:
+
+    # cw "How is he, Daddy?"
+    cw "How is he, Daddy?"
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:674
+translate chinese sm1cs_cw004_first_evening_7d3aec05:
+
+    # fw "Farah please, [mcname]."
+    fw "Farah please, [mcname]."
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:900
+translate chinese sm1cs_cw004_first_evening_19a0c527:
+
+    # cw "*whispers* Stop resisting."
+    cw "*whispers* Stop resisting."
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
+    old "Sure let's do it"
+    new "Sure let's do it"
 

@@ -656,3 +656,9 @@ translate chinese strings:
     old "There must be a special form."
     new "肯定有什么特别的技巧"
 
+translate chinese strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30
+    old "There must be a special form"
+    new "There must be a special form"
+

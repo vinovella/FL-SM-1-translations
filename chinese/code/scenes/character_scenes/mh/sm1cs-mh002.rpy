@@ -166,12 +166,6 @@ translate chinese sm1cs_mh002_cdabea3b:
     # mh "I was just pulling your leg. From what I heard of, things picked up pace near the end of the semester."
     mh "逗你们玩呢。我听说学期末那会儿，事态发展得很快。"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:117
-translate chinese sm1cs_mh002_dc49e860:
-
-    # mh "It sounds like once you guys picked up steam, you were able to pierce the vale of mystery quite quickly to figure out what Lydia was doing."
-    mh "听起来你们一旦开足马力，很快就戳破了谜团，揭穿了莉迪亚的勾当。"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:120
 translate chinese sm1cs_mh002_dcbc8343:
 
@@ -393,4 +387,10 @@ translate chinese sm1cs_mh002_92b73ecf:
 
     # mh "Ciao."
     mh "回见。"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:117
+translate chinese sm1cs_mh002_4165b5fc:
+
+    # mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
+    mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
 

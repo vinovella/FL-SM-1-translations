@@ -346,12 +346,6 @@ translate chinese sm1fs_i002_a90c2b05:
     # mc "I'm sorry Ms. Watts."
     mc "对不起，沃茨女士。"
 
-# game/code/scenes/it_office/sm1fs-i002.rpy:192
-translate chinese sm1fs_i002_a9811fae:
-
-    # cw "It's fine, lets just try to keep it... Less personal than that. Continue on."
-    cw "没关系，咱们尽量让内容...别那么私人化。接着说吧。"
-
 # game/code/scenes/it_office/sm1fs-i002.rpy:198
 translate chinese sm1fs_i002_09f7e466:
 
@@ -643,4 +637,10 @@ translate chinese strings:
     # game/code/scenes/it_office/sm1fs-i002.rpy:165
     old "I'd rather not say"
     new "我不想说"
+
+# game/code/scenes/it_office/sm1fs-i002.rpy:192
+translate chinese sm1fs_i002_bf4b8ddd:
+
+    # cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
+    cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
 

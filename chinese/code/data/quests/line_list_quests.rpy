@@ -1,12 +1,8 @@
 ﻿translate chinese strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
-    old "Main Story"
-    new "Main Story"
-
-    # game/code/data/quests/line_list_quests.rpy:5
-    old "Unlock more jobs"
-    new "Unlock more jobs"
+    old "Main story"
+    new "Main story"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "AmRose's story"
@@ -49,6 +45,14 @@
     new "Melony's story"
 
     # game/code/data/quests/line_list_quests.rpy:5
+    old "Unlock more jobs"
+    new "Unlock more jobs"
+
+    # game/code/data/quests/line_list_quests.rpy:5
+    old "Second movie"
+    new "Second movie"
+
+    # game/code/data/quests/line_list_quests.rpy:5
     old "Theater story"
     new "Theater story"
 
@@ -77,8 +81,8 @@
     new "Denise's story"
 
     # game/code/data/quests/line_list_quests.rpy:5
-    old "Kelly's story"
-    new "Kelly's story"
+    old "Kellie's story"
+    new "Kellie's story"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Taisia's story"
@@ -88,21 +92,7 @@
     old "Veronica's story"
     new "Veronica's story"
 
-translate chinese strings:
-
-    # game/code/data/quests/line_list_quests.rpy:5
-    old "Main story"
-    new "Main story"
-
-    # game/code/data/quests/line_list_quests.rpy:5
-    old "Second movie"
-    new "Second movie"
-
     # game/code/data/quests/line_list_quests.rpy:5
     old "Pirates movie"
     new "Pirates movie"
-
-    # game/code/data/quests/line_list_quests.rpy:5
-    old "Sci-Fi movie"
-    new "Sci-Fi movie"
 

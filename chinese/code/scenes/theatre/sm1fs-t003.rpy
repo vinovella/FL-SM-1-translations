@@ -497,9 +497,9 @@ translate chinese sm1fs_t003_490046c8:
     mct "嗯...她有点不对劲。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:273
-translate chinese sm1fs_t003_4479ad4e:
+translate chinese sm1fs_t003_11066cbf:
 
-    # mc "Veronica, have wet met before?"
+    # mc "Veronica, have we met before?"
     mc "维罗妮卡，我们以前见过面吗？"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:276
@@ -653,9 +653,9 @@ translate chinese sm1fs_t003_a64e8bc0:
     mc "谢谢。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:355
-translate chinese sm1fs_t003_a27410eb:
+translate chinese sm1fs_t003_9c5ba426:
 
-    # dvh "Hmmm. {w}I think you posess some talent, [mcname]."
+    # dvh "Hmmm. {w}I think you possess some talent, [mcname]."
     dvh "嗯。{w}我觉得你还是有点天赋的，[mcname]。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:358
@@ -917,9 +917,9 @@ translate chinese sm1fs_t003_7ed98bea:
     vs "我可不是什么大牌。可不像这儿的某些人！"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:487
-translate chinese sm1fs_t003_c277c835:
+translate chinese sm1fs_t003_51a53f66:
 
-    # vs "Seriously, it's not a problem! I'm super happy to show you around"
+    # vs "Seriously, it's not a problem! I'm super happy to show you around."
     vs "说真的，这没什么！我很乐意带你到处转转。"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:490

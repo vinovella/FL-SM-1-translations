@@ -478,12 +478,6 @@ translate chinese sm1cs_ag003_e5856a25:
     # mc "Yeah, that's not a problem."
     mc "可以啊，这有什么问题。"
 
-# game/code/scenes/it_office/ag/sm1cs-ag003.rpy:252
-translate chinese sm1cs_ag003_c42f0397:
-
-    # ag "Thanks! I've been... needing to use the ladies room for awhile, but I hate leaving my stuff unattended. I'll be right back!"
-    ag "谢谢！我...其实早就想去洗手间了，可我实在不喜欢把东西单独留在这儿。我马上就回来！"
-
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:267
 translate chinese sm1cs_ag003_c833a2d2:
 
@@ -813,4 +807,10 @@ translate chinese sm1cs_ag003_353fb300:
 
     # mct "In the meantime... I wonder what the hot recluse is going to do now that he's seen Magnolia fingering herself..."
     mct "不过现在嘛...我倒是好奇，那个帅气隐士看到玛格诺莉亚自慰之后，会做些什么..."
+
+# game/code/scenes/it_office/ag/sm1cs-ag003.rpy:252
+translate chinese sm1cs_ag003_e50bff0e:
+
+    # ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
+    ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
 

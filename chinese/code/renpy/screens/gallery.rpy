@@ -24,6 +24,14 @@
     old "Page [page]"
     new "Page [page]"
 
+    # game/code/renpy/screens/gallery.rpy:93
+    old "<"
+    new "<"
+
+    # game/code/renpy/screens/gallery.rpy:96
+    old ">"
+    new ">"
+
     # game/code/renpy/screens/gallery.rpy:109
     old "None"
     new "None"

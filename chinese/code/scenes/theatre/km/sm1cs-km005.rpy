@@ -850,12 +850,6 @@ translate chinese sm1cs_km005_e3fae15a:
     # km "Oh my god. You're the worst."
     km "我的天。你真是差劲。"
 
-# game/code/scenes/theatre/km/sm1cs-km005.rpy:428
-translate chinese sm1cs_km005_c2cf8f3d:
-
-    # mc "Says the girls with hard nipples poking at her top."
-    mc "你还好意思说我，你自己乳头都硬得顶到衣服了。"
-
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:437
 translate chinese sm1cs_km005_84ef3c75:
 
@@ -1345,4 +1339,16 @@ translate chinese strings:
     # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
     old "That was good. But now we've got a little mess to clean up."
     new "刚才确实很爽。不过现在咱们得清理一下这个小麻烦了。"
+
+# game/code/scenes/theatre/km/sm1cs-km005.rpy:429
+translate chinese sm1cs_km005_22270354:
+
+    # mc "Says the girl with hard nipples poking at her top."
+    mc "Says the girl with hard nipples poking at her top."
+
+translate chinese strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km005.rpy:535
+    old "That was good. But now we've got a little mess to clean up"
+    new "That was good. But now we've got a little mess to clean up"
 

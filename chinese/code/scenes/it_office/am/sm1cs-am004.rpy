@@ -1108,12 +1108,6 @@ translate chinese sm1cs_am004_sex_c27b58ed:
     # am "Don't be a pussy, [mcname]. I like it rough."
     am "别像个娘们一样，[mcname]。我喜欢激烈点的。"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:785
-translate chinese sm1cs_am004_sex_06e5e165:
-
-    # mc "Listen, I know you're whole thing is just being a bitch to me all the time, but I'm not tring to get my dick bit off."
-    mc "听着，我知道你一直都对我态度不好，但我可不想被你咬掉老二。"
-
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:787
 translate chinese sm1cs_am004_sex_1c8acf17_1:
 
@@ -1426,12 +1420,6 @@ translate chinese sm1cs_am004_after_spank_780537f7:
     # am "What?"
     am "什么？"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:973
-translate chinese sm1cs_am004_after_spank_af0e146a:
-
-    # mc "Come on. you know the {b}word{/b} I'm waiting for."
-    mc "说吧，你知道我在等{b}什么{/b}。"
-
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:978
 translate chinese sm1cs_am004_after_spank_a790f962:
 
@@ -1699,4 +1687,22 @@ translate chinese sm1cs_am004_ag_appears_01e66815:
 
     # mcon "And on bass we have April the Merciless!"
     mcon "负责贝斯部分的是我们的‘冷面艾普尔’！"
+
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:787
+translate chinese sm1cs_am004_sex_ce4eb6af:
+
+    # mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
+    mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
+
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:975
+translate chinese sm1cs_am004_after_spank_94b939c6:
+
+    # mc "Come on. You know the {b}word{/b} I'm waiting for."
+    mc "Come on. You know the {b}word{/b} I'm waiting for."
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
+    old "Later that evening\nAt Guns n' Rosette"
+    new "Later that evening\nAt Guns n' Rosette"
 

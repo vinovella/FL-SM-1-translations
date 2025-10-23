@@ -40,8 +40,6 @@
     old "There you go. Trust me. You're going to love the place."
     new "There you go. Trust me. You're going to love the place."
 
-translate chinese strings:
-
     # game/code/data/chat/chat_mes.rpy:58
     old "Hey. Want to go for a drink?"
     new "Hey. Want to go for a drink?"
@@ -71,8 +69,8 @@ translate chinese strings:
     new "Well."
 
     # game/code/data/chat/chat_mes.rpy:58
-    old "Nevermind. Are you down or not?"
-    new "Nevermind. Are you down or not?"
+    old "Never mind. Are you down or not?"
+    new "Never mind. Are you down or not?"
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Yes, Min. Send me the details."

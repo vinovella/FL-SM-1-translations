@@ -955,11 +955,11 @@ translate chinese sm1cs_vs002_one_hour_later_305d0baf:
 translate chinese strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:85
-    old "Rina worked hard for a while."
-    new "丽娜也是熬了很久才出头的。"
+    old "Rina worked hard for a while"
+    new "丽娜也是熬了很久才出头的"
 
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:85
-    old "Ivana has more talents than just acting."
+    old "Ivana has more talents than just acting"
     new "伊瓦娜除了表演还有更多才华"
 
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:144

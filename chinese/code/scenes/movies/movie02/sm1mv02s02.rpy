@@ -88,12 +88,6 @@ translate chinese sm1mv02s02_47aac2de:
     # ns "I am my [nsmcpetlabel]'s [nspetlabel]."
     ns "I am my [nsmcpetlabel]'s [nspetlabel]."
 
-# game/code/scenes/movies/movie02/sm1mv02s02.rpy:55
-translate chinese sm1mv02s02_5117c292:
-
-    # ns "I will do what you ask=, because I trust you that much."
-    ns "I will do what you ask=, because I trust you that much."
-
 # game/code/scenes/movies/movie02/sm1mv02s02.rpy:57
 translate chinese sm1mv02s02_c713d0dd:
 
@@ -214,12 +208,6 @@ translate chinese sm1mv02s02_ac808dad:
     # mc "Yes. In the story Captain Hornstar's ship detects trouble on your planet. So he will come down in a shuttle to help."
     mc "Yes. In the story Captain Hornstar's ship detects trouble on your planet. So he will come down in a shuttle to help."
 
-# game/code/scenes/movies/movie02/sm1mv02s02.rpy:118
-translate chinese sm1mv02s02_cf00efbc:
-
-    # mc "That is where are relationship starts."
-    mc "That is where are relationship starts."
-
 # game/code/scenes/movies/movie02/sm1mv02s02.rpy:121
 translate chinese sm1mv02s02_88bcb708:
 
@@ -309,12 +297,6 @@ translate chinese sm1mv02s02_5502923a:
 
     # ns "I like the sound of that."
     ns "I like the sound of that."
-
-# game/code/scenes/movies/movie02/sm1mv02s02.rpy:161
-translate chinese sm1mv02s02_20769ce7:
-
-    # ns "Porn with a special theme or setting can be like eating at a fancy resturant if all you watch is stuff just filmed in a bedroom."
-    ns "Porn with a special theme or setting can be like eating at a fancy resturant if all you watch is stuff just filmed in a bedroom."
 
 # game/code/scenes/movies/movie02/sm1mv02s02.rpy:164
 translate chinese sm1mv02s02_313e82e6:
@@ -447,4 +429,22 @@ translate chinese sm1mv02s02_1efbecff:
 
     # ns "I can't wait, [mcname]."
     ns "I can't wait, [mcname]."
+
+# game/code/scenes/movies/movie02/sm1mv02s02.rpy:55
+translate chinese sm1mv02s02_f78a5e2f:
+
+    # ns "I will do what you ask, because I trust you that much."
+    ns "I will do what you ask, because I trust you that much."
+
+# game/code/scenes/movies/movie02/sm1mv02s02.rpy:118
+translate chinese sm1mv02s02_8c26d624:
+
+    # mc "That is where our relationship starts."
+    mc "That is where our relationship starts."
+
+# game/code/scenes/movies/movie02/sm1mv02s02.rpy:161
+translate chinese sm1mv02s02_26fe3e60:
+
+    # ns "Porn with a special theme or setting can be like eating at a fancy restaurant if all you watch is stuff just filmed in a bedroom."
+    ns "Porn with a special theme or setting can be like eating at a fancy restaurant if all you watch is stuff just filmed in a bedroom."
 

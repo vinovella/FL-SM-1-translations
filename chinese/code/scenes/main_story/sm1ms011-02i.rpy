@@ -280,27 +280,27 @@ translate chinese sm1ms011_02i_9f575af2:
     # sy "Well, it sounds like you'll just have to go on a charm offensive and win her over."
     sy "好吧，听起来你只能展开魅力攻势，赢得她的芳心了。"
 
-# game/code/scenes/main_story/sm1ms011-02i.rpy:107
-translate chinese sm1ms011_02i_01fc120c:
-
-    # mc "Hahah. we'll see."
-    mc "哈哈，走着瞧吧。"
-
 # game/code/scenes/main_story/sm1ms011-02i.rpy:111
 translate chinese sm1ms011_02i_1e856ea6:
 
     # sy "Mmmhmm. Well, all in all, I'm glad you got the foot in the door."
     sy "嗯。总而言之，我很高兴你迈出了第一步。"
 
-# game/code/scenes/main_story/sm1ms011-02i.rpy:112
-translate chinese sm1ms011_02i_810a22b9:
-
-    # sy "But I'm sure if you want to get one of these actresse to join us, you'll have to get on stage yourself."
-    sy "但我敢肯定，如果你想让这些女演员加入我们，你必须自己上台表演。"
-
 # game/code/scenes/main_story/sm1ms011-02i.rpy:114
 translate chinese sm1ms011_02i_e0d93906:
 
     # mc "That's the plan."
     mc "计划就是这样。"
+
+# game/code/scenes/main_story/sm1ms011-02i.rpy:107
+translate chinese sm1ms011_02i_135ba797:
+
+    # mc "Hahah. We'll see."
+    mc "Hahah. We'll see."
+
+# game/code/scenes/main_story/sm1ms011-02i.rpy:112
+translate chinese sm1ms011_02i_d8e756d5:
+
+    # sy "But I'm sure if you want to get one of these actresses to join us, you'll have to get on stage yourself."
+    sy "But I'm sure if you want to get one of these actresses to join us, you'll have to get on stage yourself."
 

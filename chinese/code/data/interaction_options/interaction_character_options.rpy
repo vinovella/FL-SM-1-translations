@@ -13,6 +13,14 @@
     new "Work Wurst delivery"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Watch her pee..."
+    new "Watch her pee..."
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk with Stacy about her job search"
+    new "Talk with Stacy about her job search"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Go on a Date"
     new "Go on a Date"
 
@@ -73,8 +81,8 @@
     new "Assemble stairs"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Visit Theather"
-    new "Visit Theather"
+    old "Visit Theater"
+    new "Visit Theater"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Are we done?"
@@ -87,6 +95,38 @@
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ready for next adventure!"
     new "Ready for next adventure!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about Filming"
+    new "Talk about Filming"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ask about editing"
+    new "Ask about editing"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ask about editing again..."
+    new "Ask about editing again..."
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Film done?"
+    new "Film done?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about new order from the client"
+    new "Talk about new order from the client"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk to Stacy about the new movie"
+    new "Talk to Stacy about the new movie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Choose the movie you want to film"
+    new "Choose the movie you want to film"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk to Stacy about the second movie"
+    new "Talk to Stacy about the second movie"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Help Stacy"
@@ -157,6 +197,10 @@
     new "Date with Lyssa"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Borrow Stacy's Laptop"
+    new "Borrow Stacy's Laptop"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Confront Debbie"
     new "Confront Debbie"
 
@@ -165,12 +209,20 @@
     new "Ask about getting coffee"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ask Debbie out again"
+    new "Ask Debbie out again"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Min"
     new "Talk about Min"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Can you check my fit?"
     new "Can you check my fit?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about Melony"
+    new "Talk about Melony"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Invite Nari"
@@ -185,92 +237,6 @@
     new "Talk about Nari"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Fix things up with April"
-    new "Fix things up with April"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Ask her out"
-    new "Ask her out"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk about Claire"
-    new "Talk about Claire"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "How are you?"
-    new "How are you?"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Do you know where is Anna?"
-    new "Do you know where is Anna?"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Rehearsal for the show"
-    new "Rehearsal for the show"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Let's go to Amusement Park"
-    new "Let's go to Amusement Park"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Interview Taisia now"
-    new "Interview Taisia now"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "___ INSERT _____"
-    new "___ INSERT _____"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Stars Weekly for $"
-    new "Purchase Stars Weekly for $"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase An Actor Prepares for $"
-    new "Purchase An Actor Prepares for $"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Hey Kellie!"
-    new "Hey Kellie!"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Hey!"
-    new "Hey!"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk about \"work\""
-    new "Talk about \"work\""
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Chat with Taisia"
-    new "Chat with Taisia"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk about Taisia"
-    new "Talk about Taisia"
-
-translate chinese strings:
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk about Filming"
-    new "Talk about Filming"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Ask about editing"
-    new "Ask about editing"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Ask about editing again..."
-    new "Ask about editing again..."
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Film done?"
-    new "Film done?"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk about Melony"
-    new "Talk about Melony"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "About moving in"
     new "About moving in"
 
@@ -283,58 +249,20 @@ translate chinese strings:
     new "Hey sexy!!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Next Blitz?"
-    new "Next Blitz?"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "About Kellie"
-    new "About Kellie"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk about last time"
-    new "Talk about last time"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk about moving in"
-    new "Talk about moving in"
-
-translate chinese strings:
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Watch her pee..."
-    new "Watch her pee..."
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Visit Theater"
-    new "Visit Theater"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk about new order from the client"
-    new "Talk about new order from the client"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk to Stacy about the new movie"
-    new "Talk to Stacy about the new movie"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Choose the movie you want to film"
-    new "Choose the movie you want to film"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk to Stacy about the second movie"
-    new "Talk to Stacy about the second movie"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Borrow Stacy's Laptop"
-    new "Borrow Stacy's Laptop"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Ask Debbie out again"
-    new "Ask Debbie out again"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Sexy Times?"
     new "Sexy Times?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Fix things up with April"
+    new "Fix things up with April"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ask her out"
+    new "Ask her out"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about Claire"
+    new "Talk about Claire"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "I will help you Claire"
@@ -349,8 +277,72 @@ translate chinese strings:
     new "I agree to your special assignment"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "How are you?"
+    new "How are you?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Do you know where is Anna?"
+    new "Do you know where is Anna?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Rehearsal for the show"
+    new "Rehearsal for the show"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Let's go to the Amusement Park"
+    new "Let's go to the Amusement Park"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Interview Taisia now"
+    new "Interview Taisia now"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Wurst Delivery Sponsorship"
     new "Wurst Delivery Sponsorship"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Purchase Stars Weekly for $"
+    new "Purchase Stars Weekly for $"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Next Blitz?"
+    new "Next Blitz?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Purchase An Actor Prepares for $"
+    new "Purchase An Actor Prepares for $"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Hey Kellie!"
+    new "Hey Kellie!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Hey!"
+    new "Hey!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "About Kellie"
+    new "About Kellie"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about last time"
+    new "Talk about last time"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about \"work\""
+    new "Talk about \"work\""
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Chat with Taisia"
+    new "Chat with Taisia"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about Taisia"
+    new "Talk about Taisia"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about moving in"
+    new "Talk about moving in"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Buy costume for the movie"
@@ -397,8 +389,8 @@ translate chinese strings:
     new "I finished editing!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Sci-fi movie"
-    new "Sci-fi movie"
+    old "Sci-Fi movie"
+    new "Sci-Fi movie"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Min for the Sci-Fi Movie"
@@ -455,10 +447,4 @@ translate chinese strings:
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Done editing the Sci-Fi Movie"
     new "Done editing the Sci-Fi Movie"
-
-translate chinese strings:
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Talk with Stacy about her job search"
-    new "Talk with Stacy about her job search"
 

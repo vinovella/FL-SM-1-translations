@@ -37,6 +37,10 @@
     new "Start working"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
+    old "Check Laptop"
+    new "Check Laptop"
+
+    # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Take panties"
     new "Take panties"
 
@@ -47,10 +51,4 @@
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Take a shower"
     new "Take a shower"
-
-translate chinese strings:
-
-    # game/code/data/interaction_options/interaction_object_options.rpy:3
-    old "Check Laptop"
-    new "Check Laptop"
 

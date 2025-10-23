@@ -113,16 +113,16 @@ translate chinese q_inter_ms_9_6152061b:
     mc "I never see you make deliveries."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:128
-translate chinese q_inter_ms_9_18a60a3f:
+translate chinese q_inter_ms_9_4e19df90:
 
-    # ms "Didn't anyone tell you? I''m a brat-slinging ninja, [mcname]."
-    ms "Didn't anyone tell you? I''m a brat-slinging ninja, [mcname]."
+    # ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
+    ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:129
-translate chinese q_inter_ms_9_244271c2:
+translate chinese q_inter_ms_9_16556a01:
 
-    # ms "Swwwssh. See? while you blinked, I deliviered five combo packs."
-    ms "Swwwssh. See? while you blinked, I deliviered five combo packs."
+    # ms "Swwwssh. See? while you blinked, I delivered five combo packs."
+    ms "Swwwssh. See? while you blinked, I delivered five combo packs."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:131
 translate chinese q_inter_ms_9_081b75b3:
@@ -167,10 +167,10 @@ translate chinese q_inter_ms_13_1b9ab683:
     ms "Lucky you."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:160
-translate chinese q_inter_ms_14_0115379c:
+translate chinese q_inter_ms_14_0ab32883:
 
-    # ms "At least they can't automated bratwurst makers yet."
-    ms "At least they can't automated bratwurst makers yet."
+    # ms "At least they can't automate bratwurst makers yet."
+    ms "At least they can't automate bratwurst makers yet."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:161
 translate chinese q_inter_ms_14_689e43ea:
@@ -551,10 +551,10 @@ translate chinese q_inter_ms_34_6951d752:
     ms "That's what our parents told us anyhow."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:373
-translate chinese q_inter_ms_35_f687201e:
+translate chinese q_inter_ms_35_59b4bc48:
 
-    # ms "Here's is to the day we can both just sleep in and not rush out to get grinded down to pebbles."
-    ms "Here's is to the day we can both just sleep in and not rush out to get grinded down to pebbles."
+    # ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
+    ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:375
 translate chinese q_inter_ms_35_b51867ec:
@@ -677,10 +677,10 @@ translate chinese q_inter_ms_40_8d7ba692:
     mc "Any luck with your job hunt?"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:440
-translate chinese q_inter_ms_40_ec333083:
+translate chinese q_inter_ms_40_14e02518:
 
-    # ms "Shhhh. You want the whole place to here?"
-    ms "Shhhh. You want the whole place to here?"
+    # ms "Shhhh. You want the whole place to hear?"
+    ms "Shhhh. You want the whole place to hear?"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:441
 translate chinese q_inter_ms_40_dc0ff26a:
@@ -802,51 +802,51 @@ translate chinese q_inter_ms_43_8698ae7f:
     # mc "Okay. Hear you loud and clear."
     mc "Okay. Hear you loud and clear."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:506
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:505
 translate chinese q_inter_ms_43_5c2ba9ea:
 
     # mct "Man. Felt like we were getting along fine in the car, but then after she flashed those girls, she seems so tightly wound."
     mct "Man. Felt like we were getting along fine in the car, but then after she flashed those girls, she seems so tightly wound."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:513
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:512
 translate chinese q_inter_ms_44_1d472469:
 
     # ms "Could be worse."
     ms "Could be worse."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:514
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:513
 translate chinese q_inter_ms_44_4eb113b2:
 
     # ms "You could be annoying and not cute."
     ms "You could be annoying and not cute."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:516
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:515
 translate chinese q_inter_ms_44_44fa84c0:
 
     # mc "Heh."
     mc "Heh."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:520
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:519
 translate chinese q_inter_ms_44_1e27fcac:
 
     # ms "Don't get a big head about it."
     ms "Don't get a big head about it."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:527
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:526
 translate chinese q_inter_ms_45_62351857:
 
     # ms "Don't you wish all your problems could be ground up and packaged for profit."
     ms "Don't you wish all your problems could be ground up and packaged for profit."
 
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:528
+translate chinese q_inter_ms_45_fad7a7ce:
+
+    # mc "I'm sure a lot of billionaires start the same way."
+    mc "I'm sure a lot of billionaires start the same way."
+
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:529
-translate chinese q_inter_ms_45_b4522c97:
+translate chinese q_inter_ms_45_678c5fed:
 
-    # mc "I'm sure a lot of billionares start the same way."
-    mc "I'm sure a lot of billionares start the same way."
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:530
-translate chinese q_inter_ms_45_a957599b:
-
-    # ms "Maybe I'm on my first step to becomming one."
-    ms "Maybe I'm on my first step to becomming one."
+    # ms "Maybe I'm on my first step to becoming one."
+    ms "Maybe I'm on my first step to becoming one."
 

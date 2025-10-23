@@ -5,20 +5,16 @@
     new "Invite Stacy to Amusement Park during the day"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Stacy during day timeslot to interview Taisia"
-    new "Talk to Stacy during day timeslot to interview Taisia"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Main Storyline"
-    new "Progress Main Storyline"
+    old "Talk to Stacy during the day to interview Taisia"
+    new "Talk to Stacy during the day to interview Taisia"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Go to the Theater"
     new "Go to the Theater"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Go to the Theater for audition during the Day timeslot"
-    new "Go to the Theater for audition during the Day timeslot"
+    old "Go to the Theater for audition during the day"
+    new "Go to the Theater for audition during the day"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress the individual storylines for the Theater girls"
@@ -29,8 +25,8 @@
     new "Talk to Denise"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Veronica and Kellie story line"
-    new "Progress Veronica and Kellie story line"
+    old "Progress Veronica and Kellie storyline"
+    new "Progress Veronica and Kellie storyline"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do Saturday show at least {}/3 times"
@@ -53,8 +49,20 @@
     new "Visit Theater at Noon"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Kelly at her dressing room"
-    new "Talk to Kelly at her dressing room"
+    old "Progress Denise's storyline"
+    new "Progress Denise's storyline"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Nelson about sponsoring the new show"
+    new "Talk to Nelson about sponsoring the new show"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Denise about the Wurst Delivery Sponsorship in her office"
+    new "Talk to Denise about the Wurst Delivery Sponsorship in her office"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Kellie at her dressing room"
+    new "Talk to Kellie at her dressing room"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress the Theater storyline"
@@ -77,12 +85,24 @@
     new "Talk to Kellie"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Veronica's story"
-    new "Progress Veronica's story"
+    old "Progress Veronica's storyline"
+    new "Progress Veronica's storyline"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Text Kellie"
     new "Text Kellie"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Veronica in the afternoon"
+    new "Talk to Veronica in the afternoon"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Kellie in the afternoon at Theater"
+    new "Talk to Kellie in the afternoon at Theater"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "This quest line is finished for this game"
+    new "This quest line is finished for this game"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Denise in her office"
@@ -129,64 +149,6 @@
     new "Message Taisia to meet her with Stacy"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Veronica at the Stage"
-    new "Talk to Veronica at the Stage"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Veronica"
-    new "Talk to Veronica"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Buy the 'Stars Weekly' Magazin from the store"
-    new "Buy the 'Stars Weekly' Magazin from the store"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Get your Film and TV Topic to 3"
-    new "Get your Film and TV Topic to 3"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Kellie's storyline"
-    new "Progress Kellie's storyline"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Veronica on the Stage"
-    new "Talk to Veronica on the Stage"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the rehearsal on {}"
-    new "Do the rehearsal on {}"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Kellie's story"
-    new "Progress Kellie's story"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Wait for Veronica to text you"
-    new "Wait for Veronica to text you"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Text Veronica"
-    new "Text Veronica"
-
-translate chinese strings:
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Veronica's story line"
-    new "Progress Veronica's story line"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Veronica in the afternoon"
-    new "Talk to Veronica in the afternoon"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Kellie in the afternoon at Theater"
-    new "Talk to Kellie in the afternoon at Theater"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "This quest line is finished for this game"
-    new "This quest line is finished for this game"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia about moving in"
     new "Talk with Taisia about moving in"
 
@@ -199,20 +161,42 @@ translate chinese strings:
     new "Visit Taisia in her room in the evening"
 
     # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Veronica at the stage"
+    new "Talk to Veronica at the stage"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Veronica"
+    new "Talk to Veronica"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Buy the 'Stars Weekly' Magazine from the store"
+    new "Buy the 'Stars Weekly' Magazine from the store"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Get your Film and TV Topic to 3"
+    new "Get your Film and TV Topic to 3"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Kellie's storyline"
+    new "Progress Kellie's storyline"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Veronica on the stage"
+    new "Talk to Veronica on the stage"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the rehearsal on {}"
+    new "Do the rehearsal on {}"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Wait for Veronica to text you"
+    new "Wait for Veronica to text you"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Text Veronica"
+    new "Text Veronica"
+
+    # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Veronica in the afternoon"
     new "Talk with Veronica in the afternoon"
-
-translate chinese strings:
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Denise's story line"
-    new "Progress Denise's story line"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Nelson about sponsoring the new show"
-    new "Talk to Nelson about sponsoring the new show"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Denise about the Wurst Delivery Sponsorship in her office"
-    new "Talk to Denise about the Wurst Delivery Sponsorship in her office"
 

@@ -172,12 +172,6 @@ translate chinese sm1cs_cw002_490d7120:
     # cw "Do you think you can handle that?"
     cw "你觉得你能胜任吗？"
 
-# game/code/scenes/it_office/cw/sm1cs-cw002.rpy:99
-translate chinese sm1cs_cw002_7fd43340:
-
-    # mc "Of course. I won't let you down, Claire."
-    mc "当然。我不会让你失望的，克莱尔。"
-
 # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:100
 translate chinese sm1cs_cw002_19387a04:
 
@@ -241,4 +235,20 @@ translate chinese strings:
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I don't like it."
     new "我不喜欢这样"
+
+# game/code/scenes/it_office/cw/sm1cs-cw002.rpy:99
+translate chinese sm1cs_cw002_e0bf352d:
+
+    # mc "Of course. I won't let you down, Ms. Watts."
+    mc "Of course. I won't let you down, Ms. Watts."
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
+    old "I like it"
+    new "I like it"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
+    old "I don't like it"
+    new "I don't like it"
 

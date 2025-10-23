@@ -58,12 +58,6 @@ translate chinese sm1fs_i001_525776d2:
     # ag "We're looking to hire some new people to help out, real self-starters and go-getters."
     ag "我们正打算招聘一些新人来帮忙，要那种真正能够主动做事、积极进取的人。"
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:50
-translate chinese sm1fs_i001_eaa649bb:
-
-    # ag "Please have a sit."
-    ag "请坐。"
-
 # game/code/scenes/it_office/sm1fs-i001.rpy:54
 translate chinese sm1fs_i001_f1001075:
 
@@ -147,12 +141,6 @@ translate chinese sm1fs_i001_0d793d39:
 
     # ag "Sorry, one second."
     ag "对不起，请稍等。"
-
-# game/code/scenes/it_office/sm1fs-i001.rpy:93
-translate chinese sm1fs_i001_f74f881e:
-
-    # ag "Hi, What can I help you with, April?"
-    ag "嗨，有什么能帮你的吗，艾普尔？"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:95
 translate chinese sm1fs_i001_47c47bec:
@@ -315,12 +303,6 @@ translate chinese sm1fs_i001_b6c91f38:
 
     # ag "What games are you playing right now?"
     ag "你现在在玩什么游戏？"
-
-# game/code/scenes/it_office/sm1fs-i001.rpy:178
-translate chinese sm1fs_i001_371777db:
-
-    # mc "Uhhhh, mostly FPS games. Every once in awhile I'll pull up-"
-    mc "嗯，主要是FPS游戏。每隔一段时间我就会打开--"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:181
 translate chinese sm1fs_i001_0133cbf7:
@@ -625,4 +607,22 @@ translate chinese strings:
     # game/code/scenes/it_office/sm1fs-i001.rpy:147
     old "Cars"
     new "汽车"
+
+# game/code/scenes/it_office/sm1fs-i001.rpy:50
+translate chinese sm1fs_i001_af917135:
+
+    # ag "Please have a seat."
+    ag "Please have a seat."
+
+# game/code/scenes/it_office/sm1fs-i001.rpy:93
+translate chinese sm1fs_i001_73236aa5:
+
+    # ag "Hi, what can I help you with, April?"
+    ag "Hi, what can I help you with, April?"
+
+# game/code/scenes/it_office/sm1fs-i001.rpy:178
+translate chinese sm1fs_i001_fd7e7967:
+
+    # mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
+    mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
 

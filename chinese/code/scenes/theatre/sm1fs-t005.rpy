@@ -581,7 +581,7 @@ translate chinese strings:
     new "你知道有谁在招人吗？"
 
     # game/code/scenes/theatre/sm1fs-t005.rpy:97
-    old "I'm sure you did your best, Denise."
+    old "I'm sure you did your best, Denise"
     new "丹妮丝，我相信你已经尽力了"
 
     # game/code/scenes/theatre/sm1fs-t005.rpy:97

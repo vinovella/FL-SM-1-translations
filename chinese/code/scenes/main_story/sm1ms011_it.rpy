@@ -46,12 +46,6 @@ translate chinese sm1ms011_it_b604545e:
     # mc "I just landed the job. I'm not sure I'm ready to think about another job."
     mc "我刚刚得到这份工作。恐怕还没准备好考虑另一份工作。"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:26
-translate chinese sm1ms011_it_fd1ea990:
-
-    # sy "Okay, fair enough. Speaking of the company, Orbix right? You haven't told me much about the people there."
-    sy "好吧，有道理。说到公司，是叫Orbix吗？你还没怎么跟我说过那里的人。"
-
 # game/code/scenes/main_story/sm1ms011_it.rpy:29
 translate chinese sm1ms011_it_40f46a63:
 
@@ -153,12 +147,6 @@ translate chinese sm1ms011_it_dbb29552:
 
     # sy "Sure, but I'd bet my last pair of panties that someone stood out."
     sy "当然，但我敢用我的最后一条内裤打赌，一定有人脱颖而出。"
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:113
-translate chinese sm1fs_i011_it_talk_ns_18515f7b:
-
-    # mc "This girl Nari Song is pretty cute"
-    mc "这个叫宋娜丽的女孩很可爱。"
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:116
 translate chinese sm1fs_i011_it_talk_ns_446f60a3:
@@ -328,18 +316,6 @@ translate chinese sm1fs_i011_it_talk_am_4208fc10:
     # sy "What a bitch!"
     sy "人真坏！"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:212
-translate chinese sm1fs_i011_it_talk_am_0503cb58:
-
-    # mc "Maybe. If she's been pared with other people before that didn't work out, maybe she's tired to dealing with noobs."
-    mc "也许吧。如果她之前和其他人搭档过但没成功，那或许她已经厌倦和新手打交道了。"
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:215
-translate chinese sm1fs_i011_it_talk_am_fd753b6a:
-
-    # sy "Hmmmph. That's no need to be rude to your or the new girl."
-    sy "嗯哼。但也没必要对你或者那个新来的女孩这么无礼吧。"
-
 # game/code/scenes/main_story/sm1ms011_it.rpy:218
 translate chinese sm1fs_i011_it_talk_am_6c3434eb:
 
@@ -381,12 +357,6 @@ translate chinese sm1ms011_it_continue_14c261e5:
 
     # mc "Given she's my boss' boss, I figured it would be smart to stay clear of her."
     mc "鉴于她是我老板的老板，我想最好离她远点。"
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:242
-translate chinese sm1ms011_it_continue_6fb9ec78:
-
-    # sy "No way. Big mistake, pal. Think about it. She could be the biggest close pervert of the mall."
-    sy "不可能。大错特错，伙计。想想吧。她可能是这家公司里最隐蔽的变态了。"
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:243
 translate chinese sm1ms011_it_continue_00b812a7:
@@ -441,12 +411,6 @@ translate chinese sm1ms011_it_continue_ddaffa1b:
 
     # mc "I'll see what I can do."
     mc "我会尽力的。"
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:277
-translate chinese sm1ms011_it_continue_fdc777bd:
-
-    # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it ouf the park."
-    sy "太好了。我了解你，[mcname]。无论你用心去做什么，我相信你都能做到。"
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:280
 translate chinese sm1ms011_it_continue_6be1610b:
@@ -517,4 +481,40 @@ translate chinese strings:
     # game/code/scenes/main_story/sm1ms011_it.rpy:244
     old "I'll see what I can do"
     new "我看看我能做什么"
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:26
+translate chinese sm1ms011_it_039d17e4:
+
+    # sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
+    sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:113
+translate chinese sm1fs_i011_it_talk_ns_ac838888:
+
+    # mc "This girl Nari Song is pretty cute."
+    mc "This girl Nari Song is pretty cute."
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:212
+translate chinese sm1fs_i011_it_talk_am_09c55492:
+
+    # mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
+    mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:215
+translate chinese sm1fs_i011_it_talk_am_36deca91:
+
+    # sy "Hmmmph. That's no excuse to be rude to you or the new girl."
+    sy "Hmmmph. That's no excuse to be rude to you or the new girl."
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:242
+translate chinese sm1ms011_it_continue_36be2754:
+
+    # sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
+    sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:277
+translate chinese sm1ms011_it_continue_d4b1ca4d:
+
+    # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
+    sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
 

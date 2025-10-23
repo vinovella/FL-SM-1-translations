@@ -58,12 +58,6 @@ translate chinese sm1cs_cw002_2_922985af:
     # cw "*whispers* I knew I should have asked Eugene."
     cw "*低语* 就知道我该叫尤金来的。"
 
-# game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:57
-translate chinese sm1cs_cw002_2_3bf24d7c:
-
-    # mc "*whispers* Eugene? Claire. I'm totally lost."
-    mc "*低语* 尤金？克莱尔。我完全糊涂了。"
-
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:60
 translate chinese sm1cs_cw002_2_cc0d32d7:
 
@@ -490,12 +484,6 @@ translate chinese sm1cs_cw002_2_6902edb5:
     # fw "Yes."
     fw "是的。"
 
-# game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:252
-translate chinese sm1cs_cw002_2_f1ec3231:
-
-    # cw "You told daddy?"
-    cw "你告诉爸爸了？"
-
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:254
 translate chinese sm1cs_cw002_2_66311414:
 
@@ -913,4 +901,30 @@ translate chinese strings:
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Don't mention it, Ms. Watts."
     new "不客气，沃茨女士"
+
+# game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:57
+translate chinese sm1cs_cw002_2_de7b5f54:
+
+    # mc "*whispers* Eugene? Ms. Watts. I'm totally lost."
+    mc "*whispers* Eugene? Ms. Watts. I'm totally lost."
+
+# game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:252
+translate chinese sm1cs_cw002_2_da7d3338:
+
+    # cw "You told Daddy?"
+    cw "You told Daddy?"
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
+    old "It was fine"
+    new "It was fine"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
+    old "Sorry, Claire"
+    new "Sorry, Claire"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
+    old "Don't mention it, Ms. Watts"
+    new "Don't mention it, Ms. Watts"
 

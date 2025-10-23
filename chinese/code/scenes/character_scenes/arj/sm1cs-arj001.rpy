@@ -64,12 +64,6 @@ translate chinese sm1cs_arj001_28b8befe:
     # mc "So you do have it."
     mc "这么说真的在你手里。"
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:43
-translate chinese sm1cs_arj001_205cb6c0:
-
-    # arj "So what if I do? {i}No one{/i} should have the zip drive."
-    arj "就算我拿着又怎么样？这U盘{i}谁{/i}都不该碰。"
-
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:46
 translate chinese sm1cs_arj001_cc9b4160:
 
@@ -681,4 +675,10 @@ translate chinese sm1cs_arj001_92b04d3a:
 
     # mct "I wonder if she feels the same way?"
     mct "不知道她是不是也这么想？"
+
+# game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:43
+translate chinese sm1cs_arj001_5c2dddcf:
+
+    # arj "So what if I do? {i}No one{/i} should have the flash drive."
+    arj "So what if I do? {i}No one{/i} should have the flash drive."
 

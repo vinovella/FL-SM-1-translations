@@ -208,12 +208,6 @@ translate chinese sm1ms006_669d5c5f:
     # sy "We really need some better locks."
     sy "我们需要添把更好的锁了。"
 
-# game/code/scenes/main_story/sm1ms006.rpy:180
-translate chinese sm1ms006_aef6fd4a:
-
-    # mc "I do too. But... AmRose said something kind of interesting."
-    mc "我也觉得。但是...爱洛丝说了些有趣的事。"
-
 # game/code/scenes/main_story/sm1ms006.rpy:183
 translate chinese sm1ms006_e14c35d4:
 
@@ -327,12 +321,6 @@ translate chinese sm1ms006_e501c93a:
 
     # mc "But you lied to me."
     mc "但你骗了我。"
-
-# game/code/scenes/main_story/sm1ms006.rpy:238
-translate chinese sm1ms006_a82624c8:
-
-    # sy "It's not a big deal? I mean you lied about the metric ton of of porn you had hidden under your bed, [mcname]."
-    sy "这没什么大不了的吧？要我说，你对我也撒了谎，没说你藏在床底下的一吨黄片，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms006.rpy:241
 translate chinese sm1ms006_6be9eb82:
@@ -676,12 +664,6 @@ translate chinese sm1ms006_49efd205:
     # mct "Even after getting punished, Stacy is still the best."
     mct "即使受到惩罚，史黛西还是最棒的。"
 
-# game/code/scenes/main_story/sm1ms006.rpy:450
-translate chinese sm1ms006_7016c270:
-
-    # sy "You doing to get dressed?"
-    sy "你要穿衣服吗？"
-
 # game/code/scenes/main_story/sm1ms006.rpy:454
 translate chinese sm1ms006_ed56daf5:
 
@@ -693,4 +675,22 @@ translate chinese sm1ms006_061f6f43:
 
     # sy "*giggles* Little old me? Distracting? Never."
     sy "*笑着说* 就我这么个小人物？让你分心？怎么可能嘛。"
+
+# game/code/scenes/main_story/sm1ms006.rpy:180
+translate chinese sm1ms006_e6186b8f:
+
+    # mc "I think so too. But... AmRose said something kind of interesting."
+    mc "I think so too. But... AmRose said something kind of interesting."
+
+# game/code/scenes/main_story/sm1ms006.rpy:239
+translate chinese sm1ms006_eac16535:
+
+    # sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
+    sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
+
+# game/code/scenes/main_story/sm1ms006.rpy:453
+translate chinese sm1ms006_ed03918c:
+
+    # sy "You going to get dressed?"
+    sy "You going to get dressed?"
 

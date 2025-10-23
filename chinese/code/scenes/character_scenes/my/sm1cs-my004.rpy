@@ -556,12 +556,6 @@ translate chinese sm1cs_my004_3d86cf3a:
     # mc "I, uhhh, like the colors of your suit? And... it looks good?"
     mc "I, uhhh, like the colors of your suit? And... it looks good?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:318
-translate chinese sm1cs_my004_fe4717cc:
-
-    # sy "Come on, [mcname]. You have got to do better then that. How about the cut? The fit?"
-    sy "Come on, [mcname]. You have got to do better then that. How about the cut? The fit?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:320
 translate chinese sm1cs_my004_a48048a7:
 
@@ -1739,4 +1733,10 @@ translate chinese strings:
     # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:485
     old "Stacy"
     new "Stacy"
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:319
+translate chinese sm1cs_my004_3de68331:
+
+    # sy "Come on, [mcname]. You have got to do better than that. How about the cut? The fit?"
+    sy "Come on, [mcname]. You have got to do better than that. How about the cut? The fit?"
 

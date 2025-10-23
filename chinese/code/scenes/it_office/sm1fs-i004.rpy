@@ -112,12 +112,6 @@ translate chinese sm1fs_i004_7dd67392:
     # ag "I don't need the attitude, April."
     ag "我可不想听你这种态度，艾普尔。"
 
-# game/code/scenes/it_office/sm1fs-i004.rpy:82
-translate chinese sm1fs_i004_78844870:
-
-    # am "Sorry, {i}Aubergine Annie{/i}."
-    am "对不起，{i}茄子安妮{/i}。"
-
 # game/code/scenes/it_office/sm1fs-i004.rpy:85
 translate chinese sm1fs_i004_bbcc2a25:
 
@@ -196,12 +190,6 @@ translate chinese sm1fs_i004_3c2c4bec:
     # ag "Nari-"
     ag "娜丽--"
 
-# game/code/scenes/it_office/sm1fs-i004.rpy:124
-translate chinese sm1fs_i004_b146f86d:
-
-    # ns "Yes, Aubergine Annie?"
-    ns "我在，茄子安妮？"
-
 # game/code/scenes/it_office/sm1fs-i004.rpy:127
 translate chinese sm1fs_i004_12c4a685:
 
@@ -255,12 +243,6 @@ translate chinese sm1fs_i004_629db91f:
 
     # cw "We are looking forward to working with you, and your network. We have a brief presentation about our plan for your new website."
     cw "我们也期待着与您以及您的网络平台合作。下面，我们会简要介绍专为您打造新网站的计划。"
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:160
-translate chinese sm1fs_i004_e18669dc:
-
-    # cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a new website."
-    cw "我们已经让Orbix的团队做了一次市场分析。他们提出了一些新网站的解决方案。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:163
 translate chinese sm1fs_i004_b32c8de0:
@@ -333,12 +315,6 @@ translate chinese sm1fs_i004_5721f7bc:
 
     # atp "We should work closely together so there are no screwups."
     atp "我们应该密切合作，这样才不会出错。"
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:196
-translate chinese sm1fs_i004_03af6d84:
-
-    # cw "Of course. We're excited to be in bussiness with you, Angela. As soon as we have a progress update, I'll get in touch."
-    cw "当然。我们很高兴能和您开展业务合作，安吉拉。一旦有最新进展，我会马上联系您。"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:199
 translate chinese sm1fs_i004_d2033644:
@@ -520,12 +496,6 @@ translate chinese sm1fs_i004_697af26a:
     # am "But if a bunch of dumb code-monkeys messed around with it-"
     am "但要是一群不懂代码的蠢货瞎鼓捣过这些代码--"
 
-# game/code/scenes/it_office/sm1fs-i004.rpy:298
-translate chinese sm1fs_i004_15609df2:
-
-    # cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're awake."
-    cw "所以才给了你四周时间而不是三周。看来你闭着眼有风险，只能睁着眼的时候好好干活了。"
-
 # game/code/scenes/it_office/sm1fs-i004.rpy:303
 translate chinese sm1fs_i004_7f3a1e1d:
 
@@ -615,12 +585,6 @@ translate chinese sm1fs_i004_3608ec25:
 
     # am "Ahem. Listen I..."
     am "咳咳。听着，我..."
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:356
-translate chinese sm1fs_i004_c11cc950:
-
-    # am "You are... You're"
-    am "你是...你...呃..."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:359
 translate chinese sm1fs_i004_454f418c:
@@ -741,4 +705,54 @@ translate chinese strings:
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "I'd rather listen to classic rock!"
     new "我宁愿听经典摇滚！"
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:82
+translate chinese sm1fs_i004_bfc49473:
+
+    # am "Sorry, {i}Aubergine Anna{/i}."
+    am "Sorry, {i}Aubergine Anna{/i}."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:124
+translate chinese sm1fs_i004_e997d712:
+
+    # ns "Yes, Aubergine Anna?"
+    ns "Yes, Aubergine Anna?"
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:160
+translate chinese sm1fs_i004_037241da:
+
+    # cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a news website."
+    cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a news website."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:196
+translate chinese sm1fs_i004_d0ed86ec:
+
+    # cw "Of course. We're excited to be in business with you, Angela. As soon as we have a progress update, I'll get in touch."
+    cw "Of course. We're excited to be in business with you, Angela. As soon as we have a progress update, I'll get in touch."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:298
+translate chinese sm1fs_i004_e556069d:
+
+    # cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're asleep."
+    cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're asleep."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:356
+translate chinese sm1fs_i004_058155eb:
+
+    # am "You are... You're..."
+    am "You are... You're..."
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/sm1fs-i004.rpy:390
+    old "I do, I love Kikini Bill"
+    new "I do, I love Kikini Bill"
+
+    # game/code/scenes/it_office/sm1fs-i004.rpy:390
+    old "Uh, yep! Totally"
+    new "Uh, yep! Totally"
+
+    # game/code/scenes/it_office/sm1fs-i004.rpy:390
+    old "I don't mind some... Punk rock"
+    new "I don't mind some... Punk rock"
 

@@ -1,8 +1,3 @@
-﻿# game/code/scenes/it_office/am/sm1cs-am003.rpy:23
-translate chinese sm1cs_am003_65d3c1ab:
-
-    # mc "Hey April."
-    mc "嘿，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:26
 translate chinese sm1cs_am003_60929dc7:
@@ -27,12 +22,6 @@ translate chinese sm1cs_am003_05500ff6:
 
     # mc "Huh?"
     mc "啊?"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:42
-translate chinese sm1cs_am003_9411ee06:
-
-    # am "Humans. We have created all this technology. It can do incredible things."
-    am "人类啊。我们创造了这么多科技。它们能做很多不可思议的事。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:43
 translate chinese sm1cs_am003_6836a542:
@@ -136,12 +125,6 @@ translate chinese sm1cs_am003_4ced708b:
     # mc "She did not."
     mc "她没有。"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:99
-translate chinese sm1cs_am003_ff48ba88:
-
-    # am "Hmmph. Sounds like you wasted your afternoon. I'm fine."
-    am "哼。看来你要浪费一下午时间了。我好着呢。"
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:102
 translate chinese sm1cs_am003_e2e1fb53:
 
@@ -160,12 +143,6 @@ translate chinese sm1cs_am003_246b96f0:
     # mc "Well if we're not friends, your teasing feels a lot like bullying."
     mc "好吧，如果我们不是朋友，那你的打趣可就很像在欺负人了。"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:111
-translate chinese sm1cs_am003_c44693ed:
-
-    # am "It's bullying to say someone sucks at their job?"
-    am "说某人工作不行也算欺负人吗？"
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:114
 translate chinese sm1cs_am003_81fb0059:
 
@@ -177,12 +154,6 @@ translate chinese sm1cs_am003_9b36aebd:
 
     # am "I didn't know you could count that high."
     am "我都不知道你还能数到两位数呢。"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:120
-translate chinese sm1cs_am003_b58f5af6:
-
-    # mct "This girl. It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
-    mct "这姑娘。就像安娜说的。要不是她能力强，就她这态度，早被Orbix公司开除了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:121
 translate chinese sm1cs_am003_ce80c7ee:
@@ -196,29 +167,11 @@ translate chinese sm1cs_am003_3adad30a:
     # am "What, did that break you?"
     am "怎么，被我说中了？"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:127
-translate chinese sm1cs_am003_fe1864dc:
-
-    # mc "You were right. I didn't come to check on you. I need help with a work problem and this is where you are working now. Simple as that."
-    mc "你说得对。我不是来关心你的。我工作上遇到个问题需要帮忙，而你现在又在这儿工作。就这么简单。"
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:130
 translate chinese sm1cs_am003_201598d2:
 
     # am "Well yeah. I knew that from the start."
     am "嗯，没错。我一开始就知道。"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:134
-translate chinese sm1cs_am003_e619f22b:
-
-    # am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
-    am "在那次工作之后，我...我还以为你要么已经辞职了，要么就只会勉强完成你的工作任务。"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:135
-translate chinese sm1cs_am003_7274fced:
-
-    # am "But here you are."
-    am "但你还是挺过来了。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:138
 translate chinese sm1cs_am003_226d5b69:
@@ -231,18 +184,6 @@ translate chinese sm1cs_am003_5c53c85f:
 
     # am "Yeah.{w} Maybe I was wrong about you, [mcname]."
     am "是啊。{w}也许我之前看错你了，[mcname]。"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:144
-translate chinese sm1cs_am003_7da007d5:
-
-    # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want. Sometimes I stumble, but I never stay on the ground for long."
-    mc "你是看错了。我是会犯错，但为了得到我想要的，我也能非常努力地工作。有时候我会跌倒，但我从不会在地上趴太久。"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:145
-translate chinese sm1cs_am003_37d25850:
-
-    # mc "I didn't study IT at college, but I've always been a fast learner. Teach me, I'm ready to learn at your feet, April."
-    mc "我大学没学过信息技术，但我一直学得很快。教教我吧，我准备好拜在你脚下，喊你师傅了，艾普尔。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:148
 translate chinese sm1cs_am003_1446f8b8:
@@ -261,12 +202,6 @@ translate chinese sm1cs_am003_cb160673:
 
     # am "*sighs* Okay, you certainly got the energy. But you're not going near my feet."
     am "*叹气* 好吧，你确实精力充沛。但离我的脚远点。"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:155
-translate chinese sm1cs_am003_3e875709:
-
-    # am "Despite my better judgment, I'll try to give you some pointers here and there."
-    am "尽管我觉得不该这么做，但我会时不时给你一些指点的。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:158
 translate chinese sm1cs_am003_35f64472:
@@ -292,12 +227,6 @@ translate chinese sm1cs_am003_84fb7e61:
     # mc "If you teach me well, I'm sure I'll do great."
     mc "如果你好好教我，我肯定能做得很好。"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:176
-translate chinese sm1cs_am003_c742b267:
-
-    # am "I am not your teacher, [mcname]. that's not my job."
-    am "我不是你的老师，[mcname]，那不是我的工作。"
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:177
 translate chinese sm1cs_am003_7c802427:
 
@@ -315,12 +244,6 @@ translate chinese sm1cs_am003_442b1bff:
 
     # mc "Sure, sure. I got it."
     mc "当然，当然。我知道的。"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:186
-translate chinese sm1cs_am003_c73287ef:
-
-    # am "Okay. Show me what problems you're having with the website."
-    am "好吧，给我看看你在网站上遇到了什么问题。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:189
 translate chinese sm1cs_am003_606e2d02:
@@ -424,12 +347,6 @@ translate chinese sm1cs_am003_e9721ff3:
     # mc "Thank you!"
     mc "谢谢！"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:290
-translate chinese sm1cs_am003_ba3fd6b1:
-
-    # mc "Ohe dark roast coffee for the girl who roasts me every day."
-    mc "为每天挖苦我的姑娘献上一杯深烘焙咖啡。"
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:293
 translate chinese sm1cs_am003_20494680:
 
@@ -441,12 +358,6 @@ translate chinese sm1cs_am003_a7a92e8f:
 
     # mc "No problem."
     mc "不客气。"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:303
-translate chinese sm1cs_am003_905ee756:
-
-    # mct "Ah. That is the spot."
-    mct "啊。这个位置不错。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:306
 translate chinese sm1cs_am003_3d905e5a:
@@ -574,12 +485,6 @@ translate chinese sm1cs_am003_189dae3a:
     # mc "Like it's not fun anymore?"
     mc "你是说不再像以前那么有趣了吗？"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:365
-translate chinese sm1cs_am003_b689b960:
-
-    # am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
-    am "是的。有很多事情要处理。有些决定我...我们必须得做。艰难的决定。"
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:366
 translate chinese sm1cs_am003_5bd7e194:
 
@@ -616,18 +521,6 @@ translate chinese sm1cs_am003_fdb19f63:
     # am "Right. But... I thought you were trying to like... turn this into a date or something."
     am "这样啊。但是...我还以为你是想...把这件见面变成一次约会呢。"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:382
-translate chinese sm1cs_am003_19fb34a9:
-
-    # mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
-    mc "我觉得我们可能互相误解了对方的意思。要是我想约你出去，我就会直接约你。"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:385
-translate chinese sm1cs_am003_28df6c88:
-
-    # am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
-    am "那是自然。再说你也不会约我出去吧，因为你知道我比你优秀很多。"
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:389
 translate chinese sm1cs_am003_85b15758:
 
@@ -657,18 +550,6 @@ translate chinese sm1cs_am003_ebee4a17:
 
     # mc "Is that a big surprise?"
     mc "这很让人惊讶吗？"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:407
-translate chinese sm1cs_am003_06015bec:
-
-    # am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
-    am "我和很多混蛋共事过，我本来以为你也会和他们一样。但你不是那种无所事事的人。你是--"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:410
-translate chinese sm1cs_am003_407e8a50:
-
-    # mc "Trying to not suck all the time."
-    mc "努力不让自己一直这么差劲。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:413
 translate chinese sm1cs_am003_c35370b4:
@@ -711,18 +592,6 @@ translate chinese sm1cs_am003_d3a6be79:
 
     # am "Well yeah, but you still noticed that line forty-two was the root issue of why the first batch wasn't connecting to the second one."
     am "嗯，话是这么说，但你还是注意到了第42行代码，它是第一批数据无法连接到第二批数据的根本原因。"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:436
-translate chinese sm1cs_am003_02c1f7dd:
-
-    # mc "So I'm a elite-code-monkey now, right?"
-    mc "所以我现在算是个精英码农了，对吧？"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:439
-translate chinese sm1cs_am003_caa31988:
-
-    # am "Oh yeah. A future Wozniak."
-    am "哦，那当然。堪称未来的苹果天才工程师。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:443
 translate chinese sm1cs_am003_575001ec:
@@ -777,12 +646,6 @@ translate chinese sm1cs_am003_036946db:
 
     # mc "I'm down. I can check my calendar."
     mc "我愿意去。我可以看看我那两天有什么安排。"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:484
-translate chinese sm1cs_am003_58dc05c7:
-
-    # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
-    am "太好了。{w}我们是一支异教摇滚乐队，所以要有心理准备。你可能会看到我...样子有点疯狂。而且我脸上可能会涂着油彩，也可能没有。"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:487
 translate chinese sm1cs_am003_d8bc74dd:
@@ -881,4 +744,148 @@ translate chinese strings:
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:159
     old "If you teach me well, I'm sure I'll do great"
     new "要是你好好教我，我肯定能表现得很棒"
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:23
+translate chinese sm1cs_am003_71f06d2b:
+
+    # mc "Hey, April."
+    mc "Hey, April."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:42
+translate chinese sm1cs_am003_9f59f0f4:
+
+    # am "Humans. We have created all this technology.{w} It can do incredible things."
+    am "Humans. We have created all this technology.{w} It can do incredible things."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:99
+translate chinese sm1cs_am003_1fd7d62e:
+
+    # am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
+    am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:111
+translate chinese sm1cs_am003_bcf016f9:
+
+    # am "It's bullying to say someone {b}sucks{/b} at their job?"
+    am "It's bullying to say someone {b}sucks{/b} at their job?"
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:120
+translate chinese sm1cs_am003_aee5974a:
+
+    # mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+    mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:127
+translate chinese sm1cs_am003_b4faa8fc:
+
+    # mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
+    mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:134
+translate chinese sm1cs_am003_ae4dcaad:
+
+    # am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
+    am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:135
+translate chinese sm1cs_am003_67284458:
+
+    # am "But here you are..."
+    am "But here you are..."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:144
+translate chinese sm1cs_am003_8a8d91f6:
+
+    # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
+    mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:145
+translate chinese sm1cs_am003_b4235cd6:
+
+    # mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
+    mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:155
+translate chinese sm1cs_am003_e9ac1b53:
+
+    # am "Against my better judgment, I'll try to give you some pointers here and there."
+    am "Against my better judgment, I'll try to give you some pointers here and there."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:176
+translate chinese sm1cs_am003_d5d84aa0:
+
+    # am "I am not your teacher, [mcname]. That's not my job."
+    am "I am not your teacher, [mcname]. That's not my job."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:186
+translate chinese sm1cs_am003_d6fb5843:
+
+    # am "Okay.{w} Show me what problems you're having with the website."
+    am "Okay.{w} Show me what problems you're having with the website."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:290
+translate chinese sm1cs_am003_ef447ff8:
+
+    # mc "One dark roast coffee for the girl who roasts me every day."
+    mc "One dark roast coffee for the girl who roasts me every day."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:303
+translate chinese sm1cs_am003_97c62095:
+
+    # mct "Ah. That hit the spot."
+    mct "Ah. That hit the spot."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:365
+translate chinese sm1cs_am003_9403deba:
+
+    # am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
+    am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:382
+translate chinese sm1cs_am003_2aa81bf8:
+
+    # mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
+    mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:385
+translate chinese sm1cs_am003_1168ac9b:
+
+    # am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
+    am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:407
+translate chinese sm1cs_am003_d5031920:
+
+    # am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
+    am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:410
+translate chinese sm1cs_am003_80afa197:
+
+    # mc "Trying to not {b}suck{/b} all the time?"
+    mc "Trying to not {b}suck{/b} all the time?"
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:436
+translate chinese sm1cs_am003_5bb6b0ec:
+
+    # mc "So I'm an elite-code-monkey now, right?"
+    mc "So I'm an elite-code-monkey now, right?"
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:439
+translate chinese sm1cs_am003_d906822a:
+
+    # am "Oh yeah... A future Wozniak."
+    am "Oh yeah... A future Wozniak."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:484
+translate chinese sm1cs_am003_45ccaa21:
+
+    # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
+    am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
+    old "I had to come here for work"
+    new "I had to come here for work"
 

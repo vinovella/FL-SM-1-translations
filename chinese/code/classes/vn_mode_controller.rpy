@@ -1,11 +1,5 @@
 ﻿translate chinese strings:
 
-    # game/code/classes/vn_mode_controller.rpy:158
-    old "Progess {storyline_name}"
-    new "Progess {storyline_name}"
-
-translate chinese strings:
-
     # game/code/classes/vn_mode_controller.rpy:190
     old "Progress {storyline_name}"
     new "Progress {storyline_name}"

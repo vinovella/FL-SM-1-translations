@@ -40,18 +40,6 @@ translate chinese sm1cs_am005_bd5cc34c:
     # mct "Then something switched, and she kicked me out of the car. I thought we were going all the way for sure."
     mct "然后不知怎么的，她又把我从车里赶了出来。我当时还以为我们肯定会有进一步发展呢。"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:34
-translate chinese sm1cs_am005_07845eba:
-
-    # mct "This can't go on. I need to at least get us back on some kind of page. We can't work like this."
-    mct "不能再这样下去了。我至少得让我们之间的关系回到正轨。这个样子，我们都不能正常工作了。"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:37
-translate chinese sm1cs_am005_65d3c1ab:
-
-    # mc "Hey April."
-    mc "嘿，艾普尔。"
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:39
 translate chinese sm1cs_am005_0fed480a:
 
@@ -82,12 +70,6 @@ translate chinese sm1cs_am005_f8c981fd:
     # mct "Okay. Message received, April."
     mct "好吧，我懂了，艾普尔。"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:77
-translate chinese sm1cs_am005_hours_later_31c9e580:
-
-    # mct "Finally. That's the last ticket for my shit."
-    mct "终于弄完了。这是我手头最后一张工单了。"
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:80
 translate chinese sm1cs_am005_hours_later_e526a903:
 
@@ -105,12 +87,6 @@ translate chinese sm1cs_am005_hours_later_b7e91ea9:
 
     # mct "Why do I feel like she's going to ninja-jump my ass or something?"
     mct "为什么我感觉她要像忍者一样突然扑过来之类的？"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:95
-translate chinese sm1cs_am005_hours_later_00e95f32:
-
-    # am "Now I can talk. So talk."
-    am "现在我有空聊了。那就说吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:103
 translate chinese sm1cs_am005_hours_later_7b0f101d:
@@ -142,23 +118,11 @@ translate chinese sm1cs_am005_hours_later_52e80c48:
     # mc "You've been blowing me off all day, and now you want to talk?"
     mc "你一整天都对我爱搭不理的，现在又想聊了？"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:117
-translate chinese sm1cs_am005_hours_later_baf13cb7:
-
-    # am "I... yes. I want to talk."
-    am "我...是的。我想聊聊。"
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:120
 translate chinese sm1cs_am005_hours_later_998ba37e:
 
     # am "But you're right, I could have handled things a lot better."
     am "但你说得对，我本可以把事情处理得更好。"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:121
-translate chinese sm1cs_am005_hours_later_8452c48a:
-
-    # am "So... can we just open up a new doc, [mcname]? Start fresh?"
-    am "所以...我们能重新开始吗，[mcname]？重新来过？"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:123
 translate chinese sm1cs_am005_hours_later_a49ed4f8:
@@ -202,29 +166,11 @@ translate chinese sm1cs_am005_hours_later_c970342f:
     # am "Yeah, well... Whatever."
     am "行吧，嗯...随便吧。"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:154
-translate chinese sm1cs_am005_hours_later_d3fe4b1b:
-
-    # mct "I should be a little patient with her. She's obviously got something on her mind."
-    mct "我应该对她有点耐心。很明显她心里有事儿。"
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:155
 translate chinese sm1cs_am005_hours_later_68bdc5fa:
 
     # mct "What is it? And why is she struggling so much?"
     mct "到底是什么事呢？她为什么这么纠结呢？"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:158
-translate chinese sm1cs_am005_hours_later_80ee915e:
-
-    # mct "Wait. Was there more going on when we were in her car?"
-    mct "等等。我在她车里的时候，是不是还有别的情况？"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:159
-translate chinese sm1cs_am005_hours_later_1d1d3df5:
-
-    # mct "Does April have-"
-    mct "艾普尔是不是有--"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:163
 translate chinese sm1cs_am005_hours_later_dcfc613f:
@@ -256,18 +202,6 @@ translate chinese sm1cs_am005_hours_later_8d2b864e:
     # am "The {i}trunk{/i}."
     am "{i}那档子{/i}事。"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:175
-translate chinese sm1cs_am005_hours_later_c4077dbc:
-
-    # am "What do you think, idiot? All of it."
-    am "你觉得呢，蠢货？所有的事。"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:186
-translate chinese sm1cs_am005_sex_1_a74cd018:
-
-    # am "I let my bad impulses take over. My brain wasn't thinking straight."
-    am "我让自己的负面情绪占了上风。当时脑子不太清醒。"
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:188
 translate chinese sm1cs_am005_sex_1_70d74354:
 
@@ -286,12 +220,6 @@ translate chinese sm1cs_am005_sex_1_e5544801:
     # mc "I get it."
     mc "我明白了。"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:198
-translate chinese sm1cs_am005_sex_1_1e01a266:
-
-    # mc "Say no more."
-    mc "不用说了。"
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:199
 translate chinese sm1cs_am005_sex_1_0e0c320b:
 
@@ -303,12 +231,6 @@ translate chinese sm1cs_am005_sex_1_15ee2653:
 
     # mc "Maybe in the next life."
     mc "也许下辈子就会这么觉得吧。"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:203
-translate chinese sm1cs_am005_sex_1_47c34679:
-
-    # am "That's not what I mean."
-    am "我不是这个意思。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:206
 translate chinese sm1cs_am005_sex_1_69da63a3:
@@ -322,12 +244,6 @@ translate chinese sm1cs_am005_sex_1_c9c2e027:
     # mc "What the hell-"
     mc "搞什么--"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:210
-translate chinese sm1cs_am005_sex_1_4a972b58:
-
-    # mc "Care to explain that, April? As you often say, I'm not as sharp as you."
-    mc "你要解释一下吗，艾普尔？就像你常说的，我没你那么聪明。"
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:213
 translate chinese sm1cs_am005_sex_1_e07a0189:
 
@@ -339,12 +255,6 @@ translate chinese sm1cs_am005_sex_1_460a97ce:
 
     # am "I don't know, something bent in a direction it's not meant to bend."
     am "我不知道，有些情绪不受控制了。"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:217
-translate chinese sm1cs_am005_sex_1_581443a6:
-
-    # am "And I just, I don't know, I went stupid mode. Basic mode."
-    am "我只是，我不知道，我当时脑子短路了。很不理智。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:218
 translate chinese sm1cs_am005_sex_1_a4204147:
@@ -375,12 +285,6 @@ translate chinese sm1cs_am005_sex_1_1c8acf17_1:
 
     # am "..."
     am "..."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:229
-translate chinese sm1cs_am005_sex_1_b3c344b0:
-
-    # mc "Text me if you ever figure it out. I got other-"
-    mc "等你想明白了就给我发消息。我还有别的--"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:233
 translate chinese sm1cs_am005_sex_1_cc27a1f7:
@@ -424,12 +328,6 @@ translate chinese sm1cs_am005_sex_1_11455b53:
     # mc "What?"
     mc "什么？"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:262
-translate chinese sm1cs_am005_sex_1_1329a68f:
-
-    # am "I didn't want our first time to be like that."
-    am "我不想我们的第一次是那种情况。"
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:265
 translate chinese sm1cs_am005_sex_1_343269bc:
 
@@ -448,23 +346,11 @@ translate chinese sm1cs_am005_sex_1_b7547a2f:
     # mc "Wait, how long have you been thinking of us do-"
     mc "等等，你想我们之间的...这种事多久了？"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:273
-translate chinese sm1cs_am005_sex_1_72823e2d:
-
-    # am "Shuuuussssssh. Not here."
-    am "嘘嘘嘘...别在这儿说。"
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:277
 translate chinese sm1cs_am005_sex_1_ea038288:
 
     # mc "How long have you been thinking... about this?"
     mc "你想这种事...想多久了？"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:279
-translate chinese sm1cs_am005_sex_1_5601eb0e:
-
-    # am "I don't know. Maybe after I invited you to see my band."
-    am "我不知道。也许自从我邀请你来看我的乐队演出之后吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:280
 translate chinese sm1cs_am005_sex_1_565fb882:
@@ -1036,12 +922,6 @@ translate chinese sm1cs_am005_thumbsup_end_0950ecd7:
     # am "Keep up the good work."
     am "继续努力。"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:599
-translate chinese sm1cs_am005_thumbsup_end_38428ea5:
-
-    # mct "Uh. Did she just really give me a thumb's up?"
-    mct "她真的给我竖了个大拇指？"
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:602
 translate chinese sm1cs_am005_thumbsup_end_58ecb03f:
 
@@ -1117,4 +997,140 @@ translate chinese strings:
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:550
     old "No more games, period"
     new "总之，别再玩那些弯弯绕绕的了"
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:34
+translate chinese sm1cs_am005_d267eb2f:
+
+    # mct "This can't go on. I need to at least get us back on the same page."
+    mct "This can't go on. I need to at least get us back on the same page."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:37
+translate chinese sm1cs_am005_71f06d2b:
+
+    # mc "Hey, April."
+    mc "Hey, April."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:77
+translate chinese sm1cs_am005_hours_later_e90fce66:
+
+    # mct "Finally. That's the last ticket for my shift."
+    mct "Finally. That's the last ticket for my shift."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:86
+translate chinese sm1cs_am005_hours_later_a896092a:
+
+    # mct "April texted me."
+    mct "April texted me."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:96
+translate chinese sm1cs_am005_hours_later_66953d1c:
+
+    # am "Now I can talk.{w} So talk."
+    am "Now I can talk.{w} So talk."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:118
+translate chinese sm1cs_am005_hours_later_146a1f48:
+
+    # am "I... yes.{w} I want to talk."
+    am "I... yes.{w} I want to talk."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:122
+translate chinese sm1cs_am005_hours_later_7d046d84:
+
+    # am "So... can we just open up a new doc, [mcname{w} Start fresh?"
+    am "So... can we just open up a new doc, [mcname{w} Start fresh?"
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:155
+translate chinese sm1cs_am005_hours_later_a275d6ef:
+
+    # mct "I should be a little patient with April.{w} She's obviously got something on her mind."
+    mct "I should be a little patient with April.{w} She's obviously got something on her mind."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:159
+translate chinese sm1cs_am005_hours_later_a7b1f1c9:
+
+    # mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
+    mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:175
+translate chinese sm1cs_am005_hours_later_0ff1fdb3:
+
+    # am "What do you think, idiot?{w} All of it."
+    am "What do you think, idiot?{w} All of it."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:186
+translate chinese sm1cs_am005_sex_1_bd4a6ae6:
+
+    # am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
+    am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:198
+translate chinese sm1cs_am005_sex_1_028c5529:
+
+    # mc "Say no more..."
+    mc "Say no more..."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:203
+translate chinese sm1cs_am005_sex_1_bd9f2d5b:
+
+    # am "[mcname]...{w} That's not what I mean."
+    am "[mcname]...{w} That's not what I mean."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:210
+translate chinese sm1cs_am005_sex_1_4e767ae1:
+
+    # mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
+    mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:217
+translate chinese sm1cs_am005_sex_1_5c9540af:
+
+    # am "And I just, I don't know, I went stupid mode.{w} Basic mode."
+    am "And I just, I don't know, I went stupid mode.{w} Basic mode."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:227
+translate chinese sm1cs_am005_sex_1_1d60ca19:
+
+    # mct "I guess she doesn't have {b}all{/b} the answers."
+    mct "I guess she doesn't have {b}all{/b} the answers."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:230
+translate chinese sm1cs_am005_sex_1_5dc800e5:
+
+    # mc "Text me if you ever figure it out.{w} I got other-"
+    mc "Text me if you ever figure it out.{w} I got other-"
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:263
+translate chinese sm1cs_am005_sex_1_61ca4758:
+
+    # am "I didn't want {b}our{/b} first time to be like that."
+    am "I didn't want {b}our{/b} first time to be like that."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:274
+translate chinese sm1cs_am005_sex_1_de51fd56:
+
+    # am "Shuuuussssssh.{w} Not out here."
+    am "Shuuuussssssh.{w} Not out here."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:280
+translate chinese sm1cs_am005_sex_1_246cc10d:
+
+    # am "I don't know.{w} Maybe after I invited you to see my band."
+    am "I don't know.{w} Maybe after I invited you to see my band."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:600
+translate chinese sm1cs_am005_thumbsup_end_901d4d24:
+
+    # mct "Uh. Did she just really give me a thumbs up?"
+    mct "Uh. Did she just really give me a thumbs up?"
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
+    old "Push it"
+    new "Push it"
+
+    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
+    old "Don't push it"
+    new "Don't push it"
 

@@ -1096,12 +1096,6 @@ translate chinese sm1mv02s07b_d2dcc8a5:
     # mc "And I'll have some fun back here."
     mc "And I'll have some fun back here."
 
-# game/code/scenes/movies/movie02/sm1mv02s07b.rpy:544
-translate chinese sm1mv02s07b_b0ab3d19:
-
-    # ns "*giggles* It will be like a Nari sandwhich."
-    ns "*giggles* It will be like a Nari sandwhich."
-
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:545
 translate chinese sm1mv02s07b_6dd6e6a2:
 
@@ -1581,4 +1575,10 @@ translate chinese sm1mv02s07b_end_1e824725:
 
     # ns "Best spa day ever!"
     ns "Best spa day ever!"
+
+# game/code/scenes/movies/movie02/sm1mv02s07b.rpy:555
+translate chinese sm1mv02s07b_22e4a5e2:
+
+    # ns "*giggles* It will be like a Nari sandwich."
+    ns "*giggles* It will be like a Nari sandwich."
 

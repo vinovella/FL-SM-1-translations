@@ -1864,12 +1864,6 @@ translate chinese sm1cs_ns007_walkaway_1f0277e6:
     # ns "Hmm... considering the food, conversation, company and my the amount of times I came..."
     ns "嗯...考虑到食物、聊天、陪伴，还有我达到高潮的次数..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:999
-translate chinese sm1cs_ns007_walkaway_9df893e7:
-
-    # ns "I will award you...{w}a Eight out of Ten."
-    ns "我给你打...{w}十分中的八分。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1003
 translate chinese sm1cs_ns007_walkaway_e1669c33:
 
@@ -2011,4 +2005,10 @@ translate chinese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:535
     old "I won't tell if you don't"
     new "你不说，我也不说"
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1002
+translate chinese sm1cs_ns007_walkaway_e0cd2531:
+
+    # ns "I will award you...{w}an Eight out of Ten."
+    ns "I will award you...{w}an Eight out of Ten."
 

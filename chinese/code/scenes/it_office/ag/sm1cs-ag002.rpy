@@ -328,12 +328,6 @@ translate chinese sm1cs_ag002_954f8867:
     # ag "I, uhm, don't know what you're talking about."
     ag "我，呃，我不知道你在说什么。"
 
-# game/code/scenes/it_office/ag/sm1cs-ag002.rpy:214
-translate chinese sm1cs_ag002_c1b85313:
-
-    # mc "You know, \"Aubergine Annie\"?"
-    mc "你知道的，\"茄子安妮\"？"
-
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:218
 translate chinese sm1cs_ag002_e0411c2a:
 
@@ -641,4 +635,10 @@ translate chinese strings:
     # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:37
     old "Mojito"
     new "莫吉托"
+
+# game/code/scenes/it_office/ag/sm1cs-ag002.rpy:213
+translate chinese sm1cs_ag002_47fea000:
+
+    # mc "You know, \"Aubergine Anna\"?"
+    mc "You know, \"Aubergine Anna\"?"
 

@@ -832,12 +832,6 @@ translate chinese sm1cs_mh009_c123a681:
     # mh "Well... let meee seeeee..."
     mh "Well... let meee seeeee..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:424
-translate chinese sm1cs_mh009_23db73dc:
-
-    # mh "So... one the the things I've always wanted to do... it to be displayed at a, like, BDSM club."
-    mh "So... one the the things I've always wanted to do... it to be displayed at a, like, BDSM club."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:427
 translate chinese sm1cs_mh009_555eca7c:
 
@@ -2413,4 +2407,10 @@ translate chinese strings:
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:926
     old "Be dominant"
     new "Be dominant"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:425
+translate chinese sm1cs_mh009_d79e591d:
+
+    # mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
+    mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
 

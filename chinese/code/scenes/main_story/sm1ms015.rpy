@@ -52,12 +52,6 @@ translate chinese sm1ms015_065a0b01:
     # sy "What does Orbix do again?"
     sy "Orbix是做什么的来着？"
 
-# game/code/scenes/main_story/sm1ms015.rpy:38
-translate chinese sm1ms015_047997aa:
-
-    # mc "Their main focus is developing IT solutions and infastructure."
-    mc "他们主要开发IT解决方案和基础设施。"
-
 # game/code/scenes/main_story/sm1ms015.rpy:41
 translate chinese sm1ms015_42d68500:
 
@@ -69,12 +63,6 @@ translate chinese sm1ms015_19b2073c:
 
     # my "Mmmm."
     my "唔唔。"
-
-# game/code/scenes/main_story/sm1ms015.rpy:47
-translate chinese sm1ms015_7497e2f1:
-
-    # mc "Everything okay, mom?"
-    mc "妈妈，一切都好吗？"
 
 # game/code/scenes/main_story/sm1ms015.rpy:49
 translate chinese sm1ms015_cdda8f30:
@@ -334,12 +322,6 @@ translate chinese sm1ms015_c978a465:
     # cw "It's Miss."
     cw "是瓦茨小姐。"
 
-# game/code/scenes/main_story/sm1ms015.rpy:157
-translate chinese sm1ms015_f141650f:
-
-    # cw "Nevermind."
-    cw "算了。"
-
 # game/code/scenes/main_story/sm1ms015.rpy:159
 translate chinese sm1ms015_05ee9ede:
 
@@ -531,12 +513,6 @@ translate chinese sm1ms015_85730248:
 
     # sy "Likewise, Nari."
     sy "我也是，娜丽。"
-
-# game/code/scenes/main_story/sm1ms015.rpy:246
-translate chinese sm1ms015_6e0d5e68:
-
-    # ns "And I'm delighted to meet you too, Miss Melony."
-    ns "我也很高兴见到你，梅洛妮小姐。"
 
 # game/code/scenes/main_story/sm1ms015.rpy:248
 translate chinese sm1ms015_9b705389:
@@ -790,12 +766,6 @@ translate chinese sm1ms015_3df01a68:
     # mc "On the other hand, I am a twenty-something co-owner for the studio."
     mc "另一方面，我现在可是一个20多岁的工作室合伙人呢。"
 
-# game/code/scenes/main_story/sm1ms015.rpy:381
-translate chinese sm1ms015_caab2211:
-
-    # sy "Haha. He's got you there, mom."
-    sy "哈哈。他说得有道理，妈妈。"
-
 # game/code/scenes/main_story/sm1ms015.rpy:383
 translate chinese sm1ms015_e575597a:
 
@@ -903,4 +873,34 @@ translate chinese sm1ms015_894728ea:
 
     # sy "Yup."
     sy "好啊。"
+
+# game/code/scenes/main_story/sm1ms015.rpy:38
+translate chinese sm1ms015_23dee611:
+
+    # mc "Their main focus is developing IT solutions and infrastructure."
+    mc "Their main focus is developing IT solutions and infrastructure."
+
+# game/code/scenes/main_story/sm1ms015.rpy:47
+translate chinese sm1ms015_4211e622:
+
+    # mc "Everything okay, Mom?"
+    mc "Everything okay, Mom?"
+
+# game/code/scenes/main_story/sm1ms015.rpy:157
+translate chinese sm1ms015_d989617b:
+
+    # cw "Never mind."
+    cw "Never mind."
+
+# game/code/scenes/main_story/sm1ms015.rpy:246
+translate chinese sm1ms015_fdab53eb:
+
+    # ns "And I'm delighted to meet you too, Ms. Melony."
+    ns "And I'm delighted to meet you too, Ms. Melony."
+
+# game/code/scenes/main_story/sm1ms015.rpy:381
+translate chinese sm1ms015_23fb47ba:
+
+    # sy "Haha. He's got you there, Mom."
+    sy "Haha. He's got you there, Mom."
 

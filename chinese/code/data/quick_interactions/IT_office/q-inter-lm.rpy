@@ -23,10 +23,10 @@ translate chinese q_inter_lm_1_d425daa3:
     mc "Sure?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:22
-translate chinese q_inter_lm_1_ab01c9f3:
+translate chinese q_inter_lm_1_33c1180d:
 
-    # lm "Awesome. Their good changes, I just need to know she's doing stuff."
-    lm "Awesome. Their good changes, I just need to know she's doing stuff."
+    # lm "Awesome. They are good changes, I just need to know she's doing stuff."
+    lm "Awesome. They are good changes, I just need to know she's doing stuff."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:28
 translate chinese q_inter_lm_2_97eaf931:
@@ -47,10 +47,10 @@ translate chinese q_inter_lm_2_9eade80d:
     lm "Great! Claire and I went out to this diner last night and I'm still thinking about it. God, it was good..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:37
-translate chinese q_inter_lm_3_b6e5bab8:
+translate chinese q_inter_lm_3_9f8f1046:
 
-    # lm "Oh, [mcname]. if you see April can you tell her to come see me? I have a doozy of an error I need some help with."
-    lm "Oh, [mcname]. if you see April can you tell her to come see me? I have a doozy of an error I need some help with."
+    # lm "Oh, [mcname]. If you see April can you tell her to come see me? I have a doozy of an error I need some help with."
+    lm "Oh, [mcname]. If you see April can you tell her to come see me? I have a doozy of an error I need some help with."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:39
 translate chinese q_inter_lm_3_54ff50e6:

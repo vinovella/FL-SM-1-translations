@@ -1,5 +1,9 @@
 ﻿translate chinese strings:
 
+    # game/code/data/renpy/defaults.rpy:41
+    old "Mike"
+    new "迈克"
+
     # game/code/data/characters/names.rpy:6
     old "You"
     new "你"

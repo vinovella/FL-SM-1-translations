@@ -904,12 +904,6 @@ translate chinese sm1cs_ns009_sex_continue_0145eaba:
     # mc "It's a great view too."
     mc "这里的景色也很不错。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:513
-translate chinese sm1cs_ns009_sex_continue_d91949c4:
-
-    # ns "*giggles* Don't make feel {i}too{/i} embarassed, [mcname]."
-    ns "*咯咯笑* 别让人觉得{i}太{/i}尴尬，[mcname]。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
 translate chinese sm1cs_ns009_sex_continue_b1abdbcc:
 
@@ -1355,4 +1349,20 @@ translate chinese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:647
     old "Pronebone Nari"
     new "俯卧插入娜丽"
+
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
+translate chinese sm1cs_ns009_sex_continue_78168329:
+
+    # ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
+    ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
+    old "Dominate Nari"
+    new "Dominate Nari"
+
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
+    old "Don't dominate Nari"
+    new "Don't dominate Nari"
 

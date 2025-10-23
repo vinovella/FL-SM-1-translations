@@ -778,10 +778,10 @@ translate chinese sm1fs_t004_workshop_f14028ed:
     # dvh "We are going to do trust falls. If we are to operate as a theater team, we need to trust each other wholly."
     dvh "我们要做信任背摔。如果我们要作为一个剧院团队来运作，我们需要完全信任彼此。"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:512
-translate chinese sm1fs_t004_workshop_ea0fb35d:
+# game/code/scenes/theatre/sm1fs-t004.rpy:514
+translate chinese sm1fs_t004_workshop_37885fbe:
 
-    # dvh "Veronica, Kelly. Please walk into the center of the circle."
+    # dvh "Veronica, Kellie. Please walk into the center of the circle."
     dvh "维罗妮卡，凯莉。请到圈子中间来。"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:515

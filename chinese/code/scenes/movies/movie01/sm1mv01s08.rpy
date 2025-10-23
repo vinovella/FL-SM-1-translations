@@ -1684,12 +1684,6 @@ translate chinese sm1mv01s08_movie_end_174e9d00:
     # tl "Thanks, uhm, Stacy... it's kind of weird to be doing this without some kind of monster makeup on..."
     tl "Thanks, uhm, Stacy... it's kind of weird to be doing this without some kind of monster makeup on..."
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:847
-translate chinese sm1mv01s08_movie_end_5f8f0c7f:
-
-    # sy "You're doing great! Seriously, fucking incrdible."
-    sy "You're doing great! Seriously, fucking incrdible."
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:850
 translate chinese sm1mv01s08_movie_end_f5430d5f:
 
@@ -1797,4 +1791,10 @@ translate chinese strings:
     # game/code/scenes/movies/movie01/sm1mv01s08.rpy:277
     old "Dickhart finds Tempestra"
     new "Dickhart finds Tempestra"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:848
+translate chinese sm1mv01s08_movie_end_65593449:
+
+    # sy "You're doing great! Seriously, fucking incredible."
+    sy "You're doing great! Seriously, fucking incredible."
 
