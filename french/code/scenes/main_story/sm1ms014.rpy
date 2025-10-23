@@ -377,10 +377,10 @@ translate french sm1ms014_6a14826e:
     my "I just hope it's not like [mcname] though, just posted on the internet for anyone to see."
 
 # game/code/scenes/main_story/sm1ms014.rpy:186
-translate french sm1ms014_8530affa:
+translate french sm1ms014_4834ec4b:
 
-    # sy "Uhm, yeah... no internet nudies of me..."
-    sy "Uhm, yeah... no internet nudies of me..."
+    # sy "Uhm, yeah... no internet nudes of me..."
+    sy "Uhm, yeah... no internet nudes of me..."
 
 # game/code/scenes/main_story/sm1ms014.rpy:190
 translate french sm1ms014_fa381239:

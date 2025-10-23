@@ -1065,10 +1065,6 @@ translate french strings:
     new "We all need to blow off steam now and again"
 
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:268
-    old "Maybe"
-    new "Maybe"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:268
     old "I don't think so"
     new "I don't think so"
 

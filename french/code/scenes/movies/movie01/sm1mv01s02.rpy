@@ -646,1345 +646,1345 @@ translate french sm1mv01s02_371407e9:
     # mct "I shouldn't forget my costume."
     mct "I shouldn't forget my costume."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:346
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:347
 translate french sm1mv01s02_later_d498e71f:
 
     # sy "Ooooh. This is going to be great."
     sy "Ooooh. This is going to be great."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:353
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:354
 translate french sm1mv01s02_later_f72bf8f5:
 
     # sy "It fits perfectly."
     sy "It fits perfectly."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:354
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:355
 translate french sm1mv01s02_later_e508dac5:
 
     # sy "Hopefully Kanya found herself something too."
     sy "Hopefully Kanya found herself something too."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:358
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:359
 translate french sm1mv01s02_later_a233524f:
 
     # mct "Alright I found something."
     mct "Alright I found something."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:362
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:363
 translate french sm1mv01s02_later_08e5ae1c:
 
     # mct "Nice. This might work."
     mct "Nice. This might work."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:370
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:371
 translate french sm1mv01s02_later_0f5095cc:
 
     # mc "Baha-ah!"
     mc "Baha-ah!"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:374
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:375
 translate french sm1mv01s02_later_3c65f722:
 
     # "CRASH"
     "CRASH"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:376
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:377
 translate french sm1mv01s02_later_2d61b5a8:
 
     # mc "Skeleton!{w} Horny pirate skeleton!"
     mc "Skeleton!{w} Horny pirate skeleton!"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:379
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:380
 translate french sm1mv01s02_later_4f3de647:
 
     # kv "[mcname] is right. He is certainly a horny pirate."
     kv "[mcname] is right. He is certainly a horny pirate."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:383
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:384
 translate french sm1mv01s02_later_fd14712b:
 
     # sy "So strange. But also so cool."
     sy "So strange. But also so cool."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:387
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:388
 translate french sm1mv01s02_later_baa3d25d:
 
     # sy "Nnrrrn.."
     sy "Nnrrrn.."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:388
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:389
 translate french sm1mv01s02_later_2c2979ba:
 
     # sy "Hmmmph."
     sy "Hmmmph."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:389
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:390
 translate french sm1mv01s02_later_711d858e:
 
     # sy "It must be super-glued on."
     sy "It must be super-glued on."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:392
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:393
 translate french sm1mv01s02_later_0de058fb:
 
     # kv "Someone must have built him for a party at some point."
     kv "Someone must have built him for a party at some point."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:394
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:395
 translate french sm1mv01s02_later_f4f108f2:
 
     # mc "They shouldn't just leave something like this hidden around."
     mc "They shouldn't just leave something like this hidden around."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:397
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:398
 translate french sm1mv01s02_later_28afdfe1:
 
     # sy "Yeah. What a waste."
     sy "Yeah. What a waste."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:401
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:402
 translate french sm1mv01s02_later_b4bbb763:
 
     # sy "Yes!"
     sy "Yes!"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:402
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:403
 translate french sm1mv01s02_later_5737bf74:
 
     # sy "We should put him in the movie."
     sy "We should put him in the movie."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:405
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:406
 translate french sm1mv01s02_later_192794f1:
 
     # mc "Who's the 'him' in that sentence?"
     mc "Who's the 'him' in that sentence?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:408
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:409
 translate french sm1mv01s02_later_9ffe204a:
 
     # sy "Him!"
     sy "Him!"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:413
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:414
 translate french sm1mv01s02_later_a0b12388:
 
     # mc "Yes. A skeleton captain."
     mc "Yes. A skeleton captain."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:416
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:417
 translate french sm1mv01s02_later_b468f957:
 
     # sy "Or a skeleton first mate."
     sy "Or a skeleton first mate."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:419
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:420
 translate french sm1mv01s02_later_461dc047:
 
     # kv "I thought we were making a serious film?"
     kv "I thought we were making a serious film?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:422
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:423
 translate french sm1mv01s02_later_6a4279c2:
 
     # sy "Nothing is as serious as magic that can make a skeleton pirate with a dick."
     sy "Nothing is as serious as magic that can make a skeleton pirate with a dick."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:425
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:426
 translate french sm1mv01s02_later_11c7610c:
 
     # mc "It certainly would make our film stand out."
     mc "It certainly would make our film stand out."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:428
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:429
 translate french sm1mv01s02_later_90fe0ccf:
 
     # kv "You guys are crazy. It's not even a little practical."
     kv "You guys are crazy. It's not even a little practical."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:431
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:432
 translate french sm1mv01s02_later_edaf2c52:
 
     # kv "Look."
     kv "Look."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:432
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:433
 translate french sm1mv01s02_later_cc150cbe:
 
     # kv "This isn't like, an outfit."
     kv "This isn't like, an outfit."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:433
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:434
 translate french sm1mv01s02_later_edbc2b3f:
 
     # kv "It's a statue with some movable arms."
     kv "It's a statue with some movable arms."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:436
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:437
 translate french sm1mv01s02_later_8b64c561:
 
     # kv "And a bit of leg movement."
     kv "And a bit of leg movement."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:437
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:438
 translate french sm1mv01s02_later_f13d5e52:
 
     # kv "You're going to have to move it like a puppet every time it's on screen."
     kv "You're going to have to move it like a puppet every time it's on screen."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:438
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:439
 translate french sm1mv01s02_later_d5ac2ea9:
 
     # kv "It is going to be a huge pain in the ass."
     kv "It is going to be a huge pain in the ass."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:441
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:442
 translate french sm1mv01s02_later_6e6c2f00:
 
     # mc "But so worth it."
     mc "But so worth it."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:443
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:444
 translate french sm1mv01s02_later_bca1236e:
 
     # sy "That's what I'm saying. He can be Captain Bone."
     sy "That's what I'm saying. He can be Captain Bone."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:446
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:447
 translate french sm1mv01s02_later_fca52711:
 
     # mc "No."
     mc "No."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:447
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:448
 translate french sm1mv01s02_later_e9070277:
 
     # mc "Boner. First Mate Boner, undead loyal servant of the Pirate Queen."
     mc "Boner. First Mate Boner, undead loyal servant of the Pirate Queen."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:450
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:451
 translate french sm1mv01s02_later_6d2d8309:
 
     # kv "Haha."
     kv "Haha."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:452
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:453
 translate french sm1mv01s02_later_304163ca:
 
     # sy "I love it."
     sy "I love it."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:455
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:456
 translate french sm1mv01s02_later_e70966a0:
 
     # mc "Hah."
     mc "Hah."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:456
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:457
 translate french sm1mv01s02_later_d3f5af31:
 
     # mc "What do you say, Kanya?"
     mc "What do you say, Kanya?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:459
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:460
 translate french sm1mv01s02_later_ff1d6afb:
 
     # kv "You don't need me to approve this."
     kv "You don't need me to approve this."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:462
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:463
 translate french sm1mv01s02_later_e68144c3:
 
     # mc "We want it to be unified."
     mc "We want it to be unified."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:465
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:466
 translate french sm1mv01s02_later_ea3a10e7:
 
     # sy "Yeah. One vision."
     sy "Yeah. One vision."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:469
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:470
 translate french sm1mv01s02_later_ee8d15c3:
 
     # kv "I appreciate that."
     kv "I appreciate that."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:470
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:471
 translate french sm1mv01s02_later_2a675638:
 
     # kv "But usually the vision of a movie is just the director's."
     kv "But usually the vision of a movie is just the director's."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:473
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:474
 translate french sm1mv01s02_later_66c38d3b:
 
     # mc "Well, we can do it our way."
     mc "Well, we can do it our way."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:476
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:477
 translate french sm1mv01s02_later_f64e9b7f:
 
     # sy "Exactly."
     sy "Exactly."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:477
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:478
 translate french sm1mv01s02_later_a0a65616:
 
     # sy "Our money."
     sy "Our money."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:479
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:480
 translate french sm1mv01s02_later_cd6473ea:
 
     # mc "Our movie."
     mc "Our movie."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:482
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:483
 translate french sm1mv01s02_later_6bb55cd8:
 
     # kv "Okay. I don't get the good of bringing in our skeletal friend, but I am willing to see how it goes."
     kv "Okay. I don't get the good of bringing in our skeletal friend, but I am willing to see how it goes."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:483
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:484
 translate french sm1mv01s02_later_38caa5dc:
 
     # kv "I'm on board."
     kv "I'm on board."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:486
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:487
 translate french sm1mv01s02_later_ebe29f13:
 
     # sy "Yay! Thank you, Kanya."
     sy "Yay! Thank you, Kanya."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:489
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:490
 translate french sm1mv01s02_later_331e8617:
 
     # sy "Now that that's out of the way, what do you think of my outfit, [mcname]?"
     sy "Now that that's out of the way, what do you think of my outfit, [mcname]?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:495
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:496
 translate french sm1mv01s02_later_7bcb8b91:
 
     # mc "I think it's very hot."
     mc "I think it's very hot."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:498
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:499
 translate french sm1mv01s02_later_4fe4d74b:
 
     # sy "Really?"
     sy "Really?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:501
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:502
 translate french sm1mv01s02_later_d98b0ef3:
 
     # mc "Yeah. I'd swab your deck any day."
     mc "Yeah. I'd swab your deck any day."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:503
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:504
 translate french sm1mv01s02_later_8218548c:
 
     # sy "Hehe."
     sy "Hehe."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:508
-translate french sm1mv01s02_later_d0ee1c80:
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:509
+translate french sm1mv01s02_later_1e8e7e72:
 
-    # mc "I think it's the perfect ouftit for a pirate queen."
-    mc "I think it's the perfect ouftit for a pirate queen."
+    # mc "I think it's the perfect outfit for a pirate queen."
+    mc "I think it's the perfect outfit for a pirate queen."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:510
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:511
 translate french sm1mv01s02_later_e1b71c15:
 
     # sy "Awesome."
     sy "Awesome."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:514
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:515
 translate french sm1mv01s02_later_6aba708b:
 
     # sy "Now be a good boy and try on your outfit."
     sy "Now be a good boy and try on your outfit."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:515
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:516
 translate french sm1mv01s02_later_304eba17:
 
     # sy "I'll inspect Kanya's."
     sy "I'll inspect Kanya's."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:518
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:519
 translate french sm1mv01s02_later_64e9d282:
 
     # kv "Only inspection? {w}Boo."
     kv "Only inspection? {w}Boo."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:531
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:532
 translate french sm1mv01s02_later_f60e7509:
 
     # mc "How do I look?"
     mc "How do I look?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:534
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:535
 translate french sm1mv01s02_later_59e7b700:
 
     # sy "Woah."
     sy "Woah."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:537
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:538
 translate french sm1mv01s02_later_d883f784:
 
     # kv "The clothes really {b}make{/b} the man."
     kv "The clothes really {b}make{/b} the man."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:538
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:539
 translate french sm1mv01s02_later_98a85d68:
 
     # kv "Looking like that, I can almost forget that you're a hard-working horndog."
     kv "Looking like that, I can almost forget that you're a hard-working horndog."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:541
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:542
 translate french sm1mv01s02_later_dd9bfd9a:
 
     # mc "And don't you forget it."
     mc "And don't you forget it."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:544
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:545
 translate french sm1mv01s02_later_87de1bac:
 
     # kv "I like that they're tight but flexible."
     kv "I like that they're tight but flexible."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:547
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:548
 translate french sm1mv01s02_later_119b2dec:
 
     # sy "Do you mean you mean sexy but breathable?"
     sy "Do you mean you mean sexy but breathable?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:550
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:551
 translate french sm1mv01s02_later_5475a4de:
 
     # kv "You could say that."
     kv "You could say that."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:553
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:554
 translate french sm1mv01s02_later_9fd7949f:
 
     # sy "Cool. Looks like we have everything."
     sy "Cool. Looks like we have everything."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:554
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:555
 translate french sm1mv01s02_later_05c53aef:
 
     # sy "Everyone get back into your normal clothes and we'll buy everything we need."
     sy "Everyone get back into your normal clothes and we'll buy everything we need."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:558
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:559
 translate french sm1mv01s02_later_9cdb2270:
 
     # mc "Aren't you forgetting something, dear sister?"
     mc "Aren't you forgetting something, dear sister?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:560
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:561
 translate french sm1mv01s02_later_548357a2:
 
     # mc "Aren't you forgetting something, Stacy?"
     mc "Aren't you forgetting something, Stacy?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:562
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:563
 translate french sm1mv01s02_later_652090e3:
 
     # sy "I don't think so."
     sy "I don't think so."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:563
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:564
 translate french sm1mv01s02_later_e9199ac6:
 
     # mc "We haven't {b}tested{/b} the costumes for sex yet."
     mc "We haven't {b}tested{/b} the costumes for sex yet."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:566
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:567
 translate french sm1mv01s02_later_82a705c4:
 
     # kv "Wait. What?"
     kv "Wait. What?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:571
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:572
 translate french sm1mv01s02_later_7b4d5a36:
 
     # sy "YES."
     sy "YES."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:578
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:579
 translate french sm1mv01s02_later_3f0c4f35:
 
     # kv "Guys... this is a sex shop, not the photo dojo."
     kv "Guys... this is a sex shop, not the photo dojo."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:579
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:580
 translate french sm1mv01s02_later_b069b9fb:
 
     # kv "They probably have cameras in the dressing rooms."
     kv "They probably have cameras in the dressing rooms."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:580
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:581
 translate french sm1mv01s02_later_60d467bc:
 
     # kv "And you know{w}... rules against this sort of thing."
     kv "And you know{w}... rules against this sort of thing."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:584
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:585
 translate french sm1mv01s02_later_706d9a7c:
 
     # mc "We'll be quick. Think of it as... field testing."
     mc "We'll be quick. Think of it as... field testing."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:587
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:588
 translate french sm1mv01s02_later_5ed1b1fa:
 
     # kv "Oh, good."
     kv "Oh, good."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:588
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:589
 translate french sm1mv01s02_later_abdb19ef:
 
     # kv "It's okay, officer. It wasn't public indecency.{w} It was field testing."
     kv "It's okay, officer. It wasn't public indecency.{w} It was field testing."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:591
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:592
 translate french sm1mv01s02_later_1c8ea3ba:
 
     # sy "That's a good point, Kanya."
     sy "That's a good point, Kanya."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:592
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:593
 translate french sm1mv01s02_later_a87b0df4:
 
     # sy "But right now, you just have to ask yourself one question."
     sy "But right now, you just have to ask yourself one question."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:593
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:594
 translate french sm1mv01s02_later_8b53b95d:
 
     # sy "Do you feel horny, punk?"
     sy "Do you feel horny, punk?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:595
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:596
 translate french sm1mv01s02_later_7f06eb4b:
 
     # kv "..."
     kv "..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:597
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:598
 translate french sm1mv01s02_later_5892df35:
 
     # sy "Well, do yah?"
     sy "Well, do yah?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:599
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:600
 translate french sm1mv01s02_later_36b38310:
 
     # kv "You two are a bad influence."
     kv "You two are a bad influence."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:603
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:604
 translate french sm1mv01s02_later_faa03e1a:
 
     # mc "Haha."
     mc "Haha."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:606
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:607
 translate french sm1mv01s02_later_e99bf7e5:
 
     # sy "Heheh."
     sy "Heheh."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:613
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:614
 translate french sm1mv01s02_later_59cd2960:
 
     # sy "Well, we can already see that the pants can come off easily."
     sy "Well, we can already see that the pants can come off easily."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:614
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:615
 translate french sm1mv01s02_later_878c94bd:
 
     # sy "That's very useful to know."
     sy "That's very useful to know."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:618
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:619
 translate french sm1mv01s02_later_5d805495:
 
     # sy "And it doesn't seem like it restricts normal bloodflow."
     sy "And it doesn't seem like it restricts normal bloodflow."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:619
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:620
 translate french sm1mv01s02_later_2b22ff9d:
 
     # sy "Very important. Wouldn't you agree, Kanya?"
     sy "Very important. Wouldn't you agree, Kanya?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:622
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:623
 translate french sm1mv01s02_later_6dec30ed:
 
     # kv "I suppose."
     kv "I suppose."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:623
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:624
 translate french sm1mv01s02_later_707b01fa:
 
     # kv "But you need to go further, Stacy."
     kv "But you need to go further, Stacy."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:624
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:625
 translate french sm1mv01s02_later_c1a73d3e:
 
     # kv "Make sure you can suck cock with that hat on."
     kv "Make sure you can suck cock with that hat on."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:627
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:628
 translate french sm1mv01s02_later_b81148b4:
 
     # sy "Smart."
     sy "Smart."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:628
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:629
 translate french sm1mv01s02_later_1244a61e:
 
     # sy "It will be hard, but I love a challenge."
     sy "It will be hard, but I love a challenge."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:638
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:639
 translate french sm1mv01s02_later_0e09b362:
 
     # sy "Lrrrupph... plurrrhph..."
     sy "Lrrrupph... plurrrhph..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:639
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:640
 translate french sm1mv01s02_later_2474ec75:
 
     # kv "Ooouhah..."
     kv "Ooouhah..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:642
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:643
 translate french sm1mv01s02_later_7a478400:
 
     # mc "Ahuah... good girl, Stacy."
     mc "Ahuah... good girl, Stacy."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:643
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:644
 translate french sm1mv01s02_later_13597c08:
 
     # sy "*eager sucking*"
     sy "*eager sucking*"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:646
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:647
 translate french sm1mv01s02_later_d83ed11e:
 
     # kv "Looks the costume passes the horny test with flying colors."
     kv "Looks the costume passes the horny test with flying colors."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:647
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:648
 translate french sm1mv01s02_later_4d2a3293:
 
     # mc "*soft moaning* And then some."
     mc "*soft moaning* And then some."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:650
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:651
 translate french sm1mv01s02_later_3e1a0f62:
 
     # sy "Ahlllpahha... glrrrk... plrrrk... hlrrrpuhh..."
     sy "Ahlllpahha... glrrrk... plrrrk... hlrrrpuhh..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:651
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:652
 translate french sm1mv01s02_later_bb714860:
 
     # kv "Oh we're so doomed. *chuckles*"
     kv "Oh we're so doomed. *chuckles*"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:655
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:656
 translate french sm1mv01s02_later_7072cd51:
 
     # kv "Just think, soon Stacy might go full method acting as the Pirate Queen."
     kv "Just think, soon Stacy might go full method acting as the Pirate Queen."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:657
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:658
 translate french sm1mv01s02_later_9cb4a265:
 
     # kv "We'll have to watch out for that."
     kv "We'll have to watch out for that."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:658
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:659
 translate french sm1mv01s02_later_673b8cbf:
 
     # mc "Haha. *moans* As long as she keeps doing what she's going, my Queen can give me any order."
     mc "Haha. *moans* As long as she keeps doing what she's going, my Queen can give me any order."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:664
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:665
 translate french sm1mv01s02_later_077a6c24:
 
     # sy "*gasping* I want you to fuck me..."
     sy "*gasping* I want you to fuck me..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:665
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:666
 translate french sm1mv01s02_later_24cb088c:
 
     # sy "Right inside this dressing room."
     sy "Right inside this dressing room."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:668
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:669
 translate french sm1mv01s02_later_8f99e740:
 
     # mc "I will, Stacy. But first, I think Kanya needs some attention."
     mc "I will, Stacy. But first, I think Kanya needs some attention."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:678
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:679
 translate french sm1mv01s02_later_605948e7:
 
     # sy "Mrrrahh..."
     sy "Mrrrahh..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:682
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:683
 translate french sm1mv01s02_later_87acb237:
 
     # sy "Hau-huaah..."
     sy "Hau-huaah..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:683
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:684
 translate french sm1mv01s02_later_34e12491:
 
     # kv "*moans happily*"
     kv "*moans happily*"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:686
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:687
 translate french sm1mv01s02_later_13d0470b:
 
     # kv "Mrrr-huaaah... ouhaa fuck."
     kv "Mrrr-huaaah... ouhaa fuck."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:687
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:688
 translate french sm1mv01s02_later_0959e915:
 
     # sy "Very nice."
     sy "Very nice."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:690
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:691
 translate french sm1mv01s02_later_77031b5d:
 
     # mc "Mrrrrmmm."
     mc "Mrrrrmmm."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:699
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:700
 translate french sm1mv01s02_later_764d4da2:
 
     # kv "Mrraah..."
     kv "Mrraah..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:701
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:702
 translate french sm1mv01s02_later_ea518f4f:
 
     # kv "Hu-huyah- H-h-harraaaah...."
     kv "Hu-huyah- H-h-harraaaah...."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:705
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:706
 translate french sm1mv01s02_later_b94f56cb:
 
     # sy "Keep going, [mcname]."
     sy "Keep going, [mcname]."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:706
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:707
 translate french sm1mv01s02_later_76a298ea:
 
     # sy "Make her cum... right in front of me."
     sy "Make her cum... right in front of me."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:714
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:715
 translate french sm1mv01s02_later_bdaede7c:
 
     # kv "*satisfied deep breathing*."
     kv "*satisfied deep breathing*."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:721
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:722
 translate french sm1mv01s02_later_5c1984cd:
 
     # kv "Woah..."
     kv "Woah..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:722
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:723
 translate french sm1mv01s02_later_cd7efae9:
 
     # kv "Your fingers seem extra kinky today, Captain."
     kv "Your fingers seem extra kinky today, Captain."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:725
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:726
 translate french sm1mv01s02_later_e269fc32:
 
     # mc "Thank you, Kanya..."
     mc "Thank you, Kanya..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:727
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:728
 translate french sm1mv01s02_later_d3ba89d8:
 
     # sy "Captain. The Pirate Queen needs a moment of your time..."
     sy "Captain. The Pirate Queen needs a moment of your time..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:730
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:731
 translate french sm1mv01s02_later_b98f163a:
 
     # mc "Just as minute?"
     mc "Just as minute?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:733
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:734
 translate french sm1mv01s02_later_5911a183:
 
     # sy "Okay...{w} as long as it takes..."
     sy "Okay...{w} as long as it takes..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:734
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:735
 translate french sm1mv01s02_later_8d27aa77:
 
     # sy "Now please put your cock inside my cove."
     sy "Now please put your cock inside my cove."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:736
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:737
 translate french sm1mv01s02_later_42485e58:
 
     # mc "The cannon is ready, my queen."
     mc "The cannon is ready, my queen."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:747
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:748
 translate french sm1mv01s02_later_efebd025:
 
     # sy "Oh god."
     sy "Oh god."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:748
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
 translate french sm1mv01s02_later_72fa2eae:
 
     # mc "Heh. The Pirate Queen has a very wet weak spot."
     mc "Heh. The Pirate Queen has a very wet weak spot."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:750
 translate french sm1mv01s02_later_063a8ccb:
 
     # sy "Shuddup... *moans wildly*"
     sy "Shuddup... *moans wildly*"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:752
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:753
 translate french sm1mv01s02_later_c800bdff:
 
     # sy "*moaning* Oh, that's so good."
     sy "*moaning* Oh, that's so good."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:753
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:754
 translate french sm1mv01s02_later_547407b9:
 
     # sy "Fucking in costumes is so much fun."
     sy "Fucking in costumes is so much fun."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:756
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:757
 translate french sm1mv01s02_later_bc14aa04:
 
     # kv "It really is. I always get super horny when I'm wearing a mask."
     kv "It really is. I always get super horny when I'm wearing a mask."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:757
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:758
 translate french sm1mv01s02_later_e26ef220:
 
     # kv "That... anonymity as someone you don't know fucks you..."
     kv "That... anonymity as someone you don't know fucks you..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:758
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:759
 translate french sm1mv01s02_later_315b0dc3:
 
     # kv "Oh, it feels so good."
     kv "Oh, it feels so good."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:761
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:762
 translate french sm1mv01s02_later_658872c7:
 
     # mc "Mmma-huaaah..."
     mc "Mmma-huaaah..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:765
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:766
 translate french sm1mv01s02_later_c0564d68:
 
     # mc "Reminds me of my early Fetish Locator parties."
     mc "Reminds me of my early Fetish Locator parties."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:766
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:767
 translate french sm1mv01s02_later_aba8bc8d:
 
     # mc "So fucking hot."
     mc "So fucking hot."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:768
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:769
 translate french sm1mv01s02_later_7bf1f8b2:
 
     # sy "Muaha... fuahah... We should do a Fetish Locator Movie."
     sy "Muaha... fuahah... We should do a Fetish Locator Movie."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:769
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:770
 translate french sm1mv01s02_later_bb9b7392:
 
     # mc "We weren't planning one already?"
     mc "We weren't planning one already?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:772
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:773
 translate french sm1mv01s02_later_e3a58f39:
 
     # sy "I don't know."
     sy "I don't know."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:773
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:774
 translate french sm1mv01s02_later_12dd17f0:
 
     # sy "I can't think anymore..."
     sy "I can't think anymore..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:776
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:777
 translate french sm1mv01s02_later_086e169d:
 
     # sy "Cum...{w} Cum inside of me."
     sy "Cum...{w} Cum inside of me."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:777
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:778
 translate french sm1mv01s02_later_5329efe3:
 
     # sy "Don't stain the costume."
     sy "Don't stain the costume."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:782
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:783
 translate french sm1mv01s02_later_2ede6974:
 
     # sy "Oh bro, I'm getting close!"
     sy "Oh bro, I'm getting close!"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:784
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:785
 translate french sm1mv01s02_later_aa9328ab:
 
     # sy "Oh [mcname], I'm getting close!"
     sy "Oh [mcname], I'm getting close!"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:785
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:786
 translate french sm1mv01s02_later_d55d85a8:
 
     # kv "Give it to her, [mcname]."
     kv "Give it to her, [mcname]."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:787
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:788
 translate french sm1mv01s02_later_7b21a735:
 
     # kv "Cum inside your sister's pussy."
     kv "Cum inside your sister's pussy."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:789
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:790
 translate french sm1mv01s02_later_19e7f81d:
 
     # kv "Fill up the Pirate Queen's cunny."
     kv "Fill up the Pirate Queen's cunny."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:798
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:799
 translate french sm1mv01s02_later_86137fb5:
 
     # sy "Urrahah... fuck. So good."
     sy "Urrahah... fuck. So good."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:802
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:803
 translate french sm1mv01s02_later_a6f37aa3:
 
     # sy "But now... I gotta keep my legs squeezed together for a moment."
     sy "But now... I gotta keep my legs squeezed together for a moment."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:805
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:806
 translate french sm1mv01s02_later_f4f2111e:
 
     # kv "We should get dressed in our normal clothes."
     kv "We should get dressed in our normal clothes."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:806
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:807
 translate french sm1mv01s02_later_09003c12:
 
     # kv "Hopefully the clerk had a long list of loud customers."
     kv "Hopefully the clerk had a long list of loud customers."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:824
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:825
 translate french sm1mv01s02_later_da1dfe01:
 
     # "Worker" "Excuse me."
     "Worker" "Excuse me."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:828
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:829
 translate french sm1mv01s02_later_4b4789b7:
 
     # mct "Doh!"
     mct "Doh!"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:831
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:832
 translate french sm1mv01s02_later_ab76bff1:
 
     # "Worker" "I hope you enjoyed that. And the outfits. Because you are definitely purchasing every garment that you went in with."
     "Worker" "I hope you enjoyed that. And the outfits. Because you are definitely purchasing every garment that you went in with."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:834
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:835
 translate french sm1mv01s02_later_01cd3e26:
 
     # "Worker" "And you'll also be buying anything else affected by your lapse of judgement."
     "Worker" "And you'll also be buying anything else affected by your lapse of judgement."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:835
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:836
 translate french sm1mv01s02_later_c8546ee6:
 
     # "Worker" "I expect a little better of you, Kanya."
     "Worker" "I expect a little better of you, Kanya."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:838
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:839
 translate french sm1mv01s02_later_6581fe71:
 
     # kv "I know."
     kv "I know."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:839
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:840
 translate french sm1mv01s02_later_b44d3c4b:
 
     # kv "These two just bring out my extra kinky side."
     kv "These two just bring out my extra kinky side."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:842
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:843
 translate french sm1mv01s02_later_ef924068:
 
     # "Worker" "Well I suggest you save it for the privacy of your own home."
     "Worker" "Well I suggest you save it for the privacy of your own home."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:845
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:846
 translate french sm1mv01s02_later_9ece5b20:
 
     # mc "Or our own porn studio."
     mc "Or our own porn studio."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:847
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:848
 translate french sm1mv01s02_later_bca09261:
 
     # sy "Hehehe."
     sy "Hehehe."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:850
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:851
 translate french sm1mv01s02_later_bc0c4158:
 
     # "Worker" "I'll be waiting at the counter."
     "Worker" "I'll be waiting at the counter."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:851
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:852
 translate french sm1mv01s02_later_a5f29463:
 
     # "Worker" "And make sure you bring up everything."
     "Worker" "And make sure you bring up everything."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:855
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:856
 translate french sm1mv01s02_later_3471c0ab:
 
     # "Worker" "Kanya was right."
     "Worker" "Kanya was right."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:856
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:857
 translate french sm1mv01s02_later_fab98077:
 
     # "Worker" "We do have cameras."
     "Worker" "We do have cameras."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:857
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:858
 translate french sm1mv01s02_later_764403cd:
 
     # "Worker" "This is a place of business. Not a live-action Fansly shoot."
     "Worker" "This is a place of business. Not a live-action Fansly shoot."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:863
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:864
 translate french sm1mv01s02_later_9f7e8476:
 
     # sy "Right. Sorry. Got a little... enthusiastic."
     sy "Right. Sorry. Got a little... enthusiastic."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:865
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:866
 translate french sm1mv01s02_later_8d8c970d:
 
     # kv "But I think we're ready to purchase everything."
     kv "But I think we're ready to purchase everything."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:866
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:867
 translate french sm1mv01s02_later_e3395250:
 
     # kv "Maybe including a gift card to smooth things over."
     kv "Maybe including a gift card to smooth things over."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:871
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:872
 translate french sm1mv01s02_later_0a29db9f:
 
     # "Worker" "Good thinking, Kanya."
     "Worker" "Good thinking, Kanya."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:877
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:878
 translate french sm1mv01s02_later_b2cbc7b2:
 
     # "Worker" "And here is the total."
     "Worker" "And here is the total."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:880
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:881
 translate french sm1mv01s02_later_7765b292:
 
     # mc "*gulp*"
     mc "*gulp*"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:881
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:882
 translate french sm1mv01s02_later_164ecf31:
 
     # mc "Do you do discounts for 'accidental orgy-related product damage'?"
     mc "Do you do discounts for 'accidental orgy-related product damage'?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:884
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:885
 translate french sm1mv01s02_later_5c7b1ea3:
 
     # "Worker" "Nrnnn."
     "Worker" "Nrnnn."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:887
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:888
 translate french sm1mv01s02_later_fa158adf:
 
     # mc "Hey, I was just joking."
     mc "Hey, I was just joking."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:891
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:892
 translate french sm1mv01s02_later_c23b85e7:
 
     # kv "Come on, [mcname]."
     kv "Come on, [mcname]."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:895
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:896
 translate french sm1mv01s02_later_c00afa54:
 
     # "Worker" "Thank you for shopping with us."
     "Worker" "Thank you for shopping with us."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:898
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:899
 translate french sm1mv01s02_later_81bb874d:
 
     # "Worker" "Next time, please just try on the clothes at home."
     "Worker" "Next time, please just try on the clothes at home."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:900
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:901
 translate french sm1mv01s02_later_a3480574:
 
     # kv "Will do."
     kv "Will do."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:904
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:905
 translate french sm1mv01s02_later_29c9338e:
 
     # mc "Yeouch."
     mc "Yeouch."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:905
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:906
 translate french sm1mv01s02_later_ad47d636:
 
     # mc "More expensive than I planned on."
     mc "More expensive than I planned on."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:910
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:911
 translate french sm1mv01s02_later_2fa0bb4e:
 
     # sy "Honestly, worth it. We will look amazing.{w} I just know it!"
     sy "Honestly, worth it. We will look amazing.{w} I just know it!"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:912
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:913
 translate french sm1mv01s02_later_12e7afd4:
 
     # mc "Yeah but for now, we're just significantly poorer than when we started the day."
     mc "Yeah but for now, we're just significantly poorer than when we started the day."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:915
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:916
 translate french sm1mv01s02_later_6d2d8309_1:
 
     # kv "Haha."
     kv "Haha."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:916
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:917
 translate french sm1mv01s02_later_e54de122:
 
     # kv "Maybe there is a lesson here about self-control."
     kv "Maybe there is a lesson here about self-control."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:920
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:921
 translate french sm1mv01s02_later_236998fc:
 
     # mc "I had control. I just chose chaos."
     mc "I had control. I just chose chaos."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:923
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:924
 translate french sm1mv01s02_later_8118bd4f:
 
     # kv "Get all your silly out now, [mcname].{w} We're going to have to be professional pretty soon."
     kv "Get all your silly out now, [mcname].{w} We're going to have to be professional pretty soon."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:926
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:927
 translate french sm1mv01s02_later_124d509a:
 
     # sy "Yeah. We can't mess this up."
     sy "Yeah. We can't mess this up."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:928
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:929
 translate french sm1mv01s02_later_3c916420:
 
     # sy "If we make this film and it bombs, we're going to have to seriously consider reevaluating our life choices."
     sy "If we make this film and it bombs, we're going to have to seriously consider reevaluating our life choices."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:931
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:932
 translate french sm1mv01s02_later_500113a6:
 
     # mc "Never going to happen."
     mc "Never going to happen."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:934
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:935
 translate french sm1mv01s02_later_87c7a278:
 
     # kv "I know that we have done this before, but you two both know just how hard the next few stages will be."
     kv "I know that we have done this before, but you two both know just how hard the next few stages will be."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:937
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:938
 translate french sm1mv01s02_later_dff79cab:
 
     # mc "You're right."
     mc "You're right."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:939
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:940
 translate french sm1mv01s02_later_02eaa174:
 
     # sy "I'll dial my silliness down."
     sy "I'll dial my silliness down."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:941
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:942
 translate french sm1mv01s02_later_6a028b65:
 
     # kv "Thanks."
     kv "Thanks."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:944
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:946
 translate french sm1mv01s02_later_a05cd929:
 
     # sy "Damn it. We forgot to find swords."
     sy "Damn it. We forgot to find swords."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:947
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:949
 translate french sm1mv01s02_later_b3242797:
 
     # kv "Yeah, I know. I looked around and all I found was a long vibrating..."
     kv "Yeah, I know. I looked around and all I found was a long vibrating..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:948
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:950
 translate french sm1mv01s02_later_4a4f5a78:
 
     # kv "Well it wasn't going to work."
     kv "Well it wasn't going to work."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:953
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:955
 translate french sm1mv01s02_later_3a154c9f:
 
     # mc "I had a feeling we wouldn't find them here."
     mc "I had a feeling we wouldn't find them here."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:954
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:956
 translate french sm1mv01s02_later_a71f6a5e:
 
     # mc "I mean it is just a sex shop."
     mc "I mean it is just a sex shop."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:955
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:957
 translate french sm1mv01s02_later_2d42a6f1:
 
     # mc "It would be too easy if they had everything we needed."
     mc "It would be too easy if they had everything we needed."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:958
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:960
 translate french sm1mv01s02_later_d6298adc:
 
     # sy "So... where are we going to get swords?"
     sy "So... where are we going to get swords?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:961
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:963
 translate french sm1mv01s02_later_c62d4378:
 
     # mc "Don't worry about it. I'm already thinking up a few options."
     mc "Don't worry about it. I'm already thinking up a few options."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:962
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:964
 translate french sm1mv01s02_later_78c04abe:
 
     # mc "Everything will be fine, Stacy."
     mc "Everything will be fine, Stacy."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:973
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:975
 translate french sm1mv01s02_dress_tl_0247e6e3:
 
     # kv "I feel like we're forgetting something."
     kv "I feel like we're forgetting something."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:976
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:978
 translate french sm1mv01s02_dress_tl_f6a5cd1a:
 
     # mc "Oh yeah. We should get Taisia into her costume and make sure it fits."
     mc "Oh yeah. We should get Taisia into her costume and make sure it fits."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:977
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:979
 translate french sm1mv01s02_dress_tl_ab9f3ff3:
 
     # mc "Don't want to waste time we don't have."
     mc "Don't want to waste time we don't have."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:993
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:995
 translate french sm1mv01s02_walkout_08e04b18:
 
     # kv "Are you two able to make it back home from here?"
     kv "Are you two able to make it back home from here?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:996
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:998
 translate french sm1mv01s02_walkout_531bfbf1:
 
     # sy "Sure."
     sy "Sure."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:998
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1000
 translate french sm1mv01s02_walkout_f8c4c766:
 
     # mc "Everything alright?"
     mc "Everything alright?"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1001
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1003
 translate french sm1mv01s02_walkout_9dfe18ce:
 
     # kv "Totally. I just need to head back to the photo-dojo."
     kv "Totally. I just need to head back to the photo-dojo."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1002
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1004
 translate french sm1mv01s02_walkout_1de1d204:
 
     # kv "Got a client to make a spread for."
     kv "Got a client to make a spread for."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1005
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1007
 translate french sm1mv01s02_walkout_40346122:
 
     # mc "Sounds fun."
     mc "Sounds fun."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1007
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1009
 translate french sm1mv01s02_walkout_3606bb3f:
 
     # sy "Thanks for all your help, Kanya."
     sy "Thanks for all your help, Kanya."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1008
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1010
 translate french sm1mv01s02_walkout_ef7a7e35:
 
     # sy "We'll get in touch soon about the next steps."
     sy "We'll get in touch soon about the next steps."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1011
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:1013
 translate french sm1mv01s02_walkout_e7421fbe:
 
     # kv "I'm counting on it."
@@ -2000,11 +2000,11 @@ translate french strings:
     old "We may have made a huge mistake"
     new "We may have made a huge mistake"
 
-    # game/code/scenes/movies/movie01/sm1mv01s02.rpy:490
+    # game/code/scenes/movies/movie01/sm1mv01s02.rpy:491
     old "Horny"
     new "Horny"
 
-    # game/code/scenes/movies/movie01/sm1mv01s02.rpy:490
+    # game/code/scenes/movies/movie01/sm1mv01s02.rpy:491
     old "Focused"
     new "Focused"
 

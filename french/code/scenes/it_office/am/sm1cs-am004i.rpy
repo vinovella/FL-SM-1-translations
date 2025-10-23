@@ -41,16 +41,16 @@ translate french sm1cs_am004i_6d5df964:
     mc "Yes, of course, I'm coming. I'm excited to see you rock out."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:24
-translate french sm1cs_am004i_ff3a2552:
+translate french sm1cs_am004i_e2e0bcfb:
 
-    # am "Well, don't forget, it's pagon rock. I don't want to hear you whining later."
-    am "Well, don't forget, it's pagon rock. I don't want to hear you whining later."
+    # am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
+    am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
-translate french sm1cs_am004i_9cbe2ef6:
+translate french sm1cs_am004i_286029a4:
 
-    # mc "Woudln't dream of it. See you tonight."
-    mc "Woudln't dream of it. See you tonight."
+    # mc "Wouldn't dream of it. See you tonight."
+    mc "Wouldn't dream of it. See you tonight."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:27
 translate french sm1cs_am004i_6e94d2fc:

@@ -95,10 +95,10 @@ translate french sm1cs_cw003_0b0e1196:
     mc "So anyhow, there I am, doing my best to pretend like Claire and I are in a relationship."
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:48
-translate french sm1cs_cw003_4f124ce0:
+translate french sm1cs_cw003_c8642c96:
 
-    # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"kinky\" app anymore."
-    mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"kinky\" app anymore."
+    # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
+    mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:51
 translate french sm1cs_cw003_790de301:

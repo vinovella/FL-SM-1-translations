@@ -45,6 +45,6 @@
     new "Lyssa's House"
 
     # game/code/data/constants/location_constants.rpy:197
-    old "Guns n' Rossette's"
-    new "Guns n' Rossette's"
+    old "Guns n' Rosette"
+    new "Guns n' Rosette"
 

@@ -69,8 +69,8 @@
     new "Well."
 
     # game/code/data/chat/chat_mes.rpy:58
-    old "Nevermind. Are you down or not?"
-    new "Nevermind. Are you down or not?"
+    old "Never mind. Are you down or not?"
+    new "Never mind. Are you down or not?"
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Yes, Min. Send me the details."

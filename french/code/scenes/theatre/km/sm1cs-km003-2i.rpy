@@ -101,10 +101,10 @@ translate french sm1cs_km003_2i_8b4a888f:
     mc "Haha. Yeah. Veronica really is one of a kind, isn't she?"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:45
-translate french sm1cs_km003_2i_2237cc3e:
+translate french sm1cs_km003_2i_c20b6007:
 
-    # km "Scoffs."
-    km "Scoffs."
+    # km "*scoffs.*"
+    km "*scoffs.*"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:49
 translate french sm1cs_km003_2i_9ab052ea:
@@ -257,10 +257,10 @@ translate french sm1cs_km003_2i_menu_58850354:
     km "Well... since you asked. Sure."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:127
-translate french sm1cs_km003_2i_menu_de5db7e8:
+translate french sm1cs_km003_2i_menu_e67aa3d0:
 
-    # km "Let's go to the main stage"
-    km "Let's go to the main stage"
+    # km "Let's go to the main stage."
+    km "Let's go to the main stage."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:129
 translate french sm1cs_km003_2i_menu_716019b8:
@@ -271,18 +271,18 @@ translate french sm1cs_km003_2i_menu_716019b8:
 translate french strings:
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:55
-    old "To be honest, I've been slacking. Lots of stuff going on."
-    new "To be honest, I've been slacking. Lots of stuff going on."
+    old "To be honest, I've been slacking. Lots of stuff going on"
+    new "To be honest, I've been slacking. Lots of stuff going on"
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:55
-    old "I've been doing alright. But I could use help."
-    new "I've been doing alright. But I could use help."
+    old "I've been doing alright. But I could use help"
+    new "I've been doing alright. But I could use help"
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:99
-    old "Alright, let's do another lesson."
-    new "Alright, let's do another lesson."
+    old "Alright, let's do another lesson"
+    new "Alright, let's do another lesson"
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:99
-    old "Veronica doesn't seem to do that."
-    new "Veronica doesn't seem to do that."
+    old "Veronica doesn't seem to do that"
+    new "Veronica doesn't seem to do that"
 

@@ -653,6 +653,6 @@ translate french strings:
     new "Practicing kisses?"
 
     # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30
-    old "There must be a special form."
-    new "There must be a special form."
+    old "There must be a special form"
+    new "There must be a special form"
 

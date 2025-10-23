@@ -1,1348 +1,1348 @@
-﻿# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:69
+﻿# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:70
 translate french sm1cs_vs005_47747750:
 
     # vs "You must be so happy the renovation is done, [mcname]."
     vs "You must be so happy the renovation is done, [mcname]."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:72
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:73
 translate french sm1cs_vs005_4e4adc39:
 
     # mc "Yeah. It was time well spent, but I'm glad it's behind me."
     mc "Yeah. It was time well spent, but I'm glad it's behind me."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:73
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:74
 translate french sm1cs_vs005_68ba895a:
 
     # mc "I'll have to invite you over and show you the improvements one day."
     mc "I'll have to invite you over and show you the improvements one day."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:76
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:77
 translate french sm1cs_vs005_73cec443:
 
     # vs "I bet it would be a great spot to host a Fetish Locator party if those were still around."
     vs "I bet it would be a great spot to host a Fetish Locator party if those were still around."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:79
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:80
 translate french sm1cs_vs005_0b53206b:
 
     # vs "Speaking of Fetish Locator, it's time for our Blitz Challenge."
     vs "Speaking of Fetish Locator, it's time for our Blitz Challenge."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:86
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:87
 translate french sm1cs_vs005_073132bc:
 
     # vs "Come on, slowpoke. Don't leave me hanging."
     vs "Come on, slowpoke. Don't leave me hanging."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:103
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:104
 translate french sm1cs_vs005_9daec6aa:
 
     # vs "Mmmm."
     vs "Mmmm."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:106
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:107
 translate french sm1cs_vs005_ff8e351f:
 
     # vs "Now we can be loud..."
     vs "Now we can be loud..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:110
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:111
 translate french sm1cs_vs005_8bda2849:
 
     # vs "Can you please sit on the bed for me."
     vs "Can you please sit on the bed for me."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:116
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:117
 translate french sm1cs_vs005_234bfd21:
 
     # vs "This challenge."
     vs "This challenge."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:123
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:124
 translate french sm1cs_vs005_471ca14b:
 
     # vs "*giggles* [mcname]... Come on, have a little patience."
     vs "*giggles* [mcname]... Come on, have a little patience."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:125
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:126
 translate french sm1cs_vs005_ed8219a9:
 
     # mc "I'm trying."
     mc "I'm trying."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:130
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:131
 translate french sm1cs_vs005_63d0d2c9:
 
     # vs "Like I was saying. The challenge..."
     vs "Like I was saying. The challenge..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:131
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:132
 translate french sm1cs_vs005_6e8ec1a6:
 
     # vs "Is still a secret one."
     vs "Is still a secret one."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:134
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:135
 translate french sm1cs_vs005_e6cd30f3:
 
     # vs "Just for a little while longer."
     vs "Just for a little while longer."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:138
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:139
 translate french sm1cs_vs005_273fa2d0:
 
     # mc "Woah."
     mc "Woah."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:141
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:142
 translate french sm1cs_vs005_911159e4:
 
     # vs "We're going to need to get you nice and wet, Mr. Slick."
     vs "We're going to need to get you nice and wet, Mr. Slick."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:142
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:143
 translate french sm1cs_vs005_24875ff0:
 
     # vs "I can tell you that much."
     vs "I can tell you that much."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:145
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:146
 translate french sm1cs_vs005_28b4bc68:
 
     # mc "I see what you're going for."
     mc "I see what you're going for."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:146
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:147
 translate french sm1cs_vs005_de8094d1:
 
     # mc "You go down, I go up."
     mc "You go down, I go up."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:149
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:150
 translate french sm1cs_vs005_f4e80f79:
 
     # vs "Precisely."
     vs "Precisely."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:153
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:154
 translate french sm1cs_vs005_d28b0fbc:
 
     # vs "When I saw this position, I knew we had to try it."
     vs "When I saw this position, I knew we had to try it."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:155
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:156
 translate french sm1cs_vs005_048e5d39:
 
     # mc "Hell's yeah. And you're okay doing it like this?"
     mc "Hell's yeah. And you're okay doing it like this?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:156
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:157
 translate french sm1cs_vs005_6aeb70b8:
 
     # vs "Oh yeah...{w} My yoga stretches are usually a bit more intense."
     vs "Oh yeah...{w} My yoga stretches are usually a bit more intense."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:160
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:161
 translate french sm1cs_vs005_362639a3:
 
     # vs "Mrmmm."
     vs "Mrmmm."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:163
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:164
 translate french sm1cs_vs005_ba6ac431:
 
     # vs "But this exercise is making me extra horny."
     vs "But this exercise is making me extra horny."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:168
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:169
 translate french sm1cs_vs005_77975f23:
 
     # mc "Mmmm."
     mc "Mmmm."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:170
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:171
 translate french sm1cs_vs005_88b2a562:
 
     # vs "Ooouhah... Starting already."
     vs "Ooouhah... Starting already."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:171
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:172
 translate french sm1cs_vs005_e0fd3862:
 
     # vs "I love your initiative."
     vs "I love your initiative."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:173
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:174
 translate french sm1cs_vs005_fef5cd1b:
 
     # mc "I think your secret challenge is to see who can make the other cum first."
     mc "I think your secret challenge is to see who can make the other cum first."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:175
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:176
 translate french sm1cs_vs005_8723c2a1:
 
     # vs "*moaning and giggling* It's not-huaah."
     vs "*moaning and giggling* It's not-huaah."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:176
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:177
 translate french sm1cs_vs005_0b798811:
 
     # vs "But that's still a good idea."
     vs "But that's still a good idea."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:177
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:178
 translate french sm1cs_vs005_6483c0e3:
 
     # vs "You're on, Mr. Slick!"
     vs "You're on, Mr. Slick!"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:183
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:184
 translate french sm1cs_vs005_0f96be4c:
 
     # vs "Now you get to lick me with my panties off."
     vs "Now you get to lick me with my panties off."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:184
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:185
 translate french sm1cs_vs005_b0f8935a:
 
     # mc "It's perfect. But then again, now I can't smell that wet fragrance in the cotton."
     mc "It's perfect. But then again, now I can't smell that wet fragrance in the cotton."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:187
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:188
 translate french sm1cs_vs005_f4307c6b:
 
     # vs "Ooooh. Was I that wet before?"
     vs "Ooooh. Was I that wet before?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:188
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:189
 translate french sm1cs_vs005_2d30455a:
 
     # mc "A bit."
     mc "A bit."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:191
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:192
 translate french sm1cs_vs005_64a7ad21:
 
     # vs "Glrrrruk... Plrrurrrk..."
     vs "Glrrrruk... Plrrurrrk..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:192
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:193
 translate french sm1cs_vs005_29cc31f0:
 
     # vs "*panting* I... Phew... I really like it so deep."
     vs "*panting* I... Phew... I really like it so deep."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:195
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:196
 translate french sm1cs_vs005_6c3a4879:
 
     # vs "*wet sucking*"
     vs "*wet sucking*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:196
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:197
 translate french sm1cs_vs005_6d97b4da:
 
     # mct "Fuck me. She's sucking me even harder than last time."
     mct "Fuck me. She's sucking me even harder than last time."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:199
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:200
 translate french sm1cs_vs005_47508ae0:
 
     # mct "This angle is amazing, and the way it lets her go deep is incredible!"
     mct "This angle is amazing, and the way it lets her go deep is incredible!"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:200
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:201
 translate french sm1cs_vs005_8e76581a:
 
     # mc "*grunts* Bubblegum..."
     mc "*grunts* Bubblegum..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:203
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:204
 translate french sm1cs_vs005_03bd2c09:
 
     # mc "Be careful, or you might make me cum already."
     mc "Be careful, or you might make me cum already."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:204
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:205
 translate french sm1cs_vs005_76573763:
 
     # vs "Ahuah... that's okay."
     vs "Ahuah... that's okay."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:205
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:206
 translate french sm1cs_vs005_50fb2165:
 
     # vs "I really enjoy your taste."
     vs "I really enjoy your taste."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:208
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:209
 translate french sm1cs_vs005_460732b6:
 
     # vs "But I guess I should cool the engine just a little bit."
     vs "But I guess I should cool the engine just a little bit."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:209
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:210
 translate french sm1cs_vs005_291e30ae:
 
     # vs "Just don't think I'm going to go too easy."
     vs "Just don't think I'm going to go too easy."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:212
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:213
 translate french sm1cs_vs005_faa03e1a:
 
     # mc "Haha."
     mc "Haha."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:218
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:219
 translate french sm1cs_vs005_98f19fc0:
 
     # vs "Hhuaah... Much better."
     vs "Hhuaah... Much better."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:221
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:222
 translate french sm1cs_vs005_f076b7d6:
 
     # vs "Now I need you inside here..."
     vs "Now I need you inside here..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:225
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:226
 translate french sm1cs_vs005_029e08a9:
 
     # vs "Come on, [mcname]. We need to make that superstar as wet as we can, remember."
     vs "Come on, [mcname]. We need to make that superstar as wet as we can, remember."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:228
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:229
 translate french sm1cs_vs005_998a5d9f:
 
     # mc "I remember."
     mc "I remember."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:234
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:235
 translate french sm1cs_vs005_03536da5:
 
     # vs "Ohahuaa fuck!"
     vs "Ohahuaa fuck!"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:237
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:238
 translate french sm1cs_vs005_096bcc92:
 
     # mc "Too much?"
     mc "Too much?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:240
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:241
 translate french sm1cs_vs005_b63fb36e:
 
     # vs "You are... way bigger than my dildo, Mr. Slick."
     vs "You are... way bigger than my dildo, Mr. Slick."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:243
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:244
 translate french sm1cs_vs005_dbe512ae:
 
     # mc "Want me to pull out?"
     mc "Want me to pull out?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:246
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:247
 translate french sm1cs_vs005_2722f442:
 
     # vs "*breathing hard* No... *panting*{w} I'm not backing down."
     vs "*breathing hard* No... *panting*{w} I'm not backing down."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:247
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:248
 translate french sm1cs_vs005_765f541b:
 
     # vs "Not yet."
     vs "Not yet."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:251
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:252
 translate french sm1cs_vs005_c5b5915c:
 
     # vs "But... phuaah... we should make a safe word now."
     vs "But... phuaah... we should make a safe word now."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:252
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:253
 translate french sm1cs_vs005_9a9f1c57:
 
     # vs "I mean... you're already stretching out my pussy so much."
     vs "I mean... you're already stretching out my pussy so much."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:255
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:256
 translate french sm1cs_vs005_ab63da14:
 
     # vs "*giggles nervously*"
     vs "*giggles nervously*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:258
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:259
 translate french sm1cs_vs005_437cdb65:
 
     # mc "Alright, you have a word in mind?"
     mc "Alright, you have a word in mind?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:261
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:262
 translate french sm1cs_vs005_413ff8dc:
 
     # vs "Ummm.{w} Beans."
     vs "Ummm.{w} Beans."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:262
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:263
 translate french sm1cs_vs005_6ae12107:
 
     # mc "Beans?"
     mc "Beans?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:263
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:264
 translate french sm1cs_vs005_70cb66b6:
 
     # vs "Never been a fan. Will remember that if things go too far."
     vs "Never been a fan. Will remember that if things go too far."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:266
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:267
 translate french sm1cs_vs005_63a05aa7:
 
     # mc "Beans it is."
     mc "Beans it is."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:267
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:268
 translate french sm1cs_vs005_999ab7d0:
 
     # mc "I'll start slow."
     mc "I'll start slow."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:272
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:273
 translate french sm1cs_vs005_79bcb8bd:
 
     # vs "Ooouhah... haha. Just not too slow."
     vs "Ooouhah... haha. Just not too slow."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:279
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:280
 translate french sm1cs_vs005_a3948bce:
 
     # vs "*moaning*"
     vs "*moaning*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:280
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:281
 translate french sm1cs_vs005_9ecea5a6:
 
     # vs "This is crazy."
     vs "This is crazy."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:281
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:282
 translate french sm1cs_vs005_cc15768b:
 
     # vs "Those Fetish Locator people were badass, just doing this with strangers."
     vs "Those Fetish Locator people were badass, just doing this with strangers."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:282
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:283
 translate french sm1cs_vs005_830c15ba:
 
     # mc "Yeah. That was kind of the goal. Not total strangers. We knew they were other fetish enthusiasts."
     mc "Yeah. That was kind of the goal. Not total strangers. We knew they were other fetish enthusiasts."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:285
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:286
 translate french sm1cs_vs005_d0a3f62a:
 
     # vs "Fhuaah-khuaaah... Mmmhmm."
     vs "Fhuaah-khuaaah... Mmmhmm."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:286
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:287
 translate french sm1cs_vs005_74640dd6:
 
     # mc "Maybe it will help to think about something else."
     mc "Maybe it will help to think about something else."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:287
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:288
 translate french sm1cs_vs005_8e494f16:
 
     # vs "I... I guess. Hard to think about anything besides my poor pussy haha."
     vs "I... I guess. Hard to think about anything besides my poor pussy haha."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:290
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:291
 translate french sm1cs_vs005_d21da424:
 
     # vs "So have you had a chance to talk to Kellie?"
     vs "So have you had a chance to talk to Kellie?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:291
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:292
 translate french sm1cs_vs005_f379befb:
 
     # mc "Are you really thinking about that right now?"
     mc "Are you really thinking about that right now?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:292
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:293
 translate french sm1cs_vs005_3c9a08f9:
 
     # vs "*moaning and panting*"
     vs "*moaning and panting*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:293
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:294
 translate french sm1cs_vs005_af371fed:
 
     # vs "Sure. Why not?{w} My mouth is free again."
     vs "Sure. Why not?{w} My mouth is free again."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:296
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:297
 translate french sm1cs_vs005_d4720d56:
 
     # mc "Uh well."
     mc "Uh well."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:297
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:298
 translate french sm1cs_vs005_e032d3a3:
 
     # mc "We did talk. Kind of -huhaa."
     mc "We did talk. Kind of -huhaa."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:298
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:299
 translate french sm1cs_vs005_c6beda06:
 
     # vs "*giggling moan* Uha-huuu-oouohaah..."
     vs "*giggling moan* Uha-huuu-oouohaah..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:301
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:302
 translate french sm1cs_vs005_f58d9a48:
 
     # vs "Oh, right there!"
     vs "Oh, right there!"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:302
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:303
 translate french sm1cs_vs005_cb3c953b:
 
     # vs "*panting* I could get used to this."
     vs "*panting* I could get used to this."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:303
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:304
 translate french sm1cs_vs005_4b4af634:
 
     # vs "But you talked with her?"
     vs "But you talked with her?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:306
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:307
 translate french sm1cs_vs005_86979f5a:
 
     # vs "Did I come up?"
     vs "Did I come up?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:307
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:308
 translate french sm1cs_vs005_fae89c38:
 
     # mct "Oh, you could say that."
     mct "Oh, you could say that."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:308
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:309
 translate french sm1cs_vs005_c0de3a7e:
 
     # vs "I don't get why she's talking to you and not me?"
     vs "I don't get why she's talking to you and not me?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:309
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:310
 translate french sm1cs_vs005_fc1f669c:
 
     # mc "Well. She's probably still flustered because of what happened last time?"
     mc "Well. She's probably still flustered because of what happened last time?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:310
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:311
 translate french sm1cs_vs005_9daec6aa_1:
 
     # vs "Mmmm."
     vs "Mmmm."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:313
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:314
 translate french sm1cs_vs005_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:314
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:315
 translate french sm1cs_vs005_db258bd3:
 
     # vs "*moaning*{w} N-nothing. You sure she didn't say anything about me?"
     vs "*moaning*{w} N-nothing. You sure she didn't say anything about me?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:315
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:316
 translate french sm1cs_vs005_a22f0b32:
 
     # mc "Nothing comes to mind."
     mc "Nothing comes to mind."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:317
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:318
 translate french sm1cs_vs005_1a12e2c5:
 
     # vs "Hmmmph. We'll see."
     vs "Hmmmph. We'll see."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:318
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:319
 translate french sm1cs_vs005_ba2427a3:
 
     # vs "*light moaning*"
     vs "*light moaning*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:320
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:321
 translate french sm1cs_vs005_b29c1afd:
 
     # vs "Rhu-ahuaa-Ahuhaah!"
     vs "Rhu-ahuaa-Ahuhaah!"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:321
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:322
 translate french sm1cs_vs005_4001ab22:
 
     # vs "I didn't think I'd miss this so much."
     vs "I didn't think I'd miss this so much."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:322
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:323
 translate french sm1cs_vs005_911d180c:
 
     # vs "That super taboo sense of just jumping in and letting my freak flag fly."
     vs "That super taboo sense of just jumping in and letting my freak flag fly."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:323
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:324
 translate french sm1cs_vs005_4c09c820:
 
     # vs "I started thinking of how to make it special for you, [mcname]."
     vs "I started thinking of how to make it special for you, [mcname]."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:332
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:333
 translate french sm1cs_vs005_6ec906a4:
 
     # vs "Ahuah...{w} Okay... Onto the next act."
     vs "Ahuah...{w} Okay... Onto the next act."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:336
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:337
 translate french sm1cs_vs005_bea9ac9d:
 
     # vs "So the big thing for today... is that I want you to take that big cock."
     vs "So the big thing for today... is that I want you to take that big cock."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:340
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:341
 translate french sm1cs_vs005_07e2ee0c:
 
     # vs "And slide it into my butt."
     vs "And slide it into my butt."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:341
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:342
 translate french sm1cs_vs005_c858db17:
 
     # vs "I've never done anal before. I'm... curious."
     vs "I've never done anal before. I'm... curious."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:344
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:345
 translate french sm1cs_vs005_f997170e:
 
     # vs "Now, after feeling your big cock in my pussy, I'm getting cold feet a little."
     vs "Now, after feeling your big cock in my pussy, I'm getting cold feet a little."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:345
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:346
 translate french sm1cs_vs005_878727cb:
 
     # vs "But I still at least want to try."
     vs "But I still at least want to try."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:348
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:349
 translate french sm1cs_vs005_617d0571:
 
     # mc "Okay. We can do that; just remember the safe word."
     mc "Okay. We can do that; just remember the safe word."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:351
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:352
 translate french sm1cs_vs005_bc7d6749:
 
     # vs "Oh yeah. Never leave home without it."
     vs "Oh yeah. Never leave home without it."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:354
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:355
 translate french sm1cs_vs005_1fa5b173:
 
     # mc "Let's get you ready."
     mc "Let's get you ready."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:358
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:359
 translate french sm1cs_vs005_f1a51864:
 
     # mc "I'll take it slow."
     mc "I'll take it slow."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:363
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:364
 translate french sm1cs_vs005_fd95601e:
 
     # mc "Why don't you tell me more of what you thought when the alert went off?"
     mc "Why don't you tell me more of what you thought when the alert went off?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:368
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:369
 translate french sm1cs_vs005_60dc8352:
 
     # vs "*giggles* Come on.{w} You don't want me to spoil the secret."
     vs "*giggles* Come on.{w} You don't want me to spoil the secret."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:371
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:372
 translate french sm1cs_vs005_7befe0d5:
 
     # mc "I do..."
     mc "I do..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:375
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:376
 translate french sm1cs_vs005_0a75abed:
 
     # mc "I want to know more about you, Veronica."
     mc "I want to know more about you, Veronica."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:376
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:377
 translate french sm1cs_vs005_42386bc8:
 
     # mc "I'm going to be your biggest fan."
     mc "I'm going to be your biggest fan."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:379
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:380
 translate french sm1cs_vs005_a171df82:
 
     # vs "Haha. Ooohuaah... That feels good."
     vs "Haha. Ooohuaah... That feels good."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:382
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:383
 translate french sm1cs_vs005_64582890:
 
     # vs "Okay... *moans* I'll tell you."
     vs "Okay... *moans* I'll tell you."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:383
-translate french sm1cs_vs005_9a9e4a57:
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:384
+translate french sm1cs_vs005_70c5755c:
 
-    # vs "It's embarassing, but when the alarm went off...{w} I kind of panicked."
-    vs "It's embarassing, but when the alarm went off...{w} I kind of panicked."
+    # vs "It's embarrassing, but when the alarm went off...{w} I kind of panicked."
+    vs "It's embarrassing, but when the alarm went off...{w} I kind of panicked."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:388
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:389
 translate french sm1cs_vs005_7faf17ba:
 
     # vs "Mrrmmmm..."
     vs "Mrrmmmm..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:392
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:393
 translate french sm1cs_vs005_6f049596:
 
     # vs "T-that sudden thought that everything else just took a back seat."
     vs "T-that sudden thought that everything else just took a back seat."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:393
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:394
 translate french sm1cs_vs005_2c579cbb:
 
     # vs "I had a new goal. Mmuuah...{w} A new act to practice for."
     vs "I had a new goal. Mmuuah...{w} A new act to practice for."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:400
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:401
 translate french sm1cs_vs005_6d9b4532:
 
     # vs "It was so exciting."
     vs "It was so exciting."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:401
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:402
 translate french sm1cs_vs005_e34eab4a:
 
     # vs "I bet it will feel the same way when I land my first major movie role."
     vs "I bet it will feel the same way when I land my first major movie role."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:406
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:407
 translate french sm1cs_vs005_8aa1fc1c:
 
     # mc "Sounds like a tall order."
     mc "Sounds like a tall order."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:408
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:409
 translate french sm1cs_vs005_0e655981:
 
     # mct "Time to bring my A-game."
     mct "Time to bring my A-game."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:411
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:412
 translate french sm1cs_vs005_3d948b4b:
 
     # vs "Well... you are the Master of Fetish Locator."
     vs "Well... you are the Master of Fetish Locator."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:412
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:413
 translate french sm1cs_vs005_2a9907e3:
 
     # vs "I think I'm in good hands."
     vs "I think I'm in good hands."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:416
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:417
 translate french sm1cs_vs005_3876fc4c:
 
     # mc "No doubt."
     mc "No doubt."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:417
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:418
 translate french sm1cs_vs005_5cacf110:
 
     # mc "You got my dick super wet, Bubblegum."
     mc "You got my dick super wet, Bubblegum."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:420
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:421
 translate french sm1cs_vs005_e5e55d8f:
 
     # vs "Mmmhmmm."
     vs "Mmmhmmm."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:423
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:424
 translate french sm1cs_vs005_4b0b7d30:
 
     # mc "But, it might be good to make extra sure it's going to go in smooth."
     mc "But, it might be good to make extra sure it's going to go in smooth."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:424
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:425
 translate french sm1cs_vs005_1c52a3cd:
 
     # mc "Do you have lube?"
     mc "Do you have lube?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:427
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:428
 translate french sm1cs_vs005_d51f90e7:
 
     # vs "You think we should?"
     vs "You think we should?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:430
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:431
 translate french sm1cs_vs005_7488ae3e:
 
     # mc "Oh yeah."
     mc "Oh yeah."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:431
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:432
 translate french sm1cs_vs005_0187dccb:
 
     # mc "It's going to help."
     mc "It's going to help."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:434
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:435
 translate french sm1cs_vs005_de3a5cff:
 
     # vs "I bought some. Just in case."
     vs "I bought some. Just in case."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:438
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:439
 translate french sm1cs_vs005_02256a45:
 
     # mc "That's better."
     mc "That's better."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:441
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:442
 translate french sm1cs_vs005_35738487:
 
     # vs "*nervous* Mr. Slick. I...{w} I don't want to lose this challenge."
     vs "*nervous* Mr. Slick. I...{w} I don't want to lose this challenge."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:445
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:446
 translate french sm1cs_vs005_280deaf6:
 
     # mc "You won't.{w} We can start with just my finger, Bubblegum."
     mc "You won't.{w} We can start with just my finger, Bubblegum."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:448
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:449
 translate french sm1cs_vs005_507c2429:
 
     # vs "*softly* Thank you."
     vs "*softly* Thank you."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:454
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:455
 translate french sm1cs_vs005_aeeec42e:
 
     # vs "Ooo-huah."
     vs "Ooo-huah."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:455
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:456
 translate french sm1cs_vs005_3983b153:
 
     # vs "Nnnhaamm..."
     vs "Nnnhaamm..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:457
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:458
 translate french sm1cs_vs005_2cef68f8:
 
     # vs "*quick breathing* Come on, Veronica.{w} You got this."
     vs "*quick breathing* Come on, Veronica.{w} You got this."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:460
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:461
 translate french sm1cs_vs005_b664a353:
 
     # mc "We can stop at any point."
     mc "We can stop at any point."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:462
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:463
 translate french sm1cs_vs005_c192452c:
 
     # vs "Nn-mmm. It's okay, [mcname]."
     vs "Nn-mmm. It's okay, [mcname]."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:466
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:467
 translate french sm1cs_vs005_edcfb325:
 
     # vs "Oouhaah... much better. It's strange..."
     vs "Oouhaah... much better. It's strange..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:467
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:468
 translate french sm1cs_vs005_bb967619:
 
     # vs "Like I'm overstimulating my battery."
     vs "Like I'm overstimulating my battery."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:470
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:471
 translate french sm1cs_vs005_5f82240d:
 
     # mc "That's so sexy."
     mc "That's so sexy."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:472
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:473
 translate french sm1cs_vs005_be8852ab:
 
     # vs "Go in."
     vs "Go in."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:473
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:474
 translate french sm1cs_vs005_1fbd00bb:
 
     # vs "Deeper. I'm ready."
     vs "Deeper. I'm ready."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:478
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:479
 translate french sm1cs_vs005_03b0fd7e:
 
     # vs "Oh god!"
     vs "Oh god!"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:481
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:482
 translate french sm1cs_vs005_053bf805:
 
     # vs "Even a finger feels so weird."
     vs "Even a finger feels so weird."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:482
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:483
 translate french sm1cs_vs005_f7634741:
 
     # vs "I can't imagine how it will be with your dick inside."
     vs "I can't imagine how it will be with your dick inside."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:485
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:486
 translate french sm1cs_vs005_39f8cd57:
 
     # mc "I think you're going to like it, Bubblegum."
     mc "I think you're going to like it, Bubblegum."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:486
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:487
 translate french sm1cs_vs005_2fc0b862:
 
     # mc "And I'll be there the whole time."
     mc "And I'll be there the whole time."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:489
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:490
 translate french sm1cs_vs005_28415286:
 
     # vs "Fuaah-huauah...{w} Good."
     vs "Fuaah-huauah...{w} Good."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:490
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:491
 translate french sm1cs_vs005_54f01104:
 
     # vs "That sounds good... and-"
     vs "That sounds good... and-"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:493
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:494
 translate french sm1cs_vs005_1fb26466:
 
     # vs "It's starting to feel pretty good."
     vs "It's starting to feel pretty good."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:507
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:508
 translate french sm1cs_vs005_8d6cbd51:
 
     # vs "Ooouhaah..."
     vs "Ooouhaah..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:514
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:515
 translate french sm1cs_vs005_33404be1:
 
     # mc "Your opening act was good. But I'm interested in the big number."
     mc "Your opening act was good. But I'm interested in the big number."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:517
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:518
 translate french sm1cs_vs005_8a779029:
 
     # vs "Mrrwaaah... Okay."
     vs "Mrrwaaah... Okay."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:518
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:519
 translate french sm1cs_vs005_da34f23b:
 
     # vs "I'm ready to dance."
     vs "I'm ready to dance."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:522
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:523
 translate french sm1cs_vs005_b82ac08d:
 
     # mc "You should be on top."
     mc "You should be on top."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:523
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:524
 translate french sm1cs_vs005_381af53f:
 
     # mc "Then you can control the speed."
     mc "Then you can control the speed."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:526
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:527
 translate french sm1cs_vs005_04406510:
 
     # vs "Yes. I like that idea."
     vs "Yes. I like that idea."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:530
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:531
 translate french sm1cs_vs005_6d049b94:
 
     # vs "Fuck me! A finger doesn't even break the ice like a cock does."
     vs "Fuck me! A finger doesn't even break the ice like a cock does."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:533
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:534
 translate french sm1cs_vs005_30846577:
 
     # vs "It's so hot. Even hotter than when it's in my pussy."
     vs "It's so hot. Even hotter than when it's in my pussy."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:534
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:535
 translate french sm1cs_vs005_c00e3415:
 
     # vs "This isn't too much for you? I feel like my butt is going to gobble up your cock."
     vs "This isn't too much for you? I feel like my butt is going to gobble up your cock."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:537
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:538
 translate french sm1cs_vs005_7c34aeca:
 
     # mc "And that's the best part."
     mc "And that's the best part."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:540
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:541
 translate french sm1cs_vs005_36bed9e7:
 
     # vs "Ooooh! You should take pictures."
     vs "Ooooh! You should take pictures."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:543
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:544
 translate french sm1cs_vs005_629ebb72:
 
     # mc "I should."
     mc "I should."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:544
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:545
 translate french sm1cs_vs005_3e4bf666:
 
     # mc "I mean I should?"
     mc "I mean I should?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:547
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:548
 translate french sm1cs_vs005_6aa3cfbd:
 
     # vs "Yes. Nurraah... To prove I did the challenge. Just like with Fetish Locator."
     vs "Yes. Nurraah... To prove I did the challenge. Just like with Fetish Locator."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:550
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:551
 translate french sm1cs_vs005_d1843b18:
 
     # mct "This girl is kinkier than a sorority house after lockdown."
     mct "This girl is kinkier than a sorority house after lockdown."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:553
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:554
 translate french sm1cs_vs005_dc6022a8:
 
     # mc "Happy to."
     mc "Happy to."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:556
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:557
 translate french sm1cs_vs005_2b870632:
 
     # "*SNAP*"
     "*SNAP*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:558
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:559
 translate french sm1cs_vs005_7129dea6:
 
     # mc "Nice."
     mc "Nice."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:562
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:563
 translate french sm1cs_vs005_a723603b:
 
     # vs "Hahah. Those are just for you, [mcname]."
     vs "Hahah. Those are just for you, [mcname]."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:563
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:564
 translate french sm1cs_vs005_e4faae7b:
 
     # vs "I don't want my own personal fappening to happen."
     vs "I don't want my own personal fappening to happen."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:566
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:567
 translate french sm1cs_vs005_2b870632_1:
 
     # "*SNAP*"
     "*SNAP*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:569
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:570
 translate french sm1cs_vs005_1bf60051:
 
     # mc "Of course."
     mc "Of course."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:576
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:577
 translate french sm1cs_vs005_681d640c:
 
     # vs "Oh fuck!"
     vs "Oh fuck!"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:577
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:578
 translate french sm1cs_vs005_6607614c:
 
     # vs "That feels so good."
     vs "That feels so good."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:580
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:581
 translate french sm1cs_vs005_256469f8:
 
     # vs "Yes. Like that."
     vs "Yes. Like that."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:581
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:582
 translate french sm1cs_vs005_1c620854:
 
     # vs "You really did this at parties?"
     vs "You really did this at parties?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:584
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:585
 translate french sm1cs_vs005_6ff2ff85:
 
     # vs "Just... sliding up and making a girl cum again and again."
     vs "Just... sliding up and making a girl cum again and again."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:585
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:586
 translate french sm1cs_vs005_a92e175d:
 
     # mc "At least once haha."
     mc "At least once haha."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:588
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:589
 translate french sm1cs_vs005_30d523c0:
 
     # mc "But the parties always had a lot of stuff going on."
     mc "But the parties always had a lot of stuff going on."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:589
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:590
 translate french sm1cs_vs005_a753d1bf:
 
     # mc "Sometimes it had a show."
     mc "Sometimes it had a show."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:592
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:593
 translate french sm1cs_vs005_d8732ae8:
 
     # mc "Sometimes it had magic."
     mc "Sometimes it had magic."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:593
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:594
 translate french sm1cs_vs005_82c92cb4:
 
     # mc "Some girls came, just looking to be dominated."
     mc "Some girls came, just looking to be dominated."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:596
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:597
 translate french sm1cs_vs005_092917be:
 
     # vs "Muraaha..."
     vs "Muraaha..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:599
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:600
 translate french sm1cs_vs005_8ea8f664:
 
     # mc "And other times, they'd be looking to dominate me."
     mc "And other times, they'd be looking to dominate me."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:600
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:601
 translate french sm1cs_vs005_13e5ff25:
 
     # vs "Ooouhaah, now there's an image I didn't think I'd imagine."
     vs "Ooouhaah, now there's an image I didn't think I'd imagine."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:603
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:604
 translate french sm1cs_vs005_ab8d5e45:
 
     # mc "But it really was unbelievable."
     mc "But it really was unbelievable."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:604
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:605
 translate french sm1cs_vs005_db335791:
 
     # vs "Do you miss it?"
     vs "Do you miss it?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:607
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:608
 translate french sm1cs_vs005_ac0e4b01:
 
     # mc "Sometimes."
     mc "Sometimes."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:608
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:609
 translate french sm1cs_vs005_a935a7e3:
 
     # mc "Huraah... I'm getting close."
     mc "Huraah... I'm getting close."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:611
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:612
 translate french sm1cs_vs005_30a614a6:
 
     # mc "Let's change things up."
     mc "Let's change things up."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:612
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:613
 translate french sm1cs_vs005_a75a9ec8:
 
     # vs "Yes, Mr. Slick."
     vs "Yes, Mr. Slick."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:623
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:624
 translate french sm1cs_vs005_94b1458d:
 
     # vs "Oh fuck. YUSSSH!{w} This way feels even better."
     vs "Oh fuck. YUSSSH!{w} This way feels even better."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:624
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:625
 translate french sm1cs_vs005_23c735e0:
 
     # vs "You're right on me."
     vs "You're right on me."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:625
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:626
 translate french sm1cs_vs005_712a43a4:
 
     # mc "Such a naughty girl."
     mc "Such a naughty girl."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:628
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:629
 translate french sm1cs_vs005_bda7c0ef:
 
     # vs "Yhueah... but you like punishing me."
     vs "Yhueah... but you like punishing me."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:629
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:630
 translate french sm1cs_vs005_11155f27:
 
     # vs "Even though you're the one... owie..."
     vs "Even though you're the one... owie..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:632
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:633
 translate french sm1cs_vs005_a4c015c7:
 
     # vs "Who did something bad."
     vs "Who did something bad."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:633
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:634
 translate french sm1cs_vs005_26ce5ded:
 
     # mc "Did I?"
     mc "Did I?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:634
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:635
 translate french sm1cs_vs005_2cf41528:
 
     # vs "Yup... ahuwaah..."
     vs "Yup... ahuwaah..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:637
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:638
 translate french sm1cs_vs005_80486a42:
 
     # mct "Ooouh! She just tightened up on my cock."
     mct "Ooouh! She just tightened up on my cock."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:638
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:639
 translate french sm1cs_vs005_27b755ca:
 
     # mc "Veronica?"
     mc "Veronica?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:641
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:642
 translate french sm1cs_vs005_5b3cdd5f:
 
     # vs "You talked to Kellie didn't you? I could see your Adam's apple twitch earlier."
     vs "You talked to Kellie didn't you? I could see your Adam's apple twitch earlier."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:642
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:643
 translate french sm1cs_vs005_5c7a7c6a:
 
     # mc "*hissing* Ooouha ah... can we slow the gas down a bit?"
     mc "*hissing* Ooouha ah... can we slow the gas down a bit?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:645
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:646
 translate french sm1cs_vs005_ddcee586:
 
     # vs "Mrra-hurrah...{w} I thought you never back down from a challenge."
     vs "Mrra-hurrah...{w} I thought you never back down from a challenge."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:646
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:647
 translate french sm1cs_vs005_b0da6e7a:
 
     # mct "Heh. Okay she wants a challenge."
     mct "Heh. Okay she wants a challenge."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:649
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:650
 translate french sm1cs_vs005_0650396e:
 
     # mc "Even if I had an answer for you, maybe I don't want to give it up easily."
     mc "Even if I had an answer for you, maybe I don't want to give it up easily."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:650
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:651
 translate french sm1cs_vs005_954a1034:
 
     # vs "Hahah. *moans* Then it looks like our dance has become a tango, Mr. Slick."
     vs "Hahah. *moans* Then it looks like our dance has become a tango, Mr. Slick."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:653
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:654
 translate french sm1cs_vs005_7d1e5a6e:
 
     # mc "Give it your best shot, Bubblegum."
     mc "Give it your best shot, Bubblegum."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:654
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:655
 translate french sm1cs_vs005_dd4ae11a:
 
     # vs "*panting and moaning*"
     vs "*panting and moaning*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:657
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:658
 translate french sm1cs_vs005_80c5782e:
 
     # mc "*strained grunting*"
     mc "*strained grunting*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:658
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:659
 translate french sm1cs_vs005_83cdd0e9:
 
     # mc "My god woman. *grunting* {w}How are you doing that?"
     mc "My god woman. *grunting* {w}How are you doing that?"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:659
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:660
 translate french sm1cs_vs005_17a540f6:
 
     # vs "*moaning heavily* I'm a fast learner.{w} Murrah... furahakk-ahuah."
     vs "*moaning heavily* I'm a fast learner.{w} Murrah... furahakk-ahuah."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:674
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:675
 translate french sm1cs_vs005_replay_anims_4df4ab17:
 
     # vs "*licking hungrily*"
     vs "*licking hungrily*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:677
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:678
 translate french sm1cs_vs005_replay_anims_5594853d:
 
     # vs "Mrrahh... so delicious."
     vs "Mrrahh... so delicious."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:680
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:681
 translate french sm1cs_vs005_replay_anims_1e105507:
 
     # mc "*licking and slurping*"
     mc "*licking and slurping*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:683
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:684
 translate french sm1cs_vs005_replay_anims_0fb7fe69:
 
     # vs "Yes. Right there."
@@ -1762,31 +1762,31 @@ translate french sm1cs_vs005_continue_ad3433f9:
     # vs "Thank you, [mcname]."
     vs "Thank you, [mcname]."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:894
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:895
 translate french sm1cs_vs005_continue_53211051:
 
     # vs "Mhhhmmmm."
     vs "Mhhhmmmm."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:897
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:898
 translate french sm1cs_vs005_continue_1c0bd942:
 
     # vs "I'm going to take a little nap to recover."
     vs "I'm going to take a little nap to recover."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:903
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:904
 translate french sm1cs_vs005_continue_a20d1c77:
 
     # vs "*soft moans*"
     vs "*soft moans*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:904
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:905
 translate french sm1cs_vs005_continue_3d7c9644:
 
     # mct "Heh heh. I'll cuddle for a little bit..."
     mct "Heh heh. I'll cuddle for a little bit..."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:905
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:906
 translate french sm1cs_vs005_continue_a297c2d2:
 
     # mct "Then I should get back to work."
@@ -1798,19 +1798,19 @@ translate french strings:
     old "At Veronica's dorm"
     new "At Veronica's dorm"
 
-    # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:668
+    # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:669
     old "Special 69 with Veronica"
     new "Special 69 with Veronica"
 
-    # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:668
+    # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:669
     old "Fuck Veronica's pussy"
     new "Fuck Veronica's pussy"
 
-    # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:668
+    # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:669
     old "Fuck Veronica in the ass"
     new "Fuck Veronica in the ass"
 
-    # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:668
+    # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:669
     old "Fuck Veronica's ass as deep as you can"
     new "Fuck Veronica's ass as deep as you can"
 

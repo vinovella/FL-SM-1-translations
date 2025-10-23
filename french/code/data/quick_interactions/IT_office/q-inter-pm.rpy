@@ -41,10 +41,10 @@ translate french q_inter_pm_3_cfd60fb8:
     mc "Hey, Peter."
 
 # game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:37
-translate french q_inter_pm_3_0e6e8a48:
+translate french q_inter_pm_3_98e57bf0:
 
-    # pm "Hey! [mcname], whose always playing the rock music way too loud over there?"
-    pm "Hey! [mcname], whose always playing the rock music way too loud over there?"
+    # pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
+    pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:39
 translate french q_inter_pm_3_2f85990b:

@@ -562,19 +562,19 @@ translate french sm1fs_t004_one_hour_later_4b6e7ed9:
     # mct "I think... that's good enough. Time to get to the workshop!"
     mct "I think... that's good enough. Time to get to the workshop!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:382
+# game/code/scenes/theatre/sm1fs-t004.rpy:383
 translate french sm1fs_t004_tl_masturbating_5be13812:
 
     # tl "{size=*0.6}Yesssssssss...{/size}"
     tl "{size=*0.6}Yesssssssss...{/size}"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:385
+# game/code/scenes/theatre/sm1fs-t004.rpy:386
 translate french sm1fs_t004_tl_masturbating_31f58705:
 
     # mct "Oh, that is definitely Taisia, but where-"
     mct "Oh, that is definitely Taisia, but where-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:388
+# game/code/scenes/theatre/sm1fs-t004.rpy:389
 translate french sm1fs_t004_tl_masturbating_a77fd7d6:
 
     # mct "Oh shit!"
@@ -712,835 +712,835 @@ translate french sm1fs_t004_tl_masturbating_b6b897c5:
     # tl "Cuuuuummmmiiiinnnnnggggg!"
     tl "Cuuuuummmmiiiinnnnnggggg!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:463
+# game/code/scenes/theatre/sm1fs-t004.rpy:464
 translate french sm1fs_t004_tl_masturbating_06838148:
 
     # mc "So... rubbing one out in the storage?"
     mc "So... rubbing one out in the storage?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:466
+# game/code/scenes/theatre/sm1fs-t004.rpy:467
 translate french sm1fs_t004_tl_masturbating_fbc9f53c:
 
     # tl "Yeah. No one ever comes back here."
     tl "Yeah. No one ever comes back here."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:470
+# game/code/scenes/theatre/sm1fs-t004.rpy:471
 translate french sm1fs_t004_tl_masturbating_1a59fce1:
 
     # tl "Plus, these workshops are boring as fuck. At the very least I can get an orgasm out of it."
     tl "Plus, these workshops are boring as fuck. At the very least I can get an orgasm out of it."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:473
+# game/code/scenes/theatre/sm1fs-t004.rpy:474
 translate french sm1fs_t004_tl_masturbating_18562e18:
 
     # mct "Damn. Taisia is such a freak."
     mct "Damn. Taisia is such a freak."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:476
+# game/code/scenes/theatre/sm1fs-t004.rpy:477
 translate french sm1fs_t004_tl_masturbating_d62e2785:
 
     # mct "But, I should probably get back to the workshop."
     mct "But, I should probably get back to the workshop."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:493
+# game/code/scenes/theatre/sm1fs-t004.rpy:495
 translate french sm1fs_t004_workshop_bf9a0f41:
 
     # dvh "That is the improvisation part of the workshop. You have all done well."
     dvh "That is the improvisation part of the workshop. You have all done well."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:496
+# game/code/scenes/theatre/sm1fs-t004.rpy:498
 translate french sm1fs_t004_workshop_d5573cf9:
 
     # dvh "Good. Mr. Bruce told me of your hard work, and I am happy that you can join us."
     dvh "Good. Mr. Bruce told me of your hard work, and I am happy that you can join us."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:500
+# game/code/scenes/theatre/sm1fs-t004.rpy:502
 translate french sm1fs_t004_workshop_592028bd:
 
     # mc "Oh, uhm, thanks Denise."
     mc "Oh, uhm, thanks Denise."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:503
+# game/code/scenes/theatre/sm1fs-t004.rpy:505
 translate french sm1fs_t004_workshop_e679995d:
 
     # dvh "Of course."
     dvh "Of course."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:507
+# game/code/scenes/theatre/sm1fs-t004.rpy:509
 translate french sm1fs_t004_workshop_1d1ecf87:
 
     # dvh "Now, to our trust building exercise."
     dvh "Now, to our trust building exercise."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:508
+# game/code/scenes/theatre/sm1fs-t004.rpy:510
 translate french sm1fs_t004_workshop_f14028ed:
 
     # dvh "We are going to do trust falls. If we are to operate as a theater team, we need to trust each other wholly."
     dvh "We are going to do trust falls. If we are to operate as a theater team, we need to trust each other wholly."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:512
-translate french sm1fs_t004_workshop_ea0fb35d:
+# game/code/scenes/theatre/sm1fs-t004.rpy:514
+translate french sm1fs_t004_workshop_37885fbe:
 
-    # dvh "Veronica, Kelly. Please walk into the center of the circle."
-    dvh "Veronica, Kelly. Please walk into the center of the circle."
+    # dvh "Veronica, Kellie. Please walk into the center of the circle."
+    dvh "Veronica, Kellie. Please walk into the center of the circle."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:515
+# game/code/scenes/theatre/sm1fs-t004.rpy:517
 translate french sm1fs_t004_workshop_63db503b:
 
     # dvh "Kellie. I want you to turn and fall into Veronica's arms."
     dvh "Kellie. I want you to turn and fall into Veronica's arms."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:518
+# game/code/scenes/theatre/sm1fs-t004.rpy:520
 translate french sm1fs_t004_workshop_25538df5:
 
     # km "What!"
     km "What!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:521
+# game/code/scenes/theatre/sm1fs-t004.rpy:523
 translate french sm1fs_t004_workshop_6fc3cd8a:
 
     # dvh "You will begin this trust fall exercise."
     dvh "You will begin this trust fall exercise."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:524
+# game/code/scenes/theatre/sm1fs-t004.rpy:526
 translate french sm1fs_t004_workshop_65abebdf:
 
     # km "Absolutely not!"
     km "Absolutely not!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:527
+# game/code/scenes/theatre/sm1fs-t004.rpy:529
 translate french sm1fs_t004_workshop_d49ad810:
 
     # dvh "Do you not trust Veronica?"
     dvh "Do you not trust Veronica?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:530
+# game/code/scenes/theatre/sm1fs-t004.rpy:532
 translate french sm1fs_t004_workshop_fbe27e71:
 
     # km "No! Not at all!"
     km "No! Not at all!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:533
+# game/code/scenes/theatre/sm1fs-t004.rpy:535
 translate french sm1fs_t004_workshop_72782043:
 
     # vs "Why?"
     vs "Why?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:536
+# game/code/scenes/theatre/sm1fs-t004.rpy:538
 translate french sm1fs_t004_workshop_799390e1:
 
     # km "Because-because-"
     km "Because-because-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:539
+# game/code/scenes/theatre/sm1fs-t004.rpy:541
 translate french sm1fs_t004_workshop_ac78a45c:
 
     # dvh "You must learn to trust her. To trust your troupe."
     dvh "You must learn to trust her. To trust your troupe."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:542
+# game/code/scenes/theatre/sm1fs-t004.rpy:544
 translate french sm1fs_t004_workshop_3bbe2bb3:
 
     # dvh "I will show you.{w} [mcname], come here."
     dvh "I will show you.{w} [mcname], come here."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:546
+# game/code/scenes/theatre/sm1fs-t004.rpy:548
 translate french sm1fs_t004_workshop_1b199792:
 
     # mc "Okay?"
     mc "Okay?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:550
+# game/code/scenes/theatre/sm1fs-t004.rpy:552
 translate french sm1fs_t004_workshop_8ad90ba2:
 
     # dvh "You will catch me now, understood?"
     dvh "You will catch me now, understood?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:553
+# game/code/scenes/theatre/sm1fs-t004.rpy:555
 translate french sm1fs_t004_workshop_db9f1eec:
 
     # mc "Oh, uhm-"
     mc "Oh, uhm-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:556
+# game/code/scenes/theatre/sm1fs-t004.rpy:558
 translate french sm1fs_t004_workshop_2f0624c5:
 
     # mct "Oh-!"
     mct "Oh-!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:563
+# game/code/scenes/theatre/sm1fs-t004.rpy:565
 translate french sm1fs_t004_workshop_2dda59bb:
 
     # mct "-shit!"
     mct "-shit!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:570
+# game/code/scenes/theatre/sm1fs-t004.rpy:572
 translate french sm1fs_t004_workshop_ef93df8a:
 
     # dvh "Very good, [mcname]."
     dvh "Very good, [mcname]."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:574
+# game/code/scenes/theatre/sm1fs-t004.rpy:576
 translate french sm1fs_t004_workshop_d64899ab:
 
     # mct "I can't believe I caught her."
     mct "I can't believe I caught her."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:577
+# game/code/scenes/theatre/sm1fs-t004.rpy:579
 translate french sm1fs_t004_workshop_2df0cb42:
 
     # dvh "See? We must trust all in this troupe. And if I can trust a man who has yet to prove himself to us, I believe you can all trust each other."
     dvh "See? We must trust all in this troupe. And if I can trust a man who has yet to prove himself to us, I believe you can all trust each other."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:580
+# game/code/scenes/theatre/sm1fs-t004.rpy:582
 translate french sm1fs_t004_workshop_9e9df1f2:
 
     # mct "Ouch."
     mct "Ouch."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:583
+# game/code/scenes/theatre/sm1fs-t004.rpy:585
 translate french sm1fs_t004_workshop_0621c52b:
 
     # dvh "Now, each of you will take turns trusting one another with a fall. We shall not move on until each one of you has fallen for another."
     dvh "Now, each of you will take turns trusting one another with a fall. We shall not move on until each one of you has fallen for another."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:586
+# game/code/scenes/theatre/sm1fs-t004.rpy:588
 translate french sm1fs_t004_workshop_d632a133:
 
     # mct "Fuck... I didn't expect to have to do trust falls with everyone. I guess... where do I get started?"
     mct "Fuck... I didn't expect to have to do trust falls with everyone. I guess... where do I get started?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:617
+# game/code/scenes/theatre/sm1fs-t004.rpy:619
 translate french sm1fs_t004_tl_trust_fall_dbd6ecd4:
 
     # mc "So-"
     mc "So-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:620
+# game/code/scenes/theatre/sm1fs-t004.rpy:622
 translate french sm1fs_t004_tl_trust_fall_5c893620:
 
     # tl "Come on, let's get this over with."
     tl "Come on, let's get this over with."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:623
+# game/code/scenes/theatre/sm1fs-t004.rpy:625
 translate french sm1fs_t004_tl_trust_fall_8b5e620a:
 
     # mc "Wait!"
     mc "Wait!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:633
+# game/code/scenes/theatre/sm1fs-t004.rpy:635
 translate french sm1fs_t004_tl_trust_fall_923d3b2c:
 
     # mc "What were you thinking!"
     mc "What were you thinking!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:636
+# game/code/scenes/theatre/sm1fs-t004.rpy:638
 translate french sm1fs_t004_tl_trust_fall_13b36e2c:
 
     # tl "That you'd either catch me, or I'd smack into the ground and I could leave early."
     tl "That you'd either catch me, or I'd smack into the ground and I could leave early."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:640
+# game/code/scenes/theatre/sm1fs-t004.rpy:642
 translate french sm1fs_t004_tl_trust_fall_264ffab1:
 
     # mc "Jesus, Taisia."
     mc "Jesus, Taisia."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:643
+# game/code/scenes/theatre/sm1fs-t004.rpy:645
 translate french sm1fs_t004_tl_trust_fall_35c45ce8:
 
     # tl "What! I'm boooooored!"
     tl "What! I'm boooooored!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:646
+# game/code/scenes/theatre/sm1fs-t004.rpy:648
 translate french sm1fs_t004_tl_trust_fall_336d77fe:
 
     # mc "Why is this so boring to you?"
     mc "Why is this so boring to you?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:649
+# game/code/scenes/theatre/sm1fs-t004.rpy:651
 translate french sm1fs_t004_tl_trust_fall_fde9525e:
 
     # tl "I've said it before - it's not creature stuff. Or monster stuff. It's just... 'actress' stuff."
     tl "I've said it before - it's not creature stuff. Or monster stuff. It's just... 'actress' stuff."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:652
+# game/code/scenes/theatre/sm1fs-t004.rpy:654
 translate french sm1fs_t004_tl_trust_fall_2b059533:
 
     # mc "And why is actress stuff so boring."
     mc "And why is actress stuff so boring."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:655
+# game/code/scenes/theatre/sm1fs-t004.rpy:657
 translate french sm1fs_t004_tl_trust_fall_94c22f56:
 
     # tl "It just is. I'd rather be a clown, or wendigo, or... or... literally anything else."
     tl "It just is. I'd rather be a clown, or wendigo, or... or... literally anything else."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:658
+# game/code/scenes/theatre/sm1fs-t004.rpy:660
 translate french sm1fs_t004_tl_trust_fall_8a731707:
 
     # mc "Why are you so obsessed with monsters?"
     mc "Why are you so obsessed with monsters?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:661
+# game/code/scenes/theatre/sm1fs-t004.rpy:663
 translate french sm1fs_t004_tl_trust_fall_7c9747b4:
 
     # tl "Because they're unique. Different. Misunderstood."
     tl "Because they're unique. Different. Misunderstood."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:664
+# game/code/scenes/theatre/sm1fs-t004.rpy:666
 translate french sm1fs_t004_tl_trust_fall_ad1eaa57:
 
     # mc "Huh."
     mc "Huh."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:667
+# game/code/scenes/theatre/sm1fs-t004.rpy:669
 translate french sm1fs_t004_tl_trust_fall_1b400966:
 
     # tl "What?"
     tl "What?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:670
+# game/code/scenes/theatre/sm1fs-t004.rpy:672
 translate french sm1fs_t004_tl_trust_fall_84056325:
 
     # mc "I don't know... I thought you were going to say something like 'because they scare the shit out of people'. That was... I don't know, deep?"
     mc "I don't know... I thought you were going to say something like 'because they scare the shit out of people'. That was... I don't know, deep?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:673
+# game/code/scenes/theatre/sm1fs-t004.rpy:675
 translate french sm1fs_t004_tl_trust_fall_5ad7a1b3:
 
     # tl "Shut up and let me catch you before you say something else stupid."
     tl "Shut up and let me catch you before you say something else stupid."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:676
+# game/code/scenes/theatre/sm1fs-t004.rpy:678
 translate french sm1fs_t004_tl_trust_fall_f854d61b:
 
     # mct "Yeah... I'm the one being stupid."
     mct "Yeah... I'm the one being stupid."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:679
+# game/code/scenes/theatre/sm1fs-t004.rpy:681
 translate french sm1fs_t004_tl_trust_fall_adcb563d:
 
     # tl "You ready?"
     tl "You ready?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:682
+# game/code/scenes/theatre/sm1fs-t004.rpy:684
 translate french sm1fs_t004_tl_trust_fall_7d2c5138:
 
     # mc "You promise to catch me?"
     mc "You promise to catch me?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:685
+# game/code/scenes/theatre/sm1fs-t004.rpy:687
 translate french sm1fs_t004_tl_trust_fall_75bfdff3:
 
     # tl "You going to say something else stupid?"
     tl "You going to say something else stupid?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:688
+# game/code/scenes/theatre/sm1fs-t004.rpy:690
 translate french sm1fs_t004_tl_trust_fall_dc851375:
 
     # mc "Uhhhh..."
     mc "Uhhhh..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:691
+# game/code/scenes/theatre/sm1fs-t004.rpy:693
 translate french sm1fs_t004_tl_trust_fall_e0e6cfd2:
 
     # tl "Just fall already, you big baby."
     tl "Just fall already, you big baby."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:694
+# game/code/scenes/theatre/sm1fs-t004.rpy:696
 translate french sm1fs_t004_tl_trust_fall_687f6cd7:
 
     # mct "Here goes nothing..."
     mct "Here goes nothing..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:697
+# game/code/scenes/theatre/sm1fs-t004.rpy:699
 translate french sm1fs_t004_tl_trust_fall_69ed4e34:
 
     # mct "God I hope she catches me."
     mct "God I hope she catches me."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:703
+# game/code/scenes/theatre/sm1fs-t004.rpy:705
 translate french sm1fs_t004_tl_trust_fall_b2cddd3e:
 
     # mc "Woooo... I thought you were going to drop me."
     mc "Woooo... I thought you were going to drop me."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:706
+# game/code/scenes/theatre/sm1fs-t004.rpy:708
 translate french sm1fs_t004_tl_trust_fall_de2e315b:
 
     # tl "I thought about it."
     tl "I thought about it."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:709
+# game/code/scenes/theatre/sm1fs-t004.rpy:711
 translate french sm1fs_t004_tl_trust_fall_701d2464:
 
     # mc "What!?"
     mc "What!?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:713
+# game/code/scenes/theatre/sm1fs-t004.rpy:715
 translate french sm1fs_t004_tl_trust_fall_28fd735f:
 
     # tl "I told you not to say anything stupid."
     tl "I told you not to say anything stupid."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:716
+# game/code/scenes/theatre/sm1fs-t004.rpy:718
 translate french sm1fs_t004_tl_trust_fall_ac8a7d48:
 
     # mc "That wasn't stupid!"
     mc "That wasn't stupid!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:720
+# game/code/scenes/theatre/sm1fs-t004.rpy:722
 translate french sm1fs_t004_tl_trust_fall_da3be155:
 
     # tl "Yes it was."
     tl "Yes it was."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:722
+# game/code/scenes/theatre/sm1fs-t004.rpy:724
 translate french sm1fs_t004_tl_trust_fall_9a14d0a0:
 
     # tl "We're business partners now. I wouldn't want my costar getting fucked up. Because that would fuck with my money."
     tl "We're business partners now. I wouldn't want my costar getting fucked up. Because that would fuck with my money."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:724
+# game/code/scenes/theatre/sm1fs-t004.rpy:726
 translate french sm1fs_t004_tl_trust_fall_1adde8d6:
 
     # tl "I'm trying to convince you to hire me. Why would I let you get hurt?"
     tl "I'm trying to convince you to hire me. Why would I let you get hurt?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:728
+# game/code/scenes/theatre/sm1fs-t004.rpy:730
 translate french sm1fs_t004_tl_trust_fall_b5fbd5a1:
 
     # mc "Good point."
     mc "Good point."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:731
+# game/code/scenes/theatre/sm1fs-t004.rpy:733
 translate french sm1fs_t004_tl_trust_fall_a64e8bc0:
 
     # mc "Thanks."
     mc "Thanks."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:734
+# game/code/scenes/theatre/sm1fs-t004.rpy:736
 translate french sm1fs_t004_tl_trust_fall_e74bbd8f:
 
     # tl "You learn to trust me yet?"
     tl "You learn to trust me yet?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:737
+# game/code/scenes/theatre/sm1fs-t004.rpy:739
 translate french sm1fs_t004_tl_trust_fall_8cc105c3:
 
     # mc "I guess so."
     mc "I guess so."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:740
+# game/code/scenes/theatre/sm1fs-t004.rpy:742
 translate french sm1fs_t004_tl_trust_fall_8170d300:
 
     # tl "Learn to stop saying stupid shit?"
     tl "Learn to stop saying stupid shit?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:743
+# game/code/scenes/theatre/sm1fs-t004.rpy:745
 translate french sm1fs_t004_tl_trust_fall_f757e943:
 
     # mc "That one... not so much."
     mc "That one... not so much."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:746
+# game/code/scenes/theatre/sm1fs-t004.rpy:748
 translate french sm1fs_t004_tl_trust_fall_3e4f0d3b:
 
     # tl "Whatever. At least we're closer to being done."
     tl "Whatever. At least we're closer to being done."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:756
+# game/code/scenes/theatre/sm1fs-t004.rpy:758
 translate french sm1fs_t004_km_trust_fall_770ea954:
 
     # mc "Hey, Kellie."
     mc "Hey, Kellie."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:759
+# game/code/scenes/theatre/sm1fs-t004.rpy:761
 translate french sm1fs_t004_km_trust_fall_ff4f3199:
 
     # km "What do you want?"
     km "What do you want?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:762
+# game/code/scenes/theatre/sm1fs-t004.rpy:764
 translate french sm1fs_t004_km_trust_fall_794c6cd3:
 
     # mc "Uhm, just trying to do the trust falls-"
     mc "Uhm, just trying to do the trust falls-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:765
+# game/code/scenes/theatre/sm1fs-t004.rpy:767
 translate french sm1fs_t004_km_trust_fall_5f859842:
 
     # km "I'm not doing a trust fall with you."
     km "I'm not doing a trust fall with you."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:768
+# game/code/scenes/theatre/sm1fs-t004.rpy:770
 translate french sm1fs_t004_km_trust_fall_2876efd9:
 
     # mc "Why?"
     mc "Why?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:771
+# game/code/scenes/theatre/sm1fs-t004.rpy:773
 translate french sm1fs_t004_km_trust_fall_c18bb69d:
 
     # km "Because."
     km "Because."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:774
+# game/code/scenes/theatre/sm1fs-t004.rpy:776
 translate french sm1fs_t004_km_trust_fall_09eb0555:
 
     # mc "Becaaaaaause...?"
     mc "Becaaaaaause...?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:777
+# game/code/scenes/theatre/sm1fs-t004.rpy:779
 translate french sm1fs_t004_km_trust_fall_524544c0:
 
     # km "I don't owe you an explanation."
     km "I don't owe you an explanation."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:780
+# game/code/scenes/theatre/sm1fs-t004.rpy:782
 translate french sm1fs_t004_km_trust_fall_7ed76e50:
 
     # mc "Well... we have to do this..."
     mc "Well... we have to do this..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:783
+# game/code/scenes/theatre/sm1fs-t004.rpy:785
 translate french sm1fs_t004_km_trust_fall_3d001c3e:
 
     # mc "What if... I go first?"
     mc "What if... I go first?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:786
+# game/code/scenes/theatre/sm1fs-t004.rpy:788
 translate french sm1fs_t004_km_trust_fall_06f8b886:
 
     # km "What?"
     km "What?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:789
+# game/code/scenes/theatre/sm1fs-t004.rpy:791
 translate french sm1fs_t004_km_trust_fall_7801acb7:
 
     # mc "I'll go first."
     mc "I'll go first."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:792
+# game/code/scenes/theatre/sm1fs-t004.rpy:794
 translate french sm1fs_t004_km_trust_fall_115f3b3b:
 
     # mct "I feel like this might be a bad idea..."
     mct "I feel like this might be a bad idea..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:795
+# game/code/scenes/theatre/sm1fs-t004.rpy:797
 translate french sm1fs_t004_km_trust_fall_1da84e5b:
 
     # km "I won't catch you."
     km "I won't catch you."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:799
+# game/code/scenes/theatre/sm1fs-t004.rpy:801
 translate french sm1fs_t004_km_trust_fall_e44aaa1d:
 
     # mc "Well... I'm falling!"
     mc "Well... I'm falling!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:806
+# game/code/scenes/theatre/sm1fs-t004.rpy:808
 translate french sm1fs_t004_km_trust_fall_96368e12:
 
     # mc "God, I was really hoping you'd catch me."
     mc "God, I was really hoping you'd catch me."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:809
+# game/code/scenes/theatre/sm1fs-t004.rpy:811
 translate french sm1fs_t004_km_trust_fall_d4cf2109:
 
     # km "You're an asshole."
     km "You're an asshole."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:812
+# game/code/scenes/theatre/sm1fs-t004.rpy:814
 translate french sm1fs_t004_km_trust_fall_e4fcb0d4:
 
     # mc "Well, we need to do this... right?"
     mc "Well, we need to do this... right?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:816
+# game/code/scenes/theatre/sm1fs-t004.rpy:818
 translate french sm1fs_t004_km_trust_fall_2d8b120d:
 
     # km "Whatever."
     km "Whatever."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:817
+# game/code/scenes/theatre/sm1fs-t004.rpy:819
 translate french sm1fs_t004_km_trust_fall_9761ea74:
 
     # km "Just because you did it, doesn't mean I will."
     km "Just because you did it, doesn't mean I will."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:820
+# game/code/scenes/theatre/sm1fs-t004.rpy:822
 translate french sm1fs_t004_km_trust_fall_e0715dbc:
 
     # mc "But-"
     mc "But-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:823
+# game/code/scenes/theatre/sm1fs-t004.rpy:825
 translate french sm1fs_t004_km_trust_fall_29561603:
 
     # km "You won't change my mind, so scram."
     km "You won't change my mind, so scram."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:826
+# game/code/scenes/theatre/sm1fs-t004.rpy:828
 translate french sm1fs_t004_km_trust_fall_5875a1bf:
 
     # mc "Fine..."
     mc "Fine..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:836
+# game/code/scenes/theatre/sm1fs-t004.rpy:838
 translate french sm1fs_t004_vs_trust_fall_b931485f:
 
     # vs "Hey, [mcname]!"
     vs "Hey, [mcname]!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:839
+# game/code/scenes/theatre/sm1fs-t004.rpy:841
 translate french sm1fs_t004_vs_trust_fall_1b4baeb5:
 
     # mc "Hey, Veronica."
     mc "Hey, Veronica."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:842
+# game/code/scenes/theatre/sm1fs-t004.rpy:844
 translate french sm1fs_t004_vs_trust_fall_e36016a4:
 
     # vs "Are you ready to do a trust fall?"
     vs "Are you ready to do a trust fall?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:845
+# game/code/scenes/theatre/sm1fs-t004.rpy:847
 translate french sm1fs_t004_vs_trust_fall_3199f982:
 
     # mc "Uhm, sure?"
     mc "Uhm, sure?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:848
+# game/code/scenes/theatre/sm1fs-t004.rpy:850
 translate french sm1fs_t004_vs_trust_fall_a3447524:
 
     # vs "Ready?"
     vs "Ready?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:851
+# game/code/scenes/theatre/sm1fs-t004.rpy:853
 translate french sm1fs_t004_vs_trust_fall_f6cbc6e0:
 
     # mc "Yep?"
     mc "Yep?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:860
+# game/code/scenes/theatre/sm1fs-t004.rpy:862
 translate french sm1fs_t004_vs_trust_fall_cff7ef01:
 
     # vs "My hero."
     vs "My hero."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:863
+# game/code/scenes/theatre/sm1fs-t004.rpy:865
 translate french sm1fs_t004_vs_trust_fall_39ebee39:
 
     # mc "I just caught you, nothing special."
     mc "I just caught you, nothing special."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:866
+# game/code/scenes/theatre/sm1fs-t004.rpy:868
 translate french sm1fs_t004_vs_trust_fall_c953e64a:
 
     # vs "Still, I think the man who managed to stop Lydia is definitely a hero."
     vs "Still, I think the man who managed to stop Lydia is definitely a hero."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:868
+# game/code/scenes/theatre/sm1fs-t004.rpy:870
 translate french sm1fs_t004_vs_trust_fall_5c3254e6:
 
     # mc "Veronica-"
     mc "Veronica-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:871
+# game/code/scenes/theatre/sm1fs-t004.rpy:873
 translate french sm1fs_t004_vs_trust_fall_b99822dc:
 
     # vs "I know, I know..."
     vs "I know, I know..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:873
+# game/code/scenes/theatre/sm1fs-t004.rpy:875
 translate french sm1fs_t004_vs_trust_fall_7ccbc6de:
 
     # vs "But... I don't know... I just think it's so... cool."
     vs "But... I don't know... I just think it's so... cool."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:876
+# game/code/scenes/theatre/sm1fs-t004.rpy:878
 translate french sm1fs_t004_vs_trust_fall_fd561c54:
 
     # mc "Cool, Veronica-"
     mc "Cool, Veronica-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:879
+# game/code/scenes/theatre/sm1fs-t004.rpy:881
 translate french sm1fs_t004_vs_trust_fall_7c521537:
 
     # vs "Look, there was something special about Fetish Locator, and... I just want to know more. I'm sorry I'm weird about it."
     vs "Look, there was something special about Fetish Locator, and... I just want to know more. I'm sorry I'm weird about it."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:885
+# game/code/scenes/theatre/sm1fs-t004.rpy:887
 translate french sm1fs_t004_vs_trust_fall_51039495:
 
     # mc "Look, maybe I do need to talk about it more... normalize it, or whatever."
     mc "Look, maybe I do need to talk about it more... normalize it, or whatever."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:887
+# game/code/scenes/theatre/sm1fs-t004.rpy:889
 translate french sm1fs_t004_vs_trust_fall_2244e515:
 
     # mc "And it was kind of a big deal thing... I'm just being a little... I don't know. It's just a lot."
     mc "And it was kind of a big deal thing... I'm just being a little... I don't know. It's just a lot."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:890
+# game/code/scenes/theatre/sm1fs-t004.rpy:892
 translate french sm1fs_t004_vs_trust_fall_b2b57718:
 
     # vs "I promise to try and be more chill about it."
     vs "I promise to try and be more chill about it."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:893
+# game/code/scenes/theatre/sm1fs-t004.rpy:895
 translate french sm1fs_t004_vs_trust_fall_f335009f:
 
     # mc "Thanks, Veronica."
     mc "Thanks, Veronica."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:898
+# game/code/scenes/theatre/sm1fs-t004.rpy:900
 translate french sm1fs_t004_vs_trust_fall_8e877c97:
 
     # mc "Look, I'm just not ready to talk about it."
     mc "Look, I'm just not ready to talk about it."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:902
+# game/code/scenes/theatre/sm1fs-t004.rpy:904
 translate french sm1fs_t004_vs_trust_fall_0bef139e:
 
     # vs "Okay... I'm sorry, [mcname]."
     vs "Okay... I'm sorry, [mcname]."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:904
+# game/code/scenes/theatre/sm1fs-t004.rpy:906
 translate french sm1fs_t004_vs_trust_fall_2c8cfbd6:
 
     # mc "Just... don't worry about it."
     mc "Just... don't worry about it."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:908
+# game/code/scenes/theatre/sm1fs-t004.rpy:910
 translate french sm1fs_t004_vs_trust_fall_72c5c263:
 
     # mc "But, no matter what - I'm glad you trust me."
     mc "But, no matter what - I'm glad you trust me."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:911
+# game/code/scenes/theatre/sm1fs-t004.rpy:913
 translate french sm1fs_t004_vs_trust_fall_af4a66a2:
 
     # vs "Of course! Because... you're my-"
     vs "Of course! Because... you're my-"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:914
+# game/code/scenes/theatre/sm1fs-t004.rpy:916
 translate french sm1fs_t004_vs_trust_fall_e346a918:
 
     # vs "Uhm, my stagehand."
     vs "Uhm, my stagehand."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:915
+# game/code/scenes/theatre/sm1fs-t004.rpy:917
 translate french sm1fs_t004_vs_trust_fall_f7ae10cd:
 
     # vs "I should probably get ready for my next trust fall."
     vs "I should probably get ready for my next trust fall."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:918
+# game/code/scenes/theatre/sm1fs-t004.rpy:920
 translate french sm1fs_t004_vs_trust_fall_74fc6761:
 
     # mc "Me too."
     mc "Me too."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:926
+# game/code/scenes/theatre/sm1fs-t004.rpy:928
 translate french sm1fs_t004_workshop_end_934991ee:
 
     # dvh "Now that we have all had time to do a trust fall together - Kellie, Veronica. Would you please step into the circle."
     dvh "Now that we have all had time to do a trust fall together - Kellie, Veronica. Would you please step into the circle."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:929
+# game/code/scenes/theatre/sm1fs-t004.rpy:931
 translate french sm1fs_t004_workshop_end_af8e22ff:
 
     # km "No."
     km "No."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:932
+# game/code/scenes/theatre/sm1fs-t004.rpy:934
 translate french sm1fs_t004_workshop_end_6ee06fd1:
 
     # dvh "Why not, Kellie?"
     dvh "Why not, Kellie?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:934
+# game/code/scenes/theatre/sm1fs-t004.rpy:936
 translate french sm1fs_t004_workshop_end_0ea278c6:
 
     # km "I won't do a trust fall with Veronica."
     km "I won't do a trust fall with Veronica."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:937
+# game/code/scenes/theatre/sm1fs-t004.rpy:939
 translate french sm1fs_t004_workshop_end_9385df83:
 
     # dvh "And why do you refuse such an easy exercise."
     dvh "And why do you refuse such an easy exercise."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:940
+# game/code/scenes/theatre/sm1fs-t004.rpy:942
 translate french sm1fs_t004_workshop_end_e553eaf8:
 
     # km "Because I don't trust her."
     km "Because I don't trust her."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:943
+# game/code/scenes/theatre/sm1fs-t004.rpy:945
 translate french sm1fs_t004_workshop_end_5f9e2380:
 
     # dvh "What has Veronica done to you, Kellie?"
     dvh "What has Veronica done to you, Kellie?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:946
+# game/code/scenes/theatre/sm1fs-t004.rpy:948
 translate french sm1fs_t004_workshop_end_5221f9c3:
 
     # vs "Whatever it is, I'm sorry!"
     vs "Whatever it is, I'm sorry!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:949
+# game/code/scenes/theatre/sm1fs-t004.rpy:951
 translate french sm1fs_t004_workshop_end_1ae88a5d:
 
     # km "Shut up, I don't care!"
     km "Shut up, I don't care!"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:952
+# game/code/scenes/theatre/sm1fs-t004.rpy:954
 translate french sm1fs_t004_workshop_end_16c818f2:
 
     # vs "Sorry..."
     vs "Sorry..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:955
+# game/code/scenes/theatre/sm1fs-t004.rpy:957
 translate french sm1fs_t004_workshop_end_eb3ff2f3:
 
     # dvh "I do not have time for this squabble. You two must work it out if we are ever to move forward as a troupe."
     dvh "I do not have time for this squabble. You two must work it out if we are ever to move forward as a troupe."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:957
+# game/code/scenes/theatre/sm1fs-t004.rpy:959
 translate french sm1fs_t004_workshop_end_ba65df27:
 
     # dvh "But for now, I must leave. I am to speak with some sponsors about our newest show."
     dvh "But for now, I must leave. I am to speak with some sponsors about our newest show."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:960
+# game/code/scenes/theatre/sm1fs-t004.rpy:962
 translate french sm1fs_t004_workshop_end_53300a3c:
 
     # tl "Does that mean the workshop is over?"
     tl "Does that mean the workshop is over?"
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:963
+# game/code/scenes/theatre/sm1fs-t004.rpy:965
 translate french sm1fs_t004_workshop_end_08031fcf:
 
     # dvh "Yeah."
     dvh "Yeah."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:966
+# game/code/scenes/theatre/sm1fs-t004.rpy:968
 translate french sm1fs_t004_workshop_end_21e10080:
 
     # tl "Fucking finally."
     tl "Fucking finally."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:969
+# game/code/scenes/theatre/sm1fs-t004.rpy:971
 translate french sm1fs_t004_workshop_end_820b238f:
 
     # mct "Man. I wonder what their problem is..."
     mct "Man. I wonder what their problem is..."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:970
+# game/code/scenes/theatre/sm1fs-t004.rpy:972
 translate french sm1fs_t004_workshop_end_f54a59a7:
 
     # mct "Maybe I should talk to Kellie about it... or Veronica."
@@ -1560,27 +1560,15 @@ translate french strings:
     old "Just finish up"
     new "Just finish up"
 
-    # game/code/scenes/theatre/sm1fs-t004.rpy:595
-    old "Taisia"
-    new "Taisia"
-
-    # game/code/scenes/theatre/sm1fs-t004.rpy:595
-    old "Kelly"
-    new "Kelly"
-
-    # game/code/scenes/theatre/sm1fs-t004.rpy:595
-    old "Veronica"
-    new "Veronica"
-
-    # game/code/scenes/theatre/sm1fs-t004.rpy:595
+    # game/code/scenes/theatre/sm1fs-t004.rpy:597
     old "That's everyone"
     new "That's everyone"
 
-    # game/code/scenes/theatre/sm1fs-t004.rpy:880
+    # game/code/scenes/theatre/sm1fs-t004.rpy:882
     old "Forgive and forget"
     new "Forgive and forget"
 
-    # game/code/scenes/theatre/sm1fs-t004.rpy:880
+    # game/code/scenes/theatre/sm1fs-t004.rpy:882
     old "Just move on"
     new "Just move on"
 

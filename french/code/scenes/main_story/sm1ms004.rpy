@@ -125,10 +125,10 @@ translate french sm1ms004_bd406131:
     arj "Yeah, and how long until they're broken?"
 
 # game/code/scenes/main_story/sm1ms004.rpy:69
-translate french sm1ms004_38f4d5b9:
+translate french sm1ms004_6ca11396:
 
-    # arj "Nevermind. It doesn't matter."
-    arj "Nevermind. It doesn't matter."
+    # arj "Never mind. It doesn't matter."
+    arj "Never mind. It doesn't matter."
 
 # game/code/scenes/main_story/sm1ms004.rpy:70
 translate french sm1ms004_0bc059a3:
@@ -365,10 +365,10 @@ translate french sm1ms004_0262f624:
     mc "Well, I guess that ends the tour."
 
 # game/code/scenes/main_story/sm1ms004.rpy:171
-translate french sm1ms004_a74686a4:
+translate french sm1ms004_b80a46ec:
 
-    # mct "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-    mct "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+    # mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+    mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
 
 # game/code/scenes/main_story/sm1ms004.rpy:174
 translate french sm1ms004_d2195659:
@@ -587,10 +587,10 @@ translate french sm1ms004_93730c07:
     mct "That was interesting.{w} I feel good - like AmRose is coming back around to liking us."
 
 # game/code/scenes/main_story/sm1ms004.rpy:266
-translate french sm1ms004_46109a1d:
+translate french sm1ms004_738d94cc:
 
-    # mct "Maybe this isn't completely fucked afterall."
-    mct "Maybe this isn't completely fucked afterall."
+    # mct "Maybe this isn't completely fucked after all."
+    mct "Maybe this isn't completely fucked after all."
 
 # game/code/scenes/main_story/sm1ms004.rpy:268
 translate french sm1ms004_fcf11b81:

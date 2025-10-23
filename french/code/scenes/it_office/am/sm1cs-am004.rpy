@@ -790,841 +790,841 @@ translate french sm1cs_am004_music_2_end_f7b1c819:
     # ag "Later [mcname]. I'll see you two at work."
     ag "Later [mcname]. I'll see you two at work."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:563
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:564
 translate french sm1cs_am004_music_2_end_9a9b5a38:
 
     # am "Mmm."
     am "Mmm."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:565
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:566
 translate french sm1cs_am004_music_2_end_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:569
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:570
 translate french sm1cs_am004_music_2_end_279c57b6:
 
     # am "Just. Come on."
     am "Just. Come on."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:585
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:586
 translate french sm1cs_am004_in_am_car_69502673:
 
     # mc "So where are you thinking for food?"
     mc "So where are you thinking for food?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:586
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:587
 translate french sm1cs_am004_in_am_car_1c8acf17:
 
     # am "..."
     am "..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:587
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:588
 translate french sm1cs_am004_in_am_car_bdeadb3b:
 
     # mct "Maybe I spoke too soon. Maybe she's crazier than Lydia was."
     mct "Maybe I spoke too soon. Maybe she's crazier than Lydia was."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:591
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:592
 translate french sm1cs_am004_in_am_car_4e4abe98:
 
     # mc "Where is the restaurant?"
     mc "Where is the restaurant?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:594
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:595
 translate french sm1cs_am004_in_am_car_84d141b5:
 
     # mc "April?"
     mc "April?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:599
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:600
 translate french sm1cs_am004_in_am_car_e27fe4f8:
 
     # am "Do you want to fuck me?"
     am "Do you want to fuck me?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:601
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:602
 translate french sm1cs_am004_in_am_car_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:604
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:605
 translate french sm1cs_am004_in_am_car_ae22a9fd:
 
     # am "It's a simple question. Don't strain your brain."
     am "It's a simple question. Don't strain your brain."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:608
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:609
 translate french sm1cs_am004_in_am_car_761cc14a:
 
     # am "Do you want to fuck me? Yes or no?"
     am "Do you want to fuck me? Yes or no?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:615
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:616
 translate french sm1cs_am004_in_am_car_ea1a7f3e:
 
     # mc "Well, if you're offering. Sure."
     mc "Well, if you're offering. Sure."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:618
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:619
 translate french sm1cs_am004_in_am_car_e7951358:
 
     # am "Wasn't too hard, was it?"
     am "Wasn't too hard, was it?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:625
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:626
 translate french sm1cs_am004_in_am_car_819d4336:
 
     # mc "Hell yes!"
     mc "Hell yes!"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:628
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:629
 translate french sm1cs_am004_in_am_car_ea546e0a:
 
     # am "You better not go off too quick."
     am "You better not go off too quick."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:631
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:632
 translate french sm1cs_am004_in_am_car_86c2a8c0:
 
     # mc "Course. Totally."
     mc "Course. Totally."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:638
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:639
 translate french sm1cs_am004_in_am_car_8e68b14b:
 
     # mc "No really. I mean at least not like this."
     mc "No really. I mean at least not like this."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:640
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:641
 translate french sm1cs_am004_in_am_car_5cad3548:
 
     # am "Not like this? What the hell does that mean?"
     am "Not like this? What the hell does that mean?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:643
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:644
 translate french sm1cs_am004_in_am_car_524702cd:
 
     # mc "It means 'no', April. I'm not interested in fucking you, right now. Like this."
     mc "It means 'no', April. I'm not interested in fucking you, right now. Like this."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:648
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:649
 translate french sm1cs_am004_in_am_car_bf371c93:
 
     # am "Get out of my car."
     am "Get out of my car."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:650
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:651
 translate french sm1cs_am004_in_am_car_4467e826:
 
     # mc "But I'm... I'm actually kind of hungry."
     mc "But I'm... I'm actually kind of hungry."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:653
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:654
 translate french sm1cs_am004_in_am_car_3f39b90a:
 
     # am "Get out!"
     am "Get out!"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:655
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:656
 translate french sm1cs_am004_in_am_car_b4926fd9:
 
     # mc "I'm going I'm going."
     mc "I'm going I'm going."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:666
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:667
 translate french sm1cs_am004_in_am_car_c8049dd3:
 
     # mct "Sheesh. Talking about mood swings."
     mct "Sheesh. Talking about mood swings."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:670
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:671
 translate french sm1cs_am004_in_am_car_0cda55b2:
 
     # mct "I guess I'm walking."
     mct "I guess I'm walking."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:689
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:691
 translate french sm1cs_am004_sex_d04a6661:
 
     # am "What the hell are you doing?"
     am "What the hell are you doing?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:691
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:693
 translate french sm1cs_am004_sex_4dcd7bc5:
 
     # mc "Kissing you?"
     mc "Kissing you?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:694
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:696
 translate french sm1cs_am004_sex_2a4a9e3b:
 
     # am "We're not a couple, [mcname]."
     am "We're not a couple, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:696
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:698
 translate french sm1cs_am004_sex_e4032cb8:
 
     # mc "Right. My bad."
     mc "Right. My bad."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:699
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:701
 translate french sm1cs_am004_sex_57b58511:
 
     # am "Just hurry up and open up your pants, weirdo."
     am "Just hurry up and open up your pants, weirdo."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:707
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:709
 translate french sm1cs_am004_sex_113f74a8:
 
     # mc "Right, I'm the weirdo. I'm not the one trying to jump on my dick."
     mc "Right, I'm the weirdo. I'm not the one trying to jump on my dick."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:711
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:713
 translate french sm1cs_am004_sex_03c3636f:
 
     # am "I didn't ask you into my car to talk."
     am "I didn't ask you into my car to talk."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:713
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:715
 translate french sm1cs_am004_sex_5430396f:
 
     # mc "Suit yourself."
     mc "Suit yourself."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:720
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:722
 translate french sm1cs_am004_sex_1e01a266:
 
     # mc "Say no more."
     mc "Say no more."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:725
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:727
 translate french sm1cs_am004_sex_1c8acf17:
 
     # am "..."
     am "..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:727
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:729
 translate french sm1cs_am004_sex_090b4191:
 
     # mc "Like that?"
     mc "Like that?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:730
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:732
 translate french sm1cs_am004_sex_7ffc9f0a:
 
     # am "I like it better than what it's attached to."
     am "I like it better than what it's attached to."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:733
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:735
 translate french sm1cs_am004_sex_981aacd5:
 
     # mc "You never switch off do you?"
     mc "You never switch off do you?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:735
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:737
 translate french sm1cs_am004_sex_f397ec3d:
 
     # am "I'd rather switch you on."
     am "I'd rather switch you on."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:739
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:741
 translate french sm1cs_am004_sex_a73e6e3f:
 
     # mc "Ooooh."
     mc "Ooooh."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:750
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:752
 translate french sm1cs_am004_sex_a4159376:
 
     # mc "Houah. What the fuck?"
     mc "Houah. What the fuck?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:754
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:756
 translate french sm1cs_am004_sex_4ff139ce:
 
     # mct "What is going on?"
     mct "What is going on?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:755
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:757
 translate french sm1cs_am004_sex_966b67ab:
 
     # am "Mrrrlphh... mrllrraphhah.."
     am "Mrrrlphh... mrllrraphhah.."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:758
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:760
 translate french sm1cs_am004_sex_807e0556:
 
     # mct "A few minutes ago, she looked ready to try killing me."
     mct "A few minutes ago, she looked ready to try killing me."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:759
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:761
 translate french sm1cs_am004_sex_f5ffd59d:
 
     # mct "Now she's sucking my cock like there is no tomorrow."
     mct "Now she's sucking my cock like there is no tomorrow."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:761
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:763
 translate french sm1cs_am004_sex_cc6831b9:
 
     # mc "*sighing happily*"
     mc "*sighing happily*"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:764
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:766
 translate french sm1cs_am004_sex_7069aaff:
 
     # am "*sucking*"
     am "*sucking*"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:770
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:772
 translate french sm1cs_am004_sex_dbadb8b0:
 
     # mc "Oh fuck!"
     mc "Oh fuck!"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:772
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:774
 translate french sm1cs_am004_sex_2eb84af0:
 
     # mc "April. April?"
     mc "April. April?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:774
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:776
 translate french sm1cs_am004_sex_5636211a:
 
     # mc "April, stop for a second."
     mc "April, stop for a second."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:778
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:780
 translate french sm1cs_am004_sex_ee736e3a:
 
     # am "Whah... ahem... what's the problem?"
     am "Whah... ahem... what's the problem?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:780
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:782
 translate french sm1cs_am004_sex_f15fb6da:
 
     # mc "You just bit my cock a bit."
     mc "You just bit my cock a bit."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:783
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:785
 translate french sm1cs_am004_sex_c27b58ed:
 
     # am "Don't be a pussy, [mcname]. I like it rough."
     am "Don't be a pussy, [mcname]. I like it rough."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:785
-translate french sm1cs_am004_sex_06e5e165:
-
-    # mc "Listen, I know you're whole thing is just being a bitch to me all the time, but I'm not tring to get my dick bit off."
-    mc "Listen, I know you're whole thing is just being a bitch to me all the time, but I'm not tring to get my dick bit off."
-
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:787
+translate french sm1cs_am004_sex_ce4eb6af:
+
+    # mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
+    mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
+
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:789
 translate french sm1cs_am004_sex_1c8acf17_1:
 
     # am "..."
     am "..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:789
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:791
 translate french sm1cs_am004_sex_f31b57f6:
 
     # mct "Shit, did I go to far?"
     mct "Shit, did I go to far?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:790
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:792
 translate french sm1cs_am004_sex_84d141b5:
 
     # mc "April?"
     mc "April?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:792
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:794
 translate french sm1cs_am004_sex_2cc71357:
 
     # am "Tell me...{w} tell me I'm {b}bad{/b} at this."
     am "Tell me...{w} tell me I'm {b}bad{/b} at this."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:794
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:796
 translate french sm1cs_am004_sex_05500ff6:
 
     # mc "Huh?"
     mc "Huh?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:797
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:799
 translate french sm1cs_am004_sex_fb8e3059:
 
     # am "I like it... I mean... you know... role reversal."
     am "I like it... I mean... you know... role reversal."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:800
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:802
 translate french sm1cs_am004_sex_e45af065:
 
     # am "At work, I'm in charge of you. Here... Why don't you..."
     am "At work, I'm in charge of you. Here... Why don't you..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:803
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:805
 translate french sm1cs_am004_sex_3d38d858:
 
     # am "Be in charge of me?"
     am "Be in charge of me?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:808
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:810
 translate french sm1cs_am004_sex_1d2700a2:
 
     # mc "Okay. You better get ready then."
     mc "Okay. You better get ready then."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:810
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:812
 translate french sm1cs_am004_sex_824f2438:
 
     # am "Fucking bring it."
     am "Fucking bring it."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:816
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:818
 translate french sm1cs_am004_sex_f1f221ee:
 
     # mc "I don't know. What if I go over the line with you?"
     mc "I don't know. What if I go over the line with you?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:819
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:821
 translate french sm1cs_am004_sex_0337be53:
 
     # am "I'm not worried. But if you're worried..."
     am "I'm not worried. But if you're worried..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:820
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:822
 translate french sm1cs_am004_sex_67ab500d:
 
     # am "Sabre, that will be my safe word. Got it?"
     am "Sabre, that will be my safe word. Got it?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:823
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:825
 translate french sm1cs_am004_sex_1031dfcf:
 
     # mc "Okay, Sabre. Got it."
     mc "Okay, Sabre. Got it."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:826
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:828
 translate french sm1cs_am004_sex_a981b9b8:
 
     # am "Can I continue?"
     am "Can I continue?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:836
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:838
 translate french sm1cs_am004_sex_1c8acf17_2:
 
     # am "..."
     am "..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:837
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:839
 translate french sm1cs_am004_sex_dbaf1639:
 
     # am "Did I do something wrong?"
     am "Did I do something wrong?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:841
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:843
 translate french sm1cs_am004_sex_b5b84e37:
 
     # mc "Bend over here."
     mc "Bend over here."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:844
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:846
 translate french sm1cs_am004_sex_58ce69f5:
 
     # mct "Nice."
     mct "Nice."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:851
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:853
 translate french sm1cs_am004_sex_6ab8a6eb:
 
     # am "Ow!"
     am "Ow!"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:857
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:859
 translate french sm1cs_am004_sex_3b364f6e:
 
     # am "Mrmmmm..."
     am "Mrmmmm..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:859
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:861
 translate french sm1cs_am004_sex_232da91e:
 
     # mct "Phew."
     mct "Phew."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:864
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:866
 translate french sm1cs_am004_sex_fc0e252f:
 
     # mc "Take that, bad girl."
     mc "Take that, bad girl."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:869
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:871
 translate french sm1cs_am004_sex_6e0d5a83:
 
     # mc "Your ass is {b}made{/b} for spanking."
     mc "Your ass is {b}made{/b} for spanking."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:870
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:872
 translate french sm1cs_am004_sex_ecd5926a:
 
     # mct "I fucking wish I could do this each time she pisses me off."
     mct "I fucking wish I could do this each time she pisses me off."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:880
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:882
 translate french sm1cs_am004_after_spank_98202c49:
 
     # mc "Suck my dick, April..."
     mc "Suck my dick, April..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:890
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:892
 translate french sm1cs_am004_after_spank_1910bc60:
 
     # mc "*groans lightly*"
     mc "*groans lightly*"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:893
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:895
 translate french sm1cs_am004_after_spank_02ae795c:
 
     # mct "She's still going."
     mct "She's still going."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:895
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:897
 translate french sm1cs_am004_after_spank_dd363b4e:
 
     # mc "Yes. Show me how much you like my dick."
     mc "Yes. Show me how much you like my dick."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:897
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:899
 translate french sm1cs_am004_after_spank_b09bd528:
 
     # am "Glurrkph... glurrrkk... armmm..."
     am "Glurrkph... glurrrkk... armmm..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:898
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:900
 translate french sm1cs_am004_after_spank_ba3b830b:
 
     # mc "Keep going. Keep kissing my balls, bitch."
     mc "Keep going. Keep kissing my balls, bitch."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:901
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:903
 translate french sm1cs_am004_after_spank_46f2abd1:
 
     # am "Mrrrmaahmm..."
     am "Mrrrmaahmm..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:902
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:904
 translate french sm1cs_am004_after_spank_d1246d6b:
 
     # mc "Oh you like that. Little name calling."
     mc "Oh you like that. Little name calling."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:903
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:905
 translate french sm1cs_am004_after_spank_35107833:
 
     # am "Wrrrrllhmmm..."
     am "Wrrrrllhmmm..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:906
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:908
 translate french sm1cs_am004_after_spank_fad3c43f:
 
     # mc "How long have you wanted to suck me off?"
     mc "How long have you wanted to suck me off?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:907
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:909
 translate french sm1cs_am004_after_spank_01cf0e61:
 
     # am "*sucking and gagging*"
     am "*sucking and gagging*"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:910
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:912
 translate french sm1cs_am004_after_spank_2fb8ec24:
 
     # mct "Hmmm. Now she's got nothing to say."
     mct "Hmmm. Now she's got nothing to say."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:911
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:913
 translate french sm1cs_am004_after_spank_0f78b688:
 
     # mct "I kind of like this side of April."
     mct "I kind of like this side of April."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:913
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:915
 translate french sm1cs_am004_after_spank_208bee5d:
 
     # mc "Oh shit. April, if you keep going-"
     mc "Oh shit. April, if you keep going-"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:914
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:916
 translate french sm1cs_am004_after_spank_aa1012f9:
 
     # mc "-I'm going to cum."
     mc "-I'm going to cum."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:915
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:917
 translate french sm1cs_am004_after_spank_a9fe57ee:
 
     # am "Mrrrlphhl... flrrrhhphh... Mrrrrmmmm.."
     am "Mrrrlphhl... flrrrhhphh... Mrrrrmmmm.."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:916
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:918
 translate french sm1cs_am004_after_spank_00eabfe4:
 
     # mc "April!"
     mc "April!"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:926
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:928
 translate french sm1cs_am004_after_spank_5f48bd3a:
 
     # am "Awuaaaahhh..."
     am "Awuaaaahhh..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:937
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:939
 translate french sm1cs_am004_after_spank_b9520182:
 
     # am "Mrraaah-huaah...."
     am "Mrraaah-huaah...."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:940
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:942
 translate french sm1cs_am004_after_spank_3460c2db:
 
     # am "*panting* {w}Can... can you..."
     am "*panting* {w}Can... can you..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:946
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:948
 translate french sm1cs_am004_after_spank_ad8ed8d0:
 
     # am "Finger me. I need it."
     am "Finger me. I need it."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:948
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:950
 translate french sm1cs_am004_after_spank_ce15257b:
 
     # mc "Thought you'd never ask."
     mc "Thought you'd never ask."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:954
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:956
 translate french sm1cs_am004_after_spank_717dc352:
 
     # am "Mrrrmm..."
     am "Mrrrmm..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:958
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:960
 translate french sm1cs_am004_after_spank_090b4191:
 
     # mc "Like that?"
     mc "Like that?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:965
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:967
 translate french sm1cs_am004_after_spank_dbe90879:
 
     # am "Yes. Oh fuck... More..."
     am "Yes. Oh fuck... More..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:968
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:970
 translate french sm1cs_am004_after_spank_123f07c9:
 
     # mc "Say the magic words, April."
     mc "Say the magic words, April."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:970
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:972
 translate french sm1cs_am004_after_spank_780537f7:
 
     # am "What?"
     am "What?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:973
-translate french sm1cs_am004_after_spank_af0e146a:
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:975
+translate french sm1cs_am004_after_spank_94b939c6:
 
-    # mc "Come on. you know the {b}word{/b} I'm waiting for."
-    mc "Come on. you know the {b}word{/b} I'm waiting for."
+    # mc "Come on. You know the {b}word{/b} I'm waiting for."
+    mc "Come on. You know the {b}word{/b} I'm waiting for."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:978
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:980
 translate french sm1cs_am004_after_spank_a790f962:
 
     # am "{b}Please{/b}. Please keep fucking my pussy, [mcname]."
     am "{b}Please{/b}. Please keep fucking my pussy, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:980
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:982
 translate french sm1cs_am004_after_spank_87e26eb2:
 
     # mc "Good girl."
     mc "Good girl."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:983
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:985
 translate french sm1cs_am004_after_spank_4010fd04:
 
     # am "Oh god. It's been so long. {w}Since I did something like this in a car."
     am "Oh god. It's been so long. {w}Since I did something like this in a car."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:985
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:987
 translate french sm1cs_am004_after_spank_15f500a7:
 
     # mc "Just waiting for the right guy to come around?"
     mc "Just waiting for the right guy to come around?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:986
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:988
 translate french sm1cs_am004_after_spank_8ac794df:
 
     # am "Don't... don't fucking flatter yourself. Murrahaah... Fuck."
     am "Don't... don't fucking flatter yourself. Murrahaah... Fuck."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:987
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:989
 translate french sm1cs_am004_after_spank_3a2bd90b:
 
     # am "You were just the closest thing with a dick near me."
     am "You were just the closest thing with a dick near me."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:989
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:991
 translate french sm1cs_am004_after_spank_3d743333:
 
     # mc "Heh. You're just trying to act tough. Should I stop?"
     mc "Heh. You're just trying to act tough. Should I stop?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:991
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:993
 translate french sm1cs_am004_after_spank_cc27a1f7:
 
     # am "No."
     am "No."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:993
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:995
 translate french sm1cs_am004_after_spank_d9af6597:
 
     # mc "No?"
     mc "No?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:995
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:997
 translate french sm1cs_am004_after_spank_2f5ef9d4:
 
     # am "No. Please don't fucking stop using my pussy."
     am "No. Please don't fucking stop using my pussy."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:996
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:998
 translate french sm1cs_am004_after_spank_5129f036:
 
     # am "*moaning desperately*"
     am "*moaning desperately*"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:998
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1000
 translate french sm1cs_am004_after_spank_235aa628:
 
     # am "Fuck. Okay... I'm really wet."
     am "Fuck. Okay... I'm really wet."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1000
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1002
 translate french sm1cs_am004_after_spank_e4ea2075:
 
     # mc "Yes, you are."
     mc "Yes, you are."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1001
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1003
 translate french sm1cs_am004_after_spank_c73aa215:
 
     # am "I want you to fu-"
     am "I want you to fu-"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1003
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1005
 translate french sm1cs_am004_after_spank_f49fff8f:
 
     # mc "Yeah?"
     mc "Yeah?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1006
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1008
 translate french sm1cs_am004_after_spank_3d134061:
 
     # am "Oh fuck. Oh fuck-huaaa-ooouhaah!"
     am "Oh fuck. Oh fuck-huaaa-ooouhaah!"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1017
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1019
 translate french sm1cs_am004_after_spank_5c02f405:
 
     # mct "Woah. And on top of everything else, the bitchy girl is a squirter."
     mct "Woah. And on top of everything else, the bitchy girl is a squirter."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1020
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1022
 translate french sm1cs_am004_after_spank_f534bd79:
 
     # am "Ooouhaah... {w}Phew..."
     am "Ooouhaah... {w}Phew..."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1022
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1024
 translate french sm1cs_am004_after_spank_5730ba5f:
 
     # mc "April? {w}You good?"
     mc "April? {w}You good?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1025
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1027
 translate french sm1cs_am004_after_spank_83edd7df:
 
     # am "This was a mistake."
     am "This was a mistake."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1027
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1029
 translate french sm1cs_am004_after_spank_05500ff6:
 
     # mc "Huh?"
     mc "Huh?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1030
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1032
 translate french sm1cs_am004_after_spank_bf371c93:
 
     # am "Get out of my car."
     am "Get out of my car."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1032
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1034
 translate french sm1cs_am004_after_spank_bfba5b59:
 
     # mc "Wait, weren't you about to say-"
     mc "Wait, weren't you about to say-"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1035
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1037
 translate french sm1cs_am004_after_spank_95e59b83:
 
     # am "Whatever I was about to say doesn't matter."
     am "Whatever I was about to say doesn't matter."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1036
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1038
 translate french sm1cs_am004_after_spank_9da00458:
 
     # am "Got it?"
     am "Got it?"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1039
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1041
 translate french sm1cs_am004_after_spank_dc16ebcd:
 
     # mc "Got it."
     mc "Got it."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1041
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1043
 translate french sm1cs_am004_after_spank_3fb09463:
 
     # am "Now."
     am "Now."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1044
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1046
 translate french sm1cs_am004_after_spank_472942c5:
 
     # am "I said {b}now{/b}."
     am "I said {b}now{/b}."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1050
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1052
 translate french sm1cs_am004_after_spank_57937afa:
 
     # mc "Come on, April."
     mc "Come on, April."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1065
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1068
 translate french sm1cs_am004_after_spank_7b5ea551:
 
     # mct "I guess I should be glad she didn't kick me out of a moving vehicle."
     mct "I guess I should be glad she didn't kick me out of a moving vehicle."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1068
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1071
 translate french sm1cs_am004_after_spank_9f700279:
 
     # mct "I've said it once, I've said it a hundred times."
     mct "I've said it once, I've said it a hundred times."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:1069
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:1072
 translate french sm1cs_am004_after_spank_17b0592e:
 
     # mct "Don't stick your dick in crazy."
@@ -1633,8 +1633,8 @@ translate french sm1cs_am004_after_spank_17b0592e:
 translate french strings:
 
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
-    old "Later that evening\nAt Guns 'n Rosette'"
-    new "Later that evening\nAt Guns 'n Rosette'"
+    old "Later that evening\nAt Guns n' Rosette"
+    new "Later that evening\nAt Guns n' Rosette"
 
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:66
     old "Are you nervous to play for me?"
@@ -1668,35 +1668,35 @@ translate french strings:
     old "I don't believe that"
     new "I don't believe that"
 
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:610
+    # game/code/scenes/it_office/am/sm1cs-am004.rpy:611
     old "Hell yes!"
     new "Hell yes!"
 
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:610
+    # game/code/scenes/it_office/am/sm1cs-am004.rpy:611
     old "Not really"
     new "Not really"
 
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:702
+    # game/code/scenes/it_office/am/sm1cs-am004.rpy:704
     old "Right, I'm the weirdo"
     new "Right, I'm the weirdo"
 
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:702
+    # game/code/scenes/it_office/am/sm1cs-am004.rpy:704
     old "Say no more"
     new "Say no more"
 
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:804
+    # game/code/scenes/it_office/am/sm1cs-am004.rpy:806
     old "Agree"
     new "Agree"
 
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:804
+    # game/code/scenes/it_office/am/sm1cs-am004.rpy:806
     old "What about your limits?"
     new "What about your limits?"
 
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:845
+    # game/code/scenes/it_office/am/sm1cs-am004.rpy:847
     old "Spank her ass"
     new "Spank her ass"
 
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:845
+    # game/code/scenes/it_office/am/sm1cs-am004.rpy:847
     old "Don't spank her ass"
     new "Don't spank her ass"
 

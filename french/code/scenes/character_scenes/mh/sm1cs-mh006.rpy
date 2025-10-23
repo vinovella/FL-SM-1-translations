@@ -562,817 +562,817 @@ translate french sm1cs_mh006_after_choice_cfcc2293:
     # mc "I know."
     mc "I know."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:289
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:290
 translate french sm1cs_mh006_after_choice_38c2a39d:
 
     # mh "... Well you know the real difference between a lawyer and a vampire, right, [mcname]?"
     mh "... Well you know the real difference between a lawyer and a vampire, right, [mcname]?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:292
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:293
 translate french sm1cs_mh006_after_choice_67009d7f:
 
     # mc "Uhhh, nope."
     mc "Uhhh, nope."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:295
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:296
 translate french sm1cs_mh006_after_choice_7b4f451e:
 
     # mh "Law school."
     mh "Law school."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:298
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:299
 translate french sm1cs_mh006_after_choice_aaf63cf5:
 
     # mc "That one was pretty good!"
     mc "That one was pretty good!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:301
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:302
 translate french sm1cs_mh006_after_choice_dd90d3c6:
 
     # mh "I don't know, I really liked your cement joke."
     mh "I don't know, I really liked your cement joke."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:304
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:305
 translate french sm1cs_mh006_after_choice_0d3ef2ba:
 
     # mc "That one is an absolute classic."
     mc "That one is an absolute classic."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:305
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:306
 translate french sm1cs_mh006_after_choice_cb70afb1:
 
     # mc "So..."
     mc "So..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:307
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:308
 translate french sm1cs_mh006_after_choice_08e608a8:
 
     # mh "So..."
     mh "So..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:308
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:309
 translate french sm1cs_mh006_after_choice_d1acc3d9:
 
     # mc "I had a great time tonight, Lyssa."
     mc "I had a great time tonight, Lyssa."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:311
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:312
 translate french sm1cs_mh006_after_choice_4078371f:
 
     # mh "I had a great time as well, [mcname]."
     mh "I had a great time as well, [mcname]."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:314
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:315
 translate french sm1cs_mh006_after_choice_ced52754:
 
     # mc "We should... Do it again, sometime, maybe?"
     mc "We should... Do it again, sometime, maybe?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:316
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:317
 translate french sm1cs_mh006_after_choice_7f0d5945:
 
     # mh "I think that would be amenable to me."
     mh "I think that would be amenable to me."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:317
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:318
 translate french sm1cs_mh006_after_choice_5ac8cc43:
 
     # mc "Good. Good..."
     mc "Good. Good..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:320
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:321
 translate french sm1cs_mh006_after_choice_047c5d38:
 
     # mc "Wel, uhm... I guess-"
     mc "Wel, uhm... I guess-"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:323
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:324
 translate french sm1cs_mh006_after_choice_b5fd75b7:
 
     # mh "You want to come in for tea, or something?"
     mh "You want to come in for tea, or something?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:326
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:327
 translate french sm1cs_mh006_after_choice_db325a73:
 
     # mc "Yes! Yeah, uhm, absolutely."
     mc "Yes! Yeah, uhm, absolutely."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:327
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:328
 translate french sm1cs_mh006_after_choice_c6f5aad5:
 
     # mct "I don't know about tea, but I'm definitely down for something!"
     mct "I don't know about tea, but I'm definitely down for something!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:330
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:331
 translate french sm1cs_mh006_after_choice_0655c0b0:
 
     # mh "Tsk tsk, [mcname]. You're losing your cool."
     mh "Tsk tsk, [mcname]. You're losing your cool."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:332
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:333
 translate french sm1cs_mh006_after_choice_2affa0d3:
 
     # mc "You're right, I'm sorry."
     mc "You're right, I'm sorry."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:336
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:337
 translate french sm1cs_mh006_after_choice_9c4093be:
 
     # mc "'Yeah, tea sounds cool. Or whatever.'"
     mc "'Yeah, tea sounds cool. Or whatever.'"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:339
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:340
 translate french sm1cs_mh006_after_choice_1cbf27a3:
 
     # mh "Come on, before I change my mind, you weirdo."
     mh "Come on, before I change my mind, you weirdo."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:344
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:345
 translate french sm1cs_mh006_after_choice_76d24172:
 
     # mct "Hell yeah!!!"
     mct "Hell yeah!!!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:353
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:354
 translate french sm1cs_mh006_after_choice_99463040:
 
     # mct "Oh... She meant actual tea..."
     mct "Oh... She meant actual tea..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:356
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:357
 translate french sm1cs_mh006_after_choice_aec001e1:
 
     # mh "Disappointed?"
     mh "Disappointed?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:359
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:360
 translate french sm1cs_mh006_after_choice_586568b7:
 
     # mc "Uh, huh? What?"
     mc "Uh, huh? What?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:362
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:363
 translate french sm1cs_mh006_after_choice_860de970:
 
     # mh "The look on your face. You look disappointed."
     mh "The look on your face. You look disappointed."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:365
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:366
 translate french sm1cs_mh006_after_choice_e273a8d7:
 
     # mc "What! Nahhhhh. I'm... Like, totally cool."
     mc "What! Nahhhhh. I'm... Like, totally cool."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:368
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:369
 translate french sm1cs_mh006_after_choice_52c0ff02:
 
     # mh "Sure, Casanova. What kind of tea do you want?"
     mh "Sure, Casanova. What kind of tea do you want?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:370
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:371
 translate french sm1cs_mh006_after_choice_b3ae8984:
 
     # mc "Uhm..."
     mc "Uhm..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:373
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:374
 translate french sm1cs_mh006_after_choice_b8c18fdc:
 
     # mct "Shit! The only tea I can think of is a video game teabag and that is {u}very different.{/u}"
     mct "Shit! The only tea I can think of is a video game teabag and that is {u}very different.{/u}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:374
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:375
 translate french sm1cs_mh006_after_choice_eb25c9ca:
 
     # mc "I'll have some... Jasper tea?"
     mc "I'll have some... Jasper tea?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:377
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:378
 translate french sm1cs_mh006_after_choice_40d02e69:
 
     # mh "Did you mean jasmine?"
     mh "Did you mean jasmine?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:380
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:381
 translate french sm1cs_mh006_after_choice_dfbaed0a:
 
     # mc "Yeah! Jasmine, that's it."
     mc "Yeah! Jasmine, that's it."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:383
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:384
 translate french sm1cs_mh006_after_choice_655cfc38:
 
     # mh "Sometimes you are the smoothest man I've ever met. Other times, I'd swear you learned how to talk on the internet."
     mh "Sometimes you are the smoothest man I've ever met. Other times, I'd swear you learned how to talk on the internet."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:386
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:387
 translate french sm1cs_mh006_after_choice_d3483b23:
 
     # mct "If she only knew..."
     mct "If she only knew..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:389
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:390
 translate french sm1cs_mh006_after_choice_3651ee69:
 
     # mh "I will be right back, just need to use the ladies room."
     mh "I will be right back, just need to use the ladies room."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:391
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:392
 translate french sm1cs_mh006_after_choice_e94ab8a1:
 
     # mc "Okay! I will be right here, waiting for the tea to be ready."
     mc "Okay! I will be right here, waiting for the tea to be ready."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:398
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:399
 translate french sm1cs_mh006_after_choice_b290422d:
 
     # mct "I don't think I've ever used a teapot before..."
     mct "I don't think I've ever used a teapot before..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:399
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:400
 translate french sm1cs_mh006_after_choice_7e05c2e7:
 
     # mct "In fact, I don't think anyone has ever really made me tea..."
     mct "In fact, I don't think anyone has ever really made me tea..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:401
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:402
 translate french sm1cs_mh006_after_choice_d04e4d62:
 
     # mct "Is that weird?"
     mct "Is that weird?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:407
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:408
 translate french sm1cs_mh006_after_choice_9344b249:
 
     # mct "Oh shit! What did I do!?"
     mct "Oh shit! What did I do!?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:415
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:416
 translate french sm1cs_mh006_after_choice_c478a49b:
 
     # mct "Did I break it? Uhhh, I don't know what to do. Uhm, I guess I'll just turn off the stove?"
     mct "Did I break it? Uhhh, I don't know what to do. Uhm, I guess I'll just turn off the stove?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:420
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:421
 translate french sm1cs_mh006_after_choice_f0dd61f2:
 
     # mh "Looks like our tea is ready."
     mh "Looks like our tea is ready."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:425
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:426
 translate french sm1cs_mh006_after_choice_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:427
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:428
 translate french sm1cs_mh006_after_choice_0f5e6726:
 
     # mh "You okay?"
     mh "You okay?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:429
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:430
 translate french sm1cs_mh006_after_choice_0c170bad:
 
     # mc "Yep. You look so damn good I was stunned silent."
     mc "Yep. You look so damn good I was stunned silent."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:432
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:433
 translate french sm1cs_mh006_after_choice_cc49fce0:
 
     # mh "Well, since the tea is ready, I think it's time for the 'something else'."
     mh "Well, since the tea is ready, I think it's time for the 'something else'."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:452
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:453
 translate french sm1cs_mh006_sex_b8b7db21:
 
     # mh "You know, keeping your clothes on might make this harder than it needs to be."
     mh "You know, keeping your clothes on might make this harder than it needs to be."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:455
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:456
 translate french sm1cs_mh006_sex_621a3f7b:
 
     # mc "You've got a good point."
     mc "You've got a good point."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:460
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:461
 translate french sm1cs_mh006_sex_f8260be7:
 
     # mh "Mmmmmmm..."
     mh "Mmmmmmm..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:462
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:463
 translate french sm1cs_mh006_sex_f49fff8f:
 
     # mc "Yeah?"
     mc "Yeah?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:463
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:464
 translate french sm1cs_mh006_sex_95145c92:
 
     # mh "I missed this view a lot... I may have spent a few nights picturing this moment..."
     mh "I missed this view a lot... I may have spent a few nights picturing this moment..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:466
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:467
 translate french sm1cs_mh006_sex_6eb5f030:
 
     # mc "Yeah? Well, in your fantasy, what's next?"
     mc "Yeah? Well, in your fantasy, what's next?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:470
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:471
 translate french sm1cs_mh006_sex_3292f73e:
 
     # mh "This."
     mh "This."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:473
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:474
 translate french sm1cs_mh006_sex_a2813ae7:
 
     # mh "I have missed the taste of your dick, [mcname]."
     mh "I have missed the taste of your dick, [mcname]."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:474
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:475
 translate french sm1cs_mh006_sex_471b89ea:
 
     # mh "And judging by how hard you are, it's missed being in my mouth."
     mh "And judging by how hard you are, it's missed being in my mouth."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:477
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:478
 translate french sm1cs_mh006_sex_f8cf1e9b:
 
     # mc "More than you know."
     mc "More than you know."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:479
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:480
 translate french sm1cs_mh006_sex_555ce2d0:
 
     # mh "Should we let them get reacquainted then?"
     mh "Should we let them get reacquainted then?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:481
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:482
 translate french sm1cs_mh006_sex_f69b0fd2:
 
     # mc "God, yes."
     mc "God, yes."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:488
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:489
 translate french sm1cs_mh006_sex_7448b0a8:
 
     # mc "Fuck, Lyssa... You weren't lying when you said you missed my dick."
     mc "Fuck, Lyssa... You weren't lying when you said you missed my dick."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:489
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:490
 translate french sm1cs_mh006_sex_a02a717b:
 
     # mc "I've missed your blowjobs, so much... You know exactly what I want."
     mc "I've missed your blowjobs, so much... You know exactly what I want."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:492
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:493
 translate french sm1cs_mh006_sex_117c7b2f:
 
     # mc "Oh shit, that's {i}fucking amazing!{/i}"
     mc "Oh shit, that's {i}fucking amazing!{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:493
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:494
 translate french sm1cs_mh006_sex_ab0f0e94:
 
     # mh "Gllllllck, glck, glck, gllllllllllcccccck!"
     mh "Gllllllck, glck, glck, gllllllllllcccccck!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:496
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:497
 translate french sm1cs_mh006_sex_5e58901a:
 
     # mc "If I could, I wouldn't ever let you stop... This is just so wonderful..."
     mc "If I could, I wouldn't ever let you stop... This is just so wonderful..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:497
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:498
 translate french sm1cs_mh006_sex_528f798e:
 
     # mc "Your lips wrapped around me, your head bobbing down on my cock, your tongue - God, your tongue!"
     mc "Your lips wrapped around me, your head bobbing down on my cock, your tongue - God, your tongue!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:502
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:503
 translate french sm1cs_mh006_sex_74c4e690:
 
     # mh "Glck, glck, glck!"
     mh "Glck, glck, glck!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:503
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:504
 translate french sm1cs_mh006_sex_509ac89a:
 
     # mc "If you're not careful-"
     mc "If you're not careful-"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:506
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:507
 translate french sm1cs_mh006_sex_2b65586a:
 
     # mc "-Jesus, I want to cum down your throat. Holllly guacamollllley!"
     mc "-Jesus, I want to cum down your throat. Holllly guacamollllley!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:507
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:508
 translate french sm1cs_mh006_sex_91f75041:
 
     # mc "Yeah, just like that - fuh - just like that!"
     mc "Yeah, just like that - fuh - just like that!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:510
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:511
 translate french sm1cs_mh006_sex_4e99a1c1:
 
     # mh "Glck, glck, glck, glck."
     mh "Glck, glck, glck, glck."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:511
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:512
 translate french sm1cs_mh006_sex_e1875902:
 
     # mc "I'm so close, Lyssa. Gah, I'm close!"
     mc "I'm so close, Lyssa. Gah, I'm close!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:516
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:517
 translate french sm1cs_mh006_sex_0efca0a0:
 
     # mh "I can't wait any longer, [mcname]."
     mh "I can't wait any longer, [mcname]."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:517
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:518
 translate french sm1cs_mh006_sex_ec24b5ab:
 
     # mh "Please, will you fuck me?"
     mh "Please, will you fuck me?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:520
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:521
 translate french sm1cs_mh006_sex_a8ca7c99:
 
     # mc "I would be an idiot to say no."
     mc "I would be an idiot to say no."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:524
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:525
 translate french sm1cs_mh006_sex_49c16406:
 
     # mh "I've been waiting for this... I... I've missed this, so much... Missed you..."
     mh "I've been waiting for this... I... I've missed this, so much... Missed you..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:527
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:528
 translate french sm1cs_mh006_sex_02926c63:
 
     # mc "Sounds like I need to make up for lost time."
     mc "Sounds like I need to make up for lost time."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:531
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:532
 translate french sm1cs_mh006_sex_9339daec:
 
     # mh "Please."
     mh "Please."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:538
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:539
 translate french sm1cs_mh006_sex_912c7e55:
 
     # mh "Oh my - [mcname]!"
     mh "Oh my - [mcname]!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:539
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:540
 translate french sm1cs_mh006_sex_95c7633a:
 
     # mc "Are you okay?"
     mc "Are you okay?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:542
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:543
 translate french sm1cs_mh006_sex_8337c3e3:
 
     # mh "I'm more than okay! Fnnnnng - I'm in {i}heaven{/i}!"
     mh "I'm more than okay! Fnnnnng - I'm in {i}heaven{/i}!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:545
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:546
 translate french sm1cs_mh006_sex_43c042ff:
 
     # mh "I forgot how incredible this felt - how perfect your dick feels inside me."
     mh "I forgot how incredible this felt - how perfect your dick feels inside me."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:546
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:547
 translate french sm1cs_mh006_sex_ac05fc0b:
 
     # mh "Your cock fills me up, and stretches me - Mmmmmmmm! It's nothing short of {i}perfect!{/i}"
     mh "Your cock fills me up, and stretches me - Mmmmmmmm! It's nothing short of {i}perfect!{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:549
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:550
 translate french sm1cs_mh006_sex_b1665062:
 
     # mc "And you're so incredibly tight. Jesus, I don't think I could pull my dick out if I tried!"
     mc "And you're so incredibly tight. Jesus, I don't think I could pull my dick out if I tried!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:550
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:551
 translate french sm1cs_mh006_sex_ce6c4fc3:
 
     # mh "{i}Don't you dare, [mcname].{/i}"
     mh "{i}Don't you dare, [mcname].{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:553
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:554
 translate french sm1cs_mh006_sex_b82b8d78:
 
     # mc "I wouldn't dream of it."
     mc "I wouldn't dream of it."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:554
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:555
 translate french sm1cs_mh006_sex_a0f276e0:
 
     # mh "Good, because - ohh, ohhhh, yessss - I need you to cum in meee."
     mh "Good, because - ohh, ohhhh, yessss - I need you to cum in meee."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:557
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:558
 translate french sm1cs_mh006_sex_c2d1457d:
 
     # mh "I need to feel you fill me up, your warm, sticky cum coating my insides."
     mh "I need to feel you fill me up, your warm, sticky cum coating my insides."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:558
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:559
 translate french sm1cs_mh006_sex_fbddc464:
 
     # mc "Goddamn, Lyssa..."
     mc "Goddamn, Lyssa..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:559
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:560
 translate french sm1cs_mh006_sex_a5d39a36:
 
     # mh "I've been thinking about this... A lot. And I just need to remember what it feels like."
     mh "I've been thinking about this... A lot. And I just need to remember what it feels like."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:562
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:563
 translate french sm1cs_mh006_sex_e1170953:
 
     # mc "I think I can fulfill your fantasy."
     mc "I think I can fulfill your fantasy."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:563
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:564
 translate french sm1cs_mh006_sex_70694833:
 
     # mh "Good. Because you've already filled me today."
     mh "Good. Because you've already filled me today."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:566
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:567
 translate french sm1cs_mh006_sex_d39ee0f9:
 
     # mc "Mmmmnnngnnnngggg, I'm getting close!"
     mc "Mmmmnnngnnnngggg, I'm getting close!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:567
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:568
 translate french sm1cs_mh006_sex_539d9a98:
 
     # mh "Flip me over, I want to see you cum!"
     mh "Flip me over, I want to see you cum!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:573
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:574
 translate french sm1cs_mh006_sex_e44443f0:
 
     # mh "What are you-"
     mh "What are you-"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:577
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:578
 translate french sm1cs_mh006_sex_346b716c:
 
     # mh "Oh my God!!!"
     mh "Oh my God!!!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:579
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:580
 translate french sm1cs_mh006_sex_f49fff8f_1:
 
     # mc "Yeah?"
     mc "Yeah?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:581
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:582
 translate french sm1cs_mh006_sex_925b1184:
 
     # mh "Fuhhh - that felt -"
     mh "Fuhhh - that felt -"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:584
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:585
 translate french sm1cs_mh006_sex_ab9779f2:
 
     # mc "Almost as good as this?"
     mc "Almost as good as this?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:591
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:592
 translate french sm1cs_mh006_sex_7cf675bc:
 
     # mh "Oh my {i}GOD!{/i}"
     mh "Oh my {i}GOD!{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:592
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:593
 translate french sm1cs_mh006_sex_8df4c2b5:
 
     # mh "Don't stop, [mcname], please don't stop!"
     mh "Don't stop, [mcname], please don't stop!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:594
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:595
 translate french sm1cs_mh006_sex_352ece69:
 
     # mh "You're going to make me cum - holy shit, you're going to make me cum!"
     mh "You're going to make me cum - holy shit, you're going to make me cum!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:595
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:596
 translate french sm1cs_mh006_sex_3dcedd30:
 
     # mc "I can feel myself getting close..."
     mc "I can feel myself getting close..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:597
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:598
 translate french sm1cs_mh006_sex_65155363:
 
     # mh "I want to cum together, {i}I need us to cum together!{/i}"
     mh "I want to cum together, {i}I need us to cum together!{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:600
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:601
 translate french sm1cs_mh006_sex_ce14dda4:
 
     # mh "Your dick is getting so much deeper now, holy - mmmmmmmm!"
     mh "Your dick is getting so much deeper now, holy - mmmmmmmm!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:602
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:603
 translate french sm1cs_mh006_sex_b3bc47a9:
 
     # mc "Lyssa, fuuuuuuuuhhhhg, Lyssa!"
     mc "Lyssa, fuuuuuuuuhhhhg, Lyssa!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:603
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:604
 translate french sm1cs_mh006_sex_eae76607:
 
     # mh "Yes, [mcname], yes!"
     mh "Yes, [mcname], yes!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:605
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:606
 translate french sm1cs_mh006_sex_3c3da4b8:
 
     # mc "Gaaaahh, I'm going to - fuuuuuck!"
     mc "Gaaaahh, I'm going to - fuuuuuck!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:606
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:607
 translate french sm1cs_mh006_sex_9c0ce43f:
 
     # mh "Yes! Yes, yes, yes!"
     mh "Yes! Yes, yes, yes!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:607
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:608
 translate french sm1cs_mh006_sex_d4900efc:
 
     # mh "God yes, fill me up! Shoot your cum deep inside my ass! Yes, yes, yes!"
     mh "God yes, fill me up! Shoot your cum deep inside my ass! Yes, yes, yes!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:610
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:611
 translate french sm1cs_mh006_sex_e3132734:
 
     # mc "Fuck, Lyssa, I'm cummmmmming!"
     mc "Fuck, Lyssa, I'm cummmmmming!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:611
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:612
 translate french sm1cs_mh006_sex_0b0368d2:
 
     # mh "Yes! {i}Yes! YES! I'M CUMMING!{/i}"
     mh "Yes! {i}Yes! YES! I'M CUMMING!{/i}"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:616
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:617
 translate french sm1cs_mh006_sex_05931324:
 
     # mh "Ohhhh fuuUUUCK!"
     mh "Ohhhh fuuUUUCK!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:626
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:627
 translate french sm1cs_mh006_sex_1ba4cf58:
 
     # mc "Everything you had imagined?"
     mc "Everything you had imagined?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:629
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:630
 translate french sm1cs_mh006_sex_aee6cab9:
 
     # mh "No. It was better than I could have ever dreamed."
     mh "No. It was better than I could have ever dreamed."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:631
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:632
 translate french sm1cs_mh006_sex_45e2a861:
 
     # mc "Good. That's what we aim to do here."
     mc "Good. That's what we aim to do here."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:634
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:635
 translate french sm1cs_mh006_sex_0da88a45:
 
     # mh "We?"
     mh "We?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:637
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:638
 translate french sm1cs_mh006_sex_4a073610:
 
     # mc "Yeah, me and you."
     mc "Yeah, me and you."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:638
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:639
 translate french sm1cs_mh006_sex_8321fefe:
 
     # mc "We aim to have the best sex possible."
     mc "We aim to have the best sex possible."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:641
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:642
 translate french sm1cs_mh006_sex_95dec991:
 
     # mh "Well I think we exceeded those expectations tonight."
     mh "Well I think we exceeded those expectations tonight."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:644
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:645
 translate french sm1cs_mh006_sex_3e780cd0:
 
     # mc "I think so, too."
     mc "I think so, too."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:647
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:648
 translate french sm1cs_mh006_sex_6d853030:
 
     # mh "Hell, I think you might have fucked me into a coma... I can't move an inch."
     mh "Hell, I think you might have fucked me into a coma... I can't move an inch."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:649
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:650
 translate french sm1cs_mh006_sex_4eadc533:
 
     # mc "Neither can I."
     mc "Neither can I."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:653
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:654
 translate french sm1cs_mh006_sex_eb9608ff:
 
     # mc "But I should get up, otherwise, I'll fall asleep here."
     mc "But I should get up, otherwise, I'll fall asleep here."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:655
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:656
 translate french sm1cs_mh006_sex_a88aada8:
 
     # mh "That's fine."
     mh "That's fine."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:656
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:657
 translate french sm1cs_mh006_sex_cc44a9c5:
 
     # mc "Really? What happened to taking it slow?"
     mc "Really? What happened to taking it slow?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:659
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:660
 translate french sm1cs_mh006_sex_bcea909b:
 
     # mh "It's not like you're leaving a toothbrush in the bathroom. Besides, I don't have the energy to kick you out."
     mh "It's not like you're leaving a toothbrush in the bathroom. Besides, I don't have the energy to kick you out."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:662
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:663
 translate french sm1cs_mh006_sex_d20c600e:
 
     # mc "Well, how can I say no to spending the night with a beautiful woman?"
     mc "Well, how can I say no to spending the night with a beautiful woman?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:663
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:664
 translate french sm1cs_mh006_sex_a8660272:
 
     # mc "Should I get you a towel or something?"
     mc "Should I get you a towel or something?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:665
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:666
 translate french sm1cs_mh006_sex_9c263754:
 
     # mh "Hmmm? Why?"
     mh "Hmmm? Why?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:666
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:667
 translate french sm1cs_mh006_sex_f40e1934:
 
     # mc "Well, you made a mess of yourself."
     mc "Well, you made a mess of yourself."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:669
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:670
 translate french sm1cs_mh006_sex_ff158da2:
 
     # mh "It's fine, I'll deal with it in the morning."
     mh "It's fine, I'll deal with it in the morning."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:671
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:672
 translate french sm1cs_mh006_sex_74c498aa:
 
     # mc "Sounds good to me."
     mc "Sounds good to me."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:687
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:689
 translate french sm1cs_mh006_sex_39ab3d10:
 
     # mc "Mmmmmm, morning, Lyssa."
     mc "Mmmmmm, morning, Lyssa."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:691
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:693
 translate french sm1cs_mh006_sex_3645e64f:
 
     # mc "Lyssa?"
     mc "Lyssa?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:697
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:699
 translate french sm1cs_mh006_sex_5ff87e6d:
 
     # mct "\"[mcname], got an early morning call from a client, had to run to the office. I loved our date last night, hope to do it again soon. x o, Lyssa.\""
     mct "\"[mcname], got an early morning call from a client, had to run to the office. I loved our date last night, hope to do it again soon. x o, Lyssa.\""
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:700
+# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:702
 translate french sm1cs_mh006_sex_9b56754e:
 
     # mct "I hope we get to do that again real soon, too.{w} But I should probably get a start on the day."

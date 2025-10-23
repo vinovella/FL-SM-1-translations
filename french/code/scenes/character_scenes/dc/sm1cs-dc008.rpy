@@ -983,10 +983,10 @@ translate french sm1cs_dc008_eec09208:
     dc "It's kind of exciting, having you know the {b}real{/b} me..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:441
-translate french sm1cs_dc008_69325c6a:
+translate french sm1cs_dc008_b12cc4d7:
 
-    # mc "I'm greatful that you shared that part of you with me, Debbie."
-    mc "I'm greatful that you shared that part of you with me, Debbie."
+    # mc "I'm grateful that you shared that part of you with me, Debbie."
+    mc "I'm grateful that you shared that part of you with me, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:442
 translate french sm1cs_dc008_286f5b67:

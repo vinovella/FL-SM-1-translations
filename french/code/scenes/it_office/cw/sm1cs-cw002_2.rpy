@@ -59,10 +59,10 @@ translate french sm1cs_cw002_2_922985af:
     cw "*whispers* I knew I should have asked Eugene."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:57
-translate french sm1cs_cw002_2_3bf24d7c:
+translate french sm1cs_cw002_2_de7b5f54:
 
-    # mc "*whispers* Eugene? Claire. I'm totally lost."
-    mc "*whispers* Eugene? Claire. I'm totally lost."
+    # mc "*whispers* Eugene? Ms. Watts. I'm totally lost."
+    mc "*whispers* Eugene? Ms. Watts. I'm totally lost."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:60
 translate french sm1cs_cw002_2_cc0d32d7:
@@ -491,10 +491,10 @@ translate french sm1cs_cw002_2_6902edb5:
     fw "Yes."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:252
-translate french sm1cs_cw002_2_f1ec3231:
+translate french sm1cs_cw002_2_da7d3338:
 
-    # cw "You told daddy?"
-    cw "You told daddy?"
+    # cw "You told Daddy?"
+    cw "You told Daddy?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:254
 translate french sm1cs_cw002_2_66311414:
@@ -899,18 +899,18 @@ translate french strings:
     new "After a tense lunch"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "It was fine."
-    new "It was fine."
+    old "It was fine"
+    new "It was fine"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "Sorry, Claire."
-    new "Sorry, Claire."
+    old "Sorry, Claire"
+    new "Sorry, Claire"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Anything for my 'girlfriend'"
     new "Anything for my 'girlfriend'"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
-    old "Don't mention it, Ms. Watts."
-    new "Don't mention it, Ms. Watts."
+    old "Don't mention it, Ms. Watts"
+    new "Don't mention it, Ms. Watts"
 

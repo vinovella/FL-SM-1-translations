@@ -52,31 +52,31 @@ translate french sm1cs_vs005i_bec2ba77:
     # vs "*giggles*"
     vs "*giggles*"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:33
+# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:32
 translate french sm1cs_vs005i_1b7ebfbb:
 
     # mc "Sorry, I'm a little busy right now."
     mc "Sorry, I'm a little busy right now."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:37
+# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:36
 translate french sm1cs_vs005i_95b3a43a:
 
     # vs "Oh, that's cool I guess."
     vs "Oh, that's cool I guess."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:39
+# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:38
 translate french sm1cs_vs005i_273341cc:
 
     # mc "I'm sorry, Veronica."
     mc "I'm sorry, Veronica."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:41
+# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:40
 translate french sm1cs_vs005i_20bcc98c:
 
     # vs "I know. But like... half the fun was that we would drop everything and have fun."
     vs "I know. But like... half the fun was that we would drop everything and have fun."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:42
+# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:41
 translate french sm1cs_vs005i_73eea309:
 
     # vs "I guess I should reset the alert."

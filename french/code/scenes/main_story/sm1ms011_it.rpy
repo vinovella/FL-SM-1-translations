@@ -47,10 +47,10 @@ translate french sm1ms011_it_b604545e:
     mc "I just landed the job. I'm not sure I'm ready to think about another job."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:26
-translate french sm1ms011_it_fd1ea990:
+translate french sm1ms011_it_039d17e4:
 
-    # sy "Okay, fair enough. Speaking of the company, Orbix right? You haven't told me much about the people there."
-    sy "Okay, fair enough. Speaking of the company, Orbix right? You haven't told me much about the people there."
+    # sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
+    sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:29
 translate french sm1ms011_it_40f46a63:
@@ -155,10 +155,10 @@ translate french sm1ms011_it_dbb29552:
     sy "Sure, but I'd bet my last pair of panties that someone stood out."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:113
-translate french sm1fs_i011_it_talk_ns_18515f7b:
+translate french sm1fs_i011_it_talk_ns_ac838888:
 
-    # mc "This girl Nari Song is pretty cute"
-    mc "This girl Nari Song is pretty cute"
+    # mc "This girl Nari Song is pretty cute."
+    mc "This girl Nari Song is pretty cute."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:116
 translate french sm1fs_i011_it_talk_ns_446f60a3:
@@ -329,16 +329,16 @@ translate french sm1fs_i011_it_talk_am_4208fc10:
     sy "What a bitch!"
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:212
-translate french sm1fs_i011_it_talk_am_0503cb58:
+translate french sm1fs_i011_it_talk_am_09c55492:
 
-    # mc "Maybe. If she's been pared with other people before that didn't work out, maybe she's tired to dealing with noobs."
-    mc "Maybe. If she's been pared with other people before that didn't work out, maybe she's tired to dealing with noobs."
+    # mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
+    mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:215
-translate french sm1fs_i011_it_talk_am_fd753b6a:
+translate french sm1fs_i011_it_talk_am_36deca91:
 
-    # sy "Hmmmph. That's no need to be rude to your or the new girl."
-    sy "Hmmmph. That's no need to be rude to your or the new girl."
+    # sy "Hmmmph. That's no excuse to be rude to you or the new girl."
+    sy "Hmmmph. That's no excuse to be rude to you or the new girl."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:218
 translate french sm1fs_i011_it_talk_am_6c3434eb:
@@ -383,10 +383,10 @@ translate french sm1ms011_it_continue_14c261e5:
     mc "Given she's my boss' boss, I figured it would be smart to stay clear of her."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:242
-translate french sm1ms011_it_continue_6fb9ec78:
+translate french sm1ms011_it_continue_36be2754:
 
-    # sy "No way. Big mistake, pal. Think about it. She could be the biggest close pervert of the mall."
-    sy "No way. Big mistake, pal. Think about it. She could be the biggest close pervert of the mall."
+    # sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
+    sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:243
 translate french sm1ms011_it_continue_00b812a7:
@@ -443,10 +443,10 @@ translate french sm1ms011_it_continue_ddaffa1b:
     mc "I'll see what I can do."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:277
-translate french sm1ms011_it_continue_fdc777bd:
+translate french sm1ms011_it_continue_d4b1ca4d:
 
-    # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it ouf the park."
-    sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it ouf the park."
+    # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
+    sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:280
 translate french sm1ms011_it_continue_6be1610b:

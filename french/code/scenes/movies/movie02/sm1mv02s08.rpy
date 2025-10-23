@@ -82,6 +82,12 @@ translate french sm1mv02s08_207a1d88:
     # sy "You did it."
     sy "You did it."
 
+# game/code/scenes/movies/movie02/sm1mv02s08.rpy:82
+translate french sm1mv02s08_b62a0a72:
+
+    # mc "Everyone on the {i}Intrepid{/i} played their part, Commander."
+    mc "Everyone on the {i}Intrepid{/i} played their part, Commander."
+
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:85
 translate french sm1mv02s08_9c689165:
 
@@ -856,6 +862,12 @@ translate french sm1mv02s08_mid_continue_1897ca26:
     # kv "Graaah!"
     kv "Graaah!"
 
+# game/code/scenes/movies/movie02/sm1mv02s08.rpy:647
+translate french sm1mv02s08_mid_continue_17625dad:
+
+    # mc "Lieutenant!"
+    mc "Lieutenant!"
+
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:650
 translate french sm1mv02s08_mid_continue_60e11c93:
 
@@ -1121,10 +1133,10 @@ translate french sm1mv02s08_end_talk_4033a8b2:
     mc "So that leaves us with one more scene to do."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:852
-translate french sm1mv02s08_end_talk_f9b4fdf6:
+translate french sm1mv02s08_end_talk_95319d56:
 
-    # mc "And lucky for us, its a naughty one."
-    mc "And lucky for us, its a naughty one."
+    # mc "And lucky for us, it's a naughty one."
+    mc "And lucky for us, it's a naughty one."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:855
 translate french sm1mv02s08_end_talk_85fc18b4:
@@ -1171,16 +1183,4 @@ translate french strings:
     # game/code/scenes/movies/movie02/sm1mv02s08.rpy:122
     old "Immediately"
     new "Immediately"
-
-# game/code/scenes/movies/movie02/sm1mv02s08.rpy:82
-translate french sm1mv02s08_b62a0a72:
-
-    # mc "Everyone on the {i}Intrepid{/i} played their part, Commander."
-    mc "Everyone on the {i}Intrepid{/i} played their part, Commander."
-
-# game/code/scenes/movies/movie02/sm1mv02s08.rpy:647
-translate french sm1mv02s08_mid_continue_17625dad:
-
-    # mc "Lieutenant!"
-    mc "Lieutenant!"
 

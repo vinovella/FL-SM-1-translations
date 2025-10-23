@@ -347,10 +347,10 @@ translate french sm1fs_i002_a90c2b05:
     mc "I'm sorry Ms. Watts."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:192
-translate french sm1fs_i002_a9811fae:
+translate french sm1fs_i002_bf4b8ddd:
 
-    # cw "It's fine, lets just try to keep it... Less personal than that. Continue on."
-    cw "It's fine, lets just try to keep it... Less personal than that. Continue on."
+    # cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
+    cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:198
 translate french sm1fs_i002_09f7e466:

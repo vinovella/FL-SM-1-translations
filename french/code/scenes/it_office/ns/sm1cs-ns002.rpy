@@ -811,8 +811,8 @@ translate french sm1cs_ns002_6ff41185:
 translate french strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
-    old "I don't need to know."
-    new "I don't need to know."
+    old "I don't need to know"
+    new "I don't need to know"
 
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "You can tell me what happened"

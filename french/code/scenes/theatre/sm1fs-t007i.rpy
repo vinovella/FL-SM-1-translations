@@ -88,6 +88,12 @@ translate french sm1fs_t007i_2d81aaad:
     # dvh "I did not say such. It is best to stay realistic, [mcname]."
     dvh "I did not say such. It is best to stay realistic, [mcname]."
 
+# game/code/scenes/theatre/sm1fs-t007i.rpy:44
+translate french sm1fs_t007i_0da36bf0:
+
+    # mc "Gotcha, Denise."
+    mc "Gotcha, Denise."
+
 # game/code/scenes/theatre/sm1fs-t007i.rpy:45
 translate french sm1fs_t007i_4b81e3b5:
 
@@ -99,10 +105,4 @@ translate french sm1fs_t007i_a49ed4f8:
 
     # mc "Okay."
     mc "Okay."
-
-# game/code/scenes/theatre/sm1fs-t007i.rpy:44
-translate french sm1fs_t007i_0da36bf0:
-
-    # mc "Gotcha, Denise."
-    mc "Gotcha, Denise."
 

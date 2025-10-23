@@ -65,10 +65,10 @@ translate french sm1cs_arj001_28b8befe:
     mc "So you do have it."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:43
-translate french sm1cs_arj001_205cb6c0:
+translate french sm1cs_arj001_5c2dddcf:
 
-    # arj "So what if I do? {i}No one{/i} should have the zip drive."
-    arj "So what if I do? {i}No one{/i} should have the zip drive."
+    # arj "So what if I do? {i}No one{/i} should have the flash drive."
+    arj "So what if I do? {i}No one{/i} should have the flash drive."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:46
 translate french sm1cs_arj001_cc9b4160:

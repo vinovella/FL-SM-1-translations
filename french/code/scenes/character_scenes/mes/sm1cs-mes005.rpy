@@ -358,589 +358,589 @@ translate french sm1cs_mes005_d1a3c0fe:
     # mc "Come on.{w} It will be fun."
     mc "Come on.{w} It will be fun."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:177
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:178
 translate french sm1cs_mes005_fdd311e2:
 
     # mc "Kanya?"
     mc "Kanya?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:180
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:181
 translate french sm1cs_mes005_b3c39196:
 
     # mes "Maybe she went home."
     mes "Maybe she went home."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:182
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:183
 translate french sm1cs_mes005_76429638:
 
     # mc "And didn't lock up? No way."
     mc "And didn't lock up? No way."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:195
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:196
 translate french sm1cs_mes005_cd60b427:
 
     # mc "Anything?"
     mc "Anything?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:197
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:198
 translate french sm1cs_mes005_bac456a8:
 
     # mes "Nope?"
     mes "Nope?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:204
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:205
 translate french sm1cs_mes005_1de6cf58:
 
     # mc "Ah. Found her."
     mc "Ah. Found her."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:208
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:209
 translate french sm1cs_mes005_8fc458e6:
 
     # mc "Hey Kanya-oh my god!"
     mc "Hey Kanya-oh my god!"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:212
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:213
 translate french sm1cs_mes005_cae9ffd6:
 
     # mc "Dah!"
     mc "Dah!"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:215
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:216
 translate french sm1cs_mes005_f77e0580:
 
     # mes "Woah!"
     mes "Woah!"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:218
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:219
 translate french sm1cs_mes005_6ed5c19b:
 
     # kv "Hahaha!"
     kv "Hahaha!"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:219
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:220
 translate french sm1cs_mes005_07523bcc:
 
     # kv "Oh the look on your face, [mcname]."
     kv "Oh the look on your face, [mcname]."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:224
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:225
 translate french sm1cs_mes005_038d3220:
 
     # mc "Jeez. You trying to give me a heart attack?"
     mc "Jeez. You trying to give me a heart attack?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:228
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:229
 translate french sm1cs_mes005_805e5794:
 
     # kv "Course not."
     kv "Course not."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:229
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:230
 translate french sm1cs_mes005_32c10f50:
 
     # kv "Just keeping you on your toes."
     kv "Just keeping you on your toes."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:235
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:236
 translate french sm1cs_mes005_b5cf54e6:
 
     # mc "Fun stuff, Kanya."
     mc "Fun stuff, Kanya."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:236
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:237
 translate french sm1cs_mes005_4d17943c:
 
     # mc "But you know I'm going to have to get you back."
     mc "But you know I'm going to have to get you back."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:240
-translate french sm1cs_mes005_d7a77946:
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:241
+translate french sm1cs_mes005_1276f4df:
 
-    # kv "Haha.{w}Looking forward to it, [mcname]."
-    kv "Haha.{w}Looking forward to it, [mcname]."
+    # kv "Haha.{w} Looking forward to it, [mcname]."
+    kv "Haha.{w} Looking forward to it, [mcname]."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:245
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:246
 translate french sm1cs_mes005_04f74f9a:
 
     # mc "Why do you even have a zebra mask out?"
     mc "Why do you even have a zebra mask out?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:248
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:249
 translate french sm1cs_mes005_80557770:
 
     # kv "Can't tell you."
     kv "Can't tell you."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:249
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:250
 translate french sm1cs_mes005_e0c3aab3:
 
     # kv "Photographer-client privilege."
     kv "Photographer-client privilege."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:252
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:253
 translate french sm1cs_mes005_79af8fca:
 
     # mc "Oh like you don't tell people about what 'we' do."
     mc "Oh like you don't tell people about what 'we' do."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:256
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:257
 translate french sm1cs_mes005_e056ca63:
 
     # kv "I never said that.{w} You know I like to make people blush."
     kv "I never said that.{w} You know I like to make people blush."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:257
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:258
 translate french sm1cs_mes005_5f97cddb:
 
     # kv "Reveal and play with their hidden desires gets me all tingly..."
     kv "Reveal and play with their hidden desires gets me all tingly..."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:260
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:261
 translate french sm1cs_mes005_f5197599:
 
     # kv "Speaking of clients. Who's your friend, [mcname]?"
     kv "Speaking of clients. Who's your friend, [mcname]?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:263
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:264
 translate french sm1cs_mes005_76e4f0b4:
 
     # mes "Hello.{w} I am Min Eun-Soo."
     mes "Hello.{w} I am Min Eun-Soo."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:266
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:267
 translate french sm1cs_mes005_4b78fb44:
 
     # mes "[mcname] is one of my best friends."
     mes "[mcname] is one of my best friends."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:269
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:270
 translate french sm1cs_mes005_1dcea84a:
 
     # kv "Great."
     kv "Great."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:270
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:271
 translate french sm1cs_mes005_87fd7419:
 
     # kv "Any friend of [mcname]'s is a friend of mine."
     kv "Any friend of [mcname]'s is a friend of mine."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:271
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:272
 translate french sm1cs_mes005_fe02c293:
 
     # kv "Kanya Vu. A pleasure."
     kv "Kanya Vu. A pleasure."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:277
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:278
 translate french sm1cs_mes005_4ced05f7:
 
     # kv "So.. uh... you know about..."
     kv "So.. uh... you know about..."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:278
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:279
 translate french sm1cs_mes005_b6052949:
 
     # kv "The stuff?"
     kv "The stuff?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:281
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:282
 translate french sm1cs_mes005_358b9630:
 
     # mc "Haha.{w} Yes, she knows about the studio."
     mc "Haha.{w} Yes, she knows about the studio."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:282
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:283
 translate french sm1cs_mes005_9242eed2:
 
     # mc "I wanted to bring Min around and show her what you do here so she could meet the number one camera girl in the city."
     mc "I wanted to bring Min around and show her what you do here so she could meet the number one camera girl in the city."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:285
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:286
 translate french sm1cs_mes005_2c0b481a:
 
     # kv "Oh phew."
     kv "Oh phew."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:286
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:287
 translate french sm1cs_mes005_239f4d4d:
 
     # kv "I was trying to figure out what my kink filter should be set to."
     kv "I was trying to figure out what my kink filter should be set to."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:289
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:290
 translate french sm1cs_mes005_f3f8c25f:
 
     # mes "*giggles* You can wave your flag freely, Kanya. No need to censor yourself on my account."
     mes "*giggles* You can wave your flag freely, Kanya. No need to censor yourself on my account."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:292
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:293
 translate french sm1cs_mes005_f56ec975:
 
     # kv "Thanks Min. And by the way, I'm probably the best camera girl in [mcname]'s mind because I'm the only one he knows."
     kv "Thanks Min. And by the way, I'm probably the best camera girl in [mcname]'s mind because I'm the only one he knows."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:296
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:297
 translate french sm1cs_mes005_8119ff39:
 
     # mes "Haha."
     mes "Haha."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:299
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:300
 translate french sm1cs_mes005_3a0ac2f8:
 
     # mc "Hey. There was no need to look elsewhere after I met you, Kanya."
     mc "Hey. There was no need to look elsewhere after I met you, Kanya."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:302
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:303
 translate french sm1cs_mes005_1912e03a:
 
     # kv "Mmm. Always the charmer."
     kv "Mmm. Always the charmer."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:305
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:306
 translate french sm1cs_mes005_541f6366:
 
     # kv "So, Min, you thinking of joining the crew?"
     kv "So, Min, you thinking of joining the crew?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:306
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:307
 translate french sm1cs_mes005_62570f5a:
 
     # kv "We're going to need all the sexy people we can get to make a porn studio to stand the test of time."
     kv "We're going to need all the sexy people we can get to make a porn studio to stand the test of time."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:309
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:310
 translate french sm1cs_mes005_7d189cd2:
 
     # mes "Oh... I don't think that's an option, unfortunately."
     mes "Oh... I don't think that's an option, unfortunately."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:312
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:313
 translate french sm1cs_mes005_4f44c6d9:
 
     # kv "What? That sucks."
     kv "What? That sucks."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:315
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:316
 translate french sm1cs_mes005_58167fd4:
 
     # mes "Yeah. I think... if things were different, it's something I'd enjoy trying."
     mes "Yeah. I think... if things were different, it's something I'd enjoy trying."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:316
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:317
 translate french sm1cs_mes005_1ed4f67d:
 
     # mes "But there is no way I could work at a porn studio."
     mes "But there is no way I could work at a porn studio."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:317
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:318
 translate french sm1cs_mes005_4339a8e0:
 
     # mes "It would just kill my parents."
     mes "It would just kill my parents."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:320
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:321
 translate french sm1cs_mes005_292a3ee7:
 
     # kv "I get that. But it's not like hiding [mcname]'s sausage is not the only job there is."
     kv "I get that. But it's not like hiding [mcname]'s sausage is not the only job there is."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:321
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:322
 translate french sm1cs_mes005_d6821b9e:
 
     # kv "I mean, I've done that, but ninety percent of the time, I'm doing the camera work or other behind-the-scenes stuff."
     kv "I mean, I've done that, but ninety percent of the time, I'm doing the camera work or other behind-the-scenes stuff."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:324
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:325
 translate french sm1cs_mes005_11aa3e1b:
 
     # mes "That's a good point."
     mes "That's a good point."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:325
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:326
 translate french sm1cs_mes005_808d1827:
 
     # mes "Show me around?"
     mes "Show me around?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:330
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:331
 translate french sm1cs_mes005_0370ca0a:
 
     # kv "Sure."
     kv "Sure."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:331
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:332
 translate french sm1cs_mes005_fdf5f05d:
 
     # kv "Got the lounge. Nice spot for everyone to relax or pre-game."
     kv "Got the lounge. Nice spot for everyone to relax or pre-game."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:332
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:333
 translate french sm1cs_mes005_74885a55:
 
     # kv "The owner wanted to make sure people can get mentally and physically ready for the show before stepping into the light."
     kv "The owner wanted to make sure people can get mentally and physically ready for the show before stepping into the light."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:335
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:336
 translate french sm1cs_mes005_d63111c6:
 
     # mes "Impressive. I imagine this kind of setup is pretty top of the line."
     mes "Impressive. I imagine this kind of setup is pretty top of the line."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:337
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:338
 translate french sm1cs_mes005_eafe9f2e:
 
     # kv "Oh yeah. The owner spared no expense, and it paid off."
     kv "Oh yeah. The owner spared no expense, and it paid off."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:340
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:341
 translate french sm1cs_mes005_dbf07a65:
 
     # kv "People love coming here."
     kv "People love coming here."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:344
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:345
 translate french sm1cs_mes005_1aefb40c:
 
     # kv "And of course, this is where the magic happens."
     kv "And of course, this is where the magic happens."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:346
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:347
 translate french sm1cs_mes005_4f8a50b8:
 
     # mes "Very nice."
     mes "Very nice."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:347
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:348
 translate french sm1cs_mes005_9da11db3:
 
     # mes "So have you done any scenes here?"
     mes "So have you done any scenes here?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:350
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:351
 translate french sm1cs_mes005_c19dbbd4:
 
     # mc "Not yet, but you never know what the future might hold."
     mc "Not yet, but you never know what the future might hold."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:354
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:355
 translate french sm1cs_mes005_373e66a8:
 
     # kv "We've already done a lot of work together at the dojo."
     kv "We've already done a lot of work together at the dojo."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:355
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:356
 translate french sm1cs_mes005_59381c77:
 
     # kv "As you can see."
     kv "As you can see."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:359
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:360
 translate french sm1cs_mes005_9da14e93:
 
     # mes "Oh wow."
     mes "Oh wow."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:368
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:369
 translate french sm1cs_mes005_caaac2d0:
 
     # mes "You really are a {b}naughty{/b} boy, aren't you."
     mes "You really are a {b}naughty{/b} boy, aren't you."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:371
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:372
 translate french sm1cs_mes005_576ca100:
 
     # mc "I think it's something to do with the lights around here."
     mc "I think it's something to do with the lights around here."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:372
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:373
 translate french sm1cs_mes005_4bb17c62:
 
     # mc "Makes me all horny."
     mc "Makes me all horny."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:376
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:377
 translate french sm1cs_mes005_095f3040:
 
     # "Min and Kanya" "*laughing*"
     "Min and Kanya" "*laughing*"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:377
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:378
 translate french sm1cs_mes005_b7b48394:
 
     # mes "You would have sex on the moon if you could."
     mes "You would have sex on the moon if you could."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:384
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:385
 translate french sm1cs_mes005_085ae411:
 
     # mes "Well it's certainly not the photo shack I was worried it would be."
     mes "Well it's certainly not the photo shack I was worried it would be."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:385
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:386
 translate french sm1cs_mes005_355650bf:
 
     # mes "Looks like you two really know what you're doing."
     mes "Looks like you two really know what you're doing."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:388
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:389
 translate french sm1cs_mes005_473f6d41:
 
     # mc "Yup."
     mc "Yup."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:392
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:393
 translate french sm1cs_mes005_e47b4767:
 
     # kv "I wouldn't be allowed in here if I didn't have the chops, Min."
     kv "I wouldn't be allowed in here if I didn't have the chops, Min."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:393
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:394
 translate french sm1cs_mes005_05442496:
 
     # kv "In fact... I think I know how to set all fears aside."
     kv "In fact... I think I know how to set all fears aside."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:394
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:395
 translate french sm1cs_mes005_6976826b:
 
     # kv "Why don't I take some snaps of you. On the house."
     kv "Why don't I take some snaps of you. On the house."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:397
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:398
 translate french sm1cs_mes005_81bda283:
 
     # mes "Oh, you don't have to do that, Kanya. I don't want to waste your time."
     mes "Oh, you don't have to do that, Kanya. I don't want to waste your time."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:400
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:401
 translate french sm1cs_mes005_eadaae7c:
 
     # kv "It's never a waste of time getting to photograph a beautiful woman."
     kv "It's never a waste of time getting to photograph a beautiful woman."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:401
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:402
 translate french sm1cs_mes005_0542ec99:
 
     # kv "And the only way I can keep my skills sharp is using what I know to capture the essence of new subjects."
     kv "And the only way I can keep my skills sharp is using what I know to capture the essence of new subjects."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:402
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:403
 translate french sm1cs_mes005_740b41c7:
 
     # kv "If you'll allow me."
     kv "If you'll allow me."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:405
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:406
 translate french sm1cs_mes005_10c6d7e3:
 
     # mes "Uh..."
     mes "Uh..."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:406
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:407
 translate french sm1cs_mes005_a45dda56:
 
     # mes "Sure. Why not?{w} It will be good for a laugh."
     mes "Sure. Why not?{w} It will be good for a laugh."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:411
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:412
 translate french sm1cs_mes005_c5b2692b:
 
     # kv "Follow me. We'll find something nice for you."
     kv "Follow me. We'll find something nice for you."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:414
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:415
 translate french sm1cs_mes005_5c1f233c:
 
     # mes "Lead the way."
     mes "Lead the way."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:419
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:420
 translate french sm1cs_mes005_c194968f:
 
     # mct "Heh. Seems like the old Min is back. She was always taking on whatever challenges came in front of her."
     mct "Heh. Seems like the old Min is back. She was always taking on whatever challenges came in front of her."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:420
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:421
 translate french sm1cs_mes005_0f2d8e92:
 
     # mct "I'm glad she's getting along so well with Kanya."
     mct "I'm glad she's getting along so well with Kanya."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:424
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:425
 translate french sm1cs_mes005_8e204029:
 
     # mct "That means they'd work well together if Min ever changes her mind about joining the team."
     mct "That means they'd work well together if Min ever changes her mind about joining the team."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:425
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:426
 translate french sm1cs_mes005_032c70a4:
 
     # mct "But even if that doesn't happen, it's all good.{w} I don't want to push Min into something she's not prepared for."
     mct "But even if that doesn't happen, it's all good.{w} I don't want to push Min into something she's not prepared for."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:430
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:431
 translate french sm1cs_mes005_ad7bfc2c:
 
     # mes "So...{w} How do I look?"
     mes "So...{w} How do I look?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:432
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:433
 translate french sm1cs_mes005_e1365cc9:
 
     # mc "Oh wow."
     mc "Oh wow."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:433
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:434
 translate french sm1cs_mes005_0d5df970:
 
     # mc "You look great, Min."
     mc "You look great, Min."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:435
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:436
 translate french sm1cs_mes005_439a444a:
 
     # mes "Haha. You have to say that, [mcname]."
     mes "Haha. You have to say that, [mcname]."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:438
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:439
 translate french sm1cs_mes005_28db3c43:
 
     # mc "No really. I wish we were going to a Fetish Locator party after this."
     mc "No really. I wish we were going to a Fetish Locator party after this."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:440
-translate french sm1cs_mes005_66d67cb2:
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:441
+translate french sm1cs_mes005_4a089a68:
 
-    # mes "Well, then you'll enjoy this ."
-    mes "Well, then you'll enjoy this ."
+    # mes "Well, then you'll enjoy this."
+    mes "Well, then you'll enjoy this."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:449
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:450
 translate french sm1cs_mes005_0905cec0:
 
     # kv "Already, let's keep things nice and loose."
     kv "Already, let's keep things nice and loose."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:452
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:453
 translate french sm1cs_mes005_a59da392:
 
     # kv "That's a good start."
     kv "That's a good start."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:455
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:456
 translate french sm1cs_mes005_54df6455:
 
     # kv "But try to drop your guard a little. Let the inner animal out."
     kv "But try to drop your guard a little. Let the inner animal out."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:458
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:459
 translate french sm1cs_mes005_b00c5cc6:
 
     # mes "That's uh..."
     mes "That's uh..."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:459
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:460
 translate french sm1cs_mes005_8e338342:
 
     # mes "I'll do my best."
@@ -1246,31 +1246,31 @@ translate french sm1cs_mes005_dadb5b86:
     # mes "Mmm."
     mes "Mmm."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:649
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:650
 translate french sm1cs_mes005_55b55d4f:
 
     # mes "I am sure you have more than enough assets for what you need."
     mes "I am sure you have more than enough assets for what you need."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:650
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:651
 translate french sm1cs_mes005_9f9f36d2:
 
     # mes "Good night, [mcname]."
     mes "Good night, [mcname]."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:654
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:655
 translate french sm1cs_mes005_1e3d0547:
 
     # mct "Damn. Sounds like she's pretty set on not joining the studio."
     mct "Damn. Sounds like she's pretty set on not joining the studio."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:655
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:656
 translate french sm1cs_mes005_2bee7801:
 
     # mct "But that's alright. It doesn't change things between us."
     mct "But that's alright. It doesn't change things between us."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:659
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:660
 translate french sm1cs_mes005_9435cfd0:
 
     # mct "That's the most important thing."
@@ -1278,15 +1278,15 @@ translate french sm1cs_mes005_9435cfd0:
 
 translate french strings:
 
-    # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:220
+    # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:221
     old "Trying to give me a heart attack?"
     new "Trying to give me a heart attack?"
 
-    # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:220
+    # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:221
     old "Oh, I'm going to have to get you for that..."
     new "Oh, I'm going to have to get you for that..."
 
-    # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:461
+    # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:462
     old "Support Min"
     new "Support Min"
 

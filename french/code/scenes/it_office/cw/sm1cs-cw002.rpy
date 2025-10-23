@@ -173,10 +173,10 @@ translate french sm1cs_cw002_490d7120:
     cw "Do you think you can handle that?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:99
-translate french sm1cs_cw002_7fd43340:
+translate french sm1cs_cw002_e0bf352d:
 
-    # mc "Of course. I won't let you down, Claire."
-    mc "Of course. I won't let you down, Claire."
+    # mc "Of course. I won't let you down, Ms. Watts."
+    mc "Of course. I won't let you down, Ms. Watts."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:100
 translate french sm1cs_cw002_19387a04:
@@ -235,10 +235,10 @@ translate french sm1cs_cw002_8f39dca1:
 translate french strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
-    old "I like it."
-    new "I like it."
+    old "I like it"
+    new "I like it"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
-    old "I don't like it."
-    new "I don't like it."
+    old "I don't like it"
+    new "I don't like it"
 

@@ -581,10 +581,6 @@ translate french strings:
     new "Do you know anyone hiring?"
 
     # game/code/scenes/theatre/sm1fs-t005.rpy:97
-    old "I'm sure you did your best, Denise."
-    new "I'm sure you did your best, Denise."
-
-    # game/code/scenes/theatre/sm1fs-t005.rpy:97
-    old "Say nothing."
-    new "Say nothing."
+    old "I'm sure you did your best, Denise"
+    new "I'm sure you did your best, Denise"
 

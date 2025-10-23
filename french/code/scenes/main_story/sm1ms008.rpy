@@ -215,10 +215,10 @@ translate french sm1ms008_77082a31:
     kv "I like their taste already."
 
 # game/code/scenes/main_story/sm1ms008.rpy:140
-translate french sm1ms008_dcea2b81:
+translate french sm1ms008_4b4bda9d:
 
-    # sy "Thre is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-    sy "Thre is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+    # sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+    sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
 
 # game/code/scenes/main_story/sm1ms008.rpy:144
 translate french sm1ms008_fe56a94c:
@@ -377,10 +377,10 @@ translate french sm1ms008_special_e32b4852:
     sy "So much wasted time."
 
 # game/code/scenes/main_story/sm1ms008.rpy:221
-translate french sm1ms008_special_5f718ef7:
+translate french sm1ms008_special_971cdae2:
 
-    # mc "Well, we're together now. that's the important part."
-    mc "Well, we're together now. that's the important part."
+    # mc "Well, we're together now. That's the important part."
+    mc "Well, we're together now. That's the important part."
 
 # game/code/scenes/main_story/sm1ms008.rpy:224
 translate french sm1ms008_special_5ee8dc16:
@@ -641,10 +641,10 @@ translate french sm1ms008_special_489e301c:
     mc "I just like you with your green hair."
 
 # game/code/scenes/main_story/sm1ms008.rpy:380
-translate french sm1ms008_after_choice_c3e521fc:
+translate french sm1ms008_after_choice_c7b2de42:
 
-    # kv "Already Stacy, why don't you give me some poses."
-    kv "Already Stacy, why don't you give me some poses."
+    # kv "Alright Stacy, why don't you give me some poses."
+    kv "Alright Stacy, why don't you give me some poses."
 
 # game/code/scenes/main_story/sm1ms008.rpy:383
 translate french sm1ms008_after_choice_5ae8e99b:
@@ -701,10 +701,10 @@ translate french sm1ms008_after_choice_ffa6d3bc:
     kv "I think the only thing left before we can start rehearsing and filming is getting our hands on the right camera."
 
 # game/code/scenes/main_story/sm1ms008.rpy:430
-translate french sm1ms008_after_choice_147423a9:
+translate french sm1ms008_after_choice_afa6b554:
 
-    # mc "Wait, don't you have any camera we would ever need, Kanya?"
-    mc "Wait, don't you have any camera we would ever need, Kanya?"
+    # mc "Wait, don't you have any cameras we might need, Kanya?"
+    mc "Wait, don't you have any cameras we might need, Kanya?"
 
 # game/code/scenes/main_story/sm1ms008.rpy:433
 translate french sm1ms008_after_choice_c97b9391:
@@ -767,10 +767,10 @@ translate french sm1ms008_after_choice_2cf940ef:
     kv "You two need to think of this as an investment in the studio's future."
 
 # game/code/scenes/main_story/sm1ms008.rpy:455
-translate french sm1ms008_after_choice_c425bbc9:
+translate french sm1ms008_after_choice_9090b1fc:
 
-    # sy "I'm thinking about the extra work you'll have to do to get this super camera."
-    sy "I'm thinking about the extra work you'll have to do to get this super camera."
+    # sy "I'm thinking about the extra work we'll have to do to get this super camera."
+    sy "I'm thinking about the extra work we'll have to do to get this super camera."
 
 # game/code/scenes/main_story/sm1ms008.rpy:458
 translate french sm1ms008_after_choice_3724bdef:
@@ -815,10 +815,10 @@ translate french sm1ms008_after_choice_25849749:
     kv "If you can't do something right, don't do it at all."
 
 # game/code/scenes/main_story/sm1ms008.rpy:482
-translate french sm1ms008_after_choice_2bb3b2af:
+translate french sm1ms008_after_choice_6805a231:
 
-    # sy "Haha. Good thing that's not, [mcname]'s motto."
-    sy "Haha. Good thing that's not, [mcname]'s motto."
+    # sy "Haha. Good thing that's not [mcname]'s motto."
+    sy "Haha. Good thing that's not [mcname]'s motto."
 
 # game/code/scenes/main_story/sm1ms008.rpy:485
 translate french sm1ms008_after_choice_669664cb:
@@ -851,10 +851,10 @@ translate french sm1ms008_after_choice_a69f28cf:
     sy "Once we have it, we'll give you a call to set up a time for filming."
 
 # game/code/scenes/main_story/sm1ms008.rpy:498
-translate french sm1ms008_after_choice_e40ff599:
+translate french sm1ms008_after_choice_43fefb83:
 
-    # kv "Got it, let me give you my number. In case you need to call me."
-    kv "Got it, let me give you my number. In case you need to call me."
+    # kv "Got it, let me give you my number."
+    kv "Got it, let me give you my number."
 
 # game/code/scenes/main_story/sm1ms008.rpy:502
 translate french sm1ms008_after_choice_531bfbf1:
@@ -917,12 +917,12 @@ translate french strings:
     new "At the Photo Dojo"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "You should stick with red hair."
-    new "You should stick with red hair."
+    old "You should stick with red hair"
+    new "You should stick with red hair"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "I think it will do nicely for the scene."
-    new "I think it will do nicely for the scene."
+    old "I think it will do nicely for the scene"
+    new "I think it will do nicely for the scene"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I'm glad it's temporary"

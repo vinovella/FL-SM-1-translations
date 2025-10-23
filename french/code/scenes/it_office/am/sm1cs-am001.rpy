@@ -275,16 +275,16 @@ translate french sm1cs_am001_6eebc0c7:
     ag "I'm prepared for that. Here is how tonight will go-"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:162
-translate french sm1cs_am001_cefce3d9:
+translate french sm1cs_am001_471546dd:
 
-    # mct "Someone sent me a text"
-    mct "Someone sent me a text"
+    # mct "Someone sent me a text."
+    mct "Someone sent me a text."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:165
-translate french sm1cs_am001_8014a26b:
+translate french sm1cs_am001_ce911891:
 
-    # ag "So Megan, I want you to setup our usual make a ticket framework. Once April sets up the foundation we'll plug it right in."
-    ag "So Megan, I want you to setup our usual make a ticket framework. Once April sets up the foundation we'll plug it right in."
+    # ag "So Megan, I want you to set up our usual 'make a ticket' framework. Once April sets up the foundation, we'll plug it right in."
+    ag "So Megan, I want you to set up our usual 'make a ticket' framework. Once April sets up the foundation, we'll plug it right in."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:168
 translate french sm1cs_am001_cf10242a:
@@ -419,10 +419,10 @@ translate french sm1cs_am001_c8f830d8:
     am "Bingo. The best way to show you're a good boss is to be lazy and pass off your work to skilled people."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:225
-translate french sm1cs_am001_bfa35138:
+translate french sm1cs_am001_a06ef68b:
 
-    # ag "It's called delegation. Now, since there is nothing else, let's get to work.."
-    ag "It's called delegation. Now, since there is nothing else, let's get to work.."
+    # ag "It's called delegation. Now, since there is nothing else, let's get to work."
+    ag "It's called delegation. Now, since there is nothing else, let's get to work."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:230
 translate french sm1cs_am001_fe43a970:
@@ -437,10 +437,10 @@ translate french sm1cs_am001_b3073727:
     mct "I don't think I'm going to get any answers about it tonight. Best to just focus on my work."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:237
-translate french sm1cs_am001_89f0e8f1:
+translate french sm1cs_am001_0dc444c9:
 
-    # mct "Crap. What is my work? I can't ask Anna. I definitely can't ask April. Data. data something."
-    mct "Crap. What is my work? I can't ask Anna. I definitely can't ask April. Data. data something."
+    # mct "Crap. What is my work? I can't ask Anna. I definitely can't ask April. Data. Data something."
+    mct "Crap. What is my work? I can't ask Anna. I definitely can't ask April. Data. Data something."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:239
 translate french sm1cs_am001_ca9c80ae:
@@ -545,10 +545,10 @@ translate french sm1cs_am001_after_coding_11455b53:
     mc "What?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:317
-translate french sm1cs_am001_after_coding_6542cc23:
+translate french sm1cs_am001_after_coding_874a62e0:
 
-    # am "Yes, there is a problem. Some Business 101 dropout just fucked my night."
-    am "Yes, there is a problem. Some Business 101 dropout just fucked my night."
+    # am "Yes, there is a problem!{w} Some Business 101 dropout just fucked my night."
+    am "Yes, there is a problem!{w} Some Business 101 dropout just fucked my night."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:318
 translate french sm1cs_am001_after_coding_b31059d4:
@@ -569,22 +569,22 @@ translate french sm1cs_am001_after_coding_faad3556:
     am "{i}You{/i}... were supposed to handle the convertor tools for the old data!"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:330
-translate french sm1cs_am001_after_coding_ad59f37c:
+translate french sm1cs_am001_after_coding_4cb4f376:
 
-    # mc "Oh. Really. I must have gotten em mixed up. Sorry. I'm sure that kind of things happens all the time."
-    mc "Oh. Really. I must have gotten em mixed up. Sorry. I'm sure that kind of things happens all the time."
+    # mc "Oh. Really. I must have gotten 'em mixed up.{w} Sorry. I'm sure that kind of thing happens all the time."
+    mc "Oh. Really. I must have gotten 'em mixed up.{w} Sorry. I'm sure that kind of thing happens all the time."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:333
-translate french sm1cs_am001_after_coding_5cde476c:
+translate french sm1cs_am001_after_coding_8c11687d:
 
-    # am "You dense motherfucker. This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
-    am "You dense motherfucker. This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
+    # am "You dense motherfucker.{w} This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
+    am "You dense motherfucker.{w} This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:336
-translate french sm1cs_am001_after_coding_dc84c055:
+translate french sm1cs_am001_after_coding_1486cb7f:
 
-    # am "The country. We don't make simple mistakes here. But we do pay for them."
-    am "The country. We don't make simple mistakes here. But we do pay for them."
+    # am "The country...{w} We don't make simple mistakes here. But we do pay for them."
+    am "The country...{w} We don't make simple mistakes here. But we do pay for them."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:342
 translate french sm1cs_am001_after_coding_c5c45e56:
@@ -605,10 +605,10 @@ translate french sm1cs_am001_after_coding_9289865a:
     mc "Okay. How do we fix this?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:353
-translate french sm1cs_am001_after_coding_1e29912c:
+translate french sm1cs_am001_after_coding_bfce7c00:
 
-    # am "You want to fix this?"
-    am "You want to fix this?"
+    # am "You want to {i}fix{/i} this?"
+    am "You want to {i}fix{/i} this?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:356
 translate french sm1cs_am001_after_coding_f800bed0_1:
@@ -617,10 +617,10 @@ translate french sm1cs_am001_after_coding_f800bed0_1:
     mc "Yes."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:359
-translate french sm1cs_am001_after_coding_4ca6be45:
+translate french sm1cs_am001_after_coding_b04d1e1f:
 
-    # am "Maybe go play in traffic. That might do it."
-    am "Maybe go play in traffic. That might do it."
+    # am "Maybe go play in traffic. That {b}might{/b} work."
+    am "Maybe go play in traffic. That {b}might{/b} work."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:362
 translate french sm1cs_am001_after_coding_54e92e7e:
@@ -629,10 +629,10 @@ translate french sm1cs_am001_after_coding_54e92e7e:
     mc "Hey, come on. That's not cool."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:365
-translate french sm1cs_am001_after_coding_32e8fed2:
+translate french sm1cs_am001_after_coding_0b58a2bb:
 
-    # am "You're right. You'd probably screw that up too."
-    am "You're right. You'd probably screw that up too."
+    # am "You're right.{w} You'd probably screw that up too."
+    am "You're right.{w} You'd probably screw that up too."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:368
 translate french sm1cs_am001_after_coding_24b25b0f:
@@ -647,10 +647,10 @@ translate french sm1cs_am001_after_coding_157700e7:
     mc "So what happens now?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:374
-translate french sm1cs_am001_after_coding_093f24d8:
+translate french sm1cs_am001_after_coding_1caa3f0b:
 
-    # am "I fix your fuckup. You're lucky I'm nearly done with my own workload."
-    am "I fix your fuckup. You're lucky I'm nearly done with my own workload."
+    # am "I fix your fuckup.{w} You're lucky I'm nearly done with my own workload."
+    am "I fix your fuckup.{w} You're lucky I'm nearly done with my own workload."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:375
 translate french sm1cs_am001_after_coding_d080924b:
@@ -671,10 +671,10 @@ translate french sm1cs_am001_after_coding_1df86a46:
     am "Did I stutter?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:384
-translate french sm1cs_am001_after_coding_821a55cb:
+translate french sm1cs_am001_after_coding_b93d5a6a:
 
-    # mc "Right. Desk, going."
-    mc "Right. Desk, going."
+    # mc "Right. Desk. Going."
+    mc "Right. Desk. Going."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:388
 translate french sm1cs_am001_after_coding_8cacade2:
@@ -707,10 +707,10 @@ translate french sm1cs_am001_later_d8b15c09:
     mc "*nervously* You too, Anna. I mean. Have a good night."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:416
-translate french sm1cs_am001_later_9aa40e36:
+translate french sm1cs_am001_later_781093dd:
 
-    # am "Smooth."
-    am "Smooth."
+    # am "Smooth..."
+    am "Smooth..."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:419
 translate french sm1cs_am001_later_01268eee:
@@ -749,10 +749,10 @@ translate french sm1cs_am001_later_a385c31a:
     am "Mrraah."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:442
-translate french sm1cs_am001_later_fa2f0659:
+translate french sm1cs_am001_later_4ad6c608:
 
-    # am "Huh? Now where did the idiot go?"
-    am "Huh? Now where did the idiot go?"
+    # am "Huh?{w} Now where did the idiot go?"
+    am "Huh?{w} Now where did the idiot go?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:446
 translate french sm1cs_am001_later_669664cb:
@@ -797,10 +797,10 @@ translate french sm1cs_am001_later_cf71effb:
     am "It's done."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:481
-translate french sm1cs_am001_later_3e05ca8f:
+translate french sm1cs_am001_later_1308190d:
 
-    # am "You got one thing right tonight."
-    am "You got one thing right tonight."
+    # am "You got {b}one{/b} thing right tonight."
+    am "You got {b}one{/b} thing right tonight."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:484
 translate french sm1cs_am001_later_a71d0e57:
@@ -809,16 +809,16 @@ translate french sm1cs_am001_later_a71d0e57:
     mc "Yup. And I... I should have said this earlier, but thanks for not telling Anna about my screwup."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:487
-translate french sm1cs_am001_later_5c3bb464:
+translate french sm1cs_am001_later_3f313c84:
 
-    # am "I was too busy to fink on you. Maybe next time."
-    am "I was too busy to fink on you. Maybe next time."
+    # am "I was too busy to fink on you.{w} Maybe next time."
+    am "I was too busy to fink on you.{w} Maybe next time."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:488
-translate french sm1cs_am001_later_683393c1:
+translate french sm1cs_am001_later_8efd7670:
 
-    # am "But don't count on me covering for you in the future, [mcname]"
-    am "But don't count on me covering for you in the future, [mcname]"
+    # am "But don't count on me covering for you in the future, [mcname]."
+    am "But don't count on me covering for you in the future, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:491
 translate french sm1cs_am001_later_42e6dd64:
@@ -827,58 +827,64 @@ translate french sm1cs_am001_later_42e6dd64:
     mc "I won't."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:494
-translate french sm1cs_am001_later_f3d3184d:
+translate french sm1cs_am001_later_157c0fbe:
 
-    # am "I'm dead serious. We have a job to do. Sometimes it's long hours, and that sucks."
-    am "I'm dead serious. We have a job to do. Sometimes it's long hours, and that sucks."
+    # am "I'm dead serious. We have a job to do, [mcname]."
+    am "I'm dead serious. We have a job to do, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:497
-translate french sm1cs_am001_later_26aa8427:
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:495
+translate french sm1cs_am001_later_31e538bb:
 
-    # am "But if you're here, and especially if you're working with me, I need your A game."
-    am "But if you're here, and especially if you're working with me, I need your A game."
+    # am "This isn't a class you can blow off.{w} Sometimes it's long hours, and sometimes it just plain sucks."
+    am "This isn't a class you can blow off.{w} Sometimes it's long hours, and sometimes it just plain sucks."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:498
-translate french sm1cs_am001_later_9da00458:
+translate french sm1cs_am001_later_4ef8886f:
 
-    # am "Got it?"
-    am "Got it?"
+    # am "But if you're here, and especially if you're working with {b}me{/b}, I need your A game."
+    am "But if you're here, and especially if you're working with {b}me{/b}, I need your A game."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:501
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:499
+translate french sm1cs_am001_later_f6001afc:
+
+    # am "Got it?!"
+    am "Got it?!"
+
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:502
 translate french sm1cs_am001_later_9590be1b:
 
     # mc "Loud and clear, April."
     mc "Loud and clear, April."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:511
-translate french sm1cs_am001_later_085c2d38:
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:512
+translate french sm1cs_am001_later_152d31ed:
 
-    # am "I just texted Anna the good news. Had to rub it in her face that we did it all in one night."
-    am "I just texted Anna the good news. Had to rub it in her face that we did it all in one night."
+    # am "I just texted Anna the good news.{w} Had to rub it in her face that we did it all in one night."
+    am "I just texted Anna the good news.{w} Had to rub it in her face that we did it all in one night."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:516
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:517
 translate french sm1cs_am001_later_ab7fbfff:
 
     # mc "I'm sure she loved that."
     mc "I'm sure she loved that."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:519
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:520
 translate french sm1cs_am001_later_3fd0169d:
 
     # am "Psssh. She won't read it. This late, she'll either be nose-down in a book or playing some strat game."
     am "Psssh. She won't read it. This late, she'll either be nose-down in a book or playing some strat game."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:523
-translate french sm1cs_am001_later_1bbf39bb:
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:524
+translate french sm1cs_am001_later_e045fc78:
 
-    # am "Night loser."
-    am "Night loser."
+    # am "Night, loser."
+    am "Night, loser."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:526
-translate french sm1cs_am001_later_6cba793b:
+# game/code/scenes/it_office/am/sm1cs-am001.rpy:527
+translate french sm1cs_am001_later_11997838:
 
-    # mc "Night April."
-    mc "Night April."
+    # mc "Night, April."
+    mc "Night, April."
 
 translate french strings:
 
@@ -899,8 +905,8 @@ translate french strings:
     new "I want to make sure it's correct"
 
     # game/code/scenes/it_office/am/sm1cs-am001.rpy:280
-    old "No, I just thought you could use a break."
-    new "No, I just thought you could use a break."
+    old "No, I just thought you could use a break"
+    new "No, I just thought you could use a break"
 
     # game/code/scenes/it_office/am/sm1cs-am001.rpy:326
     old "Simple mistake"

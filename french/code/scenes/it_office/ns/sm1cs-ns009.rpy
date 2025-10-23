@@ -388,943 +388,943 @@ translate french sm1cs_ns009_c9db3c56:
     # mct "Maybe if we fix up the studio, Nari could come stay there with Stacy and I."
     mct "Maybe if we fix up the studio, Nari could come stay there with Stacy and I."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:208
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:209
 translate french sm1cs_ns009_b9ed8119:
 
     # mc "Alright, so right now, there's nothing I can say to convince you not to stay here?"
     mc "Alright, so right now, there's nothing I can say to convince you not to stay here?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:211
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:212
 translate french sm1cs_ns009_ee6946e4:
 
     # ns "It's going to be fine, [mcname]. This is just temporary, I'm sure I'll find something more permanent soon."
     ns "It's going to be fine, [mcname]. This is just temporary, I'm sure I'll find something more permanent soon."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:212
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:213
 translate french sm1cs_ns009_12585609:
 
     # ns "I just wish that I could get more comfortable."
     ns "I just wish that I could get more comfortable."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:216
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:217
 translate french sm1cs_ns009_9c7bbdac:
 
     # ns "I've tried various different pillow configurations and I'm still having trouble having a good night's sleep."
     ns "I've tried various different pillow configurations and I'm still having trouble having a good night's sleep."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:220
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:221
 translate french sm1cs_ns009_9defb06e:
 
     # mc "Maybe there is one way I can help you tonight."
     mc "Maybe there is one way I can help you tonight."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:223
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:224
 translate french sm1cs_ns009_8f411162:
 
     # ns "Mmmm."
     ns "Mmmm."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:226
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:227
 translate french sm1cs_ns009_8bd64d9f:
 
     # mc "At least, let me help you relax."
     mc "At least, let me help you relax."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:229
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:230
 translate french sm1cs_ns009_432330bb:
 
     # ns "Ooouhhh. What did you have in mind, [mcname]?"
     ns "Ooouhhh. What did you have in mind, [mcname]?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:233
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:234
 translate french sm1cs_ns009_255e9436:
 
     # mc "I will put you to bed, my naughty girl."
     mc "I will put you to bed, my naughty girl."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:237
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:238
 translate french sm1cs_ns009_b0548b9e:
 
     # ns "I thought you promised Claire we wouldn't do anything at work."
     ns "I thought you promised Claire we wouldn't do anything at work."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:240
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:241
 translate french sm1cs_ns009_cc2fee35:
 
     # mc "I did. But what I meant was that we wouldn't do anything during work {i}hours{/i}."
     mc "I did. But what I meant was that we wouldn't do anything during work {i}hours{/i}."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:243
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:244
 translate french sm1cs_ns009_e48fcdf8:
 
     # ns "You are such a bad influence on me."
     ns "You are such a bad influence on me."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:246
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:247
 translate french sm1cs_ns009_f46b669d:
 
     # mc "*chuckles*"
     mc "*chuckles*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:250
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:251
 translate french sm1cs_ns009_1375a898:
 
     # mc "I'm sure a little stress relief from me, and you'll sleep like a baby."
     mc "I'm sure a little stress relief from me, and you'll sleep like a baby."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:253
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:254
 translate french sm1cs_ns009_1266cf3a:
 
     # ns "Hmmm. It {i}would{/i} be foolish of me to decline. I need a full night's sleep after all."
     ns "Hmmm. It {i}would{/i} be foolish of me to decline. I need a full night's sleep after all."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:254
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:255
 translate french sm1cs_ns009_c08376b2:
 
     # ns "I guess... It's worth a try."
     ns "I guess... It's worth a try."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:265
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:266
 translate french sm1cs_ns009_sex_2ab7b0d8:
 
     # ns "*soft moans*"
     ns "*soft moans*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:268
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:269
 translate french sm1cs_ns009_sex_bb0115a1:
 
     # mc "*softly* I can feel your warmth."
     mc "*softly* I can feel your warmth."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:270
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:271
 translate french sm1cs_ns009_sex_7549eacf:
 
     # ns "Yes... I... hehe."
     ns "Yes... I... hehe."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:275
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:276
 translate french sm1cs_ns009_sex_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:278
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:279
 translate french sm1cs_ns009_sex_b3de8200:
 
     # ns "I always feel warmer around you, [mcname]."
     ns "I always feel warmer around you, [mcname]."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:281
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:282
 translate french sm1cs_ns009_sex_f65538ab:
 
     # mct "Hmmm. Is she telling me she gets all worked up just sitting close to me at work too?"
     mct "Hmmm. Is she telling me she gets all worked up just sitting close to me at work too?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:288
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:289
 translate french sm1cs_ns009_sex_1c86fb73:
 
     # ns "*moans* [mcname]. You're touching me again."
     ns "*moans* [mcname]. You're touching me again."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:291
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:292
 translate french sm1cs_ns009_sex_6d0d159d:
 
     # mc "Yes. I'm going to find all the stress points on your body."
     mc "Yes. I'm going to find all the stress points on your body."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:292
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:293
 translate french sm1cs_ns009_sex_5a0e8689:
 
     # mc "And make all the stress go away."
     mc "And make all the stress go away."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:294
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:295
 translate french sm1cs_ns009_sex_dd26b23c:
 
     # ns "I *sighs* I like the sound of that. But you don't have to take care of me so much."
     ns "I *sighs* I like the sound of that. But you don't have to take care of me so much."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:297
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:298
 translate french sm1cs_ns009_sex_64918fdc:
 
     # mc "But I like doing it. You're so sweet and smart, Nari."
     mc "But I like doing it. You're so sweet and smart, Nari."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:298
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:299
 translate french sm1cs_ns009_sex_9123d4bb:
 
     # mc "I hate seeing you stressed out."
     mc "I hate seeing you stressed out."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:303
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:304
 translate french sm1cs_ns009_sex_86e201b8:
 
     # ns "Huhaa-ooouha... Then... please take care of me, [mcname]."
     ns "Huhaa-ooouha... Then... please take care of me, [mcname]."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:311
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:312
 translate french sm1cs_ns009_sex_1a1daa4b:
 
     # ns "Mmrrr-ahh... oohuaah..."
     ns "Mmrrr-ahh... oohuaah..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:314
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:315
 translate french sm1cs_ns009_sex_afb20599:
 
     # ns "[mcname] is touching my pussy."
     ns "[mcname] is touching my pussy."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:317
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:318
 translate french sm1cs_ns009_sex_779f9362:
 
     # ns "I'm glad you like them so much. I was worried they'd be too small for big American hands."
     ns "I'm glad you like them so much. I was worried they'd be too small for big American hands."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:320
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:321
 translate french sm1cs_ns009_sex_df6ea34e:
 
     # mc "They're perfect, Nari."
     mc "They're perfect, Nari."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:323
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:324
 translate french sm1cs_ns009_sex_4db3fc2f:
 
     # ns "Really?"
     ns "Really?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:324
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:325
 translate french sm1cs_ns009_sex_84d9991b:
 
     # mc "Yes..."
     mc "Yes..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:327
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:328
 translate french sm1cs_ns009_sex_eb1e9e47:
 
     # ns "*moans*"
     ns "*moans*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:328
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:329
 translate french sm1cs_ns009_sex_e5491366:
 
     # mc "Just like every part of you."
     mc "Just like every part of you."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:335
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:336
 translate french sm1cs_ns009_sex_78e070bc:
 
     # mc "Prepare yourself, Nari."
     mc "Prepare yourself, Nari."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:338
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:339
 translate french sm1cs_ns009_sex_e1755f46:
 
     # ns "*softly* [mcname]?"
     ns "*softly* [mcname]?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:341
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:342
 translate french sm1cs_ns009_sex_7e12825f:
 
     # mc "I'm told my lick attack can be quite the shock."
     mc "I'm told my lick attack can be quite the shock."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:344
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:345
 translate french sm1cs_ns009_sex_1a2c0820:
 
     # ns "Oh..."
     ns "Oh..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:345
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:346
 translate french sm1cs_ns009_sex_0b8d8198:
 
     # ns "I'm ready."
     ns "I'm ready."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:351
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:352
 translate french sm1cs_ns009_sex_f1a12f24:
 
     # ns "Ahhh-hha-uuha-hhaaah..."
     ns "Ahhh-hha-uuha-hhaaah..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:354
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:355
 translate french sm1cs_ns009_sex_1f028ee0:
 
     # mc "*lick lick*"
     mc "*lick lick*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:357
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:358
 translate french sm1cs_ns009_sex_74c85874:
 
     # ns "Oh my god, [mcname]. I never imagined seeing you down there..."
     ns "Oh my god, [mcname]. I never imagined seeing you down there..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:362
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:363
 translate french sm1cs_ns009_sex_61cbca74:
 
     # ns "Licking me-huaaah..."
     ns "Licking me-huaaah..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:367
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:368
 translate french sm1cs_ns009_sex_e9570e8b:
 
     # ns "*panting* [mcname]."
     ns "*panting* [mcname]."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:383
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:384
 translate french sm1cs_ns009_sex_menu_1a1daa4b:
 
     # ns "Mmrrr-ahh... oohuaah..."
     ns "Mmrrr-ahh... oohuaah..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:387
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:388
 translate french sm1cs_ns009_sex_menu_eb1e9e47:
 
     # ns "*moans*"
     ns "*moans*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:397
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:398
 translate french sm1cs_ns009_sex_menu_f1a12f24:
 
     # ns "Ahhh-hha-uuha-hhaaah..."
     ns "Ahhh-hha-uuha-hhaaah..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:402
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:403
 translate french sm1cs_ns009_sex_menu_e9570e8b:
 
     # ns "*panting* [mcname]."
     ns "*panting* [mcname]."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:415
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:416
 translate french sm1cs_ns009_sex_continue_0829cd02:
 
     # ns "[mcname]... Ahuaah-ffouhaah... Cu-cuahaah... I'm cumminng."
     ns "[mcname]... Ahuaah-ffouhaah... Cu-cuahaah... I'm cumminng."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:416
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:417
 translate french sm1cs_ns009_sex_continue_3beb8d67:
 
     # mct "Sweet fluffy lord of mine. Please let no one stop by the office late. There is no way to keep this cute little minx quiet."
     mct "Sweet fluffy lord of mine. Please let no one stop by the office late. There is no way to keep this cute little minx quiet."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:419
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:420
 translate french sm1cs_ns009_sex_continue_2a841c70:
 
     # ns "*moans* I think I'm still just a little stressed out."
     ns "*moans* I think I'm still just a little stressed out."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:420
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:421
 translate french sm1cs_ns009_sex_continue_b259de29:
 
     # ns "Would it be improper to ask... {w}to feel you inside me again?"
     ns "Would it be improper to ask... {w}to feel you inside me again?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:423
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:424
 translate french sm1cs_ns009_sex_continue_398c2519:
 
     # mct "Nari is so cute. I think she'd really let me dominate her."
     mct "Nari is so cute. I think she'd really let me dominate her."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:424
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:425
 translate french sm1cs_ns009_sex_continue_fce37f84:
 
     # mct "But she's almost too cute to be fucked hard."
     mct "But she's almost too cute to be fucked hard."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:425
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
 translate french sm1cs_ns009_sex_continue_f91dc4cf:
 
     # mct "What should I do?"
     mct "What should I do?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:431
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:432
 translate french sm1cs_ns009_sex_continue_6c8e5597:
 
     # mc "What makes you deserve my cock inside of you?"
     mc "What makes you deserve my cock inside of you?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:434
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:435
 translate french sm1cs_ns009_sex_continue_99297f78:
 
     # ns "Please, [mcname]. It felt so good when we had sex. I know I can make you feel good again."
     ns "Please, [mcname]. It felt so good when we had sex. I know I can make you feel good again."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:436
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:437
 translate french sm1cs_ns009_sex_continue_cd4477d0:
 
     # mc "We will see."
     mc "We will see."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:441
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:442
 translate french sm1cs_ns009_sex_continue_cb7a7d96:
 
     # mc "Of course we can have sex again, Nari."
     mc "Of course we can have sex again, Nari."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:442
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:443
 translate french sm1cs_ns009_sex_continue_7899c4dd:
 
     # mc "You're so cute for asking like that."
     mc "You're so cute for asking like that."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:445
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:446
 translate french sm1cs_ns009_sex_continue_b3e25a98:
 
     # ns "Thank you, [mcname]."
     ns "Thank you, [mcname]."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:451
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:452
 translate french sm1cs_ns009_sex_continue_9a4a9973:
 
     # mc "But first we're going to change things up."
     mc "But first we're going to change things up."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:454
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:455
 translate french sm1cs_ns009_sex_continue_4f061de9:
 
     # ns "Ooouhah."
     ns "Ooouhah."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:456
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:457
 translate french sm1cs_ns009_sex_continue_d559360c:
 
     # mc "Let's switch things up a bit."
     mc "Let's switch things up a bit."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:459
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:460
 translate french sm1cs_ns009_sex_continue_a3f0eaee:
 
     # ns "OK."
     ns "OK."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:467
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:468
 translate french sm1cs_ns009_sex_continue_17a117a6:
 
     # mc "Now you climb that cute, fuckable body on top of mine."
     mc "Now you climb that cute, fuckable body on top of mine."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:469
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:470
 translate french sm1cs_ns009_sex_continue_b93e4541:
 
     # ns "Yes..."
     ns "Yes..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:471
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:472
 translate french sm1cs_ns009_sex_continue_ca757cb1:
 
     # mc "Alright, why don't you get on top of me?"
     mc "Alright, why don't you get on top of me?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:473
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:474
 translate french sm1cs_ns009_sex_continue_ff3bf313:
 
     # ns "Sure. This looks fun."
     ns "Sure. This looks fun."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:478
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:479
 translate french sm1cs_ns009_sex_continue_6651ab87:
 
     # mc "Alright."
     mc "Alright."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:479
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:480
 translate french sm1cs_ns009_sex_continue_0f69f139:
 
     # mc "Now, {w}tell me exactly what you want."
     mc "Now, {w}tell me exactly what you want."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:482
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:483
 translate french sm1cs_ns009_sex_continue_f5362b17:
 
     # ns "I... *shivers* I want to ride [mcname]'s big cock."
     ns "I... *shivers* I want to ride [mcname]'s big cock."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:485
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:486
 translate french sm1cs_ns009_sex_continue_2876efd9:
 
     # mc "Why?"
     mc "Why?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:487
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:488
 translate french sm1cs_ns009_sex_continue_6cb61222:
 
     # ns "Because I can make you feel good."
     ns "Because I can make you feel good."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:488
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:489
 translate french sm1cs_ns009_sex_continue_2648a155:
 
     # mc "Sure, but there is something more. Something you're not telling me."
     mc "Sure, but there is something more. Something you're not telling me."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:491
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:492
 translate french sm1cs_ns009_sex_continue_ef1db095:
 
     # ns "Can't we just start?"
     ns "Can't we just start?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:494
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:495
 translate french sm1cs_ns009_sex_continue_1d531512:
 
     # mc "Not until you tell me the truth."
     mc "Not until you tell me the truth."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:498
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:499
 translate french sm1cs_ns009_sex_continue_caff7a71:
 
     # ns "Because I'm a horny naughty girl, and the best thing I can be is hole for [mcname]'s cock!"
     ns "Because I'm a horny naughty girl, and the best thing I can be is hole for [mcname]'s cock!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:501
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:502
 translate french sm1cs_ns009_sex_continue_b32a512b:
 
     # mct "Holy shit. I didn't expect her to talk so slutty."
     mct "Holy shit. I didn't expect her to talk so slutty."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:502
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:503
 translate french sm1cs_ns009_sex_continue_ebb5c1ec:
 
     # mct "I forgot just how perverted Nari already is."
     mct "I forgot just how perverted Nari already is."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:505
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:506
 translate french sm1cs_ns009_sex_continue_87e26eb2:
 
     # mc "Good girl."
     mc "Good girl."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:508
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:509
 translate french sm1cs_ns009_sex_continue_96a82e7a:
 
     # mc "Now put {i}it{/i} inside you."
     mc "Now put {i}it{/i} inside you."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:511
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:512
 translate french sm1cs_ns009_sex_continue_0145eaba:
 
     # mc "It's a great view too."
     mc "It's a great view too."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:513
-translate french sm1cs_ns009_sex_continue_d91949c4:
-
-    # ns "*giggles* Don't make feel {i}too{/i} embarassed, [mcname]."
-    ns "*giggles* Don't make feel {i}too{/i} embarassed, [mcname]."
-
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
+translate french sm1cs_ns009_sex_continue_78168329:
+
+    # ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
+    ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:515
 translate french sm1cs_ns009_sex_continue_b1abdbcc:
 
     # mc "I'll try my best."
     mc "I'll try my best."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:519
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:520
 translate french sm1cs_ns009_sex_continue_b93e4541_1:
 
     # ns "Yes..."
     ns "Yes..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:522
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:523
 translate french sm1cs_ns009_sex_continue_491a828b:
 
     # mc "What do we say?"
     mc "What do we say?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:525
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:526
 translate french sm1cs_ns009_sex_continue_b50f96e7:
 
     # ns "Thank you for your cock, [mcname]..."
     ns "Thank you for your cock, [mcname]..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:528
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:529
 translate french sm1cs_ns009_sex_continue_12b1a11e:
 
     # ns "Ooouh-hah."
     ns "Ooouh-hah."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:536
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:537
 translate french sm1cs_ns009_sex_continue_3cc5775e:
 
     # ns "Ooha-fuaaah."
     ns "Ooha-fuaaah."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:537
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:538
 translate french sm1cs_ns009_sex_continue_1c6ac1f0:
 
     # ns "I can barely fit you inside."
     ns "I can barely fit you inside."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:538
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:539
 translate french sm1cs_ns009_sex_continue_7d355ec4:
 
     # mc "I don't think that's true."
     mc "I don't think that's true."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:540
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:541
 translate french sm1cs_ns009_sex_continue_65e95ac0:
 
     # ns "Is this too much, [mcname]?"
     ns "Is this too much, [mcname]?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:541
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:542
 translate french sm1cs_ns009_sex_continue_b1ef9669:
 
     # ns "I know I'm pretty tight."
     ns "I know I'm pretty tight."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:542
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:543
 translate french sm1cs_ns009_sex_continue_b1d93512:
 
     # mc "You're doing great, Nari."
     mc "You're doing great, Nari."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:549
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:550
 translate french sm1cs_ns009_sex_continue_f0d802a2:
 
     # mc "Your body was made to be fucked."
     mc "Your body was made to be fucked."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:550
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:551
 translate french sm1cs_ns009_sex_continue_4db3fc2f:
 
     # ns "Really?"
     ns "Really?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:551
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:552
 translate french sm1cs_ns009_sex_continue_890bdd56:
 
     # mc "Yes. But only by me."
     mc "Yes. But only by me."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:552
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:553
 translate french sm1cs_ns009_sex_continue_670887a5:
 
     # ns "Yesuaaah!"
     ns "Yesuaaah!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:557
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:558
 translate french sm1cs_ns009_sex_continue_e011f773:
 
     # mc "You're always thinking about getting fucked by me, aren't you."
     mc "You're always thinking about getting fucked by me, aren't you."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:558
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:559
 translate french sm1cs_ns009_sex_continue_3810a6a4:
 
     # ns "Of course not. I... *moans* when I'm here, I'm focused on work."
     ns "Of course not. I... *moans* when I'm here, I'm focused on work."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:561
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:562
 translate french sm1cs_ns009_sex_continue_c97cec4e:
 
     # mc "Really, that's disappointing."
     mc "Really, that's disappointing."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:562
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:563
 translate french sm1cs_ns009_sex_continue_9170f474:
 
     # ns "B-but... I can try, [mcname]. I can think about you fucking me more."
     ns "B-but... I can try, [mcname]. I can think about you fucking me more."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:564
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:565
 translate french sm1cs_ns009_sex_continue_372276a5:
 
     # mc "You feel so good around my cock."
     mc "You feel so good around my cock."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:565
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:566
 translate french sm1cs_ns009_sex_continue_b3e25a98_1:
 
     # ns "Thank you, [mcname]."
     ns "Thank you, [mcname]."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:568
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:569
 translate french sm1cs_ns009_sex_continue_da1a57a4:
 
     # ns "*moaning* It makes me happy, knowing you like my body."
     ns "*moaning* It makes me happy, knowing you like my body."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:569
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:570
 translate french sm1cs_ns009_sex_continue_aa0b61b4:
 
     # mc "I like all of you, Nari."
     mc "I like all of you, Nari."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:573
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:574
 translate french sm1cs_ns009_sex_continue_cf46effe:
 
     # ns "Just please don't stop."
     ns "Just please don't stop."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:574
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:575
 translate french sm1cs_ns009_sex_continue_8f60f0d8:
 
     # ns "I need this. I love how you make me feel."
     ns "I need this. I love how you make me feel."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:575
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:576
 translate french sm1cs_ns009_sex_continue_3ad666f8:
 
     # ns "Warm *moans* safe *moans* happy."
     ns "Warm *moans* safe *moans* happy."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:578
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:579
 translate french sm1cs_ns009_sex_continue_208cc70b:
 
     # mc "Alright, we can keep doing this."
     mc "Alright, we can keep doing this."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:579
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:580
 translate french sm1cs_ns009_sex_continue_03138397:
 
     # mc "I don't think you'll disappoint me."
     mc "I don't think you'll disappoint me."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:580
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:581
 translate french sm1cs_ns009_sex_continue_12782b0f:
 
     # ns "Yes. I mean, I won't, [mcname]."
     ns "Yes. I mean, I won't, [mcname]."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:581
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:582
 translate french sm1cs_ns009_sex_continue_6ef0d94e:
 
     # ns "I enjoy making you happy!"
     ns "I enjoy making you happy!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:583
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:584
 translate french sm1cs_ns009_sex_continue_6e1c3a07:
 
     # ns "Oh!"
     ns "Oh!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:584
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:585
 translate french sm1cs_ns009_sex_continue_d5859887:
 
     # ns "Nuuhaah... I'm so glad-uhaah!"
     ns "Nuuhaah... I'm so glad-uhaah!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:593
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:594
 translate french sm1cs_ns009_sex_continue_d05ea38b:
 
     # mc "Get on your belly."
     mc "Get on your belly."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:596
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:597
 translate french sm1cs_ns009_sex_continue_57520f9b:
 
     # ns "*excited noise*"
     ns "*excited noise*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:598
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:599
 translate french sm1cs_ns009_sex_continue_4115bc62:
 
     # mc "Why don't you lay out on your stomach."
     mc "Why don't you lay out on your stomach."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:601
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:602
 translate french sm1cs_ns009_sex_continue_a3f0eaee_1:
 
     # ns "OK."
     ns "OK."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:605
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:606
 translate french sm1cs_ns009_sex_continue_26750413:
 
     # ns "Like this?"
     ns "Like this?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:609
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:610
 translate french sm1cs_ns009_sex_continue_85785fdb:
 
     # mc "Perfect."
     mc "Perfect."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:612
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:613
 translate french sm1cs_ns009_sex_continue_c3d5c825:
 
     # ns "Ooooh. I've seen this."
     ns "Ooooh. I've seen this."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:613
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:614
 translate french sm1cs_ns009_sex_continue_10f3d4c6:
 
     # ns "Please, [mcname]. Take me like a beast in nature."
     ns "Please, [mcname]. Take me like a beast in nature."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:622
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:623
 translate french sm1cs_ns009_sex_continue_b5793f6d:
 
     # ns "Mabsosa!!"
     ns "Mabsosa!!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:625
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:626
 translate french sm1cs_ns009_sex_continue_86bcc222:
 
     # mc "Is everything alright?"
     mc "Is everything alright?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:626
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:627
 translate french sm1cs_ns009_sex_continue_edf82a31:
 
     # ns "Yes. Mabsosa. Means... Oh my god! In Korean."
     ns "Yes. Mabsosa. Means... Oh my god! In Korean."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:629
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:630
 translate french sm1cs_ns009_sex_continue_1f5b224d:
 
     # mc "Hahaha."
     mc "Hahaha."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:632
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:633
 translate french sm1cs_ns009_sex_continue_82fc19b6:
 
     # ns "I should try to only talk in English."
     ns "I should try to only talk in English."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:635
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:636
 translate french sm1cs_ns009_sex_continue_1cd6f7d6:
 
     # ns "*moaning*"
     ns "*moaning*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:636
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:637
 translate french sm1cs_ns009_sex_continue_b816ce94:
 
     # mc "No. I think it's cute when you moan out in your native tongue."
     mc "No. I think it's cute when you moan out in your native tongue."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:637
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:638
 translate french sm1cs_ns009_sex_continue_a8d4d7d1:
 
     # mc "Feels like you get really excited."
     mc "Feels like you get really excited."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:640
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:641
 translate french sm1cs_ns009_sex_continue_1811686d:
 
     # ns "*moaning* Yes. You excite me, [mcname]."
     ns "*moaning* Yes. You excite me, [mcname]."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:641
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:642
 translate french sm1cs_ns009_sex_continue_1d44bb05:
 
     # ns "And your... nrraah... big cock is making me feel so good!"
     ns "And your... nrraah... big cock is making me feel so good!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:651
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:652
 translate french sm1cs_ns009_sex_menu_2_3cc5775e:
 
     # ns "Ooha-fuaaah."
     ns "Ooha-fuaaah."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:655
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:656
 translate french sm1cs_ns009_sex_menu_2_da1a57a4:
 
     # ns "*moaning* It makes me happy, knowing you like my body."
     ns "*moaning* It makes me happy, knowing you like my body."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:665
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:666
 translate french sm1cs_ns009_sex_menu_2_1cd6f7d6:
 
     # ns "*moaning*"
     ns "*moaning*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:668
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:669
 translate french sm1cs_ns009_sex_menu_2_1811686d:
 
     # ns "*moaning* Yes. You excite me, [mcname]."
     ns "*moaning* Yes. You excite me, [mcname]."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:680
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:681
 translate french sm1cs_ns009_sex_end_6eb290e7:
 
     # mc "Nari, I'm getting close."
     mc "Nari, I'm getting close."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:681
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:682
 translate french sm1cs_ns009_sex_end_98583cc4:
 
     # ns "Me too!"
     ns "Me too!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:683
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:684
 translate french sm1cs_ns009_sex_end_db366db6:
 
     # mc "I'm going to cum on your face."
     mc "I'm going to cum on your face."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:684
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:685
 translate french sm1cs_ns009_sex_end_e273fcc0:
 
     # mc "Make my naughty girl nice and sticky."
     mc "Make my naughty girl nice and sticky."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:687
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:688
 translate french sm1cs_ns009_sex_end_c1b5e7b0:
 
     # ns "YES!"
     ns "YES!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:689
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:690
 translate french sm1cs_ns009_sex_end_39fe6b83:
 
     # mc "Should I cum inside you?"
     mc "Should I cum inside you?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:690
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:691
 translate french sm1cs_ns009_sex_end_d7f753ec:
 
     # ns "No. Not this time."
     ns "No. Not this time."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:691
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:692
 translate french sm1cs_ns009_sex_end_be32470f:
 
     # ns "Can you... can you cum on my face?"
     ns "Can you... can you cum on my face?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:694
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:695
 translate french sm1cs_ns009_sex_end_f800bed0:
 
     # mc "Yes."
     mc "Yes."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:710
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:712
 translate french sm1cs_ns009_sex_end_404fd795:
 
     # mc "All set?"
     mc "All set?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:713
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:715
 translate french sm1cs_ns009_sex_end_e855b8b9:
 
     # ns "Yup. You have made me a bug that is snug."
     ns "Yup. You have made me a bug that is snug."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:714
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:716
 translate french sm1cs_ns009_sex_end_6ecc31f1:
 
     # ns "*sleepy* Wait, what was that you were saying about a supervillain in training?"
     ns "*sleepy* Wait, what was that you were saying about a supervillain in training?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:717
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:719
 translate french sm1cs_ns009_sex_end_e1a32017:
 
     # mc "Haha... That can wait. It's pretty late and I should get going."
     mc "Haha... That can wait. It's pretty late and I should get going."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:718
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:720
 translate french sm1cs_ns009_sex_end_4fec1aaa:
 
     # mc "But I promise you I'll tell you all about it one day."
     mc "But I promise you I'll tell you all about it one day."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:722
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:724
 translate french sm1cs_ns009_sex_end_9f3adf49:
 
     # ns "Mmmm. Okay..."
     ns "Mmmm. Okay..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:725
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:727
 translate french sm1cs_ns009_sex_end_f6a8e131:
 
     # mc "Good night, Nari."
@@ -1332,27 +1332,27 @@ translate french sm1cs_ns009_sex_end_f6a8e131:
 
 translate french strings:
 
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:376
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:377
     old "Finger Nari some more"
     new "Finger Nari some more"
 
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:376
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:377
     old "Eat out Nari"
     new "Eat out Nari"
 
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
-    old "Dominate Nari."
-    new "Dominate Nari."
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
+    old "Dominate Nari"
+    new "Dominate Nari"
 
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
-    old "Don't dominate Nari."
-    new "Don't dominate Nari."
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
+    old "Don't dominate Nari"
+    new "Don't dominate Nari"
 
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:647
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:648
     old "Let Nari ride you"
     new "Let Nari ride you"
 
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:647
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:648
     old "Pronebone Nari"
     new "Pronebone Nari"
 

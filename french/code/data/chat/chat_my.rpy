@@ -32,3 +32,23 @@
     old "See you soon!"
     new "See you soon!"
 
+    # game/code/data/chat/chat_my.rpy:53
+    old "Hey mom, I was wondering, would you want to get dinner together?"
+    new "Hey mom, I was wondering, would you want to get dinner together?"
+
+    # game/code/data/chat/chat_my.rpy:53
+    old "Hey Melony, I was wondering if you would want to get dinner together?"
+    new "Hey Melony, I was wondering if you would want to get dinner together?"
+
+    # game/code/data/chat/chat_my.rpy:53
+    old "That sounds wonderful, [mcname!i]! Where would you like to go?"
+    new "That sounds wonderful, [mcname!i]! Where would you like to go?"
+
+    # game/code/data/chat/chat_my.rpy:53
+    old "Put on something nice, I'll pick you up in an hour!"
+    new "Put on something nice, I'll pick you up in an hour!"
+
+    # game/code/data/chat/chat_my.rpy:53
+    old "Oooo, exciting. I'll see you in an hour!"
+    new "Oooo, exciting. I'll see you in an hour!"
+

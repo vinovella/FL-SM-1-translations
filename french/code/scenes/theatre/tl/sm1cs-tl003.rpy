@@ -340,301 +340,301 @@ translate french sm1cs_tl003_979dc6c6:
     # sy "Yep! Right behind you!"
     sy "Yep! Right behind you!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:200
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:201
 translate french sm1cs_tl003_in_street_2e0ae530:
 
     # tl "Okay, follow me."
     tl "Okay, follow me."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:203
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:204
 translate french sm1cs_tl003_in_street_9d32f660:
 
     # mc "What is this place?"
     mc "What is this place?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:205
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:206
 translate french sm1cs_tl003_in_street_4ad124f4:
 
     # tl "Just the warehouse district."
     tl "Just the warehouse district."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:207
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:208
 translate french sm1cs_tl003_in_street_ea6df87b:
 
     # sy "Why is there a cop parked here?"
     sy "Why is there a cop parked here?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:210
-translate french sm1cs_tl003_in_street_665d1eb6:
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:211
+translate french sm1cs_tl003_in_street_76592468:
 
-    # tl "Awhile back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
-    tl "Awhile back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
+    # tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
+    tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:213
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:214
 translate french sm1cs_tl003_in_street_d3ec48b3:
 
     # mc "What the hell?"
     mc "What the hell?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:215
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:216
 translate french sm1cs_tl003_in_street_418afba7:
 
     # tl "No idea. It was crazy. But we don't have to worry about him. He's always passed out in his car."
     tl "No idea. It was crazy. But we don't have to worry about him. He's always passed out in his car."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:218
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:219
 translate french sm1cs_tl003_in_street_69379607:
 
     # sy "You sure?"
     sy "You sure?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:220
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:221
 translate french sm1cs_tl003_in_street_83e87c49:
 
     # tl "Positive."
     tl "Positive."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:224
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:225
 translate french sm1cs_tl003_in_street_ec5bf8d4:
 
     # sy "Like, how positive?"
     sy "Like, how positive?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:226
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:227
 translate french sm1cs_tl003_in_street_5240e815:
 
     # tl "Ninety percent?"
     tl "Ninety percent?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:227
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:228
 translate french sm1cs_tl003_in_street_892cf4f5:
 
     # sy "Errrrrm."
     sy "Errrrrm."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:230
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:231
 translate french sm1cs_tl003_in_street_152d6612:
 
     # mc "What's wrong, Stacy?"
     mc "What's wrong, Stacy?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:232
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:233
 translate french sm1cs_tl003_in_street_ab68f7e9:
 
     # sy "I don't know. I just keep seeing you in orange. {w}And orange is {i}definitely{/i} not your color."
     sy "I don't know. I just keep seeing you in orange. {w}And orange is {i}definitely{/i} not your color."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:236
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:237
 translate french sm1cs_tl003_in_street_d82b14fd:
 
     # mc "You see just me in orange? What, you two somehow escape getting arrested?"
     mc "You see just me in orange? What, you two somehow escape getting arrested?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:239
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:240
 translate french sm1cs_tl003_in_street_a40223bd:
 
     # sy "Uh huh. Because you heroically sacrifice yourself so we can get away."
     sy "Uh huh. Because you heroically sacrifice yourself so we can get away."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:241
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:242
 translate french sm1cs_tl003_in_street_faaf7d52:
 
     # mc "Oh, brother..."
     mc "Oh, brother..."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:244
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:245
 translate french sm1cs_tl003_in_street_b835b0c0:
 
     # sy "No, I'm sister. You're brother."
     sy "No, I'm sister. You're brother."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:246
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:247
 translate french sm1cs_tl003_in_street_e1b278dd:
 
     # sy "I don't think I have the right plumbing to be your brother."
     sy "I don't think I have the right plumbing to be your brother."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:249
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:250
 translate french sm1cs_tl003_in_street_f56d9a15:
 
     # tl "Phew, I'm glad he still parks it here."
     tl "Phew, I'm glad he still parks it here."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:252
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:253
 translate french sm1cs_tl003_in_street_77e6f3db:
 
     # mc "Who parks it here?"
     mc "Who parks it here?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:255
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:256
 translate french sm1cs_tl003_in_street_6720c8d0:
 
     # tl "I'll tell you later. But..."
     tl "I'll tell you later. But..."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:267
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:268
 translate french sm1cs_tl003_in_street_65534fec:
 
     # mc "Holy shit."
     mc "Holy shit."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:270
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:271
 translate french sm1cs_tl003_in_street_533792e8:
 
     # tl "Sexy, right?"
     tl "Sexy, right?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:272
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:273
 translate french sm1cs_tl003_in_street_8852e77f:
 
     # mc "Uh huh."
     mc "Uh huh."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:275
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:276
 translate french sm1cs_tl003_in_street_9198da0f:
 
     # tl "Sexier than that hoopty outside the bar."
     tl "Sexier than that hoopty outside the bar."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:278
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:279
 translate french sm1cs_tl003_in_street_265b8fa7:
 
     # sy "...You're not wrong.{w} But do you have the key for the car?"
     sy "...You're not wrong.{w} But do you have the key for the car?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:280
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:281
 translate french sm1cs_tl003_in_street_aeaccb28:
 
     # tl "Nope."
     tl "Nope."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:282
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:283
 translate french sm1cs_tl003_in_street_d66202e9:
 
     # tl "Don't need it, though."
     tl "Don't need it, though."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:286
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:287
 translate french sm1cs_tl003_in_street_14a7d307:
 
     # tl "Tada."
     tl "Tada."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:289
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:290
 translate french sm1cs_tl003_in_street_273fa2d0:
 
     # mc "Woah."
     mc "Woah."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:291
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:292
 translate french sm1cs_tl003_in_street_26549aa9:
 
     # sy "I have so many questions for you."
     sy "I have so many questions for you."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:294
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:295
 translate french sm1cs_tl003_in_street_ff23c1ed:
 
     # tl "I can answer them after we fuck. Speaking of, shall we get to it?"
     tl "I can answer them after we fuck. Speaking of, shall we get to it?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:297
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:298
 translate french sm1cs_tl003_in_street_d55ae269:
 
     # mc "Yep!"
     mc "Yep!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:298
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:299
 translate french sm1cs_tl003_in_street_86cafbdf:
 
     # tl "Pass me my outfit."
     tl "Pass me my outfit."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:305
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:306
 translate french sm1cs_tl003_in_street_6da68be7:
 
     # tl "Outfit?"
     tl "Outfit?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:309
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:310
 translate french sm1cs_tl003_in_street_bb6b4df2:
 
     # mc "Oh, yeah, uhhh, here you go."
     mc "Oh, yeah, uhhh, here you go."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:312
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:313
 translate french sm1cs_tl003_in_street_f802a73e:
 
     # sy "Awwww..."
     sy "Awwww..."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:314
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:315
 translate french sm1cs_tl003_in_street_c6bb6406:
 
     # mc "Don't worry, you'll have plenty of time to look at Taisia naked tonight."
     mc "Don't worry, you'll have plenty of time to look at Taisia naked tonight."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:315
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:316
 translate french sm1cs_tl003_in_street_1a7b73a1:
 
     # sy "I knooooow."
     sy "I knooooow."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:318
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:319
 translate french sm1cs_tl003_in_street_5252f3ba:
 
     # mc "Speaking of, you got the camera ready?"
     mc "Speaking of, you got the camera ready?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:320
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:321
 translate french sm1cs_tl003_in_street_0f9e5ba9:
 
     # sy "Yep, charged it up before we left too."
     sy "Yep, charged it up before we left too."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:324
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:325
 translate french sm1cs_tl003_in_street_3057a994:
 
     # mc "Why aren't we using the new fancy camera?"
     mc "Why aren't we using the new fancy camera?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:326
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:327
 translate french sm1cs_tl003_in_street_40918082:
 
     # sy "Kanya was busy tonight."
     sy "Kanya was busy tonight."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:327
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:328
 translate french sm1cs_tl003_in_street_2ece93b8:
 
     # sy "{size=*0.6}Plus, I want to watch this one up close.{/size}"
     sy "{size=*0.6}Plus, I want to watch this one up close.{/size}"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:331
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:332
 translate french sm1cs_tl003_in_street_3472af5c:
 
     # tl "I'm ready."
     tl "I'm ready."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:334
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:335
 translate french sm1cs_tl003_in_street_04f2ed6a:
 
     # mc "Hell yeah. Uhm, did you read the lines on the way over?"
     mc "Hell yeah. Uhm, did you read the lines on the way over?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:336
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:337
 translate french sm1cs_tl003_in_street_5ce8338e:
 
     # tl "Uh huh, I got it figured out. I am an actress after all."
     tl "Uh huh, I got it figured out. I am an actress after all."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:339
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:340
 translate french sm1cs_tl003_in_street_e1104c7e:
 
     # mc "Great. Stacy, whenever you're ready let us know."
     mc "Great. Stacy, whenever you're ready let us know."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:341
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:342
 translate french sm1cs_tl003_in_street_999086e7:
 
     # sy "All right... Camera set, aaaaaaand action!"
@@ -1307,10 +1307,10 @@ translate french sm1cs_tl003_sex_end_972dc55f:
     mc "Oh no, oh no - I'm too handsome to go to jail!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:698
-translate french sm1cs_tl003_sex_end_3574fcd3:
+translate french sm1cs_tl003_sex_end_b82ee33e:
 
-    # tl "Shut it, [mcname]. Noone is going to jail today. Just be quiet, and follow me!"
-    tl "Shut it, [mcname]. Noone is going to jail today. Just be quiet, and follow me!"
+    # tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
+    tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:749
 translate french sm1cs_tl003_sex_end_2aba6cf1:
@@ -1360,55 +1360,55 @@ translate french sm1cs_tl003_sex_end_209631b2:
     # mc "And... Here you go!"
     mc "And... Here you go!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:778
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:779
 translate french sm1cs_tl003_sex_end_a6f1213e:
 
     # tl "Man... This was a lot of fun."
     tl "Man... This was a lot of fun."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:780
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:781
 translate french sm1cs_tl003_sex_end_fcf340b6:
 
     # mc "I agree."
     mc "I agree."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:782
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:783
 translate french sm1cs_tl003_sex_end_10b8073b:
 
     # sy "Me too!"
     sy "Me too!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:783
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:784
 translate french sm1cs_tl003_sex_end_b4565abe:
 
     # tl "We should definitely do it again, right?"
     tl "We should definitely do it again, right?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:784
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:785
 translate french sm1cs_tl003_sex_end_ac2bf2bb:
 
     # sy "Absolutely. Next time I'll ask you about a car before I call everyone I know."
     sy "Absolutely. Next time I'll ask you about a car before I call everyone I know."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:788
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:789
 translate french sm1cs_tl003_sex_end_c4b98384:
 
     # tl "Well, I'm going to take off. I can feel [mcname]'s cum getting sticky on my leg."
     tl "Well, I'm going to take off. I can feel [mcname]'s cum getting sticky on my leg."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:790
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:791
 translate french sm1cs_tl003_sex_end_8d3bf09b:
 
     # mc "We'll let you know when we release the video!"
     mc "We'll let you know when we release the video!"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:792
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:793
 translate french sm1cs_tl003_sex_end_11f99e7f:
 
     # tl "Awesome! I'll see you two later."
     tl "Awesome! I'll see you two later."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:794
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:795
 translate french sm1cs_tl003_sex_end_1ed8f75c:
 
     # sy "See ya', Taisia!"

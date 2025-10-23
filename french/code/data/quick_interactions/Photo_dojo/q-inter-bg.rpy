@@ -41,10 +41,10 @@ translate french q_inter_bg_3_236d9bf8:
     bg "Oh, nothing. I just enjoy the feeling of latex."
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy:45
-translate french q_inter_bg_4_acd89230:
+translate french q_inter_bg_4_55061da7:
 
-    # mc "How long can you wear that oufit for?"
-    mc "How long can you wear that oufit for?"
+    # mc "How long can you wear that outfit for?"
+    mc "How long can you wear that outfit for?"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy:47
 translate french q_inter_bg_4_8c74c33b:

@@ -81,8 +81,8 @@
     new "Denise's story"
 
     # game/code/data/quests/line_list_quests.rpy:5
-    old "Kelly's story"
-    new "Kelly's story"
+    old "Kellie's story"
+    new "Kellie's story"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Taisia's story"
@@ -95,8 +95,4 @@
     # game/code/data/quests/line_list_quests.rpy:5
     old "Pirates movie"
     new "Pirates movie"
-
-    # game/code/data/quests/line_list_quests.rpy:5
-    old "Sci-Fi movie"
-    new "Sci-Fi movie"
 

@@ -955,12 +955,12 @@ translate french sm1cs_vs002_one_hour_later_305d0baf:
 translate french strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:85
-    old "Rina worked hard for a while."
-    new "Rina worked hard for a while."
+    old "Rina worked hard for a while"
+    new "Rina worked hard for a while"
 
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:85
-    old "Ivana has more talents than just acting."
-    new "Ivana has more talents than just acting."
+    old "Ivana has more talents than just acting"
+    new "Ivana has more talents than just acting"
 
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:144
     old "Reach for the stars, Veronica"

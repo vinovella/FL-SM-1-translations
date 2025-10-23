@@ -113,16 +113,16 @@ translate french q_inter_ms_9_6152061b:
     mc "I never see you make deliveries."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:128
-translate french q_inter_ms_9_18a60a3f:
+translate french q_inter_ms_9_4e19df90:
 
-    # ms "Didn't anyone tell you? I''m a brat-slinging ninja, [mcname]."
-    ms "Didn't anyone tell you? I''m a brat-slinging ninja, [mcname]."
+    # ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
+    ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:129
-translate french q_inter_ms_9_244271c2:
+translate french q_inter_ms_9_16556a01:
 
-    # ms "Swwwssh. See? while you blinked, I deliviered five combo packs."
-    ms "Swwwssh. See? while you blinked, I deliviered five combo packs."
+    # ms "Swwwssh. See? while you blinked, I delivered five combo packs."
+    ms "Swwwssh. See? while you blinked, I delivered five combo packs."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:131
 translate french q_inter_ms_9_081b75b3:
@@ -167,10 +167,10 @@ translate french q_inter_ms_13_1b9ab683:
     ms "Lucky you."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:160
-translate french q_inter_ms_14_0115379c:
+translate french q_inter_ms_14_0ab32883:
 
-    # ms "At least they can't automated bratwurst makers yet."
-    ms "At least they can't automated bratwurst makers yet."
+    # ms "At least they can't automate bratwurst makers yet."
+    ms "At least they can't automate bratwurst makers yet."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:161
 translate french q_inter_ms_14_689e43ea:
@@ -551,10 +551,10 @@ translate french q_inter_ms_34_6951d752:
     ms "That's what our parents told us anyhow."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:373
-translate french q_inter_ms_35_f687201e:
+translate french q_inter_ms_35_59b4bc48:
 
-    # ms "Here's is to the day we can both just sleep in and not rush out to get grinded down to pebbles."
-    ms "Here's is to the day we can both just sleep in and not rush out to get grinded down to pebbles."
+    # ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
+    ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:375
 translate french q_inter_ms_35_b51867ec:
@@ -677,10 +677,10 @@ translate french q_inter_ms_40_8d7ba692:
     mc "Any luck with your job hunt?"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:440
-translate french q_inter_ms_40_ec333083:
+translate french q_inter_ms_40_14e02518:
 
-    # ms "Shhhh. You want the whole place to here?"
-    ms "Shhhh. You want the whole place to here?"
+    # ms "Shhhh. You want the whole place to hear?"
+    ms "Shhhh. You want the whole place to hear?"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:441
 translate french q_inter_ms_40_dc0ff26a:
@@ -839,14 +839,14 @@ translate french q_inter_ms_45_62351857:
     ms "Don't you wish all your problems could be ground up and packaged for profit."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:528
-translate french q_inter_ms_45_b4522c97:
+translate french q_inter_ms_45_fad7a7ce:
 
-    # mc "I'm sure a lot of billionares start the same way."
-    mc "I'm sure a lot of billionares start the same way."
+    # mc "I'm sure a lot of billionaires start the same way."
+    mc "I'm sure a lot of billionaires start the same way."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:529
-translate french q_inter_ms_45_a957599b:
+translate french q_inter_ms_45_678c5fed:
 
-    # ms "Maybe I'm on my first step to becomming one."
-    ms "Maybe I'm on my first step to becomming one."
+    # ms "Maybe I'm on my first step to becoming one."
+    ms "Maybe I'm on my first step to becoming one."
 

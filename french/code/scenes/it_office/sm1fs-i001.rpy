@@ -59,10 +59,10 @@ translate french sm1fs_i001_525776d2:
     ag "We're looking to hire some new people to help out, real self-starters and go-getters."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:50
-translate french sm1fs_i001_eaa649bb:
+translate french sm1fs_i001_af917135:
 
-    # ag "Please have a sit."
-    ag "Please have a sit."
+    # ag "Please have a seat."
+    ag "Please have a seat."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:54
 translate french sm1fs_i001_f1001075:
@@ -149,10 +149,10 @@ translate french sm1fs_i001_0d793d39:
     ag "Sorry, one second."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:93
-translate french sm1fs_i001_f74f881e:
+translate french sm1fs_i001_73236aa5:
 
-    # ag "Hi, What can I help you with, April?"
-    ag "Hi, What can I help you with, April?"
+    # ag "Hi, what can I help you with, April?"
+    ag "Hi, what can I help you with, April?"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:95
 translate french sm1fs_i001_47c47bec:
@@ -317,10 +317,10 @@ translate french sm1fs_i001_b6c91f38:
     ag "What games are you playing right now?"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:178
-translate french sm1fs_i001_371777db:
+translate french sm1fs_i001_fd7e7967:
 
-    # mc "Uhhhh, mostly FPS games. Every once in awhile I'll pull up-"
-    mc "Uhhhh, mostly FPS games. Every once in awhile I'll pull up-"
+    # mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
+    mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:181
 translate french sm1fs_i001_0133cbf7:
@@ -465,6 +465,12 @@ translate french sm1fs_i001_got_hired_bae0747f:
 
     # ag "She's in meetings for the rest of the day. But..."
     ag "She's in meetings for the rest of the day. But..."
+
+# game/code/scenes/it_office/sm1fs-i001.rpy:336
+translate french sm1fs_i001_got_hired_e9780151:
+
+    # ag "If you come tomorrow, [gt.next_day!t] at 8:00 am you should be able to meet with her."
+    ag "If you come tomorrow, [gt.next_day!t] at 8:00 am you should be able to meet with her."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:339
 translate french sm1fs_i001_got_hired_c90d928c:

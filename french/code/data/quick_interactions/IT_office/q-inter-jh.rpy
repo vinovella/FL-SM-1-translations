@@ -125,8 +125,8 @@ translate french q_inter_jh_5_11809067:
     mc "Which ones?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:71
-translate french q_inter_jh_5_0b36c9e9:
+translate french q_inter_jh_5_527d1655:
 
-    # jh "A Castle of Thistle and Orchids. Anna turned me on to them."
-    jh "A Castle of Thistle and Orchids. Anna turned me on to them."
+    # jh "A Castle of Thistles and Orchids. Anna turned me on to them."
+    jh "A Castle of Thistles and Orchids. Anna turned me on to them."
 

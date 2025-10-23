@@ -71,10 +71,10 @@ translate french q_inter_nr_7_2fd44bbc:
     nr "Always loved a good brat. The heat, the taste. Does miracles for your mood."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:80
-translate french q_inter_nr_8_212d12e1:
+translate french q_inter_nr_8_7ef23e41:
 
-    # nr "*sniffs* Mmm. Yup, needs a bit more dil before it's ready."
-    nr "*sniffs* Mmm. Yup, needs a bit more dil before it's ready."
+    # nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
+    nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:86
 translate french q_inter_nr_9_a84c87ac:

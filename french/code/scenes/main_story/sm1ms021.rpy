@@ -113,10 +113,10 @@ translate french sm1ms021_7129dea6:
     mc "Nice."
 
 # game/code/scenes/main_story/sm1ms021.rpy:69
-translate french sm1ms021_e9a1395f:
+translate french sm1ms021_f93fec35:
 
-    # mc "You're talking about me, dick, right?"
-    mc "You're talking about me, dick, right?"
+    # mc "You're talking about my dick, right?"
+    mc "You're talking about my dick, right?"
 
 # game/code/scenes/main_story/sm1ms021.rpy:73
 translate french sm1ms021_033974e5:
@@ -185,10 +185,10 @@ translate french sm1ms021_03d3460b:
     sy "Same here. I mean, you’re the one who kept me sane through all of this."
 
 # game/code/scenes/main_story/sm1ms021.rpy:112
-translate french sm1ms021_26fb55b4:
+translate french sm1ms021_1092c087:
 
-    # sy "And with mom around, it's been just a little bit more hectic."
-    sy "And with mom around, it's been just a little bit more hectic."
+    # sy "And with Mom around, it's been just a little bit more hectic."
+    sy "And with Mom around, it's been just a little bit more hectic."
 
 # game/code/scenes/main_story/sm1ms021.rpy:114
 translate french sm1ms021_28d98971:

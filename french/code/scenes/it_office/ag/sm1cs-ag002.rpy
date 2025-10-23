@@ -329,10 +329,10 @@ translate french sm1cs_ag002_954f8867:
     ag "I, uhm, don't know what you're talking about."
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:213
-translate french sm1cs_ag002_c1b85313:
+translate french sm1cs_ag002_47fea000:
 
-    # mc "You know, \"Aubergine Annie\"?"
-    mc "You know, \"Aubergine Annie\"?"
+    # mc "You know, \"Aubergine Anna\"?"
+    mc "You know, \"Aubergine Anna\"?"
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:217
 translate french sm1cs_ag002_e0411c2a:

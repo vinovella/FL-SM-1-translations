@@ -317,10 +317,10 @@ translate french sm1cs_km004_a3b3c69e:
     mc "What? Why?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:206
-translate french sm1cs_km004_553da677:
+translate french sm1cs_km004_6fdfaeb6:
 
-    # tl "To see if this is a bannable offense, you uncivilized orge."
-    tl "To see if this is a bannable offense, you uncivilized orge."
+    # tl "To see if this is a bannable offense, you uncivilized ogre."
+    tl "To see if this is a bannable offense, you uncivilized ogre."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:209
 translate french sm1cs_km004_29844415:
@@ -604,1009 +604,1009 @@ translate french sm1cs_km004_8539c752:
     # mct "Now where did Kellie run off to?"
     mct "Now where did Kellie run off to?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:397
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:398
 translate french sm1cs_km004_warehouse_35bfae4e:
 
     # mc "Ahh! Not the face."
     mc "Ahh! Not the face."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:400
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:401
 translate french sm1cs_km004_warehouse_78f00081:
 
     # km "Calm down. It's just me."
     km "Calm down. It's just me."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:404
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:405
 translate french sm1cs_km004_warehouse_23a2dc2f:
 
     # mc "You say that like it's a good thing."
     mc "You say that like it's a good thing."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:405
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:406
 translate french sm1cs_km004_warehouse_6bcfd0a6:
 
     # mc "You screwed up, and now Taisia is out for blood."
     mc "You screwed up, and now Taisia is out for blood."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:408
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:409
 translate french sm1cs_km004_warehouse_6d785eae:
 
     # km "Hah. I've known her longer than you."
     km "Hah. I've known her longer than you."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:409
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:410
 translate french sm1cs_km004_warehouse_be5f03b1:
 
     # km "Her bark is worse than her bite."
     km "Her bark is worse than her bite."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:412
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:413
 translate french sm1cs_km004_warehouse_d264663e:
 
     # km "Plus, I know one of her weaknesses."
     km "Plus, I know one of her weaknesses."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:415
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:416
 translate french sm1cs_km004_warehouse_83ccd2bf:
 
     # mc "Oh, you do?"
     mc "Oh, you do?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:418
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:419
 translate french sm1cs_km004_warehouse_05c854d4:
 
     # km "Yup. If you gave her a twenty, I bet she'd forget she ever saw us."
     km "Yup. If you gave her a twenty, I bet she'd forget she ever saw us."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:421
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:422
 translate french sm1cs_km004_warehouse_29838345:
 
     # mc "I'm not willing to take that chance."
     mc "I'm not willing to take that chance."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:424
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:425
 translate french sm1cs_km004_warehouse_4a440c01:
 
     # km "It's fine. It's not important now."
     km "It's fine. It's not important now."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:427
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:428
 translate french sm1cs_km004_warehouse_2d8f6625:
 
     # km "What is important is that when I was running away, I figured out a new plan to prank Veronica."
     km "What is important is that when I was running away, I figured out a new plan to prank Veronica."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:430
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:431
 translate french sm1cs_km004_warehouse_c8c6cd95:
 
     # km "And this one is guaranteed to work."
     km "And this one is guaranteed to work."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:436
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:437
 translate french sm1cs_km004_warehouse_1623f7f6:
 
     # mc "Okay, what is this surefire plan?"
     mc "Okay, what is this surefire plan?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:443
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:444
 translate french sm1cs_km004_warehouse_bb53de53:
 
     # mc "I don't know. This whole thing is starting to feel a bit crazy."
     mc "I don't know. This whole thing is starting to feel a bit crazy."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:446
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:447
 translate french sm1cs_km004_warehouse_68a0997f:
 
     # km "You said that you would help me, [mcname]."
     km "You said that you would help me, [mcname]."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:450
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:451
 translate french sm1cs_km004_warehouse_23829e05:
 
     # mc "*sighs* I know that, but..."
     mc "*sighs* I know that, but..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:453
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:454
 translate french sm1cs_km004_warehouse_dd4fb29b:
 
     # km "*sighs* It's fine..."
     km "*sighs* It's fine..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:454
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:455
 translate french sm1cs_km004_warehouse_abc53e99:
 
     # km "It was a stupid idea anyway."
     km "It was a stupid idea anyway."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:455
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:456
 translate french sm1cs_km004_warehouse_cc6c33ef:
 
     # km "I just..."
     km "I just..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:458
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:459
 translate french sm1cs_km004_warehouse_269483d1:
 
     # km "I need this, [mcname]."
     km "I need this, [mcname]."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:459
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:460
 translate french sm1cs_km004_warehouse_f6a23c00:
 
     # km "If I don't get a lead role soon, I think I'm going to be trapped playing second fiddle forever."
     km "If I don't get a lead role soon, I think I'm going to be trapped playing second fiddle forever."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:461
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:462
 translate french sm1cs_km004_warehouse_debd4bc9:
 
     # km "..."
     km "..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:464
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:465
 translate french sm1cs_km004_warehouse_36ede24b:
 
     # mc "Okay. We can do one more prank."
     mc "Okay. We can do one more prank."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:467
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:468
 translate french sm1cs_km004_warehouse_70fc5e8d:
 
     # km "Really?"
     km "Really?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:470
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:471
 translate french sm1cs_km004_warehouse_7689cc35:
 
     # mc "Yes, just... Let's make extra sure everyone is far away when we do."
     mc "Yes, just... Let's make extra sure everyone is far away when we do."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:473
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:474
 translate french sm1cs_km004_warehouse_8a005c45:
 
     # km "You got it."
     km "You got it."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:476
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:477
 translate french sm1cs_km004_warehouse_c0b2a7a6:
 
     # km "Here is the plan."
     km "Here is the plan."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:478
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:479
 translate french sm1cs_km004_warehouse_2a41590c:
 
     # km "*whispers*"
     km "*whispers*"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:489
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:490
 translate french sm1cs_km004_locker_0ec0bcca:
 
     # mct "I can think of a dozen ways this won't work."
     mct "I can think of a dozen ways this won't work."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:490
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:491
 translate french sm1cs_km004_locker_b82e7b9d:
 
     # mct "At least we know Veronica won't be coming anytime soon. I can still hear the shower."
     mct "At least we know Veronica won't be coming anytime soon. I can still hear the shower."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:494
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:495
 translate french sm1cs_km004_locker_7eb0e2b9:
 
     # mc "How did you learn to pick locks, again?"
     mc "How did you learn to pick locks, again?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:497
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:498
 translate french sm1cs_km004_locker_6a9eda10:
 
     # km "Trade secret."
     km "Trade secret."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:500
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:501
 translate french sm1cs_km004_locker_37aaed28:
 
     # mc "Uh-huh."
     mc "Uh-huh."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:504
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:505
 translate french sm1cs_km004_locker_9a2753fe:
 
     # km "If these are mysteriously Taisia's clothes in Veronica's locker, I'm quitting."
     km "If these are mysteriously Taisia's clothes in Veronica's locker, I'm quitting."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:507
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:508
 translate french sm1cs_km004_locker_c91901df:
 
     # mc "No, those are all very bubbly and distinctly non-Taisia."
     mc "No, those are all very bubbly and distinctly non-Taisia."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:511
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:512
 translate french sm1cs_km004_locker_1b86d331:
 
     # km "Good."
     km "Good."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:514
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:515
 translate french sm1cs_km004_locker_3d5ca330:
 
     # km "Let's go."
     km "Let's go."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:528
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:529
 translate french sm1cs_km004_locker_bb15f47e:
 
     # vs "Hmmm."
     vs "Hmmm."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:534
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:535
 translate french sm1cs_km004_locker_31056ed7:
 
     # vs "How strange."
     vs "How strange."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:535
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:536
 translate french sm1cs_km004_locker_5be8d1ea:
 
     # vs "I swear I had more clothes in here than just these."
     vs "I swear I had more clothes in here than just these."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:543
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:544
 translate french sm1cs_km004_locker_adda5bb4:
 
     # vs "Oh well. I'm sure they'll turn up."
     vs "Oh well. I'm sure they'll turn up."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:551
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:552
 translate french sm1cs_km004_locker_260cc453:
 
     # mc "Uh, Kellie. She's coming this way."
     mc "Uh, Kellie. She's coming this way."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:555
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:556
 translate french sm1cs_km004_locker_f4900c0a:
 
     # km "What is she doing? How is she not freaking out?"
     km "What is she doing? How is she not freaking out?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:558
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:559
 translate french sm1cs_km004_locker_339c9865:
 
     # mc "We gotta move."
     mc "We gotta move."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:561
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:562
 translate french sm1cs_km004_locker_2a7110d8:
 
     # km "But it doesn't make sense."
     km "But it doesn't make sense."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:562
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:563
 translate french sm1cs_km004_locker_47d190f9:
 
     # km "What manner of beast is she?"
     km "What manner of beast is she?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:576
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:577
 translate french sm1cs_km004_stage_1fee2fbc:
 
     # ec "Hi, you two. Can you keep the stage clear? We're about to have a little practice with Veronica."
     ec "Hi, you two. Can you keep the stage clear? We're about to have a little practice with Veronica."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:579
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:580
 translate french sm1cs_km004_stage_1f649e89:
 
     # mc "Uh... sure."
     mc "Uh... sure."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:582
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:583
 translate french sm1cs_km004_stage_afff0182:
 
     # km "No problem."
     km "No problem."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:585
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:586
 translate french sm1cs_km004_stage_61b71b39:
 
     # dvh "No. They can stay. They'll be our audience."
     dvh "No. They can stay. They'll be our audience."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:588
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:589
 translate french sm1cs_km004_stage_c1cde18a:
 
     # dvh "Now we just need our actress. She should be here already."
     dvh "Now we just need our actress. She should be here already."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:591
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:592
 translate french sm1cs_km004_stage_ea887662:
 
     # dvh "Have you two seen her?"
     dvh "Have you two seen her?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:594
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:595
 translate french sm1cs_km004_stage_27d60669:
 
     # km "Who? Veronica. No, we haven't seen her. Nope."
     km "Who? Veronica. No, we haven't seen her. Nope."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:597
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:598
 translate french sm1cs_km004_stage_34d9d15b:
 
     # mct "Great job, Kellie. Very natural."
     mct "Great job, Kellie. Very natural."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:603
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:604
 translate french sm1cs_km004_stage_c5a6f623:
 
     # vs "Here I am."
     vs "Here I am."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:607
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:608
 translate french sm1cs_km004_stage_9a234355:
 
     # dvh "Finally, we-"
     dvh "Finally, we-"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:610
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:611
 translate french sm1cs_km004_stage_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:612
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:613
 translate french sm1cs_km004_stage_f619f2ec:
 
     # km "She..."
     km "She..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:615
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:616
 translate french sm1cs_km004_stage_edaa7b97:
 
     # dvh "What {b}is{/b} going on?"
     dvh "What {b}is{/b} going on?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:618
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:619
 translate french sm1cs_km004_stage_64acf592:
 
     # vs "Oh nothing. My clothes just kind of wandered off. But I didn't want to be late."
     vs "Oh nothing. My clothes just kind of wandered off. But I didn't want to be late."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:622
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:623
 translate french sm1cs_km004_stage_4bfcc0b8:
 
     # dvh "It's fine."
     dvh "It's fine."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:626
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:627
 translate french sm1cs_km004_stage_affb5a61:
 
     # dvh "Just... read the lines I highlighted for you."
     dvh "Just... read the lines I highlighted for you."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:630
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:631
 translate french sm1cs_km004_stage_7df993c1:
 
     # vs "Okay-dokey."
     vs "Okay-dokey."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:633
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:634
 translate french sm1cs_km004_stage_ab6182eb:
 
     # vs "Oh hey, [mcname]. I didn't see you there."
     vs "Oh hey, [mcname]. I didn't see you there."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:634
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:635
 translate french sm1cs_km004_stage_5b1c2340:
 
     # vs "Hey have you seen my clothes?"
     vs "Hey have you seen my clothes?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:637
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:638
 translate french sm1cs_km004_stage_8bc21fbc:
 
     # mc "Nope. Sorry, Veronica."
     mc "Nope. Sorry, Veronica."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:640
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:641
 translate french sm1cs_km004_stage_d2201111:
 
     # vs "That's okay. It's so strange."
     vs "That's okay. It's so strange."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:643
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:644
 translate french sm1cs_km004_stage_0d1c711f:
 
     # dvh "Ahem. If you please, Veronica."
     dvh "Ahem. If you please, Veronica."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:646
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:647
 translate french sm1cs_km004_stage_5ee5358c:
 
     # vs "Oh right."
     vs "Oh right."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:650
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:651
 translate french sm1cs_km004_stage_79692656:
 
     # vs "What's Montague? It is nor hand nor foot."
     vs "What's Montague? It is nor hand nor foot."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:653
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:654
 translate french sm1cs_km004_stage_ca93a884:
 
     # vs "Nor arm nor face nor any other part."
     vs "Nor arm nor face nor any other part."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:655
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:656
 translate french sm1cs_km004_stage_c4638d68:
 
     # vs "Three days ago, I loathed you. I used to dream about you getting hit by a cab, or poisoned."
     vs "Three days ago, I loathed you. I used to dream about you getting hit by a cab, or poisoned."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:658
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:659
 translate french sm1cs_km004_stage_33fbc40c:
 
     # vs "Then we had our little adventure up in Alaska and things started to change."
     vs "Then we had our little adventure up in Alaska and things started to change."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:662
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:663
 translate french sm1cs_km004_stage_c4880b44:
 
     # vs "Belonging to a man. Oh, be some other name!"
     vs "Belonging to a man. Oh, be some other name!"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:665
-translate french sm1cs_km004_stage_65e26364:
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:666
+translate french sm1cs_km004_stage_c13052d4:
 
-    # vs "What's in a name? That which we call a rose"
-    vs "What's in a name? That which we call a rose"
+    # vs "What's in a name? That which we call a rose."
+    vs "What's in a name? That which we call a rose."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:668
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:669
 translate french sm1cs_km004_stage_7e68ba35:
 
     # vs "By any other word would smell as sweet."
     vs "By any other word would smell as sweet."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:671
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:672
 translate french sm1cs_km004_stage_d9c55cea:
 
     # vs "Things changed when we kissed. And when you told me about your tattoo."
     vs "Things changed when we kissed. And when you told me about your tattoo."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:674
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:675
 translate french sm1cs_km004_stage_8627e733:
 
     # vs "Even when you checked me out when we were naked."
     vs "Even when you checked me out when we were naked."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:677
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:678
 translate french sm1cs_km004_stage_21d18301:
 
     # dvh "My god."
     dvh "My god."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:680
-translate french sm1cs_km004_stage_a47cf382:
-
-    # dvh "Exquisite Veronica."
-    dvh "Exquisite Veronica."
-
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:681
+translate french sm1cs_km004_stage_4661a3df:
+
+    # dvh "Exquisite, Veronica."
+    dvh "Exquisite, Veronica."
+
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:682
 translate french sm1cs_km004_stage_99fe62c6:
 
     # dvh "Have you been practicing more?"
     dvh "Have you been practicing more?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:684
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:685
 translate french sm1cs_km004_stage_29613f54:
 
     # vs "Nope. Maybe it's because I'm just in my underwear."
     vs "Nope. Maybe it's because I'm just in my underwear."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:688
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:689
 translate french sm1cs_km004_stage_a29bb6fe:
 
     # vs "We should all just do our scenes in our underwear. It feels so liberating."
     vs "We should all just do our scenes in our underwear. It feels so liberating."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:691
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:692
 translate french sm1cs_km004_stage_ef3d5552:
 
     # dvh "I'll keep that in mind."
     dvh "I'll keep that in mind."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:692
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:693
 translate french sm1cs_km004_stage_b585ee27:
 
     # dvh "Alright, let's go over some more lines."
     dvh "Alright, let's go over some more lines."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:702
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:703
 translate french sm1cs_km004_stage_546c3d1d:
 
     # km "I can't believe it. Not only is she not embarrassed by prancing around on the stage in a thong!"
     km "I can't believe it. Not only is she not embarrassed by prancing around on the stage in a thong!"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:703
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:704
 translate french sm1cs_km004_stage_9594d570:
 
     # km "Denise thinks she's even better than normal because of it."
     km "Denise thinks she's even better than normal because of it."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:704
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:705
 translate french sm1cs_km004_stage_e80d5890:
 
     # km "God is laughing at me, [mcname]."
     km "God is laughing at me, [mcname]."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:707
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:708
 translate french sm1cs_km004_stage_3dca5eca:
 
     # mc "God is not laughing at you, Kellie."
     mc "God is not laughing at you, Kellie."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:708
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:709
 translate french sm1cs_km004_stage_978a6f09:
 
     # mc "Veronica is just a very... special girl, I guess."
     mc "Veronica is just a very... special girl, I guess."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:711
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:712
 translate french sm1cs_km004_stage_3fedb726:
 
     # km "There has to be something."
     km "There has to be something."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:712
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:713
 translate french sm1cs_km004_stage_31b0b578:
 
     # km "What else can I do?"
     km "What else can I do?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:716
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:717
 translate french sm1cs_km004_stage_f79910b8:
 
     # km "Wait. I think I got it."
     km "Wait. I think I got it."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:719
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:720
 translate french sm1cs_km004_stage_306de191:
 
     # km "I'll fight fire with fire.{w} Yes..."
     km "I'll fight fire with fire.{w} Yes..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:722
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:723
 translate french sm1cs_km004_stage_5ee6780e:
 
     # mct "Oh this is not going to be good."
     mct "Oh this is not going to be good."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:725
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:726
 translate french sm1cs_km004_stage_993e92ed:
 
     # km "I bet that the reason she's so comfortable with her own body is because other bodies make her super uncomfortable."
     km "I bet that the reason she's so comfortable with her own body is because other bodies make her super uncomfortable."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:726
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:727
 translate french sm1cs_km004_stage_4ea78a31:
 
     # km "That's gotta be her weakness.{w} That's how I'll break her."
     km "That's gotta be her weakness.{w} That's how I'll break her."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:729
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:730
 translate french sm1cs_km004_stage_e2a4c90a:
 
     # mc "Kellie, listen. I'm sorry your other plans didn't work, but I think we're heading towards doing something you'll regret."
     mc "Kellie, listen. I'm sorry your other plans didn't work, but I think we're heading towards doing something you'll regret."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:732
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:733
 translate french sm1cs_km004_stage_a566e946:
 
     # km "No. It's going to work.{w} It has to work."
     km "No. It's going to work.{w} It has to work."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:735
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:736
 translate french sm1cs_km004_stage_4e38d872:
 
     # km "I know it will."
     km "I know it will."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:739
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:740
 translate french sm1cs_km004_stage_8b270b4b:
 
     # km "Give me twenty minutes, and then you need to go find Veronica."
     km "Give me twenty minutes, and then you need to go find Veronica."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:742
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:743
 translate french sm1cs_km004_stage_8f0a50c2:
 
     # mc "Kellie please."
     mc "Kellie please."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:745
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:746
 translate french sm1cs_km004_stage_f02a9861:
 
     # km "And then you bring her to the storage room."
     km "And then you bring her to the storage room."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:748
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:749
 translate french sm1cs_km004_stage_f8ecc5cf:
 
     # mc "The storage room. Why?"
     mc "The storage room. Why?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:751
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:752
 translate french sm1cs_km004_stage_722ca3de:
 
     # km "Please, [mcname]. Just trust me. I {b}need{/b} you to do it."
     km "Please, [mcname]. Just trust me. I {b}need{/b} you to do it."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:752
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:753
 translate french sm1cs_km004_stage_f5b8bdf6:
 
     # km "Then we're done. I won't ask you for another favor."
     km "Then we're done. I won't ask you for another favor."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:756
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:757
 translate french sm1cs_km004_stage_2e34b2b1:
 
     # mc "Okay. One last favor."
     mc "Okay. One last favor."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:760
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:761
 translate french sm1cs_km004_stage_fcda00ac:
 
     # km "Thank you!"
     km "Thank you!"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:765
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:766
 translate french sm1cs_km004_stage_4deec8ab:
 
     # km "*ahem* Thank you."
     km "*ahem* Thank you."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:772
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:773
 translate french sm1cs_km004_stage_93483097:
 
     # mct "What is up with these theater girls?"
     mct "What is up with these theater girls?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:790
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:791
 translate french sm1cs_km004_later_ede914a3:
 
     # vs "Thanks again for helping me find my clothes, [mcname]."
     vs "Thanks again for helping me find my clothes, [mcname]."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:793
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:794
 translate french sm1cs_km004_later_061d6d71:
 
     # mc "Haha. Yeah... it was no big deal."
     mc "Haha. Yeah... it was no big deal."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:796
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:797
 translate french sm1cs_km004_later_17f16722:
 
     # vs "Now can you tell me what's up?"
     vs "Now can you tell me what's up?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:799
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:800
 translate french sm1cs_km004_later_d7e53174:
 
     # mc "Not yet. Kellie wanted it to be a surprise."
     mc "Not yet. Kellie wanted it to be a surprise."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:801
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:802
 translate french sm1cs_km004_later_36218bf5:
 
     # mct "For you and me I guess."
     mct "For you and me I guess."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:804
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:805
 translate french sm1cs_km004_later_f4694503:
 
     # vs "Nice. I love surprises."
     vs "Nice. I love surprises."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:817
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:818
 translate french sm1cs_km004_later_223f0140:
 
     # vs "Hmmm. So mysterious."
     vs "Hmmm. So mysterious."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:820
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:821
 translate french sm1cs_km004_later_0d7004ec:
 
     # mct "Holy shit. It's Kellie."
     mct "Holy shit. It's Kellie."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:821
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:822
 translate french sm1cs_km004_later_f627bce6:
 
     # mct "She's naked. And-"
     mct "She's naked. And-"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:827
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:828
 translate french sm1cs_km004_later_6ac56210:
 
     # km "Mmwaah... Nuraahhh..."
     km "Mmwaah... Nuraahhh..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:831
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:832
 translate french sm1cs_km004_later_92ca7a0c:
 
     # vs "Woah."
     vs "Woah."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:838
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:839
 translate french sm1cs_km004_later_acabb117:
 
     # "*door opening*"
     "*door opening*"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:841
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:842
 translate french sm1cs_km004_later_abe3cf10:
 
     # mct "As far as plans go, I definitely didn't see this coming."
     mct "As far as plans go, I definitely didn't see this coming."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:844
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:845
 translate french sm1cs_km004_later_56ca28dc:
 
     # km "*light moaning*"
     km "*light moaning*"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:853
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:854
 translate french sm1cs_km004_later_7177430a:
 
     # km "Hey there, Veronica..."
     km "Hey there, Veronica..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:855
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:856
 translate french sm1cs_km004_later_70394c34:
 
     # "*door closing*"
     "*door closing*"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:858
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:859
 translate french sm1cs_km004_later_061b3681:
 
     # vs "Kellie... what are you-"
     vs "Kellie... what are you-"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:859
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:860
 translate french sm1cs_km004_later_3e231a0d:
 
     # vs "I don't know what to say..."
     vs "I don't know what to say..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:864
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:865
 translate french sm1cs_km004_later_bc4f2a79:
 
     # km "Now, every time you look at me..."
     km "Now, every time you look at me..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:870
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:871
 translate french sm1cs_km004_later_64a9558f:
 
     # km "You're going to get distracted and think about this."
     km "You're going to get distracted and think about this."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:876
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:877
 translate french sm1cs_km004_later_7a99d1ad:
 
     # km "Nuhaaaah..."
     km "Nuhaaaah..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:879
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:880
 translate french sm1cs_km004_later_d8d1ca76:
 
     # km "Yes. I hope this image is seared into your memory forever!"
     km "Yes. I hope this image is seared into your memory forever!"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:885
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:886
 translate french sm1cs_km004_later_521a7fff:
 
     # vs "Kellie, this...."
     vs "Kellie, this...."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:886
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:887
 translate french sm1cs_km004_later_03fd6c78:
 
     # vs "I mean."
     vs "I mean."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:888
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:889
 translate french sm1cs_km004_later_b30d2c6b:
 
     # km "*moaning*"
     km "*moaning*"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:892
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:893
 translate french sm1cs_km004_later_5cbf803c:
 
     # mct "Fuck me. I didn't think I'd ever see Kellie acting like this."
     mct "Fuck me. I didn't think I'd ever see Kellie acting like this."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:895
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:896
 translate french sm1cs_km004_later_5c5cdd25:
 
     # mct "I mean, I know that Veronica likes to get freaky, but Kellie has always seemed chaste by comparison."
     mct "I mean, I know that Veronica likes to get freaky, but Kellie has always seemed chaste by comparison."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:903
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:904
 translate french sm1cs_km004_later_6b853462:
 
     # vs "I love this new side of you."
     vs "I love this new side of you."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:907
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:908
 translate french sm1cs_km004_later_8ea59bd3:
 
     # km "Muhah... what?"
     km "Muhah... what?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:910
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:911
 translate french sm1cs_km004_later_df597eaf:
 
     # vs "Rock on Kellie. I had no idea you were so kinky."
     vs "Rock on Kellie. I had no idea you were so kinky."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:913
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:914
 translate french sm1cs_km004_later_c2657108:
 
     # km "No. This isn't your one weakness?"
     km "No. This isn't your one weakness?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:916
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:917
 translate french sm1cs_km004_later_63ae932b:
 
     # vs "Huh? Weakness?"
     vs "Huh? Weakness?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:920
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:921
 translate french sm1cs_km004_later_94214bf3:
 
     # vs "No, I love kinky stuff like this."
     vs "No, I love kinky stuff like this."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:923
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:924
 translate french sm1cs_km004_later_7da4af26:
 
     # vs "And I've already seen [mcname] naked, so now it's like I've got the full set after seeing you naked."
     vs "And I've already seen [mcname] naked, so now it's like I've got the full set after seeing you naked."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:926
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:927
 translate french sm1cs_km004_later_c14f1167:
 
     # km "Buh... I... I mean..."
     km "Buh... I... I mean..."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:929
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:930
 translate french sm1cs_km004_later_fe8cccfb:
 
     # vs "Oh my god. What if we tried a threesome sometime?"
     vs "Oh my god. What if we tried a threesome sometime?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:934
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:935
 translate french sm1cs_km004_later_07cba895:
 
     # vs "Oh my god. We could make it a Blitz Alert!"
     vs "Oh my god. We could make it a Blitz Alert!"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:938
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:939
 translate french sm1cs_km004_later_6df51a83:
 
     # km "What are you talking about?"
     km "What are you talking about?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:941
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:942
 translate french sm1cs_km004_later_53f400b3:
 
     # km "I can't. Wait... where are my clothes?"
     km "I can't. Wait... where are my clothes?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:944
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:945
 translate french sm1cs_km004_later_7bfdb18c:
 
     # tl "Looking for these?"
     tl "Looking for these?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:948
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:949
 translate french sm1cs_km004_later_09a8a356:
 
     # km "Ahaaah! Taisia. Give them back this instant."
     km "Ahaaah! Taisia. Give them back this instant."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:951
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:952
 translate french sm1cs_km004_later_06b230c4:
 
     # tl "Yeah, I don't think so."
     tl "Yeah, I don't think so."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:952
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:953
 translate french sm1cs_km004_later_7cd685a1:
 
     # tl "That will teach you for messing around with my stuff."
     tl "That will teach you for messing around with my stuff."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:960
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:961
 translate french sm1cs_km004_later_40c3e2d7:
 
     # km "Come back, right now!"
     km "Come back, right now!"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:965
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:966
 translate french sm1cs_km004_later_18d7b4cb:
 
     # vs "Mmmmm."
     vs "Mmmmm."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:966
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:967
 translate french sm1cs_km004_later_e06e0046:
 
     # vs "Did I just blank out for a minute, or did Taisia steal Kellie's clothes?"
     vs "Did I just blank out for a minute, or did Taisia steal Kellie's clothes?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:969
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:970
 translate french sm1cs_km004_later_02971d9c:
 
     # mc "No, your eyes work fine. There is a naked Kellie running down the halls of the theater right now."
     mc "No, your eyes work fine. There is a naked Kellie running down the halls of the theater right now."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:972
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:973
 translate french sm1cs_km004_later_8509c19e:
 
     # vs "Cool cool."
     vs "Cool cool."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:973
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:974
 translate french sm1cs_km004_later_7883393c:
 
     # vs "Oh, so Taisia must have taken my clothes too."
     vs "Oh, so Taisia must have taken my clothes too."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:976
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:977
 translate french sm1cs_km004_later_d7882c75:
 
     # vs "Hahaha. What a prankster."
     vs "Hahaha. What a prankster."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:979
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:980
 translate french sm1cs_km004_later_ce720b70:
 
     # mc "You're taking this very well."
     mc "You're taking this very well."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:982
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:983
 translate french sm1cs_km004_later_c3990b51:
 
     # vs "Haha. Hey, that's show business. You gotta be able to roll with the punches."
     vs "Haha. Hey, that's show business. You gotta be able to roll with the punches."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:989
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:991
 translate french sm1cs_km004_later_8cf11761:
 
     # vs "I better wash and clean this for Kellie."
     vs "I better wash and clean this for Kellie."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:990
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:992
 translate french sm1cs_km004_later_df4d4dfd:
 
     # vs "Little \"thank you\" for the free show, hehe."
     vs "Little \"thank you\" for the free show, hehe."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:994
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:996
 translate french sm1cs_km004_later_8a151a9b:
 
     # vs "See you around, [mcname]."
     vs "See you around, [mcname]."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:997
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:999
 translate french sm1cs_km004_later_39392ead:
 
     # mct "Classic Veronica."
     mct "Classic Veronica."
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:1001
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:1003
 translate french sm1cs_km004_later_03d537de:
 
     # mct "I just hope that Taisia doesn't charge Kellie for the return of her clothes."
@@ -1615,8 +1615,8 @@ translate french sm1cs_km004_later_03d537de:
 translate french strings:
 
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
-    old "Yeah, it's exciting."
-    new "Yeah, it's exciting."
+    old "Yeah, it's exciting"
+    new "Yeah, it's exciting"
 
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
     old "What is my role again?"
@@ -1638,11 +1638,11 @@ translate french strings:
     old "Nope, it was all Kellie"
     new "Nope, it was all Kellie"
 
-    # game/code/scenes/theatre/km/sm1cs-km004.rpy:431
+    # game/code/scenes/theatre/km/sm1cs-km004.rpy:432
     old "What is this surefire plan?"
     new "What is this surefire plan?"
 
-    # game/code/scenes/theatre/km/sm1cs-km004.rpy:431
+    # game/code/scenes/theatre/km/sm1cs-km004.rpy:432
     old "I'm starting to get worried"
     new "I'm starting to get worried"
 

@@ -827,16 +827,16 @@ translate french sm1ms016_b66f79f2:
     my "I'll swing by tomorrow and check in."
 
 # game/code/scenes/main_story/sm1ms016.rpy:413
-translate french sm1ms016_f02441da:
+translate french sm1ms016_1cdacc1d:
 
-    # mc "Bye mom."
-    mc "Bye mom."
+    # mc "Bye Mom."
+    mc "Bye Mom."
 
 # game/code/scenes/main_story/sm1ms016.rpy:415
-translate french sm1ms016_321171ea:
+translate french sm1ms016_f63e17b6:
 
-    # sy "Bye mom."
-    sy "Bye mom."
+    # sy "Bye Mom."
+    sy "Bye Mom."
 
 # game/code/scenes/main_story/sm1ms016.rpy:417
 translate french sm1ms016_a2ebb134:

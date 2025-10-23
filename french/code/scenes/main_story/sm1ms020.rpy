@@ -311,10 +311,10 @@ translate french sm1ms020_0b76e093:
     mc "What do you do as an art gallery manager?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:175
-translate french sm1ms020_94ff1e98:
+translate french sm1ms020_0046f9d0:
 
-    # my "I manage connections between investors and the gallery, talent scout for new artist's to showcase..."
-    my "I manage connections between investors and the gallery, talent scout for new artist's to showcase..."
+    # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+    my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:176
 translate french sm1ms020_1f2f2361:

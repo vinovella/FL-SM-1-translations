@@ -395,10 +395,10 @@ translate french sm1cs_am_renovation_later_7d010a14:
     mc "What happened?"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:233
-translate french sm1cs_am_renovation_later_84cd6e25:
+translate french sm1cs_am_renovation_later_e7545316:
 
-    # am "Fucking charlie horse. Nrraaah."
-    am "Fucking charlie horse. Nrraaah."
+    # am "Fucking charley horse. Nrraaah."
+    am "Fucking charley horse. Nrraaah."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:238
 translate french sm1cs_am_renovation_later_2b35b6fe:
@@ -485,10 +485,10 @@ translate french sm1cs_am_renovation_later_177d3eb2:
     mc "What are you doing?"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:283
-translate french sm1cs_am_renovation_later_6ee81245:
+translate french sm1cs_am_renovation_later_796e7fbc:
 
-    # mc "Another charlie horse?"
-    mc "Another charlie horse?"
+    # mc "Another charley horse?"
+    mc "Another charley horse?"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:286
 translate french sm1cs_am_renovation_later_ef6429f5:
@@ -687,26 +687,26 @@ translate french strings:
     new "Shake it off"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
-    old "I didn't think to ask."
-    new "I didn't think to ask."
+    old "I didn't think to ask"
+    new "I didn't think to ask"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "You want to help?"
     new "You want to help?"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Ask April what she did."
-    new "Ask April what she did."
+    old "Ask April what she did"
+    new "Ask April what she did"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Complain to April."
-    new "Complain to April."
+    old "Complain to April"
+    new "Complain to April"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Lie"
     new "Lie"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
-    old "Promise the answer one day."
-    new "Promise the answer one day."
+    old "Promise the answer one day"
+    new "Promise the answer one day"
 
