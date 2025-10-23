@@ -1106,139 +1106,139 @@ translate chinese sm1cs_am007_20_minutes_later_7d974acb:
 translate chinese sm1cs_am007_20_minutes_later_25d630a1:
 
     # am "You are such a dog."
-    am "You are such a dog."
+    am "你真是只色狗。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:595
 translate chinese sm1cs_am007_20_minutes_later_889020f6:
 
     # mc "Woof woof."
-    mc "Woof woof."
+    mc "汪汪。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:600
 translate chinese sm1cs_am007_20_minutes_later_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:608
 translate chinese sm1cs_am007_jogging_continue_51377f0a:
 
     # am "Make sure your phone is on silent."
-    am "Make sure your phone is on silent."
+    am "确保你的手机是静音的。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:609
 translate chinese sm1cs_am007_jogging_continue_c1e24ec0:
 
     # am "No interruptions. Just the two of us burning a few gigabytes of calories."
-    am "No interruptions. Just the two of us burning a few gigabytes of calories."
+    am "不要打扰。就我们两个人燃烧几千兆字节的卡路里。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:612
 translate chinese sm1cs_am007_jogging_continue_d97465d7:
 
     # mc "Let's do it."
-    mc "Let's do it."
+    mc "那就开始吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:615
 translate chinese sm1cs_am007_jogging_continue_7ff1764f:
 
     # am "Follow me."
-    am "Follow me."
+    am "跟着我。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:643
 translate chinese sm1cs_am007_jogging_continue_7d8c61d1:
 
     # am "Come on, [mcname]."
-    am "Come on, [mcname]."
+    am "加油，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:644
 translate chinese sm1cs_am007_jogging_continue_03be9d07:
 
     # am "We're almost halfway done."
-    am "We're almost halfway done."
+    am "我们快跑了一半了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:649
 translate chinese sm1cs_am007_jogging_continue_e86977de:
 
     # mc "*panting*"
-    mc "*panting*"
+    mc "*喘气*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:650
 translate chinese sm1cs_am007_jogging_continue_bb4d3731:
 
     # mc "Oh god."
-    mc "Oh god."
+    mc "天啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:651
 translate chinese sm1cs_am007_jogging_continue_aad2f7df:
 
     # mc "*wheezing* The human body was not meant to run this much."
-    mc "*wheezing* The human body was not meant to run this much."
+    mc "*喘息* 人体不是用来跑这么多的。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:655
 translate chinese sm1cs_am007_jogging_continue_46d2f9de:
 
     # am "Come on.{w} You can do it."
-    am "Come on.{w} You can do it."
+    am "加油。{w} 你能行的。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:659
 translate chinese sm1cs_am007_jogging_continue_cc21fe54:
 
     # mc "I can't. *wheezes*{w} I'm dead."
-    mc "I can't. *wheezes*{w} I'm dead."
+    mc "我不行了。*喘息*{w} 我要死了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:660
 translate chinese sm1cs_am007_jogging_continue_7643cfe1:
 
     # mc "Just leave me where I fall."
-    mc "Just leave me where I fall."
+    mc "就让我倒在这儿吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:663
 translate chinese sm1cs_am007_jogging_continue_8c0e2c5a:
 
     # am "Oh no you don't."
-    am "Oh no you don't."
+    am "哦不，你可不行。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:664
 translate chinese sm1cs_am007_jogging_continue_76b04d8b:
 
     # am "I'd be a poor girlfriend if I just let you die here."
-    am "I'd be a poor girlfriend if I just let you die here."
+    am "如果我让你死在这里，我就是个糟糕的女朋友了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:667
 translate chinese sm1cs_am007_jogging_continue_a64e8bc0:
 
     # mc "Thanks."
-    mc "Thanks."
+    mc "谢谢。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:670
 translate chinese sm1cs_am007_jogging_continue_95cbe1f7:
 
     # am "The police station is not far."
-    am "The police station is not far."
+    am "警察局不远。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:671
 translate chinese sm1cs_am007_jogging_continue_0f1c3bfd:
 
     # am "If I can get you there, at least I'll be doing a public service."
-    am "If I can get you there, at least I'll be doing a public service."
+    am "如果我能把你送到那儿，至少我算是做了件公益事。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:674
 translate chinese sm1cs_am007_jogging_continue_4948b96a:
 
     # mc "*painful laughing* Your concern is so moving."
-    mc "*painful laughing* Your concern is so moving."
+    mc "*痛苦地笑* 你的关心真让人感动。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:677
 translate chinese sm1cs_am007_jogging_continue_3e45f057:
 
     # am "But you're not going to drop on me yet, are you?"
-    am "But you're not going to drop on me yet, are you?"
+    am "但你还不会倒在我身上吧？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:681
 translate chinese sm1cs_am007_jogging_continue_06650a7d:
 
     # am "Mwaaaah."
-    am "Mwaaaah."
+    am "啵啊。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:687
 translate chinese sm1cs_am007_jogging_continue_44644e27:
@@ -1250,7 +1250,7 @@ translate chinese sm1cs_am007_jogging_continue_44644e27:
 translate chinese sm1cs_am007_jogging_continue_588f35dc:
 
     # am "Do your sweat glands have sweat glands?"
-    am "Do your sweat glands have sweat glands?"
+    am "你的汗腺还有汗腺吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:692
 translate chinese sm1cs_am007_jogging_continue_4aac4979:
@@ -2564,103 +2564,103 @@ translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:57
     old "Five minutes later"
-    new "Five minutes later"
+    new "五分钟后"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "You'll figure it out"
-    new "You'll figure it out"
+    new "你会搞定的"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "Suprised it's taking you this long"
-    new "Suprised it's taking you this long"
+    new "惊讶你花了这么长时间"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "I have heard of the general concept"
-    new "I have heard of the general concept"
+    new "我听说过大概的概念"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "Pretty good. I pretty much walk or jog everywhere"
-    new "Pretty good. I pretty much walk or jog everywhere"
+    new "相当不错。我基本上走路或慢跑去任何地方"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
     old "You're sweet"
-    new "You're sweet"
+    new "你很甜美"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
     old "I'm confused"
-    new "I'm confused"
+    new "我很困惑"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
     old "Maybe just don't eat so much"
-    new "Maybe just don't eat so much"
+    new "也许就是不要吃那么多"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:364
     old "I am so sorry"
-    new "I am so sorry"
+    new "我真的很抱歉"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:364
     old "I regret nothing"
-    new "I regret nothing"
+    new "我不后悔"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:516
     old "I need a glass of milk"
-    new "I need a glass of milk"
+    new "我需要一杯牛奶"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:516
     old "I was born ready"
-    new "I was born ready"
+    new "我生来就准备好了"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:516
     old "Shouldn't you stretch first?"
-    new "Shouldn't you stretch first?"
+    new "你不应该先拉伸吗？"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:516
     old "Why don't you wear more stuff like that?"
-    new "Why don't you wear more stuff like that?"
+    new "你为什么不经常穿这样的衣服？"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:583
     old "Too late"
-    new "Too late"
+    new "太迟了"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:583
     old "Of course"
-    new "Of course"
+    new "当然"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:628
     old "An hour later"
-    new "An hour later"
+    new "一个小时后"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:711
     old "One hour of torture later"
-    new "One hour of torture later"
+    new "痛苦的一个小时后"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:816
     old "You're between a rock and a hard place"
-    new "You're between a rock and a hard place"
+    new "你进退两难"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:816
     old "I don't know what to say"
-    new "I don't know what to say"
+    new "我不知道该说什么"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:869
     old "Do you have some sixth sense?"
-    new "Do you have some sixth sense?"
+    new "你有第六感吗？"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:869
     old "Oh. I get it"
-    new "Oh. I get it"
+    new "哦。我明白了"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
     old "So long as I can lick yours"
-    new "So long as I can lick yours"
+    new "只要我能舔你的"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
     old "I'd prefer to just lick yours"
-    new "I'd prefer to just lick yours"
+    new "我更想只舔你的"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
     old "I'd like to do other things to you"
-    new "I'd like to do other things to you"
+    new "我想对你做其他的事"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:46
 translate chinese sm1cs_am007_ed615167:
@@ -2720,5 +2720,5 @@ translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "Surprised it's taking you this long"
-    new "Surprised it's taking you this long"
+    new "惊讶你花了这么长时间"
 
