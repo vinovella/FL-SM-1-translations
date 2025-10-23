@@ -2,19 +2,19 @@
 translate chinese sm1cs_mh008_08969dd2:
 
     # mc "Lyssa? You home?"
-    mc "Lyssa? You home?"
+    mc "丽莎？你在家吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:18
 translate chinese sm1cs_mh008_920b7268:
 
     # mh "Yep! I'm in here, [mcname]."
-    mh "Yep! I'm in here, [mcname]."
+    mh "在的！我在这儿呢，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:23
 translate chinese sm1cs_mh008_44aafd70:
 
     # mh "One second..."
-    mh "One second..."
+    mh "稍等一下..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:26
 translate chinese sm1cs_mh008_63f710a6:
@@ -26,409 +26,409 @@ translate chinese sm1cs_mh008_63f710a6:
 translate chinese sm1cs_mh008_789b7dd4:
 
     # mh "Sorry, just needed to finish that brief."
-    mh "Sorry, just needed to finish that brief."
+    mh "抱歉，我得把这份案情摘要写完。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:37
 translate chinese sm1cs_mh008_c4a7803c:
 
     # mc "No worries, Lyssa."
-    mc "No worries, Lyssa."
+    mc "没事的，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:43
 translate chinese sm1cs_mh008_c067869b:
 
     # mc "Why did you want to see me?"
-    mc "Why did you want to see me?"
+    mc "你找我有什么事吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:46
 translate chinese sm1cs_mh008_e7ebf2b6:
 
     # mh "I don't know... it's been awhile since we've really spent time together. I thought we could maybe do something, go somewhere."
-    mh "I don't know... it's been awhile since we've really spent time together. I thought we could maybe do something, go somewhere."
+    mh "我也不知道...我们已经很久没有真正在一起待过了。我想我们可以一起做点什么，去个什么地方。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:49
 translate chinese sm1cs_mh008_3e53a7b5:
 
     # mc "Of course, Lyssa! I'd love to."
-    mc "Of course, Lyssa! I'd love to."
+    mc "当然好啊，丽莎！我很乐意。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:53
 translate chinese sm1cs_mh008_5cf8540b:
 
     # mh "That's what I was hoping you'd say."
-    mh "That's what I was hoping you'd say."
+    mh "我就希望你这么说。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:56
 translate chinese sm1cs_mh008_9a8e9419:
 
     # mc "Do you have anything in mind?"
-    mc "Do you have anything in mind?"
+    mc "你有什么想法吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:59
 translate chinese sm1cs_mh008_60624fe9:
 
     # mh "Nope. I was trusting in your spontaneity to come up with something exciting for the two of us to do."
-    mh "Nope. I was trusting in your spontaneity to come up with something exciting for the two of us to do."
+    mh "没有。我相信你的即兴发挥，能想出一些让我们俩都兴奋的事情来做。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:62
 translate chinese sm1cs_mh008_ad909a8e:
 
     # mc "Hmmm..."
-    mc "Hmmm..."
+    mc "嗯..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:65
 translate chinese sm1cs_mh008_f0223b3c:
 
     # mh "Oh, I like that look."
-    mh "Oh, I like that look."
+    mh "哦，我喜欢你这个表情。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:68
 translate chinese sm1cs_mh008_39275255:
 
     # mc "How about we go to the carnival? Play some games, do some rides?"
-    mc "How about we go to the carnival? Play some games, do some rides?"
+    mc "我们去嘉年华怎么样？玩些游戏，坐坐游乐设施？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:72
 translate chinese sm1cs_mh008_88f24f40:
 
     # mh "That sounds absolutely wonderful, [mcname]."
-    mh "That sounds absolutely wonderful, [mcname]."
+    mh "听起来非常棒，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:73
 translate chinese sm1cs_mh008_c797dc7c:
 
     # mh "Let me get changed."
-    mh "Let me get changed."
+    mh "让我换件衣服。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:77
 translate chinese sm1cs_mh008_f31d5ebb:
 
     # mh "So what have you been up to lately?"
-    mh "So what have you been up to lately?"
+    mh "你最近在忙些什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:81
 translate chinese sm1cs_mh008_f179324b:
 
     # mc "Oh not much..."
-    mc "Oh not much..."
+    mc "哦，没什么特别的..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:82
 translate chinese sm1cs_mh008_de357be1:
 
     # mc "Working, getting the studio ready."
-    mc "Working, getting the studio ready."
+    mc "工作，准备工作室。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:85
 translate chinese sm1cs_mh008_56df871c:
 
     # mc "We actually just finished renovating!"
-    mc "We actually just finished renovating!"
+    mc "我们刚刚装修完！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:88
 translate chinese sm1cs_mh008_097fd9c1:
 
     # mh "Oh? You renovated?"
-    mh "Oh? You renovated?"
+    mh "哦？你们装修了？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:92
 translate chinese sm1cs_mh008_4de4b191:
 
     # mc "Yeah! We wanted to be able use the studio as, well, a studio."
-    mc "Yeah! We wanted to be able use the studio as, well, a studio."
+    mc "是啊！我们想把工作室当成，嗯，一个真正的工作室来用。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:93
 translate chinese sm1cs_mh008_6b12ea62:
 
     # mc "So we painted, cleaned it up, you know - all the usual renovation things."
-    mc "So we painted, cleaned it up, you know - all the usual renovation things."
+    mc "所以我们粉刷了、打扫了，你知道的——所有常规的装修工作。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:97
 translate chinese sm1cs_mh008_9a6d8e9d:
 
     # mh "Well, I'm glad it's a mixed use space."
-    mh "Well, I'm glad it's a mixed use space."
+    mh "嗯，我很高兴这是个多功能空间。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:100
 translate chinese sm1cs_mh008_5729c22f:
 
     # mc "A what?"
-    mc "A what?"
+    mc "什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:104
 translate chinese sm1cs_mh008_eaa18ac8:
 
     # mh "We talked about this. It's a space you can use as residential and commercial."
-    mh "We talked about this. It's a space you can use as residential and commercial."
+    mh "我们讨论过这个。就是可以同时作为住宅和商业用途的空间。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:105
 translate chinese sm1cs_mh008_32c7e5c5:
 
     # mh "You'll have to show me what you've done to the place. It's been a while since I've been there."
-    mh "You'll have to show me what you've done to the place. It's been a while since I've been there."
+    mh "你得带我去看看你们对那里做了什么改变。我有段时间没去过了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:108
 translate chinese sm1cs_mh008_3c0bbbee:
 
     # mc "Absolutely!"
-    mc "Absolutely!"
+    mc "当然！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:112
 translate chinese sm1cs_mh008_a2b2737d:
 
     # mh "And how's Stacy doing?"
-    mh "And how's Stacy doing?"
+    mh "史黛西怎么样了？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:116
 translate chinese sm1cs_mh008_5bf78e2d:
 
     # mc "She's good-"
-    mc "She's good-"
+    mc "她挺好的——"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:119
 translate chinese sm1cs_mh008_6a66d339:
 
     # mc "Oh, hang on. Just got a text."
-    mc "Oh, hang on. Just got a text."
+    mc "哦，等一下。刚收到一条短信。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:123
 translate chinese sm1cs_mh008_a21a54af:
 
     # mc "Stacy's ears must be burning - she just texted me."
-    mc "Stacy's ears must be burning - she just texted me."
+    mc "说曹操曹操到——史黛西刚给我发短信了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:126
 translate chinese sm1cs_mh008_bfbc83b7:
 
     # mh "Oh? Is everything okay?"
-    mh "Oh? Is everything okay?"
+    mh "哦？没事吧？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:129
 translate chinese sm1cs_mh008_2d39f3e1:
 
     # mc "Yeah, she was just asking me what I was up to tonight. Seems like she wants to take the night off from working."
-    mc "Yeah, she was just asking me what I was up to tonight. Seems like she wants to take the night off from working."
+    mc "没事，她只是问我今晚在做什么。看来她想今晚不工作休息一下。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:132
 translate chinese sm1cs_mh008_8c37707e:
 
     # mh "Ah."
-    mh "Ah."
+    mh "啊。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:133
 translate chinese sm1cs_mh008_94d8aa81:
 
     # mh "If you need to go, I understand."
-    mh "If you need to go, I understand."
+    mh "如果你要去的话，我理解。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:136
 translate chinese sm1cs_mh008_13247f19:
 
     # mc "What? No, no. Totally fine. I just told her I was spending time with you."
-    mc "What? No, no. Totally fine. I just told her I was spending time with you."
+    mc "什么？不，不是的。完全没事。我刚告诉她我在陪你。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:139
 translate chinese sm1cs_mh008_ce14f4e9:
 
     # mh "Well, that does make me happy to hear."
-    mh "Well, that does make me happy to hear."
+    mh "嗯，听到这个我很开心。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:142
 translate chinese sm1cs_mh008_65a00b2c:
 
     # mc "Everything okay, Lyssa?"
-    mc "Everything okay, Lyssa?"
+    mc "你还好吗，丽莎？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:145
 translate chinese sm1cs_mh008_55df942d:
 
     # mh "Yeah, it's just..."
-    mh "Yeah, it's just..."
+    mh "嗯，只是..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:146
 translate chinese sm1cs_mh008_5f528fbc:
 
     # mh "This... situation is still a little new to me. I know we haven't been monogamous in the past, but..."
-    mh "This... situation is still a little new to me. I know we haven't been monogamous in the past, but..."
+    mh "这种...情况对我来说还是有点陌生。我知道我们以前也不是一对一的关系，但是..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:149
 translate chinese sm1cs_mh008_a39ab40e:
 
     # mh "I am still concerned from time to time that whenever Stacy calls, you'll go running."
-    mh "I am still concerned from time to time that whenever Stacy calls, you'll go running."
+    mh "我还是会时不时地担心，每当史黛西打电话给你，你就会跑过去。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:150
 translate chinese sm1cs_mh008_c9f7e074:
 
     # mh "And that I'll always be second best..."
-    mh "And that I'll always be second best..."
+    mh "而我永远只是第二选择..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:154
 translate chinese sm1cs_mh008_1452db85:
 
     # mc "Lyssa, I need you to listen very closely to me."
-    mc "Lyssa, I need you to listen very closely to me."
+    mc "丽莎，我需要你认真听我说。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:155
 translate chinese sm1cs_mh008_55469cdf:
 
     # mc "You are second to none. You are incredible, sexy, smart, powerful."
-    mc "You are second to none. You are incredible, sexy, smart, powerful."
+    mc "你不是任何人的第二选择。你很了不起、性感、聪明、强大。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:158
 translate chinese sm1cs_mh008_153b5d72:
 
     # mc "And I am ready to do anything to show you that you have a place in my life, just like Stacy, and whomever else."
-    mc "And I am ready to do anything to show you that you have a place in my life, just like Stacy, and whomever else."
+    mc "我愿意做任何事来证明你在我生命中有一席之地，就像史黛西一样，还有其他任何人。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:161
 translate chinese sm1cs_mh008_84496c6c:
 
     # mh "You've already done a lot to show me that, [mcname]."
-    mh "You've already done a lot to show me that, [mcname]."
+    mh "你已经做了很多来证明这一点了，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:162
 translate chinese sm1cs_mh008_41887c41:
 
     # mh "And I appreciate it."
-    mh "And I appreciate it."
+    mh "我很感激。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:166
 translate chinese sm1cs_mh008_13918ce0:
 
     # mc "Of course, Lyssa! You're worth it to me."
-    mc "Of course, Lyssa! You're worth it to me."
+    mc "当然了，丽莎！你对我来说值得。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:170
 translate chinese sm1cs_mh008_99f483da:
 
     # mh "I guess... I'll always be a little nervous about your sister."
-    mh "I guess... I'll always be a little nervous about your sister."
+    mh "我想...我永远都会对你妹妹有点紧张。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:172
 translate chinese sm1cs_mh008_c77346a5:
 
     # mh "I guess... I'll always be a little nervous about Stacy."
-    mh "I guess... I'll always be a little nervous about Stacy."
+    mh "我想...我永远都会对史黛西有点紧张。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:175
 translate chinese sm1cs_mh008_ac2f119c:
 
     # mc "Well, I guess the best way to show you that you have nothing to worry about with Stacy is to invite her tonight!"
-    mc "Well, I guess the best way to show you that you have nothing to worry about with Stacy is to invite her tonight!"
+    mc "嗯，我想证明史黛西没什么好担心的最好办法就是今晚邀请她一起来！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:178
 translate chinese sm1cs_mh008_7ad14cd7:
 
     # mh "Wh...{w} what?"
-    mh "Wh...{w} what?"
+    mh "什...{w} 什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:182
 translate chinese sm1cs_mh008_a1939582:
 
     # mc "Yeah! Stacy can tag along and we can all spend some time together and see what it's like!"
-    mc "Yeah! Stacy can tag along and we can all spend some time together and see what it's like!"
+    mc "是啊！史黛西可以跟着一起来，我们可以一起待会儿，看看是什么感觉！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:185
 translate chinese sm1cs_mh008_97c65073:
 
     # mh "I don't know..."
-    mh "I don't know..."
+    mh "我不知道..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:191
 translate chinese sm1cs_mh008_7f9a94f7:
 
     # mc "I guess... I just want to try and help you figure everything out with Stacy and I dating too."
-    mc "I guess... I just want to try and help you figure everything out with Stacy and I dating too."
+    mc "我想...我只是想帮你理清史黛西和我约会的事。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:192
 translate chinese sm1cs_mh008_553ea0b0:
 
     # mc "Because... I don't know, I know you're always nervous about it."
-    mc "Because... I don't know, I know you're always nervous about it."
+    mc "因为...我也说不清，我知道你总是对此感到紧张。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:193
 translate chinese sm1cs_mh008_b5b8a5ae:
 
     # mc "And if I can help you get less nervous about it, then it's one less thing for you to worry about."
-    mc "And if I can help you get less nervous about it, then it's one less thing for you to worry about."
+    mc "如果我能帮你减少紧张感，那就少一件让你担心的事了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:196
 translate chinese sm1cs_mh008_7553aba3:
 
     # mh "Always trying to make everyone's lives better, huh, [mcname]?"
-    mh "Always trying to make everyone's lives better, huh, [mcname]?"
+    mh "总是想让每个人的生活变得更好，是吧，[mcname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:199
 translate chinese sm1cs_mh008_b73f6067:
 
     # mc "Just doing what I can."
-    mc "Just doing what I can."
+    mc "只是尽我所能。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:202
 translate chinese sm1cs_mh008_9da0ff92:
 
     # mh "You're right though. I do need to find a way to get more comfortable with this."
-    mh "You're right though. I do need to find a way to get more comfortable with this."
+    mh "不过你说得对。我确实需要找个办法来适应这种情况。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:203
 translate chinese sm1cs_mh008_3a9a3c92:
 
     # mh "Sure, invite Stacy for a... I guess, throuple date?"
-    mh "Sure, invite Stacy for a... I guess, throuple date?"
+    mh "好的，邀请史黛西来...我想，算是三人约会？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:206
 translate chinese sm1cs_mh008_d61f5fef:
 
     # mc "Great! I'll shoot her a text telling her to meet us there!"
-    mc "Great! I'll shoot her a text telling her to meet us there!"
+    mc "太好了！我给她发条短信让她在那儿跟我们碰头！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:209
 translate chinese sm1cs_mh008_4824b49d:
 
     # mh "That sounds great, [mcname]."
-    mh "That sounds great, [mcname]."
+    mh "听起来不错，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:214
 translate chinese sm1cs_mh008_409e34b5:
 
     # mc "Hey, if you're not comfortable with that idea, we can do it some other time."
-    mc "Hey, if you're not comfortable with that idea, we can do it some other time."
+    mc "嘿，如果你对这个主意不太自在，我们可以改天再说。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:217
 translate chinese sm1cs_mh008_c7c4c6c9:
 
     # mh "Yeah, I don't think I'm there yet, [mcname]."
-    mh "Yeah, I don't think I'm there yet, [mcname]."
+    mh "嗯，我觉得我还没准备好，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:220
 translate chinese sm1cs_mh008_1bc35450:
 
     # mc "Totally okay! No worries at all, Lyssa."
-    mc "Totally okay! No worries at all, Lyssa."
+    mc "完全没问题！别担心，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:224
 translate chinese sm1cs_mh008_409e34b5_1:
 
     # mc "Hey, if you're not comfortable with that idea, we can do it some other time."
-    mc "Hey, if you're not comfortable with that idea, we can do it some other time."
+    mc "嘿，如果你对这个主意不太自在，我们可以改天再说。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:227
 translate chinese sm1cs_mh008_c7c4c6c9_1:
 
     # mh "Yeah, I don't think I'm there yet, [mcname]."
-    mh "Yeah, I don't think I'm there yet, [mcname]."
+    mh "嗯，我觉得我还没准备好，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:230
 translate chinese sm1cs_mh008_1bc35450_1:
 
     # mc "Totally okay! No worries at all, Lyssa."
-    mc "Totally okay! No worries at all, Lyssa."
+    mc "完全没问题！别担心，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:233
 translate chinese sm1cs_mh008_2f322242:
 
     # mc "But, without any further ado, let's get to the carnival!"
-    mc "But, without any further ado, let's get to the carnival!"
+    mc "但是，话不多说，我们去嘉年华吧！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:236
 translate chinese sm1cs_mh008_bb79b11c:
