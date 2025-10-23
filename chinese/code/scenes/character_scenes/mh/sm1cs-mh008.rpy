@@ -169,7 +169,7 @@ translate chinese sm1cs_mh008_32c7e5c5:
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:108
 translate chinese sm1cs_mh008_3c0bbbee:
 
-    # mc "Absolutely!"
+    # mc "当然！"
     mc "当然！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:112
@@ -355,7 +355,7 @@ translate chinese sm1cs_mh008_b5b8a5ae:
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:196
 translate chinese sm1cs_mh008_7553aba3:
 
-    # mh "Always trying to make everyone's lives better, huh, [mcname]?"
+    # mh "Always trying to make everyone's lives better, huh, [mcname]？"
     mh "总是想让每个人的生活变得更好，是吧，[mcname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:199
@@ -434,1917 +434,1917 @@ translate chinese sm1cs_mh008_2f322242:
 translate chinese sm1cs_mh008_bb79b11c:
 
     # mh "Hahahaha, oh, [mcname]."
-    mh "Hahahaha, oh, [mcname]."
+    mh "哈哈哈哈，哦，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:254
 translate chinese sm1cs_mh008_carnival_100e00e0:
 
     # mh "Mmmmmm..."
-    mh "Mmmmmm..."
+    mh "嗯嗯嗯..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:257
 translate chinese sm1cs_mh008_carnival_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "嗯？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:262
 translate chinese sm1cs_mh008_carnival_7ca253b9:
 
     # mh "I just love that smell... popcorn, and machinery, and groups of people laughing and smiling..."
-    mh "I just love that smell... popcorn, and machinery, and groups of people laughing and smiling..."
+    mh "我就是喜欢那种气味...爆米花、机械的味道，还有一群群欢笑的人们..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:265
 translate chinese sm1cs_mh008_carnival_e775bd08:
 
     # mc "Huh, really?"
-    mc "Huh, really?"
+    mc "哦，真的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:270
 translate chinese sm1cs_mh008_carnival_c32f909a:
 
     # mh "Yeah... I have a lot of fond memories of circuses and carnivals."
-    mh "Yeah... I have a lot of fond memories of circuses and carnivals."
+    mh "是啊...我对马戏团和嘉年华有很多美好的回忆。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:273
 translate chinese sm1cs_mh008_carnival_199d4c40:
 
     # mc "That's something I didn't know about you."
-    mc "That's something I didn't know about you."
+    mc "这是我不知道的一面。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:276
 translate chinese sm1cs_mh008_carnival_410eab9d:
 
     # mh "This is one of the perks of slowing down a little bit. Learning more about each other."
-    mh "This is one of the perks of slowing down a little bit. Learning more about each other."
+    mh "这就是慢下来的好处之一。可以更多地了解彼此。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:279
 translate chinese sm1cs_mh008_carnival_4333b57b:
 
     # mc "I agree.{w} Well, why do you have so many fond memories of circuses?"
-    mc "I agree.{w} Well, why do you have so many fond memories of circuses?"
+    mc "我同意。{w} 嗯，你为什么对马戏团有这么多美好的回忆？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:284
 translate chinese sm1cs_mh008_carnival_4683f7e8:
 
     # mh "Well... my bio parents - erm, the people who actually gave birth to me, would bring me to the carnival every year."
-    mh "Well... my bio parents - erm, the people who actually gave birth to me, would bring me to the carnival every year."
+    mh "嗯...我的亲生父母——呃，就是生我的那些人，每年都会带我去嘉年华。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:285
 translate chinese sm1cs_mh008_carnival_bf61594d:
 
-    # mh "I didn't know until I was older that it was because my bio-father had successfully defended a ride manufacturer in a pretty hairy civil suit because someone had gotten pretty badly injured."
-    mh "I didn't know until I was older that it was because my bio-father had successfully defended a ride manufacturer in a pretty hairy civil suit because someone had gotten pretty badly injured."
+    # mh "直到我长大后才知道，那是因为我的亲生父亲在一场复杂的民事诉讼中成功为一家游乐设施制造商辩护，有人受了重伤。"
+    mh "直到我长大后才知道，那是因为我的亲生父亲在一场复杂的民事诉讼中成功为一家游乐设施制造商辩护，有人受了重伤。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
 translate chinese sm1cs_mh008_carnival_bc753126:
 
-    # mh "As I kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "As I kid, I just knew that we would come to the circus because we had free tickets, and..."
+    # mh "作为一个孩子，我只知道我们会来马戏团是因为我们有免费门票，而且..."
+    mh "作为一个孩子，我只知道我们会来马戏团是因为我们有免费门票，而且..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:289
 translate chinese sm1cs_mh008_carnival_0b117085:
 
-    # mh "And I think it was one of the few times I saw my bio-father relax the hardened lawyer facade and just... be my dad."
-    mh "And I think it was one of the few times I saw my bio-father relax the hardened lawyer facade and just... be my dad."
+    # mh "我想这是我少数几次看到我的亲生父亲放下强硬律师的伪装，就...做我的爸爸。"
+    mh "我想这是我少数几次看到我的亲生父亲放下强硬律师的伪装，就...做我的爸爸。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:292
 translate chinese sm1cs_mh008_carnival_e5731e1e:
 
-    # mc "I... I didn't know that."
-    mc "I... I didn't know that."
+    # mc "我...我不知道这些。"
+    mc "我...我不知道这些。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:297
 translate chinese sm1cs_mh008_carnival_8db3376a:
 
-    # mh "It's okay. I've been... guarded about it most of my life."
-    mh "It's okay. I've been... guarded about it most of my life."
+    # mh "没关系。我大半辈子都...对此很保守。"
+    mh "没关系。我大半辈子都...对此很保守。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:300
 translate chinese sm1cs_mh008_carnival_bcf6f8e8:
 
-    # mc "I also... didn't know that you had been adopted."
-    mc "I also... didn't know that you had been adopted."
+    # mc "我也...不知道你是被收养的。"
+    mc "我也...不知道你是被收养的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:303
 translate chinese sm1cs_mh008_carnival_c681f59d:
 
-    # mh "That's... another thing I've been pretty guarded about."
-    mh "That's... another thing I've been pretty guarded about."
+    # mh "这是...我一直很保守的另一件事。"
+    mh "这是...我一直很保守的另一件事。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:306
 translate chinese sm1cs_mh008_carnival_e1b60d67:
 
-    # mc "Can I ask what happened?"
-    mc "Can I ask what happened?"
+    # mc "我能问问发生了什么吗？"
+    mc "我能问问发生了什么吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:309
 translate chinese sm1cs_mh008_carnival_00ba0ae6:
 
-    # mh "Oh, it's all pretty mundane. They were coming home from some gala and were struck by a drunk driver."
-    mh "Oh, it's all pretty mundane. They were coming home from some gala and were struck by a drunk driver."
+    # mh "哦，这都很平常。他们从某个晚会回家的路上被一个醉酒司机撞了。"
+    mh "哦，这都很平常。他们从某个晚会回家的路上被一个醉酒司机撞了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:310
 translate chinese sm1cs_mh008_carnival_39cdc1e9:
 
-    # mh "I was pretty young... this all happened a long time ago."
-    mh "I was pretty young... this all happened a long time ago."
+    # mh "我当时很小...这都是很久以前的事了。"
+    mh "我当时很小...这都是很久以前的事了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:313
 translate chinese sm1cs_mh008_carnival_12c052b6:
 
-    # mh "And then I was adopted by a lovely couple, and they took good care of me."
-    mh "And then I was adopted by a lovely couple, and they took good care of me."
+    # mh "然后我被一对很好的夫妇收养了，他们很照顾我。"
+    mh "然后我被一对很好的夫妇收养了，他们很照顾我。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:314
 translate chinese sm1cs_mh008_carnival_a81dcc3b:
 
-    # mh "I had told them about my... family's trips to the carnival. So every summer, they would make sure to take me."
-    mh "I had told them about my... family's trips to the carnival. So every summer, they would make sure to take me."
+    # mh "我告诉过他们我...家人去嘉年华的事。所以每年夏天，他们都会确保带我去。"
+    mh "我告诉过他们我...家人去嘉年华的事。所以每年夏天，他们都会确保带我去。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:317
 translate chinese sm1cs_mh008_carnival_e26f48c7:
 
-    # mh "Mmmmm..."
-    mh "Mmmmm..."
+    # mh "嗯嗯嗯..."
+    mh "嗯嗯嗯..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:320
 translate chinese sm1cs_mh008_carnival_2d68adc4:
 
-    # mct "Man... there's a lot about Lyssa I don't really know."
-    mct "Man... there's a lot about Lyssa I don't really know."
+    # mct "天啊...关于丽莎我还有很多不了解的。"
+    mct "天啊...关于丽莎我还有很多不了解的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:321
 translate chinese sm1cs_mh008_carnival_1c7c71a8:
 
-    # mct "Like... a lot a lot. Wow..."
-    mct "Like... a lot a lot. Wow..."
+    # mct "就是...真的很多。哇..."
+    mct "就是...真的很多。哇..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:324
 translate chinese sm1cs_mh008_carnival_fc31d306:
 
-    # mct "I can't believe she went through all that. I always knew she was strong but..."
-    mct "I can't believe she went through all that. I always knew she was strong but..."
+    # mct "我不敢相信她经历了这么多。我一直知道她很坚强，但是..."
+    mct "我不敢相信她经历了这么多。我一直知道她很坚强，但是..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:325
 translate chinese sm1cs_mh008_carnival_32aafe18:
 
-    # mct "Damn."
-    mct "Damn."
+    # mct "该死。"
+    mct "该死。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:328
 translate chinese sm1cs_mh008_carnival_e9d39345:
 
-    # mh "Oh, don't do that, [mcname]."
-    mh "Oh, don't do that, [mcname]."
+    # mh "哦，别这样，[mcname]。"
+    mh "哦，别这样，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:331
 translate chinese sm1cs_mh008_carnival_94507c05:
 
-    # mc "Do what?"
-    mc "Do what?"
+    # mc "别怎样？"
+    mc "别怎样？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:334
 translate chinese sm1cs_mh008_carnival_ef6020dd:
 
-    # mh "Start giving me pity."
-    mh "Start giving me pity."
+    # mh "开始同情我。"
+    mh "开始同情我。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:337
 translate chinese sm1cs_mh008_carnival_e522c30a:
 
-    # mc "What! No, no. That's not what I was thinking."
-    mc "What! No, no. That's not what I was thinking."
+    # mc "什么！不，不是的。我不是那个意思。"
+    mc "什么！不，不是的。我不是那个意思。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:340
 translate chinese sm1cs_mh008_carnival_7c916c3a:
 
-    # mh "You sure? Because you had that look on your face everyone gets when I tell them about how I grew up."
-    mh "You sure? Because you had that look on your face everyone gets when I tell them about how I grew up."
+    # mh "你确定？因为你脸上的表情和每个人听到我成长经历时一样。"
+    mh "你确定？因为你脸上的表情和每个人听到我成长经历时一样。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:343
 translate chinese sm1cs_mh008_carnival_79736694:
 
-    # mc "No. I was thinking about...{w} All this time together, and I'm still learning more about you."
-    mc "No. I was thinking about...{w} All this time together, and I'm still learning more about you."
+    # mc "不是的。我在想...{w} 我们在一起这么久了，我还在不断了解你。"
+    mc "不是的。我在想...{w} 我们在一起这么久了，我还在不断了解你。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:344
 translate chinese sm1cs_mh008_carnival_12dff004:
 
-    # mc "And I'm glad I am. There's a lot of things now that make a lot more sense."
-    mc "And I'm glad I am. There's a lot of things now that make a lot more sense."
+    # mc "我很高兴能这样。现在很多事情都说得通了。"
+    mc "我很高兴能这样。现在很多事情都说得通了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:347
 translate chinese sm1cs_mh008_carnival_e774c3dd:
 
-    # mh "Being an adopted orphan will make a person a bit more guarded, haha."
-    mh "Being an adopted orphan will make a person a bit more guarded, haha."
+    # mh "作为一个被收养的孤儿会让人更加保守，哈哈。"
+    mh "作为一个被收养的孤儿会让人更加保守，哈哈。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:350
 translate chinese sm1cs_mh008_carnival_e5e74782:
 
-    # mc "That, but it also explains why you are such a strong, fierce woman."
-    mc "That, but it also explains why you are such a strong, fierce woman."
+    # mc "是这样，但这也解释了为什么你是如此坚强、勇敢的女人。"
+    mc "是这样，但这也解释了为什么你是如此坚强、勇敢的女人。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:353
 translate chinese sm1cs_mh008_carnival_3ed77072:
 
     # mh "Thank you, [mcname]."
-    mh "Thank you, [mcname]."
+    mh "谢谢你，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:356
 translate chinese sm1cs_mh008_carnival_8dd9efd1:
 
-    # mc "Of course, Lyssa."
-    mc "Of course, Lyssa."
+    # mc "不客气，丽莎。"
+    mc "不客气，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:359
 translate chinese sm1cs_mh008_carnival_2c87f249:
 
-    # mc "Well, hey - no carnival trip is complete without popcorn!"
-    mc "Well, hey - no carnival trip is complete without popcorn!"
+    # mc "嗯，嘿——没有爆米花的嘉年华之旅是不完整的！"
+    mc "嗯，嘿——没有爆米花的嘉年华之旅是不完整的！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:362
 translate chinese sm1cs_mh008_carnival_6ecd7401:
 
     # mh "[mcname]-"
-    mh "[mcname]-"
+    mh "[mcname]——"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:366
 translate chinese sm1cs_mh008_carnival_94c3fd69:
 
-    # mc "Nuh uh, I'm not going to listen to any arguments from the defense! I am getting you some popcorn."
-    mc "Nuh uh, I'm not going to listen to any arguments from the defense! I am getting you some popcorn."
+    # mc "不不不，我不会听辩护方的任何辩解！我要给你买爆米花。"
+    mc "不不不，我不会听辩护方的任何辩解！我要给你买爆米花。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:370
 translate chinese sm1cs_mh008_carnival_48dea7e0:
 
-    # mc "Yeah, I'll take one, uhm, large popcorn?"
-    mc "Yeah, I'll take one, uhm, large popcorn?"
+    # mc "是的，我要一份，嗯，大份爆米花？"
+    mc "是的，我要一份，嗯，大份爆米花？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:378
 translate chinese sm1cs_mh008_carnival_4c6100b9:
 
-    # mc "There ain't nothing like carnival popcorn!"
-    mc "There ain't nothing like carnival popcorn!"
+    # mc "没什么能比得上嘉年华的爆米花！"
+    mc "没什么能比得上嘉年华的爆米花！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:381
 translate chinese sm1cs_mh008_carnival_03fd9102:
 
-    # mh "God, you are such a goof sometimes."
-    mh "God, you are such a goof sometimes."
+    # mh "天啊，你有时候真是个傻瓜。"
+    mh "天啊，你有时候真是个傻瓜。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:384
 translate chinese sm1cs_mh008_carnival_a0b00a76:
 
-    # mc "Yeah, but you like it."
-    mc "Yeah, but you like it."
+    # mc "是啊，但你喜欢这样。"
+    mc "是啊，但你喜欢这样。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:387
 translate chinese sm1cs_mh008_carnival_0a7b0987:
 
-    # mh "Admittedly, I do."
-    mh "Admittedly, I do."
+    # mh "我承认，确实喜欢。"
+    mh "我承认，确实喜欢。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:388
 translate chinese sm1cs_mh008_carnival_f16dac38:
 
-    # mh "Because you're also quite the charmer."
-    mh "Because you're also quite the charmer."
+    # mh "因为你也很有魅力。"
+    mh "因为你也很有魅力。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:391
 translate chinese sm1cs_mh008_carnival_4beaaaf5:
 
-    # mc "Awe shucks, Lyssa."
-    mc "Awe shucks, Lyssa."
+    # mc "哎呀，丽莎。"
+    mc "哎呀，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:394
 translate chinese sm1cs_mh008_carnival_c651eae7:
 
-    # mh "Uh huh."
-    mh "Uh huh."
+    # mh "嗯哼。"
+    mh "嗯哼。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:403
 translate chinese sm1cs_mh008_date_078814f4:
 
-    # mh "So... you texted Stacy?"
-    mh "So... you texted Stacy?"
+    # mh "所以...你给史黛西发短信了？"
+    mh "所以...你给史黛西发短信了？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:406
 translate chinese sm1cs_mh008_date_14c2f4fe:
 
-    # mc "I did. She said she had to shower and she would be on her way."
-    mc "I did. She said she had to shower and she would be on her way."
+    # mc "发了。她说她要洗个澡，然后就过来。"
+    mc "发了。她说她要洗个澡，然后就过来。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:407
 translate chinese sm1cs_mh008_date_5be838a0:
 
-    # mc "So we definitely have some time to kill before she gets here."
-    mc "So we definitely have some time to kill before she gets here."
+    # mc "所以在她到之前我们肯定有些时间可以消磨。"
+    mc "所以在她到之前我们肯定有些时间可以消磨。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:411
 translate chinese sm1cs_mh008_date_677cdf8d:
 
-    # mc "So, what would you like to do now that we have secured the best popcorn that you can get."
-    mc "So, what would you like to do now that we have secured the best popcorn that you can get."
+    # mc "那么，既然我们已经买到了最好的爆米花，你想做什么呢。"
+    mc "那么，既然我们已经买到了最好的爆米花，你想做什么呢。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:414
 translate chinese sm1cs_mh008_date_45df555d:
 
-    # mh "Hahahaha!"
-    mh "Hahahaha!"
+    # mh "哈哈哈哈！"
+    mh "哈哈哈哈！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:417
 translate chinese sm1cs_mh008_date_770fe6fd:
 
-    # mh "How about some games?"
-    mh "How about some games?"
+    # mh "玩些游戏怎么样？"
+    mh "玩些游戏怎么样？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:420
 translate chinese sm1cs_mh008_date_8693c428:
 
-    # mc "Yeah, that sounds great! I can try and win you a giant stuffed teddy!"
-    mc "Yeah, that sounds great! I can try and win you a giant stuffed teddy!"
+    # mc "好啊，听起来很棒！我可以试着给你赢个巨大的毛绒泰迪熊！"
+    mc "好啊，听起来很棒！我可以试着给你赢个巨大的毛绒泰迪熊！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:424
 translate chinese sm1cs_mh008_date_225bb283:
 
     # mh "Did you know that \"teddy bears\" are named after the 26th US President, Theodore Roosevelt?"
-    mh "Did you know that \"teddy bears\" are named after the 26th US President, Theodore Roosevelt?"
+    mh "你知道吗，'泰迪熊'是以第26任美国总统西奥多·罗斯福的名字命名的？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:427
 translate chinese sm1cs_mh008_date_9ab85d26:
 
-    # mc "What? Seriously?"
-    mc "What? Seriously?"
+    # mc "什么？真的吗？"
+    mc "什么？真的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
 translate chinese sm1cs_mh008_date_6007f5df:
 
-    # mh "Yeah. it's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Yeah. it's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+    # mh "是的。这是个奇怪的故事，简而言之——罗斯福先生拒绝射杀一只被绑住的熊，然后有人为此画了一幅政治漫画。"
+    mh "是的。这是个奇怪的故事，简而言之——罗斯福先生拒绝射杀一只被绑住的熊，然后有人为此画了一幅政治漫画。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:431
 translate chinese sm1cs_mh008_date_5e0303df:
 
-    # mh "And then a toymaker, Morris Michtom, saw the cartoon and wanted to make a cute, stuffed bear."
-    mh "And then a toymaker, Morris Michtom, saw the cartoon and wanted to make a cute, stuffed bear."
+    # mh "然后一个玩具制造商莫里斯·米奇托姆看到了这幅漫画，想制作一个可爱的毛绒熊。"
+    mh "然后一个玩具制造商莫里斯·米奇托姆看到了这幅漫画，想制作一个可爱的毛绒熊。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:434
 translate chinese sm1cs_mh008_date_8ec977b3:
 
     # mh "He sold them as \"Teddy's Bears\", which is where they got the name."
-    mh "He sold them as \"Teddy's Bears\", which is where they got the name."
+    mh "他把它们命名为'泰迪熊'来出售，这就是名字的由来。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:435
 translate chinese sm1cs_mh008_date_0c5b3600:
 
-    # mh "And it's also why everyone started calling him Teddy Roosevelt. Because of the bear."
-    mh "And it's also why everyone started calling him Teddy Roosevelt. Because of the bear."
+    # mh "这也是为什么每个人都开始叫他泰迪·罗斯福。因为这只熊。"
+    mh "这也是为什么每个人都开始叫他泰迪·罗斯福。因为这只熊。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:438
 translate chinese sm1cs_mh008_date_9410c7e6:
 
-    # mc "Huh... that's a weird fun fact."
-    mc "Huh... that's a weird fun fact."
+    # mc "呃...真是个奇怪的趣事。"
+    mc "呃...真是个奇怪的趣事。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:441
 translate chinese sm1cs_mh008_date_c1c53635:
 
-    # mh "You learn lots of weird things on the road of life."
-    mh "You learn lots of weird things on the road of life."
+    # mh "人生路上会学到很多奇怪的东西。"
+    mh "人生路上会学到很多奇怪的东西。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:451
 translate chinese sm1ms_mh008_game_0ec5aa4b:
 
-    # "Carnival Worker" "Step right up! See if you have what it takes to take home one of these adorable, stuffed animals!"
-    "Carnival Worker" "Step right up! See if you have what it takes to take home one of these adorable, stuffed animals!"
+    # "Carnival Worker" "快来试试！看看你有没有本事把这些可爱的毛绒玩具带回家！"
+    "Carnival Worker" "快来试试！看看你有没有本事把这些可爱的毛绒玩具带回家！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:454
 translate chinese sm1ms_mh008_game_d9246fd0:
 
-    # mc "What do I have to do to win one?"
-    mc "What do I have to do to win one?"
+    # mc "我要怎么做才能赢一个？"
+    mc "我要怎么做才能赢一个？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:457
 translate chinese sm1ms_mh008_game_782b7512:
 
-    # "Carnival Worker" "It's simple! You got five shots with our air rifle, and you just need to knock down three of the targets!"
-    "Carnival Worker" "It's simple! You got five shots with our air rifle, and you just need to knock down three of the targets!"
+    # "Carnival Worker" "很简单！你可以用我们的气枪射五次，只需要打倒三个目标就行！"
+    "Carnival Worker" "很简单！你可以用我们的气枪射五次，只需要打倒三个目标就行！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:460
 translate chinese sm1ms_mh008_game_c76ac7c5:
 
-    # mc "Easy! I can do that!"
-    mc "Easy! I can do that!"
+    # mc "简单！我能做到！"
+    mc "简单！我能做到！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:463
 translate chinese sm1ms_mh008_game_35c81463:
 
-    # "Carnival Worker" "Yeah! Nothing to it! Show me what you got!"
-    "Carnival Worker" "Yeah! Nothing to it! Show me what you got!"
+    # "Carnival Worker" "没错！小菜一碟！让我看看你的本事！"
+    "Carnival Worker" "没错！小菜一碟！让我看看你的本事！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:467
 translate chinese sm1ms_mh008_game_c904ccf1:
 
-    # mct "All right, [mcname]. Let's win Lyssa this bear!"
-    mct "All right, [mcname]. Let's win Lyssa this bear!"
+    # mct "好的，[mcname]。让我们为丽莎赢得这只熊！"
+    mct "好的，[mcname]。让我们为丽莎赢得这只熊！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:470
 translate chinese sm1ms_mh008_game_8a88410b:
 
-    # "Bang. Bang. Bang."
-    "Bang. Bang. Bang."
+    # "砰。砰。砰。"
+    "砰。砰。砰。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:478
 translate chinese sm1ms_mh008_game_8701f4f1:
 
-    # "Carnival Worker" "Well, it seems like you missed all three shots! Would you like to try again?"
-    "Carnival Worker" "Well, it seems like you missed all three shots! Would you like to try again?"
+    # "Carnival Worker" "嗯，看来你三枪都没打中！你想再试一次吗？"
+    "Carnival Worker" "嗯，看来你三枪都没打中！你想再试一次吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:481
 translate chinese sm1ms_mh008_game_3c0bbbee:
 
-    # mc "Absolutely!"
-    mc "Absolutely!"
+    # mc "当然！"
+    mc "当然！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:484
 translate chinese sm1ms_mh008_game_b0f92f45:
 
-    # "Carnival Worker" "All right, have at her!"
-    "Carnival Worker" "All right, have at her!"
+    # "Carnival Worker" "好的，开始吧！"
+    "Carnival Worker" "好的，开始吧！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:487
 translate chinese sm1ms_mh008_game_8a88410b_1:
 
-    # "Bang. Bang. Bang."
-    "Bang. Bang. Bang."
+    # "砰。砰。砰。"
+    "砰。砰。砰。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:492
 translate chinese sm1ms_mh008_game_b8b01170:
 
-    # mct "Shit..."
-    mct "Shit..."
+    # mct "该死..."
+    mct "该死..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:495
 translate chinese sm1ms_mh008_game_b0674b22:
 
-    # "Carnival Worker" "And three more misses! Wow!{w} What about you, miss? Would you like to give it a go?"
-    "Carnival Worker" "And three more misses! Wow!{w} What about you, miss? Would you like to give it a go?"
+    # "Carnival Worker" "又是三次没打中！哇！{w} 你呢，小姐？你想试试吗？"
+    "Carnival Worker" "又是三次没打中！哇！{w} 你呢，小姐？你想试试吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:498
 translate chinese sm1ms_mh008_game_fb8892f4:
 
-    # mh "Sure. How much to play?"
-    mh "Sure. How much to play?"
+    # mh "当然。玩一次多少钱？"
+    mh "当然。玩一次多少钱？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:501
 translate chinese sm1ms_mh008_game_1ad4d7ce:
 
-    # mc "Don't worry, Lyssa. I'll pay for it."
-    mc "Don't worry, Lyssa. I'll pay for it."
+    # mc "别担心，丽莎。我来付钱。"
+    mc "别担心，丽莎。我来付钱。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:504
 translate chinese sm1ms_mh008_game_dba3a987:
 
-    # "Carnival Worker" "And fire awwaaayyyy when you're ready!"
-    "Carnival Worker" "And fire awwaaayyyy when you're ready!"
+    # "Carnival Worker" "准备好了就开火吧！"
+    "Carnival Worker" "准备好了就开火吧！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:507
 translate chinese sm1ms_mh008_game_d8ed4d23:
 
-    # "Clang. Clang. Clang. Clang!"
-    "Clang. Clang. Clang. Clang!"
+    # "铛。铛。铛。铛！"
+    "铛。铛。铛。铛！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:517
 translate chinese sm1ms_mh008_game_5a299d56:
 
-    # "Carnival Worker" "Holy guacamole... you hit all three targets! {size=*0.5}Corporate said that it was impossible! What the hell...{/size}"
-    "Carnival Worker" "Holy guacamole... you hit all three targets! {size=*0.5}Corporate said that it was impossible! What the hell...{/size}"
+    # "Carnival Worker" "我的天哪...你三个目标都打中了！{size=*0.5}公司说这是不可能的！搞什么...{/size}"
+    "Carnival Worker" "我的天哪...你三个目标都打中了！{size=*0.5}公司说这是不可能的！搞什么...{/size}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:520
 translate chinese sm1ms_mh008_game_08371f5e:
 
-    # mh "I believe I am owed a teddy bear?"
-    mh "I believe I am owed a teddy bear?"
+    # mh "我想你该给我一只泰迪熊了吧？"
+    mh "我想你该给我一只泰迪熊了吧？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:523
 translate chinese sm1ms_mh008_game_b1582b3e:
 
-    # "Carnival Worker" "Oh, uhm... you most definitely are..."
-    "Carnival Worker" "Oh, uhm... you most definitely are..."
+    # "Carnival Worker" "哦，嗯...你当然应得..."
+    "Carnival Worker" "哦，嗯...你当然应得..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:527
 translate chinese sm1ms_mh008_game_9d53957e:
 
-    # "Carnival Worker" "Here you go..."
-    "Carnival Worker" "Here you go..."
+    # "Carnival Worker" "给你..."
+    "Carnival Worker" "给你..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:530
 translate chinese sm1ms_mh008_game_ffc6a815:
 
-    # mh "Thank you."
-    mh "Thank you."
+    # mh "谢谢。"
+    mh "谢谢。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:533
 translate chinese sm1ms_mh008_game_8f7bf1f9:
 
-    # mc "Wow, Lyssa... I didn't realize you were so good at shooting."
-    mc "Wow, Lyssa... I didn't realize you were so good at shooting."
+    # mc "哇，丽莎...我不知道你射击这么厉害。"
+    mc "哇，丽莎...我不知道你射击这么厉害。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:536
 translate chinese sm1ms_mh008_game_682af51a:
 
-    # mh "One of the few perks of coming to the carnival once or twice a year since you were a youngster."
-    mh "One of the few perks of coming to the carnival once or twice a year since you were a youngster."
+    # mh "从小每年来嘉年华一两次的少数好处之一。"
+    mh "从小每年来嘉年华一两次的少数好处之一。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:539
 translate chinese sm1ms_mh008_game_0f3910e9:
 
-    # mc "Yeah. I also guess I need to do some target practice. Can't let you win your own stuffed animals."
-    mc "Yeah. I also guess I need to do some target practice. Can't let you win your own stuffed animals."
+    # mc "是啊。我想我也需要练习射击了。不能让你自己赢毛绒玩具。"
+    mc "是啊。我想我也需要练习射击了。不能让你自己赢毛绒玩具。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:542
 translate chinese sm1ms_mh008_game_4e06cb34:
 
-    # mh "It's okay. You tried, which is really what matters, [mcname]."
-    mh "It's okay. You tried, which is really what matters, [mcname]."
+    # mh "没关系。你试过了，这才是真正重要的，[mcname]。"
+    mh "没关系。你试过了，这才是真正重要的，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:543
 translate chinese sm1ms_mh008_game_f55a8ff9:
 
-    # mh "And you continue to try, try your hardest. And I see that."
-    mh "And you continue to try, try your hardest. And I see that."
+    # mh "而且你一直在努力，竭尽全力。我看到了。"
+    mh "而且你一直在努力，竭尽全力。我看到了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:544
 translate chinese sm1ms_mh008_game_c18d9c78:
 
-    # mh "And that's what I... like about you {b}most{/b}."
-    mh "And that's what I... like about you {b}most{/b}."
+    # mh "这就是我...最喜欢你的地方。"
+    mh "这就是我...最喜欢你的地方。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:547
 translate chinese sm1ms_mh008_game_1cde81de:
 
     # mc "Thank you, Lyssa."
-    mc "Thank you, Lyssa."
+    mc "谢谢你，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:552
 translate chinese sm1ms_mh008_game_0e20eaeb:
 
-    # mc "Oh, it looks like Stacy is just about to get here. Should we head over to the entrance to meet her?"
-    mc "Oh, it looks like Stacy is just about to get here. Should we head over to the entrance to meet her?"
+    # mc "哦，看来史黛西快到了。我们要不要去入口接她？"
+    mc "哦，看来史黛西快到了。我们要不要去入口接她？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:555
 translate chinese sm1ms_mh008_game_f5ff0895:
 
-    # mh "Yeah, make everyone's life easier instead of making her look for us."
-    mh "Yeah, make everyone's life easier instead of making her look for us."
+    # mh "好啊，省得让她找我们，大家都轻松。"
+    mh "好啊，省得让她找我们，大家都轻松。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:558
 translate chinese sm1ms_mh008_game_df45edbd:
 
-    # mc "What, you don't want to play carnival hide-and-seek with Stacy?"
-    mc "What, you don't want to play carnival hide-and-seek with Stacy?"
+    # mc "什么，你不想和史黛西玩嘉年华捉迷藏吗？"
+    mc "什么，你不想和史黛西玩嘉年华捉迷藏吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:559
 translate chinese sm1ms_mh008_game_4d649574:
 
-    # mc "I bet we would kick her ass in some hide-and-seek!"
-    mc "I bet we would kick her ass in some hide-and-seek!"
+    # mc "我打赌我们玩捉迷藏能把她打败！"
+    mc "我打赌我们玩捉迷藏能把她打败！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:562
 translate chinese sm1ms_mh008_game_e4106ae0:
 
-    # mh "Come on, you goof."
-    mh "Come on, you goof."
+    # mh "走吧，傻瓜。"
+    mh "走吧，傻瓜。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:590
 translate chinese sm1cs_mh008_couple_carousel_f3d441b0:
 
-    # mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
-    mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
+    # mc "嗯，没有摩天轮之旅的嘉年华之旅是不完整的！"
+    mc "嗯，没有摩天轮之旅的嘉年华之旅是不完整的！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:593
 translate chinese sm1cs_mh008_couple_carousel_45412da6:
 
-    # mh "I couldn't agree more, [mcname]."
-    mh "I couldn't agree more, [mcname]."
+    # mh "我非常同意，[mcname]。"
+    mh "我非常同意，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:608
 translate chinese sm1cs_mh008_couple_carousel_4467d5d8:
 
-    # mh "I hope you're not afraid of heights, [mcname]!"
-    mh "I hope you're not afraid of heights, [mcname]!"
+    # mh "我希望你不怕高，[mcname]！"
+    mh "我希望你不怕高，[mcname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:611
 translate chinese sm1cs_mh008_couple_carousel_3de751db:
 
-    # mc "Nope! Not afraid of them at all."
-    mc "Nope! Not afraid of them at all."
+    # mc "不怕！一点也不怕。"
+    mc "不怕！一点也不怕。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:614
 translate chinese sm1cs_mh008_couple_carousel_38fb3ff4:
 
-    # mh "Hehehe. Are you afraid of anything? Some of the things I've seen you do... I think of you as fearless."
-    mh "Hehehe. Are you afraid of anything? Some of the things I've seen you do... I think of you as fearless."
+    # mh "呵呵呵。你有什么害怕的吗？我看到你做的一些事情...我觉得你很无畏。"
+    mh "呵呵呵。你有什么害怕的吗？我看到你做的一些事情...我觉得你很无畏。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:617
 translate chinese sm1cs_mh008_couple_carousel_349fb02a:
 
-    # mc "I... I do have one fear."
-    mc "I... I do have one fear."
+    # mc "我...我确实有一个恐惧。"
+    mc "我...我确实有一个恐惧。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:620
 translate chinese sm1cs_mh008_couple_carousel_b635efb0:
 
-    # mh "Oh yeah? And what's that."
-    mh "Oh yeah? And what's that."
+    # mh "哦是吗？是什么。"
+    mh "哦是吗？是什么。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:623
 translate chinese sm1cs_mh008_couple_carousel_5efa3136:
 
-    # mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
-    mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
+    # mc "我...我害怕花生酱粘在我的上颚。"
+    mc "我...我害怕花生酱粘在我的上颚。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:626
 translate chinese sm1cs_mh008_couple_carousel_84217137:
 
-    # mh "Excuse me... you're afraid of..."
-    mh "Excuse me... you're afraid of..."
+    # mh "请原谅...你害怕的是..."
+    mh "请原谅...你害怕的是..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:629
 translate chinese sm1cs_mh008_couple_carousel_7d735c19:
 
-    # mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
-    mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
+    # mc "花生酱粘在我的上颚。是的。"
+    mc "花生酱粘在我的上颚。是的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:630
 translate chinese sm1cs_mh008_couple_carousel_8486795c:
 
-    # mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
-    mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
+    # mc "因为我可能在吃花生酱果酱三明治，然后有人会想跟我说话。"
+    mc "因为我可能在吃花生酱果酱三明治，然后有人会想跟我说话。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:633
 translate chinese sm1cs_mh008_couple_carousel_ccd20cf6:
 
-    # mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
-    mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
+    # mc "然后我嘴里就会有花生酱，我就不能说话了。"
+    mc "然后我嘴里就会有花生酱，我就不能说话了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:634
 translate chinese sm1cs_mh008_couple_carousel_831928cf:
 
-    # mc "Or it'll sound super weird!"
-    mc "Or it'll sound super weird!"
+    # mc "或者听起来会很奇怪！"
+    mc "或者听起来会很奇怪！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:637
 translate chinese sm1cs_mh008_couple_carousel_c60a8f92:
 
-    # mh "I, uhm - uhm-"
-    mh "I, uhm - uhm-"
+    # mh "我，呃——呃——"
+    mh "我，呃——呃——"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:640
 translate chinese sm1cs_mh008_couple_carousel_05d4025a:
 
-    # mc "What! It's a very real fear!"
-    mc "What! It's a very real fear!"
+    # mc "什么！这是一个非常真实的恐惧！"
+    mc "什么！这是一个非常真实的恐惧！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:643
 translate chinese sm1cs_mh008_couple_carousel_cb11c524:
 
-    # mh "Hahahahaha!"
-    mh "Hahahahaha!"
+    # mh "哈哈哈哈哈！"
+    mh "哈哈哈哈哈！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:646
 translate chinese sm1cs_mh008_couple_carousel_a9094a0b:
 
     # mc "And what, you're totally fearless, Lyssa?!?"
-    mc "And what, you're totally fearless, Lyssa?!?"
+    mc "那么，你们俩完全不怕任何东西吗，丽莎？！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:649
 translate chinese sm1cs_mh008_couple_carousel_5d13dc5e:
 
     # mh "No, I wouldn't say that. I'm scared of some things. I used to get really bad vertigo, but I think I've finally gotten over that."
-    mh "No, I wouldn't say that. I'm scared of some things. I used to get really bad vertigo, but I think I've finally gotten over that."
+    mh "不，我不会那么说。我也怕一些东西。我以前有很严重的眩晕，但我想我终于克服了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:650
 translate chinese sm1cs_mh008_couple_carousel_13be126e:
 
-    # mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
-    mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
+    # mh "而且我不会说我怕小丑，我只是对他们有...反感。"
+    mh "而且我不会说我怕小丑，我只是对他们有...反感。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:653
 translate chinese sm1cs_mh008_couple_carousel_ffcb4e75:
 
     # mc "There's only one clown to be afraid of."
-    mc "There's only one clown to be afraid of."
+    mc "只有一个小丑值得害怕。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:656
 translate chinese sm1cs_mh008_couple_carousel_a161e15d:
 
-    # mh "Oh yeah? And which one is that?"
-    mh "Oh yeah? And which one is that?"
+    # mh "哦是吗？是哪一个？"
+    mh "哦是吗？是哪一个？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:659
 translate chinese sm1cs_mh008_couple_carousel_4e784502:
 
-    # mc "Donald. MacDonald."
-    mc "Donald. MacDonald."
+    # mc "唐纳德。麦克唐纳。"
+    mc "唐纳德。麦克唐纳。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:662
 translate chinese sm1cs_mh008_couple_carousel_8f5e4b82:
 
-    # mh "Like... the mascot for the fast food place?"
-    mh "Like... the mascot for the fast food place?"
+    # mh "就像...快餐店的吉祥物？"
+    mh "就像...快餐店的吉祥物？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:665
 translate chinese sm1cs_mh008_couple_carousel_03035655:
 
-    # mc "Yes. He's the most lethal clown in history."
-    mc "Yes. He's the most lethal clown in history."
+    # mc "是的。他是历史上最致命的小丑。"
+    mc "是的。他是历史上最致命的小丑。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:666
 translate chinese sm1cs_mh008_couple_carousel_890c0854:
 
-    # mc "He's killed more people than Gacy."
-    mc "He's killed more people than Gacy."
+    # mc "他杀的人比加西还多。"
+    mc "他杀的人比加西还多。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:669
 translate chinese sm1cs_mh008_couple_carousel_1e99bd94:
 
-    # mh "You know... you've got a good point there."
-    mh "You know... you've got a good point there."
+    # mh "你知道...你说得有道理。"
+    mh "你知道...你说得有道理。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:672
 translate chinese sm1cs_mh008_couple_carousel_d64fffa8:
 
-    # mc "And he just looks creepy as hell."
-    mc "And he just looks creepy as hell."
+    # mc "而且他看起来阴森恐怖。"
+    mc "而且他看起来阴森恐怖。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:675
 translate chinese sm1cs_mh008_couple_carousel_83fc393b:
 
-    # mh "Hehehe - yeah, you're not wrong there either."
-    mh "Hehehe - yeah, you're not wrong there either."
+    # mh "呵呵呵——是啊，你这点也没说错。"
+    mh "呵呵呵——是啊，你这点也没说错。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:678
 translate chinese sm1cs_mh008_couple_carousel_46c747e9:
 
-    # mh "Wow... sometimes I forget how beautiful Crowning is..."
-    mh "Wow... sometimes I forget how beautiful Crowning is..."
+    # mh "哇...有时候我都忘了Crowning有多美..."
+    mh "哇...有时候我都忘了Crowning有多美..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:681
 translate chinese sm1cs_mh008_couple_carousel_6780655c:
 
-    # mc "Yeah, the sights are really something..."
-    mc "Yeah, the sights are really something..."
+    # mc "是啊，景色真的很壮观..."
+    mc "是啊，景色真的很壮观..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:684
 translate chinese sm1cs_mh008_couple_carousel_18c82454:
 
-    # mh "You're not even looking out at the city, [mcname]."
-    mh "You're not even looking out at the city, [mcname]."
+    # mh "你根本没在看城市，[mcname]。"
+    mh "你根本没在看城市，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:687
 translate chinese sm1cs_mh008_couple_carousel_974505ae:
 
-    # mc "Why would I do that?"
-    mc "Why would I do that?"
+    # mc "我为什么要看城市？"
+    mc "我为什么要看城市？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:690
 translate chinese sm1cs_mh008_couple_carousel_c0664f99:
 
-    # mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
-    mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
+    # mc "因为，就我而言，我能看到的最美的东西，就是你，丽莎。"
+    mc "因为，就我而言，我能看到的最美的东西，就是你，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:693
 translate chinese sm1cs_mh008_couple_carousel_aa0a328b:
 
-    # mh "Oh, you..."
-    mh "Oh, you..."
+    # mh "哦，你..."
+    mh "哦，你..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:704
 translate chinese sm1cs_mh008_couple_carousel_d7afdc3b:
 
-    # mc "I-"
-    mc "I-"
+    # mc "我——"
+    mc "我——"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:707
 translate chinese sm1cs_mh008_couple_carousel_c7cf2826:
 
-    # mh "[mcname]?"
-    mh "[mcname]?"
+    # mh "[mcname]？"
+    mh "[mcname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:710
 translate chinese sm1cs_mh008_couple_carousel_f49fff8f:
 
-    # mc "Yeah?"
-    mc "Yeah?"
+    # mc "嗯？"
+    mc "嗯？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:713
 translate chinese sm1cs_mh008_couple_carousel_7647e6de:
 
-    # mh "Let's just enjoy this moment."
-    mh "Let's just enjoy this moment."
+    # mh "让我们享受这个时刻吧。"
+    mh "让我们享受这个时刻吧。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:716
 translate chinese sm1cs_mh008_couple_carousel_d0445bce:
 
-    # mc "Yeah, that sounds nice."
-    mc "Yeah, that sounds nice."
+    # mc "好啊，听起来不错。"
+    mc "好啊，听起来不错。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:733
 translate chinese sm1cs_mh008_couple_carousel_end_cac1d1c7:
 
-    # mh "That was... truly wonderful, [mcname]."
-    mh "That was... truly wonderful, [mcname]."
+    # mh "那真是...太美好了，[mcname]。"
+    mh "那真是...太美好了，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:734
 translate chinese sm1cs_mh008_couple_carousel_end_04a06728:
 
-    # mh "Another wonderful carnival memory to add to the others."
-    mh "Another wonderful carnival memory to add to the others."
+    # mh "又一个美好的嘉年华回忆可以添加到其他回忆中了。"
+    mh "又一个美好的嘉年华回忆可以添加到其他回忆中了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:737
 translate chinese sm1cs_mh008_couple_carousel_end_6779bff8:
 
-    # mc "I couldn't think of anyone I'd rather be looking out over the city than with you, Lyssa."
-    mc "I couldn't think of anyone I'd rather be looking out over the city than with you, Lyssa."
+    # mc "我想不出还有谁能比和你一起，让我更愿意俯瞰这座城市，丽莎。"
+    mc "我想不出还有谁能比和你一起，让我更愿意俯瞰这座城市，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:740
 translate chinese sm1cs_mh008_couple_carousel_end_db28c904:
 
-    # mh "I'd hate to cut this short, but I do have a meeting in the morning that I have to make."
-    mh "I'd hate to cut this short, but I do have a meeting in the morning that I have to make."
+    # mh "我不想打断这个美好时刻，但我明天早上确实有个会议必须参加。"
+    mh "我不想打断这个美好时刻，但我明天早上确实有个会议必须参加。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:744
 translate chinese sm1cs_mh008_couple_carousel_end_31b055e7:
 
-    # mc "Wait, isn't it the weekend?"
-    mc "Wait, isn't it the weekend?"
+    # mc "等等，今天不是周末吗？"
+    mc "等等，今天不是周末吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:747
 translate chinese sm1cs_mh008_couple_carousel_end_aff55cb5:
 
-    # mh "When you work as a solo practitioner, you're never guaranteed weekends off."
-    mh "When you work as a solo practitioner, you're never guaranteed weekends off."
+    # mh "当你是个独立执业律师时，周末休息从来不是保证的。"
+    mh "当你是个独立执业律师时，周末休息从来不是保证的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:750
 translate chinese sm1cs_mh008_couple_carousel_end_1fc5a45e:
 
-    # mc "Oh shit, it's a work night, isn't it?"
-    mc "Oh shit, it's a work night, isn't it?"
+    # mc "哦该死，今晚是工作日，对吧？"
+    mc "哦该死，今晚是工作日，对吧？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:753
 translate chinese sm1cs_mh008_couple_carousel_end_4b42e3c3:
 
-    # mh "That it is."
-    mh "That it is."
+    # mh "是的。"
+    mh "是的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:756
 translate chinese sm1cs_mh008_couple_carousel_end_0b5bf597:
 
-    # mc "In that case, I'm glad you had a great night."
-    mc "In that case, I'm glad you had a great night."
+    # mc "既然如此，我很高兴你今晚过得愉快。"
+    mc "既然如此，我很高兴你今晚过得愉快。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:759
 translate chinese sm1cs_mh008_couple_carousel_end_d3dbb2e7:
 
-    # mh "There is... one more thing you could do to make tonight phenomenal."
-    mh "There is... one more thing you could do to make tonight phenomenal."
+    # mh "还有...一件事你可以做，让今晚变得更完美。"
+    mh "还有...一件事你可以做，让今晚变得更完美。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:762
 translate chinese sm1cs_mh008_couple_carousel_end_c8f5c86e:
 
-    # mc "Oh yeah? And what's that?"
-    mc "Oh yeah? And what's that?"
+    # mc "哦是吗？是什么？"
+    mc "哦是吗？是什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:765
 translate chinese sm1cs_mh008_couple_carousel_end_3f381964:
 
-    # mh "Kiss me."
-    mh "Kiss me."
+    # mh "吻我。"
+    mh "吻我。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:768
 translate chinese sm1cs_mh008_couple_carousel_end_8817f8de:
 
-    # mc "Don't mind if I do."
-    mc "Don't mind if I do."
+    # mc "恭敬不如从命。"
+    mc "恭敬不如从命。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:781
 translate chinese sm1cs_mh008_couple_carousel_end_03d44d91:
 
-    # mh "Mmmmm... perfect, [mcname]."
-    mh "Mmmmm... perfect, [mcname]."
+    # mh "嗯嗯嗯... perfect, [mcname]."
+    mh "嗯嗯嗯... perfect, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:782
 translate chinese sm1cs_mh008_couple_carousel_end_e014e089:
 
-    # mh "That was... a hell of a kiss."
-    mh "That was... a hell of a kiss."
+    # mh "那真是...美妙的一吻。"
+    mh "那真是...美妙的一吻。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
 translate chinese sm1cs_mh008_couple_carousel_end_ae0106d3:
 
     # mc "Hey, when you say \"memorable\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, when you say \"memorable\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    mc "嘿，当你说'难忘'和'吻'的时候，我必须给你最用心的吻，对吧？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:788
 translate chinese sm1cs_mh008_couple_carousel_end_22b9b3c1:
 
-    # mh "Yes, you do."
-    mh "Yes, you do."
+    # mh "是的，你必须。"
+    mh "是的，你必须。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:789
 translate chinese sm1cs_mh008_couple_carousel_end_98292c6f:
 
-    # mh "And I'm going to be holding you to that, [mcname]."
-    mh "And I'm going to be holding you to that, [mcname]."
+    # mh "我会让你说到做到的，[mcname]。"
+    mh "我会让你说到做到的，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:792
 translate chinese sm1cs_mh008_couple_carousel_end_7b471f6f:
 
-    # mc "Good."
-    mc "Good."
+    # mc "很好。"
+    mc "很好。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:795
 translate chinese sm1cs_mh008_couple_carousel_end_bb6de89a:
 
-    # mh "All right, I do need to go though. I hope I see you soon, [mcname]."
-    mh "All right, I do need to go though. I hope I see you soon, [mcname]."
+    # mh "好了，我确实得走了。希望很快能见到你，[mcname]。"
+    mh "好了，我确实得走了。希望很快能见到你，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:798
 translate chinese sm1cs_mh008_couple_carousel_end_df110fd3:
 
-    # mc "You will! I have to show you the new studio now that it's done!"
-    mc "You will! I have to show you the new studio now that it's done!"
+    # mc "会的！现在装修完了，我得带你看看新工作室！"
+    mc "会的！现在装修完了，我得带你看看新工作室！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:801
 translate chinese sm1cs_mh008_couple_carousel_end_bcaa0de5:
 
-    # mh "Sounds like a date to me."
-    mh "Sounds like a date to me."
+    # mh "听起来像是约会。"
+    mh "听起来像是约会。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:804
 translate chinese sm1cs_mh008_couple_carousel_end_0b693eb1:
 
-    # mct "Hell yeah, that was a great date."
-    mct "Hell yeah, that was a great date."
+    # mct "太棒了，这真是一次很棒的约会。"
+    mct "太棒了，这真是一次很棒的约会。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:805
 translate chinese sm1cs_mh008_couple_carousel_end_d90e3aed:
 
-    # mct "And I'm pretty excited for her to see what the studio looks like now."
-    mct "And I'm pretty excited for her to see what the studio looks like now."
+    # mct "我真的很期待她看到工作室现在的样子。"
+    mct "我真的很期待她看到工作室现在的样子。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:817
 translate chinese sm1cs_mh008_throuple_carousel_1b6d5927:
 
-    # sy "[mcname]! Lyssa!"
-    sy "[mcname]! Lyssa!"
+    # sy "[mcname]！丽莎！"
+    sy "[mcname]！丽莎！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:820
 translate chinese sm1cs_mh008_throuple_carousel_3e248f0f:
 
-    # mc "Hey, Stacy."
-    mc "Hey, Stacy."
+    # mc "嘿，史黛西。"
+    mc "嘿，史黛西。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:823
 translate chinese sm1cs_mh008_throuple_carousel_058df31b:
 
-    # sy "Sorry I'm so late. I had to shower, and find some clean clothes, and - never mind, did I miss anything fun?"
-    sy "Sorry I'm so late. I had to shower, and find some clean clothes, and - never mind, did I miss anything fun?"
+    # sy "抱歉我来晚了。我得洗澡，找些干净衣服，还有——算了，我错过什么有趣的事了吗？"
+    sy "抱歉我来晚了。我得洗澡，找些干净衣服，还有——算了，我错过什么有趣的事了吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:826
 translate chinese sm1cs_mh008_throuple_carousel_a3b9dec9:
 
-    # mh "Just [mcname] winning me a little prize."
-    mh "Just [mcname] winning me a little prize."
+    # mh "只是[mcname]给我赢了个小奖品。"
+    mh "只是[mcname]给我赢了个小奖品。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:829
 translate chinese sm1cs_mh008_throuple_carousel_62c252e1:
 
-    # sy "What!"
-    sy "What!"
+    # sy "什么！"
+    sy "什么！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:830
 translate chinese sm1cs_mh008_throuple_carousel_2f26d296:
 
-    # sy "It's so cute! [mcname]! Why didn't you win me one?"
-    sy "It's so cute! [mcname]! Why didn't you win me one?"
+    # sy "太可爱了！[mcname]！你为什么不给我赢一个？"
+    sy "太可爱了！[mcname]！你为什么不给我赢一个？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:833
 translate chinese sm1cs_mh008_throuple_carousel_2cbf11a3:
 
-    # mc "Well, uhhh..."
-    mc "Well, uhhh..."
+    # mc "嗯，呃..."
+    mc "嗯，呃..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:836
 translate chinese sm1cs_mh008_throuple_carousel_c9c40c2f:
 
-    # mh "Well, [mcname] didn't win it, exactly. But he paid for the winning game!"
-    mh "Well, [mcname] didn't win it, exactly. But he paid for the winning game!"
+    # mh "嗯，[mcname]其实没赢到，不过他付了赢得游戏的钱！"
+    mh "嗯，[mcname]其实没赢到，不过他付了赢得游戏的钱！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:839
 translate chinese sm1cs_mh008_throuple_carousel_0c32fd40:
 
-    # sy "Ohhhhhh."
-    sy "Ohhhhhh."
+    # sy "哦哦哦哦。"
+    sy "哦哦哦哦。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:842
 translate chinese sm1cs_mh008_throuple_carousel_607b3a0e:
 
-    # sy "Lyyssssaaaaaaaaa, will you win me a teddy bear with [mcname]'s money?"
-    sy "Lyyssssaaaaaaaaa, will you win me a teddy bear with [mcname]'s money?"
+    # sy "丽莎莎莎莎莎，你能用[mcname]的钱给我赢只泰迪熊吗？"
+    sy "丽莎莎莎莎莎，你能用[mcname]的钱给我赢只泰迪熊吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:845
 translate chinese sm1cs_mh008_throuple_carousel_986f846c:
 
-    # mh "Oh, well that doesn't sound like a half-bad plan. What do you think, [mcname]?"
-    mh "Oh, well that doesn't sound like a half-bad plan. What do you think, [mcname]?"
+    # mh "哦，嗯，这听起来不是个坏主意。你觉得呢，[mcname]？"
+    mh "哦，嗯，这听起来不是个坏主意。你觉得呢，[mcname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:848
 translate chinese sm1cs_mh008_throuple_carousel_c41bbdb8:
 
-    # mc "I, uhhh - that was an expensive game, and erm-"
-    mc "I, uhhh - that was an expensive game, and erm-"
+    # mc "我，呃——那个游戏很贵，而且呃——"
+    mc "我，呃——那个游戏很贵，而且呃——"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:851
 translate chinese sm1cs_mh008_throuple_carousel_025f0bd5:
 
-    # sy "I'm kidding, [mcname]. You don't need to win me a bear."
-    sy "I'm kidding, [mcname]. You don't need to win me a bear."
+    # sy "我开玩笑的，[mcname]。你不需要给我赢熊。"
+    sy "我开玩笑的，[mcname]。你不需要给我赢熊。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:852
 translate chinese sm1cs_mh008_throuple_carousel_051ecb8f:
 
     # sy "But you do need to show me around! I don't think I've ever really been to the carnival for fun. Just for... \"work stuff\"."
-    sy "But you do need to show me around! I don't think I've ever really been to the carnival for fun. Just for... \"work stuff\"."
+    sy "但你需要带我四处看看！我想我从来没有真正为了玩而来过嘉年华。只是为了...'工作的事'。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:855
 translate chinese sm1cs_mh008_throuple_carousel_954a6ab6:
 
-    # mh "Really?"
-    mh "Really?"
+    # mh "真的吗？"
+    mh "真的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:859
 translate chinese sm1cs_mh008_throuple_carousel_d08cc125:
 
-    # sy "Uh huh. We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
-    sy "Uh huh. We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
+    # sy "嗯哼。 We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
+    sy "嗯哼。 We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
 translate chinese sm1cs_mh008_throuple_carousel_04b4af8c:
 
-    # sy "Growing up. Our familes never really went to the carvnial."
-    sy "Growing up. Our familes never really went to the carvnial."
+    # sy "长大过程中。我们的家人从来没真正去过嘉年华。"
+    sy "长大过程中。我们的家人从来没真正去过嘉年华。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:862
 translate chinese sm1cs_mh008_throuple_carousel_2fc0ca58:
 
-    # sy "And I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
-    sy "And I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
+    # sy "而且自从我来到Crowning后一直很忙，嗯...我就是抽不出时间。"
+    sy "而且自从我来到Crowning后一直很忙，嗯...我就是抽不出时间。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:865
 translate chinese sm1cs_mh008_throuple_carousel_71c6ea92:
 
-    # mh "Well, let's get you caught up."
-    mh "Well, let's get you caught up."
+    # mh "嗯，让我们带你好好玩玩。"
+    mh "嗯，让我们带你好好玩玩。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:868
 translate chinese sm1cs_mh008_throuple_carousel_6e71bd96:
 
-    # sy "Thanks, Lyssa."
-    sy "Thanks, Lyssa."
+    # sy "谢谢，丽莎。"
+    sy "谢谢，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:871
 translate chinese sm1cs_mh008_throuple_carousel_c5cb254d:
 
-    # mct "Well, things are definitely off to a good start!"
-    mct "Well, things are definitely off to a good start!"
+    # mct "嗯，事情肯定有个好的开始！"
+    mct "嗯，事情肯定有个好的开始！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:890
 translate chinese sm1cs_mh008_throuple_carousel_f63c75c7:
 
-    # sy "Ooooo, are we going to ride on the ferris wheel!?"
-    sy "Ooooo, are we going to ride on the ferris wheel!?"
+    # sy "哦哦哦，我们要坐摩天轮吗！？"
+    sy "哦哦哦，我们要坐摩天轮吗！？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:893
 translate chinese sm1cs_mh008_throuple_carousel_f3d441b0:
 
-    # mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
-    mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
+    # mc "嗯，没有摩天轮之旅的嘉年华之旅是不完整的！"
+    mc "嗯，没有摩天轮之旅的嘉年华之旅是不完整的！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:896
 translate chinese sm1cs_mh008_throuple_carousel_45412da6:
 
-    # mh "I couldn't agree more, [mcname]."
-    mh "I couldn't agree more, [mcname]."
+    # mh "我非常同意，[mcname]。"
+    mh "我非常同意，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:912
 translate chinese sm1cs_mh008_throuple_carousel_4467d5d8:
 
-    # mh "I hope you're not afraid of heights, [mcname]!"
-    mh "I hope you're not afraid of heights, [mcname]!"
+    # mh "我希望你不怕高，[mcname]！"
+    mh "我希望你不怕高，[mcname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:915
 translate chinese sm1cs_mh008_throuple_carousel_3de751db:
 
-    # mc "Nope! Not afraid of them at all."
-    mc "Nope! Not afraid of them at all."
+    # mc "不怕！一点也不怕。"
+    mc "不怕！一点也不怕。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:918
 translate chinese sm1cs_mh008_throuple_carousel_78983fe1:
 
-    # mh "What about you, Stacy?"
-    mh "What about you, Stacy?"
+    # mh "What about you, 史黛西？"
+    mh "What about you, 史黛西？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:921
 translate chinese sm1cs_mh008_throuple_carousel_df0572e5:
 
-    # sy "Oh, I'm terrified of heights."
-    sy "Oh, I'm terrified of heights."
+    # sy "哦，我很怕高。"
+    sy "哦，我很怕高。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:924
 translate chinese sm1cs_mh008_throuple_carousel_d1f17865:
 
-    # mh "Then... why did you want to ride the ferris wheel?"
-    mh "Then... why did you want to ride the ferris wheel?"
+    # mh "那么...你为什么想坐摩天轮？"
+    mh "那么...你为什么想坐摩天轮？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:927
 translate chinese sm1cs_mh008_throuple_carousel_a7fbe2aa:
 
-    # mc "Yeah, the whole thing with it is heights, Stacy."
-    mc "Yeah, the whole thing with it is heights, Stacy."
+    # mc "是啊，摩天轮的重点就是高，史黛西。"
+    mc "是啊，摩天轮的重点就是高，史黛西。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:930
 translate chinese sm1cs_mh008_throuple_carousel_ec03ff89:
 
-    # sy "You know I love challenging myself."
-    sy "You know I love challenging myself."
+    # sy "你知道我喜欢挑战自己。"
+    sy "你知道我喜欢挑战自己。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:931
 translate chinese sm1cs_mh008_throuple_carousel_41ac0b4d:
 
-    # sy "If I never challenged myself, I'd never grow or change."
-    sy "If I never challenged myself, I'd never grow or change."
+    # sy "如果我从不挑战自己，我就永远不会成长或改变。"
+    sy "如果我从不挑战自己，我就永远不会成长或改变。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:934
 translate chinese sm1cs_mh008_throuple_carousel_b9e34d9f:
 
-    # sy "I'd just be some stock character in the background of everyone's lives."
-    sy "I'd just be some stock character in the background of everyone's lives."
+    # sy "我就只会成为别人生活背景中的一个配角。"
+    sy "我就只会成为别人生活背景中的一个配角。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:935
 translate chinese sm1cs_mh008_throuple_carousel_8c961881:
 
-    # sy "And I am definitely not a background character."
-    sy "And I am definitely not a background character."
+    # sy "而我绝对不是一个配角。"
+    sy "而我绝对不是一个配角。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:938
 translate chinese sm1cs_mh008_throuple_carousel_35324042:
 
-    # mc "You can say that again."
-    mc "You can say that again."
+    # mc "你说得对。"
+    mc "你说得对。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:941
 translate chinese sm1cs_mh008_throuple_carousel_cc72c627:
 
-    # sy "But you two get it. You both also have big main character energy."
-    sy "But you two get it. You both also have big main character energy."
+    # sy "但你们俩懂的。你们俩也有很强的主角气质。"
+    sy "但你们俩懂的。你们俩也有很强的主角气质。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:944
 translate chinese sm1cs_mh008_throuple_carousel_d69c9291:
 
-    # mh "Hmmm?"
-    mh "Hmmm?"
+    # mh "嗯？"
+    mh "嗯？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:947
 translate chinese sm1cs_mh008_throuple_carousel_d7cb8a21:
 
-    # sy "You know, like... erm, you're both the author of your own worlds, you know?"
-    sy "You know, like... erm, you're both the author of your own worlds, you know?"
+    # sy "你知道，就像...呃，你们俩都是自己世界的作者，你知道吗？"
+    sy "你知道，就像...呃，你们俩都是自己世界的作者，你知道吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:948
 translate chinese sm1cs_mh008_throuple_carousel_16d022cc:
 
-    # sy "You're both strong, capable people. If you want something, you go out and get it. If something needs to get done, you do it."
-    sy "You're both strong, capable people. If you want something, you go out and get it. If something needs to get done, you do it."
+    # sy "你们俩都是坚强、有能力的人。如果你想要什么，你就会去争取。如果有事需要做，你就会去做。"
+    sy "你们俩都是坚强、有能力的人。如果你想要什么，你就会去争取。如果有事需要做，你就会去做。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:949
 translate chinese sm1cs_mh008_throuple_carousel_b75b82c5:
 
-    # sy "And neither of you are ever the second player."
-    sy "And neither of you are ever the second player."
+    # sy "而且你们俩从来不是第二玩家。"
+    sy "而且你们俩从来不是第二玩家。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:952
 translate chinese sm1cs_mh008_throuple_carousel_caae6011:
 
-    # mh "Well, sometimes..."
-    mh "Well, sometimes..."
+    # mh "嗯，有时候..."
+    mh "嗯，有时候..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:955
 translate chinese sm1cs_mh008_throuple_carousel_2e5c4041:
 
-    # mct "Uhhhh, this might get awkward. I need to change the subject."
-    mct "Uhhhh, this might get awkward. I need to change the subject."
+    # mct "呃，这可能会变得尴尬。我需要换个话题。"
+    mct "呃，这可能会变得尴尬。我需要换个话题。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:958
 translate chinese sm1cs_mh008_throuple_carousel_9ad42642:
 
-    # mc "I... I have something I'm scared of."
-    mc "I... I have something I'm scared of."
+    # mc "我...我有害怕的东西。"
+    mc "我...我有害怕的东西。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:962
 translate chinese sm1cs_mh008_throuple_carousel_ff324e5d:
 
-    # sy "Really, bro?"
-    sy "Really, bro?"
+    # sy "真的吗，哥哥？"
+    sy "真的吗，哥哥？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:964
 translate chinese sm1cs_mh008_throuple_carousel_3c4665e0:
 
-    # sy "Really, [mcname]?"
-    sy "Really, [mcname]?"
+    # sy "真的吗，[mcname]？"
+    sy "真的吗，[mcname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:967
 translate chinese sm1cs_mh008_throuple_carousel_b635efb0:
 
-    # mh "Oh yeah? And what's that."
-    mh "Oh yeah? And what's that."
+    # mh "哦是吗？是什么。"
+    mh "哦是吗？是什么。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:970
 translate chinese sm1cs_mh008_throuple_carousel_5efa3136:
 
-    # mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
-    mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
+    # mc "我...我害怕花生酱粘在我的上颚。"
+    mc "我...我害怕花生酱粘在我的上颚。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:973
 translate chinese sm1cs_mh008_throuple_carousel_84217137:
 
-    # mh "Excuse me... you're afraid of..."
-    mh "Excuse me... you're afraid of..."
+    # mh "请原谅...你害怕的是..."
+    mh "请原谅...你害怕的是..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:976
 translate chinese sm1cs_mh008_throuple_carousel_7d735c19:
 
-    # mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
-    mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
+    # mc "花生酱粘在我的上颚。是的。"
+    mc "花生酱粘在我的上颚。是的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:977
 translate chinese sm1cs_mh008_throuple_carousel_8486795c:
 
-    # mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
-    mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
+    # mc "因为我可能在吃花生酱果酱三明治，然后有人会想跟我说话。"
+    mc "因为我可能在吃花生酱果酱三明治，然后有人会想跟我说话。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:981
 translate chinese sm1cs_mh008_throuple_carousel_ccd20cf6:
 
-    # mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
-    mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
+    # mc "然后我嘴里就会有花生酱，我就不能说话了。"
+    mc "然后我嘴里就会有花生酱，我就不能说话了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:982
 translate chinese sm1cs_mh008_throuple_carousel_86ad05c0:
 
     # mc "Or it'll sound super weird and that scares me!"
-    mc "Or it'll sound super weird and that scares me!"
+    mc "或者听起来会很奇怪，这让我害怕！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:985
 translate chinese sm1cs_mh008_throuple_carousel_c60a8f92:
 
-    # mh "I, uhm - uhm-"
-    mh "I, uhm - uhm-"
+    # mh "我，呃——呃——"
+    mh "我，呃——呃——"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:988
 translate chinese sm1cs_mh008_throuple_carousel_1b3407be:
 
     # sy "You're fucking with us, right?"
-    sy "You're fucking with us, right?"
+    sy "你在耍我们，对吧？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:991
 translate chinese sm1cs_mh008_throuple_carousel_233ba459:
 
-    # mc "No! I'm seriously afraid of it-"
-    mc "No! I'm seriously afraid of it-"
+    # mc "不！我真的害怕它——"
+    mc "不！我真的害怕它——"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:994
 translate chinese sm1cs_mh008_throuple_carousel_05d4025a:
 
-    # mc "What! It's a very real fear!"
-    mc "What! It's a very real fear!"
+    # mc "什么！这是一个非常真实的恐惧！"
+    mc "什么！这是一个非常真实的恐惧！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:997
 translate chinese sm1cs_mh008_throuple_carousel_cb11c524:
 
-    # mh "Hahahahaha!"
-    mh "Hahahahaha!"
+    # mh "哈哈哈哈哈！"
+    mh "哈哈哈哈哈！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1000
 translate chinese sm1cs_mh008_throuple_carousel_bf31223f:
 
-    # sy "Hahahahahahahaha! No fucking way!"
-    sy "Hahahahahahahaha! No fucking way!"
+    # sy "哈哈哈哈哈哈哈！不可能！"
+    sy "哈哈哈哈哈哈哈！不可能！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1003
 translate chinese sm1cs_mh008_throuple_carousel_9ec7878b:
 
-    # sy "That's the most ridiculous thing I've ever heard, [mcname]!"
-    sy "That's the most ridiculous thing I've ever heard, [mcname]!"
+    # sy "这是我听过的最荒谬的事情，[mcname]！"
+    sy "这是我听过的最荒谬的事情，[mcname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1006
 translate chinese sm1cs_mh008_throuple_carousel_6409586d:
 
-    # mc "And what, you two are totally fearless?!"
-    mc "And what, you two are totally fearless?!"
+    # mc "那么，你们两个完全不怕任何东西？！"
+    mc "那么，你们两个完全不怕任何东西？！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1009
 translate chinese sm1cs_mh008_throuple_carousel_73ccfa3c:
 
-    # sy "No, I already told you I'm scared of heights. But that one makes sense."
-    sy "No, I already told you I'm scared of heights. But that one makes sense."
+    # sy "不，我已经告诉过你我怕高。但那个说得通。"
+    sy "不，我已经告诉过你我怕高。但那个说得通。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1010
 translate chinese sm1cs_mh008_throuple_carousel_033df74c:
 
-    # sy "Because if you fall from super high up, that's it for you."
-    sy "Because if you fall from super high up, that's it for you."
+    # sy "因为如果你从很高的地方掉下来，你就完了。"
+    sy "因为如果你从很高的地方掉下来，你就完了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1011
 translate chinese sm1cs_mh008_throuple_carousel_94f2286d:
 
-    # sy "My fear makes sense. Yours is just insane!"
-    sy "My fear makes sense. Yours is just insane!"
+    # sy "我的恐惧说得通。你的只是疯狂！"
+    sy "我的恐惧说得通。你的只是疯狂！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1014
 translate chinese sm1cs_mh008_throuple_carousel_242c405e:
 
-    # mc "Is not!"
-    mc "Is not!"
+    # mc "才不是！"
+    mc "才不是！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1017
 translate chinese sm1cs_mh008_throuple_carousel_356c92fb:
 
-    # sy "Suuuuuuuuuure."
-    sy "Suuuuuuuuuure."
+    # sy "确~~~~~定。"
+    sy "确~~~~~定。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1020
 translate chinese sm1cs_mh008_throuple_carousel_61b0845e:
 
-    # mh "And no, I wouldn't say that I'm not scared of anything. I used to get really bad vertigo, but I think I've finally gotten over that."
-    mh "And no, I wouldn't say that I'm not scared of anything. I used to get really bad vertigo, but I think I've finally gotten over that."
+    # mh "而且不，我不会说我什么都不怕。我以前有很严重的眩晕，但我想我终于克服了。"
+    mh "而且不，我不会说我什么都不怕。我以前有很严重的眩晕，但我想我终于克服了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1023
 translate chinese sm1cs_mh008_throuple_carousel_6377fe3f:
 
-    # sy "And that one totally makes sense! Heights are spooky!"
-    sy "And that one totally makes sense! Heights are spooky!"
+    # sy "那个完全说得通！高处很吓人！"
+    sy "那个完全说得通！高处很吓人！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1026
 translate chinese sm1cs_mh008_throuple_carousel_5c22fcd6:
 
-    # mh "Yes, heights are definitely spooky."
-    mh "Yes, heights are definitely spooky."
+    # mh "是的，高处确实很吓人。"
+    mh "是的，高处确实很吓人。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1027
 translate chinese sm1cs_mh008_throuple_carousel_13be126e:
 
-    # mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
-    mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
+    # mh "而且我不会说我怕小丑，我只是对他们有...反感。"
+    mh "而且我不会说我怕小丑，我只是对他们有...反感。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1030
 translate chinese sm1cs_mh008_throuple_carousel_e8db4ec6:
 
-    # sy "Mmmm.{w} You know, I think clowns are actually kind of sexy."
-    sy "Mmmm.{w} You know, I think clowns are actually kind of sexy."
+    # sy "嗯。{w} 你知道吗，我觉得小丑其实挺性感的。"
+    sy "嗯。{w} 你知道吗，我觉得小丑其实挺性感的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1033
 translate chinese sm1cs_mh008_throuple_carousel_954a6ab6_1:
 
-    # mh "Really?"
-    mh "Really?"
+    # mh "真的吗？"
+    mh "真的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1036
 translate chinese sm1cs_mh008_throuple_carousel_0b2d8102:
 
-    # sy "Well... the right kind of clown."
-    sy "Well... the right kind of clown."
+    # sy "嗯...合适的那种小丑。"
+    sy "嗯...合适的那种小丑。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1039
 translate chinese sm1cs_mh008_throuple_carousel_d7a27687:
 
-    # mc "We know someone who's made a clown porn video or two."
-    mc "We know someone who's made a clown porn video or two."
+    # mc "我们认识一个拍过一两个小丑色情视频的人。"
+    mc "我们认识一个拍过一两个小丑色情视频的人。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1040
 translate chinese sm1cs_mh008_throuple_carousel_6a05b4c3:
 
-    # mc "I think it secretly unlocked a weird kink in Stacy's brain."
-    mc "I think it secretly unlocked a weird kink in Stacy's brain."
+    # mc "我觉得这暗中解锁了史黛西大脑中的一个奇怪癖好。"
+    mc "我觉得这暗中解锁了史黛西大脑中的一个奇怪癖好。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1043
 translate chinese sm1cs_mh008_throuple_carousel_56d3ff98:
 
-    # sy "Hey!"
-    sy "Hey!"
+    # sy "嘿！"
+    sy "嘿！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1046
 translate chinese sm1cs_mh008_throuple_carousel_78aae6be:
 
-    # mc "Am I wrong?"
-    mc "Am I wrong?"
+    # mc "我说错了吗？"
+    mc "我说错了吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1049
 translate chinese sm1cs_mh008_throuple_carousel_1312f9be:
 
-    # sy "...{w} No."
-    sy "...{w} No."
+    # sy "...{w} 没有。"
+    sy "...{w} 没有。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1052
 translate chinese sm1cs_mh008_throuple_carousel_fbd9cf05:
 
-    # mh "Hey, maybe I just haven't met the right clowns."
-    mh "Hey, maybe I just haven't met the right clowns."
+    # mh "嘿，也许我只是没遇到合适的小丑。"
+    mh "嘿，也许我只是没遇到合适的小丑。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1055
 translate chinese sm1cs_mh008_throuple_carousel_b3062656:
 
-    # sy "Oh, I can totally introduce you! Taisia is a little freak, and-"
-    sy "Oh, I can totally introduce you! Taisia is a little freak, and-"
+    # sy "哦，我完全可以介绍你！泰西娅是个小怪胎，而且——"
+    sy "哦，我完全可以介绍你！泰西娅是个小怪胎，而且——"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1058
 translate chinese sm1cs_mh008_throuple_carousel_c5cfdf97:
 
-    # mc "Stacy, let's maybe not talk about clown porn right now."
-    mc "Stacy, let's maybe not talk about clown porn right now."
+    # mc "史黛西，我们现在也许不要谈论小丑色情片。"
+    mc "史黛西，我们现在也许不要谈论小丑色情片。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1061
 translate chinese sm1cs_mh008_throuple_carousel_e9e1aef6:
 
-    # sy "Uggghhhhh, fiiiiiiiiiiiine."
-    sy "Uggghhhhh, fiiiiiiiiiiiine."
+    # sy "啊啊啊啊，好吧吧吧吧吧吧。"
+    sy "啊啊啊啊，好吧吧吧吧吧吧。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1064
 translate chinese sm1cs_mh008_throuple_carousel_4ef78658:
 
-    # sy "But I will totally send you a link later."
-    sy "But I will totally send you a link later."
+    # sy "但我稍后会给你发个链接。"
+    sy "但我稍后会给你发个链接。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1067
 translate chinese sm1cs_mh008_throuple_carousel_15634037:
 
-    # mh "Hehehehe."
-    mh "Hehehehe."
+    # mh "呵呵呵呵。"
+    mh "呵呵呵呵。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1070
 translate chinese sm1cs_mh008_throuple_carousel_39f3bc9f:
 
-    # mc "But there's only one clown to be afraid of."
-    mc "But there's only one clown to be afraid of."
+    # mc "但只有一个小丑值得害怕。"
+    mc "但只有一个小丑值得害怕。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1073
 translate chinese sm1cs_mh008_throuple_carousel_a161e15d:
 
-    # mh "Oh yeah? And which one is that?"
-    mh "Oh yeah? And which one is that?"
+    # mh "哦是吗？是哪一个？"
+    mh "哦是吗？是哪一个？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1076
 translate chinese sm1cs_mh008_throuple_carousel_4e784502:
 
-    # mc "Donald. MacDonald."
-    mc "Donald. MacDonald."
+    # mc "唐纳德。麦克唐纳。"
+    mc "唐纳德。麦克唐纳。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1079
 translate chinese sm1cs_mh008_throuple_carousel_8f5e4b82:
 
-    # mh "Like... the mascot for the fast food place?"
-    mh "Like... the mascot for the fast food place?"
+    # mh "就像...快餐店的吉祥物？"
+    mh "就像...快餐店的吉祥物？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1082
 translate chinese sm1cs_mh008_throuple_carousel_073d3c75:
 
-    # sy "Didn't Taisia scare the shit out of you when she was in her clown makeup?"
-    sy "Didn't Taisia scare the shit out of you when she was in her clown makeup?"
+    # sy "泰西娅化小丑妆的时候没把你吓死吗？"
+    sy "泰西娅化小丑妆的时候没把你吓死吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1085
 translate chinese sm1cs_mh008_throuple_carousel_6a81b4c6:
 
-    # mc "That was a jump scare, I wasn't scared because she was a clown."
-    mc "That was a jump scare, I wasn't scared because she was a clown."
+    # mc "那是惊吓，我不是因为她是小丑才害怕的。"
+    mc "那是惊吓，我不是因为她是小丑才害怕的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1086
 translate chinese sm1cs_mh008_throuple_carousel_c70012ca:
 
-    # mc "The only clown to fear, is Donald MacDonald."
-    mc "The only clown to fear, is Donald MacDonald."
+    # mc "唯一值得害怕的小丑，就是唐纳德·麦克唐纳。"
+    mc "唯一值得害怕的小丑，就是唐纳德·麦克唐纳。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1089
 translate chinese sm1cs_mh008_throuple_carousel_03035655:
 
-    # mc "Yes. He's the most lethal clown in history."
-    mc "Yes. He's the most lethal clown in history."
+    # mc "是的。他是历史上最致命的小丑。"
+    mc "是的。他是历史上最致命的小丑。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1090
 translate chinese sm1cs_mh008_throuple_carousel_890c0854:
 
-    # mc "He's killed more people than Gacy."
-    mc "He's killed more people than Gacy."
+    # mc "他杀的人比加西还多。"
+    mc "他杀的人比加西还多。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1093
 translate chinese sm1cs_mh008_throuple_carousel_1e99bd94:
 
-    # mh "You know... you've got a good point there."
-    mh "You know... you've got a good point there."
+    # mh "你知道...你说得有道理。"
+    mh "你知道...你说得有道理。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1096
 translate chinese sm1cs_mh008_throuple_carousel_ced925a6:
 
-    # sy "I've never really thought about it like that..."
-    sy "I've never really thought about it like that..."
+    # sy "我从来没有那样想过..."
+    sy "我从来没有那样想过..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1099
 translate chinese sm1cs_mh008_throuple_carousel_d64fffa8:
 
-    # mc "And he just looks creepy as hell."
-    mc "And he just looks creepy as hell."
+    # mc "而且他看起来阴森恐怖。"
+    mc "而且他看起来阴森恐怖。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1102
 translate chinese sm1cs_mh008_throuple_carousel_83fc393b:
 
-    # mh "Hehehe - yeah, you're not wrong there either."
-    mh "Hehehe - yeah, you're not wrong there either."
+    # mh "呵呵呵——是啊，你这点也没说错。"
+    mh "呵呵呵——是啊，你这点也没说错。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1105
 translate chinese sm1cs_mh008_throuple_carousel_46c747e9:
 
-    # mh "Wow... sometimes I forget how beautiful Crowning is..."
-    mh "Wow... sometimes I forget how beautiful Crowning is..."
+    # mh "哇...有时候我都忘了Crowning有多美..."
+    mh "哇...有时候我都忘了Crowning有多美..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1108
 translate chinese sm1cs_mh008_throuple_carousel_ba334fd2:
 
-    # sy "Right? You can just... forget that we're actually pretty lucky."
-    sy "Right? You can just... forget that we're actually pretty lucky."
+    # sy "对吧？你可能会...忘记我们其实很幸运。"
+    sy "对吧？你可能会...忘记我们其实很幸运。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1111
 translate chinese sm1cs_mh008_throuple_carousel_6780655c:
 
-    # mc "Yeah, the sights are really something..."
-    mc "Yeah, the sights are really something..."
+    # mc "是啊，景色真的很壮观..."
+    mc "是啊，景色真的很壮观..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1114
 translate chinese sm1cs_mh008_throuple_carousel_4553470d:
 
-    # mc "Yeah.{w} They really are..."
-    mc "Yeah.{w} They really are..."
+    # mc "是啊。{w} 确实很壮观..."
+    mc "是啊。{w} 确实很壮观..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1117
 translate chinese sm1cs_mh008_throuple_carousel_18c82454:
 
-    # mh "You're not even looking out at the city, [mcname]."
-    mh "You're not even looking out at the city, [mcname]."
+    # mh "你根本没在看城市，[mcname]。"
+    mh "你根本没在看城市，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1120
 translate chinese sm1cs_mh008_throuple_carousel_974505ae:
 
-    # mc "Why would I do that?"
-    mc "Why would I do that?"
+    # mc "我为什么要看城市？"
+    mc "我为什么要看城市？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1123
 translate chinese sm1cs_mh008_throuple_carousel_c0664f99:
 
-    # mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
-    mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
+    # mc "因为，就我而言，我能看到的最美的东西，就是你，丽莎。"
+    mc "因为，就我而言，我能看到的最美的东西，就是你，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1126
 translate chinese sm1cs_mh008_throuple_carousel_aa0a328b:
 
-    # mh "Oh, you..."
-    mh "Oh, you..."
+    # mh "哦，你..."
+    mh "哦，你..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1135
 translate chinese sm1cs_mh008_throuple_carousel_51fda705:
 
-    # mc "And I'm the luckiest man in the world, to be sitting here with you, too, Stacy."
-    mc "And I'm the luckiest man in the world, to be sitting here with you, too, Stacy."
+    # mc "而我是世界上最幸运的人，能和你坐在这里，史黛西。"
+    mc "而我是世界上最幸运的人，能和你坐在这里，史黛西。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1138
 translate chinese sm1cs_mh008_throuple_carousel_6aa11858:
 
-    # sy "Oh, all romantic now, are we?"
-    sy "Oh, all romantic now, are we?"
+    # sy "哦，现在变浪漫了，是吗？"
+    sy "哦，现在变浪漫了，是吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1141
 translate chinese sm1cs_mh008_throuple_carousel_d9fc70c6:
 
-    # mc "Stacy?"
-    mc "Stacy?"
+    # mc "史黛西？"
+    mc "史黛西？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1144
 translate chinese sm1cs_mh008_throuple_carousel_de0ecb93:
 
-    # sy "Yeah?"
-    sy "Yeah?"
+    # sy "嗯？"
+    sy "嗯？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1148
 translate chinese sm1cs_mh008_throuple_carousel_f3581888:
 
-    # mc "Shut up, before you ruin the moment."
-    mc "Shut up, before you ruin the moment."
+    # mc "闭嘴，别毁了这个时刻。"
+    mc "闭嘴，别毁了这个时刻。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1151
 translate chinese sm1cs_mh008_throuple_carousel_6c09de90:
 
-    # sy "Wait-"
-    sy "Wait-"
+    # sy "等等——"
+    sy "等等——"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1157
 translate chinese sm1cs_mh008_throuple_carousel_1b4becb5:
 
-    # sy "Mmmmm."
-    sy "Mmmmm."
+    # sy "嗯嗯嗯。"
+    sy "嗯嗯嗯。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1160
 translate chinese sm1cs_mh008_throuple_carousel_ea0365b7:
 
-    # mc "That trick always works."
-    mc "That trick always works."
+    # mc "这招总是有效。"
+    mc "这招总是有效。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1163
 translate chinese sm1cs_mh008_throuple_carousel_9005f6c0:
 
-    # sy "It's a good trick."
-    sy "It's a good trick."
+    # sy "是个好招数。"
+    sy "是个好招数。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1169
 translate chinese sm1cs_mh008_throuple_carousel_d7afdc3b:
 
-    # mc "I-"
-    mc "I-"
+    # mc "我——"
+    mc "我——"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1172
 translate chinese sm1cs_mh008_throuple_carousel_c7cf2826:
 
-    # mh "[mcname]?"
-    mh "[mcname]?"
+    # mh "[mcname]？"
+    mh "[mcname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1175
 translate chinese sm1cs_mh008_throuple_carousel_f49fff8f:
 
-    # mc "Yeah?"
-    mc "Yeah?"
+    # mc "嗯？"
+    mc "嗯？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1178
 translate chinese sm1cs_mh008_throuple_carousel_7647e6de:
 
-    # mh "Let's just enjoy this moment."
-    mh "Let's just enjoy this moment."
+    # mh "让我们享受这个时刻吧。"
+    mh "让我们享受这个时刻吧。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1181
 translate chinese sm1cs_mh008_throuple_carousel_46df97aa:
 
-    # mct "When she's right. She's right."
-    mct "When she's right. She's right."
+    # mct "她说得对。确实是对的。"
+    mct "她说得对。确实是对的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1198
 translate chinese sm1cs_mh008_throuple_carousel_end_cac1d1c7:
 
-    # mh "That was... truly wonderful, [mcname]."
-    mh "That was... truly wonderful, [mcname]."
+    # mh "那真是...太美好了，[mcname]。"
+    mh "那真是...太美好了，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1199
 translate chinese sm1cs_mh008_throuple_carousel_end_04a06728:
 
-    # mh "Another wonderful carnival memory to add to the others."
-    mh "Another wonderful carnival memory to add to the others."
+    # mh "又一个美好的嘉年华回忆可以添加到其他回忆中了。"
+    mh "又一个美好的嘉年华回忆可以添加到其他回忆中了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1202
 translate chinese sm1cs_mh008_throuple_carousel_end_7b0fc73d:
 
     # sy "Yeah, that was incredible."
-    sy "Yeah, that was incredible."
+    sy "是啊，那真是太棒了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1205
 translate chinese sm1cs_mh008_throuple_carousel_end_532cad5f:
 
-    # mc "I couldn't think of anyone I'd rather be up there with than you two."
-    mc "I couldn't think of anyone I'd rather be up there with than you two."
+    # mc "我想不出还有谁能比你们俩，让我更愿意在那里。"
+    mc "我想不出还有谁能比你们俩，让我更愿意在那里。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1208
 translate chinese sm1cs_mh008_throuple_carousel_end_45678195:
 
-    # mh "I hate to cut this short, but I do have a meeting in the morning that I have to make."
-    mh "I hate to cut this short, but I do have a meeting in the morning that I have to make."
+    # mh "我不想打断这个美好时刻，但我明天早上确实有个会议必须参加。"
+    mh "我不想打断这个美好时刻，但我明天早上确实有个会议必须参加。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1211
 translate chinese sm1cs_mh008_throuple_carousel_end_e5593f66:
 
-    # sy "Boooo!"
-    sy "Boooo!"
+    # sy "嘘！"
+    sy "嘘！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1215
 translate chinese sm1cs_mh008_throuple_carousel_end_31b055e7:
 
-    # mc "Wait, isn't it the weekend?"
-    mc "Wait, isn't it the weekend?"
+    # mc "等等，今天不是周末吗？"
+    mc "等等，今天不是周末吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1218
 translate chinese sm1cs_mh008_throuple_carousel_end_aff55cb5:
 
-    # mh "When you work as a solo practitioner, you're never guaranteed weekends off."
-    mh "When you work as a solo practitioner, you're never guaranteed weekends off."
+    # mh "当你是个独立执业律师时，周末休息从来不是保证的。"
+    mh "当你是个独立执业律师时，周末休息从来不是保证的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1221
 translate chinese sm1cs_mh008_throuple_carousel_end_1fc5a45e:
 
-    # mc "Oh shit, it's a work night, isn't it?"
-    mc "Oh shit, it's a work night, isn't it?"
+    # mc "哦该死，今晚是工作日，对吧？"
+    mc "哦该死，今晚是工作日，对吧？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1224
 translate chinese sm1cs_mh008_throuple_carousel_end_4b42e3c3:
 
-    # mh "That it is."
-    mh "That it is."
+    # mh "是的。"
+    mh "是的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1227
 translate chinese sm1cs_mh008_throuple_carousel_end_2b987de2:
 
-    # mc "In that case, I'm glad you had a great night, Lyssa."
-    mc "In that case, I'm glad you had a great night, Lyssa."
+    # mc "既然如此，我很高兴你今晚过得愉快，丽莎。"
+    mc "既然如此，我很高兴你今晚过得愉快，丽莎。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1230
 translate chinese sm1cs_mh008_throuple_carousel_end_d3dbb2e7:
 
-    # mh "There is... one more thing you could do to make tonight phenomenal."
-    mh "There is... one more thing you could do to make tonight phenomenal."
+    # mh "还有...一件事你可以做，让今晚变得更完美。"
+    mh "还有...一件事你可以做，让今晚变得更完美。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1233
 translate chinese sm1cs_mh008_throuple_carousel_end_c8f5c86e:
 
-    # mc "Oh yeah? And what's that?"
-    mc "Oh yeah? And what's that?"
+    # mc "哦是吗？是什么？"
+    mc "哦是吗？是什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1236
 translate chinese sm1cs_mh008_throuple_carousel_end_3f381964:
 
-    # mh "Kiss me."
-    mh "Kiss me."
+    # mh "吻我。"
+    mh "吻我。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1239
 translate chinese sm1cs_mh008_throuple_carousel_end_8817f8de:
 
-    # mc "Don't mind if I do."
-    mc "Don't mind if I do."
+    # mc "恭敬不如从命。"
+    mc "恭敬不如从命。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1248
 translate chinese sm1cs_mh008_throuple_carousel_end_03d44d91:
 
-    # mh "Mmmmm... perfect, [mcname]."
-    mh "Mmmmm... perfect, [mcname]."
+    # mh "嗯嗯嗯... perfect, [mcname]."
+    mh "嗯嗯嗯... perfect, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1249
 translate chinese sm1cs_mh008_throuple_carousel_end_e014e089:
 
-    # mh "That was... a hell of a kiss."
-    mh "That was... a hell of a kiss."
+    # mh "那真是...美妙的一吻。"
+    mh "那真是...美妙的一吻。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1252
 translate chinese sm1cs_mh008_throuple_carousel_end_83caa5fe:
 
     # mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    mc "嘿，当你说'完美'和'吻'的时候，我必须给你最用心的吻，对吧？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1255
 translate chinese sm1cs_mh008_throuple_carousel_end_22b9b3c1:
 
-    # mh "Yes, you do."
-    mh "Yes, you do."
+    # mh "是的，你必须。"
+    mh "是的，你必须。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1256
 translate chinese sm1cs_mh008_throuple_carousel_end_98292c6f:
 
-    # mh "And I'm going to be holding you to that, [mcname]."
-    mh "And I'm going to be holding you to that, [mcname]."
+    # mh "我会让你说到做到的，[mcname]。"
+    mh "我会让你说到做到的，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1259
 translate chinese sm1cs_mh008_throuple_carousel_end_7b471f6f:
 
-    # mc "Good."
-    mc "Good."
+    # mc "很好。"
+    mc "很好。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1262
 translate chinese sm1cs_mh008_throuple_carousel_end_afed84e0:
 
-    # sy "Well, I want one too!"
-    sy "Well, I want one too!"
+    # sy "嗯，我也想要一个！"
+    sy "嗯，我也想要一个！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1266
 translate chinese sm1cs_mh008_throuple_carousel_end_ce632f2e:
 
-    # mc "Anything for you, dear sister."
-    mc "Anything for you, dear sister."
+    # mc "为你做任何事，亲爱的妹妹。"
+    mc "为你做任何事，亲爱的妹妹。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1268
 translate chinese sm1cs_mh008_throuple_carousel_end_22e47135:
 
-    # mc "Anything for my best friend."
-    mc "Anything for my best friend."
+    # mc "为我最好的朋友做任何事。"
+    mc "为我最好的朋友做任何事。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1277
 translate chinese sm1cs_mh008_throuple_carousel_end_e1deded6:
 
-    # sy "Wait... I wanted, like, a whole production with my kiss."
-    sy "Wait... I wanted, like, a whole production with my kiss."
+    # sy "等等...我想要，就像，一个完整的吻的仪式。"
+    sy "等等...我想要，就像，一个完整的吻的仪式。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
 translate chinese sm1cs_mh008_throuple_carousel_end_4a9a3a30:
 
-    # mh "Yeah, something like this, [mcname]"
-    mh "Yeah, something like this, [mcname]"
+    # mh "是啊，像这样，[mcname]"
+    mh "是啊，像这样，[mcname]"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1286
 translate chinese sm1cs_mh008_throuple_carousel_end_77858d38:
 
-    # sy "Woah - Lyssa!"
-    sy "Woah - Lyssa!"
+    # sy "哇——丽莎！"
+    sy "哇——丽莎！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1289
 translate chinese sm1cs_mh008_throuple_carousel_end_55acb48e:
 
-    # mh "Just go with it, Stacy."
-    mh "Just go with it, Stacy."
+    # mh "顺其自然吧，史黛西。"
+    mh "顺其自然吧，史黛西。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1297
 translate chinese sm1cs_mh008_throuple_carousel_end_653b760e:
 
-    # mct "Holy shit... that's hot."
-    mct "Holy shit... that's hot."
+    # mct "我的天...真性感。"
+    mct "我的天...真性感。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1301
 translate chinese sm1cs_mh008_throuple_carousel_end_0bf97885:
 
-    # sy "Wow..."
-    sy "Wow..."
+    # sy "哇..."
+    sy "哇..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1304
 translate chinese sm1cs_mh008_throuple_carousel_end_bb6de89a:
 
-    # mh "All right, I do need to go though. I hope I see you soon, [mcname]."
-    mh "All right, I do need to go though. I hope I see you soon, [mcname]."
+    # mh "好了，我确实得走了。希望很快能见到你，[mcname]。"
+    mh "好了，我确实得走了。希望很快能见到你，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1307
 translate chinese sm1cs_mh008_throuple_carousel_end_df110fd3:
 
-    # mc "You will! I have to show you the new studio now that it's done!"
-    mc "You will! I have to show you the new studio now that it's done!"
+    # mc "会的！现在装修完了，我得带你看看新工作室！"
+    mc "会的！现在装修完了，我得带你看看新工作室！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1310
 translate chinese sm1cs_mh008_throuple_carousel_end_bcaa0de5:
 
-    # mh "Sounds like a date to me."
-    mh "Sounds like a date to me."
+    # mh "听起来像是约会。"
+    mh "听起来像是约会。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1313
 translate chinese sm1cs_mh008_throuple_carousel_end_c122e1f8:
 
-    # sy "[mcname]?"
-    sy "[mcname]?"
+    # sy "[mcname]？"
+    sy "[mcname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1315
 translate chinese sm1cs_mh008_throuple_carousel_end_f49fff8f:
 
-    # mc "Yeah?"
-    mc "Yeah?"
+    # mc "嗯？"
+    mc "嗯？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1318
 translate chinese sm1cs_mh008_throuple_carousel_end_29afcd50:
 
-    # sy "I need you to help me home. My legs are jelly and I'm scared I'm going to collapse any second now."
-    sy "I need you to help me home. My legs are jelly and I'm scared I'm going to collapse any second now."
+    # sy "我需要你帮我回家。我的腿都软了，我担心我随时会倒下。"
+    sy "我需要你帮我回家。我的腿都软了，我担心我随时会倒下。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1321
 translate chinese sm1cs_mh008_throuple_carousel_end_c43b6269:
 
-    # mc "All right, come on. Let's get you home."
-    mc "All right, come on. Let's get you home."
+    # mc "好的，走吧。让我们送你回家。"
+    mc "好的，走吧。让我们送你回家。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1325
 translate chinese sm1cs_mh008_throuple_carousel_end_3c5db827:
 
-    # sy "Thank yoooooouuuuu..."
-    sy "Thank yoooooouuuuu..."
+    # sy "谢谢你你你你..."
+    sy "谢谢你你你你..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1328
 translate chinese sm1cs_mh008_throuple_carousel_end_260b1487:
 
-    # mct "I honestly couldn't have planned a better date than this."
-    mct "I honestly couldn't have planned a better date than this."
+    # mct "说实话，我想不出比这更好的约会了。"
+    mct "说实话，我想不出比这更好的约会了。"
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:186
-    old "Try and Convince Lyssa"
-    new "Try and Convince Lyssa"
+    old "试着说服丽莎"
+    new "试着说服丽莎"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:186
-    old "Don't press the issue"
-    new "Don't press the issue"
+    old "不要强求"
+    new "不要强求"
 
