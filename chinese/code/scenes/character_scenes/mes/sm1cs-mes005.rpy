@@ -454,10 +454,10 @@ translate chinese sm1cs_mes005_4d17943c:
     # mc "But you know I'm going to have to get you back."
     mc "但你知道我得找回场子。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:240
-translate chinese sm1cs_mes005_d7a77946:
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:241
+translate chinese sm1cs_mes005_1276f4df:
 
-    # kv "Haha.{w}Looking forward to it, [mcname]."
+    # kv "Haha.{w} Looking forward to it, [mcname]."
     kv "哈哈。{w}我期待着呢，[mcname]。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:245
@@ -910,10 +910,10 @@ translate chinese sm1cs_mes005_28db3c43:
     # mc "No really. I wish we were going to a Fetish Locator party after this."
     mc "不，真的。我真希望我们在这之后能去参加性趣探测器派对。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:440
-translate chinese sm1cs_mes005_66d67cb2:
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:441
+translate chinese sm1cs_mes005_4a089a68:
 
-    # mes "Well, then you'll enjoy this ."
+    # mes "Well, then you'll enjoy this."
     mes "那么，你会喜欢这个的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:449
