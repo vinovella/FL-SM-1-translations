@@ -1394,61 +1394,61 @@ translate chinese sm1cs_am007_one_hour_later_68317885:
 translate chinese sm1cs_am007_one_hour_later_1fe5fc2b:
 
     # mc "I don't think so."
-    mc "I don't think so."
+    mc "我不这么认为。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:780
 translate chinese sm1cs_am007_one_hour_later_9a2b5140:
 
     # mc "You're thinking about your band right?"
-    mc "You're thinking about your band right?"
+    mc "你在想你的乐队吧？"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:781
 translate chinese sm1cs_am007_one_hour_later_b6d84516:
 
     # mc "Pepper and Mitch."
-    mc "Pepper and Mitch."
+    mc "佩珀和米奇。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:786
 translate chinese sm1cs_am007_one_hour_later_57610924:
 
     # am "I just can't believe them.{w} Pepper and Mitch have been my friends for years."
-    am "I just can't believe them.{w} Pepper and Mitch have been my friends for years."
+    am "我简直不敢相信他们。{w} 佩珀和米奇是我多年的朋友了。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:787
 translate chinese sm1cs_am007_one_hour_later_8b1ff3d2:
 
     # am "But if you looked up spoiled brats in the dictionary, their pictures would be right there!"
-    am "But if you looked up spoiled brats in the dictionary, their pictures would be right there!"
+    am "但如果你在字典里查娇生惯养的混蛋，他们的照片肯定就在那儿！"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:790
 translate chinese sm1cs_am007_one_hour_later_a95f6f96:
 
     # am "They know how much I love music, and they act like I'm trying to sabotage the band."
-    am "They know how much I love music, and they act like I'm trying to sabotage the band."
+    am "他们知道我有多热爱音乐，却表现得好像我在破坏乐队一样。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:791
 translate chinese sm1cs_am007_one_hour_later_062574da:
 
     # am "I'd fucking give up my left hand to make it big as a rock star."
-    am "I'd fucking give up my left hand to make it big as a rock star."
+    am "我他妈愿意付出我的左手来成为一个摇滚巨星。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:794
 translate chinese sm1cs_am007_one_hour_later_be60587c:
 
     # am "But I'm not an idiot."
-    am "But I'm not an idiot."
+    am "但我不是白痴。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:795
 translate chinese sm1cs_am007_one_hour_later_9425fa8c:
 
     # am "The odds to become a rock star are shit."
-    am "The odds to become a rock star are shit."
+    am "成为摇滚巨星的几率很渺茫。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:800
 translate chinese sm1cs_am007_one_hour_later_2f8e63ed:
 
     # am "And if I left Orbix...{w} if I just abandoned {i}Anna{/i} and the rest of them..."
-    am "And if I left Orbix...{w} if I just abandoned {i}Anna{/i} and the rest of them..."
+    am "如果我离开Orbix...{w} 如果我抛弃{i}安娜{/i}和其他人..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:801
 translate chinese sm1cs_am007_one_hour_later_e95686fe:
