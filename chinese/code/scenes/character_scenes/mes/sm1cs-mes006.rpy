@@ -656,181 +656,181 @@ translate chinese sm1cs_mes006_ecf872dc:
 translate chinese sm1cs_mes006_c238ad04:
 
     # mc "We need a safe word, in case you want to end it."
-    mc "We need a safe word, in case you want to end it."
+    mc "我们需要一个安全词，以防你想结束它。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:378
 translate chinese sm1cs_mes006_b4e0bfae:
 
     # mes "Haha. I think that is just what you want."
-    mes "Haha. I think that is just what you want."
+    mes "哈哈。我想那正是你想要的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:381
 translate chinese sm1cs_mes006_1caf12c3:
 
     # mc "Come on, Min. Safety first, right?"
-    mc "Come on, Min. Safety first, right?"
+    mc "来吧，明。安全第一，对吧？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:384
 translate chinese sm1cs_mes006_e5a44c4a:
 
     # mes "Okay."
-    mes "Okay."
+    mes "好的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:385
 translate chinese sm1cs_mes006_3b52be4e:
 
     # mes "Calculus."
-    mes "Calculus."
+    mes "微积分。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:388
 translate chinese sm1cs_mes006_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "明白了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:389
 translate chinese sm1cs_mes006_da19d979:
 
     # mc "I'll see you out there."
-    mc "I'll see you out there."
+    mc "外面见。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:402
 translate chinese sm1cs_mes006_bd9a2c17:
 
     # sy "Yay."
-    sy "Yay."
+    sy "耶。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:403
 translate chinese sm1cs_mes006_a5948d14:
 
     # sy "Thought I was going to have to go rescue you two."
-    sy "Thought I was going to have to go rescue you two."
+    sy "我还以为我得去救你们俩。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:406
 translate chinese sm1cs_mes006_a2ec2c51:
 
     # sy "Or join in on whatever you were actually doing."
-    sy "Or join in on whatever you were actually doing."
+    sy "或者加入你们实际在做的事情。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:412
 translate chinese sm1cs_mes006_19e33e24:
 
     # mes "So what game did you grab?"
-    mes "So what game did you grab?"
+    mes "所以你拿了什么游戏？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:414
 translate chinese sm1cs_mes006_608da802:
 
     # mc "Great game. It's called 'Boss Dungeon'."
-    mc "Great game. It's called 'Boss Dungeon'."
+    mc "很棒的游戏。它叫做'Boss Dungeon'。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:415
 translate chinese sm1cs_mes006_924a8a9f:
 
     # mc "We all get to play the Boss character in charge of our own dungeon."
-    mc "We all get to play the Boss character in charge of our own dungeon."
+    mc "我们都可以扮演负责自己地牢的Boss角色。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:418
 translate chinese sm1cs_mes006_016ace61:
 
     # sy "Oh cool. A medusa."
-    sy "Oh cool. A medusa."
+    sy "哦，酷。美杜莎。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:421
 translate chinese sm1cs_mes006_74e0b126:
 
     # mes "This one looks like Boswer."
-    mes "This one looks like Boswer."
+    mes "这个看起来像Boswer。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:423
 translate chinese sm1cs_mes006_4e6875bb:
 
     # mc "Yes, we'll randomly draw two and pick the one we like."
-    mc "Yes, we'll randomly draw two and pick the one we like."
+    mc "是的，我们会随机抽两个，然后选一个我们喜欢的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:427
 translate chinese sm1cs_mes006_a6bc92e7:
 
     # sy "I call the medusa!"
-    sy "I call the medusa!"
+    sy "我要美杜莎！"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:429
 translate chinese sm1cs_mes006_9ff7b3e8:
 
     # mc "Stacy that's against the rules."
-    mc "Stacy that's against the rules."
+    mc "史黛西，那违反规则。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:433
 translate chinese sm1cs_mes006_f90b2d59:
 
     # sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
-    sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
+    sy "规则，什么规则。{w}美杜莎很性感，而且她是绿色的，就像我的头发。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:434
 translate chinese sm1cs_mes006_392a584c:
 
     # sy "I {b}have{/b} to be her."
-    sy "I {b}have{/b} to be her."
+    sy "我{b}必须{/b}扮演她。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:441
 translate chinese sm1cs_mes006_e809e247:
 
     # mc "Fine you can play the Medusa."
-    mc "Fine you can play the Medusa."
+    mc "好吧，你可以玩美杜莎。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:442
 translate chinese sm1cs_mes006_abdcb8c5:
 
     # mc "Min, do you want to be the big turtle monster?"
-    mc "Min, do you want to be the big turtle monster?"
+    mc "明，你想当那个大乌龟怪物吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:445
 translate chinese sm1cs_mes006_76b4b16e:
 
     # mes "I'll be him if I draw him."
-    mes "I'll be him if I draw him."
+    mes "如果我抽到他，我就扮演他。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:447
 translate chinese sm1cs_mes006_a8daba0a:
 
     # mc "Cool."
-    mc "Cool."
+    mc "酷。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:454
 translate chinese sm1cs_mes006_1aff12a3:
 
     # mes "Don't be a spoiled winner."
-    mes "Don't be a spoiled winner."
+    mes "别当一个被宠坏的赢家。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:457
 translate chinese sm1cs_mes006_cdca773f:
 
     # sy "I'm not."
-    sy "I'm not."
+    sy "我没有。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:458
 translate chinese sm1cs_mes006_69638270:
 
     # sy "Come on, let's get cooking."
-    sy "Come on, let's get cooking."
+    sy "来吧，让我们开始吧。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:465
 translate chinese sm1cs_mes006_9ad3e47f:
 
     # mc "You don't get to pick a card, Stacy."
-    mc "You don't get to pick a card, Stacy."
+    mc "你不能选卡，史黛西。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:466
 translate chinese sm1cs_mes006_47bf6aa1:
 
     # mc "It's done randomly to make it fair."
-    mc "It's done randomly to make it fair."
+    mc "为了公平，是随机的。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:470
 translate chinese sm1cs_mes006_8b06e80c:
 
     # sy "Alright. Jeez. We can play by the rules."
-    sy "Alright. Jeez. We can play by the rules."
+    sy "好吧。天哪。我们可以按规则玩。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:471
 translate chinese sm1cs_mes006_b33e4940:
