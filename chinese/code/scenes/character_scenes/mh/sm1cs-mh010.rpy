@@ -362,7 +362,7 @@ translate chinese sm1cs_mh010_8c091e0d:
 translate chinese sm1cs_mh010_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:192
 translate chinese sm1cs_mh010_d7eb3ba9:
@@ -404,7 +404,7 @@ translate chinese sm1cs_mh010_67441c3b:
 translate chinese sm1cs_mh010_a31340dd_1:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:214
 translate chinese sm1cs_mh010_78c4c7aa:
