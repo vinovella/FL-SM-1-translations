@@ -3584,79 +3584,79 @@ translate chinese strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:68
     old "Game Time"
-    new "Game Time"
+    new "游戏时间"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:190
     old "I enjoy hearing it"
-    new "I enjoy hearing it"
+    new "我喜欢听你求我"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:190
     old "Don't tease her"
-    new "Don't tease her"
+    new "别逗她"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:238
     old "Keep doing watersports"
-    new "Keep doing watersports"
+    new "继续玩圣水"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:238
     old "Stop doing watersports"
-    new "Stop doing watersports"
+    new "停止玩圣水"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:273
     old "A little more"
-    new "A little more"
+    new "再进一步"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:273
     old "Stop her now"
-    new "Stop her now"
+    new "现在阻止她"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:436
     old "Let Stacy be the Medusa"
-    new "Let Stacy be the Medusa"
+    new "让史黛西当美杜莎"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:436
     old "Forbid Stacy from being the Medusa"
-    new "Forbid Stacy from being the Medusa"
+    new "禁止史黛西当美杜莎"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:490
     old "Twenty minutes later"
-    new "Twenty minutes later"
+    new "二十分钟后"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:565
     old "Try to win on your own"
-    new "Try to win on your own"
+    new "试着自己赢"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:565
     old "Target Stacy"
-    new "Target Stacy"
+    new "针对史黛西"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:815
     old "I'm okay if you call me 'daddy'"
-    new "I'm okay if you call me 'daddy'"
+    new "如果你想叫我'爸爸'我没意见"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:815
     old "I'm not going to manipulate you, Min."
-    new "I'm not going to manipulate you, Min."
+    new "我不会操纵你的，明。"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:878
     old "Yup"
-    new "Yup"
+    new "是的"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:878
     old "Some don't even wear dresses"
-    new "Some don't even wear dresses"
+    new "有些甚至不穿裙子"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1488
     old "Ask Stacy and Min to piss on you"
-    new "Ask Stacy and Min to piss on you"
+    new "让史黛西和明对你撒尿"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1488
     old "Maybe some other time."
-    new "Maybe some other time."
+    new "也许下次吧。"
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:813
     old "I'm not going to manipulate you, Min"
-    new "I'm not going to manipulate you, Min"
+    new "我不会操纵你的，明"
 
