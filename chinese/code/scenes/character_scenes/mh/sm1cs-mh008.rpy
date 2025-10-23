@@ -1400,7 +1400,7 @@ translate chinese sm1cs_mh008_couple_carousel_end_d90e3aed:
 translate chinese sm1cs_mh008_throuple_carousel_1b6d5927:
 
     # sy "[mcname]! Lyssa!"
-    sy "[mcname]! Lyssa!"
+    sy "[mcname]！丽莎！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:820
 translate chinese sm1cs_mh008_throuple_carousel_3e248f0f:
@@ -1412,25 +1412,25 @@ translate chinese sm1cs_mh008_throuple_carousel_3e248f0f:
 translate chinese sm1cs_mh008_throuple_carousel_058df31b:
 
     # sy "Sorry I'm so late. I had to shower, and find some clean clothes, and - never mind, did I miss anything fun?"
-    sy "Sorry I'm so late. I had to shower, and find some clean clothes, and - never mind, did I miss anything fun?"
+    sy "抱歉我来晚了。我得洗澡，找干净衣服，还有——算了，我错过什么好玩的事了吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:826
 translate chinese sm1cs_mh008_throuple_carousel_a3b9dec9:
 
     # mh "Just [mcname] winning me a little prize."
-    mh "Just [mcname] winning me a little prize."
+    mh "只是[mcname]帮我赢了个小奖品。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:829
 translate chinese sm1cs_mh008_throuple_carousel_62c252e1:
 
     # sy "What!"
-    sy "What!"
+    sy "什么！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:830
 translate chinese sm1cs_mh008_throuple_carousel_2f26d296:
 
     # sy "It's so cute! [mcname]! Why didn't you win me one?"
-    sy "It's so cute! [mcname]! Why didn't you win me one?"
+    sy "太可爱了！[mcname]！你怎么不给我赢一个？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:833
 translate chinese sm1cs_mh008_throuple_carousel_2cbf11a3:
@@ -1442,19 +1442,19 @@ translate chinese sm1cs_mh008_throuple_carousel_2cbf11a3:
 translate chinese sm1cs_mh008_throuple_carousel_c9c40c2f:
 
     # mh "Well, [mcname] didn't win it, exactly. But he paid for the winning game!"
-    mh "Well, [mcname] didn't win it, exactly. But he paid for the winning game!"
+    mh "嗯，[mcname]并不是真的赢的。但他付了赢的那局的钱！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:839
 translate chinese sm1cs_mh008_throuple_carousel_0c32fd40:
 
     # sy "Ohhhhhh."
-    sy "Ohhhhhh."
+    sy "哦哦哦哦哦。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:842
 translate chinese sm1cs_mh008_throuple_carousel_607b3a0e:
 
     # sy "Lyyssssaaaaaaaaa, will you win me a teddy bear with [mcname]'s money?"
-    sy "Lyyssssaaaaaaaaa, will you win me a teddy bear with [mcname]'s money?"
+    sy "丽莎啊啊啊啊啊，你能用[mcname]的钱给我赢一只泰迪熊吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:845
 translate chinese sm1cs_mh008_throuple_carousel_986f846c:
