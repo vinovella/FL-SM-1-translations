@@ -20,7 +20,7 @@ translate chinese sm1ms023_784915ca:
 translate chinese sm1ms023_3066aa7e:
 
     # mc "That's great!... But?"
-    mc "那很好啊！…… 不过怎么了呢？"
+    mc "那很好啊！...不过怎么了呢？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:26
 translate chinese sm1ms023_ece16b55:
@@ -134,79 +134,79 @@ translate chinese sm1ms023_9e14654d:
 translate chinese sm1ms023_1cb9d1ad:
 
     # sy "And I'm not sure which one to use."
-    sy "And I'm not sure which one to use."
+    sy "我不确定该用哪一个角度的素材。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:86
 translate chinese sm1ms023_7e66a037:
 
     # mc "I think the first angle. I like that one more."
-    mc "I think the first angle. I like that one more."
+    mc "我觉得用第一个好。我更喜欢那个角度的画面。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:91
 translate chinese sm1ms023_010efe66:
 
     # mc "The second angle is better. At least I think so."
-    mc "The second angle is better. At least I think so."
+    mc "第二个角度更好。至少我是这么觉得的。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:95
 translate chinese sm1ms023_78dae004:
 
     # sy "Cool. Cool, cool, cool."
-    sy "Cool. Cool, cool, cool."
+    sy "好。好好好。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:96
 translate chinese sm1ms023_4965fcb3:
 
     # sy "Well, I think I have a few more changes to make, but nothing crazy."
-    sy "Well, I think I have a few more changes to make, but nothing crazy."
+    sy "嗯，我觉得还需要做几处修改，但都不是什么大问题。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:99
 translate chinese sm1ms023_0c292730:
 
     # mc "Yeah? Well what else do you need to do?"
-    mc "Yeah? Well what else do you need to do?"
+    mc "是吗？还需要做些什么啊？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:103
 translate chinese sm1ms023_a4dfa9a7:
 
     # sy "I'll show you."
-    sy "I'll show you."
+    sy "你来看。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:118
 translate chinese sm1ms023_00d0de41:
 
     # sy "And yeah, that's most of the video editing to do. I mean, there's definitely some more fine tuning I want to do, but-"
-    sy "And yeah, that's most of the video editing to do. I mean, there's definitely some more fine tuning I want to do, but-"
+    sy "差不多就是这些视频剪辑了。我的意思是，肯定还有些细节需要调整，但--"
 
 # game/code/scenes/main_story/sm1ms023.rpy:121
 translate chinese sm1ms023_21b35f3d:
 
     # sy "Shit, I forgot. I still need to color correct all of the footage."
-    sy "Shit, I forgot. I still need to color correct all of the footage."
+    sy "该死，我忘了。还得给所有素材做调色呢。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:125
 translate chinese sm1ms023_2f53e451:
 
     # mc "Why do you have to color correct it? We shot it on a set?"
-    mc "Why do you have to color correct it? We shot it on a set?"
+    mc "为什么非要调色啊？咱们不是在摄影棚里拍的吗？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:128
 translate chinese sm1ms023_abd9778c:
 
     # sy "We didn't cover the windows, so the outside light changed the ambient color temp."
-    sy "We didn't cover the windows, so the outside light changed the ambient color temp."
+    sy "咱们没把窗户挡住，所以外面的光线改变了环境色温。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:129
 translate chinese sm1ms023_1b997cbb:
 
     # sy "So it's nothing crazy, but it's - shit, let me show you."
-    sy "So it's nothing crazy, but it's - shit, let me show you."
+    sy "也不是什么大问题，只是--哎，我给你看看就知道了。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:133
 translate chinese sm1ms023_2f9dfaf6:
 
     # sy "Let's see..."
-    sy "Let's see..."
+    sy "我找找..."
 
 # game/code/scenes/main_story/sm1ms023.rpy:136
 translate chinese sm1ms023_5c2c7bcf:
@@ -218,107 +218,107 @@ translate chinese sm1ms023_5c2c7bcf:
 translate chinese sm1ms023_7a8eb349:
 
     # sy "Here we go."
-    sy "Here we go."
+    sy "找到了。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:141
 translate chinese sm1ms023_73b3786f:
 
     # sy "See what I mean?"
-    sy "See what I mean?"
+    sy "你明白我的意思了吧？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:144
 translate chinese sm1ms023_87e39ba6:
 
     # mc "Yeah, I see what you mean."
-    mc "Yeah, I see what you mean."
+    mc "嗯，我明白你指什么了。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:148
 translate chinese sm1ms023_ece16b55_1:
 
     # sy "But..."
-    sy "But..."
+    sy "不过..."
 
 # game/code/scenes/main_story/sm1ms023.rpy:154
 translate chinese sm1ms023_c43eeeda:
 
     # sy "All fixed. But I have to do this for a lot of the clips."
-    sy "All fixed. But I have to do this for a lot of the clips."
+    sy "都调好了。但我得给好多片段都做一下调整。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:157
 translate chinese sm1ms023_54047dc5:
 
     # mc "Yeah, I see that now."
-    mc "Yeah, I see that now."
+    mc "嗯，我现在知道了。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:158
 translate chinese sm1ms023_3481b9ed:
 
     # mc "Should we, I don't know, invest in some blinds or something?"
-    mc "Should we, I don't know, invest in some blinds or something?"
+    mc "咱们是不是该，我不知道，买些百叶窗之类的东西啊？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:161
 translate chinese sm1ms023_fc1480e3:
 
     # sy "We would need light control blinds, or blackout blinds, and those are expeeeeensive."
-    sy "We would need light control blinds, or blackout blinds, and those are expeeeeensive."
+    sy "咱们需要的是调光百叶窗，或者遮光百叶窗，可那些都超、级、贵。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:164
 translate chinese sm1ms023_5476f022:
 
     # mc "Yeah, you got a good point there."
-    mc "Yeah, you got a good point there."
+    mc "嗯，你说得有道理。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:167
 translate chinese sm1ms023_89990997:
 
     # mc "So... how much longer do you need for the edit?"
-    mc "So... how much longer do you need for the edit?"
+    mc "那...你还需要多久才能剪完啊？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:170
 translate chinese sm1ms023_378ae441:
 
     # sy "For the picture lock... maybe 3 more days?"
-    sy "For the picture lock... maybe 3 more days?"
+    sy "要定版的话...大概还需要 3 天？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:173
 translate chinese sm1ms023_087ba524:
 
     # mc "Sweet, I'll check in with you later."
-    mc "Sweet, I'll check in with you later."
+    mc "太好了，之后我再过来看看。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:175
 translate chinese sm1ms023_bd854202:
 
     # sy "Sounds good."
-    sy "Sounds good."
+    sy "没问题。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:179
 translate chinese sm1ms023_e70644b2:
 
     # mc "Later, Stacy!"
-    mc "Later, Stacy!"
+    mc "史黛西，回头见！"
 
 # game/code/scenes/main_story/sm1ms023.rpy:182
 translate chinese sm1ms023_9d82f2f1:
 
     # sy "Later, [mcname]."
-    sy "Later, [mcname]."
+    sy "回头见，[mcname]。"
 
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms023.rpy:46
     old "Cut it"
-    new "Cut it"
+    new "删掉这段"
 
     # game/code/scenes/main_story/sm1ms023.rpy:46
     old "Leave it"
-    new "Leave it"
+    new "保留这段"
 
     # game/code/scenes/main_story/sm1ms023.rpy:81
     old "Use the first angle"
-    new "Use the first angle"
+    new "用第一个角度的素材"
 
     # game/code/scenes/main_story/sm1ms023.rpy:81
     old "Use the second angle"
-    new "Use the second angle"
+    new "用第二个角度的素材"
 
