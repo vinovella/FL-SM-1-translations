@@ -836,121 +836,121 @@ translate chinese sm1cs_mes006_8b06e80c:
 translate chinese sm1cs_mes006_b33e4940:
 
     # sy "Cause that's always fun."
-    sy "Cause that's always fun."
+    sy "因为那总是很有趣。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:476
 translate chinese sm1cs_mes006_c79310c6:
 
     # mes "Are we ready?"
-    mes "Are we ready?"
+    mes "我们准备好了吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:478
 translate chinese sm1cs_mes006_f800bed0_1:
 
     # mc "Yes."
-    mc "Yes."
+    mc "嗯。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:482
 translate chinese sm1cs_mes006_f19a0df0:
 
     # mc "Welcome to Boss Dungeon. The objectives are simple..."
-    mc "Welcome to Boss Dungeon. The objectives are simple..."
+    mc "欢迎来到Boss Dungeon。目标很简单..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:483
 translate chinese sm1cs_mes006_bdf74431:
 
     # mc "Be the last Boss Monster standing, or collect ten souls from the heroes."
-    mc "Be the last Boss Monster standing, or collect ten souls from the heroes."
+    mc "成为最后一个站立的Boss怪物，或者从英雄那里收集十个灵魂。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:498
 translate chinese sm1cs_mes006_continue_5ac051d6:
 
     # mes "I play Warlock Library."
-    mes "I play Warlock Library."
+    mes "我出术士图书馆。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:499
 translate chinese sm1cs_mes006_continue_bc3ecaf5:
 
     # mes "All my treasure turns to Magic Books."
-    mes "All my treasure turns to Magic Books."
+    mes "我所有的宝藏都变成了魔法书。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:502
 translate chinese sm1cs_mes006_continue_d6817765:
 
     # sy "Wait."
-    sy "Wait."
+    sy "等等。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:503
 translate chinese sm1cs_mes006_continue_f1b25c22:
 
     # sy "What does that mean? [mcname]?"
-    sy "What does that mean? [mcname]?"
+    sy "那是什么意思？[mcname]？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:506
 translate chinese sm1cs_mes006_continue_3e575e38:
 
     # mc "Trouble."
-    mc "Trouble."
+    mc "麻烦。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:507
 translate chinese sm1cs_mes006_continue_99bac5fb:
 
     # mc "All the heroes after magic items now go to Min's dungeon."
-    mc "All the heroes after magic items now go to Min's dungeon."
+    mc "所有追求魔法物品的英雄现在都去明的地牢了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:511
 translate chinese sm1cs_mes006_continue_806ce49e:
 
     # mes "That's really cool."
-    mes "That's really cool."
+    mes "真酷。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:512
 translate chinese sm1cs_mes006_continue_c18b7bc7:
 
     # mes "How many souls do I get?"
-    mes "How many souls do I get?"
+    mes "我得到了多少灵魂？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:515
 translate chinese sm1cs_mes006_continue_c35c3984:
 
     # mc "Don't get cute, Min. All three of those heroes just got killed in your dungeon."
-    mc "Don't get cute, Min. All three of those heroes just got killed in your dungeon."
+    mc "别装可爱，明。那三个英雄刚刚在你的地牢里被杀了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:517
 translate chinese sm1cs_mes006_continue_e8702862:
 
     # mes "Perfect. That means I pick up three souls!"
-    mes "Perfect. That means I pick up three souls!"
+    mes "完美。那意味着我拿到了三个灵魂！"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:520
 translate chinese sm1cs_mes006_continue_1099e931:
 
     # sy "Oh no. That's really bad. I think."
-    sy "Oh no. That's really bad. I think."
+    sy "哦不。那真的很糟糕。我觉得。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:522
 translate chinese sm1cs_mes006_continue_a814932f:
 
     # mc "Yeah. Bad. Min now has seven souls."
-    mc "Yeah. Bad. Min now has seven souls."
+    mc "是的。很糟糕。明现在有七个灵魂了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:525
 translate chinese sm1cs_mes006_continue_67b9bcd4:
 
     # sy "Three more and she wins."
-    sy "Three more and she wins."
+    sy "再来三个她就赢了。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:528
 translate chinese sm1cs_mes006_continue_ebacde9c:
 
     # mes "All your souls will belong to us."
-    mes "All your souls will belong to us."
+    mes "你们所有的灵魂都将属于我们。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:530
 translate chinese sm1cs_mes006_continue_faa03e1a:
 
     # mc "Haha."
-    mc "Haha."
+    mc "哈哈。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:531
 translate chinese sm1cs_mes006_continue_e6d20954:
