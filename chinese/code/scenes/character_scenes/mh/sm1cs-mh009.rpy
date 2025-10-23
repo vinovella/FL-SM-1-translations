@@ -362,13 +362,13 @@ translate chinese sm1cs_mh009_583f83b6:
 translate chinese sm1cs_mh009_0236ebb2:
 
     # mh "Is that where you interview your new actresses?"
-    mh "Is that where you interview your new actresses?"
+    mh "那是你面试新女演员的地方吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:240
 translate chinese sm1cs_mh009_716608a8:
 
     # mc "Uh, maybe in the future. I've usually just done it sitting on the couch."
-    mc "Uh, maybe in the future. I've usually just done it sitting on the couch."
+    mc "呃，也许将来吧。我通常就坐在沙发上面试。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:241
 translate chinese sm1cs_mh009_9ba07595:
@@ -380,217 +380,217 @@ translate chinese sm1cs_mh009_9ba07595:
 translate chinese sm1cs_mh009_b2f49166:
 
     # mh "This couch?"
-    mh "This couch?"
+    mh "这个沙发？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:247
 translate chinese sm1cs_mh009_f7ed1ce0:
 
     # mc "Uhm, yep. That's the one."
-    mc "Uhm, yep. That's the one."
+    mc "呃，是的。就是这个。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:251
 translate chinese sm1cs_mh009_93a021fd:
 
     # mh "Hmmmm...{w} Fascinating."
-    mh "Hmmmm...{w} Fascinating."
+    mh "嗯...{w}真有意思。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:252
 translate chinese sm1cs_mh009_b01488c7:
 
     # mh "And what's the interview like?"
-    mh "And what's the interview like?"
+    mh "面试是什么样的？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:256
 translate chinese sm1cs_mh009_a669d15e:
 
     # mc "What do you mean? Like... I just ask questions, I guess?"
-    mc "What do you mean? Like... I just ask questions, I guess?"
+    mc "你什么意思？就...我只是问问题，我想？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:258
 translate chinese sm1cs_mh009_d344fc72:
 
     # mh "Hmmmmmmm..."
-    mh "Hmmmmmmm..."
+    mh "嗯嗯嗯嗯嗯..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:262
 translate chinese sm1cs_mh009_afc0ab36:
 
     # mh "Well, I'm definitely curious."
-    mh "Well, I'm definitely curious."
+    mh "嗯，我确实很好奇。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:264
 translate chinese sm1cs_mh009_249780e4:
 
     # mc "Curious about?"
-    mc "Curious about?"
+    mc "对什么好奇？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:267
 translate chinese sm1cs_mh009_24d91849:
 
     # mh "This \"interview\", how you get your actresses, the whole process of going from a woman you know to someone you're fucking on camera."
-    mh "This \"interview\", how you get your actresses, the whole process of going from a woman you know to someone you're fucking on camera."
+    mh "这个\"面试\"，你如何招募女演员，从你认识的女人到在镜头前和她做爱的整个过程。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:269
 translate chinese sm1cs_mh009_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:272
 translate chinese sm1cs_mh009_d4d43f3a:
 
     # mh "Yes. There's something about the whole thing just feels so..."
-    mh "Yes. There's something about the whole thing just feels so..."
+    mh "是的。整件事让人感觉如此..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:273
 translate chinese sm1cs_mh009_8d74ee2a:
 
     # mh "Feels so submissive to me. And I can't help but be a little excited by the concept."
-    mh "Feels so submissive to me. And I can't help but be a little excited by the concept."
+    mh "对我来说感觉如此顺从。而且我忍不住对这个概念有点兴奋。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:275
 translate chinese sm1cs_mh009_51e52cc6:
 
     # mc "Well, I can answer any questions you might have!"
-    mc "Well, I can answer any questions you might have!"
+    mc "嗯，我可以回答你的任何问题！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:278
 translate chinese sm1cs_mh009_35f0e137:
 
     # mh "No."
-    mh "No."
+    mh "不。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:280
 translate chinese sm1cs_mh009_0231d07a:
 
     # mc "Oh, erm-"
-    mc "Oh, erm-"
+    mc "哦，呃--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:283
 translate chinese sm1cs_mh009_ad9d879d:
 
     # mh "I want you to {b}show{/b} me, [mcname]."
-    mh "I want you to {b}show{/b} me, [mcname]."
+    mh "我要你{b}展示{/b}给我看，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:286
 translate chinese sm1cs_mh009_30bca0bc:
 
     # mc "You want me to... show you?"
-    mc "You want me to... show you?"
+    mc "你想让我...展示给你看？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:289
 translate chinese sm1cs_mh009_32acb959:
 
     # mh "Yes."
-    mh "Yes."
+    mh "是的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:291
 translate chinese sm1cs_mh009_f781764f:
 
     # mc "But I thought... that you didn't approve of this?"
-    mc "But I thought... that you didn't approve of this?"
+    mc "但我以为...你不赞成这个？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:294
 translate chinese sm1cs_mh009_2dda7433:
 
     # mh "I... I'm conflicted. Because, you're correct. But..."
-    mh "I... I'm conflicted. Because, you're correct. But..."
+    mh "我...我很矛盾。因为，你说得对。但是..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:295
 translate chinese sm1cs_mh009_d2220f3e:
 
     # mh "I have always been a woman interested in process and results. And this is another process with fascinating results."
-    mh "I have always been a woman interested in process and results. And this is another process with fascinating results."
+    mh "我一直是一个对过程和结果感兴趣的女人。而这是另一个有着迷人结果的过程。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:296
 translate chinese sm1cs_mh009_e13e66b7:
 
     # mh "And... I do find myself thinking about the level of honesty and... submission, in a role like this."
-    mh "And... I do find myself thinking about the level of honesty and... submission, in a role like this."
+    mh "而且...我确实发现自己在思考这样的角色中的诚实和...顺从程度。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:297
 translate chinese sm1cs_mh009_4fb44de1:
 
     # mh "I can't help but feel a bit hungry..{w} to know more about how it works..."
-    mh "I can't help but feel a bit hungry..{w} to know more about how it works..."
+    mh "我忍不住感到有点渴望..{w}想更多地了解它是如何运作的..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:300
 translate chinese sm1cs_mh009_f78e912e:
 
     # mh "And seeing all of the effort you're putting in, and all of the energy and effort to make this dream of yours a reality..."
-    mh "And seeing all of the effort you're putting in, and all of the energy and effort to make this dream of yours a reality..."
+    mh "看到你为实现梦想付出的所有努力，所有的精力和心血..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:301
 translate chinese sm1cs_mh009_b3b196b8:
 
     # mh "I know you care, [mcname]."
-    mh "I know you care, [mcname]."
+    mh "我知道你很在意，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:302
 translate chinese sm1cs_mh009_302a7d28:
 
     # mh "And my opinion aside, if you care this deeply about something, I want to {b}care{/b} about it too."
-    mh "And my opinion aside, if you care this deeply about something, I want to {b}care{/b} about it too."
+    mh "撇开我的意见不谈，如果你对某件事如此在意，我也想要{b}在意{/b}它。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:304
 translate chinese sm1cs_mh009_33009130:
 
     # mc "Lyssa..."
-    mc "Lyssa..."
+    mc "丽莎..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:307
 translate chinese sm1cs_mh009_845d4c7d:
 
     # mh "Enough sentimentality for the moment, back to the task at hand."
-    mh "Enough sentimentality for the moment, back to the task at hand."
+    mh "感情用事到此为止，回到手头的任务。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:308
 translate chinese sm1cs_mh009_52f7a3da:
 
     # mh "I want you to show me what it's like to be one of the women on your couch, [mcname]."
-    mh "I want you to show me what it's like to be one of the women on your couch, [mcname]."
+    mh "我想让你向我展示成为你沙发上的女人之一是什么感觉，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:310
 translate chinese sm1cs_mh009_5f46c07b:
 
     # mc "I thought you'd never ask."
-    mc "I thought you'd never ask."
+    mc "我还以为你永远不会问呢。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:313
 translate chinese sm1cs_mh009_8ac5103c:
 
     # mct "Are we really just going to skip past all of that deep emotional stuff? That felt like..."
-    mct "Are we really just going to skip past all of that deep emotional stuff? That felt like..."
+    mct "我们真的要跳过所有那些深层的情感内容吗？那感觉像..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:314
 translate chinese sm1cs_mh009_592adc53:
 
     # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for awhile?"
-    mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for awhile?"
+    mct "她说了一些非常重要的话。她真的被性爱面试的想法激动到想要暂时忽略它吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:318
 translate chinese sm1cs_mh009_4c29ffc4:
 
     # mh "Before we begin, I think we should set up some ground rules."
-    mh "Before we begin, I think we should set up some ground rules."
+    mh "在我们开始之前，我认为我们应该制定一些基本规则。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:320
 translate chinese sm1cs_mh009_c9f971da:
 
     # mc "I'm all ears!"
-    mc "I'm all ears!"
+    mc "我洗耳恭听！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:323
 translate chinese sm1cs_mh009_48b8a4e9:
 
     # mh "First, during our little roleplay, I want you to call me... Allison."
-    mh "First, during our little roleplay, I want you to call me... Allison."
+    mh "首先，在我们的小角色扮演中，我想让你叫我...艾莉森。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:325
 translate chinese sm1cs_mh009_1cd889c4:
 
     # mc "Like... your friend, Allison?"
-    mc "Like... your friend, Allison?"
+    mc "就像...你的朋友艾莉森？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:326
 translate chinese sm1cs_mh009_289e2641:
