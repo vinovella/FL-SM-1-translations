@@ -2,133 +2,133 @@
 translate chinese sm1cs_dc008_6e54e9df:
 
     # mct "Man... this date has been a long time coming. I'm pretty excited that this is {b}finally{/b} happening."
-    mct "Man... this date has been a long time coming. I'm pretty excited that this is {b}finally{/b} happening."
+    mct "天啊...这次约会等了好久了。我很兴奋这{b}终于{/b}要发生了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:15
 translate chinese sm1cs_dc008_843b4ef2:
 
     # mct "All that's left to do is... well, go on the date!"
-    mct "All that's left to do is... well, go on the date!"
+    mct "剩下要做的就是...嗯，去约会！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:16
 translate chinese sm1cs_dc008_33376bd9:
 
     # mct "I wonder if Debbie is already here..."
-    mct "I wonder if Debbie is already here..."
+    mct "不知道黛比是不是已经到了..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:20
 translate chinese sm1cs_dc008_0ee89fa0:
 
     # mct "There she is! Punctual as ever..."
-    mct "There she is! Punctual as ever..."
+    mct "她在那儿！一如既往地准时..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:21
 translate chinese sm1cs_dc008_2a2af33c:
 
     # mct "And looking {b}damn{/b} good."
-    mct "And looking {b}damn{/b} good."
+    mct "而且看起来{b}真他妈{/b}漂亮。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:23
 translate chinese sm1cs_dc008_3e0984ed:
 
     # "Waiter" "And I will make sure your date joins you as soon as he arrives."
-    "Waiter" "And I will make sure your date joins you as soon as he arrives."
+    "服务员" "我会确保您的约会对象一到就过来。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:25
 translate chinese sm1cs_dc008_f4a14c02:
 
     # dc "No need! This is him."
-    dc "No need! This is him."
+    dc "不用了！他来了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:29
 translate chinese sm1cs_dc008_2c9a23fd:
 
     # mc "Wow..."
-    mc "Wow..."
+    mc "哇..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:36
 translate chinese sm1cs_dc008_6099fe8c:
 
     # dc "Hmm?"
-    dc "Hmm?"
+    dc "嗯？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:42
 translate chinese sm1cs_dc008_f705863b:
 
     # mc "It's just..."
-    mc "It's just..."
+    mc "只是..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:45
 translate chinese sm1cs_dc008_24092285:
 
     # dc "Just what? What's the matter, [mcname]?"
-    dc "Just what? What's the matter, [mcname]?"
+    dc "只是什么？怎么了，[mcname]？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:49
 translate chinese sm1cs_dc008_7367ce17:
 
     # mc "I thought you always looked best in uniform."
-    mc "I thought you always looked best in uniform."
+    mc "我以为你穿制服的时候最好看。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:51
 translate chinese sm1cs_dc008_ece20c4d:
 
     # mc "I didn't think you could look better out of uniform."
-    mc "I didn't think you could look better out of uniform."
+    mc "没想到你不穿制服看起来更好。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:52
 translate chinese sm1cs_dc008_81593a9f:
 
     # mc "But I was wrong - you look incredible, Debbie."
-    mc "But I was wrong - you look incredible, Debbie."
+    mc "但我错了——你看起来美极了，黛比。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:53
 translate chinese sm1cs_dc008_c4ab66d2:
 
     # mc "I'm sorry - Officer Callahan."
-    mc "I'm sorry - Officer Callahan."
+    mc "抱歉——卡拉汉警官。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:56
 translate chinese sm1cs_dc008_5fa7ce74:
 
     # dc "Oh, knock it off, [mcname]!{w} You had me worried there!"
-    dc "Oh, knock it off, [mcname]!{w} You had me worried there!"
+    dc "哦，别闹了，[mcname]！{w}你刚才吓到我了！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:60
 translate chinese sm1cs_dc008_de852206:
 
     # mc "I have to keep you guessing! Keep things interesting, you know?"
-    mc "I have to keep you guessing! Keep things interesting, you know?"
+    mc "我得让你猜不透！保持点神秘感，你懂的吧？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:63
 translate chinese sm1cs_dc008_63ea85aa:
 
     # dc "They don't need to be {i}that{/i} interesting!"
-    dc "They don't need to be {i}that{/i} interesting!"
+    dc "不需要{i}那么{/i}神秘！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:66
 translate chinese sm1cs_dc008_e3dfd71f:
 
     # mc "All right, all right - I promise to take... 20 percent off the top."
-    mc "All right, all right - I promise to take... 20 percent off the top."
+    mc "好吧，好吧——我保证减少...百分之二十。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:69
 translate chinese sm1cs_dc008_7955a532:
 
     # dc "Thank you, Squirrely [mcname]."
-    dc "Thank you, Squirrely [mcname]."
+    dc "谢谢你，古灵精怪的[mcname]。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:73
 translate chinese sm1cs_dc008_1a6181b5:
 
     # dc "This is quite the nice restaurant!"
-    dc "This is quite the nice restaurant!"
+    dc "这家餐厅真不错！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:77
 translate chinese sm1cs_dc008_f3203e54:
 
     # mc "I think so too. I hope you like it!"
-    mc "I think so too. I hope you like it!"
+    mc "我也这么觉得。希望你喜欢！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:80
 translate chinese sm1cs_dc008_4c590f8e:
@@ -140,61 +140,61 @@ translate chinese sm1cs_dc008_4c590f8e:
 translate chinese sm1cs_dc008_b4e8d2fe:
 
     # dc "It's definitely nice!"
-    dc "It's definitely nice!"
+    dc "确实很不错！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:85
 translate chinese sm1cs_dc008_012c7ed7:
 
     # mc "Oh? Is something wrong?"
-    mc "Oh? Is something wrong?"
+    mc "哦？有什么不对吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:88
 translate chinese sm1cs_dc008_5ced8d29:
 
     # dc "No, no! It's nothing like that!"
-    dc "No, no! It's nothing like that!"
+    dc "不，不是！不是那样的！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:95
 translate chinese sm1cs_dc008_c772b2ac:
 
     # "Waiter" "Good evening. Would either of you like to begin your meal with a glass of wine?"
-    "Waiter" "Good evening. Would either of you like to begin your meal with a glass of wine?"
+    "服务员" "晚上好。你们想先来杯红酒开开胃吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:97
 translate chinese sm1cs_dc008_54da2d69:
 
     # dc "Yes!"
-    dc "Yes!"
+    dc "好的！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:98
 translate chinese sm1cs_dc008_2ac081b1:
 
     # dc "Uhm, that sounds wonderful. I'll take a glass of... red?"
-    dc "Uhm, that sounds wonderful. I'll take a glass of... red?"
+    dc "嗯，听起来不错。我要一杯...红酒？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:101
 translate chinese sm1cs_dc008_7b35456f:
 
     # "Waiter" "Of course. And for you, sir?"
-    "Waiter" "Of course. And for you, sir?"
+    "服务员" "当然。那您呢，先生？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:103
 translate chinese sm1cs_dc008_afff03ad:
 
     # mc "I'll also take a glass of your house red."
-    mc "I'll also take a glass of your house red."
+    mc "我也要一杯店里的红酒。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:104
 translate chinese sm1cs_dc008_44354fc3:
 
     # "Waiter" "Excellent choices. I will have that right out."
-    "Waiter" "Excellent choices. I will have that right out."
+    "服务员" "很好的选择。马上就来。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:108
 translate chinese sm1cs_dc008_06ea2fde:
 
     # mc "You seem pretty excited about getting a glass of wine, Debbie."
-    mc "You seem pretty excited about getting a glass of wine, Debbie."
+    mc "你看起来对这杯红酒挺兴奋的，黛比。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:111
 translate chinese sm1cs_dc008_4c590f8e_1:
@@ -206,7 +206,7 @@ translate chinese sm1cs_dc008_4c590f8e_1:
 translate chinese sm1cs_dc008_86de3697:
 
     # mc "Anything you want to tell me?"
-    mc "Anything you want to tell me?"
+    mc "有什么想跟我说的吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:118
 translate chinese sm1cs_dc008_4c590f8e_2:
@@ -218,49 +218,49 @@ translate chinese sm1cs_dc008_4c590f8e_2:
 translate chinese sm1cs_dc008_1ed93cee:
 
     # mc "If you want to call this off, Deb-"
-    mc "If you want to call this off, Deb-"
+    mc "如果你想取消的话，黛--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:121
 translate chinese sm1cs_dc008_7ac7deee:
 
     # dc "No, no! That's not - that's not what I want at all!"
-    dc "No, no! That's not - that's not what I want at all!"
+    dc "不，不是！不是——我完全不是那个意思！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:124
 translate chinese sm1cs_dc008_f4309871:
 
     # mc "Okay, okay! I just had to check."
-    mc "Okay, okay! I just had to check."
+    mc "好吧，好吧！我只是要确认一下。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:126
 translate chinese sm1cs_dc008_653f936a:
 
     # dc "It's just, erm..."
-    dc "It's just, erm..."
+    dc "只是，呃..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:130
 translate chinese sm1cs_dc008_b80b7e5f:
 
     # "Waiter" "Your wine."
-    "Waiter" "Your wine."
+    "服务员" "您的红酒。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:132
 translate chinese sm1cs_dc008_0531688b:
 
     # dc "Thank you!"
-    dc "Thank you!"
+    dc "谢谢！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:136
 translate chinese sm1cs_dc008_5814b5ec:
 
     # "Waiter" "Of course. Do you two still need a moment with the menu? Or are you ready to order?"
-    "Waiter" "Of course. Do you two still need a moment with the menu? Or are you ready to order?"
+    "服务员" "不客气。你们还需要看看菜单吗？还是准备好点菜了？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:138
 translate chinese sm1cs_dc008_ddb7485f:
 
     # mc "I think we need a few more minutes."
-    mc "I think we need a few more minutes."
+    mc "我想我们还需要几分钟。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:139
 translate chinese sm1cs_dc008_4290e358:
@@ -272,115 +272,115 @@ translate chinese sm1cs_dc008_4290e358:
 translate chinese sm1cs_dc008_7c1ee514:
 
     # mct "Man, Debbie really wanted that glass of wine."
-    mct "Man, Debbie really wanted that glass of wine."
+    mct "天啊，黛比真的很想要那杯红酒。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:145
 translate chinese sm1cs_dc008_9df09a66:
 
     # mct "Maybe she's thirsty? Or maybe... it's something else."
-    mct "Maybe she's thirsty? Or maybe... it's something else."
+    mct "也许她渴了？或者也许...是别的原因。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:149
 translate chinese sm1cs_dc008_a1c1bb04:
 
     # dc "Wooo..."
-    dc "Wooo..."
+    dc "哇哦..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:152
 translate chinese sm1cs_dc008_9e7ca970:
 
     # mc "Yeah? Tell me how you really feel about that glass of wine."
-    mc "Yeah? Tell me how you really feel about that glass of wine."
+    mc "是吗？告诉我你对那杯红酒的真实感受。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:155
 translate chinese sm1cs_dc008_9cf967d2:
 
     # dc "Oh, I- that was rude, wasn't it?{w} I am so sorry."
-    dc "Oh, I- that was rude, wasn't it?{w} I am so sorry."
+    dc "哦，我——那样很失礼，对吧？{w}真的很抱歉。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:158
 translate chinese sm1cs_dc008_9c1eb13e:
 
     # mc "It's fine, Debbie, seriously."
-    mc "It's fine, Debbie, seriously."
+    mc "没事的，黛比，真的。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:159
 translate chinese sm1cs_dc008_6ffbd7e7:
 
     # mc "Whenever you're ready to tell me what's going, I'm here."
-    mc "Whenever you're ready to tell me what's going, I'm here."
+    mc "什么时候想说了，我都在这儿听着。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:162
 translate chinese sm1cs_dc008_85ebe31c:
 
     # dc "I... it's really not that serious, [mcname]."
-    dc "I... it's really not that serious, [mcname]."
+    dc "我...真的没那么严重，[mcname]。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:165
 translate chinese sm1cs_dc008_cf33e350:
 
     # mc "Either way, whenever you're ready to tell me."
-    mc "Either way, whenever you're ready to tell me."
+    mc "无论如何，什么时候准备好了就告诉我。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:168
 translate chinese sm1cs_dc008_351802ba:
 
     # dc "It's...{w} I've never been to such a nice restaurant, probably ever. Especially not on a date."
-    dc "It's...{w} I've never been to such a nice restaurant, probably ever. Especially not on a date."
+    dc "就是...{w}我从来没来过这么高档的餐厅。尤其是约会的时候。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:169
 translate chinese sm1cs_dc008_26c5de13:
 
     # dc "In fact... I'm not sure if I've ever really been on a proper first date."
-    dc "In fact... I'm not sure if I've ever really been on a proper first date."
+    dc "事实上...我不确定自己有没有真正地约过会。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:170
 translate chinese sm1cs_dc008_01b6b9ff:
 
     # dc "Heck, I can't even remember the last time I put on a dress."
-    dc "Heck, I can't even remember the last time I put on a dress."
+    dc "天啊，我都不记得上次穿裙子是什么时候了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:173
 translate chinese sm1cs_dc008_b87ccde0:
 
     # dc "This thing was tucked in the way back of my closet, I had a hard time even finding it."
-    dc "This thing was tucked in the way back of my closet, I had a hard time even finding it."
+    dc "这条裙子藏在衣柜最深处，我找了好久才找到。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:174
 translate chinese sm1cs_dc008_84532e79:
 
     # dc "And my stomach has been doing somersaults ever since you texted me."
-    dc "And my stomach has been doing somersaults ever since you texted me."
+    dc "从你发短信给我开始，我的心就一直七上八下的。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:175
 translate chinese sm1cs_dc008_95b8a8f8:
 
     # dc "I'm too nervous to eat, I think the only thing I can put in me is this glass of wine."
-    dc "I'm too nervous to eat, I think the only thing I can put in me is this glass of wine."
+    dc "我紧张得吃不下东西，我想我只能喝这杯红酒了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:178
 translate chinese sm1cs_dc008_41236215:
 
     # dc "And, I don't know...{w} it feels kind of... embarrassing to be this nervous."
-    dc "And, I don't know...{w} it feels kind of... embarrassing to be this nervous."
+    dc "而且，我不知道...{w}这么紧张感觉有点...尴尬。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:179
 translate chinese sm1cs_dc008_5f706d9f:
 
     # dc "I just... I really want this date to go well."
-    dc "I just... I really want this date to go well."
+    dc "我只是...我真的很想让这次约会顺利。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:184
 translate chinese sm1cs_dc008_f64556aa:
 
     # mc "You have nothing to be worried about, Debbie."
-    mc "You have nothing to be worried about, Debbie."
+    mc "你没什么好担心的，黛比。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:188
 translate chinese sm1cs_dc008_f0a27c80:
 
     # mc "I think this date is going to go great, and that you have nothing to worry about."
-    mc "I think this date is going to go great, and that you have nothing to worry about."
+    mc "我觉得这次约会会很棒的，你不用担心。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:189
 translate chinese sm1cs_dc008_1f373e09:
@@ -392,49 +392,49 @@ translate chinese sm1cs_dc008_1f373e09:
 translate chinese sm1cs_dc008_d699aafb:
 
     # dc "Thanks, [mcname]."
-    dc "Thanks, [mcname]."
+    dc "谢谢，[mcname]。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:196
 translate chinese sm1cs_dc008_0de30d4d:
 
     # mc "Of course, Officer Callahan."
-    mc "Of course, Officer Callahan."
+    mc "当然了，卡拉汉警官。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:199
 translate chinese sm1cs_dc008_67f3009c:
 
     # dc "You really do know just the right thing to say to perk me up."
-    dc "You really do know just the right thing to say to perk me up."
+    dc "你真的很会说话，总能让我振作起来。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:203
 translate chinese sm1cs_dc008_6e22c122:
 
     # mc "What can I say, I'm better than a cup of coffee!"
-    mc "What can I say, I'm better than a cup of coffee!"
+    mc "我能说什么呢，我比咖啡还提神！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:205
 translate chinese sm1cs_dc008_8d314c9a:
 
     # dc "Hahahaha!"
-    dc "Hahahaha!"
+    dc "哈哈哈哈！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:209
 translate chinese sm1cs_dc008_11407d3d:
 
     # "Waiter" "Have you two had a chance to look over the menu?"
-    "Waiter" "Have you two had a chance to look over the menu?"
+    "服务员" "你们看过菜单了吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:212
 translate chinese sm1cs_dc008_28fe45a4:
 
     # dc "Oh my! Not at all, actually, uhm-"
-    dc "Oh my! Not at all, actually, uhm-"
+    dc "哎呀！完全没有，其实，嗯--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:214
 translate chinese sm1cs_dc008_9191e49c:
 
     # mc "I'm actually realizing that I'm not really hungry. Could we just put in an order for your most popular appetizer?"
-    mc "I'm actually realizing that I'm not really hungry. Could we just put in an order for your most popular appetizer?"
+    mc "我突然意识到我不太饿。能给我们来份你们最受欢迎的开胃菜吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:218
 translate chinese sm1cs_dc008_4290e358_1:
@@ -458,581 +458,581 @@ translate chinese sm1cs_dc008_11455b53:
 translate chinese sm1cs_dc008_14ce548d:
 
     # dc "You didn't need to cover for me like that."
-    dc "You didn't need to cover for me like that."
+    dc "你不用这样替我打圆场的。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:230
 translate chinese sm1cs_dc008_a8ffc910:
 
     # mc "Well what if I'm not hungry anymore?"
-    mc "Well what if I'm not hungry anymore?"
+    mc "可是如果我真的不饿了呢？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:233
 translate chinese sm1cs_dc008_01a64828:
 
     # dc "Pffft!"
-    dc "Pffft!"
+    dc "噗！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:234
 translate chinese sm1cs_dc008_b9fcb186:
 
     # mc "It's fine, Debbie.{w} Don't even worry about it."
-    mc "It's fine, Debbie.{w} Don't even worry about it."
+    mc "没事的，黛比。{w}完全不用担心。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:236
 translate chinese sm1cs_dc008_1cf22d4d:
 
     # dc "But I do. You picked such a nice restaurant, and..."
-    dc "But I do. You picked such a nice restaurant, and..."
+    dc "但我在意。你选了这么好的餐厅，而且..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:238
 translate chinese sm1cs_dc008_e12dab8e:
 
     # mc "And it's just a little stuffy in here."
-    mc "And it's just a little stuffy in here."
+    mc "而且这里有点闷。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:240
 translate chinese sm1cs_dc008_5dfdf686:
 
     # dc "Hehehehe. You're right about that."
-    dc "Hehehehe. You're right about that."
+    dc "嘿嘿嘿。你说得对。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:241
 translate chinese sm1cs_dc008_02256a45:
 
     # mc "That's better."
-    mc "That's better."
+    mc "这就对了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:244
 translate chinese sm1cs_dc008_a1c6fa7f:
 
     # dc "What's better?"
-    dc "What's better?"
+    dc "什么对了？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:246
 translate chinese sm1cs_dc008_f9ebc8dd:
 
     # mc "You - you're smiling now!"
-    mc "You - you're smiling now!"
+    mc "你——你现在在笑了！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:249
 translate chinese sm1cs_dc008_d5b04f9f:
 
     # dc "Oh, [mcname]..."
-    dc "Oh, [mcname]..."
+    dc "哦，[mcname]..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:251
 translate chinese sm1cs_dc008_8d895bd7:
 
     # mc "Okay, so I've learned some important things. Next time, maybe a less fancy place for our date?"
-    mc "Okay, so I've learned some important things. Next time, maybe a less fancy place for our date?"
+    mc "好吧，我学到了一些重要的事。下次，也许选个不那么高档的地方约会？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:252
 translate chinese sm1cs_dc008_f23f1ce2:
 
     # dc "I wouldn't mind that."
-    dc "I wouldn't mind that."
+    dc "我不介意。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:256
 translate chinese sm1cs_dc008_33971cb0:
 
     # dc "Wait, you want to go on {i}another{/i} date?"
-    dc "Wait, you want to go on {i}another{/i} date?"
+    dc "等等，你想再约{i}一次{/i}？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:259
 translate chinese sm1cs_dc008_e4edc378:
 
     # mc "Yeah. Why wouldn't I?"
-    mc "Yeah. Why wouldn't I?"
+    mc "当然。为什么不呢？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:260
 translate chinese sm1cs_dc008_7f251949:
 
     # mc "I mean, I don't want to start thinking too far ahead, but yeah. Another date would be great."
-    mc "I mean, I don't want to start thinking too far ahead, but yeah. Another date would be great."
+    mc "我是说，我不想想得太远，但是，再约一次会很棒。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:263
 translate chinese sm1cs_dc008_f9a90a42:
 
     # dc "Even though we haven't even really talked about anything?"
-    dc "Even though we haven't even really talked about anything?"
+    dc "尽管我们还没真正聊过什么？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:265
 translate chinese sm1cs_dc008_b0a28b85:
 
     # mc "Well we can change that! Uhm, what's your favorite movie?"
-    mc "Well we can change that! Uhm, what's your favorite movie?"
+    mc "那我们可以改变啊！嗯，你最喜欢什么电影？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:269
 translate chinese sm1cs_dc008_75499293:
 
     # dc "My favorite movie?"
-    dc "My favorite movie?"
+    dc "我最喜欢的电影？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:271
 translate chinese sm1cs_dc008_e9a28e46:
 
     # mc "Yeah!"
-    mc "Yeah!"
+    mc "对啊！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:272
 translate chinese sm1cs_dc008_7bc20bca:
 
     # dc "Oh, uhm... I... well this is a little embarrassing but..."
-    dc "Oh, uhm... I... well this is a little embarrassing but..."
+    dc "哦，嗯...我...这有点尴尬，但是..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:275
 translate chinese sm1cs_dc008_360b3a14:
 
     # dc "I do really like the \"Die Hard\" movies.{w} You know, just a rogue cop getting things done."
-    dc "I do really like the \"Die Hard\" movies.{w} You know, just a rogue cop getting things done."
+    dc "我真的很喜欢《虎胆龙威》系列电影。{w}你知道的，就是那种独行警察搞定一切的故事。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:276
 translate chinese sm1cs_dc008_428335aa:
 
     # dc "And also the \"Lethal Weapon\" movies..."
-    dc "And also the \"Lethal Weapon\" movies..."
+    dc "还有《致命武器》系列..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:277
 translate chinese sm1cs_dc008_34a70ec4:
 
     # dc "Honestly, any action movies where you can sit back and cheer, and cry, and turn off your brain and enjoy the ride."
-    dc "Honestly, any action movies where you can sit back and cheer, and cry, and turn off your brain and enjoy the ride."
+    dc "说实话，任何能让你坐下来欢呼、哭泣，放空大脑尽情享受的动作片。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:278
 translate chinese sm1cs_dc008_88e911e0:
 
     # dc "Like that train action movie that came out! That one was {i}a lot{/i} of fun!"
-    dc "Like that train action movie that came out! That one was {i}a lot{/i} of fun!"
+    dc "就像那部新出的火车动作片！那部真是{i}太{/i}好看了！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:280
 translate chinese sm1cs_dc008_5e292b22:
 
     # mc "I should've guessed that you liked action movies."
-    mc "I should've guessed that you liked action movies."
+    mc "我早该猜到你喜欢动作片。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:283
 translate chinese sm1cs_dc008_28a44212:
 
     # dc "And why's that?"
-    dc "And why's that?"
+    dc "为什么这么说？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:285
 translate chinese sm1cs_dc008_0927c7ca:
 
     # mc "Well most of our time together has been filled with our own little action packed adventures."
-    mc "Well most of our time together has been filled with our own little action packed adventures."
+    mc "嗯，我们在一起的大部分时间都充满了自己的小冒险。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:287
 translate chinese sm1cs_dc008_4d719382:
 
     # dc "Hahaha, that's very true."
-    dc "Hahaha, that's very true."
+    dc "哈哈哈，确实如此。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:288
 translate chinese sm1cs_dc008_f8500621:
 
     # mc "How about your favorite meal?"
-    mc "How about your favorite meal?"
+    mc "那你最喜欢的食物呢？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:291
 translate chinese sm1cs_dc008_3d3efbf1:
 
     # dc "Oh boy..."
-    dc "Oh boy..."
+    dc "哦天啊..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:293
 translate chinese sm1cs_dc008_11455b53_1:
 
     # mc "What?"
-    mc "What?"
+    mc "怎么了？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:294
 translate chinese sm1cs_dc008_562ae42c:
 
     # dc "It's... I'm a simple girl."
-    dc "It's... I'm a simple girl."
+    dc "就是...我是个简单的女孩。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:295
 translate chinese sm1cs_dc008_1b199792:
 
     # mc "Okay?"
-    mc "Okay?"
+    mc "好吧？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:296
 translate chinese sm1cs_dc008_6715cc66:
 
     # dc "And... I really like simple things."
-    dc "And... I really like simple things."
+    dc "而且...我真的喜欢简单的东西。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:297
 translate chinese sm1cs_dc008_eb00143d:
 
     # mc "All right?"
-    mc "All right?"
+    mc "然后呢？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:301
 translate chinese sm1cs_dc008_f9310f41:
 
     # dc "And so... my favorite food is a hot dog with the works."
-    dc "And so... my favorite food is a hot dog with the works."
+    dc "所以...我最喜欢的食物是全料热狗。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:302
 translate chinese sm1cs_dc008_ce4d1620:
 
     # dc "Which feels... dirty to say in such a nice restaurant."
-    dc "Which feels... dirty to say in such a nice restaurant."
+    dc "在这么高档的餐厅说这个...感觉有点不好意思。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:304
 translate chinese sm1cs_dc008_f7a15a70:
 
     # mc "It's totally fine! I also like hot dogs. I get it."
-    mc "It's totally fine! I also like hot dogs. I get it."
+    mc "完全没问题！我也喜欢热狗。我理解。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:305
 translate chinese sm1cs_dc008_848fe899:
 
     # dc "Really?"
-    dc "Really?"
+    dc "真的吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:306
 translate chinese sm1cs_dc008_c3151aea:
 
     # mc "Really really."
-    mc "Really really."
+    mc "真的真的。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:309
 translate chinese sm1cs_dc008_3f414402:
 
     # dc "I'm... I'm happy to hear that!"
-    dc "I'm... I'm happy to hear that!"
+    dc "我...我很高兴听到这个！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:311
 translate chinese sm1cs_dc008_bd0c0a87:
 
     # mc "And what's your favorite color?"
-    mc "And what's your favorite color?"
+    mc "那你最喜欢什么颜色？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:312
 translate chinese sm1cs_dc008_5ce2e5cb:
 
     # dc "My favorite color?"
-    dc "My favorite color?"
+    dc "我最喜欢的颜色？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:315
 translate chinese sm1cs_dc008_e3be5621:
 
     # mc "Yeah, everyone has a favorite color!"
-    mc "Yeah, everyone has a favorite color!"
+    mc "对啊，每个人都有最喜欢的颜色！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:317
 translate chinese sm1cs_dc008_f0d87405:
 
     # dc "Erm, pink?"
-    dc "Erm, pink?"
+    dc "呃，粉色？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:321
 translate chinese sm1cs_dc008_2737acb0:
 
     # mc "And look at that! A successful date!"
-    mc "And look at that! A successful date!"
+    mc "你看！约会成功了！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:323
 translate chinese sm1cs_dc008_8329d4ca:
 
     # dc "That's all it takes?"
-    dc "That's all it takes?"
+    dc "就这样就够了吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:324
 translate chinese sm1cs_dc008_e27c3cd4:
 
     # mc "I mean, pretty much!"
-    mc "I mean, pretty much!"
+    mc "我是说，差不多吧！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:328
 translate chinese sm1cs_dc008_17bde779:
 
     # mc "I think we'll take the check."
-    mc "I think we'll take the check."
+    mc "我想我们可以结账了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:331
 translate chinese sm1cs_dc008_9b879ebd:
 
     # "Waiter" "Your appetizer, sir?"
-    "Waiter" "Your appetizer, sir?"
+    "服务员" "您的开胃菜呢，先生？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:333
 translate chinese sm1cs_dc008_0d843cb3:
 
     # mc "Can we take it to go?"
-    mc "Can we take it to go?"
+    mc "可以打包吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:335
 translate chinese sm1cs_dc008_4290e358_2:
 
     # "Waiter" "Of course, sir."
-    "Waiter" "Of course, sir."
+    "服务员" "当然可以，先生。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:342
 translate chinese sm1cs_dc008_bbe41178:
 
     # dc "Wait, [mcname], we can eat the appetizer here!"
-    dc "Wait, [mcname], we can eat the appetizer here!"
+    dc "等等，[mcname]，我们可以在这儿吃开胃菜！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:345
 translate chinese sm1cs_dc008_8e7c1248:
 
     # mc "It's fine, Debbie! Seriously."
-    mc "It's fine, Debbie! Seriously."
+    mc "没事的，黛比！真的。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:347
 translate chinese sm1cs_dc008_b54c3a4a:
 
     # dc "But-"
-    dc "But-"
+    dc "但是--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:348
 translate chinese sm1cs_dc008_3466c8fc:
 
     # mc "Debbie."
-    mc "Debbie."
+    mc "黛比。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:351
 translate chinese sm1cs_dc008_3c0c267e:
 
     # dc "Yes?"
-    dc "Yes?"
+    dc "嗯？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:353
 translate chinese sm1cs_dc008_eb974e03:
 
     # mc "This has been a lovely date."
-    mc "This has been a lovely date."
+    mc "这是一次美好的约会。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:354
 translate chinese sm1cs_dc008_e660675d:
 
     # dc "Woah, [mcname]-"
-    dc "Woah, [mcname]-"
+    dc "哇，[mcname]--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:358
 translate chinese sm1cs_dc008_70ee5c25:
 
     # "Waiter" "And here you are, sir."
-    "Waiter" "And here you are, sir."
+    "服务员" "给您，先生。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:363
 translate chinese sm1cs_dc008_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "谢谢。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:366
 translate chinese sm1cs_dc008_e0323d9a:
 
     # "Waiter" "I hope you and your date enjoy the rest of your evening."
-    "Waiter" "I hope you and your date enjoy the rest of your evening."
+    "服务员" "希望您和您的约会对象度过愉快的夜晚。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:370
 translate chinese sm1cs_dc008_e9721ff3:
 
     # mc "Thank you!"
-    mc "Thank you!"
+    mc "谢谢！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:373
 translate chinese sm1cs_dc008_a88f969d:
 
     # dc "I really enjoyed this, [mcname]."
-    dc "I really enjoyed this, [mcname]."
+    dc "我真的很享受，[mcname]。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:374
 translate chinese sm1cs_dc008_d7a3323b:
 
     # dc "But next time, I'll have to learn more about you for a change."
-    dc "But next time, I'll have to learn more about you for a change."
+    dc "但下次，我得换换角度多了解你了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:377
 translate chinese sm1cs_dc008_f249cbc4:
 
     # mc "Ooooh. Something to look forward to."
-    mc "Ooooh. Something to look forward to."
+    mc "哦哦哦。值得期待。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:378
 translate chinese sm1cs_dc008_02d24c1b:
 
     # mc "I should warn you, I'm a steel trap."
-    mc "I should warn you, I'm a steel trap."
+    mc "我得警告你，我嘴很严。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:379
 translate chinese sm1cs_dc008_b088fd35:
 
     # mc "You'll work hard to pry my secrets from me."
-    mc "You'll work hard to pry my secrets from me."
+    mc "你得费点力气才能从我这儿撬出秘密。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:382
 translate chinese sm1cs_dc008_a397f3a5:
 
     # dc "Haha. Good thing I'm a police officer."
-    dc "Haha. Good thing I'm a police officer."
+    dc "哈哈。还好我是警察。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:383
 translate chinese sm1cs_dc008_66800594:
 
     # dc "I know a thing or two about questioning a suspect."
-    dc "I know a thing or two about questioning a suspect."
+    dc "我对审问嫌疑人略知一二。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:387
 translate chinese sm1cs_dc008_d5a61c34:
 
     # mc "Movies. Jeans and questioning."
-    mc "Movies. Jeans and questioning."
+    mc "电影。牛仔裤和审问。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:388
 translate chinese sm1cs_dc008_c65f2f3e:
 
     # mc "Our next date is going to be a blast!"
-    mc "Our next date is going to be a blast!"
+    mc "我们下次约会一定会很精彩！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:391
 translate chinese sm1cs_dc008_c7afd0b0:
 
     # dc "Heheh.{w} Looking forward to it."
-    dc "Heheh.{w} Looking forward to it."
+    dc "嘿嘿。{w}很期待。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:393
 translate chinese sm1cs_dc008_d85db8ae:
 
     # mc "Man. You really do look stunning tonight, Debbie."
-    mc "Man. You really do look stunning tonight, Debbie."
+    mc "天啊。你今晚真的太美了，黛比。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:396
 translate chinese sm1cs_dc008_0a3e87b6:
 
     # dc "Thanks, [mcname]. I lke your outfit too."
-    dc "Thanks, [mcname]. I lke your outfit too."
+    dc "谢谢，[mcname]。我也喜欢你的着装。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:397
 translate chinese sm1cs_dc008_3d4a6bb7:
 
     # dc "This dress is nice.{w} But there is one {b}big{/b} problem..."
-    dc "This dress is nice.{w} But there is one {b}big{/b} problem..."
+    dc "这条裙子很好。{w}但有一个{b}大{/b}问题..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:399
 translate chinese sm1cs_dc008_c8c859ce:
 
     # mc "Mmmhmmm. What's that?"
-    mc "Mmmhmmm. What's that?"
+    mc "嗯哼。什么问题？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:402
 translate chinese sm1cs_dc008_40f55fa6:
 
     # dc "There is no where to put my gun!"
-    dc "There is no where to put my gun!"
+    dc "没地方放我的枪！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:405
 translate chinese sm1cs_dc008_fa1afce1:
 
     # mc "Hahahahaha!"
-    mc "Hahahahaha!"
+    mc "哈哈哈哈哈！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:407
 translate chinese sm1cs_dc008_34307561:
 
     # dc "Mmmm..."
-    dc "Mmmm..."
+    dc "嗯..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:421
 translate chinese sm1cs_dc008_df00261e:
 
     # dc "*softly* Wow..."
-    dc "*softly* Wow..."
+    dc "*轻声* 哇..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:424
 translate chinese sm1cs_dc008_fcf340b6:
 
     # mc "I agree."
-    mc "I agree."
+    mc "我同意。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:427
 translate chinese sm1cs_dc008_0cf978ab:
 
     # dc "If this is how every date with you ends, maybe I will be wearing this dress more often."
-    dc "If this is how every date with you ends, maybe I will be wearing this dress more often."
+    dc "如果每次和你约会都这样结束，也许我会更常穿这条裙子。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:429
 translate chinese sm1cs_dc008_8ae56999:
 
     # mc "You don't need to wear the dress to get a kiss like that."
-    mc "You don't need to wear the dress to get a kiss like that."
+    mc "你不用穿裙子也能得到这样的吻。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:430
 translate chinese sm1cs_dc008_9e0a6ce6:
 
     # dc "Even better."
-    dc "Even better."
+    dc "那更好。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:437
 translate chinese sm1cs_dc008_564f41da:
 
     # dc "It's such a relief being with someone who accepts me as I am, [mcname]."
-    dc "It's such a relief being with someone who accepts me as I am, [mcname]."
+    dc "和一个接受真实的我的人在一起，真是如释重负，[mcname]。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:438
 translate chinese sm1cs_dc008_eec09208:
 
     # dc "It's kind of exciting, having you know the {b}real{/b} me..."
-    dc "It's kind of exciting, having you know the {b}real{/b} me..."
+    dc "让你了解{b}真正{/b}的我...有点兴奋..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:442
 translate chinese sm1cs_dc008_286f5b67:
 
     # mc "And I can't wait to see where we go next."
-    mc "And I can't wait to see where we go next."
+    mc "我迫不及待想看看我们接下来会怎样。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:445
 translate chinese sm1cs_dc008_e4411188:
 
     # dc "Mmmmhmm. {w}That's what I like to hear!"
-    dc "Mmmmhmm. {w}That's what I like to hear!"
+    dc "嗯嗯嗯。{w}这正是我想听的！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:446
 translate chinese sm1cs_dc008_f8609ae8:
 
     # dc "Well, until you call about our next date..."
-    dc "Well, until you call about our next date..."
+    dc "那么，等你打电话约下次见面..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:450
 translate chinese sm1cs_dc008_486fbcff:
 
     # dc "...You know where to find me."
-    dc "...You know where to find me."
+    dc "...你知道在哪儿能找到我。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:453
 translate chinese sm1cs_dc008_a6aacd2b:
 
     # mct "She's really a one-of-a-kind gal."
-    mct "She's really a one-of-a-kind gal."
+    mct "她真是个独一无二的女孩。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:456
 translate chinese sm1cs_dc008_3d97b44c:
 
     # mct "Now I just need to figure out what to do for our next date..."
-    mct "Now I just need to figure out what to do for our next date..."
+    mct "现在我只需要想想下次约会做什么..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:457
 translate chinese sm1cs_dc008_3374e81f:
 
     # mct "Whatever it is, it probably shouldn't involve catching bad guys in the park."
-    mct "Whatever it is, it probably shouldn't involve catching bad guys in the park."
+    mct "不管是什么，最好不要再在公园抓坏人了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:462
 translate chinese sm1cs_dc008_02776fbe:
 
     # mct "Hopefully..."
-    mct "Hopefully..."
+    mct "但愿..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:441
 translate chinese sm1cs_dc008_b12cc4d7:
 
     # mc "I'm grateful that you shared that part of you with me, Debbie."
-    mc "I'm grateful that you shared that part of you with me, Debbie."
+    mc "我很感激你和我分享了你的那一面，黛比。"
 
