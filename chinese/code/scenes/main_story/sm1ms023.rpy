@@ -2,133 +2,133 @@
 translate chinese sm1ms023_8b9ef28d:
 
     # mc "So what's the problem?"
-    mc "So what's the problem?"
+    mc "所以到底出什么问题了？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:15
 translate chinese sm1ms023_d9d0b6cc:
 
     # sy "Let me show you."
-    sy "Let me show you."
+    sy "我来告诉你。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:20
 translate chinese sm1ms023_784915ca:
 
     # sy "So, I think I've almost got a picture lock on the last video."
-    sy "So, I think I've almost got a picture lock on the last video."
+    sy "是这样，上一部片子的画面剪辑，我差不多快定版了。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:23
 translate chinese sm1ms023_3066aa7e:
 
     # mc "That's great!... But?"
-    mc "That's great!... But?"
+    mc "那很好啊！…… 不过怎么了呢？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:26
 translate chinese sm1ms023_ece16b55:
 
     # sy "But..."
-    sy "But..."
+    sy "不过..."
 
 # game/code/scenes/main_story/sm1ms023.rpy:27
 translate chinese sm1ms023_7520b211:
 
     # sy "I'm not sure about this part here."
-    sy "I'm not sure about this part here."
+    sy "我对这段剪辑不太确定。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:30
 translate chinese sm1ms023_2122f7cc:
 
     # mc "What aren't you sure about?"
-    mc "What aren't you sure about?"
+    mc "你对哪部分不确定啊？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:33
 translate chinese sm1ms023_eaf6d444:
 
     # sy "This..."
-    sy "This..."
+    sy "就是这里..."
 
 # game/code/scenes/main_story/sm1ms023.rpy:38
 translate chinese sm1ms023_b5820618:
 
     # sy "So my first problem is I'm not sure how long to play this part out."
-    sy "So my first problem is I'm not sure how long to play this part out."
+    sy "第一个问题是，我不确定这段内容该保留多长时间。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:39
 translate chinese sm1ms023_eb3ed8ea:
 
     # sy "Because I think it's hot, but I'm a little biased."
-    sy "Because I think it's hot, but I'm a little biased."
+    sy "因为我觉得这段很刺激，但我可能有点主观了。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:40
 translate chinese sm1ms023_4cc74066:
 
     # sy "Because it also feels a little long."
-    sy "Because it also feels a little long."
+    sy "而且这段看起来好像也有点太长了。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:45
 translate chinese sm1ms023_61c5ac14:
 
     # sy "What do you think?"
-    sy "What do you think?"
+    sy "你觉得呢？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:51
 translate chinese sm1ms023_50644b92:
 
     # mc "I think cut it down. Don't want too much bloat in the video."
-    mc "I think cut it down. Don't want too much bloat in the video."
+    mc "我觉得应该剪短点。别让片子里有太多冗余内容。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:52
 translate chinese sm1ms023_b6c51f07:
 
     # mc "Keep it tight, you know?"
-    mc "Keep it tight, you know?"
+    mc "你懂的，要保持紧凑感。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:55
 translate chinese sm1ms023_bf1d8687:
 
     # sy "Tight like me?"
-    sy "Tight like me?"
+    sy "多紧？像我一样紧？"
 
 # game/code/scenes/main_story/sm1ms023.rpy:58
 translate chinese sm1ms023_f19dbee3:
 
     # mc "Yes, Stacy, tight like you."
-    mc "Yes, Stacy, tight like you."
+    mc "对，史黛西，像你一样紧。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:63
 translate chinese sm1ms023_e19bbf31:
 
     # mc "I think you're right about it being hot."
-    mc "I think you're right about it being hot."
+    mc "我觉得你说得对，这段确实很刺激。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:64
 translate chinese sm1ms023_4db710a7:
 
     # mc "Keep it in the cut."
-    mc "Keep it in the cut."
+    mc "那就不剪了，把这段留着吧。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:67
 translate chinese sm1ms023_c58ca971:
 
     # sy "Hell yeah."
-    sy "Hell yeah."
+    sy "太好啦。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:72
 translate chinese sm1ms023_0dbd725a:
 
     # sy "Cool, that should be easy to do."
-    sy "Cool, that should be easy to do."
+    sy "好，那这个应该很容易就做好。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:73
 translate chinese sm1ms023_0323a023:
 
     # sy "I'm still in the middle of doing the fine cut, so I'm not quite there with the edit yet."
-    sy "I'm still in the middle of doing the fine cut, so I'm not quite there with the edit yet."
+    sy "我现在还在做精剪，所以剪辑工作还没完全结束。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:77
 translate chinese sm1ms023_9e14654d:
 
     # sy "Because like, right here, Kanya got two different angles."
-    sy "Because like, right here, Kanya got two different angles."
+    sy "因为你看这里，康雅拍了两个不同的角度。"
 
 # game/code/scenes/main_story/sm1ms023.rpy:80
 translate chinese sm1ms023_1cb9d1ad:
