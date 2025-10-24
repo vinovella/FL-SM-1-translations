@@ -494,355 +494,355 @@ translate chinese sm1cs_km006_after_menu_aeb06d88:
 translate chinese sm1cs_km006_after_menu_84ccb090:
 
     # km "You really want to hang out, Veronica?"
-    km "You really want to hang out, Veronica?"
+    km "你真的想一起玩吗，维罗妮卡？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:355
 translate chinese sm1cs_km006_after_menu_7a000b0d:
 
     # km "With me?{w} And just like...{w} talk?"
-    km "With me?{w} And just like...{w} talk?"
+    km "和我？{w} 就像...{w} 聊天？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:358
 translate chinese sm1cs_km006_after_menu_302f1e5a:
 
     # vs "Talk."
-    vs "Talk."
+    vs "聊天。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:361
 translate chinese sm1cs_km006_after_menu_5a7e584a:
 
     # vs "And drink."
-    vs "And drink."
+    vs "还有喝酒。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:362
 translate chinese sm1cs_km006_after_menu_bb7f523b:
 
     # vs "Unless you guys play truth or dare a different way than I did."
-    vs "Unless you guys play truth or dare a different way than I did."
+    vs "除非你们玩真心话大冒险的方式和我不一样。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:368
 translate chinese sm1cs_km006_after_menu_bf7b64c8:
 
     # mc "I'll be there with you, Kellie.{w} And if it's too much, neither of us is going to make you stay."
-    mc "I'll be there with you, Kellie.{w} And if it's too much, neither of us is going to make you stay."
+    mc "我会和你在一起的，凯莉。{w} 如果太过分了，我们都不会强迫你留下。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:369
 translate chinese sm1cs_km006_after_menu_385f8708:
 
     # mc "But come on, don't you want to at least try to figure out a way that you can coexist with Veronica."
-    mc "But come on, don't you want to at least try to figure out a way that you can coexist with Veronica."
+    mc "但来吧，难道你不想至少试着找到一种能和维罗妮卡和平相处的方法吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:372
 translate chinese sm1cs_km006_after_menu_037b0e37:
 
     # mc "And maybe do other things?"
-    mc "And maybe do other things?"
+    mc "也许还能做其他事情？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:375
 translate chinese sm1cs_km006_after_menu_4842d007:
 
     # km "Another word about {i}that{/i} and Bruce is going to find you strung up in the ropes."
-    km "Another word about {i}that{/i} and Bruce is going to find you strung up in the ropes."
+    km "再说一个字关于{i}那件事{/i}，布鲁斯就会发现你被绳子吊起来了。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:376
 translate chinese sm1cs_km006_after_menu_26c9f4ca:
 
     # km "Do you understand me?"
-    km "Do you understand me?"
+    km "你明白我的意思吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:379
 translate chinese sm1cs_km006_after_menu_17f6d4f3:
 
     # mc "Perfectly."
-    mc "Perfectly."
+    mc "完全明白。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:382
 translate chinese sm1cs_km006_after_menu_e4c07eef:
 
     # km "I..."
-    km "I..."
+    km "我..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:385
 translate chinese sm1cs_km006_after_menu_109ec7b1:
 
     # km "I'm still not sure."
-    km "I'm still not sure."
+    km "我还是不确定。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:388
 translate chinese sm1cs_km006_after_menu_3b0a8039:
 
     # vs "You can even go first!{w} Truth or dare."
-    vs "You can even go first!{w} Truth or dare."
+    vs "你甚至可以先来！{w} 真心话还是大冒险。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:389
 translate chinese sm1cs_km006_after_menu_e2fc5f30:
 
     # vs "You call the shots—pun very intended."
-    vs "You call the shots—pun very intended."
+    vs "你说了算——双关语完全有意的。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:395
 translate chinese sm1cs_km006_after_menu_fa4a52ad:
 
     # km "...Okay. But just a few rounds.{w} And I'm not doing anything that ends up in someone's Gram story."
-    km "...Okay. But just a few rounds.{w} And I'm not doing anything that ends up in someone's Gram story."
+    km "...好吧。但只玩几轮。{w} 而且我不会做任何最终出现在某人的Instagram故事里的事情。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:396
 translate chinese sm1cs_km006_after_menu_433a9189:
 
     # km "Got it?"
-    km "Got it?"
+    km "明白了吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:399
 translate chinese sm1cs_km006_after_menu_29d5affa:
 
     # vs "Deal!{w} No viral content unless you really kill it."
-    vs "Deal!{w} No viral content unless you really kill it."
+    vs "成交！{w} 除非你真的太精彩了，否则不会有病毒式传播的内容。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:402
 translate chinese sm1cs_km006_after_menu_17db8f1e:
 
     # vs "Uh, let's retire to our dressing room.{w} If Taisia smells liquor, she'll pop out of nowhere and want a bit."
-    vs "Uh, let's retire to our dressing room.{w} If Taisia smells liquor, she'll pop out of nowhere and want a bit."
+    vs "呃，让我们去更衣室吧。{w} 如果泰西娅闻到酒味，她会从哪儿冒出来要喝一口的。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:404
 translate chinese sm1cs_km006_after_menu_75728a01:
 
     # mc "Haha. Okay."
-    mc "Haha. Okay."
+    mc "哈哈。好的。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:423
 translate chinese sm1cs_km006_dressing_room_eb676d15:
 
     # vs "Everyone take a seat and get comfortable."
-    vs "Everyone take a seat and get comfortable."
+    vs "大家坐下来，舒服点。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:427
 translate chinese sm1cs_km006_dressing_room_4a5c9515:
 
     # vs "This is no limit, no judgement, truth or dare."
-    vs "This is no limit, no judgement, truth or dare."
+    vs "这是无限制、不评判的真心话大冒险。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:428
 translate chinese sm1cs_km006_dressing_room_aaa87eb5:
 
     # vs "Let's dance."
-    vs "Let's dance."
+    vs "让我们开始吧。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:431
 translate chinese sm1cs_km006_dressing_room_7d3fa676:
 
     # vs "Here you go, Kellie."
-    vs "Here you go, Kellie."
+    vs "给你，凯莉。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:433
 translate chinese sm1cs_km006_dressing_room_7778b18c:
 
     # km "Please go over the rules again"
-    km "Please go over the rules again"
+    km "请再说一遍规则"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:436
 translate chinese sm1cs_km006_dressing_room_cc43eac4:
 
     # vs "Sure. You get to start us off.{w} You will select someone here and ask them to choose between truth or dare."
-    vs "Sure. You get to start us off.{w} You will select someone here and ask them to choose between truth or dare."
+    vs "当然。你先开始。{w} 你要选择在场的某个人，让他们在真心话或大冒险之间选择。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:437
 translate chinese sm1cs_km006_dressing_room_080dedb9:
 
     # vs "Once the person chooses their option, you will either ask for a truth, or you dare them to do something."
-    vs "Once the person chooses their option, you will either ask for a truth, or you dare them to do something."
+    vs "一旦那个人选择了他们的选项，你就要么问一个真心话，要么让他们做一个大冒险。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:440
 translate chinese sm1cs_km006_dressing_room_b660c5cc:
 
     # mc "How does the drinking work?"
-    mc "How does the drinking work?"
+    mc "喝酒是怎么回事？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:444
 translate chinese sm1cs_km006_dressing_room_6bc61ae4:
 
     # vs "It is kind of your 'get out of jail' card."
-    vs "It is kind of your 'get out of jail' card."
+    vs "这有点像你的'免罪金牌'。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:445
 translate chinese sm1cs_km006_dressing_room_c7a72865:
 
     # vs "If you don't want to say the truth, or don't want to do the dare,{w} you just drink and then you move on."
-    vs "If you don't want to say the truth, or don't want to do the dare,{w} you just drink and then you move on."
+    vs "如果你不想说真话，或者不想做大冒险，{w} 你就喝一杯，然后继续下一个。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:448
 translate chinese sm1cs_km006_dressing_room_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "明白了。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:449
 translate chinese sm1cs_km006_dressing_room_4d979fbb:
 
     # mc "Ready, Kellie?"
-    mc "Ready, Kellie?"
+    mc "准备好了吗，凯莉？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:451
 translate chinese sm1cs_km006_dressing_room_4f5b6793:
 
     # km "I guess so."
-    km "I guess so."
+    km "我想是吧。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:455
 translate chinese sm1cs_km006_dressing_room_b641d15a:
 
     # km "Okay... I pick who goes first, right?"
-    km "Okay... I pick who goes first, right?"
+    km "好吧...我选谁先来，对吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:457
 translate chinese sm1cs_km006_dressing_room_e07c4b9b:
 
     # mc "Yep. It's all yours."
-    mc "Yep. It's all yours."
+    mc "是的。你说了算。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:460
 translate chinese sm1cs_km006_dressing_room_9fba4a24:
 
     # km "[mcname]. Truth or dare?"
-    km "[mcname]. Truth or dare?"
+    km "[mcname]。真心话还是大冒险？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:462
 translate chinese sm1cs_km006_dressing_room_4415dd95:
 
     # mc "Truth."
-    mc "Truth."
+    mc "真心话。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:465
 translate chinese sm1cs_km006_dressing_room_afa27e03:
 
     # km "What's something you've noticed about me but never said out loud?"
-    km "What's something you've noticed about me but never said out loud?"
+    km "你注意到我的什么事情，但从来没有说出来过？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:468
 translate chinese sm1cs_km006_dressing_room_f609deb3:
 
     # mc "Hmmmm."
-    mc "Hmmmm."
+    mc "嗯。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:469
 translate chinese sm1cs_km006_dressing_room_532d5691:
 
     # mc "I got it."
-    mc "I got it."
+    mc "我想到了。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:470
 translate chinese sm1cs_km006_dressing_room_5858e391:
 
     # mc "You're all-in, all the time.{w} And it shows. You don't act—{w} you live the part."
-    mc "You're all-in, all the time.{w} And it shows. You don't act—{w} you live the part."
+    mc "你总是全情投入。{w} 这很明显。你不是在演戏——{w} 你在活出角色。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:471
 translate chinese sm1cs_km006_dressing_room_e39aefe4:
 
     # mc "And I think that scares some people.{w} But it's why I respect you more than anyone on stage."
-    mc "And I think that scares some people.{w} But it's why I respect you more than anyone on stage."
+    mc "我觉得这让一些人害怕。{w} 但这正是我比舞台上任何人都更尊重你的原因。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:474
 translate chinese sm1cs_km006_dressing_room_a68f80c7:
 
     # km "...Thanks."
-    km "...Thanks."
+    km "...谢谢。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:477
 translate chinese sm1cs_km006_dressing_room_bf01b303:
 
     # km "I think you're up."
-    km "I think you're up."
+    km "我想轮到你了。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:479
 translate chinese sm1cs_km006_dressing_room_473f6d41:
 
     # mc "Yup."
-    mc "Yup."
+    mc "是的。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:480
 translate chinese sm1cs_km006_dressing_room_e526a903:
 
     # mc "Hmmm."
-    mc "Hmmm."
+    mc "嗯。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:487
 translate chinese sm1cs_km006_dressing_room_f8080185:
 
     # mc "Veronica, truth or dare."
-    mc "Veronica, truth or dare."
+    mc "维罗妮卡，真心话还是大冒险。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:490
 translate chinese sm1cs_km006_dressing_room_7714b831:
 
     # vs "Ooooh. My mind says dare, but my heart says truth."
-    vs "Ooooh. My mind says dare, but my heart says truth."
+    vs "哦哦。我的脑子说大冒险，但我的心说真心话。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:491
 translate chinese sm1cs_km006_dressing_room_339203ae:
 
     # vs "So...{w} Truth!"
-    vs "So...{w} Truth!"
+    vs "所以...{w} 真心话！"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:494
 translate chinese sm1cs_km006_dressing_room_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "好的。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:500
 translate chinese sm1cs_km006_dressing_room_85831cda:
 
     # mc "Kellie, truth or dare?"
-    mc "Kellie, truth or dare?"
+    mc "凯莉，真心话还是大冒险？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:503
 translate chinese sm1cs_km006_dressing_room_54049788:
 
     # km "Dare."
-    km "Dare."
+    km "大冒险。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:508
 translate chinese sm1cs_km006_ask_vs_7e1c5beb:
 
     # mc "Tell me the truth about why you dye your hair?"
-    mc "Tell me the truth about why you dye your hair?"
+    mc "告诉我你为什么染头发的真相？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:511
 translate chinese sm1cs_km006_ask_vs_5b8ce5f6:
 
     # vs "*laughing nervously* Hahaha."
-    vs "*laughing nervously* Hahaha."
+    vs "*紧张地笑* 哈哈哈。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:512
 translate chinese sm1cs_km006_ask_vs_2a8137a8:
 
     # vs "You don't like it?"
-    vs "You don't like it?"
+    vs "你不喜欢吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:516
 translate chinese sm1cs_km006_ask_vs_5b7ea860:
 
     # km "Hey. That's not really the game is it?"
-    km "Hey. That's not really the game is it?"
+    km "嘿。这不是游戏的真正规则吧？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:517
 translate chinese sm1cs_km006_ask_vs_66b04f99:
 
     # km "It's truth or dare."
-    km "It's truth or dare."
+    km "这是真心话大冒险。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:518
 translate chinese sm1cs_km006_ask_vs_7d29d339:
 
     # km "So... what is the truth?"
-    km "So... what is the truth?"
+    km "所以...真相是什么？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:521
 translate chinese sm1cs_km006_ask_vs_308487c5:
 
     # vs "Well, check out the big ovaries on Kellie all the sudden."
-    vs "Well, check out the big ovaries on Kellie all the sudden."
+    vs "哇，凯莉突然间胆子这么大了。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:523
 translate chinese sm1cs_km006_ask_vs_debd4bc9:
