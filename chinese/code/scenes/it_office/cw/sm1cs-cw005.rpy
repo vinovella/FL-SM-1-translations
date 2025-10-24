@@ -1766,85 +1766,85 @@ translate chinese sm1cs_cw005_sauna_menu_76e6362b:
 translate chinese sm1cs_cw005_sauna_menu_6828f5b5:
 
     # cw "Well, go on then, [mcname]."
-    cw "Well, go on then, [mcname]."
+    cw "那么，继续吧，[mcname]。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:985
 translate chinese sm1cs_cw005_sauna_menu_4bd22a9a:
 
     # cw "Or do you think my pussy is going to eat itself?"
-    cw "Or do you think my pussy is going to eat itself?"
+    cw "还是你以为我的小穴会自己吃自己？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:988
 translate chinese sm1cs_cw005_sauna_menu_a4653830:
 
     # mc "Yes ma'am."
-    mc "Yes ma'am."
+    mc "是的，女士。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:992
 translate chinese sm1cs_cw005_sauna_menu_6a5eb4c8:
 
     # mc "*licking*"
-    mc "*licking*"
+    mc "*舔舐*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:995
 translate chinese sm1cs_cw005_sauna_menu_d1ec2840:
 
     # cw "Mmrraauh... good boy."
-    cw "Mmrraauh... good boy."
+    cw "嗯嗯……好孩子。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:996
 translate chinese sm1cs_cw005_sauna_menu_278f921a:
 
     # cw "Ahhhuah."
-    cw "Ahhhuah."
+    cw "啊啊。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:999
 translate chinese sm1cs_cw005_sauna_menu_a96214fc:
 
     # cw "Ohhmm... ummhmmm."
-    cw "Ohhmm... ummhmmm."
+    cw "哦嗯……嗯嗯。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1000
 translate chinese sm1cs_cw005_sauna_menu_841a91c3:
 
     # cw "I never thought I'd have you in my mouth again."
-    cw "I never thought I'd have you in my mouth again."
+    cw "我从没想过我会再次把你含在嘴里。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1003
 translate chinese sm1cs_cw005_sauna_menu_10432530:
 
     # cw "*horny moaning*"
-    cw "*horny moaning*"
+    cw "*淫荡的呻吟*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1004
 translate chinese sm1cs_cw005_sauna_menu_f569ae85:
 
     # mct "Hah. Well I'm very glad we're in this situation again."
-    mct "Hah. Well I'm very glad we're in this situation again."
+    mct "哈。我很高兴我们又处于这种情况了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1005
 translate chinese sm1cs_cw005_sauna_menu_c5c3324c:
 
     # mc "*hungry slurping*"
-    mc "*hungry slurping*"
+    mc "*贪婪的吮吸*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1008
 translate chinese sm1cs_cw005_sauna_menu_00adae90:
 
     # mct "Mmmm. Claire's pussy tastes really good."
-    mct "Mmmm. Claire's pussy tastes really good."
+    mct "嗯嗯。克莱尔的小穴尝起来真好。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1009
 translate chinese sm1cs_cw005_sauna_menu_712398b8:
 
     # mct "That perfect mix of tanginess and a little bit of sweat."
-    mct "That perfect mix of tanginess and a little bit of sweat."
+    mct "那完美的混合了酸味和一点汗水的味道。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1012
 translate chinese sm1cs_cw005_sauna_menu_b244197e:
 
     # mct "And her body keeps shaking whenver my nose brushes her clit."
-    mct "And her body keeps shaking whenver my nose brushes her clit."
+    mct "每当我的鼻子碰到她的阴蒂时，她的身体就会颤抖。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1013
 translate chinese sm1cs_cw005_sauna_menu_95d96455:
@@ -1856,13 +1856,13 @@ translate chinese sm1cs_cw005_sauna_menu_95d96455:
 translate chinese sm1cs_cw005_sauna_menu_7ca49807:
 
     # mct "Now she's making me so warm that I might cum down her throat."
-    mct "Now she's making me so warm that I might cum down her throat."
+    mct "现在她让我很兴奋，我可能会射进她的喉咙。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1015
 translate chinese sm1cs_cw005_sauna_menu_7c039d21:
 
     # mct "All joking aside, I should be careful about that."
-    mct "All joking aside, I should be careful about that."
+    mct "玩笑归玩笑，我应该小心点。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1021
 translate chinese sm1cs_cw005_sauna_menu_400aa3ae:
