@@ -2,211 +2,211 @@
 translate chinese sm1cs_cw006_31ce5d14:
 
     # am "Bad news. Coming in."
-    am "Bad news. Coming in."
+    am "坏消息。要进来了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:31
 translate chinese sm1cs_cw006_e526a903:
 
     # mc "Hmmm."
-    mc "Hmmm."
+    mc "嗯。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:34
 translate chinese sm1cs_cw006_760c5533:
 
     # am "What did you do this time, [mcname]?"
-    am "What did you do this time, [mcname]?"
+    am "你这次又做了什么，[mcname]？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:36
 translate chinese sm1cs_cw006_f48c7d21:
 
     # mc "Nothing."
-    mc "Nothing."
+    mc "没什么。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:39
 translate chinese sm1cs_cw006_dd54ed4f:
 
     # am "Sure. Don't tell me."
-    am "Sure. Don't tell me."
+    am "好吧。别告诉我。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:43
 translate chinese sm1cs_cw006_b7b5ddf8:
 
     # cw "Mr. Young."
-    cw "Mr. Young."
+    cw "杨先生。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:45
 translate chinese sm1cs_cw006_dbcab70f:
 
     # mc "Ms. Watts."
-    mc "Ms. Watts."
+    mc "沃茨女士。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:49
 translate chinese sm1cs_cw006_480886ff:
 
     # cw "Come with me to the conference room."
-    cw "Come with me to the conference room."
+    cw "跟我去会议室。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:52
 translate chinese sm1cs_cw006_7244057a:
 
     # am "Is there a meeting I forgot about?"
-    am "Is there a meeting I forgot about?"
+    am "有什么会议是我忘了的吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:53
 translate chinese sm1cs_cw006_c5816ce0:
 
     # am "I'll come too."
-    am "I'll come too."
+    am "我也要去。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:56
 translate chinese sm1cs_cw006_bd506163:
 
     # cw "Ah. Ms. Mercer."
-    cw "Ah. Ms. Mercer."
+    cw "啊。默瑟女士。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:59
 translate chinese sm1cs_cw006_d7ccc9b2:
 
     # cw "Oh no. Nothing like that."
-    cw "Oh no. Nothing like that."
+    cw "哦不。不是那样的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:60
 translate chinese sm1cs_cw006_a371c748:
 
     # cw "I just need..."
-    cw "I just need..."
+    cw "我只是需要..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:64
 translate chinese sm1cs_cw006_58e7a90c:
 
     # cw "A little technical help with my phone."
-    cw "A little technical help with my phone."
+    cw "一点手机技术方面的帮助。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:68
 translate chinese sm1cs_cw006_73dfbaa6:
 
     # am "I can give it a crack, Claire."
-    am "I can give it a crack, Claire."
+    am "我可以试一试，克莱尔。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:71
 translate chinese sm1cs_cw006_a2716d45:
 
     # cw "No.{w} I mean. Thank you."
-    cw "No.{w} I mean. Thank you."
+    cw "不用。{w}我是说。谢谢。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:72
 translate chinese sm1cs_cw006_af9fce49:
 
     # cw "But I'm sure we can handle it."
-    cw "But I'm sure we can handle it."
+    cw "但我确信我们能搞定。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:76
 translate chinese sm1cs_cw006_4dafe15c:
 
     # am "Whatever."
-    am "Whatever."
+    am "随便。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:77
 translate chinese sm1cs_cw006_27de8a95:
 
     # am "But I'm sure [mcname] is just as likely to fix your phone as to brick it."
-    am "But I'm sure [mcname] is just as likely to fix your phone as to brick it."
+    am "但我敢肯定[mcname]修好你手机的概率和搞砸它的概率一样大。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:80
 translate chinese sm1cs_cw006_a64e8bc0:
 
     # mc "Thanks."
-    mc "Thanks."
+    mc "谢了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:82
 translate chinese sm1cs_cw006_83ff45ca:
 
     # am "You're welcome."
-    am "You're welcome."
+    am "不客气。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:95
 translate chinese sm1cs_cw006_07b91840:
 
     # am "*noisy slurping*"
-    am "*noisy slurping*"
+    am "*大声吸吮声*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:104
 translate chinese sm1cs_cw006_7b79d776:
 
     # cw "*sighs* Seems like only yesterday I was doing your second interview here."
-    cw "*sighs* Seems like only yesterday I was doing your second interview here."
+    cw "*叹气*感觉就像昨天我还在这里给你做第二次面试一样。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:109
 translate chinese sm1cs_cw006_e4a67b63:
 
     # cw "I hope working at Orbix has been to your liking, [mcname]."
-    cw "I hope working at Orbix has been to your liking, [mcname]."
+    cw "我希望你喜欢在Orbix工作，[mcname]。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:118
 translate chinese sm1cs_cw006_d8cf6821:
 
     # mc "It has its perks."
-    mc "It has its perks."
+    mc "有它的好处。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:119
 translate chinese sm1cs_cw006_7d626aa1:
 
     # mc "I'm always curious what will happen next."
-    mc "I'm always curious what will happen next."
+    mc "我总是很好奇接下来会发生什么。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:125
 translate chinese sm1cs_cw006_d94dc264:
 
     # mc "Oh yes, I have enjoyed it."
-    mc "Oh yes, I have enjoyed it."
+    mc "哦是的，我很喜欢。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:126
 translate chinese sm1cs_cw006_3b194e7f:
 
     # mc "I think it's been the right job at the right time for me."
-    mc "I think it's been the right job at the right time for me."
+    mc "我觉得这对我来说是合适的时间找到了合适的工作。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:128
 translate chinese sm1cs_cw006_05801062:
 
     # mc "I hope my performance has been good."
-    mc "I hope my performance has been good."
+    mc "我希望我的表现一直不错。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:130
 translate chinese sm1cs_cw006_dd462aae:
 
     # cw "Oh, you would know if your performance for the company has been {b}lacking{/b}."
-    cw "Oh, you would know if your performance for the company has been {b}lacking{/b}."
+    cw "哦，如果你在公司的表现{b}不佳{/b}，你肯定会知道的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:138
 translate chinese sm1cs_cw006_77740e41:
 
     # mc "Yeah it's about what I expected it to be."
-    mc "Yeah it's about what I expected it to be."
+    mc "是的，基本上和我预期的一样。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:140
 translate chinese sm1cs_cw006_9d67b5b2:
 
     # cw "Hmmm. So nothing about it has really impressed you?"
-    cw "Hmmm. So nothing about it has really impressed you?"
+    cw "嗯。所以没有什么真正让你印象深刻的？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:144
 translate chinese sm1cs_cw006_7f08e5f1:
 
     # mc "Not really."
-    mc "Not really."
+    mc "并没有。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:145
 translate chinese sm1cs_cw006_8331d6e0:
 
     # mc "I mean, at least not yet."
-    mc "I mean, at least not yet."
+    mc "我是说，至少目前还没有。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:152
 translate chinese sm1cs_cw006_8a9fc9a4:
 
     # cw "I suppose I should get to the point of why I brought you in."
-    cw "I suppose I should get to the point of why I brought you in."
+    cw "我想我应该说说为什么把你叫来了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:154
 translate chinese sm1cs_cw006_606e2d02:
@@ -218,85 +218,85 @@ translate chinese sm1cs_cw006_606e2d02:
 translate chinese sm1cs_cw006_0a0d6668:
 
     # cw "I'm afraid I have bad news."
-    cw "I'm afraid I have bad news."
+    cw "恐怕我有个坏消息。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:159
 translate chinese sm1cs_cw006_16270c32:
 
     # cw "{b}You're fired{/b}."
-    cw "{b}You're fired{/b}."
+    cw "{b}你被解雇了{/b}。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:162
 translate chinese sm1cs_cw006_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:165
 translate chinese sm1cs_cw006_13cef9f5:
 
     # cw "Relax. I should have been clearer."
-    cw "Relax. I should have been clearer."
+    cw "放松。我应该说得更清楚一点。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:166
 translate chinese sm1cs_cw006_ca4750ad:
 
     # cw "You are fired from being my fake boyfriend."
-    cw "You are fired from being my fake boyfriend."
+    cw "你被解雇了，是从我的假男友这个身份被解雇。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:169
 translate chinese sm1cs_cw006_78b5f8c9:
 
     # mc "Oh.{w} Sheesh."
-    mc "Oh.{w} Sheesh."
+    mc "哦。{w}天哪。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:172
 translate chinese sm1cs_cw006_7bcd75f1:
 
     # cw "Hahaha. Sorry. I couldn't resist."
-    cw "Hahaha. Sorry. I couldn't resist."
+    cw "哈哈哈。抱歉。我忍不住。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:175
 translate chinese sm1cs_cw006_a75a132d:
 
     # mc "It's fine."
-    mc "It's fine."
+    mc "没关系。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:176
 translate chinese sm1cs_cw006_5dc95c41:
 
     # mc "Well, it was interesting. I'll send for my things."
-    mc "Well, it was interesting. I'll send for my things."
+    mc "嗯，挺有意思的。我会去拿我的东西。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:179
 translate chinese sm1cs_cw006_66557ef0:
 
     # cw "Haha. Cute."
-    cw "Haha. Cute."
+    cw "哈哈。真可爱。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:180
 translate chinese sm1cs_cw006_97a8cf24:
 
     # cw "Now officially, our breakup won't go into effect until the right time."
-    cw "Now officially, our breakup won't go into effect until the right time."
+    cw "现在正式说，我们的分手要到合适的时候才会生效。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:183
 translate chinese sm1cs_cw006_1a866b7c:
 
     # cw "Maybe in the new season."
-    cw "Maybe in the new season."
+    cw "也许在新的季节。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:184
 translate chinese sm1cs_cw006_5c584eed:
 
     # cw "I'm going to go to the park, then my allergies will give me the perfect not-so-fake tears to really sell the breakup to my parents."
-    cw "I'm going to go to the park, then my allergies will give me the perfect not-so-fake tears to really sell the breakup to my parents."
+    cw "我要去公园，然后我的过敏症会给我完美的、不那么假的眼泪，好让我父母真正相信分手这件事。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:187
 translate chinese sm1cs_cw006_a23ecc31:
 
     # mc "Sounds like you've thought this all out."
-    mc "Sounds like you've thought this all out."
+    mc "听起来你把这一切都想好了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:189
 translate chinese sm1cs_cw006_1f28d6f7:
@@ -308,175 +308,175 @@ translate chinese sm1cs_cw006_1f28d6f7:
 translate chinese sm1cs_cw006_a55ddf1d:
 
     # cw "Yes.{w} And it is the right decision."
-    cw "Yes.{w} And it is the right decision."
+    cw "是的。{w}这是正确的决定。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:194
 translate chinese sm1cs_cw006_85d17c36:
 
     # cw "Or at least the best decision with the problem at hand."
-    cw "Or at least the best decision with the problem at hand."
+    cw "或者至少是处理眼前问题的最佳决定。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:198
 translate chinese sm1cs_cw006_36057f4a:
 
     # mc "I have to ask..."
-    mc "I have to ask..."
+    mc "我必须问..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:199
 translate chinese sm1cs_cw006_e69a0263:
 
     # mc "Did I do something wrong on the trip?"
-    mc "Did I do something wrong on the trip?"
+    mc "我在旅行中做错什么了吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:202
 translate chinese sm1cs_cw006_36fc5f82:
 
     # cw "How can you ask me that after the {i}position{/i} you put me in on the boat."
-    cw "How can you ask me that after the {i}position{/i} you put me in on the boat."
+    cw "在船上你把我摆成那个{i}姿势{/i}之后，你怎么还能问我这个？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:205
 translate chinese sm1cs_cw006_14e9e4d0:
 
     # cw "Twice?"
-    cw "Twice?"
+    cw "两次？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:213
 translate chinese sm1cs_cw006_47442369:
 
     # mc "{i}You{/i} didn't really seem to mind it that much."
-    mc "{i}You{/i} didn't really seem to mind it that much."
+    mc "{i}你{/i}看起来并不怎么介意啊。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:216
 translate chinese sm1cs_cw006_49797b12:
 
     # cw "Oh I was just putting on a good show..."
-    cw "Oh I was just putting on a good show..."
+    cw "哦，我只是在演戏..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:217
 translate chinese sm1cs_cw006_e2717d81:
 
     # cw "For my {b}parents{/b}."
-    cw "For my {b}parents{/b}."
+    cw "给我{b}父母{/b}看的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:220
 translate chinese sm1cs_cw006_7ade9d2a:
 
     # mct "{b}Riiiiiigggghhhhtt{/b}."
-    mct "{b}Riiiiiigggghhhhtt{/b}."
+    mct "{b}是啊是啊{/b}。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:229
 translate chinese sm1cs_cw006_f54ec3f7:
 
     # mc "I am sorry about that, Claire."
-    mc "I am sorry about that, Claire."
+    mc "对此我很抱歉，克莱尔。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:230
 translate chinese sm1cs_cw006_c2baae98:
 
     # mc "It was my first time being a fake boyfriend."
-    mc "It was my first time being a fake boyfriend."
+    mc "那是我第一次当假男友。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:233
 translate chinese sm1cs_cw006_8ef9bf4f:
 
     # mc "I guess I was a little out of my depth."
-    mc "I guess I was a little out of my depth."
+    mc "我想我有点力不从心。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:235
 translate chinese sm1cs_cw006_0ffd66d7:
 
     # cw "I know, [mcname]."
-    cw "I know, [mcname]."
+    cw "我知道，[mcname]。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:238
 translate chinese sm1cs_cw006_cfc70d4c:
 
     # cw "I'm not blaming you for anything. It was my idea."
-    cw "I'm not blaming you for anything. It was my idea."
+    cw "我没有责怪你什么。这是我的主意。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:239
 translate chinese sm1cs_cw006_72e1e090:
 
     # cw "You would never have had to play the role so {b}physically{/b}..."
-    cw "You would never have had to play the role so {b}physically{/b}..."
+    cw "你本来不必把这个角色演得这么{b}逼真{/b}..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:242
 translate chinese sm1cs_cw006_481fa937:
 
     # cw "If I didn't need you help in the first place..."
-    cw "If I didn't need you help in the first place..."
+    cw "如果不是我一开始就需要你的帮助..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:249
 translate chinese sm1cs_cw006_2d2aafdf:
 
     # mc "I was just playing the role you put me in."
-    mc "I was just playing the role you put me in."
+    mc "我只是在扮演你给我安排的角色。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:251
 translate chinese sm1cs_cw006_ddbff920:
 
     # cw "Yes. Well, your... {b}unit{/b}... seemed to be overly excited with it."
-    cw "Yes. Well, your... {b}unit{/b}... seemed to be overly excited with it."
+    cw "是的。嗯，你的...{b}那家伙{/b}...似乎对此过度兴奋了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:254
 translate chinese sm1cs_cw006_3dd95da2:
 
     # mc "My unit?"
-    mc "My unit?"
+    mc "我的那家伙？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:255
 translate chinese sm1cs_cw006_54ed4ee7:
 
     # mc "Oh you mean my dick."
-    mc "Oh you mean my dick."
+    mc "哦你是说我的老二。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:256
 translate chinese sm1cs_cw006_09adac03:
 
     # cw "*gasps*"
-    cw "*gasps*"
+    cw "*倒吸一口气*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:257
 translate chinese sm1cs_cw006_e1fea2e7:
 
     # mc "I can only control my body so much, Claire.."
-    mc "I can only control my body so much, Claire.."
+    mc "我只能在一定程度上控制我的身体，克莱尔..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:260
 translate chinese sm1cs_cw006_d99ab8d5:
 
     # cw "Stop."
-    cw "Stop."
+    cw "停。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:263
 translate chinese sm1cs_cw006_ecae6164:
 
     # cw "You're right, [mcname]."
-    cw "You're right, [mcname]."
+    cw "你说得对，[mcname]。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:264
 translate chinese sm1cs_cw006_43ee7c8b:
 
     # cw "You were only there... reacting like...{w} {i}That{/i}..."
-    cw "You were only there... reacting like...{w} {i}That{/i}..."
+    cw "你只是在那里...像...{w}{i}那样{/i}反应..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:267
 translate chinese sm1cs_cw006_506086f4:
 
     # cw "Because of me..."
-    cw "Because of me..."
+    cw "因为我..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:272
 translate chinese sm1cs_cw006_acb420f7:
 
     # cw "*breathing deeply*"
-    cw "*breathing deeply*"
+    cw "*深呼吸*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:275
 translate chinese sm1cs_cw006_b75b20d7:
 
     # cw "In any case, the falsehood is behind us."
-    cw "In any case, the falsehood is behind us."
+    cw "无论如何，谎言已成过去。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:276
 translate chinese sm1cs_cw006_6dd34d84:
