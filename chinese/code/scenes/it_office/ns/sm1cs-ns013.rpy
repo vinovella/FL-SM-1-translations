@@ -1076,7 +1076,7 @@ translate chinese ns013_labels_section_e4af941e:
 translate chinese ns013_labels_section_da69643a:
 
     # ns "Especially not in front of a guy's 'girlfriend'."
-    ns "尤其不是在一个男人的"女朋友"面前。"
+    ns "尤其不是在一个男人的\"女朋友\"面前。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:618
 translate chinese ns013_labels_section_c0e7ac6c:
