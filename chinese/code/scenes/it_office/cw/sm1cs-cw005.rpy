@@ -1058,7 +1058,7 @@ translate chinese sm1cs_cw005_sauna_menu_e0ea833e:
 translate chinese sm1cs_cw005_sauna_menu_9a1aecba:
 
     # cw "Thank you."
-    cw "Thank you."
+    cw "谢谢。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:656
 translate chinese sm1cs_cw005_sauna_menu_2c8a1f4d:
@@ -1226,7 +1226,7 @@ translate chinese sm1cs_cw005_sauna_menu_f90e8e3e:
 translate chinese sm1cs_cw005_sauna_menu_3a535c0a:
 
     # cw "It's fine now. It's always like this."
-    cw "It's fine now. It's always like this."
+    cw "现在没事了。一直都是这样的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:728
 translate chinese sm1cs_cw005_sauna_menu_6f190bde:
@@ -1244,7 +1244,7 @@ translate chinese sm1cs_cw005_sauna_menu_f141005e:
 translate chinese sm1cs_cw005_sauna_menu_95a6bcde:
 
     # cw "But give me a massage any day."
-    cw "But give me a massage any day."
+    cw "但随时给我按摩都可以。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:735
 translate chinese sm1cs_cw005_sauna_menu_5c7c4c0e:
@@ -1262,7 +1262,7 @@ translate chinese sm1cs_cw005_sauna_menu_b57ef2dd:
 translate chinese sm1cs_cw005_sauna_menu_840812a5:
 
     # cw "I suppose we must play our parts again."
-    cw "I suppose we must play our parts again."
+    cw "我想我们必须再次扮演我们的角色。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:756
 translate chinese sm1cs_cw005_sauna_menu_0a41cfd9:
@@ -1280,13 +1280,13 @@ translate chinese sm1cs_cw005_sauna_menu_0a24e9ba:
 translate chinese sm1cs_cw005_sauna_menu_1e060efe:
 
     # cw "Absolutely not."
-    cw "Absolutely not."
+    cw "绝对不行。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:764
 translate chinese sm1cs_cw005_sauna_menu_5a35dfbd:
 
     # mc "I'm confused."
-    mc "I'm confused."
+    mc "我搞糊涂了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:765
 translate chinese sm1cs_cw005_sauna_menu_caafcfd9:
@@ -1298,7 +1298,7 @@ translate chinese sm1cs_cw005_sauna_menu_caafcfd9:
 translate chinese sm1cs_cw005_sauna_menu_4bd32584:
 
     # mc "Self-stimulate?"
-    mc "Self-stimulate?"
+    mc "自我刺激？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:770
 translate chinese sm1cs_cw005_sauna_menu_90d6d868:
@@ -1334,7 +1334,7 @@ translate chinese sm1cs_cw005_sauna_menu_65f5b014:
 translate chinese sm1cs_cw005_sauna_menu_a39a1d50:
 
     # mc "You're serious?"
-    mc "You're serious?"
+    mc "你是认真的吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:784
 translate chinese sm1cs_cw005_sauna_menu_8112397c:
@@ -1346,13 +1346,13 @@ translate chinese sm1cs_cw005_sauna_menu_8112397c:
 translate chinese sm1cs_cw005_sauna_menu_06eb03ff:
 
     # mc "I'll do my best."
-    mc "I'll do my best."
+    mc "我会尽力的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:789
 translate chinese sm1cs_cw005_sauna_menu_ba75108c:
 
     # cw "Then go on."
-    cw "Then go on."
+    cw "那就继续吧。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:790
 translate chinese sm1cs_cw005_sauna_menu_038b0c2a:
@@ -1388,7 +1388,7 @@ translate chinese sm1cs_cw005_sauna_menu_0e0f4336:
 translate chinese sm1cs_cw005_sauna_menu_91d2d9f3:
 
     # cw "Mmmm."
-    cw "Mmmm."
+    cw "嗯嗯嗯。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:811
 translate chinese sm1cs_cw005_sauna_menu_2f817853:
@@ -2264,7 +2264,7 @@ translate chinese sm1cs_cw005_sauna_menu_45aca507:
 translate chinese sm1cs_cw005_sauna_menu_91d2d9f3_1:
 
     # cw "Mmmm."
-    cw "Mmmm."
+    cw "嗯嗯嗯。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1194
 translate chinese sm1cs_cw005_sauna_menu_a2d71df2:
