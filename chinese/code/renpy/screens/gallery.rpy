@@ -44,7 +44,3 @@
     old "Prev"
     new "Prev"
 
-    # game/code/renpy/screens/gallery.rpy:142
-    old "Next"
-    new "Next"
-

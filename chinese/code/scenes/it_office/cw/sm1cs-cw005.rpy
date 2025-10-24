@@ -2234,7 +2234,7 @@ translate chinese sm1cs_cw005_sauna_menu_221e1947:
 translate chinese sm1cs_cw005_sauna_menu_86dac258:
 
     # cw "Um...{w} No.{w} I mean there is no 'need' for that, [mcname]."
-    cw "嗯……{w}不用了。{w}我的意思是没有那个"需要"，[mcname]。"
+    cw "嗯……{w}不用了。{w}我的意思是没有那个\"需要\"，[mcname]。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1177
 translate chinese sm1cs_cw005_sauna_menu_5b633805:
@@ -2330,7 +2330,7 @@ translate chinese sm1cs_cw005_sauna_menu_ddfbb216:
 translate chinese sm1cs_cw005_sauna_menu_8ab0eecc:
 
     # cw "'Thank you' hardly seems like enough for everything you did over the weekend, Mr. Young."
-    cw ""谢谢"似乎不足以表达你整个周末所做的一切，杨先生。"
+    cw "\"谢谢\"似乎不足以表达你整个周末所做的一切，杨先生。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1244
 translate chinese sm1cs_cw005_sauna_menu_9679993c:

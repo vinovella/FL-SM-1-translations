@@ -1106,7 +1106,7 @@ translate chinese sm1cs_cw004_first_evening_47879083:
 translate chinese sm1cs_cw004_first_evening_aa8ff31c:
 
     # mct "I can't imagine what will happen when we \"break up\"."
-    mct "我无法想象我们"分手"时会发生什么。"
+    mct "我无法想象我们\"分手\"时会发生什么。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:659
 translate chinese sm1cs_cw004_first_evening_a80e7b34:
@@ -1948,48 +1948,6 @@ translate chinese sm1cs_cw004_first_evening_80f6d00e:
     # cw "Hmm."
     cw "嗯。"
 
-translate chinese strings:
-
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:98
-    old "我不这么认为，克莱尔"
-    new "I don't think so Claire"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:148
-    old "星期六早上"
-    new "Saturday Morning"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:165
-    old "那是你的主意"
-    new "It was yours"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:165
-    old "一切都会好起来的，克莱尔"
-    new "It's going to be okay, Claire"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:359
-    old "两杯酒后"
-    new "Two drinks later"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
-    old "我不想浪费你的弹药"
-    new "I don't want to waste your ammo"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
-    old "好的，来吧"
-    new "Sure lets do it"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:636
-    old "那天晚上晚些时候"
-    new "Later that evening"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:723
-    old "摸她的胸部"
-    new "Touch her boobs"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:723
-    old "抵抗！"
-    new "Resist!"
-
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:540
 translate chinese sm1cs_cw004_later_6251a886:
 
@@ -2010,7 +1968,42 @@ translate chinese sm1cs_cw004_first_evening_19a0c527:
 
 translate chinese strings:
 
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
-    old "好的，来吧"
-    new "Sure let's do it"
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:98
+    old "I don't think so Claire"
+    new "我不这么认为，克莱尔"
 
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:148
+    old "Saturday Morning"
+    new "星期六早上"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:165
+    old "It was yours"
+    new "那是你的主意"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:165
+    old "It's going to be okay, Claire"
+    new "一切都会好起来的，克莱尔"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:359
+    old "Two drinks later"
+    new "两杯酒后"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
+    old "I don't want to waste your ammo"
+    new "我不想浪费你的弹药"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
+    old "Sure let's do it"
+    new "好的，来吧"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:636
+    old "Later that evening"
+    new "那天晚上晚些时候"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:723
+    old "Touch her boobs"
+    new "摸她的胸部"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:723
+    old "Resist!"
+    new "抵抗！"

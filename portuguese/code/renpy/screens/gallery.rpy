@@ -36,7 +36,3 @@
     old "Prev"
     new "Ant"
 
-    # game/code/renpy/screens/gallery.rpy:142
-    old "Next"
-    new "Próx"
-
