@@ -2,325 +2,325 @@
 translate chinese sm1cs_ns013_25596036:
 
     # sy "Nari really brings an interesting energy to the place."
-    sy "Nari really brings an interesting energy to the place."
+    sy "娜丽真是给这地方带来了有趣的活力。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:66
 translate chinese sm1cs_ns013_1952da9f:
 
     # mc "Good or bad energy?"
-    mc "Good or bad energy?"
+    mc "好的活力还是坏的活力？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:69
 translate chinese sm1cs_ns013_5fcb8487:
 
     # sy "I don't know, I haven't made up my mind yet."
-    sy "I don't know, I haven't made up my mind yet."
+    sy "我不知道，我还没想好呢。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:70
 translate chinese sm1cs_ns013_a2642d33:
 
     # sy "But she is definitely cute."
-    sy "But she is definitely cute."
+    sy "但她绝对很可爱。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:71
 translate chinese sm1cs_ns013_6311018e:
 
     # sy "She showed me all her artwork and toys."
-    sy "She showed me all her artwork and toys."
+    sy "她给我看了她所有的艺术品和玩具。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:72
 translate chinese sm1cs_ns013_9640a691:
 
     # sy "Each one...{w} I mean, she talked about them like they were family members."
-    sy "Each one...{w} I mean, she talked about them like they were family members."
+    sy "每一个...{w}我的意思是，她谈论它们的样子就像它们是家人一样。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:75
 translate chinese sm1cs_ns013_7488ae3e:
 
     # mc "Oh yeah."
-    mc "Oh yeah."
+    mc "哦，是啊。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:76
 translate chinese sm1cs_ns013_3b063be5:
 
     # mc "When we went to the store, we spent hours in the toy section."
-    mc "When we went to the store, we spent hours in the toy section."
+    mc "我们去商店的时候，在玩具区呆了好几个小时。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:82
 translate chinese sm1cs_ns013_94177620:
 
     # mc "If it makes Nari happy, that's fine by me."
-    mc "If it makes Nari happy, that's fine by me."
+    mc "如果这能让娜丽开心，我完全没意见。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:83
 translate chinese sm1cs_ns013_01e69536:
 
     # mc "She didn't get to bring much from her old place."
-    mc "She didn't get to bring much from her old place."
+    mc "她从原来的地方带来的东西不多。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:84
 translate chinese sm1cs_ns013_5ad130e7:
 
     # mc "Apart from some pictures."
-    mc "Apart from some pictures."
+    mc "除了一些照片。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:91
 translate chinese sm1cs_ns013_34779cae:
 
     # mc "Toys aren't really my thing.{w} Least not those kind."
-    mc "Toys aren't really my thing.{w} Least not those kind."
+    mc "玩具不太适合我。{w}至少不是那种玩具。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:94
 translate chinese sm1cs_ns013_b5e7f15b:
 
     # sy "Well, maybe she's young at heart."
-    sy "Well, maybe she's young at heart."
+    sy "嗯，也许她内心年轻吧。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:97
 translate chinese sm1cs_ns013_1e302232:
 
     # mc "Yeah. Or maybe it's a family thing."
-    mc "Yeah. Or maybe it's a family thing."
+    mc "是啊。或者可能是家庭原因。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:98
 translate chinese sm1cs_ns013_fcfe3056:
 
     # mc "Working at Orbix seems to be the first time Nari's had a lot of money to spend how she wants."
-    mc "Working at Orbix seems to be the first time Nari's had a lot of money to spend how she wants."
+    mc "在Orbix工作似乎是娜丽第一次有很多钱可以随心所欲地花。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:101
 translate chinese sm1cs_ns013_d1cdbe69:
 
     # sy "Hmmm."
-    sy "Hmmm."
+    sy "嗯。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:103
 translate chinese sm1cs_ns013_c81e784d:
 
     # sy "Well, the important part is that she is settling in nicely and hasn't turned into a monstermate."
-    sy "Well, the important part is that she is settling in nicely and hasn't turned into a monstermate."
+    sy "好吧，重要的是她住得很好，没有变成怪物室友。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:107
 translate chinese sm1cs_ns013_2bdd6b11:
 
     # mc "A monstermate?"
-    mc "A monstermate?"
+    mc "怪物室友？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:110
 translate chinese sm1cs_ns013_73a0b3a1:
 
     # sy "Yeah. A monster roommate."
-    sy "Yeah. A monster roommate."
+    sy "是啊。怪物室友嘛。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:117
 translate chinese sm1cs_ns013_702e62dc:
 
     # mc "That's pretty funny."
-    mc "That's pretty funny."
+    mc "挺有趣的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:119
 translate chinese sm1cs_ns013_c281cb0e:
 
     # sy "Thank you."
-    sy "Thank you."
+    sy "谢谢。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:124
 translate chinese sm1cs_ns013_01ecee92:
 
     # mc "You're as silly as Nari."
-    mc "You're as silly as Nari."
+    mc "你和娜丽一样傻乎乎的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:126
 translate chinese sm1cs_ns013_bb6e7b9c:
 
     # sy "Hopefully that means we'll get along well."
-    sy "Hopefully that means we'll get along well."
+    sy "希望这意味着我们能相处得很好。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:132
 translate chinese sm1cs_ns013_0ecbe951:
 
     # sy "Alright, mister.{w} It's time for you to get some sleep."
-    sy "Alright, mister.{w} It's time for you to get some sleep."
+    sy "好了，先生。{w}该睡觉了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:135
 translate chinese sm1cs_ns013_9e2f705b:
 
     # mc "Good call."
-    mc "Good call."
+    mc "说得对。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:140
 translate chinese sm1cs_ns013_0d20c3e5:
 
     # sy "Do you think we should tell Nari that she can sleep out here?"
-    sy "Do you think we should tell Nari that she can sleep out here?"
+    sy "你觉得我们应该告诉娜丽她可以睡在这儿吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:143
 translate chinese sm1cs_ns013_e526a903:
 
     # mc "Hmmm."
-    mc "Hmmm."
+    mc "嗯。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:147
 translate chinese sm1cs_ns013_2b218f43:
 
     # mc "I think we wait and see on that."
-    mc "I think we wait and see on that."
+    mc "我觉得我们可以等等看。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:148
 translate chinese sm1cs_ns013_36f85886:
 
     # mc "She just got her own room."
-    mc "She just got her own room."
+    mc "她才刚有了自己的房间。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:149
 translate chinese sm1cs_ns013_ef6fe767:
 
     # mc "If she asks, we'll tell her."
-    mc "If she asks, we'll tell her."
+    mc "如果她问起来，我们再告诉她。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:152
 translate chinese sm1cs_ns013_bd854202:
 
     # sy "Sounds good."
-    sy "Sounds good."
+    sy "听起来不错。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:159
 translate chinese sm1cs_ns013_4194afb2:
 
     # sy "Mmmm. That's nice."
-    sy "Mmmm. That's nice."
+    sy "嗯嗯。真好。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:162
 translate chinese sm1cs_ns013_0792d9f7:
 
     # sy "Ahuha-good-ahah..."
-    sy "Ahuha-good-ahah..."
+    sy "啊哈-真好-啊哈..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:166
 translate chinese sm1cs_ns013_caacab03:
 
     # sy "Night..."
-    sy "Night..."
+    sy "晚安..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:171
 translate chinese sm1cs_ns013_23dca2d3:
 
     # mc "Good night, sis."
-    mc "Good night, sis."
+    mc "晚安，妹妹。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:173
 translate chinese sm1cs_ns013_bae8c4d4:
 
     # mc "Good night, Stacy."
-    mc "Good night, Stacy."
+    mc "晚安，史黛西。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:198
 translate chinese sm1cs_ns013_aceaa06a:
 
     # mct "Mmmm. What a nice dream."
-    mct "Mmmm. What a nice dream."
+    mct "嗯嗯。真是个好梦。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:199
 translate chinese sm1cs_ns013_6bfcfe43:
 
     # mct "Shame it ended.{w} It was feeling good."
-    mct "Shame it ended.{w} It was feeling good."
+    mct "可惜结束了。{w}感觉很棒。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:209
 translate chinese sm1cs_ns013_8feb6de7:
 
     # mct "Oh..."
-    mct "Oh..."
+    mct "哦..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:210
 translate chinese sm1cs_ns013_9fa9b0ec:
 
     # mct "Maybe it wasn't a dream."
-    mct "Maybe it wasn't a dream."
+    mct "也许这不是梦。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:213
 translate chinese sm1cs_ns013_c3e820da:
 
     # sy "*smooching*"
-    sy "*smooching*"
+    sy "*接吻*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:217
 translate chinese sm1cs_ns013_46306508:
 
     # mc "Good morning there..."
-    mc "Good morning there..."
+    mc "早上好啊..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:220
 translate chinese sm1cs_ns013_65b9ec84:
 
     # sy "Ahah. The monster finally stirs."
-    sy "Ahah. The monster finally stirs."
+    sy "啊哈。怪物终于动了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:221
 translate chinese sm1cs_ns013_19a120b7:
 
     # sy "Mrwmmmm."
-    sy "Mrwmmmm."
+    sy "嗯嗯嗯。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:222
 translate chinese sm1cs_ns013_25f0b46a:
 
     # sy "You {i}do{/i} like to sleep in."
-    sy "You {i}do{/i} like to sleep in."
+    sy "你{i}真的{/i}很喜欢睡懒觉。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:226
 translate chinese sm1cs_ns013_40f4fdae:
 
     # sy "I was about to put a finger up your butt."
-    sy "I was about to put a finger up your butt."
+    sy "我刚才还想把手指插进你屁股里呢。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:227
 translate chinese sm1cs_ns013_be00afe1:
 
     # sy "Little dark side wakeup alarm."
-    sy "Little dark side wakeup alarm."
+    sy "小小的黑暗面叫醒闹钟。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:235
 translate chinese sm1cs_ns013_2ba27d78:
 
     # mc "Don't threaten me with a good time."
-    mc "Don't threaten me with a good time."
+    mc "别拿好事来威胁我。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:238
 translate chinese sm1cs_ns013_ba2afede:
 
     # sy "*chuckles*"
-    sy "*chuckles*"
+    sy "*轻笑*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:242
 translate chinese sm1cs_ns013_d5b14390:
 
     # mc "I'm glad you stuck with kissing."
-    mc "I'm glad you stuck with kissing."
+    mc "我很高兴你只是亲吻。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:245
 translate chinese sm1cs_ns013_5ee8dc16:
 
     # sy "Mmhmm."
-    sy "Mmhmm."
+    sy "嗯嗯。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:250
 translate chinese sm1cs_ns013_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "嗯？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:253
 translate chinese sm1cs_ns013_cce71d2e:
 
     # mc "It's my turn to get you worked up."
-    mc "It's my turn to get you worked up."
+    mc "轮到我让你兴奋了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:258
 translate chinese sm1cs_ns013_2e90ccca:
 
     # sy "That's okay, bro."
-    sy "That's okay, bro."
+    sy "没关系，哥哥。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:259
 translate chinese sm1cs_ns013_3ad2098e:
@@ -332,13 +332,13 @@ translate chinese sm1cs_ns013_3ad2098e:
 translate chinese sm1cs_ns013_e8911481:
 
     # mc "Oh, I know, dear sister."
-    mc "Oh, I know, dear sister."
+    mc "哦，我知道，亲爱的妹妹。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:266
 translate chinese sm1cs_ns013_2e1a03a5:
 
     # sy "That's okay, [mcname]."
-    sy "That's okay, [mcname]."
+    sy "没关系，[mcname]。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:267
 translate chinese sm1cs_ns013_3ad2098e_1:
@@ -350,133 +350,133 @@ translate chinese sm1cs_ns013_3ad2098e_1:
 translate chinese sm1cs_ns013_cc358037:
 
     # mc "Oh, I know, Stacy..."
-    mc "Oh, I know, Stacy..."
+    mc "哦，我知道，史黛西..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:274
 translate chinese sm1cs_ns013_0eb08cae:
 
     # mc "But that's why I need to punish you a little."
-    mc "But that's why I need to punish you a little."
+    mc "但这就是为什么我要稍微惩罚你一下。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:277
 translate chinese sm1cs_ns013_dfec528c:
 
     # sy "*sarcastic* Punish... me?"
-    sy "*sarcastic* Punish... me?"
+    sy "*讽刺地*惩罚...我？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:283
 translate chinese sm1cs_ns013_44adfba6:
 
     # mc "*growling* Yes."
-    mc "*growling* Yes."
+    mc "*低吼*是的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:287
 translate chinese sm1cs_ns013_8c7f53ac:
 
     # sy "*light wimpering*"
-    sy "*light wimpering*"
+    sy "*轻声呜咽*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:288
 translate chinese sm1cs_ns013_0a203103:
 
     # sy "Please... at least put your big fingers inside me."
-    sy "Please... at least put your big fingers inside me."
+    sy "求你了...至少把你的大手指伸进我里面。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:289
 translate chinese sm1cs_ns013_129ea662:
 
     # sy "*playful* Or I'm going to get mad."
-    sy "*playful* Or I'm going to get mad."
+    sy "*调皮地*否则我要生气了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:294
 translate chinese sm1cs_ns013_87c04f0e:
 
     # mc "I'm shaking.{w} But... I will reward you for getting my cock ready."
-    mc "I'm shaking.{w} But... I will reward you for getting my cock ready."
+    mc "我吓坏了。{w}但是...我会奖励你让我的鸡巴准备好了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:295
 translate chinese sm1cs_ns013_9186400b:
 
     # sy "Mmuaah..."
-    sy "Mmuaah..."
+    sy "嗯啊..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:296
 translate chinese sm1cs_ns013_55a3de5e:
 
     # sy "Ooouhaaa-whuaaah."
-    sy "Ooouhaaa-whuaaah."
+    sy "哦哦啊-呜啊啊。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:301
 translate chinese sm1cs_ns013_cd080ddb:
 
     # sy "Murraaah...."
-    sy "Murraaah...."
+    sy "呜啊啊...."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:303
 translate chinese sm1cs_ns013_d33b34e8:
 
     # sy "You can be so cruel, big bro..."
-    sy "You can be so cruel, big bro..."
+    sy "你有时候真残忍，哥哥..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:305
 translate chinese sm1cs_ns013_0701465b:
 
     # sy "You can be so cruel, [mcname]..."
-    sy "You can be so cruel, [mcname]..."
+    sy "你有时候真残忍，[mcname]..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:307
 translate chinese sm1cs_ns013_9f6fab67:
 
     # sy "But... you know just where to touch me."
-    sy "But... you know just where to touch me."
+    sy "但是...你知道该摸哪里。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:308
 translate chinese sm1cs_ns013_618c4ac3:
 
     # sy "Uhuaah... It's not fair."
-    sy "Uhuaah... It's not fair."
+    sy "呜啊啊...这不公平。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:311
 translate chinese sm1cs_ns013_8f7d0d1f:
 
     # mc "I know.{w} But it's not how fair how hard I get for you, Stacy."
-    mc "I know.{w} But it's not how fair how hard I get for you, Stacy."
+    mc "我知道。{w}但我为你变得这么硬也不公平，史黛西。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:312
 translate chinese sm1cs_ns013_d48dd1bf:
 
     # mc "Sometimes, I think we made the porn studio so we would have to work and keep from fucking each other senseless every day."
-    mc "Sometimes, I think we made the porn studio so we would have to work and keep from fucking each other senseless every day."
+    mc "有时候，我觉得我们建色情工作室就是为了有工作可做，免得每天都疯狂做爱。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:315
 translate chinese sm1cs_ns013_f7688891:
 
     # sy "Hahuahaa.... now wouldn't that be fun."
-    sy "Hahuahaa.... now wouldn't that be fun."
+    sy "哈哈啊啊....那不是很有趣吗。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:316
 translate chinese sm1cs_ns013_7efe7fc6:
 
     # sy "Ahuaha...{w} have I...{w} have I been punished enough, [mcname]?"
-    sy "Ahuaha...{w} have I...{w} have I been punished enough, [mcname]?"
+    sy "啊哈啊...{w}我...{w}我被惩罚够了吗，[mcname]？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:319
 translate chinese sm1cs_ns013_22b70eab:
 
     # sy "*moaning*"
-    sy "*moaning*"
+    sy "*呻吟*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:320
 translate chinese sm1cs_ns013_f3361e77:
 
     # mc "You're very wet.{w} But I want to play with you a little longer."
-    mc "You're very wet.{w} But I want to play with you a little longer."
+    mc "你已经很湿了。{w}但我想再玩你久一点。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:331
 translate chinese sm1cs_ns013_395e0e78:
 
     # ns "Ahuaah."
-    ns "Ahuaah."
+    ns "啊哈啊。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:334
 translate chinese sm1cs_ns013_1a2c0820:
@@ -494,259 +494,259 @@ translate chinese sm1cs_ns013_1a2c0820_1:
 translate chinese sm1cs_ns013_c6be1a20:
 
     # sy "Oh-hah-hah..."
-    sy "Oh-hah-hah..."
+    sy "哦-哈-哈..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:363
 translate chinese sm1cs_ns013_c40af7c7:
 
     # sy "You're so hard."
-    sy "You're so hard."
+    sy "你好硬。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:366
 translate chinese sm1cs_ns013_cd321e64:
 
     # sy "This is so hot..."
-    sy "This is so hot..."
+    sy "这太火辣了..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:369
 translate chinese sm1cs_ns013_30c9c315:
 
     # mc "Yeah. Your pussy and thighs feel so good."
-    mc "Yeah. Your pussy and thighs feel so good."
+    mc "是啊。你的小穴和大腿感觉真好。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:370
 translate chinese sm1cs_ns013_3b10895f:
 
     # sy "No."
-    sy "No."
+    sy "不。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:371
 translate chinese sm1cs_ns013_34f96976:
 
     # sy "I mean yeah."
-    sy "I mean yeah."
+    sy "我是说，是的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:374
 translate chinese sm1cs_ns013_5366dc89:
 
     # sy "But it's not like we're alone."
-    sy "But it's not like we're alone."
+    sy "但我们又不是只有我们两个人。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:375
 translate chinese sm1cs_ns013_d87a55f8:
 
     # sy "Nari could come out of her room any minute."
-    sy "Nari could come out of her room any minute."
+    sy "娜丽随时可能从她房间出来。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:396
 translate chinese sm1cs_ns013_57f43dc5:
 
     # mc "You don't mind."
-    mc "You don't mind."
+    mc "你不介意的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:397
 translate chinese sm1cs_ns013_f895a8f5:
 
     # mc "Your pussy is pouring like a rainstorm now."
-    mc "Your pussy is pouring like a rainstorm now."
+    mc "你的小穴现在像暴雨一样湿润。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:400
 translate chinese sm1cs_ns013_16ac90c9:
 
     # sy "I know I don't mind.{w} I just don't want to scare her."
-    sy "I know I don't mind.{w} I just don't want to scare her."
+    sy "我知道我不介意。{w}我只是不想吓到她。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:401
 translate chinese sm1cs_ns013_4582f6fd:
 
     # mc "It will be fine."
-    mc "It will be fine."
+    mc "会没事的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:404
 translate chinese sm1cs_ns013_6415cc6c:
 
     # sy "Muaah-ahuaah... you're so impossible when you've got morning wood."
-    sy "Muaah-ahuaah... you're so impossible when you've got morning wood."
+    sy "嗯啊-啊哈啊...你晨勃的时候真是不可理喻。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:405
 translate chinese sm1cs_ns013_f4d8552f:
 
     # sy "Can you...{w} can you kriffing fuck me finally?"
-    sy "Can you...{w} can you kriffing fuck me finally?"
+    sy "你能不能...{w}你能不能快点操我？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:408
 translate chinese sm1cs_ns013_f1e0010d:
 
     # sy "I've been so patient."
-    sy "I've been so patient."
+    sy "我已经很有耐心了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:412
 translate chinese sm1cs_ns013_dc8549ea:
 
     # mc "Say please."
-    mc "Say please."
+    mc "说请。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:418
 translate chinese sm1cs_ns013_dc8f8a8b:
 
     # sy "Please stick your cock in my pussy, bro..."
-    sy "Please stick your cock in my pussy, bro..."
+    sy "求你了，把你的鸡巴插进我的小穴里，哥哥..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:420
 translate chinese sm1cs_ns013_81c1e417:
 
     # sy "Please stick your cock in my wet, tight pussy, [mcname]."
-    sy "Please stick your cock in my wet, tight pussy, [mcname]."
+    sy "求你了，把你的鸡巴插进我湿润紧致的小穴里，[mcname]。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:422
 translate chinese sm1cs_ns013_c9d0e1d1:
 
     # mct "Oh she is not fighting fair!"
-    mct "Oh she is not fighting fair!"
+    mct "哦，她这招不公平！"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:423
 translate chinese sm1cs_ns013_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "好吧。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:426
 translate chinese sm1cs_ns013_f7b96b5f:
 
     # mc "Yes, you have."
-    mc "Yes, you have."
+    mc "是的，你做到了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:427
 translate chinese sm1cs_ns013_ed9a3f2c:
 
     # mc "Such a good girl."
-    mc "Such a good girl."
+    mc "真是个好女孩。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:434
 translate chinese sm1cs_ns013_78fb47a4:
 
     # ns "*whimpering softly*"
-    ns "*whimpering softly*"
+    ns "*轻声呜咽*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:435
 translate chinese sm1cs_ns013_83d04b1d:
 
     # ns "*nervous breathing*"
-    ns "*nervous breathing*"
+    ns "*紧张的呼吸*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:443
 translate chinese sm1cs_ns013_51f22e76:
 
     # sy "Oh fuck. That feels so good."
-    sy "Oh fuck. That feels so good."
+    sy "哦，操。感觉太好了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:444
 translate chinese sm1cs_ns013_26df7c8f:
 
     # mc "Yes. Morning sex is the best."
-    mc "Yes. Morning sex is the best."
+    mc "是啊。晨间性爱是最棒的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:448
 translate chinese sm1cs_ns013_c172bd12:
 
     # sy "Yes."
-    sy "Yes."
+    sy "是的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:449
 translate chinese sm1cs_ns013_f8e83795:
 
     # sy "Yes yes yes!"
-    sy "Yes yes yes!"
+    sy "是的是的是的！"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:452
 translate chinese sm1cs_ns013_100a7a3c:
 
     # sy "Oh my god. My pussy loves having you inside, bro."
-    sy "Oh my god. My pussy loves having you inside, bro."
+    sy "哦，我的天。我的小穴喜欢你在里面，哥哥。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:453
 translate chinese sm1cs_ns013_8f1f1320:
 
     # sy "Keep going."
-    sy "Keep going."
+    sy "继续。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:454
 translate chinese sm1cs_ns013_44e616c5:
 
     # sy "Make yourself... feel at home - anuaa-huaaah!"
-    sy "Make yourself... feel at home - anuaa-huaaah!"
+    sy "让你自己...感觉像在家里一样-啊呜啊-呜啊啊！"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:456
 translate chinese sm1cs_ns013_f948c289:
 
     # sy "Oh my god. My pussy is so happy having you inside me."
-    sy "Oh my god. My pussy is so happy having you inside me."
+    sy "哦，我的天。我的小穴好开心你在里面。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:457
 translate chinese sm1cs_ns013_651f40f6:
 
     # sy "I love feeling my boyfriend's cock sliding in and out."
-    sy "I love feeling my boyfriend's cock sliding in and out."
+    sy "我喜欢感受男朋友的鸡巴进进出出。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:458
 translate chinese sm1cs_ns013_9559db35:
 
     # sy "Enjoy it... enjoy using me- ahuaaah!"
-    sy "Enjoy it... enjoy using me- ahuaaah!"
+    sy "享受吧...享受使用我-啊哈啊啊！"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:461
 translate chinese sm1cs_ns013_5f71acf7:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*喘气*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:462
 translate chinese sm1cs_ns013_26afd527:
 
     # sy "Right there."
-    sy "Right there."
+    sy "就是那里。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:463
 translate chinese sm1cs_ns013_a3208a8d:
 
     # sy "Yes... push it in... stretch me out."
-    sy "Yes... push it in... stretch me out."
+    sy "是的...插进来...把我撑开。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:464
 translate chinese sm1cs_ns013_9b4516f0:
 
     # sy "*moaning* Ahu-ahuaah.. fuaah..."
-    sy "*moaning* Ahu-ahuaah.. fuaah..."
+    sy "*呻吟*啊呼-啊哈啊...呋啊啊..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:465
 translate chinese sm1cs_ns013_f562e5a3:
 
     # sy "Fuck. It's getting so hot!"
-    sy "Fuck. It's getting so hot!"
+    sy "操。太火热了！"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:471
 translate chinese sm1cs_ns013_b47205cb:
 
     # sy "Wwuah-huaaahfffah-ooouha!"
-    sy "Wwuah-huaaahfffah-ooouha!"
+    sy "呜啊-呜啊啊呼法-哦哦呜哈！"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:476
 translate chinese sm1cs_ns013_f15efb17:
 
     # ns "Ah-ahuaaah!"
-    ns "Ah-ahuaaah!"
+    ns "啊-啊哈啊啊！"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:479
 translate chinese sm1cs_ns013_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "嗯？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:481
 translate chinese sm1cs_ns013_b2f1b485:
 
     # sy "Heh?"
-    sy "Heh?"
+    sy "嘿？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:488
 translate chinese sm1cs_ns013_b8de06d3:
