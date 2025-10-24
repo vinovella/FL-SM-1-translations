@@ -758,7 +758,7 @@ translate chinese sm1cs_cw005_food_46db9d1a:
 translate chinese sm1cs_cw005_food_15cad887:
 
     # cw "What?"
-    cw "What?"
+    cw "什么？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:502
 translate chinese sm1cs_cw005_food_8400f24c:
@@ -1508,19 +1508,19 @@ translate chinese sm1cs_cw005_sauna_menu_e30f7fba:
 translate chinese sm1cs_cw005_sauna_menu_eb8da88d:
 
     # cw "Yeah, baby..."
-    cw "Yeah, baby..."
+    cw "是的，宝贝……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:874
 translate chinese sm1cs_cw005_sauna_menu_b61d931d:
 
     # cw "You're cumming soon?"
-    cw "You're cumming soon?"
+    cw "你快要射了吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:875
 translate chinese sm1cs_cw005_sauna_menu_0bae50a6:
 
     # mc "Uh... yeah."
-    mc "Uh... yeah."
+    mc "呃……是的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:878
 translate chinese sm1cs_cw005_sauna_menu_2a62470d:
@@ -1568,7 +1568,7 @@ translate chinese sm1cs_cw005_sauna_menu_329db151:
 translate chinese sm1cs_cw005_sauna_menu_4b47a85e:
 
     # cw "Ah."
-    cw "Ah."
+    cw "啊。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:902
 translate chinese sm1cs_cw005_sauna_menu_45afcbbb:
@@ -1634,7 +1634,7 @@ translate chinese sm1cs_cw005_sauna_menu_488b8084:
 translate chinese sm1cs_cw005_sauna_menu_c1132855:
 
     # mc "*whispers* Thanks."
-    mc "*whispers* Thanks."
+    mc "*低语*谢谢。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:930
 translate chinese sm1cs_cw005_sauna_menu_59e7914f:
@@ -1646,7 +1646,7 @@ translate chinese sm1cs_cw005_sauna_menu_59e7914f:
 translate chinese sm1cs_cw005_sauna_menu_fd1a08f7:
 
     # cw "Yes! *moans* Oh right there."
-    cw "Yes! *moans* Oh right there."
+    cw "是的！*呻吟*哦就是那里。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:935
 translate chinese sm1cs_cw005_sauna_menu_05be50e2:
@@ -1760,7 +1760,7 @@ translate chinese sm1cs_cw005_sauna_menu_908e4e99:
 translate chinese sm1cs_cw005_sauna_menu_76e6362b:
 
     # mc "Oh yeah..."
-    mc "Oh yeah..."
+    mc "哦耶……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:984
 translate chinese sm1cs_cw005_sauna_menu_6828f5b5:
@@ -1850,7 +1850,7 @@ translate chinese sm1cs_cw005_sauna_menu_b244197e:
 translate chinese sm1cs_cw005_sauna_menu_95d96455:
 
     # mct "Fuck."
-    mct "Fuck."
+    mct "操。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1014
 translate chinese sm1cs_cw005_sauna_menu_7ca49807:
@@ -1868,145 +1868,145 @@ translate chinese sm1cs_cw005_sauna_menu_7c039d21:
 translate chinese sm1cs_cw005_sauna_menu_400aa3ae:
 
     # cw "You've wanted this all day..."
-    cw "You've wanted this all day..."
+    cw "你一整天都想要这个……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1023
 translate chinese sm1cs_cw005_sauna_menu_129f88f0:
 
     # mc "Yes, I did."
-    mc "Yes, I did."
+    mc "是的，我想。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1026
 translate chinese sm1cs_cw005_sauna_menu_01380c10:
 
     # cw "Beg me."
-    cw "Beg me."
+    cw "求我。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1028
 translate chinese sm1cs_cw005_sauna_menu_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1031
 translate chinese sm1cs_cw005_sauna_menu_b2d12041:
 
     # cw "I mean... ask me to keep sucking your cock, [mcname]."
-    cw "I mean... ask me to keep sucking your cock, [mcname]."
+    cw "我的意思是……请我继续吸你的鸡巴，[mcname]。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1032
 translate chinese sm1cs_cw005_sauna_menu_1aea4b53:
 
     # cw "I... It will be nice."
-    cw "I... It will be nice."
+    cw "我……这会很好。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1035
 translate chinese sm1cs_cw005_sauna_menu_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "好的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1036
 translate chinese sm1cs_cw005_sauna_menu_5aaeaa82:
 
     # mc "Please keep doing that, Claire."
-    mc "Please keep doing that, Claire."
+    mc "请继续这样做，克莱尔。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1037
 translate chinese sm1cs_cw005_sauna_menu_e3b26b4b:
 
     # mc "It feels amazing."
-    mc "It feels amazing."
+    mc "感觉太棒了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1042
 translate chinese sm1cs_cw005_sauna_menu_e9ef591b:
 
     # cw "*moaning*"
-    cw "*moaning*"
+    cw "*呻吟*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1043
 translate chinese sm1cs_cw005_sauna_menu_ee947ebf:
 
     # cw "Very well. But only... nurah...{w} because you asked nicely."
-    cw "Very well. But only... nurah...{w} because you asked nicely."
+    cw "很好。但只是……呃啊……{w}因为你好好地请求了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1046
 translate chinese sm1cs_cw005_sauna_menu_acb35a4a:
 
     # cw "*thirsty sucking*"
-    cw "*thirsty sucking*"
+    cw "*渴望的吮吸*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1049
 translate chinese sm1cs_cw005_sauna_menu_3f50ccbf:
 
     # mc "Mrrrr-ffffhuaah..."
-    mc "Mrrrr-ffffhuaah..."
+    mc "呣呣呣-嗯哈啊……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1052
 translate chinese sm1cs_cw005_sauna_menu_91116b57:
 
     # mct "Oh my god."
-    mct "Oh my god."
+    mct "我的天啊。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1055
 translate chinese sm1cs_cw005_sauna_menu_fc3d76df:
 
     # mct "My boss' boss is going to town on my cock!"
-    mct "My boss' boss is going to town on my cock!"
+    mct "我老板的老板正在尽情享用我的鸡巴！"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1056
 translate chinese sm1cs_cw005_sauna_menu_dc1a34ba:
 
     # cw "Glrrrrrk.... slrrrrrrpha-hhh... Mlrrrruphhaa..."
-    cw "Glrrrrrk.... slrrrrrrpha-hhh... Mlrrrruphhaa..."
+    cw "咕噜噜……呼噜噜噗啊-嗯……呣噜噜噗啊……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1061
 translate chinese sm1cs_cw005_sauna_menu_5b3de015:
 
     # mc "I'm getting close."
-    mc "I'm getting close."
+    mc "我快要到了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1064
 translate chinese sm1cs_cw005_sauna_menu_c1547a6f:
 
     # cw "We can... ahuah... continue."
-    cw "We can... ahuah... continue."
+    cw "我们可以……啊哈……继续。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1065
 translate chinese sm1cs_cw005_sauna_menu_5c222a72:
 
     # cw "I'm burning up."
-    cw "I'm burning up."
+    cw "我快燃烧起来了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1069
 translate chinese sm1cs_cw005_sauna_menu_d2a5d6f6:
 
     # cw "What else should we try?"
-    cw "What else should we try?"
+    cw "我们还应该尝试什么？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1072
 translate chinese sm1cs_cw005_sauna_menu_b25c87cd:
 
     # mct "Don't say anal. Don't say anal."
-    mct "Don't say anal. Don't say anal."
+    mct "别说肛交。别说肛交。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1074
 translate chinese sm1cs_cw005_sauna_menu_ab591ad8:
 
     # mc "What about your butt?"
-    mc "What about your butt?"
+    mc "那你的屁股呢？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1076
 translate chinese sm1cs_cw005_sauna_menu_15cad887:
 
     # cw "What?"
-    cw "What?"
+    cw "什么？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1077
 translate chinese sm1cs_cw005_sauna_menu_a71f2003:
 
     # mc "Using your butt.{w} Your butt.{w} I like it a lot."
-    mc "Using your butt.{w} Your butt.{w} I like it a lot."
+    mc "用你的屁股。{w}你的屁股。{w}我很喜欢它。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1080
 translate chinese sm1cs_cw005_sauna_menu_1f28d6f7_3:
@@ -2018,181 +2018,181 @@ translate chinese sm1cs_cw005_sauna_menu_1f28d6f7_3:
 translate chinese sm1cs_cw005_sauna_menu_caaf8c84:
 
     # mc "I mean, I'll use your butt to squeeze my cock."
-    mc "I mean, I'll use your butt to squeeze my cock."
+    mc "我的意思是，我会用你的屁股夹我的鸡巴。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1087
 translate chinese sm1cs_cw005_sauna_menu_000ca098:
 
     # cw "Yes...{w} We can do that."
-    cw "Yes...{w} We can do that."
+    cw "是的……{w}我们可以那样做。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1094
 translate chinese sm1cs_cw005_sauna_menu_b8f1b200:
 
     # mct "Now this is podracing."
-    mct "Now this is podracing."
+    mct "这才叫刺激。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1095
 translate chinese sm1cs_cw005_sauna_menu_f9c6a1cf:
 
     # mct "Fuck me. I gotta enjoy every moment of this."
-    mct "Fuck me. I gotta enjoy every moment of this."
+    mct "我靠。我要享受这每一刻。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1096
 translate chinese sm1cs_cw005_sauna_menu_b7e49c25:
 
     # mct "First, Claire's tits. Now her ass."
-    mct "First, Claire's tits. Now her ass."
+    mct "先是克莱尔的奶子。现在是她的屁股。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1097
 translate chinese sm1cs_cw005_sauna_menu_f5de32d7:
 
     # mct "Tomorrow, the world."
-    mct "Tomorrow, the world."
+    mct "明天，征服世界。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1100
 translate chinese sm1cs_cw005_sauna_menu_867e7fc0:
 
     # cw "*whispers* Don't... raaah... forget why we're here."
-    cw "*whispers* Don't... raaah... forget why we're here."
+    cw "*低语*别……啊啊……忘了我们为什么在这里。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1101
 translate chinese sm1cs_cw005_sauna_menu_52e6df4b:
 
     # mc "*whispers* Shit."
-    mc "*whispers* Shit."
+    mc "*低语*该死。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1102
 translate chinese sm1cs_cw005_sauna_menu_a63c4d2c:
 
     # mc "*whispers* Yeah."
-    mc "*whispers* Yeah."
+    mc "*低语*是的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1105
 translate chinese sm1cs_cw005_sauna_menu_fa818d2e:
 
     # mc "Ahhh. Your ass feels so good, honey."
-    mc "Ahhh. Your ass feels so good, honey."
+    mc "啊啊。你的屁股感觉真好，亲爱的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1106
 translate chinese sm1cs_cw005_sauna_menu_7ff69c0c:
 
     # mc "Thank you for this."
-    mc "Thank you for this."
+    mc "谢谢你给我这个。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1109
 translate chinese sm1cs_cw005_sauna_menu_007cf3ba:
 
     # mc "Is this helping you relax?"
-    mc "Is this helping you relax?"
+    mc "这让你放松了吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1110
 translate chinese sm1cs_cw005_sauna_menu_b6cf284f:
 
     # cw "Yes. Oooh. Ahhh...{w} I love feeling you between my asscheeks."
-    cw "Yes. Oooh. Ahhh...{w} I love feeling you between my asscheeks."
+    cw "是的。哦哦。啊啊……{w}我喜欢感受你在我的屁股缝之间。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1118
 translate chinese sm1cs_cw005_sauna_menu_be03e8e1:
 
     # fw "Oh my..."
-    fw "Oh my..."
+    fw "哦天啊……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1119
 translate chinese sm1cs_cw005_sauna_menu_4c014be8:
 
     # fw "I had no idea my little girl was into anal..."
-    fw "I had no idea my little girl was into anal..."
+    fw "我不知道我的小女儿喜欢肛交……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1124
 translate chinese sm1cs_cw005_sauna_menu_fbc10d62:
 
     # cw "This feels good. Taking care of your needs."
-    cw "This feels good. Taking care of your needs."
+    cw "这感觉很好。照顾你的需求。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1125
 translate chinese sm1cs_cw005_sauna_menu_2ddaaf93:
 
     # cw "I'm going to milk you dry."
-    cw "I'm going to milk you dry."
+    cw "我要把你榨干。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1126
 translate chinese sm1cs_cw005_sauna_menu_7ac197c7:
 
     # cw "Oh. You're getting bigger."
-    cw "Oh. You're getting bigger."
+    cw "哦。你变大了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1129
 translate chinese sm1cs_cw005_sauna_menu_1cba67c3:
 
     # cw "*whispers* Shit you {i}are{/i} getting bigger."
-    cw "*whispers* Shit you {i}are{/i} getting bigger."
+    cw "*低语*该死你{i}真的{/i}在变大。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1130
 translate chinese sm1cs_cw005_sauna_menu_d80b2020:
 
     # mc "*whispers* Yeah. I'm about to cum."
-    mc "*whispers* Yeah. I'm about to cum."
+    mc "*低语*是的。我快要射了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1133
 translate chinese sm1cs_cw005_sauna_menu_e1da3f3b:
 
     # mc "Oh baby. You're making me cum."
-    mc "Oh baby. You're making me cum."
+    mc "哦宝贝。你让我要射了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1134
 translate chinese sm1cs_cw005_sauna_menu_dbf5892b:
 
     # cw "Do it. Spill your semen all over my back."
-    cw "Do it. Spill your semen all over my back."
+    cw "射吧。把你的精液洒满我的背。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1137
 translate chinese sm1cs_cw005_sauna_menu_9cf78497:
 
     # mc "Fuck yeah. Yes!!!"
-    mc "Fuck yeah. Yes!!!"
+    mc "操耶。是的！！！"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1141
 translate chinese sm1cs_cw005_sauna_menu_e4ba68ee:
 
     # mc "*groaning* Fuck."
-    mc "*groaning* Fuck."
+    mc "*呻吟*操。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1145
 translate chinese sm1cs_cw005_sauna_menu_a11f5903:
 
     # cw "Mmm..."
-    cw "Mmm..."
+    cw "嗯嗯……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1148
 translate chinese sm1cs_cw005_sauna_menu_e1bdc62a:
 
     # cw "Ahuwaah... so warm."
-    cw "Ahuwaah... so warm."
+    cw "啊哈哇啊……好温暖。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1152
 translate chinese sm1cs_cw005_sauna_menu_b0324453:
 
     # mc "Mmmm-nrrnn!"
-    mc "Mmmm-nrrnn!"
+    mc "嗯嗯嗯-呜嗯！"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1155
 translate chinese sm1cs_cw005_sauna_menu_8ef29f56:
 
     # cw "Mmm. Good boy."
-    cw "Mmm. Good boy."
+    cw "嗯嗯。好孩子。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1156
 translate chinese sm1cs_cw005_sauna_menu_d395d0c0:
 
     # cw "How does it look?"
-    cw "How does it look?"
+    cw "看起来怎么样？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1159
 translate chinese sm1cs_cw005_sauna_menu_45f8a388:
 
     # mc "I wish I had a camera."
-    mc "I wish I had a camera."
+    mc "我希望我有相机。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1162
 translate chinese sm1cs_cw005_sauna_menu_4412aa84:
@@ -2204,19 +2204,19 @@ translate chinese sm1cs_cw005_sauna_menu_4412aa84:
 translate chinese sm1cs_cw005_sauna_menu_c543eb33:
 
     # cw "Hmmmph."
-    cw "Hmmmph."
+    cw "嗯嗯哼。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1167
 translate chinese sm1cs_cw005_sauna_menu_e514610a:
 
     # cw "Well, I'm glad you enjoyed yourself."
-    cw "Well, I'm glad you enjoyed yourself."
+    cw "嗯，我很高兴你玩得开心。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1168
 translate chinese sm1cs_cw005_sauna_menu_d8102a98:
 
     # cw "I think we can finally come out now."
-    cw "I think we can finally come out now."
+    cw "我想我们现在终于可以出去了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1170
 translate chinese sm1cs_cw005_sauna_menu_86232b2b:
@@ -2228,37 +2228,37 @@ translate chinese sm1cs_cw005_sauna_menu_86232b2b:
 translate chinese sm1cs_cw005_sauna_menu_221e1947:
 
     # mc "If you'd like."
-    mc "If you'd like."
+    mc "如果你愿意的话。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1174
 translate chinese sm1cs_cw005_sauna_menu_86dac258:
 
     # cw "Um...{w} No.{w} I mean there is no 'need' for that, [mcname]."
-    cw "Um...{w} No.{w} I mean there is no 'need' for that, [mcname]."
+    cw "嗯……{w}不用了。{w}我的意思是没有那个"需要"，[mcname]。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1177
 translate chinese sm1cs_cw005_sauna_menu_5b633805:
 
     # cw "Just towel up and walk to the bedroom."
-    cw "Just towel up and walk to the bedroom."
+    cw "披上浴巾走到卧室。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1178
 translate chinese sm1cs_cw005_sauna_menu_a4612e60:
 
     # cw "I'll catch up."
-    cw "I'll catch up."
+    cw "我会跟上的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1182
 translate chinese sm1cs_cw005_sauna_menu_a49ed4f8_1:
 
     # mc "Okay."
-    mc "Okay."
+    mc "好的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1192
 translate chinese sm1cs_cw005_sauna_menu_45aca507:
 
     # cw "*sucking*"
-    cw "*sucking*"
+    cw "*吮吸*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1193
 translate chinese sm1cs_cw005_sauna_menu_91d2d9f3_1:
@@ -2270,169 +2270,169 @@ translate chinese sm1cs_cw005_sauna_menu_91d2d9f3_1:
 translate chinese sm1cs_cw005_sauna_menu_a2d71df2:
 
     # cw "*satisfied growl*"
-    cw "*satisfied growl*"
+    cw "*满足的咕噜声*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1197
 translate chinese sm1cs_cw005_sauna_menu_adae59f3:
 
     # cw "Careful Claire..."
-    cw "Careful Claire..."
+    cw "小心点克莱尔……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1198
 translate chinese sm1cs_cw005_sauna_menu_2cadbc58:
 
     # cw "Remember what happened last time."
-    cw "Remember what happened last time."
+    cw "记住上次发生的事。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1225
 translate chinese sm1cs_cw005_sauna_menu_335d0d34:
 
     # cw "Obviously, you must not breathe a word of any of this to your colleagues or friends."
-    cw "Obviously, you must not breathe a word of any of this to your colleagues or friends."
+    cw "显然，你不能向你的同事或朋友透露这件事的任何一个字。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1226
 translate chinese sm1cs_cw005_sauna_menu_4093dc83:
 
     # cw "Or anyone for that matter."
-    cw "Or anyone for that matter."
+    cw "或者任何人。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1229
 translate chinese sm1cs_cw005_sauna_menu_a2835104:
 
     # mc "Hey, come on."
-    mc "Hey, come on."
+    mc "嘿，别这样。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1230
 translate chinese sm1cs_cw005_sauna_menu_7ae3a288:
 
     # mc "What happens on the yacht, stays on the yacht."
-    mc "What happens on the yacht, stays on the yacht."
+    mc "游艇上发生的事，就留在游艇上。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1233
 translate chinese sm1cs_cw005_sauna_menu_f7d5e634:
 
     # cw "I'm expecting you to stay true to that, [mcname]."
-    cw "I'm expecting you to stay true to that, [mcname]."
+    cw "我期待你遵守这一点，[mcname]。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1234
 translate chinese sm1cs_cw005_sauna_menu_162ff8e1:
 
     # cw "I'm putting a lot of trust in you."
-    cw "I'm putting a lot of trust in you."
+    cw "我对你寄予了很大的信任。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1241
 translate chinese sm1cs_cw005_sauna_menu_ddfbb216:
 
     # cw "Ahem."
-    cw "Ahem."
+    cw "咳咳。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1243
 translate chinese sm1cs_cw005_sauna_menu_8ab0eecc:
 
     # cw "'Thank you' hardly seems like enough for everything you did over the weekend, Mr. Young."
-    cw "'Thank you' hardly seems like enough for everything you did over the weekend, Mr. Young."
+    cw ""谢谢"似乎不足以表达你整个周末所做的一切，杨先生。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1244
 translate chinese sm1cs_cw005_sauna_menu_9679993c:
 
     # cw "I hope you enjoyed yourself."
-    cw "I hope you enjoyed yourself."
+    cw "我希望你玩得开心。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1250
 translate chinese sm1cs_cw005_sauna_menu_ea94f649:
 
     # mc "I've been through worse, Ms. Watts."
-    mc "I've been through worse, Ms. Watts."
+    mc "我经历过更糟的，沃茨女士。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1253
 translate chinese sm1cs_cw005_sauna_menu_b5738065:
 
     # mc "But I am glad I could help you out."
-    mc "But I am glad I could help you out."
+    mc "但我很高兴能帮到你。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1256
 translate chinese sm1cs_cw005_sauna_menu_6f4df2eb:
 
     # cw "Yes. And hopefully you won't have to do another favor like this for me anytime soon."
-    cw "Yes. And hopefully you won't have to do another favor like this for me anytime soon."
+    cw "是的。希望你不用在短时间内再为我做这样的事情。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1258
 translate chinese sm1cs_cw005_sauna_menu_4661a639:
 
     # mc "Mmhmm."
-    mc "Mmhmm."
+    mc "嗯哼。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1264
 translate chinese sm1cs_cw005_sauna_menu_606dcd66:
 
     # mc "It was actually a lot of fun, Ms. Watts."
-    mc "It was actually a lot of fun, Ms. Watts."
+    mc "其实很有趣，沃茨女士。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1265
 translate chinese sm1cs_cw005_sauna_menu_596a43ed:
 
     # mc "I would even do it again."
-    mc "I would even do it again."
+    mc "我甚至愿意再做一次。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1266
 translate chinese sm1cs_cw005_sauna_menu_53a81cc8:
 
     # mc "If you asked me."
-    mc "If you asked me."
+    mc "如果你要我的话。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1269
 translate chinese sm1cs_cw005_sauna_menu_b15afab5:
 
     # cw "Hah. I'm sure you would."
-    cw "Hah. I'm sure you would."
+    cw "哈。我相信你会的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1273
 translate chinese sm1cs_cw005_sauna_menu_17490420:
 
     # cw "Well, I need to do some errands before going home."
-    cw "Well, I need to do some errands before going home."
+    cw "嗯，我回家之前需要办些事。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1274
 translate chinese sm1cs_cw005_sauna_menu_906d1c9b:
 
     # cw "You can manage on your own?"
-    cw "You can manage on your own?"
+    cw "你能自己搞定吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1278
 translate chinese sm1cs_cw005_sauna_menu_dfdb55db:
 
     # mc "I'm sure I'll figure it out."
-    mc "I'm sure I'll figure it out."
+    mc "我相信我会搞定的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1281
 translate chinese sm1cs_cw005_sauna_menu_21f498cf:
 
     # cw "Good.{w} Well.{w} I will see you at the office."
-    cw "Good.{w} Well.{w} I will see you at the office."
+    cw "好的。{w}那么。{w}我会在办公室见你。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1282
 translate chinese sm1cs_cw005_sauna_menu_854a3b66:
 
     # cw "Unless..."
-    cw "Unless..."
+    cw "除非……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1285
 translate chinese sm1cs_cw005_sauna_menu_9c217256:
 
     # cw "... There was anything else..."
-    cw "... There was anything else..."
+    cw "……还有什么其他的事……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1288
 translate chinese sm1cs_cw005_sauna_menu_6a124d73:
 
     # mc "What else would there be?"
-    mc "What else would there be?"
+    mc "还会有什么别的事？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1290
 translate chinese sm1cs_cw005_sauna_menu_b58e812e:
 
     # cw "You're right."
-    cw "You're right."
+    cw "你说得对。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1291
 translate chinese sm1cs_cw005_sauna_menu_2b35b6fe:
@@ -2444,49 +2444,49 @@ translate chinese sm1cs_cw005_sauna_menu_2b35b6fe:
 translate chinese sm1cs_cw005_sauna_menu_59a2d96f:
 
     # mct "Huh? Is she waiting for something?"
-    mct "Huh? Is she waiting for something?"
+    mct "嗯？她在等什么吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1300
 translate chinese sm1cs_cw005_sauna_menu_3e5a4a13:
 
     # cw "Mmhmm."
-    cw "Mmhmm."
+    cw "嗯哼。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1303
 translate chinese sm1cs_cw005_sauna_menu_df9591cc:
 
     # cw "Hmmm."
-    cw "Hmmm."
+    cw "嗯嗯。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1306
 translate chinese sm1cs_cw005_sauna_menu_2051b15b:
 
     # cw "I'll see you at the office, Mr. Young."
-    cw "I'll see you at the office, Mr. Young."
+    cw "我会在办公室见你，杨先生。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1313
 translate chinese sm1cs_cw005_sauna_menu_80536a9c:
 
     # mct "Claire just kissed me."
-    mct "Claire just kissed me."
+    mct "克莱尔刚刚吻了我。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1314
 translate chinese sm1cs_cw005_sauna_menu_7ccaa85a:
 
     # mct "What was that for?"
-    mct "What was that for?"
+    mct "那是为什么？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1315
 translate chinese sm1cs_cw005_sauna_menu_aaf34c56:
 
     # mct "Ah, maybe her parents are coming along."
-    mct "Ah, maybe her parents are coming along."
+    mct "啊，也许她父母要过来了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1318
 translate chinese sm1cs_cw005_sauna_menu_6907467e:
 
     # mct "Huh."
-    mct "Huh."
+    mct "嗯。"
 
 translate chinese strings:
 
@@ -2550,35 +2550,35 @@ translate chinese strings:
 translate chinese sm1cs_cw005_pushy_menu_0c1cb963:
 
     # cw "Well, get moving, Mr. Bird."
-    cw "Well, get moving, Mr. Bird."
+    cw "好了，动起来吧，鸟儿先生。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:189
 translate chinese sm1cs_cw005_pushy_menu_f35fb8a3:
 
     # cw "Well...{w} I'm sure you'll change your tune once we're riding the waves on-"
-    cw "Well...{w} I'm sure you'll change your tune once we're riding the waves on-"
+    cw "嗯……{w}我相信等我们骑着浪时你就会改变想法——"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:398
 translate chinese sm1cs_cw005_food_e81143ee:
 
     # cw "I know, Daddy."
-    cw "I know, Daddy."
+    cw "我知道，爸爸。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:498
 translate chinese sm1cs_cw005_food_67b1590d:
 
     # fw "*titters*"
-    fw "*titters*"
+    fw "*窃笑*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:672
 translate chinese sm1cs_cw005_sauna_menu_e46d3ab2:
 
     # mct "Woah. I think this is the first time I've seen Claire really laugh."
-    mct "Woah. I think this is the first time I've seen Claire really laugh."
+    mct "哇哦。我想这是我第一次看到克莱尔真正大笑。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:927
 translate chinese sm1cs_cw005_sauna_menu_ecd30e39:
 
     # cw "Never mind. You have the situation well in hand."
-    cw "Never mind. You have the situation well in hand."
+    cw "算了。你已经掌控好局面了。"
 
