@@ -1795,22 +1795,21 @@ translate chinese sm1cs_vs005_continue_a297c2d2:
 translate chinese strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:61
-    old "在维罗妮卡的宿舍"
+    old "At Veronica's dorm"
     new "在维罗妮卡的宿舍"
 
     # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:668
-    old "和维罗妮卡的特别69"
+    old "Special 69 with Veronica"
     new "和维罗妮卡的特别69"
 
     # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:668
-    old "操维罗妮卡的小穴"
+    old "Fuck Veronica's pussy"
     new "操维罗妮卡的小穴"
 
     # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:668
-    old "操维罗妮卡的屁股"
+    old "Fuck Veronica in the ass"
     new "操维罗妮卡的屁股"
 
     # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:668
-    old "尽可能深地操维罗妮卡的屁股"
+    old "Fuck Veronica's ass as deep as you can"
     new "尽可能深地操维罗妮卡的屁股"
-
