@@ -854,67 +854,67 @@ translate chinese sm1cs_km006_ask_vs_debd4bc9:
 translate chinese sm1cs_km006_ask_vs_fe38e686:
 
     # km "Sorry.{w} Guess I've always been a little curious too."
-    km "Sorry.{w} Guess I've always been a little curious too."
+    km "抱歉。{w} 我想我也一直有点好奇。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:528
 translate chinese sm1cs_km006_ask_vs_fd6e4a62:
 
     # vs "I like when you get bossy, Kellie.{w} I've always been one to poke my friends a little."
-    vs "I like when you get bossy, Kellie.{w} I've always been one to poke my friends a little."
+    vs "我喜欢你强势的样子，凯莉。{w} 我一直喜欢稍微逗逗我的朋友。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:529
 translate chinese sm1cs_km006_ask_vs_fa22f179:
 
     # vs "Well.{w} Fair is fair."
-    vs "Well.{w} Fair is fair."
+    vs "好吧。{w} 公平就是公平。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:532
 translate chinese sm1cs_km006_ask_vs_e8cccf42:
 
     # vs "So, the reason that I dye my hair..."
-    vs "So, the reason that I dye my hair..."
+    vs "所以，我染头发的原因..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:533
 translate chinese sm1cs_km006_ask_vs_9adca434:
 
     # vs "Is...{w} ..."
-    vs "Is...{w} ..."
+    vs "是...{w} ..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:536
 translate chinese sm1cs_km006_ask_vs_ddb905e7:
 
     # vs "*gulps*"
-    vs "*gulps*"
+    vs "*吞咽*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:539
 translate chinese sm1cs_km006_ask_vs_b8de06d3:
 
     # mc "Oh."
-    mc "Oh."
+    mc "哦。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:541
 translate chinese sm1cs_km006_ask_vs_30475e98:
 
     # km "Wait. She can do that?"
-    km "Wait. She can do that?"
+    km "等等。她可以这样做吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:542
 translate chinese sm1cs_km006_ask_vs_a0a6cc35:
 
     # mc "Yup. Part of the rules."
-    mc "Yup. Part of the rules."
+    mc "是的。规则的一部分。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:545
 translate chinese sm1cs_km006_ask_vs_967f20fb:
 
     # km "Hmmmph. I guess I'll have to just remember to ask you about it later."
-    km "Hmmmph. I guess I'll have to just remember to ask you about it later."
+    km "哼。我想我以后得记得再问你这件事。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:548
 translate chinese sm1cs_km006_ask_vs_696f5585:
 
     # vs "Haha.{w} Good luck with that, Kellie."
-    vs "Haha.{w} Good luck with that, Kellie."
+    vs "哈哈。{w} 祝你好运，凯莉。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:554
 translate chinese sm1cs_km006_ask_km_e526a903:
@@ -926,19 +926,19 @@ translate chinese sm1cs_km006_ask_km_e526a903:
 translate chinese sm1cs_km006_ask_km_c3a75f7a:
 
     # mc "I dare you to kiss Veronica."
-    mc "I dare you to kiss Veronica."
+    mc "我挑战你亲吻维罗妮卡。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:562
 translate chinese sm1cs_km006_ask_km_0e9d0df9:
 
     # km "What? I should have known you just wanted to do something perverted."
-    km "What? I should have known you just wanted to do something perverted."
+    km "什么？我早该知道你只是想做些下流的事。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:563
 translate chinese sm1cs_km006_ask_km_5a206288:
 
     # mc "I thought it was something you wanted to do, and maybe just needed some extra motivation."
-    mc "I thought it was something you wanted to do, and maybe just needed some extra motivation."
+    mc "我以为这是你想做的事，也许只是需要一些额外的动力。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:565
 translate chinese sm1cs_km006_ask_km_debd4bc9:
@@ -950,55 +950,55 @@ translate chinese sm1cs_km006_ask_km_debd4bc9:
 translate chinese sm1cs_km006_ask_km_9daec6aa:
 
     # vs "Mmmm."
-    vs "Mmmm."
+    vs "嗯。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:570
 translate chinese sm1cs_km006_ask_km_1b823cf1:
 
     # km "I... It's..."
-    km "I... It's..."
+    km "我...这是..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:571
 translate chinese sm1cs_km006_ask_km_b236f0be:
 
     # vs "It's just a game, Kellie.{w} Nothing serious."
-    vs "It's just a game, Kellie.{w} Nothing serious."
+    vs "这只是个游戏，凯莉。{w} 没什么大不了的。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:574
 translate chinese sm1cs_km006_ask_km_be1cfb64:
 
     # km "Um..."
-    km "Um..."
+    km "嗯..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:578
 translate chinese sm1cs_km006_ask_km_31bbd47c:
 
     # vs "Ah... *giggles*"
-    vs "Ah... *giggles*"
+    vs "啊...*咯咯笑*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:581
 translate chinese sm1cs_km006_ask_km_c43a9333:
 
     # km "I'm going to get you back for that."
-    km "I'm going to get you back for that."
+    km "我会让你付出代价的。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:583
 translate chinese sm1cs_km006_ask_km_7dae0666:
 
     # mc "I'm waiting."
-    mc "I'm waiting."
+    mc "我等着呢。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:588
 translate chinese sm1cs_km006_ask_km_29a49193:
 
     # mc "I dare you to tell Veronica how you feel."
-    mc "I dare you to tell Veronica how you feel."
+    mc "我挑战你告诉维罗妮卡你的感觉。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:591
 translate chinese sm1cs_km006_ask_km_c9835744:
 
     # vs "Ooooh."
-    vs "Ooooh."
+    vs "哦哦哦。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:592
 translate chinese sm1cs_km006_ask_km_debd4bc9_1:
@@ -1010,61 +1010,61 @@ translate chinese sm1cs_km006_ask_km_debd4bc9_1:
 translate chinese sm1cs_km006_ask_km_074d71c8:
 
     # km "I don't think I'm ready for that."
-    km "I don't think I'm ready for that."
+    km "我觉得我还没准备好。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:596
 translate chinese sm1cs_km006_ask_km_04dc24a0:
 
     # km "Yet..."
-    km "Yet..."
+    km "还没..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:601
 translate chinese sm1cs_km006_ask_km_02a9dd03:
 
     # km "*gulp*"
-    km "*gulp*"
+    km "*吞咽*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:605
 translate chinese sm1cs_km006_ask_km_94edb18a:
 
     # km "My turn."
-    km "My turn."
+    km "轮到我了。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:630
 translate chinese sm1cs_km006_after_td_68dd06c4:
 
     # vs "Alright. Now it's my turn again."
-    vs "Alright. Now it's my turn again."
+    vs "好吧。现在又轮到我了。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:633
 translate chinese sm1cs_km006_after_td_4fbfa4bc:
 
     # vs "Kellie, truth or dare."
-    vs "Kellie, truth or dare."
+    vs "凯莉，真心话还是大冒险。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:635
 translate chinese sm1cs_km006_after_td_cf95e1ae:
 
     # km "Okay. Um... Truth."
-    km "Okay. Um... Truth."
+    km "好的。嗯...真心话。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:638
 translate chinese sm1cs_km006_after_td_ed2389c5:
 
     # vs "Truth...{w} Hmmm."
-    vs "Truth...{w} Hmmm."
+    vs "真心话...{w} 嗯。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:639
 translate chinese sm1cs_km006_after_td_7bf9d8a9:
 
     # vs "I know.{w} How did [mcname] figure out you had a crush on me?"
-    vs "I know.{w} How did [mcname] figure out you had a crush on me?"
+    vs "我知道了。{w} [mcname]是怎么发现你暗恋我的？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:642
 translate chinese sm1cs_km006_after_td_ea585890:
 
     # km "I...{w} I told him that I'd been liking all your posts on Gram."
-    km "I...{w} I told him that I'd been liking all your posts on Gram."
+    km "我...{w} 我告诉他我一直在Gram上给你所有的帖子点赞。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:645
 translate chinese sm1cs_km006_after_td_c9835744:
@@ -1076,133 +1076,133 @@ translate chinese sm1cs_km006_after_td_c9835744:
 translate chinese sm1cs_km006_after_td_81bfc13b:
 
     # vs "Do you really like them?"
-    vs "Do you really like them?"
+    vs "你真的喜欢它们吗？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:649
 translate chinese sm1cs_km006_after_td_2ba5a58d:
 
     # km "I... I didn't mean to, Veronica."
-    km "I... I didn't mean to, Veronica."
+    km "我...我不是故意的，维罗妮卡。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:650
 translate chinese sm1cs_km006_after_td_79560f88:
 
     # km "I was trying to get mad at you."
-    km "I was trying to get mad at you."
+    km "我是想对你生气的。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:653
 translate chinese sm1cs_km006_after_td_409cb158:
 
     # km "And then everything went sideways.{w} I even hooked up with [mcname] to try to convince him I'm not into you."
-    km "And then everything went sideways.{w} I even hooked up with [mcname] to try to convince him I'm not into you."
+    km "然后一切都搞砸了。{w} 我甚至和[mcname]搞上了，想要说服他我对你没意思。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:656
 translate chinese sm1cs_km006_after_td_361cd724:
 
     # vs "You had sex with [mcname]?"
-    vs "You had sex with [mcname]?"
+    vs "你和[mcname]做爱了？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:657
 translate chinese sm1cs_km006_after_td_39d7873b:
 
     # vs "Oh my god. *giggles*"
-    vs "Oh my god. *giggles*"
+    vs "天哪。*咯咯笑*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:660
 translate chinese sm1cs_km006_after_td_dee7bd6e:
 
     # mc "*chuckling* Kellie...{w} I didn't think we were going to open up that can of worms."
-    mc "*chuckling* Kellie...{w} I didn't think we were going to open up that can of worms."
+    mc "*轻笑* 凯莉...{w} 我没想到我们会打开这个话匣子。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:663
 translate chinese sm1cs_km006_after_td_6323ca55:
 
     # km "Oh. Uhm..."
-    km "Oh. Uhm..."
+    km "哦。呃..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:666
 translate chinese sm1cs_km006_after_td_bdb31c6a:
 
     # vs "Go back."
-    vs "Go back."
+    vs "回到刚才的话题。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:667
 translate chinese sm1cs_km006_after_td_51fb848b:
 
     # vs "I know you didn't care for me for a while, but now you're saying that you like, [mcname]?"
-    vs "I know you didn't care for me for a while, but now you're saying that you like, [mcname]?"
+    vs "我知道你有一段时间不喜欢我，但现在你是说你喜欢[mcname]？"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:670
 translate chinese sm1cs_km006_after_td_a4c718df:
 
     # km "What?{w} No.{w} Yes.{w} I mean...{w} I like you."
-    km "What?{w} No.{w} Yes.{w} I mean...{w} I like you."
+    km "什么？{w} 不。{w} 是的。{w} 我的意思是...{w} 我喜欢你。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:671
 translate chinese sm1cs_km006_after_td_eb21c607:
 
     # km "[mcname] is just [mcname]."
-    km "[mcname] is just [mcname]."
+    km "[mcname]就只是[mcname]而已。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:672
 translate chinese sm1cs_km006_after_td_026c7681:
 
     # mc "Ouch."
-    mc "Ouch."
+    mc "哎呦。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:675
 translate chinese sm1cs_km006_after_td_eb2fcb75:
 
     # km "And the truth is we didn't have sex."
-    km "And the truth is we didn't have sex."
+    km "事实是我们没有做爱。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:676
 translate chinese sm1cs_km006_after_td_1b66ca5e:
 
     # km "I just... gave him a handjob."
-    km "I just... gave him a handjob."
+    km "我只是...给他打了个手枪。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:679
 translate chinese sm1cs_km006_after_td_e1c81c58:
 
     # km "And a boobjob."
-    km "And a boobjob."
+    km "还有乳交。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:681
 translate chinese sm1cs_km006_after_td_af88c117:
 
     # vs "Oh woah. You really are kinky."
-    vs "Oh woah. You really are kinky."
+    vs "哦哇。你真的很变态。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:685
 translate chinese sm1cs_km006_after_td_c657d915:
 
     # km "I'm not.{w} I mean."
-    km "I'm not.{w} I mean."
+    km "我不是。{w} 我是说。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:686
 translate chinese sm1cs_km006_after_td_3e54b2e8:
 
     # km "Maybe I am."
-    km "Maybe I am."
+    km "也许我是。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:687
 translate chinese sm1cs_km006_after_td_40f8621e:
 
     # km "All the relationships I've had...{w} they never went anywhere."
-    km "All the relationships I've had...{w} they never went anywhere."
+    km "我所有的恋爱关系...{w} 都没有任何结果。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:690
 translate chinese sm1cs_km006_after_td_8bdd6050:
 
     # km "I don't think I ever tried anything that you two would say is kinky."
-    km "I don't think I ever tried anything that you two would say is kinky."
+    km "我想我从来没有尝试过你们俩会说是变态的任何事情。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:691
 translate chinese sm1cs_km006_after_td_b09bee96:
 
     # km "I guess...{w} I kind of became super focused on doing well on the stage."
-    km "I guess...{w} I kind of became super focused on doing well on the stage."
+    km "我想...{w} 我有点过于专注于在舞台上表现出色了。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:694
 translate chinese sm1cs_km006_after_td_5500d49e:
