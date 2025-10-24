@@ -26,7 +26,7 @@ translate deutsch sm1ms001_04740383:
 translate deutsch sm1ms001_d3829494:
 
     # hr "While the mastermind behind it is safely behind bars, we can only speculate at the traumatic experiences of the victims and how they may be coping."
-    hr "Während der Drahtzieher hinter Gittern sitzt, können wir nur spekulieren, welche traumatischen Erfahrungen die Opfer gemacht haben und wie sie damit umgehen."
+    hr "Während die Drahtzieherin hinter Gittern sitzt, können wir nur spekulieren, welche traumatischen Erfahrungen die Opfer gemacht haben und wie sie damit umgehen."
 
 # game/code/scenes/main_story/sm1ms001.rpy:45
 translate deutsch sm1ms001_c7fbf081:
