@@ -1526,43 +1526,43 @@ translate chinese sm1cs_cw005_sauna_menu_0bae50a6:
 translate chinese sm1cs_cw005_sauna_menu_2a62470d:
 
     # mc "Soon but not too soon."
-    mc "Soon but not too soon."
+    mc "很快但不会太快。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:879
 translate chinese sm1cs_cw005_sauna_menu_37434c85:
 
     # cw "Oh yeah. That's so good."
-    cw "Oh yeah. That's so good."
+    cw "哦耶。太好了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:886
 translate chinese sm1cs_cw005_sauna_menu_dc716157:
 
     # cw "*whispers* Put your back into it, [mcname]."
-    cw "*whispers* Put your back into it, [mcname]."
+    cw "*低语*用力，[mcname]。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:889
 translate chinese sm1cs_cw005_sauna_menu_7c7a1a1f:
 
     # mc "*whispers* I'm doing my best."
-    mc "*whispers* I'm doing my best."
+    mc "*低语*我在尽力了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:890
 translate chinese sm1cs_cw005_sauna_menu_de0503f0:
 
     # mc "*whispers* There is sweat in my eyes."
-    mc "*whispers* There is sweat in my eyes."
+    mc "*低语*汗水进了我的眼睛。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:891
 translate chinese sm1cs_cw005_sauna_menu_29596d93:
 
     # mc "*whispers* And you're so far away I can barely see you."
-    mc "*whispers* And you're so far away I can barely see you."
+    mc "*低语*而且你离得太远我几乎看不见你。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:894
 translate chinese sm1cs_cw005_sauna_menu_329db151:
 
     # cw "*whispers* Why would you need to-"
-    cw "*whispers* Why would you need to-"
+    cw "*低语*你为什么需要——"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:895
 translate chinese sm1cs_cw005_sauna_menu_4b47a85e:
@@ -1574,61 +1574,61 @@ translate chinese sm1cs_cw005_sauna_menu_4b47a85e:
 translate chinese sm1cs_cw005_sauna_menu_45afcbbb:
 
     # cw "Yes, this may help us both out."
-    cw "Yes, this may help us both out."
+    cw "是的，这可能对我们俩都有帮助。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:903
 translate chinese sm1cs_cw005_sauna_menu_3875e32c:
 
     # cw "But mostly you."
-    cw "But mostly you."
+    cw "但主要是你。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:906
 translate chinese sm1cs_cw005_sauna_menu_7884961f:
 
     # mc "It's alright?"
-    mc "It's alright?"
+    mc "可以吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:908
 translate chinese sm1cs_cw005_sauna_menu_64ad3596:
 
     # cw "Yes, of course. Just..."
-    cw "Yes, of course. Just..."
+    cw "是的，当然。只是……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:909
 translate chinese sm1cs_cw005_sauna_menu_580bfd0e:
 
     # cw "Just keep going."
-    cw "Just keep going."
+    cw "继续就好。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:917
 translate chinese sm1cs_cw005_sauna_menu_c2b46986:
 
     # cw "*whispers* Is there anything else I should do?"
-    cw "*whispers* Is there anything else I should do?"
+    cw "*低语*我还需要做什么吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:918
 translate chinese sm1cs_cw005_sauna_menu_04fb0b16:
 
     # mc "*whispers* Uh... I think this is working."
-    mc "*whispers* Uh... I think this is working."
+    mc "*低语*呃……我觉得这样行得通。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:919
 translate chinese sm1cs_cw005_sauna_menu_17d41a3f:
 
     # mc "*whispers* I like...{w} You look hot, Claire."
-    mc "*whispers* I like...{w} You look hot, Claire."
+    mc "*低语*我喜欢……{w}你看起来很性感，克莱尔。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:922
 translate chinese sm1cs_cw005_sauna_menu_8d3be656:
 
     # cw "*whispers* Mmmm. Just don't forget the goal."
-    cw "*whispers* Mmmm. Just don't forget the goal."
+    cw "*低语*嗯嗯。只是别忘了目标。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:923
 translate chinese sm1cs_cw005_sauna_menu_488b8084:
 
     # cw "*whispers* Keep tugging your..."
-    cw "*whispers* Keep tugging your..."
+    cw "*低语*继续撸你的……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:927
 translate chinese sm1cs_cw005_sauna_menu_c1132855:
@@ -1640,7 +1640,7 @@ translate chinese sm1cs_cw005_sauna_menu_c1132855:
 translate chinese sm1cs_cw005_sauna_menu_59e7914f:
 
     # cw "*whispers* Gah. This isn't working."
-    cw "*whispers* Gah. This isn't working."
+    cw "*低语*啊。这不行。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:934
 translate chinese sm1cs_cw005_sauna_menu_fd1a08f7:
@@ -1652,55 +1652,55 @@ translate chinese sm1cs_cw005_sauna_menu_fd1a08f7:
 translate chinese sm1cs_cw005_sauna_menu_05be50e2:
 
     # cw "You found my spot. *shivering moans*"
-    cw "You found my spot. *shivering moans*"
+    cw "你找到我的点了。*颤抖的呻吟*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:936
 translate chinese sm1cs_cw005_sauna_menu_1977c3bd:
 
     # mct "This is getting to just be torture."
-    mct "This is getting to just be torture."
+    mct "这简直就是折磨了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:939
 translate chinese sm1cs_cw005_sauna_menu_ba3e18b6:
 
     # mc "Oh your... pussy feels so good around me."
-    mc "Oh your... pussy feels so good around me."
+    mc "哦，你的……小穴感觉真好。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:940
 translate chinese sm1cs_cw005_sauna_menu_958702ca:
 
     # mc "Yeah, you like that, don't you."
-    mc "Yeah, you like that, don't you."
+    mc "是的，你喜欢这样，对吧。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:943
 translate chinese sm1cs_cw005_sauna_menu_f509d8c9:
 
     # cw "*whispers* You're not cumming."
-    cw "*whispers* You're not cumming."
+    cw "*低语*你没有射。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:944
 translate chinese sm1cs_cw005_sauna_menu_8be1025d:
 
     # mc "*whispers* Well you're not cumming either, Claire."
-    mc "*whispers* Well you're not cumming either, Claire."
+    mc "*低语*嗯，你也没有高潮，克莱尔。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:947
 translate chinese sm1cs_cw005_sauna_menu_7de828ee:
 
     # cw "*whispers* I know. I don't know what's wrong."
-    cw "*whispers* I know. I don't know what's wrong."
+    cw "*低语*我知道。我不知道怎么了。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:948
 translate chinese sm1cs_cw005_sauna_menu_27e2aae6:
 
     # cw "*whispers* But we have to hurry."
-    cw "*whispers* But we have to hurry."
+    cw "*低语*但我们得快点。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:951
 translate chinese sm1cs_cw005_sauna_menu_18e88a61:
 
     # mc "*whispers* I'm trying. I'm not really that turned on."
-    mc "*whispers* I'm trying. I'm not really that turned on."
+    mc "*低语*我在努力。我真的没那么兴奋。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:952
 translate chinese sm1cs_cw005_sauna_menu_1f28d6f7_2:
@@ -1712,49 +1712,49 @@ translate chinese sm1cs_cw005_sauna_menu_1f28d6f7_2:
 translate chinese sm1cs_cw005_sauna_menu_a2b52842:
 
     # mc "*whispers* I mean, are you?"
-    mc "*whispers* I mean, are you?"
+    mc "*低语*我是说，你呢？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:956
 translate chinese sm1cs_cw005_sauna_menu_90d65545:
 
     # cw "*whispers* It is... different than last time."
-    cw "*whispers* It is... different than last time."
+    cw "*低语*这……和上次不一样。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:963
 translate chinese sm1cs_cw005_sauna_menu_2b285027:
 
     # mc "I swear I never have this problem."
-    mc "I swear I never have this problem."
+    mc "我发誓我从来没有这个问题。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:965
 translate chinese sm1cs_cw005_sauna_menu_f1174920:
 
     # cw "Well, we can't stop now."
-    cw "Well, we can't stop now."
+    cw "嗯，我们现在不能停。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:968
 translate chinese sm1cs_cw005_sauna_menu_de6c6197:
 
     # cw "I think I have an idea to make this work."
-    cw "I think I have an idea to make this work."
+    cw "我想我有个办法让这行得通。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:971
 translate chinese sm1cs_cw005_sauna_menu_0b603c91:
 
     # cw "Get on your back..."
-    cw "Get on your back..."
+    cw "躺下……"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:974
 translate chinese sm1cs_cw005_sauna_menu_df789240:
 
     # mct "Zoinks."
-    mct "Zoinks."
+    mct "天啊。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:978
 translate chinese sm1cs_cw005_sauna_menu_908e4e99:
 
     # cw "Mmm. This new position looks like it is having the desired effect."
-    cw "Mmm. This new position looks like it is having the desired effect."
+    cw "嗯。这个新姿势看起来产生了想要的效果。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:981
 translate chinese sm1cs_cw005_sauna_menu_76e6362b:
