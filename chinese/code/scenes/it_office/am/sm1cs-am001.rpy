@@ -770,155 +770,155 @@ translate chinese strings:
 translate chinese sm1cs_am001_471546dd:
 
     # mct "Someone sent me a text."
-    mct "Someone sent me a text."
+    mct "有人给我发了条短信。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:165
 translate chinese sm1cs_am001_ce911891:
 
     # ag "So Megan, I want you to set up our usual 'make a ticket' framework. Once April sets up the foundation, we'll plug it right in."
-    ag "So Megan, I want you to set up our usual 'make a ticket' framework. Once April sets up the foundation, we'll plug it right in."
+    ag "那么梅根，我希望你搭建我们常用的'创建工单'框架。一旦艾普尔搭好基础，我们就把它直接接入进去。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:225
 translate chinese sm1cs_am001_a06ef68b:
 
     # ag "It's called delegation. Now, since there is nothing else, let's get to work."
-    ag "It's called delegation. Now, since there is nothing else, let's get to work."
+    ag "这就叫授权。好了，既然没什么其他的事了，咱们开始干活吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:237
 translate chinese sm1cs_am001_0dc444c9:
 
     # mct "Crap. What is my work? I can't ask Anna. I definitely can't ask April. Data. Data something."
-    mct "Crap. What is my work? I can't ask Anna. I definitely can't ask April. Data. Data something."
+    mct "糟了。我的工作是什么？我不能问安娜。更不能问艾普尔。数据。数据什么的。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:317
 translate chinese sm1cs_am001_after_coding_874a62e0:
 
     # am "Yes, there is a problem!{w} Some Business 101 dropout just fucked my night."
-    am "Yes, there is a problem!{w} Some Business 101 dropout just fucked my night."
+    am "是的，有问题！{w}某个商业基础课都没读完的家伙把我今晚给毁了。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:330
 translate chinese sm1cs_am001_after_coding_4cb4f376:
 
     # mc "Oh. Really. I must have gotten 'em mixed up.{w} Sorry. I'm sure that kind of thing happens all the time."
-    mc "Oh. Really. I must have gotten 'em mixed up.{w} Sorry. I'm sure that kind of thing happens all the time."
+    mc "哦。真的吗。我肯定是把它们搞混了。{w}抱歉。我相信这种事时常发生。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:333
 translate chinese sm1cs_am001_after_coding_8c11687d:
 
     # am "You dense motherfucker.{w} This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
-    am "You dense motherfucker.{w} This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
+    am "你这个愚蠢的混蛋。{w}这是Orbix，全国顶尖的科技公司之一。{w}不是全州，{w}不是全市。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:336
 translate chinese sm1cs_am001_after_coding_1486cb7f:
 
     # am "The country...{w} We don't make simple mistakes here. But we do pay for them."
-    am "The country...{w} We don't make simple mistakes here. But we do pay for them."
+    am "是全国...{w}我们这里不会犯这种低级错误。但我们确实会为此付出代价。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:353
 translate chinese sm1cs_am001_after_coding_bfce7c00:
 
     # am "You want to {i}fix{/i} this?"
-    am "You want to {i}fix{/i} this?"
+    am "你想{i}补救{/i}这个？"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:359
 translate chinese sm1cs_am001_after_coding_b04d1e1f:
 
     # am "Maybe go play in traffic. That {b}might{/b} work."
-    am "Maybe go play in traffic. That {b}might{/b} work."
+    am "也许可以去马路上玩玩。那{b}或许{/b}有用。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:365
 translate chinese sm1cs_am001_after_coding_0b58a2bb:
 
     # am "You're right.{w} You'd probably screw that up too."
-    am "You're right.{w} You'd probably screw that up too."
+    am "你说得对。{w}那你也可能会搞砸。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:374
 translate chinese sm1cs_am001_after_coding_1caa3f0b:
 
     # am "I fix your fuckup.{w} You're lucky I'm nearly done with my own workload."
-    am "I fix your fuckup.{w} You're lucky I'm nearly done with my own workload."
+    am "我来收拾你的烂摊子。{w}你很幸运，我自己的工作快做完了。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:384
 translate chinese sm1cs_am001_after_coding_b93d5a6a:
 
     # mc "Right. Desk. Going."
-    mc "Right. Desk. Going."
+    mc "好。回座位。这就去。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:416
 translate chinese sm1cs_am001_later_781093dd:
 
     # am "Smooth..."
-    am "Smooth..."
+    am "真顺溜..."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:442
 translate chinese sm1cs_am001_later_4ad6c608:
 
     # am "Huh?{w} Now where did the idiot go?"
-    am "Huh?{w} Now where did the idiot go?"
+    am "嗯？{w}那个白痴去哪儿了？"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:481
 translate chinese sm1cs_am001_later_1308190d:
 
     # am "You got {b}one{/b} thing right tonight."
-    am "You got {b}one{/b} thing right tonight."
+    am "今晚你{b}有一件{/b}事做对了。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:487
 translate chinese sm1cs_am001_later_3f313c84:
 
     # am "I was too busy to fink on you.{w} Maybe next time."
-    am "I was too busy to fink on you.{w} Maybe next time."
+    am "我太忙了，没时间告发你。{w}也许下次吧。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:488
 translate chinese sm1cs_am001_later_8efd7670:
 
     # am "But don't count on me covering for you in the future, [mcname]."
-    am "But don't count on me covering for you in the future, [mcname]."
+    am "但别指望我以后会替你打掩护，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:494
 translate chinese sm1cs_am001_later_157c0fbe:
 
     # am "I'm dead serious. We have a job to do, [mcname]."
-    am "I'm dead serious. We have a job to do, [mcname]."
+    am "我是认真的。我们有工作要做，[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:495
 translate chinese sm1cs_am001_later_31e538bb:
 
     # am "This isn't a class you can blow off.{w} Sometimes it's long hours, and sometimes it just plain sucks."
-    am "This isn't a class you can blow off.{w} Sometimes it's long hours, and sometimes it just plain sucks."
+    am "这可不是你能翘掉的课。{w}有时候得加长时间的班，有时候简直糟透了。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:498
 translate chinese sm1cs_am001_later_4ef8886f:
 
     # am "But if you're here, and especially if you're working with {b}me{/b}, I need your A game."
-    am "But if you're here, and especially if you're working with {b}me{/b}, I need your A game."
+    am "但如果你在这儿，尤其是如果你和{b}我{/b}一起工作，我需要你拿出最好的状态。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:499
 translate chinese sm1cs_am001_later_f6001afc:
 
     # am "Got it?!"
-    am "Got it?!"
+    am "明白了吗？！"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:512
 translate chinese sm1cs_am001_later_152d31ed:
 
     # am "I just texted Anna the good news.{w} Had to rub it in her face that we did it all in one night."
-    am "I just texted Anna the good news.{w} Had to rub it in her face that we did it all in one night."
+    am "我刚给安娜发了好消息。{w}得让她知道我们一晚上就全搞定了。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:524
 translate chinese sm1cs_am001_later_e045fc78:
 
     # am "Night, loser."
-    am "Night, loser."
+    am "晚安，失败者。"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:527
 translate chinese sm1cs_am001_later_11997838:
 
     # mc "Night, April."
-    mc "Night, April."
+    mc "晚安，艾普尔。"
 
 translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am001.rpy:280
     old "No, I just thought you could use a break"
-    new "No, I just thought you could use a break"
+    new "不，我只是觉得你可以休息一下"
 
