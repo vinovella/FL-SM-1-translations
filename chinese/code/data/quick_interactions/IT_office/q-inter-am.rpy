@@ -452,7 +452,7 @@ translate chinese q_inter_am_17_948e9637:
 translate chinese q_inter_am_17_70168ba4:
 
     # mc "I was thinking you looked like you could use some 'stress relief'."
-    mc "我在想你看起来需要一些"减压"。"
+    mc "我在想你看起来需要一些\"减压\"。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:257
 translate chinese q_inter_am_17_6ce3e32d:

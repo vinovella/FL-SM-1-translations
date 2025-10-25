@@ -98,7 +98,7 @@ translate chinese q_inter_nr_10_fff0cb2c:
 translate chinese q_inter_nr_11_6db6dd58:
 
     # nr "My father always said 'Grab life by the sausage.'"
-    nr "我父亲总是说"抓住生活的香肠"。"
+    nr "我父亲总是说\"抓住生活的香肠\"。"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:105
 translate chinese q_inter_nr_12_dbc9ee1a:
