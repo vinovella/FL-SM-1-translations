@@ -350,7 +350,7 @@ translate chinese sm1cs_mh009_0b1558b3:
 translate chinese sm1cs_mh009_290063ca:
 
     # mh "That sounds lovely, [mcname]."
-    mh "That sounds lovely, [mcname]."
+    mh "听起来很不错，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:235
 translate chinese sm1cs_mh009_583f83b6:
@@ -980,7 +980,7 @@ translate chinese sm1cs_mh009_94a7664a:
 translate chinese sm1cs_mh009_290063ca_1:
 
     # mh "That sounds lovely, [mcname]."
-    mh "That sounds lovely, [mcname]."
+    mh "听起来很不错，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:503
 translate chinese sm1cs_mh009_8b8751be:
@@ -1142,133 +1142,133 @@ translate chinese sm1cs_mh009_c4971346:
 translate chinese sm1cs_mh009_635e2099:
 
     # mh "Glllk, gllllk, gllllck!"
-    mh "Glllk, gllllk, gllllck!"
+    mh "咕噜，咕噜噜，咕噜咕噜！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:607
 translate chinese sm1cs_mh009_564f9172:
 
     # mc "Damn, what the hell are you doing with your tongue? That's - intense!"
-    mc "Damn, what the hell are you doing with your tongue? That's - intense!"
+    mc "该死，你的舌头到底在做什么？太——激烈了！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:608
 translate chinese sm1cs_mh009_7b5ec1f6:
 
     # mc "And your lips feel soooo soft..."
-    mc "And your lips feel soooo soft..."
+    mc "而且你的嘴唇感觉好柔软..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:611
 translate chinese sm1cs_mh009_62c1d737:
 
     # mh "Gllk, gllk, gllllck!"
-    mh "Gllk, gllk, gllllck!"
+    mh "咕噜，咕噜，咕噜咕噜！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:612
 translate chinese sm1cs_mh009_c03b93ba:
 
     # mc "And I can already tell that you'd do great on camera - you look incredible."
-    mc "And I can already tell that you'd do great on camera - you look incredible."
+    mc "而且我已经可以看出你在镜头前会表现得很棒——你看起来太棒了。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:616
 translate chinese sm1cs_mh009_16e77c1b:
 
     # mc "Your lips wrapped around my cock... you look like such a good girl."
-    mc "Your lips wrapped around my cock... you look like such a good girl."
+    mc "你的嘴唇裹住我的鸡巴...你看起来真是个好女孩。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:617
 translate chinese sm1cs_mh009_e4db6fa7:
 
     # mc "Mmmm, and I can tell by the way your throat is gobbling me up that you like being called a good girl."
-    mc "Mmmm, and I can tell by the way your throat is gobbling me up that you like being called a good girl."
+    mc "嗯嗯嗯，从你的喉咙吞噬我的方式我可以看出你喜欢被叫做好女孩。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:620
 translate chinese sm1cs_mh009_01cb73dc:
 
     # mc "Do you? Do you like being my good girl, [mhname]?"
-    mc "Do you? Do you like being my good girl, [mhname]?"
+    mc "是吗？你喜欢做我的好女孩吗，[mhname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:621
 translate chinese sm1cs_mh009_08646be6:
 
     # mh "Mmm - glllckkk - hmmmm!"
-    mh "Mmm - glllckkk - hmmmm!"
+    mh "嗯——咕噜咕噜——嗯嗯嗯！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:622
 translate chinese sm1cs_mh009_027e0d86:
 
     # mc "Well if you keep sucking my dick like that, you'll keep being a good girl."
-    mc "Well if you keep sucking my dick like that, you'll keep being a good girl."
+    mc "如果你继续这样吸我的鸡巴，你就会一直是个好女孩。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:625
 translate chinese sm1cs_mh009_87d6a70e:
 
     # mc "Fuuuucking hell, this is great, [mhname]."
-    mc "Fuuuucking hell, this is great, [mhname]."
+    mc "该死的，这太棒了，[mhname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:626
 translate chinese sm1cs_mh009_495a7c51:
 
     # mc "Mmmm, fuck yeaaaaaa."
-    mc "Mmmm, fuck yeaaaaaa."
+    mc "嗯嗯嗯，操，爽啊。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:628
 translate chinese sm1cs_mh009_99adf689:
 
     # mh "Gllllck, glllck, gllck."
-    mh "Gllllck, glllck, gllck."
+    mh "咕噜咕噜，咕噜，咕噜。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:632
 translate chinese sm1cs_mh009_4201106a:
 
     # mc "Wooo - gotta' be careful. If we go on too much longer, I'm going to end up cumming down your throat!"
-    mc "Wooo - gotta' be careful. If we go on too much longer, I'm going to end up cumming down your throat!"
+    mc "哇——得小心点。如果我们继续太久，我会直接射到你喉咙里的！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:634
 translate chinese sm1cs_mh009_61c6b2ae:
 
     # mh "Oh, that wouldn't be so terrible."
-    mh "Oh, that wouldn't be so terrible."
+    mh "哦，那也不会太糟糕。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:637
 translate chinese sm1cs_mh009_b3b5b774:
 
     # mc "It wouldn't, but I do have a few other things I want to try out on camera with you."
-    mc "It wouldn't, but I do have a few other things I want to try out on camera with you."
+    mc "确实不会，但我确实还有一些其他事情想在镜头前和你尝试。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:639
 translate chinese sm1cs_mh009_4fe9d209:
 
     # mh "And what did you have in mind?"
-    mh "And what did you have in mind?"
+    mh "那你心里在想什么？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:640
 translate chinese sm1cs_mh009_ad29a8c4:
 
     # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fuck as well as you suck."
-    mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fuck as well as you suck."
+    mc "嗯，现在我的鸡巴已经润滑得很好了...我很想看看你被操的时候是否和你吸的时候一样棒。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:643
 translate chinese sm1cs_mh009_dadd9e73:
 
     # mh "Oh, I think you will be surprised by how well I can take it."
-    mh "Oh, I think you will be surprised by how well I can take it."
+    mh "哦，我想你会惊讶于我能承受得多好。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:647
 translate chinese sm1cs_mh009_c57c3a25:
 
     # mc "Oh, will I be surprised?"
-    mc "Oh, will I be surprised?"
+    mc "哦，我会惊讶吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:649
 translate chinese sm1cs_mh009_c651eae7_1:
 
     # mh "Uh huh."
-    mh "Uh huh."
+    mh "嗯哼。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:654
 translate chinese sm1cs_mh009_ade9d370:
 
     # mh "But if you don't believe me, come over here and find out for yourself."
-    mh "But if you don't believe me, come over here and find out for yourself."
+    mh "但如果你不相信我，过来自己看看。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:661
 translate chinese sm1cs_mh009_d66bda72:
@@ -1844,55 +1844,55 @@ translate chinese sm1cs_mh009_f373df77:
 translate chinese sm1cs_mh009_f9e53995:
 
     # mh "Oh, [mcname]!"
-    mh "Oh, [mcname]!"
+    mh "哦，[mcname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:883
 translate chinese sm1cs_mh009_eda7324d:
 
     # mh "Oh my..."
-    mh "Oh my..."
+    mh "哦，天哪..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:886
 translate chinese sm1cs_mh009_61202cd7:
 
     # mc "That good?"
-    mc "That good?"
+    mc "那么好？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:889
 translate chinese sm1cs_mh009_32aab2c6:
 
     # mh "God, yes..."
-    mh "God, yes..."
+    mh "天啊，是的..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:890
 translate chinese sm1cs_mh009_4b2ca6fe:
 
     # mh "That was wonderful, [mcname], thank you."
-    mh "That was wonderful, [mcname], thank you."
+    mh "太美妙了，[mcname]，谢谢你。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:891
 translate chinese sm1cs_mh009_dfb75048:
 
     # mh "And thank you for such an... illuminating experience on your interview process."
-    mh "And thank you for such an... illuminating experience on your interview process."
+    mh "还要感谢你让我体验了如此...富有启发性的面试过程。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:895
 translate chinese sm1cs_mh009_be841f7f:
 
     # mc "I will say, they all don't go like this."
-    mc "I will say, they all don't go like this."
+    mc "我得说，它们并不都是这样的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:897
 translate chinese sm1cs_mh009_066658a2:
 
     # mh "I can only assume."
-    mh "I can only assume."
+    mh "我只能这样假设。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:898
 translate chinese sm1cs_mh009_d6eff51b:
 
     # mh "I should probably get cleaned up. I do have a job to get back to."
-    mh "I should probably get cleaned up. I do have a job to get back to."
+    mh "我应该清理一下了。我确实有工作要回去做。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:900
 translate chinese sm1cs_mh009_408b5706:
@@ -2006,55 +2006,55 @@ translate chinese sm1cs_mh009_1_2f28dad7:
 translate chinese sm1cs_mh009_1_f9e53995:
 
     # mh "Oh, [mcname]!"
-    mh "Oh, [mcname]!"
+    mh "哦，[mcname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:976
 translate chinese sm1cs_mh009_1_eda7324d:
 
     # mh "Oh my..."
-    mh "Oh my..."
+    mh "哦，天哪..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:979
 translate chinese sm1cs_mh009_1_61202cd7:
 
     # mc "That good?"
-    mc "That good?"
+    mc "那么好？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:982
 translate chinese sm1cs_mh009_1_32aab2c6:
 
     # mh "God, yes..."
-    mh "God, yes..."
+    mh "天啊，是的..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:983
 translate chinese sm1cs_mh009_1_4b2ca6fe:
 
     # mh "That was wonderful, [mcname], thank you."
-    mh "That was wonderful, [mcname], thank you."
+    mh "太美妙了，[mcname]，谢谢你。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:987
 translate chinese sm1cs_mh009_1_dfb75048:
 
     # mh "And thank you for such an... illuminating experience on your interview process."
-    mh "And thank you for such an... illuminating experience on your interview process."
+    mh "还要感谢你让我体验了如此...富有启发性的面试过程。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:989
 translate chinese sm1cs_mh009_1_be841f7f:
 
     # mc "I will say, they all don't go like this."
-    mc "I will say, they all don't go like this."
+    mc "我得说，它们并不都是这样的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:990
 translate chinese sm1cs_mh009_1_066658a2:
 
     # mh "I can only assume."
-    mh "I can only assume."
+    mh "我只能这样假设。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:991
 translate chinese sm1cs_mh009_1_d6eff51b:
 
     # mh "I should probably get cleaned up. I do have a job to get back to."
-    mh "I should probably get cleaned up. I do have a job to get back to."
+    mh "我应该清理一下了。我确实有工作要回去做。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:993
 translate chinese sm1cs_mh009_1_3c4aeb68:
@@ -2066,25 +2066,25 @@ translate chinese sm1cs_mh009_1_3c4aeb68:
 translate chinese sm1cs_mh009_1_bef30000:
 
     # mh "Probably not. But I can probably go to work filled with cum."
-    mh "Probably not. But I can probably go to work filled with cum."
+    mh "可能不行。但我可能可以装满精液去工作。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1001
 translate chinese sm1cs_mh009_1_b17185a3:
 
     # mct "Holy shit..."
-    mct "Holy shit..."
+    mct "我的天..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1005
 translate chinese sm1cs_mh009_1_cd18ca2f:
 
     # mh "I'll be right back!"
-    mh "I'll be right back!"
+    mh "我马上回来！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1007
 translate chinese sm1cs_mh009_1_a0f18190:
 
     # mc "You know, I hate to watch you go-"
-    mc "You know, I hate to watch you go-"
+    mc "你知道，我讨厌看着你走--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1008
 translate chinese sm1cs_mh009_1_66e99990:
