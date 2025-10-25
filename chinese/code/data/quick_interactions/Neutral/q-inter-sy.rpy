@@ -1,14 +1,14 @@
 ﻿# game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:44
 translate chinese q_inter_sy_1_39a36168:
 
-    # sy "Hey stud. You're looking good for Stacy today."
-    sy "Hey stud. You're looking good for Stacy today."
+    # sy "嘿，帅哥。你今天为史黛西打扮得很帅。"
+    sy "嘿，帅哥。你今天为史黛西打扮得很帅。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:50
 translate chinese q_inter_sy_2_9da606b8:
 
-    # sy "Echo echo echo. Mmm. This place is great."
-    sy "Echo echo echo. Mmm. This place is great."
+    # sy "回声回声回声。嗯。这个地方真棒。"
+    sy "回声回声回声。嗯。这个地方真棒。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:56
 translate chinese q_inter_sy_3_c1c45700:
@@ -19,8 +19,8 @@ translate chinese q_inter_sy_3_c1c45700:
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:62
 translate chinese q_inter_sy_4_823e6606:
 
-    # sy "Well look what the cat dragged in."
-    sy "Well look what the cat dragged in."
+    # sy "嗯，看看猫拖进来了什么。"
+    sy "嗯，看看猫拖进来了什么。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:64
 translate chinese q_inter_sy_4_4525f43e:
@@ -283,8 +283,8 @@ translate chinese q_inter_sy_25_805a201e:
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:239
 translate chinese q_inter_sy_25_c7b75a22:
 
-    # mc "Thanks, Stacy."
-    mc "Thanks, Stacy."
+    # mc "谢谢，史黛西。"
+    mc "谢谢，史黛西。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:245
 translate chinese q_inter_sy_26_d8f39cb8:
