@@ -146,7 +146,7 @@ translate chinese q_inter_my_5_ba130161:
 translate chinese q_inter_my_6_ccfae7cc:
 
     # my "[mcname]! Funny bumping into you here!"
-    my "[mcname]! Funny bumping into you here!"
+    my "[mcname]！在这里碰到你真有趣！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:107
 translate chinese q_inter_my_6_6c8a6f54:
@@ -230,7 +230,7 @@ translate chinese q_inter_my_8_12dd8a00:
 translate chinese q_inter_my_8_6da2a02f:
 
     # mc "*gulp* Tsssssss! Damn, that burns!"
-    mc "*gulp* Tsssssss! Damn, that burns!"
+    mc "*吞咽* 嘶嘶嘶！该死，好辣！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:151
 translate chinese q_inter_my_8_9a180bac:
@@ -272,7 +272,7 @@ translate chinese q_inter_my_9_92b8cda4:
 translate chinese q_inter_my_10_9cd3ef66:
 
     # my "[mcname], I really enjoyed getting dinner with you."
-    my "[mcname], I really enjoyed getting dinner with you."
+    my "[mcname]，我真的很享受和你一起吃晚餐。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:177
 translate chinese q_inter_my_10_f27266f9:

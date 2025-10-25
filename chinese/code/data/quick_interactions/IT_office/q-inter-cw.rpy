@@ -2,7 +2,7 @@
 translate chinese q_inter_cw_1_42ce3580:
 
     # cw "[mcname], how are you settling in?"
-    cw "[mcname], how are you settling in?"
+    cw "[mcname]，你适应得怎么样？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:25
 translate chinese q_inter_cw_1_6d9f70f4:
@@ -62,13 +62,13 @@ translate chinese q_inter_cw_3_1b199792:
 translate chinese q_inter_cw_3_1cb0d01c:
 
     # cw "*Quietly* That's really what's passing for fashion this season?"
-    cw "*Quietly* That's really what's passing for fashion this season?"
+    cw "*小声* 这真的是本季的时尚吗？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:57
 translate chinese q_inter_cw_4_461998a0:
 
     # cw "[mcname], do you like Cuban Russian fusion food?"
-    cw "[mcname], do you like Cuban Russian fusion food?"
+    cw "[mcname]，你喜欢古巴俄罗斯融合菜吗？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:59
 translate chinese q_inter_cw_4_f8ad994a:
@@ -152,7 +152,7 @@ translate chinese q_inter_cw_6_1f94f9a3:
 translate chinese q_inter_cw_7_3b1dcaa8:
 
     # cw "[mcname], how do you think Anna's team is performing?"
-    cw "[mcname], how do you think Anna's team is performing?"
+    cw "[mcname]，你觉得安娜的团队表现如何？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:96
 translate chinese q_inter_cw_7_77843274:
@@ -278,7 +278,7 @@ translate chinese q_inter_cw_10_1f649e89:
 translate chinese q_inter_cw_11_21f87acc:
 
     # mc "*cutesy* Hey Honey. When is our next lunch?"
-    mc "*cutesy* Hey Honey. When is our next lunch?"
+    mc "*撒娇* 嘿亲爱的。我们下次什么时候吃午饭？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:160
 translate chinese q_inter_cw_11_03020337:
