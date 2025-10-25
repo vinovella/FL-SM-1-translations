@@ -740,47 +740,47 @@ translate chinese strings:
 translate chinese sm1cs_ag001_493be2ed:
 
     # mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
-    mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
+    mj "我的团队终于解决了那个让我们头疼不已的分析错误。现在杰登又跟我说，系统容量只有百分之十五的时候，压力测试警报就响了。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:234
 translate chinese sm1cs_ag001_314d6ac2:
 
     # mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
-    mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
+    mct "伊娃·金斯利潜入淫靡的侯爵俱乐部卧底的故事。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:238
 translate chinese sm1cs_ag001_9e2758b7:
 
     # mct "This certainly deserves an Adults Only rating."
-    mct "This certainly deserves an Adults Only rating."
+    mct "这本书绝对值得给一个"仅限成人"的评级。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
 translate chinese sm1cs_ag001_8601bed3:
 
     # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
-    mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
+    mct "基于这一点，我想如果"性趣探测器"没有被关闭的话，安娜可能会对它很感兴趣。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:243
 translate chinese sm1cs_ag001_499c380f:
 
     # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
-    mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
+    mct "我还是不该偷看的。现在我知道她有点特殊癖好，但我总不能走过去跟她说"嘿，我听说你喜欢羞辱题材的色情作品"吧。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:246
 translate chinese sm1cs_ag001_30f8e87b:
 
     # mc "Oh cool, they're making a movie based on the book."
-    mc "Oh cool, they're making a movie based on the book."
+    mc "哦，真酷，他们要根据这本书拍电影了。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:398
 translate chinese sm1cs_ag001_continue_68649b33:
 
     # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
-    ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
+    ag "但她可能是克朗宁最棒的程序员，能有她在团队里是我们的荣幸。尽管她有那些缺点。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
 translate chinese sm1cs_ag001_continue_be0ef968:
 
     # mct "Oh I don't think either of us would mind that, Anna."
-    mct "Oh I don't think either of us would mind that, Anna."
+    mct "哦，我想我们俩都不会介意的，安娜。"
 
