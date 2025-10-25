@@ -518,91 +518,91 @@ translate chinese strings:
 translate chinese sm1cs_am002_e86d99ac:
 
     # mc "Uh... Earth to April."
-    mc "Uh... Earth to April."
+    mc "呃...艾普尔，你在听吗。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:78
 translate chinese sm1cs_am002_39bb3e71:
 
     # mc "Totally fine.{w} Gave my heart a workout."
-    mc "Totally fine.{w} Gave my heart a workout."
+    mc "完全没问题。{w}让我的心脏做了个运动。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:81
 translate chinese sm1cs_am002_9222011b:
 
     # ag "Did she say anything?{w} Did you hear her talking on her phone?"
-    ag "Did she say anything?{w} Did you hear her talking on her phone?"
+    ag "她说什么了吗？{w}你听到她在打电话吗？"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:96
 translate chinese sm1cs_am002_72c66862:
 
     # ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
-    ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
+    ag "哦不。只是嗯...{w}我想确认一下艾普尔没有躲在洗手间用上班时间打私人电话。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:99
 translate chinese sm1cs_am002_d06f9e7a:
 
     # mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
-    mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
+    mc "好吧...也许她在收短信？{w}她看起来超级专注于她的手机。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:106
 translate chinese sm1cs_am002_e2dd0671:
 
     # mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
-    mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
+    mc "哦，真的很好。经过多次尝试，我想我已经找到了最好的方法，能在不让她对我大吼大叫的情况下寻求帮助。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:167
 translate chinese sm1cs_am002_9bab7d01:
 
     # ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
-    ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
+    ag "明天？{w}不行。你应该今天就完成那些中间件的更改。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:185
 translate chinese sm1cs_am002_38cb486e:
 
     # am "Look, it's like I said earlier.{w} It will be ready tomorrow."
-    am "Look, it's like I said earlier.{w} It will be ready tomorrow."
+    am "听着，就像我之前说的。{w}明天就能准备好。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:189
 translate chinese sm1cs_am002_f059d2ec:
 
     # ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
-    ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
+    ag "*叹气* 艾普尔，拜托跟我好好说说吧。{w}这不像你的风格。我是说，这是你的风格，但...即使你总是出言不逊、尖酸刻薄，你也从来没落后这么多过。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:201
 translate chinese sm1cs_am002_371de864:
 
     # am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
-    am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
+    am "你知道中间件有多么难以捉摸。{w}而你这些唠叨让我分心，只会让我更加落后。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:311
 translate chinese sm1cs_am002_cb355b8b:
 
     # ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
-    ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
+    ag "哈哈哈，从来没有。{w}她说那是引起他注意的最快方法，没想到会把他打晕。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:312
 translate chinese sm1cs_am002_a8caa986:
 
     # ag "That was quite the day..."
-    ag "That was quite the day..."
+    ag "那天真是难忘..."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:323
 translate chinese sm1cs_am002_cff053f3:
 
     # ag "Thanks, [mcname]."
-    ag "Thanks, [mcname]."
+    ag "谢谢，[mcname]。"
 
 translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
     old "You should watch where you're going"
-    new "You should watch where you're going"
+    new "你走路应该看着点"
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
     old "She's a fucking menace"
-    new "She's a fucking menace"
+    new "她简直就是个祸害"
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
     old "She seems stressed"
-    new "She seems stressed"
+    new "她看起来压力很大"
 
