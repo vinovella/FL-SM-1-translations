@@ -1778,7 +1778,7 @@ translate chinese sm1cs_am007_one_hour_later_47eec681:
 translate chinese sm1cs_am007_one_hour_later_d1f9307a:
 
     # am "*hungry licking*"
-    am "*hungry licking*"
+    am "*饥渴地舔舐*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:965
 translate chinese sm1cs_am007_one_hour_later_30507156:
@@ -1922,7 +1922,7 @@ translate chinese sm1cs_am007_one_hour_later_9d24ef07:
 translate chinese sm1cs_am007_one_hour_later_094f44bc:
 
     # am "*heavy breathing*"
-    am "*heavy breathing*"
+    am "*沉重的呼吸*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1061
 translate chinese sm1cs_am007_one_hour_later_e2e529bb:
@@ -2000,7 +2000,7 @@ translate chinese sm1cs_am007_one_hour_later_cdd44701:
 translate chinese sm1cs_am007_one_hour_later_efcf743d:
 
     # am "*happy moaning*"
-    am "*happy moaning*"
+    am "*愉悦地呻吟*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1097
 translate chinese sm1cs_am007_one_hour_later_8422de45:
@@ -2510,7 +2510,7 @@ translate chinese sm1cs_am007_one_hour_later_5d8fc6e7:
 translate chinese sm1cs_am007_one_hour_later_bfc6451b:
 
     # am "*happy humming*"
-    am "*happy humming*"
+    am "*愉快地哼唱*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1332
 translate chinese sm1cs_am007_one_hour_later_80ff4ce8:
