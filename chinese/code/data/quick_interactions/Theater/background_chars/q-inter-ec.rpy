@@ -62,7 +62,7 @@ translate chinese q_inter_ec_2_cb67bdd7:
 translate chinese q_inter_ec_3_a9911894:
 
     # ec "Yo, [mcname]."
-    ec "Yo, [mcname]."
+    ec "哟，[mcname]。"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:44
 translate chinese q_inter_ec_3_25b639c2:
@@ -92,7 +92,7 @@ translate chinese q_inter_ec_3_cb53c14f:
 translate chinese q_inter_ec_4_ebd15155:
 
     # ec "Maaaaaaaaaan."
-    ec "Maaaaaaaaaan."
+    ec "天啊啊啊啊啊。"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:56
 translate chinese q_inter_ec_4_27f731a8:
