@@ -1,180 +1,180 @@
 ﻿# game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:22
 translate chinese q_inter_dc_1_f6282497:
 
-    # dc "Keep your eyes peeled for pickpockets. Apparently, there's a little group of them running around the park."
-    dc "Keep your eyes peeled for pickpockets. Apparently, there's a little group of them running around the park."
+    # dc "留意扒手。显然，公园里有一小群扒手在活动。"
+    dc "留意扒手。显然，公园里有一小群扒手在活动。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:28
 translate chinese q_inter_dc_2_60dd8fcf:
 
-    # dc "Ugh, another date cancelled..."
-    dc "Ugh, another date cancelled..."
+    # dc "啊，又一个约会取消了..."
+    dc "啊，又一个约会取消了..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:29
 translate chinese q_inter_dc_2_67a1384d:
 
-    # dc "Oh, uh, another, uhm, court date cancelled. Keep moving."
-    dc "Oh, uh, another, uhm, court date cancelled. Keep moving."
+    # dc "哦，呃，另一个，呃，庭审日期取消了。继续走。"
+    dc "哦，呃，另一个，呃，庭审日期取消了。继续走。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:35
 translate chinese q_inter_dc_3_17f43743:
 
-    # dc "Nothing to see here, move along. Move along."
-    dc "Nothing to see here, move along. Move along."
+    # dc "这里没什么好看的，继续走。继续走。"
+    dc "这里没什么好看的，继续走。继续走。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:41
 translate chinese q_inter_dc_4_36ebfae9:
 
-    # dc "Hey you! You match the description of a flasher in the park. I need to see some identification."
-    dc "Hey you! You match the description of a flasher in the park. I need to see some identification."
+    # dc "嘿，你！你符合公园里暴露狂的描述。我需要看一下你的身份证。"
+    dc "嘿，你！你符合公园里暴露狂的描述。我需要看一下你的身份证。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:43
 translate chinese q_inter_dc_4_bb6939c5:
 
-    # mc "You don't need to see my identification."
-    mc "You don't need to see my identification."
+    # mc "你不需要看我的身份证。"
+    mc "你不需要看我的身份证。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:45
 translate chinese q_inter_dc_4_05e95b29:
 
-    # dc "I... Guess I don't. The guy they described was blonde."
-    dc "I... Guess I don't. The guy they described was blonde."
+    # dc "我...我想我不需要。他们描述的那个人是金发。"
+    dc "我...我想我不需要。他们描述的那个人是金发。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:49
 translate chinese q_inter_dc_4_37549dce:
 
-    # mc "I'll move along then."
-    mc "I'll move along then."
+    # mc "那我就继续走了。"
+    mc "那我就继续走了。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:51
 translate chinese q_inter_dc_4_222df03c:
 
-    # dc "Yep, move along, move along."
-    dc "Yep, move along, move along."
+    # dc "是的，继续走，继续走。"
+    dc "是的，继续走，继续走。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:57
 translate chinese q_inter_dc_5_564e869b:
 
-    # dc "Have you seen that creep at all?"
-    dc "Have you seen that creep at all?"
+    # dc "你见过那个怪人吗？"
+    dc "你见过那个怪人吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:59
 translate chinese q_inter_dc_5_e3a31e7e:
 
-    # mc "I haven't."
-    mc "I haven't."
+    # mc "我没有。"
+    mc "我没有。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:60
 translate chinese q_inter_dc_5_5af90f6f:
 
-    # dc "Damn. Well let me know if you do."
-    dc "Damn. Well let me know if you do."
+    # dc "该死。如果你看到了告诉我。"
+    dc "该死。如果你看到了告诉我。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:68
 translate chinese q_inter_dc_6_05a012e4:
 
-    # dc "Civilian."
-    dc "Civilian."
+    # dc "市民。"
+    dc "市民。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:70
 translate chinese q_inter_dc_6_05c7c631:
 
-    # mc "Officer."
-    mc "Officer."
+    # mc "警官。"
+    mc "警官。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:76
 translate chinese q_inter_dc_7_e5d8fb98:
 
-    # dc "Do I know you from somewhere?"
-    dc "Do I know you from somewhere?"
+    # dc "我认识你吗？"
+    dc "我认识你吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:78
 translate chinese q_inter_dc_7_b826ec1f:
 
-    # mc "I don't think so?"
-    mc "I don't think so?"
+    # mc "我不这么认为？"
+    mc "我不这么认为？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:82
 translate chinese q_inter_dc_7_577c3d82:
 
-    # dc "I swear you look so familiar..."
-    dc "I swear you look so familiar..."
+    # dc "我发誓你看起来很眼熟..."
+    dc "我发誓你看起来很眼熟..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:88
 translate chinese q_inter_dc_8_da26f9ac:
 
-    # mc "Hey, Debbie-"
-    mc "Hey, Debbie-"
+    # mc "嘿，黛比——"
+    mc "嘿，黛比——"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:90
 translate chinese q_inter_dc_8_5c18bd64:
 
-    # dc "I, uhm, can't talk right now. I'm needed back at the station."
-    dc "I, uhm, can't talk right now. I'm needed back at the station."
+    # dc "我，呃，现在不能说话。警局需要我回去。"
+    dc "我，呃，现在不能说话。警局需要我回去。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:91
 translate chinese q_inter_dc_8_e0715dbc:
 
-    # mc "But-"
-    mc "But-"
+    # mc "但是——"
+    mc "但是——"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:94
 translate chinese q_inter_dc_8_444bb558:
 
-    # dc "Later, [mcname]."
-    dc "Later, [mcname]."
+    # dc "回头见，[mcname]。"
+    dc "回头见，[mcname]。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:100
 translate chinese q_inter_dc_9_cffaf527:
 
-    # mc "Deb-"
-    mc "Deb-"
+    # mc "黛——"
+    mc "黛——"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:103
 translate chinese q_inter_dc_9_4415466f:
 
-    # dc "Krsssht - what was that?"
-    dc "Krsssht - what was that?"
+    # dc "嘶嘶——那是什么？"
+    dc "嘶嘶——那是什么？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:104
 translate chinese q_inter_dc_9_05500ff6:
 
-    # mc "Huh?"
-    mc "Huh?"
+    # mc "嗯？"
+    mc "嗯？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:108
 translate chinese q_inter_dc_9_556a9185:
 
-    # dc "Something on my radio, uhh, I need to respond right away."
-    dc "Something on my radio, uhh, I need to respond right away."
+    # dc "我的无线电里有东西，呃，我需要马上回应。"
+    dc "我的无线电里有东西，呃，我需要马上回应。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:110
 translate chinese q_inter_dc_9_f7204273:
 
-    # dc "Krrrsssssht - roger that, over and out."
-    dc "Krrrsssssht - roger that, over and out."
+    # dc "嘶嘶嘶——收到，完毕。"
+    dc "嘶嘶嘶——收到，完毕。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:116
 translate chinese q_inter_dc_10_61ddac21:
 
-    # dc "What am I going to say..."
-    dc "What am I going to say..."
+    # dc "我要说什么..."
+    dc "我要说什么..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:118
 translate chinese q_inter_dc_10_16b05ad9:
 
-    # mc "Debbie?"
-    mc "Debbie?"
+    # mc "黛比？"
+    mc "黛比？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:122
 translate chinese q_inter_dc_10_61db2c91:
 
-    # dc "Oh, uhm, [mcname], I... I have to go - somewhere. Bye."
-    dc "Oh, uhm, [mcname], I... I have to go - somewhere. Bye."
+    # dc "哦，呃，[mcname]，我...我得去——某个地方。再见。"
+    dc "哦，呃，[mcname]，我...我得去——某个地方。再见。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:128
 translate chinese q_inter_dc_11_d6858f30:
 
-    # dc "I know this isn't the park, but keep your eyes peeled. You never know where that creep might be."
-    dc "I know this isn't the park, but keep your eyes peeled. You never know where that creep might be."
+    # dc "我知道这不是公园，但要保持警惕。你永远不知道那个怪人可能在哪里。"
+    dc "我知道这不是公园，但要保持警惕。你永远不知道那个怪人可能在哪里。"
 
