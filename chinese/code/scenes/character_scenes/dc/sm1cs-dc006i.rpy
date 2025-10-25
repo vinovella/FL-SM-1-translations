@@ -50,77 +50,77 @@ translate chinese sm1cs_dc006i_4456cb4d:
 translate chinese sm1cs_dc006_onramp_5e7b67af:
 
     # mc "Hey, Debbie!"
-    mc "Hey, Debbie!"
+    mc "嘿，黛比！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:33
 translate chinese sm1cs_dc006_onramp_3d7bf987:
 
     # dc "Oh! [mcname]."
-    dc "Oh! [mcname]."
+    dc "哦！[mcname]。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:35
 translate chinese sm1cs_dc006_onramp_3c06a8b5:
 
     # mc "Yes, I'm sorry of how I left things last time."
-    mc "Yes, I'm sorry of how I left things last time."
+    mc "是的，我为上次的离开感到抱歉。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:36
 translate chinese sm1cs_dc006_onramp_e1577b46:
 
     # mc "I was a bit shocked and needed time to process that information."
-    mc "I was a bit shocked and needed time to process that information."
+    mc "我当时有点震惊，需要时间来消化那些信息。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:40
 translate chinese sm1cs_dc006_onramp_a6dda018:
 
     # dc "You don't need to apologize, [mcname]."
-    dc "You don't need to apologize, [mcname]."
+    dc "你不需要道歉，[mcname]。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:42
 translate chinese sm1cs_dc006_onramp_17c47ba4:
 
     # mc "No-no, I should."
-    mc "No-no, I should."
+    mc "不不，我应该道歉。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:43
 translate chinese sm1cs_dc006_onramp_51397dc0:
 
     # mc "I was rude and I shouldn't have been."
-    mc "I was rude and I shouldn't have been."
+    mc "我当时很无礼，不应该那样的。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:44
 translate chinese sm1cs_dc006_onramp_b94ed120:
 
     # mc "So, can I ask you out?"
-    mc "So, can I ask you out?"
+    mc "那么，我可以约你出去吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:48
 translate chinese sm1cs_dc006_onramp_923b7aca:
 
     # dc "Ask me out?{w} Are you sure?"
-    dc "Ask me out?{w} Are you sure?"
+    dc "约我出去？{w}你确定吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:50
 translate chinese sm1cs_dc006_onramp_17b45420:
 
     # mc "Yes, I am."
-    mc "Yes, I am."
+    mc "是的，我确定。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:51
 translate chinese sm1cs_dc006_onramp_695702a8:
 
     # dc "Well okay."
-    dc "Well okay."
+    dc "好吧。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:55
 translate chinese sm1cs_dc006_onramp_fdaa0d9b:
 
     # dc "How about I text you when I have time for a coffee?"
-    dc "How about I text you when I have time for a coffee?"
+    dc "等我有空喝咖啡的时候发短信给你怎么样？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:57
 translate chinese sm1cs_dc006_onramp_8bd8045d:
 
     # mc "Sure, that would be great."
-    mc "Sure, that would be great."
+    mc "好的，那太好了。"
 
