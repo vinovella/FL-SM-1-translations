@@ -1,61 +1,61 @@
 ﻿# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:22
 translate chinese q_inter_my_1_3f300aea:
 
-    # my "那么，你再考虑过上大学的事吗？"
+    # my "So, have you thought any more about college?"
     my "那么，你再考虑过上大学的事吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:24
 translate chinese q_inter_my_1_0972c153:
 
-    # mc "呃..."
+    # mc "Erm..."
     mc "呃..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:28
 translate chinese q_inter_my_1_b2f03525:
 
-    # my "请答应我你会的。"
+    # my "Please just promise me you will."
     my "请答应我你会的。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:34
 translate chinese q_inter_my_2_aa81860c:
 
-    # my "哇，工作室的翻新进展得很顺利，不是吗？"
+    # my "Wow, the studio renovation is really coming along, isn't it?"
     my "哇，工作室的翻新进展得很顺利，不是吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:36
 translate chinese q_inter_my_2_7ed5b480:
 
-    # mc "是的！谢谢你的帮助。"
+    # mc "It is! And thank you for helping."
     mc "是的！谢谢你的帮助。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:38
 translate chinese q_inter_my_2_fb7af196:
 
-    # my "为了我的两个孩子什么都愿意做。"
+    # my "Anything for my two children."
     my "为了我的两个孩子什么都愿意做。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:40
 translate chinese q_inter_my_2_6569b05f:
 
-    # my "为了你们两个什么都愿意做。"
+    # my "Anything for you two."
     my "为了你们两个什么都愿意做。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:46
 translate chinese q_inter_my_3_35f6b7d1:
 
-    # mc "我想我还没有真正表达对你在工作室帮忙的感激之情。"
+    # mc "I don't think I've really expressed my gratitude for all of your help around the studio."
     mc "我想我还没有真正表达对你在工作室帮忙的感激之情。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:48
 translate chinese q_inter_my_3_49473dcc:
 
-    # my "你不需要这样。我很乐意这么做。"
+    # my "And you don't need to. I'm happy to do it."
     my "你不需要这样。我很乐意这么做。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:54
 translate chinese q_inter_my_4_1b9be8cf:
 
-    # my "他想要画廊里有4面墙...然后其他艺术家想要——"
+    # my "He wants 4 walls in the gallery... and then the other artists want-"
     my "他想要画廊里有4面墙...然后其他艺术家想要——"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:57
