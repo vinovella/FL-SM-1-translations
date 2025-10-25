@@ -478,8 +478,7 @@
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Empty office\nAt night"
-    new "空办公室
-晚上"
+    new "空办公室\n晚上"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Text Nari"

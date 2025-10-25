@@ -166,11 +166,11 @@
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask for 'practice'"
-    new "要求"练习""
+    new "要求\"练习\""
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask for some sexy 'practice'"
-    new "要求一些性感的"练习""
+    new "要求一些性感的\"练习\""
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Learn Photography"

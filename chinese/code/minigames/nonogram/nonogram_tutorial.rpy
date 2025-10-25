@@ -2,11 +2,11 @@
 
     # game/code/minigames/nonogram/nonogram_tutorial.rpy:48
     old "Your goal in these puzzles is to fill the whole grid with green and black squares.\n\nAbove and to the left of the grid are numbers. These are the indicator numbers that tell you the number of green squares in that specific row and column.\n\nExample. If the row has a '3' next to it, that means there will be a set of three green (connected) squares somewhere in that row. It is the same for columns based on the numbers at the top of the puzzle. A '2' at the top of a column means that in that column, there is a set of two green squares running vertically."
-    new "你在这些谜题中的目标是用绿色和黑色方块填满整个网格。\n\n网格上方和左侧是数字。这些是指示数字，告诉你该特定行和列中绿色方块的数量。\n\n例如。如果行旁边有一个"3"，这意味着该行中某处将有一组三个绿色（连续）方块。对于列也是如此，根据谜题顶部的数字。列顶部的"2"意味着在该列中，有一组两个绿色方块垂直排列。"
+    new "你在这些谜题中的目标是用绿色和黑色方块填满整个网格。\n\n网格上方和左侧是数字。这些是指示数字，告诉你该特定行和列中绿色方块的数量。\n\n例如。如果行旁边有一个\"3\"，这意味着该行中某处将有一组三个绿色（连续）方块。对于列也是如此，根据谜题顶部的数字。列顶部的\"2\"意味着在该列中，有一组两个绿色方块垂直排列。"
 
     # game/code/minigames/nonogram/nonogram_tutorial.rpy:53
     old "You will notice some rows/columns have 2 numbers.\n\nIf you see '2 1', that tells you that somewhere in that line will be a run of exactly 2 green squares, followed by 1 or more black squares, followed by 1 green square.\n\nThere might be black squares before or after the green squares - only the runs of green squares are counted."
-    new "你会注意到有些行/列有2个数字。\n\n如果你看到"2 1"，这告诉你在该行中某处将有恰好2个绿色方块的连续排列，后面跟着1个或更多黑色方块，然后是1个绿色方块。\n\n绿色方块之前或之后可能有黑色方块 - 只计算绿色方块的连续排列。"
+    new "你会注意到有些行/列有2个数字。\n\n如果你看到\"2 1\"，这告诉你在该行中某处将有恰好2个绿色方块的连续排列，后面跟着1个或更多黑色方块，然后是1个绿色方块。\n\n绿色方块之前或之后可能有黑色方块 - 只计算绿色方块的连续排列。"
 
     # game/code/minigames/nonogram/nonogram_tutorial.rpy:58
     old "Left-click on a square to make it green. Right-click to mark with black.\n\nIn our system, the black squares represent the empty or blank squares and the green squares are the coded or filled squares.\n\nYou do not need to fill in the blank squares by marking them if you do not want to. It is not required to solve the puzzle."
