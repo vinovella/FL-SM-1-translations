@@ -642,5 +642,5 @@ translate chinese strings:
 translate chinese sm1fs_i002_bf4b8ddd:
 
     # cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
-    cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
+    cw "没关系，我们尽量把它保持得……不过于私人化。继续。"
 

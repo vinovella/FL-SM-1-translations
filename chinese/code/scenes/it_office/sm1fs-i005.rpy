@@ -980,7 +980,7 @@ translate chinese sm1fs_i005_58e44c50:
 translate chinese sm1fs_i005_85bfecbf:
 
     # "CLICK"
-    "CLICK"
+    "咔嚓"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:556
 translate chinese sm1fs_i005_efeb4f53:
@@ -1076,7 +1076,7 @@ translate chinese sm1fs_i005_f55149ad:
 translate chinese sm1fs_i005_d15522ad:
 
     # cw "*sighs*"
-    cw "*sighs*"
+    cw "*叹气*"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:624
 translate chinese sm1fs_i005_9750bbc9:

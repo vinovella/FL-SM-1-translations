@@ -50,7 +50,7 @@ translate chinese sm1cs_mh010_3749a2c2:
 translate chinese sm1cs_mh010_e26f48c7:
 
     # mh "Mmmmm..."
-    mh "Mmmmm..."
+    mh "嗯……"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:42
 translate chinese sm1cs_mh010_51d9a554:
@@ -116,7 +116,7 @@ translate chinese sm1cs_mh010_b9b9dba1:
 translate chinese sm1cs_mh010_f219177a:
 
     # mh "Hmmmm..."
-    mh "Hmmmm..."
+    mh "嗯……"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:76
 translate chinese sm1cs_mh010_1a848384:
@@ -182,7 +182,7 @@ translate chinese sm1cs_mh010_07d7f739:
 translate chinese sm1cs_mh010_11370a71:
 
     # mh "Hahahahahaha."
-    mh "Hahahahahaha."
+    mh "哈哈哈哈哈哈。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:112
 translate chinese sm1cs_mh010_94db9eb3:
@@ -212,7 +212,7 @@ translate chinese sm1cs_mh010_63abd537:
 translate chinese sm1cs_mh010_100e00e0:
 
     # mh "Mmmmmm..."
-    mh "Mmmmmm..."
+    mh "嗯嗯嗯……"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:124
 translate chinese sm1cs_mh010_f7298307:
@@ -230,7 +230,7 @@ translate chinese sm1cs_mh010_a1c82878:
 translate chinese sm1cs_mh010_3355807b:
 
     # mh "I..."
-    mh "I..."
+    mh "我……"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:131
 translate chinese sm1cs_mh010_8ff40ab3:
@@ -368,7 +368,7 @@ translate chinese sm1cs_mh010_a31340dd:
 translate chinese sm1cs_mh010_d7eb3ba9:
 
     # mh "Mmmhmmm..."
-    mh "Mmmhmmm..."
+    mh "嗯嗯……"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:195
 translate chinese sm1cs_mh010_32188274:
@@ -608,7 +608,7 @@ translate chinese sm1cs_mh010_54140df5:
 translate chinese sm1cs_mh010_e26f48c7_1:
 
     # mh "Mmmmm..."
-    mh "Mmmmm..."
+    mh "嗯……"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:312
 translate chinese sm1cs_mh010_3c2389f9:

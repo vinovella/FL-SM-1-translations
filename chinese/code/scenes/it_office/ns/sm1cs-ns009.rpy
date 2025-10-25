@@ -1324,6 +1324,12 @@ translate chinese sm1cs_ns009_sex_end_f6a8e131:
     # mc "Good night, Nari."
     mc "晚安，娜丽。"
 
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
+translate chinese sm1cs_ns009_sex_continue_78168329:
+
+    # ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
+    ns "*咯咯* 别让你{i}太{/i}害羞，[mcname]。"
+
 translate chinese strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:376
@@ -1335,11 +1341,11 @@ translate chinese strings:
     new "和娜丽口交"
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
-    old "Dominate Nari."
+    old "Dominate Nari"
     new "支配娜丽"
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
-    old "Don't dominate Nari."
+    old "Don't dominate Nari"
     new "不支配娜丽"
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:647
@@ -1350,19 +1356,5 @@ translate chinese strings:
     old "Pronebone Nari"
     new "俯卧插入娜丽"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
-translate chinese sm1cs_ns009_sex_continue_78168329:
 
-    # ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
-    ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
-
-translate chinese strings:
-
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
-    old "Dominate Nari"
-    new "Dominate Nari"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
-    old "Don't dominate Nari"
-    new "Don't dominate Nari"
 

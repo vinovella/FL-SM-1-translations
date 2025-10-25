@@ -1612,10 +1612,28 @@ translate chinese sm1cs_am004_after_spank_17b0592e:
     # mct "Don't stick your dick in crazy."
     mct "别把你的老二插进疯子的身体里。"
 
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:255
+translate chinese sm1cs_am004_ag_appears_01e66815:
+
+    # mcon "And on bass we have April the Merciless!"
+    mcon "负责贝斯部分的是我们的‘冷面艾普尔’！"
+
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:787
+translate chinese sm1cs_am004_sex_ce4eb6af:
+
+    # mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
+    mc "听着，我知道你老是对我很刻薄，但我可不想让你把我的鸡巴咬掉。"
+
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:975
+translate chinese sm1cs_am004_after_spank_94b939c6:
+
+    # mc "Come on. You know the {b}word{/b} I'm waiting for."
+    mc "来吧。你知道我在等的那个{b}词{/b}。"
+
 translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
-    old "Later that evening\nAt Guns 'n Rosette'"
+    old "Later that evening\nAt Guns n' Rosette"
     new "当天晚上\n在'枪炮与玫瑰'酒吧"
 
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:66
@@ -1682,27 +1700,4 @@ translate chinese strings:
     old "Don't spank her ass"
     new "不打她屁股"
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:255
-translate chinese sm1cs_am004_ag_appears_01e66815:
-
-    # mcon "And on bass we have April the Merciless!"
-    mcon "负责贝斯部分的是我们的‘冷面艾普尔’！"
-
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:787
-translate chinese sm1cs_am004_sex_ce4eb6af:
-
-    # mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
-    mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
-
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:975
-translate chinese sm1cs_am004_after_spank_94b939c6:
-
-    # mc "Come on. You know the {b}word{/b} I'm waiting for."
-    mc "Come on. You know the {b}word{/b} I'm waiting for."
-
-translate chinese strings:
-
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
-    old "Later that evening\nAt Guns n' Rosette"
-    new "Later that evening\nAt Guns n' Rosette"
 

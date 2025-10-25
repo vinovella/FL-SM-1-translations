@@ -612,17 +612,17 @@ translate chinese strings:
 translate chinese sm1fs_i001_af917135:
 
     # ag "Please have a seat."
-    ag "Please have a seat."
+    ag "请坐。"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:93
 translate chinese sm1fs_i001_73236aa5:
 
     # ag "Hi, what can I help you with, April?"
-    ag "Hi, what can I help you with, April?"
+    ag "嗨，我能为你做些什么，艾普尔？"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:178
 translate chinese sm1fs_i001_fd7e7967:
 
     # mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
-    mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
+    mc "呃……大多数是第一人称射击游戏。偶尔我会打开——"
 

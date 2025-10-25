@@ -78,11 +78,11 @@ translate chinese strings:
 translate chinese sm1cs_am004i_e2e0bcfb:
 
     # am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
-    am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
+    am "别忘了，这可是异教摇滚。我不想以后听你抱怨。"
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
 translate chinese sm1cs_am004i_286029a4:
 
     # mc "Wouldn't dream of it. See you tonight."
-    mc "Wouldn't dream of it. See you tonight."
+    mc "才不会呢。今晚见。"
 

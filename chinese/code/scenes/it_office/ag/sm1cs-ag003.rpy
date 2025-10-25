@@ -812,5 +812,5 @@ translate chinese sm1cs_ag003_353fb300:
 translate chinese sm1cs_ag003_e50bff0e:
 
     # ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
-    ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
+    ag "谢谢！我……已经想去女厕有一会儿了，但我讨厌把东西放着不管。马上回来！"
 

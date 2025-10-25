@@ -1238,17 +1238,17 @@ translate chinese sm1cs_sy002_dc_talk_074ea2e5:
 translate chinese sm1cs_sy002_dc_talk_4558d886:
 
     # mc "{size=*0.7}She looks like the park cop.{/size}"
-    mc "{size=*0.7}She looks like the park cop.{/size}"
+    mc "{size=*0.7}她看起来像公园的女警察。{/size}"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:77
 translate chinese sm1cs_sy002_77589fcc:
 
     # mc "It sounds like you've been planning this idea out for a while, Stacy."
-    mc "It sounds like you've been planning this idea out for a while, Stacy."
+    mc "听起来你已经筹划这个主意有一段时间了，史黛西。"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:267
 translate chinese sm1cs_sy002_2_221a6943:
 
     # sy "But never mind that! Let's get into the acting!"
-    sy "But never mind that! Let's get into the acting!"
+    sy "不管那些了！开始表演吧！"
 

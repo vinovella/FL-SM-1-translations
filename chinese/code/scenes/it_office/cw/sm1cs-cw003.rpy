@@ -454,6 +454,12 @@ translate chinese sm1cs_cw003_continue_dd5023f7:
     # sy "Bye."
     sy "拜拜。"
 
+# game/code/scenes/it_office/cw/sm1cs-cw003.rpy:48
+translate chinese sm1cs_cw003_c8642c96:
+
+    # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
+    mc "她妈妈松了口气，说她很高兴克莱尔再也不用用那个\"性\"应用了。"
+
 translate chinese strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:127
@@ -464,9 +470,4 @@ translate chinese strings:
     old "Excited"
     new "兴奋"
 
-# game/code/scenes/it_office/cw/sm1cs-cw003.rpy:48
-translate chinese sm1cs_cw003_c8642c96:
-
-    # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
-    mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
 

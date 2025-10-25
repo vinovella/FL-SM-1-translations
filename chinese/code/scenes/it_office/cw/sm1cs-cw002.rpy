@@ -226,29 +226,19 @@ translate chinese sm1cs_cw002_8f39dca1:
     # mct "This {i}really{/i} must be a difficult client. I don't think I've ever seen Claire acting like this before."
     mct "这{i}一定{/i}是个难缠的客户。我以前从没见过克莱尔这样。"
 
-translate chinese strings:
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
-    old "I like it."
-    new "我喜欢这样"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
-    old "I don't like it."
-    new "我不喜欢这样"
-
 # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:99
 translate chinese sm1cs_cw002_e0bf352d:
 
     # mc "Of course. I won't let you down, Ms. Watts."
-    mc "Of course. I won't let you down, Ms. Watts."
+    mc "当然。不会让你失望的，沃茨女士。"
 
 translate chinese strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I like it"
-    new "I like it"
+    new "我喜欢这样"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I don't like it"
-    new "I don't like it"
+    new "我不喜欢这样"
 

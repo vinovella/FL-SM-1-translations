@@ -516,11 +516,11 @@ translate chinese strings:
 translate chinese sm1cs_dvh001_5264a337:
 
     # dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
-    dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
+    dvh "我会马上回到舞台上。需要一点时间好好喘口气。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:213
 translate chinese sm1cs_dvh001_169f969d:
 
     # dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
-    dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
+    dvh "我确实看到你的潜力。但在我确认你不是又一个平庸的Bram之前，我不会在你身上浪费额外时间。"
 

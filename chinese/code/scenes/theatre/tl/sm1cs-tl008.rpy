@@ -224,7 +224,7 @@ translate chinese sm1cs_tl008_sex_748b1c71:
 translate chinese sm1cs_tl008_sex_56765433:
 
     # tl "Shllrrrp, shllrrrpp, shlrp, shllrp!"
-    tl "Shllrrrp, shllrrrpp, shlrp, shllrp!"
+    tl "咕噜咕噜，咕噜咕，咕噜，咕噜！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:205
 translate chinese sm1cs_tl008_sex_3adca529:
@@ -236,7 +236,7 @@ translate chinese sm1cs_tl008_sex_3adca529:
 translate chinese sm1cs_tl008_sex_5fc60ee5:
 
     # tl "Shlrrrp, gllck, shllrrpp!"
-    tl "Shlrrrp, gllck, shllrrpp!"
+    tl "咕噜，咔嗒，咕噜咕！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:209
 translate chinese sm1cs_tl008_sex_db86f94e:
@@ -248,7 +248,7 @@ translate chinese sm1cs_tl008_sex_db86f94e:
 translate chinese sm1cs_tl008_sex_de028836:
 
     # tl "Gllck, gllck!"
-    tl "Gllck, gllck!"
+    tl "咔嗒，咔嗒！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:213
 translate chinese sm1cs_tl008_sex_c199dac8:
@@ -260,7 +260,7 @@ translate chinese sm1cs_tl008_sex_c199dac8:
 translate chinese sm1cs_tl008_sex_7b8fb19f:
 
     # tl "Shhllllrrrrrrrrrrp!"
-    tl "Shhllllrrrrrrrrrrp!"
+    tl "嘶啦——隆隆隆！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:217
 translate chinese sm1cs_tl008_sex_1a7259b2:
@@ -278,7 +278,7 @@ translate chinese sm1cs_tl008_sex_01e06fd9:
 translate chinese sm1cs_tl008_sex_34913f0c:
 
     # tl "Glllck, glck, gllllllck, gllck!"
-    tl "Glllck, glck, gllllllck, gllck!"
+    tl "咔咔，咔，咔咔咔，咔！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:222
 translate chinese sm1cs_tl008_sex_d83af8c7:
@@ -296,7 +296,7 @@ translate chinese sm1cs_tl008_sex_f2b5d112:
 translate chinese sm1cs_tl008_sex_3e50c097:
 
     # tl "Shlrrrprp, shlrp, shlrppp."
-    tl "Shlrrrprp, shlrp, shlrppp."
+    tl "咕噜咕，咕噜，咕噜咕。"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:227
 translate chinese sm1cs_tl008_sex_1ce3d46d:
@@ -332,7 +332,7 @@ translate chinese sm1cs_tl008_sex_c9bcfb54:
 translate chinese sm1cs_tl008_sex_f0654f09:
 
     # tl "Glck, glck!"
-    tl "Glck, glck!"
+    tl "咔，咔！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:242
 translate chinese sm1cs_tl008_sex_8ad9a1db:
@@ -392,13 +392,13 @@ translate chinese sm1cs_tl008_sex_f2cf079d:
 translate chinese sm1cs_tl008_sex_29988449:
 
     # tl "Mmmrrrppphh!"
-    tl "Mmmrrrppphh!"
+    tl "嗯嗯哼！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:276
 translate chinese sm1cs_tl008_sex_c2ea84bb:
 
     # mc "Oh shit!"
-    mc "Oh shit!"
+    mc "糟糕！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:277
 translate chinese sm1cs_tl008_sex_218e6065:
@@ -416,7 +416,7 @@ translate chinese sm1cs_tl008_sex_e9403dc4:
 translate chinese sm1cs_tl008_sex_fff4807a:
 
     # tl "Mmrrrmmmphhh, mmmph!"
-    tl "Mmrrrmmmphhh, mmmph!"
+    tl "嗯嗯嗯唔，嗯唔！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:284
 translate chinese sm1cs_tl008_sex_2cdd7b8a:
@@ -434,7 +434,7 @@ translate chinese sm1cs_tl008_sex_eff7f32c:
 translate chinese sm1cs_tl008_sex_03b0ab74:
 
     # tl "Glllck - nggggh!"
-    tl "Glllck - nggggh!"
+    tl "咔——嗯呜！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:289
 translate chinese sm1cs_tl008_sex_5053595c:
@@ -446,7 +446,7 @@ translate chinese sm1cs_tl008_sex_5053595c:
 translate chinese sm1cs_tl008_sex_e868ab4b:
 
     # tl "Mrrrhmmmm!"
-    tl "Mrrrhmmmm!"
+    tl "嗯嗯嗯！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:291
 translate chinese sm1cs_tl008_sex_0c3e0512:
@@ -458,7 +458,7 @@ translate chinese sm1cs_tl008_sex_0c3e0512:
 translate chinese sm1cs_tl008_sex_e06cd789:
 
     # tl "Mrrrrnnnng!"
-    tl "Mrrrrnnnng!"
+    tl "嗯嗯嗯呜！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:295
 translate chinese sm1cs_tl008_sex_2ffdea26:
@@ -470,7 +470,7 @@ translate chinese sm1cs_tl008_sex_2ffdea26:
 translate chinese sm1cs_tl008_sex_988771bd:
 
     # tl "Mmmrmmm - mmmrrrmmmm- mmmppppphrrrrrrrr!"
-    tl "Mmmrmmm - mmmrrrmmmm- mmmppppphrrrrrrrr!"
+    tl "嗯嗯嗯——嗯嗯嗯嗯——嗯——嗡嗡嗡嗡！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:299
 translate chinese sm1cs_tl008_sex_4cd2d6dd:
@@ -482,7 +482,7 @@ translate chinese sm1cs_tl008_sex_4cd2d6dd:
 translate chinese sm1cs_tl008_sex_4af72180:
 
     # tl "Mmrrhmmmm - mmmrrrhhhhhmmmmmm!!!"
-    tl "Mmrrhmmmm - mmmrrrhhhhhmmmmmm!!!"
+    tl "嗯嗯呜——嗯嗯呜啊啊啊！！！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:301
 translate chinese sm1cs_tl008_sex_8e958415:
@@ -500,7 +500,7 @@ translate chinese sm1cs_tl008_sex_bfd2b23f:
 translate chinese sm1cs_tl008_sex_4b8a0247:
 
     # tl "Mmmmrrnnnng, mrrrmmmppph!"
-    tl "Mmmmrrnnnng, mrrrmmmppph!"
+    tl "嗯嗯嗯呜，嗯嗯嗯哧！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:306
 translate chinese sm1cs_tl008_sex_c91c7b62:
@@ -530,7 +530,7 @@ translate chinese sm1cs_tl008_sex_212d47b6:
 translate chinese sm1cs_tl008_sex_123a0154:
 
     # tl "Mmmmrrrnnnng, mmmmpphhh!"
-    tl "Mmmmrrrnnnng, mmmmpphhh!"
+    tl "嗯嗯嗯呜呜，嗯嗯哧！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:313
 translate chinese sm1cs_tl008_sex_c06ec0c4:
@@ -554,7 +554,7 @@ translate chinese sm1cs_tl008_sex_626b7f51:
 translate chinese sm1cs_tl008_sex_8fcdf32a:
 
     # tl "Nrrrrrrpppph!"
-    tl "Nrrrrrrpppph!"
+    tl "咕噜——唔！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:320
 translate chinese sm1cs_tl008_sex_c323ec4e:
@@ -566,7 +566,7 @@ translate chinese sm1cs_tl008_sex_c323ec4e:
 translate chinese sm1cs_tl008_sex_7f49745e:
 
     # tl "Nrrrph - nrrrrrrph!"
-    tl "Nrrrph - nrrrrrrph!"
+    tl "咕——咕——咕咕！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:328
 translate chinese sm1cs_tl008_sex_70927d9a:
@@ -1013,7 +1013,7 @@ translate chinese sm1cs_tl008_extra_3bcd644d:
 translate chinese sm1cs_tl008_extra_c2ea84bb:
 
     # mc "Oh shit!"
-    mc "Oh shit!"
+    mc "糟糕！"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:550
 translate chinese sm1cs_tl008_extra_193c9f69:
@@ -1127,5 +1127,5 @@ translate chinese strings:
 translate chinese sm1cs_tl008_sex_af2ca492:
 
     # mc "Shit, Taisia!"
-    mc "Shit, Taisia!"
+    mc "糟了，泰西娅！"
 

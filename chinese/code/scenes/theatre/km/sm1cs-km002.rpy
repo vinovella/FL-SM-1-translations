@@ -466,5 +466,5 @@ translate chinese strings:
 translate chinese sm1cs_km002_complement_km_5e3be15b:
 
     # km "[mcname], are you still interested in learning to be a better actor?"
-    km "[mcname], are you still interested in learning to be a better actor?"
+    km "[mcname]，你还想继续学当更好的演员吗？"
 

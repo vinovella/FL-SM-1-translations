@@ -968,7 +968,7 @@ translate chinese sm1cs_my003_at_gym_79651932:
 translate chinese sm1cs_my003_at_gym_f35e0449:
 
     # my "Okay!"
-    my "Okay!"
+    my "好的！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:486
 translate chinese sm1cs_my003_at_gym_9f3aca8e:
@@ -1454,7 +1454,7 @@ translate chinese sm1cs_my003_continue_7706f5bb:
 translate chinese sm1cs_my003_continue_febb0419:
 
     # my "Are you okay?"
-    my "Are you okay?"
+    my "你还好吗？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:730
 translate chinese sm1cs_my003_continue_d53589a3:

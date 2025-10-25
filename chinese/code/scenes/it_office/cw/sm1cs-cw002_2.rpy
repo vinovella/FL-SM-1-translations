@@ -880,6 +880,18 @@ translate chinese sm1cs_cw002_2_after_lunch_0662017d:
     # mct "I should talk to Stacy about this when I get the chance."
     mct "有机会的话，我得跟史黛西说说这件事。"
 
+# game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:57
+translate chinese sm1cs_cw002_2_de7b5f54:
+
+    # mc "*whispers* Eugene? Ms. Watts. I'm totally lost."
+    mc "*低语* 尤金？沃茨女士。我完全迷路了。"
+
+# game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:252
+translate chinese sm1cs_cw002_2_da7d3338:
+
+    # cw "You told Daddy?"
+    cw "你告诉爸爸了吗？"
+
 translate chinese strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:308
@@ -887,11 +899,11 @@ translate chinese strings:
     new "紧张的午餐之后"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "It was fine."
+    old "It was fine"
     new "还不错"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "Sorry, Claire."
+    old "Sorry, Claire"
     new "对不起，克莱尔"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
@@ -899,32 +911,6 @@ translate chinese strings:
     new "为我的‘女朋友’做什么都可以"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
-    old "Don't mention it, Ms. Watts."
-    new "不客气，沃茨女士"
-
-# game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:57
-translate chinese sm1cs_cw002_2_de7b5f54:
-
-    # mc "*whispers* Eugene? Ms. Watts. I'm totally lost."
-    mc "*whispers* Eugene? Ms. Watts. I'm totally lost."
-
-# game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:252
-translate chinese sm1cs_cw002_2_da7d3338:
-
-    # cw "You told Daddy?"
-    cw "You told Daddy?"
-
-translate chinese strings:
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "It was fine"
-    new "It was fine"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "Sorry, Claire"
-    new "Sorry, Claire"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Don't mention it, Ms. Watts"
-    new "Don't mention it, Ms. Watts"
+    new "不客气，沃茨女士"
 

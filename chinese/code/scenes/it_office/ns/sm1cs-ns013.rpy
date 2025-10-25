@@ -326,7 +326,7 @@ translate chinese sm1cs_ns013_2e90ccca:
 translate chinese sm1cs_ns013_3ad2098e:
 
     # sy "I'm already pretty wet from playing with your cock."
-    sy "I'm already pretty wet from playing with your cock."
+    sy "我因为玩你的鸡巴已经湿透了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:263
 translate chinese sm1cs_ns013_e8911481:
@@ -344,7 +344,7 @@ translate chinese sm1cs_ns013_2e1a03a5:
 translate chinese sm1cs_ns013_3ad2098e_1:
 
     # sy "I'm already pretty wet from playing with your cock."
-    sy "I'm already pretty wet from playing with your cock."
+    sy "我因为玩你的鸡巴已经湿透了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:271
 translate chinese sm1cs_ns013_cc358037:
@@ -482,13 +482,13 @@ translate chinese sm1cs_ns013_395e0e78:
 translate chinese sm1cs_ns013_1a2c0820:
 
     # ns "Oh..."
-    ns "Oh..."
+    ns "哦……"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:350
 translate chinese sm1cs_ns013_1a2c0820_1:
 
-    # ns "Oh..."
-    ns "Oh..."
+    # ns "哦……"
+    ns "哦……"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:362
 translate chinese sm1cs_ns013_c6be1a20:
@@ -824,13 +824,13 @@ translate chinese ns013_labels_section_08999b4d:
 translate chinese ns013_labels_section_8d67bd63:
 
     # ns "I didn't mean to be peeping on you."
-    ns "I didn't mean to be peeping on you."
+    ns "我不是故意偷窥你的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:531
 translate chinese ns013_labels_section_5b8f47d4:
 
     # ns "That is not who I am."
-    ns "That is not who I am."
+    ns "那并不是我这个人的作风。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:533
 translate chinese ns013_labels_section_6dbe4ceb:
@@ -842,7 +842,7 @@ translate chinese ns013_labels_section_6dbe4ceb:
 translate chinese ns013_labels_section_6790f1fe:
 
     # ns "I am so sorry."
-    ns "I am so sorry."
+    ns "我非常抱歉。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:538
 translate chinese ns013_labels_section_b77a4808:
@@ -854,19 +854,19 @@ translate chinese ns013_labels_section_b77a4808:
 translate chinese ns013_labels_section_8d67bd63_1:
 
     # ns "I didn't mean to be peeping on you."
-    ns "I didn't mean to be peeping on you."
+    ns "我不是故意偷窥你的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:540
 translate chinese ns013_labels_section_5b8f47d4_1:
 
     # ns "That is not who I am."
-    ns "That is not who I am."
+    ns "那并不是我这个人的作风。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:541
 translate chinese ns013_labels_section_6790f1fe_1:
 
     # ns "I am so sorry."
-    ns "I am so sorry."
+    ns "我非常抱歉。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:545
 translate chinese ns013_labels_section_76576a99:
@@ -2000,7 +2000,7 @@ translate chinese ns013_labels_section_7b2cf348:
 translate chinese ns013_labels_section_f915e9f8:
 
     # mc "Of course, Nari."
-    mc "Of course, Nari."
+    mc "当然，娜丽。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:995
 translate chinese ns013_labels_section_8f411162:
@@ -2114,7 +2114,7 @@ translate chinese ns013_labels_section_531bfbf1:
 translate chinese ns013_labels_section_f915e9f8_1:
 
     # mc "Of course, Nari."
-    mc "Of course, Nari."
+    mc "当然，娜丽。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1039
 translate chinese ns013_labels_section_18a97eb9:

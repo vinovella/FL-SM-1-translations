@@ -1330,6 +1330,12 @@ translate chinese sm1cs_km005_fe17183d:
     # mct "Well, I guess the only thing to do is to tell Veronica about this new development."
     mct "嗯，我想现在唯一能做的，就是把这个新进展告诉维罗妮卡。"
 
+# game/code/scenes/theatre/km/sm1cs-km005.rpy:429
+translate chinese sm1cs_km005_22270354:
+
+    # mc "Says the girl with hard nipples poking at her top."
+    mc "说这话的是胸部因摩擦而坚硬，顶着上衣的那个女孩。"
+
 translate chinese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
@@ -1337,18 +1343,7 @@ translate chinese strings:
     new "你为什么要那么做？"
 
     # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
-    old "That was good. But now we've got a little mess to clean up."
+    old "That was good. But now we've got a little mess to clean up"
     new "刚才确实很爽。不过现在咱们得清理一下这个小麻烦了。"
 
-# game/code/scenes/theatre/km/sm1cs-km005.rpy:429
-translate chinese sm1cs_km005_22270354:
-
-    # mc "Says the girl with hard nipples poking at her top."
-    mc "Says the girl with hard nipples poking at her top."
-
-translate chinese strings:
-
-    # game/code/scenes/theatre/km/sm1cs-km005.rpy:535
-    old "That was good. But now we've got a little mess to clean up"
-    new "That was good. But now we've got a little mess to clean up"
 

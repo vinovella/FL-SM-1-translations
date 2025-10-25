@@ -128,7 +128,7 @@ translate chinese sm1cs_cw005_91d66c10:
 translate chinese sm1cs_cw005_4412aa84:
 
     # cw "*chuckles*"
-    cw "*chuckles*"
+    cw "*轻笑*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:124
 translate chinese sm1cs_cw005_9f782b86:
@@ -266,7 +266,7 @@ translate chinese sm1cs_cw005_jetski_82cfef52:
 translate chinese sm1cs_cw005_jetski_c84a2f9b:
 
     # cw "*laughing*"
-    cw "*laughing*"
+    cw "*大笑*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:224
 translate chinese sm1cs_cw005_jetski_9611864b:
@@ -332,7 +332,7 @@ translate chinese sm1cs_cw005_jetski_b0398fc3:
 translate chinese sm1cs_cw005_jetski_c84a2f9b_1:
 
     # cw "*laughing*"
-    cw "*laughing*"
+    cw "*大笑*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:247
 translate chinese sm1cs_cw005_jetski_91fa32a1:
@@ -386,7 +386,7 @@ translate chinese sm1cs_cw005_jetski_328f3c53:
 translate chinese sm1cs_cw005_jetski_c84a2f9b_2:
 
     # cw "*laughing*"
-    cw "*laughing*"
+    cw "*大笑*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:300
 translate chinese sm1cs_cw005_jetski_2ea0afe9:
@@ -1094,7 +1094,7 @@ translate chinese sm1cs_cw005_sauna_menu_4d0f9a38:
 translate chinese sm1cs_cw005_sauna_menu_c84a2f9b:
 
     # cw "*laughing*"
-    cw "*laughing*"
+    cw "*大笑*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:672
 translate chinese sm1cs_cw005_sauna_menu_2e8ec580:
@@ -1256,7 +1256,7 @@ translate chinese sm1cs_cw005_sauna_menu_5c7c4c0e:
 translate chinese sm1cs_cw005_sauna_menu_b57ef2dd:
 
     # cw "Hah.{w} In your dreams."
-    cw "Hah.{w} In your dreams."
+    cw "哈。{w} 做梦去吧。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:752
 translate chinese sm1cs_cw005_sauna_menu_840812a5:
@@ -1340,7 +1340,7 @@ translate chinese sm1cs_cw005_sauna_menu_a39a1d50:
 translate chinese sm1cs_cw005_sauna_menu_8112397c:
 
     # cw "Completely.{w} So can I count on you?"
-    cw "Completely.{w} So can I count on you?"
+    cw "完全如此。{w} 那我可以指望你吗？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:786
 translate chinese sm1cs_cw005_sauna_menu_06eb03ff:
@@ -2198,7 +2198,7 @@ translate chinese sm1cs_cw005_sauna_menu_45f8a388:
 translate chinese sm1cs_cw005_sauna_menu_4412aa84:
 
     # cw "*chuckles*"
-    cw "*chuckles*"
+    cw "*轻笑*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1163
 translate chinese sm1cs_cw005_sauna_menu_c543eb33:
@@ -2222,7 +2222,7 @@ translate chinese sm1cs_cw005_sauna_menu_d8102a98:
 translate chinese sm1cs_cw005_sauna_menu_86232b2b:
 
     # mc "Right. {w}I can return the favor, Claire."
-    mc "Right. {w}I can return the favor, Claire."
+    mc "好。{w}我可以回报你，克莱尔。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1171
 translate chinese sm1cs_cw005_sauna_menu_221e1947:

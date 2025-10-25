@@ -256,51 +256,33 @@ translate chinese sm1cs_km003_2i_menu_716019b8:
     # mc "Right."
     mc "好。"
 
-translate chinese strings:
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
-    old "To be honest, I've been slacking. Lots of stuff going on."
-    new "说实话，我一直有点偷懒。有太多事情要忙了"
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
-    old "I've been doing alright. But I could use help."
-    new "我做得还行。但我确实需要帮助"
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
-    old "Alright, let's do another lesson."
-    new "好吧，我们再上一课"
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
-    old "Veronica doesn't seem to do that."
-    new "维罗妮卡好像不是这样做的"
-
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:45
 translate chinese sm1cs_km003_2i_c20b6007:
 
     # km "*scoffs.*"
-    km "*scoffs.*"
+    km "*哼声*"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:127
 translate chinese sm1cs_km003_2i_menu_e67aa3d0:
 
     # km "Let's go to the main stage."
-    km "Let's go to the main stage."
+    km "我们去主舞台吧。"
 
 translate chinese strings:
 
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:55
+    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
     old "To be honest, I've been slacking. Lots of stuff going on"
-    new "To be honest, I've been slacking. Lots of stuff going on"
+    new "说实话，我一直有点偷懒。有太多事情要忙了"
 
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:55
+    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
     old "I've been doing alright. But I could use help"
-    new "I've been doing alright. But I could use help"
+    new "我做得还行。但我确实需要帮助"
 
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:99
+    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
     old "Alright, let's do another lesson"
-    new "Alright, let's do another lesson"
+    new "好吧，我们再上一课"
 
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:99
+    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
     old "Veronica doesn't seem to do that"
-    new "Veronica doesn't seem to do that"
+    new "维罗妮卡好像不是这样做的"
 

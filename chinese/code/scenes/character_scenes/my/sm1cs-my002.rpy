@@ -656,7 +656,7 @@ translate chinese sm1cs_my002_art_gallery_8fa9669a:
 translate chinese sm1cs_my002_art_gallery_0972c153:
 
     # mc "Erm..."
-    mc "Erm..."
+    mc "呃……"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:364
 translate chinese sm1cs_my002_art_gallery_709656ba:

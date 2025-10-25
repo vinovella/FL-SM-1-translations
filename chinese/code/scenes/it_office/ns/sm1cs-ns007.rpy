@@ -698,7 +698,7 @@ translate chinese sm1cs_ns007_resturant_44e24d73:
 translate chinese sm1cs_ns007_resturant_5e6f9206:
 
     # ns "Jon-na!"
-    ns "Jon-na!"
+    ns "乔娜！"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:417
 translate chinese sm1cs_ns007_resturant_c1f80860:
@@ -2010,5 +2010,5 @@ translate chinese strings:
 translate chinese sm1cs_ns007_walkaway_e0cd2531:
 
     # ns "I will award you...{w}an Eight out of Ten."
-    ns "I will award you...{w}an Eight out of Ten."
+    ns "我会给你……{w}十分中打八分。"
 

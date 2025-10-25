@@ -508,14 +508,32 @@ translate chinese sm1cs_km001_e1a4d150:
     # mct "Hopefully, without dying."
     mct "希望不会因此送命。"
 
+# game/code/scenes/theatre/km/sm1cs-km001.rpy:73
+translate chinese sm1cs_km001_b55f6d50:
+
+    # mct "Why is she snooping?"
+    mct "她为什么要窥探？"
+
+# game/code/scenes/theatre/km/sm1cs-km001.rpy:116
+translate chinese sm1cs_km001_7262d936:
+
+    # km "Unless you're afraid to lose to a girl."
+    km "除非你害怕输给一个女孩。"
+
+# game/code/scenes/theatre/km/sm1cs-km001.rpy:240
+translate chinese sm1cs_km001_7ca99b3a:
+
+    # km "Hmmm. Not bad for an amateur."
+    km "嗯。对一个业余选手来说不错。"
+
 translate chinese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
-    old "I'll go easy on you."
+    old "I'll go easy on you"
     new "我会手下留情的"
 
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
-    old "Let's dance, Kellie."
+    old "Let's dance, Kellie"
     new "来较量一下吧，凯莉"
 
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:189
@@ -529,32 +547,4 @@ translate chinese strings:
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:189
     old "Be sneaky and go low"
     new "偷偷攻击她的下盘"
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:73
-translate chinese sm1cs_km001_b55f6d50:
-
-    # mct "Why is she snooping?"
-    mct "Why is she snooping?"
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:116
-translate chinese sm1cs_km001_7262d936:
-
-    # km "Unless you're afraid to lose to a girl."
-    km "Unless you're afraid to lose to a girl."
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:240
-translate chinese sm1cs_km001_7ca99b3a:
-
-    # km "Hmmm. Not bad for an amateur."
-    km "Hmmm. Not bad for an amateur."
-
-translate chinese strings:
-
-    # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
-    old "I'll go easy on you"
-    new "I'll go easy on you"
-
-    # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
-    old "Let's dance, Kellie"
-    new "Let's dance, Kellie"
 

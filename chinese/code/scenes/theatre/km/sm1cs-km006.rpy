@@ -1754,7 +1754,7 @@ translate chinese sm1cs_km006_sex_d2038b0f:
 translate chinese sm1cs_km006_sex_cbb393e9:
 
     # km "Buah... buh.."
-    km "Buah... buh.."
+    km "呜啊……呜……"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:926
 translate chinese sm1cs_km006_sex_a3c14648:
@@ -2066,13 +2066,13 @@ translate chinese sm1cs_km006_sex_2051d66a:
 translate chinese sm1cs_km006_sex_7bac18d1:
 
     # km "Ahhhaah."
-    km "Ahhhaah."
+    km "啊哈哈。"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1097
 translate chinese sm1cs_km006_sex_28ab7e9d:
 
     # km "Murrrplhh... murrrophh..."
-    km "Murrrplhh... murrrophh..."
+    km "噜噜哗……噜噜哗……"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1100
 translate chinese sm1cs_km006_sex_2eb8358d:
@@ -2144,7 +2144,7 @@ translate chinese sm1cs_km006_sex_fe12f1fc:
 translate chinese sm1cs_km006_sex_9958fa9d:
 
     # km "Ahuaaha..."
-    km "Ahuaaha..."
+    km "啊呜啊哈……"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1139
 translate chinese sm1cs_km006_sex_d3e28e56:
@@ -2360,7 +2360,7 @@ translate chinese sm1cs_km006_sex_656c061a:
 translate chinese sm1cs_km006_sex_5310bbea:
 
     # vs "[mcname]!"
-    vs "[mcname]!"
+    vs "[mcname]！"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1232
 translate chinese sm1cs_km006_sex_8d7e7501:
@@ -2372,7 +2372,7 @@ translate chinese sm1cs_km006_sex_8d7e7501:
 translate chinese sm1cs_km006_sex_0f287383:
 
     # vs "Fooouwaaaah-houaaah!"
-    vs "Fooouwaaaah-houaaah!"
+    vs "呜哇啊啊——哇啊啊！"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1243
 translate chinese sm1cs_km006_sex_ffbf4c17:
@@ -2588,7 +2588,7 @@ translate chinese sm1cs_km006_sex_bc7748a5:
 translate chinese sm1cs_km006_sex_b22f45fb:
 
     # km "Ooouh-houaah..."
-    km "Ooouh-houaah..."
+    km "哦哦——哈啊……"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1338
 translate chinese sm1cs_km006_sex_b58a6c3b:
@@ -2774,7 +2774,7 @@ translate chinese sm1cs_km006_sex_a3ef5b48:
 translate chinese sm1cs_km006_sex_583ab7b7:
 
     # vs "Fhuaa-ckaaaiaah!"
-    vs "Fhuaa-ckaaaiaah!"
+    vs "哇靠——啊啊啊！"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1413
 translate chinese sm1cs_km006_sex_3c06e9ee:
@@ -2882,7 +2882,7 @@ translate chinese sm1cs_km006_sex_970b0b08:
 translate chinese sm1cs_km006_sex_db457dc2:
 
     # km "Mmmrrah..."
-    km "Mmmrrah..."
+    km "嗯嗯拉……"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1477
 translate chinese sm1cs_km006_sex_14d4260f:

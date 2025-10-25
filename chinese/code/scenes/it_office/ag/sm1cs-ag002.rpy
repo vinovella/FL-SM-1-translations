@@ -640,5 +640,5 @@ translate chinese strings:
 translate chinese sm1cs_ag002_47fea000:
 
     # mc "You know, \"Aubergine Anna\"?"
-    mc "You know, \"Aubergine Anna\"?"
+    mc "你知道，\"Aubergine Anna\"吗？"
 

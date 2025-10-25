@@ -524,7 +524,7 @@ translate chinese sm1cs_cw006_2209aacd:
 translate chinese sm1cs_cw006_606e2d02_1:
 
     # mc "Sure."
-    mc "Sure."
+    mc "当然。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:293
 translate chinese sm1cs_cw006_f3b2c568:

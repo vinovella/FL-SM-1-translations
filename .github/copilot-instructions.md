@@ -75,5 +75,5 @@
 8. When translating to Chinese, use the provided Chinese translations for character names.
 9. When translating to Italian, don't translate character names.
 10. If the speaker is text in quotes, then translate that as well.
-11. Do not translate comments and lines that start with old
+11. Do not translate comments that start with # and lines that start with old
 12. Escape in line quotes properly using the backslash (`\`) character.

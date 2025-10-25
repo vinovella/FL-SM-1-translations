@@ -1910,28 +1910,28 @@ translate chinese strings:
 translate chinese sm1fs_t002_3cc3e891:
 
     # tl "So what's your story, you two?"
-    tl "So what's your story, you two?"
+    tl "你们两个的故事是什么？"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:373
 translate chinese sm1fs_t002_48bdc3d2:
 
     # sy "Let's get this party started!"
-    sy "Let's get this party started!"
+    sy "让这场派对开始吧！"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:535
 translate chinese sm1fs_t002_sex_7f6d7367:
 
     # tl "Damn. Someone is definitely not shy."
-    tl "Damn. Someone is definitely not shy."
+    tl "该死。有人显然一点也不害羞。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:704
 translate chinese sm1fs_t002_sex_226f2e7f:
 
     # mc "Literally zero complaints from me then."
-    mc "Literally zero complaints from me then."
+    mc "那我就完全没有意见了。"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:736
 translate chinese sm1fs_t002_sex_b41d6af2:
 
     # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
-    sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
+    sy "你得让我们看，而不是告诉我们。没人想要色情的有声书，他们想要的是电影！"

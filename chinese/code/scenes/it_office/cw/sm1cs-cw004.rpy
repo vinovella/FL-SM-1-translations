@@ -374,7 +374,7 @@ translate chinese sm1cs_cw004_docks_611c9a55:
 translate chinese sm1cs_cw004_docks_48415263:
 
     # cw "Mmm."
-    cw "Mmm."
+    cw "嗯。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:240
 translate chinese sm1cs_cw004_docks_4d2cce27:
@@ -560,7 +560,7 @@ translate chinese sm1cs_cw004_docks_d15522ad:
 translate chinese sm1cs_cw004_docks_bde6709d:
 
     # cw "Mmmm!"
-    cw "Mmmm!"
+    cw "嗯嗯！"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:326
 translate chinese sm1cs_cw004_docks_d2a9fc9b:
@@ -692,7 +692,7 @@ translate chinese sm1cs_cw004_later_3e44a61a:
 translate chinese sm1cs_cw004_later_2df2f9b7:
 
     # "*gun cocking*"
-    "*gun cocking*"
+    "*上膛声*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:417
 translate chinese sm1cs_cw004_later_30c2fbd0:
@@ -722,7 +722,7 @@ translate chinese sm1cs_cw004_later_1470cac6:
 translate chinese sm1cs_cw004_later_95946ab3:
 
     # "*launching noise*"
-    "*launching noise*"
+    "*发射声*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:440
 translate chinese sm1cs_cw004_later_9ace64ce:
@@ -974,7 +974,7 @@ translate chinese sm1cs_cw004_later_56100049:
 translate chinese sm1cs_cw004_later_91d2d9f3:
 
     # cw "Mmmm."
-    cw "Mmmm."
+    cw "嗯嗯。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:582
 translate chinese sm1cs_cw004_later_c611ea12:
@@ -1538,7 +1538,7 @@ translate chinese sm1cs_cw004_first_evening_b65a79d6:
 translate chinese sm1cs_cw004_first_evening_91d2d9f3:
 
     # cw "Mmmm."
-    cw "Mmmm."
+    cw "嗯嗯。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:865
 translate chinese sm1cs_cw004_first_evening_6daf661e:
@@ -1916,7 +1916,7 @@ translate chinese sm1cs_cw004_first_evening_d34a1d54:
 translate chinese sm1cs_cw004_first_evening_e792141e:
 
     # "*washing sounds*"
-    "*washing sounds*"
+    "*洗涤声*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1042
 translate chinese sm1cs_cw004_first_evening_962dafc2:

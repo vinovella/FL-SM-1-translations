@@ -1588,6 +1588,42 @@ translate chinese sm1cs_km004_later_03d537de:
     # mct "I just hope that Taisia doesn't charge Kellie for the return of her clothes."
     mct "我只希望泰西娅不会为了还凯莉衣服而跟她要钱。"
 
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:978
+translate chinese sm1cs_km004_later_e06e0046:
+
+    # vs "Did I just blank out for a minute, or did Taisia steal Kellie's clothes?"
+    vs "是我刚刚走神了没注意泰西娅借衣服，还是她真的把凯莉的衣服偷走了？"
+
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:650
+translate chinese sm1cs_km004_stage_79692656:
+
+    # vs "What's Montague? It is nor hand nor foot."
+    vs "蒙太古是什么？它既不是手也不是脚。"
+
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:206
+translate chinese sm1cs_km004_6fdfaeb6:
+
+    # tl "To see if this is a bannable offense, you uncivilized ogre."
+    tl "看看这是不是可处罚的违规，你这个不礼貌的食人魔。"
+
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:666
+translate chinese sm1cs_km004_stage_c13052d4:
+
+    # vs "What's in a name? That which we call a rose."
+    vs "名字有什么关系？我们称之为玫瑰的东西。"
+
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:681
+translate chinese sm1cs_km004_stage_4661a3df:
+
+    # dvh "Exquisite, Veronica."
+    dvh "精致，维罗妮卡。"
+
+translate chinese strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
+    old "Yeah, it's exciting"
+    new "是的，真令人兴奋"
+
 translate chinese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
@@ -1622,39 +1658,4 @@ translate chinese strings:
     old "I'm starting to get worried"
     new "我开始有点担心了"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:978
-translate chinese sm1cs_km004_later_e06e0046:
-
-    # vs "Did I just blank out for a minute, or did Taisia steal Kellie's clothes?"
-    vs "是我刚刚走神了没注意泰西娅借衣服，还是她真的把凯莉的衣服偷走了？"
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:650
-translate chinese sm1cs_km004_stage_79692656:
-
-    # vs "What's Montague? It is nor hand nor foot."
-    vs "What's Montague? It is nor hand nor foot."
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:206
-translate chinese sm1cs_km004_6fdfaeb6:
-
-    # tl "To see if this is a bannable offense, you uncivilized ogre."
-    tl "To see if this is a bannable offense, you uncivilized ogre."
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:666
-translate chinese sm1cs_km004_stage_c13052d4:
-
-    # vs "What's in a name? That which we call a rose."
-    vs "What's in a name? That which we call a rose."
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:681
-translate chinese sm1cs_km004_stage_4661a3df:
-
-    # dvh "Exquisite, Veronica."
-    dvh "Exquisite, Veronica."
-
-translate chinese strings:
-
-    # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
-    old "Yeah, it's exciting"
-    new "Yeah, it's exciting"
 

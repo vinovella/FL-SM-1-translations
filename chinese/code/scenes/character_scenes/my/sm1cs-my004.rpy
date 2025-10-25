@@ -116,7 +116,7 @@ translate chinese sm1cs_my004_37fb631c:
 translate chinese sm1cs_my004_8fc79e73:
 
     # mc "Stacy-"
-    mc "Stacy-"
+    mc "史黛西——"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:92
 translate chinese sm1cs_my004_370d3035:
@@ -506,7 +506,7 @@ translate chinese sm1cs_my004_cad2fd95:
 translate chinese sm1cs_my004_3a41c5e6:
 
     # sy "Yep!"
-    sy "Yep!"
+    sy "好的！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:298
 translate chinese sm1cs_my004_b497ef3f:
@@ -878,7 +878,7 @@ translate chinese sm1cs_my004_cab7607c:
 translate chinese sm1cs_my004_9c633a46:
 
     # sy "Yeah, I think she did."
-    sy "Yeah, I think she did."
+    sy "是的，我觉得她做了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:500
 translate chinese sm1cs_my004_946b7abb:
@@ -890,7 +890,7 @@ translate chinese sm1cs_my004_946b7abb:
 translate chinese sm1cs_my004_9c633a46_1:
 
     # sy "Yeah, I think she did."
-    sy "Yeah, I think she did."
+    sy "是的，我觉得她做了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:510
 translate chinese sm1cs_my004_db07abac:
@@ -962,7 +962,7 @@ translate chinese sm1cs_my004_a86e5b30:
 translate chinese sm1cs_my004_3a41c5e6_1:
 
     # sy "Yep!"
-    sy "Yep!"
+    sy "好的！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:545
 translate chinese sm1cs_my004_a09557f6:
@@ -1400,7 +1400,7 @@ translate chinese sm1cs_my004_f842086f:
 translate chinese sm1cs_my004_9c7b9eae:
 
     # my "{size=*0.6}Mmmmmmm...{/size}"
-    my "{size=*0.6}Mmmmmmm...{/size}"
+    my "{size=*0.6}嗯……{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:740
 translate chinese sm1cs_my004_b3ae8984:

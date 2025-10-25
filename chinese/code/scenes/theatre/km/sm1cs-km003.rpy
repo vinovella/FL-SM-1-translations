@@ -272,5 +272,5 @@ translate chinese sm1cs_km003_6aec3e56:
 translate chinese sm1cs_km003_68f2a5f5:
 
     # mc "Oh yeah, your two out of five-star apology. Very sincere."
-    mc "Oh yeah, your two out of five-star apology. Very sincere."
+    mc "哦对，你那两星好评的道歉。非常真诚。"
 

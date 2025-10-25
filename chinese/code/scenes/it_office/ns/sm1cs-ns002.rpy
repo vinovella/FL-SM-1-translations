@@ -811,16 +811,11 @@ translate chinese sm1cs_ns002_6ff41185:
 translate chinese strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
-    old "I don't need to know."
+    old "I don't need to know"
     new "我不需要知道"
 
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "You can tell me what happened"
     new "你可以告诉我发生了什么"
 
-translate chinese strings:
-
-    # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
-    old "I don't need to know"
-    new "I don't need to know"
 

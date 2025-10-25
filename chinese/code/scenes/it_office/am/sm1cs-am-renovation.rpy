@@ -664,6 +664,18 @@ translate chinese sm1cs_am_renovation_later_0dfc7207:
     # mc "Yeah. See ya around."
     mc "好。回头见。"
 
+# game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:233
+translate chinese sm1cs_am_renovation_later_e7545316:
+
+    # am "Fucking charley horse. Nrraaah."
+    am "他妈的抽筋。啊啊啊。"
+
+# game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:283
+translate chinese sm1cs_am_renovation_later_796e7fbc:
+
+    # mc "Another charley horse?"
+    mc "又抽筋了吗？"
+
 translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:38
@@ -675,8 +687,8 @@ translate chinese strings:
     new "别往心里去"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
-    old "I didn't think to ask."
-    new "我没想到要问。"
+    old "I didn't think to ask"
+    new "我没想到要问"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "You want to help?"
@@ -687,11 +699,11 @@ translate chinese strings:
     new "几分钟后"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Ask April what she did."
+    old "Ask April what she did"
     new "问艾普尔她做了什么"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Complain to April."
+    old "Complain to April"
     new "向艾普尔抱怨"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
@@ -699,36 +711,7 @@ translate chinese strings:
     new "撒谎"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
-    old "Promise the answer one day."
+    old "Promise the answer one day"
     new "承诺总有一天会告诉她答案"
 
-# game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:233
-translate chinese sm1cs_am_renovation_later_e7545316:
-
-    # am "Fucking charley horse. Nrraaah."
-    am "Fucking charley horse. Nrraaah."
-
-# game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:283
-translate chinese sm1cs_am_renovation_later_796e7fbc:
-
-    # mc "Another charley horse?"
-    mc "Another charley horse?"
-
-translate chinese strings:
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
-    old "I didn't think to ask"
-    new "I didn't think to ask"
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Ask April what she did"
-    new "Ask April what she did"
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Complain to April"
-    new "Complain to April"
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
-    old "Promise the answer one day"
-    new "Promise the answer one day"
 
