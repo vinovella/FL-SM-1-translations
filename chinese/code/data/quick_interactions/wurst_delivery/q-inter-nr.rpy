@@ -1,20 +1,20 @@
 ﻿# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:30
 translate chinese q_inter_nr_1_6155afa5:
 
-    # nr "Working hard or hardly working?"
-    nr "Working hard or hardly working?"
+    # nr "努力工作还是勉强工作？"
+    nr "努力工作还是勉强工作？"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:36
 translate chinese q_inter_nr_2_060a102b:
 
-    # nr "Thank god it's Friday. Am I right or am I right?"
-    nr "Thank god it's Friday. Am I right or am I right?"
+    # nr "感谢上帝今天是星期五。我说得对不对？"
+    nr "感谢上帝今天是星期五。我说得对不对？"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:42
 translate chinese q_inter_nr_3_b5d69981:
 
-    # nr "I should get back to it. These wieners won't make themselves."
-    nr "I should get back to it. These wieners won't make themselves."
+    # nr "我应该回去了。这些香肠不会自己做好。"
+    nr "我应该回去了。这些香肠不会自己做好。"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:48
 translate chinese q_inter_nr_4_499162e3:
@@ -163,8 +163,8 @@ translate chinese q_inter_nr_16_6ca5cb5f:
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:137
 translate chinese q_inter_nr_16_e60e21a4:
 
-    # mc "Thanks, Nelson."
-    mc "Thanks, Nelson."
+    # mc "谢谢，纳尔逊。"
+    mc "谢谢，纳尔逊。"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:143
 translate chinese q_inter_nr_17_3d65d379:

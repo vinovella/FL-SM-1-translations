@@ -1,20 +1,20 @@
 ﻿# game/code/data/quick_interactions/Theater/background_chars/q-inter-kw.rpy:16
 translate chinese q_inter_kw_1_a3562a96:
 
-    # mc "Hello Kai."
-    mc "Hello Kai."
+    # mc "你好，凯。"
+    mc "你好，凯。"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-kw.rpy:18
 translate chinese q_inter_kw_1_819671cd:
 
-    # kw "Good to see you, [mcname]. You need anything? How is your training coming?"
-    kw "Good to see you, [mcname]. You need anything? How is your training coming?"
+    # kw "很高兴见到你，[mcname]。需要什么吗？你的训练进展如何？"
+    kw "很高兴见到你，[mcname]。需要什么吗？你的训练进展如何？"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-kw.rpy:19
 translate chinese q_inter_kw_1_144ae6b0:
 
-    # mc "Pretty good. Bruce is a good teacher. Little rough around the edges, but fair."
-    mc "Pretty good. Bruce is a good teacher. Little rough around the edges, but fair."
+    # mc "很不错。布鲁斯是个好老师。有点粗糙，但很公平。"
+    mc "很不错。布鲁斯是个好老师。有点粗糙，但很公平。"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-kw.rpy:23
 translate chinese q_inter_kw_1_6076fd23:
