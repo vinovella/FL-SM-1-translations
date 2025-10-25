@@ -38,7 +38,7 @@ translate chinese q_inter_kw_1_5baf7573:
 translate chinese q_inter_kw_2_a18fa0b4:
 
     # kw "Mmmm."
-    kw "Mmmm."
+    kw "嗯嗯嗯。"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-kw.rpy:34
 translate chinese q_inter_kw_2_9a15bdc8:
