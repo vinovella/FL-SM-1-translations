@@ -1840,10 +1840,10 @@ translate chinese sm1cs_cw005_sauna_menu_712398b8:
     # mct "That perfect mix of tanginess and a little bit of sweat."
     mct "那完美的混合了酸味和一点汗水的味道。"
 
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1012
-translate chinese sm1cs_cw005_sauna_menu_b244197e:
+# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1013
+translate chinese sm1cs_cw005_sauna_menu_a0ab7e8b:
 
-    # mct "And her body keeps shaking whenver my nose brushes her clit."
+    # mct "And her body keeps shaking whenever my nose brushes her clit."
     mct "每当我的鼻子碰到她的阴蒂时，她的身体就会颤抖。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1013

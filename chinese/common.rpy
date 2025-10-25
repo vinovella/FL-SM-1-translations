@@ -1382,3 +1382,29 @@ translate chinese strings:
     old "Retry"
     new "重试"
 
+translate chinese strings:
+
+    # renpy/common/00accessibility.rpy:220
+    old "Voice Volume"
+    new "Voice Volume"
+
+    # renpy/common/00sync.rpy:448
+    old "Yes"
+    new "Yes"
+
+    # renpy/common/00sync.rpy:449
+    old "No"
+    new "No"
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new "Translation identifier: [identifier]"
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " translates [tl.filename]:[tl.linenumber]"
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Copied to clipboard.{/color}"
+

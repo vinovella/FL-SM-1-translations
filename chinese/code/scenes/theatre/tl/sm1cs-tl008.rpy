@@ -1123,3 +1123,9 @@ translate chinese strings:
     old "Cum in Taisia's ass"
     new "射在泰西娅屁眼里"
 
+# game/code/scenes/theatre/tl/sm1cs-tl008.rpy:364
+translate chinese sm1cs_tl008_sex_af2ca492:
+
+    # mc "Shit, Taisia!"
+    mc "Shit, Taisia!"
+
