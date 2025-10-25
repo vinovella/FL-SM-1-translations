@@ -122,7 +122,7 @@ translate chinese q_inter_kw_3_8716e425:
 translate chinese q_inter_kw_4_f76c7778:
 
     # kw "*deep breathing* It will be fine. Perfectly fine. Perfect, perfect."
-    kw "*deep breathing* It will be fine. Perfectly fine. Perfect, perfect."
+    kw "*深呼吸* 会没事的。完全没事。完美，完美。"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-kw.rpy:65
 translate chinese q_inter_kw_4_d8d8d96f:

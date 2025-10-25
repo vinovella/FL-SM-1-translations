@@ -62,7 +62,7 @@ translate chinese q_inter_dvh_4_16001f90:
 translate chinese q_inter_dvh_5_bc82c018:
 
     # dvh "Ik regisseerde echt theater in Nederland. Nu... Ik doe dit."
-    dvh "Ik regisseerde echt theater in Nederland. Nu... Ik doe dit."
+    dvh "我曾经在荷兰真正地执导戏剧。现在...我做这个。"
 
 # game/code/data/quick_interactions/Theater/q-inter-dvh.rpy:53
 translate chinese q_inter_dvh_5_8782adca:
