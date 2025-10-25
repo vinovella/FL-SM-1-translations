@@ -104,7 +104,7 @@ translate chinese q_inter_am_4_ab8fd180:
 translate chinese q_inter_am_4_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "好的。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:91
 translate chinese q_inter_am_5_669664cb:
@@ -230,7 +230,7 @@ translate chinese q_inter_am_8_2622e3ca:
 translate chinese q_inter_am_9_ee014359:
 
     # am "Hey."
-    am "Hey."
+    am "嘿。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:150
 translate chinese q_inter_am_9_43e12f09:
@@ -554,7 +554,7 @@ translate chinese q_inter_am_19_11b6828e:
 translate chinese q_inter_am_20_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "嘿。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:306
 translate chinese q_inter_am_20_be549116:
@@ -626,13 +626,13 @@ translate chinese q_inter_am_21_aadb848e:
 translate chinese q_inter_am_21_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "好的。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:343
 translate chinese q_inter_am_22_65d3c1ab:
 
     # mc "Hey April."
-    mc "Hey April."
+    mc "嘿，艾普尔。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:345
 translate chinese q_inter_am_22_a2d98c0a:
