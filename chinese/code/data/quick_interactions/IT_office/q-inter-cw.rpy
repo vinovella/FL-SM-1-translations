@@ -212,7 +212,7 @@ translate chinese q_inter_cw_9_5eeccfb2:
 translate chinese q_inter_cw_9_a61461bf:
 
     # mc "*whispers* Because of our lunch."
-    mc "*whispers* Because of our lunch."
+    mc "*低语* 因为我们的午餐。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:127
 translate chinese q_inter_cw_9_086549c6:
