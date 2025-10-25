@@ -134,13 +134,13 @@ translate chinese q_inter_km_8_5513c2a4:
 translate chinese q_inter_km_9_4f20e3d1:
 
     # km "[mcname]."
-    km "[mcname]."
+    km "[mcname]。"
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:114
 translate chinese q_inter_km_10_3dab3472:
 
     # km "Hey, [mcname]."
-    km "Hey, [mcname]."
+    km "嘿，[mcname]。"
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:115
 translate chinese q_inter_km_10_6e2dd255:

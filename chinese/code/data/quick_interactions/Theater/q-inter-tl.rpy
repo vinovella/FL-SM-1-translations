@@ -2,7 +2,7 @@
 translate chinese q_inter_tl_1_a95cfbed:
 
     # mc "Hey, Taisia."
-    mc "Hey, Taisia."
+    mc "嘿，泰西娅。"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:34
 translate chinese q_inter_tl_1_200786a0:
@@ -470,7 +470,7 @@ translate chinese q_inter_tl_18_8b9fe228:
 translate chinese q_inter_tl_18_a95cfbed:
 
     # mc "Hey, Taisia."
-    mc "Hey, Taisia."
+    mc "嘿，泰西娅。"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:263
 translate chinese q_inter_tl_19_b7bde57c:
