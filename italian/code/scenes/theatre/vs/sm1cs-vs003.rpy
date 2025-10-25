@@ -746,7 +746,7 @@ translate italian sm1cs_vs003_part3_d2f90401:
 translate italian sm1cs_vs003_part3_504e1a80:
 
     # vs "Great. I mean, unless that is too much for you."
-    vs "Great. I mean, unless that is too much for you."
+    vs "Ottimo. Voglio dire, a meno che non sia troppo per te."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:475
 translate italian sm1cs_vs003_part3_c5e92d0c:
@@ -758,91 +758,91 @@ translate italian sm1cs_vs003_part3_c5e92d0c:
 translate italian sm1cs_vs003_part3_1a749271:
 
     # mc "Wait. Veronica, are you getting cold feet?"
-    mc "Wait. Veronica, are you getting cold feet?"
+    mc "Aspetta. Veronica, ti stai tirando indietro?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:482
 translate italian sm1cs_vs003_part3_a9d1e093:
 
     # vs "Me? Never. I'm going to be a big star remember. I never back down from a challenge."
-    vs "Me? Never. I'm going to be a big star remember. I never back down from a challenge."
+    vs "Io? Mai. Diventerò una grande star ricorda. Non mi tiro mai indietro davanti a una sfida."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:485
 translate italian sm1cs_vs003_part3_72a7a008:
 
     # vs "And this, this is what I've been wanting. {w}Spontaneous stuff. Boom boom boom."
-    vs "And this, this is what I've been wanting. {w}Spontaneous stuff. Boom boom boom."
+    vs "E questo, questo è ciò che volevo. {w}Cose spontanee. Boom boom boom."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:486
 translate italian sm1cs_vs003_part3_7c078863:
 
     # vs "Your phone goes off and that means it's 'party time'."
-    vs "Your phone goes off and that means it's 'party time'."
+    vs "Il tuo telefono suona e questo significa che è 'ora di festa'."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:489
 translate italian sm1cs_vs003_part3_0fa367ed:
 
     # vs "And since we're doing it here at the theater, it's extra spicy."
-    vs "And since we're doing it here at the theater, it's extra spicy."
+    vs "E dato che lo facciamo qui al teatro, è extra piccante."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:490
 translate italian sm1cs_vs003_part3_77f0fcdd:
 
     # vs "Sex at work, right? The forbidden pleasure."
-    vs "Sex at work, right? The forbidden pleasure."
+    vs "Sesso al lavoro, giusto? Il piacere proibito."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:493
 translate italian sm1cs_vs003_part3_5cc95117:
 
     # mc "Now you're speaking my language."
-    mc "Now you're speaking my language."
+    mc "Ora parli la mia lingua."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:496
 translate italian sm1cs_vs003_part3_bec2ba77:
 
     # vs "*giggles*"
-    vs "*giggles*"
+    vs "*ridacchia*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:497
 translate italian sm1cs_vs003_part3_2474804a:
 
     # vs "How about... you direct me for this."
-    vs "How about... you direct me for this."
+    vs "Che ne dici... tu mi dirigi in questo."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:500
 translate italian sm1cs_vs003_part3_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Certo."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:506
 translate italian sm1cs_vs003_part3_e4f0750c:
 
     # vs "You really know how to get a girl going."
-    vs "You really know how to get a girl going."
+    vs "Sai davvero come far eccitare una ragazza."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:509
 translate italian sm1cs_vs003_part3_7ec5cd96:
 
     # mc "Hey who's directing who here?"
-    mc "Hey who's directing who here?"
+    mc "Ehi chi sta dirigendo chi qui?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:512
 translate italian sm1cs_vs003_part3_bd563f54:
 
     # vs "Right. So...{w} what do you want me to do?"
-    vs "Right. So...{w} what do you want me to do?"
+    vs "Giusto. Allora...{w} cosa vuoi che faccia?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:515
 translate italian sm1cs_vs003_part3_460993fd:
 
     # mc "Take off your pants, and then go to work on mine."
-    mc "Take off your pants, and then go to work on mine."
+    mc "Togliti i pantaloni, e poi mettiti al lavoro sui miei."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:516
 translate italian sm1cs_vs003_part3_65c32095:
 
     # vs "This is actually a skirt from last year's fall fashion line."
-    vs "This is actually a skirt from last year's fall fashion line."
+    vs "Questa è in realtà una gonna della linea di moda autunnale dell'anno scorso."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:519
 translate italian sm1cs_vs003_part3_63c21790:
@@ -854,19 +854,19 @@ translate italian sm1cs_vs003_part3_63c21790:
 translate italian sm1cs_vs003_part3_6da3531e:
 
     # mct "Guess she wants to direct things a bit herself."
-    mct "Guess she wants to direct things a bit herself."
+    mct "Immagino che voglia dirigere un po' le cose lei stessa."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:527
 translate italian sm1cs_vs003_part3_02f05054:
 
     # vs "Is this alright? Some good old 69ing?"
-    vs "Is this alright? Some good old 69ing?"
+    vs "Va bene così? Un bel 69 vecchio stile?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:528
 translate italian sm1cs_vs003_part3_2f2969e4:
 
     # mc "Totally. But you look a little overdressed."
-    mc "Totally. But you look a little overdressed."
+    mc "Assolutamente. Ma sembri un po' troppo vestita."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:529
 translate italian sm1cs_vs003_part3_eae8eab4:
@@ -878,55 +878,55 @@ translate italian sm1cs_vs003_part3_eae8eab4:
 translate italian sm1cs_vs003_part3_e9cb1acf:
 
     # vs "I'm sure the stud of Fetish Locator can manage just fine like this."
-    vs "I'm sure the stud of Fetish Locator can manage just fine like this."
+    vs "Sono sicura che lo stallone di Fetish Locator può cavarsela bene così."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:533
 translate italian sm1cs_vs003_part3_7488ae3e:
 
     # mc "Oh yeah."
-    mc "Oh yeah."
+    mc "Oh sì."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:537
 translate italian sm1cs_vs003_part3_e38cdc2d:
 
     # mct "It might not be how this usually goes, but she still looks sexy as hell."
-    mct "It might not be how this usually goes, but she still looks sexy as hell."
+    mct "Potrebbe non essere come va di solito, ma è comunque sexy da morire."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:538
 translate italian sm1cs_vs003_part3_88da1c7a:
 
     # mct "And I'll still get to give Veronica a lesson with my tongue."
-    mct "And I'll still get to give Veronica a lesson with my tongue."
+    mct "E riuscirò comunque a dare a Veronica una lezione con la mia lingua."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:541
 translate italian sm1cs_vs003_part3_d41b37da:
 
     # vs "Seriously though. I... you know I..."
-    vs "Seriously though. I... you know I..."
+    vs "Seriamente però. Io... sai io..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:542
 translate italian sm1cs_vs003_part3_27a3c294:
 
     # vs "Trust you, [mcname]. But this time, I think I'd like it this way."
-    vs "Trust you, [mcname]. But this time, I think I'd like it this way."
+    vs "Mi fido di te, [mcname]. Ma questa volta, penso che mi piacerebbe così."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:543
 translate italian sm1cs_vs003_part3_ebd61118:
 
     # vs "Is that cool?"
-    vs "Is that cool?"
+    vs "Va bene?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:546
 translate italian sm1cs_vs003_part3_771d1772:
 
     # mc "Cool as a cucumber, Veronica. You'd only meet up with someone on Fetish Locator if all parties are down."
-    mc "Cool as a cucumber, Veronica. You'd only meet up with someone on Fetish Locator if all parties are down."
+    mc "Fresco come un cetriolo, Veronica. Ti incontreresti con qualcuno su Fetish Locator solo se tutte le parti sono d'accordo."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:549
 translate italian sm1cs_vs003_part3_a26aa440:
 
     # vs "Great. And don't worry..."
-    vs "Great. And don't worry..."
+    vs "Ottimo. E non preoccuparti..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:555
 translate italian sm1cs_vs003_part3_de46c2f9:
@@ -944,31 +944,31 @@ translate italian sm1cs_vs003_part3_db131431:
 translate italian sm1cs_vs003_part3_b405aaaf:
 
     # vs "I'm still planning to give you a nice, firm handshake."
-    vs "I'm still planning to give you a nice, firm handshake."
+    vs "Sto ancora pianificando di darti una bella, stretta di mano ferma."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:565
 translate italian sm1cs_vs003_part3_a1f00f38:
 
     # vs "*warm breathing*"
-    vs "*warm breathing*"
+    vs "*respiro caldo*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:566
 translate italian sm1cs_vs003_part3_c00b9658:
 
     # vs "*gulps* I've talked to people. Even in this day in age, they still say a lot of big Hollywood business is just made between two people."
-    vs "*gulps* I've talked to people. Even in this day in age, they still say a lot of big Hollywood business is just made between two people."
+    vs "*deglutisce* Ho parlato con delle persone. Anche di questi tempi, dicono ancora che molti grandi affari di Hollywood si fanno solo tra due persone."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:567
 translate italian sm1cs_vs003_part3_5b96e735:
 
     # vs "And a handshake..."
-    vs "And a handshake..."
+    vs "E una stretta di mano..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:568
 translate italian sm1cs_vs003_part3_11094db0:
 
     # vs "{i}Seals{/i} the deal between them."
-    vs "{i}Seals{/i} the deal between them."
+    vs "{i}Sigilla{/i} l'accordo tra loro."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:570
 translate italian sm1cs_vs003_part3_111258e1:
@@ -980,25 +980,25 @@ translate italian sm1cs_vs003_part3_111258e1:
 translate italian sm1cs_vs003_part3_37d9e8cb:
 
     # mct "Alright, now it's my turn. Time to make the magic happen."
-    mct "Alright, now it's my turn. Time to make the magic happen."
+    mct "Bene, ora tocca a me. È ora di fare la magia."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:575
 translate italian sm1cs_vs003_part3_ba2427a3:
 
     # vs "*light moaning*"
-    vs "*light moaning*"
+    vs "*gemiti leggeri*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:576
 translate italian sm1cs_vs003_part3_02b08160:
 
     # vs "Oouhaah... {w}Nice. I've been... keeping, Mr. Slick locked up."
-    vs "Oouhaah... {w}Nice. I've been... keeping, Mr. Slick locked up."
+    vs "Oouhaah... {w}Bello. Ho tenuto... il Signor Slick chiuso."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:578
 translate italian sm1cs_vs003_part3_6b619f90:
 
     # vs "I wanted to be... *moans* {i}pumped{/i} up for this."
-    vs "I wanted to be... *moans* {i}pumped{/i} up for this."
+    vs "Volevo essere... *geme* {i}carica{/i} per questo."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:579
 translate italian sm1cs_vs003_part3_1f028ee0:
@@ -1010,37 +1010,37 @@ translate italian sm1cs_vs003_part3_1f028ee0:
 translate italian sm1cs_vs003_part3_481fbe70:
 
     # mc "Well then, how about today, I'm Mr. Slick?"
-    mc "Well then, how about today, I'm Mr. Slick?"
+    mc "Allora, che ne dici se oggi sono io il Signor Slick?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:584
 translate italian sm1cs_vs003_part3_d5aecf43:
 
     # mc "And you'll be Bubblegum."
-    mc "And you'll be Bubblegum."
+    mc "E tu sarai Bubblegum."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:589
 translate italian sm1cs_vs003_part3_5344ac00:
 
     # vs "*panting* Yes... I like it..."
-    vs "*panting* Yes... I like it..."
+    vs "*ansimante* Sì... mi piace..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:590
 translate italian sm1cs_vs003_part3_e3488746:
 
     # vs "Huaah... I love the nicknames. It will... *moans* let us talk like secret agents around the others."
-    vs "Huaah... I love the nicknames. It will... *moans* let us talk like secret agents around the others."
+    vs "Huaah... Adoro i soprannomi. Ci permetteranno... *geme* di parlare come agenti segreti in presenza degli altri."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:592
 translate italian sm1cs_vs003_part3_6984a011:
 
     # mc "Sounds perfect."
-    mc "Sounds perfect."
+    mc "Sembra perfetto."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:594
 translate italian sm1cs_vs003_part3_03fcbf72:
 
     # vs "It's not perfect till you make me moan."
-    vs "It's not perfect till you make me moan."
+    vs "Non è perfetto finché non mi fai gemere."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:595
 translate italian sm1cs_vs003_part3_7494363b:
@@ -1052,19 +1052,19 @@ translate italian sm1cs_vs003_part3_7494363b:
 translate italian sm1cs_vs003_part3_fe1819aa:
 
     # mct "Mmm. This is great. She's just soaking my tip in her mouth."
-    mct "Mmm. This is great. She's just soaking my tip in her mouth."
+    mct "Mmm. Questo è fantastico. Mi sta solo bagnando la punta in bocca."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:603
 translate italian sm1cs_vs003_part3_6deb1e45:
 
     # mct "My turn."
-    mct "My turn."
+    mct "Il mio turno."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:604
 translate italian sm1cs_vs003_part3_b11b18fc:
 
     # mc "Oh I'll make you cum. Don't worry about that."
-    mc "Oh I'll make you cum. Don't worry about that."
+    mc "Oh ti farò venire. Non preoccuparti di questo."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:607
 translate italian sm1cs_vs003_part3_a21d844c:
@@ -1076,13 +1076,13 @@ translate italian sm1cs_vs003_part3_a21d844c:
 translate italian sm1cs_vs003_part3_e34e0986:
 
     # vs "You're bigger than my vibrator."
-    vs "You're bigger than my vibrator."
+    vs "Sei più grande del mio vibratore."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:611
 translate italian sm1cs_vs003_part3_7681545d:
 
     # vs "*moans happily*"
-    vs "*moans happily*"
+    vs "*geme felice*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:614
 translate italian sm1cs_vs003_part3_1f028ee0_1:
@@ -1094,43 +1094,43 @@ translate italian sm1cs_vs003_part3_1f028ee0_1:
 translate italian sm1cs_vs003_part3_84f93152:
 
     # mct "She tastes so good, my naughty girl."
-    mct "She tastes so good, my naughty girl."
+    mct "Ha un sapore così buono, la mia ragazza birichina."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:618
 translate italian sm1cs_vs003_part3_fc9e80d3:
 
     # vs "*shocked moans*"
-    vs "*shocked moans*"
+    vs "*gemiti scioccati*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:619
 translate italian sm1cs_vs003_part3_026fb0b9:
 
     # vs "[mcname]. You're already making me so wet."
-    vs "[mcname]. You're already making me so wet."
+    vs "[mcname]. Mi stai già facendo bagnare così tanto."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:620
 translate italian sm1cs_vs003_part3_aa3c1e22:
 
     # vs "*moans* M-my... my pussy feels so good."
-    vs "*moans* M-my... my pussy feels so good."
+    vs "*geme* L-la mia... la mia figa si sente così bene."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:625
 translate italian sm1cs_vs003_part3_caf92e3d:
 
     # mc "I want to feel you with my fingers next."
-    mc "I want to feel you with my fingers next."
+    mc "Voglio sentirti con le mie dita ora."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:627
 translate italian sm1cs_vs003_part3_5469e7de:
 
     # vs "Yes. Just... don't tear my panties."
-    vs "Yes. Just... don't tear my panties."
+    vs "Sì. Solo... non strapparmi le mutandine."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:630
 translate italian sm1cs_vs003_part3_1ad1afdc:
 
     # vs "They're new. *giggles*"
-    vs "They're new. *giggles*"
+    vs "Sono nuove. *ridacchia*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:634
 translate italian sm1cs_vs003_part3_1526fea1:
@@ -1142,19 +1142,19 @@ translate italian sm1cs_vs003_part3_1526fea1:
 translate italian sm1cs_vs003_part3_750ac6d2:
 
     # vs "Maybe we should have kept them on."
-    vs "Maybe we should have kept them on."
+    vs "Forse avremmo dovuto tenerle."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:640
 translate italian sm1cs_vs003_part3_f3b3d28f:
 
     # mc "What's wrong?"
-    mc "What's wrong?"
+    mc "Cosa c'è che non va?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:643
 translate italian sm1cs_vs003_part3_5bdc63a3:
 
     # vs "Nothing. I just feel like I'm losing control."
-    vs "Nothing. I just feel like I'm losing control."
+    vs "Niente. Mi sento solo come se stessi perdendo il controllo."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:647
 translate italian sm1cs_vs003_part3_b1991f97:
@@ -1166,13 +1166,13 @@ translate italian sm1cs_vs003_part3_b1991f97:
 translate italian sm1cs_vs003_part3_5a07b2be:
 
     # vs "Come on. Enough teasing my poor pussy."
-    vs "Come on. Enough teasing my poor pussy."
+    vs "Dai. Basta stuzzicare la mia povera figa."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:649
 translate italian sm1cs_vs003_part3_22c51536:
 
     # vs "Fingerfuck my pussy, [mcname]."
-    vs "Fingerfuck my pussy, [mcname]."
+    vs "Scopami la figa con le dita, [mcname]."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:657
 translate italian sm1cs_vs003_part3_dcc72c8d:
@@ -1184,61 +1184,61 @@ translate italian sm1cs_vs003_part3_dcc72c8d:
 translate italian sm1cs_vs003_part3_6efcd97d:
 
     # vs "Nhnn... Right there."
-    vs "Nhnn... Right there."
+    vs "Nhnn... Proprio lì."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:661
 translate italian sm1cs_vs003_part3_6cf46ea1:
 
     # vs "You certainly know what you're doing."
-    vs "You certainly know what you're doing."
+    vs "Sai certamente cosa stai facendo."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:662
 translate italian sm1cs_vs003_part3_85eaf391:
 
     # mc "Haha. Fetish Locator was good for that."
-    mc "Haha. Fetish Locator was good for that."
+    mc "Haha. Fetish Locator era buono per quello."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:665
 translate italian sm1cs_vs003_part3_39ac7f27:
 
     # vs "This... this is so hot."
-    vs "This... this is so hot."
+    vs "Questo... questo è così eccitante."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:666
 translate italian sm1cs_vs003_part3_94e5a2e7:
 
     # vs "*moans*"
-    vs "*moans*"
+    vs "*geme*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:669
 translate italian sm1cs_vs003_part3_bcf1709c:
 
     # vs "Imagine if you were recording me for this."
-    vs "Imagine if you were recording me for this."
+    vs "Immagina se mi stessi registrando per questo."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:670
 translate italian sm1cs_vs003_part3_760b0290:
 
     # vs "That was a thing, too, right?"
-    vs "That was a thing, too, right?"
+    vs "Anche quella era una cosa, giusto?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:673
 translate italian sm1cs_vs003_part3_53d7f52a:
 
     # mc "Yes it was."
-    mc "Yes it was."
+    mc "Sì, lo era."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:674
 translate italian sm1cs_vs003_part3_f2d9a873:
 
     # mc "I think you're look great on camera, Veronica."
-    mc "I think you're look great on camera, Veronica."
+    mc "Penso che staresti benissimo davanti alla telecamera, Veronica."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:677
 translate italian sm1cs_vs003_part3_d6fd8d62:
 
     # vs "Haha. That's the plan silly. But... not quite like {i}this{/i}."
-    vs "Haha. That's the plan silly. But... not quite like {i}this{/i}."
+    vs "Haha. Questo è il piano sciocchino. Ma... non proprio {i}così{/i}."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:683
 translate italian sm1cs_vs003_part3_9daec6aa:
@@ -1250,7 +1250,7 @@ translate italian sm1cs_vs003_part3_9daec6aa:
 translate italian sm1cs_vs003_part3_8cf12499:
 
     # vs "My turn."
-    vs "My turn."
+    vs "Il mio turno."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:691
 translate italian sm1cs_vs003_part3_a21d844c_1:
@@ -1262,13 +1262,13 @@ translate italian sm1cs_vs003_part3_a21d844c_1:
 translate italian sm1cs_vs003_part3_a594b662:
 
     # mc "Fuck that feels so good, Veronica."
-    mc "Fuck that feels so good, Veronica."
+    mc "Cazzo si sente così bene, Veronica."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:695
 translate italian sm1cs_vs003_part3_d3686436:
 
     # mct "Damn. I really wish I was recording her. This could be a really hot scene!"
-    mct "Damn. I really wish I was recording her. This could be a really hot scene!"
+    mct "Dannazione. Vorrei davvero starla registrando. Questa potrebbe essere una scena davvero bollente!"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:696
 translate italian sm1cs_vs003_part3_afe09c72:
@@ -1280,19 +1280,19 @@ translate italian sm1cs_vs003_part3_afe09c72:
 translate italian sm1cs_vs003_part3_acd7e38a:
 
     # mc "You're so gorgeous, Veronica."
-    mc "You're so gorgeous, Veronica."
+    mc "Sei così bellissima, Veronica."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:700
 translate italian sm1cs_vs003_part3_175926a3:
 
     # mc "Even with my cock in your mouth."
-    mc "Even with my cock in your mouth."
+    mc "Anche con il mio cazzo in bocca."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:703
 translate italian sm1cs_vs003_part3_d3e1f441:
 
     # vs "*muffled laughing*"
-    vs "*muffled laughing*"
+    vs "*risata soffocata*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:706
 translate italian sm1cs_vs003_part3_c4333e5e:
@@ -1304,55 +1304,55 @@ translate italian sm1cs_vs003_part3_c4333e5e:
 translate italian sm1cs_vs003_part3_4408dea2:
 
     # mc "*heavy breathing*"
-    mc "*heavy breathing*"
+    mc "*respiro pesante*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:715
 translate italian sm1cs_vs003_part3_fe20055a:
 
     # mc "That felt incredible."
-    mc "That felt incredible."
+    mc "È stato incredibile."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:718
 translate italian sm1cs_vs003_part3_5bee36c6:
 
     # vs "You ain't seen nothing yet."
-    vs "You ain't seen nothing yet."
+    vs "Non hai ancora visto niente."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:726
 translate italian sm1cs_vs003_part3_d4856c42:
 
     # vs "Put your leg up here."
-    vs "Put your leg up here."
+    vs "Metti la gamba qui."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:730
 translate italian sm1cs_vs003_part3_e5452567:
 
     # mc "Like this."
-    mc "Like this."
+    mc "Così."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:733
 translate italian sm1cs_vs003_part3_a7b04688:
 
     # vs "Yes. And don't hold back."
-    vs "Yes. And don't hold back."
+    vs "Sì. E non trattenerti."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:734
 translate italian sm1cs_vs003_part3_75076f82:
 
     # vs "I want you to go as deep as you can in my throat."
-    vs "I want you to go as deep as you can in my throat."
+    vs "Voglio che vada il più a fondo possibile nella mia gola."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:737
 translate italian sm1cs_vs003_part3_d7527a6e:
 
     # vs "*moans* I've never done it with a real cock before."
-    vs "*moans* I've never done it with a real cock before."
+    vs "*geme* Non l'ho mai fatto con un cazzo vero prima."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:744
 translate italian sm1cs_vs003_part3_fcb0c350:
 
     # mct "Oh fuck. This position is perfect for this."
-    mct "Oh fuck. This position is perfect for this."
+    mct "Oh cazzo. Questa posizione è perfetta per questo."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:746
 translate italian sm1cs_vs003_part3_d36f3765:
@@ -1364,7 +1364,7 @@ translate italian sm1cs_vs003_part3_d36f3765:
 translate italian sm1cs_vs003_part3_fd49feb9:
 
     # mc "Veronica... tell me if it's getting too rough."
-    mc "Veronica... tell me if it's getting too rough."
+    mc "Veronica... dimmi se diventa troppo violento."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:749
 translate italian sm1cs_vs003_part3_3db874c7:
@@ -1382,19 +1382,19 @@ translate italian sm1cs_vs003_part3_7d91f41a:
 translate italian sm1cs_vs003_part3_ad148f31:
 
     # vs "*wet choking noises*"
-    vs "*wet choking noises*"
+    vs "*rumori di soffocamento umidi*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:756
 translate italian sm1cs_vs003_part3_92b53e0f:
 
     # mct "Fuck. She's taking every inch in."
-    mct "Fuck. She's taking every inch in."
+    mct "Cazzo. Sta prendendo ogni centimetro."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:757
 translate italian sm1cs_vs003_part3_dd10dd17:
 
     # mct "Her tongue is great on stage, but it's working its magic all over my cock!"
-    mct "Her tongue is great on stage, but it's working its magic all over my cock!"
+    mct "La sua lingua è fantastica sul palco, ma sta facendo la sua magia su tutto il mio cazzo!"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:759
 translate italian sm1cs_vs003_part3_01b006bd:
@@ -1406,13 +1406,13 @@ translate italian sm1cs_vs003_part3_01b006bd:
 translate italian sm1cs_vs003_part3_a141a3d8:
 
     # vs "*wet muffled moans*"
-    vs "*wet muffled moans*"
+    vs "*gemiti soffocati e umidi*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:767
 translate italian sm1cs_vs003_part3_1c15f550:
 
     # mct "Oh fuck, she tightened up!"
-    mct "Oh fuck, she tightened up!"
+    mct "Oh cazzo, si è stretta!"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:770
 translate italian sm1cs_vs003_part3_597bc7f4:
@@ -1424,165 +1424,165 @@ translate italian sm1cs_vs003_part3_597bc7f4:
 translate italian sm1cs_vs003_part3_a282b35c:
 
     # mct "She's holding me in."
-    mct "She's holding me in."
+    mct "Mi sta tenendo dentro."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:783
 translate italian sm1cs_vs003_part3_06e9a34a:
 
     # vs "Aouhaah. *coughs* Oh god."
-    vs "Aouhaah. *coughs* Oh god."
+    vs "Aouhaah. *tossisce* Oh dio."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:787
 translate italian sm1cs_vs003_part3_45c9220d:
 
     # vs "*gulp*"
-    vs "*gulp*"
+    vs "*deglutisce*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:791
 translate italian sm1cs_vs003_part3_fa3469d7:
 
     # vs "Oh fuck. That was great."
-    vs "Oh fuck. That was great."
+    vs "Oh cazzo. È stato fantastico."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:792
 translate italian sm1cs_vs003_part3_3c2d8657:
 
     # vs "I almost panicked when I felt you throbbing."
-    vs "I almost panicked when I felt you throbbing."
+    vs "Ho quasi avuto un attacco di panico quando ti ho sentito pulsare."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:793
 translate italian sm1cs_vs003_part3_5eeb3e68:
 
     # vs "I was like, no way we can clean it up if he cums on me and it gets on the floor."
-    vs "I was like, no way we can clean it up if he cums on me and it gets on the floor."
+    vs "Pensavo, non c'è modo che possiamo pulire se lui viene su di me e finisce sul pavimento."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:797
 translate italian sm1cs_vs003_part3_e36593d4:
 
     # mc "Haha. Good thinking."
-    mc "Haha. Good thinking."
+    mc "Haha. Buona idea."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:800
 translate italian sm1cs_vs003_part3_1e71ed03:
 
     # vs "I'm going to go get cleaned up."
-    vs "I'm going to go get cleaned up."
+    vs "Vado a pulirmi."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:804
 translate italian sm1cs_vs003_part3_5adeb1b4:
 
     # mc "Alright. I'll make sure Kellie doesn't crash the party again."
-    mc "Alright. I'll make sure Kellie doesn't crash the party again."
+    mc "Va bene. Mi assicurerò che Kellie non rovini di nuovo la festa."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:806
 translate italian sm1cs_vs003_part3_2f685a0d:
 
     # vs "*giggles* I don't think she'll do that again."
-    vs "*giggles* I don't think she'll do that again."
+    vs "*ridacchia* Non penso che lo farà di nuovo."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:818
 translate italian sm1cs_vs003_part3_79ad78c8:
 
     # vs "So..."
-    vs "So..."
+    vs "Allora..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:823
 translate italian sm1cs_vs003_part3_cb70afb1:
 
     # mc "So..."
-    mc "So..."
+    mc "Allora..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:826
 translate italian sm1cs_vs003_part3_d7dc281d:
 
     # vs "You... you going to set another alarm?"
-    vs "You... you going to set another alarm?"
+    vs "Tu... imposterai un altro allarme?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:830
 translate italian sm1cs_vs003_part3_bf6a2383:
 
     # mc "I did the first one. How about you set the second one?"
-    mc "I did the first one. How about you set the second one?"
+    mc "Ho impostato il primo io. Che ne dici se imposti tu il secondo?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:833
 translate italian sm1cs_vs003_part3_f174e5cd:
 
     # vs "I like that."
-    vs "I like that."
+    vs "Mi piace."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:837
 translate italian sm1cs_vs003_part3_b32ffea9:
 
     # vs "We should get back out there. Before people put two and two together."
-    vs "We should get back out there. Before people put two and two together."
+    vs "Dovremmo tornare là fuori. Prima che la gente metta insieme due più due."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:840
 translate italian sm1cs_vs003_part3_75d0d357:
 
     # mc "Totally."
-    mc "Totally."
+    mc "Assolutamente."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:846
 translate italian sm1cs_vs003_part3_33469558:
 
     # mct "That was great. I had a lot of fun with her, and she seemed to feel the same way."
-    mct "That was great. I had a lot of fun with her, and she seemed to feel the same way."
+    mct "È stato fantastico. Mi sono divertito molto con lei, e lei sembrava sentirsi allo stesso modo."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:847
 translate italian sm1cs_vs003_part3_6b69e948:
 
     # mct "Still, it seemed like she was... I don't know holding back a bit?"
-    mct "Still, it seemed like she was... I don't know holding back a bit?"
+    mct "Comunque, sembrava che lei fosse... non so trattenendosi un po'?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:849
 translate italian sm1cs_vs003_part3_07732426:
 
     # mct "But we still did it."
-    mct "But we still did it."
+    mct "Ma l'abbiamo comunque fatto."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:850
 translate italian sm1cs_vs003_part3_64257bb1:
 
     # mct "Or I guess we did stuff. Maybe pretend Fetish Locator was too much for her."
-    mct "Or I guess we did stuff. Maybe pretend Fetish Locator was too much for her."
+    mct "O immagino abbiamo fatto cose. Forse fingere che Fetish Locator fosse troppo per lei."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:853
 translate italian sm1cs_vs003_part3_e8d3a3dd:
 
     # mct "I hope not. Veronica is bubbly and cute."
-    mct "I hope not. Veronica is bubbly and cute."
+    mct "Spero di no. Veronica è vivace e carina."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:854
 translate italian sm1cs_vs003_part3_2603ac1d:
 
     # mct "And I'd hate for something to change between us."
-    mct "And I'd hate for something to change between us."
+    mct "E odio che qualcosa cambi tra noi."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:855
 translate italian sm1cs_vs003_part3_0cc62bb0:
 
     # mct "Plus, I'm sure I'll still need some acting tips if I'm going to become an actor in the group."
-    mct "Plus, I'm sure I'll still need some acting tips if I'm going to become an actor in the group."
+    mct "Inoltre, sono sicuro che avrò ancora bisogno di alcuni consigli di recitazione se diventerò un attore nel gruppo."
 
 translate italian strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:112
     old "What's wrong with my delivery?"
-    new "What's wrong with my delivery?"
+    new "Cosa c'è che non va con la mia recitazione?"
 
     # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:112
     old "Sounds good, Veronica"
-    new "Sounds good, Veronica"
+    new "Va bene, Veronica"
 
     # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:166
     old "A half an hour later"
-    new "A half an hour later"
+    new "Mezz'ora dopo"
 
     # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:186
     old "Why do we have to do it again?"
-    new "Why do we have to do it again?"
+    new "Perché dobbiamo rifarla?"
 
     # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:186
     old "Yeah, let's nail this"
-    new "Yeah, let's nail this"
+    new "Sì, facciamola perfetta"
 
