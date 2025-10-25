@@ -2,305 +2,305 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Brunette"
-    new "Brunette"
+    new "棕发"
 
     # game/code/data/constants/traits.rpy:82
     old "Blonde"
-    new "Blonde"
+    new "金发"
 
     # game/code/data/constants/traits.rpy:82
     old "Redhead"
-    new "Redhead"
+    new "红发"
 
     # game/code/data/constants/traits.rpy:82
     old "Dyed Hair"
-    new "Dyed Hair"
+    new "染发"
 
     # game/code/data/constants/traits.rpy:82
     old "Multiple Color Hair"
-    new "Multiple Color Hair"
+    new "多色发"
 
     # game/code/data/constants/traits.rpy:82
     old "Blue Hair"
-    new "Blue Hair"
+    new "蓝发"
 
     # game/code/data/constants/traits.rpy:82
     old "Green Hair"
-    new "Green Hair"
+    new "绿发"
 
     # game/code/data/constants/traits.rpy:82
     old "Platinum Hair"
-    new "Platinum Hair"
+    new "铂金发"
 
     # game/code/data/constants/traits.rpy:82
     old "Grey Hair"
-    new "Grey Hair"
+    new "灰发"
 
     # game/code/data/constants/traits.rpy:82
     old "Bald"
-    new "Bald"
+    new "秃头"
 
     # game/code/data/constants/traits.rpy:82
     old "Long Hair"
-    new "Long Hair"
+    new "长发"
 
     # game/code/data/constants/traits.rpy:82
     old "Short Hair"
-    new "Short Hair"
+    new "短发"
 
     # game/code/data/constants/traits.rpy:82
     old "Braces"
-    new "Braces"
+    new "牙套"
 
     # game/code/data/constants/traits.rpy:82
     old "Black Hair"
-    new "Black Hair"
+    new "黑发"
 
     # game/code/data/constants/traits.rpy:82
     old "Braids"
-    new "Braids"
+    new "辫子"
 
     # game/code/data/constants/traits.rpy:82
     old "Dreads"
-    new "Dreads"
+    new "脏辫"
 
     # game/code/data/constants/traits.rpy:82
     old "Afro Hair"
-    new "Afro Hair"
+    new "爆炸头"
 
     # game/code/data/constants/traits.rpy:82
     old "Curly Hair"
-    new "Curly Hair"
+    new "卷发"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Boobs"
-    new "Big Boobs"
+    new "大胸"
 
     # game/code/data/constants/traits.rpy:82
     old "Small Boobs"
-    new "Small Boobs"
+    new "小胸"
 
     # game/code/data/constants/traits.rpy:82
     old "Huge Boobs"
-    new "Huge Boobs"
+    new "巨胸"
 
     # game/code/data/constants/traits.rpy:82
     old "MILF"
-    new "MILF"
+    new "熟女"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Ass"
-    new "Big Ass"
+    new "翘臀"
 
     # game/code/data/constants/traits.rpy:82
     old "Skinny"
-    new "Skinny"
+    new "苗条"
 
     # game/code/data/constants/traits.rpy:82
     old "Curvy"
-    new "Curvy"
+    new "丰满"
 
     # game/code/data/constants/traits.rpy:82
     old "BBW"
-    new "BBW"
+    new "丰腴"
 
     # game/code/data/constants/traits.rpy:82
     old "Muscular"
-    new "Muscular"
+    new "健硕"
 
     # game/code/data/constants/traits.rpy:82
     old "Short"
-    new "Short"
+    new "矮小"
 
     # game/code/data/constants/traits.rpy:82
     old "Tall"
-    new "Tall"
+    new "高挑"
 
     # game/code/data/constants/traits.rpy:82
     old "Amputee"
-    new "Amputee"
+    new "截肢"
 
     # game/code/data/constants/traits.rpy:82
     old "Facial Piercing"
-    new "Facial Piercing"
+    new "面部穿孔"
 
     # game/code/data/constants/traits.rpy:82
     old "Nipple Piercings"
-    new "Nipple Piercings"
+    new "乳环"
 
     # game/code/data/constants/traits.rpy:82
     old "Genital Piercing"
-    new "Genital Piercing"
+    new "生殖器穿孔"
 
     # game/code/data/constants/traits.rpy:82
     old "Tattoo"
-    new "Tattoo"
+    new "纹身"
 
     # game/code/data/constants/traits.rpy:82
     old "Freckles"
-    new "Freckles"
+    new "雀斑"
 
     # game/code/data/constants/traits.rpy:82
     old "Tan lines"
-    new "Tan lines"
+    new "晒痕"
 
     # game/code/data/constants/traits.rpy:82
     old "Hairy"
-    new "Hairy"
+    new "毛发浓密"
 
     # game/code/data/constants/traits.rpy:82
     old "Trimmed"
-    new "Trimmed"
+    new "修剪"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Lips"
-    new "Big Lips"
+    new "厚唇"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Nipples"
-    new "Big Nipples"
+    new "大乳头"
 
     # game/code/data/constants/traits.rpy:82
     old "Pregnant"
-    new "Pregnant"
+    new "怀孕"
 
     # game/code/data/constants/traits.rpy:82
     old "Pale"
-    new "Pale"
+    new "白皙"
 
     # game/code/data/constants/traits.rpy:82
     old "Innocent"
-    new "Innocent"
+    new "清纯"
 
     # game/code/data/constants/traits.rpy:82
     old "Trans"
-    new "Trans"
+    new "跨性别"
 
     # game/code/data/constants/traits.rpy:82
     old "Smoking"
-    new "Smoking"
+    new "吸烟"
 
     # game/code/data/constants/traits.rpy:82
     old "Anal"
-    new "Anal"
+    new "肛交"
 
     # game/code/data/constants/traits.rpy:82
     old "Watersports"
-    new "Watersports"
+    new "水上运动"
 
     # game/code/data/constants/traits.rpy:82
     old "Creampie"
-    new "Creampie"
+    new "内射"
 
     # game/code/data/constants/traits.rpy:82
     old "Facial"
-    new "Facial"
+    new "面射"
 
     # game/code/data/constants/traits.rpy:82
     old "Group sex"
-    new "Group sex"
+    new "群交"
 
     # game/code/data/constants/traits.rpy:82
     old "Sex with women"
-    new "Sex with women"
+    new "与女性性交"
 
     # game/code/data/constants/traits.rpy:82
     old "Deep Throat"
-    new "Deep Throat"
+    new "深喉"
 
     # game/code/data/constants/traits.rpy:82
     old "Fisting"
-    new "Fisting"
+    new "拳交"
 
     # game/code/data/constants/traits.rpy:82
     old "Foot Fetish"
-    new "Foot Fetish"
+    new "恋足癖"
 
     # game/code/data/constants/traits.rpy:82
     old "Masochism"
-    new "Masochism"
+    new "受虐癖"
 
     # game/code/data/constants/traits.rpy:82
     old "Humiliation"
-    new "Humiliation"
+    new "羞辱"
 
     # game/code/data/constants/traits.rpy:82
     old "Submission"
-    new "Submission"
+    new "顺从"
 
     # game/code/data/constants/traits.rpy:82
     old "Domination"
-    new "Domination"
+    new "支配"
 
     # game/code/data/constants/traits.rpy:82
     old "Bondage"
-    new "Bondage"
+    new "束缚"
 
     # game/code/data/constants/traits.rpy:82
     old "Spanking"
-    new "Spanking"
+    new "打屁股"
 
     # game/code/data/constants/traits.rpy:82
     old "Enema"
-    new "Enema"
+    new "灌肠"
 
     # game/code/data/constants/traits.rpy:82
     old "Pet Play"
-    new "Pet Play"
+    new "宠物游戏"
 
     # game/code/data/constants/traits.rpy:82
     old "Exhibitionism"
-    new "Exhibitionism"
+    new "暴露癖"
 
     # game/code/data/constants/traits.rpy:82
     old "Cum Swallow"
-    new "Cum Swallow"
+    new "吞精"
 
     # game/code/data/constants/traits.rpy:82
     old "Pegging"
-    new "Pegging"
+    new "女性用假阳具"
 
     # game/code/data/constants/traits.rpy:82
     old "Toys"
-    new "Toys"
+    new "玩具"
 
     # game/code/data/constants/traits.rpy:82
     old "Food Play"
-    new "Food Play"
+    new "食物游戏"
 
     # game/code/data/constants/traits.rpy:82
     old "Gangbang"
-    new "Gangbang"
+    new "轮奸"
 
     # game/code/data/constants/traits.rpy:82
     old "Rough Sex"
-    new "Rough Sex"
+    new "粗暴性爱"
 
     # game/code/data/constants/traits.rpy:82
     old "Rimming"
-    new "Rimming"
+    new "舔肛"
 
     # game/code/data/constants/traits.rpy:82
     old "Felching"
-    new "Felching"
+    new "吮吸精液"
 
     # game/code/data/constants/traits.rpy:82
     old "Squirting"
-    new "Squirting"
+    new "潮吹"
 
     # game/code/data/constants/traits.rpy:82
     old "Double Penetration"
-    new "Double Penetration"
+    new "双插"
 
     # game/code/data/constants/traits.rpy:82
     old "Ass to Mouth"
-    new "Ass to Mouth"
+    new "后庭到口"
 
     # game/code/data/constants/traits.rpy:82
     old "Choking"
-    new "Choking"
+    new "窒息"
 
     # game/code/data/constants/traits.rpy:82
     old "Extreme"
-    new "Extreme"
+    new "极端"
 
