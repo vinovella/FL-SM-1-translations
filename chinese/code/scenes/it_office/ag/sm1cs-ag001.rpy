@@ -752,19 +752,19 @@ translate chinese sm1cs_ag001_314d6ac2:
 translate chinese sm1cs_ag001_9e2758b7:
 
     # mct "This certainly deserves an Adults Only rating."
-    mct "这本书绝对值得给一个"仅限成人"的评级。"
+    mct "这本书绝对值得给一个\"仅限成人\"的评级。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
 translate chinese sm1cs_ag001_8601bed3:
 
     # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
-    mct "基于这一点，我想如果"性趣探测器"没有被关闭的话，安娜可能会对它很感兴趣。"
+    mct "基于这一点，我想如果\"性趣探测器\"没有被关闭的话，安娜可能会对它很感兴趣。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:243
 translate chinese sm1cs_ag001_499c380f:
 
     # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
-    mct "我还是不该偷看的。现在我知道她有点特殊癖好，但我总不能走过去跟她说"嘿，我听说你喜欢羞辱题材的色情作品"吧。"
+    mct "我还是不该偷看的。现在我知道她有点特殊癖好，但我总不能走过去跟她说\"嘿，我听说你喜欢羞辱题材的色情作品\"吧。"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:246
 translate chinese sm1cs_ag001_30f8e87b:

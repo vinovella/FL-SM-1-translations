@@ -752,7 +752,7 @@ translate chinese q_inter_am_28_44fa84c0:
 translate chinese q_inter_am_28_780537f7:
 
     # am "What?"
-    am "What?"
+    am "什么？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:414
 translate chinese q_inter_am_28_42d668ad:

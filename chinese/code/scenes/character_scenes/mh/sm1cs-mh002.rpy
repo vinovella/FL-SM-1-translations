@@ -392,5 +392,5 @@ translate chinese sm1cs_mh002_92b73ecf:
 translate chinese sm1cs_mh002_4165b5fc:
 
     # mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
-    mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
+    mh "听起来你们一旦开始行动，就很快拨开了神秘的面纱，弄清了莉迪亚在干什么。"
 

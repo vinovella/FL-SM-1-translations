@@ -188,3 +188,14 @@
     old "Nelson Rohr"
     new "纳尔逊·罗尔"
 
+    # game/code/functions/functions.rpy:10
+    old "Young"
+    new "杨"
+
+    # game/code/functions/functions.rpy:11
+    old "Brown"
+    new "布朗"
+
+    # game/code/functions/functions.rpy:16
+    old "Chase"
+    new "蔡斯"

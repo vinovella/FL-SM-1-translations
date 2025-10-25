@@ -290,7 +290,7 @@ translate chinese q_inter_sy_25_c7b75a22:
 translate chinese q_inter_sy_26_d8f39cb8:
 
     # sy "Ugh."
-    sy "Ugh."
+    sy "呃。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:247
 translate chinese q_inter_sy_26_152d6612:

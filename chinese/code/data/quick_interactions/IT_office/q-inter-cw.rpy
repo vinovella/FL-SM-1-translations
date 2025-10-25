@@ -74,7 +74,7 @@ translate chinese q_inter_cw_4_461998a0:
 translate chinese q_inter_cw_4_f8ad994a:
 
     # mc "... What?"
-    mc "... What?"
+    mc "...什么？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:61
 translate chinese q_inter_cw_4_5b4d2caa:

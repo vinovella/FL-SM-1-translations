@@ -284,9 +284,7 @@
     old "Skipping"
     new "快进中"
 
-translate chinese strings:
-
     # game/code/renpy/screens/screens.rpy:39
     old "Music Player"
-    new "Music Player"
+    new "音乐播放器"
 

@@ -80,5 +80,5 @@ translate chinese sm1cs_dc004_404eabfc:
 translate chinese sm1cs_dc004_768b2899:
 
     # mc "But I wanted to ask you something. The other day, at coffee, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-    mc "But I wanted to ask you something. The other day, at coffee, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+    mc "其实我想问你件事。那天在咖啡店，你好像匆忙离开，发生什么事了吗？是我说错什么了吗？"
 

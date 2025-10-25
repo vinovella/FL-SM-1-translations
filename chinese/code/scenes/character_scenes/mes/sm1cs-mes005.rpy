@@ -992,7 +992,7 @@ translate chinese sm1cs_mes005_722de9bd:
 translate chinese sm1cs_mes005_85bfecbf:
 
     # "CLICK"
-    "CLICK"
+    "咔哒"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:517
 translate chinese sm1cs_mes005_58ce69f5:

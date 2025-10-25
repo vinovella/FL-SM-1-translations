@@ -1708,11 +1708,11 @@ translate chinese strings:
 translate chinese sm1cs_mas003_third_delivery_9ed10f06:
 
     # ms "Show's over, ladies."
-    ms "Show's over, ladies."
+    ms "演出结束了，女士们。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
 translate chinese sm1cs_mas003_third_delivery_7eec6586:
 
     # ms "Never mind."
-    ms "Never mind."
+    ms "算了。"
 

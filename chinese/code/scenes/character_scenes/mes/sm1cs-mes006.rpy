@@ -3092,13 +3092,13 @@ translate chinese sm1cs_mes006_water_sports_519bd721:
 translate chinese sm1cs_mes006_water_sports_64dd68df:
 
     # "Stacy and Min" "*giggling*"
-    "Stacy and Min" "*giggling*"
+    "史黛西和明" "*咯咯笑*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1565
 translate chinese sm1cs_mes006_water_sports_52007839:
 
     # "Stacy and Min" "*breathing deeply*"
-    "Stacy and Min" "*breathing deeply*"
+    "史黛西和明" "*深深吸气*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1573
 translate chinese sm1cs_mes006_water_sports_424b1dc6:
@@ -3653,8 +3653,6 @@ translate chinese strings:
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1488
     old "Maybe some other time."
     new "也许下次吧。"
-
-translate chinese strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:813
     old "I'm not going to manipulate you, Min"

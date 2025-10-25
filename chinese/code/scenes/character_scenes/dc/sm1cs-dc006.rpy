@@ -928,6 +928,13 @@ translate chinese sm1cs_dc006_at_park_adecc7f3:
     # mct "Woah... that's a lot to take in..."
     mct "哇哦...信息量有点大..."
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:505
+translate chinese sm1cs_dc006_at_park_fb7dfd2e:
+
+    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+    dc "卡拉汉警官...{w} 我知道。我到的时候正好赶上他在逃跑...{w} 我知道，长官..."
+
 translate chinese strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:436
@@ -946,15 +953,7 @@ translate chinese strings:
     old "Let her take the call"
     new "让她接电话"
 
-translate chinese strings:
-
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
     old "Show no interest in Debbie"
-    new "Show no interest in Debbie"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:505
-translate chinese sm1cs_dc006_at_park_fb7dfd2e:
-
-    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
-    dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+    new "对黛比不感兴趣"
 

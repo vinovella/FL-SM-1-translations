@@ -992,5 +992,5 @@ translate chinese sm1cs_kv003_9c5419cb:
 translate chinese sm1cs_kv003_51d06342:
 
     # kv "What's the next question?"
-    kv "What's the next question?"
+    kv "下一个问题是什么？"
 

@@ -26,7 +26,7 @@
    CODE: kv        NAME: `Kanya`        CHINESE_TRANSLATION: `康雅`         GENDER: Female             INFO: Kanya Vu
    CODE: mes       NAME: `Min`          CHINESE_TRANSLATION: `明`          GENDER: Female             INFO: Min Eun-Soo
    CODE: mh        NAME: `Lyssa`        CHINESE_TRANSLATION: `丽莎`         GENDER: Female             INFO: Melissa Harris (Lyssa)  		SPECIALTY: Trans character (has a penis). Identifies as She/Her.
-   CODE: my        NAME: `Melony`       CHINESE_TRANSLATION: `梅洛妮啊`     GENDER: Female             INFO: Melony Young			SPECIALTY: Default Name - Melony Brown. Can be Melony Young depending on game version
+   CODE: my        NAME: `Melony`       CHINESE_TRANSLATION: `梅洛妮啊`     GENDER: Female             INFO: Melony Young			SPECIALTY: Default Name - Melony Chase. Can be Melony Young depending on game version
    CODE: sy        NAME: `Stacy`        CHINESE_TRANSLATION: `史黛西`       GENDER: Female             INFO: Stacy Young
    CODE: atp       NAME: `Angela`       CHINESE_TRANSLATION: `安琪拉`        GENDER: Female             INFO: Angela Taylor Portillo
    CODE: be        NAME: `Bently`       CHINESE_TRANSLATION: `本特利`        GENDER: Female             INFO: Bently (Taisia's coworker clown)

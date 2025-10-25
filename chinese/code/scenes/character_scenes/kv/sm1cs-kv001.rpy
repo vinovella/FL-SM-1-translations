@@ -502,21 +502,10 @@ translate chinese strings:
     old "BOOK NAME"
     new "书名"
 
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
-    old "Sure, I'm interested in how a photoshoot like this works."
+
+    old "Sure, I'm interested in how a photoshoot like this works"
     new "好啊，我正想了解这类拍摄的流程"
 
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
-    old "Oh, I'll give you some space."
-    new "哦，那我就不打扰了"
-
-translate chinese strings:
-
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
-    old "Sure, I'm interested in how a photoshoot like this works"
-    new "Sure, I'm interested in how a photoshoot like this works"
-
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
     old "Oh, I'll give you some space"
-    new "Oh, I'll give you some space"
+    new "哦，那我就不打扰了"
 
