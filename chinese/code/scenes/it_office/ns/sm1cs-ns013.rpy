@@ -487,7 +487,7 @@ translate chinese sm1cs_ns013_1a2c0820:
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:350
 translate chinese sm1cs_ns013_1a2c0820_1:
 
-    # ns "哦……"
+    # ns "Oh..."
     ns "哦……"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:362

@@ -932,7 +932,6 @@ translate chinese sm1cs_dc006_at_park_adecc7f3:
 translate chinese sm1cs_dc006_at_park_fb7dfd2e:
 
     # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
-    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
     dc "卡拉汉警官...{w} 我知道。我到的时候正好赶上他在逃跑...{w} 我知道，长官..."
 
 translate chinese strings:

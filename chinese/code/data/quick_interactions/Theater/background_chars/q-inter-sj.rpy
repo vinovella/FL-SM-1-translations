@@ -1,19 +1,19 @@
 ﻿# game/code/data/quick_interactions/Theater/background_chars/q-inter-sj.rpy:15
 translate chinese q_inter_sj_1_638dccc8:
 
-    # mc "你好，苏。"
+    # mc "Hello Sue."
     mc "你好，苏。"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-sj.rpy:17
 translate chinese q_inter_sj_1_ebdd5156:
 
-    # sj "嘿，[mcname]。"
+    # sj "Hey [mcname]."
     sj "嘿，[mcname]。"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-sj.rpy:18
 translate chinese q_inter_sj_1_a2fc8d5f:
 
-    # mc "我在想有件事想问你。如果你有时间的话。"
+    # mc "I was thinking about something I wanted to ask you. If you have a moment."
     mc "我在想有件事想问你。如果你有时间的话。"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-sj.rpy:19
