@@ -14,7 +14,7 @@
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Sexy brunette fucked in a car"
-    new "性感黑发女郎在车内被干"
+    new "性感棕发女郎在车内被干"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Officer Johnson"
@@ -26,7 +26,7 @@
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Slutty redhead farmer girl gets her tight ass pounded"
-    new "骚荡的红发农家女孩的紧致翘臀被猛烈抽插"
+    new "放荡红发农家女，紧致翘臀被猛抽"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Farmhand Jon"
