@@ -1,7 +1,7 @@
 ﻿# game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:19
 translate chinese q_inter_ec_1_b7c02df1:
 
-    # mc "嘿，艾琳。"
+    # mc "Hey Eileen."
     mc "嘿，艾琳。"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:21
@@ -13,7 +13,7 @@ translate chinese q_inter_ec_1_ff301b79:
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:22
 translate chinese q_inter_ec_1_c3201eb7:
 
-    # ec "嗯，她喝了好咖啡工作效率会更高。"
+    # ec "Well she works a lot better with a good cofee."
     ec "嗯，她喝了好咖啡工作效率会更高。"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:23

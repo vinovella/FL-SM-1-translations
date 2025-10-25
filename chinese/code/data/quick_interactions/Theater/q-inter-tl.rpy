@@ -140,7 +140,7 @@ translate chinese q_inter_tl_7_5322da1f:
 translate chinese q_inter_tl_7_2161d2d2:
 
     # tl "No, they were fine... We might just want like 20 percent less of them."
-    tl "不，它们还行...我们可能只想减少20%左右。"
+    tl "不，它们还行...我们可能只想减少20%%左右。"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:101
 translate chinese q_inter_tl_7_5f276d00:
