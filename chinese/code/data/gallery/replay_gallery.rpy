@@ -86,15 +86,15 @@
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Swimsuit contest with Melony"
-    new "与梅洛妮啊的泳装比赛"
+    new "与梅洛妮的泳装比赛"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Movie night with Melony"
-    new "与梅洛妮啊的电影之夜"
+    new "与梅洛妮的电影之夜"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Dinner date with Melony"
-    new "与梅洛妮啊的晚餐约会"
+    new "与梅洛妮的晚餐约会"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Bathroom Sex with Stacy"
