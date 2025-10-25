@@ -7,14 +7,14 @@ translate chinese q_inter_cw_1_42ce3580:
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:25
 translate chinese q_inter_cw_1_6d9f70f4:
 
-    # mc "Uh, good? I think. I get along with pretty much everyone."
-    mc "Uh, good? I think. I get along with pretty much everyone."
+    # mc "呃，好？我想。我和几乎每个人都相处得很好。"
+    mc "呃，好？我想。我和几乎每个人都相处得很好。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:26
 translate chinese q_inter_cw_1_dcb4e21e:
 
-    # cw "Happy to hear that."
-    cw "Happy to hear that."
+    # cw "很高兴听到这个。"
+    cw "很高兴听到这个。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:33
 translate chinese q_inter_cw_2_7ede8939:
