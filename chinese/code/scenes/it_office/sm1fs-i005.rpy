@@ -986,7 +986,7 @@ translate chinese sm1fs_i005_85bfecbf:
 translate chinese sm1fs_i005_efeb4f53:
 
     # "Dooooooommm..."
-    "Dooooooommm..."
+    "嗵嗵嗵嗵..."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:559
 translate chinese sm1fs_i005_14c22241:

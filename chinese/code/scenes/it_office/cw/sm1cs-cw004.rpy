@@ -728,13 +728,13 @@ translate chinese sm1cs_cw004_later_95946ab3:
 translate chinese sm1cs_cw004_later_9ace64ce:
 
     # "POW!"
-    "POW!"
+    "砰！"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:444
 translate chinese sm1cs_cw004_later_fa641eec:
 
     # "KOW!"
-    "KOW!"
+    "咔哇！"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:448
 translate chinese sm1cs_cw004_later_1aa8534b:
@@ -812,7 +812,7 @@ translate chinese sm1cs_cw004_later_03fb0be2:
 translate chinese sm1cs_cw004_later_45d4b8ac:
 
     # "Click"
-    "Click"
+    "咔嗒"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:480
 translate chinese sm1cs_cw004_later_af331765:
@@ -998,7 +998,7 @@ translate chinese sm1cs_cw004_later_bf25f9c3:
 translate chinese sm1cs_cw004_later_687a136e:
 
     # "KLANK."
-    "KLANK."
+    "砰当。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:592
 translate chinese sm1cs_cw004_later_7765b292:
@@ -1034,19 +1034,19 @@ translate chinese sm1cs_cw004_later_fc48517c_1:
 translate chinese sm1cs_cw004_later_185650d9:
 
     # "FWAP."
-    "FWAP."
+    "扑哧。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:607
 translate chinese sm1cs_cw004_later_f491612f:
 
     # "BANG!!!"
-    "BANG!!!"
+    "巨响!!!"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:611
 translate chinese sm1cs_cw004_later_539662b2:
 
     # "POW."
-    "POW."
+    "砰。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:614
 translate chinese sm1cs_cw004_later_25734599:

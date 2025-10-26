@@ -764,7 +764,7 @@ translate chinese sm1cs_am007_menu_2_62e14357:
 translate chinese sm1cs_am007_menu_2_5143be6c:
 
     # mc "Frrrrrrrffffhhhh...."
-    mc "Frrrrrrrffffhhhh...."
+    mc "呼呼呼呼...."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:390
 translate chinese sm1cs_am007_menu_2_054de26c:
@@ -1658,7 +1658,7 @@ translate chinese sm1cs_am007_one_hour_later_11455b53:
 translate chinese sm1cs_am007_one_hour_later_44644e27:
 
     # am "Oh my god."
-    am "Oh my god."
+    am "天哪。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:890
 translate chinese sm1cs_am007_one_hour_later_99f62563:
@@ -1712,7 +1712,7 @@ translate chinese sm1cs_am007_one_hour_later_2f5ffd80:
 translate chinese sm1cs_am007_one_hour_later_44644e27_1:
 
     # am "Oh my god."
-    am "Oh my god."
+    am "天哪。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:912
 translate chinese sm1cs_am007_one_hour_later_8da34dec:
@@ -1748,13 +1748,13 @@ translate chinese sm1cs_am007_one_hour_later_45d4b8ac:
 translate chinese sm1cs_am007_one_hour_later_a06a0ff5:
 
     # mc "Mmmummm!"
-    mc "Mmmummm!"
+    mc "嗯嗯嗯！"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:945
 translate chinese sm1cs_am007_one_hour_later_4fce0f53:
 
     # am "*moaning*"
-    am "*moaning*"
+    am "*呻吟*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:946
 translate chinese sm1cs_am007_one_hour_later_a0b304e8:
@@ -1766,7 +1766,7 @@ translate chinese sm1cs_am007_one_hour_later_a0b304e8:
 translate chinese sm1cs_am007_one_hour_later_dc30ffd1:
 
     # am "Muah..."
-    am "Muah..."
+    am "啾..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:949
 translate chinese sm1cs_am007_one_hour_later_47eec681:
@@ -1790,13 +1790,13 @@ translate chinese sm1cs_am007_one_hour_later_30507156:
 translate chinese sm1cs_am007_one_hour_later_1f2e4625:
 
     # am "Lpppfff.... likkaah..."
-    am "Lpppfff.... likkaah..."
+    am "咕嘟嘟.... 啦卡..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:971
 translate chinese sm1cs_am007_one_hour_later_ce766102:
 
     # mc "Mmm."
-    mc "Mmm."
+    mc "嗯。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:975
 translate chinese sm1cs_am007_one_hour_later_3a028a00:
@@ -1814,7 +1814,7 @@ translate chinese sm1cs_am007_one_hour_later_4cb837c7:
 translate chinese sm1cs_am007_one_hour_later_64e42b04:
 
     # am "Ahuaah..."
-    am "Ahuaah..."
+    am "啊呜啊..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:984
 translate chinese sm1cs_am007_one_hour_later_79ca4b0a:
@@ -1874,19 +1874,19 @@ translate chinese sm1cs_am007_one_hour_later_14660504:
 translate chinese sm1cs_am007_one_hour_later_e9a4d565:
 
     # am "Mrmmm..."
-    am "Mrmmm..."
+    am "嗯嗯..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1027
 translate chinese sm1cs_am007_one_hour_later_c0e5d1f3:
 
     # am "*sniffing*"
-    am "*sniffing*"
+    am "*抽鼻子*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1028
 translate chinese sm1cs_am007_one_hour_later_16f570b6:
 
     # am "Gawd..."
-    am "Gawd..."
+    am "天哪..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1032
 translate chinese sm1cs_am007_one_hour_later_97e20b6a:
@@ -1928,13 +1928,13 @@ translate chinese sm1cs_am007_one_hour_later_094f44bc:
 translate chinese sm1cs_am007_one_hour_later_e2e529bb:
 
     # am "Mrraa-hffah..."
-    am "Mrraa-hffah..."
+    am "嗯啊—呼..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1062
 translate chinese sm1cs_am007_one_hour_later_2295c0df:
 
     # am "Ahuaah. [mcname]."
-    am "Ahuaah. [mcname]."
+    am "啊呜啊。[mcname]。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1065
 translate chinese sm1cs_am007_one_hour_later_096bcc92:
@@ -2006,7 +2006,7 @@ translate chinese sm1cs_am007_one_hour_later_efcf743d:
 translate chinese sm1cs_am007_one_hour_later_8422de45:
 
     # am "Muaah..."
-    am "Muaah..."
+    am "啾啾..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1100
 translate chinese sm1cs_am007_one_hour_later_08dfc3d1:
@@ -2024,31 +2024,31 @@ translate chinese sm1cs_am007_one_hour_later_f49fff8f:
 translate chinese sm1cs_am007_one_hour_later_a2d98c0a:
 
     # am "Mmhmm."
-    am "Mmhmm."
+    am "嗯嗯。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1109
 translate chinese sm1cs_am007_one_hour_later_2b36c4d6:
 
     # am "Glrrph..."
-    am "Glrrph..."
+    am "咕噜..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1112
 translate chinese sm1cs_am007_one_hour_later_8fafb8d5:
 
     # am "Glrurrrp...{w} Plurrph...{w}"
-    am "Glrurrrp...{w} Plurrph...{w}"
+    am "咕噜噜...{w} 啵噜啵...{w}"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1115
 translate chinese sm1cs_am007_one_hour_later_f5b3e1a9:
 
     # am "Gallphh..."
-    am "Gallphh..."
+    am "咯啵..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1121
 translate chinese sm1cs_am007_one_hour_later_eab6139b:
 
     # am "Awwahhhh!"
-    am "Awwahhhh!"
+    am "啊哇——!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1122
 translate chinese sm1cs_am007_one_hour_later_2ee33b29:
@@ -2126,7 +2126,7 @@ translate chinese sm1cs_am007_one_hour_later_bc39512b:
 translate chinese sm1cs_am007_one_hour_later_e9a4d565_1:
 
     # am "Mrmmm..."
-    am "Mrmmm..."
+    am "嗯嗯..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1160
 translate chinese sm1cs_am007_one_hour_later_7afa02a8:
@@ -2144,7 +2144,7 @@ translate chinese sm1cs_am007_one_hour_later_96328983:
 translate chinese sm1cs_am007_one_hour_later_8881f328:
 
     # am "Mmmmuh...."
-    am "Mmmmuh...."
+    am "嗯啊...."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1169
 translate chinese sm1cs_am007_one_hour_later_1c877f17:
@@ -2180,7 +2180,7 @@ translate chinese sm1cs_am007_one_hour_later_7cf65b22:
 translate chinese sm1cs_am007_one_hour_later_4fce0f53_1:
 
     # am "*moaning*"
-    am "*moaning*"
+    am "*呻吟*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1183
 translate chinese sm1cs_am007_one_hour_later_b3a91b79:
@@ -2222,13 +2222,13 @@ translate chinese sm1cs_am007_one_hour_later_12577720:
 translate chinese sm1cs_am007_one_hour_later_3a1d4cf8:
 
     # am "Owuaha..."
-    am "Owuaha..."
+    am "哦呜啊..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1200
 translate chinese sm1cs_am007_one_hour_later_37971945:
 
     # am "Fuuhhhaaak."
-    am "Fuuhhhaaak."
+    am "呼啊哈。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1203
 translate chinese sm1cs_am007_one_hour_later_b630bcda:
@@ -2246,13 +2246,13 @@ translate chinese sm1cs_am007_one_hour_later_74fc6761:
 translate chinese sm1cs_am007_one_hour_later_e5bb3850:
 
     # am "Mrrrrm-hmmm..."
-    am "Mrrrrm-hmmm..."
+    am "嗯——嗯..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1208
 translate chinese sm1cs_am007_one_hour_later_dddb4ec5:
 
     # am "Awhuaah..."
-    am "Awhuaah..."
+    am "啊呜啊..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1211
 translate chinese sm1cs_am007_one_hour_later_00172338:
@@ -2264,7 +2264,7 @@ translate chinese sm1cs_am007_one_hour_later_00172338:
 translate chinese sm1cs_am007_one_hour_later_6a72c582:
 
     # am "Ahu-huaaaah!"
-    am "Ahu-huaaaah!"
+    am "啊呼——啊啊!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1215
 translate chinese sm1cs_am007_one_hour_later_6a6bc5a5:
@@ -2288,7 +2288,7 @@ translate chinese sm1cs_am007_one_hour_later_728182d4:
 translate chinese sm1cs_am007_one_hour_later_6cd61c3f:
 
     # am "Phuaah... phew..."
-    am "Phuaah... phew..."
+    am "呼啊... 呼..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1233
 translate chinese sm1cs_am007_one_hour_later_c921a7eb:
@@ -2366,7 +2366,7 @@ translate chinese sm1cs_am007_one_hour_later_89663c6e:
 translate chinese sm1cs_am007_one_hour_later_a2d98c0a_1:
 
     # am "Mmhmm."
-    am "Mmhmm."
+    am "嗯嗯。"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1276
 translate chinese sm1cs_am007_one_hour_later_668ca335:
@@ -2486,7 +2486,7 @@ translate chinese sm1cs_am007_one_hour_later_007199ad:
 translate chinese sm1cs_am007_one_hour_later_89e61160:
 
     # am "*giggles*"
-    am "*giggles*"
+    am "*咯咯笑*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1314
 translate chinese sm1cs_am007_one_hour_later_4fc13bf5:

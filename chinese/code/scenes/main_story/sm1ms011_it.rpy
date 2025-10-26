@@ -448,6 +448,42 @@ translate chinese sm1ms011_it_continue_af16fc6f:
     # mc "No worries there, Stacy."
     mc "别担心，史黛西。"
 
+# game/code/scenes/main_story/sm1ms011_it.rpy:26
+translate chinese sm1ms011_it_039d17e4:
+
+    # sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
+    sy "好吧，这倒有道理。说到那家公司，你还没跟我多说那儿的人。"
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:113
+translate chinese sm1fs_i011_it_talk_ns_ac838888:
+
+    # mc "This girl Nari Song is pretty cute."
+    mc "那个女孩娜丽·宋挺可爱的。"
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:212
+translate chinese sm1fs_i011_it_talk_am_09c55492:
+
+    # mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
+    mc "也许吧。如果她以前和别人搭档过但没成功，可能已经厌倦了对付菜鸟了。"
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:215
+translate chinese sm1fs_i011_it_talk_am_36deca91:
+
+    # sy "Hmmmph. That's no excuse to be rude to you or the new girl."
+    sy "哼。这不是对你或新来的女孩无礼的借口。"
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:242
+translate chinese sm1ms011_it_continue_36be2754:
+
+    # sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
+    sy "不可能。大错特错，伙计。想想看。她可能是最隐秘的变态。"
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:277
+translate chinese sm1ms011_it_continue_d4b1ca4d:
+
+    # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
+    sy "太棒了。我了解你，[mcname]。无论你决定做什么，我都相信你能做得很出色。"
+
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms011_it.rpy:45
@@ -482,39 +518,4 @@ translate chinese strings:
     old "I'll see what I can do"
     new "我看看我能做什么"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:26
-translate chinese sm1ms011_it_039d17e4:
-
-    # sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
-    sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:113
-translate chinese sm1fs_i011_it_talk_ns_ac838888:
-
-    # mc "This girl Nari Song is pretty cute."
-    mc "This girl Nari Song is pretty cute."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:212
-translate chinese sm1fs_i011_it_talk_am_09c55492:
-
-    # mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
-    mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:215
-translate chinese sm1fs_i011_it_talk_am_36deca91:
-
-    # sy "Hmmmph. That's no excuse to be rude to you or the new girl."
-    sy "Hmmmph. That's no excuse to be rude to you or the new girl."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:242
-translate chinese sm1ms011_it_continue_36be2754:
-
-    # sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
-    sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:277
-translate chinese sm1ms011_it_continue_d4b1ca4d:
-
-    # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
-    sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
 

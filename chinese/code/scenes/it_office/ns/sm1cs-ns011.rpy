@@ -74,7 +74,7 @@ translate chinese sm1cs_ns011_8ce3e867:
 translate chinese sm1cs_ns011_716b86c1:
 
     # ns "Mmmmuaah."
-    ns "Mmmmuaah."
+    ns "嗯唔啊。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:74
 translate chinese sm1cs_ns011_bbd49b5c:
@@ -524,7 +524,7 @@ translate chinese sm1cs_ns011_sy_interruption_7b45bbfd:
 translate chinese sm1cs_ns011_sy_interruption_606e2d02_1:
 
     # mc "Sure."
-    mc "Sure."
+    mc "当然。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:356
 translate chinese sm1cs_ns011_sy_interruption_337188c9:

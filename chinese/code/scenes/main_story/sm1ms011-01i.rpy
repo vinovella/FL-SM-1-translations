@@ -220,6 +220,18 @@ translate chinese sm1ms011_01i_th_job_56230744:
     # sy "Your call."
     sy "你决定吧"
 
+# game/code/scenes/main_story/sm1ms011-01i.rpy:26
+translate chinese sm1ms011_01i_e3c7f05c:
+
+    # sy "There is an IT company in Crowning that is looking for new coders."
+    sy "在克朗宁有一家IT公司正在招募新的程序员。"
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:40
+translate chinese sm1ms011_01i_31340d6f:
+
+    # sy "There is an IT Company called Orbix in Crowning. They're looking for a new software engineer."
+    sy "在克朗宁有一家名为Orbix的IT公司。他们正在寻找一名新的软件工程师。"
+
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms011-01i.rpy:32
@@ -238,15 +250,4 @@ translate chinese strings:
     old "I'll think about it"
     new "我会考虑的"
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:26
-translate chinese sm1ms011_01i_e3c7f05c:
-
-    # sy "There is an IT company in Crowning that is looking for new coders."
-    sy "There is an IT company in Crowning that is looking for new coders."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:40
-translate chinese sm1ms011_01i_31340d6f:
-
-    # sy "There is an IT Company called Orbix in Crowning. They're looking for a new software engineer."
-    sy "There is an IT Company called Orbix in Crowning. They're looking for a new software engineer."
 

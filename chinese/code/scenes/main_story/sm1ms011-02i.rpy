@@ -296,11 +296,11 @@ translate chinese sm1ms011_02i_e0d93906:
 translate chinese sm1ms011_02i_135ba797:
 
     # mc "Hahah. We'll see."
-    mc "Hahah. We'll see."
+    mc "哈哈。咱们拭目以待。"
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:112
 translate chinese sm1ms011_02i_d8e756d5:
 
     # sy "But I'm sure if you want to get one of these actresses to join us, you'll have to get on stage yourself."
-    sy "But I'm sure if you want to get one of these actresses to join us, you'll have to get on stage yourself."
+    sy "但我敢肯定，如果你想让这些女演员中的一位加入我们，你得亲自上台。"
 

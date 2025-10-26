@@ -668,17 +668,17 @@ translate chinese sm1ms017_end_298609cd:
 translate chinese sm1ms017_317bedb5:
 
     # mc "What will we do if Melony comes back?"
-    mc "What will we do if Melony comes back?"
+    mc "如果梅洛妮回来了我们怎么办？"
 
 # game/code/scenes/main_story/sm1ms017.rpy:415
 translate chinese sm1ms017_869ad7f6:
 
     # mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
-    mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
+    mc "嗯，如果妈妈在两条街区范围内，她肯定听到你高潮了。"
 
 # game/code/scenes/main_story/sm1ms017.rpy:451
 translate chinese sm1ms017_f46b669d_1:
 
     # mc "*chuckles*"
-    mc "*chuckles*"
+    mc "*咯咯笑*"
 

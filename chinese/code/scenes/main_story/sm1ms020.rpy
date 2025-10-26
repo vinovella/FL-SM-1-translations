@@ -1276,6 +1276,12 @@ translate chinese sm1ms020_cheers_ebd5fe58:
     # sy "Alright, let's get the check and then get out of here."
     sy "行了，咱们结账然后赶紧离开这儿吧。"
 
+# game/code/scenes/main_story/sm1ms020.rpy:175
+translate chinese sm1ms020_0046f9d0:
+
+    # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+    my "我负责在投资者和画廊之间联络，发掘并推荐新艺术家展示作品..."
+
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms020.rpy:4
@@ -1302,9 +1308,5 @@ translate chinese strings:
     old "To no more manual labor!"
     new "为再也不用干体力活干杯！"
 
-# game/code/scenes/main_story/sm1ms020.rpy:175
-translate chinese sm1ms020_0046f9d0:
 
-    # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
-    my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
 

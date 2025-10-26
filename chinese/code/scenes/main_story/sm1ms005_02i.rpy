@@ -52,6 +52,12 @@ translate chinese sm1ms005_02i_db837775:
     # mc "I think we slow it down and have some of that romantic passion."
     mc "我们可以慢点来，来点浪漫的激情。"
 
+# game/code/scenes/main_story/sm1ms005_02i.rpy:43
+translate chinese sm1ms005_02i_5ddbcfce:
+
+    # sy "Alright. Let's do it."
+    sy "好吧。我们开始吧。"
+
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms005_02i.rpy:13
@@ -66,9 +72,4 @@ translate chinese strings:
     old "Love Making"
     new "温柔的做爱"
 
-# game/code/scenes/main_story/sm1ms005_02i.rpy:43
-translate chinese sm1ms005_02i_5ddbcfce:
-
-    # sy "Alright. Let's do it."
-    sy "Alright. Let's do it."
 

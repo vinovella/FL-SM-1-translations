@@ -232,6 +232,12 @@ translate chinese sm1ms002_continue_convo_3a6e7871:
     # mct "Gah!"
     mct "哈！"
 
+# game/code/scenes/main_story/sm1ms002.rpy:59
+translate chinese sm1ms002_4f8bfe43:
+
+    # mc "I haven't started cutting myself yet."
+    mc "我还没开始割自己的手。"
+
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms002.rpy:74
@@ -242,9 +248,4 @@ translate chinese strings:
     old "Start job in Theater"
     new "开始在剧院工作"
 
-# game/code/scenes/main_story/sm1ms002.rpy:59
-translate chinese sm1ms002_4f8bfe43:
-
-    # mc "I haven't started cutting myself yet."
-    mc "I haven't started cutting myself yet."
 

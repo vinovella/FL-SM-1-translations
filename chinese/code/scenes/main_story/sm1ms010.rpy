@@ -1175,48 +1175,25 @@ translate chinese strings:
     new "这是假装的，还是真的？"
 
     # game/code/scenes/main_story/sm1ms010.rpy:106
-    old "Yeah, me too."
-    new "是啊，我也是。"
+    old "Yeah, me too"
+    new "嗯，我也是"
 
     # game/code/scenes/main_story/sm1ms010.rpy:189
     old "Do you really want to know?"
     new "你是真想知道吗？"
 
     # game/code/scenes/main_story/sm1ms010.rpy:189
-    old "She's doing fine."
-    new "她过得很好。"
+    old "She's doing fine"
+    new "她过得不错"
 
-    # game/code/scenes/main_story/sm1ms010.rpy:337
-    old "Kiss her again and continue."
-    new "再次亲吻她，然后继续。"
+    # game/code/scenes/main_story/sm1ms010.rpy:338
+    old "Kiss her again and continue"
+    new "再吻她一次并继续"
 
-    # game/code/scenes/main_story/sm1ms010.rpy:337
-    old "Stop things from going further."
-    new "阻止事情继续发展。"
-
-    # game/code/scenes/main_story/sm1ms010.rpy:491
-    old "Knock yourself out."
-    new "请自便。"
+    # game/code/scenes/main_story/sm1ms010.rpy:338
+    old "Stop things from going further"
+    new "阻止事情进一步发展"
 
     # game/code/scenes/main_story/sm1ms010.rpy:491
     old "No thanks (Lock off Foot Fetish Content)"
     new "不了，谢谢（关闭恋足癖内容）"
-
-translate chinese strings:
-
-    # game/code/scenes/main_story/sm1ms010.rpy:106
-    old "Yeah, me too"
-    new "Yeah, me too"
-
-    # game/code/scenes/main_story/sm1ms010.rpy:189
-    old "She's doing fine"
-    new "She's doing fine"
-
-    # game/code/scenes/main_story/sm1ms010.rpy:338
-    old "Kiss her again and continue"
-    new "Kiss her again and continue"
-
-    # game/code/scenes/main_story/sm1ms010.rpy:338
-    old "Stop things from going further"
-    new "Stop things from going further"
-

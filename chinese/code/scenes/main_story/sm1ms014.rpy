@@ -1048,6 +1048,12 @@ translate chinese sm1ms014_after_montage_39113f01:
     # mct "But, there's more that needs doing."
     mct "但还有更多事情要做。"
 
+# game/code/scenes/main_story/sm1ms014.rpy:186
+translate chinese sm1ms014_4834ec4b:
+
+    # sy "Uhm, yeah... no internet nudes of me..."
+    sy "嗯，嗯...别在网上发我的裸照..."
+
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms014.rpy:546
@@ -1058,9 +1064,5 @@ translate chinese strings:
     old "You spent $300 on renovation equipment"
     new "你在装修设备上花了$300 "
 
-# game/code/scenes/main_story/sm1ms014.rpy:186
-translate chinese sm1ms014_4834ec4b:
 
-    # sy "Uhm, yeah... no internet nudes of me..."
-    sy "Uhm, yeah... no internet nudes of me..."
 

@@ -1192,6 +1192,12 @@ translate chinese sm1cs_mes007_continue_d7ba34e7:
     # mes "Until next time."
     mes "下次见。"
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:291
+translate chinese sm1cs_mes007_5b463004:
+
+    # mc "I know it's going to be great."
+    mc "我知道会很棒的。"
+
 translate chinese strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:64
@@ -1254,9 +1260,4 @@ translate chinese strings:
     old "Cum on her face and boobs"
     new "射在她脸上和胸部"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:291
-translate chinese sm1cs_mes007_5b463004:
-
-    # mc "I know it's going to be great."
-    mc "我知道会很棒的。"
 

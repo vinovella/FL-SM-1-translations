@@ -98,7 +98,7 @@ translate chinese q_inter_my_4_e9a02453:
 translate chinese q_inter_my_5_b6c49741:
 
     # my "Mmmmmm..."
-    my "Mmmmmm..."
+    my "嗯嗯嗯嗯..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:81
 translate chinese q_inter_my_5_f2050c60:

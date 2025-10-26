@@ -518,7 +518,7 @@ translate chinese q_inter_ns_23_97fe8f84:
 translate chinese q_inter_ns_23_2e9d798c:
 
     # mc "No. And we gotta be careful, Nari."
-    mc "No. And we gotta be careful, Nari."
+    mc "不。我们得小心点，娜丽。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:323
 translate chinese q_inter_ns_23_708583d2:

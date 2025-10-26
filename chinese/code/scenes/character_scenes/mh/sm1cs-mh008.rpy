@@ -854,7 +854,7 @@ translate chinese sm1ms_mh008_game_c904ccf1:
 translate chinese sm1ms_mh008_game_8a88410b:
 
     # "Bang. Bang. Bang."
-    "Bang. Bang. Bang."
+    "砰。砰。砰。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:478
 translate chinese sm1ms_mh008_game_8701f4f1:
@@ -878,7 +878,7 @@ translate chinese sm1ms_mh008_game_b0f92f45:
 translate chinese sm1ms_mh008_game_8a88410b_1:
 
     # "Bang. Bang. Bang."
-    "Bang. Bang. Bang."
+    "砰。砰。砰。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:492
 translate chinese sm1ms_mh008_game_b8b01170:

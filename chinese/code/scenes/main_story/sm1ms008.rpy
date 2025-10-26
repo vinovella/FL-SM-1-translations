@@ -868,6 +868,48 @@ translate chinese sm1ms008_after_choice_fcbd7d08:
     # sy "Yeah, you too. We'll be in touch as soon as we get the camera."
     sy "是啊，我也是。我们一拿到相机就联系你。"
 
+# game/code/scenes/main_story/sm1ms008.rpy:140
+translate chinese sm1ms008_4b4bda9d:
+
+    # sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+    sy "还有一个请求。有点奇怪。他们想要女孩是红头发。所以[mcname]挑了这个假发。"
+
+# game/code/scenes/main_story/sm1ms008.rpy:221
+translate chinese sm1ms008_special_971cdae2:
+
+    # mc "Well, we're together now. That's the important part."
+    mc "嗯，我们现在在一起就好。这才是最重要的。"
+
+# game/code/scenes/main_story/sm1ms008.rpy:380
+translate chinese sm1ms008_after_choice_c7b2de42:
+
+    # kv "Alright Stacy, why don't you give me some poses."
+    kv "好吧史黛西，给我摆几个姿势吧。"
+
+# game/code/scenes/main_story/sm1ms008.rpy:430
+translate chinese sm1ms008_after_choice_afa6b554:
+
+    # mc "Wait, don't you have any cameras we might need, Kanya?"
+    mc "等等，卡尼亚，你不是有我们可能需要的相机吗？"
+
+# game/code/scenes/main_story/sm1ms008.rpy:455
+translate chinese sm1ms008_after_choice_9090b1fc:
+
+    # sy "I'm thinking about the extra work we'll have to do to get this super camera."
+    sy "我在考虑为了弄到这台高级相机我们还得额外做多少工作。"
+
+# game/code/scenes/main_story/sm1ms008.rpy:482
+translate chinese sm1ms008_after_choice_6805a231:
+
+    # sy "Haha. Good thing that's not [mcname]'s motto."
+    sy "哈哈。幸好那不是[mcname]的座右铭。"
+
+# game/code/scenes/main_story/sm1ms008.rpy:498
+translate chinese sm1ms008_after_choice_43fefb83:
+
+    # kv "Got it, let me give you my number."
+    kv "知道了，让我把我的号码给你。"
+
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms008.rpy:10
@@ -875,66 +917,14 @@ translate chinese strings:
     new "在摄影棚"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "You should stick with red hair."
+    old "You should stick with red hair"
     new "你应该留一头红发"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "I think it will do nicely for the scene."
+    old "I think it will do nicely for the scene"
     new "我觉得这样很适合我们的戏"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I'm glad it's temporary"
     new "我很高兴这只是暂时的"
-
-# game/code/scenes/main_story/sm1ms008.rpy:140
-translate chinese sm1ms008_4b4bda9d:
-
-    # sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-    sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-
-# game/code/scenes/main_story/sm1ms008.rpy:221
-translate chinese sm1ms008_special_971cdae2:
-
-    # mc "Well, we're together now. That's the important part."
-    mc "Well, we're together now. That's the important part."
-
-# game/code/scenes/main_story/sm1ms008.rpy:380
-translate chinese sm1ms008_after_choice_c7b2de42:
-
-    # kv "Alright Stacy, why don't you give me some poses."
-    kv "Alright Stacy, why don't you give me some poses."
-
-# game/code/scenes/main_story/sm1ms008.rpy:430
-translate chinese sm1ms008_after_choice_afa6b554:
-
-    # mc "Wait, don't you have any cameras we might need, Kanya?"
-    mc "Wait, don't you have any cameras we might need, Kanya?"
-
-# game/code/scenes/main_story/sm1ms008.rpy:455
-translate chinese sm1ms008_after_choice_9090b1fc:
-
-    # sy "I'm thinking about the extra work we'll have to do to get this super camera."
-    sy "I'm thinking about the extra work we'll have to do to get this super camera."
-
-# game/code/scenes/main_story/sm1ms008.rpy:482
-translate chinese sm1ms008_after_choice_6805a231:
-
-    # sy "Haha. Good thing that's not [mcname]'s motto."
-    sy "Haha. Good thing that's not [mcname]'s motto."
-
-# game/code/scenes/main_story/sm1ms008.rpy:498
-translate chinese sm1ms008_after_choice_43fefb83:
-
-    # kv "Got it, let me give you my number."
-    kv "Got it, let me give you my number."
-
-translate chinese strings:
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "You should stick with red hair"
-    new "You should stick with red hair"
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "I think it will do nicely for the scene"
-    new "I think it will do nicely for the scene"
 

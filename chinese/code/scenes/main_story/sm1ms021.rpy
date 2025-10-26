@@ -638,11 +638,11 @@ translate chinese sm1ms021_3829caaa:
 translate chinese sm1ms021_f93fec35:
 
     # mc "You're talking about my dick, right?"
-    mc "You're talking about my dick, right?"
+    mc "你是在说我的小弟弟，对吧？"
 
 # game/code/scenes/main_story/sm1ms021.rpy:112
 translate chinese sm1ms021_1092c087:
 
     # sy "And with Mom around, it's been just a little bit more hectic."
-    sy "And with Mom around, it's been just a little bit more hectic."
+    sy "而且有妈妈在身边，事情就要忙乱一些。"
 

@@ -584,17 +584,17 @@ translate chinese sm1ms004_fcf11b81:
 translate chinese sm1ms004_6ca11396:
 
     # arj "Never mind. It doesn't matter."
-    arj "Never mind. It doesn't matter."
+    arj "没事了。无所谓。"
 
 # game/code/scenes/main_story/sm1ms004.rpy:171
 translate chinese sm1ms004_b80a46ec:
 
     # mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-    mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+    mc "如果你要告诉史黛西，你可能会想说得好听点。她对这一切很乐观，我不想让她失去那种乐观。"
 
 # game/code/scenes/main_story/sm1ms004.rpy:266
 translate chinese sm1ms004_738d94cc:
 
     # mct "Maybe this isn't completely fucked after all."
-    mct "Maybe this isn't completely fucked after all."
+    mct "也许事情并没有完全糟透。"
 
