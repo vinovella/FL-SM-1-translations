@@ -542,341 +542,341 @@ translate chinese sm1ms025_1c71b1bf:
 translate chinese sm1ms025_6cac701a:
 
     # mc "*ahem* Sure."
-    mc "*ahem* Sure."
+    mc "*清嗓子* 当然有时间。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:241
 translate chinese sm1ms025_04386d29:
 
     # sy "All of those... {i}fake{/i} client orders were never going to make us into a successful porn studio."
-    sy "All of those... {i}fake{/i} client orders were never going to make us into a successful porn studio."
+    sy "{i}假{/i}客户下的那些订单...根本不可能让我们的色情工作室取得成功。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:242
 translate chinese sm1ms025_9e6e0e4e:
 
     # sy "AmRose was ordering one-off amateur scenes. Stuff that everyone can do with a camera, bedroom, and their significant other."
-    sy "AmRose was ordering one-off amateur scenes. Stuff that everyone can do with a camera, bedroom, and their significant other."
+    sy "爱洛丝订的都是一次性的业余片段。那种东西随便谁有个相机、再来间卧室，和自己的伴侣就都能拍出来。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:245
 translate chinese sm1ms025_7f1bb5f5:
 
     # sy "We have to do better than that."
-    sy "We have to do better than that."
+    sy "我们必须做得比这更好才行。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:246
 translate chinese sm1ms025_b3ad27c6:
 
     # sy "If we don't grow, we're going to die!"
-    sy "If we don't grow, we're going to die!"
+    sy "要是我们不发展壮大，迟早会做不下去的！"
 
 # game/code/scenes/main_story/sm1ms025.rpy:248
 translate chinese sm1ms025_1929e043:
 
     # mc "Yeah, so what are you thinking?"
-    mc "Yeah, so what are you thinking?"
+    mc "是啊，那你有什么想法？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:252
 translate chinese sm1ms025_3f7c0ef4:
 
     # sy "We dream big!"
-    sy "We dream big!"
+    sy "我们要大胆畅想！"
 
 # game/code/scenes/main_story/sm1ms025.rpy:253
 translate chinese sm1ms025_b5a16977:
 
     # sy "I'm talking about making some big epic movie."
-    sy "I'm talking about making some big epic movie."
+    sy "我是说，我们要拍一部宏大的史诗级电影。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:254
 translate chinese sm1ms025_6c9926f9:
 
     # sy "With all the tits and ass we can put in the middle."
-    sy "With all the tits and ass we can put in the middle."
+    sy "里面要尽可能多地展现那些性感的胸部和臀部镜头。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:256
 translate chinese sm1ms025_a08f559f:
 
     # mc "A porn slash amazing movie sandwich."
-    mc "A porn slash amazing movie sandwich."
+    mc "你是说做成A片和神级大片的合体。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:259
 translate chinese sm1ms025_cb7a4cfb:
 
     # sy "Bingo."
-    sy "Bingo."
+    sy "答对了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:260
 translate chinese sm1ms025_c419f19b:
 
     # sy "But I've been racking my brain trying to figure out some settings and themes to make our first storylines."
-    sy "But I've been racking my brain trying to figure out some settings and themes to make our first storylines."
+    sy "但我一直在绞尽脑汁，想找些合适的场景和主题，来构建我们最初的故事线。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:262
 translate chinese sm1ms025_3d500226:
 
     # mc "Storylines as in plural?"
-    mc "Storylines as in plural?"
+    mc "你说的故事线，还不止一个啊？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:266
 translate chinese sm1ms025_23c405e6:
 
     # sy "Well yeah, that way we can have a Plan A, and a Plan B."
-    sy "Well yeah, that way we can have a Plan A, and a Plan B."
+    sy "对啊，这样我们就能有个A计划，还有个B计划。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:267
 translate chinese sm1ms025_7f120edd:
 
     # sy "And if we're lucky, we get to make both."
-    sy "And if we're lucky, we get to make both."
+    sy "要是运气好，说不定两个计划我们都能拍。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:268
 translate chinese sm1ms025_c704f7ab:
 
     # sy "Do you have any ideas?"
-    sy "Do you have any ideas?"
+    sy "你有什么想法吗？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:270
 translate chinese sm1ms025_77975f23:
 
     # mc "Mmmm."
-    mc "Mmmm."
+    mc "嗯..."
 
 # game/code/scenes/main_story/sm1ms025.rpy:271
 translate chinese sm1ms025_b12dc702:
 
     # mc "What about pirates?"
-    mc "What about pirates?"
+    mc "海盗题材怎么样？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:275
 translate chinese sm1ms025_1fc9bce3:
 
     # sy "Pirates? Like internet hackers?"
-    sy "Pirates? Like internet hackers?"
+    sy "海盗？是指网络黑客那种吗？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:277
 translate chinese sm1ms025_c7323c1a:
 
     # mc "No no. I mean like swords and sails pirates."
-    mc "No no. I mean like swords and sails pirates."
+    mc "不是。我是指那种身挎长剑、扬帆起航的海盗。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:278
 translate chinese sm1ms025_30464acc:
 
     # mc "Wooden ships with great masts and flowing sails."
-    mc "Wooden ships with great masts and flowing sails."
+    mc "有一条木船，上面有高高的桅杆和飘扬的船帆。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:281
 translate chinese sm1ms025_d9ca0802:
 
     # sy "Oooh, and sexy wenches."
-    sy "Oooh, and sexy wenches."
+    sy "哦，还有性感的女海盗。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:282
 translate chinese sm1ms025_4f8c2d3e:
 
     # sy "I see it now."
-    sy "I see it now."
+    sy "我能想象出那个画面了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:283
 translate chinese sm1ms025_1d1d3070:
 
     # sy "And pirate stories are usually pretty simple."
-    sy "And pirate stories are usually pretty simple."
+    sy "而且海盗题材的故事通常都比较简单。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:285
 translate chinese sm1ms025_ce3d315c:
 
     # mc "Usually. We want good, simple, but not like super simple."
-    mc "Usually. We want good, simple, but not like super simple."
+    mc "通常是这样。我们要的是既好又简单的故事，但又不能太简单。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:289
 translate chinese sm1ms025_329671a5:
 
     # sy "I'm sure we can come up with something."
-    sy "I'm sure we can come up with something."
+    sy "我们肯定能想出合适的故事来。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:290
 translate chinese sm1ms025_82966127:
 
     # sy "Any other storylines floating around in that noggin of yours?"
-    sy "Any other storylines floating around in that noggin of yours?"
+    sy "你这脑子里还有没有其他的故事线啊？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:292
 translate chinese sm1ms025_42b5928b:
 
     # mc "Mmmmm."
-    mc "Mmmmm."
+    mc "嗯..."
 
 # game/code/scenes/main_story/sm1ms025.rpy:293
 translate chinese sm1ms025_3c3da6a2:
 
     # mc "Sci-Fi has been making a big splash recently."
-    mc "Sci-Fi has been making a big splash recently."
+    mc "最近科幻题材不是很火嘛。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:297
 translate chinese sm1ms025_cebd6514:
 
     # sy "Have we been watching different movies?"
-    sy "Have we been watching different movies?"
+    sy "我们看的电影不一样吗？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:299
 translate chinese sm1ms025_081b75b3:
 
     # mc "Hahah."
-    mc "Hahah."
+    mc "哈哈。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:300
 translate chinese sm1ms025_bc551d1b:
 
     # mc "Not so much movies, but shows."
-    mc "Not so much movies, but shows."
+    mc "倒不是电影，主要是电视剧。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:301
 translate chinese sm1ms025_4893c190:
 
     # mc "Quiet Decks, Last Space, Killbot, Strange New Planets."
-    mc "Quiet Decks, Last Space, Killbot, Strange New Planets."
+    mc "《寂静甲板》《最后的太空》《杀手机器人》《奇异新行星》。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:302
 translate chinese sm1ms025_cf77054b:
 
     # mc "Us space nerds have been eating pretty well."
-    mc "Us space nerds have been eating pretty well."
+    mc "我们这些太空迷最近可有的看了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:305
 translate chinese sm1ms025_50ea7dc7:
 
     # sy "And are said nerds horny enough to want to buy a Star Porn?"
-    sy "And are said nerds horny enough to want to buy a Star Porn?"
+    sy "那这些太空迷会饥渴到想买一部太空色情片吗？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:307
 translate chinese sm1ms025_310a3a45:
 
     # mc "Oh totally. I think everyone fantasizes about being Captain Curk or Lieutenant Commander Wolf and exploring sexy new alien pussies."
-    mc "Oh totally. I think everyone fantasizes about being Captain Curk or Lieutenant Commander Wolf and exploring sexy new alien pussies."
+    mc "当然会啊。我觉得每个人都幻想过自己是柯克船长或者沃尔夫中校，去探索那些性感外星女人的身体。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:311
 translate chinese sm1ms025_969f73ff:
 
     # sy "I don't know either of those two names."
-    sy "I don't know either of those two names."
+    sy "这两个名字我都没听过。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:315
 translate chinese sm1ms025_eb2ae269:
 
     # mc "We're going to have to do some streaming."
-    mc "We're going to have to do some streaming."
+    mc "那我们得去刷几部剧补补了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:318
 translate chinese sm1ms025_d28348b7:
 
     # sy "Uh, maybe later."
-    sy "Uh, maybe later."
+    sy "呃，以后再说吧。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:319
 translate chinese sm1ms025_2a9ccf3c:
 
     # sy "I trust you to help flesh out the basics of our space opera porn extravaganza."
-    sy "I trust you to help flesh out the basics of our space opera porn extravaganza."
+    sy "我相信你能帮我们完善这部太空歌剧式色情大片的基本框架。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:322
 translate chinese sm1ms025_6651ab87:
 
     # mc "Alright."
-    mc "Alright."
+    mc "好的。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:325
 translate chinese sm1ms025_ee35a1e2:
 
     # sy "Well, that is good. Two concepts gives us some freedom of how we want to run the show."
-    sy "Well, that is good. Two concepts gives us some freedom of how we want to run the show."
+    sy "嗯，这样就好。有两个概念，我们在运作的时候就能有更多自由度了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:326
 translate chinese sm1ms025_ba1ffc05:
 
     # sy "So you keep thinking up the concepts, and we should both figure out how we're going to get back at AmRose."
-    sy "So you keep thinking up the concepts, and we should both figure out how we're going to get back at AmRose."
+    sy "所以你继续琢磨这些概念，我们俩也得想想怎么报复爱洛丝。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:330
 translate chinese sm1ms025_78918d09:
 
     # mc "Why don't you let me handle that?"
-    mc "Why don't you let me handle that?"
+    mc "不如这事就交给我来处理吧？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:331
 translate chinese sm1ms025_f248d4d6:
 
     # mc "I don't want you going all 'Man on Fire' on her."
-    mc "I don't want you going all 'Man on Fire' on her."
+    mc "我可不想你发疯似的报复她。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:337
 translate chinese sm1ms025_a0f6fc60:
 
     # mc "And gave it back."
-    mc "And gave it back."
+    mc "后来也还你了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:341
 translate chinese sm1ms025_48b13a39:
 
     # sy "Okay. I guess I can let you be lead agent on this."
-    sy "Okay. I guess I can let you be lead agent on this."
+    sy "好吧。那我姑且让你当这次行动的负责人。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:342
 translate chinese sm1ms025_23c8b68a:
 
     # sy "Can we at least have her on her knees, begging for our forgiveness at one point?"
-    sy "Can we at least have her on her knees, begging for our forgiveness at one point?"
+    sy "那至少能不能让我看到她跪在地上、求我们原谅的场面啊？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:346
 translate chinese sm1ms025_48abd308:
 
     # mc "We'll have to see."
-    mc "We'll have to see."
+    mc "那得看情况。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:347
 translate chinese sm1ms025_f46cb96f:
 
     # mc "What AmRose did...{w} Well, she did it for a {b}good{/b} reason."
-    mc "What AmRose did...{w} Well, she did it for a {b}good{/b} reason."
+    mc "爱洛丝做那些事...{w}其实，她是有{b}正当{/b}理由的。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:348
 translate chinese sm1ms025_156d8b70:
 
     # mc "And I'm not going to give up my relationship with her unless it's absolutely necessary."
-    mc "And I'm not going to give up my relationship with her unless it's absolutely necessary."
+    mc "除非万不得已，否则我不想放弃和她的关系。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:352
 translate chinese sm1ms025_cd9c6a75:
 
     # sy "Understood, Special Agent Young."
-    sy "Understood, Special Agent Young."
+    sy "明白了，杨特工。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:353
 translate chinese sm1ms025_139a806e:
 
     # sy "Well, we should talk soon about the concepts for the two films."
-    sy "Well, we should talk soon about the concepts for the two films."
+    sy "嗯，我们应该尽快聊聊这两部电影的具体概念。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:354
 translate chinese sm1ms025_bc96430a:
 
     # sy "In the meantime, I'm going to work more on our website."
-    sy "In the meantime, I'm going to work more on our website."
+    sy "这段时间，我会继续完善我们的网站。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:357
 translate chinese sm1ms025_0f3e31e6:
 
     # mc "Alright. I know you're going to make it amazing, Stacy."
-    mc "Alright. I know you're going to make it amazing, Stacy."
+    mc "好。史黛西，我知道你一定能把网站做得非常好。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:360
 translate chinese sm1ms025_827ba594:
 
     # sy "That's the plan, man."
-    sy "That's the plan, man."
+    sy "我就是这么计划的，伙计。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:334
 translate chinese sm1ms025_01a929b4:
 
     # sy "She stole my flash drive."
-    sy "She stole my flash drive."
+    sy "她之前偷了我的 U 盘。"
 
