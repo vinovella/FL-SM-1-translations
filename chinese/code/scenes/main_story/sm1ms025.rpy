@@ -2,253 +2,253 @@
 translate chinese sm1ms025_dce1a447:
 
     # sy "We got a new order from the client."
-    sy "We got a new order from the client."
+    sy "客户又下新订单了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:14
 translate chinese sm1ms025_2d71f122:
 
     # mc "Already? That was fast."
-    mc "Already? That was fast."
+    mc "这么快？也太迅速了吧。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:17
 translate chinese sm1ms025_8c7e9cfa:
 
     # sy "Yeah. They seem a little excited."
-    sy "Yeah. They seem a little excited."
+    sy "对。感觉他们有点兴奋啊。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:18
 translate chinese sm1ms025_efe9b161:
 
     # sy "Antsy even."
-    sy "Antsy even."
+    sy "甚至可以说是迫不及待了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:19
 translate chinese sm1ms025_c78e879f:
 
     # sy "They even asked for more fetishes"
-    sy "They even asked for more fetishes"
+    sy "他们还要求加更多性癖进去呢。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:23
 translate chinese sm1ms025_7129dea6:
 
     # mc "Nice."
-    mc "Nice."
+    mc "不错啊。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:26
 translate chinese sm1ms025_42beb005:
 
     # sy "Yeah. They added more butt stuff."
-    sy "Yeah. They added more butt stuff."
+    sy "嗯。他们加了更多屁股相关的戏份。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:27
 translate chinese sm1ms025_28a107c1:
 
     # sy "And they loved the wig, so they want us to use that again."
-    sy "And they loved the wig, so they want us to use that again."
+    sy "而且他们很喜欢那顶假发，所以想让我们这次还用上。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:30
 translate chinese sm1ms025_6d453796:
 
     # mc "Me or you?"
-    mc "Me or you?"
+    mc "是我戴还是你戴啊？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:33
 translate chinese sm1ms025_08947137:
 
     # sy "Hehe, I think you know the answer to that."
-    sy "Hehe, I think you know the answer to that."
+    sy "嘿嘿，我觉得你知道答案的。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:37
 translate chinese sm1ms025_7a17595f:
 
     # mct "One of the requests stands out. It's an anal sex activity, but one that is kind of rare."
-    mct "One of the requests stands out. It's an anal sex activity, but one that is kind of rare."
+    mct "其中有一个要求很特别。那是一个肛交的玩法，不过这种玩法算是比较少见的。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:38
 translate chinese sm1ms025_9170b71d:
 
     # mc "This is strange."
-    mc "This is strange."
+    mc "这个客户的要求有点奇怪啊。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:41
 translate chinese sm1ms025_e0107363:
 
     # sy "Yeah. I thought so too, figured maybe they were just super horny for... well."
-    sy "Yeah. I thought so too, figured maybe they were just super horny for... well."
+    sy "对。我也觉得奇怪，想来他们相当感兴趣的是..."
 
 # game/code/scenes/main_story/sm1ms025.rpy:45
 translate chinese sm1ms025_fc1d110a:
 
     # mc "Boofing."
-    mc "Boofing."
+    mc "就是肛内灌酒。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:48
 translate chinese sm1ms025_eb36d3bd:
 
     # mc "What else did they say?"
-    mc "What else did they say?"
+    mc "他们还说什么了？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:49
 translate chinese sm1ms025_6fd55f1a:
 
     # mc "\"I know that we are just starting the new order, but if you have any short scenes recorded with boofing, please let me know.\""
-    mc "\"I know that we are just starting the new order, but if you have any short scenes recorded with boofing, please let me know.\""
+    mc "\"我知道我们才刚下这个新订单，但如果你们有任何包含肛内灌酒内容的短片，麻烦告诉我一声。\""
 
 # game/code/scenes/main_story/sm1ms025.rpy:50
 translate chinese sm1ms025_a062e808:
 
     # mc "\"I will pay whatever you want for them.\""
-    mc "\"I will pay whatever you want for them.\""
+    mc "\"只要有，不管多少钱我都愿意买。\""
 
 # game/code/scenes/main_story/sm1ms025.rpy:54
 translate chinese sm1ms025_13990426:
 
     # mc "Remind me...{w} This client knows that we're just starting out, right?"
-    mc "Remind me...{w} This client knows that we're just starting out, right?"
+    mc "你说...{w}这个客户知道我们才刚起步，对吧？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:57
 translate chinese sm1ms025_c172bd12:
 
     # sy "Yes."
-    sy "Yes."
+    sy "知道啊。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:60
 translate chinese sm1ms025_d751817a:
 
     # mc "So why do they think we have scenes recorded that aren't the ones that they ordered."
-    mc "So why do they think we have scenes recorded that aren't the ones that they ordered."
+    mc "那他们为什么会觉得我们除了他们订的片子之外，还会保留有其他内容啊？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:61
 translate chinese sm1ms025_3acc652e:
 
     # mc "Did you just oversell? Like did you tell them we have other customers to make us look bigger than we are?"
-    mc "Did you just oversell? Like did you tell them we have other customers to make us look bigger than we are?"
+    mc "是不是你之前吹过头了？比如你有没有跟他们说我们还有其他客户，故意夸大了我们的规模？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:64
 translate chinese sm1ms025_568ac4c9:
 
     # sy "Nope. I wanted to be straight-up. They're our first client after all."
-    sy "Nope. I wanted to be straight-up. They're our first client after all."
+    sy "没有啊。我当时想的是坦诚点好。毕竟他们是我们第一个客户。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:68
 translate chinese sm1ms025_5f42a3d4:
 
     # mc "Yeah. But...{w} What if they're not being straight with us?"
-    mc "Yeah. But...{w} What if they're not being straight with us?"
+    mc "也是。但...{w}要是他们没对我们坦诚呢？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:71
 translate chinese sm1ms025_63a9e153:
 
     # sy "What do you mean?"
-    sy "What do you mean?"
+    sy "什么意思？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:75
 translate chinese sm1ms025_abeb364d:
 
     # mc "I mean, I'm getting a funny feeling about this whole thing."
-    mc "I mean, I'm getting a funny feeling about this whole thing."
+    mc "我是说，我总觉得这件事有点不对劲。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:76
 translate chinese sm1ms025_a2ec46d4:
 
     # mc "Boofing. Boof. Foof. Boofaloop."
-    mc "Boofing. Boof. Foof. Boofaloop."
+    mc "肛内灌酒。肛门。灌酒。真是离谱。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:79
 translate chinese sm1ms025_94851a1d:
 
     # sy "I had to look it up. It's when you shove a bottle of alcohol up your asshole to consume it for sexual pleasure."
-    sy "I had to look it up. It's when you shove a bottle of alcohol up your asshole to consume it for sexual pleasure."
+    sy "我之前还特意查了一下。就是把一瓶酒精塞进肛门里，通过这种方式摄入，以此获得性快感。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:80
 translate chinese sm1ms025_80c6e216:
 
     # sy "And it gets you drunk like super fast."
-    sy "And it gets you drunk like super fast."
+    sy "而且这样醉得特别快。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:83
 translate chinese sm1ms025_9a851801:
 
     # mc "I know that.{w} {b}Why{/b} do I know that."
-    mc "I know that.{w} {b}Why{/b} do I know that."
+    mc "这个我知道。{w}我{b}怎么会{/b}知道这个啊。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:88
 translate chinese sm1ms025_ecf872dc:
 
     # mc "Wait."
-    mc "Wait."
+    mc "等等。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:90
 translate chinese sm1ms025_86c0c0df:
 
     # mc "No. No no no.{w} She wouldn't."
-    mc "No. No no no.{w} She wouldn't."
+    mc "不行。不行不行不行。{w}她不会的。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:91
 translate chinese sm1ms025_df6e3f1a:
 
     # mc "Welllllll. She might..."
-    mc "Welllllll. She might..."
+    mc "呃...说不定她会呢..."
 
 # game/code/scenes/main_story/sm1ms025.rpy:94
 translate chinese sm1ms025_e4fbd4d7:
 
     # sy "{b}Who{/b} wouldn't and who might?"
-    sy "{b}Who{/b} wouldn't and who might?"
+    sy "说什么呢？{b}谁{/b}不会？谁又会啊？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:98
 translate chinese sm1ms025_5ed9ddc7:
 
     # mc "Stacy... It's AmRose."
-    mc "Stacy... It's AmRose."
+    mc "史黛西...是爱洛丝。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:101
 translate chinese sm1ms025_5f670f74:
 
     # sy "What about her?"
-    sy "What about her?"
+    sy "她怎么了？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:105
 translate chinese sm1ms025_db3dcc35:
 
     # mc "Don't you see it?"
-    mc "Don't you see it?"
+    mc "你还没看出来吗？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:106
 translate chinese sm1ms025_3da43e6d:
 
     # mc "This {b}whole{/b} time, she's been {b}commissioning{/b} us for films."
-    mc "This {b}whole{/b} time, she's been {b}commissioning{/b} us for films."
+    mc "{b}一直{/b}以来，都是她在{b}委托{/b}我们拍片子啊。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:109
 translate chinese sm1ms025_be5727a5:
 
     # mc "We thought it was a nice customer, helping to build our studio."
-    mc "We thought it was a nice customer, helping to build our studio."
+    mc "我们之前还以为她是个多好的客户，在帮我们工作室起步。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:110
 translate chinese sm1ms025_a3f7cef2:
 
     # mc "But it wasn't about the new films."
-    mc "But it wasn't about the new films."
+    mc "但她要的根本不是新片子。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:114
 translate chinese sm1ms025_3d5727f4:
 
     # mc "It was about an old film."
-    mc "It was about an old film."
+    mc "她要的是一部老片子。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:115
 translate chinese sm1ms025_f2e09bd2:
 
     # mc "A Fetish Locator film."
-    mc "A Fetish Locator film."
+    mc "一部‘性趣探测器’的片子。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:116
 translate chinese sm1ms025_e49e45e7:
 
     # mc "More specifically, a Fetish Locator recording that the app made of AmRose."
-    mc "More specifically, a Fetish Locator recording that the app made of AmRose."
+    mc "更具体地说，是‘性趣探测器’那个应用拍下的爱洛丝的视频。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:119
 translate chinese sm1ms025_5c2c7bcf:
@@ -260,223 +260,223 @@ translate chinese sm1ms025_5c2c7bcf:
 translate chinese sm1ms025_74e91f2e:
 
     # sy "Oh. She thinks we have {i}that{/i} one?"
-    sy "Oh. She thinks we have {i}that{/i} one?"
+    sy "哦。她以为我们有{i}那部{/i}视频？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:124
 translate chinese sm1ms025_c38ce538:
 
     # mc "Well, AmRose was worried that you were going to use the Fetish Locator data for evil."
-    mc "Well, AmRose was worried that you were going to use the Fetish Locator data for evil."
+    mc "嗯，爱洛丝之前一直担心你会用性趣探测器的数据来干坏事。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:125
 translate chinese sm1ms025_0469e53e:
 
     # mc "And you did make a copy of a lot of stuff."
-    mc "And you did make a copy of a lot of stuff."
+    mc "而且你之前确实拷贝了不少那里面的内容。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:126
 translate chinese sm1ms025_f3052e3d:
 
     # mc "But you're saying that you deleted {i}that{/i} one?"
-    mc "But you're saying that you deleted {i}that{/i} one?"
+    mc "不过你也有说，你已经把{i}那部{/i}视频删掉了？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:129
 translate chinese sm1ms025_d0e8e8fd:
 
     # sy "One-hundred percent deleted!"
-    sy "One-hundred percent deleted!"
+    sy "百分之一百删掉了！"
 
 # game/code/scenes/main_story/sm1ms025.rpy:130
 translate chinese sm1ms025_697d6529:
 
     # sy "A: it's not my thing."
-    sy "A: it's not my thing."
+    sy "第一：那不是我喜欢的类型。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:131
 translate chinese sm1ms025_93a08698:
 
     # sy "B: it looked like it definitely wasn't AmRose's thing either."
-    sy "B: it looked like it definitely wasn't AmRose's thing either."
+    sy "第二：看起来那也绝对不是爱洛丝喜欢的类型。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:132
 translate chinese sm1ms025_29aa0047:
 
     # sy "So it was one of the first recordings I put on the chopping block."
-    sy "So it was one of the first recordings I put on the chopping block."
+    sy "所以那个视频是我最早删掉的一批素材之一。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:136
 translate chinese sm1ms025_37b858c1:
 
     # mc "And there is no way it can be recovered."
-    mc "And there is no way it can be recovered."
+    mc "那肯定找不回来了吧。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:137
 translate chinese sm1ms025_3b1c9a0d:
 
     # mc "It's not on the cloud or something?"
-    mc "It's not on the cloud or something?"
+    mc "没存在云端或者别的地方吗？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:140
 translate chinese sm1ms025_6191e07d:
 
     # sy "No way, Jose."
-    sy "No way, Jose."
+    sy "绝对没有，不可能的。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:143
 translate chinese sm1ms025_c9d98f01:
 
     # sy "She can even come down and look through our files with a fine-toothed comb."
-    sy "She can even come down and look through our files with a fine-toothed comb."
+    sy "她甚至可以过来，仔仔细细检查我们所有的文件。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:147
 translate chinese sm1ms025_65ae69d0:
 
     # sy "We don't have the file. It's gone."
-    sy "We don't have the file. It's gone."
+    sy "我们没有那个文件。早就没了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:150
 translate chinese sm1ms025_2ad04548:
 
     # mc "*breathes deep*"
-    mc "*breathes deep*"
+    mc "*深吸一口气*"
 
 # game/code/scenes/main_story/sm1ms025.rpy:151
 translate chinese sm1ms025_1995e6f4:
 
     # mc "That's good. It might just come to that."
-    mc "That's good. It might just come to that."
+    mc "那就好。说不定最后真的需要她来检查。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:154
 translate chinese sm1ms025_4561fc0a:
 
     # mc "Hell hath no fury like a redhead scorned."
-    mc "Hell hath no fury like a redhead scorned."
+    mc "惹毛了红发女人，后果可是很严重的。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:155
 translate chinese sm1ms025_4121ad4a:
 
     # mc "And now we can finally have everything out in the open."
-    mc "And now we can finally have everything out in the open."
+    mc "现在我们终于可以把所有事情摊开来说清楚了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:159
 translate chinese sm1ms025_22e73532:
 
     # mc "I should call her now."
-    mc "I should call her now."
+    mc "我现在就该给她打电话。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:163
 translate chinese sm1ms025_652090e3:
 
     # sy "I don't think so."
-    sy "I don't think so."
+    sy "我觉得不行。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:166
 translate chinese sm1ms025_d9fc70c6:
 
     # mc "Stacy?"
-    mc "Stacy?"
+    mc "史黛西？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:167
 translate chinese sm1ms025_177d3eb2:
 
     # mc "What are you doing?"
-    mc "What are you doing?"
+    mc "你要干什么？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:170
 translate chinese sm1ms025_83c13411:
 
     # sy "Just bringing you back down to planet earth."
-    sy "Just bringing you back down to planet earth."
+    sy "我只是想让你别太冲动，回到现实里来。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:171
 translate chinese sm1ms025_615f19be:
 
     # sy "AmRose might be mad at us, but instead of talking to us both like a normal person, she ran a whole scheme."
-    sy "AmRose might be mad at us, but instead of talking to us both like a normal person, she ran a whole scheme."
+    sy "爱洛丝就算对我们有意见，也该像个正常人一样跟我们俩当面说，而不是搞这么一套阴谋诡计。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:172
 translate chinese sm1ms025_62f728ca:
 
     # sy "That wasted not only our time, but Kanya's time, and wasted {b}our{/b} money."
-    sy "That wasted not only our time, but Kanya's time, and wasted {b}our{/b} money."
+    sy "这不仅浪费了我们的时间，还浪费了康雅的时间，更浪费了{b}我们{/b}的钱。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:173
 translate chinese sm1ms025_9b575e18:
 
     # sy "And wasted our time!"
-    sy "And wasted our time!"
+    sy "还浪费了我们的时间！"
 
 # game/code/scenes/main_story/sm1ms025.rpy:176
 translate chinese sm1ms025_083b8096:
 
     # mc "You said time twice."
-    mc "You said time twice."
+    mc "浪费时间这话你说了两遍了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:179
 translate chinese sm1ms025_05fd11ef:
 
     # sy "Well, I'm pretty mad about it."
-    sy "Well, I'm pretty mad about it."
+    sy "因为我真的很生气啊。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:182
 translate chinese sm1ms025_c0052b5c:
 
     # mc "Okay, okay."
-    mc "Okay, okay."
+    mc "好好好，我明白。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:183
 translate chinese sm1ms025_802ed22d:
 
     # mc "Perhaps... AmRose is due for a little petty revenge."
-    mc "Perhaps... AmRose is due for a little petty revenge."
+    mc "或许...我们可以小小地报复一下爱洛丝。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:186
 translate chinese sm1ms025_8ceb755e:
 
     # sy "Yeah. Let's break her glasses and file down one of each pair of shoes she has."
-    sy "Yeah. Let's break her glasses and file down one of each pair of shoes she has."
+    sy "对。我们可以把她的眼镜打碎，再把她每双鞋都磨掉一只鞋跟。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:187
 translate chinese sm1ms025_2ce77a53:
 
     # sy "Every time we see her, she'll be hopping around in circles."
-    sy "Every time we see her, she'll be hopping around in circles."
+    sy "以后每次我们见到她，她都得一瘸一拐地转圈走。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:190
 translate chinese sm1ms025_1522c424:
 
     # mc "No. Stacy. Chill. We're not going {i}that{/i}far."
-    mc "No. Stacy. Chill. We're not going {i}that{/i}far."
+    mc "不行。史黛西。冷静点。我们不能做得{i}这么{/i}过分。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:193
 translate chinese sm1ms025_11e48912:
 
     # sy "Okay..."
-    sy "Okay..."
+    sy "好吧..."
 
 # game/code/scenes/main_story/sm1ms025.rpy:194
 translate chinese sm1ms025_a4b7b2be:
 
     # sy "Maybe it was a little extreme."
-    sy "Maybe it was a little extreme."
+    sy "或许刚才那个想法是有点太极端了。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:198
 translate chinese sm1ms025_eb07bda4:
 
     # mc "I promise that we will clear this all up with AmRose, and also have some fun."
-    mc "I promise that we will clear this all up with AmRose, and also have some fun."
+    mc "我保证，我们一定会跟爱洛丝把所有事情说清楚，而且过程也会很有意思的。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:201
 translate chinese sm1ms025_a6594318:
 
     # sy "I'll believe it when I see it, Mister."
-    sy "I'll believe it when I see it, Mister."
+    sy "除非我亲眼看到，否则我是不会信的，你个大聪明。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:205
 translate chinese sm1ms025_bbe621d2:
 
     # mc "What you don't trust me?"
-    mc "What you don't trust me?"
+    mc "你难道不信任我吗？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:208
 translate chinese sm1ms025_89fc6124:
@@ -488,25 +488,25 @@ translate chinese sm1ms025_89fc6124:
 translate chinese sm1ms025_24564077:
 
     # sy "You're my brother. I love you."
-    sy "You're my brother. I love you."
+    sy "你是我哥哥，我爱你。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:215
 translate chinese sm1ms025_3c1342f0:
 
     # sy "You're my true love. I will always trust you."
-    sy "You're my true love. I will always trust you."
+    sy "你是我最爱的人，我永远都会信任你。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:223
 translate chinese sm1ms025_95d606c4:
 
     # sy "But just know... Fail to bring this fraudster to justice..."
-    sy "But just know... Fail to bring this fraudster to justice..."
+    sy "但你要记住...要是你没能让这个骗子得到应有的结果..."
 
 # game/code/scenes/main_story/sm1ms025.rpy:224
 translate chinese sm1ms025_02ea5fac:
 
     # sy "And you'll be putting yourself on very dangerous ground..."
-    sy "And you'll be putting yourself on very dangerous ground..."
+    sy "那你可就把自己置于非常危险的境地了..."
 
 # game/code/scenes/main_story/sm1ms025.rpy:228
 translate chinese sm1ms025_2b35b6fe:
@@ -518,25 +518,25 @@ translate chinese sm1ms025_2b35b6fe:
 translate chinese sm1ms025_c3f38337:
 
     # sy "Good? Good."
-    sy "Good? Good."
+    sy "明白吗？很好。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:232
 translate chinese sm1ms025_90aad6be:
 
     # sy "There is another thing I wanted to talk about too."
-    sy "There is another thing I wanted to talk about too."
+    sy "我还有另外一件事想跟你说。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:233
 translate chinese sm1ms025_2c6fe8f1:
 
     # sy "Got time?"
-    sy "Got time?"
+    sy "你有时间吗？"
 
 # game/code/scenes/main_story/sm1ms025.rpy:237
 translate chinese sm1ms025_1c71b1bf:
 
     # mc "Uh.. sure."
-    mc "Uh.. sure."
+    mc "呃...有啊。"
 
 # game/code/scenes/main_story/sm1ms025.rpy:238
 translate chinese sm1ms025_6cac701a:
