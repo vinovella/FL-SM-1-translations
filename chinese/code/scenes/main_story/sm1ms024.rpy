@@ -74,31 +74,31 @@ translate chinese sm1ms024_6581bd6f:
 translate chinese sm1ms024_e162e8fc:
 
     # sy "Let's see... {w}here it is!"
-    sy "我找找……{w}找到了！"
+    sy "我找找...{w}找到了！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:52
 translate chinese sm1ms024_5ed6af01:
 
     # mc "Okay... she likes the composition, lighting... thinks the video is super hot, loves the butt stuff and red wig..."
-    mc "好…… 她夸构图好、光线好…… 她觉得视频特别刺激，还喜欢里面跟屁股相关的戏份和红色假发..."
+    mc "好...她夸构图好、光线好...她觉得视频特别刺激，还喜欢里面跟屁股相关的戏份和红色假发..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:53
 translate chinese sm1ms024_8651a87f:
 
     # mc "Good things, and more good things... all in all, just a positive review."
-    mc "全是好话，全是夸咱们的…… 总的来说，就是一篇好评。"
+    mc "全是好话，全是夸咱们的...总的来说，就是一篇好评。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:57
 translate chinese sm1ms024_111e7bcc:
 
     # mc "Wait... what's this about... permission?{w} Permission for what?"
-    mc "等等…… 这里说的‘许可’是怎么回事啊？{w}要什么许可啊？"
+    mc "等等...这里说的‘许可’是怎么回事啊？{w}要什么许可啊？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:59
 translate chinese sm1ms024_b52fd7cb:
 
     # sy "So... that was something I wanted to talk to you about."
-    sy "那个嘛…… 这事我本来就想跟你说的。"
+    sy "那个嘛...这事我本来就想跟你说的。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:60
 translate chinese sm1ms024_705afcf0:
@@ -146,7 +146,7 @@ translate chinese sm1ms024_d331e84d:
 translate chinese sm1ms024_aab0a636:
 
     # sy "Maybe... just maybe..."
-    sy "说不定…… 说不定还能..."
+    sy "说不定...说不定还能..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:77
 translate chinese sm1ms024_3f7ab5fe:
@@ -200,13 +200,13 @@ translate chinese sm1ms024_89d89afa:
 translate chinese sm1ms024_3d671bd3:
 
     # sy "Fiiiiine. I'll tell you what I'm thinking."
-    sy "行…… 行吧。我就告诉你我在想什么。"
+    sy "行...行吧。我就告诉你我在想什么。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:104
 translate chinese sm1ms024_02d29ed4:
 
     # sy "I've been thinking...{w} maybe it's time for us to start making {i}our own{/i} videos."
-    sy "我一直在想……{w}或许我们该开始拍属于{i}我们自己{/i}的视频了。"
+    sy "我一直在想...{w}或许我们该开始拍属于{i}我们自己{/i}的视频了。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:107
 translate chinese sm1ms024_6a0b0114:
@@ -218,7 +218,7 @@ translate chinese sm1ms024_6a0b0114:
 translate chinese sm1ms024_fd831723:
 
     # sy "No, I mean... I have just felt the urge to make a porno that we craft on our own."
-    sy "不是，我是说…… 我最近特别想拍一部我们自己主导的色情片。"
+    sy "不是，我是说...我最近特别想拍一部我们自己主导的色情片。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:111
 translate chinese sm1ms024_224d32ea:
@@ -266,7 +266,7 @@ translate chinese sm1ms024_a03bec72:
 translate chinese sm1ms024_a0d7ed17:
 
     # mc "Hmmm. I don't know..."
-    mc "嗯…… 我不太确定啊..."
+    mc "嗯...我不太确定啊..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:131
 translate chinese sm1ms024_d047247c:
@@ -386,455 +386,455 @@ translate chinese sm1ms024_298f494f:
 translate chinese sm1ms024_1aee8596:
 
     # sy "Maaaaaaaaybe..."
-    sy "或…… 或许吧..."
+    sy "或...或许吧..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:196
 translate chinese sm1ms024_993da45a:
 
     # mc "Come on, Stacy. Enough with the weird cryptic talk!"
-    mc "Come on, Stacy. Enough with the weird cryptic talk!"
+    mc "好啦史黛西。别再打哑谜了！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:199
 translate chinese sm1ms024_c4a14f17:
 
     # sy "Fine, fine. Spoil all my fun."
-    sy "Fine, fine. Spoil all my fun."
+    sy "行行行。真是扫兴~"
 
 # game/code/scenes/main_story/sm1ms024.rpy:200
 translate chinese sm1ms024_07ca7b19:
 
     # sy "So, we're a brand new studio, right?"
-    sy "So, we're a brand new studio, right?"
+    sy "你想啊，我们的工作室是新开的，对吧？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:204
 translate chinese sm1ms024_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "对。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:207
 translate chinese sm1ms024_73f87836:
 
     # sy "And we want to make a big splash, right?"
-    sy "And we want to make a big splash, right?"
+    sy "我们呢，又想搞个大动静，引起关注，对吧？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:210
 translate chinese sm1ms024_503d6bd1:
 
     # mc "Uh huh..."
-    mc "Uh huh..."
+    mc "嗯哼..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:213
 translate chinese sm1ms024_5ac14ffb:
 
     # sy "Pirates make a big splash."
-    sy "Pirates make a big splash."
+    sy "海盗题材就能搞个大动静。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:216
 translate chinese sm1ms024_0bc74e8e:
 
     # mc "Pirates? Seriously?"
-    mc "Pirates? Seriously?"
+    mc "海盗题材？你认真的吗？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:219
 translate chinese sm1ms024_157cb395:
 
     # sy "Yeah!{w} Why not?"
-    sy "Yeah!{w} Why not?"
+    sy "对啊！{w}为什么不行？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:222
 translate chinese sm1ms024_32b94f37:
 
     # mc "Pirates sounds expensive.{w} Between the costumes, locations, props... I'm guessing a sword fight?"
-    mc "Pirates sounds expensive.{w} Between the costumes, locations, props... I'm guessing a sword fight?"
+    mc "海盗题材听起来要花很多钱啊。{w}光是服装、拍摄场地、道具...我猜还得有耍剑的场面吧？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:225
 translate chinese sm1ms024_ada90284:
 
     # sy "It's a pirate movie, duh, there has to be a sword fight."
-    sy "It's a pirate movie, duh, there has to be a sword fight."
+    sy "这可是海盗电影，拜托，肯定得有用剑对决的场面啊。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:228
 translate chinese sm1ms024_a8ed2ce7:
 
     # mc "All that sounds really expensive. And I have to find a sound person on top of that."
-    mc "All that sounds really expensive. And I have to find a sound person on top of that."
+    mc "这些东西听着就很费钱。而且除此之外，我还得找个负责音频的人。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:231
 translate chinese sm1ms024_0fb3e0b8:
 
     # sy "Details, details. That's not that big of a deal."
-    sy "Details, details. That's not that big of a deal."
+    sy "都是些细节而已，细节。问题不大啦。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:232
 translate chinese sm1ms024_5af2f49c:
 
     # sy "I think I have a way to deal with that anyway."
-    sy "I think I have a way to deal with that anyway."
+    sy "反正我觉得我有办法解决钱的问题。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:235
 translate chinese sm1ms024_c8f5c86e:
 
     # mc "Oh yeah? And what's that?"
-    mc "Oh yeah? And what's that?"
+    mc "哦？什么办法？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:238
 translate chinese sm1ms024_5812c3a7:
 
     # sy "I think my credit is good enough for a decent sized personal loan."
-    sy "I think my credit is good enough for a decent sized personal loan."
+    sy "我觉得我的信用应该够申请一笔数额不错的个人贷款。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:241
 translate chinese sm1ms024_7ab9d41e:
 
     # mc "You have... a credit score?"
-    mc "You have... a credit score?"
+    mc "你还有...信用评分？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:243
 translate chinese sm1ms024_fec97ceb:
 
     # sy "Yep.{w} Business and personal."
-    sy "Yep.{w} Business and personal."
+    sy "有啊。{w}商业信用和个人信用都有。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:244
 translate chinese sm1ms024_65534fec:
 
     # mc "Holy shit."
-    mc "Holy shit."
+    mc "我去。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:247
 translate chinese sm1ms024_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "怎么了？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:249
 translate chinese sm1ms024_fcda8cc6:
 
     # mc "That's the most grown-ass thing you've said since you said 'take my ass'."
-    mc "That's the most grown-ass thing you've said since you said 'take my ass'."
+    mc "除了说‘干我’之外，这好像是你说过的最像成年人的话了。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:253
 translate chinese sm1ms024_64961bb1:
 
     # sy "Haha.{w} Shut up, asshat."
-    sy "Haha.{w} Shut up, asshat."
+    sy "哈哈。{w}闭嘴，蠢货。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:256
 translate chinese sm1ms024_fa1afce1:
 
     # mc "Hahahahaha!"
-    mc "Hahahahaha!"
+    mc "哈哈哈哈！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:258
 translate chinese sm1ms024_0bde8548:
 
     # sy "It's not funny!"
-    sy "It's not funny!"
+    sy "一点都不好笑！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:263
 translate chinese sm1ms024_a4a6ff86:
 
     # mc "God... my sister has a credit score."
-    mc "God... my sister has a credit score."
+    mc "老天啊...我的妹妹居然有信用评分。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:265
 translate chinese sm1ms024_56ce4d79:
 
     # mc "God... Stacy has a credit score."
-    mc "God... Stacy has a credit score."
+    mc "老天啊...史黛西居然有信用评分。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:268
 translate chinese sm1ms024_cf7f5861:
 
     # sy "I've actually got two of them, [mcname]. Get it right."
-    sy "I've actually got two of them, [mcname]. Get it right."
+    sy "[mcname]，我其实有两个信用评分。你可记好了。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:269
 translate chinese sm1ms024_f34373d3:
 
     # sy "One of us had to be the fiscally responsible one."
-    sy "One of us had to be the fiscally responsible one."
+    sy "我们俩总得有一个人在财务上靠点谱吧。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:272
 translate chinese sm1ms024_ae0e733a:
 
     # mc "I never thought it would be you."
-    mc "I never thought it would be you."
+    mc "我从没想过靠谱的人会是你。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:275
 translate chinese sm1ms024_4874b121:
 
     # sy "Same."
-    sy "Same."
+    sy "我也没想过。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:276
 translate chinese sm1ms024_16d1b0e1:
 
     # sy "But, I figure I can take out a loan or something and pay it back with whatever deal we cut with whomever. Ads or distribution."
-    sy "But, I figure I can take out a loan or something and pay it back with whatever deal we cut with whomever. Ads or distribution."
+    sy "不过，我觉得我可以申请一笔贷款之类的，然后用我们和别人谈成的合作收入来还--不管是广告费还是发行收入都行。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:279
 translate chinese sm1ms024_b68b4d89:
 
     # mc "I like your magic words, sexy lady."
-    mc "I like your magic words, sexy lady."
+    mc "你这话说得真好听，性感女士。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:280
 translate chinese sm1ms024_d91d57e6:
 
     # sy "*giggles*"
-    sy "*giggles*"
+    sy "*咯咯笑*"
 
 # game/code/scenes/main_story/sm1ms024.rpy:281
 translate chinese sm1ms024_c555eb47:
 
     # mc "All right... that's a pretty solid plan."
-    mc "All right... that's a pretty solid plan."
+    mc "行吧...这计划听起来还挺靠谱的。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:282
 translate chinese sm1ms024_3efef6b8:
 
     # mc "Risky, but solid."
-    mc "Risky, but solid."
+    mc "有风险，但确实靠谱。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:283
 translate chinese sm1ms024_9a9f53a4:
 
     # mc "So, pirates..."
-    mc "So, pirates..."
+    mc "所以，海盗题材..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:286
 translate chinese sm1ms024_76026a3f:
 
     # sy "Pirates!"
-    sy "Pirates!"
+    sy "海盗题材！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:288
 translate chinese sm1ms024_c6de9207:
 
     # mc "And what's the other idea?"
-    mc "And what's the other idea?"
+    mc "那你另一个想法是什么？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:289
 translate chinese sm1ms024_83fe4b30:
 
     # sy "Maybe... sci fi?"
-    sy "Maybe... sci fi?"
+    sy "或许...科幻题材？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:293
 translate chinese sm1ms024_ba692f98:
 
     # mc "Sci fi? Seriously?"
-    mc "Sci fi? Seriously?"
+    mc "科幻题材？你认真的吗？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:296
 translate chinese sm1ms024_c07b61b6:
 
     # sy "Yeah, why not?"
-    sy "Yeah, why not?"
+    sy "对啊，为什么不行？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:297
 translate chinese sm1ms024_3e221bca:
 
     # sy "Spandex outfits, hot aliens, strange new worlds..."
-    sy "Spandex outfits, hot aliens, strange new worlds..."
+    sy "紧身弹力服、性感外星人、陌生的新世界..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:302
 translate chinese sm1ms024_729a93b5:
 
     # sy "It's enough to get a girl hot and bothered."
-    sy "It's enough to get a girl hot and bothered."
+    sy "这些东西足够让一个女生兴奋起来了。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:306
 translate chinese sm1ms024_430ab556:
 
     # mc "Well, I'm in for sci fi then!"
-    mc "Well, I'm in for sci fi then!"
+    mc "那好，那我支持科幻题材！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:309
 translate chinese sm1ms024_b79a6f69:
 
     # sy "Are you going to be my young, enterprising starship captain?{w} Exploring the vast beyonds of space?"
-    sy "Are you going to be my young, enterprising starship captain?{w} Exploring the vast beyonds of space?"
+    sy "你愿意做我年轻有为的星舰舰长吗？{w}和我一起探索广阔无垠的太空？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:310
 translate chinese sm1ms024_4916600c:
 
     # sy "And of my body?"
-    sy "And of my body?"
+    sy "同样可供你探索的，还有我的身体？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:315
 translate chinese sm1ms024_c3efd0d6:
 
     # sy "Or will we cross blades, matey?"
-    sy "Or will we cross blades, matey?"
+    sy "或者我们也可以刀剑相向，伙计？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:316
 translate chinese sm1ms024_ecb8bbde:
 
     # sy "And to the victor will go the booty?"
-    sy "And to the victor will go the booty?"
+    sy "胜者就能赢得‘宝藏’？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:320
 translate chinese sm1ms024_d37a9b0f:
 
     # mc "Aye, aye, you scurvy-riddled dog!"
-    mc "Aye, aye, you scurvy-riddled dog!"
+    mc "行，行，你这个小狗崽子！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:323
 translate chinese sm1ms024_57434159:
 
     # sy "Then have at thee!"
-    sy "Then have at thee!"
+    sy "那就放马过来吧！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:330
 translate chinese sm1ms024_a7a863e0:
 
     # sy "Hahahahaha!"
-    sy "Hahahahaha!"
+    sy "哈哈哈哈！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:335
 translate chinese sm1ms024_10fea1d3:
 
     # mc "I think that we need to sit down and figure out exactly what we're going to shoot."
-    mc "I think that we need to sit down and figure out exactly what we're going to shoot."
+    mc "我觉得我们得坐下来，好好想想具体要拍什么内容。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:336
 translate chinese sm1ms024_5497f8c4:
 
     # mc "And more importantly, who we're going to cast in each of the movies."
-    mc "And more importantly, who we're going to cast in each of the movies."
+    mc "更重要的是，得确定每部电影要找哪些人来演。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:339
 translate chinese sm1ms024_79146020:
 
     # sy "So... we're doing it???"
-    sy "So... we're doing it???"
+    sy "所以...我们真的要拍了???"
 
 # game/code/scenes/main_story/sm1ms024.rpy:342
 translate chinese sm1ms024_39ef9b02:
 
     # mc "Yeah, let's do it."
-    mc "Yeah, let's do it."
+    mc "对，那就拍吧。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:347
 translate chinese sm1ms024_0ddca41b:
 
     # sy "YAAAAAYYYYY!"
-    sy "YAAAAAYYYYY!"
+    sy "太好啦！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:352
 translate chinese sm1ms024_1095beba:
 
     # sy "Yayayayayayayayayayay!!!"
-    sy "Yayayayayayayayayayay!!!"
+    sy "好耶好耶好耶好耶好耶!!!"
 
 # game/code/scenes/main_story/sm1ms024.rpy:353
 translate chinese sm1ms024_e0535ed0:
 
     # sy "We're going to make our own movie!!!"
-    sy "We're going to make our own movie!!!"
+    sy "我们要拍属于自己的电影啦!!!"
 
 # game/code/scenes/main_story/sm1ms024.rpy:357
 translate chinese sm1ms024_25dee965:
 
     # sy "Okay, I need to get some paper, uhm, notepads."
-    sy "Okay, I need to get some paper, uhm, notepads."
+    sy "不行，我得去找点纸，呃，找个笔记本。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:358
 translate chinese sm1ms024_ef606456:
 
     # sy "And I need to get better at scripts, and, and-"
-    sy "And I need to get better at scripts, and, and-"
+    sy "而且我得提高写剧本的水平，还有，还有--"
 
 # game/code/scenes/main_story/sm1ms024.rpy:360
 translate chinese sm1ms024_354881fa:
 
     # sy "Storyboards!{w} We're going to need storyboards!"
-    sy "Storyboards!{w} We're going to need storyboards!"
+    sy "故事板！{w}我们肯定需要故事板！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:361
 translate chinese sm1ms024_97772608:
 
     # sy "I'll call Kanya, and, uhm, start looking at things on the internet-"
-    sy "I'll call Kanya, and, uhm, start looking at things on the internet-"
+    sy "我要给康雅打个电话，还有，呃，要在网上查些资料--"
 
 # game/code/scenes/main_story/sm1ms024.rpy:364
 translate chinese sm1ms024_9de07441:
 
     # mc "Stacy!"
-    mc "Stacy!"
+    mc "史黛西！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:367
 translate chinese sm1ms024_6bfc74d9_1:
 
     # sy "What?"
-    sy "What?"
+    sy "干嘛？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:369
 translate chinese sm1ms024_f94d84e4:
 
     # mc "Remember, you need to breathe."
-    mc "Remember, you need to breathe."
+    mc "记住，你得呼吸。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:378
 translate chinese sm1ms024_8d1e83e6:
 
     # sy "Okay, I'm still breathing."
-    sy "Okay, I'm still breathing."
+    sy "好，我在呼吸呢。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:381
 translate chinese sm1ms024_873c63ce:
 
     # mc "Good. Why don't you get a list together, and we can sit down in a few days and start planning our movie."
-    mc "Good. Why don't you get a list together, and we can sit down in a few days and start planning our movie."
+    mc "那就好。不如你先列个清单，过几天我们坐下来，开始规划我们的电影。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:383
 translate chinese sm1ms024_f1352474:
 
     # sy "That sounds fucking awesome."
-    sy "That sounds fucking awesome."
+    sy "好呀，简直太棒了。"
 
 # game/code/scenes/main_story/sm1ms024.rpy:396
 translate chinese sm1ms024_4aecd917:
 
     # sy "I'll get started right now!"
-    sy "I'll get started right now!"
+    sy "我现在就开始弄！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:398
 translate chinese sm1ms024_af82aaaa:
 
     # mc "What about sleeping?"
-    mc "What about sleeping?"
+    mc "那睡觉呢？不睡了吗？"
 
 # game/code/scenes/main_story/sm1ms024.rpy:399
 translate chinese sm1ms024_2ce6b2b0:
 
     # sy "No sleep.{w} Only writing!"
-    sy "No sleep.{w} Only writing!"
+    sy "不睡了。{w}我只想写剧本！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:400
 translate chinese sm1ms024_001cc87b:
 
     # sy "I'll let you know when I'm ready!"
-    sy "I'll let you know when I'm ready!"
+    sy "等我准备好了就告诉你！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:403
 translate chinese sm1ms024_41494785:
 
     # mc "Sounds good!"
-    mc "Sounds good!"
+    mc "好！"
 
 # game/code/scenes/main_story/sm1ms024.rpy:410
 translate chinese sm1ms024_a7812ac1:
 
     # mct "Damn... we're really about to do this. Pre production for our first movie..."
-    mct "Damn... we're really about to do this. Pre production for our first movie..."
+    mct "呼...我们真的要这么做了。做我们第一部电影的前期筹备工作..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:411
 translate chinese sm1ms024_72133c5b:
 
     # mct "This is exciting.{w} Terrifying. Wonderful... I can't wait to get started."
-    mct "This is exciting.{w} Terrifying. Wonderful... I can't wait to get started."
+    mct "这太让人兴奋了。{w}也有点吓人。但还是特别棒...我已经等不及要开始了。"
 
