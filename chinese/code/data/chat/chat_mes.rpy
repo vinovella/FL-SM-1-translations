@@ -149,10 +149,6 @@
     new "我得学习了。但我会给你点东西让你缓解一下。"
 
     # game/code/data/chat/chat_mes.rpy:112
-    old "❤️"
-    new "❤️"
-
-    # game/code/data/chat/chat_mes.rpy:112
     old "Wish you could be here to warm my body."
     new "希望你能在这里温暖我的身体。"
 
