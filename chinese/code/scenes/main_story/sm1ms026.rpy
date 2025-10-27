@@ -566,7 +566,7 @@ translate chinese sm1ms026_scifi_d7d3ee77:
 translate chinese sm1ms026_scifi_3bbcf026:
 
     # mc "Oh man, Min would probably be great for this."
-    mc "天啊，明要是来演肯定特别棒。"
+    mc "天啊，明要是来演肯定特别适合。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:333
 translate chinese sm1ms026_scifi_4f79867b:
@@ -596,309 +596,309 @@ translate chinese sm1ms026_scifi_faf8e4bc:
 translate chinese sm1ms026_scifi_dd809da1:
 
     # sy "Mmm. Well, maybe there is hope that she'll be open to it at some point."
-    sy "Mmm. Well, maybe there is hope that she'll be open to it at some point."
+    sy "嗯，说不定哪天她就会愿意加入呢。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:340
 translate chinese sm1ms026_scifi_3bbcf026_1:
 
     # mc "Oh man, Min would probably be great for this."
-    mc "Oh man, Min would probably be great for this."
+    mc "天啊，明要是来演肯定特别适合。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:342
 translate chinese sm1ms026_scifi_4f79867b_1:
 
     # sy "Min?"
-    sy "Min?"
+    sy "明？"
 
 # game/code/scenes/main_story/sm1ms026.rpy:344
 translate chinese sm1ms026_scifi_bc0a5736_1:
 
     # mc "You remember, she was the host for the Fetish Locator Parties."
-    mc "You remember, she was the host for the Fetish Locator Parties."
+    mc "你忘了吗？她以前是性趣探测器派对的主持人。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:345
 translate chinese sm1ms026_scifi_25069130:
 
     # sy "Oh yeah."
-    sy "Oh yeah."
+    sy "是哦。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:347
 translate chinese sm1ms026_scifi_8e91fc40:
 
     # mc "Yeah. She was smart, and she was very kinky."
-    mc "Yeah. She was smart, and she was very kinky."
+    mc "是吧。她人聪明，还特别放得开，喜欢各种玩法。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:348
 translate chinese sm1ms026_scifi_ffdcec3f:
 
     # mc "I wish I knew where she was."
-    mc "I wish I knew where she was."
+    mc "要是知道她现在在哪儿就好了。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:351
 translate chinese sm1ms026_scifi_3474c6b5:
 
     # mc "Hah. Lyssa!"
-    mc "Hah. Lyssa!"
+    mc "哈。丽莎！"
 
 # game/code/scenes/main_story/sm1ms026.rpy:352
 translate chinese sm1ms026_scifi_d54f9479:
 
     # sy "Lyssa?"
-    sy "Lyssa?"
+    sy "丽莎？"
 
 # game/code/scenes/main_story/sm1ms026.rpy:353
 translate chinese sm1ms026_scifi_34315b65:
 
     # mc "Yeah. Lyssa has finally agreed to do movies with us."
-    mc "Yeah. Lyssa has finally agreed to do movies with us."
+    mc "对。丽莎终于同意跟我们一起拍电影了。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:354
 translate chinese sm1ms026_scifi_3cde44bd:
 
     # mc "She's smart as a whip. She would make a perfect science officer."
-    mc "She's smart as a whip. She would make a perfect science officer."
+    mc "她特别聪明，演科学官再合适不过了。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:355
 translate chinese sm1ms026_scifi_94009c9b:
 
     # sy "You're right. Good thinking, [mcname]."
-    sy "You're right. Good thinking, [mcname]."
+    sy "说得对。[mcname]，你这想法真好。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:358
 translate chinese sm1ms026_scifi_41bd7923:
 
     # mc "Man. You know who would be perfect for a science officer role?"
-    mc "Man. You know who would be perfect for a science officer role?"
+    mc "哎呀，你知道谁最适合演科学官这个角色吗？"
 
 # game/code/scenes/main_story/sm1ms026.rpy:359
 translate chinese sm1ms026_scifi_f116b59a:
 
     # sy "Who?"
-    sy "Who?"
+    sy "谁啊？"
 
 # game/code/scenes/main_story/sm1ms026.rpy:360
 translate chinese sm1ms026_scifi_e6bc6779:
 
     # mc "Lyssa."
-    mc "Lyssa."
+    mc "丽莎。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:362
 translate chinese sm1ms026_scifi_c0d482d4:
 
     # sy "Totally! But she doesn't want to film right."
-    sy "Totally! But she doesn't want to film right."
+    sy "太对了！但她不是不想拍嘛。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:363
 translate chinese sm1ms026_scifi_b1238926:
 
     # mc "Yeah. She's been very hesitant to do more for the studio than just keep our paperwork organized."
-    mc "Yeah. She's been very hesitant to do more for the studio than just keep our paperwork organized."
+    mc "是啊。她一直不太愿意为工作室多做什么，顶多就是帮我们整理整理文件。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:364
 translate chinese sm1ms026_scifi_e654551c:
 
     # sy "Hmmm. Maybe she'll change her mind one day."
-    sy "Hmmm. Maybe she'll change her mind one day."
+    sy "嗯。说不定总有一天，她会改变主意的。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:366
 translate chinese sm1ms026_scifi_cf9421b5:
 
     # mc "We will need a sexy alien too."
-    mc "We will need a sexy alien too."
+    mc "我们还需要一个性感外星人的角色。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:367
 translate chinese sm1ms026_scifi_d706042b:
 
     # sy "Right. Any ideas for someone to fill that slot?"
-    sy "Right. Any ideas for someone to fill that slot?"
+    sy "对。你有合适人选吗？"
 
 # game/code/scenes/main_story/sm1ms026.rpy:370
 translate chinese sm1ms026_scifi_bddfe74f:
 
     # mc "Mmmm. No one is really coming to mind."
-    mc "Mmmm. No one is really coming to mind."
+    mc "嗯...我一时想不出来谁合适。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:371
 translate chinese sm1ms026_scifi_42766f37:
 
     # mc "Maybe someone from the IT office might be a good fit."
-    mc "Maybe someone from the IT office might be a good fit."
+    mc "说不定IT办公室的人里有合适的。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:373
 translate chinese sm1ms026_scifi_13ccde2e:
 
     # sy "Why there?"
-    sy "Why there?"
+    sy "为什么会想到那儿啊？"
 
 # game/code/scenes/main_story/sm1ms026.rpy:374
 translate chinese sm1ms026_scifi_13f27fb6:
 
     # mc "Some of them are so tightly wound, I bet they have some kinky secrets."
-    mc "Some of them are so tightly wound, I bet they have some kinky secrets."
+    mc "他们有些人看起来特别拘谨，我猜他们私下里肯定藏着不少变态的小秘密。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:375
 translate chinese sm1ms026_scifi_631b1f4f:
 
     # sy "Mmm. One can hope."
-    sy "Mmm. One can hope."
+    sy "嗯...希望能找到吧。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:378
 translate chinese sm1ms026_scifi_0dba77bc:
 
     # mc "Mmmm. I wonder if Nari might be a good alien babe."
-    mc "Mmmm. I wonder if Nari might be a good alien babe."
+    mc "嗯。我在想娜丽会不会适合演那个性感外星人。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:379
 translate chinese sm1ms026_scifi_45c83181:
 
     # sy "Nari from the IT Office."
-    sy "Nari from the IT Office."
+    sy "是IT办公室的那个娜丽吧。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:380
 translate chinese sm1ms026_scifi_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "对。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:382
 translate chinese sm1ms026_scifi_239f457a:
 
     # mc "I know she's big into anal."
-    mc "I know she's big into anal."
+    mc "我知道她特别喜欢肛交。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:383
 translate chinese sm1ms026_scifi_8265401d:
 
     # mc "So maybe she'd be into trying out porn."
-    mc "So maybe she'd be into trying out porn."
+    mc "说不定她会愿意试试拍色情片。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:385
 translate chinese sm1ms026_scifi_0a473d5b:
 
     # sy "Hah. Sounds like you've got some work to do."
-    sy "Hah. Sounds like you've got some work to do."
+    sy "哈。看来你得为这件事忙活一下了。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:386
 translate chinese sm1ms026_scifi_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "是啊。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:389
 translate chinese sm1ms026_scifi_da10ad37:
 
     # mc "Oh! Nari would be a great alien babe."
-    mc "Oh! Nari would be a great alien babe."
+    mc "哦！娜丽演性感外星人肯定特别适合。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:390
 translate chinese sm1ms026_scifi_ce99f23f:
 
     # sy "Yes, she would. She's so cute and has that like naivety vibe."
-    sy "Yes, she would. She's so cute and has that like naivety vibe."
+    sy "没错。她长得很可爱，还自带一种天真懵懂的气质。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:392
 translate chinese sm1ms026_scifi_10d2a88a:
 
     # sy "Mmmm. But do you think she's up to it?"
-    sy "Mmmm. But do you think she's up to it?"
+    sy "嗯。但你觉得她能胜任吗？"
 
 # game/code/scenes/main_story/sm1ms026.rpy:393
 translate chinese sm1ms026_scifi_dfd7c641:
 
     # sy "Being kinky doesn't mean you'll be a natural at filming porn."
-    sy "Being kinky doesn't mean you'll be a natural at filming porn."
+    sy "喜欢小众玩法不代表她天生就会拍色情片。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:395
 translate chinese sm1ms026_scifi_5d86b175:
 
     # mc "True, but I know that Nari likes a challenge."
-    mc "True, but I know that Nari likes a challenge."
+    mc "说得对，但我知道娜丽喜欢挑战新事物。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:396
 translate chinese sm1ms026_scifi_d6a7516e:
 
     # mc "And it doesn't hurt to ask."
-    mc "And it doesn't hurt to ask."
+    mc "而且问问她也没什么损失。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:397
 translate chinese sm1ms026_scifi_6e83cc86:
 
     # sy "Sound like a plan."
-    sy "Sound like a plan."
+    sy "这计划听起来不错。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:406
 translate chinese sm1ms026_end_ce116a80:
 
     # sy "All right! Now the most important thing!"
-    sy "All right! Now the most important thing!"
+    sy "好啦！现在到最重要的事了！"
 
 # game/code/scenes/main_story/sm1ms026.rpy:407
 translate chinese sm1ms026_end_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/scenes/main_story/sm1ms026.rpy:408
 translate chinese sm1ms026_end_76bc562e:
 
     # sy "You have to decide on which movie we are making."
-    sy "You have to decide on which movie we are making."
+    sy "你得决定我们先拍哪部电影。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:412
 translate chinese sm1ms026_end_25716dc3:
 
     # mc "Oh right. That is pretty important."
-    mc "Oh right. That is pretty important."
+    mc "哦对。这事确实很重要。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:414
 translate chinese sm1ms026_end_cb7a4cfb:
 
     # sy "Bingo."
-    sy "Bingo."
+    sy "没错。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:415
 translate chinese sm1ms026_end_73ef10e9:
 
     # sy "Once you figure it out, come and talk to me."
-    sy "Once you figure it out, come and talk to me."
+    sy "等你决定好了，就来跟我说。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:417
 translate chinese sm1ms026_end_e18e6fd6:
 
     # mc "What would I do without you, little sister?"
-    mc "What would I do without you, little sister?"
+    mc "亲爱的老妹，要是没有你，我真不知道该怎么办。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:419
 translate chinese sm1ms026_end_30780cf5:
 
     # mc "What would I do without you, Stacy?"
-    mc "What would I do without you, Stacy?"
+    mc "亲爱的史黛西，要是没有你，我真不知道该怎么办。"
 
 # game/code/scenes/main_story/sm1ms026.rpy:423
 translate chinese sm1ms026_end_d05cfa21:
 
     # sy "God only knows..."
-    sy "God only knows..."
+    sy "天知道呢..."
 
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms026.rpy:114
     old "A Pirates Movie"
-    new "A Pirates Movie"
+    new "拍海盗题材电影"
 
     # game/code/scenes/main_story/sm1ms026.rpy:114
     old "A Sci-Fi Movie"
-    new "A Sci-Fi Movie"
+    new "拍科幻题材电影"
 
     # game/code/scenes/main_story/sm1ms026.rpy:114
     old "That's all for now"
-    new "That's all for now"
+    new "先到这儿吧"
 
     # game/code/scenes/main_story/sm1ms026.rpy:302
     old "We should do watersports"
-    new "We should do watersports"
+    new "我们应该加水上作乐的情节"
 
     # game/code/scenes/main_story/sm1ms026.rpy:302
     old "No watersports"
-    new "No watersports"
+    new "不要水上作乐的情节"
 
