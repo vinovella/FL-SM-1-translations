@@ -2,517 +2,517 @@
 translate italian sm1cs_km004_783cf0f3:
 
     # km "This is going to be great, [mcname]."
-    km "This is going to be great, [mcname]."
+    km "Sarà fantastico, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:37
 translate italian sm1cs_km004_8baeea33:
 
     # mc "Yeah, it's pretty exciting."
-    mc "Yeah, it's pretty exciting."
+    mc "Sì, è abbastanza eccitante."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:40
 translate italian sm1cs_km004_2d2feac1:
 
     # km "Thanks again for helping."
-    km "Thanks again for helping."
+    km "Grazie ancora per l'aiuto."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:43
 translate italian sm1cs_km004_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Certo."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:50
 translate italian sm1cs_km004_1702ba2c:
 
     # mc "What is my role for the prank again?"
-    mc "What is my role for the prank again?"
+    mc "Qual è di nuovo il mio ruolo nello scherzo?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:53
 translate italian sm1cs_km004_160fa50b:
 
     # km "Nothing major. I just need you to watch out for people."
-    km "Nothing major. I just need you to watch out for people."
+    km "Niente di importante. Ho solo bisogno che tu faccia la guardia."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:54
 translate italian sm1cs_km004_34732c19:
 
     # km "Make sure that the coast is clear. Stuff like that."
-    km "Make sure that the coast is clear. Stuff like that."
+    km "Assicurati che non ci sia nessuno. Cose del genere."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:57
 translate italian sm1cs_km004_18577038:
 
     # mc "Okay. Cool."
-    mc "Okay. Cool."
+    mc "Okay. Perfetto."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:60
 translate italian sm1cs_km004_80d24e60:
 
     # km "I can't wait to hear her freaking out."
-    km "I can't wait to hear her freaking out."
+    km "Non vedo l'ora di sentirla impazzire."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:63
 translate italian sm1cs_km004_3d9ef9ad:
 
     # mc "But we're not hurting Veronica, right?"
-    mc "But we're not hurting Veronica, right?"
+    mc "Ma non stiamo facendo del male a Veronica, giusto?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:66
 translate italian sm1cs_km004_a6977e95:
 
     # km "Of course not. We just need to get her so embarrassed that she quits the group and regrets ever joining."
-    km "Of course not. We just need to get her so embarrassed that she quits the group and regrets ever joining."
+    km "Certo che no. Dobbiamo solo metterla così in imbarazzo che lasci il gruppo e si penta di essersi mai unita."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:71
 translate italian sm1cs_km004_eeccc0eb:
 
     # km "Okay, I just want to throw her off her game so that I get the lead in the next show."
-    km "Okay, I just want to throw her off her game so that I get the lead in the next show."
+    km "Va bene, voglio solo distrarla così da ottenere il ruolo principale nel prossimo spettacolo."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:74
 translate italian sm1cs_km004_5d9e34a4:
 
     # mc "Thank you. Much less, wicked witch vibe."
-    mc "Thank you. Much less, wicked witch vibe."
+    mc "Grazie. Molto meno aria da strega cattiva."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:77
 translate italian sm1cs_km004_b68cdbc5:
 
     # km "Alright, here we go."
-    km "Alright, here we go."
+    km "Bene, si comincia."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:80
 translate italian sm1cs_km004_1e769ab0:
 
     # km "You're up, [mcname]."
-    km "You're up, [mcname]."
+    km "Tocca a te, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:81
 translate italian sm1cs_km004_d551a398:
 
     # km "Watch the door, I'll be done in two minutes."
-    km "Watch the door, I'll be done in two minutes."
+    km "Guarda la porta, avrò finito in due minuti."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:84
 translate italian sm1cs_km004_0ffb15aa:
 
     # mc "How do you know that?"
-    mc "How do you know that?"
+    mc "Come fai a saperlo?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:87
 translate italian sm1cs_km004_896351e5:
 
     # km "I practiced last night."
-    km "I practiced last night."
+    km "Mi sono esercitata ieri sera."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:95
 translate italian sm1cs_km004_ff5d95c4:
 
     # mct "No problem with a little harmless fun now and then."
-    mct "No problem with a little harmless fun now and then."
+    mct "Nessun problema con un po' di divertimento innocente ogni tanto."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:98
 translate italian sm1cs_km004_e8f00132:
 
     # mct "I never got to do any college pranks."
-    mct "I never got to do any college pranks."
+    mct "Non ho mai potuto fare scherzi all'università."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:101
 translate italian sm1cs_km004_5d6a181c:
 
     # mct "Then again I got to fuck some of my teachers, so maybe you either get to do one or the other..."
-    mct "Then again I got to fuck some of my teachers, so maybe you either get to do one or the other..."
+    mct "D'altra parte sono riuscito a scopare alcune delle mie insegnanti, quindi forse puoi fare solo una cosa o l'altra..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:104
 translate italian sm1cs_km004_b223d3e8:
 
     # mct "A discussion for wiser men than I."
-    mct "A discussion for wiser men than I."
+    mct "Una discussione per uomini più saggi di me."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:105
 translate italian sm1cs_km004_099e4d6b:
 
     # mct "I wonder what she's doing over there with Veronica's purse."
-    mct "I wonder what she's doing over there with Veronica's purse."
+    mct "Mi chiedo cosa stia facendo laggiù con la borsa di Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:110
 translate italian sm1cs_km004_81c0b4b7:
 
     # mct "I don't get Kellie."
-    mct "I don't get Kellie."
+    mct "Non capisco Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:111
 translate italian sm1cs_km004_33399f56:
 
     # mct "Instead of just talking to Veronica about their differences, she thinks this is the right solution."
-    mct "Instead of just talking to Veronica about their differences, she thinks this is the right solution."
+    mct "Invece di parlare semplicemente con Veronica delle loro divergenze, pensa che questa sia la soluzione giusta."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:114
 translate italian sm1cs_km004_b664ecce:
 
     # mct "I can't say too much. I agreed to help after all."
-    mct "I can't say too much. I agreed to help after all."
+    mct "Non posso dire troppo. Dopo tutto ho accettato di aiutare."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:115
 translate italian sm1cs_km004_f7df90cf:
 
     # mct "Hopefully, if this doesn't work, maybe I can push Kellie to just talk things out with Veronica."
-    mct "Hopefully, if this doesn't work, maybe I can push Kellie to just talk things out with Veronica."
+    mct "Si spera che, se questo non funziona, possa convincere Kellie a parlare semplicemente con Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:122
 translate italian sm1cs_km004_c696c919:
 
     # mc "That's the prank? Mixing up her lipstick?"
-    mc "That's the prank? Mixing up her lipstick?"
+    mc "Questo è lo scherzo? Mescolare il suo rossetto?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:125
 translate italian sm1cs_km004_2f30d783:
 
     # km "She's such a ditz, she won't notice until it's too late."
-    km "She's such a ditz, she won't notice until it's too late."
+    km "È così svampita che non se ne accorgerà fino a quando sarà troppo tardi."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:126
 translate italian sm1cs_km004_06cb71d9:
 
     # km "*evil chuckling*"
-    km "*evil chuckling*"
+    km "*risatina malvagia*"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:129
 translate italian sm1cs_km004_623caab6:
 
     # mct "Crap. Someone is coming."
-    mct "Crap. Someone is coming."
+    mct "Accidenti. Qualcuno sta arrivando."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:130
 translate italian sm1cs_km004_599caf3d:
 
     # mct "And Kellie isn't done yet."
-    mct "And Kellie isn't done yet."
+    mct "E Kellie non ha ancora finito."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:134
 translate italian sm1cs_km004_adb1dd5b:
 
     # mct "Shit. It's Taisia. Sounds like she's coming this way."
-    mct "Shit. It's Taisia. Sounds like she's coming this way."
+    mct "Merda. È Taisia. Sembra che stia venendo da questa parte."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:138
 translate italian sm1cs_km004_be365541:
 
     # mc "*whispers* Kellie. Abort. Bad day. Pull the plug."
-    mc "*whispers* Kellie. Abort. Bad day. Pull the plug."
+    mc "*sussurra* Kellie. Annulla. Giornata storta. Lascia perdere."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:141
 translate italian sm1cs_km004_0e0b4cb8:
 
     # km "I've almost got it."
-    km "I've almost got it."
+    km "Ci sono quasi."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:144
 translate italian sm1cs_km004_a005d070:
 
     # mc "Come on. Taisia is coming."
-    mc "Come on. Taisia is coming."
+    mc "Dai. Taisia sta arrivando."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:148
 translate italian sm1cs_km004_f271e74d:
 
     # km "Well, stall her. That's your job. Just keep her outside."
-    km "Well, stall her. That's your job. Just keep her outside."
+    km "Beh, trattienila. Questo è il tuo compito. Tienila solo fuori."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:154
 translate italian sm1cs_km004_60609029:
 
     # mc "Hey, Taisia. What's up?"
-    mc "Hey, Taisia. What's up?"
+    mc "Ehi, Taisia. Come va?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:157
 translate italian sm1cs_km004_c5fac7df:
 
     # tl "Hey, [mcname]. Want to move aside? I need something."
-    tl "Hey, [mcname]. Want to move aside? I need something."
+    tl "Ehi, [mcname]. Vuoi spostarti? Ho bisogno di qualcosa."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:161
 translate italian sm1cs_km004_6c13b006:
 
     # mc "You know, uh...."
-    mc "You know, uh...."
+    mc "Sai, ehm...."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:170
 translate italian sm1cs_km004_da716c1d:
 
     # mc "You know, I just ripped a big one in here."
-    mc "You know, I just ripped a big one in here."
+    mc "Sai, ne ho appena fatta una grossa qui dentro."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:171
 translate italian sm1cs_km004_72f4a26d:
 
     # mc "You should keep clear for a few minutes."
-    mc "You should keep clear for a few minutes."
+    mc "Dovresti stare alla larga per qualche minuto."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:174
 translate italian sm1cs_km004_3e6322f8:
 
     # mc "Trust me, you don't want none of this."
-    mc "Trust me, you don't want none of this."
+    mc "Credimi, non vuoi avere a che fare con questo."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:177
 translate italian sm1cs_km004_b9b4c2fb:
 
     # tl "Are you telling me..."
-    tl "Are you telling me..."
+    tl "Mi stai dicendo..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:178
 translate italian sm1cs_km004_7dbbfebd:
 
     # tl "That you violated my dressing room..."
-    tl "That you violated my dressing room..."
+    tl "Che hai violato il mio camerino..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:182
 translate italian sm1cs_km004_9f9efbcf:
 
     # tl "With a fucking fart?"
-    tl "With a fucking fart?"
+    tl "Con una fottuta scoreggia?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:185
 translate italian sm1cs_km004_32f6670f:
 
     # mc "I mean, technically, it's {i}our{/i} dressing room."
-    mc "I mean, technically, it's {i}our{/i} dressing room."
+    mc "Voglio dire, tecnicamente, è il {i}nostro{/i} camerino."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:188
 translate italian sm1cs_km004_e70a76b5:
 
     # tl "*low growling*"
-    tl "*low growling*"
+    tl "*ringhio basso*"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:191
 translate italian sm1cs_km004_f2687533:
 
     # mct "This is bad. We were just supposed to be pranking Veronica, but now Taisia is in the mix."
-    mct "This is bad. We were just supposed to be pranking Veronica, but now Taisia is in the mix."
+    mct "Questo è brutto. Avremmo dovuto fare uno scherzo solo a Veronica, ma ora c'è anche Taisia di mezzo."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:194
 translate italian sm1cs_km004_b18a6f25:
 
     # mc "Come on. Better out than in, right?"
-    mc "Come on. Better out than in, right?"
+    mc "Dai. Meglio fuori che dentro, no?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:198
 translate italian sm1cs_km004_a7cb7f25:
 
     # tl "No. Not when you share a room with girls."
-    tl "No. Not when you share a room with girls."
+    tl "No. Non quando condividi una stanza con delle ragazze."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:199
 translate italian sm1cs_km004_580f05d6:
 
     # tl "Now move out of the way. I have to smell the damage."
-    tl "Now move out of the way. I have to smell the damage."
+    tl "Ora spostati. Devo annusare il danno."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:202
 translate italian sm1cs_km004_a3b3c69e:
 
     # mc "What? Why?"
-    mc "What? Why?"
+    mc "Cosa? Perché?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:206
 translate italian sm1cs_km004_6fdfaeb6:
 
     # tl "To see if this is a bannable offense, you uncivilized ogre."
-    tl "To see if this is a bannable offense, you uncivilized ogre."
+    tl "Per vedere se questo è un reato punibile, orco incivile."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:209
 translate italian sm1cs_km004_29844415:
 
     # tl "You don't really need a dressing room anyhow. You're a stagehand."
-    tl "You don't really need a dressing room anyhow. You're a stagehand."
+    tl "In ogni caso non hai davvero bisogno di un camerino. Sei un macchinista."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:210
 translate italian sm1cs_km004_79c3d3c4:
 
     # tl "And you'll be lucky if I don't make it my life's work to keep you tied up backstage if this thing is a stinker and a lurker."
-    tl "And you'll be lucky if I don't make it my life's work to keep you tied up backstage if this thing is a stinker and a lurker."
+    tl "E sarai fortunato se non mi dedicherò anima e corpo a tenerti legato dietro le quinte se questa cosa è puzzolente e persistente."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:217
 translate italian sm1cs_km004_fb09713d:
 
     # tl "What's going on? It smells fine in here."
-    tl "What's going on? It smells fine in here."
+    tl "Cosa sta succedendo? Qui dentro ha un buon odore."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:218
 translate italian sm1cs_km004_f9fa5134:
 
     # tl "Nice even."
-    tl "Nice even."
+    tl "Addirittura gradevole."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:223
 translate italian sm1cs_km004_e4ddf66a:
 
     # km "Hi, Taisia. I was just getting something for Veronica. She asked me to get it from her purse."
-    km "Hi, Taisia. I was just getting something for Veronica. She asked me to get it from her purse."
+    km "Ciao, Taisia. Stavo solo prendendo qualcosa per Veronica. Mi ha chiesto di prenderlo dalla sua borsa."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:227
 translate italian sm1cs_km004_a5d75e66:
 
     # tl "Like hell you are."
-    tl "Like hell you are."
+    tl "Un cazzo che lo stavi facendo."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:228
 translate italian sm1cs_km004_2469a89c:
 
     # tl "That's my bag!"
-    tl "That's my bag!"
+    tl "Quella è la mia borsa!"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:231
 translate italian sm1cs_km004_90fdfaa9:
 
     # km "Yes but-"
-    km "Yes but-"
+    km "Sì ma-"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:232
 translate italian sm1cs_km004_14a115ed:
 
     # km "Your bag?{w} It was at Veronica's station."
-    km "Your bag?{w} It was at Veronica's station."
+    km "La tua borsa?{w} Era alla postazione di Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:235
 translate italian sm1cs_km004_54e3406a:
 
     # tl "That's not the point. You're the one in the hot seat, not me."
-    tl "That's not the point. You're the one in the hot seat, not me."
+    tl "Questo non è il punto. Sei tu quella sulla graticola, non io."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:238
 translate italian sm1cs_km004_270d2bc7:
 
     # mc "I should get going."
-    mc "I should get going."
+    mc "Dovrei andare."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:241
 translate italian sm1cs_km004_2a2eecbb:
 
     # tl "Not a chance, dick."
-    tl "Not a chance, dick."
+    tl "Neanche per sogno, coglione."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:244
 translate italian sm1cs_km004_f391be2a:
 
     # tl "Not till I get some answers."
-    tl "Not till I get some answers."
+    tl "Non finché non ottengo delle risposte."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:247
 translate italian sm1cs_km004_daad7f9c:
 
     # mc "Ow."
-    mc "Ow."
+    mc "Ahi."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:250
 translate italian sm1cs_km004_293fc158:
 
     # km "It was just going to be a harmless prank."
-    km "It was just going to be a harmless prank."
+    km "Doveva essere solo uno scherzo innocuo."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:253
 translate italian sm1cs_km004_d4a07342:
 
     # tl "{b}You{/b} were messing with {b}my{/b} makeup."
-    tl "{b}You{/b} were messing with {b}my{/b} makeup."
+    tl "{b}Tu{/b} stavi pasticciando con il {b}mio{/b} trucco."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:256
 translate italian sm1cs_km004_76002d58:
 
     # km "Again. You really shouldn't leave stuff on people's stations."
-    km "Again. You really shouldn't leave stuff on people's stations."
+    km "Di nuovo. Davvero non dovresti lasciare le tue cose alle postazioni degli altri."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:259
 translate italian sm1cs_km004_a9320074:
 
     # tl "That's it. You're dead."
-    tl "That's it. You're dead."
+    tl "Basta così. Sei morta."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:263
 translate italian sm1cs_km004_526335af:
 
     # mc "Whah-"
-    mc "Whah-"
+    mc "Coh-"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:266
 translate italian sm1cs_km004_4dd320d9:
 
     # km "Let's just talk about this."
-    km "Let's just talk about this."
+    km "Parliamone semplicemente."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:269
 translate italian sm1cs_km004_8f39b57a:
 
     # tl "Sure. I hope you don't mind if I let my fists do the talking."
-    tl "Sure. I hope you don't mind if I let my fists do the talking."
+    tl "Certo. Spero che non ti dispiaccia se lascio parlare i miei pugni."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:272
 translate italian sm1cs_km004_d39a9b5d:
 
     # km "Uh oh."
-    km "Uh oh."
+    km "Oh oh."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:285
 translate italian sm1cs_km004_72134c5c:
 
     # tl "Come on. You're only making it worse."
-    tl "Come on. You're only making it worse."
+    tl "Dai. Stai solo peggiorando le cose."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:292
 translate italian sm1cs_km004_f7b62c8a:
 
     # mc "I'm not really a part of this."
-    mc "I'm not really a part of this."
+    mc "Non sono davvero coinvolto in questo."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:296
 translate italian sm1cs_km004_05c73706:
 
     # km "Just chill, Taisia."
-    km "Just chill, Taisia."
+    km "Calmati, Taisia."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:297
 translate italian sm1cs_km004_4d307445:
 
     # km "You've got great taste in makeup, Taisia."
-    km "You've got great taste in makeup, Taisia."
+    km "Hai un ottimo gusto nel trucco, Taisia."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:300
 translate italian sm1cs_km004_e72cd1a6:
 
     # km "Very dark, and uh... intimidating."
-    km "Very dark, and uh... intimidating."
+    km "Molto scuro, e ehm... intimidatorio."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:301
 translate italian sm1cs_km004_4a9c704c:
 
     # km "I just love your whole look."
-    km "I just love your whole look."
+    km "Adoro proprio il tuo intero aspetto."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:304
 translate italian sm1cs_km004_3b9f37df:
 
     # tl "Thanks. I'll give you some tips after I'm done with you."
-    tl "Thanks. I'll give you some tips after I'm done with you."
+    tl "Grazie. Ti darò qualche consiglio dopo che avrò finito con te."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:307
 translate italian sm1cs_km004_0340c1bd:
 
     # tl "And just think of this, do you really think I won't just pound my way through [mcname] to get to you?"
-    tl "And just think of this, do you really think I won't just pound my way through [mcname] to get to you?"
+    tl "E pensa solo a questo, pensi davvero che non mi farò strada a pugni attraverso [mcname] per arrivare a te?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:310
 translate italian sm1cs_km004_57971315:
 
     # km "Uh... Yes, I suppose that is something to-"
-    km "Uh... Yes, I suppose that is something to-"
+    km "Ehm... Sì, suppongo che sia qualcosa da-"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:316
 translate italian sm1cs_km004_cc9e3a09:
 
     # km "Consider!"
-    km "Consider!"
+    km "Considerare!"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:321
 translate italian sm1cs_km004_fed03ca2:
@@ -524,217 +524,217 @@ translate italian sm1cs_km004_fed03ca2:
 translate italian sm1cs_km004_76e069db:
 
     # tl "Hey!"
-    tl "Hey!"
+    tl "Ehi!"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:330
 translate italian sm1cs_km004_63c64710:
 
     # tl "Dammit."
-    tl "Dammit."
+    tl "Accidenti."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:334
 translate italian sm1cs_km004_19af5eb2:
 
     # tl "Come back here, you little pest."
-    tl "Come back here, you little pest."
+    tl "Torna qui, piccolo parassita."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:337
 translate italian sm1cs_km004_df2217e7:
 
     # tl "Man. Love her or hate her, she's got moves."
-    tl "Man. Love her or hate her, she's got moves."
+    tl "Cavolo. Amala o odiala, ha delle mosse."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:340
 translate italian sm1cs_km004_e07f9919:
 
     # mc "Yes, she does."
-    mc "Yes, she does."
+    mc "Sì, ce le ha."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:344
 translate italian sm1cs_km004_52b08451:
 
     # tl "You're not off the hook either, [mcname]."
-    tl "You're not off the hook either, [mcname]."
+    tl "Anche tu non sei fuori dai guai, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:347
 translate italian sm1cs_km004_9e6f11df:
 
     # mc "Me?"
-    mc "Me?"
+    mc "Io?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:350
 translate italian sm1cs_km004_95ccb463:
 
     # tl "Yes. And if any part of this was your idea, I'm kicking your ass after hers."
-    tl "Yes. And if any part of this was your idea, I'm kicking your ass after hers."
+    tl "Sì. E se qualche parte di tutto questo è stata idea tua, ti prenderò a calci nel culo dopo il suo."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:357
 translate italian sm1cs_km004_c73bd862:
 
     # mc "Bring it on, Taisia."
-    mc "Bring it on, Taisia."
+    mc "Vieni avanti, Taisia."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:360
 translate italian sm1cs_km004_18267724:
 
     # tl "Heh."
-    tl "Heh."
+    tl "Eh."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:366
 translate italian sm1cs_km004_fde3bc67:
 
     # mc "Nope. It was all Kellie."
-    mc "Nope. It was all Kellie."
+    mc "No. È stata tutta colpa di Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:369
 translate italian sm1cs_km004_cf88d197:
 
     # tl "Good."
-    tl "Good."
+    tl "Bene."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:377
 translate italian sm1cs_km004_55e66684:
 
     # mct "That was close."
-    mct "That was close."
+    mct "C'è mancato poco."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:378
 translate italian sm1cs_km004_8539c752:
 
     # mct "Now where did Kellie run off to?"
-    mct "Now where did Kellie run off to?"
+    mct "Ora dove è scappata Kellie?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:398
 translate italian sm1cs_km004_warehouse_35bfae4e:
 
     # mc "Ahh! Not the face."
-    mc "Ahh! Not the face."
+    mc "Ahh! Non la faccia."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:401
 translate italian sm1cs_km004_warehouse_78f00081:
 
     # km "Calm down. It's just me."
-    km "Calm down. It's just me."
+    km "Calmati. Sono solo io."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:405
 translate italian sm1cs_km004_warehouse_23a2dc2f:
 
     # mc "You say that like it's a good thing."
-    mc "You say that like it's a good thing."
+    mc "Lo dici come se fosse una cosa buona."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:406
 translate italian sm1cs_km004_warehouse_6bcfd0a6:
 
     # mc "You screwed up, and now Taisia is out for blood."
-    mc "You screwed up, and now Taisia is out for blood."
+    mc "Hai fatto un casino, e ora Taisia vuole sangue."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:409
 translate italian sm1cs_km004_warehouse_6d785eae:
 
     # km "Hah. I've known her longer than you."
-    km "Hah. I've known her longer than you."
+    km "Hah. La conosco da più tempo di te."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:410
 translate italian sm1cs_km004_warehouse_be5f03b1:
 
     # km "Her bark is worse than her bite."
-    km "Her bark is worse than her bite."
+    km "Abbaia più di quanto morda."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:413
 translate italian sm1cs_km004_warehouse_d264663e:
 
     # km "Plus, I know one of her weaknesses."
-    km "Plus, I know one of her weaknesses."
+    km "Inoltre, conosco una delle sue debolezze."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:416
 translate italian sm1cs_km004_warehouse_83ccd2bf:
 
     # mc "Oh, you do?"
-    mc "Oh, you do?"
+    mc "Oh, davvero?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:419
 translate italian sm1cs_km004_warehouse_05c854d4:
 
     # km "Yup. If you gave her a twenty, I bet she'd forget she ever saw us."
-    km "Yup. If you gave her a twenty, I bet she'd forget she ever saw us."
+    km "Sì. Se le dessi venti dollari, scommetto che dimenticherà di averci mai visti."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:422
 translate italian sm1cs_km004_warehouse_29838345:
 
     # mc "I'm not willing to take that chance."
-    mc "I'm not willing to take that chance."
+    mc "Non sono disposto a correre questo rischio."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:425
 translate italian sm1cs_km004_warehouse_4a440c01:
 
     # km "It's fine. It's not important now."
-    km "It's fine. It's not important now."
+    km "Va bene. Non è importante ora."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:428
 translate italian sm1cs_km004_warehouse_2d8f6625:
 
     # km "What is important is that when I was running away, I figured out a new plan to prank Veronica."
-    km "What is important is that when I was running away, I figured out a new plan to prank Veronica."
+    km "Ciò che è importante è che mentre scappavo, ho escogitato un nuovo piano per fare uno scherzo a Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:431
 translate italian sm1cs_km004_warehouse_c8c6cd95:
 
     # km "And this one is guaranteed to work."
-    km "And this one is guaranteed to work."
+    km "E questo è garantito che funzionerà."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:437
 translate italian sm1cs_km004_warehouse_1623f7f6:
 
     # mc "Okay, what is this surefire plan?"
-    mc "Okay, what is this surefire plan?"
+    mc "Ok, qual è questo piano infallibile?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:444
 translate italian sm1cs_km004_warehouse_bb53de53:
 
     # mc "I don't know. This whole thing is starting to feel a bit crazy."
-    mc "I don't know. This whole thing is starting to feel a bit crazy."
+    mc "Non lo so. Tutta questa cosa sta iniziando a sembrare un po' pazzesca."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:447
 translate italian sm1cs_km004_warehouse_68a0997f:
 
     # km "You said that you would help me, [mcname]."
-    km "You said that you would help me, [mcname]."
+    km "Hai detto che mi avresti aiutato, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:451
 translate italian sm1cs_km004_warehouse_23829e05:
 
     # mc "*sighs* I know that, but..."
-    mc "*sighs* I know that, but..."
+    mc "*sospira* Lo so, ma..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:454
 translate italian sm1cs_km004_warehouse_dd4fb29b:
 
     # km "*sighs* It's fine..."
-    km "*sighs* It's fine..."
+    km "*sospira* Va bene..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:455
 translate italian sm1cs_km004_warehouse_abc53e99:
 
     # km "It was a stupid idea anyway."
-    km "It was a stupid idea anyway."
+    km "Era comunque un'idea stupida."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:456
 translate italian sm1cs_km004_warehouse_cc6c33ef:
 
     # km "I just..."
-    km "I just..."
+    km "Io solo..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:459
 translate italian sm1cs_km004_warehouse_269483d1:
 
     # km "I need this, [mcname]."
-    km "I need this, [mcname]."
+    km "Ho bisogno di questo, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:460
 translate italian sm1cs_km004_warehouse_f6a23c00:
 
     # km "If I don't get a lead role soon, I think I'm going to be trapped playing second fiddle forever."
-    km "If I don't get a lead role soon, I think I'm going to be trapped playing second fiddle forever."
+    km "Se non ottengo un ruolo da protagonista presto, penso che rimarrò intrappolata a fare la seconda per sempre."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:462
 translate italian sm1cs_km004_warehouse_debd4bc9:
@@ -746,61 +746,61 @@ translate italian sm1cs_km004_warehouse_debd4bc9:
 translate italian sm1cs_km004_warehouse_36ede24b:
 
     # mc "Okay. We can do one more prank."
-    mc "Okay. We can do one more prank."
+    mc "Ok. Possiamo fare ancora uno scherzo."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:468
 translate italian sm1cs_km004_warehouse_70fc5e8d:
 
     # km "Really?"
-    km "Really?"
+    km "Davvero?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:471
 translate italian sm1cs_km004_warehouse_7689cc35:
 
     # mc "Yes, just... Let's make extra sure everyone is far away when we do."
-    mc "Yes, just... Let's make extra sure everyone is far away when we do."
+    mc "Sì, solo... Assicuriamoci che tutti siano lontani quando lo facciamo."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:474
 translate italian sm1cs_km004_warehouse_8a005c45:
 
     # km "You got it."
-    km "You got it."
+    km "Affare fatto."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:477
 translate italian sm1cs_km004_warehouse_c0b2a7a6:
 
     # km "Here is the plan."
-    km "Here is the plan."
+    km "Ecco il piano."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:479
 translate italian sm1cs_km004_warehouse_2a41590c:
 
     # km "*whispers*"
-    km "*whispers*"
+    km "*sussurra*"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:490
 translate italian sm1cs_km004_locker_0ec0bcca:
 
     # mct "I can think of a dozen ways this won't work."
-    mct "I can think of a dozen ways this won't work."
+    mct "Posso pensare a una dozzina di modi in cui questo non funzionerà."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:491
 translate italian sm1cs_km004_locker_b82e7b9d:
 
     # mct "At least we know Veronica won't be coming anytime soon. I can still hear the shower."
-    mct "At least we know Veronica won't be coming anytime soon. I can still hear the shower."
+    mct "Almeno sappiamo che Veronica non arriverà tanto presto. Posso ancora sentire la doccia."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:495
 translate italian sm1cs_km004_locker_7eb0e2b9:
 
     # mc "How did you learn to pick locks, again?"
-    mc "How did you learn to pick locks, again?"
+    mc "Come hai imparato a scassinare le serrature, di nuovo?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:498
 translate italian sm1cs_km004_locker_6a9eda10:
 
     # km "Trade secret."
-    km "Trade secret."
+    km "Segreto del mestiere."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:501
 translate italian sm1cs_km004_locker_37aaed28:
@@ -812,25 +812,25 @@ translate italian sm1cs_km004_locker_37aaed28:
 translate italian sm1cs_km004_locker_9a2753fe:
 
     # km "If these are mysteriously Taisia's clothes in Veronica's locker, I'm quitting."
-    km "If these are mysteriously Taisia's clothes in Veronica's locker, I'm quitting."
+    km "Se questi sono misteriosamente i vestiti di Taisia nell'armadietto di Veronica, mi ritiro."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:508
 translate italian sm1cs_km004_locker_c91901df:
 
     # mc "No, those are all very bubbly and distinctly non-Taisia."
-    mc "No, those are all very bubbly and distinctly non-Taisia."
+    mc "No, quelli sono tutti molto sbarazzini e decisamente non-Taisia."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:512
 translate italian sm1cs_km004_locker_1b86d331:
 
     # km "Good."
-    km "Good."
+    km "Bene."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:515
 translate italian sm1cs_km004_locker_3d5ca330:
 
     # km "Let's go."
-    km "Let's go."
+    km "Andiamo."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:529
 translate italian sm1cs_km004_locker_bb15f47e:
@@ -842,7 +842,7 @@ translate italian sm1cs_km004_locker_bb15f47e:
 translate italian sm1cs_km004_locker_31056ed7:
 
     # vs "How strange."
-    vs "How strange."
+    vs "Che strano."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:536
 translate italian sm1cs_km004_locker_5be8d1ea:
