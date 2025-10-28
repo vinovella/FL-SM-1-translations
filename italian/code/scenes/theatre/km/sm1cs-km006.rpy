@@ -1124,85 +1124,85 @@ translate italian sm1cs_km006_after_td_6323ca55:
 translate italian sm1cs_km006_after_td_bdb31c6a:
 
     # vs "Go back."
-    vs "Go back."
+    vs "Torna indietro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:667
 translate italian sm1cs_km006_after_td_51fb848b:
 
     # vs "I know you didn't care for me for a while, but now you're saying that you like, [mcname]?"
-    vs "I know you didn't care for me for a while, but now you're saying that you like, [mcname]?"
+    vs "So che non ti importava di me per un po', ma ora stai dicendo che ti piace [mcname]?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:670
 translate italian sm1cs_km006_after_td_a4c718df:
 
     # km "What?{w} No.{w} Yes.{w} I mean...{w} I like you."
-    km "What?{w} No.{w} Yes.{w} I mean...{w} I like you."
+    km "Cosa?{w} No.{w} Sì.{w} Voglio dire...{w} Mi piaci tu."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:671
 translate italian sm1cs_km006_after_td_eb21c607:
 
     # km "[mcname] is just [mcname]."
-    km "[mcname] is just [mcname]."
+    km "[mcname] è solo [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:672
 translate italian sm1cs_km006_after_td_026c7681:
 
     # mc "Ouch."
-    mc "Ouch."
+    mc "Ahi."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:675
 translate italian sm1cs_km006_after_td_eb2fcb75:
 
     # km "And the truth is we didn't have sex."
-    km "And the truth is we didn't have sex."
+    km "E la verità è che non abbiamo fatto sesso."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:676
 translate italian sm1cs_km006_after_td_1b66ca5e:
 
     # km "I just... gave him a handjob."
-    km "I just... gave him a handjob."
+    km "Io... gli ho solo fatto una sega."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:679
 translate italian sm1cs_km006_after_td_e1c81c58:
 
     # km "And a boobjob."
-    km "And a boobjob."
+    km "E una spagnola."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:681
 translate italian sm1cs_km006_after_td_af88c117:
 
     # vs "Oh woah. You really are kinky."
-    vs "Oh woah. You really are kinky."
+    vs "Oh wow. Sei davvero perversa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:685
 translate italian sm1cs_km006_after_td_c657d915:
 
     # km "I'm not.{w} I mean."
-    km "I'm not.{w} I mean."
+    km "Non lo sono.{w} Voglio dire."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:686
 translate italian sm1cs_km006_after_td_3e54b2e8:
 
     # km "Maybe I am."
-    km "Maybe I am."
+    km "Forse lo sono."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:687
 translate italian sm1cs_km006_after_td_40f8621e:
 
     # km "All the relationships I've had...{w} they never went anywhere."
-    km "All the relationships I've had...{w} they never went anywhere."
+    km "Tutte le relazioni che ho avuto...{w} non sono mai andate da nessuna parte."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:690
 translate italian sm1cs_km006_after_td_8bdd6050:
 
     # km "I don't think I ever tried anything that you two would say is kinky."
-    km "I don't think I ever tried anything that you two would say is kinky."
+    km "Non penso di aver mai provato nulla che voi due direste essere perverso."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:691
 translate italian sm1cs_km006_after_td_b09bee96:
 
     # km "I guess...{w} I kind of became super focused on doing well on the stage."
-    km "I guess...{w} I kind of became super focused on doing well on the stage."
+    km "Immagino...{w} Sono diventata super concentrata sul fare bene sul palco."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:694
 translate italian sm1cs_km006_after_td_5500d49e:
