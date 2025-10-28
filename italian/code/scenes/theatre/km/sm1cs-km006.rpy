@@ -2,7 +2,8 @@
 translate italian sm1cs_km006_70250aa5:
 
     # mc "Sure. We're just practicing."
-    mc "Certo. Stiamo solo provando."
+    mc "Certo. Stiamo solo facendo pratica."
+
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:94
 translate italian sm1cs_km006_b2e61965:
@@ -20,13 +21,13 @@ translate italian sm1cs_km006_f8a9eea9:
 translate italian sm1cs_km006_78d1bd5a:
 
     # mc "I thought we were skipping talk about your crush on, Veronica."
-    mc "Pensavo stessimo saltando i discorsi sulla tua cotta per Veronica."
+    mc "Pensavo stessimo saltando il discorso sulla tua cotta per Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:100
 translate italian sm1cs_km006_1f1a2266:
 
     # mc "Not how good you are at boobjobs."
-    mc "Non su quanto sei brava con le spagnole."
+    mc "Non quanto sei brava con le spagnole."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:104
 translate italian sm1cs_km006_92ab30ef:
@@ -80,19 +81,19 @@ translate italian sm1cs_km006_menu_2_146735ff:
 translate italian sm1cs_km006_menu_2_b28d1d71:
 
     # km "Hmmm.{w} I guess you're not all bad."
-    km "Hmmm.{w} Immagino che tu non sia del tutto cattivo."
+    km "Hmmm.{w} Immagino che tu non sia del tutto male."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:140
 translate italian sm1cs_km006_menu_2_2fee34e7:
 
     # mc "Don't make me banish you from my presence, Kellie."
-    mc "Non farmi bandire dalla mia presenza, Kellie."
+    mc "Non costringermi a bandirt dalla mia presenza, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:143
 translate italian sm1cs_km006_menu_2_4c2a0b5f:
 
     # km "Hmmm. Maybe there is more to you than just a big dick."
-    km "Hmmm. Forse c'è di più in te di un semplice grosso cazzo."
+    km "Hmmm. Forse c'è più di te che solo un grosso cazzo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:144
 translate italian sm1cs_km006_menu_2_8472a3dd:
@@ -710,7 +711,7 @@ translate italian sm1cs_km006_dressing_room_9fba4a24:
 translate italian sm1cs_km006_dressing_room_4415dd95:
 
     # mc "Truth."
-    mc "Truth."
+    mc "Verità."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:465
 translate italian sm1cs_km006_dressing_room_afa27e03:
@@ -1208,61 +1209,61 @@ translate italian sm1cs_km006_after_td_b09bee96:
 translate italian sm1cs_km006_after_td_5500d49e:
 
     # mc "You gotta make sure you take care of your needs, Kellie."
-    mc "You gotta make sure you take care of your needs, Kellie."
+    mc "Devi assicurarti di prenderti cura dei tuoi bisogni, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:696
 translate italian sm1cs_km006_after_td_3071b231:
 
     # km "That's easy for you to say."
-    km "That's easy for you to say."
+    km "È facile per te dirlo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:699
 translate italian sm1cs_km006_after_td_c8ff822c:
 
     # vs "No, he's right.{w} If you get all pent up and don't take care of your inner princess, it can affect the rest of your life."
-    vs "No, he's right.{w} If you get all pent up and don't take care of your inner princess, it can affect the rest of your life."
+    vs "No, ha ragione.{w} Se ti chiudi in te stessa e non ti prendi cura della tua principessa interiore, può influenzare il resto della tua vita."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:702
 translate italian sm1cs_km006_after_td_204fe3bc:
 
     # mc "Inner princess?"
-    mc "Inner princess?"
+    mc "Principessa interiore?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:705
 translate italian sm1cs_km006_after_td_931f88c2:
 
     # vs "Hehe. Ooooh.{w} I mean. if you don't take care of your needs, like [mcname] said."
-    vs "Hehe. Ooooh.{w} I mean. if you don't take care of your needs, like [mcname] said."
+    vs "Hehe. Ooooh.{w} Voglio dire, se non ti prendi cura dei tuoi bisogni, come ha detto [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:707
 translate italian sm1cs_km006_after_td_78981e1e:
 
     # km "Can't we just forget about this?"
-    km "Can't we just forget about this?"
+    km "Non possiamo semplicemente dimenticare tutto questo?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:710
 translate italian sm1cs_km006_after_td_9604a318:
 
     # vs "We can, if that is what you really want.{w} But you'd be leaving us hanging."
-    vs "We can, if that is what you really want.{w} But you'd be leaving us hanging."
+    vs "Possiamo, se è davvero quello che vuoi.{w} Ma ci lasceresti in sospeso."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:713
 translate italian sm1cs_km006_after_td_18b13235:
 
     # km "*breathes deeply* I mean.{w} I actually had fun. but..."
-    km "*breathes deeply* I mean.{w} I actually had fun. but..."
+    km "*respira profondamente* Voglio dire.{w} Mi sono davvero divertita, ma..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:714
 translate italian sm1cs_km006_after_td_3f1fa517:
 
     # km "I don't know.{w} This is all happening so fast."
-    km "I don't know.{w} This is all happening so fast."
+    km "Non lo so.{w} Sta succedendo tutto così in fretta."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:716
 translate italian sm1cs_km006_after_td_a216e347:
 
     # vs "Well, it's your turn. So you're back in control.{w} Or we can stop now."
-    vs "Well, it's your turn. So you're back in control.{w} Or we can stop now."
+    vs "Beh, è il tuo turno. Quindi hai di nuovo il controllo.{w} O possiamo fermarci ora."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:719
 translate italian sm1cs_km006_after_td_e0f1bf7a:
@@ -1274,25 +1275,25 @@ translate italian sm1cs_km006_after_td_e0f1bf7a:
 translate italian sm1cs_km006_after_td_e24e4bc2:
 
     # km "I want to keep going."
-    km "I want to keep going."
+    km "Voglio continuare."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:723
 translate italian sm1cs_km006_after_td_b0392d29:
 
     # km "[mcname]. Truth or dare."
-    km "[mcname]. Truth or dare."
+    km "[mcname]. Obbligo o verità."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:725
 translate italian sm1cs_km006_after_td_4415dd95:
 
     # mc "Truth."
-    mc "Truth."
+    mc "Verità."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:728
 translate italian sm1cs_km006_after_td_6a5fe2ae:
 
     # km "What is the secret about you that Veronica knows?"
-    km "What is the secret about you that Veronica knows?"
+    km "Qual è il segreto su di te che Veronica conosce?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:730
 translate italian sm1cs_km006_after_td_2432f0fe:
@@ -1304,37 +1305,37 @@ translate italian sm1cs_km006_after_td_2432f0fe:
 translate italian sm1cs_km006_after_td_303ca840:
 
     # mct "I almost forgot, Kellie doesn't know about me being involved with Fetish Locator?"
-    mct "I almost forgot, Kellie doesn't know about me being involved with Fetish Locator?"
+    mct "Ho quasi dimenticato, Kellie non sa che sono stato coinvolto con Fetish Locator?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:733
 translate italian sm1cs_km006_after_td_1b907286:
 
     # mct "I should have told her by now.{w} What if telling her makes her bail on this?"
-    mct "I should have told her by now.{w} What if telling her makes her bail on this?"
+    mct "Avrei dovuto dirglielo ormai.{w} E se dirglielo la facesse rinunciare?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:734
 translate italian sm1cs_km006_after_td_edf8280b:
 
     # mct "It seems to be going well, she's loosening up with us."
-    mct "It seems to be going well, she's loosening up with us."
+    mct "Sembra andare bene, si sta sciogliendo con noi."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:740
 translate italian sm1cs_km006_after_td_f33a93e6:
 
     # mc "The secret is...{w}"
-    mc "The secret is...{w}"
+    mc "Il segreto è...{w}"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:741
 translate italian sm1cs_km006_after_td_7e89de9f:
 
     # mct "Pause for dramatic effect."
-    mct "Pause for dramatic effect."
+    mct "Pausa per effetto drammatico."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:742
 translate italian sm1cs_km006_after_td_f2dd63ba:
 
     # mc "I... [mcname]...{w} am the guy who took down the Fetish Locator app."
-    mc "I... [mcname]...{w} am the guy who took down the Fetish Locator app."
+    mc "Io... [mcname]...{w} sono il ragazzo che ha fatto cadere l'app Fetish Locator."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:745
 translate italian sm1cs_km006_after_td_5b6edf92:
@@ -1346,253 +1347,253 @@ translate italian sm1cs_km006_after_td_5b6edf92:
 translate italian sm1cs_km006_after_td_54c3bc6d:
 
     # km "Wait... that was the like... Ember kind of app that was on one of the campuses nearby, right?"
-    km "Wait... that was the like... Ember kind of app that was on one of the campuses nearby, right?"
+    km "Aspetta... era tipo... quell'app tipo Ember che era in uno dei campus vicini, giusto?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:749
 translate italian sm1cs_km006_after_td_6f69a23b:
 
     # vs "Oh, it was way more than that."
-    vs "Oh, it was way more than that."
+    vs "Oh, era molto più di questo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:750
 translate italian sm1cs_km006_after_td_3f7369e3:
 
     # vs "It was all set up for people to try out their kinks."
-    vs "It was all set up for people to try out their kinks."
+    vs "Era tutto organizzato per far provare alle persone i loro kink."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:753
 translate italian sm1cs_km006_after_td_3bc75d1c:
 
     # vs "Stuff that they couldn't do with their boyfriends or girlfriends."
-    vs "Stuff that they couldn't do with their boyfriends or girlfriends."
+    vs "Cose che non potevano fare con i loro fidanzati o fidanzate."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:754
 translate italian sm1cs_km006_after_td_42de2bef:
 
     # vs "But I guess the owner was into some bad stuff."
-    vs "But I guess the owner was into some bad stuff."
+    vs "Ma immagino che il proprietario fosse coinvolto in cose cattive."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:757
 translate italian sm1cs_km006_after_td_f1c29697:
 
     # vs "On the plus-side, [mcname] and I have kind of kept the spirit of Fetish Locator going."
-    vs "On the plus-side, [mcname] and I have kind of kept the spirit of Fetish Locator going."
+    vs "Sul lato positivo, [mcname] ed io abbiamo in un certo senso mantenuto vivo lo spirito di Fetish Locator."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:760
 translate italian sm1cs_km006_after_td_6ff3c4ae:
 
     # km "Really?{w} You'll have to tell me about that sometime."
-    km "Really?{w} You'll have to tell me about that sometime."
+    km "Davvero?{w} Dovrai raccontarmelo un giorno."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:762
 translate italian sm1cs_km006_after_td_715e7792:
 
     # vs "How about now?"
-    vs "How about now?"
+    vs "E adesso?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:765
 translate italian sm1cs_km006_after_td_70664049:
 
     # km "*nervous* Now?"
-    km "*nervous* Now?"
+    km "*nervosa* Adesso?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:767
 translate italian sm1cs_km006_after_td_fce64c88:
 
     # vs "Sure. No time like the present."
-    vs "Sure. No time like the present."
+    vs "Certo. Non c'è momento migliore del presente."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:773
 translate italian sm1cs_km006_after_td_eb46b4c5:
 
     # vs "Haha. Wimp."
-    vs "Haha. Wimp."
+    vs "Haha. Fifone."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:775
 translate italian sm1cs_km006_after_td_1f2614bc:
 
     # km "It's okay, [mcname]."
-    km "It's okay, [mcname]."
+    km "Va bene, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:776
 translate italian sm1cs_km006_after_td_10d42b23:
 
     # km "Maybe you'll tell me some other time.{w} I don't mind."
-    km "Maybe you'll tell me some other time.{w} I don't mind."
+    km "Forse me lo dirai un'altra volta.{w} Non mi dispiace."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:779
 translate italian sm1cs_km006_after_td_cd32da5d:
 
     # mc "Thanks, Kellie."
-    mc "Thanks, Kellie."
+    mc "Grazie, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:782
 translate italian sm1cs_km006_after_td_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:784
 translate italian sm1cs_km006_after_td_865fface:
 
     # vs "Party pooper."
-    vs "Party pooper."
+    vs "Guastafeste."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:789
 translate italian sm1cs_km006_after_td_c3936a6c:
 
     # vs "Alright, time to kick things up a bit."
-    vs "Alright, time to kick things up a bit."
+    vs "Va bene, è ora di alzare un po' il tiro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:790
 translate italian sm1cs_km006_after_td_2949fbf4:
 
     # vs "It's my turn and I want a twofer."
-    vs "It's my turn and I want a twofer."
+    vs "È il mio turno e voglio un due per uno."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:793
 translate italian sm1cs_km006_after_td_1309de0d:
 
     # vs "I dare you two to watch me get undressed."
-    vs "I dare you two to watch me get undressed."
+    vs "Vi sfido entrambi a guardarmi mentre mi svesto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:795
 translate italian sm1cs_km006_after_td_419d89b9:
 
     # km "Okay that is definitely not how the game is played."
-    km "Okay that is definitely not how the game is played."
+    km "Okay questo non è decisamente come si gioca."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:799
 translate italian sm1cs_km006_after_td_246ac3b0:
 
     # vs "Oh... well... you don't seem too worked up about the rules."
-    vs "Oh... well... you don't seem too worked up about the rules."
+    vs "Oh... beh... non sembri troppo preoccupata delle regole."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:801
 translate italian sm1cs_km006_after_td_016fe108:
 
     # km "No... I guess not."
-    km "No... I guess not."
+    km "No... Immagino di no."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:804
 translate italian sm1cs_km006_after_td_e6e3010f:
 
     # vs "Now you can \"like\" my body in person, Kellie."
-    vs "Now you can \"like\" my body in person, Kellie."
+    vs "Ora puoi mettere \"mi piace\" al mio corpo di persona, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:807
 translate italian sm1cs_km006_after_td_73da43db:
 
     # vs "Relax.{w} We can go at your speed, but I've caught you looking at me during the game."
-    vs "Relax.{w} We can go at your speed, but I've caught you looking at me during the game."
+    vs "Rilassati.{w} Possiamo andare al tuo ritmo, ma ti ho beccata a guardarmi durante il gioco."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:808
 translate italian sm1cs_km006_after_td_af9a512b:
 
     # vs "Well... me and [mcname]."
-    vs "Well... me and [mcname]."
+    vs "Beh... io e [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:811
 translate italian sm1cs_km006_after_td_a830bceb:
 
     # km "I wasn't."
-    km "I wasn't."
+    km "Non lo ero."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:812
 translate italian sm1cs_km006_after_td_55e937f4:
 
     # km "*giggles* Was it that obvious?"
-    km "*giggles* Was it that obvious?"
+    km "*ridacchia* Era così ovvio?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:815
 translate italian sm1cs_km006_after_td_732f9386:
 
     # vs "I think you only slipped because of the tequila."
-    vs "I think you only slipped because of the tequila."
+    vs "Penso che tu sia scivolata solo a causa della tequila."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:817
 translate italian sm1cs_km006_after_td_a0b9d9f0:
 
     # km "Hehe. Yeah.{w} My pussy is getting a little slippery too."
-    km "Hehe. Yeah.{w} My pussy is getting a little slippery too."
+    km "Hehe. Sì.{w} Anche la mia figa sta diventando un po' scivolosa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:820
 translate italian sm1cs_km006_after_td_b60da220:
 
     # km "Oh my god."
-    km "Oh my god."
+    km "Oh mio dio."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:823
 translate italian sm1cs_km006_after_td_137d73d6:
 
     # vs "Hahaha. I knew it. You have a bit of a naughty side."
-    vs "Hahaha. I knew it. You have a bit of a naughty side."
+    vs "Hahaha. Lo sapevo. Hai un lato un po' birichino."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:824
 translate italian sm1cs_km006_after_td_19cac2d6:
 
     # km "My brain says hide it, but my heart..."
-    km "My brain says hide it, but my heart..."
+    km "Il mio cervello dice di nasconderlo, ma il mio cuore..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:827
 translate italian sm1cs_km006_after_td_bc47c163:
 
     # vs "What does it want?"
-    vs "What does it want?"
+    vs "Cosa vuole?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:830
 translate italian sm1cs_km006_after_td_35d0aaef:
 
     # km "It's too much."
-    km "It's too much."
+    km "È troppo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:833
 translate italian sm1cs_km006_after_td_543f91ee:
 
     # vs "You can always ask.{w} If I like it, I'll say yes. Or I'll say no."
-    vs "You can always ask.{w} If I like it, I'll say yes. Or I'll say no."
+    vs "Puoi sempre chiedere.{w} Se mi piace, dirò di sì. O dirò di no."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:834
 translate italian sm1cs_km006_after_td_68d187da:
 
     # vs "It's as simple as that."
-    vs "It's as simple as that."
+    vs "È semplice così."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:837
 translate italian sm1cs_km006_after_td_dfc9f26c:
 
     # km "Is it, [mcname]?"
-    km "Is it, [mcname]?"
+    km "È così, [mcname]?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:839
 translate italian sm1cs_km006_after_td_74dbb5c0:
 
     # mc "Sure is."
-    mc "Sure is."
+    mc "Certo che lo è."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:842
 translate italian sm1cs_km006_after_td_254f7fb2:
 
     # km "Okay. Cause... I mean... my pussy is getting so wet. But I thought... how wet it might get..."
-    km "Okay. Cause... I mean... my pussy is getting so wet. But I thought... how wet it might get..."
+    km "Okay. Perché... Voglio dire... la mia figa si sta bagnando così tanto. Ma pensavo... quanto potrebbe bagnarsi..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:843
 translate italian sm1cs_km006_after_td_2c31d073:
 
     # km "If you used your tongue on it, Veronica..."
-    km "If you used your tongue on it, Veronica..."
+    km "Se ci usassi la lingua, Veronica..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:846
 translate italian sm1cs_km006_after_td_5c2a2555:
 
     # vs "Ooooh. Now that... I can do it."
-    vs "Ooooh. Now that... I can do it."
+    vs "Ooooh. Questo... Lo posso fare."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:855
 translate italian sm1cs_km006_sex_0aac4136:
 
     # km "What are you doing?"
-    km "What are you doing?"
+    km "Cosa stai facendo?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:856
 translate italian sm1cs_km006_sex_9f2ca28f:
@@ -1604,43 +1605,43 @@ translate italian sm1cs_km006_sex_9f2ca28f:
 translate italian sm1cs_km006_sex_8d2ee405:
 
     # vs "I work better in unrestrictive clothes."
-    vs "I work better in unrestrictive clothes."
+    vs "Lavoro meglio in abiti non restrittivi."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:862
 translate italian sm1cs_km006_sex_c5a0fc16:
 
     # vs "Plus, this isn't just for {b}you{/b}, Kellie."
-    vs "Plus, this isn't just for {b}you{/b}, Kellie."
+    vs "Inoltre, questo non è solo per {b}te{/b}, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:863
 translate italian sm1cs_km006_sex_d7945e90:
 
     # vs "It's rude to be selfish."
-    vs "It's rude to be selfish."
+    vs "È maleducato essere egoisti."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:866
 translate italian sm1cs_km006_sex_93827dad:
 
     # km "*softly* Okay..."
-    km "*softly* Okay..."
+    km "*dolcemente* Okay..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:868
 translate italian sm1cs_km006_sex_23549146:
 
     # vs "Besides. The hornier I get, the better my tongue gets."
-    vs "Besides. The hornier I get, the better my tongue gets."
+    vs "Inoltre. Più mi eccito, migliore diventa la mia lingua."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:869
 translate italian sm1cs_km006_sex_a58ce5b8:
 
     # vs "I don't want to give you a less than stellar performance."
-    vs "I don't want to give you a less than stellar performance."
+    vs "Non voglio darti una performance meno che stellare."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:872
 translate italian sm1cs_km006_sex_6d2e8775:
 
     # km "I suppose not. {w}Hey...{w} I... I want to do something too."
-    km "I suppose not. {w}Hey...{w} I... I want to do something too."
+    km "Immagino di no. {w}Ehi...{w} Io... Voglio fare qualcosa anch'io."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:878
 translate italian sm1cs_km006_sex_debd4bc9:
@@ -1652,67 +1653,67 @@ translate italian sm1cs_km006_sex_debd4bc9:
 translate italian sm1cs_km006_sex_7570565c:
 
     # km "Well, say something."
-    km "Well, say something."
+    km "Beh, di qualcosa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:882
 translate italian sm1cs_km006_sex_f2b8bd45:
 
     # vs "They're amazing."
-    vs "They're amazing."
+    vs "Sono incredibili."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:883
 translate italian sm1cs_km006_sex_bd03a83d:
 
     # vs "I didn't think I'd see them again so soon."
-    vs "I didn't think I'd see them again so soon."
+    vs "Non pensavo di rivederle così presto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:887
 translate italian sm1cs_km006_sex_68f79a00:
 
     # vs "But I need you to take something else off too."
-    vs "But I need you to take something else off too."
+    vs "Ma ho bisogno che ti togli anche qualcos'altro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:889
 translate italian sm1cs_km006_sex_63c0dfed:
 
     # km "Yes... but... maybe we can try kissing first."
-    km "Yes... but... maybe we can try kissing first."
+    km "Sì... ma... forse possiamo provare a baciarci prima."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:890
 translate italian sm1cs_km006_sex_9f30a15d:
 
     # km "That might make me relax."
-    km "That might make me relax."
+    km "Potrebbe farmi rilassare."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:893
 translate italian sm1cs_km006_sex_5a790779:
 
     # vs "Sure.{w} We can kiss...{w} And [mcname] can get undressed."
-    vs "Sure.{w} We can kiss...{w} And [mcname] can get undressed."
+    vs "Certo.{w} Possiamo baciarci...{w} E [mcname] può spogliarsi."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:896
 translate italian sm1cs_km006_sex_0573fabd:
 
     # km "*gulps*"
-    km "*gulps*"
+    km "*deglutisce*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:899
 translate italian sm1cs_km006_sex_60736358:
 
     # km "Is that going to be...{w} okay with you?"
-    km "Is that going to be...{w} okay with you?"
+    km "Andrà...{w} bene per te?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:901
 translate italian sm1cs_km006_sex_e7e095ab:
 
     # mct "FUCK YES!"
-    mct "FUCK YES!"
+    mct "CAZZO SÌ!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:902
 translate italian sm1cs_km006_sex_50455de7:
 
     # mc "Sure, Kellie."
-    mc "Sure, Kellie."
+    mc "Certo, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:903
 translate italian sm1cs_km006_sex_7c7eab4a:
@@ -1730,25 +1731,25 @@ translate italian sm1cs_km006_sex_9f2ca28f_1:
 translate italian sm1cs_km006_sex_7f1b4be0:
 
     # mct "Fucking laces!"
-    mct "Fucking laces!"
+    mct "Fottuti lacci!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:918
 translate italian sm1cs_km006_sex_fddc5493:
 
     # vs "*hungry moans*"
-    vs "*hungry moans*"
+    vs "*gemiti affamati*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:920
 translate italian sm1cs_km006_sex_2ff463c2:
 
     # mct "Easy Veronica, don't want to scare her off."
-    mct "Easy Veronica, don't want to scare her off."
+    mct "Calma Veronica, non vogliamo spaventarla."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:923
 translate italian sm1cs_km006_sex_d2038b0f:
 
     # vs "Sorry to be pushy, but I already got excited earlier."
-    vs "Sorry to be pushy, but I already got excited earlier."
+    vs "Scusa per essere insistente, ma mi sono già eccitato prima."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:925
 translate italian sm1cs_km006_sex_cbb393e9:
@@ -1766,73 +1767,73 @@ translate italian sm1cs_km006_sex_a3c14648:
 translate italian sm1cs_km006_sex_a58eea3e:
 
     # km "Veronica likes me."
-    km "Veronica likes me."
+    km "Veronica mi piace."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:930
 translate italian sm1cs_km006_sex_7d7745b1:
 
     # km "Your tongue was going everywhere."
-    km "Your tongue was going everywhere."
+    km "La tua lingua andava dappertutto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:931
 translate italian sm1cs_km006_sex_7eb5dedf:
 
     # km "Like I was a hot chocolate sundae..."
-    km "Like I was a hot chocolate sundae..."
+    km "Come se fossi un gelato al cioccolato caldo..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:934
 translate italian sm1cs_km006_sex_54400b23:
 
     # vs "Hehe. That's one way to describe it."
-    vs "Hehe. That's one way to describe it."
+    vs "Hehe. È un modo per descriverlo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:938
 translate italian sm1cs_km006_sex_d5b9cf9f:
 
     # vs "Can I take your skirt off now?"
-    vs "Can I take your skirt off now?"
+    vs "Posso toglierti la gonna ora?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:940
 translate italian sm1cs_km006_sex_afd18f36:
 
     # km "*softly* Yes Veronica."
-    km "*softly* Yes Veronica."
+    km "*dolcemente* Sì Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:946
 translate italian sm1cs_km006_sex_1b06d3a4:
 
     # vs "Oh my. So naughty."
-    vs "Oh my. So naughty."
+    vs "Oh mio. Così birichina."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:948
 translate italian sm1cs_km006_sex_2566e0d3:
 
     # km "I tried not to get so wet."
-    km "I tried not to get so wet."
+    km "Ho cercato di non bagnarmi così tanto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:951
 translate italian sm1cs_km006_sex_c5274a8c:
 
     # vs "Hush now. This is a kink-friendly dressing room."
-    vs "Hush now. This is a kink-friendly dressing room."
+    vs "Silenzio ora. Questo è un camerino kink-friendly."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:952
 translate italian sm1cs_km006_sex_2eb519e9:
 
     # vs "But I need to have a taste."
-    vs "But I need to have a taste."
+    vs "Ma ho bisogno di assaggiare."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:956
 translate italian sm1cs_km006_sex_620242f8:
 
     # km "I've never- Ooouhah."
-    km "I've never- Ooouhah."
+    km "Non ho mai- Ooouhah."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:961
 translate italian sm1cs_km006_sex_18a23515:
 
     # vs "Let me know if I go too fast."
-    vs "Let me know if I go too fast."
+    vs "Fammi sapere se vado troppo veloce."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:970
 translate italian sm1cs_km006_sex_248f830b:
@@ -1844,97 +1845,97 @@ translate italian sm1cs_km006_sex_248f830b:
 translate italian sm1cs_km006_sex_2056284b:
 
     # km "I mean... that feels really good."
-    km "I mean... that feels really good."
+    km "Voglio dire... si sente davvero bene."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:974
 translate italian sm1cs_km006_sex_449b0b81:
 
     # km "But I can feel my heart racing."
-    km "But I can feel my heart racing."
+    km "Ma posso sentire il mio cuore battere forte."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:977
 translate italian sm1cs_km006_sex_de6eff11:
 
     # km "I'm so nervous."
-    km "I'm so nervous."
+    km "Sono così nervosa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:980
 translate italian sm1cs_km006_sex_3302024f:
 
     # mc "You never get nervous on stage, Kellie."
-    mc "You never get nervous on stage, Kellie."
+    mc "Non sei mai nervosa sul palco, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:983
 translate italian sm1cs_km006_sex_f06c00f3:
 
     # mc "Just imagine you're up there."
-    mc "Just imagine you're up there."
+    mc "Immagina solo di essere lassù."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:986
 translate italian sm1cs_km006_sex_64693f66:
 
     # mc "And the crowd is cheering you on."
-    mc "And the crowd is cheering you on."
+    mc "E la folla ti sta facendo il tifo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:989
 translate italian sm1cs_km006_sex_18f3fd28:
 
     # km "Haha. That's so stupid, perv."
-    km "Haha. That's so stupid, perv."
+    km "Haha. È così stupido, pervertito."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:992
 translate italian sm1cs_km006_sex_89d55ccc:
 
     # km "*moans* I would never be half naked... ahuaah..."
-    km "*moans* I would never be half naked... ahuaah..."
+    km "*geme* Non sarei mai mezza nuda... ahuaah..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:995
 translate italian sm1cs_km006_sex_2a881881:
 
     # km "On stage."
-    km "On stage."
+    km "Sul palco."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:998
 translate italian sm1cs_km006_sex_2a06f824:
 
     # vs "*licking* Mmmm. That's a shame."
-    vs "*licking* Mmmm. That's a shame."
+    vs "*leccando* Mmmm. È un peccato."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1001
 translate italian sm1cs_km006_sex_c9f15a7c:
 
     # vs "Doing something like this would be so hot."
-    vs "Doing something like this would be so hot."
+    vs "Fare qualcosa del genere sarebbe così eccitante."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1004
 translate italian sm1cs_km006_sex_79f6365b:
 
     # vs "*hungry kissing and licking*"
-    vs "*hungry kissing and licking*"
+    vs "*baci e leccate affamati*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1007
 translate italian sm1cs_km006_sex_0180fb95:
 
     # km "Oh my god.{w} Veronica-fhuraah."
-    km "Oh my god.{w} Veronica-fhuraah."
+    km "Oh mio dio.{w} Veronica-fhuraah."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1017
 translate italian sm1cs_km006_sex_eaf144ac:
 
     # vs "Can't have you cum yet, Kellie."
-    vs "Can't have you cum yet, Kellie."
+    vs "Non posso farti venire ancora, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1020
 translate italian sm1cs_km006_sex_38eb8bc6:
 
     # vs "And we don't want to leave our third cast member on his own."
-    vs "And we don't want to leave our third cast member on his own."
+    vs "E non vogliamo lasciare il nostro terzo membro del cast da solo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1022
 translate italian sm1cs_km006_sex_7fe7f11a:
 
     # km "I suppose not."
-    km "I suppose not."
+    km "Immagino di no."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1028
 translate italian sm1cs_km006_sex_273fa2d0:
@@ -1946,49 +1947,49 @@ translate italian sm1cs_km006_sex_273fa2d0:
 translate italian sm1cs_km006_sex_dbd4fdbc:
 
     # mc "Easy there."
-    mc "Easy there."
+    mc "Piano lì."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1034
 translate italian sm1cs_km006_sex_67ac50d2:
 
     # vs "Haha. Easy nothing. You better get ready to headline for us, [mcname]."
-    vs "Haha. Easy nothing. You better get ready to headline for us, [mcname]."
+    vs "Haha. Facile un corno. È meglio che ti prepari a fare da headliner per noi, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1038
 translate italian sm1cs_km006_sex_928c0362:
 
     # vs "I know you've been thinking about this since those pranks of yours."
-    vs "I know you've been thinking about this since those pranks of yours."
+    vs "So che ci pensavi da quei tuoi scherzi."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1040
 translate italian sm1cs_km006_sex_8db81d9a:
 
     # mc "Hah. That was totally Kellie's idea."
-    mc "Hah. That was totally Kellie's idea."
+    mc "Hah. È stata totalmente un'idea di Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1043
 translate italian sm1cs_km006_sex_9f53d9f3:
 
     # vs "Mmmhmmm. {i}Sure{/i}..."
-    vs "Mmmhmmm. {i}Sure{/i}..."
+    vs "Mmmhmmm. {i}Certo{/i}..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1046
 translate italian sm1cs_km006_sex_0ac7436e:
 
     # vs "Show me what you got."
-    vs "Show me what you got."
+    vs "Fammi vedere cosa hai."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1048
 translate italian sm1cs_km006_sex_70fc5e8d:
 
     # km "Really?"
-    km "Really?"
+    km "Davvero?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1051
 translate italian sm1cs_km006_sex_8a1210aa:
 
     # vs "Yes. I want you to get his cock nice and wet for me."
-    vs "Yes. I want you to get his cock nice and wet for me."
+    vs "Sì. Voglio che tu gli bagni bene il cazzo per me."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1053
 translate italian sm1cs_km006_sex_91d38494:
@@ -2000,67 +2001,67 @@ translate italian sm1cs_km006_sex_91d38494:
 translate italian sm1cs_km006_sex_023f19fd:
 
     # km "*sighs*"
-    km "*sighs*"
+    km "*sospira*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1058
 translate italian sm1cs_km006_sex_667b9815:
 
     # vs "Amazing."
-    vs "Amazing."
+    vs "Incredibile."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1062
 translate italian sm1cs_km006_sex_de6eff11_1:
 
     # km "I'm so nervous."
-    km "I'm so nervous."
+    km "Sono così nervosa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1064
 translate italian sm1cs_km006_sex_f773b618:
 
     # vs "Don't be. You look so cute."
-    vs "Don't be. You look so cute."
+    vs "Non esserlo. Sembri così carina."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1068
 translate italian sm1cs_km006_sex_5519c08c:
 
     # vs "But come on now. It's not going to suck itself."
-    vs "But come on now. It's not going to suck itself."
+    vs "Ma dai ora. Non si succhierà da solo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1074
 translate italian sm1cs_km006_sex_a373db51:
 
     # km "*heavy breathing*"
-    km "*heavy breathing*"
+    km "*respiro pesante*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1077
 translate italian sm1cs_km006_sex_884827ea:
 
     # km "Jesus. The smell is so thick, [mcname]."
-    km "Jesus. The smell is so thick, [mcname]."
+    km "Gesù. L'odore è così forte, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1079
 translate italian sm1cs_km006_sex_86d5af26:
 
     # vs "I know right."
-    vs "I know right."
+    vs "Lo so vero."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1083
 translate italian sm1cs_km006_sex_ae71b552:
 
     # vs "It's making me lose it. I love it."
-    vs "It's making me lose it. I love it."
+    vs "Mi fa impazzire. Lo adoro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1086
 translate italian sm1cs_km006_sex_e1fd9915:
 
     # km "If you ever say anything about this, I will break you."
-    km "If you ever say anything about this, I will break you."
+    km "Se dici mai qualcosa a riguardo, ti spezzerò."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1088
 translate italian sm1cs_km006_sex_2051d66a:
 
     # mc "Understood."
-    mc "Understood."
+    mc "Capito."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1092
 translate italian sm1cs_km006_sex_7bac18d1:
@@ -2078,43 +2079,43 @@ translate italian sm1cs_km006_sex_28ab7e9d:
 translate italian sm1cs_km006_sex_2eb8358d:
 
     # vs "That's so hot."
-    vs "That's so hot."
+    vs "È così eccitante."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1103
 translate italian sm1cs_km006_sex_43365197:
 
     # km "*lewd sucking*"
-    km "*lewd sucking*"
+    km "*succhiare lascivo*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1106
 translate italian sm1cs_km006_sex_5348c63e:
 
     # mct "My god. This is like a whole different Kellie."
-    mct "My god. This is like a whole different Kellie."
+    mct "Mio dio. Questa è una Kellie completamente diversa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1109
 translate italian sm1cs_km006_sex_1210c9a8:
 
     # mct "She seems a bit hornier. And more confident than when we messed around earlier."
-    mct "She seems a bit hornier. And more confident than when we messed around earlier."
+    mct "Sembra un po' più eccitata. E più sicura di quando abbiamo giocato prima."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1112
 translate italian sm1cs_km006_sex_4bbb2525:
 
     # mct "Is she showing off for Veronica?{w} Or did she study some blowjob videos?"
-    mct "Is she showing off for Veronica?{w} Or did she study some blowjob videos?"
+    mct "Sta facendo la sbruffona per Veronica?{w} O ha studiato dei video su come fare pompini?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1115
 translate italian sm1cs_km006_sex_cb0d1cce:
 
     # km "*horny panting*"
-    km "*horny panting*"
+    km "*ansimare eccitato*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1118
 translate italian sm1cs_km006_sex_fdcbf487:
 
     # vs "Such a good girl, Kellie."
-    vs "Such a good girl, Kellie."
+    vs "Che brava ragazza, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1121
 translate italian sm1cs_km006_sex_f35fe1b9:
@@ -2126,19 +2127,19 @@ translate italian sm1cs_km006_sex_f35fe1b9:
 translate italian sm1cs_km006_sex_360fefe5:
 
     # vs "*giggles* We're doing this... without a blitz alert going off."
-    vs "*giggles* We're doing this... without a blitz alert going off."
+    vs "*ridacchia* Stiamo facendo questo... senza che scatti un allarme blitz."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1127
 translate italian sm1cs_km006_sex_78d1dcdf:
 
     # mc "I know..."
-    mc "I know..."
+    mc "Lo so..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1130
 translate italian sm1cs_km006_sex_fe12f1fc:
 
     # vs "*giggles* We'll call it a special occasion."
-    vs "*giggles* We'll call it a special occasion."
+    vs "*ridacchia* Lo chiameremo un'occasione speciale."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1136
 translate italian sm1cs_km006_sex_9958fa9d:
@@ -2150,37 +2151,37 @@ translate italian sm1cs_km006_sex_9958fa9d:
 translate italian sm1cs_km006_sex_d3e28e56:
 
     # vs "How was it?"
-    vs "How was it?"
+    vs "Com'è stato?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1140
 translate italian sm1cs_km006_sex_171e1750:
 
     # vs "Have you sucked [mcname]'s cock before?"
-    vs "Have you sucked [mcname]'s cock before?"
+    vs "Hai mai succhiato il cazzo di [mcname] prima?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1143
 translate italian sm1cs_km006_sex_101b3a5a:
 
     # km "It was... very interesting."
-    km "It was... very interesting."
+    km "È stato... molto interessante."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1144
 translate italian sm1cs_km006_sex_03899d04:
 
     # km "And no...{w} this was the first time I had his cock in my mouth."
-    km "And no...{w} this was the first time I had his cock in my mouth."
+    km "E no...{w} questa è stata la prima volta che ho avuto il suo cazzo in bocca."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1146
 translate italian sm1cs_km006_sex_e71a3f5c:
 
     # km "I'm experiencing... a couple firsts right now."
-    km "I'm experiencing... a couple firsts right now."
+    km "Sto sperimentando... un paio di prime volte in questo momento."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1147
 translate italian sm1cs_km006_sex_f5006b82:
 
     # km "My pussy feels so horny..."
-    km "My pussy feels so horny..."
+    km "La mia figa è così eccitata..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1149
 translate italian sm1cs_km006_sex_515611d1:
@@ -2192,19 +2193,19 @@ translate italian sm1cs_km006_sex_515611d1:
 translate italian sm1cs_km006_sex_917be656:
 
     # vs "Hehe. Such a naughty tongue."
-    vs "Hehe. Such a naughty tongue."
+    vs "Hehe. Che lingua birichina."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1155
 translate italian sm1cs_km006_sex_e16a2cdf:
 
     # km "I don't... think about flowery words at times like this."
-    km "I don't... think about flowery words at times like this."
+    km "Non... penso a parole fiorite in momenti come questo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1157
 translate italian sm1cs_km006_sex_bec2ba77:
 
     # vs "*giggles*"
-    vs "*giggles*"
+    vs "*ridacchia*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1161
 translate italian sm1cs_km006_sex_51affe78:
@@ -2216,19 +2217,19 @@ translate italian sm1cs_km006_sex_51affe78:
 translate italian sm1cs_km006_sex_04f5fe1f:
 
     # vs "Alright, enough warmup. Time to get to it."
-    vs "Alright, enough warmup. Time to get to it."
+    vs "Va bene, basta riscaldamento. È ora di mettersi al lavoro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1170
 translate italian sm1cs_km006_sex_7aa900aa:
 
     # vs "How do you like this?"
-    vs "How do you like this?"
+    vs "Come ti piace questo?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1172
 translate italian sm1cs_km006_sex_aa9c5d1a:
 
     # mc "Looks great."
-    mc "Looks great."
+    mc "Sembra fantastico."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1175
 translate italian sm1cs_km006_sex_4f3ccebd:
@@ -2240,7 +2241,7 @@ translate italian sm1cs_km006_sex_4f3ccebd:
 translate italian sm1cs_km006_sex_7e99857c:
 
     # vs "Hehe. All that stretching is more for just the shows."
-    vs "Hehe. All that stretching is more for just the shows."
+    vs "Hehe. Tutto quello stretching non è solo per gli spettacoli."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1178
 translate italian sm1cs_km006_sex_c5c73549:
@@ -2252,37 +2253,37 @@ translate italian sm1cs_km006_sex_c5c73549:
 translate italian sm1cs_km006_sex_224db34f:
 
     # mc "Here we go."
-    mc "Here we go."
+    mc "Eccoci."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1193
 translate italian sm1cs_km006_sex_4da03e47:
 
     # vs "There we go. Right where you like it."
-    vs "There we go. Right where you like it."
+    vs "Eccoci. Proprio dove ti piace."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1196
 translate italian sm1cs_km006_sex_a3948bce:
 
     # vs "*moaning*"
-    vs "*moaning*"
+    vs "*gemente*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1197
 translate italian sm1cs_km006_sex_4daf141e:
 
     # km "Veronica! You're taking him so deep."
-    km "Veronica! You're taking him so deep."
+    km "Veronica! Lo stai prendendo così in profondità."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1198
 translate italian sm1cs_km006_sex_a81ccef9:
 
     # vs "Yup. Another reason... nrgggh... stretching is good when you get fucked by someone like, [mcname]."
-    vs "Yup. Another reason... nrgggh... stretching is good when you get fucked by someone like, [mcname]."
+    vs "Sì. Un altro motivo... nrgggh... lo stretching è buono quando vieni scopata da qualcuno come [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1201
 translate italian sm1cs_km006_sex_8d5db3ea:
 
     # km "He is... I mean you are..."
-    km "He is... I mean you are..."
+    km "Lui è... Voglio dire tu sei..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1202
 translate italian sm1cs_km006_sex_bb292556:
@@ -2300,61 +2301,61 @@ translate italian sm1cs_km006_sex_5db07502:
 translate italian sm1cs_km006_sex_f47a4590:
 
     # vs "Come on... *moans* Don't be so fucking nervous."
-    vs "Come on... *moans* Don't be so fucking nervous."
+    vs "Dai... *geme* Non essere così fottutamente nervosa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1207
 translate italian sm1cs_km006_sex_fc0582f8:
 
     # km "Your cock is pretty big, [mcname]."
-    km "Your cock is pretty big, [mcname]."
+    km "Il tuo cazzo è piuttosto grande, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1210
 translate italian sm1cs_km006_sex_d43ef1b8:
 
     # km "The whole time I had it in my mouth... I thought you were going to break my jaw."
-    km "The whole time I had it in my mouth... I thought you were going to break my jaw."
+    km "Per tutto il tempo che l'ho avuto in bocca... pensavo mi avresti rotto la mascella."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1211
 translate italian sm1cs_km006_sex_92ac87f7:
 
     # vs "Oh fuck... that's so hot..."
-    vs "Oh fuck... that's so hot..."
+    vs "Oh cazzo... è così eccitante..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1214
 translate italian sm1cs_km006_sex_4ab5e2c1:
 
     # vs "Not the jaw breaking, but you...{w} talking about [mcname]'s big cock while he's slamming into me."
-    vs "Not the jaw breaking, but you...{w} talking about [mcname]'s big cock while he's slamming into me."
+    vs "Non il rompere la mascella, ma tu...{w} che parli del grosso cazzo di [mcname] mentre mi sfonda."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1215
 translate italian sm1cs_km006_sex_733292f5:
 
     # vs "It feels like I'm going to fly off soon."
-    vs "It feels like I'm going to fly off soon."
+    vs "Sembra che stia per volare via presto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1218
 translate italian sm1cs_km006_sex_5e3ad0e4:
 
     # km "Mmm-huaah... You're really hot too, Veronica."
-    km "Mmm-huaah... You're really hot too, Veronica."
+    km "Mmm-huaah... Sei davvero sexy anche tu, Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1221
 translate italian sm1cs_km006_sex_bbab18d9:
 
     # vs "*giggles* Thanks, Kellie."
-    vs "*giggles* Thanks, Kellie."
+    vs "*ridacchia* Grazie, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1224
 translate italian sm1cs_km006_sex_1e1b96bd:
 
     # vs "I try. *moans*"
-    vs "I try. *moans*"
+    vs "Ci provo. *geme*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1227
 translate italian sm1cs_km006_sex_656c061a:
 
     # vs "Oh god! Goddamn... Right there!"
-    vs "Oh god! Goddamn... Right there!"
+    vs "Oh dio! Maledizione... Proprio lì!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1229
 translate italian sm1cs_km006_sex_5310bbea:
@@ -2366,7 +2367,7 @@ translate italian sm1cs_km006_sex_5310bbea:
 translate italian sm1cs_km006_sex_8d7e7501:
 
     # vs "I can't... I'm cumming!"
-    vs "I can't... I'm cumming!"
+    vs "Non posso... Sto venendo!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1233
 translate italian sm1cs_km006_sex_0f287383:
@@ -2378,43 +2379,43 @@ translate italian sm1cs_km006_sex_0f287383:
 translate italian sm1cs_km006_sex_ffbf4c17:
 
     # km "Oh... I just watched Veronica cumming."
-    km "Oh... I just watched Veronica cumming."
+    km "Oh... Ho appena visto Veronica che veniva."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1244
 translate italian sm1cs_km006_sex_5cb8dc83:
 
     # km "I've never seen... your face like that."
-    km "I've never seen... your face like that."
+    km "Non ho mai visto... il tuo viso così."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1248
 translate italian sm1cs_km006_sex_35df7b0c:
 
     # vs "Hehe. I hope it didn't ruin my mystique."
-    vs "Hehe. I hope it didn't ruin my mystique."
+    vs "Hehe. Spero non abbia rovinato il mio misticismo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1250
 translate italian sm1cs_km006_sex_f7e5f240:
 
     # km "No... But... what happened?"
-    km "No... But... what happened?"
+    km "No... Ma... cos'è successo?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1253
 translate italian sm1cs_km006_sex_daf5d479:
 
     # vs "I squirted.{w} Well... [mcname]'s raging thrusts did most of the work."
-    vs "I squirted.{w} Well... [mcname]'s raging thrusts did most of the work."
+    vs "Ho schizzato.{w} Beh... le spinte furiose di [mcname] hanno fatto la maggior parte del lavoro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1255
 translate italian sm1cs_km006_sex_22a732bd:
 
     # km "Does it feel that good?"
-    km "Does it feel that good?"
+    km "Si sente così bene?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1258
 translate italian sm1cs_km006_sex_4b791f4d:
 
     # vs "Oh yeah.{w} Come on.{w} Your turn."
-    vs "Oh yeah.{w} Come on.{w} Your turn."
+    vs "Oh sì.{w} Dai.{w} Tocca a te."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1261
 translate italian sm1cs_km006_sex_f4d52f29:
@@ -2426,19 +2427,19 @@ translate italian sm1cs_km006_sex_f4d52f29:
 translate italian sm1cs_km006_sex_53b45d7f:
 
     # km "But I can't... I can't do something like that, [mcname]."
-    km "But I can't... I can't do something like that, [mcname]."
+    km "Ma non posso... Non posso fare una cosa del genere, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1265
 translate italian sm1cs_km006_sex_f5e6f762:
 
     # mc "It's okay, Kellie. We'll start simple."
-    mc "It's okay, Kellie. We'll start simple."
+    mc "Va bene, Kellie. Inizieremo in modo semplice."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1267
 translate italian sm1cs_km006_sex_b96bc08f:
 
     # km "T-thank you."
-    km "T-thank you."
+    km "G-grazie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1271
 translate italian sm1cs_km006_sex_bb292556_1:
@@ -2456,43 +2457,43 @@ translate italian sm1cs_km006_sex_82eff3c3:
 translate italian sm1cs_km006_sex_06ed0499:
 
     # mc "You need to lower yourself in this position."
-    mc "You need to lower yourself in this position."
+    mc "Devi abbassarti in questa posizione."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1278
 translate italian sm1cs_km006_sex_a8b89656:
 
     # km "Oh... Right.{w} I didn't already do that?"
-    km "Oh... Right.{w} I didn't already do that?"
+    km "Oh... Giusto.{w} Non l'ho già fatto?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1281
 translate italian sm1cs_km006_sex_869f163c:
 
     # mc "*chuckles* Not yet. But no rush."
-    mc "*chuckles* Not yet. But no rush."
+    mc "*ridacchia* Non ancora. Ma non c'è fretta."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1283
 translate italian sm1cs_km006_sex_346732f9:
 
     # km "Okay. I'm doing it."
-    km "Okay. I'm doing it."
+    km "Okay. Lo sto facendo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1294
 translate italian sm1cs_km006_sex_5941e636:
 
     # km "Oh fuck. It's so huge!"
-    km "Oh fuck. It's so huge!"
+    km "Oh cazzo. È così enorme!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1295
 translate italian sm1cs_km006_sex_59c6c452:
 
     # km "How did I get this thing in my mouth?"
-    km "How did I get this thing in my mouth?"
+    km "Come ho fatto a mettere questa cosa in bocca?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1298
 translate italian sm1cs_km006_sex_e0a1193a:
 
     # mc "Should I lift you up?"
-    mc "Should I lift you up?"
+    mc "Devo sollevarti?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1299
 translate italian sm1cs_km006_sex_452b34b1:
@@ -2504,31 +2505,31 @@ translate italian sm1cs_km006_sex_452b34b1:
 translate italian sm1cs_km006_sex_41c49df6:
 
     # km "Ahem... huaah... no... I can do this.{w} I can do this."
-    km "Ahem... huaah... no... I can do this.{w} I can do this."
+    km "Ahem... huaah... no... posso farlo.{w} Posso farlo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1303
 translate italian sm1cs_km006_sex_44d30ca4:
 
     # km "Muaaah-fhuraa... fuck... your hands... squeezing my boobs."
-    km "Muaaah-fhuraa... fuck... your hands... squeezing my boobs."
+    km "Muaaah-fhuraa... cazzo... le tue mani... che stringono le mie tette."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1304
 translate italian sm1cs_km006_sex_85d8e543:
 
     # mc "Yeah. They're just so nice, Kellie. I can't help it."
-    mc "Yeah. They're just so nice, Kellie. I can't help it."
+    mc "Sì. Sono così belle, Kellie. Non posso farne a meno."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1307
 translate italian sm1cs_km006_sex_b37e430f:
 
     # km "It's fine, [mcname].{w} I just... didn't think you'd lose control around a girl like me."
-    km "It's fine, [mcname].{w} I just... didn't think you'd lose control around a girl like me."
+    km "Va bene, [mcname].{w} Solo... non pensavo avresti perso il controllo con una ragazza come me."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1308
 translate italian sm1cs_km006_sex_a8d97682:
 
     # mc "You were wrong about that."
-    mc "You were wrong about that."
+    mc "Ti sbagliavi su questo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1311
 translate italian sm1cs_km006_sex_b7160d11:
@@ -2540,49 +2541,49 @@ translate italian sm1cs_km006_sex_b7160d11:
 translate italian sm1cs_km006_sex_6b13a95a:
 
     # km "*moaning wildly* Oh fuck. Each time I go down. It feels better and better!"
-    km "*moaning wildly* Oh fuck. Each time I go down. It feels better and better!"
+    km "*geme selvaggiamente* Oh cazzo. Ogni volta che scendo. Si sente sempre meglio!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1316
 translate italian sm1cs_km006_sex_f1194b10:
 
     # km "I did... nur-ffhaa... think about something like this... after our first time."
-    km "I did... nur-ffhaa... think about something like this... after our first time."
+    km "Ho... nur-ffhaa... pensato a qualcosa del genere... dopo la nostra prima volta."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1317
 translate italian sm1cs_km006_sex_f48c93b4:
 
     # mc "Why didn't you say anything?"
-    mc "Why didn't you say anything?"
+    mc "Perché non hai detto niente?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1320
 translate italian sm1cs_km006_sex_ec3a3888:
 
     # km "Kiaaa-haah... Nervous I guess... Plus...{w} I didn't know if you enjoyed it."
-    km "Kiaaa-haah... Nervous I guess... Plus...{w} I didn't know if you enjoyed it."
+    km "Kiaaa-haah... Nervosa immagino... Inoltre...{w} Non sapevo se ti fosse piaciuto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1321
 translate italian sm1cs_km006_sex_38a87548:
 
     # mc "I did. I really fucking did."
-    mc "I did. I really fucking did."
+    mc "Mi è piaciuto. Mi è piaciuto molto fottutamente."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1324
 translate italian sm1cs_km006_sex_c70f6fe1:
 
     # km "*panting* Thank you, [mcname]..."
-    km "*panting* Thank you, [mcname]..."
+    km "*ansimando* Grazie, [mcname]..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1325
 translate italian sm1cs_km006_sex_e31aa5e0:
 
     # km "*panicked moaning*"
-    km "*panicked moaning*"
+    km "*gemiti panici*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1328
 translate italian sm1cs_km006_sex_bc7748a5:
 
     # km "Yu-haah-maaah...{w} I'm cumming...{w} I'm cumming on [mcname]'s big thick cock!"
-    km "Yu-haah-maaah...{w} I'm cumming...{w} I'm cumming on [mcname]'s big thick cock!"
+    km "Yu-haah-maaah...{w} Sto venendo...{w} Sto venendo sul grosso cazzo di [mcname]!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1337
 translate italian sm1cs_km006_sex_b22f45fb:
@@ -2594,37 +2595,37 @@ translate italian sm1cs_km006_sex_b22f45fb:
 translate italian sm1cs_km006_sex_b58a6c3b:
 
     # km "*moaning and shivering*"
-    km "*moaning and shivering*"
+    km "*geme e trema*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1341
 translate italian sm1cs_km006_sex_5a411235:
 
     # km "Mmm... That felt so good."
-    km "Mmm... That felt so good."
+    km "Mmm... È stato così bello."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1345
 translate italian sm1cs_km006_sex_8d319e09:
 
     # vs "Nice work, [mcname]."
-    vs "Nice work, [mcname]."
+    vs "Bel lavoro, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1346
 translate italian sm1cs_km006_sex_9ce5e124:
 
     # vs "Mind giving me one more go, Kellie?"
-    vs "Mind giving me one more go, Kellie?"
+    vs "Ti dispiace darmi un'altra occasione, Kellie?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1349
 translate italian sm1cs_km006_sex_6b2c45db:
 
     # km "I couldn't go further if I wanted to."
-    km "I couldn't go further if I wanted to."
+    km "Non potrei andare oltre anche se volessi."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1350
 translate italian sm1cs_km006_sex_b6fbf398:
 
     # km "My pussy needs to exit stage left."
-    km "My pussy needs to exit stage left."
+    km "La mia figa ha bisogno di uscire di scena a sinistra."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1352
 translate italian sm1cs_km006_sex_faa03e1a:
@@ -2636,13 +2637,13 @@ translate italian sm1cs_km006_sex_faa03e1a:
 translate italian sm1cs_km006_sex_f42c5c94:
 
     # vs "Come here."
-    vs "Come here."
+    vs "Vieni qui."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1364
 translate italian sm1cs_km006_sex_b9f9bbe7:
 
     # mc "Fuck. I'm getting close."
-    mc "Fuck. I'm getting close."
+    mc "Cazzo. Mi sto avvicinando."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1365
 translate italian sm1cs_km006_sex_d33394ec:
@@ -2654,13 +2655,13 @@ translate italian sm1cs_km006_sex_d33394ec:
 translate italian sm1cs_km006_sex_664d33fb:
 
     # vs "You can't stop now.{w} Please make me cum again, [mcname]."
-    vs "You can't stop now.{w} Please make me cum again, [mcname]."
+    vs "Non puoi fermarti ora.{w} Per favore fammi venire di nuovo, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1369
 translate italian sm1cs_km006_sex_851f9c87:
 
     # vs "And besides, Kellie and I are having a blast."
-    vs "And besides, Kellie and I are having a blast."
+    vs "E poi, Kellie ed io ci stiamo divertendo un sacco."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1370
 translate italian sm1cs_km006_sex_0c3d7bb9:
@@ -2672,73 +2673,73 @@ translate italian sm1cs_km006_sex_0c3d7bb9:
 translate italian sm1cs_km006_sex_b1624197:
 
     # km "Veronica. I don't think-"
-    km "Veronica. I don't think-"
+    km "Veronica. Non penso-"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1374
 translate italian sm1cs_km006_sex_19e95d8e:
 
     # vs "Don't think! *moans* Just let your body do the talking."
-    vs "Don't think! *moans* Just let your body do the talking."
+    vs "Non pensare! *geme* Lascia che sia il tuo corpo a parlare."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1375
 translate italian sm1cs_km006_sex_72a5f760:
 
     # km "Yes... Just like before. *panting*"
-    km "Yes... Just like before. *panting*"
+    km "Sì... Proprio come prima. *ansimando*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1376
 translate italian sm1cs_km006_sex_9188ebac:
 
     # mct "Veronica certainly got what she wanted.{w} Someone else really enjoying her body and her personality."
-    mct "Veronica certainly got what she wanted.{w} Someone else really enjoying her body and her personality."
+    mct "Veronica ha sicuramente ottenuto quello che voleva.{w} Qualcun altro che si gode davvero il suo corpo e la sua personalità."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1380
 translate italian sm1cs_km006_sex_45bfa301:
 
     # mct "I'm just glad Kellie has stuck with us. I never expected we'd be hooking up together."
-    mct "I'm just glad Kellie has stuck with us. I never expected we'd be hooking up together."
+    mct "Sono solo contento che Kellie sia rimasta con noi. Non mi sarei mai aspettato che ci saremmo messi insieme."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1381
 translate italian sm1cs_km006_sex_46398a6f:
 
     # mct "Fuck. I'm so close."
-    mct "Fuck. I'm so close."
+    mct "Cazzo. Sono così vicino."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1384
 translate italian sm1cs_km006_sex_fabe1de5:
 
     # mct "But I can't give up yet!"
-    mct "But I can't give up yet!"
+    mct "Ma non posso ancora arrendermi!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1385
 translate italian sm1cs_km006_sex_651ecade:
 
     # vs "That's it. Muraah... oh fuck. Give it to me..."
-    vs "That's it. Muraah... oh fuck. Give it to me..."
+    vs "Così. Muraah... oh cazzo. Dammelo..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1388
 translate italian sm1cs_km006_sex_fa5b793b:
 
     # vs "I'm about to...{w} Yes...{w} Rght there, [mcname]!"
-    vs "I'm about to...{w} Yes...{w} Rght there, [mcname]!"
+    vs "Sto per...{w} Sì...{w} Proprio lì, [mcname]!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1393
 translate italian sm1cs_km006_sex_a235c7a2:
 
     # km "Oh woah.{w} I think she's going off again."
-    km "Oh woah.{w} I think she's going off again."
+    km "Oh woah.{w} Penso che stia venendo di nuovo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1394
 translate italian sm1cs_km006_sex_c396e9a2:
 
     # vs "Yes. Nrrah...{w} Take my pussy, [mcname]."
-    vs "Yes. Nrrah...{w} Take my pussy, [mcname]."
+    vs "Sì. Nrrah...{w} Prenditi la mia figa, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1398
 translate italian sm1cs_km006_sex_ea865e7c:
 
     # vs "Use me like a naughty toy. I want to feel you throb."
-    vs "Use me like a naughty toy. I want to feel you throb."
+    vs "Usami come un giocattolo cattivo. Voglio sentirti palpitare."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1399
 translate italian sm1cs_km006_sex_557f94ba:
@@ -2750,19 +2751,19 @@ translate italian sm1cs_km006_sex_557f94ba:
 translate italian sm1cs_km006_sex_53f1ea51:
 
     # mc "Veronica I'm close."
-    mc "Veronica I'm close."
+    mc "Veronica sono vicino."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1402
 translate italian sm1cs_km006_sex_60efe67c:
 
     # vs "I know. Just keep going.{w} I want to feel it... *panting*"
-    vs "I know. Just keep going.{w} I want to feel it... *panting*"
+    vs "Lo so. Continua.{w} Voglio sentirlo... *ansimando*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1404
 translate italian sm1cs_km006_sex_e510ef3c:
 
     # vs "INSIDE!"
-    vs "INSIDE!"
+    vs "DENTRO!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1405
 translate italian sm1cs_km006_sex_a3ef5b48:
@@ -2786,13 +2787,13 @@ translate italian sm1cs_km006_sex_3c06e9ee:
 translate italian sm1cs_km006_sex_5c18420c:
 
     # km "You're filling her up."
-    km "You're filling her up."
+    km "La stai riempiendo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1417
 translate italian sm1cs_km006_sex_d3e0da8b:
 
     # km "And I'm watching..."
-    km "And I'm watching..."
+    km "E io sto guardando..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1420
 translate italian sm1cs_km006_sex_6ba843a9:
@@ -2804,43 +2805,43 @@ translate italian sm1cs_km006_sex_6ba843a9:
 translate italian sm1cs_km006_sex_9d9a9972:
 
     # km "Can...{w} Can I see it, Veronica?"
-    km "Can...{w} Can I see it, Veronica?"
+    km "Posso...{w} Posso vederlo, Veronica?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1425
 translate italian sm1cs_km006_sex_aaaf1bac:
 
     # vs "*panting* Sure..."
-    vs "*panting* Sure..."
+    vs "*ansimando* Certo..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1429
 translate italian sm1cs_km006_sex_707abc1f:
 
     # vs "There. Oouhaa... I'm going to have to stretch out again."
-    vs "There. Oouhaa... I'm going to have to stretch out again."
+    vs "Ecco. Oouhaa... Dovrò fare di nuovo stretching."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1431
 translate italian sm1cs_km006_sex_4c742c2c:
 
     # km "Woah. It's dripping out."
-    km "Woah. It's dripping out."
+    km "Woah. Sta gocciolando fuori."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1434
 translate italian sm1cs_km006_sex_8736f9ac:
 
     # km "Stay right there. I want to taste it."
-    km "Stay right there. I want to taste it."
+    km "Rimani proprio lì. Voglio assaggiarlo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1436
 translate italian sm1cs_km006_sex_f99c0efa:
 
     # vs "Are you sure, Kellie?"
-    vs "Are you sure, Kellie?"
+    vs "Sei sicura, Kellie?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1439
 translate italian sm1cs_km006_sex_0c423e93:
 
     # km "Yes.{w} More than anything."
-    km "Yes.{w} More than anything."
+    km "Sì.{w} Più di ogni altra cosa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1440
 translate italian sm1cs_km006_sex_58b1ffff:
@@ -2852,31 +2853,31 @@ translate italian sm1cs_km006_sex_58b1ffff:
 translate italian sm1cs_km006_sex_95509edc:
 
     # vs "There you go. Hungry girl."
-    vs "There you go. Hungry girl."
+    vs "Ecco a te. Ragazza affamata."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1448
 translate italian sm1cs_km006_sex_f29d8866:
 
     # km "*giggles*"
-    km "*giggles*"
+    km "*ridacchia*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1456
 translate italian sm1cs_km006_sex_85252e67:
 
     # mct "Holy shit.{w} If Kellie wouldn't wring my neck, I'd be taking a picture of that."
-    mct "Holy shit.{w} If Kellie wouldn't wring my neck, I'd be taking a picture of that."
+    mct "Santo cielo.{w} Se Kellie non mi torcesse il collo, farei una foto di questo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1457
 translate italian sm1cs_km006_sex_04fa9f15:
 
     # mct "She's drinking up my cum!"
-    mct "She's drinking up my cum!"
+    mct "Sta bevendo il mio sperma!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1464
 translate italian sm1cs_km006_sex_970b0b08:
 
     # mct "I never imagined seeing her like this."
-    mct "I never imagined seeing her like this."
+    mct "Non avrei mai immaginato di vederla così."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1474
 translate italian sm1cs_km006_sex_db457dc2:
@@ -2888,157 +2889,157 @@ translate italian sm1cs_km006_sex_db457dc2:
 translate italian sm1cs_km006_sex_14d4260f:
 
     # km "*happy cooing noises*"
-    km "*happy cooing noises*"
+    km "*versetti felici*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1479
 translate italian sm1cs_km006_sex_d3e28e56_1:
 
     # vs "How was it?"
-    vs "How was it?"
+    vs "Com'è stato?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1482
 translate italian sm1cs_km006_sex_26d834e5:
 
     # km "A little sour and salty. But it felt so good. I've never..."
-    km "A little sour and salty. But it felt so good. I've never..."
+    km "Un po' aspro e salato. Ma è stato così bello. Non ho mai..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1483
 translate italian sm1cs_km006_sex_412b2e49:
 
     # km "I've never done something like that."
-    km "I've never done something like that."
+    km "Non ho mai fatto qualcosa del genere."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1484
 translate italian sm1cs_km006_sex_5ad51dfc:
 
     # km "But I kind of always wanted to, when I'd see it on porn and stuff."
-    km "But I kind of always wanted to, when I'd see it on porn and stuff."
+    km "Ma ho sempre un po' voluto farlo, quando lo vedevo nel porno e cose del genere."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1487
 translate italian sm1cs_km006_sex_fbd8f84c:
 
     # vs "You're full of supries, Miss Moore."
-    vs "You're full of supries, Miss Moore."
+    vs "Sei piena di sorprese, Signorina Moore."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1491
 translate italian sm1cs_km006_sex_7304f8d6:
 
     # km "Maybe.{w} Or maybe I know that I need to take more risks."
-    km "Maybe.{w} Or maybe I know that I need to take more risks."
+    km "Forse.{w} O forse so che devo correre più rischi."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1492
 translate italian sm1cs_km006_sex_f33c44f0:
 
     # km "It seems to work out well for you, Veronica."
-    km "It seems to work out well for you, Veronica."
+    km "Sembra funzionare bene per te, Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1495
 translate italian sm1cs_km006_sex_9b34ab66:
 
     # vs "It does, doesn't it."
-    vs "It does, doesn't it."
+    vs "Sì, vero."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1509
 translate italian sm1cs_km006_after_sex_f9587413:
 
     # km "*sniffs* This place is going to smell for a bit."
-    km "*sniffs* This place is going to smell for a bit."
+    km "*annusa* Questo posto puzzerà per un po'."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1511
 translate italian sm1cs_km006_after_sex_190a0c4d:
 
     # vs "Haha. I'll ask Brucie for some cleaning supplies and an air freshener."
-    vs "Haha. I'll ask Brucie for some cleaning supplies and an air freshener."
+    vs "Haha. Chiederò a Brucie dei prodotti per le pulizie e un deodorante."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1514
 translate italian sm1cs_km006_after_sex_1433332a:
 
     # mc "Get two."
-    mc "Get two."
+    mc "Prendine due."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1516
 translate italian sm1cs_km006_after_sex_565f4ccf:
 
     # vs "*laughing*"
-    vs "*laughing*"
+    vs "*ridendo*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1519
 translate italian sm1cs_km006_after_sex_e18dfcac:
 
     # km "So... what happens now?"
-    km "So... what happens now?"
+    km "Quindi... cosa succede ora?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1527
 translate italian sm1cs_km006_after_sex_d434d502:
 
     # vs "I don't know. I never thought we'd actually do that."
-    vs "I don't know. I never thought we'd actually do that."
+    vs "Non lo so. Non ho mai pensato che l'avremmo fatto davvero."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1528
 translate italian sm1cs_km006_after_sex_9d329bca:
 
     # vs "I just wanted to make sure you knew we could be cool with one another."
-    vs "I just wanted to make sure you knew we could be cool with one another."
+    vs "Volevo solo assicurarmi che sapessi che potevamo andare d'accordo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1530
 translate italian sm1cs_km006_after_sex_644e2df7:
 
     # km "I have been very... standoffish."
-    km "I have been very... standoffish."
+    km "Sono stata molto... distante."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1535
 translate italian sm1cs_km006_after_sex_abdd8481:
 
     # vs "Yeah, but then again, I was an airhead and didn't see how much I was hurting you."
-    vs "Yeah, but then again, I was an airhead and didn't see how much I was hurting you."
+    vs "Sì, ma d'altra parte, ero una testa vuota e non vedevo quanto ti stessi ferendo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1543
 translate italian sm1cs_km006_after_sex_1c340c48:
 
     # km "It happens{w}. I should never have taken it so personally."
-    km "It happens{w}. I should never have taken it so personally."
+    km "Succede{w}. Non avrei mai dovuto prenderla così sul personale."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1544
 translate italian sm1cs_km006_after_sex_316efe5c:
 
     # km "Luckily, I had [mcname] there to knock down my walls a bit."
-    km "Luckily, I had [mcname] there to knock down my walls a bit."
+    km "Fortunatamente, avevo [mcname] lì per abbattere un po' le mie mura."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1548
 translate italian sm1cs_km006_after_sex_f337d3d3:
 
     # km "That means a lot to me that you stood by me, [mcname].{w} Even when I was pushing back hard."
-    km "That means a lot to me that you stood by me, [mcname].{w} Even when I was pushing back hard."
+    km "Significa molto per me che tu mi sia stato vicino, [mcname].{w} Anche quando respingevo con forza."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1552
 translate italian sm1cs_km006_after_sex_eb0a5bac:
 
     # mc "No worries, Kellie."
-    mc "No worries, Kellie."
+    mc "Nessun problema, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1553
 translate italian sm1cs_km006_after_sex_c7be47ae:
 
     # mc "And I'm glad the three of us could \"bond\" so well."
-    mc "And I'm glad the three of us could \"bond\" so well."
+    mc "E sono contento che noi tre potessimo \"legare\" così bene."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1555
 translate italian sm1cs_km006_after_sex_4be1b35c:
 
     # km "Yeah...{w} I might even want to try it again.{w} Some time."
-    km "Yeah...{w} I might even want to try it again.{w} Some time."
+    km "Sì...{w} Potrei anche volerlo riprovare.{w} Qualche volta."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1558
 translate italian sm1cs_km006_after_sex_0f8a9baf:
 
     # vs "Haha. I'm sure we can work out something."
-    vs "Haha. I'm sure we can work out something."
+    vs "Haha. Sono sicura che possiamo organizzare qualcosa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1559
 translate italian sm1cs_km006_after_sex_c6415a29:
 
     # vs "Sounds like someone still has a crush on me."
-    vs "Sounds like someone still has a crush on me."
+    vs "Sembra che qualcuno abbia ancora una cotta per me."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1562
 translate italian sm1cs_km006_after_sex_6d0ee955:
@@ -3050,201 +3051,201 @@ translate italian sm1cs_km006_after_sex_6d0ee955:
 translate italian sm1cs_km006_after_sex_3f0e944d:
 
     # vs "Hehe. *giggles*"
-    vs "Hehe. *giggles*"
+    vs "Hehe. *ridacchia*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1566
 translate italian sm1cs_km006_after_sex_89b16270:
 
     # vs "It's okay.{w} I'd crush on me too if I could."
-    vs "It's okay.{w} I'd crush on me too if I could."
+    vs "Va bene.{w} Mi prenderei una cotta anche io se potessi."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1569
 translate italian sm1cs_km006_after_sex_c2128e0d:
 
     # mc "Well you two can figure out your crushes alone, I'll take care of this place."
-    mc "Well you two can figure out your crushes alone, I'll take care of this place."
+    mc "Beh, voi due potete sistemare le vostre cotte da sole, mi occuperò di questo posto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1573
 translate italian sm1cs_km006_after_sex_145164a4:
 
     # vs "You sure?"
-    vs "You sure?"
+    vs "Sei sicuro?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1575
 translate italian sm1cs_km006_after_sex_c294697c:
 
     # mc "Yeah. Taisia already doesn't like me being in here. We don't need her mad at the two of you."
-    mc "Yeah. Taisia already doesn't like me being in here. We don't need her mad at the two of you."
+    mc "Sì. A Taisia già non piace che io sia qui. Non serve che si arrabbi con voi due."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1578
 translate italian sm1cs_km006_after_sex_b5775616:
 
     # km "We can try to keep her distracted if we see her."
-    km "We can try to keep her distracted if we see her."
+    km "Possiamo provare a tenerla distratta se la vediamo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1580
 translate italian sm1cs_km006_after_sex_fafbfb54:
 
     # mc "Good thinking."
-    mc "Good thinking."
+    mc "Buona idea."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1586
 translate italian sm1cs_km006_after_sex_a66640ca:
 
     # km "We... we'll talk about this another time?"
-    km "We... we'll talk about this another time?"
+    km "Noi... ne parleremo un'altra volta?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1588
 translate italian sm1cs_km006_after_sex_8f353817:
 
     # mc "Count on it."
-    mc "Count on it."
+    mc "Contaci."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1591
 translate italian sm1cs_km006_after_sex_407f5113:
 
     # km "Good. Cause... Well, I'm not a..."
-    km "Good. Cause... Well, I'm not a..."
+    km "Bene. Perché... Beh, non sono una..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1592
 translate italian sm1cs_km006_after_sex_0c90854a:
 
     # km "*softly* You get it."
-    km "*softly* You get it."
+    km "*dolcemente* Capisci."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1594
 translate italian sm1cs_km006_after_sex_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "Sì."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1597
 translate italian sm1cs_km006_after_sex_33bf5961:
 
     # mct "At least I think I do."
-    mct "At least I think I do."
+    mct "Almeno penso di sì."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1601
 translate italian sm1cs_km006_after_sex_1b86d331:
 
     # km "Good."
-    km "Good."
+    km "Bene."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1608
 translate italian sm1cs_km006_after_sex_1713e0d6:
 
     # vs "Ooooh. Looks like she might have started a crush on me, but she's staying for you."
-    vs "Ooooh. Looks like she might have started a crush on me, but she's staying for you."
+    vs "Ooooh. Sembra che abbia iniziato ad avere una cotta per me, ma sta restando per te."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1610
 translate italian sm1cs_km006_after_sex_f692e1dd:
 
     # mc "Yeah. I don't know.{w} I guess we'll find out the next time we hang out."
-    mc "Yeah. I don't know.{w} I guess we'll find out the next time we hang out."
+    mc "Sì. Non lo so.{w} Immagino che lo scopriremo la prossima volta che usciamo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1613
 translate italian sm1cs_km006_after_sex_6ecebfd8:
 
     # vs "Yes, we will."
-    vs "Yes, we will."
+    vs "Sì, lo faremo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1623
 translate italian sm1cs_km006_after_sex_8f1d1b88:
 
     # mct "We certainly have a lot to talk about in the future."
-    mct "We certainly have a lot to talk about in the future."
+    mct "Abbiamo sicuramente molto di cui parlare in futuro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1624
 translate italian sm1cs_km006_after_sex_3d94d80e:
 
     # mct "Seems like Kellie might be into me, and Veronica at the same time."
-    mct "Seems like Kellie might be into me, and Veronica at the same time."
+    mct "Sembra che Kellie possa essere interessata a me e a Veronica allo stesso tempo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1628
 translate italian sm1cs_km006_after_sex_c6f1af3a:
 
     # mct "And then there is the fact that she knows about my role with Fetish Locator now."
-    mct "And then there is the fact that she knows about my role with Fetish Locator now."
+    mct "E poi c'è il fatto che ora sa del mio ruolo con Fetish Locator."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1629
 translate italian sm1cs_km006_after_sex_504d96fb:
 
     # mct "She deserves to know what I came here for."
-    mct "She deserves to know what I came here for."
+    mct "Merita di sapere per cosa sono venuto qui."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1632
 translate italian sm1cs_km006_after_sex_8cfd4bf7:
 
     # mct "Hell, they both do."
-    mct "Hell, they both do."
+    mct "Diavolo, entrambe lo meritano."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1633
 translate italian sm1cs_km006_after_sex_fcd80dad:
 
     # mct "Especially if we end up continuing..."
-    mct "Especially if we end up continuing..."
+    mct "Soprattutto se finiamo per continuare..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1634
 translate italian sm1cs_km006_after_sex_a6ed5c42:
 
     # mct "Whatever this is."
-    mct "Whatever this is."
+    mct "Qualunque cosa sia questa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1638
 translate italian sm1cs_km006_after_sex_ad3b27eb:
 
     # mc "Woof. Smells like a kennel in here."
-    mc "Woof. Smells like a kennel in here."
+    mc "Woof. Puzza come un canile qui dentro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1639
 translate italian sm1cs_km006_after_sex_353b9d2c:
 
     # mct "Time to track down, Sam."
-    mct "Time to track down, Sam."
+    mct "È ora di rintracciare Sam."
 
 translate italian strings:
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:82
     old "Sure. Just practicing"
-    new "Sure. Just practicing"
+    new "Certo. Stiamo solo facendo pratica"
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:82
     old "You sound bitter about what we did"
-    new "You sound bitter about what we did"
+    new "Sembri amareggiata per quello che abbiamo fatto"
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:116
     old "No, but I like his name"
-    new "No, but I like his name"
+    new "No, ma mi piace il suo nome"
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:116
     old "Don't make me banish you from my presence, Kellie"
-    new "Don't make me banish you from my presence, Kellie"
+    new "Non costringermi a bandirti dalla mia presenza, Kellie"
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:116
     old "Yes. He's the one that got stabbed thirty times"
-    new "Yes. He's the one that got stabbed thirty times"
+    new "Sì. È quello che è stato pugnalato trenta volte"
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:482
     old "Ask Veronica"
-    new "Ask Veronica"
+    new "Chiedi a Veronica"
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:482
     old "Ask Kellie"
-    new "Ask Kellie"
+    new "Chiedi a Kellie"
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:555
     old "Dare her to kiss Veronica"
-    new "Dare her to kiss Veronica"
+    new "Sfidala a baciare Veronica"
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:555
     old "Dare her to tell Veronica how she feels"
-    new "Dare her to tell Veronica how she feels"
+    new "Sfidala a dire a Veronica come si sente"
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:735
     old "I was the guy who brought down Fetish Locator"
-    new "I was the guy who brought down Fetish Locator"
+    new "Ero io il ragazzo che ha fatto cadere Fetish Locator"
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:735
     old "Drink"
-    new "Drink"
+    new "Bevi"
 
