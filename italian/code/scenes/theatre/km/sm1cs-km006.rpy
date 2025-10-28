@@ -87,7 +87,7 @@ translate italian sm1cs_km006_menu_2_b28d1d71:
 translate italian sm1cs_km006_menu_2_2fee34e7:
 
     # mc "Don't make me banish you from my presence, Kellie."
-    mc "Non costringermi a bandirt dalla mia presenza, Kellie."
+    mc "Non costringermi a bandirti dalla mia presenza, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:143
 translate italian sm1cs_km006_menu_2_4c2a0b5f:
