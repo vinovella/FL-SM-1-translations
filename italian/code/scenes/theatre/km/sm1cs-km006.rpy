@@ -2,97 +2,97 @@
 translate italian sm1cs_km006_70250aa5:
 
     # mc "Sure. We're just practicing."
-    mc "Sure. We're just practicing."
+    mc "Certo. Stiamo solo provando."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:94
 translate italian sm1cs_km006_b2e61965:
 
     # mc "You sound a bit bitter about what we did."
-    mc "You sound a bit bitter about what we did."
+    mc "Sembri un po' amareggiata per quello che abbiamo fatto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:96
 translate italian sm1cs_km006_f8a9eea9:
 
     # km "I thought we were skipping that topic."
-    km "I thought we were skipping that topic."
+    km "Pensavo stessimo saltando quell'argomento."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:99
 translate italian sm1cs_km006_78d1bd5a:
 
     # mc "I thought we were skipping talk about your crush on, Veronica."
-    mc "I thought we were skipping talk about your crush on, Veronica."
+    mc "Pensavo stessimo saltando i discorsi sulla tua cotta per Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:100
 translate italian sm1cs_km006_1f1a2266:
 
     # mc "Not how good you are at boobjobs."
-    mc "Not how good you are at boobjobs."
+    mc "Non su quanto sei brava con le spagnole."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:104
 translate italian sm1cs_km006_92ab30ef:
 
     # km "*grunts* You are impossible."
-    km "*grunts* You are impossible."
+    km "*grugnisce* Sei impossibile."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:105
 translate italian sm1cs_km006_223a9781:
 
     # km "A regular Coriolanus."
-    km "A regular Coriolanus."
+    km "Un vero Coriolano."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:108
 translate italian sm1cs_km006_7b471f6f:
 
     # mc "Good."
-    mc "Good."
+    mc "Bene."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:114
 translate italian sm1cs_km006_menu_2_02cafc7b:
 
     # km "Do you even know who Coriolanus is?"
-    km "Do you even know who Coriolanus is?"
+    km "Sai almeno chi è Coriolano?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:122
 translate italian sm1cs_km006_menu_2_42e90f17:
 
     # mc "Not, but I like this name."
-    mc "Not, but I like this name."
+    mc "No, ma mi piace questo nome."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:124
 translate italian sm1cs_km006_menu_2_252366c2:
 
     # km "It fits you perfectly. He never knew when to shut up."
-    km "It fits you perfectly. He never knew when to shut up."
+    km "Ti si addice perfettamente. Non sapeva mai quando stare zitto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:127
 translate italian sm1cs_km006_menu_2_0d4c07f6:
 
     # km "And his only allegiance was to himself."
-    km "And his only allegiance was to himself."
+    km "E la sua unica fedeltà era verso se stesso."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:129
 translate italian sm1cs_km006_menu_2_146735ff:
 
     # mc "What?{w} I'm not like that at all."
-    mc "What?{w} I'm not like that at all."
+    mc "Cosa?{w} Non sono affatto così."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:132
 translate italian sm1cs_km006_menu_2_b28d1d71:
 
     # km "Hmmm.{w} I guess you're not all bad."
-    km "Hmmm.{w} I guess you're not all bad."
+    km "Hmmm.{w} Immagino che tu non sia del tutto cattivo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:140
 translate italian sm1cs_km006_menu_2_2fee34e7:
 
     # mc "Don't make me banish you from my presence, Kellie."
-    mc "Don't make me banish you from my presence, Kellie."
+    mc "Non farmi bandire dalla mia presenza, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:143
 translate italian sm1cs_km006_menu_2_4c2a0b5f:
 
     # km "Hmmm. Maybe there is more to you than just a big dick."
-    km "Hmmm. Maybe there is more to you than just a big dick."
+    km "Hmmm. Forse c'è di più in te di un semplice grosso cazzo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:144
 translate italian sm1cs_km006_menu_2_8472a3dd:
@@ -104,19 +104,19 @@ translate italian sm1cs_km006_menu_2_8472a3dd:
 translate italian sm1cs_km006_menu_2_334bc7a3:
 
     # mc "Yes. He's the one who got stabbed thirty times."
-    mc "Yes. He's the one who got stabbed thirty times."
+    mc "Sì. È quello che è stato pugnalato trenta volte."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:152
 translate italian sm1cs_km006_menu_2_09df699b:
 
     # km "That was Julius Caesar."
-    km "That was Julius Caesar."
+    km "Quello era Giulio Cesare."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:153
 translate italian sm1cs_km006_menu_2_b81a723d:
 
     # mc "Nah, I'm pretty sure it was Curio Linus."
-    mc "Nah, I'm pretty sure it was Curio Linus."
+    mc "Nah, sono abbastanza sicuro che fosse Curio Linus."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:156
 translate italian sm1cs_km006_menu_2_f6c3ba39:
@@ -128,307 +128,307 @@ translate italian sm1cs_km006_menu_2_f6c3ba39:
 translate italian sm1cs_km006_menu_2_3c9239ad:
 
     # km "You're teasing me."
-    km "You're teasing me."
+    km "Mi stai prendendo in giro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:161
 translate italian sm1cs_km006_menu_2_872c1589:
 
     # mc "I had to. I like it when you get all flustered."
-    mc "I had to. I like it when you get all flustered."
+    mc "Dovevo farlo. Mi piace quando ti agiti tutta."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:165
 translate italian sm1cs_km006_menu_2_a5e025f7:
 
     # km "Perhaps you don't need my help today."
-    km "Perhaps you don't need my help today."
+    km "Forse oggi non hai bisogno del mio aiuto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:169
 translate italian sm1cs_km006_menu_2_e27510fd:
 
     # mc "Wait.{w} Please, Kellie."
-    mc "Wait.{w} Please, Kellie."
+    mc "Aspetta.{w} Per favore, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:170
 translate italian sm1cs_km006_menu_2_96f65e06:
 
     # mc "No more jokes.{w} I'm all in."
-    mc "No more jokes.{w} I'm all in."
+    mc "Niente più scherzi.{w} Sono tutto concentrato."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:172
 translate italian sm1cs_km006_menu_2_3dbd446b:
 
     # km "Mmm. We will see."
-    km "Mmm. We will see."
+    km "Mmm. Vedremo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:181
 translate italian sm1cs_km006_after_menu_1261acc2:
 
     # km "Come on.{w} Start reading the lines for Hooper."
-    km "Come on.{w} Start reading the lines for Hooper."
+    km "Dai.{w} Inizia a leggere le battute di Hooper."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:185
 translate italian sm1cs_km006_after_menu_d4cb1870:
 
     # mc "Got it.{w} Hooper."
-    mc "Got it.{w} Hooper."
+    mc "Capito.{w} Hooper."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:188
 translate italian sm1cs_km006_after_menu_e7605432:
 
     # km "We just need one person as a standin for the Mayor."
-    km "We just need one person as a standin for the Mayor."
+    km "Abbiamo solo bisogno di una persona come sostituto per il Sindaco."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:190
 translate italian sm1cs_km006_after_menu_aded8211:
 
     # mc "Oh, so it's a three person scene?"
-    mc "Oh, so it's a three person scene?"
+    mc "Oh, quindi è una scena a tre persone?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:194
 translate italian sm1cs_km006_after_menu_8dcd8f5e:
 
     # km "Kind of.{w} Most of the heavy lifting is done by two, but you need a grumpy authority figure."
-    km "Kind of.{w} Most of the heavy lifting is done by two, but you need a grumpy authority figure."
+    km "Più o meno.{w} La maggior parte del lavoro pesante è fatto da due, ma serve una figura autoritaria burbera."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:195
 translate italian sm1cs_km006_after_menu_aa7085f8:
 
     # km "They're trying to warn him, but he wants to keep the beaches open when there is a shark in the water."
-    km "They're trying to warn him, but he wants to keep the beaches open when there is a shark in the water."
+    km "Stanno cercando di avvertirlo, ma lui vuole tenere le spiagge aperte quando c'è uno squalo nell'acqua."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:198
 translate italian sm1cs_km006_after_menu_d2052e0c:
 
     # mc "Hmmm. Sounds familiar."
-    mc "Hmmm. Sounds familiar."
+    mc "Hmmm. Suona familiare."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:206
 translate italian sm1cs_km006_after_menu_3721c427:
 
     # km "Hey Kai.{w} Can you give us a hand for a bit?"
-    km "Hey Kai.{w} Can you give us a hand for a bit?"
+    km "Ehi Kai.{w} Puoi darci una mano per un po'?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:211
 translate italian sm1cs_km006_after_menu_fbad15f5:
 
     # kw "Huh?"
-    kw "Huh?"
+    kw "Eh?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:213
 translate italian sm1cs_km006_after_menu_28efc95c:
 
     # km "Can you read some lines with us?{w} We need a stand in."
-    km "Can you read some lines with us?{w} We need a stand in."
+    km "Puoi leggere alcune battute con noi?{w} Abbiamo bisogno di un sostituto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:216
 translate italian sm1cs_km006_after_menu_fc3e11af:
 
     # km "Just a few runs."
-    km "Just a few runs."
+    km "Solo qualche prova."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:218
 translate italian sm1cs_km006_after_menu_c0f6fe1b:
 
     # kw "For you, Kellie. Anything."
-    kw "For you, Kellie. Anything."
+    kw "Per te, Kellie. Qualsiasi cosa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:228
 translate italian sm1cs_km006_after_menu_d3810e5d:
 
     # km "This is a Great White, Larry, a big one!{w} And any shark expert in the world will tell you it's a killer!"
-    km "This is a Great White, Larry, a big one!{w} And any shark expert in the world will tell you it's a killer!"
+    km "Questo è un Grande Bianco, Larry, uno grosso!{w} E qualsiasi esperto di squali al mondo ti dirà che è un killer!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:229
 translate italian sm1cs_km006_after_menu_7bd1ca4d:
 
     # km "It's a man-eater!"
-    km "It's a man-eater!"
+    km "È un mangiatore di uomini!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:232
 translate italian sm1cs_km006_after_menu_b01ef89d:
 
     # mc "Look the situation, is that apparently a Great White shark has staked a claim in the waters off Amity Island."
-    mc "Look the situation, is that apparently a Great White shark has staked a claim in the waters off Amity Island."
+    mc "Guarda la situazione, è che apparentemente un Grande Bianco ha rivendicato le acque al largo di Amity Island."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:233
 translate italian sm1cs_km006_after_menu_1ca1536c:
 
     # mc "And he's going to continue to feed here as long as there is food in the water."
-    mc "And he's going to continue to feed here as long as there is food in the water."
+    mc "E continuerà a nutrirsi qui finché ci sarà cibo nell'acqua."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:236
 translate italian sm1cs_km006_after_menu_da5e22e3:
 
     # km "And there's no limit to what he's gonna do!"
-    km "And there's no limit to what he's gonna do!"
+    km "E non c'è limite a quello che farà!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:237
 translate italian sm1cs_km006_after_menu_f1fd8a4e:
 
     # km "I mean we've already had three incidents, two people killed inside of a week."
-    km "I mean we've already had three incidents, two people killed inside of a week."
+    km "Voglio dire che abbiamo già avuto tre incidenti, due persone uccise in una settimana."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:245
 translate italian sm1cs_km006_after_menu_8d5f6b80:
 
     # mc "Look Mr. Vaughn.{w} Mr. Vaughn. I pulled a tooth the size of a shot glass out of the wrecked hull of a boat out there and it was the tooth of a Great White."
-    mc "Look Mr. Vaughn.{w} Mr. Vaughn. I pulled a tooth the size of a shot glass out of the wrecked hull of a boat out there and it was the tooth of a Great White."
+    mc "Guardi Signor Vaughn.{w} Signor Vaughn. Ho estratto un dente grande quanto un bicchierino dallo scafo distrutto di una barca là fuori ed era il dente di un Grande Bianco."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:248
 translate italian sm1cs_km006_after_menu_ef43d336:
 
     # km "It was Ben Gardner's boat; it was all chewed up."
-    km "It was Ben Gardner's boat; it was all chewed up."
+    km "Era la barca di Ben Gardner; era tutta masticata."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:249
 translate italian sm1cs_km006_after_menu_9fc16b4d:
 
     # km "I helped tow it in, you sh-{w} You should have seen him!"
-    km "I helped tow it in, you sh-{w} You should have seen him!"
+    km "Ho aiutato a trainarla, avre-{w} Avresti dovuto vederlo!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:254
 translate italian sm1cs_km006_after_menu_69ff74ad:
 
     # kw "I thought a stand-in would at least have a few lines."
-    kw "I thought a stand-in would at least have a few lines."
+    kw "Pensavo che un sostituto avrebbe almeno avuto qualche battuta."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:256
 translate italian sm1cs_km006_after_menu_f426ce4c:
 
     # km "Haha.{w} If we did the full scene, you would, but your character really comes off poorly."
-    km "Haha.{w} If we did the full scene, you would, but your character really comes off poorly."
+    km "Haha.{w} Se facessimo la scena completa, le avresti, ma il tuo personaggio fa davvero una brutta figura."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:259
 translate italian sm1cs_km006_after_menu_ee187840:
 
     # kw "I can imagine."
-    kw "I can imagine."
+    kw "Posso immaginare."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:260
 translate italian sm1cs_km006_after_menu_d51a2aeb:
 
     # kw "You two work pretty well when you're in sync."
-    kw "You two work pretty well when you're in sync."
+    kw "Voi due lavorate abbastanza bene quando siete sincronizzati."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:264
 translate italian sm1cs_km006_after_menu_e1c407ae:
 
     # kw "Maybe we can see some more of your talent on the new show."
-    kw "Maybe we can see some more of your talent on the new show."
+    kw "Forse potremo vedere di più del tuo talento nel nuovo spettacolo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:266
 translate italian sm1cs_km006_after_menu_313e82e6:
 
     # mc "That's the hope."
-    mc "That's the hope."
+    mc "Questa è la speranza."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:270
 translate italian sm1cs_km006_after_menu_f19df4db:
 
     # kw "We'll I gotta get going, but I'll see you two around."
-    kw "We'll I gotta get going, but I'll see you two around."
+    kw "Beh, devo andare, ma ci vediamo in giro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:272
 translate italian sm1cs_km006_after_menu_16879001:
 
     # km "Bye Kai.{w} Thanks for helping."
-    km "Bye Kai.{w} Thanks for helping."
+    km "Ciao Kai.{w} Grazie per l'aiuto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:277
 translate italian sm1cs_km006_after_menu_f19df4db_1:
 
     # kw "We'll I gotta get going, but I'll see you two around."
-    kw "We'll I gotta get going, but I'll see you two around."
+    kw "Beh, devo andare, ma ci vediamo in giro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:279
 translate italian sm1cs_km006_after_menu_16879001_1:
 
     # km "Bye Kai.{w} Thanks for helping."
-    km "Bye Kai.{w} Thanks for helping."
+    km "Ciao Kai.{w} Grazie per l'aiuto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:291
 translate italian sm1cs_km006_after_menu_368003e9:
 
     # mct "If we got the time's right, Veronica should be coming any moment."
-    mct "If we got the time's right, Veronica should be coming any moment."
+    mct "Se abbiamo fatto i conti giusti, Veronica dovrebbe arrivare da un momento all'altro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:299
 translate italian sm1cs_km006_after_menu_0b27a73d:
 
     # vs "Tadaaa!{w} Look what I found at the corner store, half off because the label's in Spanish!"
-    vs "Tadaaa!{w} Look what I found at the corner store, half off because the label's in Spanish!"
+    vs "Tadaaa!{w} Guarda cosa ho trovato al negozio all'angolo, metà prezzo perché l'etichetta è in spagnolo!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:302
 translate italian sm1cs_km006_after_menu_0835d5ee:
 
     # km "And why do you have a bottle of tequila, Veronica?"
-    km "And why do you have a bottle of tequila, Veronica?"
+    km "E perché hai una bottiglia di tequila, Veronica?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:305
 translate italian sm1cs_km006_after_menu_8c9e5454:
 
     # vs "I got the idea from {i}Stars Weekly{/i}.{w} Before doing a movie, actors usually get together for some drinks to break the ice between them."
-    vs "I got the idea from {i}Stars Weekly{/i}.{w} Before doing a movie, actors usually get together for some drinks to break the ice between them."
+    vs "Ho preso l'idea da {i}Stars Weekly{/i}.{w} Prima di fare un film, gli attori di solito si riuniscono per qualche drink per rompere il ghiaccio tra loro."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:306
 translate italian sm1cs_km006_after_menu_0be7788e:
 
     # vs "I didn't realize it was so cold in Hollywood, but it got me thinking that the three of us should play truth or dare."
-    vs "I didn't realize it was so cold in Hollywood, but it got me thinking that the three of us should play truth or dare."
+    vs "Non mi ero resa conto che facesse così freddo a Hollywood, ma mi ha fatto pensare che noi tre dovremmo giocare a obbligo o verità."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:309
 translate italian sm1cs_km006_after_menu_52ce4543:
 
     # mct "This was your plan, Veronica?"
-    mct "This was your plan, Veronica?"
+    mct "Questo era il tuo piano, Veronica?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:310
 translate italian sm1cs_km006_after_menu_a8c8a26e:
 
     # mc "Truth or dare?{w} Really?"
-    mc "Truth or dare?{w} Really?"
+    mc "Obbligo o verità?{w} Davvero?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:312
 translate italian sm1cs_km006_after_menu_e4589af2:
 
     # vs "Yeah.{w} I played it all the time before I got here."
-    vs "Yeah.{w} I played it all the time before I got here."
+    vs "Sì.{w} Ci giocavo sempre prima di arrivare qui."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:315
 translate italian sm1cs_km006_after_menu_dff04d71:
 
     # vs "Everyone said I was always the winner because there was never a dare I didn't do."
-    vs "Everyone said I was always the winner because there was never a dare I didn't do."
+    vs "Tutti dicevano che ero sempre la vincitrice perché non c'era mai una sfida che non facessi."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:318
 translate italian sm1cs_km006_after_menu_efdb9d12:
 
     # km "I bet you would."
-    km "I bet you would."
+    km "Scommetto che lo faresti."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:320
 translate italian sm1cs_km006_after_menu_1ab4c20f:
 
     # vs "Nice.{w} That means you want to play right, Kellie."
-    vs "Nice.{w} That means you want to play right, Kellie."
+    vs "Bene.{w} Questo significa che vuoi giocare, giusto Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:323
 translate italian sm1cs_km006_after_menu_fdec830c:
 
     # km "I-I don't know...{w} I should probably go over my lines again."
-    km "I-I don't know...{w} I should probably go over my lines again."
+    km "Io-io non lo so...{w} Dovrei probabilmente ripassare le mie battute."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:324
 translate italian sm1cs_km006_after_menu_68f76220:
 
     # km "I really want to impress Denise with my blocking—"
-    km "I really want to impress Denise with my blocking—"
+    km "Voglio davvero impressionare Denise con il mio blocking—"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:326
 translate italian sm1cs_km006_after_menu_17c55c75:
 
     # vs "Boooring.{w} Come on, Kellie."
-    vs "Boooring.{w} Come on, Kellie."
+    vs "Noiooso.{w} Dai, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:327
 translate italian sm1cs_km006_after_menu_47470d83:
