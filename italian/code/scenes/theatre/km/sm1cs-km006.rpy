@@ -434,43 +434,43 @@ translate italian sm1cs_km006_after_menu_17c55c75:
 translate italian sm1cs_km006_after_menu_47470d83:
 
     # vs "Don't you wanna know all of [mcname]'s deepest, {b}darkest{/b} secrets?"
-    vs "Don't you wanna know all of [mcname]'s deepest, {b}darkest{/b} secrets?"
+    vs "Non vuoi conoscere tutti i segreti più profondi e {b}oscuri{/b} di [mcname]?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:334
 translate italian sm1cs_km006_after_menu_9ff0e7f0:
 
     # vs "And I mean, I'm no slouch myself.{w} I probably have tons of secrets."
-    vs "And I mean, I'm no slouch myself.{w} I probably have tons of secrets."
+    vs "E voglio dire, non sono una fannullona.{w} Probabilmente ho tonnellate di segreti."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:335
 translate italian sm1cs_km006_after_menu_0cc8e6c4:
 
     # vs "Hundreds even."
-    vs "Hundreds even."
+    vs "Centinaia persino."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:338
 translate italian sm1cs_km006_after_menu_2418ef97:
 
     # mc "So how about it, Kellie?"
-    mc "So how about it, Kellie?"
+    mc "Allora che ne dici, Kellie?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:340
 translate italian sm1cs_km006_after_menu_19e6b374:
 
     # km "I don't know."
-    km "I don't know."
+    km "Non lo so."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:343
 translate italian sm1cs_km006_after_menu_c22f6a54:
 
     # km "*whispers* Is this a prank?{w} You have to tell me if Veronica is pranking me."
-    km "*whispers* Is this a prank?{w} You have to tell me if Veronica is pranking me."
+    km "*sussurra* È uno scherzo?{w} Devi dirmi se Veronica mi sta facendo uno scherzo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:345
 translate italian sm1cs_km006_after_menu_fc7e358d:
 
     # mc "*whispers* It's not a prank.{w} You know that Veronica has wanted to bury the hatchet between you for a while now."
-    mc "*whispers* It's not a prank.{w} You know that Veronica has wanted to bury the hatchet between you for a while now."
+    mc "*sussurra* Non è uno scherzo.{w} Sai che Veronica ha voluto seppellire l'ascia di guerra tra voi due da un po' ormai."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:346
 translate italian sm1cs_km006_after_menu_f9ade161:
@@ -482,229 +482,229 @@ translate italian sm1cs_km006_after_menu_f9ade161:
 translate italian sm1cs_km006_after_menu_c7e95ed3:
 
     # mc "*whispers* Okay.{w} I might have suggested she try something like this."
-    mc "*whispers* Okay.{w} I might have suggested she try something like this."
+    mc "*sussurra* Ok.{w} Potrei averle suggerito di provare qualcosa del genere."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:350
 translate italian sm1cs_km006_after_menu_aeb06d88:
 
     # km "Of course..."
-    km "Of course..."
+    km "Ovviamente..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:354
 translate italian sm1cs_km006_after_menu_84ccb090:
 
     # km "You really want to hang out, Veronica?"
-    km "You really want to hang out, Veronica?"
+    km "Vuoi davvero uscire, Veronica?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:355
 translate italian sm1cs_km006_after_menu_7a000b0d:
 
     # km "With me?{w} And just like...{w} talk?"
-    km "With me?{w} And just like...{w} talk?"
+    km "Con me?{w} E solo tipo...{w} parlare?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:358
 translate italian sm1cs_km006_after_menu_302f1e5a:
 
     # vs "Talk."
-    vs "Talk."
+    vs "Parlare."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:361
 translate italian sm1cs_km006_after_menu_5a7e584a:
 
     # vs "And drink."
-    vs "And drink."
+    vs "E bere."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:362
 translate italian sm1cs_km006_after_menu_bb7f523b:
 
     # vs "Unless you guys play truth or dare a different way than I did."
-    vs "Unless you guys play truth or dare a different way than I did."
+    vs "A meno che voi ragazzi non giochiate a obbligo o verità in modo diverso da come facevo io."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:368
 translate italian sm1cs_km006_after_menu_bf7b64c8:
 
     # mc "I'll be there with you, Kellie.{w} And if it's too much, neither of us is going to make you stay."
-    mc "I'll be there with you, Kellie.{w} And if it's too much, neither of us is going to make you stay."
+    mc "Sarò lì con te, Kellie.{w} E se è troppo, nessuno di noi ti farà rimanere."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:369
 translate italian sm1cs_km006_after_menu_385f8708:
 
     # mc "But come on, don't you want to at least try to figure out a way that you can coexist with Veronica."
-    mc "But come on, don't you want to at least try to figure out a way that you can coexist with Veronica."
+    mc "Ma dai, non vuoi almeno provare a trovare un modo in cui puoi coesistere con Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:372
 translate italian sm1cs_km006_after_menu_037b0e37:
 
     # mc "And maybe do other things?"
-    mc "And maybe do other things?"
+    mc "E magari fare altre cose?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:375
 translate italian sm1cs_km006_after_menu_4842d007:
 
     # km "Another word about {i}that{/i} and Bruce is going to find you strung up in the ropes."
-    km "Another word about {i}that{/i} and Bruce is going to find you strung up in the ropes."
+    km "Un'altra parola su {i}questo{/i} e Bruce ti troverà appeso alle corde."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:376
 translate italian sm1cs_km006_after_menu_26c9f4ca:
 
     # km "Do you understand me?"
-    km "Do you understand me?"
+    km "Mi capisci?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:379
 translate italian sm1cs_km006_after_menu_17f6d4f3:
 
     # mc "Perfectly."
-    mc "Perfectly."
+    mc "Perfettamente."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:382
 translate italian sm1cs_km006_after_menu_e4c07eef:
 
     # km "I..."
-    km "I..."
+    km "Io..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:385
 translate italian sm1cs_km006_after_menu_109ec7b1:
 
     # km "I'm still not sure."
-    km "I'm still not sure."
+    km "Non sono ancora sicura."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:388
 translate italian sm1cs_km006_after_menu_3b0a8039:
 
     # vs "You can even go first!{w} Truth or dare."
-    vs "You can even go first!{w} Truth or dare."
+    vs "Puoi anche iniziare tu!{w} Obbligo o verità."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:389
 translate italian sm1cs_km006_after_menu_e2fc5f30:
 
     # vs "You call the shots—pun very intended."
-    vs "You call the shots—pun very intended."
+    vs "Tu decidi—gioco di parole intenzionale."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:395
 translate italian sm1cs_km006_after_menu_fa4a52ad:
 
     # km "...Okay. But just a few rounds.{w} And I'm not doing anything that ends up in someone's Gram story."
-    km "...Okay. But just a few rounds.{w} And I'm not doing anything that ends up in someone's Gram story."
+    km "...Va bene. Ma solo qualche turno.{w} E non farò nulla che finisca nella storia Gram di qualcuno."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:396
 translate italian sm1cs_km006_after_menu_433a9189:
 
     # km "Got it?"
-    km "Got it?"
+    km "Capito?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:399
 translate italian sm1cs_km006_after_menu_29d5affa:
 
     # vs "Deal!{w} No viral content unless you really kill it."
-    vs "Deal!{w} No viral content unless you really kill it."
+    vs "Affare fatto!{w} Nessun contenuto virale a meno che non spacci davvero."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:402
 translate italian sm1cs_km006_after_menu_17db8f1e:
 
     # vs "Uh, let's retire to our dressing room.{w} If Taisia smells liquor, she'll pop out of nowhere and want a bit."
-    vs "Uh, let's retire to our dressing room.{w} If Taisia smells liquor, she'll pop out of nowhere and want a bit."
+    vs "Uh, ritiriamoci nel nostro camerino.{w} Se Taisia sente odore di liquore, spunterà dal nulla e ne vorrà un po'."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:404
 translate italian sm1cs_km006_after_menu_75728a01:
 
     # mc "Haha. Okay."
-    mc "Haha. Okay."
+    mc "Haha. Ok."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:423
 translate italian sm1cs_km006_dressing_room_eb676d15:
 
     # vs "Everyone take a seat and get comfortable."
-    vs "Everyone take a seat and get comfortable."
+    vs "Tutti si accomodino e mettetevi comodi."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:427
 translate italian sm1cs_km006_dressing_room_4a5c9515:
 
     # vs "This is no limit, no judgement, truth or dare."
-    vs "This is no limit, no judgement, truth or dare."
+    vs "Questo è senza limiti, senza giudizi, obbligo o verità."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:428
 translate italian sm1cs_km006_dressing_room_aaa87eb5:
 
     # vs "Let's dance."
-    vs "Let's dance."
+    vs "Balliamo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:431
 translate italian sm1cs_km006_dressing_room_7d3fa676:
 
     # vs "Here you go, Kellie."
-    vs "Here you go, Kellie."
+    vs "Ecco qua, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:433
 translate italian sm1cs_km006_dressing_room_7778b18c:
 
     # km "Please go over the rules again"
-    km "Please go over the rules again"
+    km "Per favore ripassa le regole"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:436
 translate italian sm1cs_km006_dressing_room_cc43eac4:
 
     # vs "Sure. You get to start us off.{w} You will select someone here and ask them to choose between truth or dare."
-    vs "Sure. You get to start us off.{w} You will select someone here and ask them to choose between truth or dare."
+    vs "Certo. Tocca a te iniziare.{w} Selezionerai qualcuno qui e gli chiederai di scegliere tra verità o sfida."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:437
 translate italian sm1cs_km006_dressing_room_080dedb9:
 
     # vs "Once the person chooses their option, you will either ask for a truth, or you dare them to do something."
-    vs "Once the person chooses their option, you will either ask for a truth, or you dare them to do something."
+    vs "Una volta che la persona sceglie la sua opzione, o chiederai una verità, o la sfiderai a fare qualcosa."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:440
 translate italian sm1cs_km006_dressing_room_b660c5cc:
 
     # mc "How does the drinking work?"
-    mc "How does the drinking work?"
+    mc "Come funziona il bere?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:444
 translate italian sm1cs_km006_dressing_room_6bc61ae4:
 
     # vs "It is kind of your 'get out of jail' card."
-    vs "It is kind of your 'get out of jail' card."
+    vs "È una specie di carta 'esci di prigione'."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:445
 translate italian sm1cs_km006_dressing_room_c7a72865:
 
     # vs "If you don't want to say the truth, or don't want to do the dare,{w} you just drink and then you move on."
-    vs "If you don't want to say the truth, or don't want to do the dare,{w} you just drink and then you move on."
+    vs "Se non vuoi dire la verità, o non vuoi fare la sfida,{w} bevi e basta e poi vai avanti."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:448
 translate italian sm1cs_km006_dressing_room_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "Capito."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:449
 translate italian sm1cs_km006_dressing_room_4d979fbb:
 
     # mc "Ready, Kellie?"
-    mc "Ready, Kellie?"
+    mc "Pronta, Kellie?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:451
 translate italian sm1cs_km006_dressing_room_4f5b6793:
 
     # km "I guess so."
-    km "I guess so."
+    km "Immagino di sì."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:455
 translate italian sm1cs_km006_dressing_room_b641d15a:
 
     # km "Okay... I pick who goes first, right?"
-    km "Okay... I pick who goes first, right?"
+    km "Ok... Scelgo io chi va prima, giusto?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:457
 translate italian sm1cs_km006_dressing_room_e07c4b9b:
 
     # mc "Yep. It's all yours."
-    mc "Yep. It's all yours."
+    mc "Sì. È tutto tuo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:460
 translate italian sm1cs_km006_dressing_room_9fba4a24:
 
     # km "[mcname]. Truth or dare?"
-    km "[mcname]. Truth or dare?"
+    km "[mcname]. Verità o sfida?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:462
 translate italian sm1cs_km006_dressing_room_4415dd95:
@@ -716,7 +716,7 @@ translate italian sm1cs_km006_dressing_room_4415dd95:
 translate italian sm1cs_km006_dressing_room_afa27e03:
 
     # km "What's something you've noticed about me but never said out loud?"
-    km "What's something you've noticed about me but never said out loud?"
+    km "Qual è qualcosa che hai notato di me ma non hai mai detto ad alta voce?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:468
 translate italian sm1cs_km006_dressing_room_f609deb3:
@@ -728,37 +728,37 @@ translate italian sm1cs_km006_dressing_room_f609deb3:
 translate italian sm1cs_km006_dressing_room_532d5691:
 
     # mc "I got it."
-    mc "I got it."
+    mc "Ce l'ho."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:470
 translate italian sm1cs_km006_dressing_room_5858e391:
 
     # mc "You're all-in, all the time.{w} And it shows. You don't act—{w} you live the part."
-    mc "You're all-in, all the time.{w} And it shows. You don't act—{w} you live the part."
+    mc "Sei sempre al massimo, sempre.{w} E si vede. Non reciti—{w} vivi la parte."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:471
 translate italian sm1cs_km006_dressing_room_e39aefe4:
 
     # mc "And I think that scares some people.{w} But it's why I respect you more than anyone on stage."
-    mc "And I think that scares some people.{w} But it's why I respect you more than anyone on stage."
+    mc "E penso che questo spaventi alcune persone.{w} Ma è per questo che ti rispetto più di chiunque altro sul palco."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:474
 translate italian sm1cs_km006_dressing_room_a68f80c7:
 
     # km "...Thanks."
-    km "...Thanks."
+    km "...Grazie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:477
 translate italian sm1cs_km006_dressing_room_bf01b303:
 
     # km "I think you're up."
-    km "I think you're up."
+    km "Penso che tocchi a te."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:479
 translate italian sm1cs_km006_dressing_room_473f6d41:
 
     # mc "Yup."
-    mc "Yup."
+    mc "Sì."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:480
 translate italian sm1cs_km006_dressing_room_e526a903:
@@ -770,79 +770,79 @@ translate italian sm1cs_km006_dressing_room_e526a903:
 translate italian sm1cs_km006_dressing_room_f8080185:
 
     # mc "Veronica, truth or dare."
-    mc "Veronica, truth or dare."
+    mc "Veronica, verità o sfida."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:490
 translate italian sm1cs_km006_dressing_room_7714b831:
 
     # vs "Ooooh. My mind says dare, but my heart says truth."
-    vs "Ooooh. My mind says dare, but my heart says truth."
+    vs "Ooooh. La mia mente dice sfida, ma il mio cuore dice verità."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:491
 translate italian sm1cs_km006_dressing_room_339203ae:
 
     # vs "So...{w} Truth!"
-    vs "So...{w} Truth!"
+    vs "Quindi...{w} Verità!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:494
 translate italian sm1cs_km006_dressing_room_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "Ok."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:500
 translate italian sm1cs_km006_dressing_room_85831cda:
 
     # mc "Kellie, truth or dare?"
-    mc "Kellie, truth or dare?"
+    mc "Kellie, verità o sfida?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:503
 translate italian sm1cs_km006_dressing_room_54049788:
 
     # km "Dare."
-    km "Dare."
+    km "Sfida."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:508
 translate italian sm1cs_km006_ask_vs_7e1c5beb:
 
     # mc "Tell me the truth about why you dye your hair?"
-    mc "Tell me the truth about why you dye your hair?"
+    mc "Dimmi la verità sul perché ti tingi i capelli?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:511
 translate italian sm1cs_km006_ask_vs_5b8ce5f6:
 
     # vs "*laughing nervously* Hahaha."
-    vs "*laughing nervously* Hahaha."
+    vs "*ridendo nervosamente* Hahaha."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:512
 translate italian sm1cs_km006_ask_vs_2a8137a8:
 
     # vs "You don't like it?"
-    vs "You don't like it?"
+    vs "Non ti piace?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:516
 translate italian sm1cs_km006_ask_vs_5b7ea860:
 
     # km "Hey. That's not really the game is it?"
-    km "Hey. That's not really the game is it?"
+    km "Ehi. Non è proprio il gioco, vero?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:517
 translate italian sm1cs_km006_ask_vs_66b04f99:
 
     # km "It's truth or dare."
-    km "It's truth or dare."
+    km "È obbligo o verità."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:518
 translate italian sm1cs_km006_ask_vs_7d29d339:
 
     # km "So... what is the truth?"
-    km "So... what is the truth?"
+    km "Quindi... qual è la verità?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:521
 translate italian sm1cs_km006_ask_vs_308487c5:
 
     # vs "Well, check out the big ovaries on Kellie all the sudden."
-    vs "Well, check out the big ovaries on Kellie all the sudden."
+    vs "Beh, guarda le grandi ovaie di Kellie all'improvviso."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:523
 translate italian sm1cs_km006_ask_vs_debd4bc9:
