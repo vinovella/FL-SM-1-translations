@@ -548,7 +548,7 @@ translate italian sm1cs_tl008_sex_431f7a57:
 translate italian sm1cs_tl008_sex_626b7f51:
 
     # mc "Cream you like a twinkie!"
-    mc "Ti riempirò tutta di crema!"
+    mc "Ti riempirò di crema!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:330
 translate italian sm1cs_tl008_sex_8fcdf32a:
@@ -890,7 +890,7 @@ translate italian sm1cs_tl008_extra_13fbf03d:
 translate italian sm1cs_tl008_extra_a0c56eb0:
 
     # tl "You know what they say, save a horse..."
-    tl "Sai cosa dicono... lascia perdere il cavallo..."
+    tl "Sai cosa dicono, lascia perdere il cavallo..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:522
 translate italian sm1cs_tl008_extra_7b975008:
