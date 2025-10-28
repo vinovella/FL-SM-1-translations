@@ -362,7 +362,7 @@ translate italian sm1cs_tl006_continue_9de07441:
 translate italian sm1cs_tl006_continue_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "Cosa?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:281
 translate italian sm1cs_tl006_continue_0f92e14d:
@@ -470,7 +470,7 @@ translate italian sm1cs_tl006_continue_0f56e184:
 translate italian sm1cs_tl006_continue_34583c3d:
 
     # sy "Deal!"
-    sy "Deal!"
+    sy "Affare fatto!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:331
 translate italian sm1cs_tl006_continue_220f0bec:
@@ -494,7 +494,7 @@ translate italian sm1cs_tl006_continue_5c456724:
 translate italian sm1cs_tl006_continue_34583c3d_1:
 
     # sy "Deal!"
-    sy "Deal!"
+    sy "Affare fatto!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:344
 translate italian sm1cs_tl006_continue_923c461d:
@@ -1190,7 +1190,7 @@ translate italian sm1cs_tl006_continue_a4cd1341:
 translate italian sm1cs_tl006_continue_6bfc74d9_1:
 
     # sy "What?"
-    sy "What?"
+    sy "Cosa?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:719
 translate italian sm1cs_tl006_continue_cbdfcfdf:
@@ -1358,7 +1358,7 @@ translate italian sm1cs_tl006_continue_5a19eac1:
 translate italian sm1cs_tl006_continue_3d9d2c05:
 
     # tl "Yes, yes, yes!"
-    tl "Yes, yes, yes!"
+    tl "Sì, sì, sì!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:785
 translate italian sm1cs_tl006_continue_9a857470:
