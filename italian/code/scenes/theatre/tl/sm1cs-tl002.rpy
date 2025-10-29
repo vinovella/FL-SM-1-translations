@@ -584,7 +584,7 @@ translate italian sm1cs_tl002_b86f7667:
 translate italian sm1cs_tl002_4180c24a:
 
     # mct "Come on, [mcname]! Show her that you're cool too!"
-    mct "Dai, [mcname]! Mostrале che sei figo anche tu!"
+    mct "Dai, [mcname]! Mostralee che sei figo anche tu!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:279
 translate italian sm1cs_tl002_cb723dc7:
