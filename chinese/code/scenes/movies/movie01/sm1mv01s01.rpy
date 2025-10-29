@@ -722,221 +722,221 @@ translate chinese sm1mv01s01_09e77139:
 translate chinese sm1mv01s01_66590b33:
 
     # sy "You'd still be my favorite even if I knew anyone else!"
-    sy "You'd still be my favorite even if I knew anyone else!"
+    sy "就算我认识其他人，你也还是我最喜欢的摄像师！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:409
 translate chinese sm1mv01s01_3bc7e398:
 
     # kv "'Sup, [mcname]?"
-    kv "'Sup, [mcname]?"
+    kv "[mcname]，最近怎么样？"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:412
 translate chinese sm1mv01s01_cc45cedb:
 
     # mc "Hey, Kanya!"
-    mc "Hey, Kanya!"
+    mc "嘿，康雅！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:416
 translate chinese sm1mv01s01_428ff741:
 
     # kv "So, you guys have another movie?"
-    kv "So, you guys have another movie?"
+    kv "所以，你们又要拍新电影了？"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:418
 translate chinese sm1mv01s01_7b558075:
 
     # mc "We do-"
-    mc "We do-"
+    mc "没错--"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:421
 translate chinese sm1mv01s01_ca75cf3f:
 
     # sy "But this one is big! Like, real big!"
-    sy "But this one is big! Like, real big!"
+    sy "而且这次的规模很大！是真的很大！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:424
 translate chinese sm1mv01s01_73cfa934:
 
     # kv "Are you guys... making a feature?"
-    kv "Are you guys... making a feature?"
+    kv "你们...要拍一部长片？"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:427
 translate chinese sm1mv01s01_3a41c5e6:
 
     # sy "Yep!"
-    sy "Yep!"
+    sy "对！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:430
 translate chinese sm1mv01s01_4b5a469d:
 
     # mc "Feature?"
-    mc "Feature?"
+    mc "长片？"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:433
 translate chinese sm1mv01s01_73db3ef0:
 
     # sy "Yeah, like a feature length film. More than 90 minute running time."
-    sy "Yeah, like a feature length film. More than 90 minute running time."
+    sy "是啊，就是时长超过90分钟的长片。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:436
 translate chinese sm1mv01s01_b18a87ca:
 
     # mc "Oh - then, yes! We're making a feature!"
-    mc "Oh - then, yes! We're making a feature!"
+    mc "哦--那没错！我们就是要拍一部长片！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:439
 translate chinese sm1mv01s01_0daf0a13:
 
     # kv "Color me intrigued."
-    kv "Color me intrigued."
+    kv "这可太对我胃口了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:442
 translate chinese sm1mv01s01_fccaa82a:
 
     # mc "Grab a seat, and we'll tell you about it!"
-    mc "Grab a seat, and we'll tell you about it!"
+    mc "找个地方坐，我们跟你说说具体情况！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:446
 translate chinese sm1mv01s01_68b930c7:
 
     # kv "Okay!"
-    kv "Okay!"
+    kv "好！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:461
 translate chinese sm1mv01s01_d3ce22de:
 
     # kv "Okay, I think the script is a lot better now."
-    kv "Okay, I think the script is a lot better now."
+    kv "好，我觉得现在这个剧本比之前好多了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:464
 translate chinese sm1mv01s01_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "我也这么觉得。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:467
 translate chinese sm1mv01s01_fcf915ff:
 
     # sy "I'm happy we snuck in a little more choking!"
-    sy "I'm happy we snuck in a little more choking!"
+    sy "能在里面多加点窒息情节，我太开心了！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:471
 translate chinese sm1mv01s01_25be561e:
 
     # mc "As am I."
-    mc "As am I."
+    mc "我也是。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:475
 translate chinese sm1mv01s01_83b690de:
 
     # kv "I'll start working on boards for you two."
-    kv "I'll start working on boards for you two."
+    kv "接下来我会开始给你们俩画板。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:478
 translate chinese sm1mv01s01_b5501c4a:
 
     # mc "Boards? We're going to get the ship planks ourselves for the set."
-    mc "Boards? We're going to get the ship planks ourselves for the set."
+    mc "画板？布景用的船板我们打算自己找。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:481
 translate chinese sm1mv01s01_35a6278b:
 
     # kv "No, I mean storyboards."
-    kv "No, I mean storyboards."
+    kv "不是，我说的是拍摄用的故事板。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:483
 translate chinese sm1mv01s01_4f9f4391:
 
     # mc "Ahhhhh."
-    mc "Ahhhhh."
+    mc "啊，原来是这样。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:487
 translate chinese sm1mv01s01_23f5b93e:
 
     # kv "I'll also put together a gear list. We'll probably want to rent a few things."
-    kv "I'll also put together a gear list. We'll probably want to rent a few things."
+    kv "我还会整理一份设备清单。我们可能需要租一些设备。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:490
 translate chinese sm1mv01s01_d9ab4cba:
 
     # mc "Sounds great!"
-    mc "Sounds great!"
+    mc "没问题！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:494
 translate chinese sm1mv01s01_c81c94d5:
 
     # kv "We might want to start thinking about getting more crew though."
-    kv "We might want to start thinking about getting more crew though."
+    kv "不过我们可能得考虑多招些工作人员了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:497
 translate chinese sm1mv01s01_85d51034:
 
     # mc "Like who?"
-    mc "Like who?"
+    mc "比如招哪些人？"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:501
 translate chinese sm1mv01s01_e9344b59:
 
     # kv "Probably an AD, Gaffer, Key Grip, Hair and Makeup, a PA or two, Production Designer and Art department."
-    kv "Probably an AD, Gaffer, Key Grip, Hair and Makeup, a PA or two, Production Designer and Art department."
+    kv "大概需要一个助理导演、灯光师、灯光助理、发型化妆师、一两个制片助理、美术指导，还有艺术部门的人。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:504
 translate chinese sm1mv01s01_254ab32d:
 
     # kv "And Sound. We need to find someone to run sound for us."
-    kv "And Sound. We need to find someone to run sound for us."
+    kv "还有音频师。我们得找个人负责音频录制。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:507
 translate chinese sm1mv01s01_10c90efd:
 
     # mc "Oh shit, I didn't even think about that."
-    mc "Oh shit, I didn't even think about that."
+    mc "我去，我压根就没想起这事儿。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:510
 translate chinese sm1mv01s01_eb6b2898:
 
     # kv "That's what you have me for!"
-    kv "That's what you have me for!"
+    kv "所以才需要我提醒你啊！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:511
 translate chinese sm1mv01s01_a1ebbd82:
 
     # kv "But, I'm beat. You think about that, and we'll talk later. See ya'!"
-    kv "But, I'm beat. You think about that, and we'll talk later. See ya'!"
+    kv "不过我现在太累了。你们先琢磨着，我们之后再聊。走了啊！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:514
 translate chinese sm1mv01s01_68ccb375:
 
     # mc "See ya' later, Kanya!"
-    mc "See ya' later, Kanya!"
+    mc "康雅，回头见！"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:518
 translate chinese sm1mv01s01_68d6dd2a:
 
     # sy "You know, I'm pretty tired too."
-    sy "You know, I'm pretty tired too."
+    sy "说真的，我也挺累的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:521
 translate chinese sm1mv01s01_bf168f41:
 
     # mc "Bed time, then?"
-    mc "Bed time, then?"
+    mc "那该睡觉了？"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:524
 translate chinese sm1mv01s01_40c8a59f:
 
     # sy "Sounds wonderful."
-    sy "Sounds wonderful."
+    sy "我可太同意了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:528
 translate chinese sm1mv01s01_601d1072:
 
     # sy "Come to bed, [mcname]."
-    sy "Come to bed, [mcname]."
+    sy "[mcname]，来床上吧。"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:531
 translate chinese sm1mv01s01_8ae75df5:
 
     # mc "Why don't you go ahead? I will be right there."
-    mc "Why don't you go ahead? I will be right there."
+    mc "你先过去吧？我马上就来。"
 
