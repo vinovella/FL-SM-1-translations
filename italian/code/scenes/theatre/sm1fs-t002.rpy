@@ -266,7 +266,7 @@ translate italian sm1fs_t002_7eca5bd2:
 translate italian sm1fs_t002_ca266a41:
 
     # tl "Sure."
-    tl "Sure."
+    tl "Certo."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:194
 translate italian sm1fs_t002_10d831d0:
@@ -836,7 +836,7 @@ translate italian sm1fs_t002_sex_65483227:
 translate italian sm1fs_t002_sex_6063c570:
 
     # tl "Cool."
-    tl "Cool."
+    tl "Bene."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:519
 translate italian sm1fs_t002_sex_2d348d28:
@@ -1178,319 +1178,319 @@ translate italian sm1fs_t002_sex_8a4db091:
 translate italian sm1fs_t002_sex_a88fbee3:
 
     # tl "Eh, mostly do it because [mcname] will be able to get deeper."
-    tl "Eh, mostly do it because [mcname] will be able to get deeper."
+    tl "Eh, lo faccio principalmente perché [mcname] potrà andare più in profondità."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:704
 translate italian sm1fs_t002_sex_226f2e7f:
 
     # mc "Literally zero complaints from me then."
-    mc "Literally zero complaints from me then."
+    mc "Letteralmente zero lamentele da parte mia allora."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:713
 translate italian sm1fs_t002_sex_18c6234a:
 
     # sy "Fuck, this looks pretty hot from here."
-    sy "Fuck, this looks pretty hot from here."
+    sy "Cazzo, sembra davvero hot da qui."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:716
 translate italian sm1fs_t002_sex_c4aefd3f:
 
     # mc "I can tell ya, it feels pretty hot, too."
-    mc "I can tell ya, it feels pretty hot, too."
+    mc "Posso dirti che è anche abbastanza hot."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:720
 translate italian sm1fs_t002_sex_3fee59dc:
 
     # sy "Hmm, Taisia, could you be more expressive in your face?"
-    sy "Hmm, Taisia, could you be more expressive in your face?"
+    sy "Hmm, Taisia, potresti essere più espressiva nel tuo viso?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:721
 translate italian sm1fs_t002_sex_d568de72:
 
     # tl "Huh?"
-    tl "Huh?"
+    tl "Eh?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:724
 translate italian sm1fs_t002_sex_17518e7d:
 
     # sy "I don't know, you don't look super into it right now."
-    sy "I don't know, you don't look super into it right now."
+    sy "Non lo so, non sembri super coinvolta al momento."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:726
 translate italian sm1fs_t002_sex_ca0bca14:
 
     # tl "Fuhh, what are you saying?"
-    tl "Fuhh, what are you saying?"
+    tl "Fuhh, cosa stai dicendo?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:728
 translate italian sm1fs_t002_sex_5d44943b:
 
     # sy "Your face doesn't really scream 'orgasmic pleasure'."
-    sy "Your face doesn't really scream 'orgasmic pleasure'."
+    sy "Il tuo viso non urla davvero 'piacere orgasmico'."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:733
 translate italian sm1fs_t002_sex_a6d5255f:
 
     # tl "Well, that's where I'm going. This feels fuh-uhcking great."
-    tl "Well, that's where I'm going. This feels fuh-uhcking great."
+    tl "Beh, è lì che sto andando. Questo è fott-utamente fantastico."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:736
 translate italian sm1fs_t002_sex_b41d6af2:
 
     # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
-    sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
+    sy "Devi mostrarcelo, non dircelo. Nessuno vuole l'audiolibro del porno. Vogliono il cinema!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:737
 translate italian sm1fs_t002_sex_80a80799:
 
     # tl "I-Fuh-Whatever- I'm gonna..."
-    tl "I-Fuh-Whatever- I'm gonna..."
+    tl "Io-Fuh-Qualsiasi cosa- Sto per..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:738
 translate italian sm1fs_t002_sex_dc16d53f:
 
     # tl "Fuuuuck, I'm gonna cum."
-    tl "Fuuuuck, I'm gonna cum."
+    tl "Caaazzo, sto per venire."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:742
 translate italian sm1fs_t002_sex_d398c9bb:
 
     # tl "Shit, I'm cumming!"
-    tl "Shit, I'm cumming!"
+    tl "Merda, sto venendo!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:745
 translate italian sm1fs_t002_sex_5dbb0631:
 
     # sy "It doesn't really look like it."
-    sy "It doesn't really look like it."
+    sy "Non sembra davvero."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:748
 translate italian sm1fs_t002_sex_8e1eae04:
 
     # tl "Well I am, shiiiiit."
-    tl "Well I am, shiiiiit."
+    tl "Beh, lo sto facendo, meeerda."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:751
 translate italian sm1fs_t002_sex_1422feea:
 
     # mc "I'm getting pretty close too!"
-    mc "I'm getting pretty close too!"
+    mc "Anche io mi sto avvicinando!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:753
 translate italian sm1fs_t002_sex_89a6730d:
 
     # sy "Wait, don't cum in her ass!"
-    sy "Wait, don't cum in her ass!"
+    sy "Aspetta, non venire nel suo culo!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:755
 translate italian sm1fs_t002_sex_09c76024:
 
     # mc "Whyyyyy."
-    mc "Whyyyyy."
+    mc "Perchéééé."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:759
 translate italian sm1fs_t002_sex_ff285827:
 
     # sy "Because, we need to see how well Taisia takes a money shot."
-    sy "Because, we need to see how well Taisia takes a money shot."
+    sy "Perché, dobbiamo vedere quanto bene Taisia prende una sborrata in faccia."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:761
 translate italian sm1fs_t002_sex_5eb7b3e5:
 
     # mc "Okay, that's a good point."
-    mc "Okay, that's a good point."
+    mc "Ok, è un buon punto."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:765
 translate italian sm1fs_t002_sex_fce52b62:
 
     # mc "I think that means you need to get back on your knees."
-    mc "I think that means you need to get back on your knees."
+    mc "Penso che questo significhi che devi rimetterti in ginocchio."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:767
 translate italian sm1fs_t002_sex_e3148749:
 
     # tl "Okay, I can probably blow you until-"
-    tl "Okay, I can probably blow you until-"
+    tl "Ok, probabilmente posso farti un pompino fino a-"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:769
 translate italian sm1fs_t002_sex_42d2f455:
 
     # sy "Nah, I've got a different idea."
-    sy "Nah, I've got a different idea."
+    sy "No, ho un'idea diversa."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:772
 translate italian sm1fs_t002_sex_0ae8748f:
 
     # tl "Whatever you say, you're running the audition."
-    tl "Whatever you say, you're running the audition."
+    tl "Qualsiasi cosa tu dica, sei tu che gestisci l'audizione."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:774
 translate italian sm1fs_t002_sex_fb39d104:
 
     # sy "That's right. Taisia, I want you to suck on [mcname]'s balls."
-    sy "That's right. Taisia, I want you to suck on [mcname]'s balls."
+    sy "Esatto. Taisia, voglio che succhi le palle di [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:776
 translate italian sm1fs_t002_sex_e487696d:
 
     # tl "I'm good, but I'm not sure I can make him cum from just sucking on his balls."
-    tl "I'm good, but I'm not sure I can make him cum from just sucking on his balls."
+    tl "Sono brava, ma non sono sicura di poterlo far venire solo succhiando le sue palle."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:780
 translate italian sm1fs_t002_sex_fc7c9538:
 
     # sy "Don't worry, I'm going to offer a helping hand."
-    sy "Don't worry, I'm going to offer a helping hand."
+    sy "Non preoccuparti, darò una mano."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:782
 translate italian sm1fs_t002_sex_ac1a25f3:
 
     # tl "Cool, then this should be quick."
-    tl "Cool, then this should be quick."
+    tl "Bene, allora dovrebbe essere veloce."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:790
 translate italian sm1fs_t002_sex_1ed0eb0a:
 
     # mc "I don't know, sis. You know how I feel about handjobs."
-    mc "I don't know, sis. You know how I feel about handjobs."
+    mc "Non lo so, sorella. Sai come mi sento riguardo alle seghe."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:792
 translate italian sm1fs_t002_sex_5794b922:
 
     # mc "I don't know, Stacy. You know how I feel about handjobs."
-    mc "I don't know, Stacy. You know how I feel about handjobs."
+    mc "Non lo so, Stacy. Sai come mi sento riguardo alle seghe."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:795
 translate italian sm1fs_t002_sex_239e2d80:
 
     # sy "Trust me, I know exactly how to make you cum."
-    sy "Trust me, I know exactly how to make you cum."
+    sy "Fidati di me, so esattamente come farti venire."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:798
 translate italian sm1fs_t002_sex_9139f409:
 
     # sy "Because you're going to cover this bitch's face in cum."
-    sy "Because you're going to cover this bitch's face in cum."
+    sy "Perché ricoprirai la faccia di questa troia con lo sperma."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:801
 translate italian sm1fs_t002_sex_31dc11e3:
 
     # sy "You're gonna show her who's in charge."
-    sy "You're gonna show her who's in charge."
+    sy "Le mostrerai chi comanda."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:802
 translate italian sm1fs_t002_sex_d417b79a:
 
     # sy "Look, she's already sucking on your balls."
-    sy "Look, she's already sucking on your balls."
+    sy "Guarda, sta già succhiando le tue palle."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:805
 translate italian sm1fs_t002_sex_dcf610ba:
 
     # sy "That's how bad she wants your cum. Can't even wait for you to shoot it all over her face."
-    sy "That's how bad she wants your cum. Can't even wait for you to shoot it all over her face."
+    sy "Ecco quanto desidera il tuo sperma. Non può nemmeno aspettare che tu glielo spari in faccia."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:806
 translate italian sm1fs_t002_sex_4b46f55f:
 
     # mc "Okay... Maybe..."
-    mc "Okay... Maybe..."
+    mc "Ok... Forse..."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:810
 translate italian sm1fs_t002_sex_5be7da17:
 
     # sy "Come on, [mcname], give her what she wants."
-    sy "Come on, [mcname], give her what she wants."
+    sy "Dai, [mcname], dalle quello che vuole."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:811
 translate italian sm1fs_t002_sex_a5a3950c:
 
     # mc "Oh, fuuuck."
-    mc "Oh, fuuuck."
+    mc "Oh, caaazzo."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:812
 translate italian sm1fs_t002_sex_85d06b05:
 
     # sy "Do it. Fucking cover her."
-    sy "Do it. Fucking cover her."
+    sy "Fallo. Fottutamente ricoprila."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:813
 translate italian sm1fs_t002_sex_37c6f827:
 
     # mc "Shit, I'm- I'm gonna-!"
-    mc "Shit, I'm- I'm gonna-!"
+    mc "Merda, sto- sto per-!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:814
 translate italian sm1fs_t002_sex_6768138e:
 
     # sy "Cum, [mcname], cum all over her face!"
-    sy "Cum, [mcname], cum all over her face!"
+    sy "Vieni, [mcname], vieni su tutta la sua faccia!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:815
 translate italian sm1fs_t002_sex_0c6d4e7e:
 
     # mc "Fuck, I'm cumming!"
-    mc "Fuck, I'm cumming!"
+    mc "Cazzo, sto venendo!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:824
 translate italian sm1fs_t002_sex_c1d02340:
 
     # tl "Oh fuck, I'm cumming again!"
-    tl "Oh fuck, I'm cumming again!"
+    tl "Oh cazzo, sto venendo di nuovo!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:829
 translate italian sm1fs_t002_sex_cd4985f8:
 
     # mc "Oh, I came in your eye! I am so sorry."
-    mc "Oh, I came in your eye! I am so sorry."
+    mc "Oh, ti è entrato nell'occhio! Mi dispiace tanto."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:831
 translate italian sm1fs_t002_sex_8086db59:
 
     # tl "You don't need to apologize, it was just what I needed."
-    tl "You don't need to apologize, it was just what I needed."
+    tl "Non devi scusarti, era proprio quello di cui avevo bisogno."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:834
 translate italian sm1fs_t002_sex_918e05ad:
 
     # sy "Did you... Orgasm from getting cum in your eye?"
-    sy "Did you... Orgasm from getting cum in your eye?"
+    sy "Hai... Avuto un orgasmo per lo sperma nell'occhio?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:838
 translate italian sm1fs_t002_sex_7526e27c:
 
     # tl "Yeah, it was super fucking hot. I love getting my eyes came on."
-    tl "Yeah, it was super fucking hot. I love getting my eyes came on."
+    tl "Sì, è stato fottutamente eccitante. Adoro quando mi viene negli occhi."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:840
 translate italian sm1fs_t002_sex_ca1340d0:
 
     # sy "Fuuuck. That's also pretty hot."
-    sy "Fuuuck. That's also pretty hot."
+    sy "Caaazzo. Anche questo è piuttosto hot."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:841
 translate italian sm1fs_t002_sex_dc68a932:
 
     # tl "I think so too."
-    tl "I think so too."
+    tl "Anche io la penso così."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:844
 translate italian sm1fs_t002_sex_6d6320fc:
 
     # tl "Phew, that was pretty good."
-    tl "Phew, that was pretty good."
+    tl "Phew, è stato piuttosto buono."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:846
 translate italian sm1fs_t002_sex_86f9bab7:
 
     # mc "Agreed."
-    mc "Agreed."
+    mc "D'accordo."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:848
 translate italian sm1fs_t002_sex_f4009c5b:
 
     # tl "But have you got something for me to get the rest of the cum off my face?"
-    tl "But have you got something for me to get the rest of the cum off my face?"
+    tl "Ma avete qualcosa per togliermi il resto dello sperma dalla faccia?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:850
 translate italian sm1fs_t002_sex_c2464fc5:
@@ -1502,37 +1502,37 @@ translate italian sm1fs_t002_sex_c2464fc5:
 translate italian sm1fs_t002_sex_207fc487:
 
     # sy "Here you go."
-    sy "Here you go."
+    sy "Ecco qui."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:858
 translate italian sm1fs_t002_sex_361079b8:
 
     # tl "Boy, you sure had that handy."
-    tl "Boy, you sure had that handy."
+    tl "Cavolo, ce l'avevi proprio a portata di mano."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:860
 translate italian sm1fs_t002_sex_1b05fe60:
 
     # sy "Cleaning cum off your face is a pretty regular thing in the studio."
-    sy "Cleaning cum off your face is a pretty regular thing in the studio."
+    sy "Pulire lo sperma dalla faccia è una cosa abbastanza regolare nello studio."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:862
 translate italian sm1fs_t002_sex_f8d93274:
 
     # tl "You wouldn't happen to need another roommate, would you?"
-    tl "You wouldn't happen to need another roommate, would you?"
+    tl "Non avreste per caso bisogno di un'altra coinquilina, vero?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:863
 translate italian sm1fs_t002_sex_9ee46d4f:
 
     # tl "Because I wouldn't mind getting covered more regularly."
-    tl "Because I wouldn't mind getting covered more regularly."
+    tl "Perché non mi dispiacerebbe essere ricoperta più regolarmente."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:866
 translate italian sm1fs_t002_sex_6848e8d9:
 
     # mc "Uhhh, I think we're good. But maybe in the future, who knows?"
-    mc "Uhhh, I think we're good. But maybe in the future, who knows?"
+    mc "Uhhh, penso che siamo a posto. Ma magari in futuro, chi lo sa?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:868
 translate italian sm1fs_t002_sex_6063c570_1:
@@ -1544,307 +1544,307 @@ translate italian sm1fs_t002_sex_6063c570_1:
 translate italian sm1fs_t002_sex_82ad2a0b:
 
     # tl "So how'd I do? Did I get the part?"
-    tl "So how'd I do? Did I get the part?"
+    tl "Allora come me la sono cavata? Ho ottenuto la parte?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:875
 translate italian sm1fs_t002_sex_925d3142:
 
     # sy "I think we'd love to cast you in one of our upcoming films!"
-    sy "I think we'd love to cast you in one of our upcoming films!"
+    sy "Penso che ci piacerebbe averti in uno dei nostri prossimi film!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:877
 translate italian sm1fs_t002_sex_c588a23c:
 
     # tl "Great, and-"
-    tl "Great, and-"
+    tl "Fantastico, e-"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:879
 translate italian sm1fs_t002_sex_484982d0:
 
     # sy "But I also think you'll need some more coaching on how to appear on camera."
-    sy "But I also think you'll need some more coaching on how to appear on camera."
+    sy "Ma penso anche che avrai bisogno di più coaching su come apparire davanti alla telecamera."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:883
 translate italian sm1fs_t002_sex_5cdba177:
 
     # tl "You know I'm already an actress, right?"
-    tl "You know I'm already an actress, right?"
+    tl "Sai che sono già un'attrice, vero?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:886
 translate italian sm1fs_t002_sex_0a4de0a7:
 
     # sy "But you're not a {i}porn actress{/i}. I think you've got a lot of natural talent, but performing for the camera is something that we need to work on."
-    sy "But you're not a {i}porn actress{/i}. I think you've got a lot of natural talent, but performing for the camera is something that we need to work on."
+    sy "Ma non sei un'{i}attrice porno{/i}. Penso che tu abbia molto talento naturale, ma recitare per la telecamera è qualcosa su cui dobbiamo lavorare."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:889
 translate italian sm1fs_t002_sex_71e62ee7:
 
     # sy "You could use some practice too, actually."
-    sy "You could use some practice too, actually."
+    sy "In realtà, anche tu potresti usare un po' di pratica."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:893
 translate italian sm1fs_t002_sex_977e1290:
 
     # mc "Me, what!?"
-    mc "Me, what!?"
+    mc "Io, cosa!?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:895
 translate italian sm1fs_t002_sex_b9bccd5c:
 
     # sy "Yeah, there were a couple times I noticed your performance for the camera was... Lackluster."
-    sy "Yeah, there were a couple times I noticed your performance for the camera was... Lackluster."
+    sy "Sì, ci sono state un paio di volte in cui ho notato che la tua performance davanti alla telecamera era... Scadente."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:898
 translate italian sm1fs_t002_sex_7ebef11a:
 
     # tl "You could always come by the theater. We're always looking for more people to perform in our shows."
-    tl "You could always come by the theater. We're always looking for more people to perform in our shows."
+    tl "Potreste sempre venire al teatro. Siamo sempre alla ricerca di più persone per esibirsi nei nostri spettacoli."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:901
 translate italian sm1fs_t002_sex_e20efeea:
 
     # sy "That's perfect!"
-    sy "That's perfect!"
+    sy "È perfetto!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:903
 translate italian sm1fs_t002_sex_2de56f7b:
 
     # mc "Perfect!? How is that perfect!?"
-    mc "Perfect!? How is that perfect!?"
+    mc "Perfetto!? Come può essere perfetto!?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:906
 translate italian sm1fs_t002_sex_cf8410b0:
 
     # sy "Come here."
-    sy "Come here."
+    sy "Vieni qui."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:908
 translate italian sm1fs_t002_sex_acdd92ba:
 
     # sy "*Whispers* It's perfect because it's another way to make some money {i}and{/i} there's probably some freaky chicks there."
-    sy "*Whispers* It's perfect because it's another way to make some money {i}and{/i} there's probably some freaky chicks there."
+    sy "*Sussurra* È perfetto perché è un altro modo per fare soldi {i}e{/i} probabilmente ci sono delle ragazze strane lì."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:911
 translate italian sm1fs_t002_sex_79b05ab9:
 
     # mc "*Whispers* What makes you think there are going to be some sexual freaks at the theater."
-    mc "*Whispers* What makes you think there are going to be some sexual freaks at the theater."
+    mc "*Sussurra* Cosa ti fa pensare che ci saranno dei maniaci sessuali al teatro."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:913
 translate italian sm1fs_t002_sex_a756445e:
 
     # sy "*Whispers* Because the drama students are always the freakiest."
-    sy "*Whispers* Because the drama students are always the freakiest."
+    sy "*Sussurra* Perché gli studenti di teatro sono sempre i più strani."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:914
 translate italian sm1fs_t002_sex_5301fc79:
 
     # mc "... Okay, good point."
-    mc "... Okay, good point."
+    mc "... Ok, buon punto."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:917
 translate italian sm1fs_t002_sex_f99edc28:
 
     # tl "Well I'm happy you chose me, but what's the pay?"
-    tl "Well I'm happy you chose me, but what's the pay?"
+    tl "Beh, sono felice che mi abbiate scelto, ma qual è la paga?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:920
 translate italian sm1fs_t002_sex_7a96311c:
 
     # mc "Uhhhh, we can-"
-    mc "Uhhhh, we can-"
+    mc "Uhhhh, possiamo-"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:923
 translate italian sm1fs_t002_sex_71c3d5dc:
 
     # sy "A quick aside, please, for me and my business partner!"
-    sy "A quick aside, please, for me and my business partner!"
+    sy "Un rapido a parte, per favore, per me e il mio socio!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:925
 translate italian sm1fs_t002_sex_a69d9b28:
 
     # tl "Uhm, whatever you need, sure."
-    tl "Uhm, whatever you need, sure."
+    tl "Uhm, qualsiasi cosa vi serva, certo."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:928
 translate italian sm1fs_t002_sex_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:930
 translate italian sm1fs_t002_sex_4dfc7b1d:
 
     # sy "*Whispers* Shh, not so loud."
-    sy "*Whispers* Shh, not so loud."
+    sy "*Sussurra* Shh, non così forte."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:932
 translate italian sm1fs_t002_sex_4103fa3e:
 
     # mc "*Whispers* Okay, what?"
-    mc "*Whispers* Okay, what?"
+    mc "*Sussurra* Ok, cosa?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:934
 translate italian sm1fs_t002_sex_63111026:
 
     # sy "*Whispers* Don't give her any hard numbers."
-    sy "*Whispers* Don't give her any hard numbers."
+    sy "*Sussurra* Non darle numeri precisi."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:935
 translate italian sm1fs_t002_sex_9d67fb78:
 
     # mc "*Whispers* Why?"
-    mc "*Whispers* Why?"
+    mc "*Sussurra* Perché?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:938
 translate italian sm1fs_t002_sex_301df354:
 
     # sy "*Whispers* Because we don't know how much we're going to make yet!"
-    sy "*Whispers* Because we don't know how much we're going to make yet!"
+    sy "*Sussurra* Perché non sappiamo ancora quanto guadagneremo!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:940
 translate italian sm1fs_t002_sex_f04ed424:
 
     # mc "*Whispers* Good point."
-    mc "*Whispers* Good point."
+    mc "*Sussurra* Buon punto."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:943
 translate italian sm1fs_t002_sex_c085a1ce:
 
     # sy "*Whispers* Let me-"
-    sy "*Whispers* Let me-"
+    sy "*Sussurra* Lascia che-"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:946
 translate italian sm1fs_t002_sex_074f0119:
 
     # mc "*Whispers* No, I got this."
-    mc "*Whispers* No, I got this."
+    mc "*Sussurra* No, ci penso io."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:949
 translate italian sm1fs_t002_sex_54fb9517:
 
     # mc "So we don't have a number for you yet."
-    mc "So we don't have a number for you yet."
+    mc "Quindi non abbiamo ancora un numero per te."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:950
 translate italian sm1fs_t002_sex_3223003b:
 
     # mc "But that's because we're paying on a performance scale."
-    mc "But that's because we're paying on a performance scale."
+    mc "Ma questo perché paghiamo su una scala di performance."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:953
 translate italian sm1fs_t002_sex_54031d11:
 
     # tl "A what?"
-    tl "A what?"
+    tl "Una cosa?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:955
 translate italian sm1fs_t002_sex_479393a7:
 
     # mc "Performance scale. Depending on how the movie does on the market, we'll pay you more or less."
-    mc "Performance scale. Depending on how the movie does on the market, we'll pay you more or less."
+    mc "Scala di performance. A seconda di come va il film sul mercato, ti pagheremo di più o di meno."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:959
 translate italian sm1fs_t002_sex_8a37cd7c:
 
     # tl "Sounds like a scam-"
-    tl "Sounds like a scam-"
+    tl "Sembra una truffa-"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:961
 translate italian sm1fs_t002_sex_c8475c16:
 
     # mc "Now hang on. You'll always get a fee for performing."
-    mc "Now hang on. You'll always get a fee for performing."
+    mc "Ora aspetta. Riceverai sempre un compenso per la performance."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:965
 translate italian sm1fs_t002_sex_ea9abbc7:
 
     # tl "Okay, how much is that?"
-    tl "Okay, how much is that?"
+    tl "Ok, quanto?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:967
 translate italian sm1fs_t002_sex_e47bfc52:
 
     # mc "Depends on the scene. The vanilla stuff will be less, the more hardcore or specific stuff will be more."
-    mc "Depends on the scene. The vanilla stuff will be less, the more hardcore or specific stuff will be more."
+    mc "Dipende dalla scena. Le cose vanilla saranno meno pagate, le cose più hardcore o specifiche saranno pagate di più."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:970
 translate italian sm1fs_t002_sex_3a2c8e06:
 
     # tl "Okay, but do you have a number yet?"
-    tl "Okay, but do you have a number yet?"
+    tl "Ok, ma avete già un numero?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:972
 translate italian sm1fs_t002_sex_4dea31fc:
 
     # mc "Nope. All depends on what the client asks for."
-    mc "Nope. All depends on what the client asks for."
+    mc "No. Dipende tutto da cosa chiede il cliente."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:974
 translate italian sm1fs_t002_sex_2b12af1f:
 
     # tl "All right. As long as you're always going to pay me something, I'm in."
-    tl "All right. As long as you're always going to pay me something, I'm in."
+    tl "Va bene. Finché mi pagherete sempre qualcosa, ci sto."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:978
 translate italian sm1fs_t002_sex_0b9b5176:
 
     # mc "Great!"
-    mc "Great!"
+    mc "Fantastico!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:980
 translate italian sm1fs_t002_sex_a69cf8c1:
 
     # tl "But I gotta' jet. I told Denise I'd get get there early to rehearse."
-    tl "But I gotta' jet. I told Denise I'd get get there early to rehearse."
+    tl "Ma devo scappare. Ho detto a Denise che sarei arrivata presto per le prove."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:981
 translate italian sm1fs_t002_sex_fda0e448:
 
     # tl "But seriously, if you want to practice your acting, find a time to stop by theater, [mcname]. I think we're actually looking for someone right now."
-    tl "But seriously, if you want to practice your acting, find a time to stop by theater, [mcname]. I think we're actually looking for someone right now."
+    tl "Ma seriamente, se vuoi esercitarti con la recitazione, trova il tempo di passare al teatro, [mcname]. Penso che stiamo effettivamente cercando qualcuno in questo momento."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:983
 translate italian sm1fs_t002_sex_d0dbc01e:
 
     # sy "Oh, he'll definitely be stopping by."
-    sy "Oh, he'll definitely be stopping by."
+    sy "Oh, passerà sicuramente."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:987
 translate italian sm1fs_t002_sex_f4ce26b1:
 
     # tl "Cool. I'll put in a good word for you with the director."
-    tl "Cool. I'll put in a good word for you with the director."
+    tl "Bene. Metterò una buona parola per te con il regista."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:990
 translate italian sm1fs_t002_sex_e2f5009e:
 
     # mc "Great! Thank you, Taisia!"
-    mc "Great! Thank you, Taisia!"
+    mc "Fantastico! Grazie, Taisia!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:993
 translate italian sm1fs_t002_sex_620650ec:
 
     # tl "Just remember that when you cast your first movie."
-    tl "Just remember that when you cast your first movie."
+    tl "Ricordatelo quando farete il vostro primo film."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:995
 translate italian sm1fs_t002_sex_fd8883f1:
 
     # mc "Oh we will, don't worry."
-    mc "Oh we will, don't worry."
+    mc "Oh lo faremo, non preoccuparti."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:998
 translate italian sm1fs_t002_sex_33345655:
 
     # tl "See ya."
-    tl "See ya."
+    tl "Ci vediamo."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:1000
 translate italian sm1fs_t002_sex_0419d335:
 
     # mc "Later."
-    mc "Later."
+    mc "A dopo."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:1002
 translate italian sm1fs_t002_sex_597f3fcb:
@@ -1856,43 +1856,43 @@ translate italian sm1fs_t002_sex_597f3fcb:
 translate italian sm1fs_t002_end_177d3eb2:
 
     # mc "What are you doing?"
-    mc "What are you doing?"
+    mc "Cosa stai facendo?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:1015
 translate italian sm1fs_t002_end_bcf76824:
 
     # sy "Waiting for a high five."
-    sy "Waiting for a high five."
+    sy "Aspettando un batti cinque."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:1017
 translate italian sm1fs_t002_end_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "Perché?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:1018
 translate italian sm1fs_t002_end_76876432:
 
     # sy "Because we just got an actress! And she's pretty hot!"
-    sy "Because we just got an actress! And she's pretty hot!"
+    sy "Perché abbiamo appena trovato un'attrice! Ed è piuttosto hot!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:1021
 translate italian sm1fs_t002_end_bf8fa115:
 
     # mc "Yeah, but she also needs a lot of work to get camera ready."
-    mc "Yeah, but she also needs a lot of work to get camera ready."
+    mc "Sì, ma ha anche bisogno di molto lavoro per essere pronta per la telecamera."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:1024
 translate italian sm1fs_t002_end_e87f152c:
 
     # sy "Just shut up and give me a high five!"
-    sy "Just shut up and give me a high five!"
+    sy "Stai zitto e dammi un batti cinque!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:1026
 translate italian sm1fs_t002_end_1a558081:
 
     # mc "Okay, okay. Sheesh, no need to get angry about it."
-    mc "Okay, okay. Sheesh, no need to get angry about it."
+    mc "Ok, ok. Cavolo, non c'è bisogno di arrabbiarsi."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:1030
 translate italian sm1fs_t002_end_891bf9a4:
@@ -1904,35 +1904,35 @@ translate italian sm1fs_t002_end_891bf9a4:
 translate italian sm1fs_t002_end_1f5ee2e5:
 
     # sy "Now it's time to get you to the theater to meet some more hotties {i}and{/i} to make us some more money!"
-    sy "Now it's time to get you to the theater to meet some more hotties {i}and{/i} to make us some more money!"
+    sy "Ora è tempo di portarti al teatro per incontrare altre fighe {i}e{/i} per farci guadagnare più soldi!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:1033
 translate italian sm1fs_t002_end_c2e52939:
 
     # mc "Yeah, when I have some time I'll head over there."
-    mc "Yeah, when I have some time I'll head over there."
+    mc "Sì, quando avrò del tempo passerò di lì."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:1036
 translate italian sm1fs_t002_end_87024dfe:
 
     # sy "Good."
-    sy "Good."
+    sy "Bene."
 
 translate italian strings:
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:245
     old "I like doggy and cowgirl?"
-    new "I like doggy and cowgirl?"
+    new "Mi piacciono la pecorina e la cowgirl?"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:245
     old "I'm into spanking"
-    new "I'm into spanking"
+    new "Mi piacciono le sculacciate"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:245
     old "I like all of those things!"
-    new "I like all of those things!"
+    new "Mi piacciono tutte quelle cose!"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:245
     old "I'm game. If you can do those things to me"
-    new "I'm game. If you can do those things to me"
+    new "Ci sto. Se puoi farmi quelle cose"
 
