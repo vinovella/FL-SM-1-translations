@@ -2,13 +2,13 @@
 translate italian sm1cs_am007_14c95358:
 
     # am "Hey, [mcname]."
-    am "Hey, [mcname]."
+    am "Ehi, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:37
 translate italian sm1cs_am007_8a7c3d13:
 
     # am "I've been meaning to talk to you."
-    am "I've been meaning to talk to you."
+    am "Volevo parlarti."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:40
 translate italian sm1cs_am007_48d2216f:
@@ -20,217 +20,217 @@ translate italian sm1cs_am007_48d2216f:
 translate italian sm1cs_am007_f8576f9f:
 
     # am "Shit, I gotta take this."
-    am "Shit, I gotta take this."
+    am "Merda, devo rispondere."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:46
 translate italian sm1cs_am007_ed615167:
 
     # mct "I wonder what the call is about.{w} Seemed important."
-    mct "I wonder what the call is about.{w} Seemed important."
+    mct "Mi chiedo di cosa parli questa chiamata.{w} Sembrava importante."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:50
 translate italian sm1cs_am007_271f3c49:
 
     # mct "Shit.{w} I remember Anna asking me about this earlier."
-    mct "Shit.{w} I remember Anna asking me about this earlier."
+    mct "Merda.{w} Ricordo che Anna mi ha chiesto di questo prima."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:51
 translate italian sm1cs_am007_00ee16a5:
 
     # mct "She wanted to know if April was taking up company time with personal calls..."
-    mct "She wanted to know if April was taking up company time with personal calls..."
+    mct "Voleva sapere se April stava occupando il tempo dell'azienda con chiamate personali..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:54
 translate italian sm1cs_am007_fd4787bd:
 
     # mct "I hope Anna or Claire don't realize what April is doing."
-    mct "I hope Anna or Claire don't realize what April is doing."
+    mct "Spero che Anna o Claire non si accorgano di quello che sta facendo April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:66
 translate italian sm1cs_am007_90116dfb:
 
     # mct "I wonder what is keeping April?"
-    mct "I wonder what is keeping April?"
+    mct "Mi chiedo cosa stia trattenendo April?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:69
 translate italian sm1cs_am007_f0cf8e85:
 
     # mct "I didn't see her leave the office.{w} She must still be in here somewhere."
-    mct "I didn't see her leave the office.{w} She must still be in here somewhere."
+    mct "Non l'ho vista uscire dall'ufficio.{w} Deve essere ancora qui da qualche parte."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:74
 translate italian sm1cs_am007_cdd62daf:
 
     # am "Pepper... I {b}really{/b} don't have time for this."
-    am "Pepper... I {b}really{/b} don't have time for this."
+    am "Pepper... {b}davvero{/b} non ho tempo per questo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:75
 translate italian sm1cs_am007_5c6b21a4:
 
     # am "I never said I could make it."
-    am "I never said I could make it."
+    am "Non ho mai detto che potevo farcela."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:79
 translate italian sm1cs_am007_8d7f9f3c:
 
     # am "You know how busy I am with work."
-    am "You know how busy I am with work."
+    am "Sai quanto sono impegnata con il lavoro."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:82
 translate italian sm1cs_am007_b2c9bcdd:
 
     # ps "Listen, we get it, April."
-    ps "Listen, we get it, April."
+    ps "Ascolta, lo capiamo, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:83
 translate italian sm1cs_am007_b989cb6b:
 
     # ps "But if we're ever going to make it big, we all have to make {b}sacrifices{/b}."
-    ps "But if we're ever going to make it big, we all have to make {b}sacrifices{/b}."
+    ps "Ma se vogliamo sfondare, dobbiamo tutti fare dei {b}sacrifici{/b}."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:86
 translate italian sm1cs_am007_6808cbe5:
 
     # am "Oh, we all have to make sacrifices, Pepper?"
-    am "Oh, we all have to make sacrifices, Pepper?"
+    am "Oh, dobbiamo tutti fare sacrifici, Pepper?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:90
 translate italian sm1cs_am007_d7bcac59:
 
     # mct "April is talking to Pepper."
-    mct "April is talking to Pepper."
+    mct "April sta parlando con Pepper."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:91
 translate italian sm1cs_am007_d900e5c6:
 
     # mct "The drummer from her band."
-    mct "The drummer from her band."
+    mct "La batterista della sua band."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:94
 translate italian sm1cs_am007_d855fa3d:
 
     # am "What do you two sacrifice?"
-    am "What do you two sacrifice?"
+    am "Cosa sacrificate voi due?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:98
 translate italian sm1cs_am007_a3c2a208:
 
     # am "I have a job I {i}have{/i} to do to make enough money to pay rent and bills."
-    am "I have a job I {i}have{/i} to do to make enough money to pay rent and bills."
+    am "Ho un lavoro che {i}devo{/i} fare per guadagnare abbastanza per pagare l'affitto e le bollette."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:99
 translate italian sm1cs_am007_9cf69707:
 
     # am "Pepper... your parents still pay your rent."
-    am "Pepper... your parents still pay your rent."
+    am "Pepper... i tuoi genitori pagano ancora il tuo affitto."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:102
 translate italian sm1cs_am007_92a4906b:
 
     # am "And Mitch has been squatting with the Hastings for years."
-    am "And Mitch has been squatting with the Hastings for years."
+    am "E Mitch vive abusivamente con gli Hastings da anni."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:104
 translate italian sm1cs_am007_b24e58ca:
 
     # mcon "And I'm very grateful to them."
-    mcon "And I'm very grateful to them."
+    mcon "E sono molto grato a loro."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:106
 translate italian sm1cs_am007_316d14e1:
 
     # mct "That's Mitch. The lead guitarist and singer."
-    mct "That's Mitch. The lead guitarist and singer."
+    mct "Quello è Mitch. Il chitarrista solista e cantante."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:107
 translate italian sm1cs_am007_70ed3aa1:
 
     # mct "Better watch how you talk to my girl, Mitch."
-    mct "Better watch how you talk to my girl, Mitch."
+    mct "Meglio che stia attento a come parli alla mia ragazza, Mitch."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:111
 translate italian sm1cs_am007_79bc2e75:
 
     # am "My point is...{w} You two have nothing to do but the band."
-    am "My point is...{w} You two have nothing to do but the band."
+    am "Il punto è...{w} Voi due non avete nient'altro da fare se non la band."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:113
 translate italian sm1cs_am007_5f136771:
 
     # ps "Okay, {i}maybe{/i} you have a point..."
-    ps "Okay, {i}maybe{/i} you have a point..."
+    ps "Ok, {i}forse{/i} hai ragione..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:114
 translate italian sm1cs_am007_44f8eb4e:
 
     # ps "We should have listened better and we should accept that sometimes you're going to miss practice."
-    ps "We should have listened better and we should accept that sometimes you're going to miss practice."
+    ps "Avremmo dovuto ascoltare meglio e dovremmo accettare che a volte salterai le prove."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:117
 translate italian sm1cs_am007_4ad97173:
 
     # am "Thank you."
-    am "Thank you."
+    am "Grazie."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:119
 translate italian sm1cs_am007_a7ecaad8:
 
     # mcon "Hopefully this means you can at {i}least{/i} do the other thing for us, April."
-    mcon "Hopefully this means you can at {i}least{/i} do the other thing for us, April."
+    mcon "Spero che questo significhi che puoi almeno fare l'{i}altra{/i} cosa per noi, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:122
 translate italian sm1cs_am007_9436eb46:
 
     # am "No. I already told you 'no'."
-    am "No. I already told you 'no'."
+    am "No. Ti ho già detto di 'no'."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:123
 translate italian sm1cs_am007_9267df77:
 
     # am "I am not spamming Orbix's client list with an email promoting the band and our next three shows!"
-    am "I am not spamming Orbix's client list with an email promoting the band and our next three shows!"
+    am "Non invierò spam alla lista clienti di Orbix con un'email che promuove la band e i nostri prossimi tre concerti!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:125
 translate italian sm1cs_am007_7e6b524f:
 
     # ps "Please, April..."
-    ps "Please, April..."
+    ps "Per favore, April..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:126
 translate italian sm1cs_am007_9b44f820:
 
     # am "Do you hear yourself, Pepper?"
-    am "Do you hear yourself, Pepper?"
+    am "Ti senti, Pepper?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:128
 translate italian sm1cs_am007_725210ba:
 
     # mcon "They won't care about one little email."
-    mcon "They won't care about one little email."
+    mcon "Non gli importerà di una piccola email."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:131
 translate italian sm1cs_am007_3f7f1e59:
 
     # am "*sighs* Mitch, you haven't had a real job in years."
-    am "*sighs* Mitch, you haven't had a real job in years."
+    am "*sospira* Mitch, non hai un lavoro vero da anni."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:132
 translate italian sm1cs_am007_27c91aa1:
 
     # am "You don't have a pot to piss in."
-    am "You don't have a pot to piss in."
+    am "Non hai nemmeno un vaso dove pisciare."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:134
 translate italian sm1cs_am007_6ac5c548:
 
     # mcon "So you're really going to put working for those squares above the good of the band?"
-    mcon "So you're really going to put working for those squares above the good of the band?"
+    mcon "Quindi metterai davvero il lavoro per quei quadrati sopra il bene della band?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:135
 translate italian sm1cs_am007_da66fea5:
 
     # mcon "You'd rather work for the {b}Man{/b} than help us succeed?"
-    mcon "You'd rather work for the {b}Man{/b} than help us succeed?"
+    mcon "Preferisci lavorare per il {b}Sistema{/b} piuttosto che aiutarci ad avere successo?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:137
 translate italian sm1cs_am007_c88ce8ed:
@@ -242,139 +242,139 @@ translate italian sm1cs_am007_c88ce8ed:
 translate italian sm1cs_am007_f27d03ab:
 
     # mcon "No, I want to {b}hear{/b} her say it."
-    mcon "No, I want to {b}hear{/b} her say it."
+    mcon "No, voglio {b}sentirla{/b} dirlo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:142
 translate italian sm1cs_am007_8208d46a:
 
     # am "*breathing deeply*"
-    am "*breathing deeply*"
+    am "*respira profondamente*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:143
 translate italian sm1cs_am007_5f17c58e:
 
     # am "You guys..."
-    am "You guys..."
+    am "Ragazzi..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:144
 translate italian sm1cs_am007_7fd1f85f:
 
     # am "I love you.{w} And you know I love Moonstone Blaze."
-    am "I love you.{w} And you know I love Moonstone Blaze."
+    am "Vi voglio bene.{w} E sapete che amo i Moonstone Blaze."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:145
 translate italian sm1cs_am007_130f647d:
 
     # am "But I'm not going to do something stupid that might threaten my job here."
-    am "But I'm not going to do something stupid that might threaten my job here."
+    am "Ma non farò qualcosa di stupido che potrebbe mettere a rischio il mio lavoro qui."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:146
 translate italian sm1cs_am007_89adff3f:
 
     # am "And you're calling at the worst possible time."
-    am "And you're calling at the worst possible time."
+    am "E state chiamando nel momento peggiore."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:150
 translate italian sm1cs_am007_de04f5cf:
 
     # am "Some asshole put a virus into our systems and it's slowing down progress on our big project."
-    am "Some asshole put a virus into our systems and it's slowing down progress on our big project."
+    am "Qualche stronzo ha messo un virus nei nostri sistemi e sta rallentando i progressi sul nostro grande progetto."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:151
 translate italian sm1cs_am007_651e99db:
 
     # am "Everyone is worried the client might dump us."
-    am "Everyone is worried the client might dump us."
+    am "Tutti sono preoccupati che il cliente possa scaricarci."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:152
 translate italian sm1cs_am007_3e057a08:
 
     # am "And that could screw a lot of people here."
-    am "And that could screw a lot of people here."
+    am "E questo potrebbe fregare un sacco di gente qui."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:154
 translate italian sm1cs_am007_3cfb854b:
 
     # am "We have still barely recovered from repairing the damage of that virus I told you guys about."
-    am "We have still barely recovered from repairing the damage of that virus I told you guys about."
+    am "Ci siamo appena ripresi dalla riparazione dei danni di quel virus di cui vi ho parlato."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:156
 translate italian sm1cs_am007_9407ca71:
 
     # mcon "What virus?"
-    mcon "What virus?"
+    mcon "Quale virus?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:158
 translate italian sm1cs_am007_c1268932:
 
     # ps "Uh... I mean come on.{w} You're a pro.{w} Virus smirus."
-    ps "Uh... I mean come on.{w} You're a pro.{w} Virus smirus."
+    ps "Uh... dai.{w} Sei una professionista.{w} Virus shmirus."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:160
 translate italian sm1cs_am007_e8cf1261:
 
     # am "I have a mountain of work to do around here."
-    am "I have a mountain of work to do around here."
+    am "Ho una montagna di lavoro da fare qui."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:163
 translate italian sm1cs_am007_a41c7fa1:
 
     # am "*sighs* And I can't keep spending so much time on the phone."
-    am "*sighs* And I can't keep spending so much time on the phone."
+    am "*sospira* E non posso continuare a passare così tanto tempo al telefono."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:164
 translate italian sm1cs_am007_57d6e0c6:
 
     # am "Anna prefers to avoid me, but eventually she's going to check in on my work."
-    am "Anna prefers to avoid me, but eventually she's going to check in on my work."
+    am "Anna preferisce evitarmi, ma prima o poi controllerà il mio lavoro."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:165
 translate italian sm1cs_am007_5eb88c9e:
 
     # am "And Claire keeps giving me looks."
-    am "And Claire keeps giving me looks."
+    am "E Claire continua a guardarmi male."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:167
 translate italian sm1cs_am007_03224fcb:
 
     # ps "What kind of looks?"
-    ps "What kind of looks?"
+    ps "Che tipo di sguardi?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:171
 translate italian sm1cs_am007_b2fc98e7:
 
     # am "The kind of looks my mom gave me every time I talked about Bill Gates and not Connie Dolls."
-    am "The kind of looks my mom gave me every time I talked about Bill Gates and not Connie Dolls."
+    am "Il tipo di sguardi che mi dava mia madre ogni volta che parlavo di Bill Gates e non delle bambole Connie."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:173
 translate italian sm1cs_am007_5397b61f:
 
     # ps "Oh shit.{w} I saw one of those once."
-    ps "Oh shit.{w} I saw one of those once."
+    ps "Oh merda.{w} Ne ho visto uno una volta."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:175
 translate italian sm1cs_am007_1d37f7a3:
 
     # mcon "We're getting off topic.{w} Can you at least say that you're going to be around for practice tomorrow?"
-    mcon "We're getting off topic.{w} Can you at least say that you're going to be around for practice tomorrow?"
+    mcon "Stiamo andando fuori tema.{w} Puoi almeno dire che sarai presente alla prova domani?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:179
 translate italian sm1cs_am007_70bce338:
 
     # am "I gotta go."
-    am "I gotta go."
+    am "Devo andare."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:180
 translate italian sm1cs_am007_74bf8ae9:
 
     # am "The noobie needs something."
-    am "The noobie needs something."
+    am "Il principiante ha bisogno di qualcosa."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:182
 translate italian sm1cs_am007_b042200c:
 
     # ps "Oh the stud?{w} Has he asked to strum your guitar yet?"
-    ps "Oh the stud?{w} Has he asked to strum your guitar yet?"
+    ps "Oh il belloccio?{w} Ti ha già chiesto di suonare la tua chitarra?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:185
 translate italian sm1cs_am007_a53b24bd:
@@ -386,13 +386,13 @@ translate italian sm1cs_am007_a53b24bd:
 translate italian sm1cs_am007_858a4072:
 
     # ps "You know...{w} Has he pounded your kick drum?"
-    ps "You know...{w} Has he pounded your kick drum?"
+    ps "Sai...{w} Ha già suonato la tua grancassa?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:191
 translate italian sm1cs_am007_d3e15a0c:
 
     # am "Oh my god.{w} I'm hanging up now!"
-    am "Oh my god.{w} I'm hanging up now!"
+    am "Oh mio dio.{w} Chiudo ora!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:195
 translate italian sm1cs_am007_f64dc4d0:
@@ -404,31 +404,31 @@ translate italian sm1cs_am007_f64dc4d0:
 translate italian sm1cs_am007_1aa2db4a:
 
     # mc "There you are."
-    mc "There you are."
+    mc "Eccoti."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:200
 translate italian sm1cs_am007_3dd2531c:
 
     # am "Can I help you with something, [mcname]?"
-    am "Can I help you with something, [mcname]?"
+    am "Posso aiutarti con qualcosa, [mcname]?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:203
 translate italian sm1cs_am007_19b9d452:
 
     # mc "I was going to ask you the same thing."
-    mc "I was going to ask you the same thing."
+    mc "Stavo per chiederti la stessa cosa."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:204
 translate italian sm1cs_am007_f1b2b6ac:
 
     # mc "And it doesn't seem like that phone call helped."
-    mc "And it doesn't seem like that phone call helped."
+    mc "E non sembra che quella chiamata abbia aiutato."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:207
 translate italian sm1cs_am007_480c8bbb:
 
     # am "Congratulations. Your eyes and ears work."
-    am "Congratulations. Your eyes and ears work."
+    am "Congratulazioni. I tuoi occhi e le tue orecchie funzionano."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:208
 translate italian sm1cs_am007_2b35b6fe:
@@ -440,79 +440,79 @@ translate italian sm1cs_am007_2b35b6fe:
 translate italian sm1cs_am007_03cc98de:
 
     # am "[mcname], I..."
-    am "[mcname], I..."
+    am "[mcname], io..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:211
 translate italian sm1cs_am007_6ae6f77c:
 
     # am "Just because we are dating, doesn't mean you have to come running to my aid anytime it looks like I'm in trouble."
-    am "Just because we are dating, doesn't mean you have to come running to my aid anytime it looks like I'm in trouble."
+    am "Solo perché stiamo insieme, non significa che devi correre in mio aiuto ogni volta che sembra che io sia nei guai."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:212
 translate italian sm1cs_am007_c4c994b5:
 
     # am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
-    am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
+    am "Lavoro nella tecnologia.{w} Ogni giorno è un panino di merda per colazione e un cocktail di ansia per pranzo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:213
 translate italian sm1cs_am007_45358e8c:
 
     # am "And this week has been order on the double-shit sandwich."
-    am "And this week has been order on the double-shit sandwich."
+    am "E questa settimana è stata un ordine di panino doppio-merda."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:218
 translate italian sm1cs_am007_754afbcb:
 
     # am "I don't have to tell you what a headache the virus has been."
-    am "I don't have to tell you what a headache the virus has been."
+    am "Non devo dirti che mal di testa sia stato il virus."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:219
 translate italian sm1cs_am007_3d9d1707:
 
     # am "Every time Sienna and I are close to annihilating the damn thing, it mutates and we have to start over."
-    am "Every time Sienna and I are close to annihilating the damn thing, it mutates and we have to start over."
+    am "Ogni volta che Sienna ed io siamo vicine ad annientare quella maledetta cosa, muta e dobbiamo ricominciare da capo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:225
 translate italian sm1cs_am007_122c537b:
 
     # mc "I am sure that you will figure it out, April."
-    mc "I am sure that you will figure it out, April."
+    mc "Sono sicuro che lo risolverai, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:227
 translate italian sm1cs_am007_468798a3:
 
     # am "I will.{w} Or I'll be fired."
-    am "I will.{w} Or I'll be fired."
+    am "Lo farò.{w} O sarò licenziata."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:232
 translate italian sm1cs_am007_a4765750:
 
     # mc "It's kind of strange that it has taken so long."
-    mc "It's kind of strange that it has taken so long."
+    mc "È un po' strano che ci sia voluto così tanto tempo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:235
 translate italian sm1cs_am007_e307d2e8:
 
     # am "Yeah well, we can thank the absolute dick who designed it."
-    am "Yeah well, we can thank the absolute dick who designed it."
+    am "Già, possiamo ringraziare l'assoluto stronzo che l'ha progettato."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:236
 translate italian sm1cs_am007_add6eaef:
 
     # am "The silver lining is that if the hacker attacked the client's website, it would be a different story."
-    am "The silver lining is that if the hacker attacked the client's website, it would be a different story."
+    am "Il lato positivo è che se l'hacker avesse attaccato il sito web del cliente, sarebbe stata un'altra storia."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:237
 translate italian sm1cs_am007_9cb00d63:
 
     # am "We have a chance to fight back."
-    am "We have a chance to fight back."
+    am "Abbiamo la possibilità di combattere."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:241
 translate italian sm1cs_am007_fa642a5a:
 
     # mc "That's the spirit, April."
-    mc "That's the spirit, April."
+    mc "Questo è lo spirito giusto, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:243
 translate italian sm1cs_am007_1c8acf17:
@@ -524,43 +524,43 @@ translate italian sm1cs_am007_1c8acf17:
 translate italian sm1cs_am007_6002cba4:
 
     # mc "Hey, at least you figured out how to get that virus off the Orbix systems."
-    mc "Hey, at least you figured out how to get that virus off the Orbix systems."
+    mc "Ehi, almeno hai capito come rimuovere quel virus dai sistemi di Orbix."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:251
 translate italian sm1cs_am007_498d67f1:
 
     # am "Well... that was a team effort."
-    am "Well... that was a team effort."
+    am "Beh... è stato uno sforzo di squadra."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:252
 translate italian sm1cs_am007_133e4585:
 
     # am "Even {i}you{/i} were able to help out, [mcname]."
-    am "Even {i}you{/i} were able to help out, [mcname]."
+    am "Anche {i}tu{/i} sei riuscito ad aiutare, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:255
 translate italian sm1cs_am007_e3106390:
 
     # mc "Haha. Was that a rare compliment from you, Mercer?"
-    mc "Haha. Was that a rare compliment from you, Mercer?"
+    mc "Haha. Era un raro complimento da parte tua, Mercer?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:258
 translate italian sm1cs_am007_db1dcc8d:
 
     # am "*playful* Shut up."
-    am "*playful* Shut up."
+    am "*giocosa* Sta' zitto."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:263
 translate italian sm1cs_am007_42cc3d05:
 
     # am "So... I appreciate you checking in."
-    am "So... I appreciate you checking in."
+    am "Quindi... apprezzo che tu sia venuto a controllarmi."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:264
 translate italian sm1cs_am007_e108767c:
 
     # am "But I can manage just fine."
-    am "But I can manage just fine."
+    am "Ma me la cavo benissimo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:268
 translate italian sm1cs_am007_5aa180da:
@@ -572,31 +572,31 @@ translate italian sm1cs_am007_5aa180da:
 translate italian sm1cs_am007_70b09371:
 
     # am "Oh shit."
-    am "Oh shit."
+    am "Oh merda."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:271
 translate italian sm1cs_am007_332080c4:
 
     # am "Really?!{w} Today of all days?"
-    am "Really?!{w} Today of all days?"
+    am "Davvero?!{w} Proprio oggi?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:275
 translate italian sm1cs_am007_1c0ab73c:
 
     # am "I gotta...{w} go."
-    am "I gotta...{w} go."
+    am "Devo...{w} andare."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:279
 translate italian sm1cs_am007_1f7bd010:
 
     # mct "And there she goes again."
-    mct "And there she goes again."
+    mct "Ed eccola che scappa di nuovo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:282
 translate italian sm1cs_am007_26996107:
 
     # am "Hey, how good are you at jogging?"
-    am "Hey, how good are you at jogging?"
+    am "Ehi, quanto sei bravo a fare jogging?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:284
 translate italian sm1cs_am007_8114a09f:
@@ -608,103 +608,103 @@ translate italian sm1cs_am007_8114a09f:
 translate italian sm1cs_am007_c36f6987:
 
     # mc "I know the general premise."
-    mc "I know the general premise."
+    mc "Conosco il concetto generale."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:291
 translate italian sm1cs_am007_d755ba11:
 
     # mc "People do it when they don't have a car."
-    mc "People do it when they don't have a car."
+    mc "La gente lo fa quando non ha la macchina."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:295
 translate italian sm1cs_am007_49b06188:
 
     # mc "Pretty good."
-    mc "Pretty good."
+    mc "Abbastanza bene."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:299
 translate italian sm1cs_am007_6db3821a:
 
     # mc "These puppies are my main vehicle all day. Seven days a week."
-    mc "These puppies are my main vehicle all day. Seven days a week."
+    mc "Questi cuccioli sono il mio mezzo di trasporto principale tutto il giorno. Sette giorni su sette."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:303
 translate italian sm1cs_am007_22907d01:
 
     # am "My marathon alarm just went off."
-    am "My marathon alarm just went off."
+    am "Il mio allarme della maratona è appena suonato."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:304
 translate italian sm1cs_am007_3d30aaaa:
 
     # am "I set a random alert every two weeks."
-    am "I set a random alert every two weeks."
+    am "Imposto un allarme casuale ogni due settimane."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:305
 translate italian sm1cs_am007_202e9ad0:
 
     # am "When it rings, come rain or shine, I gotta start."
-    am "When it rings, come rain or shine, I gotta start."
+    am "Quando suona, piova o splenda il sole, devo partire."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:308
 translate italian sm1cs_am007_8fe379af:
 
     # mc "You run a marathon every two weeks?"
-    mc "You run a marathon every two weeks?"
+    mc "Corri una maratona ogni due settimane?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:311
 translate italian sm1cs_am007_4bf78832:
 
     # am "Have you seen how much junk food I eat?"
-    am "Have you seen how much junk food I eat?"
+    am "Hai visto quanto cibo spazzatura mangio?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:312
 translate italian sm1cs_am007_8da8f1d4:
 
     # am "It's a small price to pay for a sweet tooth."
-    am "It's a small price to pay for a sweet tooth."
+    am "È un piccolo prezzo da pagare per un debole per i dolci."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:321
 translate italian sm1cs_am007_c50a63e8:
 
     # mc "Well you are {i}sweet{/i} as sugar."
-    mc "Well you are {i}sweet{/i} as sugar."
+    mc "Beh tu sei {i}dolce{/i} come lo zucchero."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:324
 translate italian sm1cs_am007_f204999b:
 
     # am "Sure..."
-    am "Sure..."
+    am "Certo..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:325
 translate italian sm1cs_am007_742c3e9b:
 
     # am "So long as your definition of 'sweet' is the opposite of what it means in the dictionaries of every human language."
-    am "So long as your definition of 'sweet' is the opposite of what it means in the dictionaries of every human language."
+    am "Purché la tua definizione di 'dolce' sia l'opposto di ciò che significa nei dizionari di ogni lingua umana."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:326
 translate italian sm1cs_am007_65daffd9:
 
     # am "Idiot."
-    am "Idiot."
+    am "Idiota."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:334
 translate italian sm1cs_am007_571a3973:
 
     # mc "The word 'sweet' and you don't seem to fit together."
-    mc "The word 'sweet' and you don't seem to fit together."
+    mc "La parola 'dolce' e tu non sembrate andare d'accordo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:337
 translate italian sm1cs_am007_8c79c0d1:
 
     # am "With that attitude, you're certainly doing great at never seeing my sweet side."
-    am "With that attitude, you're certainly doing great at never seeing my sweet side."
+    am "Con quell'atteggiamento, stai sicuramente facendo un ottimo lavoro nel non vedere mai il mio lato dolce."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:339
 translate italian sm1cs_am007_7fe76b4d:
 
     # mc "Maybe I'm into sour candy."
-    mc "Maybe I'm into sour candy."
+    mc "Forse mi piacciono le caramelle aspre."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:340
 translate italian sm1cs_am007_ffa2f81f:
@@ -716,7 +716,7 @@ translate italian sm1cs_am007_ffa2f81f:
 translate italian sm1cs_am007_98a67b87:
 
     # mc "Maybe you shouldn't eat so much junk food, April."
-    mc "Maybe you shouldn't eat so much junk food, April."
+    mc "Forse non dovresti mangiare così tanto cibo spazzatura, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:350
 translate italian sm1cs_am007_1c8acf17_1:
@@ -734,49 +734,49 @@ translate italian sm1cs_am007_2b35b6fe_1:
 translate italian sm1cs_am007_e95ac8fd:
 
     # am "I will give you one chance.{w} Just one..."
-    am "I will give you one chance.{w} Just one..."
+    am "Ti darò una possibilità.{w} Solo una..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:355
 translate italian sm1cs_am007_9a8063eb:
 
     # am "To take back your {b}absurd{/b} statement."
-    am "To take back your {b}absurd{/b} statement."
+    am "Per ritirare la tua {b}assurda{/b} affermazione."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:356
 translate italian sm1cs_am007_d236baa9:
 
     # am "That you just made about your girlfriend."
-    am "That you just made about your girlfriend."
+    am "Che hai appena fatto sulla tua ragazza."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:357
 translate italian sm1cs_am007_420ee239:
 
     # am "To her {b}face{/b}...{w} When she's having a bad day."
-    am "To her {b}face{/b}...{w} When she's having a bad day."
+    am "In {b}faccia{/b}...{w} Quando sta avendo una brutta giornata."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:366
 translate italian sm1cs_am007_menu_2_dce52e74:
 
     # mc "I'm sorry. April. I didn't mean it."
-    mc "I'm sorry. April. I didn't mean it."
+    mc "Mi dispiace. April. Non lo intendevo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:370
 translate italian sm1cs_am007_menu_2_f79c4813:
 
     # am "Hmmmph. Good."
-    am "Hmmmph. Good."
+    am "Hmmmph. Bene."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:376
 translate italian sm1cs_am007_menu_2_6a57aa02:
 
     # mc "I said what I said."
-    mc "I said what I said."
+    mc "Ho detto quello che ho detto."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:377
 translate italian sm1cs_am007_menu_2_6a320d0c:
 
     # mc "Hashtag no regrets."
-    mc "Hashtag no regrets."
+    mc "Hashtag nessun rimpianto."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:381
 translate italian sm1cs_am007_menu_2_62e14357:
@@ -794,19 +794,19 @@ translate italian sm1cs_am007_menu_2_5143be6c:
 translate italian sm1cs_am007_menu_2_054de26c:
 
     # mc "*coughs*"
-    mc "*coughs*"
+    mc "*tossisce*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:388
 translate italian sm1cs_am007_menu_2_848fcd93:
 
     # mc "I deserve that."
-    mc "I deserve that."
+    mc "Me lo merito."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:391
 translate italian sm1cs_am007_menu_2_84d44ed8:
 
     # am "Damn right."
-    am "Damn right."
+    am "Dannata ragione."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:392
 translate italian sm1cs_am007_menu_2_537e73cc:
@@ -818,121 +818,121 @@ translate italian sm1cs_am007_menu_2_537e73cc:
 translate italian sm1cs_am007_menu_2_badcaab3:
 
     # mc "Giraaah... Going to leave a mark."
-    mc "Giraaah... Going to leave a mark."
+    mc "Giraaah... Lascerà un segno."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:399
 translate italian sm1cs_am007_menu_2_602fccd0:
 
     # am "You'll live."
-    am "You'll live."
+    am "Sopravviverai."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:402
 translate italian sm1cs_am007_menu_2_9a0d53a1:
 
     # mct "Note to self.{w} Don't ever say {b}that{/b} again."
-    mct "Note to self.{w} Don't ever say {b}that{/b} again."
+    mct "Nota per me stesso.{w} Non dire mai più {b}questo{/b}."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:410
 translate italian sm1cs_am007_jogging_c323eece:
 
     # am "So what do you say?"
-    am "So what do you say?"
+    am "Allora che ne dici?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:413
 translate italian sm1cs_am007_jogging_e3359900:
 
     # mc "To what?"
-    mc "To what?"
+    mc "A cosa?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:416
 translate italian sm1cs_am007_jogging_bd2dbc26:
 
     # am "Do you want to run a marathon with me?"
-    am "Do you want to run a marathon with me?"
+    am "Vuoi correre una maratona con me?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:419
 translate italian sm1cs_am007_jogging_5dd33794:
 
     # mc "Uh sure. How do I sign up?"
-    mc "Uh sure. How do I sign up?"
+    mc "Uh certo. Come mi iscrivo?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:422
 translate italian sm1cs_am007_jogging_132f6836:
 
     # am "No. I mean. It's not a real marathon."
-    am "No. I mean. It's not a real marathon."
+    am "No. Intendo. Non è una vera maratona."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:423
 translate italian sm1cs_am007_jogging_27b012b1:
 
     # am "I've mapped out a route. It starts at Theomalt Park and goes throughout the city."
-    am "I've mapped out a route. It starts at Theomalt Park and goes throughout the city."
+    am "Ho pianificato un percorso. Inizia al Theomalt Park e attraversa tutta la città."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:424
 translate italian sm1cs_am007_jogging_a5dd2128:
 
     # am "The distance is equivalent to that of a marathon."
-    am "The distance is equivalent to that of a marathon."
+    am "La distanza è equivalente a quella di una maratona."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:427
 translate italian sm1cs_am007_jogging_2b6524bc:
 
     # mc "My girl is wicked smart."
-    mc "My girl is wicked smart."
+    mc "La mia ragazza è maledettamente intelligente."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:428
 translate italian sm1cs_am007_jogging_e6965271:
 
     # mc "Sure. I can do a marathon with you."
-    mc "Sure. I can do a marathon with you."
+    mc "Certo. Posso fare una maratona con te."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:431
 translate italian sm1cs_am007_jogging_9a9d804f:
 
     # am "Great. It will be like a date."
-    am "Great. It will be like a date."
+    am "Fantastico. Sarà come un appuntamento."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:432
 translate italian sm1cs_am007_jogging_94f22942:
 
     # am "Just the two of us."
-    am "Just the two of us."
+    am "Solo noi due."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:435
 translate italian sm1cs_am007_jogging_c0e639c3:
 
     # mc "Even better."
-    mc "Even better."
+    mc "Ancora meglio."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:437
 translate italian sm1cs_am007_jogging_d99c633e:
 
     # am "I need to get into my gym clothes. You should put on something else too."
-    am "I need to get into my gym clothes. You should put on something else too."
+    am "Devo mettermi i vestiti da palestra. Anche tu dovresti metterti qualcos'altro."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:438
 translate italian sm1cs_am007_jogging_9b45ec8f:
 
     # am "Unless you want to ruin your clothes."
-    am "Unless you want to ruin your clothes."
+    am "A meno che tu non voglia rovinare i tuoi vestiti."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:442
 translate italian sm1cs_am007_jogging_218246b8:
 
     # am "*nervously* Ummm."
-    am "*nervously* Ummm."
+    am "*nervosamente* Ummm."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:443
 translate italian sm1cs_am007_jogging_d8cb6ef7:
 
     # am "Kiss me goodbye?"
-    am "Kiss me goodbye?"
+    am "Mi dai un bacio d'addio?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:444
 translate italian sm1cs_am007_jogging_1a4e920f:
 
     # am "*soft breaths*"
-    am "*soft breaths*"
+    am "*respiri leggeri*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:449
 translate italian sm1cs_am007_jogging_e32ab0a4:
@@ -944,13 +944,13 @@ translate italian sm1cs_am007_jogging_e32ab0a4:
 translate italian sm1cs_am007_jogging_ce35f8a6:
 
     # am "How do you kiss so much better than you code?"
-    am "How do you kiss so much better than you code?"
+    am "Come fai a baciare così tanto meglio di quanto programmi?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:458
 translate italian sm1cs_am007_jogging_8c051f5a:
 
     # mc "One of life's mysteries I guess."
-    mc "One of life's mysteries I guess."
+    mc "Uno dei misteri della vita, immagino."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:461
 translate italian sm1cs_am007_jogging_b6effd23:
@@ -962,7 +962,7 @@ translate italian sm1cs_am007_jogging_b6effd23:
 translate italian sm1cs_am007_jogging_16ba7c89:
 
     # am "Text me when you're at the park."
-    am "Text me when you're at the park."
+    am "Scrivimi quando sei al parco."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:465
 translate italian sm1cs_am007_jogging_8f353817:
