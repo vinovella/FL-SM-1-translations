@@ -56,7 +56,7 @@ translate italian sm1fs_t001_c4790106:
 translate italian sm1fs_t001_acc26762:
 
     # mc "I guess..."
-    mc "I guess..."
+    mc "Immagino..."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:49
 translate italian sm1fs_t001_4681ade3:
@@ -98,7 +98,7 @@ translate italian sm1fs_t001_d42fefa9:
 translate italian sm1fs_t001_acc26762_1:
 
     # mc "I guess..."
-    mc "I guess..."
+    mc "Immagino..."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:67
 translate italian sm1fs_t001_240bc4f5:
