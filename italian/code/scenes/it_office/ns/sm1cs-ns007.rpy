@@ -536,145 +536,145 @@ translate italian sm1cs_ns007_resturant_ce4a6215:
 translate italian sm1cs_ns007_resturant_0e836376:
 
     # mct "Okay, maybe I don't know everything she's going to say."
-    mct "Okay, maybe I don't know everything she's going to say."
+    mct "Ok, forse non so tutto quello che dirà."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:331
 translate italian sm1cs_ns007_resturant_df0e3670:
 
     # mc "An escape room?"
-    mc "An escape room?"
+    mc "Una escape room?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:334
 translate italian sm1cs_ns007_resturant_778b53f9:
 
     # ns "Yes. I've heard that they're thinking of doing one at the carnival not too far from here."
-    ns "Yes. I've heard that they're thinking of doing one at the carnival not too far from here."
+    ns "Sì. Ho sentito che stanno pensando di farne una al carnevale non molto lontano da qui."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:335
 translate italian sm1cs_ns007_resturant_98884915:
 
     # ns "It's going to have fun puzzles that I love, and it's not going to be super scary."
-    ns "It's going to have fun puzzles that I love, and it's not going to be super scary."
+    ns "Avrà enigmi divertenti che amo, e non sarà super spaventosa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:338
 translate italian sm1cs_ns007_resturant_7a048200:
 
     # ns "At least, that's what I understand from the information available."
-    ns "At least, that's what I understand from the information available."
+    ns "Almeno, è quello che capisco dalle informazioni disponibili."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:341
 translate italian sm1cs_ns007_resturant_d49deb3b:
 
     # ns "Is that something you would enjoy?"
-    ns "Is that something you would enjoy?"
+    ns "È qualcosa che ti piacerebbe?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:342
 translate italian sm1cs_ns007_resturant_b405ec17:
 
     # ns "I didn't want you to have the responsibility of planning our next date."
-    ns "I didn't want you to have the responsibility of planning our next date."
+    ns "Non volevo che avessi la responsabilità di pianificare il nostro prossimo appuntamento."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:348
 translate italian sm1cs_ns007_resturant_84acdbf5:
 
     # mc "We're not even through our first date and you're already planning our second?"
-    mc "We're not even through our first date and you're already planning our second?"
+    mc "Non abbiamo nemmeno finito il nostro primo appuntamento e stai già pianificando il secondo?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:350
 translate italian sm1cs_ns007_resturant_17dc8741:
 
     # ns "I love keeping things organized."
-    ns "I love keeping things organized."
+    ns "Adoro tenere le cose organizzate."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:351
 translate italian sm1cs_ns007_resturant_b2a2f531:
 
     # ns "But... I feel now like you didn't expect such eagerness."
-    ns "But... I feel now like you didn't expect such eagerness."
+    ns "Ma... ora sento che non ti aspettavi una tale impazienza."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:355
 translate italian sm1cs_ns007_resturant_a6bef79c:
 
     # mc "Not it's...{w} I like it."
-    mc "Not it's...{w} I like it."
+    mc "No, è...{w} Mi piace."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:358
 translate italian sm1cs_ns007_resturant_fda5e0a3:
 
     # mc "I think you know I enjoy spending time with you, and I'd love to go out with you again, Nari."
-    mc "I think you know I enjoy spending time with you, and I'd love to go out with you again, Nari."
+    mc "Penso che tu sappia che mi piace passare del tempo con te, e mi piacerebbe uscire di nuovo con te, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:361
 translate italian sm1cs_ns007_resturant_4db3fc2f:
 
     # ns "Really?"
-    ns "Really?"
+    ns "Davvero?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:363
 translate italian sm1cs_ns007_resturant_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "Certo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:366
 translate italian sm1cs_ns007_resturant_735f4c19:
 
     # ns "*giggles happily*"
-    ns "*giggles happily*"
+    ns "*ridacchia felicemente*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:372
 translate italian sm1cs_ns007_resturant_fbbf5596:
 
     # mc "I'd love to do that with you, Nari. An escape room sounds like a great time."
-    mc "I'd love to do that with you, Nari. An escape room sounds like a great time."
+    mc "Mi piacerebbe farlo con te, Nari. Una escape room sembra un ottimo passatempo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:374
 translate italian sm1cs_ns007_resturant_0a4d6b47:
 
     # ns "Excellent. I'm so happy to hear you say that, [mcname]."
-    ns "Excellent. I'm so happy to hear you say that, [mcname]."
+    ns "Eccellente. Sono così felice di sentirti dire questo, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:378
 translate italian sm1cs_ns007_resturant_565c78bc:
 
     # ns "It's been so nice, having you there to support me, [mcname]..."
-    ns "It's been so nice, having you there to support me, [mcname]..."
+    ns "È stato così bello, averti lì a supportarmi, [mcname]..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:381
 translate italian sm1cs_ns007_resturant_98da570f:
 
     # mc "Well you've been making sure I don't burn down the mainframe, Nari."
-    mc "Well you've been making sure I don't burn down the mainframe, Nari."
+    mc "Beh, ti sei assicurata che non bruciassi il mainframe, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:382
 translate italian sm1cs_ns007_resturant_ca454618:
 
     # mc "The feeling is very mutual."
-    mc "The feeling is very mutual."
+    mc "Il sentimento è del tutto reciproco."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:385
 translate italian sm1cs_ns007_resturant_8840bd68:
 
     # ns "I think I understand that. It means, we are feeling the same things."
-    ns "I think I understand that. It means, we are feeling the same things."
+    ns "Penso di capirlo. Significa che proviamo le stesse cose."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:386
 translate italian sm1cs_ns007_resturant_1813434c:
 
     # ns "Fondness. Attraction."
-    ns "Fondness. Attraction."
+    ns "Affetto. Attrazione."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:389
 translate italian sm1cs_ns007_resturant_3bf9a58c:
 
     # ns "*whispers* Urges..."
-    ns "*whispers* Urges..."
+    ns "*sussurra* Impulsi..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:392
 translate italian sm1cs_ns007_resturant_70eb18fc:
 
     # mc "Oh I'm certainly feeling a few urges, Nari."
-    mc "Oh I'm certainly feeling a few urges, Nari."
+    mc "Oh, sento certamente alcuni impulsi, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:397
 translate italian sm1cs_ns007_resturant_a3309b9d:
@@ -686,13 +686,13 @@ translate italian sm1cs_ns007_resturant_a3309b9d:
 translate italian sm1cs_ns007_resturant_8aa33f90:
 
     # ns "I... I'm so sorry, [mcname]."
-    ns "I... I'm so sorry, [mcname]."
+    ns "Io... mi dispiace tanto, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:405
 translate italian sm1cs_ns007_resturant_44e24d73:
 
     # mc "It's alright. Do you have to get that?"
-    mc "It's alright. Do you have to get that?"
+    mc "Va bene. Devi rispondere?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:413
 translate italian sm1cs_ns007_resturant_5e6f9206:
@@ -704,199 +704,199 @@ translate italian sm1cs_ns007_resturant_5e6f9206:
 translate italian sm1cs_ns007_resturant_c1f80860:
 
     # mc "Do you have to get that? Is it your parents?"
-    mc "Do you have to get that? Is it your parents?"
+    mc "Devi rispondere? Sono i tuoi genitori?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:419
 translate italian sm1cs_ns007_resturant_aa41ac23:
 
     # ns "No. It's not them. I..."
-    ns "No. It's not them. I..."
+    ns "No. Non sono loro. Io..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:422
 translate italian sm1cs_ns007_resturant_c0c815a7:
 
     # ns "I use emails to talk to them mostly."
-    ns "I use emails to talk to them mostly."
+    ns "Uso principalmente le email per parlare con loro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:423
 translate italian sm1cs_ns007_resturant_f1e3b6fa:
 
     # ns "Calls back home are very expensive."
-    ns "Calls back home are very expensive."
+    ns "Le chiamate a casa sono molto costose."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:426
 translate italian sm1cs_ns007_resturant_9e1eb210:
 
     # ns "What about you? What do your parents think of your success at Orbix?"
-    ns "What about you? What do your parents think of your success at Orbix?"
+    ns "E tu? Cosa pensano i tuoi genitori del tuo successo in Orbix?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:429
 translate italian sm1cs_ns007_resturant_af25cb2b:
 
     # mc "My parents..."
-    mc "My parents..."
+    mc "I miei genitori..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:431
 translate italian sm1cs_ns007_resturant_d080a70e:
 
     # mct "Well, my sister Stacy thinks it's great. Also, we live together in a condemned warehouse that we're trying to turn into a porn studio."
-    mct "Well, my sister Stacy thinks it's great. Also, we live together in a condemned warehouse that we're trying to turn into a porn studio."
+    mct "Beh, mia sorella Stacy pensa che sia fantastico. Inoltre, viviamo insieme in un magazzino condannato che stiamo cercando di trasformare in uno studio porno."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:432
 translate italian sm1cs_ns007_resturant_6498bb2b:
 
     # mct "Is something I can obviously not say."
-    mct "Is something I can obviously not say."
+    mct "È qualcosa che ovviamente non posso dire."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:434
 translate italian sm1cs_ns007_resturant_b682a4a5:
 
     # mct "Let's see, my live-in girlfriend, is very supportive. Oh yeah, have I not mentioned her before?"
-    mct "Let's see, my live-in girlfriend, is very supportive. Oh yeah, have I not mentioned her before?"
+    mct "Vediamo, la mia ragazza con cui convivo è molto di supporto. Oh già, non l'ho menzionata prima?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:435
 translate italian sm1cs_ns007_resturant_2dd78bc1:
 
     # mct "Worse, I haven't really checked in with my family since starting college."
-    mct "Worse, I haven't really checked in with my family since starting college."
+    mct "Peggio ancora, non ho davvero controllato con la mia famiglia da quando ho iniziato l'università."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:438
 translate italian sm1cs_ns007_resturant_af25cb2b_1:
 
     # mc "My parents..."
-    mc "My parents..."
+    mc "I miei genitori..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:443
 translate italian sm1cs_ns007_resturant_9300ef32:
 
     # mc "You know, I don't talk to them that much."
-    mc "You know, I don't talk to them that much."
+    mc "Sai, non parlo molto con loro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:444
 translate italian sm1cs_ns007_resturant_756f77d9:
 
     # mc "But I'm sure they would be proud of what I'm doing at Orbix."
-    mc "But I'm sure they would be proud of what I'm doing at Orbix."
+    mc "Ma sono sicuro che sarebbero orgogliosi di quello che sto facendo in Orbix."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:447
 translate italian sm1cs_ns007_resturant_61cda95d:
 
     # ns "As they should be."
-    ns "As they should be."
+    ns "Come dovrebbero."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:452
 translate italian sm1cs_ns007_resturant_e5780381:
 
     # mc "The people who care the most about me are very happy with the progress I've been making."
-    mc "The people who care the most about me are very happy with the progress I've been making."
+    mc "Le persone a cui tengo di più sono molto felici dei progressi che sto facendo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:453
 translate italian sm1cs_ns007_resturant_187a5917:
 
     # mc "I think they... well and I, were a little worried when I stopped going to college."
-    mc "I think they... well and I, were a little worried when I stopped going to college."
+    mc "Penso che loro... beh, e io, fossimo un po' preoccupati quando ho smesso di andare all'università."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:454
 translate italian sm1cs_ns007_resturant_d70b0f2a:
 
     # mc "But they're glad I've been doing well at Orbix."
-    mc "But they're glad I've been doing well at Orbix."
+    mc "Ma sono contenti che me la stia cavando bene in Orbix."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:457
 translate italian sm1cs_ns007_resturant_61cda95d_1:
 
     # ns "As they should be."
-    ns "As they should be."
+    ns "Come dovrebbero."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:462
 translate italian sm1cs_ns007_resturant_c53d54eb:
 
     # ns "It feels like you're improving every day, [mcname]."
-    ns "It feels like you're improving every day, [mcname]."
+    ns "Sembra che tu stia migliorando ogni giorno, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:464
 translate italian sm1cs_ns007_resturant_fbf03547:
 
     # mc "Yeah. Shame April doesn't share your view."
-    mc "Yeah. Shame April doesn't share your view."
+    mc "Sì. Peccato che April non condivida la tua opinione."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:467
 translate italian sm1cs_ns007_resturant_79bdd0e0:
 
     # ns "Well, as you Americans say, she is an \"acquired taste\"."
-    ns "Well, as you Americans say, she is an \"acquired taste\"."
+    ns "Beh, come dite voi americani, è un \"gusto acquisito\"."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:469
 translate italian sm1cs_ns007_resturant_c229bd9a:
 
     # mc "Hahaha. Definitely."
-    mc "Hahaha. Definitely."
+    mc "Hahaha. Decisamente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:472
 translate italian sm1cs_ns007_resturant_3191127c:
 
     # ns "Mmmm. Speaking of acquired {i}tastes{/i}..."
-    ns "Mmmm. Speaking of acquired {i}tastes{/i}..."
+    ns "Mmmm. Parlando di {i}gusti{/i} acquisiti..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:473
 translate italian sm1cs_ns007_resturant_2041d0ae:
 
     # ns "You mentioned taking me on a tour of a historical lighthouse near here?"
-    ns "You mentioned taking me on a tour of a historical lighthouse near here?"
+    ns "Hai accennato di portarmi in visita a un faro storico qui vicino?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:478
 translate italian sm1cs_ns007_resturant_720eaff2:
 
     # mc "What do you have in mind, Nari?"
-    mc "What do you have in mind, Nari?"
+    mc "Cosa hai in mente, Nari?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:481
 translate italian sm1cs_ns007_resturant_f3f29dcf:
 
     # ns "If it's a private spot, I'd {i}love{/i} a tour."
-    ns "If it's a private spot, I'd {i}love{/i} a tour."
+    ns "Se è un posto privato, {i}adorerei{/i} una visita."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:484
 translate italian sm1cs_ns007_resturant_ff3f1be4:
 
     # ns "And I think the next English phrase you should say is \"Check please\"."
-    ns "And I think the next English phrase you should say is \"Check please\"."
+    ns "E penso che la prossima frase inglese che dovresti dire sia \"Il conto per favore\"."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:487
 translate italian sm1cs_ns007_resturant_e0e0af66:
 
     # mc "Check please!"
-    mc "Check please!"
+    mc "Il conto per favore!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:500
 translate italian sm1cs_ns007_light_house_eeb8dd3a:
 
     # ns "Alright, I'm ready for my history lesson."
-    ns "Alright, I'm ready for my history lesson."
+    ns "Bene, sono pronta per la mia lezione di storia."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:503
 translate italian sm1cs_ns007_light_house_9614a561:
 
     # mc "Right. This is the Kenway Lighthouse, named after the ex-pirate turned explorer Kenway Drake."
-    mc "Right. This is the Kenway Lighthouse, named after the ex-pirate turned explorer Kenway Drake."
+    mc "Giusto. Questo è il Faro Kenway, chiamato così in onore dell'ex-pirata diventato esploratore Kenway Drake."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:504
 translate italian sm1cs_ns007_light_house_60244758:
 
     # mc "Kenway didn't actually discover the original location of Crowning, but he did set up the port that would eventually get absorbed by the settlement."
-    mc "Kenway didn't actually discover the original location of Crowning, but he did set up the port that would eventually get absorbed by the settlement."
+    mc "Kenway non scoprì effettivamente la posizione originale di Crowning, ma fondò il porto che sarebbe stato poi assorbito dall'insediamento."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:507
 translate italian sm1cs_ns007_light_house_0dab8ab5:
 
     # mc "The legend goes that he built this lighthouse to watch for old pirate allies who might be hunting for him."
-    mc "The legend goes that he built this lighthouse to watch for old pirate allies who might be hunting for him."
+    mc "La leggenda narra che costruì questo faro per sorvegliare vecchi alleati pirati che potrebbero essere alla sua caccia."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:510
 translate italian sm1cs_ns007_light_house_7e58aaeb:
 
     # mc "But my history teacher said he built it so he could spy on the busty lasses that worked at the local-"
-    mc "But my history teacher said he built it so he could spy on the busty lasses that worked at the local-"
+    mc "Ma il mio insegnante di storia diceva che lo costruì per spiare le ragazze procaci che lavoravano nella locale-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:515
 translate italian sm1cs_ns007_light_house_0c7cde4c:
@@ -908,85 +908,85 @@ translate italian sm1cs_ns007_light_house_0c7cde4c:
 translate italian sm1cs_ns007_light_house_886765d4:
 
     # mct "Ah so we're at {i}that{/i} part of the date."
-    mct "Ah so we're at {i}that{/i} part of the date."
+    mct "Ah quindi siamo a {i}quella{/i} parte dell'appuntamento."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:521
 translate italian sm1cs_ns007_light_house_47f4dabf:
 
     # mct "Feels like that's the signal to skip the rest of the history lesson."
-    mct "Feels like that's the signal to skip the rest of the history lesson."
+    mct "Sembra che sia il segnale per saltare il resto della lezione di storia."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:530
 translate italian sm1cs_ns007_light_house_f11a3ea6:
 
     # ns "Forgive me. You certainly know your lighthouse history, but I want to make our date..."
-    ns "Forgive me. You certainly know your lighthouse history, but I want to make our date..."
+    ns "Perdonami. Conosci certamente la storia del faro, ma voglio rendere il nostro appuntamento..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:531
 translate italian sm1cs_ns007_light_house_53c6e449:
 
     # ns "Extra special."
-    ns "Extra special."
+    ns "Extra speciale."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:534
 translate italian sm1cs_ns007_light_house_468e32b7:
 
     # ns "Wait, unless there is some rule about sex on the first date that I should know about?"
-    ns "Wait, unless there is some rule about sex on the first date that I should know about?"
+    ns "Aspetta, a meno che non ci sia qualche regola sul sesso al primo appuntamento che dovrei conoscere?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:541
 translate italian sm1cs_ns007_light_house_ab088ee0:
 
     # mc "Nope. I don't think so."
-    mc "Nope. I don't think so."
+    mc "No. Non credo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:543
 translate italian sm1cs_ns007_light_house_730d02b3:
 
     # ns "Excellent."
-    ns "Excellent."
+    ns "Eccellente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:548
 translate italian sm1cs_ns007_light_house_557f9414:
 
     # mc "I won't tell if you don't."
-    mc "I won't tell if you don't."
+    mc "Non lo dirò se non lo fai tu."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:550
 translate italian sm1cs_ns007_light_house_c3adffbc:
 
     # ns "I'm normally against breaking rules."
-    ns "I'm normally against breaking rules."
+    ns "Normalmente sono contraria a infrangere le regole."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:551
 translate italian sm1cs_ns007_light_house_273ee6e8:
 
     # ns "But I can make an exception for you, [mcname]."
-    ns "But I can make an exception for you, [mcname]."
+    ns "Ma posso fare un'eccezione per te, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:555
 translate italian sm1cs_ns007_light_house_da6ac9f0:
 
     # mc "Follow me."
-    mc "Follow me."
+    mc "Seguimi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:566
 translate italian sm1cs_ns007_light_house_d6476f62:
 
     # ns "Can I... can I get undressed?"
-    ns "Can I... can I get undressed?"
+    ns "Posso... posso spogliarmi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:568
 translate italian sm1cs_ns007_light_house_a015a587:
 
     # mc "Abso-friggin-lutely."
-    mc "Abso-friggin-lutely."
+    mc "Assoluta-fottuta-mente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:577
 translate italian sm1cs_ns007_light_house_2156c447:
 
     # ns "Oooooh. Brrrrr. It's a little cold up here."
-    ns "Oooooh. Brrrrr. It's a little cold up here."
+    ns "Oooooh. Brrrrr. Fa un po' freddo quassù."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:579
 translate italian sm1cs_ns007_light_house_863a2282:
