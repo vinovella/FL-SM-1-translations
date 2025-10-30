@@ -326,7 +326,7 @@ translate italian sm1cs_ns013_2e90ccca:
 translate italian sm1cs_ns013_3ad2098e:
 
     # sy "I'm already pretty wet from playing with your cock."
-    sy "I'm already pretty wet from playing with your cock."
+    sy "Sono già piuttosto bagnata dopo aver giocato con il tuo cazzo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:262
 translate italian sm1cs_ns013_e8911481:
@@ -344,7 +344,7 @@ translate italian sm1cs_ns013_2e1a03a5:
 translate italian sm1cs_ns013_3ad2098e_1:
 
     # sy "I'm already pretty wet from playing with your cock."
-    sy "I'm already pretty wet from playing with your cock."
+    sy "Sono già piuttosto bagnata dopo aver giocato con il tuo cazzo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:270
 translate italian sm1cs_ns013_cc358037:
@@ -824,13 +824,13 @@ translate italian ns013_labels_section_08999b4d:
 translate italian ns013_labels_section_8d67bd63:
 
     # ns "I didn't mean to be peeping on you."
-    ns "I didn't mean to be peeping on you."
+    ns "Non volevo spiarti."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:529
 translate italian ns013_labels_section_5b8f47d4:
 
     # ns "That is not who I am."
-    ns "That is not who I am."
+    ns "Non sono così."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:531
 translate italian ns013_labels_section_6dbe4ceb:
@@ -842,7 +842,7 @@ translate italian ns013_labels_section_6dbe4ceb:
 translate italian ns013_labels_section_6790f1fe:
 
     # ns "I am so sorry."
-    ns "I am so sorry."
+    ns "Mi dispiace tanto."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:536
 translate italian ns013_labels_section_b77a4808:
@@ -854,19 +854,19 @@ translate italian ns013_labels_section_b77a4808:
 translate italian ns013_labels_section_8d67bd63_1:
 
     # ns "I didn't mean to be peeping on you."
-    ns "I didn't mean to be peeping on you."
+    ns "Non volevo spiarti."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:538
 translate italian ns013_labels_section_5b8f47d4_1:
 
     # ns "That is not who I am."
-    ns "That is not who I am."
+    ns "Non sono così."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:539
 translate italian ns013_labels_section_6790f1fe_1:
 
     # ns "I am so sorry."
-    ns "I am so sorry."
+    ns "Mi dispiace tanto."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:543
 translate italian ns013_labels_section_76576a99:
@@ -2000,7 +2000,7 @@ translate italian ns013_labels_section_7b2cf348:
 translate italian ns013_labels_section_f915e9f8:
 
     # mc "Of course, Nari."
-    mc "Of course, Nari."
+    mc "Certo, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:993
 translate italian ns013_labels_section_8f411162:
@@ -2114,7 +2114,7 @@ translate italian ns013_labels_section_531bfbf1:
 translate italian ns013_labels_section_f915e9f8_1:
 
     # mc "Of course, Nari."
-    mc "Of course, Nari."
+    mc "Certo, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1037
 translate italian ns013_labels_section_18a97eb9:
