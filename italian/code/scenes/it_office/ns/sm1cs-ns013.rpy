@@ -2,91 +2,91 @@
 translate italian sm1cs_ns013_25596036:
 
     # sy "Nari really brings an interesting energy to the place."
-    sy "Nari really brings an interesting energy to the place."
+    sy "Nari porta davvero un'energia interessante in questo posto."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:66
 translate italian sm1cs_ns013_1952da9f:
 
     # mc "Good or bad energy?"
-    mc "Good or bad energy?"
+    mc "Energia buona o cattiva?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:69
 translate italian sm1cs_ns013_5fcb8487:
 
     # sy "I don't know, I haven't made up my mind yet."
-    sy "I don't know, I haven't made up my mind yet."
+    sy "Non lo so, non mi sono ancora fatta un'idea."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:70
 translate italian sm1cs_ns013_a2642d33:
 
     # sy "But she is definitely cute."
-    sy "But she is definitely cute."
+    sy "Ma è sicuramente carina."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:71
 translate italian sm1cs_ns013_6311018e:
 
     # sy "She showed me all her artwork and toys."
-    sy "She showed me all her artwork and toys."
+    sy "Mi ha mostrato tutte le sue opere d'arte e i suoi giocattoli."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:72
 translate italian sm1cs_ns013_9640a691:
 
     # sy "Each one...{w} I mean, she talked about them like they were family members."
-    sy "Each one...{w} I mean, she talked about them like they were family members."
+    sy "Ognuno di loro...{w} Voglio dire, ne parlava come se fossero membri della famiglia."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:75
 translate italian sm1cs_ns013_7488ae3e:
 
     # mc "Oh yeah."
-    mc "Oh yeah."
+    mc "Oh sì."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:76
 translate italian sm1cs_ns013_3b063be5:
 
     # mc "When we went to the store, we spent hours in the toy section."
-    mc "When we went to the store, we spent hours in the toy section."
+    mc "Quando siamo andati al negozio, abbiamo passato ore nella sezione giocattoli."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:82
 translate italian sm1cs_ns013_94177620:
 
     # mc "If it makes Nari happy, that's fine by me."
-    mc "If it makes Nari happy, that's fine by me."
+    mc "Se rende felice Nari, va bene per me."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:83
 translate italian sm1cs_ns013_01e69536:
 
     # mc "She didn't get to bring much from her old place."
-    mc "She didn't get to bring much from her old place."
+    mc "Non ha potuto portare molto dal suo vecchio posto."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:84
 translate italian sm1cs_ns013_5ad130e7:
 
     # mc "Apart from some pictures."
-    mc "Apart from some pictures."
+    mc "A parte alcune foto."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:91
 translate italian sm1cs_ns013_34779cae:
 
     # mc "Toys aren't really my thing.{w} Least not those kind."
-    mc "Toys aren't really my thing.{w} Least not those kind."
+    mc "I giocattoli non sono proprio la mia cosa.{w} Almeno non quel tipo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:94
 translate italian sm1cs_ns013_b5e7f15b:
 
     # sy "Well, maybe she's young at heart."
-    sy "Well, maybe she's young at heart."
+    sy "Beh, forse è giovane nel cuore."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:97
 translate italian sm1cs_ns013_1e302232:
 
     # mc "Yeah. Or maybe it's a family thing."
-    mc "Yeah. Or maybe it's a family thing."
+    mc "Sì. O forse è una questione di famiglia."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:98
 translate italian sm1cs_ns013_fcfe3056:
 
     # mc "Working at Orbix seems to be the first time Nari's had a lot of money to spend how she wants."
-    mc "Working at Orbix seems to be the first time Nari's had a lot of money to spend how she wants."
+    mc "Lavorare all'Orbix sembra essere la prima volta che Nari ha avuto molti soldi da spendere come vuole."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:101
 translate italian sm1cs_ns013_d1cdbe69:
@@ -98,61 +98,61 @@ translate italian sm1cs_ns013_d1cdbe69:
 translate italian sm1cs_ns013_c81e784d:
 
     # sy "Well, the important part is that she is settling in nicely and hasn't turned into a monstermate."
-    sy "Well, the important part is that she is settling in nicely and hasn't turned into a monstermate."
+    sy "Beh, la cosa importante è che si sta ambientando bene e non si è trasformata in una monstermate."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:107
 translate italian sm1cs_ns013_2bdd6b11:
 
     # mc "A monstermate?"
-    mc "A monstermate?"
+    mc "Una monstermate?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:110
 translate italian sm1cs_ns013_73a0b3a1:
 
     # sy "Yeah. A monster roommate."
-    sy "Yeah. A monster roommate."
+    sy "Sì. Una coinquilina mostruosa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:117
 translate italian sm1cs_ns013_702e62dc:
 
     # mc "That's pretty funny."
-    mc "That's pretty funny."
+    mc "È piuttosto divertente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:119
 translate italian sm1cs_ns013_c281cb0e:
 
     # sy "Thank you."
-    sy "Thank you."
+    sy "Grazie."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:124
 translate italian sm1cs_ns013_01ecee92:
 
     # mc "You're as silly as Nari."
-    mc "You're as silly as Nari."
+    mc "Sei sciocca come Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:126
 translate italian sm1cs_ns013_bb6e7b9c:
 
     # sy "Hopefully that means we'll get along well."
-    sy "Hopefully that means we'll get along well."
+    sy "Speriamo che questo significhi che andremo d'accordo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:132
 translate italian sm1cs_ns013_0ecbe951:
 
     # sy "Alright, mister.{w} It's time for you to get some sleep."
-    sy "Alright, mister.{w} It's time for you to get some sleep."
+    sy "Va bene, signore.{w} È ora che tu vada a dormire."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:135
 translate italian sm1cs_ns013_9e2f705b:
 
     # mc "Good call."
-    mc "Good call."
+    mc "Buona idea."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:140
 translate italian sm1cs_ns013_0d20c3e5:
 
     # sy "Do you think we should tell Nari that she can sleep out here?"
-    sy "Do you think we should tell Nari that she can sleep out here?"
+    sy "Pensi che dovremmo dire a Nari che può dormire qui fuori?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:143
 translate italian sm1cs_ns013_e526a903:
@@ -164,31 +164,31 @@ translate italian sm1cs_ns013_e526a903:
 translate italian sm1cs_ns013_2b218f43:
 
     # mc "I think we wait and see on that."
-    mc "I think we wait and see on that."
+    mc "Penso che aspetteremo e vedremo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:148
 translate italian sm1cs_ns013_36f85886:
 
     # mc "She just got her own room."
-    mc "She just got her own room."
+    mc "Ha appena avuto la sua stanza."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:149
 translate italian sm1cs_ns013_ef6fe767:
 
     # mc "If she asks, we'll tell her."
-    mc "If she asks, we'll tell her."
+    mc "Se ce lo chiede, glielo diremo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:152
 translate italian sm1cs_ns013_bd854202:
 
     # sy "Sounds good."
-    sy "Sounds good."
+    sy "Suona bene."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:159
 translate italian sm1cs_ns013_4194afb2:
 
     # sy "Mmmm. That's nice."
-    sy "Mmmm. That's nice."
+    sy "Mmmm. È bello."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:162
 translate italian sm1cs_ns013_0792d9f7:
@@ -200,31 +200,31 @@ translate italian sm1cs_ns013_0792d9f7:
 translate italian sm1cs_ns013_caacab03:
 
     # sy "Night..."
-    sy "Night..."
+    sy "Notte..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:171
 translate italian sm1cs_ns013_23dca2d3:
 
     # mc "Good night, sis."
-    mc "Good night, sis."
+    mc "Buona notte, sorellina."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:173
 translate italian sm1cs_ns013_bae8c4d4:
 
     # mc "Good night, Stacy."
-    mc "Good night, Stacy."
+    mc "Buona notte, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:199
 translate italian sm1cs_ns013_aceaa06a:
 
     # mct "Mmmm. What a nice dream."
-    mct "Mmmm. What a nice dream."
+    mct "Mmmm. Che bel sogno."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:200
 translate italian sm1cs_ns013_6bfcfe43:
 
     # mct "Shame it ended.{w} It was feeling good."
-    mct "Shame it ended.{w} It was feeling good."
+    mct "Peccato che sia finito.{w} Era piacevole."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:210
 translate italian sm1cs_ns013_8feb6de7:
@@ -236,7 +236,7 @@ translate italian sm1cs_ns013_8feb6de7:
 translate italian sm1cs_ns013_9fa9b0ec:
 
     # mct "Maybe it wasn't a dream."
-    mct "Maybe it wasn't a dream."
+    mct "Forse non era un sogno."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:214
 translate italian sm1cs_ns013_c3e820da:
@@ -248,13 +248,13 @@ translate italian sm1cs_ns013_c3e820da:
 translate italian sm1cs_ns013_46306508:
 
     # mc "Good morning there..."
-    mc "Good morning there..."
+    mc "Buongiorno..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:221
 translate italian sm1cs_ns013_65b9ec84:
 
     # sy "Ahah. The monster finally stirs."
-    sy "Ahah. The monster finally stirs."
+    sy "Ahah. Il mostro finalmente si muove."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:222
 translate italian sm1cs_ns013_19a120b7:
@@ -266,25 +266,25 @@ translate italian sm1cs_ns013_19a120b7:
 translate italian sm1cs_ns013_25f0b46a:
 
     # sy "You {i}do{/i} like to sleep in."
-    sy "You {i}do{/i} like to sleep in."
+    sy "Ti {i}piace{/i} davvero dormire fino a tardi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:227
 translate italian sm1cs_ns013_40f4fdae:
 
     # sy "I was about to put a finger up your butt."
-    sy "I was about to put a finger up your butt."
+    sy "Stavo per metterti un dito nel culo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:228
 translate italian sm1cs_ns013_be00afe1:
 
     # sy "Little dark side wakeup alarm."
-    sy "Little dark side wakeup alarm."
+    sy "Piccola sveglia lato oscuro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:234
 translate italian sm1cs_ns013_2ba27d78:
 
     # mc "Don't threaten me with a good time."
-    mc "Don't threaten me with a good time."
+    mc "Non minacciarmi con un bel momento."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:237
 translate italian sm1cs_ns013_ba2afede:
@@ -296,7 +296,7 @@ translate italian sm1cs_ns013_ba2afede:
 translate italian sm1cs_ns013_d5b14390:
 
     # mc "I'm glad you stuck with kissing."
-    mc "I'm glad you stuck with kissing."
+    mc "Sono contento che tu sia rimasta sui baci."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:244
 translate italian sm1cs_ns013_5ee8dc16:
@@ -308,19 +308,19 @@ translate italian sm1cs_ns013_5ee8dc16:
 translate italian sm1cs_ns013_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "Eh?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:252
 translate italian sm1cs_ns013_cce71d2e:
 
     # mc "It's my turn to get you worked up."
-    mc "It's my turn to get you worked up."
+    mc "È il mio turno di eccitarti."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:257
 translate italian sm1cs_ns013_2e90ccca:
 
     # sy "That's okay, bro."
-    sy "That's okay, bro."
+    sy "Va bene, fratello."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:258
 translate italian sm1cs_ns013_3ad2098e:
@@ -332,13 +332,13 @@ translate italian sm1cs_ns013_3ad2098e:
 translate italian sm1cs_ns013_e8911481:
 
     # mc "Oh, I know, dear sister."
-    mc "Oh, I know, dear sister."
+    mc "Oh, lo so, cara sorella."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:265
 translate italian sm1cs_ns013_2e1a03a5:
 
     # sy "That's okay, [mcname]."
-    sy "That's okay, [mcname]."
+    sy "Va bene, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:266
 translate italian sm1cs_ns013_3ad2098e_1:
@@ -350,25 +350,25 @@ translate italian sm1cs_ns013_3ad2098e_1:
 translate italian sm1cs_ns013_cc358037:
 
     # mc "Oh, I know, Stacy..."
-    mc "Oh, I know, Stacy..."
+    mc "Oh, lo so, Stacy..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:273
 translate italian sm1cs_ns013_0eb08cae:
 
     # mc "But that's why I need to punish you a little."
-    mc "But that's why I need to punish you a little."
+    mc "Ma è per questo che devo punirti un po'."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:276
 translate italian sm1cs_ns013_dfec528c:
 
     # sy "*sarcastic* Punish... me?"
-    sy "*sarcastic* Punish... me?"
+    sy "*sarcastico* Punire... me?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:282
 translate italian sm1cs_ns013_44adfba6:
 
     # mc "*growling* Yes."
-    mc "*growling* Yes."
+    mc "*ringhiando* Sì."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:286
 translate italian sm1cs_ns013_8c7f53ac:
@@ -380,19 +380,19 @@ translate italian sm1cs_ns013_8c7f53ac:
 translate italian sm1cs_ns013_0a203103:
 
     # sy "Please... at least put your big fingers inside me."
-    sy "Please... at least put your big fingers inside me."
+    sy "Per favore... almeno metti le tue grandi dita dentro di me."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:288
 translate italian sm1cs_ns013_129ea662:
 
     # sy "*playful* Or I'm going to get mad."
-    sy "*playful* Or I'm going to get mad."
+    sy "*giocoso* O mi arrabbierò."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:293
 translate italian sm1cs_ns013_87c04f0e:
 
     # mc "I'm shaking.{w} But... I will reward you for getting my cock ready."
-    mc "I'm shaking.{w} But... I will reward you for getting my cock ready."
+    mc "Sto tremando.{w} Ma... ti ricompenserò per aver preparato il mio cazzo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:294
 translate italian sm1cs_ns013_9186400b:
@@ -416,49 +416,49 @@ translate italian sm1cs_ns013_cd080ddb:
 translate italian sm1cs_ns013_d33b34e8:
 
     # sy "You can be so cruel, big bro..."
-    sy "You can be so cruel, big bro..."
+    sy "Puoi essere così crudele, fratellone..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:303
 translate italian sm1cs_ns013_0701465b:
 
     # sy "You can be so cruel, [mcname]..."
-    sy "You can be so cruel, [mcname]..."
+    sy "Puoi essere così crudele, [mcname]..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:305
 translate italian sm1cs_ns013_9f6fab67:
 
     # sy "But... you know just where to touch me."
-    sy "But... you know just where to touch me."
+    sy "Ma... sai esattamente dove toccarmi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:306
 translate italian sm1cs_ns013_618c4ac3:
 
     # sy "Uhuaah... It's not fair."
-    sy "Uhuaah... It's not fair."
+    sy "Uhuaah... Non è giusto."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:309
 translate italian sm1cs_ns013_8f7d0d1f:
 
     # mc "I know.{w} But it's not how fair how hard I get for you, Stacy."
-    mc "I know.{w} But it's not how fair how hard I get for you, Stacy."
+    mc "Lo so.{w} Ma non è giusto quanto divento duro per te, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:310
 translate italian sm1cs_ns013_d48dd1bf:
 
     # mc "Sometimes, I think we made the porn studio so we would have to work and keep from fucking each other senseless every day."
-    mc "Sometimes, I think we made the porn studio so we would have to work and keep from fucking each other senseless every day."
+    mc "A volte, penso che abbiamo fatto lo studio porno così dovremmo lavorare ed evitare di scoparci senza sosta ogni giorno."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:313
 translate italian sm1cs_ns013_f7688891:
 
     # sy "Hahuahaa.... now wouldn't that be fun."
-    sy "Hahuahaa.... now wouldn't that be fun."
+    sy "Hahuahaa.... ora non sarebbe divertente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:314
 translate italian sm1cs_ns013_7efe7fc6:
 
     # sy "Ahuaha...{w} have I...{w} have I been punished enough, [mcname]?"
-    sy "Ahuaha...{w} have I...{w} have I been punished enough, [mcname]?"
+    sy "Ahuaha...{w} sono stata...{w} sono stata punita abbastanza, [mcname]?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:317
 translate italian sm1cs_ns013_22b70eab:
@@ -470,7 +470,7 @@ translate italian sm1cs_ns013_22b70eab:
 translate italian sm1cs_ns013_f3361e77:
 
     # mc "You're very wet.{w} But I want to play with you a little longer."
-    mc "You're very wet.{w} But I want to play with you a little longer."
+    mc "Sei molto bagnata.{w} Ma voglio giocare con te ancora un po'."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:329
 translate italian sm1cs_ns013_395e0e78:
@@ -500,19 +500,19 @@ translate italian sm1cs_ns013_c6be1a20:
 translate italian sm1cs_ns013_c40af7c7:
 
     # sy "You're so hard."
-    sy "You're so hard."
+    sy "Sei così duro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:364
 translate italian sm1cs_ns013_cd321e64:
 
     # sy "This is so hot..."
-    sy "This is so hot..."
+    sy "È così eccitante..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:367
 translate italian sm1cs_ns013_30c9c315:
 
     # mc "Yeah. Your pussy and thighs feel so good."
-    mc "Yeah. Your pussy and thighs feel so good."
+    mc "Sì. La tua figa e le tue cosce sono così belle."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:368
 translate italian sm1cs_ns013_3b10895f:
@@ -524,85 +524,85 @@ translate italian sm1cs_ns013_3b10895f:
 translate italian sm1cs_ns013_34f96976:
 
     # sy "I mean yeah."
-    sy "I mean yeah."
+    sy "Voglio dire sì."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:372
 translate italian sm1cs_ns013_5366dc89:
 
     # sy "But it's not like we're alone."
-    sy "But it's not like we're alone."
+    sy "Ma non è che siamo soli."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:373
 translate italian sm1cs_ns013_d87a55f8:
 
     # sy "Nari could come out of her room any minute."
-    sy "Nari could come out of her room any minute."
+    sy "Nari potrebbe uscire dalla sua stanza da un momento all'altro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:394
 translate italian sm1cs_ns013_57f43dc5:
 
     # mc "You don't mind."
-    mc "You don't mind."
+    mc "Non ti dispiace."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:395
 translate italian sm1cs_ns013_f895a8f5:
 
     # mc "Your pussy is pouring like a rainstorm now."
-    mc "Your pussy is pouring like a rainstorm now."
+    mc "La tua figa sta colando come un temporale ora."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:398
 translate italian sm1cs_ns013_16ac90c9:
 
     # sy "I know I don't mind.{w} I just don't want to scare her."
-    sy "I know I don't mind.{w} I just don't want to scare her."
+    sy "Lo so che non mi dispiace.{w} Semplicemente non voglio spaventarla."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:399
 translate italian sm1cs_ns013_4582f6fd:
 
     # mc "It will be fine."
-    mc "It will be fine."
+    mc "Andrà bene."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:402
 translate italian sm1cs_ns013_6415cc6c:
 
     # sy "Muaah-ahuaah... you're so impossible when you've got morning wood."
-    sy "Muaah-ahuaah... you're so impossible when you've got morning wood."
+    sy "Muaah-ahuaah... sei così impossibile quando hai l'erezione mattutina."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:403
 translate italian sm1cs_ns013_f4d8552f:
 
     # sy "Can you...{w} can you kriffing fuck me finally?"
-    sy "Can you...{w} can you kriffing fuck me finally?"
+    sy "Puoi...{w} puoi finalmente fottutamente scoparmi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:406
 translate italian sm1cs_ns013_f1e0010d:
 
     # sy "I've been so patient."
-    sy "I've been so patient."
+    sy "Sono stata così paziente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:410
 translate italian sm1cs_ns013_dc8549ea:
 
     # mc "Say please."
-    mc "Say please."
+    mc "Dì per favore."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:416
 translate italian sm1cs_ns013_dc8f8a8b:
 
     # sy "Please stick your cock in my pussy, bro..."
-    sy "Please stick your cock in my pussy, bro..."
+    sy "Per favore metti il tuo cazzo nella mia figa, fratello..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:418
 translate italian sm1cs_ns013_81c1e417:
 
     # sy "Please stick your cock in my wet, tight pussy, [mcname]."
-    sy "Please stick your cock in my wet, tight pussy, [mcname]."
+    sy "Per favore metti il tuo cazzo nella mia figa bagnata e stretta, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:420
 translate italian sm1cs_ns013_c9d0e1d1:
 
     # mct "Oh she is not fighting fair!"
-    mct "Oh she is not fighting fair!"
+    mct "Oh, non sta combattendo in modo leale!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:421
 translate italian sm1cs_ns013_a49ed4f8:
@@ -614,13 +614,13 @@ translate italian sm1cs_ns013_a49ed4f8:
 translate italian sm1cs_ns013_f7b96b5f:
 
     # mc "Yes, you have."
-    mc "Yes, you have."
+    mc "Sì, lo sei stata."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:425
 translate italian sm1cs_ns013_ed9a3f2c:
 
     # mc "Such a good girl."
-    mc "Such a good girl."
+    mc "Che brava ragazza."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:432
 translate italian sm1cs_ns013_78fb47a4:
@@ -638,61 +638,61 @@ translate italian sm1cs_ns013_83d04b1d:
 translate italian sm1cs_ns013_51f22e76:
 
     # sy "Oh fuck. That feels so good."
-    sy "Oh fuck. That feels so good."
+    sy "Oh cazzo. È così bello."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:442
 translate italian sm1cs_ns013_26df7c8f:
 
     # mc "Yes. Morning sex is the best."
-    mc "Yes. Morning sex is the best."
+    mc "Sì. Il sesso mattutino è il migliore."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:446
 translate italian sm1cs_ns013_c172bd12:
 
     # sy "Yes."
-    sy "Yes."
+    sy "Sì."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:447
 translate italian sm1cs_ns013_f8e83795:
 
     # sy "Yes yes yes!"
-    sy "Yes yes yes!"
+    sy "Sì sì sì!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:450
 translate italian sm1cs_ns013_100a7a3c:
 
     # sy "Oh my god. My pussy loves having you inside, bro."
-    sy "Oh my god. My pussy loves having you inside, bro."
+    sy "Oh mio dio. Alla mia figa piace averti dentro, fratello."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:451
 translate italian sm1cs_ns013_8f1f1320:
 
     # sy "Keep going."
-    sy "Keep going."
+    sy "Continua."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:452
 translate italian sm1cs_ns013_44e616c5:
 
     # sy "Make yourself... feel at home - anuaa-huaaah!"
-    sy "Make yourself... feel at home - anuaa-huaaah!"
+    sy "Mettiti... a tuo agio - anuaa-huaaah!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:454
 translate italian sm1cs_ns013_f948c289:
 
     # sy "Oh my god. My pussy is so happy having you inside me."
-    sy "Oh my god. My pussy is so happy having you inside me."
+    sy "Oh mio dio. La mia figa è così felice di averti dentro di me."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:455
 translate italian sm1cs_ns013_651f40f6:
 
     # sy "I love feeling my boyfriend's cock sliding in and out."
-    sy "I love feeling my boyfriend's cock sliding in and out."
+    sy "Amo sentire il cazzo del mio ragazzo che scivola dentro e fuori."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:456
 translate italian sm1cs_ns013_9559db35:
 
     # sy "Enjoy it... enjoy using me- ahuaaah!"
-    sy "Enjoy it... enjoy using me- ahuaaah!"
+    sy "Goditelo... goditi l'usarmi- ahuaaah!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:459
 translate italian sm1cs_ns013_5f71acf7:
@@ -704,13 +704,13 @@ translate italian sm1cs_ns013_5f71acf7:
 translate italian sm1cs_ns013_26afd527:
 
     # sy "Right there."
-    sy "Right there."
+    sy "Proprio lì."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:461
 translate italian sm1cs_ns013_a3208a8d:
 
     # sy "Yes... push it in... stretch me out."
-    sy "Yes... push it in... stretch me out."
+    sy "Sì... spingilo dentro... allargami."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:462
 translate italian sm1cs_ns013_9b4516f0:
@@ -722,7 +722,7 @@ translate italian sm1cs_ns013_9b4516f0:
 translate italian sm1cs_ns013_f562e5a3:
 
     # sy "Fuck. It's getting so hot!"
-    sy "Fuck. It's getting so hot!"
+    sy "Cazzo. Si sta scaldando così tanto!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:469
 translate italian sm1cs_ns013_b47205cb:
@@ -740,13 +740,13 @@ translate italian sm1cs_ns013_f15efb17:
 translate italian sm1cs_ns013_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Eh?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:479
 translate italian sm1cs_ns013_b2f1b485:
 
     # sy "Heh?"
-    sy "Heh?"
+    sy "Eh?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:486
 translate italian sm1cs_ns013_b8de06d3:
@@ -758,25 +758,25 @@ translate italian sm1cs_ns013_b8de06d3:
 translate italian sm1cs_ns013_e801a6ba:
 
     # sy "*panting* Hehehe.{w} Hey..."
-    sy "*panting* Hehehe.{w} Hey..."
+    sy "*ansimando* Hehehe.{w} Ehi..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:489
 translate italian sm1cs_ns013_4742cae8:
 
     # sy "It's Nari."
-    sy "It's Nari."
+    sy "È Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:496
 translate italian sm1cs_ns013_73973276:
 
     # mc "Nari wait."
-    mc "Nari wait."
+    mc "Nari aspetta."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:497
 translate italian sm1cs_ns013_b5c84e78:
 
     # mc "Your pants."
-    mc "Your pants."
+    mc "I tuoi pantaloni."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:502
 translate italian sm1cs_ns013_86b8ca08:
@@ -794,7 +794,7 @@ translate italian sm1cs_ns013_5412830a:
 translate italian sm1cs_ns013_1d20cef0:
 
     # sy "Ouch."
-    sy "Ouch."
+    sy "Ahi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:512
 translate italian sm1cs_ns013_b27128e5:
@@ -812,13 +812,13 @@ translate italian sm1cs_ns013_eb986133:
 translate italian sm1cs_ns013_f28b3ab9:
 
     # mc "Are you alright?"
-    mc "Are you alright?"
+    mc "Stai bene?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:527
 translate italian ns013_labels_section_08999b4d:
 
     # ns "I am so ashamed, my [nsmcpetlabel]."
-    ns "I am so ashamed, my [nsmcpetlabel]."
+    ns "Mi vergogno così tanto, mio [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:528
 translate italian ns013_labels_section_8d67bd63:
@@ -836,7 +836,7 @@ translate italian ns013_labels_section_5b8f47d4:
 translate italian ns013_labels_section_6dbe4ceb:
 
     # ns "I am a very bad [nspetlabel]"
-    ns "I am a very bad [nspetlabel]"
+    ns "Sono una [nspetlabel] molto cattiva"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:533
 translate italian ns013_labels_section_6790f1fe:
@@ -848,7 +848,7 @@ translate italian ns013_labels_section_6790f1fe:
 translate italian ns013_labels_section_b77a4808:
 
     # ns "I am so ashamed, [mcname]."
-    ns "I am so ashamed, [mcname]."
+    ns "Mi vergogno così tanto, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:537
 translate italian ns013_labels_section_8d67bd63_1:
@@ -872,19 +872,19 @@ translate italian ns013_labels_section_6790f1fe_1:
 translate italian ns013_labels_section_76576a99:
 
     # ns "And I am sorry to you too, Stacy."
-    ns "And I am sorry to you too, Stacy."
+    ns "E mi dispiace anche con te, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:544
 translate italian ns013_labels_section_d63bc8c5:
 
     # ns "It is one thing if I see you naked."
-    ns "It is one thing if I see you naked."
+    ns "È un conto se ti vedo nuda."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:545
 translate italian ns013_labels_section_51bf770f:
 
     # ns "But it is another just watching you make love."
-    ns "But it is another just watching you make love."
+    ns "Ma è un altro conto solo guardarvi fare l'amore."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:548
 translate italian ns013_labels_section_beaf3144:
@@ -896,49 +896,49 @@ translate italian ns013_labels_section_beaf3144:
 translate italian ns013_labels_section_c88f2a60:
 
     # sy "You can relax. It's fine."
-    sy "You can relax. It's fine."
+    sy "Puoi rilassarti. Va bene."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:550
 translate italian ns013_labels_section_61432e4d:
 
     # sy "I mean... you're totally not the first girl to see me and [mcname] having sex."
-    sy "I mean... you're totally not the first girl to see me and [mcname] having sex."
+    sy "Voglio dire... non sei assolutamente la prima ragazza a vedermi fare sesso con [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:551
 translate italian ns013_labels_section_5f93be1f:
 
     # sy "And I doubt you'll be the last..."
-    sy "And I doubt you'll be the last..."
+    sy "E dubito che sarai l'ultima..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:554
 translate italian ns013_labels_section_41cffa8a:
 
     # mc "Heh.{w} Nice..."
-    mc "Heh.{w} Nice..."
+    mc "Heh.{w} Carino..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:556
 translate italian ns013_labels_section_f88950e2:
 
     # mc "Is my [nspetlabel] feeling better now?"
-    mc "Is my [nspetlabel] feeling better now?"
+    mc "La mia [nspetlabel] si sente meglio ora?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:560
 translate italian ns013_labels_section_068cceb0:
 
     # ns "Yes, thank you for asking, [nsmcpetlabel]."
-    ns "Yes, thank you for asking, [nsmcpetlabel]."
+    ns "Sì, grazie per aver chiesto, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:564
 translate italian ns013_labels_section_b93e4541:
 
     # ns "Yes..."
-    ns "Yes..."
+    ns "Sì..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:566
 translate italian ns013_labels_section_e5e55bb8:
 
     # mc "Are you feeling better now?"
-    mc "Are you feeling better now?"
+    mc "Ti senti meglio ora?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:569
 translate italian ns013_labels_section_55e64ca2:
