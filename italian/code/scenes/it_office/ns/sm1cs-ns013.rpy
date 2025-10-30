@@ -944,175 +944,175 @@ translate italian ns013_labels_section_e5e55bb8:
 translate italian ns013_labels_section_55e64ca2:
 
     # ns "A little. I'm actually stilll-"
-    ns "A little. I'm actually stilll-"
+    ns "Un po'. In realtà sono ancora-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:570
 translate italian ns013_labels_section_d6d86041:
 
     # ns "No.{w} I should just go back to my room."
-    ns "No.{w} I should just go back to my room."
+    ns "No.{w} Dovrei semplicemente tornare nella mia stanza."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:573
 translate italian ns013_labels_section_a102d6fd:
 
     # mc "I know that look.{w} Come on, Nari."
-    mc "I know that look.{w} Come on, Nari."
+    mc "Conosco quello sguardo.{w} Dai, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:574
 translate italian ns013_labels_section_bb579ae8:
 
     # mc "This is a judgment-free zone, and we're not going to ever shame you for asking for something you want."
-    mc "This is a judgment-free zone, and we're not going to ever shame you for asking for something you want."
+    mc "Questa è una zona senza giudizi, e non ti faremo mai vergognare per chiedere qualcosa che vuoi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:577
 translate italian ns013_labels_section_a79a2e87:
 
     # ns "I guess I am still a little horny."
-    ns "I guess I am still a little horny."
+    ns "Suppongo di essere ancora un po' eccitata."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:578
 translate italian ns013_labels_section_bb7871d4:
 
     # ns "Watching and playing with myself is one thing."
-    ns "Watching and playing with myself is one thing."
+    ns "Guardare e giocare con me stessa è un conto."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:581
 translate italian ns013_labels_section_4e2d23b0:
 
     # ns "*softly* Maybe... maybe after you are done with Stacy..."
-    ns "*softly* Maybe... maybe after you are done with Stacy..."
+    ns "*sottovoce* Forse... forse dopo che hai finito con Stacy..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:582
 translate italian ns013_labels_section_070a0aee:
 
     # ns "*softly* You can fuck me?"
-    ns "*softly* You can fuck me?"
+    ns "*sottovoce* Puoi scoparmi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:585
 translate italian ns013_labels_section_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "Certo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:586
 translate italian ns013_labels_section_11e7b25c:
 
     # mc "She actually came when you moaned."
-    mc "She actually came when you moaned."
+    mc "In realtà è venuta quando hai gemuto."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:587
 translate italian ns013_labels_section_0ef78440:
 
     # mc "So... if you're ready-"
-    mc "So... if you're ready-"
+    mc "Quindi... se sei pronta-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:588
 translate italian ns013_labels_section_778a36b4:
 
     # mc "You can test out the big bed."
-    mc "You can test out the big bed."
+    mc "Puoi provare il grande letto."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:591
 translate italian ns013_labels_section_d17243bb:
 
     # ns "*sniff* Thank you, [mcname]."
-    ns "*sniff* Thank you, [mcname]."
+    ns "*annusando* Grazie, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:592
 translate italian ns013_labels_section_65ed987f:
 
     # ns "I think I'd like that."
-    ns "I think I'd like that."
+    ns "Penso che mi piacerebbe."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:597
 translate italian ns013_labels_section_76ae0203:
 
     # ns "Your dick is always so big."
-    ns "Your dick is always so big."
+    ns "Il tuo cazzo è sempre così grande."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:600
 translate italian ns013_labels_section_95b41d43:
 
     # ns "Even after making Stacy cum."
-    ns "Even after making Stacy cum."
+    ns "Anche dopo aver fatto venire Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:603
 translate italian ns013_labels_section_12088f60:
 
     # sy "He's a crazy freak of nature."
-    sy "He's a crazy freak of nature."
+    sy "È un pazzo scherzo della natura."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:604
 translate italian ns013_labels_section_af89606a:
 
     # sy "But he's {b}my{/b} freak. *giggles*"
-    sy "But he's {b}my{/b} freak. *giggles*"
+    sy "Ma è il {b}mio{/b} fenomeno. *ridacchia*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:607
 translate italian ns013_labels_section_c707c7e7:
 
     # sy "Well... {i}our{/i} freak, now."
-    sy "Well... {i}our{/i} freak, now."
+    sy "Beh... il {i}nostro{/i} fenomeno, ora."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:608
 translate italian ns013_labels_section_352a01b4:
 
     # sy "Don't be shy, Nari."
-    sy "Don't be shy, Nari."
+    sy "Non essere timida, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:609
 translate italian ns013_labels_section_3a9ce1a4:
 
     # sy "It's not like you haven't done this before."
-    sy "It's not like you haven't done this before."
+    sy "Non è che non l'hai mai fatto prima."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:612
 translate italian ns013_labels_section_e4af941e:
 
     # ns "Yes.{w} Well no.{w} Never...{w} in front of another girl."
-    ns "Yes.{w} Well no.{w} Never...{w} in front of another girl."
+    ns "Sì.{w} Beh no.{w} Mai...{w} davanti a un'altra ragazza."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:613
 translate italian ns013_labels_section_da69643a:
 
     # ns "Especially not in front of a guy's 'girlfriend'."
-    ns "Especially not in front of a guy's 'girlfriend'."
+    ns "Specialmente non davanti alla 'ragazza' di un ragazzo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:616
 translate italian ns013_labels_section_c0e7ac6c:
 
     # sy "Pretend I'm not even here. I'll be a fly on the wall."
-    sy "Pretend I'm not even here. I'll be a fly on the wall."
+    sy "Fai finta che non ci sia nemmeno. Sarò una mosca sul muro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:620
 translate italian ns013_labels_section_70230b7a:
 
     # ns "Okay. I'm still nervous, but... I can just try looking down."
-    ns "Okay. I'm still nervous, but... I can just try looking down."
+    ns "Okay. Sono ancora nervosa, ma... posso semplicemente provare a guardare giù."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:623
 translate italian ns013_labels_section_2360aad8:
 
     # mc "Take all the time you need, Nari."
-    mc "Take all the time you need, Nari."
+    mc "Prenditi tutto il tempo di cui hai bisogno, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:627
 translate italian ns013_labels_section_fb047390:
 
     # ns "You're alawys so kind to me, [nsmcpetlabel]."
-    ns "You're alawys so kind to me, [nsmcpetlabel]."
+    ns "Sei sempre così gentile con me, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:629
 translate italian ns013_labels_section_69aaf1f6:
 
     # ns "Ahhh. Your [nspetlabel] doesn't deserve such kindness."
-    ns "Ahhh. Your [nspetlabel] doesn't deserve such kindness."
+    ns "Ahhh. La tua [nspetlabel] non merita tanta gentilezza."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:631
 translate italian ns013_labels_section_fb5af827:
 
     # ns "*soft laughter* You're always so kind to me."
-    ns "*soft laughter* You're always so kind to me."
+    ns "*risata sommessa* Sei sempre così gentile con me."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:635
 translate italian ns013_labels_section_79d2e6e9:
@@ -1130,205 +1130,205 @@ translate italian ns013_labels_section_56b92905:
 translate italian ns013_labels_section_5d587328:
 
     # mc "Are you okay, Nari?"
-    mc "Are you okay, Nari?"
+    mc "Stai bene, Nari?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:645
 translate italian ns013_labels_section_32d316f8:
 
     # ns "Yes. Oohuha-fuaaah... I am now."
-    ns "Yes. Oohuha-fuaaah... I am now."
+    ns "Sì. Oohuha-fuaaah... ora sì."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:646
 translate italian ns013_labels_section_e6c9fa37:
 
     # ns "I think... being nervous... it made me a little tighter than normal."
-    ns "I think... being nervous... it made me a little tighter than normal."
+    ns "Penso... essere nervosa... mi ha resa un po' più stretta del normale."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:649
 translate italian ns013_labels_section_bfd12f43:
 
     # ns "But now... with hua-huaah... you inside of me... everything feels like it should."
-    ns "But now... with hua-huaah... you inside of me... everything feels like it should."
+    ns "Ma ora... con hua-huaah... tu dentro di me... tutto sembra come dovrebbe."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:651
 translate italian ns013_labels_section_ad86d919:
 
     # mc "I love how your pussy around me. I have such a good [nspetlabel]."
-    mc "I love how your pussy around me. I have such a good [nspetlabel]."
+    mc "Amo come la tua figa mi avvolge. Ho una [nspetlabel] così brava."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:652
 translate italian ns013_labels_section_d892676b:
 
     # ns "*moaning* Yes!{w} Oh, [nsmcpetlabel]."
-    ns "*moaning* Yes!{w} Oh, [nsmcpetlabel]."
+    ns "*gemendo* Sì!{w} Oh, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:653
 translate italian ns013_labels_section_34a24ba1:
 
     # ns "Hearing that makes my heart shine."
-    ns "Hearing that makes my heart shine."
+    ns "Sentire questo fa brillare il mio cuore."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:656
 translate italian ns013_labels_section_42a94aa4:
 
     # ns "Does... does my pussy feel good, [mcname]?"
-    ns "Does... does my pussy feel good, [mcname]?"
+    ns "La... la mia figa è bella, [mcname]?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:657
 translate italian ns013_labels_section_c52dba7a:
 
     # mc "Yes. Incredible as always."
-    mc "Yes. Incredible as always."
+    mc "Sì. Incredibile come sempre."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:658
 translate italian ns013_labels_section_18531d72:
 
     # ns "I'm happy."
-    ns "I'm happy."
+    ns "Sono felice."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:661
 translate italian ns013_labels_section_a719a848:
 
     # ns "This pose... It's nice."
-    ns "This pose... It's nice."
+    ns "Questa posizione... È bella."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:662
 translate italian ns013_labels_section_ec7c7785:
 
     # ns "I can go... Mrrmmm... at just the right speed,"
-    ns "I can go... Mrrmmm... at just the right speed,"
+    ns "Posso andare... Mrrmmm... alla giusta velocità,"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:663
 translate italian ns013_labels_section_0e3f93c7:
 
     # ns "And... Stacy... can see my whole body.{w} But I'm not afraid anymore."
-    ns "And... Stacy... can see my whole body.{w} But I'm not afraid anymore."
+    ns "E... Stacy... può vedere tutto il mio corpo.{w} Ma non ho più paura."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:666
 translate italian ns013_labels_section_889510f4:
 
     # ns "And you're sure this is alright with you?"
-    ns "And you're sure this is alright with you?"
+    ns "E sei sicura che vada bene per te?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:667
 translate italian ns013_labels_section_18b4c635:
 
     # sy "Absolutely. I actually get pretty horny myself when I share [mcname] with someone."
-    sy "Absolutely. I actually get pretty horny myself when I share [mcname] with someone."
+    sy "Assolutamente. In realtà mi eccito parecchio anch'io quando condivido [mcname] con qualcuno."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:670
 translate italian ns013_labels_section_5514995c:
 
     # sy "And you're such a sweetheart, Nari."
-    sy "And you're such a sweetheart, Nari."
+    sy "E sei così dolce, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:671
 translate italian ns013_labels_section_c482a3cb:
 
     # sy "Watching you riding him is like some nice wholesome porn."
-    sy "Watching you riding him is like some nice wholesome porn."
+    sy "Guardarti cavalcarlo è come un bel porno sano."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:672
 translate italian ns013_labels_section_57349aef:
 
     # sy "*moaning* I dig it."
-    sy "*moaning* I dig it."
+    sy "*gemendo* Mi piace."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:675
 translate italian ns013_labels_section_e3ac5f98:
 
     # ns "Dig it?"
-    ns "Dig it?"
+    ns "Piace?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:676
 translate italian ns013_labels_section_762e449a:
 
     # sy "I like it."
-    sy "I like it."
+    sy "Mi piace."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:677
 translate italian ns013_labels_section_0ef919a2:
 
     # ns "Then... muaah... I am very pleased..."
-    ns "Then... muaah... I am very pleased..."
+    ns "Allora... muaah... sono molto contenta..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:682
 translate italian ns013_labels_section_8d271b77:
 
     # ns "I want to be the best [nspetlabel] ever for you, [nsmcpetlabel]."
-    ns "I want to be the best [nspetlabel] ever for you, [nsmcpetlabel]."
+    ns "Voglio essere la migliore [nspetlabel] di sempre per te, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:684
 translate italian ns013_labels_section_459fac6e:
 
     # ns "I want to be the best [nspetlabel] for you, [mcname]."
-    ns "I want to be the best [nspetlabel] for you, [mcname]."
+    ns "Voglio essere la migliore [nspetlabel] per te, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:685
 translate italian ns013_labels_section_c4a3f796:
 
     # ns "Stacy... if you'd like..."
-    ns "Stacy... if you'd like..."
+    ns "Stacy... se vuoi..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:687
 translate italian ns013_labels_section_bc561560:
 
     # ns "You can touch me... while my [nsmcpetlabel] fucks me."
-    ns "You can touch me... while my [nsmcpetlabel] fucks me."
+    ns "Puoi toccarmi... mentre il mio [nsmcpetlabel] mi scopa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:689
 translate italian ns013_labels_section_e70dc8df:
 
     # ns "You can touch me while he fucks me."
-    ns "You can touch me while he fucks me."
+    ns "Puoi toccarmi mentre lui mi scopa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:691
 translate italian ns013_labels_section_815bc810:
 
     # ns "And... perhaps... if you like."
-    ns "And... perhaps... if you like."
+    ns "E... forse... se ti piace."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:692
 translate italian ns013_labels_section_46425fca:
 
     # ns "Stacy... You can touch me... while [mcname] fucks me."
-    ns "Stacy... You can touch me... while [mcname] fucks me."
+    ns "Stacy... Puoi toccarmi... mentre [mcname] mi scopa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:693
 translate italian ns013_labels_section_1bb5ef0e:
 
     # sy "I'd love that, Nari."
-    sy "I'd love that, Nari."
+    sy "Mi piacerebbe, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:696
 translate italian ns013_labels_section_b800fd1e:
 
     # ns "Good."
-    ns "Good."
+    ns "Bene."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:697
 translate italian ns013_labels_section_e2bde633:
 
     # ns "[mcname]... You're being so gentle with me."
-    ns "[mcname]... You're being so gentle with me."
+    ns "[mcname]... Sei così gentile con me."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:698
 translate italian ns013_labels_section_336b0b79:
 
     # ns "My pussy is so thankful, but now... I want to feel you..."
-    ns "My pussy is so thankful, but now... I want to feel you..."
+    ns "La mia figa è così grata, ma ora... voglio sentirti..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:699
 translate italian ns013_labels_section_ed367f8c:
 
     # ns "In my other hole."
-    ns "In my other hole."
+    ns "Nel mio altro buco."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:706
 translate italian ns013_labels_section_759d00b1:
 
     # sy "Oh my."
-    sy "Oh my."
+    sy "Oh mio."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:709
 translate italian ns013_labels_section_0f38532e:
@@ -1340,13 +1340,13 @@ translate italian ns013_labels_section_0f38532e:
 translate italian ns013_labels_section_60bad6bf:
 
     # ns "You're nice and wet for my asshole, [mcname]."
-    ns "You're nice and wet for my asshole, [mcname]."
+    ns "Sei bello e bagnato per il mio culo, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:711
 translate italian ns013_labels_section_2c24f27a:
 
     # ns "But still so large."
-    ns "But still so large."
+    ns "Ma ancora così grande."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:717
 translate italian ns013_labels_section_20e1f6eb:
@@ -1358,31 +1358,31 @@ translate italian ns013_labels_section_20e1f6eb:
 translate italian ns013_labels_section_f9acd26c:
 
     # sy "Let's see if this doesn't get him going."
-    sy "Let's see if this doesn't get him going."
+    sy "Vediamo se questo non lo fa andare."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:723
 translate italian ns013_labels_section_a7f294da:
 
     # ns "Yes... I can already feel it."
-    ns "Yes... I can already feel it."
+    ns "Sì... posso già sentirlo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:724
 translate italian ns013_labels_section_1efa2459:
 
     # ns "You two... are very close."
-    ns "You two... are very close."
+    ns "Voi due... siete molto uniti."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:726
 translate italian ns013_labels_section_a7ca8a27:
 
     # ns "I never imagined meeting a brother and sister who fucked..."
-    ns "I never imagined meeting a brother and sister who fucked..."
+    ns "Non avrei mai immaginato di incontrare un fratello e una sorella che scopano..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:727
 translate italian ns013_labels_section_df691304:
 
     # ns "And... shared lovers."
-    ns "And... shared lovers."
+    ns "E... condividevano amanti."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:729
 translate italian ns013_labels_section_e624ca53:
