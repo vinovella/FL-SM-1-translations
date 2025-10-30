@@ -1460,79 +1460,79 @@ translate spanish sm1cs_my004_92260ea3:
 translate spanish sm1cs_my004_b9a7afd8:
 
     # my "Uhm, I actually... {w}I just remembered, I have an... important call with the gallery."
-    my "Uhm, I actually... {w}I just remembered, I have an... important call with the gallery."
+    my "Uhm, en realidad... {w}Acabo de recordar, tengo una... llamada importante con la galería."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:769
 translate spanish sm1cs_my004_b4941afe:
 
     # sy "What! This is our last part of the contest!"
-    sy "What! This is our last part of the contest!"
+    sy "¡Qué! ¡Esta es nuestra última parte del concurso!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:773
 translate spanish sm1cs_my004_122bdce4:
 
     # my "I know, I am so sorry. It totally slipped my mind but it's... important."
-    my "I know, I am so sorry. It totally slipped my mind but it's... important."
+    my "Lo sé, lo siento mucho. Se me olvidó por completo pero es... importante."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:774
 translate spanish sm1cs_my004_6b5ab763:
 
     # my "I'm just going to wash up a bit, and then I'll have to go."
-    my "I'm just going to wash up a bit, and then I'll have to go."
+    my "Solo voy a lavarme un poco, y luego tendré que irme."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:778
 translate spanish sm1cs_my004_00a6f085:
 
     # sy "{size=*0.6}[mcname]! What did you do!?{/size}"
-    sy "{size=*0.6}[mcname]! What did you do!?{/size}"
+    sy "{size=*0.6}¡[mcname]! ¿¡Qué hiciste!?{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:781
 translate spanish sm1cs_my004_432a7cf8:
 
     # mc "{size=*0.6}Nothing! I just put the oil on her!{/size}"
-    mc "{size=*0.6}Nothing! I just put the oil on her!{/size}"
+    mc "{size=*0.6}¡Nada! ¡Solo le puse el aceite!{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:783
 translate spanish sm1cs_my004_7780998f:
 
     # sy "{size=*0.6}Then why is she sprinting out of here?{/size}"
-    sy "{size=*0.6}Then why is she sprinting out of here?{/size}"
+    sy "{size=*0.6}¿Entonces por qué está saliendo corriendo de aquí?{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:784
 translate spanish sm1cs_my004_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Yo-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:788
 translate spanish sm1cs_my004_c38ea4ea:
 
     # my "Again, I am so sorry, you two."
-    my "Again, I am so sorry, you two."
+    my "De nuevo, lo siento mucho, ustedes dos."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:789
 translate spanish sm1cs_my004_146820f5:
 
     # my "We'll have to... do something to make up for the interruption."
-    my "We'll have to... do something to make up for the interruption."
+    my "Tendremos que... hacer algo para compensar la interrupción."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:794
 translate spanish sm1cs_my004_a971d921:
 
     # sy "Sounds good, Mom."
-    sy "Sounds good, Mom."
+    sy "Suena bien, mamá."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:796
 translate spanish sm1cs_my004_4bc340c4:
 
     # sy "Sounds good, Melony."
-    sy "Sounds good, Melony."
+    sy "Suena bien, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:799
 translate spanish sm1cs_my004_d609fdb6:
 
     # my "I'll see you two later, okay?"
-    my "I'll see you two later, okay?"
+    my "Los veré más tarde, ¿de acuerdo?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:802
 translate spanish sm1cs_my004_a49ed4f8:
@@ -1544,115 +1544,115 @@ translate spanish sm1cs_my004_a49ed4f8:
 translate spanish sm1cs_my004_97029f8b:
 
     # mc "Bye, Mom."
-    mc "Bye, Mom."
+    mc "Adiós, mamá."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:808
 translate spanish sm1cs_my004_1855212b:
 
     # my "Bye, son."
-    my "Bye, son."
+    my "Adiós, hijo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:810
 translate spanish sm1cs_my004_510dc38a:
 
     # mc "Bye, Melony."
-    mc "Bye, Melony."
+    mc "Adiós, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:813
 translate spanish sm1cs_my004_beff4967:
 
     # my "Bye, [mcname]."
-    my "Bye, [mcname]."
+    my "Adiós, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:817
 translate spanish sm1cs_my004_697c695f:
 
     # sy "Wow. I can't believe she bolted that fast."
-    sy "Wow. I can't believe she bolted that fast."
+    sy "Wow. No puedo creer que salió tan rápido."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:820
 translate spanish sm1cs_my004_028f1999:
 
     # mc "I mean... I'm not that surprised."
-    mc "I mean... I'm not that surprised."
+    mc "Quiero decir... no estoy tan sorprendido."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:823
 translate spanish sm1cs_my004_63a9e153:
 
     # sy "What do you mean?"
-    sy "What do you mean?"
+    sy "¿Qué quieres decir?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:826
 translate spanish sm1cs_my004_90ba4701:
 
     # mc "I mean, I think it's a lot to just surprise someone with a two on one swimsuit competition."
-    mc "I mean, I think it's a lot to just surprise someone with a two on one swimsuit competition."
+    mc "Quiero decir, creo que es mucho sorprender a alguien con un concurso de trajes de baño de dos contra uno."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:827
 translate spanish sm1cs_my004_44546bd6:
 
     # mc "And then shove oil in their hands and tell them to get lubed up."
-    mc "And then shove oil in their hands and tell them to get lubed up."
+    mc "Y luego empujarles aceite en las manos y decirles que se engrasen."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:830
 translate spanish sm1cs_my004_d78c0334:
 
     # sy "Well what was I supposed to do!"
-    sy "Well what was I supposed to do!"
+    sy "¡Bueno, qué se suponía que hiciera!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:831
 translate spanish sm1cs_my004_0d359089:
 
     # sy "You weren't making any progress."
-    sy "You weren't making any progress."
+    sy "No estabas haciendo ningún progreso."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:834
 translate spanish sm1cs_my004_453349d5:
 
     # mc "*annooyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
-    mc "*annooyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
+    mc "*ruido molesto* Puedo manejarlo, Stacy. Solo tienes que tener un poco de fe en el proceso."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:838
 translate spanish sm1cs_my004_f054ee30:
 
     # sy "A little faith in the process, hmmmph."
-    sy "A little faith in the process, hmmmph."
+    sy "Un poco de fe en el proceso, hmmmph."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:839
 translate spanish sm1cs_my004_dc4a2f9e:
 
     # sy "And I covered myself in all this oil for nothing."
-    sy "And I covered myself in all this oil for nothing."
+    sy "Y me cubrí con todo este aceite para nada."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:842
 translate spanish sm1cs_my004_b918b106:
 
     # mc "What did you think was going to happen?"
-    mc "What did you think was going to happen?"
+    mc "¿Qué pensabas que iba a pasar?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:845
 translate spanish sm1cs_my004_ea1bb01e:
 
     # sy "I don't know. Maybe some oil wrestling. Or a nuru massage, those I guess are super hot."
-    sy "I don't know. Maybe some oil wrestling. Or a nuru massage, those I guess are super hot."
+    sy "No sé. Tal vez algo de lucha con aceite. O un masaje nuru, esos supongo que son súper calientes."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:849
 translate spanish sm1cs_my004_6e694f75:
 
     # mc "You thought you'd get a nuru massage from Mom?"
-    mc "You thought you'd get a nuru massage from Mom?"
+    mc "¿Pensabas que recibirías un masaje nuru de mamá?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:851
 translate spanish sm1cs_my004_b56e71ce:
 
     # mc "You thought you'd get a nuru massage from Melony?"
-    mc "You thought you'd get a nuru massage from Melony?"
+    mc "¿Pensabas que recibirías un masaje nuru de Melony?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:854
 translate spanish sm1cs_my004_8d6ec963:
 
     # sy "No, but maybe {i}we{/i} could have given you one."
-    sy "No, but maybe {i}we{/i} could have given you one."
+    sy "No, pero tal vez {i}nosotras{/i} podríamos haberte dado uno."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:857
 translate spanish sm1cs_my004_c1dff962:
@@ -1664,7 +1664,7 @@ translate spanish sm1cs_my004_c1dff962:
 translate spanish sm1cs_my004_51acdef4:
 
     # sy "Yeah, sounds pretty hot, doesn't it."
-    sy "Yeah, sounds pretty hot, doesn't it."
+    sy "Sí, suena bastante caliente, ¿no?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:861
 translate spanish sm1cs_my004_2b35b6fe_2:
@@ -1676,61 +1676,61 @@ translate spanish sm1cs_my004_2b35b6fe_2:
 translate spanish sm1cs_my004_fb474747:
 
     # sy "That's what I thought."
-    sy "That's what I thought."
+    sy "Eso es lo que pensé."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:866
 translate spanish sm1cs_my004_44482bd0:
 
     # sy "But now I need to take a cold shower to calm down and get all of this crap off of me."
-    sy "But now I need to take a cold shower to calm down and get all of this crap off of me."
+    sy "Pero ahora necesito tomar una ducha fría para calmarme y quitarme toda esta porquería de encima."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:872
 translate spanish sm1cs_my004_3a18ac34:
 
     # mct "Man, that was incredible..."
-    mct "Man, that was incredible..."
+    mct "Hombre, eso fue increíble..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:874
 translate spanish sm1cs_my004_d3a68d66:
 
     # mct "I still can't get over the fact that Mom agreed to do the competition at all."
-    mct "I still can't get over the fact that Mom agreed to do the competition at all."
+    mct "Todavía no puedo superar el hecho de que mamá aceptó hacer la competencia."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:876
 translate spanish sm1cs_my004_be5f379f:
 
     # mct "I can't believe Melony even agreed to do the competition in the first place."
-    mct "I can't believe Melony even agreed to do the competition in the first place."
+    mct "No puedo creer que Melony incluso aceptara hacer la competencia en primer lugar."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:879
 translate spanish sm1cs_my004_e5a4fa76:
 
     # mct "And then her moaning will I massaged her tits..."
-    mct "And then her moaning will I massaged her tits..."
+    mct "Y luego sus gemidos mientras le masajeaba las tetas..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:882
 translate spanish sm1cs_my004_ad1f7f82:
 
     # mct "God, enough to make a man go crazy.{w} Or a woman."
-    mct "God, enough to make a man go crazy.{w} Or a woman."
+    mct "Dios, suficiente para volver loco a un hombre.{w} O a una mujer."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:885
 translate spanish sm1cs_my004_f8524200:
 
     # mct "I should probably give Melony a few days to calm down. That will give me some time to come up with a plan for what comes next."
-    mct "I should probably give Melony a few days to calm down. That will give me some time to come up with a plan for what comes next."
+    mct "Probablemente debería darle a Melony unos días para que se calme. Eso me dará algo de tiempo para idear un plan para lo que viene después."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:888
 translate spanish sm1cs_my004_05008e7d:
 
     # mct "Mmmm. I just hope that things didn't go too far today..."
-    mct "Mmmm. I just hope that things didn't go too far today..."
+    mct "Mmmm. Solo espero que las cosas no hayan ido demasiado lejos hoy..."
 
 translate spanish strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:485
     old "Mom"
-    new "Mom"
+    new "Mamá"
 
     # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:485
     old "Melony"
