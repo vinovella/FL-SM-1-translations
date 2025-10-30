@@ -2,67 +2,67 @@
 translate italian sm1cs_cw004_f7cb7133:
 
     # mc "Hi Claire."
-    mc "Hi Claire."
+    mc "Ciao Claire."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:33
 translate italian sm1cs_cw004_ed1f9694:
 
     # cw "Hello, Mr. [mcname]."
-    cw "Hello, Mr. [mcname]."
+    cw "Salve, Mr. [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:34
 translate italian sm1cs_cw004_87d05f23:
 
     # cw "Please continue to call me Ms. Watts unless otherwise instructed."
-    cw "Please continue to call me Ms. Watts unless otherwise instructed."
+    cw "Per favore continua a chiamarmi Ms. Watts a meno che non ti venga detto diversamente."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:38
 translate italian sm1cs_cw004_d8660960:
 
     # mct "I don't understand why she still acts so formal after the lunch with her parents."
-    mct "I don't understand why she still acts so formal after the lunch with her parents."
+    mct "Non capisco perché si comporti ancora in modo così formale dopo il pranzo con i suoi genitori."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:39
 translate italian sm1cs_cw004_72a27dc2:
 
     # mc "Right. How can I help you, Ms. Watts?"
-    mc "Right. How can I help you, Ms. Watts?"
+    mc "Giusto. Come posso aiutarla, Ms. Watts?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:42
 translate italian sm1cs_cw004_a9b9f3af:
 
     # cw "I'll get it right to the chase."
-    cw "I'll get it right to the chase."
+    cw "Vado subito al punto."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:43
 translate italian sm1cs_cw004_010ad01f:
 
     # cw "I thought that you showing up during that lunch would buy me a few months of quiet from my folks."
-    cw "I thought that you showing up during that lunch would buy me a few months of quiet from my folks."
+    cw "Pensavo che la tua presenza a quel pranzo mi avrebbe garantito qualche mese di tranquillità dai miei genitori."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:46
 translate italian sm1cs_cw004_6551129a:
 
     # cw "But instead, they've latched onto the idea of us being together."
-    cw "But instead, they've latched onto the idea of us being together."
+    cw "Ma invece, si sono fissati con l'idea che stiamo insieme."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:47
 translate italian sm1cs_cw004_50718ffa:
 
     # cw "*sighs* I swear... I feel like they get their kicks thinking of me in some house, cooking, and nursing their grandchild."
-    cw "*sighs* I swear... I feel like they get their kicks thinking of me in some house, cooking, and nursing their grandchild."
+    cw "*sospira* Lo giuro... Mi sembra che si divertano a immaginarmi in una casa a cucinare e allattare i loro nipoti."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:50
 translate italian sm1cs_cw004_1fc9e188:
 
     # cw "Nothing else would explain how much they like to meddle."
-    cw "Nothing else would explain how much they like to meddle."
+    cw "Nient'altro spiegherebbe quanto gli piace immischiarsi."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:52
 translate italian sm1cs_cw004_ee1b7c83:
 
     # mc "I don't really understand, but if there is something I can do to help, I'm here for you."
-    mc "I don't really understand, but if there is something I can do to help, I'm here for you."
+    mc "Non capisco davvero, ma se c'è qualcosa che posso fare per aiutare, sono qui per te."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:54
 translate italian sm1cs_cw004_1f28d6f7:
@@ -74,43 +74,43 @@ translate italian sm1cs_cw004_1f28d6f7:
 translate italian sm1cs_cw004_e5473955:
 
     # cw "There is, actually."
-    cw "There is, actually."
+    cw "In effetti sì."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:60
 translate italian sm1cs_cw004_b2579b57:
 
     # cw "My folks asked me to invite you out for a weekend trip on the {i}Corellia{/i}. We will leave Saturday morning and come back Monday morning."
-    cw "My folks asked me to invite you out for a weekend trip on the {i}Corellia{/i}. We will leave Saturday morning and come back Monday morning."
+    cw "I miei genitori mi hanno chiesto di invitarti per un viaggio nel weekend sulla {i}Corellia{/i}. Partiremo sabato mattina e torneremo lunedì mattina."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:61
 translate italian sm1cs_cw004_366d9db4:
 
     # cw "The {i}Corellia{/i} is a yacht they rent for weekend trips."
-    cw "The {i}Corellia{/i} is a yacht they rent for weekend trips."
+    cw "La {i}Corellia{/i} è uno yacht che affittano per i weekend."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:64
 translate italian sm1cs_cw004_30b460f5:
 
     # mc "Woah. They must be loaded."
-    mc "Woah. They must be loaded."
+    mc "Wow. Devono essere pieni di soldi."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:67
 translate italian sm1cs_cw004_a287fc07:
 
     # cw "They do fine. But that isn't your concern."
-    cw "They do fine. But that isn't your concern."
+    cw "Se la cavano bene. Ma non è affar tuo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:68
 translate italian sm1cs_cw004_a9ab46aa:
 
     # cw "Your only concern is showing up for the weekend and helping me to keep up this ill-fated charade."
-    cw "Your only concern is showing up for the weekend and helping me to keep up this ill-fated charade."
+    cw "La tua unica preoccupazione è presentarti per il weekend e aiutarmi a mantenere questa farsa sfortunata."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:70
 translate italian sm1cs_cw004_e18838b9:
 
     # mc "So this is another favor you need."
-    mc "So this is another favor you need."
+    mc "Quindi questo è un altro favore di cui hai bisogno."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:72
 translate italian sm1cs_cw004_1f28d6f7_1:
@@ -128,247 +128,247 @@ translate italian sm1cs_cw004_49fd0cf3:
 translate italian sm1cs_cw004_7992e533:
 
     # mct "Did I push too far?"
-    mct "Did I push too far?"
+    mct "Sono andato troppo oltre?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:80
 translate italian sm1cs_cw004_22750355:
 
     # cw "You're right. I need your help again."
-    cw "You're right. I need your help again."
+    cw "Hai ragione. Ho di nuovo bisogno del tuo aiuto."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:81
 translate italian sm1cs_cw004_1a73e712:
 
     # cw "Obviously, I can't pay you for your time without violating a huge number of HR and ethical lines..."
-    cw "Obviously, I can't pay you for your time without violating a huge number of HR and ethical lines..."
+    cw "Ovviamente, non posso pagarti per il tuo tempo senza violare un gran numero di regole HR ed etiche..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:84
 translate italian sm1cs_cw004_d8bd0134:
 
     # cw "But I can call on your basic decency."
-    cw "But I can call on your basic decency."
+    cw "Ma posso fare appello alla tua decenza di base."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:85
 translate italian sm1cs_cw004_e80f32bf:
 
     # cw "If you don't show up, I'm probably going to have to say that we broke up."
-    cw "If you don't show up, I'm probably going to have to say that we broke up."
+    cw "Se non ti presenti, probabilmente dovrò dire che ci siamo lasciati."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:89
 translate italian sm1cs_cw004_df2ad470:
 
     # cw "And I am not ready to face their judgemental looks."
-    cw "And I am not ready to face their judgemental looks."
+    cw "E non sono pronta ad affrontare i loro sguardi giudicanti."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:90
 translate italian sm1cs_cw004_e1442b27:
 
     # cw "I still haven't recovered from their last \"breakup pep talk\"."
-    cw "I still haven't recovered from their last \"breakup pep talk\"."
+    cw "Non mi sono ancora ripresa dall'ultimo \"discorso di incoraggiamento post-rottura\"."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:94
 translate italian sm1cs_cw004_53f2d19e:
 
     # cw "Nonetheless, if you absolutely can't find it within your heart to assist someone in need..."
-    cw "Nonetheless, if you absolutely can't find it within your heart to assist someone in need..."
+    cw "Tuttavia, se proprio non riesci a trovare nel tuo cuore la voglia di assistere qualcuno in difficoltà..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:95
 translate italian sm1cs_cw004_b576f4f5:
 
     # cw "I will understand."
-    cw "I will understand."
+    cw "Capirò."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:107
 translate italian sm1cs_cw004_36e503a1:
 
     # mc "I'm sorry. I think that would be way too much for me, Claire."
-    mc "I'm sorry. I think that would be way too much for me, Claire."
+    mc "Mi dispiace. Penso che sarebbe troppo per me, Claire."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:108
 translate italian sm1cs_cw004_f5a8fc75:
 
     # mc "I wish things were different."
-    mc "I wish things were different."
+    mc "Vorrei che le cose fossero diverse."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:111
 translate italian sm1cs_cw004_f0ec6b89:
 
     # cw "Of course. I understand, [mcname]."
-    cw "Of course. I understand, [mcname]."
+    cw "Certo. Capisco, [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:112
 translate italian sm1cs_cw004_a986643f:
 
     # cw "*quietly* You can leave now."
-    cw "*quietly* You can leave now."
+    cw "*piano* Puoi andartene ora."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:122
 translate italian sm1cs_cw004_onramp_d4bfa7e3:
 
     # mc "I will help you Claire."
-    mc "I will help you Claire."
+    mc "Ti aiuterò Claire."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:123
 translate italian sm1cs_cw004_onramp_ae9263f5:
 
     # mc "As long as you think this is a good idea."
-    mc "As long as you think this is a good idea."
+    mc "Finché pensi che sia una buona idea."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:126
 translate italian sm1cs_cw004_onramp_753a8f9e:
 
     # cw "Thank you, [mcname]. I mean..."
-    cw "Thank you, [mcname]. I mean..."
+    cw "Grazie, [mcname]. Voglio dire..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:129
 translate italian sm1cs_cw004_onramp_add432cd:
 
     # cw "*ahem* Mr. Young."
-    cw "*ahem* Mr. Young."
+    cw "*ehm* Mr. Young."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:130
 translate italian sm1cs_cw004_onramp_6f8832f9:
 
     # cw "And I'm sure it will be fine. We're both capable."
-    cw "And I'm sure it will be fine. We're both capable."
+    cw "E sono sicura che andrà tutto bene. Siamo entrambi capaci."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:134
 translate italian sm1cs_cw004_onramp_14b1d440:
 
     # cw "I will text you instructions tomorrow morning."
-    cw "I will text you instructions tomorrow morning."
+    cw "Ti manderò un messaggio con le istruzioni domattina."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:135
 translate italian sm1cs_cw004_onramp_2a3fe990:
 
     # cw "And for the love of god, don't be late."
-    cw "And for the love of god, don't be late."
+    cw "E per amor di Dio, non fare tardi."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:162
 translate italian sm1cs_cw004_docks_104170a7:
 
     # cw "I can't believe this is happening."
-    cw "I can't believe this is happening."
+    cw "Non posso credere che stia succedendo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:163
 translate italian sm1cs_cw004_docks_8e247918:
 
     # cw "This is a terrible idea."
-    cw "This is a terrible idea."
+    cw "È un'idea terribile."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:169
 translate italian sm1cs_cw004_docks_0e95dfa1:
 
     # mc "It was yours. I had a bad feeling from the start."
-    mc "It was yours. I had a bad feeling from the start."
+    mc "Era la tua. Ho avuto una brutta sensazione fin dall'inizio."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:172
 translate italian sm1cs_cw004_docks_5b849b6e:
 
     # cw "I know. But... we're just going to have to press on."
-    cw "I know. But... we're just going to have to press on."
+    cw "Lo so. Ma... dovremo solo andare avanti."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:178
 translate italian sm1cs_cw004_docks_da286522:
 
     # mc "It's all going to be okay, Claire."
-    mc "It's all going to be okay, Claire."
+    mc "Andrà tutto bene, Claire."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:179
 translate italian sm1cs_cw004_docks_0b8ec505:
 
     # mc "We got through lunch."
-    mc "We got through lunch."
+    mc "Siamo riusciti a superare il pranzo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:182
 translate italian sm1cs_cw004_docks_a8e728e6:
 
     # mc "We'll get through this."
-    mc "We'll get through this."
+    mc "Ce la faremo anche questa volta."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:189
 translate italian sm1cs_cw004_docks_5dd48600:
 
     # cw "That's a very good point, [mcname]."
-    cw "That's a very good point, [mcname]."
+    cw "È un ottimo punto, [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:190
 translate italian sm1cs_cw004_docks_e6908aab:
 
     # cw "Here we go."
-    cw "Here we go."
+    cw "Eccoci qui."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:196
 translate italian sm1cs_cw004_docks_1e0fe5b1:
 
     # cw "Oh, I almost forgot."
-    cw "Oh, I almost forgot."
+    cw "Oh, quasi dimenticavo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:197
 translate italian sm1cs_cw004_docks_23a3e840:
 
     # cw "I tried and tried, but they insisted that we share a cabin together."
-    cw "I tried and tried, but they insisted that we share a cabin together."
+    cw "Ho provato e riprovato, ma hanno insistito che condividessimo una cabina insieme."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:200
 translate italian sm1cs_cw004_docks_dee89fc5:
 
     # cw "And I'm sure they would notice if..."
-    cw "And I'm sure they would notice if..."
+    cw "E sono sicura che se ne accorgerebbero se..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:201
 translate italian sm1cs_cw004_docks_7eda38f1:
 
     # cw "Ahem. If one of us was just sleeping on a couch on the deck."
-    cw "Ahem. If one of us was just sleeping on a couch on the deck."
+    cw "Ehm. Se uno di noi dormisse semplicemente su un divano sul ponte."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:204
 translate italian sm1cs_cw004_docks_42e84424:
 
     # mc "It's all good. I can survive sleeping on the floor."
-    mc "It's all good. I can survive sleeping on the floor."
+    mc "Va tutto bene. Posso sopravvivere dormendo sul pavimento."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:205
 translate italian sm1cs_cw004_docks_3bee4454:
 
     # mc "So long as you share some pillows."
-    mc "So long as you share some pillows."
+    mc "Purché tu condivida qualche cuscino."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:208
 translate italian sm1cs_cw004_docks_a65df94b:
 
     # cw "It's kind of you to offer."
-    cw "It's kind of you to offer."
+    cw "È gentile da parte tua offrirlo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:209
 translate italian sm1cs_cw004_docks_92d65e29:
 
     # cw "But we are both adults, and I trust that I don't need to say that we will just be sleeping while we are aboard the boat."
-    cw "But we are both adults, and I trust that I don't need to say that we will just be sleeping while we are aboard the boat."
+    cw "Ma siamo entrambi adulti, e confido che non ho bisogno di dire che ci limiteremo a dormire mentre siamo a bordo della barca."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:213
 translate italian sm1cs_cw004_docks_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "Naturalmente."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:221
 translate italian sm1cs_cw004_docks_5abd4875:
 
     # fw "Hello, you two!"
-    fw "Hello, you two!"
+    fw "Ciao, voi due!"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:223
 translate italian sm1cs_cw004_docks_35211594:
 
     # chw "Great to see you, sweetheart."
-    chw "Great to see you, sweetheart."
+    chw "È bello vederti, tesoro."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:229
 translate italian sm1cs_cw004_docks_611c9a55:
 
     # cw "Hi Daddy."
-    cw "Hi Daddy."
+    cw "Ciao papà."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:236
 translate italian sm1cs_cw004_docks_48415263:
@@ -380,25 +380,25 @@ translate italian sm1cs_cw004_docks_48415263:
 translate italian sm1cs_cw004_docks_4d2cce27:
 
     # cw "I didn't think I'd see you again so soon."
-    cw "I didn't think I'd see you again so soon."
+    cw "Non pensavo di rivedervi così presto."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:242
 translate italian sm1cs_cw004_docks_d99878d1:
 
     # fw "Oh we couldn't wait. Once we heard the {i}Corellia{/i} was available, we knew we had to get you two out for a trip."
-    fw "Oh we couldn't wait. Once we heard the {i}Corellia{/i} was available, we knew we had to get you two out for a trip."
+    fw "Oh non potevamo aspettare. Una volta sentito che la {i}Corellia{/i} era disponibile, sapevamo che dovevamo portarvi fuori per un viaggio."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:245
 translate italian sm1cs_cw004_docks_2bc8aa39:
 
     # cw "*nervous* So great it was available..."
-    cw "*nervous* So great it was available..."
+    cw "*nervosa* Che fortuna che fosse disponibile..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:249
 translate italian sm1cs_cw004_docks_cf9ef6b4:
 
     # chw "Hold on there a moment, [mcname]."
-    chw "Hold on there a moment, [mcname]."
+    chw "Aspetta un momento, [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:250
 translate italian sm1cs_cw004_docks_eacfa1b7:
@@ -410,79 +410,79 @@ translate italian sm1cs_cw004_docks_eacfa1b7:
 translate italian sm1cs_cw004_docks_2f371889:
 
     # chw "Are you trying to pull a fast one on me, son?"
-    chw "Are you trying to pull a fast one on me, son?"
+    chw "Stai cercando di fregarmi, ragazzo?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:255
 translate italian sm1cs_cw004_docks_ca7afb16:
 
     # mc "No. I don't think so."
-    mc "No. I don't think so."
+    mc "No. Non credo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:258
 translate italian sm1cs_cw004_docks_c0b2479c:
 
     # chw "Then you'll be asking permission to come aboard my vessel?"
-    chw "Then you'll be asking permission to come aboard my vessel?"
+    chw "Allora chiederai il permesso di salire a bordo della mia imbarcazione?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:261
 translate italian sm1cs_cw004_docks_a50272b4:
 
     # mc "Oh yeah. Uh."
-    mc "Oh yeah. Uh."
+    mc "Oh sì. Ehm."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:262
 translate italian sm1cs_cw004_docks_5fd246fb:
 
     # mc "Can I come aboard, sir?"
-    mc "Can I come aboard, sir?"
+    mc "Posso salire a bordo, signore?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:264
 translate italian sm1cs_cw004_docks_5d1cdf35:
 
     # chw "Permission granted. Welcome aboard the {i}Corellia{/i}."
-    chw "Permission granted. Welcome aboard the {i}Corellia{/i}."
+    chw "Permesso concesso. Benvenuto a bordo della {i}Corellia{/i}."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:267
 translate italian sm1cs_cw004_docks_a64e8bc0:
 
     # mc "Thanks."
-    mc "Thanks."
+    mc "Grazie."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:271
 translate italian sm1cs_cw004_docks_e3343d02:
 
     # mc "It's a great yacht."
-    mc "It's a great yacht."
+    mc "È uno yacht fantastico."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:273
 translate italian sm1cs_cw004_docks_62882512:
 
     # chw "Yes. She is one of our favorite treat-yourself toys."
-    chw "Yes. She is one of our favorite treat-yourself toys."
+    chw "Sì. È uno dei nostri giocattoli preferiti per viziarci."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:277
 translate italian sm1cs_cw004_docks_3ea2f9d9:
 
     # chw "When we retire, we might buy one all on our own."
-    chw "When we retire, we might buy one all on our own."
+    chw "Quando andremo in pensione, potremmo comprarne uno tutto nostro."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:279
 translate italian sm1cs_cw004_docks_3e788360:
 
     # mc "If I had the money, I'd do the same."
-    mc "If I had the money, I'd do the same."
+    mc "Se avessi i soldi, farei lo stesso."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:282
 translate italian sm1cs_cw004_docks_f2e3c396:
 
     # fw "Of course, if we were to become grandparents, the personal yacht would have to wait a little."
-    fw "Of course, if we were to become grandparents, the personal yacht would have to wait a little."
+    fw "Naturalmente, se dovessimo diventare nonni, lo yacht personale dovrebbe aspettare un po'."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:284
 translate italian sm1cs_cw004_docks_fbc6cdb5:
 
     # chw "As agreed, gorgeous."
-    chw "As agreed, gorgeous."
+    chw "Come concordato, bellissima."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:286
 translate italian sm1cs_cw004_docks_1f28d6f7:
@@ -494,25 +494,25 @@ translate italian sm1cs_cw004_docks_1f28d6f7:
 translate italian sm1cs_cw004_docks_eada0366:
 
     # mc "*cough*"
-    mc "*cough*"
+    mc "*colpo di tosse*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:291
 translate italian sm1cs_cw004_docks_f46b715f:
 
     # chw "Want a drink there, [mcname]?"
-    chw "Want a drink there, [mcname]?"
+    chw "Vuoi qualcosa da bere, [mcname]?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:294
 translate italian sm1cs_cw004_docks_6a05777a:
 
     # mc "Good god, yes."
-    mc "Good god, yes."
+    mc "Dio santo, sì."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:295
 translate italian sm1cs_cw004_docks_aa50d90e:
 
     # mc "Ahem. I mean. Yes, I'd love one."
-    mc "Ahem. I mean. Yes, I'd love one."
+    mc "Ehm. Voglio dire. Sì, ne vorrei uno."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:298
 translate italian sm1cs_cw004_docks_0e3fade0:
@@ -524,37 +524,37 @@ translate italian sm1cs_cw004_docks_0e3fade0:
 translate italian sm1cs_cw004_docks_135a7882:
 
     # cw "I'm going to get dressed."
-    cw "I'm going to get dressed."
+    cw "Vado a vestirmi."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:308
 translate italian sm1cs_cw004_docks_39ca7372:
 
     # cw "*whispers* Don't get carried away."
-    cw "*whispers* Don't get carried away."
+    cw "*sussurra* Non farti prendere la mano."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:309
 translate italian sm1cs_cw004_docks_9f5444e0:
 
     # cw "My father manages people. If he smells weakness, he'll latch his teeth into your neck and shake you like a hound dog until you squeal."
-    cw "My father manages people. If he smells weakness, he'll latch his teeth into your neck and shake you like a hound dog until you squeal."
+    cw "Mio padre gestisce le persone. Se percepisce debolezza, ti affonderà i denti nel collo e ti scuoterà come un segugio finché non urlerai."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:311
 translate italian sm1cs_cw004_docks_7611a64b:
 
     # cw "Whatever happens, do whatever they ask, but don't let them figure out we're not really together."
-    cw "Whatever happens, do whatever they ask, but don't let them figure out we're not really together."
+    cw "Qualunque cosa succeda, fai quello che ti chiedono, ma non fargli capire che non stiamo davvero insieme."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:313
 translate italian sm1cs_cw004_docks_a07ad607:
 
     # mc "Right. I got this."
-    mc "Right. I got this."
+    mc "Giusto. Ce la faccio."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:315
 translate italian sm1cs_cw004_docks_d15522ad:
 
     # cw "*sighs*"
-    cw "*sighs*"
+    cw "*sospira*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:323
 translate italian sm1cs_cw004_docks_bde6709d:
@@ -566,67 +566,67 @@ translate italian sm1cs_cw004_docks_bde6709d:
 translate italian sm1cs_cw004_docks_d2a9fc9b:
 
     # cw "See you soon, handsome."
-    cw "See you soon, handsome."
+    cw "Ci vediamo presto, bello."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:332
 translate italian sm1cs_cw004_docks_6592c11d:
 
     # fw "I'll start taking care of lunch."
-    fw "I'll start taking care of lunch."
+    fw "Comincio a occuparmi del pranzo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:340
 translate italian sm1cs_cw004_docks_f47e4073:
 
     # chw "Looks like it's just you and me for a bit, partner."
-    chw "Looks like it's just you and me for a bit, partner."
+    chw "Sembra che siamo solo tu e io per un po', compagno."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:343
 translate italian sm1cs_cw004_docks_79bb5efe:
 
     # chw "Cheers, to the great women in our life."
-    chw "Cheers, to the great women in our life."
+    chw "Salute, alle grandi donne della nostra vita."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:345
 translate italian sm1cs_cw004_docks_0ef0bd7e:
 
     # mc "Cheers."
-    mc "Cheers."
+    mc "Salute."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:368
 translate italian sm1cs_cw004_later_f2cf76dd:
 
     # mct "Man, that is a great view."
-    mct "Man, that is a great view."
+    mct "Cavolo, che vista fantastica."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:371
 translate italian sm1cs_cw004_later_d01c088d:
 
     # mct "Maybe I'm in the wrong business."
-    mct "Maybe I'm in the wrong business."
+    mct "Forse sono nel settore sbagliato."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:372
 translate italian sm1cs_cw004_later_dd988c0b:
 
     # mct "Being an investment manager seems to be working great for Charles."
-    mct "Being an investment manager seems to be working great for Charles."
+    mct "Essere un gestore di investimenti sembra funzionare alla grande per Charles."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:375
 translate italian sm1cs_cw004_later_47883ecb:
 
     # mct "I don't know many people in charge of porn companies with yachts."
-    mct "I don't know many people in charge of porn companies with yachts."
+    mct "Non conosco molte persone a capo di aziende porno con yacht."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:378
 translate italian sm1cs_cw004_later_9b741257:
 
     # mct "Where is everyone?"
-    mct "Where is everyone?"
+    mct "Dove sono tutti?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:379
 translate italian sm1cs_cw004_later_7319d83f:
 
     # mct "Claire's dad brought me my second beer, and then he said he had to get something."
-    mct "Claire's dad brought me my second beer, and then he said he had to get something."
+    mct "Il padre di Claire mi ha portato la seconda birra, e poi ha detto che doveva prendere qualcosa."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:382
 translate italian sm1cs_cw004_later_940a1bb2:
