@@ -1880,49 +1880,49 @@ translate italian ns013_labels_section_b3eebab8:
 translate italian ns013_labels_section_fae7e98c:
 
     # ns "We didn't hurt you did we?"
-    ns "We didn't hurt you did we?"
+    ns "Non ti abbiamo fatto male, vero?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:938
 translate italian ns013_labels_section_1d35557a:
 
     # ns "We didn't hurt you, did we, [mcname]?"
-    ns "We didn't hurt you, did we, [mcname]?"
+    ns "Non ti abbiamo fatto male, vero, [mcname]?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:941
 translate italian ns013_labels_section_7182e19a:
 
     # mc "No. I'm good."
-    mc "No. I'm good."
+    mc "No. Sto bene."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:944
 translate italian ns013_labels_section_f44b91a7:
 
     # sy "Yeah, he's fine."
-    sy "Yeah, he's fine."
+    sy "Sì, sta bene."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:946
 translate italian ns013_labels_section_ee8e4e26:
 
     # sy "My bro is made of sterner stuff than most men."
-    sy "My bro is made of sterner stuff than most men."
+    sy "Mio fratello è fatto di una stoffa più resistente della maggior parte degli uomini."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:948
 translate italian ns013_labels_section_0aab528e:
 
     # sy "My boyfriend is made of sterner stuff than most men."
-    sy "My boyfriend is made of sterner stuff than most men."
+    sy "Il mio ragazzo è fatto di una stoffa più resistente della maggior parte degli uomini."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:952
 translate italian ns013_labels_section_29c9338e:
 
     # mc "Yeouch."
-    mc "Yeouch."
+    mc "Ahi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:955
 translate italian ns013_labels_section_9f5b56cb:
 
     # ns "Oh my!"
-    ns "Oh my!"
+    ns "Oh mio!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:958
 translate italian ns013_labels_section_9de07441:
@@ -1934,31 +1934,31 @@ translate italian ns013_labels_section_9de07441:
 translate italian ns013_labels_section_8fd9be1f:
 
     # sy "What?{w} I was just checking if you could go for another round."
-    sy "What?{w} I was just checking if you could go for another round."
+    sy "Cosa?{w} Stavo solo controllando se potevi fare un altro giro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:963
 translate italian ns013_labels_section_3abd9d84:
 
     # mc "Not anymore..."
-    mc "Not anymore..."
+    mc "Non più..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:967
 translate italian ns013_labels_section_4add1c1a:
 
     # sy "I'm just playing, bro."
-    sy "I'm just playing, bro."
+    sy "Sto solo scherzando, fratello."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:969
 translate italian ns013_labels_section_01d8eb46:
 
     # sy "I'm just playing around, [mcname]."
-    sy "I'm just playing around, [mcname]."
+    sy "Sto solo scherzando, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:970
 translate italian ns013_labels_section_da10bdc8:
 
     # sy "Gotta have a little fun since a new girl is with us."
-    sy "Gotta have a little fun since a new girl is with us."
+    sy "Dobbiamo divertirci un po' visto che c'è una nuova ragazza con noi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:972
 translate italian ns013_labels_section_4661a639:
@@ -1970,7 +1970,7 @@ translate italian ns013_labels_section_4661a639:
 translate italian ns013_labels_section_ef65c1c4:
 
     # sy "Let me make it all better."
-    sy "Let me make it all better."
+    sy "Lascia che lo sistemi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:979
 translate italian ns013_labels_section_febd1648:
@@ -1982,19 +1982,19 @@ translate italian ns013_labels_section_febd1648:
 translate italian ns013_labels_section_10563ca6:
 
     # sy "Better?"
-    sy "Better?"
+    sy "Meglio?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:985
 translate italian ns013_labels_section_27320961:
 
     # mc "A little."
-    mc "A little."
+    mc "Un po'."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:987
 translate italian ns013_labels_section_7b2cf348:
 
     # ns "Can I... can I try to make you feel better with a kiss too?"
-    ns "Can I... can I try to make you feel better with a kiss too?"
+    ns "Posso... posso provare a farti sentire meglio anche con un bacio?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:988
 translate italian ns013_labels_section_f915e9f8:
@@ -2012,103 +2012,103 @@ translate italian ns013_labels_section_8f411162:
 translate italian ns013_labels_section_4488b5fc:
 
     # mct "Alright, the two of them kissing my poor cock is worth a lot of Stacy's wickedness."
-    mct "Alright, the two of them kissing my poor cock is worth a lot of Stacy's wickedness."
+    mct "Va bene, entrambe che baciano il mio povero cazzo vale molta della cattiveria di Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:997
 translate italian ns013_labels_section_c16f3ee8:
 
     # mc "That feels a lot better now. Thanks, both of you."
-    mc "That feels a lot better now. Thanks, both of you."
+    mc "Ora si sente molto meglio. Grazie ad entrambe."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1000
 translate italian ns013_labels_section_68c6c026:
 
     # sy "Don't thank us yet."
-    sy "Don't thank us yet."
+    sy "Non ringraziarci ancora."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1004
 translate italian ns013_labels_section_c4ef911f:
 
     # sy "We're going to go get cleaned up while you cook us breakfast."
-    sy "We're going to go get cleaned up while you cook us breakfast."
+    sy "Andremo a pulirci mentre ci prepari la colazione."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1006
 translate italian ns013_labels_section_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1009
 translate italian ns013_labels_section_6fa4ce57:
 
     # sy "Chickenbutt.{w} You can't expect us to walk around with your cum on our face and in our hair."
-    sy "Chickenbutt.{w} You can't expect us to walk around with your cum on our face and in our hair."
+    sy "Gallina.{w} Non puoi aspettarti che camminiamo in giro con la tua sborra sul viso e nei capelli."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1010
 translate italian ns013_labels_section_98d63524:
 
     # sy "Come on, Nari. The shower is amazing."
-    sy "Come on, Nari. The shower is amazing."
+    sy "Dai, Nari. La doccia è fantastica."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1014
 translate italian ns013_labels_section_86efcb55:
 
     # ns "Oh... I can just go after you, Stacy."
-    ns "Oh... I can just go after you, Stacy."
+    ns "Oh... posso semplicemente andare dopo di te, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1017
 translate italian ns013_labels_section_5a4e1054:
 
     # sy "Nonsense."
-    sy "Nonsense."
+    sy "Sciocchezze."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1018
 translate italian ns013_labels_section_96efceb5:
 
     # sy "I promise no funny business."
-    sy "I promise no funny business."
+    sy "Prometto nessuno scherzo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1019
 translate italian ns013_labels_section_78deb72d:
 
     # sy "But I do want to see your conditioner or whatever makes your hair smell so good."
-    sy "But I do want to see your conditioner or whatever makes your hair smell so good."
+    sy "Ma voglio vedere il tuo balsamo o qualsiasi cosa renda i tuoi capelli così profumati."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1023
 translate italian ns013_labels_section_d122d073:
 
     # ns "Okay. I can do that."
-    ns "Okay. I can do that."
+    ns "Okay. Posso farlo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1025
 translate italian ns013_labels_section_1caa6908:
 
     # ns "If my [nsmcpetlabel] is okay with that."
-    ns "If my [nsmcpetlabel] is okay with that."
+    ns "Se va bene al mio [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1027
 translate italian ns013_labels_section_f80d8d2f:
 
     # ns "If [mcname] is okay with that."
-    ns "If [mcname] is okay with that."
+    ns "Se va bene a [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1032
 translate italian ns013_labels_section_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Certo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1033
 translate italian ns013_labels_section_253424a3:
 
     # mc "Go on, Stacy. Make my [nspetlabel] nice and clean."
-    mc "Go on, Stacy. Make my [nspetlabel] nice and clean."
+    mc "Vai, Stacy. Rendi la mia [nspetlabel] bella e pulita."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1034
 translate italian ns013_labels_section_531bfbf1:
 
     # sy "Sure."
-    sy "Sure."
+    sy "Certo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1036
 translate italian ns013_labels_section_f915e9f8_1:
@@ -2120,85 +2120,85 @@ translate italian ns013_labels_section_f915e9f8_1:
 translate italian ns013_labels_section_18a97eb9:
 
     # mc "But... if Stacy gets out of line, let me know and I'll punish her later."
-    mc "But... if Stacy gets out of line, let me know and I'll punish her later."
+    mc "Ma... se Stacy esagera, fammelo sapere e la punirò più tardi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1041
 translate italian ns013_labels_section_864990fa:
 
     # ns "Of course, [nsmcpetlabel]."
-    ns "Of course, [nsmcpetlabel]."
+    ns "Certo, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1043
 translate italian ns013_labels_section_807b127b:
 
     # ns "I think I can do that."
-    ns "I think I can do that."
+    ns "Penso di poterlo fare."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1047
 translate italian ns013_labels_section_214487a0:
 
     # sy "Hehe. What about the sisterhood, Nari?"
-    sy "Hehe. What about the sisterhood, Nari?"
+    sy "Hehe. E la sorellanza, Nari?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1050
 translate italian ns013_labels_section_f3298e71:
 
     # ns "Mmm. We will see how the shower goes."
-    ns "Mmm. We will see how the shower goes."
+    ns "Mmm. Vedremo come va la doccia."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1074
 translate italian ns013_labels_section_dff883af:
 
     # mct "What is taking them so long?"
-    mct "What is taking them so long?"
+    mct "Cosa le sta facendo impiegare così tanto tempo?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1075
 translate italian ns013_labels_section_da29598f:
 
     # mct "They were just showering."
-    mct "They were just showering."
+    mct "Si stavano solo facendo la doccia."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1080
 translate italian ns013_labels_section_641211b9:
 
     # sy "Heya."
-    sy "Heya."
+    sy "Ehi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1082
 translate italian ns013_labels_section_3ac6c8d9:
 
     # ns "Hello."
-    ns "Hello."
+    ns "Ciao."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1085
 translate italian ns013_labels_section_756c5de5:
 
     # mc "There you two are."
-    mc "There you two are."
+    mc "Eccovi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1086
 translate italian ns013_labels_section_f8d443dc:
 
     # mc "I should go get cleaned up."
-    mc "I should go get cleaned up."
+    mc "Dovrei andare a pulirmi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1091
 translate italian ns013_labels_section_82128f55:
 
     # sy "Nah, stay. We're starving and we want to eat together."
-    sy "Nah, stay. We're starving and we want to eat together."
+    sy "No, resta. Stiamo morendo di fame e vogliamo mangiare insieme."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1094
 translate italian ns013_labels_section_86c73c7c:
 
     # ns "And I think... judging from our conversation in the shower."
-    ns "And I think... judging from our conversation in the shower."
+    ns "E penso... a giudicare dalla nostra conversazione sotto la doccia."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1095
 translate italian ns013_labels_section_ea72caf3:
 
     # ns "Stacy and I enjoy when you smell a little from sex."
-    ns "Stacy and I enjoy when you smell a little from sex."
+    ns "A Stacy e a me piace quando hai un po' l'odore del sesso."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1099
 translate italian ns013_labels_section_e70966a0:
@@ -2210,19 +2210,19 @@ translate italian ns013_labels_section_e70966a0:
 translate italian ns013_labels_section_e837dbf6:
 
     # mc "I mean... Oh no."
-    mc "I mean... Oh no."
+    mc "Voglio dire... Oh no."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1103
 translate italian ns013_labels_section_e302e469:
 
     # mc "You're already corrupting her, Stacy."
-    mc "You're already corrupting her, Stacy."
+    mc "La stai già corrompendo, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1106
 translate italian ns013_labels_section_a67574e0:
 
     # sy "Woah, Nari is her own woman, and I think we can all agree she was a little perverted before we ever met."
-    sy "Woah, Nari is her own woman, and I think we can all agree she was a little perverted before we ever met."
+    sy "Woah, Nari è una donna indipendente, e penso che possiamo tutti concordare che era un po' perversa prima ancora che ci incontrassimo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1110
 translate italian ns013_labels_section_c4a48b98:
@@ -2234,7 +2234,7 @@ translate italian ns013_labels_section_c4a48b98:
 translate italian ns013_labels_section_88a5f694:
 
     # ns "*softly* Maybe."
-    ns "*softly* Maybe."
+    ns "*sottovoce* Forse."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1116
 translate italian ns013_labels_section_50800ec3:
@@ -2246,37 +2246,37 @@ translate italian ns013_labels_section_50800ec3:
 translate italian ns013_labels_section_57d25b67:
 
     # mc "I think the three of us are going to get along just fine."
-    mc "I think the three of us are going to get along just fine."
+    mc "Penso che noi tre andremo d'accordo molto bene."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1121
 translate italian ns013_labels_section_3a5f99b4:
 
     # sy "I second that."
-    sy "I second that."
+    sy "Lo confermo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1125
 translate italian ns013_labels_section_1037299c:
 
     # ns "Thank you, [nsmcpetlabel]. And you too, Stacy."
-    ns "Thank you, [nsmcpetlabel]. And you too, Stacy."
+    ns "Grazie, [nsmcpetlabel]. E anche tu, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1127
 translate italian ns013_labels_section_d788a727:
 
     # ns "Thank you, [mcname] and Stacy."
-    ns "Thank you, [mcname] and Stacy."
+    ns "Grazie, [mcname] e Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1128
 translate italian ns013_labels_section_08aa7c03:
 
     # ns "It is a beautiful morning to be accepted by..."
-    ns "It is a beautiful morning to be accepted by..."
+    ns "È una bella mattina per essere accettata da..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1129
 translate italian ns013_labels_section_20bcc80c:
 
     # ns "People who enjoy doing naughty stuff as much as I do."
-    ns "People who enjoy doing naughty stuff as much as I do."
+    ns "Persone a cui piace fare cose birichine tanto quanto a me."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1132
 translate italian ns013_labels_section_97bd9894:
@@ -2288,55 +2288,55 @@ translate italian ns013_labels_section_97bd9894:
 translate italian ns013_labels_section_1aea3951:
 
     # mc "Speaking of naughty stuff, did Stacy do anything bad in the shower?"
-    mc "Speaking of naughty stuff, did Stacy do anything bad in the shower?"
+    mc "Parlando di cose birichine, Stacy ha fatto qualcosa di male sotto la doccia?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1136
 translate italian ns013_labels_section_a4f2c334:
 
     # ns "Hmmm. Let me think."
-    ns "Hmmm. Let me think."
+    ns "Hmmm. Lasciami pensare."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1140
 translate italian ns013_labels_section_bcd4a114:
 
     # sy "Think?{w} Huh? I didn't do anything."
-    sy "Think?{w} Huh? I didn't do anything."
+    sy "Pensare?{w} Eh? Non ho fatto niente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1142
 translate italian ns013_labels_section_1f57c392:
 
     # ns "Well, you may think that, but I might not agree."
-    ns "Well, you may think that, but I might not agree."
+    ns "Beh, tu puoi pensarlo, ma io potrei non essere d'accordo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1145
 translate italian ns013_labels_section_12637889:
 
     # sy "Oh come on, Nari. I was going out of my way to behave like the perfect roommate."
-    sy "Oh come on, Nari. I was going out of my way to behave like the perfect roommate."
+    sy "Oh dai, Nari. Mi stavo comportando come la coinquilina perfetta."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1146
 translate italian ns013_labels_section_bc259caa:
 
     # sy "What did I do?"
-    sy "What did I do?"
+    sy "Cosa ho fatto?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1149
 translate italian ns013_labels_section_f401d19f:
 
     # ns "Gotcha."
-    ns "Gotcha."
+    ns "Ti ho preso."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1152
 translate italian ns013_labels_section_32a59417:
 
     # sy "You."
-    sy "You."
+    sy "Tu."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1153
 translate italian ns013_labels_section_b820a812:
 
     # sy "Hah! You are in trouble now."
-    sy "Hah! You are in trouble now."
+    sy "Hah! Ora sei nei guai."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1156
 translate italian ns013_labels_section_cd71789f:
@@ -2348,89 +2348,89 @@ translate italian ns013_labels_section_cd71789f:
 translate italian ns013_labels_section_9da26eaf:
 
     # ns "I've never had roommates to play little jokes on."
-    ns "I've never had roommates to play little jokes on."
+    ns "Non ho mai avuto coinquilini con cui fare piccoli scherzi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1158
 translate italian ns013_labels_section_131df71a:
 
     # ns "And I imagined you would enjoy that, Stacy."
-    ns "And I imagined you would enjoy that, Stacy."
+    ns "E ho immaginato che ti sarebbe piaciuto, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1161
 translate italian ns013_labels_section_573aad5c:
 
     # sy "Oh, I did. But not as much as I'll enjoy getting you back."
-    sy "Oh, I did. But not as much as I'll enjoy getting you back."
+    sy "Oh, mi è piaciuto. Ma non tanto quanto mi piacerà ripagarti."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1164
 translate italian ns013_labels_section_2a4bec29:
 
     # mc "Come on, girls. Eat up."
-    mc "Come on, girls. Eat up."
+    mc "Dai, ragazze. Mangiate."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1165
 translate italian ns013_labels_section_3ae25e73:
 
     # mc "There will be plenty of time for pranks and tricks later."
-    mc "There will be plenty of time for pranks and tricks later."
+    mc "Ci sarà molto tempo per scherzi e trucchi più tardi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1169
 translate italian ns013_labels_section_4a1d7680:
 
     # sy "Yes, bro."
-    sy "Yes, bro."
+    sy "Sì, fratello."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1171
 translate italian ns013_labels_section_47c7dd93:
 
     # sy "Alright, alright."
-    sy "Alright, alright."
+    sy "Va bene, va bene."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1173
 translate italian ns013_labels_section_4e1d76af:
 
     # ns "Yes, [mcname]."
-    ns "Yes, [mcname]."
+    ns "Sì, [mcname]."
 
 translate italian strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:77
     old "I'm glad they make her happy"
-    new "I'm glad they make her happy"
+    new "Sono contento che la rendano felice"
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:77
     old "I don't get them"
-    new "I don't get them"
+    new "Non li capisco"
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:112
     old "That's funny"
-    new "That's funny"
+    new "È divertente"
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:112
     old "You're as silly as she is"
-    new "You're as silly as she is"
+    new "Sei sciocca come lei"
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:180
     old "In the morning"
-    new "In the morning"
+    new "Al mattino"
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:230
     old "That's my kink"
-    new "That's my kink"
+    new "Questo è il mio kink"
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:230
     old "I'm glad you stuck with kissing"
-    new "I'm glad you stuck with kissing"
+    new "Sono contento che tu sia rimasta sui baci"
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:407
     old "Say please"
-    new "Say please"
+    new "Dì per favore"
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:407
     old "Yes, Stacy"
-    new "Yes, Stacy"
+    new "Sì, Stacy"
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1061
     old "About thirty minutes later"
-    new "About thirty minutes later"
+    new "Circa trenta minuti dopo"
 
