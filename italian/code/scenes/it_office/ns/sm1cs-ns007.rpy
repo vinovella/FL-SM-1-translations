@@ -1412,91 +1412,91 @@ translate italian sm1cs_ns007_light_house_fb142d06:
 translate italian sm1cs_ns007_light_house_0a348eae:
 
     # ns "*strained* I'm fine, [mcname]."
-    ns "*strained* I'm fine, [mcname]."
+    ns "*tesa* Sto bene, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:776
 translate italian sm1cs_ns007_light_house_047b3c4b:
 
     # ns "Maybe, if you just move a bit."
-    ns "Maybe, if you just move a bit."
+    ns "Forse, se ti muovi solo un po'."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:778
 translate italian sm1cs_ns007_light_house_e119df09:
 
     # mc "As you wish."
-    mc "As you wish."
+    mc "Come desideri."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:783
 translate italian sm1cs_ns007_light_house_6349d575:
 
     # ns "Yes... *moans* Oh my."
-    ns "Yes... *moans* Oh my."
+    ns "Sì... *geme* Oh mio."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:784
 translate italian sm1cs_ns007_light_house_06489448:
 
     # mc "Just let me know if I need to stop."
-    mc "Just let me know if I need to stop."
+    mc "Fammi sapere se devo fermarmi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:787
 translate italian sm1cs_ns007_light_house_3a3f02c5:
 
     # ns "*happy moaning*"
-    ns "*happy moaning*"
+    ns "*gemiti felici*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:791
 translate italian sm1cs_ns007_light_house_57ebf44e:
 
     # ns "You're so sweet to me. The kindest person I know."
-    ns "You're so sweet to me. The kindest person I know."
+    ns "Sei così dolce con me. La persona più gentile che conosco."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:792
 translate italian sm1cs_ns007_light_house_3d6c2e01:
 
     # ns "Don't... fuahah... try not to worry about me."
-    ns "Don't... fuahah... try not to worry about me."
+    ns "Non... fuahah... cercare di non preoccuparti per me."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:799
 translate italian sm1cs_ns007_light_house_9dc3ad3d:
 
     # ns "Just enjoy yourself. With me."
-    ns "Just enjoy yourself. With me."
+    ns "Goditi il momento. Con me."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:800
 translate italian sm1cs_ns007_light_house_6d6b9a53:
 
     # mc "That won't be hard. I always like our time together."
-    mc "That won't be hard. I always like our time together."
+    mc "Non sarà difficile. Mi piace sempre il tempo che passiamo insieme."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:802
 translate italian sm1cs_ns007_light_house_07dc6aa4:
 
     # mc "This... this just makes me feel like I'm on top of the world."
-    mc "This... this just makes me feel like I'm on top of the world."
+    mc "Questo... questo mi fa sentire come se fossi in cima al mondo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:803
 translate italian sm1cs_ns007_light_house_6157151d:
 
     # ns "*shivering* Really? That makes me so happy."
-    ns "*shivering* Really? That makes me so happy."
+    ns "*tremando* Davvero? Questo mi rende così felice."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:806
 translate italian sm1cs_ns007_light_house_f8b5ef95:
 
     # ns "*moaning. I love... hearing that... ooouhah..."
-    ns "*moaning. I love... hearing that... ooouhah..."
+    ns "*gemendo. Adoro... sentire questo... ooouhah..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:807
 translate italian sm1cs_ns007_light_house_8ab21434:
 
     # ns "You're feeling good uh-huaah..."
-    ns "You're feeling good uh-huaah..."
+    ns "Ti senti bene uh-huaah..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:810
 translate italian sm1cs_ns007_light_house_03b2a50f:
 
     # ns "With me... with my body..."
-    ns "With me... with my body..."
+    ns "Con me... con il mio corpo..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:811
 translate italian sm1cs_ns007_light_house_223a0784:
@@ -1508,49 +1508,49 @@ translate italian sm1cs_ns007_light_house_223a0784:
 translate italian sm1cs_ns007_light_house_209f5e6f:
 
     # mc "Time to make {i}you{/i} feel even better."
-    mc "Time to make {i}you{/i} feel even better."
+    mc "È ora di farti sentire ancora meglio."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:828
 translate italian sm1cs_ns007_light_house_fc29c543:
 
     # ns "[mcname]. Oh god."
-    ns "[mcname]. Oh god."
+    ns "[mcname]. Oh dio."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:830
 translate italian sm1cs_ns007_light_house_218a0249:
 
     # ns "You're pounding my hole-uhaaah."
-    ns "You're pounding my hole-uhaaah."
+    ns "Stai martellando il mio buco-uhaaah."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:834
 translate italian sm1cs_ns007_light_house_7be7179d:
 
     # mc "This is what you wanted."
-    mc "This is what you wanted."
+    mc "Questo è quello che volevi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:835
 translate italian sm1cs_ns007_light_house_23583890:
 
     # ns "Yes. With you."
-    ns "Yes. With you."
+    ns "Sì. Con te."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:838
 translate italian sm1cs_ns007_light_house_95fcc9b4:
 
     # ns "It feels so good."
-    ns "It feels so good."
+    ns "È così piacevole."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:839
 translate italian sm1cs_ns007_light_house_1731270d:
 
     # ns "You're blanking my mind."
-    ns "You're blanking my mind."
+    ns "Stai azzerando la mia mente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:840
 translate italian sm1cs_ns007_light_house_9b533cab:
 
     # ns "My pussy is getting so hot. I'm losing control."
-    ns "My pussy is getting so hot. I'm losing control."
+    ns "La mia figa sta diventando così calda. Sto perdendo il controllo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:843
 translate italian sm1cs_ns007_light_house_186c2eb1:
@@ -1562,79 +1562,79 @@ translate italian sm1cs_ns007_light_house_186c2eb1:
 translate italian sm1cs_ns007_light_house_b8ccd9a7:
 
     # ns "I love it."
-    ns "I love it."
+    ns "Lo adoro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:845
 translate italian sm1cs_ns007_light_house_25a7eb64:
 
     # ns "I love feeling you inside me. Using me..."
-    ns "I love feeling you inside me. Using me..."
+    ns "Adoro sentirti dentro di me. Usarmi..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:851
 translate italian sm1cs_ns007_light_house_1cd6f7d6:
 
     # ns "*moaning*"
-    ns "*moaning*"
+    ns "*gemendo*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:852
 translate italian sm1cs_ns007_light_house_ec3288be:
 
     # ns "I love-fuaaah..."
-    ns "I love-fuaaah..."
+    ns "Adoro-fuaaah..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:853
 translate italian sm1cs_ns007_light_house_8891224e:
 
     # ns "I love you-fuaha-ooouhaah."
-    ns "I love you-fuaha-ooouhaah."
+    ns "Ti amo-fuaha-ooouhaah."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:855
 translate italian sm1cs_ns007_light_house_d80ab18d:
 
     # mct "Did she just say that?"
-    mct "Did she just say that?"
+    mct "L'ha appena detto?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:856
 translate italian sm1cs_ns007_light_house_c9db4e5d:
 
     # mct "No. It wasn't a real 'I love you'."
-    mct "No. It wasn't a real 'I love you'."
+    mct "No. Non era un vero 'ti amo'."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:857
 translate italian sm1cs_ns007_light_house_61a3b7fa:
 
     # mct "It was just from her cumming."
-    mct "It was just from her cumming."
+    mct "Era solo perché stava venendo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:862
 translate italian sm1cs_ns007_light_house_bba0e604:
 
     # mct "Speaking of, now Nari is clamping down on my cock."
-    mct "Speaking of, now Nari is clamping down on my cock."
+    mct "A proposito, ora Nari sta stringendo il mio cazzo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:863
 translate italian sm1cs_ns007_light_house_161f9da5:
 
     # mc "Nari... Nari... I'm going to cum."
-    mc "Nari... Nari... I'm going to cum."
+    mc "Nari... Nari... Sto per venire."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:866
 translate italian sm1cs_ns007_light_house_b08268eb:
 
     # ns "Yeshuaah... ouha-hah..."
-    ns "Yeshuaah... ouha-hah..."
+    ns "Sìhuaah... ouha-hah..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:867
 translate italian sm1cs_ns007_light_house_3dbad736:
 
     # ns "Maybe... inside... this time..."
-    ns "Maybe... inside... this time..."
+    ns "Forse... dentro... questa volta..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:868
 translate italian sm1cs_ns007_light_house_3f528dad:
 
     # ns "I want you to enjoy my body till the end-oouah-hahuaah."
-    ns "I want you to enjoy my body till the end-oouah-hahuaah."
+    ns "Voglio che tu ti goda il mio corpo fino alla fine-oouah-hahuaah."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:879
 translate italian sm1cs_ns007_light_house_9c95d390:
@@ -1646,241 +1646,243 @@ translate italian sm1cs_ns007_light_house_9c95d390:
 translate italian sm1cs_ns007_light_house_47a2443e:
 
     # ns "*whipsers* It's just like the hentai."
-    ns "*whipsers* It's just like the hentai."
+    ns "*sussurra* È proprio come negli hentai."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:886
 translate italian sm1cs_ns007_light_house_45a96e41:
 
     # ns "It's so warm. Oh no... it's sliding out."
-    ns "It's so warm. Oh no... it's sliding out."
+    ns "È così caldo. Oh no... sta scivolando fuori."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:889
 translate italian sm1cs_ns007_light_house_6d43f23c:
 
     # ns "*softly* Use me some more, [mcname]."
-    ns "*softly* Use me some more, [mcname]."
+    ns "*dolcemente* Usami ancora, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:892
 translate italian sm1cs_ns007_light_house_5fd34884:
 
     # ns "You've marked me inside."
-    ns "You've marked me inside."
+    ns "Mi hai marchiata dentro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:893
 translate italian sm1cs_ns007_light_house_26799239:
 
     # ns "Would you like to...{w} mark me...{w} outside?"
-    ns "Would you like to...{w} mark me...{w} outside?"
+    ns "Vorresti...{w} marchiarmi...{w} fuori?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:896
 translate italian sm1cs_ns007_light_house_e87a3056:
 
     # mc "You really want me to go to the bathroom on your body?"
-    mc "You really want me to go to the bathroom on your body?"
+    mc "Vuoi davvero che pisci sul tuo corpo?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:897
 translate italian sm1cs_ns007_light_house_474e4e4e:
 
     # mc "Up here?"
-    mc "Up here?"
+    mc "Quassù?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:900
 translate italian sm1cs_ns007_light_house_5b323250:
 
     # ns "More than anything. I'm okay... if it's you."
-    ns "More than anything. I'm okay... if it's you."
+    ns "Più di ogni altra cosa. Va bene... se sei tu."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:903
 translate italian sm1cs_ns007_light_house_975f6ed4:
 
     # ns "Last time, I peed in front of you. Now... I want to feel you peeing all over me."
-    ns "Last time, I peed in front of you. Now... I want to feel you peeing all over me."
+    ns "L'ultima volta, ho fatto la pipì davanti a te. Ora... voglio sentirti pisciare su di me."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:909
 translate italian sm1cs_ns007_light_house_9272cc78:
 
     # mc "Alright. Here's your special order."
-    mc "Alright. Here's your special order."
+    mc "Va bene. Ecco il tuo ordine speciale."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:910
 translate italian sm1cs_ns007_light_house_b7c02e3e:
 
     # ns "Yes. Thank you, [mcname].."
-    ns "Yes. Thank you, [mcname].."
+    ns "Sì. Grazie, [mcname].."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:913
 translate italian sm1cs_ns007_light_house_8716d7be:
 
     # mc "Is it everything you imagined?"
-    mc "Is it everything you imagined?"
+    mc "È tutto quello che immaginavi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:916
 translate italian sm1cs_ns007_light_house_889ebbe9:
 
     # ns "*shivering and moaning*"
-    ns "*shivering and moaning*"
+    ns "*tremando e gemendo*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:917
 translate italian sm1cs_ns007_light_house_e00d80c2:
 
     # ns "Yes... I can hardly think, it's so exciting."
-    ns "Yes... I can hardly think, it's so exciting."
+    ns "Sì... riesco a malapena a pensare, è così eccitante."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:920
 translate italian sm1cs_ns007_light_house_a6c54228:
 
     # ns "Mmrruaah... You're warming me up..."
-    ns "Mmrruaah... You're warming me up..."
+    ns "Mmrruaah... Mi stai riscaldando..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:921
 translate italian sm1cs_ns007_light_house_226ff1e6:
 
     # ns "With your pee..."
-    ns "With your pee..."
+    ns "Con la tua pipì..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:931
 translate italian sm1cs_ns007_light_house_cd71789f:
 
     # ns "*giggles*"
-    ns "*giggles*"
+    ns "*ridacchia*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:934
 translate italian sm1cs_ns007_light_house_063cb324:
 
     # ns "My whole body tingles all over."
-    ns "My whole body tingles all over."
+    ns "Tutto il mio corpo formic
+
+ola."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:935
 translate italian sm1cs_ns007_light_house_ba2a4553:
 
     # ns "I'm so happy you did that to me, [mcname]."
-    ns "I'm so happy you did that to me, [mcname]."
+    ns "Sono così felice che tu l'abbia fatto a me, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:938
 translate italian sm1cs_ns007_light_house_4f1b467c:
 
     # ns "I... it was almost too much to hope that I'd ever get to enjoy {i}that{/i}."
-    ns "I... it was almost too much to hope that I'd ever get to enjoy {i}that{/i}."
+    ns "Io... era quasi troppo da sperare di poter mai godere di {i}quello{/i}."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:942
 translate italian sm1cs_ns007_light_house_273fa2d0:
 
     # mc "Woah."
-    mc "Woah."
+    mc "Wow."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:945
 translate italian sm1cs_ns007_light_house_0abb625c:
 
     # mc "I didn't think our date would end like this."
-    mc "I didn't think our date would end like this."
+    mc "Non pensavo che il nostro appuntamento sarebbe finito così."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:949
 translate italian sm1cs_ns007_light_house_4df2583a:
 
     # ns "How did you think it would go?"
-    ns "How did you think it would go?"
+    ns "Come pensavi che sarebbe andata?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:953
 translate italian sm1cs_ns007_light_house_a4dfd680:
 
     # mc "Well, I guess we'd have a nice dinner and then I'd drop you back off at your place."
-    mc "Well, I guess we'd have a nice dinner and then I'd drop you back off at your place."
+    mc "Beh, immagino che avremmo fatto una bella cena e poi ti avrei riaccompagnata a casa tua."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:954
 translate italian sm1cs_ns007_light_house_051e1f29:
 
     # mc "Or at work."
-    mc "Or at work."
+    mc "O al lavoro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:957
 translate italian sm1cs_ns007_light_house_37f7f7ed:
 
     # ns "Hmmm. I prefer this way to that way."
-    ns "Hmmm. I prefer this way to that way."
+    ns "Hmmm. Preferisco questo modo a quello."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:959
 translate italian sm1cs_ns007_light_house_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "Anche io."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:975
 translate italian sm1cs_ns007_walkaway_b1f06b57:
 
     # ns "So what do you think your score was?"
-    ns "So what do you think your score was?"
+    ns "Allora, cosa pensi che sia stato il tuo punteggio?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:977
 translate italian sm1cs_ns007_walkaway_b9d89e5b:
 
     # mc "My score?"
-    mc "My score?"
+    mc "Il mio punteggio?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:980
 translate italian sm1cs_ns007_walkaway_ce351a65:
 
     # ns "Yeah. In my English classes, girls talked about guys trying to score on dates."
-    ns "Yeah. In my English classes, girls talked about guys trying to score on dates."
+    ns "Sì. Nelle mie lezioni di inglese, le ragazze parlavano di ragazzi che cercavano di conquistare agli appuntamenti."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:981
 translate italian sm1cs_ns007_walkaway_1718cfae:
 
     # ns "I imagined that it's pretty important."
-    ns "I imagined that it's pretty important."
+    ns "Immaginavo fosse piuttosto importante."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:984
 translate italian sm1cs_ns007_walkaway_7b15903b:
 
     # mc "Hahaha. Well, usually, it's the girl who judges if a guy scores."
-    mc "Hahaha. Well, usually, it's the girl who judges if a guy scores."
+    mc "Hahaha. Beh, di solito è la ragazza che giudica se un ragazzo ha segnato."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:989
 translate italian sm1cs_ns007_walkaway_74b45029:
 
     # ns "Really? What are the parameters? What is the range of values I should use?"
-    ns "Really? What are the parameters? What is the range of values I should use?"
+    ns "Davvero? Quali sono i parametri? Quale è la gamma di valori che dovrei usare?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:992
 translate italian sm1cs_ns007_walkaway_5abf6515:
 
     # mc "Hmmm. Most of it's just a gut feeling. Did you enjoy yourself, or did you not enjoy yourself."
-    mc "Hmmm. Most of it's just a gut feeling. Did you enjoy yourself, or did you not enjoy yourself."
+    mc "Hmmm. La maggior parte è solo una sensazione istintiva. Ti sei divertita o non ti sei divertita."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:993
 translate italian sm1cs_ns007_walkaway_11ee3940:
 
     # mc "As for the range, why don't you just use a one to ten number scale?"
-    mc "As for the range, why don't you just use a one to ten number scale?"
+    mc "Per quanto riguarda la gamma, perché non usi semplicemente una scala numerica da uno a dieci?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:995
 translate italian sm1cs_ns007_walkaway_dbeabe96:
 
     # ns "Yes, I can do that."
-    ns "Yes, I can do that."
+    ns "Sì, posso farlo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1001
 translate italian sm1cs_ns007_walkaway_1f0277e6:
 
     # ns "Hmm... considering the food, conversation, company and my the amount of times I came..."
-    ns "Hmm... considering the food, conversation, company and my the amount of times I came..."
+    ns "Hmm... considerando il cibo, la conversazione, la compagnia e il numero di volte che sono venuta..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1002
 translate italian sm1cs_ns007_walkaway_e0cd2531:
 
     # ns "I will award you...{w}an Eight out of Ten."
-    ns "I will award you...{w}an Eight out of Ten."
+    ns "Ti darò...{w}un Otto su Dieci."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1006
 translate italian sm1cs_ns007_walkaway_e1669c33:
 
     # mc "Only an eight? That's tough."
-    mc "Only an eight? That's tough."
+    mc "Solo un otto? È dura."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1007
 translate italian sm1cs_ns007_walkaway_2c1e6b38:
 
     # mc "But it gives me something to work for."
-    mc "But it gives me something to work for."
+    mc "Ma mi dà qualcosa per cui lavorare."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1012
 translate italian sm1cs_ns007_walkaway_a3309b9d:
@@ -1892,123 +1894,123 @@ translate italian sm1cs_ns007_walkaway_a3309b9d:
 translate italian sm1cs_ns007_walkaway_2f3d1cfe:
 
     # ns "I'm sorry. I... I really need to answer this time."
-    ns "I'm sorry. I... I really need to answer this time."
+    ns "Mi dispiace. Io... devo davvero rispondere questa volta."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1017
 translate italian sm1cs_ns007_walkaway_cc63d003:
 
     # mct "This time? So this must be the person who called her before."
-    mct "This time? So this must be the person who called her before."
+    mct "Questa volta? Quindi deve essere la persona che l'ha chiamata prima."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1018
 translate italian sm1cs_ns007_walkaway_43610507:
 
     # mct "Maybe her landlord?"
-    mct "Maybe her landlord?"
+    mct "Forse il suo padrone di casa?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1022
 translate italian sm1cs_ns007_walkaway_782e4fbe:
 
     # ns "You said that I didn't have to worry about that?"
-    ns "You said that I didn't have to worry about that?"
+    ns "Hai detto che non dovevo preoccuparmi di questo?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1023
 translate italian sm1cs_ns007_walkaway_42f54ee2:
 
     # ns "But... but can they really do that?"
-    ns "But... but can they really do that?"
+    ns "Ma... ma possono davvero farlo?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1026
 translate italian sm1cs_ns007_walkaway_08f05535:
 
     # ns "Right. No I'm not blaming you. *sighs*"
-    ns "Right. No I'm not blaming you. *sighs*"
+    ns "Giusto. No, non sto incolpando te. *sospira*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1027
 translate italian sm1cs_ns007_walkaway_39d7dadb:
 
     # ns "Of course. Yes, I can help with that."
-    ns "Of course. Yes, I can help with that."
+    ns "Certo. Sì, posso aiutare con questo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1031
 translate italian sm1cs_ns007_walkaway_805313e6:
 
     # ns "I'm sorry, [mcname]. I really enjoyed our date, and I wanted to go for ice cream."
-    ns "I'm sorry, [mcname]. I really enjoyed our date, and I wanted to go for ice cream."
+    ns "Mi dispiace, [mcname]. Ho davvero apprezzato il nostro appuntamento, e volevo andare a prendere un gelato."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1032
 translate italian sm1cs_ns007_walkaway_849192db:
 
     # ns "But-"
-    ns "But-"
+    ns "Ma-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1035
 translate italian sm1cs_ns007_walkaway_74163334:
 
     # mc "It's okay, Nari. It sounds like you need to take care of that problem."
-    mc "It's okay, Nari. It sounds like you need to take care of that problem."
+    mc "Va bene, Nari. Sembra che tu debba occuparti di quel problema."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1038
 translate italian sm1cs_ns007_walkaway_61daab6c:
 
     # ns "Yes. I mean... Yes, I need to figure it out."
-    ns "Yes. I mean... Yes, I need to figure it out."
+    ns "Sì. Voglio dire... Sì, devo risolverlo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1039
 translate italian sm1cs_ns007_walkaway_d29add31:
 
     # ns "I'll talk to you later, [mcname]."
-    ns "I'll talk to you later, [mcname]."
+    ns "Ti parlo dopo, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1045
 translate italian sm1cs_ns007_walkaway_454418e1:
 
     # mct "If that was her landlord, I'm really starting to hate that guy."
-    mct "If that was her landlord, I'm really starting to hate that guy."
+    mct "Se era il suo padrone di casa, sto davvero iniziando a odiare quel tipo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1046
 translate italian sm1cs_ns007_walkaway_581f62d5:
 
     # mct "He keeps ruining our moments. Still, I guess I should be glad he called after we got to the lighthouse."
-    mct "He keeps ruining our moments. Still, I guess I should be glad he called after we got to the lighthouse."
+    mct "Continua a rovinare i nostri momenti. Comunque, immagino che dovrei essere contento che abbia chiamato dopo che siamo arrivati al faro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1047
 translate italian sm1cs_ns007_walkaway_72b1246b:
 
     # mct "Maybe it's time I asked Nari to tell me exactly what is going on with her."
-    mct "Maybe it's time I asked Nari to tell me exactly what is going on with her."
+    mct "Forse è ora che chiedessi a Nari di dirmi esattamente cosa sta succedendo con lei."
 
 translate italian strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:82
     old "You're rocking it"
-    new "You're rocking it"
+    new "Ti sta alla grande"
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:82
     old "Now I feel underdressed"
-    new "Now I feel underdressed"
+    new "Ora mi sento poco elegante"
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:123
     old "I feel a little nervous"
-    new "I feel a little nervous"
+    new "Sono un po' nervoso"
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:123
     old "I've got this"
-    new "I've got this"
+    new "Ce la posso fare"
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:344
     old "We're not even through our first date, but you are planning a second?"
-    new "We're not even through our first date, but you are planning a second?"
+    new "Non abbiamo nemmeno finito il primo appuntamento, ma stai già pianificando il secondo?"
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:344
     old "I would love to do that, Nari"
-    new "I would love to do that, Nari"
+    new "Mi piacerebbe farlo, Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:439
     old "The people close to me our happy about it"
-    new "The people close to me our happy about it"
+    new "Le persone a me vicine sono felici di questo"
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:536
     old "I won't tell if you don't"
-    new "I won't tell if you don't"
+    new "Non lo dirò se non lo fai tu"
 
