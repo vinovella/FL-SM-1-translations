@@ -1586,7 +1586,7 @@ translate italian sm1cs_ns012_part_2_a0ffae44:
 translate italian sm1cs_ns012_part_2_f7981089:
 
     # ns "Oh, woah. Now I really need to get cleaned up."
-    ns "Oh, woah. Now I really need to get cleaned up."
+    ns "Oh, woah. Ora ho davvero bisogno di pulirmi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:942
 translate italian sm1cs_ns012_part_2_eb0ccba9_1:
@@ -1622,7 +1622,7 @@ translate italian sm1cs_ns012_part_2_a0ffae44_1:
 translate italian sm1cs_ns012_part_2_f7981089_1:
 
     # ns "Oh, woah. Now I really need to get cleaned up."
-    ns "Oh, woah. Now I really need to get cleaned up."
+    ns "Oh, woah. Ora ho davvero bisogno di pulirmi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:975
 translate italian sm1cs_ns012_after_shower_0c054906:
