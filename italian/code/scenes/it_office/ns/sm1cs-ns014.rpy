@@ -590,19 +590,19 @@ translate italian sm1cs_ns014_studio_16053267:
 translate italian sm1cs_ns014_studio_82687d68:
 
     # mc "You’re a natural, Nari."
-    mc "You’re a natural, Nari."
+    mc "Sei una naturale, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:385
 translate italian sm1cs_ns014_studio_1ed11863:
 
     # ns "Heehee, stop it. I’m shy!"
-    ns "Heehee, stop it. I’m shy!"
+    ns "Heehee, smettila. Sono timida!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:388
 translate italian sm1cs_ns014_studio_6c5986ee:
 
     # sy "Lies! You’re eating this up."
-    sy "Lies! You’re eating this up."
+    sy "Bugie! Ti stai godendo tutto questo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:391
 translate italian sm1cs_ns014_studio_5b482089:
@@ -752,7 +752,7 @@ translate italian sm1cs_ns014_studio_252151bc:
 translate italian sm1cs_ns014_studio_16934f4b:
 
     # mc "Yeah. I should’ve told you sooner."
-    mc "Yeah. I should’ve told you sooner."
+    mc "Sì. Avrei dovuto dirtelo prima."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:462
 translate italian sm1cs_ns014_studio_093a0059:
@@ -764,7 +764,7 @@ translate italian sm1cs_ns014_studio_093a0059:
 translate italian sm1cs_ns014_studio_1090ea49:
 
     # ns "That’s so wild, [mcname]. So all this camera gear is for... wow."
-    ns "That’s so wild, [mcname]. So all this camera gear is for... wow."
+    ns "È così pazzesco, [mcname]. Quindi tutta questa attrezzatura fotografica è per... wow."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:464
 translate italian sm1cs_ns014_studio_626fc7a0:
@@ -776,7 +776,7 @@ translate italian sm1cs_ns014_studio_626fc7a0:
 translate italian sm1cs_ns014_studio_277f1a2a:
 
     # mc "I’m sorry for keeping it from you. Can you forgive me?"
-    mc "I’m sorry for keeping it from you. Can you forgive me?"
+    mc "Mi dispiace di avertelo nascosto. Puoi perdonarmi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:470
 translate italian sm1cs_ns014_studio_00ea30d8:
@@ -1028,7 +1028,7 @@ translate italian sm1cs_ns014_studio_181bcc42:
 translate italian sm1cs_ns014_studio_26fcd2da:
 
     # mc "Really? You’d want to? As in actually be filmed in scenes with me?"
-    mc "Really? You’d want to? As in actually be filmed in scenes with me?"
+    mc "Davvero? Vorresti? Tipo essere effettivamente filmata in scene con me?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:581
 translate italian sm1cs_ns014_studio_92f49a7a:
@@ -1088,7 +1088,7 @@ translate italian sm1cs_ns014_studio_3653f87d:
 translate italian sm1cs_ns014_studio_c88ffcce:
 
     # mc "Of course. Whatever you’re comfortable with."
-    mc "Of course. Whatever you’re comfortable with."
+    mc "Certo. Qualunque cosa ti faccia sentire a tuo agio."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:606
 translate italian sm1cs_ns014_studio_46f34de2:
@@ -1100,7 +1100,7 @@ translate italian sm1cs_ns014_studio_46f34de2:
 translate italian sm1cs_ns014_studio_0a63f1bb:
 
     # sy "I’m so excited! We’re gonna have so much fun, Nari."
-    sy "I’m so excited! We’re gonna have so much fun, Nari."
+    sy "Sono così emozionata! Ci divertiremo così tanto, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:613
 translate italian sm1cs_ns014_studio_3dab1d16:
