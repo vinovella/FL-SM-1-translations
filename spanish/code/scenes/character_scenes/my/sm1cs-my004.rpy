@@ -2,115 +2,115 @@
 translate spanish sm1cs_my004_0d46d564:
 
     # mct "Where the hell did Stacy go? She's been gone so long..."
-    mct "Where the hell did Stacy go? She's been gone so long..."
+    mct "¿Dónde diablos se fue Stacy? Ha estado fuera tanto tiempo..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:36
 translate spanish sm1cs_my004_c76bb271:
 
     # mct "Whatever she's planning, it's probably going to cause a whole mess of problems for me."
-    mct "Whatever she's planning, it's probably going to cause a whole mess of problems for me."
+    mct "Sea lo que sea que esté planeando, probablemente me va a causar un montón de problemas."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:39
 translate spanish sm1cs_my004_b81d4f43:
 
     # sy "Sorry! I'll be right down!"
-    sy "Sorry! I'll be right down!"
+    sy "¡Lo siento! ¡Bajo enseguida!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:41
 translate spanish sm1cs_my004_f1af8e84:
 
     # mc "Uh huh! Sure you will!"
-    mc "Uh huh! Sure you will!"
+    mc "¡Ajá! ¡Claro que sí!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:42
 translate spanish sm1cs_my004_e8a0a4fc:
 
     # sy "I promise!"
-    sy "I promise!"
+    sy "¡Lo prometo!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:45
 translate spanish sm1cs_my004_89f92f53:
 
     # mct "Like I haven't heard that-"
-    mct "Like I haven't heard that-"
+    mct "Como si no hubiera escuchado eso-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:48
 translate spanish sm1cs_my004_fde6b8f7:
 
     # mc "Stacy? Why are you wearing a robe?"
-    mc "Stacy? Why are you wearing a robe?"
+    mc "¿Stacy? ¿Por qué llevas una bata?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:53
 translate spanish sm1cs_my004_20b3deba:
 
     # sy "Oh, I just wanted to get comfy!"
-    sy "Oh, I just wanted to get comfy!"
+    sy "¡Oh, solo quería estar cómoda!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:56
 translate spanish sm1cs_my004_4b166591:
 
     # mc "...{w} What are you planning?"
-    mc "...{w} What are you planning?"
+    mc "...{w} ¿Qué estás planeando?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:59
 translate spanish sm1cs_my004_a227dfde:
 
     # sy "Me? Nothing! I would never!"
-    sy "Me? Nothing! I would never!"
+    sy "¿Yo? ¡Nada! ¡Nunca lo haría!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:63
 translate spanish sm1cs_my004_6f4d4501:
 
     # mc "Bullshit."
-    mc "Bullshit."
+    mc "Tonterías."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:66
 translate spanish sm1cs_my004_4cf3e7c6:
 
     # sy "I would never!"
-    sy "I would never!"
+    sy "¡Nunca lo haría!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:70
 translate spanish sm1cs_my004_08aa5e98:
 
     # mc "You're my sister, I've known you my whole life. I know when you're lying."
-    mc "You're my sister, I've known you my whole life. I know when you're lying."
+    mc "Eres mi hermana, te he conocido toda mi vida. Sé cuándo mientes."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:72
 translate spanish sm1cs_my004_3c362a4d:
 
     # mc "Stacy, you're my best friend. I know when you're lying."
-    mc "Stacy, you're my best friend. I know when you're lying."
+    mc "Stacy, eres mi mejor amiga. Sé cuándo mientes."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:75
 translate spanish sm1cs_my004_cf009059:
 
     # sy "Why would I lie to you?"
-    sy "Why would I lie to you?"
+    sy "¿Por qué te mentiría?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:77
 translate spanish sm1cs_my004_083b59dc:
 
     # mc "To bamboozle me."
-    mc "To bamboozle me."
+    mc "Para engañarme."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:81
 translate spanish sm1cs_my004_d98c2f3e:
 
     # sy "Me!? Bamboozle!?!"
-    sy "Me!? Bamboozle!?!"
+    sy "¿¡Yo!? ¿¡Engañar!?!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:83
 translate spanish sm1cs_my004_a96ab65e:
 
     # sy "My own brother! Calling me a bamboozler!"
-    sy "My own brother! Calling me a bamboozler!"
+    sy "¡Mi propio hermano! ¡Llamándome embaucadora!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:85
 translate spanish sm1cs_my004_37fb631c:
 
     # sy "My boyfriend! Calling me a bamboozler!"
-    sy "My boyfriend! Calling me a bamboozler!"
+    sy "¡Mi novio! ¡Llamándome embaucadora!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:88
 translate spanish sm1cs_my004_8fc79e73:
@@ -122,265 +122,265 @@ translate spanish sm1cs_my004_8fc79e73:
 translate spanish sm1cs_my004_370d3035:
 
     # sy "I'll get it!"
-    sy "I'll get it!"
+    sy "¡Yo abro!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:97
 translate spanish sm1cs_my004_06d5c5f1:
 
     # mct "Oh God... here it comes..."
-    mct "Oh God... here it comes..."
+    mct "Oh Dios... aquí viene..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:102
 translate spanish sm1cs_my004_e49a66d7:
 
     # sy "Hey, Mom!"
-    sy "Hey, Mom!"
+    sy "¡Hola, mamá!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:104
 translate spanish sm1cs_my004_edd08fb7:
 
     # sy "Hey, Melony!"
-    sy "Hey, Melony!"
+    sy "¡Hola, Melony!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:108
 translate spanish sm1cs_my004_e9950d05:
 
     # mct "Why the hell is Mom here?"
-    mct "Why the hell is Mom here?"
+    mct "¿Por qué diablos está mamá aquí?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:110
 translate spanish sm1cs_my004_3270b043:
 
     # mct "Why the hell did Stacy invite Melony over?"
-    mct "Why the hell did Stacy invite Melony over?"
+    mct "¿Por qué diablos Stacy invitó a Melony?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:115
 translate spanish sm1cs_my004_730059d1:
 
     # my "Hi, Stacy. Hi, [mcname]!"
-    my "Hi, Stacy. Hi, [mcname]!"
+    my "Hola, Stacy. ¡Hola, [mcname]!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:120
 translate spanish sm1cs_my004_db14cf85:
 
     # my "I see you won't even get off the couch for your own mother!"
-    my "I see you won't even get off the couch for your own mother!"
+    my "¡Veo que ni siquiera te levantas del sofá por tu propia madre!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:122
 translate spanish sm1cs_my004_26daafeb:
 
     # my "What, can't get up and say hello to me?"
-    my "What, can't get up and say hello to me?"
+    my "¿Qué, no puedes levantarte y saludarme?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:126
 translate spanish sm1cs_my004_99c4d8d7:
 
     # mc "Sorry, I just wasn't expecting you to be coming over today. I'm just a little surprised is all."
-    mc "Sorry, I just wasn't expecting you to be coming over today. I'm just a little surprised is all."
+    mc "Lo siento, simplemente no esperaba que vinieras hoy. Solo estoy un poco sorprendido, eso es todo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:129
 translate spanish sm1cs_my004_a4b7e964:
 
     # my "Oh? But I thought we had our contest today?"
-    my "Oh? But I thought we had our contest today?"
+    my "¿Oh? ¿Pero pensé que teníamos nuestro concurso hoy?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:132
 translate spanish sm1cs_my004_83048997:
 
     # mc "The what now?"
-    mc "The what now?"
+    mc "¿El qué ahora?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:135
 translate spanish sm1cs_my004_7c062861:
 
     # my "The swimsuit contest. The one Stacy had mentioned at the bar. She said you were doing that today?"
-    my "The swimsuit contest. The one Stacy had mentioned at the bar. She said you were doing that today?"
+    my "El concurso de trajes de baño. El que Stacy mencionó en el bar. ¿Dijo que lo harías hoy?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:138
 translate spanish sm1cs_my004_a5750632:
 
     # sy "Yeah, [mcname]. Did you forget?"
-    sy "Yeah, [mcname]. Did you forget?"
+    sy "Sí, [mcname]. ¿Lo olvidaste?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:141
 translate spanish sm1cs_my004_77929cea:
 
     # mc "Forget... forget what?"
-    mc "Forget... forget what?"
+    mc "Olvidar... ¿olvidar qué?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:146
 translate spanish sm1cs_my004_00262bd6:
 
     # sy "Classic older brother, can't even remember what day of the week it is!"
-    sy "Classic older brother, can't even remember what day of the week it is!"
+    sy "¡Típico hermano mayor, ni siquiera puede recordar qué día de la semana es!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:148
 translate spanish sm1cs_my004_45207576:
 
     # sy "Classic [mcname]. Can't even remember what day of the week it is!"
-    sy "Classic [mcname]. Can't even remember what day of the week it is!"
+    sy "¡Típico [mcname]! ¡Ni siquiera puede recordar qué día de la semana es!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:150
 translate spanish sm1cs_my004_94a09ac5:
 
     # mc "Ouch!"
-    mc "Ouch!"
+    mc "¡Auch!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:153
 translate spanish sm1cs_my004_a7f8533a:
 
     # my "Oh you two..."
-    my "Oh you two..."
+    my "Oh ustedes dos..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:156
 translate spanish sm1cs_my004_3c12798e:
 
     # my "Well, if you have space for one more contestant, I brought my swimsuit with me."
-    my "Well, if you have space for one more contestant, I brought my swimsuit with me."
+    my "Bueno, si tienen espacio para una concursante más, traje mi traje de baño."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:159
 translate spanish sm1cs_my004_c03f2b8d:
 
     # sy "Of course we do! Right, [mcname]?"
-    sy "Of course we do! Right, [mcname]?"
+    sy "¡Por supuesto que sí! ¿Verdad, [mcname]?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:162
 translate spanish sm1cs_my004_c03c9479:
 
     # mc "Uhm... right?"
-    mc "Uhm... right?"
+    mc "Uhm... ¿verdad?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:165
 translate spanish sm1cs_my004_aca30b03:
 
     # sy "Feel free to get dressed in the bathroom!"
-    sy "Feel free to get dressed in the bathroom!"
+    sy "¡Siéntete libre de cambiarte en el baño!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:167
 translate spanish sm1cs_my004_0d780c3e:
 
     # my "What about you?"
-    my "What about you?"
+    my "¿Y tú?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:171
 translate spanish sm1cs_my004_8c4a7060:
 
     # sy "Oh, I got changed before you got here!"
-    sy "Oh, I got changed before you got here!"
+    sy "¡Oh, me cambié antes de que llegaras!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:174
 translate spanish sm1cs_my004_15cdc0f0:
 
     # mct "So that's what she was doing..."
-    mct "So that's what she was doing..."
+    mct "Así que eso es lo que estaba haciendo..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:177
 translate spanish sm1cs_my004_754fd368:
 
     # my "All right... give me a second, I'll be right back."
-    my "All right... give me a second, I'll be right back."
+    my "Está bien... dame un segundo, vuelvo enseguida."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:181
 translate spanish sm1cs_my004_3e2390f0:
 
     # sy "Take your time!"
-    sy "Take your time!"
+    sy "¡Tómate tu tiempo!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:185
 translate spanish sm1cs_my004_4caa3fba:
 
     # mc "What the hell are you doing, Stacy?"
-    mc "What the hell are you doing, Stacy?"
+    mc "¿Qué diablos estás haciendo, Stacy?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:188
 translate spanish sm1cs_my004_b57b421b:
 
     # sy "You're taking sooooo long! I want to skip ahead to the juicy parts."
-    sy "You're taking sooooo long! I want to skip ahead to the juicy parts."
+    sy "¡Estás tardando taaanto! Quiero saltar a las partes jugosas."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:191
 translate spanish sm1cs_my004_de6ad14f:
 
     # mc "The juicy parts of?"
-    mc "The juicy parts of?"
+    mc "¿Las partes jugosas de?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:195
 translate spanish sm1cs_my004_9b7bce22:
 
     # sy "You know, Mom's tits wrapped around your cock?"
-    sy "You know, Mom's tits wrapped around your cock?"
+    sy "¿Sabes, las tetas de mamá envolviendo tu polla?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:197
 translate spanish sm1cs_my004_03333d70:
 
     # sy "You know, Melony's tits wrapped around your cock?"
-    sy "You know, Melony's tits wrapped around your cock?"
+    sy "¿Sabes, las tetas de Melony envolviendo tu polla?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:198
 translate spanish sm1cs_my004_6008b859:
 
     # sy "Those puppies are real juicy... God, I wish I had tits like that."
-    sy "Those puppies are real juicy... God, I wish I had tits like that."
+    sy "Esas cachorras son realmente jugosas... Dios, desearía tener tetas así."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:201
 translate spanish sm1cs_my004_9cecff2c:
 
     # mc "Jesus, Stacy-"
-    mc "Jesus, Stacy-"
+    mc "Jesús, Stacy-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:204
 translate spanish sm1cs_my004_2619a228:
 
     # sy "What, you can't blame a girl for her fantasies!"
-    sy "What, you can't blame a girl for her fantasies!"
+    sy "¡Qué, no puedes culpar a una chica por sus fantasías!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:208
 translate spanish sm1cs_my004_3cd8e207:
 
     # mc "Everyone, meet my little sister, apparently the horniest woman in the world."
-    mc "Everyone, meet my little sister, apparently the horniest woman in the world."
+    mc "Todos, conozcan a mi hermana pequeña, aparentemente la mujer más cachonda del mundo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:210
 translate spanish sm1cs_my004_85b144df:
 
     # mc "Everyone, meet Stacy, apparently the horniest woman in the world."
-    mc "Everyone, meet Stacy, apparently the horniest woman in the world."
+    mc "Todos, conozcan a Stacy, aparentemente la mujer más cachonda del mundo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:213
 translate spanish sm1cs_my004_25285620:
 
     # sy "Am not!"
-    sy "Am not!"
+    sy "¡No lo soy!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:215
 translate spanish sm1cs_my004_2d287e43:
 
     # mc "Are too."
-    mc "Are too."
+    mc "Sí lo eres."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:218
 translate spanish sm1cs_my004_156be322:
 
     # sy "Whatever. I figured if you couldn't score at a nude art exhibit, it would be impossible to fumble during a swimsuit contest."
-    sy "Whatever. I figured if you couldn't score at a nude art exhibit, it would be impossible to fumble during a swimsuit contest."
+    sy "Lo que sea. Pensé que si no podías anotar en una exhibición de arte nudista, sería imposible fallar durante un concurso de trajes de baño."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:222
 translate spanish sm1cs_my004_f0b40613:
 
     # mc "But it's not a real contest! The only people here are you and Mom!"
-    mc "But it's not a real contest! The only people here are you and Mom!"
+    mc "¡Pero no es un concurso real! ¡Las únicas personas aquí son tú y mamá!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:224
 translate spanish sm1cs_my004_d60ac861:
 
     # mc "But it's not a real contest! The only people here are you and Melony!"
-    mc "But it's not a real contest! The only people here are you and Melony!"
+    mc "¡Pero no es un concurso real! ¡Las únicas personas aquí son tú y Melony!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:232
 translate spanish sm1cs_my004_4e2f519c:
 
     # sy "Then it should be a pretty easy contest to judge."
-    sy "Then it should be a pretty easy contest to judge."
+    sy "Entonces debería ser un concurso bastante fácil de juzgar."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:235
 translate spanish sm1cs_my004_8fc79e73_1:
@@ -392,97 +392,97 @@ translate spanish sm1cs_my004_8fc79e73_1:
 translate spanish sm1cs_my004_984d596f:
 
     # my "How's it look?"
-    my "How's it look?"
+    my "¿Cómo se ve?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:242
 translate spanish sm1cs_my004_b17185a3:
 
     # mct "Holy shit..."
-    mct "Holy shit..."
+    mct "Santa mierda..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:246
 translate spanish sm1cs_my004_c25dc4d0:
 
     # sy "You look great, Mom!"
-    sy "You look great, Mom!"
+    sy "¡Te ves genial, mamá!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:248
 translate spanish sm1cs_my004_43aea1d1:
 
     # sy "You look great, Melony!"
-    sy "You look great, Melony!"
+    sy "¡Te ves genial, Melony!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:249
 translate spanish sm1cs_my004_d2d0f396:
 
     # sy "Right, [mcname]?"
-    sy "Right, [mcname]?"
+    sy "¿Verdad, [mcname]?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:252
 translate spanish sm1cs_my004_c2823466:
 
     # mc "Erm, right! Yeah! I think you've got, uhhh, a good chance of winning today!"
-    mc "Erm, right! Yeah! I think you've got, uhhh, a good chance of winning today!"
+    mc "¡Erm, verdad! ¡Sí! ¡Creo que tienes, uhhh, una buena oportunidad de ganar hoy!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:255
 translate spanish sm1cs_my004_c063596f:
 
     # my "Thanks, hon."
-    my "Thanks, hon."
+    my "Gracias, cariño."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:258
 translate spanish sm1cs_my004_01fc9d0c:
 
     # my "Where is everyone else?"
-    my "Where is everyone else?"
+    my "¿Dónde están todos los demás?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:261
 translate spanish sm1cs_my004_a89c11cd:
 
     # mc "Everyone else... uhm..."
-    mc "Everyone else... uhm..."
+    mc "Todos los demás... uhm..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:264
 translate spanish sm1cs_my004_ea3bab3b:
 
     # sy "They're all, uh, running late! You know how it is, actresses and models."
-    sy "They're all, uh, running late! You know how it is, actresses and models."
+    sy "Todas están, uh, llegando tarde! Ya sabes cómo es, actrices y modelos."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:267
 translate spanish sm1cs_my004_e9029942:
 
     # my "Uh huh..."
-    my "Uh huh..."
+    my "Ajá..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:268
 translate spanish sm1cs_my004_1b48a7ce:
 
     # my "Well, what should we do in the meantime?"
-    my "Well, what should we do in the meantime?"
+    my "Bueno, ¿qué deberíamos hacer mientras tanto?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:271
 translate spanish sm1cs_my004_18b89ff6:
 
     # sy "We can get started! Or, erm, practice! [mcname] can be the judge!"
-    sy "We can get started! Or, erm, practice! [mcname] can be the judge!"
+    sy "¡Podemos empezar! O, erm, ¡practicar! ¡[mcname] puede ser el juez!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:273
 translate spanish sm1cs_my004_65c685df:
 
     # my "Are you sure we shouldn't wait?"
-    my "Are you sure we shouldn't wait?"
+    my "¿Estás segura de que no deberíamos esperar?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:277
 translate spanish sm1cs_my004_a6a373aa:
 
     # sy "Yeah! They are all, like... super behind? So it'll take them a long time to get here..."
-    sy "Yeah! They are all, like... super behind? So it'll take them a long time to get here..."
+    sy "¡Sí! Todas están, como... ¿súper retrasadas? Así que les tomará mucho tiempo llegar aquí..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:278
 translate spanish sm1cs_my004_139398c2:
 
     # sy "So no reason to sit around all day!"
-    sy "So no reason to sit around all day!"
+    sy "¡Así que no hay razón para estar sentados todo el día!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:281
 translate spanish sm1cs_my004_76e6d2db:
