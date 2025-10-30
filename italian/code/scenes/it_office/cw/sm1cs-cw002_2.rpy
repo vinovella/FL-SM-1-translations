@@ -182,7 +182,7 @@ translate italian sm1cs_cw002_2_43067e3f:
 translate italian sm1cs_cw002_2_28e1f2de:
 
     # mct "She's definitely still a bit of a fox."
-    mct "È decisamente ancora una gran gnocca."
+    mct "È decisamente ancora una bella donna."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:109
 translate italian sm1cs_cw002_2_61e81814:
@@ -560,7 +560,7 @@ translate italian sm1cs_cw002_2_36715f95:
 translate italian sm1cs_cw002_2_b675b6f0:
 
     # mc "I heard it on the news."
-    mc "L'ho sentito al telegiornale."
+    mc "L'ho sentito alle notizie."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:284
 translate italian sm1cs_cw002_2_392f2f95:
