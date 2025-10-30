@@ -488,97 +488,97 @@ translate spanish sm1cs_my004_139398c2:
 translate spanish sm1cs_my004_76e6d2db:
 
     # my "If you say so.{w} Well, what should we do first for the contest?"
-    my "If you say so.{w} Well, what should we do first for the contest?"
+    my "Si tú lo dices.{w} Bueno, ¿qué deberíamos hacer primero para el concurso?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:289
 translate spanish sm1cs_my004_1de54406:
 
     # sy "Have [mcname] check us out of course!"
-    sy "Have [mcname] check us out of course!"
+    sy "¡Hacer que [mcname] nos revise por supuesto!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:292
 translate spanish sm1cs_my004_cad2fd95:
 
     # my "Are you saying that my son should check out his own mother?"
-    my "Are you saying that my son should check out his own mother?"
+    my "¿Estás diciendo que mi hijo debería revisar a su propia madre?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:295
 translate spanish sm1cs_my004_3a41c5e6:
 
     # sy "Yep!"
-    sy "Yep!"
+    sy "¡Sí!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:298
 translate spanish sm1cs_my004_b497ef3f:
 
     # my "Is that not a little... odd, Stacy?"
-    my "Is that not a little... odd, Stacy?"
+    my "¿No es eso un poco... extraño, Stacy?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:301
 translate spanish sm1cs_my004_ae4138ce:
 
     # sy "Nope!"
-    sy "Nope!"
+    sy "¡No!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:302
 translate spanish sm1cs_my004_f57a22a4:
 
     # sy "It's super normal. It's just for the contest! Right?"
-    sy "It's super normal. It's just for the contest! Right?"
+    sy "Es súper normal. ¡Es solo para el concurso! ¿Verdad?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:305
 translate spanish sm1cs_my004_15f23d7e:
 
     # my "...{w} Right."
-    my "...{w} Right."
+    my "...{w} Correcto."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:308
 translate spanish sm1cs_my004_6e173dfe:
 
     # sy "Well, [mcname], get to judging!"
-    sy "Well, [mcname], get to judging!"
+    sy "Bueno, [mcname], ¡a juzgar!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:311
 translate spanish sm1cs_my004_43e96791:
 
     # mct "God... Stacy comes up with the craziest ideas..."
-    mct "God... Stacy comes up with the craziest ideas..."
+    mct "Dios... Stacy tiene las ideas más locas..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:312
 translate spanish sm1cs_my004_47b7a6d6:
 
     # mct "I have absolutely no idea how we're going to pull this one off though."
-    mct "I have absolutely no idea how we're going to pull this one off though."
+    mct "Sin embargo, no tengo ni idea de cómo vamos a lograr esto."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:315
 translate spanish sm1cs_my004_3d86cf3a:
 
     # mc "I, uhhh, like the colors of your suit? And... it looks good?"
-    mc "I, uhhh, like the colors of your suit? And... it looks good?"
+    mc "Me, uhhh, ¿gustan los colores de tu traje? Y... ¿se ve bien?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:318
 translate spanish sm1cs_my004_fe4717cc:
 
     # sy "Come on, [mcname]. You have got to do better then that. How about the cut? The fit?"
-    sy "Come on, [mcname]. You have got to do better then that. How about the cut? The fit?"
+    sy "Vamos, [mcname]. Tienes que hacerlo mejor que eso. ¿Qué tal el corte? ¿El ajuste?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:320
 translate spanish sm1cs_my004_a48048a7:
 
     # mc "It looks like it fits?"
-    mc "It looks like it fits?"
+    mc "¿Parece que encaja?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:324
 translate spanish sm1cs_my004_9676b995:
 
     # sy "No, doofus. Like... how does it fit {i}on me{/i}, like \"it is high waisted, do I look good with a high waisted suit?\""
-    sy "No, doofus. Like... how does it fit {i}on me{/i}, like \"it is high waisted, do I look good with a high waisted suit?\""
+    sy "No, tonto. Como... cómo queda {i}en mí{/i}, como \"es de talle alto, ¿me veo bien con un traje de talle alto?\""
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:325
 translate spanish sm1cs_my004_4bd657c0:
 
     # sy "Or, \"the way the top of the suit is cut really accentuates your breats and makes them pop\"."
-    sy "Or, \"the way the top of the suit is cut really accentuates your breats and makes them pop\"."
+    sy "O, \"la forma en que está cortada la parte superior del traje realmente acentúa tus pechos y los hace resaltar\"."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:328
 translate spanish sm1cs_my004_c9b837d5:
@@ -590,295 +590,295 @@ translate spanish sm1cs_my004_c9b837d5:
 translate spanish sm1cs_my004_cc335bca:
 
     # mc "I think... pretty much everything you just said?"
-    mc "I think... pretty much everything you just said?"
+    mc "Creo... ¿prácticamente todo lo que acabas de decir?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:335
 translate spanish sm1cs_my004_c8f5ec54:
 
     # sy "Ugh... fine, try commenting on Mom's suit. Maybe you'll do a better job with her."
-    sy "Ugh... fine, try commenting on Mom's suit. Maybe you'll do a better job with her."
+    sy "Ugh... bien, intenta comentar el traje de mamá. Quizás lo hagas mejor con ella."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:337
 translate spanish sm1cs_my004_5ba99f36:
 
     # sy "Ugh... fine, try commenting on Melony's suit. Maybe you'll do a better job with her."
-    sy "Ugh... fine, try commenting on Melony's suit. Maybe you'll do a better job with her."
+    sy "Ugh... bien, intenta comentar el traje de Melony. Quizás lo hagas mejor con ella."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:340
 translate spanish sm1cs_my004_ea3da01e:
 
     # my "Don't take it easy on me, [mcname], I can take it."
-    my "Don't take it easy on me, [mcname], I can take it."
+    my "No te contengas conmigo, [mcname], puedo soportarlo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:343
 translate spanish sm1cs_my004_2485f494:
 
     # mc "I..."
-    mc "I..."
+    mc "Yo..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:345
 translate spanish sm1cs_my004_502f80d9:
 
     # mc "You look great, Mom. Seriously."
-    mc "You look great, Mom. Seriously."
+    mc "Te ves genial, mamá. En serio."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:347
 translate spanish sm1cs_my004_1ebb00ac:
 
     # mc "You look great, Melony. Seriously."
-    mc "You look great, Melony. Seriously."
+    mc "Te ves genial, Melony. En serio."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:350
 translate spanish sm1cs_my004_596fd1fe:
 
     # my "Thank you, [mcname]. But I think you're supposed to talk about cut and fit a little bit."
-    my "Thank you, [mcname]. But I think you're supposed to talk about cut and fit a little bit."
+    my "Gracias, [mcname]. Pero creo que se supone que debes hablar un poco sobre el corte y el ajuste."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:353
 translate spanish sm1cs_my004_6fc05bb8:
 
     # mc "Oh, right... uhm..."
-    mc "Oh, right... uhm..."
+    mc "Oh, cierto... uhm..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:354
 translate spanish sm1cs_my004_3e7597de:
 
     # mc "Uh...{w} The cut of the swimsuit is right for you, it draws attentions to all the right parts..."
-    mc "Uh...{w} The cut of the swimsuit is right for you, it draws attentions to all the right parts..."
+    mc "Uh...{w} El corte del traje de baño es perfecto para ti, atrae la atención a todas las partes correctas..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:355
 translate spanish sm1cs_my004_1e4f6ff6:
 
     # mc "And, uhhh, the fit is good."
-    mc "And, uhhh, the fit is good."
+    mc "Y, uhhh, el ajuste es bueno."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:356
 translate spanish sm1cs_my004_3d402389:
 
     # mct "So fucking good."
-    mct "So fucking good."
+    mct "Tan jodidamente bueno."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:357
 translate spanish sm1cs_my004_9df02ce4:
 
     # mc "It shows off all the right curves, and doesn't sag in places that are bad..."
-    mc "It shows off all the right curves, and doesn't sag in places that are bad..."
+    mc "Muestra todas las curvas correctas, y no se cae en lugares que son malos..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:358
 translate spanish sm1cs_my004_1bb93be6:
 
     # mc "And it's maybe the perfect swimsuit for your body type."
-    mc "And it's maybe the perfect swimsuit for your body type."
+    mc "Y es quizás el traje de baño perfecto para tu tipo de cuerpo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:361
 translate spanish sm1cs_my004_d9b886cd:
 
     # my "You're just saying that."
-    my "You're just saying that."
+    my "Solo dices eso."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:364
 translate spanish sm1cs_my004_f15cde78:
 
     # mc "I would never."
-    mc "I would never."
+    mc "Nunca lo haría."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:367
 translate spanish sm1cs_my004_0f192313:
 
     # sy "Ugh, that was a good critique, [mcname]! Why couldn't you do that for me?"
-    sy "Ugh, that was a good critique, [mcname]! Why couldn't you do that for me?"
+    sy "Ugh, ¡esa fue una buena crítica, [mcname]! ¿Por qué no pudiste hacer eso por mí?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:369
 translate spanish sm1cs_my004_dab685e3:
 
     # mc "I, uhhhh, will do better?"
-    mc "I, uhhhh, will do better?"
+    mc "¿Yo, uhhhh, lo haré mejor?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:372
 translate spanish sm1cs_my004_e1230e1f:
 
     # sy "I hope so."
-    sy "I hope so."
+    sy "Eso espero."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:378
 translate spanish sm1cs_my004_9e68ecdd:
 
     # mct "Damn, Stacy is really feeling herself today."
-    mct "Damn, Stacy is really feeling herself today."
+    mct "Maldición, Stacy realmente se siente bien consigo misma hoy."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:381
 translate spanish sm1cs_my004_8ff4a646:
 
     # sy "Next we should do the catwalk!"
-    sy "Next we should do the catwalk!"
+    sy "¡Luego deberíamos hacer la pasarela!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:384
 translate spanish sm1cs_my004_90f32794:
 
     # mc "A catwalk?"
-    mc "A catwalk?"
+    mc "¿Una pasarela?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:388
 translate spanish sm1cs_my004_fb0ccac0:
 
     # sy "Yeah! Me and Mom will strut our stuff and see what you think!"
-    sy "Yeah! Me and Mom will strut our stuff and see what you think!"
+    sy "¡Sí! ¡Mamá y yo pavonearemos y veremos qué piensas!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:390
 translate spanish sm1cs_my004_90c7dbe6:
 
     # sy "Yeah! Me and Melony will strut our stuff and see what you think!"
-    sy "Yeah! Me and Melony will strut our stuff and see what you think!"
+    sy "¡Sí! ¡Melony y yo pavonearemos y veremos qué piensas!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:391
 translate spanish sm1cs_my004_00fc0919:
 
     # sy "Let you take a look at allll of the {b}assets{/b}."
-    sy "Let you take a look at allll of the {b}assets{/b}."
+    sy "Dejarte echar un vistazo a todoooos los {b}activos{/b}."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:394
 translate spanish sm1cs_my004_9de07441:
 
     # mc "Stacy!"
-    mc "Stacy!"
+    mc "¡Stacy!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:397
 translate spanish sm1cs_my004_cb1307e3:
 
     # my "She does have a point, [mcname]. It's hard to do a swimsuit competition without seeing what the model's body looks like when she's moving."
-    my "She does have a point, [mcname]. It's hard to do a swimsuit competition without seeing what the model's body looks like when she's moving."
+    my "Ella tiene razón, [mcname]. Es difícil hacer un concurso de trajes de baño sin ver cómo se ve el cuerpo de la modelo cuando se mueve."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:400
 translate spanish sm1cs_my004_ce4fb5d2:
 
     # mc "All right, if you two say so..."
-    mc "All right, if you two say so..."
+    mc "Está bien, si ustedes dos lo dicen..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:404
 translate spanish sm1cs_my004_16c6c5e3:
 
     # sy "All right, [mcname]. For this one, you need to tell us how our swimsuits looks when we move. Like, does it ride up, does it sit funny, that kind of thing."
-    sy "All right, [mcname]. For this one, you need to tell us how our swimsuits looks when we move. Like, does it ride up, does it sit funny, that kind of thing."
+    sy "Está bien, [mcname]. Para esto, necesitas decirnos cómo se ven nuestros trajes de baño cuando nos movemos. Como, si se sube, si se ve raro, ese tipo de cosas."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:406
 translate spanish sm1cs_my004_1b199792:
 
     # mc "Okay?"
-    mc "Okay?"
+    mc "¿Okay?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:409
 translate spanish sm1cs_my004_09d8ab72:
 
     # my "He really has no idea what he's doing, does he?"
-    my "He really has no idea what he's doing, does he?"
+    my "Realmente no tiene idea de lo que está haciendo, ¿verdad?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:412
 translate spanish sm1cs_my004_9ec6d391:
 
     # sy "He never does."
-    sy "He never does."
+    sy "Nunca lo hace."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:414
 translate spanish sm1cs_my004_3bb84a41:
 
     # mc "You know I can hear you two!"
-    mc "You know I can hear you two!"
+    mc "¡Saben que puedo oírlas!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:416
 translate spanish sm1cs_my004_cf7af754:
 
     # my "Hehehehehehe!"
-    my "Hehehehehehe!"
+    my "¡Jejejejejeje!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:420
 translate spanish sm1cs_my004_3ec38c84:
 
     # sy "Ready?"
-    sy "Ready?"
+    sy "¿Lista?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:423
 translate spanish sm1cs_my004_d425daa3:
 
     # mc "Sure?"
-    mc "Sure?"
+    mc "¿Seguro?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:428
 translate spanish sm1cs_my004_567d5e68:
 
     # mct "Be still my beating heart."
-    mct "Be still my beating heart."
+    mct "Cálmate, corazón palpitante."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:433
 translate spanish sm1cs_my004_9ead133f:
 
     # sy "{size=*0.7}You got this, [mcname]. Knock her socks off.{/size}"
-    sy "{size=*0.7}You got this, [mcname]. Knock her socks off.{/size}"
+    sy "{size=*0.7}Puedes con esto, [mcname]. Déjala con la boca abierta.{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:444
 translate spanish sm1cs_my004_8dd0f626:
 
     # sy "All right! Your turn, Mom."
-    sy "All right! Your turn, Mom."
+    sy "¡Muy bien! Tu turno, mamá."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:446
 translate spanish sm1cs_my004_4200bc56:
 
     # sy "All right! Your turn, Melony."
-    sy "All right! Your turn, Melony."
+    sy "¡Muy bien! Tu turno, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:449
 translate spanish sm1cs_my004_beb6885a:
 
     # my "Here goes nothing..."
-    my "Here goes nothing..."
+    my "Allá voy..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:460
 translate spanish sm1cs_my004_9011d842:
 
     # my "How am I doing so far?"
-    my "How am I doing so far?"
+    my "¿Cómo lo estoy haciendo hasta ahora?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:464
 translate spanish sm1cs_my004_95289d45:
 
     # mc "Crushing it, Mom."
-    mc "Crushing it, Mom."
+    mc "Arrasando, mamá."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:466
 translate spanish sm1cs_my004_3af154a6:
 
     # mc "Crushing it, Melony."
-    mc "Crushing it, Melony."
+    mc "Arrasando, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:469
 translate spanish sm1cs_my004_c6f5137c:
 
     # my "Thanks, [mcname]."
-    my "Thanks, [mcname]."
+    my "Gracias, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:480
 translate spanish sm1cs_my004_a3b1acc6:
 
     # sy "All right, [mcname]! Who wins the catwalk?"
-    sy "All right, [mcname]! Who wins the catwalk?"
+    sy "¡Muy bien, [mcname]! ¿Quién gana la pasarela?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:483
 translate spanish sm1cs_my004_a2181c34:
 
     # mct "Oh shit, that's right. I need to pick someone if I want to keep the ruse going..."
-    mct "Oh shit, that's right. I need to pick someone if I want to keep the ruse going..."
+    mct "Oh mierda, es cierto. Necesito elegir a alguien si quiero mantener la farsa..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:484
 translate spanish sm1cs_my004_e22d5400:
 
     # mct "Shit, who should I pick?"
-    mct "Shit, who should I pick?"
+    mct "Mierda, ¿a quién debería elegir?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:490
 translate spanish sm1cs_my004_cab7607c:
 
     # mc "I have to pick Mom. I think she really nailed that catwalk."
-    mc "I have to pick Mom. I think she really nailed that catwalk."
+    mc "Tengo que elegir a mamá. Creo que realmente clavó esa pasarela."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:494
 translate spanish sm1cs_my004_9c633a46:
@@ -890,7 +890,7 @@ translate spanish sm1cs_my004_9c633a46:
 translate spanish sm1cs_my004_946b7abb:
 
     # mc "I have to pick Melony. I think she really nailed that catwalk."
-    mc "I have to pick Melony. I think she really nailed that catwalk."
+    mc "Tengo que elegir a Melony. Creo que realmente clavó esa pasarela."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:504
 translate spanish sm1cs_my004_9c633a46_1:
