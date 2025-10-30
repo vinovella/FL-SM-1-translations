@@ -2,229 +2,229 @@
 translate italian sm1cs_ns007_e24827ca:
 
     # mc "Hi, Nari."
-    mc "Hi, Nari."
+    mc "Ciao, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:69
 translate italian sm1cs_ns007_788dfbfc:
 
     # ns "Hey."
-    ns "Hey."
+    ns "Ehi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:71
 translate italian sm1cs_ns007_d397d61b:
 
     # mct "Woah."
-    mct "Woah."
+    mct "Wow."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:75
 translate italian sm1cs_ns007_c1194463:
 
     # mc "You look great."
-    mc "You look great."
+    mc "Stai benissimo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:78
 translate italian sm1cs_ns007_b98ccaa1:
 
     # ns "Thank you."
-    ns "Thank you."
+    ns "Grazie."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:79
 translate italian sm1cs_ns007_a447bac3:
 
     # ns "I bought this with my first paycheck from Orbix."
-    ns "I bought this with my first paycheck from Orbix."
+    ns "L'ho comprato con il mio primo stipendio da Orbix."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:80
 translate italian sm1cs_ns007_d87864d4:
 
     # ns "It's... unlike anything I usually wear."
-    ns "It's... unlike anything I usually wear."
+    ns "È... diverso da tutto ciò che indosso di solito."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:87
 translate italian sm1cs_ns007_c6fd03f5:
 
     # mc "Well you are rocking it, Nari."
-    mc "Well you are rocking it, Nari."
+    mc "Beh, ti sta alla grande, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:88
 translate italian sm1cs_ns007_a8749ff3:
 
     # mc "It suits you."
-    mc "It suits you."
+    mc "Ti dona."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:93
 translate italian sm1cs_ns007_4215fc90:
 
     # mc "Now I feel like I'm underdressed."
-    mc "Now I feel like I'm underdressed."
+    mc "Ora mi sento poco elegante."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:96
 translate italian sm1cs_ns007_70cf9950:
 
     # ns "*giggles* You look just fine, [mcname]."
-    ns "*giggles* You look just fine, [mcname]."
+    ns "*ridacchia* Stai benissimo, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:97
 translate italian sm1cs_ns007_c27eee71:
 
     # ns "Stylish and handsome."
-    ns "Stylish and handsome."
+    ns "Elegante e attraente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:102
 translate italian sm1cs_ns007_8a84c610:
 
     # ns "Shall we go?"
-    ns "Shall we go?"
+    ns "Andiamo?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:104
 translate italian sm1cs_ns007_7341f7cf:
 
     # mc "Your chariot awaits."
-    mc "Your chariot awaits."
+    mc "Il tuo cocchio ti aspetta."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:105
 translate italian sm1cs_ns007_22a2d895:
 
     # mc "And by chariot, I mean a very luxurious rideshare."
-    mc "And by chariot, I mean a very luxurious rideshare."
+    mc "E per cocchio, intendo un passaggio molto lussuoso."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:106
 translate italian sm1cs_ns007_43f8029c:
 
     # ns "Lead on."
-    ns "Lead on."
+    ns "Guidami."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:121
 translate italian sm1cs_ns007_resturant_e106fd99:
 
     # mct "Alright. We're here."
-    mct "Alright. We're here."
+    mct "Bene. Siamo arrivati."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:127
 translate italian sm1cs_ns007_resturant_8157d89d:
 
     # mct "I'm a little nervous about this. I like Nari, and I like what we've done before."
-    mct "I'm a little nervous about this. I like Nari, and I like what we've done before."
+    mct "Sono un po' nervoso per questo. Mi piace Nari, e mi piace quello che abbiamo fatto prima."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:128
 translate italian sm1cs_ns007_resturant_8c9e4c22:
 
     # mct "What if this is a bad idea?"
-    mct "What if this is a bad idea?"
+    mct "E se fosse una cattiva idea?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:130
 translate italian sm1cs_ns007_resturant_b8a7d4cf:
 
     # mct "What if I just make an excuse and get out of here before we sit down."
-    mct "What if I just make an excuse and get out of here before we sit down."
+    mct "E se inventassi una scusa e me ne andassi prima che ci sediamo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:135
 translate italian sm1cs_ns007_resturant_e6473e7d:
 
     # mct "No way. I could never do that to Nari."
-    mct "No way. I could never do that to Nari."
+    mct "Assolutamente no. Non potrei mai farlo a Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:136
 translate italian sm1cs_ns007_resturant_404f6745:
 
     # mct "I'd hate to let her down, and this... {w} it will be fine."
-    mct "I'd hate to let her down, and this... {w} it will be fine."
+    mct "Odierei deluderla, e questo... {w} andrà bene."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:142
 translate italian sm1cs_ns007_resturant_86c5469f:
 
     # mct "Come on, man. There is nothing to worry about."
-    mct "Come on, man. There is nothing to worry about."
+    mct "Dai, amico. Non c'è niente di cui preoccuparsi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:143
 translate italian sm1cs_ns007_resturant_a571ed86:
 
     # mct "You've been on plenty of dates."
-    mct "You've been on plenty of dates."
+    mct "Hai fatto un sacco di appuntamenti."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:144
 translate italian sm1cs_ns007_resturant_85f6fbf0:
 
     # mct "Well, I guess a lot were Fetish Locator dates."
-    mct "Well, I guess a lot were Fetish Locator dates."
+    mct "Beh, immagino che molti fossero appuntamenti di Fetish Locator."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:149
 translate italian sm1cs_ns007_resturant_bd04df61:
 
     # mct "Gah, quit pysching yourself out. It's going to be great."
-    mct "Gah, quit pysching yourself out. It's going to be great."
+    mct "Argh, smettila di farti prendere dall'ansia. Andrà alla grande."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:150
 translate italian sm1cs_ns007_resturant_97eeb437:
 
     # mct "She likes you, and you like her. Everything will work itself out."
-    mct "She likes you, and you like her. Everything will work itself out."
+    mct "Le piaci, e lei ti piace. Tutto si sistemerà."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:162
 translate italian sm1cs_ns007_resturant_f8c4c766:
 
     # mc "Everything alright?"
-    mc "Everything alright?"
+    mc "Tutto bene?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:165
 translate italian sm1cs_ns007_resturant_ce578470:
 
     # ns "I'd rather sit {i}next{/i} to you. Unless you have an objection, [mcname]."
-    ns "I'd rather sit {i}next{/i} to you. Unless you have an objection, [mcname]."
+    ns "Preferirei sedermi {i}accanto{/i} a te. A meno che tu non abbia obiezioni, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:167
 translate italian sm1cs_ns007_resturant_265b4b9b:
 
     # mc "You can sit by me anytime."
-    mc "You can sit by me anytime."
+    mc "Puoi sederti accanto a me quando vuoi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:174
 translate italian sm1cs_ns007_resturant_b98ccaa1:
 
     # ns "Thank you."
-    ns "Thank you."
+    ns "Grazie."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:177
 translate italian sm1cs_ns007_resturant_44fa8154:
 
     # mct "I love it when she gets nervous. It's so different than when she was sucking my cock in the bathroom at work."
-    mct "I love it when she gets nervous. It's so different than when she was sucking my cock in the bathroom at work."
+    mct "Adoro quando diventa nervosa. È così diverso da quando mi succhiava il cazzo nel bagno al lavoro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:178
 translate italian sm1cs_ns007_resturant_0ce4ada8:
 
     # mct "Then again, she got nervous when she asked me for permission to use the bathroom in front of me."
-    mct "Then again, she got nervous when she asked me for permission to use the bathroom in front of me."
+    mct "D'altra parte, si è innervosita quando mi ha chiesto il permesso di usare il bagno davanti a me."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:181
 translate italian sm1cs_ns007_resturant_976dbee8:
 
     # "Waiter" "*clears throat*"
-    "Waiter" "*clears throat*"
+    "Waiter" "*si schiarisce la gola*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:182
 translate italian sm1cs_ns007_resturant_6baff45d:
 
     # "Waiter" "Can I get you two some drinks?"
-    "Waiter" "Can I get you two some drinks?"
+    "Waiter" "Posso portarvi qualcosa da bere?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:185
 translate italian sm1cs_ns007_resturant_a995f686:
 
     # mc "Yes, sounds great. Nari?"
-    mc "Yes, sounds great. Nari?"
+    mc "Sì, ottima idea. Nari?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:188
 translate italian sm1cs_ns007_resturant_d6e7f61d:
 
     # ns "Oh. Do you have any... uh."
-    ns "Oh. Do you have any... uh."
+    ns "Oh. Avete... uhm."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:189
 translate italian sm1cs_ns007_resturant_7c6d591f:
 
     # ns "April drinks them. What are they called?"
-    ns "April drinks them. What are they called?"
+    ns "April le beve. Come si chiamano?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:190
 translate italian sm1cs_ns007_resturant_cae96378:
@@ -236,235 +236,235 @@ translate italian sm1cs_ns007_resturant_cae96378:
 translate italian sm1cs_ns007_resturant_8a969bcf:
 
     # "Waiter" "I'm sorry, miss. I don't think we have those."
-    "Waiter" "I'm sorry, miss. I don't think we have those."
+    "Waiter" "Mi dispiace, signorina. Non credo che le abbiamo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:195
 translate italian sm1cs_ns007_resturant_711faeeb:
 
     # ns "Oh, can I help you find out? I'm great at solving problems."
-    ns "Oh, can I help you find out? I'm great at solving problems."
+    ns "Oh, posso aiutarla a scoprirlo? Sono brava a risolvere i problemi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:198
 translate italian sm1cs_ns007_resturant_b2bbdb56:
 
     # mc "Uh, Nari. Usually, places like this have water, teas, cocktails, and different wines."
-    mc "Uh, Nari. Usually, places like this have water, teas, cocktails, and different wines."
+    mc "Uhm, Nari. Di solito, posti come questo hanno acqua, tè, cocktail e vini diversi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:199
 translate italian sm1cs_ns007_resturant_a6095ab1:
 
     # mc "You'd probably be better off looking for Red Ox at a convenience store."
-    mc "You'd probably be better off looking for Red Ox at a convenience store."
+    mc "Probabilmente faresti meglio a cercare Red Ox in un minimarket."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:202
 translate italian sm1cs_ns007_resturant_5dedb720:
 
     # ns "Oh right. That makes sense."
-    ns "Oh right. That makes sense."
+    ns "Oh giusto. Ha senso."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:205
 translate italian sm1cs_ns007_resturant_3f808327:
 
     # ns "Forgive me. I'm still trying to figure out life here."
-    ns "Forgive me. I'm still trying to figure out life here."
+    ns "Perdonami. Sto ancora cercando di capire la vita qui."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:208
 translate italian sm1cs_ns007_resturant_5c4006c2:
 
     # "Waiter" "Hey, you and me both, sister."
-    "Waiter" "Hey, you and me both, sister."
+    "Waiter" "Ehi, siamo in due, sorella."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:211
 translate italian sm1cs_ns007_resturant_3c90d786:
 
     # mc "How about two waters and two glasses of your house wine?"
-    mc "How about two waters and two glasses of your house wine?"
+    mc "Che ne dici di due acque e due bicchieri del vostro vino della casa?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:213
 translate italian sm1cs_ns007_resturant_85b40951:
 
     # "Waiter" "Excellent choice. I'll be right back."
-    "Waiter" "Excellent choice. I'll be right back."
+    "Waiter" "Ottima scelta. Torno subito."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:217
 translate italian sm1cs_ns007_resturant_41d5e5f7:
 
     # mc "See anything you like?"
-    mc "See anything you like?"
+    mc "Vedi qualcosa che ti piace?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:221
 translate italian sm1cs_ns007_resturant_82149d48:
 
     # ns "Many things look good."
-    ns "Many things look good."
+    ns "Molte cose sembrano buone."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:224
 translate italian sm1cs_ns007_resturant_66b017c1:
 
     # ns "Did... did you want to order for me? I've seen that on shows."
-    ns "Did... did you want to order for me? I've seen that on shows."
+    ns "Hai... volevi ordinare per me? L'ho visto in televisione."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:227
 translate italian sm1cs_ns007_resturant_eec904ce:
 
     # mc "Oh, that usually only happens with couples."
-    mc "Oh, that usually only happens with couples."
+    mc "Oh, di solito succede solo con le coppie."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:229
 translate italian sm1cs_ns007_resturant_e406aa0a:
 
     # ns "Is that a rule?"
-    ns "Is that a rule?"
+    ns "È una regola?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:231
 translate italian sm1cs_ns007_resturant_3dd0863d:
 
     # mc "Not really, but... even if I wanted to order what you like, I don't really know what you like."
-    mc "Not really, but... even if I wanted to order what you like, I don't really know what you like."
+    mc "Non proprio, ma... anche se volessi ordinare quello che ti piace, non so davvero cosa ti piace."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:234
 translate italian sm1cs_ns007_resturant_4ee645e0:
 
     # ns "I dissagree. I've told you many things I like."
-    ns "I dissagree. I've told you many things I like."
+    ns "Non sono d'accordo. Ti ho detto molte cose che mi piacciono."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:236
 translate italian sm1cs_ns007_resturant_79ccfa96:
 
     # mc "Yes, just not about food."
-    mc "Yes, just not about food."
+    mc "Sì, solo non riguardo al cibo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:238
 translate italian sm1cs_ns007_resturant_9993f277:
 
     # ns "Hehehe. It's fun to see you tense up when {i}I{/i} tease you for a change."
-    ns "Hehehe. It's fun to see you tense up when {i}I{/i} tease you for a change."
+    ns "Hehehe. È divertente vederti in tensione quando sono {i}io{/i} a stuzzicarti per una volta."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:240
 translate italian sm1cs_ns007_resturant_f32a43a5:
 
     # mc "*sarcastically* Miss Song has a wicked side. I'll have to guard myself in the future."
-    mc "*sarcastically* Miss Song has a wicked side. I'll have to guard myself in the future."
+    mc "*sarcasticamente* La signorina Song ha un lato cattivo. Dovrò stare in guardia in futuro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:246
 translate italian sm1cs_ns007_resturant_ea568b28:
 
     # ns "Maybe you can help me pronounce this one?"
-    ns "Maybe you can help me pronounce this one?"
+    ns "Forse puoi aiutarmi a pronunciare questo?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:248
 translate italian sm1cs_ns007_resturant_9dd2e4a0:
 
     # mc "Sure. Of course! I'd be happy to help. What are you considering?"
-    mc "Sure. Of course! I'd be happy to help. What are you considering?"
+    mc "Certo. Naturalmente! Sarò felice di aiutarti. Cosa stai considerando?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:251
 translate italian sm1cs_ns007_resturant_5c05d2c0:
 
     # ns "This one. Cio... Cioppino?"
-    ns "This one. Cio... Cioppino?"
+    ns "Questo. Cio... Cioppino?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:253
 translate italian sm1cs_ns007_resturant_3fc2a097:
 
     # mc "Ah, cioppino. It's pronounced 'chuh-PEE-noh'. It's a seafood stew. Very tasty."
-    mc "Ah, cioppino. It's pronounced 'chuh-PEE-noh'. It's a seafood stew. Very tasty."
+    mc "Ah, cioppino. Si pronuncia 'ciop-PI-no'. È uno stufato di pesce. Molto gustoso."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:256
 translate italian sm1cs_ns007_resturant_3a87eb41:
 
     # ns "Chuh-PEE-noh."
-    ns "Chuh-PEE-noh."
+    ns "Ciop-PI-no."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:259
 translate italian sm1cs_ns007_resturant_9c236895:
 
     # ns "It doesn't sound the same as when you said it.."
-    ns "It doesn't sound the same as when you said it.."
+    ns "Non suona come quando l'hai detto tu..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:261
 translate italian sm1cs_ns007_resturant_6ed53337:
 
     # mc "It sounds perfect. There is nothing wrong with your tongue."
-    mc "It sounds perfect. There is nothing wrong with your tongue."
+    mc "Suona perfetto. Non c'è niente che non va con la tua lingua."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:264
 translate italian sm1cs_ns007_resturant_1dd1e4f1:
 
     # mc "I mean there is nothing wrong with how you said it."
-    mc "I mean there is nothing wrong with how you said it."
+    mc "Intendo dire che non c'è niente di sbagliato in come l'hai detto."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:266
 translate italian sm1cs_ns007_resturant_23d4d440:
 
     # ns "Mmm. And what makes you such an expert about my tongue, [mcname]?"
-    ns "Mmm. And what makes you such an expert about my tongue, [mcname]?"
+    ns "Mmm. E cosa ti rende un tale esperto della mia lingua, [mcname]?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:267
 translate italian sm1cs_ns007_resturant_21efb1c0:
 
     # ns "Do you like it?"
-    ns "Do you like it?"
+    ns "Ti piace?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:273
 translate italian sm1cs_ns007_resturant_c9cc8f10:
 
     # mc "It's not what you're thinking."
-    mc "It's not what you're thinking."
+    mc "Non è quello che pensi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:274
 translate italian sm1cs_ns007_resturant_d4cebc9c:
 
     # mct "Even though her tongue did feel really good when she was sucking my cock."
-    mct "Even though her tongue did feel really good when she was sucking my cock."
+    mct "Anche se la sua lingua si sentiva davvero bene quando mi succhiava il cazzo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:277
 translate italian sm1cs_ns007_resturant_58e2df8e:
 
     # mc "At work, sometimes you talk about things that are way beyond my understanding, and I try to keep up."
-    mc "At work, sometimes you talk about things that are way beyond my understanding, and I try to keep up."
+    mc "Al lavoro, a volte parli di cose che vanno ben oltre la mia comprensione, e cerco di stare al passo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:278
 translate italian sm1cs_ns007_resturant_127ce1c1:
 
     # mc "But then I start getting hypnotized by that tongue of yours."
-    mc "But then I start getting hypnotized by that tongue of yours."
+    mc "Ma poi inizio a rimanere ipnotizzato da quella tua lingua."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:281
 translate italian sm1cs_ns007_resturant_50ccd294:
 
     # ns "Hehehe. You must be joking. My tongue can't cast a spell on you."
-    ns "Hehehe. You must be joking. My tongue can't cast a spell on you."
+    ns "Hehehe. Devi scherzare. La mia lingua non può lanciare un incantesimo su di te."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:283
 translate italian sm1cs_ns007_resturant_ad05bd4c:
 
     # mc "That's where you're wrong. It's got a power all on its own."
-    mc "That's where you're wrong. It's got a power all on its own."
+    mc "È lì che ti sbagli. Ha un potere tutto suo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:286
 translate italian sm1cs_ns007_resturant_f1f64302:
 
     # ns "You're making fun of me."
-    ns "You're making fun of me."
+    ns "Ti stai prendendo gioco di me."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:288
 translate italian sm1cs_ns007_resturant_17313b76:
 
     # mc "Never, your tongue is just enthralling me."
-    mc "Never, your tongue is just enthralling me."
+    mc "Mai, la tua lingua mi sta solo affascinando."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:291
 translate italian sm1cs_ns007_resturant_259b6407:
 
     # ns "*laughs happily*"
-    ns "*laughs happily*"
+    ns "*ride felicemente*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:297
 translate italian sm1cs_ns007_resturant_1c40512c:
 
     # mc "Cheers to our first official date, Nari."
-    mc "Cheers to our first official date, Nari."
+    mc "Cin cin al nostro primo appuntamento ufficiale, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:299
 translate italian sm1cs_ns007_resturant_a074f315:
@@ -476,61 +476,61 @@ translate italian sm1cs_ns007_resturant_a074f315:
 translate italian sm1cs_ns007_resturant_b6db159b:
 
     # ns "I thought about something."
-    ns "I thought about something."
+    ns "Ho pensato a qualcosa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:309
 translate italian sm1cs_ns007_resturant_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:312
 translate italian sm1cs_ns007_resturant_c2d01a80:
 
     # ns "When we were first hanging out, you asked me what I liked to do."
-    ns "When we were first hanging out, you asked me what I liked to do."
+    ns "Quando abbiamo iniziato a uscire insieme, mi hai chiesto cosa mi piacesse fare."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:313
 translate italian sm1cs_ns007_resturant_f20c7abb:
 
     # ns "My only answer was studying financial reports and watching videos about new technologies."
-    ns "My only answer was studying financial reports and watching videos about new technologies."
+    ns "La mia unica risposta è stata studiare rapporti finanziari e guardare video sulle nuove tecnologie."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:316
 translate italian sm1cs_ns007_resturant_acf44c61:
 
     # ns "I imagine you wanted to bail on me when I gave such boring answers."
-    ns "I imagine you wanted to bail on me when I gave such boring answers."
+    ns "Immagino che volessi lasciarmi quando ho dato risposte così noiose."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:318
 translate italian sm1cs_ns007_resturant_f84c1461:
 
     # mc "New technologies are rarely boring stuff."
-    mc "New technologies are rarely boring stuff."
+    mc "Le nuove tecnologie sono raramente roba noiosa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:321
 translate italian sm1cs_ns007_resturant_18aafbb1:
 
     # ns "True. But, I thought of something else. Something I'd like to do with you in the future."
-    ns "True. But, I thought of something else. Something I'd like to do with you in the future."
+    ns "Vero. Ma ho pensato a qualcos'altro. Qualcosa che mi piacerebbe fare con te in futuro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:324
 translate italian sm1cs_ns007_resturant_2c20d0a6:
 
     # mct "She's going to talk about naughty stuff again."
-    mct "She's going to talk about naughty stuff again."
+    mct "Sta per parlare di nuovo di cose piccanti."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:325
 translate italian sm1cs_ns007_resturant_5c583da7:
 
     # mct "At least the waiter isn't close by."
-    mct "At least the waiter isn't close by."
+    mct "Almeno il cameriere non è nelle vicinanze."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:327
 translate italian sm1cs_ns007_resturant_ce4a6215:
 
     # ns "I want to try out an escape room!"
-    ns "I want to try out an escape room!"
+    ns "Voglio provare una escape room!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:329
 translate italian sm1cs_ns007_resturant_0e836376:
