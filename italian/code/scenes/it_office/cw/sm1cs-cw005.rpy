@@ -500,7 +500,7 @@ translate italian sm1cs_cw005_jetski_60d27277:
 translate italian sm1cs_cw005_jetski_ea1fc2bf:
 
     # mct "Okay, maybe I deserved that."
-    mct "Okay, maybe I deserved that."
+    mct "Ok, forse me lo meritavo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:348
 translate italian sm1cs_cw005_jetski_b92b490b:
@@ -1220,7 +1220,7 @@ translate italian sm1cs_cw005_sauna_menu_3a70cab2:
 translate italian sm1cs_cw005_sauna_menu_6269195f:
 
     # mc "Did you enjoy what we did last night?"
-    mc "Did you enjoy what we did last night?"
+    mc "Ti sei divertita con quello che abbiamo fatto ieri sera?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:711
 translate italian sm1cs_cw005_sauna_menu_8efd182a:
@@ -1232,19 +1232,19 @@ translate italian sm1cs_cw005_sauna_menu_8efd182a:
 translate italian sm1cs_cw005_sauna_menu_44a4d97c:
 
     # cw "You know that..."
-    cw "You know that..."
+    cw "Lo sai che..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:718
 translate italian sm1cs_cw005_sauna_menu_8b917aa7:
 
     # mc "Are you sure that you're alright?"
-    mc "Are you sure that you're alright?"
+    mc "Sei sicura che stia tutto bene?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:719
 translate italian sm1cs_cw005_sauna_menu_bac5d546:
 
     # mc "With your parents and everything."
-    mc "With your parents and everything."
+    mc "Con i tuoi genitori e tutto il resto."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:722
 translate italian sm1cs_cw005_sauna_menu_f90e8e3e:
@@ -1256,31 +1256,31 @@ translate italian sm1cs_cw005_sauna_menu_f90e8e3e:
 translate italian sm1cs_cw005_sauna_menu_3a535c0a:
 
     # cw "It's fine now. It's always like this."
-    cw "It's fine now. It's always like this."
+    cw "Va tutto bene ora. È sempre così."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:729
 translate italian sm1cs_cw005_sauna_menu_6f190bde:
 
     # mc "So... we just sit here and cook in our own juices?"
-    mc "So... we just sit here and cook in our own juices?"
+    mc "Quindi... stiamo qui seduti a cuocere nei nostri succhi?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:732
 translate italian sm1cs_cw005_sauna_menu_f141005e:
 
     # cw "Pretty much. Some people find it very therapeutic."
-    cw "Pretty much. Some people find it very therapeutic."
+    cw "Più o meno. Alcune persone lo trovano molto terapeutico."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:733
 translate italian sm1cs_cw005_sauna_menu_95a6bcde:
 
     # cw "But give me a massage any day."
-    cw "But give me a massage any day."
+    cw "Ma preferirei un massaggio in qualsiasi momento."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:736
 translate italian sm1cs_cw005_sauna_menu_5c7c4c0e:
 
     # mc "Happy to do it. Just name a time and a place."
-    mc "Happy to do it. Just name a time and a place."
+    mc "Felice di farlo. Dimmi solo quando e dove."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:739
 translate italian sm1cs_cw005_sauna_menu_b57ef2dd:
@@ -1298,7 +1298,7 @@ translate italian sm1cs_cw005_sauna_menu_840812a5:
 translate italian sm1cs_cw005_sauna_menu_0a41cfd9:
 
     # cw "Who knows what is lurking outside..."
-    cw "Who knows what is lurking outside..."
+    cw "Chissà cosa si nasconde fuori..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:760
 translate italian sm1cs_cw005_sauna_menu_0a24e9ba:
@@ -1322,7 +1322,7 @@ translate italian sm1cs_cw005_sauna_menu_5a35dfbd:
 translate italian sm1cs_cw005_sauna_menu_caafcfd9:
 
     # cw "We will just... self-stimulate in the same room."
-    cw "We will just... self-stimulate in the same room."
+    cw "Noi semplicemente... ci auto-stimoleremo nella stessa stanza."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:768
 translate italian sm1cs_cw005_sauna_menu_4bd32584:
@@ -1340,13 +1340,13 @@ translate italian sm1cs_cw005_sauna_menu_90d6d868:
 translate italian sm1cs_cw005_sauna_menu_2d23e98e:
 
     # cw "And we'll do it loudly so those two will leave us alone."
-    cw "And we'll do it loudly so those two will leave us alone."
+    cw "E lo faremo rumorosamente così quei due ci lasceranno in pace."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:777
 translate italian sm1cs_cw005_sauna_menu_cc2d5530:
 
     # cw "Think you can manage that?"
-    cw "Think you can manage that?"
+    cw "Pensi di poterlo fare?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:778
 translate italian sm1cs_cw005_sauna_menu_ff65871c:
@@ -1358,7 +1358,7 @@ translate italian sm1cs_cw005_sauna_menu_ff65871c:
 translate italian sm1cs_cw005_sauna_menu_65f5b014:
 
     # mct "Maybe my brain got cooked from the heat."
-    mct "Maybe my brain got cooked from the heat."
+    mct "Forse il mio cervello è stato cotto dal calore."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:782
 translate italian sm1cs_cw005_sauna_menu_a39a1d50:
