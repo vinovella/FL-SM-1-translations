@@ -20,7 +20,7 @@ translate italian sm1cs_bg003_7ba6c240:
 translate italian sm1cs_bg003_393c06ec:
 
     # bg "Come on! We have to show him!"
-    bg "Dai! Dobbiamo mostrarglieLe!"
+    bg "Dai! Dobbiamo mostrargliele!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:45
 translate italian sm1cs_bg003_5b68d6dc:
