@@ -26,13 +26,13 @@ translate deutsch sm1mv01s04_6fac7ee5:
 translate deutsch sm1mv01s04_afa522e9:
 
     # sy "But, I think we build some art flats and we can put them up and take them down when we're filming the scene."
-    sy "Aber ich denke, wir bauen ein paar Kulissen, die wir aufstellen und wieder abbauen können, wenn wir die Szene drehen."
+    sy "Aber ich denke, wir bauen ein paar Art Flats, die wir aufstellen und wieder abbauen können, wenn wir die Szene drehen."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:25
 translate deutsch sm1mv01s04_090cc79c:
 
     # mc "What the hell is an art flat?"
-    mc "Was zum Teufel ist eine Kulisse?"
+    mc "Was zum Teufel ist eine Art Flat?"
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:28
 translate deutsch sm1mv01s04_770a34e9:
@@ -44,7 +44,7 @@ translate deutsch sm1mv01s04_770a34e9:
 translate deutsch sm1mv01s04_09adf1d9:
 
     # mc "Oh, okay. Yeah, art flats would be great here."
-    mc "Oh, okay. Ja, Kulissen wären hier toll."
+    mc "Oh, okay. Ja, Art Flats wären hier toll."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:31
 translate deutsch sm1mv01s04_78f7bb28:
