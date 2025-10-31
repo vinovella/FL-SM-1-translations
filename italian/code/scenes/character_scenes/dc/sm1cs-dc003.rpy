@@ -2,31 +2,31 @@
 translate italian sm1cs_dc003_13817b84:
 
     # mc "Let me grab some coffee for both of us, I insist."
-    mc "Let me grab some coffee for both of us, I insist."
+    mc "Lascia che prenda un caffè per entrambi, insisto."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:23
 translate italian sm1cs_dc003_f015a1e1:
 
     # dc "But..."
-    dc "But..."
+    dc "Ma..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:25
 translate italian sm1cs_dc003_fea07740:
 
     # mc "No buts."
-    mc "No buts."
+    mc "Niente ma."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:26
 translate italian sm1cs_dc003_7229594e:
 
     # dc "Dark roast then... Please."
-    dc "Dark roast then... Please."
+    dc "Tostatura scura allora... Per favore."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:32
 translate italian sm1cs_dc003_06eccbc2:
 
     # cs "And here you go."
-    cs "And here you go."
+    cs "Ed ecco a te."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:34
 translate italian sm1cs_dc003_e9721ff3:
@@ -38,145 +38,145 @@ translate italian sm1cs_dc003_e9721ff3:
 translate italian sm1cs_dc003_b88b5d2c:
 
     # dc "Here you go! One medium coffee."
-    dc "Here you go! One medium coffee."
+    dc "Ecco a te! Un caffè medio."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:44
 translate italian sm1cs_dc003_e9721ff3_1:
 
     # mc "Thank you!"
-    mc "Thank you!"
+    mc "Grazie!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:48
 translate italian sm1cs_dc003_b30dd281:
 
     # dc "You know, you could have gotten something fancier."
-    dc "You know, you could have gotten something fancier."
+    dc "Sai, avresti potuto prendere qualcosa di più elaborato."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:51
 translate italian sm1cs_dc003_ffc5b310:
 
     # mc "Well I like just regular coffee."
-    mc "Well I like just regular coffee."
+    mc "Beh, mi piace solo il caffè normale."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:55
 translate italian sm1cs_dc003_625728b9:
 
     # dc "So... You regularly get this?"
-    dc "So... You regularly get this?"
+    dc "Quindi... Lo prendi regolarmente?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:58
 translate italian sm1cs_dc003_40e84589:
 
     # mc "Yep! Just a regular old drip coffee."
-    mc "Yep! Just a regular old drip coffee."
+    mc "Sì! Solo un normale vecchio caffè filtrato."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:61
 translate italian sm1cs_dc003_cd3f4fa5:
 
     # dc "Not even like an americano?"
-    dc "Not even like an americano?"
+    dc "Nemmeno tipo un americano?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:65
 translate italian sm1cs_dc003_efb72a04:
 
     # mc "I'm a man of simple tastes."
-    mc "I'm a man of simple tastes."
+    mc "Sono un uomo dai gusti semplici."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:68
 translate italian sm1cs_dc003_dcd35991:
 
     # dc "Oh boy, well it sounds like we may have to get coffee more often. I need to expand your horizons, [mcname]."
-    dc "Oh boy, well it sounds like we may have to get coffee more often. I need to expand your horizons, [mcname]."
+    dc "Oh ragazzo, beh sembra che dovremo prendere il caffè più spesso. Devo ampliare i tuoi orizzonti, [mcname]."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:70
 translate italian sm1cs_dc003_d0a6da2f:
 
     # mc "Oh yeah? What do you normally get?"
-    mc "Oh yeah? What do you normally get?"
+    mc "Oh sì? Cosa prendi normalmente?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:73
 translate italian sm1cs_dc003_d1a5cfe1:
 
     # dc "Depends. If I'm having a particularly long or rough work day, I'll get a red eye. Otherwise, I'm a sucker for a good white chocolate mocha."
-    dc "Depends. If I'm having a particularly long or rough work day, I'll get a red eye. Otherwise, I'm a sucker for a good white chocolate mocha."
+    dc "Dipende. Se ho una giornata di lavoro particolarmente lunga o difficile, prendo un red eye. Altrimenti, sono debole per un buon moca al cioccolato bianco."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:74
 translate italian sm1cs_dc003_9aee24f9:
 
     # mct "I'll have to remember that."
-    mct "I'll have to remember that."
+    mct "Dovrò ricordarmelo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:77
 translate italian sm1cs_dc003_d5d26405:
 
     # mc "Well thanks for bringing me here!"
-    mc "Well thanks for bringing me here!"
+    mc "Beh, grazie per avermi portato qui!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:80
 translate italian sm1cs_dc003_da8dd771:
 
     # dc "Of course. Have you been here before?"
-    dc "Of course. Have you been here before?"
+    dc "Certo. Sei già stato qui prima?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:84
 translate italian sm1cs_dc003_1f9236b7:
 
     # mc "I have! A friend brought me here a bit ago."
-    mc "I have! A friend brought me here a bit ago."
+    mc "Sì! Un amico mi ha portato qui un po' di tempo fa."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:87
 translate italian sm1cs_dc003_3ecadc6c:
 
     # mc "Nope! This is my first time."
-    mc "Nope! This is my first time."
+    mc "No! È la mia prima volta."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:93
 translate italian sm1cs_dc003_832b9d09:
 
     # mc "But I'm happy to be here, they've got great coffee."
-    mc "But I'm happy to be here, they've got great coffee."
+    mc "Ma sono felice di essere qui, hanno un ottimo caffè."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:96
 translate italian sm1cs_dc003_ff0d0921:
 
     # dc "Good! I'm happy to be here with you.{w} And I can't say sorry enough about what happened the other night in the park."
-    dc "Good! I'm happy to be here with you.{w} And I can't say sorry enough about what happened the other night in the park."
+    dc "Bene! Sono felice di essere qui con te.{w} E non posso scusarmi abbastanza per quello che è successo l'altra sera nel parco."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:100
 translate italian sm1cs_dc003_78dbdece:
 
     # mc "You've got nothing to apologize for. Hindsight being 20-20, probably shouldn't have been sneaking around the park while the Midnight Creep is on the loose."
-    mc "You've got nothing to apologize for. Hindsight being 20-20, probably shouldn't have been sneaking around the park while the Midnight Creep is on the loose."
+    mc "Non hai nulla per cui scusarti. Col senno di poi, probabilmente non avrei dovuto aggirarmi nel parco mentre il Tipo Strano di Mezzanotte è in libertà."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:103
 translate italian sm1cs_dc003_e3cfe840:
 
     # dc "Definitely wasn't your brightest idea."
-    dc "Definitely wasn't your brightest idea."
+    dc "Sicuramente non è stata la tua idea più brillante."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:104
 translate italian sm1cs_dc003_d726ae36:
 
     # dc "But I am happy you were there."
-    dc "But I am happy you were there."
+    dc "Ma sono felice che tu fossi lì."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:108
 translate italian sm1cs_dc003_404c9426:
 
     # mc "But we didn't catch the guy."
-    mc "But we didn't catch the guy."
+    mc "Ma non abbiamo preso il tipo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:111
 translate italian sm1cs_dc003_a741fc79:
 
     # dc "But that's the closest I've gotten to catching him! So it was progress."
-    dc "But that's the closest I've gotten to catching him! So it was progress."
+    dc "Ma è la volta che ci sono andata più vicina a prenderlo! Quindi è stato un progresso."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:114
 translate italian sm1cs_dc003_592bd442:
 
     # mc "Well I'm glad I was able to help."
-    mc "Well I'm glad I was able to help."
+    mc "Beh, sono contento di essere riuscito ad aiutare."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:116
 translate italian sm1cs_dc003_a1a351d1:
@@ -188,13 +188,13 @@ translate italian sm1cs_dc003_a1a351d1:
 translate italian sm1cs_dc003_62520e0a:
 
     # mc "So, Debbie! How long have you been the park cop?"
-    mc "So, Debbie! How long have you been the park cop?"
+    mc "Allora, Debbie! Da quanto tempo sei la poliziotta del parco?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:123
 translate italian sm1cs_dc003_768cd422:
 
     # dc "It's... Pretty new."
-    dc "It's... Pretty new."
+    dc "È... Abbastanza recente."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:125
 translate italian sm1cs_dc003_ee87e6f3:
@@ -206,73 +206,73 @@ translate italian sm1cs_dc003_ee87e6f3:
 translate italian sm1cs_dc003_dd1e30c7:
 
     # dc "Yeah. I just got transferred to Crowning from a small, coastal town and this is my first assignment with my new department."
-    dc "Yeah. I just got transferred to Crowning from a small, coastal town and this is my first assignment with my new department."
+    dc "Sì. Sono appena stata trasferita a Crowning da una piccola città costiera e questo è il mio primo incarico con il mio nuovo dipartimento."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:129
 translate italian sm1cs_dc003_66ff83b0:
 
     # mc "You just got transferred?"
-    mc "You just got transferred?"
+    mc "Sei appena stata trasferita?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:132
 translate italian sm1cs_dc003_6d1c993f:
 
     # dc "Uh huh. Being out on the coast was a treat, but I wanted to move closer to where I grew up. I just missed being close to home."
-    dc "Uh huh. Being out on the coast was a treat, but I wanted to move closer to where I grew up. I just missed being close to home."
+    dc "Uh huh. Stare sulla costa era bello, ma volevo trasferirmi più vicino a dove sono cresciuta. Mi mancava semplicemente stare vicino a casa."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:134
 translate italian sm1cs_dc003_31d2faef:
 
     # mc "Welcome back then!"
-    mc "Welcome back then!"
+    mc "Bentornata allora!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:135
 translate italian sm1cs_dc003_d7dc41b9:
 
     # dc "Thank you! It's nice to be here."
-    dc "Thank you! It's nice to be here."
+    dc "Grazie! È bello essere qui."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:138
 translate italian sm1cs_dc003_43973e1b:
 
     # mc "Where'd you grow up?"
-    mc "Where'd you grow up?"
+    mc "Dove sei cresciuta?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:141
 translate italian sm1cs_dc003_f3634b9b:
 
     # dc "Maybe an hour outside of Crowning. Small, little town you've probably never heard of."
-    dc "Maybe an hour outside of Crowning. Small, little town you've probably never heard of."
+    dc "Forse un'ora fuori Crowning. Piccola cittadina di cui probabilmente non hai mai sentito parlare."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:145
 translate italian sm1cs_dc003_6fc14c2e:
 
     # mc "Why move here instead of there?"
-    mc "Why move here instead of there?"
+    mc "Perché trasferirti qui invece che lì?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:148
 translate italian sm1cs_dc003_9987882e:
 
     # dc "Where I grew up, there isn't a lot of crime... It's just the same group of guys getting arrested for the same thing over, and over. I wanted to live somewhere where I could make a difference."
-    dc "Where I grew up, there isn't a lot of crime... It's just the same group of guys getting arrested for the same thing over, and over. I wanted to live somewhere where I could make a difference."
+    dc "Dove sono cresciuta, non c'è molta criminalità... È solo lo stesso gruppo di ragazzi che viene arrestato per la stessa cosa ancora e ancora. Volevo vivere da qualche parte dove potessi fare la differenza."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:152
 translate italian sm1cs_dc003_9cbbe7f5:
 
     # mc "Being a cop is really important to you, isn't it?"
-    mc "Being a cop is really important to you, isn't it?"
+    mc "Fare la poliziotta è davvero importante per te, vero?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:154
 translate italian sm1cs_dc003_03b9de5a:
 
     # dc "It is."
-    dc "It is."
+    dc "Lo è."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:155
 translate italian sm1cs_dc003_06948cb5:
 
     # mc "Can I ask why you wanted to be a cop?"
-    mc "Can I ask why you wanted to be a cop?"
+    mc "Posso chiederti perché volevi fare la poliziotta?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:156
 translate italian sm1cs_dc003_871b9b08:
@@ -284,19 +284,19 @@ translate italian sm1cs_dc003_871b9b08:
 translate italian sm1cs_dc003_a318842d:
 
     # dc "It's not the happiest of tales."
-    dc "It's not the happiest of tales."
+    dc "Non è la storia più felice."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:162
 translate italian sm1cs_dc003_8a18210e:
 
     # mc "That's okay! Life isn't always super happy, you know?"
-    mc "That's okay! Life isn't always super happy, you know?"
+    mc "Va bene! La vita non è sempre super felice, sai?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:165
 translate italian sm1cs_dc003_a2699ffc:
 
     # dc "Okay, well... When I was growing up, there was an old sheriff who worked in our town."
-    dc "Okay, well... When I was growing up, there was an old sheriff who worked in our town."
+    dc "Okay, beh... Quando stavo crescendo, c'era un vecchio sceriffo che lavorava nella nostra città."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:166
 translate italian sm1cs_dc003_bb8babe2:
