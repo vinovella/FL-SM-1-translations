@@ -188,13 +188,13 @@ translate italian sm1cs_dc_renovation_7bc8da4c:
 translate italian sm1cs_dc_renovation_0cad315b:
 
     # dc "Do you mind if I take a look?"
-    dc "Do you mind if I take a look?"
+    dc "Ti dispiace se do un'occhiata?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:142
 translate italian sm1cs_dc_renovation_faed8d95:
 
     # mc "Please."
-    mc "Please."
+    mc "Prego."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:146
 translate italian sm1cs_dc_renovation_217a8187:
@@ -206,19 +206,19 @@ translate italian sm1cs_dc_renovation_217a8187:
 translate italian sm1cs_dc_renovation_4a07df0e:
 
     # mc "Do you see something?"
-    mc "Do you see something?"
+    mc "Vedi qualcosa?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:152
 translate italian sm1cs_dc_renovation_63422d5f:
 
     # dc "Maybe...{w} have you got a screwdriver?"
-    dc "Maybe...{w} have you got a screwdriver?"
+    dc "Forse...{w} hai un cacciavite?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:155
 translate italian sm1cs_dc_renovation_8390bb7b:
 
     # mc "Somewhere around here, yeah."
-    mc "Somewhere around here, yeah."
+    mc "Da qualche parte qui intorno, sì."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:162
 translate italian sm1cs_dc_renovation_7a7f7d2b_1:
@@ -230,139 +230,139 @@ translate italian sm1cs_dc_renovation_7a7f7d2b_1:
 translate italian sm1cs_dc_renovation_68cd5756:
 
     # dc "I'll just give that a little jiggle... and tighten that... and..."
-    dc "I'll just give that a little jiggle... and tighten that... and..."
+    dc "Darò solo una piccola scossa... e stringerò quello... e..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:178
 translate italian sm1cs_dc_renovation_7ee3ace8:
 
     # mc "Oh my God! You did it! How!?"
-    mc "Oh my God! You did it! How!?"
+    mc "Oh mio Dio! Ce l'hai fatta! Come!?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:181
 translate italian sm1cs_dc_renovation_41f5cc63:
 
     # dc "Oh, it was a silly problem."
-    dc "Oh, it was a silly problem."
+    dc "Oh, era un problema stupido."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:185
 translate italian sm1cs_dc_renovation_f7c21acd:
 
     # dc "The way this switch is wired has a ground wire that was all tangled up."
-    dc "The way this switch is wired has a ground wire that was all tangled up."
+    dc "Il modo in cui questo interruttore è cablato ha un filo di messa a terra che era tutto aggrovigliato."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:186
 translate italian sm1cs_dc_renovation_51e4b1d1:
 
     # dc "And one of your connections was loose. You had it like 90 percent of the way there."
-    dc "And one of your connections was loose. You had it like 90 percent of the way there."
+    dc "E uno dei tuoi collegamenti era allentato. Ce l'avevi quasi fatta al 90 percento."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:189
 translate italian sm1cs_dc_renovation_a1c774a3:
 
     # mc "Really? That was it?"
-    mc "Really? That was it?"
+    mc "Davvero? Era quello?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:193
 translate italian sm1cs_dc_renovation_21622144:
 
     # dc "Yep, that was it. I think you just spent too long staring into that little hole."
-    dc "Yep, that was it. I think you just spent too long staring into that little hole."
+    dc "Sì, era quello. Penso che tu abbia solo passato troppo tempo a fissare quel piccolo buco."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:194
 translate italian sm1cs_dc_renovation_7497e470:
 
     # dc "Tunnel vision gets even the-"
-    dc "Tunnel vision gets even the-"
+    dc "La visione a tunnel prende anche i-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:198
 translate italian sm1cs_dc_renovation_43182693:
 
     # dc "Oh my God..."
-    dc "Oh my God..."
+    dc "Oh mio Dio..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:201
 translate italian sm1cs_dc_renovation_a47a9c1f:
 
     # mc "What? Are you okay?"
-    mc "What? Are you okay?"
+    mc "Cosa? Stai bene?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:204
 translate italian sm1cs_dc_renovation_7a6af41c:
 
     # dc "I, erm..."
-    dc "I, erm..."
+    dc "Io, ehm..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:206
 translate italian sm1cs_dc_renovation_e628426c:
 
     # mc "Debbie, you can tell me."
-    mc "Debbie, you can tell me."
+    mc "Debbie, puoi dirmelo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:207
 translate italian sm1cs_dc_renovation_72d62a83:
 
     # dc "I just heard what I said and... it sounds like such an innuendo."
-    dc "I just heard what I said and... it sounds like such an innuendo."
+    dc "Ho appena sentito quello che ho detto e... sembra un'allusione."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:210
 translate italian sm1cs_dc_renovation_f0805b8e:
 
     # mc "That wasn't what I was thinking, but now that you've said it..."
-    mc "That wasn't what I was thinking, but now that you've said it..."
+    mc "Non era quello a cui stavo pensando, ma ora che l'hai detto..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:211
 translate italian sm1cs_dc_renovation_abf0c108:
 
     # mc "I think I get tunnel vision every time I stare into a little hole!"
-    mc "I think I get tunnel vision every time I stare into a little hole!"
+    mc "Penso di avere la visione a tunnel ogni volta che fisso un piccolo buco!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:214
 translate italian sm1cs_dc_renovation_07ab98c5:
 
     # dc "Ha, ha. Very funny, [mcname]."
-    dc "Ha, ha. Very funny, [mcname]."
+    dc "Ha, ha. Molto divertente, [mcname]."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:220
 translate italian sm1cs_dc_renovation_e7efd5e7:
 
     # mc "Oh shit! I haven't offered you water or anything! You must have world up a thirst."
-    mc "Oh shit! I haven't offered you water or anything! You must have world up a thirst."
+    mc "Oh merda! Non ti ho offerto acqua o altro! Devi avere messo su una sete."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:223
 translate italian sm1cs_dc_renovation_892af79d:
 
     # dc "Water actually sounds really nice right now."
-    dc "Water actually sounds really nice right now."
+    dc "L'acqua in realtà suona davvero bene in questo momento."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:228
 translate italian sm1cs_dc_renovation_57e0c03b:
 
     # dc "Man... your apartment is so big!"
-    dc "Man... your apartment is so big!"
+    dc "Cavolo... il tuo appartamento è così grande!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:231
 translate italian sm1cs_dc_renovation_b3189473:
 
     # mc "Well, part of that is also because we plan to film here."
-    mc "Well, part of that is also because we plan to film here."
+    mc "Beh, parte di questo è anche perché abbiamo intenzione di filmare qui."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:234
 translate italian sm1cs_dc_renovation_78e20b2f:
 
     # dc "I remember you saying that. I just thought it might be, I don't know... smaller. And that there wouldn't be so many bedrooms."
-    dc "I remember you saying that. I just thought it might be, I don't know... smaller. And that there wouldn't be so many bedrooms."
+    dc "Ricordo che l'hai detto. Pensavo solo che potesse essere, non so... più piccolo. E che non ci sarebbero state così tante camere da letto."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:239
 translate italian sm1cs_dc_renovation_dade2980:
 
     # mc "Yep! I figure if I can live at where I work, I can save some money on rent."
-    mc "Yep! I figure if I can live at where I work, I can save some money on rent."
+    mc "Sì! Immagino che se posso vivere dove lavoro, posso risparmiare un po' di soldi sull'affitto."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:242
 translate italian sm1cs_dc_renovation_496c0cfe:
 
     # dc "That's pretty smart."
-    dc "That's pretty smart."
+    dc "È piuttosto intelligente."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:245
 translate italian sm1cs_dc_renovation_92b4e2df:
