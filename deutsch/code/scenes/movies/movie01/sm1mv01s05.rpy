@@ -860,7 +860,7 @@ translate deutsch sm1mv01s05_start_shoot_4d67f2a1:
 translate deutsch sm1mv01s05_start_shoot_39d849c6:
 
     # tl "*sucking lewdly*"
-    tl "*lüsternes Saugen*"
+    tl "*lüsternes blasen*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:626
 translate deutsch sm1mv01s05_start_shoot_50cf7550:
@@ -1040,7 +1040,7 @@ translate deutsch sm1mv01s05_start_shoot_4338fb9e:
 translate deutsch sm1mv01s05_start_shoot_76a8ee8c:
 
     # mc "Maybe closer than I'd like."
-    mc "Vielleicht näher, als mir lieb ist."
+    mc "Vielleicht doch mehr, als es mir lieb ist."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:733
 translate deutsch sm1mv01s05_start_shoot_a02722c0:
@@ -1058,7 +1058,7 @@ translate deutsch sm1mv01s05_start_shoot_e256c479:
 translate deutsch sm1mv01s05_start_shoot_2ef13c70:
 
     # tl "It feels bigger inside."
-    tl "Innen fühlt er sich größer an."
+    tl "Innen fühlt er sich viel größer an."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:745
 translate deutsch sm1mv01s05_start_shoot_47052f55:
@@ -1094,7 +1094,7 @@ translate deutsch sm1mv01s05_start_shoot_d17c0549:
 translate deutsch sm1mv01s05_start_shoot_1b5c5dc5:
 
     # tl "But I'm not some virgin from a tobacco farm."
-    tl "But I'm not some virgin from a tobacco farm."
+    tl "Aber ich bin keine Jungfrau von einer Tabakfarm."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:759
 translate deutsch sm1mv01s05_start_shoot_7ca85874:
@@ -1256,7 +1256,7 @@ translate deutsch sm1mv01s05_start_shoot_cdb5f6e5:
 translate deutsch sm1mv01s05_start_shoot_ea9a0719:
 
     # tl "Take care, Captain."
-    tl "Passen auf, Kapitän."
+    tl "Pass mal auf, Kapitän."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:844
 translate deutsch sm1mv01s05_start_shoot_ffa3b1f6:
