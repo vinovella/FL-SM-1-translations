@@ -2,19 +2,19 @@
 translate italian sm1cs_dc_renovation_b8cfd8d1:
 
     # "*Knock, knock*"
-    "*Knock, knock*"
+    "*Toc, toc*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:18
 translate italian sm1cs_dc_renovation_be7d532d:
 
     # mct "That must be Debbie!"
-    mct "That must be Debbie!"
+    mct "Deve essere Debbie!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:22
 translate italian sm1cs_dc_renovation_7daa0cc7:
 
     # mc "Coming!"
-    mc "Coming!"
+    mc "Arrivo!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:26
 translate italian sm1cs_dc_renovation_16b05ad9:
@@ -26,109 +26,109 @@ translate italian sm1cs_dc_renovation_16b05ad9:
 translate italian sm1cs_dc_renovation_3c0c267e:
 
     # dc "Yes?"
-    dc "Yes?"
+    dc "Sì?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:34
 translate italian sm1cs_dc_renovation_85cfe7c6:
 
     # dc "What, is something wrong?"
-    dc "What, is something wrong?"
+    dc "Cosa, c'è qualcosa che non va?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:39
 translate italian sm1cs_dc_renovation_5c8bfeef:
 
     # mc "Uhm, no! I'm just realizing I've never seen you out of uniform before."
-    mc "Uhm, no! I'm just realizing I've never seen you out of uniform before."
+    mc "Ehm, no! Mi sto solo rendendo conto che non ti ho mai vista fuori dall'uniforme prima d'ora."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:41
 translate italian sm1cs_dc_renovation_9f993911:
 
     # mc "Uhm, no! I just forget what you look like without your cop hat."
-    mc "Uhm, no! I just forget what you look like without your cop hat."
+    mc "Ehm, no! Dimentico solo come sei senza il cappello da poliziotta."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:47
 translate italian sm1cs_dc_renovation_8ed9c4f4:
 
     # dc "What, did you think the only outfit I had was my work uniform?"
-    dc "What, did you think the only outfit I had was my work uniform?"
+    dc "Cosa, pensavi che l'unico vestito che avevo fosse la mia uniforme da lavoro?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:50
 translate italian sm1cs_dc_renovation_7136c946:
 
     # mc "I mean..."
-    mc "I mean..."
+    mc "Cioè..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:53
 translate italian sm1cs_dc_renovation_ce2cf84c:
 
     # dc "Oh stop it, you!"
-    dc "Oh stop it, you!"
+    dc "Oh smettila, tu!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:58
 translate italian sm1cs_dc_renovation_29ead0f5:
 
     # dc "Wow, this is a great place you've got here, [mcname]."
-    dc "Wow, this is a great place you've got here, [mcname]."
+    dc "Wow, questo è un bel posto che hai qui, [mcname]."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:61
 translate italian sm1cs_dc_renovation_da374159:
 
     # mc "Thanks, I have a killer real estate agent who found it for me!"
-    mc "Thanks, I have a killer real estate agent who found it for me!"
+    mc "Grazie, ho un agente immobiliare fantastico che l'ha trovato per me!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:64
 translate italian sm1cs_dc_renovation_b630e691:
 
     # dc "I'll have to get their number if I ever decide to move. The guy who rented me my apartment was..."
-    dc "I'll have to get their number if I ever decide to move. The guy who rented me my apartment was..."
+    dc "Dovrò prendere il loro numero se mai decido di traslocare. Il tipo che mi ha affittato l'appartamento era..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:67
 translate italian sm1cs_dc_renovation_c521a2d5:
 
     # dc "Well, let's just say that if I had any other option for a place to live, I would've taken it."
-    dc "Well, let's just say that if I had any other option for a place to live, I would've taken it."
+    dc "Beh, diciamo solo che se avessi avuto un'altra opzione per un posto dove vivere, l'avrei presa."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:68
 translate italian sm1cs_dc_renovation_825fb96f:
 
     # dc "But enough about my troubles! I'm here to help you!"
-    dc "But enough about my troubles! I'm here to help you!"
+    dc "Ma basta con i miei problemi! Sono qui per aiutarti!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:69
 translate italian sm1cs_dc_renovation_d62d9525:
 
     # dc "So what still needs to be done?"
-    dc "So what still needs to be done?"
+    dc "Quindi cosa deve ancora essere fatto?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:72
 translate italian sm1cs_dc_renovation_99a6d8ec:
 
     # mc "Let's see... I think some of the uhm... 2 by 4s in the walls need reinforcing. I know we're going to hang lots of photos."
-    mc "Let's see... I think some of the uhm... 2 by 4s in the walls need reinforcing. I know we're going to hang lots of photos."
+    mc "Vediamo... Penso che alcuni dei ehm... montanti da 2x4 nelle pareti abbiano bisogno di rinforzi. So che appenderemo un sacco di foto."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:73
 translate italian sm1cs_dc_renovation_3d449cfe:
 
     # mc "And there's been this weird problem with the lights I can't fix today."
-    mc "And there's been this weird problem with the lights I can't fix today."
+    mc "E c'è stato questo strano problema con le luci che non riesco a risolvere oggi."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:76
 translate italian sm1cs_dc_renovation_e30086de:
 
     # dc "Well why don't I get a hammer and I can start with the walls?"
-    dc "Well why don't I get a hammer and I can start with the walls?"
+    dc "Beh, perché non prendo un martello e comincio con le pareti?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:79
 translate italian sm1cs_dc_renovation_4954dfd6:
 
     # mc "That sounds great!"
-    mc "That sounds great!"
+    mc "Sembra fantastico!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:83
 translate italian sm1cs_dc_renovation_d24bc72b:
 
     # mc "Let's see..."
-    mc "Let's see..."
+    mc "Vediamo..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:87
 translate italian sm1cs_dc_renovation_7a7f7d2b:
@@ -140,13 +140,13 @@ translate italian sm1cs_dc_renovation_7a7f7d2b:
 translate italian sm1cs_dc_renovation_9bdd3f10:
 
     # dc "Thanks, [mcname]!"
-    dc "Thanks, [mcname]!"
+    dc "Grazie, [mcname]!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:117
 translate italian sm1cs_dc_renovation_ac21ba5c:
 
     # dc "Wow, you weren't kidding about how much work this place needed!"
-    dc "Wow, you weren't kidding about how much work this place needed!"
+    dc "Wow, non scherzavi su quanto lavoro servisse per questo posto!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:120
 translate italian sm1cs_dc_renovation_69c25b65:
