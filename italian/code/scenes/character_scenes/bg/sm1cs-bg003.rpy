@@ -2,73 +2,73 @@
 translate italian sm1cs_bg003_52204566:
 
     # kv "Yeah? What?"
-    kv "Yeah? What?"
+    kv "Sì? Cosa?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:36
 translate italian sm1cs_bg003_82e39ed5:
 
     # bg "You haven't shown [mcname] the photos yet?"
-    bg "You haven't shown [mcname] the photos yet?"
+    bg "Non hai ancora mostrato le foto a [mcname]?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:39
 translate italian sm1cs_bg003_7ba6c240:
 
     # kv "I, like, just finished them."
-    kv "I, like, just finished them."
+    kv "Le ho appena finite."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:42
 translate italian sm1cs_bg003_393c06ec:
 
     # bg "Come on! We have to show him!"
-    bg "Come on! We have to show him!"
+    bg "Dai! Dobbiamo mostrarglieLe!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:45
 translate italian sm1cs_bg003_5b68d6dc:
 
     # kv "All right, don't get your panties in a twist, Amore."
-    kv "All right, don't get your panties in a twist, Amore."
+    kv "Va bene, non ti agitare, Amore."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:48
 translate italian sm1cs_bg003_919c6f8e:
 
     # bg "What! I'm just excited!"
-    bg "What! I'm just excited!"
+    bg "Cosa! Sono solo eccitata!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:52
 translate italian sm1cs_bg003_6ac54f32:
 
     # bg "I think they turned out so good."
-    bg "I think they turned out so good."
+    bg "Penso che siano venute davvero bene."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:55
 translate italian sm1cs_bg003_68fa01f7:
 
     # mc "I can tell."
-    mc "I can tell."
+    mc "Me ne sono accorto."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:58
 translate italian sm1cs_bg003_5ae7cf70:
 
     # mc "And there's nothing wrong with that! I have to say I'm pretty excited to see them."
-    mc "And there's nothing wrong with that! I have to say I'm pretty excited to see them."
+    mc "E non c'è niente di male! Devo dire che sono abbastanza emozionato di vederle."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:61
 translate italian sm1cs_bg003_2f768388:
 
     # bg "Oh yeah?"
-    bg "Oh yeah?"
+    bg "Oh sì?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:64
 translate italian sm1cs_bg003_a2271655:
 
     # mc "Yeah! Are you kidding me? I bet they look super hot."
-    mc "Yeah! Are you kidding me? I bet they look super hot."
+    mc "Sì! Stai scherzando? Scommetto che sono caldissime."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:68
 translate italian sm1cs_bg003_96f60271:
 
     # kv "Well, you can see for yourself."
-    kv "Well, you can see for yourself."
+    kv "Beh, puoi vedere da solo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:72
 translate italian sm1cs_bg003_2c9a23fd:
@@ -80,133 +80,133 @@ translate italian sm1cs_bg003_2c9a23fd:
 translate italian sm1cs_bg003_9c34c041:
 
     # bg "Right!?"
-    bg "Right!?"
+    bg "Vero!?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:79
 translate italian sm1cs_bg003_8019b235:
 
     # mc "Those are..."
-    mc "Those are..."
+    mc "Queste sono..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:83
 translate italian sm1cs_bg003_65534fec:
 
     # mc "Holy shit."
-    mc "Holy shit."
+    mc "Santo cielo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:87
 translate italian sm1cs_bg003_f3fa90f9:
 
     # mc "Those are {i}super{/i} hot."
-    mc "Those are {i}super{/i} hot."
+    mc "Sono {i}super{/i} calde."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:89
 translate italian sm1cs_bg003_05c024ee:
 
     # bg "And that's not even my favorite one!"
-    bg "And that's not even my favorite one!"
+    bg "E quella non è nemmeno la mia preferita!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:91
 translate italian sm1cs_bg003_1428c0cb:
 
     # kv "Mine neither."
-    kv "Mine neither."
+    kv "Nemmeno la mia."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:95
 translate italian sm1cs_bg003_6f7039ce:
 
     # mc "Goddamn..."
-    mc "Goddamn..."
+    mc "Diamine..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:99
 translate italian sm1cs_bg003_9a775dd8:
 
     # bg "Uh huh. We nailed this shoot."
-    bg "Uh huh. We nailed this shoot."
+    bg "Uh huh. Abbiamo fatto un lavoro fantastico."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:103
 translate italian sm1cs_bg003_8b9e0f13:
 
     # kv "You both really did. But..."
-    kv "You both really did. But..."
+    kv "L'avete fatto davvero entrambi. Ma..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:107
 translate italian sm1cs_bg003_33b5787c:
 
     # kv "This one is probably my favorite."
-    kv "This one is probably my favorite."
+    kv "Questa è probabilmente la mia preferita."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:109
 translate italian sm1cs_bg003_ec288f63:
 
     # bg "Same."
-    bg "Same."
+    bg "Anche per me."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:116
 translate italian sm1cs_bg003_0f592884:
 
     # mc "Kanya... these are incredible."
-    mc "Kanya... these are incredible."
+    mc "Kanya... sono incredibili."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:120
 translate italian sm1cs_bg003_6581fe71:
 
     # kv "I know."
-    kv "I know."
+    kv "Lo so."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:123
 translate italian sm1cs_bg003_aae8ce7b:
 
     # mc "Seriously... you did an incredible job."
-    mc "Seriously... you did an incredible job."
+    mc "Davvero... hai fatto un lavoro incredibile."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:126
 translate italian sm1cs_bg003_9b2fe9cd:
 
     # kv "Hey, a photographer can only achieve greatness if her models are great. And you two showed some real chemistry."
-    kv "Hey, a photographer can only achieve greatness if her models are great. And you two showed some real chemistry."
+    kv "Ehi, una fotografa può raggiungere la grandezza solo se i suoi modelli sono fantastici. E voi due avete mostrato una vera chimica."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:129
 translate italian sm1cs_bg003_10dee4ef:
 
     # mc "You think so?"
-    mc "You think so?"
+    mc "Pensi davvero?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:132
 translate italian sm1cs_bg003_7ddb5465:
 
     # kv "I don't need to \"think\". I have evidence."
-    kv "I don't need to \"think\". I have evidence."
+    kv "Non ho bisogno di \"pensare\". Ho le prove."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:135
 translate italian sm1cs_bg003_32e8f3be:
 
     # bg "Yeah..."
-    bg "Yeah..."
+    bg "Sì..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:138
 translate italian sm1cs_bg003_c990d200:
 
     # kv "Come on, out with it."
-    kv "Come on, out with it."
+    kv "Dai, sputalo fuori."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:141
 translate italian sm1cs_bg003_976bc655:
 
     # mc "Out with what?"
-    mc "Out with what?"
+    mc "Sputare cosa?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:144
 translate italian sm1cs_bg003_c32d2745:
 
     # kv "Our little resident freak has something she wants to ask you."
-    kv "Our little resident freak has something she wants to ask you."
+    kv "La nostra piccola maniaca ha qualcosa che vuole chiederti."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:148
 translate italian sm1cs_bg003_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "Oh yeah?"
+    mc "Oh sì?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:152
 translate italian sm1cs_bg003_5133eb8d:
@@ -218,7 +218,7 @@ translate italian sm1cs_bg003_5133eb8d:
 translate italian sm1cs_bg003_aba048b6:
 
     # bg "I was wondering if you wanted to do another shoot..."
-    bg "I was wondering if you wanted to do another shoot..."
+    bg "Mi chiedevo se volessi fare un altro servizio fotografico..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:156
 translate italian sm1cs_bg003_a31340dd:
@@ -230,37 +230,37 @@ translate italian sm1cs_bg003_a31340dd:
 translate italian sm1cs_bg003_84e7214e:
 
     # bg "The last one was... it was incredible."
-    bg "The last one was... it was incredible."
+    bg "L'ultimo è stato... è stato incredibile."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:160
 translate italian sm1cs_bg003_d8a22422:
 
     # bg "I've never felt so... hot. And I want to do it again."
-    bg "I've never felt so... hot. And I want to do it again."
+    bg "Non mi sono mai sentita così... eccitata. E voglio rifarlo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:163
 translate italian sm1cs_bg003_0a5d48af:
 
     # mc "Okay! Yeah, I'd love to!"
-    mc "Okay! Yeah, I'd love to!"
+    mc "Ok! Sì, mi piacerebbe!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:166
 translate italian sm1cs_bg003_a68a6f0a:
 
     # bg "Awesome!"
-    bg "Awesome!"
+    bg "Fantastico!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:171
 translate italian sm1cs_bg003_793ce495:
 
     # kv "Let me grab my camera and we can get going!"
-    kv "Let me grab my camera and we can get going!"
+    kv "Lasciami prendere la mia macchina fotografica e possiamo partire!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:172
 translate italian sm1cs_bg003_d1760465:
 
     # kv "But you and Amore need to change, [mcname]."
-    kv "But you and Amore need to change, [mcname]."
+    kv "Ma tu e Amore dovete cambiarvi, [mcname]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:175
 translate italian sm1cs_bg003_05500ff6:
@@ -272,85 +272,85 @@ translate italian sm1cs_bg003_05500ff6:
 translate italian sm1cs_bg003_9eee8403:
 
     # kv "You've got an outfit to put on."
-    kv "You've got an outfit to put on."
+    kv "Hai un vestito da indossare."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:181
 translate italian sm1cs_bg003_533d0c5a:
 
     # mc "Oh. Really?"
-    mc "Oh. Really?"
+    mc "Oh. Davvero?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:185
 translate italian sm1cs_bg003_88abde0a:
 
     # kv "Yeah, Mr. Model! Time to strut your stuff!"
-    kv "Yeah, Mr. Model! Time to strut your stuff!"
+    kv "Sì, signor Modello! È ora di mostrare il tuo talento!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:189
 translate italian sm1cs_bg003_8b676205:
 
     # mct "I wonder what these two have in store for me..."
-    mct "I wonder what these two have in store for me..."
+    mct "Mi chiedo cosa hanno in serbo per me queste due..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:190
 translate italian sm1cs_bg003_64195d54:
 
     # mct "Only one way to find out."
-    mct "Only one way to find out."
+    mct "C'è solo un modo per scoprirlo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:201
 translate italian sm1cs_bg003_483af540:
 
     # kv "Owww, owwwww! Look at you!"
-    kv "Owww, owwwww! Look at you!"
+    kv "Owww, owwwww! Guardati!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:204
 translate italian sm1cs_bg003_dd9f73a2:
 
     # mc "Thanks, Kanya."
-    mc "Thanks, Kanya."
+    mc "Grazie, Kanya."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:207
 translate italian sm1cs_bg003_37bd442d:
 
     # kv "How's it fit?"
-    kv "How's it fit?"
+    kv "Come ti sta?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:211
 translate italian sm1cs_bg003_8ecf4032:
 
     # mc "Shockingly well, actually."
-    mc "Shockingly well, actually."
+    mc "Sorprendentemente bene, in realtà."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:213
 translate italian sm1cs_bg003_4c556266:
 
     # kv "I had to guess your measurements a bit."
-    kv "I had to guess your measurements a bit."
+    kv "Ho dovuto indovinare un po' le tue misure."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:218
 translate italian sm1cs_bg003_c1477d1c:
 
     # kv "What?"
-    kv "What?"
+    kv "Cosa?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:221
 translate italian sm1cs_bg003_59586eab:
 
     # mc "I'm just looking for Amore. If this is my outfit, I wonder what she's going to be wearing."
-    mc "I'm just looking for Amore. If this is my outfit, I wonder what she's going to be wearing."
+    mc "Sto solo cercando Amore. Se questo è il mio vestito, mi chiedo cosa indosserà lei."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:224
 translate italian sm1cs_bg003_f9f6d460:
 
     # kv "Oh, I think you're going to {i}love{/i} it."
-    kv "Oh, I think you're going to {i}love{/i} it."
+    kv "Oh, penso che ti {i}piacerà{/i}."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:227
 translate italian sm1cs_bg003_079d9163:
 
     # kv "And it doesn't look like you'll have to wait long to find out!"
-    kv "And it doesn't look like you'll have to wait long to find out!"
+    kv "E non sembra che dovrai aspettare molto per scoprirlo!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:238
 translate italian sm1cs_bg003_bg_appears_c1dff962:
@@ -362,7 +362,7 @@ translate italian sm1cs_bg003_bg_appears_c1dff962:
 translate italian sm1cs_bg003_bg_appears_cfabc754:
 
     # kv "I told you, you'd like it."
-    kv "I told you, you'd like it."
+    kv "Te l'avevo detto che ti sarebbe piaciuto."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:247
 translate italian sm1cs_bg003_bg_appears_3d172642:
@@ -374,43 +374,43 @@ translate italian sm1cs_bg003_bg_appears_3d172642:
 translate italian sm1cs_bg003_bg_appears_13ca77b7:
 
     # bg "I just wanted to... spice things up."
-    bg "I just wanted to... spice things up."
+    bg "Volevo solo... rendere le cose più piccanti."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:253
 translate italian sm1cs_bg003_bg_appears_d3dee951:
 
     # mc "I like it."
-    mc "I like it."
+    mc "Mi piace."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:256
 translate italian sm1cs_bg003_bg_appears_f2225d41:
 
     # bg "Yeah?"
-    bg "Yeah?"
+    bg "Sì?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:259
 translate italian sm1cs_bg003_bg_appears_27aa61c7:
 
     # mc "Yeah. You look fucking great!"
-    mc "Yeah. You look fucking great!"
+    mc "Sì. Sei fantastica!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:262
 translate italian sm1cs_bg003_bg_appears_d2c73f26:
 
     # bg "Thanks. You clean up nicely too."
-    bg "Thanks. You clean up nicely too."
+    bg "Grazie. Anche tu sei molto elegante."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:265
 translate italian sm1cs_bg003_bg_appears_2948c0ba:
 
     # mc "Oh yeah? Should I wear suits more often?"
-    mc "Oh yeah? Should I wear suits more often?"
+    mc "Oh sì? Dovrei indossare completi più spesso?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:268
 translate italian sm1cs_bg003_bg_appears_4c1c09bd:
 
     # mc "An international man of intrigue."
-    mc "An international man of intrigue."
+    mc "Un uomo internazionale di intrigo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:271
 translate italian sm1cs_bg003_bg_appears_965ed3d9:
@@ -422,37 +422,37 @@ translate italian sm1cs_bg003_bg_appears_965ed3d9:
 translate italian sm1cs_bg003_bg_appears_1cf705e5:
 
     # kv "All right, knock it off. We have a photoshoot to do!"
-    kv "All right, knock it off. We have a photoshoot to do!"
+    kv "Va bene, basta così. Abbiamo un servizio fotografico da fare!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:275
 translate italian sm1cs_bg003_bg_appears_06be102c:
 
     # kv "So first, [mcname] take a seat, and Amore lay across his lap."
-    kv "So first, [mcname] take a seat, and Amore lay across his lap."
+    kv "Allora prima, [mcname] siediti, e Amore sdraiati sulle sue ginocchia."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:278
 translate italian sm1cs_bg003_bg_appears_38b98486:
 
     # bg "Okay!"
-    bg "Okay!"
+    bg "Ok!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:282
 translate italian sm1cs_bg003_bg_appears_d0fab813:
 
     # kv "Now [mcname]... put one hand on her ass, and one around her throat."
-    kv "Now [mcname]... put one hand on her ass, and one around her throat."
+    kv "Ora [mcname]... metti una mano sul suo culo, e una intorno alla sua gola."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:286
 translate italian sm1cs_bg003_bg_appears_e1692be3:
 
     # mc "Like this?"
-    mc "Like this?"
+    mc "Così?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:289
 translate italian sm1cs_bg003_bg_appears_128e6051:
 
     # kv "Yeah... just like that. And Amore, arch your back...{w} a little more...{w} Perfect."
-    kv "Yeah... just like that. And Amore, arch your back...{w} a little more...{w} Perfect."
+    kv "Sì... proprio così. E Amore, inarca la schiena...{w} un po' di più...{w} Perfetto."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:294
 translate italian sm1cs_bg003_bg_appears_39decf51:
@@ -464,7 +464,7 @@ translate italian sm1cs_bg003_bg_appears_39decf51:
 translate italian sm1cs_bg003_bg_appears_e52e864a:
 
     # kv "Fuck yes..."
-    kv "Fuck yes..."
+    kv "Cazzo sì..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:301
 translate italian sm1cs_bg003_bg_appears_39decf51_1:
@@ -482,37 +482,37 @@ translate italian sm1cs_bg003_bg_appears_41f2a759:
 translate italian sm1cs_bg003_bg_appears_79f38256:
 
     # kv "If by good you mean \"incredibly hot\", then yes. It looks {i}fucking great!{/i}"
-    kv "If by good you mean \"incredibly hot\", then yes. It looks {i}fucking great!{/i}"
+    kv "Se per bene intendi \"incredibilmente caldo\", allora sì. Sembra {i}fottutamente fantastico!{/i}"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:311
 translate italian sm1cs_bg003_bg_appears_e53e671f:
 
     # mc "Awesome!"
-    mc "Awesome!"
+    mc "Fantastico!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:314
 translate italian sm1cs_bg003_bg_appears_396e5e51:
 
     # kv "Now, Amore... get on your knees, looking up at [mcname]. [mcname], stand up."
-    kv "Now, Amore... get on your knees, looking up at [mcname]. [mcname], stand up."
+    kv "Ora, Amore... mettiti in ginocchio, guardando [mcname]. [mcname], alzati."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:318
 translate italian sm1cs_bg003_bg_appears_4af52447:
 
     # bg "This a good position?"
-    bg "This a good position?"
+    bg "È una buona posizione?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:322
 translate italian sm1cs_bg003_bg_appears_c66ce8d8:
 
     # kv "That's perfect. And [mcname], take one finger, and put it under her chin. Make her look up at you."
-    kv "That's perfect. And [mcname], take one finger, and put it under her chin. Make her look up at you."
+    kv "È perfetto. E [mcname], prendi un dito, e mettilo sotto il suo mento. Falla guardare in alto verso di te."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:325
 translate italian sm1cs_bg003_bg_appears_d5c5b820:
 
     # kv "Hold that! Hold that! Perfect!"
-    kv "Hold that! Hold that! Perfect!"
+    kv "Tieni così! Tieni così! Perfetto!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:330
 translate italian sm1cs_bg003_bg_appears_39decf51_2:
@@ -524,7 +524,7 @@ translate italian sm1cs_bg003_bg_appears_39decf51_2:
 translate italian sm1cs_bg003_bg_appears_e4999db2:
 
     # kv "Fuuuuuuck!"
-    kv "Fuuuuuuck!"
+    kv "Cazzoooo!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:335
 translate italian sm1cs_bg003_bg_appears_61202cd7:
@@ -542,7 +542,7 @@ translate italian sm1cs_bg003_bg_appears_39decf51_3:
 translate italian sm1cs_bg003_bg_appears_5f641d29:
 
     # kv "You have no idea!"
-    kv "You have no idea!"
+    kv "Non ne hai idea!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:342
 translate italian sm1cs_bg003_bg_appears_39decf51_4:
@@ -566,7 +566,7 @@ translate italian sm1cs_bg003_bg_appears_05500ff6:
 translate italian sm1cs_bg003_bg_appears_bfe34787:
 
     # bg "Uh-nothing. Just... enjoying the shoot is all."
-    bg "Uh-nothing. Just... enjoying the shoot is all."
+    bg "Uh-niente. Solo... mi sto godendo il servizio fotografico."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:353
 translate italian sm1cs_bg003_bg_appears_39decf51_5:
@@ -578,7 +578,7 @@ translate italian sm1cs_bg003_bg_appears_39decf51_5:
 translate italian sm1cs_bg003_bg_appears_494508c5:
 
     # mc "Good!"
-    mc "Good!"
+    mc "Bene!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:359
 translate italian sm1cs_bg003_bg_appears_6445fd3c:
