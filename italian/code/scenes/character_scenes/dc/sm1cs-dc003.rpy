@@ -32,7 +32,7 @@ translate italian sm1cs_dc003_06eccbc2:
 translate italian sm1cs_dc003_e9721ff3:
 
     # mc "Thank you!"
-    mc "Thank you!"
+    mc "Grazie!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:41
 translate italian sm1cs_dc003_b88b5d2c:
