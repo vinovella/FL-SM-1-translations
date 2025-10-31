@@ -2,55 +2,55 @@
 translate italian sm1cs_bg001_ba263eeb:
 
     # mc "Oh, hey! Funny running into you here!"
-    mc "Oh, hey! Funny running into you here!"
+    mc "Oh, ehi! Che coincidenza incontrarti qui!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:27
 translate italian sm1cs_bg001_764cd629:
 
     # "BDSM Model" "Oh, shit - uhm, hey [mcname]. Uhhh, what's... Hi."
-    "BDSM Model" "Oh, shit - uhm, hey [mcname]. Uhhh, what's... Hi."
+    "BDSM Model" "Oh, merda - uhm, ehi [mcname]. Uhhh, cosa... Ciao."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:30
 translate italian sm1cs_bg001_dd35a703:
 
     # mc "I'm actually kind of happy I bumped into you."
-    mc "I'm actually kind of happy I bumped into you."
+    mc "In realtà sono piuttosto contento di averti incontrata."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:34
 translate italian sm1cs_bg001_03c6db78:
 
     # "BDSM Model" "Oh yeah?? Why's that?"
-    "BDSM Model" "Oh yeah?? Why's that?"
+    "BDSM Model" "Oh sì?? Come mai?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:37
 translate italian sm1cs_bg001_acbd2f1d:
 
     # mc "Well I've seen you around the studio a few times, and I've taken photos of you, but I don't actually know your name."
-    mc "Well I've seen you around the studio a few times, and I've taken photos of you, but I don't actually know your name."
+    mc "Beh, ti ho vista in giro per lo studio un paio di volte, e ti ho fotografata, ma non so effettivamente il tuo nome."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:40
 translate italian sm1cs_bg001_cbaada12:
 
     # "BDSM Model" "Oh... Really?"
-    "BDSM Model" "Oh... Really?"
+    "BDSM Model" "Oh... Davvero?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:43
 translate italian sm1cs_bg001_d86b865f:
 
     # mc "Yeah, and I don't want to call you 'Bondage Model' or some other ridiculous thing."
-    mc "Yeah, and I don't want to call you 'Bondage Model' or some other ridiculous thing."
+    mc "Sì, e non voglio chiamarti 'Modella Bondage' o qualche altra cosa ridicola."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:46
 translate italian sm1cs_bg001_4963a583:
 
     # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w}Amore"
-    "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w}Amore"
+    "BDSM Model" "Oh è... Un buon punto. Uhm, puoi chiamarmi...{w}Amore"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:49
 translate italian sm1cs_bg001_ca70cd59:
 
     # mc "Amore... That's a great name. I like it."
-    mc "Amore... That's a great name. I like it."
+    mc "Amore... È un nome bellissimo. Mi piace."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:52
 translate italian sm1cs_bg001_d5cb5cc4:
@@ -62,25 +62,25 @@ translate italian sm1cs_bg001_d5cb5cc4:
 translate italian sm1cs_bg001_c4ed4bc8:
 
     # mc "Yeah. I think it's superb honesty."
-    mc "Yeah. I think it's superb honesty."
+    mc "Sì. Penso che sia davvero perfetto, onestamente."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:58
 translate italian sm1cs_bg001_5185f35b:
 
     # bg "Wow... Thanks. I... I like it too."
-    bg "Wow... Thanks. I... I like it too."
+    bg "Wow... Grazie. Io... anche a me piace."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:61
 translate italian sm1cs_bg001_59f841c4:
 
     # mc "Can I ask... Is that your real name?"
-    mc "Can I ask... Is that your real name?"
+    mc "Posso chiedere... È il tuo vero nome?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:64
 translate italian sm1cs_bg001_698ad486:
 
     # bg "Uhm... It's not..."
-    bg "Uhm... It's not..."
+    bg "Uhm... Non lo è..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:67
 translate italian sm1cs_bg001_c1dff962:
@@ -92,103 +92,103 @@ translate italian sm1cs_bg001_c1dff962:
 translate italian sm1cs_bg001_42dd8ee1:
 
     # bg "Why do you sound disappointed?"
-    bg "Why do you sound disappointed?"
+    bg "Perché sembri deluso?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:73
 translate italian sm1cs_bg001_b681f612:
 
     # mc "Well I just wanted to know your name, I guess."
-    mc "Well I just wanted to know your name, I guess."
+    mc "Beh, volevo solo sapere il tuo nome, immagino."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:76
 translate italian sm1cs_bg001_098ab831:
 
     # bg "Well... There's a few reasons why I go by Amore when I'm dressed like this."
-    bg "Well... There's a few reasons why I go by Amore when I'm dressed like this."
+    bg "Beh... Ci sono alcune ragioni per cui mi faccio chiamare Amore quando sono vestita così."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:79
 translate italian sm1cs_bg001_f58d5745:
 
     # mc "Oh? Well I always like to learn new things."
-    mc "Oh? Well I always like to learn new things."
+    mc "Oh? Beh, mi piace sempre imparare cose nuove."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:82
 translate italian sm1cs_bg001_3060031e:
 
     # bg "Okay, well... First off, there's a lot of weird people out in the world, you know?"
-    bg "Okay, well... First off, there's a lot of weird people out in the world, you know?"
+    bg "Okay, beh... Prima di tutto, ci sono un sacco di persone strane là fuori nel mondo, sai?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:85
 translate italian sm1cs_bg001_e44371f3:
 
     # mc "Oh yeah, believe me... I know."
-    mc "Oh yeah, believe me... I know."
+    mc "Oh sì, credimi... lo so."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:88
 translate italian sm1cs_bg001_7bb0f939:
 
     # bg "I mean, just look at some of the stuff that happened with that Fetish Locator app, you know?"
-    bg "I mean, just look at some of the stuff that happened with that Fetish Locator app, you know?"
+    bg "Voglio dire, guarda solo alcune delle cose che sono successe con quell'app Fetish Locator, sai?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:90
 translate italian sm1cs_bg001_073f826d:
 
     # bg "Part of the problem was that, whomever was running it, was able to pair real names with fake names."
-    bg "Part of the problem was that, whomever was running it, was able to pair real names with fake names."
+    bg "Parte del problema era che, chiunque lo gestisse, era in grado di abbinare nomi veri a nomi falsi."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:93
 translate italian sm1cs_bg001_29cec40e:
 
     # mc "Yeah... I know all about that."
-    mc "Yeah... I know all about that."
+    mc "Sì... lo so tutto su questo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:96
 translate italian sm1cs_bg001_f549964d:
 
     # bg "Yeah, so it's kind of for my safety, but... There's also another reason."
-    bg "Yeah, so it's kind of for my safety, but... There's also another reason."
+    bg "Sì, quindi è una questione di sicurezza, ma... C'è anche un altro motivo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:99
 translate italian sm1cs_bg001_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "Qual è?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:102
 translate italian sm1cs_bg001_c97d0452:
 
     # bg "No one cared who I was, before I put on the mask."
-    bg "No one cared who I was, before I put on the mask."
+    bg "A nessuno importava chi fossi, prima che indossassi la maschera."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:108
 translate italian sm1cs_bg001_38c0abb9:
 
     # bg "But a little more seriously, who I am in my daily life... Isn't the woman sitting here right now, you know?"
-    bg "But a little more seriously, who I am in my daily life... Isn't the woman sitting here right now, you know?"
+    bg "Ma parlando più seriamente, chi sono nella mia vita quotidiana... Non è la donna seduta qui adesso, sai?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:111
 translate italian sm1cs_bg001_b70b8fdf:
 
     # mc "Yeah, I can kind of get that."
-    mc "Yeah, I can kind of get that."
+    mc "Sì, posso capirlo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:114
 translate italian sm1cs_bg001_68bbb3d6:
 
     # bg "Like, I'm not that type of chick to make jokes about superheroes, or to galavant my sexuality like I do here."
-    bg "Like, I'm not that type of chick to make jokes about superheroes, or to galavant my sexuality like I do here."
+    bg "Tipo, non sono quel tipo di ragazza che fa battute sui supereroi, o che ostenta la sua sessualità come faccio qui."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:115
 translate italian sm1cs_bg001_bb094906:
 
     # bg "But when I put on the mask... I become 'Amore'; sexually liberated, strong, powerful, sexy, cool..."
-    bg "But when I put on the mask... I become 'Amore'; sexually liberated, strong, powerful, sexy, cool..."
+    bg "Ma quando indosso la maschera... divento 'Amore'; sessualmente libera, forte, potente, sexy, cool..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:118
 translate italian sm1cs_bg001_fe84a8be:
 
     # mc "I mean, I can see it."
-    mc "I mean, I can see it."
+    mc "Voglio dire, posso vederlo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:121
 translate italian sm1cs_bg001_d5cb5cc4_1:
@@ -200,37 +200,37 @@ translate italian sm1cs_bg001_d5cb5cc4_1:
 translate italian sm1cs_bg001_c3151aea:
 
     # mc "Really really."
-    mc "Really really."
+    mc "Davvero davvero."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:127
 translate italian sm1cs_bg001_2392283f:
 
     # bg "Well, good! Because, yeah, that's the, uhm, point."
-    bg "Well, good! Because, yeah, that's the, uhm, point."
+    bg "Beh, bene! Perché, sì, questo è il, uhm, punto."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:130
 translate italian sm1cs_bg001_11ffd3fb:
 
     # mc "Thanks for telling me about this stuff. It's nice getting to know you more."
-    mc "Thanks for telling me about this stuff. It's nice getting to know you more."
+    mc "Grazie per avermi raccontato queste cose. È bello conoscerti meglio."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:133
 translate italian sm1cs_bg001_df91c315:
 
     # bg "I... I like this, too."
-    bg "I... I like this, too."
+    bg "Io... anche a me piace."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:136
 translate italian sm1cs_bg001_86d0177e:
 
     # mc "Can I ask you a few other things I've been curious about?{w} But if you just want to eat your lunch instead, I get it. I can come back late-"
-    mc "Can I ask you a few other things I've been curious about?{w} But if you just want to eat your lunch instead, I get it. I can come back late-"
+    mc "Posso chiederti qualche altra cosa su cui sono curioso?{w} Ma se vuoi solo mangiare il tuo pranzo, capisco. Posso tornare più tard-"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:139
 translate italian sm1cs_bg001_451649ac:
 
     # bg "No, no! Totally cool. Ask away."
-    bg "No, no! Totally cool. Ask away."
+    bg "No, no! Assolutamente. Chiedi pure."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:143
 translate italian sm1cs_bg001_3b0c1188:
