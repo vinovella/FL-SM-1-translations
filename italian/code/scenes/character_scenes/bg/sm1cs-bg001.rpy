@@ -236,37 +236,37 @@ translate italian sm1cs_bg001_451649ac:
 translate italian sm1cs_bg001_3b0c1188:
 
     # mc "I'm curious, what made you put on the mask at first?"
-    mc "I'm curious, what made you put on the mask at first?"
+    mc "Sono curioso, cosa ti ha spinto a indossare la maschera la prima volta?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:146
 translate italian sm1cs_bg001_962b5900:
 
     # bg "Well, a few years ago I was helping some family clean out the old house, and... Gah, this is a little embarrassing."
-    bg "Well, a few years ago I was helping some family clean out the old house, and... Gah, this is a little embarrassing."
+    bg "Beh, qualche anno fa stavo aiutando dei familiari a pulire la vecchia casa, e... Gah, è un po' imbarazzante."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:147
 translate italian sm1cs_bg001_7402d763:
 
     # bg "I ended up finding this, like, massive collection of porno mags from the 90s."
-    bg "I ended up finding this, like, massive collection of porno mags from the 90s."
+    bg "Ho finito per trovare questa, tipo, enorme collezione di riviste porno degli anni '90."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:150
 translate italian sm1cs_bg001_95a76729:
 
     # mct "Huh, that sounds strangely familiar... Stacy would love this."
-    mct "Huh, that sounds strangely familiar... Stacy would love this."
+    mct "Huh, suona stranamente familiare... Stacy adorerebbe."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:152
 translate italian sm1cs_bg001_df63ec51:
 
     # bg "But there were a few in there that were... All about leather and latex."
-    bg "But there were a few in there that were... All about leather and latex."
+    bg "Ma ce n'erano alcune lì dentro che erano... Tutte su pelle e lattice."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:155
 translate italian sm1cs_bg001_3f7d054e:
 
     # mc "What were they called?"
-    mc "What were they called?"
+    mc "Come si chiamavano?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:158
 translate italian sm1cs_bg001_1aa9d36b:
@@ -278,373 +278,373 @@ translate italian sm1cs_bg001_1aa9d36b:
 translate italian sm1cs_bg001_99a6dbdf:
 
     # mc "Makes sense."
-    mc "Makes sense."
+    mc "Ha senso."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:164
 translate italian sm1cs_bg001_5f819049:
 
     # bg "So I... Kind of took them home with me and perused at my leisure and... Well I was super into it. I loved the style, the vibe, the toys, being a submissive little good girl for a master one day, and..."
-    bg "So I... Kind of took them home with me and perused at my leisure and... Well I was super into it. I loved the style, the vibe, the toys, being a submissive little good girl for a master one day, and..."
+    bg "Quindi io... Le ho un po' portate a casa con me e le ho sfogliate con calma e... Beh, mi sono piaciute tantissimo. Amavo lo stile, l'atmosfera, i giocattoli, essere una brava ragazzina sottomessa per un padrone un giorno, e..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
 translate italian sm1cs_bg001_72bae85d:
 
     # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payements."
-    bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payements."
+    bg "Beh, diciamo solo che dopo una notte impegnativa, sono uscita e ho comprato il mio primo outfit. Stavo risparmiando per... non so. Quello che la vita ti dice di prendere. Un mutuo, o un prestito, o il pagamento del debito studentesco."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:168
 translate italian sm1cs_bg001_54691f60:
 
     # bg "Instead, I got into leather. And my first outfit... Made me feel powerful. I felt... I finally felt like a person I knew was buried deep down inside me."
-    bg "Instead, I got into leather. And my first outfit... Made me feel powerful. I felt... I finally felt like a person I knew was buried deep down inside me."
+    bg "Invece, mi sono dedicata alla pelle. E il mio primo outfit... Mi ha fatto sentire potente. Mi sono sentita... Finalmente mi sono sentita come una persona che sapevo fosse sepolta nel profondo di me."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:169
 translate italian sm1cs_bg001_39413c2b:
 
     # bg "That was the first time I became Amore."
-    bg "That was the first time I became Amore."
+    bg "Quella è stata la prima volta che sono diventata Amore."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:172
 translate italian sm1cs_bg001_fadc6562:
 
     # mc "Wow... Do you still have it?"
-    mc "Wow... Do you still have it?"
+    mc "Wow... Ce l'hai ancora?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:175
 translate italian sm1cs_bg001_858dcf7f:
 
     # bg "What, the nudie mags? Yeah, they're in the bottom of my closet."
-    bg "What, the nudie mags? Yeah, they're in the bottom of my closet."
+    bg "Cosa, le riviste osé? Sì, sono in fondo al mio armadio."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:178
 translate italian sm1cs_bg001_b3c6112f:
 
     # mc "No, not the magazines - the first outfit."
-    mc "No, not the magazines - the first outfit."
+    mc "No, non le riviste - il primo outfit."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:181
 translate italian sm1cs_bg001_473f9f29:
 
     # bg "Oh! Yeah, I've got it in my closet at home, hanging up. It's kind of my 'special occasions' outfit now."
-    bg "Oh! Yeah, I've got it in my closet at home, hanging up. It's kind of my 'special occasions' outfit now."
+    bg "Oh! Sì, ce l'ho nel mio armadio a casa, appeso. Ora è un po' il mio outfit per 'occasioni speciali'."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:184
 translate italian sm1cs_bg001_9f13cf8e:
 
     # mc "What constitutes a special occasion."
-    mc "What constitutes a special occasion."
+    mc "Cosa costituisce un'occasione speciale."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:187
 translate italian sm1cs_bg001_23fe6f47:
 
     # bg "I don't know, I haven't found an occasion yet special enough to wear it."
-    bg "I don't know, I haven't found an occasion yet special enough to wear it."
+    bg "Non lo so, non ho ancora trovato un'occasione abbastanza speciale per indossarlo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:190
 translate italian sm1cs_bg001_ab922785:
 
     # mc "Well, we'll just have to change that, won't we?"
-    mc "Well, we'll just have to change that, won't we?"
+    mc "Beh, dovremo cambiare le cose, no?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:193
 translate italian sm1cs_bg001_9433d988:
 
     # bg "Oh, uhm - ahem - yeah, I guess we will. If you think you can handle it."
-    bg "Oh, uhm - ahem - yeah, I guess we will. If you think you can handle it."
+    bg "Oh, uhm - ahem - sì, immagino di sì. Se pensi di poterlo gestire."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:196
 translate italian sm1cs_bg001_fe2814fc:
 
     # mc "Oh, I think I can."
-    mc "Oh, I think I can."
+    mc "Oh, penso di sì."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:199
 translate italian sm1cs_bg001_de4fd7be:
 
     # mc "So, how'd you get into modeling?"
-    mc "So, how'd you get into modeling?"
+    mc "Allora, come sei entrata nel mondo del modellismo?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:202
 translate italian sm1cs_bg001_3f62c4c2:
 
     # bg "Well, I was online one day and I came across a post from Kanya looking for models."
-    bg "Well, I was online one day and I came across a post from Kanya looking for models."
+    bg "Beh, ero online un giorno e mi sono imbattuta in un post di Kanya che cercava modelle."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:205
 translate italian sm1cs_bg001_71b2dc37:
 
     # mc "Oh? Is that... Is that how this works?"
-    mc "Oh? Is that... Is that how this works?"
+    mc "Oh? È... È così che funziona?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:208
 translate italian sm1cs_bg001_0e05e1f4:
 
     # bg "Uh huh, well, at least that's what some of the other models tell me."
-    bg "Uh huh, well, at least that's what some of the other models tell me."
+    bg "Uh huh, beh, almeno è quello che mi dicono alcune delle altre modelle."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:209
 translate italian sm1cs_bg001_28d6de90:
 
     # bg "Photographers in the area will post on some social media app looking for models."
-    bg "Photographers in the area will post on some social media app looking for models."
+    bg "I fotografi della zona pubblicano su qualche app di social media cercando modelle."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:210
 translate italian sm1cs_bg001_76cd0d0e:
 
     # bg "Do a few DMs and if everything feels right, you meet up for a shoot!"
-    bg "Do a few DMs and if everything feels right, you meet up for a shoot!"
+    bg "Scambi qualche messaggio e se tutto sembra giusto, ti incontri per un servizio fotografico!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:213
 translate italian sm1cs_bg001_86389d81:
 
     # mc "Huh, I didn't realize it was so... Informal. I figured there was like a special website or secret code you had to know in order to get into this kind of a thing."
-    mc "Huh, I didn't realize it was so... Informal. I figured there was like a special website or secret code you had to know in order to get into this kind of a thing."
+    mc "Huh, non mi rendevo conto che fosse così... Informale. Pensavo ci fosse un sito web speciale o un codice segreto che dovevi conoscere per entrare in questo tipo di cosa."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:216
 translate italian sm1cs_bg001_bb3d716c:
 
     # bg "Nope! It's the 21st century. Modern problems require modern solutions."
-    bg "Nope! It's the 21st century. Modern problems require modern solutions."
+    bg "No! È il 21° secolo. I problemi moderni richiedono soluzioni moderne."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:219
 translate italian sm1cs_bg001_8e8043d1:
 
     # mc "Wow, yeah. I mean, when you put it like that, it makes sense."
-    mc "Wow, yeah. I mean, when you put it like that, it makes sense."
+    mc "Wow, sì. Voglio dire, se la metti così, ha senso."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:220
 translate italian sm1cs_bg001_4e04ed2f:
 
     # mc "But wait, what do you mean by 'talking to other models'?"
-    mc "But wait, what do you mean by 'talking to other models'?"
+    mc "Ma aspetta, cosa intendi con 'parlare con altre modelle'?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:223
 translate italian sm1cs_bg001_7e32b186:
 
     # bg "Oh, well... Kanya is the only photographer I really work with."
-    bg "Oh, well... Kanya is the only photographer I really work with."
+    bg "Oh, beh... Kanya è l'unica fotografa con cui lavoro davvero."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:226
 translate italian sm1cs_bg001_0dd93717:
 
     # mc "Why's that?"
-    mc "Why's that?"
+    mc "Come mai?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:230
 translate italian sm1cs_bg001_0783b253:
 
     # bg "I don't know... She's always made me feel super safe, and she's really welcoming, and nice, and supportive..."
-    bg "I don't know... She's always made me feel super safe, and she's really welcoming, and nice, and supportive..."
+    bg "Non lo so... Mi ha sempre fatto sentire super sicura, ed è davvero accogliente, e gentile, e di supporto..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:231
 translate italian sm1cs_bg001_9f7d6cb8:
 
     # bg "Plus, we just clicked really well. And she's always given me awesome photos back. I figured, I already have the best photographer around, why try and work with anyone else?"
-    bg "Plus, we just clicked really well. And she's always given me awesome photos back. I figured, I already have the best photographer around, why try and work with anyone else?"
+    bg "Inoltre, abbiamo legato davvero bene. E mi ha sempre dato foto fantastiche. Ho pensato, ho già la miglior fotografa in circolazione, perché provare a lavorare con qualcun altro?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:234
 translate italian sm1cs_bg001_be386f58:
 
     # mc "Yeah, she does seem pretty awesome."
-    mc "Yeah, she does seem pretty awesome."
+    mc "Sì, sembra davvero fantastica."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:237
 translate italian sm1cs_bg001_03dd76ca:
 
     # mc "Wait, does that mean... I was the second photographer you've ever worked with?"
-    mc "Wait, does that mean... I was the second photographer you've ever worked with?"
+    mc "Aspetta, significa che... sono stato il secondo fotografo con cui hai mai lavorato?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:240
 translate italian sm1cs_bg001_043d8a38:
 
     # bg "I guess... Technically, yeah."
-    bg "I guess... Technically, yeah."
+    bg "Immagino... Tecnicamente, sì."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:243
 translate italian sm1cs_bg001_7bea935b:
 
     # mc "Wow... I feel honored."
-    mc "Wow... I feel honored."
+    mc "Wow... Mi sento onorato."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:246
 translate italian sm1cs_bg001_a77384c8:
 
     # bg "Whaaaaaat?"
-    bg "Whaaaaaat?"
+    bg "Cosaaaaa?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:254
 translate italian sm1cs_bg001_more_talking_d8575e9b:
 
     # mc "Yeah, you're a great model, and it's super cool to know that I'm the second person you worked with."
-    mc "Yeah, you're a great model, and it's super cool to know that I'm the second person you worked with."
+    mc "Sì, sei una modella fantastica, ed è davvero figo sapere che sono la seconda persona con cui hai lavorato."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:257
 translate italian sm1cs_bg001_more_talking_e29e7530:
 
     # mc "When you get big and famous, do you promise to remember the little guys, like me?"
-    mc "When you get big and famous, do you promise to remember the little guys, like me?"
+    mc "Quando diventerai grande e famosa, prometti di ricordare i piccoli, come me?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:260
 translate italian sm1cs_bg001_more_talking_f847b307:
 
     # bg "Well, the way Kanya tells it, you're {i}definitely{/i} not one of the little guys."
-    bg "Well, the way Kanya tells it, you're {i}definitely{/i} not one of the little guys."
+    bg "Beh, secondo come la racconta Kanya, tu {i}decisamente{/i} non sei uno dei piccoli."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:263
 translate italian sm1cs_bg001_more_talking_bfda972f:
 
     # mc "Oh, shucks."
-    mc "Oh, shucks."
+    mc "Oh, cavolo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:264
 translate italian sm1cs_bg001_more_talking_bc9b3974:
 
     # mc "Wait, how much has Kanya told you?"
-    mc "Wait, how much has Kanya told you?"
+    mc "Aspetta, quanto ti ha raccontato Kanya?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:267
 translate italian sm1cs_bg001_more_talking_3c33b396:
 
     # bg "Everything."
-    bg "Everything."
+    bg "Tutto."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:270
 translate italian sm1cs_bg001_more_talking_48b2364c:
 
     # mc "You don't mean..."
-    mc "You don't mean..."
+    mc "Non vorrai dire..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:273
 translate italian sm1cs_bg001_more_talking_a93f835f:
 
     # bg "{i}Everything.{/i}"
-    bg "{i}Everything.{/i}"
+    bg "{i}Tutto.{/i}"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:276
 translate italian sm1cs_bg001_more_talking_ed0dfd52:
 
     # mc "Oh God..."
-    mc "Oh God..."
+    mc "Oh Dio..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:279
 translate italian sm1cs_bg001_more_talking_7548c416:
 
     # bg "Hey, but it's all good stuff! The way she tells the story, you should be proud."
-    bg "Hey, but it's all good stuff! The way she tells the story, you should be proud."
+    bg "Ehi, ma è tutta roba buona! Il modo in cui racconta la storia, dovresti essere orgoglioso."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:282
 translate italian sm1cs_bg001_more_talking_0692bbfd:
 
     # mc "Well, that's good."
-    mc "Well, that's good."
+    mc "Beh, questo è bene."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:285
 translate italian sm1cs_bg001_more_talking_ab2b1530:
 
     # bg "It sounds like opening up a porn studio is the best career move you could make."
-    bg "It sounds like opening up a porn studio is the best career move you could make."
+    bg "Sembra che aprire uno studio porno sia la migliore mossa di carriera che potresti fare."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:288
 translate italian sm1cs_bg001_more_talking_60dd4786:
 
     # mc "Wait, she told you about the studio too?"
-    mc "Wait, she told you about the studio too?"
+    mc "Aspetta, ti ha parlato anche dello studio?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:291
 translate italian sm1cs_bg001_more_talking_f8575cf6:
 
     # bg "Yep."
-    bg "Yep."
+    bg "Sì."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:294
 translate italian sm1cs_bg001_more_talking_a1b2e62b:
 
     # mc "Everything about it?"
-    mc "Everything about it?"
+    mc "Tutto su di esso?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:298
 translate italian sm1cs_bg001_more_talking_9c43682a:
 
     # bg "Like the part about you starting the porn studio with your sister?"
-    bg "Like the part about you starting the porn studio with your sister?"
+    bg "Come la parte in cui hai aperto lo studio porno con tua sorella?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:300
 translate italian sm1cs_bg001_more_talking_84388d40:
 
     # bg "Like the part about you starting the porn studio with your best friend?"
-    bg "Like the part about you starting the porn studio with your best friend?"
+    bg "Come la parte in cui hai aperto lo studio porno con la tua migliore amica?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:302
 translate italian sm1cs_bg001_more_talking_69c25b65:
 
     # mc "Yeah..."
-    mc "Yeah..."
+    mc "Sì..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:305
 translate italian sm1cs_bg001_more_talking_22fc378a:
 
     # bg "She might have mentioned it."
-    bg "She might have mentioned it."
+    bg "Potrebbe averne parlato."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:306
 translate italian sm1cs_bg001_more_talking_e3e1587c:
 
     # mct "I really need to talk to Kanya about not telling everyone about the studio."
-    mct "I really need to talk to Kanya about not telling everyone about the studio."
+    mct "Devo davvero parlare con Kanya di non dire a tutti dello studio."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:309
 translate italian sm1cs_bg001_more_talking_6404ac3a:
 
     # mc "Oh boy..."
-    mc "Oh boy..."
+    mc "Oh cavolo..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:312
 translate italian sm1cs_bg001_more_talking_e56774bb:
 
     # bg "What? You think I'm going to judge you?"
-    bg "What? You think I'm going to judge you?"
+    bg "Cosa? Pensi che ti giudicherò?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:315
 translate italian sm1cs_bg001_more_talking_7136c946:
 
     # mc "I mean..."
-    mc "I mean..."
+    mc "Voglio dire..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:318
 translate italian sm1cs_bg001_more_talking_b61a8f1d:
 
     # bg "You think the chick that wears leather and latex is going to judge you for opening up a porn studio?"
-    bg "You think the chick that wears leather and latex is going to judge you for opening up a porn studio?"
+    bg "Pensi che la ragazza che indossa pelle e lattice ti giudicherà per aver aperto uno studio porno?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:321
 translate italian sm1cs_bg001_more_talking_edfb2ff8:
 
     # mc "I guess when you put it like that..."
-    mc "I guess when you put it like that..."
+    mc "Immagino che se la metti così..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:324
 translate italian sm1cs_bg001_more_talking_d45716b6:
 
     # bg "C'mon, [mcname]. I thought you knew me better than that."
-    bg "C'mon, [mcname]. I thought you knew me better than that."
+    bg "Dai, [mcname]. Pensavo mi conoscessi meglio di così."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:327
 translate italian sm1cs_bg001_more_talking_4edb7fd8:
 
     # mc "I mean, I didn't really know you until today."
-    mc "I mean, I didn't really know you until today."
+    mc "Voglio dire, non ti conoscevo davvero fino a oggi."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:330
 translate italian sm1cs_bg001_more_talking_63c175e4:
 
     # bg "Okay, that's a fair point."
-    bg "Okay, that's a fair point."
+    bg "Okay, è un punto giusto."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:331
 translate italian sm1cs_bg001_more_talking_24a17715:
 
     # bg "Well, in the spirit of getting to know me, what else do you want to know?"
-    bg "Well, in the spirit of getting to know me, what else do you want to know?"
+    bg "Beh, nello spirito di conoscermi, cos'altro vuoi sapere?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:334
 translate italian sm1cs_bg001_more_talking_f305cb4e:
