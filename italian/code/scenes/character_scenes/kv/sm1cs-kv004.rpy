@@ -752,455 +752,455 @@ translate italian sm1cs_kv004_sex_repeatable_ebeeae2e:
 translate italian sm1cs_kv004_sex_repeatable_334744a4:
 
     # kv "How's it looking so far?"
-    kv "How's it looking so far?"
+    kv "Com'è finora?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:472
 translate italian sm1cs_kv004_sex_repeatable_82cfef52:
 
     # mc "Awesome."
-    mc "Awesome."
+    mc "Fantastico."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:475
 translate italian sm1cs_kv004_sex_repeatable_887cd77c:
 
     # kv "Everything in focus?"
-    kv "Everything in focus?"
+    kv "Tutto a fuoco?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:477
 translate italian sm1cs_kv004_sex_repeatable_bc233547:
 
     # mc "Uh, yep. I think so?"
-    mc "Uh, yep. I think so?"
+    mc "Uh, sì. Penso di sì?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:480
 translate italian sm1cs_kv004_sex_repeatable_c892e46b:
 
     # kv "I know you're having fun, but you have to remember that you are still working."
-    kv "I know you're having fun, but you have to remember that you are still working."
+    kv "So che ti stai divertendo, ma devi ricordare che stai ancora lavorando."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:482
 translate italian sm1cs_kv004_sex_repeatable_2887ed7c:
 
     # mc "Yeah, it's going to be tough to remember to also do all the filming things."
-    mc "Yeah, it's going to be tough to remember to also do all the filming things."
+    mc "Sì, sarà difficile ricordarsi di fare anche tutte le cose delle riprese."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:483
 translate italian sm1cs_kv004_sex_repeatable_91ef838f:
 
     # kv "And that's why we practice!"
-    kv "And that's why we practice!"
+    kv "Ed è per questo che ci esercitiamo!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:486
 translate italian sm1cs_kv004_sex_repeatable_0a4cdc2a:
 
     # mc "If this is what practice looks like, I'll have to do this waaaay more often."
-    mc "If this is what practice looks like, I'll have to do this waaaay more often."
+    mc "Se l'esercitazione è così, dovrò farlo moooolto più spesso."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:488
 translate italian sm1cs_kv004_sex_repeatable_9681afb1:
 
     # kv "Mmmm, I'd love that."
-    kv "Mmmm, I'd love that."
+    kv "Mmmm, mi piacerebbe."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:492
 translate italian sm1cs_kv004_sex_repeatable_1bc774b1:
 
     # kv "Oh fuuuuck yessss."
-    kv "Oh fuuuuck yessss."
+    kv "Oh caaazzo sììì."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:503
 translate italian sm1cs_kv004_sex_repeatable_8a47f382:
 
     # kv "You - fuh - you in focus?"
-    kv "You - fuh - you in focus?"
+    kv "Tu - fuh - sei a fuoco?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:506
 translate italian sm1cs_kv004_sex_repeatable_e9a28e46:
 
     # mc "Yeah!"
-    mc "Yeah!"
+    mc "Sì!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:507
 translate italian sm1cs_kv004_sex_repeatable_9aa91e48:
 
     # kv "Goooooood, fucking goooooood. And - fuh - you got me in frame? Head to pussssy?"
-    kv "Goooooood, fucking goooooood. And - fuh - you got me in frame? Head to pussssy?"
+    kv "Beeeeeene, fottutamente beeeeeene. E - fuh - mi hai nell'inquadratura? Testa alla fiiiiga?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:509
 translate italian sm1cs_kv004_sex_repeatable_eb815940:
 
     # mc "Nnnng, yeah!"
-    mc "Nnnng, yeah!"
+    mc "Nnnng, sì!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:510
 translate italian sm1cs_kv004_sex_repeatable_c8cbbfd0:
 
     # kv "Good, good, fuck yes, good."
-    kv "Good, good, fuck yes, good."
+    kv "Bene, bene, cazzo sì, bene."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:515
 translate italian sm1cs_kv004_sex_repeatable_a12e1049:
 
     # kv "And make sure you keep a little space above my head in the fraaaaame."
-    kv "And make sure you keep a little space above my head in the fraaaaame."
+    kv "E assicurati di lasciare un po' di spazio sopra la mia testa nell'inquadraaatura."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:516
 translate italian sm1cs_kv004_sex_repeatable_2b6215a6:
 
     # kv "Fuuuuuh - hang on, I want to enjoy this for a second."
-    kv "Fuuuuuh - hang on, I want to enjoy this for a second."
+    kv "Fuuuuuh - aspetta, voglio godermelo per un secondo."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:517
 translate italian sm1cs_kv004_sex_repeatable_9dbf668e:
 
     # kv "Mmmmphsdg, God that's good."
-    kv "Mmmmphsdg, God that's good."
+    kv "Mmmmphsdg, Dio è buono."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:520
 translate italian sm1cs_kv004_sex_repeatable_f10eebbe:
 
     # kv "I swear, you {i}do{/i} have a magic dick. This is fucking amazing."
-    kv "I swear, you {i}do{/i} have a magic dick. This is fucking amazing."
+    kv "Lo giuro, {i}hai{/i} davvero un cazzo magico. È fottutamente fantastico."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:523
 translate italian sm1cs_kv004_sex_repeatable_a046c9df:
 
     # mc "Fuck, and this looks great! You're so hot Kanya, you were fucking made to be on camera."
-    mc "Fuck, and this looks great! You're so hot Kanya, you were fucking made to be on camera."
+    mc "Cazzo, e sembra fantastico! Sei così sexy Kanya, sei fottutamente fatta per stare davanti alla fotocamera."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:524
 translate italian sm1cs_kv004_sex_repeatable_faefe8d0:
 
     # kv "Fuck, I know!"
-    kv "Fuck, I know!"
+    kv "Cazzo, lo so!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:529
 translate italian sm1cs_kv004_sex_repeatable_43ff088d:
 
     # kv "Hang on, I really want to ride you."
-    kv "Hang on, I really want to ride you."
+    kv "Aspetta, voglio davvero cavalcarti."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:531
 translate italian sm1cs_kv004_sex_repeatable_1ce81b63:
 
     # mc "By all means."
-    mc "By all means."
+    mc "Assolutamente."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:539
 translate italian sm1cs_kv004_sex_repeatable_22543fa9:
 
     # kv "Goooood, yes! That's so much better."
-    kv "Goooood, yes! That's so much better."
+    kv "Beeeene, sì! È molto meglio."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:541
 translate italian sm1cs_kv004_sex_repeatable_ad7ddf91:
 
     # kv "Less tits to film, but sometimes you get these awkward angles and you have to make it work."
-    kv "Less tits to film, but sometimes you get these awkward angles and you have to make it work."
+    kv "Meno tette da filmare, ma a volte hai queste angolazioni strane e devi farle funzionare."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:544
 translate italian sm1cs_kv004_sex_repeatable_f1a8334d:
 
     # mc "Still looks fucking good!"
-    mc "Still looks fucking good!"
+    mc "Sembra ancora fottutamente bello!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:547
 translate italian sm1cs_kv004_sex_repeatable_7261c57f:
 
     # kv "Mmmmpphhhhh, pr-probably not as good as it feeeeeels, holy shiiiiit!"
-    kv "Mmmmpphhhhh, pr-probably not as good as it feeeeeels, holy shiiiiit!"
+    kv "Mmmmpphhhhh, pr-probabilmente non così bello come si seeeente, santo cieeeelo!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:551
 translate italian sm1cs_kv004_sex_repeatable_2c794ec4:
 
     # kv "Fuuuuuccccck, if we - nnnngnghghghh - stay in this position-"
-    kv "Fuuuuuccccck, if we - nnnngnghghghh - stay in this position-"
+    kv "Caaaaazzo, se restiamo - nnnngnghghghh - in questa posizione-"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:553
 translate italian sm1cs_kv004_sex_repeatable_3272f42d:
 
     # kv "NNNNNGGG, I'm going to - fuuuuuucking -"
-    kv "NNNNNGGG, I'm going to - fuuuuuucking -"
+    kv "NNNNNGGG, sto per - fottutaaamente -"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:555
 translate italian sm1cs_kv004_sex_repeatable_13e8df3e:
 
     # mc "Oh God, fucccccking hell, Kanya!"
-    mc "Oh God, fucccccking hell, Kanya!"
+    mc "Oh Dio, fottuto infeeerno, Kanya!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:558
 translate italian sm1cs_kv004_sex_repeatable_824d6908:
 
     # kv "Yes, right there, yes, right there - fuck, fuck, fuckfuckfuck!"
-    kv "Yes, right there, yes, right there - fuck, fuck, fuckfuckfuck!"
+    kv "Sì, proprio lì, sì, proprio lì - cazzo, cazzo, cazzoocazzocazzo!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:559
 translate italian sm1cs_kv004_sex_repeatable_b1fb8c3a:
 
     # kv "I'm going to cum, I'mgoingtocumI'mgoingtocum!"
-    kv "I'm going to cum, I'mgoingtocumI'mgoingtocum!"
+    kv "Sto per venire, stoppervenireStoppervenire!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:562
 translate italian sm1cs_kv004_sex_repeatable_ef38e483:
 
     # kv "FuuuuuckI'mcummmmming!"
-    kv "FuuuuuckI'mcummmmming!"
+    kv "CaaazzostoVeneeendo!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:567
 translate italian sm1cs_kv004_sex_repeatable_2f8872a0:
 
     # kv "MMmmmfuuuck, are you still rolling!?"
-    kv "MMmmmfuuuck, are you still rolling!?"
+    kv "MMmmmcaaazzo, stai ancora registrando!?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:569
 translate italian sm1cs_kv004_sex_repeatable_31f30118:
 
     # mc "Yeah! Haven't stopped!"
-    mc "Yeah! Haven't stopped!"
+    mc "Sì! Non mi sono fermato!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:571
 translate italian sm1cs_kv004_sex_repeatable_ac733224:
 
     # kv "Fuuucking put me on the ground and fuck meeeee!"
-    kv "Fuuucking put me on the ground and fuck meeeee!"
+    kv "Fottutamente mettimi a terra e scopaamiii!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:574
 translate italian sm1cs_kv004_sex_repeatable_579c5263:
 
     # kv "Get your dick back in me, and fuck me senseless!!"
-    kv "Get your dick back in me, and fuck me senseless!!"
+    kv "Rimetti il tuo cazzo dentro di me, e scopami senza senso!!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:575
 translate italian sm1cs_kv004_sex_repeatable_234a4a1f:
 
     # kv "And choke me! Fuck, I love it - wrap that big, strong hand around my neck!"
-    kv "And choke me! Fuck, I love it - wrap that big, strong hand around my neck!"
+    kv "E soffocami! Cazzo, lo adoro - avvolgi quella mano grande e forte intorno al mio collo!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:585
 translate italian sm1cs_kv004_sex_repeatable_b754232b:
 
     # kv "Fuuuuungnnaldjgn, keep fucking me - just like that! I can feel myself about to cum again!"
-    kv "Fuuuuungnnaldjgn, keep fucking me - just like that! I can feel myself about to cum again!"
+    kv "Fuuuuungnnaldjgn, continua a scoparmi - proprio così! Sento che sto per venire di nuovo!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:591
 translate italian sm1cs_kv004_sex_repeatable_9ba64785:
 
     # kv "Fuck, [mcname], fuuuuck! I'm going to cum aggaaaaain!"
-    kv "Fuck, [mcname], fuuuuck! I'm going to cum aggaaaaain!"
+    kv "Cazzo, [mcname], caaaaazzo! Sto per venire ancooooora!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:592
 translate italian sm1cs_kv004_sex_repeatable_b9a1c35b:
 
     # mc "Goddamn, Kanya! I can feel you squeezing the shit out of my dick!"
-    mc "Goddamn, Kanya! I can feel you squeezing the shit out of my dick!"
+    mc "Dio santo, Kanya! Sento che stai spremendo il mio cazzo alla grande!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:594
 translate italian sm1cs_kv004_sex_repeatable_a360e115:
 
     # kv "Yesyesyes! I'm cumming again!"
-    kv "Yesyesyes! I'm cumming again!"
+    kv "Sìsìsì! Sto venendo ancora!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:597
 translate italian sm1cs_kv004_sex_repeatable_aef2c7e5:
 
     # kv "Gooooood, chooooke me! Fuuuuck, I'mstillcummmmmming!"
-    kv "Gooooood, chooooke me! Fuuuuck, I'mstillcummmmmming!"
+    kv "Beeeeene, soffooocami! Caaazzo, stoAncoraVeneeendo!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate italian sm1cs_kv004_sex_repeatable_2aadad2a:
 
     # mc "Mmmmnngnng, Kanya you're so tight! You're pussy is like a viccce!"
-    mc "Mmmmnngnng, Kanya you're so tight! You're pussy is like a viccce!"
+    mc "Mmmmnngnng, Kanya sei così stretta! La tua figa è come una morssssa!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:600
 translate italian sm1cs_kv004_sex_repeatable_c5bef044:
 
     # mc "I'm going to - fuuuuuuck - I'm so close!"
-    mc "I'm going to - fuuuuuuck - I'm so close!"
+    mc "Sto per - caaaaazzo - sono così vicino!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:601
 translate italian sm1cs_kv004_sex_repeatable_53203aff:
 
     # kv "Fuh - King - Cum - In - My - PUSSY!!!"
-    kv "Fuh - King - Cum - In - My - PUSSY!!!"
+    kv "Fot - tuto - Vieni - Nella - Mia - FIGA!!!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:606
 translate italian sm1cs_kv004_sex_repeatable_f9fc7303:
 
     # mc "Holy shit!"
-    mc "Holy shit!"
+    mc "Santo cielo!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:608
 translate italian sm1cs_kv004_sex_repeatable_50067801:
 
     # mc "I'm cumming!"
-    mc "I'm cumming!"
+    mc "Sto venendo!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:609
 translate italian sm1cs_kv004_sex_repeatable_e3110cdd:
 
     # kv "Fuuuuck, fill me up!!!"
-    kv "Fuuuuck, fill me up!!!"
+    kv "Caaazzo, riempimi!!!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:613
 translate italian sm1cs_kv004_sex_repeatable_d5b1dbbc:
 
     # mc "Oh my... Gahhhhd."
-    mc "Oh my... Gahhhhd."
+    mc "Oh mio... Dioooo."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:618
 translate italian sm1cs_kv004_sex_repeatable_68dcd1f2:
 
     # kv "Mmmm, fuck yes. It feels so good in me..."
-    kv "Mmmm, fuck yes. It feels so good in me..."
+    kv "Mmmm, cazzo sì. Si sente così bene dentro di me..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:619
 translate italian sm1cs_kv004_sex_repeatable_a0d20ec7:
 
     # kv "I was going to talk about the best way to do a money shot... But this is too good of a feeling to pass up on."
-    kv "I was going to talk about the best way to do a money shot... But this is too good of a feeling to pass up on."
+    kv "Stavo per parlare del modo migliore per fare un money shot... Ma questa sensazione è troppo buona per lasciarsela sfuggire."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:622
 translate italian sm1cs_kv004_sex_repeatable_9142d86a:
 
     # mc "I'm glad you like it."
-    mc "I'm glad you like it."
+    mc "Sono contento che ti piaccia."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:624
 translate italian sm1cs_kv004_sex_repeatable_86852441:
 
     # kv "God, I haven't had a rolling orgasm like that in {i}ages{/i}."
-    kv "God, I haven't had a rolling orgasm like that in {i}ages{/i}."
+    kv "Dio, non avevo un orgasmo continuo così da {i}secoli{/i}."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:627
 translate italian sm1cs_kv004_sex_repeatable_52465330:
 
     # mc "Yeah, it was pretty hot on camera, too."
-    mc "Yeah, it was pretty hot on camera, too."
+    mc "Sì, era piuttosto sexy anche sulla fotocamera."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:629
 translate italian sm1cs_kv004_sex_repeatable_fba52cdd:
 
     # kv "Oh yeah? How's it look by the way?"
-    kv "Oh yeah? How's it look by the way?"
+    kv "Oh sì? Com'è a proposito?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:631
 translate italian sm1cs_kv004_sex_repeatable_5c1ca7ef:
 
     # mc "Pretty good if I do say so myself."
-    mc "Pretty good if I do say so myself."
+    mc "Piuttosto buono se posso dirlo io stesso."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:634
 translate italian sm1cs_kv004_sex_repeatable_cc9bf599:
 
     # kv "Awesome. Leave the camera on my desk and I'll start editing it."
-    kv "Awesome. Leave the camera on my desk and I'll start editing it."
+    kv "Fantastico. Lascia la fotocamera sulla mia scrivania e inizierò a editarlo."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:636
 translate italian sm1cs_kv004_sex_repeatable_3392c8a3:
 
     # kv "Mmmm, I'll edit it together again, just for funsies."
-    kv "Mmmm, I'll edit it together again, just for funsies."
+    kv "Mmmm, lo editerò di nuovo insieme, solo per divertimento."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:638
 translate italian sm1cs_kv004_sex_repeatable_0359a44a:
 
     # kv "I'll make sure to give you notes the next time you're around."
-    kv "I'll make sure to give you notes the next time you're around."
+    kv "Mi assicurerò di darti note la prossima volta che vieni."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:641
 translate italian sm1cs_kv004_sex_repeatable_ddc209b1:
 
     # kv "I think I'm just going to hang out here for a sec... Until I can feel my legs again."
-    kv "I think I'm just going to hang out here for a sec... Until I can feel my legs again."
+    kv "Penso che resterò qui per un secondo... Finché non riesco a sentire di nuovo le gambe."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:643
 translate italian sm1cs_kv004_sex_repeatable_70f10dbf:
 
     # mc "Do you want me help getting up?"
-    mc "Do you want me help getting up?"
+    mc "Vuoi che ti aiuti ad alzarti?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:646
 translate italian sm1cs_kv004_sex_repeatable_393f902c:
 
     # kv "Nope. I just want to enjoy being pounded so hard that I can't walk. You know where the door is though."
-    kv "Nope. I just want to enjoy being pounded so hard that I can't walk. You know where the door is though."
+    kv "No. Voglio solo godermi l'essere stata scopata così forte da non riuscire a camminare. Sai dove sta la porta comunque."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:648
 translate italian sm1cs_kv004_sex_repeatable_6f7d81f9:
 
     # mc "That I do."
-    mc "That I do."
+    mc "Certo che sì."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:652
 translate italian sm1cs_kv004_sex_repeatable_41d17af0:
 
     # kv "I'll see ya' later. New business partner."
-    kv "I'll see ya' later. New business partner."
+    kv "Ci vediamo dopo. Nuovo socio d'affari."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:654
 translate italian sm1cs_kv004_sex_repeatable_33b4a109:
 
     # kv "I'll see you later, you bright, shining star."
-    kv "I'll see you later, you bright, shining star."
+    kv "Ci vediamo dopo, stella luminosa e brillante."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:656
 translate italian sm1cs_kv004_sex_repeatable_01d32247:
 
     # mc "Yeah, you will!"
-    mc "Yeah, you will!"
+    mc "Sì, lo farai!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:673
 translate italian sm1cs_kv004_no_sex_8ad58f44:
 
     # mc "Actually, I have to take off."
-    mc "Actually, I have to take off."
+    mc "In realtà, devo andare."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:675
 translate italian sm1cs_kv004_no_sex_ee24deab:
 
     # kv "No worries, [mcname]. Maybe some other time."
-    kv "No worries, [mcname]. Maybe some other time."
+    kv "Nessun problema, [mcname]. Magari un'altra volta."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:678
 translate italian sm1cs_kv004_no_sex_6e031d5b:
 
     # mc "Yeah, maybe."
-    mc "Yeah, maybe."
+    mc "Sì, forse."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:680
 translate italian sm1cs_kv004_no_sex_48cec831:
 
     # kv "You know where to find me."
-    kv "You know where to find me."
+    kv "Sai dove trovarmi."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:684
 translate italian sm1cs_kv004_no_sex_f27b084f:
 
     # mc "I do! And I'm looking forward to working together!"
-    mc "I do! And I'm looking forward to working together!"
+    mc "Sì! E non vedo l'ora di lavorare insieme!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:686
 translate italian sm1cs_kv004_no_sex_5aeedc49:
 
     # kv "Me too!"
-    kv "Me too!"
+    kv "Anch'io!"
 
 translate italian strings:
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:220
     old "Check out her ass as she walks away"
-    new "Check out her ass as she walks away"
+    new "Guarda il suo culo mentre se ne va"
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:220
     old "Get to business"
-    new "Get to business"
+    new "Passa agli affari"
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:348
     old "Practice your skills"
-    new "Practice your skills"
+    new "Esercita le tue abilità"
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:348
     old "Maybe some other time"
-    new "Maybe some other time"
+    new "Forse un'altra volta"
 

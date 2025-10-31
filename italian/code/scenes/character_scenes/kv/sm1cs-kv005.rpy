@@ -2,49 +2,49 @@
 translate italian sm1cs_kv005i_0bcf2115:
 
     # kv "Hey, [mcname]! Ready to keep practicing?"
-    kv "Hey, [mcname]! Ready to keep practicing?"
+    kv "Ehi, [mcname]! Pronto a continuare a esercitarti?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:14
 translate italian sm1cs_kv005i_3843bd28:
 
     # mc "Yeah! Let's do it!"
-    mc "Yeah! Let's do it!"
+    mc "Sì! Facciamolo!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:18
 translate italian sm1cs_kv005i_685e0027:
 
     # kv "Oh hey, [mcname]."
-    kv "Oh hey, [mcname]."
+    kv "Oh ehi, [mcname]."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:21
 translate italian sm1cs_kv005i_f226943a:
 
     # mc "What's up, Kanya!"
-    mc "What's up, Kanya!"
+    mc "Come va, Kanya!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:24
 translate italian sm1cs_kv005i_523c10b4:
 
     # kv "I was actually hoping you'd stop by, I actually had something I wanted to run by you."
-    kv "I was actually hoping you'd stop by, I actually had something I wanted to run by you."
+    kv "Stavo sperando che passassi di qui, avevo qualcosa di cui volevo parlarti."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:27
 translate italian sm1cs_kv005i_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "Oh yeah?"
+    mc "Oh sì?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:30
 translate italian sm1cs_kv005i_374d1285:
 
     # kv "Yep! I want you to do another photo shoot."
-    kv "Yep! I want you to do another photo shoot."
+    kv "Sì! Voglio che tu faccia un altro servizio fotografico."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:33
 translate italian sm1cs_kv005i_b68d62a4:
 
     # mc "Oh? With who?"
-    mc "Oh? With who?"
+    mc "Oh? Con chi?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:35
 translate italian sm1cs_kv005i_50ccc0e2:
@@ -56,49 +56,49 @@ translate italian sm1cs_kv005i_50ccc0e2:
 translate italian sm1cs_kv005_start_ca0cb360:
 
     # kv "Is that cool with you?"
-    kv "Is that cool with you?"
+    kv "Ti va bene?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:53
 translate italian sm1cs_kv005_start_7b7ae0e1:
 
     # mc "You want me to... take photos of you?"
-    mc "You want me to... take photos of you?"
+    mc "Vuoi che... scatti foto di te?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:56
 translate italian sm1cs_kv005_start_4a85400f:
 
     # kv "Yeah. Me."
-    kv "Yeah. Me."
+    kv "Sì. Di me."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:60
 translate italian sm1cs_kv005_start_b2589890:
 
     # mc "That's... Not what I was expecting."
-    mc "That's... Not what I was expecting."
+    mc "Questo è... Non quello che mi aspettavo."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:63
 translate italian sm1cs_kv005_start_d0926fc6:
 
     # kv "What, am I not good enough to be in front of the camera, [mcname]?!"
-    kv "What, am I not good enough to be in front of the camera, [mcname]?!"
+    kv "Cosa, non sono abbastanza brava per stare davanti alla fotocamera, [mcname]?!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:66
 translate italian sm1cs_kv005_start_fe067151:
 
     # mc "No! Wait - I mean, yes! I, uhm, I meant-"
-    mc "No! Wait - I mean, yes! I, uhm, I meant-"
+    mc "No! Aspetta - voglio dire, sì! Io, uhm, intendevo-"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:69
 translate italian sm1cs_kv005_start_9eeeadc3:
 
     # kv "Just fucking with you. I know I'm hot."
-    kv "Just fucking with you. I know I'm hot."
+    kv "Sto solo scherzando con te. So di essere sexy."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:72
 translate italian sm1cs_kv005_start_5c926a4d:
 
     # mc "God, I almost had a heart attack."
-    mc "God, I almost had a heart attack."
+    mc "Dio, mi è quasi venuto un infarto."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:73
 translate italian sm1cs_kv005_start_8f876b9a:
