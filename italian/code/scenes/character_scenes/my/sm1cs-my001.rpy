@@ -494,97 +494,97 @@ translate italian sm1cs_my001_300f2b3a:
 translate italian sm1cs_my001_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Cosa intendi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:268
 translate italian sm1cs_my001_6dc64527:
 
     # my "I used to have this... friend. Now, he wasn't exactly working in the adult entertainment industry, but close. Lots of nude models in his studio, lots of partying..."
-    my "I used to have this... friend. Now, he wasn't exactly working in the adult entertainment industry, but close. Lots of nude models in his studio, lots of partying..."
+    my "Avevo questo... amico. Non lavorava esattamente nell'industria dell'intrattenimento per adulti, ma quasi. Molte modelle nude nel suo studio, molte feste..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
 translate italian sm1cs_my001_a83aec2c:
 
     # my "But this little empire of industry he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "But this little empire of industry he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
+    my "Ma questo piccolo impero industriale che aveva iniziato a costruire ha cominciato a sgretolarsi. Problemi con la sua vita amorosa, idee mezze cotte per fare soldi..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
 translate italian sm1cs_my001_0a575054:
 
     # my "The models own personal lives becoming intwined with his work and the studio..."
-    my "The models own personal lives becoming intwined with his work and the studio..."
+    my "Le vite personali delle modelle che si intrecciavano con il suo lavoro e lo studio..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:273
 translate italian sm1cs_my001_a9a8a236:
 
     # my "The whole thing failed before it really even got a chance to be successful. That chaos just seems to be a part of the industry."
-    my "The whole thing failed before it really even got a chance to be successful. That chaos just seems to be a part of the industry."
+    my "L'intera cosa è fallita prima ancora di avere una possibilità di successo. Quel caos sembra solo essere parte dell'industria."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:276
 translate italian sm1cs_my001_bc250ca0:
 
     # mc "But I think w- I'm doing something different. There's a real plan, and professionals involved, and I think I'm going to be successful with the porn studio."
-    mc "But I think w- I'm doing something different. There's a real plan, and professionals involved, and I think I'm going to be successful with the porn studio."
+    mc "Ma penso che st- sto facendo qualcosa di diverso. C'è un vero piano, e professionisti coinvolti, e penso che avrò successo con lo studio porno."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:279
 translate italian sm1cs_my001_5cb5703e:
 
     # my "{size=*0.6}God, I hope so...{/size}"
-    my "{size=*0.6}God, I hope so...{/size}"
+    my "{size=*0.6}Dio, lo spero...{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:282
 translate italian sm1cs_my001_a80ced04:
 
     # mct "Man, I don't know how much longer I can go trying to convince her that the studio is going to work..."
-    mct "Man, I don't know how much longer I can go trying to convince her that the studio is going to work..."
+    mct "Cavolo, non so per quanto ancora posso continuare a cercare di convincerla che lo studio funzionerà..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:287
 translate italian sm1cs_my001_9164576a:
 
     # "Waiter" "Your wine. Would you like to begin tonight with any appetizers? Or straight to the main course."
-    "Waiter" "Your wine. Would you like to begin tonight with any appetizers? Or straight to the main course."
+    "Cameriere" "Il vostro vino. Vorreste iniziare stasera con degli antipasti? O direttamente alla portata principale."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:289
 translate italian sm1cs_my001_63d668f8:
 
     # my "Oh, you'll have to forgive me. I haven't even had a chance to look at the menu."
-    my "Oh, you'll have to forgive me. I haven't even had a chance to look at the menu."
+    my "Oh, dovete perdonarmi. Non ho nemmeno avuto la possibilità di guardare il menù."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:292
 translate italian sm1cs_my001_79c14038:
 
     # mc "Do you happen to have oysters?"
-    mc "Do you happen to have oysters?"
+    mc "Avete per caso delle ostriche?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:294
 translate italian sm1cs_my001_10813b9f:
 
     # "Waiter" "We do indeed, sir."
-    "Waiter" "We do indeed, sir."
+    "Cameriere" "Certamente, signore."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:297
 translate italian sm1cs_my001_a3a9b546:
 
     # mc "How about an order of those to start. And then we'll each have an order of the pasta linguini."
-    mc "How about an order of those to start. And then we'll each have an order of the pasta linguini."
+    mc "Che ne dite di un ordine di quelle per iniziare. E poi prenderemo ciascuno un ordine di pasta linguine."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
 translate italian sm1cs_my001_8c89e5bd:
 
     # "Waiter" "Both wonderful choices, sit."
-    "Waiter" "Both wonderful choices, sit."
+    "Cameriere" "Entrambe ottime scelte, signore."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:306
 translate italian sm1cs_my001_153e3d04:
 
     # my "Wow, I can't believe you remembered my favorite Italian dish, [mcname]."
-    my "Wow, I can't believe you remembered my favorite Italian dish, [mcname]."
+    my "Wow, non posso credere che ti sei ricordato del mio piatto italiano preferito, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:307
 translate italian sm1cs_my001_7cd36a8e:
 
     # mct "Damn, I only picked that because the reviews said it was their best dish. What luck is that!"
-    mct "Damn, I only picked that because the reviews said it was their best dish. What luck is that!"
+    mct "Accidenti, l'ho scelto solo perché le recensioni dicevano che era il loro piatto migliore. Che fortuna!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:310
 translate italian sm1cs_my001_37c12963:
@@ -596,133 +596,133 @@ translate italian sm1cs_my001_37c12963:
 translate italian sm1cs_my001_33c2815e:
 
     # my "You didn't know that was my favorite pasta dish, did you?"
-    my "You didn't know that was my favorite pasta dish, did you?"
+    my "Non sapevi che fosse il mio piatto di pasta preferito, vero?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:315
 translate italian sm1cs_my001_b3ae8984:
 
     # mc "Uhm..."
-    mc "Uhm..."
+    mc "Ehm..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:318
 translate italian sm1cs_my001_97d02285:
 
     # my "Hahaha! Only you could luck into something like that."
-    my "Hahaha! Only you could luck into something like that."
+    my "Hahaha! Solo tu potevi essere così fortunato."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:322
 translate italian sm1cs_my001_df2a13b8:
 
     # mc "So, how are you enjoying your time in Crowning?"
-    mc "So, how are you enjoying your time in Crowning?"
+    mc "Allora, come ti stai godendo il tuo tempo a Crowning?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:325
 translate italian sm1cs_my001_1c85ab7d:
 
     # my "It's good! It's been fun to go and see some of my old haunts."
-    my "It's good! It's been fun to go and see some of my old haunts."
+    my "Bene! È stato divertente andare a vedere alcuni dei miei vecchi posti."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:332
 translate italian sm1cs_my001_49e397d1:
 
     # my "In fact, I just extended my out of office for a while longer. I'm not quite yet ready to leave Crowning yet."
-    my "In fact, I just extended my out of office for a while longer. I'm not quite yet ready to leave Crowning yet."
+    my "Infatti, ho appena esteso il mio fuori ufficio per un po' più a lungo. Non sono ancora del tutto pronta a lasciare Crowning."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:335
 translate italian sm1cs_my001_866dba6a:
 
     # mc "Oh really?"
-    mc "Oh really?"
+    mc "Oh davvero?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:337
 translate italian sm1cs_my001_c5db756f:
 
     # my "Mmmhmmm. There's just something about this place... I love it here."
-    my "Mmmhmmm. There's just something about this place... I love it here."
+    my "Mmmhmmm. C'è qualcosa in questo posto... lo adoro qui."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:340
 translate italian sm1cs_my001_fbc81922:
 
     # my "But I would love to get out of that hotel."
-    my "But I would love to get out of that hotel."
+    my "Ma mi piacerebbe uscire da quell'hotel."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:342
 translate italian sm1cs_my001_5cc1af5f:
 
     # mc "Something wrong with it?"
-    mc "Something wrong with it?"
+    mc "C'è qualcosa che non va?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:345
 translate italian sm1cs_my001_b8cc636d:
 
     # my "No, no. Nothing like that. I've just always found hotels... sterile. There's no life in them."
-    my "No, no. Nothing like that. I've just always found hotels... sterile. There's no life in them."
+    my "No, no. Niente del genere. Ho sempre trovato gli hotel... sterili. Non c'è vita in loro."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
 translate italian sm1cs_my001_2cecdbca:
 
     # my "The erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "The erase the personality so you can fill it with whatever you can fit into a suitcase."
+    my "Cancellano la personalità così puoi riempirla con qualsiasi cosa tu possa mettere in una valigia."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:349
 translate italian sm1cs_my001_d9480244:
 
     # my "The art is all some crap corporate garbage, the walls always ultra clean canvases, with fake marble and granite..."
-    my "The art is all some crap corporate garbage, the walls always ultra clean canvases, with fake marble and granite..."
+    my "L'arte è tutta spazzatura aziendale, le pareti sempre tele ultra pulite, con marmo e granito finti..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:350
 translate italian sm1cs_my001_2e894137:
 
     # my "Just a bunch of rich people garbage to make you feel like it's a luxe stay, when in reality the designer is tasteless and couldn't hack it in the art world."
-    my "Just a bunch of rich people garbage to make you feel like it's a luxe stay, when in reality the designer is tasteless and couldn't hack it in the art world."
+    my "Solo un mucchio di spazzatura da ricchi per farti sentire come se fosse un soggiorno di lusso, quando in realtà il designer è senza gusto e non ce l'ha fatta nel mondo dell'arte."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:351
 translate italian sm1cs_my001_bbed296a:
 
     # my "So they peddle this filth on every unsuspecting visitor who is too jet lagged to care, or experiencing too much of the vibrant life of wherever they are to notice."
-    my "So they peddle this filth on every unsuspecting visitor who is too jet lagged to care, or experiencing too much of the vibrant life of wherever they are to notice."
+    my "Quindi vendono questa sporcizia a ogni visitatore ignaro che è troppo stanco per il fuso orario per preoccuparsene, o sta sperimentando troppo della vibrante vita di ovunque si trovi per notarlo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:355
 translate italian sm1cs_my001_12b620e8:
 
     # my "Oh my God, I am so sorry for ranting at you [mcname]!"
-    my "Oh my God, I am so sorry for ranting at you [mcname]!"
+    my "Oh mio Dio, mi dispiace tanto per aver sfogato su di te [mcname]!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:359
 translate italian sm1cs_my001_84fe90d0:
 
     # mc "It's totally fine, Mom!"
-    mc "It's totally fine, Mom!"
+    mc "Va benissimo, mamma!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:361
 translate italian sm1cs_my001_d136bc7f:
 
     # mc "It's totally fine, Melony!"
-    mc "It's totally fine, Melony!"
+    mc "Va benissimo, Melony!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:362
 translate italian sm1cs_my001_902ede84:
 
     # mc "I didn't realize you had such a high opinion of hotels."
-    mc "I didn't realize you had such a high opinion of hotels."
+    mc "Non mi rendevo conto che avessi un'opinione così alta degli hotel."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:364
 translate italian sm1cs_my001_8fbdd1bf:
 
     # my "God, I am usually so much better at keeping that in."
-    my "God, I am usually so much better at keeping that in."
+    my "Dio, di solito sono molto più brava a tenerlo dentro."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:365
 translate italian sm1cs_my001_dd1494ef:
 
     # mc "It's seriously okay. It was actually, in an odd way, kind of nice to hear?"
-    mc "It's seriously okay. It was actually, in an odd way, kind of nice to hear?"
+    mc "È davvero ok. In realtà, in un modo strano, è stato piace sentire?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:369
 translate italian sm1cs_my001_c313d667:
 
     # my "Oh? Am I in the presence of another hotel revolutionary? A comrade in arms willing to become saboteur against the influx of snobby hotels?"
-    my "Oh? Am I in the presence of another hotel revolutionary? A comrade in arms willing to become saboteur against the influx of snobby hotels?"
+    my "Oh? Sono in presenza di un altro rivoluzionario dell'hotel? Un compagno d'armi disposto a diventare sabotatore contro l'afflusso di hotel snob?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:372
 translate italian sm1cs_my001_6947e99c:
