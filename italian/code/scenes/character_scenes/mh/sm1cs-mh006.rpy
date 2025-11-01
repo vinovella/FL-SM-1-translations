@@ -2,49 +2,49 @@
 translate italian sm1cs_mh006_7215da74:
 
     # mc "How's work?"
-    mc "How's work?"
+    mc "Come va il lavoro?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:40
 translate italian sm1cs_mh006_74515ee9:
 
     # mh "Same old, same old. Not much changes. Client needs a lawyer for a contract, or work dispute, I show up. I do the job, collect my retainer, head home to watch whatever's on the news."
-    mh "Same old, same old. Not much changes. Client needs a lawyer for a contract, or work dispute, I show up. I do the job, collect my retainer, head home to watch whatever's on the news."
+    mh "Sempre la solita storia. Non cambia molto. Un cliente ha bisogno di un avvocato per un contratto o una disputa lavorativa, mi presento. Faccio il lavoro, incasso l'anticipo, torno a casa a guardare qualunque cosa ci sia al telegiornale."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:43
 translate italian sm1cs_mh006_0fc446c6:
 
     # mc "That sounds... Exhilirating."
-    mc "That sounds... Exhilirating."
+    mc "Sembra... Esilarante."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:46
 translate italian sm1cs_mh006_7478ac5c:
 
     # mh "Oh, it very much is. I've been thinking of picking up a new extreme sport."
-    mh "Oh, it very much is. I've been thinking of picking up a new extreme sport."
+    mh "Oh, lo è davvero. Stavo pensando di iniziare un nuovo sport estremo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:50
 translate italian sm1cs_mh006_b1f5bd2e:
 
     # mc "Oh yeah? What extreme sport would that be?"
-    mc "Oh yeah? What extreme sport would that be?"
+    mc "Oh sì? Quale sport estremo sarebbe?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:54
 translate italian sm1cs_mh006_a07b4cab:
 
     # mh "Reading. I've always meant to give Emerson and Descartes some more face time, I figure now is as good a time as any."
-    mh "Reading. I've always meant to give Emerson and Descartes some more face time, I figure now is as good a time as any."
+    mh "La lettura. Ho sempre avuto intenzione di dedicare più tempo a Emerson e Descartes, penso che ora sia il momento giusto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:55
 translate italian sm1cs_mh006_1b2f99ea:
 
     # mh "What about you? How are things at the studio?"
-    mh "What about you? How are things at the studio?"
+    mh "E tu? Come vanno le cose allo studio?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:59
 translate italian sm1cs_mh006_19fa702d:
 
     # mc "Kind of the same. Just a whole lot of work that I need to do."
-    mc "Kind of the same. Just a whole lot of work that I need to do."
+    mc "Più o meno lo stesso. Solo un sacco di lavoro che devo fare."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:61
 translate italian sm1cs_mh006_a0ed0e18:
@@ -56,331 +56,331 @@ translate italian sm1cs_mh006_a0ed0e18:
 translate italian sm1cs_mh006_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:65
 translate italian sm1cs_mh006_8b71bd04:
 
     # mh "Nothing, it's just good to see you being productive."
-    mh "Nothing, it's just good to see you being productive."
+    mh "Niente, è bello vederti produttivo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:68
 translate italian sm1cs_mh006_c6c3a682:
 
     # mc "I don't know if I would call it 'productive'."
-    mc "I don't know if I would call it 'productive'."
+    mc "Non so se lo definirei 'produttivo'."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:72
 translate italian sm1cs_mh006_b82ed622:
 
     # mh "Rome wasn't built in a day."
-    mh "Rome wasn't built in a day."
+    mh "Roma non è stata costruita in un giorno."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:74
 translate italian sm1cs_mh006_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Eh?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:75
 translate italian sm1cs_mh006_dd492dd7:
 
     # mh "How long do you think it took me to build my legal practice?"
-    mh "How long do you think it took me to build my legal practice?"
+    mh "Quanto tempo pensi mi sia ci voluto per costruire il mio studio legale?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:79
 translate italian sm1cs_mh006_85e245ca:
 
     # mc "I don't know. You're really good at your job. So like, 3 months?"
-    mc "I don't know. You're really good at your job. So like, 3 months?"
+    mc "Non lo so. Sei davvero brava nel tuo lavoro. Quindi, tipo, 3 mesi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:82
 translate italian sm1cs_mh006_69618dba:
 
     # mh "You're incouragable. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
-    mh "You're incouragable. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
+    mh "Sei incorreggibile. No, mi ci sono voluti anni per ottenere i miei clienti. Tra coerenza, fiducia, integrazione reciproca - non è stato questione di una notte."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:84
 translate italian sm1cs_mh006_5693a819:
 
     # mc "Huh..."
-    mc "Huh..."
+    mc "Hmm..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:85
 translate italian sm1cs_mh006_5944d45f:
 
     # mh "But if you keep your nose to the grindstone, it will start to come together."
-    mh "But if you keep your nose to the grindstone, it will start to come together."
+    mh "Ma se continui a lavorare sodo, inizierà a prendere forma."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:88
 translate italian sm1cs_mh006_53a85b26:
 
     # mc "I know you're right. I just want it to come together now."
-    mc "I know you're right. I just want it to come together now."
+    mc "So che hai ragione. Voglio solo che prenda forma ora."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:91
 translate italian sm1cs_mh006_3eb54acb:
 
     # mh "Don't we all?"
-    mh "Don't we all?"
+    mh "Chi non lo vorrebbe?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:92
 translate italian sm1cs_mh006_6831af55:
 
     # mh "How are things with Stacy?"
-    mh "How are things with Stacy?"
+    mh "Come vanno le cose con Stacy?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:95
 translate italian sm1cs_mh006_d65e92bd:
 
     # mc "Good! At least I think so."
-    mc "Good! At least I think so."
+    mc "Bene! Almeno credo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:97
 translate italian sm1cs_mh006_3d30c17d:
 
     # mc "We actually just went on a date! It went... Mostly well minus the little bit of shop talk we had to do..."
-    mc "We actually just went on a date! It went... Mostly well minus the little bit of shop talk we had to do..."
+    mc "In realtà siamo appena usciti insieme! È andata... Per lo più bene a parte la piccola discussione di lavoro che abbiamo dovuto fare..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:99
 translate italian sm1cs_mh006_8919127b:
 
     # mc "I do need to remember to take her out, but between our schedules it never feels like there's free time."
-    mc "I do need to remember to take her out, but between our schedules it never feels like there's free time."
+    mc "Devo ricordarmi di portarla fuori, ma tra i nostri impegni sembra che non ci sia mai tempo libero."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:102
 translate italian sm1cs_mh006_5e0c4b07:
 
     # mh "Responsibilities."
-    mh "Responsibilities."
+    mh "Responsabilità."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:104
 translate italian sm1cs_mh006_f36e5aec:
 
     # mc "Exactly."
-    mc "Exactly."
+    mc "Esattamente."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:105
 translate italian sm1cs_mh006_44857798:
 
     # mh "Well... I'm glad you two are doing well."
-    mh "Well... I'm glad you two are doing well."
+    mh "Beh... Sono contenta che voi due stiate bene."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:108
 translate italian sm1cs_mh006_f2c555aa:
 
     # mc "I am... Pleasantly surprised to hear you say that, Lyssa."
-    mc "I am... Pleasantly surprised to hear you say that, Lyssa."
+    mc "Sono... Piacevolmente sorpreso di sentirti dire questo, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:110
 translate italian sm1cs_mh006_2f631098:
 
     # mh "Why?"
-    mh "Why?"
+    mh "Perché?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:111
 translate italian sm1cs_mh006_6be0d98a:
 
     # mc "Well, from our first talk... I didn't think you were a big fan of Stacy's."
-    mc "Well, from our first talk... I didn't think you were a big fan of Stacy's."
+    mc "Beh, dalla nostra prima conversazione... Non pensavo fossi una grande fan di Stacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:114
 translate italian sm1cs_mh006_2534315f:
 
     # mh "I have... Really, no feelings about Stacy."
-    mh "I have... Really, no feelings about Stacy."
+    mh "Non ho... Davvero, nessun sentimento particolare riguardo a Stacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:118
 translate italian sm1cs_mh006_ac87a311:
 
     # mc "That's... Well, different than what I was thinking."
-    mc "That's... Well, different than what I was thinking."
+    mc "È... Beh, diverso da quello che pensavo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:121
 translate italian sm1cs_mh006_6a7e11b5:
 
     # mh "Truthfully, the limited interactions I've had with Stacy, I have enjoyed her company."
-    mh "Truthfully, the limited interactions I've had with Stacy, I have enjoyed her company."
+    mh "A dire il vero, nelle limitate interazioni che ho avuto con Stacy, mi è piaciuta la sua compagnia."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:123
 translate italian sm1cs_mh006_01965571:
 
     # mh "And I know she's your sister, and that she's important to you."
-    mh "And I know she's your sister, and that she's important to you."
+    mh "E so che è tua sorella e che è importante per te."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:125
 translate italian sm1cs_mh006_f680769d:
 
     # mh "And I know you two are dating, and she's important to you."
-    mh "And I know you two are dating, and she's important to you."
+    mh "E so che voi due state insieme e che è importante per te."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:126
 translate italian sm1cs_mh006_d624b7b2:
 
     # mh "I wouldn't actually mind spending more time with her. I think... When we started seeing each other, I was just nervous you wouldn't find time for me."
-    mh "I wouldn't actually mind spending more time with her. I think... When we started seeing each other, I was just nervous you wouldn't find time for me."
+    mh "In realtà non mi dispiacerebbe passare più tempo con lei. Penso... Quando abbiamo iniziato a vederci, ero solo nervosa che non avresti trovato tempo per me."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:130
 translate italian sm1cs_mh006_e8c1a55c:
 
     # mh "But, I think I was wrong."
-    mh "But, I think I was wrong."
+    mh "Ma, penso di essermi sbagliata."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:133
 translate italian sm1cs_mh006_135bd3a5:
 
     # mc "Of course I'll make time for you, Lyssa. Always."
-    mc "Of course I'll make time for you, Lyssa. Always."
+    mc "Ovviamente troverò tempo per te, Lyssa. Sempre."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:134
 translate italian sm1cs_mh006_f71d126e:
 
     # mc "And you know..."
-    mc "And you know..."
+    mc "E sai..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:139
 translate italian sm1cs_mh006_a4e33397:
 
     # mc "We can all spend some time together. Learn a little bit more about each other."
-    mc "We can all spend some time together. Learn a little bit more about each other."
+    mc "Possiamo passare del tempo tutti insieme. Imparare a conoscerci un po' di più."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:142
 translate italian sm1cs_mh006_b6057d9e:
 
     # mh "I would like that."
-    mh "I would like that."
+    mh "Mi piacerebbe."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:143
 translate italian sm1cs_mh006_22ac5bf9:
 
     # mc "I think I would, too."
-    mc "I think I would, too."
+    mc "Penso che piacerebbe anche a me."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:149
 translate italian sm1cs_mh006_fb0f1f6f:
 
     # mc "When I'm here, it can be just you and me."
-    mc "When I'm here, it can be just you and me."
+    mc "Quando sono qui, possiamo essere solo io e te."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:152
 translate italian sm1cs_mh006_60249650:
 
     # mh "You don't need to do that, [mcname]."
-    mh "You don't need to do that, [mcname]."
+    mh "Non devi farlo, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:154
 translate italian sm1cs_mh006_323a47da:
 
     # mc "If it will make you more comfortable-"
-    mc "If it will make you more comfortable-"
+    mc "Se ti farebbe stare più a tuo agio-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:155
 translate italian sm1cs_mh006_c006bcdf:
 
     # mh "What would make me more comfortable is knowing that we are both totally open and honest with each other."
-    mh "What would make me more comfortable is knowing that we are both totally open and honest with each other."
+    mh "Ciò che mi farebbe stare più a mio agio è sapere che siamo entrambi totalmente aperti e onesti l'uno con l'altra."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:163
 translate italian sm1cs_mh006_after_choice_552d17e4:
 
     # mc "You know... There's something that's been bothering me a little bit..."
-    mc "You know... There's something that's been bothering me a little bit..."
+    mc "Sai... C'è qualcosa che mi sta infastidendo un po'..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:165
 translate italian sm1cs_mh006_after_choice_01cba904:
 
     # mh "What's that?"
-    mh "What's that?"
+    mh "Cos'è?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:166
 translate italian sm1cs_mh006_after_choice_d0e5c4f2:
 
     # mc "The other night, after the arcade. I thought we were having a nice moment, but then you kind of shut down..."
-    mc "The other night, after the arcade. I thought we were having a nice moment, but then you kind of shut down..."
+    mc "L'altra sera, dopo la sala giochi. Pensavo stessimo avendo un bel momento, ma poi ti sei un po' chiusa..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:169
 translate italian sm1cs_mh006_after_choice_8c3a2df4:
 
     # mh "Yes, I've been meaning to apologize for that..."
-    mh "Yes, I've been meaning to apologize for that..."
+    mh "Sì, avevo intenzione di scusarmi per quello..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:172
 translate italian sm1cs_mh006_after_choice_4e37c26e:
 
     # mc "Can you tell me what happened?"
-    mc "Can you tell me what happened?"
+    mc "Puoi dirmi cosa è successo?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:175
 translate italian sm1cs_mh006_after_choice_10cf7798:
 
     # mh "I... I wanted to hold out a little longer..."
-    mh "I... I wanted to hold out a little longer..."
+    mh "Io... Volevo resistere un po' più a lungo..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:177
 translate italian sm1cs_mh006_after_choice_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Cosa intendi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:178
 translate italian sm1cs_mh006_after_choice_bf05c5a5:
 
     # mh "When we first started seeing each other again, I... I told myself I would hold out until at least the third date. I wouldn't even think the word sex until you had wined and dined me enough."
-    mh "When we first started seeing each other again, I... I told myself I would hold out until at least the third date. I wouldn't even think the word sex until you had wined and dined me enough."
+    mh "Quando abbiamo iniziato a rivederci, io... Mi sono detta che avrei resistito almeno fino al terzo appuntamento. Non avrei nemmeno pensato alla parola sesso finché non mi avessi portata fuori abbastanza."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:179
 translate italian sm1cs_mh006_after_choice_c328ad82:
 
     # mh "But the other night..."
-    mh "But the other night..."
+    mh "Ma l'altra sera..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:182
 translate italian sm1cs_mh006_after_choice_a089f383:
 
     # mh "I don't know what it is about you, [mcname], but there is an intoxicating aura that surrounds you. Whenever I get close to you, I..."
-    mh "I don't know what it is about you, [mcname], but there is an intoxicating aura that surrounds you. Whenever I get close to you, I..."
+    mh "Non so cosa sia di te, [mcname], ma c'è un'aura inebriante che ti circonda. Ogni volta che mi avvicino a te, io..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:183
 translate italian sm1cs_mh006_after_choice_72bab072:
 
     # mh "God, I sound like a horny teenager."
-    mh "God, I sound like a horny teenager."
+    mh "Dio, sembro un'adolescente arrapata."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:186
 translate italian sm1cs_mh006_after_choice_b5d99a54:
 
     # mc "No! No, not at all. Please, go on."
-    mc "No! No, not at all. Please, go on."
+    mc "No! No, per niente. Per favore, continua."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:187
 translate italian sm1cs_mh006_after_choice_077f479f:
 
     # mct "For the love of God, go on!"
-    mct "For the love of God, go on!"
+    mct "Per l'amor di Dio, continua!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:191
 translate italian sm1cs_mh006_after_choice_c3abf3b2:
 
     # mh "The other night I caved to my... Baser instincts. I was... Not ashamed, or guilty, but... Not proud of it. I broke that promise to myself."
-    mh "The other night I caved to my... Baser instincts. I was... Not ashamed, or guilty, but... Not proud of it. I broke that promise to myself."
+    mh "L'altra sera ho ceduto ai miei... Istinti più bassi. Ero... Non mi vergognavo, né mi sentivo in colpa, ma... Non ne ero orgogliosa. Ho infranto quella promessa a me stessa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:195
 translate italian sm1cs_mh006_after_choice_d9ac63e5:
 
     # mc "I am sorry for being so... Enticing, I guess?"
-    mc "I am sorry for being so... Enticing, I guess?"
+    mc "Mi dispiace per essere così... Allettante, suppongo?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:198
 translate italian sm1cs_mh006_after_choice_b5ed92df:
 
     # mh "You should be sorry. The amount of trouble and turmoil you cause is truly astonishing."
-    mh "You should be sorry. The amount of trouble and turmoil you cause is truly astonishing."
+    mh "Dovresti essere dispiaciuto. La quantità di problemi e tumulti che causi è davvero sorprendente."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:200
 translate italian sm1cs_mh006_after_choice_49c6ffe2:
 
     # mc "Oh, I know."
-    mc "Oh, I know."
+    mc "Oh, lo so."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:201
 translate italian sm1cs_mh006_after_choice_0cbbebaf:
@@ -392,55 +392,55 @@ translate italian sm1cs_mh006_after_choice_0cbbebaf:
 translate italian sm1cs_mh006_after_choice_872840f2:
 
     # mc "Yes, Lyssa?"
-    mc "Yes, Lyssa?"
+    mc "Sì, Lyssa?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:207
 translate italian sm1cs_mh006_after_choice_f685f918:
 
     # mh "I love being around you."
-    mh "I love being around you."
+    mh "Amo stare con te."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:210
 translate italian sm1cs_mh006_after_choice_dd46282f:
 
     # mc "And I love being around you."
-    mc "And I love being around you."
+    mc "E io amo stare con te."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:211
 translate italian sm1cs_mh006_after_choice_1ab3ced8:
 
     # mc "So... You can think about sex again, huh?"
-    mc "So... You can think about sex again, huh?"
+    mc "Allora... Puoi pensare di nuovo al sesso, eh?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:214
 translate italian sm1cs_mh006_after_choice_318233a7:
 
     # mh "Oh? Someone's keeping track, huh."
-    mh "Oh? Someone's keeping track, huh."
+    mh "Oh? Qualcuno sta tenendo il conto, eh."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:216
 translate italian sm1cs_mh006_after_choice_0048f7e6:
 
     # mc "Maaaaaaybe."
-    mc "Maaaaaaybe."
+    mc "Forseeeeee."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:217
 translate italian sm1cs_mh006_after_choice_1a900bdf:
 
     # mh "I see where your mind is."
-    mh "I see where your mind is."
+    mh "Vedo dove è la tua mente."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:220
 translate italian sm1cs_mh006_after_choice_905dec45:
 
     # mc "Hey! I'm only thinking about it because you brought it up!"
-    mc "Hey! I'm only thinking about it because you brought it up!"
+    mc "Ehi! Ci sto pensando solo perché ne hai parlato tu!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:223
 translate italian sm1cs_mh006_after_choice_cb764a66:
 
     # mh "Are you trying to tell me that the guy running a porn studio only thinks about sex when it's brought up in conversation?"
-    mh "Are you trying to tell me that the guy running a porn studio only thinks about sex when it's brought up in conversation?"
+    mh "Stai cercando di dirmi che il ragazzo che gestisce uno studio porno pensa al sesso solo quando viene tirato fuori in conversazione?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:224
 translate italian sm1cs_mh006_after_choice_2b35b6fe:
@@ -452,283 +452,283 @@ translate italian sm1cs_mh006_after_choice_2b35b6fe:
 translate italian sm1cs_mh006_after_choice_2ab50be8:
 
     # mc "Okay, technically, I was thinking about it before, but I'm only {i}talking{/i} about it because you brought it up!"
-    mc "Okay, technically, I was thinking about it before, but I'm only {i}talking{/i} about it because you brought it up!"
+    mc "Ok, tecnicamente, ci stavo pensando prima, ma ne {i}parlo{/i} solo perché ne hai parlato tu!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:230
 translate italian sm1cs_mh006_after_choice_653a8793:
 
     # mh "Mmmhmmmm. I'll believe that when pigs fly."
-    mh "Mmmhmmmm. I'll believe that when pigs fly."
+    mh "Mmmhmmmm. Ci crederò quando i maiali voleranno."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:233
 translate italian sm1cs_mh006_after_choice_54fc16cf:
 
     # mc "Or when a shark bites a lawyer."
-    mc "Or when a shark bites a lawyer."
+    mc "O quando uno squalo morde un avvocato."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:236
 translate italian sm1cs_mh006_after_choice_81cc3a3a:
 
     # mh "What? What do you mean 'when a shark bites a lawyer'?"
-    mh "What? What do you mean 'when a shark bites a lawyer'?"
+    mh "Cosa? Cosa intendi con 'quando uno squalo morde un avvocato'?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:239
 translate italian sm1cs_mh006_after_choice_df387c72:
 
     # mc "Yeah. Because sharks don't bite lawyers. Professional courtesy."
-    mc "Yeah. Because sharks don't bite lawyers. Professional courtesy."
+    mc "Sì. Perché gli squali non mordono gli avvocati. Cortesia professionale."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:243
 translate italian sm1cs_mh006_after_choice_00aadb60:
 
     # mh "That was okay. Off your game tonight."
-    mh "That was okay. Off your game tonight."
+    mh "È stato ok. Sei fuori forma stasera."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:246
 translate italian sm1cs_mh006_after_choice_3092a798:
 
     # mc "I'll take a pity chuckle."
-    mc "I'll take a pity chuckle."
+    mc "Accetterò una risatina di pietà."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:249
 translate italian sm1cs_mh006_after_choice_a41ee276:
 
     # mh "You know, you are absolutely ridiculous."
-    mh "You know, you are absolutely ridiculous."
+    mh "Sai, sei assolutamente ridicolo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:252
 translate italian sm1cs_mh006_after_choice_16cbee7d:
 
     # mc "Yeah, it's all a part of my charm!"
-    mc "Yeah, it's all a part of my charm!"
+    mc "Sì, fa tutto parte del mio fascino!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:254
 translate italian sm1cs_mh006_after_choice_a21a6c96:
 
     # mh "Sure it is."
-    mh "Sure it is."
+    mh "Certo che sì."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:255
 translate italian sm1cs_mh006_after_choice_90500071:
 
     # mc "So... Third date... What are the chances?"
-    mc "So... Third date... What are the chances?"
+    mc "Quindi... Terzo appuntamento... Quali sono le possibilità?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:258
 translate italian sm1cs_mh006_after_choice_3ccd0cc3:
 
     # mh "We'll see, if you play it cool. Then, maybe."
-    mh "We'll see, if you play it cool. Then, maybe."
+    mh "Vedremo, se la giochi bene. Allora, forse."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:261
 translate italian sm1cs_mh006_after_choice_0b4e0455:
 
     # mc "Good enough for me!"
-    mc "Good enough for me!"
+    mc "Abbastanza buono per me!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:264
 translate italian sm1cs_mh006_after_choice_138ff025:
 
     # mh "It looks like our food is on it's way."
-    mh "It looks like our food is on it's way."
+    mh "Sembra che il nostro cibo sia in arrivo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:267
 translate italian sm1cs_mh006_after_choice_88cd8991:
 
     # mc "Great, because I am starving!"
-    mc "Great, because I am starving!"
+    mc "Ottimo, perché sto morendo di fame!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:270
 translate italian sm1cs_mh006_after_choice_53990969:
 
     # mh "Thinking about sex making you hungry?"
-    mh "Thinking about sex making you hungry?"
+    mh "Pensare al sesso ti fa venire fame?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:273
 translate italian sm1cs_mh006_after_choice_63540d25:
 
     # mc "Nope.{w} Trying to resist the gravitational pull of your beauty has really worked up my appetite."
-    mc "Nope.{w} Trying to resist the gravitational pull of your beauty has really worked up my appetite."
+    mc "No.{w} Cercare di resistere all'attrazione gravitazionale della tua bellezza mi ha davvero fatto venire appetito."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:275
 translate italian sm1cs_mh006_after_choice_8444950d:
 
     # mh "You smooth talker."
-    mh "You smooth talker."
+    mh "Sei un parlatore abile."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:276
 translate italian sm1cs_mh006_after_choice_cfcc2293:
 
     # mc "I know."
-    mc "I know."
+    mc "Lo so."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:290
 translate italian sm1cs_mh006_after_choice_38c2a39d:
 
     # mh "... Well you know the real difference between a lawyer and a vampire, right, [mcname]?"
-    mh "... Well you know the real difference between a lawyer and a vampire, right, [mcname]?"
+    mh "... Beh, conosci la vera differenza tra un avvocato e un vampiro, vero, [mcname]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:293
 translate italian sm1cs_mh006_after_choice_67009d7f:
 
     # mc "Uhhh, nope."
-    mc "Uhhh, nope."
+    mc "Uhhh, no."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:296
 translate italian sm1cs_mh006_after_choice_7b4f451e:
 
     # mh "Law school."
-    mh "Law school."
+    mh "La facoltà di giurisprudenza."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:299
 translate italian sm1cs_mh006_after_choice_aaf63cf5:
 
     # mc "That one was pretty good!"
-    mc "That one was pretty good!"
+    mc "Quella era piuttosto buona!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:302
 translate italian sm1cs_mh006_after_choice_dd90d3c6:
 
     # mh "I don't know, I really liked your cement joke."
-    mh "I don't know, I really liked your cement joke."
+    mh "Non lo so, mi è piaciuta molto la tua battuta sul cemento."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:305
 translate italian sm1cs_mh006_after_choice_0d3ef2ba:
 
     # mc "That one is an absolute classic."
-    mc "That one is an absolute classic."
+    mc "Quella è un classico assoluto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:306
 translate italian sm1cs_mh006_after_choice_cb70afb1:
 
     # mc "So..."
-    mc "So..."
+    mc "Allora..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:308
 translate italian sm1cs_mh006_after_choice_08e608a8:
 
     # mh "So..."
-    mh "So..."
+    mh "Allora..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:309
 translate italian sm1cs_mh006_after_choice_d1acc3d9:
 
     # mc "I had a great time tonight, Lyssa."
-    mc "I had a great time tonight, Lyssa."
+    mc "Mi sono divertito molto stasera, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:312
 translate italian sm1cs_mh006_after_choice_4078371f:
 
     # mh "I had a great time as well, [mcname]."
-    mh "I had a great time as well, [mcname]."
+    mh "Anche io mi sono divertita molto, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:315
 translate italian sm1cs_mh006_after_choice_ced52754:
 
     # mc "We should... Do it again, sometime, maybe?"
-    mc "We should... Do it again, sometime, maybe?"
+    mc "Dovremmo... Rifarlo, qualche volta, forse?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:317
 translate italian sm1cs_mh006_after_choice_7f0d5945:
 
     # mh "I think that would be amenable to me."
-    mh "I think that would be amenable to me."
+    mh "Penso che mi andrebbe bene."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:318
 translate italian sm1cs_mh006_after_choice_5ac8cc43:
 
     # mc "Good. Good..."
-    mc "Good. Good..."
+    mc "Bene. Bene..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:321
 translate italian sm1cs_mh006_after_choice_047c5d38:
 
     # mc "Wel, uhm... I guess-"
-    mc "Wel, uhm... I guess-"
+    mc "Beh, uhm... Suppongo-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:324
 translate italian sm1cs_mh006_after_choice_b5fd75b7:
 
     # mh "You want to come in for tea, or something?"
-    mh "You want to come in for tea, or something?"
+    mh "Vuoi entrare per un tè, o qualcosa del genere?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:327
 translate italian sm1cs_mh006_after_choice_db325a73:
 
     # mc "Yes! Yeah, uhm, absolutely."
-    mc "Yes! Yeah, uhm, absolutely."
+    mc "Sì! Sì, uhm, assolutamente."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:328
 translate italian sm1cs_mh006_after_choice_c6f5aad5:
 
     # mct "I don't know about tea, but I'm definitely down for something!"
-    mct "I don't know about tea, but I'm definitely down for something!"
+    mct "Non so se per il tè, ma sono assolutamente pronto per qualcosa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:331
 translate italian sm1cs_mh006_after_choice_0655c0b0:
 
     # mh "Tsk tsk, [mcname]. You're losing your cool."
-    mh "Tsk tsk, [mcname]. You're losing your cool."
+    mh "Tsk tsk, [mcname]. Stai perdendo la tua calma."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:333
 translate italian sm1cs_mh006_after_choice_2affa0d3:
 
     # mc "You're right, I'm sorry."
-    mc "You're right, I'm sorry."
+    mc "Hai ragione, mi dispiace."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:337
 translate italian sm1cs_mh006_after_choice_9c4093be:
 
     # mc "'Yeah, tea sounds cool. Or whatever.'"
-    mc "'Yeah, tea sounds cool. Or whatever.'"
+    mc "'Sì, il tè va bene. O qualunque cosa.'"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:340
 translate italian sm1cs_mh006_after_choice_1cbf27a3:
 
     # mh "Come on, before I change my mind, you weirdo."
-    mh "Come on, before I change my mind, you weirdo."
+    mh "Vieni, prima che cambi idea, strambo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:345
 translate italian sm1cs_mh006_after_choice_76d24172:
 
     # mct "Hell yeah!!!"
-    mct "Hell yeah!!!"
+    mct "Cavolo sì!!!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:354
 translate italian sm1cs_mh006_after_choice_99463040:
 
     # mct "Oh... She meant actual tea..."
-    mct "Oh... She meant actual tea..."
+    mct "Oh... Intendeva davvero il tè..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:357
 translate italian sm1cs_mh006_after_choice_aec001e1:
 
     # mh "Disappointed?"
-    mh "Disappointed?"
+    mh "Deluso?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:360
 translate italian sm1cs_mh006_after_choice_586568b7:
 
     # mc "Uh, huh? What?"
-    mc "Uh, huh? What?"
+    mc "Uh, eh? Cosa?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:363
 translate italian sm1cs_mh006_after_choice_860de970:
 
     # mh "The look on your face. You look disappointed."
-    mh "The look on your face. You look disappointed."
+    mh "L'espressione sul tuo viso. Sembri deluso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:366
 translate italian sm1cs_mh006_after_choice_e273a8d7:
 
     # mc "What! Nahhhhh. I'm... Like, totally cool."
-    mc "What! Nahhhhh. I'm... Like, totally cool."
+    mc "Cosa! Nahhhhh. Sono... Tipo, assolutamente a posto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:369
 translate italian sm1cs_mh006_after_choice_52c0ff02:
 
     # mh "Sure, Casanova. What kind of tea do you want?"
-    mh "Sure, Casanova. What kind of tea do you want?"
+    mh "Certo, Casanova. Che tipo di tè vuoi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:371
 translate italian sm1cs_mh006_after_choice_b3ae8984:
@@ -740,55 +740,55 @@ translate italian sm1cs_mh006_after_choice_b3ae8984:
 translate italian sm1cs_mh006_after_choice_b8c18fdc:
 
     # mct "Shit! The only tea I can think of is a video game teabag and that is {u}very different.{/u}"
-    mct "Shit! The only tea I can think of is a video game teabag and that is {u}very different.{/u}"
+    mct "Merda! L'unico tè a cui riesco a pensare è una teabag dei videogiochi e quello è {u}molto diverso.{/u}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:375
 translate italian sm1cs_mh006_after_choice_eb25c9ca:
 
     # mc "I'll have some... Jasper tea?"
-    mc "I'll have some... Jasper tea?"
+    mc "Prenderò un po'... Tè Jasper?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:378
 translate italian sm1cs_mh006_after_choice_40d02e69:
 
     # mh "Did you mean jasmine?"
-    mh "Did you mean jasmine?"
+    mh "Intendevi gelsomino?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:381
 translate italian sm1cs_mh006_after_choice_dfbaed0a:
 
     # mc "Yeah! Jasmine, that's it."
-    mc "Yeah! Jasmine, that's it."
+    mc "Sì! Gelsomino, esatto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:384
 translate italian sm1cs_mh006_after_choice_655cfc38:
 
     # mh "Sometimes you are the smoothest man I've ever met. Other times, I'd swear you learned how to talk on the internet."
-    mh "Sometimes you are the smoothest man I've ever met. Other times, I'd swear you learned how to talk on the internet."
+    mh "A volte sei l'uomo più affascinante che abbia mai incontrato. Altre volte, giurerei che hai imparato a parlare su internet."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:387
 translate italian sm1cs_mh006_after_choice_d3483b23:
 
     # mct "If she only knew..."
-    mct "If she only knew..."
+    mct "Se solo sapesse..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:390
 translate italian sm1cs_mh006_after_choice_3651ee69:
 
     # mh "I will be right back, just need to use the ladies room."
-    mh "I will be right back, just need to use the ladies room."
+    mh "Torno subito, devo solo andare in bagno."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:392
 translate italian sm1cs_mh006_after_choice_e94ab8a1:
 
     # mc "Okay! I will be right here, waiting for the tea to be ready."
-    mc "Okay! I will be right here, waiting for the tea to be ready."
+    mc "Ok! Sarò qui, aspettando che il tè sia pronto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:399
 translate italian sm1cs_mh006_after_choice_b290422d:
 
     # mct "I don't think I've ever used a teapot before..."
-    mct "I don't think I've ever used a teapot before..."
+    mct "Non credo di aver mai usato una teiera prima..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:400
 translate italian sm1cs_mh006_after_choice_7e05c2e7:
