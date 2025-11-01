@@ -404,235 +404,235 @@ translate italian sm1cs_mes004_after_dance_750c4e59:
 translate italian sm1cs_mes004_after_dance_a1fdf428:
 
     # mes "Let's see. Mine was with my neighbor at the park."
-    mes "Let's see. Mine was with my neighbor at the park."
+    mes "Vediamo. Il mio è stato con il mio vicino al parco."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:294
 translate italian sm1cs_mes004_after_dance_178dbc2d:
 
     # mc "Gross. You kissed some old man."
-    mc "Gross. You kissed some old man."
+    mc "Che schifo. Hai baciato un vecchio."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:298
 translate italian sm1cs_mes004_after_dance_3f4add27:
 
     # mes "Oh my god no!"
-    mes "Oh my god no!"
+    mes "Oh mio dio no!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:301
 translate italian sm1cs_mes004_after_dance_4b22e2aa:
 
     # mes "He was my neighbor, but he was my age."
-    mes "He was my neighbor, but he was my age."
+    mes "Era il mio vicino, ma aveva la mia età."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:302
 translate italian sm1cs_mes004_after_dance_d57a098c:
 
     # mes "Both of our families were there for a little picnic."
-    mes "Both of our families were there for a little picnic."
+    mes "Entrambe le nostre famiglie erano lì per un piccolo picnic."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:303
 translate italian sm1cs_mes004_after_dance_e943c8ec:
 
     # mes "I saw my chance and took it."
-    mes "I saw my chance and took it."
+    mes "Ho visto la mia occasione e l'ho colta."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:306
 translate italian sm1cs_mes004_after_dance_2b198cc3:
 
     # mc "Took it. Bold Min was bold."
-    mc "Took it. Bold Min was bold."
+    mc "L'hai colta. Min audace è stata audace."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:309
 translate italian sm1cs_mes004_after_dance_1935b3e5:
 
     # mes "Damn right."
-    mes "Damn right."
+    mes "Proprio così."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:310
 translate italian sm1cs_mes004_after_dance_12397180:
 
     # mes "But my brother saw us and told our parents."
-    mes "But my brother saw us and told our parents."
+    mes "Ma mio fratello ci ha visto e l'ha detto ai nostri genitori."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:314
 translate italian sm1cs_mes004_after_dance_23241577:
 
     # mc "What a little weasel."
-    mc "What a little weasel."
+    mc "Che donnola."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:317
 translate italian sm1cs_mes004_after_dance_277b647d:
 
     # mes "Haha. He was.{w} Still is sometimes."
-    mes "Haha. He was.{w} Still is sometimes."
+    mes "Haha. Lo era.{w} Lo è ancora a volte."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:318
 translate italian sm1cs_mes004_after_dance_6e001087:
 
     # mes "But at least he wasn't pushing me for an arranged marriage."
-    mes "But at least he wasn't pushing me for an arranged marriage."
+    mes "Ma almeno non mi stava spingendo verso un matrimonio combinato."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:322
 translate italian sm1cs_mes004_after_dance_534a3f0f:
 
     # mes "*softly* At least not this time."
-    mes "*softly* At least not this time."
+    mes "*dolcemente* Almeno non questa volta."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:328
 translate italian sm1cs_mes004_after_dance_c95aa715:
 
     # mc "Do you want to talk about it?"
-    mc "Do you want to talk about it?"
+    mc "Vuoi parlarne?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:331
 translate italian sm1cs_mes004_after_dance_bd9106df:
 
     # mes "No. It's."
-    mes "No. It's."
+    mes "No. È che."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:335
 translate italian sm1cs_mes004_after_dance_f737300f:
 
     # mes "*sighs* I don't want to ruin our fun."
-    mes "*sighs* I don't want to ruin our fun."
+    mes "*sospira* Non voglio rovinare il nostro divertimento."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:338
 translate italian sm1cs_mes004_after_dance_594c6824:
 
     # mc "Sometimes people have fun just by supporting their friends."
-    mc "Sometimes people have fun just by supporting their friends."
+    mc "A volte le persone si divertono semplicemente supportando i loro amici."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:341
 translate italian sm1cs_mes004_after_dance_fdc8a126:
 
     # mc "Or girlfriends."
-    mc "Or girlfriends."
+    mc "O fidanzate."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:344
 translate italian sm1cs_mes004_after_dance_0441d0d0:
 
     # mes "I know.{w} But... I don't want to feel like a burden to you, [mcname]."
-    mes "I know.{w} But... I don't want to feel like a burden to you, [mcname]."
+    mes "Lo so.{w} Ma... non voglio sentirmi un peso per te, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:345
 translate italian sm1cs_mes004_after_dance_da6dbe0d:
 
     # mes "That's not me."
-    mes "That's not me."
+    mes "Non sono io."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:349
 translate italian sm1cs_mes004_after_dance_dab54ff9:
 
     # mc "I know it's not."
-    mc "I know it's not."
+    mc "So che non lo sei."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:350
 translate italian sm1cs_mes004_after_dance_47525e74:
 
     # mc "Now get it off your chest."
-    mc "Now get it off your chest."
+    mc "Ora toglitelo dal petto."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:353
 translate italian sm1cs_mes004_after_dance_b38df737:
 
     # mc "Do that, and the next round is on me."
-    mc "Do that, and the next round is on me."
+    mc "Fallo, e il prossimo giro lo offro io."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:356
 translate italian sm1cs_mes004_after_dance_c770a76d:
 
     # mes "*sighs* Studying isn't the hardest thing since I've come back."
-    mes "*sighs* Studying isn't the hardest thing since I've come back."
+    mes "*sospira* Studiare non è la cosa più difficile da quando sono tornata."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:357
 translate italian sm1cs_mes004_after_dance_8be5a403:
 
     # mes "The occasional calls, the little \"check ins\" from my family are driving me nuts."
-    mes "The occasional calls, the little \"check ins\" from my family are driving me nuts."
+    mes "Le telefonate occasionali, i piccoli \"controlli\" della mia famiglia mi stanno facendo impazzire."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:361
 translate italian sm1cs_mes004_after_dance_bacaccb8:
 
     # mes "My parents speak very fluent double speak."
-    mes "My parents speak very fluent double speak."
+    mes "I miei genitori parlano un doppio discorso molto fluente."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:362
 translate italian sm1cs_mes004_after_dance_021dc685:
 
     # mes "The words all sound super caring, supportive. But there are snakes in the pool."
-    mes "The words all sound super caring, supportive. But there are snakes in the pool."
+    mes "Le parole sembrano tutte super premurose, di supporto. Ma ci sono serpenti nella piscina."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:365
 translate italian sm1cs_mes004_after_dance_00875d2b:
 
     # mc "What? You should call a plumber."
-    mc "What? You should call a plumber."
+    mc "Cosa? Dovresti chiamare un idraulico."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:366
 translate italian sm1cs_mes004_after_dance_efebe419:
 
     # mc "Or an exterminator?"
-    mc "Or an exterminator?"
+    mc "O un disinfestatore?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:370
 translate italian sm1cs_mes004_after_dance_0e248d9b:
 
     # mc "You would definitely call someone."
-    mc "You would definitely call someone."
+    mc "Chiameresti sicuramente qualcuno."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:373
 translate italian sm1cs_mes004_after_dance_b67e871c:
 
     # mes "Figurative snakes, [mcname].{w} Figurative."
-    mes "Figurative snakes, [mcname].{w} Figurative."
+    mes "Serpenti figurativi, [mcname].{w} Figurativi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:376
 translate italian sm1cs_mes004_after_dance_842b7d58:
 
     # mc "Ah. Good."
-    mc "Ah. Good."
+    mc "Ah. Bene."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:380
 translate italian sm1cs_mes004_after_dance_6d534c90:
 
     # mes "So when I figured out they were subtly trying to get me to accept that I would be better off coming home, I let them have it."
-    mes "So when I figured out they were subtly trying to get me to accept that I would be better off coming home, I let them have it."
+    mes "Quindi quando ho capito che stavano cercando sottilmente di farmi accettare che sarei stata meglio a tornare a casa, gliel'ho detto chiaro."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:381
 translate italian sm1cs_mes004_after_dance_fc63708e:
 
     # mes "Told them that they were hypocrites and that it's {b}my{/b} life.{w} Not theirs."
-    mes "Told them that they were hypocrites and that it's {b}my{/b} life.{w} Not theirs."
+    mes "Ho detto loro che erano ipocriti e che è la {b}mia{/b} vita.{w} Non la loro."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:384
 translate italian sm1cs_mes004_after_dance_bfd50567:
 
     # mes "They didn't like that.{w} Figures."
-    mes "They didn't like that.{w} Figures."
+    mes "Non gli è piaciuto.{w} Figurati."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:385
 translate italian sm1cs_mes004_after_dance_5757d871:
 
     # mes "I'll take that shot now."
-    mes "I'll take that shot now."
+    mes "Prenderò quello shottino ora."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:388
 translate italian sm1cs_mes004_after_dance_69c25b65:
 
     # mc "Yeah..."
-    mc "Yeah..."
+    mc "Sì..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:389
 translate italian sm1cs_mes004_after_dance_1d9fa708:
 
     # mc "Sorry for pushing you about it."
-    mc "Sorry for pushing you about it."
+    mc "Scusa per averti spinto a parlarne."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:392
 translate italian sm1cs_mes004_after_dance_b99b393e:
 
     # mes "Relax. You can get me to do a lot when I'm naked, but you never make me do anything I don't want to do, [mcname]."
-    mes "Relax. You can get me to do a lot when I'm naked, but you never make me do anything I don't want to do, [mcname]."
+    mes "Rilassati. Puoi farmi fare molte cose quando sono nuda, ma non mi fai mai fare nulla che non voglia fare, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:394
 translate italian sm1cs_mes004_after_dance_4661a639:
@@ -644,61 +644,61 @@ translate italian sm1cs_mes004_after_dance_4661a639:
 translate italian sm1cs_mes004_after_dance_80f3d690:
 
     # mc "Two more shots, please."
-    mc "Two more shots, please."
+    mc "Altri due shottini, per favore."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:404
 translate italian sm1cs_mes004_after_dance_1b3b9500:
 
     # mc "Fuck your parents."
-    mc "Fuck your parents."
+    mc "Fanculo ai tuoi genitori."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:407
 translate italian sm1cs_mes004_after_dance_a691c2ea:
 
     # mes "*giggles* Fuck my parents!"
-    mes "*giggles* Fuck my parents!"
+    mes "*ridacchia* Fanculo ai miei genitori!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:411
 translate italian sm1cs_mes004_after_dance_81283796:
 
     # mc "*gulps*"
-    mc "*gulps*"
+    mc "*deglutisce*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:415
 translate italian sm1cs_mes004_after_dance_91116b57:
 
     # mct "Oh my god."
-    mct "Oh my god."
+    mct "Oh mio dio."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:418
 translate italian sm1cs_mes004_after_dance_0e52b0eb:
 
     # mc "*weakly* My brain."
-    mc "*weakly* My brain."
+    mc "*debolmente* Il mio cervello."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:421
 translate italian sm1cs_mes004_after_dance_054de26c:
 
     # mc "*coughs*"
-    mc "*coughs*"
+    mc "*tossisce*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:425
 translate italian sm1cs_mes004_after_dance_dab43c1c:
 
     # mes "Yeah. No more."
-    mes "Yeah. No more."
+    mes "Sì. Basta così."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:426
 translate italian sm1cs_mes004_after_dance_daa4b912:
 
     # mes "Besides, I have something else I want to talk to {i}you{/i} about."
-    mes "Besides, I have something else I want to talk to {i}you{/i} about."
+    mes "Inoltre, c'è qualcos'altro di cui voglio parlare con {i}te{/i}."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:430
 translate italian sm1cs_mes004_after_dance_248220d4:
 
     # mes "And I need you to be clear-headed."
-    mes "And I need you to be clear-headed."
+    mes "E ho bisogno che tu sia lucido."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:431
 translate italian sm1cs_mes004_after_dance_8bc0b6d0:
