@@ -794,31 +794,31 @@ translate italian sm1cs_mh006_after_choice_b290422d:
 translate italian sm1cs_mh006_after_choice_7e05c2e7:
 
     # mct "In fact, I don't think anyone has ever really made me tea..."
-    mct "In fact, I don't think anyone has ever really made me tea..."
+    mct "Infatti, non credo che nessuno mi abbia mai preparato davvero il tè..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:402
 translate italian sm1cs_mh006_after_choice_d04e4d62:
 
     # mct "Is that weird?"
-    mct "Is that weird?"
+    mct "È strano?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:408
 translate italian sm1cs_mh006_after_choice_9344b249:
 
     # mct "Oh shit! What did I do!?"
-    mct "Oh shit! What did I do!?"
+    mct "Oh merda! Cos'ho fatto!?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:416
 translate italian sm1cs_mh006_after_choice_c478a49b:
 
     # mct "Did I break it? Uhhh, I don't know what to do. Uhm, I guess I'll just turn off the stove?"
-    mct "Did I break it? Uhhh, I don't know what to do. Uhm, I guess I'll just turn off the stove?"
+    mct "L'ho rotta? Uhhh, non so cosa fare. Uhm, suppongo che spegnerò i fornelli?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:421
 translate italian sm1cs_mh006_after_choice_f0dd61f2:
 
     # mh "Looks like our tea is ready."
-    mh "Looks like our tea is ready."
+    mh "Sembra che il nostro tè sia pronto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:426
 translate italian sm1cs_mh006_after_choice_2b35b6fe_1:
@@ -830,31 +830,31 @@ translate italian sm1cs_mh006_after_choice_2b35b6fe_1:
 translate italian sm1cs_mh006_after_choice_0f5e6726:
 
     # mh "You okay?"
-    mh "You okay?"
+    mh "Stai bene?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:430
 translate italian sm1cs_mh006_after_choice_0c170bad:
 
     # mc "Yep. You look so damn good I was stunned silent."
-    mc "Yep. You look so damn good I was stunned silent."
+    mc "Sì. Sei così dannatamente bella che sono rimasto senza parole."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:433
 translate italian sm1cs_mh006_after_choice_cc49fce0:
 
     # mh "Well, since the tea is ready, I think it's time for the 'something else'."
-    mh "Well, since the tea is ready, I think it's time for the 'something else'."
+    mh "Beh, visto che il tè è pronto, penso che sia ora per il 'qualcosa del genere'."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:453
 translate italian sm1cs_mh006_sex_b8b7db21:
 
     # mh "You know, keeping your clothes on might make this harder than it needs to be."
-    mh "You know, keeping your clothes on might make this harder than it needs to be."
+    mh "Sai, tenere i vestiti addosso potrebbe rendere tutto più difficile del necessario."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:456
 translate italian sm1cs_mh006_sex_621a3f7b:
 
     # mc "You've got a good point."
-    mc "You've got a good point."
+    mc "Hai ragione."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:461
 translate italian sm1cs_mh006_sex_f8260be7:
@@ -866,73 +866,73 @@ translate italian sm1cs_mh006_sex_f8260be7:
 translate italian sm1cs_mh006_sex_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Sì?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:464
 translate italian sm1cs_mh006_sex_95145c92:
 
     # mh "I missed this view a lot... I may have spent a few nights picturing this moment..."
-    mh "I missed this view a lot... I may have spent a few nights picturing this moment..."
+    mh "Mi è mancata molto questa vista... Potrei aver passato qualche notte immaginando questo momento..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:467
 translate italian sm1cs_mh006_sex_6eb5f030:
 
     # mc "Yeah? Well, in your fantasy, what's next?"
-    mc "Yeah? Well, in your fantasy, what's next?"
+    mc "Davvero? Beh, nella tua fantasia, cosa succede dopo?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:471
 translate italian sm1cs_mh006_sex_3292f73e:
 
     # mh "This."
-    mh "This."
+    mh "Questo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:474
 translate italian sm1cs_mh006_sex_a2813ae7:
 
     # mh "I have missed the taste of your dick, [mcname]."
-    mh "I have missed the taste of your dick, [mcname]."
+    mh "Mi è mancato il sapore del tuo cazzo, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:475
 translate italian sm1cs_mh006_sex_471b89ea:
 
     # mh "And judging by how hard you are, it's missed being in my mouth."
-    mh "And judging by how hard you are, it's missed being in my mouth."
+    mh "E a giudicare da quanto sei duro, gli è mancato stare nella mia bocca."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:478
 translate italian sm1cs_mh006_sex_f8cf1e9b:
 
     # mc "More than you know."
-    mc "More than you know."
+    mc "Più di quanto tu sappia."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:480
 translate italian sm1cs_mh006_sex_555ce2d0:
 
     # mh "Should we let them get reacquainted then?"
-    mh "Should we let them get reacquainted then?"
+    mh "Dovremmo lasciare che si riconoscano allora?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:482
 translate italian sm1cs_mh006_sex_f69b0fd2:
 
     # mc "God, yes."
-    mc "God, yes."
+    mc "Dio, sì."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:489
 translate italian sm1cs_mh006_sex_7448b0a8:
 
     # mc "Fuck, Lyssa... You weren't lying when you said you missed my dick."
-    mc "Fuck, Lyssa... You weren't lying when you said you missed my dick."
+    mc "Cazzo, Lyssa... Non mentivi quando dicevi che ti era mancato il mio cazzo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:490
 translate italian sm1cs_mh006_sex_a02a717b:
 
     # mc "I've missed your blowjobs, so much... You know exactly what I want."
-    mc "I've missed your blowjobs, so much... You know exactly what I want."
+    mc "Mi sono mancati i tuoi pompini, così tanto... Sai esattamente cosa voglio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:493
 translate italian sm1cs_mh006_sex_117c7b2f:
 
     # mc "Oh shit, that's {i}fucking amazing!{/i}"
-    mc "Oh shit, that's {i}fucking amazing!{/i}"
+    mc "Oh merda, è {i}fottutamente incredibile!{/i}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:494
 translate italian sm1cs_mh006_sex_ab0f0e94:
@@ -944,13 +944,13 @@ translate italian sm1cs_mh006_sex_ab0f0e94:
 translate italian sm1cs_mh006_sex_5e58901a:
 
     # mc "If I could, I wouldn't ever let you stop... This is just so wonderful..."
-    mc "If I could, I wouldn't ever let you stop... This is just so wonderful..."
+    mc "Se potessi, non ti lascerei mai fermare... È così meraviglioso..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:498
 translate italian sm1cs_mh006_sex_528f798e:
 
     # mc "Your lips wrapped around me, your head bobbing down on my cock, your tongue - God, your tongue!"
-    mc "Your lips wrapped around me, your head bobbing down on my cock, your tongue - God, your tongue!"
+    mc "Le tue labbra avvolte intorno a me, la tua testa che si muove sul mio cazzo, la tua lingua - Dio, la tua lingua!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:503
 translate italian sm1cs_mh006_sex_74c4e690:
@@ -962,19 +962,19 @@ translate italian sm1cs_mh006_sex_74c4e690:
 translate italian sm1cs_mh006_sex_509ac89a:
 
     # mc "If you're not careful-"
-    mc "If you're not careful-"
+    mc "Se non stai attenta-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:507
 translate italian sm1cs_mh006_sex_2b65586a:
 
     # mc "-Jesus, I want to cum down your throat. Holllly guacamollllley!"
-    mc "-Jesus, I want to cum down your throat. Holllly guacamollllley!"
+    mc "-Gesù, voglio venire nella tua gola. Santo cieeeeelo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:508
 translate italian sm1cs_mh006_sex_91f75041:
 
     # mc "Yeah, just like that - fuh - just like that!"
-    mc "Yeah, just like that - fuh - just like that!"
+    mc "Sì, proprio così - fuh - proprio così!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:511
 translate italian sm1cs_mh006_sex_4e99a1c1:
@@ -986,151 +986,151 @@ translate italian sm1cs_mh006_sex_4e99a1c1:
 translate italian sm1cs_mh006_sex_e1875902:
 
     # mc "I'm so close, Lyssa. Gah, I'm close!"
-    mc "I'm so close, Lyssa. Gah, I'm close!"
+    mc "Sono così vicino, Lyssa. Gah, sono vicino!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:517
 translate italian sm1cs_mh006_sex_0efca0a0:
 
     # mh "I can't wait any longer, [mcname]."
-    mh "I can't wait any longer, [mcname]."
+    mh "Non posso aspettare oltre, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:518
 translate italian sm1cs_mh006_sex_ec24b5ab:
 
     # mh "Please, will you fuck me?"
-    mh "Please, will you fuck me?"
+    mh "Per favore, mi scoperai?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:521
 translate italian sm1cs_mh006_sex_a8ca7c99:
 
     # mc "I would be an idiot to say no."
-    mc "I would be an idiot to say no."
+    mc "Sarei un idiota a dire di no."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:525
 translate italian sm1cs_mh006_sex_49c16406:
 
     # mh "I've been waiting for this... I... I've missed this, so much... Missed you..."
-    mh "I've been waiting for this... I... I've missed this, so much... Missed you..."
+    mh "Stavo aspettando questo... Io... Mi è mancato così tanto... Mi sei mancato..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:528
 translate italian sm1cs_mh006_sex_02926c63:
 
     # mc "Sounds like I need to make up for lost time."
-    mc "Sounds like I need to make up for lost time."
+    mc "Sembra che debba recuperare il tempo perduto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:532
 translate italian sm1cs_mh006_sex_9339daec:
 
     # mh "Please."
-    mh "Please."
+    mh "Per favore."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:539
 translate italian sm1cs_mh006_sex_912c7e55:
 
     # mh "Oh my - [mcname]!"
-    mh "Oh my - [mcname]!"
+    mh "Oh mio - [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:540
 translate italian sm1cs_mh006_sex_95c7633a:
 
     # mc "Are you okay?"
-    mc "Are you okay?"
+    mc "Stai bene?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:543
 translate italian sm1cs_mh006_sex_8337c3e3:
 
     # mh "I'm more than okay! Fnnnnng - I'm in {i}heaven{/i}!"
-    mh "I'm more than okay! Fnnnnng - I'm in {i}heaven{/i}!"
+    mh "Sto più che bene! Fnnnnng - Sono in {i}paradiso{/i}!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:546
 translate italian sm1cs_mh006_sex_43c042ff:
 
     # mh "I forgot how incredible this felt - how perfect your dick feels inside me."
-    mh "I forgot how incredible this felt - how perfect your dick feels inside me."
+    mh "Avevo dimenticato quanto fosse incredibile - quanto perfetto il tuo cazzo si sente dentro di me."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:547
 translate italian sm1cs_mh006_sex_ac05fc0b:
 
     # mh "Your cock fills me up, and stretches me - Mmmmmmmm! It's nothing short of {i}perfect!{/i}"
-    mh "Your cock fills me up, and stretches me - Mmmmmmmm! It's nothing short of {i}perfect!{/i}"
+    mh "Il tuo cazzo mi riempie e mi dilata - Mmmmmmmm! Non è niente meno che {i}perfetto!{/i}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:550
 translate italian sm1cs_mh006_sex_b1665062:
 
     # mc "And you're so incredibly tight. Jesus, I don't think I could pull my dick out if I tried!"
-    mc "And you're so incredibly tight. Jesus, I don't think I could pull my dick out if I tried!"
+    mc "E sei così incredibilmente stretta. Gesù, non credo che potrei tirare fuori il mio cazzo anche se ci provassi!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:551
 translate italian sm1cs_mh006_sex_ce6c4fc3:
 
     # mh "{i}Don't you dare, [mcname].{/i}"
-    mh "{i}Don't you dare, [mcname].{/i}"
+    mh "{i}Non osare, [mcname].{/i}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:554
 translate italian sm1cs_mh006_sex_b82b8d78:
 
     # mc "I wouldn't dream of it."
-    mc "I wouldn't dream of it."
+    mc "Non mi sognerei mai di farlo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:555
 translate italian sm1cs_mh006_sex_a0f276e0:
 
     # mh "Good, because - ohh, ohhhh, yessss - I need you to cum in meee."
-    mh "Good, because - ohh, ohhhh, yessss - I need you to cum in meee."
+    mh "Bene, perché - ohh, ohhhh, sìììì - ho bisogno che tu venga dentro di meee."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:558
 translate italian sm1cs_mh006_sex_c2d1457d:
 
     # mh "I need to feel you fill me up, your warm, sticky cum coating my insides."
-    mh "I need to feel you fill me up, your warm, sticky cum coating my insides."
+    mh "Ho bisogno di sentirti riempirmi, la tua sborra calda e appiccicosa che ricopre il mio interno."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:559
 translate italian sm1cs_mh006_sex_fbddc464:
 
     # mc "Goddamn, Lyssa..."
-    mc "Goddamn, Lyssa..."
+    mc "Dannazione, Lyssa..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:560
 translate italian sm1cs_mh006_sex_a5d39a36:
 
     # mh "I've been thinking about this... A lot. And I just need to remember what it feels like."
-    mh "I've been thinking about this... A lot. And I just need to remember what it feels like."
+    mh "Ho pensato a questo... Molto. E ho solo bisogno di ricordare come ci si sente."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:563
 translate italian sm1cs_mh006_sex_e1170953:
 
     # mc "I think I can fulfill your fantasy."
-    mc "I think I can fulfill your fantasy."
+    mc "Penso di poter realizzare la tua fantasia."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:564
 translate italian sm1cs_mh006_sex_70694833:
 
     # mh "Good. Because you've already filled me today."
-    mh "Good. Because you've already filled me today."
+    mh "Bene. Perché mi hai già riempita oggi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:567
 translate italian sm1cs_mh006_sex_d39ee0f9:
 
     # mc "Mmmmnnngnnnngggg, I'm getting close!"
-    mc "Mmmmnnngnnnngggg, I'm getting close!"
+    mc "Mmmmnnngnnnngggg, mi sto avvicinando!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:568
 translate italian sm1cs_mh006_sex_539d9a98:
 
     # mh "Flip me over, I want to see you cum!"
-    mh "Flip me over, I want to see you cum!"
+    mh "Girami, voglio vederti venire!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:574
 translate italian sm1cs_mh006_sex_e44443f0:
 
     # mh "What are you-"
-    mh "What are you-"
+    mh "Cosa stai-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:578
 translate italian sm1cs_mh006_sex_346b716c:
 
     # mh "Oh my God!!!"
-    mh "Oh my God!!!"
+    mh "Oh mio Dio!!!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:580
 translate italian sm1cs_mh006_sex_f49fff8f_1:
@@ -1142,49 +1142,49 @@ translate italian sm1cs_mh006_sex_f49fff8f_1:
 translate italian sm1cs_mh006_sex_925b1184:
 
     # mh "Fuhhh - that felt -"
-    mh "Fuhhh - that felt -"
+    mh "Fuhhh - è stato -"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:585
 translate italian sm1cs_mh006_sex_ab9779f2:
 
     # mc "Almost as good as this?"
-    mc "Almost as good as this?"
+    mc "Quasi buono come questo?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:592
 translate italian sm1cs_mh006_sex_7cf675bc:
 
     # mh "Oh my {i}GOD!{/i}"
-    mh "Oh my {i}GOD!{/i}"
+    mh "Oh mio {i}DIO!{/i}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:593
 translate italian sm1cs_mh006_sex_8df4c2b5:
 
     # mh "Don't stop, [mcname], please don't stop!"
-    mh "Don't stop, [mcname], please don't stop!"
+    mh "Non fermarti, [mcname], per favore non fermarti!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:595
 translate italian sm1cs_mh006_sex_352ece69:
 
     # mh "You're going to make me cum - holy shit, you're going to make me cum!"
-    mh "You're going to make me cum - holy shit, you're going to make me cum!"
+    mh "Mi farai venire - santo cielo, mi farai venire!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:596
 translate italian sm1cs_mh006_sex_3dcedd30:
 
     # mc "I can feel myself getting close..."
-    mc "I can feel myself getting close..."
+    mc "Sento che mi sto avvicinando..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:598
 translate italian sm1cs_mh006_sex_65155363:
 
     # mh "I want to cum together, {i}I need us to cum together!{/i}"
-    mh "I want to cum together, {i}I need us to cum together!{/i}"
+    mh "Voglio venire insieme, {i}ho bisogno che veniamo insieme!{/i}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:601
 translate italian sm1cs_mh006_sex_ce14dda4:
 
     # mh "Your dick is getting so much deeper now, holy - mmmmmmmm!"
-    mh "Your dick is getting so much deeper now, holy - mmmmmmmm!"
+    mh "Il tuo cazzo sta andando così più in profondità ora, santo - mmmmmmmm!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:603
 translate italian sm1cs_mh006_sex_b3bc47a9:
@@ -1196,169 +1196,169 @@ translate italian sm1cs_mh006_sex_b3bc47a9:
 translate italian sm1cs_mh006_sex_eae76607:
 
     # mh "Yes, [mcname], yes!"
-    mh "Yes, [mcname], yes!"
+    mh "Sì, [mcname], sì!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:606
 translate italian sm1cs_mh006_sex_3c3da4b8:
 
     # mc "Gaaaahh, I'm going to - fuuuuuck!"
-    mc "Gaaaahh, I'm going to - fuuuuuck!"
+    mc "Gaaaahh, sto per - caaaaaazzo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:607
 translate italian sm1cs_mh006_sex_9c0ce43f:
 
     # mh "Yes! Yes, yes, yes!"
-    mh "Yes! Yes, yes, yes!"
+    mh "Sì! Sì, sì, sì!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:608
 translate italian sm1cs_mh006_sex_d4900efc:
 
     # mh "God yes, fill me up! Shoot your cum deep inside my ass! Yes, yes, yes!"
-    mh "God yes, fill me up! Shoot your cum deep inside my ass! Yes, yes, yes!"
+    mh "Dio sì, riempimi! Sparami la tua sborra profondamente nel mio culo! Sì, sì, sì!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:611
 translate italian sm1cs_mh006_sex_e3132734:
 
     # mc "Fuck, Lyssa, I'm cummmmmming!"
-    mc "Fuck, Lyssa, I'm cummmmmming!"
+    mc "Cazzo, Lyssa, sto venendooooo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:612
 translate italian sm1cs_mh006_sex_0b0368d2:
 
     # mh "Yes! {i}Yes! YES! I'M CUMMING!{/i}"
-    mh "Yes! {i}Yes! YES! I'M CUMMING!{/i}"
+    mh "Sì! {i}Sì! SÌ! STO VENENDO!{/i}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:617
 translate italian sm1cs_mh006_sex_05931324:
 
     # mh "Ohhhh fuuUUUCK!"
-    mh "Ohhhh fuuUUUCK!"
+    mh "Ohhhh caaAAZZO!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:627
 translate italian sm1cs_mh006_sex_1ba4cf58:
 
     # mc "Everything you had imagined?"
-    mc "Everything you had imagined?"
+    mc "Tutto quello che avevi immaginato?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:630
 translate italian sm1cs_mh006_sex_aee6cab9:
 
     # mh "No. It was better than I could have ever dreamed."
-    mh "No. It was better than I could have ever dreamed."
+    mh "No. Era meglio di quanto avessi mai sognato."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:632
 translate italian sm1cs_mh006_sex_45e2a861:
 
     # mc "Good. That's what we aim to do here."
-    mc "Good. That's what we aim to do here."
+    mc "Bene. È quello che cerchiamo di fare qui."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:635
 translate italian sm1cs_mh006_sex_0da88a45:
 
     # mh "We?"
-    mh "We?"
+    mh "Noi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:638
 translate italian sm1cs_mh006_sex_4a073610:
 
     # mc "Yeah, me and you."
-    mc "Yeah, me and you."
+    mc "Sì, io e te."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:639
 translate italian sm1cs_mh006_sex_8321fefe:
 
     # mc "We aim to have the best sex possible."
-    mc "We aim to have the best sex possible."
+    mc "Cerchiamo di fare il miglior sesso possibile."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:642
 translate italian sm1cs_mh006_sex_95dec991:
 
     # mh "Well I think we exceeded those expectations tonight."
-    mh "Well I think we exceeded those expectations tonight."
+    mh "Beh, penso che abbiamo superato quelle aspettative stasera."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:645
 translate italian sm1cs_mh006_sex_3e780cd0:
 
     # mc "I think so, too."
-    mc "I think so, too."
+    mc "Penso anch'io."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:648
 translate italian sm1cs_mh006_sex_6d853030:
 
     # mh "Hell, I think you might have fucked me into a coma... I can't move an inch."
-    mh "Hell, I think you might have fucked me into a coma... I can't move an inch."
+    mh "Cavolo, penso che tu mi abbia scopata fino al coma... Non riesco a muovermi di un centimetro."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:650
 translate italian sm1cs_mh006_sex_4eadc533:
 
     # mc "Neither can I."
-    mc "Neither can I."
+    mc "Neanch'io."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:654
 translate italian sm1cs_mh006_sex_eb9608ff:
 
     # mc "But I should get up, otherwise, I'll fall asleep here."
-    mc "But I should get up, otherwise, I'll fall asleep here."
+    mc "Ma dovrei alzarmi, altrimenti mi addormenterò qui."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:656
 translate italian sm1cs_mh006_sex_a88aada8:
 
     # mh "That's fine."
-    mh "That's fine."
+    mh "Va bene."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:657
 translate italian sm1cs_mh006_sex_cc44a9c5:
 
     # mc "Really? What happened to taking it slow?"
-    mc "Really? What happened to taking it slow?"
+    mc "Davvero? Che fine ha fatto l'andare piano?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:660
 translate italian sm1cs_mh006_sex_bcea909b:
 
     # mh "It's not like you're leaving a toothbrush in the bathroom. Besides, I don't have the energy to kick you out."
-    mh "It's not like you're leaving a toothbrush in the bathroom. Besides, I don't have the energy to kick you out."
+    mh "Non è come se lasciassi uno spazzolino in bagno. Inoltre, non ho l'energia per buttarti fuori."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:663
 translate italian sm1cs_mh006_sex_d20c600e:
 
     # mc "Well, how can I say no to spending the night with a beautiful woman?"
-    mc "Well, how can I say no to spending the night with a beautiful woman?"
+    mc "Beh, come posso dire di no a passare la notte con una donna bellissima?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:664
 translate italian sm1cs_mh006_sex_a8660272:
 
     # mc "Should I get you a towel or something?"
-    mc "Should I get you a towel or something?"
+    mc "Dovrei prenderti un asciugamano o qualcosa del genere?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:666
 translate italian sm1cs_mh006_sex_9c263754:
 
     # mh "Hmmm? Why?"
-    mh "Hmmm? Why?"
+    mh "Hmmm? Perché?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:667
 translate italian sm1cs_mh006_sex_f40e1934:
 
     # mc "Well, you made a mess of yourself."
-    mc "Well, you made a mess of yourself."
+    mc "Beh, ti sei sporcata."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:670
 translate italian sm1cs_mh006_sex_ff158da2:
 
     # mh "It's fine, I'll deal with it in the morning."
-    mh "It's fine, I'll deal with it in the morning."
+    mh "Va bene, me ne occuperò domattina."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:672
 translate italian sm1cs_mh006_sex_74c498aa:
 
     # mc "Sounds good to me."
-    mc "Sounds good to me."
+    mc "Mi va bene."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:689
 translate italian sm1cs_mh006_sex_39ab3d10:
 
     # mc "Mmmmmm, morning, Lyssa."
-    mc "Mmmmmm, morning, Lyssa."
+    mc "Mmmmmm, buongiorno, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:693
 translate italian sm1cs_mh006_sex_3645e64f:
@@ -1370,25 +1370,25 @@ translate italian sm1cs_mh006_sex_3645e64f:
 translate italian sm1cs_mh006_sex_5ff87e6d:
 
     # mct "\"[mcname], got an early morning call from a client, had to run to the office. I loved our date last night, hope to do it again soon. x o, Lyssa.\""
-    mct "\"[mcname], got an early morning call from a client, had to run to the office. I loved our date last night, hope to do it again soon. x o, Lyssa.\""
+    mct "\"[mcname], ho ricevuto una chiamata da un cliente questa mattina presto, dovevo correre in ufficio. Mi è piaciuto il nostro appuntamento di ieri sera, spero di rifarlo presto. x o, Lyssa.\""
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:702
 translate italian sm1cs_mh006_sex_9b56754e:
 
     # mct "I hope we get to do that again real soon, too.{w} But I should probably get a start on the day."
-    mct "I hope we get to do that again real soon, too.{w} But I should probably get a start on the day."
+    mct "Spero che possiamo rifarlo molto presto anche noi.{w} Ma dovrei probabilmente iniziare la giornata."
 
 translate italian strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:135
     old "Offer to hang out - you, Lyssa, Stacy"
-    new "Offer to hang out - you, Lyssa, Stacy"
+    new "Offriti di uscire insieme - tu, Lyssa, Stacy"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:135
     old "I don't need to talk about Stacy when we're together"
-    new "I don't need to talk about Stacy when we're together"
+    new "Non ho bisogno di parlare di Stacy quando siamo insieme"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:281
     old "After dinner"
-    new "After dinner"
+    new "Dopo cena"
 
