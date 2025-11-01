@@ -1268,13 +1268,13 @@ translate italian sm1cs_mes006_continue_7d496051:
 translate italian sm1cs_mes006_continue_62d62fdd:
 
     # mc "It's all for show. She knows she can be overly dramatic sometimes."
-    mc "It's all for show. She knows she can be overly dramatic sometimes."
+    mc "È tutto per lo spettacolo. Sa che può essere troppo drammatica a volte."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:682
 translate italian sm1cs_mes006_continue_c0523ec0:
 
     # mc "I think."
-    mc "I think."
+    mc "Penso."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:685
 translate italian sm1cs_mes006_continue_292e527f:
@@ -1304,7 +1304,7 @@ translate italian sm1cs_mes006_continue_90f86819:
 translate italian sm1cs_mes006_continue_889ae141:
 
     # mes "I didn't say I did that. And don't ever tell my parents about that."
-    mes "I didn't say I did that. And don't ever tell my parents about that."
+    mes "Non ho detto di averlo fatto. E non dire mai ai miei genitori di questo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:700
 translate italian sm1cs_mes006_continue_33cea6f8:
@@ -1352,13 +1352,13 @@ translate italian sm1cs_mes006_continue_f8192d1d:
 translate italian sm1cs_mes006_continue_1c583666:
 
     # mc "I was planning to beat you on my own."
-    mc "I was planning to beat you on my own."
+    mc "Stavo pianificando di batterti da sola."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:720
 translate italian sm1cs_mes006_continue_1e811b7f:
 
     # mc "I don't know how I lost."
-    mc "I don't know how I lost."
+    mc "Non so come ho perso."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:723
 translate italian sm1cs_mes006_continue_21d6b28b:
@@ -1400,7 +1400,7 @@ translate italian sm1cs_mes006_continue_1d8491f1:
 translate italian sm1cs_mes006_continue_24e2b880:
 
     # mes "I can always crush her in other ways."
-    mes "I can always crush her in other ways."
+    mes "Posso sempre schiacciarla in altri modi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:746
 translate italian sm1cs_mes006_continue_d3ac7778:
@@ -1412,13 +1412,13 @@ translate italian sm1cs_mes006_continue_d3ac7778:
 translate italian sm1cs_mes006_continue_6d2a623d:
 
     # mes "I'm glad to have a night with friends instead of being alone in that big house."
-    mes "I'm glad to have a night with friends instead of being alone in that big house."
+    mes "Sono felice di avere una serata con gli amici invece di essere sola in quella grande casa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:750
 translate italian sm1cs_mes006_continue_c01ff12d:
 
     # sy "I will trade you our place for your house right now."
-    sy "I will trade you our place for your house right now."
+    sy "Scambierò il nostro posto con la tua casa adesso."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:753
 translate italian sm1cs_mes006_continue_08029828:
@@ -1472,7 +1472,7 @@ translate italian sm1cs_mes006_continue_61124161:
 translate italian sm1cs_mes006_continue_fa05b08b:
 
     # mes "Hehe. He's not so bad."
-    mes "Hehe. He's not so bad."
+    mes "Hehe. Non è poi così male."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:775
 translate italian sm1cs_mes006_continue_8e7bafa1:
@@ -1490,13 +1490,13 @@ translate italian sm1cs_mes006_continue_bfb67107:
 translate italian sm1cs_mes006_continue_19786203:
 
     # mes "I don't think so. Luckily, it's not completely their decision."
-    mes "I don't think so. Luckily, it's not completely their decision."
+    mes "Non penso. Per fortuna, non è completamente una loro decisione."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:784
 translate italian sm1cs_mes006_continue_6fba7714:
 
     # mes "I got some money willed to me by a family member, specifically so I could do my schooling here in the states."
-    mes "I got some money willed to me by a family member, specifically so I could do my schooling here in the states."
+    mes "Ho ricevuto del denaro in eredità da un membro della famiglia, specificamente per poter studiare qui negli Stati Uniti."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:785
 translate italian sm1cs_mes006_continue_365bd374:
@@ -1538,13 +1538,13 @@ translate italian sm1cs_mes006_continue_6d69255e:
 translate italian sm1cs_mes006_continue_2dbf386a:
 
     # mc "I mean, it sounds like you don't have much use for the house, why not live here?"
-    mc "I mean, it sounds like you don't have much use for the house, why not live here?"
+    mc "Voglio dire, sembra che non hai molto bisogno della casa, perché non vivi qui?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:805
 translate italian sm1cs_mes006_continue_ffd1d9b9:
 
     # sy "Hey yeah. And I can live in your big house."
-    sy "Hey yeah. And I can live in your big house."
+    sy "Ehi sì. E posso vivere nella tua grande casa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:808
 translate italian sm1cs_mes006_continue_319bb522:
@@ -1556,7 +1556,7 @@ translate italian sm1cs_mes006_continue_319bb522:
 translate italian sm1cs_mes006_continue_305c9e60:
 
     # mc "I imagined that if Min stayed here, then it would be like her parents have less influence on her."
-    mc "I imagined that if Min stayed here, then it would be like her parents have less influence on her."
+    mc "Immaginavo che se Min rimanesse qui, sarebbe come se i suoi genitori avessero meno influenza su di lei."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:812
 translate italian sm1cs_mes006_continue_ec50e082:
@@ -1610,13 +1610,13 @@ translate italian sm1cs_mes006_continue_f084ceee:
 translate italian sm1cs_mes006_continue_f36e5aec:
 
     # mc "Exactly."
-    mc "Exactly."
+    mc "Esattamente."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:841
 translate italian sm1cs_mes006_continue_74385276:
 
     # mes "I was going to comment about how for all the sex you have here, this place is pristine."
-    mes "I was going to comment about how for all the sex you have here, this place is pristine."
+    mes "Stavo per commentare su come con tutto il sesso che fate qui, questo posto è immacolato."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:844
 translate italian sm1cs_mes006_continue_500c16e0:
@@ -1670,13 +1670,13 @@ translate italian sm1cs_mes006_continue_d91d57e6:
 translate italian sm1cs_mes006_continue_60ea5b91:
 
     # mes "I don't know, [mcname]. If you had Stacy and I both living here, I imagine we'd mess around with you too much."
-    mes "I don't know, [mcname]. If you had Stacy and I both living here, I imagine we'd mess around with you too much."
+    mes "Non lo so, [mcname]. Se avessi sia Stacy che me qui, immagino che ti prenderemmo in giro troppo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:867
 translate italian sm1cs_mes006_continue_03624646:
 
     # mc "I never shy away from a challenge."
-    mc "I never shy away from a challenge."
+    mc "Non mi tiro mai indietro davanti a una sfida."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:870
 translate italian sm1cs_mes006_continue_6df17f5d:
@@ -1706,7 +1706,7 @@ translate italian sm1cs_mes006_continue_2d472eab:
 translate italian sm1cs_mes006_continue_961e6101:
 
     # mes "I bet."
-    mes "I bet."
+    mes "Scommetto."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:892
 translate italian sm1cs_mes006_continue_f8011c13:
@@ -1754,25 +1754,25 @@ translate italian sm1cs_mes006_continue_ede99395:
 translate italian sm1cs_mes006_continue_47083578:
 
     # mes "I think you are."
-    mes "I think you are."
+    mes "Penso che tu lo sia."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:909
 translate italian sm1cs_mes006_continue_dcef829a:
 
     # mes "I still remember your outfit from the last Fetish Locator Party..."
-    mes "I still remember your outfit from the last Fetish Locator Party..."
+    mes "Ricordo ancora il tuo outfit dell'ultima Fetish Locator Party..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:912
 translate italian sm1cs_mes006_continue_b68a639e:
 
     # sy "Hehe. You do?"
-    sy "Hehe. You do?"
+    sy "Hehe. Davvero?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:915
 translate italian sm1cs_mes006_continue_ea8af263:
 
     # mes "I was just bummed that [mcname] decided to keep you tucked away."
-    mes "I was just bummed that [mcname] decided to keep you tucked away."
+    mes "Ero solo deluso che [mcname] abbia deciso di tenerti nascosta."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:916
 translate italian sm1cs_mes006_continue_f0eabd3e:
@@ -1802,7 +1802,7 @@ translate italian sm1cs_mes006_continue_9e6f11df:
 translate italian sm1cs_mes006_continue_2022a062:
 
     # mes "Have you already forgotten how you and Allison fucked me on the roof of my house?"
-    mes "Have you already forgotten how you and Allison fucked me on the roof of my house?"
+    mes "Hai già dimenticato come tu e Allison mi avete scopata sul tetto di casa mia?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:931
 translate italian sm1cs_mes006_continue_a8b6d0be:
@@ -1820,7 +1820,7 @@ translate italian sm1cs_mes006_continue_a68c63be:
 translate italian sm1cs_mes006_continue_ffb48d84:
 
     # mes "Is that everyone cums."
-    mes "Is that everyone cums."
+    mes "È che tutti vengono."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:938
 translate italian sm1cs_mes006_continue_b8557eb2:
@@ -1832,7 +1832,7 @@ translate italian sm1cs_mes006_continue_b8557eb2:
 translate italian sm1cs_mes006_continue_442cbc45:
 
     # mes "I'm more than competent to tell you if something comes up that I don't like."
-    mes "I'm more than competent to tell you if something comes up that I don't like."
+    mes "Sono più che competente per dirti se succede qualcosa che non mi piace."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:945
 translate italian sm1cs_mes006_continue_ae2fa211:
@@ -1862,7 +1862,7 @@ translate italian sm1cs_mes006_continue_ae144466:
 translate italian sm1cs_mes006_continue_56157c5f:
 
     # mct "I'm going to pull out all the stops with these two."
-    mct "I'm going to pull out all the stops with these two."
+    mct "Tirerò fuori tutte le carte con queste due."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:970
 translate italian sm1cs_mes006_continue_119ce119:
@@ -1904,7 +1904,7 @@ translate italian sm1cs_mes006_continue_5833afb1:
 translate italian sm1cs_mes006_continue_4ec00f5f:
 
     # sy "I guess we'll see."
-    sy "I guess we'll see."
+    sy "Immagino che vedremo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:993
 translate italian sm1cs_mes006_continue_66fad05b:
@@ -2054,13 +2054,13 @@ translate italian sm1cs_mes006_continue_71c60863:
 translate italian sm1cs_mes006_continue_40f0d0c6:
 
     # mes "Haha. I hadn't thought of that."
-    mes "Haha. I hadn't thought of that."
+    mes "Haha. Non ci avevo pensato."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1078
 translate italian sm1cs_mes006_continue_eafa61d7:
 
     # mes "I guess I still have a lot to learn about you two."
-    mes "I guess I still have a lot to learn about you two."
+    mes "Immagino di avere ancora molto da imparare su voi due."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1080
 translate italian sm1cs_mes006_continue_969a8311:
@@ -2138,7 +2138,7 @@ translate italian sm1cs_mes006_continue_7e7cd596:
 translate italian sm1cs_mes006_continue_f9b6262c:
 
     # sy "Haha. I knew you two banged in the bathroom."
-    sy "Haha. I knew you two banged in the bathroom."
+    sy "Haha. Sapevo che voi due avevate scopato in bagno."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1113
 translate italian sm1cs_mes006_continue_8756d673:
@@ -2186,7 +2186,7 @@ translate italian sm1cs_mes006_continue_9cf25d16:
 translate italian sm1cs_mes006_continue_b47883da:
 
     # sy "I don't think I'd be into edging."
-    sy "I don't think I'd be into edging."
+    sy "Non penso che mi piacerebbe l'edging."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1127
 translate italian sm1cs_mes006_continue_7c59b92b:
@@ -2318,7 +2318,7 @@ translate italian sm1cs_mes006_continue_4cdddc44:
 translate italian sm1cs_mes006_continue_fe9f3204:
 
     # mc "I wasn't done talking."
-    mc "I wasn't done talking."
+    mc "Non avevo finito di parlare."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1188
 translate italian sm1cs_mes006_continue_26b0f4b7:
@@ -2366,7 +2366,7 @@ translate italian sm1cs_mes006_continue_3305fd72:
 translate italian sm1cs_mes006_continue_d021a562:
 
     # mes "I'm really happy... we're enjoying this so much."
-    mes "I'm really happy... we're enjoying this so much."
+    mes "Sono davvero felice... ce lo stiamo godendo così tanto."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1211
 translate italian sm1cs_mes006_continue_b88dd8f5:
@@ -3200,7 +3200,7 @@ translate italian sm1cs_mes006_after_wp_fdcf3625:
 translate italian sm1cs_mes006_after_wp_c0600f33:
 
     # sy "Come on, [mcname]!"
-    sy "Come on, [mcname]!"
+    sy "Dai, [mcname]!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1636
 translate italian sm1cs_mes006_after_wp_af27aaa2:
