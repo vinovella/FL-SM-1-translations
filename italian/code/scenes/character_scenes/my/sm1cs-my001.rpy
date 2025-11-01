@@ -728,169 +728,169 @@ translate italian sm1cs_my001_c313d667:
 translate italian sm1cs_my001_6947e99c:
 
     # mc "Hahahaha! No, nothing like that."
-    mc "Hahahaha! No, nothing like that."
+    mc "Hahahaha! No, niente del genere."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:375
 translate italian sm1cs_my001_28aa2c5d:
 
     # my "Then we are enemies!"
-    my "Then we are enemies!"
+    my "Allora siamo nemici!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:378
 translate italian sm1cs_my001_22bd9eae:
 
     # mc "No, I've actually not really travelled enough to have developed such an intense belief about hotel rooms."
-    mc "No, I've actually not really travelled enough to have developed such an intense belief about hotel rooms."
+    mc "No, in realtà non ho davvero viaggiato abbastanza per aver sviluppato una convinzione così intensa sulle camere d'albergo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:383
 translate italian sm1cs_my001_37d3229c:
 
     # mc "Woah, what'd I say?"
-    mc "Woah, what'd I say?"
+    mc "Woah, cosa ho detto?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:385
 translate italian sm1cs_my001_e1022fe1:
 
     # my "I should've brought you with me on more of my business trips. You deserved to experience more pockets of the world."
-    my "I should've brought you with me on more of my business trips. You deserved to experience more pockets of the world."
+    my "Avrei dovuto portarti con me in più dei miei viaggi di lavoro. Meritavi di sperimentare più angoli del mondo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:389
 translate italian sm1cs_my001_3df15804:
 
     # mc "Hey, I liked the way I grew up!"
-    mc "Hey, I liked the way I grew up!"
+    mc "Ehi, mi piaceva il modo in cui sono cresciuto!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:390
 translate italian sm1cs_my001_73060c61:
 
     # mc "Seriously, I am very happy with how things were back then. You don't need to do this to yourself."
-    mc "Seriously, I am very happy with how things were back then. You don't need to do this to yourself."
+    mc "Sul serio, sono molto felice di come erano le cose allora. Non hai bisogno di farlo a te stessa."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:393
 translate italian sm1cs_my001_8df3700e:
 
     # my "Thank you, [mcname]."
-    my "Thank you, [mcname]."
+    my "Grazie, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:396
 translate italian sm1cs_my001_5c9c2dd2:
 
     # mc "Of course, Mom."
-    mc "Of course, Mom."
+    mc "Certo, mamma."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:398
 translate italian sm1cs_my001_6298931c:
 
     # mc "Of course, Melony."
-    mc "Of course, Melony."
+    mc "Certo, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:402
 translate italian sm1cs_my001_04dbe6ac:
 
     # "Waiter" "Sir, ma'am, your oysters."
-    "Waiter" "Sir, ma'am, your oysters."
+    "Cameriere" "Signore, signora, le vostre ostriche."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:406
 translate italian sm1cs_my001_e9721ff3:
 
     # mc "Thank you!"
-    mc "Thank you!"
+    mc "Grazie!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:408
 translate italian sm1cs_my001_f581eec3:
 
     # "Waiter" "And your linguini is soon to follow. Enjoy."
-    "Waiter" "And your linguini is soon to follow. Enjoy."
+    "Cameriere" "E le vostre linguine seguiranno a breve. Buon appetito."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:412
 translate italian sm1cs_my001_840783b0:
 
     # my "Mmmm... I can't even remember the last time I had oysters."
-    my "Mmmm... I can't even remember the last time I had oysters."
+    my "Mmmm... non riesco nemmeno a ricordare l'ultima volta che ho mangiato ostriche."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:414
 translate italian sm1cs_my001_4eadc533:
 
     # mc "Neither can I."
-    mc "Neither can I."
+    mc "Neanch'io."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:419
 translate italian sm1cs_my001_b0b4b5c3:
 
     # my "You know, they say that oysters are an aphrodisiac."
-    my "You know, they say that oysters are an aphrodisiac."
+    my "Sai, dicono che le ostriche siano un afrodisiaco."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:422
 translate italian sm1cs_my001_d13da080:
 
     # mct "Uh oh. I thought I was being subtle!"
-    mct "Uh oh. I thought I was being subtle!"
+    mct "Uh oh. Pensavo di essere stato sottile!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:425
 translate italian sm1cs_my001_db81c84e:
 
     # my "Which is why I don't believe for a second that you haven't had oysters recently."
-    my "Which is why I don't believe for a second that you haven't had oysters recently."
+    my "Ecco perché non credo per un secondo che tu non abbia mangiato ostriche di recente."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:427
 translate italian sm1cs_my001_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Eh?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:430
 translate italian sm1cs_my001_5b68a6d7:
 
     # my "Oh, we're both adults here, [mcname]. And maybe it's the wine talking a bit..."
-    my "Oh, we're both adults here, [mcname]. And maybe it's the wine talking a bit..."
+    my "Oh, siamo entrambi adulti qui, [mcname]. E forse è il vino che parla un po'..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:433
 translate italian sm1cs_my001_093fb09a:
 
     # my "But you don't open an adult entertainment studio without knowing how to woo a woman or two."
-    my "But you don't open an adult entertainment studio without knowing how to woo a woman or two."
+    my "Ma non apri uno studio di intrattenimento per adulti senza sapere come corteggiare una o due donne."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:436
 translate italian sm1cs_my001_efa8d387:
 
     # my "And judging from what I read about Fetish Locator, you have wooed more than your fair share of women."
-    my "And judging from what I read about Fetish Locator, you have wooed more than your fair share of women."
+    my "E a giudicare da quello che ho letto su Fetish Locator, hai corteggiato più della tua giusta quota di donne."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:438
 translate italian sm1cs_my001_7e28e752:
 
     # mc "Well, uh..."
-    mc "Well, uh..."
+    mc "Beh, ehm..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:439
 translate italian sm1cs_my001_395a27bb:
 
     # my "It's okay, [mcname]. We all have our wild times. Sure, they all look a little different, but they're all wild."
-    my "It's okay, [mcname]. We all have our wild times. Sure, they all look a little different, but they're all wild."
+    my "Va bene, [mcname]. Tutti abbiamo i nostri tempi folli. Certo, sembrano tutti un po' diversi, ma sono tutti folli."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:440
 translate italian sm1cs_my001_343a0f02:
 
     # mc "Then what was your wild time?"
-    mc "Then what was your wild time?"
+    mc "Allora qual è stato il tuo tempo folle?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:443
 translate italian sm1cs_my001_2473732d:
 
     # my "When I finished my residency in Crowning, I bought a one way ticket to Europe and spent 6 months roaming and seeing all of the breathtaking art I could find."
-    my "When I finished my residency in Crowning, I bought a one way ticket to Europe and spent 6 months roaming and seeing all of the breathtaking art I could find."
+    my "Quando ho finito la mia residenza a Crowning, ho comprato un biglietto di sola andata per l'Europa e ho trascorso 6 mesi vagabondando e vedendo tutta l'arte mozzafiato che potevo trovare."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:445
 translate italian sm1cs_my001_fb339fdb:
 
     # mc "Wow, I didn't know that."
-    mc "Wow, I didn't know that."
+    mc "Wow, non lo sapevo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:447
 translate italian sm1cs_my001_d352779f:
 
     # my "There's a lot you don't know about your mother, [mcname]."
-    my "There's a lot you don't know about your mother, [mcname]."
+    my "C'è molto che non sai su tua madre, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:449
 translate italian sm1cs_my001_cd403df4:
