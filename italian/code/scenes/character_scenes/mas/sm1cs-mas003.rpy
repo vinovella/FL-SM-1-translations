@@ -1682,37 +1682,37 @@ translate italian strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:65
     old "Say nothing"
-    new "Say nothing"
+    new "Non dire nulla"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:109
     old "Joke"
-    new "Joke"
+    new "Scherza"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:109
     old "Complain"
-    new "Complain"
+    new "Lamentati"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:359
     old "Play it cool"
-    new "Play it cool"
+    new "Fai il figo"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:359
     old "Agree with her"
-    new "Agree with her"
+    new "Concordi con lei"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:904
     old "I saw nothing"
-    new "I saw nothing"
+    new "Non ho visto nulla"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:904
     old "Ask for your cut"
-    new "Ask for your cut"
+    new "Chiedi la tua parte"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
     old "Wurst delivery tip"
-    new "Wurst delivery tip"
+    new "Mancia per consegna Wurst"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
     old "You got a ${} as your cut of the tip."
-    new "You got a ${} as your cut of the tip."
+    new "Hai ricevuto ${} come tua parte della mancia."
 
