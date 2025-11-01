@@ -416,13 +416,13 @@ translate italian sm1cs_mas003_second_delivery_1a33efeb:
 translate italian sm1cs_mas003_second_delivery_3656a527:
 
     # mc "You sure?"
-    mc "Sei sicuro?"
+    mc "Sei sicura?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:303
 translate italian sm1cs_mas003_second_delivery_a29bb840:
 
     # ms "Pretty sure."
-    ms "Abbastanza sicuro."
+    ms "Abbastanza sicura."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:306
 translate italian sm1cs_mas003_second_delivery_874a8e36:

@@ -302,7 +302,7 @@ translate italian sm1cs_mas004_40b39c31:
 translate italian sm1cs_mas004_8a517569:
 
     # mc "Nope. Nothing is on."
-    mc "No. Niente è acceso."
+    mc "No. Non succede niente."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:189
 translate italian sm1cs_mas004_b9aecd56:
@@ -692,7 +692,7 @@ translate italian sm1cs_mas004_2f5753b6:
 translate italian sm1cs_mas004_075ca26e:
 
     # mc "Focused."
-    mc "Concentrato."
+    mc "Concentrata."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:396
 translate italian sm1cs_mas004_25a4c9ff:
@@ -1232,7 +1232,7 @@ translate italian sm1cs_mas004_17356166:
 translate italian sm1cs_mas004_110edea5:
 
     # ms "I'm your bad bitch."
-    ms "Sono la tua brutta ragazza."
+    ms "Sono la tua cattiva ragazza."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:634
 translate italian sm1cs_mas004_77596882:
