@@ -896,61 +896,61 @@ translate italian sm1cs_my001_d352779f:
 translate italian sm1cs_my001_cd403df4:
 
     # my "There's a lot you don't know about me, [mcname]."
-    my "There's a lot you don't know about me, [mcname]."
+    my "C'è molto che non sai di me, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:450
 translate italian sm1cs_my001_4fd73ed9:
 
     # mc "Well, what was your favorite thing you saw on that trip?"
-    mc "Well, what was your favorite thing you saw on that trip?"
+    mc "Beh, qual è stata la tua cosa preferita che hai visto in quel viaggio?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:460
 translate italian sm1cs_my001_7d57780b:
 
     # my "Mmmmm. That's tough..."
-    my "Mmmmm. That's tough..."
+    my "Mmmmm. È difficile..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:461
 translate italian sm1cs_my001_e1232321:
 
     # my "But... the one I think back to the most was in Rome."
-    my "But... the one I think back to the most was in Rome."
+    my "Ma... quello a cui ripenso di più era a Roma."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:467
 translate italian sm1cs_my001_52839a06:
 
     # my "Everyone who does art, has to go to Rome once. There's just so much history there..."
-    my "Everyone who does art, has to go to Rome once. There's just so much history there..."
+    my "Chiunque faccia arte, deve andare a Roma una volta. C'è così tanta storia lì..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:470
 translate italian sm1cs_my001_979026c1:
 
     # my "I was staying in this hostel, and the gal in the bed next to me came back one day, eyes shining like she had just found a treasure trove."
-    my "I was staying in this hostel, and the gal in the bed next to me came back one day, eyes shining like she had just found a treasure trove."
+    my "Alloggiavo in questo ostello, e la ragazza nel letto accanto a me tornò un giorno, con gli occhi che brillavano come se avesse appena trovato un tesoro."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:471
 translate italian sm1cs_my001_a5882d48:
 
     # my "And she had."
-    my "And she had."
+    my "E lo aveva fatto."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:474
 translate italian sm1cs_my001_784fe2d6:
 
     # mc "Like, real gold?"
-    mc "Like, real gold?"
+    mc "Tipo, oro vero?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:476
 translate italian sm1cs_my001_faabdcb4:
 
     # my "Better. She had found a hidden Caravaggio."
-    my "Better. She had found a hidden Caravaggio."
+    my "Meglio. Aveva trovato un Caravaggio nascosto."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:479
 translate italian sm1cs_my001_8e6d5189:
 
     # mc "A car of what?"
-    mc "A car of what?"
+    mc "Un'auto di cosa?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:481
 translate italian sm1cs_my001_020760d3:
