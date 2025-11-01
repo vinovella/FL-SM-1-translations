@@ -2,31 +2,31 @@
 translate italian sm1cs_my001_9b7ea265:
 
     # mc "So, what do ya' think?"
-    mc "So, what do ya' think?"
+    mc "Allora, che ne pensi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:20
 translate italian sm1cs_my001_78f4d6fe:
 
     # sy "Oooo la la! Someone is getting all fancy."
-    sy "Oooo la la! Someone is getting all fancy."
+    sy "Oooo la la! Qualcuno si sta facendo elegante."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:24
 translate italian sm1cs_my001_97928a99:
 
     # mc "Uh huh. I got myself a hot date tonight."
-    mc "Uh huh. I got myself a hot date tonight."
+    mc "Uh huh. Ho un appuntamento stasera."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:26
 translate italian sm1cs_my001_98f81e33:
 
     # sy "Oh yeah? With who?"
-    sy "Oh yeah? With who?"
+    sy "Oh sì? Con chi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:30
 translate italian sm1cs_my001_e85f03ff:
 
     # mc "Mom."
-    mc "Mom."
+    mc "Mamma."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:32
 translate italian sm1cs_my001_e67e1668:
@@ -38,13 +38,13 @@ translate italian sm1cs_my001_e67e1668:
 translate italian sm1cs_my001_9e3a3cc7:
 
     # sy "Like, a real bona fide date?"
-    sy "Like, a real bona fide date?"
+    sy "Tipo, un vero appuntamento?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:37
 translate italian sm1cs_my001_bbb44561:
 
     # mc "Well, I'm taking her to dinner to thank her for her help with the renovation."
-    mc "Well, I'm taking her to dinner to thank her for her help with the renovation."
+    mc "Beh, la porto a cena per ringraziarla del suo aiuto con la ristrutturazione."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:41
 translate italian sm1cs_my001_14786da3:
@@ -56,109 +56,109 @@ translate italian sm1cs_my001_14786da3:
 translate italian sm1cs_my001_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:46
 translate italian sm1cs_my001_c02649b6:
 
     # sy "She doesn't {i}know{/i} it's a date."
-    sy "She doesn't {i}know{/i} it's a date."
+    sy "Lei non {i}sa{/i} che è un appuntamento."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:48
 translate italian sm1cs_my001_59d5afa2:
 
     # mc "But I'm taking her out!"
-    mc "But I'm taking her out!"
+    mc "Ma la sto portando fuori!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:52
 translate italian sm1cs_my001_da48ac70:
 
     # sy "Yeah, her son is taking her to dinner for being a good mom. That's all she thinks it is."
-    sy "Yeah, her son is taking her to dinner for being a good mom. That's all she thinks it is."
+    sy "Sì, suo figlio la porta a cena per essere stata una brava mamma. È tutto quello che pensa che sia."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:54
 translate italian sm1cs_my001_f384df21:
 
     # sy "Yeah, her friend's kid is taking her out to dinner to say thanks for painting the wall. That's all she thinks it is."
-    sy "Yeah, her friend's kid is taking her out to dinner to say thanks for painting the wall. That's all she thinks it is."
+    sy "Sì, il figlio del suo amico la porta a cena per ringraziarla di aver dipinto il muro. È tutto quello che pensa che sia."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:57
 translate italian sm1cs_my001_2fb4ae64:
 
     # mc "Well, when you put it that way..."
-    mc "Well, when you put it that way..."
+    mc "Beh, se la metti così..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:61
 translate italian sm1cs_my001_688d1fa8:
 
     # sy "You'll just have to use the ol' [mcname] charm on her to show her it's a {i}date{/i} date."
-    sy "You'll just have to use the ol' [mcname] charm on her to show her it's a {i}date{/i} date."
+    sy "Dovrai solo usare il vecchio fascino di [mcname] su di lei per farle capire che è un {i}appuntamento{/i} appuntamento."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:63
 translate italian sm1cs_my001_831e66f9:
 
     # mc "What the hell is the \"[mcname] charm\"?"
-    mc "What the hell is the \"[mcname] charm\"?"
+    mc "Che diavolo è il \"fascino di [mcname]\"?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:67
 translate italian sm1cs_my001_6bc011db:
 
     # sy "No clue. But it seems to work with pretty much everyone, so just be you tonight and everything will work out."
-    sy "No clue. But it seems to work with pretty much everyone, so just be you tonight and everything will work out."
+    sy "Non ne ho idea. Ma sembra funzionare con praticamente tutti, quindi sii solo te stesso stasera e tutto andrà bene."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:70
 translate italian sm1cs_my001_4dd94c72:
 
     # mc "Thanks for the pep talk, sis."
-    mc "Thanks for the pep talk, sis."
+    mc "Grazie per l'incoraggiamento, sorellina."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:72
 translate italian sm1cs_my001_c1097488:
 
     # mc "Thanks for the pep talk, Stacy."
-    mc "Thanks for the pep talk, Stacy."
+    mc "Grazie per l'incoraggiamento, Stacy."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:77
 translate italian sm1cs_my001_293b6f8c:
 
     # sy "That's what I'm here for!"
-    sy "That's what I'm here for!"
+    sy "È per questo che sono qui!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:80
 translate italian sm1cs_my001_efe5b177:
 
     # sy "I just can't believe you actually asked her out."
-    sy "I just can't believe you actually asked her out."
+    sy "Non posso credere che tu l'abbia davvero invitata fuori."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:84
 translate italian sm1cs_my001_9e65a1b3:
 
     # mc "Why!? This was your idea!"
-    mc "Why!? This was your idea!"
+    mc "Perché!? È stata una tua idea!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:87
 translate italian sm1cs_my001_fb7a3a46:
 
     # sy "Yeah, but I didn't think you'd do it."
-    sy "Yeah, but I didn't think you'd do it."
+    sy "Sì, ma non pensavo che l'avresti fatto."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:91
 translate italian sm1cs_my001_56c3991c:
 
     # mc "Why not?"
-    mc "Why not?"
+    mc "Perché no?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:95
 translate italian sm1cs_my001_43595862:
 
     # sy "I don't know. But I support the fact that you're going for it!"
-    sy "I don't know. But I support the fact that you're going for it!"
+    sy "Non lo so. Ma sostengo il fatto che tu ci stia provando!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:97
 translate italian sm1cs_my001_d1bddb7d:
 
     # mc "Well... I have to keep you guessing!"
-    mc "Well... I have to keep you guessing!"
+    mc "Beh... devo tenerti sulle spine!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:98
 translate italian sm1cs_my001_2b35b6fe:
@@ -170,139 +170,139 @@ translate italian sm1cs_my001_2b35b6fe:
 translate italian sm1cs_my001_fbde72e8:
 
     # mc "Why are you naked?"
-    mc "Why are you naked?"
+    mc "Perché sei nuda?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:103
 translate italian sm1cs_my001_fc36362a:
 
     # sy "I'm going to take a shower."
-    sy "I'm going to take a shower."
+    sy "Sto andando a fare una doccia."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:105
 translate italian sm1cs_my001_d0272e8d:
 
     # mc "Uh huh... and why didn't you just wait to get into the bathroom?"
-    mc "Uh huh... and why didn't you just wait to get into the bathroom?"
+    mc "Uh huh... e perché non hai aspettato ad entrare in bagno?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:108
 translate italian sm1cs_my001_7fe7034c:
 
     # sy "I didn't want to get my panties wet."
-    sy "I didn't want to get my panties wet."
+    sy "Non volevo bagnare le mie mutandine."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:110
 translate italian sm1cs_my001_aa8caa83:
 
     # mc "Wet... but... huh?"
-    mc "Wet... but... huh?"
+    mc "Bagnare... ma... eh?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:115
 translate italian sm1cs_my001_f311ecb2:
 
     # sy "The thought of you fucking Mom really turned me on. So I'm going to rub one out picturing that."
-    sy "The thought of you fucking Mom really turned me on. So I'm going to rub one out picturing that."
+    sy "Il pensiero di te che scopi la mamma mi ha davvero eccitata. Quindi sto andando a masturbarmi immaginandolo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:117
 translate italian sm1cs_my001_7edbd952:
 
     # sy "The thought of you fucking Melony really turned me on. So I'm going to rub one out picturing that."
-    sy "The thought of you fucking Melony really turned me on. So I'm going to rub one out picturing that."
+    sy "Il pensiero di te che scopi Melony mi ha davvero eccitata. Quindi sto andando a masturbarmi immaginandolo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:118
 translate italian sm1cs_my001_541e36d8:
 
     # sy "Enjoy your date!"
-    sy "Enjoy your date!"
+    sy "Goditi il tuo appuntamento!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:121
 translate italian sm1cs_my001_d2cea78c:
 
     # mct "Of course. She just has to tease me when I'm already nervous about my not date, date tonight."
-    mct "Of course. She just has to tease me when I'm already nervous about my not date, date tonight."
+    mct "Certo. Deve proprio prendermi in giro quando sono già nervoso per il mio non-appuntamento, appuntamento di stasera."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:125
 translate italian sm1cs_my001_cbd606ab:
 
     # mct "And now I have to go to the restaurant with half of an erection..."
-    mct "And now I have to go to the restaurant with half of an erection..."
+    mct "E ora devo andare al ristorante con mezzo' erezione..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:134
 translate italian sm1cs_my001_b7baed86:
 
     # mct "All right, 5 minutes early. I should have beat her here..."
-    mct "All right, 5 minutes early. I should have beat her here..."
+    mct "Va bene, 5 minuti di anticipo. Dovrei essere arrivato prima di lei..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:138
 translate italian sm1cs_my001_92bc6d9c:
 
     # "Waiter" "Good evening, sir. Table for one?"
-    "Waiter" "Good evening, sir. Table for one?"
+    "Cameriere" "Buonasera, signore. Tavolo per uno?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:140
 translate italian sm1cs_my001_bb71598e:
 
     # mc "Two, actually. My date will be joining me shortly."
-    mc "Two, actually. My date will be joining me shortly."
+    mc "Due, in realtà. Il mio appuntamento si unirà a me a breve."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:143
 translate italian sm1cs_my001_362122cd:
 
     # "Waiter" "Of course, sir. Right this way, then."
-    "Waiter" "Of course, sir. Right this way, then."
+    "Cameriere" "Certamente, signore. Da questa parte, allora."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:148
 translate italian sm1cs_my001_70ee5c25:
 
     # "Waiter" "And here you are, sir."
-    "Waiter" "And here you are, sir."
+    "Cameriere" "Ed eccola qui, signore."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:152
 translate italian sm1cs_my001_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "Grazie."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:154
 translate italian sm1cs_my001_a1d800a1:
 
     # "Waiter" "Of course. I will bring you some menus."
-    "Waiter" "Of course. I will bring you some menus."
+    "Cameriere" "Certamente. Le porto i menù."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:158
 translate italian sm1cs_my001_38235a59:
 
     # mct "Okay... I just need to be my usual, charming self... no need to overthink, or stress. Just do the date, [mcname]..."
-    mct "Okay... I just need to be my usual, charming self... no need to overthink, or stress. Just do the date, [mcname]..."
+    mct "Ok... devo solo essere il mio solito, affascinante me stesso... non c'è bisogno di pensarci troppo, o stressarsi. Fai solo l'appuntamento, [mcname]..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:163
 translate italian sm1cs_my001_295d385a:
 
     # mct "It's not like you're trying to seduce your Mom or anything..."
-    mct "It's not like you're trying to seduce your Mom or anything..."
+    mct "Non è che stai cercando di sedurre tua mamma o qualcosa del genere..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:165
 translate italian sm1cs_my001_74e5e857:
 
     # mct "It's not like you're trying to seduce one of your parent's friends or anything..."
-    mct "It's not like you're trying to seduce one of your parent's friends or anything..."
+    mct "Non è che stai cercando di sedurre una delle amiche dei tuoi genitori o qualcosa del genere..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:168
 translate italian sm1cs_my001_d78e4667:
 
     # mct "Oh shit..."
-    mct "Oh shit..."
+    mct "Oh merda..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:173
 translate italian sm1cs_my001_05b1893c:
 
     # mct "Goddamn, Mom is hot..."
-    mct "Goddamn, Mom is hot..."
+    mct "Accidenti, la mamma è sexy..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:175
 translate italian sm1cs_my001_c1430425:
 
     # mct "Goddamn, Melony is hot..."
-    mct "Goddamn, Melony is hot..."
+    mct "Accidenti, Melony è sexy..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:178
 translate italian sm1cs_my001_fc8a5374:
@@ -314,157 +314,157 @@ translate italian sm1cs_my001_fc8a5374:
 translate italian sm1cs_my001_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Ehi!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:185
 translate italian sm1cs_my001_f57da577:
 
     # my "Wow, you've picked quite the spot for dinner."
-    my "Wow, you've picked quite the spot for dinner."
+    my "Wow, hai scelto proprio un bel posto per cena."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:188
 translate italian sm1cs_my001_cfc01fe0:
 
     # mc "What can I say? I got my taste of restaurants from my mother."
-    mc "What can I say? I got my taste of restaurants from my mother."
+    mc "Cosa posso dire? Ho preso il mio gusto per i ristoranti da mia madre."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:190
 translate italian sm1cs_my001_00c0519d:
 
     # mc "What can I say? I got my taste of restaurants from a woman with a great palette."
-    mc "What can I say? I got my taste of restaurants from a woman with a great palette."
+    mc "Cosa posso dire? Ho preso il mio gusto per i ristoranti da una donna con un gran palato."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:193
 translate italian sm1cs_my001_66a9f8ac:
 
     # my "Oh, you little silver tongued devil."
-    my "Oh, you little silver tongued devil."
+    my "Oh, piccolo diavolo dalla lingua d'argento."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:196
 translate italian sm1cs_my001_2a8bae02:
 
     # mc "Oh, allow me."
-    mc "Oh, allow me."
+    mc "Oh, permetti."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:200
 translate italian sm1cs_my001_be1cf188:
 
     # my "My, my. Really going the extra mile tonight, aren't we?"
-    my "My, my. Really going the extra mile tonight, aren't we?"
+    my "Oh mio. Stai davvero facendo uno sforzo extra stasera, vero?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:202
 translate italian sm1cs_my001_ed043ae2:
 
     # mc "Well, I just, uhm, really want to show you how much I appreciate you."
-    mc "Well, I just, uhm, really want to show you how much I appreciate you."
+    mc "Beh, voglio solo, ehm, mostrarti davvero quanto ti apprezzo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:206
 translate italian sm1cs_my001_bb278380:
 
     # my "Well, thank you, [mcname]. It's been a long time since anyone has treated me to any sort of dinner."
-    my "Well, thank you, [mcname]. It's been a long time since anyone has treated me to any sort of dinner."
+    my "Beh, grazie, [mcname]. È passato molto tempo da quando qualcuno mi ha offerto una cena."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:207
 translate italian sm1cs_my001_be33eff5:
 
     # my "Well, at least treated me to a non-business dinner."
-    my "Well, at least treated me to a non-business dinner."
+    my "Beh, almeno una cena non di lavoro."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:211
 translate italian sm1cs_my001_753c22fe:
 
     # mc "That's hard to believe. I mean, look at you!"
-    mc "That's hard to believe. I mean, look at you!"
+    mc "È difficile da credere. Voglio dire, guardati!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:214
 translate italian sm1cs_my001_a4c2b34f:
 
     # my "Oh? And what am I looking at?"
-    my "Oh? And what am I looking at?"
+    my "Oh? E cosa sto guardando?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:217
 translate italian sm1cs_my001_063f436a:
 
     # mc "Well, you look absolutely stunning tonight, Mom."
-    mc "Well, you look absolutely stunning tonight, Mom."
+    mc "Beh, sei assolutamente stupenda stasera, mamma."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:219
 translate italian sm1cs_my001_e2602af2:
 
     # mc "Well, you look absolutely stunning tonight, Melony."
-    mc "Well, you look absolutely stunning tonight, Melony."
+    mc "Beh, sei assolutamente stupenda stasera, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:222
 translate italian sm1cs_my001_d4ce9a5a:
 
     # my "Laying it on a little thick tonight, honey?"
-    my "Laying it on a little thick tonight, honey?"
+    my "La stai mettendo un po' troppo spessa stasera, tesoro?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:224
 translate italian sm1cs_my001_9352686d:
 
     # mc "I, erm-"
-    mc "I, erm-"
+    mc "Io, ehm-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:229
 translate italian sm1cs_my001_d69d248d:
 
     # "Waiter" "Your menus."
-    "Waiter" "Your menus."
+    "Cameriere" "I vostri menù."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:231
 translate italian sm1cs_my001_9580ec53:
 
     # mct "Oh, thank God."
-    mct "Oh, thank God."
+    mct "Oh, grazie a Dio."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:234
 translate italian sm1cs_my001_3d8e743d:
 
     # "Waiter" "Can I start you off with anything to drink?"
-    "Waiter" "Can I start you off with anything to drink?"
+    "Cameriere" "Posso iniziare con qualcosa da bere?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:236
 translate italian sm1cs_my001_520dd091:
 
     # my "Mmmmm, I'll take a glass of the hosue red."
-    my "Mmmmm, I'll take a glass of the hosue red."
+    my "Mmmmm, prenderò un bicchiere del rosso della casa."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:238
 translate italian sm1cs_my001_9947685b:
 
     # mc "And I'll do the same."
-    mc "And I'll do the same."
+    mc "E farò lo stesso."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:241
 translate italian sm1cs_my001_9054603b:
 
     # "Waiter" "Excellent choice. I'll have those right out for you."
-    "Waiter" "Excellent choice. I'll have those right out for you."
+    "Cameriere" "Scelta eccellente. Glieli porto subito."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:247
 translate italian sm1cs_my001_9869e6bb:
 
     # my "A wine drinker now?"
-    my "A wine drinker now?"
+    my "Un bevitore di vino ora?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:250
 translate italian sm1cs_my001_a11e17c8:
 
     # mc "Well... I also got that from you?"
-    mc "Well... I also got that from you?"
+    mc "Beh... anche questo l'ho preso da te?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:252
 translate italian sm1cs_my001_7f89a20b:
 
     # mc "Well... I got that from watching you?"
-    mc "Well... I got that from watching you?"
+    mc "Beh... l'ho preso dall'osservarti?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:255
 translate italian sm1cs_my001_7ef7cda9:
 
     # my "Compliment after compliment... if I didn't know any better, I'd say this was a date."
-    my "Compliment after compliment... if I didn't know any better, I'd say this was a date."
+    my "Complimento dopo complimento... se non ti conoscessi meglio, direi che questo è un appuntamento."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:256
 translate italian sm1cs_my001_eacfa1b7:
@@ -476,19 +476,19 @@ translate italian sm1cs_my001_eacfa1b7:
 translate italian sm1cs_my001_5e66c94e:
 
     # my "Or that you did something naughty and you're in trouble now."
-    my "Or that you did something naughty and you're in trouble now."
+    my "O che hai fatto qualcosa di biricchino e ora sei nei guai."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:262
 translate italian sm1cs_my001_bf57dd9b:
 
     # mc "No, no. Definitely not in trouble."
-    mc "No, no. Definitely not in trouble."
+    mc "No, no. Decisamente non nei guai."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:264
 translate italian sm1cs_my001_300f2b3a:
 
     # my "Good. Even though your new lifestyle will probably invite whole heaps of trouble."
-    my "Good. Even though your new lifestyle will probably invite whole heaps of trouble."
+    my "Bene. Anche se il tuo nuovo stile di vita probabilmente attirerà un sacco di guai."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:265
 translate italian sm1cs_my001_b2b9e19d:
