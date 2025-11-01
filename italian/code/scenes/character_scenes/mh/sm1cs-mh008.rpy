@@ -488,79 +488,79 @@ translate italian sm1cs_mh008_carnival_4333b57b:
 translate italian sm1cs_mh008_carnival_4683f7e8:
 
     # mh "Well... my bio parents - erm, the people who actually gave birth to me, would bring me to the carnival every year."
-    mh "Well... my bio parents - erm, the people who actually gave birth to me, would bring me to the carnival every year."
+    mh "Beh... i miei genitori biologici - ehm, le persone che mi hanno effettivamente dato alla luce, mi portavano al luna park ogni anno."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:285
 translate italian sm1cs_mh008_carnival_bf61594d:
 
     # mh "I didn't know until I was older that it was because my bio-father had successfully defended a ride manufacturer in a pretty hairy civil suit because someone had gotten pretty badly injured."
-    mh "I didn't know until I was older that it was because my bio-father had successfully defended a ride manufacturer in a pretty hairy civil suit because someone had gotten pretty badly injured."
+    mh "Non ho saputo fino a quando non ero più grande che era perché mio padre biologico aveva difeso con successo un produttore di giostre in una causa civile piuttosto difficile perché qualcuno si era fatto male piuttosto gravemente."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
 translate italian sm1cs_mh008_carnival_bc753126:
 
     # mh "As I kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "As I kid, I just knew that we would come to the circus because we had free tickets, and..."
+    mh "Da bambina, sapevo solo che andavamo al circo perché avevamo i biglietti gratis, e..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:289
 translate italian sm1cs_mh008_carnival_0b117085:
 
     # mh "And I think it was one of the few times I saw my bio-father relax the hardened lawyer facade and just... be my dad."
-    mh "And I think it was one of the few times I saw my bio-father relax the hardened lawyer facade and just... be my dad."
+    mh "E penso che fosse una delle poche volte in cui ho visto mio padre biologico rilassare la facciata indurita dell'avvocato e semplicemente... essere mio padre."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:292
 translate italian sm1cs_mh008_carnival_e5731e1e:
 
     # mc "I... I didn't know that."
-    mc "I... I didn't know that."
+    mc "Io... non lo sapevo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:297
 translate italian sm1cs_mh008_carnival_8db3376a:
 
     # mh "It's okay. I've been... guarded about it most of my life."
-    mh "It's okay. I've been... guarded about it most of my life."
+    mh "Va bene. Sono stata... riservata al riguardo per la maggior parte della mia vita."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:300
 translate italian sm1cs_mh008_carnival_bcf6f8e8:
 
     # mc "I also... didn't know that you had been adopted."
-    mc "I also... didn't know that you had been adopted."
+    mc "Inoltre... non sapevo che fossi stata adottata."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:303
 translate italian sm1cs_mh008_carnival_c681f59d:
 
     # mh "That's... another thing I've been pretty guarded about."
-    mh "That's... another thing I've been pretty guarded about."
+    mh "Questa è... un'altra cosa su cui sono stata piuttosto riservata."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:306
 translate italian sm1cs_mh008_carnival_e1b60d67:
 
     # mc "Can I ask what happened?"
-    mc "Can I ask what happened?"
+    mc "Posso chiedere cosa è successo?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:309
 translate italian sm1cs_mh008_carnival_00ba0ae6:
 
     # mh "Oh, it's all pretty mundane. They were coming home from some gala and were struck by a drunk driver."
-    mh "Oh, it's all pretty mundane. They were coming home from some gala and were struck by a drunk driver."
+    mh "Oh, è tutto piuttosto banale. Stavano tornando a casa da un gala e sono stati colpiti da un guidatore ubriaco."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:310
 translate italian sm1cs_mh008_carnival_39cdc1e9:
 
     # mh "I was pretty young... this all happened a long time ago."
-    mh "I was pretty young... this all happened a long time ago."
+    mh "Ero piuttosto giovane... tutto questo è successo molto tempo fa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:313
 translate italian sm1cs_mh008_carnival_12c052b6:
 
     # mh "And then I was adopted by a lovely couple, and they took good care of me."
-    mh "And then I was adopted by a lovely couple, and they took good care of me."
+    mh "E poi sono stata adottata da una coppia adorabile, e si sono presi buona cura di me."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:314
 translate italian sm1cs_mh008_carnival_a81dcc3b:
 
     # mh "I had told them about my... family's trips to the carnival. So every summer, they would make sure to take me."
-    mh "I had told them about my... family's trips to the carnival. So every summer, they would make sure to take me."
+    mh "Avevo raccontato loro delle... gite della mia famiglia al luna park. Quindi ogni estate, si assicuravano di portarmi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:317
 translate italian sm1cs_mh008_carnival_e26f48c7:
@@ -572,97 +572,97 @@ translate italian sm1cs_mh008_carnival_e26f48c7:
 translate italian sm1cs_mh008_carnival_2d68adc4:
 
     # mct "Man... there's a lot about Lyssa I don't really know."
-    mct "Man... there's a lot about Lyssa I don't really know."
+    mct "Cavolo... c'è molto di Lyssa che non conosco davvero."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:321
 translate italian sm1cs_mh008_carnival_1c7c71a8:
 
     # mct "Like... a lot a lot. Wow..."
-    mct "Like... a lot a lot. Wow..."
+    mct "Tipo... davvero tanto. Wow..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:324
 translate italian sm1cs_mh008_carnival_fc31d306:
 
     # mct "I can't believe she went through all that. I always knew she was strong but..."
-    mct "I can't believe she went through all that. I always knew she was strong but..."
+    mct "Non posso credere che abbia passato tutto questo. Ho sempre saputo che era forte ma..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:325
 translate italian sm1cs_mh008_carnival_32aafe18:
 
     # mct "Damn."
-    mct "Damn."
+    mct "Accidenti."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:328
 translate italian sm1cs_mh008_carnival_e9d39345:
 
     # mh "Oh, don't do that, [mcname]."
-    mh "Oh, don't do that, [mcname]."
+    mh "Oh, non farlo, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:331
 translate italian sm1cs_mh008_carnival_94507c05:
 
     # mc "Do what?"
-    mc "Do what?"
+    mc "Fare cosa?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:334
 translate italian sm1cs_mh008_carnival_ef6020dd:
 
     # mh "Start giving me pity."
-    mh "Start giving me pity."
+    mh "Iniziare a compiangermi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:337
 translate italian sm1cs_mh008_carnival_e522c30a:
 
     # mc "What! No, no. That's not what I was thinking."
-    mc "What! No, no. That's not what I was thinking."
+    mc "Cosa! No, no. Non è questo a cui stavo pensando."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:340
 translate italian sm1cs_mh008_carnival_7c916c3a:
 
     # mh "You sure? Because you had that look on your face everyone gets when I tell them about how I grew up."
-    mh "You sure? Because you had that look on your face everyone gets when I tell them about how I grew up."
+    mh "Sei sicuro? Perché avevi quell'espressione sul viso che tutti hanno quando racconto loro di come sono cresciuta."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:343
 translate italian sm1cs_mh008_carnival_79736694:
 
     # mc "No. I was thinking about...{w} All this time together, and I'm still learning more about you."
-    mc "No. I was thinking about...{w} All this time together, and I'm still learning more about you."
+    mc "No. Stavo pensando a...{w} Tutto questo tempo insieme, e sto ancora imparando di più su di te."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:344
 translate italian sm1cs_mh008_carnival_12dff004:
 
     # mc "And I'm glad I am. There's a lot of things now that make a lot more sense."
-    mc "And I'm glad I am. There's a lot of things now that make a lot more sense."
+    mc "E sono contento di farlo. Ci sono molte cose ora che hanno molto più senso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:347
 translate italian sm1cs_mh008_carnival_e774c3dd:
 
     # mh "Being an adopted orphan will make a person a bit more guarded, haha."
-    mh "Being an adopted orphan will make a person a bit more guarded, haha."
+    mh "Essere un'orfana adottata renderà una persona un po' più riservata, haha."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:350
 translate italian sm1cs_mh008_carnival_e5e74782:
 
     # mc "That, but it also explains why you are such a strong, fierce woman."
-    mc "That, but it also explains why you are such a strong, fierce woman."
+    mc "Quello, ma spiega anche perché sei una donna così forte e fiera."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:353
 translate italian sm1cs_mh008_carnival_3ed77072:
 
     # mh "Thank you, [mcname]."
-    mh "Thank you, [mcname]."
+    mh "Grazie, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:356
 translate italian sm1cs_mh008_carnival_8dd9efd1:
 
     # mc "Of course, Lyssa."
-    mc "Of course, Lyssa."
+    mc "Certo, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:359
 translate italian sm1cs_mh008_carnival_2c87f249:
 
     # mc "Well, hey - no carnival trip is complete without popcorn!"
-    mc "Well, hey - no carnival trip is complete without popcorn!"
+    mc "Beh, ehi - nessuna gita al luna park è completa senza popcorn!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:362
 translate italian sm1cs_mh008_carnival_6ecd7401:
@@ -674,49 +674,49 @@ translate italian sm1cs_mh008_carnival_6ecd7401:
 translate italian sm1cs_mh008_carnival_94c3fd69:
 
     # mc "Nuh uh, I'm not going to listen to any arguments from the defense! I am getting you some popcorn."
-    mc "Nuh uh, I'm not going to listen to any arguments from the defense! I am getting you some popcorn."
+    mc "Nuh uh, non ascolterò nessuna obiezione dalla difesa! Ti prendo dei popcorn."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:370
 translate italian sm1cs_mh008_carnival_48dea7e0:
 
     # mc "Yeah, I'll take one, uhm, large popcorn?"
-    mc "Yeah, I'll take one, uhm, large popcorn?"
+    mc "Sì, prendo uno, uhm, popcorn grande?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:378
 translate italian sm1cs_mh008_carnival_4c6100b9:
 
     # mc "There ain't nothing like carnival popcorn!"
-    mc "There ain't nothing like carnival popcorn!"
+    mc "Non c'è niente come i popcorn del luna park!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:381
 translate italian sm1cs_mh008_carnival_03fd9102:
 
     # mh "God, you are such a goof sometimes."
-    mh "God, you are such a goof sometimes."
+    mh "Dio, sei proprio uno scemo a volte."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:384
 translate italian sm1cs_mh008_carnival_a0b00a76:
 
     # mc "Yeah, but you like it."
-    mc "Yeah, but you like it."
+    mc "Sì, ma ti piace."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:387
 translate italian sm1cs_mh008_carnival_0a7b0987:
 
     # mh "Admittedly, I do."
-    mh "Admittedly, I do."
+    mh "Ammetto che è vero."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:388
 translate italian sm1cs_mh008_carnival_f16dac38:
 
     # mh "Because you're also quite the charmer."
-    mh "Because you're also quite the charmer."
+    mh "Perché sei anche un gran affascinante."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:391
 translate italian sm1cs_mh008_carnival_4beaaaf5:
 
     # mc "Awe shucks, Lyssa."
-    mc "Awe shucks, Lyssa."
+    mc "Oh cavolo, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:394
 translate italian sm1cs_mh008_carnival_c651eae7:
@@ -728,7 +728,7 @@ translate italian sm1cs_mh008_carnival_c651eae7:
 translate italian sm1cs_mh008_date_078814f4:
 
     # mh "So... you texted Stacy?"
-    mh "So... you texted Stacy?"
+    mh "Allora... hai mandato un messaggio a Stacy?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:406
 translate italian sm1cs_mh008_date_14c2f4fe:
