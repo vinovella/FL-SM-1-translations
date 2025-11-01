@@ -2,13 +2,13 @@
 translate italian sm1cs_my005_a95cd64f:
 
     # mct "What the hell am I even going to say..."
-    mct "What the hell am I even going to say..."
+    mct "Che diavolo dovrei dire..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:8
 translate italian sm1cs_my005_0c310a85:
 
     # mct "\"Sorry for the super weird swimsuit competition, and for making you moan, we all good?\""
-    mct "\"Sorry for the super weird swimsuit competition, and for making you moan, we all good?\""
+    mct "\"Scusa per quella gara di costumi da bagno super strana, e per averti fatto gemere, siamo a posto?\""
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:10
 translate italian sm1cs_my005_295bbea7:
@@ -20,19 +20,19 @@ translate italian sm1cs_my005_295bbea7:
 translate italian sm1cs_my005_3ee70d34:
 
     # mct "Man, sometimes Stacy really helps me out."
-    mct "Man, sometimes Stacy really helps me out."
+    mct "Cavolo, a volte Stacy mi aiuta davvero."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:14
 translate italian sm1cs_my005_d5055eb9:
 
     # mct "And sometimes she makes things so.{w} Much.{w} Worse."
-    mct "And sometimes she makes things so.{w} Much.{w} Worse."
+    mct "E a volte peggiora.{w} Di.{w} Tanto le cose."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:17
 translate italian sm1cs_my005_142f527f:
 
     # mct "Come on, think, [mcname], think... there has to be something you can do."
-    mct "Come on, think, [mcname], think... there has to be something you can do."
+    mct "Dai, pensa, [mcname], pensa... ci deve essere qualcosa che puoi fare."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:18
 translate italian sm1cs_my005_295bbea7_1:
@@ -44,37 +44,37 @@ translate italian sm1cs_my005_295bbea7_1:
 translate italian sm1cs_my005_056d5dae:
 
     # mct "Wait! I think I know just the thing!"
-    mct "Wait! I think I know just the thing!"
+    mct "Aspetta! Penso di sapere proprio cosa fare!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:26
 translate italian sm1cs_my005_0f9fc632:
 
     # mct "Yeah... that'll work! I'll tell her she won the movie and have her come over..."
-    mct "Yeah... that'll work! I'll tell her she won the movie and have her come over..."
+    mct "Sì... funzionerà! Le dirò che ha vinto il film e la farò venire qui..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:27
 translate italian sm1cs_my005_e3ed796d:
 
     # mct "And she's in! Perfect."
-    mct "And she's in! Perfect."
+    mct "E ci sta! Perfetto."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:30
 translate italian sm1cs_my005_77716090:
 
     # mc "Stacy! I need you to take off for the night!"
-    mc "Stacy! I need you to take off for the night!"
+    mc "Stacy! Ho bisogno che tu te ne vada per stasera!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:32
 translate italian sm1cs_my005_7c1acc5e:
 
     # sy "Why!?!"
-    sy "Why!?!"
+    sy "Perché!?!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:35
 translate italian sm1cs_my005_7be52576:
 
     # mc "Because, it's all a part of the plan!"
-    mc "Because, it's all a part of the plan!"
+    mc "Perché, fa tutto parte del piano!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:37
 translate italian sm1cs_my005_23f941c8:
@@ -86,109 +86,109 @@ translate italian sm1cs_my005_23f941c8:
 translate italian sm1cs_my005_later_4caeea85:
 
     # "*KNOCK, KNOCK, KNOCK*"
-    "*KNOCK, KNOCK, KNOCK*"
+    "*TOC, TOC, TOC*"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:59
 translate italian sm1cs_my005_later_35fedb77:
 
     # mc "Hey, Mom!"
-    mc "Hey, Mom!"
+    mc "Ehi, mamma!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:61
 translate italian sm1cs_my005_later_f67d45c0:
 
     # mc "Hey, Melony!"
-    mc "Hey, Melony!"
+    mc "Ehi, Melony!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:64
 translate italian sm1cs_my005_later_7f10353a:
 
     # my "Evening, [mcname]!"
-    my "Evening, [mcname]!"
+    my "Buonasera, [mcname]!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:67
 translate italian sm1cs_my005_later_4529c8bf:
 
     # my "Did you forget to pay your power bill this month?"
-    my "Did you forget to pay your power bill this month?"
+    my "Hai dimenticato di pagare la bolletta della luce questo mese?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:69
 translate italian sm1cs_my005_later_16a63c96:
 
     # mc "What! No!"
-    mc "What! No!"
+    mc "Cosa! No!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:72
 translate italian sm1cs_my005_later_a27a0810:
 
     # my "Hehehehehe, I'm just kidding, [mcname]."
-    my "Hehehehehe, I'm just kidding, [mcname]."
+    my "Hehehehehe, sto solo scherzando, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:73
 translate italian sm1cs_my005_later_521f083c:
 
     # my "I figured this is all mis-en-scene for this \"movie night\" you're throwing."
-    my "I figured this is all mis-en-scene for this \"movie night\" you're throwing."
+    my "Ho immaginato che sia tutta una messa in scena per questa \"serata cinema\" che stai organizzando."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:76
 translate italian sm1cs_my005_later_2280ee5f:
 
     # mc "Why do you say it like that?"
-    mc "Why do you say it like that?"
+    mc "Perché lo dici così?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:78
 translate italian sm1cs_my005_later_72b5cb50:
 
     # my "Like what?"
-    my "Like what?"
+    my "Come cosa?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:81
 translate italian sm1cs_my005_later_f71adc2d:
 
     # mc "Like you have quotes around movie night?"
-    mc "Like you have quotes around movie night?"
+    mc "Come se mettessi le virgolette intorno a serata cinema?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:84
 translate italian sm1cs_my005_later_3fa4f6b1:
 
     # my "Because I want to see what this \"movie night\" is."
-    my "Because I want to see what this \"movie night\" is."
+    my "Perché voglio vedere cos'è questa \"serata cinema\"."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:87
 translate italian sm1cs_my005_later_b1b64bff:
 
     # mc "Hey, I'm doing a lot over here!"
-    mc "Hey, I'm doing a lot over here!"
+    mc "Ehi, sto facendo un sacco di cose qui!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:90
 translate italian sm1cs_my005_later_02d6f3be:
 
     # mc "Look!"
-    mc "Look!"
+    mc "Guarda!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:92
 translate italian sm1cs_my005_later_9b60aacd:
 
     # my "You... made a bowl of popcorn."
-    my "You... made a bowl of popcorn."
+    my "Hai... fatto una ciotola di popcorn."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:95
 translate italian sm1cs_my005_later_e9a28e46:
 
     # mc "Yeah!"
-    mc "Yeah!"
+    mc "Sì!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:97
 translate italian sm1cs_my005_later_6a021db2:
 
     # my "You know... that takes about 2 minutes to make, right?"
-    my "You know... that takes about 2 minutes to make, right?"
+    my "Sai... ci vogliono circa 2 minuti per farli, giusto?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:100
 translate italian sm1cs_my005_later_a9ab72d1:
 
     # mc "...{w} Maybe."
-    mc "...{w} Maybe."
+    mc "...{w} Forse."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:103
 translate italian sm1cs_my005_later_86ebe157:
@@ -200,25 +200,25 @@ translate italian sm1cs_my005_later_86ebe157:
 translate italian sm1cs_my005_later_7168d4f3:
 
     # mc "What!"
-    mc "What!"
+    mc "Cosa!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:108
 translate italian sm1cs_my005_later_4b77d9cc:
 
     # my "Oh, nothing, [mcname]. You're just incorrigible sometimes."
-    my "Oh, nothing, [mcname]. You're just incorrigible sometimes."
+    my "Oh, niente, [mcname]. Sei solo incorreggibile a volte."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:109
 translate italian sm1cs_my005_later_83dcc1be:
 
     # my "So, what movie have you picked for us tonight?"
-    my "So, what movie have you picked for us tonight?"
+    my "Allora, che film hai scelto per noi stasera?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:112
 translate italian sm1cs_my005_later_64f3ae60:
 
     # mc "Okay, well, there's this new epic adventure movie that just came out-"
-    mc "Okay, well, there's this new epic adventure movie that just came out-"
+    mc "Okay, beh, c'è questo nuovo film d'avventura epico appena uscito-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:114
 translate italian sm1cs_my005_later_a5b01932:
@@ -230,61 +230,61 @@ translate italian sm1cs_my005_later_a5b01932:
 translate italian sm1cs_my005_later_f08adb56:
 
     # mc "Yes, Mom?"
-    mc "Yes, Mom?"
+    mc "Sì, mamma?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:120
 translate italian sm1cs_my005_later_5b9cd743:
 
     # mc "Yes, Melony?"
-    mc "Yes, Melony?"
+    mc "Sì, Melony?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:123
 translate italian sm1cs_my005_later_1c4ce463:
 
     # my "Is this movie night for you? Or for the winner of the swimsuit competition?"
-    my "Is this movie night for you? Or for the winner of the swimsuit competition?"
+    my "Questa serata cinema è per te? O per la vincitrice della gara di costumi da bagno?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:125
 translate italian sm1cs_my005_later_7772ee92:
 
     # mc "Oh, you remembered!"
-    mc "Oh, you remembered!"
+    mc "Oh, te ne sei ricordata!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:128
 translate italian sm1cs_my005_later_50fbca32:
 
     # my "Of course I remembered, [mcname]."
-    my "Of course I remembered, [mcname]."
+    my "Certo che me ne sono ricordata, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:129
 translate italian sm1cs_my005_later_5654a5e9:
 
     # my "Which goes to my point. Do you really think that I want to watch an epic adventure movie?"
-    my "Which goes to my point. Do you really think that I want to watch an epic adventure movie?"
+    my "Il che conferma il mio punto. Pensi davvero che voglia guardare un film d'avventura epico?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:132
 translate italian sm1cs_my005_later_27f56437:
 
     # mc "Well, you didn't let me finish!"
-    mc "Well, you didn't let me finish!"
+    mc "Beh, non mi hai lasciato finire!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:134
 translate italian sm1cs_my005_later_71883835:
 
     # my "Then go on, finish your thought!"
-    my "Then go on, finish your thought!"
+    my "Allora continua, finisci il tuo pensiero!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:137
 translate italian sm1cs_my005_later_e5758d0c:
 
     # mc "Thank you!{w} I was also going to say, that there's a romance movie-"
-    mc "Thank you!{w} I was also going to say, that there's a romance movie-"
+    mc "Grazie!{w} Stavo anche per dire che c'è un film romantico-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:139
 translate italian sm1cs_my005_later_01365cfe:
 
     # my "The romance movie, obviously."
-    my "The romance movie, obviously."
+    my "Il film romantico, ovviamente."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:142
 translate italian sm1cs_my005_later_87784f14:
@@ -296,7 +296,7 @@ translate italian sm1cs_my005_later_87784f14:
 translate italian sm1cs_my005_later_bf80ccb7:
 
     # my "Hey, that's no way to talk to your swimsuit champion!"
-    my "Hey, that's no way to talk to your swimsuit champion!"
+    my "Ehi, non è modo di parlare alla tua campionessa di costumi da bagno!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:147
 translate italian sm1cs_my005_later_77832165:
