@@ -2,19 +2,19 @@
 translate italian sm1cs_mh008_08969dd2:
 
     # mc "Lyssa? You home?"
-    mc "Lyssa? You home?"
+    mc "Lyssa? Sei a casa?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:18
 translate italian sm1cs_mh008_920b7268:
 
     # mh "Yep! I'm in here, [mcname]."
-    mh "Yep! I'm in here, [mcname]."
+    mh "Sì! Sono qui, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:23
 translate italian sm1cs_mh008_44aafd70:
 
     # mh "One second..."
-    mh "One second..."
+    mh "Un secondo..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:26
 translate italian sm1cs_mh008_63f710a6:
@@ -26,49 +26,49 @@ translate italian sm1cs_mh008_63f710a6:
 translate italian sm1cs_mh008_789b7dd4:
 
     # mh "Sorry, just needed to finish that brief."
-    mh "Sorry, just needed to finish that brief."
+    mh "Scusa, dovevo solo finire quella memoria."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:37
 translate italian sm1cs_mh008_c4a7803c:
 
     # mc "No worries, Lyssa."
-    mc "No worries, Lyssa."
+    mc "Nessun problema, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:43
 translate italian sm1cs_mh008_c067869b:
 
     # mc "Why did you want to see me?"
-    mc "Why did you want to see me?"
+    mc "Perché volevi vedermi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:46
 translate italian sm1cs_mh008_e7ebf2b6:
 
     # mh "I don't know... it's been awhile since we've really spent time together. I thought we could maybe do something, go somewhere."
-    mh "I don't know... it's been awhile since we've really spent time together. I thought we could maybe do something, go somewhere."
+    mh "Non lo so... è passato un po' di tempo da quando abbiamo davvero trascorso del tempo insieme. Ho pensato che potremmo forse fare qualcosa, andare da qualche parte."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:49
 translate italian sm1cs_mh008_3e53a7b5:
 
     # mc "Of course, Lyssa! I'd love to."
-    mc "Of course, Lyssa! I'd love to."
+    mc "Certo, Lyssa! Mi piacerebbe."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:53
 translate italian sm1cs_mh008_5cf8540b:
 
     # mh "That's what I was hoping you'd say."
-    mh "That's what I was hoping you'd say."
+    mh "Questo è ciò che speravo dicessi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:56
 translate italian sm1cs_mh008_9a8e9419:
 
     # mc "Do you have anything in mind?"
-    mc "Do you have anything in mind?"
+    mc "Hai qualcosa in mente?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:59
 translate italian sm1cs_mh008_60624fe9:
 
     # mh "Nope. I was trusting in your spontaneity to come up with something exciting for the two of us to do."
-    mh "Nope. I was trusting in your spontaneity to come up with something exciting for the two of us to do."
+    mh "No. Confidavo nella tua spontaneità per inventare qualcosa di eccitante da fare per noi due."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:62
 translate italian sm1cs_mh008_ad909a8e:
@@ -80,133 +80,133 @@ translate italian sm1cs_mh008_ad909a8e:
 translate italian sm1cs_mh008_f0223b3c:
 
     # mh "Oh, I like that look."
-    mh "Oh, I like that look."
+    mh "Oh, mi piace quella espressione."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:68
 translate italian sm1cs_mh008_39275255:
 
     # mc "How about we go to the carnival? Play some games, do some rides?"
-    mc "How about we go to the carnival? Play some games, do some rides?"
+    mc "Che ne dici se andiamo al luna park? Giochiamo un po', facciamo qualche giro?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:72
 translate italian sm1cs_mh008_88f24f40:
 
     # mh "That sounds absolutely wonderful, [mcname]."
-    mh "That sounds absolutely wonderful, [mcname]."
+    mh "Suona assolutamente meraviglioso, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:73
 translate italian sm1cs_mh008_c797dc7c:
 
     # mh "Let me get changed."
-    mh "Let me get changed."
+    mh "Lasciami cambiare."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:77
 translate italian sm1cs_mh008_f31d5ebb:
 
     # mh "So what have you been up to lately?"
-    mh "So what have you been up to lately?"
+    mh "Allora, cosa hai fatto ultimamente?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:81
 translate italian sm1cs_mh008_f179324b:
 
     # mc "Oh not much..."
-    mc "Oh not much..."
+    mc "Oh, non molto..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:82
 translate italian sm1cs_mh008_de357be1:
 
     # mc "Working, getting the studio ready."
-    mc "Working, getting the studio ready."
+    mc "Lavorando, preparando lo studio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:85
 translate italian sm1cs_mh008_56df871c:
 
     # mc "We actually just finished renovating!"
-    mc "We actually just finished renovating!"
+    mc "Abbiamo appena finito di ristrutturare!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:88
 translate italian sm1cs_mh008_097fd9c1:
 
     # mh "Oh? You renovated?"
-    mh "Oh? You renovated?"
+    mh "Oh? Avete ristrutturato?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:92
 translate italian sm1cs_mh008_4de4b191:
 
     # mc "Yeah! We wanted to be able use the studio as, well, a studio."
-    mc "Yeah! We wanted to be able use the studio as, well, a studio."
+    mc "Sì! Volevamo poter usare lo studio come, beh, uno studio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:93
 translate italian sm1cs_mh008_6b12ea62:
 
     # mc "So we painted, cleaned it up, you know - all the usual renovation things."
-    mc "So we painted, cleaned it up, you know - all the usual renovation things."
+    mc "Quindi abbiamo dipinto, pulito, sai - tutte le cose solite di una ristrutturazione."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:97
 translate italian sm1cs_mh008_9a6d8e9d:
 
     # mh "Well, I'm glad it's a mixed use space."
-    mh "Well, I'm glad it's a mixed use space."
+    mh "Beh, sono contenta che sia uno spazio a uso misto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:100
 translate italian sm1cs_mh008_5729c22f:
 
     # mc "A what?"
-    mc "A what?"
+    mc "Cosa?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:104
 translate italian sm1cs_mh008_eaa18ac8:
 
     # mh "We talked about this. It's a space you can use as residential and commercial."
-    mh "We talked about this. It's a space you can use as residential and commercial."
+    mh "Ne abbiamo parlato. È uno spazio che puoi usare sia come residenziale che come commerciale."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:105
 translate italian sm1cs_mh008_32c7e5c5:
 
     # mh "You'll have to show me what you've done to the place. It's been a while since I've been there."
-    mh "You'll have to show me what you've done to the place. It's been a while since I've been there."
+    mh "Dovrai mostrarmi cosa avete fatto al posto. È passato un po' da quando sono stata lì."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:108
 translate italian sm1cs_mh008_3c0bbbee:
 
     # mc "Absolutely!"
-    mc "Absolutely!"
+    mc "Assolutamente!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:112
 translate italian sm1cs_mh008_a2b2737d:
 
     # mh "And how's Stacy doing?"
-    mh "And how's Stacy doing?"
+    mh "E come sta Stacy?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:116
 translate italian sm1cs_mh008_5bf78e2d:
 
     # mc "She's good-"
-    mc "She's good-"
+    mc "Sta bene-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:119
 translate italian sm1cs_mh008_6a66d339:
 
     # mc "Oh, hang on. Just got a text."
-    mc "Oh, hang on. Just got a text."
+    mc "Oh, aspetta. Ho appena ricevuto un messaggio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:123
 translate italian sm1cs_mh008_a21a54af:
 
     # mc "Stacy's ears must be burning - she just texted me."
-    mc "Stacy's ears must be burning - she just texted me."
+    mc "Le orecchie di Stacy devono fischiare - mi ha appena mandato un messaggio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:126
 translate italian sm1cs_mh008_bfbc83b7:
 
     # mh "Oh? Is everything okay?"
-    mh "Oh? Is everything okay?"
+    mh "Oh? Va tutto bene?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:129
 translate italian sm1cs_mh008_2d39f3e1:
 
     # mc "Yeah, she was just asking me what I was up to tonight. Seems like she wants to take the night off from working."
-    mc "Yeah, she was just asking me what I was up to tonight. Seems like she wants to take the night off from working."
+    mc "Sì, mi stava solo chiedendo cosa avrei fatto stasera. Sembra che voglia prendersi la serata libera dal lavoro."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:132
 translate italian sm1cs_mh008_8c37707e:
@@ -218,217 +218,217 @@ translate italian sm1cs_mh008_8c37707e:
 translate italian sm1cs_mh008_94d8aa81:
 
     # mh "If you need to go, I understand."
-    mh "If you need to go, I understand."
+    mh "Se devi andare, capisco."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:136
 translate italian sm1cs_mh008_13247f19:
 
     # mc "What? No, no. Totally fine. I just told her I was spending time with you."
-    mc "What? No, no. Totally fine. I just told her I was spending time with you."
+    mc "Cosa? No, no. Tutto a posto. Le ho appena detto che stavo trascorrendo del tempo con te."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:139
 translate italian sm1cs_mh008_ce14f4e9:
 
     # mh "Well, that does make me happy to hear."
-    mh "Well, that does make me happy to hear."
+    mh "Beh, questo mi fa piacere sentirlo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:142
 translate italian sm1cs_mh008_65a00b2c:
 
     # mc "Everything okay, Lyssa?"
-    mc "Everything okay, Lyssa?"
+    mc "Tutto bene, Lyssa?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:145
 translate italian sm1cs_mh008_55df942d:
 
     # mh "Yeah, it's just..."
-    mh "Yeah, it's just..."
+    mh "Sì, è solo..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:146
 translate italian sm1cs_mh008_5f528fbc:
 
     # mh "This... situation is still a little new to me. I know we haven't been monogamous in the past, but..."
-    mh "This... situation is still a little new to me. I know we haven't been monogamous in the past, but..."
+    mh "Questa... situazione è ancora un po' nuova per me. So che non siamo stati monogami in passato, ma..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:149
 translate italian sm1cs_mh008_a39ab40e:
 
     # mh "I am still concerned from time to time that whenever Stacy calls, you'll go running."
-    mh "I am still concerned from time to time that whenever Stacy calls, you'll go running."
+    mh "Sono ancora preoccupata di tanto in tanto che ogni volta che Stacy chiama, tu correrai da lei."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:150
 translate italian sm1cs_mh008_c9f7e074:
 
     # mh "And that I'll always be second best..."
-    mh "And that I'll always be second best..."
+    mh "E che sarò sempre la seconda scelta..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:154
 translate italian sm1cs_mh008_1452db85:
 
     # mc "Lyssa, I need you to listen very closely to me."
-    mc "Lyssa, I need you to listen very closely to me."
+    mc "Lyssa, ho bisogno che mi ascolti molto attentamente."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:155
 translate italian sm1cs_mh008_55469cdf:
 
     # mc "You are second to none. You are incredible, sexy, smart, powerful."
-    mc "You are second to none. You are incredible, sexy, smart, powerful."
+    mc "Non sei seconda a nessuno. Sei incredibile, sexy, intelligente, potente."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:158
 translate italian sm1cs_mh008_153b5d72:
 
     # mc "And I am ready to do anything to show you that you have a place in my life, just like Stacy, and whomever else."
-    mc "And I am ready to do anything to show you that you have a place in my life, just like Stacy, and whomever else."
+    mc "E sono pronto a fare qualsiasi cosa per dimostrarti che hai un posto nella mia vita, proprio come Stacy, e chiunque altro."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:161
 translate italian sm1cs_mh008_84496c6c:
 
     # mh "You've already done a lot to show me that, [mcname]."
-    mh "You've already done a lot to show me that, [mcname]."
+    mh "Hai già fatto molto per dimostrar me lo, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:162
 translate italian sm1cs_mh008_41887c41:
 
     # mh "And I appreciate it."
-    mh "And I appreciate it."
+    mh "E lo apprezzo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:166
 translate italian sm1cs_mh008_13918ce0:
 
     # mc "Of course, Lyssa! You're worth it to me."
-    mc "Of course, Lyssa! You're worth it to me."
+    mc "Certo, Lyssa! Ne vali la pena per me."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:170
 translate italian sm1cs_mh008_99f483da:
 
     # mh "I guess... I'll always be a little nervous about your sister."
-    mh "I guess... I'll always be a little nervous about your sister."
+    mh "Immagino... sarò sempre un po' nervosa riguardo a tua sorella."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:172
 translate italian sm1cs_mh008_c77346a5:
 
     # mh "I guess... I'll always be a little nervous about Stacy."
-    mh "I guess... I'll always be a little nervous about Stacy."
+    mh "Immagino... sarò sempre un po' nervosa riguardo a Stacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:175
 translate italian sm1cs_mh008_ac2f119c:
 
     # mc "Well, I guess the best way to show you that you have nothing to worry about with Stacy is to invite her tonight!"
-    mc "Well, I guess the best way to show you that you have nothing to worry about with Stacy is to invite her tonight!"
+    mc "Beh, immagino che il modo migliore per dimostrarti che non hai nulla di cui preoccuparti con Stacy è invitarla stasera!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:178
 translate italian sm1cs_mh008_7ad14cd7:
 
     # mh "Wh...{w} what?"
-    mh "Wh...{w} what?"
+    mh "Co...{w} cosa?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:182
 translate italian sm1cs_mh008_a1939582:
 
     # mc "Yeah! Stacy can tag along and we can all spend some time together and see what it's like!"
-    mc "Yeah! Stacy can tag along and we can all spend some time together and see what it's like!"
+    mc "Sì! Stacy può venire con noi e possiamo passare del tempo insieme e vedere com'è!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:185
 translate italian sm1cs_mh008_97c65073:
 
     # mh "I don't know..."
-    mh "I don't know..."
+    mh "Non lo so..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:191
 translate italian sm1cs_mh008_7f9a94f7:
 
     # mc "I guess... I just want to try and help you figure everything out with Stacy and I dating too."
-    mc "I guess... I just want to try and help you figure everything out with Stacy and I dating too."
+    mc "Immagino... voglio solo provare ad aiutarti a capire tutto ciò che riguarda me e Stacy che usciamo insieme."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:192
 translate italian sm1cs_mh008_553ea0b0:
 
     # mc "Because... I don't know, I know you're always nervous about it."
-    mc "Because... I don't know, I know you're always nervous about it."
+    mc "Perché... non lo so, so che sei sempre nervosa al riguardo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:193
 translate italian sm1cs_mh008_b5b8a5ae:
 
     # mc "And if I can help you get less nervous about it, then it's one less thing for you to worry about."
-    mc "And if I can help you get less nervous about it, then it's one less thing for you to worry about."
+    mc "E se posso aiutarti a essere meno nervosa al riguardo, allora è una cosa in meno di cui preoccuparti."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:196
 translate italian sm1cs_mh008_7553aba3:
 
     # mh "Always trying to make everyone's lives better, huh, [mcname]?"
-    mh "Always trying to make everyone's lives better, huh, [mcname]?"
+    mh "Cerchi sempre di migliorare la vita di tutti, eh, [mcname]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:199
 translate italian sm1cs_mh008_b73f6067:
 
     # mc "Just doing what I can."
-    mc "Just doing what I can."
+    mc "Sto solo facendo quello che posso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:202
 translate italian sm1cs_mh008_9da0ff92:
 
     # mh "You're right though. I do need to find a way to get more comfortable with this."
-    mh "You're right though. I do need to find a way to get more comfortable with this."
+    mh "Hai ragione però. Devo trovare un modo per sentirmi più a mio agio con tutto questo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:203
 translate italian sm1cs_mh008_3a9a3c92:
 
     # mh "Sure, invite Stacy for a... I guess, throuple date?"
-    mh "Sure, invite Stacy for a... I guess, throuple date?"
+    mh "Certo, invita Stacy per un... immagino, appuntamento a tre?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:206
 translate italian sm1cs_mh008_d61f5fef:
 
     # mc "Great! I'll shoot her a text telling her to meet us there!"
-    mc "Great! I'll shoot her a text telling her to meet us there!"
+    mc "Fantastico! Le manderò un messaggio dicendole di incontrarci lì!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:209
 translate italian sm1cs_mh008_4824b49d:
 
     # mh "That sounds great, [mcname]."
-    mh "That sounds great, [mcname]."
+    mh "Suona benissimo, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:214
 translate italian sm1cs_mh008_409e34b5:
 
     # mc "Hey, if you're not comfortable with that idea, we can do it some other time."
-    mc "Hey, if you're not comfortable with that idea, we can do it some other time."
+    mc "Ehi, se non ti senti a tuo agio con quell'idea, possiamo farlo un'altra volta."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:217
 translate italian sm1cs_mh008_c7c4c6c9:
 
     # mh "Yeah, I don't think I'm there yet, [mcname]."
-    mh "Yeah, I don't think I'm there yet, [mcname]."
+    mh "Sì, non penso di essere ancora pronta, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:220
 translate italian sm1cs_mh008_1bc35450:
 
     # mc "Totally okay! No worries at all, Lyssa."
-    mc "Totally okay! No worries at all, Lyssa."
+    mc "Assolutamente ok! Nessun problema, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:224
 translate italian sm1cs_mh008_409e34b5_1:
 
     # mc "Hey, if you're not comfortable with that idea, we can do it some other time."
-    mc "Hey, if you're not comfortable with that idea, we can do it some other time."
+    mc "Ehi, se non ti senti a tuo agio con quell'idea, possiamo farlo un'altra volta."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:227
 translate italian sm1cs_mh008_c7c4c6c9_1:
 
     # mh "Yeah, I don't think I'm there yet, [mcname]."
-    mh "Yeah, I don't think I'm there yet, [mcname]."
+    mh "Sì, non penso di essere ancora pronta, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:230
 translate italian sm1cs_mh008_1bc35450_1:
 
     # mc "Totally okay! No worries at all, Lyssa."
-    mc "Totally okay! No worries at all, Lyssa."
+    mc "Assolutamente ok! Nessun problema, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:233
 translate italian sm1cs_mh008_2f322242:
 
     # mc "But, without any further ado, let's get to the carnival!"
-    mc "But, without any further ado, let's get to the carnival!"
+    mc "Ma, senza ulteriori indugi, andiamo al luna park!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:236
 translate italian sm1cs_mh008_bb79b11c:
@@ -446,43 +446,43 @@ translate italian sm1cs_mh008_carnival_100e00e0:
 translate italian sm1cs_mh008_carnival_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Eh?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:262
 translate italian sm1cs_mh008_carnival_7ca253b9:
 
     # mh "I just love that smell... popcorn, and machinery, and groups of people laughing and smiling..."
-    mh "I just love that smell... popcorn, and machinery, and groups of people laughing and smiling..."
+    mh "Adoro proprio quell'odore... popcorn, e macchinari, e gruppi di persone che ridono e sorridono..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:265
 translate italian sm1cs_mh008_carnival_e775bd08:
 
     # mc "Huh, really?"
-    mc "Huh, really?"
+    mc "Eh, davvero?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:270
 translate italian sm1cs_mh008_carnival_c32f909a:
 
     # mh "Yeah... I have a lot of fond memories of circuses and carnivals."
-    mh "Yeah... I have a lot of fond memories of circuses and carnivals."
+    mh "Sì... ho molti bei ricordi di circhi e luna park."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:273
 translate italian sm1cs_mh008_carnival_199d4c40:
 
     # mc "That's something I didn't know about you."
-    mc "That's something I didn't know about you."
+    mc "Questo è qualcosa che non sapevo di te."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:276
 translate italian sm1cs_mh008_carnival_410eab9d:
 
     # mh "This is one of the perks of slowing down a little bit. Learning more about each other."
-    mh "This is one of the perks of slowing down a little bit. Learning more about each other."
+    mh "Questo è uno dei vantaggi del rallentare un po'. Imparare di più l'uno dell'altra."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:279
 translate italian sm1cs_mh008_carnival_4333b57b:
 
     # mc "I agree.{w} Well, why do you have so many fond memories of circuses?"
-    mc "I agree.{w} Well, why do you have so many fond memories of circuses?"
+    mc "Sono d'accordo.{w} Beh, perché hai così tanti bei ricordi dei circhi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:284
 translate italian sm1cs_mh008_carnival_4683f7e8:
