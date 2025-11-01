@@ -734,19 +734,19 @@ translate italian sm1cs_mh008_date_078814f4:
 translate italian sm1cs_mh008_date_14c2f4fe:
 
     # mc "I did. She said she had to shower and she would be on her way."
-    mc "I did. She said she had to shower and she would be on her way."
+    mc "L'ho fatto. Ha detto che doveva fare la doccia e che sarebbe stata in arrivo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:407
 translate italian sm1cs_mh008_date_5be838a0:
 
     # mc "So we definitely have some time to kill before she gets here."
-    mc "So we definitely have some time to kill before she gets here."
+    mc "Quindi abbiamo sicuramente un po' di tempo da ammazzare prima che arrivi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:411
 translate italian sm1cs_mh008_date_677cdf8d:
 
     # mc "So, what would you like to do now that we have secured the best popcorn that you can get."
-    mc "So, what would you like to do now that we have secured the best popcorn that you can get."
+    mc "Allora, cosa vorresti fare ora che ci siamo assicurati i migliori popcorn che si possano avere."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:414
 translate italian sm1cs_mh008_date_45df555d:
@@ -758,61 +758,61 @@ translate italian sm1cs_mh008_date_45df555d:
 translate italian sm1cs_mh008_date_770fe6fd:
 
     # mh "How about some games?"
-    mh "How about some games?"
+    mh "Che ne dici di qualche gioco?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:420
 translate italian sm1cs_mh008_date_8693c428:
 
     # mc "Yeah, that sounds great! I can try and win you a giant stuffed teddy!"
-    mc "Yeah, that sounds great! I can try and win you a giant stuffed teddy!"
+    mc "Sì, sembra fantastico! Posso provare a vincerti un orsacchiotto di peluche gigante!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:424
 translate italian sm1cs_mh008_date_225bb283:
 
     # mh "Did you know that \"teddy bears\" are named after the 26th US President, Theodore Roosevelt?"
-    mh "Did you know that \"teddy bears\" are named after the 26th US President, Theodore Roosevelt?"
+    mh "Sapevi che gli \"orsacchiotti\" prendono il nome dal 26° Presidente degli Stati Uniti, Theodore Roosevelt?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:427
 translate italian sm1cs_mh008_date_9ab85d26:
 
     # mc "What? Seriously?"
-    mc "What? Seriously?"
+    mc "Cosa? Davvero?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
 translate italian sm1cs_mh008_date_6007f5df:
 
     # mh "Yeah. it's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Yeah. it's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+    mh "Sì. è una storia strana, ma in breve - il signor Roosevelt si rifiutò di sparare a un orso legato, e poi qualcuno ne fece una vignetta politica."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:431
 translate italian sm1cs_mh008_date_5e0303df:
 
     # mh "And then a toymaker, Morris Michtom, saw the cartoon and wanted to make a cute, stuffed bear."
-    mh "And then a toymaker, Morris Michtom, saw the cartoon and wanted to make a cute, stuffed bear."
+    mh "E poi un fabbricante di giocattoli, Morris Michtom, vide la vignetta e volle creare un orsetto carino di peluche."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:434
 translate italian sm1cs_mh008_date_8ec977b3:
 
     # mh "He sold them as \"Teddy's Bears\", which is where they got the name."
-    mh "He sold them as \"Teddy's Bears\", which is where they got the name."
+    mh "Li vendette come \"Orsetti di Teddy\", ed è da lì che hanno preso il nome."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:435
 translate italian sm1cs_mh008_date_0c5b3600:
 
     # mh "And it's also why everyone started calling him Teddy Roosevelt. Because of the bear."
-    mh "And it's also why everyone started calling him Teddy Roosevelt. Because of the bear."
+    mh "Ed è anche il motivo per cui tutti hanno iniziato a chiamarlo Teddy Roosevelt. A causa dell'orso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:438
 translate italian sm1cs_mh008_date_9410c7e6:
 
     # mc "Huh... that's a weird fun fact."
-    mc "Huh... that's a weird fun fact."
+    mc "Huh... è una curiosità strana."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:441
 translate italian sm1cs_mh008_date_c1c53635:
 
     # mh "You learn lots of weird things on the road of life."
-    mh "You learn lots of weird things on the road of life."
+    mh "Impari molte cose strane lungo la strada della vita."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:451
 translate italian sm1ms_mh008_game_0ec5aa4b:
