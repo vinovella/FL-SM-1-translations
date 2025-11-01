@@ -2,97 +2,97 @@
 translate italian sm1cs_mh007_f8e54e42:
 
     # mct "I wonder what Lyssa wants..."
-    mct "I wonder what Lyssa wants..."
+    mct "Mi chiedo cosa voglia Lyssa..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:46
 translate italian sm1cs_mh007_49cf9b8b:
 
     # mct "Hope it's nothing serious."
-    mct "Hope it's nothing serious."
+    mct "Spero non sia niente di serio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:54
 translate italian sm1cs_mh007_b5ab425b:
 
     # mh "Oh, [mcname]. Come on in."
-    mh "Oh, [mcname]. Come on in."
+    mh "Oh, [mcname]. Entra pure."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:59
 translate italian sm1cs_mh007_dcc56f55:
 
     # mc "For a second, I thought you were pissed at me."
-    mc "For a second, I thought you were pissed at me."
+    mc "Per un secondo, ho pensato che fossi arrabbiata con me."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:61
 translate italian sm1cs_mh007_e86af968:
 
     # mh "No, no. Just been a long day."
-    mh "No, no. Just been a long day."
+    mh "No, no. È stata solo una lunga giornata."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:66
 translate italian sm1cs_mh007_8de92c50:
 
     # mh "I thought you might have been a courier. A court clerk threatened to messenger me some docs today, and I had some... choice words for him."
-    mh "I thought you might have been a courier. A court clerk threatened to messenger me some docs today, and I had some... choice words for him."
+    mh "Pensavo fossi un corriere. Un impiegato del tribunale ha minacciato di mandarmi dei documenti oggi, e ho avuto alcune... parole scelte per lui."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:73
 translate italian sm1cs_mh007_0be80ec5:
 
     # mh "Oh God, that's so much better!"
-    mh "Oh God, that's so much better!"
+    mh "Oh Dio, è molto meglio!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:77
 translate italian sm1cs_mh007_44bcd952:
 
     # mc "So, work is rough?"
-    mc "So, work is rough?"
+    mc "Quindi, il lavoro è duro?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:81
 translate italian sm1cs_mh007_09fb2fd5:
 
     # mh "Yeah... I mean, not really."
-    mh "Yeah... I mean, not really."
+    mh "Sì... Voglio dire, non proprio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:82
 translate italian sm1cs_mh007_60633feb:
 
     # mh "It's the same stuff, nothing too particularly challenging."
-    mh "It's the same stuff, nothing too particularly challenging."
+    mh "È la stessa roba, niente di particolarmente impegnativo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:85
 translate italian sm1cs_mh007_c53bb6e7:
 
     # mh "But... I think... I don't know."
-    mh "But... I think... I don't know."
+    mh "Ma... Penso... Non lo so."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:86
 translate italian sm1cs_mh007_cda24377:
 
     # mh "I think I'm just stressed is all."
-    mh "I think I'm just stressed is all."
+    mh "Penso di essere solo stressata, tutto qui."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:89
 translate italian sm1cs_mh007_adcb03d7:
 
     # mct "Hmmm... I think Lyssa isn't telling me the full story."
-    mct "Hmmm... I think Lyssa isn't telling me the full story."
+    mct "Hmmm... Penso che Lyssa non mi stia raccontando tutta la storia."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:91
 translate italian sm1cs_mh007_39409111:
 
     # mct "I have a feeling something is bothering her."
-    mct "I have a feeling something is bothering her."
+    mct "Ho la sensazione che qualcosa la stia infastidendo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:93
 translate italian sm1cs_mh007_c60c9192:
 
     # mh "But... I don't want to talk about work. I want to be distracted from work."
-    mh "But... I don't want to talk about work. I want to be distracted from work."
+    mh "Ma... Non voglio parlare di lavoro. Voglio essere distratta dal lavoro."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:97
 translate italian sm1cs_mh007_5083a8a7:
 
     # mh "I think you might be able to help me with that."
-    mh "I think you might be able to help me with that."
+    mh "Penso che tu possa aiutarmi con questo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:100
 translate italian sm1cs_mh007_a4fcb7ef:
@@ -104,55 +104,55 @@ translate italian sm1cs_mh007_a4fcb7ef:
 translate italian sm1cs_mh007_08559133:
 
     # mh "This is {i}exactly{/i} what I had in mind."
-    mh "This is {i}exactly{/i} what I had in mind."
+    mh "Questo è {i}esattamente{/i} quello che avevo in mente."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:116
 translate italian sm1cs_mh007_446b6660:
 
     # mc "Hey, you'll hear no arguments from me about what's happening."
-    mc "Hey, you'll hear no arguments from me about what's happening."
+    mc "Ehi, non sentirai obiezioni da me su quello che sta succedendo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:118
 translate italian sm1cs_mh007_7315f899:
 
     # mh "I thought not."
-    mh "I thought not."
+    mh "Pensavo di no."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:121
 translate italian sm1cs_mh007_da8346c5:
 
     # mh "But it seems someone's pesky pants might be getting in the way of my plans."
-    mh "But it seems someone's pesky pants might be getting in the way of my plans."
+    mh "Ma sembra che i pantaloni fastidiosi di qualcuno potrebbero ostacolare i miei piani."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:125
 translate italian sm1cs_mh007_9d4b0ac6:
 
     # mc "I think we should get rid of them."
-    mc "I think we should get rid of them."
+    mc "Penso che dovremmo liberarcene."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:127
 translate italian sm1cs_mh007_5dd9b34e:
 
     # mh "I agree."
-    mh "I agree."
+    mh "Sono d'accordo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:131
 translate italian sm1cs_mh007_badd7b39:
 
     # mh "I see someone is excited."
-    mh "I see someone is excited."
+    mh "Vedo che qualcuno è eccitato."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:133
 translate italian sm1cs_mh007_90b1c5bb:
 
     # mc "Oh you have no idea."
-    mc "Oh you have no idea."
+    mc "Oh non hai idea."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:138
 translate italian sm1cs_mh007_ebb63535:
 
     # mh "Mmmmm, I think I might have {i}some{/i} idea."
-    mh "Mmmmm, I think I might have {i}some{/i} idea."
+    mh "Mmmmm, penso di averne {i}un po'{/i} di idea."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:145
 translate italian sm1cs_mh007_a68cdb8e:
@@ -164,7 +164,7 @@ translate italian sm1cs_mh007_a68cdb8e:
 translate italian sm1cs_mh007_9ee353ae:
 
     # mc "Oh fuuuuuck, Lyssa!"
-    mc "Oh fuuuuuck, Lyssa!"
+    mc "Oh caaaaaazzo, Lyssa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:149
 translate italian sm1cs_mh007_59b09614:
@@ -176,7 +176,7 @@ translate italian sm1cs_mh007_59b09614:
 translate italian sm1cs_mh007_009e5aa0:
 
     # mc "Not wasting any time, are you?"
-    mc "Not wasting any time, are you?"
+    mc "Non perdi tempo, vero?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:153
 translate italian sm1cs_mh007_b0619788:
@@ -188,7 +188,7 @@ translate italian sm1cs_mh007_b0619788:
 translate italian sm1cs_mh007_e5361fa3:
 
     # mc "Oh sweet Jeeeeezuuuus, Lyssa!"
-    mc "Oh sweet Jeeeeezuuuus, Lyssa!"
+    mc "Oh dolce Gesùùùùù, Lyssa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:157
 translate italian sm1cs_mh007_91f3af09:
@@ -200,7 +200,7 @@ translate italian sm1cs_mh007_91f3af09:
 translate italian sm1cs_mh007_ea81e684:
 
     # mc "It feels like - fuuuuck - you're trying to suck my soul out through my dick!"
-    mc "It feels like - fuuuuck - you're trying to suck my soul out through my dick!"
+    mc "Sembra - caaaaaazzo - che stia cercando di succhiarmi l'anima attraverso il cazzo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:161
 translate italian sm1cs_mh007_3b6195bd:
@@ -230,13 +230,13 @@ translate italian sm1cs_mh007_d82cd556:
 translate italian sm1cs_mh007_77a1cc0a:
 
     # mc "Oh, God... Lyssa - I'm - fuuuuuuuuh!"
-    mc "Oh, God... Lyssa - I'm - fuuuuuuuuh!"
+    mc "Oh, Dio... Lyssa - Sto - fuuuuuuuuh!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:168
 translate italian sm1cs_mh007_030db034:
 
     # mc "If you keep... oh God, if you keep going, I'm - oh shiiiiiit."
-    mc "If you keep... oh God, if you keep going, I'm - oh shiiiiiit."
+    mc "Se continui... oh Dio, se continui, sto - oh meeeeeerda."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:169
 translate italian sm1cs_mh007_62695d4a:
@@ -248,37 +248,37 @@ translate italian sm1cs_mh007_62695d4a:
 translate italian sm1cs_mh007_d5e5a132:
 
     # mh "Not yet, cowboy."
-    mh "Not yet, cowboy."
+    mh "Non ancora, cowboy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:178
 translate italian sm1cs_mh007_671c7f04:
 
     # mh "I want to have some fun too."
-    mh "I want to have some fun too."
+    mh "Voglio divertirmi anch'io."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:182
 translate italian sm1cs_mh007_837b6e63:
 
     # mc "You won't hear any complaints from me."
-    mc "You won't hear any complaints from me."
+    mc "Non sentirai lamentele da me."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:188
 translate italian sm1cs_mh007_8300b6ae:
 
     # mh "Mmmmmmmmgoooood, yesssss."
-    mh "Mmmmmmmmgoooood, yesssss."
+    mh "Mmmmmmmmbeneeee, sìììììì."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:189
 translate italian sm1cs_mh007_d669fdbc:
 
     # mh "I've been thinking about this all day... Goooooooood."
-    mh "I've been thinking about this all day... Goooooooood."
+    mh "Ci ho pensato tutto il giorno... Beneeeeeeee."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:192
 translate italian sm1cs_mh007_55cd1a16:
 
     # mc "Fuck, Lyssa..."
-    mc "Fuck, Lyssa..."
+    mc "Cazzo, Lyssa..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:194
 translate italian sm1cs_mh007_259ad6b6:
