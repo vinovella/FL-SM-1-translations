@@ -2,49 +2,49 @@
 translate italian sm1cs_kv005i_0bcf2115:
 
     # kv "Hey, [mcname]! Ready to keep practicing?"
-    kv "Hey, [mcname]! Ready to keep practicing?"
+    kv "Ehi, [mcname]! Pronto a continuare a esercitarti?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:14
 translate italian sm1cs_kv005i_3843bd28:
 
     # mc "Yeah! Let's do it!"
-    mc "Yeah! Let's do it!"
+    mc "Sì! Facciamolo!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:18
 translate italian sm1cs_kv005i_685e0027:
 
     # kv "Oh hey, [mcname]."
-    kv "Oh hey, [mcname]."
+    kv "Oh ehi, [mcname]."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:21
 translate italian sm1cs_kv005i_f226943a:
 
     # mc "What's up, Kanya!"
-    mc "What's up, Kanya!"
+    mc "Come va, Kanya!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:24
 translate italian sm1cs_kv005i_523c10b4:
 
     # kv "I was actually hoping you'd stop by, I actually had something I wanted to run by you."
-    kv "I was actually hoping you'd stop by, I actually had something I wanted to run by you."
+    kv "Stavo sperando che passassi di qui, avevo qualcosa di cui volevo parlarti."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:27
 translate italian sm1cs_kv005i_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "Oh yeah?"
+    mc "Oh sì?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:30
 translate italian sm1cs_kv005i_374d1285:
 
     # kv "Yep! I want you to do another photo shoot."
-    kv "Yep! I want you to do another photo shoot."
+    kv "Sì! Voglio che tu faccia un altro servizio fotografico."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:33
 translate italian sm1cs_kv005i_b68d62a4:
 
     # mc "Oh? With who?"
-    mc "Oh? With who?"
+    mc "Oh? Con chi?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:35
 translate italian sm1cs_kv005i_50ccc0e2:
@@ -56,169 +56,169 @@ translate italian sm1cs_kv005i_50ccc0e2:
 translate italian sm1cs_kv005_start_ca0cb360:
 
     # kv "Is that cool with you?"
-    kv "Is that cool with you?"
+    kv "Ti va bene?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:53
 translate italian sm1cs_kv005_start_7b7ae0e1:
 
     # mc "You want me to... take photos of you?"
-    mc "You want me to... take photos of you?"
+    mc "Vuoi che... scatti foto di te?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:56
 translate italian sm1cs_kv005_start_4a85400f:
 
     # kv "Yeah. Me."
-    kv "Yeah. Me."
+    kv "Sì. Di me."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:60
 translate italian sm1cs_kv005_start_b2589890:
 
     # mc "That's... Not what I was expecting."
-    mc "That's... Not what I was expecting."
+    mc "Questo è... Non quello che mi aspettavo."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:63
 translate italian sm1cs_kv005_start_d0926fc6:
 
     # kv "What, am I not good enough to be in front of the camera, [mcname]?!"
-    kv "What, am I not good enough to be in front of the camera, [mcname]?!"
+    kv "Cosa, non sono abbastanza brava per stare davanti alla fotocamera, [mcname]?!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:66
 translate italian sm1cs_kv005_start_fe067151:
 
     # mc "No! Wait - I mean, yes! I, uhm, I meant-"
-    mc "No! Wait - I mean, yes! I, uhm, I meant-"
+    mc "No! Aspetta - voglio dire, sì! Io, uhm, intendevo-"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:69
 translate italian sm1cs_kv005_start_9eeeadc3:
 
     # kv "Just fucking with you. I know I'm hot."
-    kv "Just fucking with you. I know I'm hot."
+    kv "Sto solo scherzando con te. So di essere sexy."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:72
 translate italian sm1cs_kv005_start_5c926a4d:
 
     # mc "God, I almost had a heart attack."
-    mc "God, I almost had a heart attack."
+    mc "Dio, mi è quasi venuto un infarto."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:73
 translate italian sm1cs_kv005_start_8f876b9a:
 
     # mc "I was just trying to say that I was expecting there to be a model, and you with me behind the camera."
-    mc "I was just trying to say that I was expecting there to be a model, and you with me behind the camera."
+    mc "Stavo solo cercando di dire che mi aspettavo ci fosse una modella, e tu con me dietro la fotocamera."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:76
 translate italian sm1cs_kv005_start_7f886cb4:
 
     # kv "I know, but I figured we'd mix it up a bit."
-    kv "I know, but I figured we'd mix it up a bit."
+    kv "Lo so, ma ho pensato che avremmo potuto variare un po'."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:77
 translate italian sm1cs_kv005_start_b881cfdf:
 
     # kv "Besides, this will be a real solid test of your skills, [mcname]."
-    kv "Besides, this will be a real solid test of your skills, [mcname]."
+    kv "Inoltre, questo sarà un vero test solido delle tue abilità, [mcname]."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:78
 translate italian sm1cs_kv005_start_8d7de685:
 
     # kv "And you don't have to worry too much about me not mentoring you. Even in front of the camera I can still tell you what to do."
-    kv "And you don't have to worry too much about me not mentoring you. Even in front of the camera I can still tell you what to do."
+    kv "E non devi preoccuparti troppo del fatto che non ti farò da mentore. Anche davanti alla fotocamera posso ancora dirti cosa fare."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:83
 translate italian sm1cs_kv005_start_09e8339c:
 
     # mc "I'm not surprised by that.{w} Where are you going?"
-    mc "I'm not surprised by that.{w} Where are you going?"
+    mc "Non mi sorprende.{w} Dove vai?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:86
 translate italian sm1cs_kv005_start_5e74694b:
 
     # kv "To change!"
-    kv "To change!"
+    kv "A cambiarmi!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:96
 translate italian sm1cs_kv005_start_0c20625d:
 
     # mct "Fuck... Am I ready for this? I don't think I'm ready for this..."
-    mct "Fuck... Am I ready for this? I don't think I'm ready for this..."
+    mct "Cazzo... Sono pronto per questo? Non penso di essere pronto per questo..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:98
 translate italian sm1cs_kv005_start_0feca96b:
 
     # mct "But... I don't think Kanya is going to give me a choice..."
-    mct "But... I don't think Kanya is going to give me a choice..."
+    mct "Ma... Non penso che Kanya mi darà una scelta..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:102
 translate italian sm1cs_kv005_start_d513f47d:
 
     # mct "Here we go..."
-    mct "Here we go..."
+    mct "Eccoci..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:105
 translate italian sm1cs_kv005_start_5a3765d8:
 
     # mc "Oh shit."
-    mc "Oh shit."
+    mc "Oh merda."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:108
 translate italian sm1cs_kv005_start_7e6fc7f8:
 
     # kv "Yeah?"
-    kv "Yeah?"
+    kv "Sì?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:112
 translate italian sm1cs_kv005_start_b825edb3:
 
     # mc "Yeah, I was expecting you to be more... Naked."
-    mc "Yeah, I was expecting you to be more... Naked."
+    mc "Sì, mi aspettavo che fossi più... Nuda."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:115
 translate italian sm1cs_kv005_start_fbb8a214:
 
     # kv "Yeah, you dirty perv? Every woman in your life just ready to throw her panties at you?"
-    kv "Yeah, you dirty perv? Every woman in your life just ready to throw her panties at you?"
+    kv "Sì, sporco pervertito? Ogni donna nella tua vita pronta a lanciarti le mutandine?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:117
 translate italian sm1cs_kv005_start_41d186aa:
 
     # mc "Well, uhm..."
-    mc "Well, uhm..."
+    mc "Beh, uhm..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:118
 translate italian sm1cs_kv005_start_f211aa8c:
 
     # kv "Don't worry, stud. We'll get there. But, not every photoshoot is in latex or the nude! So I thought we'd start there."
-    kv "Don't worry, stud. We'll get there. But, not every photoshoot is in latex or the nude! So I thought we'd start there."
+    kv "Non preoccuparti, stallone. Ci arriveremo. Ma non ogni servizio fotografico è in latex o nudo! Quindi ho pensato che iniziassimo da lì."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:121
 translate italian sm1cs_kv005_start_d5ae2301:
 
     # mc "Fair enough."
-    mc "Fair enough."
+    mc "Giusto."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:124
 translate italian sm1cs_kv005_start_dc27fd85:
 
     # kv "Enough chit chat! Let's get to the shoot!"
-    kv "Enough chit chat! Let's get to the shoot!"
+    kv "Basta chiacchiere! Passiamo alle riprese!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:127
 translate italian sm1cs_kv005_start_bf84a271:
 
     # mc "All right... Here goes nothing."
-    mc "All right... Here goes nothing."
+    mc "Va bene... Si parte."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:129
 translate italian sm1cs_kv005_start_40491cab:
 
     # kv "Don't you mean everything?"
-    kv "Don't you mean everything?"
+    kv "Non intendevi tutto?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:130
 translate italian sm1cs_kv005_start_6ddddd1f:
 
     # mc "Maybe..."
-    mc "Maybe..."
+    mc "Forse..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:133
 translate italian sm1cs_kv005_start_a1f184e9:
@@ -242,31 +242,31 @@ translate italian sm1cs_kv005_start_a1f184e9_2:
 translate italian sm1cs_kv005_start_50c80517:
 
     # kv "You know, a little bit of conversation is good while doing a photo shoot."
-    kv "You know, a little bit of conversation is good while doing a photo shoot."
+    kv "Sai, un po' di conversazione è buona durante un servizio fotografico."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:145
 translate italian sm1cs_kv005_start_1d1141a3:
 
     # mc "But I'm concentrating."
-    mc "But I'm concentrating."
+    mc "Ma mi sto concentrando."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:148
 translate italian sm1cs_kv005_start_3d0f92e9:
 
     # kv "Yeah, but do you like someone just staring at you and not saying anything?"
-    kv "Yeah, but do you like someone just staring at you and not saying anything?"
+    kv "Sì, ma ti piace quando qualcuno ti fissa e non dice niente?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:152
 translate italian sm1cs_kv005_start_aacf0bfe:
 
     # mc "...{w}You've got a point there. Fine."
-    mc "...{w}You've got a point there. Fine."
+    mc "...{w}Hai ragione. Bene."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:153
 translate italian sm1cs_kv005_start_2798d8a2:
 
     # mc "Uhm, so... How did you get into photography?"
-    mc "Uhm, so... How did you get into photography?"
+    mc "Uhm, quindi... Come sei entrata nella fotografia?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:156
 translate italian sm1cs_kv005_start_a1f184e9_3:
@@ -278,13 +278,13 @@ translate italian sm1cs_kv005_start_a1f184e9_3:
 translate italian sm1cs_kv005_start_eb5d5c8c:
 
     # kv "Oh boy, starting out with a doozy! Well..."
-    kv "Oh boy, starting out with a doozy! Well..."
+    kv "Oh cavolo, inizi con una bella domanda! Beh..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:159
 translate italian sm1cs_kv005_start_2b85ecbc:
 
     # kv "A few years ago I was hanging out with a friend, and she had this clunky old camera.{w} We started goofing around with it, and just snapping random photos of each other."
-    kv "A few years ago I was hanging out with a friend, and she had this clunky old camera.{w} We started goofing around with it, and just snapping random photos of each other."
+    kv "Qualche anno fa stavo uscendo con un'amica, e lei aveva questa vecchia fotocamera ingombrante.{w} Abbiamo iniziato a scherzarci e a scattare foto casuali l'una dell'altra."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:162
 translate italian sm1cs_kv005_start_a1f184e9_4:
@@ -296,13 +296,13 @@ translate italian sm1cs_kv005_start_a1f184e9_4:
 translate italian sm1cs_kv005_start_c35067fb:
 
     # kv "The longer we did it though, the more and more I started taking all the pictures. I started to realize that I really, really liked taking photos."
-    kv "The longer we did it though, the more and more I started taking all the pictures. I started to realize that I really, really liked taking photos."
+    kv "Più lo facevamo però, più iniziavo a scattare tutte le foto. Ho iniziato a rendermi conto che mi piaceva davvero, davvero scattare foto."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:165
 translate italian sm1cs_kv005_start_d66093b9:
 
     # kv "My friend wasn't using the camera, so I borrowed it and started taking more and more photos. I swear, I didn't sleep for a week.{w} I just ran around snapping shots of everything and anything."
-    kv "My friend wasn't using the camera, so I borrowed it and started taking more and more photos. I swear, I didn't sleep for a week.{w} I just ran around snapping shots of everything and anything."
+    kv "La mia amica non usava la fotocamera, quindi l'ho presa in prestito e ho iniziato a scattare sempre più foto. Giuro, non ho dormito per una settimana.{w} Correvo in giro scattando foto di tutto e di tutti."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:168
 translate italian sm1cs_kv005_start_a1f184e9_5:
@@ -314,25 +314,25 @@ translate italian sm1cs_kv005_start_a1f184e9_5:
 translate italian sm1cs_kv005_start_bc6e40d2:
 
     # kv "I showed a photo teacher what I was doing, and they said I showed promise. They gave me a few pointers, and from there I just started to grow more and more as a photographer."
-    kv "I showed a photo teacher what I was doing, and they said I showed promise. They gave me a few pointers, and from there I just started to grow more and more as a photographer."
+    kv "Ho mostrato a un insegnante di fotografia quello che stavo facendo, e hanno detto che mostravo promesse. Mi hanno dato qualche consiglio, e da lì ho iniziato a crescere sempre di più come fotografa."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:171
 translate italian sm1cs_kv005_start_b954137b:
 
     # kv "All right, I think that's enough of the fully clothed stuff. You ready to move onto something new?"
-    kv "All right, I think that's enough of the fully clothed stuff. You ready to move onto something new?"
+    kv "Va bene, penso che basti con le cose completamente vestite. Sei pronto a passare a qualcosa di nuovo?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:176
 translate italian sm1cs_kv005_start_3f516924:
 
     # mc "Yeah, I think so. Not sure what else we'd want in this outfit."
-    mc "Yeah, I think so. Not sure what else we'd want in this outfit."
+    mc "Sì, penso di sì. Non sono sicuro di cos'altro vorremmo con questo outfit."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:179
 translate italian sm1cs_kv005_start_f9a84df0:
 
     # kv "Exactly what my instincts were saying. Let me go change real quick."
-    kv "Exactly what my instincts were saying. Let me go change real quick."
+    kv "Esattamente quello che dicevano i miei istinti. Fammi andare a cambiarmi velocemente."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:187
 translate italian sm1cs_kv005_start_dc851375:
@@ -344,163 +344,163 @@ translate italian sm1cs_kv005_start_dc851375:
 translate italian sm1cs_kv005_start_2ad9e274:
 
     # kv "Running out of ideas?"
-    kv "Running out of ideas?"
+    kv "Ti stanno finendo le idee?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:193
 translate italian sm1cs_kv005_start_2034c056:
 
     # mc "Maybe."
-    mc "Maybe."
+    mc "Forse."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:197
 translate italian sm1cs_kv005_start_4c6750fe:
 
     # kv "Hang on, let me go change. This shirt is too tight for me to think straight."
-    kv "Hang on, let me go change. This shirt is too tight for me to think straight."
+    kv "Aspetta, fammi andare a cambiarmi. Questa maglietta è troppo stretta per pensare chiaramente."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:218
 translate italian sm1cs_kv005_part_2_60f29c8b:
 
     # mc "Holy..."
-    mc "Holy..."
+    mc "Santo..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:221
 translate italian sm1cs_kv005_part_2_fa5c5a53:
 
     # kv "I figured you'd like this one."
-    kv "I figured you'd like this one."
+    kv "Immaginavo che ti sarebbe piaciuta questa."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:224
 translate italian sm1cs_kv005_part_2_5d7823e3:
 
     # mc "Oh, {i}I love it.{/i}"
-    mc "Oh, {i}I love it.{/i}"
+    mc "Oh, {i}la adoro.{/i}"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:228
 translate italian sm1cs_kv005_part_2_a6c5416e:
 
     # kv "Good. It's got a little more lace than I'm used to, but I figured I'd try out something different, see how it went."
-    kv "Good. It's got a little more lace than I'm used to, but I figured I'd try out something different, see how it went."
+    kv "Bene. Ha un po' più di pizzo di quanto sono abituata, ma ho pensato di provare qualcosa di diverso, vedere come andava."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:231
 translate italian sm1cs_kv005_part_2_826192ba:
 
     # mc "I think this is the only thing you should wear from now on."
-    mc "I think this is the only thing you should wear from now on."
+    mc "Penso che questa sia l'unica cosa che dovresti indossare d'ora in poi."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:234
 translate italian sm1cs_kv005_part_2_f036768d:
 
     # kv "Oh yeah? Not a fan of the leather anymore, [mcname]?"
-    kv "Oh yeah? Not a fan of the leather anymore, [mcname]?"
+    kv "Oh sì? Non sei più fan della pelle, [mcname]?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:237
 translate italian sm1cs_kv005_part_2_5ca64dc1:
 
     # mc "I didn't say that. You just look super hot in that lingerie."
-    mc "I didn't say that. You just look super hot in that lingerie."
+    mc "Non ho detto questo. Sembri solo super sexy in quella lingerie."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:240
 translate italian sm1cs_kv005_part_2_2de55284:
 
     # kv "Well, thank you, [mcname]."
-    kv "Well, thank you, [mcname]."
+    kv "Beh, grazie, [mcname]."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:241
 translate italian sm1cs_kv005_part_2_a6acc0de:
 
     # kv "We can go on all day about how good I look, but we have photos to take."
-    kv "We can go on all day about how good I look, but we have photos to take."
+    kv "Potremmo continuare tutto il giorno su quanto sono bella, ma abbiamo foto da scattare."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:244
 translate italian sm1cs_kv005_part_2_7d743c53:
 
     # mc "Oh yeah, uhm..."
-    mc "Oh yeah, uhm..."
+    mc "Oh sì, uhm..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:247
 translate italian sm1cs_kv005_part_2_4e249183:
 
     # kv "Want a pro tip for working with models in lingerie, or in the nude?"
-    kv "Want a pro tip for working with models in lingerie, or in the nude?"
+    kv "Vuoi un consiglio da professionista per lavorare con modelle in lingerie o nude?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:250
 translate italian sm1cs_kv005_part_2_cbdab157:
 
     # mc "Yeah, that would be awesome."
-    mc "Yeah, that would be awesome."
+    mc "Sì, sarebbe fantastico."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:253
 translate italian sm1cs_kv005_part_2_d83fa0f8:
 
     # kv "Pretend they're not naked."
-    kv "Pretend they're not naked."
+    kv "Fingi che non siano nude."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:256
 translate italian sm1cs_kv005_part_2_3f9df27f:
 
     # mc "...What?"
-    mc "...What?"
+    mc "...Cosa?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:259
 translate italian sm1cs_kv005_part_2_d4f9843c:
 
     # kv "Most of the times you've seen lingerie, or naked women, you've been about to sleep with them, right?"
-    kv "Most of the times you've seen lingerie, or naked women, you've been about to sleep with them, right?"
+    kv "La maggior parte delle volte che hai visto lingerie o donne nude, stavi per andare a letto con loro, giusto?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:262
 translate italian sm1cs_kv005_part_2_975aa86e:
 
     # mc "I mean... yeah."
-    mc "I mean... yeah."
+    mc "Voglio dire... sì."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:265
 translate italian sm1cs_kv005_part_2_256823b1:
 
     # kv "But, here you need to at least photograph them first."
-    kv "But, here you need to at least photograph them first."
+    kv "Ma qui devi almeno fotografarle prima."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:268
 translate italian sm1cs_kv005_part_2_88b02c85:
 
     # kv "My trick, when I'm behind the camera, is to think 'what kind of photos do I think look sexy as hell'. Then I try to do that."
-    kv "My trick, when I'm behind the camera, is to think 'what kind of photos do I think look sexy as hell'. Then I try to do that."
+    kv "Il mio trucco, quando sono dietro la fotocamera, è pensare 'che tipo di foto penso siano sexy da morire'. Poi cerco di farlo."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:269
 translate italian sm1cs_kv005_part_2_496d5972:
 
     # kv "So while we're shooting, maybe think something like 'if I was going to ask for a sexy photo of a chick, what would I want it to look like?'"
-    kv "So while we're shooting, maybe think something like 'if I was going to ask for a sexy photo of a chick, what would I want it to look like?'"
+    kv "Quindi mentre stiamo scattando, forse pensa qualcosa tipo 'se dovessi chiedere una foto sexy di una ragazza, come vorrei che fosse?'"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:272
 translate italian sm1cs_kv005_part_2_13ab8d6d:
 
     # mc "Huh... That's a good trick! Okay-"
-    mc "Huh... That's a good trick! Okay-"
+    mc "Huh... È un buon trucco! Okay-"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:275
 translate italian sm1cs_kv005_part_2_20151f03:
 
     # mct "Let's see... What kind of sexy photo would I want of Kanya..."
-    mct "Let's see... What kind of sexy photo would I want of Kanya..."
+    mct "Vediamo... Che tipo di foto sexy vorrei di Kanya..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:279
 translate italian sm1cs_kv005_part_2_9619e356:
 
     # mc "So, uhm... How did you get started with the BDSM model photography?"
-    mc "So, uhm... How did you get started with the BDSM model photography?"
+    mc "Quindi, uhm... Come hai iniziato con la fotografia di modelle BDSM?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:282
 translate italian sm1cs_kv005_part_2_e467a595:
 
     # kv "Well, I started doing model photos with whoever I could. Friends, random baristas, people on the street."
-    kv "Well, I started doing model photos with whoever I could. Friends, random baristas, people on the street."
+    kv "Beh, ho iniziato a fare foto di modelle con chiunque potessi. Amiche, baristi casuali, persone per strada."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:283
 translate italian sm1cs_kv005_part_2_720d3330:
 
     # kv "I ended up meeting this chick who was super hot that was really excited about getting in front of the camera."
-    kv "I ended up meeting this chick who was super hot that was really excited about getting in front of the camera."
+    kv "Ho finito per incontrare questa ragazza che era super sexy e davvero entusiasta di mettersi davanti alla fotocamera."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:286
 translate italian sm1cs_kv005_part_2_a1f184e9:
@@ -512,13 +512,13 @@ translate italian sm1cs_kv005_part_2_a1f184e9:
 translate italian sm1cs_kv005_part_2_265ffe28:
 
     # kv "When she showed up for the shoot, she had all of these latex outfits. I thought they were awesome, so the whole shoot turned into a light BDSM modeling thing."
-    kv "When she showed up for the shoot, she had all of these latex outfits. I thought they were awesome, so the whole shoot turned into a light BDSM modeling thing."
+    kv "Quando si è presentata per il servizio, aveva tutti questi outfit in latex. Li ho trovati fantastici, quindi l'intero servizio si è trasformato in una cosa di modellazione BDSM leggera."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:288
 translate italian sm1cs_kv005_part_2_db8a773a:
 
     # kv "She showed her friends some of the photos. They wanted to do their own shoot, so she connected us."
-    kv "She showed her friends some of the photos. They wanted to do their own shoot, so she connected us."
+    kv "Ha mostrato alcune delle foto alle sue amiche. Volevano fare il proprio servizio, quindi ci ha messe in contatto."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:291
 translate italian sm1cs_kv005_part_2_a1f184e9_1:

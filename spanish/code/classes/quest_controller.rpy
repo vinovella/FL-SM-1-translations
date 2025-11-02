@@ -7,6 +7,6 @@ translate spanish strings:
 translate spanish strings:
 
     # game/code/classes/quest_controller.rpy:156
-    old "You need to progress {storyline_name} "
-    new "You need to progress {storyline_name} "
+    old "You need to progress {storyline_name}"
+    new "Necesitas avanzar en {storyline_name}"
 

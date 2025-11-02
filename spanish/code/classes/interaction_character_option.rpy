@@ -6,7 +6,7 @@ translate spanish strings:
 
     # game/code/classes/interaction_character_option.rpy:65
     old "{name} (disabled on penalty week)"
-    new "{name} (deshabilitado en la semana de penalización)"
+    new "{name} (deshabilitado durante la semana de penalización)"
 
     # game/code/classes/interaction_character_option.rpy:69
     old "{name} (You have {current_points}/{required_points} Relationship Points with {character_name})"
@@ -14,15 +14,15 @@ translate spanish strings:
 
     # game/code/classes/interaction_character_option.rpy:76
     old "{name} (done today)"
-    new "{name} (Terminado por hoy)"
+    new "{name} (terminado por hoy)"
 
     # game/code/classes/interaction_character_option.rpy:78
     old "{name} (wrong day)"
-    new "{name} (día equivocado)"
+    new "{name} (día incorrecto)"
 
     # game/code/classes/interaction_character_option.rpy:83
     old "{name} (You need to progress {storyline_name} first)"
-    new "{name} (necesitas progresar {storyline_name} primero)"
+    new "{name} (Necesitas avanzar en {storyline_name} primero)"
 
     # game/code/classes/interaction_character_option.rpy:85
     old "{name} (not available today)"
@@ -30,11 +30,11 @@ translate spanish strings:
 
     # game/code/classes/interaction_character_option.rpy:92
     old "{name} (You need to have $ {amount})"
-    new "{name} (necesitas tener $ {amount})"
+    new "{name} (Necesitas tener $ {amount})"
 
     # game/code/classes/interaction_character_option.rpy:94
     old "{name} (not enough energy)"
-    new "{name} (no hay suficiente energía)"
+    new "{name} (no tienes suficiente energía)"
 
     # game/code/classes/interaction_character_option.rpy:97
     old "{name} ({wrong_time_msg})"
@@ -52,5 +52,4 @@ translate spanish strings:
 
     # game/code/classes/interaction_character_option.rpy:92
     old "{name} (You need to have ${amount})"
-    new "{name} (You need to have ${amount})"
-
+    new "{name} (Necesitas tener ${amount})"
