@@ -2,25 +2,25 @@
 translate italian sm1cs_tl007i_462cdf24:
 
     # tl "So, when can I move in?"
-    tl "Allora, quando posso trasferirmi?"
+    tl "Quindi, quando posso traslocare?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl007i.rpy:5
 translate italian sm1cs_tl007i_b3ae8984:
 
     # mc "Uhm..."
-    mc "Uhm..."
+    mc "Ehm..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007i.rpy:7
 translate italian sm1cs_tl007i_165d6c9c:
 
     # mc "Well the studio is all renovated, so... whenever?"
-    mc "Beh, lo studio è tutto rinnovato, quindi... quando vuoi?"
+    mc "Beh, lo studio è tutto ristrutturato, quindi... quando vuoi?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl007i.rpy:10
 translate italian sm1cs_tl007i_80cc65ef:
 
     # tl "Sick. I'll be by later then."
-    tl "Fantastico. Passerò più tardi allora."
+    tl "Forte. Allora passo dopo."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007i.rpy:11
 translate italian sm1cs_tl007i_ef7457da:
@@ -56,5 +56,5 @@ translate italian sm1cs_tl007i_52d8e57e:
 translate italian sm1cs_tl007i_de87a53b:
 
     # mc "As soon as the room is ready, we'll let you know. I promise."
-    mc "Appena la stanza sarà pronta, te lo faremo sapere. Te lo prometto."
+    mc "Non appena la stanza sarà pronta, te lo faremo sapere. Te lo prometto."
 
