@@ -818,37 +818,37 @@ translate italian sm1cs_mh008_date_c1c53635:
 translate italian sm1ms_mh008_game_0ec5aa4b:
 
     # "Carnival Worker" "Step right up! See if you have what it takes to take home one of these adorable, stuffed animals!"
-    "Carnival Worker" "Step right up! See if you have what it takes to take home one of these adorable, stuffed animals!"
+    "Carnival Worker" "Avvicinati! Vediamo se hai quello che serve per portare a casa uno di questi adorabili peluche!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:454
 translate italian sm1ms_mh008_game_d9246fd0:
 
     # mc "What do I have to do to win one?"
-    mc "What do I have to do to win one?"
+    mc "Cosa devo fare per vincerne uno?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:457
 translate italian sm1ms_mh008_game_782b7512:
 
     # "Carnival Worker" "It's simple! You got five shots with our air rifle, and you just need to knock down three of the targets!"
-    "Carnival Worker" "It's simple! You got five shots with our air rifle, and you just need to knock down three of the targets!"
+    "Carnival Worker" "È semplice! Hai cinque colpi con il nostro fucile ad aria compressa, e devi solo abbattere tre dei bersagli!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:460
 translate italian sm1ms_mh008_game_c76ac7c5:
 
     # mc "Easy! I can do that!"
-    mc "Easy! I can do that!"
+    mc "Facile! Posso farlo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:463
 translate italian sm1ms_mh008_game_35c81463:
 
     # "Carnival Worker" "Yeah! Nothing to it! Show me what you got!"
-    "Carnival Worker" "Yeah! Nothing to it! Show me what you got!"
+    "Carnival Worker" "Sì! Niente di difficile! Fammi vedere cosa sai fare!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:467
 translate italian sm1ms_mh008_game_c904ccf1:
 
     # mct "All right, [mcname]. Let's win Lyssa this bear!"
-    mct "All right, [mcname]. Let's win Lyssa this bear!"
+    mct "Va bene, [mcname]. Vinciamo questo orsetto per Lyssa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:470
 translate italian sm1ms_mh008_game_8a88410b:
@@ -860,19 +860,19 @@ translate italian sm1ms_mh008_game_8a88410b:
 translate italian sm1ms_mh008_game_8701f4f1:
 
     # "Carnival Worker" "Well, it seems like you missed all three shots! Would you like to try again?"
-    "Carnival Worker" "Well, it seems like you missed all three shots! Would you like to try again?"
+    "Carnival Worker" "Beh, sembra che tu abbia mancato tutti e tre i colpi! Vuoi riprovare?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:481
 translate italian sm1ms_mh008_game_3c0bbbee:
 
     # mc "Absolutely!"
-    mc "Absolutely!"
+    mc "Assolutamente!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:484
 translate italian sm1ms_mh008_game_b0f92f45:
 
     # "Carnival Worker" "All right, have at her!"
-    "Carnival Worker" "All right, have at her!"
+    "Carnival Worker" "Va bene, provaci!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:487
 translate italian sm1ms_mh008_game_8a88410b_1:
@@ -884,31 +884,31 @@ translate italian sm1ms_mh008_game_8a88410b_1:
 translate italian sm1ms_mh008_game_b8b01170:
 
     # mct "Shit..."
-    mct "Shit..."
+    mct "Merda..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:495
 translate italian sm1ms_mh008_game_b0674b22:
 
     # "Carnival Worker" "And three more misses! Wow!{w} What about you, miss? Would you like to give it a go?"
-    "Carnival Worker" "And three more misses! Wow!{w} What about you, miss? Would you like to give it a go?"
+    "Carnival Worker" "E altri tre colpi mancati! Wow!{w} E tu, signorina? Vuoi provare?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:498
 translate italian sm1ms_mh008_game_fb8892f4:
 
     # mh "Sure. How much to play?"
-    mh "Sure. How much to play?"
+    mh "Certo. Quanto costa giocare?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:501
 translate italian sm1ms_mh008_game_1ad4d7ce:
 
     # mc "Don't worry, Lyssa. I'll pay for it."
-    mc "Don't worry, Lyssa. I'll pay for it."
+    mc "Non preoccuparti, Lyssa. Pago io."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:504
 translate italian sm1ms_mh008_game_dba3a987:
 
     # "Carnival Worker" "And fire awwaaayyyy when you're ready!"
-    "Carnival Worker" "And fire awwaaayyyy when you're ready!"
+    "Carnival Worker" "E spara quandoooo sei pronta!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:507
 translate italian sm1ms_mh008_game_d8ed4d23:
@@ -920,193 +920,193 @@ translate italian sm1ms_mh008_game_d8ed4d23:
 translate italian sm1ms_mh008_game_5a299d56:
 
     # "Carnival Worker" "Holy guacamole... you hit all three targets! {size=*0.5}Corporate said that it was impossible! What the hell...{/size}"
-    "Carnival Worker" "Holy guacamole... you hit all three targets! {size=*0.5}Corporate said that it was impossible! What the hell...{/size}"
+    "Carnival Worker" "Santo cielo... hai colpito tutti e tre i bersagli! {size=*0.5}La direzione aveva detto che era impossibile! Ma che diavolo...{/size}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:520
 translate italian sm1ms_mh008_game_08371f5e:
 
     # mh "I believe I am owed a teddy bear?"
-    mh "I believe I am owed a teddy bear?"
+    mh "Credo di aver diritto a un orsacchiotto?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:523
 translate italian sm1ms_mh008_game_b1582b3e:
 
     # "Carnival Worker" "Oh, uhm... you most definitely are..."
-    "Carnival Worker" "Oh, uhm... you most definitely are..."
+    "Carnival Worker" "Oh, uhm... sicuramente sì..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:527
 translate italian sm1ms_mh008_game_9d53957e:
 
     # "Carnival Worker" "Here you go..."
-    "Carnival Worker" "Here you go..."
+    "Carnival Worker" "Ecco a te..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:530
 translate italian sm1ms_mh008_game_ffc6a815:
 
     # mh "Thank you."
-    mh "Thank you."
+    mh "Grazie."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:533
 translate italian sm1ms_mh008_game_8f7bf1f9:
 
     # mc "Wow, Lyssa... I didn't realize you were so good at shooting."
-    mc "Wow, Lyssa... I didn't realize you were so good at shooting."
+    mc "Wow, Lyssa... non mi ero reso conto che fossi così brava a sparare."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:536
 translate italian sm1ms_mh008_game_682af51a:
 
     # mh "One of the few perks of coming to the carnival once or twice a year since you were a youngster."
-    mh "One of the few perks of coming to the carnival once or twice a year since you were a youngster."
+    mh "Uno dei pochi vantaggi di venire al luna park una o due volte all'anno da quando eri giovane."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:539
 translate italian sm1ms_mh008_game_0f3910e9:
 
     # mc "Yeah. I also guess I need to do some target practice. Can't let you win your own stuffed animals."
-    mc "Yeah. I also guess I need to do some target practice. Can't let you win your own stuffed animals."
+    mc "Sì. Immagino anche che dovrò fare un po' di pratica al tiro. Non posso lasciare che vinca i tuoi peluche da sola."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:542
 translate italian sm1ms_mh008_game_4e06cb34:
 
     # mh "It's okay. You tried, which is really what matters, [mcname]."
-    mh "It's okay. You tried, which is really what matters, [mcname]."
+    mh "Va bene. Hai provato, ed è questo ciò che conta davvero, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:543
 translate italian sm1ms_mh008_game_f55a8ff9:
 
     # mh "And you continue to try, try your hardest. And I see that."
-    mh "And you continue to try, try your hardest. And I see that."
+    mh "E continui a provare, dare il massimo. E lo vedo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:544
 translate italian sm1ms_mh008_game_c18d9c78:
 
     # mh "And that's what I... like about you {b}most{/b}."
-    mh "And that's what I... like about you {b}most{/b}."
+    mh "Ed è questo ciò che mi... piace di {b}più{/b} di te."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:547
 translate italian sm1ms_mh008_game_1cde81de:
 
     # mc "Thank you, Lyssa."
-    mc "Thank you, Lyssa."
+    mc "Grazie, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:552
 translate italian sm1ms_mh008_game_0e20eaeb:
 
     # mc "Oh, it looks like Stacy is just about to get here. Should we head over to the entrance to meet her?"
-    mc "Oh, it looks like Stacy is just about to get here. Should we head over to the entrance to meet her?"
+    mc "Oh, sembra che Stacy stia per arrivare. Dovremmo andare all'ingresso per incontrarla?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:555
 translate italian sm1ms_mh008_game_f5ff0895:
 
     # mh "Yeah, make everyone's life easier instead of making her look for us."
-    mh "Yeah, make everyone's life easier instead of making her look for us."
+    mh "Sì, rendiamo la vita più facile a tutti invece di farla cercare."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:558
 translate italian sm1ms_mh008_game_df45edbd:
 
     # mc "What, you don't want to play carnival hide-and-seek with Stacy?"
-    mc "What, you don't want to play carnival hide-and-seek with Stacy?"
+    mc "Cosa, non vuoi giocare a nascondino al luna park con Stacy?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:559
 translate italian sm1ms_mh008_game_4d649574:
 
     # mc "I bet we would kick her ass in some hide-and-seek!"
-    mc "I bet we would kick her ass in some hide-and-seek!"
+    mc "Scommetto che le daremmo una lezione a nascondino!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:562
 translate italian sm1ms_mh008_game_e4106ae0:
 
     # mh "Come on, you goof."
-    mh "Come on, you goof."
+    mh "Dai, sciocchino."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:590
 translate italian sm1cs_mh008_couple_carousel_f3d441b0:
 
     # mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
-    mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
+    mc "Beh, nessuna visita al luna park è completa senza un giro sulla ruota panoramica!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:593
 translate italian sm1cs_mh008_couple_carousel_45412da6:
 
     # mh "I couldn't agree more, [mcname]."
-    mh "I couldn't agree more, [mcname]."
+    mh "Non potrei essere più d'accordo, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:608
 translate italian sm1cs_mh008_couple_carousel_4467d5d8:
 
     # mh "I hope you're not afraid of heights, [mcname]!"
-    mh "I hope you're not afraid of heights, [mcname]!"
+    mh "Spero che tu non abbia paura dell'altezza, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:611
 translate italian sm1cs_mh008_couple_carousel_3de751db:
 
     # mc "Nope! Not afraid of them at all."
-    mc "Nope! Not afraid of them at all."
+    mc "No! Non ne ho paura affatto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:614
 translate italian sm1cs_mh008_couple_carousel_38fb3ff4:
 
     # mh "Hehehe. Are you afraid of anything? Some of the things I've seen you do... I think of you as fearless."
-    mh "Hehehe. Are you afraid of anything? Some of the things I've seen you do... I think of you as fearless."
+    mh "Hehehe. Hai paura di qualcosa? Alcune delle cose che ti ho visto fare... penso a te come a qualcuno senza paura."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:617
 translate italian sm1cs_mh008_couple_carousel_349fb02a:
 
     # mc "I... I do have one fear."
-    mc "I... I do have one fear."
+    mc "Io... ho una paura."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:620
 translate italian sm1cs_mh008_couple_carousel_b635efb0:
 
     # mh "Oh yeah? And what's that."
-    mh "Oh yeah? And what's that."
+    mh "Oh sì? E qual è."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:623
 translate italian sm1cs_mh008_couple_carousel_5efa3136:
 
     # mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
-    mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
+    mc "Io... ho paura che il burro d'arachidi si attacchi al palato."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:626
 translate italian sm1cs_mh008_couple_carousel_84217137:
 
     # mh "Excuse me... you're afraid of..."
-    mh "Excuse me... you're afraid of..."
+    mh "Scusa... hai paura di..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:629
 translate italian sm1cs_mh008_couple_carousel_7d735c19:
 
     # mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
-    mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
+    mc "Che il burro d'arachidi si attacchi al palato. Sì."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:630
 translate italian sm1cs_mh008_couple_carousel_8486795c:
 
     # mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
-    mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
+    mc "Perché sto per mangiare, tipo, un panino al burro d'arachidi e marmellata, e qualcuno proverà a parlarmi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:633
 translate italian sm1cs_mh008_couple_carousel_ccd20cf6:
 
     # mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
-    mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
+    mc "E poi avrò il burro d'arachidi in bocca, e non potrò parlare."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:634
 translate italian sm1cs_mh008_couple_carousel_831928cf:
 
     # mc "Or it'll sound super weird!"
-    mc "Or it'll sound super weird!"
+    mc "O suonerà super strano!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:637
 translate italian sm1cs_mh008_couple_carousel_c60a8f92:
 
     # mh "I, uhm - uhm-"
-    mh "I, uhm - uhm-"
+    mh "Io, uhm - uhm-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:640
 translate italian sm1cs_mh008_couple_carousel_05d4025a:
 
     # mc "What! It's a very real fear!"
-    mc "What! It's a very real fear!"
+    mc "Cosa! È una paura molto reale!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:643
 translate italian sm1cs_mh008_couple_carousel_cb11c524:
@@ -1118,31 +1118,31 @@ translate italian sm1cs_mh008_couple_carousel_cb11c524:
 translate italian sm1cs_mh008_couple_carousel_a9094a0b:
 
     # mc "And what, you're totally fearless, Lyssa?!?"
-    mc "And what, you're totally fearless, Lyssa?!?"
+    mc "E allora, sei completamente senza paura, Lyssa?!?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:649
 translate italian sm1cs_mh008_couple_carousel_5d13dc5e:
 
     # mh "No, I wouldn't say that. I'm scared of some things. I used to get really bad vertigo, but I think I've finally gotten over that."
-    mh "No, I wouldn't say that. I'm scared of some things. I used to get really bad vertigo, but I think I've finally gotten over that."
+    mh "No, non direi questo. Ho paura di alcune cose. Avevo vertigini molto forti, ma penso di averle finalmente superate."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:650
 translate italian sm1cs_mh008_couple_carousel_13be126e:
 
     # mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
-    mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
+    mh "E non direi che ho paura dei pagliacci, ho solo un'... avversione verso di loro."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:653
 translate italian sm1cs_mh008_couple_carousel_ffcb4e75:
 
     # mc "There's only one clown to be afraid of."
-    mc "There's only one clown to be afraid of."
+    mc "C'è solo un pagliaccio di cui aver paura."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:656
 translate italian sm1cs_mh008_couple_carousel_a161e15d:
 
     # mh "Oh yeah? And which one is that?"
-    mh "Oh yeah? And which one is that?"
+    mh "Oh sì? E quale sarebbe?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:659
 translate italian sm1cs_mh008_couple_carousel_4e784502:
@@ -1154,79 +1154,79 @@ translate italian sm1cs_mh008_couple_carousel_4e784502:
 translate italian sm1cs_mh008_couple_carousel_8f5e4b82:
 
     # mh "Like... the mascot for the fast food place?"
-    mh "Like... the mascot for the fast food place?"
+    mh "Tipo... la mascotte del fast food?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:665
 translate italian sm1cs_mh008_couple_carousel_03035655:
 
     # mc "Yes. He's the most lethal clown in history."
-    mc "Yes. He's the most lethal clown in history."
+    mc "Sì. È il pagliaccio più letale della storia."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:666
 translate italian sm1cs_mh008_couple_carousel_890c0854:
 
     # mc "He's killed more people than Gacy."
-    mc "He's killed more people than Gacy."
+    mc "Ha ucciso più persone di Gacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:669
 translate italian sm1cs_mh008_couple_carousel_1e99bd94:
 
     # mh "You know... you've got a good point there."
-    mh "You know... you've got a good point there."
+    mh "Sai... hai ragione su questo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:672
 translate italian sm1cs_mh008_couple_carousel_d64fffa8:
 
     # mc "And he just looks creepy as hell."
-    mc "And he just looks creepy as hell."
+    mc "E sembra inquietante da morire."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:675
 translate italian sm1cs_mh008_couple_carousel_83fc393b:
 
     # mh "Hehehe - yeah, you're not wrong there either."
-    mh "Hehehe - yeah, you're not wrong there either."
+    mh "Hehehe - sì, non hai torto neanche su questo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:678
 translate italian sm1cs_mh008_couple_carousel_46c747e9:
 
     # mh "Wow... sometimes I forget how beautiful Crowning is..."
-    mh "Wow... sometimes I forget how beautiful Crowning is..."
+    mh "Wow... a volte dimentico quanto sia bella Crowning..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:681
 translate italian sm1cs_mh008_couple_carousel_6780655c:
 
     # mc "Yeah, the sights are really something..."
-    mc "Yeah, the sights are really something..."
+    mc "Sì, i panorami sono davvero qualcosa..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:684
 translate italian sm1cs_mh008_couple_carousel_18c82454:
 
     # mh "You're not even looking out at the city, [mcname]."
-    mh "You're not even looking out at the city, [mcname]."
+    mh "Non stai nemmeno guardando la città, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:687
 translate italian sm1cs_mh008_couple_carousel_974505ae:
 
     # mc "Why would I do that?"
-    mc "Why would I do that?"
+    mc "Perché dovrei farlo?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:690
 translate italian sm1cs_mh008_couple_carousel_c0664f99:
 
     # mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
-    mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
+    mc "Perché, per quanto mi riguarda, la cosa più bella che potrei guardare, sei tu, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:693
 translate italian sm1cs_mh008_couple_carousel_aa0a328b:
 
     # mh "Oh, you..."
-    mh "Oh, you..."
+    mh "Oh, tu..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:704
 translate italian sm1cs_mh008_couple_carousel_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Io-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:707
 translate italian sm1cs_mh008_couple_carousel_c7cf2826:
@@ -1238,163 +1238,163 @@ translate italian sm1cs_mh008_couple_carousel_c7cf2826:
 translate italian sm1cs_mh008_couple_carousel_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Sì?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:713
 translate italian sm1cs_mh008_couple_carousel_7647e6de:
 
     # mh "Let's just enjoy this moment."
-    mh "Let's just enjoy this moment."
+    mh "Godiamoci semplicemente questo momento."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:716
 translate italian sm1cs_mh008_couple_carousel_d0445bce:
 
     # mc "Yeah, that sounds nice."
-    mc "Yeah, that sounds nice."
+    mc "Sì, sembra carino."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:733
 translate italian sm1cs_mh008_couple_carousel_end_cac1d1c7:
 
     # mh "That was... truly wonderful, [mcname]."
-    mh "That was... truly wonderful, [mcname]."
+    mh "È stato... davvero meraviglioso, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:734
 translate italian sm1cs_mh008_couple_carousel_end_04a06728:
 
     # mh "Another wonderful carnival memory to add to the others."
-    mh "Another wonderful carnival memory to add to the others."
+    mh "Un altro meraviglioso ricordo del luna park da aggiungere agli altri."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:737
 translate italian sm1cs_mh008_couple_carousel_end_6779bff8:
 
     # mc "I couldn't think of anyone I'd rather be looking out over the city than with you, Lyssa."
-    mc "I couldn't think of anyone I'd rather be looking out over the city than with you, Lyssa."
+    mc "Non riesco a pensare a nessuno con cui preferirei guardare la città se non te, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:740
 translate italian sm1cs_mh008_couple_carousel_end_db28c904:
 
     # mh "I'd hate to cut this short, but I do have a meeting in the morning that I have to make."
-    mh "I'd hate to cut this short, but I do have a meeting in the morning that I have to make."
+    mh "Odio interrompere, ma ho un incontro domattina a cui devo andare."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:744
 translate italian sm1cs_mh008_couple_carousel_end_31b055e7:
 
     # mc "Wait, isn't it the weekend?"
-    mc "Wait, isn't it the weekend?"
+    mc "Aspetta, non è il fine settimana?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:747
 translate italian sm1cs_mh008_couple_carousel_end_aff55cb5:
 
     # mh "When you work as a solo practitioner, you're never guaranteed weekends off."
-    mh "When you work as a solo practitioner, you're never guaranteed weekends off."
+    mh "Quando lavori come libera professionista, non hai mai la garanzia di avere i fine settimana liberi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:750
 translate italian sm1cs_mh008_couple_carousel_end_1fc5a45e:
 
     # mc "Oh shit, it's a work night, isn't it?"
-    mc "Oh shit, it's a work night, isn't it?"
+    mc "Oh merda, è una serata lavorativa, vero?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:753
 translate italian sm1cs_mh008_couple_carousel_end_4b42e3c3:
 
     # mh "That it is."
-    mh "That it is."
+    mh "Così è."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:756
 translate italian sm1cs_mh008_couple_carousel_end_0b5bf597:
 
     # mc "In that case, I'm glad you had a great night."
-    mc "In that case, I'm glad you had a great night."
+    mc "In tal caso, sono contento che tu abbia passato una bella serata."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:759
 translate italian sm1cs_mh008_couple_carousel_end_d3dbb2e7:
 
     # mh "There is... one more thing you could do to make tonight phenomenal."
-    mh "There is... one more thing you could do to make tonight phenomenal."
+    mh "C'è... un'altra cosa che potresti fare per rendere questa serata fenomenale."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:762
 translate italian sm1cs_mh008_couple_carousel_end_c8f5c86e:
 
     # mc "Oh yeah? And what's that?"
-    mc "Oh yeah? And what's that?"
+    mc "Oh sì? E cosa sarebbe?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:765
 translate italian sm1cs_mh008_couple_carousel_end_3f381964:
 
     # mh "Kiss me."
-    mh "Kiss me."
+    mh "Baciami."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:768
 translate italian sm1cs_mh008_couple_carousel_end_8817f8de:
 
     # mc "Don't mind if I do."
-    mc "Don't mind if I do."
+    mc "Non mi dispiace affatto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:781
 translate italian sm1cs_mh008_couple_carousel_end_03d44d91:
 
     # mh "Mmmmm... perfect, [mcname]."
-    mh "Mmmmm... perfect, [mcname]."
+    mh "Mmmmm... perfetto, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:782
 translate italian sm1cs_mh008_couple_carousel_end_e014e089:
 
     # mh "That was... a hell of a kiss."
-    mh "That was... a hell of a kiss."
+    mh "È stato... un bacio fantastico."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
 translate italian sm1cs_mh008_couple_carousel_end_ae0106d3:
 
     # mc "Hey, when you say \"memorable\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, when you say \"memorable\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    mc "Ehi, quando dici \"memorabile\" e \"bacio\", devo darti il bacio con il massimo impegno, giusto?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:788
 translate italian sm1cs_mh008_couple_carousel_end_22b9b3c1:
 
     # mh "Yes, you do."
-    mh "Yes, you do."
+    mh "Sì, è vero."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:789
 translate italian sm1cs_mh008_couple_carousel_end_98292c6f:
 
     # mh "And I'm going to be holding you to that, [mcname]."
-    mh "And I'm going to be holding you to that, [mcname]."
+    mh "E ti terrò a quello, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:792
 translate italian sm1cs_mh008_couple_carousel_end_7b471f6f:
 
     # mc "Good."
-    mc "Good."
+    mc "Bene."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:795
 translate italian sm1cs_mh008_couple_carousel_end_bb6de89a:
 
     # mh "All right, I do need to go though. I hope I see you soon, [mcname]."
-    mh "All right, I do need to go though. I hope I see you soon, [mcname]."
+    mh "Va bene, devo andare però. Spero di vederti presto, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:798
 translate italian sm1cs_mh008_couple_carousel_end_df110fd3:
 
     # mc "You will! I have to show you the new studio now that it's done!"
-    mc "You will! I have to show you the new studio now that it's done!"
+    mc "Certo! Devo mostrarti il nuovo studio ora che è finito!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:801
 translate italian sm1cs_mh008_couple_carousel_end_bcaa0de5:
 
     # mh "Sounds like a date to me."
-    mh "Sounds like a date to me."
+    mh "Mi sembra un appuntamento."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:804
 translate italian sm1cs_mh008_couple_carousel_end_0b693eb1:
 
     # mct "Hell yeah, that was a great date."
-    mct "Hell yeah, that was a great date."
+    mct "Diavolo sì, è stato un ottimo appuntamento."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:805
 translate italian sm1cs_mh008_couple_carousel_end_d90e3aed:
 
     # mct "And I'm pretty excited for her to see what the studio looks like now."
-    mct "And I'm pretty excited for her to see what the studio looks like now."
+    mct "E sono piuttosto entusiasta che lei veda come appare lo studio ora."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:817
 translate italian sm1cs_mh008_throuple_carousel_1b6d5927:
@@ -1406,43 +1406,43 @@ translate italian sm1cs_mh008_throuple_carousel_1b6d5927:
 translate italian sm1cs_mh008_throuple_carousel_3e248f0f:
 
     # mc "Hey, Stacy."
-    mc "Hey, Stacy."
+    mc "Ehi, Stacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:823
 translate italian sm1cs_mh008_throuple_carousel_058df31b:
 
     # sy "Sorry I'm so late. I had to shower, and find some clean clothes, and - never mind, did I miss anything fun?"
-    sy "Sorry I'm so late. I had to shower, and find some clean clothes, and - never mind, did I miss anything fun?"
+    sy "Scusa se sono così in ritardo. Dovevo fare la doccia, trovare vestiti puliti, e - lascia stare, mi sono persa qualcosa di divertente?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:826
 translate italian sm1cs_mh008_throuple_carousel_a3b9dec9:
 
     # mh "Just [mcname] winning me a little prize."
-    mh "Just [mcname] winning me a little prize."
+    mh "Solo [mcname] che mi ha vinto un piccolo premio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:829
 translate italian sm1cs_mh008_throuple_carousel_62c252e1:
 
     # sy "What!"
-    sy "What!"
+    sy "Cosa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:830
 translate italian sm1cs_mh008_throuple_carousel_2f26d296:
 
     # sy "It's so cute! [mcname]! Why didn't you win me one?"
-    sy "It's so cute! [mcname]! Why didn't you win me one?"
+    sy "È così carino! [mcname]! Perché non ne hai vinto uno per me?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:833
 translate italian sm1cs_mh008_throuple_carousel_2cbf11a3:
 
     # mc "Well, uhhh..."
-    mc "Well, uhhh..."
+    mc "Beh, uhhh..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:836
 translate italian sm1cs_mh008_throuple_carousel_c9c40c2f:
 
     # mh "Well, [mcname] didn't win it, exactly. But he paid for the winning game!"
-    mh "Well, [mcname] didn't win it, exactly. But he paid for the winning game!"
+    mh "Beh, [mcname] non l'ha vinto esattamente. Ma ha pagato per la partita vincente!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:839
 translate italian sm1cs_mh008_throuple_carousel_0c32fd40:
@@ -1454,163 +1454,163 @@ translate italian sm1cs_mh008_throuple_carousel_0c32fd40:
 translate italian sm1cs_mh008_throuple_carousel_607b3a0e:
 
     # sy "Lyyssssaaaaaaaaa, will you win me a teddy bear with [mcname]'s money?"
-    sy "Lyyssssaaaaaaaaa, will you win me a teddy bear with [mcname]'s money?"
+    sy "Lyyssssaaaaaaaaa, mi vinci un orsacchiotto con i soldi di [mcname]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:845
 translate italian sm1cs_mh008_throuple_carousel_986f846c:
 
     # mh "Oh, well that doesn't sound like a half-bad plan. What do you think, [mcname]?"
-    mh "Oh, well that doesn't sound like a half-bad plan. What do you think, [mcname]?"
+    mh "Oh, beh, non sembra una cattiva idea. Che ne pensi, [mcname]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:848
 translate italian sm1cs_mh008_throuple_carousel_c41bbdb8:
 
     # mc "I, uhhh - that was an expensive game, and erm-"
-    mc "I, uhhh - that was an expensive game, and erm-"
+    mc "Io, uhhh - è stato un gioco costoso, e ehm-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:851
 translate italian sm1cs_mh008_throuple_carousel_025f0bd5:
 
     # sy "I'm kidding, [mcname]. You don't need to win me a bear."
-    sy "I'm kidding, [mcname]. You don't need to win me a bear."
+    sy "Sto scherzando, [mcname]. Non hai bisogno di vincermi un orso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:852
 translate italian sm1cs_mh008_throuple_carousel_051ecb8f:
 
     # sy "But you do need to show me around! I don't think I've ever really been to the carnival for fun. Just for... \"work stuff\"."
-    sy "But you do need to show me around! I don't think I've ever really been to the carnival for fun. Just for... \"work stuff\"."
+    sy "Ma devi farmi vedere in giro! Non credo di essere mai veramente stata al luna park per divertimento. Solo per... \"cose di lavoro\"."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:855
 translate italian sm1cs_mh008_throuple_carousel_954a6ab6:
 
     # mh "Really?"
-    mh "Really?"
+    mh "Davvero?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:859
 translate italian sm1cs_mh008_throuple_carousel_d08cc125:
 
     # sy "Uh huh. We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
-    sy "Uh huh. We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
+    sy "Uh huh. Non ci siamo mai andati davvero mentre crescevamo, e sono stata così impegnata da quando sono arrivata a Crowning, beh... non sono riuscita a trovare il tempo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
 translate italian sm1cs_mh008_throuple_carousel_04b4af8c:
 
     # sy "Growing up. Our familes never really went to the carvnial."
-    sy "Growing up. Our familes never really went to the carvnial."
+    sy "Crescendo. Le nostre famiglie non sono mai andate davvero al luna park."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:862
 translate italian sm1cs_mh008_throuple_carousel_2fc0ca58:
 
     # sy "And I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
-    sy "And I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
+    sy "E sono stata così impegnata da quando sono arrivata a Crowning, beh... non sono riuscita a trovare il tempo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:865
 translate italian sm1cs_mh008_throuple_carousel_71c6ea92:
 
     # mh "Well, let's get you caught up."
-    mh "Well, let's get you caught up."
+    mh "Beh, facciamoti recuperare."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:868
 translate italian sm1cs_mh008_throuple_carousel_6e71bd96:
 
     # sy "Thanks, Lyssa."
-    sy "Thanks, Lyssa."
+    sy "Grazie, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:871
 translate italian sm1cs_mh008_throuple_carousel_c5cb254d:
 
     # mct "Well, things are definitely off to a good start!"
-    mct "Well, things are definitely off to a good start!"
+    mct "Beh, le cose sono decisamente iniziate bene!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:890
 translate italian sm1cs_mh008_throuple_carousel_f63c75c7:
 
     # sy "Ooooo, are we going to ride on the ferris wheel!?"
-    sy "Ooooo, are we going to ride on the ferris wheel!?"
+    sy "Ooooo, andremo sulla ruota panoramica!?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:893
 translate italian sm1cs_mh008_throuple_carousel_f3d441b0:
 
     # mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
-    mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
+    mc "Beh, nessuna visita al luna park è completa senza un giro sulla ruota panoramica!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:896
 translate italian sm1cs_mh008_throuple_carousel_45412da6:
 
     # mh "I couldn't agree more, [mcname]."
-    mh "I couldn't agree more, [mcname]."
+    mh "Non potrei essere più d'accordo, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:912
 translate italian sm1cs_mh008_throuple_carousel_4467d5d8:
 
     # mh "I hope you're not afraid of heights, [mcname]!"
-    mh "I hope you're not afraid of heights, [mcname]!"
+    mh "Spero che tu non abbia paura dell'altezza, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:915
 translate italian sm1cs_mh008_throuple_carousel_3de751db:
 
     # mc "Nope! Not afraid of them at all."
-    mc "Nope! Not afraid of them at all."
+    mc "No! Non ne ho paura affatto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:918
 translate italian sm1cs_mh008_throuple_carousel_78983fe1:
 
     # mh "What about you, Stacy?"
-    mh "What about you, Stacy?"
+    mh "E tu, Stacy?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:921
 translate italian sm1cs_mh008_throuple_carousel_df0572e5:
 
     # sy "Oh, I'm terrified of heights."
-    sy "Oh, I'm terrified of heights."
+    sy "Oh, ho un terrore dell'altezza."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:924
 translate italian sm1cs_mh008_throuple_carousel_d1f17865:
 
     # mh "Then... why did you want to ride the ferris wheel?"
-    mh "Then... why did you want to ride the ferris wheel?"
+    mh "Allora... perché volevi andare sulla ruota panoramica?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:927
 translate italian sm1cs_mh008_throuple_carousel_a7fbe2aa:
 
     # mc "Yeah, the whole thing with it is heights, Stacy."
-    mc "Yeah, the whole thing with it is heights, Stacy."
+    mc "Sì, tutta la faccenda riguarda l'altezza, Stacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:930
 translate italian sm1cs_mh008_throuple_carousel_ec03ff89:
 
     # sy "You know I love challenging myself."
-    sy "You know I love challenging myself."
+    sy "Sai che amo sfidarmi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:931
 translate italian sm1cs_mh008_throuple_carousel_41ac0b4d:
 
     # sy "If I never challenged myself, I'd never grow or change."
-    sy "If I never challenged myself, I'd never grow or change."
+    sy "Se non mi sfidassi mai, non crescerei mai né cambierei."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:934
 translate italian sm1cs_mh008_throuple_carousel_b9e34d9f:
 
     # sy "I'd just be some stock character in the background of everyone's lives."
-    sy "I'd just be some stock character in the background of everyone's lives."
+    sy "Sarei solo un personaggio di sfondo nella vita di tutti."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:935
 translate italian sm1cs_mh008_throuple_carousel_8c961881:
 
     # sy "And I am definitely not a background character."
-    sy "And I am definitely not a background character."
+    sy "E io sicuramente non sono un personaggio di sfondo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:938
 translate italian sm1cs_mh008_throuple_carousel_35324042:
 
     # mc "You can say that again."
-    mc "You can say that again."
+    mc "Puoi dirlo forte."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:941
 translate italian sm1cs_mh008_throuple_carousel_cc72c627:
 
     # sy "But you two get it. You both also have big main character energy."
-    sy "But you two get it. You both also have big main character energy."
+    sy "Ma voi due capite. Avete entrambi una grande energia da protagonista."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:944
 translate italian sm1cs_mh008_throuple_carousel_d69c9291:
@@ -1622,115 +1622,115 @@ translate italian sm1cs_mh008_throuple_carousel_d69c9291:
 translate italian sm1cs_mh008_throuple_carousel_d7cb8a21:
 
     # sy "You know, like... erm, you're both the author of your own worlds, you know?"
-    sy "You know, like... erm, you're both the author of your own worlds, you know?"
+    sy "Sai, tipo... ehm, siete entrambi gli autori dei vostri mondi, capisci?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:948
 translate italian sm1cs_mh008_throuple_carousel_16d022cc:
 
     # sy "You're both strong, capable people. If you want something, you go out and get it. If something needs to get done, you do it."
-    sy "You're both strong, capable people. If you want something, you go out and get it. If something needs to get done, you do it."
+    sy "Siete entrambi persone forti e capaci. Se volete qualcosa, uscite e la prendete. Se qualcosa deve essere fatto, lo fate."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:949
 translate italian sm1cs_mh008_throuple_carousel_b75b82c5:
 
     # sy "And neither of you are ever the second player."
-    sy "And neither of you are ever the second player."
+    sy "E nessuno di voi è mai il secondo giocatore."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:952
 translate italian sm1cs_mh008_throuple_carousel_caae6011:
 
     # mh "Well, sometimes..."
-    mh "Well, sometimes..."
+    mh "Beh, a volte..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:955
 translate italian sm1cs_mh008_throuple_carousel_2e5c4041:
 
     # mct "Uhhhh, this might get awkward. I need to change the subject."
-    mct "Uhhhh, this might get awkward. I need to change the subject."
+    mct "Uhhhh, potrebbe diventare imbarazzante. Devo cambiare argomento."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:958
 translate italian sm1cs_mh008_throuple_carousel_9ad42642:
 
     # mc "I... I have something I'm scared of."
-    mc "I... I have something I'm scared of."
+    mc "Io... ho qualcosa di cui ho paura."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:962
 translate italian sm1cs_mh008_throuple_carousel_ff324e5d:
 
     # sy "Really, bro?"
-    sy "Really, bro?"
+    sy "Davvero, fratello?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:964
 translate italian sm1cs_mh008_throuple_carousel_3c4665e0:
 
     # sy "Really, [mcname]?"
-    sy "Really, [mcname]?"
+    sy "Davvero, [mcname]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:967
 translate italian sm1cs_mh008_throuple_carousel_b635efb0:
 
     # mh "Oh yeah? And what's that."
-    mh "Oh yeah? And what's that."
+    mh "Oh sì? E qual è."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:970
 translate italian sm1cs_mh008_throuple_carousel_5efa3136:
 
     # mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
-    mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
+    mc "Io... ho paura che il burro d'arachidi si attacchi al palato."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:973
 translate italian sm1cs_mh008_throuple_carousel_84217137:
 
     # mh "Excuse me... you're afraid of..."
-    mh "Excuse me... you're afraid of..."
+    mh "Scusa... hai paura di..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:976
 translate italian sm1cs_mh008_throuple_carousel_7d735c19:
 
     # mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
-    mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
+    mc "Che il burro d'arachidi si attacchi al palato. Sì."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:977
 translate italian sm1cs_mh008_throuple_carousel_8486795c:
 
     # mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
-    mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
+    mc "Perché sto per mangiare, tipo, un panino al burro d'arachidi e marmellata, e qualcuno proverà a parlarmi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:981
 translate italian sm1cs_mh008_throuple_carousel_ccd20cf6:
 
     # mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
-    mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
+    mc "E poi avrò il burro d'arachidi in bocca, e non potrò parlare."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:982
 translate italian sm1cs_mh008_throuple_carousel_86ad05c0:
 
     # mc "Or it'll sound super weird and that scares me!"
-    mc "Or it'll sound super weird and that scares me!"
+    mc "O suonerà super strano e questo mi spaventa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:985
 translate italian sm1cs_mh008_throuple_carousel_c60a8f92:
 
     # mh "I, uhm - uhm-"
-    mh "I, uhm - uhm-"
+    mh "Io, uhm - uhm-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:988
 translate italian sm1cs_mh008_throuple_carousel_1b3407be:
 
     # sy "You're fucking with us, right?"
-    sy "You're fucking with us, right?"
+    sy "Ci stai prendendo per il culo, vero?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:991
 translate italian sm1cs_mh008_throuple_carousel_233ba459:
 
     # mc "No! I'm seriously afraid of it-"
-    mc "No! I'm seriously afraid of it-"
+    mc "No! Ho davvero paura di questo-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:994
 translate italian sm1cs_mh008_throuple_carousel_05d4025a:
 
     # mc "What! It's a very real fear!"
-    mc "What! It's a very real fear!"
+    mc "Cosa! È una paura molto reale!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:997
 translate italian sm1cs_mh008_throuple_carousel_cb11c524:
@@ -1742,115 +1742,115 @@ translate italian sm1cs_mh008_throuple_carousel_cb11c524:
 translate italian sm1cs_mh008_throuple_carousel_bf31223f:
 
     # sy "Hahahahahahahaha! No fucking way!"
-    sy "Hahahahahahahaha! No fucking way!"
+    sy "Hahahahahahahaha! Non ci credo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1003
 translate italian sm1cs_mh008_throuple_carousel_9ec7878b:
 
     # sy "That's the most ridiculous thing I've ever heard, [mcname]!"
-    sy "That's the most ridiculous thing I've ever heard, [mcname]!"
+    sy "È la cosa più ridicola che abbia mai sentito, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1006
 translate italian sm1cs_mh008_throuple_carousel_6409586d:
 
     # mc "And what, you two are totally fearless?!"
-    mc "And what, you two are totally fearless?!"
+    mc "E allora, voi due siete completamente senza paura?!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1009
 translate italian sm1cs_mh008_throuple_carousel_73ccfa3c:
 
     # sy "No, I already told you I'm scared of heights. But that one makes sense."
-    sy "No, I already told you I'm scared of heights. But that one makes sense."
+    sy "No, ti ho già detto che ho paura dell'altezza. Ma quello ha senso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1010
 translate italian sm1cs_mh008_throuple_carousel_033df74c:
 
     # sy "Because if you fall from super high up, that's it for you."
-    sy "Because if you fall from super high up, that's it for you."
+    sy "Perché se cadi da molto in alto, è finita per te."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1011
 translate italian sm1cs_mh008_throuple_carousel_94f2286d:
 
     # sy "My fear makes sense. Yours is just insane!"
-    sy "My fear makes sense. Yours is just insane!"
+    sy "La mia paura ha senso. La tua è pazzesca!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1014
 translate italian sm1cs_mh008_throuple_carousel_242c405e:
 
     # mc "Is not!"
-    mc "Is not!"
+    mc "Non è vero!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1017
 translate italian sm1cs_mh008_throuple_carousel_356c92fb:
 
     # sy "Suuuuuuuuuure."
-    sy "Suuuuuuuuuure."
+    sy "Siiiiiiiicuro."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1020
 translate italian sm1cs_mh008_throuple_carousel_61b0845e:
 
     # mh "And no, I wouldn't say that I'm not scared of anything. I used to get really bad vertigo, but I think I've finally gotten over that."
-    mh "And no, I wouldn't say that I'm not scared of anything. I used to get really bad vertigo, but I think I've finally gotten over that."
+    mh "E no, non direi che non ho paura di niente. Avevo vertigini molto forti, ma penso di averle finalmente superate."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1023
 translate italian sm1cs_mh008_throuple_carousel_6377fe3f:
 
     # sy "And that one totally makes sense! Heights are spooky!"
-    sy "And that one totally makes sense! Heights are spooky!"
+    sy "E anche quella ha perfettamente senso! Le altezze fanno paura!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1026
 translate italian sm1cs_mh008_throuple_carousel_5c22fcd6:
 
     # mh "Yes, heights are definitely spooky."
-    mh "Yes, heights are definitely spooky."
+    mh "Sì, le altezze fanno decisamente paura."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1027
 translate italian sm1cs_mh008_throuple_carousel_13be126e:
 
     # mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
-    mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
+    mh "E non direi che ho paura dei pagliacci, ho solo un'... avversione verso di loro."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1030
 translate italian sm1cs_mh008_throuple_carousel_e8db4ec6:
 
     # sy "Mmmm.{w} You know, I think clowns are actually kind of sexy."
-    sy "Mmmm.{w} You know, I think clowns are actually kind of sexy."
+    sy "Mmmm.{w} Sai, penso che i pagliacci siano in realtà un po' sexy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1033
 translate italian sm1cs_mh008_throuple_carousel_954a6ab6_1:
 
     # mh "Really?"
-    mh "Really?"
+    mh "Davvero?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1036
 translate italian sm1cs_mh008_throuple_carousel_0b2d8102:
 
     # sy "Well... the right kind of clown."
-    sy "Well... the right kind of clown."
+    sy "Beh... il tipo giusto di pagliaccio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1039
 translate italian sm1cs_mh008_throuple_carousel_d7a27687:
 
     # mc "We know someone who's made a clown porn video or two."
-    mc "We know someone who's made a clown porn video or two."
+    mc "Conosciamo qualcuno che ha fatto un video porno con pagliacci o due."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1040
 translate italian sm1cs_mh008_throuple_carousel_6a05b4c3:
 
     # mc "I think it secretly unlocked a weird kink in Stacy's brain."
-    mc "I think it secretly unlocked a weird kink in Stacy's brain."
+    mc "Penso che abbia segretamente sbloccato uno strano feticismo nel cervello di Stacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1043
 translate italian sm1cs_mh008_throuple_carousel_56d3ff98:
 
     # sy "Hey!"
-    sy "Hey!"
+    sy "Ehi!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1046
 translate italian sm1cs_mh008_throuple_carousel_78aae6be:
 
     # mc "Am I wrong?"
-    mc "Am I wrong?"
+    mc "Ho torto?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1049
 translate italian sm1cs_mh008_throuple_carousel_1312f9be:
@@ -1862,31 +1862,31 @@ translate italian sm1cs_mh008_throuple_carousel_1312f9be:
 translate italian sm1cs_mh008_throuple_carousel_fbd9cf05:
 
     # mh "Hey, maybe I just haven't met the right clowns."
-    mh "Hey, maybe I just haven't met the right clowns."
+    mh "Ehi, forse non ho ancora incontrato i pagliacci giusti."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1055
 translate italian sm1cs_mh008_throuple_carousel_b3062656:
 
     # sy "Oh, I can totally introduce you! Taisia is a little freak, and-"
-    sy "Oh, I can totally introduce you! Taisia is a little freak, and-"
+    sy "Oh, posso assolutamente farti conoscere! Taisia è una piccola maniaca, e-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1058
 translate italian sm1cs_mh008_throuple_carousel_c5cfdf97:
 
     # mc "Stacy, let's maybe not talk about clown porn right now."
-    mc "Stacy, let's maybe not talk about clown porn right now."
+    mc "Stacy, forse non parliamo di porno con pagliacci adesso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1061
 translate italian sm1cs_mh008_throuple_carousel_e9e1aef6:
 
     # sy "Uggghhhhh, fiiiiiiiiiiiine."
-    sy "Uggghhhhh, fiiiiiiiiiiiine."
+    sy "Uggghhhhh, vaaaaaaa bene."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1064
 translate italian sm1cs_mh008_throuple_carousel_4ef78658:
 
     # sy "But I will totally send you a link later."
-    sy "But I will totally send you a link later."
+    sy "Ma ti manderò sicuramente un link più tardi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1067
 translate italian sm1cs_mh008_throuple_carousel_15634037:
@@ -1898,13 +1898,13 @@ translate italian sm1cs_mh008_throuple_carousel_15634037:
 translate italian sm1cs_mh008_throuple_carousel_39f3bc9f:
 
     # mc "But there's only one clown to be afraid of."
-    mc "But there's only one clown to be afraid of."
+    mc "Ma c'è solo un pagliaccio di cui aver paura."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1073
 translate italian sm1cs_mh008_throuple_carousel_a161e15d:
 
     # mh "Oh yeah? And which one is that?"
-    mh "Oh yeah? And which one is that?"
+    mh "Oh sì? E quale sarebbe?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1076
 translate italian sm1cs_mh008_throuple_carousel_4e784502:
@@ -1916,121 +1916,121 @@ translate italian sm1cs_mh008_throuple_carousel_4e784502:
 translate italian sm1cs_mh008_throuple_carousel_8f5e4b82:
 
     # mh "Like... the mascot for the fast food place?"
-    mh "Like... the mascot for the fast food place?"
+    mh "Tipo... la mascotte del fast food?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1082
 translate italian sm1cs_mh008_throuple_carousel_073d3c75:
 
     # sy "Didn't Taisia scare the shit out of you when she was in her clown makeup?"
-    sy "Didn't Taisia scare the shit out of you when she was in her clown makeup?"
+    sy "Taisia non ti ha fatto morire di paura quando aveva il trucco da pagliaccio?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1085
 translate italian sm1cs_mh008_throuple_carousel_6a81b4c6:
 
     # mc "That was a jump scare, I wasn't scared because she was a clown."
-    mc "That was a jump scare, I wasn't scared because she was a clown."
+    mc "È stato uno spavento improvviso, non avevo paura perché era un pagliaccio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1086
 translate italian sm1cs_mh008_throuple_carousel_c70012ca:
 
     # mc "The only clown to fear, is Donald MacDonald."
-    mc "The only clown to fear, is Donald MacDonald."
+    mc "L'unico pagliaccio da temere è Donald MacDonald."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1089
 translate italian sm1cs_mh008_throuple_carousel_03035655:
 
     # mc "Yes. He's the most lethal clown in history."
-    mc "Yes. He's the most lethal clown in history."
+    mc "Sì. È il pagliaccio più letale della storia."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1090
 translate italian sm1cs_mh008_throuple_carousel_890c0854:
 
     # mc "He's killed more people than Gacy."
-    mc "He's killed more people than Gacy."
+    mc "Ha ucciso più persone di Gacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1093
 translate italian sm1cs_mh008_throuple_carousel_1e99bd94:
 
     # mh "You know... you've got a good point there."
-    mh "You know... you've got a good point there."
+    mh "Sai... hai ragione su questo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1096
 translate italian sm1cs_mh008_throuple_carousel_ced925a6:
 
     # sy "I've never really thought about it like that..."
-    sy "I've never really thought about it like that..."
+    sy "Non ci ho mai pensato in quel modo..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1099
 translate italian sm1cs_mh008_throuple_carousel_d64fffa8:
 
     # mc "And he just looks creepy as hell."
-    mc "And he just looks creepy as hell."
+    mc "E sembra inquietante da morire."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1102
 translate italian sm1cs_mh008_throuple_carousel_83fc393b:
 
     # mh "Hehehe - yeah, you're not wrong there either."
-    mh "Hehehe - yeah, you're not wrong there either."
+    mh "Hehehe - sì, non hai torto neanche su questo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1105
 translate italian sm1cs_mh008_throuple_carousel_46c747e9:
 
     # mh "Wow... sometimes I forget how beautiful Crowning is..."
-    mh "Wow... sometimes I forget how beautiful Crowning is..."
+    mh "Wow... a volte dimentico quanto sia bella Crowning..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1108
 translate italian sm1cs_mh008_throuple_carousel_ba334fd2:
 
     # sy "Right? You can just... forget that we're actually pretty lucky."
-    sy "Right? You can just... forget that we're actually pretty lucky."
+    sy "Vero? Puoi semplicemente... dimenticare che siamo effettivamente piuttosto fortunati."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1111
 translate italian sm1cs_mh008_throuple_carousel_6780655c:
 
     # mc "Yeah, the sights are really something..."
-    mc "Yeah, the sights are really something..."
+    mc "Sì, i panorami sono davvero qualcosa..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1114
 translate italian sm1cs_mh008_throuple_carousel_4553470d:
 
     # mc "Yeah.{w} They really are..."
-    mc "Yeah.{w} They really are..."
+    mc "Sì.{w} Lo sono davvero..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1117
 translate italian sm1cs_mh008_throuple_carousel_18c82454:
 
     # mh "You're not even looking out at the city, [mcname]."
-    mh "You're not even looking out at the city, [mcname]."
+    mh "Non stai nemmeno guardando la città, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1120
 translate italian sm1cs_mh008_throuple_carousel_974505ae:
 
     # mc "Why would I do that?"
-    mc "Why would I do that?"
+    mc "Perché dovrei farlo?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1123
 translate italian sm1cs_mh008_throuple_carousel_c0664f99:
 
     # mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
-    mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
+    mc "Perché, per quanto mi riguarda, la cosa più bella che potrei guardare, sei tu, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1126
 translate italian sm1cs_mh008_throuple_carousel_aa0a328b:
 
     # mh "Oh, you..."
-    mh "Oh, you..."
+    mh "Oh, tu..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1135
 translate italian sm1cs_mh008_throuple_carousel_51fda705:
 
     # mc "And I'm the luckiest man in the world, to be sitting here with you, too, Stacy."
-    mc "And I'm the luckiest man in the world, to be sitting here with you, too, Stacy."
+    mc "E io sono l'uomo più fortunato del mondo, ad essere seduto qui con te, anche tu, Stacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1138
 translate italian sm1cs_mh008_throuple_carousel_6aa11858:
 
     # sy "Oh, all romantic now, are we?"
-    sy "Oh, all romantic now, are we?"
+    sy "Oh, tutti romantici adesso, eh?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1141
 translate italian sm1cs_mh008_throuple_carousel_d9fc70c6:
@@ -2042,19 +2042,19 @@ translate italian sm1cs_mh008_throuple_carousel_d9fc70c6:
 translate italian sm1cs_mh008_throuple_carousel_de0ecb93:
 
     # sy "Yeah?"
-    sy "Yeah?"
+    sy "Sì?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1148
 translate italian sm1cs_mh008_throuple_carousel_f3581888:
 
     # mc "Shut up, before you ruin the moment."
-    mc "Shut up, before you ruin the moment."
+    mc "Sta' zitta, prima di rovinare il momento."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1151
 translate italian sm1cs_mh008_throuple_carousel_6c09de90:
 
     # sy "Wait-"
-    sy "Wait-"
+    sy "Aspetta-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1157
 translate italian sm1cs_mh008_throuple_carousel_1b4becb5:
@@ -2066,19 +2066,19 @@ translate italian sm1cs_mh008_throuple_carousel_1b4becb5:
 translate italian sm1cs_mh008_throuple_carousel_ea0365b7:
 
     # mc "That trick always works."
-    mc "That trick always works."
+    mc "Quel trucco funziona sempre."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1163
 translate italian sm1cs_mh008_throuple_carousel_9005f6c0:
 
     # sy "It's a good trick."
-    sy "It's a good trick."
+    sy "È un buon trucco."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1169
 translate italian sm1cs_mh008_throuple_carousel_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Io-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1172
 translate italian sm1cs_mh008_throuple_carousel_c7cf2826:
@@ -2090,49 +2090,49 @@ translate italian sm1cs_mh008_throuple_carousel_c7cf2826:
 translate italian sm1cs_mh008_throuple_carousel_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Sì?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1178
 translate italian sm1cs_mh008_throuple_carousel_7647e6de:
 
     # mh "Let's just enjoy this moment."
-    mh "Let's just enjoy this moment."
+    mh "Godiamoci semplicemente questo momento."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1181
 translate italian sm1cs_mh008_throuple_carousel_46df97aa:
 
     # mct "When she's right. She's right."
-    mct "When she's right. She's right."
+    mct "Quando ha ragione. Ha ragione."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1198
 translate italian sm1cs_mh008_throuple_carousel_end_cac1d1c7:
 
     # mh "That was... truly wonderful, [mcname]."
-    mh "That was... truly wonderful, [mcname]."
+    mh "È stato... davvero meraviglioso, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1199
 translate italian sm1cs_mh008_throuple_carousel_end_04a06728:
 
     # mh "Another wonderful carnival memory to add to the others."
-    mh "Another wonderful carnival memory to add to the others."
+    mh "Un altro meraviglioso ricordo del luna park da aggiungere agli altri."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1202
 translate italian sm1cs_mh008_throuple_carousel_end_7b0fc73d:
 
     # sy "Yeah, that was incredible."
-    sy "Yeah, that was incredible."
+    sy "Sì, è stato incredibile."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1205
 translate italian sm1cs_mh008_throuple_carousel_end_532cad5f:
 
     # mc "I couldn't think of anyone I'd rather be up there with than you two."
-    mc "I couldn't think of anyone I'd rather be up there with than you two."
+    mc "Non riesco a pensare a nessuno con cui preferirei stare lassù se non voi due."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1208
 translate italian sm1cs_mh008_throuple_carousel_end_45678195:
 
     # mh "I hate to cut this short, but I do have a meeting in the morning that I have to make."
-    mh "I hate to cut this short, but I do have a meeting in the morning that I have to make."
+    mh "Odio interrompere, ma ho un incontro domattina a cui devo andare."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1211
 translate italian sm1cs_mh008_throuple_carousel_end_e5593f66:
@@ -2144,121 +2144,121 @@ translate italian sm1cs_mh008_throuple_carousel_end_e5593f66:
 translate italian sm1cs_mh008_throuple_carousel_end_31b055e7:
 
     # mc "Wait, isn't it the weekend?"
-    mc "Wait, isn't it the weekend?"
+    mc "Aspetta, non è il fine settimana?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1218
 translate italian sm1cs_mh008_throuple_carousel_end_aff55cb5:
 
     # mh "When you work as a solo practitioner, you're never guaranteed weekends off."
-    mh "When you work as a solo practitioner, you're never guaranteed weekends off."
+    mh "Quando lavori come libera professionista, non hai mai la garanzia di avere i fine settimana liberi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1221
 translate italian sm1cs_mh008_throuple_carousel_end_1fc5a45e:
 
     # mc "Oh shit, it's a work night, isn't it?"
-    mc "Oh shit, it's a work night, isn't it?"
+    mc "Oh merda, è una serata lavorativa, vero?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1224
 translate italian sm1cs_mh008_throuple_carousel_end_4b42e3c3:
 
     # mh "That it is."
-    mh "That it is."
+    mh "Così è."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1227
 translate italian sm1cs_mh008_throuple_carousel_end_2b987de2:
 
     # mc "In that case, I'm glad you had a great night, Lyssa."
-    mc "In that case, I'm glad you had a great night, Lyssa."
+    mc "In tal caso, sono contento che tu abbia passato una bella serata, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1230
 translate italian sm1cs_mh008_throuple_carousel_end_d3dbb2e7:
 
     # mh "There is... one more thing you could do to make tonight phenomenal."
-    mh "There is... one more thing you could do to make tonight phenomenal."
+    mh "C'è... un'altra cosa che potresti fare per rendere questa serata fenomenale."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1233
 translate italian sm1cs_mh008_throuple_carousel_end_c8f5c86e:
 
     # mc "Oh yeah? And what's that?"
-    mc "Oh yeah? And what's that?"
+    mc "Oh sì? E cosa sarebbe?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1236
 translate italian sm1cs_mh008_throuple_carousel_end_3f381964:
 
     # mh "Kiss me."
-    mh "Kiss me."
+    mh "Baciami."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1239
 translate italian sm1cs_mh008_throuple_carousel_end_8817f8de:
 
     # mc "Don't mind if I do."
-    mc "Don't mind if I do."
+    mc "Non mi dispiace affatto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1248
 translate italian sm1cs_mh008_throuple_carousel_end_03d44d91:
 
     # mh "Mmmmm... perfect, [mcname]."
-    mh "Mmmmm... perfect, [mcname]."
+    mh "Mmmmm... perfetto, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1249
 translate italian sm1cs_mh008_throuple_carousel_end_e014e089:
 
     # mh "That was... a hell of a kiss."
-    mh "That was... a hell of a kiss."
+    mh "È stato... un bacio fantastico."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1252
 translate italian sm1cs_mh008_throuple_carousel_end_83caa5fe:
 
     # mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    mc "Ehi, quando dici \"fenomenale\" e \"bacio\", devo darti il bacio con il massimo impegno, giusto?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1255
 translate italian sm1cs_mh008_throuple_carousel_end_22b9b3c1:
 
     # mh "Yes, you do."
-    mh "Yes, you do."
+    mh "Sì, è vero."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1256
 translate italian sm1cs_mh008_throuple_carousel_end_98292c6f:
 
     # mh "And I'm going to be holding you to that, [mcname]."
-    mh "And I'm going to be holding you to that, [mcname]."
+    mh "E ti terrò a quello, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1259
 translate italian sm1cs_mh008_throuple_carousel_end_7b471f6f:
 
     # mc "Good."
-    mc "Good."
+    mc "Bene."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1262
 translate italian sm1cs_mh008_throuple_carousel_end_afed84e0:
 
     # sy "Well, I want one too!"
-    sy "Well, I want one too!"
+    sy "Beh, anch'io ne voglio uno!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1266
 translate italian sm1cs_mh008_throuple_carousel_end_ce632f2e:
 
     # mc "Anything for you, dear sister."
-    mc "Anything for you, dear sister."
+    mc "Qualsiasi cosa per te, cara sorella."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1268
 translate italian sm1cs_mh008_throuple_carousel_end_22e47135:
 
     # mc "Anything for my best friend."
-    mc "Anything for my best friend."
+    mc "Qualsiasi cosa per la mia migliore amica."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1277
 translate italian sm1cs_mh008_throuple_carousel_end_e1deded6:
 
     # sy "Wait... I wanted, like, a whole production with my kiss."
-    sy "Wait... I wanted, like, a whole production with my kiss."
+    sy "Aspetta... volevo, tipo, tutta una produzione con il mio bacio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
 translate italian sm1cs_mh008_throuple_carousel_end_4a9a3a30:
 
     # mh "Yeah, something like this, [mcname]"
-    mh "Yeah, something like this, [mcname]"
+    mh "Sì, qualcosa del genere, [mcname]"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1286
 translate italian sm1cs_mh008_throuple_carousel_end_77858d38:
@@ -2270,13 +2270,13 @@ translate italian sm1cs_mh008_throuple_carousel_end_77858d38:
 translate italian sm1cs_mh008_throuple_carousel_end_55acb48e:
 
     # mh "Just go with it, Stacy."
-    mh "Just go with it, Stacy."
+    mh "Lasciati andare, Stacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1297
 translate italian sm1cs_mh008_throuple_carousel_end_653b760e:
 
     # mct "Holy shit... that's hot."
-    mct "Holy shit... that's hot."
+    mct "Porca miseria... è sexy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1301
 translate italian sm1cs_mh008_throuple_carousel_end_0bf97885:
@@ -2288,19 +2288,19 @@ translate italian sm1cs_mh008_throuple_carousel_end_0bf97885:
 translate italian sm1cs_mh008_throuple_carousel_end_bb6de89a:
 
     # mh "All right, I do need to go though. I hope I see you soon, [mcname]."
-    mh "All right, I do need to go though. I hope I see you soon, [mcname]."
+    mh "Va bene, devo andare però. Spero di vederti presto, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1307
 translate italian sm1cs_mh008_throuple_carousel_end_df110fd3:
 
     # mc "You will! I have to show you the new studio now that it's done!"
-    mc "You will! I have to show you the new studio now that it's done!"
+    mc "Certo! Devo mostrarti il nuovo studio ora che è finito!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1310
 translate italian sm1cs_mh008_throuple_carousel_end_bcaa0de5:
 
     # mh "Sounds like a date to me."
-    mh "Sounds like a date to me."
+    mh "Mi sembra un appuntamento."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1313
 translate italian sm1cs_mh008_throuple_carousel_end_c122e1f8:
@@ -2312,39 +2312,39 @@ translate italian sm1cs_mh008_throuple_carousel_end_c122e1f8:
 translate italian sm1cs_mh008_throuple_carousel_end_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Sì?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1318
 translate italian sm1cs_mh008_throuple_carousel_end_29afcd50:
 
     # sy "I need you to help me home. My legs are jelly and I'm scared I'm going to collapse any second now."
-    sy "I need you to help me home. My legs are jelly and I'm scared I'm going to collapse any second now."
+    sy "Ho bisogno che mi aiuti ad arrivare a casa. Ho le gambe molli e ho paura di crollare da un momento all'altro."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1321
 translate italian sm1cs_mh008_throuple_carousel_end_c43b6269:
 
     # mc "All right, come on. Let's get you home."
-    mc "All right, come on. Let's get you home."
+    mc "Va bene, dai. Portiamoti a casa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1325
 translate italian sm1cs_mh008_throuple_carousel_end_3c5db827:
 
     # sy "Thank yoooooouuuuu..."
-    sy "Thank yoooooouuuuu..."
+    sy "Grazieeeee..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1328
 translate italian sm1cs_mh008_throuple_carousel_end_260b1487:
 
     # mct "I honestly couldn't have planned a better date than this."
-    mct "I honestly couldn't have planned a better date than this."
+    mct "Onestamente non avrei potuto pianificare un appuntamento migliore di questo."
 
 translate italian strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:186
     old "Try and Convince Lyssa"
-    new "Try and Convince Lyssa"
+    new "Prova a convincere Lyssa"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:186
     old "Don't press the issue"
-    new "Don't press the issue"
+    new "Non insistere"
 
