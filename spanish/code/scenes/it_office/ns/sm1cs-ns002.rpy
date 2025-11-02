@@ -818,3 +818,9 @@ translate spanish strings:
     old "You can tell me what happened"
     new "Puedes decirme lo que pasó"
 
+translate spanish strings:
+
+    # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
+    old "I don't need to know"
+    new "I don't need to know"
+

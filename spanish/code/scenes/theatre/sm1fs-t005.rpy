@@ -588,3 +588,9 @@ translate spanish strings:
     old "Say nothing."
     new "No decir nada."
 
+translate spanish strings:
+
+    # game/code/scenes/theatre/sm1fs-t005.rpy:97
+    old "I'm sure you did your best, Denise"
+    new "I'm sure you did your best, Denise"
+

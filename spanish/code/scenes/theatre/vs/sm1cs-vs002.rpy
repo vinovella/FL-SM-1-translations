@@ -1006,3 +1006,13 @@ translate spanish strings:
     old "Set the alarm for next Friday"
     new "Establezca la alarma para el próximo viernes"
 
+translate spanish strings:
+
+    # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:85
+    old "Rina worked hard for a while"
+    new "Rina worked hard for a while"
+
+    # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:85
+    old "Ivana has more talents than just acting"
+    new "Ivana has more talents than just acting"
+

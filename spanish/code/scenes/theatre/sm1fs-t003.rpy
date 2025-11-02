@@ -1120,3 +1120,21 @@ translate spanish sm1fs_t003_ss_tutorial_end_548f0968:
     # mc "Sounds good, I'll see ya', Sam!"
     mc "Suena bien, ¡nos vemos, Sam!"
 
+# game/code/scenes/theatre/sm1fs-t003.rpy:273
+translate spanish sm1fs_t003_11066cbf:
+
+    # mc "Veronica, have we met before?"
+    mc "Veronica, have we met before?"
+
+# game/code/scenes/theatre/sm1fs-t003.rpy:355
+translate spanish sm1fs_t003_9c5ba426:
+
+    # dvh "Hmmm. {w}I think you possess some talent, [mcname]."
+    dvh "Hmmm. {w}I think you possess some talent, [mcname]."
+
+# game/code/scenes/theatre/sm1fs-t003.rpy:487
+translate spanish sm1fs_t003_51a53f66:
+
+    # vs "Seriously, it's not a problem! I'm super happy to show you around."
+    vs "Seriously, it's not a problem! I'm super happy to show you around."
+

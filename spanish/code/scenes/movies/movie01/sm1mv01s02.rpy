@@ -2002,3 +2002,9 @@ translate spanish strings:
     old "Focused"
     new "Focused"
 
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:509
+translate spanish sm1mv01s02_later_1e8e7e72:
+
+    # mc "I think it's the perfect outfit for a pirate queen."
+    mc "I think it's the perfect outfit for a pirate queen."
+

@@ -76,3 +76,9 @@ translate spanish q_inter_rd_6_1203e51e:
     # mc "Ridley."
     mc "Ridley."
 
+# game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:45
+translate spanish q_inter_rd_4_64339c27:
+
+    # mc "Phew. Thank god it's the weekend."
+    mc "Phew. Thank god it's the weekend."
+

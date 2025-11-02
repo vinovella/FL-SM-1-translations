@@ -1252,3 +1252,15 @@ translate spanish strings:
     old "Leave them be"
     new "Leave them be"
 
+# game/code/scenes/movies/movie02/sm1mv02s04.rpy:397
+translate spanish sm1mv02s04_9f47d567:
+
+    # mes "This is all pretty impressive."
+    mes "This is all pretty impressive."
+
+# game/code/scenes/movies/movie02/sm1mv02s04.rpy:402
+translate spanish sm1mv02s04_8ab552c3:
+
+    # mh "This is all pretty impressive."
+    mh "This is all pretty impressive."
+

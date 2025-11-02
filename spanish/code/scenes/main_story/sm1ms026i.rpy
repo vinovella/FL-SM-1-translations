@@ -98,3 +98,9 @@ translate spanish strings:
     old "Choose Sci-Fi Movie"
     new "Choose Sci-Fi Movie"
 
+translate spanish strings:
+
+    # game/code/scenes/main_story/sm1ms026i.rpy:112
+    old "Choose Pirates movie (progress Taisia's story first)"
+    new "Choose Pirates movie (progress Taisia's story first)"
+

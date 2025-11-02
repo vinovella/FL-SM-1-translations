@@ -1058,3 +1058,9 @@ translate spanish strings:
     old "You spent $300 on renovation equipment"
     new "Gastaste $300 en equipos de renovación"
 
+# game/code/scenes/main_story/sm1ms014.rpy:186
+translate spanish sm1ms014_4834ec4b:
+
+    # sy "Uhm, yeah... no internet nudes of me..."
+    sy "Uhm, yeah... no internet nudes of me..."
+

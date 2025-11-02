@@ -820,3 +820,9 @@ translate spanish sm1mv01s10_b6cf5280:
     # tl "Good night, [mcname]."
     tl "Good night, [mcname]."
 
+# game/code/scenes/movies/movie01/sm1mv01s10.rpy:315
+translate spanish sm1mv01s10_9ab27c1f:
+
+    # kv "I'm sure once the money comes in we can start to work on some of these other things, it'll get easier."
+    kv "I'm sure once the money comes in we can start to work on some of these other things, it'll get easier."
+

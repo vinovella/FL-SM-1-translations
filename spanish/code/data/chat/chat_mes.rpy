@@ -264,3 +264,9 @@ translate spanish strings:
     old "Perfect."
     new "Perfect."
 
+translate spanish strings:
+
+    # game/code/data/chat/chat_mes.rpy:58
+    old "Never mind. Are you down or not?"
+    new "Never mind. Are you down or not?"
+

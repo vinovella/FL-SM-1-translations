@@ -772,3 +772,9 @@ translate spanish sm1mv01s04_7816b969:
     # mct "But, I should get this set taken down..."
     mct "But, I should get this set taken down..."
 
+# game/code/scenes/movies/movie01/sm1mv01s04.rpy:311
+translate spanish sm1mv01s04_08511480:
+
+    # tl "But that doesn't mean that it won't fucking hurt if you hit someone with it."
+    tl "But that doesn't mean that it won't fucking hurt if you hit someone with it."
+

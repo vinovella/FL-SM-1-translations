@@ -112,3 +112,9 @@ translate spanish q_inter_en_5_f6cd2d50:
     # en "Yes. It means people listen."
     en "Sí. Significa que la gente escucha."
 
+# game/code/data/quick_interactions/IT_office/q-inter-en.rpy:57
+translate spanish q_inter_en_5_882773aa:
+
+    # mc "How's your morning going, Eugene?"
+    mc "How's your morning going, Eugene?"
+

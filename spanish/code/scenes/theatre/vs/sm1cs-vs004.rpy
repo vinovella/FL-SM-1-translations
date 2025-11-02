@@ -752,3 +752,9 @@ translate spanish strings:
     old "It's good that you want to fix things with Kellie"
     new "Es bueno que quieras arreglar las cosas con Kellie"
 
+# game/code/scenes/theatre/vs/sm1cs-vs004.rpy:284
+translate spanish sm1cs_vs004_after_choice_9c38d0b3:
+
+    # mc "Never mind. Just... leave it to me."
+    mc "Never mind. Just... leave it to me."
+

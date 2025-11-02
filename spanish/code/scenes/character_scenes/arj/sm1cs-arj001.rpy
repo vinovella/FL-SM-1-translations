@@ -676,3 +676,9 @@ translate spanish sm1cs_arj001_92b04d3a:
     # mct "I wonder if she feels the same way?"
     mct "Me pregunto si ella siente lo mismo."
 
+# game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:43
+translate spanish sm1cs_arj001_5c2dddcf:
+
+    # arj "So what if I do? {i}No one{/i} should have the flash drive."
+    arj "So what if I do? {i}No one{/i} should have the flash drive."
+

@@ -1808,3 +1808,9 @@ translate spanish strings:
     old "Fuck Veronica's ass as deep as you can"
     new "Fuck Veronica's ass as deep as you can"
 
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:384
+translate spanish sm1cs_vs005_70c5755c:
+
+    # vs "It's embarrassing, but when the alarm went off...{w} I kind of panicked."
+    vs "It's embarrassing, but when the alarm went off...{w} I kind of panicked."
+

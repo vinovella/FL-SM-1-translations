@@ -1024,3 +1024,27 @@ translate spanish sm1cs_mes001_927c1195:
     # mc "Cool, it's a deal then."
     mc "Genial, es un trato entonces."
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:103
+translate spanish sm1cs_mes001_66273e86:
+
+    # mes "*chuckles wryly* The elephant in the room."
+    mes "*chuckles wryly* The elephant in the room."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:219
+translate spanish sm1cs_mes001_9af4df5f:
+
+    # mc "*sheepishly* Guilty as charged. The old business management program just wasn't cutting it for me."
+    mc "*sheepishly* Guilty as charged. The old business management program just wasn't cutting it for me."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:344
+translate spanish sm1cs_mes001_3a955c35:
+
+    # mc "Are you telling me you almost got a set up for an arranged marriage type date in Korea?"
+    mc "Are you telling me you almost got a set up for an arranged marriage type date in Korea?"
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:368
+translate spanish sm1cs_mes001_229c1cea:
+
+    # mc "Hey, we do that too, but we can be serious when we need to be."
+    mc "Hey, we do that too, but we can be serious when we need to be."
+

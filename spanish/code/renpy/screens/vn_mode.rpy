@@ -10,3 +10,9 @@ translate spanish strings:
     old "Rejected Characters"
     new "Rejected Characters"
 
+translate spanish strings:
+
+    # game/code/renpy/screens/vn_mode.rpy:114
+    old "Open Laptop"
+    new "Open Laptop"
+

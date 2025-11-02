@@ -1202,3 +1202,21 @@ translate spanish strings:
     old "No thanks (Lock off Foot Fetish Content)"
     new "No gracias (Bloquear contenido de fetiche de pie)"
 
+translate spanish strings:
+
+    # game/code/scenes/main_story/sm1ms010.rpy:106
+    old "Yeah, me too"
+    new "Yeah, me too"
+
+    # game/code/scenes/main_story/sm1ms010.rpy:189
+    old "She's doing fine"
+    new "She's doing fine"
+
+    # game/code/scenes/main_story/sm1ms010.rpy:338
+    old "Kiss her again and continue"
+    new "Kiss her again and continue"
+
+    # game/code/scenes/main_story/sm1ms010.rpy:338
+    old "Stop things from going further"
+    new "Stop things from going further"
+

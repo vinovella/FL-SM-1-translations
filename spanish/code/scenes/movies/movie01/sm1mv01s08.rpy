@@ -1792,3 +1792,9 @@ translate spanish strings:
     old "Dickhart finds Tempestra"
     new "Dickhart finds Tempestra"
 
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:848
+translate spanish sm1mv01s08_movie_end_65593449:
+
+    # sy "You're doing great! Seriously, fucking incredible."
+    sy "You're doing great! Seriously, fucking incredible."
+

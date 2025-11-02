@@ -268,3 +268,9 @@ translate spanish sm1cs_km003_6aec3e56:
     # mct "I'm starting to really like some of these theater girls."
     mct "Me están empezando a gustar de verdad algunas de estas chicas del teatro."
 
+# game/code/scenes/theatre/km/sm1cs-km003.rpy:69
+translate spanish sm1cs_km003_68f2a5f5:
+
+    # mc "Oh yeah, your two out of five-star apology. Very sincere."
+    mc "Oh yeah, your two out of five-star apology. Very sincere."
+

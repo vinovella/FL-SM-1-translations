@@ -1632,3 +1632,15 @@ translate spanish strings:
     old "On the high seas"
     new "On the high seas"
 
+# game/code/scenes/movies/movie01/sm1mv01s06.rpy:730
+translate spanish sm1mv01s06_movie_start_bb856909:
+
+    # mc "Come now, you'd be missing my devilishly good looks now, wouldn't you?"
+    mc "Come now, you'd be missing my devilishly good looks now, wouldn't you?"
+
+# game/code/scenes/movies/movie01/sm1mv01s06.rpy:814
+translate spanish sm1mv01s06_done_recording_659dcc56:
+
+    # kv "I admire your fervor, but let's not forget what we're making."
+    kv "I admire your fervor, but let's not forget what we're making."
+

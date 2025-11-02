@@ -1586,3 +1586,9 @@ translate spanish strings:
     old "Yeah, let's nail this"
     new "Sí, vamos a hacerlo"
 
+translate spanish strings:
+
+    # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:112
+    old "Sounds good, Veronica"
+    new "Sounds good, Veronica"
+

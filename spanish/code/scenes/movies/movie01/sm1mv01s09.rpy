@@ -1930,3 +1930,21 @@ translate spanish strings:
     old "Back in the cave"
     new "Back in the cave"
 
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:318
+translate spanish sm1mv01s09_movie_start_e2f21eec:
+
+    # sy "Muah-ha-haa! My what an interesting turn..."
+    sy "Muah-ha-haa! My what an interesting turn..."
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:418
+translate spanish sm1mv01s09_movie_start_cf748506:
+
+    # tl "I think we finally found a good use for that devilish tongue of hers."
+    tl "I think we finally found a good use for that devilish tongue of hers."
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:595
+translate spanish sm1mv01s09_movie_start_e642e4c1:
+
+    # mc "Oh shit, your fingers are making her pussy tighten up each time you clench!"
+    mc "Oh shit, your fingers are making her pussy tighten up each time you clench!"
+

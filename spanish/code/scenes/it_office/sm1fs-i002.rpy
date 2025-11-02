@@ -638,3 +638,9 @@ translate spanish sm1fs_i002_3de939df:
     # mc "I look forward to your call at [gt.next_day!t] 8:00 am!"
     mc "I look forward to your call at [gt.next_day!t] 8:00 am!"
 
+# game/code/scenes/it_office/sm1fs-i002.rpy:192
+translate spanish sm1fs_i002_bf4b8ddd:
+
+    # cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
+    cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
+

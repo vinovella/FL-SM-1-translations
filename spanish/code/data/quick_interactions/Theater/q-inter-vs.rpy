@@ -244,3 +244,21 @@ translate spanish q_inter_vs_4_0ac7542c:
     # vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
     vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
 
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:74
+translate spanish q_inter_vs_5_26a5f019:
+
+    # vs "I really hope you impress Denise the next time you get to audition, [mcname]."
+    vs "I really hope you impress Denise the next time you get to audition, [mcname]."
+
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:92
+translate spanish q_inter_vs_7_2acf4fd6:
+
+    # vs "*whispers* Hey [mcname]."
+    vs "*whispers* Hey [mcname]."
+
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:95
+translate spanish q_inter_vs_7_305758d8:
+
+    # vs "*whispers* Because it's fun, and because you want to keep talk about FL on the downlow right?"
+    vs "*whispers* Because it's fun, and because you want to keep talk about FL on the downlow right?"
+

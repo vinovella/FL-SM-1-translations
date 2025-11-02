@@ -1576,3 +1576,9 @@ translate spanish sm1mv02s07b_end_1e824725:
     # ns "Best spa day ever!"
     ns "Best spa day ever!"
 
+# game/code/scenes/movies/movie02/sm1mv02s07b.rpy:555
+translate spanish sm1mv02s07b_22e4a5e2:
+
+    # ns "*giggles* It will be like a Nari sandwich."
+    ns "*giggles* It will be like a Nari sandwich."
+
