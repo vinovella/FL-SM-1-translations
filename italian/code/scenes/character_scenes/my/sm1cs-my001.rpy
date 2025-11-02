@@ -1064,7 +1064,7 @@ translate italian sm1cs_my001_17887d6c:
 translate italian sm1cs_my001_c3171379:
 
     # mc "No! Don't apologize. That was beautiful."
-    mc "No! Don't apologize. That was beautiful."
+    mc "No! Non scusarti. È stato bellissimo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:525
 translate italian sm1cs_my001_544d05f8:
@@ -1082,55 +1082,55 @@ translate italian sm1cs_my001_651faa76:
 translate italian sm1cs_my001_e30ebd67:
 
     # mc "Only the best for you, Mom."
-    mc "Only the best for you, Mom."
+    mc "Solo il meglio per te, mamma."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:537
 translate italian sm1cs_my001_44240522:
 
     # mc "Only the best for you, Melony."
-    mc "Only the best for you, Melony."
+    mc "Solo il meglio per te, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:540
 translate italian sm1cs_my001_df2bd10a:
 
     # my "Thank you, sweetheart."
-    my "Thank you, sweetheart."
+    my "Grazie, tesoro."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:541
 translate italian sm1cs_my001_87225622:
 
     # my "But, before you ask me any other questions, let's eat. Lord knows what will happen if I keep rambling on."
-    my "But, before you ask me any other questions, let's eat. Lord knows what will happen if I keep rambling on."
+    my "Ma, prima che tu mi faccia altre domande, mangiamo. Dio solo sa cosa succederà se continuo a divagare."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:545
 translate italian sm1cs_my001_6d22ede5:
 
     # mc "I'm enjoying the rambling though."
-    mc "I'm enjoying the rambling though."
+    mc "Mi piace quando divaghi però."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:548
 translate italian sm1cs_my001_ac0ee4ac:
 
     # my "Well, I'm happy to hear I'm not boring you."
-    my "Well, I'm happy to hear I'm not boring you."
+    my "Beh, sono felice di sapere che non ti sto annoiando."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:550
 translate italian sm1cs_my001_1f6f9af5:
 
     # mc "You never could."
-    mc "You never could."
+    mc "Non potresti mai."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:556
 translate italian sm1cs_my001_7e2aecd7:
 
     # my "Mmmmmm, that was wonderful."
-    my "Mmmmmm, that was wonderful."
+    my "Mmmmmm, è stato meraviglioso."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:559
 translate italian sm1cs_my001_3a52c789:
 
     # mc "Yeah, absolutely delicious!"
-    mc "Yeah, absolutely delicious!"
+    mc "Sì, assolutamente delizioso!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:563
 translate italian sm1cs_my001_4040cc16:
@@ -1160,37 +1160,37 @@ translate italian sm1cs_my001_3f5141d8:
 translate italian sm1cs_my001_9c7841d6:
 
     # mc "I'm sorry, I said earlier I was waiting for my date. I didn't mean to make it weird or anything."
-    mc "I'm sorry, I said earlier I was waiting for my date. I didn't mean to make it weird or anything."
+    mc "Mi dispiace, ho detto prima che stavo aspettando il mio appuntamento. Non volevo rendere la cosa strana o altro."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:576
 translate italian sm1cs_my001_ade744bf:
 
     # my "It's all right, [mcname]."
-    my "It's all right, [mcname]."
+    my "Va tutto bene, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:579
 translate italian sm1cs_my001_b441f99d:
 
     # my "It's been a long time since anyone has taken me on a date. I'm fine with leaning into it a bit."
-    my "It's been a long time since anyone has taken me on a date. I'm fine with leaning into it a bit."
+    my "È passato molto tempo dall'ultima volta che qualcuno mi ha portato ad un appuntamento. Mi va bene assecondarlo un po'."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:580
 translate italian sm1cs_my001_85db4fce:
 
     # my "This has truly been a wonderful evening."
-    my "This has truly been a wonderful evening."
+    my "Questa è stata davvero una serata meravigliosa."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:582
 translate italian sm1cs_my001_fafc0cd2:
 
     # mc "Good. I wanted to make sure you had a pleasant evening."
-    mc "Good. I wanted to make sure you had a pleasant evening."
+    mc "Bene. Volevo assicurarmi che tu passassi una piacevole serata."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:591
 translate italian sm1cs_my001_b5c61a4a:
 
     # mc "Nuh uh. You don't get to pay for your \"thank you\" dinner."
-    mc "Nuh uh. You don't get to pay for your \"thank you\" dinner."
+    mc "No no. Non puoi pagare per la tua cena di \"ringraziamento\"."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:598
 translate italian sm1cs_my001_a34fe746:
@@ -1208,139 +1208,139 @@ translate italian sm1cs_my001_093e45b1:
 translate italian sm1cs_my001_277fbca3:
 
     # mc "What, and let you pay for the dinner I asked you to?"
-    mc "What, and let you pay for the dinner I asked you to?"
+    mc "Cosa, e lasciarti pagare per la cena a cui ti ho invitato?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:606
 translate italian sm1cs_my001_f38ceacc:
 
     # my "Yes! Because this place is expensive, and you should be saving your money for the studio."
-    my "Yes! Because this place is expensive, and you should be saving your money for the studio."
+    my "Sì! Perché questo posto è costoso, e dovresti risparmiare i tuoi soldi per lo studio."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:610
 translate italian sm1cs_my001_da40fa13:
 
     # mc "There's no price too high for you, Mom."
-    mc "There's no price too high for you, Mom."
+    mc "Non c'è prezzo troppo alto per te, mamma."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:612
 translate italian sm1cs_my001_63703fe4:
 
     # mc "There's no price too high for you, Melony."
-    mc "There's no price too high for you, Melony."
+    mc "Non c'è prezzo troppo alto per te, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:615
 translate italian sm1cs_my001_0462e523:
 
     # my "Still. Save your money!"
-    my "Still. Save your money!"
+    my "Comunque. Risparmia i tuoi soldi!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:617
 translate italian sm1cs_my001_2cb43627:
 
     # mc "When it comes to you? Never."
-    mc "When it comes to you? Never."
+    mc "Quando si tratta di te? Mai."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:621
 translate italian sm1cs_my001_2dffede9:
 
     # my "Oh you sweet talker."
-    my "Oh you sweet talker."
+    my "Oh dolce parlatore."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:626
 translate italian sm1cs_my001_9fab43d1:
 
     # mc "Would you like me to walk you back to your hotel?"
-    mc "Would you like me to walk you back to your hotel?"
+    mc "Vuoi che ti accompagni al tuo hotel?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:628
 translate italian sm1cs_my001_04bea51e:
 
     # my "No, I'll be alright. The hotel is pretty close to here."
-    my "No, I'll be alright. The hotel is pretty close to here."
+    my "No, starò bene. L'hotel è abbastanza vicino."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:631
 translate italian sm1cs_my001_39add513:
 
     # my "Thank you for a special evening, [mcname]."
-    my "Thank you for a special evening, [mcname]."
+    my "Grazie per una serata speciale, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:636
 translate italian sm1cs_my001_5c9c2dd2_1:
 
     # mc "Of course, Mom."
-    mc "Of course, Mom."
+    mc "Certo, mamma."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:638
 translate italian sm1cs_my001_6298931c_1:
 
     # mc "Of course, Melony."
-    mc "Of course, Melony."
+    mc "Certo, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:639
 translate italian sm1cs_my001_78afa441:
 
     # mc "We'll have to do it again soon."
-    mc "We'll have to do it again soon."
+    mc "Dovremo rifarlo presto."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:642
 translate italian sm1cs_my001_efa3c9fa:
 
     # my "Promise?"
-    my "Promise?"
+    my "Promesso?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:644
 translate italian sm1cs_my001_e8b3c062:
 
     # mc "Promise."
-    mc "Promise."
+    mc "Promesso."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:647
 translate italian sm1cs_my001_e0af0515:
 
     # my "This really means the world to me. You have no idea."
-    my "This really means the world to me. You have no idea."
+    my "Questo significa davvero il mondo per me. Non hai idea."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:648
 translate italian sm1cs_my001_6639754e:
 
     # mct "Man, this hug is going on for a while."
-    mct "Man, this hug is going on for a while."
+    mct "Cavolo, questo abbraccio sta durando un po'."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:651
 translate italian sm1cs_my001_b9421d51:
 
     # mct "Like, a while a while... not like a friendly hug, but..."
-    mct "Like, a while a while... not like a friendly hug, but..."
+    mct "Tipo, un bel po'... non come un abbraccio amichevole, ma..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:655
 translate italian sm1cs_my001_2e4c0d84:
 
     # my "Well, you know how to get a hold of me."
-    my "Well, you know how to get a hold of me."
+    my "Beh, sai come contattarmi."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:656
 translate italian sm1cs_my001_7563bbbf:
 
     # my "I'll see you soon, I hope."
-    my "I'll see you soon, I hope."
+    my "Ci vediamo presto, spero."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:658
 translate italian sm1cs_my001_e427b8d8:
 
     # mc "Oh, you will!"
-    mc "Oh, you will!"
+    mc "Oh, lo farai!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:663
 translate italian sm1cs_my001_552fac8e:
 
     # mct "Well, I think that went well... Like, really well."
-    mct "Well, I think that went well... Like, really well."
+    mct "Beh, penso sia andata bene... Tipo, davvero bene."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:664
 translate italian sm1cs_my001_52176b68:
 
     # mc "Well enough that she wants to do it again. Which is a good sign!"
-    mc "Well enough that she wants to do it again. Which is a good sign!"
+    mc "Abbastanza bene che vuole rifarlo. Il che è un buon segno!"
 
 translate italian strings:
 
