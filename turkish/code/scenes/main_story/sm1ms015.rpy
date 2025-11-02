@@ -52,12 +52,6 @@ translate turkish sm1ms015_065a0b01:
     # sy "What does Orbix do again?"
     sy "Orbix yine ne yapıyor?"
 
-# game/code/scenes/main_story/sm1ms015.rpy:38
-translate turkish sm1ms015_047997aa:
-
-    # mc "Their main focus is developing IT solutions and infastructure."
-    mc "Ana odak noktaları BT çözümleri ve altyapısı geliştirmektir."
-
 # game/code/scenes/main_story/sm1ms015.rpy:41
 translate turkish sm1ms015_42d68500:
 
@@ -69,12 +63,6 @@ translate turkish sm1ms015_19b2073c:
 
     # my "Mmmm."
     my "Mmmm."
-
-# game/code/scenes/main_story/sm1ms015.rpy:47
-translate turkish sm1ms015_7497e2f1:
-
-    # mc "Everything okay, mom?"
-    mc "Her şey yolunda mı anne?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:49
 translate turkish sm1ms015_cdda8f30:
@@ -334,12 +322,6 @@ translate turkish sm1ms015_c978a465:
     # cw "It's Miss."
     cw "Bayan."
 
-# game/code/scenes/main_story/sm1ms015.rpy:157
-translate turkish sm1ms015_f141650f:
-
-    # cw "Nevermind."
-    cw "Önemli değil."
-
 # game/code/scenes/main_story/sm1ms015.rpy:159
 translate turkish sm1ms015_05ee9ede:
 
@@ -531,12 +513,6 @@ translate turkish sm1ms015_85730248:
 
     # sy "Likewise, Nari."
     sy "Aynı şekilde, Nari."
-
-# game/code/scenes/main_story/sm1ms015.rpy:246
-translate turkish sm1ms015_6e0d5e68:
-
-    # ns "And I'm delighted to meet you too, Miss Melony."
-    ns "Ben de sizinle tanıştığıma çok memnun oldum, Bayan Melony."
 
 # game/code/scenes/main_story/sm1ms015.rpy:248
 translate turkish sm1ms015_9b705389:
@@ -789,12 +765,6 @@ translate turkish sm1ms015_3df01a68:
 
     # mc "On the other hand, I am a twenty-something co-owner for the studio."
     mc "Öte yandan, stüdyonun yirmili yaşlarındaki ortağıyım."
-
-# game/code/scenes/main_story/sm1ms015.rpy:381
-translate turkish sm1ms015_caab2211:
-
-    # sy "Haha. He's got you there, mom."
-    sy "Haha. Seni yakaladı, anne."
 
 # game/code/scenes/main_story/sm1ms015.rpy:383
 translate turkish sm1ms015_e575597a:

@@ -364,12 +364,6 @@ translate turkish sm1cs_tl003_in_street_ea6df87b:
     # sy "Why is there a cop parked here?"
     sy "Burada neden bir polis arabası park edilmiş?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:210
-translate turkish sm1cs_tl003_in_street_665d1eb6:
-
-    # tl "Awhile back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
-    tl "Bir süre önce burada çılgın bir patlama veya benzeri bir şey oldu. Daha sonra polisler, tekrar bir şeyler yapmaya çalışırlarsa diye, birini burada tutmaya karar verdi."
-
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:213
 translate turkish sm1cs_tl003_in_street_d3ec48b3:
 
@@ -1305,12 +1299,6 @@ translate turkish sm1cs_tl003_sex_end_972dc55f:
 
     # mc "Oh no, oh no - I'm too handsome to go to jail!"
     mc "Aman Tanrım, aman Tanrım - hapse giremeyecek kadar yakışıklıyım!"
-
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:661
-translate turkish sm1cs_tl003_sex_end_3574fcd3:
-
-    # tl "Shut it, [mcname]. Noone is going to jail today. Just be quiet, and follow me!"
-    tl "Kapa çeneni, [mcname]. Bugün kimse hapse girmeyecek. Sadece sessiz ol ve beni takip et!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:712
 translate turkish sm1cs_tl003_sex_end_2aba6cf1:

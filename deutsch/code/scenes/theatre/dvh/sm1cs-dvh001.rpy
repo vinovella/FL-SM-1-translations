@@ -28,12 +28,6 @@ translate deutsch sm1cs_dvh001_a41d5ab8:
     # mct "Is she checking me out? No, no way."
     mct "Is she checking me out? No, no way."
 
-# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:27
-translate deutsch sm1cs_dvh001_65e5fc7f:
-
-    # dvh "I shall return to the stage in a moment. Just need some time to breath deep."
-    dvh "I shall return to the stage in a moment. Just need some time to breath deep."
-
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:29
 translate deutsch sm1cs_dvh001_5693a819:
 
@@ -453,12 +447,6 @@ translate deutsch sm1cs_dvh001_14552750:
 
     # dvh "You have to prove to me, and this theater, that you are worth the work."
     dvh "You have to prove to me, and this theater, that you are worth the work."
-
-# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:213
-translate deutsch sm1cs_dvh001_719e3578:
-
-    # dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on."
-    dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:214
 translate deutsch sm1cs_dvh001_830dd4fe:

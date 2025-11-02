@@ -64,12 +64,6 @@ translate portuguese sm1cs_arj001_28b8befe:
     # mc "So you do have it."
     mc "Então você tá com ele."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:43
-translate portuguese sm1cs_arj001_205cb6c0:
-
-    # arj "So what if I do? {i}No one{/i} should have the zip drive."
-    arj "E se eu estiver? Não era pra {i}ninguém{/i} ter esse pen drive."
-
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:46
 translate portuguese sm1cs_arj001_cc9b4160:
 

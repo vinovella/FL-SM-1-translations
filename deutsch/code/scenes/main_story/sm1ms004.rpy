@@ -124,12 +124,6 @@ translate deutsch sm1ms004_bd406131:
     # arj "Yeah, and how long until they're broken?"
     arj "Ja, und wie lange dauerte es, bis sie kaputt waren?"
 
-# game/code/scenes/main_story/sm1ms004.rpy:69
-translate deutsch sm1ms004_38f4d5b9:
-
-    # arj "Nevermind. It doesn't matter."
-    arj "Vergiss es. Es spielt keine Rolle."
-
 # game/code/scenes/main_story/sm1ms004.rpy:70
 translate deutsch sm1ms004_0bc059a3:
 
@@ -364,12 +358,6 @@ translate deutsch sm1ms004_0262f624:
     # mc "Well, I guess that ends the tour."
     mc "Nun, damit ist die Führung wohl zu Ende."
 
-# game/code/scenes/main_story/sm1ms004.rpy:171
-translate deutsch sm1ms004_a74686a4:
-
-    # mct "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-    mct "Wenn du Stacy davon erzählst, solltest du es wahrscheinlich etwas beschönigen. Sie sieht das alles sehr optimistisch und ich möchte nicht, dass sie diese Einstellung verliert."
-
 # game/code/scenes/main_story/sm1ms004.rpy:174
 translate deutsch sm1ms004_d2195659:
 
@@ -585,12 +573,6 @@ translate deutsch sm1ms004_93730c07:
 
     # mct "That was interesting.{w} I feel good - like AmRose is coming back around to liking us."
     mct "Das war interessant.{w} Ich habe ein gutes Gefühl – als würde AmRose wieder anfangen, uns zu mögen."
-
-# game/code/scenes/main_story/sm1ms004.rpy:266
-translate deutsch sm1ms004_46109a1d:
-
-    # mct "Maybe this isn't completely fucked afterall."
-    mct "Vielleicht ist das Ganze doch nicht völlig im Arsch."
 
 # game/code/scenes/main_story/sm1ms004.rpy:268
 translate deutsch sm1ms004_fcf11b81:

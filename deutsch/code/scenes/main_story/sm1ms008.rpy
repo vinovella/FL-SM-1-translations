@@ -214,12 +214,6 @@ translate deutsch sm1ms008_77082a31:
     # kv "I like their taste already."
     kv "Ich mag den Geschmack schon jetzt."
 
-# game/code/scenes/main_story/sm1ms008.rpy:140
-translate deutsch sm1ms008_dcea2b81:
-
-    # sy "Thre is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-    sy "Es gibt noch eine letzte Bitte. Sie ist etwas seltsam. Sie wollen, dass das Mädchen rothaarig ist. Also hat [mcname] diese Perücke ausgesucht."
-
 # game/code/scenes/main_story/sm1ms008.rpy:144
 translate deutsch sm1ms008_fe56a94c:
 
@@ -375,12 +369,6 @@ translate deutsch sm1ms008_special_e32b4852:
 
     # sy "So much wasted time."
     sy "So viel verschwendete Zeit."
-
-# game/code/scenes/main_story/sm1ms008.rpy:221
-translate deutsch sm1ms008_special_5f718ef7:
-
-    # mc "Well, we're together now. that's the important part."
-    mc "Nun, wir sind jetzt zusammen. Das ist das Wichtigste."
 
 # game/code/scenes/main_story/sm1ms008.rpy:224
 translate deutsch sm1ms008_special_5ee8dc16:
@@ -640,12 +628,6 @@ translate deutsch sm1ms008_special_489e301c:
     # mc "I just like you with your green hair."
     mc "Ich mag dich einfach mit deinen grünen Haaren."
 
-# game/code/scenes/main_story/sm1ms008.rpy:380
-translate deutsch sm1ms008_after_choice_c3e521fc:
-
-    # kv "Already Stacy, why don't you give me some poses."
-    kv "Alles klar, Stacy, zeig mir doch mal ein paar Posen."
-
 # game/code/scenes/main_story/sm1ms008.rpy:383
 translate deutsch sm1ms008_after_choice_5ae8e99b:
 
@@ -699,12 +681,6 @@ translate deutsch sm1ms008_after_choice_ffa6d3bc:
 
     # kv "I think the only thing left before we can start rehearsing and filming is getting our hands on the right camera."
     kv "Ich denke, das Einzige, was noch fehlt, bevor wir mit den Proben und Dreharbeiten beginnen können, ist die richtige Kamera."
-
-# game/code/scenes/main_story/sm1ms008.rpy:430
-translate deutsch sm1ms008_after_choice_147423a9:
-
-    # mc "Wait, don't you have any camera we would ever need, Kanya?"
-    mc "Moment mal, hast du nicht eine Kamera, die wir brauchen könnten, Kanya?"
 
 # game/code/scenes/main_story/sm1ms008.rpy:433
 translate deutsch sm1ms008_after_choice_c97b9391:
@@ -766,12 +742,6 @@ translate deutsch sm1ms008_after_choice_2cf940ef:
     # kv "You two need to think of this as an investment in the studio's future."
     kv "Ihr beiden müsst das als Investition in die Zukunft des Studios betrachten."
 
-# game/code/scenes/main_story/sm1ms008.rpy:455
-translate deutsch sm1ms008_after_choice_c425bbc9:
-
-    # sy "I'm thinking about the extra work you'll have to do to get this super camera."
-    sy "Ich denke an die zusätzliche Arbeit, die du auf dich nehmen musst, um diese Superkamera zu bekommen."
-
 # game/code/scenes/main_story/sm1ms008.rpy:458
 translate deutsch sm1ms008_after_choice_3724bdef:
 
@@ -814,12 +784,6 @@ translate deutsch sm1ms008_after_choice_25849749:
     # kv "If you can't do something right, don't do it at all."
     kv "Wenn du etwas nicht richtig machen kannst, lass es lieber ganz bleiben."
 
-# game/code/scenes/main_story/sm1ms008.rpy:482
-translate deutsch sm1ms008_after_choice_2bb3b2af:
-
-    # sy "Haha. Good thing that's not, [mcname]'s motto."
-    sy "Haha. Gut, dass das nicht das Motto von [mcname] ist."
-
 # game/code/scenes/main_story/sm1ms008.rpy:485
 translate deutsch sm1ms008_after_choice_669664cb:
 
@@ -849,12 +813,6 @@ translate deutsch sm1ms008_after_choice_a69f28cf:
 
     # sy "Once we have it, we'll give you a call to set up a time for filming."
     sy "Sobald wir sie haben, rufen wir dich an, um einen Termin für die Dreharbeiten zu vereinbaren."
-
-# game/code/scenes/main_story/sm1ms008.rpy:498
-translate deutsch sm1ms008_after_choice_e40ff599:
-
-    # kv "Got it, let me give you my number. In case you need to call me."
-    kv "Verstanden, ich gebe dir meine Nummer. Falls du mich anrufen musst."
 
 # game/code/scenes/main_story/sm1ms008.rpy:502
 translate deutsch sm1ms008_after_choice_531bfbf1:

@@ -100,12 +100,6 @@ translate turkish sm1cs_km003_2i_8b4a888f:
     # mc "Haha. Yeah. Veronica really is one of a kind, isn't she?"
     mc "Haha. Evet. Veronica gerçekten eşsiz biri, değil mi?"
 
-# game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:67
-translate turkish sm1cs_km003_2i_2237cc3e:
-
-    # km "Scoffs."
-    km "Alay ediyor."
-
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:71
 translate turkish sm1cs_km003_2i_9ab052ea:
 
@@ -255,12 +249,6 @@ translate turkish sm1cs_km003_2i_menu_58850354:
 
     # km "Well... since you asked. Sure."
     km "Peki... madem sordun. Elbette."
-
-# game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:149
-translate turkish sm1cs_km003_2i_menu_de5db7e8:
-
-    # km "Let's go to the main stage"
-    km "Ana sahneye çıkalım"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:151
 translate turkish sm1cs_km003_2i_menu_716019b8:

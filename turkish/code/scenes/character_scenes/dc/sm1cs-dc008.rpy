@@ -982,12 +982,6 @@ translate turkish sm1cs_dc008_eec09208:
     # dc "It's kind of exciting, having you know the {b}real{/b} me..."
     dc "Gerçek beni tanımak heyecan verici bir şey..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:511
-translate turkish sm1cs_dc008_69325c6a:
-
-    # mc "I'm greatful that you shared that part of you with me, Debbie."
-    mc "Bu yanını benimle paylaştığın için minnettarım, Debbie."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:512
 translate turkish sm1cs_dc008_286f5b67:
 

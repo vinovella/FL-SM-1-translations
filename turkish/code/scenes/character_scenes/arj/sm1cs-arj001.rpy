@@ -64,12 +64,6 @@ translate turkish sm1cs_arj001_28b8befe:
     # mc "So you do have it."
     mc "Demek sende gerçekten var."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:43
-translate turkish sm1cs_arj001_205cb6c0:
-
-    # arj "So what if I do? {i}No one{/i} should have the zip drive."
-    arj "Varsa ne olmuş? {i}Hiç kimse{/i} bu sürücüyü elinde tutmamalı."
-
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:46
 translate turkish sm1cs_arj001_cc9b4160:
 

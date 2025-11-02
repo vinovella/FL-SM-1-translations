@@ -142,12 +142,6 @@ translate french sm1ms021_cf1adef2:
     # mc "Yeah."
     mc "Yeah."
 
-# game/code/scenes/main_story/sm1ms021.rpy:92
-translate french sm1ms021_3a330c2b:
-
-    # sy "This space... it’s not just a studio anymore. It’s starting to feel like our dream is finally taking shape."
-    sy "This space... it’s not just a studio anymore. It’s starting to feel like our dream is finally taking shape."
-
 # game/code/scenes/main_story/sm1ms021.rpy:93
 translate french sm1ms021_d21c8f26:
 
@@ -177,12 +171,6 @@ translate french sm1ms021_6ea38681:
 
     # mc "We did this together, Stacy. Couldn't have done it without you."
     mc "We did this together, Stacy. Couldn't have done it without you."
-
-# game/code/scenes/main_story/sm1ms021.rpy:107
-translate french sm1ms021_03d3460b:
-
-    # sy "Same here. I mean, you’re the one who kept me sane through all of this."
-    sy "Same here. I mean, you’re the one who kept me sane through all of this."
 
 # game/code/scenes/main_story/sm1ms021.rpy:112
 translate french sm1ms021_1092c087:
@@ -436,41 +424,11 @@ translate french sm1ms021_34bb4a82:
     # sy "Yeah, I guess so."
     sy "Yeah, I guess so."
 
-# game/code/scenes/main_story/sm1ms021.rpy:217
-translate french sm1ms021_90c7dbb3:
-
-    # sy "I guess so long as the check clears, I’m not complaining."
-    sy "I guess so long as the check clears, I’m not complaining."
-
-# game/code/scenes/main_story/sm1ms021.rpy:218
-translate french sm1ms021_bce7ba08:
-
-    # sy "And now that we’ve got the extra power and space in the studio, this film is going to be even better than the first one."
-    sy "And now that we’ve got the extra power and space in the studio, this film is going to be even better than the first one."
-
-# game/code/scenes/main_story/sm1ms021.rpy:222
-translate french sm1ms021_9fdc7c78:
-
-    # mct "She’s got a point. This is the kind of project that could put us on the map if we nail it."
-    mct "She’s got a point. This is the kind of project that could put us on the map if we nail it."
-
-# game/code/scenes/main_story/sm1ms021.rpy:226
-translate french sm1ms021_a1f727e3:
-
-    # mc "Alright, let’s start brainstorming then."
-    mc "Alright, let’s start brainstorming then."
-
 # game/code/scenes/main_story/sm1ms021.rpy:229
 translate french sm1ms021_4b920476:
 
     # mc "I wonder if we can hang a chain line from the ceiling."
     mc "I wonder if we can hang a chain line from the ceiling."
-
-# game/code/scenes/main_story/sm1ms021.rpy:232
-translate french sm1ms021_7d5dbe55:
-
-    # sy "Hold on there, Spielberg. We can’t just jump in without a solid plan and, more importantly, without money."
-    sy "Hold on there, Spielberg. We can’t just jump in without a solid plan and, more importantly, without money."
 
 # game/code/scenes/main_story/sm1ms021.rpy:235
 translate french sm1ms021_1464866a:
@@ -562,12 +520,6 @@ translate french sm1ms021_39685004:
     # sy "Mmmm."
     sy "Mmmm."
 
-# game/code/scenes/main_story/sm1ms021.rpy:282
-translate french sm1ms021_ea88bbcb:
-
-    # mc "Alright, let’s map this out. First, we secure the funding. Then, we finalize the concept for the scene."
-    mc "Alright, let’s map this out. First, we secure the funding. Then, we finalize the concept for the scene."
-
 # game/code/scenes/main_story/sm1ms021.rpy:283
 translate french sm1ms021_f5480063:
 
@@ -633,12 +585,6 @@ translate french sm1ms021_ae9dcce1:
 
     # mc "Then it's money I'll get. And when I'm through, S&M will have its second film ready to fire people up across the whole city."
     mc "Then it's money I'll get. And when I'm through, S&M will have its second film ready to fire people up across the whole city."
-
-# game/code/scenes/main_story/sm1ms021.rpy:312
-translate french sm1ms021_1a9dd79e:
-
-    # mc "Let’s do this. For the studio and for the dream."
-    mc "Let’s do this. For the studio and for the dream."
 
 # game/code/scenes/main_story/sm1ms021.rpy:315
 translate french sm1ms021_3829caaa:

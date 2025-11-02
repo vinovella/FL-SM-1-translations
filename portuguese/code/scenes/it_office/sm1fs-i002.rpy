@@ -346,12 +346,6 @@ translate portuguese sm1fs_i002_a90c2b05:
     # mc "I'm sorry Ms. Watts."
     mc "Desculpa, Sra. Watts."
 
-# game/code/scenes/it_office/sm1fs-i002.rpy:192
-translate portuguese sm1fs_i002_a9811fae:
-
-    # cw "It's fine, lets just try to keep it... Less personal than that. Continue on."
-    cw "Tudo bem, vamos manter isso... menos pessoal. Continue"
-
 # game/code/scenes/it_office/sm1fs-i002.rpy:198
 translate portuguese sm1fs_i002_09f7e466:
 

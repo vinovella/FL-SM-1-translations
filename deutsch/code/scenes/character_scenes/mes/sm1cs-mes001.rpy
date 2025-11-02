@@ -154,12 +154,6 @@ translate deutsch sm1cs_mes001_fa9b2b83:
     # mc "Min... about Lydia and Fetish Locator—"
     mc "Min... wegen Lydia und Fetish Locator..."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:103
-translate deutsch sm1cs_mes001_54c51a69:
-
-    # mes "*chuckles wrly* The elephant in the room."
-    mes "*lacht ironisch* Das offensichtliche Problem, über das niemand sprechen will."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:106
 translate deutsch sm1cs_mes001_9446a237:
 
@@ -423,12 +417,6 @@ translate deutsch sm1cs_mes001_ac32440c:
 
     # mes "So... rumor has it you dropped out, right?"
     mes "Also... es geht das Gerücht um, dass du abgebrochen hast, stimmt's?"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:219
-translate deutsch sm1cs_mes001_8d8790c7:
-
-    # mc "*sheepishily* Guilty as charged. The old business management program just wasn't cutting it for me."
-    mc "*verlegen* Schuldig im Sinne der Anklage. Das alte Betriebswirtschaftsprogramm hat mir einfach nicht gereicht."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:220
 translate deutsch sm1cs_mes001_47a7309b:
@@ -748,12 +736,6 @@ translate deutsch sm1cs_mes001_d19c0b1c:
     # mes "My {i}loving{/i} family tried setting me up with a 'nice, respectable' suitor — who does that these days?"
     mes "Meine {i}liebevolle{/i} Familie hat versucht, mich mit einem netten, respektablen Verehrer zu verkuppeln – wer macht so etwas heutzutage noch?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:344
-translate deutsch sm1cs_mes001_f2902c14:
-
-    # mc "Are you telling me you almost got an set up for an arranged marriage type date in Korea?"
-    mc "Willst du mir damit sagen, dass du in Korea fast zu einem arrangierten Date gezwungen worden wärst?"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:347
 translate deutsch sm1cs_mes001_bd02302b:
 
@@ -813,12 +795,6 @@ translate deutsch sm1cs_mes001_cd529352:
 
     # mes "Impressive. I just assumed you two were just messing around with a camera in a warehouse."
     mes "Beeindruckend. Ich dachte nur, ihr zwei würdet in einem Lagerhaus mit einer Kamera herumspielen."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:368
-translate deutsch sm1cs_mes001_197faa78:
-
-    # mc "Hey, we do that to, but we can be serious when we need to be."
-    mc "Hey, das machen wir auch, aber wir können ernst sein, wenn es nötig ist."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:370
 translate deutsch sm1cs_mes001_c61da560:

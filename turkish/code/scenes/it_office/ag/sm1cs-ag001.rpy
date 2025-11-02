@@ -172,12 +172,6 @@ translate turkish sm1cs_ag001_8ff28f75:
     # mj "Thanks. But we actually have a small problem, Anna."
     mj "Teşekkürler. Ama aslında küçük bir sorunumuz var, Anna."
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:106
-translate turkish sm1cs_ag001_c20e21ba:
-
-    # mj "My team managed to nail down that analytics error that was a real thorn in our butts.. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
-    mj "Ekibim, canımızı sıkan o analitik hatayı çözmeyi başardı. Şimdi Jayden, stres testi uyarılarının kapasitemizin yüzde on beşine ulaştığımızda verildiğini söylüyor."
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:109
 translate turkish sm1cs_ag001_2769889a:
 
@@ -376,41 +370,11 @@ translate turkish sm1cs_ag001_2750285d_1:
     # mct "Deep. Wet. Undercover."
     mct "Derin. Islak. Gizli."
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:234
-translate turkish sm1cs_ag001_0b374835:
-
-    # mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club"
-    mct "Eva Kingsley'nin Marquis Kulübü'nde gizli göreve gitmesinin hikayesi"
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:235
 translate turkish sm1cs_ag001_c1d0d7a8:
 
     # mct "Will our hero be able to keep her resolve as she descends into a world of humiliation and debauchery?"
     mct "Kahramanımız aşağılanma ve sefahat dünyasına doğru sürüklenirken kararlılığını koruyabilecek mi?"
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:238
-translate turkish sm1cs_ag001_87f92112:
-
-    # mct "This certainly deserves an Adults Only rating"
-    mct "Bu kesinlikle Yetişkinlere Özel derecelendirmesini hak ediyor"
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
-translate turkish sm1cs_ag001_e4b9a970:
-
-    # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down"
-    mct "Buna dayanarak, Fetish Locator kapatılmasaydı Anna'nın onunla ilgilenebileceğini düşünüyorum"
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:243
-translate turkish sm1cs_ag001_5eea3769:
-
-    # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\""
-    mct "Yine de bakmamalıydım. Şimdi onun sapık olduğunu biliyorum ama yanına gidip \"hey, aşağılama pornosuna meraklı olduğunu duydum\" diyemem"
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:246
-translate turkish sm1cs_ag001_5d47ee66:
-
-    # mc "Oh cool, they're making a movie based on the book"
-    mc "Harika, kitaba dayalı bir film yapıyorlar"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:249
 translate turkish sm1cs_ag001_f10be5b0:
@@ -652,12 +616,6 @@ translate turkish sm1cs_ag001_continue_0f22d93c:
     # ag "I'd like to say she grows on you, but we've worked together a while and I think that would be a lie, hahah."
     ag "Yaşlandığını söylemek isterdim ama bir süredir birlikte çalışıyoruz ve bunun yalan olacağını düşünüyorum, haha."
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:398
-translate turkish sm1cs_ag001_continue_34bad08b:
-
-    # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Worts and all."
-    ag "Ama o muhtemelen Crowning'deki en iyi kodlayıcı ve onu takımda bulundurmak bir ayrıcalık. Her şey dahil."
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:401
 translate turkish sm1cs_ag001_continue_7a22d199:
 
@@ -693,12 +651,6 @@ translate turkish sm1cs_ag001_continue_e6d20dfe:
 
     # ag "I know you just joined up but I should warn you that I might have to ride you extra hard over the next couple of months."
     ag "Yeni katıldığını biliyorum ama seni uyarmalıyım ki önümüzdeki birkaç ay boyunca sana fazladan baskı yapmam gerekebilir."
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
-translate turkish sm1cs_ag001_continue_657f6911:
-
-    # mct "Oh I don't think either of us would mind that, Anna"
-    mct "Ah, sanırım ikimizden hiçbiri buna aldırmaz, Anna"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:421
 translate turkish sm1cs_ag001_continue_cd952fa6:

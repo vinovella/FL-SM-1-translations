@@ -316,12 +316,6 @@ translate portuguese sm1cs_km004_a3b3c69e:
     # mc "What? Why?"
     mc "O quê? Por quê?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:206
-translate portuguese sm1cs_km004_553da677:
-
-    # tl "To see if this is a bannable offense, you uncivilized orge."
-    tl "Pra ver se vou te banir, seu ogro das cavernas."
-
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:221
 translate portuguese sm1cs_km004_29844415:
 
@@ -1048,12 +1042,6 @@ translate portuguese sm1cs_km004_stage_c4880b44:
     # vs "Belonging to a man. Oh, be some other name!"
     vs "Que pertence a seu corpo. Oh, sê outro nome!"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:677
-translate portuguese sm1cs_km004_stage_65e26364:
-
-    # vs "What's in a name? That which we call a rose"
-    vs "Que há num simples nome? O que chamamos rosa"
-
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:680
 translate portuguese sm1cs_km004_stage_7e68ba35:
 
@@ -1077,12 +1065,6 @@ translate portuguese sm1cs_km004_stage_21d18301:
 
     # dvh "My god."
     dvh "Meu deus."
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:692
-translate portuguese sm1cs_km004_stage_a47cf382:
-
-    # dvh "Exquisite Veronica."
-    dvh "Maravilhoso, Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:693
 translate portuguese sm1cs_km004_stage_99fe62c6:

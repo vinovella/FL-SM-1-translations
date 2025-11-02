@@ -304,12 +304,6 @@ translate deutsch sm1mv02s01_cad6b284:
     # mc "There's not a stage in here?"
     mc "There's not a stage in here?"
 
-# game/code/scenes/movies/movie02/sm1mv02s01.rpy:218
-translate deutsch sm1mv02s01_adf0dae9:
-
-    # sy "No, but that's what they call the places the film movies. Shorthand for \"sound stage\"."
-    sy "No, but that's what they call the places the film movies. Shorthand for \"sound stage\"."
-
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:221
 translate deutsch sm1mv02s01_8e11f0a8:
 

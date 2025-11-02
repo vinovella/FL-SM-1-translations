@@ -58,12 +58,6 @@ translate portuguese sm1ms002_7e80f756:
     # sy "Is the delivery job that bad?"
     sy "Trabalhar de entregador é tão ruim assim, é?"
 
-# game/code/scenes/main_story/sm1ms002.rpy:59
-translate portuguese sm1ms002_1b967ef2:
-
-    # mc "I haven't started cutting on myself yet."
-    mc "Ainda não comecei a me cortar."
-
 # game/code/scenes/main_story/sm1ms002.rpy:61
 translate portuguese sm1ms002_d8f519df:
 

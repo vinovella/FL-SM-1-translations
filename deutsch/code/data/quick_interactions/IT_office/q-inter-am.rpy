@@ -382,12 +382,6 @@ translate deutsch q_inter_am_15_aeda5222:
     # am "Yes. You just needed to switch those settings."
     am "Ja. du musst nur diese Einstellungen ändern."
 
-# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:222
-translate deutsch q_inter_am_15_c1491850:
-
-    # mc "I thought I could make it more effecient."
-    mc "Ich dachte, ich könnte es effizienter gestalten."
-
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:226
 translate deutsch q_inter_am_15_18244209:
 
@@ -603,12 +597,6 @@ translate deutsch q_inter_am_21_93202109:
 
     # am "Really?"
     am "Wirklich?"
-
-# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:330
-translate deutsch q_inter_am_21_ba0d4547:
-
-    # am "Uh... nevermind. It might be awkward. And you'd just be sitting there."
-    am "Äh... vergiss es. Das könnte peinlich werden. Und du würdest nur rumsitzen."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:332
 translate deutsch q_inter_am_21_c20a9812:

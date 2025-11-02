@@ -100,12 +100,6 @@ translate spanish sm1cs_km003_2i_8b4a888f:
     # mc "Haha. Yeah. Veronica really is one of a kind, isn't she?"
     mc "Jaja. Sí. Verónica realmente es única, ¿no?"
 
-# game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:67
-translate spanish sm1cs_km003_2i_2237cc3e:
-
-    # km "Scoffs."
-    km "Burla."
-
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:71
 translate spanish sm1cs_km003_2i_9ab052ea:
 
@@ -255,12 +249,6 @@ translate spanish sm1cs_km003_2i_menu_58850354:
 
     # km "Well... since you asked. Sure."
     km "Bueno... ya que preguntas. Claro que sí."
-
-# game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:149
-translate spanish sm1cs_km003_2i_menu_de5db7e8:
-
-    # km "Let's go to the main stage"
-    km "Vamos al escenario principal."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:151
 translate spanish sm1cs_km003_2i_menu_716019b8:

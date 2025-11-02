@@ -460,12 +460,6 @@ translate deutsch sm1cs_mes007_d7501986:
     # mc "Well I'm excited to see what you come with, Min."
     mc "Well I'm excited to see what you come with, Min."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:290
-translate deutsch sm1cs_mes007_840bb98d:
-
-    # mc "I know its going to be great."
-    mc "I know its going to be great."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:299
 translate deutsch sm1cs_mes007_35a46716:
 

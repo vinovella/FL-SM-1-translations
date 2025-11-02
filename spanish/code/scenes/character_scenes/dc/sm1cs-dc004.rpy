@@ -40,12 +40,6 @@ translate spanish sm1cs_dc004_6ce4cbe3:
     # dc "Yeah..."
     dc "Sí..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:25
-translate spanish sm1cs_dc004_f1498a85:
-
-    # mc "But I wanted to ask you something. The other day, at coffe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-    mc "Pero quería preguntarte algo. El otro día, en el café, saliste corriendo a toda prisa. ¿Ocurrió algo? ¿Dije algo malo?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:29
 translate spanish sm1cs_dc004_4005297e:
 

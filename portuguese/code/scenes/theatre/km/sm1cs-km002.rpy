@@ -298,12 +298,6 @@ translate portuguese sm1cs_km002_complement_km_5d2ced7c:
     # mc "Yeah. Maybe."
     mc "Sim. Talvez."
 
-# game/code/scenes/theatre/km/sm1cs-km002.rpy:164
-translate portuguese sm1cs_km002_complement_km_fd4ba94a:
-
-    # km "[mcname], are you still interested in learning to be a better actor."
-    km "[mcname], ainda interessado em aprender assinar um autor melhor?"
-
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:167
 translate portuguese sm1cs_km002_complement_km_7d5fb030:
 

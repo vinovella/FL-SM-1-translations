@@ -52,12 +52,6 @@ translate turkish sm1ms005_02i_db837775:
     # mc "I think we slow it down and have some of that romantic passion."
     mc "Bence biraz yavaşlayıp o romantik tutkuyu yaşayalım."
 
-# game/code/scenes/main_story/sm1ms005_02i.rpy:43
-translate turkish sm1ms005_02i_e647c88a:
-
-    # sy "Alright. Lets do it."
-    sy "Tamam. Hadi yapalım."
-
 translate turkish strings:
 
     # game/code/scenes/main_story/sm1ms005_02i.rpy:13

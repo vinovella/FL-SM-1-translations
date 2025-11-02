@@ -160,12 +160,6 @@ translate french sm1cs_am005_hours_later_998ba37e:
     # am "But you're right, I could have handled things a lot better."
     am "But you're right, I could have handled things a lot better."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:122
-translate french sm1cs_am005_hours_later_7d046d84:
-
-    # am "So... can we just open up a new doc, [mcname{w} Start fresh?"
-    am "So... can we just open up a new doc, [mcname{w} Start fresh?"
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:124
 translate french sm1cs_am005_hours_later_a49ed4f8:
 

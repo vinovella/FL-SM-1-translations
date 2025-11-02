@@ -40,18 +40,6 @@ translate deutsch sm1cs_am005_bd5cc34c:
     # mct "Then something switched, and she kicked me out of the car. I thought we were going all the way for sure."
     mct "Dann änderte sich plötzlich etwas, und sie warf mich aus dem Auto. Ich dachte, wir würden es auf jeden Fall bis zum Ende durchziehen."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:34
-translate deutsch sm1cs_am005_07845eba:
-
-    # mct "This can't go on. I need to at least get us back on some kind of page. We can't work like this."
-    mct "So kann es nicht weitergehen. Ich muss zumindest dafür sorgen, dass wir uns wieder irgendwie einigen. So können wir nicht arbeiten."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:37
-translate deutsch sm1cs_am005_65d3c1ab:
-
-    # mc "Hey April."
-    mc "Hey April."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:39
 translate deutsch sm1cs_am005_0fed480a:
 
@@ -82,12 +70,6 @@ translate deutsch sm1cs_am005_f8c981fd:
     # mct "Okay. Message received, April."
     mct "Okay. Verstanden, April."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:77
-translate deutsch sm1cs_am005_hours_later_31c9e580:
-
-    # mct "Finally. That's the last ticket for my shit."
-    mct "Endlich. Das ist das letzte Ticket für meinen Mist."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:80
 translate deutsch sm1cs_am005_hours_later_e526a903:
 
@@ -105,12 +87,6 @@ translate deutsch sm1cs_am005_hours_later_b7e91ea9:
 
     # mct "Why do I feel like she's going to ninja-jump my ass or something?"
     mct "Warum habe ich das Gefühl, dass sie mich gleich mit einem Ninja-Sprung angreifen wird oder so?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:95
-translate deutsch sm1cs_am005_hours_later_00e95f32:
-
-    # am "Now I can talk. So talk."
-    am "Jetzt kann ich reden. Also rede."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:103
 translate deutsch sm1cs_am005_hours_later_7b0f101d:
@@ -142,23 +118,11 @@ translate deutsch sm1cs_am005_hours_later_52e80c48:
     # mc "You've been blowing me off all day, and now you want to talk?"
     mc "Du hast mich den ganzen Tag abgewimmelt, und jetzt willst du reden?"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:117
-translate deutsch sm1cs_am005_hours_later_baf13cb7:
-
-    # am "I... yes. I want to talk."
-    am "Ich... ja. Ich möchte reden."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:120
 translate deutsch sm1cs_am005_hours_later_998ba37e:
 
     # am "But you're right, I could have handled things a lot better."
     am "Aber du hast Recht, ich hätte die Dinge viel besser handhaben können."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:121
-translate deutsch sm1cs_am005_hours_later_8452c48a:
-
-    # am "So... can we just open up a new doc, [mcname]? Start fresh?"
-    am "Also... können wir einfach ein neues Kapitel öffnen, [mcname]? Von vorne anfangen?"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:123
 translate deutsch sm1cs_am005_hours_later_a49ed4f8:
@@ -202,29 +166,11 @@ translate deutsch sm1cs_am005_hours_later_c970342f:
     # am "Yeah, well... Whatever."
     am "Ja, na ja... Wie auch immer."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:154
-translate deutsch sm1cs_am005_hours_later_d3fe4b1b:
-
-    # mct "I should be a little patient with her. She's obviously got something on her mind."
-    mct "Ich sollte ein wenig Geduld mit ihr haben. Sie hat offensichtlich etwas auf dem Herzen."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:155
 translate deutsch sm1cs_am005_hours_later_68bdc5fa:
 
     # mct "What is it? And why is she struggling so much?"
     mct "Was ist das? Und warum hat sie so große Schwierigkeiten damit?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:158
-translate deutsch sm1cs_am005_hours_later_80ee915e:
-
-    # mct "Wait. Was there more going on when we were in her car?"
-    mct "Moment mal. War da noch mehr, als wir in ihrem Auto saßen?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:159
-translate deutsch sm1cs_am005_hours_later_1d1d3df5:
-
-    # mct "Does April have-"
-    mct "Hat April..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:163
 translate deutsch sm1cs_am005_hours_later_dcfc613f:
@@ -256,18 +202,6 @@ translate deutsch sm1cs_am005_hours_later_8d2b864e:
     # am "The {i}trunk{/i}."
     am "Der {i}Kofferraum{/i}."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:175
-translate deutsch sm1cs_am005_hours_later_c4077dbc:
-
-    # am "What do you think, idiot? All of it."
-    am "Was denkst du, du Idiot? Alles."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:186
-translate deutsch sm1cs_am005_sex_1_a74cd018:
-
-    # am "I let my bad impulses take over. My brain wasn't thinking straight."
-    am "Ich habe mich von meinen schlechten Impulsen leiten lassen. Mein Verstand hat nicht klar gedacht."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:188
 translate deutsch sm1cs_am005_sex_1_70d74354:
 
@@ -286,12 +220,6 @@ translate deutsch sm1cs_am005_sex_1_e5544801:
     # mc "I get it."
     mc "Ich verstehe."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:198
-translate deutsch sm1cs_am005_sex_1_1e01a266:
-
-    # mc "Say no more."
-    mc "Sag nichts mehr."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:199
 translate deutsch sm1cs_am005_sex_1_0e0c320b:
 
@@ -303,12 +231,6 @@ translate deutsch sm1cs_am005_sex_1_15ee2653:
 
     # mc "Maybe in the next life."
     mc "Vielleicht im nächsten Leben."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:203
-translate deutsch sm1cs_am005_sex_1_47c34679:
-
-    # am "That's not what I mean."
-    am "Das meine ich nicht."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:206
 translate deutsch sm1cs_am005_sex_1_69da63a3:
@@ -322,12 +244,6 @@ translate deutsch sm1cs_am005_sex_1_c9c2e027:
     # mc "What the hell-"
     mc "Was zum Teufel..."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:210
-translate deutsch sm1cs_am005_sex_1_4a972b58:
-
-    # mc "Care to explain that, April? As you often say, I'm not as sharp as you."
-    mc "Könntest du das bitte erklären, April? Wie du oft sagst, bin ich nicht so scharfsinnig wie du."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:213
 translate deutsch sm1cs_am005_sex_1_e07a0189:
 
@@ -339,12 +255,6 @@ translate deutsch sm1cs_am005_sex_1_460a97ce:
 
     # am "I don't know, something bent in a direction it's not meant to bend."
     am "Ich weiß nicht, irgendetwas hat sich in eine Richtung verbogen, in die es sich nicht verbiegen sollte."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:217
-translate deutsch sm1cs_am005_sex_1_581443a6:
-
-    # am "And I just, I don't know, I went stupid mode. Basic mode."
-    am "Und ich weiß nicht, ich bin einfach in den Dummkopf-Modus verfallen. In den Basis-Modus."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:218
 translate deutsch sm1cs_am005_sex_1_a4204147:
@@ -375,12 +285,6 @@ translate deutsch sm1cs_am005_sex_1_1c8acf17_1:
 
     # am "..."
     am "..."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:229
-translate deutsch sm1cs_am005_sex_1_b3c344b0:
-
-    # mc "Text me if you ever figure it out. I got other-"
-    mc "Schreib mir eine Nachricht, wenn du es herausfindest. Ich habe noch andere..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:233
 translate deutsch sm1cs_am005_sex_1_cc27a1f7:
@@ -424,12 +328,6 @@ translate deutsch sm1cs_am005_sex_1_11455b53:
     # mc "What?"
     mc "Was?"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:262
-translate deutsch sm1cs_am005_sex_1_1329a68f:
-
-    # am "I didn't want our first time to be like that."
-    am "Ich wollte nicht, dass unser erstes Mal so sein würde."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:265
 translate deutsch sm1cs_am005_sex_1_343269bc:
 
@@ -448,23 +346,11 @@ translate deutsch sm1cs_am005_sex_1_b7547a2f:
     # mc "Wait, how long have you been thinking of us do-"
     mc "Moment, wie lange denkst du schon an uns beide?"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:273
-translate deutsch sm1cs_am005_sex_1_72823e2d:
-
-    # am "Shuuuussssssh. Not here."
-    am "Pssst. Nicht hier."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:277
 translate deutsch sm1cs_am005_sex_1_ea038288:
 
     # mc "How long have you been thinking... about this?"
     mc "Wie lange denkst du schon darüber nach?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:279
-translate deutsch sm1cs_am005_sex_1_5601eb0e:
-
-    # am "I don't know. Maybe after I invited you to see my band."
-    am "Ich weiß es nicht. Vielleicht nachdem ich dich eingeladen habe, meine Band zu sehen."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:280
 translate deutsch sm1cs_am005_sex_1_565fb882:
@@ -1035,12 +921,6 @@ translate deutsch sm1cs_am005_thumbsup_end_0950ecd7:
 
     # am "Keep up the good work."
     am "Weiter so!"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:599
-translate deutsch sm1cs_am005_thumbsup_end_38428ea5:
-
-    # mct "Uh. Did she just really give me a thumb's up?"
-    mct "Äh. Hat sie mir gerade wirklich einen Daumen hoch gegeben?"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:602
 translate deutsch sm1cs_am005_thumbsup_end_58ecb03f:

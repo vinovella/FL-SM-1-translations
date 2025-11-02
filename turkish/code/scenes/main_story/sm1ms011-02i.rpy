@@ -280,23 +280,11 @@ translate turkish sm1ms011_02i_9f575af2:
     # sy "Well, it sounds like you'll just have to go on a charm offensive and win her over."
     sy "Öyleyse, onu kazanmak için bir çekicilik saldırısı yapman gerekecek gibi görünüyor."
 
-# game/code/scenes/main_story/sm1ms011-02i.rpy:107
-translate turkish sm1ms011_02i_01fc120c:
-
-    # mc "Hahah. we'll see."
-    mc "Hahah. Göreceğiz."
-
 # game/code/scenes/main_story/sm1ms011-02i.rpy:111
 translate turkish sm1ms011_02i_1e856ea6:
 
     # sy "Mmmhmm. Well, all in all, I'm glad you got the foot in the door."
     sy "Mmmhmm. Her şeyi hesaba katınca, kapıyı araladığın için mutluyum."
-
-# game/code/scenes/main_story/sm1ms011-02i.rpy:112
-translate turkish sm1ms011_02i_810a22b9:
-
-    # sy "But I'm sure if you want to get one of these actresse to join us, you'll have to get on stage yourself."
-    sy "Ama eminim ki bu aktrislerden birinin bize katılmasını istiyorsan, kendin sahneye çıkman gerekecek."
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:114
 translate turkish sm1ms011_02i_e0d93906:

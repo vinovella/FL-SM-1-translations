@@ -10,47 +10,17 @@ translate italian sm1cs_my005_0c310a85:
     # mct "\"Sorry for the super weird swimsuit competition, and for making you moan, we all good?\""
     mct "\"Scusa per quella gara di costumi da bagno super strana, e per averti fatto gemere, siamo a posto?\""
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:10
-translate italian sm1cs_my005_295bbea7:
-
-    # mct "..."
-    mct "..."
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:13
 translate italian sm1cs_my005_3ee70d34:
 
     # mct "Man, sometimes Stacy really helps me out."
     mct "Cavolo, a volte Stacy mi aiuta davvero."
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:14
-translate italian sm1cs_my005_d5055eb9:
-
-    # mct "And sometimes she makes things so.{w} Much.{w} Worse."
-    mct "E a volte peggiora.{w} Di.{w} Tanto le cose."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:17
-translate italian sm1cs_my005_142f527f:
-
-    # mct "Come on, think, [mcname], think... there has to be something you can do."
-    mct "Dai, pensa, [mcname], pensa... ci deve essere qualcosa che puoi fare."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:18
-translate italian sm1cs_my005_295bbea7_1:
-
-    # mct "..."
-    mct "..."
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:21
 translate italian sm1cs_my005_056d5dae:
 
     # mct "Wait! I think I know just the thing!"
     mct "Aspetta! Penso di sapere proprio cosa fare!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:26
-translate italian sm1cs_my005_0f9fc632:
-
-    # mct "Yeah... that'll work! I'll tell her she won the movie and have her come over..."
-    mct "Sì... funzionerà! Le dirò che ha vinto il film e la farò venire qui..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:27
 translate italian sm1cs_my005_e3ed796d:
@@ -69,12 +39,6 @@ translate italian sm1cs_my005_7c1acc5e:
 
     # sy "Why!?!"
     sy "Perché!?!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:35
-translate italian sm1cs_my005_7be52576:
-
-    # mc "Because, it's all a part of the plan!"
-    mc "Perché, fa tutto parte del piano!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:37
 translate italian sm1cs_my005_23f941c8:
@@ -106,12 +70,6 @@ translate italian sm1cs_my005_later_7f10353a:
     # my "Evening, [mcname]!"
     my "Buonasera, [mcname]!"
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:67
-translate italian sm1cs_my005_later_4529c8bf:
-
-    # my "Did you forget to pay your power bill this month?"
-    my "Hai dimenticato di pagare la bolletta della luce questo mese?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:69
 translate italian sm1cs_my005_later_16a63c96:
 
@@ -123,12 +81,6 @@ translate italian sm1cs_my005_later_a27a0810:
 
     # my "Hehehehehe, I'm just kidding, [mcname]."
     my "Hehehehehe, sto solo scherzando, [mcname]."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:73
-translate italian sm1cs_my005_later_521f083c:
-
-    # my "I figured this is all mis-en-scene for this \"movie night\" you're throwing."
-    my "Ho immaginato che sia tutta una messa in scena per questa \"serata cinema\" che stai organizzando."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:76
 translate italian sm1cs_my005_later_2280ee5f:
@@ -160,29 +112,11 @@ translate italian sm1cs_my005_later_b1b64bff:
     # mc "Hey, I'm doing a lot over here!"
     mc "Ehi, sto facendo un sacco di cose qui!"
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:90
-translate italian sm1cs_my005_later_02d6f3be:
-
-    # mc "Look!"
-    mc "Guarda!"
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:92
 translate italian sm1cs_my005_later_9b60aacd:
 
     # my "You... made a bowl of popcorn."
     my "Hai... fatto una ciotola di popcorn."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:95
-translate italian sm1cs_my005_later_e9a28e46:
-
-    # mc "Yeah!"
-    mc "Sì!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:97
-translate italian sm1cs_my005_later_6a021db2:
-
-    # my "You know... that takes about 2 minutes to make, right?"
-    my "Sai... ci vogliono circa 2 minuti per farli, giusto?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:100
 translate italian sm1cs_my005_later_a9ab72d1:
@@ -274,12 +208,6 @@ translate italian sm1cs_my005_later_71883835:
     # my "Then go on, finish your thought!"
     my "Allora continua, finisci il tuo pensiero!"
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:137
-translate italian sm1cs_my005_later_e5758d0c:
-
-    # mc "Thank you!{w} I was also going to say, that there's a romance movie-"
-    mc "Grazie!{w} Stavo anche per dire che c'è un film romantico-"
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:139
 translate italian sm1cs_my005_later_01365cfe:
 
@@ -345,36 +273,6 @@ translate italian sm1cs_my005_later_ea2cb009:
 
     # mc "You came over, and we kind of tossed a lot on you."
     mc "Sei venuta qui, e in un certo senso ti abbiamo buttato addosso un sacco di cose."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:166
-translate italian sm1cs_my005_later_65ac4194:
-
-    # mc "It was unfair of me to do that to you, at least to not warn you that we were doing that."
-    mc "È stato ingiusto da parte mia fartelo, o almeno non avvertirti che stavamo per farlo."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:169
-translate italian sm1cs_my005_later_674df8b1:
-
-    # mc "And... there was a lot I wasn't really prepared for either."
-    mc "E... c'era molto per cui nemmeno io ero davvero preparato."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:172
-translate italian sm1cs_my005_later_9210a116:
-
-    # my "Wow, you're telling me your sister is a little mischievous?"
-    my "Wow, mi stai dicendo che tua sorella è un po' birichina?"
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:174
-translate italian sm1cs_my005_later_b67921e0:
-
-    # my "Wow, you're telling me Stacy is a little mischievous?"
-    my "Wow, mi stai dicendo che Stacy è un po' birichina?"
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:177
-translate italian sm1cs_my005_later_12c37f7c:
-
-    # my "I never would have guessed."
-    my "Non l'avrei mai immaginato."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:179
 translate italian sm1cs_my005_later_95c79610:
@@ -478,12 +376,6 @@ translate italian sm1cs_my005_half_movie_a31340dd:
     # mc "Really?"
     mc "Davvero?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:238
-translate italian sm1cs_my005_half_movie_399c1cc8:
-
-    # my "Please, [mcname]?"
-    my "Per favore, [mcname]?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:240
 translate italian sm1cs_my005_half_movie_24788808:
 
@@ -568,12 +460,6 @@ translate italian sm1cs_my005_half_movie_b6c49741:
     # my "Mmmmmm..."
     my "Mmmmmm..."
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:276
-translate italian sm1cs_my005_half_movie_c12eeeac:
-
-    # mct "Man, she really likes foot massages."
-    mct "Cavolo, le piacciono davvero i massaggi ai piedi."
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:277
 translate italian sm1cs_my005_half_movie_af41823f:
 
@@ -592,23 +478,11 @@ translate italian sm1cs_my005_half_movie_01f6e561:
     # mct "Oh, sounds like things are getting interesting in the movie."
     mct "Oh, sembra che le cose si stiano facendo interessanti nel film."
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:283
-translate italian sm1cs_my005_half_movie_befd533f:
-
-    # mct "I feel like I've missed most of this movie. But this has to be the part where they get together."
-    mct "Mi sembra di essermi perso la maggior parte di questo film. Ma questa deve essere la parte in cui stanno insieme."
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:284
 translate italian sm1cs_my005_half_movie_93fd7b9b:
 
     # "TV" "Kiss me like you've never kissed me before."
     "TV" "Kiss me like you've never kissed me before."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:285
-translate italian sm1cs_my005_half_movie_f66b8b4a:
-
-    # mct "Yep, there it is."
-    mct "Yep, there it is."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:287
 translate italian sm1cs_my005_half_movie_450753ae:
@@ -658,18 +532,6 @@ translate italian sm1cs_my005_half_movie_b401c8cf:
     # mct "There's no way they're going to actually fuck-"
     mct "There's no way they're going to actually fuck-"
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:304
-translate italian sm1cs_my005_half_movie_b2b1b1cc:
-
-    # mct "Holy shit."
-    mct "Holy shit."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:306
-translate italian sm1cs_my005_half_movie_b299f172:
-
-    # mct "They're actually fucking. That's real, live sex in this romance movie."
-    mct "They're actually fucking. That's real, live sex in this romance movie."
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:307
 translate italian sm1cs_my005_half_movie_77431ad1:
 
@@ -712,12 +574,6 @@ translate italian sm1cs_my005_half_movie_83a5afe0:
     # mct "And Mom's feet are right on my dick! Fuck! Fuck, fuck, fuck!"
     mct "And Mom's feet are right on my dick! Fuck! Fuck, fuck, fuck!"
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:323
-translate italian sm1cs_my005_half_movie_3e644419:
-
-    # mct "And Melony's feet are right no my dick! Shit! Shit, shit, shit!"
-    mct "And Melony's feet are right no my dick! Shit! Shit, shit, shit!"
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:326
 translate italian sm1cs_my005_half_movie_b0d66757:
 
@@ -729,12 +585,6 @@ translate italian sm1cs_my005_half_movie_4c89329b:
 
     # mct "Oh God, what the hell do I do know?"
     mct "Oh God, what the hell do I do know?"
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:330
-translate italian sm1cs_my005_half_movie_96d2e9e8:
-
-    # mct "Think, erm, think! Uhhhh, cows! Or something! Anything other than-"
-    mct "Think, erm, think! Uhhhh, cows! Or something! Anything other than-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:334
 translate italian sm1cs_my005_half_movie_be3c77cd:
@@ -808,23 +658,11 @@ translate italian sm1cs_my005_half_movie_7e8283c6:
     # my "Oooouuuuaaaahhhhh..."
     my "Oooouuuuaaaahhhhh..."
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:357
-translate italian sm1cs_my005_half_movie_204dcf6e:
-
-    # mct "Wait. Is she {u}moaning?{/u}"
-    mct "Wait. Is she {u}moaning?{/u}"
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:360
 translate italian sm1cs_my005_half_movie_ccdd1340:
 
     # mct "Holy shit, she is!"
     mct "Holy shit, she is!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:362
-translate italian sm1cs_my005_half_movie_b30b02be:
-
-    # mct "Mom has a foot thing!"
-    mct "Mom has a foot thing!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:364
 translate italian sm1cs_my005_half_movie_66164468:
@@ -837,12 +675,6 @@ translate italian sm1cs_my005_half_movie_a3842e09:
 
     # mct "Oh shit, what... what the hell do I do now?"
     mct "Oh shit, what... what the hell do I do now?"
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:368
-translate italian sm1cs_my005_half_movie_4bc85db1:
-
-    # mct "I really don't want to make this awkward. During the swimsuit contest even the littlest moan made her-"
-    mct "I really don't want to make this awkward. During the swimsuit contest even the littlest moan made her-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:370
 translate italian sm1cs_my005_half_movie_9abafe4a:
@@ -873,12 +705,6 @@ translate italian sm1cs_my005_half_movie_44d90e34:
 
     # mct "Shit, I wish I could change the channel or something."
     mct "Shit, I wish I could change the channel or something."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:381
-translate italian sm1cs_my005_half_movie_7475ea7c:
-
-    # mct "Wait, is she rubbing my dick with her feet?"
-    mct "Wait, is she rubbing my dick with her feet?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:384
 translate italian sm1cs_my005_half_movie_2308c3b4:
@@ -939,12 +765,6 @@ translate italian sm1cs_my005_half_movie_acd3213d:
 
     # my "Oooo... ooooooooooo..."
     my "Oooo... ooooooooooo..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:400
-translate italian sm1cs_my005_half_movie_a94527b1:
-
-    # mct " I have to, ngggggh - remember to bring her to get a pedicure one of these days."
-    mct " I have to, ngggggh - remember to bring her to get a pedicure one of these days."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:401
 translate italian sm1cs_my005_half_movie_cf8dbe94:
@@ -1120,59 +940,17 @@ translate italian sm1cs_my005_after_movie_5d9343f9:
     # my "Oh, I'm sorry. I didn't realize how tired I was."
     my "Oh, I'm sorry. I didn't realize how tired I was."
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:473
-translate italian sm1cs_my005_after_movie_67637199:
-
-    # my "And that foot massage really knocked me out."
-    my "And that foot massage really knocked me out."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:475
-translate italian sm1cs_my005_after_movie_503a51fe:
-
-    # mc "Happy to help. You seem to be doing a lot, I'm glad I could help you relax."
-    mc "Happy to help. You seem to be doing a lot, I'm glad I could help you relax."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:478
-translate italian sm1cs_my005_after_movie_ae0705f1:
-
-    # my "I appreciate it, [mcname]."
-    my "I appreciate it, [mcname]."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:481
-translate italian sm1cs_my005_after_movie_cf617f67:
-
-    # mc "Anything for the winner of our swimsuit competition."
-    mc "Anything for the winner of our swimsuit competition."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:483
-translate italian sm1cs_my005_after_movie_dea8f94e:
-
-    # my "Hehehehehehe. You're so sweet, [mcname]."
-    my "Hehehehehehe. You're so sweet, [mcname]."
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:484
 translate italian sm1cs_my005_after_movie_0eebfc40:
 
     # my "But I am still exhausted. I should get back before I fall asleep on your couch again."
     my "But I am still exhausted. I should get back before I fall asleep on your couch again."
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:488
-translate italian sm1cs_my005_after_movie_68cdaa95:
-
-    # mc "Hey, you're welcome to pass out on our couch any time, Mom."
-    mc "Hey, you're welcome to pass out on our couch any time, Mom."
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:490
 translate italian sm1cs_my005_after_movie_bedbf63c:
 
     # mc "Hey, you're welcome to pass out on our couch any time, Melony."
     mc "Hey, you're welcome to pass out on our couch any time, Melony."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:493
-translate italian sm1cs_my005_after_movie_17504fd4:
-
-    # my "I appreciate that, but I'm an old woman, [mcname]. I need a big soft bed, with a down comforter."
-    my "I appreciate that, but I'm an old woman, [mcname]. I need a big soft bed, with a down comforter."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:494
 translate italian sm1cs_my005_after_movie_e97c69fb:
@@ -1191,18 +969,6 @@ translate italian sm1cs_my005_after_movie_752420a5:
 
     # mc "You're not that old, Melony. You still got it."
     mc "You're not that old, Melony. You still got it."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:503
-translate italian sm1cs_my005_after_movie_a23c8bd9:
-
-    # my "You're too sweet, you silver tongued devil."
-    my "You're too sweet, you silver tongued devil."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:504
-translate italian sm1cs_my005_after_movie_04c49033:
-
-    # my "But I should head out... I'm very, {i}very{/i} happy we got to do this. We should do another movie night soon."
-    my "But I should head out... I'm very, {i}very{/i} happy we got to do this. We should do another movie night soon."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:509
 translate italian sm1cs_my005_after_movie_fe913ab1:
@@ -1257,18 +1023,6 @@ translate italian sm1cs_my005_after_movie_d450cdbc:
 
     # mct "She just walked out the door like nothing happened..."
     mct "She just walked out the door like nothing happened..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:535
-translate italian sm1cs_my005_after_movie_7fa0e350:
-
-    # mct "That must mean things are going well... I need to make our next date a fucking doozy."
-    mct "That must mean things are going well... I need to make our next date a fucking doozy."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:538
-translate italian sm1cs_my005_after_movie_53e36a7c:
-
-    # mct "I think I'm close to... something happening. But who knows exactly what it'll be..."
-    mct "I think I'm close to... something happening. But who knows exactly what it'll be..."
 
 translate italian strings:
 

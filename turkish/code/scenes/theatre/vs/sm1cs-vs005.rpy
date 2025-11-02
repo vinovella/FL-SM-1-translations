@@ -700,12 +700,6 @@ translate turkish sm1cs_vs005_64582890:
     # vs "Okay... *moans* I'll tell you."
     vs "Tamam... *inler* Sana söyleyeceğim."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:406
-translate turkish sm1cs_vs005_9a9e4a57:
-
-    # vs "It's embarassing, but when the alarm went off...{w} I kind of panicked."
-    vs "Utanç verici ama alarm çaldığında...{w} biraz panikledim."
-
 # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:411
 translate turkish sm1cs_vs005_7faf17ba:
 

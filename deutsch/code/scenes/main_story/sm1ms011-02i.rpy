@@ -280,23 +280,11 @@ translate deutsch sm1ms011_02i_9f575af2:
     # sy "Well, it sounds like you'll just have to go on a charm offensive and win her over."
     sy "Nun, es klingt, als müsstest du einfach eine Charmeoffensive starten und sie für dich gewinnen."
 
-# game/code/scenes/main_story/sm1ms011-02i.rpy:107
-translate deutsch sm1ms011_02i_01fc120c:
-
-    # mc "Hahah. we'll see."
-    mc "Haha. Wir werden sehen."
-
 # game/code/scenes/main_story/sm1ms011-02i.rpy:111
 translate deutsch sm1ms011_02i_1e856ea6:
 
     # sy "Mmmhmm. Well, all in all, I'm glad you got the foot in the door."
     sy "Mmmhmm. Nun, alles in allem bin ich froh, dass du den Fuß in die Tür bekommen hast."
-
-# game/code/scenes/main_story/sm1ms011-02i.rpy:112
-translate deutsch sm1ms011_02i_810a22b9:
-
-    # sy "But I'm sure if you want to get one of these actresse to join us, you'll have to get on stage yourself."
-    sy "Aber ich bin mir sicher, wenn du eine dieser Schauspielerinnen dazu bringen willst, sich uns anzuschließen, musst du selbst auf die Bühne gehen."
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:114
 translate deutsch sm1ms011_02i_e0d93906:

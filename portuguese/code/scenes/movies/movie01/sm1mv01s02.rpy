@@ -988,12 +988,6 @@ translate portuguese sm1mv01s02_later_8218548c:
     # sy "Hehe."
     sy "Hehe."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:508
-translate portuguese sm1mv01s02_later_d0ee1c80:
-
-    # mc "I think it's the perfect ouftit for a pirate queen."
-    mc "I think it's the perfect ouftit for a pirate queen."
-
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:510
 translate portuguese sm1mv01s02_later_e1b71c15:
 

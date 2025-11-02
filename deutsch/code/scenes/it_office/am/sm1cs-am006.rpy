@@ -88,12 +88,6 @@ translate deutsch sm1cs_am006_e5a1dd91:
     # am "Haha."
     am "Haha."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:54
-translate deutsch sm1cs_am006_ef01ca54:
-
-    # mc "Isn't the customer always lying?"
-    mc "Lügt der Kunde nicht immer?"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:57
 translate deutsch sm1cs_am006_5671f688:
 
@@ -388,12 +382,6 @@ translate deutsch sm1cs_am006_arcade_5bd7e194:
     # am "*clears throat*"
     am "*räuspert sich*"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:227
-translate deutsch sm1cs_am006_arcade_3a045f0c:
-
-    # am "I know I can be a lot. That's what you're thinking, right?"
-    am "Ich weiß, dass ich manchmal anstrengend sein kann. Das denkst du doch, oder?"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:230
 translate deutsch sm1cs_am006_arcade_d3ecb31c:
 
@@ -418,12 +406,6 @@ translate deutsch sm1cs_am006_arcade_4b9a7996:
     # am "If your shields are up, no one can come aboard and talk to you."
     am "Wenn deine Schutzschilde aktiv sind, kann niemand an Bord kommen und mit dir sprechen."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:238
-translate deutsch sm1cs_am006_arcade_fc17eca6:
-
-    # mc "So. These shields. They're down now?"
-    mc "Also. Diese Schilde. Sind sie jetzt unten?"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:241
 translate deutsch sm1cs_am006_arcade_ca7b10c6:
 
@@ -441,18 +423,6 @@ translate deutsch sm1cs_am006_arcade_1c8acf17:
 
     # am "..."
     am "..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:250
-translate deutsch sm1cs_am006_arcade_f97f119b:
-
-    # am "I'm not that easy, [mcname]."
-    am "Ich bin nicht so leicht zu haben, [mcname]."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:253
-translate deutsch sm1cs_am006_arcade_d66cf936:
-
-    # mc "The last time we were out, you asked me to fuck you in your car."
-    mc "Als wir das letzte Mal unterwegs waren, hast du mich gebeten, dich in deinem Auto zu ficken."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:256
 translate deutsch sm1cs_am006_arcade_f6fc5558:
@@ -508,12 +478,6 @@ translate deutsch sm1cs_am006_arcade_f46b669d:
     # mc "*chuckles*"
     mc "*lacht leise*"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:290
-translate deutsch sm1cs_am006_arcade_9f4b1aa7:
-
-    # mct "I remember this machine. It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
-    mct "Ich erinnere mich an diese Maschine. Es ist einfacher, in die großen Ringe zu werfen, aber die meisten Punkte bekommt man, wenn man den Ball in die kleineren Ringe wirft."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:294
 translate deutsch sm1cs_am006_arcade_4f43ac1a:
 
@@ -526,23 +490,11 @@ translate deutsch sm1cs_am006_arcade_5308db9d:
     # am "We'll go in threes."
     am "Wir gehen auf die drei."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:318
-translate deutsch sm1cs_am006_arcade_3427dd07:
-
-    # am "I'm a little rusty."
-    am "Ich bin ein bisschen eingerostet."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:321
 translate deutsch sm1cs_am006_arcade_a03938bb:
 
     # mc "You know you're supposed to go for the smaller holes."
     mc "Du weißt doch, dass du die kleineren Löcher nehmen sollst."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:324
-translate deutsch sm1cs_am006_arcade_ac3fad90:
-
-    # am "And you know you're never going to see my smaller hole acting like that."
-    am "Und du weißt, dass du mein kleineres Loch niemals so sehen wirst."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:338
 translate deutsch sm1cs_am006_arcade_17639bac:
@@ -562,47 +514,17 @@ translate deutsch sm1cs_am006_arcade_666143da:
     # mc "I think I know the problem."
     mc "Ich glaube, ich weiß, wo das Problem liegt."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:352
-translate deutsch sm1cs_am006_arcade_a3cb1ef6:
-
-    # am "It's gotta be you. When I do this alone, I always score way higher."
-    am "Das musst du sein. Wenn ich das alleine mache, erziele ich immer viel höhere Punktzahlen."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:355
-translate deutsch sm1cs_am006_arcade_66098328:
-
-    # mc "That might be it. Or it's because you're not really letting yourself relax."
-    mc "Das könnte es sein. Oder es liegt daran, dass du dich nicht wirklich entspannst."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:364
-translate deutsch sm1cs_am006_arcade_c75da145:
-
-    # mc "I was watching you. Your body was so stiff and tense."
-    mc "Ich habe dich beobachtet. Dein Körper war so steif und angespannt."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:367
 translate deutsch sm1cs_am006_arcade_9bb62813:
 
     # am "I know how to throw a fucking ball."
     am "Ich weiß, wie man einen verdammten Ball wirft."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:371
-translate deutsch sm1cs_am006_arcade_d7551d98:
-
-    # mc "Yeah, sounds like you're totally relaxed."
-    mc "Ja, klingt, als wärst du total entspannt."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:377
 translate deutsch sm1cs_am006_arcade_8b7ce4f0:
 
     # am "*grumbles* You're just lucky."
     am "*murrt* Du hast einfach Glück."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:380
-translate deutsch sm1cs_am006_arcade_b1eb74bd:
-
-    # mc "Once is lucky. Twice is good."
-    mc "Einmal ist Glück. Zweimal ist gut."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:384
 translate deutsch sm1cs_am006_arcade_c654b893:
@@ -628,23 +550,11 @@ translate deutsch sm1cs_am006_arcade_4af71457:
     # mc "You going to tell me the last time you lowered your shields?"
     mc "Willst du mir erzählen, wann du das letzte Mal deine Schutzschilde gesenkt hast?"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:402
-translate deutsch sm1cs_am006_arcade_b426e714:
-
-    # am "No way. Best two out of three."
-    am "Auf keinen Fall. Zwei von drei."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:434
 translate deutsch sm1cs_am006_arcade_c1e7f53c:
 
     # mc "Damn."
     mc "Verdammt."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:439
-translate deutsch sm1cs_am006_arcade_86e51696:
-
-    # am "Yes! Wooh. She shoots, she scores!"
-    am "Ja! Juhu! Sie schießt, sie trifft!"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:440
 translate deutsch sm1cs_am006_arcade_6025dd85:
@@ -658,12 +568,6 @@ translate deutsch sm1cs_am006_arcade_e682b87a:
     # am "You like that?"
     am "Gefällt dir das?"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:448
-translate deutsch sm1cs_am006_arcade_292e3b29:
-
-    # am "In your face! In your stupid handsome face!"
-    am "In dein Gesicht! In dein dummes, hübsches Gesicht!"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:451
 translate deutsch sm1cs_am006_arcade_ebaaa585:
 
@@ -675,12 +579,6 @@ translate deutsch sm1cs_am006_arcade_6fc685b2:
 
     # mc "Having fun?"
     mc "Hast du Spaß?"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:457
-translate deutsch sm1cs_am006_arcade_f224e2d1:
-
-    # am "Oh yeah. Forget I said anything."
-    am "Ach ja. Vergiss, dass ich etwas gesagt habe."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:460
 translate deutsch sm1cs_am006_arcade_c409f6a1:
@@ -730,12 +628,6 @@ translate deutsch sm1cs_am006_arcade_f46b669d_1:
     # mc "*chuckles*"
     mc "*lacht leise*"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:491
-translate deutsch sm1cs_am006_arcade_ba5353b8:
-
-    # mc "So spill it. When was the last time you let your shields down?"
-    mc "Also raus damit. Wann hast du das letzte Mal deine Schutzmauer fallen lassen?"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:494
 translate deutsch sm1cs_am006_arcade_fb2050be:
 
@@ -760,36 +652,6 @@ translate deutsch sm1cs_am006_arcade_48643627:
     # am "I... I don't really remember."
     am "Ich... Ich erinnere mich nicht wirklich."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:511
-translate deutsch sm1cs_am006_arcade_467b5add:
-
-    # mc "Okay liar."
-    mc "Okay, Lügnerin."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:514
-translate deutsch sm1cs_am006_arcade_72bac36e:
-
-    # am "I'm not a liar. I... I really mean it, [mcname]."
-    am "Ich bin keine Lügnerin. Ich... Ich meine es wirklich ernst, [mcname]."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:515
-translate deutsch sm1cs_am006_arcade_c1253295:
-
-    # am "It's probably been years."
-    am "Es ist schon Jahre her."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:518
-translate deutsch sm1cs_am006_arcade_4a514cd2:
-
-    # am "When I started getting really good at coding, a lot of guys {i}changed{/i} how they acted toward me."
-    am "Als ich anfing, wirklich gut im Programmieren zu werden, änderten viele Leute ihr Verhalten mir gegenüber."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:519
-translate deutsch sm1cs_am006_arcade_bc06e96c:
-
-    # am "Or worse. Some friends I'd known for years turned into super assholes."
-    am "Oder noch schlimmer. Einige Freunde, die ich seit Jahren kannte, wurden zu absoluten Arschlöchern."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:527
 translate deutsch sm1cs_am006_arcade_9d96222d:
 
@@ -801,18 +663,6 @@ translate deutsch sm1cs_am006_arcade_a490bba1:
 
     # am "It wasn't enough to destroy them with my code and just being better than them."
     am "Es reichte nicht aus, sie mit meinem Code zu vernichten und einfach besser zu sein als sie."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:540
-translate deutsch sm1cs_am006_arcade_9bb599a4:
-
-    # am "I had to break them with my words. Or at least get them to leave me the hell alone."
-    am "Ich musste sie mit meinen Worten brechen. Oder sie zumindest dazu bringen, mich in Ruhe zu lassen."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:543
-translate deutsch sm1cs_am006_arcade_92a22754:
-
-    # mc "Is that why you treat Anna like you do? Because she got the promotion and is now above you?"
-    mc "Behandelst du Anna deshalb so, wie du es tust? Weil sie befördert wurde und jetzt über dir steht?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:546
 translate deutsch sm1cs_am006_arcade_dd5f61ea:
@@ -838,29 +688,11 @@ translate deutsch sm1cs_am006_arcade_8410e8c3:
     # am "I don't know why I'm talking to you about this stuff."
     am "Ich weiß nicht, warum ich mit dir über diese Dinge rede."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:556
-translate deutsch sm1cs_am006_arcade_544a9504:
-
-    # mc "Maybe because I'm the first non-asshole who saw the real you? Underneath the barbs."
-    mc "Vielleicht, weil ich das erste Nicht-Arschloch bin, das dein wahres Ich gesehen hat? Unter all den Stacheln."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:557
 translate deutsch sm1cs_am006_arcade_77ff2085:
 
     # mc "You're like a cute porcupine."
     mc "Du bist wie ein süßes Stachelschwein."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:560
-translate deutsch sm1cs_am006_arcade_4e623dfd:
-
-    # am "Hmmph. Maybe you're onto something."
-    am "Hm. Vielleicht bist du da auf etwas gestoßen."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:561
-translate deutsch sm1cs_am006_arcade_c4a11646:
-
-    # am "But I think it's just that I have a crush on you. And one day, it will wear off."
-    am "Aber ich glaube, ich bin einfach nur in dich verliebt. Und eines Tages wird das wieder vergehen."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:567
 translate deutsch sm1cs_am006_arcade_c183e4f5:
@@ -873,12 +705,6 @@ translate deutsch sm1cs_am006_arcade_372ed858:
 
     # am "You... really mean that?"
     am "Du... meinst das wirklich ernst?"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:573
-translate deutsch sm1cs_am006_arcade_7b4325ae:
-
-    # mc "I do. Maybe we can test things out again."
-    mc "Ja, das tue ich. Vielleicht können wir es noch einmal versuchen."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:576
 translate deutsch sm1cs_am006_arcade_9af134a8:
@@ -970,12 +796,6 @@ translate deutsch sm1cs_am006_arcade_96580cbd:
     # am "Wait!"
     am "Warte!"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:619
-translate deutsch sm1cs_am006_arcade_a1bbe86b:
-
-    # mc "Okay, okay. We don't have to-"
-    mc "Okay, okay. Wir müssen nicht..."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:623
 translate deutsch sm1cs_am006_arcade_ee6128e5:
 
@@ -1011,12 +831,6 @@ translate deutsch sm1cs_am006_arcade_e32ab0a4:
 
     # am "Mmmmm."
     am "Mmmmm."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:642
-translate deutsch sm1cs_am006_arcade_d206c2fd:
-
-    # mct "Woah. She's... she's really into this."
-    mct "Wow. Sie... sie steht wirklich darauf."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:645
 translate deutsch sm1cs_am006_arcade_c42b05ac:
@@ -1054,12 +868,6 @@ translate deutsch sm1cs_am006_arcade_43393439:
     # mc "Did you?"
     mc "Bist du?"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:661
-translate deutsch sm1cs_am006_arcade_285422b5:
-
-    # am "What? No. Of course I didn't. Shut up."
-    am "Was? Nein. Natürlich nicht. Halt die Klappe."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:664
 translate deutsch sm1cs_am006_arcade_6e779a52:
 
@@ -1078,35 +886,17 @@ translate deutsch sm1cs_am006_arcade_5974a2b0:
     # mc "April... It's not just about what I want."
     mc "April... Es geht nicht nur darum, was ich will."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:671
-translate deutsch sm1cs_am006_arcade_732d2098:
-
-    # am "I know. I don't know what's gotten into me."
-    am "Ich weiß. Ich weiß nicht, was in mich gefahren ist."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:672
 translate deutsch sm1cs_am006_arcade_b43108d8:
 
     # am "I hate this. Not being in control. But...{w} when I try to think about stopping this."
     am "Ich hasse das. Nicht die Kontrolle zu haben. Aber...{w} wenn ich darüber nachdenke, damit aufzuhören."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:675
-translate deutsch sm1cs_am006_arcade_1358c39d:
-
-    # am "I hate that thought more."
-    am "Ich hasse diesen Gedanken noch mehr."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:676
 translate deutsch sm1cs_am006_arcade_2b35b6fe_1:
 
     # mc "..."
     mc "..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:679
-translate deutsch sm1cs_am006_arcade_51de11e4:
-
-    # mc "So what happens now."
-    mc "Was passiert nun?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:682
 translate deutsch sm1cs_am006_arcade_312ca60f:
@@ -1119,18 +909,6 @@ translate deutsch sm1cs_am006_arcade_4fce75df:
 
     # am "And... I... I ended up having a good time on our date, [mcname]."
     am "Und... ich... ich hatte letztendlich viel Spaß bei unserem Date, [mcname]."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:684
-translate deutsch sm1cs_am006_arcade_07abde05:
-
-    # am "You were right, this was a good idea."
-    am "Du hattest Recht, das war eine gute Idee."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:685
-translate deutsch sm1cs_am006_arcade_e99f4fca:
-
-    # am "I just. For now, I still need time."
-    am "Ich brauche einfach noch Zeit."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:688
 translate deutsch sm1cs_am006_arcade_6857bc43:

@@ -52,12 +52,6 @@ translate portuguese sm1ms005_02i_db837775:
     # mc "I think we slow it down and have some of that romantic passion."
     mc "Acho que vou dar uma relaxada com um pouquinho de paixão romântica."
 
-# game/code/scenes/main_story/sm1ms005_02i.rpy:43
-translate portuguese sm1ms005_02i_e647c88a:
-
-    # sy "Alright. Lets do it."
-    sy "Beleza. Vamos."
-
 translate portuguese strings:
 
     # game/code/scenes/main_story/sm1ms005_02i.rpy:13

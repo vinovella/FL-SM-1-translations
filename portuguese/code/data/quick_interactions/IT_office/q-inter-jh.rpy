@@ -124,9 +124,3 @@ translate portuguese q_inter_jh_5_11809067:
     # mc "Which ones?"
     mc "Quais?"
 
-# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:71
-translate portuguese q_inter_jh_5_0b36c9e9:
-
-    # jh "A Castle of Thistle and Orchids. Anna turned me on to them."
-    jh "Um castelo de Cardos e Orquídeas. A Anna que me recomendou."
-

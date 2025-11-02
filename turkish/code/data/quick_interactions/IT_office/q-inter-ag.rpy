@@ -58,12 +58,6 @@ translate turkish q_inter_ag_4_44962b02:
     # ag "Huh? Oh. Nothing. I uh ... I kind of stayed up late playing a game."
     ag "Ha? Ah. Bir şey yok... Gece geç saate kadar oyun oynadım da."
 
-# game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:59
-translate turkish q_inter_ag_4_08f17d14:
-
-    # ag "I defnintely shouldn't have had that extra energy drink."
-    ag "Kesinlikle o ekstra enerji içeceğini içmemeliydim."
-
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:66
 translate turkish q_inter_ag_5_6267fff3:
 
@@ -99,12 +93,6 @@ translate turkish q_inter_ag_7_4a1565c6:
 
     # mc "Not too bad. How about you."
     mc "Fena değil. Ya sen?"
-
-# game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:85
-translate turkish q_inter_ag_7_df2dddfd:
-
-    # ag "Great. I finished my book, 'The Mask of Morraco last night."
-    ag "Harika. Dün gece 'The Mask of Morraco' kitabını bitirdim."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:86
 translate turkish q_inter_ag_7_c6a3e40d:
@@ -262,12 +250,6 @@ translate turkish q_inter_ag_16_6c504cef:
     # ag "Awesome!"
     ag "Harika!"
 
-# game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:174
-translate turkish q_inter_ag_17_8fc3f4a6:
-
-    # ag "You know, Ridley makes a pretty margharita."
-    ag "Biliyor musun, Ridley çok güzel margarita yapıyor."
-
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:175
 translate turkish q_inter_ag_17_cea800f6:
 
@@ -291,12 +273,6 @@ translate turkish q_inter_ag_18_fbdc9484:
 
     # ag "It's good."
     ag "İyi gidiyor."
-
-# game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:188
-translate turkish q_inter_ag_18_93071ec1:
-
-    # mc "Going to be working at the coffee shop for awhile?"
-    mc "Bir süre kahve dükkânında mı çalışacaksın?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:190
 translate turkish q_inter_ag_18_b714cbc4:

@@ -172,12 +172,6 @@ translate portuguese sm1cs_ag001_8ff28f75:
     # mj "Thanks. But we actually have a small problem, Anna."
     mj "Obrigada. Falando nisso, temos um pequeno problema, Anna."
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:106
-translate portuguese sm1cs_ag001_c20e21ba:
-
-    # mj "My team managed to nail down that analytics error that was a real thorn in our butts.. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
-    mj "O meu time conseguiu pegar aquele erro na análise que estava chutando as nossas bundas. E agora o Jayden diz que os alertas do teste de capacidade estão apitando quando estamos a quinze por cento de capacidade."
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:109
 translate portuguese sm1cs_ag001_2769889a:
 
@@ -376,41 +370,11 @@ translate portuguese sm1cs_ag001_2750285d_1:
     # mct "Deep. Wet. Undercover."
     mct "Fundo. Molhadinha. Infiltrada."
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:234
-translate portuguese sm1cs_ag001_0b374835:
-
-    # mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club"
-    mct "A história de Eva Kingsley, infiltrando no picante clube Marquis."
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:235
 translate portuguese sm1cs_ag001_c1d0d7a8:
 
     # mct "Will our hero be able to keep her resolve as she descends into a world of humiliation and debauchery?"
     mct "Será que a nossa heroína conseguirá manter a sua força de vontade caindo em um mundo de humilhação e luxúria?"
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:238
-translate portuguese sm1cs_ag001_87f92112:
-
-    # mct "This certainly deserves an Adults Only rating"
-    mct "Isso certamente merece classificação pra Maiores de 18."
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
-translate portuguese sm1cs_ag001_e4b9a970:
-
-    # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down"
-    mct "Baseado nisso, acho que a Anna estaria interessada no Fetish Locator se não tivesse sido fechado."
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:243
-translate portuguese sm1cs_ag001_5eea3769:
-
-    # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\""
-    mct "Eu não devia ter olhado. Agora eu sei que ela é safadinha, mas não posso chegar nela e falar \"hein, fiquei sabendo que você gosta de pornô com humilhação\"."
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:246
-translate portuguese sm1cs_ag001_5d47ee66:
-
-    # mc "Oh cool, they're making a movie based on the book"
-    mc "Ah, legal, vai sair um filme baseado no livro."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:249
 translate portuguese sm1cs_ag001_f10be5b0:
@@ -652,12 +616,6 @@ translate portuguese sm1cs_ag001_continue_0f22d93c:
     # ag "I'd like to say she grows on you, but we've worked together a while and I think that would be a lie, hahah."
     ag "Queria dizer que vai melhorar, mas já tem um tempo que a gente trabalha junto e acho que seria uma mentira, haha."
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:398
-translate portuguese sm1cs_ag001_continue_34bad08b:
-
-    # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Worts and all."
-    ag "Mas ela provavelmente é a melhor programadora em Crowning, e é um privilégio ter ela no time. Mesmo com os problemas."
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:401
 translate portuguese sm1cs_ag001_continue_7a22d199:
 
@@ -693,12 +651,6 @@ translate portuguese sm1cs_ag001_continue_e6d20dfe:
 
     # ag "I know you just joined up but I should warn you that I might have to ride you extra hard over the next couple of months."
     ag "Eu sei que acabou de entrar, mas já vou te avisando que talvez eu tenha que abusar um pouco de você nos próximos meses."
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
-translate portuguese sm1cs_ag001_continue_657f6911:
-
-    # mct "Oh I don't think either of us would mind that, Anna"
-    mct "Ah, Anna, acho que nenhum de nós acharia isso ruim."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:421
 translate portuguese sm1cs_ag001_continue_cd952fa6:

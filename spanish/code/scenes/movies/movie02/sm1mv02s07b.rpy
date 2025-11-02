@@ -1096,12 +1096,6 @@ translate spanish sm1mv02s07b_d2dcc8a5:
     # mc "And I'll have some fun back here."
     mc "And I'll have some fun back here."
 
-# game/code/scenes/movies/movie02/sm1mv02s07b.rpy:544
-translate spanish sm1mv02s07b_b0ab3d19:
-
-    # ns "*giggles* It will be like a Nari sandwhich."
-    ns "*giggles* It will be like a Nari sandwhich."
-
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:545
 translate spanish sm1mv02s07b_6dd6e6a2:
 

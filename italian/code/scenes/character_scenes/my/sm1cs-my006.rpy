@@ -130,12 +130,6 @@ translate italian sm1cs_my006_da9a4c95:
     # mc "But, before we go..."
     mc "But, before we go..."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:69
-translate italian sm1cs_my006_b01d99ba:
-
-    # mc "What kind of a gentleman would I be, if I didn't offer you my arm!"
-    mc "What kind of a gentleman would I be, if I didn't offer you my arm!"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:71
 translate italian sm1cs_my006_86ebe157:
 
@@ -183,12 +177,6 @@ translate italian sm1cs_my006_hotel_room_cf7af754:
 
     # my "Hehehehehehe!"
     my "Hehehehehehe!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:122
-translate italian sm1cs_my006_hotel_room_a719e1d1:
-
-    # my "I will say though, my ranking from best to worse is 5-4-6-3-1-2."
-    my "I will say though, my ranking from best to worse is 5-4-6-3-1-2."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:124
 translate italian sm1cs_my006_hotel_room_ee7f1e17:
@@ -256,18 +244,6 @@ translate italian sm1cs_my006_hotel_room_f49fff8f:
     # mc "Yeah?"
     mc "Yeah?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:152
-translate italian sm1cs_my006_hotel_room_d374e4ce:
-
-    # my "I want to say thank you. Thank you for talking to me, and getting to know me better."
-    my "I want to say thank you. Thank you for talking to me, and getting to know me better."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:153
-translate italian sm1cs_my006_hotel_room_2f6dfb74:
-
-    # my "For taking me on all of these wonderful dates, and for making me laugh. I..."
-    my "For taking me on all of these wonderful dates, and for making me laugh. I..."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:155
 translate italian sm1cs_my006_hotel_room_fc645303:
 
@@ -304,41 +280,17 @@ translate italian sm1cs_my006_hotel_room_b4bc3679:
     # my "Shhh, don't say anything [mcname]. Don't let me think about what I'm doing too hard."
     my "Shhh, don't say anything [mcname]. Don't let me think about what I'm doing too hard."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:182
-translate italian sm1cs_my006_hotel_room_ef7c6baf:
-
-    # my "You have been incredible to me. You've treated me with so much love and respect, and I..."
-    my "You have been incredible to me. You've treated me with so much love and respect, and I..."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:185
 translate italian sm1cs_my006_hotel_room_fdb5c0b4:
 
     # my "And I want this. Right now, I want {i}this{/i}. I want {i}you{/i}."
     my "And I want this. Right now, I want {i}this{/i}. I want {i}you{/i}."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:186
-translate italian sm1cs_my006_hotel_room_f52a9cc3:
-
-    # my "So, please, shut up and let me have this."
-    my "So, please, shut up and let me have this."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:189
-translate italian sm1cs_my006_hotel_room_a49ed4f8:
-
-    # mc "Okay."
-    mc "Okay."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:197
 translate italian sm1cs_my006_hotel_room_e27ca596:
 
     # mc "Wait, what are you-"
     mc "Wait, what are you-"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:199
-translate italian sm1cs_my006_hotel_room_5d6a4f76:
-
-    # my "What did I say about shutting up?"
-    my "What did I say about shutting up?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:202
 translate italian sm1cs_my006_hotel_room_604f3eaa:
@@ -442,24 +394,6 @@ translate italian sm1cs_my006_hotel_room_09fa23af:
     # mct "She's really going for it!"
     mct "She's really going for it!"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:248
-translate italian sm1cs_my006_hotel_room_c657a9d8:
-
-    # mct "Stacy is never going to believe this..."
-    mct "Stacy is never going to believe this..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:250
-translate italian sm1cs_my006_hotel_room_a2c3a61d:
-
-    # mct "And she's really not going to believe how good Mom is at giving a blowjob."
-    mct "And she's really not going to believe how good Mom is at giving a blowjob."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:252
-translate italian sm1cs_my006_hotel_room_f7de7dcc:
-
-    # mct "And she's really not going to believe how good Melony is at giving a blowjob."
-    mct "And she's really not going to believe how good Melony is at giving a blowjob."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:254
 translate italian sm1cs_my006_hotel_room_1c3451f9:
 
@@ -562,12 +496,6 @@ translate italian sm1cs_my006_hotel_room_d5fc3778:
     # my "Because I want you - hell, I {i}need{/i} you."
     my "Because I want you - hell, I {i}need{/i} you."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:291
-translate italian sm1cs_my006_hotel_room_e0c7a80f:
-
-    # my "I need you to fuck me... I need to feel your cock inside of me..."
-    my "I need you to fuck me... I need to feel your cock inside of me..."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:294
 translate italian sm1cs_my006_hotel_room_fdc1ba9a:
 
@@ -591,30 +519,6 @@ translate italian sm1cs_my006_hotel_room_10eb9844:
 
     # my "I don't know, you were always a wild child, [mcname]."
     my "I don't know, you were always a wild child, [mcname]."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:305
-translate italian sm1cs_my006_hotel_room_523229e2:
-
-    # mc "I'm not {i}that{/i} wild."
-    mc "I'm not {i}that{/i} wild."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:308
-translate italian sm1cs_my006_hotel_room_a7fba301:
-
-    # my "God, I hoped not. I've been thinking about this since the bikini competition..."
-    my "God, I hoped not. I've been thinking about this since the bikini competition..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:311
-translate italian sm1cs_my006_hotel_room_e233c7b4:
-
-    # my "Every night... I pictured you, right here, on top of me..."
-    my "Every night... I pictured you, right here, on top of me..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:312
-translate italian sm1cs_my006_hotel_room_2a545088:
-
-    # my "Right after our date..."
-    my "Right after our date..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:315
 translate italian sm1cs_my006_hotel_room_8348af7f:
@@ -700,12 +604,6 @@ translate italian sm1cs_my006_hotel_room_acbc0340:
     # my "Y-yes. I just - nngggghhh - need a minute."
     my "Y-yes. I just - nngggghhh - need a minute."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:352
-translate italian sm1cs_my006_hotel_room_7dc469f7:
-
-    # my "It's been - well, a very {i}long{/i} time since anyone - anything has been inside me."
-    my "It's been - well, a very {i}long{/i} time since anyone - anything has been inside me."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:353
 translate italian sm1cs_my006_hotel_room_5950510c:
 
@@ -724,23 +622,11 @@ translate italian sm1cs_my006_hotel_room_ccd19f5a:
     # my "God...{w} but your cock feels heavenly, [mcname]..."
     my "God...{w} but your cock feels heavenly, [mcname]..."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:360
-translate italian sm1cs_my006_hotel_room_32c6ca22:
-
-    # my "O-okay. Go slow, but - I need to feel your cock thrusting into me."
-    my "O-okay. Go slow, but - I need to feel your cock thrusting into me."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:362
 translate italian sm1cs_my006_hotel_room_1828d914:
 
     # mc "Are you-"
     mc "Are you-"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:365
-translate italian sm1cs_my006_hotel_room_db17e3e2:
-
-    # my "Just fuck me, [mcname], I need you to fuck me, please."
-    my "Just fuck me, [mcname], I need you to fuck me, please."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:368
 translate italian sm1cs_my006_hotel_room_bc0350e9:
@@ -759,12 +645,6 @@ translate italian sm1cs_my006_hotel_room_aa263c7d:
 
     # my "Oh fuck!"
     my "Oh fuck!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:375
-translate italian sm1cs_my006_hotel_room_1828d914_1:
-
-    # mc "Are you-"
-    mc "Are you-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:376
 translate italian sm1cs_my006_hotel_room_8294d61a:
@@ -808,12 +688,6 @@ translate italian sm1cs_my006_hotel_room_683b4fb5:
     # mc "Melony!"
     mc "Melony!"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:387
-translate italian sm1cs_my006_hotel_room_9d36668f:
-
-    # my "Your cock feels soooo goood!"
-    my "Your cock feels soooo goood!"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:388
 translate italian sm1cs_my006_hotel_room_7165c22c:
 
@@ -831,12 +705,6 @@ translate italian sm1cs_my006_hotel_room_b55013ec:
 
     # mc "God, your pussy is clamped around my cock!"
     mc "God, your pussy is clamped around my cock!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:392
-translate italian sm1cs_my006_hotel_room_f126e7c2:
-
-    # mc "This is incredible, and you're so wet!"
-    mc "This is incredible, and you're so wet!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:394
 translate italian sm1cs_my006_hotel_room_12fc6983:
@@ -867,12 +735,6 @@ translate italian sm1cs_my006_hotel_room_b3be27da:
 
     # mc "Fuck - ngggh, it's so tight!"
     mc "Fuck - ngggh, it's so tight!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:401
-translate italian sm1cs_my006_hotel_room_80b57e53:
-
-    # mc "FUck - oh, it feels so good! Shit!"
-    mc "FUck - oh, it feels so good! Shit!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:403
 translate italian sm1cs_my006_hotel_room_34aa8bb7:
@@ -1096,12 +958,6 @@ translate italian sm1cs_my006_hotel_room_9be07848:
     # my "Oh, FUCK, [mcname]!"
     my "Oh, FUCK, [mcname]!"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:488
-translate italian sm1cs_my006_hotel_room_bd0acc47:
-
-    # mc "Shit - your pussy clamped down so fucking hard!"
-    mc "Shit - your pussy clamped down so fucking hard!"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:489
 translate italian sm1cs_my006_hotel_room_7e723529:
 
@@ -1209,12 +1065,6 @@ translate italian sm1cs_my006_hotel_room_31afa867:
 
     # my "I knew it when you were fondling my tits in my swimsuit!"
     my "I knew it when you were fondling my tits in my swimsuit!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:515
-translate italian sm1cs_my006_hotel_room_7fc54cf3:
-
-    # my "And the other night, I could feel your hard, throbbing dick on my feet!"
-    my "And the other night, I could feel your hard, throbbing dick on my feet!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:516
 translate italian sm1cs_my006_hotel_room_b1600c80:
@@ -1714,12 +1564,6 @@ translate italian sm1cs_my006_hotel_room_17c955f7:
     # mc "There's no reason to be bashful now, Mom. I already fucked your brains out."
     mc "There's no reason to be bashful now, Mom. I already fucked your brains out."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:691
-translate italian sm1cs_my006_hotel_room_17c955f7_1:
-
-    # mc "There's no reason to be bashful now, Mom. I already fucked your brains out."
-    mc "There's no reason to be bashful now, Mom. I already fucked your brains out."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:694
 translate italian sm1cs_my006_hotel_room_8289d488:
 
@@ -1863,12 +1707,6 @@ translate italian sm1cs_my006_hotel_room_a7eaaa50:
 
     # mct "Wow... there's still a lot about Melony I don't know..."
     mct "Wow... there's still a lot about Melony I don't know..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:754
-translate italian sm1cs_my006_hotel_room_84f9cd70:
-
-    # mct "Smoking, she's a freak in the sheets..."
-    mct "Smoking, she's a freak in the sheets..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:757
 translate italian sm1cs_my006_hotel_room_f7b2d98b:
@@ -2056,47 +1894,17 @@ translate italian sm1cs_my006_next_morning_f49fff8f:
     # mc "Yeah?"
     mc "Yeah?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:846
-translate italian sm1cs_my006_next_morning_c3376fde:
-
-    # my "You're not... ghosting me, are you?"
-    my "You're not... ghosting me, are you?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:849
 translate italian sm1cs_my006_next_morning_16a63c96:
 
     # mc "What! No!"
     mc "What! No!"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:854
-translate italian sm1cs_my006_next_morning_5be2a97c:
-
-    # mc "Last night was incredible. And I can't wait to do it again. And to learn more about you."
-    mc "Last night was incredible. And I can't wait to do it again. And to learn more about you."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:855
 translate italian sm1cs_my006_next_morning_d00aa485:
 
     # mc "There's still so much I don't know about you, even though you've been around, my whole life."
     mc "There's still so much I don't know about you, even though you've been around, my whole life."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:858
-translate italian sm1cs_my006_next_morning_90e47b2e:
-
-    # mc "I have loved getting to know you as a woman, and I can't wait to learn even more."
-    mc "I have loved getting to know you as a woman, and I can't wait to learn even more."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:859
-translate italian sm1cs_my006_next_morning_72a539ab:
-
-    # mc "And I loved getting to make love to you, and I will absolutely be taking you up on that tit fucking."
-    mc "And I loved getting to make love to you, and I will absolutely be taking you up on that tit fucking."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:862
-translate italian sm1cs_my006_next_morning_0e14c14b:
-
-    # my "You little silver tongued devil, you."
-    my "You little silver tongued devil, you."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:870
 translate italian sm1cs_my006_next_morning_0db29112:
@@ -2182,12 +1990,6 @@ translate italian sm1cs_my006_at_studio_92b55dd0:
     # sy "Still wearing the same clothes from last night-"
     sy "Still wearing the same clothes from last night-"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:923
-translate italian sm1cs_my006_at_studio_4ad9529c:
-
-    # sy "-with bed head you got in a different bed-"
-    sy "-with bed head you got in a different bed-"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:926
 translate italian sm1cs_my006_at_studio_9b8cd6f7:
 
@@ -2229,12 +2031,6 @@ translate italian sm1cs_my006_at_studio_b21267f8:
 
     # mc "I mean, maybe a little bit."
     mc "I mean, maybe a little bit."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:944
-translate italian sm1cs_my006_at_studio_d3736ae1:
-
-    # sy "I'm only mad that you haven't already starting spilling the tea!"
-    sy "I'm only mad that you haven't already starting spilling the tea!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:947
 translate italian sm1cs_my006_at_studio_57060707:
@@ -2337,12 +2133,6 @@ translate italian sm1cs_my006_at_studio_ab41e369:
 
     # sy "Fiiiiiiiiine!"
     sy "Fiiiiiiiiine!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:987
-translate italian sm1cs_my006_at_studio_c44d0c0b:
-
-    # mct "Great, now I'm going to have to do this in stereo."
-    mct "Great, now I'm going to have to do this in stereo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:988
 translate italian sm1cs_my006_at_studio_53082042:

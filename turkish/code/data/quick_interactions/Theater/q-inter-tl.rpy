@@ -82,12 +82,6 @@ translate turkish q_inter_tl_4_a4cd1341:
     # tl "..."
     tl "..."
 
-# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:72
-translate turkish q_inter_tl_5_eb1bbc5d:
-
-    # tl "If i get 8 hours at the other job... And I save, what, half of that paycheck..."
-    tl "Diğer işte 8 saat çalışırsam... Ve maaşın yarısını biriktirirsem..."
-
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:78
 translate turkish q_inter_tl_6_86351105:
 
@@ -219,12 +213,6 @@ translate turkish q_inter_tl_11_f40018c8:
 
     # mc "How have I never heard about this?"
     mc "Bunu nasıl hiç duymadım?"
-
-# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:147
-translate turkish q_inter_tl_11_e81284ee:
-
-    # tl "Don't know. But I'm not surprsied."
-    tl "Bilmiyorum. Ama şaşırmadım."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:153
 translate turkish q_inter_tl_12_b7ab2768:
@@ -435,12 +423,6 @@ translate turkish q_inter_tl_17_d51d4d69:
 
     # tl "And I think it's cool that you can do so much with one character."
     tl "Ve bence tek bir karakterle bu kadar çok şey yapılabilmesi harika."
-
-# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:244
-translate turkish q_inter_tl_17_54713dc4:
-
-    # mc "Huh, I never thuoght about it like that."
-    mc "Hmm, hiç o açıdan düşünmemiştim."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:245
 translate turkish q_inter_tl_17_db029f0f:

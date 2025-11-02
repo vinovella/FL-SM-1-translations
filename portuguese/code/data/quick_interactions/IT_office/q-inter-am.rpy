@@ -382,12 +382,6 @@ translate portuguese q_inter_am_15_aeda5222:
     # am "Yes. You just needed to switch those settings."
     am "Sim. Era só mudar essas configurações."
 
-# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:222
-translate portuguese q_inter_am_15_c1491850:
-
-    # mc "I thought I could make it more effecient."
-    mc "Achei que podia deixar mais eficiente."
-
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:226
 translate portuguese q_inter_am_15_18244209:
 
@@ -603,12 +597,6 @@ translate portuguese q_inter_am_21_93202109:
 
     # am "Really?"
     am "Sério?"
-
-# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:330
-translate portuguese q_inter_am_21_ba0d4547:
-
-    # am "Uh... nevermind. It might be awkward. And you'd just be sitting there."
-    am "Ahm... esquece. Pode ficar estranho. E você só ficaria lá sentado."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:332
 translate portuguese q_inter_am_21_c20a9812:

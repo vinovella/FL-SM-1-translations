@@ -454,12 +454,6 @@ translate deutsch sm1cs_mes005_4d17943c:
     # mc "But you know I'm going to have to get you back."
     mc "Aber du weißt, dass ich dich zurückholen muss."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:240
-translate deutsch sm1cs_mes005_d7a77946:
-
-    # kv "Haha.{w}Looking forward to it, [mcname]."
-    kv "Haha.{w}Ich freue mich darauf, [mcname]."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:245
 translate deutsch sm1cs_mes005_04f74f9a:
 
@@ -909,12 +903,6 @@ translate deutsch sm1cs_mes005_28db3c43:
 
     # mc "No really. I wish we were going to a Fetish Locator party after this."
     mc "Nein, wirklich. Ich wünschte, wir würden danach zu einer Fetish Locator-Party gehen."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:440
-translate deutsch sm1cs_mes005_66d67cb2:
-
-    # mes "Well, then you'll enjoy this ."
-    mes "Nun, dann wird dir das gefallen."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:449
 translate deutsch sm1cs_mes005_0905cec0:

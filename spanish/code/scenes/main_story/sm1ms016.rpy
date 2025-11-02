@@ -826,18 +826,6 @@ translate spanish sm1ms016_b66f79f2:
     # my "I'll swing by tomorrow and check in."
     my "Vendré mañana a ver cómo va."
 
-# game/code/scenes/main_story/sm1ms016.rpy:413
-translate spanish sm1ms016_f02441da:
-
-    # mc "Bye mom."
-    mc "Adiós mamá."
-
-# game/code/scenes/main_story/sm1ms016.rpy:415
-translate spanish sm1ms016_321171ea:
-
-    # sy "Bye mom."
-    sy "Adiós mamá."
-
 # game/code/scenes/main_story/sm1ms016.rpy:417
 translate spanish sm1ms016_a2ebb134:
 

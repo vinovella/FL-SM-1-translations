@@ -22,12 +22,6 @@ translate deutsch sm1cs_am007_f8576f9f:
     # am "Shit, I gotta take this."
     am "Scheiße, ich muss rangehen."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:46
-translate deutsch sm1cs_am007_167c5538:
-
-    # mct "I wonder what the call is about.{w} Seemed important.."
-    mct "Ich frage mich, worum es bei dem Anruf geht.{w} Es schien wichtig zu sein..."
-
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:50
 translate deutsch sm1cs_am007_271f3c49:
 
@@ -159,12 +153,6 @@ translate deutsch sm1cs_am007_5f136771:
 
     # ps "Okay, {i}maybe{/i} you have a point..."
     ps "Okay, {i}vielleicht{/i} hast du recht..."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:114
-translate deutsch sm1cs_am007_e5cab807:
-
-    # ps "We should have listened better and we should accept that sometimes you're going to miss pratice."
-    ps "Wir hätten besser zuhören sollen und wir sollten akzeptieren, dass man manchmal die Proben verpasst."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:117
 translate deutsch sm1cs_am007_4ad97173:
@@ -447,18 +435,6 @@ translate deutsch sm1cs_am007_6ae6f77c:
 
     # am "Just because we are dating, doesn't mean you have to come running to my aid anytime it looks like I'm in trouble."
     am "Nur weil wir zusammen sind, heißt das nicht, dass du mir jedes Mal zu Hilfe eilen musst, wenn es so aussieht, als wäre ich in Schwierigkeiten."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:212
-translate deutsch sm1cs_am007_f02f42d6:
-
-    # am "I work in tech.{w} Every day is a shit sandwhich for breakfast and a anxiety cocktail for lunch."
-    am "Ich arbeite in der Tech-Branche.{w} Jeder Tag ist wie ein Scheißesandwich zum Frühstück und ein Cocktail voller Ängste zum Mittagessen."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:213
-translate deutsch sm1cs_am007_d29f47da:
-
-    # am "And this week has been order on the double-shit sandwhich."
-    am "Und diese Woche war es doppelt so schlimm."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:218
 translate deutsch sm1cs_am007_754afbcb:
@@ -1035,18 +1011,6 @@ translate deutsch sm1cs_am007_20_minutes_later_bc21dd33:
 
     # am "Why not?"
     am "Warum nicht?"
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:530
-translate deutsch sm1cs_am007_20_minutes_later_2e6a0dc6:
-
-    # mc "I have a sudden thrist for a big glass of milk."
-    mc "Ich habe plötzlich Lust auf ein großes Glas Milch."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:533
-translate deutsch sm1cs_am007_20_minutes_later_8443acfc:
-
-    # am "You're here to run.{w} Not oggle my tits."
-    am "Du bist hier, um zu laufen.{w} Nicht, um meine Titten anzustarren."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:536
 translate deutsch sm1cs_am007_20_minutes_later_a65f771d:
@@ -2398,12 +2362,6 @@ translate deutsch sm1cs_am007_one_hour_later_89663c6e:
     # mc "We should try to clean up a little and get our clothes back on."
     mc "Wir sollten versuchen, ein wenig sauber zu machen und uns wieder anzuziehen."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1260
-translate deutsch sm1cs_am007_one_hour_later_832c96b9:
-
-    # mc "Aynone standing near this building might have heard us."
-    mc "Jeder, der in der Nähe dieses Gebäudes stand, könnte uns gehört haben."
-
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1264
 translate deutsch sm1cs_am007_one_hour_later_a2d98c0a_1:
 
@@ -2487,12 +2445,6 @@ translate deutsch sm1cs_am007_one_hour_later_5dc869e4:
 
     # mct "This is why I should stop talking after sex."
     mct "Deshalb sollte ich nach dem Sex nicht mehr reden."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1298
-translate deutsch sm1cs_am007_one_hour_later_dfa05469:
-
-    # mct "I almost said \"at Fetish Locator parties\""
-    mct "Ich hätte fast gesagt \"auf Fetisch-Locator-Partys\""
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1299
 translate deutsch sm1cs_am007_one_hour_later_3eb067d9:
@@ -2583,12 +2535,6 @@ translate deutsch sm1cs_am007_one_hour_later_655bb713:
 
     # mct "I shouldn't have lied to April."
     mct "Ich hätte April nicht anlügen sollen."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1344
-translate deutsch sm1cs_am007_one_hour_later_afbb7fa8:
-
-    # mct "It's a bit screwed up. I shouldn't get invovled with anyone without telling them why I came to Orbix in the first place."
-    mct "Das ist ein bisschen verrückt. Ich sollte mich mit niemandem einlassen, ohne ihr zu sagen, warum ich überhaupt zu Orbix gekommen bin."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1345
 translate deutsch sm1cs_am007_one_hour_later_0c987c56:

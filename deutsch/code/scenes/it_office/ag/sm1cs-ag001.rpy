@@ -172,12 +172,6 @@ translate deutsch sm1cs_ag001_8ff28f75:
     # mj "Thanks. But we actually have a small problem, Anna."
     mj "Danke. Aber wir haben tatsächlich ein kleines Problem, Anna."
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:106
-translate deutsch sm1cs_ag001_c20e21ba:
-
-    # mj "My team managed to nail down that analytics error that was a real thorn in our butts.. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
-    mj "Mein Team hat es geschafft, diesen Analysefehler zu beheben, der uns wirklich auf den Nägeln gebrannt hat. Jetzt sagt Jayden, dass die Stresstest-Warnungen ausgelöst werden, wenn wir bei fünfzehn Prozent Kapazität sind."
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:109
 translate deutsch sm1cs_ag001_2769889a:
 
@@ -376,41 +370,11 @@ translate deutsch sm1cs_ag001_2750285d_1:
     # mct "Deep. Wet. Undercover."
     mct "Tief. Nass. Undercover."
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:234
-translate deutsch sm1cs_ag001_0b374835:
-
-    # mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club"
-    mct "Die Geschichte von Eva Kingsley, die undercover im skandalumwitterten Marquis Club ermittelt."
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:235
 translate deutsch sm1cs_ag001_c1d0d7a8:
 
     # mct "Will our hero be able to keep her resolve as she descends into a world of humiliation and debauchery?"
     mct "Wird unsere Heldin ihre Entschlossenheit bewahren können, wenn sie in eine Welt voller Demütigungen und Ausschweifungen abtaucht?"
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:238
-translate deutsch sm1cs_ag001_87f92112:
-
-    # mct "This certainly deserves an Adults Only rating"
-    mct "Das verdient sicherlich eine Einstufung als „Nur für Erwachsene“."
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
-translate deutsch sm1cs_ag001_e4b9a970:
-
-    # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down"
-    mct "Aus diesem Grund denke ich, dass Anna sich vielleicht für Fetish Locator interessiert hätte, wenn es nicht geschlossen worden wäre."
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:243
-translate deutsch sm1cs_ag001_5eea3769:
-
-    # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\""
-    mct "Ich hätte trotzdem nicht nachschauen sollen. Jetzt weiß ich, dass sie pervers ist, aber ich kann ja nicht einfach zu ihr hingehen und sagen \"Hey, ich habe gehört, dass du auf Demütigungs-Pornos stehst\""
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:246
-translate deutsch sm1cs_ag001_5d47ee66:
-
-    # mc "Oh cool, they're making a movie based on the book"
-    mc "Oh cool, sie drehen einen Film nach dem Buch."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:249
 translate deutsch sm1cs_ag001_f10be5b0:
@@ -652,12 +616,6 @@ translate deutsch sm1cs_ag001_continue_0f22d93c:
     # ag "I'd like to say she grows on you, but we've worked together a while and I think that would be a lie, hahah."
     ag "Ich würde gerne sagen, dass man sich an sie gewöhnt, aber wir arbeiten schon eine Weile zusammen und ich glaube, das wäre eine Lüge, hahah."
 
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:398
-translate deutsch sm1cs_ag001_continue_34bad08b:
-
-    # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Worts and all."
-    ag "Aber sie ist wahrscheinlich die beste Programmiererin in Crowning, und es ist ein Privileg, sie im Team zu haben. Mit all ihren Fehlern und Schwächen."
-
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:401
 translate deutsch sm1cs_ag001_continue_7a22d199:
 
@@ -693,12 +651,6 @@ translate deutsch sm1cs_ag001_continue_e6d20dfe:
 
     # ag "I know you just joined up but I should warn you that I might have to ride you extra hard over the next couple of months."
     ag "Ich weiß, dass du gerade erst angefangen hast, aber ich sollte dich warnen, dass ich dich in den nächsten Monaten möglicherweise besonders hart rannehmen muss."
-
-# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
-translate deutsch sm1cs_ag001_continue_657f6911:
-
-    # mct "Oh I don't think either of us would mind that, Anna"
-    mct "Oh, ich glaube, das würde uns beiden nichts ausmachen, Anna."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:421
 translate deutsch sm1cs_ag001_continue_cd952fa6:

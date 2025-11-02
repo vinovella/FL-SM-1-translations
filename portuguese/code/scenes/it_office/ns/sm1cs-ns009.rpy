@@ -904,12 +904,6 @@ translate portuguese sm1cs_ns009_sex_continue_0145eaba:
     # mc "It's a great view too."
     mc "Coisa linda."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:513
-translate portuguese sm1cs_ns009_sex_continue_d91949c4:
-
-    # ns "*giggles* Don't make feel {i}too{/i} embarassed, [mcname]."
-    ns "*risos* Não me dá vergonha {i}demais{/i}, [mcname]."
-
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
 translate portuguese sm1cs_ns009_sex_continue_b1abdbcc:
 

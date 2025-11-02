@@ -52,12 +52,6 @@ translate portuguese q_inter_my_3_49473dcc:
     # my "And you don't need to. I'm happy to do it."
     my "And you don't need to. I'm happy to do it."
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:53
-translate portuguese q_inter_my_4_0ab36d3b:
-
-    # my "He wants 4 walls in the gallery... and then the other artists wants-"
-    my "He wants 4 walls in the gallery... and then the other artists wants-"
-
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:56
 translate portuguese q_inter_my_4_a70f9d35:
 

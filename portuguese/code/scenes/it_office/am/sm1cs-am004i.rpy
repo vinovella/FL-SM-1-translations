@@ -40,18 +40,6 @@ translate portuguese sm1cs_am004i_6d5df964:
     # mc "Yes, of course, I'm coming. I'm excited to see you rock out."
     mc "Sim, claro que vou. Mal posso esperar pra ver você detonar no palco."
 
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:24
-translate portuguese sm1cs_am004i_ff3a2552:
-
-    # am "Well, don't forget, it's pagon rock. I don't want to hear you whining later."
-    am "Bem, não esquece que é rock pagão. Não quero ouvir reclamação depois."
-
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
-translate portuguese sm1cs_am004i_9cbe2ef6:
-
-    # mc "Woudln't dream of it. See you tonight."
-    mc "Nem sonharia com isso. A gente se vê de noite."
-
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:27
 translate portuguese sm1cs_am004i_6e94d2fc:
 

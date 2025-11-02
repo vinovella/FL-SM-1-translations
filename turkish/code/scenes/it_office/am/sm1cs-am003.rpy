@@ -226,12 +226,6 @@ translate turkish sm1cs_am003_84fb7e61:
     # mc "If you teach me well, I'm sure I'll do great."
     mc "Bana iyi öğretirseniz, eminim ki çok başarılı olurum."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:176
-translate turkish sm1cs_am003_c742b267:
-
-    # am "I am not your teacher, [mcname]. that's not my job."
-    am "Ben senin öğretmenin değilim, [mcname]. Bu benim işim değil."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:177
 translate turkish sm1cs_am003_7c802427:
 
@@ -351,12 +345,6 @@ translate turkish sm1cs_am003_e9721ff3:
 
     # mc "Thank you!"
     mc "Teşekkür ederim!"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:290
-translate turkish sm1cs_am003_ba3fd6b1:
-
-    # mc "Ohe dark roast coffee for the girl who roasts me every day."
-    mc "Her gün beni kavuran kıza koyu kavrulmuş kahve."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:293
 translate turkish sm1cs_am003_20494680:
@@ -604,12 +592,6 @@ translate turkish sm1cs_am003_d3a6be79:
     # am "Well yeah, but you still noticed that line forty-two was the root issue of why the first batch wasn't connecting to the second one."
     am "Evet, ama yine de ilk partinin ikincisine bağlanmamasının temel sorununun kırk ikinci satır olduğunu fark ettin."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:436
-translate turkish sm1cs_am003_02c1f7dd:
-
-    # mc "So I'm a elite-code-monkey now, right?"
-    mc "Yani ben artık elit bir kod maymunuyum, öyle mi?"
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:443
 translate turkish sm1cs_am003_575001ec:
 
@@ -761,124 +743,4 @@ translate turkish strings:
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:159
     old "If you teach me well, I'm sure I'll do great"
     new "Bana iyi öğretirsen, eminim harika iş çıkaracağım."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:23
-translate turkish sm1cs_am003_65d3c1ab:
-
-    # mc "Hey April."
-    mc "Hey April."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:42
-translate turkish sm1cs_am003_9411ee06:
-
-    # am "Humans. We have created all this technology. It can do incredible things."
-    am "İnsanlar. Tüm bu teknolojiyi biz yarattık. İnanılmaz şeyler yapabilir."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:99
-translate turkish sm1cs_am003_ff48ba88:
-
-    # am "Hmmph. Sounds like you wasted your afternoon. I'm fine."
-    am "Hımm. Öğleden sonranı boşa harcamışsın gibi görünüyor. Ben iyiyim."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:111
-translate turkish sm1cs_am003_c44693ed:
-
-    # am "It's bullying to say someone sucks at their job?"
-    am "Birinin işinde başarısız olduğunu söylemek zorbalık mıdır?"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:120
-translate turkish sm1cs_am003_b58f5af6:
-
-    # mct "This girl. It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
-    mct "Bu kız. Anna'nın dediği gibi. Eğer bu kadar iyi olmasaydı, tavrı onu Orbix'ten attırırdı."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:127
-translate turkish sm1cs_am003_fe1864dc:
-
-    # mc "You were right. I didn't come to check on you. I need help with a work problem and this is where you are working now. Simple as that."
-    mc "Haklıymışsın. Seni kontrol etmeye gelmedim. Bir iş sorunuyla ilgili yardıma ihtiyacım var ve şu anda burada çalışıyorsun. Bu kadar basit."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:134
-translate turkish sm1cs_am003_e619f22b:
-
-    # am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
-    am "O çalışma seansından sonra, ben... ya işi bırakacağını ya da ödevlerini en az seviyede yapacağını düşündüm."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:135
-translate turkish sm1cs_am003_7274fced:
-
-    # am "But here you are."
-    am "Ama işte sen buradasın."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:144
-translate turkish sm1cs_am003_7da007d5:
-
-    # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want. Sometimes I stumble, but I never stay on the ground for long."
-    mc "Öyleydin. Ben beceriksiz olabilirim, ama istediğimi elde etmek için inanılmaz derecede çok çalışabilirim. Bazen tökezlerim, ama asla uzun süre yerde kalamam."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:145
-translate turkish sm1cs_am003_37d25850:
-
-    # mc "I didn't study IT at college, but I've always been a fast learner. Teach me, I'm ready to learn at your feet, April."
-    mc "Üniversitede BT eğitimi almadım ama her zaman hızlı öğrenen biri oldum. Bana öğret, ayaklarının dibinde öğrenmeye hazırım, April."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:155
-translate turkish sm1cs_am003_3e875709:
-
-    # am "Despite my better judgment, I'll try to give you some pointers here and there."
-    am "Daha iyi bir yargıya sahip olmama rağmen, sana burada ve orada birkaç ipucu vermeye çalışacağım."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:186
-translate turkish sm1cs_am003_c73287ef:
-
-    # am "Okay. Show me what problems you're having with the website."
-    am "Tamam. Bana web sitesinde ne gibi sorunlar yaşadığınızı gösterin."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:303
-translate turkish sm1cs_am003_905ee756:
-
-    # mct "Ah. That is the spot."
-    mct "Ah. İşte tam da burası."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:365
-translate turkish sm1cs_am003_b689b960:
-
-    # am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
-    am "Evet. Çok fazla şey oluyor. Kararlar... vermemiz gerekiyor. Zor kararlar."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:382
-translate turkish sm1cs_am003_19fb34a9:
-
-    # mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
-    mc "Sanırım sinyallerimizi karıştırdık. Sana bir randevu teklif etmek isteseydim, sana bir randevu teklif ederdim."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:385
-translate turkish sm1cs_am003_28df6c88:
-
-    # am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
-    am "Kesinlikle. Ve sen bana randevu teklif etmezdin, çünkü biliyorsun ki ben senin liginin dışındayım."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:407
-translate turkish sm1cs_am003_06015bec:
-
-    # am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
-    am "Bir sürü pislikle çalıştım ve senin de onlar gibi olacağını düşünmüştüm. Ama sen sadece etrafta oturmuyorsun. Sen-"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:410
-translate turkish sm1cs_am003_407e8a50:
-
-    # mc "Trying to not suck all the time."
-    mc "Her zaman berbat olmamaya çalışıyorum."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:439
-translate turkish sm1cs_am003_caa31988:
-
-    # am "Oh yeah. A future Wozniak."
-    am "Ah evet. Geleceğin Wozniak'ı."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:484
-translate turkish sm1cs_am003_58dc05c7:
-
-    # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
-    am "Harika.{w} Bu bir pagan rock grubu, bu yüzden hazırlıklı olun. Beni... biraz çılgın gibi görebilirsiniz. Ve yüzümde savaş boyası olabilir veya olmayabilir."
 

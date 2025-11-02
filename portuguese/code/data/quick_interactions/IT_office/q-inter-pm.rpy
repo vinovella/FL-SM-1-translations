@@ -40,12 +40,6 @@ translate portuguese q_inter_pm_3_cfd60fb8:
     # mc "Hey, Peter."
     mc "Oi, Peter."
 
-# game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:37
-translate portuguese q_inter_pm_3_0e6e8a48:
-
-    # pm "Hey! [mcname], whose always playing the rock music way too loud over there?"
-    pm "Opa! [mcname], quem que sempre toca música de rock super alto aí?"
-
 # game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:39
 translate portuguese q_inter_pm_3_2f85990b:
 

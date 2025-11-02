@@ -778,12 +778,6 @@ translate turkish sm1fs_t004_workshop_f14028ed:
     # dvh "We are going to do trust falls. If we are to operate as a theater team, we need to trust each other wholly."
     dvh "Güven düşüşleri yapacağız. Bir tiyatro ekibi olarak çalışacaksak, birbirimize tamamen güvenmemiz gerekiyor."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:512
-translate turkish sm1fs_t004_workshop_ea0fb35d:
-
-    # dvh "Veronica, Kelly. Please walk into the center of the circle."
-    dvh "Veronica, Kelly. Lütfen dairenin merkezine doğru yürüyün."
-
 # game/code/scenes/theatre/sm1fs-t004.rpy:515
 translate turkish sm1fs_t004_workshop_63db503b:
 

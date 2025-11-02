@@ -808,12 +808,6 @@ translate deutsch sm1ms025_f248d4d6:
     # mc "I don't want you going all 'Man on Fire' on her."
     mc "Ich will nicht, dass du dich wie in „Man on Fire“ auf sie stürzt."
 
-# game/code/scenes/main_story/sm1ms025.rpy:334
-translate deutsch sm1ms025_2f09f1b6:
-
-    # sy "She stole my zip drive."
-    sy "Sie hat meinen USB Stick gestohlen."
-
 # game/code/scenes/main_story/sm1ms025.rpy:337
 translate deutsch sm1ms025_a0f6fc60:
 

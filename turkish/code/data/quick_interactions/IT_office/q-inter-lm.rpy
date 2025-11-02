@@ -22,12 +22,6 @@ translate turkish q_inter_lm_1_d425daa3:
     # mc "Sure?"
     mc "Tabii?"
 
-# game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:22
-translate turkish q_inter_lm_1_ab01c9f3:
-
-    # lm "Awesome. Their good changes, I just need to know she's doing stuff."
-    lm "Harika. Yaptığı değişiklikler iyi ama ne yaptığını bilmem gerekiyor."
-
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:28
 translate turkish q_inter_lm_2_97eaf931:
 
@@ -45,12 +39,6 @@ translate turkish q_inter_lm_2_9eade80d:
 
     # lm "Great! Claire and I went out to this diner last night and I'm still thinking about it. God, it was good..."
     lm "Harika! Claire’le dün gece bir lokantaya gittik, hâlâ onu düşünüyorum. Tanrım, çok iyiydi..."
-
-# game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:37
-translate turkish q_inter_lm_3_b6e5bab8:
-
-    # lm "Oh, [mcname]. if you see April can you tell her to come see me? I have a doozy of an error I need some help with."
-    lm "Ah, [mcname]. April’ı görürsen onu bana yönlendirebilir misin? Yardıma ihtiyacım olan ciddi bir hata var."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:39
 translate turkish q_inter_lm_3_54ff50e6:

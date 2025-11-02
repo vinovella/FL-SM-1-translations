@@ -76,12 +76,6 @@ translate portuguese sm1cs_sy002_c393ff42:
     # sy "Details, details. We'll figure it out, [mcname]."
     sy "Details, details. We'll figure it out, [mcname]."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:76
-translate portuguese sm1cs_sy002_6936a4b2:
-
-    # mc "It sounds like you've been planning this idea out for awhile, Stacy."
-    mc "It sounds like you've been planning this idea out for awhile, Stacy."
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:79
 translate portuguese sm1cs_sy002_069819a2:
 
@@ -453,12 +447,6 @@ translate portuguese sm1cs_sy002_2_699878f6:
 
     # mc "Hey!"
     mc "Hey!"
-
-# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:266
-translate portuguese sm1cs_sy002_2_2ccc42f5:
-
-    # sy "Nut nevermind that! Lets get into the acting!"
-    sy "Nut nevermind that! Lets get into the acting!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:268
 translate portuguese sm1cs_sy002_2_d75d9db1:

@@ -802,23 +802,11 @@ translate turkish sm1mv02s04_dbd81ba2:
     # ns "Okay."
     ns "Okay."
 
-# game/code/scenes/movies/movie02/sm1mv02s04.rpy:399
-translate turkish sm1mv02s04_35e8edd4:
-
-    # mes "This is all prety impressive."
-    mes "This is all prety impressive."
-
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:400
 translate turkish sm1mv02s04_d93377cb:
 
     # mes "I actually feel like I'm on some space age battleship."
     mes "I actually feel like I'm on some space age battleship."
-
-# game/code/scenes/movies/movie02/sm1mv02s04.rpy:404
-translate turkish sm1mv02s04_bc7311e8:
-
-    # mh "This is all prety impressive."
-    mh "This is all prety impressive."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:405
 translate turkish sm1mv02s04_2e84c070:

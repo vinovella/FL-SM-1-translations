@@ -40,18 +40,6 @@ translate spanish sm1cs_am005_bd5cc34c:
     # mct "Then something switched, and she kicked me out of the car. I thought we were going all the way for sure."
     mct "Entonces algo cambió, y ella me echó del auto. Pensé que íbamos hasta el final."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:34
-translate spanish sm1cs_am005_07845eba:
-
-    # mct "This can't go on. I need to at least get us back on some kind of page. We can't work like this."
-    mct "Esto no puede continuar. Necesito que al menos nos pongamos de acuerdo. No podemos trabajar de esta manera."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:37
-translate spanish sm1cs_am005_65d3c1ab:
-
-    # mc "Hey April."
-    mc "Hola Abril."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:39
 translate spanish sm1cs_am005_0fed480a:
 
@@ -82,12 +70,6 @@ translate spanish sm1cs_am005_f8c981fd:
     # mct "Okay. Message received, April."
     mct "Bueno. Mensaje recibido, Abril."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:77
-translate spanish sm1cs_am005_hours_later_31c9e580:
-
-    # mct "Finally. That's the last ticket for my shit."
-    mct "Por fin. Es el último ticket para mi mierda."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:80
 translate spanish sm1cs_am005_hours_later_e526a903:
 
@@ -105,12 +87,6 @@ translate spanish sm1cs_am005_hours_later_b7e91ea9:
 
     # mct "Why do I feel like she's going to ninja-jump my ass or something?"
     mct "¿Por qué siento que va a saltarme por el culo o algo así?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:95
-translate spanish sm1cs_am005_hours_later_00e95f32:
-
-    # am "Now I can talk. So talk."
-    am "Ahora puedo hablar. Así que habla."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:103
 translate spanish sm1cs_am005_hours_later_7b0f101d:
@@ -142,23 +118,11 @@ translate spanish sm1cs_am005_hours_later_52e80c48:
     # mc "You've been blowing me off all day, and now you want to talk?"
     mc "Me has estado ignorando todo el día, ¿y ahora quieres hablar?"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:117
-translate spanish sm1cs_am005_hours_later_baf13cb7:
-
-    # am "I... yes. I want to talk."
-    am "Yo... si. Quiero hablar."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:120
 translate spanish sm1cs_am005_hours_later_998ba37e:
 
     # am "But you're right, I could have handled things a lot better."
     am "Pero tienes razón, podría haber manejado las cosas mucho mejor."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:121
-translate spanish sm1cs_am005_hours_later_8452c48a:
-
-    # am "So... can we just open up a new doc, [mcname]? Start fresh?"
-    am "Así que... ¿podemos abrir un nuevo documento, [mcname]? ¿Empezar de nuevo?"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:123
 translate spanish sm1cs_am005_hours_later_a49ed4f8:
@@ -202,29 +166,11 @@ translate spanish sm1cs_am005_hours_later_c970342f:
     # am "Yeah, well... Whatever."
     am "Sí, bueno... lo que sea."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:154
-translate spanish sm1cs_am005_hours_later_d3fe4b1b:
-
-    # mct "I should be a little patient with her. She's obviously got something on her mind."
-    mct "Debería ser un poco paciente con ella. Obviamente tiene algo en mente."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:155
 translate spanish sm1cs_am005_hours_later_68bdc5fa:
 
     # mct "What is it? And why is she struggling so much?"
     mct "¿Qué es? ¿Y por qué está luchando tanto?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:158
-translate spanish sm1cs_am005_hours_later_80ee915e:
-
-    # mct "Wait. Was there more going on when we were in her car?"
-    mct "Espera. ¿Pasaba algo más cuando estábamos en su auto?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:159
-translate spanish sm1cs_am005_hours_later_1d1d3df5:
-
-    # mct "Does April have-"
-    mct "¿Abril tiene...?"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:163
 translate spanish sm1cs_am005_hours_later_dcfc613f:
@@ -256,18 +202,6 @@ translate spanish sm1cs_am005_hours_later_8d2b864e:
     # am "The {i}trunk{/i}."
     am "El {i}maletero{/i}."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:175
-translate spanish sm1cs_am005_hours_later_c4077dbc:
-
-    # am "What do you think, idiot? All of it."
-    am "¿Qué crees, idiota? Todo."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:186
-translate spanish sm1cs_am005_sex_1_a74cd018:
-
-    # am "I let my bad impulses take over. My brain wasn't thinking straight."
-    am "Me dejé llevar por mis malos impulsos. Mi cerebro no pensaba con claridad."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:188
 translate spanish sm1cs_am005_sex_1_70d74354:
 
@@ -286,12 +220,6 @@ translate spanish sm1cs_am005_sex_1_e5544801:
     # mc "I get it."
     mc "Lo entiendo."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:198
-translate spanish sm1cs_am005_sex_1_1e01a266:
-
-    # mc "Say no more."
-    mc "No digas más."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:199
 translate spanish sm1cs_am005_sex_1_0e0c320b:
 
@@ -303,12 +231,6 @@ translate spanish sm1cs_am005_sex_1_15ee2653:
 
     # mc "Maybe in the next life."
     mc "Tal vez en la próxima vida."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:203
-translate spanish sm1cs_am005_sex_1_47c34679:
-
-    # am "That's not what I mean."
-    am "Eso no es lo que quiero decir."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:206
 translate spanish sm1cs_am005_sex_1_69da63a3:
@@ -322,12 +244,6 @@ translate spanish sm1cs_am005_sex_1_c9c2e027:
     # mc "What the hell-"
     mc "Qué demonios..."
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:210
-translate spanish sm1cs_am005_sex_1_4a972b58:
-
-    # mc "Care to explain that, April? As you often say, I'm not as sharp as you."
-    mc "¿Te importaría explicarme eso, Abril? Como dices a menudo, no soy tan inteligente como tú."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:213
 translate spanish sm1cs_am005_sex_1_e07a0189:
 
@@ -339,12 +255,6 @@ translate spanish sm1cs_am005_sex_1_460a97ce:
 
     # am "I don't know, something bent in a direction it's not meant to bend."
     am "No sé, algo se dobló en una dirección que no debía doblarse."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:217
-translate spanish sm1cs_am005_sex_1_581443a6:
-
-    # am "And I just, I don't know, I went stupid mode. Basic mode."
-    am "Y yo simplemente, no lo sé, fui al modo estúpido. Modo básico."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:218
 translate spanish sm1cs_am005_sex_1_a4204147:
@@ -375,12 +285,6 @@ translate spanish sm1cs_am005_sex_1_1c8acf17_1:
 
     # am "..."
     am "..."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:229
-translate spanish sm1cs_am005_sex_1_b3c344b0:
-
-    # mc "Text me if you ever figure it out. I got other-"
-    mc "Envíame un mensaje si alguna vez lo averiguas. Tengo otros..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:233
 translate spanish sm1cs_am005_sex_1_cc27a1f7:
@@ -424,12 +328,6 @@ translate spanish sm1cs_am005_sex_1_11455b53:
     # mc "What?"
     mc "¿Qué?"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:262
-translate spanish sm1cs_am005_sex_1_1329a68f:
-
-    # am "I didn't want our first time to be like that."
-    am "No quería que nuestra primera vez fuera así."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:265
 translate spanish sm1cs_am005_sex_1_343269bc:
 
@@ -448,23 +346,11 @@ translate spanish sm1cs_am005_sex_1_b7547a2f:
     # mc "Wait, how long have you been thinking of us do-"
     mc "Espera, ¿cuánto tiempo has estado pensando en nosotros?"
 
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:273
-translate spanish sm1cs_am005_sex_1_72823e2d:
-
-    # am "Shuuuussssssh. Not here."
-    am "Cállate. Aquí no."
-
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:277
 translate spanish sm1cs_am005_sex_1_ea038288:
 
     # mc "How long have you been thinking... about this?"
     mc "¿Cuánto tiempo llevas pensando... en esto?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:279
-translate spanish sm1cs_am005_sex_1_5601eb0e:
-
-    # am "I don't know. Maybe after I invited you to see my band."
-    am "No sé. Tal vez después de invitarte a ver a mi banda."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:280
 translate spanish sm1cs_am005_sex_1_565fb882:
@@ -1035,12 +921,6 @@ translate spanish sm1cs_am005_thumbsup_end_0950ecd7:
 
     # am "Keep up the good work."
     am "Sigue con el buen trabajo."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:599
-translate spanish sm1cs_am005_thumbsup_end_38428ea5:
-
-    # mct "Uh. Did she just really give me a thumb's up?"
-    mct "Uh. ¿De verdad me dio un pulgar hacia arriba?"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:602
 translate spanish sm1cs_am005_thumbsup_end_58ecb03f:

@@ -52,12 +52,6 @@ translate turkish q_inter_my_3_49473dcc:
     # my "And you don't need to. I'm happy to do it."
     my "Gerek yok. Bunu yapmaktan mutluyum."
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:54
-translate turkish q_inter_my_4_0ab36d3b:
-
-    # my "He wants 4 walls in the gallery... and then the other artists wants-"
-    my "Galeride dört duvar istiyor... sonra diğer sanatçılar da-"
-
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:57
 translate turkish q_inter_my_4_a70f9d35:
 

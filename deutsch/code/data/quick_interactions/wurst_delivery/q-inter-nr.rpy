@@ -70,12 +70,6 @@ translate deutsch q_inter_nr_7_2fd44bbc:
     # nr "Always loved a good brat. The heat, the taste. Does miracles for your mood."
     nr "Ich habe schon immer gute Bratwürste geliebt. Die Hitze, der Geschmack. Das wirkt Wunder für die Stimmung."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:80
-translate deutsch q_inter_nr_8_212d12e1:
-
-    # nr "*sniffs* Mmm. Yup, needs a bit more dil before it's ready."
-    nr "*schnüffelt* Mmm. Ja, es muss noch etwas länger ziehen, bevor es fertig ist."
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:86
 translate deutsch q_inter_nr_9_a84c87ac:
 

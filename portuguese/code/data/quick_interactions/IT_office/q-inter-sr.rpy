@@ -88,12 +88,6 @@ translate portuguese q_inter_sr_4_a89f787f:
     # mc "What's wrong, Sienna?"
     mc "O que foi, Sienna?"
 
-# game/code/data/quick_interactions/IT_office/q-inter-sr.rpy:51
-translate portuguese q_inter_sr_4_7f60d36b:
-
-    # sr "We've been getting bombarded with a DDoS all morning. Thank God we had April test the system when we implimented it."
-    sr "A manhã toda estamos sendo bombardeados por DDoS. Graças a Deus que fizemos a April testar o sistema quando implementamos."
-
 # game/code/data/quick_interactions/IT_office/q-inter-sr.rpy:57
 translate portuguese q_inter_sr_5_627912aa:
 

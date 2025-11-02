@@ -628,12 +628,6 @@ translate deutsch sm1mv01s10_e02778a5:
     # mc "I know what you mean."
     mc "I know what you mean."
 
-# game/code/scenes/movies/movie01/sm1mv01s10.rpy:315
-translate deutsch sm1mv01s10_f0902e22:
-
-    # kv "I'm sure once the money comes in we can can start to work on some of these other things, it'll get easier."
-    kv "I'm sure once the money comes in we can can start to work on some of these other things, it'll get easier."
-
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:318
 translate deutsch sm1mv01s10_b29dc19b:
 

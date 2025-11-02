@@ -124,12 +124,6 @@ translate turkish sm1ms004_bd406131:
     # arj "Yeah, and how long until they're broken?"
     arj "Evet, peki ne zaman kırılacaklar?"
 
-# game/code/scenes/main_story/sm1ms004.rpy:69
-translate turkish sm1ms004_38f4d5b9:
-
-    # arj "Nevermind. It doesn't matter."
-    arj "Önemli değil. Önemli değil."
-
 # game/code/scenes/main_story/sm1ms004.rpy:70
 translate turkish sm1ms004_0bc059a3:
 
@@ -364,12 +358,6 @@ translate turkish sm1ms004_0262f624:
     # mc "Well, I guess that ends the tour."
     mc "Sanırım tur burada sona erdi."
 
-# game/code/scenes/main_story/sm1ms004.rpy:171
-translate turkish sm1ms004_a74686a4:
-
-    # mct "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-    mct "Stacy'ye söylersen muhtemelen durumu yumuşatmak istersin. O bu konuda çok iyimser ve ben onun bunu kaybetmesini istemiyorum."
-
 # game/code/scenes/main_story/sm1ms004.rpy:174
 translate turkish sm1ms004_d2195659:
 
@@ -585,12 +573,6 @@ translate turkish sm1ms004_93730c07:
 
     # mct "That was interesting.{w} I feel good - like AmRose is coming back around to liking us."
     mct "Bu ilginçti.{w} Kendimi iyi hissediyorum - sanki AmRose bizi sevmeye başlıyor."
-
-# game/code/scenes/main_story/sm1ms004.rpy:266
-translate turkish sm1ms004_46109a1d:
-
-    # mct "Maybe this isn't completely fucked afterall."
-    mct "Belki de bu tamamen boktan değildir."
 
 # game/code/scenes/main_story/sm1ms004.rpy:268
 translate turkish sm1ms004_fcf11b81:

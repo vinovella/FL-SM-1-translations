@@ -376,12 +376,6 @@ translate portuguese sm1ms014_6a14826e:
     # my "I just hope it's not like [mcname] though, just posted on the internet for anyone to see."
     my "Eu só espero que não seja que nem o [mcname], postadas na internet para qualquer pessoa ver."
 
-# game/code/scenes/main_story/sm1ms014.rpy:186
-translate portuguese sm1ms014_8530affa:
-
-    # sy "Uhm, yeah... no internet nudies of me..."
-    sy "Ah, é... não tem nudes meus na internet..."
-
 # game/code/scenes/main_story/sm1ms014.rpy:190
 translate portuguese sm1ms014_fa381239:
 

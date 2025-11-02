@@ -100,12 +100,6 @@ translate turkish q_inter_vs_4_d3b89ead:
     # vs "You got it."
     vs "Ne demek."
 
-# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:74
-translate turkish q_inter_vs_5_9af441bd:
-
-    # vs "I really hope impress Denise the next time you get to audition, [mcname]."
-    vs "Umarım bir dahaki seçmede Denise'i etkilersin, [mcname]."
-
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:75
 translate turkish q_inter_vs_5_3dcf4902:
 
@@ -136,23 +130,11 @@ translate turkish q_inter_vs_6_edabaf3a:
     # vs "Keep up the good work!"
     vs "İyi çalışmaya devam et!"
 
-# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:92
-translate turkish q_inter_vs_7_1cdd3887:
-
-    # vs "*whipsers* Hey [mcname]."
-    vs "*fısıldar* Hey [mcname]."
-
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:94
 translate turkish q_inter_vs_7_80cd8018:
 
     # mc "*whispers* Hey Veronica. Why are we whispering?"
     mc "*fısıldar* Hey Veronica. Neden fısıldıyoruz?"
-
-# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:95
-translate turkish q_inter_vs_7_2fdd05a9:
-
-    # vs "*whispers* Because it's fun, and becauase you want to keep talk about FL on the downlow right?"
-    vs "*fısıldar* Çünkü eğlenceli ve FL hakkında konuşmamızı gizli tutmak istiyorsun değil mi?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:96
 translate turkish q_inter_vs_7_a4e3fe5c:

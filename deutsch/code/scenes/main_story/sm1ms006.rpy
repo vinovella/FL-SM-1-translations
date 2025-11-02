@@ -208,12 +208,6 @@ translate deutsch sm1ms006_669d5c5f:
     # sy "We really need some better locks."
     sy "Wir brauchen wirklich bessere Schlösser."
 
-# game/code/scenes/main_story/sm1ms006.rpy:180
-translate deutsch sm1ms006_aef6fd4a:
-
-    # mc "I do too. But... AmRose said something kind of interesting."
-    mc "Ich auch. Aber... AmRose hat etwas Interessantes gesagt."
-
 # game/code/scenes/main_story/sm1ms006.rpy:183
 translate deutsch sm1ms006_e14c35d4:
 
@@ -327,12 +321,6 @@ translate deutsch sm1ms006_e501c93a:
 
     # mc "But you lied to me."
     mc "Aber du hast mich angelogen."
-
-# game/code/scenes/main_story/sm1ms006.rpy:238
-translate deutsch sm1ms006_a82624c8:
-
-    # sy "It's not a big deal? I mean you lied about the metric ton of of porn you had hidden under your bed, [mcname]."
-    sy "Das ist keine große Sache? Ich meine, du hast gelogen, was die Tonnen von Pornos angeht, die du unter deinem Bett versteckt hattest, [mcname]."
 
 # game/code/scenes/main_story/sm1ms006.rpy:241
 translate deutsch sm1ms006_6be9eb82:
@@ -675,12 +663,6 @@ translate deutsch sm1ms006_49efd205:
 
     # mct "Even after getting punished, Stacy is still the best."
     mct "Auch nach ihrer Bestrafung ist Stacy immer noch die Beste."
-
-# game/code/scenes/main_story/sm1ms006.rpy:450
-translate deutsch sm1ms006_7016c270:
-
-    # sy "You doing to get dressed?"
-    sy "Ziehst du dich an?"
 
 # game/code/scenes/main_story/sm1ms006.rpy:454
 translate deutsch sm1ms006_ed56daf5:

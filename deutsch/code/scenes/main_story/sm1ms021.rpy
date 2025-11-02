@@ -112,12 +112,6 @@ translate deutsch sm1ms021_7129dea6:
     # mc "Nice."
     mc "Nett."
 
-# game/code/scenes/main_story/sm1ms021.rpy:69
-translate deutsch sm1ms021_e9a1395f:
-
-    # mc "You're talking about me, dick, right?"
-    mc "Du redest von meinem Schwanz, oder?"
-
 # game/code/scenes/main_story/sm1ms021.rpy:73
 translate deutsch sm1ms021_033974e5:
 
@@ -141,12 +135,6 @@ translate deutsch sm1ms021_cf1adef2:
 
     # mc "Yeah."
     mc "Ja."
-
-# game/code/scenes/main_story/sm1ms021.rpy:92
-translate deutsch sm1ms021_3a330c2b:
-
-    # sy "This space... it’s not just a studio anymore. It’s starting to feel like our dream is finally taking shape."
-    sy "Dieser Raum ... ist nicht mehr nur ein Studio. Es fühlt sich langsam so an, als würde unser Traum endlich Gestalt annehmen."
 
 # game/code/scenes/main_story/sm1ms021.rpy:93
 translate deutsch sm1ms021_d21c8f26:
@@ -177,18 +165,6 @@ translate deutsch sm1ms021_6ea38681:
 
     # mc "We did this together, Stacy. Couldn't have done it without you."
     mc "Wir haben das gemeinsam geschafft, Stacy. Ohne dich hätte ich das nicht geschafft."
-
-# game/code/scenes/main_story/sm1ms021.rpy:107
-translate deutsch sm1ms021_03d3460b:
-
-    # sy "Same here. I mean, you’re the one who kept me sane through all of this."
-    sy "Ich auch. Ich meine, du bist derjenige, der mich während dieser ganzen Zeit bei Verstand gehalten hat."
-
-# game/code/scenes/main_story/sm1ms021.rpy:112
-translate deutsch sm1ms021_26fb55b4:
-
-    # sy "And with mom around, it's been just a little bit more hectic."
-    sy "Und mit Mama ist es einfach ein bisschen hektischer geworden."
 
 # game/code/scenes/main_story/sm1ms021.rpy:114
 translate deutsch sm1ms021_28d98971:
@@ -436,41 +412,11 @@ translate deutsch sm1ms021_34bb4a82:
     # sy "Yeah, I guess so."
     sy "Ja, ich denke schon."
 
-# game/code/scenes/main_story/sm1ms021.rpy:217
-translate deutsch sm1ms021_90c7dbb3:
-
-    # sy "I guess so long as the check clears, I’m not complaining."
-    sy "Solange der Scheck gedeckt ist, habe ich nichts zu beanstanden."
-
-# game/code/scenes/main_story/sm1ms021.rpy:218
-translate deutsch sm1ms021_bce7ba08:
-
-    # sy "And now that we’ve got the extra power and space in the studio, this film is going to be even better than the first one."
-    sy "Und jetzt, wo wir im Studio über zusätzliche Leistung und Platz verfügen, wird dieser Film noch besser werden als der erste."
-
-# game/code/scenes/main_story/sm1ms021.rpy:222
-translate deutsch sm1ms021_9fdc7c78:
-
-    # mct "She’s got a point. This is the kind of project that could put us on the map if we nail it."
-    mct "Sie hat recht. Das ist genau die Art von Projekt, die uns bekannt machen könnte, wenn wir es richtig angehen."
-
-# game/code/scenes/main_story/sm1ms021.rpy:226
-translate deutsch sm1ms021_a1f727e3:
-
-    # mc "Alright, let’s start brainstorming then."
-    mc "Okay, dann fangen wir mit dem Brainstorming an."
-
 # game/code/scenes/main_story/sm1ms021.rpy:229
 translate deutsch sm1ms021_4b920476:
 
     # mc "I wonder if we can hang a chain line from the ceiling."
     mc "Ich frage mich, ob wir eine Kette von der Decke hängen können."
-
-# game/code/scenes/main_story/sm1ms021.rpy:232
-translate deutsch sm1ms021_7d5dbe55:
-
-    # sy "Hold on there, Spielberg. We can’t just jump in without a solid plan and, more importantly, without money."
-    sy "Moment mal, Spielberg. Wir können nicht einfach loslegen, ohne einen soliden Plan und, was noch wichtiger ist, ohne Geld."
 
 # game/code/scenes/main_story/sm1ms021.rpy:235
 translate deutsch sm1ms021_1464866a:
@@ -562,12 +508,6 @@ translate deutsch sm1ms021_39685004:
     # sy "Mmmm."
     sy "Mmmm."
 
-# game/code/scenes/main_story/sm1ms021.rpy:282
-translate deutsch sm1ms021_ea88bbcb:
-
-    # mc "Alright, let’s map this out. First, we secure the funding. Then, we finalize the concept for the scene."
-    mc "Okay, lass uns einen Plan erstellen. Zuerst sichern wir die Finanzierung. Dann finalisieren wir das Konzept für die Szene."
-
 # game/code/scenes/main_story/sm1ms021.rpy:283
 translate deutsch sm1ms021_f5480063:
 
@@ -633,12 +573,6 @@ translate deutsch sm1ms021_ae9dcce1:
 
     # mc "Then it's money I'll get. And when I'm through, S&M will have its second film ready to fire people up across the whole city."
     mc "Dann besorge ich das Geld. Und wenn ich fertig bin, wird S&M seinen zweiten Film fertigstellen, der die ganze Stadt in Aufruhr versetzen wird."
-
-# game/code/scenes/main_story/sm1ms021.rpy:312
-translate deutsch sm1ms021_1a9dd79e:
-
-    # mc "Let’s do this. For the studio and for the dream."
-    mc "Lass es uns tun. Für das Studio und für den Traum."
 
 # game/code/scenes/main_story/sm1ms021.rpy:315
 translate deutsch sm1ms021_3829caaa:

@@ -214,12 +214,6 @@ translate turkish sm1ms008_77082a31:
     # kv "I like their taste already."
     kv "Zaten zevklerini beğeniyorum."
 
-# game/code/scenes/main_story/sm1ms008.rpy:140
-translate turkish sm1ms008_dcea2b81:
-
-    # sy "Thre is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-    sy "Son bir istek daha var. Biraz garip. Kızın kızıl saçlı olmasını istiyorlar. Bu yüzden [mcname] bu peruğu aldı."
-
 # game/code/scenes/main_story/sm1ms008.rpy:144
 translate turkish sm1ms008_fe56a94c:
 
@@ -375,12 +369,6 @@ translate turkish sm1ms008_special_e32b4852:
 
     # sy "So much wasted time."
     sy "Çok fazla zaman kaybı."
-
-# game/code/scenes/main_story/sm1ms008.rpy:221
-translate turkish sm1ms008_special_5f718ef7:
-
-    # mc "Well, we're together now. that's the important part."
-    mc "Eh, artık birlikteyiz. Önemli olan bu."
 
 # game/code/scenes/main_story/sm1ms008.rpy:224
 translate turkish sm1ms008_special_5ee8dc16:
@@ -640,12 +628,6 @@ translate turkish sm1ms008_special_489e301c:
     # mc "I just like you with your green hair."
     mc "Ben seni sadece yeşil saçlarınla ​​seviyorum."
 
-# game/code/scenes/main_story/sm1ms008.rpy:380
-translate turkish sm1ms008_after_choice_c3e521fc:
-
-    # kv "Already Stacy, why don't you give me some poses."
-    kv "Stacy, hadi bana birkaç poz ver."
-
 # game/code/scenes/main_story/sm1ms008.rpy:383
 translate turkish sm1ms008_after_choice_5ae8e99b:
 
@@ -699,12 +681,6 @@ translate turkish sm1ms008_after_choice_ffa6d3bc:
 
     # kv "I think the only thing left before we can start rehearsing and filming is getting our hands on the right camera."
     kv "Sanırım provalara ve çekimlere başlamadan önce yapmamız gereken tek şey doğru kamerayı bulmak."
-
-# game/code/scenes/main_story/sm1ms008.rpy:430
-translate turkish sm1ms008_after_choice_147423a9:
-
-    # mc "Wait, don't you have any camera we would ever need, Kanya?"
-    mc "Dur, Kanya, ihtiyacımız olabilecek bir kameran yok mu?"
 
 # game/code/scenes/main_story/sm1ms008.rpy:433
 translate turkish sm1ms008_after_choice_c97b9391:
@@ -766,12 +742,6 @@ translate turkish sm1ms008_after_choice_2cf940ef:
     # kv "You two need to think of this as an investment in the studio's future."
     kv "İkinizin de bunu stüdyonun geleceğine bir yatırım olarak düşünmesi gerekiyor."
 
-# game/code/scenes/main_story/sm1ms008.rpy:455
-translate turkish sm1ms008_after_choice_c425bbc9:
-
-    # sy "I'm thinking about the extra work you'll have to do to get this super camera."
-    sy "Bu süper kamerayı almak için yapman gereken ekstra işi düşünüyorum."
-
 # game/code/scenes/main_story/sm1ms008.rpy:458
 translate turkish sm1ms008_after_choice_3724bdef:
 
@@ -814,12 +784,6 @@ translate turkish sm1ms008_after_choice_25849749:
     # kv "If you can't do something right, don't do it at all."
     kv "Bir şeyi doğru yapamıyorsan, hiç yapma."
 
-# game/code/scenes/main_story/sm1ms008.rpy:482
-translate turkish sm1ms008_after_choice_2bb3b2af:
-
-    # sy "Haha. Good thing that's not, [mcname]'s motto."
-    sy "Haha. İyi ki bu [mcname]'in sloganı değil."
-
 # game/code/scenes/main_story/sm1ms008.rpy:485
 translate turkish sm1ms008_after_choice_669664cb:
 
@@ -849,12 +813,6 @@ translate turkish sm1ms008_after_choice_a69f28cf:
 
     # sy "Once we have it, we'll give you a call to set up a time for filming."
     sy "Elimize ulaştığında, çekim için bir zaman belirlemek üzere sizi arayacağız."
-
-# game/code/scenes/main_story/sm1ms008.rpy:498
-translate turkish sm1ms008_after_choice_e40ff599:
-
-    # kv "Got it, let me give you my number. In case you need to call me."
-    kv "Anladım, sana numaramı vereyim. Beni araman gerekirse diye."
 
 # game/code/scenes/main_story/sm1ms008.rpy:502
 translate turkish sm1ms008_after_choice_531bfbf1:

@@ -1108,12 +1108,6 @@ translate portuguese sm1cs_am004_sex_c27b58ed:
     # am "Don't be a pussy, [mcname]. I like it rough."
     am "Deixa de frescura, [mcname]. Eu gosto de uma violência."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:785
-translate portuguese sm1cs_am004_sex_06e5e165:
-
-    # mc "Listen, I know you're whole thing is just being a bitch to me all the time, but I'm not tring to get my dick bit off."
-    mc "Olha, eu sei que você tem você só gosta de ser grosseira comigo, mas não quero perder o meu pau."
-
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:787
 translate portuguese sm1cs_am004_sex_1c8acf17_1:
 
@@ -1425,12 +1419,6 @@ translate portuguese sm1cs_am004_after_spank_780537f7:
 
     # am "What?"
     am "O quê?"
-
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:973
-translate portuguese sm1cs_am004_after_spank_af0e146a:
-
-    # mc "Come on. you know the {b}word{/b} I'm waiting for."
-    mc "Anda. Você sabe as {b}palavas{/b} que eu quero ouvir."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:978
 translate portuguese sm1cs_am004_after_spank_a790f962:

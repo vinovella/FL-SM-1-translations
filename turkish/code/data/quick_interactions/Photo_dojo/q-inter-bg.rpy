@@ -40,12 +40,6 @@ translate turkish q_inter_bg_3_236d9bf8:
     # bg "Oh, nothing. I just enjoy the feeling of latex."
     bg "Ah, bir şey yok. Sadece lateks hissinden keyif alıyorum."
 
-# game/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy:45
-translate turkish q_inter_bg_4_acd89230:
-
-    # mc "How long can you wear that oufit for?"
-    mc "Bu kıyafeti ne kadar süreyle giyebiliyorsun?"
-
 # game/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy:47
 translate turkish q_inter_bg_4_8c74c33b:
 

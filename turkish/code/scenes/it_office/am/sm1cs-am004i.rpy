@@ -40,18 +40,6 @@ translate turkish sm1cs_am004i_6d5df964:
     # mc "Yes, of course, I'm coming. I'm excited to see you rock out."
     mc "Evet, elbette geliyorum. Senin rock yaptığını görmek ami heyecanlandırıyor."
 
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:24
-translate turkish sm1cs_am004i_ff3a2552:
-
-    # am "Well, don't forget, it's pagon rock. I don't want to hear you whining later."
-    am "Unutma, bu pagon rock. Daha sonra sızlanmanı duymak istemiyorum."
-
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
-translate turkish sm1cs_am004i_9cbe2ef6:
-
-    # mc "Woudln't dream of it. See you tonight."
-    mc "Aklımdan bile geçirmem. Bu gece görüşürüz."
-
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:27
 translate turkish sm1cs_am004i_6e94d2fc:
 

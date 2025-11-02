@@ -28,12 +28,6 @@ translate portuguese sm1cs_am002_220cb3d0:
     # mc "April, you okay?"
     mc "Tudo bem, April?"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:57
-translate portuguese sm1cs_am002_d8baf531:
-
-    # mc "Uh... earth to April."
-    mc "Ah... Terra chamando April."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:60
 translate portuguese sm1cs_am002_ba03ec07:
 
@@ -70,18 +64,6 @@ translate portuguese sm1cs_am002_c9b9b334:
     # ag "Sorry for being sneaky, [mcname]."
     ag "Desculpa por aparecer de fininho, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:78
-translate portuguese sm1cs_am002_b738f380:
-
-    # mc "Totally fine. Gave my heart a workout."
-    mc "De boa. É exercício pro coração."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:81
-translate portuguese sm1cs_am002_ec0ac282:
-
-    # ag "Did she say anything? Did you hear her talking on her phone?"
-    ag "Ela falou alguma coisa? Você ouviu ela falando no telefone?"
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:84
 translate portuguese sm1cs_am002_14b03134:
 
@@ -106,18 +88,6 @@ translate portuguese sm1cs_am002_8cb7e073:
     # mc "Is there a problem?"
     mc "Tem algum problema?"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:96
-translate portuguese sm1cs_am002_87d60ae7:
-
-    # ag "Oh no. Just um... I want to make sure April is not hiding in the bathroom making personal calls on company time."
-    ag "Ah não. É que... eu só queria saber se a April não está se escondendo no banheiro, fazendo ligações no expediente."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:99
-translate portuguese sm1cs_am002_791e0999:
-
-    # mc "Okay... Maybe she was getting texts? She seemed super into her phone."
-    mc "Tá... talvez ela estava recebendo mensagens. Parecia bem focada no celular."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:102
 translate portuguese sm1cs_am002_ebca0e7d:
 
@@ -129,12 +99,6 @@ translate portuguese sm1cs_am002_91ba7775:
 
     # ag "How is she doing on your work for the project?"
     ag "Como que ela está se saindo no projeto?"
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:106
-translate portuguese sm1cs_am002_a1a9e363:
-
-    # mc "Oh really good. She's a natural. And after many attempts, I think I've figured out the best way to how to ask for help without her yelling at me."
-    mc "Ah, indo bem. Ela é talentosa. Depois de muitas tentativas, acho que descobri a melhor maneira de pedir ajuda sem ela gritar comigo."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:109
 translate portuguese sm1cs_am002_e7084851:
@@ -238,12 +202,6 @@ translate portuguese sm1cs_am002_acaba40a:
     # mct "Did April just use the word 'please'?"
     mct "A April falou 'por favor'?"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:167
-translate portuguese sm1cs_am002_f178c726:
-
-    # ag "Tomorrow? No. You were supposed to have those changes to the middleware done today."
-    ag "Amanhã? Não. Você devia ter aquelas alterações no middleware hoje."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:168
 translate portuguese sm1cs_am002_1d114e05:
 
@@ -274,23 +232,11 @@ translate portuguese sm1cs_am002_68e335dc:
     # am "There, you have your answer."
     am "Pronto, aí a sua resposta."
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:185
-translate portuguese sm1cs_am002_5b2e2465:
-
-    # am "Look, it's like I said earlier. It will be ready tomorrow."
-    am "Olha, que nem eu disse antes. Vai ficar pronto amanhã."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:188
 translate portuguese sm1cs_am002_ff6e3ead:
 
     # ag "I don't need to-"
     ag "Eu não preciso-"
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:189
-translate portuguese sm1cs_am002_6755d878:
-
-    # ag "*sighs* April, please just talk to me. This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
-    ag "*suspiro* April, por favor fala comigo. Você não é assim. Digo, é assim mesmo, mas... mesmo com todos os seus insultos e as farpas, você nunca se atrasa tanto."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:193
 translate portuguese sm1cs_am002_5915abe8:
@@ -315,12 +261,6 @@ translate portuguese sm1cs_am002_4ba21ae4:
 
     # am "I've asked every month for those compatibility upgrades but no one gives me a straight answer."
     am "Todo mês eu peço as atualizações de compatibilidade, mas ninguém me responde."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:201
-translate portuguese sm1cs_am002_189f4325:
-
-    # am "You know how fickle middleware can be. And all this squawking from you throws me off my game and sets me back even further."
-    am "Você sabe muito bem como middleware pode ser chato. Esse seu escândalo me desconcentra toda, aí eu me atraso ainda mais."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:204
 translate portuguese sm1cs_am002_59f48bb5:
@@ -532,18 +472,6 @@ translate portuguese sm1cs_am002_1eb5239c:
     # mc "Hah. So April was defending you."
     mc "Haha. Então a April estava te defendendo."
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:311
-translate portuguese sm1cs_am002_32bf65bc:
-
-    # ag "Hahaha, never. She said it was the fastest way to get his attention and didn't think it would knock him out."
-    ag "Hahaha, jamais. Ela disse que era a forma mais rápida de chamar a atenção dele, e não achou que o cara ia desmaiar."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:312
-translate portuguese sm1cs_am002_f19c12d3:
-
-    # ag "That was quite the day."
-    ag "Foi um dia daqueles."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:315
 translate portuguese sm1cs_am002_f25b708f:
 
@@ -567,12 +495,6 @@ translate portuguese sm1cs_am002_bf8549a7:
 
     # mc "Loud and clear."
     mc "Alto e claro."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:323
-translate portuguese sm1cs_am002_812760f1:
-
-    # ag "Thanks [mcname]."
-    ag "Obrigada, [mcname]."
 
 translate portuguese strings:
 

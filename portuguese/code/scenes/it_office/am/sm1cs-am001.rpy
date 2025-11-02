@@ -274,18 +274,6 @@ translate portuguese sm1cs_am001_6eebc0c7:
     # ag "I'm prepared for that. Here is how tonight will go-"
     ag "Eu estou preparada pra isso. Seguinte, a noite vai ser assim-"
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:162
-translate portuguese sm1cs_am001_cefce3d9:
-
-    # mct "Someone sent me a text"
-    mct "Alguém mandou uma mensagem."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:165
-translate portuguese sm1cs_am001_8014a26b:
-
-    # ag "So Megan, I want you to setup our usual make a ticket framework. Once April sets up the foundation we'll plug it right in."
-    ag "Então Megan, eu quero que você monte o nosso framework de ticket de sempre. Assim que a April configurar a base, é só botar lá."
-
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:168
 translate portuguese sm1cs_am001_cf10242a:
 
@@ -418,12 +406,6 @@ translate portuguese sm1cs_am001_c8f830d8:
     # am "Bingo. The best way to show you're a good boss is to be lazy and pass off your work to skilled people."
     am "Isso. O melhor jeito de mostrar que é uma boa chefe é ser preguiçosa e jogar as suas tarefas pro pessoal habilidoso."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:225
-translate portuguese sm1cs_am001_bfa35138:
-
-    # ag "It's called delegation. Now, since there is nothing else, let's get to work.."
-    ag "Isso se chama delegar. Bem, se for só isso, vamos ao trabalho."
-
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:230
 translate portuguese sm1cs_am001_fe43a970:
 
@@ -435,12 +417,6 @@ translate portuguese sm1cs_am001_b3073727:
 
     # mct "I don't think I'm going to get any answers about it tonight. Best to just focus on my work."
     mct "Acho que não vou conseguir uma resposta hoje. Melhor só focar no trabalho mesmo."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:237
-translate portuguese sm1cs_am001_89f0e8f1:
-
-    # mct "Crap. What is my work? I can't ask Anna. I definitely can't ask April. Data. data something."
-    mct "Merda. E qual era o trabalho mesmo? Não posso perguntar a Anna. Com certeza não posso perguntar a April. Dados. Alguma coisa com dados no meio."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:239
 translate portuguese sm1cs_am001_ca9c80ae:
@@ -544,12 +520,6 @@ translate portuguese sm1cs_am001_after_coding_11455b53:
     # mc "What?"
     mc "Que foi?"
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:317
-translate portuguese sm1cs_am001_after_coding_6542cc23:
-
-    # am "Yes, there is a problem. Some Business 101 dropout just fucked my night."
-    am "Sim, tem um problema. Um fracassado de empreendedorismo cagou a minha noite."
-
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:318
 translate portuguese sm1cs_am001_after_coding_b31059d4:
 
@@ -567,24 +537,6 @@ translate portuguese sm1cs_am001_after_coding_faad3556:
 
     # am "{i}You{/i}... were supposed to handle the convertor tools for the old data!"
     am "{i}Você{/i}... devia ter cuidado das ferramentas de conversão pros dados antigos!"
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:330
-translate portuguese sm1cs_am001_after_coding_ad59f37c:
-
-    # mc "Oh. Really. I must have gotten em mixed up. Sorry. I'm sure that kind of things happens all the time."
-    mc "Ah. Sério. Acho que me confundi. Foi mal. Aposto que esse tipo de coisa acontece direto."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:333
-translate portuguese sm1cs_am001_after_coding_5cde476c:
-
-    # am "You dense motherfucker. This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
-    am "Seu bocó arrombado. Aqui é a Orbix, uma das melhores empresas de tecnologia do país. {w}Não do estado,{w} não da cidade."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:336
-translate portuguese sm1cs_am001_after_coding_dc84c055:
-
-    # am "The country. We don't make simple mistakes here. But we do pay for them."
-    am "Do país. Não cometemos erros  simples aqui. Mas pagamos por eles."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:342
 translate portuguese sm1cs_am001_after_coding_c5c45e56:
@@ -604,35 +556,17 @@ translate portuguese sm1cs_am001_after_coding_9289865a:
     # mc "Okay. How do we fix this?"
     mc "Tá. Como que vamos consertar isso?"
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:353
-translate portuguese sm1cs_am001_after_coding_1e29912c:
-
-    # am "You want to fix this?"
-    am "Quer consertar isso?"
-
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:356
 translate portuguese sm1cs_am001_after_coding_f800bed0_1:
 
     # mc "Yes."
     mc "Sim."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:359
-translate portuguese sm1cs_am001_after_coding_4ca6be45:
-
-    # am "Maybe go play in traffic. That might do it."
-    am "Vai brincar no trânsito. Acho que pode dar certo."
-
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:362
 translate portuguese sm1cs_am001_after_coding_54e92e7e:
 
     # mc "Hey, come on. That's not cool."
     mc "Ei, que isso. Isso não foi nada legal."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:365
-translate portuguese sm1cs_am001_after_coding_32e8fed2:
-
-    # am "You're right. You'd probably screw that up too."
-    am "Verdade. Você também faria isso errado."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:368
 translate portuguese sm1cs_am001_after_coding_24b25b0f:
@@ -645,12 +579,6 @@ translate portuguese sm1cs_am001_after_coding_157700e7:
 
     # mc "So what happens now?"
     mc "Então, e agora?"
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:374
-translate portuguese sm1cs_am001_after_coding_093f24d8:
-
-    # am "I fix your fuckup. You're lucky I'm nearly done with my own workload."
-    am "Eu vou consertar essa merda que você fez. Sorte sua que eu quase terminei a minha parte."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:375
 translate portuguese sm1cs_am001_after_coding_d080924b:
@@ -669,12 +597,6 @@ translate portuguese sm1cs_am001_after_coding_1df86a46:
 
     # am "Did I stutter?"
     am "Por acaso eu gaguejei?"
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:384
-translate portuguese sm1cs_am001_after_coding_821a55cb:
-
-    # mc "Right. Desk, going."
-    mc "Certo. Mesa, indo."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:388
 translate portuguese sm1cs_am001_after_coding_8cacade2:
@@ -705,12 +627,6 @@ translate portuguese sm1cs_am001_later_d8b15c09:
 
     # mc "*nervously* You too, Anna. I mean. Have a good night."
     mc "*nervoso* Você também, Anna. Digo. Boa noite."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:416
-translate portuguese sm1cs_am001_later_9aa40e36:
-
-    # am "Smooth."
-    am "Boa."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:419
 translate portuguese sm1cs_am001_later_01268eee:
@@ -747,12 +663,6 @@ translate portuguese sm1cs_am001_later_a385c31a:
 
     # am "Mrraah."
     am "Mrraah."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:442
-translate portuguese sm1cs_am001_later_fa2f0659:
-
-    # am "Huh? Now where did the idiot go?"
-    am "Hã? Cadê o idiota?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:446
 translate portuguese sm1cs_am001_later_669664cb:
@@ -796,29 +706,11 @@ translate portuguese sm1cs_am001_later_cf71effb:
     # am "It's done."
     am "Terminei."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:481
-translate portuguese sm1cs_am001_later_3e05ca8f:
-
-    # am "You got one thing right tonight."
-    am "Você acertou alguma coisa hoje."
-
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:484
 translate portuguese sm1cs_am001_later_a71d0e57:
 
     # mc "Yup. And I... I should have said this earlier, but thanks for not telling Anna about my screwup."
     mc "É. E eu... devia ter falado isso antes, mas obrigado por não ter contado pra Anna da minha cagada."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:487
-translate portuguese sm1cs_am001_later_5c3bb464:
-
-    # am "I was too busy to fink on you. Maybe next time."
-    am "Eu estava ocupada demais pra dedurar. Talvez na próxima."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:488
-translate portuguese sm1cs_am001_later_683393c1:
-
-    # am "But don't count on me covering for you in the future, [mcname]"
-    am "Mas não vai contando comigo pra consertar os seus erros, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:491
 translate portuguese sm1cs_am001_later_42e6dd64:
@@ -826,35 +718,11 @@ translate portuguese sm1cs_am001_later_42e6dd64:
     # mc "I won't."
     mc "Não vou."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:494
-translate portuguese sm1cs_am001_later_f3d3184d:
-
-    # am "I'm dead serious. We have a job to do. Sometimes it's long hours, and that sucks."
-    am "É sério. Temos um trabalho a fazer. Às vezes demora, e isso é uma bosta."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:497
-translate portuguese sm1cs_am001_later_26aa8427:
-
-    # am "But if you're here, and especially if you're working with me, I need your A game."
-    am "Mas quando eu estiver aqui, ainda por cima trabalhando comigo, preciso que se esforce ao máximo."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:498
-translate portuguese sm1cs_am001_later_9da00458:
-
-    # am "Got it?"
-    am "Entendeu?"
-
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:501
 translate portuguese sm1cs_am001_later_9590be1b:
 
     # mc "Loud and clear, April."
     mc "Alto e claro, April."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:511
-translate portuguese sm1cs_am001_later_085c2d38:
-
-    # am "I just texted Anna the good news. Had to rub it in her face that we did it all in one night."
-    am "Mandei uma mensagem pra Anna com as boas notícias. Esfreguei na cara dela que fizemos em uma noite."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:516
 translate portuguese sm1cs_am001_later_ab7fbfff:
@@ -867,18 +735,6 @@ translate portuguese sm1cs_am001_later_3fd0169d:
 
     # am "Psssh. She won't read it. This late, she'll either be nose-down in a book or playing some strat game."
     am "Psssh. Ela nem vai ler. Tarde assim, ela deve ou estar mergulhada num livro, ou jogando algum jogo de estratégia."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:523
-translate portuguese sm1cs_am001_later_1bbf39bb:
-
-    # am "Night loser."
-    am "Boa noite, seu perdedor."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:526
-translate portuguese sm1cs_am001_later_6cba793b:
-
-    # mc "Night April."
-    mc "Boa noite, April."
 
 translate portuguese strings:
 

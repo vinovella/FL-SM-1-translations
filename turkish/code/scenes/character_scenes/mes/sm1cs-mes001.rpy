@@ -154,12 +154,6 @@ translate turkish sm1cs_mes001_fa9b2b83:
     # mc "Min... about Lydia and Fetish Locator—"
     mc "Min... Lydia ve Fetiş Bulucu hakkında—"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:104
-translate turkish sm1cs_mes001_54c51a69:
-
-    # mes "*chuckles wrly* The elephant in the room."
-    mes "*alaycı bir şekilde kıkırdar* Odadaki fil."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:107
 translate turkish sm1cs_mes001_9446a237:
 
@@ -423,12 +417,6 @@ translate turkish sm1cs_mes001_ac32440c:
 
     # mes "So... rumor has it you dropped out, right?"
     mes "Yani... söylentiye göre okulu bırakmışsın, değil mi?"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:220
-translate turkish sm1cs_mes001_8d8790c7:
-
-    # mc "*sheepishily* Guilty as charged. The old business management program just wasn't cutting it for me."
-    mc "*utanarak* Suçluyum. Eski işletme yönetimi programı bana yetmiyordu."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:221
 translate turkish sm1cs_mes001_47a7309b:
@@ -748,12 +736,6 @@ translate turkish sm1cs_mes001_d19c0b1c:
     # mes "My {i}loving{/i} family tried setting me up with a 'nice, respectable' suitor — who does that these days?"
     mes "{i}Sevgi dolu{/i} ailem bana 'iyi, saygın' bir talip ayarlamaya çalıştı. Bunu günümüzde kim yapıyor?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:345
-translate turkish sm1cs_mes001_f2902c14:
-
-    # mc "Are you telling me you almost got an set up for an arranged marriage type date in Korea?"
-    mc "Kore'de ayarlanmış bir evlilik randevusu için neredeyse bir anlaşmaya vardığını mı söylüyorsun?"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:348
 translate turkish sm1cs_mes001_bd02302b:
 
@@ -813,12 +795,6 @@ translate turkish sm1cs_mes001_cd529352:
 
     # mes "Impressive. I just assumed you two were just messing around with a camera in a warehouse."
     mes "Etkileyici. Ben sadece ikinizin bir depoda kamerayla oynadığınızı varsaymıştım."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:369
-translate turkish sm1cs_mes001_197faa78:
-
-    # mc "Hey, we do that to, but we can be serious when we need to be."
-    mc "Biz de aynısını yapıyoruz ama gerektiğinde ciddi de olabiliyoruz."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:371
 translate turkish sm1cs_mes001_c61da560:

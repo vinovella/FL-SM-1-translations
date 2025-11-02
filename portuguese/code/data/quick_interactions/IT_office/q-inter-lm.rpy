@@ -22,12 +22,6 @@ translate portuguese q_inter_lm_1_d425daa3:
     # mc "Sure?"
     mc "Beleza?"
 
-# game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:22
-translate portuguese q_inter_lm_1_ab01c9f3:
-
-    # lm "Awesome. Their good changes, I just need to know she's doing stuff."
-    lm "Ótimo. São boas mudanças, só preciso saber quando ela fizer alguma coisa."
-
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:28
 translate portuguese q_inter_lm_2_97eaf931:
 
@@ -45,12 +39,6 @@ translate portuguese q_inter_lm_2_9eade80d:
 
     # lm "Great! Claire and I went out to this diner last night and I'm still thinking about it. God, it was good..."
     lm "Ótima! Eu e a Claire fomos jantar ontem, ainda estou pensando nisso. Nossa, foi tão bom..."
-
-# game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:37
-translate portuguese q_inter_lm_3_b6e5bab8:
-
-    # lm "Oh, [mcname]. if you see April can you tell her to come see me? I have a doozy of an error I need some help with."
-    lm "Ah, [mcname]. Se vir a April, tem como me avisar pra ela me ver? Tem um mega erro que eu preciso de ajuda."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:39
 translate portuguese q_inter_lm_3_54ff50e6:

@@ -94,12 +94,6 @@ translate deutsch q_inter_en_4_a3aefbf0:
     # mc "Okay, okay. I get it. I'll email you."
     mc "Okay, okay. Ich verstehe. Ich schicke dir eine E-Mail."
 
-# game/code/data/quick_interactions/IT_office/q-inter-en.rpy:57
-translate deutsch q_inter_en_5_087c17a6:
-
-    # mc "How'd your morning going, Eugene?"
-    mc "Wie läuft dein Morgen, Eugene?"
-
 # game/code/data/quick_interactions/IT_office/q-inter-en.rpy:59
 translate deutsch q_inter_en_5_76d6b633:
 

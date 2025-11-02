@@ -472,12 +472,6 @@ translate deutsch sm1fs_t002_dbef676e:
     # sy "Partially..."
     sy "Partially..."
 
-# game/code/scenes/theatre/sm1fs-t002.rpy:303
-translate deutsch sm1fs_t002_63f502f0:
-
-    # tl "So what's your two's story?"
-    tl "So what's your two's story?"
-
 # game/code/scenes/theatre/sm1fs-t002.rpy:305
 translate deutsch sm1fs_t002_6b2e55df:
 
@@ -627,12 +621,6 @@ translate deutsch sm1fs_t002_2ac623c8:
 
     # sy "Well I am more than happy to be your first!"
     sy "Well I am more than happy to be your first!"
-
-# game/code/scenes/theatre/sm1fs-t002.rpy:372
-translate deutsch sm1fs_t002_21f1b495:
-
-    # sy "Lets' get this party started!"
-    sy "Lets' get this party started!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:394
 translate deutsch sm1fs_t002_sex_e4ccea3e:
@@ -861,12 +849,6 @@ translate deutsch sm1fs_t002_sex_df604538:
 
     # tl "Come on, whip it out."
     tl "Come on, whip it out."
-
-# game/code/scenes/theatre/sm1fs-t002.rpy:534
-translate deutsch sm1fs_t002_sex_e9f1f302:
-
-    # tl "Damn. Someone is defintiely not shy."
-    tl "Damn. Someone is defintiely not shy."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:536
 translate deutsch sm1fs_t002_sex_64e8e006:
@@ -1180,12 +1162,6 @@ translate deutsch sm1fs_t002_sex_a88fbee3:
     # tl "Eh, mostly do it because [mcname] will be able to get deeper."
     tl "Eh, mostly do it because [mcname] will be able to get deeper."
 
-# game/code/scenes/theatre/sm1fs-t002.rpy:703
-translate deutsch sm1fs_t002_sex_ae2cb979:
-
-    # mc "LIterally zero complaints from me then."
-    mc "LIterally zero complaints from me then."
-
 # game/code/scenes/theatre/sm1fs-t002.rpy:712
 translate deutsch sm1fs_t002_sex_18c6234a:
 
@@ -1233,12 +1209,6 @@ translate deutsch sm1fs_t002_sex_a6d5255f:
 
     # tl "Well, that's where I'm going. This feels fuh-uhcking great."
     tl "Well, that's where I'm going. This feels fuh-uhcking great."
-
-# game/code/scenes/theatre/sm1fs-t002.rpy:735
-translate deutsch sm1fs_t002_sex_7ea30e17:
-
-    # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. THey want the cinema!"
-    sy "You got to show us, not tell us. Nobody wants the audiobook of porn. THey want the cinema!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:736
 translate deutsch sm1fs_t002_sex_80a80799:

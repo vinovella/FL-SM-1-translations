@@ -586,24 +586,6 @@ translate french sm1cs_ns014_studio_16053267:
     # mct "She is very open-minded but she's bound to ask questions if she comes down for breakfast and there is a full porn movie production in her home."
     mct "She is very open-minded but she's bound to ask questions if she comes down for breakfast and there is a full porn movie production in her home."
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:382
-translate french sm1cs_ns014_studio_82687d68:
-
-    # mc "You’re a natural, Nari."
-    mc "You’re a natural, Nari."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:385
-translate french sm1cs_ns014_studio_1ed11863:
-
-    # ns "Heehee, stop it. I’m shy!"
-    ns "Heehee, stop it. I’m shy!"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:388
-translate french sm1cs_ns014_studio_6c5986ee:
-
-    # sy "Lies! You’re eating this up."
-    sy "Lies! You’re eating this up."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:391
 translate french sm1cs_ns014_studio_5b482089:
 
@@ -748,35 +730,17 @@ translate french sm1cs_ns014_studio_252151bc:
     # ns "Wait—like... porn movies? You're saying that you are going to film porn here?"
     ns "Wait—like... porn movies? You're saying that you are going to film porn here?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:459
-translate french sm1cs_ns014_studio_16934f4b:
-
-    # mc "Yeah. I should’ve told you sooner."
-    mc "Yeah. I should’ve told you sooner."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:462
 translate french sm1cs_ns014_studio_093a0059:
 
     # ns "Oh my god!"
     ns "Oh my god!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:463
-translate french sm1cs_ns014_studio_1090ea49:
-
-    # ns "That’s so wild, [mcname]. So all this camera gear is for... wow."
-    ns "That’s so wild, [mcname]. So all this camera gear is for... wow."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:464
 translate french sm1cs_ns014_studio_626fc7a0:
 
     # ns "All of the decorations make a lot more sense now."
     ns "All of the decorations make a lot more sense now."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:467
-translate french sm1cs_ns014_studio_277f1a2a:
-
-    # mc "I’m sorry for keeping it from you. Can you forgive me?"
-    mc "I’m sorry for keeping it from you. Can you forgive me?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:470
 translate french sm1cs_ns014_studio_00ea30d8:
@@ -1024,12 +988,6 @@ translate french sm1cs_ns014_studio_181bcc42:
     # ns "First. Can I help film too?"
     ns "First. Can I help film too?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:578
-translate french sm1cs_ns014_studio_26fcd2da:
-
-    # mc "Really? You’d want to? As in actually be filmed in scenes with me?"
-    mc "Really? You’d want to? As in actually be filmed in scenes with me?"
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:581
 translate french sm1cs_ns014_studio_92f49a7a:
 
@@ -1084,23 +1042,11 @@ translate french sm1cs_ns014_studio_3653f87d:
     # ns "Is that alright?"
     ns "Is that alright?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:602
-translate french sm1cs_ns014_studio_c88ffcce:
-
-    # mc "Of course. Whatever you’re comfortable with."
-    mc "Of course. Whatever you’re comfortable with."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:606
 translate french sm1cs_ns014_studio_46f34de2:
 
     # ns "Perfect! And... you know..."
     ns "Perfect! And... you know..."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:609
-translate french sm1cs_ns014_studio_0a63f1bb:
-
-    # sy "I’m so excited! We’re gonna have so much fun, Nari."
-    sy "I’m so excited! We’re gonna have so much fun, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:613
 translate french sm1cs_ns014_studio_3dab1d16:

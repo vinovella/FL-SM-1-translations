@@ -40,18 +40,6 @@ translate spanish sm1cs_am004i_6d5df964:
     # mc "Yes, of course, I'm coming. I'm excited to see you rock out."
     mc "Sí, por supuesto, voy a ir. Estoy emocionado de verte rockear."
 
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:24
-translate spanish sm1cs_am004i_ff3a2552:
-
-    # am "Well, don't forget, it's pagon rock. I don't want to hear you whining later."
-    am "Bueno, no lo olvides, es pagon rock. No quiero escuchar que te quejas más tarde."
-
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
-translate spanish sm1cs_am004i_9cbe2ef6:
-
-    # mc "Woudln't dream of it. See you tonight."
-    mc "No soñaría con eso. Nos vemos esta noche."
-
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:27
 translate spanish sm1cs_am004i_6e94d2fc:
 

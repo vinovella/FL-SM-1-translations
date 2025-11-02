@@ -382,12 +382,6 @@ translate turkish q_inter_am_15_aeda5222:
     # am "Yes. You just needed to switch those settings."
     am "Evet. Sadece o ayarları değiştirmen gerekiyordu."
 
-# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:222
-translate turkish q_inter_am_15_c1491850:
-
-    # mc "I thought I could make it more effecient."
-    mc "Daha verimli hale getirebileceğimi sanmıştım."
-
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:226
 translate turkish q_inter_am_15_18244209:
 
@@ -603,12 +597,6 @@ translate turkish q_inter_am_21_93202109:
 
     # am "Really?"
     am "Gerçekten mi?"
-
-# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:330
-translate turkish q_inter_am_21_ba0d4547:
-
-    # am "Uh... nevermind. It might be awkward. And you'd just be sitting there."
-    am "Uh... boşver. Garip olabilir. Orada sadece otururdun."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:332
 translate turkish q_inter_am_21_c20a9812:

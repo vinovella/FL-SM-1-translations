@@ -508,12 +508,6 @@ translate portuguese sm1cs_kv003_c90951c8:
     # mc "And maybe I can show you a few too."
     mc "And maybe I can show you a few too."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:289
-translate portuguese sm1cs_kv003_bb6c33ea:
-
-    # kv "Whats the next question?"
-    kv "Whats the next question?"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:291
 translate portuguese sm1cs_kv003_85304d6b:
 

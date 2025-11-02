@@ -328,12 +328,6 @@ translate deutsch sm1cs_ag002_954f8867:
     # ag "I, uhm, don't know what you're talking about."
     ag "Ich weiß nicht, wovon du sprichst."
 
-# game/code/scenes/it_office/ag/sm1cs-ag002.rpy:213
-translate deutsch sm1cs_ag002_c1b85313:
-
-    # mc "You know, \"Aubergine Annie\"?"
-    mc "Du weißt, \"Aubergine Annie\"?"
-
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:217
 translate deutsch sm1cs_ag002_e0411c2a:
 

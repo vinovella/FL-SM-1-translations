@@ -136,12 +136,6 @@ translate turkish q_inter_cw_6_e4c37d5f:
     # mc "Nope, nothing pressing."
     mc "Hayır, önemli bir şey yok."
 
-# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:86
-translate turkish q_inter_cw_6_7dd362e4:
-
-    # cw "Good. I'm meeting a potential client at s new gastro-pub I've heard a lot about and don't want to be late."
-    cw "İyi. Yeni açılan ve hakkında çok şey duyduğum bir gastro-pub'da potansiyel bir müşteriyle buluşacağım, geç kalmak istemem."
-
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:87
 translate turkish q_inter_cw_6_1f94f9a3:
 
@@ -238,12 +232,6 @@ translate turkish q_inter_cw_10_c9423ef7:
     # mc "You know if I see your parents again, maybe we need to work out more backstory details."
     mc "Aileni tekrar görürsem, belki geçmiş hikâyemizi biraz daha netleştirmemiz gerekebilir."
 
-# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:137
-translate turkish q_inter_cw_10_af880d19:
-
-    # cw "No. We not. Keep it vague, Mr. Young."
-    cw "Hayır. Gerek yok. Belirsiz bırak, Bay Young."
-
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:138
 translate turkish q_inter_cw_10_4f4d96e6:
 
@@ -285,10 +273,4 @@ translate turkish q_inter_cw_11_03020337:
 
     # cw "Go away. Now."
     cw "Git buradan. Hemen."
-
-# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:162
-translate turkish q_inter_cw_11_75ec40bb:
-
-    # mc "Message recieved."
-    mc "Mesaj alındı."
 

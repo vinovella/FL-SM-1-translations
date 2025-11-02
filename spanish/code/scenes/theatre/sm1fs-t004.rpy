@@ -778,12 +778,6 @@ translate spanish sm1fs_t004_workshop_f14028ed:
     # dvh "We are going to do trust falls. If we are to operate as a theater team, we need to trust each other wholly."
     dvh "Vamos a hacer caídas de confianza. Si queremos funcionar como un equipo de teatro, tenemos que confiar plenamente los unos en los otros."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:512
-translate spanish sm1fs_t004_workshop_ea0fb35d:
-
-    # dvh "Veronica, Kelly. Please walk into the center of the circle."
-    dvh "Verónica, Kelly. Por favor, caminen hacia el centro del círculo."
-
 # game/code/scenes/theatre/sm1fs-t004.rpy:515
 translate spanish sm1fs_t004_workshop_63db503b:
 

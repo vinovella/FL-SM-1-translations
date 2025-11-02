@@ -214,12 +214,6 @@ translate portuguese sm1cs_cw005_pushy_menu_80f6d00e:
     # cw "Hmm."
     cw "Hmm."
 
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:174
-translate portuguese sm1cs_cw005_pushy_menu_74f0afa1:
-
-    # cw "Well, get moving Mr. Bird."
-    cw "Bem, vai nessa, Sr. Pássaro."
-
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:175
 translate portuguese sm1cs_cw005_pushy_menu_58d653aa:
 
@@ -243,12 +237,6 @@ translate portuguese sm1cs_cw005_pushy_menu_1f28d6f7:
 
     # cw "..."
     cw "..."
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:189
-translate portuguese sm1cs_cw005_pushy_menu_0e0dad50:
-
-    # cw "Well...{w} I'm sure you'll change you're tune once we're riding the waves on-"
-    cw "Bem...{w} Aposto que vai mudar de ideia quando estivermos surfando nas ondas nos-"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:203
 translate portuguese sm1cs_cw005_jetski_92c12530:
@@ -568,12 +556,6 @@ translate portuguese sm1cs_cw005_food_bae46cee:
     # chw "Yes. It looks like we skipped {i}that{/i} step, Claire."
     chw "Sim. Parece que pulamos {i}esse{/i} passo, Claire."
 
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:397
-translate portuguese sm1cs_cw005_food_5db52f36:
-
-    # cw "I know, daddy."
-    cw "Eu sei, Papai."
-
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:398
 translate portuguese sm1cs_cw005_food_420a15e5:
 
@@ -771,12 +753,6 @@ translate portuguese sm1cs_cw005_food_46db9d1a:
 
     # cw "We need to be fresh and ready to get off the ship tomorrow morning."
     cw "Temos que estar prontinhos para sair do barco amanhã de manhã."
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:497
-translate portuguese sm1cs_cw005_food_aad8666d:
-
-    # fw "*titers*"
-    fw "*risada contida*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:499
 translate portuguese sm1cs_cw005_food_15cad887:
@@ -1119,12 +1095,6 @@ translate portuguese sm1cs_cw005_sauna_menu_c84a2f9b:
 
     # cw "*laughing*"
     cw "*rindo*"
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:671
-translate portuguese sm1cs_cw005_sauna_menu_adfd11fc:
-
-    # mct "Woah. I think this is the frist time I've seen Claire really laugh."
-    mct "Eita. Primeira vez que eu vejo a Claire rir de verdade."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:672
 translate portuguese sm1cs_cw005_sauna_menu_2e8ec580:
@@ -1660,12 +1630,6 @@ translate portuguese sm1cs_cw005_sauna_menu_488b8084:
     # cw "*whispers* Keep tugging your..."
     cw "*sussurro* Continua o..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:926
-translate portuguese sm1cs_cw005_sauna_menu_3a6318f7:
-
-    # cw "Nevermind. You have the situation well in hand."
-    cw "Deixa. A situação parece que está em boas mãos."
-
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:927
 translate portuguese sm1cs_cw005_sauna_menu_c1132855:
 
@@ -1875,12 +1839,6 @@ translate portuguese sm1cs_cw005_sauna_menu_712398b8:
 
     # mct "That perfect mix of tanginess and a little bit of sweat."
     mct "A mistura perfeita de azedinho e um pouco de suor."
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1012
-translate portuguese sm1cs_cw005_sauna_menu_b244197e:
-
-    # mct "And her body keeps shaking whenver my nose brushes her clit."
-    mct "E o corpo dela treme toda vez que meu nariz encosta no clitóris."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1013
 translate portuguese sm1cs_cw005_sauna_menu_95d96455:

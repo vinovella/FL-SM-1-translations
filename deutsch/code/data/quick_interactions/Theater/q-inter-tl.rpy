@@ -82,12 +82,6 @@ translate deutsch q_inter_tl_4_a4cd1341:
     # tl "..."
     tl "..."
 
-# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:72
-translate deutsch q_inter_tl_5_eb1bbc5d:
-
-    # tl "If i get 8 hours at the other job... And I save, what, half of that paycheck..."
-    tl "Wenn ich bei dem anderen Job 8 Stunden arbeite ... und ich spare, was, die Hälfte von diesem Gehalt ..."
-
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:78
 translate deutsch q_inter_tl_6_86351105:
 
@@ -219,12 +213,6 @@ translate deutsch q_inter_tl_11_f40018c8:
 
     # mc "How have I never heard about this?"
     mc "Wie kommt es, dass ich davon noch nie gehört habe?"
-
-# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:147
-translate deutsch q_inter_tl_11_e81284ee:
-
-    # tl "Don't know. But I'm not surprsied."
-    tl "Ich weiß es nicht. Aber ich bin nicht überrascht."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:153
 translate deutsch q_inter_tl_12_b7ab2768:
@@ -435,12 +423,6 @@ translate deutsch q_inter_tl_17_d51d4d69:
 
     # tl "And I think it's cool that you can do so much with one character."
     tl "Und ich finde es cool, dass man mit einem Charakter so viel machen kann."
-
-# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:244
-translate deutsch q_inter_tl_17_54713dc4:
-
-    # mc "Huh, I never thuoght about it like that."
-    mc "Hm, so habe ich das noch nie betrachtet."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:245
 translate deutsch q_inter_tl_17_db029f0f:

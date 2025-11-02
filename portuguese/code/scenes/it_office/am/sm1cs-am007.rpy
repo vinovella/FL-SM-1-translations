@@ -22,12 +22,6 @@ translate portuguese sm1cs_am007_f8576f9f:
     # am "Shit, I gotta take this."
     am "Merda, tenho que atender."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:46
-translate portuguese sm1cs_am007_167c5538:
-
-    # mct "I wonder what the call is about.{w} Seemed important.."
-    mct "O que será que é essa ligação.{w} Parecia importante..."
-
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:50
 translate portuguese sm1cs_am007_271f3c49:
 
@@ -159,12 +153,6 @@ translate portuguese sm1cs_am007_5f136771:
 
     # ps "Okay, {i}maybe{/i} you have a point..."
     ps "Tá, {i}talvez{/i} você tem razão..."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:114
-translate portuguese sm1cs_am007_e5cab807:
-
-    # ps "We should have listened better and we should accept that sometimes you're going to miss pratice."
-    ps "A gente devia ter te ouvido mais, e temos que aceitar que às vezes você não vai poder praticar."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:117
 translate portuguese sm1cs_am007_4ad97173:
@@ -447,18 +435,6 @@ translate portuguese sm1cs_am007_6ae6f77c:
 
     # am "Just because we are dating, doesn't mean you have to come running to my aid anytime it looks like I'm in trouble."
     am "Só porque estamos saindo, não quer dizer que precisa vir me salvar sempre que parecer que tenho algum problema."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:212
-translate portuguese sm1cs_am007_f02f42d6:
-
-    # am "I work in tech.{w} Every day is a shit sandwhich for breakfast and a anxiety cocktail for lunch."
-    am "Eu trabalho com tecnologia.{w} Todo dia é um sanduíche de cocô no café e um coquetel de ansiedade no almoço."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:213
-translate portuguese sm1cs_am007_d29f47da:
-
-    # am "And this week has been order on the double-shit sandwhich."
-    am "E essa semana tem sido um sanduba duplo de merda."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:218
 translate portuguese sm1cs_am007_754afbcb:
@@ -1035,18 +1011,6 @@ translate portuguese sm1cs_am007_20_minutes_later_bc21dd33:
 
     # am "Why not?"
     am "Por que não?"
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:529
-translate portuguese sm1cs_am007_20_minutes_later_2e6a0dc6:
-
-    # mc "I have a sudden thrist for a big glass of milk."
-    mc "É que do nada me deu essa sede de leite enorme."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:532
-translate portuguese sm1cs_am007_20_minutes_later_8443acfc:
-
-    # am "You're here to run.{w} Not oggle my tits."
-    am "Você veio pra correr.{w} Não olhar pros meus peitos."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:535
 translate portuguese sm1cs_am007_20_minutes_later_a65f771d:
@@ -2398,12 +2362,6 @@ translate portuguese sm1cs_am007_one_hour_later_89663c6e:
     # mc "We should try to clean up a little and get our clothes back on."
     mc "É melhor a gente dar uma limpada antes de se vestir."
 
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1259
-translate portuguese sm1cs_am007_one_hour_later_832c96b9:
-
-    # mc "Aynone standing near this building might have heard us."
-    mc "Qualquer um aqui perto pode ter ouvido."
-
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1263
 translate portuguese sm1cs_am007_one_hour_later_a2d98c0a_1:
 
@@ -2487,12 +2445,6 @@ translate portuguese sm1cs_am007_one_hour_later_5dc869e4:
 
     # mct "This is why I should stop talking after sex."
     mct "É por isso que eu tinha que parar de conversar depois de transar."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1297
-translate portuguese sm1cs_am007_one_hour_later_dfa05469:
-
-    # mct "I almost said \"at Fetish Locator parties\""
-    mct "Quase falei nas \"festas do Fetish Locator\"."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1298
 translate portuguese sm1cs_am007_one_hour_later_3eb067d9:
@@ -2583,12 +2535,6 @@ translate portuguese sm1cs_am007_one_hour_later_655bb713:
 
     # mct "I shouldn't have lied to April."
     mct "Não devia ter mentido pra April."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1343
-translate portuguese sm1cs_am007_one_hour_later_afbb7fa8:
-
-    # mct "It's a bit screwed up. I shouldn't get invovled with anyone without telling them why I came to Orbix in the first place."
-    mct "Isso é errado. Não posso me envolver com ninguém sem falar porque eu vim trabalhar na Orbix pra início de conversa."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1344
 translate portuguese sm1cs_am007_one_hour_later_0c987c56:

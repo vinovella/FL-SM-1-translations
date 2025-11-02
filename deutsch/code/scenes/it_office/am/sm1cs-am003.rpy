@@ -1,8 +1,3 @@
-﻿# game/code/scenes/it_office/am/sm1cs-am003.rpy:23
-translate deutsch sm1cs_am003_65d3c1ab:
-
-    # mc "Hey April."
-    mc "Hey April."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:26
 translate deutsch sm1cs_am003_60929dc7:
@@ -27,12 +22,6 @@ translate deutsch sm1cs_am003_05500ff6:
 
     # mc "Huh?"
     mc "Hä?"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:42
-translate deutsch sm1cs_am003_9411ee06:
-
-    # am "Humans. We have created all this technology. It can do incredible things."
-    am "Menschen. Wir haben all diese Technologie geschaffen. Sie kann unglaubliche Dinge vollbringen."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:43
 translate deutsch sm1cs_am003_6836a542:
@@ -136,12 +125,6 @@ translate deutsch sm1cs_am003_4ced708b:
     # mc "She did not."
     mc "Sie hat es nicht getan."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:99
-translate deutsch sm1cs_am003_ff48ba88:
-
-    # am "Hmmph. Sounds like you wasted your afternoon. I'm fine."
-    am "Hm. Klingt, als hättest du deine Zeit verschwendet. Mir geht es gut."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:102
 translate deutsch sm1cs_am003_e2e1fb53:
 
@@ -160,12 +143,6 @@ translate deutsch sm1cs_am003_246b96f0:
     # mc "Well if we're not friends, your teasing feels a lot like bullying."
     mc "Nun, wenn wir keine Freunde sind, kommt mir dein Necken eher wie Mobbing vor."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:111
-translate deutsch sm1cs_am003_c44693ed:
-
-    # am "It's bullying to say someone sucks at their job?"
-    am "Ist es Mobbing, wenn man sagt, dass jemand schlecht in seinem Job ist?"
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:114
 translate deutsch sm1cs_am003_81fb0059:
 
@@ -177,12 +154,6 @@ translate deutsch sm1cs_am003_9b36aebd:
 
     # am "I didn't know you could count that high."
     am "Ich wusste gar nicht, dass du so weit zählen kannst."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:120
-translate deutsch sm1cs_am003_b58f5af6:
-
-    # mct "This girl. It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
-    mct "Dieses Mädchen. Es ist genau wie Anna gesagt hat. Wenn sie nicht so gut wäre, hätte man sie wegen ihrer Einstellung sofort aus Orbix rausgeschmissen."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:121
 translate deutsch sm1cs_am003_ce80c7ee:
@@ -196,29 +167,11 @@ translate deutsch sm1cs_am003_3adad30a:
     # am "What, did that break you?"
     am "Was, hat dich das fertiggemacht?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:127
-translate deutsch sm1cs_am003_fe1864dc:
-
-    # mc "You were right. I didn't come to check on you. I need help with a work problem and this is where you are working now. Simple as that."
-    mc "Du hattest recht. Ich bin nicht gekommen, um nach dir zu sehen. Ich brauche Hilfe bei einem Problem auf der Arbeit, und hier arbeitest du jetzt. So einfach ist das."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:130
 translate deutsch sm1cs_am003_201598d2:
 
     # am "Well yeah. I knew that from the start."
     am "Ja, klar. Das wusste ich von Anfang an."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:134
-translate deutsch sm1cs_am003_e619f22b:
-
-    # am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
-    am "Nach dieser Arbeitssitzung dachte ich, du würdest entweder kündigen oder nur noch das Nötigste deiner Aufgaben erledigen."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:135
-translate deutsch sm1cs_am003_7274fced:
-
-    # am "But here you are."
-    am "Aber hier bist du nun."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:138
 translate deutsch sm1cs_am003_226d5b69:
@@ -231,18 +184,6 @@ translate deutsch sm1cs_am003_5c53c85f:
 
     # am "Yeah.{w} Maybe I was wrong about you, [mcname]."
     am "Ja.{w} Vielleicht habe ich mich in dir getäuscht, [mcname]."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:144
-translate deutsch sm1cs_am003_7da007d5:
-
-    # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want. Sometimes I stumble, but I never stay on the ground for long."
-    mc "Das hast du. Ich kann zwar manchmal Mist bauen, aber ich kann auch unglaublich hart arbeiten, um das zu erreichen, was ich will. Manchmal stolpere ich, aber ich bleibe nie lange am Boden liegen."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:145
-translate deutsch sm1cs_am003_37d25850:
-
-    # mc "I didn't study IT at college, but I've always been a fast learner. Teach me, I'm ready to learn at your feet, April."
-    mc "Ich habe zwar keine Informatik studiert, aber ich habe schon immer schnell gelernt. Bring es mir bei, ich bin bereit, dir zu Füßen zu lernen, April."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:148
 translate deutsch sm1cs_am003_1446f8b8:
@@ -261,12 +202,6 @@ translate deutsch sm1cs_am003_cb160673:
 
     # am "*sighs* Okay, you certainly got the energy. But you're not going near my feet."
     am "*seufzt* Okay, du hast auf jeden Fall Energie. Aber du kommst mir nicht zu nahe."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:155
-translate deutsch sm1cs_am003_3e875709:
-
-    # am "Despite my better judgment, I'll try to give you some pointers here and there."
-    am "Trotz meiner besseren Einsicht werde ich versuchen, dir hier und da ein paar Tipps zu geben."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:158
 translate deutsch sm1cs_am003_35f64472:
@@ -292,12 +227,6 @@ translate deutsch sm1cs_am003_84fb7e61:
     # mc "If you teach me well, I'm sure I'll do great."
     mc "Wenn du mich gut unterrichtest, werde ich bestimmt großartige Leistungen erbringen."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:176
-translate deutsch sm1cs_am003_c742b267:
-
-    # am "I am not your teacher, [mcname]. that's not my job."
-    am "Ich bin nicht deine Lehrerin, [mcname]. Das ist nicht meine Aufgabe."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:177
 translate deutsch sm1cs_am003_7c802427:
 
@@ -315,12 +244,6 @@ translate deutsch sm1cs_am003_442b1bff:
 
     # mc "Sure, sure. I got it."
     mc "Klar, klar. Verstanden."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:186
-translate deutsch sm1cs_am003_c73287ef:
-
-    # am "Okay. Show me what problems you're having with the website."
-    am "Okay. Zeig mir, welche Probleme du mit der Website hast."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:189
 translate deutsch sm1cs_am003_606e2d02:
@@ -424,12 +347,6 @@ translate deutsch sm1cs_am003_e9721ff3:
     # mc "Thank you!"
     mc "Danke!"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:290
-translate deutsch sm1cs_am003_ba3fd6b1:
-
-    # mc "Ohe dark roast coffee for the girl who roasts me every day."
-    mc "Einen Dark Roast Kaffee für das Mädchen, das mich jeden Tag roasted."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:293
 translate deutsch sm1cs_am003_20494680:
 
@@ -441,12 +358,6 @@ translate deutsch sm1cs_am003_a7a92e8f:
 
     # mc "No problem."
     mc "Kein Problem."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:303
-translate deutsch sm1cs_am003_905ee756:
-
-    # mct "Ah. That is the spot."
-    mct "Ah. Das ist die Stelle."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:306
 translate deutsch sm1cs_am003_3d905e5a:
@@ -574,12 +485,6 @@ translate deutsch sm1cs_am003_189dae3a:
     # mc "Like it's not fun anymore?"
     mc "Als ob es keinen Spaß mehr macht?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:365
-translate deutsch sm1cs_am003_b689b960:
-
-    # am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
-    am "Ja. Es ist viel los. Entscheidungen, die ich... die wir treffen müssen. Schwierige Entscheidungen."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:366
 translate deutsch sm1cs_am003_5bd7e194:
 
@@ -616,18 +521,6 @@ translate deutsch sm1cs_am003_fdb19f63:
     # am "Right. But... I thought you were trying to like... turn this into a date or something."
     am "Richtig. Aber... Ich dachte, du wolltest das hier zu einem Date oder so etwas machen."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:382
-translate deutsch sm1cs_am003_19fb34a9:
-
-    # mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
-    mc "Ich glaube, wir haben unsere Signale verwechselt. Wenn ich dich um ein Date bitten wollte, würde ich dich um ein Date bitten."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:385
-translate deutsch sm1cs_am003_28df6c88:
-
-    # am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
-    am "Absolut. Und du würdest mich nicht um ein Date bitten, weil du weißt, dass ich außerhalb deiner Liga bin."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:389
 translate deutsch sm1cs_am003_85b15758:
 
@@ -657,18 +550,6 @@ translate deutsch sm1cs_am003_ebee4a17:
 
     # mc "Is that a big surprise?"
     mc "Ist das eine große Überraschung?"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:407
-translate deutsch sm1cs_am003_06015bec:
-
-    # am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
-    am "Ich habe mit vielen Arschlöchern gearbeitet und dachte, du wärst genauso wie sie. Aber du sitzt nicht nur herum. Du versuchst..."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:410
-translate deutsch sm1cs_am003_407e8a50:
-
-    # mc "Trying to not suck all the time."
-    mc "Nicht ständig zu versagen."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:413
 translate deutsch sm1cs_am003_c35370b4:
@@ -711,18 +592,6 @@ translate deutsch sm1cs_am003_d3a6be79:
 
     # am "Well yeah, but you still noticed that line forty-two was the root issue of why the first batch wasn't connecting to the second one."
     am "Ja, aber du hast trotzdem bemerkt, dass Zeile 42 das Grundproblem dafür war, dass die erste Charge keine Verbindung zur zweiten herstellen konnte."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:436
-translate deutsch sm1cs_am003_02c1f7dd:
-
-    # mc "So I'm a elite-code-monkey now, right?"
-    mc "Also bin ich jetzt ein Elite-Code-Monkey, richtig?"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:439
-translate deutsch sm1cs_am003_caa31988:
-
-    # am "Oh yeah. A future Wozniak."
-    am "Oh ja. Ein zukünftiger Wozniak."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:443
 translate deutsch sm1cs_am003_575001ec:
@@ -777,12 +646,6 @@ translate deutsch sm1cs_am003_036946db:
 
     # mc "I'm down. I can check my calendar."
     mc "Ich bin dabei. Ich kann in meinem Kalender nachsehen."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:484
-translate deutsch sm1cs_am003_58dc05c7:
-
-    # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
-    am "Cool.{w} Es ist eine heidnische Rockband, also sei vorbereitet. Vielleicht siehst du mich... wie ich ein bisschen verrückt aussehe. Und vielleicht habe ich Kriegsbemalung im Gesicht, vielleicht auch nicht."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:487
 translate deutsch sm1cs_am003_d8bc74dd:

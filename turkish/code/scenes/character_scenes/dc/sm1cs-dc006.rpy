@@ -928,12 +928,6 @@ translate turkish sm1cs_dc006_at_park_adecc7f3:
     # mct "Woah... that's a lot to take in..."
     mct "Vay canına... bu çok fazla şey..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:503
-translate turkish sm1cs_dc006_at_park_c5d95126:
-
-    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w}I know, sir..."
-    dc "Memur Callahan...{w} Biliyorum. Tam o kaçarken ben de buraya geldim...{w}Biliyorum, efendim..."
-
 translate turkish strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:436

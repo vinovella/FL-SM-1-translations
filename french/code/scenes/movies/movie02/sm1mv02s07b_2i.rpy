@@ -4,12 +4,6 @@ translate french sm1mv02s07b_2i_267e4f53:
     # mc "My lovely lady Lyssa What would you say to a little spa day?"
     mc "My lovely lady Lyssa What would you say to a little spa day?"
 
-# game/code/scenes/movies/movie02/sm1mv02s07b_2i.rpy:7
-translate french sm1mv02s07b_2i_f74309c5:
-
-    # mc "I'll pay for you, myself, and a friend of mine who’s been really looking forward to getting to know you better."
-    mc "I'll pay for you, myself, and a friend of mine who’s been really looking forward to getting to know you better."
-
 # game/code/scenes/movies/movie02/sm1mv02s07b_2i.rpy:11
 translate french sm1mv02s07b_2i_1689d38b:
 

@@ -376,12 +376,6 @@ translate turkish sm1ms014_6a14826e:
     # my "I just hope it's not like [mcname] though, just posted on the internet for anyone to see."
     my "Umarım [mcname] gibi değildir, sadece internette herkesin görebileceği şekilde paylaşılmıştır."
 
-# game/code/scenes/main_story/sm1ms014.rpy:186
-translate turkish sm1ms014_8530affa:
-
-    # sy "Uhm, yeah... no internet nudies of me..."
-    sy "Şey, evet... internette çıplak fotoğraflarım yok..."
-
 # game/code/scenes/main_story/sm1ms014.rpy:190
 translate turkish sm1ms014_fa381239:
 

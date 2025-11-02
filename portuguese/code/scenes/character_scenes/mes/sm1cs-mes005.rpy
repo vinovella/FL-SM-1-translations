@@ -454,12 +454,6 @@ translate portuguese sm1cs_mes005_4d17943c:
     # mc "But you know I'm going to have to get you back."
     mc "But you know I'm going to have to get you back."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:240
-translate portuguese sm1cs_mes005_d7a77946:
-
-    # kv "Haha.{w}Looking forward to it, [mcname]."
-    kv "Haha.{w}Looking forward to it, [mcname]."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:245
 translate portuguese sm1cs_mes005_04f74f9a:
 
@@ -909,12 +903,6 @@ translate portuguese sm1cs_mes005_28db3c43:
 
     # mc "No really. I wish we were going to a Fetish Locator party after this."
     mc "No really. I wish we were going to a Fetish Locator party after this."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:440
-translate portuguese sm1cs_mes005_66d67cb2:
-
-    # mes "Well, then you'll enjoy this ."
-    mes "Well, then you'll enjoy this ."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:449
 translate portuguese sm1cs_mes005_0905cec0:

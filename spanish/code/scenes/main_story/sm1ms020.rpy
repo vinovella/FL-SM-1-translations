@@ -310,12 +310,6 @@ translate spanish sm1ms020_0b76e093:
     # mc "What do you do as an art gallery manager?"
     mc "¿Qué haces como gerente de galería de arte?"
 
-# game/code/scenes/main_story/sm1ms020.rpy:175
-translate spanish sm1ms020_94ff1e98:
-
-    # my "I manage connections between investors and the gallery, talent scout for new artist's to showcase..."
-    my "Gestiono los contactos entre los inversores y la galería, busco nuevos artistas para exponerlos..."
-
 # game/code/scenes/main_story/sm1ms020.rpy:176
 translate spanish sm1ms020_1f2f2361:
 

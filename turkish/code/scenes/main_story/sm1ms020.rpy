@@ -310,12 +310,6 @@ translate turkish sm1ms020_0b76e093:
     # mc "What do you do as an art gallery manager?"
     mc "Sanat galerisi yöneticisi olarak ne iş yapıyorsunuz?"
 
-# game/code/scenes/main_story/sm1ms020.rpy:175
-translate turkish sm1ms020_94ff1e98:
-
-    # my "I manage connections between investors and the gallery, talent scout for new artist's to showcase..."
-    my "Yatırımcılarla galeri arasındaki bağlantıları yönetiyorum, yeni sanatçıların sergilenmesi için yetenek avcılığı yapıyorum..."
-
 # game/code/scenes/main_story/sm1ms020.rpy:176
 translate turkish sm1ms020_1f2f2361:
 

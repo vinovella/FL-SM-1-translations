@@ -208,12 +208,6 @@ translate spanish sm1ms006_669d5c5f:
     # sy "We really need some better locks."
     sy "Realmente necesitamos mejores cerraduras."
 
-# game/code/scenes/main_story/sm1ms006.rpy:180
-translate spanish sm1ms006_aef6fd4a:
-
-    # mc "I do too. But... AmRose said something kind of interesting."
-    mc "Yo también lo creo. Pero... Amrose dijo algo interesante."
-
 # game/code/scenes/main_story/sm1ms006.rpy:183
 translate spanish sm1ms006_e14c35d4:
 
@@ -327,12 +321,6 @@ translate spanish sm1ms006_e501c93a:
 
     # mc "But you lied to me."
     mc "Pero me mentiste."
-
-# game/code/scenes/main_story/sm1ms006.rpy:238
-translate spanish sm1ms006_a82624c8:
-
-    # sy "It's not a big deal? I mean you lied about the metric ton of of porn you had hidden under your bed, [mcname]."
-    sy "¿No es para tanto? Quiero decir que mentiste sobre la tonelada métrica de porno que tenías escondida debajo de la cama, [mcname]."
 
 # game/code/scenes/main_story/sm1ms006.rpy:241
 translate spanish sm1ms006_6be9eb82:
@@ -675,12 +663,6 @@ translate spanish sm1ms006_49efd205:
 
     # mct "Even after getting punished, Stacy is still the best."
     mct "Incluso después de ser castigada, Stacy sigue siendo la mejor."
-
-# game/code/scenes/main_story/sm1ms006.rpy:450
-translate spanish sm1ms006_7016c270:
-
-    # sy "You doing to get dressed?"
-    sy "¿Vas a vestirte?"
 
 # game/code/scenes/main_story/sm1ms006.rpy:454
 translate spanish sm1ms006_ed56daf5:

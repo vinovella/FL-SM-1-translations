@@ -316,12 +316,6 @@ translate turkish sm1cs_km004_a3b3c69e:
     # mc "What? Why?"
     mc "Ne? Neden?"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:206
-translate turkish sm1cs_km004_553da677:
-
-    # tl "To see if this is a bannable offense, you uncivilized orge."
-    tl "Bunun yasaklanabilir bir suç olup olmadığını görmek için, seni uygarlaşmamış orge."
-
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:221
 translate turkish sm1cs_km004_29844415:
 
@@ -1048,12 +1042,6 @@ translate turkish sm1cs_km004_stage_c4880b44:
     # vs "Belonging to a man. Oh, be some other name!"
     vs "Bir erkeğe ait. Ah, başka bir isim olsa gerek!"
 
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:677
-translate turkish sm1cs_km004_stage_65e26364:
-
-    # vs "What's in a name? That which we call a rose"
-    vs "İsimde ne var? Gül dediğimiz şey"
-
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:680
 translate turkish sm1cs_km004_stage_7e68ba35:
 
@@ -1077,12 +1065,6 @@ translate turkish sm1cs_km004_stage_21d18301:
 
     # dvh "My god."
     dvh "Aman Tanrım."
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:692
-translate turkish sm1cs_km004_stage_a47cf382:
-
-    # dvh "Exquisite Veronica."
-    dvh "Harika Veronica."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:693
 translate turkish sm1cs_km004_stage_99fe62c6:

@@ -40,12 +40,6 @@ translate spanish q_inter_pm_3_cfd60fb8:
     # mc "Hey, Peter."
     mc "Oye, Peter."
 
-# game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:37
-translate spanish q_inter_pm_3_0e6e8a48:
-
-    # pm "Hey! [mcname], whose always playing the rock music way too loud over there?"
-    pm "¡Ey! [mcname], ¿quién pone siempre la música rock demasiado alta?"
-
 # game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:39
 translate spanish q_inter_pm_3_2f85990b:
 

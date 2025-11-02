@@ -850,12 +850,6 @@ translate spanish sm1cs_km005_e3fae15a:
     # km "Oh my god. You're the worst."
     km "Ay dios mío. Eres el peor."
 
-# game/code/scenes/theatre/km/sm1cs-km005.rpy:428
-translate spanish sm1cs_km005_c2cf8f3d:
-
-    # mc "Says the girls with hard nipples poking at her top."
-    mc "Dicen que las chicas con pezones duros se asoman en su blusa."
-
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:437
 translate spanish sm1cs_km005_84ef3c75:
 

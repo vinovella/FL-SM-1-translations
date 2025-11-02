@@ -1108,12 +1108,6 @@ translate spanish sm1cs_am004_sex_c27b58ed:
     # am "Don't be a pussy, [mcname]. I like it rough."
     am "No seas un marica, [mcname]. Me gusta duro."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:785
-translate spanish sm1cs_am004_sex_06e5e165:
-
-    # mc "Listen, I know you're whole thing is just being a bitch to me all the time, but I'm not tring to get my dick bit off."
-    mc "Escucha, sé que lo tuyo es ser una perra conmigo todo el tiempo, pero no estoy tratando de que me muerdan la polla."
-
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:787
 translate spanish sm1cs_am004_sex_1c8acf17_1:
 
@@ -1425,12 +1419,6 @@ translate spanish sm1cs_am004_after_spank_780537f7:
 
     # am "What?"
     am "¿Qué?"
-
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:973
-translate spanish sm1cs_am004_after_spank_af0e146a:
-
-    # mc "Come on. you know the {b}word{/b} I'm waiting for."
-    mc "Vamos. Sabes la {b}palabra{/b} que estoy esperando."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:978
 translate spanish sm1cs_am004_after_spank_a790f962:

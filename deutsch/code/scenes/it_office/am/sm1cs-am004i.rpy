@@ -40,18 +40,6 @@ translate deutsch sm1cs_am004i_6d5df964:
     # mc "Yes, of course, I'm coming. I'm excited to see you rock out."
     mc "Ja, natürlich komme ich. Ich freue mich darauf, dich rocken zu sehen."
 
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:24
-translate deutsch sm1cs_am004i_ff3a2552:
-
-    # am "Well, don't forget, it's pagon rock. I don't want to hear you whining later."
-    am "Vergiss nicht, es handelt sich um Pagon Rock. Ich möchte später kein Gejammer hören."
-
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
-translate deutsch sm1cs_am004i_9cbe2ef6:
-
-    # mc "Woudln't dream of it. See you tonight."
-    mc "Das würde mir im Traum nicht einfallen. Bis heute Abend."
-
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:27
 translate deutsch sm1cs_am004i_6e94d2fc:
 

@@ -58,12 +58,6 @@ translate spanish sm1fs_i001_525776d2:
     # ag "We're looking to hire some new people to help out, real self-starters and go-getters."
     ag "Queremos contratar a gente nueva, con iniciativa y ganas de trabajar."
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:50
-translate spanish sm1fs_i001_eaa649bb:
-
-    # ag "Please have a sit."
-    ag "Por favor, siéntate."
-
 # game/code/scenes/it_office/sm1fs-i001.rpy:54
 translate spanish sm1fs_i001_f1001075:
 
@@ -147,12 +141,6 @@ translate spanish sm1fs_i001_0d793d39:
 
     # ag "Sorry, one second."
     ag "Lo siento, un segundo."
-
-# game/code/scenes/it_office/sm1fs-i001.rpy:93
-translate spanish sm1fs_i001_f74f881e:
-
-    # ag "Hi, What can I help you with, April?"
-    ag "Hola, ¿con qué puedo ayudarte, Abril?"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:95
 translate spanish sm1fs_i001_47c47bec:
@@ -315,12 +303,6 @@ translate spanish sm1fs_i001_b6c91f38:
 
     # ag "What games are you playing right now?"
     ag "¿Qué juegos estás jugando en este momento?"
-
-# game/code/scenes/it_office/sm1fs-i001.rpy:178
-translate spanish sm1fs_i001_371777db:
-
-    # mc "Uhhhh, mostly FPS games. Every once in awhile I'll pull up-"
-    mc "Uhhhh, principalmente juegos FPS. De vez en cuando me pongo..."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:181
 translate spanish sm1fs_i001_0133cbf7:

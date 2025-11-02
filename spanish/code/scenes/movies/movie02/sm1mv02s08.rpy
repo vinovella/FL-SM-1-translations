@@ -1120,12 +1120,6 @@ translate spanish sm1mv02s08_end_talk_4033a8b2:
     # mc "So that leaves us with one more scene to do."
     mc "So that leaves us with one more scene to do."
 
-# game/code/scenes/movies/movie02/sm1mv02s08.rpy:852
-translate spanish sm1mv02s08_end_talk_f9b4fdf6:
-
-    # mc "And lucky for us, its a naughty one."
-    mc "And lucky for us, its a naughty one."
-
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:855
 translate spanish sm1mv02s08_end_talk_85fc18b4:
 

@@ -472,12 +472,6 @@ translate portuguese sm1fs_t002_dbef676e:
     # sy "Partially..."
     sy "Em parte..."
 
-# game/code/scenes/theatre/sm1fs-t002.rpy:303
-translate portuguese sm1fs_t002_63f502f0:
-
-    # tl "So what's your two's story?"
-    tl "Então, qual é a história de vocês dois?"
-
 # game/code/scenes/theatre/sm1fs-t002.rpy:305
 translate portuguese sm1fs_t002_6b2e55df:
 
@@ -627,12 +621,6 @@ translate portuguese sm1fs_t002_2ac623c8:
 
     # sy "Well I am more than happy to be your first!"
     sy "Seria mais que um prazer ser a sua primeira!"
-
-# game/code/scenes/theatre/sm1fs-t002.rpy:372
-translate portuguese sm1fs_t002_21f1b495:
-
-    # sy "Lets' get this party started!"
-    sy "Vamos começar essa festa!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:394
 translate portuguese sm1fs_t002_sex_e4ccea3e:
@@ -861,12 +849,6 @@ translate portuguese sm1fs_t002_sex_df604538:
 
     # tl "Come on, whip it out."
     tl "Vai, tira."
-
-# game/code/scenes/theatre/sm1fs-t002.rpy:534
-translate portuguese sm1fs_t002_sex_e9f1f302:
-
-    # tl "Damn. Someone is defintiely not shy."
-    tl "Nossa. Certa pessoa não tem vergonha."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:536
 translate portuguese sm1fs_t002_sex_64e8e006:
@@ -1180,12 +1162,6 @@ translate portuguese sm1fs_t002_sex_a88fbee3:
     # tl "Eh, mostly do it because [mcname] will be able to get deeper."
     tl "É mais porque vai ajudar o [mcname] a entrar mais fundo."
 
-# game/code/scenes/theatre/sm1fs-t002.rpy:703
-translate portuguese sm1fs_t002_sex_ae2cb979:
-
-    # mc "LIterally zero complaints from me then."
-    mc "Não vai ouvir reclamação alguma minha."
-
 # game/code/scenes/theatre/sm1fs-t002.rpy:712
 translate portuguese sm1fs_t002_sex_18c6234a:
 
@@ -1233,12 +1209,6 @@ translate portuguese sm1fs_t002_sex_a6d5255f:
 
     # tl "Well, that's where I'm going. This feels fuh-uhcking great."
     tl "Bem, essa é a intenção. Isso tá bom pra caralho."
-
-# game/code/scenes/theatre/sm1fs-t002.rpy:735
-translate portuguese sm1fs_t002_sex_7ea30e17:
-
-    # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. THey want the cinema!"
-    sy "Você tem que mostrar, não falar. Ninguém quer um audiobook. As pessoas querem cinema!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:736
 translate portuguese sm1fs_t002_sex_80a80799:

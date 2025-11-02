@@ -88,12 +88,6 @@ translate portuguese sm1cs_am006_e5a1dd91:
     # am "Haha."
     am "Haha."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:54
-translate portuguese sm1cs_am006_ef01ca54:
-
-    # mc "Isn't the customer always lying?"
-    mc "O cliente não tá sempre certo?"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:57
 translate portuguese sm1cs_am006_5671f688:
 
@@ -388,12 +382,6 @@ translate portuguese sm1cs_am006_arcade_5bd7e194:
     # am "*clears throat*"
     am "*limpa garganta*"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:227
-translate portuguese sm1cs_am006_arcade_3a045f0c:
-
-    # am "I know I can be a lot. That's what you're thinking, right?"
-    am "Eu sei que às vezes eu sou difícil. É isso que você tá pensando, né?"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:230
 translate portuguese sm1cs_am006_arcade_d3ecb31c:
 
@@ -418,12 +406,6 @@ translate portuguese sm1cs_am006_arcade_4b9a7996:
     # am "If your shields are up, no one can come aboard and talk to you."
     am "Se você levanta as defesas, ninguém pode te abordar e falar com você."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:238
-translate portuguese sm1cs_am006_arcade_fc17eca6:
-
-    # mc "So. These shields. They're down now?"
-    mc "Então. Essas defesas. Já desceram?"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:241
 translate portuguese sm1cs_am006_arcade_ca7b10c6:
 
@@ -441,18 +423,6 @@ translate portuguese sm1cs_am006_arcade_1c8acf17:
 
     # am "..."
     am "..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:250
-translate portuguese sm1cs_am006_arcade_f97f119b:
-
-    # am "I'm not that easy, [mcname]."
-    am "Não sou tão fácil, [mcname]."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:253
-translate portuguese sm1cs_am006_arcade_d66cf936:
-
-    # mc "The last time we were out, you asked me to fuck you in your car."
-    mc "Da última vez que elas desceram, você pediu pra transar no seu carro."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:256
 translate portuguese sm1cs_am006_arcade_f6fc5558:
@@ -508,12 +478,6 @@ translate portuguese sm1cs_am006_arcade_f46b669d:
     # mc "*chuckles*"
     mc "*risada*"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:290
-translate portuguese sm1cs_am006_arcade_9f4b1aa7:
-
-    # mct "I remember this machine. It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
-    mct "Eu lembro dessa máquina. É mais fácil jogar nos círculos grandes, dá mais pontos jogar a bola nos círculos menores."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:294
 translate portuguese sm1cs_am006_arcade_4f43ac1a:
 
@@ -526,23 +490,11 @@ translate portuguese sm1cs_am006_arcade_5308db9d:
     # am "We'll go in threes."
     am "Vamos em rodadas de três."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:318
-translate portuguese sm1cs_am006_arcade_3427dd07:
-
-    # am "I'm a little rusty."
-    am "Só um pouquinho sem prática."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:321
 translate portuguese sm1cs_am006_arcade_a03938bb:
 
     # mc "You know you're supposed to go for the smaller holes."
     mc "Você sabe que é pra acertar os buracos menores."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:324
-translate portuguese sm1cs_am006_arcade_ac3fad90:
-
-    # am "And you know you're never going to see my smaller hole acting like that."
-    am "E você sabe que nunca vai ver o meu buraco menor se comportar assim."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:338
 translate portuguese sm1cs_am006_arcade_17639bac:
@@ -562,47 +514,17 @@ translate portuguese sm1cs_am006_arcade_666143da:
     # mc "I think I know the problem."
     mc "Acho que vi o problema."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:352
-translate portuguese sm1cs_am006_arcade_a3cb1ef6:
-
-    # am "It's gotta be you. When I do this alone, I always score way higher."
-    am "Deve ser você. Eu sempre consigo mais quando faço sozinha."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:355
-translate portuguese sm1cs_am006_arcade_66098328:
-
-    # mc "That might be it. Or it's because you're not really letting yourself relax."
-    mc "Deve ser. Ou é porque você não se deixa relaxar."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:364
-translate portuguese sm1cs_am006_arcade_c75da145:
-
-    # mc "I was watching you. Your body was so stiff and tense."
-    mc "Eu estava te vendo. Você estava toda tensa."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:367
 translate portuguese sm1cs_am006_arcade_9bb62813:
 
     # am "I know how to throw a fucking ball."
     am "Eu sei como jogar uma porra de bola."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:371
-translate portuguese sm1cs_am006_arcade_d7551d98:
-
-    # mc "Yeah, sounds like you're totally relaxed."
-    mc "É, você parece super relaxada mesmo."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:377
 translate portuguese sm1cs_am006_arcade_8b7ce4f0:
 
     # am "*grumbles* You're just lucky."
     am "*resmungando* Você só tem sorte."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:380
-translate portuguese sm1cs_am006_arcade_b1eb74bd:
-
-    # mc "Once is lucky. Twice is good."
-    mc "Uma vez é sorte. Duas é habilidade."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:384
 translate portuguese sm1cs_am006_arcade_c654b893:
@@ -628,23 +550,11 @@ translate portuguese sm1cs_am006_arcade_4af71457:
     # mc "You going to tell me the last time you lowered your shields?"
     mc "Vai me contar quando foi a última vez que baixou as defesas?"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:402
-translate portuguese sm1cs_am006_arcade_b426e714:
-
-    # am "No way. Best two out of three."
-    am "Nada. Melhor de três."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:434
 translate portuguese sm1cs_am006_arcade_c1e7f53c:
 
     # mc "Damn."
     mc "Poxa."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:439
-translate portuguese sm1cs_am006_arcade_86e51696:
-
-    # am "Yes! Wooh. She shoots, she scores!"
-    am "Isso! Uuuh. Ela arremessa, ela marca!"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:440
 translate portuguese sm1cs_am006_arcade_6025dd85:
@@ -658,12 +568,6 @@ translate portuguese sm1cs_am006_arcade_e682b87a:
     # am "You like that?"
     am "Gostou?"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:448
-translate portuguese sm1cs_am006_arcade_292e3b29:
-
-    # am "In your face! In your stupid handsome face!"
-    am "Na sua cara! Na sua cara idiota e linda!"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:451
 translate portuguese sm1cs_am006_arcade_ebaaa585:
 
@@ -675,12 +579,6 @@ translate portuguese sm1cs_am006_arcade_6fc685b2:
 
     # mc "Having fun?"
     mc "Se divertindo?"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:457
-translate portuguese sm1cs_am006_arcade_f224e2d1:
-
-    # am "Oh yeah. Forget I said anything."
-    am "Ah é. Esquece que eu falei alguma coisa."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:460
 translate portuguese sm1cs_am006_arcade_c409f6a1:
@@ -730,12 +628,6 @@ translate portuguese sm1cs_am006_arcade_f46b669d_1:
     # mc "*chuckles*"
     mc "*risada*"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:491
-translate portuguese sm1cs_am006_arcade_ba5353b8:
-
-    # mc "So spill it. When was the last time you let your shields down?"
-    mc "Então, desembucha. Quando foi a última vez que você baixou as defesas?"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:494
 translate portuguese sm1cs_am006_arcade_fb2050be:
 
@@ -760,36 +652,6 @@ translate portuguese sm1cs_am006_arcade_48643627:
     # am "I... I don't really remember."
     am "Eu... não lembro."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:511
-translate portuguese sm1cs_am006_arcade_467b5add:
-
-    # mc "Okay liar."
-    mc "Tá certo, mentirosa."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:514
-translate portuguese sm1cs_am006_arcade_72bac36e:
-
-    # am "I'm not a liar. I... I really mean it, [mcname]."
-    am "Não sou mentirosa. Eu... é sério, [mcname]."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:515
-translate portuguese sm1cs_am006_arcade_c1253295:
-
-    # am "It's probably been years."
-    am "Deve fazer anos já."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:518
-translate portuguese sm1cs_am006_arcade_4a514cd2:
-
-    # am "When I started getting really good at coding, a lot of guys {i}changed{/i} how they acted toward me."
-    am "Quando comecei a ficar boa em programação, muitos caras {i}mudaram{/i} o jeito comigo."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:519
-translate portuguese sm1cs_am006_arcade_bc06e96c:
-
-    # am "Or worse. Some friends I'd known for years turned into super assholes."
-    am "Ou pior. Amigos que eu conhecia fazia anos viraram babacas."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:527
 translate portuguese sm1cs_am006_arcade_9d96222d:
 
@@ -801,18 +663,6 @@ translate portuguese sm1cs_am006_arcade_a490bba1:
 
     # am "It wasn't enough to destroy them with my code and just being better than them."
     am "Não era o bastante destruir eles com o meu código, e só ser melhor que eles."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:540
-translate portuguese sm1cs_am006_arcade_9bb599a4:
-
-    # am "I had to break them with my words. Or at least get them to leave me the hell alone."
-    am "Eu tinha que acabar com eles com palavras. Ou pelo menos fazer eles me deixarem em paz."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:543
-translate portuguese sm1cs_am006_arcade_92a22754:
-
-    # mc "Is that why you treat Anna like you do? Because she got the promotion and is now above you?"
-    mc "É por isso que você trata a Anna daquele jeito? Porque ela foi promovida e ficou acima de você?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:546
 translate portuguese sm1cs_am006_arcade_dd5f61ea:
@@ -838,29 +688,11 @@ translate portuguese sm1cs_am006_arcade_8410e8c3:
     # am "I don't know why I'm talking to you about this stuff."
     am "Não sei por que eu tô falando disso com você."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:556
-translate portuguese sm1cs_am006_arcade_544a9504:
-
-    # mc "Maybe because I'm the first non-asshole who saw the real you? Underneath the barbs."
-    mc "Talvez seja porque eu sou o primeiro não-babaca que viu o seu lado verdadeiro? Por baixo dos espinhos."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:557
 translate portuguese sm1cs_am006_arcade_77ff2085:
 
     # mc "You're like a cute porcupine."
     mc "Você é tipo um porco-espinho fofinho."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:560
-translate portuguese sm1cs_am006_arcade_4e623dfd:
-
-    # am "Hmmph. Maybe you're onto something."
-    am "Hmf. Talvez você esteja meio certo."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:561
-translate portuguese sm1cs_am006_arcade_c4a11646:
-
-    # am "But I think it's just that I have a crush on you. And one day, it will wear off."
-    am "Mas acho que eu devo estar gamada em você. E um dia vai parar."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:567
 translate portuguese sm1cs_am006_arcade_c183e4f5:
@@ -873,12 +705,6 @@ translate portuguese sm1cs_am006_arcade_372ed858:
 
     # am "You... really mean that?"
     am "Você... tá falando sério mesmo?"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:573
-translate portuguese sm1cs_am006_arcade_7b4325ae:
-
-    # mc "I do. Maybe we can test things out again."
-    mc "Sim. Talvez a gente possa testar de novo."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:576
 translate portuguese sm1cs_am006_arcade_9af134a8:
@@ -970,12 +796,6 @@ translate portuguese sm1cs_am006_arcade_96580cbd:
     # am "Wait!"
     am "Espera!"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:619
-translate portuguese sm1cs_am006_arcade_a1bbe86b:
-
-    # mc "Okay, okay. We don't have to-"
-    mc "Tá bom, tá bom. Não temos que-"
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:623
 translate portuguese sm1cs_am006_arcade_ee6128e5:
 
@@ -1011,12 +831,6 @@ translate portuguese sm1cs_am006_arcade_e32ab0a4:
 
     # am "Mmmmm."
     am "Mmmmm."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:642
-translate portuguese sm1cs_am006_arcade_d206c2fd:
-
-    # mct "Woah. She's... she's really into this."
-    mct "Eita. Ela... ela tá beijando com tudo."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:645
 translate portuguese sm1cs_am006_arcade_c42b05ac:
@@ -1054,12 +868,6 @@ translate portuguese sm1cs_am006_arcade_43393439:
     # mc "Did you?"
     mc "E ficou?"
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:661
-translate portuguese sm1cs_am006_arcade_285422b5:
-
-    # am "What? No. Of course I didn't. Shut up."
-    am "O quê? Não. Claro que não. Cala a boca."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:664
 translate portuguese sm1cs_am006_arcade_6e779a52:
 
@@ -1078,35 +886,17 @@ translate portuguese sm1cs_am006_arcade_5974a2b0:
     # mc "April... It's not just about what I want."
     mc "April... não é só isso que eu quero."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:671
-translate portuguese sm1cs_am006_arcade_732d2098:
-
-    # am "I know. I don't know what's gotten into me."
-    am "Eu sei. Não sei o que deu em mim."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:672
 translate portuguese sm1cs_am006_arcade_b43108d8:
 
     # am "I hate this. Not being in control. But...{w} when I try to think about stopping this."
     am "Eu odeio isso. Não estar no controle. Mas...{w} quando eu tento pensar em parar."
 
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:675
-translate portuguese sm1cs_am006_arcade_1358c39d:
-
-    # am "I hate that thought more."
-    am "Eu odeio isso ainda mais."
-
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:676
 translate portuguese sm1cs_am006_arcade_2b35b6fe_1:
 
     # mc "..."
     mc "..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:679
-translate portuguese sm1cs_am006_arcade_51de11e4:
-
-    # mc "So what happens now."
-    mc "Então, e agora."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:682
 translate portuguese sm1cs_am006_arcade_312ca60f:
@@ -1119,18 +909,6 @@ translate portuguese sm1cs_am006_arcade_4fce75df:
 
     # am "And... I... I ended up having a good time on our date, [mcname]."
     am "E... eu... acabei me divertindo bastante no nosso encontro, [mcname]."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:684
-translate portuguese sm1cs_am006_arcade_07abde05:
-
-    # am "You were right, this was a good idea."
-    am "Você estava certo, foi uma boa ideia."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:685
-translate portuguese sm1cs_am006_arcade_e99f4fca:
-
-    # am "I just. For now, I still need time."
-    am "É que... eu preciso de um tempo agora."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:688
 translate portuguese sm1cs_am006_arcade_6857bc43:

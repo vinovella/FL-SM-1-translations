@@ -40,12 +40,6 @@ translate turkish sm1ms011_01i_4f43e9fe:
     # mc "Oh yeah?"
     mc "Öyle mi?"
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:26
-translate turkish sm1ms011_01i_97e65447:
-
-    # sy "There is a IT company in Crowning that is looking for new coders."
-    sy "Crowning'de yeni kodlayıcılar arayan bir BT şirketi var."
-
 # game/code/scenes/main_story/sm1ms011-01i.rpy:28
 translate turkish sm1ms011_01i_d57769c0:
 
@@ -69,12 +63,6 @@ translate turkish sm1ms011_01i_7b8a543a:
 
     # mc "Talk to me about that IT job."
     mc "Bana şu bilişim işinden bahset."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:40
-translate turkish sm1ms011_01i_fb73a4fc:
-
-    # sy "There is a IT Company called Orbix in Crowning. They're looking for a new software engineer."
-    sy "Crowning'de Orbix adında bir BT şirketi var. Yeni bir yazılım mühendisi arıyorlar."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:45
 translate turkish sm1ms011_01i_1ee27939:

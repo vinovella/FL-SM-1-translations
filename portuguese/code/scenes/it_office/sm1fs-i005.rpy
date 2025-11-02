@@ -466,12 +466,6 @@ translate portuguese sm1fs_i005_e51945c9:
     # pm "I never did that."
     pm "Eu nunca fiz isso."
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:280
-translate portuguese sm1fs_i005_e4e800cc:
-
-    # pm "Sienna. You're Dev Ops.{w} Stop this."
-    pm "Sienna. Você é Dev Ops.{w} Cuida disso."
-
 # game/code/scenes/it_office/sm1fs-i005.rpy:284
 translate portuguese sm1fs_i005_ae2631c3:
 
@@ -736,12 +730,6 @@ translate portuguese sm1fs_i005_1d74550d:
     # ml "Can we help you? Libby's screen is still corrupted by smut."
     ml "Precisa de alguma coisa? A tela da Libby ainda está corrompida por sexo."
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:423
-translate portuguese sm1fs_i005_3fe2de4f:
-
-    # en "What is problem?"
-    en "Qual é o problema?"
-
 # game/code/scenes/it_office/sm1fs-i005.rpy:424
 translate portuguese sm1fs_i005_09d178b8:
 
@@ -892,12 +880,6 @@ translate portuguese sm1fs_i005_cadd0aaa:
     # ag "April, I found it."
     ag "April, encontrei."
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:501
-translate portuguese sm1fs_i005_34a4041c:
-
-    # ag "It's in file directory sales flash two-thousand-twenty slash Oh Bee Jay slash archive."
-    ag "Está no diretório de arquivos de vendas barra dois mil e vinte barra O B J barra arquivo."
-
 # game/code/scenes/it_office/sm1fs-i005.rpy:506
 translate portuguese sm1fs_i005_f8ee961d:
 
@@ -1018,12 +1000,6 @@ translate portuguese sm1fs_i005_75d741b5:
     # am "*gulp gulp*"
     am "*gulp gulp*"
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:578
-translate portuguese sm1fs_i005_2225d959:
-
-    # sr "Oh.{w} That's Peters."
-    sr "Ah.{w} É do Peter."
-
 # game/code/scenes/it_office/sm1fs-i005.rpy:581
 translate portuguese sm1fs_i005_15e1e8d2:
 
@@ -1065,12 +1041,6 @@ translate portuguese sm1fs_i005_f2c88c7b:
 
     # cw "And I've done things."
     cw "Eu já fiz coisas."
-
-# game/code/scenes/it_office/sm1fs-i005.rpy:609
-translate portuguese sm1fs_i005_7c679794:
-
-    # cw "I {i}mean{/i} I've seen things."
-    cw "Digo, já {i}vi{/i} umas coisas."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:612
 translate portuguese sm1fs_i005_93ec2d34:
@@ -1378,12 +1348,6 @@ translate portuguese sm1fs_i005_conference_8e7bec65:
     # am "But it will take time."
     am "Mas vai levar tempo."
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:751
-translate portuguese sm1fs_i005_conference_55d98fd1:
-
-    # am "And we're still make the new's website."
-    am "E ainda estamos fazendo o site novo."
-
 # game/code/scenes/it_office/sm1fs-i005.rpy:752
 translate portuguese sm1fs_i005_conference_f1db57cb:
 
@@ -1539,12 +1503,6 @@ translate portuguese sm1fs_i005_conference_64f4e970:
 
     # am "You'll tell Sienna the plan?"
     am "Vai contar o plano pra Sienna?"
-
-# game/code/scenes/it_office/sm1fs-i005.rpy:831
-translate portuguese sm1fs_i005_conference_f5f16d44:
-
-    # ag "Yes. And I presume you're going for a caffiene run?"
-    ag "Sim. E imagino que você vai atrás de uma cafeína?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:834
 translate portuguese sm1fs_i005_conference_dbad630f:

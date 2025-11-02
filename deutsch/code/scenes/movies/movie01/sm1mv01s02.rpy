@@ -988,12 +988,6 @@ translate deutsch sm1mv01s02_later_8218548c:
     # sy "Hehe."
     sy "Hehe."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:511
-translate deutsch sm1mv01s02_later_d0ee1c80:
-
-    # mc "I think it's the perfect ouftit for a pirate queen."
-    mc "Ich finde, das ist das perfekte Outfit für eine Piratenkönigin."
-
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:513
 translate deutsch sm1mv01s02_later_e1b71c15:
 

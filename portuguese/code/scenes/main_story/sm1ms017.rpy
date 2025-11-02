@@ -400,12 +400,6 @@ translate portuguese sm1ms017_5eb30774:
     # sy "That's... *sighing* That's what makes it feel so good."
     sy "Isso que... *suspiro* Isso que deixa mais gostoso."
 
-# game/code/scenes/main_story/sm1ms017.rpy:378
-translate portuguese sm1ms017_759eede0:
-
-    # mc "What will we do if Melony comes back."
-    mc "O que a gente faz se a Melony voltar."
-
 # game/code/scenes/main_story/sm1ms017.rpy:380
 translate portuguese sm1ms017_1188d007:
 
@@ -465,12 +459,6 @@ translate portuguese sm1ms017_a2873c74:
 
     # sy "I can't... I'm going to cumm-fhuaaaa-huaaah."
     sy "Não dá... vou gozaaaaaaaah."
-
-# game/code/scenes/main_story/sm1ms017.rpy:414
-translate portuguese sm1ms017_54884cd5:
-
-    # mc "Well, if mom is in a two-block radius, she definitely heard you cumming."
-    mc "Bom, se a Mãe estiver num raio de dois quarteirões, com certeza ela te ouviu gozando."
 
 # game/code/scenes/main_story/sm1ms017.rpy:416
 translate portuguese sm1ms017_275d03a9:
@@ -555,12 +543,6 @@ translate portuguese sm1ms017_fa33d1a3:
 
     # sy "I'm being squeezed in between a cock and a hard place-huaah."
     sy "Eu tô entre o chão e a espaaaadaaaaa."
-
-# game/code/scenes/main_story/sm1ms017.rpy:450
-translate portuguese sm1ms017_6fdf8c60:
-
-    # mc "Chuckles."
-    mc "*risos*"
 
 # game/code/scenes/main_story/sm1ms017.rpy:453
 translate portuguese sm1ms017_ba3d397e:

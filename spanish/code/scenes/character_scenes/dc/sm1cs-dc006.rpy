@@ -928,12 +928,6 @@ translate spanish sm1cs_dc006_at_park_adecc7f3:
     # mct "Woah... that's a lot to take in..."
     mct "Woah ... eso es mucho para asimilar..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:503
-translate spanish sm1cs_dc006_at_park_c5d95126:
-
-    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w}I know, sir..."
-    dc "Oficial Callahan...{w} Lo sé. Llegué justo cuando escapaba... Lo sé, señor..."
-
 translate spanish strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:436

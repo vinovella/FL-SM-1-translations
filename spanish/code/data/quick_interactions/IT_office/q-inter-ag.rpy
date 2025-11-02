@@ -58,12 +58,6 @@ translate spanish q_inter_ag_4_44962b02:
     # ag "Huh? Oh. Nothing. I uh ... I kind of stayed up late playing a game."
     ag "¿Eh? Oh. Nada. Yo uh... Me quedé despierta hasta tarde jugando un juego."
 
-# game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:59
-translate spanish q_inter_ag_4_08f17d14:
-
-    # ag "I defnintely shouldn't have had that extra energy drink."
-    ag "Definitivamente no debería haber tomado esa bebida energética extra."
-
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:66
 translate spanish q_inter_ag_5_6267fff3:
 
@@ -99,12 +93,6 @@ translate spanish q_inter_ag_7_4a1565c6:
 
     # mc "Not too bad. How about you."
     mc "No tan mal. Y a ti."
-
-# game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:85
-translate spanish q_inter_ag_7_df2dddfd:
-
-    # ag "Great. I finished my book, 'The Mask of Morraco last night."
-    ag "Excelente. Terminé mi libro, La máscara de Morraco anoche."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:86
 translate spanish q_inter_ag_7_c6a3e40d:
@@ -262,12 +250,6 @@ translate spanish q_inter_ag_16_6c504cef:
     # ag "Awesome!"
     ag "¡Impresionante!"
 
-# game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:174
-translate spanish q_inter_ag_17_8fc3f4a6:
-
-    # ag "You know, Ridley makes a pretty margharita."
-    ag "Sabes, Ridley prepara una margarita bastante buena."
-
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:175
 translate spanish q_inter_ag_17_cea800f6:
 
@@ -291,12 +273,6 @@ translate spanish q_inter_ag_18_fbdc9484:
 
     # ag "It's good."
     ag "Va bien."
-
-# game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:188
-translate spanish q_inter_ag_18_93071ec1:
-
-    # mc "Going to be working at the coffee shop for awhile?"
-    mc "¿Vas a trabajar en la cafetería por un tiempo?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:190
 translate spanish q_inter_ag_18_b714cbc4:

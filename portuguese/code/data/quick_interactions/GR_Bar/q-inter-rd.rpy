@@ -46,12 +46,6 @@ translate portuguese q_inter_rd_3_df07d66e:
     # rd "Sup, [mcname]."
     rd "E aí, [mcname]."
 
-# game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:46
-translate portuguese q_inter_rd_4_04b224fc:
-
-    # mc "Phe. Thanks god it's the weekend."
-    mc "Uff. Graças a deus é o fim de semana."
-
 # game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:48
 translate portuguese q_inter_rd_4_cbb1b367:
 

@@ -46,12 +46,6 @@ translate spanish q_inter_rd_3_df07d66e:
     # rd "Sup, [mcname]."
     rd "Sup, [mcname]."
 
-# game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:46
-translate spanish q_inter_rd_4_04b224fc:
-
-    # mc "Phe. Thanks god it's the weekend."
-    mc "¡Uf! Gracias a Dios que es fin de semana."
-
 # game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:48
 translate spanish q_inter_rd_4_cbb1b367:
 

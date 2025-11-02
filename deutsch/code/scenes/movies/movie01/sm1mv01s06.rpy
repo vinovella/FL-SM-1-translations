@@ -1156,12 +1156,6 @@ translate deutsch sm1mv01s06_movie_start_2e1f3bd5:
     # tl "I should have let her gut you."
     tl "Ich hätte sie dich zerfleischen lassen sollen."
 
-# game/code/scenes/movies/movie01/sm1mv01s06.rpy:736
-translate deutsch sm1mv01s06_movie_start_fc77250e:
-
-    # mc "Come now, you'd be missing my devlishly good looks now, wouldn't you?"
-    mc "Komm schon, du würdest doch mein teuflisch gutes Aussehen vermissen, oder?"
-
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:739
 translate deutsch sm1mv01s06_movie_start_fd3b42a7:
 
@@ -1311,12 +1305,6 @@ translate deutsch sm1mv01s06_done_recording_edfa1ed9:
 
     # tl "We did, [mcname]."
     tl "Das tun wir, [mcname]."
-
-# game/code/scenes/movies/movie01/sm1mv01s06.rpy:820
-translate deutsch sm1mv01s06_done_recording_57049b60:
-
-    # kv "I admire your ferver, but let's not forget what we're making."
-    kv "Ich bewundere deine Leidenschaft, aber vergessen wir nicht, was wir hier machen."
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:823
 translate deutsch sm1mv01s06_done_recording_1ebcd936:

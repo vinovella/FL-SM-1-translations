@@ -982,12 +982,6 @@ translate deutsch sm1cs_dc008_eec09208:
     # dc "It's kind of exciting, having you know the {b}real{/b} me..."
     dc "Es ist irgendwie aufregend, dass du mein {b}wahres{/b} Ich kennst..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:441
-translate deutsch sm1cs_dc008_69325c6a:
-
-    # mc "I'm greatful that you shared that part of you with me, Debbie."
-    mc "Ich bin dir sehr dankbar, dass du diesen Teil von dir mit mir geteilt hast, Debbie."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:442
 translate deutsch sm1cs_dc008_286f5b67:
 

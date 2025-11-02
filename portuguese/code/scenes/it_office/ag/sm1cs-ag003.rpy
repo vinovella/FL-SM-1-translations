@@ -478,12 +478,6 @@ translate portuguese sm1cs_ag003_e5856a25:
     # mc "Yeah, that's not a problem."
     mc "Sim, sem problema."
 
-# game/code/scenes/it_office/ag/sm1cs-ag003.rpy:252
-translate portuguese sm1cs_ag003_c42f0397:
-
-    # ag "Thanks! I've been... needing to use the ladies room for awhile, but I hate leaving my stuff unattended. I'll be right back!"
-    ag "Obrigada! Eu estava... precisando ir no banheiro já faz um tempinho, mas odeio deixar as minhas coisas sozinhas. Já volto!"
-
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:267
 translate portuguese sm1cs_ag003_c833a2d2:
 

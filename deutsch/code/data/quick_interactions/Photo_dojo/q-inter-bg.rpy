@@ -40,12 +40,6 @@ translate deutsch q_inter_bg_3_236d9bf8:
     # bg "Oh, nothing. I just enjoy the feeling of latex."
     bg "Ach nichts. Ich mag einfach das Gefühl von Latex."
 
-# game/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy:45
-translate deutsch q_inter_bg_4_acd89230:
-
-    # mc "How long can you wear that oufit for?"
-    mc "Wie lange kannst du dieses Outfit tragen?"
-
 # game/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy:47
 translate deutsch q_inter_bg_4_8c74c33b:
 

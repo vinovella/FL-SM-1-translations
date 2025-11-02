@@ -376,12 +376,6 @@ translate deutsch sm1ms014_6a14826e:
     # my "I just hope it's not like [mcname] though, just posted on the internet for anyone to see."
     my "Ich hoffe nur, dass es nicht so ist wie bei [mcname], das einfach im Internet gepostet wurde, sodass es jeder sehen kann."
 
-# game/code/scenes/main_story/sm1ms014.rpy:186
-translate deutsch sm1ms014_8530affa:
-
-    # sy "Uhm, yeah... no internet nudies of me..."
-    sy "Ähm, ja... keine Nacktfotos von mir im Internet..."
-
 # game/code/scenes/main_story/sm1ms014.rpy:190
 translate deutsch sm1ms014_fa381239:
 

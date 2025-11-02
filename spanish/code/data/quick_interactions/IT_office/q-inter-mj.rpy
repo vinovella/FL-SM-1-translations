@@ -1,8 +1,3 @@
-# game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:16
-translate spanish q_inter_mj_1_980ce44b:
-
-    # mj "[mcname], are participating in this bet on who will have less errors, Anna or April?"
-    mj "[mcname], ¿participas en esta apuesta sobre quién tendrá menos errores, Anna o Abril?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:18
 translate spanish q_inter_mj_1_e5d5f892:
@@ -57,12 +52,6 @@ translate spanish q_inter_mj_3_8a7ee1e8:
 
     # mc "I will-"
     mc "Lo haré."
-
-# game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:40
-translate spanish q_inter_mj_3_506081d3:
-
-    # mj "Actually, I'll just talk to Anna about it! See if she can ge April to surrender her's too."
-    mj "De hecho, ¡hablaré con Anna al respecto! A ver si puede convencer a Abril para que también entregue el suyo."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:46
 translate spanish q_inter_mj_4_819cf8a1:

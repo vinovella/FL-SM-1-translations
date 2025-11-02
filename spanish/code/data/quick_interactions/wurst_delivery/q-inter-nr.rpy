@@ -70,12 +70,6 @@ translate spanish q_inter_nr_7_2fd44bbc:
     # nr "Always loved a good brat. The heat, the taste. Does miracles for your mood."
     nr "Siempre me ha gustado una buena salchicha. El calor, el sabor. Hace milagros para tu estado de ánimo."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:80
-translate spanish q_inter_nr_8_212d12e1:
-
-    # nr "*sniffs* Mmm. Yup, needs a bit more dil before it's ready."
-    nr "*olfatear* Mmm. Sí, necesita un poco más de eneldo antes de que esté listo."
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:86
 translate spanish q_inter_nr_9_a84c87ac:
 

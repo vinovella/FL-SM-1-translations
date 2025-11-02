@@ -808,12 +808,6 @@ translate portuguese sm1ms025_f248d4d6:
     # mc "I don't want you going all 'Man on Fire' on her."
     mc "I don't want you going all 'Man on Fire' on her."
 
-# game/code/scenes/main_story/sm1ms025.rpy:334
-translate portuguese sm1ms025_2f09f1b6:
-
-    # sy "She stole my zip drive."
-    sy "She stole my zip drive."
-
 # game/code/scenes/main_story/sm1ms025.rpy:337
 translate portuguese sm1ms025_a0f6fc60:
 

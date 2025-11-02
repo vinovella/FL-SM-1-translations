@@ -58,12 +58,6 @@ translate turkish sm1fs_i001_525776d2:
     # ag "We're looking to hire some new people to help out, real self-starters and go-getters."
     ag "Yardımcı olabilecek, gerçek anlamda girişimci ve girişken yeni insanlar işe almak istiyoruz."
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:50
-translate turkish sm1fs_i001_eaa649bb:
-
-    # ag "Please have a sit."
-    ag "Lütfen oturun."
-
 # game/code/scenes/it_office/sm1fs-i001.rpy:54
 translate turkish sm1fs_i001_f1001075:
 
@@ -147,12 +141,6 @@ translate turkish sm1fs_i001_0d793d39:
 
     # ag "Sorry, one second."
     ag "Özür dilerim, bir saniye."
-
-# game/code/scenes/it_office/sm1fs-i001.rpy:93
-translate turkish sm1fs_i001_f74f881e:
-
-    # ag "Hi, What can I help you with, April?"
-    ag "Merhaba, April, sana nasıl yardımcı olabilirim?"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:95
 translate turkish sm1fs_i001_47c47bec:
@@ -315,12 +303,6 @@ translate turkish sm1fs_i001_b6c91f38:
 
     # ag "What games are you playing right now?"
     ag "Şu anda hangi oyunları oynuyorsun?"
-
-# game/code/scenes/it_office/sm1fs-i001.rpy:178
-translate turkish sm1fs_i001_371777db:
-
-    # mc "Uhhhh, mostly FPS games. Every once in awhile I'll pull up-"
-    mc "Uhhhh, çoğunlukla FPS oyunları. Arada sırada gelip-"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:181
 translate turkish sm1fs_i001_0133cbf7:

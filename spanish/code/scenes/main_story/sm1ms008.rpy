@@ -214,12 +214,6 @@ translate spanish sm1ms008_77082a31:
     # kv "I like their taste already."
     kv "Ya me gusta su gusto."
 
-# game/code/scenes/main_story/sm1ms008.rpy:140
-translate spanish sm1ms008_dcea2b81:
-
-    # sy "Thre is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-    sy "Hay una última petición. Es un poco extraña. Quieren que la chica sea pelirroja. Así que [mcname] compró esta peluca."
-
 # game/code/scenes/main_story/sm1ms008.rpy:144
 translate spanish sm1ms008_fe56a94c:
 
@@ -375,12 +369,6 @@ translate spanish sm1ms008_special_e32b4852:
 
     # sy "So much wasted time."
     sy "Tanto tiempo perdido."
-
-# game/code/scenes/main_story/sm1ms008.rpy:221
-translate spanish sm1ms008_special_5f718ef7:
-
-    # mc "Well, we're together now. that's the important part."
-    mc "Bueno, estamos juntos ahora. Esa es la parte importante."
 
 # game/code/scenes/main_story/sm1ms008.rpy:224
 translate spanish sm1ms008_special_5ee8dc16:
@@ -640,12 +628,6 @@ translate spanish sm1ms008_special_489e301c:
     # mc "I just like you with your green hair."
     mc "Me gustas con tu cabello verde."
 
-# game/code/scenes/main_story/sm1ms008.rpy:380
-translate spanish sm1ms008_after_choice_c3e521fc:
-
-    # kv "Already Stacy, why don't you give me some poses."
-    kv "Ya Stacy, por qué no me das algunas poses."
-
 # game/code/scenes/main_story/sm1ms008.rpy:383
 translate spanish sm1ms008_after_choice_5ae8e99b:
 
@@ -699,12 +681,6 @@ translate spanish sm1ms008_after_choice_ffa6d3bc:
 
     # kv "I think the only thing left before we can start rehearsing and filming is getting our hands on the right camera."
     kv "Creo que lo único que queda antes de que podamos comenzar a ensayar y filmar es tener nuestras manos en la cámara correcta."
-
-# game/code/scenes/main_story/sm1ms008.rpy:430
-translate spanish sm1ms008_after_choice_147423a9:
-
-    # mc "Wait, don't you have any camera we would ever need, Kanya?"
-    mc "Espera, ¿no tienes ninguna cámara que podamos necesitar, Kanya?"
 
 # game/code/scenes/main_story/sm1ms008.rpy:433
 translate spanish sm1ms008_after_choice_c97b9391:
@@ -766,12 +742,6 @@ translate spanish sm1ms008_after_choice_2cf940ef:
     # kv "You two need to think of this as an investment in the studio's future."
     kv "Ustedes dos deben pensar en esto como una inversión en el futuro del estudio."
 
-# game/code/scenes/main_story/sm1ms008.rpy:455
-translate spanish sm1ms008_after_choice_c425bbc9:
-
-    # sy "I'm thinking about the extra work you'll have to do to get this super camera."
-    sy "Estoy pensando en el trabajo adicional que tendrás que hacer para conseguir esta súper cámara."
-
 # game/code/scenes/main_story/sm1ms008.rpy:458
 translate spanish sm1ms008_after_choice_3724bdef:
 
@@ -814,12 +784,6 @@ translate spanish sm1ms008_after_choice_25849749:
     # kv "If you can't do something right, don't do it at all."
     kv "Si no puedes hacer algo bien, entonces no lo hagas."
 
-# game/code/scenes/main_story/sm1ms008.rpy:482
-translate spanish sm1ms008_after_choice_2bb3b2af:
-
-    # sy "Haha. Good thing that's not, [mcname]'s motto."
-    sy "Jaja. Menos mal que ese no es el lema de [mcname]."
-
 # game/code/scenes/main_story/sm1ms008.rpy:485
 translate spanish sm1ms008_after_choice_669664cb:
 
@@ -849,12 +813,6 @@ translate spanish sm1ms008_after_choice_a69f28cf:
 
     # sy "Once we have it, we'll give you a call to set up a time for filming."
     sy "Cuando lo tengamos, te llamaremos para fijar una hora de grabación."
-
-# game/code/scenes/main_story/sm1ms008.rpy:498
-translate spanish sm1ms008_after_choice_e40ff599:
-
-    # kv "Got it, let me give you my number. In case you need to call me."
-    kv "Lo tengo, déjame darte mi número. En caso de que necesites llamarme."
 
 # game/code/scenes/main_story/sm1ms008.rpy:502
 translate spanish sm1ms008_after_choice_531bfbf1:

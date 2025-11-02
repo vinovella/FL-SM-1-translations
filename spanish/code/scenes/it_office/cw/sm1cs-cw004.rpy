@@ -916,12 +916,6 @@ translate spanish sm1cs_cw004_later_469ced3c:
     # fw "Some things never change."
     fw "Some things never change."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:540
-translate spanish sm1cs_cw004_later_b55f8aba:
-
-    # cw "How is he, daddy?"
-    cw "How is he, daddy?"
-
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:542
 translate spanish sm1cs_cw004_later_0d6be925:
 
@@ -1137,12 +1131,6 @@ translate spanish sm1cs_cw004_first_evening_9360d66a:
 
     # mc "Oh, Mrs. Watts."
     mc "Oh, Mrs. Watts."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:673
-translate spanish sm1cs_cw004_first_evening_0e6a755a:
-
-    # fw "Farrah please, [mcname]."
-    fw "Farrah please, [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:676
 translate spanish sm1cs_cw004_first_evening_90ebc5b5:
@@ -1653,12 +1641,6 @@ translate spanish sm1cs_cw004_first_evening_5b77b33c:
 
     # cw "Hmmph."
     cw "Hmmph."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:899
-translate spanish sm1cs_cw004_first_evening_a1c866a5:
-
-    # cw "*whispers*Stop resisting."
-    cw "*whispers*Stop resisting."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:902
 translate spanish sm1cs_cw004_first_evening_5ffac718:

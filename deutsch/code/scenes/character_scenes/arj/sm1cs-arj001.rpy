@@ -64,12 +64,6 @@ translate deutsch sm1cs_arj001_28b8befe:
     # mc "So you do have it."
     mc "Du hast ihn also doch."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:43
-translate deutsch sm1cs_arj001_205cb6c0:
-
-    # arj "So what if I do? {i}No one{/i} should have the zip drive."
-    arj "Was wäre wenn ich ihn habe? {i}Niemand{/i} sollte das Zip-Laufwerk haben."
-
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:46
 translate deutsch sm1cs_arj001_cc9b4160:
 

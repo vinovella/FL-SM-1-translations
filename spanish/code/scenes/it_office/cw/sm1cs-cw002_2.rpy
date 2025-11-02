@@ -58,12 +58,6 @@ translate spanish sm1cs_cw002_2_922985af:
     # cw "*whispers* I knew I should have asked Eugene."
     cw "*susurros* Sabía que debería haberle preguntado a Eugene."
 
-# game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:57
-translate spanish sm1cs_cw002_2_3bf24d7c:
-
-    # mc "*whispers* Eugene? Claire. I'm totally lost."
-    mc "*susurros* ¿Eugene? Claire. Estoy totalmente perdido."
-
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:60
 translate spanish sm1cs_cw002_2_cc0d32d7:
 
@@ -489,12 +483,6 @@ translate spanish sm1cs_cw002_2_6902edb5:
 
     # fw "Yes."
     fw "Sí."
-
-# game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:252
-translate spanish sm1cs_cw002_2_f1ec3231:
-
-    # cw "You told daddy?"
-    cw "¿Le dijiste a papá?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:254
 translate spanish sm1cs_cw002_2_66311414:

@@ -46,12 +46,6 @@ translate turkish q_inter_rd_3_df07d66e:
     # rd "Sup, [mcname]."
     rd "Merhaba, [mcname]."
 
-# game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:46
-translate turkish q_inter_rd_4_04b224fc:
-
-    # mc "Phe. Thanks god it's the weekend."
-    mc "Phe. Tanrıya şükür hafta sonu geldi."
-
 # game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:48
 translate turkish q_inter_rd_4_cbb1b367:
 

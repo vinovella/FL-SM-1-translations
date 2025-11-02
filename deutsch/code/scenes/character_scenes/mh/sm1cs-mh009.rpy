@@ -832,12 +832,6 @@ translate deutsch sm1cs_mh009_c123a681:
     # mh "Well... let meee seeeee..."
     mh "Nun... mal sehen..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:424
-translate deutsch sm1cs_mh009_23db73dc:
-
-    # mh "So... one the the things I've always wanted to do... it to be displayed at a, like, BDSM club."
-    mh "Also... eines der Dinge, die ich schon immer machen wollte... ist, dass es in einem BDSM-Club ausgestellt wird."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:427
 translate deutsch sm1cs_mh009_555eca7c:
 

@@ -1864,12 +1864,6 @@ translate portuguese sm1cs_ns007_walkaway_1f0277e6:
     # ns "Hmm... considering the food, conversation, company and my the amount of times I came..."
     ns "Hmmm... considerando a comida, a conversa, a companhia, o número de vezes que eu gozei..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:999
-translate portuguese sm1cs_ns007_walkaway_9df893e7:
-
-    # ns "I will award you...{w}a Eight out of Ten."
-    ns "Eu vou dar...{w} oito de dez."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1003
 translate portuguese sm1cs_ns007_walkaway_e1669c33:
 

@@ -352,12 +352,6 @@ translate italian sm1xc_ns_tl_001_ae80dd7c:
     # tl "*grins* Honey, that doesn't even register on the scale of \"unhygienic\" things I could do to you."
     tl "*grins* Honey, that doesn't even register on the scale of \"unhygienic\" things I could do to you."
 
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:214
-translate italian sm1xc_ns_tl_001_05d10f54:
-
-    # ns "I— The pancake!"
-    ns "I— The pancake!"
-
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:218
 translate italian sm1xc_ns_tl_001_27045d3c:
 
@@ -442,18 +436,6 @@ translate italian sm1xc_ns_tl_001_5157ef9b:
     # mc "Where...where did that come from?"
     mc "Where...where did that come from?"
 
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:259
-translate italian sm1xc_ns_tl_001_d20a955f:
-
-    # ns "*tilts head, confused* From your video. I analyzed the micro-expressions during the climactic scene. The data suggests a strong correlation between asphyxiation and Taisia's pleasure centers."
-    ns "*tilts head, confused* From your video. I analyzed the micro-expressions during the climactic scene. The data suggests a strong correlation between asphyxiation and Taisia's pleasure centers."
-
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:263
-translate italian sm1xc_ns_tl_001_389ddfbe:
-
-    # tl "*laughs* You analyzed my fucking o-face? You're a goddamn lunatic. I love it."
-    tl "*laughs* You analyzed my fucking o-face? You're a goddamn lunatic. I love it."
-
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:266
 translate italian sm1xc_ns_tl_001_5bf45088:
 
@@ -465,12 +447,6 @@ translate italian sm1xc_ns_tl_001_f545278b:
 
     # ns "I've never actually lived with non-family roommates before."
     ns "I've never actually lived with non-family roommates before."
-
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:276
-translate italian sm1xc_ns_tl_001_814a8864:
-
-    # tl "Firsts for us both then. I've never stayed in one place long enough to have \"roommate traditions.\""
-    tl "Firsts for us both then. I've never stayed in one place long enough to have \"roommate traditions.\""
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:279
 translate italian sm1xc_ns_tl_001_56d6709b:
@@ -556,12 +532,6 @@ translate italian sm1xc_ns_tl_001_741ed234:
     # tl "Not half-bad on the pancakes, newbie. You might actually be useful in the kitchen."
     tl "Not half-bad on the pancakes, newbie. You might actually be useful in the kitchen."
 
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:323
-translate italian sm1xc_ns_tl_001_f029402d:
-
-    # ns "*beams* Thank you! I enjoyed working with you too."
-    ns "*beams* Thank you! I enjoyed working with you too."
-
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:327
 translate italian sm1xc_ns_tl_001_e516b7f0:
 
@@ -586,30 +556,6 @@ translate italian sm1xc_ns_tl_001_903b967b:
     # tl "*smirks* You know, \"communal meals\" aren't the only thing that strengthens social bonds."
     tl "*smirks* You know, \"communal meals\" aren't the only thing that strengthens social bonds."
 
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:339
-translate italian sm1xc_ns_tl_001_b4b80497:
-
-    # tl "I bet you make a pretty sweet cake, Nari. Wouldn't mind eating that sometime."
-    tl "I bet you make a pretty sweet cake, Nari. Wouldn't mind eating that sometime."
-
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:342
-translate italian sm1xc_ns_tl_001_da4a4919:
-
-    # ns "*blushes* I...would like that as well."
-    ns "*blushes* I...would like that as well."
-
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:344
-translate italian sm1xc_ns_tl_001_16e4de2b:
-
-    # tl "...Damn. Direct."
-    tl "...Damn. Direct."
-
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:345
-translate italian sm1xc_ns_tl_001_96b1408e:
-
-    # ns "I find clarity prevents misunderstandings. In all contexts."
-    ns "I find clarity prevents misunderstandings. In all contexts."
-
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:348
 translate italian sm1xc_ns_tl_001_3af1fa7f:
 
@@ -627,12 +573,6 @@ translate italian sm1xc_ns_tl_001_9392ab2c:
 
     # tl "Alright, I've got shit to do. But this wasn't terrible."
     tl "Alright, I've got shit to do. But this wasn't terrible."
-
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:356
-translate italian sm1xc_ns_tl_001_6c38e983:
-
-    # ns "High praise from Taisia, I assume?"
-    ns "High praise from Taisia, I assume?"
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:359
 translate italian sm1xc_ns_tl_001_5f3bfdc5:

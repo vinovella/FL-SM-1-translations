@@ -400,12 +400,6 @@ translate deutsch sm1ms017_5eb30774:
     # sy "That's... *sighing* That's what makes it feel so good."
     sy "Das ist... *seufzend* Das ist es, was es so gut macht."
 
-# game/code/scenes/main_story/sm1ms017.rpy:378
-translate deutsch sm1ms017_759eede0:
-
-    # mc "What will we do if Melony comes back."
-    mc "Was machen wir, wenn Melony zurückkommt?"
-
 # game/code/scenes/main_story/sm1ms017.rpy:380
 translate deutsch sm1ms017_1188d007:
 
@@ -465,12 +459,6 @@ translate deutsch sm1ms017_a2873c74:
 
     # sy "I can't... I'm going to cumm-fhuaaaa-huaaah."
     sy "Ich kann nicht... Ich komme gleich... fhuaaaa-huaaah."
-
-# game/code/scenes/main_story/sm1ms017.rpy:414
-translate deutsch sm1ms017_54884cd5:
-
-    # mc "Well, if mom is in a two-block radius, she definitely heard you cumming."
-    mc "Nun, wenn Mama in einem Umkreis von zwei Blocks ist, hat sie dich definitiv kommen hören."
 
 # game/code/scenes/main_story/sm1ms017.rpy:416
 translate deutsch sm1ms017_275d03a9:
@@ -555,12 +543,6 @@ translate deutsch sm1ms017_fa33d1a3:
 
     # sy "I'm being squeezed in between a cock and a hard place-huaah."
     sy "Ich stecke zwischen Schwanz und Borke – huaah."
-
-# game/code/scenes/main_story/sm1ms017.rpy:450
-translate deutsch sm1ms017_6fdf8c60:
-
-    # mc "Chuckles."
-    mc "Kichert."
 
 # game/code/scenes/main_story/sm1ms017.rpy:453
 translate deutsch sm1ms017_ba3d397e:

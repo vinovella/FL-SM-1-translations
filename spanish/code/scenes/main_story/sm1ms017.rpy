@@ -400,12 +400,6 @@ translate spanish sm1ms017_5eb30774:
     # sy "That's... *sighing* That's what makes it feel so good."
     sy "Eso es... *suspiro* Eso es lo que lo hace sentir tan bien."
 
-# game/code/scenes/main_story/sm1ms017.rpy:378
-translate spanish sm1ms017_759eede0:
-
-    # mc "What will we do if Melony comes back."
-    mc "¿Qué haremos si Melony regresa?"
-
 # game/code/scenes/main_story/sm1ms017.rpy:380
 translate spanish sm1ms017_1188d007:
 
@@ -465,12 +459,6 @@ translate spanish sm1ms017_a2873c74:
 
     # sy "I can't... I'm going to cumm-fhuaaaa-huaaah."
     sy "No puedo... Voy a correrme... fuaaaaa-Huaaah."
-
-# game/code/scenes/main_story/sm1ms017.rpy:414
-translate spanish sm1ms017_54884cd5:
-
-    # mc "Well, if mom is in a two-block radius, she definitely heard you cumming."
-    mc "Bueno, si mamá está en un radio de dos bloques, definitivamente te escuchó correrse."
 
 # game/code/scenes/main_story/sm1ms017.rpy:416
 translate spanish sm1ms017_275d03a9:
@@ -555,12 +543,6 @@ translate spanish sm1ms017_fa33d1a3:
 
     # sy "I'm being squeezed in between a cock and a hard place-huaah."
     sy "Estoy siendo presionada entre una polla y un lugar duro-Huaah."
-
-# game/code/scenes/main_story/sm1ms017.rpy:450
-translate spanish sm1ms017_6fdf8c60:
-
-    # mc "Chuckles."
-    mc "Risas."
 
 # game/code/scenes/main_story/sm1ms017.rpy:453
 translate spanish sm1ms017_ba3d397e:

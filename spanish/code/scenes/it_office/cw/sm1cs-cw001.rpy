@@ -466,12 +466,6 @@ translate spanish sm1cs_cw001_end_convo_37449fa2:
     # cw "Mmm. Perhaps I'll tell you once we know each other a little better."
     cw "Mmm. Quizá te lo diga cuando nos conozcamos un poco mejor."
 
-# game/code/scenes/it_office/cw/sm1cs-cw001.rpy:294
-translate spanish sm1cs_cw001_end_convo_e84d2828:
-
-    # mc "Did Orbix had some trouble with inter-office relationships in the past."
-    mc "¿Orbix tuvo algún problema con las relaciones entre oficinas en el pasado?"
-
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:297
 translate spanish sm1cs_cw001_end_convo_5c06ba6e:
 

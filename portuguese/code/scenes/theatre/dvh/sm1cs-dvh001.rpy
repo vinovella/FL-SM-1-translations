@@ -28,12 +28,6 @@ translate portuguese sm1cs_dvh001_a41d5ab8:
     # mct "Is she checking me out? No, no way."
     mct "Ela tá dando uma olhada em mim? Não, impossível."
 
-# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:27
-translate portuguese sm1cs_dvh001_65e5fc7f:
-
-    # dvh "I shall return to the stage in a moment. Just need some time to breath deep."
-    dvh "Já já eu volto ao palco. Só preciso de um tempo para respirar fundo."
-
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:29
 translate portuguese sm1cs_dvh001_5693a819:
 
@@ -453,12 +447,6 @@ translate portuguese sm1cs_dvh001_14552750:
 
     # dvh "You have to prove to me, and this theater, that you are worth the work."
     dvh "Você tem que provar para mim e para esse teatro que é capaz, que você vale o esforço."
-
-# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:213
-translate portuguese sm1cs_dvh001_719e3578:
-
-    # dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on."
-    dvh "Eu vejo potencial em você. Mas até eu ver que não é outro Bram, não vou desperdiçar mais tempo."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:214
 translate portuguese sm1cs_dvh001_830dd4fe:

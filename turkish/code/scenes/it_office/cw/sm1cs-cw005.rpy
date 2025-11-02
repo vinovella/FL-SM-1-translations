@@ -238,12 +238,6 @@ translate turkish sm1cs_cw005_pushy_menu_1f28d6f7:
     # cw "..."
     cw "..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:187
-translate turkish sm1cs_cw005_pushy_menu_0e0dad50:
-
-    # cw "Well...{w} I'm sure you'll change you're tune once we're riding the waves on-"
-    cw "Şey...{w} Dalgaların üzerinde yol almaya başladığımızda fikrini değiştireceğinden eminim-"
-
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:201
 translate turkish sm1cs_cw005_jetski_92c12530:
 
@@ -562,12 +556,6 @@ translate turkish sm1cs_cw005_food_bae46cee:
     # chw "Yes. It looks like we skipped {i}that{/i} step, Claire."
     chw "Evet. Görünüşe göre {i}o{/i} adımı atlamışız, Claire."
 
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:393
-translate turkish sm1cs_cw005_food_5db52f36:
-
-    # cw "I know, daddy."
-    cw "Biliyorum baba."
-
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:394
 translate turkish sm1cs_cw005_food_420a15e5:
 
@@ -765,12 +753,6 @@ translate turkish sm1cs_cw005_food_46db9d1a:
 
     # cw "We need to be fresh and ready to get off the ship tomorrow morning."
     cw "Yarın sabah gemiden ayrılmak için dinç ve hazır olmamız gerekiyor."
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:493
-translate turkish sm1cs_cw005_food_aad8666d:
-
-    # fw "*titers*"
-    fw "*titreler*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:495
 translate turkish sm1cs_cw005_food_15cad887:
@@ -1113,12 +1095,6 @@ translate turkish sm1cs_cw005_sauna_menu_c84a2f9b:
 
     # cw "*laughing*"
     cw "*gülerek*"
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:667
-translate turkish sm1cs_cw005_sauna_menu_adfd11fc:
-
-    # mct "Woah. I think this is the frist time I've seen Claire really laugh."
-    mct "Vay canına. Sanırım Claire'in gerçekten güldüğünü ilk kez görüyorum."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:668
 translate turkish sm1cs_cw005_sauna_menu_2e8ec580:
@@ -1654,12 +1630,6 @@ translate turkish sm1cs_cw005_sauna_menu_488b8084:
     # cw "*whispers* Keep tugging your..."
     cw "*fısıldar* Çekmeye devam et..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:922
-translate turkish sm1cs_cw005_sauna_menu_3a6318f7:
-
-    # cw "Nevermind. You have the situation well in hand."
-    cw "Önemli değil. Durum senin kontrolünde."
-
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:923
 translate turkish sm1cs_cw005_sauna_menu_c1132855:
 
@@ -1869,12 +1839,6 @@ translate turkish sm1cs_cw005_sauna_menu_712398b8:
 
     # mct "That perfect mix of tanginess and a little bit of sweat."
     mct "Ekşiliğin ve biraz terin mükemmel karışımı."
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1008
-translate turkish sm1cs_cw005_sauna_menu_b244197e:
-
-    # mct "And her body keeps shaking whenver my nose brushes her clit."
-    mct "Ve burnum klitorisine değdiği her an vücudu titriyor."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1009
 translate turkish sm1cs_cw005_sauna_menu_95d96455:
@@ -2575,10 +2539,4 @@ translate turkish strings:
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1296
     old "It was actually a lot of fun"
     new "Aslında çok eğlenceliydi"
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:172
-translate turkish sm1cs_cw005_pushy_menu_74f0afa1:
-
-    # cw "Well, get moving Mr. Bird."
-    cw "Hadi, hareket edin Bay Bird."
 

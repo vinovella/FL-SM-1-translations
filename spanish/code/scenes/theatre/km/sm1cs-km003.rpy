@@ -70,12 +70,6 @@ translate spanish sm1cs_km003_40626d0a:
     # km "[mcname], I said I was sorry. We don't have time for this."
     km "[mcname], dije que lo sentía. No tenemos tiempo para esto."
 
-# game/code/scenes/theatre/km/sm1cs-km003.rpy:69
-translate spanish sm1cs_km003_714eb50e:
-
-    # mc "Oh yeah, you're two out of five-star apology. Very sincere."
-    mc "Oh sí, tienes dos de cinco estrellas en disculpas. Muy sincera."
-
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:70
 translate spanish sm1cs_km003_1d7f48ab:
 

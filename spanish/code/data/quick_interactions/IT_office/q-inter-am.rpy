@@ -382,12 +382,6 @@ translate spanish q_inter_am_15_aeda5222:
     # am "Yes. You just needed to switch those settings."
     am "Sí. Solo necesitabas cambiar esa configuración."
 
-# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:222
-translate spanish q_inter_am_15_c1491850:
-
-    # mc "I thought I could make it more effecient."
-    mc "Pensé que podría hacerlo más eficiente."
-
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:226
 translate spanish q_inter_am_15_18244209:
 
@@ -603,12 +597,6 @@ translate spanish q_inter_am_21_93202109:
 
     # am "Really?"
     am "¿De verdad?"
-
-# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:330
-translate spanish q_inter_am_21_ba0d4547:
-
-    # am "Uh... nevermind. It might be awkward. And you'd just be sitting there."
-    am "Uh... no importa. Puede ser incómodo. Y estarías sentado allí."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:332
 translate spanish q_inter_am_21_c20a9812:

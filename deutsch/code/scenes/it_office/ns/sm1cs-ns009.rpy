@@ -904,12 +904,6 @@ translate deutsch sm1cs_ns009_sex_continue_0145eaba:
     # mc "It's a great view too."
     mc "Die Aussicht ist auch großartig."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:513
-translate deutsch sm1cs_ns009_sex_continue_d91949c4:
-
-    # ns "*giggles* Don't make feel {i}too{/i} embarassed, [mcname]."
-    ns "*kichert* Mach mich nicht {i}zu{/i} sehr verlegen, [mcname]."
-
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
 translate deutsch sm1cs_ns009_sex_continue_b1abdbcc:
 

@@ -556,12 +556,6 @@ translate spanish sm1cs_my004_3d86cf3a:
     # mc "I, uhhh, like the colors of your suit? And... it looks good?"
     mc "Me, uhhh, ¿gustan los colores de tu traje? Y... ¿se ve bien?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:318
-translate spanish sm1cs_my004_fe4717cc:
-
-    # sy "Come on, [mcname]. You have got to do better then that. How about the cut? The fit?"
-    sy "Vamos, [mcname]. Tienes que hacerlo mejor que eso. ¿Qué tal el corte? ¿El ajuste?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:320
 translate spanish sm1cs_my004_a48048a7:
 

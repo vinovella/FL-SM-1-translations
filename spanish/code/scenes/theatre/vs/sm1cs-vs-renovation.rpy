@@ -148,12 +148,6 @@ translate spanish sm1cs_vs_renovation_17f20e7d:
     # vs "Oh come on, [mcname]. Like you've never broken a rule."
     vs "Oh, vamos, [mcname]. Como si nunca hubieras roto una regla."
 
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:95
-translate spanish sm1cs_vs_renovation_5b7540d5:
-
-    # mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming a actor in the group."
-    mc "Oh, definitivamente lo he hecho, pero no voy a hacer algo que pueda evitar que me convierta en actor en el grupo."
-
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:98
 translate spanish sm1cs_vs_renovation_122cb1b1:
 

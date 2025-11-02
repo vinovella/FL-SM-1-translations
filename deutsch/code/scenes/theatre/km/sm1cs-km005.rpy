@@ -850,12 +850,6 @@ translate deutsch sm1cs_km005_e3fae15a:
     # km "Oh my god. You're the worst."
     km "Oh my god. You're the worst."
 
-# game/code/scenes/theatre/km/sm1cs-km005.rpy:428
-translate deutsch sm1cs_km005_c2cf8f3d:
-
-    # mc "Says the girls with hard nipples poking at her top."
-    mc "Says the girls with hard nipples poking at her top."
-
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:437
 translate deutsch sm1cs_km005_84ef3c75:
 

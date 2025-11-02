@@ -496,12 +496,6 @@ translate portuguese sm1fs_t003_490046c8:
     # mct "Hmmm. There is something off about her."
     mct "Hmmm. Tem algo estranho com essa garota."
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:273
-translate portuguese sm1fs_t003_4479ad4e:
-
-    # mc "Veronica, have wet met before?"
-    mc "Veronica, a gente já se conhece?"
-
 # game/code/scenes/theatre/sm1fs-t003.rpy:276
 translate portuguese sm1fs_t003_88bd8629:
 
@@ -651,12 +645,6 @@ translate portuguese sm1fs_t003_a64e8bc0:
 
     # mc "Thanks."
     mc "Valeu."
-
-# game/code/scenes/theatre/sm1fs-t003.rpy:355
-translate portuguese sm1fs_t003_a27410eb:
-
-    # dvh "Hmmm. {w}I think you posess some talent, [mcname]."
-    dvh "Hmmm. {w}Acho que você tem certo talent, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:358
 translate portuguese sm1fs_t003_e4288785:
@@ -915,12 +903,6 @@ translate portuguese sm1fs_t003_7ed98bea:
 
     # vs "I'm not big time. Not like some people here!"
     vs "Não sou importante. Não como certas pessoas aqui!"
-
-# game/code/scenes/theatre/sm1fs-t003.rpy:487
-translate portuguese sm1fs_t003_c277c835:
-
-    # vs "Seriously, it's not a problem! I'm super happy to show you around"
-    vs "Não é problema algum, sério! Fico muito feliz em te mostrar o lugar!"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:490
 translate portuguese sm1fs_t003_cee91ee1:

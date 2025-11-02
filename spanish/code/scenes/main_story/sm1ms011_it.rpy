@@ -46,12 +46,6 @@ translate spanish sm1ms011_it_b604545e:
     # mc "I just landed the job. I'm not sure I'm ready to think about another job."
     mc "Acabo de conseguir el trabajo. No estoy seguro de estar listo para pensar en otro trabajo."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:26
-translate spanish sm1ms011_it_fd1ea990:
-
-    # sy "Okay, fair enough. Speaking of the company, Orbix right? You haven't told me much about the people there."
-    sy "Está bien, bastante justo. Hablando de la empresa, Orbix, ¿verdad? No me has contado mucho sobre la gente de allí."
-
 # game/code/scenes/main_story/sm1ms011_it.rpy:29
 translate spanish sm1ms011_it_40f46a63:
 
@@ -153,12 +147,6 @@ translate spanish sm1ms011_it_dbb29552:
 
     # sy "Sure, but I'd bet my last pair of panties that someone stood out."
     sy "Claro, pero apostaría a mi último par de bragas que alguien destacó."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:113
-translate spanish sm1fs_i011_it_talk_ns_18515f7b:
-
-    # mc "This girl Nari Song is pretty cute"
-    mc "Esta chica Nari Song es muy linda."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:116
 translate spanish sm1fs_i011_it_talk_ns_446f60a3:
@@ -328,18 +316,6 @@ translate spanish sm1fs_i011_it_talk_am_4208fc10:
     # sy "What a bitch!"
     sy "¡Qué perra!"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:212
-translate spanish sm1fs_i011_it_talk_am_0503cb58:
-
-    # mc "Maybe. If she's been pared with other people before that didn't work out, maybe she's tired to dealing with noobs."
-    mc "Tal vez. Si ella ha estado con otras personas antes y no funcionó, es posible que esté cansada de tratar con novatos."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:215
-translate spanish sm1fs_i011_it_talk_am_fd753b6a:
-
-    # sy "Hmmmph. That's no need to be rude to your or the new girl."
-    sy "Hmmmph. No hay necesidad de ser grosera contigo o con la chica nueva."
-
 # game/code/scenes/main_story/sm1ms011_it.rpy:218
 translate spanish sm1fs_i011_it_talk_am_6c3434eb:
 
@@ -381,12 +357,6 @@ translate spanish sm1ms011_it_continue_14c261e5:
 
     # mc "Given she's my boss' boss, I figured it would be smart to stay clear of her."
     mc "Dado que ella es la jefa de mi jefa, pensé que sería inteligente mantenerse alejado de ella."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:242
-translate spanish sm1ms011_it_continue_6fb9ec78:
-
-    # sy "No way. Big mistake, pal. Think about it. She could be the biggest close pervert of the mall."
-    sy "De ninguna manera. Es un gran error, amigo. Piénsalo. Podría ser la mayor pervertida de todas."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:243
 translate spanish sm1ms011_it_continue_00b812a7:
@@ -441,12 +411,6 @@ translate spanish sm1ms011_it_continue_ddaffa1b:
 
     # mc "I'll see what I can do."
     mc "Veré lo que puedo hacer."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:277
-translate spanish sm1ms011_it_continue_fdc777bd:
-
-    # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it ouf the park."
-    sy "Excelente. Te conozco, [mcname]. Sea lo que sea que se te ocurra, estoy segura de que puedes golpearlo en el parque."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:280
 translate spanish sm1ms011_it_continue_6be1610b:

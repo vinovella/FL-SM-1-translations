@@ -22,12 +22,6 @@ translate deutsch q_inter_lm_1_d425daa3:
     # mc "Sure?"
     mc "Sicher?"
 
-# game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:22
-translate deutsch q_inter_lm_1_ab01c9f3:
-
-    # lm "Awesome. Their good changes, I just need to know she's doing stuff."
-    lm "Großartig. Diese guten Veränderungen, ich muss nur wissen, dass sie etwas unternimmt."
-
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:28
 translate deutsch q_inter_lm_2_97eaf931:
 
@@ -45,12 +39,6 @@ translate deutsch q_inter_lm_2_9eade80d:
 
     # lm "Great! Claire and I went out to this diner last night and I'm still thinking about it. God, it was good..."
     lm "Großartig! Claire und ich waren gestern Abend in diesem Diner und ich denke immer noch daran. Gott, war das gut..."
-
-# game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:37
-translate deutsch q_inter_lm_3_b6e5bab8:
-
-    # lm "Oh, [mcname]. if you see April can you tell her to come see me? I have a doozy of an error I need some help with."
-    lm "Oh, [mcname]. Wenn du April siehst, kannst du ihr bitte sagen, dass sie zu mir kommen soll? Ich habe einen riesigen Fehler, bei dem ich Hilfe brauche."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:39
 translate deutsch q_inter_lm_3_54ff50e6:

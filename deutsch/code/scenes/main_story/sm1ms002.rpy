@@ -58,12 +58,6 @@ translate deutsch sm1ms002_7e80f756:
     # sy "Is the delivery job that bad?"
     sy "Ist der Lieferjob so schlimm?"
 
-# game/code/scenes/main_story/sm1ms002.rpy:59
-translate deutsch sm1ms002_1b967ef2:
-
-    # mc "I haven't started cutting on myself yet."
-    mc "Ich habe noch nicht angefangen, mich selbst zu ritzen."
-
 # game/code/scenes/main_story/sm1ms002.rpy:61
 translate deutsch sm1ms002_d8f519df:
 

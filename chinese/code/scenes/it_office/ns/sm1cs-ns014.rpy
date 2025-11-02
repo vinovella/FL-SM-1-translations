@@ -586,24 +586,6 @@ translate chinese sm1cs_ns014_studio_16053267:
     # mct "She is very open-minded but she's bound to ask questions if she comes down for breakfast and there is a full porn movie production in her home."
     mct "她思想很开放，但如果她下楼吃早餐时发现家里正在制作色情电影，她肯定会问问题的。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:381
-translate chinese sm1cs_ns014_studio_82687d68:
-
-    # mc "You’re a natural, Nari."
-    mc "你真有天赋，娜丽。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:384
-translate chinese sm1cs_ns014_studio_1ed11863:
-
-    # ns "Heehee, stop it. I’m shy!"
-    ns "嘻嘻，别这样，我害羞啦！"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:387
-translate chinese sm1cs_ns014_studio_6c5986ee:
-
-    # sy "Lies! You’re eating this up."
-    sy "别骗了！你完全沉浸其中。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:390
 translate chinese sm1cs_ns014_studio_5b482089:
 
@@ -736,35 +718,17 @@ translate chinese sm1cs_ns014_studio_252151bc:
     # ns "Wait—like... porn movies? You're saying that you are going to film porn here?"
     ns "等等——比如...色情电影？你是说你要在这里拍色情片？"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:456
-translate chinese sm1cs_ns014_studio_16934f4b:
-
-    # mc "Yeah. I should’ve told you sooner."
-    mc "是啊。我早该早点告诉你。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:459
 translate chinese sm1cs_ns014_studio_093a0059:
 
     # ns "Oh my god!"
     ns "天哪！"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:460
-translate chinese sm1cs_ns014_studio_1090ea49:
-
-    # ns "That’s so wild, [mcname]. So all this camera gear is for... wow."
-    ns "太疯狂了，[mcname]。原来这些摄像设备都是为了……哇。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:461
 translate chinese sm1cs_ns014_studio_626fc7a0:
 
     # ns "All of the decorations make a lot more sense now."
     ns "现在所有的装饰都说得通了。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:464
-translate chinese sm1cs_ns014_studio_277f1a2a:
-
-    # mc "I’m sorry for keeping it from you. Can you forgive me?"
-    mc "对不起瞒着你。你能原谅我吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:467
 translate chinese sm1cs_ns014_studio_00ea30d8:
@@ -1006,12 +970,6 @@ translate chinese sm1cs_ns014_studio_181bcc42:
     # ns "First. Can I help film too?"
     ns "首先。我也可以参与拍摄吗？"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:575
-translate chinese sm1cs_ns014_studio_26fcd2da:
-
-    # mc "Really? You’d want to? As in actually be filmed in scenes with me?"
-    mc "真的？你愿意吗？也就是说真的和我一起出现在镜头里？"
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:578
 translate chinese sm1cs_ns014_studio_92f49a7a:
 
@@ -1066,23 +1024,11 @@ translate chinese sm1cs_ns014_studio_3653f87d:
     # ns "Is that alright?"
     ns "可以吗？"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:599
-translate chinese sm1cs_ns014_studio_c88ffcce:
-
-    # mc "Of course. Whatever you’re comfortable with."
-    mc "当然。随你觉得舒服就行。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:603
 translate chinese sm1cs_ns014_studio_46f34de2:
 
     # ns "Perfect! And... you know..."
     ns "太好了！而且...你知道..."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:606
-translate chinese sm1cs_ns014_studio_0a63f1bb:
-
-    # sy "I’m so excited! We’re gonna have so much fun, Nari."
-    sy "我太兴奋了！我们会玩得很开心的，娜丽。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:610
 translate chinese sm1cs_ns014_studio_3dab1d16:
@@ -1261,4 +1207,58 @@ translate chinese sm1cs_ns014_studio_658994d8:
 
     # mc "Never mind."
     mc "没关系。"
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:382
+translate chinese sm1cs_ns014_studio_56ae4acc:
+
+    # mc "You're a natural, Nari."
+    mc "You're a natural, Nari."
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:385
+translate chinese sm1cs_ns014_studio_f6999e6a:
+
+    # ns "Heehee, stop it. I'm shy!"
+    ns "Heehee, stop it. I'm shy!"
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:388
+translate chinese sm1cs_ns014_studio_9904ae8d:
+
+    # sy "Lies! You're eating this up."
+    sy "Lies! You're eating this up."
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:459
+translate chinese sm1cs_ns014_studio_0444f710:
+
+    # mc "Yeah. I should've told you sooner."
+    mc "Yeah. I should've told you sooner."
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:463
+translate chinese sm1cs_ns014_studio_7d588463:
+
+    # ns "That's so wild, [mcname]. So all this camera gear is for... wow."
+    ns "That's so wild, [mcname]. So all this camera gear is for... wow."
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:467
+translate chinese sm1cs_ns014_studio_8664f48e:
+
+    # mc "I'm sorry for keeping it from you. Can you forgive me?"
+    mc "I'm sorry for keeping it from you. Can you forgive me?"
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:578
+translate chinese sm1cs_ns014_studio_f95ee359:
+
+    # mc "Really? You'd want to? As in actually be filmed in scenes with me?"
+    mc "Really? You'd want to? As in actually be filmed in scenes with me?"
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:602
+translate chinese sm1cs_ns014_studio_33145967:
+
+    # mc "Of course. Whatever you're comfortable with."
+    mc "Of course. Whatever you're comfortable with."
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:609
+translate chinese sm1cs_ns014_studio_883c4173:
+
+    # sy "I'm so excited! We're gonna have so much fun, Nari."
+    sy "I'm so excited! We're gonna have so much fun, Nari."
 

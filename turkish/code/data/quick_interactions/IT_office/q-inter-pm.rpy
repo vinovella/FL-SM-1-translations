@@ -40,12 +40,6 @@ translate turkish q_inter_pm_3_cfd60fb8:
     # mc "Hey, Peter."
     mc "Merhaba, Peter."
 
-# game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:37
-translate turkish q_inter_pm_3_0e6e8a48:
-
-    # pm "Hey! [mcname], whose always playing the rock music way too loud over there?"
-    pm "Hey! [mcname], orada her zaman çok yüksek sesle rock müziği çalan kim?"
-
 # game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:39
 translate turkish q_inter_pm_3_2f85990b:
 

@@ -112,12 +112,6 @@ translate deutsch sm1fs_i004_7dd67392:
     # ag "I don't need the attitude, April."
     ag "Ich brauche diese Einstellung nicht, April."
 
-# game/code/scenes/it_office/sm1fs-i004.rpy:82
-translate deutsch sm1fs_i004_78844870:
-
-    # am "Sorry, {i}Aubergine Annie{/i}."
-    am "Entschuldigung, {i}Aubergine Annie{/i}."
-
 # game/code/scenes/it_office/sm1fs-i004.rpy:85
 translate deutsch sm1fs_i004_bbcc2a25:
 
@@ -196,12 +190,6 @@ translate deutsch sm1fs_i004_3c2c4bec:
     # ag "Nari-"
     ag "Nari-"
 
-# game/code/scenes/it_office/sm1fs-i004.rpy:124
-translate deutsch sm1fs_i004_b146f86d:
-
-    # ns "Yes, Aubergine Annie?"
-    ns "Ja, Aubergine Annie?"
-
 # game/code/scenes/it_office/sm1fs-i004.rpy:127
 translate deutsch sm1fs_i004_12c4a685:
 
@@ -255,12 +243,6 @@ translate deutsch sm1fs_i004_629db91f:
 
     # cw "We are looking forward to working with you, and your network. We have a brief presentation about our plan for your new website."
     cw "Wir freuen uns auf die Zusammenarbeit mit dir und deinem Netzwerk. Wir haben eine kurze Präsentation über unseren Plan für deine neue Website vorbereitet."
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:160
-translate deutsch sm1fs_i004_e18669dc:
-
-    # cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a new website."
-    cw "Unsere Teams hier bei Orbix haben eine Marktanalyse durchgeführt. Sie haben einige Lösungen für eine neue Website entwickelt."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:163
 translate deutsch sm1fs_i004_b32c8de0:
@@ -333,12 +315,6 @@ translate deutsch sm1fs_i004_5721f7bc:
 
     # atp "We should work closely together so there are no screwups."
     atp "Wir sollten eng zusammenarbeiten, damit es keine Pannen gibt."
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:196
-translate deutsch sm1fs_i004_03af6d84:
-
-    # cw "Of course. We're excited to be in bussiness with you, Angela. As soon as we have a progress update, I'll get in touch."
-    cw "Natürlich. Wir freuen uns sehr auf die Zusammenarbeit mit dir, Angela. Sobald wir Neuigkeiten zum Fortschritt haben, werde ich mich bei dir melden."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:199
 translate deutsch sm1fs_i004_d2033644:
@@ -520,12 +496,6 @@ translate deutsch sm1fs_i004_697af26a:
     # am "But if a bunch of dumb code-monkeys messed around with it-"
     am "Aber wenn ein Haufen dummer Code-Affen daran herumgespielt hat..."
 
-# game/code/scenes/it_office/sm1fs-i004.rpy:298
-translate deutsch sm1fs_i004_15609df2:
-
-    # cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're awake."
-    cw "Deshalb hast du vier Wochen statt drei. Du wirst es wohl einfach tun müssen, solange du wach bist."
-
 # game/code/scenes/it_office/sm1fs-i004.rpy:303
 translate deutsch sm1fs_i004_7f3a1e1d:
 
@@ -615,12 +585,6 @@ translate deutsch sm1fs_i004_3608ec25:
 
     # am "Ahem. Listen I..."
     am "Ähm. Hör mal, ich..."
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:356
-translate deutsch sm1fs_i004_c11cc950:
-
-    # am "You are... You're"
-    am "Du bist... Du bist"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:359
 translate deutsch sm1fs_i004_454f418c:

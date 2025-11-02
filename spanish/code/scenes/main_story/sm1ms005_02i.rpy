@@ -52,12 +52,6 @@ translate spanish sm1ms005_02i_db837775:
     # mc "I think we slow it down and have some of that romantic passion."
     mc "Creo que lo ralentizamos y tenemos algo de esa pasión romántica."
 
-# game/code/scenes/main_story/sm1ms005_02i.rpy:43
-translate spanish sm1ms005_02i_e647c88a:
-
-    # sy "Alright. Lets do it."
-    sy "Está bien. Vamos a hacerlo."
-
 translate spanish strings:
 
     # game/code/scenes/main_story/sm1ms005_02i.rpy:13

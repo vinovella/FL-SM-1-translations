@@ -58,12 +58,6 @@ translate spanish sm1ms002_7e80f756:
     # sy "Is the delivery job that bad?"
     sy "¿El trabajo de entrega es tan malo?"
 
-# game/code/scenes/main_story/sm1ms002.rpy:59
-translate spanish sm1ms002_1b967ef2:
-
-    # mc "I haven't started cutting on myself yet."
-    mc "Todavía no he comenzado a cortarme."
-
 # game/code/scenes/main_story/sm1ms002.rpy:61
 translate spanish sm1ms002_d8f519df:
 

@@ -1876,12 +1876,6 @@ translate french sm1cs_cw005_sauna_menu_712398b8:
     # mct "That perfect mix of tanginess and a little bit of sweat."
     mct "That perfect mix of tanginess and a little bit of sweat."
 
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1013
-translate french sm1cs_cw005_sauna_menu_b244197e:
-
-    # mct "And her body keeps shaking whenver my nose brushes her clit."
-    mct "And her body keeps shaking whenver my nose brushes her clit."
-
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1014
 translate french sm1cs_cw005_sauna_menu_95d96455:
 

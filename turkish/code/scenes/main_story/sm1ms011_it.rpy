@@ -46,12 +46,6 @@ translate turkish sm1ms011_it_b604545e:
     # mc "I just landed the job. I'm not sure I'm ready to think about another job."
     mc "İşi yeni aldım. Başka bir iş düşünmeye hazır olduğumdan emin değilim."
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:26
-translate turkish sm1ms011_it_fd1ea990:
-
-    # sy "Okay, fair enough. Speaking of the company, Orbix right? You haven't told me much about the people there."
-    sy "Tamam, tamam. Şirketten bahsetmişken, Orbix değil mi? Bana oradaki insanlar hakkında pek bir şey anlatmadın."
-
 # game/code/scenes/main_story/sm1ms011_it.rpy:29
 translate turkish sm1ms011_it_40f46a63:
 
@@ -153,12 +147,6 @@ translate turkish sm1ms011_it_dbb29552:
 
     # sy "Sure, but I'd bet my last pair of panties that someone stood out."
     sy "Elbette, ama son külotuma bahse girerim ki birileri dikkatimi çeker."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:113
-translate turkish sm1fs_i011_it_talk_ns_18515f7b:
-
-    # mc "This girl Nari Song is pretty cute"
-    mc "Bu kız Nari Song çok tatlı"
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:116
 translate turkish sm1fs_i011_it_talk_ns_446f60a3:
@@ -328,18 +316,6 @@ translate turkish sm1fs_i011_it_talk_am_4208fc10:
     # sy "What a bitch!"
     sy "Ne orospu!"
 
-# game/code/scenes/main_story/sm1ms011_it.rpy:212
-translate turkish sm1fs_i011_it_talk_am_0503cb58:
-
-    # mc "Maybe. If she's been pared with other people before that didn't work out, maybe she's tired to dealing with noobs."
-    mc "Belki. Daha önce başkalarıyla eşleştirildiyse ve bu işe yaramadıysa, belki de acemilerle uğraşmaktan yorulmuştur."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:215
-translate turkish sm1fs_i011_it_talk_am_fd753b6a:
-
-    # sy "Hmmmph. That's no need to be rude to your or the new girl."
-    sy "Hmmmph. Kendine veya yeni kıza karşı kaba davranmana gerek yok."
-
 # game/code/scenes/main_story/sm1ms011_it.rpy:218
 translate turkish sm1fs_i011_it_talk_am_6c3434eb:
 
@@ -381,12 +357,6 @@ translate turkish sm1ms011_it_continue_14c261e5:
 
     # mc "Given she's my boss' boss, I figured it would be smart to stay clear of her."
     mc "Patronumun patronu olduğu için ondan uzak durmanın akıllıca olacağını düşündüm."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:242
-translate turkish sm1ms011_it_continue_6fb9ec78:
-
-    # sy "No way. Big mistake, pal. Think about it. She could be the biggest close pervert of the mall."
-    sy "Olmaz. Büyük hata, dostum. Bir düşün. Alışveriş merkezinin en büyük sapığı olabilir."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:243
 translate turkish sm1ms011_it_continue_00b812a7:
@@ -441,12 +411,6 @@ translate turkish sm1ms011_it_continue_ddaffa1b:
 
     # mc "I'll see what I can do."
     mc "Elimden geleni yapacağım."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:277
-translate turkish sm1ms011_it_continue_fdc777bd:
-
-    # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it ouf the park."
-    sy "Harika. Seni tanıyorum, [mcname]. Aklına ne koyarsan koy, eminim onu ​​başarabilirsin."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:280
 translate turkish sm1ms011_it_continue_6be1610b:

@@ -574,12 +574,6 @@ translate turkish sm1cs_vs004_after_choice_29df6d24:
     # mc "No, it's-"
     mc "Hayır, bu-"
 
-# game/code/scenes/theatre/vs/sm1cs-vs004.rpy:284
-translate turkish sm1cs_vs004_after_choice_05f7ac11:
-
-    # mc "Nevermind. Just... leave it to me."
-    mc "Önemli değil. Sadece... bana bırak."
-
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:287
 translate turkish sm1cs_vs004_after_choice_7ea45d72:
 

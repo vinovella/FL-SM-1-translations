@@ -466,12 +466,6 @@ translate spanish sm1mv01s09_movie_start_3aca2ff7:
     # tl "I {b}can't{/b} kill you. Not now..."
     tl "I {b}can't{/b} kill you. Not now..."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:317
-translate spanish sm1mv01s09_movie_start_10da0037:
-
-    # sy "Muah-ha-haa! My what a interesting turn..."
-    sy "Muah-ha-haa! My what a interesting turn..."
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:320
 translate spanish sm1mv01s09_movie_start_44552a31:
 
@@ -669,12 +663,6 @@ translate spanish sm1mv01s09_movie_start_44e8fa52:
 
     # mc "Sounds! It feels like my dick is in a cock-milking typhoon. Nraaah!"
     mc "Sounds! It feels like my dick is in a cock-milking typhoon. Nraaah!"
-
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:417
-translate spanish sm1mv01s09_movie_start_b83971de:
-
-    # tl "I think we finally found a good use for that devlish tongue of hers."
-    tl "I think we finally found a good use for that devlish tongue of hers."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:420
 translate spanish sm1mv01s09_movie_start_67e481b5:
@@ -1053,12 +1041,6 @@ translate spanish sm1mv01s09_movie_start_6fa3f751:
 
     # tl "You like that?"
     tl "You like that?"
-
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:594
-translate spanish sm1mv01s09_movie_start_4744fb89:
-
-    # mc "Oh shit, your fingersa re making her pussy tighten up each time you clench!"
-    mc "Oh shit, your fingersa re making her pussy tighten up each time you clench!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:595
 translate spanish sm1mv01s09_movie_start_895a91b7:

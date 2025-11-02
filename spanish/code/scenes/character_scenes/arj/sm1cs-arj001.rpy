@@ -64,12 +64,6 @@ translate spanish sm1cs_arj001_28b8befe:
     # mc "So you do have it."
     mc "Entonces lo tienes."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:43
-translate spanish sm1cs_arj001_205cb6c0:
-
-    # arj "So what if I do? {i}No one{/i} should have the zip drive."
-    arj "¿Y qué si lo tengo? {i}Nadie{/i} debe tener un pendrive."
-
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:46
 translate spanish sm1cs_arj001_cc9b4160:
 

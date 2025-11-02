@@ -1114,12 +1114,6 @@ translate turkish sm1cs_am004_sex_c27b58ed:
     # am "Don't be a pussy, [mcname]. I like it rough."
     am "Korkak olma, [mcname]. Ben sertliği severim."
 
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:785
-translate turkish sm1cs_am004_sex_06e5e165:
-
-    # mc "Listen, I know you're whole thing is just being a bitch to me all the time, but I'm not tring to get my dick bit off."
-    mc "Dinle, biliyorum ki sen bana sürekli kötü davranıyorsun, ama ben penisimin ısırılmasını istemiyorum."
-
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:787
 translate turkish sm1cs_am004_sex_1c8acf17_1:
 
@@ -1431,12 +1425,6 @@ translate turkish sm1cs_am004_after_spank_780537f7:
 
     # am "What?"
     am "Ne?"
-
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:973
-translate turkish sm1cs_am004_after_spank_af0e146a:
-
-    # mc "Come on. you know the {b}word{/b} I'm waiting for."
-    mc "Hadi ama. Beklediğim {b}kelimeyi{/b} biliyorsun."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:978
 translate turkish sm1cs_am004_after_spank_a790f962:

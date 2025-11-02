@@ -778,12 +778,6 @@ translate deutsch sm1fs_t004_workshop_f14028ed:
     # dvh "We are going to do trust falls. If we are to operate as a theater team, we need to trust each other wholly."
     dvh "We are going to do trust falls. If we are to operate as a theater team, we need to trust each other wholly."
 
-# game/code/scenes/theatre/sm1fs-t004.rpy:512
-translate deutsch sm1fs_t004_workshop_ea0fb35d:
-
-    # dvh "Veronica, Kelly. Please walk into the center of the circle."
-    dvh "Veronica, Kelly. Please walk into the center of the circle."
-
 # game/code/scenes/theatre/sm1fs-t004.rpy:515
 translate deutsch sm1fs_t004_workshop_63db503b:
 

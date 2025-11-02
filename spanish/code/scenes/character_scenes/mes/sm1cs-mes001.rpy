@@ -154,12 +154,6 @@ translate spanish sm1cs_mes001_fa9b2b83:
     # mc "Min... about Lydia and Fetish Locator—"
     mc "Min... sobre Lydia y el Localizador de Fetiches..."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:104
-translate spanish sm1cs_mes001_54c51a69:
-
-    # mes "*chuckles wrly* The elephant in the room."
-    mes "*se ríe* El elefante en la habitación."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:107
 translate spanish sm1cs_mes001_9446a237:
 
@@ -423,12 +417,6 @@ translate spanish sm1cs_mes001_ac32440c:
 
     # mes "So... rumor has it you dropped out, right?"
     mes "Entonces... se rumorea que abandonaste, ¿verdad?"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:220
-translate spanish sm1cs_mes001_8d8790c7:
-
-    # mc "*sheepishily* Guilty as charged. The old business management program just wasn't cutting it for me."
-    mc "*tímidamente* Culpable de los cargos. El antiguo programa de gestión empresarial no me convencia."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:221
 translate spanish sm1cs_mes001_47a7309b:
@@ -748,12 +736,6 @@ translate spanish sm1cs_mes001_d19c0b1c:
     # mes "My {i}loving{/i} family tried setting me up with a 'nice, respectable' suitor — who does that these days?"
     mes "Mi {i}amada{/i} familia intentó emparejarme con un pretendiente \"bueno y respetable\", ¿quién hace eso hoy en día?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:345
-translate spanish sm1cs_mes001_f2902c14:
-
-    # mc "Are you telling me you almost got an set up for an arranged marriage type date in Korea?"
-    mc "¿Me estás diciendo que casi te organizan una cita tipo matrimonio arreglado en Corea?"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:348
 translate spanish sm1cs_mes001_bd02302b:
 
@@ -813,12 +795,6 @@ translate spanish sm1cs_mes001_cd529352:
 
     # mes "Impressive. I just assumed you two were just messing around with a camera in a warehouse."
     mes "Impresionante. Asumí que estaban jugando con una cámara en un almacén."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:369
-translate spanish sm1cs_mes001_197faa78:
-
-    # mc "Hey, we do that to, but we can be serious when we need to be."
-    mc "Oye, lo hacemos, pero podemos ser serio cuando necesitamos serlo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:371
 translate spanish sm1cs_mes001_c61da560:

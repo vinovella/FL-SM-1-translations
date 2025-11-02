@@ -94,12 +94,6 @@ translate deutsch sm1cs_cw003_0b0e1196:
     # mc "So anyhow, there I am, doing my best to pretend like Claire and I are in a relationship."
     mc "Wie auch immer, da bin ich nun und gebe mein Bestes, um so zu tun, als wären Claire und ich in einer Beziehung."
 
-# game/code/scenes/it_office/cw/sm1cs-cw003.rpy:48
-translate deutsch sm1cs_cw003_4f124ce0:
-
-    # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"kinky\" app anymore."
-    mc "Ihre Mutter ist so erleichtert und sagt, sie sei froh, dass Claire diese \"perverse\" App nicht mehr benutzen muss."
-
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:51
 translate deutsch sm1cs_cw003_790de301:
 

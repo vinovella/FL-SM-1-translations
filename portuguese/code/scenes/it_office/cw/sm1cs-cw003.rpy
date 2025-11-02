@@ -94,12 +94,6 @@ translate portuguese sm1cs_cw003_0b0e1196:
     # mc "So anyhow, there I am, doing my best to pretend like Claire and I are in a relationship."
     mc "Enfim, lá estou eu, fazendo o que posso pra fingir que eu e a Claire estamos saindo."
 
-# game/code/scenes/it_office/cw/sm1cs-cw003.rpy:48
-translate portuguese sm1cs_cw003_4f124ce0:
-
-    # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"kinky\" app anymore."
-    mc "A mãe dela ficou super aliviada, falando que estava feliz que a Claire não vai mais precisar usar aquele aplicativo sexual."
-
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:51
 translate portuguese sm1cs_cw003_790de301:
 

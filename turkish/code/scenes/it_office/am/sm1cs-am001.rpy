@@ -274,18 +274,6 @@ translate turkish sm1cs_am001_6eebc0c7:
     # ag "I'm prepared for that. Here is how tonight will go-"
     ag "Ben buna hazırım. Bu gece şöyle olacak-"
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:162
-translate turkish sm1cs_am001_cefce3d9:
-
-    # mct "Someone sent me a text"
-    mct "Birisi bana mesaj gönderdi"
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:165
-translate turkish sm1cs_am001_8014a26b:
-
-    # ag "So Megan, I want you to setup our usual make a ticket framework. Once April sets up the foundation we'll plug it right in."
-    ag "Megan, her zamanki bilet oluşturma çerçevemizi kurmanı istiyorum. April temeli kurduğunda onu hemen devreye sokacağız."
-
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:168
 translate turkish sm1cs_am001_cf10242a:
 
@@ -418,12 +406,6 @@ translate turkish sm1cs_am001_c8f830d8:
     # am "Bingo. The best way to show you're a good boss is to be lazy and pass off your work to skilled people."
     am "Bingo. İyi bir patron olduğunuzu göstermenin en iyi yolu tembel olmak ve işinizi yetenekli insanlara devretmektir."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:225
-translate turkish sm1cs_am001_bfa35138:
-
-    # ag "It's called delegation. Now, since there is nothing else, let's get to work.."
-    ag "Buna delege etme denir. Şimdi, başka bir şey olmadığına göre, işe koyulalım.."
-
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:230
 translate turkish sm1cs_am001_fe43a970:
 
@@ -435,12 +417,6 @@ translate turkish sm1cs_am001_b3073727:
 
     # mct "I don't think I'm going to get any answers about it tonight. Best to just focus on my work."
     mct "Bu gece bu konuda herhangi bir cevap alacağımı sanmıyorum. En iyisi sadece işime odaklanmak."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:237
-translate turkish sm1cs_am001_89f0e8f1:
-
-    # mct "Crap. What is my work? I can't ask Anna. I definitely can't ask April. Data. data something."
-    mct "Kahretsin. Benim işim ne? Anna'ya soramam. Kesinlikle April'a soramam. Veri. veri bir şey."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:239
 translate turkish sm1cs_am001_ca9c80ae:
@@ -736,12 +712,6 @@ translate turkish sm1cs_am001_later_a71d0e57:
     # mc "Yup. And I... I should have said this earlier, but thanks for not telling Anna about my screwup."
     mc "Evet. Ve ben... Bunu daha önce söylemeliydim ama Anna'ya yaptığım hatayı söylemediğin için teşekkürler."
 
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:488
-translate turkish sm1cs_am001_later_683393c1:
-
-    # am "But don't count on me covering for you in the future, [mcname]"
-    am "Ama gelecekte senin yerini dolduracağımı düşünme, [mcname]"
-
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:491
 translate turkish sm1cs_am001_later_42e6dd64:
 
@@ -795,118 +765,4 @@ translate turkish strings:
     # game/code/scenes/it_office/am/sm1cs-am001.rpy:326
     old "Oh shit"
     new "Oh siktir"
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:317
-translate turkish sm1cs_am001_after_coding_6542cc23:
-
-    # am "Yes, there is a problem. Some Business 101 dropout just fucked my night."
-    am "Evet, bir sorun var. İşletme 101'den terk biri gecemi mahvetti."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:330
-translate turkish sm1cs_am001_after_coding_ad59f37c:
-
-    # mc "Oh. Really. I must have gotten em mixed up. Sorry. I'm sure that kind of things happens all the time."
-    mc "Ah. Gerçekten. Karıştırmış olmalıyım. Özür dilerim. Eminim bu tür şeyler her zaman oluyordur."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:333
-translate turkish sm1cs_am001_after_coding_5cde476c:
-
-    # am "You dense motherfucker. This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
-    am "Sen aptal orospu çocuğu. Burası Orbix, ülkenin önde gelen teknoloji şirketlerinden biri. {w}Devlet değil,{w} şehir değil."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:336
-translate turkish sm1cs_am001_after_coding_dc84c055:
-
-    # am "The country. We don't make simple mistakes here. But we do pay for them."
-    am "Ülke. Burada basit hatalar yapmıyoruz. Ama bunların bedelini ödüyoruz."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:353
-translate turkish sm1cs_am001_after_coding_1e29912c:
-
-    # am "You want to fix this?"
-    am "Bunu düzeltmek istiyor musun?"
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:359
-translate turkish sm1cs_am001_after_coding_4ca6be45:
-
-    # am "Maybe go play in traffic. That might do it."
-    am "Belki gidip trafikte oynayabilirim. Bu işe yarayabilir."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:365
-translate turkish sm1cs_am001_after_coding_32e8fed2:
-
-    # am "You're right. You'd probably screw that up too."
-    am "Haklısın. Muhtemelen bunu da mahvedeceksin."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:374
-translate turkish sm1cs_am001_after_coding_093f24d8:
-
-    # am "I fix your fuckup. You're lucky I'm nearly done with my own workload."
-    am "Ben senin hatanı düzeltirim. Şanslısın ki kendi iş yükümü neredeyse bitirdim."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:384
-translate turkish sm1cs_am001_after_coding_821a55cb:
-
-    # mc "Right. Desk, going."
-    mc "Tamam. Masa, gidiyor."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:416
-translate turkish sm1cs_am001_later_9aa40e36:
-
-    # am "Smooth."
-    am "Pürüzsüzüm."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:442
-translate turkish sm1cs_am001_later_fa2f0659:
-
-    # am "Huh? Now where did the idiot go?"
-    am "Ha? Peki şimdi aptal nereye gitti?"
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:481
-translate turkish sm1cs_am001_later_3e05ca8f:
-
-    # am "You got one thing right tonight."
-    am "Bu gece bir şeyi doğru yaptın."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:487
-translate turkish sm1cs_am001_later_5c3bb464:
-
-    # am "I was too busy to fink on you. Maybe next time."
-    am "Seni bulmak için çok meşguldüm. Belki bir dahaki sefere."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:494
-translate turkish sm1cs_am001_later_f3d3184d:
-
-    # am "I'm dead serious. We have a job to do. Sometimes it's long hours, and that sucks."
-    am "Çok ciddiyim. Yapmamız gereken bir iş var. Bazen uzun saatler çalışıyoruz ve bu berbat."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:497
-translate turkish sm1cs_am001_later_26aa8427:
-
-    # am "But if you're here, and especially if you're working with me, I need your A game."
-    am "Ama eğer buradaysan ve özellikle benimle çalışıyorsan, senin A oyununa ihtiyacım var."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:498
-translate turkish sm1cs_am001_later_9da00458:
-
-    # am "Got it?"
-    am "Anladın mı?"
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:511
-translate turkish sm1cs_am001_later_085c2d38:
-
-    # am "I just texted Anna the good news. Had to rub it in her face that we did it all in one night."
-    am "Anna'ya az önce iyi haberi mesaj attım. Her şeyi bir gecede hallettiğimizi yüzüne vurmak zorunda kaldım."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:523
-translate turkish sm1cs_am001_later_1bbf39bb:
-
-    # am "Night loser."
-    am "Gecenin kaybedeniyim."
-
-# game/code/scenes/it_office/am/sm1cs-am001.rpy:526
-translate turkish sm1cs_am001_later_6cba793b:
-
-    # mc "Night April."
-    mc "April gecesi."
 

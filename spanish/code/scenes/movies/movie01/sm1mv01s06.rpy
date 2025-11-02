@@ -1156,12 +1156,6 @@ translate spanish sm1mv01s06_movie_start_2e1f3bd5:
     # tl "I should have let her gut you."
     tl "I should have let her gut you."
 
-# game/code/scenes/movies/movie01/sm1mv01s06.rpy:730
-translate spanish sm1mv01s06_movie_start_fc77250e:
-
-    # mc "Come now, you'd be missing my devlishly good looks now, wouldn't you?"
-    mc "Come now, you'd be missing my devlishly good looks now, wouldn't you?"
-
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:733
 translate spanish sm1mv01s06_movie_start_fd3b42a7:
 
@@ -1311,12 +1305,6 @@ translate spanish sm1mv01s06_done_recording_edfa1ed9:
 
     # tl "We did, [mcname]."
     tl "We did, [mcname]."
-
-# game/code/scenes/movies/movie01/sm1mv01s06.rpy:814
-translate spanish sm1mv01s06_done_recording_57049b60:
-
-    # kv "I admire your ferver, but let's not forget what we're making."
-    kv "I admire your ferver, but let's not forget what we're making."
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:817
 translate spanish sm1mv01s06_done_recording_1ebcd936:

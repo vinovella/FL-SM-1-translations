@@ -100,12 +100,6 @@ translate deutsch q_inter_vs_4_d3b89ead:
     # vs "You got it."
     vs "Du hast es verstanden."
 
-# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:74
-translate deutsch q_inter_vs_5_9af441bd:
-
-    # vs "I really hope impress Denise the next time you get to audition, [mcname]."
-    vs "Ich hoffe wirklich, dass du Denise beim nächsten Vorsprechen beeindrucken kannst, [mcname]."
-
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:75
 translate deutsch q_inter_vs_5_3dcf4902:
 
@@ -136,23 +130,11 @@ translate deutsch q_inter_vs_6_edabaf3a:
     # vs "Keep up the good work!"
     vs "Mach weiter so!"
 
-# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:92
-translate deutsch q_inter_vs_7_1cdd3887:
-
-    # vs "*whipsers* Hey [mcname]."
-    vs "*flüstert* Hey [mcname]."
-
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:94
 translate deutsch q_inter_vs_7_80cd8018:
 
     # mc "*whispers* Hey Veronica. Why are we whispering?"
     mc "*flüstert* Hey Veronica. Warum flüstern wir?"
-
-# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:95
-translate deutsch q_inter_vs_7_2fdd05a9:
-
-    # vs "*whispers* Because it's fun, and becauase you want to keep talk about FL on the downlow right?"
-    vs "*flüstert* Weil es Spaß macht und weil du über FL lieber nicht so offen reden möchtest, oder?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:96
 translate deutsch q_inter_vs_7_a4e3fe5c:

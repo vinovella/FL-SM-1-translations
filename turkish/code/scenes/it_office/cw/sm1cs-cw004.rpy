@@ -874,12 +874,6 @@ translate turkish sm1cs_cw004_later_469ced3c:
     # fw "Some things never change."
     fw "Bazı şeyler asla değişmez."
 
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:536
-translate turkish sm1cs_cw004_later_b55f8aba:
-
-    # cw "How is he, daddy?"
-    cw "Nasılsın baba?"
-
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:538
 translate turkish sm1cs_cw004_later_0d6be925:
 
@@ -1095,12 +1089,6 @@ translate turkish sm1cs_cw004_first_evening_9360d66a:
 
     # mc "Oh, Mrs. Watts."
     mc "Ah, Bayan Watts."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:670
-translate turkish sm1cs_cw004_first_evening_0e6a755a:
-
-    # fw "Farrah please, [mcname]."
-    fw "Farrah lütfen, [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:673
 translate turkish sm1cs_cw004_first_evening_90ebc5b5:
@@ -1611,12 +1599,6 @@ translate turkish sm1cs_cw004_first_evening_5b77b33c:
 
     # cw "Hmmph."
     cw "Hımm."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:896
-translate turkish sm1cs_cw004_first_evening_a1c866a5:
-
-    # cw "*whispers*Stop resisting."
-    cw "*fısıldar*Direnmeyi bırak."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:899
 translate turkish sm1cs_cw004_first_evening_5ffac718:

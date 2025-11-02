@@ -172,12 +172,6 @@ translate deutsch sm1cs_cw002_490d7120:
     # cw "Do you think you can handle that?"
     cw "Glaubst du, du schaffst das?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw002.rpy:99
-translate deutsch sm1cs_cw002_7fd43340:
-
-    # mc "Of course. I won't let you down, Claire."
-    mc "Natürlich. Ich werde dich nicht enttäuschen, Claire."
-
 # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:100
 translate deutsch sm1cs_cw002_19387a04:
 

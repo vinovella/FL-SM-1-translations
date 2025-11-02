@@ -112,18 +112,6 @@ translate spanish q_inter_ms_9_6152061b:
     # mc "I never see you make deliveries."
     mc "Nunca te he visto hacer entregas."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:128
-translate spanish q_inter_ms_9_18a60a3f:
-
-    # ms "Didn't anyone tell you? I''m a brat-slinging ninja, [mcname]."
-    ms "¿Nadie te lo dijo? Soy una ninja malcriada, [mcname]."
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:129
-translate spanish q_inter_ms_9_244271c2:
-
-    # ms "Swwwssh. See? while you blinked, I deliviered five combo packs."
-    ms "Swwwssh. ¿Lo ves? Mientras parpadeas, ya he entregado cinco paquetes."
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:131
 translate spanish q_inter_ms_9_081b75b3:
 
@@ -165,12 +153,6 @@ translate spanish q_inter_ms_13_1b9ab683:
 
     # ms "Lucky you."
     ms "Eres afortunado."
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:160
-translate spanish q_inter_ms_14_0115379c:
-
-    # ms "At least they can't automated bratwurst makers yet."
-    ms "Al menos aún no pueden automatizar a los fabricantes de salchichas."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:161
 translate spanish q_inter_ms_14_689e43ea:
@@ -550,12 +532,6 @@ translate spanish q_inter_ms_34_6951d752:
     # ms "That's what our parents told us anyhow."
     ms "Eso es lo que nuestros padres nos dijeron de todos modos."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:373
-translate spanish q_inter_ms_35_f687201e:
-
-    # ms "Here's is to the day we can both just sleep in and not rush out to get grinded down to pebbles."
-    ms "Espero que llegue el día en que podamos dormir hasta tarde y no tengamos que salir corriendo para que nos muelan a golpes."
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:375
 translate spanish q_inter_ms_35_b51867ec:
 
@@ -675,12 +651,6 @@ translate spanish q_inter_ms_40_8d7ba692:
 
     # mc "Any luck with your job hunt?"
     mc "¿Ha habido suerte con la búsqueda de trabajo?"
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:440
-translate spanish q_inter_ms_40_ec333083:
-
-    # ms "Shhhh. You want the whole place to here?"
-    ms "Shhhh. ¿Quieres todo el lugar aquí?"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:441
 translate spanish q_inter_ms_40_dc0ff26a:
@@ -837,16 +807,4 @@ translate spanish q_inter_ms_45_62351857:
 
     # ms "Don't you wish all your problems could be ground up and packaged for profit."
     ms "¿No te gustaría que todos tus problemas pudieran triturarse y envasarse para obtener beneficios?"
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:529
-translate spanish q_inter_ms_45_b4522c97:
-
-    # mc "I'm sure a lot of billionares start the same way."
-    mc "Estoy seguro de que muchos multimillonarios comenzaron de la misma manera."
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:530
-translate spanish q_inter_ms_45_a957599b:
-
-    # ms "Maybe I'm on my first step to becomming one."
-    ms "Quizá esté dando el primer paso para convertirme en uno de ellos."
 

@@ -22,12 +22,6 @@ translate spanish sm1cs_am005b_3772aa1f:
     # mc "With you."
     mc "Contigo."
 
-# game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
-translate spanish sm1cs_am005b_1d7ad725:
-
-    # mc "Nevermind."
-    mc "No importa."
-
 # game/code/scenes/it_office/am/sm1cs-am005b.rpy:33
 translate spanish sm1cs_am005b_e1eef2d6:
 

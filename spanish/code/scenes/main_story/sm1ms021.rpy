@@ -112,12 +112,6 @@ translate spanish sm1ms021_7129dea6:
     # mc "Nice."
     mc "Lindo."
 
-# game/code/scenes/main_story/sm1ms021.rpy:69
-translate spanish sm1ms021_e9a1395f:
-
-    # mc "You're talking about me, dick, right?"
-    mc "Estás hablando de mi polla, ¿verdad?"
-
 # game/code/scenes/main_story/sm1ms021.rpy:73
 translate spanish sm1ms021_033974e5:
 
@@ -141,12 +135,6 @@ translate spanish sm1ms021_cf1adef2:
 
     # mc "Yeah."
     mc "Sí."
-
-# game/code/scenes/main_story/sm1ms021.rpy:92
-translate spanish sm1ms021_3a330c2b:
-
-    # sy "This space... it’s not just a studio anymore. It’s starting to feel like our dream is finally taking shape."
-    sy "Este espacio... ya no es sólo un estudio. Empieza a parecer que nuestro sueño por fin está tomando forma."
 
 # game/code/scenes/main_story/sm1ms021.rpy:93
 translate spanish sm1ms021_d21c8f26:
@@ -177,18 +165,6 @@ translate spanish sm1ms021_6ea38681:
 
     # mc "We did this together, Stacy. Couldn't have done it without you."
     mc "Hicimos esto juntos, Stacy. No podría haberlo hecho sin ti."
-
-# game/code/scenes/main_story/sm1ms021.rpy:107
-translate spanish sm1ms021_03d3460b:
-
-    # sy "Same here. I mean, you’re the one who kept me sane through all of this."
-    sy "Lo mismo digo. Quiero decir, tú eres el que me mantuvo cuerda durante todo esto."
-
-# game/code/scenes/main_story/sm1ms021.rpy:112
-translate spanish sm1ms021_26fb55b4:
-
-    # sy "And with mom around, it's been just a little bit more hectic."
-    sy "Y con mamá alrededor, ha sido un poco más agitado."
 
 # game/code/scenes/main_story/sm1ms021.rpy:114
 translate spanish sm1ms021_28d98971:
@@ -436,41 +412,11 @@ translate spanish sm1ms021_34bb4a82:
     # sy "Yeah, I guess so."
     sy "Sí, supongo que sí."
 
-# game/code/scenes/main_story/sm1ms021.rpy:217
-translate spanish sm1ms021_90c7dbb3:
-
-    # sy "I guess so long as the check clears, I’m not complaining."
-    sy "Supongo que mientras el cheque se cobre, no me quejo."
-
-# game/code/scenes/main_story/sm1ms021.rpy:218
-translate spanish sm1ms021_bce7ba08:
-
-    # sy "And now that we’ve got the extra power and space in the studio, this film is going to be even better than the first one."
-    sy "Y ahora que tenemos más potencia y espacio en el estudio, esta película va a ser aún mejor que la primera."
-
-# game/code/scenes/main_story/sm1ms021.rpy:222
-translate spanish sm1ms021_9fdc7c78:
-
-    # mct "She’s got a point. This is the kind of project that could put us on the map if we nail it."
-    mct "Tiene razón. Este es el tipo de proyecto que podría ponernos en el mapa si lo hacemos bien."
-
-# game/code/scenes/main_story/sm1ms021.rpy:226
-translate spanish sm1ms021_a1f727e3:
-
-    # mc "Alright, let’s start brainstorming then."
-    mc "Muy bien, comencemos a hacer una lluvia de ideas."
-
 # game/code/scenes/main_story/sm1ms021.rpy:229
 translate spanish sm1ms021_4b920476:
 
     # mc "I wonder if we can hang a chain line from the ceiling."
     mc "Me pregunto si podemos colgar una cadena del techo."
-
-# game/code/scenes/main_story/sm1ms021.rpy:232
-translate spanish sm1ms021_7d5dbe55:
-
-    # sy "Hold on there, Spielberg. We can’t just jump in without a solid plan and, more importantly, without money."
-    sy "Espera allí, Spielberg. No podemos simplemente entrar sin un plan sólido y, lo que es más importante, sin dinero."
 
 # game/code/scenes/main_story/sm1ms021.rpy:235
 translate spanish sm1ms021_1464866a:
@@ -562,12 +508,6 @@ translate spanish sm1ms021_39685004:
     # sy "Mmmm."
     sy "Mmmm."
 
-# game/code/scenes/main_story/sm1ms021.rpy:282
-translate spanish sm1ms021_ea88bbcb:
-
-    # mc "Alright, let’s map this out. First, we secure the funding. Then, we finalize the concept for the scene."
-    mc "Muy bien, vamos a planificar esto. En primer lugar, asegurar la financiación. Entonces, finalizamos el concepto para la escena."
-
 # game/code/scenes/main_story/sm1ms021.rpy:283
 translate spanish sm1ms021_f5480063:
 
@@ -633,12 +573,6 @@ translate spanish sm1ms021_ae9dcce1:
 
     # mc "Then it's money I'll get. And when I'm through, S&M will have its second film ready to fire people up across the whole city."
     mc "Entonces es dinero lo que conseguiré. Y cuando termine, S&M tendrá su segunda película lista para emocionar a la gente en toda la ciudad."
-
-# game/code/scenes/main_story/sm1ms021.rpy:312
-translate spanish sm1ms021_1a9dd79e:
-
-    # mc "Let’s do this. For the studio and for the dream."
-    mc "Hagámoslo. Por el estudio y por el sueño."
 
 # game/code/scenes/main_story/sm1ms021.rpy:315
 translate spanish sm1ms021_3829caaa:

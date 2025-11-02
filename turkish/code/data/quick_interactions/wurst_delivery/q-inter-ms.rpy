@@ -112,18 +112,6 @@ translate turkish q_inter_ms_9_6152061b:
     # mc "I never see you make deliveries."
     mc "Teslimat yaptığını hiç görmüyorum."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:128
-translate turkish q_inter_ms_9_18a60a3f:
-
-    # ms "Didn't anyone tell you? I''m a brat-slinging ninja, [mcname]."
-    ms "Kimse sana söylemedi mi? Ben bir brat atan ninoyum, [mcname]."
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:129
-translate turkish q_inter_ms_9_244271c2:
-
-    # ms "Swwwssh. See? while you blinked, I deliviered five combo packs."
-    ms "Swwwssh. Gördün mü? Göz kırpana kadar beş combo paket teslim ettim."
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:131
 translate turkish q_inter_ms_9_081b75b3:
 
@@ -165,12 +153,6 @@ translate turkish q_inter_ms_13_1b9ab683:
 
     # ms "Lucky you."
     ms "Sen şanslısın."
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:160
-translate turkish q_inter_ms_14_0115379c:
-
-    # ms "At least they can't automated bratwurst makers yet."
-    ms "En azından henüz otomatik bratwurst makineleri yok."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:161
 translate turkish q_inter_ms_14_689e43ea:
@@ -550,12 +532,6 @@ translate turkish q_inter_ms_34_6951d752:
     # ms "That's what our parents told us anyhow."
     ms "En azından ailemiz öyle söylüyor."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:373
-translate turkish q_inter_ms_35_f687201e:
-
-    # ms "Here's is to the day we can both just sleep in and not rush out to get grinded down to pebbles."
-    ms "İkimizin de bir gün sadece uyuyup işe gitmek zorunda kalmayacağı o gün için!"
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:375
 translate turkish q_inter_ms_35_b51867ec:
 
@@ -675,12 +651,6 @@ translate turkish q_inter_ms_40_8d7ba692:
 
     # mc "Any luck with your job hunt?"
     mc "İş aramada bir gelişme var mı?"
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:440
-translate turkish q_inter_ms_40_ec333083:
-
-    # ms "Shhhh. You want the whole place to here?"
-    ms "Şşşt. Herkesin duymasını mı istiyorsun?"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:441
 translate turkish q_inter_ms_40_dc0ff26a:
@@ -837,16 +807,4 @@ translate turkish q_inter_ms_45_62351857:
 
     # ms "Don't you wish all your problems could be ground up and packaged for profit."
     ms "Keşke tüm sorunların öğütülüp paketlenip kâr edilebilseydi, değil mi?"
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:529
-translate turkish q_inter_ms_45_b4522c97:
-
-    # mc "I'm sure a lot of billionares start the same way."
-    mc "Eminim birçok milyarder de böyle başlıyordur."
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:530
-translate turkish q_inter_ms_45_a957599b:
-
-    # ms "Maybe I'm on my first step to becomming one."
-    ms "Belki de ben de ilk adımımı atmışımdır."
 

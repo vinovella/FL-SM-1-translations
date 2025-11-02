@@ -22,12 +22,6 @@ translate turkish sm1cs_am005b_3772aa1f:
     # mc "With you."
     mc "Seninle."
 
-# game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
-translate turkish sm1cs_am005b_1d7ad725:
-
-    # mc "Nevermind."
-    mc "Önemli değil."
-
 # game/code/scenes/it_office/am/sm1cs-am005b.rpy:33
 translate turkish sm1cs_am005b_e1eef2d6:
 

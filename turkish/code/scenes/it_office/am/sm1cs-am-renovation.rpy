@@ -394,12 +394,6 @@ translate turkish sm1cs_am_renovation_later_7d010a14:
     # mc "What happened?"
     mc "Ne oldu?"
 
-# game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:233
-translate turkish sm1cs_am_renovation_later_84cd6e25:
-
-    # am "Fucking charlie horse. Nrraaah."
-    am "Siktiğimin charlie atı. Hayır."
-
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:238
 translate turkish sm1cs_am_renovation_later_2b35b6fe:
 
@@ -483,12 +477,6 @@ translate turkish sm1cs_am_renovation_later_177d3eb2:
 
     # mc "What are you doing?"
     mc "Ne yapıyorsun?"
-
-# game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:283
-translate turkish sm1cs_am_renovation_later_6ee81245:
-
-    # mc "Another charlie horse?"
-    mc "Başka bir kısır döngü mü?"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:286
 translate turkish sm1cs_am_renovation_later_ef6429f5:

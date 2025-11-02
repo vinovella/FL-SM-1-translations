@@ -82,12 +82,6 @@ translate spanish q_inter_tl_4_a4cd1341:
     # tl "..."
     tl "..."
 
-# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:64
-translate spanish q_inter_tl_5_eb1bbc5d:
-
-    # tl "If i get 8 hours at the other job... And I save, what, half of that paycheck..."
-    tl "Si tengo 8 horas en el otro trabajo... y ahorro, qué, la mitad de ese sueldo..."
-
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:70
 translate spanish q_inter_tl_6_86351105:
 
@@ -219,12 +213,6 @@ translate spanish q_inter_tl_11_f40018c8:
 
     # mc "How have I never heard about this?"
     mc "¿Cómo nunca he oído hablar de esto?"
-
-# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:139
-translate spanish q_inter_tl_11_e81284ee:
-
-    # tl "Don't know. But I'm not surprsied."
-    tl "No lo sé. Pero no me sorprende."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:145
 translate spanish q_inter_tl_12_b7ab2768:
@@ -435,12 +423,6 @@ translate spanish q_inter_tl_17_d51d4d69:
 
     # tl "And I think it's cool that you can do so much with one character."
     tl "And I think it's cool that you can do so much with one character."
-
-# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:244
-translate spanish q_inter_tl_17_54713dc4:
-
-    # mc "Huh, I never thuoght about it like that."
-    mc "Huh, I never thuoght about it like that."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:245
 translate spanish q_inter_tl_17_db029f0f:

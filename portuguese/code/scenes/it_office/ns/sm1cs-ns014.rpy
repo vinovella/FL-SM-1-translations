@@ -586,24 +586,6 @@ translate portuguese sm1cs_ns014_studio_16053267:
     # mct "She is very open-minded but she's bound to ask questions if she comes down for breakfast and there is a full porn movie production in her home."
     mct "Ela é bem mente aberta, mas eventualmente vai fazer algumas perguntas quando descer pro café e tiver um filme pornô sendo filmado em casa."
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:381
-translate portuguese sm1cs_ns014_studio_82687d68:
-
-    # mc "You’re a natural, Nari."
-    mc "Você tem talento, Nari."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:384
-translate portuguese sm1cs_ns014_studio_1ed11863:
-
-    # ns "Heehee, stop it. I’m shy!"
-    ns "Hehehe, para. Tenho vergonha!"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:387
-translate portuguese sm1cs_ns014_studio_6c5986ee:
-
-    # sy "Lies! You’re eating this up."
-    sy "Mentira! Você tá adorando."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:390
 translate portuguese sm1cs_ns014_studio_5b482089:
 
@@ -633,12 +615,6 @@ translate portuguese sm1cs_ns014_studio_f8405504:
 
     # sy "I'll put these back."
     sy "Vou botar de volta."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:405
-translate portuguese sm1cs_ns014_studio_eb8cad39:
-
-    # sy "And leave you to to..."
-    sy "Vou deixar vocês..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:406
 translate portuguese sm1cs_ns014_studio_120569a2:
@@ -742,35 +718,17 @@ translate portuguese sm1cs_ns014_studio_252151bc:
     # ns "Wait—like... porn movies? You're saying that you are going to film porn here?"
     ns "Espera—tipo... filmes pornô? Quer dizer que vão filmar filmes pornô aqui?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:456
-translate portuguese sm1cs_ns014_studio_16934f4b:
-
-    # mc "Yeah. I should’ve told you sooner."
-    mc "Sim. Eu devia ter te contado antes."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:459
 translate portuguese sm1cs_ns014_studio_093a0059:
 
     # ns "Oh my god!"
     ns "Meu deus!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:460
-translate portuguese sm1cs_ns014_studio_1090ea49:
-
-    # ns "That’s so wild, [mcname]. So all this camera gear is for... wow."
-    ns "Que loucura, [mcname]. Então esse equipamento é para... nossa."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:461
 translate portuguese sm1cs_ns014_studio_626fc7a0:
 
     # ns "All of the decorations make a lot more sense now."
     ns "Agora as decorações fazem mais sentido."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:464
-translate portuguese sm1cs_ns014_studio_277f1a2a:
-
-    # mc "I’m sorry for keeping it from you. Can you forgive me?"
-    mc "Desculpa ter escondido isso. Pode me perdoar?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:467
 translate portuguese sm1cs_ns014_studio_00ea30d8:
@@ -970,12 +928,6 @@ translate portuguese sm1cs_ns014_studio_991c2490:
     # ns "Hmmm. What cat?"
     ns "Hmmm. Escapuliu  para onde?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:550
-translate portuguese sm1cs_ns014_studio_1d7ad725:
-
-    # mc "Nevermind."
-    mc "Esquece."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:553
 translate portuguese sm1cs_ns014_studio_51a6e691:
 
@@ -1017,12 +969,6 @@ translate portuguese sm1cs_ns014_studio_181bcc42:
 
     # ns "First. Can I help film too?"
     ns "Primeira. Posso ajudar a filmar?"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:575
-translate portuguese sm1cs_ns014_studio_26fcd2da:
-
-    # mc "Really? You’d want to? As in actually be filmed in scenes with me?"
-    mc "Sério? Você quer? Tipo ser filmada nas cenas comigo?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:578
 translate portuguese sm1cs_ns014_studio_92f49a7a:
@@ -1078,23 +1024,11 @@ translate portuguese sm1cs_ns014_studio_3653f87d:
     # ns "Is that alright?"
     ns "Pode ser?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:599
-translate portuguese sm1cs_ns014_studio_c88ffcce:
-
-    # mc "Of course. Whatever you’re comfortable with."
-    mc "Claro. O que você acha melhor."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:603
 translate portuguese sm1cs_ns014_studio_46f34de2:
 
     # ns "Perfect! And... you know..."
     ns "Perfeito! E... sabe..."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:606
-translate portuguese sm1cs_ns014_studio_0a63f1bb:
-
-    # sy "I’m so excited! We’re gonna have so much fun, Nari."
-    sy "Tô tão empolgada! A gente vai se divertir tanto, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:610
 translate portuguese sm1cs_ns014_studio_3dab1d16:

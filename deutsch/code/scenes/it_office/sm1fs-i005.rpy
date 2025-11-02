@@ -466,12 +466,6 @@ translate deutsch sm1fs_i005_e51945c9:
     # pm "I never did that."
     pm "Das habe ich nie getan."
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:281
-translate deutsch sm1fs_i005_e4e800cc:
-
-    # pm "Sienna. You're Dev Ops.{w} Stop this."
-    pm "Sienna. Du bist Dev Ops.{w} Hör auf damit."
-
 # game/code/scenes/it_office/sm1fs-i005.rpy:285
 translate deutsch sm1fs_i005_ae2631c3:
 
@@ -736,12 +730,6 @@ translate deutsch sm1fs_i005_1d74550d:
     # ml "Can we help you? Libby's screen is still corrupted by smut."
     ml "Können wir dir helfen? Libbys Bildschirm ist immer noch mit Schmutz verschmutzt."
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:424
-translate deutsch sm1fs_i005_3fe2de4f:
-
-    # en "What is problem?"
-    en "Was ist das Problem?"
-
 # game/code/scenes/it_office/sm1fs-i005.rpy:425
 translate deutsch sm1fs_i005_09d178b8:
 
@@ -892,12 +880,6 @@ translate deutsch sm1fs_i005_cadd0aaa:
     # ag "April, I found it."
     ag "April, ich habe es gefunden."
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:502
-translate deutsch sm1fs_i005_34a4041c:
-
-    # ag "It's in file directory sales flash two-thousand-twenty slash Oh Bee Jay slash archive."
-    ag "Es befindet sich im Dateiverzeichnis sales flash two-thousand-twenty slash Oh Bee Jay slash archive."
-
 # game/code/scenes/it_office/sm1fs-i005.rpy:507
 translate deutsch sm1fs_i005_f8ee961d:
 
@@ -1018,12 +1000,6 @@ translate deutsch sm1fs_i005_75d741b5:
     # am "*gulp gulp*"
     am "*Schluck, Schluck*"
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:579
-translate deutsch sm1fs_i005_2225d959:
-
-    # sr "Oh.{w} That's Peters."
-    sr "Oh.{w} Das ist Peters."
-
 # game/code/scenes/it_office/sm1fs-i005.rpy:582
 translate deutsch sm1fs_i005_15e1e8d2:
 
@@ -1065,12 +1041,6 @@ translate deutsch sm1fs_i005_f2c88c7b:
 
     # cw "And I've done things."
     cw "Und ich habe Dinge getan."
-
-# game/code/scenes/it_office/sm1fs-i005.rpy:610
-translate deutsch sm1fs_i005_7c679794:
-
-    # cw "I {i}mean{/i} I've seen things."
-    cw "Ich {i}meine{/i}, ich habe Dinge gesehen."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:613
 translate deutsch sm1fs_i005_93ec2d34:
@@ -1378,12 +1348,6 @@ translate deutsch sm1fs_i005_conference_8e7bec65:
     # am "But it will take time."
     am "Aber das wird Zeit brauchen."
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:752
-translate deutsch sm1fs_i005_conference_55d98fd1:
-
-    # am "And we're still make the new's website."
-    am "Und wir arbeiten noch an der neuen Website."
-
 # game/code/scenes/it_office/sm1fs-i005.rpy:753
 translate deutsch sm1fs_i005_conference_f1db57cb:
 
@@ -1539,12 +1503,6 @@ translate deutsch sm1fs_i005_conference_64f4e970:
 
     # am "You'll tell Sienna the plan?"
     am "Wirst du Sienna den Plan erzählen?"
-
-# game/code/scenes/it_office/sm1fs-i005.rpy:832
-translate deutsch sm1fs_i005_conference_f5f16d44:
-
-    # ag "Yes. And I presume you're going for a caffiene run?"
-    ag "Ja. Und ich nehme an, du gehst einen Kaffee holen?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:835
 translate deutsch sm1fs_i005_conference_dbad630f:

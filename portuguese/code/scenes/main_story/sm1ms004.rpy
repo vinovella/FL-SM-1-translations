@@ -124,12 +124,6 @@ translate portuguese sm1ms004_bd406131:
     # arj "Yeah, and how long until they're broken?"
     arj "Aham, e até quando elas também quebrarem?"
 
-# game/code/scenes/main_story/sm1ms004.rpy:69
-translate portuguese sm1ms004_38f4d5b9:
-
-    # arj "Nevermind. It doesn't matter."
-    arj "Deixa. Não importa."
-
 # game/code/scenes/main_story/sm1ms004.rpy:70
 translate portuguese sm1ms004_0bc059a3:
 
@@ -364,12 +358,6 @@ translate portuguese sm1ms004_0262f624:
     # mc "Well, I guess that ends the tour."
     mc "Bom, acho que esse seria o tour."
 
-# game/code/scenes/main_story/sm1ms004.rpy:171
-translate portuguese sm1ms004_a74686a4:
-
-    # mct "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-    mct "Acho que você vai querer dar uma aliviada se for contar pra Stacy. Ela tá bem otimista com tudo, não quero que perca isso."
-
 # game/code/scenes/main_story/sm1ms004.rpy:174
 translate portuguese sm1ms004_d2195659:
 
@@ -585,12 +573,6 @@ translate portuguese sm1ms004_93730c07:
 
     # mct "That was interesting.{w} I feel good - like AmRose is coming back around to liking us."
     mct "Interessante.{w} Que legal - parece que a AmRose tá começando a gostar de novo da gente."
-
-# game/code/scenes/main_story/sm1ms004.rpy:266
-translate portuguese sm1ms004_46109a1d:
-
-    # mct "Maybe this isn't completely fucked afterall."
-    mct "Talvez essa situação ainda não esteja completamente sem esperança."
 
 # game/code/scenes/main_story/sm1ms004.rpy:268
 translate portuguese sm1ms004_fcf11b81:

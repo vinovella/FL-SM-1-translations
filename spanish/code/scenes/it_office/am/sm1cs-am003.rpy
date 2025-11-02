@@ -1,8 +1,3 @@
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:23
-translate spanish sm1cs_am003_65d3c1ab:
-
-    # mc "Hey April."
-    mc "Hola Abril."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:26
 translate spanish sm1cs_am003_60929dc7:
@@ -27,12 +22,6 @@ translate spanish sm1cs_am003_05500ff6:
 
     # mc "Huh?"
     mc "¿Eh?"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:42
-translate spanish sm1cs_am003_9411ee06:
-
-    # am "Humans. We have created all this technology. It can do incredible things."
-    am "Humanos. Hemos creado toda esta tecnología. Puede hacer cosas increíbles."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:43
 translate spanish sm1cs_am003_6836a542:
@@ -136,12 +125,6 @@ translate spanish sm1cs_am003_4ced708b:
     # mc "She did not."
     mc "Ella no lo hizo."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:99
-translate spanish sm1cs_am003_ff48ba88:
-
-    # am "Hmmph. Sounds like you wasted your afternoon. I'm fine."
-    am "Hmmph. Parece que desperdició la tarde. Estoy bien."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:102
 translate spanish sm1cs_am003_e2e1fb53:
 
@@ -160,12 +143,6 @@ translate spanish sm1cs_am003_246b96f0:
     # mc "Well if we're not friends, your teasing feels a lot like bullying."
     mc "Bueno, si no somos amigos, tus burlas se sienten muy parecidas a la intimidación."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:111
-translate spanish sm1cs_am003_c44693ed:
-
-    # am "It's bullying to say someone sucks at their job?"
-    am "¿Es intimidante decir que alguien apesta en su trabajo?"
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:114
 translate spanish sm1cs_am003_81fb0059:
 
@@ -177,12 +154,6 @@ translate spanish sm1cs_am003_9b36aebd:
 
     # am "I didn't know you could count that high."
     am "No sabía que se podía contar tan alto."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:120
-translate spanish sm1cs_am003_b58f5af6:
-
-    # mct "This girl. It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
-    mct "Esta chica. Es como dijo Anna. Si no fuera tan buena, su actitud la habría sacado de Orbix."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:121
 translate spanish sm1cs_am003_ce80c7ee:
@@ -196,29 +167,11 @@ translate spanish sm1cs_am003_3adad30a:
     # am "What, did that break you?"
     am "¿Qué, eso te rompió?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:127
-translate spanish sm1cs_am003_fe1864dc:
-
-    # mc "You were right. I didn't come to check on you. I need help with a work problem and this is where you are working now. Simple as that."
-    mc "Tenías razón. No vine a verte. Necesito ayuda con un problema de trabajo y aquí es donde estás trabajando ahora. Simple como eso."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:130
 translate spanish sm1cs_am003_201598d2:
 
     # am "Well yeah. I knew that from the start."
     am "Bueno, sí. Lo sabía desde el principio."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:134
-translate spanish sm1cs_am003_e619f22b:
-
-    # am "After that work session, I... I figured you would have either quit or just do the bare minimum with your assignments."
-    am "Después de esa sesión de trabajo, yo... pensé que habrías renunciado o simplemente haciendo lo mínimo con tus tareas."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:135
-translate spanish sm1cs_am003_7274fced:
-
-    # am "But here you are."
-    am "Pero aquí estás."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:138
 translate spanish sm1cs_am003_226d5b69:
@@ -231,18 +184,6 @@ translate spanish sm1cs_am003_5c53c85f:
 
     # am "Yeah.{w} Maybe I was wrong about you, [mcname]."
     am "Sí. {w} Tal vez me equivoqué sobre ti, [mcname]."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:144
-translate spanish sm1cs_am003_7da007d5:
-
-    # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want. Sometimes I stumble, but I never stay on the ground for long."
-    mc "Así es. Puedo ser un desorden, pero también puedo trabajar increíblemente duro para obtener lo que quiero. A veces tropiezo, pero nunca me quedo en el suelo por mucho tiempo."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:145
-translate spanish sm1cs_am003_37d25850:
-
-    # mc "I didn't study IT at college, but I've always been a fast learner. Teach me, I'm ready to learn at your feet, April."
-    mc "No estudié informática en la universidad, pero siempre he aprendido rápido. Enséñame, estoy dispuesto a aprender a tus pies, Abril."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:148
 translate spanish sm1cs_am003_1446f8b8:
@@ -261,12 +202,6 @@ translate spanish sm1cs_am003_cb160673:
 
     # am "*sighs* Okay, you certainly got the energy. But you're not going near my feet."
     am "*suspira* Está bien, ciertamente tienes la energía. Pero no te acercas a mis pies."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:155
-translate spanish sm1cs_am003_3e875709:
-
-    # am "Despite my better judgment, I'll try to give you some pointers here and there."
-    am "A pesar de mi mejor juicio, intentaré darte algunos consejos aquí y allá."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:158
 translate spanish sm1cs_am003_35f64472:
@@ -292,12 +227,6 @@ translate spanish sm1cs_am003_84fb7e61:
     # mc "If you teach me well, I'm sure I'll do great."
     mc "Si me enseñas bien, estoy seguro de que lo haré muy bien."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:176
-translate spanish sm1cs_am003_c742b267:
-
-    # am "I am not your teacher, [mcname]. that's not my job."
-    am "No soy tu profesora, [mcname]. Ese no es mi trabajo."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:177
 translate spanish sm1cs_am003_7c802427:
 
@@ -315,12 +244,6 @@ translate spanish sm1cs_am003_442b1bff:
 
     # mc "Sure, sure. I got it."
     mc "Claro, claro. Lo entiendo."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:186
-translate spanish sm1cs_am003_c73287ef:
-
-    # am "Okay. Show me what problems you're having with the website."
-    am "Bueno. Muéstrame qué problemas tienes con el sitio web."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:189
 translate spanish sm1cs_am003_606e2d02:
@@ -424,12 +347,6 @@ translate spanish sm1cs_am003_e9721ff3:
     # mc "Thank you!"
     mc "¡Gracias!"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:290
-translate spanish sm1cs_am003_ba3fd6b1:
-
-    # mc "Ohe dark roast coffee for the girl who roasts me every day."
-    mc "Un café de tueste oscuro para la chica que me tuesta todos los días."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:293
 translate spanish sm1cs_am003_20494680:
 
@@ -441,12 +358,6 @@ translate spanish sm1cs_am003_a7a92e8f:
 
     # mc "No problem."
     mc "No hay problema."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:303
-translate spanish sm1cs_am003_905ee756:
-
-    # mct "Ah. That is the spot."
-    mct "Ah. Ese es el lugar."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:306
 translate spanish sm1cs_am003_3d905e5a:
@@ -574,12 +485,6 @@ translate spanish sm1cs_am003_189dae3a:
     # mc "Like it's not fun anymore?"
     mc "¿Como si ya no fuera divertido?"
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:365
-translate spanish sm1cs_am003_b689b960:
-
-    # am "Yes. There is a lot of stuff going on. Decisions I... we have to make. Hard decisions."
-    am "Sí. Están pasando muchas cosas. Decisiones que... tenemos que tomar. Decisiones difíciles."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:366
 translate spanish sm1cs_am003_5bd7e194:
 
@@ -616,18 +521,6 @@ translate spanish sm1cs_am003_fdb19f63:
     # am "Right. But... I thought you were trying to like... turn this into a date or something."
     am "Bien. Pero... pensé que te gustaba... convertir esto en una cita o algo así."
 
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:382
-translate spanish sm1cs_am003_19fb34a9:
-
-    # mc "I think we've got our signals mixed up. If I wanted to ask you on a date, I'd ask you on a date."
-    mc "Creo que tenemos nuestras señales mezcladas. Si quisiera invitarte a una cita, te invitaría a una cita."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:385
-translate spanish sm1cs_am003_28df6c88:
-
-    # am "Totally. And you wouldn't ask me on a date because you know I'm out of your league."
-    am "Totalmente. Y no me preguntarías en una cita porque sabes que estoy fuera de tu liga."
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:389
 translate spanish sm1cs_am003_85b15758:
 
@@ -657,18 +550,6 @@ translate spanish sm1cs_am003_ebee4a17:
 
     # mc "Is that a big surprise?"
     mc "¿Es eso una gran sorpresa?"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:407
-translate spanish sm1cs_am003_06015bec:
-
-    # am "I've worked with a lot of assholes, and I thought you'd just be like them. But you're not just sitting around. You're-"
-    am "He trabajado con muchos imbéciles, y pensé que solo serías como ellos. Pero no solo estás sentado. Estás..."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:410
-translate spanish sm1cs_am003_407e8a50:
-
-    # mc "Trying to not suck all the time."
-    mc "Tratando de no chupar todo el tiempo."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:413
 translate spanish sm1cs_am003_c35370b4:
@@ -711,18 +592,6 @@ translate spanish sm1cs_am003_d3a6be79:
 
     # am "Well yeah, but you still noticed that line forty-two was the root issue of why the first batch wasn't connecting to the second one."
     am "Bueno, sí, pero aún así te diste cuenta de que la línea cuarenta y dos era la raíz del problema de por qué el primer lote no se conectaba al segundo."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:436
-translate spanish sm1cs_am003_02c1f7dd:
-
-    # mc "So I'm a elite-code-monkey now, right?"
-    mc "Así que ahora soy un mono del código de élite, ¿no?"
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:439
-translate spanish sm1cs_am003_caa31988:
-
-    # am "Oh yeah. A future Wozniak."
-    am "Oh sí. Un futuro Wozniak."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:443
 translate spanish sm1cs_am003_575001ec:
@@ -777,12 +646,6 @@ translate spanish sm1cs_am003_036946db:
 
     # mc "I'm down. I can check my calendar."
     mc "Estoy deprimido. Puedo revisar mi calendario."
-
-# game/code/scenes/it_office/am/sm1cs-am003.rpy:484
-translate spanish sm1cs_am003_58dc05c7:
-
-    # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy. And I may or may not have warpaint on my face."
-    am "Genial.{w} Es una banda de rock pagana, así que prepárate. Puede que me veas... un poco loca. Y puedo o no tener pintura de guerra en mi cara."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:487
 translate spanish sm1cs_am003_d8bc74dd:

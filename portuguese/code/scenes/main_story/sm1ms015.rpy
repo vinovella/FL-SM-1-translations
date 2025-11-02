@@ -52,12 +52,6 @@ translate portuguese sm1ms015_065a0b01:
     # sy "What does Orbix do again?"
     sy "O que a Orbix faz mesmo?"
 
-# game/code/scenes/main_story/sm1ms015.rpy:38
-translate portuguese sm1ms015_047997aa:
-
-    # mc "Their main focus is developing IT solutions and infastructure."
-    mc "O foco principal é desenvolver soluções e infraestrutura de TI."
-
 # game/code/scenes/main_story/sm1ms015.rpy:41
 translate portuguese sm1ms015_42d68500:
 
@@ -69,12 +63,6 @@ translate portuguese sm1ms015_19b2073c:
 
     # my "Mmmm."
     my "Mmmm."
-
-# game/code/scenes/main_story/sm1ms015.rpy:47
-translate portuguese sm1ms015_7497e2f1:
-
-    # mc "Everything okay, mom?"
-    mc "Tudo bem, Mãe?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:49
 translate portuguese sm1ms015_cdda8f30:
@@ -334,12 +322,6 @@ translate portuguese sm1ms015_c978a465:
     # cw "It's Miss."
     cw "É Senhorita."
 
-# game/code/scenes/main_story/sm1ms015.rpy:157
-translate portuguese sm1ms015_f141650f:
-
-    # cw "Nevermind."
-    cw "Esquece."
-
 # game/code/scenes/main_story/sm1ms015.rpy:159
 translate portuguese sm1ms015_05ee9ede:
 
@@ -531,12 +513,6 @@ translate portuguese sm1ms015_85730248:
 
     # sy "Likewise, Nari."
     sy "Também, Nari."
-
-# game/code/scenes/main_story/sm1ms015.rpy:246
-translate portuguese sm1ms015_6e0d5e68:
-
-    # ns "And I'm delighted to meet you too, Miss Melony."
-    ns "E também é um prazer te conhecer, Srta. Melony."
 
 # game/code/scenes/main_story/sm1ms015.rpy:248
 translate portuguese sm1ms015_9b705389:
@@ -789,12 +765,6 @@ translate portuguese sm1ms015_3df01a68:
 
     # mc "On the other hand, I am a twenty-something co-owner for the studio."
     mc "Por outro lado, sou cofundador de um estúdio aos vinte e tantos."
-
-# game/code/scenes/main_story/sm1ms015.rpy:381
-translate portuguese sm1ms015_caab2211:
-
-    # sy "Haha. He's got you there, mom."
-    sy "Haha. Te pegou, Mãe."
 
 # game/code/scenes/main_story/sm1ms015.rpy:383
 translate portuguese sm1ms015_e575597a:

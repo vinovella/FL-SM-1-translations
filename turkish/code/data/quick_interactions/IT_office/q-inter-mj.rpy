@@ -1,8 +1,3 @@
-﻿# game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:16
-translate turkish q_inter_mj_1_980ce44b:
-
-    # mj "[mcname], are participating in this bet on who will have less errors, Anna or April?"
-    mj "[mcname], Anna mı yoksa April mi daha az hata yapacak diye bahse katılıyor musun?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:18
 translate turkish q_inter_mj_1_e5d5f892:
@@ -57,12 +52,6 @@ translate turkish q_inter_mj_3_8a7ee1e8:
 
     # mc "I will-"
     mc "Yapacağım-"
-
-# game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:40
-translate turkish q_inter_mj_3_506081d3:
-
-    # mj "Actually, I'll just talk to Anna about it! See if she can ge April to surrender her's too."
-    mj "Aslında, bununla ilgili Anna ile konuşurum! Belki April’in raporunu da alabilir."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:46
 translate turkish q_inter_mj_4_819cf8a1:

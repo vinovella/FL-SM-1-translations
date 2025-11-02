@@ -112,12 +112,6 @@ translate turkish sm1ms021_7129dea6:
     # mc "Nice."
     mc "Güzel."
 
-# game/code/scenes/main_story/sm1ms021.rpy:69
-translate turkish sm1ms021_e9a1395f:
-
-    # mc "You're talking about me, dick, right?"
-    mc "Benden bahsediyorsun, piç, değil mi?"
-
 # game/code/scenes/main_story/sm1ms021.rpy:73
 translate turkish sm1ms021_033974e5:
 
@@ -141,12 +135,6 @@ translate turkish sm1ms021_cf1adef2:
 
     # mc "Yeah."
     mc "Evet."
-
-# game/code/scenes/main_story/sm1ms021.rpy:92
-translate turkish sm1ms021_3a330c2b:
-
-    # sy "This space... it’s not just a studio anymore. It’s starting to feel like our dream is finally taking shape."
-    sy "Bu alan... artık sadece bir stüdyo değil. Rüyamızın nihayet şekillenmeye başladığını hissetmeye başlıyoruz."
 
 # game/code/scenes/main_story/sm1ms021.rpy:93
 translate turkish sm1ms021_d21c8f26:
@@ -177,18 +165,6 @@ translate turkish sm1ms021_6ea38681:
 
     # mc "We did this together, Stacy. Couldn't have done it without you."
     mc "Bunu birlikte başardık, Stacy. Sen olmadan başaramazdık."
-
-# game/code/scenes/main_story/sm1ms021.rpy:107
-translate turkish sm1ms021_03d3460b:
-
-    # sy "Same here. I mean, you’re the one who kept me sane through all of this."
-    sy "Ben de aynı durumdayım. Yani, bütün bunlar boyunca aklımı başımda tutan sendin."
-
-# game/code/scenes/main_story/sm1ms021.rpy:112
-translate turkish sm1ms021_26fb55b4:
-
-    # sy "And with mom around, it's been just a little bit more hectic."
-    sy "Ve annem etraftayken, işler biraz daha telaşlı oldu."
 
 # game/code/scenes/main_story/sm1ms021.rpy:114
 translate turkish sm1ms021_28d98971:
@@ -436,41 +412,11 @@ translate turkish sm1ms021_34bb4a82:
     # sy "Yeah, I guess so."
     sy "Evet, sanırım öyle."
 
-# game/code/scenes/main_story/sm1ms021.rpy:217
-translate turkish sm1ms021_90c7dbb3:
-
-    # sy "I guess so long as the check clears, I’m not complaining."
-    sy "Sanırım çek tahsil edildiği sürece şikayetçi olmayacağım."
-
-# game/code/scenes/main_story/sm1ms021.rpy:218
-translate turkish sm1ms021_bce7ba08:
-
-    # sy "And now that we’ve got the extra power and space in the studio, this film is going to be even better than the first one."
-    sy "Ve artık stüdyoda ekstra güce ve alana sahip olduğumuza göre, bu film ilkinden bile daha iyi olacak."
-
-# game/code/scenes/main_story/sm1ms021.rpy:222
-translate turkish sm1ms021_9fdc7c78:
-
-    # mct "She’s got a point. This is the kind of project that could put us on the map if we nail it."
-    mct "Haklı bir nokta var. Bu, eğer başarabilirsek bizi haritaya koyabilecek türden bir proje."
-
-# game/code/scenes/main_story/sm1ms021.rpy:226
-translate turkish sm1ms021_a1f727e3:
-
-    # mc "Alright, let’s start brainstorming then."
-    mc "Tamam, o zaman beyin fırtınasına başlayalım."
-
 # game/code/scenes/main_story/sm1ms021.rpy:229
 translate turkish sm1ms021_4b920476:
 
     # mc "I wonder if we can hang a chain line from the ceiling."
     mc "Acaba tavandan bir zincir ipi sarkıtabilir miyiz?"
-
-# game/code/scenes/main_story/sm1ms021.rpy:232
-translate turkish sm1ms021_7d5dbe55:
-
-    # sy "Hold on there, Spielberg. We can’t just jump in without a solid plan and, more importantly, without money."
-    sy "Dur bakalım Spielberg. Sağlam bir planımız ve daha da önemlisi paramız olmadan hemen işe koyulamayız."
 
 # game/code/scenes/main_story/sm1ms021.rpy:235
 translate turkish sm1ms021_1464866a:
@@ -562,12 +508,6 @@ translate turkish sm1ms021_39685004:
     # sy "Mmmm."
     sy "Mmmm."
 
-# game/code/scenes/main_story/sm1ms021.rpy:282
-translate turkish sm1ms021_ea88bbcb:
-
-    # mc "Alright, let’s map this out. First, we secure the funding. Then, we finalize the concept for the scene."
-    mc "Tamam, bunu planlayalım. İlk önce finansmanı güvence altına alalım. Sonra, sahne için konsepti sonlandıralım."
-
 # game/code/scenes/main_story/sm1ms021.rpy:283
 translate turkish sm1ms021_f5480063:
 
@@ -633,12 +573,6 @@ translate turkish sm1ms021_ae9dcce1:
 
     # mc "Then it's money I'll get. And when I'm through, S&M will have its second film ready to fire people up across the whole city."
     mc "O zaman parayı alacağım. Ve işim bittiğinde, S&M tüm şehirdeki insanları harekete geçirecek ikinci filmini hazırlamış olacak."
-
-# game/code/scenes/main_story/sm1ms021.rpy:312
-translate turkish sm1ms021_1a9dd79e:
-
-    # mc "Let’s do this. For the studio and for the dream."
-    mc "Hadi yapalım bunu. Stüdyo için ve rüya için."
 
 # game/code/scenes/main_story/sm1ms021.rpy:315
 translate turkish sm1ms021_3829caaa:

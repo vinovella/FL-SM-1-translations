@@ -40,12 +40,6 @@ translate portuguese sm1cs_dc004_6ce4cbe3:
     # dc "Yeah..."
     dc "Yeah..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:25
-translate portuguese sm1cs_dc004_f1498a85:
-
-    # mc "But I wanted to ask you something. The other day, at coffe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-    mc "But I wanted to ask you something. The other day, at coffe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:29
 translate portuguese sm1cs_dc004_4005297e:
 

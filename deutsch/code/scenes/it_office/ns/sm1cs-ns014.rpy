@@ -586,24 +586,6 @@ translate deutsch sm1cs_ns014_studio_16053267:
     # mct "She is very open-minded but she's bound to ask questions if she comes down for breakfast and there is a full porn movie production in her home."
     mct "Sie ist sehr aufgeschlossen, aber sie wird bestimmt Fragen stellen, wenn sie zum Frühstück herunterkommt und in ihrem Haus eine komplette Pornofilmproduktion stattfindet."
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:381
-translate deutsch sm1cs_ns014_studio_82687d68:
-
-    # mc "You’re a natural, Nari."
-    mc "Du bist ein Naturtalent, Nari."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:384
-translate deutsch sm1cs_ns014_studio_1ed11863:
-
-    # ns "Heehee, stop it. I’m shy!"
-    ns "Heehee, hör auf damit. Ich bin schüchtern!"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:387
-translate deutsch sm1cs_ns014_studio_6c5986ee:
-
-    # sy "Lies! You’re eating this up."
-    sy "Lügen! Du glaubst das doch selbst nicht."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:390
 translate deutsch sm1cs_ns014_studio_5b482089:
 
@@ -633,12 +615,6 @@ translate deutsch sm1cs_ns014_studio_f8405504:
 
     # sy "I'll put these back."
     sy "Ich werde das ablegen."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:405
-translate deutsch sm1cs_ns014_studio_eb8cad39:
-
-    # sy "And leave you to to..."
-    sy "Und dich zurücklassen, um zu..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:406
 translate deutsch sm1cs_ns014_studio_120569a2:
@@ -742,35 +718,17 @@ translate deutsch sm1cs_ns014_studio_252151bc:
     # ns "Wait—like... porn movies? You're saying that you are going to film porn here?"
     ns "Moment mal... Pornofilme? Du meinst, du drehst hier Pornos?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:456
-translate deutsch sm1cs_ns014_studio_16934f4b:
-
-    # mc "Yeah. I should’ve told you sooner."
-    mc "Ja. Ich hätte es dir schon früher sagen sollen."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:459
 translate deutsch sm1cs_ns014_studio_093a0059:
 
     # ns "Oh my god!"
     ns "Oh mein Gott!"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:460
-translate deutsch sm1cs_ns014_studio_1090ea49:
-
-    # ns "That’s so wild, [mcname]. So all this camera gear is for... wow."
-    ns "Das ist ja unglaublich, [mcname]. Diese ganze Kameraausrüstung ist also für... wow."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:461
 translate deutsch sm1cs_ns014_studio_626fc7a0:
 
     # ns "All of the decorations make a lot more sense now."
     ns "Jetzt machen alle Dekorationen viel mehr Sinn."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:464
-translate deutsch sm1cs_ns014_studio_277f1a2a:
-
-    # mc "I’m sorry for keeping it from you. Can you forgive me?"
-    mc "Es tut mir leid, dass ich es dir verheimlicht habe. Kannst du mir verzeihen?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:467
 translate deutsch sm1cs_ns014_studio_00ea30d8:
@@ -970,12 +928,6 @@ translate deutsch sm1cs_ns014_studio_991c2490:
     # ns "Hmmm. What cat?"
     ns "Hmmm. Welche Katze?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:550
-translate deutsch sm1cs_ns014_studio_1d7ad725:
-
-    # mc "Nevermind."
-    mc "Egal."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:553
 translate deutsch sm1cs_ns014_studio_51a6e691:
 
@@ -1017,12 +969,6 @@ translate deutsch sm1cs_ns014_studio_181bcc42:
 
     # ns "First. Can I help film too?"
     ns "Erstens: Kann ich auch beim Filmen helfen?"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:575
-translate deutsch sm1cs_ns014_studio_26fcd2da:
-
-    # mc "Really? You’d want to? As in actually be filmed in scenes with me?"
-    mc "Wirklich? Das würdest du wollen? Du würdest tatsächlich in Szenen mit mir gefilmt werden wollen?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:578
 translate deutsch sm1cs_ns014_studio_92f49a7a:
@@ -1078,23 +1024,11 @@ translate deutsch sm1cs_ns014_studio_3653f87d:
     # ns "Is that alright?"
     ns "Ist das in Ordnung?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:599
-translate deutsch sm1cs_ns014_studio_c88ffcce:
-
-    # mc "Of course. Whatever you’re comfortable with."
-    mc "Natürlich. Was immer dir lieber ist."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:603
 translate deutsch sm1cs_ns014_studio_46f34de2:
 
     # ns "Perfect! And... you know..."
     ns "Perfekt! Und... weißt du..."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:606
-translate deutsch sm1cs_ns014_studio_0a63f1bb:
-
-    # sy "I’m so excited! We’re gonna have so much fun, Nari."
-    sy "Ich bin so aufgeregt! Wir werden so viel Spaß haben, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:610
 translate deutsch sm1cs_ns014_studio_3dab1d16:

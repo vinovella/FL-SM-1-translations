@@ -988,12 +988,6 @@ translate turkish sm1cs_mas003_third_delivery_7683afef:
     # ms "Oh, thank god we're at the last dropoff."
     ms "Oh, şükürler olsun ki son bırakma noktasına geldik."
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
-translate turkish sm1cs_mas003_third_delivery_ee8e823e:
-
-    # ms "Nevermind."
-    ms "Önemli değil."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:590
 translate turkish sm1cs_mas003_third_delivery_f166395e:
 

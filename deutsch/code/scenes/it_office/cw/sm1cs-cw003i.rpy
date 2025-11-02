@@ -1,8 +1,3 @@
-﻿# game/code/scenes/it_office/cw/sm1cs-cw003i.rpy:6
-translate deutsch sm1cs_cw003i_c012c5b5:
-
-    # mc "Do you remember my bosse's boss Claire?"
-    mc "Erinnerst du dich an die Chefin meiner Chefin Claire?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw003i.rpy:8
 translate deutsch sm1cs_cw003i_eb884146:

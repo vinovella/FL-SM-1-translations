@@ -1630,12 +1630,6 @@ translate spanish sm1cs_ns012_after_shower_0c054906:
     # mc "Phew."
     mc "Phew."
 
-# game/code/scenes/it_office/ns/sm1cs-ns012.rpy:980
-translate spanish sm1cs_ns012_after_shower_003920fc:
-
-    # ns "Mhwaaah. Nothing like a hot shower after being being fucked so good."
-    ns "Mhwaaah. Nothing like a hot shower after being being fucked so good."
-
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:983
 translate spanish sm1cs_ns012_after_shower_72058692:
 

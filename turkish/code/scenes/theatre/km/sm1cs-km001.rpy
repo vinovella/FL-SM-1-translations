@@ -112,12 +112,6 @@ translate turkish sm1cs_km001_6d319b2b:
     # km "Hmmm."
     km "Hımmm."
 
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:73
-translate turkish sm1cs_km001_cf4ca314:
-
-    # mct "Why is she shopping?"
-    mct "Neden alışveriş yapıyor?"
-
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:76
 translate turkish sm1cs_km001_85ea63d5:
 
@@ -195,12 +189,6 @@ translate turkish sm1cs_km001_96bad0e1:
 
     # km "You're trying to join a theater troupe, not a high-school drama class."
     km "Bir lise drama dersine değil, bir tiyatro topluluğuna katılmaya çalışıyorsunuz."
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:125
-translate turkish sm1cs_km001_ce55f90f:
-
-    # km "Unless you're afraid to lose to a girl"
-    km "Bir kıza kaybetmekten korkmuyorsan"
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:133
 translate turkish sm1cs_km001_ba81f3ed:
@@ -333,12 +321,6 @@ translate turkish sm1cs_km001_085722e2:
 
     # mc "What?!"
     mc "Ne?!"
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:249
-translate turkish sm1cs_km001_e1139fdc:
-
-    # km "Hmmm. Not bad for a amateur."
-    km "Hmmm. Bir amatör için fena değil."
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:254
 translate turkish sm1cs_km001_e79f08af:

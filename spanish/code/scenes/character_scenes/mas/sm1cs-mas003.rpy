@@ -988,12 +988,6 @@ translate spanish sm1cs_mas003_third_delivery_7683afef:
     # ms "Oh, thank god we're at the last dropoff."
     ms "Oh, gracias a Dios que estamos en la última parada."
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
-translate spanish sm1cs_mas003_third_delivery_ee8e823e:
-
-    # ms "Nevermind."
-    ms "No importa."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:590
 translate spanish sm1cs_mas003_third_delivery_f166395e:
 

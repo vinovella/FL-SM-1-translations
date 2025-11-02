@@ -148,12 +148,6 @@ translate turkish sm1cs_vs_renovation_17f20e7d:
     # vs "Oh come on, [mcname]. Like you've never broken a rule."
     vs "Hadi ama, [mcname]. Sanki hiç kuralı çiğnememişsin gibi."
 
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:95
-translate turkish sm1cs_vs_renovation_5b7540d5:
-
-    # mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming a actor in the group."
-    mc "Elbette yaptım, ama grupta oyuncu olmamı engelleyecek bir şey yapmayacağım."
-
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:98
 translate turkish sm1cs_vs_renovation_122cb1b1:
 

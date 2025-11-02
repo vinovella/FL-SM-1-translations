@@ -562,12 +562,6 @@ translate deutsch sm1mv01s04_f8e8e248:
     # tl "So you know, these are stage swords, so they're not sharp."
     tl "Nur damit du es weißt: Das sind Bühnenschwerter, sie sind also nicht scharf."
 
-# game/code/scenes/movies/movie01/sm1mv01s04.rpy:311
-translate deutsch sm1mv01s04_46fab19f:
-
-    # tl "But that doesnt mean that it won't fucking hurt if you hit someone with it."
-    tl "Aber das heißt nicht, dass es nicht verdammt wehtut, wenn man jemanden damit schlägt."
-
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:315
 translate deutsch sm1mv01s04_bce72e62:
 

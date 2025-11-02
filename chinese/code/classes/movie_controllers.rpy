@@ -52,3 +52,49 @@
     old "Add {amount}"
     new "添加{amount}"
 
+translate chinese strings:
+
+    # game/code/classes/movie_controllers.rpy:45
+    old "Costume Budget"
+    new "Costume Budget"
+
+    # game/code/classes/movie_controllers.rpy:45
+    old "Actress Budget"
+    new "Actress Budget"
+
+    # game/code/classes/movie_controllers.rpy:45
+    old "Props Budget"
+    new "Props Budget"
+
+    # game/code/classes/movie_controllers.rpy:45
+    old "Props Design"
+    new "Props Design"
+
+    # game/code/classes/movie_controllers.rpy:45
+    old "Travel Budget"
+    new "Travel Budget"
+
+    # game/code/classes/movie_controllers.rpy:45
+    old "Movie Editing"
+    new "Movie Editing"
+
+    # game/code/classes/movie_controllers.rpy:45
+    old "Set Budget"
+    new "Set Budget"
+
+    # game/code/classes/movie_controllers.rpy:45
+    old "Set Design"
+    new "Set Design"
+
+    # game/code/classes/movie_controllers.rpy:45
+    old "Outfit Design"
+    new "Outfit Design"
+
+    # game/code/classes/movie_controllers.rpy:45
+    old "CGI Budget"
+    new "CGI Budget"
+
+    # game/code/classes/movie_controllers.rpy:150
+    old "Spend {amount} Energy in {energy_name}"
+    new "Spend {amount} Energy in {energy_name}"
+

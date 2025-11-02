@@ -166,12 +166,6 @@ translate spanish sm1cs_mh002_cdabea3b:
     # mh "I was just pulling your leg. From what I heard of, things picked up pace near the end of the semester."
     mh "Te estaba tomando el pelo. Por lo que he oído, las cosas se aceleraron hacia el final del semestre."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:117
-translate spanish sm1cs_mh002_dc49e860:
-
-    # mh "It sounds like once you guys picked up steam, you were able to pierce the vale of mystery quite quickly to figure out what Lydia was doing."
-    mh "Parece que una vez que ustedes se pusieron las pilas, pudieron atravesar el valle del misterio con bastante rapidez para averiguar qué estaba haciendo Lydia."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:120
 translate spanish sm1cs_mh002_dcbc8343:
 

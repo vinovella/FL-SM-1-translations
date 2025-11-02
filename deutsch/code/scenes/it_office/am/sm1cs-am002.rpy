@@ -28,12 +28,6 @@ translate deutsch sm1cs_am002_220cb3d0:
     # mc "April, you okay?"
     mc "April, alles in Ordnung?"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:57
-translate deutsch sm1cs_am002_d8baf531:
-
-    # mc "Uh... earth to April."
-    mc "Äh... Erde an April."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:60
 translate deutsch sm1cs_am002_ba03ec07:
 
@@ -70,18 +64,6 @@ translate deutsch sm1cs_am002_c9b9b334:
     # ag "Sorry for being sneaky, [mcname]."
     ag "Entschuldige, dass ich so hinterhältig war, [mcname]."
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:78
-translate deutsch sm1cs_am002_b738f380:
-
-    # mc "Totally fine. Gave my heart a workout."
-    mc "Völlig in Ordnung. Das hat meinem Herzen gutgetan."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:81
-translate deutsch sm1cs_am002_ec0ac282:
-
-    # ag "Did she say anything? Did you hear her talking on her phone?"
-    ag "Hat sie etwas gesagt? Hast du sie am Telefon sprechen hören?"
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:84
 translate deutsch sm1cs_am002_14b03134:
 
@@ -106,18 +88,6 @@ translate deutsch sm1cs_am002_8cb7e073:
     # mc "Is there a problem?"
     mc "Gibt es ein Problem?"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:96
-translate deutsch sm1cs_am002_87d60ae7:
-
-    # ag "Oh no. Just um... I want to make sure April is not hiding in the bathroom making personal calls on company time."
-    ag "Oh nein. Nur, ähm... Ich möchte sichergehen, dass April sich nicht im Badezimmer versteckt und während der Arbeitszeit private Telefonate führt."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:99
-translate deutsch sm1cs_am002_791e0999:
-
-    # mc "Okay... Maybe she was getting texts? She seemed super into her phone."
-    mc "Okay... Vielleicht hat sie eine Nachricht bekommen? Sie schien total in ihr Handy vertieft zu sein."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:102
 translate deutsch sm1cs_am002_ebca0e7d:
 
@@ -129,12 +99,6 @@ translate deutsch sm1cs_am002_91ba7775:
 
     # ag "How is she doing on your work for the project?"
     ag "Wie kommt sie mit deiner Arbeit für das Projekt voran?"
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:106
-translate deutsch sm1cs_am002_a1a9e363:
-
-    # mc "Oh really good. She's a natural. And after many attempts, I think I've figured out the best way to how to ask for help without her yelling at me."
-    mc "Oh, wirklich gut. Sie ist ein Naturtalent. Und nach vielen Versuchen glaube ich, herausgefunden zu haben, wie ich sie am besten um Hilfe bitten kann, ohne dass sie mich anschreit."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:109
 translate deutsch sm1cs_am002_e7084851:
@@ -238,12 +202,6 @@ translate deutsch sm1cs_am002_acaba40a:
     # mct "Did April just use the word 'please'?"
     mct "Hat April gerade das Wort „bitte“ verwendet?"
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:167
-translate deutsch sm1cs_am002_f178c726:
-
-    # ag "Tomorrow? No. You were supposed to have those changes to the middleware done today."
-    ag "Morgen? Nein. Du solltest diese Änderungen an der Middleware heute fertigstellen."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:168
 translate deutsch sm1cs_am002_1d114e05:
 
@@ -274,23 +232,11 @@ translate deutsch sm1cs_am002_68e335dc:
     # am "There, you have your answer."
     am "Da hast du deine Antwort."
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:185
-translate deutsch sm1cs_am002_5b2e2465:
-
-    # am "Look, it's like I said earlier. It will be ready tomorrow."
-    am "Hör mal, es ist wie ich schon gesagt habe. Es wird morgen fertig sein."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:188
 translate deutsch sm1cs_am002_ff6e3ead:
 
     # ag "I don't need to-"
     ag "Ich brauche nicht..."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:189
-translate deutsch sm1cs_am002_6755d878:
-
-    # ag "*sighs* April, please just talk to me. This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
-    ag "*seufzt* April, bitte rede mit mir. Das sieht dir gar nicht ähnlich. Ich meine, eigentlich sieht es dir ähnlich, aber... trotz all deiner Beleidigungen und kleinen Sticheleien bist du nie so weit zurückgefallen."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:193
 translate deutsch sm1cs_am002_5915abe8:
@@ -315,12 +261,6 @@ translate deutsch sm1cs_am002_4ba21ae4:
 
     # am "I've asked every month for those compatibility upgrades but no one gives me a straight answer."
     am "Ich habe jeden Monat nach diesen Kompatibilitäts-Upgrades gefragt, aber niemand gibt mir eine klare Antwort."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:201
-translate deutsch sm1cs_am002_189f4325:
-
-    # am "You know how fickle middleware can be. And all this squawking from you throws me off my game and sets me back even further."
-    am "Du weißt ja, wie unbeständig Middleware sein kann. Und dein ständiges Gequatsche bringt mich aus dem Konzept und wirft mich noch weiter zurück."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:204
 translate deutsch sm1cs_am002_59f48bb5:
@@ -532,18 +472,6 @@ translate deutsch sm1cs_am002_1eb5239c:
     # mc "Hah. So April was defending you."
     mc "Hah. April hat dich also verteidigt."
 
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:311
-translate deutsch sm1cs_am002_32bf65bc:
-
-    # ag "Hahaha, never. She said it was the fastest way to get his attention and didn't think it would knock him out."
-    ag "Hahaha, niemals. Sie sagte, das sei der schnellste Weg, um seine Aufmerksamkeit zu erregen, und dachte nicht, dass es ihn umhauen würde."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:312
-translate deutsch sm1cs_am002_f19c12d3:
-
-    # ag "That was quite the day."
-    ag "Das war ein toller Tag."
-
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:315
 translate deutsch sm1cs_am002_f25b708f:
 
@@ -567,12 +495,6 @@ translate deutsch sm1cs_am002_bf8549a7:
 
     # mc "Loud and clear."
     mc "Laut und deutlich."
-
-# game/code/scenes/it_office/am/sm1cs-am002.rpy:323
-translate deutsch sm1cs_am002_812760f1:
-
-    # ag "Thanks [mcname]."
-    ag "Danke, [mcname]."
 
 translate deutsch strings:
 

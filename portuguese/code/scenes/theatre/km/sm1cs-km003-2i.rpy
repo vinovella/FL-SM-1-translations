@@ -100,12 +100,6 @@ translate portuguese sm1cs_km003_2i_8b4a888f:
     # mc "Haha. Yeah. Veronica really is one of a kind, isn't she?"
     mc "Hahaha. Pois é. A Veronica é única, hein?"
 
-# game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:67
-translate portuguese sm1cs_km003_2i_2237cc3e:
-
-    # km "Scoffs."
-    km "*Hnff*"
-
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:71
 translate portuguese sm1cs_km003_2i_9ab052ea:
 
@@ -255,12 +249,6 @@ translate portuguese sm1cs_km003_2i_menu_58850354:
 
     # km "Well... since you asked. Sure."
     km "Bem... já que pediu. Beleza."
-
-# game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:149
-translate portuguese sm1cs_km003_2i_menu_de5db7e8:
-
-    # km "Let's go to the main stage"
-    km "Vamos no palco principal."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:151
 translate portuguese sm1cs_km003_2i_menu_716019b8:

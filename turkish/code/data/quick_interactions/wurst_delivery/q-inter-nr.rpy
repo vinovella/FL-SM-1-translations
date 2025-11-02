@@ -70,12 +70,6 @@ translate turkish q_inter_nr_7_2fd44bbc:
     # nr "Always loved a good brat. The heat, the taste. Does miracles for your mood."
     nr "İyi bir bratwurst'e bayılırım. Sıcaklığı, tadı... Modunu anında değiştirir."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:80
-translate turkish q_inter_nr_8_212d12e1:
-
-    # nr "*sniffs* Mmm. Yup, needs a bit more dil before it's ready."
-    nr "*koklar* Mmm. Evet, hazır olması için biraz daha dereotuna ihtiyacı var."
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:86
 translate turkish q_inter_nr_9_a84c87ac:
 

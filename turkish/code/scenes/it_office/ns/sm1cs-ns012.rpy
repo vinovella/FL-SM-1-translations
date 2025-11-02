@@ -1630,12 +1630,6 @@ translate turkish sm1cs_ns012_after_shower_0c054906:
     # mc "Phew."
     mc "Oh be."
 
-# game/code/scenes/it_office/ns/sm1cs-ns012.rpy:1005
-translate turkish sm1cs_ns012_after_shower_003920fc:
-
-    # ns "Mhwaaah. Nothing like a hot shower after being being fucked so good."
-    ns "Mhwaaah. Bu kadar güzel becerildikten sonra sıcak bir duştan daha iyi bir şey yoktur."
-
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:1008
 translate turkish sm1cs_ns012_after_shower_72058692:
 

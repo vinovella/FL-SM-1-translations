@@ -328,12 +328,6 @@ translate turkish sm1cs_ag002_954f8867:
     # ag "I, uhm, don't know what you're talking about."
     ag "Ben, şey, ne hakkında konuştuğunu bilmiyorum."
 
-# game/code/scenes/it_office/ag/sm1cs-ag002.rpy:214
-translate turkish sm1cs_ag002_c1b85313:
-
-    # mc "You know, \"Aubergine Annie\"?"
-    mc "Biliyor musun, \"Patlıcan Annie\"?"
-
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:218
 translate turkish sm1cs_ag002_e0411c2a:
 

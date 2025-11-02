@@ -94,12 +94,6 @@ translate turkish sm1cs_cw003_0b0e1196:
     # mc "So anyhow, there I am, doing my best to pretend like Claire and I are in a relationship."
     mc "Neyse, işte ben de Claire ile bir ilişki içindeymişiz gibi davranmak için elimden geleni yapıyorum."
 
-# game/code/scenes/it_office/cw/sm1cs-cw003.rpy:48
-translate turkish sm1cs_cw003_4f124ce0:
-
-    # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"kinky\" app anymore."
-    mc "Annesi çok rahatladı, Claire'in artık o \"sapkın\" uygulamayı kullanmak zorunda kalmayacağı için mutlu olduğunu söylüyor."
-
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:51
 translate turkish sm1cs_cw003_790de301:
 

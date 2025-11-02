@@ -364,12 +364,6 @@ translate spanish sm1cs_tl003_in_street_ea6df87b:
     # sy "Why is there a cop parked here?"
     sy "¿Por qué hay un policía estacionado aquí?"
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:210
-translate spanish sm1cs_tl003_in_street_665d1eb6:
-
-    # tl "Awhile back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
-    tl "Hace un tiempo hubo una explosión loca o algo así aquí. Después la policía decidió mantener a alguien aquí, por si intentaban hacer alguna mierda otra vez."
-
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:213
 translate spanish sm1cs_tl003_in_street_d3ec48b3:
 
@@ -1305,12 +1299,6 @@ translate spanish sm1cs_tl003_sex_end_972dc55f:
 
     # mc "Oh no, oh no - I'm too handsome to go to jail!"
     mc "Oh, no, oh no, ¡soy demasiado guapo para ir a la cárcel!"
-
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:661
-translate spanish sm1cs_tl003_sex_end_3574fcd3:
-
-    # tl "Shut it, [mcname]. Noone is going to jail today. Just be quiet, and follow me!"
-    tl "Cállate, [mcname]. Nadie va a ir a la cárcel hoy. ¡Cállate y sígueme!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:712
 translate spanish sm1cs_tl003_sex_end_2aba6cf1:

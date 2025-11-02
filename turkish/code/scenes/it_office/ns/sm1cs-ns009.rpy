@@ -904,12 +904,6 @@ translate turkish sm1cs_ns009_sex_continue_0145eaba:
     # mc "It's a great view too."
     mc "Manzarası da çok güzel."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:513
-translate turkish sm1cs_ns009_sex_continue_d91949c4:
-
-    # ns "*giggles* Don't make feel {i}too{/i} embarassed, [mcname]."
-    ns "*kıkırdar* Kendini {i}çok{/i} utandırma, [mcname]."
-
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
 translate turkish sm1cs_ns009_sex_continue_b1abdbcc:
 

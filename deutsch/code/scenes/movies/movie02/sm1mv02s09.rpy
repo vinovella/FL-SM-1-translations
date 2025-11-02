@@ -1354,12 +1354,6 @@ translate deutsch sm1mv02s09_watersports_d73a4817:
     # kv "Need... more..."
     kv "Need... more..."
 
-# game/code/scenes/movies/movie02/sm1mv02s09.rpy:1106
-translate deutsch sm1mv02s09_watersports_beedada6:
-
-    # mhmes "It seems she's still under the affect of the lust."
-    mhmes "It seems she's still under the affect of the lust."
-
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1108
 translate deutsch sm1mv02s09_watersports_b474b758:
 

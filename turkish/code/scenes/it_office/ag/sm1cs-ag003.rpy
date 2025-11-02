@@ -478,12 +478,6 @@ translate turkish sm1cs_ag003_e5856a25:
     # mc "Yeah, that's not a problem."
     mc "Evet, sorun değil."
 
-# game/code/scenes/it_office/ag/sm1cs-ag003.rpy:252
-translate turkish sm1cs_ag003_c42f0397:
-
-    # ag "Thanks! I've been... needing to use the ladies room for awhile, but I hate leaving my stuff unattended. I'll be right back!"
-    ag "Teşekkürler! Bir süredir... bayanlar tuvaletini kullanmam gerekiyordu ama eşyalarımı gözetimsiz bırakmaktan nefret ediyorum. Hemen döneceğim!"
-
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:267
 translate turkish sm1cs_ag003_c833a2d2:
 

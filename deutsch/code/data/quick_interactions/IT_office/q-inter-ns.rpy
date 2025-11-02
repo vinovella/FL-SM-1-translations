@@ -130,12 +130,6 @@ translate deutsch q_inter_ns_6_e69a46ff:
     # mc "Glad you like it, Nari."
     mc "Freut mich, dass es dir gefällt, Nari."
 
-# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:117
-translate deutsch q_inter_ns_7_b09fb556:
-
-    # ns "Oh hey there. How's it going , [mcname]?"
-    ns "Oh, hallo. Wie geht's, [mcname]?"
-
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:119
 translate deutsch q_inter_ns_7_6045e3dc:
 
@@ -177,12 +171,6 @@ translate deutsch q_inter_ns_8_fb12104e:
 
     # ns "It's great to stretch out my legs and feel the breeze on my nip-"
     ns "Es ist toll, die Beine auszustrecken und die Brise auf meinen Nipp... zu spüren."
-
-# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:134
-translate deutsch q_inter_ns_8_b17ab48f:
-
-    # ns "Well... you know *giggles*"
-    ns "Nun ja... du weißt schon *kichert*"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:141
 translate deutsch q_inter_ns_9_a70c5777:
@@ -502,12 +490,6 @@ translate deutsch q_inter_ns_22_03d1e965:
     # mc "Yes, Nari?"
     mc "Ja, Nari?"
 
-# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:313
-translate deutsch q_inter_ns_22_cc4e1e2c:
-
-    # ns "Hehehe. Nevermind. I just wanted you to look at me."
-    ns "Hehehe. Macht nichts. Ich wollte nur, dass du mich ansiehst."
-
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:320
 translate deutsch q_inter_ns_23_97fe8f84:
 
@@ -646,12 +628,6 @@ translate deutsch q_inter_ns_26_9e4f921f:
     # mc "I feel like I've heard that be-"
     mc "Ich glaube, ich habe das schon einmal gehört..."
 
-# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:383
-translate deutsch q_inter_ns_26_aa44f1ba:
-
-    # ns "And NASA found that a single plant can effectively purify 30 square meters of a space."
-    ns "Und die NASA hat herausgefunden, dass eine einzige Pflanze 30 Quadratmeter eines Raumes effektiv reinigen kann."
-
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:384
 translate deutsch q_inter_ns_26_f41785c5:
 
@@ -675,12 +651,6 @@ translate deutsch q_inter_ns_26_3ef5c158:
 
     # mc "Cool-"
     mc "Cool-"
-
-# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:393
-translate deutsch q_inter_ns_26_c5ecf159:
-
-    # ns "Some of these studies focus on specific plants, and each plants..."
-    ns "Einige dieser Studien konzentrieren sich auf bestimmte Pflanzen, und jede Pflanze..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:394
 translate deutsch q_inter_ns_26_ae9ae27e:
@@ -807,12 +777,6 @@ translate deutsch q_inter_ns_29_d54a09db:
 
     # ns "Korean barbecue! It's amazing!"
     ns "Koreanisches Barbecue! Es ist unglaublich!"
-
-# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:447
-translate deutsch q_inter_ns_29_57daf7f9:
-
-    # mct "Crowning has a Korean barbeque place?"
-    mct "Gibt es in Crowning ein koreanisches Barbecue-Restaurant?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:454
 translate deutsch q_inter_ns_30_db455a15:

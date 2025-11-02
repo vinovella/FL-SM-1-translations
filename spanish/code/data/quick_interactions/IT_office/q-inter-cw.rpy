@@ -136,12 +136,6 @@ translate spanish q_inter_cw_6_e4c37d5f:
     # mc "Nope, nothing pressing."
     mc "No, nada urgente."
 
-# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:86
-translate spanish q_inter_cw_6_7dd362e4:
-
-    # cw "Good. I'm meeting a potential client at s new gastro-pub I've heard a lot about and don't want to be late."
-    cw "Bien. Me reuniré con un cliente potencial en un nuevo gastropub del que he oído mucho y no quiero llegar tarde."
-
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:87
 translate spanish q_inter_cw_6_1f94f9a3:
 
@@ -238,12 +232,6 @@ translate spanish q_inter_cw_10_c9423ef7:
     # mc "You know if I see your parents again, maybe we need to work out more backstory details."
     mc "Si vuelvo a ver a tus padres, quizá debamos elaborar más detalles de la historia."
 
-# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:137
-translate spanish q_inter_cw_10_af880d19:
-
-    # cw "No. We not. Keep it vague, Mr. Young."
-    cw "No. Nosotros no. Sea poco claro, Sr. Young."
-
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:138
 translate spanish q_inter_cw_10_4f4d96e6:
 
@@ -285,10 +273,4 @@ translate spanish q_inter_cw_11_03020337:
 
     # cw "Go away. Now."
     cw "Vete. Ahora."
-
-# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:161
-translate spanish q_inter_cw_11_75ec40bb:
-
-    # mc "Message recieved."
-    mc "Mensaje recibido."
 

@@ -556,12 +556,6 @@ translate turkish sm1cs_my004_3d86cf3a:
     # mc "I, uhhh, like the colors of your suit? And... it looks good?"
     mc "I, uhhh, like the colors of your suit? And... it looks good?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:318
-translate turkish sm1cs_my004_fe4717cc:
-
-    # sy "Come on, [mcname]. You have got to do better then that. How about the cut? The fit?"
-    sy "Come on, [mcname]. You have got to do better then that. How about the cut? The fit?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:320
 translate turkish sm1cs_my004_a48048a7:
 

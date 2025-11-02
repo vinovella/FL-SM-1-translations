@@ -112,12 +112,6 @@ translate turkish sm1fs_i004_7dd67392:
     # ag "I don't need the attitude, April."
     ag "Bu tavra ihtiyacım yok, April."
 
-# game/code/scenes/it_office/sm1fs-i004.rpy:82
-translate turkish sm1fs_i004_78844870:
-
-    # am "Sorry, {i}Aubergine Annie{/i}."
-    am "Üzgünüm, {i}Patlıcan Annie{/i}."
-
 # game/code/scenes/it_office/sm1fs-i004.rpy:85
 translate turkish sm1fs_i004_bbcc2a25:
 
@@ -196,12 +190,6 @@ translate turkish sm1fs_i004_3c2c4bec:
     # ag "Nari-"
     ag "Nari-"
 
-# game/code/scenes/it_office/sm1fs-i004.rpy:124
-translate turkish sm1fs_i004_b146f86d:
-
-    # ns "Yes, Aubergine Annie?"
-    ns "Evet, Patlıcan Annie?"
-
 # game/code/scenes/it_office/sm1fs-i004.rpy:127
 translate turkish sm1fs_i004_12c4a685:
 
@@ -255,12 +243,6 @@ translate turkish sm1fs_i004_629db91f:
 
     # cw "We are looking forward to working with you, and your network. We have a brief presentation about our plan for your new website."
     cw "Sizinle ve ağınızla çalışmaktan heyecan duyuyoruz. Yeni web siteniz için planımız hakkında kısa bir sunumumuz var."
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:160
-translate turkish sm1fs_i004_e18669dc:
-
-    # cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a new website."
-    cw "Orbix'teki ekiplerimizden bir pazar analizi yapmalarını istedik. Yeni bir web sitesi için bazı çözümler ürettiler."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:163
 translate turkish sm1fs_i004_b32c8de0:
@@ -333,12 +315,6 @@ translate turkish sm1fs_i004_5721f7bc:
 
     # atp "We should work closely together so there are no screwups."
     atp "Hiçbir hata yapmamak için yakın bir şekilde birlikte çalışmalıyız."
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:196
-translate turkish sm1fs_i004_03af6d84:
-
-    # cw "Of course. We're excited to be in bussiness with you, Angela. As soon as we have a progress update, I'll get in touch."
-    cw "Elbette. Seninle iş yapmaktan heyecan duyuyoruz, Angela. Bir ilerleme güncellemesi alır almaz seninle iletişime geçeceğim."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:199
 translate turkish sm1fs_i004_d2033644:
@@ -520,12 +496,6 @@ translate turkish sm1fs_i004_697af26a:
     # am "But if a bunch of dumb code-monkeys messed around with it-"
     am "Ama eğer bir grup aptal kod maymunu bununla uğraşırsa-"
 
-# game/code/scenes/it_office/sm1fs-i004.rpy:298
-translate turkish sm1fs_i004_15609df2:
-
-    # cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're awake."
-    cw "Bu yüzden üç yerine dört haftan var. Sanırım bunu uyanıkken yapman gerekecek."
-
 # game/code/scenes/it_office/sm1fs-i004.rpy:303
 translate turkish sm1fs_i004_7f3a1e1d:
 
@@ -615,12 +585,6 @@ translate turkish sm1fs_i004_3608ec25:
 
     # am "Ahem. Listen I..."
     am "Öhöm. Dinle ben..."
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:356
-translate turkish sm1fs_i004_c11cc950:
-
-    # am "You are... You're"
-    am "Sen... Sen"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:359
 translate turkish sm1fs_i004_454f418c:

@@ -40,12 +40,6 @@ translate portuguese sm1ms011_01i_4f43e9fe:
     # mc "Oh yeah?"
     mc "Ah é?"
 
-# game/code/scenes/main_story/sm1ms011-01i.rpy:26
-translate portuguese sm1ms011_01i_97e65447:
-
-    # sy "There is a IT company in Crowning that is looking for new coders."
-    sy "Tem uma empresa de TI em Crowing procurando por novos programadores."
-
 # game/code/scenes/main_story/sm1ms011-01i.rpy:28
 translate portuguese sm1ms011_01i_d57769c0:
 
@@ -69,12 +63,6 @@ translate portuguese sm1ms011_01i_7b8a543a:
 
     # mc "Talk to me about that IT job."
     mc "Me conta desse emprego de TI."
-
-# game/code/scenes/main_story/sm1ms011-01i.rpy:40
-translate portuguese sm1ms011_01i_fb73a4fc:
-
-    # sy "There is a IT Company called Orbix in Crowning. They're looking for a new software engineer."
-    sy "Tem uma empresa de TI chamada Orbix em Crowning. Eles estão procurando um engenheiro de software."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:45
 translate portuguese sm1ms011_01i_1ee27939:
