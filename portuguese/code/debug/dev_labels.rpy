@@ -46,3 +46,9 @@ translate portuguese strings:
     old "Test Screen"
     new "Tela de Teste"
 
+translate portuguese strings:
+
+    # game/code/debug/dev_labels.rpy:7
+    old "Play Simon Says Rehearsal"
+    new "Play Simon Says Rehearsal"
+

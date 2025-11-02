@@ -636,3 +636,9 @@ translate portuguese strings:
     old "Mojito"
     new "Mojito"
 
+# game/code/scenes/it_office/ag/sm1cs-ag002.rpy:213
+translate portuguese sm1cs_ag002_47fea000:
+
+    # mc "You know, \"Aubergine Anna\"?"
+    mc "You know, \"Aubergine Anna\"?"
+

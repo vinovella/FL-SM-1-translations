@@ -728,3 +728,17 @@ translate portuguese strings:
     old "Watch the final cut"
     new "Assista a última versão"
 
+translate portuguese strings:
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress Lyssa's storyline and Main Story"
+    new "Progress Lyssa's storyline and Main Story"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Meet an old friend"
+    new "Meet an old friend"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Surprise Nari at night"
+    new "Surprise Nari at night"
+

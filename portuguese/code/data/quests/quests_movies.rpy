@@ -184,3 +184,17 @@ translate portuguese strings:
     old "Talk with Stacy to film second movie"
     new "Fale com Stacy para filmar o segundo filme"
 
+translate portuguese strings:
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Stacy to buy costumes"
+    new "Talk with Stacy to buy costumes"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Stacy to hire actresses"
+    new "Talk with Stacy to hire actresses"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Stacy to film the second movie"
+    new "Talk with Stacy to film the second movie"
+

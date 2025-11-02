@@ -274,3 +274,21 @@ translate portuguese q_inter_cw_11_03020337:
     # cw "Go away. Now."
     cw "Vai embora. Agora."
 
+# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:86
+translate portuguese q_inter_cw_6_144c0d07:
+
+    # cw "Good. I'm meeting a potential client at a new gastro-pub I've heard a lot about and don't want to be late."
+    cw "Good. I'm meeting a potential client at a new gastro-pub I've heard a lot about and don't want to be late."
+
+# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:137
+translate portuguese q_inter_cw_10_1f0406dc:
+
+    # cw "No. We do not. Keep it vague, Mr. Young."
+    cw "No. We do not. Keep it vague, Mr. Young."
+
+# game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:162
+translate portuguese q_inter_cw_11_9929b95c:
+
+    # mc "Message received."
+    mc "Message received."
+

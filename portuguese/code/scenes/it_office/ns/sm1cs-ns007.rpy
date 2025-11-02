@@ -2006,3 +2006,9 @@ translate portuguese strings:
     old "I won't tell if you don't"
     new "Eu não conto se você não contar"
 
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1002
+translate portuguese sm1cs_ns007_walkaway_e0cd2531:
+
+    # ns "I will award you...{w}an Eight out of Ten."
+    ns "I will award you...{w}an Eight out of Ten."
+

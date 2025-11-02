@@ -946,3 +946,39 @@ translate portuguese q_inter_ns_37_18abae82:
     # ns "With all these advances in AI script modules, I wonder if I would have used them in classes."
     ns "Com todos esses avanços de script de IA, será que eu poderia ter usado na aula."
 
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:117
+translate portuguese q_inter_ns_7_525df220:
+
+    # ns "Oh hey there. How's it going, [mcname]?"
+    ns "Oh hey there. How's it going, [mcname]?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:134
+translate portuguese q_inter_ns_8_0c2db63d:
+
+    # ns "Well... you know. *giggles*"
+    ns "Well... you know. *giggles*"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:313
+translate portuguese q_inter_ns_22_af94e231:
+
+    # ns "Hehehe. Never mind. I just wanted you to look at me."
+    ns "Hehehe. Never mind. I just wanted you to look at me."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:383
+translate portuguese q_inter_ns_26_0f469b9f:
+
+    # ns "And NASA found that a single plant can effectively purify 30 square feet of a space."
+    ns "And NASA found that a single plant can effectively purify 30 square feet of a space."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:393
+translate portuguese q_inter_ns_26_0a0ffbc8:
+
+    # ns "Some of these studies focus on specific plants, and each plant..."
+    ns "Some of these studies focus on specific plants, and each plant..."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:447
+translate portuguese q_inter_ns_29_28d64cc9:
+
+    # mct "Crowning has a Korean barbecue place?"
+    mct "Crowning has a Korean barbecue place?"
+

@@ -1704,3 +1704,15 @@ translate portuguese strings:
     old "You got a ${} as your cut of the tip."
     new "You got a ${} as your cut of the tip."
 
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
+translate portuguese sm1cs_mas003_third_delivery_7eec6586:
+
+    # ms "Never mind."
+    ms "Never mind."
+
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
+translate portuguese sm1cs_mas003_third_delivery_9ed10f06:
+
+    # ms "Show's over, ladies."
+    ms "Show's over, ladies."
+

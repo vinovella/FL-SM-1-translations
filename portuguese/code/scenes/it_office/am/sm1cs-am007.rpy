@@ -2662,3 +2662,63 @@ translate portuguese strings:
     old "I'd like to do other things to you"
     new "Gostaria de fazer outras coisas com você"
 
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:46
+translate portuguese sm1cs_am007_ed615167:
+
+    # mct "I wonder what the call is about.{w} Seemed important."
+    mct "I wonder what the call is about.{w} Seemed important."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:114
+translate portuguese sm1cs_am007_44f8eb4e:
+
+    # ps "We should have listened better and we should accept that sometimes you're going to miss practice."
+    ps "We should have listened better and we should accept that sometimes you're going to miss practice."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:212
+translate portuguese sm1cs_am007_c4c994b5:
+
+    # am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
+    am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:213
+translate portuguese sm1cs_am007_45358e8c:
+
+    # am "And this week has been order on the double-shit sandwich."
+    am "And this week has been order on the double-shit sandwich."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:525
+translate portuguese sm1cs_am007_20_minutes_later_01c49227:
+
+    # mc "I have a sudden thirst for a big glass of milk."
+    mc "I have a sudden thirst for a big glass of milk."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:528
+translate portuguese sm1cs_am007_20_minutes_later_7368538e:
+
+    # am "You're here to run.{w} Not ogle my tits."
+    am "You're here to run.{w} Not ogle my tits."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1250
+translate portuguese sm1cs_am007_one_hour_later_36b9f516:
+
+    # mc "Anyone standing near this building might have heard us."
+    mc "Anyone standing near this building might have heard us."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1288
+translate portuguese sm1cs_am007_one_hour_later_6d10752d:
+
+    # mct "I almost said \"at Fetish Locator parties\"."
+    mct "I almost said \"at Fetish Locator parties\"."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1336
+translate portuguese sm1cs_am007_one_hour_later_620b174c:
+
+    # mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
+    mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
+
+translate portuguese strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
+    old "Surprised it's taking you this long"
+    new "Surprised it's taking you this long"
+

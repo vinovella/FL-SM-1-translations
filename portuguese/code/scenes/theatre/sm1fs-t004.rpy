@@ -1578,3 +1578,9 @@ translate portuguese strings:
     old "Just move on"
     new "Prosseguir"
 
+# game/code/scenes/theatre/sm1fs-t004.rpy:514
+translate portuguese sm1fs_t004_workshop_37885fbe:
+
+    # dvh "Veronica, Kellie. Please walk into the center of the circle."
+    dvh "Veronica, Kellie. Please walk into the center of the circle."
+

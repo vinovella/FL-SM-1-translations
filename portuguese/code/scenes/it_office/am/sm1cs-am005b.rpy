@@ -62,3 +62,19 @@ translate portuguese strings:
     old "Nevermind."
     new "Deixa."
 
+# game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
+translate portuguese sm1cs_am005b_658994d8:
+
+    # mc "Never mind."
+    mc "Never mind."
+
+translate portuguese strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
+    old "Try out things with April"
+    new "Try out things with April"
+
+    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
+    old "Never mind"
+    new "Never mind"
+

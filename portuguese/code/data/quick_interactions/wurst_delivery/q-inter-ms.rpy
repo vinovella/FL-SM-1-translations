@@ -808,3 +808,45 @@ translate portuguese q_inter_ms_45_62351857:
     # ms "Don't you wish all your problems could be ground up and packaged for profit."
     ms "Don't you wish all your problems could be ground up and packaged for profit."
 
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:128
+translate portuguese q_inter_ms_9_4e19df90:
+
+    # ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
+    ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:129
+translate portuguese q_inter_ms_9_16556a01:
+
+    # ms "Swwwssh. See? while you blinked, I delivered five combo packs."
+    ms "Swwwssh. See? while you blinked, I delivered five combo packs."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:160
+translate portuguese q_inter_ms_14_0ab32883:
+
+    # ms "At least they can't automate bratwurst makers yet."
+    ms "At least they can't automate bratwurst makers yet."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:373
+translate portuguese q_inter_ms_35_59b4bc48:
+
+    # ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
+    ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:440
+translate portuguese q_inter_ms_40_14e02518:
+
+    # ms "Shhhh. You want the whole place to hear?"
+    ms "Shhhh. You want the whole place to hear?"
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:528
+translate portuguese q_inter_ms_45_fad7a7ce:
+
+    # mc "I'm sure a lot of billionaires start the same way."
+    mc "I'm sure a lot of billionaires start the same way."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:529
+translate portuguese q_inter_ms_45_678c5fed:
+
+    # ms "Maybe I'm on my first step to becoming one."
+    ms "Maybe I'm on my first step to becoming one."
+

@@ -588,3 +588,9 @@ translate portuguese strings:
     old "Say nothing."
     new "Não falar nada."
 
+translate portuguese strings:
+
+    # game/code/scenes/theatre/sm1fs-t005.rpy:97
+    old "I'm sure you did your best, Denise"
+    new "I'm sure you did your best, Denise"
+

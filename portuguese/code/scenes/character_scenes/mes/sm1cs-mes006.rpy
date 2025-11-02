@@ -3654,3 +3654,9 @@ translate portuguese strings:
     old "Maybe some other time."
     new "Maybe some other time."
 
+translate portuguese strings:
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:813
+    old "I'm not going to manipulate you, Min"
+    new "I'm not going to manipulate you, Min"
+

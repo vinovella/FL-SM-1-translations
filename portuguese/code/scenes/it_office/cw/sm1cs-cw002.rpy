@@ -236,3 +236,19 @@ translate portuguese strings:
     old "I don't like it."
     new "Não gostei."
 
+# game/code/scenes/it_office/cw/sm1cs-cw002.rpy:99
+translate portuguese sm1cs_cw002_e0bf352d:
+
+    # mc "Of course. I won't let you down, Ms. Watts."
+    mc "Of course. I won't let you down, Ms. Watts."
+
+translate portuguese strings:
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
+    old "I like it"
+    new "I like it"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
+    old "I don't like it"
+    new "I don't like it"
+

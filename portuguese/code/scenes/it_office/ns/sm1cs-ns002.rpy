@@ -818,3 +818,9 @@ translate portuguese strings:
     old "You can tell me what happened"
     new "Pode me falar o que aconteceu"
 
+translate portuguese strings:
+
+    # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
+    old "I don't need to know"
+    new "I don't need to know"
+

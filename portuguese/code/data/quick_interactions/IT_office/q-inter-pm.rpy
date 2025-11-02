@@ -106,3 +106,9 @@ translate portuguese q_inter_pm_5_414611e9:
     # pm "Well, if she's any good at stocks, definitely get your tips from her. Not me."
     pm "Bom, se ela sacar do mercado de ações, pega dica com ela. Não comigo."
 
+# game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:37
+translate portuguese q_inter_pm_3_98e57bf0:
+
+    # pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
+    pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
+

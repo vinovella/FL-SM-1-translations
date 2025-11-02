@@ -1350,3 +1350,19 @@ translate portuguese strings:
     old "Pronebone Nari"
     new "Meter deitado"
 
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
+translate portuguese sm1cs_ns009_sex_continue_78168329:
+
+    # ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
+    ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
+
+translate portuguese strings:
+
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
+    old "Dominate Nari"
+    new "Dominate Nari"
+
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
+    old "Don't dominate Nari"
+    new "Don't dominate Nari"
+

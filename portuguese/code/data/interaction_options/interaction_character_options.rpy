@@ -462,3 +462,9 @@ translate portuguese strings:
     old "Talk with Stacy about her job search"
     new "Falar com a Stacy sobre a busca de emprego"
 
+translate portuguese strings:
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Let's go to the Amusement Park"
+    new "Let's go to the Amusement Park"
+

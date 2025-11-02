@@ -464,3 +464,9 @@ translate portuguese strings:
     old "Excited"
     new "Empolgado"
 
+# game/code/scenes/it_office/cw/sm1cs-cw003.rpy:48
+translate portuguese sm1cs_cw003_c8642c96:
+
+    # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
+    mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
+

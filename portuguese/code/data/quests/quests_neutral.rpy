@@ -438,3 +438,69 @@ translate portuguese strings:
     old "Talk to Debbie in the evening in the Park"
     new "Talk to Debbie in the evening in the Park"
 
+translate portuguese strings:
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy when she is in bed"
+    new "Talk with Stacy when she is in bed"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Progress IT job's storyline"
+    new "Progress IT job's storyline"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Progress Theater job's storyline"
+    new "Progress Theater job's storyline"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Progress IT and Theater job storylines"
+    new "Progress IT and Theater job storylines"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Progress AmRose's storyline"
+    new "Progress AmRose's storyline"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Progress Taisia's storyline"
+    new "Progress Taisia's storyline"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy at the studio in the morning"
+    new "Talk to Stacy at the studio in the morning"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Learn Photography until you have 5 in this topic (currently {})"
+    new "Learn Photography until you have 5 in this topic (currently {})"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get 6 Relationship Points with Maya and talk to her in Wurst Delivery"
+    new "Get 6 Relationship Points with Maya and talk to her in Wurst Delivery"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get {}/9 Relationship Points with Maya"
+    new "Get {}/9 Relationship Points with Maya"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy about going to Lyssa during the day"
+    new "Talk with Stacy about going to Lyssa during the day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy about Lyssa during the day"
+    new "Talk with Stacy about Lyssa during the day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Go to Lyssa's House during evening"
+    new "Go to Lyssa's House during evening"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Wait for a few days"
+    new "Wait for a few days"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get to 3 Relationship Points with Min"
+    new "Get to 3 Relationship Points with Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get to 5 Relationship Points with Min"
+    new "Get to 5 Relationship Points with Min"
+

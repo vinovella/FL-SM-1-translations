@@ -1296,3 +1296,15 @@ translate portuguese strings:
     old "To no more manual labor!"
     new "Ao fim do trabalho manual!"
 
+# game/code/scenes/main_story/sm1ms020.rpy:135
+translate portuguese sm1ms020_fd52713d:
+
+    # mc "Well... why did you used to live in Crowning?"
+    mc "Well... why did you used to live in Crowning?"
+
+# game/code/scenes/main_story/sm1ms020.rpy:175
+translate portuguese sm1ms020_0046f9d0:
+
+    # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+    my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+

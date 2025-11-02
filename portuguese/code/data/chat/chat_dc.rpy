@@ -64,3 +64,13 @@ translate portuguese strings:
     old "It sounds like a date, [mcname!i] 😉"
     new "Fechou então, [mcname!i] 😉"
 
+translate portuguese strings:
+
+    # game/code/data/chat/chat_dc.rpy:3
+    old "Hey Debbie! I'm glad we talked too. I'm also pretty pumped for this date"
+    new "Hey Debbie! I'm glad we talked too. I'm also pretty pumped for this date"
+
+    # game/code/data/chat/chat_dc.rpy:41
+    old "I'll send you the address! See you in a bit 😏"
+    new "I'll send you the address! See you in a bit 😏"
+

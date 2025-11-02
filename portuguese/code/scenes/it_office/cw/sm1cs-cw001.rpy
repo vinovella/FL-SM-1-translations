@@ -720,3 +720,9 @@ translate portuguese strings:
     old "Disagree with Claire"
     new "Discordar da Claire"
 
+# game/code/scenes/it_office/cw/sm1cs-cw001.rpy:294
+translate portuguese sm1cs_cw001_end_convo_c4aa9c65:
+
+    # mc "Did Orbix have some trouble with inter-office relationships in the past?"
+    mc "Did Orbix have some trouble with inter-office relationships in the past?"
+

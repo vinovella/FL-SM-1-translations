@@ -1906,3 +1906,43 @@ translate portuguese strings:
     old "I'm game. If you can do those things to me."
     new "Por mim de boa. Desde que consiga fazer isso comigo."
 
+# game/code/scenes/theatre/sm1fs-t002.rpy:304
+translate portuguese sm1fs_t002_3cc3e891:
+
+    # tl "So what's your story, you two?"
+    tl "So what's your story, you two?"
+
+# game/code/scenes/theatre/sm1fs-t002.rpy:373
+translate portuguese sm1fs_t002_48bdc3d2:
+
+    # sy "Let's get this party started!"
+    sy "Let's get this party started!"
+
+# game/code/scenes/theatre/sm1fs-t002.rpy:535
+translate portuguese sm1fs_t002_sex_7f6d7367:
+
+    # tl "Damn. Someone is definitely not shy."
+    tl "Damn. Someone is definitely not shy."
+
+# game/code/scenes/theatre/sm1fs-t002.rpy:704
+translate portuguese sm1fs_t002_sex_226f2e7f:
+
+    # mc "Literally zero complaints from me then."
+    mc "Literally zero complaints from me then."
+
+# game/code/scenes/theatre/sm1fs-t002.rpy:736
+translate portuguese sm1fs_t002_sex_b41d6af2:
+
+    # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
+    sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
+
+translate portuguese strings:
+
+    # game/code/scenes/theatre/sm1fs-t002.rpy:245
+    old "I'm into spanking"
+    new "I'm into spanking"
+
+    # game/code/scenes/theatre/sm1fs-t002.rpy:245
+    old "I'm game. If you can do those things to me"
+    new "I'm game. If you can do those things to me"
+

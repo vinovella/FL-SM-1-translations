@@ -106,3 +106,9 @@ translate portuguese strings:
     old "Sci-Fi movie"
     new "Filme Sci-Fi"
 
+translate portuguese strings:
+
+    # game/code/data/quests/line_list_quests.rpy:5
+    old "Kellie's story"
+    new "Kellie's story"
+

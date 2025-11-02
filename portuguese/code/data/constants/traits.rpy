@@ -304,3 +304,9 @@ translate portuguese strings:
     old "Extreme"
     new "Extremo"
 
+translate portuguese strings:
+
+    # game/code/data/constants/traits.rpy:82
+    old "Nipple Piercings"
+    new "Nipple Piercings"
+

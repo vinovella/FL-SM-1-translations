@@ -216,3 +216,61 @@ translate portuguese strings:
     old "Talk to Denise about the Wurst Delivery Sponsorship in her office"
     new "Fale com Denise sobre o Patrocínio da Wurst Delivery no escritório dela"
 
+translate portuguese strings:
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Stacy during the day to interview Taisia"
+    new "Talk to Stacy during the day to interview Taisia"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Go to the Theater for audition during the day"
+    new "Go to the Theater for audition during the day"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Veronica and Kellie storyline"
+    new "Progress Veronica and Kellie storyline"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Denise's storyline"
+    new "Progress Denise's storyline"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Kellie at her dressing room"
+    new "Talk to Kellie at her dressing room"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Veronica's storyline"
+    new "Progress Veronica's storyline"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have ${}/$50"
+    new "Have ${}/$50"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have $50"
+    new "Have $50"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Text Taisia from your phone"
+    new "Text Taisia from your phone"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Finish texting Taisia"
+    new "Finish texting Taisia"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Go to Theater to meet Taisia"
+    new "Go to Theater to meet Taisia"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Veronica at the stage"
+    new "Talk to Veronica at the stage"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Buy the 'Stars Weekly' Magazine from the store"
+    new "Buy the 'Stars Weekly' Magazine from the store"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Veronica on the stage"
+    new "Talk to Veronica on the stage"
+

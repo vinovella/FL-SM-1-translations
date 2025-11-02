@@ -532,3 +532,21 @@ translate portuguese q_inter_tl_21_c1dff962:
     # mc "Oh..."
     mc "Oh..."
 
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:72
+translate portuguese q_inter_tl_5_2a8059e7:
+
+    # tl "If I get 8 hours at the other job... And I save, what, half of that paycheck..."
+    tl "If I get 8 hours at the other job... And I save, what, half of that paycheck..."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:147
+translate portuguese q_inter_tl_11_687943e7:
+
+    # tl "Don't know. But I'm not surprised."
+    tl "Don't know. But I'm not surprised."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:244
+translate portuguese q_inter_tl_17_543cc186:
+
+    # mc "Huh, I never thought about it like that."
+    mc "Huh, I never thought about it like that."
+

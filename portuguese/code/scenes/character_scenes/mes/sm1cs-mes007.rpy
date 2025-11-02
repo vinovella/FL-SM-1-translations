@@ -1254,3 +1254,9 @@ translate portuguese strings:
     old "Cum on her face and boobs"
     new "Cum on her face and boobs"
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:291
+translate portuguese sm1cs_mes007_5b463004:
+
+    # mc "I know it's going to be great."
+    mc "I know it's going to be great."
+

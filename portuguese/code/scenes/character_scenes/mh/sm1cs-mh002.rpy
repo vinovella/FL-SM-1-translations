@@ -388,3 +388,9 @@ translate portuguese sm1cs_mh002_92b73ecf:
     # mh "Ciao."
     mh "Ciao."
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:117
+translate portuguese sm1cs_mh002_4165b5fc:
+
+    # mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
+    mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
+
