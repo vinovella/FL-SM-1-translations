@@ -26,25 +26,25 @@ translate italian sm1cs_sy003_bar_start_e1a0a221:
 translate italian sm1cs_sy003_home_start_9e9ec5a0:
 
     # mc "Well, you're probably right. We want to make sure the product holds up to our standards."
-    mc "Well, you're probably right. We want to make sure the product holds up to our standards."
+    mc "Beh, probabilmente hai ragione. Vogliamo assicurarci che il prodotto sia all'altezza dei nostri standard."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:115
 translate italian sm1cs_sy003_home_start_ae224170:
 
     # sy "Exactly. And the only way to do that is a wonderful evening of my brother taking me to pound-town."
-    sy "Exactly. And the only way to do that is a wonderful evening of my brother taking me to pound-town."
+    sy "Esattamente. E l'unico modo per farlo è una meravigliosa serata in cui mio fratello mi porta in paradiso."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:117
 translate italian sm1cs_sy003_home_start_cfff8975:
 
     # sy "Exatly. And the only way to do that is a wonderful evening of you taking me to pound-town."
-    sy "Exatly. And the only way to do that is a wonderful evening of you taking me to pound-town."
+    sy "Esattamente. E l'unico modo per farlo è una meravigliosa serata in cui mi porti in paradiso."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:122
 translate italian sm1cs_sy003_home_start_e1a0a221:
 
     # mc "Haha. Damn right."
-    mc "Haha. Damn right."
+    mc "Haha. Dannata ragione."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:146
 translate italian sm1cs_sy003_continue_2c602d26:
