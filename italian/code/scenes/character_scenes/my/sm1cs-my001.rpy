@@ -956,97 +956,97 @@ translate italian sm1cs_my001_8e6d5189:
 translate italian sm1cs_my001_020760d3:
 
     # my "Caravaggio was a famous painter. His works are in all of the big museums. But, before he did portraits, he painted churches."
-    my "Caravaggio was a famous painter. His works are in all of the big museums. But, before he did portraits, he painted churches."
+    my "Caravaggio era un pittore famoso. Le sue opere sono in tutti i grandi musei. Ma prima di fare ritratti, dipingeva chiese."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:484
 translate italian sm1cs_my001_12a94a93:
 
     # my "And she had found one of those churches, hidden away from the tourists and the madness."
-    my "And she had found one of those churches, hidden away from the tourists and the madness."
+    my "E aveva trovato una di quelle chiese, nascosta dai turisti e dalla follia."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:485
 translate italian sm1cs_my001_686f07fc:
 
     # my "She gave me an address-"
-    my "She gave me an address-"
+    my "Mi ha dato un indirizzo-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:488
 translate italian sm1cs_my001_043b25c6:
 
     # mc "To the church?"
-    mc "To the church?"
+    mc "Alla chiesa?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:492
 translate italian sm1cs_my001_22767a52:
 
     # my "Nope. To the beginning of the hunt."
-    my "Nope. To the beginning of the hunt."
+    my "No. All'inizio della caccia."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:494
 translate italian sm1cs_my001_b2b9e19d_1:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Cosa intendi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:497
 translate italian sm1cs_my001_1e467bbf:
 
     # my "She was told where to start to find the church, but she told me that the only way I could see it, is if I found it myself."
-    my "She was told where to start to find the church, but she told me that the only way I could see it, is if I found it myself."
+    my "Le era stato detto da dove iniziare per trovare la chiesa, ma mi ha detto che l'unico modo in cui potevo vederla era se l'avessi trovata da sola."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:498
 translate italian sm1cs_my001_042bad2e:
 
     # my "I spent the next day, tearing through Rome, trying to find this church."
-    my "I spent the next day, tearing through Rome, trying to find this church."
+    my "Ho passato il giorno successivo, percorrendo Roma, cercando di trovare questa chiesa."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:499
 translate italian sm1cs_my001_619f586e:
 
     # my "And at sunset, exhausted, I stumbled into this completely nondescript chapel. A place you wouldn't look twice at."
-    my "And at sunset, exhausted, I stumbled into this completely nondescript chapel. A place you wouldn't look twice at."
+    my "E al tramonto, esausta, mi sono imbattuta in questa cappella completamente anonima. Un posto in cui non guarderesti due volte."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:500
 translate italian sm1cs_my001_4a038a86:
 
     # my "And when I stepped inside..."
-    my "And when I stepped inside..."
+    my "E quando sono entrata..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:503
 translate italian sm1cs_my001_2b27b2f4:
 
     # mc "You saw it?"
-    mc "You saw it?"
+    mc "L'hai vista?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:506
 translate italian sm1cs_my001_8830467d:
 
     # my "It was too dark to see anything. There were no lights, nothing."
-    my "It was too dark to see anything. There were no lights, nothing."
+    my "Era troppo buio per vedere qualcosa. Non c'erano luci, niente."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:507
 translate italian sm1cs_my001_b3ad2cc0:
 
     # my "I stumbled around, until a kind person told me that it would be 5 euros. I nervously held out my hand, and felt them take the money."
-    my "I stumbled around, until a kind person told me that it would be 5 euros. I nervously held out my hand, and felt them take the money."
+    my "Ho barcollato, finché una persona gentile mi ha detto che sarebbero stati 5 euro. Ho teso nervosamente la mano e ho sentito che prendevano i soldi."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:510
 translate italian sm1cs_my001_f49a102d:
 
     # my "And then the lights came on. The walls, the ceiling... they were covered in these masterpieces. I can't even begin to describe how beautiful they were."
-    my "And then the lights came on. The walls, the ceiling... they were covered in these masterpieces. I can't even begin to describe how beautiful they were."
+    my "E poi le luci si sono accese. Le pareti, il soffitto... erano ricoperti di questi capolavori. Non riesco nemmeno a descrivere quanto fossero belli."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:511
 translate italian sm1cs_my001_e106e346:
 
     # my "And then the lights shut off. 30 seconds is all I got."
-    my "And then the lights shut off. 30 seconds is all I got."
+    my "E poi le luci si sono spente. 30 secondi è tutto quello che ho avuto."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:512
 translate italian sm1cs_my001_6588ab4b:
 
     # my "I stumbled into the hostel that night, sore, exhausted, but more alive than I had ever felt."
-    my "I stumbled into the hostel that night, sore, exhausted, but more alive than I had ever felt."
+    my "Sono tornata all'ostello quella notte, dolorante, esausta, ma più viva di quanto mi fossi mai sentita."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:516
 translate italian sm1cs_my001_2c9a23fd:
@@ -1058,7 +1058,7 @@ translate italian sm1cs_my001_2c9a23fd:
 translate italian sm1cs_my001_17887d6c:
 
     # my "It seems I have another reason to apologize tonight. I didn't mean to get so lost in an old memory."
-    my "It seems I have another reason to apologize tonight. I didn't mean to get so lost in an old memory."
+    my "Sembra che abbia un altro motivo per scusarmi stasera. Non volevo perdermi così tanto in un vecchio ricordo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:521
 translate italian sm1cs_my001_c3171379:
@@ -1070,13 +1070,13 @@ translate italian sm1cs_my001_c3171379:
 translate italian sm1cs_my001_544d05f8:
 
     # "Waiter" "And your main course for the evening, the pasta linguini. Please enjoy."
-    "Waiter" "And your main course for the evening, the pasta linguini. Please enjoy."
+    "Cameriere" "E la vostra portata principale della serata, la pasta linguine. Buon appetito."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:532
 translate italian sm1cs_my001_651faa76:
 
     # my "Wow, [mcname], this looks incredible."
-    my "Wow, [mcname], this looks incredible."
+    my "Wow, [mcname], sembra incredibile."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:535
 translate italian sm1cs_my001_e30ebd67:
@@ -1136,25 +1136,25 @@ translate italian sm1cs_my001_3a52c789:
 translate italian sm1cs_my001_4040cc16:
 
     # "Waiter" "Sir, would you and your date be interested in a dessert this evening?"
-    "Waiter" "Sir, would you and your date be interested in a dessert this evening?"
+    "Cameriere" "Signore, lei e la sua compagna sarebbero interessati a un dessert questa sera?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:565
 translate italian sm1cs_my001_ac58434a:
 
     # mc "Oh, she's-"
-    mc "Oh, she's-"
+    mc "Oh, lei è-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:568
 translate italian sm1cs_my001_ca6fec8c:
 
     # my "I'm quite full actually. I believe just the check is all we need."
-    my "I'm quite full actually. I believe just the check is all we need."
+    my "Sono piuttosto sazia in realtà. Credo che ci serva solo il conto."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:570
 translate italian sm1cs_my001_3f5141d8:
 
     # "Waiter" "Of course, ma'am."
-    "Waiter" "Of course, ma'am."
+    "Cameriere" "Certamente, signora."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:573
 translate italian sm1cs_my001_9c7841d6:
@@ -1196,13 +1196,13 @@ translate italian sm1cs_my001_b5c61a4a:
 translate italian sm1cs_my001_a34fe746:
 
     # "Waiter" "I hope you both had an excellent evening, and we hope to see you again soon."
-    "Waiter" "I hope you both had an excellent evening, and we hope to see you again soon."
+    "Cameriere" "Spero che abbiate entrambi passato un'eccellente serata, e speriamo di rivedervi presto."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:601
 translate italian sm1cs_my001_093e45b1:
 
     # my "[mcname], you don't need to be so ridiculous."
-    my "[mcname], you don't need to be so ridiculous."
+    my "[mcname], non hai bisogno di essere così ridicolo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:603
 translate italian sm1cs_my001_277fbca3:
@@ -1346,9 +1346,9 @@ translate italian strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:682
     old "Date with Melony"
-    new "Date with Melony"
+    new "Appuntamento con Melony"
 
     # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:682
     old "You paid $200 as restaurant bill"
-    new "You paid $200 as restaurant bill"
+    new "Hai pagato $200 come conto del ristorante"
 
