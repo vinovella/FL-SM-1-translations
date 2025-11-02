@@ -6,15 +6,15 @@ translate spanish strings:
 
     # game/code/classes/renovation_controller.rpy:48
     old "Renovation progress increased by {progress}%"
-    new "El progreso de la renovación aumentó en {progress}%"
+    new "El progreso de la renovación aumentó {progress}%"
 
     # game/code/classes/renovation_controller.rpy:91
     old "Renovation complete"
-    new "Renovación completa"
+    new "Renovación completada"
 
     # game/code/classes/renovation_controller.rpy:93
     old "Visit one of your job location with Stacy and Melony first"
-    new "Visita uno de tus lugares de trabajo con Stacy y Melony primero"
+    new "Visita primero uno de tus lugares de trabajo con Stacy y Melony"
 
     # game/code/classes/renovation_controller.rpy:95
     old "Talk with Stacy to install the stairs"
@@ -38,7 +38,7 @@ translate spanish strings:
 
     # game/code/classes/renovation_controller.rpy:132
     old "Renovation upgrade"
-    new "Actualización de la renovación"
+    new "Mejora de la renovación"
 
     # game/code/classes/renovation_controller.rpy:140
     old "Max"
@@ -51,4 +51,3 @@ translate spanish strings:
     # game/code/classes/renovation_controller.rpy:175
     old "Already done."
     new "Ya está hecho."
-
