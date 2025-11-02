@@ -2,23 +2,23 @@
 translate italian sm1cs_ns013i_a774ab94:
 
     # mc "Hey Stacy."
-    mc "Hey Stacy."
+    mc "Ehi Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013i.rpy:8
 translate italian sm1cs_ns013i_4acc9659:
 
     # sy "Hello there."
-    sy "Hello there."
+    sy "Ciao."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013i.rpy:12
 translate italian sm1cs_ns013i_d812cdaa:
 
     # sy "Come upstairs. It's getting late and I want to show you something."
-    sy "Come upstairs. It's getting late and I want to show you something."
+    sy "Vieni di sopra. Si sta facendo tardi e voglio mostrarti qualcosa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013i.rpy:14
 translate italian sm1cs_ns013i_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Certo."
 
