@@ -874,3 +874,9 @@ translate deutsch sm1ms025_827ba594:
     # sy "That's the plan, man."
     sy "Das ist der Plan."
 
+# game/code/scenes/main_story/sm1ms025.rpy:334
+translate deutsch sm1ms025_01a929b4:
+
+    # sy "She stole my flash drive."
+    sy "She stole my flash drive."
+

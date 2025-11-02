@@ -464,3 +464,9 @@ translate deutsch strings:
     old "Excited"
     new "Aufgeregt"
 
+# game/code/scenes/it_office/cw/sm1cs-cw003.rpy:48
+translate deutsch sm1cs_cw003_c8642c96:
+
+    # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
+    mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
+

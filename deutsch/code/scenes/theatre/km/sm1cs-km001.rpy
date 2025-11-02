@@ -530,3 +530,31 @@ translate deutsch strings:
     old "Be sneaky and go low"
     new "Be sneaky and go low"
 
+# game/code/scenes/theatre/km/sm1cs-km001.rpy:73
+translate deutsch sm1cs_km001_b55f6d50:
+
+    # mct "Why is she snooping?"
+    mct "Why is she snooping?"
+
+# game/code/scenes/theatre/km/sm1cs-km001.rpy:116
+translate deutsch sm1cs_km001_7262d936:
+
+    # km "Unless you're afraid to lose to a girl."
+    km "Unless you're afraid to lose to a girl."
+
+# game/code/scenes/theatre/km/sm1cs-km001.rpy:240
+translate deutsch sm1cs_km001_7ca99b3a:
+
+    # km "Hmmm. Not bad for an amateur."
+    km "Hmmm. Not bad for an amateur."
+
+translate deutsch strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
+    old "I'll go easy on you"
+    new "I'll go easy on you"
+
+    # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
+    old "Let's dance, Kellie"
+    new "Let's dance, Kellie"
+

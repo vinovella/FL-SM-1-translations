@@ -998,3 +998,139 @@ translate deutsch strings:
     old "No more games, period"
     new "Keine Spielchen mehr, Punkt"
 
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:34
+translate deutsch sm1cs_am005_d267eb2f:
+
+    # mct "This can't go on. I need to at least get us back on the same page."
+    mct "This can't go on. I need to at least get us back on the same page."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:37
+translate deutsch sm1cs_am005_71f06d2b:
+
+    # mc "Hey, April."
+    mc "Hey, April."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:77
+translate deutsch sm1cs_am005_hours_later_e90fce66:
+
+    # mct "Finally. That's the last ticket for my shift."
+    mct "Finally. That's the last ticket for my shift."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:86
+translate deutsch sm1cs_am005_hours_later_a896092a:
+
+    # mct "April texted me."
+    mct "April texted me."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:96
+translate deutsch sm1cs_am005_hours_later_66953d1c:
+
+    # am "Now I can talk.{w} So talk."
+    am "Now I can talk.{w} So talk."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:118
+translate deutsch sm1cs_am005_hours_later_146a1f48:
+
+    # am "I... yes.{w} I want to talk."
+    am "I... yes.{w} I want to talk."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:122
+translate deutsch sm1cs_am005_hours_later_2cbd87a6:
+
+    # am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
+    am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:155
+translate deutsch sm1cs_am005_hours_later_a275d6ef:
+
+    # mct "I should be a little patient with April.{w} She's obviously got something on her mind."
+    mct "I should be a little patient with April.{w} She's obviously got something on her mind."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:159
+translate deutsch sm1cs_am005_hours_later_a7b1f1c9:
+
+    # mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
+    mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:175
+translate deutsch sm1cs_am005_hours_later_0ff1fdb3:
+
+    # am "What do you think, idiot?{w} All of it."
+    am "What do you think, idiot?{w} All of it."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:186
+translate deutsch sm1cs_am005_sex_1_bd4a6ae6:
+
+    # am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
+    am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:198
+translate deutsch sm1cs_am005_sex_1_028c5529:
+
+    # mc "Say no more..."
+    mc "Say no more..."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:203
+translate deutsch sm1cs_am005_sex_1_bd9f2d5b:
+
+    # am "[mcname]...{w} That's not what I mean."
+    am "[mcname]...{w} That's not what I mean."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:210
+translate deutsch sm1cs_am005_sex_1_4e767ae1:
+
+    # mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
+    mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:217
+translate deutsch sm1cs_am005_sex_1_5c9540af:
+
+    # am "And I just, I don't know, I went stupid mode.{w} Basic mode."
+    am "And I just, I don't know, I went stupid mode.{w} Basic mode."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:227
+translate deutsch sm1cs_am005_sex_1_1d60ca19:
+
+    # mct "I guess she doesn't have {b}all{/b} the answers."
+    mct "I guess she doesn't have {b}all{/b} the answers."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:230
+translate deutsch sm1cs_am005_sex_1_5dc800e5:
+
+    # mc "Text me if you ever figure it out.{w} I got other-"
+    mc "Text me if you ever figure it out.{w} I got other-"
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:263
+translate deutsch sm1cs_am005_sex_1_61ca4758:
+
+    # am "I didn't want {b}our{/b} first time to be like that."
+    am "I didn't want {b}our{/b} first time to be like that."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:274
+translate deutsch sm1cs_am005_sex_1_de51fd56:
+
+    # am "Shuuuussssssh.{w} Not out here."
+    am "Shuuuussssssh.{w} Not out here."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:280
+translate deutsch sm1cs_am005_sex_1_246cc10d:
+
+    # am "I don't know.{w} Maybe after I invited you to see my band."
+    am "I don't know.{w} Maybe after I invited you to see my band."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:600
+translate deutsch sm1cs_am005_thumbsup_end_901d4d24:
+
+    # mct "Uh. Did she just really give me a thumbs up?"
+    mct "Uh. Did she just really give me a thumbs up?"
+
+translate deutsch strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
+    old "Push it"
+    new "Push it"
+
+    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
+    old "Don't push it"
+    new "Don't push it"
+

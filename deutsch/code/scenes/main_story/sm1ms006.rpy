@@ -676,3 +676,21 @@ translate deutsch sm1ms006_061f6f43:
     # sy "*giggles* Little old me? Distracting? Never."
     sy "*kichert* Ich kleine Person? Ablenkend? Niemals."
 
+# game/code/scenes/main_story/sm1ms006.rpy:180
+translate deutsch sm1ms006_e6186b8f:
+
+    # mc "I think so too. But... AmRose said something kind of interesting."
+    mc "I think so too. But... AmRose said something kind of interesting."
+
+# game/code/scenes/main_story/sm1ms006.rpy:239
+translate deutsch sm1ms006_eac16535:
+
+    # sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
+    sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
+
+# game/code/scenes/main_story/sm1ms006.rpy:453
+translate deutsch sm1ms006_ed03918c:
+
+    # sy "You going to get dressed?"
+    sy "You going to get dressed?"
+

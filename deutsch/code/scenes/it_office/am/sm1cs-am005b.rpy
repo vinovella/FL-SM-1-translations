@@ -62,3 +62,19 @@ translate deutsch strings:
     old "Nevermind."
     new "Egal."
 
+# game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
+translate deutsch sm1cs_am005b_658994d8:
+
+    # mc "Never mind."
+    mc "Never mind."
+
+translate deutsch strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
+    old "Try out things with April"
+    new "Try out things with April"
+
+    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
+    old "Never mind"
+    new "Never mind"
+

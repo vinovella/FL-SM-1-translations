@@ -190,3 +190,9 @@ translate deutsch q_inter_nr_18_636f1bcd:
     # nr "Don't ask how it's made. Just eat it."
     nr "Frag nicht, wie es gemacht wird. Iss es einfach."
 
+# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:80
+translate deutsch q_inter_nr_8_7ef23e41:
+
+    # nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
+    nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
+

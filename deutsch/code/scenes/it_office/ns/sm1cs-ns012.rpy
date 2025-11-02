@@ -1946,3 +1946,9 @@ translate deutsch strings:
     old "I want to cum in her mouth"
     new "Ich möchte in deinem Mund kommen"
 
+# game/code/scenes/it_office/ns/sm1cs-ns012.rpy:981
+translate deutsch sm1cs_ns012_after_shower_9bc32cdb:
+
+    # ns "Mhwaaah. Nothing like a hot shower after being fucked so good."
+    ns "Mhwaaah. Nothing like a hot shower after being fucked so good."
+

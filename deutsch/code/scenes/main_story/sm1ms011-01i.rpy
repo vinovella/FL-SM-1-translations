@@ -238,3 +238,15 @@ translate deutsch strings:
     old "I'll think about it"
     new "Ich werde darüber nachdenken"
 
+# game/code/scenes/main_story/sm1ms011-01i.rpy:26
+translate deutsch sm1ms011_01i_e3c7f05c:
+
+    # sy "There is an IT company in Crowning that is looking for new coders."
+    sy "There is an IT company in Crowning that is looking for new coders."
+
+# game/code/scenes/main_story/sm1ms011-01i.rpy:40
+translate deutsch sm1ms011_01i_31340d6f:
+
+    # sy "There is an IT Company called Orbix in Crowning. They're looking for a new software engineer."
+    sy "There is an IT Company called Orbix in Crowning. They're looking for a new software engineer."
+

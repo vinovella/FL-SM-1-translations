@@ -456,3 +456,9 @@ translate deutsch strings:
     old "Talk with Stacy about her job search"
     new "Talk with Stacy about her job search"
 
+translate deutsch strings:
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Let's go to the Amusement Park"
+    new "Let's go to the Amusement Park"
+

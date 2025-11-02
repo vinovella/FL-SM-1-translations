@@ -946,3 +946,9 @@ translate deutsch strings:
     old "Show no interest in Debbie"
     new "Zeige kein Interesse an Debbie."
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:505
+translate deutsch sm1cs_dc006_at_park_fb7dfd2e:
+
+    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+    dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+

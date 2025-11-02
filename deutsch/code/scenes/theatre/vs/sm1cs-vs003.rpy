@@ -1586,3 +1586,9 @@ translate deutsch strings:
     old "Yeah, let's nail this"
     new "Yeah, let's nail this"
 
+translate deutsch strings:
+
+    # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:112
+    old "Sounds good, Veronica"
+    new "Sounds good, Veronica"
+

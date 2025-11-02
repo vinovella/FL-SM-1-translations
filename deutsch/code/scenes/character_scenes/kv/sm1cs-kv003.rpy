@@ -988,3 +988,9 @@ translate deutsch sm1cs_kv003_9c5419cb:
     # mc "Ugggggh, fine."
     mc "Ach, na gut."
 
+# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:290
+translate deutsch sm1cs_kv003_51d06342:
+
+    # kv "What's the next question?"
+    kv "What's the next question?"
+

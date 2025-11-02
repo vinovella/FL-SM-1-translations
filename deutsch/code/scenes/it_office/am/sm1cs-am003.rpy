@@ -745,3 +745,147 @@ translate deutsch strings:
     old "If you teach me well, I'm sure I'll do great"
     new "Wenn du mich gut unterrichtest, werde ich bestimmt großartige Leistungen erbringen"
 
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:23
+translate deutsch sm1cs_am003_71f06d2b:
+
+    # mc "Hey, April."
+    mc "Hey, April."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:42
+translate deutsch sm1cs_am003_9f59f0f4:
+
+    # am "Humans. We have created all this technology.{w} It can do incredible things."
+    am "Humans. We have created all this technology.{w} It can do incredible things."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:99
+translate deutsch sm1cs_am003_1fd7d62e:
+
+    # am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
+    am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:111
+translate deutsch sm1cs_am003_bcf016f9:
+
+    # am "It's bullying to say someone {b}sucks{/b} at their job?"
+    am "It's bullying to say someone {b}sucks{/b} at their job?"
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:120
+translate deutsch sm1cs_am003_aee5974a:
+
+    # mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+    mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:127
+translate deutsch sm1cs_am003_b4faa8fc:
+
+    # mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
+    mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:134
+translate deutsch sm1cs_am003_ae4dcaad:
+
+    # am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
+    am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:135
+translate deutsch sm1cs_am003_67284458:
+
+    # am "But here you are..."
+    am "But here you are..."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:144
+translate deutsch sm1cs_am003_8a8d91f6:
+
+    # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
+    mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:145
+translate deutsch sm1cs_am003_b4235cd6:
+
+    # mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
+    mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:155
+translate deutsch sm1cs_am003_e9ac1b53:
+
+    # am "Against my better judgment, I'll try to give you some pointers here and there."
+    am "Against my better judgment, I'll try to give you some pointers here and there."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:176
+translate deutsch sm1cs_am003_d5d84aa0:
+
+    # am "I am not your teacher, [mcname]. That's not my job."
+    am "I am not your teacher, [mcname]. That's not my job."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:186
+translate deutsch sm1cs_am003_d6fb5843:
+
+    # am "Okay.{w} Show me what problems you're having with the website."
+    am "Okay.{w} Show me what problems you're having with the website."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:290
+translate deutsch sm1cs_am003_ef447ff8:
+
+    # mc "One dark roast coffee for the girl who roasts me every day."
+    mc "One dark roast coffee for the girl who roasts me every day."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:303
+translate deutsch sm1cs_am003_97c62095:
+
+    # mct "Ah. That hit the spot."
+    mct "Ah. That hit the spot."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:365
+translate deutsch sm1cs_am003_9403deba:
+
+    # am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
+    am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:382
+translate deutsch sm1cs_am003_2aa81bf8:
+
+    # mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
+    mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:385
+translate deutsch sm1cs_am003_1168ac9b:
+
+    # am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
+    am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:407
+translate deutsch sm1cs_am003_d5031920:
+
+    # am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
+    am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:410
+translate deutsch sm1cs_am003_80afa197:
+
+    # mc "Trying to not {b}suck{/b} all the time?"
+    mc "Trying to not {b}suck{/b} all the time?"
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:436
+translate deutsch sm1cs_am003_5bb6b0ec:
+
+    # mc "So I'm an elite-code-monkey now, right?"
+    mc "So I'm an elite-code-monkey now, right?"
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:439
+translate deutsch sm1cs_am003_d906822a:
+
+    # am "Oh yeah... A future Wozniak."
+    am "Oh yeah... A future Wozniak."
+
+# game/code/scenes/it_office/am/sm1cs-am003.rpy:484
+translate deutsch sm1cs_am003_45ccaa21:
+
+    # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
+    am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
+
+translate deutsch strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
+    old "I had to come here for work"
+    new "I had to come here for work"
+

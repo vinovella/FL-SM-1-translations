@@ -74,3 +74,15 @@ translate deutsch strings:
     old "On second thought, I have something I need to do"
     new "Wenn ich es mir recht überlege, habe ich etwas zu erledigen"
 
+# game/code/scenes/it_office/am/sm1cs-am004i.rpy:24
+translate deutsch sm1cs_am004i_e2e0bcfb:
+
+    # am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
+    am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
+
+# game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
+translate deutsch sm1cs_am004i_286029a4:
+
+    # mc "Wouldn't dream of it. See you tonight."
+    mc "Wouldn't dream of it. See you tonight."
+

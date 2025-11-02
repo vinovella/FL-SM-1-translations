@@ -818,3 +818,9 @@ translate deutsch strings:
     old "You can tell me what happened"
     new "Du kannst mir erzählen, was passiert ist"
 
+translate deutsch strings:
+
+    # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
+    old "I don't need to know"
+    new "I don't need to know"
+

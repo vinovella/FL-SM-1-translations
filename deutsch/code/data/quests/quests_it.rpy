@@ -228,3 +228,73 @@
     old "Talk with April when she is working"
     new "Sprich mit April, wenn sie arbeitet"
 
+translate deutsch strings:
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Go to the Second interview in the morning"
+    new "Go to the Second interview in the morning"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Enter Orbix during Morning for interview"
+    new "Enter Orbix during Morning for interview"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Progress 0/1 Anna's scene"
+    new "Progress 0/1 Anna's scene"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get at least {}/15 total Relationship Points with characters in Orbix"
+    new "Get at least {}/15 total Relationship Points with characters in Orbix"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get at least 15 total Relationship Points with characters in Orbix"
+    new "Get at least 15 total Relationship Points with characters in Orbix"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get 2 Relationship Points by interacting with Nari"
+    new "Get 2 Relationship Points by interacting with Nari"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get 4 Relationship Points with Nari and work 3 times at Orbix"
+    new "Get 4 Relationship Points with Nari and work 3 times at Orbix"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Advance the IT Faction storyline"
+    new "Advance the IT Faction storyline"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get 5 Relationship Points with Claire and then talk with her at her desk"
+    new "Get 5 Relationship Points with Claire and then talk with her at her desk"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get 8 Relationship Points with Claire and talk with her"
+    new "Get 8 Relationship Points with Claire and talk with her"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Talk with Claire on Friday evening"
+    new "Talk with Claire on Friday evening"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Progress Orbix's storyline"
+    new "Progress Orbix's storyline"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Find Anna in coffee shop"
+    new "Find Anna in coffee shop"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get 2 Relationship Points with April, then work at Orbix"
+    new "Get 2 Relationship Points with April, then work at Orbix"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get 4 Relationship Points with April, then work at Orbix"
+    new "Get 4 Relationship Points with April, then work at Orbix"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Find April in the park during the day"
+    new "Find April in the park during the day"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get 8 Relationship Points with April, then talk with her"
+    new "Get 8 Relationship Points with April, then talk with her"
+

@@ -106,3 +106,9 @@ translate deutsch q_inter_sr_5_031e8a5d:
     # sr "If you get a chance, you should check out A Castle of Thistles and Orchids. Real good."
     sr "Wenn du Gelegenheit hast, solltest du dir Ein Schloss aus Disteln und Orchideen ansehen. Es ist wirklich gut."
 
+# game/code/data/quick_interactions/IT_office/q-inter-sr.rpy:51
+translate deutsch q_inter_sr_4_6dd1d47e:
+
+    # sr "We've been getting bombarded with a DDoS all morning. Thank God we had April test the system when we implemented it."
+    sr "We've been getting bombarded with a DDoS all morning. Thank God we had April test the system when we implemented it."
+

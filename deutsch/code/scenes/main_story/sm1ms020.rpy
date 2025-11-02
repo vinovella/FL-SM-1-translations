@@ -1302,3 +1302,9 @@ translate deutsch strings:
     old "To no more manual labor!"
     new "Auf nie wieder Handwerksarbeit!"
 
+# game/code/scenes/main_story/sm1ms020.rpy:175
+translate deutsch sm1ms020_0046f9d0:
+
+    # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+    my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+

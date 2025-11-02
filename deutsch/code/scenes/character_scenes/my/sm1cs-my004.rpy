@@ -1734,3 +1734,9 @@ translate deutsch strings:
     old "Stacy"
     new "Stacy"
 
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:319
+translate deutsch sm1cs_my004_3de68331:
+
+    # sy "Come on, [mcname]. You have got to do better than that. How about the cut? The fit?"
+    sy "Come on, [mcname]. You have got to do better than that. How about the cut? The fit?"
+

@@ -808,3 +808,9 @@ translate deutsch sm1cs_ag003_353fb300:
     # mct "In the meantime... I wonder what the hot recluse is going to do now that he's seen Magnolia fingering herself..."
     mct "In der Zwischenzeit... Ich frage mich, was der heiße Einsiedler jetzt tun wird, nachdem er gesehen hat, wie Magnolia sich selbst befriedigt hat..."
 
+# game/code/scenes/it_office/ag/sm1cs-ag003.rpy:252
+translate deutsch sm1cs_ag003_e50bff0e:
+
+    # ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
+    ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
+

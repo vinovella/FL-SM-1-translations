@@ -1340,3 +1340,15 @@ translate deutsch strings:
     old "That was good. But now we've got a little mess to clean up."
     new "That was good. But now we've got a little mess to clean up."
 
+# game/code/scenes/theatre/km/sm1cs-km005.rpy:429
+translate deutsch sm1cs_km005_22270354:
+
+    # mc "Says the girl with hard nipples poking at her top."
+    mc "Says the girl with hard nipples poking at her top."
+
+translate deutsch strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km005.rpy:535
+    old "That was good. But now we've got a little mess to clean up"
+    new "That was good. But now we've got a little mess to clean up"
+

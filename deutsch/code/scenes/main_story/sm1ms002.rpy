@@ -242,3 +242,9 @@ translate deutsch strings:
     old "Start job in Theater"
     new "Job im Theater beginnen"
 
+# game/code/scenes/main_story/sm1ms002.rpy:59
+translate deutsch sm1ms002_4f8bfe43:
+
+    # mc "I haven't started cutting myself yet."
+    mc "I haven't started cutting myself yet."
+

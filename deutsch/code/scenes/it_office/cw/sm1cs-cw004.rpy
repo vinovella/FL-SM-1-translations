@@ -1990,3 +1990,27 @@ translate deutsch strings:
     old "Resist!"
     new "Widersteh!"
 
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:540
+translate deutsch sm1cs_cw004_later_6251a886:
+
+    # cw "How is he, Daddy?"
+    cw "How is he, Daddy?"
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:674
+translate deutsch sm1cs_cw004_first_evening_7d3aec05:
+
+    # fw "Farah please, [mcname]."
+    fw "Farah please, [mcname]."
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:900
+translate deutsch sm1cs_cw004_first_evening_19a0c527:
+
+    # cw "*whispers* Stop resisting."
+    cw "*whispers* Stop resisting."
+
+translate deutsch strings:
+
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
+    old "Sure let's do it"
+    new "Sure let's do it"
+

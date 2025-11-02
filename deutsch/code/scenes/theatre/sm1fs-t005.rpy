@@ -588,3 +588,9 @@ translate deutsch strings:
     old "Say nothing."
     new "Say nothing."
 
+translate deutsch strings:
+
+    # game/code/scenes/theatre/sm1fs-t005.rpy:97
+    old "I'm sure you did your best, Denise"
+    new "I'm sure you did your best, Denise"
+

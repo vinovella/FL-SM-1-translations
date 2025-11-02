@@ -736,3 +736,51 @@ translate deutsch strings:
     old "Reassure"
     new "Beruhigen"
 
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:106
+translate deutsch sm1cs_ag001_493be2ed:
+
+    # mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
+    mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:234
+translate deutsch sm1cs_ag001_314d6ac2:
+
+    # mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
+    mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:238
+translate deutsch sm1cs_ag001_9e2758b7:
+
+    # mct "This certainly deserves an Adults Only rating."
+    mct "This certainly deserves an Adults Only rating."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
+translate deutsch sm1cs_ag001_8601bed3:
+
+    # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
+    mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:243
+translate deutsch sm1cs_ag001_499c380f:
+
+    # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
+    mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:246
+translate deutsch sm1cs_ag001_30f8e87b:
+
+    # mc "Oh cool, they're making a movie based on the book."
+    mc "Oh cool, they're making a movie based on the book."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:398
+translate deutsch sm1cs_ag001_continue_68649b33:
+
+    # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
+    ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
+
+# game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
+translate deutsch sm1cs_ag001_continue_be0ef968:
+
+    # mct "Oh I don't think either of us would mind that, Anna."
+    mct "Oh I don't think either of us would mind that, Anna."
+

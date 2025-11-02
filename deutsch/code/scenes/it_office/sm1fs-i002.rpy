@@ -638,3 +638,9 @@ translate deutsch strings:
     old "I'd rather not say"
     new "Ich möchte lieber nichts dazu sagen"
 
+# game/code/scenes/it_office/sm1fs-i002.rpy:192
+translate deutsch sm1fs_i002_bf4b8ddd:
+
+    # cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
+    cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
+

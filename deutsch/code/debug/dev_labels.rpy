@@ -44,3 +44,9 @@
     old "Shop 71 Store"
     new "Shop 71 Geschäft"
 
+translate deutsch strings:
+
+    # game/code/debug/dev_labels.rpy:7
+    old "Play Simon Says Rehearsal"
+    new "Play Simon Says Rehearsal"
+

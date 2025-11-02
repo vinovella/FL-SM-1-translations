@@ -3248,3 +3248,9 @@ translate deutsch strings:
     old "Drink"
     new "Drink"
 
+translate deutsch strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km006.rpy:82
+    old "Sure. Just practicing"
+    new "Sure. Just practicing"
+

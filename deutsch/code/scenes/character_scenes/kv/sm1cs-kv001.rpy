@@ -510,3 +510,13 @@ translate deutsch strings:
     old "Oh, I'll give you some space."
     new "Oh, ich werde dir etwas Freiraum lassen."
 
+translate deutsch strings:
+
+    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
+    old "Sure, I'm interested in how a photoshoot like this works"
+    new "Sure, I'm interested in how a photoshoot like this works"
+
+    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
+    old "Oh, I'll give you some space"
+    new "Oh, I'll give you some space"
+

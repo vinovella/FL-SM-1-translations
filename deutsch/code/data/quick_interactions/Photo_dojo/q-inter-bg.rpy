@@ -88,3 +88,9 @@ translate deutsch q_inter_bg_6_e91d05df:
     # bg "Hey [mcname]"
     bg "Hey [mcname]"
 
+# game/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy:45
+translate deutsch q_inter_bg_4_55061da7:
+
+    # mc "How long can you wear that outfit for?"
+    mc "How long can you wear that outfit for?"
+

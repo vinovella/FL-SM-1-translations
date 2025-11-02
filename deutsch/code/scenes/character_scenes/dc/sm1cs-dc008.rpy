@@ -1030,3 +1030,9 @@ translate deutsch sm1cs_dc008_02776fbe:
     # mct "Hopefully..."
     mct "Hoffentlich..."
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:441
+translate deutsch sm1cs_dc008_b12cc4d7:
+
+    # mc "I'm grateful that you shared that part of you with me, Debbie."
+    mc "I'm grateful that you shared that part of you with me, Debbie."
+

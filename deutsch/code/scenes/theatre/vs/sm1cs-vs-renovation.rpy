@@ -698,3 +698,19 @@ translate deutsch strings:
     old "Act impressed."
     new "Act impressed."
 
+# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:93
+translate deutsch sm1cs_vs_renovation_9c0bc37a:
+
+    # mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming an actor in the group."
+    mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming an actor in the group."
+
+translate deutsch strings:
+
+    # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:47
+    old "Pretend to be scared"
+    new "Pretend to be scared"
+
+    # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:47
+    old "Act impressed"
+    new "Act impressed"
+

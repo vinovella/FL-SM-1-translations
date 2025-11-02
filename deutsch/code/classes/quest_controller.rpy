@@ -8,3 +8,9 @@
     old "You are currently watching the scene"
     new "Sie sehen gerade die Szene"
 
+translate deutsch strings:
+
+    # game/code/classes/quest_controller.rpy:218
+    old "You are currently in a scene"
+    new "You are currently in a scene"
+

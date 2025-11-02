@@ -1578,3 +1578,9 @@ translate deutsch strings:
     old "Just move on"
     new "Just move on"
 
+# game/code/scenes/theatre/sm1fs-t004.rpy:514
+translate deutsch sm1fs_t004_workshop_37885fbe:
+
+    # dvh "Veronica, Kellie. Please walk into the center of the circle."
+    dvh "Veronica, Kellie. Please walk into the center of the circle."
+

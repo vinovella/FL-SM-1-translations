@@ -1582,3 +1582,45 @@ translate deutsch strings:
     old "Focus"
     new "Fokus"
 
+# game/code/scenes/it_office/sm1fs-i005.rpy:280
+translate deutsch sm1fs_i005_b16b4e3c:
+
+    # pm "Sienna. You're DevOps.{w} Stop this."
+    pm "Sienna. You're DevOps.{w} Stop this."
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:423
+translate deutsch sm1fs_i005_849e0440:
+
+    # en "What is the problem?"
+    en "What is the problem?"
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:501
+translate deutsch sm1fs_i005_bd4c8cdb:
+
+    # ag "It's in file directory sales slash two-thousand-twenty slash Oh Bee Jay slash archive."
+    ag "It's in file directory sales slash two-thousand-twenty slash Oh Bee Jay slash archive."
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:578
+translate deutsch sm1fs_i005_330d5a55:
+
+    # sr "Oh.{w} That's Peter's."
+    sr "Oh.{w} That's Peter's."
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:609
+translate deutsch sm1fs_i005_d8a77a7d:
+
+    # cw "I mean I've {i}seen{/i} things."
+    cw "I mean I've {i}seen{/i} things."
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:751
+translate deutsch sm1fs_i005_conference_08fe18ca:
+
+    # am "And we're still making the news website."
+    am "And we're still making the news website."
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:831
+translate deutsch sm1fs_i005_conference_53902fad:
+
+    # ag "Yes. And I presume you're going for a caffeine run?"
+    ag "Yes. And I presume you're going for a caffeine run?"
+

@@ -1058,3 +1058,9 @@ translate deutsch strings:
     old "You spent $300 on renovation equipment"
     new "Du hast 300 Dollar für Renovierungsausrüstung ausgegeben"
 
+# game/code/scenes/main_story/sm1ms014.rpy:186
+translate deutsch sm1ms014_4834ec4b:
+
+    # sy "Uhm, yeah... no internet nudes of me..."
+    sy "Uhm, yeah... no internet nudes of me..."
+

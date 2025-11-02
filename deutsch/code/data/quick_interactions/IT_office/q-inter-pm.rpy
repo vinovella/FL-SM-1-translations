@@ -106,3 +106,9 @@ translate deutsch q_inter_pm_5_414611e9:
     # pm "Well, if she's any good at stocks, definitely get your tips from her. Not me."
     pm "Nun, wenn sie sich mit Aktien auskennt, dann hol dir auf jeden Fall Tipps von ihr. Nicht von mir."
 
+# game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:37
+translate deutsch q_inter_pm_3_98e57bf0:
+
+    # pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
+    pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
+
