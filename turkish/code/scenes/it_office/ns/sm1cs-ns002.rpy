@@ -818,3 +818,9 @@ translate turkish strings:
     old "You can tell me what happened"
     new "Bana ne olduğunu anlatabilirsin."
 
+translate turkish strings:
+
+    # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
+    old "I don't need to know"
+    new "I don't need to know"
+

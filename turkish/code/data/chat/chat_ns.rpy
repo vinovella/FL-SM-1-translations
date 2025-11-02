@@ -12,3 +12,9 @@
     old "See you there!"
     new "Orada görüşürüz!"
 
+translate turkish strings:
+
+    # game/code/data/chat/chat_ns.rpy:3
+    old "Hey! I have an idea. Can we meet in the cafe?"
+    new "Hey! I have an idea. Can we meet in the cafe?"
+

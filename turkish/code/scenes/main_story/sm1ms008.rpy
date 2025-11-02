@@ -886,3 +886,55 @@ translate turkish strings:
     old "I'm glad it's temporary"
     new "Geçici olmasına sevindim."
 
+# game/code/scenes/main_story/sm1ms008.rpy:140
+translate turkish sm1ms008_4b4bda9d:
+
+    # sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+    sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+
+# game/code/scenes/main_story/sm1ms008.rpy:221
+translate turkish sm1ms008_special_971cdae2:
+
+    # mc "Well, we're together now. That's the important part."
+    mc "Well, we're together now. That's the important part."
+
+# game/code/scenes/main_story/sm1ms008.rpy:380
+translate turkish sm1ms008_after_choice_c7b2de42:
+
+    # kv "Alright Stacy, why don't you give me some poses."
+    kv "Alright Stacy, why don't you give me some poses."
+
+# game/code/scenes/main_story/sm1ms008.rpy:430
+translate turkish sm1ms008_after_choice_afa6b554:
+
+    # mc "Wait, don't you have any cameras we might need, Kanya?"
+    mc "Wait, don't you have any cameras we might need, Kanya?"
+
+# game/code/scenes/main_story/sm1ms008.rpy:455
+translate turkish sm1ms008_after_choice_9090b1fc:
+
+    # sy "I'm thinking about the extra work we'll have to do to get this super camera."
+    sy "I'm thinking about the extra work we'll have to do to get this super camera."
+
+# game/code/scenes/main_story/sm1ms008.rpy:482
+translate turkish sm1ms008_after_choice_6805a231:
+
+    # sy "Haha. Good thing that's not [mcname]'s motto."
+    sy "Haha. Good thing that's not [mcname]'s motto."
+
+# game/code/scenes/main_story/sm1ms008.rpy:498
+translate turkish sm1ms008_after_choice_43fefb83:
+
+    # kv "Got it, let me give you my number."
+    kv "Got it, let me give you my number."
+
+translate turkish strings:
+
+    # game/code/scenes/main_story/sm1ms008.rpy:322
+    old "You should stick with red hair"
+    new "You should stick with red hair"
+
+    # game/code/scenes/main_story/sm1ms008.rpy:322
+    old "I think it will do nicely for the scene"
+    new "I think it will do nicely for the scene"
+

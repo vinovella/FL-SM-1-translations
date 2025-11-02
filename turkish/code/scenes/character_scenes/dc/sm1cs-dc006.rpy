@@ -952,3 +952,9 @@ translate turkish strings:
     old "Show no interest in Debbie"
     new "Debbie'ye ilgi gösterme"
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:505
+translate turkish sm1cs_dc006_at_park_fb7dfd2e:
+
+    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+    dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+

@@ -706,3 +706,53 @@ translate turkish strings:
     old "I'd rather listen to classic rock!"
     new "Klasik rock dinlemeyi tercih ederim!"
 
+# game/code/scenes/it_office/sm1fs-i004.rpy:82
+translate turkish sm1fs_i004_bfc49473:
+
+    # am "Sorry, {i}Aubergine Anna{/i}."
+    am "Sorry, {i}Aubergine Anna{/i}."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:124
+translate turkish sm1fs_i004_e997d712:
+
+    # ns "Yes, Aubergine Anna?"
+    ns "Yes, Aubergine Anna?"
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:160
+translate turkish sm1fs_i004_037241da:
+
+    # cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a news website."
+    cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a news website."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:196
+translate turkish sm1fs_i004_d0ed86ec:
+
+    # cw "Of course. We're excited to be in business with you, Angela. As soon as we have a progress update, I'll get in touch."
+    cw "Of course. We're excited to be in business with you, Angela. As soon as we have a progress update, I'll get in touch."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:298
+translate turkish sm1fs_i004_e556069d:
+
+    # cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're asleep."
+    cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're asleep."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:356
+translate turkish sm1fs_i004_058155eb:
+
+    # am "You are... You're..."
+    am "You are... You're..."
+
+translate turkish strings:
+
+    # game/code/scenes/it_office/sm1fs-i004.rpy:390
+    old "I do, I love Kikini Bill"
+    new "I do, I love Kikini Bill"
+
+    # game/code/scenes/it_office/sm1fs-i004.rpy:390
+    old "Uh, yep! Totally"
+    new "Uh, yep! Totally"
+
+    # game/code/scenes/it_office/sm1fs-i004.rpy:390
+    old "I don't mind some... Punk rock"
+    new "I don't mind some... Punk rock"
+

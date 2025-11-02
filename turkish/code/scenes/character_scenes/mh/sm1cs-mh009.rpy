@@ -2408,3 +2408,9 @@ translate turkish strings:
     old "Be dominant"
     new "Be dominant"
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:425
+translate turkish sm1cs_mh009_d79e591d:
+
+    # mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
+    mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
+

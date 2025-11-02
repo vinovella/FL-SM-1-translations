@@ -1808,3 +1808,9 @@ translate turkish sm1cs_vs005_continue_a297c2d2:
     # mct "Then I should get back to work."
     mct "Then I should get back to work."
 
+# game/code/scenes/theatre/vs/sm1cs-vs005.rpy:384
+translate turkish sm1cs_vs005_70c5755c:
+
+    # vs "It's embarrassing, but when the alarm went off...{w} I kind of panicked."
+    vs "It's embarrassing, but when the alarm went off...{w} I kind of panicked."
+

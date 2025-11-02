@@ -1058,3 +1058,9 @@ translate turkish strings:
     old "You spent $300 on renovation equipment"
     new "Yenileme ekipmanlarına 300 dolar harcadınız."
 
+# game/code/scenes/main_story/sm1ms014.rpy:186
+translate turkish sm1ms014_4834ec4b:
+
+    # sy "Uhm, yeah... no internet nudes of me..."
+    sy "Uhm, yeah... no internet nudes of me..."
+

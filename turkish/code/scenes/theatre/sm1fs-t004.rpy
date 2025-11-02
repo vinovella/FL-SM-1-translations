@@ -1578,3 +1578,9 @@ translate turkish strings:
     old "Just move on"
     new "Sadece devam et"
 
+# game/code/scenes/theatre/sm1fs-t004.rpy:514
+translate turkish sm1fs_t004_workshop_37885fbe:
+
+    # dvh "Veronica, Kellie. Please walk into the center of the circle."
+    dvh "Veronica, Kellie. Please walk into the center of the circle."
+

@@ -988,3 +988,9 @@ translate turkish sm1cs_kv003_9c5419cb:
     # mc "Ugggggh, fine."
     mc "Ugggggh, tamam."
 
+# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:290
+translate turkish sm1cs_kv003_51d06342:
+
+    # kv "What's the next question?"
+    kv "What's the next question?"
+

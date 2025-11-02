@@ -1628,3 +1628,27 @@ translate turkish sm1cs_km004_stage_79692656:
     # vs "What's Montague? It is nor hand nor foot."
     vs "What's Montague? It is nor hand nor foot."
 
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:206
+translate turkish sm1cs_km004_6fdfaeb6:
+
+    # tl "To see if this is a bannable offense, you uncivilized ogre."
+    tl "To see if this is a bannable offense, you uncivilized ogre."
+
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:666
+translate turkish sm1cs_km004_stage_c13052d4:
+
+    # vs "What's in a name? That which we call a rose."
+    vs "What's in a name? That which we call a rose."
+
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:681
+translate turkish sm1cs_km004_stage_4661a3df:
+
+    # dvh "Exquisite, Veronica."
+    dvh "Exquisite, Veronica."
+
+translate turkish strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
+    old "Yeah, it's exciting"
+    new "Yeah, it's exciting"
+

@@ -190,3 +190,9 @@ translate turkish q_inter_nr_18_636f1bcd:
     # nr "Don't ask how it's made. Just eat it."
     nr "Nasıl yapıldığını sorma. Sadece ye."
 
+# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:80
+translate turkish q_inter_nr_8_7ef23e41:
+
+    # nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
+    nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
+

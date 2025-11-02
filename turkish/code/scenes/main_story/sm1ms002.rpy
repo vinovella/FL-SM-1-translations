@@ -242,3 +242,9 @@ translate turkish strings:
     old "Start job in Theater"
     new "Tiyatroda işe başla"
 
+# game/code/scenes/main_story/sm1ms002.rpy:59
+translate turkish sm1ms002_4f8bfe43:
+
+    # mc "I haven't started cutting myself yet."
+    mc "I haven't started cutting myself yet."
+

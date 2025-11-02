@@ -1412,3 +1412,15 @@ translate turkish strings:
     old "You gave $100 to Taisia for the shoot"
     new "Taisia'ya çekim için 100 dolar verdin"
 
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:211
+translate turkish sm1cs_tl003_in_street_76592468:
+
+    # tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
+    tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
+
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:698
+translate turkish sm1cs_tl003_sex_end_b82ee33e:
+
+    # tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
+    tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
+

@@ -124,3 +124,9 @@ translate turkish q_inter_jh_5_11809067:
     # mc "Which ones?"
     mc "Hangileri?"
 
+# game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:71
+translate turkish q_inter_jh_5_527d1655:
+
+    # jh "A Castle of Thistles and Orchids. Anna turned me on to them."
+    jh "A Castle of Thistles and Orchids. Anna turned me on to them."
+

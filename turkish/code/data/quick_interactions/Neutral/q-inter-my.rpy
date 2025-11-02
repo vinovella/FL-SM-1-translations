@@ -280,3 +280,9 @@ translate turkish q_inter_my_10_ccd0c639:
     # my "I'm looking forward to going again."
     my "Tekrar gitmeyi dört gözle bekliyorum."
 
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:54
+translate turkish q_inter_my_4_1b9be8cf:
+
+    # my "He wants 4 walls in the gallery... and then the other artists want-"
+    my "He wants 4 walls in the gallery... and then the other artists want-"
+

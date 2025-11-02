@@ -760,3 +760,15 @@ translate turkish q_inter_am_28_1c1031d5:
     # am "I think you're drinking too much Liquid Bull."
     am "Sanırım fazla Liquid Bull içiyorsun."
 
+# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:222
+translate turkish q_inter_am_15_f4735917:
+
+    # mc "I thought I could make it more efficient."
+    mc "I thought I could make it more efficient."
+
+# game/code/data/quick_interactions/IT_office/q-inter-am.rpy:330
+translate turkish q_inter_am_21_5ceda4d0:
+
+    # am "Uh... never mind. It might be awkward. And you'd just be sitting there."
+    am "Uh... never mind. It might be awkward. And you'd just be sitting there."
+

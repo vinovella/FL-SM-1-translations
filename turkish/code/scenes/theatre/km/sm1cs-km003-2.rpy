@@ -656,3 +656,9 @@ translate turkish strings:
     old "There must be a special form."
     new "Özel bir form olmalı."
 
+translate turkish strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30
+    old "There must be a special form"
+    new "There must be a special form"
+

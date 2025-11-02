@@ -664,3 +664,21 @@ translate turkish sm1ms017_end_298609cd:
     # my "Your focus is very impressive for some millennials."
     my "Bazı milenyum kuşağı için odaklanmanız oldukça etkileyici."
 
+# game/code/scenes/main_story/sm1ms017.rpy:379
+translate turkish sm1ms017_317bedb5:
+
+    # mc "What will we do if Melony comes back?"
+    mc "What will we do if Melony comes back?"
+
+# game/code/scenes/main_story/sm1ms017.rpy:415
+translate turkish sm1ms017_869ad7f6:
+
+    # mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
+    mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
+
+# game/code/scenes/main_story/sm1ms017.rpy:451
+translate turkish sm1ms017_f46b669d_1:
+
+    # mc "*chuckles*"
+    mc "*chuckles*"
+

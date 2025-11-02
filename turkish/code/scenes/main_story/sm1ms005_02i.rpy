@@ -66,3 +66,9 @@ translate turkish strings:
     old "Love Making"
     new "Sevişmek"
 
+# game/code/scenes/main_story/sm1ms005_02i.rpy:43
+translate turkish sm1ms005_02i_5ddbcfce:
+
+    # sy "Alright. Let's do it."
+    sy "Alright. Let's do it."
+

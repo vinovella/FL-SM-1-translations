@@ -2398,3 +2398,21 @@ translate turkish sm1mv02s05_movie_start_f1a7c292:
     # mc "Track in on signal. Got some technology here, doesn't look hostile."
     mc "Track in on signal. Got some technology here, doesn't look hostile."
 
+# game/code/scenes/movies/movie02/sm1mv02s05.rpy:297
+translate turkish sm1mv02s05_46f309b4:
+
+    # ns "Every mountain you come across, you conquer."
+    ns "Every mountain you come across, you conquer."
+
+# game/code/scenes/movies/movie02/sm1mv02s05.rpy:401
+translate turkish sm1mv02s05_b132ad51:
+
+    # ns "It's a little cold. And the bristles tickle my nipples."
+    ns "It's a little cold. And the bristles tickle my nipples."
+
+# game/code/scenes/movies/movie02/sm1mv02s05.rpy:513
+translate turkish sm1mv02s05_710d2cab:
+
+    # sy "They won't look perfect up close, but from a distance, it will look like our ship is a fully crewed vessel."
+    sy "They won't look perfect up close, but from a distance, it will look like our ship is a fully crewed vessel."
+

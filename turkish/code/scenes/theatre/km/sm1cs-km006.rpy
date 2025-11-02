@@ -3248,3 +3248,9 @@ translate turkish strings:
     old "Drink"
     new "İçecek"
 
+translate turkish strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km006.rpy:82
+    old "Sure. Just practicing"
+    new "Sure. Just practicing"
+

@@ -46,3 +46,9 @@ translate turkish strings:
     old "Test Screen"
     new "Test Screen"
 
+translate turkish strings:
+
+    # game/code/debug/dev_labels.rpy:7
+    old "Play Simon Says Rehearsal"
+    new "Play Simon Says Rehearsal"
+

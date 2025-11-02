@@ -106,3 +106,9 @@ translate turkish strings:
     old "Sci-Fi movie"
     new "Sci-Fi movie"
 
+translate turkish strings:
+
+    # game/code/data/quests/line_list_quests.rpy:5
+    old "Kellie's story"
+    new "Kellie's story"
+

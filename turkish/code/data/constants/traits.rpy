@@ -304,3 +304,9 @@
     old "Extreme"
     new "Aşırı"
 
+translate turkish strings:
+
+    # game/code/data/constants/traits.rpy:82
+    old "Nipple Piercings"
+    new "Nipple Piercings"
+

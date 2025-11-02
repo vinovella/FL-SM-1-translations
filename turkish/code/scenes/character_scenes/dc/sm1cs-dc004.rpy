@@ -76,3 +76,9 @@ translate turkish sm1cs_dc004_404eabfc:
     # mct "I guess all I can do is try and talk to her later..."
     mct "Sanırım yapabileceğim tek şey onunla daha sonra konuşmaya çalışmak..."
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:25
+translate turkish sm1cs_dc004_768b2899:
+
+    # mc "But I wanted to ask you something. The other day, at coffee, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+    mc "But I wanted to ask you something. The other day, at coffee, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+

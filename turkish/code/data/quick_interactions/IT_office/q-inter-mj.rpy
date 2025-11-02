@@ -83,3 +83,15 @@ translate turkish q_inter_mj_4_fe961654:
     # mj "Drats. I was hoping you would..."
     mj "Tüh. Bileceğini ummuştum..."
 
+# game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:16
+translate turkish q_inter_mj_1_e906923a:
+
+    # mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
+    mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:40
+translate turkish q_inter_mj_3_eadd033a:
+
+    # mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
+    mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
+

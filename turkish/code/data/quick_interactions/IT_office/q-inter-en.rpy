@@ -112,3 +112,9 @@ translate turkish q_inter_en_5_f6cd2d50:
     # en "Yes. It means people listen."
     en "Evet. İnsanlar dinliyor demektir."
 
+# game/code/data/quick_interactions/IT_office/q-inter-en.rpy:57
+translate turkish q_inter_en_5_882773aa:
+
+    # mc "How's your morning going, Eugene?"
+    mc "How's your morning going, Eugene?"
+
