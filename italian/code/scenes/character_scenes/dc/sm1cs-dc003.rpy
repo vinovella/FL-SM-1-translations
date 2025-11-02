@@ -476,7 +476,7 @@ translate italian sm1cs_dc003_9b634821:
 translate italian sm1cs_dc003_e79eb663:
 
     # dc "Thank you, [mcname]."
-    dc "Thank you, [mcname]."
+    dc "Grazie, [mcname]."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:234
 translate italian sm1cs_dc003_0490663d:
