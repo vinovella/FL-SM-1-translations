@@ -1502,37 +1502,37 @@ translate italian strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:98
     old "After the lunch rush"
-    new "After the lunch rush"
+    new "Dopo la corsa del pranzo"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:125
     old "You know a smile wouldn't kill you"
-    new "You know a smile wouldn't kill you"
+    new "Sai che un sorriso non ti ucciderebbe"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:125
     old "Something on your mind?"
-    new "Something on your mind?"
+    new "Qualcosa che ti preoccupa?"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:340
     old "I thought you were serious for a second"
-    new "I thought you were serious for a second"
+    new "Per un attimo ho pensato fossi seria"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:340
     old "You have a cleaner?"
-    new "You have a cleaner?"
+    new "Hai una donna delle pulizie?"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:422
     old "Didn't sound like you were joking"
-    new "Didn't sound like you were joking"
+    new "Non sembrava stessi scherzando"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:422
     old "I thought you were"
-    new "I thought you were"
+    new "Pensavo lo fossi"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:505
     old "Guide her head gently"
-    new "Guide her head gently"
+    new "Guida dolcemente la sua testa"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:505
     old "Let her lead"
-    new "Let her lead"
+    new "Lascia che guidi lei"
 
