@@ -200,3 +200,25 @@
     old "Talk with Veronica in the afternoon"
     new "Talk with Veronica in the afternoon"
 
+translate french strings:
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have ${}/$50"
+    new "Have ${}/$50"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have $50"
+    new "Have $50"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Text Taisia from your phone"
+    new "Text Taisia from your phone"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Finish texting Taisia"
+    new "Finish texting Taisia"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Go to Theater to meet Taisia"
+    new "Go to Theater to meet Taisia"
+

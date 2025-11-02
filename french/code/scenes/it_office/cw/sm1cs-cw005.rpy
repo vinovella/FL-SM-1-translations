@@ -2576,3 +2576,9 @@ translate french strings:
     old "It was actually a lot of fun"
     new "It was actually a lot of fun"
 
+# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1013
+translate french sm1cs_cw005_sauna_menu_a0ab7e8b:
+
+    # mct "And her body keeps shaking whenever my nose brushes her clit."
+    mct "And her body keeps shaking whenever my nose brushes her clit."
+

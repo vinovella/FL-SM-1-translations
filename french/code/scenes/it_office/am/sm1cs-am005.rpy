@@ -1118,3 +1118,9 @@ translate french strings:
     old "No more games, period"
     new "No more games, period"
 
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:122
+translate french sm1cs_am005_hours_later_2cbd87a6:
+
+    # am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
+    am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
+

@@ -688,3 +688,9 @@ translate french sm1cs_dvh002_41e938d6:
     # mct "Maybe a shower would do me some good."
     mct "Maybe a shower would do me some good."
 
+# game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:79
+translate french sm1cs_dvh002_82f35545:
+
+    # "*phone buzzing*"
+    "*phone buzzing*"
+

@@ -592,3 +592,57 @@ translate french sm1ms021_3829caaa:
     # sy "For the dream! Hehehe!"
     sy "For the dream! Hehehe!"
 
+# game/code/scenes/main_story/sm1ms021.rpy:92
+translate french sm1ms021_ceba888b:
+
+    # sy "This space... it's not just a studio anymore. It's starting to feel like our dream is finally taking shape."
+    sy "This space... it's not just a studio anymore. It's starting to feel like our dream is finally taking shape."
+
+# game/code/scenes/main_story/sm1ms021.rpy:107
+translate french sm1ms021_cedf59a8:
+
+    # sy "Same here. I mean, you're the one who kept me sane through all of this."
+    sy "Same here. I mean, you're the one who kept me sane through all of this."
+
+# game/code/scenes/main_story/sm1ms021.rpy:217
+translate french sm1ms021_532bc35f:
+
+    # sy "I guess so long as the check clears, I'm not complaining."
+    sy "I guess so long as the check clears, I'm not complaining."
+
+# game/code/scenes/main_story/sm1ms021.rpy:218
+translate french sm1ms021_2aa31d72:
+
+    # sy "And now that we've got the extra power and space in the studio, this film is going to be even better than the first one."
+    sy "And now that we've got the extra power and space in the studio, this film is going to be even better than the first one."
+
+# game/code/scenes/main_story/sm1ms021.rpy:222
+translate french sm1ms021_3a6cba59:
+
+    # mct "She's got a point. This is the kind of project that could put us on the map if we nail it."
+    mct "She's got a point. This is the kind of project that could put us on the map if we nail it."
+
+# game/code/scenes/main_story/sm1ms021.rpy:226
+translate french sm1ms021_d5128873:
+
+    # mc "Alright, let's start brainstorming then."
+    mc "Alright, let's start brainstorming then."
+
+# game/code/scenes/main_story/sm1ms021.rpy:232
+translate french sm1ms021_1b494305:
+
+    # sy "Hold on there, Spielberg. We can't just jump in without a solid plan and, more importantly, without money."
+    sy "Hold on there, Spielberg. We can't just jump in without a solid plan and, more importantly, without money."
+
+# game/code/scenes/main_story/sm1ms021.rpy:282
+translate french sm1ms021_67f7648d:
+
+    # mc "Alright, let's map this out. First, we secure the funding. Then, we finalize the concept for the scene."
+    mc "Alright, let's map this out. First, we secure the funding. Then, we finalize the concept for the scene."
+
+# game/code/scenes/main_story/sm1ms021.rpy:312
+translate french sm1ms021_bd60b7b9:
+
+    # mc "Let's do this. For the studio and for the dream."
+    mc "Let's do this. For the studio and for the dream."
+

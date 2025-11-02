@@ -200,3 +200,21 @@
     old "Nelson Rohr"
     new "Nelson Rohr"
 
+translate french strings:
+
+    # game/code/data/characters/names.rpy:80
+    old "Zemfira"
+    new "Zemfira"
+
+    # game/code/data/characters/names.rpy:81
+    old "Eliina"
+    new "Eliina"
+
+    # game/code/data/characters/names.rpy:82
+    old "Daisy"
+    new "Daisy"
+
+    # game/code/data/characters/names.rpy:83
+    old "Doug"
+    new "Doug"
+

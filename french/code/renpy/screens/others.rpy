@@ -28,3 +28,17 @@
     old "How do you want to name your save?"
     new "How do you want to name your save?"
 
+translate french strings:
+
+    # game/code/renpy/screens/others.rpy:13
+    old "Sync your saves using Ren'Py Sync Server"
+    new "Sync your saves using Ren'Py Sync Server"
+
+    # game/code/renpy/screens/others.rpy:139
+    old "Please enter your Local IP number:"
+    new "Please enter your Local IP number:"
+
+    # game/code/renpy/screens/others.rpy:142
+    old "Please enter your HTTP Port number:"
+    new "Please enter your HTTP Port number:"
+
