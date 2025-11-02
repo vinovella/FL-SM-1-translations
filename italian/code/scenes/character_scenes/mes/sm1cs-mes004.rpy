@@ -1016,41 +1016,41 @@ translate italian strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:52
     old "Not foolish"
-    new "Not foolish"
+    new "Non sciocco"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:52
     old "Crazy, but I love it"
-    new "Crazy, but I love it"
+    new "Pazzo, ma lo adoro"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:114
     old "I didn't think you were into shots"
-    new "I didn't think you were into shots"
+    new "Non pensavo ti piacessero gli shots"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:114
     old "Let's do it!"
-    new "Let's do it!"
+    new "Facciamolo!"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:171
     old "You want more of that poison?"
-    new "You want more of that poison?"
+    new "Vuoi ancora di quel veleno?"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:171
     old "Got it"
-    new "Got it"
+    new "Capito"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:266
     old "It's not polite to kiss and tell"
-    new "It's not polite to kiss and tell"
+    new "Non è educato baciare e raccontare"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:266
     old "You go first"
-    new "You go first"
+    new "Vai tu prima"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:453
     old "Love it"
-    new "Love it"
+    new "Lo adoro"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:453
     old "I could live without it"
-    new "I could live without it"
+    new "Potrei vivere senza"
 
