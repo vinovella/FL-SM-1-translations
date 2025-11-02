@@ -2,61 +2,61 @@
 translate italian sm1ms008_01i_a11a021b:
 
     # sy "Good news, [mcname]. The red wig came in today."
-    sy "Good news, [mcname]. The red wig came in today."
+    sy "Buone notizie, [mcname]. La parrucca rossa è arrivata oggi."
 
 # game/code/scenes/main_story/sm1ms008_01i.rpy:8
 translate italian sm1ms008_01i_70fa374e:
 
     # mc "Already? That's awesome."
-    mc "Already? That's awesome."
+    mc "Già? È fantastico."
 
 # game/code/scenes/main_story/sm1ms008_01i.rpy:12
 translate italian sm1ms008_01i_f9d01db1:
 
     # sy "Yup, we're one step closer to making our first scene."
-    sy "Yup, we're one step closer to making our first scene."
+    sy "Sì, siamo un passo più vicini alla realizzazione della nostra prima scena."
 
 # game/code/scenes/main_story/sm1ms008_01i.rpy:14
 translate italian sm1ms008_01i_884e143c:
 
     # mc "Mmhmm. I'll have to figure out a time to go talk to Kanya about the scene."
-    mc "Mmhmm. I'll have to figure out a time to go talk to Kanya about the scene."
+    mc "Mmhmm. Dovrò trovare il tempo per andare a parlare con Kanya della scena."
 
 # game/code/scenes/main_story/sm1ms008_01i.rpy:18
 translate italian sm1ms008_01i_2656e2c9:
 
     # sy "Yay. {w}Oh! We should both go. I still haven't met Kanya yet."
-    sy "Yay. {w}Oh! We should both go. I still haven't met Kanya yet."
+    sy "Evviva. {w}Oh! Dovremmo andarci entrambi. Non ho ancora incontrato Kanya."
 
 # game/code/scenes/main_story/sm1ms008_01i.rpy:22
 translate italian sm1ms008_01i_559a0224:
 
     # sy "Wait, does watching her have sex with you count as meeting her?"
-    sy "Wait, does watching her have sex with you count as meeting her?"
+    sy "Aspetta, guardarla fare sesso con te conta come incontrarla?"
 
 # game/code/scenes/main_story/sm1ms008_01i.rpy:26
 translate italian sm1ms008_01i_1fe5fc2b:
 
     # mc "I don't think so."
-    mc "I don't think so."
+    mc "Non credo."
 
 # game/code/scenes/main_story/sm1ms008_01i.rpy:28
 translate italian sm1ms008_01i_82e62d58:
 
     # sy "*giggles* I wonder what she would think if she found out I watched you two banging."
-    sy "*giggles* I wonder what she would think if she found out I watched you two banging."
+    sy "*ridacchia* Mi chiedo cosa penserebbe se scoprisse che vi ho guardati mentre scopavate."
 
 # game/code/scenes/main_story/sm1ms008_01i.rpy:32
 translate italian sm1ms008_01i_6f21a741:
 
     # mc "Haha. Maybe you can bring up the subject one day. But we should keep this first meeting professional."
-    mc "Haha. Maybe you can bring up the subject one day. But we should keep this first meeting professional."
+    mc "Haha. Magari potrai affrontare l'argomento un giorno. Ma dovremmo mantenere questo primo incontro professionale."
 
 # game/code/scenes/main_story/sm1ms008_01i.rpy:34
 translate italian sm1ms008_01i_4adaa30f:
 
     # sy "That's me! Miss Professional."
-    sy "That's me! Miss Professional."
+    sy "Questa sono io! Signorina Professionale."
 
 # game/code/scenes/main_story/sm1ms008_01i.rpy:35
 translate italian sm1ms008_01i_faa03e1a:
