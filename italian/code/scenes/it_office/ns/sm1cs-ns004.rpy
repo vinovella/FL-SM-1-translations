@@ -955,22 +955,22 @@ translate italian sm1cs_ns004_end_talk_61dc3026:
 translate italian strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:206
+    old "Talk about naughty stuff with Nari"
     new "Parla di cose maliziose con Nari"
-    new "Talk about naughty stuff with Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:206
+    old "Ask Nari what is wrong"
     new "Chiedi a Nari cosa c'è che non va"
-    new "Ask Nari what is wrong"
 
     # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:251
+    old "It's one of my favorite fetishes"
     new "È uno dei miei fetish preferiti"
-    new "It's one of my favorite fetishes"
 
     # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:251
+    old "I kind of like it"
     new "Mi piace un po'"
-    new "I kind of like it"
 
     # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:251
+    old "I'm not really into it"
     new "Non sono davvero interessato"
-    new "I'm not really into it"
 

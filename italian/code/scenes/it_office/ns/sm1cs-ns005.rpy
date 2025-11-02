@@ -1147,14 +1147,14 @@ translate italian sm1cs_ns005_after_cum_a2b4c501:
 translate italian strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:74
+    old "Work Focus"
     new "Focus sul lavoro"
-    new "Work Focus"
 
     # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:445
+    old "Cum on her face"
     new "Vieni sulla sua faccia"
-    new "Cum on her face"
 
     # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:445
+    old "Cum in Nari's mouth"
     new "Vieni nella bocca di Nari"
-    new "Cum in Nari's mouth"
 

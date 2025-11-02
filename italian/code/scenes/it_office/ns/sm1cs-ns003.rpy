@@ -1057,26 +1057,26 @@ translate italian sm1cs_ns003_3b7471c7:
 translate italian strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:109
+    old "No more than me"
     new "Non più di me"
-    new "No more than me"
 
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:109
+    old "We all need to blow off steam now and again"
     new "Abbiamo tutti bisogno di sfogarci di tanto in tanto"
-    new "We all need to blow off steam now and again"
 
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:268
+    old "I don't think so"
     new "Non credo"
-    new "I don't think so"
 
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:334
+    old "Tease her"
     new "Stuzzicala"
-    new "Tease her"
 
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:386
+    old "Bored"
     new "Annoiato"
-    new "Bored"
 
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:386
+    old "Confused"
     new "Confuso"
-    new "Confused"
 
