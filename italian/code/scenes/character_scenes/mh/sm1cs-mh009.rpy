@@ -2414,3 +2414,25 @@ translate italian strings:
     old "Sii dominante"
     new "Sii dominante"
 
+translate italian strings:
+
+    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:330
+    old "Please enter a name for Lyssa during roleplay"
+    new "Please enter a name for Lyssa during roleplay"
+
+    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:469
+    old "I'm a fan!"
+    new "I'm a fan!"
+
+    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:469
+    old "Watersports isn't really my thing"
+    new "Watersports isn't really my thing"
+
+    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:920
+    old "Be playful"
+    new "Be playful"
+
+    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:920
+    old "Be dominant"
+    new "Be dominant"
+

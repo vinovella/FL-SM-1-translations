@@ -3650,3 +3650,73 @@ translate italian strings:
     old "Chiedi a Stacy e Min di pisciarti addosso"
     new "Chiedi a Stacy e Min di pisciarti addosso"
 
+translate italian strings:
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:68
+    old "Game Time"
+    new "Game Time"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:191
+    old "I enjoy hearing it"
+    new "I enjoy hearing it"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:191
+    old "Don't tease her"
+    new "Don't tease her"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:239
+    old "Keep doing watersports"
+    new "Keep doing watersports"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:239
+    old "Stop doing watersports"
+    new "Stop doing watersports"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:272
+    old "A little more"
+    new "A little more"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:272
+    old "Stop her now"
+    new "Stop her now"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:435
+    old "Let Stacy be the Medusa"
+    new "Let Stacy be the Medusa"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:435
+    old "Forbid Stacy from being the Medusa"
+    new "Forbid Stacy from being the Medusa"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:488
+    old "Twenty minutes later"
+    new "Twenty minutes later"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:563
+    old "Try to win on your own"
+    new "Try to win on your own"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:563
+    old "Target Stacy"
+    new "Target Stacy"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:813
+    old "I'm okay if you call me 'daddy'"
+    new "I'm okay if you call me 'daddy'"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:813
+    old "I'm not going to manipulate you, Min"
+    new "I'm not going to manipulate you, Min"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:876
+    old "Yup"
+    new "Yup"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:876
+    old "Some don't even wear dresses"
+    new "Some don't even wear dresses"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1486
+    old "Ask Stacy and Min to piss on you"
+    new "Ask Stacy and Min to piss on you"
+

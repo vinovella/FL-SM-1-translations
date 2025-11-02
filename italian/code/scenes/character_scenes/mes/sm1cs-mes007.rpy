@@ -1264,3 +1264,69 @@ translate italian strings:
     old "Pochi minuti dopo"
     new "Pochi minuti dopo"
 
+translate italian strings:
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:64
+    old "Over at Min's house"
+    new "Over at Min's house"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:194
+    old "What if I demand to stay"
+    new "What if I demand to stay"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:194
+    old "As you wish"
+    new "As you wish"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:263
+    old "Lines of demar-what?"
+    new "Lines of demar-what?"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:263
+    old "I'm excited to see what you come up with"
+    new "I'm excited to see what you come up with"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:339
+    old "Three hours later"
+    new "Three hours later"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:402
+    old "Red"
+    new "Red"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:402
+    old "Black"
+    new "Black"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:402
+    old "Pink"
+    new "Pink"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:402
+    old "I don't need one"
+    new "I don't need one"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:508
+    old "Like I have a choice?"
+    new "Like I have a choice?"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:508
+    old "Knock yourself out"
+    new "Knock yourself out"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:643
+    old "Cum inside"
+    new "Cum inside"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:643
+    old "Cum down her throat"
+    new "Cum down her throat"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:643
+    old "Cum on her face and boobs"
+    new "Cum on her face and boobs"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:777
+    old "A few minutes later"
+    new "A few minutes later"
+

@@ -2716,3 +2716,101 @@ translate italian strings:
     old "Vorrei farti altre cose"
     new "Vorrei farti altre cose"
 
+translate italian strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:57
+    old "Five minutes later"
+    new "Five minutes later"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
+    old "You'll figure it out"
+    new "You'll figure it out"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
+    old "Surprised it's taking you this long"
+    new "Surprised it's taking you this long"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
+    old "I have heard of the general concept"
+    new "I have heard of the general concept"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
+    old "Pretty good. I pretty much walk or jog everywhere"
+    new "Pretty good. I pretty much walk or jog everywhere"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
+    old "You're sweet"
+    new "You're sweet"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
+    old "I'm confused"
+    new "I'm confused"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
+    old "Maybe just don't eat so much"
+    new "Maybe just don't eat so much"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:362
+    old "I am so sorry"
+    new "I am so sorry"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:362
+    old "I regret nothing"
+    new "I regret nothing"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:513
+    old "I need a glass of milk"
+    new "I need a glass of milk"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:513
+    old "I was born ready"
+    new "I was born ready"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:513
+    old "Shouldn't you stretch first?"
+    new "Shouldn't you stretch first?"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:513
+    old "Why don't you wear more stuff like that?"
+    new "Why don't you wear more stuff like that?"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:578
+    old "Too late"
+    new "Too late"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:622
+    old "An hour later"
+    new "An hour later"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:705
+    old "One hour of torture later"
+    new "One hour of torture later"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:811
+    old "You're between a rock and a hard place"
+    new "You're between a rock and a hard place"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:811
+    old "I don't know what to say"
+    new "I don't know what to say"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:863
+    old "Do you have some sixth sense?"
+    new "Do you have some sixth sense?"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:863
+    old "Oh. I get it"
+    new "Oh. I get it"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:986
+    old "So long as I can lick yours"
+    new "So long as I can lick yours"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:986
+    old "I'd prefer to just lick yours"
+    new "I'd prefer to just lick yours"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:986
+    old "I'd like to do other things to you"
+    new "I'd like to do other things to you"
+
