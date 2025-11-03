@@ -596,13 +596,13 @@ translate italian sm1ms010_arj_sex_2d5332ac:
 translate italian sm1ms010_arj_sex_d3f95ea4:
 
     # arj "I can't be mad at you, and still want you?"
-    arj "I can't be mad at you, and still want you?"
+    arj "Non posso essere arrabbiata con te e desiderarti ancora?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:396
 translate italian sm1ms010_arj_sex_cd141ef5:
 
     # mc "Haha. You're full of it."
-    mc "Haha. You're full of it."
+    mc "Haha. Sei incredibile."
 
 # game/code/scenes/main_story/sm1ms010.rpy:400
 translate italian sm1ms010_arj_sex_d2bfd910:
@@ -614,7 +614,7 @@ translate italian sm1ms010_arj_sex_d2bfd910:
 translate italian sm1ms010_arj_sex_c222d3b3:
 
     # mc "Then again, you do make a {i}persuasive{/i} argument, AmRose."
-    mc "Then again, you do make a {i}persuasive{/i} argument, AmRose."
+    mc "D'altra parte, fai un argomento molto {i}persuasivo{/i}, AmRose."
 
 # game/code/scenes/main_story/sm1ms010.rpy:408
 translate italian sm1ms010_arj_sex_43c7d834:
@@ -632,19 +632,19 @@ translate italian sm1ms010_arj_sex_ce766102:
 translate italian sm1ms010_arj_sex_3884f43e:
 
     # arj "Let me."
-    arj "Let me."
+    arj "Lasciami fare."
 
 # game/code/scenes/main_story/sm1ms010.rpy:427
 translate italian sm1ms010_arj_sex_394ecb5a:
 
     # arj "*softly sighing*"
-    arj "*softly sighing*"
+    arj "*sospirando dolcemente*"
 
 # game/code/scenes/main_story/sm1ms010.rpy:428
 translate italian sm1ms010_arj_sex_36168088:
 
     # arj "Still so big..."
-    arj "Still so big..."
+    arj "Ancora così grande..."
 
 # game/code/scenes/main_story/sm1ms010.rpy:435
 translate italian sm1ms010_arj_sex_43de6e64:
@@ -656,31 +656,31 @@ translate italian sm1ms010_arj_sex_43de6e64:
 translate italian sm1ms010_arj_sex_c410727d:
 
     # mct "It's been weeks, but she's gobbling up my cock like a dog with a bone."
-    mct "It's been weeks, but she's gobbling up my cock like a dog with a bone."
+    mct "Sono passate settimane, ma sta divorando il mio cazzo come un cane con un osso."
 
 # game/code/scenes/main_story/sm1ms010.rpy:439
 translate italian sm1ms010_arj_sex_baf88295:
 
     # arj "*wet slurping*"
-    arj "*wet slurping*"
+    arj "*succhia bagnato*"
 
 # game/code/scenes/main_story/sm1ms010.rpy:442
 translate italian sm1ms010_arj_sex_099dc340:
 
     # mct "Fuck. Stacy is great at sucking cock and using her tongue."
-    mct "Fuck. Stacy is great at sucking cock and using her tongue."
+    mct "Cazzo. Stacy è bravissima a succhiare il cazzo e usare la lingua."
 
 # game/code/scenes/main_story/sm1ms010.rpy:443
 translate italian sm1ms010_arj_sex_9000c630:
 
     # mct "But AmRose really likes to get in there."
-    mct "But AmRose really likes to get in there."
+    mct "Ma ad AmRose piace davvero impegnarsi."
 
 # game/code/scenes/main_story/sm1ms010.rpy:448
 translate italian sm1ms010_arj_sex_3b1b809c:
 
     # arj "*panting*"
-    arj "*panting*"
+    arj "*ansimando*"
 
 # game/code/scenes/main_story/sm1ms010.rpy:449
 translate italian sm1ms010_arj_sex_7a31a612:
@@ -692,7 +692,7 @@ translate italian sm1ms010_arj_sex_7a31a612:
 translate italian sm1ms010_arj_sex_2d53be0f:
 
     # arj "God I've fucking missed feeling you inside me, [mcname]."
-    arj "God I've fucking missed feeling you inside me, [mcname]."
+    arj "Dio, mi è maledettamente mancato sentirti dentro di me, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:466
 translate italian sm1ms010_arj_sex_8dfd9af9:
@@ -704,19 +704,19 @@ translate italian sm1ms010_arj_sex_8dfd9af9:
 translate italian sm1ms010_arj_sex_02ecd425:
 
     # arj "What do you want me to do next?"
-    arj "What do you want me to do next?"
+    arj "Cosa vuoi che faccia dopo?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:472
 translate italian sm1ms010_arj_sex_48507732:
 
     # mc "I want to see all of you. It's been too long for me, too."
-    mc "I want to see all of you. It's been too long for me, too."
+    mc "Voglio vederti tutta. È passato troppo tempo anche per me."
 
 # game/code/scenes/main_story/sm1ms010.rpy:477
 translate italian sm1ms010_arj_sex_58a7f175:
 
     # arj "*giggles* Good answer."
-    arj "*giggles* Good answer."
+    arj "*ridacchia* Buona risposta."
 
 # game/code/scenes/main_story/sm1ms010.rpy:480
 translate italian sm1ms010_arj_sex_e526a903:
@@ -728,49 +728,49 @@ translate italian sm1ms010_arj_sex_e526a903:
 translate italian sm1ms010_arj_footfetish_7d086807:
 
     # arj "Let me touch you with my toes."
-    arj "Let me touch you with my toes."
+    arj "Lascia che ti tocchi con le mie dita dei piedi."
 
 # game/code/scenes/main_story/sm1ms010.rpy:505
 translate italian sm1ms010_arj_footfetish_027245ba:
 
     # arj "*breathing softly*"
-    arj "*breathing softly*"
+    arj "*respira dolcemente*"
 
 # game/code/scenes/main_story/sm1ms010.rpy:507
 translate italian sm1ms010_arj_footfetish_d9ed97cc:
 
     # arj "Do you like it?"
-    arj "Do you like it?"
+    arj "Ti piace?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:509
 translate italian sm1ms010_arj_footfetish_d0a1cfdc:
 
     # mc "Is that a serious question?"
-    mc "Is that a serious question?"
+    mc "È una domanda seria?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:510
 translate italian sm1ms010_arj_footfetish_9ea884df:
 
     # mc "When it's you, AmRose, I always love it."
-    mc "When it's you, AmRose, I always love it."
+    mc "Quando sei tu, AmRose, mi piace sempre."
 
 # game/code/scenes/main_story/sm1ms010.rpy:513
 translate italian sm1ms010_arj_footfetish_01412395:
 
     # arj "Mrrrmm... you're getting so warm."
-    arj "Mrrrmm... you're getting so warm."
+    arj "Mrrrmm... stai diventando così caldo."
 
 # game/code/scenes/main_story/sm1ms010.rpy:523
 translate italian sm1ms010_arj_footfetish_3b1b809c:
 
     # arj "*panting*"
-    arj "*panting*"
+    arj "*ansimando*"
 
 # game/code/scenes/main_story/sm1ms010.rpy:524
 translate italian sm1ms010_arj_footfetish_e7b2c7ec:
 
     # arj "That's it. Ooze out your precum on my little piggies."
-    arj "That's it. Ooze out your precum on my little piggies."
+    arj "Ecco. Fai uscire il tuo precum sulle mie ditine."
 
 # game/code/scenes/main_story/sm1ms010.rpy:526
 translate italian sm1ms010_arj_footfetish_faa03e1a:
@@ -782,7 +782,7 @@ translate italian sm1ms010_arj_footfetish_faa03e1a:
 translate italian sm1ms010_arj_footfetish_5c07512d:
 
     # mc "No thanks."
-    mc "No thanks."
+    mc "No grazie."
 
 # game/code/scenes/main_story/sm1ms010.rpy:538
 translate italian sm1ms010_arj_footfetish_91d554e2:
@@ -794,97 +794,97 @@ translate italian sm1ms010_arj_footfetish_91d554e2:
 translate italian sm1ms010_after_footfetish_79de7289:
 
     # mc "Come here."
-    mc "Come here."
+    mc "Vieni qui."
 
 # game/code/scenes/main_story/sm1ms010.rpy:550
 translate italian sm1ms010_after_footfetish_3b4bf17b:
 
     # mc "Fuck. I guess I've been wanting this just as bad as you."
-    mc "Fuck. I guess I've been wanting this just as bad as you."
+    mc "Cazzo. Immagino di aver desiderato questo tanto quanto te."
 
 # game/code/scenes/main_story/sm1ms010.rpy:554
 translate italian sm1ms010_after_footfetish_19060d9b:
 
     # arj "Mmrmm. Keep going. Keep touching me all over."
-    arj "Mmrmm. Keep going. Keep touching me all over."
+    arj "Mmrmm. Continua. Continua a toccarmi dappertutto."
 
 # game/code/scenes/main_story/sm1ms010.rpy:564
 translate italian sm1ms010_after_footfetish_7557cd44:
 
     # arj "Come on. Give it to me, [mcname]."
-    arj "Come on. Give it to me, [mcname]."
+    arj "Dai. Dammelo, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:568
 translate italian sm1ms010_after_footfetish_0a93e1c1:
 
     # arj "Oh god!"
-    arj "Oh god!"
+    arj "Oh dio!"
 
 # game/code/scenes/main_story/sm1ms010.rpy:576
 translate italian sm1ms010_after_footfetish_ddee7cc4:
 
     # arj "Yes. YES!"
-    arj "Yes. YES!"
+    arj "Sì. SÌ!"
 
 # game/code/scenes/main_story/sm1ms010.rpy:581
 translate italian sm1ms010_after_footfetish_87319fb4:
 
     # arj "Did... did your cock miss my pussy?"
-    arj "Did... did your cock miss my pussy?"
+    arj "Ti... ti è mancata la mia figa?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:582
 translate italian sm1ms010_after_footfetish_7a00ef4e:
 
     # mc "You tell me."
-    mc "You tell me."
+    mc "Dimmelo tu."
 
 # game/code/scenes/main_story/sm1ms010.rpy:585
 translate italian sm1ms010_after_footfetish_3d672c13:
 
     # arj "*moaning*"
-    arj "*moaning*"
+    arj "*gemendo*"
 
 # game/code/scenes/main_story/sm1ms010.rpy:586
 translate italian sm1ms010_after_footfetish_95cf8ed2:
 
     # arj "Come on. I know you want to go harder."
-    arj "Come on. I know you want to go harder."
+    arj "Dai. So che vuoi andare più forte."
 
 # game/code/scenes/main_story/sm1ms010.rpy:589
 translate italian sm1ms010_after_footfetish_bacf5950:
 
     # mc "It's gripping me so tight, I can barely pull out."
-    mc "It's gripping me so tight, I can barely pull out."
+    mc "Mi stringe così forte che riesco a malapena a sfilarmi."
 
 # game/code/scenes/main_story/sm1ms010.rpy:594
 translate italian sm1ms010_after_footfetish_f77ca3e6:
 
     # arj "Do whatever you want, [mcname]."
-    arj "Do whatever you want, [mcname]."
+    arj "Fai quello che vuoi, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:595
 translate italian sm1ms010_after_footfetish_914f9ac9:
 
     # arj "I just want to keep feeling you against me."
-    arj "I just want to keep feeling you against me."
+    arj "Voglio solo continuare a sentirti contro di me."
 
 # game/code/scenes/main_story/sm1ms010.rpy:604
 translate italian sm1ms010_after_footfetish_238b7a2f:
 
     # mc "My fucking naughty sextoy."
-    mc "My fucking naughty sextoy."
+    mc "Il mio maledetto giocattolo sessuale birichino."
 
 # game/code/scenes/main_story/sm1ms010.rpy:607
 translate italian sm1ms010_after_footfetish_274679b4:
 
     # arj "Yes, [mcname]."
-    arj "Yes, [mcname]."
+    arj "Sì, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:611
 translate italian sm1ms010_after_footfetish_a6957ce1:
 
     # arj "Your sextoy needs to cum."
-    arj "Your sextoy needs to cum."
+    arj "Il tuo giocattolo sessuale ha bisogno di venire."
 
 # game/code/scenes/main_story/sm1ms010.rpy:616
 translate italian sm1ms010_after_footfetish_b8a9c3e5:
@@ -896,67 +896,67 @@ translate italian sm1ms010_after_footfetish_b8a9c3e5:
 translate italian sm1ms010_after_footfetish_0c561244:
 
     # mc "Easy now. You'll make the neighbors jealous."
-    mc "Easy now. You'll make the neighbors jealous."
+    mc "Piano ora. Farai ingelosire i vicini."
 
 # game/code/scenes/main_story/sm1ms010.rpy:621
 translate italian sm1ms010_after_footfetish_a21a4b45:
 
     # arj "I'm sorry... Master."
-    arj "I'm sorry... Master."
+    arj "Mi dispiace... Padrone."
 
 # game/code/scenes/main_story/sm1ms010.rpy:622
 translate italian sm1ms010_after_footfetish_9b1d731a:
 
     # mct "Oh fuck me. She always knows just how to get me racing for the hills."
-    mct "Oh fuck me. She always knows just how to get me racing for the hills."
+    mct "Oh cazzo. Sa sempre come farmi perdere la testa."
 
 # game/code/scenes/main_story/sm1ms010.rpy:627
 translate italian sm1ms010_after_footfetish_7830cce5:
 
     # arj "*frantic moaning*"
-    arj "*frantic moaning*"
+    arj "*gemiti frenetici*"
 
 # game/code/scenes/main_story/sm1ms010.rpy:628
 translate italian sm1ms010_after_footfetish_143de1b0:
 
     # arj "Yes... *moans* Keep filling up... huaah... my perfect little pussy."
-    arj "Yes... *moans* Keep filling up... huaah... my perfect little pussy."
+    arj "Sì... *geme* Continua a riempire... huaah... la mia perfetta fighetta."
 
 # game/code/scenes/main_story/sm1ms010.rpy:630
 translate italian sm1ms010_after_footfetish_81867449:
 
     # arj "All it wants... is you... Your cock."
-    arj "All it wants... is you... Your cock."
+    arj "Tutto ciò che vuole... sei tu... Il tuo cazzo."
 
 # game/code/scenes/main_story/sm1ms010.rpy:631
 translate italian sm1ms010_after_footfetish_7a3bba3d:
 
     # arj "I... fraaah... I love it when you use me, [mcname]."
-    arj "I... fraaah... I love it when you use me, [mcname]."
+    arj "Io... fraaah... adoro quando mi usi, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:641
 translate italian sm1ms010_after_footfetish_b0e936a5:
 
     # arj "Oh god."
-    arj "Oh god."
+    arj "Oh dio."
 
 # game/code/scenes/main_story/sm1ms010.rpy:644
 translate italian sm1ms010_after_footfetish_7e6f50b1:
 
     # arj "Make me...{w} Make me cum-huaaah-fruaaah!"
-    arj "Make me...{w} Make me cum-huaaah-fruaaah!"
+    arj "Fammi...{w} Fammi venire-huaaah-fruaaah!"
 
 # game/code/scenes/main_story/sm1ms010.rpy:647
 translate italian sm1ms010_after_footfetish_53966e78:
 
     # arj "*moaning passionately*"
-    arj "*moaning passionately*"
+    arj "*gemendo appassionatamente*"
 
 # game/code/scenes/main_story/sm1ms010.rpy:658
 translate italian sm1ms010_after_footfetish_6d20c585:
 
     # mc "Fuck, I'm cumming too."
-    mc "Fuck, I'm cumming too."
+    mc "Cazzo, sto venendo anch'io."
 
 # game/code/scenes/main_story/sm1ms010.rpy:659
 translate italian sm1ms010_after_footfetish_ec6ab1d2:
@@ -980,7 +980,7 @@ translate italian sm1ms010_after_footfetish_588c57fb:
 translate italian sm1ms010_after_footfetish_e0021703:
 
     # mc "Huah... just... just like old times."
-    mc "Huah... just... just like old times."
+    mc "Huah... proprio... come ai vecchi tempi."
 
 # game/code/scenes/main_story/sm1ms010.rpy:679
 translate italian sm1ms010_after_footfetish_13b18e35:
@@ -992,67 +992,67 @@ translate italian sm1ms010_after_footfetish_13b18e35:
 translate italian sm1ms010_after_footfetish_ca30f2cd:
 
     # arj "I should get cleaned up."
-    arj "I should get cleaned up."
+    arj "Dovrei pulirmi."
 
 # game/code/scenes/main_story/sm1ms010.rpy:690
 translate italian sm1ms010_after_footfetish_0b3f0410:
 
     # mct "Well, she's definitely in a better mood than the coffee shop."
-    mct "Well, she's definitely in a better mood than the coffee shop."
+    mct "Beh, è decisamente di umore migliore rispetto al caffè."
 
 # game/code/scenes/main_story/sm1ms010.rpy:693
 translate italian sm1ms010_after_footfetish_3e2e2daf:
 
     # mct "Maybe we'll finally have all the pieces of the three amigos back together sometime soon."
-    mct "Maybe we'll finally have all the pieces of the three amigos back together sometime soon."
+    mct "Forse avremo finalmente tutti e tre gli amigos di nuovo insieme presto."
 
 # game/code/scenes/main_story/sm1ms010.rpy:697
 translate italian sm1ms010_after_footfetish_e3a6afd9:
 
     # mct "Damn. Good thing AmRose is already out. I gotta drain the sea monster."
-    mct "Damn. Good thing AmRose is already out. I gotta drain the sea monster."
+    mct "Cavolo. Meno male che AmRose è già uscita. Devo svuotare il mostro marino."
 
 # game/code/scenes/main_story/sm1ms010.rpy:706
 translate italian sm1ms010_after_footfetish_cfecdbfd:
 
     # arj "(Forgive me, [mcname].)"
-    arj "(Forgive me, [mcname].)"
+    arj "(Perdonami, [mcname].)"
 
 # game/code/scenes/main_story/sm1ms010.rpy:718
 translate italian sm1ms010_arj_searching_cb4aea7e:
 
     # arj "(I'm in. Thank god that Stacy left a post-it note with her password on it.)"
-    arj "(I'm in. Thank god that Stacy left a post-it note with her password on it.)"
+    arj "(Sono dentro. Grazie a Dio che Stacy ha lasciato un post-it con la sua password.)"
 
 # game/code/scenes/main_story/sm1ms010.rpy:721
 translate italian sm1ms010_arj_searching_90902234:
 
     # arj "(Come on, it must be here somewhere. {w}Is there an AmRose folder?)"
-    arj "(Come on, it must be here somewhere. {w}Is there an AmRose folder?)"
+    arj "(Forza, deve essere qui da qualche parte. {w}C'è una cartella AmRose?)"
 
 # game/code/scenes/main_story/sm1ms010.rpy:722
 translate italian sm1ms010_arj_searching_0f18f387:
 
     # arj "(Nope. Shit.)"
-    arj "(Nope. Shit.)"
+    arj "(No. Merda.)"
 
 # game/code/scenes/main_story/sm1ms010.rpy:726
 translate italian sm1ms010_arj_searching_a5ae8ae9:
 
     # arj "(It's not here.)"
-    arj "(It's not here.)"
+    arj "(Non c'è qui.)"
 
 # game/code/scenes/main_story/sm1ms010.rpy:727
 translate italian sm1ms010_arj_searching_e9c600a2:
 
     # arj "(Maybe Stacy is telling the truth. I want to be able to trust her again.)"
-    arj "(Maybe Stacy is telling the truth. I want to be able to trust her again.)"
+    arj "(Forse Stacy sta dicendo la verità. Voglio potermi fidare di nuovo di lei.)"
 
 # game/code/scenes/main_story/sm1ms010.rpy:729
 translate italian sm1ms010_arj_searching_e21fbc7e:
 
     # arj "(NO. It's got to be somewhere, she is just being extra sneaky about it.)"
-    arj "(NO. It's got to be somewhere, she is just being extra sneaky about it.)"
+    arj "(NO. Deve essere da qualche parte, sta solo essendo extra furba.)"
 
 # game/code/scenes/main_story/sm1ms010.rpy:733
 translate italian sm1ms010_arj_searching_e9545dfd:
@@ -1064,55 +1064,55 @@ translate italian sm1ms010_arj_searching_e9545dfd:
 translate italian sm1ms010_arj_searching_c84cd199:
 
     # mc "Hey. Did I see you-"
-    mc "Hey. Did I see you-"
+    mc "Hey. Ti ho vista-"
 
 # game/code/scenes/main_story/sm1ms010.rpy:742
 translate italian sm1ms010_arj_searching_682c2874:
 
     # arj "What?"
-    arj "What?"
+    arj "Cosa?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:743
 translate italian sm1ms010_arj_searching_658994d8:
 
     # mc "Never mind."
-    mc "Never mind."
+    mc "Niente."
 
 # game/code/scenes/main_story/sm1ms010.rpy:746
 translate italian sm1ms010_arj_searching_179565b3:
 
     # arj "Shoot. I should get going."
-    arj "Shoot. I should get going."
+    arj "Cavolo. Dovrei andare."
 
 # game/code/scenes/main_story/sm1ms010.rpy:749
 translate italian sm1ms010_arj_searching_86bcc222:
 
     # mc "Is everything alright?"
-    mc "Is everything alright?"
+    mc "Va tutto bene?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:753
 translate italian sm1ms010_arj_searching_8b0411c9:
 
     # arj "Sure. I mean. No problem. I... I need to go."
-    arj "Sure. I mean. No problem. I... I need to go."
+    arj "Certo. Cioè. Nessun problema. Io... devo andare."
 
 # game/code/scenes/main_story/sm1ms010.rpy:760
 translate italian sm1ms010_arj_searching_b3dc77bc:
 
     # arj "I mean, I don't want to get into things with Stacy."
-    arj "I mean, I don't want to get into things with Stacy."
+    arj "Cioè, non voglio mettermi in mezzo con Stacy."
 
 # game/code/scenes/main_story/sm1ms010.rpy:763
 translate italian sm1ms010_arj_searching_de30cb47:
 
     # arj "And I have work to do."
-    arj "And I have work to do."
+    arj "E ho del lavoro da fare."
 
 # game/code/scenes/main_story/sm1ms010.rpy:767
 translate italian sm1ms010_arj_searching_991251f4:
 
     # arj "Just... uh."
-    arj "Just... uh."
+    arj "Solo... uh."
 
 # game/code/scenes/main_story/sm1ms010.rpy:768
 translate italian sm1ms010_arj_searching_2b35b6fe:
@@ -1124,77 +1124,77 @@ translate italian sm1ms010_arj_searching_2b35b6fe:
 translate italian sm1ms010_arj_searching_81a9fc3b:
 
     # arj "Just make sure you take care of yourself, [mcname]."
-    arj "Just make sure you take care of yourself, [mcname]."
+    arj "Assicurati solo di prenderti cura di te, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:776
 translate italian sm1ms010_arj_searching_43433154:
 
     # mct "Alright that was a little weird."
-    mct "Alright that was a little weird."
+    mct "Ok, è stato un po' strano."
 
 # game/code/scenes/main_story/sm1ms010.rpy:779
 translate italian sm1ms010_arj_searching_f9b854fd:
 
     # mct "After what happened, I figured she would want to hang out a bit more, but I guess not."
-    mct "After what happened, I figured she would want to hang out a bit more, but I guess not."
+    mct "Dopo quello che è successo, pensavo che volesse restare un po' di più, ma immagino di no."
 
 # game/code/scenes/main_story/sm1ms010.rpy:780
 translate italian sm1ms010_arj_searching_62619afa:
 
     # mct "But like she said, she still has coursework to handle. I'll call her tomorrow, see how she is doing."
-    mct "But like she said, she still has coursework to handle. I'll call her tomorrow, see how she is doing."
+    mct "Ma come ha detto, ha ancora dei compiti da fare. La chiamerò domani, vedrò come sta."
 
 # game/code/scenes/main_story/sm1ms010.rpy:784
 translate italian sm1ms010_arj_searching_3f51a326:
 
     # sy "I'm back."
-    sy "I'm back."
+    sy "Sono tornata."
 
 # game/code/scenes/main_story/sm1ms010.rpy:787
 translate italian sm1ms010_arj_searching_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "Ehi."
 
 # game/code/scenes/main_story/sm1ms010.rpy:790
 translate italian sm1ms010_arj_searching_cba8e2cf:
 
     # sy "Something wrong?"
-    sy "Something wrong?"
+    sy "Qualcosa che non va?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:793
 translate italian sm1ms010_arj_searching_a9b7e7be:
 
     # mc "Nah, just another day in paradise."
-    mc "Nah, just another day in paradise."
+    mc "Nah, solo un altro giorno in paradiso."
 
 translate italian strings:
 
     # game/code/scenes/main_story/sm1ms010.rpy:106
     old "Is this more pretend, or real?"
-    new "Is this more pretend, or real?"
+    new "Stiamo fingendo di più, o è reale?"
 
     # game/code/scenes/main_story/sm1ms010.rpy:106
     old "Yeah, me too"
-    new "Yeah, me too"
+    new "Sì, anche io"
 
     # game/code/scenes/main_story/sm1ms010.rpy:189
     old "Do you really want to know?"
-    new "Do you really want to know?"
+    new "Vuoi davvero saperlo?"
 
     # game/code/scenes/main_story/sm1ms010.rpy:189
     old "She's doing fine"
-    new "She's doing fine"
+    new "Sta bene"
 
     # game/code/scenes/main_story/sm1ms010.rpy:338
     old "Kiss her again and continue"
-    new "Kiss her again and continue"
+    new "Baciala di nuovo e continua"
 
     # game/code/scenes/main_story/sm1ms010.rpy:338
     old "Stop things from going further"
-    new "Stop things from going further"
+    new "Ferma le cose prima che vadano oltre"
 
     # game/code/scenes/main_story/sm1ms010.rpy:492
     old "No thanks (Lock off Foot Fetish Content)"
-    new "No thanks (Lock off Foot Fetish Content)"
+    new "No grazie (Blocca contenuti Foot Fetish)"
 
