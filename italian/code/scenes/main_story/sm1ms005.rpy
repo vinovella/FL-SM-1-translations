@@ -2,229 +2,229 @@
 translate italian sm1ms005_55c98361:
 
     # mc "Oooo! Is that the extra butter popcorn?"
-    mc "Oooo! Is that the extra butter popcorn?"
+    mc "Oooo! Sono quelli al popcorn con burro extra?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:64
 translate italian sm1ms005_b2d3cdaf:
 
     # sy "Who do you think I am? Of course it is."
-    sy "Who do you think I am? Of course it is."
+    sy "Per chi mi prendi? Certo che lo sono."
 
 # game/code/scenes/main_story/sm1ms005.rpy:71
 translate italian sm1ms005_46d88c2b:
 
     # sy "You better share."
-    sy "You better share."
+    sy "Faresti meglio a condividere."
 
 # game/code/scenes/main_story/sm1ms005.rpy:73
 translate italian sm1ms005_5c78a956:
 
     # mc "I make no promises."
-    mc "I make no promises."
+    mc "Non faccio promesse."
 
 # game/code/scenes/main_story/sm1ms005.rpy:76
 translate italian sm1ms005_9444a934:
 
     # mc "So what movie have you picked out for us?"
-    mc "So what movie have you picked out for us?"
+    mc "Allora che film hai scelto per noi?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:78
 translate italian sm1ms005_41fb58da:
 
     # sy "I was actually going to let you decide tonight. I picked out two; one is a romantic comedy, the other one is a horror."
-    sy "I was actually going to let you decide tonight. I picked out two; one is a romantic comedy, the other one is a horror."
+    sy "In realtà stasera ti lascerò decidere. Ne ho scelti due; uno è una commedia romantica, l'altro è un horror."
 
 # game/code/scenes/main_story/sm1ms005.rpy:86
 translate italian sm1ms005_2ba6afa7:
 
     # mc "Horror is good with me."
-    mc "Horror is good with me."
+    mc "L'horror va bene per me."
 
 # game/code/scenes/main_story/sm1ms005.rpy:88
 translate italian sm1ms005_f9ab2454:
 
     # sy "Hell yes! I was hoping you'd say that."
-    sy "Hell yes! I was hoping you'd say that."
+    sy "Cavolo sì! Speravo che lo dicessi."
 
 # game/code/scenes/main_story/sm1ms005.rpy:94
 translate italian sm1ms005_8592081f:
 
     # mc "I actually wouldn't mind a rom-com right now."
-    mc "I actually wouldn't mind a rom-com right now."
+    mc "In realtà non mi dispiacerebbe una commedia romantica adesso."
 
 # game/code/scenes/main_story/sm1ms005.rpy:96
 translate italian sm1ms005_5108e0ea:
 
     # sy "Fine, ya' nerd."
-    sy "Fine, ya' nerd."
+    sy "Va bene, nerd."
 
 # game/code/scenes/main_story/sm1ms005.rpy:101
 translate italian sm1ms005_268374e1:
 
     # sy "But I'm mostly just excited that we get to spend some time together."
-    sy "But I'm mostly just excited that we get to spend some time together."
+    sy "Ma sono principalmente emozionata di poter passare un po' di tempo insieme."
 
 # game/code/scenes/main_story/sm1ms005.rpy:103
 translate italian sm1ms005_ac627ec0:
 
     # mc "I didn't realize you were such a softie, Stacy."
-    mc "I didn't realize you were such a softie, Stacy."
+    mc "Non mi ero reso conto che fossi così tenera, Stacy."
 
 # game/code/scenes/main_story/sm1ms005.rpy:107
 translate italian sm1ms005_1084362b:
 
     # sy "If you tell anyone, I swear to God..."
-    sy "If you tell anyone, I swear to God..."
+    sy "Se lo dici a qualcuno, giuro su Dio..."
 
 # game/code/scenes/main_story/sm1ms005.rpy:109
 translate italian sm1ms005_ee834a55:
 
     # mc "I won't! I promise. Your secret is safe with me."
-    mc "I won't! I promise. Your secret is safe with me."
+    mc "Non lo farò! Lo prometto. Il tuo segreto è al sicuro con me."
 
 # game/code/scenes/main_story/sm1ms005.rpy:113
 translate italian sm1ms005_fd0fe580:
 
     # sy "What can I say? A girl has needs."
-    sy "What can I say? A girl has needs."
+    sy "Cosa posso dire? Una ragazza ha bisogni."
 
 # game/code/scenes/main_story/sm1ms005.rpy:115
 translate italian sm1ms005_3a039deb:
 
     # mc "All right, so what is the {i}name{/i} of this movie?"
-    mc "All right, so what is the {i}name{/i} of this movie?"
+    mc "Va bene, allora qual è il {i}titolo{/i} di questo film?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:122
 translate italian sm1ms005_c145b378:
 
     # sy "It's called DVD 2000. It's about this group of kids who pirate a bunch of short films, and after watching them in a specific order they die."
-    sy "It's called DVD 2000. It's about this group of kids who pirate a bunch of short films, and after watching them in a specific order they die."
+    sy "Si chiama DVD 2000. Parla di un gruppo di ragazzi che piratano un mucchio di cortometraggi, e dopo averli guardati in un ordine specifico muoiono."
 
 # game/code/scenes/main_story/sm1ms005.rpy:124
 translate italian sm1ms005_656cf3fd:
 
     # mc "Wow, that is so believable."
-    mc "Wow, that is so believable."
+    mc "Wow, è così credibile."
 
 # game/code/scenes/main_story/sm1ms005.rpy:126
 translate italian sm1ms005_2bc7d044:
 
     # sy "You've chosen, 'Actually, Love', which is about eight strangers all finding love during the holidays."
-    sy "You've chosen, 'Actually, Love', which is about eight strangers all finding love during the holidays."
+    sy "Hai scelto, 'Actually, Love', che parla di otto sconosciuti che trovano tutti l'amore durante le vacanze."
 
 # game/code/scenes/main_story/sm1ms005.rpy:128
 translate italian sm1ms005_0a43b28d:
 
     # mc "Now that is my speed right now. Something feel good."
-    mc "Now that is my speed right now. Something feel good."
+    mc "Ora questo è il mio ritmo in questo momento. Qualcosa che fa sentire bene."
 
 # game/code/scenes/main_story/sm1ms005.rpy:132
 translate italian sm1ms005_0ed56b73:
 
     # sy "Tell me how work has been going."
-    sy "Tell me how work has been going."
+    sy "Dimmi come sta andando il lavoro."
 
 # game/code/scenes/main_story/sm1ms005.rpy:134
 translate italian sm1ms005_6ff41185:
 
     # mc "Nope."
-    mc "Nope."
+    mc "No."
 
 # game/code/scenes/main_story/sm1ms005.rpy:137
 translate italian sm1ms005_3ff6db1b:
 
     # sy "Nope? What do you mean, nope?"
-    sy "Nope? What do you mean, nope?"
+    sy "No? Cosa intendi, no?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:139
 translate italian sm1ms005_7bd0736c:
 
     # mc "Tonight is about spending time with you, and helping you with your needs."
-    mc "Tonight is about spending time with you, and helping you with your needs."
+    mc "Stasera è per passare del tempo con te e aiutarti con i tuoi bisogni."
 
 # game/code/scenes/main_story/sm1ms005.rpy:142
 translate italian sm1ms005_d0b6e54c:
 
     # sy "Uh huh, sure."
-    sy "Uh huh, sure."
+    sy "Uh huh, certo."
 
 # game/code/scenes/main_story/sm1ms005.rpy:144
 translate italian sm1ms005_84e5d717:
 
     # mc "Shhh! It's starting."
-    mc "Shhh! It's starting."
+    mc "Shhh! Sta iniziando."
 
 # game/code/scenes/main_story/sm1ms005.rpy:168
 translate italian sm1ms005_later_e9127120:
 
     # mc "Huh, that was pretty good."
-    mc "Huh, that was pretty good."
+    mc "Huh, è stato abbastanza buono."
 
 # game/code/scenes/main_story/sm1ms005.rpy:171
 translate italian sm1ms005_later_07de6034:
 
     # sy "Hell yeah it was! That was fucking great!"
-    sy "Hell yeah it was! That was fucking great!"
+    sy "Cavolo sì che lo era! È stato fottutamente fantastico!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:174
 translate italian sm1ms005_later_76771f09:
 
     # sy "I mean... It was fine. If you're into that kind of thing."
-    sy "I mean... It was fine. If you're into that kind of thing."
+    sy "Voglio dire... Era accettabile. Se ti piace quel genere di cose."
 
 # game/code/scenes/main_story/sm1ms005.rpy:176
 translate italian sm1ms005_later_da6ac8d0:
 
     # mc "I know you liked it, at least a little bit."
-    mc "I know you liked it, at least a little bit."
+    mc "So che ti è piaciuto, almeno un pochino."
 
 # game/code/scenes/main_story/sm1ms005.rpy:177
 translate italian sm1ms005_later_c804a58b:
 
     # sy "Shut it."
-    sy "Shut it."
+    sy "Zitto."
 
 # game/code/scenes/main_story/sm1ms005.rpy:180
 translate italian sm1ms005_later_b4d8818d:
 
     # sy "Thanks for doing this with me."
-    sy "Thanks for doing this with me."
+    sy "Grazie per averlo fatto con me."
 
 # game/code/scenes/main_story/sm1ms005.rpy:182
 translate italian sm1ms005_later_569a20c7:
 
     # mc "Anytime, seriously. You know I've always got time for you."
-    mc "Anytime, seriously. You know I've always got time for you."
+    mc "Sempre, seriamente. Sai che ho sempre tempo per te."
 
 # game/code/scenes/main_story/sm1ms005.rpy:185
 translate italian sm1ms005_later_8f12f29a:
 
     # mc "Especially if it's to help meet your needs."
-    mc "Especially if it's to help meet your needs."
+    mc "Soprattutto se è per aiutarti a soddisfare i tuoi bisogni."
 
 # game/code/scenes/main_story/sm1ms005.rpy:187
 translate italian sm1ms005_later_d1c62c26:
 
     # sy "Oh really? Because I've got another need I think you can help with."
-    sy "Oh really? Because I've got another need I think you can help with."
+    sy "Oh davvero? Perché ho un altro bisogno con cui penso tu possa aiutarmi."
 
 # game/code/scenes/main_story/sm1ms005.rpy:188
 translate italian sm1ms005_later_755764db:
 
     # sy "Quit smirking and lay down on the bed."
-    sy "Quit smirking and lay down on the bed."
+    sy "Smettila di sorridere e sdraiati sul letto."
 
 # game/code/scenes/main_story/sm1ms005.rpy:193
 translate italian sm1ms005_later_2ec8acc0:
 
     # mc "Whatever you say, sis!"
-    mc "Whatever you say, sis!"
+    mc "Qualunque cosa tu dica, sorellina!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:195
 translate italian sm1ms005_later_b67e8ea2:
 
     # mc "Whatever you say, Stacy!"
-    mc "Whatever you say, Stacy!"
+    mc "Qualunque cosa tu dica, Stacy!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:206
 translate italian sm1ms005_sy_sex_bf33bf37:
