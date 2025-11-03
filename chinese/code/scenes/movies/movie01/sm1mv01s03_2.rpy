@@ -1124,7 +1124,7 @@ translate chinese sm1mv01s03_2_404fc85c:
 translate chinese sm1mv01s03_2_9f811376:
 
     # tl "Aye aye, Captain Dickhard."
-    tl "遵命，硬男迪克船长。
+    tl "遵命，硬男迪克船长。"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:616
 translate chinese sm1mv01s03_2_66b5f03e:
