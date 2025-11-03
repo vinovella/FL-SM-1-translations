@@ -1706,7 +1706,7 @@ translate deutsch sm1mv01s08_movie_end_a226abec:
 translate deutsch sm1mv01s08_movie_end_0ed51928:
 
     # mc "Stacy, why are you still covered in spit?"
-    mc "Stacy, warum bist du immer noch voller Spucke?"
+    mc "Stacy, warum bist du immer noch voller Sperma?"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:865
 translate deutsch sm1mv01s08_movie_end_9582f785:
