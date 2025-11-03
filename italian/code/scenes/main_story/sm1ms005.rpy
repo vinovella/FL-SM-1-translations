@@ -230,175 +230,175 @@ translate italian sm1ms005_later_b67e8ea2:
 translate italian sm1ms005_sy_sex_bf33bf37:
 
     # mc "Wow, you got naked fast."
-    mc "Wow, you got naked fast."
+    mc "Wow, ti sei spogliata velocemente."
 
 # game/code/scenes/main_story/sm1ms005.rpy:208
 translate italian sm1ms005_sy_sex_9ed76411:
 
     # sy "Shush."
-    sy "Shush."
+    sy "Zitta."
 
 # game/code/scenes/main_story/sm1ms005.rpy:212
 translate italian sm1ms005_sy_sex_cb9cd186:
 
     # mc "If I didn't know better-"
-    mc "If I didn't know better-"
+    mc "Se non ti conoscessi meglio-"
 
 # game/code/scenes/main_story/sm1ms005.rpy:216
 translate italian sm1ms005_sy_sex_cf860091:
 
     # sy "I know what will get you to shush."
-    sy "I know what will get you to shush."
+    sy "So cosa ti farà stare zitto."
 
 # game/code/scenes/main_story/sm1ms005.rpy:234
 translate italian sm1ms005_sy_sex_436b52d9:
 
     # mc "Holy shit, Stacy."
-    mc "Holy shit, Stacy."
+    mc "Cazzo, Stacy."
 
 # game/code/scenes/main_story/sm1ms005.rpy:235
 translate italian sm1ms005_sy_sex_5d3e3d2e:
 
     # mc "This is incredible."
-    mc "This is incredible."
+    mc "È incredibile."
 
 # game/code/scenes/main_story/sm1ms005.rpy:238
 translate italian sm1ms005_sy_sex_8c31b2e2:
 
     # mc "Fuck, just like that."
-    mc "Fuck, just like that."
+    mc "Cazzo, proprio così."
 
 # game/code/scenes/main_story/sm1ms005.rpy:241
 translate italian sm1ms005_sy_sex_52fe1cb8:
 
     # mc "Daaaamn."
-    mc "Daaaamn."
+    mc "Caaaazzo."
 
 # game/code/scenes/main_story/sm1ms005.rpy:245
 translate italian sm1ms005_sy_sex_96d671f8:
 
     # sy "I thot ewe'd hut up!"
-    sy "I thot ewe'd hut up!"
+    sy "Enfavo che haffessi taciuto!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:247
 translate italian sm1ms005_sy_sex_d11d83c3:
 
     # mc "You know, you shouldn't talk with your mouth full."
-    mc "You know, you shouldn't talk with your mouth full."
+    mc "Sai, non dovresti parlare con la bocca piena."
 
 # game/code/scenes/main_story/sm1ms005.rpy:251
 translate italian sm1ms005_sy_sex_30bdc21a:
 
     # mc "That was one of the greatest blowjobs..."
-    mc "That was one of the greatest blowjobs..."
+    mc "È stato uno dei migliori pompini..."
 
 # game/code/scenes/main_story/sm1ms005.rpy:253
 translate italian sm1ms005_sy_sex_9e418d95:
 
     # sy "You should've stayed quiet then."
-    sy "You should've stayed quiet then."
+    sy "Avresti dovuto stare zitto allora."
 
 # game/code/scenes/main_story/sm1ms005.rpy:257
 translate italian sm1ms005_sy_sex_cb3e34db:
 
     # sy "You're the only one to blame."
-    sy "You're the only one to blame."
+    sy "Sei il solo da biasimare."
 
 # game/code/scenes/main_story/sm1ms005.rpy:260
 translate italian sm1ms005_sy_sex_8a661e81:
 
     # mc "Come on, just a little sibling teasing going on!"
-    mc "Come on, just a little sibling teasing going on!"
+    mc "Dai, solo un po' di presa in giro tra fratelli!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:262
 translate italian sm1ms005_sy_sex_507f3e85:
 
     # mc "Come on! Just a little teasing, Stacy!"
-    mc "Come on! Just a little teasing, Stacy!"
+    mc "Dai! Solo un po' di presa in giro, Stacy!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:265
 translate italian sm1ms005_sy_sex_0530b2fe:
 
     # sy "Hopefully you've learned your lesson about teasing while getting a phenomenal blowjob."
-    sy "Hopefully you've learned your lesson about teasing while getting a phenomenal blowjob."
+    sy "Spero che tu abbia imparato la lezione su come stuzzicare mentre ricevi un pompino fenomenale."
 
 # game/code/scenes/main_story/sm1ms005.rpy:271
 translate italian sm1ms005_sy_sex_b633544c:
 
     # sy "But you did pick the movie I wanted to watch tonight, so for that you get a reward."
-    sy "But you did pick the movie I wanted to watch tonight, so for that you get a reward."
+    sy "Ma hai scelto il film che volevo guardare stasera, quindi per questo ricevi una ricompensa."
 
 # game/code/scenes/main_story/sm1ms005.rpy:273
 translate italian sm1ms005_sy_sex_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "Davvero?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:276
 translate italian sm1ms005_sy_sex_472637f0:
 
     # sy "There's something I want to try, that I kind of stole from a horror movie."
-    sy "There's something I want to try, that I kind of stole from a horror movie."
+    sy "C'è qualcosa che voglio provare, che ho un po' rubato da un film horror."
 
 # game/code/scenes/main_story/sm1ms005.rpy:278
 translate italian sm1ms005_sy_sex_def0ad19:
 
     # mc "What is it?"
-    mc "What is it?"
+    mc "Cos'è?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:282
 translate italian sm1ms005_sy_sex_2125436f:
 
     # mc "Shit, I didn't realize you were so flexible."
-    mc "Shit, I didn't realize you were so flexible."
+    mc "Merda, non mi ero reso conto che fossi così flessibile."
 
 # game/code/scenes/main_story/sm1ms005.rpy:284
 translate italian sm1ms005_sy_sex_05c1aec5:
 
     # sy "I've been doing pilates."
-    sy "I've been doing pilates."
+    sy "Ho fatto pilates."
 
 # game/code/scenes/main_story/sm1ms005.rpy:287
 translate italian sm1ms005_sy_sex_6a908d4a:
 
     # mc "Oh really? You? Pilates?"
-    mc "Oh really? You? Pilates?"
+    mc "Oh davvero? Tu? Pilates?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:289
 translate italian sm1ms005_sy_sex_4565d6a6:
 
     # sy "Yeah, so I can try weird sex positions like this. Now hurry up and fuck my mouth, this is a hard position to hold."
-    sy "Yeah, so I can try weird sex positions like this. Now hurry up and fuck my mouth, this is a hard position to hold."
+    sy "Sì, così posso provare posizioni sessuali strane come questa. Ora sbrigati e scopami la bocca, è una posizione difficile da mantenere."
 
 # game/code/scenes/main_story/sm1ms005.rpy:290
 translate italian sm1ms005_sy_sex_9a45644d:
 
     # mc "Oh, right. Sorry."
-    mc "Oh, right. Sorry."
+    mc "Oh, giusto. Scusa."
 
 # game/code/scenes/main_story/sm1ms005.rpy:303
 translate italian sm1ms005_sy_sex_d2184c8c:
 
     # mc "Holy shit, I thought the other blowjob was fantastic."
-    mc "Holy shit, I thought the other blowjob was fantastic."
+    mc "Cazzo, pensavo che l'altro pompino fosse fantastico."
 
 # game/code/scenes/main_story/sm1ms005.rpy:305
 translate italian sm1ms005_sy_sex_141579e1:
 
     # mc "This is ah-maz-ing!"
-    mc "This is ah-maz-ing!"
+    mc "Questo è fan-ta-stico!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:308
 translate italian sm1ms005_sy_sex_20942c2b:
 
     # mc "I, unnng, support you going to pilates!"
-    mc "I, unnng, support you going to pilates!"
+    mc "Io, unnng, approvo che tu faccia pilates!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:311
 translate italian sm1ms005_sy_sex_90364f36:
 
     # mc "Shit, I might cum from this!"
-    mc "Shit, I might cum from this!"
+    mc "Merda, potrei venire da questo!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:313
 translate italian sm1ms005_sy_sex_7b3532bf:
@@ -422,181 +422,181 @@ translate italian sm1ms005_sy_sex_b70e53d4:
 translate italian sm1ms005_sy_sex_9c19e591:
 
     # mc "What were you trying to say?"
-    mc "What were you trying to say?"
+    mc "Cosa stavi cercando di dire?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:325
 translate italian sm1ms005_sy_sex_8892cd74:
 
     # sy "You can't cum yet! I still need to fuck you."
-    sy "You can't cum yet! I still need to fuck you."
+    sy "Non puoi venire ancora! Devo ancora scoparti."
 
 # game/code/scenes/main_story/sm1ms005.rpy:329
 translate italian sm1ms005_sy_sex_5844ae44:
 
     # mc "Hell yeah."
-    mc "Hell yeah."
+    mc "Cavolo sì."
 
 # game/code/scenes/main_story/sm1ms005.rpy:331
 translate italian sm1ms005_sy_sex_e5b3b228:
 
     # sy "Damn, I definitely need to do more pilates."
-    sy "Damn, I definitely need to do more pilates."
+    sy "Accidenti, devo decisamente fare più pilates."
 
 # game/code/scenes/main_story/sm1ms005.rpy:334
 translate italian sm1ms005_sy_sex_32f2b99c:
 
     # sy "I've got another idea..."
-    sy "I've got another idea..."
+    sy "Ho un'altra idea..."
 
 # game/code/scenes/main_story/sm1ms005.rpy:336
 translate italian sm1ms005_sy_sex_142bba6f:
 
     # mc "Are you pushing your luck for a second good idea?"
-    mc "Are you pushing your luck for a second good idea?"
+    mc "Stai tentando la sorte per una seconda buona idea?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:339
 translate italian sm1ms005_sy_sex_fc78b88c:
 
     # sy "I have loads of good ideas."
-    sy "I have loads of good ideas."
+    sy "Ho un sacco di buone idee."
 
 # game/code/scenes/main_story/sm1ms005.rpy:341
 translate italian sm1ms005_sy_sex_9d81d299:
 
     # mc "Suuuuure, you do."
-    mc "Suuuuure, you do."
+    mc "Sììììì, certo."
 
 # game/code/scenes/main_story/sm1ms005.rpy:345
 translate italian sm1ms005_sy_sex_96ba4509:
 
     # sy "Okay, tiger. I want to start off with some love making."
-    sy "Okay, tiger. I want to start off with some love making."
+    sy "Va bene, tigre. Voglio iniziare con un po' di amore."
 
 # game/code/scenes/main_story/sm1ms005.rpy:348
 translate italian sm1ms005_sy_sex_db8a2d17:
 
     # mc "Who are you, and what have you done with my sister?"
-    mc "Who are you, and what have you done with my sister?"
+    mc "Chi sei tu, e cosa hai fatto di mia sorella?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:350
 translate italian sm1ms005_sy_sex_7ac7b40a:
 
     # mc "Who are you, and what have you done with Stacy?"
-    mc "Who are you, and what have you done with Stacy?"
+    mc "Chi sei tu, e cosa hai fatto di Stacy?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:353
 translate italian sm1ms005_sy_sex_3131a2f6:
 
     # sy "Hey, I have my moods! Sometimes a woman needs some gentle fucking."
-    sy "Hey, I have my moods! Sometimes a woman needs some gentle fucking."
+    sy "Ehi, ho i miei umori! A volte una donna ha bisogno di una scopata dolce."
 
 # game/code/scenes/main_story/sm1ms005.rpy:356
 translate italian sm1ms005_sy_sex_15adbc1a:
 
     # mc "Wow, this is so tame for us."
-    mc "Wow, this is so tame for us."
+    mc "Wow, questo è così docile per noi."
 
 # game/code/scenes/main_story/sm1ms005.rpy:358
 translate italian sm1ms005_sy_sex_e6589d5a:
 
     # sy "Yeah, yeah. I know."
-    sy "Yeah, yeah. I know."
+    sy "Sì, sì. Lo so."
 
 # game/code/scenes/main_story/sm1ms005.rpy:362
 translate italian sm1ms005_sy_sex_deaf0428:
 
     # mc "I mean, you rubbed one out watching me fuck another girl. So this is-"
-    mc "I mean, you rubbed one out watching me fuck another girl. So this is-"
+    mc "Voglio dire, te ne sei spugnata una guardandomi scopare un'altra ragazza. Quindi questo è-"
 
 # game/code/scenes/main_story/sm1ms005.rpy:364
 translate italian sm1ms005_sy_sex_4dd7909f:
 
     # sy "[mcname], just put your dick in me."
-    sy "[mcname], just put your dick in me."
+    sy "[mcname], metti solo il tuo cazzo dentro di me."
 
 # game/code/scenes/main_story/sm1ms005.rpy:366
 translate italian sm1ms005_sy_sex_f4b5c096:
 
     # mc "I don't know how to feel about soft Stacy."
-    mc "I don't know how to feel about soft Stacy."
+    mc "Non so come sentirmi riguardo alla Stacy dolce."
 
 # game/code/scenes/main_story/sm1ms005.rpy:368
 translate italian sm1ms005_sy_sex_490c221e:
 
     # sy "[mcname], quit dicking around and dick me down!"
-    sy "[mcname], quit dicking around and dick me down!"
+    sy "[mcname], smettila di cazzeggiare e scopami!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:369
 translate italian sm1ms005_sy_sex_fa0a2ff8:
 
     # mc "You don't need to tell me twice!"
-    mc "You don't need to tell me twice!"
+    mc "Non c'è bisogno che me lo dica due volte!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:374
 translate italian sm1ms005_sy_sex_c3e5fd28:
 
     # sy "Mmmm, that's nice."
-    sy "Mmmm, that's nice."
+    sy "Mmmm, è bello."
 
 # game/code/scenes/main_story/sm1ms005.rpy:383
 translate italian sm1ms005_sy_sex_e2f97e85:
 
     # mc "Okay, nnggg, yeah, this is pretty nice."
-    mc "Okay, nnggg, yeah, this is pretty nice."
+    mc "Okay, nnggg, sì, questo è abbastanza bello."
 
 # game/code/scenes/main_story/sm1ms005.rpy:387
 translate italian sm1ms005_sy_sex_5e659cf7:
 
     # sy "You just have to listen to your sister more often! I know what I'm talking about."
-    sy "You just have to listen to your sister more often! I know what I'm talking about."
+    sy "Devi solo ascoltare tua sorella più spesso! So di cosa parlo."
 
 # game/code/scenes/main_story/sm1ms005.rpy:389
 translate italian sm1ms005_sy_sex_79efede0:
 
     # sy "You just have to listen to me more often! I know what I'm talking about."
-    sy "You just have to listen to me more often! I know what I'm talking about."
+    sy "Devi solo ascoltarmi più spesso! So di cosa parlo."
 
 # game/code/scenes/main_story/sm1ms005.rpy:390
 translate italian sm1ms005_sy_sex_123a75ac:
 
     # mc "I'll admit it! Fuck, you're right!"
-    mc "I'll admit it! Fuck, you're right!"
+    mc "Lo ammetto! Cazzo, hai ragione!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:393
 translate italian sm1ms005_sy_sex_e85a7190:
 
     # mc "At least, right now!"
-    mc "At least, right now!"
+    mc "Almeno, adesso!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:396
 translate italian sm1ms005_sy_sex_b0ddd09b:
 
     # sy "Trust me, I'm full of good ideas."
-    sy "Trust me, I'm full of good ideas."
+    sy "Fidati di me, sono piena di buone idee."
 
 # game/code/scenes/main_story/sm1ms005.rpy:400
 translate italian sm1ms005_sy_sex_bc8ba4b8:
 
     # sy "Let me show you another one."
-    sy "Let me show you another one."
+    sy "Lascia che te ne mostri un'altra."
 
 # game/code/scenes/main_story/sm1ms005.rpy:403
 translate italian sm1ms005_sy_sex_1bad1d23:
 
     # mc "I think I already like this idea."
-    mc "I think I already like this idea."
+    mc "Penso che mi piaccia già questa idea."
 
 # game/code/scenes/main_story/sm1ms005.rpy:405
 translate italian sm1ms005_sy_sex_d63fa227:
 
     # sy "Oh, should I stop here then?"
-    sy "Oh, should I stop here then?"
+    sy "Oh, dovrei fermarmi qui allora?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:408
 translate italian sm1ms005_sy_sex_f4f30e42:
 
     # sy "Say it."
-    sy "Say it."
+    sy "Dillo."
 
 # game/code/scenes/main_story/sm1ms005.rpy:409
 translate italian sm1ms005_sy_sex_2b35b6fe:
@@ -608,223 +608,223 @@ translate italian sm1ms005_sy_sex_2b35b6fe:
 translate italian sm1ms005_sy_sex_be38ac1a:
 
     # sy "Come on, say it."
-    sy "Come on, say it."
+    sy "Dai, dillo."
 
 # game/code/scenes/main_story/sm1ms005.rpy:414
 translate italian sm1ms005_sy_sex_08588647:
 
     # mc "Fine, you have good ideas."
-    mc "Fine, you have good ideas."
+    mc "Va bene, hai buone idee."
 
 # game/code/scenes/main_story/sm1ms005.rpy:425
 translate italian sm1ms005_sy_sex_56801014:
 
     # mc "Oh fuck, Stacy!"
-    mc "Oh fuck, Stacy!"
+    mc "Oh cazzo, Stacy!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:426
 translate italian sm1ms005_sy_sex_e44ca3b3:
 
     # sy "Ahh, ahh, mmm, yes, fuck [mcname]!"
-    sy "Ahh, ahh, mmm, yes, fuck [mcname]!"
+    sy "Ahh, ahh, mmm, sì, cazzo [mcname]!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:429
 translate italian sm1ms005_sy_sex_afe014aa:
 
     # mc "Ooo, God Stacy, you're so tight!"
-    mc "Ooo, God Stacy, you're so tight!"
+    mc "Ooo, Dio Stacy, sei così stretta!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:431
 translate italian sm1ms005_sy_sex_e53f82c4:
 
     # sy "It helps when you've got such a great dick! Fuuuck!"
-    sy "It helps when you've got such a great dick! Fuuuck!"
+    sy "Aiuta quando hai un cazzo così fantastico! Caaazzo!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:437
 translate italian sm1ms005_sy_sex_86351fa6:
 
     # mc "Fuck, I'm getting close."
-    mc "Fuck, I'm getting close."
+    mc "Cazzo, mi sto avvicinando."
 
 # game/code/scenes/main_story/sm1ms005.rpy:442
 translate italian sm1ms005_sy_sex_414b4f1f:
 
     # sy "Me too, and I know exactly what I need."
-    sy "Me too, and I know exactly what I need."
+    sy "Anch'io, e so esattamente di cosa ho bisogno."
 
 # game/code/scenes/main_story/sm1ms005.rpy:453
 translate italian sm1ms005_sy_sex_2c79e434:
 
     # sy "Now, you can really {i}fuck me{/i}."
-    sy "Now, you can really {i}fuck me{/i}."
+    sy "Ora, puoi davvero {i}scoparmi{/i}."
 
 # game/code/scenes/main_story/sm1ms005.rpy:455
 translate italian sm1ms005_sy_sex_b76bcd89:
 
     # mc "What happened to gentle fucking?"
-    mc "What happened to gentle fucking?"
+    mc "Cos'è successo alla scopata dolce?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:456
 translate italian sm1ms005_sy_sex_3947f99b:
 
     # sy "Changed my mind, now get over here."
-    sy "Changed my mind, now get over here."
+    sy "Ho cambiato idea, ora vieni qui."
 
 # game/code/scenes/main_story/sm1ms005.rpy:460
 translate italian sm1ms005_sy_sex_662ebdb7:
 
     # mc "You know, you've been a little bossy tonight."
-    mc "You know, you've been a little bossy tonight."
+    mc "Sai, sei stata un po' prepotente stasera."
 
 # game/code/scenes/main_story/sm1ms005.rpy:462
 translate italian sm1ms005_sy_sex_d4c0fcaf:
 
     # sy "Yeah, and?"
-    sy "Yeah, and?"
+    sy "Sì, e?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:467
 translate italian sm1ms005_sy_sex_36da3800:
 
     # mc "I think I know how to get back at you."
-    mc "I think I know how to get back at you."
+    mc "Penso di sapere come vendicarmi."
 
 # game/code/scenes/main_story/sm1ms005.rpy:469
 translate italian sm1ms005_sy_sex_adb49f49:
 
     # sy "[mcname], I-"
-    sy "[mcname], I-"
+    sy "[mcname], io-"
 
 # game/code/scenes/main_story/sm1ms005.rpy:477
 translate italian sm1ms005_sy_sex_840c008d:
 
     # sy "Oh fuuuuck, [mcname]!"
-    sy "Oh fuuuuck, [mcname]!"
+    sy "Oh caaaazzo, [mcname]!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:478
 translate italian sm1ms005_sy_sex_d72317f8:
 
     # mc "Fuck is right, Stacy! This is awesome!"
-    mc "Fuck is right, Stacy! This is awesome!"
+    mc "Cazzo è giusto, Stacy! Questo è fantastico!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:481
 translate italian sm1ms005_sy_sex_744e1ae1:
 
     # mc "Fuck yes, pilates!"
-    mc "Fuck yes, pilates!"
+    mc "Cazzo sì, pilates!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:482
 translate italian sm1ms005_sy_sex_8b2044d3:
 
     # sy "Yesss, yes, right there, just like that!"
-    sy "Yesss, yes, right there, just like that!"
+    sy "Sììì, sì, proprio lì, proprio così!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:486
 translate italian sm1ms005_sy_sex_be7a4158:
 
     # mc "Stacy, I'm getting close."
-    mc "Stacy, I'm getting close."
+    mc "Stacy, mi sto avvicinando."
 
 # game/code/scenes/main_story/sm1ms005.rpy:487
 translate italian sm1ms005_sy_sex_8db37a5e:
 
     # sy "Me tooo, ahhh, ahhh! Just- Just a little more!"
-    sy "Me tooo, ahhh, ahhh! Just- Just a little more!"
+    sy "Anch'iooo, ahhh, ahhh! Solo- Solo un po' di più!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:490
 translate italian sm1ms005_sy_sex_8f1174ca:
 
     # sy "Fuck, fuck, fuck!"
-    sy "Fuck, fuck, fuck!"
+    sy "Cazzo, cazzo, cazzo!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:491
 translate italian sm1ms005_sy_sex_b3cffaed:
 
     # sy "Oh God, [mcname], I'm going to cum!"
-    sy "Oh God, [mcname], I'm going to cum!"
+    sy "Oh Dio, [mcname], sto per venire!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:495
 translate italian sm1ms005_sy_sex_4cf88250:
 
     # sy "Yesyesyesyesyes, I'm cumming!"
-    sy "Yesyesyesyesyes, I'm cumming!"
+    sy "Sìsìsìsìsì, sto venendo!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:497
 translate italian sm1ms005_sy_sex_6da8f58a:
 
     # sy "Okay, you can- slow down! Fuck, I'm going-"
-    sy "Okay, you can- slow down! Fuck, I'm going-"
+    sy "Okay, puoi- rallenta! Cazzo, sto per-"
 
 # game/code/scenes/main_story/sm1ms005.rpy:499
 translate italian sm1ms005_sy_sex_acb6016a:
 
     # sy "Fuck, I'm cumming again!"
-    sy "Fuck, I'm cumming again!"
+    sy "Cazzo, sto venendo di nuovo!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:501
 translate italian sm1ms005_sy_sex_1aea33e7:
 
     # mc "I'm about to cum too!"
-    mc "I'm about to cum too!"
+    mc "Sto per venire anch'io!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:502
 translate italian sm1ms005_sy_sex_5cb65f5a:
 
     # sy "Do it! Cum, [mcname]!"
-    sy "Do it! Cum, [mcname]!"
+    sy "Fallo! Vieni, [mcname]!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:519
 translate italian sm1ms005_cum_face_0c6d4e7e:
 
     # mc "Fuck, I'm cumming!"
-    mc "Fuck, I'm cumming!"
+    mc "Cazzo, sto venendo!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:535
 translate italian sm1ms005_cum_inside_0c6d4e7e:
 
     # mc "Fuck, I'm cumming!"
-    mc "Fuck, I'm cumming!"
+    mc "Cazzo, sto venendo!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:537
 translate italian sm1ms005_cum_inside_bfbc8b6a:
 
     # sy "Fuck, fill me up!"
-    sy "Fuck, fill me up!"
+    sy "Cazzo, riempimi!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:553
 translate italian sm1ms005_end_e38b2391:
 
     # sy "Thanks, [mcname]."
-    sy "Thanks, [mcname]."
+    sy "Grazie, [mcname]."
 
 # game/code/scenes/main_story/sm1ms005.rpy:555
 translate italian sm1ms005_end_61202cd7:
 
     # mc "That good?"
-    mc "That good?"
+    mc "Così buono?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:558
 translate italian sm1ms005_end_ddbc8a9a:
 
     # sy "Oh yeah, just what the doctor ordered."
-    sy "Oh yeah, just what the doctor ordered."
+    sy "Oh sì, proprio quello che ha ordinato il dottore."
 
 # game/code/scenes/main_story/sm1ms005.rpy:559
 translate italian sm1ms005_end_c5ee9dae:
 
     # sy "I'm going to sleep like a log."
-    sy "I'm going to sleep like a log."
+    sy "Dormirò come un sasso."
 
 # game/code/scenes/main_story/sm1ms005.rpy:561
 translate italian sm1ms005_end_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "Anch'io."
 
 # game/code/scenes/main_story/sm1ms005.rpy:566
 translate italian sm1ms005_end_0bdb451d:
 
     # sy "Oh, by the way, have you seen my USB?"
-    sy "Oh, by the way, have you seen my USB?"
+    sy "Oh, a proposito, hai visto la mia USB?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:568
 translate italian sm1ms005_end_05500ff6:
@@ -836,43 +836,43 @@ translate italian sm1ms005_end_05500ff6:
 translate italian sm1ms005_end_db92245d:
 
     # sy "My porn USB, I'm not sure where it went."
-    sy "My porn USB, I'm not sure where it went."
+    sy "La mia chiavetta USB porno, non sono sicura di dove sia finita."
 
 # game/code/scenes/main_story/sm1ms005.rpy:572
 translate italian sm1ms005_end_1f099128:
 
     # mc "I... Don't know."
-    mc "I... Don't know."
+    mc "Io... Non lo so."
 
 # game/code/scenes/main_story/sm1ms005.rpy:574
 translate italian sm1ms005_end_ec949529:
 
     # sy "Keep your eyes open for it, 'kay?"
-    sy "Keep your eyes open for it, 'kay?"
+    sy "Tieni gli occhi aperti, ok?"
 
 # game/code/scenes/main_story/sm1ms005.rpy:575
 translate italian sm1ms005_end_abd30fc1:
 
     # mc "For sure."
-    mc "For sure."
+    mc "Certo."
 
 # game/code/scenes/main_story/sm1ms005.rpy:583
 translate italian sm1ms005_end_63c8bc6f:
 
     # sy "Good night, [mcname]."
-    sy "Good night, [mcname]."
+    sy "Buonanotte, [mcname]."
 
 # game/code/scenes/main_story/sm1ms005.rpy:585
 translate italian sm1ms005_end_bae8c4d4:
 
     # mc "Good night, Stacy."
-    mc "Good night, Stacy."
+    mc "Buonanotte, Stacy."
 
 # game/code/scenes/main_story/sm1ms005.rpy:612
 translate italian sm1ms005_end_dbc9c5b2:
 
     # mct "Oh shit."
-    mct "Oh shit."
+    mct "Oh merda."
 
 translate italian strings:
 
@@ -882,13 +882,13 @@ translate italian strings:
 
     # game/code/scenes/main_story/sm1ms005.rpy:81
     old "Romantic comedy"
-    new "Romantic comedy"
+    new "Commedia romantica"
 
     # game/code/scenes/main_story/sm1ms005.rpy:504
     old "Cum on Stacy's face"
-    new "Cum on Stacy's face"
+    new "Sborra sulla faccia di Stacy"
 
     # game/code/scenes/main_story/sm1ms005.rpy:504
     old "Cum in Stacy"
-    new "Cum in Stacy"
+    new "Sborra dentro Stacy"
 

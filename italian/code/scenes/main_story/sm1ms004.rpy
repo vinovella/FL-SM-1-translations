@@ -248,7 +248,7 @@ translate italian sm1ms004_56b0cd63:
 translate italian sm1ms004_5ca96825:
 
     # arj "Casting couch?"
-    arj "Casting couch?"
+    arj "Divano del casting?"
 
 # game/code/scenes/main_story/sm1ms004.rpy:125
 translate italian sm1ms004_752eb2e9:
