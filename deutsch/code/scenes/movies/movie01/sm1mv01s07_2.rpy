@@ -80,13 +80,13 @@ translate deutsch sm1mv01s07_2_d0872dc1:
 translate deutsch sm1mv01s07_2_82f1b33c:
 
     # kv "Cop stops us in this, and it won't matter if there is no weed in the car."
-    kv "Ein Polizist hält uns an und dann spielt es keine Rolle, ob sich Gras im Auto befindet oder nicht."
+    kv "Wenn ein Polizist uns anhält, dann spielt es keine Rolle, ob sich Gras im Auto befindet oder nicht."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:67
 translate deutsch sm1mv01s07_2_7dca9b7c:
 
     # kv "That smell means at least a stop."
-    kv "Dieser Geruch bedeutet zumindest einen Stopp."
+    kv "Dieser Geruch bedeutet dann zumindest erstmal keine weiterfahrt."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:70
 translate deutsch sm1mv01s07_2_e86daea9:
@@ -920,7 +920,7 @@ translate deutsch strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:199
     old "At the rental"
-    new "Bei der Vermietung"
+    new "Bei der Unterkunft"
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:485
     old "It doesn't always feel like you are"
