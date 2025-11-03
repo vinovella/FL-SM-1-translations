@@ -596,7 +596,7 @@ translate deutsch sm1mv01s09_movie_start_3d943ff6:
 translate deutsch sm1mv01s09_movie_start_ad6225e6:
 
     # sy "You scallywag-!"
-    sy "Du Schlingel-!"
+    sy "Du Schlampe-!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:391
 translate deutsch sm1mv01s09_movie_start_8a27c375:
@@ -800,13 +800,13 @@ translate deutsch sm1mv01s09_movie_start_10bd0339:
 translate deutsch sm1mv01s09_movie_start_86a968ef:
 
     # tl "Wench!"
-    tl "Weib!"
+    tl "Hure!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:479
 translate deutsch sm1mv01s09_movie_start_1a01eae1:
 
     # sy "Scallywag!"
-    sy "Schlingel!"
+    sy "Schlampe!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:485
 translate deutsch sm1mv01s09_movie_start_23172483:
