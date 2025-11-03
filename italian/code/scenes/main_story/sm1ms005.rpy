@@ -236,7 +236,7 @@ translate italian sm1ms005_sy_sex_bf33bf37:
 translate italian sm1ms005_sy_sex_9ed76411:
 
     # sy "Shush."
-    sy "Zitta."
+    sy "Zitto."
 
 # game/code/scenes/main_story/sm1ms005.rpy:212
 translate italian sm1ms005_sy_sex_cb9cd186:
@@ -506,7 +506,7 @@ translate italian sm1ms005_sy_sex_e6589d5a:
 translate italian sm1ms005_sy_sex_deaf0428:
 
     # mc "I mean, you rubbed one out watching me fuck another girl. So this is-"
-    mc "Voglio dire, te ne sei spugnata una guardandomi scopare un'altra ragazza. Quindi questo è-"
+    mc "Voglio dire, te ne sei fatta una guardandomi scopare un'altra ragazza. Quindi questo è-"
 
 # game/code/scenes/main_story/sm1ms005.rpy:364
 translate italian sm1ms005_sy_sex_4dd7909f:
