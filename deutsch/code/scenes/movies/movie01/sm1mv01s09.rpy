@@ -1580,7 +1580,7 @@ translate deutsch sm1mv01s09_movie_start_939e01b2:
 translate deutsch sm1mv01s09_movie_start_c9a23040:
 
     # tl "Shlllrpppp - like a good wench!"
-    tl "Shlllrpppp - wie ein gutes Weib!"
+    tl "Shlllrpppp - wie eine gute Hure!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:816
 translate deutsch sm1mv01s09_movie_start_7a496bb6:
