@@ -800,7 +800,7 @@ translate deutsch sm1mv01s07_2_at_beach_f96d5f18:
 translate deutsch sm1mv01s07_2_at_beach_1813e9d0:
 
     # sy "You. Well, if the other clown girl didn't back out, we probably wouldn't be talking."
-    sy "Du. Nun, wenn die andere Clownin nicht abgesagt hätte, würden wir wahrscheinlich gar nicht miteinander reden."
+    sy "Du. Nun, wenn der andere Clown nicht abgesagt hätte, würden wir wahrscheinlich gar nicht miteinander reden."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:477
 translate deutsch sm1mv01s07_2_at_beach_689806c8:
