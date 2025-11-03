@@ -428,7 +428,7 @@ translate italian sm1cs_dc007_continue_a30280b6:
 translate italian sm1cs_dc007_continue_fd50fbb2:
 
     # mc "I might just take you up on that."
-    mc "I might just take you up on that."
+    mc "Potrei accettare la tua offerta."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:294
 translate italian sm1cs_dc007_continue_9f65386a:

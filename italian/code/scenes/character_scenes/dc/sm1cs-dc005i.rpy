@@ -2,7 +2,7 @@
 translate italian sm1cs_dc005i_badcdb98:
 
     # mc "Debbie, hey!"
-    mc "Debbie, hey!"
+    mc "Debbie, ehi!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc005i.rpy:8
 translate italian sm1cs_dc005i_719703cb:
