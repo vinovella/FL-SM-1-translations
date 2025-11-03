@@ -164,7 +164,7 @@ translate deutsch sm1mv02s01_5d189bac:
 translate deutsch sm1mv02s01_6d062aa8:
 
     # sy "-and we have our potential actresses picked out-"
-    sy "-und wir haben unsere potenziellen Schauspielerinnen ausgewählt-"
+    sy "-und wir haben unsere potenziellen Darstellerinnen ausgewählt-"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:138
 translate deutsch sm1mv02s01_f95c7a67:
@@ -530,7 +530,7 @@ translate deutsch sm1mv02s01_09d35443:
 translate deutsch sm1mv02s01_d07df2ea:
 
     # sy "Kanya and I have a few logistical things to iron out. You get out there, and let's start making this movie!"
-    sy "Kanya und ich müssen noch ein paar logistische Dinge klären. Geh raus und lass uns mit den Dreharbeiten beginnen!"
+    sy "Kanya und ich müssen noch ein paar logistische Dinge klären. Geh raus und dann lass uns mit den Dreharbeiten beginnen!"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:344
 translate deutsch sm1mv02s01_8a0ccce2:
