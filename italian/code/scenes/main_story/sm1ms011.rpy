@@ -56,7 +56,7 @@ translate italian sm1ms011_e1af0018:
 translate italian sm1ms011_1b199792:
 
     # mc "Okay?"
-    mc "Okay?"
+    mc "Ok?"
 
 # game/code/scenes/main_story/sm1ms011.rpy:61
 translate italian sm1ms011_c0af0395:
