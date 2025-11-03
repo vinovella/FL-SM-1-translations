@@ -2,37 +2,37 @@
 translate italian sm1ms010_4e8ce3bb:
 
     # mc "I almost forgot. Why are you going to the sex shop?"
-    mc "I almost forgot. Why are you going to the sex shop?"
+    mc "Avevo quasi dimenticato. Perché stai andando al sexy shop?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:49
 translate italian sm1ms010_5aa30990:
 
     # sy "Since we're finally making movies, I want to be locked and loaded with fun toys to use in new scenes."
-    sy "Since we're finally making movies, I want to be locked and loaded with fun toys to use in new scenes."
+    sy "Dato che finalmente stiamo facendo film, voglio essere pronta e carica con giocattoli divertenti da usare nelle nuove scene."
 
 # game/code/scenes/main_story/sm1ms010.rpy:53
 translate italian sm1ms010_3b932df8:
 
     # sy "Bye-bye."
-    sy "Bye-bye."
+    sy "Ciao ciao."
 
 # game/code/scenes/main_story/sm1ms010.rpy:55
 translate italian sm1ms010_0419d335:
 
     # mc "Later."
-    mc "Later."
+    mc "A dopo."
 
 # game/code/scenes/main_story/sm1ms010.rpy:59
 translate italian sm1ms010_7f7a1bf9:
 
     # mct "I hope she doesn't spend too much money."
-    mct "I hope she doesn't spend too much money."
+    mct "Spero che non spenda troppi soldi."
 
 # game/code/scenes/main_story/sm1ms010.rpy:69
 translate italian sm1ms010_4b94ab04:
 
     # mc "Did you forget your keys?"
-    mc "Did you forget your keys?"
+    mc "Hai dimenticato le chiavi?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:73
 translate italian sm1ms010_2b35b6fe:
@@ -44,193 +44,193 @@ translate italian sm1ms010_2b35b6fe:
 translate italian sm1ms010_da5dc00a:
 
     # arj "Hi, [mcname]."
-    arj "Hi, [mcname]."
+    arj "Ciao, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:79
 translate italian sm1ms010_9d83a8e2:
 
     # mc "What are you doing here?"
-    mc "What are you doing here?"
+    mc "Cosa ci fai qui?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:82
 translate italian sm1ms010_d75b6dc1:
 
     # arj "C-can you dial it down a bit, [mcname]?"
-    arj "C-can you dial it down a bit, [mcname]?"
+    arj "P-puoi abbassare un po' i toni, [mcname]?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:83
 translate italian sm1ms010_e898ebbb:
 
     # arj "I promised myself, I wasn't going to come back here, and I'm a little nervous."
-    arj "I promised myself, I wasn't going to come back here, and I'm a little nervous."
+    arj "Mi ero promessa che non sarei tornata qui, e sono un po' nervosa."
 
 # game/code/scenes/main_story/sm1ms010.rpy:86
 translate italian sm1ms010_323eda69:
 
     # mct "She's right."
-    mct "She's right."
+    mct "Ha ragione."
 
 # game/code/scenes/main_story/sm1ms010.rpy:87
 translate italian sm1ms010_769f26be:
 
     # mct "Why did I get so jumpy? I guess I expected her to come out swinging with another lecture."
-    mct "Why did I get so jumpy? I guess I expected her to come out swinging with another lecture."
+    mct "Perché mi sono messo così sulla difensiva? Immagino mi aspettassi che arrivasse con un'altra ramanzina."
 
 # game/code/scenes/main_story/sm1ms010.rpy:88
 translate italian sm1ms010_fa086d1f:
 
     # mct "But no..."
-    mct "But no..."
+    mct "Ma no..."
 
 # game/code/scenes/main_story/sm1ms010.rpy:90
 translate italian sm1ms010_1070562e:
 
     # mct "I think she's here for something else."
-    mct "I think she's here for something else."
+    mct "Penso che sia qui per qualcos'altro."
 
 # game/code/scenes/main_story/sm1ms010.rpy:93
 translate italian sm1ms010_e05f1816:
 
     # mc "Sure. Come in, AmRose."
-    mc "Sure. Come in, AmRose."
+    mc "Certo. Entra, AmRose."
 
 # game/code/scenes/main_story/sm1ms010.rpy:98
 translate italian sm1ms010_fad3c2cc:
 
     # mct "Why does she have to look so good."
-    mct "Why does she have to look so good."
+    mct "Perché deve essere così bella."
 
 # game/code/scenes/main_story/sm1ms010.rpy:101
 translate italian sm1ms010_ec4b218e:
 
     # mc "*sniffs*"
-    mc "*sniffs*"
+    mc "*annusa*"
 
 # game/code/scenes/main_story/sm1ms010.rpy:102
 translate italian sm1ms010_a131f302:
 
     # mct "And smell so good."
-    mct "And smell so good."
+    mct "E profumare così bene."
 
 # game/code/scenes/main_story/sm1ms010.rpy:104
 translate italian sm1ms010_8102cf61:
 
     # arj "I enjoyed having coffee with you."
-    arj "I enjoyed having coffee with you."
+    arj "Mi è piaciuto prendere un caffè con te."
 
 # game/code/scenes/main_story/sm1ms010.rpy:110
 translate italian sm1ms010_5d57df03:
 
     # mc "Wait, is this just us doing some pretending again?"
-    mc "Wait, is this just us doing some pretending again?"
+    mc "Aspetta, stiamo solo fingendo di nuovo?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:113
 translate italian sm1ms010_5df772db:
 
     # arj "I-I... Sure, we can just pretend again."
-    arj "I-I... Sure, we can just pretend again."
+    arj "I-Io... Certo, possiamo solo fingere di nuovo."
 
 # game/code/scenes/main_story/sm1ms010.rpy:114
 translate italian sm1ms010_72c91615:
 
     # arj "That's why I came here."
-    arj "That's why I came here."
+    arj "È per questo che sono venuta qui."
 
 # game/code/scenes/main_story/sm1ms010.rpy:119
 translate italian sm1ms010_b805585e:
 
     # mc "Yeah, me too."
-    mc "Yeah, me too."
+    mc "Sì, anche io."
 
 # game/code/scenes/main_story/sm1ms010.rpy:122
 translate italian sm1ms010_75fd20d5:
 
     # mc "We've... both been so busy. {w}It was nice just getting to be with you."
-    mc "We've... both been so busy. {w}It was nice just getting to be with you."
+    mc "Siamo... stati entrambi così impegnati. {w}È stato bello stare semplicemente con te."
 
 # game/code/scenes/main_story/sm1ms010.rpy:125
 translate italian sm1ms010_093592a1:
 
     # arj "Well... I'm glad I caught you when you weren't too busy."
-    arj "Well... I'm glad I caught you when you weren't too busy."
+    arj "Beh... sono contenta di averti trovato quando non eri troppo impegnato."
 
 # game/code/scenes/main_story/sm1ms010.rpy:131
 translate italian sm1ms010_1ee8c3d4:
 
     # mc "But what's with the bag?"
-    mc "But what's with the bag?"
+    mc "Ma cosa c'è nella borsa?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:141
 translate italian sm1ms010_fec3e010:
 
     # arj "A gift. I realized that I never gave you guys a housewarming present."
-    arj "A gift. I realized that I never gave you guys a housewarming present."
+    arj "Un regalo. Ho realizzato che non vi ho mai dato un regalo per la casa nuova."
 
 # game/code/scenes/main_story/sm1ms010.rpy:144
 translate italian sm1ms010_2e79ab15:
 
     # mc "Oh yeah. That's very nice."
-    mc "Oh yeah. That's very nice."
+    mc "Oh sì. È molto carino."
 
 # game/code/scenes/main_story/sm1ms010.rpy:145
 translate italian sm1ms010_852a809b:
 
     # mc "I didn't really expect you to get us anything."
-    mc "I didn't really expect you to get us anything."
+    mc "Non mi aspettavo davvero che ci portassi qualcosa."
 
 # game/code/scenes/main_story/sm1ms010.rpy:149
 translate italian sm1ms010_70fc6b11:
 
     # arj "You should know me better than that, [mcname]."
-    arj "You should know me better than that, [mcname]."
+    arj "Dovresti conoscermi meglio di così, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:150
 translate italian sm1ms010_348a4638:
 
     # arj "I also brought some fruits, vegetables and other healthy foods."
-    arj "I also brought some fruits, vegetables and other healthy foods."
+    arj "Ho anche portato della frutta, verdura e altri cibi sani."
 
 # game/code/scenes/main_story/sm1ms010.rpy:153
 translate italian sm1ms010_ab248696:
 
     # arj "I know how you get when you're super focused on something."
-    arj "I know how you get when you're super focused on something."
+    arj "So come diventi quando sei super concentrato su qualcosa."
 
 # game/code/scenes/main_story/sm1ms010.rpy:154
 translate italian sm1ms010_b78aa1c0:
 
     # arj "Pizza and coffee are not good for a healthy diet."
-    arj "Pizza and coffee are not good for a healthy diet."
+    arj "Pizza e caffè non vanno bene per una dieta sana."
 
 # game/code/scenes/main_story/sm1ms010.rpy:157
 translate italian sm1ms010_a6185256:
 
     # mc "Heh. Let's agree to disagree on that."
-    mc "Heh. Let's agree to disagree on that."
+    mc "Eh. Concordiamo sul fatto di non essere d'accordo su questo."
 
 # game/code/scenes/main_story/sm1ms010.rpy:163
 translate italian sm1ms010_f4c4e3bd:
 
     # mc "So I've got a new tea kettle. Thank you by the way."
-    mc "So I've got a new tea kettle. Thank you by the way."
+    mc "Quindi ho un nuovo bollitore da tè. Grazie comunque."
 
 # game/code/scenes/main_story/sm1ms010.rpy:166
 translate italian sm1ms010_6049abe7:
 
     # arj "You're welcome."
-    arj "You're welcome."
+    arj "Prego."
 
 # game/code/scenes/main_story/sm1ms010.rpy:169
 translate italian sm1ms010_3ab9e772:
 
     # mc "But there is something else, isn't there?"
-    mc "But there is something else, isn't there?"
+    mc "Ma c'è qualcos'altro, vero?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:170
 translate italian sm1ms010_9b27b0d0:
 
     # mc "Is this your way of finally forgiving me?"
-    mc "Is this your way of finally forgiving me?"
+    mc "È questo il tuo modo di perdonarmi finalmente?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:172
 translate italian sm1ms010_4cd44184:
@@ -242,271 +242,271 @@ translate italian sm1ms010_4cd44184:
 translate italian sm1ms010_2835637e:
 
     # arj "Maybe. Can you boil me some water, please?"
-    arj "Maybe. Can you boil me some water, please?"
+    arj "Forse. Puoi farmi bollire dell'acqua, per favore?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:179
 translate italian sm1ms010_389b993d:
 
     # arj "Grandma Amileee always said, a difficult conversation is made better with tea."
-    arj "Grandma Amileee always said, a difficult conversation is made better with tea."
+    arj "Nonna Amileee diceva sempre che una conversazione difficile migliora con il tè."
 
 # game/code/scenes/main_story/sm1ms010.rpy:182
 translate italian sm1ms010_c356348e:
 
     # mc "Sure, I can do that."
-    mc "Sure, I can do that."
+    mc "Certo, posso farlo."
 
 # game/code/scenes/main_story/sm1ms010.rpy:187
 translate italian sm1ms010_e47c0dcb:
 
     # arj "How is Stacy doing?"
-    arj "How is Stacy doing?"
+    arj "Come sta Stacy?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:193
 translate italian sm1ms010_72c4df39:
 
     # mc "Do you really want to know or are you just asking?"
-    mc "Do you really want to know or are you just asking?"
+    mc "Vuoi davvero saperlo o lo stai solo chiedendo?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:196
 translate italian sm1ms010_cb27b157:
 
     # arj "Of course. I still see her as a friend."
-    arj "Of course. I still see her as a friend."
+    arj "Certo. La vedo ancora come un'amica."
 
 # game/code/scenes/main_story/sm1ms010.rpy:204
 translate italian sm1ms010_5c4c9d86:
 
     # mc "She's fine. We actually just filmed our first porn together."
-    mc "She's fine. We actually just filmed our first porn together."
+    mc "Sta bene. In realtà abbiamo appena girato il nostro primo porno insieme."
 
 # game/code/scenes/main_story/sm1ms010.rpy:207
 translate italian sm1ms010_2a2b26d8:
 
     # mc "I think our client is going to love it."
-    mc "I think our client is going to love it."
+    mc "Penso che al nostro cliente piacerà molto."
 
 # game/code/scenes/main_story/sm1ms010.rpy:210
 translate italian sm1ms010_e57e8299:
 
     # arj "Confident as always."
-    arj "Confident as always."
+    arj "Sicuro di te come sempre."
 
 # game/code/scenes/main_story/sm1ms010.rpy:213
 translate italian sm1ms010_8771fe0f:
 
     # mc "Heh, well, it is something I excel at."
-    mc "Heh, well, it is something I excel at."
+    mc "Eh, beh, è qualcosa in cui eccello."
 
 # game/code/scenes/main_story/sm1ms010.rpy:216
 translate italian sm1ms010_5c81ff0a:
 
     # arj "I guess you are correct on that point."
-    arj "I guess you are correct on that point."
+    arj "Immagino tu abbia ragione su questo punto."
 
 # game/code/scenes/main_story/sm1ms010.rpy:223
 translate italian sm1ms010_6117eaf3:
 
     # arj "Milk?"
-    arj "Milk?"
+    arj "Latte?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:226
 translate italian sm1ms010_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Certo."
 
 # game/code/scenes/main_story/sm1ms010.rpy:238
 translate italian sm1ms010_drink_tea_364ea887:
 
     # arj "I think the first time I was here, I wasn't being a very good friend, [mcname]."
-    arj "I think the first time I was here, I wasn't being a very good friend, [mcname]."
+    arj "Penso che la prima volta che sono stata qui, non sono stata una buona amica, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:239
 translate italian sm1ms010_drink_tea_9db064b0:
 
     # arj "A friend supports their friends, even when they have disagreements."
-    arj "A friend supports their friends, even when they have disagreements."
+    arj "Un'amica sostiene i suoi amici, anche quando hanno disaccordi."
 
 # game/code/scenes/main_story/sm1ms010.rpy:240
 translate italian sm1ms010_drink_tea_9268d882:
 
     # arj "At least, that's how I was taught."
-    arj "At least, that's how I was taught."
+    arj "Almeno, è così che mi è stato insegnato."
 
 # game/code/scenes/main_story/sm1ms010.rpy:244
 translate italian sm1ms010_drink_tea_50b76032:
 
     # arj "I was worried, and still kind of am."
-    arj "I was worried, and still kind of am."
+    arj "Ero preoccupata, e in un certo senso lo sono ancora."
 
 # game/code/scenes/main_story/sm1ms010.rpy:245
 translate italian sm1ms010_drink_tea_39e8752d:
 
     # arj "Worried that your plan will get you both into trouble."
-    arj "Worried that your plan will get you both into trouble."
+    arj "Preoccupata che il tuo piano vi metta entrambi nei guai."
 
 # game/code/scenes/main_story/sm1ms010.rpy:248
 translate italian sm1ms010_drink_tea_33903a1b:
 
     # arj "Just like with Lydia and the app."
-    arj "Just like with Lydia and the app."
+    arj "Proprio come con Lydia e l'app."
 
 # game/code/scenes/main_story/sm1ms010.rpy:251
 translate italian sm1ms010_drink_tea_f9d6fc71:
 
     # mct "She looks really worried."
-    mct "She looks really worried."
+    mct "Sembra davvero preoccupata."
 
 # game/code/scenes/main_story/sm1ms010.rpy:255
 translate italian sm1ms010_drink_tea_4b05e7a1:
 
     # mc "This isn't going to be like before. No one is manipulating me, or pushing me to do stuff."
-    mc "This isn't going to be like before. No one is manipulating me, or pushing me to do stuff."
+    mc "Non sarà come prima. Nessuno mi sta manipolando, o spingendomi a fare cose."
 
 # game/code/scenes/main_story/sm1ms010.rpy:257
 translate italian sm1ms010_drink_tea_2a94dee0:
 
     # mc "The studio is going to let me do something really amazing with my life. I just know it."
-    mc "The studio is going to let me do something really amazing with my life. I just know it."
+    mc "Lo studio mi permetterà di fare qualcosa di davvero incredibile con la mia vita. Lo so."
 
 # game/code/scenes/main_story/sm1ms010.rpy:260
 translate italian sm1ms010_drink_tea_ba7a3ced:
 
     # arj "But... you can't be sure can you?"
-    arj "But... you can't be sure can you?"
+    arj "Ma... non puoi esserne sicuro, vero?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:263
 translate italian sm1ms010_drink_tea_10a01693:
 
     # mc "Sure about what?"
-    mc "Sure about what?"
+    mc "Sicuro di cosa?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:266
 translate italian sm1ms010_drink_tea_749ec172:
 
     # arj "Sure that it won't get out of hand. What if someone you bring in is crazy or crooked like Lydia or Jerome?"
-    arj "Sure that it won't get out of hand. What if someone you bring in is crazy or crooked like Lydia or Jerome?"
+    arj "Sicuro che non sfuggirà di mano. E se qualcuno che coinvolgi è pazzo o disonesto come Lydia o Jerome?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:270
 translate italian sm1ms010_drink_tea_d18bde2b:
 
     # mc "Stacy and I are being very careful about everything, AmRose."
-    mc "Stacy and I are being very careful about everything, AmRose."
+    mc "Stacy ed io stiamo stando molto attenti a tutto, AmRose."
 
 # game/code/scenes/main_story/sm1ms010.rpy:273
 translate italian sm1ms010_drink_tea_d768196e:
 
     # mc "We're working with good people."
-    mc "We're working with good people."
+    mc "Stiamo lavorando con brave persone."
 
 # game/code/scenes/main_story/sm1ms010.rpy:274
 translate italian sm1ms010_drink_tea_518bfaf8:
 
     # mc "I work with them, I {i}know{/i} them.{w} We're not bringing in random people from off the street."
-    mc "I work with them, I {i}know{/i} them.{w} We're not bringing in random people from off the street."
+    mc "Lavoro con loro, li {i}conosco{/i}.{w} Non stiamo portando dentro persone a caso dalla strada."
 
 # game/code/scenes/main_story/sm1ms010.rpy:278
 translate italian sm1ms010_drink_tea_eceacc52:
 
     # arj "You can be as careful as can be, but bad people can still get by, [mcname]."
-    arj "You can be as careful as can be, but bad people can still get by, [mcname]."
+    arj "Puoi essere attento quanto vuoi, ma le cattive persone possono ancora passare, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:279
 translate italian sm1ms010_drink_tea_6792bf71:
 
     # arj "Even the best code has weaknesses to be exploited."
-    arj "Even the best code has weaknesses to be exploited."
+    arj "Anche il miglior codice ha debolezze da sfruttare."
 
 # game/code/scenes/main_story/sm1ms010.rpy:282
 translate italian sm1ms010_drink_tea_40b02401:
 
     # arj "*sighs*"
-    arj "*sighs*"
+    arj "*sospira*"
 
 # game/code/scenes/main_story/sm1ms010.rpy:283
 translate italian sm1ms010_drink_tea_25b5dcde:
 
     # arj "But... now that I've had time to think about it, I know that you are right."
-    arj "But... now that I've had time to think about it, I know that you are right."
+    arj "Ma... ora che ho avuto tempo di pensarci, so che hai ragione."
 
 # game/code/scenes/main_story/sm1ms010.rpy:287
 translate italian sm1ms010_drink_tea_636c1f89:
 
     # mc "Of course I'm right."
-    mc "Of course I'm right."
+    mc "Certo che ho ragione."
 
 # game/code/scenes/main_story/sm1ms010.rpy:288
 translate italian sm1ms010_drink_tea_4a413bd8:
 
     # mc "Uh... right about what?"
-    mc "Uh... right about what?"
+    mc "Uh... ragione su cosa?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:291
 translate italian sm1ms010_drink_tea_bddd1ea5:
 
     # arj "Right about this being something you can be good at. Something that fits you."
-    arj "Right about this being something you can be good at. Something that fits you."
+    arj "Ragione sul fatto che questo è qualcosa in cui puoi essere bravo. Qualcosa che ti si addice."
 
 # game/code/scenes/main_story/sm1ms010.rpy:295
 translate italian sm1ms010_drink_tea_7db4817d:
 
     # arj "You're not meant for something tedious."
-    arj "You're not meant for something tedious."
+    arj "Non sei fatto per qualcosa di noioso."
 
 # game/code/scenes/main_story/sm1ms010.rpy:296
 translate italian sm1ms010_drink_tea_43979e8e:
 
     # arj "You'd be bored out of your mind with some nine-to-five office job."
-    arj "You'd be bored out of your mind with some nine-to-five office job."
+    arj "Ti annoieresti a morte con un lavoro d'ufficio dalle nove alle cinque."
 
 # game/code/scenes/main_story/sm1ms010.rpy:299
 translate italian sm1ms010_drink_tea_d28fef69:
 
     # mct "Haha. She doesn't even know how right she is."
-    mct "Haha. She doesn't even know how right she is."
+    mct "Haha. Non sa nemmeno quanto ha ragione."
 
 # game/code/scenes/main_story/sm1ms010.rpy:302
 translate italian sm1ms010_drink_tea_5298a88f:
 
     # arj "When you want something. Like {i}really{/i} want something, nothing can stand in your way, [mcname]."
-    arj "When you want something. Like {i}really{/i} want something, nothing can stand in your way, [mcname]."
+    arj "Quando vuoi qualcosa. Quando la vuoi {i}davvero{/i}, niente può fermarti, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:306
 translate italian sm1ms010_drink_tea_bc1523b4:
 
     # arj "Your determination and will to help people, I think those are the parts of you that made me see you as much more than just some guy I knew."
-    arj "Your determination and will to help people, I think those are the parts of you that made me see you as much more than just some guy I knew."
+    arj "La tua determinazione e volontà di aiutare le persone, penso siano le parti di te che mi hanno fatto vederti molto più di un semplice ragazzo che conoscevo."
 
 # game/code/scenes/main_story/sm1ms010.rpy:307
 translate italian sm1ms010_drink_tea_dd071db0:
 
     # arj "They made me see the man I wanted to love."
-    arj "They made me see the man I wanted to love."
+    arj "Mi hanno fatto vedere l'uomo che volevo amare."
 
 # game/code/scenes/main_story/sm1ms010.rpy:308
 translate italian sm1ms010_drink_tea_079b176c:
 
     # arj "And wanted to have love me..."
-    arj "And wanted to have love me..."
+    arj "E che volevo che mi amasse..."
 
 # game/code/scenes/main_story/sm1ms010.rpy:311
 translate italian sm1ms010_drink_tea_79ad5538:
 
     # arj "Most nights, when I'm not exhausted from classes, I just lie awake, thinking that I screwed things up between us."
-    arj "Most nights, when I'm not exhausted from classes, I just lie awake, thinking that I screwed things up between us."
+    arj "La maggior parte delle notti, quando non sono esausta per le lezioni, resto sveglia pensando di aver rovinato tutto tra noi."
 
 # game/code/scenes/main_story/sm1ms010.rpy:312
 translate italian sm1ms010_drink_tea_c84b4167:
 
     # arj "But... there is still something there.{w} Right?"
-    arj "But... there is still something there.{w} Right?"
+    arj "Ma... c'è ancora qualcosa.{w} Vero?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:315
 translate italian sm1ms010_drink_tea_ba94ea31:
 
     # mc "Yes. Of course there is, AmRose."
-    mc "Yes. Of course there is, AmRose."
+    mc "Sì. Certo che c'è, AmRose."
 
 # game/code/scenes/main_story/sm1ms010.rpy:317
 translate italian sm1ms010_drink_tea_4cd44184:
@@ -518,79 +518,79 @@ translate italian sm1ms010_drink_tea_4cd44184:
 translate italian sm1ms010_drink_tea_3aac5496:
 
     # arj "It's been so hard. Being away from you."
-    arj "It's been so hard. Being away from you."
+    arj "È stato così difficile. Stare lontana da te."
 
 # game/code/scenes/main_story/sm1ms010.rpy:334
 translate italian sm1ms010_drink_tea_a6e77ffe:
 
     # arj "*softly* I'm getting tired of it."
-    arj "*softly* I'm getting tired of it."
+    arj "*dolcemente* Mi sto stancando."
 
 # game/code/scenes/main_story/sm1ms010.rpy:337
 translate italian sm1ms010_drink_tea_01beb624:
 
     # arj "*softly* I... I want it to be like this again."
-    arj "*softly* I... I want it to be like this again."
+    arj "*dolcemente* Io... voglio che sia di nuovo così."
 
 # game/code/scenes/main_story/sm1ms010.rpy:355
 translate italian sm1ms010_drink_tea_2f49fd34:
 
     # mc "*sighs*{w} AmRose. I want to, but things have been so crazy lately."
-    mc "*sighs*{w} AmRose. I want to, but things have been so crazy lately."
+    mc "*sospira*{w} AmRose. Vorrei, ma le cose sono state così pazze ultimamente."
 
 # game/code/scenes/main_story/sm1ms010.rpy:356
 translate italian sm1ms010_drink_tea_5279e1d9:
 
     # mc "Stacy and I have been running ourselves ragged, and we can't let our first client down."
-    mc "Stacy and I have been running ourselves ragged, and we can't let our first client down."
+    mc "Stacy ed io ci siamo logorati, e non possiamo deludere il nostro primo cliente."
 
 # game/code/scenes/main_story/sm1ms010.rpy:359
 translate italian sm1ms010_drink_tea_a3e240b9:
 
     # mc "I need to stay focused on... other things."
-    mc "I need to stay focused on... other things."
+    mc "Devo rimanere concentrato su... altre cose."
 
 # game/code/scenes/main_story/sm1ms010.rpy:362
 translate italian sm1ms010_drink_tea_c2319cfa:
 
     # arj "I understand."
-    arj "I understand."
+    arj "Capisco."
 
 # game/code/scenes/main_story/sm1ms010.rpy:365
 translate italian sm1ms010_drink_tea_8139b124:
 
     # mct "She looks so disappointed. I hope she knows that it's just not the right time and not-"
-    mct "She looks so disappointed. I hope she knows that it's just not the right time and not-"
+    mct "Sembra così delusa. Spero che capisca che non è solo il momento giusto e non-"
 
 # game/code/scenes/main_story/sm1ms010.rpy:366
 translate italian sm1ms010_drink_tea_c123cd99:
 
     # mct "Oh damn, I really need to go."
-    mct "Oh damn, I really need to go."
+    mct "Oh cavolo, devo proprio andare."
 
 # game/code/scenes/main_story/sm1ms010.rpy:369
 translate italian sm1ms010_drink_tea_21e17cc6:
 
     # mc "Excuse me."
-    mc "Excuse me."
+    mc "Scusami."
 
 # game/code/scenes/main_story/sm1ms010.rpy:376
 translate italian sm1ms010_drink_tea_d2ecb006:
 
     # arj "(I hope you'll forgive me, [mcname].)"
-    arj "(I hope you'll forgive me, [mcname].)"
+    arj "(Spero che mi perdonerai, [mcname].)"
 
 # game/code/scenes/main_story/sm1ms010.rpy:387
 translate italian sm1ms010_arj_sex_b4847c66:
 
     # arj "*panting* You're making me so wet, [mcname]."
-    arj "*panting* You're making me so wet, [mcname]."
+    arj "*ansimando* Mi stai facendo bagnare così tanto, [mcname]."
 
 # game/code/scenes/main_story/sm1ms010.rpy:390
 translate italian sm1ms010_arj_sex_2d5332ac:
 
     # mc "I'm glad you're done being mad at me. I love hearing you talk dirty like that."
-    mc "I'm glad you're done being mad at me. I love hearing you talk dirty like that."
+    mc "Sono contento che tu abbia finito di essere arrabbiata con me. Mi piace sentirti parlare sporco così."
 
 # game/code/scenes/main_story/sm1ms010.rpy:393
 translate italian sm1ms010_arj_sex_d3f95ea4:
