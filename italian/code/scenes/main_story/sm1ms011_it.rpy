@@ -487,30 +487,29 @@ translate italian sm1ms011_it_continue_af16fc6f:
 translate italian strings:
 
     # game/code/scenes/main_story/sm1ms011_it.rpy:45
-    old "Se lo dici tu"
+    old "If you say so"
     new "Se lo dici tu"
 
     # game/code/scenes/main_story/sm1ms011_it.rpy:94
-    old "Parla di Anna"
+    old "Talk about Anna"
     new "Parla di Anna"
 
     # game/code/scenes/main_story/sm1ms011_it.rpy:94
-    old "Parla di April"
+    old "Talk about April"
     new "Parla di April"
 
     # game/code/scenes/main_story/sm1ms011_it.rpy:141
-    old "Non è stato tutto merito mio"
+    old "It wasn't all me"
     new "Non è stato tutto merito mio"
 
     # game/code/scenes/main_story/sm1ms011_it.rpy:141
-    old "Nessuno ti ha costretto a guardare tutto il mio porno"
+    old "No one made you look at all my porn"
     new "Nessuno ti ha costretto a guardare tutto il mio porno"
 
     # game/code/scenes/main_story/sm1ms011_it.rpy:244
-    old "È super sexy"
+    old "She is super hot"
     new "È super sexy"
 
     # game/code/scenes/main_story/sm1ms011_it.rpy:244
-    old "Vedrò cosa posso fare"
+    old "I'll see what I can do"
     new "Vedrò cosa posso fare"
-
