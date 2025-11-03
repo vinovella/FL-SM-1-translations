@@ -692,5 +692,5 @@ translate italian sm1ms006_ed56daf5:
 translate italian sm1ms006_061f6f43:
 
     # sy "*giggles* Little old me? Distracting? Never."
-    sy "*ridacchia* Piccola me? Distraente? Mai."
+    sy "*ridacchia* Io piccola? Distraente? Mai."
 

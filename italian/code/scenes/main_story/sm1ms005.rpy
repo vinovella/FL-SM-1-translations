@@ -278,7 +278,7 @@ translate italian sm1ms005_sy_sex_52fe1cb8:
 translate italian sm1ms005_sy_sex_96d671f8:
 
     # sy "I thot ewe'd hut up!"
-    sy "Sheravo ce afresti taciuto!"
+    sy "Sheravo che ti faresti zitto!"
 
 # game/code/scenes/main_story/sm1ms005.rpy:247
 translate italian sm1ms005_sy_sex_d11d83c3:

@@ -410,7 +410,7 @@ translate italian sm1ms004_d82b4370:
 translate italian sm1ms004_ac84a9e8:
 
     # mc "No, seriously. I mean, you've been a bit of a jerk, but I'm really glad to see you again."
-    mc "No, seriamente. Voglio dire, sei stata un po' stronza, ma sono davvero felice di rivederti."
+    mc "No, seriamente. Voglio dire, sei stata un po' scontrosa, ma sono davvero felice di rivederti."
 
 # game/code/scenes/main_story/sm1ms004.rpy:193
 translate italian sm1ms004_32d39a52:
