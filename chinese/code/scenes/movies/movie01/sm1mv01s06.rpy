@@ -224,7 +224,7 @@ translate chinese sm1mv01s06_1a24d236:
 translate chinese sm1mv01s06_1d965eb0:
 
     # mc "The threat is over...{w} But just for a moment."
-    mc "威胁暂时解除了……{w}但也只是暂时的。"
+    mc "威胁暂时解除了...{w}但也只是暂时的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:138
 translate chinese sm1mv01s06_59b541b4:
@@ -494,7 +494,7 @@ translate chinese sm1mv01s06_e5e1161c:
 translate chinese sm1mv01s06_7361c072:
 
     # sy "I know. But... at the end of the day, this isn't supposed to be super stressful."
-    sy "我知道。但是…… 说到底，拍这个不该这么有压力的。"
+    sy "我知道。但是...说到底，拍这个不该这么有压力的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:259
 translate chinese sm1mv01s06_4a28659e:
@@ -632,7 +632,7 @@ translate chinese sm1mv01s06_dressed_up_0924bebc:
 translate chinese sm1mv01s06_dressed_up_77d012c0:
 
     # kv "Ah... Impressive."
-    kv "啊…… 真厉害。"
+    kv "啊...真厉害。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:357
 translate chinese sm1mv01s06_dressed_up_b8bfe044:
@@ -686,7 +686,7 @@ translate chinese sm1mv01s06_dressed_up_5c2c7bcf:
 translate chinese sm1mv01s06_dressed_up_b3977f9c:
 
     # mc "And... action!"
-    mc "好…… 开拍！"
+    mc "好...开拍！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:424
 translate chinese sm1mv01s06_movie_start_805b0e97:
@@ -854,439 +854,439 @@ translate chinese sm1mv01s06_movie_start_e770cada:
 translate chinese sm1mv01s06_movie_start_4a22e0d2:
 
     # sy "Unless the enemy has studied his Agrippa-"
-    sy "然而你不知我新练了'离恨天'--"
+    sy "然而如若你的对手新练了'离恨天'--"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:542
 translate chinese sm1mv01s06_movie_start_917bde59:
 
     # "Snip!"
-    "Snip!"
+    "嚓！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:546
 translate chinese sm1mv01s06_movie_start_9ee7ecf6:
 
     # "Woosh!"
-    "Woosh!"
+    "嗖！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:549
 translate chinese sm1mv01s06_movie_start_c7ca39f0:
 
     # mc "Buh?"
-    mc "Buh?"
+    mc "呃？"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:553
 translate chinese sm1mv01s06_movie_start_fc65ed44:
 
     # sy "Which I have."
-    sy "Which I have."
+    sy "我早就学会了这招。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:558
 translate chinese sm1mv01s06_movie_start_41405f9d:
 
     # mc "You haven't changed a bit."
-    mc "You haven't changed a bit."
+    mc "你一点没变啊。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:559
 translate chinese sm1mv01s06_movie_start_b31ac8a2:
 
     # mc "What do you say we open a Spanish Red and talk this over, Tempestra."
-    mc "What do you say we open a Spanish Red and talk this over, Tempestra."
+    mc "风暴海姬，不如我们开一瓶西班牙红酒，坐下来好好谈谈？"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:562
 translate chinese sm1mv01s06_movie_start_938f4fef:
 
     # sy "We were always better at fighting and fucking than talking, Dickhart."
-    sy "We were always better at fighting and fucking than talking, Dickhart."
+    sy "硬汉迪克，我们向来擅长打架和上床，而不是聊天。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:571
 translate chinese sm1mv01s06_movie_start_34454d63:
 
     # sy "I should have killed you at Nassau."
-    sy "I should have killed you at Nassau."
+    sy "我当初在拿骚那个大本营就该杀了你。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:575
 translate chinese sm1mv01s06_movie_start_cd70a39b:
 
     # mc "Ha-huh!"
-    mc "Ha-huh!"
+    mc "哈--呵！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:579
 translate chinese sm1mv01s06_movie_start_49c4632c:
 
     # mc "Aye, you should have."
-    mc "Aye, you should have."
+    mc "是啊，你当初是该那么做。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:583
 translate chinese sm1mv01s06_movie_start_78be417c:
 
     # mc "But you would have robbed yourself of the greatest sex of your life."
-    mc "But you would have robbed yourself of the greatest sex of your life."
+    mc "但那样你就会错失这辈子最棒的性体验了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:587
 translate chinese sm1mv01s06_movie_start_d972131d:
 
     # sy "You bloat your skills, you selfish knave!"
-    sy "You bloat your skills, you selfish knave!"
+    sy "你这个自私的混蛋，太夸大自己了！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:596
 translate chinese sm1mv01s06_movie_start_c9fa2d9d:
 
     # sy "You're not the only one who can spin a deception."
-    sy "You're not the only one who can spin a deception."
+    sy "又不是只有你会耍花招骗人。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:600
 translate chinese sm1mv01s06_movie_start_b19ba0ab:
 
     # mc "Tempestra...{w} You can't mean..."
-    mc "Tempestra...{w} You can't mean..."
+    mc "风暴海姬...{w}你不会是想说..."
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:603
 translate chinese sm1mv01s06_movie_start_26014ceb:
 
     # sy "That's right."
-    sy "That's right."
+    sy "没错。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:604
 translate chinese sm1mv01s06_movie_start_dc0f8c10:
 
     # sy "That night in the governor's mansion."
-    sy "That night in the governor's mansion."
+    sy "就是在总督府的那一晚。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:605
 translate chinese sm1mv01s06_movie_start_cb69866e:
 
     # sy "I WAS FAKING IT!"
-    sy "I WAS FAKING IT!"
+    sy "我全程都是装的！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:608
 translate chinese sm1mv01s06_movie_start_692db8a9:
 
     # mc "Foul harpy!{w} You lie!"
-    mc "Foul harpy!{w} You lie!"
+    mc "恶毒的女人！{w}你在撒谎！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:612
 translate chinese sm1mv01s06_movie_start_7922824f:
 
     # sy "Watch these lips and look for a lie."
-    sy "Watch these lips and look for a lie."
+    sy "看我嘴唇，看看我有没有撒谎。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:617
 translate chinese sm1mv01s06_movie_start_886cb501_1:
 
     # "Clang!"
-    "Clang!"
+    "锵--！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:624
 translate chinese sm1mv01s06_movie_start_5f71acf7:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*咕哝声*"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:628
 translate chinese sm1mv01s06_movie_start_b54fa042:
 
     # mc "Parlay?"
-    mc "Parlay?"
+    mc "休战谈判？"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:631
 translate chinese sm1mv01s06_movie_start_fee6a076:
 
     # sy "Not this time, Dickhart."
-    sy "Not this time, Dickhart."
+    sy "这次可不行，硬汉迪克。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:635
 translate chinese sm1mv01s06_movie_start_aa9a731f:
 
     # tl "Sorry to butt in, but I still need him, my queen."
-    tl "Sorry to butt in, but I still need him, my queen."
+    tl "抱歉打扰了，但女王陛下，我还需要他活着。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:638
 translate chinese sm1mv01s06_movie_start_7735e16c:
 
     # sy "How dare you-"
-    sy "How dare you-"
+    sy "你竟敢--"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:641
 translate chinese sm1mv01s06_movie_start_18267724:
 
     # tl "Heh."
-    tl "Heh."
+    tl "嘿。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:644
 translate chinese sm1mv01s06_movie_start_ee28a758:
 
     # sy "You're mad. You'll kill us all."
-    sy "You're mad. You'll kill us all."
+    sy "你疯了。这样会把我们都害死的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:647
 translate chinese sm1mv01s06_movie_start_6810823c:
 
     # tl "Only if I miss."
-    tl "Only if I miss."
+    tl "只要我没打偏，就不会。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:652
 translate chinese sm1mv01s06_movie_start_b92a0a72:
 
     # mct "The map."
-    mct "The map."
+    mct "地图。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:660
 translate chinese sm1mv01s06_movie_start_f51ff024:
 
     # mct "Got it!"
-    mct "Got it!"
+    mct "拿到了！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:664
 translate chinese sm1mv01s06_movie_start_80904a8a:
 
     # sy "Blackguard!"
-    sy "Blackguard!"
+    sy "你这个恶棍！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:671
 translate chinese sm1mv01s06_movie_start_657fdbe8:
 
     # "BOOM!"
-    "BOOM!"
+    "砰！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:686
 translate chinese sm1mv01s06_movie_start_f69f8651:
 
     # tl "Think she's dead?"
-    tl "Think she's dead?"
+    tl "你觉得她死了吗？"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:689
 translate chinese sm1mv01s06_movie_start_ed2acc53:
 
     # mc "Nay. The sea has spat her back before."
-    mc "Nay. The sea has spat her back before."
+    mc "没有。大海以前就把她送回来过。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:690
 translate chinese sm1mv01s06_movie_start_ee91c02a:
 
     # mc "But at least she's gone for now."
-    mc "But at least she's gone for now."
+    mc "但至少她现在暂时消失了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:693
 translate chinese sm1mv01s06_movie_start_e092685f:
 
     # "Toms" "Captain! the {i}Siren{/i} is breaking off."
-    "Toms" "Captain! the {i}Siren{/i} is breaking off."
+    "托姆斯" "船长！{i}海妖号{/i}正在撤退！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:696
 translate chinese sm1mv01s06_movie_start_570933b8:
 
     # mc "Aye, Mister Toms, and so are we."
-    mc "Aye, Mister Toms, and so are we."
+    mc "好，托姆斯，我们也撤退。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:697
 translate chinese sm1mv01s06_movie_start_c545ad52:
 
     # mc "Find us some wind to fill these sails."
-    mc "Find us some wind to fill these sails."
+    mc "找找风，来鼓满这些帆。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:699
 translate chinese sm1mv01s06_movie_start_3994fea3:
 
     # "Toms" "Aye Captain!"
-    "Toms" "Aye Captain!"
+    "托姆斯" "遵命，船长！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:702
 translate chinese sm1mv01s06_movie_start_4f1f6f43:
 
     # mc "Well, find that treasure in no time, and the Pirate Queen will find us vanished before she ever catches up."
-    mc "Well, find that treasure in no time, and the Pirate Queen will find us vanished before she ever catches up."
+    mc "好了，我们很快就能找到宝藏，等海盗女王追上来的时候，我们早就消失得无影无踪了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:705
 translate chinese sm1mv01s06_movie_start_6958702b:
 
     # tl "Aren't you forgetting something, Captain."
-    tl "Aren't you forgetting something, Captain."
+    tl "船长，你是不是忘了什么东西？"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:708
 translate chinese sm1mv01s06_movie_start_1fe5fc2b:
 
     # mc "I don't think so."
-    mc "I don't think so."
+    mc "我觉得没有。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:711
 translate chinese sm1mv01s06_movie_start_0725b38c:
 
     # tl "My map."
-    tl "My map."
+    tl "我的地图。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:714
 translate chinese sm1mv01s06_movie_start_281cf8d6:
 
     # mc "I'll be holding onto it. Safe keeping."
-    mc "I'll be holding onto it. Safe keeping."
+    mc "地图由我来保管，这样更安全。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:715
 translate chinese sm1mv01s06_movie_start_e7e514e0:
 
     # mc "You already lost it once."
-    mc "You already lost it once."
+    mc "你之前已经把它弄丢过一次了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:718
 translate chinese sm1mv01s06_movie_start_c0f32a1b:
 
     # tl "I just saved your skin."
-    tl "I just saved your skin."
+    tl "我刚才才救了你的命。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:721
 translate chinese sm1mv01s06_movie_start_7831e2de:
 
     # mc "Aye, you did, and I salute you for it."
-    mc "Aye, you did, and I salute you for it."
+    mc "是啊，你确实救了我，我向你致敬。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:722
 translate chinese sm1mv01s06_movie_start_73a497d8:
 
     # mc "But as I am still Captain of the {i}Black Diamond{/i} I'll be holding onto the map."
-    mc "But as I am still Captain of the {i}Black Diamond{/i} I'll be holding onto the map."
+    mc "但我毕竟还是{i}黑钻号{/i}的船长，所以地图得由我来保管。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:723
 translate chinese sm1mv01s06_movie_start_62f2b08a:
 
     # mc "You'll still get your share, no worries there."
-    mc "You'll still get your share, no worries there."
+    mc "你还是能拿到你的那份分成，这点你不用担心。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:727
 translate chinese sm1mv01s06_movie_start_2e1f3bd5:
 
     # tl "I should have let her gut you."
-    tl "I should have let her gut you."
+    tl "我当初就该让她把你开膛破肚。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:733
 translate chinese sm1mv01s06_movie_start_fd3b42a7:
 
     # tl "Perhaps."
-    tl "Perhaps."
+    tl "或许吧。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:734
 translate chinese sm1mv01s06_movie_start_80d953a2:
 
     # tl "Give me back my map and I'll have time to consider it."
-    tl "Give me back my map and I'll have time to consider it."
+    tl "把地图还给我，我才有时间考虑这个问题。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:737
 translate chinese sm1mv01s06_movie_start_5a39e18e:
 
     # mc "Nice try, Miss Searose."
-    mc "Nice try, Miss Searose."
+    mc "海萝小姐，你这招不错啊。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:740
 translate chinese sm1mv01s06_movie_start_e1bcf0f3:
 
     # mc "Now if you'll excuse me, we've got a treasure to find."
-    mc "Now if you'll excuse me, we've got a treasure to find."
+    mc "恕我失陪了，我们还有宝藏要找呢。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:743
 translate chinese sm1mv01s06_movie_start_aeabdab1:
 
     # mc "All hands. Slacken your braces."
-    mc "All hands. Slacken your braces."
+    mc "全体船员听令。松开转帆索。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:747
 translate chinese sm1mv01s06_movie_start_44740036:
 
     # mc "Put some distance between us and those craven dogs."
-    mc "Put some distance between us and those craven dogs."
+    mc "拉开我们和那些胆小鬼之间的距离。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:764
 translate chinese sm1mv01s06_done_recording_5c8f26d5:
 
     # kv "And... cut."
-    kv "And... cut."
+    kv "好...停。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:767
 translate chinese sm1mv01s06_done_recording_0c054906:
 
     # mc "Phew."
-    mc "Phew."
+    mc "呼。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:770
 translate chinese sm1mv01s06_done_recording_42a75306:
 
     # tl "*sighing happily*"
-    tl "*sighing happily*"
+    tl "*满足地叹口气*"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:773
 translate chinese sm1mv01s06_done_recording_e8534f24:
 
     # mc "Sure we don't need to go over the last part again."
-    mc "Sure we don't need to go over the last part again."
+    mc "你们确定最后这段不用再拍一遍吗？"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:776
 translate chinese sm1mv01s06_done_recording_7682c94c:
 
     # sy "No!"
-    sy "No!"
+    sy "不用！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:779
 translate chinese sm1mv01s06_done_recording_167814cd:
 
     # mc "Alright, alright."
-    mc "Alright, alright."
+    mc "好好好。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:780
 translate chinese sm1mv01s06_done_recording_7a497d2a:
 
     # mc "But we really want to get it perfect."
-    mc "But we really want to get it perfect."
+    mc "可我们是真想把它拍得完美。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:787
 translate chinese sm1mv01s06_done_recording_ed33428c:
 
     # sy "[mcname]. I love you."
-    sy "[mcname]. I love you."
+    sy "[mcname]，我爱你。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:788
 translate chinese sm1mv01s06_done_recording_e03d6db5:
 
     # sy "But we did it six times!"
-    sy "But we did it six times!"
+    sy "但我们已经拍了六遍了！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:789
 translate chinese sm1mv01s06_done_recording_eef54969:
 
     # sy "My back hurts and my tits have been stuffed in this corset for hours."
-    sy "My back hurts and my tits have been stuffed in this corset for hours."
+    sy "我的背很疼，而且我的胸被束胸勒了好几个小时了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:792
 translate chinese sm1mv01s06_done_recording_b50a5947:
 
     # tl "I could really use a drink too."
-    tl "I could really use a drink too."
+    tl "我现在也真的很想来一杯酒。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:795
 translate chinese sm1mv01s06_done_recording_436449dd:
 
     # kv "I'm actually in Taisia's boat. It looks great, [mcname]."
-    kv "I'm actually in Taisia's boat. It looks great, [mcname]."
+    kv "我其实跟泰西娅想法一样。[mcname]，拍得真不错。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:796
 translate chinese sm1mv01s06_done_recording_c448b7fe:
 
     # kv "We have plenty of footage to comb through in post."
-    kv "We have plenty of footage to comb through in post."
+    kv "我们有很多素材可以在后期剪辑的时候筛选。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:797
 translate chinese sm1mv01s06_done_recording_a2d05be6:
 
     # kv "But I guarantee you, you'll be using the third take. It was the best."
-    kv "But I guarantee you, you'll be using the third take. It was the best."
+    kv "但我保证，你最后一定会用第三遍的素材，那遍是最好的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:800
 translate chinese sm1mv01s06_done_recording_cb243889:
 
     # mc "The best is not {i}perfect{/i}."
-    mc "The best is not {i}perfect{/i}."
+    mc "最好不等于{i}完美{/i}。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:803
 translate chinese sm1mv01s06_done_recording_f29c7a0a:
 
     # kv "Did I say best? I meant it's perfect."
-    kv "Did I say best? I meant it's perfect."
+    kv "我刚才说‘最好’了吗？我是说那遍很完美。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:805
 translate chinese sm1mv01s06_done_recording_5c2c7bcf:
@@ -1298,335 +1298,335 @@ translate chinese sm1mv01s06_done_recording_5c2c7bcf:
 translate chinese sm1mv01s06_done_recording_1047dd0c:
 
     # mc "Alright, if you guys think we got it."
-    mc "Alright, if you guys think we got it."
+    mc "好吧，既然你们都觉得可以了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:811
 translate chinese sm1mv01s06_done_recording_edfa1ed9:
 
     # tl "We did, [mcname]."
-    tl "We did, [mcname]."
+    tl "我们就是这么认为的，[mcname]。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:817
 translate chinese sm1mv01s06_done_recording_1ebcd936:
 
     # mc "Just because it's porn doesn't mean we should half-ass it."
-    mc "Just because it's porn doesn't mean we should half-ass it."
+    mc "就算这是色情片，我们也不该敷衍了事。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:820
 translate chinese sm1mv01s06_done_recording_3ad87391:
 
     # kv "I didn't say that."
-    kv "I didn't say that."
+    kv "我没说要敷衍。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:824
 translate chinese sm1mv01s06_done_recording_0f499d50:
 
     # sy "Relax, bro."
-    sy "Relax, bro."
+    sy "老哥，放松点。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:826
 translate chinese sm1mv01s06_done_recording_807a78be:
 
     # sy "Take it easy, [mcname]."
-    sy "Take it easy, [mcname]."
+    sy "[mcname]，别那么紧张。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:829
 translate chinese sm1mv01s06_done_recording_7a066592:
 
     # sy "Kanya knows what she is doing."
-    sy "Kanya knows what she is doing."
+    sy "康雅知道自己在做什么。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:832
 translate chinese sm1mv01s06_done_recording_fc78af01:
 
     # mc "You're right. You're right."
-    mc "You're right. You're right."
+    mc "你们说得对，说得对。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:833
 translate chinese sm1mv01s06_done_recording_ec53e3c3:
 
     # mc "Sorry, Kanya."
-    mc "Sorry, Kanya."
+    mc "抱歉，康雅。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:837
 translate chinese sm1mv01s06_done_recording_14b3d112:
 
     # mc "I just really want to make the film rock."
-    mc "I just really want to make the film rock."
+    mc "我只是太想把这部片子拍好了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:838
 translate chinese sm1mv01s06_done_recording_989a7bb5:
 
     # mc "We're putting a lot into this."
-    mc "We're putting a lot into this."
+    mc "我们在这部片子上投入了很多心血。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:841
 translate chinese sm1mv01s06_done_recording_86195b4c:
 
     # sy "I know. It's alright."
-    sy "I know. It's alright."
+    sy "我知道，没关系的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:843
 translate chinese sm1mv01s06_done_recording_e4983e69:
 
     # mc "We just don't want to slip up just because this is our second film."
-    mc "We just don't want to slip up just because this is our second film."
+    mc "我们不能因为这只是我们拍的第二部片子，就出现失误。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:844
 translate chinese sm1mv01s06_done_recording_5c236e55:
 
     # mc "I want to show people that the studio can be depended on for good stuff."
-    mc "I want to show people that the studio can be depended on for good stuff."
+    mc "我想让观众知道，我们这个工作室出品的内容，质量是值得信赖的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:847
 translate chinese sm1mv01s06_done_recording_71957e2f:
 
     # sy "They will."
-    sy "They will."
+    sy "他们会知道的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:850
 translate chinese sm1mv01s06_done_recording_d91458f0:
 
     # mc "Phew..."
-    mc "Phew..."
+    mc "呼..."
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:854
 translate chinese sm1mv01s06_done_recording_5a3765d8:
 
     # mc "Oh shit."
-    mc "Oh shit."
+    mc "哦该死。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:857
 translate chinese sm1mv01s06_done_recording_0f7d25c2:
 
     # mc "Heh. It really is late."
-    mc "Heh. It really is late."
+    mc "嘿。真的已经很晚了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:860
 translate chinese sm1mv01s06_done_recording_25e7ab0c:
 
     # mc "Thank you both for all your hard work today."
-    mc "Thank you both for all your hard work today."
+    mc "谢谢你们俩今天这么辛苦地工作。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:861
 translate chinese sm1mv01s06_done_recording_6df6c00b:
 
     # mc "This was definitely the big kahuna."
-    mc "This was definitely the big kahuna."
+    mc "今天这可真是场硬仗。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:865
 translate chinese sm1mv01s06_done_recording_96f56c93:
 
     # kv "Don't mention it."
-    kv "Don't mention it."
+    kv "别客气。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:868
 translate chinese sm1mv01s06_done_recording_48985a19:
 
     # tl "Does that mean we get paid double?"
-    tl "Does that mean we get paid double?"
+    tl "那是不是意味着我们能拿双倍报酬啊？"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:871
 translate chinese sm1mv01s06_done_recording_94112e5e:
 
     # kv "Taisia."
-    kv "Taisia."
+    kv "泰西娅。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:874
 translate chinese sm1mv01s06_done_recording_625096cb:
 
     # tl "What? I was just curious."
-    tl "What? I was just curious."
+    tl "怎么了？我就是好奇而已。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:877
 translate chinese sm1mv01s06_done_recording_9a69b94e:
 
     # tl "See you guys later. I need to get out of this hot costume."
-    tl "See you guys later. I need to get out of this hot costume."
+    tl "大家回头见。我得把这身又热又闷的衣服换掉。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:880
 translate chinese sm1mv01s06_done_recording_e3840fa3:
 
     # sy "Make sure to hang it up."
-    sy "Make sure to hang it up."
+    sy "记得把衣服挂好。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:883
 translate chinese sm1mv01s06_done_recording_9adc31bf:
 
     # tl "I'll think about it."
-    tl "I'll think about it."
+    tl "我会考虑的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:887
 translate chinese sm1mv01s06_done_recording_f8e647b9:
 
     # kv "I started importing everything from the camera to the laptop."
-    kv "I started importing everything from the camera to the laptop."
+    kv "我已经开始把相机里的所有素材导入笔记本电脑了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:888
 translate chinese sm1mv01s06_done_recording_31f081b9:
 
     # kv "I can't wait to see how it turns out."
-    kv "I can't wait to see how it turns out."
+    kv "等不及想看看最终效果了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:891
 translate chinese sm1mv01s06_done_recording_a2b4c501:
 
     # mc "Same."
-    mc "Same."
+    mc "我也是。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:895
 translate chinese sm1mv01s06_done_recording_c0dac36a:
 
     # mc "Until next time, Kanya."
-    mc "Until next time, Kanya."
+    mc "康雅，下次见。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:897
 translate chinese sm1mv01s06_done_recording_53cc4e63:
 
     # kv "Later."
-    kv "Later."
+    kv "回头见。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:902
 translate chinese sm1mv01s06_done_recording_dcd7dca6:
 
     # mc "Woooh. That was a long day."
-    mc "Woooh. That was a long day."
+    mc "哇哦。今天可真够长的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:905
 translate chinese sm1mv01s06_done_recording_1ab4e5d5:
 
     # sy "I don't know how normal porn stars do it."
-    sy "I don't know how normal porn stars do it."
+    sy "我真不知道那些正规的色情片演员是怎么扛过来的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:912
 translate chinese sm1mv01s06_done_recording_ce766102:
 
     # mc "Mmm."
-    mc "Mmm."
+    mc "嗯。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:915
 translate chinese sm1mv01s06_done_recording_66c23cd4:
 
     # sy "What was that for?"
-    sy "What was that for?"
+    sy "你刚才那是什么意思？"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:918
 translate chinese sm1mv01s06_done_recording_b13a4657:
 
     # mc "I was getting bent out of shape and you helped me out."
-    mc "I was getting bent out of shape and you helped me out."
+    mc "我之前都快绷不住了，是你帮我缓和过来的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:922
 translate chinese sm1mv01s06_done_recording_ea1b1f93:
 
     # mc "I owe you one, sis."
-    mc "I owe you one, sis."
+    mc "老妹，我欠你个人情。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:926
 translate chinese sm1mv01s06_done_recording_6eb675ec:
 
     # sy "You don't owe me anything, bro."
-    sy "You don't owe me anything, bro."
+    sy "你不欠我任何东西，哥哥。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:928
 translate chinese sm1mv01s06_done_recording_742b4216:
 
     # mc "I owe you one, Stacy."
-    mc "I owe you one, Stacy."
+    mc "史黛西，我欠你个人情。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:932
 translate chinese sm1mv01s06_done_recording_5dec8574:
 
     # sy "You don't owe me anything, [mcname]."
-    sy "You don't owe me anything, [mcname]."
+    sy "你不欠我任何东西，[mcname]。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:933
 translate chinese sm1mv01s06_done_recording_dfd24936:
 
     # sy "But now that I think of it, I {i}could{/i} use a new swimsuit."
-    sy "But now that I think of it, I {i}could{/i} use a new swimsuit."
+    sy "不过现在想想，我倒是{i}真的{/i}需要一件新泳衣。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:936
 translate chinese sm1mv01s06_done_recording_cfcc7b53:
 
     # mc "Consider it done."
-    mc "Consider it done."
+    mc "包在我身上。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:940
 translate chinese sm1mv01s06_done_recording_753c8d5c:
 
     # sy "I'm sure there will be more days like this. We know that."
-    sy "I'm sure there will be more days like this. We know that."
+    sy "我们都知道，以后肯定还会有很多这样忙碌的日子。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:941
 translate chinese sm1mv01s06_done_recording_1c8788bb:
 
     # sy "But we also know that we're in this together."
-    sy "But we also know that we're in this together."
+    sy "但我们也知道，我们会一起扛过去。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:943
 translate chinese sm1mv01s06_done_recording_0c9a21a9:
 
     # sy "In some ways this feels harder than the first film."
-    sy "In some ways this feels harder than the first film."
+    sy "从某些方面来说，这次比拍第一部片子还难。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:944
 translate chinese sm1mv01s06_done_recording_46da9a48:
 
     # sy "But I know that we'll make it through."
-    sy "But I know that we'll make it through."
+    sy "但我知道，我们一定能撑过去。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:945
 translate chinese sm1mv01s06_done_recording_10b09c04:
 
     # sy "Because we're in this together."
-    sy "Because we're in this together."
+    sy "因为我们永远在一起。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:949
 translate chinese sm1mv01s06_done_recording_bea20bc2:
 
     # sy "And if we're together, nothing is off the table."
-    sy "And if we're together, nothing is off the table."
+    sy "只要我们在一起，就没有解决不了的事。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:952
 translate chinese sm1mv01s06_done_recording_28ba79cd:
 
     # mc "That's right."
-    mc "That's right."
+    mc "说得对。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:956
 translate chinese sm1mv01s06_done_recording_4fd5125d:
 
     # mc "I'm going to go take off my costume and probably get some rest."
-    mc "I'm going to go take off my costume and probably get some rest."
+    mc "我要去把衣服换掉，可能还要休息一会儿。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:959
 translate chinese sm1mv01s06_done_recording_fee68499:
 
     # sy "Haha. Okay."
-    sy "Haha. Okay."
+    sy "哈哈。好的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:960
 translate chinese sm1mv01s06_done_recording_f418932d:
 
     # sy "Maybe tonight we should cuddle up."
-    sy "Maybe tonight we should cuddle up."
+    sy "或许今晚我们可以抱着睡。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:963
 translate chinese sm1mv01s06_done_recording_d45da490:
 
     # mc "I'd like that."
-    mc "I'd like that."
+    mc "我很乐意。"
 
 translate chinese strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s06.rpy:232
     old "I wish everyone were more focused"
-    new "I wish everyone were more focused"
+    new "真希望大家能更专心一点"
 
     # game/code/scenes/movies/movie01/sm1mv01s06.rpy:232
     old "It is a lot to handle, but we're doing good"
-    new "It is a lot to handle, but we're doing good"
+    new "拍摄确实很费心力，但我们做得还不错"
 
     # game/code/scenes/movies/movie01/sm1mv01s06.rpy:394
     old "On the high seas"
@@ -1636,11 +1636,11 @@ translate chinese strings:
 translate chinese sm1mv01s06_movie_start_bb856909:
 
     # mc "Come now, you'd be missing my devilishly good looks now, wouldn't you?"
-    mc "Come now, you'd be missing my devilishly good looks now, wouldn't you?"
+    mc "别这样嘛，我要真死了，你肯定会想念我这帅气的模样，不是吗？"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:814
 translate chinese sm1mv01s06_done_recording_659dcc56:
 
     # kv "I admire your fervor, but let's not forget what we're making."
-    kv "I admire your fervor, but let's not forget what we're making."
+    kv "我很欣赏你的热情，但别忘了我们拍的是什么类型的片子。"
 
