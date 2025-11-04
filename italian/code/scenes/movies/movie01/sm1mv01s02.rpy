@@ -896,91 +896,91 @@ translate italian sm1mv01s02_later_ff1d6afb:
 translate italian sm1mv01s02_later_e68144c3:
 
     # mc "We want it to be unified."
-    mc "We want it to be unified."
+    mc "Vogliamo che sia unificato."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:466
 translate italian sm1mv01s02_later_ea3a10e7:
 
     # sy "Yeah. One vision."
-    sy "Yeah. One vision."
+    sy "Sì. Un'unica visione."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:470
 translate italian sm1mv01s02_later_ee8d15c3:
 
     # kv "I appreciate that."
-    kv "I appreciate that."
+    kv "Lo apprezzo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:471
 translate italian sm1mv01s02_later_2a675638:
 
     # kv "But usually the vision of a movie is just the director's."
-    kv "But usually the vision of a movie is just the director's."
+    kv "Ma di solito la visione di un film è solo del regista."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:474
 translate italian sm1mv01s02_later_66c38d3b:
 
     # mc "Well, we can do it our way."
-    mc "Well, we can do it our way."
+    mc "Beh, possiamo farlo a modo nostro."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:477
 translate italian sm1mv01s02_later_f64e9b7f:
 
     # sy "Exactly."
-    sy "Exactly."
+    sy "Esattamente."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:478
 translate italian sm1mv01s02_later_a0a65616:
 
     # sy "Our money."
-    sy "Our money."
+    sy "I nostri soldi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:480
 translate italian sm1mv01s02_later_cd6473ea:
 
     # mc "Our movie."
-    mc "Our movie."
+    mc "Il nostro film."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:483
 translate italian sm1mv01s02_later_6bb55cd8:
 
     # kv "Okay. I don't get the good of bringing in our skeletal friend, but I am willing to see how it goes."
-    kv "Okay. I don't get the good of bringing in our skeletal friend, but I am willing to see how it goes."
+    kv "Ok. Non capisco il vantaggio di portare il nostro amico scheletrico, ma sono disposta a vedere come va."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:484
 translate italian sm1mv01s02_later_38caa5dc:
 
     # kv "I'm on board."
-    kv "I'm on board."
+    kv "Sono a bordo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:487
 translate italian sm1mv01s02_later_ebe29f13:
 
     # sy "Yay! Thank you, Kanya."
-    sy "Yay! Thank you, Kanya."
+    sy "Evviva! Grazie, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:490
 translate italian sm1mv01s02_later_331e8617:
 
     # sy "Now that that's out of the way, what do you think of my outfit, [mcname]?"
-    sy "Now that that's out of the way, what do you think of my outfit, [mcname]?"
+    sy "Ora che abbiamo risolto questo, cosa pensi del mio costume, [mcname]?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:496
 translate italian sm1mv01s02_later_7bcb8b91:
 
     # mc "I think it's very hot."
-    mc "I think it's very hot."
+    mc "Penso che sia molto sexy."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:499
 translate italian sm1mv01s02_later_4fe4d74b:
 
     # sy "Really?"
-    sy "Really?"
+    sy "Davvero?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:502
 translate italian sm1mv01s02_later_d98b0ef3:
 
     # mc "Yeah. I'd swab your deck any day."
-    mc "Yeah. I'd swab your deck any day."
+    mc "Sì. Ti laverei il ponte ogni giorno."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:504
 translate italian sm1mv01s02_later_8218548c:
@@ -992,37 +992,37 @@ translate italian sm1mv01s02_later_8218548c:
 translate italian sm1mv01s02_later_1e8e7e72:
 
     # mc "I think it's the perfect outfit for a pirate queen."
-    mc "I think it's the perfect outfit for a pirate queen."
+    mc "Penso che sia il costume perfetto per una regina pirata."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:511
 translate italian sm1mv01s02_later_e1b71c15:
 
     # sy "Awesome."
-    sy "Awesome."
+    sy "Fantastico."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:515
 translate italian sm1mv01s02_later_6aba708b:
 
     # sy "Now be a good boy and try on your outfit."
-    sy "Now be a good boy and try on your outfit."
+    sy "Ora sii un bravo ragazzo e prova il tuo costume."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:516
 translate italian sm1mv01s02_later_304eba17:
 
     # sy "I'll inspect Kanya's."
-    sy "I'll inspect Kanya's."
+    sy "Io ispezionerò quello di Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:519
 translate italian sm1mv01s02_later_64e9d282:
 
     # kv "Only inspection? {w}Boo."
-    kv "Only inspection? {w}Boo."
+    kv "Solo ispezione? {w}Buu."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:532
 translate italian sm1mv01s02_later_f60e7509:
 
     # mc "How do I look?"
-    mc "How do I look?"
+    mc "Come sto?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:535
 translate italian sm1mv01s02_later_59e7b700:
@@ -1034,139 +1034,139 @@ translate italian sm1mv01s02_later_59e7b700:
 translate italian sm1mv01s02_later_d883f784:
 
     # kv "The clothes really {b}make{/b} the man."
-    kv "The clothes really {b}make{/b} the man."
+    kv "I vestiti davvero {b}fanno{/b} l'uomo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:539
 translate italian sm1mv01s02_later_98a85d68:
 
     # kv "Looking like that, I can almost forget that you're a hard-working horndog."
-    kv "Looking like that, I can almost forget that you're a hard-working horndog."
+    kv "Vestito così, posso quasi dimenticare che sei un pervertito lavoratore."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:542
 translate italian sm1mv01s02_later_dd9bfd9a:
 
     # mc "And don't you forget it."
-    mc "And don't you forget it."
+    mc "E non dimenticartelo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:545
 translate italian sm1mv01s02_later_87de1bac:
 
     # kv "I like that they're tight but flexible."
-    kv "I like that they're tight but flexible."
+    kv "Mi piace che siano aderenti ma flessibili."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:548
 translate italian sm1mv01s02_later_119b2dec:
 
     # sy "Do you mean you mean sexy but breathable?"
-    sy "Do you mean you mean sexy but breathable?"
+    sy "Intendi dire sexy ma traspiranti?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:551
 translate italian sm1mv01s02_later_5475a4de:
 
     # kv "You could say that."
-    kv "You could say that."
+    kv "Potresti dirlo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:554
 translate italian sm1mv01s02_later_9fd7949f:
 
     # sy "Cool. Looks like we have everything."
-    sy "Cool. Looks like we have everything."
+    sy "Figo. Sembra che abbiamo tutto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:555
 translate italian sm1mv01s02_later_05c53aef:
 
     # sy "Everyone get back into your normal clothes and we'll buy everything we need."
-    sy "Everyone get back into your normal clothes and we'll buy everything we need."
+    sy "Tutti rivestiti con i vostri vestiti normali e compreremo tutto ciò di cui abbiamo bisogno."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:559
 translate italian sm1mv01s02_later_9cdb2270:
 
     # mc "Aren't you forgetting something, dear sister?"
-    mc "Aren't you forgetting something, dear sister?"
+    mc "Non ti stai dimenticando qualcosa, cara sorella?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:561
 translate italian sm1mv01s02_later_548357a2:
 
     # mc "Aren't you forgetting something, Stacy?"
-    mc "Aren't you forgetting something, Stacy?"
+    mc "Non ti stai dimenticando qualcosa, Stacy?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:563
 translate italian sm1mv01s02_later_652090e3:
 
     # sy "I don't think so."
-    sy "I don't think so."
+    sy "Non credo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:564
 translate italian sm1mv01s02_later_e9199ac6:
 
     # mc "We haven't {b}tested{/b} the costumes for sex yet."
-    mc "We haven't {b}tested{/b} the costumes for sex yet."
+    mc "Non abbiamo ancora {b}testato{/b} i costumi per il sesso."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:567
 translate italian sm1mv01s02_later_82a705c4:
 
     # kv "Wait. What?"
-    kv "Wait. What?"
+    kv "Aspetta. Cosa?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:572
 translate italian sm1mv01s02_later_7b4d5a36:
 
     # sy "YES."
-    sy "YES."
+    sy "SÌ."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:579
 translate italian sm1mv01s02_later_3f0c4f35:
 
     # kv "Guys... this is a sex shop, not the photo dojo."
-    kv "Guys... this is a sex shop, not the photo dojo."
+    kv "Ragazzi... questo è un sexy shop, non il dojo fotografico."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:580
 translate italian sm1mv01s02_later_b069b9fb:
 
     # kv "They probably have cameras in the dressing rooms."
-    kv "They probably have cameras in the dressing rooms."
+    kv "Probabilmente hanno telecamere nei camerini."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:581
 translate italian sm1mv01s02_later_60d467bc:
 
     # kv "And you know{w}... rules against this sort of thing."
-    kv "And you know{w}... rules against this sort of thing."
+    kv "E sapete{w}... regole contro questo genere di cose."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:585
 translate italian sm1mv01s02_later_706d9a7c:
 
     # mc "We'll be quick. Think of it as... field testing."
-    mc "We'll be quick. Think of it as... field testing."
+    mc "Saremo veloci. Pensala come... test sul campo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:588
 translate italian sm1mv01s02_later_5ed1b1fa:
 
     # kv "Oh, good."
-    kv "Oh, good."
+    kv "Oh, bene."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:589
 translate italian sm1mv01s02_later_abdb19ef:
 
     # kv "It's okay, officer. It wasn't public indecency.{w} It was field testing."
-    kv "It's okay, officer. It wasn't public indecency.{w} It was field testing."
+    kv "Va tutto bene, agente. Non era atti osceni in luogo pubblico.{w} Era un test sul campo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:592
 translate italian sm1mv01s02_later_1c8ea3ba:
 
     # sy "That's a good point, Kanya."
-    sy "That's a good point, Kanya."
+    sy "È un buon punto, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:593
 translate italian sm1mv01s02_later_a87b0df4:
 
     # sy "But right now, you just have to ask yourself one question."
-    sy "But right now, you just have to ask yourself one question."
+    sy "Ma adesso, devi solo farti una domanda."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:594
 translate italian sm1mv01s02_later_8b53b95d:
 
     # sy "Do you feel horny, punk?"
-    sy "Do you feel horny, punk?"
+    sy "Ti senti arrapata, punk?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:596
 translate italian sm1mv01s02_later_7f06eb4b:
@@ -1178,13 +1178,13 @@ translate italian sm1mv01s02_later_7f06eb4b:
 translate italian sm1mv01s02_later_5892df35:
 
     # sy "Well, do yah?"
-    sy "Well, do yah?"
+    sy "Allora, lo sei?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:600
 translate italian sm1mv01s02_later_36b38310:
 
     # kv "You two are a bad influence."
-    kv "You two are a bad influence."
+    kv "Voi due siete una cattiva influenza."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:604
 translate italian sm1mv01s02_later_faa03e1a:
@@ -1202,55 +1202,55 @@ translate italian sm1mv01s02_later_e99bf7e5:
 translate italian sm1mv01s02_later_59cd2960:
 
     # sy "Well, we can already see that the pants can come off easily."
-    sy "Well, we can already see that the pants can come off easily."
+    sy "Beh, possiamo già vedere che i pantaloni si tolgono facilmente."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:615
 translate italian sm1mv01s02_later_878c94bd:
 
     # sy "That's very useful to know."
-    sy "That's very useful to know."
+    sy "È molto utile saperlo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:619
 translate italian sm1mv01s02_later_5d805495:
 
     # sy "And it doesn't seem like it restricts normal bloodflow."
-    sy "And it doesn't seem like it restricts normal bloodflow."
+    sy "E non sembra che limiti il flusso sanguigno normale."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:620
 translate italian sm1mv01s02_later_2b22ff9d:
 
     # sy "Very important. Wouldn't you agree, Kanya?"
-    sy "Very important. Wouldn't you agree, Kanya?"
+    sy "Molto importante. Non sei d'accordo, Kanya?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:623
 translate italian sm1mv01s02_later_6dec30ed:
 
     # kv "I suppose."
-    kv "I suppose."
+    kv "Suppongo di sì."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:624
 translate italian sm1mv01s02_later_707b01fa:
 
     # kv "But you need to go further, Stacy."
-    kv "But you need to go further, Stacy."
+    kv "Ma devi spingerti oltre, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:625
 translate italian sm1mv01s02_later_c1a73d3e:
 
     # kv "Make sure you can suck cock with that hat on."
-    kv "Make sure you can suck cock with that hat on."
+    kv "Assicurati di poter succhiare il cazzo con quel cappello addosso."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:628
 translate italian sm1mv01s02_later_b81148b4:
 
     # sy "Smart."
-    sy "Smart."
+    sy "Intelligente."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:629
 translate italian sm1mv01s02_later_1244a61e:
 
     # sy "It will be hard, but I love a challenge."
-    sy "It will be hard, but I love a challenge."
+    sy "Sarà duro, ma adoro le sfide."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:639
 translate italian sm1mv01s02_later_0e09b362:
@@ -1268,7 +1268,7 @@ translate italian sm1mv01s02_later_2474ec75:
 translate italian sm1mv01s02_later_7a478400:
 
     # mc "Ahuah... good girl, Stacy."
-    mc "Ahuah... good girl, Stacy."
+    mc "Ahuah... brava ragazza, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:644
 translate italian sm1mv01s02_later_13597c08:
@@ -1280,13 +1280,13 @@ translate italian sm1mv01s02_later_13597c08:
 translate italian sm1mv01s02_later_d83ed11e:
 
     # kv "Looks the costume passes the horny test with flying colors."
-    kv "Looks the costume passes the horny test with flying colors."
+    kv "Sembra che il costume superi il test dell'eccitazione a pieni voti."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:648
 translate italian sm1mv01s02_later_4d2a3293:
 
     # mc "*soft moaning* And then some."
-    mc "*soft moaning* And then some."
+    mc "*gemiti lievi* E anche più che bene."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:651
 translate italian sm1mv01s02_later_3e1a0f62:
@@ -1298,43 +1298,43 @@ translate italian sm1mv01s02_later_3e1a0f62:
 translate italian sm1mv01s02_later_bb714860:
 
     # kv "Oh we're so doomed. *chuckles*"
-    kv "Oh we're so doomed. *chuckles*"
+    kv "Oh siamo così spacciati. *risatine*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:656
 translate italian sm1mv01s02_later_7072cd51:
 
     # kv "Just think, soon Stacy might go full method acting as the Pirate Queen."
-    kv "Just think, soon Stacy might go full method acting as the Pirate Queen."
+    kv "Pensa solo, presto Stacy potrebbe fare totale metodo recitativo come Regina Pirata."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:658
 translate italian sm1mv01s02_later_9cb4a265:
 
     # kv "We'll have to watch out for that."
-    kv "We'll have to watch out for that."
+    kv "Dovremo stare attenti a quello."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:659
 translate italian sm1mv01s02_later_673b8cbf:
 
     # mc "Haha. *moans* As long as she keeps doing what she's going, my Queen can give me any order."
-    mc "Haha. *moans* As long as she keeps doing what she's going, my Queen can give me any order."
+    mc "Haha. *geme* Finché continua a fare quello che sta facendo, la mia Regina può darmi qualsiasi ordine."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:665
 translate italian sm1mv01s02_later_077a6c24:
 
     # sy "*gasping* I want you to fuck me..."
-    sy "*gasping* I want you to fuck me..."
+    sy "*ansimando* Voglio che tu mi scopi..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:666
 translate italian sm1mv01s02_later_24cb088c:
 
     # sy "Right inside this dressing room."
-    sy "Right inside this dressing room."
+    sy "Proprio dentro questo camerino."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:669
 translate italian sm1mv01s02_later_8f99e740:
 
     # mc "I will, Stacy. But first, I think Kanya needs some attention."
-    mc "I will, Stacy. But first, I think Kanya needs some attention."
+    mc "Lo farò, Stacy. Ma prima, penso che Kanya abbia bisogno di un po' di attenzione."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:679
 translate italian sm1mv01s02_later_605948e7:
@@ -1364,7 +1364,7 @@ translate italian sm1mv01s02_later_13d0470b:
 translate italian sm1mv01s02_later_0959e915:
 
     # sy "Very nice."
-    sy "Very nice."
+    sy "Molto bene."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:691
 translate italian sm1mv01s02_later_77031b5d:
@@ -1388,13 +1388,13 @@ translate italian sm1mv01s02_later_ea518f4f:
 translate italian sm1mv01s02_later_b94f56cb:
 
     # sy "Keep going, [mcname]."
-    sy "Keep going, [mcname]."
+    sy "Continua, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:707
 translate italian sm1mv01s02_later_76a298ea:
 
     # sy "Make her cum... right in front of me."
-    sy "Make her cum... right in front of me."
+    sy "Falla venire... proprio davanti a me."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:715
 translate italian sm1mv01s02_later_bdaede7c:
@@ -1412,91 +1412,91 @@ translate italian sm1mv01s02_later_5c1984cd:
 translate italian sm1mv01s02_later_cd7efae9:
 
     # kv "Your fingers seem extra kinky today, Captain."
-    kv "Your fingers seem extra kinky today, Captain."
+    kv "Le tue dita sembrano particolarmente perverse oggi, Capitano."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:726
 translate italian sm1mv01s02_later_e269fc32:
 
     # mc "Thank you, Kanya..."
-    mc "Thank you, Kanya..."
+    mc "Grazie, Kanya..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:728
 translate italian sm1mv01s02_later_d3ba89d8:
 
     # sy "Captain. The Pirate Queen needs a moment of your time..."
-    sy "Captain. The Pirate Queen needs a moment of your time..."
+    sy "Capitano. La Regina Pirata ha bisogno di un momento del tuo tempo..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:731
 translate italian sm1mv01s02_later_b98f163a:
 
     # mc "Just as minute?"
-    mc "Just as minute?"
+    mc "Solo un minuto?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:734
 translate italian sm1mv01s02_later_5911a183:
 
     # sy "Okay...{w} as long as it takes..."
-    sy "Okay...{w} as long as it takes..."
+    sy "Ok...{w} quanto ci vuole..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:735
 translate italian sm1mv01s02_later_8d27aa77:
 
     # sy "Now please put your cock inside my cove."
-    sy "Now please put your cock inside my cove."
+    sy "Ora per favore metti il tuo cazzo dentro la mia baia."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:737
 translate italian sm1mv01s02_later_42485e58:
 
     # mc "The cannon is ready, my queen."
-    mc "The cannon is ready, my queen."
+    mc "Il cannone è pronto, mia regina."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:748
 translate italian sm1mv01s02_later_efebd025:
 
     # sy "Oh god."
-    sy "Oh god."
+    sy "Oh dio."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
 translate italian sm1mv01s02_later_72fa2eae:
 
     # mc "Heh. The Pirate Queen has a very wet weak spot."
-    mc "Heh. The Pirate Queen has a very wet weak spot."
+    mc "Heh. La Regina Pirata ha un punto debole molto bagnato."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:750
 translate italian sm1mv01s02_later_063a8ccb:
 
     # sy "Shuddup... *moans wildly*"
-    sy "Shuddup... *moans wildly*"
+    sy "Stai zitto... *geme selvaggiamente*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:753
 translate italian sm1mv01s02_later_c800bdff:
 
     # sy "*moaning* Oh, that's so good."
-    sy "*moaning* Oh, that's so good."
+    sy "*gemendo* Oh, è così bello."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:754
 translate italian sm1mv01s02_later_547407b9:
 
     # sy "Fucking in costumes is so much fun."
-    sy "Fucking in costumes is so much fun."
+    sy "Scopare in costume è così divertente."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:757
 translate italian sm1mv01s02_later_bc14aa04:
 
     # kv "It really is. I always get super horny when I'm wearing a mask."
-    kv "It really is. I always get super horny when I'm wearing a mask."
+    kv "Lo è davvero. Mi eccito sempre tantissimo quando indosso una maschera."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:758
 translate italian sm1mv01s02_later_e26ef220:
 
     # kv "That... anonymity as someone you don't know fucks you..."
-    kv "That... anonymity as someone you don't know fucks you..."
+    kv "Quell'... anonimato mentre qualcuno che non conosci ti scopa..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:759
 translate italian sm1mv01s02_later_315b0dc3:
 
     # kv "Oh, it feels so good."
-    kv "Oh, it feels so good."
+    kv "Oh, è così bello."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:762
 translate italian sm1mv01s02_later_658872c7:
@@ -1508,19 +1508,19 @@ translate italian sm1mv01s02_later_658872c7:
 translate italian sm1mv01s02_later_c0564d68:
 
     # mc "Reminds me of my early Fetish Locator parties."
-    mc "Reminds me of my early Fetish Locator parties."
+    mc "Mi ricorda le mie prime feste di Fetish Locator."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:767
 translate italian sm1mv01s02_later_aba8bc8d:
 
     # mc "So fucking hot."
-    mc "So fucking hot."
+    mc "Così fottutamente eccitante."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:769
 translate italian sm1mv01s02_later_7bf1f8b2:
 
     # sy "Muaha... fuahah... We should do a Fetish Locator Movie."
-    sy "Muaha... fuahah... We should do a Fetish Locator Movie."
+    sy "Muaha... fuahah... Dovremmo fare un film di Fetish Locator."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:770
 translate italian sm1mv01s02_later_bb9b7392:
