@@ -446,7 +446,7 @@ translate chinese sm1mv01s06_d86aa779:
 translate chinese sm1mv01s06_4806d502:
 
     # mc "I'll feel better if we ran into less problems."
-    mc ""要是我们能少碰见点麻烦，我可能会感觉好点。"
+    mc "要是我们能少碰见点麻烦，我可能会感觉好点。"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:239
 translate chinese sm1mv01s06_329ef88d:
