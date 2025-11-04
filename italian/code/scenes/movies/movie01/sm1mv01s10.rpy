@@ -2,37 +2,37 @@
 translate italian sm1mv01s10_1bcd907f:
 
     # kv "Man, today was a looooong day."
-    kv "Man, today was a looooong day."
+    kv "Cavolo, oggi è stata una giornata lunghissssssima."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:18
 translate italian sm1mv01s10_4365132e:
 
     # tl "You're telling me."
-    tl "You're telling me."
+    tl "Dillo a me."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:19
 translate italian sm1mv01s10_d2f14915:
 
     # tl "[mcname] gave me one hell of an ass pounding today."
-    tl "[mcname] gave me one hell of an ass pounding today."
+    tl "[mcname] mi ha dato una bella scopata nel culo oggi."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:21
 translate italian sm1mv01s10_3b3b1443:
 
     # kv "Oh, I know."
-    kv "Oh, I know."
+    kv "Oh, lo so."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:25
 translate italian sm1mv01s10_8dcf2cf0:
 
     # kv "And it was super fucking hot."
-    kv "And it was super fucking hot."
+    kv "Ed era dannatamente eccitante."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:28
 translate italian sm1mv01s10_ff4303f8:
 
     # tl "How are you holding up, Stacy?"
-    tl "How are you holding up, Stacy?"
+    tl "Come te la cavi, Stacy?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:30
 translate italian sm1mv01s10_668b68e4:
@@ -44,79 +44,79 @@ translate italian sm1mv01s10_668b68e4:
 translate italian sm1mv01s10_71673384:
 
     # mc "You okay, little sis?"
-    mc "You okay, little sis?"
+    mc "Stai bene, sorellina?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:36
 translate italian sm1mv01s10_cc3939a7:
 
     # mc "You okay, Stacy?"
-    mc "You okay, Stacy?"
+    mc "Stai bene, Stacy?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:38
 translate italian sm1mv01s10_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "Eh?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:41
 translate italian sm1mv01s10_71699bec:
 
     # sy "Oh, uhhh, yeah. Everything is good."
-    sy "Oh, uhhh, yeah. Everything is good."
+    sy "Oh, uhhh, sì. Tutto a posto."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:43
 translate italian sm1mv01s10_1fb0b47d:
 
     # tl "It doesn't sound like everything is good."
-    tl "It doesn't sound like everything is good."
+    tl "Non sembra che tutto sia a posto."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:46
 translate italian sm1mv01s10_07919738:
 
     # sy "No it is, it's just..."
-    sy "No it is, it's just..."
+    sy "No lo è, è solo..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:49
 translate italian sm1mv01s10_c41592eb:
 
     # kv "Transferring data is nerve racking, isn't it?"
-    kv "Transferring data is nerve racking, isn't it?"
+    kv "Trasferire i dati è snervante, vero?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:51
 translate italian sm1mv01s10_a1982dd2:
 
     # sy "Oh God yes!"
-    sy "Oh God yes!"
+    sy "Oh Dio sì!"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:55
 translate italian sm1mv01s10_6659e60a:
 
     # sy "My asshole is more clenched now than when [mcname] was balls deep in me today."
-    sy "My asshole is more clenched now than when [mcname] was balls deep in me today."
+    sy "Il mio culo è più contratto ora di quando [mcname] era dentro di me fino alle palle oggi."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:57
 translate italian sm1mv01s10_bbd0b2ab:
 
     # mc "Everyone really has \"ass\" on the mind right now, don't they?"
-    mc "Everyone really has \"ass\" on the mind right now, don't they?"
+    mc "Tutti hanno davvero il \"culo\" in testa in questo momento, vero?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:60
 translate italian sm1mv01s10_a59008e6:
 
     # kv "I mean, I definitely do. I didn't realize you were going to be doing so much anal today."
-    kv "I mean, I definitely do. I didn't realize you were going to be doing so much anal today."
+    kv "Voglio dire, io sicuramente sì. Non mi ero resa conto che avresti fatto così tanto sesso anale oggi."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:62
 translate italian sm1mv01s10_2a979712:
 
     # mc "You know, I'm like a jazz musician."
-    mc "You know, I'm like a jazz musician."
+    mc "Sai, sono come un musicista jazz."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:65
 translate italian sm1mv01s10_31fe8b81:
 
     # mc "I just go where the music takes me."
-    mc "I just go where the music takes me."
+    mc "Vado semplicemente dove mi porta la musica."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:66
 translate italian sm1mv01s10_7f06eb4b:
