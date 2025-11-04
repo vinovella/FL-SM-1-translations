@@ -2,91 +2,91 @@
 translate italian sm1mv01s02_bea959ae:
 
     # sy "They have to have pirate clothes somewhere."
-    sy "They have to have pirate clothes somewhere."
+    sy "Devono avere vestiti da pirata da qualche parte."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:49
 translate italian sm1mv01s02_66e3e599:
 
     # mc "The shop clerk said they did."
-    mc "The shop clerk said they did."
+    mc "Il commesso ha detto che li hanno."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:51
 translate italian sm1mv01s02_4f02f79e:
 
     # sy "What do we need again?"
-    sy "What do we need again?"
+    sy "Di cosa abbiamo bisogno di nuovo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:52
 translate italian sm1mv01s02_adf970aa:
 
     # mc "Our hero pirate outfit. That will be for our lead actress."
-    mc "Our hero pirate outfit. That will be for our lead actress."
+    mc "Il costume da pirata eroe. Sarà per la nostra attrice protagonista."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:53
 translate italian sm1mv01s02_0413cb37:
 
     # sy "Ah yes. My outfit."
-    sy "Ah yes. My outfit."
+    sy "Ah sì. Il mio costume."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:57
 translate italian sm1mv01s02_3c34f354:
 
     # mc "No, Stacy. You're the wicked pirate queen."
-    mc "No, Stacy. You're the wicked pirate queen."
+    mc "No, Stacy. Tu sei la perfida regina pirata."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:59
 translate italian sm1mv01s02_25069130:
 
     # sy "Oh yeah."
-    sy "Oh yeah."
+    sy "Oh già."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:62
 translate italian sm1mv01s02_e17de6e1:
 
     # sy "Does she have to be wicked?"
-    sy "Does she have to be wicked?"
+    sy "Deve per forza essere perfida?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:63
 translate italian sm1mv01s02_e26fe711:
 
     # sy "Can't she be just misunderstood? Like all of the villains from those animated movies?"
-    sy "Can't she be just misunderstood? Like all of the villains from those animated movies?"
+    sy "Non può essere semplicemente fraintesa? Come tutti i cattivi di quei film d'animazione?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:64
 translate italian sm1mv01s02_3968a5eb:
 
     # sy "They seem like fun and interesting villains who would eat children..."
-    sy "They seem like fun and interesting villains who would eat children..."
+    sy "Sembrano cattivi divertenti e interessanti che mangerebbero bambini..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:65
 translate italian sm1mv01s02_77e521fb:
 
     # sy "...but then we finally see in the prequels that they were actually the true victims all along?"
-    sy "...but then we finally see in the prequels that they were actually the true victims all along?"
+    sy "...ma poi finalmente vediamo nei prequel che erano in realtà le vere vittime fin dall'inizio?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:68
 translate italian sm1mv01s02_5f9381de:
 
     # kv "Ah yes. And the hunter who shot Tambi's mother was actually avenging his father that Tambi's mother killed..."
-    kv "Ah yes. And the hunter who shot Tambi's mother was actually avenging his father that Tambi's mother killed..."
+    kv "Ah sì. E il cacciatore che ha sparato alla madre di Tambi stava in realtà vendicando suo padre che la madre di Tambi ha ucciso..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:72
 translate italian sm1mv01s02_ae622efe:
 
     # kv "*Fake gagging*"
-    kv "*Fake gagging*"
+    kv "*Conati di vomito finti*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:75
 translate italian sm1mv01s02_7ded6fb6:
 
     # kv "We're not trying to make a shades of gray, morally ambiguous character here."
-    kv "We're not trying to make a shades of gray, morally ambiguous character here."
+    kv "Non stiamo cercando di creare un personaggio con sfumature di grigio, moralmente ambiguo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:76
 translate italian sm1mv01s02_ae566dd8:
 
     # kv "People like a good villain. So she needs to be as wicked as they come."
-    kv "People like a good villain. So she needs to be as wicked as they come."
+    kv "Alla gente piacciono i cattivi veri. Quindi deve essere più perfida possibile."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:77
 translate italian sm1mv01s02_2b35b6fe:
@@ -104,31 +104,31 @@ translate italian sm1mv01s02_8218548c:
 translate italian sm1mv01s02_c1477d1c:
 
     # kv "What?"
-    kv "What?"
+    kv "Cosa?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:86
 translate italian sm1mv01s02_87d78dfc:
 
     # sy "Very strong feelings about misunderstood villains, haven't we, Kanya?"
-    sy "Very strong feelings about misunderstood villains, haven't we, Kanya?"
+    sy "Sentimenti molto forti riguardo ai cattivi fraintesi, vero Kanya?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:89
 translate italian sm1mv01s02_ab17ae38:
 
     # kv "I hate character assassinations."
-    kv "I hate character assassinations."
+    kv "Odio gli assassinii di personaggi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:92
 translate italian sm1mv01s02_733923a1:
 
     # mc "Okay. So the wicked pirate queen remains wicked."
-    mc "Okay. So the wicked pirate queen remains wicked."
+    mc "Ok. Quindi la perfida regina pirata rimane perfida."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:95
 translate italian sm1mv01s02_d051f178:
 
     # sy "I should start practicing my evil laugh."
-    sy "I should start practicing my evil laugh."
+    sy "Dovrei iniziare a esercitarmi con la mia risata malvagia."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:96
 translate italian sm1mv01s02_78395f4e:
@@ -140,49 +140,49 @@ translate italian sm1mv01s02_78395f4e:
 translate italian sm1mv01s02_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "Cosa?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:102
 translate italian sm1mv01s02_07968465:
 
     # sy "Not wicked enough?"
-    sy "Not wicked enough?"
+    sy "Non abbastanza perfida?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:105
 translate italian sm1mv01s02_b286c0f7:
 
     # kv "I mean it was..."
-    kv "I mean it was..."
+    kv "Voglio dire, era..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:106
 translate italian sm1mv01s02_7ca1dc1e:
 
     # kv "Close."
-    kv "Close."
+    kv "Quasi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:109
 translate italian sm1mv01s02_ceb88f98:
 
     # mc "You might be able to scare small children with a laugh like that."
-    mc "You might be able to scare small children with a laugh like that."
+    mc "Potresti riuscire a spaventare i bambini piccoli con una risata del genere."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:110
 translate italian sm1mv01s02_66226ee3:
 
     # mc "But it certainly wasn't nefarious enough for a power-hungry pirate queen."
-    mc "But it certainly wasn't nefarious enough for a power-hungry pirate queen."
+    mc "Ma di certo non era abbastanza nefasta per una regina pirata assetata di potere."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:114
 translate italian sm1mv01s02_aa01decc:
 
     # sy "How dare you!"
-    sy "How dare you!"
+    sy "Come osi!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:118
 translate italian sm1mv01s02_475c01b3:
 
     # sy "Any more lip like that, Mr. Young, and I'll be sending you off to old Davy John's locker."
-    sy "Any more lip like that, Mr. Young, and I'll be sending you off to old Davy John's locker."
+    sy "Ancora una parola del genere, signor Young, e ti spedirò nell'armadietto del vecchio Davy John."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:121
 translate italian sm1mv01s02_6d2d8309:
@@ -194,175 +194,175 @@ translate italian sm1mv01s02_6d2d8309:
 translate italian sm1mv01s02_3241eddf:
 
     # kv "Much better."
-    kv "Much better."
+    kv "Molto meglio."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:123
 translate italian sm1mv01s02_fc2f8405:
 
     # kv "Up until the last part."
-    kv "Up until the last part."
+    kv "Fino all'ultima parte."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:126
 translate italian sm1mv01s02_0c007a58:
 
     # sy "Huh? What happened with the last part?"
-    sy "Huh? What happened with the last part?"
+    sy "Eh? Cosa è successo con l'ultima parte?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:129
 translate italian sm1mv01s02_507c9e62:
 
     # mc "It's Davy Jones. Not Davy Johns."
-    mc "It's Davy Jones. Not Davy Johns."
+    mc "È Davy Jones. Non Davy Johns."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:132
 translate italian sm1mv01s02_81c60285:
 
     # sy "Mmm. Hate to break it to you, but it's totally Davy Johns."
-    sy "Mmm. Hate to break it to you, but it's totally Davy Johns."
+    sy "Mmm. Mi dispiace dirtelo, ma è decisamente Davy Johns."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:133
 translate italian sm1mv01s02_8e49ff53:
 
     # sy "And as pirate queen of the high seas, my word is law, you scurvy dogs!"
-    sy "And as pirate queen of the high seas, my word is law, you scurvy dogs!"
+    sy "E come regina pirata dell'alto mare, la mia parola è legge, cani scorbuti!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:137
 translate italian sm1mv01s02_a3ebfe85:
 
     # kv "Well, she's certainly letting her Queen flag fly."
-    kv "Well, she's certainly letting her Queen flag fly."
+    kv "Beh, sta certamente facendo sventolare la sua bandiera da Regina."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:145
 translate italian sm1mv01s02_2a54947c:
 
     # mc "Stacy is always my Queen."
-    mc "Stacy is always my Queen."
+    mc "Stacy è sempre la mia Regina."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:148
 translate italian sm1mv01s02_a73e4e8d:
 
     # kv "Haha. I suppose so."
-    kv "Haha. I suppose so."
+    kv "Haha. Suppongo di sì."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:149
 translate italian sm1mv01s02_8cf0a645:
 
     # kv "But remember, your character has to be a rival to hers."
-    kv "But remember, your character has to be a rival to hers."
+    kv "Ma ricorda, il tuo personaggio deve essere un rivale del suo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:150
 translate italian sm1mv01s02_04678dcf:
 
     # kv "So you can't be simping around when the camera is rolling."
-    kv "So you can't be simping around when the camera is rolling."
+    kv "Quindi non puoi fare lo zerbino quando la telecamera sta girando."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:153
 translate italian sm1mv01s02_2d973cd9:
 
     # mc "I'll pretend I didn't hear that."
-    mc "I'll pretend I didn't hear that."
+    mc "Farò finta di non aver sentito."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:154
 translate italian sm1mv01s02_23add27f:
 
     # mc "I never simp."
-    mc "I never simp."
+    mc "Non faccio mai lo zerbino."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:157
 translate italian sm1mv01s02_992a4b37:
 
     # kv "Haha. Sure, buddy."
-    kv "Haha. Sure, buddy."
+    kv "Haha. Certo, amico."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:164
 translate italian sm1mv01s02_867fd99e:
 
     # mc "I'm not sure if the world is ready for Stacy Unchained."
-    mc "I'm not sure if the world is ready for Stacy Unchained."
+    mc "Non sono sicuro che il mondo sia pronto per Stacy Scatenata."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:167
 translate italian sm1mv01s02_9a358d17:
 
     # kv "Haha. Wrong genre."
-    kv "Haha. Wrong genre."
+    kv "Haha. Genere sbagliato."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:170
 translate italian sm1mv01s02_7e964cf4:
 
     # mc "Haha. Yeah. Hey why hasn't Tarintino ever made a pirate movie?"
-    mc "Haha. Yeah. Hey why hasn't Tarintino ever made a pirate movie?"
+    mc "Haha. Già. Ehi, perché Tarantino non ha mai fatto un film sui pirati?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:173
 translate italian sm1mv01s02_23775b78:
 
     # kv "Think he's too into westerns."
-    kv "Think he's too into westerns."
+    kv "Penso che sia troppo appassionato di western."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:177
 translate italian sm1mv01s02_fd1c0152:
 
     # mc "Oh man!"
-    mc "Oh man!"
+    mc "Oh cavolo!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:180
 translate italian sm1mv01s02_c1477d1c_1:
 
     # kv "What?"
-    kv "What?"
+    kv "Cosa?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:184
 translate italian sm1mv01s02_51dce919:
 
     # mc "We have to do one of those."
-    mc "We have to do one of those."
+    mc "Dobbiamo fare uno di quelli."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:187
 translate italian sm1mv01s02_4da3d68d:
 
     # kv "Come on. We're lagging behind our queen."
-    kv "Come on. We're lagging behind our queen."
+    kv "Dai. Stiamo rimanendo indietro rispetto alla nostra regina."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:190
 translate italian sm1mv01s02_39e5f492:
 
     # mc "Right behind you, partner."
-    mc "Right behind you, partner."
+    mc "Proprio dietro di te, compagno."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:194
 translate italian sm1mv01s02_fe98237a:
 
     # kv "[mcname]. You never finished the list."
-    kv "[mcname]. You never finished the list."
+    kv "[mcname]. Non hai mai finito la lista."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:195
 translate italian sm1mv01s02_db2dcc7a:
 
     # kv "What are all the pirate costumes we need?"
-    kv "What are all the pirate costumes we need?"
+    kv "Quali sono tutti i costumi da pirata di cui abbiamo bisogno?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:197
 translate italian sm1mv01s02_83b91498:
 
     # mc "Oh, right."
-    mc "Oh, right."
+    mc "Oh, giusto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:201
 translate italian sm1mv01s02_b1927a04:
 
     # mc "Stacy's pirate queen outfit. Our hero pirate outfit. My captain outfit."
-    mc "Stacy's pirate queen outfit. Our hero pirate outfit. My captain outfit."
+    mc "Il costume da regina pirata di Stacy. Il nostro costume da pirata eroe. Il mio costume da capitano."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:202
 translate italian sm1mv01s02_d0d5c348:
 
     # mc "And then one for you."
-    mc "And then one for you."
+    mc "E poi uno per te."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:205
 translate italian sm1mv01s02_2be0be4a:
 
     # kv "Right. Just in case we need an extra body in one of the scenes."
-    kv "Right. Just in case we need an extra body in one of the scenes."
+    kv "Giusto. Nel caso in cui avessimo bisogno di un corpo in più in una delle scene."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:207
 translate italian sm1mv01s02_b180829a:
@@ -380,61 +380,61 @@ translate italian sm1mv01s02_6e1c673b:
 translate italian sm1mv01s02_26f447d6:
 
     # sy "Hey. I think I found them."
-    sy "Hey. I think I found them."
+    sy "Ehi. Penso di averli trovati."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:216
 translate italian sm1mv01s02_27caad76:
 
     # mc "Nice work, Stacy."
-    mc "Nice work, Stacy."
+    mc "Bel lavoro, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:218
 translate italian sm1mv01s02_871a90e0:
 
     # kv "Yeah. I'm sure we'll find some outfits that work for us here."
-    kv "Yeah. I'm sure we'll find some outfits that work for us here."
+    kv "Sì. Sono sicura che troveremo dei costumi che fanno al caso nostro qui."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:225
 translate italian sm1mv01s02_daf402d8:
 
     # kv "I didn't imagine a sex shop would have so many pirate costumes."
-    kv "I didn't imagine a sex shop would have so many pirate costumes."
+    kv "Non immaginavo che un sexy shop avesse così tanti costumi da pirata."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:228
 translate italian sm1mv01s02_a226bb9d:
 
     # mc "Pirates are always sexy."
-    mc "Pirates are always sexy."
+    mc "I pirati sono sempre sexy."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:231
 translate italian sm1mv01s02_1db469ee:
 
     # kv "Yeah, in stories."
-    kv "Yeah, in stories."
+    kv "Sì, nelle storie."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:232
 translate italian sm1mv01s02_6b370281:
 
     # kv "I don't think they looked sexy while they were raping and pillaging."
-    kv "I don't think they looked sexy while they were raping and pillaging."
+    kv "Non penso che fossero sexy mentre violentavano e saccheggiavano."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:235
 translate italian sm1mv01s02_aad24bc7:
 
     # mc "Let's agree that our stories will always land more on the side of fantastical instead of historical."
-    mc "Let's agree that our stories will always land more on the side of fantastical instead of historical."
+    mc "Concordiamo sul fatto che le nostre storie saranno sempre più dal lato del fantastico che dello storico."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:239
 translate italian sm1mv01s02_c8450db3:
 
     # kv "Good plan."
-    kv "Good plan."
+    kv "Buon piano."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:240
 translate italian sm1mv01s02_18cdf4ea:
 
     # kv "Woah. We came to the right shop."
-    kv "Woah. We came to the right shop."
+    kv "Woah. Siamo venuti nel negozio giusto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:241
 translate italian sm1mv01s02_e68a5a87:
