@@ -1526,139 +1526,139 @@ translate italian sm1mv01s02_later_7bf1f8b2:
 translate italian sm1mv01s02_later_bb9b7392:
 
     # mc "We weren't planning one already?"
-    mc "We weren't planning one already?"
+    mc "Non ne stavamo già pianificando uno?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:773
 translate italian sm1mv01s02_later_e3a58f39:
 
     # sy "I don't know."
-    sy "I don't know."
+    sy "Non lo so."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:774
 translate italian sm1mv01s02_later_12dd17f0:
 
     # sy "I can't think anymore..."
-    sy "I can't think anymore..."
+    sy "Non riesco più a pensare..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:777
 translate italian sm1mv01s02_later_086e169d:
 
     # sy "Cum...{w} Cum inside of me."
-    sy "Cum...{w} Cum inside of me."
+    sy "Vieni...{w} Vieni dentro di me."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:778
 translate italian sm1mv01s02_later_5329efe3:
 
     # sy "Don't stain the costume."
-    sy "Don't stain the costume."
+    sy "Non macchiare il costume."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:783
 translate italian sm1mv01s02_later_2ede6974:
 
     # sy "Oh bro, I'm getting close!"
-    sy "Oh bro, I'm getting close!"
+    sy "Oh fratello, sto per venire!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:785
 translate italian sm1mv01s02_later_aa9328ab:
 
     # sy "Oh [mcname], I'm getting close!"
-    sy "Oh [mcname], I'm getting close!"
+    sy "Oh [mcname], sto per venire!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:786
 translate italian sm1mv01s02_later_d55d85a8:
 
     # kv "Give it to her, [mcname]."
-    kv "Give it to her, [mcname]."
+    kv "Daglielo, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:788
 translate italian sm1mv01s02_later_7b21a735:
 
     # kv "Cum inside your sister's pussy."
-    kv "Cum inside your sister's pussy."
+    kv "Vieni dentro la figa di tua sorella."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:790
 translate italian sm1mv01s02_later_19e7f81d:
 
     # kv "Fill up the Pirate Queen's cunny."
-    kv "Fill up the Pirate Queen's cunny."
+    kv "Riempi la passera della Regina Pirata."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:799
 translate italian sm1mv01s02_later_86137fb5:
 
     # sy "Urrahah... fuck. So good."
-    sy "Urrahah... fuck. So good."
+    sy "Urrahah... cazzo. Così bello."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:803
 translate italian sm1mv01s02_later_a6f37aa3:
 
     # sy "But now... I gotta keep my legs squeezed together for a moment."
-    sy "But now... I gotta keep my legs squeezed together for a moment."
+    sy "Ma ora... devo tenere le gambe strette insieme per un momento."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:806
 translate italian sm1mv01s02_later_f4f2111e:
 
     # kv "We should get dressed in our normal clothes."
-    kv "We should get dressed in our normal clothes."
+    kv "Dovremmo rimetterci i nostri vestiti normali."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:807
 translate italian sm1mv01s02_later_09003c12:
 
     # kv "Hopefully the clerk had a long list of loud customers."
-    kv "Hopefully the clerk had a long list of loud customers."
+    kv "Speriamo che il commesso avesse una lunga lista di clienti rumorosi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:825
 translate italian sm1mv01s02_later_da1dfe01:
 
     # "Worker" "Excuse me."
-    "Worker" "Excuse me."
+    "Worker" "Mi scusi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:829
 translate italian sm1mv01s02_later_4b4789b7:
 
     # mct "Doh!"
-    mct "Doh!"
+    mct "Accidenti!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:832
 translate italian sm1mv01s02_later_ab76bff1:
 
     # "Worker" "I hope you enjoyed that. And the outfits. Because you are definitely purchasing every garment that you went in with."
-    "Worker" "I hope you enjoyed that. And the outfits. Because you are definitely purchasing every garment that you went in with."
+    "Worker" "Spero vi siate divertiti. E i costumi. Perché state decisamente comprando ogni capo con cui siete entrati."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:835
 translate italian sm1mv01s02_later_01cd3e26:
 
     # "Worker" "And you'll also be buying anything else affected by your lapse of judgement."
-    "Worker" "And you'll also be buying anything else affected by your lapse of judgement."
+    "Worker" "E comprerete anche qualsiasi altra cosa danneggiata dalla vostra mancanza di giudizio."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:836
 translate italian sm1mv01s02_later_c8546ee6:
 
     # "Worker" "I expect a little better of you, Kanya."
-    "Worker" "I expect a little better of you, Kanya."
+    "Worker" "Mi aspettavo qualcosa di meglio da te, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:839
 translate italian sm1mv01s02_later_6581fe71:
 
     # kv "I know."
-    kv "I know."
+    kv "Lo so."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:840
 translate italian sm1mv01s02_later_b44d3c4b:
 
     # kv "These two just bring out my extra kinky side."
-    kv "These two just bring out my extra kinky side."
+    kv "Questi due tirano fuori il mio lato extra perverso."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:843
 translate italian sm1mv01s02_later_ef924068:
 
     # "Worker" "Well I suggest you save it for the privacy of your own home."
-    "Worker" "Well I suggest you save it for the privacy of your own home."
+    "Worker" "Beh, suggerisco di risparmiarlo per la privacy della vostra casa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:846
 translate italian sm1mv01s02_later_9ece5b20:
 
     # mc "Or our own porn studio."
-    mc "Or our own porn studio."
+    mc "O il nostro studio porno."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:848
 translate italian sm1mv01s02_later_bca09261:
@@ -1670,73 +1670,73 @@ translate italian sm1mv01s02_later_bca09261:
 translate italian sm1mv01s02_later_bc0c4158:
 
     # "Worker" "I'll be waiting at the counter."
-    "Worker" "I'll be waiting at the counter."
+    "Worker" "Vi aspetterò al banco."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:852
 translate italian sm1mv01s02_later_a5f29463:
 
     # "Worker" "And make sure you bring up everything."
-    "Worker" "And make sure you bring up everything."
+    "Worker" "E assicuratevi di portare su tutto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:856
 translate italian sm1mv01s02_later_3471c0ab:
 
     # "Worker" "Kanya was right."
-    "Worker" "Kanya was right."
+    "Worker" "Kanya aveva ragione."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:857
 translate italian sm1mv01s02_later_fab98077:
 
     # "Worker" "We do have cameras."
-    "Worker" "We do have cameras."
+    "Worker" "Abbiamo telecamere."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:858
 translate italian sm1mv01s02_later_764403cd:
 
     # "Worker" "This is a place of business. Not a live-action Fansly shoot."
-    "Worker" "This is a place of business. Not a live-action Fansly shoot."
+    "Worker" "Questo è un luogo di lavoro. Non un set dal vivo di Fansly."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:864
 translate italian sm1mv01s02_later_9f7e8476:
 
     # sy "Right. Sorry. Got a little... enthusiastic."
-    sy "Right. Sorry. Got a little... enthusiastic."
+    sy "Giusto. Scusa. Sono diventata un po'... entusiasta."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:866
 translate italian sm1mv01s02_later_8d8c970d:
 
     # kv "But I think we're ready to purchase everything."
-    kv "But I think we're ready to purchase everything."
+    kv "Ma penso che siamo pronti a comprare tutto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:867
 translate italian sm1mv01s02_later_e3395250:
 
     # kv "Maybe including a gift card to smooth things over."
-    kv "Maybe including a gift card to smooth things over."
+    kv "Magari includendo una gift card per appianare le cose."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:872
 translate italian sm1mv01s02_later_0a29db9f:
 
     # "Worker" "Good thinking, Kanya."
-    "Worker" "Good thinking, Kanya."
+    "Worker" "Buona idea, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:878
 translate italian sm1mv01s02_later_b2cbc7b2:
 
     # "Worker" "And here is the total."
-    "Worker" "And here is the total."
+    "Worker" "Ed ecco il totale."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:881
 translate italian sm1mv01s02_later_7765b292:
 
     # mc "*gulp*"
-    mc "*gulp*"
+    mc "*deglutisce*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:882
 translate italian sm1mv01s02_later_164ecf31:
 
     # mc "Do you do discounts for 'accidental orgy-related product damage'?"
-    mc "Do you do discounts for 'accidental orgy-related product damage'?"
+    mc "Fate sconti per 'danni accidentali ai prodotti dovuti a orge'?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:885
 translate italian sm1mv01s02_later_5c7b1ea3:
@@ -1748,55 +1748,55 @@ translate italian sm1mv01s02_later_5c7b1ea3:
 translate italian sm1mv01s02_later_fa158adf:
 
     # mc "Hey, I was just joking."
-    mc "Hey, I was just joking."
+    mc "Ehi, stavo solo scherzando."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:892
 translate italian sm1mv01s02_later_c23b85e7:
 
     # kv "Come on, [mcname]."
-    kv "Come on, [mcname]."
+    kv "Dai, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:896
 translate italian sm1mv01s02_later_c00afa54:
 
     # "Worker" "Thank you for shopping with us."
-    "Worker" "Thank you for shopping with us."
+    "Worker" "Grazie per aver fatto acquisti con noi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:899
 translate italian sm1mv01s02_later_81bb874d:
 
     # "Worker" "Next time, please just try on the clothes at home."
-    "Worker" "Next time, please just try on the clothes at home."
+    "Worker" "La prossima volta, per favore provate i vestiti a casa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:901
 translate italian sm1mv01s02_later_a3480574:
 
     # kv "Will do."
-    kv "Will do."
+    kv "Lo faremo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:905
 translate italian sm1mv01s02_later_29c9338e:
 
     # mc "Yeouch."
-    mc "Yeouch."
+    mc "Ahi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:906
 translate italian sm1mv01s02_later_ad47d636:
 
     # mc "More expensive than I planned on."
-    mc "More expensive than I planned on."
+    mc "Più costoso di quanto previsto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:911
 translate italian sm1mv01s02_later_2fa0bb4e:
 
     # sy "Honestly, worth it. We will look amazing.{w} I just know it!"
-    sy "Honestly, worth it. We will look amazing.{w} I just know it!"
+    sy "Onestamente, ne vale la pena. Staremo fantastici.{w} Lo so!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:913
 translate italian sm1mv01s02_later_12e7afd4:
 
     # mc "Yeah but for now, we're just significantly poorer than when we started the day."
-    mc "Yeah but for now, we're just significantly poorer than when we started the day."
+    mc "Sì, ma per ora, siamo solo significativamente più poveri di quando abbiamo iniziato la giornata."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:916
 translate italian sm1mv01s02_later_6d2d8309_1:
@@ -1808,203 +1808,203 @@ translate italian sm1mv01s02_later_6d2d8309_1:
 translate italian sm1mv01s02_later_e54de122:
 
     # kv "Maybe there is a lesson here about self-control."
-    kv "Maybe there is a lesson here about self-control."
+    kv "Forse c'è una lezione qui sull'autocontrollo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:921
 translate italian sm1mv01s02_later_236998fc:
 
     # mc "I had control. I just chose chaos."
-    mc "I had control. I just chose chaos."
+    mc "Avevo il controllo. Ho solo scelto il caos."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:924
 translate italian sm1mv01s02_later_8118bd4f:
 
     # kv "Get all your silly out now, [mcname].{w} We're going to have to be professional pretty soon."
-    kv "Get all your silly out now, [mcname].{w} We're going to have to be professional pretty soon."
+    kv "Togliti tutte le sciocchezze adesso, [mcname].{w} Dovremo essere professionali molto presto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:927
 translate italian sm1mv01s02_later_124d509a:
 
     # sy "Yeah. We can't mess this up."
-    sy "Yeah. We can't mess this up."
+    sy "Sì. Non possiamo rovinare tutto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:929
 translate italian sm1mv01s02_later_3c916420:
 
     # sy "If we make this film and it bombs, we're going to have to seriously consider reevaluating our life choices."
-    sy "If we make this film and it bombs, we're going to have to seriously consider reevaluating our life choices."
+    sy "Se facciamo questo film e fa un fiasco, dovremo seriamente considerare di rivalutare le nostre scelte di vita."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:932
 translate italian sm1mv01s02_later_500113a6:
 
     # mc "Never going to happen."
-    mc "Never going to happen."
+    mc "Non succederà mai."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:935
 translate italian sm1mv01s02_later_87c7a278:
 
     # kv "I know that we have done this before, but you two both know just how hard the next few stages will be."
-    kv "I know that we have done this before, but you two both know just how hard the next few stages will be."
+    kv "So che l'abbiamo già fatto prima, ma voi due sapete quanto saranno dure le prossime fasi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:938
 translate italian sm1mv01s02_later_dff79cab:
 
     # mc "You're right."
-    mc "You're right."
+    mc "Hai ragione."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:940
 translate italian sm1mv01s02_later_02eaa174:
 
     # sy "I'll dial my silliness down."
-    sy "I'll dial my silliness down."
+    sy "Ridurrò le mie sciocchezze."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:942
 translate italian sm1mv01s02_later_6a028b65:
 
     # kv "Thanks."
-    kv "Thanks."
+    kv "Grazie."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:946
 translate italian sm1mv01s02_later_a05cd929:
 
     # sy "Damn it. We forgot to find swords."
-    sy "Damn it. We forgot to find swords."
+    sy "Accidenti. Abbiamo dimenticato di trovare le spade."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:949
 translate italian sm1mv01s02_later_b3242797:
 
     # kv "Yeah, I know. I looked around and all I found was a long vibrating..."
-    kv "Yeah, I know. I looked around and all I found was a long vibrating..."
+    kv "Sì, lo so. Mi sono guardata intorno e tutto ciò che ho trovato era un lungo vibrante..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:950
 translate italian sm1mv01s02_later_4a4f5a78:
 
     # kv "Well it wasn't going to work."
-    kv "Well it wasn't going to work."
+    kv "Beh, non avrebbe funzionato."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:955
 translate italian sm1mv01s02_later_3a154c9f:
 
     # mc "I had a feeling we wouldn't find them here."
-    mc "I had a feeling we wouldn't find them here."
+    mc "Avevo la sensazione che non li avremmo trovati qui."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:956
 translate italian sm1mv01s02_later_a71f6a5e:
 
     # mc "I mean it is just a sex shop."
-    mc "I mean it is just a sex shop."
+    mc "Voglio dire, è solo un sexy shop."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:957
 translate italian sm1mv01s02_later_2d42a6f1:
 
     # mc "It would be too easy if they had everything we needed."
-    mc "It would be too easy if they had everything we needed."
+    mc "Sarebbe troppo facile se avessero tutto ciò di cui abbiamo bisogno."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:960
 translate italian sm1mv01s02_later_d6298adc:
 
     # sy "So... where are we going to get swords?"
-    sy "So... where are we going to get swords?"
+    sy "Quindi... dove troveremo le spade?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:963
 translate italian sm1mv01s02_later_c62d4378:
 
     # mc "Don't worry about it. I'm already thinking up a few options."
-    mc "Don't worry about it. I'm already thinking up a few options."
+    mc "Non preoccupartene. Sto già pensando ad alcune opzioni."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:964
 translate italian sm1mv01s02_later_78c04abe:
 
     # mc "Everything will be fine, Stacy."
-    mc "Everything will be fine, Stacy."
+    mc "Andrà tutto bene, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:975
 translate italian sm1mv01s02_dress_tl_0247e6e3:
 
     # kv "I feel like we're forgetting something."
-    kv "I feel like we're forgetting something."
+    kv "Sento che ci stiamo dimenticando qualcosa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:978
 translate italian sm1mv01s02_dress_tl_f6a5cd1a:
 
     # mc "Oh yeah. We should get Taisia into her costume and make sure it fits."
-    mc "Oh yeah. We should get Taisia into her costume and make sure it fits."
+    mc "Oh sì. Dovremmo far provare a Taisia il suo costume e assicurarci che le stia bene."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:979
 translate italian sm1mv01s02_dress_tl_ab9f3ff3:
 
     # mc "Don't want to waste time we don't have."
-    mc "Don't want to waste time we don't have."
+    mc "Non vogliamo sprecare tempo che non abbiamo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:995
 translate italian sm1mv01s02_walkout_08e04b18:
 
     # kv "Are you two able to make it back home from here?"
-    kv "Are you two able to make it back home from here?"
+    kv "Riuscite a tornare a casa da qui voi due?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:998
 translate italian sm1mv01s02_walkout_531bfbf1:
 
     # sy "Sure."
-    sy "Sure."
+    sy "Certo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:1000
 translate italian sm1mv01s02_walkout_f8c4c766:
 
     # mc "Everything alright?"
-    mc "Everything alright?"
+    mc "Tutto bene?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:1003
 translate italian sm1mv01s02_walkout_9dfe18ce:
 
     # kv "Totally. I just need to head back to the photo-dojo."
-    kv "Totally. I just need to head back to the photo-dojo."
+    kv "Assolutamente. Devo solo tornare al dojo fotografico."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:1004
 translate italian sm1mv01s02_walkout_1de1d204:
 
     # kv "Got a client to make a spread for."
-    kv "Got a client to make a spread for."
+    kv "Ho un cliente per cui fare uno spread."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:1007
 translate italian sm1mv01s02_walkout_40346122:
 
     # mc "Sounds fun."
-    mc "Sounds fun."
+    mc "Sembra divertente."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:1009
 translate italian sm1mv01s02_walkout_3606bb3f:
 
     # sy "Thanks for all your help, Kanya."
-    sy "Thanks for all your help, Kanya."
+    sy "Grazie per tutto il tuo aiuto, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:1010
 translate italian sm1mv01s02_walkout_ef7a7e35:
 
     # sy "We'll get in touch soon about the next steps."
-    sy "We'll get in touch soon about the next steps."
+    sy "Ci metteremo in contatto presto per i prossimi passi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:1013
 translate italian sm1mv01s02_walkout_e7421fbe:
 
     # kv "I'm counting on it."
-    kv "I'm counting on it."
+    kv "Ci conto."
 
 translate italian strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s02.rpy:139
     old "So, business as usual then"
-    new "So, business as usual then"
+    new "Quindi, solita routine allora"
 
     # game/code/scenes/movies/movie01/sm1mv01s02.rpy:139
     old "We may have made a huge mistake"
-    new "We may have made a huge mistake"
+    new "Potremmo aver fatto un enorme errore"
 
     # game/code/scenes/movies/movie01/sm1mv01s02.rpy:491
     old "Horny"
-    new "Horny"
+    new "Arrapato"
 
     # game/code/scenes/movies/movie01/sm1mv01s02.rpy:491
     old "Focused"
-    new "Focused"
+    new "Concentrato"
 
