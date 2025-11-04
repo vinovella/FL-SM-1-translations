@@ -440,103 +440,103 @@ translate italian sm1mv01s02_18cdf4ea:
 translate italian sm1mv01s02_e68a5a87:
 
     # kv "Some of them are super slutty, but they're decently build."
-    kv "Some of them are super slutty, but they're decently build."
+    kv "Alcuni sono super sgualdrine, ma sono costruiti decentemente."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:244
 translate italian sm1mv01s02_b7a7a6bb:
 
     # kv "And they'll look nice on camera."
-    kv "And they'll look nice on camera."
+    kv "E staranno bene in camera."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:248
 translate italian sm1mv01s02_ccfdcbb1:
 
     # kv "But fuck me they're expensive."
-    kv "But fuck me they're expensive."
+    kv "Ma porca miseria sono costosi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:251
 translate italian sm1mv01s02_b8c19e73:
 
     # sy "Maybe they have a bargain section."
-    sy "Maybe they have a bargain section."
+    sy "Forse hanno una sezione di sconti."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:252
 translate italian sm1mv01s02_934c6ecd:
 
     # sy "Or a 'used' section."
-    sy "Or a 'used' section."
+    sy "O una sezione 'usato'."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:255
 translate italian sm1mv01s02_4d206177:
 
     # mc "We're not buying second-hand clothes from a sex shop."
-    mc "We're not buying second-hand clothes from a sex shop."
+    mc "Non compreremo vestiti di seconda mano da un sexy shop."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:258
 translate italian sm1mv01s02_a43d5490:
 
     # mc "And we don't need to worry so much about the costs."
-    mc "And we don't need to worry so much about the costs."
+    mc "E non dobbiamo preoccuparci così tanto dei costi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:259
 translate italian sm1mv01s02_378ab5f1:
 
     # mc "We'll can handle the cost of getting good outfits."
-    mc "We'll can handle the cost of getting good outfits."
+    mc "Possiamo gestire il costo di ottenere buoni costumi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:261
 translate italian sm1mv01s02_91c301db:
 
     # mc "I haven't been breaking my fingers like a good code-monkey to pinch pennies."
-    mc "I haven't been breaking my fingers like a good code-monkey to pinch pennies."
+    mc "Non mi sono rotto le dita come una buona scimmia da codice per risparmiare spiccioli."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:263
 translate italian sm1mv01s02_c38e581b:
 
     # mc "I haven't been memorizing lines and dealing with super egos for weeks to skimp on costumes."
-    mc "I haven't been memorizing lines and dealing with super egos for weeks to skimp on costumes."
+    mc "Non ho passato settimane a memorizzare battute e a gestire super ego per lesinare sui costumi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:265
 translate italian sm1mv01s02_ec4c9d50:
 
     # mc "I'm been slinging hot dogs and brats for plenty of nights."
-    mc "I'm been slinging hot dogs and brats for plenty of nights."
+    mc "Ho venduto hot dog e salsicce per tantissime notti."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:266
 translate italian sm1mv01s02_2bd512c1:
 
     # mc "Now it's all going to be worth it."
-    mc "Now it's all going to be worth it."
+    mc "Ora ne varrà la pena."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:269
 translate italian sm1mv01s02_81109791:
 
     # kv "Ah,{w} So you're saying..."
-    kv "Ah,{w} So you're saying..."
+    kv "Ah,{w} Quindi stai dicendo..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:270
 translate italian sm1mv01s02_521c035e:
 
     # kv "I can just pick up anything I want?"
-    kv "I can just pick up anything I want?"
+    kv "Posso prendere tutto quello che voglio?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:273
 translate italian sm1mv01s02_6d951819:
 
     # mc "I don't think that is what I said."
-    mc "I don't think that is what I said."
+    mc "Non penso che sia quello che ho detto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:276
 translate italian sm1mv01s02_167af18c:
 
     # sy "I think this is the one for our Hero character."
-    sy "I think this is the one for our Hero character."
+    sy "Penso che questo sia quello per il nostro personaggio Eroe."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:277
 translate italian sm1mv01s02_8650abbe:
 
     # sy "I'll try it on. I have a similar build to Taisia."
-    sy "I'll try it on. I have a similar build to Taisia."
+    sy "Lo proverò. Ho una corporatura simile a Taisia."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:284
 translate italian sm1mv01s02_af4bd44f:
@@ -548,79 +548,79 @@ translate italian sm1mv01s02_af4bd44f:
 translate italian sm1mv01s02_bcff9820:
 
     # mc "I think it's a great fit."
-    mc "I think it's a great fit."
+    mc "Penso che vada benissimo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:290
 translate italian sm1mv01s02_afd74152:
 
     # mc "What do you think?"
-    mc "What do you think?"
+    mc "Cosa ne pensi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:293
 translate italian sm1mv01s02_49d89bd1:
 
     # kv "I don't think it captures the full Pirate Queen vibe."
-    kv "I don't think it captures the full Pirate Queen vibe."
+    kv "Non penso che catturi completamente l'atmosfera della Regina Pirata."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:296
 translate italian sm1mv01s02_74def966:
 
     # mc "No, I mean, for our heroine.{w} Taisia's character."
-    mc "No, I mean, for our heroine.{w} Taisia's character."
+    mc "No, intendo, per la nostra eroina.{w} Il personaggio di Taisia."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:299
 translate italian sm1mv01s02_02fc6250:
 
     # kv "Oh yeah!{w} It might work."
-    kv "Oh yeah!{w} It might work."
+    kv "Oh sì!{w} Potrebbe funzionare."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:300
 translate italian sm1mv01s02_ef4f6571:
 
     # kv "We really should have her here."
-    kv "We really should have her here."
+    kv "Dovremmo davvero averla qui."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:303
 translate italian sm1mv01s02_9252bebe:
 
     # mc "I tried, but she said she had to work."
-    mc "I tried, but she said she had to work."
+    mc "Ci ho provato, ma ha detto che doveva lavorare."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:306
 translate italian sm1mv01s02_95ddc92b:
 
     # sy "She gave us her measurements when she signed up to be in the movie."
-    sy "She gave us her measurements when she signed up to be in the movie."
+    sy "Ci ha dato le sue misure quando si è iscritta per essere nel film."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:309
 translate italian sm1mv01s02_e658442d:
 
     # mc "Yeah. And then we can just buy one that is Taisia's size."
-    mc "Yeah. And then we can just buy one that is Taisia's size."
+    mc "Sì. E poi possiamo semplicemente comprarne uno della taglia di Taisia."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:312
 translate italian sm1mv01s02_2cbccefe:
 
     # sy "Exactly. And I have enough basic skills with needle and thread. I'm sure I can help with any adjustments."
-    sy "Exactly. And I have enough basic skills with needle and thread. I'm sure I can help with any adjustments."
+    sy "Esattamente. E ho abbastanza competenze di base con ago e filo. Sono sicura di poter aiutare con qualsiasi aggiustamento."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:314
 translate italian sm1mv01s02_9930ed4b:
 
     # mc "Great."
-    mc "Great."
+    mc "Ottimo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:316
 translate italian sm1mv01s02_4779a8cb:
 
     # mc "So? Is this our Hero outfit or what?"
-    mc "So? Is this our Hero outfit or what?"
+    mc "Allora? È questo il nostro costume da Eroe o cosa?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:319
 translate italian sm1mv01s02_b8c021ce:
 
     # kv "I think so. We should see what we can find for Pirate Queen before making a final decision."
-    kv "I think so. We should see what we can find for Pirate Queen before making a final decision."
+    kv "Penso di sì. Dovremmo vedere cosa possiamo trovare per la Regina Pirata prima di prendere una decisione finale."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:321
 translate italian sm1mv01s02_4661a639:
@@ -632,49 +632,49 @@ translate italian sm1mv01s02_4661a639:
 translate italian sm1mv01s02_cc2958f8:
 
     # sy "Forward my salty dogs."
-    sy "Forward my salty dogs."
+    sy "Avanti, miei cani salati."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:326
 translate italian sm1mv01s02_3a5e46aa:
 
     # sy "We found the hero clothes, but we haven't found all the treasure."
-    sy "We found the hero clothes, but we haven't found all the treasure."
+    sy "Abbiamo trovato i vestiti dell'eroe, ma non abbiamo ancora trovato tutto il tesoro."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:330
 translate italian sm1mv01s02_371407e9:
 
     # mct "I shouldn't forget my costume."
-    mct "I shouldn't forget my costume."
+    mct "Non dovrei dimenticare il mio costume."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:347
 translate italian sm1mv01s02_later_d498e71f:
 
     # sy "Ooooh. This is going to be great."
-    sy "Ooooh. This is going to be great."
+    sy "Ooooh. Sarà fantastico."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:354
 translate italian sm1mv01s02_later_f72bf8f5:
 
     # sy "It fits perfectly."
-    sy "It fits perfectly."
+    sy "Calza perfettamente."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:355
 translate italian sm1mv01s02_later_e508dac5:
 
     # sy "Hopefully Kanya found herself something too."
-    sy "Hopefully Kanya found herself something too."
+    sy "Speriamo che anche Kanya abbia trovato qualcosa per sé."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:359
 translate italian sm1mv01s02_later_a233524f:
 
     # mct "Alright I found something."
-    mct "Alright I found something."
+    mct "Bene, ho trovato qualcosa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:363
 translate italian sm1mv01s02_later_08e5ae1c:
 
     # mct "Nice. This might work."
-    mct "Nice. This might work."
+    mct "Bello. Questo potrebbe funzionare."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:371
 translate italian sm1mv01s02_later_0f5095cc:
@@ -692,19 +692,19 @@ translate italian sm1mv01s02_later_3c65f722:
 translate italian sm1mv01s02_later_2d61b5a8:
 
     # mc "Skeleton!{w} Horny pirate skeleton!"
-    mc "Skeleton!{w} Horny pirate skeleton!"
+    mc "Scheletro!{w} Scheletro di pirata arrapato!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:380
 translate italian sm1mv01s02_later_4f3de647:
 
     # kv "[mcname] is right. He is certainly a horny pirate."
-    kv "[mcname] is right. He is certainly a horny pirate."
+    kv "[mcname] ha ragione. È certamente un pirata arrapato."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:384
 translate italian sm1mv01s02_later_fd14712b:
 
     # sy "So strange. But also so cool."
-    sy "So strange. But also so cool."
+    sy "Così strano. Ma anche così figo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:388
 translate italian sm1mv01s02_later_baa3d25d:
@@ -722,133 +722,133 @@ translate italian sm1mv01s02_later_2c2979ba:
 translate italian sm1mv01s02_later_711d858e:
 
     # sy "It must be super-glued on."
-    sy "It must be super-glued on."
+    sy "Deve essere incollato con la supercolla."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:393
 translate italian sm1mv01s02_later_0de058fb:
 
     # kv "Someone must have built him for a party at some point."
-    kv "Someone must have built him for a party at some point."
+    kv "Qualcuno deve averlo costruito per una festa ad un certo punto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:395
 translate italian sm1mv01s02_later_f4f108f2:
 
     # mc "They shouldn't just leave something like this hidden around."
-    mc "They shouldn't just leave something like this hidden around."
+    mc "Non dovrebbero lasciare qualcosa del genere nascosto in giro."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:398
 translate italian sm1mv01s02_later_28afdfe1:
 
     # sy "Yeah. What a waste."
-    sy "Yeah. What a waste."
+    sy "Sì. Che spreco."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:402
 translate italian sm1mv01s02_later_b4bbb763:
 
     # sy "Yes!"
-    sy "Yes!"
+    sy "Sì!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:403
 translate italian sm1mv01s02_later_5737bf74:
 
     # sy "We should put him in the movie."
-    sy "We should put him in the movie."
+    sy "Dovremmo metterlo nel film."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:406
 translate italian sm1mv01s02_later_192794f1:
 
     # mc "Who's the 'him' in that sentence?"
-    mc "Who's the 'him' in that sentence?"
+    mc "Chi è il 'lui' in quella frase?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:409
 translate italian sm1mv01s02_later_9ffe204a:
 
     # sy "Him!"
-    sy "Him!"
+    sy "Lui!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:414
 translate italian sm1mv01s02_later_a0b12388:
 
     # mc "Yes. A skeleton captain."
-    mc "Yes. A skeleton captain."
+    mc "Sì. Un capitano scheletro."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:417
 translate italian sm1mv01s02_later_b468f957:
 
     # sy "Or a skeleton first mate."
-    sy "Or a skeleton first mate."
+    sy "O un primo ufficiale scheletro."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:420
 translate italian sm1mv01s02_later_461dc047:
 
     # kv "I thought we were making a serious film?"
-    kv "I thought we were making a serious film?"
+    kv "Pensavo stessimo facendo un film serio?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:423
 translate italian sm1mv01s02_later_6a4279c2:
 
     # sy "Nothing is as serious as magic that can make a skeleton pirate with a dick."
-    sy "Nothing is as serious as magic that can make a skeleton pirate with a dick."
+    sy "Niente è serio quanto una magia che può creare un pirata scheletro con un cazzo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:426
 translate italian sm1mv01s02_later_11c7610c:
 
     # mc "It certainly would make our film stand out."
-    mc "It certainly would make our film stand out."
+    mc "Di certo farebbe risaltare il nostro film."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:429
 translate italian sm1mv01s02_later_90fe0ccf:
 
     # kv "You guys are crazy. It's not even a little practical."
-    kv "You guys are crazy. It's not even a little practical."
+    kv "Siete pazzi. Non è nemmeno un po' pratico."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:432
 translate italian sm1mv01s02_later_edaf2c52:
 
     # kv "Look."
-    kv "Look."
+    kv "Guardate."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:433
 translate italian sm1mv01s02_later_cc150cbe:
 
     # kv "This isn't like, an outfit."
-    kv "This isn't like, an outfit."
+    kv "Questo non è, tipo, un costume."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:434
 translate italian sm1mv01s02_later_edbc2b3f:
 
     # kv "It's a statue with some movable arms."
-    kv "It's a statue with some movable arms."
+    kv "È una statua con alcune braccia mobili."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:437
 translate italian sm1mv01s02_later_8b64c561:
 
     # kv "And a bit of leg movement."
-    kv "And a bit of leg movement."
+    kv "E un po' di movimento delle gambe."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:438
 translate italian sm1mv01s02_later_f13d5e52:
 
     # kv "You're going to have to move it like a puppet every time it's on screen."
-    kv "You're going to have to move it like a puppet every time it's on screen."
+    kv "Dovrai muoverlo come un burattino ogni volta che è sullo schermo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:439
 translate italian sm1mv01s02_later_d5ac2ea9:
 
     # kv "It is going to be a huge pain in the ass."
-    kv "It is going to be a huge pain in the ass."
+    kv "Sarà una enorme rottura di scatole."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:442
 translate italian sm1mv01s02_later_6e6c2f00:
 
     # mc "But so worth it."
-    mc "But so worth it."
+    mc "Ma ne vale la pena."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:444
 translate italian sm1mv01s02_later_bca1236e:
 
     # sy "That's what I'm saying. He can be Captain Bone."
-    sy "That's what I'm saying. He can be Captain Bone."
+    sy "È quello che sto dicendo. Può essere Capitano Bone."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:447
 translate italian sm1mv01s02_later_fca52711:
@@ -860,7 +860,7 @@ translate italian sm1mv01s02_later_fca52711:
 translate italian sm1mv01s02_later_e9070277:
 
     # mc "Boner. First Mate Boner, undead loyal servant of the Pirate Queen."
-    mc "Boner. First Mate Boner, undead loyal servant of the Pirate Queen."
+    mc "Boner. Primo Ufficiale Boner, servitore non-morto e fedele della Regina Pirata."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:451
 translate italian sm1mv01s02_later_6d2d8309:
@@ -872,7 +872,7 @@ translate italian sm1mv01s02_later_6d2d8309:
 translate italian sm1mv01s02_later_304163ca:
 
     # sy "I love it."
-    sy "I love it."
+    sy "Lo adoro."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:456
 translate italian sm1mv01s02_later_e70966a0:
@@ -884,13 +884,13 @@ translate italian sm1mv01s02_later_e70966a0:
 translate italian sm1mv01s02_later_d3f5af31:
 
     # mc "What do you say, Kanya?"
-    mc "What do you say, Kanya?"
+    mc "Cosa ne dici, Kanya?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:460
 translate italian sm1mv01s02_later_ff1d6afb:
 
     # kv "You don't need me to approve this."
-    kv "You don't need me to approve this."
+    kv "Non avete bisogno che io approvi questo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:463
 translate italian sm1mv01s02_later_e68144c3:
