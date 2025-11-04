@@ -1352,25 +1352,25 @@ translate italian sm1mv01s03_2_tl_costume_45d4b8ac:
 translate italian sm1mv01s03_2_tl_costume_f500f5cd:
 
     # tl "I wish you guys already had swords."
-    tl "I wish you guys already had swords."
+    tl "Vorrei che aveste già le spade."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:744
 translate italian sm1mv01s03_2_tl_costume_cc552d44:
 
     # tl "I feel goofy without a cutlass."
-    tl "I feel goofy without a cutlass."
+    tl "Mi sento goffa senza una sciabola."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:748
 translate italian sm1mv01s03_2_tl_costume_10289b6d:
 
     # mc "Here you go. We used these to pretend."
-    mc "Here you go. We used these to pretend."
+    mc "Eccoti qui. Le abbiamo usate per fare finta."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:752
 translate italian sm1mv01s03_2_tl_costume_4338fb9e:
 
     # tl "Really?"
-    tl "Really?"
+    tl "Davvero?"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:753
 translate italian sm1mv01s03_2_tl_costume_553aff27:
@@ -1382,13 +1382,13 @@ translate italian sm1mv01s03_2_tl_costume_553aff27:
 translate italian sm1mv01s03_2_tl_costume_41c7b947:
 
     # mc "You got it."
-    mc "You got it."
+    mc "Di niente."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:759
 translate italian sm1mv01s03_2_tl_costume_3f693012:
 
     # kv "Okay, and one more for the road."
-    kv "Okay, and one more for the road."
+    kv "Ok, e un'ultima per la strada."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:762
 translate italian sm1mv01s03_2_tl_costume_45d4b8ac_1:
@@ -1400,31 +1400,31 @@ translate italian sm1mv01s03_2_tl_costume_45d4b8ac_1:
 translate italian sm1mv01s03_2_tl_costume_22ed1ab2:
 
     # kv "Got it."
-    kv "Got it."
+    kv "Fatto."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:767
 translate italian sm1mv01s03_2_tl_costume_afea88f1:
 
     # kv "Great. I'll check it for any photoshopping that we need."
-    kv "Great. I'll check it for any photoshopping that we need."
+    kv "Ottimo. Controllerò se c'è bisogno di ritocchi con Photoshop."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:770
 translate italian sm1mv01s03_2_tl_costume_1d69fd84:
 
     # tl "Photoshoppping?"
-    tl "Photoshoppping?"
+    tl "Photoshop?"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:773
 translate italian sm1mv01s03_2_tl_costume_ac5212c1:
 
     # kv "I said any tweaking."
-    kv "I said any tweaking."
+    kv "Ho detto ritocchi."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:774
 translate italian sm1mv01s03_2_tl_costume_babcca26:
 
     # kv "Stacy said she could do a little sewing on your outfit if we needed it."
-    kv "Stacy said she could do a little sewing on your outfit if we needed it."
+    kv "Stacy ha detto che potrebbe fare un po' di cucito sul tuo vestito se ne abbiamo bisogno."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:777
 translate italian sm1mv01s03_2_tl_costume_716019b8:
@@ -1436,115 +1436,115 @@ translate italian sm1mv01s03_2_tl_costume_716019b8:
 translate italian sm1mv01s03_2_tl_costume_c95cb708:
 
     # kv "It {b}really{/b} is late."
-    kv "It {b}really{/b} is late."
+    kv "È {b}davvero{/b} tardi."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:785
 translate italian sm1mv01s03_2_tl_costume_0c9a32b9:
 
     # kv "I gotta get going."
-    kv "I gotta get going."
+    kv "Devo andare."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:788
 translate italian sm1mv01s03_2_tl_costume_4addfc2d:
 
     # kv "Text me once we have a scheduled figured out."
-    kv "Text me once we have a scheduled figured out."
+    kv "Mandami un messaggio quando abbiamo organizzato un programma."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:790
 translate italian sm1mv01s03_2_tl_costume_9d82441b:
 
     # mc "You're the first on my list."
-    mc "You're the first on my list."
+    mc "Sei la prima della mia lista."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:794
 translate italian sm1mv01s03_2_tl_costume_1dcea84a:
 
     # kv "Great."
-    kv "Great."
+    kv "Ottimo."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:798
 translate italian sm1mv01s03_2_tl_costume_3835ab93:
 
     # kv "Nice work, everyone. This film is going to rule."
-    kv "Nice work, everyone. This film is going to rule."
+    kv "Bel lavoro, tutti. Questo film sarà spettacolare."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:801
 translate italian sm1mv01s03_2_tl_costume_79a5bd99:
 
     # tl "Later Kanya."
-    tl "Later Kanya."
+    tl "Ci vediamo Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:803
 translate italian sm1mv01s03_2_tl_costume_dd5023f7:
 
     # sy "Bye."
-    sy "Bye."
+    sy "Ciao."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:812
 translate italian sm1mv01s03_2_tl_costume_33ede533:
 
     # sy "And another few things are off the checklist."
-    sy "And another few things are off the checklist."
+    sy "E altre cose sono fuori dalla lista."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:814
 translate italian sm1mv01s03_2_tl_costume_d540dfe2:
 
     # mc "What's next?"
-    mc "What's next?"
+    mc "Cosa c'è dopo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:818
 translate italian sm1mv01s03_2_tl_costume_0ce6045f:
 
     # sy "We get to build a pirate ship in our home."
-    sy "We get to build a pirate ship in our home."
+    sy "Dobbiamo costruire una nave pirata nella nostra casa."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:820
 translate italian sm1mv01s03_2_tl_costume_a4503ab1:
 
     # mc "My god, it's every boy's dream."
-    mc "My god, it's every boy's dream."
+    mc "Mio Dio, è il sogno di ogni ragazzo."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:823
 translate italian sm1mv01s03_2_tl_costume_7b7e389d:
 
     # tl "Girls can like pirates too, [mcname]."
-    tl "Girls can like pirates too, [mcname]."
+    tl "Anche alle ragazze possono piacere i pirati, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:824
 translate italian sm1mv01s03_2_tl_costume_54c5e184:
 
     # tl "Orlando Bloom still looks fucking hot."
-    tl "Orlando Bloom still looks fucking hot."
+    tl "Orlando Bloom è ancora dannatamente sexy."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:830
 translate italian sm1mv01s03_2_tl_costume_dc9e9e31:
 
     # mc "So next up is the sets."
-    mc "So next up is the sets."
+    mc "Quindi il prossimo passo sono i set."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:835
 translate italian sm1mv01s03_2_tl_costume_5d2093a4:
 
     # tl "Yeah, let me know when you want to start on that."
-    tl "Yeah, let me know when you want to start on that."
+    tl "Sì, fammi sapere quando vuoi iniziare."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:836
 translate italian sm1mv01s03_2_tl_costume_438a89b9:
 
     # tl "I've got a little experience fixing things up."
-    tl "I've got a little experience fixing things up."
+    tl "Ho un po' di esperienza nel sistemare le cose."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:840
 translate italian sm1mv01s03_2_tl_costume_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Certo."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:841
 translate italian sm1mv01s03_2_tl_costume_6ef40d0a:
 
     # mc "Yeah, and then we gotta figure out where to find some decent-looking pirate swords."
-    mc "Yeah, and then we gotta figure out where to find some decent-looking pirate swords."
+    mc "Sì, e poi dobbiamo capire dove trovare delle spade da pirata dall'aspetto decente."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:843
 translate italian sm1mv01s03_2_tl_costume_27182661:
@@ -1556,55 +1556,55 @@ translate italian sm1mv01s03_2_tl_costume_27182661:
 translate italian sm1mv01s03_2_tl_costume_80fef810:
 
     # sy "I can't wait to see what we come up with for the set."
-    sy "I can't wait to see what we come up with for the set."
+    sy "Non vedo l'ora di vedere cosa verrà fuori per il set."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:847
 translate italian sm1mv01s03_2_tl_costume_97e2ed29:
 
     # sy "But we also have to finish the writing one day."
-    sy "But we also have to finish the writing one day."
+    sy "Ma dobbiamo anche finire di scrivere un giorno."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:850
 translate italian sm1mv01s03_2_tl_costume_399e85f1:
 
     # mc "Course. Just add it to the list."
-    mc "Course. Just add it to the list."
+    mc "Certo. Aggiungiamolo alla lista."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:851
 translate italian sm1mv01s03_2_tl_costume_ca9f22c7:
 
     # mc "Hopefully this writer's block fades quickly."
-    mc "Hopefully this writer's block fades quickly."
+    mc "Speriamo che questo blocco dello scrittore svanisca presto."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:854
 translate italian sm1mv01s03_2_tl_costume_0d411e65:
 
     # tl "Maybe all you need is a good night's sleep, and it will come to you."
-    tl "Maybe all you need is a good night's sleep, and it will come to you."
+    tl "Forse tutto ciò di cui hai bisogno è una buona notte di sonno, e ti verrà in mente."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:855
 translate italian sm1mv01s03_2_tl_costume_04a88644:
 
     # tl "I got faith, [mcname]."
-    tl "I got faith, [mcname]."
+    tl "Ho fiducia, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:858
 translate italian sm1mv01s03_2_tl_costume_67dea2fa:
 
     # mc "Thanks, Taisia."
-    mc "Thanks, Taisia."
+    mc "Grazie, Taisia."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:862
 translate italian sm1mv01s03_2_tl_costume_8e307f5f:
 
     # tl "Catch you later."
-    tl "Catch you later."
+    tl "Ci vediamo dopo."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:865
 translate italian sm1mv01s03_2_tl_costume_70394c34:
 
     # "*door closing*"
-    "*door closing*"
+    "*porta che si chiude*"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:868
 translate italian sm1mv01s03_2_tl_costume_2b35b6fe:
@@ -1616,119 +1616,119 @@ translate italian sm1mv01s03_2_tl_costume_2b35b6fe:
 translate italian sm1mv01s03_2_tl_costume_2ed83991:
 
     # mc "Something wrong?"
-    mc "Something wrong?"
+    mc "Qualcosa che non va?"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:873
 translate italian sm1mv01s03_2_tl_costume_d88bcdf3:
 
     # sy "I just really want to get this movie done right."
-    sy "I just really want to get this movie done right."
+    sy "Voglio solo davvero fare questo film per bene."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:874
 translate italian sm1mv01s03_2_tl_costume_2fe9b198:
 
     # sy "I did some research, people online say that all pirate movies are kind of cursed."
-    sy "I did some research, people online say that all pirate movies are kind of cursed."
+    sy "Ho fatto qualche ricerca, la gente online dice che tutti i film sui pirati sono in qualche modo maledetti."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:878
 translate italian sm1mv01s03_2_tl_costume_567ef8c7:
 
     # mc "What? Come on."
-    mc "What? Come on."
+    mc "Cosa? Dai."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:882
 translate italian sm1mv01s03_2_tl_costume_c0c69024:
 
     # sy "It's true. One ended up being so bloated and disastrously run that by the end, it bankrupted a whole studio."
-    sy "It's true. One ended up being so bloated and disastrously run that by the end, it bankrupted a whole studio."
+    sy "È vero. Uno è finito per essere così gonfiato e gestito disastrosamente che alla fine ha mandato in bancarotta un intero studio."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:885
 translate italian sm1mv01s03_2_tl_costume_67a6c3af:
 
     # mc "Well that was a big ass studio."
-    mc "Well that was a big ass studio."
+    mc "Beh, quello era un grosso studio."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:886
 translate italian sm1mv01s03_2_tl_costume_54f918d7:
 
     # mc "Our operation is tight and small."
-    mc "Our operation is tight and small."
+    mc "La nostra operazione è compatta e piccola."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:887
 translate italian sm1mv01s03_2_tl_costume_ad44d177:
 
     # mc "Heh heh."
-    mc "Heh heh."
+    mc "Eh eh."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:890
 translate italian sm1mv01s03_2_tl_costume_e91293ba:
 
     # sy "Good point. But man, this is a lot of work. I mean, we're barely through the writing."
-    sy "Good point. But man, this is a lot of work. I mean, we're barely through the writing."
+    sy "Buon punto. Ma cavolo, questo è un sacco di lavoro. Voglio dire, abbiamo appena iniziato a scrivere."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:894
 translate italian sm1mv01s03_2_tl_costume_512041fc:
 
     # sy "And even after we do all the filming and editing, we have to think about how we are going to promote and market this monster."
-    sy "And even after we do all the filming and editing, we have to think about how we are going to promote and market this monster."
+    sy "E anche dopo che avremo fatto tutte le riprese e il montaggio, dobbiamo pensare a come promuovere e commercializzare questo mostro."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:897
 translate italian sm1mv01s03_2_tl_costume_f7379613:
 
     # mc "I'm sure it's going to work out fine."
-    mc "I'm sure it's going to work out fine."
+    mc "Sono sicuro che andrà tutto bene."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:899
 translate italian sm1mv01s03_2_tl_costume_051dbc31:
 
     # sy "At the very least, it's going to be an adventure."
-    sy "At the very least, it's going to be an adventure."
+    sy "Come minimo, sarà un'avventura."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:903
 translate italian sm1mv01s03_2_tl_costume_38c137ac:
 
     # mc "One hundred percent."
-    mc "One hundred percent."
+    mc "Al cento per cento."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:904
 translate italian sm1mv01s03_2_tl_costume_dd1bbc16:
 
     # mc "I think I'm going to get ready for bed."
-    mc "I think I'm going to get ready for bed."
+    mc "Penso che mi preparerò per andare a letto."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:907
 translate italian sm1mv01s03_2_tl_costume_12bb0e2a:
 
     # sy "See you there."
-    sy "See you there."
+    sy "Ci vediamo lì."
 
 translate italian strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:54
     old "How did Klusty die?"
-    new "How did Klusty die?"
+    new "Come è morto Klusty?"
 
     # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:54
     old "I was a little worried"
-    new "I was a little worried"
+    new "Ero un po' preoccupato"
 
     # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:334
     old "I chose you for the role"
-    new "I chose you for the role"
+    new "Ti ho scelto per il ruolo"
 
     # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:334
     old "I don't like the sound of that"
-    new "I don't like the sound of that"
+    new "Non mi piace come suona"
 
     # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:466
     old "Maybe we should leave the drinks till after, Taisia"
-    new "Maybe we should leave the drinks till after, Taisia"
+    new "Forse dovremmo lasciare i drink per dopo, Taisia"
 
     # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:466
     old "Alright. I'll take one too"
-    new "Alright. I'll take one too"
+    new "Va bene. Ne prendo una anch'io"
 
     # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:621
     old "Later on"
-    new "Later on"
+    new "Più tardi"
 
