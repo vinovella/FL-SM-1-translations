@@ -2,7 +2,7 @@
 
     # game/code/renpy/screens/gallery.rpy:9
     old "Replay Gallery"
-    new "Wiederholungs Galerie"
+    new "Galerie"
 
     # game/code/renpy/screens/gallery.rpy:15
     old "Achievements"
