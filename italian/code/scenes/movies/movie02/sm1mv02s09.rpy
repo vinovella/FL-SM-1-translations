@@ -914,19 +914,19 @@ translate italian sm1mv02s09_movie_16bce200:
 translate italian sm1mv02s09_movie_b6981d3c:
 
     # ns "Oh, oh! You're right about her tongue, Captain!"
-    ns "Oh, oh! You're right about her tongue, Captain!"
+    ns "Oh, oh! Hai ragione sulla sua lingua, Capitano!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:856
 translate italian sm1mv02s09_movie_94a0e54a:
 
     # mc "Nggggggh - has she got extra muscles in her pussy, too?"
-    mc "Nggggggh - has she got extra muscles in her pussy, too?"
+    mc "Nggggggh - ha anche muscoli extra nella figa?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:859
 translate italian sm1mv02s09_movie_1e7e7ecd:
 
     # mc "She's clamping down on my cock so tightly!"
-    mc "She's clamping down on my cock so tightly!"
+    mc "Mi stringe il cazzo così forte!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:860
 translate italian sm1mv02s09_movie_5d3ba5b3:
@@ -938,7 +938,7 @@ translate italian sm1mv02s09_movie_5d3ba5b3:
 translate italian sm1mv02s09_movie_23238a22:
 
     # ns "I don't know, but she seems to be increasing the intensity of her tongue!"
-    ns "I don't know, but she seems to be increasing the intensity of her tongue!"
+    ns "Non lo so, ma sembra che stia aumentando l'intensità della lingua!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:864
 translate italian sm1mv02s09_movie_29a34f7c:
@@ -950,7 +950,7 @@ translate italian sm1mv02s09_movie_29a34f7c:
 translate italian sm1mv02s09_movie_a1824882:
 
     # ns "Oh, oh yesssssss!"
-    ns "Oh, oh yesssssss!"
+    ns "Oh, oh sììììììì!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:868
 translate italian sm1mv02s09_movie_e067a9c9:
@@ -974,25 +974,25 @@ translate italian sm1mv02s09_movie_411efc6a:
 translate italian sm1mv02s09_movie_18c0abab:
 
     # mc "Fuck, you're so tight!"
-    mc "Fuck, you're so tight!"
+    mc "Cazzo, sei così stretta!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:874
 translate italian sm1mv02s09_movie_c3e6c879:
 
     # mc "I - nggggggghhhh - don't know how long I can keep this up."
-    mc "I - nggggggghhhh - don't know how long I can keep this up."
+    mc "Io - nggggggghhhh - non so per quanto potrò resistere."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:877
 translate italian sm1mv02s09_movie_e88a6cb8:
 
     # ns "I can feel myself approaching an orgasm as well!"
-    ns "I can feel myself approaching an orgasm as well!"
+    ns "Posso sentire che mi sto avvicinando all'orgasmo anch'io!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:878
 translate italian sm1mv02s09_movie_4aac9000:
 
     # mhmes "And it is quite an attractive sight to behold."
-    mhmes "And it is quite an attractive sight to behold."
+    mhmes "Ed è una vista piuttosto attraente da vedere."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:881
 translate italian sm1mv02s09_movie_ef025953:
@@ -1004,37 +1004,37 @@ translate italian sm1mv02s09_movie_ef025953:
 translate italian sm1mv02s09_movie_8cee9893:
 
     # mhmes "And she is also quite a spectacle to behold. She really understands how to being a body to climax."
-    mhmes "And she is also quite a spectacle to behold. She really understands how to being a body to climax."
+    mhmes "Ed è anche uno spettacolo da vedere. Capisce davvero come portare un corpo all'orgasmo."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:885
 translate italian sm1mv02s09_movie_0642252e:
 
     # mhmes "I really do believe it deserves more extensive study..."
-    mhmes "I really do believe it deserves more extensive study..."
+    mhmes "Credo davvero che meriti uno studio più approfondito..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:886
 translate italian sm1mv02s09_movie_89daacf4:
 
     # mc "You're always - nggggh - welcome to get some hands on experience!"
-    mc "You're always - nggggh - welcome to get some hands on experience!"
+    mc "Sei sempre - nggggh - la benvenuta a fare un po' di esperienza pratica!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:887
 translate italian sm1mv02s09_movie_0c3ac319:
 
     # mhmes "I do believe I will have to do some more scientific inquiry with our guest."
-    mhmes "I do believe I will have to do some more scientific inquiry with our guest."
+    mhmes "Credo che dovrò fare qualche altra indagine scientifica con la nostra ospite."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:890
 translate italian sm1mv02s09_movie_3a156363:
 
     # ns "Mrrrgghhhhhh, oh she is bringing me close!"
-    ns "Mrrrgghhhhhh, oh she is bringing me close!"
+    ns "Mrrrgghhhhhh, oh mi sta portando vicino!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:891
 translate italian sm1mv02s09_movie_78be2997:
 
     # ns "Captain, what should I do!?"
-    ns "Captain, what should I do!?"
+    ns "Capitano, cosa dovrei fare!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:892
 translate italian sm1mv02s09_movie_8d083a73:
@@ -1046,13 +1046,13 @@ translate italian sm1mv02s09_movie_8d083a73:
 translate italian sm1mv02s09_movie_11f173a2:
 
     # mc "If you're going to cum, Jelerra, cum!"
-    mc "If you're going to cum, Jelerra, cum!"
+    mc "Se stai per venire, Jelerra, vieni!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:896
 translate italian sm1mv02s09_movie_1306e05b:
 
     # ns "Oh, oh, OH MY! CAPTAIN!"
-    ns "Oh, oh, OH MY! CAPTAIN!"
+    ns "Oh, oh, OH MIO DIO! CAPITANO!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:897
 translate italian sm1mv02s09_movie_a563df4a:
@@ -1064,13 +1064,13 @@ translate italian sm1mv02s09_movie_a563df4a:
 translate italian sm1mv02s09_movie_d0614b49:
 
     # ns "Oh Ramses, I'm-I'm-!-"
-    ns "Oh Ramses, I'm-I'm-!-"
+    ns "Oh Ramses, sto-sto-!-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:905
 translate italian sm1mv02s09_movie_e2dda1f5:
 
     # ns "Oh, I'M CUMMING! OH YESSSS!"
-    ns "Oh, I'M CUMMING! OH YESSSS!"
+    ns "Oh, STO VENENDO! OH SÌÌÌÌÌ!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:912
 translate italian sm1mv02s09_movie_d5e87f9b:
@@ -1082,61 +1082,61 @@ translate italian sm1mv02s09_movie_d5e87f9b:
 translate italian sm1mv02s09_movie_7a211153:
 
     # ns "Wow... that was amazing!"
-    ns "Wow... that was amazing!"
+    ns "Wow... è stato fantastico!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:922
 translate italian sm1mv02s09_movie_a20b3a57:
 
     # mhmes "That was quite an intense reaction."
-    mhmes "That was quite an intense reaction."
+    mhmes "È stata una reazione piuttosto intensa."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:928
 translate italian sm1mv02s09_movie_4a153d9d:
 
     # mc "Oh, and this was a pretty low energy orgasm for her."
-    mc "Oh, and this was a pretty low energy orgasm for her."
+    mc "Oh, e questo è stato un orgasmo di bassa intensità per lei."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:935
 translate italian sm1mv02s09_movie_f1d18e0c:
 
     # mhmes "You don't say... warrants further research indeed."
-    mhmes "You don't say... warrants further research indeed."
+    mhmes "Non dirmi... merita davvero ulteriori ricerche."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:936
 translate italian sm1mv02s09_movie_f3564368:
 
     # mhmes "Definitely requires a more... direct approach of study."
-    mhmes "Definitely requires a more... direct approach of study."
+    mhmes "Richiede decisamente un approccio di studio più... diretto."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:944
 translate italian sm1mv02s09_movie_7b7a35f9:
 
     # mhmes "If you could please mount me, Kasaru Captain, I would be most appreciative."
-    mhmes "If you could please mount me, Kasaru Captain, I would be most appreciative."
+    mhmes "Se potessi per favore montarmi, Capitano Kasaru, ti sarei molto riconoscente."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:947
 translate italian sm1mv02s09_movie_70e7bc86:
 
     # kv "You don't have to ask me twice!"
-    kv "You don't have to ask me twice!"
+    kv "Non devi chiedermelo due volte!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:955
 translate italian sm1mv02s09_movie_77e0eec9:
 
     # mhmes "This will be the easiest way to observe both your skillset, and your reactions. We may begin!"
-    mhmes "This will be the easiest way to observe both your skillset, and your reactions. We may begin!"
+    mhmes "Questo sarà il modo più semplice per osservare sia le tue abilità che le tue reazioni. Possiamo iniziare!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:958
 translate italian sm1mv02s09_movie_158cf894:
 
     # mc "Don't be too hasty."
-    mc "Don't be too hasty."
+    mc "Non essere troppo frettolosa."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:962
 translate italian sm1mv02s09_movie_f00cb4ca:
 
     # mc "There's just one more test I need to perform."
-    mc "There's just one more test I need to perform."
+    mc "C'è solo un altro test che devo eseguire."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:965
 translate italian sm1mv02s09_movie_8d5d343e:
@@ -1148,19 +1148,19 @@ translate italian sm1mv02s09_movie_8d5d343e:
 translate italian sm1mv02s09_movie_421f2de0:
 
     # ns "It makes me curious about your buttholes... I think maybe I want to learn something about your fascination with the \"back door\"!"
-    ns "It makes me curious about your buttholes... I think maybe I want to learn something about your fascination with the \"back door\"!"
+    ns "Mi incuriosisce dei vostri culi... Penso che forse voglio imparare qualcosa sulla vostra fascinazione per la \"porta sul retro\"!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:990
 translate italian sm1mv02s09_movie_fbecad0f:
 
     # mc "Oh shit! Your ass is even tighter!"
-    mc "Oh shit! Your ass is even tighter!"
+    mc "Oh cazzo! Il tuo culo è ancora più stretto!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:995
 translate italian sm1mv02s09_movie_48f85163:
 
     # mhmes "Slrrp, slrrrp, mmm - she seems to like it, Ramses."
-    mhmes "Slrrp, slrrrp, mmm - she seems to like it, Ramses."
+    mhmes "Slrrp, slrrrp, mmm - sembra che le piaccia, Ramses."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:996
 translate italian sm1mv02s09_movie_5f3d5574:
@@ -1178,19 +1178,19 @@ translate italian sm1mv02s09_movie_653e4583:
 translate italian sm1mv02s09_movie_e03f4ec0:
 
     # mc "Ouuahhjj j- Jelarra has quite a tongue too!"
-    mc "Ouuahhjj j- Jelarra has quite a tongue too!"
+    mc "Ouuahhjj j- Jelarra ha anche lei una bella lingua!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1010
 translate italian sm1mv02s09_movie_dcb0bc30:
 
     # mhmes "Oh yes, yes she does."
-    mhmes "Oh yes, yes she does."
+    mhmes "Oh sì, ce l'ha davvero."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1011
 translate italian sm1mv02s09_movie_a87aeb12:
 
     # mhmes "Mmmmmmmmmm, lck, lck, lck, slrrrrrp, the Kasaru is quite skilled!"
-    mhmes "Mmmmmmmmmm, lck, lck, lck, slrrrrrp, the Kasaru is quite skilled!"
+    mhmes "Mmmmmmmmmm, lck, lck, lck, slrrrrrp, la Kasaru è piuttosto abile!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1017
 translate italian sm1mv02s09_movie_390f8af8:
@@ -1208,19 +1208,19 @@ translate italian sm1mv02s09_movie_107e1ecd:
 translate italian sm1mv02s09_movie_1fd53dd5:
 
     # mc "Oh God, this feels out of this world!"
-    mc "Oh God, this feels out of this world!"
+    mc "Oh Dio, è fuori da questo mondo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1025
 translate italian sm1mv02s09_movie_8228c607:
 
     # mhmes "I agree - mmmmm - with your assessment, captain!"
-    mhmes "I agree - mmmmm - with your assessment, captain!"
+    mhmes "Sono d'accordo - mmmmm - con la tua valutazione, capitano!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1031
 translate italian sm1mv02s09_movie_e76f4c5b:
 
     # kv "Oh - yesssssssss-!"
-    kv "Oh - yesssssssss-!"
+    kv "Oh - sììììììì-!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1032
 translate italian sm1mv02s09_movie_fc9d1ee1:
@@ -1232,25 +1232,25 @@ translate italian sm1mv02s09_movie_fc9d1ee1:
 translate italian sm1mv02s09_movie_2e80172d:
 
     # mhmes "Mmmmmmm, sounds like Jelarra enjoys asses as much as you, Ramses!"
-    mhmes "Mmmmmmm, sounds like Jelarra enjoys asses as much as you, Ramses!"
+    mhmes "Mmmmmmm, sembra che a Jelarra piacciano i culi tanto quanto a te, Ramses!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1039
 translate italian sm1mv02s09_movie_32598ff5:
 
     # mc "Oh, she definitely - nghgggghhhhh - does!"
-    mc "Oh, she definitely - nghgggghhhhh - does!"
+    mc "Oh, decisamente - nghgggghhhhh - sì!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1045
 translate italian sm1mv02s09_movie_164128da:
 
     # mc "Fuck - I don't know how much I have left in me!"
-    mc "Fuck - I don't know how much I have left in me!"
+    mc "Cazzo - non so quanto altro ho in me!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1046
 translate italian sm1mv02s09_movie_cab30fa8:
 
     # mhmes "I feel myself approaching an orgasm as well."
-    mhmes "I feel myself approaching an orgasm as well."
+    mhmes "Sento anch'io che mi sto avvicinando a un orgasmo."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1047
 translate italian sm1mv02s09_movie_f8af1ffd:
@@ -1262,7 +1262,7 @@ translate italian sm1mv02s09_movie_f8af1ffd:
 translate italian sm1mv02s09_movie_9d7ff7bc:
 
     # mhmes "Mmmmmmm - and I'd say the same thing for our Kasaru as well!"
-    mhmes "Mmmmmmm - and I'd say the same thing for our Kasaru as well!"
+    mhmes "Mmmmmmm - e direi la stessa cosa anche per la nostra Kasaru!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1054
 translate italian sm1mv02s09_movie_15fec648:
@@ -1274,7 +1274,7 @@ translate italian sm1mv02s09_movie_15fec648:
 translate italian sm1mv02s09_movie_563211b1:
 
     # mc "Oh, right there, Jelarra! Oh, shit!"
-    mc "Oh, right there, Jelarra! Oh, shit!"
+    mc "Oh, proprio lì, Jelarra! Oh, cazzo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1061
 translate italian sm1mv02s09_movie_3293ab06:
@@ -1292,13 +1292,13 @@ translate italian sm1mv02s09_movie_84bcd8c5:
 translate italian sm1mv02s09_movie_ad20d587:
 
     # mc "Oh fuck-!"
-    mc "Oh fuck-!"
+    mc "Oh cazzo-!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1073
 translate italian sm1mv02s09_movie_e1b38a81:
 
     # mc "Oh fuck! Ugggggggh!"
-    mc "Oh fuck! Ugggggggh!"
+    mc "Oh cazzo! Ugggggggh!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1087
 translate italian sm1mv02s09_movie_449fb40f:
@@ -1310,97 +1310,97 @@ translate italian sm1mv02s09_movie_449fb40f:
 translate italian sm1mv02s09_movie_42294006:
 
     # mhmes "Incredible... that was... intense. Quite a skilled warrior in the bedroom indeed."
-    mhmes "Incredible... that was... intense. Quite a skilled warrior in the bedroom indeed."
+    mhmes "Incredibile... è stato... intenso. Davvero una guerriera abile in camera da letto."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1096
 translate italian sm1mv02s09_movie_f2604829:
 
     # ns "I think I understand your fascinations with butts now! And I think at some point, I will need to experience some of this myself!"
-    ns "I think I understand your fascinations with butts now! And I think at some point, I will need to experience some of this myself!"
+    ns "Penso di capire ora il vostro fascino per i culi! E penso che a un certo punto dovrò provare anch'io qualcosa del genere!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1098
 translate italian sm1mv02s09_movie_20885c7c:
 
     # mc "That can absolutely be arranged, Jelarra."
-    mc "That can absolutely be arranged, Jelarra."
+    mc "Può assolutamente essere organizzato, Jelarra."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1106
 translate italian sm1mv02s09_movie_e3be59cf:
 
     # mhmes "For scientific purposes of course."
-    mhmes "For scientific purposes of course."
+    mhmes "Per scopi scientifici ovviamente."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1112
 translate italian sm1mv02s09_movie_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "Ovviamente."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1113
 translate italian sm1mv02s09_movie_72f26666:
 
     # mc "Well, it seems we have successfully defended the ship."
-    mc "Well, it seems we have successfully defended the ship."
+    mc "Bene, sembra che abbiamo difeso con successo la nave."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1120
 translate italian sm1mv02s09_movie_90d696f1:
 
     # mhmes "Indeed.{w} But what do we do with our Kasaru friend now?"
-    mhmes "Indeed.{w} But what do we do with our Kasaru friend now?"
+    mhmes "Infatti.{w} Ma cosa facciamo ora con la nostra amica Kasaru?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1131
 translate italian sm1mv02s09_watersports_d73a4817:
 
     # kv "Need... more..."
-    kv "Need... more..."
+    kv "Bisogno... di più..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1138
 translate italian sm1mv02s09_watersports_0fb44886:
 
     # mhmes "It seems she's still under the effect of the lust."
-    mhmes "It seems she's still under the effect of the lust."
+    mhmes "Sembra che sia ancora sotto l'effetto della lussuria."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1140
 translate italian sm1mv02s09_watersports_b474b758:
 
     # mc "Well, fortunately we know how to cure that, don't we!"
-    mc "Well, fortunately we know how to cure that, don't we!"
+    mc "Beh, fortunatamente sappiamo come curarla, vero!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1142
 translate italian sm1mv02s09_watersports_b8d9007c:
 
     # ns "We do!"
-    ns "We do!"
+    ns "Sì!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1148
 translate italian sm1mv02s09_watersports_a209fb96:
 
     # mc "Vel, want to give us a hand?"
-    mc "Vel, want to give us a hand?"
+    mc "Vel, vuoi darci una mano?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1156
 translate italian sm1mv02s09_watersports_58fc758a:
 
     # mhmes "Unfortunately, I am depleted both from our coitus, as well as from synthesizing the cure."
-    mhmes "Unfortunately, I am depleted both from our coitus, as well as from synthesizing the cure."
+    mhmes "Purtroppo sono esausta sia dal nostro coito che dalla sintesi della cura."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1157
 translate italian sm1mv02s09_watersports_ded0344d:
 
     # mhmes "But, I would love to observe."
-    mhmes "But, I would love to observe."
+    mhmes "Ma mi piacerebbe osservare."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1159
 translate italian sm1mv02s09_watersports_45ca906c:
 
     # mc "Sounds good to me!"
-    mc "Sounds good to me!"
+    mc "Mi sembra perfetto!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1162
 translate italian sm1mv02s09_watersports_83ac9261:
 
     # mc "All right, Jelarra, let's get the captain back to her right mind."
-    mc "All right, Jelarra, let's get the captain back to her right mind."
+    mc "Va bene, Jelarra, riportiamo il capitano alla ragione."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1165
 translate italian sm1mv02s09_watersports_404c8b84:
@@ -1412,13 +1412,13 @@ translate italian sm1mv02s09_watersports_404c8b84:
 translate italian sm1mv02s09_watersports_62302749:
 
     # mc "Ohhhhh, yeaaaaaa. Definitely needed this!"
-    mc "Ohhhhh, yeaaaaaa. Definitely needed this!"
+    mc "Ohhhhh, sììììì. Ne avevo decisamente bisogno!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1176
 translate italian sm1mv02s09_watersports_0c49c866:
 
     # ns "Me too, Captain!"
-    ns "Me too, Captain!"
+    ns "Anch'io, Capitano!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1183
 translate italian sm1mv02s09_watersports_eba68f03:
@@ -1430,13 +1430,13 @@ translate italian sm1mv02s09_watersports_eba68f03:
 translate italian sm1mv02s09_watersports_6dab4a38:
 
     # ns "It sounds like it's rousing her, Captain!"
-    ns "It sounds like it's rousing her, Captain!"
+    ns "Sembra che la stia risvegliando, Capitano!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1185
 translate italian sm1mv02s09_watersports_5771cd4e:
 
     # mc "It does!"
-    mc "It does!"
+    mc "Sì!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1192
 translate italian sm1mv02s09_watersports_663ecf42:
@@ -1448,13 +1448,13 @@ translate italian sm1mv02s09_watersports_663ecf42:
 translate italian sm1mv02s09_watersports_29cc72b9:
 
     # ns "Captain?"
-    ns "Captain?"
+    ns "Capitano?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1194
 translate italian sm1mv02s09_watersports_7f5f9630:
 
     # mc "I think that the pee also acts as an intensifier, so she's-"
-    mc "I think that the pee also acts as an intensifier, so she's-"
+    mc "Penso che la pipì agisca anche come intensificatore, quindi lei sta-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1195
 translate italian sm1mv02s09_watersports_3586d95f:
@@ -1472,37 +1472,37 @@ translate italian sm1mv02s09_watersports_d5e87f9b:
 translate italian sm1mv02s09_watersports_bf9aac13:
 
     # kv "Ohhhh, oh yesssssss, oh, I'm, oh Gooooodddssss!"
-    kv "Ohhhh, oh yesssssss, oh, I'm, oh Gooooodddssss!"
+    kv "Ohhhh, oh sììììììì, oh, sto, oh Diiiiiiiii!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1204
 translate italian sm1mv02s09_watersports_a14293ad:
 
     # mhmes "The pee doesn't neutralize the reaction, it heightens it to the point where the virus overloads and can no longer react."
-    mhmes "The pee doesn't neutralize the reaction, it heightens it to the point where the virus overloads and can no longer react."
+    mhmes "La pipì non neutralizza la reazione, la intensifica al punto in cui il virus va in sovraccarico e non può più reagire."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1205
 translate italian sm1mv02s09_watersports_f8a811b5:
 
     # kv "Ohhhhh, oh Goooodddds, I'm, I'm - Iiiiiiiiii -!"
-    kv "Ohhhhh, oh Goooodddds, I'm, I'm - Iiiiiiiiii -!"
+    kv "Ohhhhh, oh Diiiiiii, sto, sto - Ioooooooo -!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1206
 translate italian sm1mv02s09_watersports_14219251:
 
     # mc "Just a little more-!"
-    mc "Just a little more-!"
+    mc "Solo un po' di più-!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1214
 translate italian sm1mv02s09_watersports_60efa136:
 
     # kv "I'm CUUUUMMMMMMIIIIINNNNNNNNGGGGG!"
-    kv "I'm CUUUUMMMMMMIIIIINNNNNNNNGGGGG!"
+    kv "STO VENENDOOOOOOOO!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1217
 translate italian sm1mv02s09_watersports_823fdff6:
 
     # kv "FUCKKKKKKKK!"
-    kv "FUCKKKKKKKK!"
+    kv "CAZZOOOOOOO!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1218
 translate italian sm1mv02s09_watersports_804ae0f9:
@@ -1514,31 +1514,31 @@ translate italian sm1mv02s09_watersports_804ae0f9:
 translate italian sm1mv02s09_watersports_fac1ab2b:
 
     # mhmes "I think I need to study this virus more... that was quite the reaction."
-    mhmes "I think I need to study this virus more... that was quite the reaction."
+    mhmes "Penso che debba studiare questo virus più approfonditamente... è stata proprio una reazione."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1228
 translate italian sm1mv02s09_watersports_0cb5b032:
 
     # ns "Oh, you'll have to stay for our festival then! It's quite the experience."
-    ns "Oh, you'll have to stay for our festival then! It's quite the experience."
+    ns "Oh, allora dovrai rimanere per il nostro festival! È davvero un'esperienza."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1239
 translate italian sm1mv02s09_end_8722f566:
 
     # mc "With the Kasaru defeated, and the virus cured-"
-    mc "With the Kasaru defeated, and the virus cured-"
+    mc "Con i Kasaru sconfitti, e il virus curato-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1242
 translate italian sm1mv02s09_end_0fae17ae:
 
     # ns "Oh, and we've sent dispersal units down to the planet so my people have ways to cure it!"
-    ns "Oh, and we've sent dispersal units down to the planet so my people have ways to cure it!"
+    ns "Oh, e abbiamo mandato unità di dispersione sul pianeta così la mia gente ha modi per curarlo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1244
 translate italian sm1mv02s09_end_f1fe6537:
 
     # mc "It seems like a job well done."
-    mc "It seems like a job well done."
+    mc "Sembra un lavoro ben fatto."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1246
 translate italian sm1mv02s09_end_aa5d23a7:
@@ -1550,161 +1550,161 @@ translate italian sm1mv02s09_end_aa5d23a7:
 translate italian sm1mv02s09_end_82bf2699:
 
     # mhmes "But what now, Captain?"
-    mhmes "But what now, Captain?"
+    mhmes "Ma cosa ora, Capitano?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1269
 translate italian sm1mv02s09_end_968c5f96:
 
     # mc "I think there's still a lot of universe left to explore, don't you Science Officer Spectre?"
-    mc "I think there's still a lot of universe left to explore, don't you Science Officer Spectre?"
+    mc "Penso che ci sia ancora molto universo da esplorare, non credi Ufficiale Scientifico Spectre?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1272
 translate italian sm1mv02s09_end_8f26a5a0:
 
     # mhmes "Aye, aye, Captain."
-    mhmes "Aye, aye, Captain."
+    mhmes "Sissignore, Capitano."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1275
 translate italian sm1mv02s09_end_1db2a4b6:
 
     # mc "Then I think we should continue on! Full speed ahead!"
-    mc "Then I think we should continue on! Full speed ahead!"
+    mc "Allora penso che dovremmo continuare! Avanti tutta!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1297
 translate italian sm1mv02s09_end_f3598b86:
 
     # sy "And cut!"
-    sy "And cut!"
+    sy "E stop!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1301
 translate italian sm1mv02s09_end_c32067a4:
 
     # sy "That's a wrap!"
-    sy "That's a wrap!"
+    sy "È finita!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1307
 translate italian sm1mv02s09_end_cf36579d:
 
     # "Everyone" "Woooooooooo!"
-    "Everyone" "Woooooooooo!"
+    "Tutti" "Woooooooooo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1311
 translate italian sm1mv02s09_end_fb71e55c:
 
     # mc "How was it?"
-    mc "How was it?"
+    mc "Com'è andata?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1317
 translate italian sm1mv02s09_end_378506b6:
 
     # sy "It looked fucking epic!"
-    sy "It looked fucking epic!"
+    sy "Era fottutamente epico!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1318
 translate italian sm1mv02s09_end_2738626d:
 
     # sy "You all did so good! The whole scene was super hot."
-    sy "You all did so good! The whole scene was super hot."
+    sy "Siete stati tutti bravissimi! L'intera scena era super hot."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1319
 translate italian sm1mv02s09_end_166a4726:
 
     # sy "This is going to be a hit, for sure!"
-    sy "This is going to be a hit, for sure!"
+    sy "Sarà sicuramente un successo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1322
 translate italian sm1mv02s09_end_3927c8b3:
 
     # ns "Yay! That's awesome to hear!"
-    ns "Yay! That's awesome to hear!"
+    ns "Evviva! È fantastico sentirlo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1329
 translate italian sm1mv02s09_end_3c4e9a83:
 
     # mhmes "I would agree."
-    mhmes "I would agree."
+    mhmes "Sono d'accordo."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1332
 translate italian sm1mv02s09_end_9f66b63b:
 
     # sy "But you two should go and get cleaned up. I know how long the special effects takes to get off."
-    sy "But you two should go and get cleaned up. I know how long the special effects takes to get off."
+    sy "Ma voi due dovreste andare a pulirvi. So quanto tempo ci vuole per togliere gli effetti speciali."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1341
 translate italian sm1mv02s09_end_5cd25b87:
 
     # mhmes "Thank you, Stacy."
-    mhmes "Thank you, Stacy."
+    mhmes "Grazie, Stacy."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1343
 translate italian sm1mv02s09_end_b634c2a2:
 
     # ns "Yes! Thank you! I can't wait to see the final version!"
-    ns "Yes! Thank you! I can't wait to see the final version!"
+    ns "Sì! Grazie! Non vedo l'ora di vedere la versione finale!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1348
 translate italian sm1mv02s09_end_05f2795d:
 
     # mc "So, did it really look good?"
-    mc "So, did it really look good?"
+    mc "Quindi, sembrava davvero buono?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1351
 translate italian sm1mv02s09_end_d8fb5f2a:
 
     # sy "It did."
-    sy "It did."
+    sy "Sì."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1354
 translate italian sm1mv02s09_end_7e50abc5:
 
     # kv "Good, because I have no idea how those angles looked."
-    kv "Good, because I have no idea how those angles looked."
+    kv "Bene, perché non ho idea di come fossero quelle angolazioni."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1357
 translate italian sm1mv02s09_end_872c4afb:
 
     # kv "I'll start downloading the data and get it over to you, Stacy."
-    kv "I'll start downloading the data and get it over to you, Stacy."
+    kv "Inizierò a scaricare i dati e te li manderò, Stacy."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1358
 translate italian sm1mv02s09_end_4b1cc96d:
 
     # kv "I'll also make sure to give it a once over and check all the footage."
-    kv "I'll also make sure to give it a once over and check all the footage."
+    kv "Mi assicurerò anche di dargli un'occhiata e controllare tutto il filmato."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1361
 translate italian sm1mv02s09_end_1afc8cd5:
 
     # sy "Thank you, Kanya!"
-    sy "Thank you, Kanya!"
+    sy "Grazie, Kanya!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1365
 translate italian sm1mv02s09_end_9edda2ec:
 
     # mc "All right, do you two need anything from me?"
-    mc "All right, do you two need anything from me?"
+    mc "Va bene, avete bisogno di qualcosa da me?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1369
 translate italian sm1mv02s09_end_4060cdbc:
 
     # sy "Nope! You nailed it today, superstar. You get hydrated and get some rest, and I'll follow up with you later."
-    sy "Nope! You nailed it today, superstar. You get hydrated and get some rest, and I'll follow up with you later."
+    sy "No! Sei stato perfetto oggi, superstar. Idratati e riposati un po', e ti ricontatterò più tardi."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1372
 translate italian sm1mv02s09_end_c8c8b22f:
 
     # mc "Sounds good to me! I'll see you two later!"
-    mc "Sounds good to me! I'll see you two later!"
+    mc "Mi sembra perfetto! Ci vediamo dopo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1375
 translate italian sm1mv02s09_end_64cc7ad0:
 
     # sy "See ya'!"
-    sy "See ya'!"
+    sy "Ciao!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1377
 translate italian sm1mv02s09_end_ac4f60cc:
 
     # kv "Later, [mcname]."
-    kv "Later, [mcname]."
+    kv "A dopo, [mcname]."
 
