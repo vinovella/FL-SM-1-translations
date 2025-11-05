@@ -69,11 +69,15 @@
    CODE: sj        NAME: `Sue`          CHINESE_TRANSLATION: `苏`           GENDER: Female             INFO: Sue Johnson
    CODE: ms        NAME: `Maya`         CHINESE_TRANSLATION: `玛雅`         GENDER: Female             INFO: Maya Siegel
    CODE: nr        NAME: `Nelson Rohr`  CHINESE_TRANSLATION: `纳尔逊·罗尔`   GENDER: Male               INFO: Nelson Rohr
+   CODE: zp        NAME: `Zemfira`      CHINESE_TRANSLATION: `泽菲拉`       GENDER: Female             INFO: Zemfira Power
+   CODE: ef        NAME: `Elena`        CHINESE_TRANSLATION: `爱丽娜`       GENDER: Female             INFO: Elena Flanagon
+   CODE: dd        NAME: `Daisy`        CHINESE_TRANSLATION: `黛西`         GENDER: Female             INFO: Daisy Diamond
+   CODE: dl        NAME: `Doug`         CHINESE_TRANSLATION: `道格`         GENDER: Male                INFO: Doug Dickles
    CODE: narrator  NAME: `Narrator`     CHINESE_TRANSLATION: None           GENDER: Non-binary         INFO: Used For Narration.     	SPECIALTY: Has no code role. So, all dialogue without speaker attribution is Narrator.
    CODE: mhmes     NAME: `[mhmesname]`  CHINESE_TRANSLATION: `丽莎` or `明`  GENDER: Female             INFO: Lyssa or Min            	SPECIALTY: Used when the speaker could be either Lyssa or Min, depending on player choice.
-7. Always use the character's specialty and gender to guide translation choices, ensuring respectful and accurate representation.
-8. When translating to Chinese, use the provided Chinese translations for character names.
-9. When translating to Italian, don't translate character names.
-10. If the speaker is text in quotes, then translate that as well.
-11. Do not translate comments that start with # and lines that start with old
-12. Escape in line quotes properly using the backslash (`\`) character.
+8. Always use the character's specialty and gender to guide translation choices, ensuring respectful and accurate representation.
+9. When translating to Chinese, use the provided Chinese translations for character names.
+10. When translating to Italian, don't translate character names.
+11. If the speaker is text in quotes, then translate that as well.
+12. Do not translate comments that start with # and lines that start with old
+13. Escape in line quotes properly using the backslash (`\`) character.
