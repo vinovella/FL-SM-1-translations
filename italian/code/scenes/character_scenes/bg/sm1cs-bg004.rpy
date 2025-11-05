@@ -320,31 +320,31 @@ translate italian sm1cs_bg004_f6c7558a:
 translate italian sm1cs_bg004_7acf3e51:
 
     # mc "It's a start."
-    mc "It's a start."
+    mc "È un inizio."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:233
 translate italian sm1cs_bg004_9a0232ae:
 
     # bg "I think I know how to make it even better..."
-    bg "I think I know how to make it even better..."
+    bg "Penso di sapere come renderlo ancora migliore..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:239
 translate italian sm1cs_bg004_aac52158:
 
     # mc "Yeah... that's better."
-    mc "Yeah... that's better."
+    mc "Sì... così è meglio."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:242
 translate italian sm1cs_bg004_518194dd:
 
     # mc "Mmmmm, that's right, Amore. Suck my cock."
-    mc "Mmmmm, that's right, Amore. Suck my cock."
+    mc "Mmmmm, così va bene, Amore. Succhiami il cazzo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:243
 translate italian sm1cs_bg004_2c73f040:
 
     # mc "Show me how much you love my dick. Adore it, shower it with affection..."
-    mc "Show me how much you love my dick. Adore it, shower it with affection..."
+    mc "Mostrami quanto ami il mio cazzo. Adoralo, coprilo di affetto..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:244
 translate italian sm1cs_bg004_568b1f94:
@@ -356,19 +356,19 @@ translate italian sm1cs_bg004_568b1f94:
 translate italian sm1cs_bg004_dcbc4e57:
 
     # mc "Mmmm, take it as deep as you can. I want to feel the back of your throat."
-    mc "Mmmm, take it as deep as you can. I want to feel the back of your throat."
+    mc "Mmmm, prendilo il più profondo possibile. Voglio sentire il fondo della tua gola."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:248
 translate italian sm1cs_bg004_e0c95343:
 
     # mc "Show me your devotion, Amore. Mmmmm..."
-    mc "Show me your devotion, Amore. Mmmmm..."
+    mc "Mostrami la tua devozione, Amore. Mmmmm..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:251
 translate italian sm1cs_bg004_a1542a2b:
 
     # mc "Show me how {i}badly{/i} you need me to fuck your ass."
-    mc "Show me how {i}badly{/i} you need me to fuck your ass."
+    mc "Mostrami quanto {i}disperatamente{/i} hai bisogno che ti scopi il culo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:252
 translate italian sm1cs_bg004_43927bcd:
@@ -380,25 +380,25 @@ translate italian sm1cs_bg004_43927bcd:
 translate italian sm1cs_bg004_a1a47fc8:
 
     # mc "Doubling down in your efforts, I see."
-    mc "Doubling down in your efforts, I see."
+    mc "Raddoppiando i tuoi sforzi, vedo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:256
 translate italian sm1cs_bg004_464ed8e6:
 
     # mc "Just a little bit more... I don't want to cover your face in my cum just yet."
-    mc "Just a little bit more... I don't want to cover your face in my cum just yet."
+    mc "Solo un po' di più... Non voglio ancora coprire il tuo viso con la mia sborra."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:257
 translate italian sm1cs_bg004_7b0a7cd1:
 
     # mc "I still have so much I want to do with you!"
-    mc "I still have so much I want to do with you!"
+    mc "Ho ancora così tanto che voglio fare con te!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:260
 translate italian sm1cs_bg004_82423fe2:
 
     # mc "But make sure you get my cock nice and wet. I want to be able to slide into your ass easily."
-    mc "But make sure you get my cock nice and wet. I want to be able to slide into your ass easily."
+    mc "Ma assicurati di bagnare bene il mio cazzo. Voglio poter scivolare facilmente nel tuo culo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:261
 translate italian sm1cs_bg004_c92f9101:
@@ -410,79 +410,79 @@ translate italian sm1cs_bg004_c92f9101:
 translate italian sm1cs_bg004_ed243d70:
 
     # mc "Yes, you little slut, slobber all over my dick, your deepest..."
-    mc "Yes, you little slut, slobber all over my dick, your deepest..."
+    mc "Sì, piccola troia, sbava su tutto il mio cazzo, il tuo più profondo..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:265
 translate italian sm1cs_bg004_272afe4d:
 
     # mc "Darkest..."
-    mc "Darkest..."
+    mc "Più oscuro..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:267
 translate italian sm1cs_bg004_cc505c54:
 
     # mc "Desire..."
-    mc "Desire..."
+    mc "Desiderio..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:268
 translate italian sm1cs_bg004_7ab4d979:
 
     # mc "Mmmmm... that's enough."
-    mc "Mmmmm... that's enough."
+    mc "Mmmmm... basta così."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:274
 translate italian sm1cs_bg004_1db454fd:
 
     # bg "Did I do a good job, [bg_mcname!t]?"
-    bg "Did I do a good job, [bg_mcname!t]?"
+    bg "Ho fatto un buon lavoro, [bg_mcname!t]?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:276
 translate italian sm1cs_bg004_1e204443:
 
     # mc "Fishing for a pat on the back, Amore?"
-    mc "Fishing for a pat on the back, Amore?"
+    mc "Cerchi una pacca sulla spalla, Amore?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:279
 translate italian sm1cs_bg004_93b1f89a:
 
     # bg "I, uhm-"
-    bg "I, uhm-"
+    bg "Io, uhm-"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:281
 translate italian sm1cs_bg004_f37a4d28:
 
     # mc "Because I was just thinking that you had done such a good job, it was time for your reward."
-    mc "Because I was just thinking that you had done such a good job, it was time for your reward."
+    mc "Perché stavo proprio pensando che hai fatto un così buon lavoro, era ora della tua ricompensa."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:282
 translate italian sm1cs_bg004_10494436:
 
     # mc "Turn around, ass up."
-    mc "Turn around, ass up."
+    mc "Girati, culo in alto."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:285
 translate italian sm1cs_bg004_1ad962f3_3:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
+    bg "Sì, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:287
 translate italian sm1cs_bg004_67cebdd1:
 
     # mc "That's not ass up, Amore."
-    mc "That's not ass up, Amore."
+    mc "Questo non è culo in alto, Amore."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:288
 translate italian sm1cs_bg004_df5ac675:
 
     # bg "I...{w} I'm not sure what you mean, [mcname]?"
-    bg "I...{w} I'm not sure what you mean, [mcname]?"
+    bg "Io...{w} Non sono sicura di cosa intendi, [mcname]?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:289
 translate italian sm1cs_bg004_09391b7f:
 
     # mc "Face. Down."
-    mc "Face. Down."
+    mc "Faccia. Giù."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:290
 translate italian sm1cs_bg004_fb37a534:
@@ -494,7 +494,7 @@ translate italian sm1cs_bg004_fb37a534:
 translate italian sm1cs_bg004_ec2548be:
 
     # bg "L-like this?"
-    bg "L-like this?"
+    bg "C-così?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:296
 translate italian sm1cs_bg004_03fb0be2:
@@ -506,31 +506,31 @@ translate italian sm1cs_bg004_03fb0be2:
 translate italian sm1cs_bg004_e9a805cd:
 
     # mc "Mmm, mmm, mmmmm. You do have a nice ass, Amore."
-    mc "Mmm, mmm, mmmmm. You do have a nice ass, Amore."
+    mc "Mmm, mmm, mmmmm. Hai proprio un bel culo, Amore."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:305
 translate italian sm1cs_bg004_a264948b:
 
     # bg "T-thank you, [mcname]."
-    bg "T-thank you, [mcname]."
+    bg "G-grazie, [mcname]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:306
 translate italian sm1cs_bg004_5aa3933e:
 
     # mc "A nice, firm ass..."
-    mc "A nice, firm ass..."
+    mc "Un bel culo sodo..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:310
 translate italian sm1cs_bg004_9ec65f24:
 
     # bg "I...{w} it makes me happy that you like my ass, [mcname] - erm, [bg_mcname!t]."
-    bg "I...{w} it makes me happy that you like my ass, [mcname] - erm, [bg_mcname!t]."
+    bg "Io...{w} mi rende felice che ti piaccia il mio culo, [mcname] - erm, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:312
 translate italian sm1cs_bg004_e7dd8341:
 
     # mc "Good..."
-    mc "Good..."
+    mc "Bene..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:316
 translate italian sm1cs_bg004_0db14907:
@@ -548,37 +548,37 @@ translate italian sm1cs_bg004_6ae751ad:
 translate italian sm1cs_bg004_b98e7f7b:
 
     # mc "It looks even better after a spanking."
-    mc "It looks even better after a spanking."
+    mc "Sembra ancora meglio dopo una sculacciata."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:322
 translate italian sm1cs_bg004_d75e8f1f:
 
     # bg "Y-yes, [bg_mcname!t]."
-    bg "Y-yes, [bg_mcname!t]."
+    bg "S-sì, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:326
 translate italian sm1cs_bg004_e3d0b0fd:
 
     # mc "Because, you deserve just a little bit more punishment. Don't you agree?"
-    mc "Because, you deserve just a little bit more punishment. Don't you agree?"
+    mc "Perché, meriti solo un po' più di punizione. Non sei d'accordo?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:328
 translate italian sm1cs_bg004_690b6143:
 
     # bg "Y... yes. I do..."
-    bg "Y... yes. I do..."
+    bg "S... sì. È vero..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:329
 translate italian sm1cs_bg004_9bef22ee:
 
     # mc "But I promise, it's only a little more."
-    mc "But I promise, it's only a little more."
+    mc "Ma prometto, è solo un po' di più."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:330
 translate italian sm1cs_bg004_4a451b73:
 
     # bg "Of course... do as you see fit..."
-    bg "Of course... do as you see fit..."
+    bg "Certo... fai come ritieni opportuno..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:333
 translate italian sm1cs_bg004_0db14907_1:
@@ -608,13 +608,13 @@ translate italian sm1cs_bg004_5e16dd2d:
 translate italian sm1cs_bg004_anal_1374efda:
 
     # mc "Mmmm... now you're a good girl."
-    mc "Mmmm... now you're a good girl."
+    mc "Mmmm... ora sei una brava ragazza."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:357
 translate italian sm1cs_bg004_anal_1e9004ef:
 
     # mc "Pull your ass cheeks apart. Let me see that little, pretty, pink hole."
-    mc "Pull your ass cheeks apart. Let me see that little, pretty, pink hole."
+    mc "Allarga le tue chiappe. Fammi vedere quel piccolo, grazioso, buco rosa."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:361
 translate italian sm1cs_bg004_anal_97bc398d:
