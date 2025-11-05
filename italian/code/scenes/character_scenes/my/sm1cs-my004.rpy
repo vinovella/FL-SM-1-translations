@@ -1730,5 +1730,5 @@ translate italian strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:486
     old "Mom"
-    new "Mom"
+    new "Mamma"
 

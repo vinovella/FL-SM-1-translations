@@ -638,7 +638,7 @@ translate italian strings:
 
     # game/code/scenes/it_office/sm1fs-i002.rpy:165
     old "Kinky"
-    new "Kinky"
+    new "Perverso"
 
     # game/code/scenes/it_office/sm1fs-i002.rpy:165
     old "I'd rather not say"

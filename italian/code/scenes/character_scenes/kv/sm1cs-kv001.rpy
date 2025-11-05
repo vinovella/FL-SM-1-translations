@@ -500,7 +500,7 @@ translate italian strings:
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:6
     old "BOOK NAME"
-    new "BOOK NAME"
+    new "NOME DEL LIBRO"
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
     old "Sure, I'm interested in how a photoshoot like this works"
