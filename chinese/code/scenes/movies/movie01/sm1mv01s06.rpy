@@ -818,7 +818,7 @@ translate chinese sm1mv01s06_movie_start_220381a6:
 translate chinese sm1mv01s06_movie_start_bcce6770:
 
     # sy "Tempestra is never {b}outmatched!{/b}"
-    sy "但风暴海姬从来不会{b}技不如人{b}！"
+    sy "但风暴海姬从来不会{b}技不如人{/b}！"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:512
 translate chinese sm1mv01s06_movie_start_c8ba725e:
