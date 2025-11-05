@@ -56,7 +56,7 @@ translate chinese sm1mv01s03_2_238f4c7d:
 translate chinese sm1mv01s03_2_8adda3c4:
 
     # tl "Oh right. [mcname], this is Juggsy."
-    tl "哦对了。[mcname]，这位是贾格西。"
+    tl "哦对了。[mcname]，这位是朱西。"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:51
 translate chinese sm1mv01s03_2_34db7c72:
@@ -260,7 +260,7 @@ translate chinese sm1mv01s03_2_b281eb24:
 translate chinese sm1mv01s03_2_81477cc8:
 
     # "Juggsy and Bently" "Laughing and hooting."
-    "贾格西和本特利" "发出爆笑和怪叫"
+    "朱西和本特利" "发出爆笑和怪叫"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:154
 translate chinese sm1mv01s03_2_c9d18f96:
@@ -320,7 +320,7 @@ translate chinese sm1mv01s03_2_0bb5d330:
 translate chinese sm1mv01s03_2_2af270c6:
 
     # tl "Juggsy and Bentley are my trusted associates."
-    tl "贾格西和本特利都是我信得过的伙伴。"
+    tl "朱西和本特利都是我信得过的伙伴。"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:174
 translate chinese sm1mv01s03_2_ec03ac3c:
