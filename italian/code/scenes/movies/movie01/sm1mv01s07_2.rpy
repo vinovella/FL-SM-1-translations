@@ -908,25 +908,25 @@ translate italian strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:115
     old "On the open road"
-    new "On the open road"
+    new "Sulla strada aperta"
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:134
     old "That's the idea"
-    new "That's the idea"
+    new "Questa è l'idea"
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:134
     old "Its not about the money"
-    new "Its not about the money"
+    new "Non è questione di soldi"
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:199
     old "At the rental"
-    new "At the rental"
+    new "Al noleggio"
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:485
     old "It doesn't always feel like you are"
-    new "It doesn't always feel like you are"
+    new "Non sempre sembra che tu lo sia"
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:485
     old "Just teasing"
-    new "Just teasing"
+    new "Solo per scherzare"
 
