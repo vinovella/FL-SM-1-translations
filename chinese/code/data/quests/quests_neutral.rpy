@@ -416,3 +416,29 @@
     old "Meet Ridley"
     new "见雷德利"
 
+translate chinese strings:
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Be at home at Noon"
+    new "Be at home at Noon"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy to prepare for party"
+    new "Talk to Stacy to prepare for party"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "This storyline is finished for this game"
+    new "This storyline is finished for this game"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Text AmRose"
+    new "Text AmRose"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Meet AmRose in the park during the day"
+    new "Meet AmRose in the park during the day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy about Melony"
+    new "Talk to Stacy about Melony"
+

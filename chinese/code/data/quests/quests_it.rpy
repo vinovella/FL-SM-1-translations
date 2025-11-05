@@ -228,3 +228,9 @@
     old "Talk with April when she is working"
     new "当艾普尔工作时与她交谈"
 
+translate chinese strings:
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "This storyline will continue in the next release"
+    new "This storyline will continue in the next release"
+

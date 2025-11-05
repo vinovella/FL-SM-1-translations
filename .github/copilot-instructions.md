@@ -20,7 +20,7 @@
    CODE: mct       NAME: `[mcname]`     CHINESE_TRANSLATION: `[mcname]`    GENDER: Male               INFO: Main Character thinking 	SPECIALTY: Default Name - Stacy Brown. Can be Stacy Young depending on game version
    CODE: mcd       NAME: `[mcname]`     CHINESE_TRANSLATION: `[mcname]`    GENDER: Male               INFO: Main Character          		SPECIALTY: Player can name the character, but gender is fixed
    CODE: mo        NAME: `You`          CHINESE_TRANSLATION: `你`          GENDER: Male               INFO: Main Character          			SPECIALTY: Player can name the character, but gender is fixed
-   CODE: arj       NAME: `Amber-Rose`   CHINESE_TRANSLATION: `爱洛丝"`       GENDER: Female             INFO: Amber-Rose Jenkins
+   CODE: arj       NAME: `AmRose`   CHINESE_TRANSLATION: `爱洛丝"`       GENDER: Female             INFO: Amber-Rose Jenkins
    CODE: bg        NAME: `Amore`        CHINESE_TRANSLATION: `阿茉`         GENDER: Female             INFO: BDSM Model Amore
    CODE: dc        NAME: `Debbie`       CHINESE_TRANSLATION: `黛比`         GENDER: Female             INFO: Debbie Callahan         		SPECIALTY: Trans character (has a penis). Identifies as She/Her.
    CODE: kv        NAME: `Kanya`        CHINESE_TRANSLATION: `康雅`         GENDER: Female             INFO: Kanya Vu
