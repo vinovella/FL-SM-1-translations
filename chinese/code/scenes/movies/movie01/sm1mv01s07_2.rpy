@@ -14,7 +14,7 @@ translate chinese sm1mv01s07_2_393fb688:
 translate chinese sm1mv01s07_2_b8e3f2ff:
 
     # tl "Jugsy."
-    tl "贾格西那儿。"
+    tl "朱西那儿。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:26
 translate chinese sm1mv01s07_2_be670325:
