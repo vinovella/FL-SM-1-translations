@@ -2,247 +2,247 @@
 translate italian sm1mv01s09_2288bebd:
 
     # kv "...Aaaaaaaaaaand cut."
-    kv "...Aaaaaaaaaaand cut."
+    kv "...Eeeeeeeee stop."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:96
 translate italian sm1mv01s09_8c3df0d4:
 
     # sy "Oh thank God."
-    sy "Oh thank God."
+    sy "Oh grazie a Dio."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:97
 translate italian sm1mv01s09_6c52ca80:
 
     # sy "I {i}cannot{/i} get anymore sand in my ass. It's driving me {i}wild{/i}."
-    sy "I {i}cannot{/i} get anymore sand in my ass. It's driving me {i}wild{/i}."
+    sy "{i}Non posso{/i} avere più sabbia nel culo. Mi sta facendo diventare {i}pazza{/i}."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:100
 translate italian sm1mv01s09_f59b34ed:
 
     # mc "You don't need to be here right now."
-    mc "You don't need to be here right now."
+    mc "Non hai bisogno di essere qui adesso."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:101
 translate italian sm1mv01s09_2d0f276f:
 
     # mc "After your monologue, your character doesn't show up for a while."
-    mc "After your monologue, your character doesn't show up for a while."
+    mc "Dopo il tuo monologo, il tuo personaggio non si fa vedere per un po'."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:105
 translate italian sm1mv01s09_2f590b3a:
 
     # sy "But who would be the script supervisor if I wasn't here!?"
-    sy "But who would be the script supervisor if I wasn't here!?"
+    sy "Ma chi sarebbe il supervisore dello script se non ci fossi io!?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:108
 translate italian sm1mv01s09_04d82986:
 
     # tl "You're not my supervisor!"
-    tl "You're not my supervisor!"
+    tl "Non sei il mio supervisore!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:110
 translate italian sm1mv01s09_e861a3f3:
 
     # mc "What the hell is a script supervisor?"
-    mc "What the hell is a script supervisor?"
+    mc "Che diavolo è un supervisore dello script?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:113
 translate italian sm1mv01s09_8f7c24de:
 
     # sy "I make sure to keep track of continuity! That and to make sure you're doing all of your lines right."
-    sy "I make sure to keep track of continuity! That and to make sure you're doing all of your lines right."
+    sy "Mi assicuro di tenere traccia della continuità! Questo e di assicurarmi che tu stia facendo tutte le tue battute correttamente."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:115
 translate italian sm1mv01s09_908196a2:
 
     # mc "Man... how many people does it take to make a movie?"
-    mc "Man... how many people does it take to make a movie?"
+    mc "Cavolo... quante persone servono per fare un film?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:119
 translate italian sm1mv01s09_a6bdbde1:
 
     # sy "Definitely more than four."
-    sy "Definitely more than four."
+    sy "Sicuramente più di quattro."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:122
 translate italian sm1mv01s09_88979df8:
 
     # kv "All right, well Ms. \"Script Supervisor\", what do we have next?"
-    kv "All right, well Ms. \"Script Supervisor\", what do we have next?"
+    kv "Va bene, allora Signorina \"Supervisore dello Script\", cosa abbiamo dopo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:124
 translate italian sm1mv01s09_691ab6e7:
 
     # sy "Uhm... I think just the ending? The big stand off."
-    sy "Uhm... I think just the ending? The big stand off."
+    sy "Uhm... penso solo il finale? Il grande scontro."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:127
 translate italian sm1mv01s09_08816fb2:
 
     # kv "Sweet."
-    kv "Sweet."
+    kv "Perfetto."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:131
 translate italian sm1mv01s09_24c61750:
 
     # mct "Hmmm... they're looking beat."
-    mct "Hmmm... they're looking beat."
+    mct "Hmmm... sembrano stanche."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:132
 translate italian sm1mv01s09_2b3f39df:
 
     # mct "It has been a really long day."
-    mct "It has been a really long day."
+    mct "È stata una giornata davvero lunga."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:136
 translate italian sm1mv01s09_3f1aa590:
 
     # mct "We need to make sure we schedule things better in the future."
-    mct "We need to make sure we schedule things better in the future."
+    mct "Dobbiamo assicurarci di programmare meglio le cose in futuro."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:137
 translate italian sm1mv01s09_476e1983:
 
     # mct "There was always going to be some rough patches on this big of a production."
-    mct "There was always going to be some rough patches on this big of a production."
+    mct "Ci sarebbero sempre stati dei momenti difficili su una produzione così grande."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:140
 translate italian sm1mv01s09_251b4443:
 
     # mc "That's awesome! Then we're almost done. Just a little further."
-    mc "That's awesome! Then we're almost done. Just a little further."
+    mc "È fantastico! Allora abbiamo quasi finito. Solo un altro po'."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:143
 translate italian sm1mv01s09_a089ddbe:
 
     # tl "Thank God. Stacy was right about the sand..."
-    tl "Thank God. Stacy was right about the sand..."
+    tl "Grazie a Dio. Stacy aveva ragione sulla sabbia..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:144
 translate italian sm1mv01s09_af33ea6d:
 
     # mc "Et tu, Taisia?"
-    mc "Et tu, Taisia?"
+    mc "Anche tu, Taisia?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:145
 translate italian sm1mv01s09_5810bf12:
 
     # tl "I don't like sand. It's coarse and rough and irritating — and it gets everywhere."
-    tl "I don't like sand. It's coarse and rough and irritating — and it gets everywhere."
+    tl "Non mi piace la sabbia. È ruvida e irritante — e va dappertutto."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:147
 translate italian sm1mv01s09_f2c3d056:
 
     # mc "I thought you liked rough things?"
-    mc "I thought you liked rough things?"
+    mc "Pensavo ti piacessero le cose ruvide?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:150
 translate italian sm1mv01s09_87578058:
 
     # tl "Yeah, kinky rough. Not \"sand in my asshole\" rough."
-    tl "Yeah, kinky rough. Not \"sand in my asshole\" rough."
+    tl "Sì, ruvido perverso. Non ruvido tipo \"sabbia nel culo\"."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:153
 translate italian sm1mv01s09_b80e55ac:
 
     # mc "Anyway — we've done a really good job today! Look at how much we've gotten through!"
-    mc "Anyway — we've done a really good job today! Look at how much we've gotten through!"
+    mc "Comunque — abbiamo fatto davvero un ottimo lavoro oggi! Guarda quanto abbiamo fatto!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:154
 translate italian sm1mv01s09_304f7a8e:
 
     # mc "By the end of today, we'll have wrapped on our pirate movie!"
-    mc "By the end of today, we'll have wrapped on our pirate movie!"
+    mc "Entro la fine di oggi, avremo finito il nostro film sui pirati!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:157
 translate italian sm1mv01s09_5a088c31:
 
     # kv "You're right..."
-    kv "You're right..."
+    kv "Hai ragione..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:159
 translate italian sm1mv01s09_4f218b4a:
 
     # sy "We are {i}almost{/i} done."
-    sy "We are {i}almost{/i} done."
+    sy "Abbiamo {i}quasi{/i} finito."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:162
 translate italian sm1mv01s09_1070753e:
 
     # mc "Yeah! And, some of the stuff left is going to be a lot of fun for us to film!"
-    mc "Yeah! And, some of the stuff left is going to be a lot of fun for us to film!"
+    mc "Sì! E, alcune delle cose che rimangono saranno molto divertenti da filmare!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:166
 translate italian sm1mv01s09_cce5f06c:
 
     # tl "Mmmmm... you have a good point there. I always feel better with a dick in my ass."
-    tl "Mmmmm... you have a good point there. I always feel better with a dick in my ass."
+    tl "Mmmmm... hai ragione. Mi sento sempre meglio con un cazzo nel culo."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:169
 translate italian sm1mv01s09_e38f2353:
 
     # sy "And I get to make Taisia shiver and shake as I eat her out!"
-    sy "And I get to make Taisia shiver and shake as I eat her out!"
+    sy "E io farò tremare e fremere Taisia mentre la lecco!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:173
 translate italian sm1mv01s09_b70108a4:
 
     # mc "Yeah! So, just one last push, and we're done!"
-    mc "Yeah! So, just one last push, and we're done!"
+    mc "Sì! Quindi, solo un ultimo sforzo, e abbiamo finito!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:181
 translate italian sm1mv01s09_e8acd2b4:
 
     # "Everyone" "Yeah!"
-    "Everyone" "Yeah!"
+    "Tutti" "Sì!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:182
 translate italian sm1mv01s09_22aee32b:
 
     # kv "You heard, [mcname]. Everyone get to your spots!"
-    kv "You heard, [mcname]. Everyone get to your spots!"
+    kv "Avete sentito, [mcname]. Tutti ai vostri posti!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:185
 translate italian sm1mv01s09_e3a5aa68:
 
     # sy "First position!"
-    sy "First position!"
+    sy "Prima posizione!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:189
 translate italian sm1mv01s09_035ef16a:
 
     # tl "I figure first will be a blowjob-"
-    tl "I figure first will be a blowjob-"
+    tl "Immagino che la prima sarà un pompino-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:192
 translate italian sm1mv01s09_cf003abb:
 
     # sy "Oh, I meant like \"starting spots\" but I {b}love{/b} where your head is at, Taisia!"
-    sy "Oh, I meant like \"starting spots\" but I {b}love{/b} where your head is at, Taisia!"
+    sy "Oh, intendevo tipo \"posizioni di partenza\" ma {b}adoro{/b} dove hai la testa, Taisia!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:195
 translate italian sm1mv01s09_b1b5ebdb:
 
     # sy "All right, Kanya — on your call!"
-    sy "All right, Kanya — on your call!"
+    sy "Va bene, Kanya — quando dici tu!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:198
 translate italian sm1mv01s09_a71365d8:
 
     # kv "Yeah, one second... just need to get the right angle here..."
-    kv "Yeah, one second... just need to get the right angle here..."
+    kv "Sì, un secondo... devo solo trovare l'angolazione giusta qui..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:200
 translate italian sm1mv01s09_8d2bf680:
 
     # kv "All right, and..."
-    kv "All right, and..."
+    kv "Va bene, e..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:203
 translate italian sm1mv01s09_0212cd3a:
 
     # kv "Action!"
-    kv "Action!"
+    kv "Azione!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:226
 translate italian sm1mv01s09_movie_start_334f8a6e:
@@ -254,103 +254,103 @@ translate italian sm1mv01s09_movie_start_334f8a6e:
 translate italian sm1mv01s09_movie_start_d603f9a8:
 
     # sy "Well, well, well... if it isn't Dickhart and Searose."
-    sy "Well, well, well... if it isn't Dickhart and Searose."
+    sy "Bene, bene, bene... se non sono Dickhart e Searose."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:230
 translate italian sm1mv01s09_movie_start_576302c7:
 
     # sy "Come back for more of my wild pussy, Captain?"
-    sy "Come back for more of my wild pussy, Captain?"
+    sy "Tornato per ancora un po' della mia figa selvaggia, Capitano?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:234
 translate italian sm1mv01s09_movie_start_04083077:
 
     # tl "This is the end for you, you vile wench!"
-    tl "This is the end for you, you vile wench!"
+    tl "Questa è la fine per te, vile sgualdrina!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:238
 translate italian sm1mv01s09_movie_start_1293dede:
 
     # sy "Oh, Scarlet. I beat you once, what makes you think I can't do it again?"
-    sy "Oh, Scarlet. I beat you once, what makes you think I can't do it again?"
+    sy "Oh, Scarlet. Ti ho battuto una volta, cosa ti fa pensare che non possa farlo di nuovo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:241
 translate italian sm1mv01s09_movie_start_5a4783b0:
 
     # tl "Because this time, I'm not alone!"
-    tl "Because this time, I'm not alone!"
+    tl "Perché questa volta, non sono sola!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:244
 translate italian sm1mv01s09_movie_start_506640ab:
 
     # sy "Is that so? How do you know your brave and fearless captain hasn't fallen under the spell of my pussy?"
-    sy "Is that so? How do you know your brave and fearless captain hasn't fallen under the spell of my pussy?"
+    sy "Davvero? Come fai a sapere che il tuo coraggioso e impavido capitano non è caduto sotto l'incantesimo della mia figa?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:245
 translate italian sm1mv01s09_movie_start_063ea094:
 
     # sy "Isn't that how you failed the first time? So sure your first mate would {i}never{/i} fall for my tricks?"
-    sy "Isn't that how you failed the first time? So sure your first mate would {i}never{/i} fall for my tricks?"
+    sy "Non è così che hai fallito la prima volta? Così sicura che il tuo primo ufficiale {i}mai{/i} sarebbe caduto nei miei trucchi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:249
 translate italian sm1mv01s09_movie_start_f94a8d0b:
 
     # sy "Well, look at him now!"
-    sy "Well, look at him now!"
+    sy "Beh, guardalo adesso!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:251
 translate italian sm1mv01s09_movie_start_d0f1a8d2:
 
     # tl "*gasps* First Mate Bob!{w} Where is his cock?"
-    tl "*gasps* First Mate Bob!{w} Where is his cock?"
+    tl "*ansima* Primo Ufficiale Bob!{w} Dov'è il suo cazzo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:252
 translate italian sm1mv01s09_movie_start_5ef842bb:
 
     # sy "I broke it off for his earlier failure."
-    sy "I broke it off for his earlier failure."
+    sy "Gliel'ho spezzato per il suo precedente fallimento."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:253
 translate italian sm1mv01s09_movie_start_29b820f0:
 
     # sy "It's feeding the crabs now."
-    sy "It's feeding the crabs now."
+    sy "Ora sta nutrendo i granchi."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:257
 translate italian sm1mv01s09_movie_start_bffbcdc0:
 
     # tl "You bitch. You'll pay for that, Tempestra!"
-    tl "You bitch. You'll pay for that, Tempestra!"
+    tl "Stronza. Pagherai per questo, Tempestra!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:260
 translate italian sm1mv01s09_movie_start_274fc310:
 
     # sy "Words are wind, Scarlet."
-    sy "Words are wind, Scarlet."
+    sy "Le parole sono vento, Scarlet."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:263
 translate italian sm1mv01s09_movie_start_30694308:
 
     # tl "Come on, Dickhart! Time to see if you're as good with that steel as you are with your sword."
-    tl "Come on, Dickhart! Time to see if you're as good with that steel as you are with your sword."
+    tl "Forza, Dickhart! È ora di vedere se sei bravo con quell'acciaio quanto lo sei con la tua spada."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:265
 translate italian sm1mv01s09_movie_start_d2f92e9e:
 
     # mc "Scarlet, I think-"
-    mc "Scarlet, I think-"
+    mc "Scarlet, penso-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:269
 translate italian sm1mv01s09_movie_start_c83d788d:
 
     # tl "I knew it! You traitorous scum!"
-    tl "I knew it! You traitorous scum!"
+    tl "Lo sapevo! Feccia traditrice!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:271
 translate italian sm1mv01s09_movie_start_726bcad7:
 
     # mc "What! What are you doing!?"
-    mc "What! What are you doing!?"
+    mc "Cosa! Cosa stai facendo!?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:274
 translate italian sm1mv01s09_movie_start_6a8d5cc9:
@@ -362,49 +362,49 @@ translate italian sm1mv01s09_movie_start_6a8d5cc9:
 translate italian sm1mv01s09_movie_start_c6083348:
 
     # sy "See!? No one can resist me, Scarlet!"
-    sy "See!? No one can resist me, Scarlet!"
+    sy "Vedi!? Nessuno può resistermi, Scarlet!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:279
 translate italian sm1mv01s09_movie_start_a4b735e6:
 
     # mc "But I did! I threw sand in your face, and led her here, to your treasure trove!"
-    mc "But I did! I threw sand in your face, and led her here, to your treasure trove!"
+    mc "Ma l'ho fatto! Ti ho gettato sabbia in faccia e l'ho portata qui, al tuo tesoro!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:281
 translate italian sm1mv01s09_movie_start_38f5f5f8:
 
     # sy "Just like we planned. I have to say I'm impressed, Dickhart."
-    sy "Just like we planned. I have to say I'm impressed, Dickhart."
+    sy "Proprio come avevamo pianificato. Devo dire che sono impressionata, Dickhart."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:284
 translate italian sm1mv01s09_movie_start_bdd7ee1d:
 
     # mc "No! You two-faced hellspawn. Tempestra!"
-    mc "No! You two-faced hellspawn. Tempestra!"
+    mc "No! Progenie infernale a due facce. Tempestra!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:287
 translate italian sm1mv01s09_movie_start_d5a0b3a8:
 
     # mc "Come now. You cannot trust her."
-    mc "Come now. You cannot trust her."
+    mc "Dai ora. Non puoi fidarti di lei."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:289
 translate italian sm1mv01s09_movie_start_61742784:
 
     # tl "I'm not going to be betrayed twice, Dickhart."
-    tl "I'm not going to be betrayed twice, Dickhart."
+    tl "Non sarò tradita due volte, Dickhart."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:290
 translate italian sm1mv01s09_movie_start_6ddb3c49:
 
     # mc "This is what she {b}wants!{/b} Us at each others' throats."
-    mc "This is what she {b}wants!{/b} Us at each others' throats."
+    mc "Questo è quello che {b}vuole!{/b} Che ci scanniamo a vicenda."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:292
 translate italian sm1mv01s09_movie_start_62e5605b:
 
     # mc "Don't fall for the wench's tricks, Searose."
-    mc "Don't fall for the wench's tricks, Searose."
+    mc "Non cadere nei trucchi della sgualdrina, Searose."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:293
 translate italian sm1mv01s09_movie_start_a4cd1341:
@@ -416,7 +416,7 @@ translate italian sm1mv01s09_movie_start_a4cd1341:
 translate italian sm1mv01s09_movie_start_a0bbe248:
 
     # mc "Fine, if you won't believe me..."
-    mc "Fine, if you won't believe me..."
+    mc "Bene, se non mi credi..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:299
 translate italian sm1mv01s09_movie_start_7a9dc5f2:
@@ -428,13 +428,13 @@ translate italian sm1mv01s09_movie_start_7a9dc5f2:
 translate italian sm1mv01s09_movie_start_be0539a1:
 
     # mc "I'm unarmed, I'm at your mercy, Scarlet."
-    mc "I'm unarmed, I'm at your mercy, Scarlet."
+    mc "Sono disarmato, sono alla tua mercé, Scarlet."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:303
 translate italian sm1mv01s09_movie_start_b1c82e62:
 
     # mc "The treasure is... yours."
-    mc "The treasure is... yours."
+    mc "Il tesoro è... tuo."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:306
 translate italian sm1mv01s09_movie_start_f3e4c1e0:
@@ -446,181 +446,181 @@ translate italian sm1mv01s09_movie_start_f3e4c1e0:
 translate italian sm1mv01s09_movie_start_1adaf711:
 
     # mc "End it. I played my cards as best as I could. But it appears my hand fell short."
-    mc "End it. I played my cards as best as I could. But it appears my hand fell short."
+    mc "Finiscila. Ho giocato le mie carte meglio che potevo. Ma sembra che la mia mano non sia bastata."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:310
 translate italian sm1mv01s09_movie_start_f33d8918:
 
     # mc "But I just hope you kill Tempestra before she plunges a dirk in your backside."
-    mc "But I just hope you kill Tempestra before she plunges a dirk in your backside."
+    mc "Ma spero solo che tu uccida Tempestra prima che ti pianti un pugnale nella schiena."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:314
 translate italian sm1mv01s09_movie_start_1d0edbef:
 
     # tl "Damn you, Dickhart..."
-    tl "Damn you, Dickhart..."
+    tl "Maledetto, Dickhart..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:315
 translate italian sm1mv01s09_movie_start_3aca2ff7:
 
     # tl "I {b}can't{/b} kill you. Not now..."
-    tl "I {b}can't{/b} kill you. Not now..."
+    tl "{b}Non posso{/b} ucciderti. Non ora..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:318
 translate italian sm1mv01s09_movie_start_e2f21eec:
 
     # sy "Muah-ha-haa! My what an interesting turn..."
-    sy "Muah-ha-haa! My what an interesting turn..."
+    sy "Muah-ha-haa! Che svolta interessante..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:321
 translate italian sm1mv01s09_movie_start_44552a31:
 
     # sy "Don't judge yourself too harshly Searose. You're not the first to fall for his cock."
-    sy "Don't judge yourself too harshly Searose. You're not the first to fall for his cock."
+    sy "Non giudicarti troppo duramente Searose. Non sei la prima a cadere per il suo cazzo."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:324
 translate italian sm1mv01s09_movie_start_3bf8fea0:
 
     # sy "I suppose this still leaves us with one treasure and three of us..."
-    sy "I suppose this still leaves us with one treasure and three of us..."
+    sy "Suppongo che ci lasci ancora con un tesoro e in tre..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:327
 translate italian sm1mv01s09_movie_start_0f241640:
 
     # sy "How about a parlay?"
-    sy "How about a parlay?"
+    sy "Che ne dici di un negoziato?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:329
 translate italian sm1mv01s09_movie_start_de3645a9:
 
     # tl "What exactly do you have in mind, Tempestra?"
-    tl "What exactly do you have in mind, Tempestra?"
+    tl "Cosa hai esattamente in mente, Tempestra?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:332
 translate italian sm1mv01s09_movie_start_8148e238:
 
     # sy "I propose a fuck to the death."
-    sy "I propose a fuck to the death."
+    sy "Propongo una scopata fino alla morte."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:334
 translate italian sm1mv01s09_movie_start_47e49dcd:
 
     # mc "You want to do what, wench?"
-    mc "You want to do what, wench?"
+    mc "Vuoi fare cosa, sgualdrina?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:336
 translate italian sm1mv01s09_movie_start_cfc2f3e1:
 
     # sy "Searose and I, fuck you. Fuck you until we can't anymore, last woman standing wins."
-    sy "Searose and I, fuck you. Fuck you until we can't anymore, last woman standing wins."
+    sy "Searose ed io, ti scopiamo. Ti scopiamo finché non possiamo più, vince l'ultima donna in piedi."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:342
 translate italian sm1mv01s09_movie_start_5ed0e291:
 
     # tl "Swear it on the code?"
-    tl "Swear it on the code?"
+    tl "Giuralo sul codice?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:344
 translate italian sm1mv01s09_movie_start_7b13854c:
 
     # sy "Cross my heart and hope to cum."
-    sy "Cross my heart and hope to cum."
+    sy "Croce sul cuore e spero di venire."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:347
 translate italian sm1mv01s09_movie_start_e7aeeeb9:
 
     # mc "Am how am I to win?"
-    mc "Am how am I to win?"
+    mc "E come faccio a vincere io?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:349
 translate italian sm1mv01s09_movie_start_be0fc3a4:
 
     # sy "Simple. Outlast the both of us, and the treasure is yours."
-    sy "Simple. Outlast the both of us, and the treasure is yours."
+    sy "Semplice. Resisti a entrambe, e il tesoro è tuo."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:354
 translate italian sm1mv01s09_movie_start_dad9299e:
 
     # sy "Unless your broken heat is too afraid?"
-    sy "Unless your broken heat is too afraid?"
+    sy "A meno che il tuo cuore spezzato non abbia troppa paura?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:355
 translate italian sm1mv01s09_movie_start_93b9222a:
 
     # sy "I know that even the legendary Captain Dickhart has his limits."
-    sy "I know that even the legendary Captain Dickhart has his limits."
+    sy "So che anche il leggendario Capitano Dickhart ha i suoi limiti."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:358
 translate italian sm1mv01s09_movie_start_79ce0a04:
 
     # mc "Hah! I don't even know the meaning of the word!"
-    mc "Hah! I don't even know the meaning of the word!"
+    mc "Hah! Non conosco nemmeno il significato della parola!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:362
 translate italian sm1mv01s09_movie_start_0bca19ac:
 
     # tl "Then there is nothing to fear. This horrid wench has nothing on my vigor."
-    tl "Then there is nothing to fear. This horrid wench has nothing on my vigor."
+    tl "Allora non c'è nulla da temere. Questa orribile sgualdrina non ha nulla contro il mio vigore."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:365
 translate italian sm1mv01s09_movie_start_4b8fdfa6:
 
     # sy "You will regret those words, Searose."
-    sy "You will regret those words, Searose."
+    sy "Ti pentirai di quelle parole, Searose."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:366
 translate italian sm1mv01s09_movie_start_14180c04:
 
     # sy "Now, off with those pants, Dickhart. Let us see who is the most debacherous pirate among us."
-    sy "Now, off with those pants, Dickhart. Let us see who is the most debacherous pirate among us."
+    sy "Ora, via quei pantaloni, Dickhart. Vediamo chi è il pirata più dissoluto tra noi."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:370
 translate italian sm1mv01s09_movie_start_937bb6d4:
 
     # tl "Mmmm, that's better."
-    tl "Mmmm, that's better."
+    tl "Mmmm, così va meglio."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:373
 translate italian sm1mv01s09_movie_start_99240fdc:
 
     # sy "Now-"
-    sy "Now-"
+    sy "Ora-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:379
 translate italian sm1mv01s09_movie_start_5e3a3581:
 
     # sy "What the-"
-    sy "What the-"
+    sy "Ma che-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:384
 translate italian sm1mv01s09_movie_start_3d943ff6:
 
     # tl "I think we need to start by getting his dick niiiiiice and wet. And I have an idea of how to do that."
-    tl "I think we need to start by getting his dick niiiiiice and wet. And I have an idea of how to do that."
+    tl "Penso che dobbiamo iniziare bagnando beeeeene il suo cazzo. E ho un'idea su come farlo."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:386
 translate italian sm1mv01s09_movie_start_ad6225e6:
 
     # sy "You scallywag-!"
-    sy "You scallywag-!"
+    sy "Canaglia-!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:391
 translate italian sm1mv01s09_movie_start_8a27c375:
 
     # tl "That's enough out of you - Dickhart, why don't you help me shut her up?"
-    tl "That's enough out of you - Dickhart, why don't you help me shut her up?"
+    tl "Basta con te - Dickhart, perché non mi aiuti a farla stare zitta?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:394
 translate italian sm1mv01s09_movie_start_2b6e1f2c:
 
     # mc "Haha. I knew you weren't betraying me."
-    mc "Haha. I knew you weren't betraying me."
+    mc "Haha. Sapevo che non mi stavi tradendo."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:396
 translate italian sm1mv01s09_movie_start_432f4df5:
 
     # tl "Shut up and stuff her cockhole."
-    tl "Shut up and stuff her cockhole."
+    tl "Stai zitto e riempile la bocca."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:400
 translate italian sm1mv01s09_movie_start_3798b0e5:
@@ -632,31 +632,31 @@ translate italian sm1mv01s09_movie_start_3798b0e5:
 translate italian sm1mv01s09_movie_start_57c39b0d:
 
     # tl "How do you like that, Tempestra? Finally a good use for that mouth of yours!"
-    tl "How do you like that, Tempestra? Finally a good use for that mouth of yours!"
+    tl "Ti piace, Tempestra? Finalmente un buon uso per quella tua bocca!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:406
 translate italian sm1mv01s09_movie_start_4291e9dc:
 
     # tl "How's it feel, Dickhart!?"
-    tl "How's it feel, Dickhart!?"
+    tl "Come ti senti, Dickhart!?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:409
 translate italian sm1mv01s09_movie_start_49ecaf49:
 
     # mc "Shit, she might look pissed off, but her tongue says otherwise!"
-    mc "Shit, she might look pissed off, but her tongue says otherwise!"
+    mc "Merda, potrebbe sembrare incazzata, ma la sua lingua dice il contrario!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:410
 translate italian sm1mv01s09_movie_start_b246d397:
 
     # tl "All along... the big bad queen is actually just a little cock-hungry slut."
-    tl "All along... the big bad queen is actually just a little cock-hungry slut."
+    tl "Alla fine... la grande regina cattiva è in realtà solo una piccola troia affamata di cazzi."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:413
 translate italian sm1mv01s09_movie_start_51d048c1:
 
     # tl "Maybe we should find her a brothel after this."
-    tl "Maybe we should find her a brothel after this."
+    tl "Forse dovremmo trovarle un bordello dopo questo."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:414
 translate italian sm1mv01s09_movie_start_b1ede7a8:
@@ -668,13 +668,13 @@ translate italian sm1mv01s09_movie_start_b1ede7a8:
 translate italian sm1mv01s09_movie_start_44e8fa52:
 
     # mc "Sounds! It feels like my dick is in a cock-milking typhoon. Nraaah!"
-    mc "Sounds! It feels like my dick is in a cock-milking typhoon. Nraaah!"
+    mc "Porca miseria! Sembra che il mio cazzo sia in un tifone mungicazzi. Nraaah!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:418
 translate italian sm1mv01s09_movie_start_cf748506:
 
     # tl "I think we finally found a good use for that devilish tongue of hers."
-    tl "I think we finally found a good use for that devilish tongue of hers."
+    tl "Penso che abbiamo finalmente trovato un buon uso per quella sua lingua diabolica."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:421
 translate italian sm1mv01s09_movie_start_67e481b5:
@@ -686,19 +686,19 @@ translate italian sm1mv01s09_movie_start_67e481b5:
 translate italian sm1mv01s09_movie_start_b5dead6f:
 
     # mc "God, she is just gobbling me up — you're pushing her so far down on my dick!"
-    mc "God, she is just gobbling me up — you're pushing her so far down on my dick!"
+    mc "Dio, mi sta proprio divorando — la stai spingendo così in fondo sul mio cazzo!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:425
 translate italian sm1mv01s09_movie_start_53e1362c:
 
     # tl "Good, I want her to choke on it!"
-    tl "Good, I want her to choke on it!"
+    tl "Bene, voglio che ci soffochi!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:426
 translate italian sm1mv01s09_movie_start_85f49628:
 
     # mc "Oh, with how far down her throat my cock is? She's definitely choking on it!"
-    mc "Oh, with how far down her throat my cock is? She's definitely choking on it!"
+    mc "Oh, con quanto in fondo è il mio cazzo nella sua gola? Ci sta sicuramente soffocando!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:429
 translate italian sm1mv01s09_movie_start_1811814e:
@@ -710,7 +710,7 @@ translate italian sm1mv01s09_movie_start_1811814e:
 translate italian sm1mv01s09_movie_start_f5e16cbf:
 
     # tl "What's that? Do you want air? A break?"
-    tl "What's that? Do you want air? A break?"
+    tl "Cosa c'è? Vuoi aria? Una pausa?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:433
 translate italian sm1mv01s09_movie_start_1934d4c3:
@@ -722,7 +722,7 @@ translate italian sm1mv01s09_movie_start_1934d4c3:
 translate italian sm1mv01s09_movie_start_cc9e9507:
 
     # tl "Kind of like how I didn't want to be left on an island?"
-    tl "Kind of like how I didn't want to be left on an island?"
+    tl "Un po' come quando non volevo essere lasciata su un'isola?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:437
 translate italian sm1mv01s09_movie_start_c9b897c5:
@@ -734,25 +734,25 @@ translate italian sm1mv01s09_movie_start_c9b897c5:
 translate italian sm1mv01s09_movie_start_db4cd2ae:
 
     # tl "Maybe I'm being too cruel."
-    tl "Maybe I'm being too cruel."
+    tl "Forse sto essendo troppo crudele."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:441
 translate italian sm1mv01s09_movie_start_4ed38d67:
 
     # tl "But then again, I can hear the slutty song coming off your lips."
-    tl "But then again, I can hear the slutty song coming off your lips."
+    tl "Ma d'altra parte, posso sentire la canzone da troia che esce dalle tue labbra."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:442
 translate italian sm1mv01s09_movie_start_aca2e62b:
 
     # tl "You're drooling all over his cutlass. You naughty pirate whore!"
-    tl "You're drooling all over his cutlass. You naughty pirate whore!"
+    tl "Stai sbavando su tutta la sua sciabola. Puttana pirata sfacciata!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:445
 translate italian sm1mv01s09_movie_start_aa0626e7:
 
     # mc "Oh Gooooood!"
-    mc "Oh Gooooood!"
+    mc "Oh Diooooo!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:448
 translate italian sm1mv01s09_movie_start_59882e08:
@@ -764,73 +764,73 @@ translate italian sm1mv01s09_movie_start_59882e08:
 translate italian sm1mv01s09_movie_start_039e82e3:
 
     # tl "So, how about it, {i}priate queen{/i}? Had enough yet?"
-    tl "So, how about it, {i}priate queen{/i}? Had enough yet?"
+    tl "Allora, che ne dici, {i}regina pirata{/i}? Ne hai avuto abbastanza?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:456
 translate italian sm1mv01s09_movie_start_6f17b953:
 
     # sy "Not... even... close..."
-    sy "Not... even... close..."
+    sy "Nemmeno... per... sogno..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:459
 translate italian sm1mv01s09_movie_start_d4dd24f9:
 
     # tl "Good. I didn't want it to be too easy."
-    tl "Good. I didn't want it to be too easy."
+    tl "Bene. Non volevo che fosse troppo facile."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:461
 translate italian sm1mv01s09_movie_start_63fa34d1:
 
     # sy "I think... it's your... turn..."
-    sy "I think... it's your... turn..."
+    sy "Penso... che sia... il tuo... turno..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:464
 translate italian sm1mv01s09_movie_start_5784e6a0:
 
     # mc "I'd have to agree, Searose."
-    mc "I'd have to agree, Searose."
+    mc "Devo essere d'accordo, Searose."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:466
 translate italian sm1mv01s09_movie_start_8972938e:
 
     # tl "Wait, Dickhart-"
-    tl "Wait, Dickhart-"
+    tl "Aspetta, Dickhart-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:472
 translate italian sm1mv01s09_movie_start_3e8a123c:
 
     # sy "It's only fair!"
-    sy "It's only fair!"
+    sy "È solo giusto!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:473
 translate italian sm1mv01s09_movie_start_10bd0339:
 
     # tl "You-!"
-    tl "You-!"
+    tl "Tu-!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:474
 translate italian sm1mv01s09_movie_start_86a968ef:
 
     # tl "Wench!"
-    tl "Wench!"
+    tl "Sgualdrina!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:479
 translate italian sm1mv01s09_movie_start_1a01eae1:
 
     # sy "Scallywag!"
-    sy "Scallywag!"
+    sy "Canaglia!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:485
 translate italian sm1mv01s09_movie_start_23172483:
 
     # sy "Good thing I got his cock all lubed up!"
-    sy "Good thing I got his cock all lubed up!"
+    sy "Meno male che ho lubrificato bene il suo cazzo!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:489
 translate italian sm1mv01s09_movie_start_a18b4c28:
 
     # tl "What are you-"
-    tl "What are you-"
+    tl "Cosa stai-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:493
 translate italian sm1mv01s09_movie_start_5e0e43b9:
@@ -842,25 +842,25 @@ translate italian sm1mv01s09_movie_start_5e0e43b9:
 translate italian sm1mv01s09_movie_start_985a5a55:
 
     # sy "That's what I'm doing!"
-    sy "That's what I'm doing!"
+    sy "Ecco cosa sto facendo!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:497
 translate italian sm1mv01s09_movie_start_8a653284:
 
     # sy "Reclaiming what was owed."
-    sy "Reclaiming what was owed."
+    sy "Riprendendo ciò che mi era dovuto."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:500
 translate italian sm1mv01s09_movie_start_b090346b:
 
     # sy "Now.{w} Swab my deck, you bilge rat!"
-    sy "Now.{w} Swab my deck, you bilge rat!"
+    sy "Ora.{w} Pulisci il mio ponte, topo di sentina!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:506
 translate italian sm1mv01s09_movie_start_0123eb81:
 
     # sy "And you think {i}I{/i} talk too much!"
-    sy "And you think {i}I{/i} talk too much!"
+    sy "E pensi che {i}io{/i} parli troppo!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:509
 translate italian sm1mv01s09_movie_start_fd4c697b:
@@ -872,43 +872,43 @@ translate italian sm1mv01s09_movie_start_fd4c697b:
 translate italian sm1mv01s09_movie_start_9382db0b:
 
     # sy "Mmmmmm, but that does feel nice."
-    sy "Mmmmmm, but that does feel nice."
+    sy "Mmmmmm, ma questo è piacevole."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:515
 translate italian sm1mv01s09_movie_start_bf5371c5:
 
     # sy "I bet her ass feels nice, though."
-    sy "I bet her ass feels nice, though."
+    sy "Scommetto però che il suo culo è piacevole."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:518
 translate italian sm1mv01s09_movie_start_032eae35:
 
     # mc "Oooooooph — yes it does!"
-    mc "Oooooooph — yes it does!"
+    mc "Oooooooph — sì che lo è!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:521
 translate italian sm1mv01s09_movie_start_67dd8a10:
 
     # sy "Probably not as nice as mine!"
-    sy "Probably not as nice as mine!"
+    sy "Probabilmente non è bello come il mio!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:524
 translate italian sm1mv01s09_movie_start_ad5e3666:
 
     # mc "I don't - mmmmmm - I don't know about that!"
-    mc "I don't - mmmmmm - I don't know about that!"
+    mc "Non lo so - mmmmmm - non ne sono sicuro!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:527
 translate italian sm1mv01s09_movie_start_0e8ac5a9:
 
     # sy "Don't worry, mmmmmmmmm, I'll show you in a bit!"
-    sy "Don't worry, mmmmmmmmm, I'll show you in a bit!"
+    sy "Non preoccuparti, mmmmmmmmm, te lo mostrerò tra poco!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:530
 translate italian sm1mv01s09_movie_start_3f9a16a2:
 
     # sy "But first-"
-    sy "But first-"
+    sy "Ma prima-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:533
 translate italian sm1mv01s09_movie_start_5fbeeb0f:
@@ -920,25 +920,25 @@ translate italian sm1mv01s09_movie_start_5fbeeb0f:
 translate italian sm1mv01s09_movie_start_aeed6318:
 
     # sy "-I want to enjoy some more of Scarlet's mouth!"
-    sy "-I want to enjoy some more of Scarlet's mouth!"
+    sy "-Voglio godermi ancora un po' la bocca di Scarlet!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:537
 translate italian sm1mv01s09_movie_start_468e5217:
 
     # mc "Oh! My cock is being squeezed into oblivion!"
-    mc "Oh! My cock is being squeezed into oblivion!"
+    mc "Oh! Il mio cazzo viene spremuto fino all'oblio!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:540
 translate italian sm1mv01s09_movie_start_4277a5ec:
 
     # mc "Mmmmmm, fuuuuuck, yes!"
-    mc "Mmmmmm, fuuuuuck, yes!"
+    mc "Mmmmmm, caaaaaazzo, sì!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:541
 translate italian sm1mv01s09_movie_start_84b08705:
 
     # sy "Pfffft, this scallywag's ass isn't as nice as mine!"
-    sy "Pfffft, this scallywag's ass isn't as nice as mine!"
+    sy "Pfffft, il culo di questa canaglia non è bello come il mio!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:542
 translate italian sm1mv01s09_movie_start_77b9bc59:
@@ -950,91 +950,91 @@ translate italian sm1mv01s09_movie_start_77b9bc59:
 translate italian sm1mv01s09_movie_start_e15b8d4a:
 
     # mc "Oh Goooodddss!"
-    mc "Oh Goooodddss!"
+    mc "Oh Diiiiiooo!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:546
 translate italian sm1mv01s09_movie_start_ac6ab279:
 
     # sy "Oh, don't you - mmmmmmm - yes, just like that!"
-    sy "Oh, don't you - mmmmmmm - yes, just like that!"
+    sy "Oh, non - mmmmmmm - sì, proprio così!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:547
 translate italian sm1mv01s09_movie_start_e593d8cf:
 
     # mc "Take my cock... nrrrh... as deep as you can, Scarlet!"
-    mc "Take my cock... nrrrh... as deep as you can, Scarlet!"
+    mc "Prendi il mio cazzo... nrrrh... più a fondo che puoi, Scarlet!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:548
 translate italian sm1mv01s09_movie_start_537a4f69:
 
     # sy "Oh Gods!"
-    sy "Oh Gods!"
+    sy "Oh Dei!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:553
 translate italian sm1mv01s09_movie_start_c0e3de6a:
 
     # sy "Fuuuuuck, Scaaarrrllleeettt!"
-    sy "Fuuuuuck, Scaaarrrllleeettt!"
+    sy "Caaaaaazzo, Scaaarrrllleeettt!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:554
 translate italian sm1mv01s09_movie_start_7df7bcba:
 
     # mc "So hot. I'm going to cum!"
-    mc "So hot. I'm going to cum!"
+    mc "Così eccitante. Sto per venire!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:556
 translate italian sm1mv01s09_movie_start_4549baf9:
 
     # tl "*panting* Aahu-huaah..."
-    tl "*panting* Aahu-huaah..."
+    tl "*ansimando* Aahu-huaah..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:558
 translate italian sm1mv01s09_movie_start_900c14ca:
 
     # sy "Oh... oh no, you don't!"
-    sy "Oh... oh no, you don't!"
+    sy "Oh... oh no, non ci provare!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:564
 translate italian sm1mv01s09_movie_start_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Ehi!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:567
 translate italian sm1mv01s09_movie_start_851a9f32:
 
     # sy "If you're going to cum anywhere-"
-    sy "If you're going to cum anywhere-"
+    sy "Se devi venire da qualche parte-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:571
 translate italian sm1mv01s09_movie_start_ff0dc20d:
 
     # sy "You're cumming in me!"
-    sy "You're cumming in me!"
+    sy "Vieni dentro di me!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:574
 translate italian sm1mv01s09_movie_start_66083285:
 
     # tl "I was enjoying that!"
-    tl "I was enjoying that!"
+    tl "Mi stavo divertendo!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:576
 translate italian sm1mv01s09_movie_start_1d979b22:
 
     # sy "And now it's my turn!"
-    sy "And now it's my turn!"
+    sy "E ora è il mio turno!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:580
 translate italian sm1mv01s09_movie_start_7cb0b8ee:
 
     # tl "You shark-bait whore!"
-    tl "You shark-bait whore!"
+    tl "Puttana esca per squali!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:582
 translate italian sm1mv01s09_movie_start_af03591c:
 
     # sy "Mmmmmm, what are you going to do about it?"
-    sy "Mmmmmm, what are you going to do about it?"
+    sy "Mmmmmm, cosa ci farai?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:585
 translate italian sm1mv01s09_movie_start_d06eb266:
