@@ -500,3 +500,35 @@
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
     new "菜单图标来源于 {a=https://feathericons.com/}Feather{/a}，这是一个由 @colebemis 制作的美丽图标集合，采用 {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT 许可{/a}。"
 
+    # game/code/renpy/screens/screens.rpy:890
+    old "S&M Studio{#about_button}"
+    new "S&M Studio{#about_button}"
+
+    # game/code/renpy/screens/screens.rpy:906
+    old "Dev Team"
+    new "开发团队"
+
+    # game/code/renpy/screens/screens.rpy:946
+    old "STORY WRITING"
+    new "故事写作"
+
+    # game/code/renpy/screens/screens.rpy:955
+    old "ART & ANIMATION"
+    new "艺术与动画"
+
+    # game/code/renpy/screens/screens.rpy:964
+    old "PROGRAMMING"
+    new "编程"
+
+    # game/code/renpy/screens/screens.rpy:973
+    old "SOUND DESIGN"
+    new "音效设计"
+
+    # game/code/renpy/screens/screens.rpy:1041
+    old "GAME ENGINE"
+    new "游戏引擎"
+
+    # game/code/renpy/screens/screens.rpy:1051
+    old "ICON CREDITS"
+    new "图标鸣谢"
+
