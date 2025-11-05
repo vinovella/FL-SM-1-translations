@@ -8,55 +8,55 @@ translate italian sm1mv02s07b_20e2058b:
 translate italian sm1mv02s07b_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Sì?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:73
 translate italian sm1mv02s07b_f4af854b:
 
     # ns "What... what is Lyssa like?"
-    ns "What... what is Lyssa like?"
+    ns "Cosa... com'è Lyssa?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:76
 translate italian sm1mv02s07b_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Cosa intendi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:79
 translate italian sm1mv02s07b_ba838db0:
 
     # ns "Is she nice? Loud? Soft spoken? Direct?"
-    ns "Is she nice? Loud? Soft spoken? Direct?"
+    ns "È gentile? Rumorosa? Dalla voce dolce? Diretta?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:82
 translate italian sm1mv02s07b_fccb9547:
 
     # mc "Why do you ask?"
-    mc "Why do you ask?"
+    mc "Perché lo chiedi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:85
 translate italian sm1mv02s07b_1609718d:
 
     # ns "Well..."
-    ns "Well..."
+    ns "Beh..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:86
 translate italian sm1mv02s07b_92b26c93:
 
     # ns "I just want to assure that I make a positive impression on her."
-    ns "I just want to assure that I make a positive impression on her."
+    ns "Voglio solo assicurarmi di fare una buona impressione su di lei."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:90
 translate italian sm1mv02s07b_da22852e:
 
     # mc "You have nothing to worry about, Nari. You're going to do just fine."
-    mc "You have nothing to worry about, Nari. You're going to do just fine."
+    mc "Non hai nulla di cui preoccuparti, Nari. Andrai benissimo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:93
 translate italian sm1mv02s07b_615e31e6:
 
     # ns "How do you know that!? What if I say the wrong thing!?"
-    ns "How do you know that!? What if I say the wrong thing!?"
+    ns "Come fai a saperlo!? E se dicessi la cosa sbagliata!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:94
 translate italian sm1mv02s07b_7e104e24:

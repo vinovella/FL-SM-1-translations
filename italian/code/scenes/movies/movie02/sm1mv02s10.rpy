@@ -818,97 +818,97 @@ translate italian sm1mv02s10_continue_856a97c1:
 translate italian sm1mv02s10_continue_9a887b7e:
 
     # ns "I only hope that I did a good enough job that you'll ask me to film again."
-    ns "I only hope that I did a good enough job that you'll ask me to film again."
+    ns "Spero solo di aver fatto un lavoro abbastanza buono da farmi chiamare di nuovo per girare."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:593
 translate italian sm1mv02s10_continue_c409f6a1:
 
     # mc "Oh, totally."
-    mc "Oh, totally."
+    mc "Oh, assolutamente."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:596
 translate italian sm1mv02s10_continue_28d88345:
 
     # sy "Yeah, you were great, Nari."
-    sy "Yeah, you were great, Nari."
+    sy "Sì, sei stata fantastica, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:598
 translate italian sm1mv02s10_continue_7dd0f4fe:
 
     # ns "Really? That's wonderful. Cause I really enjoyed the added thrill of being filmed."
-    ns "Really? That's wonderful. Cause I really enjoyed the added thrill of being filmed."
+    ns "Davvero? È meraviglioso. Perché mi è davvero piaciuto il brivido di essere filmata."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:602
 translate italian sm1mv02s10_continue_d83fb1fe:
 
     # "[mcname] and Stacy" "Hahah."
-    "[mcname] and Stacy" "Hahah."
+    "[mcname] e Stacy" "Hahah."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:605
 translate italian sm1mv02s10_continue_39a5a396:
 
     # sy "It really is something special, isn't it."
-    sy "It really is something special, isn't it."
+    sy "È davvero qualcosa di speciale, vero."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:611
 translate italian sm1mv02s10_continue_b9bb97be:
 
     # mes "Hah, a good show. But is it great?"
-    mes "Hah, a good show. But is it great?"
+    mes "Hah, un buon spettacolo. Ma è grandioso?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:614
 translate italian sm1mv02s10_continue_33e92fa9:
 
     # mc "We'll know soon enough."
-    mc "We'll know soon enough."
+    mc "Lo sapremo presto."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:616
 translate italian sm1mv02s10_continue_29cbdd35:
 
     # ns "I think people will love it, [mcname]."
-    ns "I think people will love it, [mcname]."
+    ns "Penso che la gente lo amerà, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:620
 translate italian sm1mv02s10_continue_bfaf3b9e:
 
     # mc "What do you think, Lyssa?"
-    mc "What do you think, Lyssa?"
+    mc "Cosa ne pensi, Lyssa?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:622
 translate italian sm1mv02s10_continue_97f4e27c:
 
     # mh "I don't know, [mcname]. I mean I liked it, but... It's really up to the audience."
-    mh "I don't know, [mcname]. I mean I liked it, but... It's really up to the audience."
+    mh "Non lo so, [mcname]. Voglio dire, mi è piaciuto, ma... Dipende davvero dal pubblico."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:626
 translate italian sm1mv02s10_continue_84f84b33:
 
     # mc "I think you were spectacular."
-    mc "I think you were spectacular."
+    mc "Penso che tu sia stata spettacolare."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:629
 translate italian sm1mv02s10_continue_4e131418:
 
     # mh "Of course you would say that, [mcname]."
-    mh "Of course you would say that, [mcname]."
+    mh "Ovviamente diresti così, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:630
 translate italian sm1mv02s10_continue_9b5f7fd6:
 
     # mh "You always look for the best angle."
-    mh "You always look for the best angle."
+    mh "Cerchi sempre l'angolazione migliore."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:633
 translate italian sm1mv02s10_continue_ea4391c9:
 
     # mc "I'm bad angle blind."
-    mc "I'm bad angle blind."
+    mc "Sono cieco agli angoli brutti."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:634
 translate italian sm1mv02s10_continue_a22afc8d:
 
     # mc "These gems only see the bright side."
-    mc "These gems only see the bright side."
+    mc "Queste gemme vedono solo il lato positivo."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:637
 translate italian sm1mv02s10_continue_aa41904e:
@@ -920,121 +920,121 @@ translate italian sm1mv02s10_continue_aa41904e:
 translate italian sm1mv02s10_continue_6799e323:
 
     # mc "How about one more victory celebration?"
-    mc "How about one more victory celebration?"
+    mc "Che ne dici di un'altra celebrazione della vittoria?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:645
 translate italian sm1mv02s10_continue_3f7eee4f:
 
     # mc "To truly commemorate the watch party."
-    mc "To truly commemorate the watch party."
+    mc "Per commemorare veramente la festa di visione."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:648
 translate italian sm1mv02s10_continue_df05f045:
 
     # ns "I could-"
-    ns "I could-"
+    ns "Potrei-"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:653
 translate italian sm1mv02s10_continue_f84326c5:
 
     # mes "Haha. Why, Captain Ramses you are insatiable."
-    mes "Haha. Why, Captain Ramses you are insatiable."
+    mes "Haha. Capitano Ramses, sei insaziabile."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:656
 translate italian sm1mv02s10_continue_757fffa6:
 
     # mc "Hey, how could I not work up an appetite watching us all have so much fun."
-    mc "Hey, how could I not work up an appetite watching us all have so much fun."
+    mc "Ehi, come potrei non farmi venire appetito guardandoci tutti divertirci così tanto."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:657
 translate italian sm1mv02s10_continue_d0b7679c:
 
     # mc "You know how much I like fun."
-    mc "You know how much I like fun."
+    mc "Sai quanto mi piace il divertimento."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:661
 translate italian sm1mv02s10_continue_a4535165:
 
     # mes "Sure... 'fun'..."
-    mes "Sure... 'fun'..."
+    mes "Certo... 'divertimento'..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:667
 translate italian sm1mv02s10_continue_281c06dd:
 
     # mh "You never switch off, do you, Captain?"
-    mh "You never switch off, do you, Captain?"
+    mh "Non ti spegni mai, vero, Capitano?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:670
 translate italian sm1mv02s10_continue_3010248a:
 
     # mc "You never know when trouble may find us, Spectre."
-    mc "You never know when trouble may find us, Spectre."
+    mc "Non sai mai quando i problemi potrebbero trovarci, Spectre."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:671
 translate italian sm1mv02s10_continue_4966e15a:
 
     # mc "A good captain knows that he must make room for love whenever possible."
-    mc "A good captain knows that he must make room for love whenever possible."
+    mc "Un buon capitano sa che deve fare spazio all'amore quando possibile."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:675
 translate italian sm1mv02s10_continue_e9d92712:
 
     # mh "Well... you're not wrong about that."
-    mh "Well... you're not wrong about that."
+    mh "Beh... non hai torto su questo."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:679
 translate italian sm1mv02s10_continue_30e7aecb:
 
     # ns "[mcname]. I was wondering, if we could start. You and I?"
-    ns "[mcname]. I was wondering, if we could start. You and I?"
+    ns "[mcname]. Mi stavo chiedendo, se potessimo iniziare. Tu e io?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:682
 translate italian sm1mv02s10_continue_a7a01cde:
 
     # ns "I mean, I was the main co-star in the movie after all..."
-    ns "I mean, I was the main co-star in the movie after all..."
+    ns "Voglio dire, ero la co-protagonista principale del film dopo tutto..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:686
 translate italian sm1mv02s10_continue_724d7611:
 
     # mes "Haha. Sneaky Nari."
-    mes "Haha. Sneaky Nari."
+    mes "Haha. Furba Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:690
 translate italian sm1mv02s10_continue_9389e99e:
 
     # mh "I knew I should have just ripped his pants off.."
-    mh "I knew I should have just ripped his pants off.."
+    mh "Sapevo che avrei dovuto solo strappargli i pantaloni.."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:693
 translate italian sm1mv02s10_continue_c1a77cd4:
 
     # sy "It's always the quiet ones."
-    sy "It's always the quiet ones."
+    sy "Sono sempre quelli tranquilli."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:697
 translate italian sm1mv02s10_continue_d4b4336e:
 
     # ns "I am not quiet. Am I, [mcname]?"
-    ns "I am not quiet. Am I, [mcname]?"
+    ns "Non sono tranquilla. Vero, [mcname]?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:699
 translate italian sm1mv02s10_continue_560265ea:
 
     # mc "No. And especially not when I'm with you."
-    mc "No. And especially not when I'm with you."
+    mc "No. E soprattutto non quando sono con te."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:710
 translate italian sm1mv02s10_sex_05c551a7:
 
     # mc "Ready, Nari?"
-    mc "Ready, Nari?"
+    mc "Pronta, Nari?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:713
 translate italian sm1mv02s10_sex_3578d568:
 
     # ns "I got wet the moment the first naughty scene played out on the screen."
-    ns "I got wet the moment the first naughty scene played out on the screen."
+    ns "Mi sono bagnata nel momento in cui la prima scena maliziosa è apparsa sullo schermo."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:717
 translate italian sm1mv02s10_sex_056c22a6:
@@ -1046,19 +1046,19 @@ translate italian sm1mv02s10_sex_056c22a6:
 translate italian sm1mv02s10_sex_f1e7498f:
 
     # ns "I've been waiting for the real thing all night-huaah!"
-    ns "I've been waiting for the real thing all night-huaah!"
+    ns "Ho aspettato la cosa vera tutta la notte-huaah!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:725
 translate italian sm1mv02s10_sex_7f656013:
 
     # ns "Muhaah... I knew having sex without body paint on would feel better."
-    ns "Muhaah... I knew having sex without body paint on would feel better."
+    ns "Muhaah... Sapevo che fare sesso senza pittura sul corpo sarebbe stato meglio."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:727
 translate italian sm1mv02s10_sex_7189ffd0:
 
     # mc "But you would do it again if the Doctor returned. Right?"
-    mc "But you would do it again if the Doctor returned. Right?"
+    mc "Ma lo faresti di nuovo se la Dottoressa tornasse. Giusto?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:730
 translate italian sm1mv02s10_sex_0b917359:
