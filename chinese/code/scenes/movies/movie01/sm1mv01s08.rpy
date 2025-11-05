@@ -296,7 +296,7 @@ translate chinese sm1mv01s08_408f0333:
 translate chinese sm1mv01s08_9ca148d4:
 
     # sy "Yeah, yeah, [mcname]. The big star needs to get her beauty sleep before her big day!"
-    sy "知道了知道了，[mcname]。大明星在重要的日子之前，总得睡够美容觉吧！
+    sy "知道了知道了，[mcname]。大明星在重要的日子之前，总得睡够美容觉吧！"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:204
 translate chinese sm1mv01s08_eaf67abd:
