@@ -14,7 +14,7 @@ translate deutsch sm1mv02s03_1_a48e2ff3:
 translate deutsch sm1mv02s03_1_8ae6dbbb:
 
     # mc "Of course you did."
-    mc "Natürlich wolttest du das."
+    mc "Natürlich wolltest du das."
 
 # game/code/scenes/movies/movie02/sm1mv02s03_1.rpy:34
 translate deutsch sm1mv02s03_1_19e5ce77:
