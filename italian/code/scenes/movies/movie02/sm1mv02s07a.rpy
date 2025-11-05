@@ -2,85 +2,85 @@
 translate italian sm1mv02s07a_43b066d8:
 
     # "Spa Attendant" "And here you are, Miss Eun-Soo."
-    "Spa Attendant" "And here you are, Miss Eun-Soo."
+    "Sp Attendant" "Ed eccola qui, Signorina Eun-Soo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:66
 translate italian sm1mv02s07a_217f0f7d:
 
     # "Spa Attendant" "I hope the room is to your liking."
-    "Spa Attendant" "I hope the room is to your liking."
+    "Spa Attendant" "Spero che la stanza sia di suo gradimento."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:69
 translate italian sm1mv02s07a_6a371bf0:
 
     # mes "It will be perfect. Thank you."
-    mes "It will be perfect. Thank you."
+    mes "Sarà perfetta. Grazie."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:75
 translate italian sm1mv02s07a_770afc0b:
 
     # "Spa Attendant" "Your masseuses will be here shortly."
-    "Spa Attendant" "Your masseuses will be here shortly."
+    "Spa Attendant" "Le vostre massaggiatrici saranno qui a breve."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:76
 translate italian sm1mv02s07a_1272e27c:
 
     # "Spa Attendant" "Enjoy your spa day."
-    "Spa Attendant" "Enjoy your spa day."
+    "Spa Attendant" "Godetevi la vostra giornata alla spa."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:83
 translate italian sm1mv02s07a_7937f344:
 
     # ns "I cannot wait to have a massage, [mcname]. I haven't had one in years."
-    ns "I cannot wait to have a massage, [mcname]. I haven't had one in years."
+    ns "Non vedo l'ora di avere un massaggio, [mcname]. Non ne faccio uno da anni."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:86
 translate italian sm1mv02s07a_2d8fc0ac:
 
     # mc "I once had the idea for an all watersports-themed spa."
-    mc "I once had the idea for an all watersports-themed spa."
+    mc "Una volta ho avuto l'idea di una spa a tema watersports."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:90
 translate italian sm1mv02s07a_5f035ce5:
 
     # ns "Ooh. I love that idea."
-    ns "Ooh. I love that idea."
+    ns "Ooh. Adoro quell'idea."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:91
 translate italian sm1mv02s07a_4bf37ccb:
 
     # ns "Maybe we can do a movie about it."
-    ns "Maybe we can do a movie about it."
+    ns "Forse possiamo fare un film su questo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:94
 translate italian sm1mv02s07a_76cc5d65:
 
     # mc "Maybe. But I'm sure someone has done it already."
-    mc "Maybe. But I'm sure someone has done it already."
+    mc "Forse. Ma sono sicuro che qualcuno l'ha già fatto."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:102
 translate italian sm1mv02s07a_8e896658:
 
     # mes "Come on you two."
-    mes "Come on you two."
+    mes "Forza voi due."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:108
 translate italian sm1mv02s07a_fa4ae29e:
 
     # ns "*nervously* Oh... Right."
-    ns "*nervously* Oh... Right."
+    ns "*nervosamente* Oh... Giusto."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:111
 translate italian sm1mv02s07a_7e53eac1:
 
     # mes "You're not shy are you, Nari?"
-    mes "You're not shy are you, Nari?"
+    mes "Non sei timida, vero, Nari?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:113
 translate italian sm1mv02s07a_0fc62504:
 
     # ns "Not at all, Min."
-    ns "Not at all, Min."
+    ns "Per niente, Min."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:119
 translate italian sm1mv02s07a_0c7cde4c:
@@ -92,37 +92,37 @@ translate italian sm1mv02s07a_0c7cde4c:
 translate italian sm1mv02s07a_50a2ae11:
 
     # mct "Things feel a little strained between the two of them."
-    mct "Things feel a little strained between the two of them."
+    mct "Le cose sembrano un po' tese tra loro due."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:124
 translate italian sm1mv02s07a_e9de2ad7:
 
     # mct "I'll have to think of something to help break the ice after the massages."
-    mct "I'll have to think of something to help break the ice after the massages."
+    mct "Dovrò pensare a qualcosa per rompere il ghiaccio dopo i massaggi."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:137
 translate italian sm1mv02s07a_c09f3b68:
 
     # ns "Thank you so much for paying for all this, Min."
-    ns "Thank you so much for paying for all this, Min."
+    ns "Grazie mille per aver pagato tutto questo, Min."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:140
 translate italian sm1mv02s07a_268070a3:
 
     # mes "No trouble at all, Nari. I'm glad we could find the time."
-    mes "No trouble at all, Nari. I'm glad we could find the time."
+    mes "Nessun problema, Nari. Sono contenta che siamo riuscite a trovare il tempo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:144
 translate italian sm1mv02s07a_561c9fe5:
 
     # mes "And we have been so busy with the film, that I haven't really gotten a massage from [mcname] lately."
-    mes "And we have been so busy with the film, that I haven't really gotten a massage from [mcname] lately."
+    mes "E siamo stati così impegnati con il film, che non ho davvero ricevuto un massaggio da [mcname] ultimamente."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:147
 translate italian sm1mv02s07a_895776ca:
 
     # mc "My thick sassages are always available upon request."
-    mc "My thick sassages are always available upon request."
+    mc "I miei spessi massaggi sono sempre disponibili su richiesta."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:150
 translate italian sm1mv02s07a_77b23388:
@@ -134,91 +134,91 @@ translate italian sm1mv02s07a_77b23388:
 translate italian sm1mv02s07a_6e9f3ca0:
 
     # ns "*giggling*"
-    ns "*giggling*"
+    ns "*ridacchiando*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:154
 translate italian sm1mv02s07a_eb8f0271:
 
     # ns "I have been curious since I learned you two knew each other in college, Min."
-    ns "I have been curious since I learned you two knew each other in college, Min."
+    ns "Sono stata curiosa da quando ho saputo che voi due vi conoscevate al college, Min."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:157
 translate italian sm1mv02s07a_85e65df7:
 
     # mes "Oh. Curious about what?"
-    mes "Oh. Curious about what?"
+    mes "Oh. Curiosa riguardo a cosa?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:160
 translate italian sm1mv02s07a_fbd793e2:
 
     # ns "Oh... I guess about how you two met."
-    ns "Oh... I guess about how you two met."
+    ns "Oh... Immagino su come vi siete conosciuti."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:164
 translate italian sm1mv02s07a_5fd6fc24:
 
     # mes "How about we do a little stretching while we get into that."
-    mes "How about we do a little stretching while we get into that."
+    mes "Che ne dici se facciamo un po' di stretching mentre ne parliamo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:167
 translate italian sm1mv02s07a_fc4e19cf:
 
     # mc "Perfect. My butt was falling asleep there."
-    mc "Perfect. My butt was falling asleep there."
+    mc "Perfetto. Il mio sedere si stava addormentando lì."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:176
 translate italian sm1mv02s07a_5616a196:
 
     # mes "So I had known [mcname] for a while, but I like to think we saw new sides of each other during one of the Fetish Locator parties."
-    mes "So I had known [mcname] for a while, but I like to think we saw new sides of each other during one of the Fetish Locator parties."
+    mes "Quindi conoscevo [mcname] da un po', ma mi piace pensare che ci siamo visti sotto una nuova luce durante una delle feste di Fetish Locator."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:180
 translate italian sm1mv02s07a_49914275:
 
     # ns "What was the party like?"
-    ns "What was the party like?"
+    ns "Com'era la festa?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:183
 translate italian sm1mv02s07a_111ecf50:
 
     # mes "Amazing! We had games, contests, special events."
-    mes "Amazing! We had games, contests, special events."
+    mes "Incredibile! Avevamo giochi, gare, eventi speciali."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:184
 translate italian sm1mv02s07a_0f8e6025:
 
     # mes "[mcname] and I knew each other from class, but at he party, it he was almost someone else entirely."
-    mes "[mcname] and I knew each other from class, but at he party, it he was almost someone else entirely."
+    mes "Io e [mcname] ci conoscevamo dalle lezioni, ma alla festa, era quasi un'altra persona."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:187
 translate italian sm1mv02s07a_6aa2eaaf:
 
     # ns "I don't understand."
-    ns "I don't understand."
+    ns "Non capisco."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:190
 translate italian sm1mv02s07a_0f52733d:
 
     # mes "He was in his element."
-    mes "He was in his element."
+    mes "Era nel suo elemento."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:193
 translate italian sm1mv02s07a_fbe00c29:
 
     # mes "I think I had seen a few versions of him since meeting him."
-    mes "I think I had seen a few versions of him since meeting him."
+    mes "Penso di aver visto diverse versioni di lui da quando l'ho conosciuto."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:194
 translate italian sm1mv02s07a_49df7b1f:
 
     # mes "When he had a girlfriend. When he forgot to study for an exam."
-    mes "When he had a girlfriend. When he forgot to study for an exam."
+    mes "Quando aveva una ragazza. Quando si dimenticava di studiare per un esame."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:197
 translate italian sm1mv02s07a_6b428572:
 
     # mes "When he fell hard for Lydia."
-    mes "When he fell hard for Lydia."
+    mes "Quando si è innamorato perso di Lydia."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:200
 translate italian sm1mv02s07a_d0680795:
@@ -230,61 +230,61 @@ translate italian sm1mv02s07a_d0680795:
 translate italian sm1mv02s07a_033e89b0:
 
     # mc "She was our friend."
-    mc "She was our friend."
+    mc "Era una nostra amica."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:205
 translate italian sm1mv02s07a_3fdc5a9f:
 
     # mes "And she ended up breaking our trust.{w} And more."
-    mes "And she ended up breaking our trust.{w} And more."
+    mes "E ha finito per tradire la nostra fiducia.{w} E altro."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:206
 translate italian sm1mv02s07a_2a78b3d9:
 
     # mes "I'm getting off-topic."
-    mes "I'm getting off-topic."
+    mes "Sto andando fuori tema."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:209
 translate italian sm1mv02s07a_82063093:
 
     # mc "I'll say."
-    mc "I'll say."
+    mc "Direi di sì."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:211
 translate italian sm1mv02s07a_8112b84d:
 
     # mes "Heh. My point is...{w} that at the party, I witnessed a whole new [mcname] that was walking around inside my house."
-    mes "Heh. My point is...{w} that at the party, I witnessed a whole new [mcname] that was walking around inside my house."
+    mes "Heh. Il punto è...{w} che alla festa, ho visto un [mcname] completamente nuovo che camminava dentro la mia casa."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:212
 translate italian sm1mv02s07a_a8faf0ba:
 
     # mes "Even though you were wearing a mask, to me, it seemed like you had thrown off all the things covering up your true self."
-    mes "Even though you were wearing a mask, to me, it seemed like you had thrown off all the things covering up your true self."
+    mes "Anche se indossavi una maschera, per me, sembrava che avessi gettato via tutte le cose che coprivano il tuo vero io."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:215
 translate italian sm1mv02s07a_711f3c7a:
 
     # mes "All that was left was a primal, open-minded, sexual being."
-    mes "All that was left was a primal, open-minded, sexual being."
+    mes "Tutto ciò che rimaneva era un essere primordiale, di mentalità aperta, sessuale."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:218
 translate italian sm1mv02s07a_81241dd1:
 
     # mes "From there, what started as a moment of curiosity grew into a hunger, and now... an appreciation for him."
-    mes "From there, what started as a moment of curiosity grew into a hunger, and now... an appreciation for him."
+    mes "Da lì, quello che è iniziato come un momento di curiosità è cresciuto in una fame, e ora... un apprezzamento per lui."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:219
 translate italian sm1mv02s07a_a0ac5de1:
 
     # mes "I'm sure you may feel a bit of the same, Nari."
-    mes "I'm sure you may feel a bit of the same, Nari."
+    mes "Sono sicura che anche tu possa provare un po' la stessa cosa, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:225
 translate italian sm1mv02s07a_85788dd1:
 
     # ns "I have. Especially that 'hunger' you mentioned."
-    ns "I have. Especially that 'hunger' you mentioned."
+    ns "Sì. Soprattutto quella 'fame' di cui hai parlato."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:228
 translate italian sm1mv02s07a_4d1ccd91:
@@ -296,13 +296,13 @@ translate italian sm1mv02s07a_4d1ccd91:
 translate italian sm1mv02s07a_ce8d676c:
 
     # mes "Now it's my turn to ask a question."
-    mes "Now it's my turn to ask a question."
+    mes "Ora è il mio turno di fare una domanda."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:233
 translate italian sm1mv02s07a_8fbcaeea:
 
     # ns "Of course. I am ready."
-    ns "Of course. I am ready."
+    ns "Certo. Sono pronta."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:236
 translate italian sm1mv02s07a_4d1ccd91_1:
@@ -314,151 +314,151 @@ translate italian sm1mv02s07a_4d1ccd91_1:
 translate italian sm1mv02s07a_53491d1c:
 
     # mes "Why watersports?"
-    mes "Why watersports?"
+    mes "Perché watersports?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:240
 translate italian sm1mv02s07a_a4f2c334:
 
     # ns "Hmmm. Let me think."
-    ns "Hmmm. Let me think."
+    ns "Hmmm. Fammi pensare."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:243
 translate italian sm1mv02s07a_60afeb6c:
 
     # mes "Great. While you think it over, how about we move this party to the sauna?"
-    mes "Great. While you think it over, how about we move this party to the sauna?"
+    mes "Perfetto. Mentre ci pensi, che ne dici se spostiamo questa festa nella sauna?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:247
 translate italian sm1mv02s07a_7aa091d9:
 
     # ns "I've heard the rooms get so warm that everyone gets all {i}sweaty and slimy{/i}."
-    ns "I've heard the rooms get so warm that everyone gets all {i}sweaty and slimy{/i}."
+    ns "Ho sentito dire che le stanze diventano così calde che tutti diventano {i}sudati e unti{/i}."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:248
 translate italian sm1mv02s07a_05d7a3ff:
 
     # ns "I would love to see [mcname] in that environment."
-    ns "I would love to see [mcname] in that environment."
+    ns "Mi piacerebbe vedere [mcname] in quell'ambiente."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:260
 translate italian sm1mv02s07a_e2e3434e:
 
     # mc "Jiminey Christmas, it's hot."
-    mc "Jiminey Christmas, it's hot."
+    mc "Santo cielo, fa caldo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:263
 translate italian sm1mv02s07a_1c9f7a13:
 
     # mes "That is the general idea."
-    mes "That is the general idea."
+    mes "Questa è l'idea generale."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:266
 translate italian sm1mv02s07a_53c8c12e:
 
     # ns "In Sweden and other places close to it, they use saunas for hangouts."
-    ns "In Sweden and other places close to it, they use saunas for hangouts."
+    ns "In Svezia e in altri luoghi vicini, usano le saune per socializzare."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:267
 translate italian sm1mv02s07a_fad78986:
 
     # ns "It's kind of interwoven into the social culture."
-    ns "It's kind of interwoven into the social culture."
+    ns "È un po' intrecciato nella cultura sociale."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:275
 translate italian sm1mv02s07a_96189ca0:
 
     # mc "How can people think and talk in this heat?"
-    mc "How can people think and talk in this heat?"
+    mc "Come fanno le persone a pensare e parlare con questo caldo?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:278
 translate italian sm1mv02s07a_dd143513:
 
     # mes "Feeling faint already?"
-    mes "Feeling faint already?"
+    mes "Ti senti già debole?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:281
 translate italian sm1mv02s07a_d3d0d0d8:
 
     # mc "Hah. Not a chance."
-    mc "Hah. Not a chance."
+    mc "Hah. Neanche per sogno."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:285
 translate italian sm1mv02s07a_95394f8b:
 
     # mc "I like the way they think."
-    mc "I like the way they think."
+    mc "Mi piace il loro modo di pensare."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:288
 translate italian sm1mv02s07a_86325f1a:
 
     # mes "Hanging out in one of these, you certainly wouldn't waste breath on bullshit conversation."
-    mes "Hanging out in one of these, you certainly wouldn't waste breath on bullshit conversation."
+    mes "Stando in una di queste, di certo non sprecheresti fiato in conversazioni inutili."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:291
 translate italian sm1mv02s07a_f7530b43:
 
     # mc "No ma'am."
-    mc "No ma'am."
+    mc "No signora."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:295
 translate italian sm1mv02s07a_44278a2b:
 
     # ns "Alright, Min. I have my answer."
-    ns "Alright, Min. I have my answer."
+    ns "Va bene, Min. Ho la mia risposta."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:298
 translate italian sm1mv02s07a_7fa386b8:
 
     # mes "Fire away, Nari."
-    mes "Fire away, Nari."
+    mes "Sparala, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:302
 translate italian sm1mv02s07a_c2dd5daa:
 
     # ns "The first time I saw watersports in hentai... I couldn't believe it."
-    ns "The first time I saw watersports in hentai... I couldn't believe it."
+    ns "La prima volta che ho visto i watersports negli hentai... non ci potevo credere."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:303
 translate italian sm1mv02s07a_9acff63b:
 
     # ns "I mean it wasn't real, but it stuck a fork in my brain."
-    ns "I mean it wasn't real, but it stuck a fork in my brain."
+    ns "Voglio dire, non era reale, ma mi ha piantato un chiodo nel cervello."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:305
 translate italian sm1mv02s07a_a15d68c8:
 
     # ns "I thought, could that really happen to people?"
-    ns "I thought, could that really happen to people?"
+    ns "Pensavo, potrebbe davvero succedere alle persone?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:306
 translate italian sm1mv02s07a_551cd309:
 
     # ns "So first it was this... taboo."
-    ns "So first it was this... taboo."
+    ns "Quindi all'inizio era questo... tabù."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:309
 translate italian sm1mv02s07a_558e3854:
 
     # ns "This very brazen thing that I wanted to do."
-    ns "This very brazen thing that I wanted to do."
+    ns "Questa cosa molto sfacciata che volevo fare."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:310
 translate italian sm1mv02s07a_a628a929:
 
     # ns "And then I started thinking of how primal it was."
-    ns "And then I started thinking of how primal it was."
+    ns "E poi ho iniziato a pensare a quanto fosse primordiale."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:311
 translate italian sm1mv02s07a_60acb12a:
 
     # ns "How it helps strip two lovers down to such base elements."
-    ns "How it helps strip two lovers down to such base elements."
+    ns "Come aiuta a ridurre due amanti a elementi così basilari."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:314
 translate italian sm1mv02s07a_6115b4fc:
 
     # mes "You've thought about this a lot haven't you?"
-    mes "You've thought about this a lot haven't you?"
+    mes "Ci hai pensato molto, vero?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:317
 translate italian sm1mv02s07a_128a537c:
@@ -470,169 +470,169 @@ translate italian sm1mv02s07a_128a537c:
 translate italian sm1mv02s07a_05670c0a:
 
     # ns "*deep breath* Maybe too much."
-    ns "*deep breath* Maybe too much."
+    ns "*respiro profondo* Forse troppo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:321
 translate italian sm1mv02s07a_7cde4dff:
 
     # mc "No such thing."
-    mc "No such thing."
+    mc "Non esiste una cosa del genere."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:323
 translate italian sm1mv02s07a_0cc06769:
 
     # ns "I think the final part of the equation was how strange it was that watersports are viewed as dirty and foul to so many people."
-    ns "I think the final part of the equation was how strange it was that watersports are viewed as dirty and foul to so many people."
+    ns "Penso che la parte finale dell'equazione fosse quanto fosse strano che i watersports siano visti come sporchi e disgustosi da così tante persone."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:324
 translate italian sm1mv02s07a_b913fa1b:
 
     # ns "And those same people have no problem going into a pool."
-    ns "And those same people have no problem going into a pool."
+    ns "E quelle stesse persone non hanno problemi ad andare in piscina."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:327
 translate italian sm1mv02s07a_ad91178c:
 
     # "Min and [mcname]" "*laughing*"
-    "Min and [mcname]" "*laughing*"
+    "Min e [mcname]" "*ridendo*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:330
 translate italian sm1mv02s07a_a91dafe7:
 
     # mes "When you're right you're right, Nari."
-    mes "When you're right you're right, Nari."
+    mes "Quando hai ragione hai ragione, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:333
 translate italian sm1mv02s07a_080a66df:
 
     # mc "Human minds are incredible things."
-    mc "Human minds are incredible things."
+    mc "Le menti umane sono cose incredibili."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:335
 translate italian sm1mv02s07a_c216ee50:
 
     # ns "With an incredible capacity for stubbornness."
-    ns "With an incredible capacity for stubbornness."
+    ns "Con un'incredibile capacità di ostinazione."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:338
 translate italian sm1mv02s07a_835987c2:
 
     # ns "Very true. But that's why I have really enjoyed being with [mcname]."
-    ns "Very true. But that's why I have really enjoyed being with [mcname]."
+    ns "Molto vero. Ma è per questo che mi è davvero piaciuto stare con [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:339
 translate italian sm1mv02s07a_c0b82e21:
 
     # ns "Ever since some of our earliest conversations at work, I could feel that we were kindred spirits."
-    ns "Ever since some of our earliest conversations at work, I could feel that we were kindred spirits."
+    ns "Sin dalle nostre prime conversazioni al lavoro, sentivo che eravamo anime affini."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:340
 translate italian sm1mv02s07a_0e75e644:
 
     # ns "Maybe I saw that same 'animal' you saw that night at the Fetish Locator party."
-    ns "Maybe I saw that same 'animal' you saw that night at the Fetish Locator party."
+    ns "Forse ho visto lo stesso 'animale' che hai visto tu quella notte alla festa di Fetish Locator."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:344
 translate italian sm1mv02s07a_c23f613e:
 
     # mc "I wasn't letting my guard down that much, was I, Nari?"
-    mc "I wasn't letting my guard down that much, was I, Nari?"
+    mc "Non stavo abbassando così tanto la guardia, vero, Nari?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:347
 translate italian sm1mv02s07a_0173b286:
 
     # ns "Hehe. It was all in your eyes, [mcname]. They looked like they wanted to eat me up."
-    ns "Hehe. It was all in your eyes, [mcname]. They looked like they wanted to eat me up."
+    ns "Hehe. Era tutto nei tuoi occhi, [mcname]. Sembravano volermi divorare."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:348
 translate italian sm1mv02s07a_5e70d92f:
 
     # ns "But fear not. I have enjoyed being eaten up by you."
-    ns "But fear not. I have enjoyed being eaten up by you."
+    ns "Ma non temere. Mi è piaciuto essere divorata da te."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:351
 translate italian sm1mv02s07a_cb7ce27f:
 
     # mes "Haha. [mcname] can be a beast in bed, but I think you're still missing out, Nari."
-    mes "Haha. [mcname] can be a beast in bed, but I think you're still missing out, Nari."
+    mes "Haha. [mcname] può essere una bestia a letto, ma penso che ti stia ancora perdendo qualcosa, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:354
 translate italian sm1mv02s07a_281e82bb:
 
     # ns "What do you mean?"
-    ns "What do you mean?"
+    ns "Cosa intendi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:358
 translate italian sm1mv02s07a_b8e0a172:
 
     # mes "Well '[mcname] the solo act' is one thing.{w} But you have probably only had a few chances to see him in a tag team situation."
-    mes "Well '[mcname] the solo act' is one thing.{w} But you have probably only had a few chances to see him in a tag team situation."
+    mes "Beh '[mcname] da solista' è una cosa.{w} Ma probabilmente hai avuto solo poche occasioni per vederlo in una situazione di squadra."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:361
 translate italian sm1mv02s07a_49bb0154:
 
     # ns "Oooh. You mean. The two of you working together...{w} on one person."
-    ns "Oooh. You mean. The two of you working together...{w} on one person."
+    ns "Oooh. Intendi. Voi due che lavorate insieme...{w} su una persona."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:365
 translate italian sm1mv02s07a_3d6e0cc9:
 
     # mes "Yes!"
-    mes "Yes!"
+    mes "Sì!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:366
 translate italian sm1mv02s07a_219afcb5:
 
     # mes "How about it? It will be good practice for our scene in the movie too."
-    mes "How about it? It will be good practice for our scene in the movie too."
+    mes "Che ne dici? Sarà anche una buona pratica per la nostra scena nel film."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:368
 translate italian sm1mv02s07a_eb14d2e7:
 
     # ns "*giggles* That sounds a little dangerous."
-    ns "*giggles* That sounds a little dangerous."
+    ns "*ridacchia* Sembra un po' pericoloso."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:370
 translate italian sm1mv02s07a_b05ae594:
 
     # mes "We'll make sure to be safe."
-    mes "We'll make sure to be safe."
+    mes "Ci assicureremo di essere sicuri."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:371
 translate italian sm1mv02s07a_0ae5eff8:
 
     # mes "[mcname] and I won't let things get out of hand."
-    mes "[mcname] and I won't let things get out of hand."
+    mes "Io e [mcname] non lasceremo che le cose sfuggano di mano."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:374
 translate italian sm1mv02s07a_77b6738c:
 
     # ns "[mcname], are you open to this?"
-    ns "[mcname], are you open to this?"
+    ns "[mcname], sei d'accordo con questo?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:376
 translate italian sm1mv02s07a_d2fa085a:
 
     # mc "You wanted to see me getting all sweaty and slimy."
-    mc "You wanted to see me getting all sweaty and slimy."
+    mc "Volevi vedermi diventare tutto sudato e unto."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:377
 translate italian sm1mv02s07a_612054db:
 
     # mc "Having fun in this place is a guarantee you'll see that."
-    mc "Having fun in this place is a guarantee you'll see that."
+    mc "Divertirsi in questo posto è la garanzia che lo vedrai."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:381
 translate italian sm1mv02s07a_9581917e:
 
     # ns "Well then, Min, I guess the only question left is..."
-    ns "Well then, Min, I guess the only question left is..."
+    ns "Beh allora, Min, immagino che l'unica domanda rimasta sia..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:382
 translate italian sm1mv02s07a_cf75cdfc:
 
     # ns "How do we want to do this?"
-    ns "How do we want to do this?"
+    ns "Come vogliamo farlo?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:389
 translate italian sm1mv02s07a_3079df43:
