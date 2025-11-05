@@ -2389,30 +2389,30 @@ translate italian sm1mv02s05_movie_end_d389dcd8:
 translate italian strings:
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:176
-    old "Circa dieci minuti dopo"
+    old "About ten minutes later"
     new "Circa dieci minuti dopo"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:265
-    old "La tua performance mi ha sempre lasciato soddisfatto"
+    old "Your performance has always left me satisfied"
     new "La tua performance mi ha sempre lasciato soddisfatto"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:265
-    old "Questa è solo un'altra montagna da scalare"
+    old "This is just another mountain to climb"
     new "Questa è solo un'altra montagna da scalare"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:313
-    old "Tecnicamente, sono il capo"
-    new "Tecnicamente, sono il capo"
+    old "Technically, I'm the boss"
+    new "Tecnicamente, sono io il capo"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:313
-    old "Sarai fantastica, Nari"
-    new "Sarai fantastica, Nari"
+    old "You're going to be great, Nari"
+    new "Sarai grandiosa, Nari"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:416
-    old "Dieci minuti dopo"
+    old "Ten minutes later"
     new "Dieci minuti dopo"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1373
-    old "Quindici minuti dopo la fine delle riprese"
+    old "Fifteen minutes after end of filming"
     new "Quindici minuti dopo la fine delle riprese"
 

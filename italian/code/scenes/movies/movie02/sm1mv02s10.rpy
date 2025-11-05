@@ -1604,21 +1604,21 @@ translate italian strings:
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:138
     old "You're overthinking it"
-    new "You're overthinking it"
+    new "Ci stai pensando troppo"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:138
     old "I can guarantee it"
-    new "I can guarantee it"
+    new "Posso garantirtelo"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:138
     old "We gave it our all"
-    new "We gave it our all"
+    new "Abbiamo dato il massimo"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:327
     old "I need to see you in more uniforms"
-    new "I need to see you in more uniforms"
+    new "Devo vederti in più uniformi"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:327
     old "It's cool, but not my favorite"
-    new "It's cool, but not my favorite"
+    new "È carino, ma non il mio preferito"
 

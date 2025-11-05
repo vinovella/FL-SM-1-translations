@@ -2418,21 +2418,21 @@ translate italian strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:330
     old "Please enter a name for Lyssa during roleplay"
-    new "Please enter a name for Lyssa during roleplay"
+    new "Per favore inserisci un nome per Lyssa durante il gioco di ruolo"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:469
     old "I'm a fan!"
-    new "I'm a fan!"
+    new "Sono un fan!"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:469
     old "Watersports isn't really my thing"
-    new "Watersports isn't really my thing"
+    new "I giochi d'acqua non sono proprio la mia cosa"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:920
     old "Be playful"
-    new "Be playful"
+    new "Sii giocoso"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:920
     old "Be dominant"
-    new "Be dominant"
+    new "Sii dominante"
 

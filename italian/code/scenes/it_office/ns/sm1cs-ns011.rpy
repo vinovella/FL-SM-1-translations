@@ -1142,13 +1142,13 @@ translate italian strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:298
     old "Two hours later"
-    new "Two hours later"
+    new "Due ore dopo"
 
     # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:373
     old "Sooner than you think"
-    new "Sooner than you think"
+    new "Prima di quanto pensi"
 
     # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:373
     old "Are you sure that doesn't bother you?"
-    new "Are you sure that doesn't bother you?"
+    new "Sei sicuro che non ti disturbi?"
 

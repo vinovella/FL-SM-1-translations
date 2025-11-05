@@ -548,7 +548,7 @@ translate italian strings:
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:151
     old "Okay"
-    new "Okay"
+    new "Va bene"
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:151
     old "I don't know..."

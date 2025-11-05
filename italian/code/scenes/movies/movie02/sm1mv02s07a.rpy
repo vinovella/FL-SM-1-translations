@@ -1454,21 +1454,21 @@ translate italian strings:
 
     # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:127
     old "60 minutes later"
-    new "60 minutes later"
+    new "60 minuti dopo"
 
     # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:271
     old "How can you focus on talking in a place like this?"
-    new "How can you focus on talking in a place like this?"
+    new "Come fai a concentrarti a parlare in un posto del genere?"
 
     # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:271
     old "I like the way they think"
-    new "I like the way they think"
+    new "Mi piace il loro modo di pensare"
 
     # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:610
     old "Ask Nari to piss on you"
-    new "Ask Nari to piss on you"
+    new "Chiedi a Nari di pisciarti addosso"
 
     # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:610
     old "I think Min needs a turn on my cock"
-    new "I think Min needs a turn on my cock"
+    new "Penso che Min abbia bisogno di un turno sul mio cazzo"
 
