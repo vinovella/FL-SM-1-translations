@@ -8,11 +8,11 @@ translate deutsch sm1mv02s09i_f8846e88:
 translate deutsch sm1mv02s09i_b125a709:
 
     # mc "Ready to film the finale of the movie?"
-    mc "Ready to film the finale of the movie?"
+    mc "Bereit, das Finale des Films zu drehen?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09i.rpy:12
 translate deutsch sm1mv02s09i_a6d27d45:
 
     # sy "Hell yes I am! Let's get over to the Photo Dojo!"
-    sy "Hell yes I am! Let's get over to the Photo Dojo!"
+    sy "Aber klar doch! Auf geht's zum Photo Dojo!"
 
