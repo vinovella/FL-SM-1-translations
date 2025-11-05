@@ -638,43 +638,43 @@ translate italian sm1mv02s07a_cf75cdfc:
 translate italian sm1mv02s07a_3079df43:
 
     # ns "This is certainly a new one."
-    ns "This is certainly a new one."
+    ns "Questa è sicuramente una novità."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:391
 translate italian sm1mv02s07a_b36ed357:
 
     # mes "Stick with us, you'll have plenty of 'first times'."
-    mes "Stick with us, you'll have plenty of 'first times'."
+    mes "Resta con noi, avrai un sacco di 'prime volte'."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:392
 translate italian sm1mv02s07a_8c693be0:
 
     # mes "First we have to get his cock nice and hard."
-    mes "First we have to get his cock nice and hard."
+    mes "Prima dobbiamo rendere il suo cazzo bello e duro."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:393
 translate italian sm1mv02s07a_4d0ad613:
 
     # mes "When he starts to piss on us, we want him shooting straight."
-    mes "When he starts to piss on us, we want him shooting straight."
+    mes "Quando inizia a pisciarci addosso, vogliamo che miri dritto."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:401
 translate italian sm1mv02s07a_b592689b:
 
     # ns "Ahuah... That's smart."
-    ns "Ahuah... That's smart."
+    ns "Ahuah... È intelligente."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:402
 translate italian sm1mv02s07a_fffd60bd:
 
     # mes "*kissing and sucking* This really is the perfect setup."
-    mes "*kissing and sucking* This really is the perfect setup."
+    mes "*baciando e succhiando* Questa è davvero la configurazione perfetta."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:405
 translate italian sm1mv02s07a_6cd78c88:
 
     # mes "Boobs in my face, cock in my hands."
-    mes "Boobs in my face, cock in my hands."
+    mes "Tette in faccia, cazzo nelle mani."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:408
 translate italian sm1mv02s07a_44fa84c0:
@@ -686,79 +686,79 @@ translate italian sm1mv02s07a_44fa84c0:
 translate italian sm1mv02s07a_6c25ac56:
 
     # ns "Muahaah... Yes..."
-    ns "Muahaah... Yes..."
+    ns "Muahaah... Sì..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:427
 translate italian sm1mv02s07a_e0aaf9b5:
 
     # mes "*panting*"
-    mes "*panting*"
+    mes "*ansimando*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:428
 translate italian sm1mv02s07a_e018cc3c:
 
     # ns "*breathing softly*"
-    ns "*breathing softly*"
+    ns "*respirando dolcemente*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:436
 translate italian sm1mv02s07a_e0c03fe6:
 
     # mes "You can go first, Nari."
-    mes "You can go first, Nari."
+    mes "Puoi andare per prima, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:439
 translate italian sm1mv02s07a_d1c9fde6:
 
     # mes "This time..."
-    mes "This time..."
+    mes "Questa volta..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:442
 translate italian sm1mv02s07a_ef23817b:
 
     # mes "But I will need you to get my pussy ready too."
-    mes "But I will need you to get my pussy ready too."
+    mes "Ma avrò bisogno che tu prepari anche la mia figa."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:445
 translate italian sm1mv02s07a_2d71d801:
 
     # ns "Your pussy ready?"
-    ns "Your pussy ready?"
+    ns "La tua figa pronta?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:446
 translate italian sm1mv02s07a_bf5fc8e7:
 
     # ns "Hehehe. I think I can do that."
-    ns "Hehehe. I think I can do that."
+    ns "Hehehe. Penso di poterlo fare."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:450
 translate italian sm1mv02s07a_aea1c156:
 
     # ns "Ahuahah... Will this work?"
-    ns "Ahuahah... Will this work?"
+    ns "Ahuahah... Funzionerà così?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:452
 translate italian sm1mv02s07a_9c7524f0:
 
     # mes "Looks great from where I'm looking."
-    mes "Looks great from where I'm looking."
+    mes "Sembra fantastico da dove sto guardando."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:461
 translate italian sm1mv02s07a_86889063:
 
     # ns "Muaah... does that feel good, [mcname]?"
-    ns "Muaah... does that feel good, [mcname]?"
+    ns "Muaah... ti piace, [mcname]?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:464
 translate italian sm1mv02s07a_20d8a624:
 
     # mc "Yes... Great, Nari..."
-    mc "Yes... Great, Nari..."
+    mc "Sì... Fantastico, Nari..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:467
 translate italian sm1mv02s07a_6f03d83b:
 
     # mc "My horny little girl always feels amazing."
-    mc "My horny little girl always feels amazing."
+    mc "La mia piccola ragazza arrapata è sempre fantastica."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:470
 translate italian sm1mv02s07a_6f58acd4:
@@ -770,31 +770,31 @@ translate italian sm1mv02s07a_6f58acd4:
 translate italian sm1mv02s07a_779f6ee3:
 
     # mes "Just don't forget about me, Nari."
-    mes "Just don't forget about me, Nari."
+    mes "Solo non dimenticarti di me, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:476
 translate italian sm1mv02s07a_93ed8d05:
 
     # mes "We will be working together for the scene."
-    mes "We will be working together for the scene."
+    mes "Lavoreremo insieme per la scena."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:479
 translate italian sm1mv02s07a_9a427fea:
 
     # mes "Oha-haah... we need to keep practicing."
-    mes "Oha-haah... we need to keep practicing."
+    mes "Oha-haah... dobbiamo continuare a esercitarci."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:482
 translate italian sm1mv02s07a_c8250773:
 
     # ns "Yes, Min!"
-    ns "Yes, Min!"
+    ns "Sì, Min!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:485
 translate italian sm1mv02s07a_dbb6ff46:
 
     # mes "*moaning* Oh fuck!"
-    mes "*moaning* Oh fuck!"
+    mes "*gemendo* Oh cazzo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:497
 translate italian sm1mv02s07a_3bc1cd1c:
@@ -812,43 +812,43 @@ translate italian sm1mv02s07a_34254b03:
 translate italian sm1mv02s07a_a19e34b8:
 
     # mes "You are a natural, Nari."
-    mes "You are a natural, Nari."
+    mes "Sei una naturale, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:508
 translate italian sm1mv02s07a_1ed1aa33:
 
     # ns "Thank you, Min."
-    ns "Thank you, Min."
+    ns "Grazie, Min."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:509
 translate italian sm1mv02s07a_94f2bbc7:
 
     # ns "I aim to impress."
-    ns "I aim to impress."
+    ns "Miro a impressionare."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:512
 translate italian sm1mv02s07a_9274a4e6:
 
     # mes "You don't have to impress me."
-    mes "You don't have to impress me."
+    mes "Non devi impressionarmi."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:515
 translate italian sm1mv02s07a_b76d686c:
 
     # mes "I mean I like it, but you need to make sure your own needs are met too."
-    mes "I mean I like it, but you need to make sure your own needs are met too."
+    mes "Voglio dire, mi piace, ma devi assicurarti che anche i tuoi bisogni siano soddisfatti."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:518
 translate italian sm1mv02s07a_2b7a37bf:
 
     # ns "Good fortune smiles on me."
-    ns "Good fortune smiles on me."
+    ns "La buona sorte mi sorride."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:526
 translate italian sm1mv02s07a_watersports_595ee7a3:
 
     # ns "But I am feeling... a little thirsty, [mcname]."
-    ns "But I am feeling... a little thirsty, [mcname]."
+    ns "Ma mi sento... un po' assetata, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:529
 translate italian sm1mv02s07a_watersports_d1e24133:
@@ -860,13 +860,13 @@ translate italian sm1mv02s07a_watersports_d1e24133:
 translate italian sm1mv02s07a_watersports_5b6ab294:
 
     # mc "Coming right up."
-    mc "Coming right up."
+    mc "Arrivo subito."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:535
 translate italian sm1mv02s07a_watersports_13d02858:
 
     # mc "Open up."
-    mc "Open up."
+    mc "Apri."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:548
 translate italian sm1mv02s07a_watersports_9527a087:
@@ -878,19 +878,19 @@ translate italian sm1mv02s07a_watersports_9527a087:
 translate italian sm1mv02s07a_watersports_e03bd905:
 
     # mes "Drink it all up..."
-    mes "Drink it all up..."
+    mes "Bevi tutto..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:550
 translate italian sm1mv02s07a_watersports_06195294:
 
     # mes "Such a good girl."
-    mes "Such a good girl."
+    mes "Che brava ragazza."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:551
 translate italian sm1mv02s07a_watersports_5b0bc377:
 
     # ns "*gurgling and slurping*"
-    ns "*gurgling and slurping*"
+    ns "*gorgoglio e rumore di suzione*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:559
 translate italian sm1mv02s07a_watersports_e9d85557:
@@ -908,37 +908,37 @@ translate italian sm1mv02s07a_watersports_2ac7bd00:
 translate italian sm1mv02s07a_watersports_9ecdaa7d:
 
     # ns "*panting*"
-    ns "*panting*"
+    ns "*ansimando*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:566
 translate italian sm1mv02s07a_watersports_874ca342:
 
     # mes "All good there?"
-    mes "All good there?"
+    mes "Tutto bene?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:569
 translate italian sm1mv02s07a_watersports_77a39142:
 
     # ns "*breathless* Extremely good."
-    ns "*breathless* Extremely good."
+    ns "*senza fiato* Estremamente bene."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:572
 translate italian sm1mv02s07a_watersports_d4650470:
 
     # mes "Care to try out my flavor?"
-    mes "Care to try out my flavor?"
+    mes "Vuoi provare il mio sapore?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:575
 translate italian sm1mv02s07a_watersports_1d2558fb:
 
     # ns "I should be prepared for anything."
-    ns "I should be prepared for anything."
+    ns "Dovrei essere preparata a tutto."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:576
 translate italian sm1mv02s07a_watersports_9211aaab:
 
     # ns "*excitedly* Plus I really want to!"
-    ns "*excitedly* Plus I really want to!"
+    ns "*con entusiasmo* Inoltre lo voglio davvero!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:579
 translate italian sm1mv02s07a_watersports_8119ff39:
@@ -956,7 +956,7 @@ translate italian sm1mv02s07a_watersports_8f411162:
 translate italian sm1mv02s07a_watersports_bee06ac7:
 
     # mes "*soft breathing*"
-    mes "*soft breathing*"
+    mes "*respirazione leggera*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:592
 translate italian sm1mv02s07a_watersports_d261fc2b:
@@ -968,121 +968,121 @@ translate italian sm1mv02s07a_watersports_d261fc2b:
 translate italian sm1mv02s07a_watersports_6ec4d390:
 
     # mc "How's it feel?"
-    mc "How's it feel?"
+    mc "Come ti senti?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:598
 translate italian sm1mv02s07a_watersports_5fca81a8:
 
     # mes "Hehe. Incredible. Usually I'm always on the receiving end."
-    mes "Hehe. Incredible. Usually I'm always on the receiving end."
+    mes "Hehe. Incredibile. Di solito sono sempre dalla parte ricevente."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:599
 translate italian sm1mv02s07a_watersports_6cd87887:
 
     # mes "She's gulping it all up."
-    mes "She's gulping it all up."
+    mes "Sta ingoiando tutto."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:600
 translate italian sm1mv02s07a_watersports_658b2833:
 
     # mes "Only you could be so lucky to find a watersports addict in an office cubicle."
-    mes "Only you could be so lucky to find a watersports addict in an office cubicle."
+    mes "Solo tu potresti essere così fortunato da trovare un'appassionata di watersports in un cubicolo d'ufficio."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:601
 translate italian sm1mv02s07a_watersports_d1392f98:
 
     # mc "We actually have open seating."
-    mc "We actually have open seating."
+    mc "In realtà abbiamo posti aperti."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:602
 translate italian sm1mv02s07a_watersports_f237aa88:
 
     # mes "Exactly my - uaha... *moans*"
-    mes "Exactly my - uaha... *moans*"
+    mes "Esattamente il mio - uaha... *geme*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:603
 translate italian sm1mv02s07a_watersports_9434c18b:
 
     # mes "Point."
-    mes "Point."
+    mes "Punto."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:614
 translate italian sm1mv02s07a_watersports_6f6512e0:
 
     # mc "Nari, how do you feel about pissing on me?"
-    mc "Nari, how do you feel about pissing on me?"
+    mc "Nari, cosa ne pensi di pisciarmi addosso?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:617
 translate italian sm1mv02s07a_watersports_6da522c8:
 
     # ns "On you? Me?"
-    ns "On you? Me?"
+    ns "Addosso a te? Io?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:618
 translate italian sm1mv02s07a_watersports_2ed21113:
 
     # ns "I thought watersports was all about men using girls as urinals."
-    ns "I thought watersports was all about men using girls as urinals."
+    ns "Pensavo che i watersports riguardassero gli uomini che usano le ragazze come orinatoi."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:621
 translate italian sm1mv02s07a_watersports_84af3145:
 
     # mes "Haha. For some, it is."
-    mes "Haha. For some, it is."
+    mes "Haha. Per alcuni, lo è."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:622
 translate italian sm1mv02s07a_watersports_7a02f197:
 
     # mes "But [mcname] has always been a flexible one."
-    mes "But [mcname] has always been a flexible one."
+    mes "Ma [mcname] è sempre stato flessibile."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:623
 translate italian sm1mv02s07a_watersports_96561336:
 
     # mes "He enjoys it both ways."
-    mes "He enjoys it both ways."
+    mes "Gli piace in entrambi i modi."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:626
 translate italian sm1mv02s07a_watersports_cccbe836:
 
     # ns "But I've never done it before."
-    ns "But I've never done it before."
+    ns "Ma non l'ho mai fatto prima."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:629
 translate italian sm1mv02s07a_watersports_94192873:
 
     # mes "I'll be there the whole time."
-    mes "I'll be there the whole time."
+    mes "Sarò lì per tutto il tempo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:630
 translate italian sm1mv02s07a_watersports_d8ce9edf:
 
     # mes "It's super easy, barely an inconvenience."
-    mes "It's super easy, barely an inconvenience."
+    mes "È super facile, a malapena un inconveniente."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:634
 translate italian sm1mv02s07a_watersports_e1f949bb:
 
     # mc "You're up, Min."
-    mc "You're up, Min."
+    mc "Tocca a te, Min."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:638
 translate italian sm1mv02s07a_watersports_1c59b413:
 
     # mes "I thought you'd never ask."
-    mes "I thought you'd never ask."
+    mes "Pensavo non me lo avresti mai chiesto."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:640
 translate italian sm1mv02s07a_watersports_851a8a52:
 
     # mc "But I'm not going easy on you.{w} You ready to put it all on the line?"
-    mc "But I'm not going easy on you.{w} You ready to put it all on the line?"
+    mc "Ma non andrò piano con te.{w} Sei pronta a mettere tutto in gioco?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:643
 translate italian sm1mv02s07a_watersports_91cad09b:
 
     # mes "Bitch I was born ready."
-    mes "Bitch I was born ready."
+    mes "Cazzo, sono nata pronta."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:645
 translate italian sm1mv02s07a_watersports_faa03e1a:
@@ -1094,7 +1094,7 @@ translate italian sm1mv02s07a_watersports_faa03e1a:
 translate italian sm1mv02s07a_watersports_f261d5a3:
 
     # mes "I'll get you nice and ready."
-    mes "I'll get you nice and ready."
+    mes "Ti preparerò per bene."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:655
 translate italian sm1mv02s07a_watersports_e274088d:
@@ -1106,19 +1106,19 @@ translate italian sm1mv02s07a_watersports_e274088d:
 translate italian sm1mv02s07a_watersports_0b8d8198:
 
     # ns "I'm ready."
-    ns "I'm ready."
+    ns "Sono pronta."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:662
 translate italian sm1mv02s07a_watersports_ba750082:
 
     # ns "Are you sure about this?"
-    ns "Are you sure about this?"
+    ns "Sei sicuro di questo?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:665
 translate italian sm1mv02s07a_watersports_5810ea82:
 
     # mc "Fire away, gorgeous."
-    mc "Fire away, gorgeous."
+    mc "Spara, bellissima."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:673
 translate italian sm1mv02s07a_watersports_ff1dd6b3:
@@ -1130,79 +1130,79 @@ translate italian sm1mv02s07a_watersports_ff1dd6b3:
 translate italian sm1mv02s07a_watersports_bdfaba6e:
 
     # mes "Good girl."
-    mes "Good girl."
+    mes "Brava ragazza."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:677
 translate italian sm1mv02s07a_watersports_94621aa9:
 
     # mc "*gurgling*"
-    mc "*gurgling*"
+    mc "*gorgoglio*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:678
 translate italian sm1mv02s07a_watersports_79a10be1:
 
     # mes "Like I said... easy as breathing."
-    mes "Like I said... easy as breathing."
+    mes "Come ho detto... facile come respirare."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:681
 translate italian sm1mv02s07a_watersports_83a146c1:
 
     # mct "Oh this is so hot."
-    mct "Oh this is so hot."
+    mct "Oh questo è così eccitante."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:682
 translate italian sm1mv02s07a_watersports_62d30ba6:
 
     # mc "I feel like I'm going to explode!"
-    mc "I feel like I'm going to explode!"
+    mc "Mi sento come se stessi per esplodere!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:685
 translate italian sm1mv02s07a_watersports_36b51bb2:
 
     # ns "Ahuaah... I feel so free..."
-    ns "Ahuaah... I feel so free..."
+    ns "Ahuaah... Mi sento così libera..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:686
 translate italian sm1mv02s07a_watersports_59ef47b6:
 
     # ns "Like I'm flying."
-    ns "Like I'm flying."
+    ns "Come se stessi volando."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:695
 translate italian sm1mv02s07a_watersports_33d70267:
 
     # ns "*deep breath*"
-    ns "*deep breath*"
+    ns "*respiro profondo*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:696
 translate italian sm1mv02s07a_watersports_2cf31acb:
 
     # ns "That was... really nice."
-    ns "That was... really nice."
+    ns "È stato... davvero bello."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:699
 translate italian sm1mv02s07a_watersports_01fe1a25:
 
     # ns "Thank you for trusting me for... it"
-    ns "Thank you for trusting me for... it"
+    ns "Grazie per esserti fidato di me per... questo"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:702
 translate italian sm1mv02s07a_watersports_c71c0283:
 
     # mc "Not a problem, Nari."
-    mc "Not a problem, Nari."
+    mc "Non c'è problema, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:706
 translate italian sm1mv02s07a_watersports_1feb4f40:
 
     # mes "We should clean up a bit."
-    mes "We should clean up a bit."
+    mes "Dovremmo pulire un po'."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:707
 translate italian sm1mv02s07a_watersports_ebc36340:
 
     # mes "Don't want to get piss on the benches."
-    mes "Don't want to get piss on the benches."
+    mes "Non vogliamo far finire la piscia sulle panchine."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:709
 translate italian sm1mv02s07a_watersports_081b75b3:
@@ -1214,31 +1214,31 @@ translate italian sm1mv02s07a_watersports_081b75b3:
 translate italian sm1mv02s07a_watersports_88e49124:
 
     # mes "Oooh. In all the excitement, I nearly forgot my turn."
-    mes "Oooh. In all the excitement, I nearly forgot my turn."
+    mes "Oooh. In tutta l'eccitazione, ho quasi dimenticato il mio turno."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:715
 translate italian sm1mv02s07a_watersports_bda1ba2d:
 
     # ns "Mmm. Maybe that is a sign that we should stop."
-    ns "Mmm. Maybe that is a sign that we should stop."
+    ns "Mmm. Forse è un segno che dovremmo fermarci."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:721
 translate italian sm1mv02s07a_watersports_3b2d9360:
 
     # mes "I didn't hear no bell."
-    mes "I didn't hear no bell."
+    mes "Non ho sentito nessuna campana."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:722
 translate italian sm1mv02s07a_watersports_68fd51b8:
 
     # mes "How about it, big guy?"
-    mes "How about it, big guy?"
+    mes "Che ne dici, grandone?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:725
 translate italian sm1mv02s07a_watersports_47c63e52:
 
     # mes "Still got gas in the tank?"
-    mes "Still got gas in the tank?"
+    mes "Hai ancora benzina nel serbatoio?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:737
 translate italian sm1mv02s07a_after_watersports_fea1d698:
@@ -1250,13 +1250,13 @@ translate italian sm1mv02s07a_after_watersports_fea1d698:
 translate italian sm1mv02s07a_after_watersports_7c28ffa2:
 
     # mes "Oh fuck yeah."
-    mes "Oh fuck yeah."
+    mes "Oh cazzo sì."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:741
 translate italian sm1mv02s07a_after_watersports_24cac04d:
 
     # mes "Push it in deep, [mcname]."
-    mes "Push it in deep, [mcname]."
+    mes "Spingilo in profondità, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:749
 translate italian sm1mv02s07a_after_watersports_02d0276a:
@@ -1268,43 +1268,43 @@ translate italian sm1mv02s07a_after_watersports_02d0276a:
 translate italian sm1mv02s07a_after_watersports_a4b719b9:
 
     # mes "Oh you two are double-teaming me."
-    mes "Oh you two are double-teaming me."
+    mes "Oh voi due mi state facendo il doppio gioco."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:753
 translate italian sm1mv02s07a_after_watersports_d34a2d11:
 
     # mes "Super fair-ayiaaeeahh..."
-    mes "Super fair-ayiaaeeahh..."
+    mes "Super giusto-ayiaaeeahh..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:756
 translate italian sm1mv02s07a_after_watersports_299ecb75:
 
     # ns "We can stop if you'd like, Min."
-    ns "We can stop if you'd like, Min."
+    ns "Possiamo fermarci se vuoi, Min."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:757
 translate italian sm1mv02s07a_after_watersports_cbc24aaa:
 
     # mes "Not on your life."
-    mes "Not on your life."
+    mes "Neanche per sogno."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:760
 translate italian sm1mv02s07a_after_watersports_eb26a93f:
 
     # mes "No stopping until I make this beast inside me erupt like a fucking rocket!"
-    mes "No stopping until I make this beast inside me erupt like a fucking rocket!"
+    mes "Non ci fermiamo finché non faccio eruttare questa bestia dentro di me come un fottuto razzo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:763
 translate italian sm1mv02s07a_after_watersports_a88fa25c:
 
     # mc "Oh! We should make a movie about animatronic robots that fuck."
-    mc "Oh! We should make a movie about animatronic robots that fuck."
+    mc "Oh! Dovremmo fare un film su robot animatronici che scopano."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:766
 translate italian sm1mv02s07a_after_watersports_227bd28b:
 
     # ns "Fucking robots? I'm not sure that one should leave the sauna, [mcname]."
-    ns "Fucking robots? I'm not sure that one should leave the sauna, [mcname]."
+    ns "Robot che scopano? Non sono sicura che quella dovrebbe uscire dalla sauna, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:767
 translate italian sm1mv02s07a_after_watersports_4da22b5a:
@@ -1316,19 +1316,19 @@ translate italian sm1mv02s07a_after_watersports_4da22b5a:
 translate italian sm1mv02s07a_after_watersports_6f6363bb:
 
     # mes "Oh momma! Fuck... fuck-huaaah!"
-    mes "Oh momma! Fuck... fuck-huaaah!"
+    mes "Oh mamma! Cazzo... cazzo-huaaah!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:773
 translate italian sm1mv02s07a_after_watersports_0f21764b:
 
     # mes "Right there. That's it."
-    mes "Right there. That's it."
+    mes "Proprio lì. Ecco."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:776
 translate italian sm1mv02s07a_after_watersports_7dd96f5f:
 
     # mes "You're getting me so close... {w} Come on, [mcname]!"
-    mes "You're getting me so close... {w} Come on, [mcname]!"
+    mes "Mi stai portando così vicina... {w} Dai, [mcname]!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:783
 translate italian sm1mv02s07a_after_watersports_6400bb25:
@@ -1340,7 +1340,7 @@ translate italian sm1mv02s07a_after_watersports_6400bb25:
 translate italian sm1mv02s07a_after_watersports_c366f7d1:
 
     # mc "Oh fuck. Min!"
-    mc "Oh fuck. Min!"
+    mc "Oh cazzo. Min!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:791
 translate italian sm1mv02s07a_after_watersports_488ed5ff:
@@ -1352,7 +1352,7 @@ translate italian sm1mv02s07a_after_watersports_488ed5ff:
 translate italian sm1mv02s07a_after_watersports_f147a0ff:
 
     # mes "Fuck me... Ohhhh..."
-    mes "Fuck me... Ohhhh..."
+    mes "Scopami... Ohhhh..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:803
 translate italian sm1mv02s07a_after_watersports_106fc9c7:
@@ -1364,91 +1364,91 @@ translate italian sm1mv02s07a_after_watersports_106fc9c7:
 translate italian sm1mv02s07a_after_watersports_60d64c1b:
 
     # mes "Fucking hot."
-    mes "Fucking hot."
+    mes "Fottutamente caldo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:818
 translate italian sm1mv02s07a_after_watersports_84ce5d23:
 
     # mes "So... do you think you passed?"
-    mes "So... do you think you passed?"
+    mes "Allora... pensi di aver passato?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:822
 translate italian sm1mv02s07a_after_watersports_f3fbb643:
 
     # ns "What? I was being tested."
-    ns "What? I was being tested."
+    ns "Cosa? Stavo facendo un test."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:826
 translate italian sm1mv02s07a_after_watersports_84a4a784:
 
     # mes "Haha. I was just joking, Nari."
-    mes "Haha. I was just joking, Nari."
+    mes "Haha. Stavo solo scherzando, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:829
 translate italian sm1mv02s07a_after_watersports_9740ffdc:
 
     # mc "If it was a test, you certainly passed with flying colors."
-    mc "If it was a test, you certainly passed with flying colors."
+    mc "Se fosse stato un test, l'hai certamente superato a pieni voti."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:831
 translate italian sm1mv02s07a_after_watersports_730d02b3:
 
     # ns "Excellent."
-    ns "Excellent."
+    ns "Eccellente."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:834
 translate italian sm1mv02s07a_after_watersports_2486c521:
 
     # mes "Either way, I hope that this was a good test run for the stuff we'll be doing together in the movies."
-    mes "Either way, I hope that this was a good test run for the stuff we'll be doing together in the movies."
+    mes "In ogni caso, spero che questa sia stata una buona prova generale per le cose che faremo insieme nei film."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:837
 translate italian sm1mv02s07a_after_watersports_9c7c9d5d:
 
     # ns "It was certainly a trial by sauna sweat."
-    ns "It was certainly a trial by sauna sweat."
+    ns "È stata certamente una prova del fuoco nella sauna."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:840
 translate italian sm1mv02s07a_after_watersports_6bd461ba:
 
     # mes "[mcname] and Stacy's fans aren't going to know what hit them when we get on stage together."
-    mes "[mcname] and Stacy's fans aren't going to know what hit them when we get on stage together."
+    mes "I fan di [mcname] e Stacy non sapranno cosa li ha colpiti quando saliremo insieme sul palco."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:848
 translate italian sm1mv02s07a_after_watersports_817806a6:
 
     # ns "I can't wait."
-    ns "I can't wait."
+    ns "Non vedo l'ora."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:849
 translate italian sm1mv02s07a_after_watersports_65cd2bdc:
 
     # ns "What's next, [mcname]?"
-    ns "What's next, [mcname]?"
+    ns "Cosa c'è dopo, [mcname]?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:852
 translate italian sm1mv02s07a_after_watersports_99de1526:
 
     # mc "I think we should wash up before the spa staff kicks us out."
-    mc "I think we should wash up before the spa staff kicks us out."
+    mc "Penso che dovremmo lavarci prima che lo staff della spa ci cacci fuori."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:854
 translate italian sm1mv02s07a_after_watersports_f720b3f4:
 
     # mes "Yeah. We have definitely made {i}full use{/i} of the facilities."
-    mes "Yeah. We have definitely made {i}full use{/i} of the facilities."
+    mes "Sì. Abbiamo decisamente fatto {i}pieno uso{/i} delle strutture."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:864
 translate italian sm1mv02s07a_after_watersports_8a6805e6:
 
     # ns "Great day, Min. Thanks again."
-    ns "Great day, Min. Thanks again."
+    ns "Bella giornata, Min. Grazie ancora."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:866
 translate italian sm1mv02s07a_after_watersports_e2c459a4:
 
     # mes "Don't mention it."
-    mes "Don't mention it."
+    mes "Non c'è di che."
 
 translate italian strings:
 
