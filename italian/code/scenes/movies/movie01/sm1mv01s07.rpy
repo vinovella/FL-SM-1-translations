@@ -8,13 +8,13 @@ translate italian sm1mv01s07_2e0f1463:
 translate italian sm1mv01s07_9930ed4b:
 
     # mc "Great."
-    mc "Ottimo."
+    mc "Fantastico."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:21
 translate italian sm1mv01s07_2633195a:
 
     # mc "And the problem is what exactly?"
-    mc "E il problema sarebbe esattamente?"
+    mc "E qual è esattamente il problema?"
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:24
 translate italian sm1mv01s07_7af5ed97:
@@ -26,25 +26,25 @@ translate italian sm1mv01s07_7af5ed97:
 translate italian sm1mv01s07_1f5e336f:
 
     # mc "My head is in the game. But it's a crazy game, and there are also like twenty tabs open on my laptop too."
-    mc "Sono concentrato sul gioco. Ma è un gioco pazzo, e ho anche circa venti schede aperte sul mio laptop."
+    mc "Sono concentrato sul gioco. Ma è un gioco pazzesco, e ci sono anche tipo venti schede aperte sul mio portatile."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:31
 translate italian sm1mv01s07_c1bb6835:
 
     # sy "The problem is how to film the next two scenes and finish the pirate movie."
-    sy "Il problema è come girare le prossime due scene e finire il film sui pirati."
+    sy "Il problema è come filmare le prossime due scene e finire il film sui pirati."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:32
 translate italian sm1mv01s07_3a3c03bb:
 
     # sy "We can't film them here.{w} We need real sand for the location."
-    sy "Non possiamo girarle qui.{w} Abbiamo bisogno di sabbia vera per la location."
+    sy "Non possiamo filmarle qui.{w} Abbiamo bisogno di sabbia vera per la location."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:35
 translate italian sm1mv01s07_f77a5cf5:
 
     # sy "And I don't think the warehouse is rated to have a ton of sand dumped in it."
-    sy "E non credo che il magazzino sia adatto per avere una tonnellata di sabbia scaricata al suo interno."
+    sy "E non credo che il magazzino sia progettato per avere una tonnellata di sabbia versata dentro."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:39
 translate italian sm1mv01s07_636fd15e:
@@ -62,13 +62,13 @@ translate italian sm1mv01s07_8cce3097:
 translate italian sm1mv01s07_9120e0c3:
 
     # sy "Because that's how you get sand mites!"
-    sy "Perché è così che si prendono gli acari della sabbia!"
+    sy "Perché è così che ti prendi gli acari della sabbia!"
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:47
 translate italian sm1mv01s07_9ffb4649:
 
     # mc "Okay, so what is the plan then?"
-    mc "Okay, quindi qual è il piano allora?"
+    mc "Ok, allora qual è il piano?"
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:51
 translate italian sm1mv01s07_ad3883c8:
@@ -86,7 +86,7 @@ translate italian sm1mv01s07_e1a6e5f4:
 translate italian sm1mv01s07_97112f08:
 
     # mc "Hmmm. 472 Fryblau Street, one bedroom, two beds."
-    mc "Hmmm. 472 Fryblau Street, una camera da letto, due letti."
+    mc "Hmmm. Fryblau Street 472, una camera da letto, due letti."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:57
 translate italian sm1mv01s07_47879e4c:
@@ -98,7 +98,7 @@ translate italian sm1mv01s07_47879e4c:
 translate italian sm1mv01s07_dbf28c1e:
 
     # sy "I'm not eyeing it for comfort. {w} It's the location that made me fall in love."
-    sy "Non lo sto guardando per il comfort. {w} È la posizione che mi ha fatto innamorare."
+    sy "Non lo guardo per il comfort. {w} È la posizione che mi ha fatto innamorare."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:64
 translate italian sm1mv01s07_4c79aeb3:
@@ -116,25 +116,25 @@ translate italian sm1mv01s07_1d6a2b5a:
 translate italian sm1mv01s07_63e63405:
 
     # mc "If we're lucky, we could find a quiet stretch of beach to film at."
-    mc "Se siamo fortunati, potremmo trovare un tratto tranquillo di spiaggia dove girare."
+    mc "Se siamo fortunati, potremmo trovare un tratto di spiaggia tranquillo dove filmare."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:74
 translate italian sm1mv01s07_fe8f4fb4:
 
     # mc "What's the bad news?"
-    mc "Qual è la cattiva notizia?"
+    mc "Qual è la brutta notizia?"
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:77
 translate italian sm1mv01s07_8f8da677:
 
     # sy "No bad news."
-    sy "Nessuna cattiva notizia."
+    sy "Nessuna brutta notizia."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:78
 translate italian sm1mv01s07_68d278a4:
 
     # sy "Only great news."
-    sy "Solo ottime notizie."
+    sy "Solo grandi notizie."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:82
 translate italian sm1mv01s07_4d834828:
@@ -158,7 +158,7 @@ translate italian sm1mv01s07_f9919e40:
 translate italian sm1mv01s07_22fcd161:
 
     # mc "You're the absolute best!"
-    mc "Sei assolutamente la migliore!"
+    mc "Sei la migliore in assoluto!"
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:92
 translate italian sm1mv01s07_a0bd7303:
@@ -170,7 +170,7 @@ translate italian sm1mv01s07_a0bd7303:
 translate italian sm1mv01s07_f9d20db5:
 
     # mc "And you deliver."
-    mc "E tu lo fai."
+    mc "E ci riesci."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:99
 translate italian sm1mv01s07_6d783f27:
@@ -182,7 +182,7 @@ translate italian sm1mv01s07_6d783f27:
 translate italian sm1mv01s07_34aa5bda:
 
     # mc "Probably like two days or so."
-    mc "Probabilmente circa due giorni o giù di lì."
+    mc "Probabilmente tipo due giorni o giù di lì."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:103
 translate italian sm1mv01s07_4e12a8be:
@@ -200,25 +200,25 @@ translate italian sm1mv01s07_495a8ab5:
 translate italian sm1mv01s07_e8469aad:
 
     # mc "That actually sounds kind of perfect."
-    mc "Sembra davvero perfetto."
+    mc "In realtà sembra quasi perfetto."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:108
 translate italian sm1mv01s07_5f633f99:
 
     # mc "The last scene was a doozy."
-    mc "L'ultima scena è stata tosta."
+    mc "L'ultima scena è stata impegnativa."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:111
 translate italian sm1mv01s07_01a788c3:
 
     # sy "Yup. So what better way to put it in the past and have a little fun in the sun."
-    sy "Sì. Quindi quale modo migliore per metterla alle spalle e divertirsi un po' al sole."
+    sy "Già. Quindi quale modo migliore per lasciarla alle spalle e divertirci un po' al sole."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:112
 translate italian sm1mv01s07_bd0c267a:
 
     # sy "Then we'll film the last two scenes."
-    sy "Poi gireremo le ultime due scene."
+    sy "Poi filmeremo le ultime due scene."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:117
 translate italian sm1mv01s07_c6a52e0b:
@@ -230,7 +230,7 @@ translate italian sm1mv01s07_c6a52e0b:
 translate italian sm1mv01s07_445db2a2:
 
     # mc "Guess we just need to text Kanya and Taisia and let them know the plan."
-    mc "Immagino che dobbiamo solo mandare un messaggio a Kanya e Taisia e far sapere loro il piano."
+    mc "Immagino che dobbiamo solo mandare un messaggio a Kanya e Taisia per fargli sapere il piano."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:123
 translate italian sm1mv01s07_c5fb4c04:
