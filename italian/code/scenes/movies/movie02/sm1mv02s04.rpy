@@ -2,85 +2,85 @@
 translate italian sm1mv02s04_d83f64b8:
 
     # sy "Okay, it looks like Kanya emailed back to confirm that the photodojo is available."
-    sy "Okay, it looks like Kanya emailed back to confirm that the photodojo is available."
+    sy "Okay, sembra che Kanya abbia risposto per confermare che il photodojo è disponibile."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:16
 translate italian sm1mv02s04_1a312d94:
 
     # mc "Great. And..."
-    mc "Great. And..."
+    mc "Ottimo. E..."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:21
 translate italian sm1mv02s04_090a4b5f:
 
     # mc "Min just replied back. She can join us this afternoon."
-    mc "Min just replied back. She can join us this afternoon."
+    mc "Min ha appena risposto. Può unirsi a noi questo pomeriggio."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:23
 translate italian sm1mv02s04_d5c25d75:
 
     # mc "Lyssa just texted back. She just finished her brief so she has some time for us."
-    mc "Lyssa just texted back. She just finished her brief so she has some time for us."
+    mc "Lyssa ha appena mandato un messaggio. Ha appena finito il suo briefing quindi ha del tempo per noi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:26
 translate italian sm1mv02s04_07d4fbb9:
 
     # sy "Excellent.{w} I'll text Taisia. You text Nari."
-    sy "Excellent.{w} I'll text Taisia. You text Nari."
+    sy "Eccellente.{w} Manderò un messaggio a Taisia. Tu manda un messaggio a Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:30
 translate italian sm1mv02s04_9d38af69:
 
     # ns "Text me about what?"
-    ns "Text me about what?"
+    ns "Mandarmi un messaggio riguardo cosa?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:34
 translate italian sm1mv02s04_83936906:
 
     # mc "Hi Nari."
-    mc "Hi Nari."
+    mc "Ciao Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:36
 translate italian sm1mv02s04_edb68308:
 
     # sy "Hey."
-    sy "Hey."
+    sy "Ehi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:37
 translate italian sm1mv02s04_80522f28:
 
     # mc "I was just going to text you to see if you could come and do a table read with us."
-    mc "I was just going to text you to see if you could come and do a table read with us."
+    mc "Stavo giusto per mandarti un messaggio per vedere se potevi venire a fare una lettura del copione con noi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:40
 translate italian sm1mv02s04_a7f388c2:
 
     # ns "A table read? Is that like when people decipher the meanings of leaves in tea?"
-    ns "A table read? Is that like when people decipher the meanings of leaves in tea?"
+    ns "Una lettura del copione? È come quando le persone decifrano i significati delle foglie nel tè?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:43
 translate italian sm1mv02s04_7f08e5f1:
 
     # mc "Not really."
-    mc "Not really."
+    mc "Non proprio."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:44
 translate italian sm1mv02s04_6697ed59:
 
     # mc "It's just like the first time the cast gets together and does a dry run of the script."
-    mc "It's just like the first time the cast gets together and does a dry run of the script."
+    mc "È semplicemente come la prima volta che il cast si riunisce e fa una prova generale della sceneggiatura."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:47
 translate italian sm1mv02s04_cb027436:
 
     # sy "It's nice and simple and low pressure. But it's also a super-necessary step to make sure we find problems before we're filming a scene."
-    sy "It's nice and simple and low pressure. But it's also a super-necessary step to make sure we find problems before we're filming a scene."
+    sy "È piacevole e semplice e a bassa pressione. Ma è anche un passo super-necessario per assicurarci di trovare problemi prima di filmare una scena."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:50
 translate italian sm1mv02s04_32fc160d:
 
     # ns "Oh, it is almost like we are beta testing the script."
-    ns "Oh, it is almost like we are beta testing the script."
+    ns "Oh, è quasi come se stessimo facendo un beta test della sceneggiatura."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:53
 translate italian sm1mv02s04_b180829a:
@@ -92,13 +92,13 @@ translate italian sm1mv02s04_b180829a:
 translate italian sm1mv02s04_b3a02aa9:
 
     # ns "I... I'm not sure I'm ready for that."
-    ns "I... I'm not sure I'm ready for that."
+    ns "Io... Non sono sicura di essere pronta per questo."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:60
 translate italian sm1mv02s04_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "Eh?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:63
 translate italian sm1mv02s04_9fbc0f46:
@@ -110,13 +110,13 @@ translate italian sm1mv02s04_9fbc0f46:
 translate italian sm1mv02s04_33f9fbdb:
 
     # ns "I have been preparing. Looking at tutorials online on how to be a better actress."
-    ns "I have been preparing. Looking at tutorials online on how to be a better actress."
+    ns "Mi sono stata preparando. Guardando tutorial online su come essere un'attrice migliore."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:67
 translate italian sm1mv02s04_a4e73abf:
 
     # ns "But each time I try to do the drills they suggest, it feels like my legs are going to lock up."
-    ns "But each time I try to do the drills they suggest, it feels like my legs are going to lock up."
+    ns "Ma ogni volta che provo a fare gli esercizi che suggeriscono, sembra che le mie gambe si stiano per bloccare."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:74
 translate italian sm1mv02s04_3adc5195:
