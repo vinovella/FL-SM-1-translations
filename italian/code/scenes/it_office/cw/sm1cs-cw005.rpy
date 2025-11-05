@@ -2586,57 +2586,57 @@ translate italian strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:48
     old "Sunday Morning"
-    new "Sunday Morning"
+    new "Domenica Mattina"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:96
     old "Pushy"
-    new "Pushy"
+    new "Insistente"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:96
     old "Curious"
-    new "Curious"
+    new "Curioso"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:149
     old "Hold back"
-    new "Hold back"
+    new "Trattenersi"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:263
     old "A few moments later"
-    new "A few moments later"
+    new "Qualche momento dopo"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:364
     old "Later in the afternoon"
-    new "Later in the afternoon"
+    new "Più tardi nel pomeriggio"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:635
     old "Of course, Claire"
-    new "Of course, Claire"
+    new "Certo, Claire"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:635
     old "What happened with your engagement?"
-    new "What happened with your engagement?"
+    new "Cosa è successo con il tuo fidanzamento?"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:700
     old "Did you enjoy yourself. Last night?"
-    new "Did you enjoy yourself. Last night?"
+    new "Ti sei divertita. Ieri sera?"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:700
     old "Are you sure you're alright?"
-    new "Are you sure you're alright?"
+    new "Sei sicura che stia tutto bene?"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:700
     old "So we really just sit here and cook in our own juices?"
-    new "So we really just sit here and cook in our own juices?"
+    new "Quindi stiamo davvero qui seduti a cuocere nei nostri succhi?"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1211
     old "Monday Morning"
-    new "Monday Morning"
+    new "Lunedì Mattina"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1249
     old "I've been through worse"
-    new "I've been through worse"
+    new "Ho passato di peggio"
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1249
     old "It was actually a lot of fun"
-    new "It was actually a lot of fun"
+    new "È stato davvero molto divertente"
 

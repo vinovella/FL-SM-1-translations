@@ -1268,65 +1268,65 @@ translate italian strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:64
     old "Over at Min's house"
-    new "Over at Min's house"
+    new "A casa di Min"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:194
     old "What if I demand to stay"
-    new "What if I demand to stay"
+    new "E se insisto per rimanere"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:194
     old "As you wish"
-    new "As you wish"
+    new "Come desideri"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:263
     old "Lines of demar-what?"
-    new "Lines of demar-what?"
+    new "Linee di demar-cosa?"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:263
     old "I'm excited to see what you come up with"
-    new "I'm excited to see what you come up with"
+    new "Sono entusiasta di vedere cosa tiri fuori"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:339
     old "Three hours later"
-    new "Three hours later"
+    new "Tre ore dopo"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:402
     old "Red"
-    new "Red"
+    new "Rosso"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:402
     old "Black"
-    new "Black"
+    new "Nero"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:402
     old "Pink"
-    new "Pink"
+    new "Rosa"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:402
     old "I don't need one"
-    new "I don't need one"
+    new "Non ne ho bisogno"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:508
     old "Like I have a choice?"
-    new "Like I have a choice?"
+    new "Come se avessi una scelta?"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:508
     old "Knock yourself out"
-    new "Knock yourself out"
+    new "Fai pure"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:643
     old "Cum inside"
-    new "Cum inside"
+    new "Vieni dentro"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:643
     old "Cum down her throat"
-    new "Cum down her throat"
+    new "Vieni nella sua gola"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:643
     old "Cum on her face and boobs"
-    new "Cum on her face and boobs"
+    new "Vieni sulla sua faccia e seni"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:777
     old "A few minutes later"
-    new "A few minutes later"
+    new "Pochi minuti dopo"
 
