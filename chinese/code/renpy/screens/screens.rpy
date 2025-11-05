@@ -288,8 +288,6 @@
     old "Music Player"
     new "音乐播放器"
 
-translate chinese strings:
-
     # game/code/renpy/screens/screens.rpy:12
     old "New Game"
     new "新游戏"
@@ -430,15 +428,75 @@ translate chinese strings:
     old "Others"
     new "其他"
 
-    # game/code/renpy/screens/screens.rpy:920
-    old "Version : [config.version!t]"
-    new "版本 : [config.version!t]"
-
-    # game/code/renpy/screens/screens.rpy:921
-    old "Developed by :"
-    new "开发者 :"
-
     # game/code/renpy/screens/screens.rpy:923
     old "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
     new "制作工具 : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
+
+    # game/code/renpy/screens/screens.rpy:923
+    old "VERSION : [config.version!t]"
+    new "版本 : [config.version!t]"
+
+    # game/code/renpy/screens/screens.rpy:925
+    old "DEVELOPED BY :"
+    new "开发者 :"
+
+    # game/code/renpy/screens/screens.rpy:935
+    old "MUSIC CREDITS"
+    new "音乐鸣谢"
+
+    # game/code/renpy/screens/screens.rpy:938
+    old "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
+    new "此作品采用 {a=https://creativecommons.org/licenses/by-sa/4.0/}署名-相同方式共享 4.0 国际许可协议{/a} 进行许可。"
+
+    # game/code/renpy/screens/screens.rpy:941
+    old "This work is licensed under the {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
+    new "此作品采用 {a=https://creativecommons.org/licenses/by/3.0/}署名 3.0 未移植许可{/a} 进行许可。"
+
+    # game/code/renpy/screens/screens.rpy:944
+    old "This work is licensed under the {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
+    new "此作品采用 {a=http://creativecommons.org/licenses/by/3.0/}署名许可{/a} 进行许可。"
+
+    # game/code/renpy/screens/screens.rpy:949
+    old "Licensed under Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
+    new "此作品采用 {a=https://filmmusic.io/standard-license}Filmmusic.io 简化许可{/a} 进行许可。"
+
+    # game/code/renpy/screens/screens.rpy:952
+    old "Licensed under a {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
+    new "此作品采用 {a=https://creativecommons.org/licenses/by/4.0/}署名 4.0 国际许可{/a} 进行许可。"
+
+    # game/code/renpy/screens/screens.rpy:953
+    old "Changes: quacking sounds added"
+    new "更改：添加了嘎嘎声"
+
+    # game/code/renpy/screens/screens.rpy:955
+    old "VOICEOVER CREDITS"
+    new "配音鸣谢"
+
+    # game/code/renpy/screens/screens.rpy:965
+    old "PORTUGUESE TRANSLATION"
+    new "葡萄牙语翻译"
+
+    # game/code/renpy/screens/screens.rpy:968
+    old "SPANISH TRANSLATION"
+    new "西班牙语翻译"
+
+    # game/code/renpy/screens/screens.rpy:971
+    old "DEUTSCH TRANSLATION"
+    new "德语翻译"
+
+    # game/code/renpy/screens/screens.rpy:980
+    old "PROOFREADING CREDITS"
+    new "校对鸣谢"
+
+    # game/code/renpy/screens/screens.rpy:981
+    old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
+    new "特别感谢我们的校对员 : .grubb (Discord: grubbjunker)"
+
+    # game/code/renpy/screens/screens.rpy:983
+    old "ICONS CREDITS"
+    new "图标鸣谢"
+
+    # game/code/renpy/screens/screens.rpy:984
+    old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
+    new "菜单图标来源于 {a=https://feathericons.com/}Feather{/a}，这是一个由 @colebemis 制作的美丽图标集合，采用 {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT 许可{/a}。"
 

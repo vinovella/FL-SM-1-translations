@@ -12,3 +12,7 @@
     old "No saves found!"
     new "未找到存档！"
 
+    # game/code/renpy/screens/save.rpy:7
+    old "Saves For Chapter "
+    new "第章节的存档 "
+
