@@ -596,53 +596,53 @@ translate chinese sm1ms021_1092c087:
 translate chinese sm1ms021_ceba888b:
 
     # sy "This space... it's not just a studio anymore. It's starting to feel like our dream is finally taking shape."
-    sy "This space... it's not just a studio anymore. It's starting to feel like our dream is finally taking shape."
+    sy "这个空间……不再只是一个工作室了。我们的梦想终于开始成形了。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:107
 translate chinese sm1ms021_cedf59a8:
 
     # sy "Same here. I mean, you're the one who kept me sane through all of this."
-    sy "Same here. I mean, you're the one who kept me sane through all of this."
+    sy "我也是。说实话，是你在这一切中让我保持理智。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:217
 translate chinese sm1ms021_532bc35f:
 
     # sy "I guess so long as the check clears, I'm not complaining."
-    sy "I guess so long as the check clears, I'm not complaining."
+    sy "只要支票兑现，我就不抱怨了。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:218
 translate chinese sm1ms021_2aa31d72:
 
     # sy "And now that we've got the extra power and space in the studio, this film is going to be even better than the first one."
-    sy "And now that we've got the extra power and space in the studio, this film is going to be even better than the first one."
+    sy "现在工作室有了额外的电力和空间，这部片子会比第一部更好。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:222
 translate chinese sm1ms021_3a6cba59:
 
     # mct "She's got a point. This is the kind of project that could put us on the map if we nail it."
-    mct "She's got a point. This is the kind of project that could put us on the map if we nail it."
+    mct "她有道理。如果我们做得好，这类项目能让我们出名。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:226
 translate chinese sm1ms021_d5128873:
 
     # mc "Alright, let's start brainstorming then."
-    mc "Alright, let's start brainstorming then."
+    mc "好吧，那我们开始头脑风暴。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:232
 translate chinese sm1ms021_1b494305:
 
     # sy "Hold on there, Spielberg. We can't just jump in without a solid plan and, more importantly, without money."
-    sy "Hold on there, Spielberg. We can't just jump in without a solid plan and, more importantly, without money."
+    sy "别急，斯皮尔伯格。没有周全的计划，更重要的是没有钱，我们不能贸然开始。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:282
 translate chinese sm1ms021_67f7648d:
 
     # mc "Alright, let's map this out. First, we secure the funding. Then, we finalize the concept for the scene."
-    mc "Alright, let's map this out. First, we secure the funding. Then, we finalize the concept for the scene."
+    mc "好，我们来规划一下。首先确保资金到位，然后确定场景概念。"
 
 # game/code/scenes/main_story/sm1ms021.rpy:312
 translate chinese sm1ms021_bd60b7b9:
 
     # mc "Let's do this. For the studio and for the dream."
-    mc "Let's do this. For the studio and for the dream."
+    mc "就这么办。为了工作室，也为了梦想。"
 

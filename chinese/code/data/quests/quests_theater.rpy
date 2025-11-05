@@ -204,21 +204,21 @@ translate chinese strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have ${}/$50"
-    new "Have ${}/$50"
+    new "拥有${}/$50"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $50"
-    new "Have $50"
+    new "拥有$50"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Text Taisia from your phone"
-    new "Text Taisia from your phone"
+    new "从你的手机给泰西娅发消息"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Finish texting Taisia"
-    new "Finish texting Taisia"
+    new "完成给泰西娅发消息"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Go to Theater to meet Taisia"
-    new "Go to Theater to meet Taisia"
+    new "前往剧院与泰西娅见面"
 

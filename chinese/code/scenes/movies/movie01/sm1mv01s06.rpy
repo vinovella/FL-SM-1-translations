@@ -1630,7 +1630,7 @@ translate chinese strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s06.rpy:394
     old "On the high seas"
-    new "On the high seas"
+    new "在公海上"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:730
 translate chinese sm1mv01s06_movie_start_bb856909:

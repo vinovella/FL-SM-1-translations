@@ -1212,53 +1212,53 @@ translate chinese sm1cs_ns014_studio_658994d8:
 translate chinese sm1cs_ns014_studio_56ae4acc:
 
     # mc "You're a natural, Nari."
-    mc "You're a natural, Nari."
+    mc "你真有天赋，Nari。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:385
 translate chinese sm1cs_ns014_studio_f6999e6a:
 
     # ns "Heehee, stop it. I'm shy!"
-    ns "Heehee, stop it. I'm shy!"
+    ns "嘻嘻，别这样。我会害羞的！"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:388
 translate chinese sm1cs_ns014_studio_9904ae8d:
 
     # sy "Lies! You're eating this up."
-    sy "Lies! You're eating this up."
+    sy "骗人的！你完全沉浸其中了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:459
 translate chinese sm1cs_ns014_studio_0444f710:
 
     # mc "Yeah. I should've told you sooner."
-    mc "Yeah. I should've told you sooner."
+    mc "是啊。我本该早点告诉你的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:463
 translate chinese sm1cs_ns014_studio_7d588463:
 
     # ns "That's so wild, [mcname]. So all this camera gear is for... wow."
-    ns "That's so wild, [mcname]. So all this camera gear is for... wow."
+    ns "太神奇了，[mcname]。原来这些摄影设备都是为了……哇。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:467
 translate chinese sm1cs_ns014_studio_8664f48e:
 
     # mc "I'm sorry for keeping it from you. Can you forgive me?"
-    mc "I'm sorry for keeping it from you. Can you forgive me?"
+    mc "对不起瞒着你。你能原谅我吗？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:578
 translate chinese sm1cs_ns014_studio_f95ee359:
 
     # mc "Really? You'd want to? As in actually be filmed in scenes with me?"
-    mc "Really? You'd want to? As in actually be filmed in scenes with me?"
+    mc "真的吗？你想要？真的愿意和我一起入镜拍摄？"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:602
 translate chinese sm1cs_ns014_studio_33145967:
 
     # mc "Of course. Whatever you're comfortable with."
-    mc "Of course. Whatever you're comfortable with."
+    mc "当然。只要你觉得舒服就好。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:609
 translate chinese sm1cs_ns014_studio_883c4173:
 
     # sy "I'm so excited! We're gonna have so much fun, Nari."
-    sy "I'm so excited! We're gonna have so much fun, Nari."
+    sy "我好激动！我们会玩得很开心的，Nari。"
 

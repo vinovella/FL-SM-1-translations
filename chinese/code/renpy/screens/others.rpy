@@ -28,17 +28,15 @@
     old "How do you want to name your save?"
     new "您想如何命名您的存档？"
 
-translate chinese strings:
-
     # game/code/renpy/screens/others.rpy:13
     old "Sync your saves using Ren'Py Sync Server"
-    new "Sync your saves using Ren'Py Sync Server"
+    new "使用 Ren'Py 同步服务器同步存档"
 
     # game/code/renpy/screens/others.rpy:139
     old "Please enter your Local IP number:"
-    new "Please enter your Local IP number:"
+    new "请输入您的本地 IP："
 
     # game/code/renpy/screens/others.rpy:142
     old "Please enter your HTTP Port number:"
-    new "Please enter your HTTP Port number:"
+    new "请输入您的 HTTP 端口："
 

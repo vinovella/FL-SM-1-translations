@@ -36,33 +36,31 @@
     old "Open phone"
     new "打开手机"
 
-translate chinese strings:
-
     # game/code/renpy/screens/game_menus.rpy:155
     old "HIST"
-    new "HIST"
+    new "历史"
 
     # game/code/renpy/screens/game_menus.rpy:159
     old "AUTO"
-    new "AUTO"
+    new "自动"
 
     # game/code/renpy/screens/game_menus.rpy:161
     old "SAVE"
-    new "SAVE"
+    new "保存"
 
     # game/code/renpy/screens/game_menus.rpy:163
     old "LOAD"
-    new "LOAD"
+    new "加载"
 
     # game/code/renpy/screens/game_menus.rpy:165
     old "Q.SAVE"
-    new "Q.SAVE"
+    new "Q.保存"
 
     # game/code/renpy/screens/game_menus.rpy:167
     old "Q.LOAD"
-    new "Q.LOAD"
+    new "Q.加载"
 
     # game/code/renpy/screens/game_menus.rpy:169
     old "SETTINGS"
-    new "SETTINGS"
+    new "设置"
 

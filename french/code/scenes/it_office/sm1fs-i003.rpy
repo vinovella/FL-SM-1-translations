@@ -148,12 +148,6 @@ translate french sm1fs_i003_2792d5cd:
     # mc "It's nice to meet you Nari."
     mc "It's nice to meet you Nari."
 
-# game/code/scenes/it_office/sm1fs-i003.rpy:130
-translate french sm1fs_i003_d5d8f37d:
-
-    # ns "{font=fonts/arial-unicode.ttf}새로운 잘생긴 동료를 만나서 반가워요!{/font}"
-    ns "{font=fonts/arial-unicode.ttf}새로운 잘생긴 동료를 만나서 반가워요!{/font}"
-
 # game/code/scenes/it_office/sm1fs-i003.rpy:133
 translate french sm1fs_i003_b3ae8984:
 

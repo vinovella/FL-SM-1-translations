@@ -62,7 +62,7 @@ translate chinese sm1mv01s03_1_94a7709b:
 translate chinese sm1mv01s03_1_25069130:
 
     # sy "Oh yeah."
-    sy "Oh yeah."
+    sy "哦，对了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:65
 translate chinese sm1mv01s03_1_14084d05:

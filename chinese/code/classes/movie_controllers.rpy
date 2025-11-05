@@ -52,49 +52,47 @@
     old "Add {amount}"
     new "添加{amount}"
 
-translate chinese strings:
-
     # game/code/classes/movie_controllers.rpy:45
     old "Costume Budget"
-    new "Costume Budget"
+    new "服装预算"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Actress Budget"
-    new "Actress Budget"
+    new "女演员预算"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Budget"
-    new "Props Budget"
+    new "道具预算"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Design"
-    new "Props Design"
+    new "道具设计"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Travel Budget"
-    new "Travel Budget"
+    new "差旅预算"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Movie Editing"
-    new "Movie Editing"
+    new "影片剪辑"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Budget"
-    new "Set Budget"
+    new "设置预算"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Design"
-    new "Set Design"
+    new "设置设计"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Outfit Design"
-    new "Outfit Design"
+    new "服装设计"
 
     # game/code/classes/movie_controllers.rpy:45
     old "CGI Budget"
-    new "CGI Budget"
+    new "CGI预算"
 
     # game/code/classes/movie_controllers.rpy:150
     old "Spend {amount} Energy in {energy_name}"
-    new "Spend {amount} Energy in {energy_name}"
+    new "在{energy_name}消耗{amount}点能量"
 

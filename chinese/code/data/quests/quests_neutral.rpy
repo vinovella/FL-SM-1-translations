@@ -420,25 +420,25 @@ translate chinese strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Be at home at Noon"
-    new "Be at home at Noon"
+    new "中午在家"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy to prepare for party"
-    new "Talk to Stacy to prepare for party"
+    new "与史黛西交谈，准备派对"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "This storyline is finished for this game"
-    new "This storyline is finished for this game"
+    new "本游戏中此剧情已完结"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Text AmRose"
-    new "Text AmRose"
+    new "给 AmRose 发消息"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Meet AmRose in the park during the day"
-    new "Meet AmRose in the park during the day"
+    new "白天在公园与 AmRose 见面"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy about Melony"
-    new "Talk to Stacy about Melony"
+    new "与史黛西谈论梅洛妮啊"
 

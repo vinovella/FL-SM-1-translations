@@ -448,9 +448,7 @@
     old "Done editing the Sci-Fi Movie"
     new "完成科幻电影的编辑"
 
-translate chinese strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Prepare for the party"
-    new "Prepare for the party"
+    new "为派对做准备"
 

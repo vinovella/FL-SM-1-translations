@@ -292,153 +292,153 @@ translate chinese strings:
 
     # game/code/renpy/screens/screens.rpy:12
     old "New Game"
-    new "New Game"
+    new "新游戏"
 
     # game/code/renpy/screens/screens.rpy:46
     old "Join Patreon"
-    new "Join Patreon"
+    new "加入 Patreon"
 
     # game/code/renpy/screens/screens.rpy:51
     old "Join Discord"
-    new "Join Discord"
+    new "加入 Discord"
 
     # game/code/renpy/screens/screens.rpy:122
     old "Language"
-    new "Language"
+    new "语言"
 
     # game/code/renpy/screens/screens.rpy:498
     old "Audio"
-    new "Audio"
+    new "音频"
 
     # game/code/renpy/screens/screens.rpy:502
     old "Dialogue"
-    new "Dialogue"
+    new "对话"
 
     # game/code/renpy/screens/screens.rpy:506
     old "Gameplay"
-    new "Gameplay"
+    new "玩法"
 
     # game/code/renpy/screens/screens.rpy:530
     old "Master Volume :"
-    new "Master Volume :"
+    new "主音量："
 
     # game/code/renpy/screens/screens.rpy:544
     old "Mute All Channels :"
-    new "Mute All Channels :"
+    new "静音所有频道："
 
     # game/code/renpy/screens/screens.rpy:546
     old "Unmuted"
-    new "Unmuted"
+    new "已取消静音"
 
     # game/code/renpy/screens/screens.rpy:547
     old "Muted"
-    new "Muted"
+    new "已静音"
 
     # game/code/renpy/screens/screens.rpy:554
     old "Full Voiceover :"
-    new "Full Voiceover :"
+    new "完整配音："
 
     # game/code/renpy/screens/screens.rpy:564
     old "Music Volume :"
-    new "Music Volume :"
+    new "音乐音量："
 
     # game/code/renpy/screens/screens.rpy:573
     old "Sound Volume :"
-    new "Sound Volume :"
+    new "音效音量："
 
     # game/code/renpy/screens/screens.rpy:584
     old "Voice Volume :"
-    new "Voice Volume :"
+    new "语音音量："
 
     # game/code/renpy/screens/screens.rpy:593
     old "Sex Voice Volume :"
-    new "Sex Voice Volume :"
+    new "性爱语音音量："
 
     # game/code/renpy/screens/screens.rpy:615
     old "Text Speed :"
-    new "Text Speed :"
+    new "文本速度："
 
     # game/code/renpy/screens/screens.rpy:626
     old "Auto-Forward Time :"
-    new "Auto-Forward Time :"
+    new "自动前进时间："
 
     # game/code/renpy/screens/screens.rpy:637
     old "Dialogue Box Opacity :"
-    new "Dialogue Box Opacity :"
+    new "对话框不透明度："
 
     # game/code/renpy/screens/screens.rpy:648
     old "Skip :"
-    new "Skip :"
+    new "跳过："
 
     # game/code/renpy/screens/screens.rpy:657
     old "Fast Skip Confirm :"
-    new "Fast Skip Confirm :"
+    new "快速跳过确认："
 
     # game/code/renpy/screens/screens.rpy:665
     old "Rollback Side :"
-    new "Rollback Side :"
+    new "回滚侧："
 
     # game/code/renpy/screens/screens.rpy:668
     old "Left"
-    new "Left"
+    new "左"
 
     # game/code/renpy/screens/screens.rpy:681
     old "Window Size :"
-    new "Window Size :"
+    new "窗口大小："
 
     # game/code/renpy/screens/screens.rpy:694
     old "Weekly Statement :"
-    new "Weekly Statement :"
+    new "每周报表："
 
     # game/code/renpy/screens/screens.rpy:702
     old "Navigation Highlights :"
-    new "Navigation Highlights :"
+    new "导航高亮："
 
     # game/code/renpy/screens/screens.rpy:712
     old "Taboo Mode :"
-    new "Taboo Mode :"
+    new "禁忌模式："
 
     # game/code/renpy/screens/screens.rpy:721
     old "Quick Menu :"
-    new "Quick Menu :"
+    new "快捷菜单："
 
     # game/code/renpy/screens/screens.rpy:724
     old "On Hover"
-    new "On Hover"
+    new "悬停显示"
 
     # game/code/renpy/screens/screens.rpy:733
     old "Analytics :"
-    new "Analytics :"
+    new "分析："
 
     # game/code/renpy/screens/screens.rpy:742
     old "Quick Menu Buttons :"
-    new "Quick Menu Buttons :"
+    new "快捷菜单按钮："
 
     # game/code/renpy/screens/screens.rpy:894
     old "Game"
-    new "Game"
+    new "游戏"
 
     # game/code/renpy/screens/screens.rpy:902
     old "Voiceover"
-    new "Voiceover"
+    new "配音"
 
     # game/code/renpy/screens/screens.rpy:906
     old "Translation"
-    new "Translation"
+    new "翻译"
 
     # game/code/renpy/screens/screens.rpy:910
     old "Others"
-    new "Others"
+    new "其他"
 
     # game/code/renpy/screens/screens.rpy:920
     old "Version : [config.version!t]"
-    new "Version : [config.version!t]"
+    new "版本 : [config.version!t]"
 
     # game/code/renpy/screens/screens.rpy:921
     old "Developed by :"
-    new "Developed by :"
+    new "开发者 :"
 
     # game/code/renpy/screens/screens.rpy:923
     old "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
-    new "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
+    new "制作工具 : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
 
