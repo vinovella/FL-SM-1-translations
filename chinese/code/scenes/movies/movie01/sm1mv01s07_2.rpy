@@ -14,7 +14,7 @@ translate chinese sm1mv01s07_2_393fb688:
 translate chinese sm1mv01s07_2_b8e3f2ff:
 
     # tl "Jugsy."
-    tl "贾格西那儿。"
+    tl "朱西那儿。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:26
 translate chinese sm1mv01s07_2_be670325:
@@ -242,7 +242,7 @@ translate chinese sm1mv01s07_2_42df98b8:
 translate chinese sm1mv01s07_2_1e47f4f9:
 
     # tl "Yeah... almost everything has an upside and a downside."
-    tl "是啊…… 几乎所有事情都有好的一面和坏的一面。"
+    tl "是啊...几乎所有事情都有好的一面和坏的一面。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:166
 translate chinese sm1mv01s07_2_3c275790:
@@ -566,7 +566,7 @@ translate chinese sm1mv01s07_2_at_beach_52d2d321:
 translate chinese sm1mv01s07_2_at_beach_64317f77:
 
     # mc "I can't lose to a swimsuit, no matter how good it looks."
-    mc "我可不能输给一件泳衣，不管它看起来有多好。"
+    mc "我可不能输给一件泳衣，穿得再勾人也不行。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:340
 translate chinese sm1mv01s07_2_at_beach_8aded7f9:
@@ -578,355 +578,355 @@ translate chinese sm1mv01s07_2_at_beach_8aded7f9:
 translate chinese sm1mv01s07_2_at_beach_3359e9ff:
 
     # mc "Damn straight."
-    mc "Damn straight."
+    mc "那当然。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:347
 translate chinese sm1mv01s07_2_at_beach_2ccd15cf:
 
     # sy "We should hang out at the beach more often."
-    sy "We should hang out at the beach more often."
+    sy "我们应该多来海滩逛逛。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:348
 translate chinese sm1mv01s07_2_at_beach_b3f73c9b:
 
     # sy "That first moment I realized that I had to be yours..."
-    sy "That first moment I realized that I had to be yours..."
+    sy "我第一次意识到自己只可能是你的人的时候..."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:349
 translate chinese sm1mv01s07_2_at_beach_e472890a:
 
     # sy "Was when I saw you and AmRose on the dock."
-    sy "Was when I saw you and AmRose on the dock."
+    sy "就是那次在码头看到你和爱洛丝在一起。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:352
 translate chinese sm1mv01s07_2_at_beach_a83cd594:
 
     # mc "That feels like a lifetime ago."
-    mc "That feels like a lifetime ago."
+    mc "感觉那都像是上辈子的事了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:353
 translate chinese sm1mv01s07_2_at_beach_65572e14:
 
     # mc "You knew then?"
-    mc "You knew then?"
+    mc "你那时候就确定了？"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:357
 translate chinese sm1mv01s07_2_at_beach_a9ac7b62:
 
     # sy "Oh yeah..."
-    sy "Oh yeah..."
+    sy "是啊..."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:366
 translate chinese sm1mv01s07_2_at_beach_8db23525:
 
     # tl "Haha! I knew they were up to no good."
-    tl "Haha! I knew they were up to no good."
+    tl "哈哈！我就知道你们俩没干好事。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:369
 translate chinese sm1mv01s07_2_at_beach_60a3f701:
 
     # kv "Come on, [mcname]. You can't just spend all your energy with Stacy today."
-    kv "Come on, [mcname]. You can't just spend all your energy with Stacy today."
+    kv "[mcname]，别这样。你今天不能把所有精力都花在史黛西身上。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:370
 translate chinese sm1mv01s07_2_at_beach_fd209ee6:
 
     # kv "We've still got plenty of {i}filming{/i} to do."
-    kv "We've still got plenty of {i}filming{/i} to do."
+    kv "我们还有很多{i}拍摄{/i}工作要做呢。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:374
 translate chinese sm1mv01s07_2_at_beach_5625c3d6:
 
     # mc "What? Are you saying no sex unless it's scripted?"
-    mc "What? Are you saying no sex unless it's scripted?"
+    mc "干吗？你是说除非是按剧本要求，否则就不能亲热吗？"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:377
 translate chinese sm1mv01s07_2_at_beach_cc8ce808:
 
     # kv "Isn't that how it always is for us?"
-    kv "Isn't that how it always is for us?"
+    kv "我们不一直都是这样吗？"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:380
 translate chinese sm1mv01s07_2_at_beach_8b7cf36f:
 
     # tl "Haha. Now that's a thinker, Kanya."
-    tl "Haha. Now that's a thinker, Kanya."
+    tl "哈哈。康雅，你这话可值得好好想想。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:383
 translate chinese sm1mv01s07_2_at_beach_c8d5c17b:
 
     # kv "Not for all of us, Taisia."
-    kv "Not for all of us, Taisia."
+    kv "泰西娅，不是所有人都这样。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:386
 translate chinese sm1mv01s07_2_at_beach_5d9753ea:
 
     # kv "Come on, there is plenty of ways for us to relax together."
-    kv "Come on, there is plenty of ways for us to relax together."
+    kv "别闹了，我们有很多种方式可以一起放松。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:389
 translate chinese sm1mv01s07_2_at_beach_4dc388a6:
 
     # sy "Send it here, Kanya."
-    sy "Send it here, Kanya."
+    sy "康雅，把它扔过来。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:397
 translate chinese sm1mv01s07_2_at_beach_b4c557c0:
 
     # sy "Kiyah!"
-    sy "Kiyah!"
+    sy "呀！"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:401
 translate chinese sm1mv01s07_2_at_beach_4136c931:
 
     # tl "*screams*"
-    tl "*screams*"
+    tl "*尖叫*"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:406
 translate chinese sm1mv01s07_2_at_beach_ea7f3b2a:
 
     # tl "Mmmm."
-    tl "Mmmm."
+    tl "嗯唔。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:409
 translate chinese sm1mv01s07_2_at_beach_b0ca414a:
 
     # kv "*laughing*"
-    kv "*laughing*"
+    kv "*大笑*"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:412
 translate chinese sm1mv01s07_2_at_beach_7a694e35:
 
     # sy "*laughing*"
-    sy "*laughing*"
+    sy "*大笑*"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:415
 translate chinese sm1mv01s07_2_at_beach_a0b24fd4:
 
     # tl "Oh you two are so dead."
-    tl "Oh you two are so dead."
+    tl "哦，你们俩死定了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:433
 translate chinese sm1mv01s07_2_at_beach_a059bead:
 
     # tl "Cheers to the S&M Studio!"
-    tl "Cheers to the S&M Studio!"
+    tl "为S&M工作室干杯！"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:435
 translate chinese sm1mv01s07_2_at_beach_8881960e:
 
     # tl "May we make a movie hot enough for dudes and dudeetes to cream their shorts."
-    tl "May we make a movie hot enough for dudes and dudeetes to cream their shorts."
+    tl "愿我们拍的电影足够火辣，让兄弟姐妹们都内裤湿透。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:438
 translate chinese sm1mv01s07_2_at_beach_7baabd93:
 
     # kv "Hahaha. So coarse."
-    kv "Hahaha. So coarse."
+    kv "哈哈。说得真粗俗。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:441
 translate chinese sm1mv01s07_2_at_beach_5881c681:
 
     # sy "I'll drink to that."
-    sy "I'll drink to that."
+    sy "走一个！"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:443
 translate chinese sm1mv01s07_2_at_beach_c2910b93:
 
     # tl "This may not be our first film, but I think it's going to be one of the best in the long run."
-    tl "This may not be our first film, but I think it's going to be one of the best in the long run."
+    tl "这或许不是我们拍的第一部片子，但我觉得从长远来看，它会是最棒的之一。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:444
 translate chinese sm1mv01s07_2_at_beach_b6509d8e:
 
     # tl "Let's hope that everyone who watches it cums two, no three times."
-    tl "Let's hope that everyone who watches it cums two, no three times."
+    tl "希望每个看这部片子的人都能高潮两次，不，三次。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:447
 translate chinese sm1mv01s07_2_at_beach_5881c681_1:
 
     # sy "I'll drink to that."
-    sy "I'll drink to that."
+    sy "走一个！"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:450
 translate chinese sm1mv01s07_2_at_beach_982b60fe:
 
     # mc "Ahhhah..."
-    mc "Ahhhah..."
+    mc "啊哈哈..."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:457
 translate chinese sm1mv01s07_2_at_beach_637c34cc:
 
     # kv "This really is kind of {i}magical{/i}."
-    kv "This really is kind of {i}magical{/i}."
+    kv "这感觉真的有点{i}奇妙{/i}。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:460
 translate chinese sm1mv01s07_2_at_beach_2cfe042f:
 
     # tl "Sure beats another weekend at the studio, don't it."
-    tl "Sure beats another weekend at the studio, don't it."
+    tl "肯定比在工作室里待一个周末好多了，对吧。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:463
 translate chinese sm1mv01s07_2_at_beach_536a3f25:
 
     # kv "Oh yes. I love the photo dojo, but this is part of why I signed up to work with [mcname] and Stacy."
-    kv "Oh yes. I love the photo dojo, but this is part of why I signed up to work with [mcname] and Stacy."
+    kv "哦，那当然。虽说我喜欢摄影棚，但这也是我当初同意和[mcname]、史黛西一起工作的原因之一。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:464
 translate chinese sm1mv01s07_2_at_beach_49243a37:
 
     # kv "I knew that it was going to take me to new places."
-    kv "I knew that it was going to take me to new places."
+    kv "我知道这份工作会带我去新的地方。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:465
 translate chinese sm1mv01s07_2_at_beach_51827365:
 
     # kv "And I knew it would never be boring."
-    kv "And I knew it would never be boring."
+    kv "而且我知道这段经历绝对不会无聊。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:468
 translate chinese sm1mv01s07_2_at_beach_62481fbd:
 
     # sy "[mcname] and I are very pleased to have you with us, Kanya."
-    sy "[mcname] and I are very pleased to have you with us, Kanya."
+    sy "康雅，我和[mcname]都很开心有你加入我们。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:471
 translate chinese sm1mv01s07_2_at_beach_f96d5f18:
 
     # tl "Hey what about me?"
-    tl "Hey what about me?"
+    tl "嘿，那我呢？"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:474
 translate chinese sm1mv01s07_2_at_beach_1813e9d0:
 
     # sy "You. Well, if the other clown girl didn't back out, we probably wouldn't be talking."
-    sy "You. Well, if the other clown girl didn't back out, we probably wouldn't be talking."
+    sy "至于你嘛。要是之前那个扮小丑的姑娘没退出，我们可能根本不会和你有交集。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:477
 translate chinese sm1mv01s07_2_at_beach_689806c8:
 
     # tl "Haha. Like you could ever find someone who looks as hot as me when I'm in my child-eating get-up."
-    tl "Haha. Like you could ever find someone who looks as hot as me when I'm in my child-eating get-up."
+    tl "哈哈。你觉得你们还能找到像我这样，穿上那身‘吃小孩’装扮还这么性感的人吗？"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:480
 translate chinese sm1mv01s07_2_at_beach_45abb6f6:
 
     # mc "I bet Jugsy would be interested."
-    mc "I bet Jugsy would be interested."
+    mc "我觉得朱西可能会感兴趣。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:483
 translate chinese sm1mv01s07_2_at_beach_8b3b13bf:
 
     # tl "Haha. Yeah, maybe."
-    tl "Haha. Yeah, maybe."
+    tl "哈哈。或许吧。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:484
 translate chinese sm1mv01s07_2_at_beach_4a5fe8bf:
 
     # tl "Alright, enough gangup on Taisia. You guys worried I'm not fully invested?"
-    tl "Alright, enough gangup on Taisia. You guys worried I'm not fully invested?"
+    tl "好了，别都针对我了。你们是担心我没有全身心投入吗？"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:489
 translate chinese sm1mv01s07_2_at_beach_465ae2ad:
 
     # mc "It's hard to tell sometimes with you, Taisia."
-    mc "It's hard to tell sometimes with you, Taisia."
+    mc "泰西娅，有时候真的很难判断你有没有在认真。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:492
 translate chinese sm1mv01s07_2_at_beach_63f688d5:
 
     # tl "Well I appreciate your honesty."
-    tl "Well I appreciate your honesty."
+    tl "好吧，谢谢你这么诚实。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:493
 translate chinese sm1mv01s07_2_at_beach_6d9b1bdd:
 
     # tl "I'll be better."
-    tl "I'll be better."
+    tl "我会做得更好的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:496
 translate chinese sm1mv01s07_2_at_beach_c27430d2:
 
     # tl "Serious."
-    tl "Serious."
+    tl "我是认真的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:497
 translate chinese sm1mv01s07_2_at_beach_5028988e:
 
     # tl "I'm in this for the long haul, you guys. And I wouldn't have bailed on two parties and bowling if I didn't believe in what we're doing."
-    tl "I'm in this for the long haul, you guys. And I wouldn't have bailed on two parties and bowling if I didn't believe in what we're doing."
+    tl "各位，我是打算长期和大家一起干的。要是我不相信我们正在做的事，我才不会推掉两个派对和保龄球局呢。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:500
 translate chinese sm1mv01s07_2_at_beach_e2fc4d57:
 
     # mct "She sounds sincere."
-    mct "She sounds sincere."
+    mct "她听起来挺真诚的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:501
 translate chinese sm1mv01s07_2_at_beach_b77ca1d5:
 
     # mc "Well, I'm glad you're here with us."
-    mc "Well, I'm glad you're here with us."
+    mc "好吧，很高兴你能和我们一起。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:507
 translate chinese sm1mv01s07_2_at_beach_bbc99c45:
 
     # mc "I'm just joking around, Taisia."
-    mc "I'm just joking around, Taisia."
+    mc "泰西娅，我只是开玩笑的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:508
 translate chinese sm1mv01s07_2_at_beach_4188ced7:
 
     # mc "There is no replacing you."
-    mc "There is no replacing you."
+    mc "没人能替代你。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:512
 translate chinese sm1mv01s07_2_at_beach_277aa36b:
 
     # mc "You make a great Scarlet Searose."
-    mc "You make a great Scarlet Searose."
+    mc "你演的斯嘉丽・海萝真的很棒。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:515
 translate chinese sm1mv01s07_2_at_beach_a94a66fb:
 
     # tl "Thanks, [mcname]."
-    tl "Thanks, [mcname]."
+    tl "[mcname]，谢谢你。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:520
 translate chinese sm1mv01s07_2_at_beach_8d93e47e:
 
     # mc "We should head back, ladies."
-    mc "We should head back, ladies."
+    mc "姑娘们，我们该回去了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:524
 translate chinese sm1mv01s07_2_at_beach_c436b2e0:
 
     # mc "Tomorrow is going to be busy busy."
-    mc "Tomorrow is going to be busy busy."
+    mc "明天会非常非常忙。"
 
 translate chinese strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:115
     old "On the open road"
-    new "On the open road"
+    new "在开阔的公路上"
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:134
     old "That's the idea"
-    new "That's the idea"
+    new "就是这个意思"
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:134
     old "Its not about the money"
-    new "Its not about the money"
+    new "这不是为了钱"
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:199
     old "At the rental"
-    new "At the rental"
+    new "全拿去交租金"
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:485
     old "It doesn't always feel like you are"
-    new "It doesn't always feel like you are"
+    new "有时候真感觉你没投入"
 
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:485
     old "Just teasing"
-    new "Just teasing"
+    new "只是开玩笑而已"
 
