@@ -734,7 +734,7 @@ translate chinese sm1mv01s08_movie_start_7ced253b:
 translate chinese sm1mv01s08_movie_start_cd08f8a6:
 
     # mc "I hope you're ready for a little {i}swordplay{/i}."
-    mc "我希望你准备好应付我的{i}剑术对决{i}了。"
+    mc "我希望你准备好应付我的{i}剑术对决{/i}了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:441
 translate chinese sm1mv01s08_movie_start_702ed5ac:
