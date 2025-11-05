@@ -220,3 +220,134 @@
     old "AmRose"
     new "爱洛丝"
 
+    # game/code/data/characters/characters.rpy:3
+    old "Harris"
+    new "哈里斯"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Callahan"
+    new "卡拉汉"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Jenkins"
+    new "詹金斯"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Eun-Soo"
+    new "恩秀"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Vu"
+    new "武"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Nelson"
+    new "纳尔逊"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Rhor"
+    new "罗尔"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Siegel"
+    new "西格尔"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Goodwin"
+    new "古德温"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Watts"
+    new "沃茨"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Song"
+    new "宋"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Mercer"
+    new "默瑟"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Nowakowski"
+    new "诺瓦科斯基"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Hester"
+    new "赫斯特"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Moore"
+    new "摩尔"
+
+    # game/code/data/characters/characters.rpy:3
+    old "John"
+    new "约翰"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Maloney"
+    new "马洛尼"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Roberts"
+    new "罗伯茨"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Van der Haute"
+    new "范德哈特"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Lindqvist"
+    new "林德奎斯特"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Steele"
+    new "斯蒂尔"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Sam"
+    new "萨姆"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Cavendish"
+    new "卡文迪什"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Johnson"
+    new "约翰逊"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Wyatt"
+    new "怀亚特"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Kline"
+    new "克莱因"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Cowen"
+    new "考恩"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Nelly"
+    new "内莉"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Creepy"
+    new "怪人"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Guy"
+    new "家伙"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Dog"
+    new "狗"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Walker"
+    new "遛狗人"
+
+    # game/code/data/characters/characters.rpy:3
+    old "Driver"
+    new "司机"
