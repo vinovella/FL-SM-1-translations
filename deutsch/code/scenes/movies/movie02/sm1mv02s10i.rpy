@@ -32,7 +32,7 @@ translate deutsch sm1mv02s10i_cc41d372:
 translate deutsch sm1mv02s10i_b8fe44a0:
 
     # sy "We can put it on the big screen and have a bunch of popcorn and snacks."
-    sy "Wir können es auf dem großen Bildschirm zeigen und jede Menge Popcorn und Snacks dazu genießen."
+    sy "Wir können es auf die große Leinwand bringen und jede Menge Popcorn und Snacks dazu genießen."
 
 # game/code/scenes/movies/movie02/sm1mv02s10i.rpy:18
 translate deutsch sm1mv02s10i_3320a765:
