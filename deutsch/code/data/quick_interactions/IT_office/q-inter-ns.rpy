@@ -944,41 +944,41 @@ translate deutsch q_inter_ns_37_0bc7a040:
 translate deutsch q_inter_ns_37_18abae82:
 
     # ns "With all these advances in AI script modules, I wonder if I would have used them in classes."
-    ns "With all these advances in AI script modules, I wonder if I would have used them in classes."
+    ns "Angesichts all dieser Fortschritte bei KI-Skriptmodulen frage ich mich, ob ich sie im Unterricht eingesetzt hätte."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:117
 translate deutsch q_inter_ns_7_525df220:
 
     # ns "Oh hey there. How's it going, [mcname]?"
-    ns "Oh hey there. How's it going, [mcname]?"
+    ns "Oh, hallo. Wie geht's, [mcname]?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:134
 translate deutsch q_inter_ns_8_0c2db63d:
 
     # ns "Well... you know. *giggles*"
-    ns "Well... you know. *giggles*"
+    ns "Na ja... du weißt schon. *kichert*"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:313
 translate deutsch q_inter_ns_22_af94e231:
 
     # ns "Hehehe. Never mind. I just wanted you to look at me."
-    ns "Hehehe. Never mind. I just wanted you to look at me."
+    ns "Hehehe. Macht nichts. Ich wollte nur, dass du mich ansiehst."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:383
 translate deutsch q_inter_ns_26_0f469b9f:
 
     # ns "And NASA found that a single plant can effectively purify 30 square feet of a space."
-    ns "And NASA found that a single plant can effectively purify 30 square feet of a space."
+    ns "Und die NASA hat herausgefunden, dass eine einzige Pflanze 30 Quadratfuß eines Raumes effektiv reinigen kann."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:393
 translate deutsch q_inter_ns_26_0a0ffbc8:
 
     # ns "Some of these studies focus on specific plants, and each plant..."
-    ns "Some of these studies focus on specific plants, and each plant..."
+    ns "Einige dieser Studien konzentrieren sich auf bestimmte Pflanzen, und jede Pflanze..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:447
 translate deutsch q_inter_ns_29_28d64cc9:
 
     # mct "Crowning has a Korean barbecue place?"
-    mct "Crowning has a Korean barbecue place?"
+    mct "Gibt es in Crowning ein koreanisches Barbecue-Restaurant?"
 
