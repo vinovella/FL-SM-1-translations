@@ -360,3 +360,7 @@
     old "Ethan"
     new "伊桑"
 
+    # game/code/data/characters/names.rpy:86
+    old "Jerk Cop"
+    new "混蛋警察"
+
