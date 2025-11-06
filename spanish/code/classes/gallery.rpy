@@ -7,3 +7,4 @@ translate spanish strings:
     # game/code/classes/gallery.rpy:89
     old "You've unlocked the achievement: "
     new "Has desbloqueado el logro: "
+

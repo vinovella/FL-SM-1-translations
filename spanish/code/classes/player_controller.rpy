@@ -11,3 +11,4 @@ translate spanish strings:
     # game/code/classes/player_controller.rpy:39
     old "You don't have enough money."
     new "No tienes suficiente dinero."
+

@@ -1356,5 +1356,3 @@ translate chinese strings:
     old "Pronebone Nari"
     new "俯卧插入娜丽"
 
-
-

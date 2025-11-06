@@ -1935,3 +1935,4 @@ translate chinese sm1fs_t002_sex_b41d6af2:
 
     # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
     sy "你得让我们看，而不是告诉我们。没人想要色情的有声书，他们想要的是电影！"
+

@@ -502,7 +502,6 @@ translate chinese strings:
     old "BOOK NAME"
     new "书名"
 
-
     old "Sure, I'm interested in how a photoshoot like this works"
     new "好啊，我正想了解这类拍摄的流程"
 

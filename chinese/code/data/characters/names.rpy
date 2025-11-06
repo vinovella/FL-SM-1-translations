@@ -351,3 +351,12 @@
     # game/code/data/characters/characters.rpy:3
     old "Driver"
     new "司机"
+
+    # game/code/data/characters/names.rpy:84
+    old "Carmel"
+    new "卡梅尔"
+
+    # game/code/data/characters/names.rpy:85
+    old "Ethan"
+    new "伊桑"
+

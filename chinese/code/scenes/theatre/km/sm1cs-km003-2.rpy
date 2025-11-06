@@ -656,4 +656,3 @@ translate chinese strings:
     old "There must be a special form"
     new "肯定有什么特别的技巧"
 
-

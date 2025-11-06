@@ -1700,4 +1700,3 @@ translate chinese strings:
     old "Don't spank her ass"
     new "不打她屁股"
 
-

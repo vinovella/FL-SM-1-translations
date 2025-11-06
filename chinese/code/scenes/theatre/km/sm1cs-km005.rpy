@@ -1346,4 +1346,3 @@ translate chinese strings:
     old "That was good. But now we've got a little mess to clean up"
     new "刚才确实很爽。不过现在咱们得清理一下这个小麻烦了。"
 
-

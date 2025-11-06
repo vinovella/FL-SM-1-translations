@@ -1,4 +1,3 @@
-
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:18
 translate turkish q_inter_mj_1_e5d5f892:
 

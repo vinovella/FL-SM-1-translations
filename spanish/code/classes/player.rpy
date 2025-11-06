@@ -23,3 +23,4 @@ translate spanish strings:
     # game/code/classes/player.rpy:395
     old "You just improved in topic"
     new "Acabas de mejorar en el tema"
+

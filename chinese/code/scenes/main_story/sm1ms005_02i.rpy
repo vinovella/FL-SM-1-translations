@@ -72,4 +72,3 @@ translate chinese strings:
     old "Love Making"
     new "温柔的做爱"
 
-

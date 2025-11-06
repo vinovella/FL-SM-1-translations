@@ -513,3 +513,4 @@ translate italian strings:
     # game/code/scenes/main_story/sm1ms011_it.rpy:244
     old "I'll see what I can do"
     new "Vedrò cosa posso fare"
+

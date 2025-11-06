@@ -14,4 +14,3 @@ translate spanish strings:
     old "Progress required storylines"
     new "Progresar en las historias requeridas"
 
-

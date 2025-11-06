@@ -1260,4 +1260,3 @@ translate chinese strings:
     old "Cum on her face and boobs"
     new "射在她脸上和胸部"
 
-

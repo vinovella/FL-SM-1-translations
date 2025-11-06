@@ -518,4 +518,3 @@ translate chinese strings:
     old "I'll see what I can do"
     new "我看看我能做什么"
 
-

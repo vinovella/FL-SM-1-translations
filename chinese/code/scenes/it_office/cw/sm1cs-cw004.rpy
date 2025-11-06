@@ -2007,3 +2007,4 @@ translate chinese strings:
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:723
     old "Resist!"
     new "抵抗！"
+

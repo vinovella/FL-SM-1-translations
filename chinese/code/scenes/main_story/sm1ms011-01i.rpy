@@ -250,4 +250,3 @@ translate chinese strings:
     old "I'll think about it"
     new "我会考虑的"
 
-

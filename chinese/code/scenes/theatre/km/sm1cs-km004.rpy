@@ -1658,4 +1658,3 @@ translate chinese strings:
     old "I'm starting to get worried"
     new "我开始有点担心了"
 
-

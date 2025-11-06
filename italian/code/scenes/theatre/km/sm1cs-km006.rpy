@@ -4,7 +4,6 @@ translate italian sm1cs_km006_70250aa5:
     # mc "Sure. We're just practicing."
     mc "Certo. Stiamo solo facendo pratica."
 
-
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:94
 translate italian sm1cs_km006_b2e61965:
 

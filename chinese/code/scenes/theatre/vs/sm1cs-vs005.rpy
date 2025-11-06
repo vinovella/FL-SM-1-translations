@@ -1813,3 +1813,4 @@ translate chinese strings:
     # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:668
     old "Fuck Veronica's ass as deep as you can"
     new "尽可能深地操维罗妮卡的屁股"
+

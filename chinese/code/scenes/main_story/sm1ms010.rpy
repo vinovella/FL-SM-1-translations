@@ -1197,3 +1197,4 @@ translate chinese strings:
     # game/code/scenes/main_story/sm1ms010.rpy:491
     old "No thanks (Lock off Foot Fetish Content)"
     new "不了，谢谢（关闭恋足癖内容）"
+

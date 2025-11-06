@@ -1308,5 +1308,3 @@ translate chinese strings:
     old "To no more manual labor!"
     new "为再也不用干体力活干杯！"
 
-
-

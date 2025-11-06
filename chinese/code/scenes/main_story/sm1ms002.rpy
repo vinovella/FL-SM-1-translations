@@ -248,4 +248,3 @@ translate chinese strings:
     old "Start job in Theater"
     new "开始在剧院工作"
 
-

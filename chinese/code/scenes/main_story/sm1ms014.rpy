@@ -1064,5 +1064,3 @@ translate chinese strings:
     old "You spent $300 on renovation equipment"
     new "你在装修设备上花了$300 "
 
-
-

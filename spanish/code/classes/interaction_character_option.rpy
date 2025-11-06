@@ -53,3 +53,4 @@ translate spanish strings:
     # game/code/classes/interaction_character_option.rpy:92
     old "{name} (You need to have ${amount})"
     new "{name} (Necesitas tener ${amount})"
+

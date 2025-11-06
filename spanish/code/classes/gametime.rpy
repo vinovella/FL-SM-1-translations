@@ -20,4 +20,3 @@ translate spanish strings:
     old "Wrong time."
     new "No es el momento adecuado."
 
-

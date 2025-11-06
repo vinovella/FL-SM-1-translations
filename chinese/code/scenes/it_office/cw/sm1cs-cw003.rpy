@@ -470,4 +470,3 @@ translate chinese strings:
     old "Excited"
     new "兴奋"
 
-

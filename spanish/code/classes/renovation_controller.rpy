@@ -51,3 +51,4 @@ translate spanish strings:
     # game/code/classes/renovation_controller.rpy:175
     old "Already done."
     new "Ya está hecho."
+

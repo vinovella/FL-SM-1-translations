@@ -818,4 +818,3 @@ translate chinese strings:
     old "You can tell me what happened"
     new "你可以告诉我发生了什么"
 
-

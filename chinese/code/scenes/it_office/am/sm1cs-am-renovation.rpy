@@ -714,4 +714,3 @@ translate chinese strings:
     old "Promise the answer one day"
     new "承诺总有一天会告诉她答案"
 
-
