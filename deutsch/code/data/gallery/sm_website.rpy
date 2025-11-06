@@ -68,11 +68,11 @@ translate deutsch strings:
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Lieutenant Kira Solo"
-    new "Lieutenant Kira Solo"
+    new "Leutnant Kira Solo"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Doctor Jalerra"
-    new "Doctor Jalerra"
+    new "Doktor Jalerra"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Spectre"
