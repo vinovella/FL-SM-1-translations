@@ -278,17 +278,17 @@ translate deutsch q_inter_cw_11_03020337:
 translate deutsch q_inter_cw_6_144c0d07:
 
     # cw "Good. I'm meeting a potential client at a new gastro-pub I've heard a lot about and don't want to be late."
-    cw "Good. I'm meeting a potential client at a new gastro-pub I've heard a lot about and don't want to be late."
+    cw "Gut. Ich treffe mich mit einem potenziellen Kunden in einem neuen Gastro-Pub, von dem ich schon viel gehört habe, und möchte nicht zu spät kommen."
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:137
 translate deutsch q_inter_cw_10_1f0406dc:
 
     # cw "No. We do not. Keep it vague, Mr. Young."
-    cw "No. We do not. Keep it vague, Mr. Young."
+    cw "Nein, das tun wir nicht. Bleibe vage, Mr. Young."
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:162
 translate deutsch q_inter_cw_11_9929b95c:
 
     # mc "Message received."
-    mc "Message received."
+    mc "Nachricht erhalten."
 
