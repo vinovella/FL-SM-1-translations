@@ -288,29 +288,29 @@ translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:513
     old "Taboo Mode"
-    new "Taboo Mode"
+    new "Tabu-Modus"
 
 translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:12
     old "New Game"
-    new "New Game"
+    new "Neues Spiel"
 
     # game/code/renpy/screens/screens.rpy:46
     old "Join Patreon"
-    new "Join Patreon"
+    new "Patreon beitreten"
 
     # game/code/renpy/screens/screens.rpy:51
     old "Join Discord"
-    new "Join Discord"
+    new "Discord beitreten"
 
     # game/code/renpy/screens/screens.rpy:122
     old "Language"
-    new "Language"
+    new "Sprache"
 
     # game/code/renpy/screens/screens.rpy:149
     old "Music Player"
-    new "Music Player"
+    new "Musik-Player"
 
     # game/code/renpy/screens/screens.rpy:498
     old "Audio"
@@ -318,7 +318,7 @@ translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:502
     old "Dialogue"
-    new "Dialogue"
+    new "Dialog"
 
     # game/code/renpy/screens/screens.rpy:506
     old "Gameplay"
@@ -330,15 +330,15 @@ translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:544
     old "Mute All Channels :"
-    new "Mute All Channels :"
+    new "Alle Kanäle stummschalten :"
 
     # game/code/renpy/screens/screens.rpy:546
     old "Unmuted"
-    new "Unmuted"
+    new "Stummschaltung aufgehoben"
 
     # game/code/renpy/screens/screens.rpy:547
     old "Muted"
-    new "Muted"
+    new "Stumm"
 
     # game/code/renpy/screens/screens.rpy:554
     old "Full Voiceover :"
@@ -346,7 +346,7 @@ translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:564
     old "Music Volume :"
-    new "Music Volume :"
+    new "Musik Volume :"
 
     # game/code/renpy/screens/screens.rpy:573
     old "Sound Volume :"
@@ -354,15 +354,15 @@ translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:584
     old "Voice Volume :"
-    new "Voice Volume :"
+    new "Stimmen Volume :"
 
     # game/code/renpy/screens/screens.rpy:593
     old "Sex Voice Volume :"
-    new "Sex Voice Volume :"
+    new "Sex Stimmen Volume :"
 
     # game/code/renpy/screens/screens.rpy:615
     old "Text Speed :"
-    new "Text Speed :"
+    new "Textgeschwindigkeit :"
 
     # game/code/renpy/screens/screens.rpy:626
     old "Auto-Forward Time :"
@@ -370,15 +370,15 @@ translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:637
     old "Dialogue Box Opacity :"
-    new "Dialogue Box Opacity :"
+    new "Dialog Box Opacity :"
 
     # game/code/renpy/screens/screens.rpy:648
     old "Skip :"
-    new "Skip :"
+    new "Überspringen :"
 
     # game/code/renpy/screens/screens.rpy:657
     old "Fast Skip Confirm :"
-    new "Fast Skip Confirm :"
+    new "Schnelles Überspringen bestätigen :"
 
     # game/code/renpy/screens/screens.rpy:665
     old "Rollback Side :"
@@ -386,27 +386,27 @@ translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:668
     old "Left"
-    new "Left"
+    new "Links"
 
     # game/code/renpy/screens/screens.rpy:681
     old "Window Size :"
-    new "Window Size :"
+    new "Fenstergröße :"
 
     # game/code/renpy/screens/screens.rpy:694
     old "Weekly Statement :"
-    new "Weekly Statement :"
+    new "Wöchentliche Erklärung :"
 
     # game/code/renpy/screens/screens.rpy:702
     old "Navigation Highlights :"
-    new "Navigation Highlights :"
+    new "Navigations-Highlights :"
 
     # game/code/renpy/screens/screens.rpy:712
     old "Taboo Mode :"
-    new "Taboo Mode :"
+    new "Tabu-Modus :"
 
     # game/code/renpy/screens/screens.rpy:721
     old "Quick Menu :"
-    new "Quick Menu :"
+    new "Schnellmenü :"
 
     # game/code/renpy/screens/screens.rpy:724
     old "On Hover"
@@ -414,15 +414,15 @@ translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:733
     old "Analytics :"
-    new "Analytics :"
+    new "Analytik :"
 
     # game/code/renpy/screens/screens.rpy:742
     old "Quick Menu Buttons :"
-    new "Quick Menu Buttons :"
+    new "Schnellmenü Buttons :"
 
     # game/code/renpy/screens/screens.rpy:894
     old "Game"
-    new "Game"
+    new "Spiel"
 
     # game/code/renpy/screens/screens.rpy:902
     old "Voiceover"
@@ -430,11 +430,11 @@ translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:906
     old "Translation"
-    new "Translation"
+    new "Übersetzung"
 
     # game/code/renpy/screens/screens.rpy:910
     old "Others"
-    new "Others"
+    new "Andere"
 
     # game/code/renpy/screens/screens.rpy:920
     old "Version : [config.version!t]"
@@ -442,9 +442,9 @@ translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:921
     old "Developed by :"
-    new "Developed by :"
+    new "Entwickelt von :"
 
     # game/code/renpy/screens/screens.rpy:923
     old "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
-    new "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
+    new "Gemacht mit : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
 
