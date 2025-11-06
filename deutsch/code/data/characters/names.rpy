@@ -2,7 +2,7 @@
 
     # game/code/data/characters/names.rpy:6
     old "You"
-    new "You"
+    new "Du"
 
     # game/code/data/characters/names.rpy:10
     old "Amber-Rose"
@@ -38,7 +38,7 @@
 
     # game/code/data/characters/names.rpy:23
     old "Creepy Guy"
-    new "Creepy Guy"
+    new "Gruseliger Typ"
 
     # game/code/data/characters/names.rpy:24
     old "Cecilia"
@@ -46,7 +46,7 @@
 
     # game/code/data/characters/names.rpy:25
     old "Dog Walker"
-    new "Dog Walker"
+    new "Hundespaziergänger"
 
     # game/code/data/characters/names.rpy:26
     old "Elizabeth"
@@ -106,7 +106,7 @@
 
     # game/code/data/characters/names.rpy:45
     old "Mr. Watts"
-    new "Mr. Watts"
+    new "Herr Watts"
 
     # game/code/data/characters/names.rpy:46
     old "Eugene"
@@ -114,7 +114,7 @@
 
     # game/code/data/characters/names.rpy:47
     old "Mrs. Watts"
-    new "Mrs. Watts"
+    new "Frau Watts"
 
     # game/code/data/characters/names.rpy:48
     old "Mitch Conner"
@@ -126,7 +126,7 @@
 
     # game/code/data/characters/names.rpy:50
     old "Mrs. Maureen"
-    new "Mrs. Maureen"
+    new "Frau Maureen"
 
     # game/code/data/characters/names.rpy:51
     old "Peter"
