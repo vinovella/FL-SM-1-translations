@@ -950,5 +950,5 @@ translate deutsch strings:
 translate deutsch sm1cs_dc006_at_park_fb7dfd2e:
 
     # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
-    dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+    dc "Officer Callahan...{w} Ich weiß. Ich kam gerade hier an, als er flüchtete...{w} Ich weiß, Sir..."
 
