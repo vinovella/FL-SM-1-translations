@@ -536,17 +536,17 @@ translate deutsch q_inter_tl_21_c1dff962:
 translate deutsch q_inter_tl_5_2a8059e7:
 
     # tl "If I get 8 hours at the other job... And I save, what, half of that paycheck..."
-    tl "If I get 8 hours at the other job... And I save, what, half of that paycheck..."
+    tl "Wenn ich bei meinem anderen Job 8 Stunden arbeite... Und dabei, was, die Hälfte meines Gehalts spare..."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:147
 translate deutsch q_inter_tl_11_687943e7:
 
     # tl "Don't know. But I'm not surprised."
-    tl "Don't know. But I'm not surprised."
+    tl "Ich weiß es nicht. Aber es überrascht mich nicht."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:244
 translate deutsch q_inter_tl_17_543cc186:
 
     # mc "Huh, I never thought about it like that."
-    mc "Huh, I never thought about it like that."
+    mc "Hm, so habe ich das noch nie betrachtet."
 
