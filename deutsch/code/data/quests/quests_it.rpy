@@ -232,69 +232,69 @@ translate deutsch strings:
 
     # game/code/data/quests/quests_it.rpy:3
     old "Go to the Second interview in the morning"
-    new "Go to the Second interview in the morning"
+    new "Gehe zum zweiten Vorstellungsgespräch am Vormittag"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Enter Orbix during Morning for interview"
-    new "Enter Orbix during Morning for interview"
+    new "Gehe morgens zu Orbix zum Vorstellungsgespräch"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Progress 0/1 Anna's scene"
-    new "Progress 0/1 Anna's scene"
+    new "Fortschritt 0/1 Annas Szene"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get at least {}/15 total Relationship Points with characters in Orbix"
-    new "Get at least {}/15 total Relationship Points with characters in Orbix"
+    new "Sammle mindestens {}/15 Beziehungspunkte mit Charakteren bei Orbix"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get at least 15 total Relationship Points with characters in Orbix"
-    new "Get at least 15 total Relationship Points with characters in Orbix"
+    new "Sammle insgesamt mindestens 15 Beziehungspunkte mit Charakteren bei Orbix"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get 2 Relationship Points by interacting with Nari"
-    new "Get 2 Relationship Points by interacting with Nari"
+    new "Sammle 2 Beziehungspunkte, indem du mit Nari interagierst"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get 4 Relationship Points with Nari and work 3 times at Orbix"
-    new "Get 4 Relationship Points with Nari and work 3 times at Orbix"
+    new "Sammle 4 Beziehungspunkte mit Nari und arbeite 3 Mal bei Orbix"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Advance the IT Faction storyline"
-    new "Advance the IT Faction storyline"
+    new "Die Handlung der IT-Fraktion vorantreiben"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get 5 Relationship Points with Claire and then talk with her at her desk"
-    new "Get 5 Relationship Points with Claire and then talk with her at her desk"
+    new "Sammle 5 Beziehungspunkte mit Claire und sprich dann mit ihr an ihrem Schreibtisch"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get 8 Relationship Points with Claire and talk with her"
-    new "Get 8 Relationship Points with Claire and talk with her"
+    new "Sammle 8 Beziehungspunkte mit Claire und sprich mit ihr"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Talk with Claire on Friday evening"
-    new "Talk with Claire on Friday evening"
+    new "Sprich mit Claire am Freitagabend"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Progress Orbix's storyline"
-    new "Progress Orbix's storyline"
+    new "Fortschritt in der Handlung von Orbix"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Find Anna in coffee shop"
-    new "Find Anna in coffee shop"
+    new "Finde Anna im Café"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get 2 Relationship Points with April, then work at Orbix"
-    new "Get 2 Relationship Points with April, then work at Orbix"
+    new "Sammle 2 Beziehungspunkte mit April und arbeite dann bei Orbix"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get 4 Relationship Points with April, then work at Orbix"
-    new "Get 4 Relationship Points with April, then work at Orbix"
+    new "Sammle 4 Beziehungspunkte mit April und arbeite dann bei Orbix"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Find April in the park during the day"
-    new "Find April in the park during the day"
+    new "Finde April tagsüber im Park"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get 8 Relationship Points with April, then talk with her"
-    new "Get 8 Relationship Points with April, then talk with her"
+    new "Sammle 8 Beziehungspunkte mit April und sprich dann mit ihr"
 
