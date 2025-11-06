@@ -992,5 +992,5 @@ translate deutsch sm1cs_kv003_9c5419cb:
 translate deutsch sm1cs_kv003_51d06342:
 
     # kv "What's the next question?"
-    kv "What's the next question?"
+    kv "Was ist die nächste Frage?"
 
