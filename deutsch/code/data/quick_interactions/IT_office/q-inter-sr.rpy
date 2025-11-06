@@ -110,5 +110,5 @@ translate deutsch q_inter_sr_5_031e8a5d:
 translate deutsch q_inter_sr_4_6dd1d47e:
 
     # sr "We've been getting bombarded with a DDoS all morning. Thank God we had April test the system when we implemented it."
-    sr "We've been getting bombarded with a DDoS all morning. Thank God we had April test the system when we implemented it."
+    sr "Wir wurden den ganzen Morgen mit einem DDoS-Angriff bombardiert. Gott sei Dank hat April das System getestet, als wir es implementiert haben."
 
