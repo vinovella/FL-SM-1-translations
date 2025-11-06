@@ -80,7 +80,7 @@ translate deutsch strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Hello [mcname!i]."
-    new "Hello [mcname!i]."
+    new "Hallo [mcname!i]."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Hi Min."
@@ -88,67 +88,67 @@ translate deutsch strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Nice to hear from you."
-    new "Nice to hear from you."
+    new "Schön, von dir zu hören."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "You're probably the only one who thinks so."
-    new "You're probably the only one who thinks so."
+    new "Du bist wahrscheinlich der Einzige, der so denkt."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "What happened?"
-    new "What happened?"
+    new "Was ist passiert?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I got into a spirited discussion with a professor."
-    new "I got into a spirited discussion with a professor."
+    new "Ich geriet in eine lebhafte Diskussion mit einem Professor."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "That turned into a shouting match."
-    new "That turned into a shouting match."
+    new "Das artete in einen lautstarken Streit aus."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Uh. That doesn't sound like you."
-    new "Uh. That doesn't sound like you."
+    new "Äh. Das klingt nicht nach dir."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "What started the argument?"
-    new "What started the argument?"
+    new "Was hat den Streit ausgelöst?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Don't worry about it."
-    new "Don't worry about it."
+    new "Mach dir keine Sorgen."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Yup. Just don't ask Professor Selbig."
-    new "Yup. Just don't ask Professor Selbig."
+    new "Ja. Frag nur nicht Professor Selbig."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "How was your day?"
-    new "How was your day?"
+    new "Wie war dein Tag?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Good. Working hard as usual."
-    new "Good. Working hard as usual."
+    new "Gut. Arbeitet wie immer hart."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "As usual? I've never seen you work hard."
-    new "As usual? I've never seen you work hard."
+    new "Wie immer? Ich habe dich noch nie hart arbeiten sehen."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I work hard and play hard."
-    new "I work hard and play hard."
+    new "Ich arbeite hart und spiele hart."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Talk to you later, [mcname!i]."
-    new "Talk to you later, [mcname!i]."
+    new "Bis später, [mcname!i]."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Done with me so soon?"
-    new "Done with me so soon?"
+    new "Schon fertig mit mir?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I have to study. But I'll give you something to tide you over."
-    new "I have to study. But I'll give you something to tide you over."
+    new "Ich muss lernen. Aber ich gebe dir etwas, damit du über die Runden kommst."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "❤️"
@@ -156,115 +156,115 @@ translate deutsch strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Wish you could be here to warm my body."
-    new "Wish you could be here to warm my body."
+    new "Ich wünschte, du könntest hier sein, um meinen Körper zu wärmen."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Let's arrange that soon."
-    new "Let's arrange that soon."
+    new "Lass uns das bald arrangieren."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Hey, what are you doing?"
-    new "Hey, what are you doing?"
+    new "Hey, was machst du?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Nothing. You?"
-    new "Nothing. You?"
+    new "Nichts. Und du?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I was thinking I could go for some fun."
-    new "I was thinking I could go for some fun."
+    new "Ich dachte, ich könnte etwas Spaß haben."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Sexy fun."
-    new "Sexy fun."
+    new "Sexy Spaß."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Haha. You really have a one-track mind."
-    new "Haha. You really have a one-track mind."
+    new "Haha. Du bist wirklich sehr einseitig."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I was thinking of a game night. You, Stacy and I."
-    new "I was thinking of a game night. You, Stacy and I."
+    new "Ich dachte an einen Spieleabend. Du, Stacy und ich."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Sounds fun. I didn't think you'd want Stacy involved?"
-    new "Sounds fun. I didn't think you'd want Stacy involved?"
+    new "Klingt lustig. Ich dachte, du wolltest nicht, dass Stacy dabei ist?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I do. She seems fun. And she's a big part of your life isn't she?"
-    new "I do. She seems fun. And she's a big part of your life isn't she?"
+    new "Ja, das tue ich. Sie scheint lustig zu sein. Und sie ist ein wichtiger Teil deines Lebens, nicht wahr?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Yes she is."
-    new "Yes she is."
+    new "Ja, das ist sie."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Unfortunately yes. She's always here."
-    new "Unfortunately yes. She's always here."
+    new "Leider ja. Sie ist immer hier."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "It's like we're living together."
-    new "It's like we're living together."
+    new "Es ist, als würden wir zusammenleben."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Haha. I get it."
-    new "Haha. I get it."
+    new "Haha. Ich verstehe."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "There is a board game I've been wanting to try out."
-    new "There is a board game I've been wanting to try out."
+    new "Es gibt ein Brettspiel, das ich schon lange ausprobieren möchte."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I'll go buy it and get some junk food."
-    new "I'll go buy it and get some junk food."
+    new "Ich werde es kaufen gehen und etwas Junkfood besorgen."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "All you need to do is come over."
-    new "All you need to do is come over."
+    new "Du musst nur vorbeikommen."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Alright, this evening works?"
-    new "Alright, this evening works?"
+    new "Okay, passt heute Abend?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Perfect. See you then."
-    new "Perfect. See you then."
+    new "Perfekt. Bis dann."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Hey sexy."
-    new "Hey sexy."
+    new "Hey, Schnuckel."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Oooh. Someone is in a good mood."
-    new "Oooh. Someone is in a good mood."
+    new "Oh! Da ist aber jemand gut gelaunt."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "I always am when I talk to you."
-    new "I always am when I talk to you."
+    new "Das bin ich immer, wenn ich mit dir spreche."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "I have time today, ready to move in?"
-    new "I have time today, ready to move in?"
+    new "Ich habe heute Zeit, bereit einzuziehen?"
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Yes!"
-    new "Yes!"
+    new "Ja!"
 
     # game/code/data/chat/chat_mes.rpy:358
     old "I can't wait to put this place behind me."
-    new "I can't wait to put this place behind me."
+    new "Ich kann es kaum erwarten, diesen Ort hinter mir zu lassen."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Awesome. Why don't you come over?"
-    new "Awesome. Why don't you come over?"
+    new "Super. Warum kommst du nicht vorbei?"
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Perfect."
-    new "Perfect."
+    new "Perfekt."
 
 translate deutsch strings:
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Never mind. Are you down or not?"
-    new "Never mind. Are you down or not?"
+    new "Egal. Bist du dabei oder nicht?"
 
