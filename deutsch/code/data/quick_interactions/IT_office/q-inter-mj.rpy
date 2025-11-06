@@ -87,11 +87,11 @@ translate deutsch q_inter_mj_4_fe961654:
 translate deutsch q_inter_mj_1_e906923a:
 
     # mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
-    mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
+    mj "[mcname], machst du bei dieser Wette mit, wer weniger Fehler machen wird, Anna oder April?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:40
 translate deutsch q_inter_mj_3_eadd033a:
 
     # mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
-    mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
+    mj "Eigentlich werde ich einfach mit Anna darüber sprechen! Mal sehen, ob sie April dazu bringen kann, ihre auch abzugeben."
 
