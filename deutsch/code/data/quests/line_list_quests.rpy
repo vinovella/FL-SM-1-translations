@@ -92,23 +92,23 @@ translate deutsch strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Main story"
-    new "Main story"
+    new "Hauptgeschichte"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Second movie"
-    new "Second movie"
+    new "Zweiter Film"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Pirates movie"
-    new "Pirates movie"
+    new "Piratenfilm"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Sci-Fi movie"
-    new "Sci-Fi movie"
+    new "Science-Fiction-Film"
 
 translate deutsch strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Kellie's story"
-    new "Kellie's story"
+    new "Kellies Geschichte"
 
