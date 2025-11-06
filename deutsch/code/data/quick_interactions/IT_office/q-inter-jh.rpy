@@ -128,5 +128,5 @@ translate deutsch q_inter_jh_5_11809067:
 translate deutsch q_inter_jh_5_527d1655:
 
     # jh "A Castle of Thistles and Orchids. Anna turned me on to them."
-    jh "A Castle of Thistles and Orchids. Anna turned me on to them."
+    jh "Ein Schloss aus Disteln und Orchideen. Anna hat mich darauf aufmerksam gemacht."
 
