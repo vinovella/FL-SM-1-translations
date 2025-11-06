@@ -1708,11 +1708,11 @@ translate deutsch strings:
 translate deutsch sm1cs_mas003_third_delivery_7eec6586:
 
     # ms "Never mind."
-    ms "Never mind."
+    ms "Egal."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
 translate deutsch sm1cs_mas003_third_delivery_9ed10f06:
 
     # ms "Show's over, ladies."
-    ms "Show's over, ladies."
+    ms "Die Show ist vorbei, meine Damen."
 
