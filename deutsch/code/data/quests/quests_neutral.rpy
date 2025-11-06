@@ -400,105 +400,105 @@ translate deutsch strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy to choose the movie you want to film"
-    new "Talk with Stacy to choose the movie you want to film"
+    new "Sprich mit Stacy, um den Film auszuwählen, den du drehen möchtest"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy to borrow laptop for editing Lyssa's video"
-    new "Talk with Stacy to borrow laptop for editing Lyssa's video"
+    new "Sprich mit Stacy, um den Laptop auszuleihen, um Lyssa's Video zu bearbeiten"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Show the edited video to Lyssa"
-    new "Show the edited video to Lyssa"
+    new "Zeige Lyssa das bearbeitete Video"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Min in the bar"
-    new "Talk with Min in the bar"
+    new "Sprich mit Min in der Bar"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for Min to text you again"
-    new "Wait for Min to text you again"
+    new "Warte, bis Min dir wieder eine Nachricht schickt"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Text Min in the Morning to help her move in"
-    new "Text Min in the Morning to help her move in"
+    new "Schreibe Min am Morgen eine Nachricht, um ihr beim Einzug zu helfen"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Stacy wants to talk to you about Melony"
-    new "Stacy wants to talk to you about Melony"
+    new "Stacy möchte mit dir über Melony sprechen"
 
 translate deutsch strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Debbie in the Park"
-    new "Talk to Debbie in the Park"
+    new "Sprich mit Debbie im Park"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Debbie in the evening in the Park"
-    new "Talk to Debbie in the evening in the Park"
+    new "Sprich am Abend mit Debbie im Park"
 
 translate deutsch strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy when she is in bed"
-    new "Talk with Stacy when she is in bed"
+    new "Sprich mit Stacy, wenn sie im Bett liegt"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Progress IT job's storyline"
-    new "Progress IT job's storyline"
+    new "Fortschritt in IT-Job-Handlung"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Progress Theater job's storyline"
-    new "Progress Theater job's storyline"
+    new "Fortschritt in Theater Job-Handlung"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Progress IT and Theater job storylines"
-    new "Progress IT and Theater job storylines"
+    new "Fortschritte in den Bereichen IT und Theater"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Progress AmRose's storyline"
-    new "Progress AmRose's storyline"
+    new "Fortschritt in AmRoses Handlung"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Progress Taisia's storyline"
-    new "Progress Taisia's storyline"
+    new "Fortschritt in Taisias Handlung"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy at the studio in the morning"
-    new "Talk to Stacy at the studio in the morning"
+    new "Sprich morgens mit Stacy im Studio"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Learn Photography until you have 5 in this topic (currently {})"
-    new "Learn Photography until you have 5 in this topic (currently {})"
+    new "Lerne Fotografie, bis du 5 in diesem Thema hast (derzeit {})"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Get 6 Relationship Points with Maya and talk to her in Wurst Delivery"
-    new "Get 6 Relationship Points with Maya and talk to her in Wurst Delivery"
+    new "Sammle 6 Beziehungspunkte mit Maya und sprich mit ihr bei Wurst Lieferung"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Get {}/9 Relationship Points with Maya"
-    new "Get {}/9 Relationship Points with Maya"
+    new "Sammle {}/9 Beziehungspunkte mit Maya"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about going to Lyssa during the day"
-    new "Talk with Stacy about going to Lyssa during the day"
+    new "Sprich mit Stacy darüber, tagsüber zu Lyssa zu fahren"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about Lyssa during the day"
-    new "Talk with Stacy about Lyssa during the day"
+    new "Sprich tagsüber mit Stacy über Lyssa"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go to Lyssa's House during evening"
-    new "Go to Lyssa's House during evening"
+    new "Geh am Abend zu Lyssa's Haus"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for a few days"
-    new "Wait for a few days"
+    new "Einige Tage warten"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Get to 3 Relationship Points with Min"
-    new "Get to 3 Relationship Points with Min"
+    new "Sammle 3 Beziehungspunkte mit Min"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Get to 5 Relationship Points with Min"
-    new "Get to 5 Relationship Points with Min"
+    new "Sammle 5 Beziehungspunkte mit Min"
 
