@@ -48,21 +48,21 @@ translate deutsch strings:
 
     # game/code/renpy/screens/game_menus.rpy:161
     old "SAVE"
-    new "SAVE"
+    new "SPEICHERN"
 
     # game/code/renpy/screens/game_menus.rpy:163
     old "LOAD"
-    new "LOAD"
+    new "LADEN"
 
     # game/code/renpy/screens/game_menus.rpy:165
     old "Q.SAVE"
-    new "Q.SAVE"
+    new "SCHNELLSPEICHERN"
 
     # game/code/renpy/screens/game_menus.rpy:167
     old "Q.LOAD"
-    new "Q.LOAD"
+    new "SCHNELLLADEN"
 
     # game/code/renpy/screens/game_menus.rpy:169
     old "SETTINGS"
-    new "SETTINGS"
+    new "EINSTELLUNGEN"
 
