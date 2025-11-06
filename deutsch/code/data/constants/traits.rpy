@@ -298,7 +298,7 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Choking"
-    new "Ersticken"
+    new "Würgen"
 
     # game/code/data/constants/traits.rpy:82
     old "Extreme"
@@ -308,5 +308,5 @@ translate deutsch strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Nipple Piercings"
-    new "Nipple Piercings"
+    new "Brustwarzenpiercings"
 
