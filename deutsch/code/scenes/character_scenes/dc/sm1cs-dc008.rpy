@@ -1034,5 +1034,5 @@ translate deutsch sm1cs_dc008_02776fbe:
 translate deutsch sm1cs_dc008_b12cc4d7:
 
     # mc "I'm grateful that you shared that part of you with me, Debbie."
-    mc "I'm grateful that you shared that part of you with me, Debbie."
+    mc "Ich bin dankbar, dass du diesen Teil von dir mit mir geteilt hast, Debbie."
 
