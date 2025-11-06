@@ -12,5 +12,5 @@ translate deutsch strings:
 
     # game/code/renpy/screens/vn_mode.rpy:114
     old "Open Laptop"
-    new "Open Laptop"
+    new "Laptop öffnen"
 
