@@ -644,103 +644,103 @@ translate deutsch strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the movie options"
-    new "Talk about the movie options"
+    new "Über die Filmoptionen sprechen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Choose which movie to make"
-    new "Choose which movie to make"
+    new "Wähle aus, welchen Film du drehen möchtest"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer Min's text again"
-    new "Answer Min's text again"
+    new "Antworte erneut auf Mins Nachricht"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Help Min to move in"
-    new "Help Min to move in"
+    new "Hilf Min beim Einzug"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Borrow Stacy's laptop"
-    new "Borrow Stacy's laptop"
+    new "Stacy's Laptop ausleihen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Nari wants to talk with you"
-    new "Nari wants to talk with you"
+    new "Nari möchte mit dir sprechen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Ask Nelson about sponsoring theater"
-    new "Ask Nelson about sponsoring theater"
+    new "Frage Nelson nach dem Sponsoring des Theaters"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the Wurst Delivery Sponsorship"
-    new "Talk about the Wurst Delivery Sponsorship"
+    new "Über das Wurst-Lieferung-Sponsoring sprechen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about the Sci-Fi Movie"
-    new "Talk to Stacy about the Sci-Fi Movie"
+    new "Sprich mit Stacy über den Science-Fiction-Film"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Recruit Min for Sci-Fi Movie"
-    new "Recruit Min for Sci-Fi Movie"
+    new "Min für den Science-Fiction-Film rekrutieren"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Recruit Lyssa for Sci-Fi Movie"
-    new "Recruit Lyssa for Sci-Fi Movie"
+    new "Lyssa für den Science-Fiction-Film engagieren"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about Sci-Fi Movie props"
-    new "Talk to Stacy about Sci-Fi Movie props"
+    new "Sprich mit Stacy über Science-Fiction-Film Requisiten"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about building the set"
-    new "Talk to Stacy about building the set"
+    new "Sprich mit Stacy über den Aufbau des Sets"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Build the rest of the set"
-    new "Build the rest of the set"
+    new "Den Rest des Sets bauen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Start filming!"
-    new "Start filming!"
+    new "Beginn die Dreharbeiten!"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Film the second scene"
-    new "Film the second scene"
+    new "Die zweite Szene filmen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Plan a Spa day"
-    new "Plan a Spa day"
+    new "Plane den Wellness-Tag"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Enjoy a Spa day"
-    new "Enjoy a Spa day"
+    new "Genieße den Wellness-Tag"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about big scenes in the Sci-Fi Movie"
-    new "Talk about big scenes in the Sci-Fi Movie"
+    new "Über die großen Szenen vom Science-Fiction-Film sprechen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Film the third scene"
-    new "Film the third scene"
+    new "Die dritte Szene filmen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Film the last scene"
-    new "Film the last scene"
+    new "Die letzte Szene filmen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Watch the final cut"
-    new "Watch the final cut"
+    new "Den endgültigen Schnitt ansehen"
 
 translate deutsch strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Lyssa's storyline and Main Story"
-    new "Progress Lyssa's storyline and Main Story"
+    new "Fortschritte bei Lyssa's Storyline und der Hauptstory"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Meet an old friend"
-    new "Meet an old friend"
+    new "Einen alten Freund treffen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Surprise Nari at night"
-    new "Surprise Nari at night"
+    new "Überrasche Nari nachts"
 
