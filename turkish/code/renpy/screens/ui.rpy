@@ -13,6 +13,6 @@
     new "Görevleri Gizle"
 
     # game/code/renpy/screens/ui.rpy:30
-    old "Timeslot: {}"
-    new "Zaman aralığı: {}"
+    old "Timeslot: [gt.curr_timeslot!t]"
+    new "Zaman aralığı: [gt.curr_timeslot!t]"
 

@@ -13,6 +13,6 @@ translate portuguese strings:
     new "Esconder Quests"
 
     # game/code/renpy/screens/ui.rpy:30
-    old "Timeslot: {}"
-    new "Horário: {}"
+    old "Timeslot: [gt.curr_timeslot!t]"
+    new "Horário: [gt.curr_timeslot!t]"
 

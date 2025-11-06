@@ -13,8 +13,8 @@ translate spanish strings:
     new "{}%\npor día"
 
     # game/code/renpy/screens/renovation.rpy:79
-    old "Energy: {}/{}"
-    new "Energía: {}/{}"
+    old "Energy: [player.energy]/[player.max_energy]"
+    new "Energía: [player.energy]/[player.max_energy]"
 
     # game/code/renpy/screens/renovation.rpy:84
     old "WORK"

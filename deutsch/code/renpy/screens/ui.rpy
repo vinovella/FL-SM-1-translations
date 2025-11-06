@@ -13,6 +13,6 @@
     new "Quests ausblenden"
 
     # game/code/renpy/screens/ui.rpy:30
-    old "Timeslot: {}"
-    new "Zeitslot: {}"
+    old "Timeslot: [gt.curr_timeslot!t]"
+    new "Zeitslot: [gt.curr_timeslot!t]"
 

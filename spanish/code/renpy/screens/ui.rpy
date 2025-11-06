@@ -13,6 +13,6 @@ translate spanish strings:
     new "Ocultar misiones"
 
     # game/code/renpy/screens/ui.rpy:30
-    old "Timeslot: {}"
-    new "Horario: {}"
+    old "Timeslot: [gt.curr_timeslot!t]"
+    new "Horario: [gt.curr_timeslot!t]"
 

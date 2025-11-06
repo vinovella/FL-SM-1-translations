@@ -13,6 +13,6 @@
     new "隐藏任务"
 
     # game/code/renpy/screens/ui.rpy:30
-    old "Timeslot: {}"
-    new "时间段：{}"
+    old "Timeslot: [gt.curr_timeslot!t]"
+    new "时间段：[gt.curr_timeslot!t]"
 

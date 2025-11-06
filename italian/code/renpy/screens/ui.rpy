@@ -13,6 +13,6 @@
     new "Hide Quests"
 
     # game/code/renpy/screens/ui.rpy:30
-    old "Timeslot: {}"
-    new "Timeslot: {}"
+    old "Timeslot: [gt.curr_timeslot!t]"
+    new "Timeslot: [gt.curr_timeslot!t]"
 

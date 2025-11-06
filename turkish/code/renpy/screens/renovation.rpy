@@ -13,8 +13,8 @@
     new "{}%\ngünlük"
 
     # game/code/renpy/screens/renovation.rpy:79
-    old "Energy: {}/{}"
-    new "Enerji: {}/{}"
+    old "Energy: [player.energy]/[player.max_energy]"
+    new "Enerji: [player.energy]/[player.max_energy]"
 
     # game/code/renpy/screens/renovation.rpy:84
     old "WORK"

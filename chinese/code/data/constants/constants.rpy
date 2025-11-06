@@ -72,3 +72,63 @@
     old "Travel"
     new "旅行"
 
+    # game/code/data/constants/constants.rpy:77
+    old "Night"
+    new "夜晚"
+
+    # game/code/data/constants/constants.rpy:78
+    old "Late Night"
+    new "深夜"
+
+    # game/code/data/constants/constants.rpy:79
+    old "Early Morning"
+    new "清晨"
+
+    # game/code/data/constants/constants.rpy:80
+    old "Morning"
+    new "早上"
+
+    # game/code/data/constants/constants.rpy:81
+    old "Noon"
+    new "中午"
+
+    # game/code/data/constants/constants.rpy:82
+    old "Afternoon"
+    new "下午"
+
+    # game/code/data/constants/constants.rpy:83
+    old "Evening"
+    new "傍晚"
+
+    # game/code/data/constants/constants.rpy:84
+    old "Nightfall"
+    new "夜幕降临"
+
+    # game/code/data/constants/constants.rpy:84
+    old "Mo"
+    new "一"
+
+    # game/code/data/constants/constants.rpy:84
+    old "Tu"
+    new "二"
+
+    # game/code/data/constants/constants.rpy:84
+    old "We"
+    new "三"
+
+    # game/code/data/constants/constants.rpy:84
+    old "Th"
+    new "四"
+
+    # game/code/data/constants/constants.rpy:84
+    old "Fr"
+    new "五"
+
+    # game/code/data/constants/constants.rpy:84
+    old "Sa"
+    new "六"
+
+    # game/code/data/constants/constants.rpy:84
+    old "Su"
+    new "日"
+
