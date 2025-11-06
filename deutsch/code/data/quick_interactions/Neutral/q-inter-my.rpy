@@ -284,5 +284,5 @@ translate deutsch q_inter_my_10_ccd0c639:
 translate deutsch q_inter_my_4_1b9be8cf:
 
     # my "He wants 4 walls in the gallery... and then the other artists want-"
-    my "He wants 4 walls in the gallery... and then the other artists want-"
+    my "Er möchte vier Wände in der Galerie... und dann wollen die anderen Künstler..."
 
