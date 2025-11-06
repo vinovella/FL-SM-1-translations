@@ -32,13 +32,13 @@ translate deutsch strings:
 
     # game/code/renpy/screens/others.rpy:13
     old "Sync your saves using Ren'Py Sync Server"
-    new "Sync your saves using Ren'Py Sync Server"
+    new "Synchronisiere deine Speicherstände mit dem Ren'Py Sync Server"
 
     # game/code/renpy/screens/others.rpy:139
     old "Please enter your Local IP number:"
-    new "Please enter your Local IP number:"
+    new "Bitte gib deine lokale IP-Nummer ein:"
 
     # game/code/renpy/screens/others.rpy:142
     old "Please enter your HTTP Port number:"
-    new "Please enter your HTTP Port number:"
+    new "Bitte gib deine HTTP-Portnummer ein:"
 
