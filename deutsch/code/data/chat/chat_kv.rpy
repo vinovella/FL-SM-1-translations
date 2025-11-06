@@ -72,5 +72,5 @@ translate deutsch strings:
 
     # game/code/data/chat/chat_kv.rpy:3
     old "What's this one going to be about?"
-    new "What's this one going to be about?"
+    new "Worum wird es gehen?"
 
