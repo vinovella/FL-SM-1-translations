@@ -986,7 +986,7 @@ translate deutsch sm1mv02s06_watersports_d9af6597:
 translate deutsch sm1mv02s06_watersports_78936c65:
 
     # mhmes "Just pee on me! I want to feel your urine splashing all over me!"
-    mhmes "Pinkel mich einfach an! Ich will spüren, wie dein Urin über mich spritzt!"
+    mhmes "Pinkel mich einfach an! Ich will spüren, wie dein Urin über mich läuft!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:786
 translate deutsch sm1mv02s06_watersports_77db8da2:
@@ -1004,7 +1004,7 @@ translate deutsch sm1mv02s06_watersports_fc7917f8:
 translate deutsch sm1mv02s06_watersports_19a932fd:
 
     # mc "Oh God. That was so hot."
-    mc "Oh Gott. Das war so heiß."
+    mc "Oh Gott. Das ist so heiß."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:800
 translate deutsch sm1mv02s06_watersports_6f9ddf07:
