@@ -2412,5 +2412,5 @@ translate deutsch strings:
 translate deutsch sm1cs_mh009_d79e591d:
 
     # mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
-    mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
+    mh "Also... eines der Dinge, die ich schon immer mal machen wollte... ist, in einem BDSM-Club ausgestellt zu werden."
 
