@@ -434,7 +434,7 @@ translate deutsch sm1mv02s09_movie_987f7a37:
 translate deutsch sm1mv02s09_movie_46a432d0:
 
     # ns "We're almost there, Captain, sir!"
-    ns "Wir sind fast da, Captain, Sir!"
+    ns "Wir sind fast soweit, Captain, Sir!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:479
 translate deutsch sm1mv02s09_movie_9bf83b12:
