@@ -194,5 +194,5 @@ translate deutsch q_inter_nr_18_636f1bcd:
 translate deutsch q_inter_nr_8_7ef23e41:
 
     # nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
-    nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
+    nr "*schnüffelt* Mmm. Ja, es braucht noch etwas mehr Dill, bevor es fertig ist."
 
