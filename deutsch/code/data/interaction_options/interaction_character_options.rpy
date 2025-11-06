@@ -376,89 +376,89 @@ translate deutsch strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Choose the movie you want to film"
-    new "Choose the movie you want to film"
+    new "Wähle den Film aus, den du drehen möchtest"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk to Stacy about the second movie"
-    new "Talk to Stacy about the second movie"
+    new "Sprich mit Stacy über den zweiten Film"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Borrow Stacy's Laptop"
-    new "Borrow Stacy's Laptop"
+    new "Stacys Laptop ausleihen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Wurst Delivery Sponsorship"
-    new "Wurst Delivery Sponsorship"
+    new "Wurstlieferung-Sponsoring"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Sci-fi movie"
-    new "Sci-fi movie"
+    new "Science-Fiction-Film"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Min for the Sci-Fi Movie"
-    new "Recruit Min for the Sci-Fi Movie"
+    new "Min für den Science-Fiction-Film rekrutieren"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Sci-Fi Movie props"
-    new "Talk about Sci-Fi Movie props"
+    new "Über Requisiten des Science-Fiction-Films sprechen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Nari for the Sci-Fi Movie"
-    new "Recruit Nari for the Sci-Fi Movie"
+    new "Nari für den Science-Fiction-Film rekrutieren"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about building set for Sci-Fi Movie"
-    new "Talk about building set for Sci-Fi Movie"
+    new "Sprich über den Bau des Sets für den Science-Fiction-Film"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Continue building set for Sci-Fi Movie"
-    new "Continue building set for Sci-Fi Movie"
+    new "Weiterbau des Sets für den Science-Fiction-Film"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Next step for the Sci-Fi Movie"
-    new "Next step for the Sci-Fi Movie"
+    new "Der nächste Schritt für den Science-Fiction-Film"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Prepare for filming the Sci-Fi Movie"
-    new "Prepare for filming the Sci-Fi Movie"
+    new "Bereite dich auf die Dreharbeiten zum Science-Fiction-Film vor"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Start filming the Sci-Fi Movie"
-    new "Start filming the Sci-Fi Movie"
+    new "Beginne mit den Dreharbeiten zum Science-Fiction-Film"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Film the next Sci-Fi Movie scene"
-    new "Film the next Sci-Fi Movie scene"
+    new "Die nächste Szene des Science-Fiction-Films drehen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about going to the spa with Lyssa"
-    new "Talk about going to the spa with Lyssa"
+    new "Über einen Wellness-Ausflug mit Lyssa sprechen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about going to the spa with Min"
-    new "Talk about going to the spa with Min"
+    new "Über einen Wellness-Ausflug mit Min sprechen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about big scenes in Sci-Fi Movie"
-    new "Talk about big scenes in Sci-Fi Movie"
+    new "Über die großen Szenen des Science-Fiction-Films sprechen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Film the final scene of Sci-Fi Movie"
-    new "Film the final scene of Sci-Fi Movie"
+    new "Die letzte Szene des Science-Fiction-Films drehen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Done editing the Sci-Fi Movie"
-    new "Done editing the Sci-Fi Movie"
+    new "Bearbeitung des Science-Fiction-Films abgeschlossen"
 
 translate deutsch strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk with Stacy about her job search"
-    new "Talk with Stacy about her job search"
+    new "Sprich mit Stacy über ihre Jobsuche"
 
 translate deutsch strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Let's go to the Amusement Park"
-    new "Let's go to the Amusement Park"
+    new "Lass uns in den Vergnügungspark gehen"
 
