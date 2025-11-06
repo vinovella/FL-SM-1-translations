@@ -1028,23 +1028,23 @@ translate deutsch sm1cs_mes001_927c1195:
 translate deutsch sm1cs_mes001_66273e86:
 
     # mes "*chuckles wryly* The elephant in the room."
-    mes "*chuckles wryly* The elephant in the room."
+    mes "*lacht ironisch* Der Elefant im Raum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:219
 translate deutsch sm1cs_mes001_9af4df5f:
 
     # mc "*sheepishly* Guilty as charged. The old business management program just wasn't cutting it for me."
-    mc "*sheepishly* Guilty as charged. The old business management program just wasn't cutting it for me."
+    mc "*verlegen* Schuldig im Sinne der Anklage. Das alte Betriebswirtschaftsprogramm hat mir einfach nicht gereicht."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:344
 translate deutsch sm1cs_mes001_3a955c35:
 
     # mc "Are you telling me you almost got a set up for an arranged marriage type date in Korea?"
-    mc "Are you telling me you almost got a set up for an arranged marriage type date in Korea?"
+    mc "Willst du mir damit sagen, dass du in Korea fast zu einem arrangierten Date gezwungen worden wärst?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:368
 translate deutsch sm1cs_mes001_229c1cea:
 
     # mc "Hey, we do that too, but we can be serious when we need to be."
-    mc "Hey, we do that too, but we can be serious when we need to be."
+    mc "Hey, das machen wir auch, aber wir können auch ernst sein, wenn es nötig ist."
 
