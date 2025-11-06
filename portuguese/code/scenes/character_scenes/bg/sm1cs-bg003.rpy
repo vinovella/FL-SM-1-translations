@@ -416,7 +416,7 @@ translate portuguese sm1cs_bg003_bg_appears_4c1c09bd:
 translate portuguese sm1cs_bg003_bg_appears_965ed3d9:
 
     # bg "Hehehehehe."
-    b"Hehehehehe."
+    bg "Hehehehehe."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:273
 translate portuguese sm1cs_bg003_bg_appears_1cf705e5:
