@@ -92,5 +92,5 @@ translate deutsch q_inter_bg_6_e91d05df:
 translate deutsch q_inter_bg_4_55061da7:
 
     # mc "How long can you wear that outfit for?"
-    mc "How long can you wear that outfit for?"
+    mc "Wie lange kannst du dieses Outfit tragen?"
 
