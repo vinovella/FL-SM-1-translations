@@ -48,5 +48,5 @@ translate deutsch strings:
 
     # game/code/debug/dev_labels.rpy:7
     old "Play Simon Says Rehearsal"
-    new "Play Simon Says Rehearsal"
+    new "Spiele „Simon sagt“ Probe"
 
