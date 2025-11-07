@@ -246,5 +246,5 @@ translate deutsch strings:
 translate deutsch sm1ms002_4f8bfe43:
 
     # mc "I haven't started cutting myself yet."
-    mc "I haven't started cutting myself yet."
+    mc "Ich habe noch nicht angefangen, mich selbst zu ritzen."
 
