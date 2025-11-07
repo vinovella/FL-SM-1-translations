@@ -2010,5 +2010,5 @@ translate deutsch strings:
 translate deutsch sm1cs_ns007_walkaway_e0cd2531:
 
     # ns "I will award you...{w}an Eight out of Ten."
-    ns "I will award you...{w}an Eight out of Ten."
+    ns "Ich werde dir... {w}acht von zehn Punkten geben."
 
