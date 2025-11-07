@@ -668,17 +668,17 @@ translate deutsch sm1ms017_end_298609cd:
 translate deutsch sm1ms017_317bedb5:
 
     # mc "What will we do if Melony comes back?"
-    mc "What will we do if Melony comes back?"
+    mc "Was machen wir, wenn Melony zurückkommt?"
 
 # game/code/scenes/main_story/sm1ms017.rpy:415
 translate deutsch sm1ms017_869ad7f6:
 
     # mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
-    mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
+    mc "Nun, wenn Mama in einem Umkreis von zwei Blocks ist, hat sie dich definitiv kommen hören."
 
 # game/code/scenes/main_story/sm1ms017.rpy:451
 translate deutsch sm1ms017_f46b669d_1:
 
     # mc "*chuckles*"
-    mc "*chuckles*"
+    mc "*lacht leise*"
 
