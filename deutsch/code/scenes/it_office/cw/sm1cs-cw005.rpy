@@ -2544,41 +2544,41 @@ translate deutsch strings:
 translate deutsch sm1cs_cw005_pushy_menu_0c1cb963:
 
     # cw "Well, get moving, Mr. Bird."
-    cw "Well, get moving, Mr. Bird."
+    cw "Na los, mach dich auf den Weg, Herr Vogel."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:189
 translate deutsch sm1cs_cw005_pushy_menu_f35fb8a3:
 
     # cw "Well...{w} I'm sure you'll change your tune once we're riding the waves on-"
-    cw "Well...{w} I'm sure you'll change your tune once we're riding the waves on-"
+    cw "Nun...{w} Ich bin mir sicher, dass du deine Meinung ändern wirst, sobald wir auf den Wellen reiten..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:398
 translate deutsch sm1cs_cw005_food_e81143ee:
 
     # cw "I know, Daddy."
-    cw "I know, Daddy."
+    cw "Ich weiß, Papa."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:498
 translate deutsch sm1cs_cw005_food_67b1590d:
 
     # fw "*titters*"
-    fw "*titters*"
+    fw "*kichert*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:672
 translate deutsch sm1cs_cw005_sauna_menu_e46d3ab2:
 
     # mct "Woah. I think this is the first time I've seen Claire really laugh."
-    mct "Woah. I think this is the first time I've seen Claire really laugh."
+    mct "Wow. Ich glaube, das ist das erste Mal, dass ich Claire wirklich lachen sehe."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:927
 translate deutsch sm1cs_cw005_sauna_menu_ecd30e39:
 
     # cw "Never mind. You have the situation well in hand."
-    cw "Never mind. You have the situation well in hand."
+    cw "Macht nichts. Du hast die Situation gut im Griff."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1013
 translate deutsch sm1cs_cw005_sauna_menu_a0ab7e8b:
 
     # mct "And her body keeps shaking whenever my nose brushes her clit."
-    mct "And her body keeps shaking whenever my nose brushes her clit."
+    mct "Und ihr Körper zittert immer wieder, wenn meine Nase ihre Klitoris streift."
 
