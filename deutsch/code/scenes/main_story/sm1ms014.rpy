@@ -1062,5 +1062,5 @@ translate deutsch strings:
 translate deutsch sm1ms014_4834ec4b:
 
     # sy "Uhm, yeah... no internet nudes of me..."
-    sy "Uhm, yeah... no internet nudes of me..."
+    sy "Ähm, ja... keine Nacktfotos von mir im Internet..."
 
