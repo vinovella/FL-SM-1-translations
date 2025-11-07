@@ -102,5 +102,5 @@ translate deutsch strings:
 
     # game/code/scenes/main_story/sm1ms026i.rpy:112
     old "Choose Pirates movie (progress Taisia's story first)"
-    new "Choose Pirates movie (progress Taisia's story first)"
+    new "Wähle den Piratenfilm (zuerst Fortschritt bei Taisias Geschichte)"
 
