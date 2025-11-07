@@ -776,5 +776,5 @@ translate deutsch sm1mv01s04_7816b969:
 translate deutsch sm1mv01s04_08511480:
 
     # tl "But that doesn't mean that it won't fucking hurt if you hit someone with it."
-    tl "But that doesn't mean that it won't fucking hurt if you hit someone with it."
+    tl "Aber das heißt nicht, dass es nicht verdammt wehtut, wenn man jemanden damit schlägt."
 
