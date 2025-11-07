@@ -8,5 +8,5 @@ translate deutsch sm1cs_cw003i_eb884146:
 translate deutsch sm1cs_cw003i_dd91e56f:
 
     # mc "Do you remember my boss's boss, Claire?"
-    mc "Do you remember my boss's boss, Claire?"
+    mc "Erinnerst du dich an die Chefin meiner Chefin, Claire?"
 
