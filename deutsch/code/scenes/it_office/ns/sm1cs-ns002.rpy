@@ -822,5 +822,5 @@ translate deutsch strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "I don't need to know"
-    new "I don't need to know"
+    new "Ich muss das nicht wissen"
 
