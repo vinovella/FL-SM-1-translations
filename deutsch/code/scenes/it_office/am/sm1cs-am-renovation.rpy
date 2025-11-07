@@ -702,29 +702,29 @@ translate deutsch strings:
 translate deutsch sm1cs_am_renovation_later_e7545316:
 
     # am "Fucking charley horse. Nrraaah."
-    am "Fucking charley horse. Nrraaah."
+    am "Verdammter Wadenkrampf. Nrraaah."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:283
 translate deutsch sm1cs_am_renovation_later_796e7fbc:
 
     # mc "Another charley horse?"
-    mc "Another charley horse?"
+    mc "Wieder ein Wadenkrampf?"
 
 translate deutsch strings:
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "I didn't think to ask"
-    new "I didn't think to ask"
+    new "Ich habe nicht daran gedacht zu fragen"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
     old "Ask April what she did"
-    new "Ask April what she did"
+    new "Frag April, was sie getan hat"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
     old "Complain to April"
-    new "Complain to April"
+    new "Beschwere dich bei April"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Promise the answer one day"
-    new "Promise the answer one day"
+    new "Versprich mir die Antwort eines Tages"
 
