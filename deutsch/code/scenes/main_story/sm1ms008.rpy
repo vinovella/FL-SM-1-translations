@@ -890,51 +890,51 @@ translate deutsch strings:
 translate deutsch sm1ms008_4b4bda9d:
 
     # sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-    sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+    sy "Es gibt noch eine letzte Bitte. Sie ist etwas seltsam. Sie wollen, dass das Mädchen rothaarig ist. Also hat [mcname] diese Perücke ausgesucht."
 
 # game/code/scenes/main_story/sm1ms008.rpy:221
 translate deutsch sm1ms008_special_971cdae2:
 
     # mc "Well, we're together now. That's the important part."
-    mc "Well, we're together now. That's the important part."
+    mc "Nun, wir sind jetzt zusammen. Das ist das Wichtigste."
 
 # game/code/scenes/main_story/sm1ms008.rpy:380
 translate deutsch sm1ms008_after_choice_c7b2de42:
 
     # kv "Alright Stacy, why don't you give me some poses."
-    kv "Alright Stacy, why don't you give me some poses."
+    kv "Okay, Stacy, zeig mir doch mal ein paar Posen."
 
 # game/code/scenes/main_story/sm1ms008.rpy:430
 translate deutsch sm1ms008_after_choice_afa6b554:
 
     # mc "Wait, don't you have any cameras we might need, Kanya?"
-    mc "Wait, don't you have any cameras we might need, Kanya?"
+    mc "Warte mal, hast du nicht irgendwelche Kameras, die wir brauchen könnten, Kanya?"
 
 # game/code/scenes/main_story/sm1ms008.rpy:455
 translate deutsch sm1ms008_after_choice_9090b1fc:
 
     # sy "I'm thinking about the extra work we'll have to do to get this super camera."
-    sy "I'm thinking about the extra work we'll have to do to get this super camera."
+    sy "Ich denke über die zusätzliche Arbeit nach, die wir leisten müssen, um diese Superkamera zu bekommen."
 
 # game/code/scenes/main_story/sm1ms008.rpy:482
 translate deutsch sm1ms008_after_choice_6805a231:
 
     # sy "Haha. Good thing that's not [mcname]'s motto."
-    sy "Haha. Good thing that's not [mcname]'s motto."
+    sy "Haha. Gut, dass das nicht das Motto von [mcname] ist."
 
 # game/code/scenes/main_story/sm1ms008.rpy:498
 translate deutsch sm1ms008_after_choice_43fefb83:
 
     # kv "Got it, let me give you my number."
-    kv "Got it, let me give you my number."
+    kv "Verstanden, ich gebe dir meine Nummer."
 
 translate deutsch strings:
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "You should stick with red hair"
-    new "You should stick with red hair"
+    new "Du solltest bei den roten Haaren bleiben"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I think it will do nicely for the scene"
-    new "I think it will do nicely for the scene"
+    new "Ich denke, es passt gut zur Szene"
 
