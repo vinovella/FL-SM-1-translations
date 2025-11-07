@@ -1306,5 +1306,5 @@ translate deutsch strings:
 translate deutsch sm1ms020_0046f9d0:
 
     # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
-    my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+    my "Ich kümmere mich um die Kontakte zwischen Investoren und der Galerie und suche nach neuen Künstlern, die wir präsentieren können..."
 
