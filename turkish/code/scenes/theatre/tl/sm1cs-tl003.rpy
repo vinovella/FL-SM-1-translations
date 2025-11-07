@@ -586,24 +586,6 @@ translate turkish sm1cs_tl003_in_street_0f9e5ba9:
     # sy "Yep, charged it up before we left too."
     sy "Evet, biz de ayrılmadan önce şarj ettik."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:324
-translate turkish sm1cs_tl003_in_street_3057a994:
-
-    # mc "Why aren't we using the new fancy camera?"
-    mc "Neden yeni şık kamerayı kullanmıyoruz?"
-
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:326
-translate turkish sm1cs_tl003_in_street_40918082:
-
-    # sy "Kanya was busy tonight."
-    sy "Bu gece meşguldü."
-
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:327
-translate turkish sm1cs_tl003_in_street_2ece93b8:
-
-    # sy "{size=*0.6}Plus, I want to watch this one up close.{/size}"
-    sy "{size=*0.6}Ayrıca bunu yakından izlemek istiyorum.{/size}"
-
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:331
 translate turkish sm1cs_tl003_in_street_3472af5c:
 

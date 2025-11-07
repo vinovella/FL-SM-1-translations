@@ -76,12 +76,6 @@ translate portuguese sm1cs_vs005i_20bcc98c:
     # vs "I know. But like... half the fun was that we would drop everything and have fun."
     vs "I know. But like... half the fun was that we would drop everything and have fun."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:42
-translate portuguese sm1cs_vs005i_73eea309:
-
-    # vs "I guess I should reset the alert."
-    vs "I guess I should reset the alert."
-
 translate portuguese strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:15

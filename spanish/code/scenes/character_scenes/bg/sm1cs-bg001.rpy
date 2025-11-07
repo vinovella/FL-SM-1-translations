@@ -664,18 +664,6 @@ translate spanish sm1cs_bg001_more_talking_ae293271:
     # mc "And where do you find all of your outfits?"
     mc "¿Y dónde encuentras todos tus atuendos?"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:344
-translate spanish sm1cs_bg001_more_talking_5c89062f:
-
-    # bg "There's a shop in town and I special order a lot of things through them."
-    bg "Hay una tienda en la ciudad y les hago muchos pedidos especiales."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:347
-translate spanish sm1cs_bg001_more_talking_c7c91852:
-
-    # mc "Huh... There's a fetish shop for leather outfits in town?"
-    mc "Huh... ¿Hay una tienda de fetiche para trajes de cuero en la ciudad?"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:349
 translate spanish sm1cs_bg001_more_talking_31367741:
 

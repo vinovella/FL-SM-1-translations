@@ -76,12 +76,6 @@ translate chinese sm1cs_vs005i_20bcc98c:
     # vs "I know. But like... half the fun was that we would drop everything and have fun."
     vs "我知道。但是...乐趣的一半就在于我们能放下一切去玩。"
 
-# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:42
-translate chinese sm1cs_vs005i_73eea309:
-
-    # vs "I guess I should reset the alert."
-    vs "我想我应该重新设置警报了。"
-
 translate chinese strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:15

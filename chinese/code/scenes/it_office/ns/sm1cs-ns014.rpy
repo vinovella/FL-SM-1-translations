@@ -46,36 +46,6 @@ translate chinese sm1cs_ns014_a64e8bc0:
     # mc "Thanks."
     mc "谢谢。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:45
-translate chinese sm1cs_ns014_d1f109cd:
-
-    # ns "Still? I already finished all of mine."
-    ns "还在做？我的都已经全部完成了。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:49
-translate chinese sm1cs_ns014_bcd1a23a:
-
-    # mc "Look at you."
-    mc "瞧你的。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:52
-translate chinese sm1cs_ns014_fbe88e7d:
-
-    # ns "Hehe. Aren't you already looking at me?"
-    ns "呵呵，你不是已经在看我了吗？"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:55
-translate chinese sm1cs_ns014_0817892e:
-
-    # mc "Always."
-    mc "一直都在看。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:58
-translate chinese sm1cs_ns014_337020a3:
-
-    # ns "*giggling* I hope I'm not too distracting."
-    ns "*咯咯笑*我希望我不会太让你分心。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:61
 translate chinese sm1cs_ns014_1e28232c:
 

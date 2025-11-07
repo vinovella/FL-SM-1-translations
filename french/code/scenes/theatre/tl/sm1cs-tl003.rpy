@@ -592,24 +592,6 @@ translate french sm1cs_tl003_in_street_0f9e5ba9:
     # sy "Yep, charged it up before we left too."
     sy "Yep, charged it up before we left too."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:325
-translate french sm1cs_tl003_in_street_3057a994:
-
-    # mc "Why aren't we using the new fancy camera?"
-    mc "Why aren't we using the new fancy camera?"
-
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:327
-translate french sm1cs_tl003_in_street_40918082:
-
-    # sy "Kanya was busy tonight."
-    sy "Kanya was busy tonight."
-
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:328
-translate french sm1cs_tl003_in_street_2ece93b8:
-
-    # sy "{size=*0.6}Plus, I want to watch this one up close.{/size}"
-    sy "{size=*0.6}Plus, I want to watch this one up close.{/size}"
-
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:332
 translate french sm1cs_tl003_in_street_3472af5c:
 

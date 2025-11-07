@@ -586,24 +586,6 @@ translate spanish sm1cs_tl003_in_street_0f9e5ba9:
     # sy "Yep, charged it up before we left too."
     sy "Sí, también la cargué antes de salir."
 
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:324
-translate spanish sm1cs_tl003_in_street_3057a994:
-
-    # mc "Why aren't we using the new fancy camera?"
-    mc "¿Por qué no usamos la nueva y elegante cámara?"
-
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:326
-translate spanish sm1cs_tl003_in_street_40918082:
-
-    # sy "Kanya was busy tonight."
-    sy "Kanya estaba ocupada esta noche."
-
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:327
-translate spanish sm1cs_tl003_in_street_2ece93b8:
-
-    # sy "{size=*0.6}Plus, I want to watch this one up close.{/size}"
-    sy "{size=*0.6}Además, quiero ver esta de cerca.{/size}"
-
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:331
 translate spanish sm1cs_tl003_in_street_3472af5c:
 

@@ -664,18 +664,6 @@ translate chinese sm1cs_bg001_more_talking_ae293271:
     # mc "And where do you find all of your outfits?"
     mc "你这些行头都是从哪儿搞来的？"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:344
-translate chinese sm1cs_bg001_more_talking_5c89062f:
-
-    # bg "There's a shop in town and I special order a lot of things through them."
-    bg "城里有个专卖店，很多东西都是特别定制的。"
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:347
-translate chinese sm1cs_bg001_more_talking_c7c91852:
-
-    # mc "Huh... There's a fetish shop for leather outfits in town?"
-    mc "咦...咱们这儿还有卖皮革制品的成人用品店？"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:349
 translate chinese sm1cs_bg001_more_talking_31367741:
 

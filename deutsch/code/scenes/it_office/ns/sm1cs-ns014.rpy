@@ -46,36 +46,6 @@ translate deutsch sm1cs_ns014_a64e8bc0:
     # mc "Thanks."
     mc "Danke."
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:45
-translate deutsch sm1cs_ns014_d1f109cd:
-
-    # ns "Still? I already finished all of mine."
-    ns "Trotzdem? Ich habe meine schon alle fertig."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:49
-translate deutsch sm1cs_ns014_bcd1a23a:
-
-    # mc "Look at you."
-    mc "Sieh dich an."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:52
-translate deutsch sm1cs_ns014_fbe88e7d:
-
-    # ns "Hehe. Aren't you already looking at me?"
-    ns "Hehe. Siehst du mich nicht schon an?"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:55
-translate deutsch sm1cs_ns014_0817892e:
-
-    # mc "Always."
-    mc "Immer."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:58
-translate deutsch sm1cs_ns014_337020a3:
-
-    # ns "*giggling* I hope I'm not too distracting."
-    ns "*kichert* Ich hoffe, ich lenke dich nicht zu sehr ab."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:61
 translate deutsch sm1cs_ns014_1e28232c:
 

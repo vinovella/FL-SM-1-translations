@@ -664,18 +664,6 @@ translate turkish sm1cs_bg001_more_talking_ae293271:
     # mc "And where do you find all of your outfits?"
     mc "Peki bütün kıyafetlerini nereden buluyorsun?"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:344
-translate turkish sm1cs_bg001_more_talking_5c89062f:
-
-    # bg "There's a shop in town and I special order a lot of things through them."
-    bg "Şehirde bir dükkan var ve ben birçok şeyi oradan özel siparişle alıyorum."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:347
-translate turkish sm1cs_bg001_more_talking_c7c91852:
-
-    # mc "Huh... There's a fetish shop for leather outfits in town?"
-    mc "Huh... Kasabada deri kıyafetler satan bir fetiş dükkanı mı var?"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:349
 translate turkish sm1cs_bg001_more_talking_31367741:
 

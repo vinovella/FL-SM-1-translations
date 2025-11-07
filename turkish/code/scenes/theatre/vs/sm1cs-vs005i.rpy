@@ -76,12 +76,6 @@ translate turkish sm1cs_vs005i_20bcc98c:
     # vs "I know. But like... half the fun was that we would drop everything and have fun."
     vs "Biliyorum. Ama... eğlencenin yarısı her şeyi bırakıp eğlenmemizdi."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:42
-translate turkish sm1cs_vs005i_73eea309:
-
-    # vs "I guess I should reset the alert."
-    vs "Sanırım uyarıyı sıfırlamalıyım."
-
 translate turkish strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:15

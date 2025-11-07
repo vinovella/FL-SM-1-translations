@@ -76,12 +76,6 @@ translate italian sm1cs_vs005i_20bcc98c:
     # vs "I know. But like... half the fun was that we would drop everything and have fun."
     vs "Lo so. Ma tipo... metà del divertimento era che avremmo mollato tutto e ci saremmo divertiti."
 
-# game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:41
-translate italian sm1cs_vs005i_73eea309:
-
-    # vs "I guess I should reset the alert."
-    vs "Immagino che dovrei resettare l'allarme."
-
 translate italian strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs005i.rpy:15

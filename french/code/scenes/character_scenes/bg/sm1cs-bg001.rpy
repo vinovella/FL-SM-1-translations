@@ -664,18 +664,6 @@ translate french sm1cs_bg001_more_talking_ae293271:
     # mc "And where do you find all of your outfits?"
     mc "And where do you find all of your outfits?"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:344
-translate french sm1cs_bg001_more_talking_5c89062f:
-
-    # bg "There's a shop in town and I special order a lot of things through them."
-    bg "There's a shop in town and I special order a lot of things through them."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:347
-translate french sm1cs_bg001_more_talking_c7c91852:
-
-    # mc "Huh... There's a fetish shop for leather outfits in town?"
-    mc "Huh... There's a fetish shop for leather outfits in town?"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:349
 translate french sm1cs_bg001_more_talking_31367741:
 

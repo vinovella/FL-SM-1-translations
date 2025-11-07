@@ -664,18 +664,6 @@ translate deutsch sm1cs_bg001_more_talking_ae293271:
     # mc "And where do you find all of your outfits?"
     mc "Und wo findest du all deine Outfits?"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:344
-translate deutsch sm1cs_bg001_more_talking_5c89062f:
-
-    # bg "There's a shop in town and I special order a lot of things through them."
-    bg "Es gibt einen Laden in der Stadt, bei dem ich viele Dinge speziell bestelle."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:347
-translate deutsch sm1cs_bg001_more_talking_c7c91852:
-
-    # mc "Huh... There's a fetish shop for leather outfits in town?"
-    mc "Hm... Es gibt einen Fetischladen für Lederoutfits in der Stadt?"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:349
 translate deutsch sm1cs_bg001_more_talking_31367741:
 

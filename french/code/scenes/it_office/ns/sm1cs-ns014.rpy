@@ -46,36 +46,6 @@ translate french sm1cs_ns014_a64e8bc0:
     # mc "Thanks."
     mc "Thanks."
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:45
-translate french sm1cs_ns014_d1f109cd:
-
-    # ns "Still? I already finished all of mine."
-    ns "Still? I already finished all of mine."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:49
-translate french sm1cs_ns014_bcd1a23a:
-
-    # mc "Look at you."
-    mc "Look at you."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:52
-translate french sm1cs_ns014_fbe88e7d:
-
-    # ns "Hehe. Aren't you already looking at me?"
-    ns "Hehe. Aren't you already looking at me?"
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:55
-translate french sm1cs_ns014_0817892e:
-
-    # mc "Always."
-    mc "Always."
-
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:58
-translate french sm1cs_ns014_337020a3:
-
-    # ns "*giggling* I hope I'm not too distracting."
-    ns "*giggling* I hope I'm not too distracting."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:61
 translate french sm1cs_ns014_1e28232c:
 
