@@ -1692,17 +1692,17 @@ translate deutsch strings:
 translate deutsch sm1cs_am004_sex_ce4eb6af:
 
     # mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
-    mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
+    mc "Hör mal, ich weiß, dass du mich ständig nur schikanierst, aber ich will mir nicht den Schwanz abbeißen lassen."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:987
 translate deutsch sm1cs_am004_after_spank_94b939c6:
 
     # mc "Come on. You know the {b}word{/b} I'm waiting for."
-    mc "Come on. You know the {b}word{/b} I'm waiting for."
+    mc "Komm schon. Du weißt, auf welches {b}Wort{/b} ich warte."
 
 translate deutsch strings:
 
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
     old "Later that evening\nAt Guns n' Rosette"
-    new "Later that evening\nAt Guns n' Rosette"
+    new "Später am Abend\nBei Guns n' Rosette"
 
