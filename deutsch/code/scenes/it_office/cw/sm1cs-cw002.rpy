@@ -240,15 +240,15 @@ translate deutsch strings:
 translate deutsch sm1cs_cw002_e0bf352d:
 
     # mc "Of course. I won't let you down, Ms. Watts."
-    mc "Of course. I won't let you down, Ms. Watts."
+    mc "Natürlich. Ich werde dich nicht enttäuschen, Frau Watts."
 
 translate deutsch strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I like it"
-    new "I like it"
+    new "Ich mag es"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I don't like it"
-    new "I don't like it"
+    new "Ich mag es nicht"
 
