@@ -680,17 +680,17 @@ translate deutsch sm1ms006_061f6f43:
 translate deutsch sm1ms006_e6186b8f:
 
     # mc "I think so too. But... AmRose said something kind of interesting."
-    mc "I think so too. But... AmRose said something kind of interesting."
+    mc "Das finde ich auch. Aber... AmRose hat etwas Interessantes gesagt."
 
 # game/code/scenes/main_story/sm1ms006.rpy:239
 translate deutsch sm1ms006_eac16535:
 
     # sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
-    sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
+    sy "Ist doch keine große Sache? Ich meine, du hast gelogen, als du von der Unmenge an Pornos erzählt hast, die du unter deinem Bett versteckt hattest, [mcname]."
 
 # game/code/scenes/main_story/sm1ms006.rpy:453
 translate deutsch sm1ms006_ed03918c:
 
     # sy "You going to get dressed?"
-    sy "You going to get dressed?"
+    sy "Ziehst du dich an?"
 
