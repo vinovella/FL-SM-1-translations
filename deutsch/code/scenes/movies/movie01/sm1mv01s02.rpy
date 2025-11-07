@@ -2006,5 +2006,5 @@ translate deutsch strings:
 translate deutsch sm1mv01s02_later_1e8e7e72:
 
     # mc "I think it's the perfect outfit for a pirate queen."
-    mc "I think it's the perfect outfit for a pirate queen."
+    mc "Ich finde, das ist das perfekte Outfit für eine Piratenkönigin."
 
