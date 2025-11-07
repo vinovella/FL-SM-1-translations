@@ -1950,5 +1950,5 @@ translate deutsch strings:
 translate deutsch sm1cs_ns012_after_shower_9bc32cdb:
 
     # ns "Mhwaaah. Nothing like a hot shower after being fucked so good."
-    ns "Mhwaaah. Nothing like a hot shower after being fucked so good."
+    ns "Mhwaaah. Es geht nichts über eine heiße Dusche, nachdem man so gut gefickt wurde."
 
