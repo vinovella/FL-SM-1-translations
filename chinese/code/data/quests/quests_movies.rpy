@@ -184,3 +184,99 @@
     old "Talk with Stacy to film the second movie"
     new "与史黛西交谈拍摄第二部电影"
 
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Wait until the next early morning to talk with Stacy about the movie"
+    new "等到下一天清晨与史黛西谈论电影"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Buy costumes and recruit an actress for the movie"
+    new "为电影购买服装并招募一名女演员"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Keep investing in the costume budget to prepare the outfits"
+    new "继续向服装预算投入资金以准备服装"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Stacy to hire an actress"
+    new "与史黛西交谈雇用一名女演员"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Add money to buy props and energy to build them"
+    new "添加购买道具的金钱和建造它们的能量"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Add money to buy props"
+    new "添加购买道具的金钱"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Add energy to build the props"
+    new "添加建造道具的能量"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk to Stacy in the morning to start filming the movie"
+    new "上午与史黛西交谈开始拍摄电影"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Taisia to start filming the next scene"
+    new "与泰西娅交谈开始拍摄下一场景"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Stacy wants to talk to you at noon."
+    new "史黛西想在中午与你交谈。"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Wait until early morning to talk with Stacy about the Sci-Fi movie"
+    new "等到清晨与史黛西谈论科幻电影"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Recruit Lyssa or Min as the actress for the Sci-Fi movie (you can only recruit one)"
+    new "招募丽莎或明作为科幻电影的女演员（你只能招募一个）"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Recruit Nari as the lead actress for the Sci-Fi movie"
+    new "招募娜丽作为科幻电影的女主角"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk to Stacy about Sci-Fi movie props"
+    new "与史黛西谈论科幻电影道具"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk to Stacy in the afternoon about the next step for the Sci-Fi movie"
+    new "下午与史黛西谈论科幻电影的下一步"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk to Stacy to prepare for filming the Sci-Fi movie"
+    new "与史黛西交谈准备拍摄科幻电影"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Add money to pay actresses and energy to prepare outfits"
+    new "添加支付女演员的金钱和准备服装的能量"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk to Stacy in the evening to start filming the Sci-Fi movie"
+    new "晚上与史黛西交谈开始拍摄科幻电影"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Stacy to film the next Sci-Fi movie scene"
+    new "与史黛西交谈拍摄下一个科幻电影场景"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Stacy about big scenes in the Sci-Fi movie"
+    new "与史黛西谈论科幻电影的大场面"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk to Stacy at the studio in the early morning"
+    new "清晨在工作室与史黛西交谈"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Stacy to film the final scene of the Sci-Fi movie"
+    new "与史黛西交谈拍摄科幻电影的最后场景"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Add energy to edit the Sci-Fi movie"
+    new "添加剪辑科幻电影的能量"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Tell Stacy that you are done editing the Sci-Fi movie in the afternoon"
+    new "下午告诉史黛西你完成了科幻电影的剪辑"
+

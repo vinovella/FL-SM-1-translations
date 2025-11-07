@@ -200,8 +200,6 @@
     old "Talk with Veronica in the afternoon"
     new "下午与维罗妮卡交谈"
 
-translate chinese strings:
-
     # game/code/data/quests/quests_theater.rpy:3
     old "Have ${}/$50"
     new "拥有${}/$50"
@@ -221,4 +219,80 @@ translate chinese strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Go to Theater to meet Taisia"
     new "前往剧院与泰西娅见面"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Invite Stacy to the amusement park during the day"
+    new "白天邀请史黛西前往游乐园"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Go to the Theater for an audition during the day"
+    new "白天前往剧院参加试镜"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Veronica's and Kellie's storylines"
+    new "推进维罗妮卡和凯莉的故事线"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least {}/3 times"
+    new "至少进行{}/3次周六演出"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have {}/10 total Relationship Points with the Theater girls"
+    new "与剧院女孩们拥有{}/10总关系点数"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least {}/3 times and have {}/10 total Relationship Points with the Theater girls"
+    new "至少进行{}/3次周六演出并与剧院女孩们拥有{}/10总关系点数"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least 3 times and have 10 total Relationship Points with the Theater girls"
+    new "至少进行3次周六演出并与剧院女孩们拥有10总关系点数"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Visit the Theater at noon"
+    new "中午访问剧院"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Denise about the Wurst Delivery sponsorship in her office"
+    new "在她的办公室与丹尼斯谈论Wurst Delivery赞助"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do a Theater show on Saturday"
+    new "在周六进行一场剧院演出"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Ask Denise how the play performed"
+    new "询问丹尼斯剧目表现如何"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress the Theater Story"
+    new "推进剧院故事"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Denise in her office"
+    new "在丹尼斯的办公室与她交谈"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Practice with Denise in her office"
+    new "在丹尼斯的办公室与她一起练习"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Wait a day"
+    new "等待一天"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk with Taisia about \"work\" during the daytime"
+    new "白天与泰西娅谈论\"工作\""
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Go to the Theater to meet Taisia"
+    new "前往剧院与泰西娅见面"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Buy the 'Stars Weekly' magazine from the store"
+    new "在商店购买《Stars Weekly》杂志"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Get your Film and TV topic to 3"
+    new "将你的影视话题技能提升到3"
 

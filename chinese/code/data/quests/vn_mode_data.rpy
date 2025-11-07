@@ -708,3 +708,23 @@
     old "Renovation help from Debbie"
     new "来自黛比的装修帮助"
 
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress Denise's, Kellie's, and Veronica's storylines"
+    new "推进丹尼斯、凯莉和维罗妮卡的故事线"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress the Theater and Taisia's storylines"
+    new "推进剧院和泰西娅的故事线"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress Lyssa's storyline and the Main Story"
+    new "推进丽莎的故事线和主线剧情"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress Anna's and Nari's storylines"
+    new "推进安娜和娜丽的故事线"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
+    new "推进丹尼斯、凯莉、泰西娅和维罗妮卡的故事线"
+
