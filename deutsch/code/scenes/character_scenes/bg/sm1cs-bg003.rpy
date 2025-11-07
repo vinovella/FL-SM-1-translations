@@ -1396,18 +1396,6 @@ translate deutsch sm1cs_bg003_whipping_742c9fba:
     # bg "Of course, [bg_mcname!t]. You're in charge."
     bg "Natürlich, [bg_mcname!t]. Du hast das Sagen."
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:755
-translate deutsch sm1cs_bg003_whipping_c23c3183:
-
-    # mc "Would that work for you?"
-    mc "Wäre das für dich in Ordnung?"
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:758
-translate deutsch sm1cs_bg003_whipping_1ad962f3_1:
-
-    # bg "Yes, [bg_mcname!t]."
-    bg "Ja, [bg_mcname!t]."
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:762
 translate deutsch sm1cs_bg003_whipping_feeee509:
 

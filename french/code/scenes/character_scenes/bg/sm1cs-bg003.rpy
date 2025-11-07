@@ -1396,18 +1396,6 @@ translate french sm1cs_bg003_whipping_742c9fba:
     # bg "Of course, [bg_mcname!t]. You're in charge."
     bg "Of course, [bg_mcname!t]. You're in charge."
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:756
-translate french sm1cs_bg003_whipping_c23c3183:
-
-    # mc "Would that work for you?"
-    mc "Would that work for you?"
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:759
-translate french sm1cs_bg003_whipping_1ad962f3_1:
-
-    # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:763
 translate french sm1cs_bg003_whipping_feeee509:
 

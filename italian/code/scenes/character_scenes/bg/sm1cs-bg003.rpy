@@ -1396,18 +1396,6 @@ translate italian sm1cs_bg003_whipping_742c9fba:
     # bg "Certo, [bg_mcname!t]. Sei tu al comando."
     bg "Certo, [bg_mcname!t]. Sei tu al comando."
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:756
-translate italian sm1cs_bg003_whipping_c23c3183:
-
-    # mc "Andrebbe bene per te?"
-    mc "Andrebbe bene per te?"
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:759
-translate italian sm1cs_bg003_whipping_1ad962f3_1:
-
-    # bg "Sì, [bg_mcname!t]."
-    bg "Sì, [bg_mcname!t]."
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:763
 translate italian sm1cs_bg003_whipping_feeee509:
 
