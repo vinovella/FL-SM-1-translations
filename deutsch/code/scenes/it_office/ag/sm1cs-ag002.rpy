@@ -640,5 +640,5 @@ translate deutsch strings:
 translate deutsch sm1cs_ag002_47fea000:
 
     # mc "You know, \"Aubergine Anna\"?"
-    mc "You know, \"Aubergine Anna\"?"
+    mc "Kennst du \"Aubergine Anna\"?"
 
