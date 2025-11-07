@@ -1994,23 +1994,23 @@ translate deutsch strings:
 translate deutsch sm1cs_cw004_later_6251a886:
 
     # cw "How is he, Daddy?"
-    cw "How is he, Daddy?"
+    cw "Wie geht es ihm, Papa?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:674
 translate deutsch sm1cs_cw004_first_evening_7d3aec05:
 
     # fw "Farah please, [mcname]."
-    fw "Farah please, [mcname]."
+    fw "Farah bitte, [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:900
 translate deutsch sm1cs_cw004_first_evening_19a0c527:
 
     # cw "*whispers* Stop resisting."
-    cw "*whispers* Stop resisting."
+    cw "*flüstert* Hör auf, dich zu wehren."
 
 translate deutsch strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
     old "Sure let's do it"
-    new "Sure let's do it"
+    new "Klar, machen wir das."
 
