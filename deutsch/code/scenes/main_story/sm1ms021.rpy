@@ -584,65 +584,65 @@ translate deutsch sm1ms021_3829caaa:
 translate deutsch sm1ms021_f93fec35:
 
     # mc "You're talking about my dick, right?"
-    mc "You're talking about my dick, right?"
+    mc "Du sprichst von meinem Schwanz, oder?"
 
 # game/code/scenes/main_story/sm1ms021.rpy:92
 translate deutsch sm1ms021_ceba888b:
 
     # sy "This space... it's not just a studio anymore. It's starting to feel like our dream is finally taking shape."
-    sy "This space... it's not just a studio anymore. It's starting to feel like our dream is finally taking shape."
+    sy "Dieser Raum ... ist nicht mehr nur ein Studio. Es fühlt sich langsam so an, als würde unser Traum endlich Gestalt annehmen."
 
 # game/code/scenes/main_story/sm1ms021.rpy:107
 translate deutsch sm1ms021_cedf59a8:
 
     # sy "Same here. I mean, you're the one who kept me sane through all of this."
-    sy "Same here. I mean, you're the one who kept me sane through all of this."
+    sy "Ich auch. Ich meine, du bist derjenige, der mich während dieser ganzen Zeit bei Verstand gehalten hat."
 
 # game/code/scenes/main_story/sm1ms021.rpy:112
 translate deutsch sm1ms021_1092c087:
 
     # sy "And with Mom around, it's been just a little bit more hectic."
-    sy "And with Mom around, it's been just a little bit more hectic."
+    sy "Und mit Mama da ist es noch ein bisschen hektischer geworden."
 
 # game/code/scenes/main_story/sm1ms021.rpy:217
 translate deutsch sm1ms021_532bc35f:
 
     # sy "I guess so long as the check clears, I'm not complaining."
-    sy "I guess so long as the check clears, I'm not complaining."
+    sy "Solange der Scheck gedeckt ist, habe ich nichts zu beanstanden."
 
 # game/code/scenes/main_story/sm1ms021.rpy:218
 translate deutsch sm1ms021_2aa31d72:
 
     # sy "And now that we've got the extra power and space in the studio, this film is going to be even better than the first one."
-    sy "And now that we've got the extra power and space in the studio, this film is going to be even better than the first one."
+    sy "Und jetzt, wo wir im Studio über zusätzliche Leistung und Platz verfügen, wird dieser Film noch besser werden als der erste."
 
 # game/code/scenes/main_story/sm1ms021.rpy:222
 translate deutsch sm1ms021_3a6cba59:
 
     # mct "She's got a point. This is the kind of project that could put us on the map if we nail it."
-    mct "She's got a point. This is the kind of project that could put us on the map if we nail it."
+    mct "Sie hat recht. Das ist genau die Art von Projekt, die uns bekannt machen könnte, wenn wir es richtig angehen."
 
 # game/code/scenes/main_story/sm1ms021.rpy:226
 translate deutsch sm1ms021_d5128873:
 
     # mc "Alright, let's start brainstorming then."
-    mc "Alright, let's start brainstorming then."
+    mc "Okay, dann fangen wir mit dem Brainstorming an."
 
 # game/code/scenes/main_story/sm1ms021.rpy:232
 translate deutsch sm1ms021_1b494305:
 
     # sy "Hold on there, Spielberg. We can't just jump in without a solid plan and, more importantly, without money."
-    sy "Hold on there, Spielberg. We can't just jump in without a solid plan and, more importantly, without money."
+    sy "Moment mal, Spielberg. Wir können nicht einfach loslegen, ohne einen soliden Plan und, was noch wichtiger ist, ohne Geld."
 
 # game/code/scenes/main_story/sm1ms021.rpy:282
 translate deutsch sm1ms021_67f7648d:
 
     # mc "Alright, let's map this out. First, we secure the funding. Then, we finalize the concept for the scene."
-    mc "Alright, let's map this out. First, we secure the funding. Then, we finalize the concept for the scene."
+    mc "Okay, lass uns einen Plan erstellen. Zuerst sichern wir die Finanzierung. Dann finalisieren wir das Konzept für die Szene."
 
 # game/code/scenes/main_story/sm1ms021.rpy:312
 translate deutsch sm1ms021_bd60b7b9:
 
     # mc "Let's do this. For the studio and for the dream."
-    mc "Let's do this. For the studio and for the dream."
+    mc "Lass es uns tun. Für das Studio und für den Traum."
 
