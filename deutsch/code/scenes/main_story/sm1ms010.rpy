@@ -1196,7 +1196,7 @@ translate deutsch strings:
 
     # game/code/scenes/main_story/sm1ms010.rpy:491
     old "Knock yourself out."
-    new "Gib dir alle Mühe."
+    new "Tue dir keinen Zwang an."
 
     # game/code/scenes/main_story/sm1ms010.rpy:491
     old "No thanks (Lock off Foot Fetish Content)"
@@ -1206,17 +1206,17 @@ translate deutsch strings:
 
     # game/code/scenes/main_story/sm1ms010.rpy:106
     old "Yeah, me too"
-    new "Yeah, me too"
+    new "Ja, ich auch"
 
     # game/code/scenes/main_story/sm1ms010.rpy:189
     old "She's doing fine"
-    new "She's doing fine"
+    new "Es geht ihr gut"
 
     # game/code/scenes/main_story/sm1ms010.rpy:338
     old "Kiss her again and continue"
-    new "Kiss her again and continue"
+    new "Küss sie erneut und fahre fort"
 
     # game/code/scenes/main_story/sm1ms010.rpy:338
     old "Stop things from going further"
-    new "Stop things from going further"
+    new "Verhinder, dass die Dinge noch weiter eskalieren"
 
