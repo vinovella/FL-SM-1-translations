@@ -2670,59 +2670,59 @@ translate deutsch strings:
 translate deutsch sm1cs_am007_ed615167:
 
     # mct "I wonder what the call is about.{w} Seemed important."
-    mct "I wonder what the call is about.{w} Seemed important."
+    mct "Ich frage mich, worum es bei dem Anruf ging.{w} Es schien wichtig zu sein."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:114
 translate deutsch sm1cs_am007_44f8eb4e:
 
     # ps "We should have listened better and we should accept that sometimes you're going to miss practice."
-    ps "We should have listened better and we should accept that sometimes you're going to miss practice."
+    ps "Wir hätten besser zuhören sollen und wir sollten akzeptieren, dass man manchmal das Training verpasst."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:212
 translate deutsch sm1cs_am007_c4c994b5:
 
     # am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
-    am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
+    am "Ich arbeite in der Tech-Branche.{w} Jeder Tag ist wie ein Scheißsandwich zum Frühstück und ein Cocktail voller Ängste zum Mittagessen."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:213
 translate deutsch sm1cs_am007_45358e8c:
 
     # am "And this week has been order on the double-shit sandwich."
-    am "And this week has been order on the double-shit sandwich."
+    am "Und diese Woche war es doppelt so schlimm."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:525
 translate deutsch sm1cs_am007_20_minutes_later_01c49227:
 
     # mc "I have a sudden thirst for a big glass of milk."
-    mc "I have a sudden thirst for a big glass of milk."
+    mc "Ich habe plötzlich Lust auf ein großes Glas Milch."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:528
 translate deutsch sm1cs_am007_20_minutes_later_7368538e:
 
     # am "You're here to run.{w} Not ogle my tits."
-    am "You're here to run.{w} Not ogle my tits."
+    am "Du bist hier, um zu laufen.{w} Nicht, um meine Titten anzustarren."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1250
 translate deutsch sm1cs_am007_one_hour_later_36b9f516:
 
     # mc "Anyone standing near this building might have heard us."
-    mc "Anyone standing near this building might have heard us."
+    mc "Jeder, der in der Nähe dieses Gebäudes stand, könnte uns gehört haben."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1288
 translate deutsch sm1cs_am007_one_hour_later_6d10752d:
 
     # mct "I almost said \"at Fetish Locator parties\"."
-    mct "I almost said \"at Fetish Locator parties\"."
+    mct "Ich hätte fast gesagt \"auf Fetisch-Locator-Partys\"."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1336
 translate deutsch sm1cs_am007_one_hour_later_620b174c:
 
     # mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
-    mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
+    mct "Das ist etwas verzwickt. Ich sollte mich auf niemanden einlassen, ohne ihm vorher zu erklären, warum ich überhaupt zu Orbix gekommen bin."
 
 translate deutsch strings:
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "Surprised it's taking you this long"
-    new "Surprised it's taking you this long"
+    new "Überrascht, dass du so lange brauchst"
 
