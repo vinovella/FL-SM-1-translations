@@ -468,5 +468,5 @@ translate deutsch strings:
 translate deutsch sm1cs_cw003_c8642c96:
 
     # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
-    mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
+    mc "Ihre Mutter ist so erleichtert und sagt, sie sei froh, dass Claire diese \"Sex\" App nicht mehr benutzen muss."
 
