@@ -878,5 +878,5 @@ translate deutsch sm1ms025_827ba594:
 translate deutsch sm1ms025_01a929b4:
 
     # sy "She stole my flash drive."
-    sy "She stole my flash drive."
+    sy "Sie hat meinen USB-Stick gestohlen."
 
