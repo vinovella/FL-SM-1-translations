@@ -392,5 +392,5 @@ translate deutsch sm1cs_mh002_92b73ecf:
 translate deutsch sm1cs_mh002_4165b5fc:
 
     # mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
-    mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
+    mh "Es klingt so, als ob du, sobald du in Fahrt gekommen warst, ziemlich schnell den Schleier des Geheimnisses lüften konntest, um herauszufinden, was Lydia vorhatte."
 
