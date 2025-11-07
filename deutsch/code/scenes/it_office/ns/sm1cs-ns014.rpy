@@ -1200,65 +1200,65 @@ translate deutsch sm1cs_ns014_studio_026d1f00:
 translate deutsch sm1cs_ns014_studio_56ae4acc:
 
     # mc "You're a natural, Nari."
-    mc "You're a natural, Nari."
+    mc "Du bist ein Naturtalent, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:385
 translate deutsch sm1cs_ns014_studio_f6999e6a:
 
     # ns "Heehee, stop it. I'm shy!"
-    ns "Heehee, stop it. I'm shy!"
+    ns "Heehee, hör auf damit. Ich bin schüchtern!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:388
 translate deutsch sm1cs_ns014_studio_9904ae8d:
 
     # sy "Lies! You're eating this up."
-    sy "Lies! You're eating this up."
+    sy "Lügen! Du glaubst das doch selber nicht."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:406
 translate deutsch sm1cs_ns014_studio_c5db71ea:
 
     # sy "And leave you to..."
-    sy "And leave you to..."
+    sy "Und dich zurücklassen bei..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:459
 translate deutsch sm1cs_ns014_studio_0444f710:
 
     # mc "Yeah. I should've told you sooner."
-    mc "Yeah. I should've told you sooner."
+    mc "Ja. Ich hätte es dir früher sagen sollen."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:463
 translate deutsch sm1cs_ns014_studio_7d588463:
 
     # ns "That's so wild, [mcname]. So all this camera gear is for... wow."
-    ns "That's so wild, [mcname]. So all this camera gear is for... wow."
+    ns "Das ist ja unglaublich, [mcname]. Also ist diese ganze Kameraausrüstung für... wow."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:467
 translate deutsch sm1cs_ns014_studio_8664f48e:
 
     # mc "I'm sorry for keeping it from you. Can you forgive me?"
-    mc "I'm sorry for keeping it from you. Can you forgive me?"
+    mc "Es tut mir leid, dass ich es dir verheimlicht habe. Kannst du mir verzeihen?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:553
 translate deutsch sm1cs_ns014_studio_658994d8:
 
     # mc "Never mind."
-    mc "Never mind."
+    mc "Egal."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:578
 translate deutsch sm1cs_ns014_studio_f95ee359:
 
     # mc "Really? You'd want to? As in actually be filmed in scenes with me?"
-    mc "Really? You'd want to? As in actually be filmed in scenes with me?"
+    mc "Wirklich? Das würdest du wollen? Du würdest tatsächlich in Szenen mit mir gefilmt werden wollen?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:602
 translate deutsch sm1cs_ns014_studio_33145967:
 
     # mc "Of course. Whatever you're comfortable with."
-    mc "Of course. Whatever you're comfortable with."
+    mc "Natürlich. Was immer dir lieber ist."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:609
 translate deutsch sm1cs_ns014_studio_883c4173:
 
     # sy "I'm so excited! We're gonna have so much fun, Nari."
-    sy "I'm so excited! We're gonna have so much fun, Nari."
+    sy "Ich bin so aufgeregt! Wir werden so viel Spaß haben, Nari."
 
