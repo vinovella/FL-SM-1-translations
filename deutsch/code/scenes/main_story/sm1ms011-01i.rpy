@@ -242,11 +242,11 @@ translate deutsch strings:
 translate deutsch sm1ms011_01i_e3c7f05c:
 
     # sy "There is an IT company in Crowning that is looking for new coders."
-    sy "There is an IT company in Crowning that is looking for new coders."
+    sy "Es gibt ein IT-Unternehmen in Crowning, das neue Programmierer sucht."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:40
 translate deutsch sm1ms011_01i_31340d6f:
 
     # sy "There is an IT Company called Orbix in Crowning. They're looking for a new software engineer."
-    sy "There is an IT Company called Orbix in Crowning. They're looking for a new software engineer."
+    sy "In Crowning gibt es ein IT-Unternehmen namens Orbix. Sie suchen einen neuen Softwareentwickler."
 
