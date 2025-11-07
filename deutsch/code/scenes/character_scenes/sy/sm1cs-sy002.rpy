@@ -1238,17 +1238,17 @@ translate deutsch sm1cs_sy002_dc_talk_074ea2e5:
 translate deutsch sm1cs_sy002_77589fcc:
 
     # mc "It sounds like you've been planning this idea out for a while, Stacy."
-    mc "It sounds like you've been planning this idea out for a while, Stacy."
+    mc "Es klingt, als hättest du diese Idee schon eine Weile geplant, Stacy."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:267
 translate deutsch sm1cs_sy002_2_221a6943:
 
     # sy "But never mind that! Let's get into the acting!"
-    sy "But never mind that! Let's get into the acting!"
+    sy "Aber egal! Kommen wir zur Schauspielerei!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:587
 translate deutsch sm1cs_sy002_dc_talk_4558d886:
 
     # mc "{size=*0.7}She looks like the park cop.{/size}"
-    mc "{size=*0.7}She looks like the park cop.{/size}"
+    mc "{size=*0.7}Sie sieht aus wie die Parkpolizistin.{/size}"
 
