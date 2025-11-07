@@ -482,35 +482,35 @@ translate deutsch strings:
 translate deutsch sm1ms011_it_039d17e4:
 
     # sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
-    sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
+    sy "Okay, einverstanden. Apropos Firma, du hast mir noch nicht viel über die Leute dort erzählt."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:113
 translate deutsch sm1fs_i011_it_talk_ns_ac838888:
 
     # mc "This girl Nari Song is pretty cute."
-    mc "This girl Nari Song is pretty cute."
+    mc "Dieses Mädchen Nari Song ist ziemlich süß."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:212
 translate deutsch sm1fs_i011_it_talk_am_09c55492:
 
     # mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
-    mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
+    mc "Vielleicht. Wenn es mit anderen Leuten schon mal nicht geklappt hat, ist sie vielleicht einfach nur noch genervt von Anfängern."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:215
 translate deutsch sm1fs_i011_it_talk_am_36deca91:
 
     # sy "Hmmmph. That's no excuse to be rude to you or the new girl."
-    sy "Hmmmph. That's no excuse to be rude to you or the new girl."
+    sy "Hmmmph. Das ist keine Entschuldigung dafür, unhöflich zu dir oder der Neuen zu sein."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:242
 translate deutsch sm1ms011_it_continue_36be2754:
 
     # sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
-    sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
+    sy "Auf keinen Fall. Großer Fehler, Kumpel. Denk mal darüber nach. Sie könnte die größte heimliche Perverse von allen sein."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:277
 translate deutsch sm1ms011_it_continue_d4b1ca4d:
 
     # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
-    sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
+    sy "Großartig. Ich kenne dich, [mcname]. Was auch immer du dir vornimmst, ich bin mir sicher, dass du es mit Bravour meistern wirst."
 
