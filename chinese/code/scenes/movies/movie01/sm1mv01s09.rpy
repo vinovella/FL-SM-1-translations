@@ -1022,7 +1022,7 @@ translate chinese sm1mv01s09_movie_start_7cb0b8ee:
 translate chinese sm1mv01s09_movie_start_af03591c:
 
     # sy "Mmmmmm, what are you going to do about it?"
-    sy "嗯……你能拿我怎样？"
+    sy "嗯...你能拿我怎样？"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:584
 translate chinese sm1mv01s09_movie_start_d06eb266:
@@ -1238,7 +1238,7 @@ translate chinese sm1mv01s09_movie_start_69abacef:
 translate chinese sm1mv01s09_movie_start_ccb4dffc:
 
     # tl "Th... that's how you... choke someone...!"
-    tl "这...这才是...让人窒息的……正确方式...!"
+    tl "这...这才是...让人窒息的...正确方式...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:674
 translate chinese sm1mv01s09_movie_start_0d53b838:
@@ -1316,619 +1316,619 @@ translate chinese sm1mv01s09_movie_start_4b9093a8:
 translate chinese sm1mv01s09_movie_start_79e4d286:
 
     # mc "Fuck, she {i}really{/i} likes what you're doing, Tempestra! Her pussy is so fucking tight now!"
-    mc "Fuck, she {i}really{/i} likes what you're doing, Tempestra! Her pussy is so fucking tight now!"
+    mc "操，她{i}真的很{/i}喜欢你这样，风暴海姬！她的小穴现在紧得要命！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:703
 translate chinese sm1mv01s09_movie_start_a3832100:
 
     # mc "And she is so wet, Gods!"
-    mc "And she is so wet, Gods!"
+    mc "而且她湿成这样，老天！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:704
 translate chinese sm1mv01s09_movie_start_0c4171b4:
 
     # mc "The only thing wetter, is Davy Jones' locker!"
-    mc "The only thing wetter, is Davy Jones' locker!"
+    mc "按这湿透的架势，怕是只有‘水漫龙宫’能比了！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:707
 translate chinese sm1mv01s09_movie_start_0c4ac69a:
 
     # sy "You... you... harlot!"
-    sy "You... you... harlot!"
+    sy "你...你...你这贱货！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:708
 translate chinese sm1mv01s09_movie_start_8596aa50:
 
     # mc "Fuck, this is —- ngggggh!"
-    mc "Fuck, this is —- ngggggh!"
+    mc "操，这真是--呃啊啊啊！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:711
 translate chinese sm1mv01s09_movie_start_8eedd137:
 
     # tl "Fuh... fuuuhhhhh..."
-    tl "Fuh... fuuuhhhhh..."
+    tl "嗯...嗯啊啊啊..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:712
 translate chinese sm1mv01s09_movie_start_772c607f:
 
     # sy "Good, it's your turn to cum like a little slut!"
-    sy "Good, it's your turn to cum like a little slut!"
+    sy "很好，现在轮到你像个小荡妇一样高潮了！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:715
 translate chinese sm1mv01s09_movie_start_1fec0341:
 
     # tl "I... I'm... nnggghhhh...!"
-    tl "I... I'm... nnggghhhh...!"
+    tl "我...我要...唔唔唔...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:716
 translate chinese sm1mv01s09_movie_start_6df3141b:
 
     # sy "Yes, that's it, that's-"
-    sy "Yes, that's it, that's-"
+    sy "没错，就是这样--"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:723
 translate chinese sm1mv01s09_movie_start_4e1d9384:
 
     # tl "F... u... c... k...!"
-    tl "F... u... c... k...!"
+    tl "呃...啊...次...奥...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:725
 translate chinese sm1mv01s09_movie_start_550d44bc:
 
     # sy "Yesss..."
-    sy "Yesss..."
+    sy "很好..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:729
 translate chinese sm1mv01s09_movie_start_aa836959:
 
     # sy "Defeated?"
-    sy "Defeated?"
+    sy "认输了吗？"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:730
 translate chinese sm1mv01s09_movie_start_23d7846d:
 
     # tl "*breathing deeply* It'll... take more than... that..."
-    tl "*breathing deeply* It'll... take more than... that..."
+    tl "*深呼吸* 还...还差得...远呢..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:734
 translate chinese sm1mv01s09_movie_start_96f473be:
 
     # sy "Well, while you rest-"
-    sy "Well, while you rest-"
+    sy "好吧，趁你休息--"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:738
 translate chinese sm1mv01s09_movie_start_1f894204:
 
     # sy "It's time for you to try out my ass, my secret weapon, Dickhart."
-    sy "It's time for you to try out my ass, my secret weapon, Dickhart."
+    sy "硬汉迪克，是时候让你试试我的屁股了，我的秘密武器。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:740
 translate chinese sm1mv01s09_movie_start_c14c584c:
 
     # mc "Well..."
-    mc "Well..."
+    mc "这个..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:744
 translate chinese sm1mv01s09_movie_start_9973a3cd:
 
     # mc "Don't mind if I-"
-    mc "Don't mind if I-"
+    mc "那我就不客气--"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:751
 translate chinese sm1mv01s09_movie_start_6b94905c:
 
     # mc "What the hell are you doing, Scarlet!?"
-    mc "What the hell are you doing, Scarlet!?"
+    mc "你这是在干什么，斯嘉丽!?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:753
 translate chinese sm1mv01s09_movie_start_33659c65:
 
     # tl "I can't let you forget about me!"
-    tl "I can't let you forget about me!"
+    tl "我不能让你忘了我！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:754
 translate chinese sm1mv01s09_movie_start_56d86af6:
 
     # mc "I don't mind that at all..."
-    mc "I don't mind that at all..."
+    mc "我可是完全不介意..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:762
 translate chinese sm1mv01s09_movie_start_c0187d5d:
 
     # sy "Oh fuck!"
-    sy "Oh fuck!"
+    sy "哦操！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:763
 translate chinese sm1mv01s09_movie_start_6abe6c01:
 
     # mc "Holy shit, you've got a tight, infernal asshole, Tempestra!"
-    mc "Holy shit, you've got a tight, infernal asshole, Tempestra!"
+    mc "我去，你的屁眼真是紧得要命，风暴海姬！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:766
 translate chinese sm1mv01s09_movie_start_22d688c4:
 
     # sy "Nnggghhhh - I told - mmppppgggggg - told you!"
-    sy "Nnggghhhh - I told - mmppppgggggg - told you!"
+    sy "嗯嗯嗯--我告诉过--噢噢噢--告诉过你！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:769
 translate chinese sm1mv01s09_movie_start_4baad9ce:
 
     # mc "Shit!"
-    mc "Shit!"
+    mc "靠！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:770
 translate chinese sm1mv01s09_movie_start_cb38a118:
 
     # mc "Oh, fuck, Scarlet! You're not — ngggggh!"
-    mc "Oh, fuck, Scarlet! You're not — ngggggh!"
+    mc "我操，斯嘉丽！你该不会--呃呃呃！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:773
 translate chinese sm1mv01s09_movie_start_4f1d7e57:
 
     # sy "What is that-"
-    sy "What is that-"
+    sy "怎么回事--"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:774
 translate chinese sm1mv01s09_movie_start_790a34b4:
 
     # sy "Is that wench sucking your balls!?"
-    sy "Is that wench sucking your balls!?"
+    sy "那个贱人在舔你的蛋蛋!?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:777
 translate chinese sm1mv01s09_movie_start_ae0e2a2c:
 
     # tl "Oh - shhlllrrrrrp - yeah."
-    tl "Oh - shhlllrrrrrp - yeah."
+    tl "哦--嘶溜嘶溜--没错。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:778
 translate chinese sm1mv01s09_movie_start_1f3c13f4:
 
     # sy "Wench! He's mine!"
-    sy "Wench! He's mine!"
+    sy "贱人！他是我的！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:781
 translate chinese sm1mv01s09_movie_start_855087cc:
 
     # tl "Shlllllrrrrrp - shut up and - shhllrrrrrrppppp - enjoy getting your ass plowed!"
-    tl "Shlllllrrrrrp - shut up and - shhllrrrrrrppppp - enjoy getting your ass plowed!"
+    tl "嘶溜嘶溜...闭嘴，啧啧...嘶溜...你就好好享受被干屁股的快感吧！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:782
 translate chinese sm1mv01s09_movie_start_2b591029:
 
     # sy "I - oh fuck! Keep - yessss, like that!"
-    sy "I - oh fuck! Keep - yessss, like that!"
+    sy "我...啊啊啊操！继续--好爽...就是这样！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:785
 translate chinese sm1mv01s09_movie_start_1281aa14:
 
     # sy "Keep ramming my porculis, Dickhart!"
-    sy "Keep ramming my porculis, Dickhart!"
+    sy "继续猛干我的屁眼，硬汉迪克！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:786
 translate chinese sm1mv01s09_movie_start_44ac1015:
 
     # tl "What - shlllrrrrppp - a good angle I have!"
-    tl "What - shlllrrrrppp - a good angle I have!"
+    tl "这角度...啧啧啧...真他妈爽！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:789
 translate chinese sm1mv01s09_movie_start_778e6fb7:
 
     # sy "Oh yesssss, keep going! I'm - mmmmmmmm - oh, I'm getting close!"
-    sy "Oh yesssss, keep going! I'm - mmmmmmmm - oh, I'm getting close!"
+    sy "噢噢噢，继续！我...嗯嗯嗯嗯...我--我快来了！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:792
 translate chinese sm1mv01s09_movie_start_26a8fd13:
 
     # sy "Fuhh..."
-    sy "Fuhh..."
+    sy "操..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:795
 translate chinese sm1mv01s09_movie_start_7e586368:
 
     # tl "That's it - shlllrp - let yourself go!"
-    tl "That's it - shlllrp - let yourself go!"
+    tl "就是这样...吸溜吸溜...放纵自己吧！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:796
 translate chinese sm1mv01s09_movie_start_2dc725b6:
 
     # sy "I... I..."
-    sy "I... I..."
+    sy "我...我..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:799
 translate chinese sm1mv01s09_movie_start_b2d7016b:
 
     # sy "Fucking pound me, Dickhart! Fuck my tight little asshole!"
-    sy "Fucking pound me, Dickhart! Fuck my tight little asshole!"
+    sy "狠狠地操我，硬汉迪克！操我的紧致小屁眼！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:800
 translate chinese sm1mv01s09_movie_start_9ad44ead:
 
     # sy "It's all - oh Gods - it's all yours!"
-    sy "It's all - oh Gods - it's all yours!"
+    sy "全都...哦天啊...全都属于你！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:801
 translate chinese sm1mv01s09_movie_start_5c4dff0f:
 
     # mc "Nnnngggggg!"
-    mc "Nnnngggggg!"
+    mc "嗯嗯嗯嗯嗯！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:804
 translate chinese sm1mv01s09_movie_start_8caae15d:
 
     # tl "Shlllrrrrrp!"
-    tl "Shlllrrrrrp!"
+    tl "嘶溜嘶溜！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:805
 translate chinese sm1mv01s09_movie_start_e0724767:
 
     # sy "K-Kalypso save me! Fuuuuuuck!"
-    sy "K-Kalypso save me! Fuuuuuuck!"
+    sy "要死了...海、海神...救我！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:806
 translate chinese sm1mv01s09_movie_start_9cd05c47:
 
     # sy "Oh Gods, oh Gods! I'm - I'm-!"
-    sy "Oh Gods, oh Gods! I'm - I'm-!"
+    sy "哦 天啊，哦天啊！我--我--！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:813
 translate chinese sm1mv01s09_movie_start_939e01b2:
 
     # sy "Fuck, fuck, fuck, FUCK!"
-    sy "Fuck, fuck, fuck, FUCK!"
+    sy "操，操，操，操！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:814
 translate chinese sm1mv01s09_movie_start_c9a23040:
 
     # tl "Shlllrpppp - like a good wench!"
-    tl "Shlllrpppp - like a good wench!"
+    tl "嘶溜...做个听话的小骚货！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:815
 translate chinese sm1mv01s09_movie_start_7a496bb6:
 
     # sy "Fuuuuuuuuuuucccckkk!"
-    sy "Fuuuuuuuuuuucccckkk!"
+    sy "操啊啊啊啊啊！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:820
 translate chinese sm1mv01s09_movie_start_31f95cdb:
 
     # sy "Shit..."
-    sy "Shit..."
+    sy "啊..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:822
 translate chinese sm1mv01s09_movie_start_cb44a4dc:
 
     # tl "Time to finish her off, Dickhart."
-    tl "Time to finish her off, Dickhart."
+    tl "是时候解决她了，硬汉迪克。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:823
 translate chinese sm1mv01s09_movie_start_1e9d13ca:
 
     # sy "What?..."
-    sy "What?..."
+    sy "什么？..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:826
 translate chinese sm1mv01s09_movie_start_afd7b748:
 
     # tl "He's not done yet."
-    tl "He's not done yet."
+    tl "他还没完事呢。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:827
 translate chinese sm1mv01s09_movie_start_dca07149:
 
     # tl "And I think you should cum straight down her throat, Captain."
-    tl "And I think you should cum straight down her throat, Captain."
+    tl "而且我认为你应该直接射进她喉咙深处，船长。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:829
 translate chinese sm1mv01s09_movie_start_bba4ee57:
 
     # mc "I like that idea, Scarlet."
-    mc "I like that idea, Scarlet."
+    mc "我喜欢这个主意，斯嘉丽。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:830
 translate chinese sm1mv01s09_movie_start_8dd5fd1b:
 
     # tl "And in case that isn't enough..."
-    tl "And in case that isn't enough..."
+    tl "要是那样还不够劲..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:836
 translate chinese sm1mv01s09_movie_start_de0518e5:
 
     # sy "What are you... two doing...?"
-    sy "What are you... two doing...?"
+    sy "你们...两个...要干什么...?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:843
 translate chinese sm1mv01s09_movie_start_7eac7403:
 
     # tl "Winning."
-    tl "Winning."
+    tl "我们要赢得胜利。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:848
 translate chinese sm1mv01s09_movie_start_dbadb8b0:
 
     # mc "Oh fuck!"
-    mc "Oh fuck!"
+    mc "哦，操！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:849
 translate chinese sm1mv01s09_movie_start_d2609442:
 
     # sy "Huac, huac, huuuuuacccc!"
-    sy "Huac, huac, huuuuuacccc!"
+    sy "咳，咳，咳唔唔唔！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:852
 translate chinese sm1mv01s09_movie_start_13e4e460:
 
     # mc "God, your throat is so tight!"
-    mc "God, your throat is so tight!"
+    mc "天啊，你喉咙好紧！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:853
 translate chinese sm1mv01s09_movie_start_6bb6e04f:
 
     # tl "Sllrrrp, sllllrrppp!"
-    tl "Sllrrrp, sllllrrppp!"
+    tl "嘶溜嘶溜...嘶溜嘶溜！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:856
 translate chinese sm1mv01s09_movie_start_695bb954:
 
     # mc "Oh Gods, Tempestra! I'm - nggggg - not going to last long!"
-    mc "Oh Gods, Tempestra! I'm - nggggg - not going to last long!"
+    mc "天啊，风暴海姬！我...嗯嗯嗯呃...我快--坚持不住了！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:857
 translate chinese sm1mv01s09_movie_start_8b98c81e:
 
     # sy "Huuuacccc, huuuuuuuuaaaaacccc!"
-    sy "Huuuacccc, huuuuuuuuaaaaacccc!"
+    sy "咳，咳，咳咳咳！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:860
 translate chinese sm1mv01s09_movie_start_106f17da:
 
     # tl "Sllrrrrrppppppp!"
-    tl "Sllrrrrrppppppp!"
+    tl "嘶溜嘶溜！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:863
 translate chinese sm1mv01s09_movie_start_b9db8b45:
 
     # sy "Hnnnnnnng, huuuaccc, hnnnnnnggggaaaaa!"
-    sy "Hnnnnnnng, huuuaccc, hnnnnnnggggaaaaa!"
+    sy "咳噗噗，咳咳，咳唔唔唔唔！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:864
 translate chinese sm1mv01s09_movie_start_de653d91:
 
     # mc "Oh yes, oh fuck!"
-    mc "Oh yes, oh fuck!"
+    mc "爽死我了，操！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:867
 translate chinese sm1mv01s09_movie_start_15996a57:
 
     # mc "Oh shiiiii-"
-    mc "Oh shiiiii-"
+    mc "哦靠靠靠--"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:870
 translate chinese sm1mv01s09_movie_start_f4a554b4:
 
     # mc "Oh Gods, I'm- Nnnnnggggg!"
-    mc "Oh Gods, I'm- Nnnnnggggg!"
+    mc "天啊，我要--嗯嗯嗯嗯嗯！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:873
 translate chinese sm1mv01s09_movie_start_0791e2c3:
 
     # sy "Huuac, huuuac, hnnnnng!"
-    sy "Huuac, huuuac, hnnnnng!"
+    sy "咳咳，咳唔唔唔唔！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:878
 translate chinese sm1mv01s09_movie_start_e5cd560b:
 
     # mc "Shiver{w} me-"
-    mc "Shiver{w} me-"
+    mc "我…我的魂儿{w}--"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:883
 translate chinese sm1mv01s09_movie_start_cf7cd821:
 
     # mc "TIMBERS!"
-    mc "TIMBERS!"
+    mc "要飞了！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:887
 translate chinese sm1mv01s09_movie_start_d3b0d62d:
 
     # sy "Mmmrrrngnnnnngggg!!!"
-    sy "Mmmrrrngnnnnngggg!!!"
+    sy "嗯嗯嗯嗯嗯嗯嗯!!!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:892
 translate chinese sm1mv01s09_movie_start_bda71f74:
 
     # sy "Ohhhh fuuuuuuccccck!"
-    sy "Ohhhh fuuuuuuccccck!"
+    sy "呃啊啊啊操！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:893
 translate chinese sm1mv01s09_movie_start_cb6578a9:
 
     # sy "FUUUUUUCKKKK!"
-    sy "FUUUUUUCKKKK!"
+    sy "操操操操！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:896
 translate chinese sm1mv01s09_movie_start_14f10fac:
 
     # tl "Seems like that one did the trick."
-    tl "Seems like that one did the trick."
+    tl "看来这一招奏效了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:898
 translate chinese sm1mv01s09_movie_start_e3168584:
 
     # sy "Mmrrmmmm..."
-    sy "Mmrrmmmm..."
+    sy "嗯..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:902
 translate chinese sm1mv01s09_movie_start_38d7047e:
 
     # tl "Looks like I won, Tempestra."
-    tl "Looks like I won, Tempestra."
+    tl "看来是我赢了，风暴海姬。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:905
 translate chinese sm1mv01s09_movie_start_75a128ba:
 
     # mc "What do you think we should do with her, Scarlet?"
-    mc "What do you think we should do with her, Scarlet?"
+    mc "斯嘉丽，你觉得该怎么处置她？"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:907
 translate chinese sm1mv01s09_movie_start_6cba0ed7:
 
     # tl "I have an idea..."
-    tl "I have an idea..."
+    tl "我有个主意..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:910
 translate chinese sm1mv01s09_movie_start_29ec4b2b:
 
     # mc "Huh... what are you-?"
-    mc "Huh... what are you-?"
+    mc "嗯...你是要--？"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:912
 translate chinese sm1mv01s09_movie_start_70aac4cb:
 
     # mc "Oh, I see."
-    mc "Oh, I see."
+    mc "我明白了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:915
 translate chinese sm1mv01s09_movie_start_5af7791c:
 
     # mc "Oh, I like that."
-    mc "Oh, I like that."
+    mc "哦，我喜欢那样。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:917
 translate chinese sm1mv01s09_movie_start_7293f217:
 
     # tl "Think it will hold?"
-    tl "Think it will hold?"
+    tl "你觉得它能撑住吗？"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:918
 translate chinese sm1mv01s09_movie_start_5ef70042:
 
     # mc "I think so."
-    mc "I think so."
+    mc "我想可以。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:921
 translate chinese sm1mv01s09_movie_start_cf88d197:
 
     # tl "Good."
-    tl "Good."
+    tl "很好。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:923
 translate chinese sm1mv01s09_movie_start_4f6bf094:
 
     # mc "It's what she deserves."
-    mc "It's what she deserves."
+    mc "这是她应得的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:927
 translate chinese sm1mv01s09_movie_start_4b76e9e1:
 
     # tl "Leave her with that traitor, Bob. Those two deserve each other. Let's go get our chests and start loading up the treasure."
-    tl "Leave her with that traitor, Bob. Those two deserve each other. Let's go get our chests and start loading up the treasure."
+    tl "让她和那个叛徒鲍勃在一起吧。他们两个真是天生一对。我们去拿箱子，开始装运宝藏。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:940
 translate chinese sm1mv01s09_movie_start_204a14bc:
 
     # mc "So, Searose, what now?"
-    mc "So, Searose, what now?"
+    mc "那么，海萝，现在怎么办？"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:942
 translate chinese sm1mv01s09_movie_start_a6e2f17b:
 
     # tl "Hmm..."
-    tl "Hmm..."
+    tl "嗯..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:948
 translate chinese sm1mv01s09_movie_start_b95fec9a:
 
     # tl "Time to rebuild my ship, crew..."
-    tl "Time to rebuild my ship, crew..."
+    tl "是时候重建我的船队了..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:951
 translate chinese sm1mv01s09_movie_start_28ab14f7:
 
     # tl "There's a big world out there... a whole wide seven seas to see..."
-    tl "There's a big world out there... a whole wide seven seas to see..."
+    tl "外面的世界可大着呢...七大洋广阔无边，都等着人们探险..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:952
 translate chinese sm1mv01s09_movie_start_9c122b6e:
 
     # tl "And I want to see it all."
-    tl "And I want to see it all."
+    tl "而我想把它们都逛个遍。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:955
 translate chinese sm1mv01s09_movie_start_faed12d0:
 
     # mc "That sounds like a good plan, Scarlet."
-    mc "That sounds like a good plan, Scarlet."
+    mc "这主意听起来真不错，斯嘉丽。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:957
 translate chinese sm1mv01s09_movie_start_064ab82d:
 
     # tl "What about you, Dickhart?"
-    tl "What about you, Dickhart?"
+    tl "那你呢，硬汉迪克？"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:960
 translate chinese sm1mv01s09_movie_start_822e3a85:
 
     # mc "No idea... I guess I'll go wherever the wind brings me."
-    mc "No idea... I guess I'll go wherever the wind brings me."
+    mc "不知道...我想，我会随风漂流，到哪儿算哪儿。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:962
 translate chinese sm1mv01s09_movie_start_8ca656a5:
 
     # tl "You know... I'm sure we could continue our partnership a little longer."
-    tl "You know... I'm sure we could continue our partnership a little longer."
+    tl "你知道...我觉得我们的合作或许还能再延续一阵子。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:963
 translate chinese sm1mv01s09_movie_start_cde42d85:
 
     # mc "And what makes you think I still trust you?"
-    mc "And what makes you think I still trust you?"
+    mc "你凭什么觉得我还会相信你？"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:966
 translate chinese sm1mv01s09_movie_start_29656fc0:
 
     # tl "Mmmm. Call it a hunch."
-    tl "Mmmm. Call it a hunch."
+    tl "嗯...就当是直觉。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:969
 translate chinese sm1mv01s09_movie_start_5374e7b2:
 
     # mc "Well, maybe you stick around for a month or two. I have a feeling adventure will never be far with you around."
-    mc "Well, maybe you stick around for a month or two. I have a feeling adventure will never be far with you around."
+    mc "好吧，也许你可以再待一两个月。我有种预感，有你在身边，冒险就永远不会缺席。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:975
 translate chinese sm1mv01s09_movie_start_6f505dce:
 
     # tl "Exactly. Who knows... maybe we'll find the edge of the map, and all new treasures to plunder."
-    tl "Exactly. Who knows... maybe we'll find the edge of the map, and all new treasures to plunder."
+    tl "可不是嘛。谁知道呢...说不定我们能找到地图的尽头，还能发现更多新宝藏去掠夺。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:977
 translate chinese sm1mv01s09_movie_start_42e992f0:
 
     # mc "And new wenches to fuck."
-    mc "And new wenches to fuck."
+    mc "还有新的小骚货可以操。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:978
 translate chinese sm1mv01s09_movie_start_63570b2c:
 
     # tl "I like the sound of that."
-    tl "I like the sound of that."
+    tl "我喜欢这个说法。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:997
 translate chinese sm1mv01s09_movie_end_a6354780:
 
     # sy "You'll pay for this, Dickhart... I sweat it on the devil's black heart!"
-    sy "You'll pay for this, Dickhart... I sweat it on the devil's black heart!"
+    sy "你会为此付出代价的，硬汉迪克...我对着魔鬼的黑心发誓！"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:998
 translate chinese sm1mv01s09_movie_end_44e4456e:
 
     # sy "I'll {w} Make {w}You {w} Pay."
-    sy "I'll {w} Make {w}You {w} Pay."
+    sy "我会{w}让{w}你{w}付出代价的。"
 
 translate chinese strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s09.rpy:208
     old "Back in the cave"
-    new "Back in the cave"
+    new "回到洞穴"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:318
 translate chinese sm1mv01s09_movie_start_e2f21eec:
@@ -1940,7 +1940,7 @@ translate chinese sm1mv01s09_movie_start_e2f21eec:
 translate chinese sm1mv01s09_movie_start_cf748506:
 
     # tl "I think we finally found a good use for that devilish tongue of hers."
-    tl "I think we finally found a good use for that devilish tongue of hers."
+    tl "我看她那张巧舌如簧的小嘴，这回可算派上正经用场了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:595
 translate chinese sm1mv01s09_movie_start_e642e4c1:
