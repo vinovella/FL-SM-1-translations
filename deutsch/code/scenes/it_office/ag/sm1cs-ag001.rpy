@@ -740,47 +740,47 @@ translate deutsch strings:
 translate deutsch sm1cs_ag001_493be2ed:
 
     # mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
-    mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
+    mj "Mein Team hat es geschafft, diesen Analysefehler zu beheben, der uns wirklich auf den Nägeln gebrannt hat. Jetzt sagt Jayden, dass die Stresstest-Warnungen ausgelöst werden, wenn wir bei fünfzehn Prozent Kapazität sind."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:234
 translate deutsch sm1cs_ag001_314d6ac2:
 
     # mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
-    mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
+    mct "Die Geschichte von Eva Kingsley, die verdeckt im skandalumwitterten Marquis Club ermittelt."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:238
 translate deutsch sm1cs_ag001_9e2758b7:
 
     # mct "This certainly deserves an Adults Only rating."
-    mct "This certainly deserves an Adults Only rating."
+    mct "Das verdient auf jeden Fall eine Einstufung als „Nur für Erwachsene“."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
 translate deutsch sm1cs_ag001_8601bed3:
 
     # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
-    mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
+    mct "Aus diesem Grund denke ich, dass Anna sich für Fetish Locator interessiert hätte, wenn es nicht geschlossen worden wäre."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:243
 translate deutsch sm1cs_ag001_499c380f:
 
     # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
-    mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
+    mct "Ich hätte trotzdem nicht hinsehen sollen. Jetzt weiß ich, dass sie pervers ist, aber ich kann ja nicht einfach zu ihr hingehen und sagen: \"Hey, ich habe gehört, dass du auf Demütigungs-Pornos stehst\"."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:246
 translate deutsch sm1cs_ag001_30f8e87b:
 
     # mc "Oh cool, they're making a movie based on the book."
-    mc "Oh cool, they're making a movie based on the book."
+    mc "Oh cool, sie drehen einen Film basierend auf dem Buch."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:398
 translate deutsch sm1cs_ag001_continue_68649b33:
 
     # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
-    ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
+    ag "Aber sie ist wahrscheinlich die beste Programmiererin in Crowning, und es ist ein Privileg, sie im Team zu haben. Mit all ihren Fehlern und Schwächen."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
 translate deutsch sm1cs_ag001_continue_be0ef968:
 
     # mct "Oh I don't think either of us would mind that, Anna."
-    mct "Oh I don't think either of us would mind that, Anna."
+    mct "Oh, ich glaube, das würde uns beiden nichts ausmachen, Anna."
 
