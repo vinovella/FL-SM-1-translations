@@ -70,5 +70,5 @@ translate deutsch strings:
 translate deutsch sm1ms005_02i_5ddbcfce:
 
     # sy "Alright. Let's do it."
-    sy "Alright. Let's do it."
+    sy "Okay. Los geht's."
 
