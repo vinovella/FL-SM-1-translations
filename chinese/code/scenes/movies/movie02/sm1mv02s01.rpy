@@ -86,7 +86,7 @@ translate chinese sm1mv02s01_8ae6dbbb:
 translate chinese sm1mv02s01_6a48e6f5:
 
     # mc "\"Star Voyage VI: Babe-lyon 9\"."
-    mc "\"星际航行6：艳女星9号\"。"
+    mc "\"星际航行6：艳女之星9号\"。"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:91
 translate chinese sm1mv02s01_f801c251:
