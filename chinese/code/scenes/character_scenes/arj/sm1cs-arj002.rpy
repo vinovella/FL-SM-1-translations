@@ -1154,211 +1154,211 @@ translate chinese sm1cs_arj002_27ed1416:
 translate chinese sm1cs_arj002_cd24d819:
 
     # arj "I've been such a fool.{w} Stacy..."
-    arj "I've been such a fool.{w} Stacy..."
+    arj "我真是个傻瓜。{w}史黛西..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:625
 translate chinese sm1cs_arj002_decfec76:
 
     # arj "I owe you an apology too. While everything was ending last year, well..."
-    arj "I owe you an apology too. While everything was ending last year, well..."
+    arj "我也欠你一个道歉。去年一切都结束的时候，嗯..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:626
 translate chinese sm1cs_arj002_63476571:
 
     # arj "Sometimes inner demons speak louder than angels."
-    arj "Sometimes inner demons speak louder than angels."
+    arj "有时候内心的恶魔比天使说话更响亮。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:629
 translate chinese sm1cs_arj002_b7d444ad:
 
     # sy "There is nothing to apologize for, AmRose."
-    sy "There is nothing to apologize for, AmRose."
+    sy "没什么好道歉的，爱洛丝。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:630
 translate chinese sm1cs_arj002_27383dc4:
 
     # sy "Well... *coughs lightly* Nothing that you can't make up for."
-    sy "Well... *coughs lightly* Nothing that you can't make up for."
+    sy "嗯...*轻咳* 没有什么是你不能弥补的。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:633
 translate chinese sm1cs_arj002_e3ce5fb5:
 
     # arj "Mmmm. I did do a bad thing. And penance... sounds appropriate."
-    arj "Mmmm. I did do a bad thing. And penance... sounds appropriate."
+    arj "嗯。我确实做了坏事。赎罪...听起来合适。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:635
 translate chinese sm1cs_arj002_79914e5f:
 
     # mc "Not at all, my little plaything."
-    mc "Not at all, my little plaything."
+    mc "完全不需要，我的小玩物。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:636
 translate chinese sm1cs_arj002_800546a9:
 
     # mc "Are you ready to continue filming?"
-    mc "Are you ready to continue filming?"
+    mc "你准备好继续拍摄了吗？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:639
 translate chinese sm1cs_arj002_4c52213a:
 
     # arj "Yes... [mcname]."
-    arj "Yes... [mcname]."
+    arj "是的...[mcname]。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:641
 translate chinese sm1cs_arj002_02822644:
 
     # arj "I mean...{w}Yes, [arj_mcname!t]."
-    arj "I mean...{w}Yes, [arj_mcname!t]."
+    arj "我的意思是...{w}是的，[arj_mcname!t]。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:646
 translate chinese sm1cs_arj002_250d44ab:
 
     # arj "Oh!"
-    arj "Oh!"
+    arj "哦！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:648
 translate chinese sm1cs_arj002_355baa08:
 
     # mc "Your punishment begins now my pet."
-    mc "Your punishment begins now my pet."
+    mc "你的惩罚现在开始了，我的宠物。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:651
 translate chinese sm1cs_arj002_fa8b3aa0:
 
     # arj "Yes, [arj_mcname!t]..."
-    arj "Yes, [arj_mcname!t]..."
+    arj "是的，[arj_mcname!t]..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:657
 translate chinese sm1cs_arj002_fe5f741e:
 
     # mc "Good girl. You still remember your old tricks."
-    mc "Good girl. You still remember your old tricks."
+    mc "乖女孩。你还记得你的老套路。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:658
 translate chinese sm1cs_arj002_1bccbb93:
 
     # arj "Mlrph... flurrphah..."
-    arj "Mlrph... flurrphah..."
+    arj "嗯嗯...呜呜..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:661
 translate chinese sm1cs_arj002_1e31c746:
 
     # sy "Oh that is so hot."
-    sy "Oh that is so hot."
+    sy "哦，太火辣了。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:662
 translate chinese sm1cs_arj002_56abe963:
 
     # mc "Fuck me, her lips feel so good."
-    mc "Fuck me, her lips feel so good."
+    mc "操，她的嘴唇感觉太好了。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:664
 translate chinese sm1cs_arj002_9c163278:
 
     # arj "*wet, sloppy sucking*"
-    arj "*wet, sloppy sucking*"
+    arj "*湿润、粗鲁的吮吸*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:670
 translate chinese sm1cs_arj002_e7407a01:
 
     # arj "Fuaah-huaaah..."
-    arj "Fuaah-huaaah..."
+    arj "呼啊-呼啊..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:671
 translate chinese sm1cs_arj002_7c49037e:
 
     # arj "But [arj_mcname!t] I haven't made you cum yet."
-    arj "But [arj_mcname!t] I haven't made you cum yet."
+    arj "但是[arj_mcname!t]，我还没让你射呢。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:675
 translate chinese sm1cs_arj002_78310c38:
 
     # mc "Fuck I've missed this so much!"
-    mc "Fuck I've missed this so much!"
+    mc "操，我太想念这个了！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:679
 translate chinese sm1cs_arj002_2aef0db0:
 
     # arj "Mrraha-haah..."
-    arj "Mrraha-haah..."
+    arj "嗯啊-啊..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:681
 translate chinese sm1cs_arj002_46e372e4:
 
     # mc "You're going to be my little cocksleeve whenever I need one."
-    mc "You're going to be my little cocksleeve whenever I need one."
+    mc "每当我需要的时候，你就是我的小肉套。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:682
 translate chinese sm1cs_arj002_21985e17:
 
     # mc "Aren't you?"
-    mc "Aren't you?"
+    mc "不是吗？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:686
 translate chinese sm1cs_arj002_c44cd09d:
 
     # arj "Yes! Whenever you want me."
-    arj "Yes! Whenever you want me."
+    arj "是的！无论你什么时候想要我。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:687
 translate chinese sm1cs_arj002_6908f8ab:
 
     # arj "Hhuaaah."
-    arj "Hhuaaah."
+    arj "呼啊啊。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:693
 translate chinese sm1cs_arj002_d06160c0:
 
     # arj "Plupfff."
-    arj "Plupfff."
+    arj "噗噜噗。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:703
 translate chinese sm1cs_arj002_46cfdb79:
 
     # arj "Murah-hhuaah...{w} Is my punishent over already, [arj_mcname!t]."
-    arj "Murah-hhuaah...{w} Is my punishent over already, [arj_mcname!t]."
+    arj "呜啊-呼啊...{w}我的惩罚已经结束了吗，[arj_mcname!t]。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:706
 translate chinese sm1cs_arj002_2155a7b4:
 
     # mc "Not by a long shot."
-    mc "Not by a long shot."
+    mc "还差得远呢。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:709
 translate chinese sm1cs_arj002_1c861a4a:
 
     # mc "*rope rustling*"
-    mc "*rope rustling*"
+    mc "*绳子沙沙作响*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:711
 translate chinese sm1cs_arj002_c4f56bf7:
 
     # mc "But do deserve a little treat."
-    mc "But do deserve a little treat."
+    mc "但确实值得一点奖励。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:716
 translate chinese sm1cs_arj002_b46999e6:
 
     # mc "Mwaaah."
-    mc "Mwaaah."
+    mc "啵啊。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:720
 translate chinese sm1cs_arj002_c899d757:
 
     # mc "I missed you like a sailor misses their port."
-    mc "I missed you like a sailor misses their port."
+    mc "我想你就像水手想念他们的港口。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:724
 translate chinese sm1cs_arj002_c5267a4f:
 
     # mc "Now turn you body around, my slut."
-    mc "Now turn you body around, my slut."
+    mc "现在转过身来，我的荡妇。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:727
 translate chinese sm1cs_arj002_c9ab0dfd:
 
     # arj "*shivering moan* Yes, [arj_mcname!t]."
-    arj "*shivering moan* Yes, [arj_mcname!t]."
+    arj "*颤抖的呻吟* 是的，[arj_mcname!t]。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:730
 translate chinese sm1cs_arj002_07172b26:
@@ -1370,397 +1370,397 @@ translate chinese sm1cs_arj002_07172b26:
 translate chinese sm1cs_arj002_eeffc2db:
 
     # arj "Ahuaaah... I love it when [arj_mcname!t] shoves his cock in my pussy!"
-    arj "Ahuaaah... I love it when [arj_mcname!t] shoves his cock in my pussy!"
+    arj "啊呼啊...我喜欢[arj_mcname!t]把他的鸡巴插进我的小穴！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:743
 translate chinese sm1cs_arj002_53966e78:
 
     # arj "*moaning passionately*"
-    arj "*moaning passionately*"
+    arj "*激情地呻吟*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:746
 translate chinese sm1cs_arj002_86d97cb3:
 
     # arj "Fuck yes-huaaah!"
-    arj "Fuck yes-huaaah!"
+    arj "操，爽-呼啊！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:748
 translate chinese sm1cs_arj002_1dee0ee6:
 
     # sy "Now she's really getting into it!"
-    sy "Now she's really getting into it!"
+    sy "现在她真的投入进去了！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:749
 translate chinese sm1cs_arj002_3d054470:
 
     # mc "Did you miss this cock, my little redhead minx?"
-    mc "Did you miss this cock, my little redhead minx?"
+    mc "你想念这根鸡巴吗，我的小红发妖精？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:751
 translate chinese sm1cs_arj002_a514161b:
 
     # arj "Moo-huaah!"
-    arj "Moo-huaah!"
+    arj "呜-呼啊！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:752
 translate chinese sm1cs_arj002_febe337f:
 
     # arj "Everyday and twice on sundays!"
-    arj "Everyday and twice on sundays!"
+    arj "每天都想，周日想两次！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:753
 translate chinese sm1cs_arj002_bc9fb2e8:
 
     # arj "Oh god. Yes! YES!"
-    arj "Oh god. Yes! YES!"
+    arj "天啊。爽！爽！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:755
 translate chinese sm1cs_arj002_0eeb8fc1:
 
     # arj "I've missed your big cock pounding into my pussy so much!"
-    arj "I've missed your big cock pounding into my pussy so much!"
+    arj "我太想念你的大鸡巴狂插我的小穴了！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:763
 translate chinese sm1cs_arj002_05f71e16:
 
     # sy "Mind if I cut in."
-    sy "Mind if I cut in."
+    sy "介意我插一脚吗。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:770
 translate chinese sm1cs_arj002_f7e673c3:
 
     # arj "Oh... I didn't realize you wanted to punish me too, Stacy."
-    arj "Oh... I didn't realize you wanted to punish me too, Stacy."
+    arj "哦...我没意识到你也想惩罚我，史黛西。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:774
 translate chinese sm1cs_arj002_56fed795:
 
     # sy "I very much want to. Don't worry."
-    sy "I very much want to. Don't worry."
+    sy "我非常想。别担心。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:777
 translate chinese sm1cs_arj002_19b508fa:
 
     # sy "I'll go easy on you."
-    sy "I'll go easy on you."
+    sy "我会手下留情的。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:782
 translate chinese sm1cs_arj002_8e6e8084:
 
     # arj "Ha-houahah..."
-    arj "Ha-houahah..."
+    arj "哈-呼啊啊..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:783
 translate chinese sm1cs_arj002_42765216:
 
     # arj "This is easy?"
-    arj "This is easy?"
+    arj "这就是手下留情？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:785
 translate chinese sm1cs_arj002_dc405d9d:
 
     # sy "Haha. You know you love it."
-    sy "Haha. You know you love it."
+    sy "哈哈。你知道你喜欢。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:791
 translate chinese sm1cs_arj002_d6254e21:
 
     # sy "Mrrmmm."
-    sy "Mrrmmm."
+    sy "嗯嗯嗯。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:793
 translate chinese sm1cs_arj002_5a7efbff:
 
     # arj "Ymmmm."
-    arj "Ymmmm."
+    arj "嗯嗯嗯。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:798
 translate chinese sm1cs_arj002_172463e5:
 
     # sy "I know we may not always agree on everything across the line, AmRose."
-    sy "I know we may not always agree on everything across the line, AmRose."
+    sy "我知道我们可能不会在所有事情上都意见一致，爱洛丝。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:799
 translate chinese sm1cs_arj002_886305d8:
 
     # sy "But I really hope, from here on out, we don't keep secrets from each other."
-    sy "But I really hope, from here on out, we don't keep secrets from each other."
+    sy "但我真的希望，从现在开始，我们不要对彼此保守秘密。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:801
 translate chinese sm1cs_arj002_6762853b:
 
     # arj "Ah-huaha... Stacy..."
-    arj "Ah-huaha... Stacy..."
+    arj "啊-呼啊...史黛西..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:802
 translate chinese sm1cs_arj002_44d38b6e:
 
     # arj "I'd like that very much."
-    arj "I'd like that very much."
+    arj "我非常愿意。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:805
 translate chinese sm1cs_arj002_d5a1c26f:
 
     # sy "I'll still be a troublemaker, and a brat sometimes, but you'll never feel like you have to keep things from me."
-    sy "I'll still be a troublemaker, and a brat sometimes, but you'll never feel like you have to keep things from me."
+    sy "我有时还是会惹麻烦，会耍脾气，但你永远不会觉得必须对我隐瞒什么。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:806
 translate chinese sm1cs_arj002_950d2154:
 
     # sy "Ohouaah...{w} Deal?"
-    sy "Ohouaah...{w} Deal?"
+    sy "哦呼啊...{w}成交？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:809
 translate chinese sm1cs_arj002_08fb9d8a:
 
     # arj "Fuaaah... Deal!"
-    arj "Fuaaah... Deal!"
+    arj "呼啊...成交！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:810
 translate chinese sm1cs_arj002_90d7cbcb:
 
     # arj "No-ah... I'm getting so close. Oh god..."
-    arj "No-ah... I'm getting so close. Oh god..."
+    arj "不-啊...我快到了。天啊..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:811
 translate chinese sm1cs_arj002_b3d313c8:
 
     # arj "It feels so good."
-    arj "It feels so good."
+    arj "感觉太好了。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:812
 translate chinese sm1cs_arj002_4f45d330:
 
     # sy "[mcname] and I are always going to be there to make you feel great, AmRose."
-    sy "[mcname] and I are always going to be there to make you feel great, AmRose."
+    sy "[mcname]和我永远都会让你感觉很棒，爱洛丝。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:814
 translate chinese sm1cs_arj002_c2e03757:
 
     # arj "Yes-oohuaah-ha-aha!"
-    arj "Yes-oohuaah-ha-aha!"
+    arj "爽-哦呼啊-哈-啊哈！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:818
 translate chinese sm1cs_arj002_97e20b6a:
 
     # mc "My turn..."
-    mc "My turn..."
+    mc "轮到我了..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:824
 translate chinese sm1cs_arj002_af5cf08d:
 
     # mc "Damn. You feel even tighter now."
-    mc "Damn. You feel even tighter now."
+    mc "该死。你现在感觉更紧了。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:826
 translate chinese sm1cs_arj002_e38ddda3:
 
     # arj "It's this pose, [arj_mcname!t]."
-    arj "It's this pose, [arj_mcname!t]."
+    arj "是这个姿势，[arj_mcname!t]。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:827
 translate chinese sm1cs_arj002_a4298472:
 
     # arj "It makes me extra tight."
-    arj "It makes me extra tight."
+    arj "它让我格外紧。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:829
 translate chinese sm1cs_arj002_a278e898:
 
     # arj "Bhuaah... buarh... fuahk-ahah..."
-    arj "Bhuaah... buarh... fuahk-ahah..."
+    arj "呼啊...呼啊...操-啊啊..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:830
 translate chinese sm1cs_arj002_e69dbe4a:
 
     # arj "Thank you for forgiving me, [mcname]."
-    arj "Thank you for forgiving me, [mcname]."
+    arj "谢谢你原谅我，[mcname]。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:831
 translate chinese sm1cs_arj002_b9b7680a:
 
     # arj "I'm glad you found me out..."
-    arj "I'm glad you found me out..."
+    arj "我很高兴你发现了我..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:832
 translate chinese sm1cs_arj002_4fef761a:
 
     # arj "Before something bad happened."
-    arj "Before something bad happened."
+    arj "在发生坏事之前。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:834
 translate chinese sm1cs_arj002_9f5d0779:
 
     # mc "It was never going to get that far, AmRose."
-    mc "It was never going to get that far, AmRose."
+    mc "永远不会走到那一步的，爱洛丝。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:835
 translate chinese sm1cs_arj002_9ed45cc2:
 
     # mc "I'm just mad at myself that I didn't see it."
-    mc "I'm just mad at myself that I didn't see it."
+    mc "我只是生自己的气，没能早点看出来。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:837
 translate chinese sm1cs_arj002_98d5592d:
 
     # arj "Ohuaa-huaah... it's been... too long since you had a good mystery."
-    arj "Ohuaa-huaah... it's been... too long since you had a good mystery."
+    arj "哦呼啊-呼啊...已经...太久没有好的谜题了。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:838
 translate chinese sm1cs_arj002_382379d1:
 
     # mc "Or my favorite redhead bouncing on my cock."
-    mc "Or my favorite redhead bouncing on my cock."
+    mc "或者我最爱的红发女孩在我的鸡巴上弹跳。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:840
 translate chinese sm1cs_arj002_901938bf:
 
     # arj "*laughing and then moaning*"
-    arj "*laughing and then moaning*"
+    arj "*先笑后呻吟*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:842
 translate chinese sm1cs_arj002_52036166:
 
     # arj "Oh Fuck... hurha... {w}[mcname]! I'm cumming...."
-    arj "Oh Fuck... hurha... {w}[mcname]! I'm cumming...."
+    arj "天啊...呼啊...{w}[mcname]！我要高潮了...."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:843
 translate chinese sm1cs_arj002_229e63fb:
 
     # arj "You're making me cum all over your amazing dick-hhuaa-rufaaah!"
-    arj "You're making me cum all over your amazing dick-hhuaa-rufaaah!"
+    arj "你让我在你神奇的鸡巴上高潮-呼啊-噜啊！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:849
 translate chinese sm1cs_arj002_b42913a4:
 
     # arj "Fuccc-kahaa-hraaaiieee!"
-    arj "Fuccc-kahaa-hraaaiieee!"
+    arj "操-卡啊-啊啊耶！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:854
 translate chinese sm1cs_arj002_71d29dbf:
 
     # mc "Shit... AmRose."
-    mc "Shit... AmRose."
+    mc "操...爱洛丝。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:856
 translate chinese sm1cs_arj002_984ef101:
 
     # arj "*panting* Just cum in me."
-    arj "*panting* Just cum in me."
+    arj "*喘气* 就射在我里面吧。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:859
 translate chinese sm1cs_arj002_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "真的？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:861
 translate chinese sm1cs_arj002_0db35260:
 
     # arj "Yeah! I want-uhaa... {w}I want to feel you throbbing as you fill up my naughty cunt."
-    arj "Yeah! I want-uhaa... {w}I want to feel you throbbing as you fill up my naughty cunt."
+    arj "真的！我想-呃啊...{w}我想感受你填满我淫荡小穴时的跳动。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:873
 translate chinese sm1cs_arj002_126bda40:
 
     # sy "What a big load."
-    sy "What a big load."
+    sy "好大一股。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:875
 translate chinese sm1cs_arj002_07730f0b:
 
     # mc "I think my balls knew it was a chance to make up for lost time."
-    mc "I think my balls knew it was a chance to make up for lost time."
+    mc "我想我的蛋蛋知道这是弥补失去时光的机会。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:878
 translate chinese sm1cs_arj002_5886fb5a:
 
     # sy "Haaha."
-    sy "Haaha."
+    sy "哈哈。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:880
 translate chinese sm1cs_arj002_acac3623:
 
     # sy "Mind if I have a taste, AmRose?"
-    sy "Mind if I have a taste, AmRose?"
+    sy "介意我尝一尝吗，爱洛丝？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:884
 translate chinese sm1cs_arj002_584bc97e:
 
     # arj "I would love that."
-    arj "I would love that."
+    arj "我很乐意。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:885
 translate chinese sm1cs_arj002_7a1c905c:
 
     # arj "I haven't felt your tongue in months."
-    arj "I haven't felt your tongue in months."
+    arj "我已经好几个月没感受过你的舌头了。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:891
 translate chinese sm1cs_arj002_f30b92a5:
 
     # sy "Yum yum."
-    sy "Yum yum."
+    sy "好吃好吃。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:892
 translate chinese sm1cs_arj002_3b8a9c4e:
 
     # arj "Ahu-ahuah..."
-    arj "Ahu-ahuah..."
+    arj "啊呼-啊呼啊..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:898
 translate chinese sm1cs_arj002_ccc74aff:
 
     # sy "Yeouch-gaaah!"
-    sy "Yeouch-gaaah!"
+    sy "哟-啊啊！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:899
 translate chinese sm1cs_arj002_d840545e:
 
     # sy "[mcname]! Don't just plow into someone when she's eating a creampie taco."
-    sy "[mcname]! Don't just plow into someone when she's eating a creampie taco."
+    sy "[mcname]！别在她吃内射时突然插进来。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:904
 translate chinese sm1cs_arj002_8f0dd91e:
 
     # arj "Haha-haha."
-    arj "Haha-haha."
+    arj "哈哈-哈哈。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:907
 translate chinese sm1cs_arj002_8fe34041:
 
     # mc "I got hard the moment you said you wanted to lick my cum out of AmRose's pussy."
-    mc "I got hard the moment you said you wanted to lick my cum out of AmRose's pussy."
+    mc "你说想舔爱洛丝小穴里的精液的那一刻，我就硬了。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:908
 translate chinese sm1cs_arj002_5ebaa4d3:
 
     # sy "Ah-ahuaah... Well... I can't blame you for that."
-    sy "Ah-ahuaah... Well... I can't blame you for that."
+    sy "啊-啊呼啊...嗯...我不能怪你。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:909
 translate chinese sm1cs_arj002_6087bd4c:
 
     # sy "Ohua-huaaha..."
-    sy "Ohua-huaaha..."
+    sy "哦呼啊-呼啊啊..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:911
 translate chinese sm1cs_arj002_d6746b87:
 
     # sy "This is the fucking life!"
-    sy "This is the fucking life!"
+    sy "这才是他妈的生活！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:912
 translate chinese sm1cs_arj002_c6c4d11b:
 
     # mct "This is magnificent."
-    mct "This is magnificent."
+    mct "这太壮观了。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:914
 translate chinese sm1cs_arj002_c91b6000:
 
     # mct "Me and {b}my{/b} girls."
-    mct "Me and {b}my{/b} girls."
+    mct "我和{b}我的{/b}女孩们。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:916
 translate chinese sm1cs_arj002_43cb6eb3:
@@ -1772,223 +1772,223 @@ translate chinese sm1cs_arj002_43cb6eb3:
 translate chinese sm1cs_arj002_206a90b7:
 
     # arj "Muf-ahauah... Oh Stacy."
-    arj "Muf-ahauah... Oh Stacy."
+    arj "嗯-啊呼啊...哦史黛西。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:920
 translate chinese sm1cs_arj002_8e95384d:
 
     # arj "You're going to make me cum all over again!"
-    arj "You're going to make me cum all over again!"
+    arj "你要让我再次高潮了！"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:921
 translate chinese sm1cs_arj002_947230b4:
 
     # sy "*excited slurping sounds*"
-    sy "*excited slurping sounds*"
+    sy "*兴奋的吸吮声*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:929
 translate chinese sm1cs_arj002_bc0c85f8:
 
     # mc "Line up you two."
-    mc "Line up you two."
+    mc "你们两个排好队。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:942
 translate chinese sm1cs_arj002_2795c1f2:
 
     # sy "Oooh-huaah..."
-    sy "Oooh-huaah..."
+    sy "哦哦-呼啊..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:944
 translate chinese sm1cs_arj002_df2dbd40:
 
     # arj "*panting* Yes."
-    arj "*panting* Yes."
+    arj "*喘气* 是的。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:950
 translate chinese sm1cs_arj002_7907514c:
 
     # sy "Mmm. You thinking what I'm thinking?"
-    sy "Mmm. You thinking what I'm thinking?"
+    sy "嗯。你在想我想的事吗？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:952
 translate chinese sm1cs_arj002_ed8daab7:
 
     # arj "Let's."
-    arj "Let's."
+    arj "来吧。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:958
 translate chinese sm1cs_arj002_62c42592:
 
     # arj "Mrmm..."
-    arj "Mrmm..."
+    arj "嗯嗯..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:959
 translate chinese sm1cs_arj002_4ba31fdf:
 
     # sy "Ahhuammm..."
-    sy "Ahhuammm..."
+    sy "啊呼嗯..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:964
 translate chinese sm1cs_arj002_cffc3fb5:
 
     # sy "Mrmmm."
-    sy "Mrmmm."
+    sy "嗯嗯。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:966
 translate chinese sm1cs_arj002_a2450be1:
 
     # arj "Hnnmmm."
-    arj "Hnnmmm."
+    arj "嗯嗯嗯。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:974
 translate chinese sm1cs_arj002_d1503b05:
 
     # arj "You know... I think this is exactly what we all needed. A new chapter."
-    arj "You know... I think this is exactly what we all needed. A new chapter."
+    arj "你知道...我想这正是我们都需要的。一个新篇章。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:976
 translate chinese sm1cs_arj002_69438b20:
 
     # arj "For all of us."
-    arj "For all of us."
+    arj "对我们所有人。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:980
 translate chinese sm1cs_arj002_7fc31c19:
 
     # mc "Definitely. We got everything in the open, and we fucked each other senseless."
-    mc "Definitely. We got everything in the open, and we fucked each other senseless."
+    mc "确实。我们把一切都摊开了，然后疯狂地做爱。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:981
 translate chinese sm1cs_arj002_7cbc2b6c:
 
     # mc "I don't think I've ever felt closer to you two than ever before."
-    mc "I don't think I've ever felt closer to you two than ever before."
+    mc "我从未感到和你们两个如此亲密过。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:984
 translate chinese sm1cs_arj002_ffc5f96c:
 
     # sy "Seconded. Now that we're back together, we'll be fucking unstoppable."
-    sy "Seconded. Now that we're back together, we'll be fucking unstoppable."
+    sy "赞同。现在我们重聚了，我们将势不可挡。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:987
 translate chinese sm1cs_arj002_7558a0b6:
 
     # arj "So... what do we do now? What comes next?"
-    arj "So... what do we do now? What comes next?"
+    arj "所以...我们现在做什么？接下来会怎样？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:990
 translate chinese sm1cs_arj002_09cd409b:
 
     # mc "Well, it's actually nearly time to start planning our next movies."
-    mc "Well, it's actually nearly time to start planning our next movies."
+    mc "嗯，实际上快到开始规划下一部电影的时候了。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:991
 translate chinese sm1cs_arj002_b8877c87:
 
     # mc "This studio isn't going to get famous all on its own."
-    mc "This studio isn't going to get famous all on its own."
+    mc "这个工作室不会自己出名的。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:993
 translate chinese sm1cs_arj002_1033e9d1:
 
     # arj "Of course not."
-    arj "Of course not."
+    arj "当然不会。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:994
 translate chinese sm1cs_arj002_a7457b7e:
 
     # arj "Well, whatever I can do to help, I'll be here from now on."
-    arj "Well, whatever I can do to help, I'll be here from now on."
+    arj "好吧，无论我能帮什么忙，从现在开始我都会在这里。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:995
 translate chinese sm1cs_arj002_10b0f841:
 
     # arj "Unless I'm in class."
-    arj "Unless I'm in class."
+    arj "除非我在上课。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:997
 translate chinese sm1cs_arj002_0c1c2fce:
 
     # mc "Ooooh. Someone thinking of moving in?"
-    mc "Ooooh. Someone thinking of moving in?"
+    mc "哦哦哦。有人想搬进来吗？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1007
 translate chinese sm1cs_arj002_06c5374b:
 
     # arj "Not just yet."
-    arj "Not just yet."
+    arj "还不是时候。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1009
 translate chinese sm1cs_arj002_56c3991c:
 
     # mc "Why not?"
-    mc "Why not?"
+    mc "为什么不呢？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1010
 translate chinese sm1cs_arj002_47bdbf51:
 
     # arj "Cause you know exactly what would be happening if the two of us were under the same roof all day."
-    arj "Cause you know exactly what would be happening if the two of us were under the same roof all day."
+    arj "因为你很清楚如果我们两个整天在同一屋檐下会发生什么。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1013
 translate chinese sm1cs_arj002_8abf33ea:
 
     # mc "We'd be getting noise complaints every night."
-    mc "We'd be getting noise complaints every night."
+    mc "我们每晚都会收到噪音投诉。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1015
 translate chinese sm1cs_arj002_fbb696ac:
 
     # arj "Exactly."
-    arj "Exactly."
+    arj "没错。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1019
 translate chinese sm1cs_arj002_8deef3c5:
 
     # mc "Well, our door is always open to you, AmRose."
-    mc "Well, our door is always open to you, AmRose."
+    mc "嗯，我们的门永远为你敞开，爱洛丝。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1021
 translate chinese sm1cs_arj002_5cf4bac9:
 
     # mc "Now, if you two don't mind. I think it's time for my beauty sleep."
-    mc "Now, if you two don't mind. I think it's time for my beauty sleep."
+    mc "现在，如果你们两个不介意的话。我想该美容觉的时间了。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1022
 translate chinese sm1cs_arj002_7eb3cfd3:
 
     # mc "I'm going to need every wink of sleep now that I've got the emerald babe and the fiery ruby back in my life."
-    mc "I'm going to need every wink of sleep now that I've got the emerald babe and the fiery ruby back in my life."
+    mc "现在我的生活中有了翡翠美人和火红宝石，我需要充足的睡眠。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1026
 translate chinese sm1cs_arj002_2f9dba7d:
 
     # sy "Sounds like you should join a gym."
-    sy "Sounds like you should join a gym."
+    sy "听起来你应该去健身房。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1027
 translate chinese sm1cs_arj002_bc93b5f3:
 
     # sy "Good night, [mcname]. Good night, AmRose."
-    sy "Good night, [mcname]. Good night, AmRose."
+    sy "晚安，[mcname]。晚安，爱洛丝。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1031
 translate chinese sm1cs_arj002_6be1d9d8:
 
     # arj "Good night, Stacy."
-    arj "Good night, Stacy."
+    arj "晚安，史黛西。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1034
 translate chinese sm1cs_arj002_bd550900:
 
     # arj "I've been dreaming about cuddling up and going to sleep with you."
-    arj "I've been dreaming about cuddling up and going to sleep with you."
+    arj "我一直梦想着依偎在一起和你一起入睡。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1038
 translate chinese sm1cs_arj002_67affca7:
 
     # mc "Stick with me, gorgeous. I'll make all your dreams come true."
-    mc "Stick with me, gorgeous. I'll make all your dreams come true."
+    mc "跟着我，美人。我会让你所有的梦想成真。"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1041
 translate chinese sm1cs_arj002_07172b26_1:
@@ -2000,33 +2000,33 @@ translate chinese strings:
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:103
     old "I really enjoyed how it felt being with you when we got together"
-    new "I really enjoyed how it felt being with you when we got together"
+    new "我真的很享受上次和你在一起的感觉"
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:103
     old "I know I couldn't make time for you earlier, but now I can"
-    new "I know I couldn't make time for you earlier, but now I can"
+    new "我知道之前没能抽出时间陪你，但现在可以了"
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:190
     old "I'll beg her"
-    new "I'll beg her"
+    new "我会求她的"
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:190
     old "I'm not begging her"
-    new "I'm not begging her"
+    new "我不会求她"
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:316
     old "What do you want AmRose to call you during sex scenes?"
-    new "What do you want AmRose to call you during sex scenes?"
+    new "你想让爱洛丝在性爱场景中怎么称呼你？"
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:316
     old "Daddy"
-    new "Daddy"
+    new "爸爸"
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:316
     old "My name"
-    new "My name"
+    new "我的名字"
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:459
     old "The jig is up, my sweet red flower"
-    new "The jig is up, my sweet red flower"
+    new "恐怕你露馅了，我甜美的红花"
 
