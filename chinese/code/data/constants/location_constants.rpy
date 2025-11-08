@@ -30,7 +30,7 @@
 
     # game/code/data/constants/location_constants.rpy:114
     old "Photo Dojo"
-    new "摄影道场"
+    new "摄影工坊"
 
     # game/code/data/constants/location_constants.rpy:126
     old "Theater"
