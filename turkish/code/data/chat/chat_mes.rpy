@@ -268,3 +268,17 @@ translate turkish strings:
     old "Never mind. Are you down or not?"
     new "Never mind. Are you down or not?"
 
+translate turkish strings:
+
+    # game/code/data/chat/chat_mes.rpy:112
+    old "Wish you were here to warm my body."
+    new "Wish you were here to warm my body."
+
+    # game/code/data/chat/chat_mes.rpy:258
+    old "I was thinking of a game night. You, Stacy, and me."
+    new "I was thinking of a game night. You, Stacy, and me."
+
+    # game/code/data/chat/chat_mes.rpy:258
+    old "Alright, does this evening work?"
+    new "Alright, does this evening work?"
+

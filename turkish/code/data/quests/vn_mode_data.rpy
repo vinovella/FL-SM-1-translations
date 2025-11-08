@@ -740,3 +740,25 @@ translate turkish strings:
     old "Surprise Nari at night"
     new "Surprise Nari at night"
 
+translate turkish strings:
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress Denise's, Kellie's, and Veronica's storylines"
+    new "Progress Denise's, Kellie's, and Veronica's storylines"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress the Theater and Taisia's storylines"
+    new "Progress the Theater and Taisia's storylines"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress Lyssa's storyline and the Main Story"
+    new "Progress Lyssa's storyline and the Main Story"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress Anna's and Nari's storylines"
+    new "Progress Anna's and Nari's storylines"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
+    new "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
+
