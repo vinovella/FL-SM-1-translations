@@ -286,3 +286,141 @@ translate spanish q_inter_my_4_1b9be8cf:
     # my "He wants 4 walls in the gallery... and then the other artists want-"
     my "He wants 4 walls in the gallery... and then the other artists want-"
 
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:187
+translate spanish q_inter_my_11_8bc223c4:
+
+    # my "Hey, [mcname]!"
+    my "Hey, [mcname]!"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:189
+translate spanish q_inter_my_11_35fedb77:
+
+    # mc "Hey, Mom!"
+    mc "Hey, Mom!"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:191
+translate spanish q_inter_my_11_f67d45c0:
+
+    # mc "Hey, Melony!"
+    mc "Hey, Melony!"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:192
+translate spanish q_inter_my_11_4b782f43:
+
+    # mc "You know, that last date-"
+    mc "You know, that last date-"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:196
+translate spanish q_inter_my_11_1b49c09c:
+
+    # my "Shhhh! Not i front of your sister!"
+    my "Shhhh! Not i front of your sister!"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:198
+translate spanish q_inter_my_11_64ff3bc5:
+
+    # my "Shhh! Not in front of Stacy!"
+    my "Shhh! Not in front of Stacy!"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:201
+translate spanish q_inter_my_11_fc645303:
+
+    # my "..."
+    my "..."
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:202
+translate spanish q_inter_my_11_f4e6139e:
+
+    # my "But yes it was."
+    my "But yes it was."
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:207
+translate spanish q_inter_my_12_77034b1f:
+
+    # my "You know, [mcname], you've set the bar pretty high for yourself."
+    my "You know, [mcname], you've set the bar pretty high for yourself."
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:208
+translate spanish q_inter_my_12_ee87e6f3:
+
+    # mc "Oh?"
+    mc "Oh?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:211
+translate spanish q_inter_my_12_6da6d153:
+
+    # my "Mmmhmmmm. What's our next date going to be?"
+    my "Mmmhmmmm. What's our next date going to be?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:212
+translate spanish q_inter_my_12_c753e752:
+
+    # mc "OH, uh..."
+    mc "OH, uh..."
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:215
+translate spanish q_inter_my_12_e5fdbbec:
+
+    # my "Hehehehehehehe!"
+    my "Hehehehehehehe!"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:221
+translate spanish q_inter_my_13_993d0554:
+
+    # mc "So, Mom, you know how you're an artist?"
+    mc "So, Mom, you know how you're an artist?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:223
+translate spanish q_inter_my_13_69636506:
+
+    # mc "So, Melony, you know how you're an artist?"
+    mc "So, Melony, you know how you're an artist?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:226
+translate spanish q_inter_my_13_2128d416:
+
+    # my "Mmhmmmm?"
+    my "Mmhmmmm?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:227
+translate spanish q_inter_my_13_cf0364b3:
+
+    # mc "Do you think that maybe you'd be able to help us out with some of our art in the movies?"
+    mc "Do you think that maybe you'd be able to help us out with some of our art in the movies?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:230
+translate spanish q_inter_my_13_92e887d1:
+
+    # my "Hmmm... I don't know, [mcname]..."
+    my "Hmmm... I don't know, [mcname]..."
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:231
+translate spanish q_inter_my_13_2aea2240:
+
+    # my "I might have accepted that you're doing this, but I'm not sure I'm ready to commit to the movies yet..."
+    my "I might have accepted that you're doing this, but I'm not sure I'm ready to commit to the movies yet..."
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:236
+translate spanish q_inter_my_14_ec8245fb:
+
+    # my "{size=*0.7}Oh, [mcname]...{/size}"
+    my "{size=*0.7}Oh, [mcname]...{/size}"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:237
+translate spanish q_inter_my_14_05500ff6:
+
+    # mc "Huh?"
+    mc "Huh?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:240
+translate spanish q_inter_my_14_aee1c600:
+
+    # my "Oh, erm, nothing! Nothing at all!"
+    my "Oh, erm, nothing! Nothing at all!"
+
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:241
+translate spanish q_inter_my_14_b1517650:
+
+    # my "Just thinking about something else!"
+    my "Just thinking about something else!"
+

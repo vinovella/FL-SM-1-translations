@@ -30,3 +30,9 @@ translate spanish strings:
     old "I'll be over in a jif"
     new "I'll be over in a jif"
 
+translate spanish strings:
+
+    # game/code/data/chat/chat_mh.rpy:37
+    old "I'll be over in a jiff"
+    new "I'll be over in a jiff"
+

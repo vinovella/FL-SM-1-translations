@@ -504,3 +504,161 @@ translate spanish strings:
     old "Get to 5 Relationship Points with Min"
     new "Get to 5 Relationship Points with Min"
 
+translate spanish strings:
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Open the map and go to Wurst Delivery"
+    new "Open the map and go to Wurst Delivery"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Work at Wurst Delivery until you have $200"
+    new "Work at Wurst Delivery until you have $200"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy while she's using her laptop"
+    new "Talk to Stacy while she's using her laptop"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Progress the IT job storyline"
+    new "Progress the IT job storyline"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Progress the Theater job storyline"
+    new "Progress the Theater job storyline"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Progress the IT and Theater job storylines"
+    new "Progress the IT and Theater job storylines"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy about the Theater job"
+    new "Talk with Stacy about the Theater job"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Go on a date with Stacy"
+    new "Go on a date with Stacy"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy to start the renovation"
+    new "Talk with Stacy to start the renovation"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Work on the renovation and visit one of your jobs with Stacy and Melony"
+    new "Work on the renovation and visit one of your jobs with Stacy and Melony"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Work on the renovation"
+    new "Work on the renovation"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Work on the renovation and visit your other job with Stacy and Melony"
+    new "Work on the renovation and visit your other job with Stacy and Melony"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy about editing again during the day"
+    new "Talk to Stacy about editing again during the day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy about the new order from the client"
+    new "Talk to Stacy about the new order from the client"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy to choose which movie you want to film"
+    new "Talk with Stacy to choose which movie you want to film"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Be at home at noon"
+    new "Be at home at noon"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy to prepare for the party"
+    new "Talk to Stacy to prepare for the party"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Go to the General Store"
+    new "Go to the General Store"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Learn Photography until you reach 5 in this topic (currently {})"
+    new "Learn Photography until you reach 5 in this topic (currently {})"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Learn Photography until you reach 5 in this topic"
+    new "Learn Photography until you reach 5 in this topic"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy about getting legal advice"
+    new "Talk with Stacy about getting legal advice"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Kanya to learn more about photography"
+    new "Talk with Kanya to learn more about photography"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Text AmRose"
+    new "Text AmRose"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Meet AmRose in the park during the day"
+    new "Meet AmRose in the park during the day"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Go to the Photo Dojo to talk with the BDSM girl"
+    new "Go to the Photo Dojo to talk with the BDSM girl"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Amore in the Photo Dojo"
+    new "Talk to Amore in the Photo Dojo"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Visit the Photo Dojo"
+    new "Visit the Photo Dojo"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Amore at the Photo Dojo"
+    new "Talk to Amore at the Photo Dojo"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Maya"
+    new "Talk with Maya"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Take Lyssa out for a nice dinner"
+    new "Take Lyssa out for a nice dinner"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Go to Lyssa's House during the evening"
+    new "Go to Lyssa's House during the evening"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Invite Lyssa to visit the studio"
+    new "Invite Lyssa to visit the studio"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Stacy to borrow her laptop for editing Lyssa's video"
+    new "Talk with Stacy to borrow her laptop for editing Lyssa's video"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Debbie in the park"
+    new "Talk to Debbie in the park"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Debbie in the evening in the park"
+    new "Talk to Debbie in the evening in the park"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Finish the renovation to invite Min"
+    new "Finish the renovation to invite Min"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Text Min in the morning to help her move in"
+    new "Text Min in the morning to help her move in"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk with Min in her room"
+    new "Talk with Min in her room"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Stacy about Melony"
+    new "Talk to Stacy about Melony"
+
