@@ -26,7 +26,7 @@ translate chinese sm1mv02s01_235baab2:
 translate chinese sm1mv02s01_917ecd3b:
 
     # mc "Erm... nope. Not yet."
-    mc "呃…… 暂时还没有。"
+    mc "呃...暂时还没有。"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:34
 translate chinese sm1mv02s01_1def592c:
@@ -56,7 +56,7 @@ translate chinese sm1mv02s01_10ac0fee:
 translate chinese sm1mv02s01_3b883424:
 
     # sy "Aaaaaaaaand there we go! One complete pornographic science fiction movie script!"
-    sy "呼……好嘞！一部完整的色情科幻电影剧本搞定！"
+    sy "呼...好嘞！一部完整的色情科幻电影剧本搞定！"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:73
 translate chinese sm1mv02s01_baddb02a:
@@ -176,7 +176,7 @@ translate chinese sm1mv02s01_f95c7a67:
 translate chinese sm1mv02s01_37b1857a:
 
     # mc "I hadn't even thought about that yet... where the hell are we going to get a spaceship?"
-    mc "我压根儿就没考虑过这事儿…… 我们到底在哪儿才能弄到一艘宇宙飞船啊？"
+    mc "我压根儿就没考虑过这事儿...我们到底在哪儿才能弄到一艘宇宙飞船啊？"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:143
 translate chinese sm1mv02s01_e1b8e346:
@@ -278,7 +278,7 @@ translate chinese sm1mv02s01_d2cafec3:
 translate chinese sm1mv02s01_c4c3da69:
 
     # mc "Okay?...{w} What am I looking at?"
-    mc "好吧？……{w}我这是在看什么啊？"
+    mc "好吧？...{w}我这是在看什么啊？"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:202
 translate chinese sm1mv02s01_a17a448f:
@@ -494,7 +494,7 @@ translate chinese sm1mv02s01_841dee97:
 translate chinese sm1mv02s01_7b2b2bef:
 
     # sy "A little... on the nose, don't you think?"
-    sy "是不是有点…… 太直白了，你不觉得吗？"
+    sy "是不是有点...太直白了，你不觉得吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:328
 translate chinese sm1mv02s01_4128d044:
@@ -542,23 +542,23 @@ translate chinese sm1mv02s01_8a0ccce2:
 translate chinese sm1mv02s01_0a3650d2:
 
     # sy "No, but that's what they call the places they film movies. Shorthand for \"sound stage\"."
-    sy "确实没有，但人们都这么叫拍电影的地方，它是\"录音摄影棚\"的简称。"
+    sy "确实没有，但圈里人都把拍电影的地方叫‘摄影棚’。它是\"录音摄影棚\"的简称。"
 
 translate chinese strings:
 
     # game/code/scenes/movies/movie02/sm1mv02s01.rpy:4
     old "Do you want to include watersports content in this replay?"
-    new "Do you want to include watersports content in this replay?"
+    new "你希望在此次剧情中体验‘水上作乐’相关内容吗？"
 
     # game/code/scenes/movies/movie02/sm1mv02s01.rpy:359
     old "Whom do you want to recruit as the Spectre character in this replay?"
-    new "Whom do you want to recruit as the Spectre character in this replay?"
+    new "你想招募哪位角色作为本次剧情的‘魅影特工’？"
 
     # game/code/scenes/movies/movie02/sm1mv02s01.rpy:359
     old "Recruit Min"
-    new "Recruit Min"
+    new "招募明"
 
     # game/code/scenes/movies/movie02/sm1mv02s01.rpy:359
     old "Recruit Lyssa"
-    new "Recruit Lyssa"
+    new "招募丽莎"
 
