@@ -42,3 +42,9 @@ translate portuguese strings:
     old "Studio Laptop"
     new "Nodebook do Estúdio"
 
+translate portuguese strings:
+
+    # game/code/renpy/screens/phone.rpy:115
+    old "Day: [gt.get_day_number()]"
+    new "Day: [gt.get_day_number()]"
+

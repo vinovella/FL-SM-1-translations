@@ -550,3 +550,153 @@ translate portuguese q_inter_tl_17_543cc186:
     # mc "Huh, I never thought about it like that."
     mc "Huh, I never thought about it like that."
 
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:300
+translate portuguese q_inter_tl_22_b8de97c5:
+
+    # tl "I've lived in a lot of different places in my life."
+    tl "I've lived in a lot of different places in my life."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:301
+translate portuguese q_inter_tl_22_9779ebe5:
+
+    # mc "Where does this rank?"
+    mc "Where does this rank?"
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:304
+translate portuguese q_inter_tl_22_2a6567e4:
+
+    # tl "Definitely top ten. I once stayed in a cartel leader's mansion."
+    tl "Definitely top ten. I once stayed in a cartel leader's mansion."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:305
+translate portuguese q_inter_tl_22_318299da:
+
+    # tl "Great food and maid service."
+    tl "Great food and maid service."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:311
+translate portuguese q_inter_tl_23_7cadc6a5:
+
+    # tl "Ooouh."
+    tl "Ooouh."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:312
+translate portuguese q_inter_tl_23_3ee32121:
+
+    # mc "You good?"
+    mc "You good?"
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:313
+translate portuguese q_inter_tl_23_1d988ea3:
+
+    # tl "Yeah. Just caught the perfect draft."
+    tl "Yeah. Just caught the perfect draft."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:314
+translate portuguese q_inter_tl_23_cdd14d57:
+
+    # tl "Made my nipples buzz. Haha."
+    tl "Made my nipples buzz. Haha."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:319
+translate portuguese q_inter_tl_24_e256e6d7:
+
+    # tl "I'm glad you're not some square or suit working for the Man, [mcname]."
+    tl "I'm glad you're not some square or suit working for the Man, [mcname]."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:320
+translate portuguese q_inter_tl_24_f4b470ca:
+
+    # mc "Thanks?"
+    mc "Thanks?"
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:321
+translate portuguese q_inter_tl_24_316e0f01:
+
+    # tl "It takes big balls to stay independent these days."
+    tl "It takes big balls to stay independent these days."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:327
+translate portuguese q_inter_tl_25_06b9e6a6:
+
+    # tl "Who was that guy at the Studio party?"
+    tl "Who was that guy at the Studio party?"
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:328
+translate portuguese q_inter_tl_25_91c18cf9:
+
+    # mc "Just some asshole?"
+    mc "Just some asshole?"
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:329
+translate portuguese q_inter_tl_25_3304e74e:
+
+    # tl "Want me to fuck up his car with a butterfly knife?"
+    tl "Want me to fuck up his car with a butterfly knife?"
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:330
+translate portuguese q_inter_tl_25_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:331
+translate portuguese q_inter_tl_25_fca52711:
+
+    # mc "No."
+    mc "No."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:332
+translate portuguese q_inter_tl_25_7c1576dc:
+
+    # tl "No as in like 'No'?"
+    tl "No as in like 'No'?"
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:333
+translate portuguese q_inter_tl_25_b6a99958:
+
+    # mc "No as in N. O. Taisia."
+    mc "No as in N. O. Taisia."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:336
+translate portuguese q_inter_tl_25_4e239b13:
+
+    # tl "Fine fine."
+    tl "Fine fine."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:341
+translate portuguese q_inter_tl_26_ee162e8e:
+
+    # tl "You're in now, [mcname]."
+    tl "You're in now, [mcname]."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:342
+translate portuguese q_inter_tl_26_af44dddb:
+
+    # tl "Try not to blow it."
+    tl "Try not to blow it."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:347
+translate portuguese q_inter_tl_27_f8a8af5a:
+
+    # tl "I'll admit, I bet Kai twenty bucks that you wouldn't make it to be a full actor here."
+    tl "I'll admit, I bet Kai twenty bucks that you wouldn't make it to be a full actor here."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:348
+translate portuguese q_inter_tl_27_88816c0b:
+
+    # mc "You're the one who brought me in."
+    mc "You're the one who brought me in."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:351
+translate portuguese q_inter_tl_27_586c405a:
+
+    # tl "Were you listening? I'm out twenty bucks because of you."
+    tl "Were you listening? I'm out twenty bucks because of you."
+
+# game/code/data/quick_interactions/Theater/q-inter-tl.rpy:352
+translate portuguese q_inter_tl_27_eadd5e5f:
+
+    # tl "Haha."
+    tl "Haha."
+

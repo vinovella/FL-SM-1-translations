@@ -1802,3 +1802,9 @@ translate portuguese strings:
     old "Then I have my answer"
     new "Então tenho minha resposta"
 
+translate portuguese strings:
+
+    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:476
+    old "Your lips?"
+    new "Your lips?"
+

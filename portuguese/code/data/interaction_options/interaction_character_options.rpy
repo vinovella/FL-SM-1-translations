@@ -468,3 +468,29 @@ translate portuguese strings:
     old "Let's go to the Amusement Park"
     new "Let's go to the Amusement Park"
 
+translate portuguese strings:
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Prepare for the party"
+    new "Prepare for the party"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Confront Amore"
+    new "Confront Amore"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Talk about work"
+    new "Talk about work"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Have some fun with Min"
+    new "Have some fun with Min"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Smash"
+    new "Smash"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ask about the play"
+    new "Ask about the play"
+
