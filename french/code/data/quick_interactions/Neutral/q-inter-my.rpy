@@ -420,3 +420,9 @@ translate french q_inter_my_14_b1517650:
     # my "Just thinking about something else!"
     my "Just thinking about something else!"
 
+# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:236
+translate french q_inter_my_14_ec8245fb:
+
+    # my "{size=*0.7}Oh, [mcname]...{/size}"
+    my "{size=*0.7}Oh, [mcname]...{/size}"
+
