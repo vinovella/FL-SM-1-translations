@@ -296,7 +296,7 @@ translate chinese sm1mv01s10_2b1d1b98:
 translate chinese sm1mv01s10_4ca4bfa4:
 
     # tl "Mmmm... I'm going to need a copy of this movie."
-    tl "嗯......我需要拷贝一份这部电影。"
+    tl "嗯...我需要拷贝一份这部电影。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:168
 translate chinese sm1mv01s10_f99a0f21:
@@ -614,215 +614,215 @@ translate chinese sm1mv01s10_a34c7456:
 translate chinese sm1mv01s10_d764e5e3:
 
     # mc "Hey! I didn't stumble in!"
-    mc "Hey! I didn't stumble in!"
+    mc "嘿！我才没有跌跌撞撞地进来！"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:311
 translate chinese sm1mv01s10_74b6a16c:
 
     # kv "Hehehehe!"
-    kv "Hehehehe!"
+    kv "嘿嘿嘿！"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:312
 translate chinese sm1mv01s10_e02778a5:
 
     # mc "I know what you mean."
-    mc "I know what you mean."
+    mc "我明白你的意思。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:318
 translate chinese sm1mv01s10_b29dc19b:
 
     # kv "And the gear will get better too."
-    kv "And the gear will get better too."
+    kv "设备也会变得更先进。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:320
 translate chinese sm1mv01s10_7e7022dc:
 
     # mc "God, I hope so..."
-    mc "God, I hope so..."
+    mc "嗯，希望如此..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:324
 translate chinese sm1mv01s10_0cf294a3:
 
     # kv "Speaking of a long day, I am fucking wiped. I'm heading to bed."
-    kv "Speaking of a long day, I am fucking wiped. I'm heading to bed."
+    kv "说起来今天可真够长的，我都快累死了。必须去睡觉了。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:328
 translate chinese sm1mv01s10_616c26a7:
 
     # kv "I'll be up bright and early for the car ride. See you in the morning, [mcname]."
-    kv "I'll be up bright and early for the car ride. See you in the morning, [mcname]."
+    kv "明天开车我得早起，[mcname]，早上见。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:330
 translate chinese sm1mv01s10_53a73253:
 
     # mc "See you in the morning, Kanya."
-    mc "See you in the morning, Kanya."
+    mc "康雅，早上见。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:335
 translate chinese sm1mv01s10_f3e004ab:
 
     # mct "Man, I'm exhausted..."
-    mct "Man, I'm exhausted..."
+    mct "天呐，我太累了..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:336
 translate chinese sm1mv01s10_d06670f8:
 
     # mct "Who knew sex could be so much work?"
-    mct "Who knew sex could be so much work?"
+    mct "谁能想到做爱也能这么费体力呢？"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:340
 translate chinese sm1mv01s10_ff72053a:
 
     # mct "I should head to bed... but Taisia is still out on the beach."
-    mct "I should head to bed... but Taisia is still out on the beach."
+    mct "我该去睡觉了... 但泰西娅还在海滩上。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:342
 translate chinese sm1mv01s10_61b65bd0:
 
     # mct "Maybe... I should check on her, make sure everything's okay."
-    mct "Maybe... I should check on her, make sure everything's okay."
+    mct "或许... 我应该去看看她，确保她一切都没事。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:355
 translate chinese sm1mv01s10_ca510f20:
 
     # mct "Hmmm... I wonder where she could be..."
-    mct "Hmmm... I wonder where she could be..."
+    mct "嗯... 她会在哪儿呢..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:356
 translate chinese sm1mv01s10_5c7a6ec1:
 
     # mct "I hope she didn't wander off too far..."
-    mct "I hope she didn't wander off too far..."
+    mct "希望她没走太远..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:360
 translate chinese sm1mv01s10_e22c7f02:
 
     # mct "Wait, is that...?"
-    mct "Wait, is that...?"
+    mct "等等，那是...?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:363
 translate chinese sm1mv01s10_a83e6fd7:
 
     # mct "It is. A smile on Taisia."
-    mct "It is. A smile on Taisia."
+    mct "真的是。泰西娅居然在笑。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:367
 translate chinese sm1mv01s10_124b3074:
 
     # tl "Oh, hey [mcname]."
-    tl "Oh, hey [mcname]."
+    tl "哦，嘿，[mcname]。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:369
 translate chinese sm1mv01s10_a95cfbed:
 
     # mc "Hey, Taisia."
-    mc "Hey, Taisia."
+    mc "嘿，泰西娅。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:373
 translate chinese sm1mv01s10_b9da7ef4:
 
     # tl "Everything okay?"
-    tl "Everything okay?"
+    tl "一切都还好吗？"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:375
 translate chinese sm1mv01s10_0972c153:
 
     # mc "Erm..."
-    mc "Erm..."
+    mc "呃..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:376
 translate chinese sm1mv01s10_829e0aab:
 
     # tl "What's up?"
-    tl "What's up?"
+    tl "怎么了？"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:379
 translate chinese sm1mv01s10_2d06f7f3:
 
     # mc "I just... don't think I've ever seen you smile so wide before. Except maybe when you're a clown."
-    mc "I just... don't think I've ever seen you smile so wide before. Except maybe when you're a clown."
+    mc "我只是... 好像从没见过你笑得这么灿烂。除非你扮小丑的时候。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:382
 translate chinese sm1mv01s10_fb047b2a:
 
     # tl "Oh, uhm... what can I say? I really like skinny dipping."
-    tl "Oh, uhm... what can I say? I really like skinny dipping."
+    tl "哦，呃... 我能说什么呢？我真的很喜欢裸泳。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:384
 translate chinese sm1mv01s10_3f6e38d6:
 
     # mc "I can see that."
-    mc "I can see that."
+    mc "我看得出来。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:387
 translate chinese sm1mv01s10_b4bde762:
 
     # tl "Hahahaha."
-    tl "Hahahaha."
+    tl "哈哈哈哈。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:390
 translate chinese sm1mv01s10_5bfe9276:
 
     # tl "So, what brings you out here?"
-    tl "So, what brings you out here?"
+    tl "话说你怎么跑这来了？"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:392
 translate chinese sm1mv01s10_79c35926:
 
     # mc "Just wanted to check in on you."
-    mc "Just wanted to check in on you."
+    mc "就是想来看看你。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:395
 translate chinese sm1mv01s10_003cb70d:
 
     # tl "Oh, well I'm all good. Just finished up my swim and was going to head back in a sec."
-    tl "Oh, well I'm all good. Just finished up my swim and was going to head back in a sec."
+    tl "哦，我完全没事啊。刚游完泳，准备过一会儿就回去。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:397
 translate chinese sm1mv01s10_605a79d9:
 
     # mc "Cool, you want me to walk you back?"
-    mc "Cool, you want me to walk you back?"
+    mc "好，需要我陪你一起回去吗？"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:400
 translate chinese sm1mv01s10_a1053303:
 
     # tl "Nah, I'll be back in a sec... I jus want to listen to the ocean for a little bit more."
-    tl "Nah, I'll be back in a sec... I jus want to listen to the ocean for a little bit more."
+    tl "不用了，我过一会儿就回去... 我只是想再多听听海浪的声音。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:402
 translate chinese sm1mv01s10_c54711dc:
 
     # mc "Cool, sounds good."
-    mc "Cool, sounds good."
+    mc "那挺好的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:408
 translate chinese sm1mv01s10_76093c23:
 
     # mc "Oh, and we've gotta' leave by like 10 tomorrow."
-    mc "Oh, and we've gotta' leave by like 10 tomorrow."
+    mc "哦对了，我们明天大概10点就得出发。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:410
 translate chinese sm1mv01s10_4e156e2c:
 
     # tl "Sounds good."
-    tl "Sounds good."
+    tl "好的。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:413
 translate chinese sm1mv01s10_f78a3def:
 
     # mc "Night, Taisia."
-    mc "Night, Taisia."
+    mc "晚安，泰西娅。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:415
 translate chinese sm1mv01s10_b6cf5280:
 
     # tl "Good night, [mcname]."
-    tl "Good night, [mcname]."
+    tl "晚安，[mcname]。"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:315
 translate chinese sm1mv01s10_9ab27c1f:
 
     # kv "I'm sure once the money comes in we can start to work on some of these other things, it'll get easier."
-    kv "I'm sure once the money comes in we can start to work on some of these other things, it'll get easier."
+    kv "我相信等钱到账后，我们就能着手做其他一些事情了，到时候一切都会变得更轻松。"
 
