@@ -2816,3 +2816,13 @@ translate italian strings:
     old "Solo, dammi un secondo e sarò pronto"
     new "Solo, dammi un secondo e sarò pronto"
 
+translate italian strings:
+
+    # game/code/scenes/main_story/sm1ms009.rpy:981
+    old "Yeah, that sounds great!"
+    new "Yeah, that sounds great!"
+
+    # game/code/scenes/main_story/sm1ms009.rpy:981
+    old "Just, give me a second and I'll be ready"
+    new "Just, give me a second and I'll be ready"
+

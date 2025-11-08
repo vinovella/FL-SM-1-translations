@@ -442,3 +442,109 @@ translate italian strings:
     old "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
     new "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
 
+translate italian strings:
+
+    # game/code/renpy/screens/screens.rpy:353
+    old "Saves For Chapter 2"
+    new "Saves For Chapter 2"
+
+    # game/code/renpy/screens/screens.rpy:729
+    old "Minigames :"
+    new "Minigames :"
+
+    # game/code/renpy/screens/screens.rpy:920
+    old "S&M Studio{#about_button}"
+    new "S&M Studio{#about_button}"
+
+    # game/code/renpy/screens/screens.rpy:924
+    old "Dev Team"
+    new "Dev Team"
+
+    # game/code/renpy/screens/screens.rpy:947
+    old "VERSION : [config.version!t]"
+    new "VERSION : [config.version!t]"
+
+    # game/code/renpy/screens/screens.rpy:949
+    old "DEVELOPED BY :"
+    new "DEVELOPED BY :"
+
+    # game/code/renpy/screens/screens.rpy:964
+    old "STORY WRITING"
+    new "STORY WRITING"
+
+    # game/code/renpy/screens/screens.rpy:973
+    old "ART & ANIMATION"
+    new "ART & ANIMATION"
+
+    # game/code/renpy/screens/screens.rpy:982
+    old "PROGRAMMING"
+    new "PROGRAMMING"
+
+    # game/code/renpy/screens/screens.rpy:991
+    old "SOUND DESIGN"
+    new "SOUND DESIGN"
+
+    # game/code/renpy/screens/screens.rpy:1002
+    old "MUSIC CREDITS"
+    new "MUSIC CREDITS"
+
+    # game/code/renpy/screens/screens.rpy:1005
+    old "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
+    new "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
+
+    # game/code/renpy/screens/screens.rpy:1008
+    old "This work is licensed under the {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
+    new "This work is licensed under the {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
+
+    # game/code/renpy/screens/screens.rpy:1011
+    old "This work is licensed under the {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
+    new "This work is licensed under the {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
+
+    # game/code/renpy/screens/screens.rpy:1016
+    old "Licensed under Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
+    new "Licensed under Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
+
+    # game/code/renpy/screens/screens.rpy:1019
+    old "Licensed under a {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
+    new "Licensed under a {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
+
+    # game/code/renpy/screens/screens.rpy:1020
+    old "Changes: quacking sounds added"
+    new "Changes: quacking sounds added"
+
+    # game/code/renpy/screens/screens.rpy:1024
+    old "VOICEOVER CREDITS"
+    new "VOICEOVER CREDITS"
+
+    # game/code/renpy/screens/screens.rpy:1038
+    old "PORTUGUESE TRANSLATION"
+    new "PORTUGUESE TRANSLATION"
+
+    # game/code/renpy/screens/screens.rpy:1043
+    old "SPANISH TRANSLATION"
+    new "SPANISH TRANSLATION"
+
+    # game/code/renpy/screens/screens.rpy:1048
+    old "DEUTSCH TRANSLATION"
+    new "DEUTSCH TRANSLATION"
+
+    # game/code/renpy/screens/screens.rpy:1059
+    old "GAME ENGINE"
+    new "GAME ENGINE"
+
+    # game/code/renpy/screens/screens.rpy:1064
+    old "PROOFREADING CREDITS"
+    new "PROOFREADING CREDITS"
+
+    # game/code/renpy/screens/screens.rpy:1065
+    old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
+    new "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
+
+    # game/code/renpy/screens/screens.rpy:1069
+    old "ICON CREDITS"
+    new "ICON CREDITS"
+
+    # game/code/renpy/screens/screens.rpy:1070
+    old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
+    new "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
+

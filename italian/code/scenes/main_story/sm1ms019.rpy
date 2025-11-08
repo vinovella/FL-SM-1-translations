@@ -1135,3 +1135,9 @@ translate italian sm1ms019_a0cfca12:
     # mct "There's just no way..."
     mct "Non è proprio possibile..."
 
+# game/code/scenes/main_story/sm1ms019.rpy:363
+translate italian sm1ms019_11455b53_1:
+
+    # mc "What?"
+    mc "What?"
+

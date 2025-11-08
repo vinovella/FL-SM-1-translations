@@ -218,3 +218,17 @@ translate italian strings:
     old "Doug"
     new "Doug"
 
+translate italian strings:
+
+    # game/code/data/characters/names.rpy:84
+    old "Carmel"
+    new "Carmel"
+
+    # game/code/data/characters/names.rpy:85
+    old "Ethan"
+    new "Ethan"
+
+    # game/code/data/characters/names.rpy:86
+    old "Jerk Cop"
+    new "Jerk Cop"
+

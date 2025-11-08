@@ -982,3 +982,255 @@ translate italian q_inter_ns_37_0bc7a040:
     # ns "*giggles* Yeah."
     ns "*giggles* Yeah."
 
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:559
+translate italian q_inter_ns_38_17166f24:
+
+    # ns "That was so fun, hooking up with you and Stacy."
+    ns "That was so fun, hooking up with you and Stacy."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:560
+translate italian q_inter_ns_38_d6a36a7a:
+
+    # mc "First time?"
+    mc "First time?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:561
+translate italian q_inter_ns_38_bf64d622:
+
+    # ns "Yes."
+    ns "Yes."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:564
+translate italian q_inter_ns_38_a018b071:
+
+    # ns "Wait? Was I that bad?"
+    ns "Wait? Was I that bad?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:567
+translate italian q_inter_ns_38_d1330e66:
+
+    # mc "Not at all Nari."
+    mc "Not at all Nari."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:573
+translate italian q_inter_ns_39_217556ef:
+
+    # ns "I wonder if Stacy will want to fuck me and you at the same time again."
+    ns "I wonder if Stacy will want to fuck me and you at the same time again."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:574
+translate italian q_inter_ns_39_3bffd0c2:
+
+    # mc "Oh I think you can safely assume that will happen again."
+    mc "Oh I think you can safely assume that will happen again."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:575
+translate italian q_inter_ns_39_93037fdf:
+
+    # mc "Stacy likes sex in all its forms."
+    mc "Stacy likes sex in all its forms."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:578
+translate italian q_inter_ns_39_a6593017:
+
+    # ns "Ooooh. Sounds like we'll get along nicely."
+    ns "Ooooh. Sounds like we'll get along nicely."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:585
+translate italian q_inter_ns_40_25048c2a:
+
+    # ns "I can't believe I'm going to make porn with you."
+    ns "I can't believe I'm going to make porn with you."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:590
+translate italian q_inter_ns_41_0ffd1d15:
+
+    # ns "I have to figure out some kind of pornstar name."
+    ns "I have to figure out some kind of pornstar name."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:591
+translate italian q_inter_ns_41_52a24206:
+
+    # ns "Nari Stardust. Nari Always-Wet."
+    ns "Nari Stardust. Nari Always-Wet."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:592
+translate italian q_inter_ns_41_8dd527a3:
+
+    # mc "I don't think pornstar names usually use their first name."
+    mc "I don't think pornstar names usually use their first name."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:595
+translate italian q_inter_ns_41_61edbb0d:
+
+    # ns "This is going to be harder than I thought."
+    ns "This is going to be harder than I thought."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:600
+translate italian q_inter_ns_42_0443c849:
+
+    # ns "Hello roomie."
+    ns "Hello roomie."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:605
+translate italian q_inter_ns_43_9c9704f2:
+
+    # ns "I really love my room, [mcname]."
+    ns "I really love my room, [mcname]."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:610
+translate italian q_inter_ns_44_869134b1:
+
+    # ns "The bathroom at home is so big."
+    ns "The bathroom at home is so big."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:615
+translate italian q_inter_ns_45_eef0c656:
+
+    # ns "Mmmuah..."
+    ns "Mmmuah..."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:616
+translate italian q_inter_ns_45_9fbc0f46:
+
+    # mc "Nari?"
+    mc "Nari?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:617
+translate italian q_inter_ns_45_8963cfad:
+
+    # ns "Hehe. Just thinking about the next time we have some down-time."
+    ns "Hehe. Just thinking about the next time we have some down-time."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:623
+translate italian q_inter_ns_46_fbccf30c:
+
+    # ns "This place is amazing. I found the garage yesterday."
+    ns "This place is amazing. I found the garage yesterday."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:624
+translate italian q_inter_ns_46_88799376:
+
+    # ns "Maybe one day I'll have a car to put in there."
+    ns "Maybe one day I'll have a car to put in there."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:625
+translate italian q_inter_ns_46_2034c056:
+
+    # mc "Maybe."
+    mc "Maybe."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:631
+translate italian q_inter_ns_47_073558da:
+
+    # ns "Mmmm. What is that look, [mcname]."
+    ns "Mmmm. What is that look, [mcname]."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:632
+translate italian q_inter_ns_47_6f09aad8:
+
+    # ns "Are you thinking of doing something naughty with me?"
+    ns "Are you thinking of doing something naughty with me?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:638
+translate italian q_inter_ns_48_c7779512:
+
+    # ns "Hey, [mcname]."
+    ns "Hey, [mcname]."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:639
+translate italian q_inter_ns_48_1fc48270:
+
+    # ns "Did you hear that Bitcoin is up again?"
+    ns "Did you hear that Bitcoin is up again?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:640
+translate italian q_inter_ns_48_8104a080:
+
+    # ns "I need to save some money next paycheck to buy some."
+    ns "I need to save some money next paycheck to buy some."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:646
+translate italian q_inter_ns_49_3ff77964:
+
+    # ns "Hi, [mcname]."
+    ns "Hi, [mcname]."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:647
+translate italian q_inter_ns_49_6154ad10:
+
+    # mc "What's wrong, Nari?"
+    mc "What's wrong, Nari?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:650
+translate italian q_inter_ns_49_807319e0:
+
+    # ns "Bitcoin went down again yesterday."
+    ns "Bitcoin went down again yesterday."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:651
+translate italian q_inter_ns_49_9dec280d:
+
+    # ns "Right after I bought some."
+    ns "Right after I bought some."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:652
+translate italian q_inter_ns_49_f196c3da:
+
+    # mc "Win some, lose some."
+    mc "Win some, lose some."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:655
+translate italian q_inter_ns_49_b93e4541:
+
+    # ns "Yes..."
+    ns "Yes..."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:660
+translate italian q_inter_ns_50_2c274d13:
+
+    # mc "Oh hey Nari! Going for a walk?"
+    mc "Oh hey Nari! Going for a walk?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:661
+translate italian q_inter_ns_50_f6afdaa7:
+
+    # ns "Mmhmmm! I just think Crowning is so beautiful."
+    ns "Mmhmmm! I just think Crowning is so beautiful."
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:662
+translate italian q_inter_ns_50_fd8f367f:
+
+    # mc "I do too!"
+    mc "I do too!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:667
+translate italian q_inter_ns_51_8522c77b:
+
+    # ns "[mcname]!"
+    ns "[mcname]!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:668
+translate italian q_inter_ns_51_03d1e965:
+
+    # mc "Yes, Nari?"
+    mc "Yes, Nari?"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:671
+translate italian q_inter_ns_51_7683dcea:
+
+    # ns "One day we should come out here and fool around in the bushes!"
+    ns "One day we should come out here and fool around in the bushes!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:672
+translate italian q_inter_ns_51_b365e603:
+
+    # mc "That sounds like a plan!"
+    mc "That sounds like a plan!"
+
+# game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:673
+translate italian q_inter_ns_51_640f754e:
+
+    # mct "I always forget Nari is a little freaky."
+    mct "I always forget Nari is a little freaky."
+

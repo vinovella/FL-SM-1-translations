@@ -160,3 +160,243 @@ translate italian q_inter_mes_6_97110289:
     # mes "Well, I'm honored you chose my company as for your precious break time."
     mes "Well, I'm honored you chose my company as for your precious break time."
 
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:107
+translate italian q_inter_mes_7_c31c6b56:
+
+    # mes "Kanya seems very skilled, [mcname]."
+    mes "Kanya seems very skilled, [mcname]."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:108
+translate italian q_inter_mes_7_a3f4ada6:
+
+    # mes "She is really a fine addition to your team."
+    mes "She is really a fine addition to your team."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:109
+translate italian q_inter_mes_7_68b95aa2:
+
+    # mc "Thanks, Min."
+    mc "Thanks, Min."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:114
+translate italian q_inter_mes_8_705ee222:
+
+    # mes "Hi, [mcname]. Guess what?"
+    mes "Hi, [mcname]. Guess what?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:115
+translate italian q_inter_mes_8_11455b53:
+
+    # mc "What?"
+    mc "What?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:116
+translate italian q_inter_mes_8_fe11005a:
+
+    # mes "I got a perfect score on my last assignment."
+    mes "I got a perfect score on my last assignment."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:119
+translate italian q_inter_mes_8_b5b8e299:
+
+    # mes "I wonder if I push myself, if I can graduate early."
+    mes "I wonder if I push myself, if I can graduate early."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:125
+translate italian q_inter_mes_9_45518ace:
+
+    # mes "Ready for some more shots?"
+    mes "Ready for some more shots?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:126
+translate italian q_inter_mes_9_5b66d0bb:
+
+    # mc "Please no, Min."
+    mc "Please no, Min."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:127
+translate italian q_inter_mes_9_a3440e08:
+
+    # mc "I think my liver tried to escape out of my toes last time."
+    mc "I think my liver tried to escape out of my toes last time."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:128
+translate italian q_inter_mes_9_77acbbbf:
+
+    # mes "Haha. Lightweight."
+    mes "Haha. Lightweight."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:134
+translate italian q_inter_mes_10_9150e656:
+
+    # mc "How are your classes going?"
+    mc "How are your classes going?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:135
+translate italian q_inter_mes_10_e4be0e70:
+
+    # mes "Oh perfectly average."
+    mes "Oh perfectly average."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:136
+translate italian q_inter_mes_10_d2287aa1:
+
+    # mes "The history of European Socialism never loses its charm."
+    mes "The history of European Socialism never loses its charm."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:141
+translate italian q_inter_mes_11_3a2deb13:
+
+    # mc "Looking good, Min."
+    mc "Looking good, Min."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:142
+translate italian q_inter_mes_11_9dadc47f:
+
+    # mes "You're not so bad yourself, big boy."
+    mes "You're not so bad yourself, big boy."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:148
+translate italian q_inter_mes_12_19808382:
+
+    # mes "Blergh."
+    mes "Blergh."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:149
+translate italian q_inter_mes_12_d30f4bac:
+
+    # mc "Problem?"
+    mc "Problem?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:150
+translate italian q_inter_mes_12_66a10b8f:
+
+    # mes "More of an... annoyance."
+    mes "More of an... annoyance."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:153
+translate italian q_inter_mes_12_b1a5a483:
+
+    # mes "I forgot who terrible the Wifi can be here."
+    mes "I forgot who terrible the Wifi can be here."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:154
+translate italian q_inter_mes_12_c7e90b55:
+
+    # mes "It's one of the things I miss about Seoul."
+    mes "It's one of the things I miss about Seoul."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:159
+translate italian q_inter_mes_13_65856392:
+
+    # mes "Hey, [mcname]."
+    mes "Hey, [mcname]."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:160
+translate italian q_inter_mes_13_ecf41c94:
+
+    # mes "How is the studio doing?"
+    mes "How is the studio doing?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:161
+translate italian q_inter_mes_13_bcd368dd:
+
+    # mc "Good. Nothing too crazy going on."
+    mc "Good. Nothing too crazy going on."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:162
+translate italian q_inter_mes_13_8360cff9:
+
+    # mc "At least not compared to Fetish Locator crazy."
+    mc "At least not compared to Fetish Locator crazy."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:165
+translate italian q_inter_mes_13_8119ff39:
+
+    # mes "Haha."
+    mes "Haha."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:171
+translate italian q_inter_mes_14_aaa5bfca:
+
+    # mes "You know something?"
+    mes "You know something?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:172
+translate italian q_inter_mes_14_11455b53:
+
+    # mc "What?"
+    mc "What?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:173
+translate italian q_inter_mes_14_28bc6df2:
+
+    # mes "I may have... scouted out the bathroom here."
+    mes "I may have... scouted out the bathroom here."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:174
+translate italian q_inter_mes_14_b8de06d3:
+
+    # mc "Oh."
+    mc "Oh."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:177
+translate italian q_inter_mes_14_a6c1cf49:
+
+    # mes "Nice and clean. Functional locks."
+    mes "Nice and clean. Functional locks."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:178
+translate italian q_inter_mes_14_60e3329a:
+
+    # mes "Very interesting, wouldn't you say."
+    mes "Very interesting, wouldn't you say."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:179
+translate italian q_inter_mes_14_4661a639:
+
+    # mc "Mmhmm."
+    mc "Mmhmm."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:185
+translate italian q_inter_mes_15_dadb5b86:
+
+    # mes "Mmm."
+    mes "Mmm."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:186
+translate italian q_inter_mes_15_b85746b1:
+
+    # mc "What's on your mind?"
+    mc "What's on your mind?"
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:187
+translate italian q_inter_mes_15_e5959447:
+
+    # mes "I saw a flyer for a party at the university."
+    mes "I saw a flyer for a party at the university."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:190
+translate italian q_inter_mes_15_b590c121:
+
+    # mes "It looked good, but I just know I could put together one that would put theirs to shame."
+    mes "It looked good, but I just know I could put together one that would put theirs to shame."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:191
+translate italian q_inter_mes_15_e526a903:
+
+    # mc "Hmmm."
+    mc "Hmmm."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:192
+translate italian q_inter_mes_15_0796b207:
+
+    # mc "Maybe we can do one in the future."
+    mc "Maybe we can do one in the future."
+
+# game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:195
+translate italian q_inter_mes_15_a52d6b10:
+
+    # mes "Here is hoping."
+    mes "Here is hoping."
+

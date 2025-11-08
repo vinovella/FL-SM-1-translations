@@ -262,3 +262,45 @@ translate italian q_inter_vs_11_cd1b3d42:
     # vs "Bubblegum likes gum, but I think she likes your cum better. *giggles*"
     vs "Bubblegum likes gum, but I think she likes your cum better. *giggles*"
 
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:157
+translate italian q_inter_vs_12_fbd78eaa:
+
+    # vs "Yay, [mcname]! You're finally one of the real actors."
+    vs "Yay, [mcname]! You're finally one of the real actors."
+
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:158
+translate italian q_inter_vs_12_40ecebb6:
+
+    # vs "You don't have to feel ashamed of being a stagehand any longer."
+    vs "You don't have to feel ashamed of being a stagehand any longer."
+
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:159
+translate italian q_inter_vs_12_6d495a60:
+
+    # mc "I was never ashamed of that."
+    mc "I was never ashamed of that."
+
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:162
+translate italian q_inter_vs_12_8576433e:
+
+    # vs "Oh?"
+    vs "Oh?"
+
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:163
+translate italian q_inter_vs_12_a24c393b:
+
+    # vs "Why not?"
+    vs "Why not?"
+
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:170
+translate italian q_inter_vs_13_7c4f4e75:
+
+    # vs "The most important thing about being a true actor is to not panic."
+    vs "The most important thing about being a true actor is to not panic."
+
+# game/code/data/quick_interactions/Theater/q-inter-vs.rpy:171
+translate italian q_inter_vs_13_db875d9f:
+
+    # vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
+    vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
+
