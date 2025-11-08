@@ -1,22 +1,23 @@
 ﻿translate french strings:
 
-    # game/code/classes/location_controller.rpy:128
+    # game/code/classes/location_controller.rpy:129
     old "This location is not accessible right now"
-    new "This location is not accessible right now"
+    new "Ce lieu n'est pas accessible pour le moment"
 
-    # game/code/classes/location_controller.rpy:134
+    # game/code/classes/location_controller.rpy:135
     old "This location is closed today"
-    new "This location is closed today"
+    new "Ce lieu est fermé aujourd'hui"
 
-    # game/code/classes/location_controller.rpy:134
+    # game/code/classes/location_controller.rpy:135
     old "This location is not open yet"
-    new "This location is not open yet"
+    new "Ce lieu n'est pas encore ouvert"
 
-    # game/code/classes/location_controller.rpy:134
+    # game/code/classes/location_controller.rpy:135
     old "This location is already closed for the day"
-    new "This location is already closed for the day"
+    new "Ce lieu est déjà fermé pour la journée"
 
-    # game/code/classes/location_controller.rpy:134
+    # game/code/classes/location_controller.rpy:135
     old "This location is unavailable"
-    new "This location is unavailable"
+    new "Ce lieu n'est pas disponible"
 
+#Translate by BlackViper_

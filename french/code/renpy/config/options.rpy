@@ -4,3 +4,10 @@
     old "SM"
     new "SM"
 
+#Translate by BlackViper_
+translate french strings:
+
+    # game/code/renpy/config/options.rpy:16
+    old "Fetish Locator: S&M Studio"
+    new "Fetish Locator: S&M Studio"
+

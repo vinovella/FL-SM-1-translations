@@ -1,104 +1,151 @@
 ﻿translate french strings:
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Wait until next early morning to talk with Stacy about the movie"
-    new "Wait until next early morning to talk with Stacy about the movie"
+    old "Talk to Stacy about the movie in the morning"
+    new "Parler à Stacy du film le matin"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Buy costumes and recruit actress for the movie"
-    new "Buy costumes and recruit actress for the movie"
+    new "Acheter des costumes et recruter une actrice pour le film"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Choose whether to invest in costumes or recruit an actress first"
-    new "Choose whether to invest in costumes or recruit an actress first"
+    new "Choisir d'investir d'abord dans des costumes ou de recruter une actrice"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Keep investing in the costume budget to prepare the outfits for the movie"
-    new "Keep investing in the costume budget to prepare the outfits for the movie"
+    new "Continuer à investir dans le budget des costumes pour préparer les tenues du film"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Focus on recruiting an actress by filling the actress budget"
-    new "Focus on recruiting an actress by filling the actress budget"
+    new "Se concentrer sur le recrutement d'une actrice en complétant le budget des actrices"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with stacy to buy costumes"
+    new "Parler avec Stacy pour acheter des costumes"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with stacy to hire actresses"
+    new "Parler avec Stacy pour engager des actrices"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Find Taisia and recruit her for the movie"
+    new "Trouver Taisia et la recruter pour le film"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk to Stacy about working on the movie"
+    new "Parler avec Stacy du travail sur le film"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Add money for buying props and energy for building the props"
+    new "Ajouter de l'argent pour acheter des accessoires et de l'énergie pour les construire"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Add money for buying props"
+    new "Ajouter de l'argent pour acheter des accessoires"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Add energy for building the props"
+    new "Ajouter de l'énergie pour construire les accessoires"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Stacy to finish building props"
+    new "Parler avec Stacy pour finir de construire les accessoires"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk to Stacy in the Morning to start filming the movie"
+    new "Parler à Stacy le matin pour commencer le tournage du film"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Wait to film next scene"
+    new "Attendre pour tourner la scène suivante"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Taisia to start filming next scene"
+    new "Parler avec Taisia pour commencer à tourner la scène suivante"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Stacy wants to talk to you at Noon."
+    new "Stacy veut te parler à midi."
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Add money for travel"
+    new "Ajouter de l'argent pour le voyage"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Taisia to travel"
+    new "Parler avec Taisia pour voyager"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Work on editing the movie"
+    new "Travailler sur le montage du film"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Talk with Stacy about the movie editing"
+    new "Parler avec Stacy du montage du film"
+
+#Translate by BlackViper_
+translate french strings:
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Wait until the next early morning to talk with Stacy about the movie"
+    new "Wait until the next early morning to talk with Stacy about the movie"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Buy costumes and recruit an actress for the movie"
+    new "Buy costumes and recruit an actress for the movie"
+
+    # game/code/data/quests/quests_movies.rpy:3
+    old "Keep investing in the costume budget to prepare the outfits"
+    new "Keep investing in the costume budget to prepare the outfits"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Talk with Stacy to buy costumes"
     new "Talk with Stacy to buy costumes"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy to hire actresses"
-    new "Talk with Stacy to hire actresses"
+    old "Talk with Stacy to hire an actress"
+    new "Talk with Stacy to hire an actress"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Find Taisia and recruit her for the movie"
-    new "Find Taisia and recruit her for the movie"
+    old "Add money to buy props and energy to build them"
+    new "Add money to buy props and energy to build them"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy about working on the movie"
-    new "Talk to Stacy about working on the movie"
+    old "Add money to buy props"
+    new "Add money to buy props"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Add money for buying props and energy for building the props"
-    new "Add money for buying props and energy for building the props"
+    old "Add energy to build the props"
+    new "Add energy to build the props"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Add money for buying props"
-    new "Add money for buying props"
+    old "Talk to Stacy in the morning to start filming the movie"
+    new "Talk to Stacy in the morning to start filming the movie"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Add energy for building the props"
-    new "Add energy for building the props"
+    old "Talk with Taisia to start filming the next scene"
+    new "Talk with Taisia to start filming the next scene"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy to finish building props"
-    new "Talk with Stacy to finish building props"
+    old "Stacy wants to talk to you at noon."
+    new "Stacy wants to talk to you at noon."
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy in the Morning to start filming the movie"
-    new "Talk to Stacy in the Morning to start filming the movie"
+    old "Wait until early morning to talk with Stacy about the Sci-Fi movie"
+    new "Wait until early morning to talk with Stacy about the Sci-Fi movie"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Wait to film next scene"
-    new "Wait to film next scene"
+    old "Recruit Lyssa or Min as the actress for the Sci-Fi movie (you can only recruit one)"
+    new "Recruit Lyssa or Min as the actress for the Sci-Fi movie (you can only recruit one)"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Taisia to start filming next scene"
-    new "Talk with Taisia to start filming next scene"
+    old "Recruit Nari as the lead actress for the Sci-Fi movie"
+    new "Recruit Nari as the lead actress for the Sci-Fi movie"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Stacy wants to talk to you at Noon."
-    new "Stacy wants to talk to you at Noon."
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Add money for travel"
-    new "Add money for travel"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Taisia to travel"
-    new "Talk with Taisia to travel"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Work on editing the movie"
-    new "Work on editing the movie"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy about the movie editing"
-    new "Talk with Stacy about the movie editing"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Wait until early morning to talk with Stacy about the Sci-Fi Movie"
-    new "Wait until early morning to talk with Stacy about the Sci-Fi Movie"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Recruit Lyssa or Min as actress for the Sci-Fi Movie (you can only recruit one)"
-    new "Recruit Lyssa or Min as actress for the Sci-Fi Movie (you can only recruit one)"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Recruit Nari as the lead actress for the Sci-Fi Movie"
-    new "Recruit Nari as the lead actress for the Sci-Fi Movie"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy about Sci-Fi Movie props"
-    new "Talk to Stacy about Sci-Fi Movie props"
+    old "Talk to Stacy about Sci-Fi movie props"
+    new "Talk to Stacy about Sci-Fi movie props"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Talk to Stacy about building the set"
@@ -109,24 +156,24 @@
     new "Talk to Kanya to continue building the set in Photo Dojo"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy in the afternoon about the next step for the Sci-Fi Movie"
-    new "Talk to Stacy in the afternoon about the next step for the Sci-Fi Movie"
+    old "Talk to Stacy in the afternoon about the next step for the Sci-Fi movie"
+    new "Talk to Stacy in the afternoon about the next step for the Sci-Fi movie"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy to prepare for filming the Sci-Fi Movie"
-    new "Talk to Stacy to prepare for filming the Sci-Fi Movie"
+    old "Talk to Stacy to prepare for filming the Sci-Fi movie"
+    new "Talk to Stacy to prepare for filming the Sci-Fi movie"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Add money for paying actresses and energy for preparing outfits"
-    new "Add money for paying actresses and energy for preparing outfits"
+    old "Add money to pay actresses and energy to prepare outfits"
+    new "Add money to pay actresses and energy to prepare outfits"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy in the Evening to start filming the Sci-Fi Movie"
-    new "Talk to Stacy in the Evening to start filming the Sci-Fi Movie"
+    old "Talk to Stacy in the evening to start filming the Sci-Fi movie"
+    new "Talk to Stacy in the evening to start filming the Sci-Fi movie"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy to film the next Sci-Fi Movie scene"
-    new "Talk with Stacy to film the next Sci-Fi Movie scene"
+    old "Talk with Stacy to film the next Sci-Fi movie scene"
+    new "Talk with Stacy to film the next Sci-Fi movie scene"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Talk about going to the spa"
@@ -153,28 +200,28 @@
     new "Talk to Lyssa about going to the spa with Nari"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy about big scenes in Sci-Fi Movie"
-    new "Talk with Stacy about big scenes in Sci-Fi Movie"
+    old "Talk with Stacy about big scenes in the Sci-Fi movie"
+    new "Talk with Stacy about big scenes in the Sci-Fi movie"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Add money for CGI"
     new "Add money for CGI"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy at the Studio in the early morning"
-    new "Talk to Stacy at the Studio in the early morning"
+    old "Talk to Stacy at the studio in the early morning"
+    new "Talk to Stacy at the studio in the early morning"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy to film the final scene of Sci-Fi Movie"
-    new "Talk with Stacy to film the final scene of Sci-Fi Movie"
+    old "Talk with Stacy to film the final scene of the Sci-Fi movie"
+    new "Talk with Stacy to film the final scene of the Sci-Fi movie"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Add energy for editing the Sci-Fi Movie"
-    new "Add energy for editing the Sci-Fi Movie"
+    old "Add energy to edit the Sci-Fi movie"
+    new "Add energy to edit the Sci-Fi movie"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Tell Stacy that you are done editing the Sci-Fi Movie in the afternoon"
-    new "Tell Stacy that you are done editing the Sci-Fi Movie in the afternoon"
+    old "Tell Stacy that you are done editing the Sci-Fi movie in the afternoon"
+    new "Tell Stacy that you are done editing the Sci-Fi movie in the afternoon"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Wait a couple of days"

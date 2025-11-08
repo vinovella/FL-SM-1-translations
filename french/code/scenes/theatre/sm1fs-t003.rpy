@@ -1066,73 +1066,73 @@ translate french sm1fs_t003_0fe24be9:
     # sb "Let me show you..."
     sb "Let me show you..."
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:574
+# game/code/scenes/theatre/sm1fs-t003.rpy:573
 translate french sm1fs_t003_ss_tutorial_end_cb202996:
 
     # sb "And that's it!"
     sb "And that's it!"
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:576
+# game/code/scenes/theatre/sm1fs-t003.rpy:575
 translate french sm1fs_t003_ss_tutorial_end_20ea3c1f:
 
     # mc "Huh. That wasn't so bad."
     mc "Huh. That wasn't so bad."
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:577
+# game/code/scenes/theatre/sm1fs-t003.rpy:576
 translate french sm1fs_t003_ss_tutorial_end_5742fd81:
 
     # sb "Now, the important thing is to remember the rehearsals."
     sb "Now, the important thing is to remember the rehearsals."
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:580
+# game/code/scenes/theatre/sm1fs-t003.rpy:579
 translate french sm1fs_t003_ss_tutorial_end_beb53763:
 
     # mc "Rehearsals."
     mc "Rehearsals."
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:582
+# game/code/scenes/theatre/sm1fs-t003.rpy:581
 translate french sm1fs_t003_ss_tutorial_end_9841d933:
 
     # sb "Yep. Throughout the week we hold rehearsals for the show on Saturday. Show up, practice what you need to do, and come Saturday you just need to show up and do it for the show."
     sb "Yep. Throughout the week we hold rehearsals for the show on Saturday. Show up, practice what you need to do, and come Saturday you just need to show up and do it for the show."
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:583
+# game/code/scenes/theatre/sm1fs-t003.rpy:582
 translate french sm1fs_t003_ss_tutorial_end_2aa20ca2:
 
     # mc "Oh, that makes sense."
     mc "Oh, that makes sense."
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:586
+# game/code/scenes/theatre/sm1fs-t003.rpy:585
 translate french sm1fs_t003_ss_tutorial_end_98e24843:
 
     # sb "We'll even pay you for rehearsals, but the big payday comes Saturday nights."
     sb "We'll even pay you for rehearsals, but the big payday comes Saturday nights."
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:588
+# game/code/scenes/theatre/sm1fs-t003.rpy:587
 translate french sm1fs_t003_ss_tutorial_end_0dbac4de:
 
     # mc "Cool. So show up, rehearse, then Saturday night showtime?"
     mc "Cool. So show up, rehearse, then Saturday night showtime?"
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:590
+# game/code/scenes/theatre/sm1fs-t003.rpy:589
 translate french sm1fs_t003_ss_tutorial_end_f499b56b:
 
     # sb "You got it?"
     sb "You got it?"
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:593
+# game/code/scenes/theatre/sm1fs-t003.rpy:592
 translate french sm1fs_t003_ss_tutorial_end_17e99eb4:
 
     # mc "Cool, I can do that."
     mc "Cool, I can do that."
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:595
+# game/code/scenes/theatre/sm1fs-t003.rpy:594
 translate french sm1fs_t003_ss_tutorial_end_da8dace7:
 
     # sb "Great. Well I've done my 12 today, so I'm heading out. I'll see ya' around kid."
     sb "Great. Well I've done my 12 today, so I'm heading out. I'll see ya' around kid."
 
-# game/code/scenes/theatre/sm1fs-t003.rpy:599
+# game/code/scenes/theatre/sm1fs-t003.rpy:598
 translate french sm1fs_t003_ss_tutorial_end_548f0968:
 
     # mc "Sounds good, I'll see ya', Sam!"

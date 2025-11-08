@@ -14,7 +14,7 @@
 
     # game/code/data/constants/location_constants.rpy:59
     old "Wurst Delivery"
-    new "香肠快递"
+    new "Wurst Delivery"
 
     # game/code/data/constants/location_constants.rpy:69
     old "Orbix"

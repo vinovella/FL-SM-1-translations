@@ -2,31 +2,33 @@
 
     # game/code/renpy/screens/others.rpy:27
     old "Sync your saves using Ren'Py Sync server"
-    new "Sync your saves using Ren'Py Sync server"
+    new "Synchronise tes sauvegardes avec le serveur de synchro Ren'Py"
 
     # game/code/renpy/screens/others.rpy:29
     old "Upload Saves"
-    new "Upload Saves"
+    new "Envoyer les sauvegardes"
 
     # game/code/renpy/screens/others.rpy:30
     old "Download Saves"
-    new "Download Saves"
+    new "Télécharger les sauvegardes"
 
     # game/code/renpy/screens/others.rpy:75
     old "SKIP"
-    new "SKIP"
+    new "PASSER"
 
     # game/code/renpy/screens/others.rpy:222
     old "Please enter your name here!"
-    new "Please enter your name here!"
+    new "Entre ton nom ici !"
 
     # game/code/renpy/screens/others.rpy:230
     old "{u}DONE{/u}"
-    new "{u}DONE{/u}"
+    new "{u}TERMINÉ{/u}"
 
-    # game/code/renpy/screens/others.rpy:276
+    # game/code/renpy/screens/others.rpy:277
     old "How do you want to name your save?"
-    new "How do you want to name your save?"
+    new "Comment veux-tu nommer ta sauvegarde ?"
+
+#Translate by BlackViper_
 
 translate french strings:
 

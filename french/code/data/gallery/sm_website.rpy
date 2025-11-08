@@ -2,51 +2,59 @@
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Red-haired maid fucked hard"
-    new "Red-haired maid fucked hard"
+    new "Soubrette rousse baisée sauvagement"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Mr. CEO Man"
-    new "Mr. CEO Man"
+    new "Monsieur le PDG"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Maid"
-    new "Maid"
+    new "Soubrette"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Sexy brunette fucked in a car"
-    new "Sexy brunette fucked in a car"
+    new "Brune sexy baisée dans une voiture"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Officer Johnson"
-    new "Officer Johnson"
+    new "Officier Johnson"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Street Racer"
-    new "Street Racer"
+    new "Pilote de rue"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Slutty redhead farmer girl gets her tight ass pounded"
-    new "Slutty redhead farmer girl gets her tight ass pounded"
+    new "Fermière rousse cochonne se fait pilonner le cul serré"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Farmhand Jon"
-    new "Farmhand Jon"
+    new "Fermier Jon"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Ms. Jones"
-    new "Ms. Jones"
+    new "Mme Jones"
+
+    # game/code/data/gallery/sm_website.rpy:1
+    old "Curse of the Pirate Queen"
+    new "La malédiction de la reine pirate"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Dickhart"
-    new "Dickhart"
+    new "Dickhart" 
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Tempestra"
-    new "Tempestra"
+    new "Tempestra" 
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Searose"
-    new "Searose"
+    new "Searose" 
+
+#Translate by BlackViper_
+
+translate french strings:
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Captain Ramses Hornstar"

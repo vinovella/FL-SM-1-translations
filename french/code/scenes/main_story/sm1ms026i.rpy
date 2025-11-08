@@ -1,27 +1,28 @@
-﻿# game/code/scenes/main_story/sm1ms026i.rpy:6
+﻿# game/code/scenes/main_story/sm1ms026i.rpy:7
 translate french sm1ms026i_2faef0f8:
 
     # sy "Yes?"
-    sy "Yes?"
+    sy "Oui ?"
 
-# game/code/scenes/main_story/sm1ms026i.rpy:8
+# game/code/scenes/main_story/sm1ms026i.rpy:9
 translate french sm1ms026i_c09dac6f:
 
     # mc "All right, what do we need to do to start making our first movie?"
-    mc "All right, what do we need to do to start making our first movie?"
+    mc "Très bien, qu’est-ce qu’on doit faire pour commencer notre premier film ?"
 
-# game/code/scenes/main_story/sm1ms026i.rpy:12
+# game/code/scenes/main_story/sm1ms026i.rpy:13
 translate french sm1ms026i_7d568254:
 
     # sy "Yay! It's happening!"
-    sy "Yay! It's happening!"
+    sy "Ouais ! Ça y est, on le fait !"
 
-# game/code/scenes/main_story/sm1ms026i.rpy:13
+# game/code/scenes/main_story/sm1ms026i.rpy:14
 translate french sm1ms026i_d3093dfe:
 
     # sy "Let's go talk on the couch!"
-    sy "Let's go talk on the couch!"
+    sy "Allons en parler sur le canapé !"
 
+#Translate by BlackViper_
 # game/code/scenes/main_story/sm1ms026i.rpy:29
 translate french sm1ms026_1i_continue_ae34085a:
 

@@ -562,139 +562,139 @@ translate french sm1cs_mh010_55930339:
     # mh "I'm exhausted, why don't we just cuddle up tonight, and you sleep on everything I just told you."
     mh "I'm exhausted, why don't we just cuddle up tonight, and you sleep on everything I just told you."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:272
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:273
 translate french sm1cs_mh010_8684970c:
 
     # mc "That sounds good to me."
     mc "That sounds good to me."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:275
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:276
 translate french sm1cs_mh010_2f15e1ef:
 
     # mh "I was hoping you'd say that."
     mh "I was hoping you'd say that."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:279
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:280
 translate french sm1cs_mh010_a041e779:
 
     # mc "Has anyone told you that you're amazing?"
     mc "Has anyone told you that you're amazing?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:282
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:283
 translate french sm1cs_mh010_5b8a49c4:
 
     # mh "Once or twice, but a girl likes to hear it every once in awhile."
     mh "Once or twice, but a girl likes to hear it every once in awhile."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:285
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:286
 translate french sm1cs_mh010_e13491b8:
 
     # mc "You're amazing, Lyssa."
     mc "You're amazing, Lyssa."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:301
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:302
 translate french sm1cs_mh010_5c3ee9d7:
 
     # mh "Now, troublemaker, let's crawl into bed."
     mh "Now, troublemaker, let's crawl into bed."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:304
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:305
 translate french sm1cs_mh010_54140df5:
 
     # mc "You don't have to tell me twice!"
     mc "You don't have to tell me twice!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:311
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:312
 translate french sm1cs_mh010_e26f48c7_1:
 
     # mh "Mmmmm..."
     mh "Mmmmm..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:312
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:313
 translate french sm1cs_mh010_3c2389f9:
 
     # mh "It is nice sharing a bed with you, [mcname]."
     mh "It is nice sharing a bed with you, [mcname]."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:315
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:316
 translate french sm1cs_mh010_5b7159dd:
 
     # mc "I feel the same way."
     mc "I feel the same way."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:319
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:320
 translate french sm1cs_mh010_cf3a84ff:
 
     # mh "As you should. Good night, lover boy."
     mh "As you should. Good night, lover boy."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:322
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:323
 translate french sm1cs_mh010_cf914103:
 
     # mc "Good night, Lyssa."
     mc "Good night, Lyssa."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:331
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:332
 translate french sm1cs_mh010_1309666f:
 
     # mc "God, I would love to, Lyssa, but I still have things I need to do tonight."
     mc "God, I would love to, Lyssa, but I still have things I need to do tonight."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:334
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:335
 translate french sm1cs_mh010_91abff36:
 
     # mh "Shame."
     mh "Shame."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:338
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:339
 translate french sm1cs_mh010_1ac88e2b:
 
     # mc "But I will definitely be taking you up on that offer."
     mc "But I will definitely be taking you up on that offer."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:340
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:341
 translate french sm1cs_mh010_77f600b5:
 
     # mh "Promise?"
     mh "Promise?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:342
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:343
 translate french sm1cs_mh010_1d93a636:
 
     # mc "I swear on my life, I will."
     mc "I swear on my life, I will."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:343
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:344
 translate french sm1cs_mh010_83239112:
 
     # mh "Good."
     mh "Good."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:348
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:349
 translate french sm1cs_mh010_afedbc76:
 
     # mh "Well then you better skedaddle, before I start using my feminine wiles to convince you to stay."
     mh "Well then you better skedaddle, before I start using my feminine wiles to convince you to stay."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:351
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:352
 translate french sm1cs_mh010_5f669cb5:
 
     # mc "Maybe I can sit here just a little longer, see what wiles you've got up your sleeve."
     mc "Maybe I can sit here just a little longer, see what wiles you've got up your sleeve."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:356
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:357
 translate french sm1cs_mh010_c5058333:
 
     # mh "Hehehe, go you rapscallion. You know where to find me."
     mh "Hehehe, go you rapscallion. You know where to find me."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:359
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:360
 translate french sm1cs_mh010_cf914103_1:
 
     # mc "Good night, Lyssa."
     mc "Good night, Lyssa."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:363
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:364
 translate french sm1cs_mh010_7b7775f4:
 
     # mh "Good night, [mcname]."
@@ -702,11 +702,11 @@ translate french sm1cs_mh010_7b7775f4:
 
 translate french strings:
 
-    # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:267
+    # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:268
     old "Spend the night at Lyssa's"
     new "Spend the night at Lyssa's"
 
-    # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:267
+    # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:268
     old "Leave Lyssa's house"
     new "Leave Lyssa's house"
 

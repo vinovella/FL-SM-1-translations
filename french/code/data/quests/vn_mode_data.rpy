@@ -1,132 +1,656 @@
 ﻿translate french strings:
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Movie night with Stacy"
+    new "Soirée cinéma avec Stacy"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk with Stacy about new job"
-    new "Talk with Stacy about new job"
+    new "Parler avec Stacy du nouveau boulot"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Check out what Stacy is doing"
-    new "Check out what Stacy is doing"
+    new "Aller voir ce que fait Stacy"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet an unexpected visitor"
-    new "Meet an unexpected visitor"
+    new "Rencontrer un visiteur inattendu"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Progress Denise, Kellie and Veronica's storyline"
-    new "Progress Denise, Kellie and Veronica's storyline"
+    new "Avancer dans l'histoire de Denise, Kellie et Veronica"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "A call with AmRose"
-    new "A call with AmRose"
+    new "Un appel avec AmRose"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about Theater"
-    new "Talk to Stacy about Theater"
+    new "Parler à Stacy du théâtre"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Lunch with Stacy"
-    new "Lunch with Stacy"
+    new "Déjeuner avec Stacy"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "At the restaurant"
-    new "At the restaurant"
+    new "Au restaurant"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Give Stacy the money for a wig"
-    new "Give Stacy the money for a wig"
+    new "Donner l'argent à Stacy pour une perruque"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Tell Kanya about the client"
-    new "Tell Kanya about the client"
+    new "Parler à Kanya du client"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Prepare for the first film"
-    new "Prepare for the first film"
+    new "Se préparer pour le premier film"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Trouble with AmRose"
-    new "Trouble with AmRose"
+    new "Problème avec AmRose"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Review your first film"
-    new "Review your first film"
+    new "Revoir ton premier film"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Have some fun with Stacy"
-    new "Have some fun with Stacy"
+    new "S'amuser avec Stacy"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Progress the Theater and Taisia's storyline"
-    new "Progress the Theater and Taisia's storyline"
+    new "Avancer dans l'histoire du théâtre et de Taisia"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Begin the renovation"
-    new "Begin the renovation"
+    new "Commencer la rénovation"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Tour the Theater with Stacy and Melony"
-    new "Tour the Theater with Stacy and Melony"
+    new "Visiter le théâtre avec Stacy et Melony"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "At the Theater"
-    new "At the Theater"
+    new "Au théâtre"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Continue renovating"
-    new "Continue renovating"
+    new "Continuer la rénovation"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Take a break with Stacy"
-    new "Take a break with Stacy"
+    new "Faire une pause avec Stacy"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Tour Orbix with Stacy and Melony"
-    new "Tour Orbix with Stacy and Melony"
+    new "Visiter Orbix avec Stacy et Melony"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "At Orbix"
-    new "At Orbix"
+    new "Chez Orbix"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Finish the renovation"
-    new "Finish the renovation"
+    new "Finir la rénovation"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Celebrate your success"
-    new "Celebrate your success"
+    new "Célébrer ton succès"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Tell Stacy you are ready"
-    new "Tell Stacy you are ready"
+    new "Dire à Stacy que tu es prêt"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Plan the next steps"
-    new "Plan the next steps"
+    new "Planifier les prochaines étapes"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Text Kanya"
-    new "Text Kanya"
+    new "Envoyer un message à Kanya"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Film the next movie"
-    new "Film the next movie"
+    new "Tourner le prochain film"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Help Stacy with editing the movie"
-    new "Help Stacy with editing the movie"
+    new "Aider Stacy au montage du film"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Check the status of the movie editing"
-    new "Check the status of the movie editing"
+    new "Vérifier l'avancement du montage du film"
 
-    # game/code/data/quests/vn_mode_data.rpy:9
+    # game/code/data/quests/vn_mode_data.rpy:10
     old "Check out the edited movie"
-    new "Check out the edited movie"
+    new "Regarder le film monté"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk about making a new move"
+    new "Parler de faire un nouveau film"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Decide what movie to make"
+    new "Décider quel film tourner"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Stacy launched the S&M Website"
+    new "Stacy a lancé le site S&M"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Learn about other jobs"
+    new "Découvrir d'autres boulots"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to Stacy about AmRose"
+    new "Parler à Stacy d'AmRose"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet with AmRose"
+    new "Rencontrer AmRose"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "At the Starducks Cafe"
+    new "Au café Starducks"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Chat with Amore"
+    new "Discuter avec Amore"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Photoshoot with Amore"
+    new "Séance photo avec Amore"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Check out photos"
+    new "Regarder les photos"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Next steps with Amore"
+    new "Prochaines étapes avec Amore"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet Debbie the cop"
+    new "Rencontrer Debbie la flic"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Help out Debbie"
+    new "Aider Debbie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Coffee with Debbie"
+    new "Prendre un café avec Debbie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Chat with Debbie"
+    new "Discuter avec Debbie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "What's up with Debbie?"
+    new "Quoi de neuf avec Debbie ?"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Coffee break with Debbie"
+    new "Pause café avec Debbie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Answer Debbie's message"
+    new "Répondre au message de Debbie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet Debbie in the park at night"
+    new "Rencontrer Debbie dans le parc la nuit"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Learn about Kanya"
+    new "Découvrir Kanya"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet Kanya"
+    new "Rencontrer Kanya"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Improve your photography skills"
+    new "Améliorer tes compétences en photographie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Show your home to Kanya"
+    new "Montrer ta maison à Kanya"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Sexy photo session with Kanya"
+    new "Séance photo sexy avec Kanya"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Progress Lyssa's and Main storylines"
+    new "Avancer dans l'histoire de Lyssa et l'intrigue principale"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Show off your photo skills"
+    new "Montrer tes talents en photo"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Encounter with Maya"
+    new "Rencontre avec Maya"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to Maya"
+    new "Parler à Maya"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Delivery with Maya"
+    new "Livraison avec Maya"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet a old friend"
+    new "Rencontrer un vieil ami"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to Stacy about Min"
+    new "Parler à Stacy de Min"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Invite Min to the Studio"
+    new "Inviter Min au studio"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Answer Min's text"
+    new "Répondre au message de Min"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk with Stacy about Lyssa"
+    new "Parler avec Stacy de Lyssa"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Go see Lyssa"
+    new "Aller voir Lyssa"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to Stacy about Lyssa"
+    new "Parler à Stacy de Lyssa"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to Stacy about date with Lyssa"
+    new "Parler à Stacy de ton rendez-vous avec Lyssa"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Go on date with Lyssa"
+    new "Aller à un rendez-vous avec Lyssa"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Next date with Lyssa"
+    new "Prochain rendez-vous avec Lyssa"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Another date with Lyssa"
+    new "Un autre rendez-vous avec Lyssa"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Help Lyssa relax"
+    new "Aider Lyssa à se détendre"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Carnival date with Lyssa"
+    new "Rendez-vous au carnaval avec Lyssa"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Show the renovated studio to Lyssa"
+    new "Montrer le studio rénové à Lyssa"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "An evening with Melony"
+    new "Une soirée avec Melony"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Visit museum with Melony"
+    new "Visiter le musée avec Melony"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Go bouldering with Melony"
+    new "Faire du bloc avec Melony"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk with the Bartender"
+    new "Parler avec le barman"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Kinky time with Stacy"
+    new "Moment coquin avec Stacy"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "An evening with Stacy"
+    new "Une soirée avec Stacy"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "First IT Interview"
+    new "Premier entretien IT"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Second IT Interview"
+    new "Deuxième entretien IT"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "First day at IT"
+    new "Premier jour en IT"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet the client"
+    new "Rencontrer le client"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Progress Anna and Nari's storylines"
+    new "Avancer dans l'histoire d'Anna et de Nari"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Problem at the IT Office"
+    new "Problème au bureau IT"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Night out at the bar"
+    new "Soirée au bar"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Where is Anna?"
+    new "Où est Anna ?"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Anna's cliché"
+    new "Le cliché d'Anna"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Work with April"
+    new "Travailler avec April"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "What's up with April?"
+    new "Quoi de neuf avec April ?"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Visit April"
+    new "Rendre visite à April"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Watch April's band"
+    new "Regarder le groupe d'April"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to April"
+    new "Parler à April"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Decide to date April"
+    new "Décider de sortir avec April"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Go on date with April"
+    new "Aller à un rendez-vous avec April"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Go jogging with April"
+    new "Aller courir avec April"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to Claire"
+    new "Parler à Claire"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Go see Claire"
+    new "Aller voir Claire"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Claire has a request"
+    new "Claire a une demande"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Client meeting with Claire"
+    new "Réunion avec un client avec Claire"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to Stacy about Claire"
+    new "Parler à Stacy de Claire"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet Claire at the office kitchen"
+    new "Rencontrer Claire à la cuisine du bureau"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Get back with Claire"
+    new "Se remettre avec Claire"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Continue what you had with Claire"
+    new "Continuer ce que tu avais avec Claire"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Lunch with Nari"
+    new "Déjeuner avec Nari"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Help out Nari"
+    new "Aider Nari"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "What's with Nari"
+    new "Qu'en est-il de Nari ?"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Learn more about Nari"
+    new "En apprendre plus sur Nari"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Nari has a gift for you"
+    new "Nari a un cadeau pour toi"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Work late with Nari"
+    new "Travailler tard avec Nari"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Ask Nari on a date"
+    new "Inviter Nari à un rendez-vous"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Date with Nari"
+    new "Rendez-vous avec Nari"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Time for meeting"
+    new "Heure de la rencontre"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Suprise Nari at night"
+    new "Surprendre Nari la nuit"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Empty office\nAt night"
+    new "Bureau vide\nLa nuit"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Text Nari"
+    new "Envoyer un message à Nari"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to Stacy about Nari"
+    new "Parler à Stacy de Nari"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Go to the Haunted House"
+    new "Aller à la maison hantée"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "At the Haunted House"
+    new "Dans la maison hantée"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Research Theater"
+    new "Se renseigner sur le théâtre"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Go to Theater"
+    new "Aller au théâtre"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Group meeting"
+    new "Réunion de groupe"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Progress Denise, Kellie, Taisia and Veronica's storyline"
+    new "Avancer dans l'histoire de Denise, Kellie, Taisia et Veronica"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Acting workshop"
+    new "Atelier de théâtre"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "New show announcement"
+    new "Annonce du nouveau spectacle"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet with Denise"
+    new "Rencontrer Denise"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet Kellie"
+    new "Rencontrer Kellie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet with Kellie"
+    new "Rencontrer Kellie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Learn about Kellie"
+    new "Découvrir Kellie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Kellie is up to something"
+    new "Kellie prépare quelque chose"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Help out Kellie"
+    new "Aider Kellie"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet with Taisia"
+    new "Rencontrer Taisia"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to Taisia"
+    new "Parler à Taisia"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Film with Taisia"
+    new "Tourner avec Taisia"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Have a drink with Taisia"
+    new "Prendre un verre avec Taisia"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Answer Taisia's message"
+    new "Répondre au message de Taisia"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Message Taisia for meet up"
+    new "Envoyer un message à Taisia pour la voir"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to Stacy about Taisia"
+    new "Parler à Stacy de Taisia"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Taisia Date"
+    new "Rendez-vous avec Taisia"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Visit Taisia in her room"
+    new "Rendre visite à Taisia dans sa chambre"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Meet Veronica"
+    new "Rencontrer Veronica"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk with Veronica"
+    new "Parler avec Veronica"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Learn about Veronica"
+    new "Découvrir Veronica"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Practice with Veronica"
+    new "S'entraîner avec Veronica"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk to Stacy about the Pirates movie"
+    new "Parler à Stacy du film Pirates"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Buy costumes for the movie"
+    new "Acheter des costumes pour le film"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Talk about recruiting the actress"
+    new "Parler du recrutement de l'actrice"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Recruit Taisia as the actress"
+    new "Recruter Taisia comme actrice"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Start filming the next scene"
+    new "Commencer à tourner la scène suivante"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Travel to the location for shooting"
+    new "Aller sur le lieu de tournage"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Finished editing the movie"
+    new "Montage du film terminé"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Filming practice with Stacy"
+    new "Entraînement au tournage avec Stacy"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Renovation help from Nari"
+    new "Aide à la rénovation de Nari"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Renovation help from Taisia"
+    new "Aide à la rénovation de Taisia"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Renovation help from Kanya"
+    new "Aide à la rénovation de Kanya"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Renovation help from April"
+    new "Aide à la rénovation d'April"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Renovation help from Veronica"
+    new "Aide à la rénovation de Veronica"
+
+    # game/code/data/quests/vn_mode_data.rpy:10
+    old "Renovation help from Debbie"
+    new "Aide à la rénovation de Debbie"
+
+#Translate by BlackViper_
+
+translate french strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk about making a new move"
-    new "Talk about making a new move"
+    old "Progress Denise's, Kellie's, and Veronica's storylines"
+    new "Progress Denise's, Kellie's, and Veronica's storylines"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress the Theater and Taisia's storylines"
+    new "Progress the Theater and Taisia's storylines"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the movie options"
@@ -137,128 +661,12 @@
     new "Choose which movie to make"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Stacy launched the S&M Website"
-    new "Stacy launched the S&M Website"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Learn about other jobs"
-    new "Learn about other jobs"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Stacy about AmRose"
-    new "Talk to Stacy about AmRose"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet with AmRose"
-    new "Meet with AmRose"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "At the Starducks Cafe"
-    new "At the Starducks Cafe"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Chat with Amore"
-    new "Chat with Amore"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Photoshoot with Amore"
-    new "Photoshoot with Amore"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Check out photos"
-    new "Check out photos"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Next steps with Amore"
-    new "Next steps with Amore"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet Debbie the cop"
-    new "Meet Debbie the cop"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Help out Debbie"
-    new "Help out Debbie"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Coffee with Debbie"
-    new "Coffee with Debbie"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Chat with Debbie"
-    new "Chat with Debbie"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "What's up with Debbie?"
-    new "What's up with Debbie?"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Coffee break with Debbie"
-    new "Coffee break with Debbie"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Answer Debbie's message"
-    new "Answer Debbie's message"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet Debbie in the park at night"
-    new "Meet Debbie in the park at night"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Learn about Kanya"
-    new "Learn about Kanya"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet Kanya"
-    new "Meet Kanya"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Improve your photography skills"
-    new "Improve your photography skills"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Show your home to Kanya"
-    new "Show your home to Kanya"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Sexy photo session with Kanya"
-    new "Sexy photo session with Kanya"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Lyssa's storyline and Main Story"
-    new "Progress Lyssa's storyline and Main Story"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Show off your photo skills"
-    new "Show off your photo skills"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Encounter with Maya"
-    new "Encounter with Maya"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Maya"
-    new "Talk to Maya"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Delivery with Maya"
-    new "Delivery with Maya"
+    old "Progress Lyssa's storyline and the Main Story"
+    new "Progress Lyssa's storyline and the Main Story"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Meet an old friend"
     new "Meet an old friend"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Stacy about Min"
-    new "Talk to Stacy about Min"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Invite Min to the Studio"
-    new "Invite Min to the Studio"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Answer Min's text"
-    new "Answer Min's text"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer Min's text again"
@@ -269,260 +677,24 @@
     new "Help Min to move in"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk with Stacy about Lyssa"
-    new "Talk with Stacy about Lyssa"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Go see Lyssa"
-    new "Go see Lyssa"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Stacy about Lyssa"
-    new "Talk to Stacy about Lyssa"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Stacy about date with Lyssa"
-    new "Talk to Stacy about date with Lyssa"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Go on date with Lyssa"
-    new "Go on date with Lyssa"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Next date with Lyssa"
-    new "Next date with Lyssa"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Another date with Lyssa"
-    new "Another date with Lyssa"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Help Lyssa relax"
-    new "Help Lyssa relax"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Carnival date with Lyssa"
-    new "Carnival date with Lyssa"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Show the renovated studio to Lyssa"
-    new "Show the renovated studio to Lyssa"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
     old "Borrow Stacy's laptop"
     new "Borrow Stacy's laptop"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "An evening with Melony"
-    new "An evening with Melony"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Visit museum with Melony"
-    new "Visit museum with Melony"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Go bouldering with Melony"
-    new "Go bouldering with Melony"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk with the Bartender"
-    new "Talk with the Bartender"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Kinky time with Stacy"
-    new "Kinky time with Stacy"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "An evening with Stacy"
-    new "An evening with Stacy"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "First IT Interview"
-    new "First IT Interview"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Second IT Interview"
-    new "Second IT Interview"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "First day at IT"
-    new "First day at IT"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet the client"
-    new "Meet the client"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Anna and Nari's storylines"
-    new "Progress Anna and Nari's storylines"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Problem at the IT Office"
-    new "Problem at the IT Office"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Night out at the bar"
-    new "Night out at the bar"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Where is Anna?"
-    new "Where is Anna?"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Anna's cliché"
-    new "Anna's cliché"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Work with April"
-    new "Work with April"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "What's up with April?"
-    new "What's up with April?"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Visit April"
-    new "Visit April"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Watch April's band"
-    new "Watch April's band"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to April"
-    new "Talk to April"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Decide to date April"
-    new "Decide to date April"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Go on date with April"
-    new "Go on date with April"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Go jogging with April"
-    new "Go jogging with April"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Claire"
-    new "Talk to Claire"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Go see Claire"
-    new "Go see Claire"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Claire has a request"
-    new "Claire has a request"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Client meeting with Claire"
-    new "Client meeting with Claire"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Stacy about Claire"
-    new "Talk to Stacy about Claire"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet Claire at the office kitchen"
-    new "Meet Claire at the office kitchen"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Get back with Claire"
-    new "Get back with Claire"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Continue what you had with Claire"
-    new "Continue what you had with Claire"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Lunch with Nari"
-    new "Lunch with Nari"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Help out Nari"
-    new "Help out Nari"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "What's with Nari"
-    new "What's with Nari"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Learn more about Nari"
-    new "Learn more about Nari"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Nari has a gift for you"
-    new "Nari has a gift for you"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Work late with Nari"
-    new "Work late with Nari"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Ask Nari on a date"
-    new "Ask Nari on a date"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Date with Nari"
-    new "Date with Nari"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Time for meeting"
-    new "Time for meeting"
+    old "Progress Anna's and Nari's storylines"
+    new "Progress Anna's and Nari's storylines"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Surprise Nari at night"
     new "Surprise Nari at night"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Empty office\nAt night"
-    new "Empty office\nAt night"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Text Nari"
-    new "Text Nari"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Stacy about Nari"
-    new "Talk to Stacy about Nari"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
     old "Nari wants to talk with you"
     new "Nari wants to talk with you"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Go to the Haunted House"
-    new "Go to the Haunted House"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "At the Haunted House"
-    new "At the Haunted House"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Research Theater"
-    new "Research Theater"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Go to Theater"
-    new "Go to Theater"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Group meeting"
-    new "Group meeting"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Denise, Kellie, Taisia and Veronica's storyline"
-    new "Progress Denise, Kellie, Taisia and Veronica's storyline"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Acting workshop"
-    new "Acting workshop"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "New show announcement"
-    new "New show announcement"
+    old "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
+    new "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Ask Nelson about sponsoring theater"
@@ -531,106 +703,6 @@
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the Wurst Delivery Sponsorship"
     new "Talk about the Wurst Delivery Sponsorship"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet with Denise"
-    new "Meet with Denise"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet Kellie"
-    new "Meet Kellie"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet with Kellie"
-    new "Meet with Kellie"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Learn about Kellie"
-    new "Learn about Kellie"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Kellie is up to something"
-    new "Kellie is up to something"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Help out Kellie"
-    new "Help out Kellie"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet with Taisia"
-    new "Meet with Taisia"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Taisia"
-    new "Talk to Taisia"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Have a drink with Taisia"
-    new "Have a drink with Taisia"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Answer Taisia's message"
-    new "Answer Taisia's message"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Message Taisia for meet up"
-    new "Message Taisia for meet up"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Stacy about Taisia"
-    new "Talk to Stacy about Taisia"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Taisia Date"
-    new "Taisia Date"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Visit Taisia in her room"
-    new "Visit Taisia in her room"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Meet Veronica"
-    new "Meet Veronica"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk with Veronica"
-    new "Talk with Veronica"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Learn about Veronica"
-    new "Learn about Veronica"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Practice with Veronica"
-    new "Practice with Veronica"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk to Stacy about the Pirates movie"
-    new "Talk to Stacy about the Pirates movie"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Buy costumes for the movie"
-    new "Buy costumes for the movie"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk about recruiting the actress"
-    new "Talk about recruiting the actress"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Recruit Taisia as the actress"
-    new "Recruit Taisia as the actress"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Start filming the next scene"
-    new "Start filming the next scene"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Travel to the location for shooting"
-    new "Travel to the location for shooting"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Finished editing the movie"
-    new "Finished editing the movie"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about the Sci-Fi Movie"
@@ -643,6 +715,10 @@
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Recruit Lyssa for Sci-Fi Movie"
     new "Recruit Lyssa for Sci-Fi Movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk to Stacy about Sci-Fi Movie props"
+    new "Talk to Stacy about Sci-Fi Movie props"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Build the rest of the set"
@@ -679,32 +755,4 @@
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Watch the final cut"
     new "Watch the final cut"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Filming practice with Stacy"
-    new "Filming practice with Stacy"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Renovation help from Nari"
-    new "Renovation help from Nari"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Renovation help from Taisia"
-    new "Renovation help from Taisia"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Renovation help from Kanya"
-    new "Renovation help from Kanya"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Renovation help from April"
-    new "Renovation help from April"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Renovation help from Veronica"
-    new "Renovation help from Veronica"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Renovation help from Debbie"
-    new "Renovation help from Debbie"
 

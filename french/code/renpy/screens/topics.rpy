@@ -2,5 +2,6 @@
 
     # game/code/renpy/screens/topics.rpy:8
     old "TOPICS"
-    new "TOPICS"
+    new "SUJETS"
 
+#Translate by BlackViper_

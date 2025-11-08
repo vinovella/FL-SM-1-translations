@@ -1480,121 +1480,121 @@ translate french sm1mv02s10_sex_a0d6f35b:
     # sy "Mmmmhhhhhhh!"
     sy "Mmmmhhhhhhh!"
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1039
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1040
 translate french sm1mv02s10_sex_29c6b946:
 
     # ns "Nuaahhh."
     ns "Nuaahhh."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1040
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1041
 translate french sm1mv02s10_sex_6c3fb01f:
 
     # sy "Haa-huaah..."
     sy "Haa-huaah..."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1059
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1061
 translate french sm1mv02s10_sex_end_23aa3b29:
 
     # mes "Hmmm."
     mes "Hmmm."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1062
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1064
 translate french sm1mv02s10_sex_end_bead9acf:
 
     # sy "'Hmmm' what?"
     sy "'Hmmm' what?"
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1065
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1068
 translate french sm1mv02s10_sex_end_cb304a34:
 
     # mes "Just thinking that I can't wait for the next wrap party."
     mes "Just thinking that I can't wait for the next wrap party."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1068
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1071
 translate french sm1mv02s10_sex_end_764ce2b9:
 
     # mes "With a little work, it might be as big as the Fetish Locator parties were..."
     mes "With a little work, it might be as big as the Fetish Locator parties were..."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1071
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1074
 translate french sm1mv02s10_sex_end_f5682518:
 
     # mc "Sounds like the gauntlet has been tossed down."
     mc "Sounds like the gauntlet has been tossed down."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1073
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1076
 translate french sm1mv02s10_sex_end_0136cad0:
 
     # mes "Sharp as always, [mcname]..."
     mes "Sharp as always, [mcname]..."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1079
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1082
 translate french sm1mv02s10_sex_end_3e964c88:
 
     # mh "Mrmmuh..."
     mh "Mrmmuh..."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1080
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1083
 translate french sm1mv02s10_sex_end_65145fad:
 
     # mh "[mcname]..."
     mh "[mcname]..."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1083
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1086
 translate french sm1mv02s10_sex_end_38db7c30:
 
     # mc "Yeah, Lyssa."
     mc "Yeah, Lyssa."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1087
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1090
 translate french sm1mv02s10_sex_end_73ab6b2a:
 
     # mh "I'm sticky."
     mh "I'm sticky."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1089
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1092
 translate french sm1mv02s10_sex_end_11ac42a0:
 
     # mc "Occupational hazard for being so hot."
     mc "Occupational hazard for being so hot."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1092
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1095
 translate french sm1mv02s10_sex_end_47c50abe:
 
     # mh "You know, if all of our watch parties are like this, you're going to have to invest in some stain proof furniture."
     mh "You know, if all of our watch parties are like this, you're going to have to invest in some stain proof furniture."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1094
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1097
 translate french sm1mv02s10_sex_end_49e93d71:
 
     # mc "Not a bad idea."
     mc "Not a bad idea."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1097
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1100
 translate french sm1mv02s10_sex_end_b065b15d:
 
     # mc "Does that mean you're down to star in more roles?"
     mc "Does that mean you're down to star in more roles?"
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1100
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1104
 translate french sm1mv02s10_sex_end_5f6f07ee:
 
     # mh "You know I'm always here to help you, [mcname]."
     mh "You know I'm always here to help you, [mcname]."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1101
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1105
 translate french sm1mv02s10_sex_end_fc020ba6:
 
     # mh "But more specifically..."
     mh "But more specifically..."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1104
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1108
 translate french sm1mv02s10_sex_end_cd94fc32:
 
     # mh "Yes{w}, I think I rather enjoyed being a special part of your skinflick feature."
     mh "Yes{w}, I think I rather enjoyed being a special part of your skinflick feature."
 
-# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1107
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:1111
 translate french sm1mv02s10_sex_end_49f56384:
 
     # mh "And I can't wait to see what you cook up next..."

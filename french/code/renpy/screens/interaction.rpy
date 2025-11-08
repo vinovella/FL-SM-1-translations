@@ -2,5 +2,6 @@
 
     # game/code/renpy/screens/interaction.rpy:44
     old "Enter"
-    new "Enter"
+    new "Entrer"
 
+#Translate by BlackViper_

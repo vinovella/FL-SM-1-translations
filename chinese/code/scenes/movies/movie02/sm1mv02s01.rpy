@@ -230,7 +230,7 @@ translate chinese sm1mv02s01_884bae31:
 translate chinese sm1mv02s01_0115cce0:
 
     # mc "What are we doing at the Photo Dojo, Stacy?"
-    mc "史黛西，我们来摄影坊干什么？
+    mc "史黛西，我们来摄影坊干什么？"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:172
 translate chinese sm1mv02s01_9ea5c75c_1:

@@ -3618,10 +3618,6 @@ translate french strings:
     old "Forbid Stacy from being the Medusa"
     new "Forbid Stacy from being the Medusa"
 
-    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:488
-    old "Twenty minutes later"
-    new "Twenty minutes later"
-
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:563
     old "Try to win on your own"
     new "Try to win on your own"

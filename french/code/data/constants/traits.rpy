@@ -2,7 +2,7 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Brunette"
-    new "Brunette"
+    new "Brune"
 
     # game/code/data/constants/traits.rpy:82
     old "Blonde"
@@ -10,79 +10,79 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Redhead"
-    new "Redhead"
+    new "Rousse"
 
     # game/code/data/constants/traits.rpy:82
     old "Dyed Hair"
-    new "Dyed Hair"
+    new "Cheveux teints"
 
     # game/code/data/constants/traits.rpy:82
     old "Multiple Color Hair"
-    new "Multiple Color Hair"
+    new "Cheveux multicolores"
 
     # game/code/data/constants/traits.rpy:82
     old "Blue Hair"
-    new "Blue Hair"
+    new "Cheveux bleus"
 
     # game/code/data/constants/traits.rpy:82
     old "Green Hair"
-    new "Green Hair"
+    new "Cheveux verts"
 
     # game/code/data/constants/traits.rpy:82
     old "Platinum Hair"
-    new "Platinum Hair"
+    new "Cheveux platine"
 
     # game/code/data/constants/traits.rpy:82
     old "Grey Hair"
-    new "Grey Hair"
+    new "Cheveux gris"
 
     # game/code/data/constants/traits.rpy:82
     old "Bald"
-    new "Bald"
+    new "Chauve"
 
     # game/code/data/constants/traits.rpy:82
     old "Long Hair"
-    new "Long Hair"
+    new "Cheveux longs"
 
     # game/code/data/constants/traits.rpy:82
     old "Short Hair"
-    new "Short Hair"
+    new "Cheveux courts"
 
     # game/code/data/constants/traits.rpy:82
     old "Braces"
-    new "Braces"
+    new "Appareil dentaire"
 
     # game/code/data/constants/traits.rpy:82
     old "Black Hair"
-    new "Black Hair"
+    new "Cheveux noirs"
 
     # game/code/data/constants/traits.rpy:82
     old "Braids"
-    new "Braids"
+    new "Tresses"
 
     # game/code/data/constants/traits.rpy:82
     old "Dreads"
-    new "Dreads"
+    new "Dreadlocks"
 
     # game/code/data/constants/traits.rpy:82
     old "Afro Hair"
-    new "Afro Hair"
+    new "Cheveux afro"
 
     # game/code/data/constants/traits.rpy:82
     old "Curly Hair"
-    new "Curly Hair"
+    new "Cheveux bouclés"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Boobs"
-    new "Big Boobs"
+    new "Gros seins"
 
     # game/code/data/constants/traits.rpy:82
     old "Small Boobs"
-    new "Small Boobs"
+    new "Petits seins"
 
     # game/code/data/constants/traits.rpy:82
     old "Huge Boobs"
-    new "Huge Boobs"
+    new "Seins énormes"
 
     # game/code/data/constants/traits.rpy:82
     old "MILF"
@@ -90,15 +90,15 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Big Ass"
-    new "Big Ass"
+    new "Gros fessier"
 
     # game/code/data/constants/traits.rpy:82
     old "Skinny"
-    new "Skinny"
+    new "Mince"
 
     # game/code/data/constants/traits.rpy:82
     old "Curvy"
-    new "Curvy"
+    new "Formes généreuses"
 
     # game/code/data/constants/traits.rpy:82
     old "BBW"
@@ -106,71 +106,71 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Muscular"
-    new "Muscular"
+    new "Musclée"
 
     # game/code/data/constants/traits.rpy:82
     old "Short"
-    new "Short"
+    new "Petite"
 
     # game/code/data/constants/traits.rpy:82
     old "Tall"
-    new "Tall"
+    new "Grande"
 
     # game/code/data/constants/traits.rpy:82
     old "Amputee"
-    new "Amputee"
+    new "Amputée"
 
     # game/code/data/constants/traits.rpy:82
     old "Facial Piercing"
-    new "Facial Piercing"
+    new "Piercing facial"
 
     # game/code/data/constants/traits.rpy:82
-    old "Nipple Piercings"
-    new "Nipple Piercings"
+    old "Nipples Piercing"
+    new "Piercing aux tétons"
 
     # game/code/data/constants/traits.rpy:82
     old "Genital Piercing"
-    new "Genital Piercing"
+    new "Piercing génital"
 
     # game/code/data/constants/traits.rpy:82
     old "Tattoo"
-    new "Tattoo"
+    new "Tatouage"
 
     # game/code/data/constants/traits.rpy:82
     old "Freckles"
-    new "Freckles"
+    new "Taches de rousseur"
 
     # game/code/data/constants/traits.rpy:82
     old "Tan lines"
-    new "Tan lines"
+    new "Marques de bronzage"
 
     # game/code/data/constants/traits.rpy:82
     old "Hairy"
-    new "Hairy"
+    new "Poilu(e)"
 
     # game/code/data/constants/traits.rpy:82
     old "Trimmed"
-    new "Trimmed"
+    new "Épilation soignée"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Lips"
-    new "Big Lips"
+    new "Lèvres pulpeuses"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Nipples"
-    new "Big Nipples"
+    new "Grands tétons"
 
     # game/code/data/constants/traits.rpy:82
     old "Pregnant"
-    new "Pregnant"
+    new "Enceinte"
 
     # game/code/data/constants/traits.rpy:82
     old "Pale"
-    new "Pale"
+    new "Pâle"
 
     # game/code/data/constants/traits.rpy:82
     old "Innocent"
-    new "Innocent"
+    new "Innocent(e)"
 
     # game/code/data/constants/traits.rpy:82
     old "Trans"
@@ -178,7 +178,7 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Smoking"
-    new "Smoking"
+    new "Fumeur/Fumeuse"
 
     # game/code/data/constants/traits.rpy:82
     old "Anal"
@@ -186,27 +186,27 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Watersports"
-    new "Watersports"
+    new "Urolagnie"
 
     # game/code/data/constants/traits.rpy:82
     old "Creampie"
-    new "Creampie"
+    new "Éjaculation interne"
 
     # game/code/data/constants/traits.rpy:82
     old "Facial"
-    new "Facial"
+    new "Éjaculation faciale"
 
     # game/code/data/constants/traits.rpy:82
     old "Group sex"
-    new "Group sex"
+    new "Sexe de groupe"
 
     # game/code/data/constants/traits.rpy:82
     old "Sex with women"
-    new "Sex with women"
+    new "Rapports avec des femmes"
 
     # game/code/data/constants/traits.rpy:82
     old "Deep Throat"
-    new "Deep Throat"
+    new "Gorge profonde"
 
     # game/code/data/constants/traits.rpy:82
     old "Fisting"
@@ -214,11 +214,11 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Foot Fetish"
-    new "Foot Fetish"
+    new "Fétichisme des pieds"
 
     # game/code/data/constants/traits.rpy:82
     old "Masochism"
-    new "Masochism"
+    new "Masochisme"
 
     # game/code/data/constants/traits.rpy:82
     old "Humiliation"
@@ -226,7 +226,7 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Submission"
-    new "Submission"
+    new "Soumission"
 
     # game/code/data/constants/traits.rpy:82
     old "Domination"
@@ -238,11 +238,11 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Spanking"
-    new "Spanking"
+    new "Fessée"
 
     # game/code/data/constants/traits.rpy:82
     old "Enema"
-    new "Enema"
+    new "Lavement"
 
     # game/code/data/constants/traits.rpy:82
     old "Pet Play"
@@ -250,11 +250,11 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Exhibitionism"
-    new "Exhibitionism"
+    new "Exhibitionnisme"
 
     # game/code/data/constants/traits.rpy:82
     old "Cum Swallow"
-    new "Cum Swallow"
+    new "Avaler le sperme"
 
     # game/code/data/constants/traits.rpy:82
     old "Pegging"
@@ -262,11 +262,11 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Toys"
-    new "Toys"
+    new "Jouets sexuels"
 
     # game/code/data/constants/traits.rpy:82
     old "Food Play"
-    new "Food Play"
+    new "Jeux avec nourriture"
 
     # game/code/data/constants/traits.rpy:82
     old "Gangbang"
@@ -274,33 +274,40 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Rough Sex"
-    new "Rough Sex"
+    new "Sexe hard"
 
     # game/code/data/constants/traits.rpy:82
     old "Rimming"
-    new "Rimming"
+    new "Anulingus"
 
     # game/code/data/constants/traits.rpy:82
     old "Felching"
-    new "Felching"
+    new "Felching"   # (peut rester tel quel, pas d’équivalent FR clair, connu dans les cercles fetish)
 
     # game/code/data/constants/traits.rpy:82
     old "Squirting"
-    new "Squirting"
+    new "Éjaculation féminine"
 
     # game/code/data/constants/traits.rpy:82
     old "Double Penetration"
-    new "Double Penetration"
+    new "Double pénétration"
 
     # game/code/data/constants/traits.rpy:82
     old "Ass to Mouth"
-    new "Ass to Mouth"
+    new "Anus-bouche (ATM)"
 
     # game/code/data/constants/traits.rpy:82
     old "Choking"
-    new "Choking"
+    new "Étranglement érotique"
 
     # game/code/data/constants/traits.rpy:82
     old "Extreme"
-    new "Extreme"
+    new "Extrême"
+
+#Translate by BlackViper_
+translate french strings:
+
+    # game/code/data/constants/traits.rpy:82
+    old "Nipple Piercings"
+    new "Nipple Piercings"
 

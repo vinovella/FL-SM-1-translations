@@ -970,10 +970,6 @@ translate french strings:
     old "Dreams can be distracting"
     new "Dreams can be distracting"
 
-    # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:182
-    old "Half an hour later"
-    new "Half an hour later"
-
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:226
     old "Tease"
     new "Tease"

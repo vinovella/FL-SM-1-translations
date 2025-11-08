@@ -8,47 +8,31 @@
     old "Achievements"
     new "Achievements"
 
-    # game/code/renpy/screens/gallery.rpy:22
+    # game/code/renpy/screens/gallery.rpy:24
     old "Hints on"
     new "Hints on"
 
-    # game/code/renpy/screens/gallery.rpy:22
+    # game/code/renpy/screens/gallery.rpy:24
     old "Hints off"
     new "Hints off"
 
-    # game/code/renpy/screens/gallery.rpy:32
+    # game/code/renpy/screens/gallery.rpy:36
     old "Character Filter: [character_filter!t]"
     new "Character Filter: [character_filter!t]"
 
-    # game/code/renpy/screens/gallery.rpy:49
+    # game/code/renpy/screens/gallery.rpy:44
     old "Page [page]"
     new "Page [page]"
 
-    # game/code/renpy/screens/gallery.rpy:93
-    old "<"
-    new "<"
-
-    # game/code/renpy/screens/gallery.rpy:96
-    old ">"
-    new ">"
-
-    # game/code/renpy/screens/gallery.rpy:109
+    # game/code/renpy/screens/gallery.rpy:111
     old "None"
     new "None"
 
-    # game/code/renpy/screens/gallery.rpy:112
-    old "Close"
-    new "Close"
-
-    # game/code/renpy/screens/gallery.rpy:120
-    old "Image [index] of [count] locked."
-    new "Image [index] of [count] locked."
-
-    # game/code/renpy/screens/gallery.rpy:141
+    # game/code/renpy/screens/gallery.rpy:155
     old "Prev"
     new "Prev"
 
-    # game/code/renpy/screens/gallery.rpy:142
+    # game/code/renpy/screens/gallery.rpy:156
     old "Next"
     new "Next"
 

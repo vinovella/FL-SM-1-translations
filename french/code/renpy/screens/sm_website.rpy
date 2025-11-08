@@ -2,23 +2,23 @@
 
     # game/code/renpy/screens/sm_website.rpy:20
     old "HOME"
-    new "HOME"
+    new "ACCUEIL"
 
     # game/code/renpy/screens/sm_website.rpy:21
     old "VIDEOS"
-    new "VIDEOS"
+    new "VIDÉOS"
 
     # game/code/renpy/screens/sm_website.rpy:22
     old "CATEGORIES"
-    new "CATEGORIES"
+    new "CATÉGORIES"
 
     # game/code/renpy/screens/sm_website.rpy:23
     old "ACTRESS"
-    new "ACTRESS"
+    new "ACTRICES"
 
     # game/code/renpy/screens/sm_website.rpy:24
     old "COMMUNITY"
-    new "COMMUNITY"
+    new "COMMUNAUTÉ"
 
     # game/code/renpy/screens/sm_website.rpy:25
     old "PHOTOS"
@@ -26,11 +26,11 @@
 
     # game/code/renpy/screens/sm_website.rpy:42
     old "NEW HOT VIDEOS"
-    new "NEW HOT VIDEOS"
+    new "NOUVELLES VIDÉOS HOT"
 
     # game/code/renpy/screens/sm_website.rpy:47
     old "New"
-    new "New"
+    new "Nouveau"
 
     # game/code/renpy/screens/sm_website.rpy:48
     old "Top"
@@ -38,13 +38,15 @@
 
     # game/code/renpy/screens/sm_website.rpy:49
     old "Library"
-    new "Library"
+    new "Bibliothèque"
 
     # game/code/renpy/screens/sm_website.rpy:50
     old "Categories"
-    new "Categories"
+    new "Catégories"
 
     # game/code/renpy/screens/sm_website.rpy:51
     old "Tags"
     new "Tags"
+
+#Translate by BlackViper_
 

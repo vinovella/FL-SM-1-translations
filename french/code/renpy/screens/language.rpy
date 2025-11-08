@@ -1,6 +1,6 @@
 ﻿translate french strings:
 
-    # game/code/renpy/screens/language.rpy:75
+    # game/code/renpy/screens/language.rpy:85
     old "Choose Language"
     new "Choose Language"
 

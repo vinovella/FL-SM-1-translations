@@ -2,35 +2,38 @@
 
     # game/code/data/chat/chat_my.rpy:3
     old "Hey, Mom. I just wanted to say thank you for all your help working on the studio"
-    new "Hey, Mom. I just wanted to say thank you for all your help working on the studio"
+    new "Hey, maman. Je voulais juste te dire merci pour toute ton aide au studio"
 
     # game/code/data/chat/chat_my.rpy:3
     old "Hey, Melony. I just wanted to say thank you for all your help working on the studio"
-    new "Hey, Melony. I just wanted to say thank you for all your help working on the studio"
+    new "Hey, Melony. Je voulais juste te dire merci pour toute ton aide au studio"
 
     # game/code/data/chat/chat_my.rpy:3
     old "Of course, sweetie! Happy to help"
-    new "Of course, sweetie! Happy to help"
+    new "Bien sûr, chéri(e) ! Contente de t’aider"
 
     # game/code/data/chat/chat_my.rpy:3
     old "I was wondering if I could maybe treat you to dinner? As a way to show my gratitude?"
-    new "I was wondering if I could maybe treat you to dinner? As a way to show my gratitude?"
+    new "Je me demandais si je pouvais t’inviter à dîner ? Pour te remercier ?"
 
     # game/code/data/chat/chat_my.rpy:3
     old "I would love that!"
-    new "I would love that!"
+    new "J’adorerais !"
 
     # game/code/data/chat/chat_my.rpy:3
     old "Awesome! I'll send you the address of the restaurant. Is 7 ok?"
-    new "Awesome! I'll send you the address of the restaurant. Is 7 ok?"
+    new "Génial ! Je t’envoie l’adresse du resto. 19h ça te va ?"
 
     # game/code/data/chat/chat_my.rpy:3
     old "Sounds great to me!"
-    new "Sounds great to me!"
+    new "Parfait pour moi !"
 
     # game/code/data/chat/chat_my.rpy:3
     old "See you soon!"
-    new "See you soon!"
+    new "À très vite !"
+
+#Translate by BlackViper_
+translate french strings:
 
     # game/code/data/chat/chat_my.rpy:53
     old "Hey mom, I was wondering, would you want to get dinner together?"

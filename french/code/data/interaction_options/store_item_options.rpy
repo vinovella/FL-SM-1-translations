@@ -16,3 +16,4 @@
     old "D-Energy"
     new "D-Energy"
 
+#Translate by BlackViper_

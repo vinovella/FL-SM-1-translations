@@ -2,35 +2,35 @@
 
     # game/code/data/chat/chat_mes.rpy:3
     old "Hey Min. What's happening?"
-    new "Hey Min. What's happening?"
+    new "Hey Min. Quoi de neuf ?"
 
     # game/code/data/chat/chat_mes.rpy:3
     old "Classes, studying, sleep 😓"
-    new "Classes, studying, sleep 😓"
+    new "Cours, révisions, dodo 😓"
 
     # game/code/data/chat/chat_mes.rpy:3
     old "Starting to wish I never came back here 😕"
-    new "Starting to wish I never came back here 😕"
+    new "Je commence à regretter d’être revenu(e) ici 😕"
 
     # game/code/data/chat/chat_mes.rpy:3
     old "It's going to get better. I just know it."
-    new "It's going to get better. I just know it."
+    new "Ça va s’arranger. J’en suis sûr(e)."
 
     # game/code/data/chat/chat_mes.rpy:3
     old "How can I help you, [mcname!i]?"
-    new "How can I help you, [mcname!i]?"
+    new "Comment je peux t’aider, [mcname!i] ?"
 
     # game/code/data/chat/chat_mes.rpy:3
     old "I want to invite you to check out the studio 😊"
-    new "I want to invite you to check out the studio 😊"
+    new "Je voudrais t’inviter à venir voir le studio 😊"
 
     # game/code/data/chat/chat_mes.rpy:3
     old "I would, but I should focus."
-    new "I would, but I should focus."
+    new "J’aimerais, mais je dois rester concentrée."
 
     # game/code/data/chat/chat_mes.rpy:3
     old "Come on. You're working yourself too hard."
-    new "Come on. You're working yourself too hard."
+    new "Allez, tu bosses beaucoup trop."
 
     # game/code/data/chat/chat_mes.rpy:3
     old "Ok."
@@ -38,43 +38,50 @@
 
     # game/code/data/chat/chat_mes.rpy:3
     old "There you go. Trust me. You're going to love the place."
-    new "There you go. Trust me. You're going to love the place."
+    new "Voilà ! Fais-moi confiance, tu vas adorer l’endroit."
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Hey. Want to go for a drink?"
-    new "Hey. Want to go for a drink?"
+    new "Hey. Tu veux aller boire un verre ?"
 
     # game/code/data/chat/chat_mes.rpy:58
     old "It will be on me."
-    new "It will be on me."
+    new "C’est moi qui régale."
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Sure. What's the occasion?"
-    new "Sure. What's the occasion?"
+    new "Bien sûr. C’est pour quoi ?"
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Nothing special. Call it a mind-break date 😇"
-    new "Nothing special. Call it a mind-break date 😇"
+    new "Rien de spécial. Appelle ça une pause-décomp’ 😇"
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Oh. I like the sound of that 😀"
-    new "Oh. I like the sound of that 😀"
+    new "Oh, ça me plaît 😀"
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Don't be strange. I didn't mean a \"date\" date."
-    new "Don't be strange. I didn't mean a \"date\" date."
+    new "Ne te fais pas d’idées. Je voulais pas dire un rencard-rencard."
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Well."
-    new "Well."
+    new "Bon..."
+
+    # game/code/data/chat/chat_mes.rpy:58
+    old "Nevermind. Are you down or not?"
+    new "Laisse tomber. Alors, tu viens ou pas ?"
+
+    # game/code/data/chat/chat_mes.rpy:58
+    old "Yes, Min. Send me the details."
+    new "Oui, Min. Envoie-moi les détails."
+
+#Translate by BlackViper_
+translate french strings:
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Never mind. Are you down or not?"
     new "Never mind. Are you down or not?"
-
-    # game/code/data/chat/chat_mes.rpy:58
-    old "Yes, Min. Send me the details."
-    new "Yes, Min. Send me the details."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Hello [mcname!i]."
@@ -149,12 +156,8 @@
     new "I have to study. But I'll give you something to tide you over."
 
     # game/code/data/chat/chat_mes.rpy:112
-    old "❤️"
-    new "❤️"
-
-    # game/code/data/chat/chat_mes.rpy:112
-    old "Wish you could be here to warm my body."
-    new "Wish you could be here to warm my body."
+    old "Wish you were here to warm my body."
+    new "Wish you were here to warm my body."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Let's arrange that soon."
@@ -181,8 +184,8 @@
     new "Haha. You really have a one-track mind."
 
     # game/code/data/chat/chat_mes.rpy:258
-    old "I was thinking of a game night. You, Stacy and I."
-    new "I was thinking of a game night. You, Stacy and I."
+    old "I was thinking of a game night. You, Stacy, and me."
+    new "I was thinking of a game night. You, Stacy, and me."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Sounds fun. I didn't think you'd want Stacy involved?"
@@ -221,8 +224,8 @@
     new "All you need to do is come over."
 
     # game/code/data/chat/chat_mes.rpy:258
-    old "Alright, this evening works?"
-    new "Alright, this evening works?"
+    old "Alright, does this evening work?"
+    new "Alright, does this evening work?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Perfect. See you then."

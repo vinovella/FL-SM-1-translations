@@ -2,19 +2,23 @@
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Work as a stagehand"
-    new "Work as a stagehand"
+    new "Travailler comme machiniste"
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Peek on Stacy"
-    new "Peek on Stacy"
+    new "Espionner Stacy"
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Romance Lyssa"
-    new "Romance Lyssa"
+    new "Romancer Lyssa"
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Take Lyssa on a date"
-    new "Take Lyssa on a date"
+    new "Emmener Lyssa à un rendez-vous"
+
+#Translate by BlackViper_
+
+translate french strings:
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Recruit Lyssa for the Sci-Fi Movie"

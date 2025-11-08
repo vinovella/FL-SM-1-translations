@@ -5,10 +5,6 @@
     new "Blowjob from Stacy"
 
     # game/code/data/gallery/replay_gallery.rpy:1
-    old "Movie night with Stacy"
-    new "Movie night with Stacy"
-
-    # game/code/data/gallery/replay_gallery.rpy:1
     old "Punishing Stacy"
     new "Punishing Stacy"
 
@@ -181,10 +177,6 @@
     new "Truth or Dare with Kellie & Veronica"
 
     # game/code/data/gallery/replay_gallery.rpy:1
-    old "Film with Taisia"
-    new "Film with Taisia"
-
-    # game/code/data/gallery/replay_gallery.rpy:1
     old "Pool game with Taisia & Stacy"
     new "Pool game with Taisia & Stacy"
 
@@ -215,10 +207,6 @@
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Pirate movie - Buried Treasure"
     new "Pirate movie - Buried Treasure"
-
-    # game/code/data/gallery/replay_gallery.rpy:1
-    old "Curse of the Pirate Queen"
-    new "Curse of the Pirate Queen"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Sci-Fi Movie - Non Interference"

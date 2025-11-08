@@ -1,34 +1,28 @@
 ﻿translate french strings:
 
-    # game/code/renpy/screens/pirates_movie.rpy:62
-    old "PIRATES MOVIE"
-    new "PIRATES MOVIE"
-
     # game/code/renpy/screens/pirates_movie.rpy:99
     old "COSTUME BUDGET"
-    new "COSTUME BUDGET"
+    new "BUDGET DES COSTUMES"
 
     # game/code/renpy/screens/pirates_movie.rpy:114
     old "ACTRESS BUDGET"
-    new "ACTRESS BUDGET"
+    new "BUDGET DE L’ACTRICE"
 
     # game/code/renpy/screens/pirates_movie.rpy:130
     old "PROPS BUDGET"
-    new "PROPS BUDGET"
+    new "BUDGET DES ACCESSOIRES"
 
     # game/code/renpy/screens/pirates_movie.rpy:146
     old "BUILD PROPS"
-    new "BUILD PROPS"
+    new "FABRIQUER DES ACCESSOIRES"
 
     # game/code/renpy/screens/pirates_movie.rpy:162
     old "TRAVEL BUDGET"
-    new "TRAVEL BUDGET"
+    new "BUDGET VOYAGE"
 
     # game/code/renpy/screens/pirates_movie.rpy:171
     old "MOVIE EDITING"
-    new "MOVIE EDITING"
+    new "MONTAGE DU FILM"
 
-    # game/code/renpy/screens/pirates_movie.rpy:172
-    old "Editing Work"
-    new "Editing Work"
+#Translate by BlackViper_
 

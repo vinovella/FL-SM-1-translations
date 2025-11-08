@@ -2,15 +2,22 @@
 
     # game/code/renpy/screens/ui.rpy:7
     old "Skip time"
-    new "Skip time"
+    new "Passer le temps"
 
     # game/code/renpy/screens/ui.rpy:11
     old "Show Quests"
-    new "Show Quests"
+    new "Afficher les quêtes"
 
     # game/code/renpy/screens/ui.rpy:13
     old "Hide Quests"
-    new "Hide Quests"
+    new "Masquer les quêtes"
+
+    # game/code/renpy/screens/ui.rpy:30
+    old "Timeslot: {}"
+    new "Créneau horaire : {}"
+
+#Translate by BlackViper_
+translate french strings:
 
     # game/code/renpy/screens/ui.rpy:30
     old "Timeslot: [gt.curr_timeslot!t]"

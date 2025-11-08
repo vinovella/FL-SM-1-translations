@@ -1174,25 +1174,25 @@ translate french sm1cs_mes007_continue_af082a20:
     # "[mcname] and Min" "*chuckling*"
     "[mcname] and Min" "*chuckling*"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:784
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:785
 translate french sm1cs_mes007_continue_04ff985a:
 
     # mes "I should take a shower."
     mes "I should take a shower."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:792
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:793
 translate french sm1cs_mes007_continue_a04dd30b:
 
     # mc "I'll leave you to it."
     mc "I'll leave you to it."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:793
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:794
 translate french sm1cs_mes007_continue_5c300254:
 
     # mc "Going to check things out around the studio."
     mc "Going to check things out around the studio."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:796
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:797
 translate french sm1cs_mes007_continue_d7ba34e7:
 
     # mes "Until next time."
@@ -1259,8 +1259,4 @@ translate french strings:
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:643
     old "Cum on her face and boobs"
     new "Cum on her face and boobs"
-
-    # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:776
-    old "A few minutes later"
-    new "A few minutes later"
 

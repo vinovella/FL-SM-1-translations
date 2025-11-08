@@ -2,15 +2,15 @@
 
     # game/code/renpy/screens/game_menus.rpy:150
     old "Back"
-    new "Back"
+    new "Retour"
 
     # game/code/renpy/screens/game_menus.rpy:151
     old "History"
-    new "History"
+    new "Historique"
 
     # game/code/renpy/screens/game_menus.rpy:152
     old "Skip"
-    new "Skip"
+    new "Passer"
 
     # game/code/renpy/screens/game_menus.rpy:153
     old "Auto"
@@ -18,23 +18,25 @@
 
     # game/code/renpy/screens/game_menus.rpy:154
     old "Save"
-    new "Save"
+    new "Sauvegarde"
 
     # game/code/renpy/screens/game_menus.rpy:155
     old "Q.Save"
-    new "Q.Save"
+    new "Sauvegarde rapide"
 
     # game/code/renpy/screens/game_menus.rpy:156
     old "Q.Load"
-    new "Q.Load"
+    new "Chargement rapide"
 
     # game/code/renpy/screens/game_menus.rpy:157
     old "Prefs"
-    new "Prefs"
+    new "Préférences"
 
     # game/code/renpy/screens/game_menus.rpy:160
     old "Open phone"
-    new "Open phone"
+    new "Ouvrir le téléphone"
+
+#Translate by BlackViper_
 
 translate french strings:
 

@@ -2,51 +2,53 @@
 
     # game/code/data/constants/location_constants.rpy:32
     old "S&M Studio"
-    new "S&M Studio"
+    new "Studio S&M"
 
     # game/code/data/constants/location_constants.rpy:41
     old "Upstairs"
-    new "Upstairs"
+    new "Étage"
 
     # game/code/data/constants/location_constants.rpy:46
     old "Above Kitchen"
-    new "Above Kitchen"
+    new "Au-dessus de la cuisine"
 
-    # game/code/data/constants/location_constants.rpy:59
+    # game/code/data/constants/location_constants.rpy:56
     old "Wurst Delivery"
-    new "Wurst Delivery"
+    new "Livraison Wurst"
 
-    # game/code/data/constants/location_constants.rpy:69
+    # game/code/data/constants/location_constants.rpy:66
     old "Orbix"
     new "Orbix"
 
-    # game/code/data/constants/location_constants.rpy:95
+    # game/code/data/constants/location_constants.rpy:92
     old "Theomalt Park"
-    new "Theomalt Park"
+    new "Parc Theomalt"
 
-    # game/code/data/constants/location_constants.rpy:107
+    # game/code/data/constants/location_constants.rpy:104
     old "71 Store"
-    new "71 Store"
+    new "Magasin 71"
 
-    # game/code/data/constants/location_constants.rpy:114
+    # game/code/data/constants/location_constants.rpy:111
     old "Photo Dojo"
     new "Photo Dojo"
 
-    # game/code/data/constants/location_constants.rpy:126
+    # game/code/data/constants/location_constants.rpy:123
     old "Theater"
-    new "Theater"
+    new "Théâtre"
 
-    # game/code/data/constants/location_constants.rpy:180
+    # game/code/data/constants/location_constants.rpy:177
     old "Starducks Café"
     new "Starducks Café"
 
-    # game/code/data/constants/location_constants.rpy:189
+    # game/code/data/constants/location_constants.rpy:186
     old "Lyssa's House"
-    new "Lyssa's House"
+    new "Maison de Lyssa"
 
-    # game/code/data/constants/location_constants.rpy:197
-    old "Guns n' Rosette"
-    new "Guns n' Rosette"
+    # game/code/data/constants/location_constants.rpy:194
+    old "Guns n' Rossette's"
+    new "Guns n' Rossette's"
+
+#Translate by BlackViper_
 
 translate french strings:
 
@@ -225,6 +227,10 @@ translate french strings:
     # game/code/data/constants/location_constants.rpy:176
     old "Toilet"
     new "Toilet"
+
+    # game/code/data/constants/location_constants.rpy:188
+    old "Guns n' Rosette"
+    new "Guns n' Rosette"
 
     # game/code/data/constants/location_constants.rpy:192
     old "Billiard Area"

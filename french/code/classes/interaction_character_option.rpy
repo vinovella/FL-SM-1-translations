@@ -1,50 +1,52 @@
 ﻿translate french strings:
 
-    # game/code/classes/interaction_character_option.rpy:69
+    # game/code/classes/interaction_character_option.rpy:67
     old "{name} ({reason})"
     new "{name} ({reason})"
 
-    # game/code/classes/interaction_character_option.rpy:71
+    # game/code/classes/interaction_character_option.rpy:69
     old "{name} (disabled on penalty week)"
-    new "{name} (disabled on penalty week)"
+    new "{name} (désactivé pendant la semaine de pénalité)"
 
-    # game/code/classes/interaction_character_option.rpy:75
+    # game/code/classes/interaction_character_option.rpy:73
     old "{name} (You have {current_points}/{required_points} Relationship Points with {character_name})"
-    new "{name} (You have {current_points}/{required_points} Relationship Points with {character_name})"
+    new "{name} (Tu as {current_points}/{required_points} points de relation avec {character_name})"
+
+    # game/code/classes/interaction_character_option.rpy:80
+    old "{name} (done today)"
+    new "{name} (déjà fait aujourd’hui)"
 
     # game/code/classes/interaction_character_option.rpy:82
-    old "{name} (done today)"
-    new "{name} (done today)"
-
-    # game/code/classes/interaction_character_option.rpy:84
     old "{name} (wrong day)"
-    new "{name} (wrong day)"
+    new "{name} (mauvais jour)"
+
+    # game/code/classes/interaction_character_option.rpy:87
+    old "{name} (You need to progress {storyline_name} first)"
+    new "{name} (Tu dois d’abord progresser dans {storyline_name})"
 
     # game/code/classes/interaction_character_option.rpy:89
-    old "{name} (You need to progress {storyline_name} first)"
-    new "{name} (You need to progress {storyline_name} first)"
-
-    # game/code/classes/interaction_character_option.rpy:91
     old "{name} (not available today)"
-    new "{name} (not available today)"
+    new "{name} (non disponible aujourd’hui)"
+
+    # game/code/classes/interaction_character_option.rpy:96
+    old "{name} (You need to have ${amount})"
+    new "{name} (Tu dois avoir ${amount})"
 
     # game/code/classes/interaction_character_option.rpy:98
-    old "{name} (You need to have ${amount})"
-    new "{name} (You need to have ${amount})"
-
-    # game/code/classes/interaction_character_option.rpy:100
     old "{name} (not enough energy)"
-    new "{name} (not enough energy)"
+    new "{name} (pas assez d’énergie)"
 
-    # game/code/classes/interaction_character_option.rpy:103
+    # game/code/classes/interaction_character_option.rpy:101
     old "{name} ({wrong_time_msg})"
     new "{name} ({wrong_time_msg})"
 
-    # game/code/classes/interaction_character_option.rpy:105
+    # game/code/classes/interaction_character_option.rpy:103
     old "{name} (wrong location)"
-    new "{name} (wrong location)"
+    new "{name} (mauvais endroit)"
 
-    # game/code/classes/interaction_character_option.rpy:107
+    # game/code/classes/interaction_character_option.rpy:105
     old "{name} (not available now)"
-    new "{name} (not available now)"
+    new "{name} (non disponible pour l’instant)"
+
+#Translate by BlackViper_
 

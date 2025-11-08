@@ -2,5 +2,7 @@
 
     # game/code/renpy/screens/studio_laptop.rpy:13
     old "S&M Website"
-    new "S&M Website"
+    new "Site Web S&M"
+
+#Translate by BlackViper_
 

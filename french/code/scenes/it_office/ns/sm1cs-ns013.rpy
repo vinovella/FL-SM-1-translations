@@ -2,91 +2,91 @@
 translate french sm1cs_ns013_25596036:
 
     # sy "Nari really brings an interesting energy to the place."
-    sy "Nari really brings an interesting energy to the place."
+    sy "Nari apporte vraiment une énergie particulière à l’endroit."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:66
 translate french sm1cs_ns013_1952da9f:
 
     # mc "Good or bad energy?"
-    mc "Good or bad energy?"
+    mc "De l’énergie bonne ou mauvaise ?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:69
 translate french sm1cs_ns013_5fcb8487:
 
     # sy "I don't know, I haven't made up my mind yet."
-    sy "I don't know, I haven't made up my mind yet."
+    sy "Je ne sais pas encore, je n’ai pas pris de décision."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:70
 translate french sm1cs_ns013_a2642d33:
 
     # sy "But she is definitely cute."
-    sy "But she is definitely cute."
+    sy "Mais elle est vraiment mignonne."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:71
 translate french sm1cs_ns013_6311018e:
 
     # sy "She showed me all her artwork and toys."
-    sy "She showed me all her artwork and toys."
+    sy "Elle m’a montré toutes ses créations et ses jouets."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:72
 translate french sm1cs_ns013_9640a691:
 
     # sy "Each one...{w} I mean, she talked about them like they were family members."
-    sy "Each one...{w} I mean, she talked about them like they were family members."
+    sy "Chacun d’eux...{w} Je veux dire, elle en parlait comme si c’était des membres de sa famille."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:75
 translate french sm1cs_ns013_7488ae3e:
 
     # mc "Oh yeah."
-    mc "Oh yeah."
+    mc "Oh ouais."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:76
 translate french sm1cs_ns013_3b063be5:
 
     # mc "When we went to the store, we spent hours in the toy section."
-    mc "When we went to the store, we spent hours in the toy section."
+    mc "Quand on est allés au magasin, on a passé des heures au rayon jouets."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:82
 translate french sm1cs_ns013_94177620:
 
     # mc "If it makes Nari happy, that's fine by me."
-    mc "If it makes Nari happy, that's fine by me."
+    mc "Si ça rend Nari heureuse, ça me va."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:83
 translate french sm1cs_ns013_01e69536:
 
     # mc "She didn't get to bring much from her old place."
-    mc "She didn't get to bring much from her old place."
+    mc "Elle n’a pas pu apporter grand-chose de son ancien chez-elle."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:84
 translate french sm1cs_ns013_5ad130e7:
 
     # mc "Apart from some pictures."
-    mc "Apart from some pictures."
+    mc "À part quelques photos."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:91
 translate french sm1cs_ns013_34779cae:
 
     # mc "Toys aren't really my thing.{w} Least not those kind."
-    mc "Toys aren't really my thing.{w} Least not those kind."
+    mc "Les jouets, c’est pas trop mon truc.{w} Enfin, pas de ce genre-là."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:94
 translate french sm1cs_ns013_b5e7f15b:
 
     # sy "Well, maybe she's young at heart."
-    sy "Well, maybe she's young at heart."
+    sy "Eh bien, peut-être qu’elle est jeune dans l’âme."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:97
 translate french sm1cs_ns013_1e302232:
 
     # mc "Yeah. Or maybe it's a family thing."
-    mc "Yeah. Or maybe it's a family thing."
+    mc "Ouais. Ou peut-être que c’est un truc de famille."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:98
 translate french sm1cs_ns013_fcfe3056:
 
     # mc "Working at Orbix seems to be the first time Nari's had a lot of money to spend how she wants."
-    mc "Working at Orbix seems to be the first time Nari's had a lot of money to spend how she wants."
+    mc "Travailler chez Orbix, c’est sûrement la première fois que Nari a autant d’argent à dépenser comme elle veut."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:101
 translate french sm1cs_ns013_d1cdbe69:
@@ -98,61 +98,61 @@ translate french sm1cs_ns013_d1cdbe69:
 translate french sm1cs_ns013_c81e784d:
 
     # sy "Well, the important part is that she is settling in nicely and hasn't turned into a monstermate."
-    sy "Well, the important part is that she is settling in nicely and hasn't turned into a monstermate."
+    sy "En tout cas, l’important c’est qu’elle s’installe bien et qu’elle ne s’est pas transformée en coloc monstre."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:107
 translate french sm1cs_ns013_2bdd6b11:
 
     # mc "A monstermate?"
-    mc "A monstermate?"
+    mc "Un coloc monstre ?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:110
 translate french sm1cs_ns013_73a0b3a1:
 
     # sy "Yeah. A monster roommate."
-    sy "Yeah. A monster roommate."
+    sy "Ouais. Un colocataire monstre."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:117
 translate french sm1cs_ns013_702e62dc:
 
     # mc "That's pretty funny."
-    mc "That's pretty funny."
+    mc "C’est assez drôle."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:119
 translate french sm1cs_ns013_c281cb0e:
 
     # sy "Thank you."
-    sy "Thank you."
+    sy "Merci."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:124
 translate french sm1cs_ns013_01ecee92:
 
     # mc "You're as silly as Nari."
-    mc "You're as silly as Nari."
+    mc "T’es aussi fofolle que Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:126
 translate french sm1cs_ns013_bb6e7b9c:
 
     # sy "Hopefully that means we'll get along well."
-    sy "Hopefully that means we'll get along well."
+    sy "Espérons que ça veut dire qu’on va bien s’entendre."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:132
 translate french sm1cs_ns013_0ecbe951:
 
     # sy "Alright, mister.{w} It's time for you to get some sleep."
-    sy "Alright, mister.{w} It's time for you to get some sleep."
+    sy "Bon, monsieur.{w} Il est temps que tu dormes un peu."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:135
 translate french sm1cs_ns013_9e2f705b:
 
     # mc "Good call."
-    mc "Good call."
+    mc "Bonne idée."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:140
 translate french sm1cs_ns013_0d20c3e5:
 
     # sy "Do you think we should tell Nari that she can sleep out here?"
-    sy "Do you think we should tell Nari that she can sleep out here?"
+    sy "Tu crois qu’on devrait dire à Nari qu’elle peut dormir ici ?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:143
 translate french sm1cs_ns013_e526a903:
@@ -164,31 +164,31 @@ translate french sm1cs_ns013_e526a903:
 translate french sm1cs_ns013_2b218f43:
 
     # mc "I think we wait and see on that."
-    mc "I think we wait and see on that."
+    mc "Je pense qu’on devrait attendre et voir."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:148
 translate french sm1cs_ns013_36f85886:
 
     # mc "She just got her own room."
-    mc "She just got her own room."
+    mc "Elle vient tout juste d’avoir sa propre chambre."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:149
 translate french sm1cs_ns013_ef6fe767:
 
     # mc "If she asks, we'll tell her."
-    mc "If she asks, we'll tell her."
+    mc "Si elle demande, on lui dira."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:152
 translate french sm1cs_ns013_bd854202:
 
     # sy "Sounds good."
-    sy "Sounds good."
+    sy "Ça me va."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:159
 translate french sm1cs_ns013_4194afb2:
 
     # sy "Mmmm. That's nice."
-    sy "Mmmm. That's nice."
+    sy "Mmmm. C’est agréable."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:162
 translate french sm1cs_ns013_0792d9f7:
@@ -200,620 +200,663 @@ translate french sm1cs_ns013_0792d9f7:
 translate french sm1cs_ns013_caacab03:
 
     # sy "Night..."
-    sy "Night..."
+    sy "Bonne nuit..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:171
 translate french sm1cs_ns013_23dca2d3:
 
     # mc "Good night, sis."
-    mc "Good night, sis."
+    mc "Bonne nuit, soeurette."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:173
 translate french sm1cs_ns013_bae8c4d4:
 
     # mc "Good night, Stacy."
-    mc "Good night, Stacy."
+    mc "Bonne nuit, Stacy."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:199
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:198
 translate french sm1cs_ns013_aceaa06a:
 
     # mct "Mmmm. What a nice dream."
-    mct "Mmmm. What a nice dream."
+    mct "Mmmm. Quel joli rêve."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:200
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:199
 translate french sm1cs_ns013_6bfcfe43:
 
     # mct "Shame it ended.{w} It was feeling good."
-    mct "Shame it ended.{w} It was feeling good."
+    mct "Dommage que ça se soit terminé.{w} Ça faisait du bien."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:210
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:209
 translate french sm1cs_ns013_8feb6de7:
 
     # mct "Oh..."
     mct "Oh..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:211
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:210
 translate french sm1cs_ns013_9fa9b0ec:
 
     # mct "Maybe it wasn't a dream."
-    mct "Maybe it wasn't a dream."
+    mct "Peut-être que ce n’était pas un rêve."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:214
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:213
 translate french sm1cs_ns013_c3e820da:
 
     # sy "*smooching*"
-    sy "*smooching*"
+    sy "*bruits de bisous*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:218
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:217
 translate french sm1cs_ns013_46306508:
 
     # mc "Good morning there..."
-    mc "Good morning there..."
+    mc "Bonjour toi..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:221
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:220
 translate french sm1cs_ns013_65b9ec84:
 
     # sy "Ahah. The monster finally stirs."
-    sy "Ahah. The monster finally stirs."
+    sy "Ahah. Le monstre se réveille enfin."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:222
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:221
 translate french sm1cs_ns013_19a120b7:
 
     # sy "Mrwmmmm."
     sy "Mrwmmmm."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:223
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:222
 translate french sm1cs_ns013_25f0b46a:
 
     # sy "You {i}do{/i} like to sleep in."
-    sy "You {i}do{/i} like to sleep in."
+    sy "Tu {i}aimes vraiment{/i} faire la grasse matinée."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:227
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:226
 translate french sm1cs_ns013_40f4fdae:
 
     # sy "I was about to put a finger up your butt."
-    sy "I was about to put a finger up your butt."
+    sy "J’étais sur le point de te mettre un doigt dans les fesses."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:228
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:227
 translate french sm1cs_ns013_be00afe1:
 
     # sy "Little dark side wakeup alarm."
-    sy "Little dark side wakeup alarm."
+    sy "Une petite alarme de réveil du côté obscur."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:234
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:235
 translate french sm1cs_ns013_2ba27d78:
 
     # mc "Don't threaten me with a good time."
-    mc "Don't threaten me with a good time."
+    mc "Ne me menace pas avec un bon moment comme ça."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:237
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:238
 translate french sm1cs_ns013_ba2afede:
 
     # sy "*chuckles*"
-    sy "*chuckles*"
+    sy "*ricane*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:241
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:242
 translate french sm1cs_ns013_d5b14390:
 
     # mc "I'm glad you stuck with kissing."
-    mc "I'm glad you stuck with kissing."
+    mc "Je suis content que tu sois restée aux bisous."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:244
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:245
 translate french sm1cs_ns013_5ee8dc16:
 
     # sy "Mmhmm."
     sy "Mmhmm."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:249
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:250
 translate french sm1cs_ns013_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "Hein ?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:252
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:253
 translate french sm1cs_ns013_cce71d2e:
 
     # mc "It's my turn to get you worked up."
-    mc "It's my turn to get you worked up."
+    mc "C’est mon tour de t’exciter."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:257
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:258
 translate french sm1cs_ns013_2e90ccca:
 
     # sy "That's okay, bro."
-    sy "That's okay, bro."
+    sy "Ça va, frérot."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:258
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:259
 translate french sm1cs_ns013_3ad2098e:
 
     # sy "I'm already pretty wet from playing with your cock."
-    sy "I'm already pretty wet from playing with your cock."
+    sy "Je suis déjà bien mouillée à force de jouer avec ta bite."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:262
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:263
 translate french sm1cs_ns013_e8911481:
 
     # mc "Oh, I know, dear sister."
-    mc "Oh, I know, dear sister."
+    mc "Oh, je sais, ma chère sœur."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:265
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:266
 translate french sm1cs_ns013_2e1a03a5:
 
     # sy "That's okay, [mcname]."
-    sy "That's okay, [mcname]."
+    sy "Ça va, [mcname]."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:266
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:267
 translate french sm1cs_ns013_3ad2098e_1:
 
     # sy "I'm already pretty wet from playing with your cock."
-    sy "I'm already pretty wet from playing with your cock."
+    sy "Je suis déjà bien mouillée à force de jouer avec ta bite."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:270
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:271
 translate french sm1cs_ns013_cc358037:
 
     # mc "Oh, I know, Stacy..."
-    mc "Oh, I know, Stacy..."
+    mc "Oh, je sais, Stacy..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:273
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:274
 translate french sm1cs_ns013_0eb08cae:
 
     # mc "But that's why I need to punish you a little."
-    mc "But that's why I need to punish you a little."
+    mc "Mais c’est pour ça que je dois te punir un peu."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:276
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:277
 translate french sm1cs_ns013_dfec528c:
 
     # sy "*sarcastic* Punish... me?"
-    sy "*sarcastic* Punish... me?"
+    sy "*sarcastique* Me punir... moi ?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:282
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:283
 translate french sm1cs_ns013_44adfba6:
 
     # mc "*growling* Yes."
-    mc "*growling* Yes."
+    mc "*grogne* Oui."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:286
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:287
 translate french sm1cs_ns013_8c7f53ac:
 
     # sy "*light wimpering*"
-    sy "*light wimpering*"
+    sy "*gémit doucement*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:287
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:288
 translate french sm1cs_ns013_0a203103:
 
     # sy "Please... at least put your big fingers inside me."
-    sy "Please... at least put your big fingers inside me."
+    sy "S’il te plaît... mets au moins tes gros doigts en moi."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:288
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:289
 translate french sm1cs_ns013_129ea662:
 
     # sy "*playful* Or I'm going to get mad."
-    sy "*playful* Or I'm going to get mad."
+    sy "*coquine* Ou alors je vais me fâcher."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:293
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:294
 translate french sm1cs_ns013_87c04f0e:
 
     # mc "I'm shaking.{w} But... I will reward you for getting my cock ready."
-    mc "I'm shaking.{w} But... I will reward you for getting my cock ready."
+    mc "Je tremble.{w} Mais... je vais te récompenser d’avoir préparé ma bite."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:294
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:295
 translate french sm1cs_ns013_9186400b:
 
     # sy "Mmuaah..."
     sy "Mmuaah..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:295
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:296
 translate french sm1cs_ns013_55a3de5e:
 
     # sy "Ooouhaaa-whuaaah."
     sy "Ooouhaaa-whuaaah."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:299
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:301
 translate french sm1cs_ns013_cd080ddb:
 
     # sy "Murraaah...."
     sy "Murraaah...."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:301
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:303
 translate french sm1cs_ns013_d33b34e8:
 
     # sy "You can be so cruel, big bro..."
-    sy "You can be so cruel, big bro..."
+    sy "Tu peux être si cruel, grand frère..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:303
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:305
 translate french sm1cs_ns013_0701465b:
 
     # sy "You can be so cruel, [mcname]..."
-    sy "You can be so cruel, [mcname]..."
+    sy "Tu peux être si cruel, [mcname]..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:305
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:307
 translate french sm1cs_ns013_9f6fab67:
 
     # sy "But... you know just where to touch me."
-    sy "But... you know just where to touch me."
+    sy "Mais... tu sais exactement où me toucher."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:306
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:308
 translate french sm1cs_ns013_618c4ac3:
 
     # sy "Uhuaah... It's not fair."
-    sy "Uhuaah... It's not fair."
+    sy "Uhuaah... ce n'est pas juste."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:309
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:311
 translate french sm1cs_ns013_8f7d0d1f:
 
     # mc "I know.{w} But it's not how fair how hard I get for you, Stacy."
-    mc "I know.{w} But it's not how fair how hard I get for you, Stacy."
+    mc "Je sais.{w} Mais ce n’est pas juste à quel point je bande pour toi, Stacy."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:310
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:312
 translate french sm1cs_ns013_d48dd1bf:
 
     # mc "Sometimes, I think we made the porn studio so we would have to work and keep from fucking each other senseless every day."
-    mc "Sometimes, I think we made the porn studio so we would have to work and keep from fucking each other senseless every day."
+    mc "Parfois, je pense qu’on a monté le studio porno juste pour devoir bosser et éviter de se baiser à en perdre la tête tous les jours."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:313
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:315
 translate french sm1cs_ns013_f7688891:
 
     # sy "Hahuahaa.... now wouldn't that be fun."
-    sy "Hahuahaa.... now wouldn't that be fun."
+    sy "Hahuahaa... ça, ce serait marrant."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:314
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:316
 translate french sm1cs_ns013_7efe7fc6:
 
     # sy "Ahuaha...{w} have I...{w} have I been punished enough, [mcname]?"
-    sy "Ahuaha...{w} have I...{w} have I been punished enough, [mcname]?"
+    sy "Ahuaha...{w} est-ce que...{w} est-ce que j’ai été assez punie, [mcname] ?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:317
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:319
 translate french sm1cs_ns013_22b70eab:
 
     # sy "*moaning*"
-    sy "*moaning*"
+    sy "*gémit*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:318
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:320
 translate french sm1cs_ns013_f3361e77:
 
     # mc "You're very wet.{w} But I want to play with you a little longer."
-    mc "You're very wet.{w} But I want to play with you a little longer."
+    mc "Tu es trempée.{w} Mais je veux jouer encore un peu avec toi."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:329
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:331
 translate french sm1cs_ns013_395e0e78:
 
     # ns "Ahuaah."
     ns "Ahuaah."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:332
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:334
 translate french sm1cs_ns013_1a2c0820:
 
     # ns "Oh..."
     ns "Oh..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:348
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:350
 translate french sm1cs_ns013_1a2c0820_1:
 
     # ns "Oh..."
     ns "Oh..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:360
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:362
 translate french sm1cs_ns013_c6be1a20:
 
     # sy "Oh-hah-hah..."
     sy "Oh-hah-hah..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:361
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:363
 translate french sm1cs_ns013_c40af7c7:
 
     # sy "You're so hard."
-    sy "You're so hard."
+    sy "Tu es si dur."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:364
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:366
 translate french sm1cs_ns013_cd321e64:
 
     # sy "This is so hot..."
-    sy "This is so hot..."
+    sy "C’est tellement chaud..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:367
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:369
 translate french sm1cs_ns013_30c9c315:
 
     # mc "Yeah. Your pussy and thighs feel so good."
-    mc "Yeah. Your pussy and thighs feel so good."
+    mc "Ouais. Ta chatte et tes cuisses sont tellement bonnes."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:368
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:370
 translate french sm1cs_ns013_3b10895f:
 
     # sy "No."
-    sy "No."
+    sy "Non."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:369
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:371
 translate french sm1cs_ns013_34f96976:
 
     # sy "I mean yeah."
-    sy "I mean yeah."
+    sy "Enfin si, ouais."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:372
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:374
 translate french sm1cs_ns013_5366dc89:
 
     # sy "But it's not like we're alone."
-    sy "But it's not like we're alone."
+    sy "Mais on n’est pas vraiment seuls."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:373
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:375
 translate french sm1cs_ns013_d87a55f8:
 
     # sy "Nari could come out of her room any minute."
-    sy "Nari could come out of her room any minute."
+    sy "Nari pourrait sortir de sa chambre à tout moment."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:394
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:396
 translate french sm1cs_ns013_57f43dc5:
 
     # mc "You don't mind."
-    mc "You don't mind."
+    mc "Ça ne te dérange pas."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:395
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:397
 translate french sm1cs_ns013_f895a8f5:
 
     # mc "Your pussy is pouring like a rainstorm now."
-    mc "Your pussy is pouring like a rainstorm now."
+    mc "Ta chatte dégouline comme un orage."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:398
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:400
 translate french sm1cs_ns013_16ac90c9:
 
     # sy "I know I don't mind.{w} I just don't want to scare her."
-    sy "I know I don't mind.{w} I just don't want to scare her."
+    sy "Je sais que ça ne me dérange pas.{w} Je ne veux juste pas lui faire peur."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:399
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:401
 translate french sm1cs_ns013_4582f6fd:
 
     # mc "It will be fine."
-    mc "It will be fine."
+    mc "Ça ira."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:402
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:404
 translate french sm1cs_ns013_6415cc6c:
 
     # sy "Muaah-ahuaah... you're so impossible when you've got morning wood."
-    sy "Muaah-ahuaah... you're so impossible when you've got morning wood."
+    sy "Muaah-ahuaah... tu es insupportable quand tu bandes au réveil."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:403
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:405
 translate french sm1cs_ns013_f4d8552f:
 
     # sy "Can you...{w} can you kriffing fuck me finally?"
-    sy "Can you...{w} can you kriffing fuck me finally?"
+    sy "Est-ce que tu peux...{w} est-ce que tu peux enfin me baiser ?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:406
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:408
 translate french sm1cs_ns013_f1e0010d:
 
     # sy "I've been so patient."
-    sy "I've been so patient."
+    sy "J’ai été tellement patiente."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:410
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:412
 translate french sm1cs_ns013_dc8549ea:
 
     # mc "Say please."
-    mc "Say please."
+    mc "Dis s’il te plaît."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:416
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:418
 translate french sm1cs_ns013_dc8f8a8b:
 
     # sy "Please stick your cock in my pussy, bro..."
-    sy "Please stick your cock in my pussy, bro..."
+    sy "S’il te plaît, mets ta bite dans ma chatte, frérot..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:418
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:420
 translate french sm1cs_ns013_81c1e417:
 
     # sy "Please stick your cock in my wet, tight pussy, [mcname]."
-    sy "Please stick your cock in my wet, tight pussy, [mcname]."
+    sy "S’il te plaît, mets ta bite dans ma chatte mouillée et serrée, [mcname]."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:420
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:422
 translate french sm1cs_ns013_c9d0e1d1:
 
     # mct "Oh she is not fighting fair!"
-    mct "Oh she is not fighting fair!"
+    mct "Oh, elle ne joue pas franc-jeu !"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:421
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:423
 translate french sm1cs_ns013_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "D’accord."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:424
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:426
 translate french sm1cs_ns013_f7b96b5f:
 
     # mc "Yes, you have."
-    mc "Yes, you have."
+    mc "Oui, tu as été patiente."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:425
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:427
 translate french sm1cs_ns013_ed9a3f2c:
 
     # mc "Such a good girl."
-    mc "Such a good girl."
+    mc "Quelle bonne fille."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:432
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:434
 translate french sm1cs_ns013_78fb47a4:
 
     # ns "*whimpering softly*"
-    ns "*whimpering softly*"
+    ns "*gémit doucement*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:433
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:435
 translate french sm1cs_ns013_83d04b1d:
 
     # ns "*nervous breathing*"
-    ns "*nervous breathing*"
+    ns "*respiration nerveuse*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:441
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:443
 translate french sm1cs_ns013_51f22e76:
 
     # sy "Oh fuck. That feels so good."
-    sy "Oh fuck. That feels so good."
+    sy "Oh putain. C’est trop bon."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:442
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:444
 translate french sm1cs_ns013_26df7c8f:
 
     # mc "Yes. Morning sex is the best."
-    mc "Yes. Morning sex is the best."
+    mc "Ouais. Le sexe du matin, c’est le meilleur."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:446
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:448
 translate french sm1cs_ns013_c172bd12:
 
     # sy "Yes."
-    sy "Yes."
+    sy "Oui."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:447
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:449
 translate french sm1cs_ns013_f8e83795:
 
     # sy "Yes yes yes!"
-    sy "Yes yes yes!"
+    sy "Oui, oui, oui !"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:450
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:452
 translate french sm1cs_ns013_100a7a3c:
 
     # sy "Oh my god. My pussy loves having you inside, bro."
-    sy "Oh my god. My pussy loves having you inside, bro."
+    sy "Oh mon dieu. Ma chatte adore t’avoir en moi, frérot."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:451
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:453
 translate french sm1cs_ns013_8f1f1320:
 
     # sy "Keep going."
-    sy "Keep going."
+    sy "Continue."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:452
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:454
 translate french sm1cs_ns013_44e616c5:
 
     # sy "Make yourself... feel at home - anuaa-huaaah!"
-    sy "Make yourself... feel at home - anuaa-huaaah!"
+    sy "Mets-toi à l’aise... fais comme chez toi – anuaa-huaaah !"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:454
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:456
 translate french sm1cs_ns013_f948c289:
 
     # sy "Oh my god. My pussy is so happy having you inside me."
-    sy "Oh my god. My pussy is so happy having you inside me."
+    sy "Oh mon dieu. Ma chatte est tellement heureuse de t’avoir en moi."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:455
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:457
 translate french sm1cs_ns013_651f40f6:
 
     # sy "I love feeling my boyfriend's cock sliding in and out."
-    sy "I love feeling my boyfriend's cock sliding in and out."
+    sy "J’adore sentir la bite de mon copain glisser dedans et ressortir."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:456
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:458
 translate french sm1cs_ns013_9559db35:
 
     # sy "Enjoy it... enjoy using me- ahuaaah!"
-    sy "Enjoy it... enjoy using me- ahuaaah!"
+    sy "Profite... profite de m’utiliser – ahuaaah !"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:459
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:461
 translate french sm1cs_ns013_5f71acf7:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*grognements*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:460
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:462
 translate french sm1cs_ns013_26afd527:
 
     # sy "Right there."
-    sy "Right there."
+    sy "Juste là."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:461
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:463
 translate french sm1cs_ns013_a3208a8d:
 
     # sy "Yes... push it in... stretch me out."
-    sy "Yes... push it in... stretch me out."
+    sy "Oui... enfonce-la... écarte-moi bien."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:462
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:464
 translate french sm1cs_ns013_9b4516f0:
 
     # sy "*moaning* Ahu-ahuaah.. fuaah..."
-    sy "*moaning* Ahu-ahuaah.. fuaah..."
+    sy "*gémit* Ahu-ahuaah... fuaah..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:463
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:465
 translate french sm1cs_ns013_f562e5a3:
 
     # sy "Fuck. It's getting so hot!"
-    sy "Fuck. It's getting so hot!"
+    sy "Putain. Ça devient tellement chaud !"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:469
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:471
 translate french sm1cs_ns013_b47205cb:
 
     # sy "Wwuah-huaaahfffah-ooouha!"
-    sy "Wwuah-huaaahfffah-ooouha!"
+    sy "Wwuah-huaaahfffah-ooouha !"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:474
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:476
 translate french sm1cs_ns013_f15efb17:
 
     # ns "Ah-ahuaaah!"
-    ns "Ah-ahuaaah!"
+    ns "Ah-ahuaaah !"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:477
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:479
 translate french sm1cs_ns013_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Hein ?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:479
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:481
 translate french sm1cs_ns013_b2f1b485:
 
     # sy "Heh?"
-    sy "Heh?"
+    sy "Hein ?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:486
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:488
 translate french sm1cs_ns013_b8de06d3:
 
     # mc "Oh."
     mc "Oh."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:488
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:490
 translate french sm1cs_ns013_e801a6ba:
 
     # sy "*panting* Hehehe.{w} Hey..."
-    sy "*panting* Hehehe.{w} Hey..."
+    sy "*haletante* Hehehe.{w} Hé..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:489
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:491
 translate french sm1cs_ns013_4742cae8:
 
     # sy "It's Nari."
-    sy "It's Nari."
+    sy "C’est Nari."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:496
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:498
 translate french sm1cs_ns013_73973276:
 
     # mc "Nari wait."
-    mc "Nari wait."
+    mc "Nari, attends."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:497
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:499
 translate french sm1cs_ns013_b5c84e78:
 
     # mc "Your pants."
-    mc "Your pants."
+    mc "Ton pantalon."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:502
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:504
 translate french sm1cs_ns013_86b8ca08:
 
     # ns "Ah!"
-    ns "Ah!"
+    ns "Ah !"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:506
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:508
 translate french sm1cs_ns013_5412830a:
 
     # ns "Ooh!"
-    ns "Ooh!"
+    ns "Ooh !"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:510
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:512
 translate french sm1cs_ns013_1d20cef0:
 
     # sy "Ouch."
-    sy "Ouch."
+    sy "Aïe."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:512
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:514
 translate french sm1cs_ns013_b27128e5:
 
     # mc "Oooh."
     mc "Oooh."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:516
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:518
 translate french sm1cs_ns013_eb986133:
 
     # ns "*sighing and hissing*"
-    ns "*sighing and hissing*"
+    ns "*soupire et gémit*"
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:519
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:521
 translate french sm1cs_ns013_f28b3ab9:
 
     # mc "Are you alright?"
-    mc "Are you alright?"
+    mc "Ça va ?"
 
+translate french strings:
+
+    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:77
+    old "I'm glad they make her happy"
+    new "Je suis content qu’ils la rendent heureuse"
+
+    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:77
+    old "I don't get them"
+    new "Je ne les comprends pas"
+
+    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:112
+    old "That's funny"
+    new "C’est drôle"
+
+    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:112
+    old "You're as silly as she is"
+    new "Tu es aussi bête qu’elle"
+
+    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:180
+    old "In the morning"
+    new "Le matin"
+
+    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:230
+    old "That's my kink"
+    new "C’est mon kiff"
+
+    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:230
+    old "I'm glad you stuck with kissing"
+    new "Je suis content que tu sois restée aux baisers"
+
+    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:409
+    old "Say please"
+    new "Dis s’il te plaît"
+
+    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:409
+    old "Yes, Stacy"
+    new "Oui, Stacy"
+
+    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1000
+    old "About thirty minutes later"
+    new "Environ trente minutes plus tard"
+
+#Translate by BlackViper_
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:527
 translate french ns013_labels_section_08999b4d:
 
@@ -2391,46 +2434,4 @@ translate french ns013_labels_section_4e1d76af:
 
     # ns "Yes, [mcname]."
     ns "Yes, [mcname]."
-
-translate french strings:
-
-    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:77
-    old "I'm glad they make her happy"
-    new "I'm glad they make her happy"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:77
-    old "I don't get them"
-    new "I don't get them"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:112
-    old "That's funny"
-    new "That's funny"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:112
-    old "You're as silly as she is"
-    new "You're as silly as she is"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:180
-    old "In the morning"
-    new "In the morning"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:230
-    old "That's my kink"
-    new "That's my kink"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:230
-    old "I'm glad you stuck with kissing"
-    new "I'm glad you stuck with kissing"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:407
-    old "Say please"
-    new "Say please"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:407
-    old "Yes, Stacy"
-    new "Yes, Stacy"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1061
-    old "About thirty minutes later"
-    new "About thirty minutes later"
 
