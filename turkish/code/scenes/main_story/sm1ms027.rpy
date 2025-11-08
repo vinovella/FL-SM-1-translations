@@ -316,12 +316,6 @@ translate turkish sm1ms027_67f83c2a:
     # sy "Oh my god, someone made a meme out when Taisia throws me around at the end."
     sy "Oh my god, someone made a meme out when Taisia throws me around at the end."
 
-# game/code/scenes/main_story/sm1ms027.rpy:195
-translate turkish sm1ms027_9a7b5db1:
-
-    # sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled1"
-    sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled1"
-
 # game/code/scenes/main_story/sm1ms027.rpy:199
 translate turkish sm1ms027_12e2c88e:
 

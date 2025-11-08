@@ -110,7 +110,7 @@ translate french sm1cs_dc008_63ea85aa:
 translate french sm1cs_dc008_e3dfd71f:
 
     # mc "All right, all right - I promise to take... 20 percent off the top."
-    mc "Bon d’accord, je promets de réduire... disons 20 %."
+    mc "Bon d’accord, je promets de réduire... disons 20 %%."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:69
 translate french sm1cs_dc008_7955a532:

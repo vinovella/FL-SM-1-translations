@@ -402,12 +402,6 @@ translate french q_inter_my_13_2aea2240:
     # my "I might have accepted that you're doing this, but I'm not sure I'm ready to commit to the movies yet..."
     my "I might have accepted that you're doing this, but I'm not sure I'm ready to commit to the movies yet..."
 
-# game/code/data/quick_interactions/Neutral/q-inter-my.rpy:236
-translate french q_inter_my_14_673ea5a6:
-
-    # my "{size=*0.7}Oh, [mcname]..."
-    my "{size=*0.7}Oh, [mcname]..."
-
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:237
 translate french q_inter_my_14_05500ff6:
 

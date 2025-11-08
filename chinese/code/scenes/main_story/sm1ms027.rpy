@@ -316,12 +316,6 @@ translate chinese sm1ms027_67f83c2a:
     # sy "Oh my god, someone made a meme out when Taisia throws me around at the end."
     sy "我的天，居然有人把泰西娅最后把我甩来甩去的片段做成梗图了。"
 
-# game/code/scenes/main_story/sm1ms027.rpy:195
-translate chinese sm1ms027_9a7b5db1:
-
-    # sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled1"
-    sy "大家好像特别喜欢娜丽演外星人的造型。而且他们还觉得布景和服装都很棒！"
-
 # game/code/scenes/main_story/sm1ms027.rpy:199
 translate chinese sm1ms027_12e2c88e:
 

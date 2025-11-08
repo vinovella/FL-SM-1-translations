@@ -476,7 +476,7 @@ translate french sm1cs_ns003_4ae54dc5:
 translate french sm1cs_ns003_7db546b7:
 
     # ns "Their financial estimates for the next twenty quarters are incredible, even if I think they're inflated by one point three percent."
-    ns "Leurs prévisions financières pour les vingt prochains trimestres sont incroyables, même si je pense qu’elles sont gonflées d’environ 1,3 %."
+    ns "Leurs prévisions financières pour les vingt prochains trimestres sont incroyables, même si je pense qu’elles sont gonflées d’environ 1,3 %%."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:229
 translate french sm1cs_ns003_3071abe5:

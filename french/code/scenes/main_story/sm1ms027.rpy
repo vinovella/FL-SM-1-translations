@@ -372,9 +372,3 @@ translate french sm1ms027_ff345ae0:
 
 #Translate by BlackViper_
 
-# game/code/scenes/main_story/sm1ms027.rpy:195
-translate french sm1ms027_9a7b5db1:
-
-    # sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled1"
-    sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled1"
-

@@ -316,12 +316,6 @@ translate italian sm1ms027_67f83c2a:
     # sy "Oh my god, someone made a meme out when Taisia throws me around at the end."
     sy "Oh mio dio, qualcuno ha fatto un meme da quando Taisia mi lancia in giro alla fine."
 
-# game/code/scenes/main_story/sm1ms027.rpy:195
-translate italian sm1ms027_9a7b5db1:
-
-    # sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled1"
-    sy "Alla gente è piaciuto molto il design di Nari come aliena. E hanno pensato che i set e i costumi fossero fantastici!"
-
 # game/code/scenes/main_story/sm1ms027.rpy:199
 translate italian sm1ms027_12e2c88e:
 
