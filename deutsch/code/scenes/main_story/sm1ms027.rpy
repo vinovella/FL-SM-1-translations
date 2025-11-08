@@ -370,3 +370,9 @@ translate deutsch sm1ms027_ff345ae0:
     # mc "Hard to get back to sleep after that."
     mc "Es ist schwer, danach wieder einzuschlafen."
 
+# game/code/scenes/main_story/sm1ms027.rpy:195
+translate deutsch sm1ms027_82b68733:
+
+    # sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled!"
+    sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled!"
+

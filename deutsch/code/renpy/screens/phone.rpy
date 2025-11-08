@@ -42,3 +42,9 @@ translate deutsch strings:
     old "Studio Laptop"
     new "Studio Laptop"
 
+translate deutsch strings:
+
+    # game/code/renpy/screens/phone.rpy:115
+    old "Day: [gt.get_day_number()]"
+    new "Day: [gt.get_day_number()]"
+

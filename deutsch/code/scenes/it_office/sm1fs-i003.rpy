@@ -1014,3 +1014,9 @@ translate deutsch strings:
     old "Three Hours Later..."
     new "Drei Stunden später..."
 
+# game/code/scenes/it_office/sm1fs-i003.rpy:130
+translate deutsch sm1fs_i003_884c26d7:
+
+    # ns "{font=fonts/notosanskr-medium.ttf}새로운 잘생긴 동료를 만나서 반가워요!{/font}"
+    ns "{font=fonts/notosanskr-medium.ttf}새로운 잘생긴 동료를 만나서 반가워요!{/font}"
+

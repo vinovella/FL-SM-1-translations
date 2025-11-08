@@ -272,3 +272,81 @@ translate deutsch strings:
     old "Talk to Veronica on the stage"
     new "Sprich mit Veronica auf der Bühne"
 
+translate deutsch strings:
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Invite Stacy to the amusement park during the day"
+    new "Invite Stacy to the amusement park during the day"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Go to the Theater for an audition during the day"
+    new "Go to the Theater for an audition during the day"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress Veronica's and Kellie's storylines"
+    new "Progress Veronica's and Kellie's storylines"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least {}/3 times"
+    new "Do the Saturday show at least {}/3 times"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have {}/10 total Relationship Points with the Theater girls"
+    new "Have {}/10 total Relationship Points with the Theater girls"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least {}/3 times and have {}/10 total Relationship Points with the Theater girls"
+    new "Do the Saturday show at least {}/3 times and have {}/10 total Relationship Points with the Theater girls"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least 3 times and have 10 total Relationship Points with the Theater girls"
+    new "Do the Saturday show at least 3 times and have 10 total Relationship Points with the Theater girls"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Visit the Theater at noon"
+    new "Visit the Theater at noon"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Denise about the Wurst Delivery sponsorship in her office"
+    new "Talk to Denise about the Wurst Delivery sponsorship in her office"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do a Theater show on Saturday"
+    new "Do a Theater show on Saturday"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Ask Denise how the play performed"
+    new "Ask Denise how the play performed"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Progress the Theater Story"
+    new "Progress the Theater Story"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Denise in her office"
+    new "Talk to Denise in her office"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Practice with Denise in her office"
+    new "Practice with Denise in her office"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Wait a day"
+    new "Wait a day"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk with Taisia about \"work\" during the daytime"
+    new "Talk with Taisia about \"work\" during the daytime"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Go to the Theater to meet Taisia"
+    new "Go to the Theater to meet Taisia"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Buy the 'Stars Weekly' magazine from the store"
+    new "Buy the 'Stars Weekly' magazine from the store"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Get your Film and TV topic to 3"
+    new "Get your Film and TV topic to 3"
+
