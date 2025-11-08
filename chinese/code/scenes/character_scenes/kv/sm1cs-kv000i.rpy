@@ -62,7 +62,7 @@ translate chinese sm1cs_kv000i_5ca38c79:
 translate chinese sm1cs_kv000i_0ed888b4:
 
     # mc "Do you mean Ken's Photo Dojo?"
-    mc "你是说肯氏摄影棚？"
+    mc "你是说肯的摄影工坊？"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv000i.rpy:34
 translate chinese sm1cs_kv000i_e364bec7:
