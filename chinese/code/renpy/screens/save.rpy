@@ -16,3 +16,9 @@
     old "Saves For Chapter "
     new "第章节的存档 "
 
+translate chinese strings:
+
+    # game/code/renpy/screens/save.rpy:12
+    old "Save for S&M Studio Chapter 2"
+    new "Save for S&M Studio Chapter 2"
+

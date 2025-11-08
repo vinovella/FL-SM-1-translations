@@ -532,3 +532,9 @@
     old "ICON CREDITS"
     new "图标鸣谢"
 
+translate chinese strings:
+
+    # game/code/renpy/screens/screens.rpy:729
+    old "Minigames :"
+    new "Minigames :"
+

@@ -64,3 +64,13 @@
     old "we'll be there!"
     new "我们会去的！"
 
+translate chinese strings:
+
+    # game/code/data/chat/chat_tl.rpy:3
+    old "hey, girl! Where can I find you today?"
+    new "hey, girl! Where can I find you today?"
+
+    # game/code/data/chat/chat_tl.rpy:3
+    old "I'm at the theater, find me there"
+    new "I'm at the theater, find me there"
+
