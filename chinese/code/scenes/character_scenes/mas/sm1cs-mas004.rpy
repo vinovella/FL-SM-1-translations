@@ -2,109 +2,109 @@
 translate chinese sm1cs_mas004_7c534312:
 
     # nr "Alright, listen up. I'm tapping out. Got a doctor's appointment I can't miss."
-    nr "Alright, listen up. I'm tapping out. Got a doctor's appointment I can't miss."
+    nr "好了，听着。我要先走了。有个医生预约不能错过。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:11
 translate chinese sm1cs_mas004_fab4e598:
 
     # ms "Let me guess. You tried to eat a plant again."
-    ms "Let me guess. You tried to eat a plant again."
+    ms "让我猜猜。你又试着吃植物了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:15
 translate chinese sm1cs_mas004_f56a6ac0:
 
     # nr "*winces* It was a salad. A goddamn salad."
-    nr "*winces* It was a salad. A goddamn salad."
+    nr "*龇牙咧嘴* 是沙拉。该死的沙拉。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:16
 translate chinese sm1cs_mas004_722d6b62:
 
     # nr "Never trust food you don't cook. My insides are staging a full-scale rebellion."
-    nr "Never trust food you don't cook. My insides are staging a full-scale rebellion."
+    nr "永远别相信你没亲手做的食物。我的内脏正在全面造反。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:20
 translate chinese sm1cs_mas004_9d6553a6:
 
     # "Rocco" "That's what happens when you betray the noble sausage for rabbit food, Nelson!"
-    "Rocco" "That's what happens when you betray the noble sausage for rabbit food, Nelson!"
+    "Rocco" "这就是你背叛高贵的香肠去吃兔子食物的下场，纳尔逊！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:24
 translate chinese sm1cs_mas004_b8966c2a:
 
     # nr "Shut up, Rocco! Or you'll feel exactly how I'm feeling!"
-    nr "Shut up, Rocco! Or you'll feel exactly how I'm feeling!"
+    nr "闭嘴，罗科！否则你也会尝到我现在的感觉！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:28
 translate chinese sm1cs_mas004_0a238a3f:
 
     # nr "Anyway, I need one of you in charge."
-    nr "Anyway, I need one of you in charge."
+    nr "总之，我需要你们其中一个负责。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:31
 translate chinese sm1cs_mas004_1cba2083:
 
     # ms "That'd be me. I've been here longer. I know where all the bodies are buried."
-    ms "That'd be me. I've been here longer. I know where all the bodies are buried."
+    ms "那应该是我。我在这里待得更久。我知道所有的尸体都埋在哪里。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:35
 translate chinese sm1cs_mas004_e94dce5a:
 
     # nr "Hmmm.{w} On second thought."
-    nr "Hmmm.{w} On second thought."
+    nr "嗯...{w}再想想。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:36
 translate chinese sm1cs_mas004_30339b5c:
 
     # nr "I just remembered the last customer complaint made against you, Maya."
-    nr "I just remembered the last customer complaint made against you, Maya."
+    nr "我刚想起上次有顾客投诉你，玛雅。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:37
 translate chinese sm1cs_mas004_8b4a2565:
 
     # nr "Telling a customer that he smells like \"a wet dumpster full of diapers that has been cooking on a hot day\"."
-    nr "Telling a customer that he smells like \"a wet dumpster full of diapers that has been cooking on a hot day\"."
+    nr "你告诉顾客他闻起来像\"装满尿布的湿垃圾箱在大热天里发酵的味道\"。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:41
 translate chinese sm1cs_mas004_1f634e1d:
 
     # ms "That was an entirely accurate assessment."
-    ms "That was an entirely accurate assessment."
+    ms "那是完全准确的评价。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:45
 translate chinese sm1cs_mas004_ae6fcdd0:
 
     # nr "You two are working together."
-    nr "You two are working together."
+    nr "你们两个一起负责。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:48
 translate chinese sm1cs_mas004_0f4cd710:
 
     # mc "But—"
-    mc "But—"
+    mc "但是--"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:52
 translate chinese sm1cs_mas004_a140104e:
 
     # nr "No butts."
-    nr "No butts."
+    nr "没有但是。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:56
 translate chinese sm1cs_mas004_d94cafd4:
 
     # nr "As partners, I can at least hope for mutually assured competence."
-    nr "As partners, I can at least hope for mutually assured competence."
+    nr "作为搭档，我至少可以期待相互保证的能力。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:60
 translate chinese sm1cs_mas004_545b1ff6:
 
     # nr "Bank deposit is at three. Hopefully, we will get a big lunch rush."
-    nr "Bank deposit is at three. Hopefully, we will get a big lunch rush."
+    nr "三点要去银行存款。希望午餐高峰期生意好。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:64
 translate chinese sm1cs_mas004_082ce987:
 
     # nr "Please try not to mess this up."
-    nr "Please try not to mess this up."
+    nr "拜托别搞砸了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:67
 translate chinese sm1cs_mas004_374d0d66:
@@ -116,487 +116,487 @@ translate chinese sm1cs_mas004_374d0d66:
 translate chinese sm1cs_mas004_8072601d:
 
     # mc "We got this, Nelson. Go take care of your leafy green demon."
-    mc "We got this, Nelson. Go take care of your leafy green demon."
+    mc "我们能搞定的，纳尔逊。去处理你的绿叶恶魔吧。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:72
 translate chinese sm1cs_mas004_f2cd7b91:
 
     # nr "Thanks, kid."
-    nr "Thanks, kid."
+    nr "谢了，小子。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:76
 translate chinese sm1cs_mas004_03b76c17:
 
     # nr "Ah I feel better already."
-    nr "Ah I feel better already."
+    nr "啊，我已经感觉好多了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:80
 translate chinese sm1cs_mas004_6c6cf86c:
 
     # nr "Oh tater tots! That was a big one."
-    nr "Oh tater tots! That was a big one."
+    nr "哦，炸薯块！这次可真大。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:87
 translate chinese sm1cs_mas004_914029da:
 
     # ms "Just so we're clear, that \"partners\" thing was a suggestion."
-    ms "Just so we're clear, that \"partners\" thing was a suggestion."
+    ms "说清楚，那个\"搭档\"的说法只是建议。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:88
 translate chinese sm1cs_mas004_5846f178:
 
     # ms "I'm the real boss."
-    ms "I'm the real boss."
+    ms "我才是真正的老板。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:92
 translate chinese sm1cs_mas004_ab076f49:
 
     # mc "Wouldn't dream of questioning it, your highness of the holy bratwurst."
-    mc "Wouldn't dream of questioning it, your highness of the holy bratwurst."
+    mc "我做梦都不敢质疑，神圣香肠的殿下。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:96
 translate chinese sm1cs_mas004_563e9ad4:
 
     # ms "Heh."
-    ms "Heh."
+    ms "呵。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:129
 translate chinese sm1cs_mas004_after_lunch_be6fc98d:
 
     # ms "Yeah?"
-    ms "Yeah?"
+    ms "怎么？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:136
 translate chinese sm1cs_mas004_after_lunch_d835f30b:
 
     # mc "Welcome to Wurst Delivery!"
-    mc "Welcome to Wurst Delivery!"
+    mc "欢迎光临香肠快递！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:137
 translate chinese sm1cs_mas004_after_lunch_30722811:
 
     # mc "My partner here is a woman of few words but great sausage-slinging talent. What can we get for you?"
-    mc "My partner here is a woman of few words but great sausage-slinging talent. What can we get for you?"
+    mc "我的搭档虽然话不多，但制作香肠的技术一流。需要点什么？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:141
 translate chinese sm1cs_mas004_after_lunch_932a8170:
 
     # ms "Tch."
-    ms "Tch."
+    ms "切。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:154
 translate chinese sm1cs_mas004_after_lunch_a2bce1b1:
 
     # mc "You know, a smile wouldn't kill you. It's scientifically proven."
-    mc "You know, a smile wouldn't kill you. It's scientifically proven."
+    mc "你知道的，笑一笑又不会要你的命。这是科学证明的。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:157
 translate chinese sm1cs_mas004_after_lunch_52dac122:
 
     # ms "So is arsenic. Doesn't mean I'm gonna try it."
-    ms "So is arsenic. Doesn't mean I'm gonna try it."
+    ms "砒霜也是。但这不意味着我要试试看。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:158
 translate chinese sm1cs_mas004_after_lunch_ba2ad024:
 
     # ms "*slightly softer* Besides, they're here for the food, not me."
-    ms "*slightly softer* Besides, they're here for the food, not me."
+    ms "*语气稍微柔和* 而且，他们来这里是为了食物，不是为了我。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:164
 translate chinese sm1cs_mas004_after_lunch_9279a6f8:
 
     # mc "Is something bothering you, Maya?"
-    mc "Is something bothering you, Maya?"
+    mc "有什么烦心事吗，玛雅？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:168
 translate chinese sm1cs_mas004_after_lunch_06f45869:
 
     # ms "Just counting down the minutes, [mcname]."
-    ms "Just counting down the minutes, [mcname]."
+    ms "只是在数着时间过，[mcname]。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:173
 translate chinese sm1cs_mas004_after_lunch_1f0b00ea:
 
     # ms "Another day, another dozen brats slathered in mustard."
-    ms "Another day, another dozen brats slathered in mustard."
+    ms "又是一天，又是几十根涂满芥末的香肠。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:174
 translate chinese sm1cs_mas004_after_lunch_f76e074a:
 
     # ms "Living the dream."
-    ms "Living the dream."
+    ms "活在梦想中。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:177
 translate chinese sm1cs_mas004_after_lunch_143a8e6c:
 
     # mc "Could be worse. We could be stuck at the fish stand down the street."
-    mc "Could be worse. We could be stuck at the fish stand down the street."
+    mc "还能更糟。我们可能会被困在街那头的鱼摊上。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:181
 translate chinese sm1cs_mas004_after_lunch_e65d69e0:
 
     # ms "Hah, I think I saw a seagull faint as it was flying over it."
-    ms "Hah, I think I saw a seagull faint as it was flying over it."
+    ms "哈，我觉得我看到一只海鸥飞过那里时晕倒了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:191
 translate chinese sm1cs_mas004_after_lunch_6e3ebd78:
 
     # ms "...What would I do without your relentless, painfully optimistic commentary?"
-    ms "...What would I do without your relentless, painfully optimistic commentary?"
+    ms "...没有你这种不懈的、痛苦的乐观评论，我该怎么办？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:194
 translate chinese sm1cs_mas004_after_lunch_72369fb4:
 
     # mc "I imagine you might pick on customers more."
-    mc "I imagine you might pick on customers more."
+    mc "我想你可能会更多地挑剔顾客。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:198
 translate chinese sm1cs_mas004_after_lunch_db2010ae:
 
     # mc "And don't think I didn't see that smile."
-    mc "And don't think I didn't see that smile."
+    mc "别以为我没看到那个笑容。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:202
 translate chinese sm1cs_mas004_after_lunch_842355c4:
 
     # ms "You saw nothing."
-    ms "You saw nothing."
+    ms "你什么都没看到。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:208
 translate chinese sm1cs_mas004_after_lunch_5f71acf7:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*咕哝*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:212
 translate chinese sm1cs_mas004_after_lunch_8d10919c:
 
     # "*spurts*"
-    "*spurts*"
+    "*喷溅*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:216
 translate chinese sm1cs_mas004_after_lunch_0e9e8511:
 
     # mc "Oops. Sorry about that."
-    mc "Oops. Sorry about that."
+    mc "哎呀。不好意思。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:220
 translate chinese sm1cs_mas004_after_lunch_2a34735b:
 
     # ms "Uh huh. A real \"oops\"."
-    ms "Uh huh. A real \"oops\"."
+    ms "嗯哼。真是\"不好意思\"。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:224
 translate chinese sm1cs_mas004_after_lunch_d4dda4de:
 
     # mc "It was! My hand slipped."
-    mc "It was! My hand slipped."
+    mc "真的！我手滑了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:227
 translate chinese sm1cs_mas004_after_lunch_40b39c31:
 
     # ms "It is so on, [mcname]."
-    ms "It is so on, [mcname]."
+    ms "这下可来劲了，[mcname]。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:231
 translate chinese sm1cs_mas004_after_lunch_8a517569:
 
     # mc "Nope. Nothing is on."
-    mc "Nope. Nothing is on."
+    mc "不。什么都没来劲。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:232
 translate chinese sm1cs_mas004_after_lunch_b9aecd56:
 
     # mc "We're supposed to be working."
-    mc "We're supposed to be working."
+    mc "我们应该在工作。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:238
 translate chinese sm1cs_mas004_after_lunch_42294344:
 
     # ms "You should have thought of that before you tried to hit me with a first strike."
-    ms "You should have thought of that before you tried to hit me with a first strike."
+    ms "你先发制人之前就该想到这一点。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:242
 translate chinese sm1cs_mas004_after_lunch_4df15aae:
 
     # mc "Maya..."
-    mc "Maya..."
+    mc "玛雅..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:244
 translate chinese sm1cs_mas004_after_lunch_3c182b6c:
 
     # mc "Don't even think about it."
-    mc "Don't even think about it."
+    mc "连想都别想。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:247
 translate chinese sm1cs_mas004_after_lunch_162ddefb:
 
     # ms "Wouldn't dream of it."
-    ms "Wouldn't dream of it."
+    ms "做梦都不会。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:258
 translate chinese sm1cs_mas004_after_lunch_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "嘿！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:262
 translate chinese sm1cs_mas004_after_lunch_b2c63451:
 
     # ms "*deadpan* What? It slipped."
-    ms "*deadpan* What? It slipped."
+    ms "*面无表情* 什么？手滑了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:266
 translate chinese sm1cs_mas004_after_lunch_de4814b7:
 
     # mct "Liar. That was a sniper shot."
-    mct "Liar. That was a sniper shot."
+    mct "骗人。那明明是狙击手级别的精准射击。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:272
 translate chinese sm1cs_mas004_after_lunch_970b2083:
 
     # ms "Easy now."
-    ms "Easy now."
+    ms "冷静点。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:274
 translate chinese sm1cs_mas004_after_lunch_ddda1dcc:
 
     # ms "I'm armed."
-    ms "I'm armed."
+    ms "我有武器。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:282
 translate chinese sm1cs_mas004_after_lunch_138ed15f:
 
     # ms "Oh, you are so dead."
-    ms "Oh, you are so dead."
+    ms "哦，你死定了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:286
 translate chinese sm1cs_mas004_after_lunch_2f42a247:
 
     # mc "This could only end in mustard-shed."
-    mc "This could only end in mustard-shed."
+    mc "这只能以芥末洒遍告终。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:289
 translate chinese sm1cs_mas004_after_lunch_4b630a64:
 
     # ms "Haha."
-    ms "Haha."
+    ms "哈哈。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:291
 translate chinese sm1cs_mas004_after_lunch_6f202f38:
 
     # ms "You may have started the war, {w} but I will finish it."
-    ms "You may have started the war, {w} but I will finish it."
+    ms "你也许发起了战争，{w}但我会结束它。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:298
 translate chinese sm1cs_mas004_after_lunch_74f5cdd2:
 
     # "Rocco" "Oh lord tell me you two are not about to mess up my kitchen!"
-    "Rocco" "Oh lord tell me you two are not about to mess up my kitchen!"
+    "Rocco" "天哪，告诉我你们俩不会把我的厨房搞得一团糟吧！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:299
 translate chinese sm1cs_mas004_after_lunch_761e5ca5:
 
     # "Rocco" "You lucky you're not my kids or I'd have my foot halfway up your ass!"
-    "Rocco" "You lucky you're not my kids or I'd have my foot halfway up your ass!"
+    "Rocco" "幸好你们不是我的孩子，不然我早就踢爆你们的屁股了！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:304
 translate chinese sm1cs_mas004_after_lunch_bc60a6bf:
 
     # "Rocco" "Now put those back! You already done wasted a brat!"
-    "Rocco" "Now put those back! You already done wasted a brat!"
+    "Rocco" "现在把那些放回去！你们已经浪费了一根香肠了！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:306
 translate chinese sm1cs_mas004_after_lunch_8f0868f2:
 
     # ms "Sorry, Rocco."
-    ms "Sorry, Rocco."
+    ms "对不起，罗科。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:309
 translate chinese sm1cs_mas004_after_lunch_a7d0f78a:
 
     # mc "Just having a little fun."
-    mc "Just having a little fun."
+    mc "只是开个小玩笑。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:311
 translate chinese sm1cs_mas004_after_lunch_29684802:
 
     # "Rocco" "Little fun. Kids these days..."
-    "Rocco" "Little fun. Kids these days..."
+    "Rocco" "小玩笑。现在的年轻人..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:319
 translate chinese sm1cs_mas004_after_lunch_3de00da9:
 
     # ms "We should clean up."
-    ms "We should clean up."
+    ms "我们应该打扫一下。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:322
 translate chinese sm1cs_mas004_after_lunch_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "嗯。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:326
 translate chinese sm1cs_mas004_after_lunch_3393d13d:
 
     # ms "And by \"we\" I meant \"you.\""
-    ms "And by \"we\" I meant \"you.\""
+    ms "而且\"我们\"指的是\"你\"。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:327
 translate chinese sm1cs_mas004_after_lunch_c92c8b6e:
 
     # ms "I have to wash my arm."
-    ms "I have to wash my arm."
+    ms "我得去洗手臂。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:331
 translate chinese sm1cs_mas004_after_lunch_d5ae2301:
 
     # mc "Fair enough."
-    mc "Fair enough."
+    mc "也对。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:340
 translate chinese sm1cs_mas004_after_lunch_4d2e856c:
 
     # ms "We're twenty cents over. Must be my lucky day."
-    ms "We're twenty cents over. Must be my lucky day."
+    ms "我们多收了二十美分。今天一定是我的幸运日。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:343
 translate chinese sm1cs_mas004_after_lunch_6cb96da0:
 
     # mc "Twenty whole cents? *whistles* Don't spend it all in one place."
-    mc "Twenty whole cents? *whistles* Don't spend it all in one place."
+    mc "整整二十美分？*吹口哨*别一次花光了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:345
 translate chinese sm1cs_mas004_after_lunch_21e7cd51:
 
     # ms "Already planning my retirement."
-    ms "Already planning my retirement."
+    ms "已经在计划我的退休生活了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:353
 translate chinese sm1cs_mas004_after_lunch_3b77945e:
 
     # mc "Night, Rocco."
-    mc "Night, Rocco."
+    mc "晚安，罗科。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:355
 translate chinese sm1cs_mas004_after_lunch_1621c3d8:
 
     # "Rocco" "Hmmm."
-    "Rocco" "Hmmm."
+    "Rocco" "嗯。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:359
 translate chinese sm1cs_mas004_after_lunch_0eeedb0e:
 
     # ms "Alright, delivery boy. I'm thirsty."
-    ms "Alright, delivery boy. I'm thirsty."
+    ms "好了，送货小子。我渴了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:360
 translate chinese sm1cs_mas004_after_lunch_3196ee6d:
 
     # ms "Join me for a beer?"
-    ms "Join me for a beer?"
+    ms "陪我喝一杯？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:364
 translate chinese sm1cs_mas004_after_lunch_1576134e:
 
     # mc "I could go for a beer."
-    mc "I could go for a beer."
+    mc "我倒是可以喝一杯。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:368
 translate chinese sm1cs_mas004_after_lunch_d71eec0b:
 
     # mc "Guns and Rosettes is that way."
-    mc "Guns and Rosettes is that way."
+    mc "枪与玫瑰酒吧在那边。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:372
 translate chinese sm1cs_mas004_after_lunch_3b90ba7e:
 
     # ms "Who said bars are the only place with beer?"
-    ms "Who said bars are the only place with beer?"
+    ms "谁说只有酒吧才有啤酒？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:376
 translate chinese sm1cs_mas004_after_lunch_4ba1430d:
 
     # mc "Uh... I mean I think they're one of the few legal places to buy beer."
-    mc "Uh... I mean I think they're one of the few legal places to buy beer."
+    mc "呃...我是说我觉得那是为数不多可以合法买啤酒的地方。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:380
 translate chinese sm1cs_mas004_after_lunch_d8e82dd1:
 
     # ms "Come on. I've had enough of other people today."
-    ms "Come on. I've had enough of other people today."
+    ms "来吧。我今天已经受够其他人了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:382
 translate chinese sm1cs_mas004_after_lunch_a97bb025:
 
     # ms "Follow me. I know a good place. Quiet."
-    ms "Follow me. I know a good place. Quiet."
+    ms "跟我来。我知道个好地方。安静。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:383
 translate chinese sm1cs_mas004_after_lunch_24acc638:
 
     # ms "Very... exclusive."
-    ms "Very... exclusive."
+    ms "非常...私密。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:387
 translate chinese sm1cs_mas004_after_lunch_188c0140:
 
     # mc "Ooooh. Is it one of those popup bars?"
-    mc "Ooooh. Is it one of those popup bars?"
+    mc "哦哦哦。是那种快闪酒吧吗？"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:388
 translate chinese sm1cs_mas004_after_lunch_68ebb462:
 
     # mc "I heard that one time a guy almost went blind because they had Albanian Moonshine."
-    mc "I heard that one time a guy almost went blind because they had Albanian Moonshine."
+    mc "我听说有一次有个人差点失明，因为他们有阿尔巴尼亚私酿。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:391
 translate chinese sm1cs_mas004_after_lunch_1b7e1125:
 
     # ms "Just trust me. You'll enjoy the beer at this place."
-    ms "Just trust me. You'll enjoy the beer at this place."
+    ms "相信我。你会喜欢这个地方的啤酒。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:395
 translate chinese sm1cs_mas004_after_lunch_4be5d5c7:
 
     # ms "Welcome to the palace."
-    ms "Welcome to the palace."
+    ms "欢迎来到宫殿。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:399
 translate chinese sm1cs_mas004_after_lunch_d8bbc90a:
 
     # ms "A home, fit for a queen."
-    ms "A home, fit for a queen."
+    ms "一个配得上女王的家。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:403
 translate chinese sm1cs_mas004_after_lunch_5589eb0c:
 
     # ms "It has great history. That \"out of service\" sign on the elevator for instance. It's been there for three years."
-    ms "It has great history. That \"out of service\" sign on the elevator for instance. It's been there for three years."
+    ms "它有着伟大的历史。比如电梯上的\"停止服务\"标志。已经挂了三年了。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:407
 translate chinese sm1cs_mas004_after_lunch_954ad033:
 
     # mc "Adds to the charm. Builds character. And leg muscles."
-    mc "Adds to the charm. Builds character. And leg muscles."
+    mc "增添了魅力。塑造性格。还有腿部肌肉。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:410
 translate chinese sm1cs_mas004_after_lunch_7d520140:
 
     # ms "*shrugs* It's a roof and it's cheap. That's all the character I need."
-    ms "*shrugs* It's a roof and it's cheap. That's all the character I need."
+    ms "*耸肩*有屋顶而且便宜。这就是我需要的全部特色。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:414
 translate chinese sm1cs_mas004_after_lunch_80aa877c:
 
     # ms "Home sweet organized chaos. Excuse the mess, my cleaner doesn't come till next week."
-    ms "Home sweet organized chaos. Excuse the mess, my cleaner doesn't come till next week."
+    ms "甜蜜的有组织的混乱之家。抱歉这么乱，我的清洁工要到下周才来。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:421
 translate chinese sm1cs_mas004_after_lunch_fe68dc6f:
 
     # mc "For a second there, I almost asked for your cleaner's number."
-    mc "For a second there, I almost asked for your cleaner's number."
+    mc "那一刻，我差点要你清洁工的号码。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:425
 translate chinese sm1cs_mas004_after_lunch_15aa31c2:
