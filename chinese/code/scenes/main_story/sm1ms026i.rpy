@@ -104,3 +104,9 @@ translate chinese strings:
     old "Choose Pirates movie (progress Taisia's story first)"
     new "选海盗题材电影 (先推进泰西娅的剧情线)"
 
+translate chinese strings:
+
+    # game/code/scenes/main_story/sm1ms026i.rpy:125
+    old "Choose Sci-Fi Movie ([message!t])"
+    new "Choose Sci-Fi Movie ([message!t])"
+

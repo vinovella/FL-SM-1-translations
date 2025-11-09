@@ -24,3 +24,13 @@ translate spanish strings:
     old "You just improved in topic"
     new "Acabas de mejorar en el tema"
 
+translate spanish strings:
+
+    # game/code/classes/player.rpy:104
+    old "You just got $[amount]"
+    new "You just got $[amount]"
+
+    # game/code/classes/player.rpy:115
+    old "You spent $[amount]"
+    new "You spent $[amount]"
+

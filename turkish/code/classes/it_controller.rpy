@@ -8,3 +8,9 @@
     old "Orbix Salary ({} days)"
     new "Orbix Maaş ({} gün)"
 
+translate turkish strings:
+
+    # game/code/classes/it_controller.rpy:43
+    old "Orbix Salary ([days] days)"
+    new "Orbix Salary ([days] days)"
+

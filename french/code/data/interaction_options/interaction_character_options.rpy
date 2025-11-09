@@ -484,3 +484,17 @@ translate french strings:
     old "Done editing the Sci-Fi Movie"
     new "Done editing the Sci-Fi Movie"
 
+translate french strings:
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Purchase Photography-101 for $60"
+    new "Purchase Photography-101 for $60"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Purchase Stars Weekly for $30"
+    new "Purchase Stars Weekly for $30"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Purchase An Actor Prepares for $60"
+    new "Purchase An Actor Prepares for $60"
+

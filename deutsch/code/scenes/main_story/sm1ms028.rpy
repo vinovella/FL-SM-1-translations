@@ -1002,3 +1002,9 @@ translate deutsch strings:
     old "We're going to be rich!"
     new "We're going to be rich!"
 
+# game/code/scenes/main_story/sm1ms028.rpy:114
+translate deutsch sm1ms028_dress_change_d5624f26:
+
+    # mc "Never mind, we dont have time to change."
+    mc "Never mind, we dont have time to change."
+

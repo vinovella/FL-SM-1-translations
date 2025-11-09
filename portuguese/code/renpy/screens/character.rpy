@@ -20,3 +20,9 @@ translate portuguese strings:
     old "Progress "
     new "Progresso "
 
+translate portuguese strings:
+
+    # game/code/renpy/screens/character.rpy:59
+    old "Progress [storyline_progress_percent]%"
+    new "Progress [storyline_progress_percent]%"
+

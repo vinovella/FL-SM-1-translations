@@ -28,3 +28,13 @@
     old "Get IT minigame help"
     new "获取IT小游戏帮助"
 
+translate chinese strings:
+
+    # game/code/renpy/screens/faction_it.rpy:41
+    old "[it_days_worked] Days"
+    new "[it_days_worked] Days"
+
+    # game/code/renpy/screens/faction_it.rpy:54
+    old "Progress [it_progress_percent]%"
+    new "Progress [it_progress_percent]%"
+

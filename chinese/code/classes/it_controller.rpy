@@ -8,3 +8,9 @@
     old "Orbix Salary ({} days)"
     new "Orbix工资（{}天）"
 
+translate chinese strings:
+
+    # game/code/classes/it_controller.rpy:43
+    old "Orbix Salary ([days] days)"
+    new "Orbix Salary ([days] days)"
+

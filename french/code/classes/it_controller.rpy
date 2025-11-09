@@ -9,3 +9,9 @@
     new "Salaire Orbix ({} jours)"
 
 #Translate by BlackViper_
+translate french strings:
+
+    # game/code/classes/it_controller.rpy:43
+    old "Orbix Salary ([days] days)"
+    new "Orbix Salary ([days] days)"
+

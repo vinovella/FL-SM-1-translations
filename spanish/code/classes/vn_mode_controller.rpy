@@ -14,3 +14,9 @@ translate spanish strings:
     old "Progress required storylines"
     new "Progresar en las historias requeridas"
 
+translate spanish strings:
+
+    # game/code/classes/vn_mode_controller.rpy:190
+    old "Progress [storyline_name!t]"
+    new "Progress [storyline_name!t]"
+

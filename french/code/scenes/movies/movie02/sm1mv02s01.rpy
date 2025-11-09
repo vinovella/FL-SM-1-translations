@@ -562,3 +562,13 @@ translate french strings:
     old "Recruit Lyssa"
     new "Recruit Lyssa"
 
+translate french strings:
+
+    # game/code/scenes/movies/movie02/sm1mv02s01.rpy:4
+    old "Yes, include watersports content"
+    new "Yes, include watersports content"
+
+    # game/code/scenes/movies/movie02/sm1mv02s01.rpy:4
+    old "No, do not include watersports content"
+    new "No, do not include watersports content"
+

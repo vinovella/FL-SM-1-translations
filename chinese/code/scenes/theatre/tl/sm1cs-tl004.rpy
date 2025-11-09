@@ -928,3 +928,9 @@ translate chinese strings:
     old "You lost ${} to Taisia in a pool game."
     new "你在台球赌局中输给泰西娅${}"
 
+translate chinese strings:
+
+    # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
+    old "You lost $[amount] to Taisia in a pool game."
+    new "You lost $[amount] to Taisia in a pool game."
+

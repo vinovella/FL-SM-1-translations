@@ -16,3 +16,13 @@
     old "No saves found!"
     new "No saves found!"
 
+translate deutsch strings:
+
+    # game/code/renpy/screens/save.rpy:51
+    old "Saves For Chapter [chapter]"
+    new "Saves For Chapter [chapter]"
+
+    # game/code/renpy/screens/save.rpy:51
+    old "Saves From Chapter [chapter]"
+    new "Saves From Chapter [chapter]"
+

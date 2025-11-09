@@ -12,3 +12,9 @@
     old "You don't have enough money."
     new "Yeterince paran yok."
 
+translate turkish strings:
+
+    # game/code/classes/player_controller.rpy:26
+    old "You bought [name!t] for $[cost]"
+    new "You bought [name!t] for $[cost]"
+

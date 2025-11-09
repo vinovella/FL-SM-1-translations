@@ -928,3 +928,9 @@ translate italian strings:
     old "You lost ${} to Taisia in a pool game."
     new "Hai perso ${} a favore di Taisia in una partita a biliardo."
 
+translate italian strings:
+
+    # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
+    old "You lost $[amount] to Taisia in a pool game."
+    new "You lost $[amount] to Taisia in a pool game."
+

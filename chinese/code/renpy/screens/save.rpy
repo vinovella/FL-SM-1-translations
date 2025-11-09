@@ -22,3 +22,13 @@ translate chinese strings:
     old "Save for S&M Studio Chapter 2"
     new "Save for S&M Studio Chapter 2"
 
+translate chinese strings:
+
+    # game/code/renpy/screens/save.rpy:51
+    old "Saves For Chapter [chapter]"
+    new "Saves For Chapter [chapter]"
+
+    # game/code/renpy/screens/save.rpy:51
+    old "Saves From Chapter [chapter]"
+    new "Saves From Chapter [chapter]"
+

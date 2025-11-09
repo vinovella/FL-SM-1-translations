@@ -30,3 +30,13 @@
 
 #Translate by BlackViper_
 
+translate french strings:
+
+    # game/code/renpy/screens/faction_it.rpy:41
+    old "[it_days_worked] Days"
+    new "[it_days_worked] Days"
+
+    # game/code/renpy/screens/faction_it.rpy:54
+    old "Progress [it_progress_percent]%"
+    new "Progress [it_progress_percent]%"
+

@@ -8,3 +8,9 @@ translate spanish strings:
     old "You earned ${} for working at the Theater"
     new "Ganaste ${} por trabajar en el Teatro"
 
+translate spanish strings:
+
+    # game/code/classes/th_controller.rpy:74
+    old "You earned $[amount] for working at the Theater"
+    new "You earned $[amount] for working at the Theater"
+

@@ -24,3 +24,13 @@
     old "You just improved in topic"
     new "Du hast dich gerade in diesem Thema verbessert."
 
+translate deutsch strings:
+
+    # game/code/classes/player.rpy:104
+    old "You just got $[amount]"
+    new "You just got $[amount]"
+
+    # game/code/classes/player.rpy:115
+    old "You spent $[amount]"
+    new "You spent $[amount]"
+

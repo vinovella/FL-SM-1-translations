@@ -16,3 +16,9 @@ translate spanish strings:
     old "You finished the show successfully!"
     new "¡Has terminado el espectáculo con éxito!"
 
+translate spanish strings:
+
+    # game/code/minigames/simon_says/simon_says_game.rpy:93
+    old "You made [SimonSays.check_input()] mistakes in the show"
+    new "You made [SimonSays.check_input()] mistakes in the show"
+

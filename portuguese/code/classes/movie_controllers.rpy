@@ -100,3 +100,17 @@ translate portuguese strings:
     old "Spend {amount} Energy in {energy_name}"
     new "Spend {amount} Energy in {energy_name}"
 
+translate portuguese strings:
+
+    # game/code/classes/movie_controllers.rpy:40
+    old "[movie] release"
+    new "[movie] release"
+
+    # game/code/classes/movie_controllers.rpy:129
+    old "Add $[amount] to [budget_name!t]"
+    new "Add $[amount] to [budget_name!t]"
+
+    # game/code/classes/movie_controllers.rpy:150
+    old "Spend [amount] Energy in [energy_name!t]"
+    new "Spend [amount] Energy in [energy_name!t]"
+

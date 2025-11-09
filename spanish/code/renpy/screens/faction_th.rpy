@@ -26,3 +26,13 @@ translate spanish strings:
     old "Pay after show on "
     new "Pay after show on "
 
+translate spanish strings:
+
+    # game/code/renpy/screens/faction_th.rpy:60
+    old "Pay after show on [THController.final_show_day!t]:"
+    new "Pay after show on [THController.final_show_day!t]:"
+
+    # game/code/renpy/screens/faction_th.rpy:70
+    old "Progress [th_progress_percent]%"
+    new "Progress [th_progress_percent]%"
+

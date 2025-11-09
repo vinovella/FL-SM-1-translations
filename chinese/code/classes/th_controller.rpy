@@ -8,3 +8,9 @@
     old "You earned ${} for working at the Theater"
     new "您在剧院工作赚了${}"
 
+translate chinese strings:
+
+    # game/code/classes/th_controller.rpy:74
+    old "You earned $[amount] for working at the Theater"
+    new "You earned $[amount] for working at the Theater"
+

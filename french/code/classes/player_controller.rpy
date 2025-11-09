@@ -13,3 +13,9 @@
     new "Tu n'as pas assez d'argent."
 
 #Translate by BlackViper_
+translate french strings:
+
+    # game/code/classes/player_controller.rpy:26
+    old "You bought [name!t] for $[cost]"
+    new "You bought [name!t] for $[cost]"
+

@@ -1716,3 +1716,13 @@ translate spanish sm1cs_mas003_third_delivery_9ed10f06:
     # ms "Show's over, ladies."
     ms "Show's over, ladies."
 
+translate spanish strings:
+
+    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
+    old "Wurst Delivery tip"
+    new "Wurst Delivery tip"
+
+    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
+    old "You got a $[amount] as your cut of the tip."
+    new "You got a $[amount] as your cut of the tip."
+

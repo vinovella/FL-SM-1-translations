@@ -98,3 +98,9 @@ translate italian strings:
     old "Choose Sci-Fi Movie"
     new "Scegli film di Fantascienza"
 
+translate italian strings:
+
+    # game/code/scenes/main_story/sm1ms026i.rpy:125
+    old "Choose Sci-Fi Movie ([message!t])"
+    new "Choose Sci-Fi Movie ([message!t])"
+

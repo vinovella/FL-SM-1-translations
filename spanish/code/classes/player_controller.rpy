@@ -12,3 +12,9 @@ translate spanish strings:
     old "You don't have enough money."
     new "No tienes suficiente dinero."
 
+translate spanish strings:
+
+    # game/code/classes/player_controller.rpy:26
+    old "You bought [name!t] for $[cost]"
+    new "You bought [name!t] for $[cost]"
+

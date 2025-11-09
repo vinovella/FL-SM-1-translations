@@ -1716,3 +1716,13 @@ translate chinese sm1cs_mas003_third_delivery_7eec6586:
     # ms "Never mind."
     ms "算了。"
 
+translate chinese strings:
+
+    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
+    old "Wurst Delivery tip"
+    new "Wurst Delivery tip"
+
+    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
+    old "You got a $[amount] as your cut of the tip."
+    new "You got a $[amount] as your cut of the tip."
+
