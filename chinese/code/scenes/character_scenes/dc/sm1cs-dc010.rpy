@@ -1010,49 +1010,49 @@ translate chinese sm1cs_dc010_later_95c7633a:
 translate chinese sm1cs_dc010_later_6122a4b5:
 
     # dc "Oh, yeah, I'm... uh huh."
-    dc "Oh, yeah, I'm... uh huh."
+    dc "哦，是的，我...嗯哼。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:390
 translate chinese sm1cs_dc010_later_ed6fb824:
 
     # dc "Little warm."
-    dc "Little warm."
+    dc "有点热。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:392
 translate chinese sm1cs_dc010_later_99f73c57:
 
     # mc "Is that all?"
-    mc "Is that all?"
+    mc "就这样？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:394
 translate chinese sm1cs_dc010_later_4c590f8e:
 
     # dc "I..."
-    dc "I..."
+    dc "我..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:396
 translate chinese sm1cs_dc010_later_01b44a98:
 
     # dc "I think..."
-    dc "I think..."
+    dc "我想..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:397
 translate chinese sm1cs_dc010_later_7d0603d3:
 
     # dc "I want to do more than touch."
-    dc "I want to do more than touch."
+    dc "我想做的不只是触摸。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:398
 translate chinese sm1cs_dc010_later_2e403621:
 
     # mct "Oh damn."
-    mct "Oh damn."
+    mct "哦该死。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:401
 translate chinese sm1cs_dc010_later_273fa2d0:
 
     # mc "Woah."
-    mc "Woah."
+    mc "哇。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:414
 translate chinese sm1cs_dc010_later_757c5cb4:
@@ -1064,181 +1064,181 @@ translate chinese sm1cs_dc010_later_757c5cb4:
 translate chinese sm1cs_dc010_later_88ffc5bc:
 
     # mc "Debbie..."
-    mc "Debbie..."
+    mc "黛比..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:418
 translate chinese sm1cs_dc010_later_c9019194:
 
     # dc "I... I..."
-    dc "I... I..."
+    dc "我...我..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:419
 translate chinese sm1cs_dc010_later_de7f9e6c:
 
     # dc "I want to..."
-    dc "I want to..."
+    dc "我想..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:422
 translate chinese sm1cs_dc010_later_3dc1e7f6:
 
     # mc "What is it, Debbie?"
-    mc "What is it, Debbie?"
+    mc "怎么了，黛比？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:424
 translate chinese sm1cs_dc010_later_b28e8ae2:
 
     # dc "I- I can't- uhm..."
-    dc "I- I can't- uhm..."
+    dc "我--我不能--嗯..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:426
 translate chinese sm1cs_dc010_later_dd76c387:
 
     # mc "You can tell me anything."
-    mc "You can tell me anything."
+    mc "你可以告诉我任何事。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:429
 translate chinese sm1cs_dc010_later_bde8e4a1:
 
     # dc "I want to suck your cock, [mcname]."
-    dc "I want to suck your cock, [mcname]."
+    dc "我想吸你的鸡巴，[mcname]。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:431
 translate chinese sm1cs_dc010_later_8e579f9f:
 
     # mct "Not what I expected."
-    mct "Not what I expected."
+    mct "没想到会是这样。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:433
 translate chinese sm1cs_dc010_later_6ac7f4b9:
 
     # mc "Well, you won't see me resisting , Officer."
-    mc "Well, you won't see me resisting , Officer."
+    mc "好吧，你不会看到我反抗的，警官。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:437
 translate chinese sm1cs_dc010_later_afe087ac:
 
     # dc "*slow sniffing*"
-    dc "*slow sniffing*"
+    dc "*缓慢嗅闻*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:444
 translate chinese sm1cs_dc010_later_dfa59203:
 
     # dc "Wow..."
-    dc "Wow..."
+    dc "哇..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:446
 translate chinese sm1cs_dc010_later_e867c4b1:
 
     # mc "What? Is something wrong down there?"
-    mc "What? Is something wrong down there?"
+    mc "什么？那里有什么问题吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:447
 translate chinese sm1cs_dc010_later_ecfacd53:
 
     # dc "No... I just..."
-    dc "No... I just..."
+    dc "没有...我只是..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
 translate chinese sm1cs_dc010_later_8a1da730:
 
     # dc "I have been looking forward to this for awhile.{w} I'm very excited."
-    dc "I have been looking forward to this for awhile.{w} I'm very excited."
+    dc "我期待这个很久了。{w}我很兴奋。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:451
 translate chinese sm1cs_dc010_later_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "我也是。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:456
 translate chinese sm1cs_dc010_later_1e2e10d7:
 
     # mc "Oh shit, Debbie!"
-    mc "Oh shit, Debbie!"
+    mc "哦该死，黛比！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:457
 translate chinese sm1cs_dc010_later_40d2efff:
 
     # dc "Glllk, gllllllck!"
-    dc "Glllk, gllllllck!"
+    dc "咕噜咕噜噜！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:458
 translate chinese sm1cs_dc010_later_36ffc305:
 
     # mc "Wow! Nggggh!"
-    mc "Wow! Nggggh!"
+    mc "哇！嗯嗯嗯！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:460
 translate chinese sm1cs_dc010_later_2921482f:
 
     # dc "Slllrrrpppp! Gllck, gllck, gllllllck!"
-    dc "Slllrrrpppp! Gllck, gllck, gllllllck!"
+    dc "呼噜噜！咕噜咕噜咕噜噜！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:461
 translate chinese sm1cs_dc010_later_c624b89e:
 
     # mc "Nggghhh - this is - wow!"
-    mc "Nggghhh - this is - wow!"
+    mc "嗯嗯嗯--这是--哇！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:462
 translate chinese sm1cs_dc010_later_c90a37d3:
 
     # mc "Debbie - ngggghhhh - holy shit!"
-    mc "Debbie - ngggghhhh - holy shit!"
+    mc "黛比--嗯嗯嗯--我的天！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:464
 translate chinese sm1cs_dc010_later_5beb376f:
 
     # mc "This is amazing! Fuuuuuhhhhh - nggggh!"
-    mc "This is amazing! Fuuuuuhhhhh - nggggh!"
+    mc "太棒了！呼呼呼--嗯嗯嗯！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:465
 translate chinese sm1cs_dc010_later_19bc8243:
 
     # dc "Ouuachhh, ouuuaccchhhh, slrrrp!"
-    dc "Ouuachhh, ouuuaccchhhh, slrrrp!"
+    dc "呜哇呜哇呼噜噜！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:466
 translate chinese sm1cs_dc010_later_71a32b9c:
 
     # mc "Oh my Gooood! Ngghhhh, fuuuuhhhccckkk."
-    mc "Oh my Gooood! Ngghhhh, fuuuuhhhccckkk."
+    mc "哦我的天！嗯嗯嗯，操操操。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:468
 translate chinese sm1cs_dc010_later_1bf8a6d3:
 
     # mc "Mmppphhhhhh-"
-    mc "Mmppphhhhhh-"
+    mc "嗯嗯嗯--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:469
 translate chinese sm1cs_dc010_later_044e8092:
 
     # mc "Oh, this is amazing - ngggh!"
-    mc "Oh, this is amazing - ngggh!"
+    mc "哦，太棒了--嗯嗯嗯！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:470
 translate chinese sm1cs_dc010_later_a78d9a58:
 
     # mc "This is - oh, Debbie. Fuuuckkk! Deebbbbiiiieeeee!"
-    mc "This is - oh, Debbie. Fuuuckkk! Deebbbbiiiieeeee!"
+    mc "这是--哦，黛比。操！黛比！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:472
 translate chinese sm1cs_dc010_later_1ee704af:
 
     # mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
-    mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
+    mc "哦，那个--嗯嗯嗯--无论你用舌头在做什么--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
 translate chinese sm1cs_dc010_later_c7ffa945:
 
     # dc "Sllrrrpppppp! Sleep, sllrrpp, sllrrrppp!"
-    dc "Sllrrrpppppp! Sleep, sllrrpp, sllrrrppp!"
+    dc "呼噜噜！呼噜呼噜呼噜噜！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:474
 translate chinese sm1cs_dc010_later_eec3224d:
 
     # mc "Oh shiiiiittttt..."
-    mc "Oh shiiiiittttt..."
+    mc "哦该死..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:476
 translate chinese sm1cs_dc010_later_32b2131f:
