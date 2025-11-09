@@ -2719,61 +2719,61 @@ translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:19
     old "She looks jaw-droppingly gorgeous"
-    new "She looks jaw-droppingly gorgeous"
+    new "她看起来令人瞠目结舌般美丽"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:19
     old "She's been replaced by a pod person"
-    new "She's been replaced by a pod person"
+    new "她被豆荚人替换了"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:60
     old "I'm sorry"
-    new "I'm sorry"
+    new "对不起"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:60
     old "Nice isn't your natural state"
-    new "Nice isn't your natural state"
+    new "友善不是你的常态"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:230
     old "Nothing wrong with that"
-    new "Nothing wrong with that"
+    new "没什么问题"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:230
     old "That is oddly specific"
-    new "That is oddly specific"
+    new "这异常具体"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:230
     old "Parents think they know best"
-    new "Parents think they know best"
+    new "父母认为他们最了解一切"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:332
     old "Like what?"
-    new "Like what?"
+    new "像什么？"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:332
     old "I can't help it"
-    new "I can't help it"
+    new "我忍不住"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:461
     old "Something like that?"
-    new "Something like that?"
+    new "差不多？"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:461
     old "You had a choice. I didn't"
-    new "You had a choice. I didn't"
+    new "你有选择。我没有"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:732
     old "Yes to 'pet play' with April"
-    new "Yes to 'pet play' with April"
+    new "与艾普尔的'宠物游戏'选是"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:732
     old "No to 'pet play' with April"
-    new "No to 'pet play' with April"
+    new "与艾普尔的'宠物游戏'选否"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:1348
     old "No label"
-    new "No label"
+    new "没有标签"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:1348
     old "You are my Sex Puppy"
-    new "You are my Sex Puppy"
+    new "你是我的性爱小狗"
 
