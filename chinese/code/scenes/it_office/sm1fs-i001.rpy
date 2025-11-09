@@ -449,10 +449,10 @@ translate chinese sm1fs_i001_got_hired_bae0747f:
     ag "她今天剩下的时间都在开会。不过..."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:336
-translate chinese sm1fs_i001_got_hired_e9780151:
+translate chinese sm1fs_i001_got_hired_718fe7f4:
 
-    # ag "If you come tomorrow, [gt.next_day!t] at 8:00 am you should be able to meet with her."
-    ag "如果你明天[gt.next_day!t]上午8:00来，应该可以见到她。"
+    # ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
+    ag "如果你明天[gt.next_day_name!t]上午8:00来，应该可以见到她。"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:339
 translate chinese sm1fs_i001_got_hired_c90d928c:

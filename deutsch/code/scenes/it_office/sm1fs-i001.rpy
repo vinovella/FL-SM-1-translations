@@ -621,8 +621,8 @@ translate deutsch sm1fs_i001_fd7e7967:
     mc "Ähm, hauptsächlich FPS-Spiele. Ab und zu spiele ich auch mal-"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:336
-translate deutsch sm1fs_i001_got_hired_e9780151:
+translate deutsch sm1fs_i001_got_hired_718fe7f4:
 
-    # ag "If you come tomorrow, [gt.next_day!t] at 8:00 am you should be able to meet with her."
-    ag "Wenn du morgen um 8:00 Uhr kommst, solltest du sie treffen können."
+    # ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
+    ag "Wenn du morgen [gt.next_day_name!t] um 8:00 Uhr kommst, solltest du sie treffen können."
 

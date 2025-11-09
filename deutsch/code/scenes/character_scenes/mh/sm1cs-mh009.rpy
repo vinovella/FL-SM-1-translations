@@ -628,23 +628,11 @@ translate deutsch sm1cs_mh009_fe0d01a3:
     # mh "Wonderful. I have always liked the name \"Allison\"."
     mh "Wunderbar. Der Name \"Allison\" hat mir schon immer gefallen."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:340
-translate deutsch sm1cs_mh009_63791159:
-
-    # mh "[mhname]...{w} I like it, great suggestion, [mcname]."
-    mh "[mhname]...{w} Das gefällt mir, toller Vorschlag, [mcname]."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:343
 translate deutsch sm1cs_mh009_cd349a72:
 
     # mh "The second rule is that I want you to treat this just like any other interview, okay?"
     mh "Die zweite Regel lautet, dass du dieses Interview wie jedes andere Interview behandeln sollst, okay?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:346
-translate deutsch sm1cs_mh009_bb012081:
-
-    # mc "Sure, Lys- I mean, [mhname]."
-    mc "Klar, Lys – ich meine, [mhname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:349
 translate deutsch sm1cs_mh009_53d5e56e:
@@ -747,12 +735,6 @@ translate deutsch sm1cs_mh009_263d30de:
 
     # mc "All right, now that we're recording... uhm, start with your name, and why you're here today."
     mc "Okay, jetzt, wo wir aufnehmen... Ähm, beginne bitte mit deinem Namen und warum du heute hier bist."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:387
-translate deutsch sm1cs_mh009_39403e83:
-
-    # mh "Well, my name is [mhname], and I'm here because a friend suggested that this might be a good way to make some extra money."
-    mh "Nun, mein Name ist [mhname], und ich bin hier, weil mir ein Freund gesagt hat, dass dies eine gute Möglichkeit sei, etwas Geld dazu zu verdienen."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:390
 translate deutsch sm1cs_mh009_92fa3237:
@@ -879,12 +861,6 @@ translate deutsch sm1cs_mh009_70be2168:
 
     # mh "Talking about it... gets me so excited. I just... mmmmmm!"
     mh "Wenn ich darüber rede... werde ich ganz aufgeregt. Ich bin einfach... mmmmmm!"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:444
-translate deutsch sm1cs_mh009_e07378e4:
-
-    # mc "Well, that makes two of us! That sounds super duper hot, [mhname]."
-    mc "Na, dann sind wir schon zu zweit! Das klingt superheiß, [mhname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:447
 translate deutsch sm1cs_mh009_eaff8908:
@@ -1126,12 +1102,6 @@ translate deutsch sm1cs_mh009_8d618674:
     # mh "I hope you're ready to get {i}blown{/i} away!"
     mh "Ich hoffe, du bist bereit, dich {i}umhauen{/i} zu lassen!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:602
-translate deutsch sm1cs_mh009_30dbc24f:
-
-    # mc "Oh shit, [mhname]!"
-    mc "Oh Scheiße, [mhname]!"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:603
 translate deutsch sm1cs_mh009_c4971346:
 
@@ -1180,12 +1150,6 @@ translate deutsch sm1cs_mh009_e4db6fa7:
     # mc "Mmmm, and I can tell by the way your throat is gobbling me up that you like being called a good girl."
     mc "Mmmm, und ich merke daran, wie dein Hals mich verschlingt, dass du es magst, wenn man dich ein braves Mädchen nennt."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:620
-translate deutsch sm1cs_mh009_01cb73dc:
-
-    # mc "Do you? Do you like being my good girl, [mhname]?"
-    mc "Magst du das? Magst du es, mein braves Mädchen zu sein, [mhname]?"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:621
 translate deutsch sm1cs_mh009_08646be6:
 
@@ -1197,12 +1161,6 @@ translate deutsch sm1cs_mh009_027e0d86:
 
     # mc "Well if you keep sucking my dick like that, you'll keep being a good girl."
     mc "Nun, wenn du weiter so an meinem Schwanz lutschst, wirst du weiterhin ein braves Mädchen sein."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:625
-translate deutsch sm1cs_mh009_87d6a70e:
-
-    # mc "Fuuuucking hell, this is great, [mhname]."
-    mc "Verdammt noch mal, das ist großartig, [mhname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:626
 translate deutsch sm1cs_mh009_495a7c51:
@@ -1335,12 +1293,6 @@ translate deutsch sm1cs_mh009_b5bb6fee:
 
     # mh "God, keep fucking me like that, [mcname]!"
     mh "Gott, fick mich weiter so, [mcname]!"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:689
-translate deutsch sm1cs_mh009_206ffabf:
-
-    # mc "Oh fuck yeah, [mhname]!"
-    mc "Oh ja, verdammt, [mhname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:690
 translate deutsch sm1cs_mh009_4d335fd5:
@@ -1492,12 +1444,6 @@ translate deutsch sm1cs_mh009_b5d17fda:
     # mh "Mmmmm - fuuuck yes, fuck me just like that!"
     mh "Mmmmm – ja, verdammt, fick mich genau so!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:742
-translate deutsch sm1cs_mh009_6cb63ebf:
-
-    # mc "Oh shit, [mhname]! Oh this is incredible!"
-    mc "Oh Scheiße, [mhname]! Oh, das ist unglaublich!"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:743
 translate deutsch sm1cs_mh009_7e7fb735:
 
@@ -1558,12 +1504,6 @@ translate deutsch sm1cs_mh009_fa7aeb1e:
     # mh "And - nppppph - you know what the best part is?"
     mh "Und – nppppph – weißt du, was das Beste daran ist?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:759
-translate deutsch sm1cs_mh009_379adf7c:
-
-    # mc "What, [mhname]?"
-    mc "Was, [mhname]?"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:760
 translate deutsch sm1cs_mh009_8834e9f6:
 
@@ -1600,12 +1540,6 @@ translate deutsch sm1cs_mh009_d4ca63f9:
     # mc "Oh fuuuuhhh-"
     mc "Oh fuuuuhhh-"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:768
-translate deutsch sm1cs_mh009_f0f44a77:
-
-    # mc "Ohh, L- love this, [mhname], I love this!"
-    mc "Ohh, ich l- liebe das, [mhname], ich liebe das!"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:769
 translate deutsch sm1cs_mh009_8da68d91:
 
@@ -1641,12 +1575,6 @@ translate deutsch sm1cs_mh009_57a3b0b9:
 
     # mh "Let me help!"
     mh "Lass mich helfen!"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:788
-translate deutsch sm1cs_mh009_c04f3a10:
-
-    # mc "Oh God, [mhname]..."
-    mc "Oh Gott, [mhname]..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:789
 translate deutsch sm1cs_mh009_808ac5cb:
@@ -1822,12 +1750,6 @@ translate deutsch sm1cs_mh009_e67d216c:
     # mh "Oh God, [mcname], oh God-!"
     mh "Oh Gott, [mcname], oh Gott-!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:866
-translate deutsch sm1cs_mh009_5576d3f7:
-
-    # mc "Are you going to cum, [mhname]?"
-    mc "Kommst du gleich, [mhname]?"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:867
 translate deutsch sm1cs_mh009_b77a9e17:
 
@@ -1960,23 +1882,11 @@ translate deutsch sm1cs_mh009_1_32d23f2a:
     # mh "[mcname]!"
     mh "[mcname]!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:942
-translate deutsch sm1cs_mh009_1_0e555272:
-
-    # mc "Shhh, [mhname]. It looks amazing, watching your fingers move like that."
-    mc "Pssst, [mhname]. Es sieht toll aus, wie sich deine Finger so bewegen."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:945
 translate deutsch sm1cs_mh009_1_9dbc4ab2:
 
     # mc "Think about how good it'll feel, when you shoot your cum all over your perfect tits."
     mc "Stell dir vor, wie gut es sich anfühlen wird, wenn du dein Sperma über deine perfekten Titten spritzt."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:954
-translate deutsch sm1cs_mh009_1_c8ea777f:
-
-    # mc "Cum for me, [mhname]."
-    mc "Komm für mich, [mhname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:963
 translate deutsch sm1cs_mh009_1_e0ab58b4:
@@ -2413,4 +2323,106 @@ translate deutsch sm1cs_mh009_d79e591d:
 
     # mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
     mh "Also... eines der Dinge, die ich schon immer mal machen wollte... ist, in einem BDSM-Club ausgestellt zu werden."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:341
+translate deutsch sm1cs_mh009_7b2b35e6:
+
+    # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:342
+translate deutsch sm1cs_mh009_7b2b35e6_1:
+
+    # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:348
+translate deutsch sm1cs_mh009_72f11ebc:
+
+    # mc "Sure, Lys- I mean, [mhname!t]."
+    mc "Sure, Lys- I mean, [mhname!t]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:389
+translate deutsch sm1cs_mh009_0c331674:
+
+    # mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
+    mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:446
+translate deutsch sm1cs_mh009_ed0f3263:
+
+    # mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
+    mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:601
+translate deutsch sm1cs_mh009_348b8dd7:
+
+    # mc "Oh shit, [mhname!t]!"
+    mc "Oh shit, [mhname!t]!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:619
+translate deutsch sm1cs_mh009_beac13b0:
+
+    # mc "Do you? Do you like being my good girl, [mhname!t]?"
+    mc "Do you? Do you like being my good girl, [mhname!t]?"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:624
+translate deutsch sm1cs_mh009_70654531:
+
+    # mc "Fuuuucking hell, this is great, [mhname!t]."
+    mc "Fuuuucking hell, this is great, [mhname!t]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:687
+translate deutsch sm1cs_mh009_2c204863:
+
+    # mc "Oh fuck yeah, [mhname!t]!"
+    mc "Oh fuck yeah, [mhname!t]!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:739
+translate deutsch sm1cs_mh009_8751d578:
+
+    # mc "Oh shit, [mhname!t]! Oh this is incredible!"
+    mc "Oh shit, [mhname!t]! Oh this is incredible!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:756
+translate deutsch sm1cs_mh009_e922e4ef:
+
+    # mc "What, [mhname!t]?"
+    mc "What, [mhname!t]?"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:765
+translate deutsch sm1cs_mh009_2b193e52:
+
+    # mc "Ohh, L- love this, [mhname!t], I love this!"
+    mc "Ohh, L- love this, [mhname!t], I love this!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:784
+translate deutsch sm1cs_mh009_c66ced23:
+
+    # mc "Oh God, [mhname!t]..."
+    mc "Oh God, [mhname!t]..."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:861
+translate deutsch sm1cs_mh009_32fbcfe7:
+
+    # mc "Are you going to cum, [mhname!t]?"
+    mc "Are you going to cum, [mhname!t]?"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:936
+translate deutsch sm1cs_mh009_1_c8b0e979:
+
+    # mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
+    mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:948
+translate deutsch sm1cs_mh009_1_44176ab2:
+
+    # mc "Cum for me, [mhname!t]."
+    mc "Cum for me, [mhname!t]."
+
+translate deutsch strings:
+
+    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:330
+    old "Allison"
+    new "Allison"
 

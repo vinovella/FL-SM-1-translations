@@ -581,10 +581,10 @@ translate chinese sm1fs_i002_0532ea45:
     cw "明早我会做出最终决定。"
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:280
-translate chinese sm1fs_i002_c861b23f:
+translate chinese sm1fs_i002_59b9bf49:
 
-    # cw "After I've made my decision [gt.next_day] by 8:00 am I'll give you a call."
-    cw "等我在[gt.next_day!t]早上8点前做出决定后，我会给你打电话。"
+    # cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
+    cw "等我在[gt.next_day_name!t]早上8点前做出决定后，我会给你打电话。"
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:284
 translate chinese sm1fs_i002_720d455d:
@@ -599,10 +599,16 @@ translate chinese sm1fs_i002_e3657940:
     cw "不客气，杨[mcname]先生。"
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:287
-translate chinese sm1fs_i002_3de939df:
+translate chinese sm1fs_i002_334c54a0:
 
-    # mc "I look forward to your call at [gt.next_day] 8:00 am!"
-    mc "我期待着您在[gt.next_day!t]上午8:00的来电！"
+    # mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
+    mc "我期待着您在[gt.next_day_name!t]上午8:00的来电！"
+
+# game/code/scenes/it_office/sm1fs-i002.rpy:192
+translate chinese sm1fs_i002_bf4b8ddd:
+
+    # cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
+    cw "没关系，我们尽量把它保持得……不过于私人化。继续。"
 
 translate chinese strings:
 
@@ -637,10 +643,4 @@ translate chinese strings:
     # game/code/scenes/it_office/sm1fs-i002.rpy:165
     old "I'd rather not say"
     new "我不想说"
-
-# game/code/scenes/it_office/sm1fs-i002.rpy:192
-translate chinese sm1fs_i002_bf4b8ddd:
-
-    # cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
-    cw "没关系，我们尽量把它保持得……不过于私人化。继续。"
 

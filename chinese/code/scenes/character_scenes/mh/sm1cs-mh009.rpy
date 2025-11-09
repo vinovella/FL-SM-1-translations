@@ -628,23 +628,11 @@ translate chinese sm1cs_mh009_fe0d01a3:
     # mh "Wonderful. I have always liked the name \"Allison\"."
     mh "太好了。我一直很喜欢\"艾莉森\"这个名字。"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:340
-translate chinese sm1cs_mh009_63791159:
-
-    # mh "[mhname]...{w} I like it, great suggestion, [mcname]."
-    mh "[mhname]...{w}我喜欢，好建议，[mcname]。"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:343
 translate chinese sm1cs_mh009_cd349a72:
 
     # mh "The second rule is that I want you to treat this just like any other interview, okay?"
     mh "第二条规则是我希望你像对待任何其他面试一样对待这次面试，好吗？"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:346
-translate chinese sm1cs_mh009_bb012081:
-
-    # mc "Sure, Lys- I mean, [mhname]."
-    mc "当然，丽--我是说，[mhname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:349
 translate chinese sm1cs_mh009_53d5e56e:
@@ -747,12 +735,6 @@ translate chinese sm1cs_mh009_263d30de:
 
     # mc "All right, now that we're recording... uhm, start with your name, and why you're here today."
     mc "好的，现在我们正在录制...呃，从你的名字开始，以及你今天为什么来这里。"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:387
-translate chinese sm1cs_mh009_39403e83:
-
-    # mh "Well, my name is [mhname], and I'm here because a friend suggested that this might be a good way to make some extra money."
-    mh "嗯，我叫[mhname]，我来这里是因为一个朋友建议这可能是赚点外快的好方法。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:390
 translate chinese sm1cs_mh009_92fa3237:
@@ -879,12 +861,6 @@ translate chinese sm1cs_mh009_70be2168:
 
     # mh "Talking about it... gets me so excited. I just... mmmmmm!"
     mh "谈论它...让我如此兴奋。我只是...嗯嗯嗯嗯！"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:444
-translate chinese sm1cs_mh009_e07378e4:
-
-    # mc "Well, that makes two of us! That sounds super duper hot, [mhname]."
-    mc "嗯，我们俩都一样！听起来超级超级火辣，[mhname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:447
 translate chinese sm1cs_mh009_eaff8908:
@@ -1126,12 +1102,6 @@ translate chinese sm1cs_mh009_8d618674:
     # mh "I hope you're ready to get {i}blown{/i} away!"
     mh "我希望你准备好被{i}吹{/i}飞！"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:602
-translate chinese sm1cs_mh009_30dbc24f:
-
-    # mc "Oh shit, [mhname]!"
-    mc "哦，该死，[mhname]！"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:603
 translate chinese sm1cs_mh009_c4971346:
 
@@ -1180,12 +1150,6 @@ translate chinese sm1cs_mh009_e4db6fa7:
     # mc "Mmmm, and I can tell by the way your throat is gobbling me up that you like being called a good girl."
     mc "嗯嗯嗯，从你的喉咙吞噬我的方式我可以看出你喜欢被叫做好女孩。"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:620
-translate chinese sm1cs_mh009_01cb73dc:
-
-    # mc "Do you? Do you like being my good girl, [mhname]?"
-    mc "是吗？你喜欢做我的好女孩吗，[mhname]？"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:621
 translate chinese sm1cs_mh009_08646be6:
 
@@ -1197,12 +1161,6 @@ translate chinese sm1cs_mh009_027e0d86:
 
     # mc "Well if you keep sucking my dick like that, you'll keep being a good girl."
     mc "如果你继续这样吸我的鸡巴，你就会一直是个好女孩。"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:625
-translate chinese sm1cs_mh009_87d6a70e:
-
-    # mc "Fuuuucking hell, this is great, [mhname]."
-    mc "该死的，这太棒了，[mhname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:626
 translate chinese sm1cs_mh009_495a7c51:
@@ -1335,12 +1293,6 @@ translate chinese sm1cs_mh009_b5bb6fee:
 
     # mh "God, keep fucking me like that, [mcname]!"
     mh "天啊，继续这样操我，[mcname]！"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:689
-translate chinese sm1cs_mh009_206ffabf:
-
-    # mc "Oh fuck yeah, [mhname]!"
-    mc "哦，操，是的，[mhname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:690
 translate chinese sm1cs_mh009_4d335fd5:
@@ -1492,12 +1444,6 @@ translate chinese sm1cs_mh009_b5d17fda:
     # mh "Mmmmm - fuuuck yes, fuck me just like that!"
     mh "嗯嗯--操，是的，就这样操我！"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:742
-translate chinese sm1cs_mh009_6cb63ebf:
-
-    # mc "Oh shit, [mhname]! Oh this is incredible!"
-    mc "哦，该死，[mhname]！哦，这太不可思议了！"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:743
 translate chinese sm1cs_mh009_7e7fb735:
 
@@ -1558,12 +1504,6 @@ translate chinese sm1cs_mh009_fa7aeb1e:
     # mh "And - nppppph - you know what the best part is?"
     mh "而且--嗯--你知道最棒的部分是什么吗？"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:759
-translate chinese sm1cs_mh009_379adf7c:
-
-    # mc "What, [mhname]?"
-    mc "什么，[mhname]？"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:760
 translate chinese sm1cs_mh009_8834e9f6:
 
@@ -1600,12 +1540,6 @@ translate chinese sm1cs_mh009_d4ca63f9:
     # mc "Oh fuuuuhhh-"
     mc "哦，操--"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:768
-translate chinese sm1cs_mh009_f0f44a77:
-
-    # mc "Ohh, L- love this, [mhname], I love this!"
-    mc "哦，我--爱这个，[mhname]，我爱这个！"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:769
 translate chinese sm1cs_mh009_8da68d91:
 
@@ -1641,12 +1575,6 @@ translate chinese sm1cs_mh009_57a3b0b9:
 
     # mh "Let me help!"
     mh "让我帮忙！"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:788
-translate chinese sm1cs_mh009_c04f3a10:
-
-    # mc "Oh God, [mhname]..."
-    mc "哦，天啊，[mhname]..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:789
 translate chinese sm1cs_mh009_808ac5cb:
@@ -1822,12 +1750,6 @@ translate chinese sm1cs_mh009_e67d216c:
     # mh "Oh God, [mcname], oh God-!"
     mh "哦，天啊，[mcname]，哦，天啊--！"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:866
-translate chinese sm1cs_mh009_5576d3f7:
-
-    # mc "Are you going to cum, [mhname]?"
-    mc "你要高潮了吗，[mhname]？"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:867
 translate chinese sm1cs_mh009_b77a9e17:
 
@@ -1960,23 +1882,11 @@ translate chinese sm1cs_mh009_1_32d23f2a:
     # mh "[mcname]!"
     mh "[mcname]!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:942
-translate chinese sm1cs_mh009_1_0e555272:
-
-    # mc "Shhh, [mhname]. It looks amazing, watching your fingers move like that."
-    mc "嘘，[mhname]。看着你的手指那样移动看起来太棒了。"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:945
 translate chinese sm1cs_mh009_1_9dbc4ab2:
 
     # mc "Think about how good it'll feel, when you shoot your cum all over your perfect tits."
     mc "想想当你把精液射在你完美的奶子上时会有多爽。"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:954
-translate chinese sm1cs_mh009_1_c8ea777f:
-
-    # mc "Cum for me, [mhname]."
-    mc "为我高潮，[mhname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:963
 translate chinese sm1cs_mh009_1_e0ab58b4:
@@ -2413,4 +2323,106 @@ translate chinese sm1cs_mh009_d79e591d:
 
     # mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
     mh "所以...我一直想做的事情之一...是在类似BDSM俱乐部被展示。"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:341
+translate chinese sm1cs_mh009_7b2b35e6:
+
+    # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:342
+translate chinese sm1cs_mh009_7b2b35e6_1:
+
+    # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:348
+translate chinese sm1cs_mh009_72f11ebc:
+
+    # mc "Sure, Lys- I mean, [mhname!t]."
+    mc "Sure, Lys- I mean, [mhname!t]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:389
+translate chinese sm1cs_mh009_0c331674:
+
+    # mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
+    mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:446
+translate chinese sm1cs_mh009_ed0f3263:
+
+    # mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
+    mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:601
+translate chinese sm1cs_mh009_348b8dd7:
+
+    # mc "Oh shit, [mhname!t]!"
+    mc "Oh shit, [mhname!t]!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:619
+translate chinese sm1cs_mh009_beac13b0:
+
+    # mc "Do you? Do you like being my good girl, [mhname!t]?"
+    mc "Do you? Do you like being my good girl, [mhname!t]?"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:624
+translate chinese sm1cs_mh009_70654531:
+
+    # mc "Fuuuucking hell, this is great, [mhname!t]."
+    mc "Fuuuucking hell, this is great, [mhname!t]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:687
+translate chinese sm1cs_mh009_2c204863:
+
+    # mc "Oh fuck yeah, [mhname!t]!"
+    mc "Oh fuck yeah, [mhname!t]!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:739
+translate chinese sm1cs_mh009_8751d578:
+
+    # mc "Oh shit, [mhname!t]! Oh this is incredible!"
+    mc "Oh shit, [mhname!t]! Oh this is incredible!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:756
+translate chinese sm1cs_mh009_e922e4ef:
+
+    # mc "What, [mhname!t]?"
+    mc "What, [mhname!t]?"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:765
+translate chinese sm1cs_mh009_2b193e52:
+
+    # mc "Ohh, L- love this, [mhname!t], I love this!"
+    mc "Ohh, L- love this, [mhname!t], I love this!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:784
+translate chinese sm1cs_mh009_c66ced23:
+
+    # mc "Oh God, [mhname!t]..."
+    mc "Oh God, [mhname!t]..."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:861
+translate chinese sm1cs_mh009_32fbcfe7:
+
+    # mc "Are you going to cum, [mhname!t]?"
+    mc "Are you going to cum, [mhname!t]?"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:936
+translate chinese sm1cs_mh009_1_c8b0e979:
+
+    # mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
+    mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:948
+translate chinese sm1cs_mh009_1_44176ab2:
+
+    # mc "Cum for me, [mhname!t]."
+    mc "Cum for me, [mhname!t]."
+
+translate chinese strings:
+
+    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:330
+    old "Allison"
+    new "艾莉森"
 

@@ -580,12 +580,6 @@ translate deutsch sm1fs_i002_0532ea45:
     # cw "I will be making a final decision by tomorrow morning."
     cw "Ich werde bis morgen früh eine endgültige Entscheidung treffen."
 
-# game/code/scenes/it_office/sm1fs-i002.rpy:280
-translate deutsch sm1fs_i002_c861b23f:
-
-    # cw "After I've made my decision [gt.next_day!t] by 8:00 am I'll give you a call."
-    cw "Nachdem ich meine Entscheidung getroffen habe [gt.next_day!t], werde ich dich um 8:00 Uhr anrufen."
-
 # game/code/scenes/it_office/sm1fs-i002.rpy:284
 translate deutsch sm1fs_i002_720d455d:
 
@@ -597,12 +591,6 @@ translate deutsch sm1fs_i002_e3657940:
 
     # cw "You're welcome Mr. [mcname] Young."
     cw "Gern geschehen, Herr [mcname] Young."
-
-# game/code/scenes/it_office/sm1fs-i002.rpy:287
-translate deutsch sm1fs_i002_3de939df:
-
-    # mc "I look forward to your call at [gt.next_day!t] 8:00 am!"
-    mc "Ich freue mich auf deinen Anruf [gt.next_day!t] um 8:00 Uhr!"
 
 translate deutsch strings:
 
@@ -643,4 +631,16 @@ translate deutsch sm1fs_i002_bf4b8ddd:
 
     # cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
     cw "Das ist in Ordnung, versuchen wir einfach, es... weniger persönlich zu halten. Mach weiter."
+
+# game/code/scenes/it_office/sm1fs-i002.rpy:280
+translate deutsch sm1fs_i002_59b9bf49:
+
+    # cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
+    cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
+
+# game/code/scenes/it_office/sm1fs-i002.rpy:287
+translate deutsch sm1fs_i002_334c54a0:
+
+    # mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
+    mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
 

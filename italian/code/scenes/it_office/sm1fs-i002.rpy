@@ -586,12 +586,6 @@ translate italian sm1fs_i002_0532ea45:
     # cw "I will be making a final decision by tomorrow morning."
     cw "Prenderò una decisione finale entro domattina."
 
-# game/code/scenes/it_office/sm1fs-i002.rpy:280
-translate italian sm1fs_i002_c861b23f:
-
-    # cw "After I've made my decision [gt.next_day!t] by 8:00 am I'll give you a call."
-    cw "Dopo che avrò preso la mia decisione [gt.next_day!t] entro le 8:00 ti chiamerò."
-
 # game/code/scenes/it_office/sm1fs-i002.rpy:284
 translate italian sm1fs_i002_720d455d:
 
@@ -603,12 +597,6 @@ translate italian sm1fs_i002_e3657940:
 
     # cw "You're welcome Mr. [mcname] Young."
     cw "Prego Mr. [mcname] Young."
-
-# game/code/scenes/it_office/sm1fs-i002.rpy:287
-translate italian sm1fs_i002_3de939df:
-
-    # mc "I look forward to your call at [gt.next_day!t] 8:00 am!"
-    mc "Attendo con ansia la tua chiamata alle [gt.next_day!t] 8:00!"
 
 translate italian strings:
 
@@ -643,4 +631,16 @@ translate italian strings:
     # game/code/scenes/it_office/sm1fs-i002.rpy:165
     old "I'd rather not say"
     new "Preferirei non dirlo"
+
+# game/code/scenes/it_office/sm1fs-i002.rpy:280
+translate italian sm1fs_i002_59b9bf49:
+
+    # cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
+    cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
+
+# game/code/scenes/it_office/sm1fs-i002.rpy:287
+translate italian sm1fs_i002_334c54a0:
+
+    # mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
+    mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
 

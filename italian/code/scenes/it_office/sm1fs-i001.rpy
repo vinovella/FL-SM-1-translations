@@ -466,12 +466,6 @@ translate italian sm1fs_i001_got_hired_bae0747f:
     # ag "She's in meetings for the rest of the day. But..."
     ag "È in riunioni per il resto della giornata. Ma..."
 
-# game/code/scenes/it_office/sm1fs-i001.rpy:336
-translate italian sm1fs_i001_got_hired_e9780151:
-
-    # ag "If you come tomorrow, [gt.next_day!t] at 8:00 am you should be able to meet with her."
-    ag "Se vieni domani, [gt.next_day!t] alle 8:00 dovresti riuscire a incontrarla."
-
 # game/code/scenes/it_office/sm1fs-i001.rpy:339
 translate italian sm1fs_i001_got_hired_c90d928c:
 
@@ -625,4 +619,10 @@ translate italian strings:
     # game/code/scenes/it_office/sm1fs-i001.rpy:147
     old "Cars"
     new "Auto"
+
+# game/code/scenes/it_office/sm1fs-i001.rpy:336
+translate italian sm1fs_i001_got_hired_718fe7f4:
+
+    # ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
+    ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
 
