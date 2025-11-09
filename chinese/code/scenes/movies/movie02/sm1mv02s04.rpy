@@ -2,181 +2,181 @@
 translate chinese sm1mv02s04_d83f64b8:
 
     # sy "Okay, it looks like Kanya emailed back to confirm that the photodojo is available."
-    sy "Okay, it looks like Kanya emailed back to confirm that the photodojo is available."
+    sy "好啦，康雅已经回复邮件确认了，摄影工坊可以使用。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:16
 translate chinese sm1mv02s04_1a312d94:
 
     # mc "Great. And..."
-    mc "Great. And..."
+    mc "太好了。还有..."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:21
 translate chinese sm1mv02s04_090a4b5f:
 
     # mc "Min just replied back. She can join us this afternoon."
-    mc "Min just replied back. She can join us this afternoon."
+    mc "明刚回复我了。她今天下午能来和我们汇合。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:23
 translate chinese sm1mv02s04_d5c25d75:
 
     # mc "Lyssa just texted back. She just finished her brief so she has some time for us."
-    mc "Lyssa just texted back. She just finished her brief so she has some time for us."
+    mc "丽莎也刚发消息回来。她刚完成工作简报，有空过来一趟。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:26
 translate chinese sm1mv02s04_07d4fbb9:
 
     # sy "Excellent.{w} I'll text Taisia. You text Nari."
-    sy "Excellent.{w} I'll text Taisia. You text Nari."
+    sy "太好啦。{w}我来给泰西娅发消息，你给娜丽发。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:30
 translate chinese sm1mv02s04_9d38af69:
 
     # ns "Text me about what?"
-    ns "Text me about what?"
+    ns "发消息给我有什么事呀？"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:34
 translate chinese sm1mv02s04_83936906:
 
     # mc "Hi Nari."
-    mc "Hi Nari."
+    mc "嗨，娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:36
 translate chinese sm1mv02s04_edb68308:
 
     # sy "Hey."
-    sy "Hey."
+    sy "嘿。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:37
 translate chinese sm1mv02s04_80522f28:
 
     # mc "I was just going to text you to see if you could come and do a table read with us."
-    mc "I was just going to text you to see if you could come and do a table read with us."
+    mc "我正准备发消息问你，能不能来和我们一起进行剧本围读。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:40
 translate chinese sm1mv02s04_a7f388c2:
 
     # ns "A table read? Is that like when people decipher the meanings of leaves in tea?"
-    ns "A table read? Is that like when people decipher the meanings of leaves in tea?"
+    ns "剧本围读？是跟茶叶算命那样看图案猜意思吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:43
 translate chinese sm1mv02s04_7f08e5f1:
 
     # mc "Not really."
-    mc "Not really."
+    mc "不太一样。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:44
 translate chinese sm1mv02s04_6697ed59:
 
     # mc "It's just like the first time the cast gets together and does a dry run of the script."
-    mc "It's just like the first time the cast gets together and does a dry run of the script."
+    mc "就是演员们第一次聚在一起，把剧本完整地过一遍，进行一次无道具无布景的彩排。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:47
 translate chinese sm1mv02s04_cb027436:
 
     # sy "It's nice and simple and low pressure. But it's also a super-necessary step to make sure we find problems before we're filming a scene."
-    sy "It's nice and simple and low pressure. But it's also a super-necessary step to make sure we find problems before we're filming a scene."
+    sy "过程很简单，没什么压力。但这也是非常必要的一步，能让我们在拍摄具体场景之前发现剧本里的问题。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:50
 translate chinese sm1mv02s04_32fc160d:
 
     # ns "Oh, it is almost like we are beta testing the script."
-    ns "Oh, it is almost like we are beta testing the script."
+    ns "哦，这差不多就像是在对剧本进行beta测试一样。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:53
 translate chinese sm1mv02s04_b180829a:
 
     # mc "Bingo."
-    mc "Bingo."
+    mc "没错。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:56
 translate chinese sm1mv02s04_b3a02aa9:
 
     # ns "I... I'm not sure I'm ready for that."
-    ns "I... I'm not sure I'm ready for that."
+    ns "我...我不确定我有没有准备好。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:60
 translate chinese sm1mv02s04_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "啊？"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:63
 translate chinese sm1mv02s04_9fbc0f46:
 
     # mc "Nari?"
-    mc "Nari?"
+    mc "娜丽？"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:66
 translate chinese sm1mv02s04_33f9fbdb:
 
     # ns "I have been preparing. Looking at tutorials online on how to be a better actress."
-    ns "I have been preparing. Looking at tutorials online on how to be a better actress."
+    ns "我一直在准备。我在网上看了很多教程，想让自己成为更好的演员。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:67
 translate chinese sm1mv02s04_a4e73abf:
 
     # ns "But each time I try to do the drills they suggest, it feels like my legs are going to lock up."
-    ns "But each time I try to do the drills they suggest, it feels like my legs are going to lock up."
+    ns "但每次我试着按照教程里说的练习，都感觉我的腿要僵住了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:75
 translate chinese sm1mv02s04_3adc5195:
 
     # mc "Nari, it's totally natural to be a little nervous."
-    mc "Nari, it's totally natural to be a little nervous."
+    mc "娜丽，有点紧张是完全正常的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:76
 translate chinese sm1mv02s04_354cb17e:
 
     # mc "I was the same way when Stacy and I filmed our first scene."
-    mc "I was the same way when Stacy and I filmed our first scene."
+    mc "我和史黛西拍第一场戏的时候，也是这样。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:77
 translate chinese sm1mv02s04_b6bb75a1:
 
     # mc "Heck I was nervous the first time we recorded ourselves having sex."
-    mc "Heck I was nervous the first time we recorded ourselves having sex."
+    mc "说实话，我们第一次录自己做爱的视频时，我也很紧张。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:80
 translate chinese sm1mv02s04_70eefb26:
 
     # ns "You were?"
-    ns "You were?"
+    ns "你也会紧张？"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:83
 translate chinese sm1mv02s04_7b7871f6:
 
     # mc "Yes. But it gets easier each time."
-    mc "Yes. But it gets easier each time."
+    mc "会啊。但每经历一次，就会变得更轻松。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:84
 translate chinese sm1mv02s04_1bac32c3:
 
     # mc "But we all have to start somewhere."
-    mc "But we all have to start somewhere."
+    mc "但我们都得有个开始嘛。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:87
 translate chinese sm1mv02s04_b59bcd79:
 
     # ns "Okay. Well... I guess if everyone gets nervous, this is just part of the tutorial. *giggles nervously*"
-    ns "Okay. Well... I guess if everyone gets nervous, this is just part of the tutorial. *giggles nervously*"
+    ns "好吧。那...我想如果每个人都会紧张，那这也是教程的一部分吧。*紧张地咯咯笑*"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:92
 translate chinese sm1mv02s04_399c52a8:
 
     # mc "Nari, it's me. I'm not going to let anything happen to you."
-    mc "Nari, it's me. I'm not going to let anything happen to you."
+    mc "娜丽，你身边有我。我不会让任何不好的事情发生在你身上。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:95
 translate chinese sm1mv02s04_1edca4c4:
 
     # ns "I know... but I fear my body will betray me."
-    ns "I know... but I fear my body will betray me."
+    ns "我知道...但我担心我的身体会不受控制。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:98
 translate chinese sm1mv02s04_02c08337:
 
     # mc "Don't let it. You're the one in control."
-    mc "Don't let it. You're the one in control."
+    mc "别让它失控。主动权在你手里。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:103
 translate chinese sm1mv02s04_914dbe37:
