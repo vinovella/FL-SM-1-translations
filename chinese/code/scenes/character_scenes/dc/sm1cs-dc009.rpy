@@ -1124,271 +1124,271 @@ translate chinese sm1cs_dc009_09639c52:
 translate chinese sm1cs_dc009_77fa01e2:
 
     # "Douche Cop" "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
-    "Douche Cop" "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
+    "Douche Cop" "哦，看看这只小兔子为公园警察站出来了！真可爱！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:404
 translate chinese sm1cs_dc009_aa7b157f:
 
     # jc "Hahahaha!"
-    jc "Hahahaha!"
+    jc "哈哈哈哈！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:407
 translate chinese sm1cs_dc009_9fd03fd8:
 
     # mc "That's not an answer to my question, asshole."
-    mc "That's not an answer to my question, asshole."
+    mc "这不是我问题的答案，混蛋。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:410
 translate chinese sm1cs_dc009_6a2196bc:
 
     # "Douche Cop" "What's you just call me?"
-    "Douche Cop" "What's you just call me?"
+    "Douche Cop" "你刚才叫我什么？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:412
 translate chinese sm1cs_dc009_70d27f81:
 
     # mc "You heard me."
-    mc "You heard me."
+    mc "你听到了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:415
 translate chinese sm1cs_dc009_33d3b022:
 
     # jc "It's a surprise because she ain't a real cop."
-    jc "It's a surprise because she ain't a real cop."
+    jc "不奇怪是因为她不是真正的警察。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:416
 translate chinese sm1cs_dc009_b2f1b15e:
 
     # jc "Hell, she can barely be trusted to hang out in a park!"
-    jc "Hell, she can barely be trusted to hang out in a park!"
+    jc "见鬼，她连在公园里待着都不能让人放心！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:418
 translate chinese sm1cs_dc009_49aa375e:
 
     # "Douche Cop" "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
-    "Douche Cop" "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
+    "Douche Cop" "没错！队长正考虑让你坐办公室！说你太麻烦了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:421
 translate chinese sm1cs_dc009_95a1d572:
 
     # mc "She's a real cop."
-    mc "She's a real cop."
+    mc "她是真正的警察。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:424
 translate chinese sm1cs_dc009_509281f8:
 
     # jc "Woah buddy, just cool your jets."
-    jc "Woah buddy, just cool your jets."
+    jc "哇，伙计，冷静点。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:427
 translate chinese sm1cs_dc009_c5376d1a:
 
     # jc "I bet you think we're saying that because of her \"situation\"."
-    jc "I bet you think we're saying that because of her \"situation\"."
+    jc "我打赌你以为我们这么说是因为她的\"情况\"。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:431
 translate chinese sm1cs_dc009_668c4c0f:
 
     # jc "Hey man, I don't give a shit what she's got in her skirt."
-    jc "Hey man, I don't give a shit what she's got in her skirt."
+    jc "嘿，伙计，我不在乎她裙子里有什么。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:434
 translate chinese sm1cs_dc009_296cfcdc:
 
     # "Douche Cop" "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
-    "Douche Cop" "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
+    "Douche Cop" "是啊，是那对又大又垂的奶子！每次她在公园里追那些他妈的轻罪变态时就乱晃！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:435
 translate chinese sm1cs_dc009_be67778c:
 
     # "Douche Cop" "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
-    "Douche Cop" "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
+    "Douche Cop" "我现在都能想象！他妈的跑着跑着\"哦不，我的奶子打到我脸上了！不要啊！\"。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:438
 translate chinese sm1cs_dc009_cc060ba8:
 
     # jc "Hahahahah!"
-    jc "Hahahahah!"
+    jc "哈哈哈哈哈！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:439
 translate chinese sm1cs_dc009_04524442:
 
     # "Douche Cop" "Ohhh, my tits, ohhhhh!"
-    "Douche Cop" "Ohhh, my tits, ohhhhh!"
+    "Douche Cop" "哦哦哦，我的奶子，哦哦哦！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:442
 translate chinese sm1cs_dc009_ffc76d97:
 
     # mc "Officer Callahan is more of a cop than either of you two shitstains."
-    mc "Officer Callahan is more of a cop than either of you two shitstains."
+    mc "卡拉汉警官比你们俩这两个垃圾更像警察。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:445
 translate chinese sm1cs_dc009_45c091a6:
 
     # jc "Oh, you fucking think so?"
-    jc "Oh, you fucking think so?"
+    jc "哦，你他妈这么想？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:446
 translate chinese sm1cs_dc009_52b7a4a8:
 
     # "Douche Cop" "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
-    "Douche Cop" "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
+    "Douche Cop" "是吗？她怎么证明？她要用那对他妈的大奶子把我们打死吗！？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:448
 translate chinese sm1cs_dc009_fca52711:
 
     # mc "No."
-    mc "No."
+    mc "不。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:450
 translate chinese sm1cs_dc009_a660404d:
 
     # mc "This is a gun range, right? Why don't you have a shoot off. Whoever hits the target better wins."
-    mc "This is a gun range, right? Why don't you have a shoot off. Whoever hits the target better wins."
+    mc "这是射击场，对吧？你们为什么不来场射击比赛。谁打得更准谁就赢。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:454
 translate chinese sm1cs_dc009_2662a7ba:
 
     # jc "Fine, we'll have a \"shoot off\". If she somehow beats us, we'll lay off her."
-    jc "Fine, we'll have a \"shoot off\". If she somehow beats us, we'll lay off her."
+    jc "好啊，我们来场\"射击比赛\"。如果她不知怎么赢了我们，我们就放过她。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:456
 translate chinese sm1cs_dc009_9e724710:
 
     # mc "For forever."
-    mc "For forever."
+    mc "永远。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:459
 translate chinese sm1cs_dc009_92a20efc:
 
     # jc "Sure, fine. Forever."
-    jc "Sure, fine. Forever."
+    jc "当然，好。永远。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:461
 translate chinese sm1cs_dc009_4879e2c7:
 
     # jc "But when I win, little miss park ranger needs to show us the gloryhole we've heard so much about."
-    jc "But when I win, little miss park ranger needs to show us the gloryhole we've heard so much about."
+    jc "但如果我赢了，小公园管理员小姐要给我们看看我们听说过的那个荣耀洞。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:462
 translate chinese sm1cs_dc009_2c30d401:
 
     # jc "{i}Personally.{/i}"
-    jc "{i}Personally.{/i}"
+    jc "{i}亲自。{/i}"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:465
 translate chinese sm1cs_dc009_351d2ee5:
 
     # dc "Come on, [mcname]. Let's just go. Leave these assholes to have the range."
-    dc "Come on, [mcname]. Let's just go. Leave these assholes to have the range."
+    dc "走吧，[mcname]。我们走吧。让这些混蛋留在射击场。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:467
 translate chinese sm1cs_dc009_3466c8fc:
 
     # mc "Debbie."
-    mc "Debbie."
+    mc "黛比。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:469
 translate chinese sm1cs_dc009_49b32622:
 
     # dc "What..."
-    dc "What..."
+    dc "什么..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:471
 translate chinese sm1cs_dc009_c4324ba3:
 
     # mc "You got this. You can beat them, I know it."
-    mc "You got this. You can beat them, I know it."
+    mc "你可以的。你能打败他们，我知道。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:473
 translate chinese sm1cs_dc009_f81d61d4:
 
     # dc "I don't know..."
-    dc "I don't know..."
+    dc "我不知道..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:474
 translate chinese sm1cs_dc009_e2659673:
 
     # mc "Are they any good?"
-    mc "Are they any good?"
+    mc "他们厉害吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:475
 translate chinese sm1cs_dc009_c666e81c:
 
     # dc "I mean..."
-    dc "I mean..."
+    dc "我是说..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:477
 translate chinese sm1cs_dc009_2c071a78:
 
     # mc "Are they the type of guys who come to the range to watch a movie?"
-    mc "Are they the type of guys who come to the range to watch a movie?"
+    mc "他们是那种来射击场看电影的人吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:480
 translate chinese sm1cs_dc009_c2e1a243:
 
     # dc "I mean... yeah."
-    dc "I mean... yeah."
+    dc "我是说...是的。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:482
 translate chinese sm1cs_dc009_4f622324:
 
     # mc "And you come and practice, right?"
-    mc "And you come and practice, right?"
+    mc "而你来练习，对吧？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:484
 translate chinese sm1cs_dc009_6ce4cbe3:
 
     # dc "Yeah..."
-    dc "Yeah..."
+    dc "是的..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:487
 translate chinese sm1cs_dc009_eeb41400:
 
     # mc "Then you got this!"
-    mc "Then you got this!"
+    mc "那你肯定能赢！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:489
 translate chinese sm1cs_dc009_30742037:
 
     # jc "Come on! We going to do this!? You stall much longer, and I'm going to wonder what those saggy tits would feel like around my dick!"
-    jc "Come on! We going to do this!? You stall much longer, and I'm going to wonder what those saggy tits would feel like around my dick!"
+    jc "来啊！我们要比吗！？你再拖下去，我就要想象那对垂奶子夹我老二是什么感觉了！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:490
 translate chinese sm1cs_dc009_29d3c2e2:
 
     # "Douche Cop" "Hahahahahaha!"
-    "Douche Cop" "Hahahahahaha!"
+    "Douche Cop" "哈哈哈哈哈哈！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:493
 translate chinese sm1cs_dc009_7790aac6:
 
     # dc "Yeah, I got this."
-    dc "Yeah, I got this."
+    dc "好的，我可以。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:495
 translate chinese sm1cs_dc009_ca6075bd:
 
     # dc "Let's sweeten the deal. Loser has to do the other one's paperwork for a month."
-    dc "Let's sweeten the deal. Loser has to do the other one's paperwork for a month."
+    dc "让我们加点赌注。输的人要做赢的人一个月的文书工作。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:498
 translate chinese sm1cs_dc009_a537d812:
 
     # jc "Pfft! Hope you like doing paperwork then!"
-    jc "Pfft! Hope you like doing paperwork then!"
+    jc "噗！那希望你喜欢做文书工作！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:501
 translate chinese sm1cs_dc009_895d9f50:
 
     # jc "I'll go first."
-    jc "I'll go first."
+    jc "我先来。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:504
 translate chinese sm1cs_dc009_5f06960e:
 
     # jc "Show you how a real cop gets it done!"
-    jc "Show you how a real cop gets it done!"
+    jc "让你看看真正的警察是怎么做的！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:509
 translate chinese sm1cs_dc009_a792ebb9_1:
@@ -1412,7 +1412,7 @@ translate chinese sm1cs_dc009_a792ebb9_3:
 translate chinese sm1cs_dc009_14f93858:
 
     # jc "All right, it's all you, cupcake."
-    jc "All right, it's all you, cupcake."
+    jc "好了，该你了，小甜心。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:534
 translate chinese sm1cs_dc009_a792ebb9_4:
@@ -1436,275 +1436,275 @@ translate chinese sm1cs_dc009_a792ebb9_6:
 translate chinese sm1cs_dc009_3d57c23c:
 
     # dc "Now, let's see who won."
-    dc "Now, let's see who won."
+    dc "现在，让我们看看谁赢了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:552
 translate chinese sm1cs_dc009_2a0f37fa:
 
     # jc "Ha! 6, 7, 8! Top that, sugar tits!"
-    jc "Ha! 6, 7, 8! Top that, sugar tits!"
+    jc "哈！6、7、8！超过这个试试，甜心奶！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:556
 translate chinese sm1cs_dc009_8a7a2b9b:
 
     # dc "Three 9s."
-    dc "Three 9s."
+    dc "三个9。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:559
 translate chinese sm1cs_dc009_24e3c700:
 
     # "Douche Cop" "Bullshit! No way!"
-    "Douche Cop" "Bullshit! No way!"
+    "Douche Cop" "胡说！不可能！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:560
 translate chinese sm1cs_dc009_9b443ffe:
 
     # dc "Don't believe me, come take a look for yourself!"
-    dc "Don't believe me, come take a look for yourself!"
+    dc "不相信我，自己过来看！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:563
 translate chinese sm1cs_dc009_3c5e93de:
 
     # "Douche Cop" "Shit... three 9s..."
-    "Douche Cop" "Shit... three 9s..."
+    "Douche Cop" "操...三个9..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:564
 translate chinese sm1cs_dc009_58dbd9de:
 
     # jc "There's no fucking way you beat me! Bull shit!"
-    jc "There's no fucking way you beat me! Bull shit!"
+    jc "你他妈不可能赢我！胡扯！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:566
 translate chinese sm1cs_dc009_583c7f34:
 
     # dc "What, are you saying I cheated?"
-    dc "What, are you saying I cheated?"
+    dc "什么，你是说我作弊了吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:568
 translate chinese sm1cs_dc009_cd44afda:
 
     # jc "I... fuck, whatever. We're out of here."
-    jc "I... fuck, whatever. We're out of here."
+    jc "我...操，算了。我们走了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:571
 translate chinese sm1cs_dc009_535c019e:
 
     # dc "Enjoy my paperwork."
-    dc "Enjoy my paperwork."
+    dc "好好享受我的文书工作吧。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:573
 translate chinese sm1cs_dc009_67359a6c:
 
     # mc "And, for the record, she is my girlfriend!"
-    mc "And, for the record, she is my girlfriend!"
+    mc "还有，郑重声明，她是我女朋友！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:576
 translate chinese sm1cs_dc009_5f46baf1:
 
     # dc "Wait - what?"
-    dc "Wait - what?"
+    dc "等等--什么？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:577
 translate chinese sm1cs_dc009_22f7dc71:
 
     # dc "Who's got a girlfriend?"
-    dc "Who's got a girlfriend?"
+    dc "谁有女朋友了？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:579
 translate chinese sm1cs_dc009_0972c153:
 
     # mc "Erm..."
-    mc "Erm..."
+    mc "呃..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:581
 translate chinese sm1cs_dc009_e646e34f:
 
     # mc "It just felt like an appropriate retort?{w} You know, tell them that you are-"
-    mc "It just felt like an appropriate retort?{w} You know, tell them that you are-"
+    mc "这只是感觉是个合适的反驳？{w} 你知道的，告诉他们你是--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:583
 translate chinese sm1cs_dc009_804027ce:
 
     # dc "I mean...{w}you want me as your girlfriend?"
-    dc "I mean...{w}you want me as your girlfriend?"
+    dc "我是说...{w}你想让我做你的女朋友吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:585
 translate chinese sm1cs_dc009_4eddbbb0:
 
     # mc "I mean... if you want to be."
-    mc "I mean... if you want to be."
+    mc "我是说...如果你愿意的话。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:588
 translate chinese sm1cs_dc009_41c7f4eb:
 
     # dc "Be serious, [mcname]. You better not be pulling my leg."
-    dc "Be serious, [mcname]. You better not be pulling my leg."
+    dc "认真点，[mcname]。你最好不是在开玩笑。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:589
 translate chinese sm1cs_dc009_a908d68c:
 
     # dc "Because I have a loaded gun, and now is {i}not{/i} a good time to be making a joke."
-    dc "Because I have a loaded gun, and now is {i}not{/i} a good time to be making a joke."
+    dc "因为我有一把上膛的枪，现在{i}不{/i}是开玩笑的好时候。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:592
 translate chinese sm1cs_dc009_a5cd9c03:
 
     # mc "I mean... there's still a lot we need to learn about each other, but..."
-    mc "I mean... there's still a lot we need to learn about each other, but..."
+    mc "我是说...我们还有很多需要互相了解的，但是..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:593
 translate chinese sm1cs_dc009_36879384:
 
     # mc "It's complicated, I have... well, I'm involved with-"
-    mc "It's complicated, I have... well, I'm involved with-"
+    mc "这很复杂，我有...嗯，我还和--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:596
 translate chinese sm1cs_dc009_93771a14:
 
     # dc "I don't care. I {i}only{/i} care about if you want to be involved with me."
-    dc "I don't care. I {i}only{/i} care about if you want to be involved with me."
+    dc "我不在乎。我{i}只{/i}在乎你是否想和我在一起。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:598
 translate chinese sm1cs_dc009_779d02fc:
 
     # mc "Of course I do, Debbie. You're amazing, and-"
-    mc "Of course I do, Debbie. You're amazing, and-"
+    mc "我当然想，黛比。你太棒了，而且--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:601
 translate chinese sm1cs_dc009_3678e355:
 
     # dc "You have {i}no idea{/i} how badly I've wanted to hear you say that, [mcname]."
-    dc "You have {i}no idea{/i} how badly I've wanted to hear you say that, [mcname]."
+    dc "你{i}不知道{/i}我有多想听到你这么说，[mcname]。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:604
 translate chinese sm1cs_dc009_45e07afe:
 
     # mc "Well, I wish it had been under better circumstances, bu-"
-    mc "Well, I wish it had been under better circumstances, bu-"
+    mc "嗯，我希望是在更好的情况下，但--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:606
 translate chinese sm1cs_dc009_266d8b36:
 
     # dc "I really could care less."
-    dc "I really could care less."
+    dc "我真的完全不在乎。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:607
 translate chinese sm1cs_dc009_0ab37444:
 
     # dc "I'm just... I'm so happy I have a boyfriend."
-    dc "I'm just... I'm so happy I have a boyfriend."
+    dc "我只是...我太高兴我有男朋友了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:610
 translate chinese sm1cs_dc009_63d14ce2:
 
     # mc "Yes, yes you do, Debbie."
-    mc "Yes, yes you do, Debbie."
+    mc "是的，是的你有了，黛比。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:611
 translate chinese sm1cs_dc009_903eabeb:
 
     # mc "Which means we'll have to do more boyfriend-girlfriend stuff! Dates, holding hands, uhm... other things people who are dating do."
-    mc "Which means we'll have to do more boyfriend-girlfriend stuff! Dates, holding hands, uhm... other things people who are dating do."
+    mc "这意味着我们要做更多男女朋友该做的事情！约会，牵手，嗯...其他恋爱中的人做的事情。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:613
 translate chinese sm1cs_dc009_9edb6dd8:
 
     # dc "Mmhmm, other things!"
-    dc "Mmhmm, other things!"
+    dc "嗯哼，其他事情！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:616
 translate chinese sm1cs_dc009_a3cd0542:
 
     # mct "Wow, I didn't realize how much this would mean to her."
-    mct "Wow, I didn't realize how much this would mean to her."
+    mct "哇，我没想到这对她意义这么大。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:617
 translate chinese sm1cs_dc009_c1f70605:
 
     # mct "She looked like she was about to cry."
-    mct "She looked like she was about to cry."
+    mct "她看起来快要哭了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:619
 translate chinese sm1cs_dc009_d2fbe5aa:
 
     # mct "Oh woah. I think I feel her other gun warming up. Heh."
-    mct "Oh woah. I think I feel her other gun warming up. Heh."
+    mct "哦哇。我想我感觉到她的另一把枪在升温。嘿嘿。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:622
 translate chinese sm1cs_dc009_d6763f2c:
 
     # dc "Oh, uhm, ahem. So, boyfriend, I, uhm, think I have to go!"
-    dc "Oh, uhm, ahem. So, boyfriend, I, uhm, think I have to go!"
+    dc "哦，嗯，咳咳。所以，男朋友，我，嗯，我想我得走了！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:624
 translate chinese sm1cs_dc009_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "哦？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:626
 translate chinese sm1cs_dc009_3394ec53:
 
     # dc "Uh huh. I just realized that I have, a, uhm, cat to feed!"
-    dc "Uh huh. I just realized that I have, a, uhm, cat to feed!"
+    dc "嗯哼。我刚想起来我有，一只，嗯，猫要喂！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:628
 translate chinese sm1cs_dc009_eff15514:
 
     # mc "You have a cat?"
-    mc "You have a cat?"
+    mc "你有猫？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:630
 translate chinese sm1cs_dc009_871b9b08_1:
 
     # dc "Uhm..."
-    dc "Uhm..."
+    dc "嗯..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:632
 translate chinese sm1cs_dc009_d449f08b:
 
     # dc "Nope!"
-    dc "Nope!"
+    dc "没有！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:634
 translate chinese sm1cs_dc009_b5a59259:
 
     # dc "I'll text you later, [mcname]! Bye!"
-    dc "I'll text you later, [mcname]! Bye!"
+    dc "我晚点给你发短信，[mcname]！再见！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:640
 translate chinese sm1cs_dc009_0c99fe85:
 
     # mct "Did she get that awkward because she got a boner?"
-    mct "Did she get that awkward because she got a boner?"
+    mct "她变得这么尴尬是因为她勃起了吗？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:641
 translate chinese sm1cs_dc009_ac029b45:
 
     # mct "At least I assume that was her boner..."
-    mct "At least I assume that was her boner..."
+    mct "至少我猜那是她的勃起..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:644
 translate chinese sm1cs_dc009_68478393:
 
     # mct "Maybe it will take a bit for her to get more comfortable with physical contact between us."
-    mct "Maybe it will take a bit for her to get more comfortable with physical contact between us."
+    mct "也许她需要一点时间来适应我们之间的身体接触。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:645
 translate chinese sm1cs_dc009_9c61f9a7:
 
     # mct "Or maybe not, I don't know..."
-    mct "Or maybe not, I don't know..."
+    mct "或者也许不会，我不知道..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:646
 translate chinese sm1cs_dc009_78726b78:
 
     # mct "Still. Not a bad date..."
-    mct "Still. Not a bad date..."
+    mct "不过。这次约会还不错..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:647
 translate chinese sm1cs_dc009_2341bb60:
 
     # mct "Hot dogs and watching Debbie show up some asshole cops.{w} Not bad at all."
-    mct "Hot dogs and watching Debbie show up some asshole cops.{w} Not bad at all."
+    mct "热狗和看黛比教训那些混蛋警察。{w} 一点都不差。"
 
