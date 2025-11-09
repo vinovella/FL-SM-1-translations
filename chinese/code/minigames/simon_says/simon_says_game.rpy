@@ -20,3 +20,11 @@
     old "You made [SimonSays.check_input()] mistakes in the show"
     new "你在演出中犯了 [SimonSays.check_input()] 个错误"
 
+    # game/code/minigames/simon_says/simon_says_game.rpy:67
+    old "Rehearsal"
+    new "排练"
+
+    # game/code/minigames/simon_says/simon_says_game.rpy:69
+    old "Final Show"
+    new "最终演出"
+

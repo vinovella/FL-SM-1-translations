@@ -236,3 +236,27 @@
     old "Get your Film and TV topic to 3"
     new "将你的影视话题技能提升到3"
 
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least [var]/3 times"
+    new "至少进行[var]/3次周六演出"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have [var]/10 total Relationship Points with the Theater girls"
+    new "与剧院女孩们拥有[var]/10总关系点数"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least [var0]/3 times and have [var1]/10 total Relationship Points with the Theater girls"
+    new "至少进行[var0]/3次周六演出并与剧院女孩们拥有[var1]/10总关系点数"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have $[var]/$50"
+    new "拥有$[var]/$50"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have $[var]/$100 and invite Taisia to make a film"
+    new "拥有$[var]/$100并邀请泰西娅拍电影"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the rehearsal on [var!t]"
+    new "在[var!t]进行排练"
+

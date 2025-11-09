@@ -169,10 +169,6 @@
     new "与玛雅获得6点关系点数并在Wurst Delivery与她交谈"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Get {}/9 Relationship Points with Maya"
-    new "与玛雅获得{}/9关系点数"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Visit Wurst Delivery in the evening"
     new "晚上访问Wurst Delivery"
 
@@ -381,10 +377,6 @@
     new "前往杂货店"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Learn Photography until you reach 5 in this topic (currently {})"
-    new "学习摄影直到你在这个话题上有5点（当前{}）"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Learn Photography until you reach 5 in this topic"
     new "学习摄影直到你在这个话题上有5点"
 
@@ -451,4 +443,12 @@
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Min in her room"
     new "在她的房间与明交谈"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Learn Photography until you reach [var]/5 in this topic"
+    new "学习摄影直到你在这个话题上有[var]/5点"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get [var]/9 Relationship Points with Maya"
+    new "与玛雅获得[var]/9关系点数"
 

@@ -232,3 +232,27 @@
     old "Wait for April to text you"
     new "等待艾普尔给你发消息"
 
+    # game/code/data/quests/quests_it.rpy:3
+    old "Progress [var]/3 of Nari's scenes"
+    new "推进[var]/3个娜丽的场景"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Progress [var]/3 of Nari's scenes and 0/1 of Anna's scenes"
+    new "推进[var]/3个娜丽的场景和0/1个安娜的场景"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work the IT job [var]/40 times and finish the renovations"
+    new "从事IT工作[var]/40次并完成装修"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work the IT job [var]/40 times"
+    new "从事IT工作[var]/40次"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get at least [var]/15 total Relationship Points with characters at Orbix"
+    new "在Orbix获得至少[var]/15总关系点数"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work at Orbix [var]/20 times"
+    new "在Orbix工作[var]/20次"
+

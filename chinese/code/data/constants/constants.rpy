@@ -132,3 +132,31 @@
     old "Su"
     new "日"
 
+    # game/code/data/constants/constants.rpy:131
+    old "Monday"
+    new "星期一"
+
+    # game/code/data/constants/constants.rpy:132
+    old "Tuesday"
+    new "星期二"
+
+    # game/code/data/constants/constants.rpy:133
+    old "Wednesday"
+    new "星期三"
+
+    # game/code/data/constants/constants.rpy:134
+    old "Thursday"
+    new "星期四"
+
+    # game/code/data/constants/constants.rpy:135
+    old "Friday"
+    new "星期五"
+
+    # game/code/data/constants/constants.rpy:136
+    old "Saturday"
+    new "星期六"
+
+    # game/code/data/constants/constants.rpy:137
+    old "Sunday"
+    new "星期天"
+

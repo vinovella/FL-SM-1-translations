@@ -24,3 +24,7 @@
     old "You spent $[amount]"
     new "您花费了 $[amount]"
 
+    # game/code/classes/player.rpy:403
+    old "You have improved in topic [topic!t]"
+    new "您刚在话题 [topic!t] 方面有所提高"
+

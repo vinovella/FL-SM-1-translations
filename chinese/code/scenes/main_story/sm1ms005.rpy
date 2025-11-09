@@ -892,3 +892,7 @@ translate chinese strings:
     old "Cum in Stacy"
     new "射史黛西里面"
 
+    # game/code/scenes/main_story/sm1ms005.rpy:152
+    old "97 minutes later"
+    new "97分钟后"
+
