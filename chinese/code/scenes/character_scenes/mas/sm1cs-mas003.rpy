@@ -1666,6 +1666,18 @@ translate chinese sm1cs_mas003_after_delivery_9c414a81:
     # ms "*rapidly* Okay. Bye. Goodnight."
     ms "*飞快地说* 好了。再见。晚安。"
 
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
+translate chinese sm1cs_mas003_third_delivery_9ed10f06:
+
+    # ms "Show's over, ladies."
+    ms "演出结束了，女士们。"
+
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
+translate chinese sm1cs_mas003_third_delivery_7eec6586:
+
+    # ms "Never mind."
+    ms "算了。"
+
 translate chinese strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:65
@@ -1696,25 +1708,11 @@ translate chinese strings:
     old "Ask for your cut"
     new "讨要属于你的那份钱"
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
-translate chinese sm1cs_mas003_third_delivery_9ed10f06:
-
-    # ms "Show's over, ladies."
-    ms "演出结束了，女士们。"
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
-translate chinese sm1cs_mas003_third_delivery_7eec6586:
-
-    # ms "Never mind."
-    ms "算了。"
-
-translate chinese strings:
-
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
     old "Wurst Delivery tip"
-    new "Wurst Delivery tip"
+    new "Wurst Delivery 小费"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
     old "You got a $[amount] as your cut of the tip."
-    new "You got a $[amount] as your cut of the tip."
+    new "你得到了$[amount]作为你应得的小费。"
 

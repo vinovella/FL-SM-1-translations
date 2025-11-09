@@ -100,5 +100,5 @@ translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms026i.rpy:125
     old "Choose Sci-Fi Movie ([message!t])"
-    new "Choose Sci-Fi Movie ([message!t])"
+    new "选科幻题材电影 ([message!t])"
 

@@ -48,25 +48,23 @@
     old "Already done."
     new "已经完成。"
 
-translate chinese strings:
-
     # game/code/classes/renovation_controller.rpy:48
     old "Renovation progress increased by [progress]%"
-    new "Renovation progress increased by [progress]%"
+    new "翻新进度增加了 [progress]%"
 
     # game/code/classes/renovation_controller.rpy:176
     old "before 50%"
-    new "before 50%"
+    new "50%之前"
 
     # game/code/classes/renovation_controller.rpy:176
     old "after 50%"
-    new "after 50%"
+    new "50%之后"
 
     # game/code/classes/renovation_controller.rpy:179
     old "Renovation progress is over 50%.\nYou can no longer receive help from [character!t]."
-    new "Renovation progress is over 50%.\nYou can no longer receive help from [character!t]."
+    new "翻新进度超过 50%。\n您无法再获得 [character!t] 的帮助。"
 
     # game/code/classes/renovation_controller.rpy:181
     old "[character!t] can assist with the renovation [before_after!t] completion.\nTalk to [character!t] to proceed."
-    new "[character!t] can assist with the renovation [before_after!t] completion.\nTalk to [character!t] to proceed."
+    new "[character!t] 可以协助 [before_after!t] 完成翻新。\n与 [character!t] 交谈以继续。"
 

@@ -8,9 +8,7 @@
     old "You don't have enough money."
     new "您的钱不够。"
 
-translate chinese strings:
-
     # game/code/classes/player_controller.rpy:26
     old "You bought [name!t] for $[cost]"
-    new "You bought [name!t] for $[cost]"
+    new "您以 $[cost] 购买了 [name!t]"
 

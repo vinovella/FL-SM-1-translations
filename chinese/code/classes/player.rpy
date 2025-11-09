@@ -16,13 +16,11 @@
     old "You just improved in topic"
     new "您刚在话题方面有所提高"
 
-translate chinese strings:
-
     # game/code/classes/player.rpy:104
     old "You just got $[amount]"
-    new "You just got $[amount]"
+    new "您刚获得 $[amount]"
 
     # game/code/classes/player.rpy:115
     old "You spent $[amount]"
-    new "You spent $[amount]"
+    new "您花费了 $[amount]"
 

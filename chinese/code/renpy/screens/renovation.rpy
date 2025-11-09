@@ -12,17 +12,15 @@
     old "DONE"
     new "完成"
 
-translate chinese strings:
-
     # game/code/renpy/screens/renovation.rpy:8
     old "RENOVATION PROGRESS-[renovation_progress:.1f]%"
-    new "RENOVATION PROGRESS-[renovation_progress:.1f]%"
+    new "装修进度-[renovation_progress:.1f]%"
 
     # game/code/renpy/screens/renovation.rpy:52
     old "[mc_work_percent]%\nper energy"
-    new "[mc_work_percent]%\nper energy"
+    new "[mc_work_percent]%\n每点能量"
 
     # game/code/renpy/screens/renovation.rpy:53
     old "[sy_work_percent]%\nper day"
-    new "[sy_work_percent]%\nper day"
+    new "[sy_work_percent]%\n每点能量"
 

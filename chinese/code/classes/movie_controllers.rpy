@@ -78,13 +78,13 @@
 
     # game/code/classes/movie_controllers.rpy:40
     old "[movie] release"
-    new "[movie] release"
+    new "[movie] 发布"
 
     # game/code/classes/movie_controllers.rpy:129
     old "Add $[amount] to [budget_name!t]"
-    new "Add $[amount] to [budget_name!t]"
+    new "将 $[amount] 添加到 [budget_name!t]"
 
     # game/code/classes/movie_controllers.rpy:150
     old "Spend [amount] Energy in [energy_name!t]"
-    new "Spend [amount] Energy in [energy_name!t]"
+    new "在 [energy_name!t] 中消耗 [amount] 能量"
 

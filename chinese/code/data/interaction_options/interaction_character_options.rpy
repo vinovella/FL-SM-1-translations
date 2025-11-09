@@ -440,39 +440,35 @@
     old "Prepare for the party"
     new "为派对做准备"
 
-translate chinese strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Confront Amore"
     new "Confront Amore"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about work"
-    new "Talk about work"
+    new "谈论工作"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have some fun with Min"
-    new "Have some fun with Min"
+    new "和明一起玩得开心"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Smash"
-    new "Smash"
+    new "砸碎"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask about the play"
-    new "Ask about the play"
-
-translate chinese strings:
+    new "询问关于话剧的事"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Photography-101 for $60"
-    new "Purchase Photography-101 for $60"
+    new "购买摄影-101，价格 $60"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Stars Weekly for $30"
-    new "Purchase Stars Weekly for $30"
+    new "购买明星周刊，价格 $30"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase An Actor Prepares for $60"
-    new "Purchase An Actor Prepares for $60"
+    new "购买演员的准备，价格 $60"
 

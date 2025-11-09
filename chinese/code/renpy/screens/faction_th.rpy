@@ -16,13 +16,11 @@
     old "Extra pay for successful show:"
     new "成功演出额外报酬："
 
-translate chinese strings:
-
     # game/code/renpy/screens/faction_th.rpy:60
     old "Pay after show on [THController.final_show_day!t]:"
-    new "Pay after show on [THController.final_show_day!t]:"
+    new "演出结束后支付：[THController.final_show_day!t]："
 
     # game/code/renpy/screens/faction_th.rpy:70
     old "Progress [th_progress_percent]%"
-    new "Progress [th_progress_percent]%"
+    new "进度 [th_progress_percent]%"
 

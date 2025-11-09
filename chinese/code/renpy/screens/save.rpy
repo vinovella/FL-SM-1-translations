@@ -8,19 +8,15 @@
     old "No saves found!"
     new "未找到存档！"
 
-translate chinese strings:
-
     # game/code/renpy/screens/save.rpy:12
     old "Save for S&M Studio Chapter 2"
-    new "Save for S&M Studio Chapter 2"
-
-translate chinese strings:
+    new "保存S&M工作室第2章"
 
     # game/code/renpy/screens/save.rpy:51
     old "Saves For Chapter [chapter]"
-    new "Saves For Chapter [chapter]"
+    new "第[chapter]章节的存档"
 
     # game/code/renpy/screens/save.rpy:51
     old "Saves From Chapter [chapter]"
-    new "Saves From Chapter [chapter]"
+    new "第[chapter]章节的存档"
 

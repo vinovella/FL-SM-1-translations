@@ -16,9 +16,7 @@
     old "You finished the show successfully!"
     new "你成功完成了演出！"
 
-translate chinese strings:
-
     # game/code/minigames/simon_says/simon_says_game.rpy:93
     old "You made [SimonSays.check_input()] mistakes in the show"
-    new "You made [SimonSays.check_input()] mistakes in the show"
+    new "你在演出中犯了 [SimonSays.check_input()] 个错误"
 
