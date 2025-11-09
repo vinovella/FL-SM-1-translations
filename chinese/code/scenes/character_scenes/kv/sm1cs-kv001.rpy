@@ -498,10 +498,6 @@ translate chinese sm1cs_kv001_ending_ad25f2ce:
 
 translate chinese strings:
 
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:6
-    old "BOOK NAME"
-    new "书名"
-
     old "Sure, I'm interested in how a photoshoot like this works"
     new "好啊，我正想了解这类拍摄的流程"
 

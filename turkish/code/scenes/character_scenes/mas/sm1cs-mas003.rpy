@@ -1696,14 +1696,6 @@ translate turkish strings:
     old "Ask for your cut"
     new "Payını iste"
 
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "Wurst delivery tip"
-    new "Sosis teslimatı ipucu"
-
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a ${} as your cut of the tip."
-    new "Bahşişten payın olarak ${} aldın."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
 translate turkish sm1cs_mas003_third_delivery_7eec6586:
 

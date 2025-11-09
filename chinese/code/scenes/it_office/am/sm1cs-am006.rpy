@@ -997,10 +997,6 @@ translate chinese sm1cs_am006_arcade_b400fc7f:
 translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
-    old "That really sucks."
-    new "那可太倒霉了"
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
     old "Isn't the customer always right?"
     new "不是说‘客户永远是对的’吗？"
 
@@ -1013,28 +1009,8 @@ translate chinese strings:
     new "你是在跟我开玩笑，对吧？"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
-    old "You look great."
-    new "你看起来真迷人"
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
     old "I'm glad we both look good"
     new "真高兴我们俩今天都打扮得这么正式"
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
-    old "I hope it doesn't."
-    new "我希望这份好感不会消失"
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
-    old "Maybe."
-    new "或许吧"
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
-    old "Kiss April again."
-    new "再吻艾普尔一次"
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
-    old "Don't kiss April."
-    new "不吻艾普尔"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:54
 translate chinese sm1cs_am006_58ee8e36:

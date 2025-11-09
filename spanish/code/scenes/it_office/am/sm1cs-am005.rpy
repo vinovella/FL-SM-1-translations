@@ -942,14 +942,6 @@ translate spanish sm1cs_am005_walkout_df9591cc:
 
 translate spanish strings:
 
-    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
-    old "Push it."
-    new "Presiona"
-
-    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
-    old "Don't push it."
-    new "No lo presiones"
-
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:98
     old "Act evasive"
     new "Actuar evasivo"

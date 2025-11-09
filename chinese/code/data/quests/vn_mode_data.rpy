@@ -13,10 +13,6 @@
     new "遇见意外访客"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Denise, Kellie and Veronica's storyline"
-    new "推进丹尼斯、凯莉和维罗妮卡的故事线"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
     old "A call with AmRose"
     new "与爱洛丝通话"
 
@@ -55,10 +51,6 @@
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Have some fun with Stacy"
     new "与史黛西享受乐趣"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress the Theater and Taisia's storyline"
-    new "推进剧院和泰西娅的故事线"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Begin the renovation"
@@ -225,10 +217,6 @@
     new "与康雅的性感照片拍摄"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Lyssa's storyline and Main Story"
-    new "推进丽莎的故事线和主线剧情"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
     old "Show off your photo skills"
     new "展示你的摄影技能"
 
@@ -351,10 +339,6 @@
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Meet the client"
     new "会见客户"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Anna and Nari's storylines"
-    new "推进安娜和娜丽的故事线"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Problem at the IT Office"
@@ -511,10 +495,6 @@
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Group meeting"
     new "小组会议"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Denise, Kellie, Taisia and Veronica's storyline"
-    new "推进丹尼斯、凯莉、泰西娅和维罗妮卡的故事线"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Acting workshop"

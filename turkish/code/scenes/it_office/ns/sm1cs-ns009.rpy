@@ -1334,14 +1334,6 @@ translate turkish strings:
     old "Eat out Nari"
     new "Dışarıda yemek Nari"
 
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
-    old "Dominate Nari."
-    new "Nari'yi domine et."
-
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
-    old "Don't dominate Nari."
-    new "Nari'yi ezme."
-
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:647
     old "Let Nari ride you"
     new "Nari seni sürsün."

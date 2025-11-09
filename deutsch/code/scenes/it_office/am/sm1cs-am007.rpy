@@ -2570,10 +2570,6 @@ translate deutsch strings:
     old "You'll figure it out"
     new "Du wirst es schon herausfinden"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
-    old "Suprised it's taking you this long"
-    new "Überrascht, dass du so lange brauchst"
-
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "I have heard of the general concept"
     new "Ich habe von dem allgemeinen Konzept gehört"

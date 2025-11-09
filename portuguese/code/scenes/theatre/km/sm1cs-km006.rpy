@@ -3205,10 +3205,6 @@ translate portuguese sm1cs_km006_after_sex_353b9d2c:
 translate portuguese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:82
-    old "Sure. Just practicing."
-    new "Sure. Just practicing."
-
-    # game/code/scenes/theatre/km/sm1cs-km006.rpy:82
     old "You sound bitter about what we did"
     new "You sound bitter about what we did"
 

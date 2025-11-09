@@ -1936,10 +1936,6 @@ translate turkish strings:
     old "I don't want to waste your ammo"
     new "Mühimmatını boşa harcamak istemiyorum"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:478
-    old "Sure lets do it"
-    new "Tabii, yapalım"
-
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:633
     old "Later that evening"
     new "O akşam geç saatlerde"

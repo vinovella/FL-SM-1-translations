@@ -5,10 +5,6 @@ translate portuguese strings:
     new "Oi, [mcname!i]! Só queria dizer que fiquei super feliz que finalmente te contei tudo, e tô muito empolgada com esse futuro encontro 😜"
 
     # game/code/data/chat/chat_dc.rpy:3
-    old "Hey Debbie! Im glad we talked too. Im also pretty pumped for this date"
-    new "Oi Debbie! Tb gostei da conversa. Tb tô bem empolgado pro encontro"
-
-    # game/code/data/chat/chat_dc.rpy:3
     old "In fact, what are you doing tonight?"
     new "Aliás, tá fazendo o que essa noite?"
 
@@ -31,10 +27,6 @@ translate portuguese strings:
     new "Oi Debbie! 👋"
 
     # game/code/data/chat/chat_dc.rpy:41
-    old "Hey, [mcname!t]! What can I do for you?"
-    new "Oi, [mcname!t]! O que posso fazer por você?"
-
-    # game/code/data/chat/chat_dc.rpy:41
     old "Well I promised you a date and I was wondering if you'd want to go on a date soon? 😊"
     new "Bom eu te prometi um encontro, estava querendo saber se você vai querer sair em breve? 😊"
 
@@ -45,14 +37,6 @@ translate portuguese strings:
     # game/code/data/chat/chat_dc.rpy:41
     old "There's this nice restaurant... wanna go there?"
     new "Tem um restaurante legal... tá a fim de ir?"
-
-    # game/code/data/chat/chat_dc.rpy:41
-    old "It sounds like a date, [mcname!t] 😉"
-    new "Fechou então, [mcname!t] 😉"
-
-    # game/code/data/chat/chat_dc.rpy:41
-    old "I'll send  you the address! See you in a bit 😏"
-    new "Vou te mandar o endereço! A gente se vê 😏"
 
 translate portuguese strings:
 

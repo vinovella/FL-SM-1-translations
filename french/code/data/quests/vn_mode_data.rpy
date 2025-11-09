@@ -17,10 +17,6 @@
     new "Rencontrer un visiteur inattendu"
 
     # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Denise, Kellie and Veronica's storyline"
-    new "Avancer dans l'histoire de Denise, Kellie et Veronica"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
     old "A call with AmRose"
     new "Un appel avec AmRose"
 
@@ -59,10 +55,6 @@
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Have some fun with Stacy"
     new "S'amuser avec Stacy"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress the Theater and Taisia's storyline"
-    new "Avancer dans l'histoire du théâtre et de Taisia"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Begin the renovation"
@@ -131,10 +123,6 @@
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk about making a new move"
     new "Parler de faire un nouveau film"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Decide what movie to make"
-    new "Décider quel film tourner"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Stacy launched the S&M Website"
@@ -225,10 +213,6 @@
     new "Séance photo sexy avec Kanya"
 
     # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Lyssa's and Main storylines"
-    new "Avancer dans l'histoire de Lyssa et l'intrigue principale"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
     old "Show off your photo skills"
     new "Montrer tes talents en photo"
 
@@ -243,10 +227,6 @@
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Delivery with Maya"
     new "Livraison avec Maya"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Meet a old friend"
-    new "Rencontrer un vieil ami"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about Min"
@@ -339,10 +319,6 @@
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet the client"
     new "Rencontrer le client"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Anna and Nari's storylines"
-    new "Avancer dans l'histoire d'Anna et de Nari"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Problem at the IT Office"
@@ -461,10 +437,6 @@
     new "Heure de la rencontre"
 
     # game/code/data/quests/vn_mode_data.rpy:10
-    old "Suprise Nari at night"
-    new "Surprendre Nari la nuit"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
     old "Empty office\nAt night"
     new "Bureau vide\nLa nuit"
 
@@ -495,10 +467,6 @@
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Group meeting"
     new "Réunion de groupe"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Denise, Kellie, Taisia and Veronica's storyline"
-    new "Avancer dans l'histoire de Denise, Kellie, Taisia et Veronica"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Acting workshop"

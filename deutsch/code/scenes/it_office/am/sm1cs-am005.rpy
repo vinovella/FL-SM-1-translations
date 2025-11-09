@@ -942,14 +942,6 @@ translate deutsch sm1cs_am005_walkout_df9591cc:
 
 translate deutsch strings:
 
-    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
-    old "Push it."
-    new "Übertreibe."
-
-    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
-    old "Don't push it."
-    new "Übertreib es nicht."
-
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:98
     old "Act evasive"
     new "Ausweichend handeln"

@@ -12,10 +12,6 @@
     old "Days worked this week:"
     new "Bu hafta çalışılan gün sayısı:"
 
-    # game/code/renpy/screens/faction_it.rpy:41
-    old "Days"
-    new "Günler"
-
     # game/code/renpy/screens/faction_it.rpy:46
     old "Pay per day:"
     new "Günlük ödeme:"

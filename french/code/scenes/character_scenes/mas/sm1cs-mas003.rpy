@@ -1696,14 +1696,6 @@ translate french strings:
     old "Ask for your cut"
     new "Demander ta part"
 
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "Wurst delivery tip"
-    new "Pourboire livraison Wurst"
-
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a ${} as your cut of the tip."
-    new "Tu as reçu ${} comme ta part du pourboire."
-
 #Translate by BlackViper_
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586

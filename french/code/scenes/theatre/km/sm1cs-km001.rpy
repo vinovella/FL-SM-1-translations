@@ -510,14 +510,6 @@ translate french sm1cs_km001_e1a4d150:
 
 translate french strings:
 
-    # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
-    old "I'll go easy on you."
-    new "Je vais y aller doucement avec toi."
-
-    # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
-    old "Let's dance, Kellie."
-    new "Allons danser, Kellie."
-
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:189
     old "Distract her with flirting"
     new "La distraire en la draguant"

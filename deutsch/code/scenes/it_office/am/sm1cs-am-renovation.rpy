@@ -675,28 +675,12 @@ translate deutsch strings:
     new "Schüttel es ab"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
-    old "I didn't think to ask."
-    new "Ich habe nicht daran gedacht, zu fragen."
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "You want to help?"
     new "Du möchtest helfen?"
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Ask April what she did."
-    new "Frag April, was sie gemacht hat."
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Complain to April."
-    new "Beschwere dich bei April."
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Lie"
     new "Lüge"
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
-    old "Promise the answer one day."
-    new "Versprich mir, dass du mir eines Tages antworten wirst."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:233
 translate deutsch sm1cs_am_renovation_later_e7545316:

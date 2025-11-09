@@ -652,10 +652,6 @@ translate french strings:
     old "Practicing kisses?"
     new "Vous vous entraînez à embrasser ?"
 
-    # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30
-    old "There must be a special form."
-    new "Il doit y avoir une formule spéciale."
-
 #Translate by BlackViper_
 
 translate french strings:

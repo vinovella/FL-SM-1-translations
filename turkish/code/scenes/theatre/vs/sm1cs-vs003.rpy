@@ -1570,10 +1570,6 @@ translate turkish strings:
     old "What's wrong with my delivery?"
     new "Teslimatımda ne sorun var?"
 
-    # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:121
-    old "Sounds good, Veronica."
-    new "Güzel görünüyor, Veronica."
-
     # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:175
     old "A half an hour later"
     new "Yarım saat sonra"

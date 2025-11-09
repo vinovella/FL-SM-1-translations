@@ -1950,10 +1950,6 @@ translate spanish strings:
     old "I'd actually prefer it if you used my name"
     new "En realidad preferiría que usaras mi nombre"
 
-    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:721
-    old "How about instead, you call me..."
-    new "Qué tal si en vez de eso, me llamas..."
-
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:723
     old "Master"
     new "Maestro"
@@ -1961,8 +1957,4 @@ translate spanish strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:732
     old "Sir"
     new "Señor"
-
-    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:750
-    old "Please enter your BDSM nickname"
-    new "Por favor, introduzca su apodo BDSM"
 

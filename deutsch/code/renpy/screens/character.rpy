@@ -16,10 +16,6 @@
     old "Fetishes"
     new "Fetische"
 
-    # game/code/renpy/screens/character.rpy:59
-    old "Progress "
-    new "Fortschritt "
-
 translate deutsch strings:
 
     # game/code/renpy/screens/character.rpy:59

@@ -675,10 +675,6 @@ translate turkish strings:
     new "Salla gitsin"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
-    old "I didn't think to ask."
-    new "Sormayı düşünmedim."
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "You want to help?"
     new "Yardım etmek ister misin?"
 
@@ -686,21 +682,9 @@ translate turkish strings:
     old "A few minutes later"
     new "Birkaç dakika sonra"
 
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Ask April what she did."
-    new "April'a ne yaptığını sor."
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Complain to April."
-    new "April'a şikayet et."
-
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Lie"
     new "Yalan söyle"
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
-    old "Promise the answer one day."
-    new "Bir gün cevap vereceğine söz ver."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:233
 translate turkish sm1cs_am_renovation_later_e7545316:

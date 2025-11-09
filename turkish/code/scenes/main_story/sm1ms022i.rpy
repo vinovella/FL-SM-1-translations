@@ -66,10 +66,6 @@ translate turkish strings:
     old "Kanya's compensation"
     new "Kanya'nın tazminatı"
 
-    # game/code/scenes/main_story/sm1ms022i.rpy:12
-    old "You gave $200 to Kanya for the shoot"
-    new "Çekim için Kanya'ya 200 dolar verdin"
-
 translate turkish strings:
 
     # game/code/scenes/main_story/sm1ms022i.rpy:12

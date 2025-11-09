@@ -1,9 +1,5 @@
 ﻿translate deutsch strings:
 
-    # game/code/renpy/screens/others.rpy:27
-    old "Sync your saves using Ren'Py Sync server"
-    new "Synchronisiere deine Speicherstände mit dem Ren'Py Sync-Server"
-
     # game/code/renpy/screens/others.rpy:29
     old "Upload Saves"
     new "Speicherstände hochladen"

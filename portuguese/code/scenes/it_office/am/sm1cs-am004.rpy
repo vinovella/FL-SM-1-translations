@@ -1614,10 +1614,6 @@ translate portuguese sm1cs_am004_after_spank_17b0592e:
 
 translate portuguese strings:
 
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
-    old "Later that evening\nAt Guns 'n Rosette'"
-    new "Mais tarde\nNo Guns 'não Rosette"
-
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:66
     old "Are you nervous to play for me?"
     new "Tá nervosa de tocar pra mim?"

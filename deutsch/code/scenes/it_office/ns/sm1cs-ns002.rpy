@@ -811,10 +811,6 @@ translate deutsch sm1cs_ns002_6ff41185:
 translate deutsch strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
-    old "I don't need to know."
-    new "Ich muss das nicht wissen"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "You can tell me what happened"
     new "Du kannst mir erzählen, was passiert ist"
 

@@ -652,10 +652,6 @@ translate spanish strings:
     old "Practicing kisses?"
     new "¿Practicando besos?"
 
-    # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30
-    old "There must be a special form."
-    new "Debe haber una forma especial."
-
 translate spanish strings:
 
     # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30

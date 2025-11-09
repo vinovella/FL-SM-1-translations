@@ -12,10 +12,6 @@ translate spanish strings:
     old "Messenger"
     new "Mensajero"
 
-    # game/code/renpy/screens/phone.rpy:58
-    old "VN Mode"
-    new "Modo Novela Visual"
-
     # game/code/renpy/screens/phone.rpy:64
     old "Quick Save"
     new "Guardado rápido"

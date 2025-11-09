@@ -125,10 +125,6 @@ translate spanish strings:
     new "Piercing facial"
 
     # game/code/data/constants/traits.rpy:82
-    old "Nipples Piercing"
-    new "Piercing en los pezones"
-
-    # game/code/data/constants/traits.rpy:82
     old "Genital Piercing"
     new "Perforación genital"
 

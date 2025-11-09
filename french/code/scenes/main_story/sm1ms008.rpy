@@ -875,14 +875,6 @@ translate french strings:
     new "Au Photo Dojo"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "You should stick with red hair."
-    new "Tu devrais garder les cheveux roux."
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "I think it will do nicely for the scene."
-    new "Je pense que ça ira parfaitement pour la scène."
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I'm glad it's temporary"
     new "Je suis content que ce soit temporaire"
 

@@ -12,10 +12,6 @@
     old "Messenger"
     new "Haberci"
 
-    # game/code/renpy/screens/phone.rpy:58
-    old "VN Mode"
-    new "VN Mod"
-
     # game/code/renpy/screens/phone.rpy:64
     old "Quick Save"
     new "Hızlı Kaydet"

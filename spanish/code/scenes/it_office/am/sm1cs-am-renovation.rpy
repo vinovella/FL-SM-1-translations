@@ -675,10 +675,6 @@ translate spanish strings:
     new "Quitárselo de encima"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
-    old "I didn't think to ask."
-    new "No pensé en preguntar."
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "You want to help?"
     new "¿Quieres ayudar?"
 
@@ -686,21 +682,9 @@ translate spanish strings:
     old "A few minutes later"
     new "Unos minutos más tarde"
 
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Ask April what she did."
-    new "Pregúntale a April qué hizo."
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Complain to April."
-    new "Quéjate con April."
-
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Lie"
     new "Mentir"
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
-    old "Promise the answer one day."
-    new "Prometo la respuesta algún día."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:233
 translate spanish sm1cs_am_renovation_later_e7545316:

@@ -1,84 +1,12 @@
 ﻿translate italian strings:
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Go to IT job interview"
-    new "Go to IT job interview"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Enter Orbix for interview"
-    new "Enter Orbix for interview"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Go to the Second interview on Monday"
-    new "Go to the Second interview on Monday"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Go to the Second interview in the morning"
-    new "Go to the Second interview in the morning"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Closed during weekend"
-    new "Closed during weekend"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Enter Orbix during Morning for interview"
-    new "Enter Orbix during Morning for interview"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Progress Main Story"
     new "Progress Main Story"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Go sleep before first working day"
-    new "Go sleep before first working day"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Progress {}/3 Nari's scenes"
-    new "Progress {}/3 Nari's scenes"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Progress 0/1 Anna's scene"
-    new "Progress 0/1 Anna's scene"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Progress {}/3 Nari's scenes and 0/1 Anna's scene"
-    new "Progress {}/3 Nari's scenes and 0/1 Anna's scene"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Progress 3/3 Nari's scenes and 1/1 Anna's scene"
-    new "Progress 3/3 Nari's scenes and 1/1 Anna's scene"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Work at Orbix"
     new "Work at Orbix"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work Orbix job 40/40 times and finish renovations"
-    new "Work Orbix job 40/40 times and finish renovations"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work Orbix job {}/40 times and finish renovations"
-    new "Work Orbix job {}/40 times and finish renovations"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Finish renovations"
-    new "Finish renovations"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work Orbix job {}/40 times"
-    new "Work Orbix job {}/40 times"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Get at least {}/15 total Relationship Points with characters in Orbix"
-    new "Get at least {}/15 total Relationship Points with characters in Orbix"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Get at least 15 total Relationship Points with characters in Orbix"
-    new "Get at least 15 total Relationship Points with characters in Orbix"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "This quest line will continue in the next release"
-    new "This quest line will continue in the next release"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get 2 Relationship Points by interacting with Nari"
@@ -93,20 +21,8 @@
     new "Advance the IT Faction storyline"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Talk with Nari in the morning at work after getting 8 Relationship Points"
-    new "Talk with Nari in the morning at work after getting 8 Relationship Points"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Get 10 Relationship Points with Nari then work at Orbix"
-    new "Get 10 Relationship Points with Nari then work at Orbix"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Get 12 Relationship Points with Nari"
     new "Get 12 Relationship Points with Nari"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Talk with Nari before work at Orbix"
-    new "Talk with Nari before work at Orbix"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Go to Orbix in the evening"
@@ -131,14 +47,6 @@
     # game/code/data/quests/quests_it.rpy:3
     old "Talk with Stacy about Nari"
     new "Talk with Stacy about Nari"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Text Nari during the evening"
-    new "Text Nari during the evening"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Finish renovation"
-    new "Finish renovation"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Talk with Nari"
@@ -185,10 +93,6 @@
     new "Talk with Anna during the day"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Progress Orbix's storyline"
-    new "Progress Orbix's storyline"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Work at Orbix {}/20 times"
     new "Work at Orbix {}/20 times"
 
@@ -201,10 +105,6 @@
     new "Ask Claire about Anna"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Find Anna in coffee shop"
-    new "Find Anna in coffee shop"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Get 2 Relationship Points with April, then work at Orbix"
     new "Get 2 Relationship Points with April, then work at Orbix"
 
@@ -215,14 +115,6 @@
     # game/code/data/quests/quests_it.rpy:3
     old "Find April in the park during the day"
     new "Find April in the park during the day"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Talk to April during the evening in Orbix on Monday or Thursday"
-    new "Talk to April during the evening in Orbix on Monday or Thursday"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Get 8 Relationship Points with April, then talk with her"
-    new "Get 8 Relationship Points with April, then talk with her"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Talk with April when she is working"

@@ -69,10 +69,6 @@
     new "Bon..."
 
     # game/code/data/chat/chat_mes.rpy:58
-    old "Nevermind. Are you down or not?"
-    new "Laisse tomber. Alors, tu viens ou pas ?"
-
-    # game/code/data/chat/chat_mes.rpy:58
     old "Yes, Min. Send me the details."
     new "Oui, Min. Envoie-moi les détails."
 

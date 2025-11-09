@@ -580,14 +580,6 @@ translate spanish strings:
     old "Do you know anyone hiring?"
     new "¿Conoces a alguien que esté contratando?"
 
-    # game/code/scenes/theatre/sm1fs-t005.rpy:97
-    old "I'm sure you did your best, Denise."
-    new "Estoy seguro de que hiciste tu mejor esfuerzo, Denise."
-
-    # game/code/scenes/theatre/sm1fs-t005.rpy:97
-    old "Say nothing."
-    new "No decir nada."
-
 translate spanish strings:
 
     # game/code/scenes/theatre/sm1fs-t005.rpy:97

@@ -1950,10 +1950,6 @@ translate chinese strings:
     old "I'd actually prefer it if you used my name"
     new "其实，我更希望你直接叫我名字"
 
-    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:721
-    old "How about instead, you call me..."
-    new "或者，你可以叫我..."
-
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:723
     old "Master"
     new "主人"
@@ -1961,8 +1957,4 @@ translate chinese strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:732
     old "Sir"
     new "主人"
-
-    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:750
-    old "Please enter your BDSM nickname"
-    new "请输入你的BDSM昵称"
 

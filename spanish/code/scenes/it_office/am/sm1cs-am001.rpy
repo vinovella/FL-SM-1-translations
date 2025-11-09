@@ -754,10 +754,6 @@ translate spanish strings:
     old "I want to make sure it's correct"
     new "Quiero asegurarme de que todo esté bien"
 
-    # game/code/scenes/it_office/am/sm1cs-am001.rpy:280
-    old "No, I just thought you could use a break."
-    new "No, sólo pensé que te vendría bien un descanso"
-
     # game/code/scenes/it_office/am/sm1cs-am001.rpy:326
     old "Simple mistake"
     new "Un simple error"

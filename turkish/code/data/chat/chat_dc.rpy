@@ -5,10 +5,6 @@
     new "Hey, [mcname!i]! Sonunda sana her şeyi anlattığım için çok mutlu olduğumu ve gelecekteki randevu için gerçekten heyecanlandığımı söylemek istedim! 😜"
 
     # game/code/data/chat/chat_dc.rpy:3
-    old "Hey Debbie! Im glad we talked too. Im also pretty pumped for this date"
-    new "Hey Debbie! Konuştuğumuza da sevindim. Ben de bu randevu için oldukça heyecanlıyım."
-
-    # game/code/data/chat/chat_dc.rpy:3
     old "In fact, what are you doing tonight?"
     new "Aslında, bu gece ne yapıyorsun?"
 
@@ -29,10 +25,6 @@
     new "Selam Debbie! 👋"
 
     # game/code/data/chat/chat_dc.rpy:41
-    old "Hey, [mcname!t]! What can I do for you?"
-    new "Selam, [mcname!t]! Senin için ne yapabilirim?"
-
-    # game/code/data/chat/chat_dc.rpy:41
     old "Well I promised you a date and I was wondering if you'd want to go on a date soon? 😊"
     new "Sana bir randevu sözü verdim ve merak ediyordum da yakın zamanda bir randevuya çıkmak ister misin? 😊"
 
@@ -43,14 +35,6 @@
     # game/code/data/chat/chat_dc.rpy:41
     old "There's this nice restaurant... wanna go there?"
     new "Güzel bir restoran var... Oraya gitmek ister misin?"
-
-    # game/code/data/chat/chat_dc.rpy:41
-    old "It sounds like a date, [mcname!t] 😉"
-    new "Bir randevuya benziyor, [mcname!t] 😉"
-
-    # game/code/data/chat/chat_dc.rpy:41
-    old "I'll send  you the address! See you in a bit 😏"
-    new "Sana adresi göndereceğim! Birazdan görüşürüz 😏"
 
 translate turkish strings:
 

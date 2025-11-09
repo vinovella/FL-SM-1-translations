@@ -12,10 +12,6 @@
     old "Messenger"
     new "Messenger"
 
-    # game/code/renpy/screens/phone.rpy:63
-    old "VN Mode"
-    new "VN-Modus"
-
     # game/code/renpy/screens/phone.rpy:69
     old "Quick Save"
     new "Schnellspeichern"

@@ -71,10 +71,6 @@ translate portuguese strings:
     new "Bom."
 
     # game/code/data/chat/chat_mes.rpy:58
-    old "Nevermind. Are you down or not?"
-    new "Deixa pra lá. Vem ou não?"
-
-    # game/code/data/chat/chat_mes.rpy:58
     old "Yes, Min. Send me the details."
     new "Sim, Min. Manda os detalhes."
 
@@ -153,14 +149,6 @@ translate portuguese strings:
     new "Tenho que estudar. Mas vou te dar uma coisinha pra você ir aguentando."
 
     # game/code/data/chat/chat_mes.rpy:112
-    old "❤️"
-    new "❤️"
-
-    # game/code/data/chat/chat_mes.rpy:112
-    old "Wish you could be here to warm my body."
-    new "Queria que você estivesse aqui pra esquentar o meu corpo."
-
-    # game/code/data/chat/chat_mes.rpy:112
     old "Let's arrange that soon."
     new "Vamos combinar isso logo logo."
 
@@ -183,10 +171,6 @@ translate portuguese strings:
     # game/code/data/chat/chat_mes.rpy:258
     old "Haha. You really have a one-track mind."
     new "Haha. Você só pensa em uma coisa mesmo."
-
-    # game/code/data/chat/chat_mes.rpy:258
-    old "I was thinking of a game night. You, Stacy and I."
-    new "Estava pensando na noite de jogos. Eu, você e Stacy."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Sounds fun. I didn't think you'd want Stacy involved?"
@@ -223,10 +207,6 @@ translate portuguese strings:
     # game/code/data/chat/chat_mes.rpy:258
     old "All you need to do is come over."
     new "É só você aparecer."
-
-    # game/code/data/chat/chat_mes.rpy:258
-    old "Alright, this evening works?"
-    new "Beleza, pode ser no fim da tarde?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Perfect. See you then."

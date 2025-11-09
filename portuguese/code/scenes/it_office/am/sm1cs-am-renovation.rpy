@@ -675,10 +675,6 @@ translate portuguese strings:
     new "Deixar para lá"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
-    old "I didn't think to ask."
-    new "Não pensei em perguntar."
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "You want to help?"
     new "Quer ajudar?"
 
@@ -686,21 +682,9 @@ translate portuguese strings:
     old "A few minutes later"
     new "Alguns minutos depois"
 
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Ask April what she did."
-    new "Perguntar o que April fez."
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Complain to April."
-    new "Reclamar com April."
-
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Lie"
     new "Mentir"
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
-    old "Promise the answer one day."
-    new "Prometer responder um dia."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:233
 translate portuguese sm1cs_am_renovation_later_e7545316:

@@ -729,10 +729,6 @@ translate turkish strings:
     new "Bunda hemfikiriz."
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
-    old "I had to come here for work."
-    new "İş için buraya gelmek zorunda kaldım."
-
-    # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
     old "I wanted to check on you"
     new "Seni kontrol etmek istedim."
 

@@ -12,10 +12,6 @@
     old "You don't have enough money"
     new "Tu n'as pas assez d'argent"
 
-    # game/code/classes/movie_controllers.rpy:73
-    old "Add ${amount} to {budget_name}"
-    new "Ajoute ${amount} à {budget_name}"
-
     # game/code/classes/movie_controllers.rpy:86
     old "You have filled the energy bar already"
     new "Tu as déjà rempli la barre d'énergie"
@@ -31,22 +27,9 @@
     # game/code/classes/movie_controllers.rpy:92
     old "You can only work from the Studio"
     new "Tu ne peux travailler que depuis le studio"
-
-    # game/code/classes/movie_controllers.rpy:94
-    old "Add {amount} to {energy_name}"
-    new "Ajoute {amount} à {energy_name}"
-
-#Translate by BlackViper_
-
-translate french strings:
-
     # game/code/classes/movie_controllers.rpy:37
     old "Movie royalty"
     new "Movie royalty"
-
-    # game/code/classes/movie_controllers.rpy:40
-    old "{} release"
-    new "{} release"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Budget"
@@ -80,15 +63,9 @@ translate french strings:
     old "CGI Budget"
     new "CGI Budget"
 
-    # game/code/classes/movie_controllers.rpy:150
-    old "Spend {amount} Energy in {energy_name}"
-    new "Spend {amount} Energy in {energy_name}"
-
     # game/code/classes/movie_controllers.rpy:227
     old "Sci-Fi Movie"
     new "Sci-Fi Movie"
-
-translate french strings:
 
     # game/code/classes/movie_controllers.rpy:40
     old "[movie] release"
@@ -101,4 +78,7 @@ translate french strings:
     # game/code/classes/movie_controllers.rpy:150
     old "Spend [amount] Energy in [energy_name!t]"
     new "Spend [amount] Energy in [energy_name!t]"
+
+#Translate by BlackViper_
+
 

@@ -691,18 +691,6 @@ translate chinese sm1fs_i004_9f0edafa:
 translate chinese strings:
 
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "I do, I love Kikini Bill."
-    new "是啊，我超喜欢比基尼・比尔乐队。"
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "Uh, yep! Totally."
-    new "呃，没错！我可喜欢了。"
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "I don't mind some... Punk rock."
-    new "我不介意听...朋克摇滚。"
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "I'd rather listen to classic rock!"
     new "我宁愿听经典摇滚！"
 

@@ -1614,10 +1614,6 @@ translate spanish sm1cs_am004_after_spank_17b0592e:
 
 translate spanish strings:
 
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
-    old "Later that evening\nAt Guns 'n Rosette'"
-    new "Más tarde esa noche \ nat Guns 'n rosette'"
-
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:66
     old "Are you nervous to play for me?"
     new "¿Estás nerviosa por jugar para mí?"

@@ -472,22 +472,6 @@ translate french sm1ms026_end_d05cfa21:
     # sy "God only knows..."
     sy "Dieu seul le sait…"
 
-translate french strings:
-
-    # game/code/scenes/main_story/sm1ms026.rpy:67
-    old "Pirates"
-    new "Pirates"
-
-    # game/code/scenes/main_story/sm1ms026.rpy:229
-    old "Talk about Sci Fi film"
-    new "Parler du film de science-fiction"
-
-    # game/code/scenes/main_story/sm1ms026.rpy:229
-    old "That's enough planning for now"
-    new "C’est assez de planification pour le moment"
-
-#Translate by BlackViper_
-
 # game/code/scenes/main_story/sm1ms026.rpy:55
 translate french sm1ms026_62fa9484:
 

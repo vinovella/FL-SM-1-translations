@@ -28,10 +28,6 @@
     old "None"
     new "None"
 
-    # game/code/renpy/screens/gallery.rpy:112
-    old "Close"
-    new "Close"
-
     # game/code/renpy/screens/gallery.rpy:141
     old "Prev"
     new "Prev"

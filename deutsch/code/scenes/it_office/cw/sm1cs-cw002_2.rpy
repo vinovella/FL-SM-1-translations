@@ -886,21 +886,9 @@ translate deutsch strings:
     old "After a tense lunch"
     new "Nach einem angespannten Mittagessen"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "It was fine."
-    new "Es war in Ordnung."
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "Sorry, Claire."
-    new "Entschuldige, Claire."
-
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Anything for my 'girlfriend'"
     new "Alles für meine „Freundin“"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
-    old "Don't mention it, Ms. Watts."
-    new "Gern geschehen, Frau Watts."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:57
 translate deutsch sm1cs_cw002_2_de7b5f54:

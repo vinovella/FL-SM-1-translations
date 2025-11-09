@@ -17,10 +17,6 @@
     new "Beklenmedik bir ziyaretçiyle tanış"
 
     # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Denise, Kellie and Veronica's storyline"
-    new "Denise, Kellie ve Veronica'nın hikayesini ilerlet"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
     old "A call with AmRose"
     new "AmRose ile bir telefon görüşmesi"
 
@@ -59,10 +55,6 @@
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Have some fun with Stacy"
     new "Stacy ile biraz eğlen"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress the Theater and Taisia's storyline"
-    new "Tiyatro ve Taisia'nın hikayesini ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Begin the renovation"
@@ -213,10 +205,6 @@
     new "Kanya ile seksi fotoğraf çekimi"
 
     # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Lyssa's and Main storylines"
-    new "Lyssa'nın ve ana hikayenin ilerlemesi"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
     old "Show off your photo skills"
     new "Fotoğrafçılık yeteneklerini göster"
 
@@ -231,10 +219,6 @@
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Delivery with Maya"
     new "Maya ile teslimat"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Meet a old friend"
-    new "Eski bir arkadaşla buluş"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about Min"
@@ -311,10 +295,6 @@
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet the client"
     new "Müşteri ile tanış"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Anna and Nari's storylines"
-    new "Anna ve Nari'nin hikayesini ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Night out at the bar"
@@ -417,10 +397,6 @@
     new "Toplantı zamanı"
 
     # game/code/data/quests/vn_mode_data.rpy:10
-    old "Suprise Nari at night"
-    new "Gece Nari'ye sürpriz yap"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
     old "Empty office\nAt night"
     new "Boş ofis\nGece"
 
@@ -451,10 +427,6 @@
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Group meeting"
     new "Grup toplantısı"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Denise, Kellie, Taisia and Veronica's storyline"
-    new "Denise, Kellie, Taisia ve Veronica'nın hikayesini ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Acting workshop"
@@ -727,10 +699,6 @@ translate turkish strings:
     new "Watch the final cut"
 
 translate turkish strings:
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Lyssa's storyline and Main Story"
-    new "Progress Lyssa's storyline and Main Story"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Meet an old friend"

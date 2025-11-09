@@ -40,14 +40,6 @@ translate portuguese strings:
     old "Starducks Café"
     new "Cafeteria Starducks"
 
-    # game/code/data/constants/location_constants.rpy:186
-    old "Lysa's House"
-    new "Casa da Lyssa"
-
-    # game/code/data/constants/location_constants.rpy:194
-    old "Guns n' Rossette's"
-    new "Guns n' Rosette"
-
 translate portuguese strings:
 
     # game/code/data/constants/location_constants.rpy:189

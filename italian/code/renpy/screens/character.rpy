@@ -16,10 +16,6 @@
     old "Fetishes"
     new "Fetishes"
 
-    # game/code/renpy/screens/character.rpy:59
-    old "Progress "
-    new "Progress "
-
 translate italian strings:
 
     # game/code/renpy/screens/character.rpy:59

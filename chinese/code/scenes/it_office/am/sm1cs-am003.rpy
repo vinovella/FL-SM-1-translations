@@ -729,10 +729,6 @@ translate chinese strings:
     new "这点我们倒是能达成共识"
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
-    old "I had to come here for work."
-    new "我是因为工作才来这儿的"
-
-    # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
     old "I wanted to check on you"
     new "我想来看看你"
 

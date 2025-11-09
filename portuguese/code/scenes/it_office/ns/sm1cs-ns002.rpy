@@ -811,10 +811,6 @@ translate portuguese sm1cs_ns002_6ff41185:
 translate portuguese strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
-    old "I don't need to know."
-    new "Não preciso saber"
-
-    # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "You can tell me what happened"
     new "Pode me falar o que aconteceu"
 

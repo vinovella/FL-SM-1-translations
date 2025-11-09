@@ -942,14 +942,6 @@ translate chinese sm1cs_am005_walkout_df9591cc:
 
 translate chinese strings:
 
-    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
-    old "Push it."
-    new "再加把劲"
-
-    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
-    old "Don't push it."
-    new "别太过分"
-
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:98
     old "Act evasive"
     new "含糊其辞"

@@ -2395,28 +2395,6 @@ translate italian sm1cs_mh009_sy_entrance_43867854:
 translate italian strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:330
-    old "Per favore inserisci un nome per Lyssa durante il gioco di ruolo"
-    new "Per favore inserisci un nome per Lyssa durante il gioco di ruolo"
-
-    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:469
-    old "Sono un fan!"
-    new "Sono un fan!"
-
-    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:469
-    old "I giochi d'acqua non sono proprio la mia cosa"
-    new "I giochi d'acqua non sono proprio la mia cosa"
-
-    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:920
-    old "Sii giocoso"
-    new "Sii giocoso"
-
-    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:920
-    old "Sii dominante"
-    new "Sii dominante"
-
-translate italian strings:
-
-    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:330
     old "Please enter a name for Lyssa during roleplay"
     new "Per favore inserisci un nome per Lyssa durante il gioco di ruolo"
 

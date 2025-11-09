@@ -1950,10 +1950,6 @@ translate french strings:
     old "I'd actually prefer it if you used my name"
     new "Je préférerais que tu utilises mon prénom"
 
-    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:721
-    old "How about instead, you call me..."
-    new "Et si, à la place, tu m’appelais..."
-
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:723
     old "Master"
     new "Maître"
@@ -1961,9 +1957,5 @@ translate french strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:732
     old "Sir"
     new "Monsieur"
-
-    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:750
-    old "Please enter your BDSM nickname"
-    new "Entre ton surnom BDSM"
 
 #Translate by BlackViper_

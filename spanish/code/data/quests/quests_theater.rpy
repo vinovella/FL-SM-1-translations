@@ -1,24 +1,8 @@
 translate spanish strings:
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Invite Stacy to Amusement Park during the day"
-    new "Invitar a Stacy al Parque de Atracciones durante el día"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Stacy during day timeslot to interview Taisia"
-    new "Habla con Stacy durante el horario diurno para entrevistar a Taisia"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Main Storyline"
-    new "Avanza en la historia principal"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Go to the Theater"
     new "Ve al teatro"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Go to the Theater for audition during the Day timeslot"
-    new "Ve al teatro para la audición durante la franja horaria diurna"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress the individual storylines for the Theater girls"
@@ -29,32 +13,8 @@ translate spanish strings:
     new "Habla con Denise"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Veronica and Kellie story line"
-    new "Avanza en la historia de Veronica y Kellie"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do Saturday show at least {}/3 times"
-    new "Realizar el espectáculo del sábado al menos {}/3 veces"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have {}/10 total Relationship Points with Theater girls"
-    new "Tener {}/10 puntos de relación total con las chicas del teatro"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do Saturday show at least {}/3 times and have {}/10 total Relationship Points with Theater girls"
-    new "Haz el espectáculo del sábado al menos {}/3 veces y ten {}/10 puntos de relación en total con las chicas del teatro"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Read message from Denise"
     new "Leer el mensaje de Denise"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Visit Theater at Noon"
-    new "Visita el teatro al mediodía"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Kelly at her dressing room"
-    new "Habla con Kelly en su vestidor"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress the Theater storyline"
@@ -77,28 +37,12 @@ translate spanish strings:
     new "Habla con Kellie"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Veronica's story"
-    new "Avanza la historia de Verónica"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Text Kellie"
     new "Envía un mensaje a Kellie"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Denise in her office"
     new "Habla con Denise en su oficina"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk with Taisia about \"work\" during the day time"
-    new "Habla con Taisia sobre el \"trabajo\" durante el día"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$50 and talk with Taisia when she is in front of the stage"
-    new "Tener ${}/$50 y habla con Taisia cuando esté frente al escenario"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have $50 and talk with Taisia when she is in front of the stage"
-    new "Tener $50 y hablar con Taisia cuando esté frente al escenario"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have ${}/$100 and invite Taisia to make a film"
@@ -129,36 +73,16 @@ translate spanish strings:
     new "Envíale un mensaje a Taisia para que se reúna con Stacy"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Veronica at the Stage"
-    new "Habla con Verónica en el escenario"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica"
     new "Habla con Verónica"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Buy the 'Stars Weekly' Magazin from the store"
-    new "Compra la revista 'Stars Weekly' en la tienda"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Get your Film and TV Topic to 3"
-    new "Lleva tu Tema de Cine y TV al 3"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Kellie's storyline"
     new "Avanza la historia de Kellie"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Veronica on the Stage"
-    new "Habla con Veronica en el escenario"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Do the rehearsal on {}"
     new "Hacer el ensayo en {}"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Kellie's story"
-    new "Avanza la historia de Kellie"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Wait for Veronica to text you"
@@ -171,20 +95,12 @@ translate spanish strings:
 translate spanish strings:
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Veronica's story line"
-    new "Progress Veronica's story line"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica in the afternoon"
     new "Talk to Veronica in the afternoon"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kellie in the afternoon at Theater"
     new "Talk to Kellie in the afternoon at Theater"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "This quest line is finished for this game"
-    new "This quest line is finished for this game"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia about moving in"
@@ -205,30 +121,14 @@ translate spanish strings:
 translate spanish strings:
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Denise's story line"
-    new "Progress Denise's story line"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Nelson about sponsoring the new show"
     new "Talk to Nelson about sponsoring the new show"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Denise about the Wurst Delivery Sponsorship in her office"
-    new "Talk to Denise about the Wurst Delivery Sponsorship in her office"
 
 translate spanish strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Stacy during the day to interview Taisia"
     new "Talk to Stacy during the day to interview Taisia"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Go to the Theater for audition during the day"
-    new "Go to the Theater for audition during the day"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Progress Veronica and Kellie storyline"
-    new "Progress Veronica and Kellie storyline"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Denise's storyline"
@@ -259,16 +159,8 @@ translate spanish strings:
     new "Finish texting Taisia"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Go to Theater to meet Taisia"
-    new "Go to Theater to meet Taisia"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica at the stage"
     new "Talk to Veronica at the stage"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Buy the 'Stars Weekly' Magazine from the store"
-    new "Buy the 'Stars Weekly' Magazine from the store"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica on the stage"

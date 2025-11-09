@@ -498,20 +498,6 @@ translate turkish sm1cs_kv001_ending_ad25f2ce:
 
 translate turkish strings:
 
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:6
-    old "BOOK NAME"
-    new "KİTAP ADI"
-
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
-    old "Sure, I'm interested in how a photoshoot like this works."
-    new "Tabii, böyle bir fotoğraf çekiminin nasıl yapıldığını merak ediyorum."
-
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
-    old "Oh, I'll give you some space."
-    new "Oh, sana biraz alan vereceğim."
-
-translate turkish strings:
-
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
     old "Sure, I'm interested in how a photoshoot like this works"
     new "Sure, I'm interested in how a photoshoot like this works"

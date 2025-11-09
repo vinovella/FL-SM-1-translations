@@ -1,10 +1,6 @@
 translate spanish strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
-    old "Main Story"
-    new "Historia principal"
-
-    # game/code/data/quests/line_list_quests.rpy:5
     old "Unlock more jobs"
     new "Desbloquear más trabajos"
 
@@ -75,10 +71,6 @@ translate spanish strings:
     # game/code/data/quests/line_list_quests.rpy:5
     old "Denise's story"
     new "La historia de Denise"
-
-    # game/code/data/quests/line_list_quests.rpy:5
-    old "Kelly's story"
-    new "La historia de Kelly"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Taisia's story"

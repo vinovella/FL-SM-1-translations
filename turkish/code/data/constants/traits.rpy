@@ -125,10 +125,6 @@
     new "Yüz Piercingi"
 
     # game/code/data/constants/traits.rpy:82
-    old "Nipples Piercing"
-    new "Meme Ucu Piercingi"
-
-    # game/code/data/constants/traits.rpy:82
     old "Genital Piercing"
     new "Vajina Piercingi"
 

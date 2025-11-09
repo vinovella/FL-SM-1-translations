@@ -997,10 +997,6 @@ translate turkish sm1cs_am006_arcade_b400fc7f:
 translate turkish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
-    old "That really sucks."
-    new "Bu gerçekten berbat."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
     old "Isn't the customer always right?"
     new "Müşteri her zaman haklı değil midir?"
 
@@ -1013,28 +1009,8 @@ translate turkish strings:
     new "Benimle dalga geçiyorsun, değil mi?"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
-    old "You look great."
-    new "Harika görünüyorsun."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
     old "I'm glad we both look good"
     new "İkimiz de iyi göründüğümüz için mutluyum."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:565
-    old "I hope it doesn't."
-    new "Umarım olmaz."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:565
-    old "Maybe."
-    new "Belki."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
-    old "Kiss April again."
-    new "April'ı tekrar öp."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
-    old "Don't kiss April."
-    new "April'ı öpme."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:54
 translate turkish sm1cs_am006_58ee8e36:

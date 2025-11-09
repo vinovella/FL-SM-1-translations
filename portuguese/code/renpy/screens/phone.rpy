@@ -12,10 +12,6 @@ translate portuguese strings:
     old "Messenger"
     new "Messenger"
 
-    # game/code/renpy/screens/phone.rpy:58
-    old "VN Mode"
-    new "Modo VN"
-
     # game/code/renpy/screens/phone.rpy:64
     old "Quick Save"
     new "Save Rápido"

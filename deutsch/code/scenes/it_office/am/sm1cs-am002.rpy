@@ -499,20 +499,8 @@ translate deutsch sm1cs_am002_bf8549a7:
 translate deutsch strings:
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
-    old "You should watch where you're going."
-    new "Du solltest aufpassen, wo du hingehst."
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
     old "April, you okay?"
     new "April, alles in Ordnung?"
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
-    old "She's a fucking menace."
-    new "Sie ist eine verdammte Plage."
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
-    old "She seems stressed."
-    new "Sie wirkt gestresst."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:57
 translate deutsch sm1cs_am002_e86d99ac:

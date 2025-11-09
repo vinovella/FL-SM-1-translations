@@ -997,10 +997,6 @@ translate deutsch sm1cs_am006_arcade_b400fc7f:
 translate deutsch strings:
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
-    old "That really sucks."
-    new "Das ist wirklich schade."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
     old "Isn't the customer always right?"
     new "Hat der Kunde nicht immer Recht?"
 
@@ -1013,28 +1009,8 @@ translate deutsch strings:
     new "Du veräppelst mich doch, oder?"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
-    old "You look great."
-    new "Du siehst toll aus."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
     old "I'm glad we both look good"
     new "Ich bin froh, dass wir beide gut aussehen"
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
-    old "I hope it doesn't."
-    new "Ich hoffe nicht."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
-    old "Maybe."
-    new "Vielleicht."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
-    old "Kiss April again."
-    new "Küss April noch einmal."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
-    old "Don't kiss April."
-    new "Küss April nicht."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:54
 translate deutsch sm1cs_am006_58ee8e36:

@@ -4,10 +4,6 @@
     old "You have completed renovating the studio"
     new "您已完成工作室的翻新"
 
-    # game/code/classes/renovation_controller.rpy:48
-    old "Renovation progress increased by {progress}%"
-    new "翻新进度增加了{progress}%"
-
     # game/code/classes/renovation_controller.rpy:91
     old "Renovation complete"
     new "翻新完成"

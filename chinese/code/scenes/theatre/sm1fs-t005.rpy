@@ -584,7 +584,3 @@ translate chinese strings:
     old "I'm sure you did your best, Denise"
     new "丹妮丝，我相信你已经尽力了"
 
-    # game/code/scenes/theatre/sm1fs-t005.rpy:97
-    old "Say nothing."
-    new "什么也不说"
-

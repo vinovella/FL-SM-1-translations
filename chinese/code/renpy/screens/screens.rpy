@@ -1,13 +1,5 @@
 ﻿translate chinese strings:
 
-    # game/code/renpy/screens/screens.rpy:16
-    old "Start"
-    new "开始"
-
-    # game/code/renpy/screens/screens.rpy:27
-    old "Preferences"
-    new "偏好设置"
-
     # game/code/renpy/screens/screens.rpy:33
     old "End Replay"
     new "结束回放"
@@ -68,10 +60,6 @@
     old "»"
     new "»"
 
-    # game/code/renpy/screens/screens.rpy:478
-    old "Display"
-    new "显示"
-
     # game/code/renpy/screens/screens.rpy:479
     old "Fullscreen"
     new "全屏"
@@ -87,58 +75,6 @@
     # game/code/renpy/screens/screens.rpy:490
     old "Transitions"
     new "转场效果"
-
-    # game/code/renpy/screens/screens.rpy:495
-    old "Minigames"
-    new "小游戏"
-
-    # game/code/renpy/screens/screens.rpy:503
-    old "Analytics"
-    new "数据分析"
-
-    # game/code/renpy/screens/screens.rpy:510
-    old "Taboo Mode"
-    new "禁忌模式"
-
-    # game/code/renpy/screens/screens.rpy:521
-    old "Text Speed"
-    new "文本速度"
-
-    # game/code/renpy/screens/screens.rpy:525
-    old "Auto-Forward Time"
-    new "自动前进时间"
-
-    # game/code/renpy/screens/screens.rpy:529
-    old "Dialogue Box Opacity"
-    new "对话框透明度"
-
-    # game/code/renpy/screens/screens.rpy:535
-    old "Music Volume"
-    new "音乐音量"
-
-    # game/code/renpy/screens/screens.rpy:542
-    old "Sound Volume"
-    new "音效音量"
-
-    # game/code/renpy/screens/screens.rpy:548
-    old "Test"
-    new "测试"
-
-    # game/code/renpy/screens/screens.rpy:559
-    old "Sex Voice Volume"
-    new "性爱语音音量"
-
-    # game/code/renpy/screens/screens.rpy:570
-    old "Mute All"
-    new "全部静音"
-
-    # game/code/renpy/screens/screens.rpy:661
-    old "Version [config.version!t]\n"
-    new "版本[config.version!t]\n"
-
-    # game/code/renpy/screens/screens.rpy:666
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "使用{a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]制作。\n\n[renpy.license!t]"
 
     # game/code/renpy/screens/screens.rpy:711
     old "The dialogue history is empty."
@@ -412,14 +348,6 @@
     old "Quick Menu Buttons :"
     new "快捷菜单按钮："
 
-    # game/code/renpy/screens/screens.rpy:894
-    old "Game"
-    new "游戏"
-
-    # game/code/renpy/screens/screens.rpy:902
-    old "Voiceover"
-    new "配音"
-
     # game/code/renpy/screens/screens.rpy:906
     old "Translation"
     new "翻译"
@@ -492,10 +420,6 @@
     old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
     new "特别感谢我们的校对员 : .grubb (Discord: grubbjunker)"
 
-    # game/code/renpy/screens/screens.rpy:983
-    old "ICONS CREDITS"
-    new "图标鸣谢"
-
     # game/code/renpy/screens/screens.rpy:984
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
     new "菜单图标来源于 {a=https://feathericons.com/}Feather{/a}，这是一个由 @colebemis 制作的美丽图标集合，采用 {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT 许可{/a}。"
@@ -532,9 +456,7 @@
     old "ICON CREDITS"
     new "图标鸣谢"
 
-translate chinese strings:
-
     # game/code/renpy/screens/screens.rpy:729
     old "Minigames :"
-    new "Minigames :"
+    new "迷你游戏 :"
 

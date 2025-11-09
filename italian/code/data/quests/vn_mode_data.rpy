@@ -13,10 +13,6 @@
     new "Meet an unexpected visitor"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Denise, Kellie and Veronica's storyline"
-    new "Progress Denise, Kellie and Veronica's storyline"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
     old "A call with AmRose"
     new "A call with AmRose"
 
@@ -55,10 +51,6 @@
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Have some fun with Stacy"
     new "Have some fun with Stacy"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress the Theater and Taisia's storyline"
-    new "Progress the Theater and Taisia's storyline"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Begin the renovation"
@@ -225,10 +217,6 @@
     new "Sexy photo session with Kanya"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Lyssa's storyline and Main Story"
-    new "Progress Lyssa's storyline and Main Story"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
     old "Show off your photo skills"
     new "Show off your photo skills"
 
@@ -351,10 +339,6 @@
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Meet the client"
     new "Meet the client"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Anna and Nari's storylines"
-    new "Progress Anna and Nari's storylines"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Problem at the IT Office"
@@ -511,10 +495,6 @@
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Group meeting"
     new "Group meeting"
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Denise, Kellie, Taisia and Veronica's storyline"
-    new "Progress Denise, Kellie, Taisia and Veronica's storyline"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Acting workshop"

@@ -1591,10 +1591,6 @@ translate turkish sm1cs_km004_later_03d537de:
 translate turkish strings:
 
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
-    old "Yeah, it's exciting."
-    new "Evet, heyecan verici."
-
-    # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
     old "What is my role again?"
     new "Benim rolüm ne yine?"
 

@@ -1,17 +1,5 @@
 ﻿translate french strings:
 
-    # game/code/renpy/screens/screens.rpy:19
-    old "Start from release 2"
-    new "Commencer à partir de la version 2"
-
-    # game/code/renpy/screens/screens.rpy:22
-    old "Start"
-    new "Démarrer"
-
-    # game/code/renpy/screens/screens.rpy:31
-    old "Preferences"
-    new "Préférences"
-
     # game/code/renpy/screens/screens.rpy:34
     old "End Replay"
     new "Arrêter la relecture"
@@ -80,10 +68,6 @@
     old "»"
     new "»"
 
-    # game/code/renpy/screens/screens.rpy:478
-    old "Display"
-    new "Affichage"
-
     # game/code/renpy/screens/screens.rpy:479
     old "Fullscreen"
     new "Plein écran"
@@ -99,54 +83,6 @@
     # game/code/renpy/screens/screens.rpy:490
     old "Transitions"
     new "Transitions"
-
-    # game/code/renpy/screens/screens.rpy:495
-    old "Minigames"
-    new "Mini-jeux"
-
-    # game/code/renpy/screens/screens.rpy:503
-    old "Analytics"
-    new "Statistiques"
-
-    # game/code/renpy/screens/screens.rpy:514
-    old "Text Speed"
-    new "Vitesse du texte"
-
-    # game/code/renpy/screens/screens.rpy:518
-    old "Auto-Forward Time"
-    new "Avance auto"
-
-    # game/code/renpy/screens/screens.rpy:522
-    old "Dialogue Box Opacity"
-    new "Opacité de la boîte de dialogue"
-
-    # game/code/renpy/screens/screens.rpy:528
-    old "Music Volume"
-    new "Volume de la musique"
-
-    # game/code/renpy/screens/screens.rpy:535
-    old "Sound Volume"
-    new "Volume sonore"
-
-    # game/code/renpy/screens/screens.rpy:541
-    old "Test"
-    new "Test"
-
-    # game/code/renpy/screens/screens.rpy:552
-    old "Sex Voice Volume"
-    new "Volume des voix sexuelles"
-
-    # game/code/renpy/screens/screens.rpy:563
-    old "Mute All"
-    new "Tout couper"
-
-    # game/code/renpy/screens/screens.rpy:654
-    old "Version [config.version!t]\n"
-    new "Version [config.version!t]\n"
-
-    # game/code/renpy/screens/screens.rpy:659
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "Fait avec {a=https://www.renpy.org/}Ren’Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/code/renpy/screens/screens.rpy:704
     old "The dialogue history is empty."
@@ -291,10 +227,6 @@
     # game/code/renpy/screens/screens.rpy:908
     old "Skipping"
     new "Sauter"
-
-#Translate by BlackViper_
-
-translate french strings:
 
     # game/code/renpy/screens/screens.rpy:12
     old "New Game"

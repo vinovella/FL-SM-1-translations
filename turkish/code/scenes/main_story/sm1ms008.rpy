@@ -875,14 +875,6 @@ translate turkish strings:
     new "Fotoğraf Dojo'da"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "You should stick with red hair."
-    new "Kızıl saçlı kalmalısın."
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "I think it will do nicely for the scene."
-    new "Bence bu sahneye çok yakışacak."
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I'm glad it's temporary"
     new "Geçici olmasına sevindim."
 

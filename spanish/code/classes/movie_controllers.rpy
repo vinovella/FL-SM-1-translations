@@ -4,10 +4,6 @@ translate spanish strings:
     old "Movie royalty"
     new "Regalías de la película"
 
-    # game/code/classes/movie_controllers.rpy:40
-    old "{} release"
-    new "Estreno {}"
-
     # game/code/classes/movie_controllers.rpy:99
     old "Pirate Movie"
     new "Película Pirata"
@@ -19,10 +15,6 @@ translate spanish strings:
     # game/code/classes/movie_controllers.rpy:111
     old "You don't have enough money"
     new "No tienes suficiente dinero"
-
-    # game/code/classes/movie_controllers.rpy:113
-    old "Add ${amount} to {budget_name}"
-    new "Agregar ${amount} a {budget_name}"
 
     # game/code/classes/movie_controllers.rpy:126
     old "You have filled the energy bar already"
@@ -40,20 +32,9 @@ translate spanish strings:
     old "You can only work from the Studio"
     new "Solo puedes trabajar desde el Estudio"
 
-    # game/code/classes/movie_controllers.rpy:134
-    old "Add {amount} to {energy_name}"
-    new "Agregar {amount} a {energy_name}"
-
     # game/code/classes/movie_controllers.rpy:211
     old "Sci-Fi Movie"
     new "Película de Ciencia Ficción"
-
-translate spanish strings:
-
-    # game/code/classes/movie_controllers.rpy:246
-    old "Add {amount}"
-    new "Agregar {amount}"
-translate spanish strings:
 
     # game/code/classes/movie_controllers.rpy:45
     old "Costume Budget"
@@ -94,12 +75,6 @@ translate spanish strings:
     # game/code/classes/movie_controllers.rpy:45
     old "CGI Budget"
     new "CGI Budget"
-
-    # game/code/classes/movie_controllers.rpy:150
-    old "Spend {amount} Energy in {energy_name}"
-    new "Spend {amount} Energy in {energy_name}"
-
-translate spanish strings:
 
     # game/code/classes/movie_controllers.rpy:40
     old "[movie] release"

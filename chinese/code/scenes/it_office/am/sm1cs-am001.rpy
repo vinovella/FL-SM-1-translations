@@ -754,10 +754,6 @@ translate chinese strings:
     old "I want to make sure it's correct"
     new "我要确保它是正确的。"
 
-    # game/code/scenes/it_office/am/sm1cs-am001.rpy:280
-    old "No, I just thought you could use a break."
-    new "不，我只是觉得你可以休息一下。"
-
     # game/code/scenes/it_office/am/sm1cs-am001.rpy:326
     old "Simple mistake"
     new "小失误而已"

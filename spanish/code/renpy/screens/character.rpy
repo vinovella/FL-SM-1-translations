@@ -16,10 +16,6 @@ translate spanish strings:
     old "Fetishes"
     new "Fetiches"
 
-    # game/code/renpy/screens/character.rpy:59
-    old "Progress "
-    new "Progreso"
-
 translate spanish strings:
 
     # game/code/renpy/screens/character.rpy:59

@@ -2570,10 +2570,6 @@ translate portuguese strings:
     old "You'll figure it out"
     new "Você vai dar um jeito"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
-    old "Suprised it's taking you this long"
-    new "Surpreso que tá demorando"
-
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "I have heard of the general concept"
     new "Ouvi falar no conceito."

@@ -1,13 +1,5 @@
 ﻿translate italian strings:
 
-    # game/code/renpy/screens/screens.rpy:16
-    old "Start"
-    new "Start"
-
-    # game/code/renpy/screens/screens.rpy:27
-    old "Preferences"
-    new "Preferences"
-
     # game/code/renpy/screens/screens.rpy:33
     old "End Replay"
     new "End Replay"
@@ -72,10 +64,6 @@
     old "»"
     new "»"
 
-    # game/code/renpy/screens/screens.rpy:481
-    old "Display"
-    new "Display"
-
     # game/code/renpy/screens/screens.rpy:482
     old "Fullscreen"
     new "Fullscreen"
@@ -91,58 +79,6 @@
     # game/code/renpy/screens/screens.rpy:493
     old "Transitions"
     new "Transitions"
-
-    # game/code/renpy/screens/screens.rpy:498
-    old "Minigames"
-    new "Minigames"
-
-    # game/code/renpy/screens/screens.rpy:506
-    old "Analytics"
-    new "Analytics"
-
-    # game/code/renpy/screens/screens.rpy:513
-    old "Taboo Mode"
-    new "Taboo Mode"
-
-    # game/code/renpy/screens/screens.rpy:524
-    old "Text Speed"
-    new "Text Speed"
-
-    # game/code/renpy/screens/screens.rpy:528
-    old "Auto-Forward Time"
-    new "Auto-Forward Time"
-
-    # game/code/renpy/screens/screens.rpy:532
-    old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
-
-    # game/code/renpy/screens/screens.rpy:538
-    old "Music Volume"
-    new "Music Volume"
-
-    # game/code/renpy/screens/screens.rpy:545
-    old "Sound Volume"
-    new "Sound Volume"
-
-    # game/code/renpy/screens/screens.rpy:551
-    old "Test"
-    new "Test"
-
-    # game/code/renpy/screens/screens.rpy:562
-    old "Sex Voice Volume"
-    new "Sex Voice Volume"
-
-    # game/code/renpy/screens/screens.rpy:573
-    old "Mute All"
-    new "Mute All"
-
-    # game/code/renpy/screens/screens.rpy:664
-    old "Version [config.version!t]\n"
-    new "Version [config.version!t]\n"
-
-    # game/code/renpy/screens/screens.rpy:669
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/code/renpy/screens/screens.rpy:714
     old "The dialogue history is empty."
@@ -288,8 +224,6 @@
     old "Skipping"
     new "Skipping"
 
-translate italian strings:
-
     # game/code/renpy/screens/screens.rpy:12
     old "New Game"
     new "New Game"
@@ -414,14 +348,6 @@ translate italian strings:
     old "Quick Menu Buttons :"
     new "Quick Menu Buttons :"
 
-    # game/code/renpy/screens/screens.rpy:894
-    old "Game"
-    new "Game"
-
-    # game/code/renpy/screens/screens.rpy:902
-    old "Voiceover"
-    new "Voiceover"
-
     # game/code/renpy/screens/screens.rpy:906
     old "Translation"
     new "Translation"
@@ -430,19 +356,9 @@ translate italian strings:
     old "Others"
     new "Others"
 
-    # game/code/renpy/screens/screens.rpy:920
-    old "Version : [config.version!t]"
-    new "Version : [config.version!t]"
-
-    # game/code/renpy/screens/screens.rpy:921
-    old "Developed by :"
-    new "Developed by :"
-
     # game/code/renpy/screens/screens.rpy:923
     old "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
     new "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
-
-translate italian strings:
 
     # game/code/renpy/screens/screens.rpy:353
     old "Saves For Chapter 2"

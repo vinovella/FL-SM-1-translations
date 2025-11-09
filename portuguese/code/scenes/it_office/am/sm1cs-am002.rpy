@@ -499,20 +499,8 @@ translate portuguese sm1cs_am002_bf8549a7:
 translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
-    old "You should watch where you're going."
-    new "Você tem que olhar por onde anda."
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
     old "April, you okay?"
     new "Tudo bem, April?"
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
-    old "She's a fucking menace."
-    new "Ela é um perigo."
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
-    old "She seems stressed."
-    new "Ela parece estressada."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:57
 translate portuguese sm1cs_am002_e86d99ac:

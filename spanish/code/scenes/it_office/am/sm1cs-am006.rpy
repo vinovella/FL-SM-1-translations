@@ -997,10 +997,6 @@ translate spanish sm1cs_am006_arcade_b400fc7f:
 translate spanish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
-    old "That really sucks."
-    new "Eso realmente apesta."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
     old "Isn't the customer always right?"
     new "¿No tiene siempre razón el cliente?"
 
@@ -1013,28 +1009,8 @@ translate spanish strings:
     new "Estás jugando conmigo, ¿no?"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
-    old "You look great."
-    new "Te ves genial."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
     old "I'm glad we both look good"
     new "Me alegro de que ambos nos veamos bien."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
-    old "I hope it doesn't."
-    new "Espero que no lo haga."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
-    old "Maybe."
-    new "Tal vez."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
-    old "Kiss April again."
-    new "Vuelve a besar a Abril."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
-    old "Don't kiss April."
-    new "No beses a Abril."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:54
 translate spanish sm1cs_am006_58ee8e36:

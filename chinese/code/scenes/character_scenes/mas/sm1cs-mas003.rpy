@@ -1696,14 +1696,6 @@ translate chinese strings:
     old "Ask for your cut"
     new "讨要属于你的那份钱"
 
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "Wurst delivery tip"
-    new "香肠配送的小费"
-
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a ${} as your cut of the tip."
-    new "你拿到了${}，作为小费里属于你的那部分"
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
 translate chinese sm1cs_mas003_third_delivery_9ed10f06:
 

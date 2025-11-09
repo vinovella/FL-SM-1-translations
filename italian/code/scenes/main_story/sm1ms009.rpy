@@ -2809,16 +2809,6 @@ translate italian sm1ms009_part_2_82fb59a4:
 translate italian strings:
 
     # game/code/scenes/main_story/sm1ms009.rpy:981
-    old "Sì, sembra fantastico!"
-    new "Sì, sembra fantastico!"
-
-    # game/code/scenes/main_story/sm1ms009.rpy:981
-    old "Solo, dammi un secondo e sarò pronto"
-    new "Solo, dammi un secondo e sarò pronto"
-
-translate italian strings:
-
-    # game/code/scenes/main_story/sm1ms009.rpy:981
     old "Yeah, that sounds great!"
     new "Yeah, that sounds great!"
 

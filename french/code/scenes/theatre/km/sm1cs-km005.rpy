@@ -1336,10 +1336,6 @@ translate french strings:
     old "Why did you do that?"
     new "Pourquoi as-tu fait ça?"
 
-    # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
-    old "That was good. But now we've got a little mess to clean up."
-    new "C'était bien. Mais maintenant, nous avons un petit désordre à nettoyer."
-
 #Translate by BlackViper_
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:429
 translate french sm1cs_km005_22270354:

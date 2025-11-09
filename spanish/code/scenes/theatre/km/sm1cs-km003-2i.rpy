@@ -256,24 +256,6 @@ translate spanish sm1cs_km003_2i_menu_716019b8:
     # mc "Right."
     mc "Bien."
 
-translate spanish strings:
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
-    old "To be honest, I've been slacking. Lots of stuff going on."
-    new "Para ser honesto, he estado flojo. Muchas cosas están sucediendo."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
-    old "I've been doing alright. But I could use help."
-    new "Lo he estado haciendo bien. Pero podría usar ayuda."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
-    old "Alright, let's do another lesson."
-    new "Muy bien, hagamos otra lección."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
-    old "Veronica doesn't seem to do that."
-    new "Verónica no parece hacer eso."
-
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:45
 translate spanish sm1cs_km003_2i_c20b6007:
 

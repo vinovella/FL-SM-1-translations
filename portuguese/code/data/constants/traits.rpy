@@ -125,10 +125,6 @@ translate portuguese strings:
     new "Piercing Facial"
 
     # game/code/data/constants/traits.rpy:82
-    old "Nipples Piercing"
-    new "Piercing no Mamilo"
-
-    # game/code/data/constants/traits.rpy:82
     old "Genital Piercing"
     new "Piercing Genital"
 

@@ -754,10 +754,6 @@ translate french strings:
     old "I want to make sure it's correct"
     new "Je veux m’assurer que c’est correct"
 
-    # game/code/scenes/it_office/am/sm1cs-am001.rpy:280
-    old "No, I just thought you could use a break."
-    new "Non, je me suis dit que tu pourrais avoir besoin d’une pause."
-
     # game/code/scenes/it_office/am/sm1cs-am001.rpy:326
     old "Simple mistake"
     new "Simple erreur"

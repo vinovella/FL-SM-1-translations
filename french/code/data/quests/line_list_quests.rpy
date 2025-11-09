@@ -1,10 +1,6 @@
 ﻿translate french strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
-    old "Main Story"
-    new "Histoire principale"
-
-    # game/code/data/quests/line_list_quests.rpy:5
     old "Unlock more jobs"
     new "Débloquer plus de boulots"
 
@@ -75,10 +71,6 @@
     # game/code/data/quests/line_list_quests.rpy:5
     old "Denise's story"
     new "L'histoire de Denise"
-
-    # game/code/data/quests/line_list_quests.rpy:5
-    old "Kelly's story"
-    new "L'histoire de Kelly"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Taisia's story"

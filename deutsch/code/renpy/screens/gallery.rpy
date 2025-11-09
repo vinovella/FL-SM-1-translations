@@ -36,10 +36,6 @@
     old "None"
     new "Keine"
 
-    # game/code/renpy/screens/gallery.rpy:112
-    old "Close"
-    new "Schließen"
-
     # game/code/renpy/screens/gallery.rpy:120
     old "Image [index] of [count] locked."
     new "Bild [index] von [count] gesperrt."

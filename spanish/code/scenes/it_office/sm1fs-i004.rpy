@@ -691,18 +691,6 @@ translate spanish sm1fs_i004_9f0edafa:
 translate spanish strings:
 
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "I do, I love Kikini Bill."
-    new "Lo hago, me encanta Kikini Bill."
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "Uh, yep! Totally."
-    new "¡Uh, sí! Totalmente."
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "I don't mind some... Punk rock."
-    new "No me importa algo de... Punk Rock."
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "I'd rather listen to classic rock!"
     new "¡Prefiero escuchar el rock clásico!"
 

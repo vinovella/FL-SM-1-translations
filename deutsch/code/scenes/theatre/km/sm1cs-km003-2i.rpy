@@ -256,24 +256,6 @@ translate deutsch sm1cs_km003_2i_menu_716019b8:
     # mc "Right."
     mc "Right."
 
-translate deutsch strings:
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
-    old "To be honest, I've been slacking. Lots of stuff going on."
-    new "To be honest, I've been slacking. Lots of stuff going on."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
-    old "I've been doing alright. But I could use help."
-    new "I've been doing alright. But I could use help."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
-    old "Alright, let's do another lesson."
-    new "Alright, let's do another lesson."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
-    old "Veronica doesn't seem to do that."
-    new "Veronica doesn't seem to do that."
-
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:45
 translate deutsch sm1cs_km003_2i_c20b6007:
 

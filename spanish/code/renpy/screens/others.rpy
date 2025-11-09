@@ -1,9 +1,5 @@
 translate spanish strings:
 
-    # game/code/renpy/screens/others.rpy:12
-    old "Sync your saves using Ren'Py Sync server"
-    new "Sincronizar sus guardados con el servidor de sincronización Ren'Py"
-
     # game/code/renpy/screens/others.rpy:14
     old "Upload Saves"
     new "Subiendo los archivos guardados"

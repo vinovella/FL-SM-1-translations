@@ -1174,29 +1174,9 @@ translate turkish strings:
     old "Is this more pretend, or real?"
     new "Bu daha çok numara mı, yoksa gerçek mi?"
 
-    # game/code/scenes/main_story/sm1ms010.rpy:106
-    old "Yeah, me too."
-    new "Evet, ben de."
-
     # game/code/scenes/main_story/sm1ms010.rpy:189
     old "Do you really want to know?"
     new "Gerçekten bilmek istiyor musun?"
-
-    # game/code/scenes/main_story/sm1ms010.rpy:189
-    old "She's doing fine."
-    new "O iyi."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:337
-    old "Kiss her again and continue."
-    new "Onu tekrar öp ve devam et."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:337
-    old "Stop things from going further."
-    new "İşlerin daha ileri gitmesini engelle."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:491
-    old "Knock yourself out."
-    new "Keyfine bak."
 
     # game/code/scenes/main_story/sm1ms010.rpy:491
     old "No thanks (Lock off Foot Fetish Content)"

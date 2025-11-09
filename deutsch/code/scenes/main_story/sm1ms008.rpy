@@ -875,14 +875,6 @@ translate deutsch strings:
     new "Im Photo Dojo"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "You should stick with red hair."
-    new "Du solltest bei roten Haaren bleiben."
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "I think it will do nicely for the scene."
-    new "Ich denke, das passt gut zu dieser Szene."
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I'm glad it's temporary"
     new "Ich bin froh, dass es nur vorübergehend ist."
 

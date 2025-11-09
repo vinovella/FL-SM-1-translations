@@ -3634,10 +3634,6 @@ translate portuguese strings:
     old "I'm okay if you call me 'daddy'"
     new "I'm okay if you call me 'daddy'"
 
-    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:815
-    old "I'm not going to manipulate you, Min."
-    new "I'm not going to manipulate you, Min."
-
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:878
     old "Yup"
     new "Yup"
@@ -3649,10 +3645,6 @@ translate portuguese strings:
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1488
     old "Ask Stacy and Min to piss on you"
     new "Ask Stacy and Min to piss on you"
-
-    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1488
-    old "Maybe some other time."
-    new "Maybe some other time."
 
 translate portuguese strings:
 

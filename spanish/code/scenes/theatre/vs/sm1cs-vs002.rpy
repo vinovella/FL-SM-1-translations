@@ -954,14 +954,6 @@ translate spanish sm1cs_vs002_one_hour_later_305d0baf:
 
 translate spanish strings:
 
-    # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:85
-    old "Rina worked hard for a while."
-    new "Rina trabajó duro por un tiempo."
-
-    # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:85
-    old "Ivana has more talents than just acting."
-    new "Ivana tiene más talentos que solo actuar."
-
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:144
     old "Reach for the stars, Veronica"
     new "Alcance las estrellas, Veronica"

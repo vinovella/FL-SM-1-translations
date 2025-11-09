@@ -754,10 +754,6 @@ translate portuguese strings:
     old "I want to make sure it's correct"
     new "Só quero ver se está certo"
 
-    # game/code/scenes/it_office/am/sm1cs-am001.rpy:280
-    old "No, I just thought you could use a break."
-    new "Não, achei que você precisava dar uma pausa."
-
     # game/code/scenes/it_office/am/sm1cs-am001.rpy:326
     old "Simple mistake"
     new "Simples erro"

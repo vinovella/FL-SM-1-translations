@@ -675,10 +675,6 @@ translate french strings:
     new "Laisser couler"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
-    old "I didn't think to ask."
-    new "Je n’ai pas pensé à demander."
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "You want to help?"
     new "Tu veux aider ?"
 
@@ -686,21 +682,9 @@ translate french strings:
     old "A few minutes later"
     new "Quelques minutes plus tard"
 
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Ask April what she did."
-    new "Demander à April ce qu’elle a fait."
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
-    old "Complain to April."
-    new "Se plaindre à April."
-
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Lie"
     new "Mentir"
-
-    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
-    old "Promise the answer one day."
-    new "Promettre de répondre un jour."
 
 #Translate by BlackViper_
 

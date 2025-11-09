@@ -1974,10 +1974,6 @@ translate deutsch strings:
     old "I don't want to waste your ammo"
     new "Ich möchte deine Munition nicht verschwenden"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
-    old "Sure lets do it"
-    new "Klar, machen wir das"
-
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:636
     old "Later that evening"
     new "Später am Abend"

@@ -8,10 +8,6 @@
     old "You"
     new "你"
 
-    # game/code/data/characters/names.rpy:10
-    old "Amber-Rose"
-    new "爱洛丝"
-
     # game/code/data/characters/names.rpy:11
     old "Amore"
     new "阿茉"

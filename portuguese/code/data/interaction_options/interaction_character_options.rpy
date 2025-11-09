@@ -73,10 +73,6 @@ translate portuguese strings:
     new "Montar a escada"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Visit Theather"
-    new "Visitar o Teatro"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Are we done?"
     new "Acabamos?"
 
@@ -115,10 +111,6 @@ translate portuguese strings:
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about camera girl"
     new "Falar sobre a moça da câmera"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Photography-101 for $"
-    new "Comprar Introdução à Fotografia for $"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Tell Stacy about Kanya"
@@ -209,24 +201,8 @@ translate portuguese strings:
     new "Ensaio para o show"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Let's go to Amusement Park"
-    new "Vamos no Parque de Diversões"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Interview Taisia now"
     new "Entrevistar a Taisia agora"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "___ INSERT _____"
-    new "___ INSERIR _____"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Stars Weekly for $"
-    new "Comprar Estrelas Da Semana por $"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase An Actor Prepares for $"
-    new "Comprar Um Ator Se Prepara for $"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Hey Kellie!"
@@ -395,10 +371,6 @@ translate portuguese strings:
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "I finished editing!"
     new "Terminei de digitar!"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Sci-fi movie"
-    new "Filme Sci-Fi"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Min for the Sci-Fi Movie"

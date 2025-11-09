@@ -1950,10 +1950,6 @@ translate turkish strings:
     old "I'd actually prefer it if you used my name"
     new "Aslında benim adımı kullanmanı tercih ederim."
 
-    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:721
-    old "How about instead, you call me..."
-    new "Bunun yerine, beni ararsan..."
-
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:723
     old "Master"
     new "Lordum"
@@ -1961,8 +1957,4 @@ translate turkish strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:732
     old "Sir"
     new "Efendim"
-
-    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:750
-    old "Please enter your BDSM nickname"
-    new "Lütfen BDSM takma adınızı girin"
 

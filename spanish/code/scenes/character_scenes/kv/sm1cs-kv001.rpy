@@ -498,20 +498,6 @@ translate spanish sm1cs_kv001_ending_ad25f2ce:
 
 translate spanish strings:
 
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:6
-    old "BOOK NAME"
-    new "NOMBRE DEL LIBRO"
-
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
-    old "Sure, I'm interested in how a photoshoot like this works."
-    new "Claro, estoy interesado en cómo funciona una sesión de fotos como esta."
-
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
-    old "Oh, I'll give you some space."
-    new "Oh, te daré algo de espacio."
-
-translate spanish strings:
-
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
     old "Sure, I'm interested in how a photoshoot like this works"
     new "Sure, I'm interested in how a photoshoot like this works"

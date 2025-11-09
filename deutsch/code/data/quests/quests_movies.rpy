@@ -1,32 +1,12 @@
 ﻿translate deutsch strings:
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Wait until next early morning to talk with Stacy about the movie"
-    new "Warte bis zum nächsten Morgen, um mit Stacy über den Film zu sprechen"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Buy costumes and recruit actress for the movie"
-    new "Kaufe Kostüme und engagiere Schauspielerinnen für den Film"
-
-    # game/code/data/quests/quests_movies.rpy:3
     old "Choose whether to invest in costumes or recruit an actress first"
     new "Entscheide, ob du zuerst in Kostüme investieren willst oder eine Schauspielerin engagieren möchtest"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Keep investing in the costume budget to prepare the outfits for the movie"
-    new "Investiere weiterhin in das Kostümbudget, um die Outfits für den Film vorzubereiten"
-
-    # game/code/data/quests/quests_movies.rpy:3
     old "Focus on recruiting an actress by filling the actress budget"
     new "Konzentriere dich auf die Rekrutierung einer Schauspielerin, indem du das Budget für Schauspielerinnen füllst"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with stacy to buy costumes"
-    new "Sprich mit Stacy, um Kostüme zu kaufen"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with stacy to hire actresses"
-    new "Sprich mit Stacy, um Schauspielerinnen zu engagieren"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Find Taisia and recruit her for the movie"
@@ -37,36 +17,12 @@
     new "Sprich mit Stacy über die Arbeit an dem Film"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Add money for buying props and energy for building the props"
-    new "Geld für den Kauf von Requisiten und Energie für den Bau der Requisiten hinzufügen"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Add money for buying props"
-    new "Geld für den Kauf von Requisiten hinzufügen"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Add energy for building the props"
-    new "Energie für den Bau der Requisiten hinzufügen"
-
-    # game/code/data/quests/quests_movies.rpy:3
     old "Talk with Stacy to finish building props"
     new "Sprich mit Stacy, um den Bau der Requisiten abzuschließen"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy in the Morning to start filming the movie"
-    new "Sprich mit Stacy am Morgen, um mit den Dreharbeiten für den Film zu beginnen"
-
-    # game/code/data/quests/quests_movies.rpy:3
     old "Wait to film next scene"
     new "Warte, bis die nächste Szene gedreht wird"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Taisia to start filming next scene"
-    new "Sprich mit Taisia, um die nächste Szene zu drehen"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Stacy wants to talk to you at Noon."
-    new "Stacy möchte mittags mit dir sprechen."
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Add money for travel"
@@ -87,48 +43,8 @@
 translate deutsch strings:
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Wait until early morning to talk with Stacy about the Sci-Fi Movie"
-    new "Warte bis zum frühen Morgen, um mit Stacy über den Science-Fiction-Film zu sprechen"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Recruit Lyssa or Min as actress for the Sci-Fi Movie (you can only recruit one)"
-    new "Rekrutiere Lyssa oder Min als Darstellerin für den Science-Fiction-Film (du kannst nur eine rekrutieren)"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Recruit Nari as the lead actress for the Sci-Fi Movie"
-    new "Nari als Hauptdarstellerin für den Science-Fiction-Film engagieren"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to stacy about Sci-Fi Movie props"
-    new "Sprich mit Stacy über Requisiten für den Science-Fiction-Film"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to stacy about building the set"
-    new "Sprich mit Stacy über den Aufbau des Sets"
-
-    # game/code/data/quests/quests_movies.rpy:3
     old "Talk to Kanya to continue building the set in Photo Dojo"
     new "Sprich mit Kanya, um mit dem Aufbau des Sets im Photo Dojo fortzufahren"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy in the afternoon about the next step for the Sci-Fi Movie"
-    new "Sprich am Nachmittag mit Stacy über den nächsten Schritt für den Science-Fiction-Film"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy to prepare for filming the Sci-Fi Movie"
-    new "Sprich mit Stacy, um dich auf die Dreharbeiten zum Science-Fiction-Film vorzubereiten"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Add money for paying actresses and energy for preparing outfits"
-    new "Geld für die Bezahlung der Darstellerinnen und Energie für die Vorbereitung der Outfits hinzufügen"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy in the Evening to start filming the Sci-Fi Movie"
-    new "Sprich am Abend mit Stacy, um mit den Dreharbeiten zum Science-Fiction-Film zu beginnen"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy to film the next Sci-Fi Movie scene"
-    new "Sprich mit Stacy, um die nächste Szene des Science-Fiction-Films zu drehen"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Talk about going to the spa"
@@ -155,46 +71,18 @@ translate deutsch strings:
     new "Sprich mit Lyssa darüber, mit Nari ins Spa zu gehen"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy about big scenes in Sci-Fi Movie"
-    new "Sprich mit Stacy über die großen Szenen des Science-Fiction-Films"
-
-    # game/code/data/quests/quests_movies.rpy:3
     old "Add money for CGI"
     new "Geld für CGI hinzufügen"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy at the Studio in the early morning"
-    new "Sprich am frühen Morgen mit Stacy im Studio"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy to film the final scene of Sci-Fi Movie"
-    new "Sprich mit Stacy, um die letzte Szene des Science-Fiction-Films zu drehen"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Add energy for editing the Sci-Fi Movie"
-    new "Energie für die Bearbeitung des Science-Fiction-Films hinzufügen"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Tell Stacy that you are done editing the Sci-Fi Movie in the afternoon"
-    new "Sag Stacy, dass du mit der Bearbeitung des Science-Fiction-Films am Nachmittag fertig bist"
-
-    # game/code/data/quests/quests_movies.rpy:3
     old "Wait a couple of days"
     new "Ein paar Tage warten"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy to film second movie"
-    new "Sprich mit Stacy, um den zweiten Film zu drehen"
 
 translate deutsch strings:
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Talk with Stacy to buy costumes"
     new "Sprich mit Stacy, um Kostüme zu kaufen"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Stacy to hire actresses"
-    new "Sprich mit Stacy, um Darstellerinnen zu engagieren"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Talk with Stacy to film the second movie"

@@ -1336,10 +1336,6 @@ translate portuguese strings:
     old "Why did you do that?"
     new "Por que você fez isso?"
 
-    # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
-    old "That was good. But now we've got a little mess to clean up."
-    new "Isso foi legal. Mas agora a gente tem uma bagunça para limpar."
-
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:429
 translate portuguese sm1cs_km005_22270354:
 

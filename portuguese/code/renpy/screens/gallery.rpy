@@ -28,10 +28,6 @@
     old "None"
     new "Nada"
 
-    # game/code/renpy/screens/gallery.rpy:112
-    old "Close"
-    new "Fechar"
-
     # game/code/renpy/screens/gallery.rpy:141
     old "Prev"
     new "Ant"

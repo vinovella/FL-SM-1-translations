@@ -226,18 +226,6 @@ translate french sm1cs_cw002_8f39dca1:
     # mct "This {i}really{/i} must be a difficult client. I don't think I've ever seen Claire acting like this before."
     mct "Ce doit {i}vraiment{/i} être un client difficile. Je ne crois pas avoir déjà vu Claire agir de cette façon."
 
-translate french strings:
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
-    old "I like it."
-    new "J’aime ça."
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
-    old "I don't like it."
-    new "Je n’aime pas ça."
-
-#Translate by BlackViper_
-
 # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:99
 translate french sm1cs_cw002_e0bf352d:
 

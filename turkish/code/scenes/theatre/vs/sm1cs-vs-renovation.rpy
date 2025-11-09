@@ -688,16 +688,6 @@ translate turkish sm1cs_vs_renovation_ade0c19d:
     # mc "Bye, Veronica."
     mc "Hoşça kal, Veronica."
 
-translate turkish strings:
-
-    # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:47
-    old "Pretend to be scared."
-    new "Korkmuş gibi yap."
-
-    # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:47
-    old "Act impressed."
-    new "Etkileyici davran."
-
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:93
 translate turkish sm1cs_vs_renovation_9c0bc37a:
 

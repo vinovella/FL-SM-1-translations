@@ -4,10 +4,6 @@
     old "You have completed renovating the studio"
     new "Stüdyonun yenilenmesini tamamladınız"
 
-    # game/code/classes/renovation_controller.rpy:48
-    old "Renovation progress increased by {progress}%"
-    new "Yenileme ilerlemesi {progress}% oranında arttı"
-
     # game/code/classes/renovation_controller.rpy:91
     old "Renovation complete"
     new "Yenileme tamamlandı"

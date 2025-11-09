@@ -580,14 +580,6 @@ translate turkish strings:
     old "Do you know anyone hiring?"
     new "İşe alan birini tanıyor musunuz?"
 
-    # game/code/scenes/theatre/sm1fs-t005.rpy:97
-    old "I'm sure you did your best, Denise."
-    new "Eminim elinden gelenin en iyisini yaptın, Denise."
-
-    # game/code/scenes/theatre/sm1fs-t005.rpy:97
-    old "Say nothing."
-    new "Hiçbir şey söyleme."
-
 translate turkish strings:
 
     # game/code/scenes/theatre/sm1fs-t005.rpy:97

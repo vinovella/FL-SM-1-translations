@@ -1895,16 +1895,8 @@ translate turkish strings:
     new "Köpek ve kovboyu severim?"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:244
-    old "I'm into spanking."
-    new "Şaplak atmaya meraklıyım."
-
-    # game/code/scenes/theatre/sm1fs-t002.rpy:244
     old "I like all of those things!"
     new "Bunların hepsini severim!"
-
-    # game/code/scenes/theatre/sm1fs-t002.rpy:244
-    old "I'm game. If you can do those things to me."
-    new "Ben oyun. Eğer bana bunları yapabilirsen."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:304
 translate turkish sm1fs_t002_3cc3e891:

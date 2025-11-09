@@ -70,10 +70,6 @@ translate chinese strings:
     old "Choose the movie later"
     new "以后再选拍哪部电影"
 
-    # game/code/scenes/main_story/sm1ms026i.rpy:112
-    old "Choose Pirates movie (progress Tiasia's story first)"
-    new "选海盗题材电影 (先推进泰西娅的剧情线)"
-
     # game/code/scenes/main_story/sm1ms026i.rpy:113
     old "Choose Pirates movie"
     new "选海盗题材电影"
@@ -81,10 +77,6 @@ translate chinese strings:
     # game/code/scenes/main_story/sm1ms026i.rpy:123
     old "progress Nari and Min or Lyssa's story first"
     new "先推进娜丽、明或丽莎的剧情线"
-
-    # game/code/scenes/main_story/sm1ms026i.rpy:125
-    old "Choose Sci-Fi Movie ({message})"
-    new "选科幻题材电影 ({消息})"
 
     # game/code/scenes/main_story/sm1ms026i.rpy:128
     old "progress Nari's story first"

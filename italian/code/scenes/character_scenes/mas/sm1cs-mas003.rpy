@@ -1708,14 +1708,6 @@ translate italian strings:
     old "Ask for your cut"
     new "Chiedi la tua parte"
 
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "Wurst delivery tip"
-    new "Mancia per consegna Wurst"
-
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a ${} as your cut of the tip."
-    new "Hai ricevuto ${} come tua parte della mancia."
-
 translate italian strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987

@@ -1174,29 +1174,9 @@ translate french strings:
     old "Is this more pretend, or real?"
     new "C’est encore du semblant… ou c’est réel ?"
 
-    # game/code/scenes/main_story/sm1ms010.rpy:106
-    old "Yeah, me too."
-    new "Ouais, moi aussi."
-
     # game/code/scenes/main_story/sm1ms010.rpy:189
     old "Do you really want to know?"
     new "Tu veux vraiment savoir ?"
-
-    # game/code/scenes/main_story/sm1ms010.rpy:189
-    old "She's doing fine."
-    new "Elle va bien."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:337
-    old "Kiss her again and continue."
-    new "L’embrasser encore et continuer."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:337
-    old "Stop things from going further."
-    new "Arrêter avant que ça aille plus loin."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:491
-    old "Knock yourself out."
-    new "Fais-toi plaisir."
 
     # game/code/scenes/main_story/sm1ms010.rpy:491
     old "No thanks (Lock off Foot Fetish Content)"

@@ -3630,10 +3630,6 @@ translate deutsch strings:
     old "I'm okay if you call me 'daddy'"
     new "Es ist okay, wenn du mich „Daddy“ nennst"
 
-    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:815
-    old "I'm not going to manipulate you, Min."
-    new "Ich werde dich nicht manipulieren, Min"
-
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:878
     old "Yup"
     new "Ja"
@@ -3645,10 +3641,6 @@ translate deutsch strings:
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1488
     old "Ask Stacy and Min to piss on you"
     new "Bitte Stacy und Min, auf dich zu pinkeln"
-
-    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1488
-    old "Maybe some other time."
-    new "Vielleicht ein anderes Mal"
 
 translate deutsch strings:
 

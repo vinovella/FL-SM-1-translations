@@ -691,18 +691,6 @@ translate french sm1fs_i004_9f0edafa:
 translate french strings:
 
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "I do, I love Kikini Bill."
-    new "Oui, j’adore Kikini Bill."
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "Uh, yep! Totally."
-    new "Euh, ouais ! Carrément."
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "I don't mind some... Punk rock."
-    new "Ça me dérange pas d’écouter un peu... de punk rock."
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "I'd rather listen to classic rock!"
     new "Je préfère écouter du rock classique !"
 

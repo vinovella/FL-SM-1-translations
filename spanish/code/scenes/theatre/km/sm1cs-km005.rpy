@@ -1336,10 +1336,6 @@ translate spanish strings:
     old "Why did you do that?"
     new "¿Por qué hiciste eso?"
 
-    # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
-    old "That was good. But now we've got a little mess to clean up."
-    new "Eso fue bueno. Pero ahora tenemos un pequeño desastre para limpiar."
-
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:429
 translate spanish sm1cs_km005_22270354:
 

@@ -256,26 +256,6 @@ translate french sm1cs_km003_2i_menu_716019b8:
     # mc "Right."
     mc "D’accord."
 
-translate french strings:
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
-    old "To be honest, I've been slacking. Lots of stuff going on."
-    new "Pour être honnête, je me suis un peu relâché. J’ai eu pas mal de trucs à gérer."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
-    old "I've been doing alright. But I could use help."
-    new "Je m’en sors pas trop mal. Mais un peu d’aide ne ferait pas de mal."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
-    old "Alright, let's do another lesson."
-    new "Très bien, faisons une autre leçon."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
-    old "Veronica doesn't seem to do that."
-    new "Véronica ne semble pas faire ça."
-
-#Translate by BlackViper_
-
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:45
 translate french sm1cs_km003_2i_c20b6007:
 

@@ -226,16 +226,6 @@ translate portuguese sm1cs_cw002_8f39dca1:
     # mct "This {i}really{/i} must be a difficult client. I don't think I've ever seen Claire acting like this before."
     mct "Deve ser algum cliente {i}muito{/i} difícil. Acho que nunca vi a Claire se comportar assim."
 
-translate portuguese strings:
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
-    old "I like it."
-    new "Gostei."
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
-    old "I don't like it."
-    new "Não gostei."
-
 # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:99
 translate portuguese sm1cs_cw002_e0bf352d:
 

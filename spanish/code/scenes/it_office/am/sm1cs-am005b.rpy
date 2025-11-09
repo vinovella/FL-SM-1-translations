@@ -52,16 +52,6 @@ translate spanish sm1cs_am005b_9163e74f:
     # mc "Yeah. No surprise there."
     mc "Sí. No es una sorpresa allí."
 
-translate spanish strings:
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Try out things with April."
-    new "Prueba cosas con Abril"
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Nevermind."
-    new "No importa"
-
 # game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
 translate spanish sm1cs_am005b_658994d8:
 

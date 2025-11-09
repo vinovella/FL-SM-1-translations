@@ -1,10 +1,6 @@
 translate portuguese strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
-    old "Main Story"
-    new "História Principal"
-
-    # game/code/data/quests/line_list_quests.rpy:5
     old "Unlock more jobs"
     new "Liberar mais empregos"
 
@@ -75,10 +71,6 @@ translate portuguese strings:
     # game/code/data/quests/line_list_quests.rpy:5
     old "Denise's story"
     new "História da Denise"
-
-    # game/code/data/quests/line_list_quests.rpy:5
-    old "Kelly's story"
-    new "História da Kelly"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Taisia's story"

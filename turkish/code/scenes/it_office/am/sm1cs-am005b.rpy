@@ -52,16 +52,6 @@ translate turkish sm1cs_am005b_9163e74f:
     # mc "Yeah. No surprise there."
     mc "Evet. Bunda şaşılacak bir şey yok."
 
-translate turkish strings:
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Try out things with April."
-    new "Nisan'la yeni şeyler dene."
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Nevermind."
-    new "Boş ver."
-
 # game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
 translate turkish sm1cs_am005b_658994d8:
 

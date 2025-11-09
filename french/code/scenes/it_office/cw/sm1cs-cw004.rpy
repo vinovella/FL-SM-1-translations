@@ -1974,10 +1974,6 @@ translate french strings:
     old "I don't want to waste your ammo"
     new "Je ne veux pas gaspiller tes munitions"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
-    old "Sure lets do it"
-    new "Bien sûr, faisons-le"
-
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:636
     old "Later that evening"
     new "Plus tard dans la soirée"

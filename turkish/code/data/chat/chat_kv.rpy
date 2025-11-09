@@ -29,24 +29,12 @@
     new "Beni çok iyi tanıyorsun."
 
     # game/code/data/chat/chat_kv.rpy:3
-    old "😝"
-    new "😝"
-
-    # game/code/data/chat/chat_kv.rpy:3
-    old "What's this one going be about?"
-    new "Bu seferki ne hakkında olacak?"
-
-    # game/code/data/chat/chat_kv.rpy:3
     old "We haven't figured out the details."
     new "Detayları henüz çözemedik."
 
     # game/code/data/chat/chat_kv.rpy:3
     old "But the client wants to focus on anal 🍑"
     new "Ama müşteri anala odaklanmak istiyor 🍑"
-
-    # game/code/data/chat/chat_kv.rpy:3
-    old "🔥🔥🔥"
-    new "🔥🔥🔥"
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Stacy might be in trouble, lol."

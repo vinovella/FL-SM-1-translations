@@ -29,24 +29,12 @@
     new "Du kennst mich zu gut."
 
     # game/code/data/chat/chat_kv.rpy:3
-    old "😝"
-    new "😝"
-
-    # game/code/data/chat/chat_kv.rpy:3
-    old "What's this one going be about?"
-    new "Worum wird es gehen?"
-
-    # game/code/data/chat/chat_kv.rpy:3
     old "We haven't figured out the details."
     new "Wir haben die Details noch nicht geklärt."
 
     # game/code/data/chat/chat_kv.rpy:3
     old "But the client wants to focus on anal 🍑"
     new "Aber der Kunde möchte sich auf Anal konzentrieren 🍑"
-
-    # game/code/data/chat/chat_kv.rpy:3
-    old "🔥🔥🔥"
-    new "🔥🔥🔥"
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Stacy might be in trouble, lol."

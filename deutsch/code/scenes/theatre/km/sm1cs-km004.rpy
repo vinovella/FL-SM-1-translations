@@ -1597,10 +1597,6 @@ translate deutsch sm1cs_km004_later_03d537de:
 translate deutsch strings:
 
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
-    old "Yeah, it's exciting."
-    new "Yeah, it's exciting."
-
-    # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
     old "What is my role again?"
     new "What is my role again?"
 

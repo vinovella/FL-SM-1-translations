@@ -244,12 +244,6 @@ translate italian sm1ms028_dress_change_f7f142da:
     # mc "You do... but."
     mc "You do... but."
 
-# game/code/scenes/main_story/sm1ms028.rpy:114
-translate italian sm1ms028_dress_change_5551f934:
-
-    # mc "Nevermind, we don't have time to change."
-    mc "Nevermind, we don't have time to change."
-
 # game/code/scenes/main_story/sm1ms028.rpy:117
 translate italian sm1ms028_dress_change_29f52d66:
 

@@ -510,14 +510,6 @@ translate deutsch sm1cs_km001_e1a4d150:
 
 translate deutsch strings:
 
-    # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
-    old "I'll go easy on you."
-    new "I'll go easy on you."
-
-    # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
-    old "Let's dance, Kellie."
-    new "Let's dance, Kellie."
-
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:189
     old "Distract her with flirting"
     new "Distract her with flirting"

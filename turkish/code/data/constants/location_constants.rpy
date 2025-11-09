@@ -40,14 +40,6 @@
     old "Starducks Café"
     new "Starducks Cafe"
 
-    # game/code/data/constants/location_constants.rpy:186
-    old "Lysa's House"
-    new "Lysa'nın Evi"
-
-    # game/code/data/constants/location_constants.rpy:194
-    old "Guns n' Rossette's"
-    new "Guns n' Rossette's"
-
 translate turkish strings:
 
     # game/code/data/constants/location_constants.rpy:189

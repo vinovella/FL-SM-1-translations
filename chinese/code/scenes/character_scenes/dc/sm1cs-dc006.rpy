@@ -949,10 +949,6 @@ translate chinese strings:
     new "拦住黛比"
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
-    old "Let her take the call"
-    new "让她接电话"
-
-    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
     old "Show no interest in Debbie"
     new "对黛比不感兴趣"
 

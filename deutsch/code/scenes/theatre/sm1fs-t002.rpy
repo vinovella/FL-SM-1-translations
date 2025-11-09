@@ -1895,16 +1895,8 @@ translate deutsch strings:
     new "I like doggy and cowgirl?"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:244
-    old "I'm into spanking."
-    new "I'm into spanking."
-
-    # game/code/scenes/theatre/sm1fs-t002.rpy:244
     old "I like all of those things!"
     new "I like all of those things!"
-
-    # game/code/scenes/theatre/sm1fs-t002.rpy:244
-    old "I'm game. If you can do those things to me."
-    new "I'm game. If you can do those things to me."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:304
 translate deutsch sm1fs_t002_3cc3e891:

@@ -44,10 +44,6 @@
     old "Lyssa's House"
     new "Maison de Lyssa"
 
-    # game/code/data/constants/location_constants.rpy:194
-    old "Guns n' Rossette's"
-    new "Guns n' Rossette's"
-
 #Translate by BlackViper_
 
 translate french strings:

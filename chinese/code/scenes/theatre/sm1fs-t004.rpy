@@ -1565,10 +1565,6 @@ translate chinese strings:
     new "泰西娅"
 
     # game/code/scenes/theatre/sm1fs-t004.rpy:595
-    old "Kelly"
-    new "凯莉"
-
-    # game/code/scenes/theatre/sm1fs-t004.rpy:595
     old "Veronica"
     new "维罗妮卡"
 

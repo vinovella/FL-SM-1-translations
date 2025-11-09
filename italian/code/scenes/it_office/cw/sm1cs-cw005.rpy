@@ -2527,64 +2527,6 @@ translate italian sm1cs_cw005_sauna_menu_6907467e:
 translate italian strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:48
-    old "Domenica Mattina"
-    new "Domenica Mattina"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:96
-    old "Insistente"
-    new "Insistente"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:96
-    old "Curioso"
-    new "Curioso"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:149
-    old "Trattenersi"
-    new "Trattenersi"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:263
-    old "Qualche momento dopo"
-    new "Qualche momento dopo"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:364
-    old "Più tardi nel pomeriggio"
-    new "Più tardi nel pomeriggio"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:635
-    old "Certo, Claire"
-    new "Certo, Claire"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:635
-    old "Cosa è successo con il tuo fidanzamento?"
-    new "Cosa è successo con il tuo fidanzamento?"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:700
-    old "Ti sei divertita. Ieri sera?"
-    new "Ti sei divertita. Ieri sera?"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:700
-    old "Sei sicura che stia tutto bene?"
-    new "Sei sicura che stia tutto bene?"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:700
-    old "Quindi stiamo davvero qui seduti a cuocere nei nostri succhi?"
-    new "Quindi stiamo davvero qui seduti a cuocere nei nostri succhi?"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1211
-    old "Lunedì Mattina"
-    new "Lunedì Mattina"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1249
-    old "Ho passato di peggio"
-    new "Ho passato di peggio"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1249
-    old "È stato davvero molto divertente"
-    new "È stato davvero molto divertente"
-
-translate italian strings:
-
-    # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:48
     old "Sunday Morning"
     new "Domenica Mattina"
 

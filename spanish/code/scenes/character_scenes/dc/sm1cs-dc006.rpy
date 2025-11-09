@@ -942,10 +942,6 @@ translate spanish strings:
     old "Stop Debbie"
     new "Detener a Debbie"
 
-    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
-    old "Let her take the call"
-    new "Déjala atender la llamada"
-
 translate spanish strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483

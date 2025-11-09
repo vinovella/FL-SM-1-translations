@@ -942,14 +942,6 @@ translate turkish sm1cs_am005_walkout_df9591cc:
 
 translate turkish strings:
 
-    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
-    old "Push it."
-    new "İt."
-
-    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
-    old "Don't push it."
-    new "İtme."
-
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:99
     old "Act evasive"
     new "Kaçamak davran"

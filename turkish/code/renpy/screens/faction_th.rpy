@@ -12,10 +12,6 @@
     old "6 PM"
     new "18:00"
 
-    # game/code/renpy/screens/faction_th.rpy:60
-    old "Pay after show on "
-    new "Gösteriden sonra ödeme yapın"
-
     # game/code/renpy/screens/faction_th.rpy:67
     old "Extra pay for successful show:"
     new "Başarılı gösteri için ekstra ödeme:"

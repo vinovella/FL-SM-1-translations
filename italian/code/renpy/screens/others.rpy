@@ -1,9 +1,5 @@
 ﻿translate italian strings:
 
-    # game/code/renpy/screens/others.rpy:27
-    old "Sync your saves using Ren'Py Sync server"
-    new "Sync your saves using Ren'Py Sync server"
-
     # game/code/renpy/screens/others.rpy:29
     old "Upload Saves"
     new "Upload Saves"

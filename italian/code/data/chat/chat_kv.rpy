@@ -29,10 +29,6 @@
     new "You know me too well."
 
     # game/code/data/chat/chat_kv.rpy:3
-    old "😝"
-    new "😝"
-
-    # game/code/data/chat/chat_kv.rpy:3
     old "What's this one going to be about?"
     new "What's this one going to be about?"
 
@@ -43,10 +39,6 @@
     # game/code/data/chat/chat_kv.rpy:3
     old "But the client wants to focus on anal 🍑"
     new "But the client wants to focus on anal 🍑"
-
-    # game/code/data/chat/chat_kv.rpy:3
-    old "🔥🔥🔥"
-    new "🔥🔥🔥"
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Stacy might be in trouble, lol."

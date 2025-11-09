@@ -157,10 +157,6 @@
     new "谈论摄影女孩"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Photography-101 for $"
-    new "购买摄影入门，价格$"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Tell Stacy about Kanya"
     new "告诉史黛西关于康雅的事"
 
@@ -301,16 +297,8 @@
     new "Wurst送货赞助"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Stars Weekly for $"
-    new "购买明星周刊，价格$"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Next Blitz?"
     new "下一次闪电战？"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase An Actor Prepares for $"
-    new "购买演员的准备，价格$"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Hey Kellie!"

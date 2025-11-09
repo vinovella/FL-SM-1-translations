@@ -1,17 +1,5 @@
 ﻿translate turkish strings:
 
-    # game/code/renpy/screens/screens.rpy:19
-    old "Start from release 2"
-    new "Sürüm 2'den başla"
-
-    # game/code/renpy/screens/screens.rpy:22
-    old "Start"
-    new "Başlat"
-
-    # game/code/renpy/screens/screens.rpy:31
-    old "Preferences"
-    new "Ayarlar"
-
     # game/code/renpy/screens/screens.rpy:34
     old "End Replay"
     new "Tekrarı Bitir"
@@ -80,10 +68,6 @@
     old "»"
     new "»"
 
-    # game/code/renpy/screens/screens.rpy:478
-    old "Display"
-    new "Görüntü"
-
     # game/code/renpy/screens/screens.rpy:479
     old "Fullscreen"
     new "Tam Ekran"
@@ -99,54 +83,6 @@
     # game/code/renpy/screens/screens.rpy:490
     old "Transitions"
     new "Geçişler"
-
-    # game/code/renpy/screens/screens.rpy:495
-    old "Minigames"
-    new "Mini Oyunlar"
-
-    # game/code/renpy/screens/screens.rpy:503
-    old "Analytics"
-    new "Analitik"
-
-    # game/code/renpy/screens/screens.rpy:514
-    old "Text Speed"
-    new "Metin Hızı"
-
-    # game/code/renpy/screens/screens.rpy:518
-    old "Auto-Forward Time"
-    new "Otomatik İlerletme Süresi"
-
-    # game/code/renpy/screens/screens.rpy:522
-    old "Dialogue Box Opacity"
-    new "Diyalog Kutusu Saydamlığı"
-
-    # game/code/renpy/screens/screens.rpy:528
-    old "Music Volume"
-    new "Müzik Sesi"
-
-    # game/code/renpy/screens/screens.rpy:535
-    old "Sound Volume"
-    new "Ses Efekti"
-
-    # game/code/renpy/screens/screens.rpy:541
-    old "Test"
-    new "Test"
-
-    # game/code/renpy/screens/screens.rpy:552
-    old "Sex Voice Volume"
-    new "Cinsel Ses Sesi"
-
-    # game/code/renpy/screens/screens.rpy:563
-    old "Mute All"
-    new "Tümünü Sessize Al"
-
-    # game/code/renpy/screens/screens.rpy:654
-    old "Version [config.version!t]\n"
-    new "Sürüm [config.version!t]\n"
-
-    # game/code/renpy/screens/screens.rpy:659
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "{a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only] ile yapılmıştır.\n\n[renpy.license!t]"
 
     # game/code/renpy/screens/screens.rpy:704
     old "The dialogue history is empty."
@@ -292,14 +228,6 @@
     old "Skipping"
     new "Atlanıyor"
 
-translate turkish strings:
-
-    # game/code/renpy/screens/screens.rpy:513
-    old "Taboo Mode"
-    new "Taboo Mode"
-
-translate turkish strings:
-
     # game/code/renpy/screens/screens.rpy:12
     old "New Game"
     new "New Game"
@@ -428,14 +356,6 @@ translate turkish strings:
     old "Quick Menu Buttons :"
     new "Quick Menu Buttons :"
 
-    # game/code/renpy/screens/screens.rpy:894
-    old "Game"
-    new "Game"
-
-    # game/code/renpy/screens/screens.rpy:902
-    old "Voiceover"
-    new "Voiceover"
-
     # game/code/renpy/screens/screens.rpy:906
     old "Translation"
     new "Translation"
@@ -444,19 +364,9 @@ translate turkish strings:
     old "Others"
     new "Others"
 
-    # game/code/renpy/screens/screens.rpy:920
-    old "Version : [config.version!t]"
-    new "Version : [config.version!t]"
-
-    # game/code/renpy/screens/screens.rpy:921
-    old "Developed by :"
-    new "Developed by :"
-
     # game/code/renpy/screens/screens.rpy:923
     old "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
     new "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
-
-translate turkish strings:
 
     # game/code/renpy/screens/screens.rpy:353
     old "Saves For Chapter 2"

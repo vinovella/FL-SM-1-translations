@@ -5,10 +5,6 @@ translate spanish strings:
     new "Progresa en otras líneas de la historia"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Open Map and go to Wurst Delivery"
-    new "Abre el mapa y ve a Wurst Delivery"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Wurst Manager"
     new "Habla con el gerente de Wurst"
 
@@ -21,52 +17,16 @@ translate spanish strings:
     new "Saltar hasta la noche"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Work Wurst Delivery until you have $200"
-    new "Trabaja en Wurst Delivery hasta que tengas $200."
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Stacy when she is using her laptop"
-    new "Habla con Stacy cuando usa su computadora portátil"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy during the evening"
     new "Habla con Stacy durante la noche"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy when she is bed"
-    new "Habla con Stacy cuando ella está en la cama"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about getting more jobs"
     new "Habla con Stacy sobre conseguir más trabajos"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress IT job's story line"
-    new "La línea argumental de Progreso en el Trabajo"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress Theater job's story line"
-    new "Progresar en la línea historia de trabajo del Teatro"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress IT and Theater job story lines"
-    new "Progresar en las líneas de trabajo de informática y el Teatro"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about the IT job"
     new "Habla con Stacy sobre el trabajo de informática"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy about the theater"
-    new "Habla con Stacy sobre el teatro"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Go To Sleep"
-    new "Ve a dormir"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Go on a Date with Stacy"
-    new "Ir a una cita con Stacy"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Give Stacy $50 for a wig"
@@ -81,10 +41,6 @@ translate spanish strings:
     new "Habla con Stacy sobre la filmación"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress AmRose's Storyline"
-    new "Progresar en la historia de Amrose"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about AmRose"
     new "Habla con Stacy sobre Amrose"
 
@@ -97,36 +53,16 @@ translate spanish strings:
     new "Habla con Stacy por la mañana"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress Taisia's story line"
-    new "Progresa en la historia de Taisia"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy during the day"
     new "Habla con Stacy durante el día"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy to start renovation"
-    new "Habla con Stacy para comenzar a renovación"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Work on renovation and visit one of your jobs with Stacy and Melony"
-    new "Trabaja en la renovación y visita uno de tus trabajos con Stacy y Melony"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy to install stairs"
     new "Hable con Stacy para instalar las escaleras"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Work on renovation and visit your other job with Stacy and Melony"
-    new "Trabaja en la renovación y visita tu otro trabajo con Stacy y Melony"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy"
     new "Habla con Stacy"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Stacy at the studio at Morning"
-    new "Habla con Stacy en el estudio en la mañana"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about the camera girl"
@@ -137,24 +73,12 @@ translate spanish strings:
     new "Encuentra a Kanya en el Dojo Fotográfico"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Go to General Store"
-    new "Ir a la tienda general"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Purchase Photography-101"
     new "Comprar fotografía-101"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Read the book on your couch"
     new "Lea el libro en tu sofá"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Learn Photography until you have 5 in this topic (current {})"
-    new "Aprende Fotografía hasta tener 5 en este tema (actual {})"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Learn Photography until you have 5 in this topic"
-    new "Aprende Fotografía hasta tener 5 en este tema"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Visit Kanya in Photo Dojo"
@@ -169,20 +93,12 @@ translate spanish strings:
     new "Consigue ayuda con los documentos legales de Lyssa"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk about getting Legal Advice with Stacy"
-    new "Hable sobre la obtención de asesoramiento legal con Stacy"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Visit Kanya"
     new "Visita a Kanya"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Kanya about 'practice'"
     new "Habla con Kanya sobre la 'práctica'"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Kanya to learn more about Photography"
-    new "Habla con Kanya para aprender más sobre la fotografía"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about the USB drive"
@@ -193,56 +109,20 @@ translate spanish strings:
     new "Ir a Starducks por la mañana"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Go to the Photodojo to talk with the BDSM girl"
-    new "Ve al Dojo Fotográfico para hablar con la chica BDSM"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Amore in the Photodojo"
-    new "Habla con Amore en el Dojo Fotográfico"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Amore about the photos"
     new "Habla con Amore sobre las fotos"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Visit the Photodojo"
-    new "Visita el Dojo Fotográfico"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go to Wurst Delivery during the day"
     new "Ir a Wurst Delivery durante el día"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Get 6 Relationship points with Maya and talk to her in Wurst Delivery"
-    new "Consigue 6 puntos de relación con Maya y habla con ella en Wurst Delivery"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Get {}/9 Relationship points with Maya"
-    new "Consigue {}/9 puntos de relación con Maya"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Visit Wurst Delivery in the evening"
     new "Visita Wurst Delivery por la noche"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy about going to Lyssa during the day timeslot"
-    new "Habla con Stacy sobre ir con Lyssa durante el horario diurno"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy about Lyssa during the day timeslot"
-    new "Habla con Stacy sobre Lyssa durante el horario diurno"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about your date with Lyssa"
     new "Habla con Stacy sobre tu cita con Lyssa"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Take Lyssa out for a nice Dinner"
-    new "Llevar a Lyssa a una agradable cena"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Go to Lyssa's House during evening timeslot"
-    new "Ir a la casa de Lyssa durante el horario de la tarde"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Tell Stacy about your date with Lyssa"
@@ -273,24 +153,8 @@ translate spanish strings:
     new "Habla con Debbie en el parque durante el día"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the Park during the day"
-    new "Habla con Debbie en el parque durante el día"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Wait for few days"
-    new "Espera unos días"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie"
-    new "Habla con Debbie"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for a day"
     new "Espera un día"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the evening"
-    new "Habla con Debbie por la noche"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for Debbie to message you"
@@ -309,10 +173,6 @@ translate spanish strings:
     new "Habla con Stacy sobre Min"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Finish renovation to invite Min"
-    new "Terminar la renovación para invitar a Min"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Text Min"
     new "Enviar un mensaje a Min"
 
@@ -328,8 +188,6 @@ translate spanish strings:
     old "Meet Ridley"
     new "Reúnete con Ridley"
 
-translate spanish strings:
-
     # game/code/data/quests/quests_neutral.rpy:4
     old "Have $200 and text Kanya"
     new "Have $200 and text Kanya"
@@ -341,10 +199,6 @@ translate spanish strings:
     # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for Stacy to make editing progress"
     new "Wait for Stacy to make editing progress"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Stacy about editing again... during the day"
-    new "Talk to Stacy about editing again... during the day"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for Stacy to finish editing"
@@ -359,10 +213,6 @@ translate spanish strings:
     new "Text Debbie"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Get to 3 relationship points with Min"
-    new "Get to 3 relationship points with Min"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for Min to text you"
     new "Wait for Min to text you"
 
@@ -371,22 +221,8 @@ translate spanish strings:
     new "Answer Min"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Get to 5 relationship points with Min"
-    new "Get to 5 relationship points with Min"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Min in a bar"
-    new "Talk with Min in a bar"
-
-translate spanish strings:
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy about new order from the client"
     new "Talk to Stacy about new order from the client"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy to choose the movie you want to film"
-    new "Talk with Stacy to choose the movie you want to film"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Film and release the new movie"
@@ -401,14 +237,6 @@ translate spanish strings:
     new "Visit Lyssa in the afternoon"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Invite Lyssa to visit studio"
-    new "Invite Lyssa to visit studio"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy to borrow laptop for editing Lyssa's video"
-    new "Talk with Stacy to borrow laptop for editing Lyssa's video"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Show the edited video to Lyssa"
     new "Show the edited video to Lyssa"
 
@@ -421,40 +249,12 @@ translate spanish strings:
     new "Wait for Min to text you again"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Text Min in the Morning to help her move in"
-    new "Text Min in the Morning to help her move in"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Stacy wants to talk to you about Melony"
     new "Stacy wants to talk to you about Melony"
-
-translate spanish strings:
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the Park"
-    new "Talk to Debbie in the Park"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the evening in the Park"
-    new "Talk to Debbie in the evening in the Park"
-
-translate spanish strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy when she is in bed"
     new "Talk with Stacy when she is in bed"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress IT job's storyline"
-    new "Progress IT job's storyline"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress Theater job's storyline"
-    new "Progress Theater job's storyline"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress IT and Theater job storylines"
-    new "Progress IT and Theater job storylines"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Progress AmRose's storyline"
@@ -467,10 +267,6 @@ translate spanish strings:
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy at the studio in the morning"
     new "Talk to Stacy at the studio in the morning"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Learn Photography until you have 5 in this topic (currently {})"
-    new "Learn Photography until you have 5 in this topic (currently {})"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Get 6 Relationship Points with Maya and talk to her in Wurst Delivery"
@@ -489,10 +285,6 @@ translate spanish strings:
     new "Talk with Stacy about Lyssa during the day"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Go to Lyssa's House during evening"
-    new "Go to Lyssa's House during evening"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for a few days"
     new "Wait for a few days"
 
@@ -503,8 +295,6 @@ translate spanish strings:
     # game/code/data/quests/quests_neutral.rpy:4
     old "Get to 5 Relationship Points with Min"
     new "Get to 5 Relationship Points with Min"
-
-translate spanish strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Open the map and go to Wurst Delivery"

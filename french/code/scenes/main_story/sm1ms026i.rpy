@@ -83,10 +83,6 @@ translate french strings:
     old "progress Nari and Min or Lyssa's story first"
     new "progress Nari and Min or Lyssa's story first"
 
-    # game/code/scenes/main_story/sm1ms026i.rpy:125
-    old "Choose Sci-Fi Movie ({message})"
-    new "Choose Sci-Fi Movie ({message})"
-
     # game/code/scenes/main_story/sm1ms026i.rpy:128
     old "progress Nari's story first"
     new "progress Nari's story first"

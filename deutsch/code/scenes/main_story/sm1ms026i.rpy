@@ -70,10 +70,6 @@ translate deutsch strings:
     old "Choose the movie later"
     new "Wähle den Film später aus"
 
-    # game/code/scenes/main_story/sm1ms026i.rpy:112
-    old "Choose Pirates movie (progress Tiasia's story first)"
-    new "Wähle den Piratenfilm (Zuerst Fortschritt bei Tiasia's Geschichte)"
-
     # game/code/scenes/main_story/sm1ms026i.rpy:113
     old "Choose Pirates movie"
     new "Wähle den Piratenfilm"
@@ -81,10 +77,6 @@ translate deutsch strings:
     # game/code/scenes/main_story/sm1ms026i.rpy:123
     old "progress Nari and Min or Lyssa's story first"
     new "Zuerst Fortschritt bei Nari und Min oder Lyssa's Geschichte"
-
-    # game/code/scenes/main_story/sm1ms026i.rpy:125
-    old "Choose Sci-Fi Movie ({message})"
-    new "Wähle den Science-Fiction-Film ({message})"
 
     # game/code/scenes/main_story/sm1ms026i.rpy:128
     old "progress Nari's story first"

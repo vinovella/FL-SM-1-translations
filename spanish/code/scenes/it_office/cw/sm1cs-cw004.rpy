@@ -1974,10 +1974,6 @@ translate spanish strings:
     old "I don't want to waste your ammo"
     new "I don't want to waste your ammo"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
-    old "Sure lets do it"
-    new "Sure lets do it"
-
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:636
     old "Later that evening"
     new "Later that evening"

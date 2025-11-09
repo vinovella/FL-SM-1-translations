@@ -145,10 +145,6 @@
     new "Parler de la fille à la caméra"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Photography-101 for $"
-    new "Acheter Photographie-101 pour $"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Tell Stacy about Kanya"
     new "Parler à Stacy de Kanya"
 
@@ -273,28 +269,12 @@
     new "Répétition pour le spectacle"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Let's go to Amusement Park"
-    new "Allons au parc d'attractions"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Interview Taisia now"
     new "Interviewe Taisia maintenant"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "___ INSERT _____"
-    new "___ INSÉRER _____"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Stars Weekly for $"
-    new "Acheter Stars Weekly pour $"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Next Blitz?"
     new "Prochain Blitz ?"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase An Actor Prepares for $"
-    new "Acheter *An Actor Prepares* pour $"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Hey Kellie!"

@@ -12,10 +12,6 @@ translate spanish strings:
     old "No Minigames"
     new "Sin minijuegos"
 
-    # game/code/renpy/screens/difficulity.rpy:46
-    old "No Sandbox\n{size=25}(Beta){/size}"
-    new "No Sandbox \n {size=25} (beta) {/size}"
-
 translate spanish strings:
 
     # game/code/renpy/screens/difficulity.rpy:46

@@ -256,24 +256,6 @@ translate portuguese sm1cs_km003_2i_menu_716019b8:
     # mc "Right."
     mc "Beleza."
 
-translate portuguese strings:
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
-    old "To be honest, I've been slacking. Lots of stuff going on."
-    new "Sinceramente, ando meio folgado. Muita coisa acontecendo."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:77
-    old "I've been doing alright. But I could use help."
-    new "Tenho ido bem. Mas uma ajuda seria legal."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
-    old "Alright, let's do another lesson."
-    new "Beleza, vamos fazer outra aula."
-
-    # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:121
-    old "Veronica doesn't seem to do that."
-    new "A Veronica não faz isso."
-
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:45
 translate portuguese sm1cs_km003_2i_c20b6007:
 

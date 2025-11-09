@@ -580,14 +580,6 @@ translate portuguese strings:
     old "Do you know anyone hiring?"
     new "Sabe de alguém que está contratando?"
 
-    # game/code/scenes/theatre/sm1fs-t005.rpy:97
-    old "I'm sure you did your best, Denise."
-    new "Eu sei que você se esforçou, Denise"
-
-    # game/code/scenes/theatre/sm1fs-t005.rpy:97
-    old "Say nothing."
-    new "Não falar nada."
-
 translate portuguese strings:
 
     # game/code/scenes/theatre/sm1fs-t005.rpy:97

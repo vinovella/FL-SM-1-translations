@@ -73,10 +73,6 @@
     new "Merdivenleri birleştirin"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Visit Theather"
-    new "Tiyatroyu Ziyaret Et"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Are we done?"
     new "Bitti mi?"
 
@@ -131,10 +127,6 @@
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about camera girl"
     new "Kamera kızı hakkında konuş"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Photography-101 for $"
-    new "Fotoğrafçılık-101'i $'a satın al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Tell Stacy about Kanya"
@@ -241,28 +233,12 @@
     new "Gösteri için prova"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Let's go to Amusement Park"
-    new "Hadi Eğlence Parkına Gidelim"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Interview Taisia now"
     new "Şimdi Taisia ​​ile röportaj"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "___ INSERT _____"
-    new "___ EKLE _____"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Stars Weekly for $"
-    new "Yıldızları Haftalık Olarak $'a Satın Al"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Next Blitz?"
     new "Bir Sonraki Blitz?"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase An Actor Prepares for $"
-    new "Bir Oyuncu $'a Hazırlanıyor"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Hey Kellie!"
@@ -389,10 +365,6 @@ translate turkish strings:
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "I finished editing!"
     new "I finished editing!"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Sci-fi movie"
-    new "Sci-fi movie"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Min for the Sci-Fi Movie"

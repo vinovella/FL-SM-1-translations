@@ -1334,14 +1334,6 @@ translate deutsch strings:
     old "Eat out Nari"
     new "Leck Nari"
 
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
-    old "Dominate Nari."
-    new "Dominiere Nari."
-
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
-    old "Don't dominate Nari."
-    new "Dominiere Nari nicht."
-
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:647
     old "Let Nari ride you"
     new "Lass dich von Nari reiten"

@@ -1559,10 +1559,6 @@ translate spanish strings:
     new "Taisia"
 
     # game/code/scenes/theatre/sm1fs-t004.rpy:595
-    old "Kelly"
-    new "Kelly"
-
-    # game/code/scenes/theatre/sm1fs-t004.rpy:595
     old "Veronica"
     new "Verónica"
 

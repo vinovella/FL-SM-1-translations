@@ -145,10 +145,6 @@
     new "Über das Kamera-Mädchen sprechen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Photography-101 for $"
-    new "Kaufe Fotografie-101 für $"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Tell Stacy about Kanya"
     new "Erzähl Stacy von Kanya."
 
@@ -273,28 +269,12 @@
     new "Probe für die Show"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Let's go to Amusement Park"
-    new "Lass uns in den Vergnügungspark gehen"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Interview Taisia now"
     new "Jetzt Taisia interviewen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "___ INSERT _____"
-    new "___ EINFÜGEN _____"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Stars Weekly for $"
-    new "Kaufe Stars Weekly für $"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Next Blitz?"
     new "Nächster Blitz?"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase An Actor Prepares for $"
-    new "Kaufe -Ein Schauspieler bereitet sich vor- für $"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Hey Kellie!"
@@ -389,10 +369,6 @@ translate deutsch strings:
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Wurst Delivery Sponsorship"
     new "Wurstlieferung-Sponsoring"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Sci-fi movie"
-    new "Science-Fiction-Film"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Min for the Sci-Fi Movie"

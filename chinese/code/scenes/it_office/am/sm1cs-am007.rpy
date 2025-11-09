@@ -2570,10 +2570,6 @@ translate chinese strings:
     old "You'll figure it out"
     new "你会搞定的"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
-    old "Suprised it's taking you this long"
-    new "惊讶你花了这么长时间"
-
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "I have heard of the general concept"
     new "我听说过大概的概念"

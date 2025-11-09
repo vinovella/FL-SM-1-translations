@@ -149,10 +149,6 @@
     new "我得学习了。但我会给你点东西让你缓解一下。"
 
     # game/code/data/chat/chat_mes.rpy:112
-    old "Wish you could be here to warm my body."
-    new "希望你能在这里温暖我的身体。"
-
-    # game/code/data/chat/chat_mes.rpy:112
     old "Let's arrange that soon."
     new "让我们尽快安排一下。"
 
@@ -175,10 +171,6 @@
     # game/code/data/chat/chat_mes.rpy:258
     old "Haha. You really have a one-track mind."
     new "哈哈。你真是一根筋。"
-
-    # game/code/data/chat/chat_mes.rpy:258
-    old "I was thinking of a game night. You, Stacy and I."
-    new "我在想举办一个游戏之夜。你，史黛西和我。"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Sounds fun. I didn't think you'd want Stacy involved?"
@@ -215,10 +207,6 @@
     # game/code/data/chat/chat_mes.rpy:258
     old "All you need to do is come over."
     new "你只需要过来就行。"
-
-    # game/code/data/chat/chat_mes.rpy:258
-    old "Alright, this evening works?"
-    new "好的，今晚可以吗？"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Perfect. See you then."

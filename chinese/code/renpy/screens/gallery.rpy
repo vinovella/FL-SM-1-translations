@@ -36,10 +36,6 @@
     old "None"
     new "无"
 
-    # game/code/renpy/screens/gallery.rpy:112
-    old "Close"
-    new "关闭"
-
     # game/code/renpy/screens/gallery.rpy:141
     old "Prev"
     new "上一页"

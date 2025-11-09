@@ -1,10 +1,6 @@
 ﻿translate deutsch strings:
 
     # game/code/data/chat/chat_ns.rpy:3
-    old "Hey! I have an idea. Can we meet in cafe?"
-    new "Hey! Ich habe eine Idee. Können wir uns im Café treffen?"
-
-    # game/code/data/chat/chat_ns.rpy:3
     old "No-no, I want you to meet someone! Can you come?"
     new "Nein, nein, ich möchte dir jemanden vorstellen! Kannst du kommen?"
 

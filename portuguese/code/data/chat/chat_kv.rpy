@@ -29,24 +29,12 @@ translate portuguese strings:
     new "Você me conhece bem demais."
 
     # game/code/data/chat/chat_kv.rpy:3
-    old "😝"
-    new "😝"
-
-    # game/code/data/chat/chat_kv.rpy:3
-    old "What's this one going be about?"
-    new "Esse vai ser sobre o quê?"
-
-    # game/code/data/chat/chat_kv.rpy:3
     old "We haven't figured out the details."
     new "Ainda não sabemos os detalhes."
 
     # game/code/data/chat/chat_kv.rpy:3
     old "But the client wants to focus on anal 🍑"
     new "Mas o cliente quer focar em anal 🍑"
-
-    # game/code/data/chat/chat_kv.rpy:3
-    old "🔥🔥🔥"
-    new "🔥🔥🔥"
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Stacy might be in trouble, lol."

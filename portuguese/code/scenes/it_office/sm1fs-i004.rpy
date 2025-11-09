@@ -691,18 +691,6 @@ translate portuguese sm1fs_i004_9f0edafa:
 translate portuguese strings:
 
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "I do, I love Kikini Bill."
-    new "Sim, adoro Kikini Bill."
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "Uh, yep! Totally."
-    new "Ahm, sim! Com certeza."
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "I don't mind some... Punk rock."
-    new "Não me incomodo com... Punk rock."
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "I'd rather listen to classic rock!"
     new "Prefiro ouvir um rock clássico!"
 

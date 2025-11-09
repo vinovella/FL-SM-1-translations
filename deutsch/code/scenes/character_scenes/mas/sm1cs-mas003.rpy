@@ -1696,14 +1696,6 @@ translate deutsch strings:
     old "Ask for your cut"
     new "Frage nach deinem Anteil"
 
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "Wurst delivery tip"
-    new "Wurstlieferungs Tinkgeld"
-
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a ${} as your cut of the tip."
-    new "Du hast ${} als deinen Anteil am Trinkgeld bekommen."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
 translate deutsch sm1cs_mas003_third_delivery_7eec6586:
 

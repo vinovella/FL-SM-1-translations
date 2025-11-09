@@ -8,29 +8,9 @@
     old "History"
     new "Historique"
 
-    # game/code/renpy/screens/game_menus.rpy:152
-    old "Skip"
-    new "Passer"
-
-    # game/code/renpy/screens/game_menus.rpy:153
-    old "Auto"
-    new "Auto"
-
     # game/code/renpy/screens/game_menus.rpy:154
     old "Save"
     new "Sauvegarde"
-
-    # game/code/renpy/screens/game_menus.rpy:155
-    old "Q.Save"
-    new "Sauvegarde rapide"
-
-    # game/code/renpy/screens/game_menus.rpy:156
-    old "Q.Load"
-    new "Chargement rapide"
-
-    # game/code/renpy/screens/game_menus.rpy:157
-    old "Prefs"
-    new "Préférences"
 
     # game/code/renpy/screens/game_menus.rpy:160
     old "Open phone"

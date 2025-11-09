@@ -3634,10 +3634,6 @@ translate chinese strings:
     old "I'm okay if you call me 'daddy'"
     new "如果你想叫我'爸爸'我没意见"
 
-    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:815
-    old "I'm not going to manipulate you, Min."
-    new "我不会操纵你的，明。"
-
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:878
     old "Yup"
     new "是的"
@@ -3649,10 +3645,6 @@ translate chinese strings:
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1488
     old "Ask Stacy and Min to piss on you"
     new "让史黛西和明对你撒尿"
-
-    # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1488
-    old "Maybe some other time."
-    new "也许下次吧。"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:813
     old "I'm not going to manipulate you, Min"

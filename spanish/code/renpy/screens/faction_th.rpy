@@ -12,19 +12,9 @@ translate spanish strings:
     old "6 PM"
     new "6 PM"
 
-    # game/code/renpy/screens/faction_th.rpy:60
-    old "Pay after show on"
-    new "Pagar después del espectáculo"
-
     # game/code/renpy/screens/faction_th.rpy:67
     old "Extra pay for successful show:"
     new "Pago extra por espectáculo exitoso:"
-
-translate spanish strings:
-
-    # game/code/renpy/screens/faction_th.rpy:60
-    old "Pay after show on "
-    new "Pay after show on "
 
 translate spanish strings:
 

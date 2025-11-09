@@ -997,10 +997,6 @@ translate french sm1cs_am006_arcade_b400fc7f:
 translate french strings:
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
-    old "That really sucks."
-    new "Ça craint vraiment."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
     old "Isn't the customer always right?"
     new "Le client n’a-t-il pas toujours raison ?"
 
@@ -1013,28 +1009,8 @@ translate french strings:
     new "Tu te fous de moi, hein ?"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
-    old "You look great."
-    new "Tu es superbe."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
     old "I'm glad we both look good"
     new "Je suis content qu’on ait tous les deux la classe"
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
-    old "I hope it doesn't."
-    new "J’espère que non."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
-    old "Maybe."
-    new "Peut-être."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
-    old "Kiss April again."
-    new "Embrasse April encore."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
-    old "Don't kiss April."
-    new "N’embrasse pas April."
 
 #Translate by BlackViper_
 

@@ -499,20 +499,8 @@ translate spanish sm1cs_am002_bf8549a7:
 translate spanish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
-    old "You should watch where you're going."
-    new "Deberías ver a dónde vas."
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
     old "April, you okay?"
     new "Abril, ¿estás bien?"
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
-    old "She's a fucking menace."
-    new "Ella es una maldita amenaza."
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
-    old "She seems stressed."
-    new "Parece estresada."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:57
 translate spanish sm1cs_am002_e86d99ac:

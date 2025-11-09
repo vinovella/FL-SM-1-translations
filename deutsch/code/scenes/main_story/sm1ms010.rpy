@@ -1174,29 +1174,9 @@ translate deutsch strings:
     old "Is this more pretend, or real?"
     new "Ist das eher vorgetäuscht oder echt?"
 
-    # game/code/scenes/main_story/sm1ms010.rpy:106
-    old "Yeah, me too."
-    new "Ja, ich auch."
-
     # game/code/scenes/main_story/sm1ms010.rpy:189
     old "Do you really want to know?"
     new "Willst du das wirklich wissen?"
-
-    # game/code/scenes/main_story/sm1ms010.rpy:189
-    old "She's doing fine."
-    new "Ihr geht es gut."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:337
-    old "Kiss her again and continue."
-    new "Küss sie noch einmal und mach weiter."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:337
-    old "Stop things from going further."
-    new "Verhinder, dass die Dinge weiter eskalieren."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:491
-    old "Knock yourself out."
-    new "Tue dir keinen Zwang an."
 
     # game/code/scenes/main_story/sm1ms010.rpy:491
     old "No thanks (Lock off Foot Fetish Content)"

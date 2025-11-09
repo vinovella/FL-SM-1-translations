@@ -12,10 +12,6 @@
     old "Hide Quests"
     new "Masquer les quêtes"
 
-    # game/code/renpy/screens/ui.rpy:30
-    old "Timeslot: {}"
-    new "Créneau horaire : {}"
-
 #Translate by BlackViper_
 translate french strings:
 

@@ -886,21 +886,9 @@ translate spanish strings:
     old "After a tense lunch"
     new "Después de un almuerzo tenso"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "It was fine."
-    new "Estuvo bien."
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "Sorry, Claire."
-    new "Lo siento, Claire."
-
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Anything for my 'girlfriend'"
     new "Cualquier cosa para mi 'novia'"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
-    old "Don't mention it, Ms. Watts."
-    new "No lo mencione, Srta. Watts."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:57
 translate spanish sm1cs_cw002_2_de7b5f54:

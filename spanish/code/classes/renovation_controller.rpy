@@ -4,10 +4,6 @@ translate spanish strings:
     old "You have completed renovating the studio"
     new "Has completado la renovación del estudio"
 
-    # game/code/classes/renovation_controller.rpy:48
-    old "Renovation progress increased by {progress}%"
-    new "El progreso de la renovación aumentó {progress}%"
-
     # game/code/classes/renovation_controller.rpy:91
     old "Renovation complete"
     new "Renovación completada"

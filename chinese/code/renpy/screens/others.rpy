@@ -1,9 +1,5 @@
 ﻿translate chinese strings:
 
-    # game/code/renpy/screens/others.rpy:27
-    old "Sync your saves using Ren'Py Sync server"
-    new "使用Ren'Py同步服务器同步您的存档"
-
     # game/code/renpy/screens/others.rpy:29
     old "Upload Saves"
     new "上传存档"

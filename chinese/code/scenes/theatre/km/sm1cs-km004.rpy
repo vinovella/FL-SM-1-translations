@@ -1627,10 +1627,6 @@ translate chinese strings:
 translate chinese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
-    old "Yeah, it's exciting."
-    new "是啊，真让人兴奋"
-
-    # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
     old "What is my role again?"
     new "我到底要做什么来着？"
 

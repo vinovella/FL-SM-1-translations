@@ -1,32 +1,12 @@
 ﻿translate french strings:
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy about the movie in the morning"
-    new "Parler à Stacy du film le matin"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Buy costumes and recruit actress for the movie"
-    new "Acheter des costumes et recruter une actrice pour le film"
-
-    # game/code/data/quests/quests_movies.rpy:3
     old "Choose whether to invest in costumes or recruit an actress first"
     new "Choisir d'investir d'abord dans des costumes ou de recruter une actrice"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Keep investing in the costume budget to prepare the outfits for the movie"
-    new "Continuer à investir dans le budget des costumes pour préparer les tenues du film"
-
-    # game/code/data/quests/quests_movies.rpy:3
     old "Focus on recruiting an actress by filling the actress budget"
     new "Se concentrer sur le recrutement d'une actrice en complétant le budget des actrices"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with stacy to buy costumes"
-    new "Parler avec Stacy pour acheter des costumes"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with stacy to hire actresses"
-    new "Parler avec Stacy pour engager des actrices"
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Find Taisia and recruit her for the movie"
@@ -37,36 +17,12 @@
     new "Parler avec Stacy du travail sur le film"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Add money for buying props and energy for building the props"
-    new "Ajouter de l'argent pour acheter des accessoires et de l'énergie pour les construire"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Add money for buying props"
-    new "Ajouter de l'argent pour acheter des accessoires"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Add energy for building the props"
-    new "Ajouter de l'énergie pour construire les accessoires"
-
-    # game/code/data/quests/quests_movies.rpy:3
     old "Talk with Stacy to finish building props"
     new "Parler avec Stacy pour finir de construire les accessoires"
 
     # game/code/data/quests/quests_movies.rpy:3
-    old "Talk to Stacy in the Morning to start filming the movie"
-    new "Parler à Stacy le matin pour commencer le tournage du film"
-
-    # game/code/data/quests/quests_movies.rpy:3
     old "Wait to film next scene"
     new "Attendre pour tourner la scène suivante"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Talk with Taisia to start filming next scene"
-    new "Parler avec Taisia pour commencer à tourner la scène suivante"
-
-    # game/code/data/quests/quests_movies.rpy:3
-    old "Stacy wants to talk to you at Noon."
-    new "Stacy veut te parler à midi."
 
     # game/code/data/quests/quests_movies.rpy:3
     old "Add money for travel"

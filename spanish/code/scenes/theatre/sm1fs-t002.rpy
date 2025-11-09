@@ -1895,16 +1895,8 @@ translate spanish strings:
     new "¿Me gusta perrito y vaquera?"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:244
-    old "I'm into spanking."
-    new "Me gustan las nalgadas."
-
-    # game/code/scenes/theatre/sm1fs-t002.rpy:244
     old "I like all of those things!"
     new "¡Me gustan todas esas cosas!"
-
-    # game/code/scenes/theatre/sm1fs-t002.rpy:244
-    old "I'm game. If you can do those things to me."
-    new "Me apunto. Si puedes hacerme esas cosas."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:304
 translate spanish sm1fs_t002_3cc3e891:

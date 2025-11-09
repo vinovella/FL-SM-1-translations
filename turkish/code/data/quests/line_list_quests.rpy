@@ -1,10 +1,6 @@
 ﻿translate turkish strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
-    old "Main Story"
-    new "Ana Hikaye"
-
-    # game/code/data/quests/line_list_quests.rpy:5
     old "Unlock more jobs"
     new "Daha fazla iş aç"
 
@@ -75,10 +71,6 @@
     # game/code/data/quests/line_list_quests.rpy:5
     old "Denise's story"
     new "Denise'in Hikayesi"
-
-    # game/code/data/quests/line_list_quests.rpy:5
-    old "Kelly's story"
-    new "Kelly'nin Hikayesi"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Taisia's story"

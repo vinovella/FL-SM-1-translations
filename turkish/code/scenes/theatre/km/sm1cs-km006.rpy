@@ -3205,10 +3205,6 @@ translate turkish sm1cs_km006_after_sex_353b9d2c:
 translate turkish strings:
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:83
-    old "Sure. Just practicing."
-    new "Elbette. Sadece pratik yapıyorum."
-
-    # game/code/scenes/theatre/km/sm1cs-km006.rpy:83
     old "You sound bitter about what we did"
     new "Yaptığımız şey hakkında acı konuşuyorsun"
 

@@ -157,10 +157,6 @@
     new "Talk about camera girl"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Photography-101 for $"
-    new "Purchase Photography-101 for $"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Tell Stacy about Kanya"
     new "Tell Stacy about Kanya"
 
@@ -301,16 +297,8 @@
     new "Wurst Delivery Sponsorship"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Stars Weekly for $"
-    new "Purchase Stars Weekly for $"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Next Blitz?"
     new "Next Blitz?"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase An Actor Prepares for $"
-    new "Purchase An Actor Prepares for $"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Hey Kellie!"

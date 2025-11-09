@@ -226,16 +226,6 @@ translate turkish sm1cs_cw002_8f39dca1:
     # mct "This {i}really{/i} must be a difficult client. I don't think I've ever seen Claire acting like this before."
     mct "Bu {i}gerçekten{/i} zor bir müşteri olmalı. Claire'in daha önce hiç böyle davrandığını görmemiştim sanırım."
 
-translate turkish strings:
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
-    old "I like it."
-    new "Hoşuma gitti."
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
-    old "I don't like it."
-    new "Hoşuma gitmiyor."
-
 # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:99
 translate turkish sm1cs_cw002_e0bf352d:
 

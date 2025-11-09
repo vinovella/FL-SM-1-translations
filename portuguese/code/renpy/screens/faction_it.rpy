@@ -12,10 +12,6 @@ translate portuguese strings:
     old "Days worked this week:"
     new "Dias trabalhados na semana:"
 
-    # game/code/renpy/screens/faction_it.rpy:41
-    old "Days"
-    new "Dias"
-
     # game/code/renpy/screens/faction_it.rpy:46
     old "Pay per day:"
     new "Salário por dia:"

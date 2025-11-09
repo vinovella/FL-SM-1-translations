@@ -1974,10 +1974,6 @@ translate portuguese strings:
     old "I don't want to waste your ammo"
     new "Não quero gastar sua munição"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
-    old "Sure lets do it"
-    new "Beleza, vamos"
-
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:636
     old "Later that evening"
     new "Mais tarde"

@@ -16,10 +16,6 @@
     old "Fetishes"
     new "Fetişler"
 
-    # game/code/renpy/screens/character.rpy:59
-    old "Progress "
-    new "İlerleme "
-
 translate turkish strings:
 
     # game/code/renpy/screens/character.rpy:59

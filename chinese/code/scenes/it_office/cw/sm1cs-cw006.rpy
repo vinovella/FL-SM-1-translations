@@ -1775,10 +1775,6 @@ translate chinese strings:
     new "不相信她"
 
     # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:480
-    old "You're lips?"
-    new "你的嘴唇？"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:480
     old "Your ass?"
     new "你的屁眼？"
 

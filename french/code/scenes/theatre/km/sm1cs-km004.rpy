@@ -1589,10 +1589,6 @@ translate french sm1cs_km004_later_03d537de:
     mct "J’espère juste que Taisia ne fera pas payer Kellie pour récupérer ses vêtements."
 
 translate french strings:
-
-    # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
-    old "Yeah, it's exciting."
-    new "Ouais, c'est plutôt excitant."
     
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
     old "What is my role again?"

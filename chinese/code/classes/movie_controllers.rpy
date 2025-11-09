@@ -4,10 +4,6 @@
     old "Movie royalty"
     new "电影版税"
 
-    # game/code/classes/movie_controllers.rpy:40
-    old "{} release"
-    new "{}发布"
-
     # game/code/classes/movie_controllers.rpy:99
     old "Pirate Movie"
     new "海盗电影"
@@ -19,10 +15,6 @@
     # game/code/classes/movie_controllers.rpy:111
     old "You don't have enough money"
     new "您的钱不够"
-
-    # game/code/classes/movie_controllers.rpy:113
-    old "Add ${amount} to {budget_name}"
-    new "向{budget_name}添加${amount}"
 
     # game/code/classes/movie_controllers.rpy:126
     old "You have filled the energy bar already"
@@ -40,17 +32,9 @@
     old "You can only work from the Studio"
     new "您只能在工作室工作"
 
-    # game/code/classes/movie_controllers.rpy:134
-    old "Add {amount} to {energy_name}"
-    new "向{energy_name}添加{amount}"
-
     # game/code/classes/movie_controllers.rpy:211
     old "Sci-Fi Movie"
     new "科幻电影"
-
-    # game/code/classes/movie_controllers.rpy:246
-    old "Add {amount}"
-    new "添加{amount}"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Costume Budget"
@@ -91,12 +75,6 @@
     # game/code/classes/movie_controllers.rpy:45
     old "CGI Budget"
     new "CGI预算"
-
-    # game/code/classes/movie_controllers.rpy:150
-    old "Spend {amount} Energy in {energy_name}"
-    new "在{energy_name}消耗{amount}点能量"
-
-translate chinese strings:
 
     # game/code/classes/movie_controllers.rpy:40
     old "[movie] release"

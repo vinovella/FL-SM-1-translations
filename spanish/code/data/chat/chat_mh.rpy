@@ -26,10 +26,6 @@ translate spanish strings:
     old "Yeah! I'm totally free this morning, stop on by!"
     new "Yeah! I'm totally free this morning, stop on by!"
 
-    # game/code/data/chat/chat_mh.rpy:37
-    old "I'll be over in a jif"
-    new "I'll be over in a jif"
-
 translate spanish strings:
 
     # game/code/data/chat/chat_mh.rpy:37

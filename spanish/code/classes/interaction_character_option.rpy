@@ -28,10 +28,6 @@ translate spanish strings:
     old "{name} (not available today)"
     new "{name} (no disponible hoy)"
 
-    # game/code/classes/interaction_character_option.rpy:92
-    old "{name} (You need to have $ {amount})"
-    new "{name} (Necesitas tener $ {amount})"
-
     # game/code/classes/interaction_character_option.rpy:94
     old "{name} (not enough energy)"
     new "{name} (no tienes suficiente energía)"

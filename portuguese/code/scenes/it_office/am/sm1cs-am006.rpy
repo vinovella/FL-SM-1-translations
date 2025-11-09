@@ -997,10 +997,6 @@ translate portuguese sm1cs_am006_arcade_b400fc7f:
 translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
-    old "That really sucks."
-    new "Que bosta."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
     old "Isn't the customer always right?"
     new "O cliente não tá sempre certo?"
 
@@ -1013,28 +1009,8 @@ translate portuguese strings:
     new "Você tá bagunçando comigo, né"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
-    old "You look great."
-    new "Você tá linda"
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
     old "I'm glad we both look good"
     new "Que bom que nós dois estamos lindos"
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
-    old "I hope it doesn't."
-    new "Tomara que não."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
-    old "Maybe."
-    new "Talvez."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
-    old "Kiss April again."
-    new "Beijar April de novo."
-
-    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
-    old "Don't kiss April."
-    new "Não beijar April"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:54
 translate portuguese sm1cs_am006_58ee8e36:

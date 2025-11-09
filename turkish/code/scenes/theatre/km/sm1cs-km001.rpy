@@ -510,14 +510,6 @@ translate turkish sm1cs_km001_e1a4d150:
 
 translate turkish strings:
 
-    # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
-    old "I'll go easy on you."
-    new "Sana karşı nazik olacağım."
-
-    # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
-    old "Let's dance, Kellie."
-    new "Hadi dans edelim, Kellie."
-
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:189
     old "Distract her with flirting"
     new "Onu flört ederek oyalayın"

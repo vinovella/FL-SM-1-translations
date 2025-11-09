@@ -472,20 +472,6 @@ translate deutsch sm1ms026_end_d05cfa21:
     # sy "God only knows..."
     sy "Das weiß nur Gott allein..."
 
-translate deutsch strings:
-
-    # game/code/scenes/main_story/sm1ms026.rpy:66
-    old "Pirates"
-    new "Piraten"
-
-    # game/code/scenes/main_story/sm1ms026.rpy:228
-    old "Talk about Sci Fi film"
-    new "Über Science-Fiction-Filme sprechen"
-
-    # game/code/scenes/main_story/sm1ms026.rpy:228
-    old "That's enough planning for now"
-    new "Das reicht fürs Erste mit der Planung"
-
 # game/code/scenes/main_story/sm1ms026.rpy:55
 translate deutsch sm1ms026_62fa9484:
 

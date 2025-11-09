@@ -729,10 +729,6 @@ translate portuguese strings:
     new "Concordo"
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
-    old "I had to come here for work."
-    new "Tive que vir aqui a trabalho."
-
-    # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
     old "I wanted to check on you"
     new "Eu queria ver como você estava"
 

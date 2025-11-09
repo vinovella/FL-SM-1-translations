@@ -652,10 +652,6 @@ translate deutsch strings:
     old "Practicing kisses?"
     new "Practicing kisses?"
 
-    # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30
-    old "There must be a special form."
-    new "There must be a special form."
-
 translate deutsch strings:
 
     # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30

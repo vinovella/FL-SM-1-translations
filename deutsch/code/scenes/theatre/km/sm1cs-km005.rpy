@@ -1336,10 +1336,6 @@ translate deutsch strings:
     old "Why did you do that?"
     new "Why did you do that?"
 
-    # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
-    old "That was good. But now we've got a little mess to clean up."
-    new "That was good. But now we've got a little mess to clean up."
-
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:429
 translate deutsch sm1cs_km005_22270354:
 

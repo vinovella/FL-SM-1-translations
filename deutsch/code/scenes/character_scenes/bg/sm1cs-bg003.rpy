@@ -1950,10 +1950,6 @@ translate deutsch strings:
     old "I'd actually prefer it if you used my name"
     new "Ich würde es eigentlich vorziehen, wenn du meinen Namen verwenden würdest."
 
-    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:721
-    old "How about instead, you call me..."
-    new "Wie wäre es stattdessen, wenn du mich anrufst..."
-
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:723
     old "Master"
     new "Meister"
@@ -1961,8 +1957,4 @@ translate deutsch strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:732
     old "Sir"
     new "Sir"
-
-    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:750
-    old "Please enter your BDSM nickname"
-    new "Bitte gib deinen BDSM-Spitznamen ein."
 

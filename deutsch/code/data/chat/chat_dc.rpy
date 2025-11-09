@@ -5,10 +5,6 @@
     new "Hey, [mcname!i]! Ich wollte nur sagen, dass ich wirklich froh bin, dir endlich alles erzählt zu haben, und ich freue mich schon sehr auf unser zukünftiges Date! 😜"
 
     # game/code/data/chat/chat_dc.rpy:3
-    old "Hey Debbie! Im glad we talked too. Im also pretty pumped for this date"
-    new "Hey Debbie! Ich bin auch froh, dass wir miteinander gesprochen haben. Ich freue mich auch schon sehr auf unser Date."
-
-    # game/code/data/chat/chat_dc.rpy:3
     old "In fact, what are you doing tonight?"
     new "Was machst du eigentlich heute Abend?"
 
@@ -47,10 +43,6 @@
     # game/code/data/chat/chat_dc.rpy:41
     old "It sounds like a date, [mcname!i] 😉"
     new "Das klingt nach einem Date, [mcname!i] 😉"
-
-    # game/code/data/chat/chat_dc.rpy:41
-    old "I'll send  you the address! See you in a bit 😏"
-    new "Ich schicke dir die Adresse! Bis bald! 😏"
 
 translate deutsch strings:
 

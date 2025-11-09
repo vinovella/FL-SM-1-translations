@@ -1591,10 +1591,6 @@ translate spanish sm1cs_km004_later_03d537de:
 translate spanish strings:
 
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
-    old "Yeah, it's exciting."
-    new "Sí, es emocionante."
-
-    # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
     old "What is my role again?"
     new "¿Cuál es mi papel de nuevo?"
 

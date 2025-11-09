@@ -8,14 +8,6 @@
     old "Do you want to skip time and sleep right now?"
     new "Zamanı atlayıp hemen şimdi uyumak ister misin?"
 
-    # game/code/classes/player.rpy:94
-    old "You just got ${}"
-    new "Az önce ${} aldınız"
-
-    # game/code/classes/player.rpy:105
-    old "You spent ${}"
-    new "${} harcadınız"
-
     # game/code/classes/player.rpy:375
     old "You just discovered new location on the map"
     new "Haritada yeni bir konum keşfettiniz"

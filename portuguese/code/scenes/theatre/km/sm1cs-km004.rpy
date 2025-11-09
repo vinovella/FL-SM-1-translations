@@ -1591,10 +1591,6 @@ translate portuguese sm1cs_km004_later_03d537de:
 translate portuguese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
-    old "Yeah, it's exciting."
-    new "É, empolgante."
-
-    # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
     old "What is my role again?"
     new "Qual é o meu papel mesmo?"
 

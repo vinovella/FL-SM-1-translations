@@ -1620,10 +1620,6 @@ translate french sm1cs_am004_after_spank_17b0592e:
 
 translate french strings:
 
-    # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
-    old "Later that evening\nAt Guns 'n Rosette'"
-    new "Plus tard dans la soirée\nAu Guns 'n Rosette'"
-
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:66
     old "Are you nervous to play for me?"
     new "Tu es nerveux à l’idée de jouer pour moi ?"

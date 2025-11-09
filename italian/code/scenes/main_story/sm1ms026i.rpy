@@ -82,10 +82,6 @@ translate italian strings:
     old "progress Nari and Min or Lyssa's story first"
     new "prima avanza nella storia di Nari e Min o Lyssa"
 
-    # game/code/scenes/main_story/sm1ms026i.rpy:125
-    old "Choose Sci-Fi Movie ({message})"
-    new "Scegli Film Sci-Fi ({message})"
-
     # game/code/scenes/main_story/sm1ms026i.rpy:128
     old "progress Nari's story first"
     new "prima avanza nella storia di Nari"

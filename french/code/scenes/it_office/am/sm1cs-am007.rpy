@@ -2570,10 +2570,6 @@ translate french strings:
     old "You'll figure it out"
     new "Tu finiras par comprendre"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
-    old "Suprised it's taking you this long"
-    new "Surpris que ça te prenne autant de temps"
-
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "I have heard of the general concept"
     new "J’ai entendu parler du concept général"

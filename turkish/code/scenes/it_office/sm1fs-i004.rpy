@@ -691,18 +691,6 @@ translate turkish sm1fs_i004_9f0edafa:
 translate turkish strings:
 
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "I do, I love Kikini Bill."
-    new "Evet, Kikini Bill'i seviyorum."
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "Uh, yep! Totally."
-    new "Evet, kesinlikle!"
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
-    old "I don't mind some... Punk rock."
-    new "Biraz punk rock dinlemek sorun değil."
-
-    # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "I'd rather listen to classic rock!"
     new "Klasik rock dinlemeyi tercih ederim!"
 

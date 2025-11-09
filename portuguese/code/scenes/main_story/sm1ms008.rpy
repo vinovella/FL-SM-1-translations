@@ -875,14 +875,6 @@ translate portuguese strings:
     new "No Ateliê Fotográfico"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "You should stick with red hair."
-    new "Você devia ficar de ruiva."
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "I think it will do nicely for the scene."
-    new "Acho que vai ficar legal pra cena."
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I'm glad it's temporary"
     new "Ainda bem que é temporário"
 

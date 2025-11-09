@@ -880,29 +880,6 @@ translate french sm1cs_cw002_2_after_lunch_0662017d:
     # mct "I should talk to Stacy about this when I get the chance."
     mct "Je devrais en parler à Stacy quand j’en aurai l’occasion."
 
-translate french strings:
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:308
-    old "After a tense lunch"
-    new "Après un déjeuner tendu"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "It was fine."
-    new "C’était bien."
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "Sorry, Claire."
-    new "Désolé, Claire."
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
-    old "Anything for my 'girlfriend'"
-    new "Tout pour ma 'petite amie'"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
-    old "Don't mention it, Ms. Watts."
-    new "Il n’y a pas de quoi, Mme Watts."
-
-#Translate by BlackViper_
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:57
 translate french sm1cs_cw002_2_de7b5f54:
 
@@ -928,4 +905,12 @@ translate french strings:
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Don't mention it, Ms. Watts"
     new "Don't mention it, Ms. Watts"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:308
+    old "After a tense lunch"
+    new "Après un déjeuner tendu"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
+    old "Anything for my 'girlfriend'"
+    new "Tout pour ma 'petite amie'"
 

@@ -1336,10 +1336,6 @@ translate turkish strings:
     old "Why did you do that?"
     new "Bunu neden yaptın?"
 
-    # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
-    old "That was good. But now we've got a little mess to clean up."
-    new "Bu iyiydi. Ama şimdi temizlememiz gereken küçük bir karmaşa var."
-
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:429
 translate turkish sm1cs_km005_22270354:
 

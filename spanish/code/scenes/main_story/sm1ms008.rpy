@@ -875,14 +875,6 @@ translate spanish strings:
     new "En el Dojo Fotográfico"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "You should stick with red hair."
-    new "Deberías quedarte con el cabello rojo."
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
-    old "I think it will do nicely for the scene."
-    new "Creo que funcionará bien para la escena."
-
-    # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I'm glad it's temporary"
     new "Me alegro de que sea temporal"
 

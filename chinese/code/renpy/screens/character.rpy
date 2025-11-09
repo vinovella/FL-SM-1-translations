@@ -16,10 +16,6 @@
     old "Fetishes"
     new "癖好"
 
-    # game/code/renpy/screens/character.rpy:59
-    old "Progress "
-    new "进度 "
-
 translate chinese strings:
 
     # game/code/renpy/screens/character.rpy:59

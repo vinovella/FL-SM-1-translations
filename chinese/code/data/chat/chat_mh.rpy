@@ -24,10 +24,6 @@
     old "Yeah! I'm totally free this morning, stop on by!"
     new "当然！我今天早上完全有空，来吧！"
 
-    # game/code/data/chat/chat_mh.rpy:37
-    old "I'll be over in a jif"
-    new "我马上就到"
-
 translate chinese strings:
 
     # game/code/data/chat/chat_mh.rpy:37

@@ -149,14 +149,6 @@
     new "I have to study. But I'll give you something to tide you over."
 
     # game/code/data/chat/chat_mes.rpy:112
-    old "❤️"
-    new "❤️"
-
-    # game/code/data/chat/chat_mes.rpy:112
-    old "Wish you could be here to warm my body."
-    new "Wish you could be here to warm my body."
-
-    # game/code/data/chat/chat_mes.rpy:112
     old "Let's arrange that soon."
     new "Let's arrange that soon."
 
@@ -179,10 +171,6 @@
     # game/code/data/chat/chat_mes.rpy:258
     old "Haha. You really have a one-track mind."
     new "Haha. You really have a one-track mind."
-
-    # game/code/data/chat/chat_mes.rpy:258
-    old "I was thinking of a game night. You, Stacy and I."
-    new "I was thinking of a game night. You, Stacy and I."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Sounds fun. I didn't think you'd want Stacy involved?"
@@ -219,10 +207,6 @@
     # game/code/data/chat/chat_mes.rpy:258
     old "All you need to do is come over."
     new "All you need to do is come over."
-
-    # game/code/data/chat/chat_mes.rpy:258
-    old "Alright, this evening works?"
-    new "Alright, this evening works?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Perfect. See you then."

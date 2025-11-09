@@ -942,10 +942,6 @@ translate turkish strings:
     old "Stop Debbie"
     new "Debbie'yi durdurun"
 
-    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
-    old "Let her take the call"
-    new "Onun aramayı cevaplamasına izin verin."
-
 translate turkish strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483

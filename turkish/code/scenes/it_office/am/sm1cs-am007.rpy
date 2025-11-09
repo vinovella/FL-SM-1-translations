@@ -2570,10 +2570,6 @@ translate turkish strings:
     old "You'll figure it out"
     new "You'll figure it out"
 
-    # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
-    old "Suprised it's taking you this long"
-    new "Suprised it's taking you this long"
-
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "I have heard of the general concept"
     new "I have heard of the general concept"

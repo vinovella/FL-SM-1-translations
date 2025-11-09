@@ -886,21 +886,9 @@ translate turkish strings:
     old "After a tense lunch"
     new "Gergin bir öğle yemeğinden sonra"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "It was fine."
-    new "Sorun yoktu."
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "Sorry, Claire."
-    new "Üzgünüm, Claire."
-
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Anything for my 'girlfriend'"
     new "Kız arkadaşım için her şeyi yaparım."
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
-    old "Don't mention it, Ms. Watts."
-    new "Önemli değil, Bayan Watts."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:57
 translate turkish sm1cs_cw002_2_de7b5f54:

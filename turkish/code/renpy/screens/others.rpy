@@ -1,9 +1,5 @@
 ﻿translate turkish strings:
 
-    # game/code/renpy/screens/others.rpy:12
-    old "Sync your saves using Ren'Py Sync server"
-    new "Ren'Py Sync sunucusunu kullanarak kayıtlarınızı senkronize edin."
-
     # game/code/renpy/screens/others.rpy:14
     old "Upload Saves"
     new "Kaydedilenleri Yükle"

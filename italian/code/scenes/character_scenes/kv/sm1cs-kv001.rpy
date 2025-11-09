@@ -498,10 +498,6 @@ translate italian sm1cs_kv001_ending_ad25f2ce:
 
 translate italian strings:
 
-    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:6
-    old "BOOK NAME"
-    new "NOME DEL LIBRO"
-
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
     old "Sure, I'm interested in how a photoshoot like this works"
     new "Certo, sono interessato a come funziona un servizio fotografico come questo"

@@ -1895,16 +1895,8 @@ translate portuguese strings:
     new "Eu gosto de quatro e vaqueira?"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:244
-    old "I'm into spanking."
-    new "Eu gosto de palmadas."
-
-    # game/code/scenes/theatre/sm1fs-t002.rpy:244
     old "I like all of those things!"
     new "Eu gosto de tudo isso!"
-
-    # game/code/scenes/theatre/sm1fs-t002.rpy:244
-    old "I'm game. If you can do those things to me."
-    new "Por mim de boa. Desde que consiga fazer isso comigo."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:304
 translate portuguese sm1fs_t002_3cc3e891:

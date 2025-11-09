@@ -1174,29 +1174,9 @@ translate spanish strings:
     old "Is this more pretend, or real?"
     new "¿Es esto más fingido o real?"
 
-    # game/code/scenes/main_story/sm1ms010.rpy:106
-    old "Yeah, me too."
-    new "Sí, yo también."
-
     # game/code/scenes/main_story/sm1ms010.rpy:189
     old "Do you really want to know?"
     new "¿De verdad quieres saber?"
-
-    # game/code/scenes/main_story/sm1ms010.rpy:189
-    old "She's doing fine."
-    new "Ella está bien."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:337
-    old "Kiss her again and continue."
-    new "Bésala de nuevo y continúa."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:337
-    old "Stop things from going further."
-    new "Evitar que las cosas vayan más allá."
-
-    # game/code/scenes/main_story/sm1ms010.rpy:491
-    old "Knock yourself out."
-    new "Haz lo que quieras."
 
     # game/code/scenes/main_story/sm1ms010.rpy:491
     old "No thanks (Lock off Foot Fetish Content)"

@@ -1775,10 +1775,6 @@ translate spanish strings:
     new "Don't believe her"
 
     # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:480
-    old "You're lips?"
-    new "You're lips?"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:480
     old "Your ass?"
     new "Your ass?"
 

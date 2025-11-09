@@ -730,10 +730,6 @@ translate french strings:
     new "On peut être d’accord là-dessus"
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
-    old "I had to come here for work."
-    new "Je devais venir ici pour le boulot."
-
-    # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
     old "I wanted to check on you"
     new "Je voulais voir si tu allais bien"
 

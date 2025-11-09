@@ -499,20 +499,8 @@ translate french sm1cs_am002_bf8549a7:
 translate french strings:
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
-    old "You should watch where you're going."
-    new "Tu devrais regarder où tu vas."
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
     old "April, you okay?"
     new "April, ça va ?"
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
-    old "She's a fucking menace."
-    new "C’est une vraie plaie."
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
-    old "She seems stressed."
-    new "Elle a l’air stressée."
 
 #Translate by BlackViper_
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:57

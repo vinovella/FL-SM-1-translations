@@ -942,10 +942,6 @@ translate portuguese strings:
     old "Stop Debbie"
     new "Stop Debbie"
 
-    # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
-    old "Let her take the call"
-    new "Let her take the call"
-
 translate portuguese strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483

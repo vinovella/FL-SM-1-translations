@@ -26,10 +26,6 @@ translate portuguese strings:
     old "Yeah! I'm totally free this morning, stop on by!"
     new "Sim! Completamente livre hoje de manhã, pode passar!"
 
-    # game/code/data/chat/chat_mh.rpy:37
-    old "I'll be over in a jif"
-    new "Já já eu apareço"
-
 translate portuguese strings:
 
     # game/code/data/chat/chat_mh.rpy:37

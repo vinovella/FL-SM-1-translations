@@ -1334,14 +1334,6 @@ translate french strings:
     old "Eat out Nari"
     new "Manger la chatte de Nari"
 
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
-    old "Dominate Nari."
-    new "Dominer Nari."
-
-    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
-    old "Don't dominate Nari."
-    new "Ne pas dominer Nari."
-
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:647
     old "Let Nari ride you"
     new "Laisser Nari te chevaucher"

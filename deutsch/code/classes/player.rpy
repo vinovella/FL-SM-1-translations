@@ -8,14 +8,6 @@
     old "Do you want to skip time and sleep right now?"
     new "Möchtest du die Zeit überspringen und jetzt sofort schlafen?"
 
-    # game/code/classes/player.rpy:98
-    old "You just got ${}"
-    new "Du hast gerade ${} erhalten."
-
-    # game/code/classes/player.rpy:109
-    old "You spent ${}"
-    new "Du hast ${} ausgegeben"
-
     # game/code/classes/player.rpy:385
     old "You just discovered new location on the map"
     new "Du hast gerade einen neuen Ort auf der Karte entdeckt."

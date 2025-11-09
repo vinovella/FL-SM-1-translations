@@ -510,14 +510,6 @@ translate spanish sm1cs_km001_e1a4d150:
 
 translate spanish strings:
 
-    # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
-    old "I'll go easy on you."
-    new "Seré amable contigo"
-
-    # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
-    old "Let's dance, Kellie."
-    new "Bailemos, Kellie"
-
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:189
     old "Distract her with flirting"
     new "Distraerla con coqueteo"

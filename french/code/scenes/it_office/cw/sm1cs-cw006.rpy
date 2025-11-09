@@ -1775,10 +1775,6 @@ translate french strings:
     new "Ne pas la croire"
 
     # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:480
-    old "You're lips?"
-    new "Tes lèvres ?"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:480
     old "Your ass?"
     new "Ton cul ?"
 

@@ -17,10 +17,6 @@ translate spanish strings:
     new "Reunirse con un visitante inesperado"
 
     # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Denise, Kellie and Veronica's storyline"
-    new "Avanza en la historia principal de Denise, Kellie y Verónica"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
     old "A call with AmRose"
     new "Una llamada con AmRose"
 
@@ -59,10 +55,6 @@ translate spanish strings:
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Have some fun with Stacy"
     new "Diviértete con Stacy"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress the Theater and Taisia's storyline"
-    new "Avanza en la historia principal del Teatro y de Taisia"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Begin the renovation"
@@ -193,10 +185,6 @@ translate spanish strings:
     new "Sesión de fotos sexy con Kanya"
 
     # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Lyssa's and Main storylines"
-    new "Avanza la historia de Lyssa y la historia principal"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
     old "Show off your photo skills"
     new "Muestra tus habilidades fotográficas"
 
@@ -211,10 +199,6 @@ translate spanish strings:
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Delivery with Maya"
     new "Entrega con maya"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Meet a old friend"
-    new "Reencuentro con una vieja amiga"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Talk to Stacy about Min"
@@ -287,10 +271,6 @@ translate spanish strings:
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet the client"
     new "Conoce al cliente"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Anna and Nari's storylines"
-    new "Avanza en las historias de Anna y Nari"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Night out at the bar"
@@ -389,10 +369,6 @@ translate spanish strings:
     new "Hora de la reunión"
 
     # game/code/data/quests/vn_mode_data.rpy:10
-    old "Suprise Nari at night"
-    new "Sorprende a Nari por la noche"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
     old "Empty office\nAt night"
     new "Oficina vacía \nPor la noche"
 
@@ -423,10 +399,6 @@ translate spanish strings:
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Group meeting"
     new "Reunión grupal"
-
-    # game/code/data/quests/vn_mode_data.rpy:10
-    old "Progress Denise, Kellie, Taisia and Veronica's storyline"
-    new "Avanza la historia principal de Denise, Kellie, Taisia y Verónica"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Acting workshop"
@@ -729,10 +701,6 @@ translate spanish strings:
     new "Watch the final cut"
 
 translate spanish strings:
-
-    # game/code/data/quests/vn_mode_data.rpy:9
-    old "Progress Lyssa's storyline and Main Story"
-    new "Progress Lyssa's storyline and Main Story"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Meet an old friend"

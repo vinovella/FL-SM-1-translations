@@ -499,20 +499,8 @@ translate chinese sm1cs_am002_bf8549a7:
 translate chinese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
-    old "You should watch where you're going."
-    new "你走路应该看着点"
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
     old "April, you okay?"
     new "艾普尔，你还好吗？"
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
-    old "She's a fucking menace."
-    new "她简直就是个祸害"
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
-    old "She seems stressed."
-    new "她看起来压力很大。"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:57
 translate chinese sm1cs_am002_e86d99ac:

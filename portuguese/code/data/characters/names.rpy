@@ -4,10 +4,6 @@
     old "You"
     new "You"
 
-    # game/code/data/characters/names.rpy:10
-    old "Amber-Rose"
-    new "Amber-Rose"
-
     # game/code/data/characters/names.rpy:11
     old "Amore"
     new "Amore"

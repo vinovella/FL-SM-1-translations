@@ -886,21 +886,9 @@ translate portuguese strings:
     old "After a tense lunch"
     new "Após um almoço tenso"
 
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "It was fine."
-    new "Deu tudo certo1"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "Sorry, Claire."
-    new "Desculpa, Claire."
-
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Anything for my 'girlfriend'"
     new "Tudo pela minha 'namorada'"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
-    old "Don't mention it, Ms. Watts."
-    new "Não foi nada, Sra. Watts."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:57
 translate portuguese sm1cs_cw002_2_de7b5f54:

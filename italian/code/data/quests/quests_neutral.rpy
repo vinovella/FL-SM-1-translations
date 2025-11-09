@@ -5,10 +5,6 @@
     new "Progress other storylines"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Open Map and go to Wurst Delivery"
-    new "Open Map and go to Wurst Delivery"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Wurst Manager"
     new "Talk to Wurst Manager"
 
@@ -19,14 +15,6 @@
     # game/code/data/quests/quests_neutral.rpy:4
     old "Skip until night"
     new "Skip until night"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Work Wurst Delivery until you have $200"
-    new "Work Wurst Delivery until you have $200"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Stacy when she is using her laptop"
-    new "Talk to Stacy when she is using her laptop"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy during the evening"
@@ -41,28 +29,8 @@
     new "Talk with Stacy about getting more jobs"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress IT job's storyline"
-    new "Progress IT job's storyline"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress Theater job's storyline"
-    new "Progress Theater job's storyline"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Progress IT and Theater job storylines"
-    new "Progress IT and Theater job storylines"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about the IT job"
     new "Talk with Stacy about the IT job"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy about the theater"
-    new "Talk with Stacy about the theater"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Go on a Date with Stacy"
-    new "Go on a Date with Stacy"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Give Stacy $50 for a wig"
@@ -101,20 +69,8 @@
     new "Talk with Stacy during the day"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy to start renovation"
-    new "Talk with Stacy to start renovation"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Work on renovation and visit one of your jobs with Stacy and Melony"
-    new "Work on renovation and visit one of your jobs with Stacy and Melony"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy to install stairs"
     new "Talk with Stacy to install stairs"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Work on renovation and visit your other job with Stacy and Melony"
-    new "Work on renovation and visit your other job with Stacy and Melony"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy"
@@ -137,10 +93,6 @@
     new "Wait for Stacy to make editing progress"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Stacy about editing again... during the day"
-    new "Talk to Stacy about editing again... during the day"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for Stacy to finish editing"
     new "Wait for Stacy to finish editing"
 
@@ -151,10 +103,6 @@
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy about new order from the client"
     new "Talk to Stacy about new order from the client"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy to choose the movie you want to film"
-    new "Talk with Stacy to choose the movie you want to film"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Film and release the new movie"
@@ -173,24 +121,12 @@
     new "Find Kanya at Photo Dojo"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Go to General Store"
-    new "Go to General Store"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Purchase Photography-101"
     new "Purchase Photography-101"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Read the book on your couch"
     new "Read the book on your couch"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Learn Photography until you have 5 in this topic (currently {})"
-    new "Learn Photography until you have 5 in this topic (currently {})"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Learn Photography until you have 5 in this topic"
-    new "Learn Photography until you have 5 in this topic"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Visit Kanya in Photo Dojo"
@@ -205,20 +141,12 @@
     new "Get help with legal documents from Lyssa"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk about getting Legal Advice with Stacy"
-    new "Talk about getting Legal Advice with Stacy"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Visit Kanya"
     new "Visit Kanya"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Kanya about 'practice'"
     new "Talk to Kanya about 'practice'"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Kanya to learn more about Photography"
-    new "Talk with Kanya to learn more about Photography"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about the USB drive"
@@ -229,20 +157,8 @@
     new "Go to Starducks in the morning"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Go to the Photodojo to talk with the BDSM girl"
-    new "Go to the Photodojo to talk with the BDSM girl"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Amore in the Photodojo"
-    new "Talk to Amore in the Photodojo"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Amore about the photos"
     new "Talk to Amore about the photos"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Visit the Photodojo"
-    new "Visit the Photodojo"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go to Wurst Delivery during the day"
@@ -273,14 +189,6 @@
     new "Talk with Stacy about your date with Lyssa"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Take Lyssa out for a nice Dinner"
-    new "Take Lyssa out for a nice Dinner"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Go to Lyssa's House during evening"
-    new "Go to Lyssa's House during evening"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Tell Stacy about your date with Lyssa"
     new "Tell Stacy about your date with Lyssa"
 
@@ -305,14 +213,6 @@
     new "Visit Lyssa in the afternoon"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Invite Lyssa to visit studio"
-    new "Invite Lyssa to visit studio"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk with Stacy to borrow laptop for editing Lyssa's video"
-    new "Talk with Stacy to borrow laptop for editing Lyssa's video"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Show the edited video to Lyssa"
     new "Show the edited video to Lyssa"
 
@@ -325,24 +225,12 @@
     new "Talk to Debbie in the park during the day"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the Park during the day"
-    new "Talk to Debbie in the Park during the day"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for a few days"
     new "Wait for a few days"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the Park"
-    new "Talk to Debbie in the Park"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for a day"
     new "Wait for a day"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Talk to Debbie in the evening in the Park"
-    new "Talk to Debbie in the evening in the Park"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Wait for Debbie to message you"
@@ -363,10 +251,6 @@
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about Min"
     new "Talk with Stacy about Min"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Finish renovation to invite Min"
-    new "Finish renovation to invite Min"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Text Min"
@@ -397,10 +281,6 @@
     new "Wait for Min to text you again"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Text Min in the Morning to help her move in"
-    new "Text Min in the Morning to help her move in"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Text Melony"
     new "Text Melony"
 
@@ -415,8 +295,6 @@
     # game/code/data/quests/quests_neutral.rpy:4
     old "Meet Ridley"
     new "Meet Ridley"
-
-translate italian strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Open the map and go to Wurst Delivery"
