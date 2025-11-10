@@ -374,5 +374,5 @@ translate chinese sm1ms027_ff345ae0:
 translate chinese sm1ms027_82b68733:
 
     # sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled!"
-    sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled!"
+    sy "大家真的很喜欢娜丽的外星人造型设计。而且都觉得布景和服装超棒！"
 
