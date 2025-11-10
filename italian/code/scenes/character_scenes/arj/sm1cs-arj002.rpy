@@ -2,37 +2,37 @@
 translate italian sm1cs_arj002_f847f96e:
 
     # mc "Hey there, long time no see! Come in, make yourself at home."
-    mc "Hey there, long time no see! Come in, make yourself at home."
+    mc "Ciao! È passato tanto tempo! Entra, fai come se fossi a casa tua."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:13
 translate italian sm1cs_arj002_da5dc00a:
 
     # arj "Hi, [mcname]."
-    arj "Hi, [mcname]."
+    arj "Ciao, [mcname]."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:17
 translate italian sm1cs_arj002_82e7534f:
 
     # arj "And Stacy. [mcname] didn't mention you'd be here too."
-    arj "And Stacy. [mcname] didn't mention you'd be here too."
+    arj "E Stacy. [mcname] non ha detto che saresti stata qui anche tu."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:20
 translate italian sm1cs_arj002_07bf19bf:
 
     # sy "I do live here, you know."
-    sy "I do live here, you know."
+    sy "Sai, io vivo qui."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:22
 translate italian sm1cs_arj002_f6ba57e2:
 
     # arj "Right..."
-    arj "Right..."
+    arj "Giusto..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:26
 translate italian sm1cs_arj002_018fecc5:
 
     # sy "Sorry, AmRose. We've been so busy with work, I forgot my manners."
-    sy "Sorry, AmRose. We've been so busy with work, I forgot my manners."
+    sy "Scusa, AmRose. Siamo stati così impegnati con il lavoro, mi sono dimenticata le buone maniere."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:31
 translate italian sm1cs_arj002_254336d8:
@@ -44,37 +44,37 @@ translate italian sm1cs_arj002_254336d8:
 translate italian sm1cs_arj002_1534437d:
 
     # sy "What's new with you?"
-    sy "What's new with you?"
+    sy "Che c'è di nuovo con te?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:37
 translate italian sm1cs_arj002_c342f9af:
 
     # arj "Just staying busy with classes."
-    arj "Just staying busy with classes."
+    arj "Sono solo impegnata con le lezioni."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:41
 translate italian sm1cs_arj002_e72b73b3:
 
     # arj "Then I get a text from [mcname]. Needing my magic fingers."
-    arj "Then I get a text from [mcname]. Needing my magic fingers."
+    arj "Poi ricevo un messaggio da [mcname]. Ha bisogno delle mie dita magiche."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:45
 translate italian sm1cs_arj002_e6bcd48d:
 
     # mc "We're glad you had the time. AmRose. It's a shame you're not living here; the thing could have already been fixed by now."
-    mc "We're glad you had the time. AmRose. It's a shame you're not living here; the thing could have already been fixed by now."
+    mc "Siamo contenti che tu abbia avuto il tempo. AmRose. Peccato che tu non viva qui; la cosa sarebbe già stata sistemata ormai."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:49
 translate italian sm1cs_arj002_38469e30:
 
     # arj "Well, I'm here now."
-    arj "Well, I'm here now."
+    arj "Beh, ora sono qui."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:54
 translate italian sm1cs_arj002_3aa7e66f:
 
     # mc "I do have a little confession to make, AmRose."
-    mc "I do have a little confession to make, AmRose."
+    mc "Devo fare una piccola confessione, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:57
 translate italian sm1cs_arj002_598ebc2e:
@@ -86,31 +86,31 @@ translate italian sm1cs_arj002_598ebc2e:
 translate italian sm1cs_arj002_8e4b278f:
 
     # mc "This issue we're having. It actually has to do with a new porno we are trying to make."
-    mc "This issue we're having. It actually has to do with a new porno we are trying to make."
+    mc "Questo problema che abbiamo. In realtà ha a che fare con un nuovo porno che stiamo cercando di fare."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:62
 translate italian sm1cs_arj002_c761548e:
 
     # arj "Hmmph. It's no wonder you didn't lead with that."
-    arj "Hmmph. It's no wonder you didn't lead with that."
+    arj "Hmmph. Non c'è da stupirsi che non hai iniziato con quello."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:63
 translate italian sm1cs_arj002_f83e1d26:
 
     # mc "Sorry. But we really need your help."
-    mc "Sorry. But we really need your help."
+    mc "Scusa. Ma abbiamo davvero bisogno del tuo aiuto."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:67
 translate italian sm1cs_arj002_53208e32:
 
     # sy "Please, AmRose. This client, well, we really need to keep them happy."
-    sy "Please, AmRose. This client, well, we really need to keep them happy."
+    sy "Per favore, AmRose. Questo cliente, beh, dobbiamo davvero tenerlo contento."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:68
 translate italian sm1cs_arj002_e47457e0:
 
     # sy "If we lose them, we might have to close up shop."
-    sy "If we lose them, we might have to close up shop."
+    sy "Se li perdiamo, potremmo dover chiudere bottega."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:71
 translate italian sm1cs_arj002_103dc657:
@@ -122,205 +122,205 @@ translate italian sm1cs_arj002_103dc657:
 translate italian sm1cs_arj002_1a543a8c:
 
     # arj "Well, I will do whatever I can to make sure that doesn't happen."
-    arj "Well, I will do whatever I can to make sure that doesn't happen."
+    arj "Beh, farò tutto il possibile per assicurarmi che ciò non accada."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:77
 translate italian sm1cs_arj002_21a633b0:
 
     # arj "How exactly can I help you two anyhow?"
-    arj "How exactly can I help you two anyhow?"
+    arj "Come posso aiutarvi esattamente comunque?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:79
 translate italian sm1cs_arj002_f8c2144d:
 
     # mc "The client wants to do a scene with a redhead."
-    mc "The client wants to do a scene with a redhead."
+    mc "Il cliente vuole fare una scena con una rossa."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:80
 translate italian sm1cs_arj002_ef9716a6:
 
     # mc "We have used wigs on Stacy in the past, but I think to really make it pop, we need the genuine article."
-    mc "We have used wigs on Stacy in the past, but I think to really make it pop, we need the genuine article."
+    mc "Abbiamo usato parrucche su Stacy in passato, ma penso che per farlo davvero risaltare, abbiamo bisogno dell'articolo originale."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:84
 translate italian sm1cs_arj002_55011a32:
 
     # arj "Oh. Uh... but the client didn't bring it up, right?"
-    arj "Oh. Uh... but the client didn't bring it up, right?"
+    arj "Oh. Uh... ma il cliente non l'ha tirato fuori, vero?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:86
 translate italian sm1cs_arj002_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "Sì."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:90
 translate italian sm1cs_arj002_425aaf32:
 
     # arj "Don't you think if they cared about that, they would have mentioned it."
-    arj "Don't you think if they cared about that, they would have mentioned it."
+    arj "Non pensi che se gli importasse, l'avrebbero menzionato."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:94
 translate italian sm1cs_arj002_8ea32a1f:
 
     # sy "Part of our service is deciphering the unspoken wants of the customer, AmRose."
-    sy "Part of our service is deciphering the unspoken wants of the customer, AmRose."
+    sy "Parte del nostro servizio è decifrare i desideri non espressi del cliente, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:95
 translate italian sm1cs_arj002_f3664fdb:
 
     # sy "[mcname] taught me that from his business lessons."
-    sy "[mcname] taught me that from his business lessons."
+    sy "[mcname] me l'ha insegnato dalle sue lezioni di business."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:97
 translate italian sm1cs_arj002_630b5ec6:
 
     # arj "Of course."
-    arj "Of course."
+    arj "Certo."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:101
 translate italian sm1cs_arj002_aa4b3a7e:
 
     # mc "So will you still help us, AmRose?"
-    mc "So will you still help us, AmRose?"
+    mc "Quindi ci aiuterai ancora, AmRose?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:102
 translate italian sm1cs_arj002_051e6249:
 
     # mc "I wouldn't ask if we had another choice."
-    mc "I wouldn't ask if we had another choice."
+    mc "Non lo chiederei se avessimo un'altra scelta."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:109
 translate italian sm1cs_arj002_6fe9412a:
 
     # mc "I really enjoyed being together with you last time, AmRose."
-    mc "I really enjoyed being together with you last time, AmRose."
+    mc "Mi è piaciuto molto stare insieme a te l'ultima volta, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:110
 translate italian sm1cs_arj002_d4b1d863:
 
     # mc "You can't fault me for wanting another afternoon with my favorite ginger snap."
-    mc "You can't fault me for wanting another afternoon with my favorite ginger snap."
+    mc "Non puoi biasimarmi per volere un altro pomeriggio con la mia zenzero preferita."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:114
 translate italian sm1cs_arj002_1183d7b8:
 
     # arj "Hmmm. Not when you put it like that."
-    arj "Hmmm. Not when you put it like that."
+    arj "Hmmm. Non quando la metti così."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:118
 translate italian sm1cs_arj002_2b0d6105:
 
     # arj "It's been a hard week. I could use a little reward..."
-    arj "It's been a hard week. I could use a little reward..."
+    arj "È stata una settimana dura. Mi servirebbe una piccola ricompensa..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:125
 translate italian sm1cs_arj002_e294701f:
 
     # mc "I know I couldn't make time for you earlier, but now I can."
-    mc "I know I couldn't make time for you earlier, but now I can."
+    mc "So che non ho potuto trovare tempo per te prima, ma ora posso."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:129
 translate italian sm1cs_arj002_fdacb38b:
 
     # arj "Haha. So this is a consolation bang too?"
-    arj "Haha. So this is a consolation bang too?"
+    arj "Haha. Quindi anche questo è un colpo di consolazione?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:132
 translate italian sm1cs_arj002_909b781f:
 
     # mc "No way! I'm sorry, I didn't mean for it to sound like {i}that{/i}."
-    mc "No way! I'm sorry, I didn't mean for it to sound like {i}that{/i}."
+    mc "Assolutamente no! Scusa, non volevo che suonasse {i}così{/i}."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:134
 translate italian sm1cs_arj002_30bf86e8:
 
     # mc "Still...{w} even if it was."
-    mc "Still...{w} even if it was."
+    mc "Comunque...{w} anche se lo fosse."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:135
 translate italian sm1cs_arj002_f78addd2:
 
     # mc "I promise that I'll more than make up for being busy earlier."
-    mc "I promise that I'll more than make up for being busy earlier."
+    mc "Prometto che compenserò più che abbondantemente per essere stato impegnato prima."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:139
 translate italian sm1cs_arj002_311eef45:
 
     # arj "Mmm. Well, that does sound promising."
-    arj "Mmm. Well, that does sound promising."
+    arj "Mmm. Beh, sembra promettente."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:144
 translate italian sm1cs_arj002_215bd6ce:
 
     # arj "But... maybe that is just my weakness for you talking."
-    arj "But... maybe that is just my weakness for you talking."
+    arj "Ma... forse è solo la mia debolezza per te che parla."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:145
 translate italian sm1cs_arj002_2dd9ee23:
 
     # arj "I don't know...{w} I'm not sure I can get involved in this business."
-    arj "I don't know...{w} I'm not sure I can get involved in this business."
+    arj "Non lo so...{w} Non sono sicura di potermi coinvolgere in questo affare."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:147
 translate italian sm1cs_arj002_22e68d84:
 
     # arj "It has rotten roots."
-    arj "It has rotten roots."
+    arj "Ha radici marce."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:150
 translate italian sm1cs_arj002_e9d72ca6:
 
     # sy "They're not rotten!"
-    sy "They're not rotten!"
+    sy "Non sono marce!"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:158
 translate italian sm1cs_arj002_831e5990:
 
     # sy "I mean, maybe their origin comic was a little sketchy, but can't we just focus on the big shiny blockbuster that a lot of people are going to love."
-    sy "I mean, maybe their origin comic was a little sketchy, but can't we just focus on the big shiny blockbuster that a lot of people are going to love."
+    sy "Voglio dire, forse il loro fumetto di origine era un po' losco, ma non possiamo concentrarci sul grande blockbuster scintillante che un sacco di persone ameranno."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:161
 translate italian sm1cs_arj002_92fd9e79:
 
     # arj "I could. Maybe..."
-    arj "I could. Maybe..."
+    arj "Potrei. Forse..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:162
 translate italian sm1cs_arj002_c00d1798:
 
     # arj "But I guess, I just don't think it's a good fit."
-    arj "But I guess, I just don't think it's a good fit."
+    arj "Ma credo, semplicemente non penso che sia adatto."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:165
 translate italian sm1cs_arj002_2b3559ec:
 
     # mc "What's not a good fit?"
-    mc "What's not a good fit?"
+    mc "Cosa non è adatto?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:167
 translate italian sm1cs_arj002_5d35a765:
 
     # arj "Me doing a porno, [mcname]."
-    arj "Me doing a porno, [mcname]."
+    arj "Io che faccio un porno, [mcname]."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:168
 translate italian sm1cs_arj002_6fe86fbd:
 
     # arj "I mean, it just sounds like I was the easy choice and you don't want to do the hard work to find a natural redhead."
-    arj "I mean, it just sounds like I was the easy choice and you don't want to do the hard work to find a natural redhead."
+    arj "Voglio dire, sembra solo che io sia stata la scelta facile e tu non vuoi fare il duro lavoro di trovare una rossa naturale."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:172
 translate italian sm1cs_arj002_58c96ce2:
 
     # mct "Where is this coming from?"
-    mct "Where is this coming from?"
+    mct "Da dove viene questo?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:173
 translate italian sm1cs_arj002_f5a15352:
 
     # mct "Does she know we know? Or is she just toying with me?"
-    mct "Does she know we know? Or is she just toying with me?"
+    mct "Sa che lo sappiamo? O sta solo giocando con me?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:176
 translate italian sm1cs_arj002_4cd44184:
@@ -332,61 +332,61 @@ translate italian sm1cs_arj002_4cd44184:
 translate italian sm1cs_arj002_5bc52017:
 
     # mct "What do you want from me, AmRose?"
-    mct "What do you want from me, AmRose?"
+    mct "Cosa vuoi da me, AmRose?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:181
 translate italian sm1cs_arj002_8bc0b6f1:
 
     # mct "Ah... I think... after all the time she was my playful pet, she wants to switch roles a bit."
-    mct "Ah... I think... after all the time she was my playful pet, she wants to switch roles a bit."
+    mct "Ah... penso... dopo tutto il tempo in cui è stata il mio giocoso animaletto, vuole scambiare un po' i ruoli."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:184
 translate italian sm1cs_arj002_71355afe:
 
     # mct "She wants me to beg for her help."
-    mct "She wants me to beg for her help."
+    mct "Vuole che io implori il suo aiuto."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:185
 translate italian sm1cs_arj002_0d844b51:
 
     # mct "Maybe she'll see how far I'll go. Maybe she knows and is offering me a way out."
-    mct "Maybe she'll see how far I'll go. Maybe she knows and is offering me a way out."
+    mct "Forse vedrà fino a dove arriverò. Forse lo sa e mi sta offrendo una via d'uscita."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:189
 translate italian sm1cs_arj002_6b8e5358:
 
     # mct "Fuck me."
-    mct "Fuck me."
+    mct "Cazzo."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:196
 translate italian sm1cs_arj002_24d5a18b:
 
     # mct "I'll beg her. It's not the worst thing I've had to do for the company."
-    mct "I'll beg her. It's not the worst thing I've had to do for the company."
+    mct "La implorerò. Non è la cosa peggiore che ho dovuto fare per l'azienda."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:200
 translate italian sm1cs_arj002_031fe8bb:
 
     # mc "AmRose, please help us with the scene."
-    mc "AmRose, please help us with the scene."
+    mc "AmRose, per favore aiutaci con la scena."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:201
 translate italian sm1cs_arj002_4f80ef79:
 
     # mc "You're right, there are probably other people we could hire for it."
-    mc "You're right, there are probably other people we could hire for it."
+    mc "Hai ragione, ci sono probabilmente altre persone che potremmo assumere per questo."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:202
 translate italian sm1cs_arj002_83487e80:
 
     # mc "But we need this done now."
-    mc "But we need this done now."
+    mc "Ma abbiamo bisogno che questo sia fatto ora."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:206
 translate italian sm1cs_arj002_27a3a025:
 
     # mc "{b}I{/b} need you..."
-    mc "{b}I{/b} need you..."
+    mc "{b}IO{/b} ho bisogno di te..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:210
 translate italian sm1cs_arj002_4cd44184_1:
@@ -398,31 +398,31 @@ translate italian sm1cs_arj002_4cd44184_1:
 translate italian sm1cs_arj002_0319b19d:
 
     # mc "Alright, if you're not in, you're not in."
-    mc "Alright, if you're not in, you're not in."
+    mc "Va bene, se non ci stai, non ci stai."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:218
 translate italian sm1cs_arj002_e8d8a32d:
 
     # mc "That's okay with me."
-    mc "That's okay with me."
+    mc "Per me va bene."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:222
 translate italian sm1cs_arj002_3bf33523:
 
     # sy "It is?"
-    sy "It is?"
+    sy "Davvero?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:226
 translate italian sm1cs_arj002_0fae9dc7:
 
     # mc "Sure. We're not going to make AmRose do something she doesn't want."
-    mc "Sure. We're not going to make AmRose do something she doesn't want."
+    mc "Certo. Non faremo fare ad AmRose qualcosa che non vuole."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:230
 translate italian sm1cs_arj002_50709a30:
 
     # mc "She doesn't have to help us..."
-    mc "She doesn't have to help us..."
+    mc "Non deve aiutarci..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:235
 translate italian sm1cs_arj002_3322cede:
@@ -434,7 +434,7 @@ translate italian sm1cs_arj002_3322cede:
 translate italian sm1cs_arj002_b5c4f5f1:
 
     # arj "I didn't mean you had to beg me."
-    arj "I didn't mean you had to beg me."
+    arj "Non intendevo che dovessi implorarmi."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:241
 translate italian sm1cs_arj002_00860a28:
