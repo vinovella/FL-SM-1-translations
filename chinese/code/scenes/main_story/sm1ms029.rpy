@@ -1514,7 +1514,7 @@ translate chinese sm1ms029_talk_mes_ns_056d0bd3:
 translate chinese sm1ms029_talk_mes_ns_55e00494:
 
     # mes "It's a struggle to switch between your mother tongue and your second language sometimes."
-    mes "It's a struggle to switch between your mother tongue and your second language sometimes."
+    mes "有时候在母语和第二语言之间切换是一件困难的事。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:720
 translate chinese sm1ms029_talk_mes_ns_97885c81:
@@ -1526,13 +1526,13 @@ translate chinese sm1ms029_talk_mes_ns_97885c81:
 translate chinese sm1ms029_talk_mes_ns_6921a067:
 
     # mc "Well, I'm happy that you both get to practice then!"
-    mc "Well, I'm happy that you both get to practice then!"
+    mc "嗯，我很高兴你们俩都能练习！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:724
 translate chinese sm1ms029_talk_mes_ns_764f0431:
 
     # ns "I am too!"
-    ns "I am too!"
+    ns "我也是！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:727
 translate chinese sm1ms029_talk_mes_ns_1f91321b:
@@ -1550,7 +1550,7 @@ translate chinese sm1ms029_talk_mes_ns_05738eb0:
 translate chinese sm1ms029_talk_mes_ns_2d051cd4:
 
     # mc "I'll have to visit it some day!"
-    mc "I'll have to visit it some day!"
+    mc "我总有一天得去那里看看！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:732
 translate chinese sm1ms029_talk_mes_ns_2857d008:
@@ -1562,31 +1562,31 @@ translate chinese sm1ms029_talk_mes_ns_2857d008:
 translate chinese sm1ms029_talk_mes_ns_fea01c58:
 
     # ns "And to visit!"
-    ns "And to visit!"
+    ns "还有要去参观的地方！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:736
 translate chinese sm1ms029_talk_mes_ns_ffa63963:
 
     # ns "Oh, oh, like a good Korean hot dog!"
-    ns "Oh, oh, like a good Korean hot dog!"
+    ns "哦，哦，比如好吃的韩国热狗！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:738
 translate chinese sm1ms029_talk_mes_ns_277797c1:
 
     # ns "Or boba! Like, {i}real{/i} boba tea!"
-    ns "Or boba! Like, {i}real{/i} boba tea!"
+    ns "或者珍珠奶茶！就像，{i}真正的{/i}珍珠奶茶！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:739
 translate chinese sm1ms029_talk_mes_ns_9de3e2e4:
 
     # ns "Mmmmm!"
-    ns "Mmmmm!"
+    ns "嗯嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:742
 translate chinese sm1ms029_talk_mes_ns_4124673d:
 
     # mes "Don't tease him with food he can't have, Nari."
-    mes "Don't tease him with food he can't have, Nari."
+    mes "别用他吃不到的食物逗他，娜丽。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:743
 translate chinese sm1ms029_talk_mes_ns_4e108bdd:
@@ -1598,67 +1598,67 @@ translate chinese sm1ms029_talk_mes_ns_4e108bdd:
 translate chinese sm1ms029_talk_mes_ns_ed88b19f:
 
     # mes "She's just an excitable one, isn't she?"
-    mes "She's just an excitable one, isn't she?"
+    mes "她就是个容易兴奋的人，不是吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:747
 translate chinese sm1ms029_talk_mes_ns_ae746b29:
 
     # mc "Oh, she absolutely does."
-    mc "Oh, she absolutely does."
+    mc "哦，她绝对是的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:749
 translate chinese sm1ms029_talk_mes_ns_f246ec81:
 
     # mes "But she's also a lot of fun."
-    mes "But she's also a lot of fun."
+    mes "但她也很有趣。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:750
 translate chinese sm1ms029_talk_mes_ns_8d42590c:
 
     # mc "Yes, yes she is."
-    mc "Yes, yes she is."
+    mc "是的，是的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:753
 translate chinese sm1ms029_talk_mes_ns_a1c8e8bb:
 
     # mes "I do like speaking Korean, that is a nice pleasantry of missed."
-    mes "I do like speaking Korean, that is a nice pleasantry of missed."
+    mes "我确实喜欢说韩语，这是我错过的一个美好的愉快体验。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:754
 translate chinese sm1ms029_talk_mes_ns_83f3d709:
 
     # mc "I can imagine."
-    mc "I can imagine."
+    mc "我能想象。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:757
 translate chinese sm1ms029_talk_mes_ns_7b7e6fb3:
 
     # mes "And to just have someone around who understands what growing up in Korea was like."
-    mes "And to just have someone around who understands what growing up in Korea was like."
+    mes "而且身边有个理解在韩国长大是什么样子的人。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:758
 translate chinese sm1ms029_talk_mes_ns_bdaf1c4c:
 
     # mc "Yeah... I can imagine that's comforting."
-    mc "Yeah... I can imagine that's comforting."
+    mc "是的...我能想象那很令人安慰。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:759
 translate chinese sm1ms029_talk_mes_ns_9ef95c11:
 
     # mct "And I'm realizing that I've never really asked her about her life before Crowning..."
-    mct "And I'm realizing that I've never really asked her about her life before Crowning..."
+    mct "而且我意识到我从未真正问过她来克劳宁之前的生活..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:762
 translate chinese sm1ms029_talk_mes_ns_b237c65c:
 
     # mct "Maybe I should do that sometime... get to know Min better."
-    mct "Maybe I should do that sometime... get to know Min better."
+    mct "也许我应该找个时间...更好地了解明。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:764
 translate chinese sm1ms029_talk_mes_ns_f2dbd6c7:
 
     # mes "I'll keep an eye on her tonight, promise."
-    mes "I'll keep an eye on her tonight, promise."
+    mes "我今晚会照看她的，保证。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:765
 translate chinese sm1ms029_talk_mes_ns_d1579dea:
@@ -1670,25 +1670,25 @@ translate chinese sm1ms029_talk_mes_ns_d1579dea:
 translate chinese sm1ms029_talk_mes_ns_a2d1ea75:
 
     # mc "She does need a supervisor>"
-    mc "She does need a supervisor>"
+    mc "她确实需要一个监督人>"
 
 # game/code/scenes/main_story/sm1ms029.rpy:769
 translate chinese sm1ms029_talk_mes_ns_4ab9b3f2:
 
     # mes "Hehehe, I believe that."
-    mes "Hehehe, I believe that."
+    mes "呵呵呵，我相信。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:772
 translate chinese sm1ms029_talk_mes_ns_654f2de5:
 
     # mc "I hope you both enjoy the show later."
-    mc "I hope you both enjoy the show later."
+    mc "我希望你们俩稍后能享受这场表演。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:773
 translate chinese sm1ms029_talk_mes_ns_3bee4600:
 
     # ns "Oh, we will!"
-    ns "Oh, we will!"
+    ns "哦，我们会的！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:775
 translate chinese sm1ms029_talk_mes_ns_4d2952fd:
