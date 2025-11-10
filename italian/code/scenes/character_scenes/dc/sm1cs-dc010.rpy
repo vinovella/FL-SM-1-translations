@@ -2,7 +2,7 @@
 translate italian sm1cs_dc010_d135624f:
 
     # mc "All right, Stacy, I'm taking off!"
-    mc "All right, Stacy, I'm taking off!"
+    mc "Va bene, Stacy, me ne vado!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:10
 translate italian sm1cs_dc010_53111809:
@@ -14,67 +14,67 @@ translate italian sm1cs_dc010_53111809:
 translate italian sm1cs_dc010_693804d0:
 
     # mc "Oh? Where are you going?"
-    mc "Oh? Where are you going?"
+    mc "Oh? Dove vai?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:14
 translate italian sm1cs_dc010_c3e70951:
 
     # sy "Not all of us can be so lucky to get a date with a hot cop."
-    sy "Not all of us can be so lucky to get a date with a hot cop."
+    sy "Non tutti possono essere così fortunati da avere un appuntamento con una poliziotta sexy."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:15
 translate italian sm1cs_dc010_9ba447aa:
 
     # sy "Some of us need to go and work!"
-    sy "Some of us need to go and work!"
+    sy "Alcuni di noi devono andare a lavorare!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:18
 translate italian sm1cs_dc010_4d99b4c0:
 
     # mc "You want to complain about work to me?"
-    mc "You want to complain about work to me?"
+    mc "Vuoi lamentarti del lavoro con me?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:20
 translate italian sm1cs_dc010_62fdba08:
 
     # sy "Hehehehe! Yep!"
-    sy "Hehehehe! Yep!"
+    sy "Hehehehe! Sì!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:22
 translate italian sm1cs_dc010_97c58c29:
 
     # mc "Seriously, where are you heading out to?"
-    mc "Seriously, where are you heading out to?"
+    mc "Seriamente, dove stai andando?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:24
 translate italian sm1cs_dc010_07199214:
 
     # sy "There's a studio that's having a close out sale."
-    sy "There's a studio that's having a close out sale."
+    sy "C'è uno studio che sta facendo una vendita di chiusura."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:25
 translate italian sm1cs_dc010_61e0988c:
 
     # sy "I'm going to see if there's anything worth buying."
-    sy "I'm going to see if there's anything worth buying."
+    sy "Vado a vedere se c'è qualcosa che vale la pena comprare."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:27
 translate italian sm1cs_dc010_eaa14796:
 
     # mc "Oh, that's actually super useful..."
-    mc "Oh, that's actually super useful..."
+    mc "Oh, è davvero molto utile..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:29
 translate italian sm1cs_dc010_2c3518b2:
 
     # sy "I know!"
-    sy "I know!"
+    sy "Lo so!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:30
 translate italian sm1cs_dc010_171f1069:
 
     # sy "But I'll be getting back late."
-    sy "But I'll be getting back late."
+    sy "Ma tornerò tardi."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:33
 translate italian sm1cs_dc010_ee87e6f3:
@@ -86,139 +86,139 @@ translate italian sm1cs_dc010_ee87e6f3:
 translate italian sm1cs_dc010_7b6538b2:
 
     # sy "Yeah, it's on the other side of Crowning. And they're starting super late."
-    sy "Yeah, it's on the other side of Crowning. And they're starting super late."
+    sy "Sì, è dall'altra parte di Crowning. E iniziano molto tardi."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:36
 translate italian sm1cs_dc010_847f42e2:
 
     # sy "So you'll have the place all to yourself tonight."
-    sy "So you'll have the place all to yourself tonight."
+    sy "Quindi avrai il posto tutto per te stasera."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:38
 translate italian sm1cs_dc010_d39e1fb5:
 
     # mc "Hey, I had no plans for any of that!"
-    mc "Hey, I had no plans for any of that!"
+    mc "Ehi, non avevo in programma niente del genere!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:39
 translate italian sm1cs_dc010_14818ad7:
 
     # sy "Suuuuuuuuure you didn't."
-    sy "Suuuuuuuuure you didn't."
+    sy "Sììììììììì certo che no."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:41
 translate italian sm1cs_dc010_e9e0e8a5:
 
     # sy "Just thought I'd let you know!"
-    sy "Just thought I'd let you know!"
+    sy "Volevo solo fartelo sapere!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:42
 translate italian sm1cs_dc010_d71ee167:
 
     # mc "Aye yea yea..."
-    mc "Aye yea yea..."
+    mc "Sì sì sì..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:48
 translate italian sm1cs_dc010_03e29017:
 
     # mct "I guess Debbie is running behind..."
-    mct "I guess Debbie is running behind..."
+    mct "Immagino che Debbie sia in ritardo..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:49
 translate italian sm1cs_dc010_457d38af:
 
     # mct "Well, I'll make sure to grab us some good seats at the very least."
-    mct "Well, I'll make sure to grab us some good seats at the very least."
+    mct "Beh, mi assicurerò almeno di prenderci dei buoni posti."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:52
 translate italian sm1cs_dc010_c9a3df5d:
 
     # mct "Hope everything is all right."
-    mct "Hope everything is all right."
+    mct "Spero che vada tutto bene."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:53
 translate italian sm1cs_dc010_d881d8e9:
 
     # mct "Sounds like something happened at-"
-    mct "Sounds like something happened at-"
+    mct "Sembra che sia successo qualcosa a-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:56
 translate italian sm1cs_dc010_1ee983bb:
 
     # dc "Oh my goodness, [mcname]! I am so sorry!"
-    dc "Oh my goodness, [mcname]! I am so sorry!"
+    dc "Oh mio Dio, [mcname]! Mi dispiace tanto!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:59
 translate italian sm1cs_dc010_d4660ddb:
 
     # mc "It's okay! You've got an important job, and you're saving lives!"
-    mc "It's okay! You've got an important job, and you're saving lives!"
+    mc "Va bene! Hai un lavoro importante e stai salvando vite!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:61
 translate italian sm1cs_dc010_3c880be0:
 
     # dc "Oh, it's not all that!"
-    dc "Oh, it's not all that!"
+    dc "Oh, non è poi così!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:65
 translate italian sm1cs_dc010_35d140ee:
 
     # mc "I hope these seats are okay!"
-    mc "I hope these seats are okay!"
+    mc "Spero che questi posti vadano bene!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:67
 translate italian sm1cs_dc010_7932c445:
 
     # dc "Oh! These are great seats!"
-    dc "Oh! These are great seats!"
+    dc "Oh! Questi sono ottimi posti!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:68
 translate italian sm1cs_dc010_cd4b8d9c:
 
     # dc "And it looks like it's just us here!"
-    dc "And it looks like it's just us here!"
+    dc "E sembra che ci siamo solo noi qui!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:71
 translate italian sm1cs_dc010_225f9bf4:
 
     # mc "I think this movie has been out for a little bit."
-    mc "I think this movie has been out for a little bit."
+    mc "Penso che questo film sia uscito da un po'."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:72
 translate italian sm1cs_dc010_5af7f38c:
 
     # mc "So hopefully it'll just be us!"
-    mc "So hopefully it'll just be us!"
+    mc "Quindi speriamo che ci saremo solo noi!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:75
 translate italian sm1cs_dc010_f74312ff:
 
     # dc "That would be, uhm, nice."
-    dc "That would be, uhm, nice."
+    dc "Sarebbe, uhm, carino."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:76
 translate italian sm1cs_dc010_fd6f33e0:
 
     # mc "I think so too."
-    mc "I think so too."
+    mc "Anch'io lo penso."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:79
 translate italian sm1cs_dc010_75ef6436:
 
     # dc "Ooooo! The movie is starting!"
-    dc "Ooooo! The movie is starting!"
+    dc "Ooooo! Il film sta iniziando!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:86
 translate italian sm1cs_dc010_220f39c1:
 
     # mct "Debbie is holding my hand."
-    mct "Debbie is holding my hand."
+    mct "Debbie mi sta tenendo la mano."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:87
 translate italian sm1cs_dc010_32229f62:
 
     # mct "Progress!"
-    mct "Progress!"
+    mct "Progresso!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:104
 translate italian sm1cs_dc010_later_9c3ae1b1:
@@ -230,13 +230,13 @@ translate italian sm1cs_dc010_later_9c3ae1b1:
 translate italian sm1cs_dc010_later_239e523a:
 
     # mc "Yeah, wow indeed!"
-    mc "Yeah, wow indeed!"
+    mc "Sì, wow davvero!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:107
 translate italian sm1cs_dc010_later_9b5986fd:
 
     # dc "That was so good!"
-    dc "That was so good!"
+    dc "È stato così bello!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:109
 translate italian sm1cs_dc010_later_9ddc1c0b:
@@ -248,43 +248,43 @@ translate italian sm1cs_dc010_later_9ddc1c0b:
 translate italian sm1cs_dc010_later_93077c47:
 
     # dc "Did you like it!?"
-    dc "Did you like it!?"
+    dc "Ti è piaciuto!?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:112
 translate italian sm1cs_dc010_later_629a6747:
 
     # mc "I did! And I'm guessing you did too?"
-    mc "I did! And I'm guessing you did too?"
+    mc "Sì! E immagino che sia piaciuto anche a te?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:114
 translate italian sm1cs_dc010_later_81fc1d33:
 
     # dc "I did!"
-    dc "I did!"
+    dc "Sì!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:117
 translate italian sm1cs_dc010_later_9e454f39:
 
     # dc "Like, when he showed up in the car, the handgun sticking out of the window!"
-    dc "Like, when he showed up in the car, the handgun sticking out of the window!"
+    dc "Tipo, quando è arrivato in macchina, con la pistola che sporgeva dal finestrino!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:119
 translate italian sm1cs_dc010_later_40b4ce97:
 
     # dc "And then he reloaded it by smashing it on the motorcyclists head! So bad ass!"
-    dc "And then he reloaded it by smashing it on the motorcyclists head! So bad ass!"
+    dc "E poi l'ha ricaricata sbattendola sulla testa del motociclista! Così figo!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:124
 translate italian sm1cs_dc010_later_eb07f581:
 
     # dc "Oh, oh! And when he was in that fight, and he grabbed the gun, and pulled it apart!"
-    dc "Oh, oh! And when he was in that fight, and he grabbed the gun, and pulled it apart!"
+    dc "Oh, oh! E quando era in quella lotta, e ha afferrato la pistola, e l'ha fatta a pezzi!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:125
 translate italian sm1cs_dc010_later_e2911744:
 
     # dc "Classic bad ass move! Oh, so cool!"
-    dc "Classic bad ass move! Oh, so cool!"
+    dc "Mossa classica da duro! Oh, così figo!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:126
 translate italian sm1cs_dc010_later_9ddc1c0b_1:
@@ -296,7 +296,7 @@ translate italian sm1cs_dc010_later_9ddc1c0b_1:
 translate italian sm1cs_dc010_later_e092a1e5:
 
     # dc "What a great night, [mcname]. Seriously, I had a lot of fun hanging out."
-    dc "What a great night, [mcname]. Seriously, I had a lot of fun hanging out."
+    dc "Che serata fantastica, [mcname]. Seriamente, mi sono divertita molto."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:131
 translate italian sm1cs_dc010_later_3e5ae14e:
