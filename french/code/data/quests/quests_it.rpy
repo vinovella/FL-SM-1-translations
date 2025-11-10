@@ -236,3 +236,29 @@ translate french strings:
     old "Wait for April to text you"
     new "Wait for April to text you"
 
+translate french strings:
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Progress [var]/3 of Nari's scenes"
+    new "Progress [var]/3 of Nari's scenes"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Progress [var]/3 of Nari's scenes and 0/1 of Anna's scenes"
+    new "Progress [var]/3 of Nari's scenes and 0/1 of Anna's scenes"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work the IT job [var]/40 times and finish the renovations"
+    new "Work the IT job [var]/40 times and finish the renovations"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work the IT job [var]/40 times"
+    new "Work the IT job [var]/40 times"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get at least [var]/15 total Relationship Points with characters at Orbix"
+    new "Get at least [var]/15 total Relationship Points with characters at Orbix"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work at Orbix [var]/20 times"
+    new "Work at Orbix [var]/20 times"
+

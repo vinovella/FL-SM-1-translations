@@ -1222,12 +1222,6 @@ translate deutsch sm1cs_mas003_third_delivery_ee26e2b5:
     # ka "I'm sorry. I just... I love my house. And I love these two bitches."
     ka "Es tut mir leid. Ich liebe einfach mein Haus. Und ich liebe diese beiden Schlampen."
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
-translate deutsch sm1cs_mas003_third_delivery_8cafc4ef:
-
-    # ka "*sniff* There the best."
-    ka "*schnief* Das ist das Beste."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:712
 translate deutsch sm1cs_mas003_third_delivery_677ccda6:
 
@@ -1717,4 +1711,10 @@ translate deutsch strings:
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
     old "You got a $[amount] as your cut of the tip."
     new "You got a $[amount] as your cut of the tip."
+
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
+translate deutsch sm1cs_mas003_third_delivery_fedc52e9:
+
+    # ka "*sniff* They're the best."
+    ka "*sniff* They're the best."
 

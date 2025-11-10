@@ -1288,12 +1288,6 @@ translate deutsch sm1cs_my006_hotel_room_c083d0b8:
     # mct "Mom's ass is amazing... and her pussy, fucking wow."
     mct "Mom's ass is amazing... and her pussy, fucking wow."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:545
-translate deutsch sm1cs_my006_hotel_room_7952b893:
-
-    # mct "Melon'y ass is amazing... and her pussy, fucking wow."
-    mct "Melon'y ass is amazing... and her pussy, fucking wow."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:548
 translate deutsch sm1cs_my006_hotel_room_35fc326a:
 
@@ -1942,12 +1936,6 @@ translate deutsch sm1cs_my006_next_morning_4aa719fb:
     # mc "I, uhh, just didn't mean to fall asleep here, is all."
     mc "I, uhh, just didn't mean to fall asleep here, is all."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:811
-translate deutsch sm1cs_my006_next_morning_bedd9f98:
-
-    # my "It's fine, it's not like you have anyone whose going to miss you in bed."
-    my "It's fine, it's not like you have anyone whose going to miss you in bed."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:814
 translate deutsch sm1cs_my006_next_morning_30fadbe2:
 
@@ -2371,4 +2359,16 @@ translate deutsch strings:
     # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:905
     old "Back at the studio"
     new "Back at the studio"
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:545
+translate deutsch sm1cs_my006_hotel_room_edc09e20:
+
+    # mct "Melony's ass is amazing... and her pussy, fucking wow."
+    mct "Melony's ass is amazing... and her pussy, fucking wow."
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:811
+translate deutsch sm1cs_my006_next_morning_02f10a8a:
+
+    # my "It's fine, it's not like you have anyone who's going to miss you in bed."
+    my "It's fine, it's not like you have anyone who's going to miss you in bed."
 

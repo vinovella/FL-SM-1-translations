@@ -6835,70 +6835,70 @@ translate chinese sm1ms029_cliffhanger_71e7b42f:
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms029.rpy:129
-    old "告诉康雅给史黛西一个吻"
+    old "Tell Kanya to offer Stacy a kiss"
     new "告诉康雅给史黛西一个吻"
 
     # game/code/scenes/main_story/sm1ms029.rpy:129
-    old "感谢她的吻"
+    old "Thank her for the kiss"
     new "感谢她的吻"
 
     # game/code/scenes/main_story/sm1ms029.rpy:586
-    old "与泰西娅和明交谈"
+    old "Talk to Taisia and Min"
     new "与泰西娅和明交谈"
 
     # game/code/scenes/main_story/sm1ms029.rpy:586
-    old "与明和娜丽交谈"
+    old "Talk to Min and Nari"
     new "与明和娜丽交谈"
 
     # game/code/scenes/main_story/sm1ms029.rpy:586
-    old "与娜丽和泰西娅交谈"
+    old "Talk to Nari and Taisia"
     new "与娜丽和泰西娅交谈"
 
     # game/code/scenes/main_story/sm1ms029.rpy:586
-    old "与康雅、哈娜和爱洛丝交谈"
+    old "Talk to Kanya, Hana, and AmRose"
     new "与康雅、哈娜和爱洛丝交谈"
 
     # game/code/scenes/main_story/sm1ms029.rpy:586
-    old "查看主要活动"
+    old "Check out the main event"
     new "查看主要活动"
 
     # game/code/scenes/main_story/sm1ms029.rpy:1207
-    old "娜丽向前走"
+    old "Nari steps forward"
     new "娜丽向前走"
 
     # game/code/scenes/main_story/sm1ms029.rpy:1207
-    old "泰西娅向前走"
+    old "Taisia steps forward"
     new "泰西娅向前走"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2136
-    old "表明你的观点"
+    old "Make your point"
     new "表明你的观点"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2154
-    old "我应该拿出我的鸡巴吗？"
+    old "Should I pull out my dick?"
     new "我应该拿出我的鸡巴吗？"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2154
-    old "为什么？"
+    old "Why is that?"
     new "为什么？"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2204
-    old "谢谢，但不用了"
+    old "Thanks, but no thanks"
     new "谢谢，但不用了"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2204
-    old "我们在谈多少钱？"
+    old "How much are we talking?"
     new "我们在谈多少钱？"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2293
-    old "我们要跳舞"
+    old "We're going to dance"
     new "我们要跳舞"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2293
-    old "我们会赢"
+    old "We're going to win"
     new "我们会赢"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2293
-    old "忘了他吧"
+    old "Forget about him"
     new "忘了他吧"
 

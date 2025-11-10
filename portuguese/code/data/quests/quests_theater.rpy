@@ -244,3 +244,29 @@ translate portuguese strings:
     old "Get your Film and TV topic to 3"
     new "Get your Film and TV topic to 3"
 
+translate portuguese strings:
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least [var]/3 times"
+    new "Do the Saturday show at least [var]/3 times"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have [var]/10 total Relationship Points with the Theater girls"
+    new "Have [var]/10 total Relationship Points with the Theater girls"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least [var0]/3 times and have [var1]/10 total Relationship Points with the Theater girls"
+    new "Do the Saturday show at least [var0]/3 times and have [var1]/10 total Relationship Points with the Theater girls"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have $[var]/$50"
+    new "Have $[var]/$50"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have $[var]/$100 and invite Taisia to make a film"
+    new "Have $[var]/$100 and invite Taisia to make a film"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the rehearsal on [var!t]"
+    new "Do the rehearsal on [var!t]"
+

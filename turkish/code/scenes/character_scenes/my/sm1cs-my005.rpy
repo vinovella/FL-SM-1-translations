@@ -904,12 +904,6 @@ translate turkish sm1cs_my005_half_movie_44d90e34:
     # mct "Shit, I wish I could change the channel or something."
     mct "Shit, I wish I could change the channel or something."
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:391
-translate turkish sm1cs_my005_half_movie_8b67f615:
-
-    # mct "What is... is Mom ubbing my dick with her foot?"
-    mct "What is... is Mom ubbing my dick with her foot?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:393
 translate turkish sm1cs_my005_half_movie_6d8b3c8e:
 
@@ -1198,12 +1192,6 @@ translate turkish sm1cs_my005_after_movie_bedbf63c:
     # mc "Hey, you're welcome to pass out on our couch any time, Melony."
     mc "Hey, you're welcome to pass out on our couch any time, Melony."
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:504
-translate turkish sm1cs_my005_after_movie_1ba9d3e0:
-
-    # my "I appreciate that, but when oyu get to be my age, oyu want a nice, big soft bed, with a down comforter."
-    my "I appreciate that, but when oyu get to be my age, oyu want a nice, big soft bed, with a down comforter."
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:505
 translate turkish sm1cs_my005_after_movie_e97c69fb:
 
@@ -1276,18 +1264,6 @@ translate turkish sm1cs_my005_after_movie_4a7a48b3:
     # mct "Holy shit... did that just happen?"
     mct "Holy shit... did that just happen?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:541
-translate turkish sm1cs_my005_after_movie_3927340e:
-
-    # mct "I just made my mom cum from a foot massage, and then flrted with her like it was no big deal..."
-    mct "I just made my mom cum from a foot massage, and then flrted with her like it was no big deal..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:543
-translate turkish sm1cs_my005_after_movie_19b08028:
-
-    # mct "I just made Melony cum from a foot massage, and then flrted with her like it was no big deal..."
-    mct "I just made Melony cum from a foot massage, and then flrted with her like it was no big deal..."
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:546
 translate turkish sm1cs_my005_after_movie_d450cdbc:
 
@@ -1325,4 +1301,28 @@ translate turkish strings:
     # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:469
     old "After the Movie"
     new "After the Movie"
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:391
+translate turkish sm1cs_my005_half_movie_c72b9a46:
+
+    # mct "What is... is Mom rubbing my dick with her foot?"
+    mct "What is... is Mom rubbing my dick with her foot?"
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:504
+translate turkish sm1cs_my005_after_movie_52d70a1d:
+
+    # my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
+    my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:541
+translate turkish sm1cs_my005_after_movie_2d23f06a:
+
+    # mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:543
+translate turkish sm1cs_my005_after_movie_eed91999:
+
+    # mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
 

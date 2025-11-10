@@ -1936,12 +1936,6 @@ translate turkish sm1cs_dc010_dc_hj_6e604cc7:
     # dc "Or, or, your cock between my tits, in my mouth!"
     dc "Or, or, your cock between my tits, in my mouth!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:708
-translate turkish sm1cs_dc010_dc_hj_bb7bcdee:
-
-    # dc "I think of you cumming all over me as I stroek myself, and I- I-"
-    dc "I think of you cumming all over me as I stroek myself, and I- I-"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:709
 translate turkish sm1cs_dc010_dc_hj_21120a70:
 
@@ -2455,4 +2449,10 @@ translate turkish strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:586
     old "Yes, give Debbie a handjob"
     new "Yes, give Debbie a handjob"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:708
+translate turkish sm1cs_dc010_dc_hj_10a9c12a:
+
+    # dc "I think of you cumming all over me as I stroke myself, and I- I-"
+    dc "I think of you cumming all over me as I stroke myself, and I- I-"
 

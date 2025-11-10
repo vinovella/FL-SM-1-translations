@@ -1223,9 +1223,9 @@ translate chinese sm1cs_mas003_third_delivery_ee26e2b5:
     ka "抱歉啊。我就是...太爱我的姐妹会了。也很爱这两位妞儿。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
-translate chinese sm1cs_mas003_third_delivery_8cafc4ef:
+translate chinese sm1cs_mas003_third_delivery_fedc52e9:
 
-    # ka "*sniff* There the best."
+    # ka "*sniff* They're the best."
     ka "*吸鼻子* 她们是我最好的朋友。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:712

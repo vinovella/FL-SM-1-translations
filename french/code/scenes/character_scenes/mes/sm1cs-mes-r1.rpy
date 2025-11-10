@@ -754,18 +754,6 @@ translate french sm1cs_mes_r1_continue_2_a2e9c986:
     # mes "I can't... Too much... It's too much..."
     mes "I can't... Too much... It's too much..."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:303
-translate french sm1cs_mes_r1_continue_2_b732c357:
-
-    # mc "Yesm you can. Cum again or I'll keep fucking you like this for hours."
-    mc "Yesm you can. Cum again or I'll keep fucking you like this for hours."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:305
-translate french sm1cs_mes_r1_continue_2_b0315e37:
-
-    # mes "*sobbing with pleasure* I'm you're little sextoy."
-    mes "*sobbing with pleasure* I'm you're little sextoy."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:307
 translate french sm1cs_mes_r1_continue_2_3fe31878:
 
@@ -1751,4 +1739,16 @@ translate french strings:
     # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:585
     old "I'm going to cover your face"
     new "I'm going to cover your face"
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:303
+translate french sm1cs_mes_r1_continue_2_d9861589:
+
+    # mc "Yes you can. Cum again or I'll keep fucking you like this for hours."
+    mc "Yes you can. Cum again or I'll keep fucking you like this for hours."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:305
+translate french sm1cs_mes_r1_continue_2_3151895e:
+
+    # mes "*sobbing with pleasure* I'm your little sextoy."
+    mes "*sobbing with pleasure* I'm your little sextoy."
 

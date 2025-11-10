@@ -28,3 +28,9 @@ translate french strings:
     old "You spent $[amount]"
     new "You spent $[amount]"
 
+translate french strings:
+
+    # game/code/classes/player.rpy:403
+    old "You have improved in topic [topic!t]"
+    new "You have improved in topic [topic!t]"
+

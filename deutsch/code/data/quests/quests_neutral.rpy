@@ -452,3 +452,13 @@
     old "Talk to Stacy about Melony"
     new "Talk to Stacy about Melony"
 
+translate deutsch strings:
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Learn Photography until you reach [var]/5 in this topic"
+    new "Learn Photography until you reach [var]/5 in this topic"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get [var]/9 Relationship Points with Maya"
+    new "Get [var]/9 Relationship Points with Maya"
+

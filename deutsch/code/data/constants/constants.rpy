@@ -134,3 +134,33 @@ translate deutsch strings:
     old "Su"
     new "Su"
 
+translate deutsch strings:
+
+    # game/code/data/constants/constants.rpy:131
+    old "Monday"
+    new "Monday"
+
+    # game/code/data/constants/constants.rpy:132
+    old "Tuesday"
+    new "Tuesday"
+
+    # game/code/data/constants/constants.rpy:133
+    old "Wednesday"
+    new "Wednesday"
+
+    # game/code/data/constants/constants.rpy:134
+    old "Thursday"
+    new "Thursday"
+
+    # game/code/data/constants/constants.rpy:135
+    old "Friday"
+    new "Friday"
+
+    # game/code/data/constants/constants.rpy:136
+    old "Saturday"
+    new "Saturday"
+
+    # game/code/data/constants/constants.rpy:137
+    old "Sunday"
+    new "Sunday"
+

@@ -904,12 +904,6 @@ translate chinese sm1cs_my005_half_movie_44d90e34:
     # mct "Shit, I wish I could change the channel or something."
     mct "糟糕，我真希望能换个频道什么的。"
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:391
-translate chinese sm1cs_my005_half_movie_8b67f615:
-
-    # mct "What is... is Mom ubbing my dick with her foot?"
-    mct "这是...妈妈在用脚摩擦我的老二吗？"
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:393
 translate chinese sm1cs_my005_half_movie_6d8b3c8e:
 
@@ -1198,12 +1192,6 @@ translate chinese sm1cs_my005_after_movie_bedbf63c:
     # mc "Hey, you're welcome to pass out on our couch any time, Melony."
     mc "嘿，你随时欢迎在我们沙发上睡着，梅洛妮。"
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:504
-translate chinese sm1cs_my005_after_movie_1ba9d3e0:
-
-    # my "I appreciate that, but when oyu get to be my age, oyu want a nice, big soft bed, with a down comforter."
-    my "我很感激，但当你到了我这个年纪，你就会想要一张舒适、大大的软床，配上羽绒被。"
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:505
 translate chinese sm1cs_my005_after_movie_e97c69fb:
 
@@ -1276,18 +1264,6 @@ translate chinese sm1cs_my005_after_movie_4a7a48b3:
     # mct "Holy shit... did that just happen?"
     mct "我去...这真的发生了吗？"
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:541
-translate chinese sm1cs_my005_after_movie_3927340e:
-
-    # mct "I just made my mom cum from a foot massage, and then flrted with her like it was no big deal..."
-    mct "我刚刚通过足底按摩让我妈妈高潮了，然后还像没什么大不了的一样跟她调情..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:543
-translate chinese sm1cs_my005_after_movie_19b08028:
-
-    # mct "I just made Melony cum from a foot massage, and then flrted with her like it was no big deal..."
-    mct "我刚刚通过足底按摩让梅洛妮高潮了，然后还像没什么大不了的一样跟她调情..."
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:546
 translate chinese sm1cs_my005_after_movie_d450cdbc:
 
@@ -1325,4 +1301,28 @@ translate chinese strings:
     # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:469
     old "After the Movie"
     new "电影之后"
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:391
+translate chinese sm1cs_my005_half_movie_c72b9a46:
+
+    # mct "What is... is Mom rubbing my dick with her foot?"
+    mct "What is... is Mom rubbing my dick with her foot?"
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:504
+translate chinese sm1cs_my005_after_movie_52d70a1d:
+
+    # my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
+    my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:541
+translate chinese sm1cs_my005_after_movie_2d23f06a:
+
+    # mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:543
+translate chinese sm1cs_my005_after_movie_eed91999:
+
+    # mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
 

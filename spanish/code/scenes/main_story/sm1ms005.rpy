@@ -892,3 +892,9 @@ translate spanish strings:
     old "Cum in Stacy"
     new "Córrete en Stacy"
 
+translate spanish strings:
+
+    # game/code/scenes/main_story/sm1ms005.rpy:152
+    old "97 minutes later"
+    new "97 minutes later"
+

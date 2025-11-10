@@ -1937,9 +1937,9 @@ translate chinese sm1cs_dc010_dc_hj_6e604cc7:
     dc "或者，或者，你的鸡巴在我奶子之间，在我嘴里！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:708
-translate chinese sm1cs_dc010_dc_hj_bb7bcdee:
+translate chinese sm1cs_dc010_dc_hj_10a9c12a:
 
-    # dc "I think of you cumming all over me as I stroek myself, and I- I-"
+    # dc "I think of you cumming all over me as I stroke myself, and I- I-"
     dc "我想着你射在我身上，当我抚摸自己的时候，然后我--我--"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:709

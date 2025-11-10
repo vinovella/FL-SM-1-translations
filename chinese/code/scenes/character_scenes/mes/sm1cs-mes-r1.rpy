@@ -755,15 +755,15 @@ translate chinese sm1cs_mes_r1_continue_2_a2e9c986:
     mes "我不行...太多了...太多了..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:303
-translate chinese sm1cs_mes_r1_continue_2_b732c357:
+translate chinese sm1cs_mes_r1_continue_2_d9861589:
 
-    # mc "Yesm you can. Cum again or I'll keep fucking you like this for hours."
+    # mc "Yes you can. Cum again or I'll keep fucking you like this for hours."
     mc "是的，你可以。再次高潮，否则我会这样操你几个小时。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:305
-translate chinese sm1cs_mes_r1_continue_2_b0315e37:
+translate chinese sm1cs_mes_r1_continue_2_3151895e:
 
-    # mes "*sobbing with pleasure* I'm you're little sextoy."
+    # mes "*sobbing with pleasure* I'm your little sextoy."
     mes "*快感中啜泣* 我是你的小性玩具。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:307
