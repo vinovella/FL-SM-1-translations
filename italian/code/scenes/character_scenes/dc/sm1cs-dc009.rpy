@@ -1232,7 +1232,7 @@ translate italian sm1cs_dc009_45c091a6:
 translate italian sm1cs_dc009_52b7a4a8:
 
     # "Douche Cop" "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
-    "Douche Cop" "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
+    "Douche Cop" "Sì? E come lo dimostra? Ci picchierà a morte con quelle fottute tettone!?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:448
 translate italian sm1cs_dc009_fca52711:
@@ -1244,43 +1244,43 @@ translate italian sm1cs_dc009_fca52711:
 translate italian sm1cs_dc009_a660404d:
 
     # mc "This is a gun range, right? Why don't you have a shoot off. Whoever hits the target better wins."
-    mc "This is a gun range, right? Why don't you have a shoot off. Whoever hits the target better wins."
+    mc "Questo è un poligono di tiro, giusto? Perché non fate una sfida di tiro. Vince chi colpisce meglio il bersaglio."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:454
 translate italian sm1cs_dc009_2662a7ba:
 
     # jc "Fine, we'll have a \"shoot off\". If she somehow beats us, we'll lay off her."
-    jc "Fine, we'll have a \"shoot off\". If she somehow beats us, we'll lay off her."
+    jc "Bene, faremo una \"sfida di tiro\". Se in qualche modo ci batte, la lasceremo in pace."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:456
 translate italian sm1cs_dc009_9e724710:
 
     # mc "For forever."
-    mc "For forever."
+    mc "Per sempre."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:459
 translate italian sm1cs_dc009_92a20efc:
 
     # jc "Sure, fine. Forever."
-    jc "Sure, fine. Forever."
+    jc "Certo, va bene. Per sempre."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:461
 translate italian sm1cs_dc009_4879e2c7:
 
     # jc "But when I win, little miss park ranger needs to show us the gloryhole we've heard so much about."
-    jc "But when I win, little miss park ranger needs to show us the gloryhole we've heard so much about."
+    jc "Ma quando vinco io, la piccola signorina ranger del parco dovrà mostrarci il gloryhole di cui abbiamo tanto sentito parlare."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:462
 translate italian sm1cs_dc009_2c30d401:
 
     # jc "{i}Personally.{/i}"
-    jc "{i}Personally.{/i}"
+    jc "{i}Personalmente.{/i}"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:465
 translate italian sm1cs_dc009_351d2ee5:
 
     # dc "Come on, [mcname]. Let's just go. Leave these assholes to have the range."
-    dc "Come on, [mcname]. Let's just go. Leave these assholes to have the range."
+    dc "Dai, [mcname]. Andiamocene. Lasciamo che questi stronzi abbiano il poligono."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:467
 translate italian sm1cs_dc009_3466c8fc:
@@ -1292,67 +1292,67 @@ translate italian sm1cs_dc009_3466c8fc:
 translate italian sm1cs_dc009_49b32622:
 
     # dc "What..."
-    dc "What..."
+    dc "Cosa..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:471
 translate italian sm1cs_dc009_c4324ba3:
 
     # mc "You got this. You can beat them, I know it."
-    mc "You got this. You can beat them, I know it."
+    mc "Ce la puoi fare. Puoi batterli, lo so."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:473
 translate italian sm1cs_dc009_f81d61d4:
 
     # dc "I don't know..."
-    dc "I don't know..."
+    dc "Non lo so..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:474
 translate italian sm1cs_dc009_e2659673:
 
     # mc "Are they any good?"
-    mc "Are they any good?"
+    mc "Sono bravi?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:475
 translate italian sm1cs_dc009_c666e81c:
 
     # dc "I mean..."
-    dc "I mean..."
+    dc "Voglio dire..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:477
 translate italian sm1cs_dc009_2c071a78:
 
     # mc "Are they the type of guys who come to the range to watch a movie?"
-    mc "Are they the type of guys who come to the range to watch a movie?"
+    mc "Sono il tipo di ragazzi che vengono al poligono per guardare un film?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:480
 translate italian sm1cs_dc009_c2e1a243:
 
     # dc "I mean... yeah."
-    dc "I mean... yeah."
+    dc "Voglio dire... sì."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:482
 translate italian sm1cs_dc009_4f622324:
 
     # mc "And you come and practice, right?"
-    mc "And you come and practice, right?"
+    mc "E tu vieni e ti alleni, giusto?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:484
 translate italian sm1cs_dc009_6ce4cbe3:
 
     # dc "Yeah..."
-    dc "Yeah..."
+    dc "Sì..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:487
 translate italian sm1cs_dc009_eeb41400:
 
     # mc "Then you got this!"
-    mc "Then you got this!"
+    mc "Allora ce la puoi fare!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:489
 translate italian sm1cs_dc009_30742037:
 
     # jc "Come on! We going to do this!? You stall much longer, and I'm going to wonder what those saggy tits would feel like around my dick!"
-    jc "Come on! We going to do this!? You stall much longer, and I'm going to wonder what those saggy tits would feel like around my dick!"
+    jc "Dai! Lo facciamo o no!? Ancora un po' e mi chiederò come si sentirebbero quelle tette cascanti intorno al mio cazzo!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:490
 translate italian sm1cs_dc009_29d3c2e2:
@@ -1364,31 +1364,31 @@ translate italian sm1cs_dc009_29d3c2e2:
 translate italian sm1cs_dc009_7790aac6:
 
     # dc "Yeah, I got this."
-    dc "Yeah, I got this."
+    dc "Sì, ce la posso fare."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:495
 translate italian sm1cs_dc009_ca6075bd:
 
     # dc "Let's sweeten the deal. Loser has to do the other one's paperwork for a month."
-    dc "Let's sweeten the deal. Loser has to do the other one's paperwork for a month."
+    dc "Rendiamo l'accordo più interessante. Chi perde deve fare la burocrazia dell'altro per un mese."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:498
 translate italian sm1cs_dc009_a537d812:
 
     # jc "Pfft! Hope you like doing paperwork then!"
-    jc "Pfft! Hope you like doing paperwork then!"
+    jc "Pfft! Allora spero ti piaccia fare burocrazia!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:501
 translate italian sm1cs_dc009_895d9f50:
 
     # jc "I'll go first."
-    jc "I'll go first."
+    jc "Vado io prima."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:504
 translate italian sm1cs_dc009_5f06960e:
 
     # jc "Show you how a real cop gets it done!"
-    jc "Show you how a real cop gets it done!"
+    jc "Ti mostrerò come fa un vero poliziotto!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:509
 translate italian sm1cs_dc009_a792ebb9_1:
@@ -1412,7 +1412,7 @@ translate italian sm1cs_dc009_a792ebb9_3:
 translate italian sm1cs_dc009_14f93858:
 
     # jc "All right, it's all you, cupcake."
-    jc "All right, it's all you, cupcake."
+    jc "Va bene, tocca a te, dolcezza."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:534
 translate italian sm1cs_dc009_a792ebb9_4:
@@ -1436,205 +1436,205 @@ translate italian sm1cs_dc009_a792ebb9_6:
 translate italian sm1cs_dc009_3d57c23c:
 
     # dc "Now, let's see who won."
-    dc "Now, let's see who won."
+    dc "Ora, vediamo chi ha vinto."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:552
 translate italian sm1cs_dc009_2a0f37fa:
 
     # jc "Ha! 6, 7, 8! Top that, sugar tits!"
-    jc "Ha! 6, 7, 8! Top that, sugar tits!"
+    jc "Ha! 6, 7, 8! Batti questa, tettone dolci!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:556
 translate italian sm1cs_dc009_8a7a2b9b:
 
     # dc "Three 9s."
-    dc "Three 9s."
+    dc "Tre 9."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:559
 translate italian sm1cs_dc009_24e3c700:
 
     # "Douche Cop" "Bullshit! No way!"
-    "Douche Cop" "Bullshit! No way!"
+    "Douche Cop" "Cazzate! Impossibile!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:560
 translate italian sm1cs_dc009_9b443ffe:
 
     # dc "Don't believe me, come take a look for yourself!"
-    dc "Don't believe me, come take a look for yourself!"
+    dc "Non mi credi, vieni a vedere con i tuoi occhi!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:563
 translate italian sm1cs_dc009_3c5e93de:
 
     # "Douche Cop" "Shit... three 9s..."
-    "Douche Cop" "Shit... three 9s..."
+    "Douche Cop" "Merda... tre 9..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:564
 translate italian sm1cs_dc009_58dbd9de:
 
     # jc "There's no fucking way you beat me! Bull shit!"
-    jc "There's no fucking way you beat me! Bull shit!"
+    jc "Non c'è modo che tu mi abbia battuto! Cazzate!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:566
 translate italian sm1cs_dc009_583c7f34:
 
     # dc "What, are you saying I cheated?"
-    dc "What, are you saying I cheated?"
+    dc "Cosa, stai dicendo che ho barato?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:568
 translate italian sm1cs_dc009_cd44afda:
 
     # jc "I... fuck, whatever. We're out of here."
-    jc "I... fuck, whatever. We're out of here."
+    jc "Io... cazzo, vabbè. Ce ne andiamo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:571
 translate italian sm1cs_dc009_535c019e:
 
     # dc "Enjoy my paperwork."
-    dc "Enjoy my paperwork."
+    dc "Goditi la mia burocrazia."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:573
 translate italian sm1cs_dc009_67359a6c:
 
     # mc "And, for the record, she is my girlfriend!"
-    mc "And, for the record, she is my girlfriend!"
+    mc "E, tanto per la cronaca, è la mia ragazza!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:576
 translate italian sm1cs_dc009_5f46baf1:
 
     # dc "Wait - what?"
-    dc "Wait - what?"
+    dc "Aspetta - cosa?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:577
 translate italian sm1cs_dc009_22f7dc71:
 
     # dc "Who's got a girlfriend?"
-    dc "Who's got a girlfriend?"
+    dc "Chi ha una ragazza?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:579
 translate italian sm1cs_dc009_0972c153:
 
     # mc "Erm..."
-    mc "Erm..."
+    mc "Ehm..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:581
 translate italian sm1cs_dc009_e646e34f:
 
     # mc "It just felt like an appropriate retort?{w} You know, tell them that you are-"
-    mc "It just felt like an appropriate retort?{w} You know, tell them that you are-"
+    mc "Mi è sembrata una risposta appropriata?{w} Sai, dire loro che tu sei-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:583
 translate italian sm1cs_dc009_804027ce:
 
     # dc "I mean...{w}you want me as your girlfriend?"
-    dc "I mean...{w}you want me as your girlfriend?"
+    dc "Voglio dire...{w}mi vuoi come tua ragazza?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:585
 translate italian sm1cs_dc009_4eddbbb0:
 
     # mc "I mean... if you want to be."
-    mc "I mean... if you want to be."
+    mc "Voglio dire... se vuoi esserlo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:588
 translate italian sm1cs_dc009_41c7f4eb:
 
     # dc "Be serious, [mcname]. You better not be pulling my leg."
-    dc "Be serious, [mcname]. You better not be pulling my leg."
+    dc "Sii serio, [mcname]. Faresti meglio a non prendermi in giro."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:589
 translate italian sm1cs_dc009_a908d68c:
 
     # dc "Because I have a loaded gun, and now is {i}not{/i} a good time to be making a joke."
-    dc "Because I have a loaded gun, and now is {i}not{/i} a good time to be making a joke."
+    dc "Perché ho un'arma carica, e ora {i}non{/i} è un buon momento per scherzare."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:592
 translate italian sm1cs_dc009_a5cd9c03:
 
     # mc "I mean... there's still a lot we need to learn about each other, but..."
-    mc "I mean... there's still a lot we need to learn about each other, but..."
+    mc "Voglio dire... c'è ancora molto che dobbiamo imparare l'uno dell'altro, ma..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:593
 translate italian sm1cs_dc009_36879384:
 
     # mc "It's complicated, I have... well, I'm involved with-"
-    mc "It's complicated, I have... well, I'm involved with-"
+    mc "È complicato, ho... beh, sono coinvolto con-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:596
 translate italian sm1cs_dc009_93771a14:
 
     # dc "I don't care. I {i}only{/i} care about if you want to be involved with me."
-    dc "I don't care. I {i}only{/i} care about if you want to be involved with me."
+    dc "Non mi interessa. {i}Solo{/i} mi interessa se vuoi essere coinvolto con me."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:598
 translate italian sm1cs_dc009_779d02fc:
 
     # mc "Of course I do, Debbie. You're amazing, and-"
-    mc "Of course I do, Debbie. You're amazing, and-"
+    mc "Certo che sì, Debbie. Sei fantastica, e-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:601
 translate italian sm1cs_dc009_3678e355:
 
     # dc "You have {i}no idea{/i} how badly I've wanted to hear you say that, [mcname]."
-    dc "You have {i}no idea{/i} how badly I've wanted to hear you say that, [mcname]."
+    dc "Non hai {i}idea{/i} di quanto ho voluto sentirti dire questo, [mcname]."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:604
 translate italian sm1cs_dc009_45e07afe:
 
     # mc "Well, I wish it had been under better circumstances, bu-"
-    mc "Well, I wish it had been under better circumstances, bu-"
+    mc "Beh, avrei voluto che fosse stato in circostanze migliori, ma-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:606
 translate italian sm1cs_dc009_266d8b36:
 
     # dc "I really could care less."
-    dc "I really could care less."
+    dc "Davvero non potrebbe importarmi di meno."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:607
 translate italian sm1cs_dc009_0ab37444:
 
     # dc "I'm just... I'm so happy I have a boyfriend."
-    dc "I'm just... I'm so happy I have a boyfriend."
+    dc "Sono solo... sono così felice di avere un fidanzato."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:610
 translate italian sm1cs_dc009_63d14ce2:
 
     # mc "Yes, yes you do, Debbie."
-    mc "Yes, yes you do, Debbie."
+    mc "Sì, sì ce l'hai, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:611
 translate italian sm1cs_dc009_903eabeb:
 
     # mc "Which means we'll have to do more boyfriend-girlfriend stuff! Dates, holding hands, uhm... other things people who are dating do."
-    mc "Which means we'll have to do more boyfriend-girlfriend stuff! Dates, holding hands, uhm... other things people who are dating do."
+    mc "Il che significa che dovremo fare più cose da fidanzati! Appuntamenti, tenersi per mano, uhm... altre cose che fanno le persone che si frequentano."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:613
 translate italian sm1cs_dc009_9edb6dd8:
 
     # dc "Mmhmm, other things!"
-    dc "Mmhmm, other things!"
+    dc "Mmhmm, altre cose!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:616
 translate italian sm1cs_dc009_a3cd0542:
 
     # mct "Wow, I didn't realize how much this would mean to her."
-    mct "Wow, I didn't realize how much this would mean to her."
+    mct "Wow, non mi rendevo conto di quanto questo avrebbe significato per lei."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:617
 translate italian sm1cs_dc009_c1f70605:
 
     # mct "She looked like she was about to cry."
-    mct "She looked like she was about to cry."
+    mct "Sembrava che stesse per piangere."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:619
 translate italian sm1cs_dc009_d2fbe5aa:
 
     # mct "Oh woah. I think I feel her other gun warming up. Heh."
-    mct "Oh woah. I think I feel her other gun warming up. Heh."
+    mct "Oh wow. Penso di sentire la sua altra arma che si scalda. Heh."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:622
 translate italian sm1cs_dc009_d6763f2c:
 
     # dc "Oh, uhm, ahem. So, boyfriend, I, uhm, think I have to go!"
-    dc "Oh, uhm, ahem. So, boyfriend, I, uhm, think I have to go!"
+    dc "Oh, uhm, ahem. Allora, fidanzato, io, uhm, penso che devo andare!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:624
 translate italian sm1cs_dc009_ee87e6f3:
@@ -1646,13 +1646,13 @@ translate italian sm1cs_dc009_ee87e6f3:
 translate italian sm1cs_dc009_3394ec53:
 
     # dc "Uh huh. I just realized that I have, a, uhm, cat to feed!"
-    dc "Uh huh. I just realized that I have, a, uhm, cat to feed!"
+    dc "Uh huh. Ho appena realizzato che ho, un, uhm, gatto da nutrire!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:628
 translate italian sm1cs_dc009_eff15514:
 
     # mc "You have a cat?"
-    mc "You have a cat?"
+    mc "Hai un gatto?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:630
 translate italian sm1cs_dc009_871b9b08_1:
@@ -1664,47 +1664,47 @@ translate italian sm1cs_dc009_871b9b08_1:
 translate italian sm1cs_dc009_d449f08b:
 
     # dc "Nope!"
-    dc "Nope!"
+    dc "No!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:634
 translate italian sm1cs_dc009_b5a59259:
 
     # dc "I'll text you later, [mcname]! Bye!"
-    dc "I'll text you later, [mcname]! Bye!"
+    dc "Ti manderò un messaggio più tardi, [mcname]! Ciao!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:640
 translate italian sm1cs_dc009_0c99fe85:
 
     # mct "Did she get that awkward because she got a boner?"
-    mct "Did she get that awkward because she got a boner?"
+    mct "È diventata così imbarazzata perché ha avuto un'erezione?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:641
 translate italian sm1cs_dc009_ac029b45:
 
     # mct "At least I assume that was her boner..."
-    mct "At least I assume that was her boner..."
+    mct "Almeno suppongo che quella fosse la sua erezione..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:644
 translate italian sm1cs_dc009_68478393:
 
     # mct "Maybe it will take a bit for her to get more comfortable with physical contact between us."
-    mct "Maybe it will take a bit for her to get more comfortable with physical contact between us."
+    mct "Forse ci vorrà un po' perché si senta più a suo agio con il contatto fisico tra noi."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:645
 translate italian sm1cs_dc009_9c61f9a7:
 
     # mct "Or maybe not, I don't know..."
-    mct "Or maybe not, I don't know..."
+    mct "O forse no, non lo so..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:646
 translate italian sm1cs_dc009_78726b78:
 
     # mct "Still. Not a bad date..."
-    mct "Still. Not a bad date..."
+    mct "Comunque. Non un brutto appuntamento..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:647
 translate italian sm1cs_dc009_2341bb60:
 
     # mct "Hot dogs and watching Debbie show up some asshole cops.{w} Not bad at all."
-    mct "Hot dogs and watching Debbie show up some asshole cops.{w} Not bad at all."
+    mct "Hot dog e vedere Debbie mettere in riga alcuni poliziotti stronzi.{w} Per niente male."
 
