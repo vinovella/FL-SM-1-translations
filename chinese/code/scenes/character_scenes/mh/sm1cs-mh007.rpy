@@ -1074,369 +1074,369 @@ translate chinese strings:
 translate chinese sm1cs_mh007_bf2c0adf:
 
     # mh "[mcname], I was wondering..."
-    mh "[mcname], I was wondering..."
+    mh "[mcname]，我在想..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:262
 translate chinese sm1cs_mh007_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "怎么了？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:263
 translate chinese sm1cs_mh007_030be35c:
 
     # mh "How would you feel if I...{w} had a turn, with you?"
-    mh "How would you feel if I...{w} had a turn, with you?"
+    mh "如果我...{w}轮到我来，和你，你会怎么想？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:264
 translate chinese sm1cs_mh007_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "你什么意思？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:266
 translate chinese sm1cs_mh007_d41060db:
 
     # mh "That I... kind of want to try fucking you. What do you think about that?"
-    mh "That I... kind of want to try fucking you. What do you think about that?"
+    mh "就是我...有点想试试干你。你觉得怎么样？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:274
 translate chinese sm1cs_mh007_c0d907b0:
 
     # mc "I don't think I'd like that, Lyssa, I'm sorry..."
-    mc "I don't think I'd like that, Lyssa, I'm sorry..."
+    mc "我不觉得我会喜欢那样，丽莎，对不起..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:275
 translate chinese sm1cs_mh007_58f014e2:
 
     # mh "It's okay, we still have some more fun to have anyway."
-    mh "It's okay, we still have some more fun to have anyway."
+    mh "没关系，反正我们还有其他乐子可以找。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:281
 translate chinese sm1cs_mh007_e0c7542b:
 
     # mc "Yeah, Lyssa, I'd be down to try it."
-    mc "Yeah, Lyssa, I'd be down to try it."
+    mc "好啊，丽莎，我愿意试试。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:282
 translate chinese sm1cs_mh007_954a6ab6:
 
     # mh "Really?"
-    mh "Really?"
+    mh "真的吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:283
 translate chinese sm1cs_mh007_a3caf5a7:
 
     # mc "Really, really!"
-    mc "Really, really!"
+    mc "真的，千真万确！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:285
 translate chinese sm1cs_mh007_1b966d50:
 
     # mc "Just promise to be gentle."
-    mc "Just promise to be gentle."
+    mc "只要答应我要温柔点。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:286
 translate chinese sm1cs_mh007_9f73cc01:
 
     # mh "Mmmmm, I promise, [mcname]."
-    mh "Mmmmm, I promise, [mcname]."
+    mh "嗯嗯嗯，我保证，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:288
 translate chinese sm1cs_mh007_44c6d442:
 
     # mh "I have been fantasizing about this..."
-    mh "I have been fantasizing about this..."
+    mh "我一直在幻想这个..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:289
 translate chinese sm1cs_mh007_24687b7d:
 
     # mc "Well, I'm happy to bring your dream to reality!"
-    mc "Well, I'm happy to bring your dream to reality!"
+    mc "好吧，我很乐意让你的梦想成真！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:291
 translate chinese sm1cs_mh007_1263b847:
 
     # mh "Are you ready?"
-    mh "Are you ready?"
+    mh "你准备好了吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:292
 translate chinese sm1cs_mh007_37c12963:
 
     # mc "Uh huh!"
-    mc "Uh huh!"
+    mc "嗯哼！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:294
 translate chinese sm1cs_mh007_5dfa7c5e:
 
     # mc "Oooo, ooooooooo!"
-    mc "Oooo, ooooooooo!"
+    mc "噢噢，噢噢噢噢噢！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:295
 translate chinese sm1cs_mh007_0f5e6726:
 
     # mh "You okay?"
-    mh "You okay?"
+    mh "你还好吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:296
 translate chinese sm1cs_mh007_c5327c66:
 
     # mc "Mmm-mmhmmmm! Just - getting used to the feeling."
-    mc "Mmm-mmhmmmm! Just - getting used to the feeling."
+    mc "嗯--嗯哼哼哼！只是--正在适应这种感觉。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:297
 translate chinese sm1cs_mh007_9bc304fb:
 
     # mh "I'm going to keep going, okay?"
-    mh "I'm going to keep going, okay?"
+    mh "我要继续了，好吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:298
 translate chinese sm1cs_mh007_ef71e91f:
 
     # mc "Mmmhmmm!"
-    mc "Mmmhmmm!"
+    mc "嗯嗯哼！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:300
 translate chinese sm1cs_mh007_de9dc30b:
 
     # mc "Ooooooooo!"
-    mc "Ooooooooo!"
+    mc "噢噢噢噢噢！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:301
 translate chinese sm1cs_mh007_ddd94792:
 
     # mh "Still okay?"
-    mh "Still okay?"
+    mh "还好吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:302
 translate chinese sm1cs_mh007_2ea6de0c:
 
     # mc "Y-yeah!"
-    mc "Y-yeah!"
+    mc "还--还好！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:303
 translate chinese sm1cs_mh007_6bd1c7a8:
 
     # mh "Just a little more..."
-    mh "Just a little more..."
+    mh "就再一点点..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:305
 translate chinese sm1cs_mh007_49ecd705:
 
     # mc "Nnnngggghhhh-!"
-    mc "Nnnngggghhhh-!"
+    mc "嗯嗯嗯嗯--！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:306
 translate chinese sm1cs_mh007_c7cf2826:
 
     # mh "[mcname]?"
-    mh "[mcname]?"
+    mh "[mcname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:307
 translate chinese sm1cs_mh007_368efa07:
 
     # mc "Mmmm, just - wow - this is a - new feeling!"
-    mc "Mmmm, just - wow - this is a - new feeling!"
+    mc "嗯，只是--哇--这种--感觉很新奇！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:308
 translate chinese sm1cs_mh007_a12e6db3:
 
     # mh "I'll give you a second to adjust."
-    mh "I'll give you a second to adjust."
+    mh "我给你一点时间适应。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:309
 translate chinese sm1cs_mh007_d2efecf2:
 
     # mc "Thank you..."
-    mc "Thank you..."
+    mc "谢谢..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:311
 translate chinese sm1cs_mh007_0896b69e:
 
     # mh "This feels amazing already, [mcname]."
-    mh "This feels amazing already, [mcname]."
+    mh "这感觉已经太棒了，[mcname]。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:312
 translate chinese sm1cs_mh007_f49fff8f_1:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "是吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:313
 translate chinese sm1cs_mh007_259ad6b6_1:
 
     # mh "Mmmhmmmm..."
-    mh "Mmmhmmmm..."
+    mh "嗯嗯哼..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:314
 translate chinese sm1cs_mh007_ec7fd73b:
 
     # mc "I think - ngggh - you can start thrusting if you want."
-    mc "I think - ngggh - you can start thrusting if you want."
+    mc "我觉得--嗯嗯--你可以开始动了，如果你想的话。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:315
 translate chinese sm1cs_mh007_84227619:
 
     # mh "Mmmmm, I'll go slow."
-    mh "Mmmmm, I'll go slow."
+    mh "嗯，我会慢慢来的。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:318
 translate chinese sm1cs_mh007_b7c684bc:
 
     # mc "Ohh - shit-"
-    mc "Ohh - shit-"
+    mc "哦--靠--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:319
 translate chinese sm1cs_mh007_29d2ae55:
 
     # mh "You okay, [mcname]?"
-    mh "You okay, [mcname]?"
+    mh "你还好吗，[mcname]？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:320
 translate chinese sm1cs_mh007_eb3a1d15:
 
     # mc "Mmmmmm - y-yep!"
-    mc "Mmmmmm - y-yep!"
+    mc "嗯嗯嗯--还--还好！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:322
 translate chinese sm1cs_mh007_d608c209:
 
     # mh "Ohhhh, [mcname]... Mmmmmmm..."
-    mh "Ohhhh, [mcname]... Mmmmmmm..."
+    mh "哦，[mcname]...嗯..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:323
 translate chinese sm1cs_mh007_085313a0:
 
     # mc "Oh shit, Lyssa - shiiiit-!"
-    mc "Oh shit, Lyssa - shiiiit-!"
+    mc "哦靠，丽莎--靠--！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:324
 translate chinese sm1cs_mh007_118586bd:
 
     # mh "Mmmmm?"
-    mh "Mmmmm?"
+    mh "嗯？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:326
 translate chinese sm1cs_mh007_73631d7d:
 
     # mc "This feels - ngggh-!"
-    mc "This feels - ngggh-!"
+    mc "这感觉--嗯--！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:327
 translate chinese sm1cs_mh007_fc477c8d:
 
     # mh "How does it feel?"
-    mh "How does it feel?"
+    mh "感觉怎么样？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:328
 translate chinese sm1cs_mh007_a1ba1026:
 
     # mc "It feels - mmmm- kind of, {i}really{/i}, good!"
-    mc "It feels - mmmm- kind of, {i}really{/i}, good!"
+    mc "感觉--嗯--有点，{i}真的{/i}很爽！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:329
 translate chinese sm1cs_mh007_3ce13710:
 
     # mh "Mmmmm, yes, yes it does!"
-    mh "Mmmmm, yes, yes it does!"
+    mh "嗯，是的，确实很爽！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:331
 translate chinese sm1cs_mh007_f56613ea:
 
     # mc "Oh, shit - it feels - mmm - nice having you inside me, Lyssa!"
-    mc "Oh, shit - it feels - mmm - nice having you inside me, Lyssa!"
+    mc "哦，靠--感觉--嗯--你在我体内的感觉真好，丽莎！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:332
 translate chinese sm1cs_mh007_4f24e9cd:
 
     # mh "And your ass is wonderful, [mcname]!"
-    mh "And your ass is wonderful, [mcname]!"
+    mh "你的屁股也很棒，[mcname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:333
 translate chinese sm1cs_mh007_6dcde6a9:
 
     # mh "It feels - mmmmm - soooooo gooooood!"
-    mh "It feels - mmmmm - soooooo gooooood!"
+    mh "感觉--嗯--太棒了！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:335
 translate chinese sm1cs_mh007_dbf69743:
 
     # mc "Nggggghhhh - Lyssa!"
-    mc "Nggggghhhh - Lyssa!"
+    mc "嗯嗯嗯--丽莎！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:336
 translate chinese sm1cs_mh007_6ce1258d:
 
     # mh "Oh, yes, [mcname]!"
-    mh "Oh, yes, [mcname]!"
+    mh "哦，是的，[mcname]！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:337
 translate chinese sm1cs_mh007_e8840ad8:
 
     # mc "Oooo, ooooo, mmmmmppphhh!"
-    mc "Oooo, ooooo, mmmmmppphhh!"
+    mc "噢噢，噢噢，嗯嗯嗯！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:339
 translate chinese sm1cs_mh007_ef890fd2:
 
     # mh "Oh shit - we definitely, mmmmm, need to do this more often!"
-    mh "Oh shit - we definitely, mmmmm, need to do this more often!"
+    mh "哦靠--我们绝对，嗯，需要更经常这样做！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:340
 translate chinese sm1cs_mh007_d02ad225:
 
     # mc "I - ngggghhh - agree!"
-    mc "I - ngggghhh - agree!"
+    mc "我--嗯嗯--同意！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:341
 translate chinese sm1cs_mh007_1d5fc5d6:
 
     # mh "Oh - mmmm, I feel myself getting close!"
-    mh "Oh - mmmm, I feel myself getting close!"
+    mh "哦--嗯，我感觉自己快到了！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:342
 translate chinese sm1cs_mh007_adaed853:
 
     # mc "Ngggghhhhh -"
-    mc "Ngggghhhhh -"
+    mc "嗯嗯嗯--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:343
 translate chinese sm1cs_mh007_632389c9:
 
     # mh "But I - mmmmmm - I need you inside me again."
-    mh "But I - mmmmmm - I need you inside me again."
+    mh "但是我--嗯--我需要你再次进入我体内。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:346
 translate chinese sm1cs_mh007_591a1ccb:
 
     # mh "I really, really need you inside me again."
-    mh "I really, really need you inside me again."
+    mh "我真的，真的需要你再次进入我体内。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:347
 translate chinese sm1cs_mh007_09f2de35:
 
     # mc "Is that so?"
-    mc "Is that so?"
+    mc "是吗？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:348
 translate chinese sm1cs_mh007_bf5d86f0:
 
     # mh "Mmmmhmmm."
-    mh "Mmmmhmmm."
+    mh "嗯嗯哼。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:349
 translate chinese sm1cs_mh007_b9a250b1:
 
     # mc "Well, I think I know just what we need to do..."
-    mc "Well, I think I know just what we need to do..."
+    mc "好吧，我想我知道我们该做什么了..."
 
 translate chinese strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:267
     old "I'd be up for that!"
-    new "I'd be up for that!"
+    new "我愿意试试！"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:267
     old "I don't think I would like that..."
-    new "I don't think I would like that..."
+    new "我不觉得我会喜欢那样..."
 
