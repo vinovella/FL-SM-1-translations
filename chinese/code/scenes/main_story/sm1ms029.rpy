@@ -1454,7 +1454,7 @@ translate chinese sm1ms029_talk_tl_mes_22142562:
 translate chinese sm1ms029_talk_tl_mes_7545b72e:
 
     # mct "I don't need to be ripped to shreds a second time..."
-    mct "I don't need to be ripped to shreds a second time..."
+    mct "我不需要被第二次撕成碎片..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:702
 translate chinese sm1ms029_talk_mes_ns_3dc038a1:
@@ -1484,7 +1484,7 @@ translate chinese sm1ms029_talk_mes_ns_bd55fdb3:
 translate chinese sm1ms029_talk_mes_ns_ee6bc3d3:
 
     # mc "You two seem to be getting along well!"
-    mc "You two seem to be getting along well!"
+    mc "你们俩看起来相处得很好！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:711
 translate chinese sm1ms029_talk_mes_ns_a072c855:
@@ -1502,7 +1502,7 @@ translate chinese sm1ms029_talk_mes_ns_05500ff6:
 translate chinese sm1ms029_talk_mes_ns_5bca477e:
 
     # ns "Oh, I'm sorry, [mcname]!"
-    ns "Oh, I'm sorry, [mcname]!"
+    ns "哦，对不起，[mcname]！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:716
 translate chinese sm1ms029_talk_mes_ns_056d0bd3:
