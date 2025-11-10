@@ -440,19 +440,19 @@ translate italian sm1cs_arj002_b5c4f5f1:
 translate italian sm1cs_arj002_00860a28:
 
     # arj "I was just having a little fun."
-    arj "I was just having a little fun."
+    arj "Stavo solo divertendomi un po'."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:246
 translate italian sm1cs_arj002_bf0d7923:
 
     # arj "Of course I will help you, [mcname]."
-    arj "Of course I will help you, [mcname]."
+    arj "Certo che ti aiuterò, [mcname]."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:247
 translate italian sm1cs_arj002_91a89973:
 
     # arj "I'm not turning you down, I just wanted to make you sweat a bit."
-    arj "I'm not turning you down, I just wanted to make you sweat a bit."
+    arj "Non ti sto rifiutando, volevo solo farti sudare un po'."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:251
 translate italian sm1cs_arj002_faa03e1a:
@@ -464,223 +464,223 @@ translate italian sm1cs_arj002_faa03e1a:
 translate italian sm1cs_arj002_a275aff1:
 
     # mc "Well, mission accomplished."
-    mc "Well, mission accomplished."
+    mc "Beh, missione compiuta."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:256
 translate italian sm1cs_arj002_3c536604:
 
     # sy "Wait, so you'll do the scene?"
-    sy "Wait, so you'll do the scene?"
+    sy "Aspetta, quindi farai la scena?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:261
 translate italian sm1cs_arj002_8c087a1b:
 
     # arj "Of course I will, Stacy."
-    arj "Of course I will, Stacy."
+    arj "Certo che lo farò, Stacy."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:265
 translate italian sm1cs_arj002_bd9a2c17:
 
     # sy "Yay."
-    sy "Yay."
+    sy "Evviva."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:269
 translate italian sm1cs_arj002_fb22aa1e:
 
     # sy "Let's get you both into wardrobe."
-    sy "Let's get you both into wardrobe."
+    sy "Mettiamovi entrambi nel guardaroba."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:273
 translate italian sm1cs_arj002_87e3cd19:
 
     # sy "You look amazing."
-    sy "You look amazing."
+    sy "Sei stupenda."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:274
 translate italian sm1cs_arj002_69be19ca:
 
     # arj "*sheepishly* Thanks."
-    arj "*sheepishly* Thanks."
+    arj "*timidamente* Grazie."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:278
 translate italian sm1cs_arj002_722ff19c:
 
     # mc "Okay, so for this scene, we need you to sit down and relax. Just be yourself."
-    mc "Okay, so for this scene, we need you to sit down and relax. Just be yourself."
+    mc "Ok, quindi per questa scena, devi sederti e rilassarti. Sii semplicemente te stessa."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:285
 translate italian sm1cs_arj002_4378575b:
 
     # arj "Alright... sounds easy enough."
-    arj "Alright... sounds easy enough."
+    arj "Va bene... sembra abbastanza facile."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:289
 translate italian sm1cs_arj002_0ca7ac86:
 
     # arj "And now what? I just realized I haven't seen a script."
-    arj "And now what? I just realized I haven't seen a script."
+    arj "E ora? Mi sono appena resa conto che non ho visto un copione."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:292
 translate italian sm1cs_arj002_9f7d2160:
 
     # sy "Oh, you don't need one. In this scene, you're just the sexy plaything."
-    sy "Oh, you don't need one. In this scene, you're just the sexy plaything."
+    sy "Oh, non ne hai bisogno. In questa scena, sei solo il giocattolo sexy."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:293
 translate italian sm1cs_arj002_4d5ca6fe:
 
     # sy "The arm-candy."
-    sy "The arm-candy."
+    sy "La bellezza da braccio."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:297
 translate italian sm1cs_arj002_13b3a6d2:
 
     # arj "Or perhaps the chair-candy."
-    arj "Or perhaps the chair-candy."
+    arj "O forse la bellezza da sedia."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:301
 translate italian sm1cs_arj002_438dd9b4:
 
     # sy "Exactly. That is your motivation."
-    sy "Exactly. That is your motivation."
+    sy "Esattamente. Questa è la tua motivazione."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:302
 translate italian sm1cs_arj002_8cf2e490:
 
     # sy "The Master is coming home to play with you. You've been a naughty girl."
-    sy "The Master is coming home to play with you. You've been a naughty girl."
+    sy "Il Padrone sta tornando a casa per giocare con te. Sei stata una ragazza cattiva."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:306
 translate italian sm1cs_arj002_33c28cad:
 
     # sy "You know that you have to be punished, and you're getting a little wet thinking about it."
-    sy "You know that you have to be punished, and you're getting a little wet thinking about it."
+    sy "Sai che devi essere punita, e ti stai bagnando un po' pensandoci."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:310
 translate italian sm1cs_arj002_53f13479:
 
     # arj "*breathing shallow*"
-    arj "*breathing shallow*"
+    arj "*respirazione poco profonda*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:311
 translate italian sm1cs_arj002_55d166ea:
 
     # arj "And what do I call, [mcname]?"
-    arj "And what do I call, [mcname]?"
+    arj "E come chiamo, [mcname]?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:315
 translate italian sm1cs_arj002_98856325:
 
     # sy "Very good question."
-    sy "Very good question."
+    sy "Ottima domanda."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:332
 translate italian sm1cs_arj002_661fa6a7:
 
     # mc "Call me, [arj_mcname!t]."
-    mc "Call me, [arj_mcname!t]."
+    mc "Chiamami, [arj_mcname!t]."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:336
 translate italian sm1cs_arj002_659e8ca0:
 
     # sy "*excited moaning*"
-    sy "*excited moaning*"
+    sy "*gemiti eccitati*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:340
 translate italian sm1cs_arj002_17d9d5a9:
 
     # arj "[arj_mcname!t]. Alright."
-    arj "[arj_mcname!t]. Alright."
+    arj "[arj_mcname!t]. Va bene."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:344
 translate italian sm1cs_arj002_18d43a51:
 
     # sy "We good, [mcname]?"
-    sy "We good, [mcname]?"
+    sy "Tutto apposto, [mcname]?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:346
 translate italian sm1cs_arj002_844f1ae5:
 
     # mc "We're good."
-    mc "We're good."
+    mc "Siamo a posto."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:350
 translate italian sm1cs_arj002_42356301:
 
     # sy "Okay, rolling... Action!"
-    sy "Okay, rolling... Action!"
+    sy "Ok, gira... Azione!"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:354
 translate italian sm1cs_arj002_aa12cbbb:
 
     # arj "Oh... I'm worried."
-    arj "Oh... I'm worried."
+    arj "Oh... Sono preoccupata."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:355
 translate italian sm1cs_arj002_47cd4384:
 
     # arj "Who knows what [arj_mcname!t] has planned for me."
-    arj "Who knows what [arj_mcname!t] has planned for me."
+    arj "Chissà cosa ha in mente [arj_mcname!t] per me."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:359
 translate italian sm1cs_arj002_cc4b90cd:
 
     # mc "Good start, AmRose."
-    mc "Good start, AmRose."
+    mc "Buon inizio, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:360
 translate italian sm1cs_arj002_2cfbbdf7:
 
     # mc "Maybe grind on the chair a bit, like a cat with a scratching post."
-    mc "Maybe grind on the chair a bit, like a cat with a scratching post."
+    mc "Magari strofinati un po' sulla sedia, come un gatto con un tiragraffi."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:367
 translate italian sm1cs_arj002_4ddf8b52:
 
     # arj "*shaky breath* Oh... I'm getting so worried."
-    arj "*shaky breath* Oh... I'm getting so worried."
+    arj "*respiro tremante* Oh... Sto diventando così preoccupata."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:370
 translate italian sm1cs_arj002_9599654d:
 
     # arj "What will [arj_mcname!t] do to me when he finds out I've been..."
-    arj "What will [arj_mcname!t] do to me when he finds out I've been..."
+    arj "Cosa mi farà [arj_mcname!t] quando scoprirà che sono stata..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:374
 translate italian sm1cs_arj002_29e95544:
 
     # arj "So bad..."
-    arj "So bad..."
+    arj "Così cattiva..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:378
 translate italian sm1cs_arj002_d6e5d1fd:
 
     # sy "*whispers* That's the good shit."
-    sy "*whispers* That's the good shit."
+    sy "*sussurra* Questa è roba buona."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:382
 translate italian sm1cs_arj002_bf38747f:
 
     # sy "You're up, slugger."
-    sy "You're up, slugger."
+    sy "Tocca a te, campione."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:385
 translate italian sm1cs_arj002_f5b748ae:
 
     # arj "[arj_mcname!t]. You're here."
-    arj "[arj_mcname!t]. You're here."
+    arj "[arj_mcname!t]. Sei qui."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:387
 translate italian sm1cs_arj002_71859113:
 
     # mc "Yes. Have you been a good girl?"
-    mc "Yes. Have you been a good girl?"
+    mc "Sì. Sei stata una brava ragazza?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:389
 translate italian sm1cs_arj002_a477ae37:
 
     # arj "I try, [arj_mcname!t]. But it's so hard to behave when you're not around."
-    arj "I try, [arj_mcname!t]. But it's so hard to behave when you're not around."
+    arj "Ci provo, [arj_mcname!t]. Ma è così difficile comportarsi bene quando non ci sei."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:392
 translate italian sm1cs_arj002_254336d8_1:
@@ -692,109 +692,109 @@ translate italian sm1cs_arj002_254336d8_1:
 translate italian sm1cs_arj002_5db77737:
 
     # mc "*grunts*"
-    mc "*grunts*"
+    mc "*grugnisce*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:401
 translate italian sm1cs_arj002_95547680:
 
     # arj "Ooouha... You know I love it when you tie me up."
-    arj "Ooouha... You know I love it when you tie me up."
+    arj "Ooouha... Sai che adoro quando mi leghi."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:405
 translate italian sm1cs_arj002_5bc6de89:
 
     # mc "Is that why you keep causing me trouble."
-    mc "Is that why you keep causing me trouble."
+    mc "È per questo che continui a crearmi problemi."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:408
 translate italian sm1cs_arj002_a5469a53:
 
     # arj "I don't mean to."
-    arj "I don't mean to."
+    arj "Non è mia intenzione."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:409
 translate italian sm1cs_arj002_2138e6c6:
 
     # mc "I'm not so sure."
-    mc "I'm not so sure."
+    mc "Non ne sono così sicuro."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:413
 translate italian sm1cs_arj002_be9e149f:
 
     # arj "Well... you know what I like. And you know I'm your perfect toy."
-    arj "Well... you know what I like. And you know I'm your perfect toy."
+    arj "Beh... sai cosa mi piace. E sai che sono il tuo giocattolo perfetto."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:414
 translate italian sm1cs_arj002_3b384013:
 
     # arj "Whatever punishment you think I deserve..."
-    arj "Whatever punishment you think I deserve..."
+    arj "Qualsiasi punizione tu pensi che io meriti..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:415
 translate italian sm1cs_arj002_9c722286:
 
     # arj "I'm ready for it."
-    arj "I'm ready for it."
+    arj "Sono pronta."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:418
 translate italian sm1cs_arj002_c6c150bf:
 
     # mc "Eager aren't we?"
-    mc "Eager aren't we?"
+    mc "Siamo desiderosi, vero?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:423
 translate italian sm1cs_arj002_808e04ea:
 
     # arj "For you? Always..."
-    arj "For you? Always..."
+    arj "Per te? Sempre..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:427
 translate italian sm1cs_arj002_11e48912:
 
     # sy "Okay..."
-    sy "Okay..."
+    sy "Ok..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:431
 translate italian sm1cs_arj002_1258ced8:
 
     # sy "And now we get to do some watersports with you, AmRose."
-    sy "And now we get to do some watersports with you, AmRose."
+    sy "E ora facciamo un po' di giochi d'acqua con te, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:435
 translate italian sm1cs_arj002_19b68b40:
 
     # arj "Watersports... Really?"
-    arj "Watersports... Really?"
+    arj "Giochi d'acqua... Davvero?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:439
 translate italian sm1cs_arj002_b7270c39:
 
     # sy "Yes. It was one of the main requests for the client."
-    sy "Yes. It was one of the main requests for the client."
+    sy "Sì. Era una delle richieste principali del cliente."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:440
 translate italian sm1cs_arj002_f6ea1cc6:
 
     # sy "So we got to make sure that we tick off that box."
-    sy "So we got to make sure that we tick off that box."
+    sy "Quindi dobbiamo assicurarci di spuntare quella casella."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:444
 translate italian sm1cs_arj002_e6f0cf3e:
 
     # arj "I don't remember putting watersports on the request."
-    arj "I don't remember putting watersports on the request."
+    arj "Non ricordo di aver messo i giochi d'acqua nella richiesta."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:448
 translate italian sm1cs_arj002_0a98cc6e:
 
     # mc "Oh, that's right. You wanted boofing."
-    mc "Oh, that's right. You wanted boofing."
+    mc "Oh, giusto. Volevi boofing."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:449
 translate italian sm1cs_arj002_5d86d391:
 
     # mc "{b}You{/b} asked for any boofing videos we had made'"
-    mc "{b}You{/b} asked for any boofing videos we had made'"
+    mc "{b}TU{/b} hai chiesto qualsiasi video di boofing che avevamo fatto'"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:452
 translate italian sm1cs_arj002_e079d727:
@@ -806,85 +806,85 @@ translate italian sm1cs_arj002_e079d727:
 translate italian sm1cs_arj002_6b011f89:
 
     # mct "Haha. Now it's her turn to sweat."
-    mct "Haha. Now it's her turn to sweat."
+    mct "Haha. Ora tocca a lei sudare."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:457
 translate italian sm1cs_arj002_86cae83f:
 
     # arj "Oh! You're confusing me. I'm not the client. I didn't ask for anything."
-    arj "Oh! You're confusing me. I'm not the client. I didn't ask for anything."
+    arj "Oh! Mi stai confondendo. Non sono la cliente. Non ho chiesto niente."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:458
 translate italian sm1cs_arj002_3c254887:
 
     # arj "But if the client asked for watersports, we can try that."
-    arj "But if the client asked for watersports, we can try that."
+    arj "Ma se il cliente ha chiesto giochi d'acqua, possiamo provare."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:464
 translate italian sm1cs_arj002_2d22fcbf:
 
     # mc "Come on, AmRose."
-    mc "Come on, AmRose."
+    mc "Dai, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:465
 translate italian sm1cs_arj002_732d28b5:
 
     # mc "You can do better than that."
-    mc "You can do better than that."
+    mc "Puoi fare di meglio."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:469
 translate italian sm1cs_arj002_8245c517:
 
     # arj "I... How... I mean... I don't know what the client wanted."
-    arj "I... How... I mean... I don't know what the client wanted."
+    arj "Io... Come... Voglio dire... Non so cosa voleva il cliente."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:473
 translate italian sm1cs_arj002_2824d4aa:
 
     # mc "Oh I think you do."
-    mc "Oh I think you do."
+    mc "Oh penso che tu lo sappia."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:474
 translate italian sm1cs_arj002_94ab3d91:
 
     # arj "*nervous breathing*"
-    arj "*nervous breathing*"
+    arj "*respiro nervoso*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:481
 translate italian sm1cs_arj002_fa263c27:
 
     # mc "I'm afraid the jig is up, my sweet red flower."
-    mc "I'm afraid the jig is up, my sweet red flower."
+    mc "Temo che il gioco sia finito, mio dolce fiore rosso."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:486
 translate italian sm1cs_arj002_5d524cf8:
 
     # arj "I don't know what you're talking about."
-    arj "I don't know what you're talking about."
+    arj "Non so di cosa stai parlando."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:489
 translate italian sm1cs_arj002_d72f9048:
 
     # sy "Then how did you know watersports wasn't in the order?"
-    sy "Then how did you know watersports wasn't in the order?"
+    sy "Allora come sapevi che i giochi d'acqua non erano nell'ordine?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:491
 translate italian sm1cs_arj002_e3fe777e:
 
     # sy "Unless you wrote it."
-    sy "Unless you wrote it."
+    sy "A meno che non l'hai scritto tu."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:495
 translate italian sm1cs_arj002_61d40c2c:
 
     # arj "I think...{w} [mcname] must have talked about it earlier."
-    arj "I think...{w} [mcname] must have talked about it earlier."
+    arj "Penso...{w} [mcname] deve averne parlato prima."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:498
 translate italian sm1cs_arj002_43762316:
 
     # mc "I did no such thing."
-    mc "I did no such thing."
+    mc "Non ho fatto niente del genere."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:503
 translate italian sm1cs_arj002_d2d1553c:
@@ -896,151 +896,151 @@ translate italian sm1cs_arj002_d2d1553c:
 translate italian sm1cs_arj002_2d2ec360:
 
     # arj "Ah... the ropes."
-    arj "Ah... the ropes."
+    arj "Ah... le corde."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:508
 translate italian sm1cs_arj002_ec5b3e88:
 
     # arj "Clever girl..."
-    arj "Clever girl..."
+    arj "Ragazza furba..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:510
 translate italian sm1cs_arj002_378bcd4e:
 
     # arj "And boy."
-    arj "And boy."
+    arj "E ragazzo."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:515
 translate italian sm1cs_arj002_278b258f:
 
     # "Stacy and [mcname]" "*laughing*"
-    "Stacy and [mcname]" "*laughing*"
+    "Stacy e [mcname]" "*risate*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:519
 translate italian sm1cs_arj002_7d6379a5:
 
     # arj "So... What's the accusation exactly?"
-    arj "So... What's the accusation exactly?"
+    arj "Allora... Qual è esattamente l'accusa?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:521
 translate italian sm1cs_arj002_185eea27:
 
     # sy "Accusation?"
-    sy "Accusation?"
+    sy "Accusa?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:525
 translate italian sm1cs_arj002_4f9e4dcc:
 
     # mc "AmRose, stop playing dumb. We know what's going on here."
-    mc "AmRose, stop playing dumb. We know what's going on here."
+    mc "AmRose, smettila di fare la finta tonta. Sappiamo cosa sta succedendo qui."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:526
 translate italian sm1cs_arj002_956ef124:
 
     # mc "You've been pretending to be our client so you could figure out if we had your data from Fetish Locator."
-    mc "You've been pretending to be our client so you could figure out if we had your data from Fetish Locator."
+    mc "Hai finto di essere la nostra cliente così potevi capire se avevamo i tuoi dati da Fetish Locator."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:530
 translate italian sm1cs_arj002_e4d9ea2c:
 
     # arj "Hmmph. Even if I admitted to that, and I don't. You have no proof."
-    arj "Hmmph. Even if I admitted to that, and I don't. You have no proof."
+    arj "Hmmph. Anche se lo ammettessi, e non lo faccio. Non hai prove."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:533
 translate italian sm1cs_arj002_93e12529:
 
     # sy "Girl please. It got a little obvious at the end."
-    sy "Girl please. It got a little obvious at the end."
+    sy "Per favore. È diventato un po' ovvio alla fine."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:536
 translate italian sm1cs_arj002_12f2e5e4:
 
     # arj "Mmm. Maybe I slipped up. But I stand by what I did."
-    arj "Mmm. Maybe I slipped up. But I stand by what I did."
+    arj "Mmm. Forse ho commesso un errore. Ma difendo ciò che ho fatto."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:540
 translate italian sm1cs_arj002_8ae5e39c:
 
     # arj "Or I would if not for the rope."
-    arj "Or I would if not for the rope."
+    arj "O lo farei se non fosse per la corda."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:543
 translate italian sm1cs_arj002_8f353fb8:
 
     # sy "You were trying to see if we still had your sensitive data from the Fetish Locator App."
-    sy "You were trying to see if we still had your sensitive data from the Fetish Locator App."
+    sy "Stavi cercando di vedere se avevamo ancora i tuoi dati sensibili dall'app Fetish Locator."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:544
 translate italian sm1cs_arj002_1fdf6c3a:
 
     # sy "Weren't you?"
-    sy "Weren't you?"
+    sy "Vero?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:549
 translate italian sm1cs_arj002_5518d3b8:
 
     # arj "*sniffs*"
-    arj "*sniffs*"
+    arj "*annusa*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:551
 translate italian sm1cs_arj002_68e6e4c7:
 
     # arj "I... I'm sorry.{w} I'm so sorry, [mcname]."
-    arj "I... I'm sorry.{w} I'm so sorry, [mcname]."
+    arj "Io... Mi dispiace.{w} Mi dispiace tanto, [mcname]."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:552
 translate italian sm1cs_arj002_fd13194a:
 
     # arj "I was just so worried and angry."
-    arj "I was just so worried and angry."
+    arj "Ero solo così preoccupata e arrabbiata."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:557
 translate italian sm1cs_arj002_25da4cd3:
 
     # arj "When you chose not to delete the data, all I could think of was my secret getting leaked."
-    arj "When you chose not to delete the data, all I could think of was my secret getting leaked."
+    arj "Quando hai scelto di non eliminare i dati, tutto ciò a cui potevo pensare era che il mio segreto venisse divulgato."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:559
 translate italian sm1cs_arj002_83295ea0:
 
     # mc "I know, AmRose."
-    mc "I know, AmRose."
+    mc "Lo so, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:561
 translate italian sm1cs_arj002_70a9ce1a:
 
     # mc "But come on."
-    mc "But come on."
+    mc "Ma dai."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:563
 translate italian sm1cs_arj002_66944b55:
 
     # mc "You {i}know{/i} me..."
-    mc "You {i}know{/i} me..."
+    mc "Tu mi {i}conosci{/i}..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:564
 translate italian sm1cs_arj002_4cdf20f6:
 
     # mc "I would never hurt you. Your secret has been safe with me since I learned it."
-    mc "I would never hurt you. Your secret has been safe with me since I learned it."
+    mc "Non ti farei mai del male. Il tuo segreto è stato al sicuro con me da quando l'ho saputo."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:568
 translate italian sm1cs_arj002_7f3b697c:
 
     # arj "*sniffing* [mcname]."
-    arj "*sniffing* [mcname]."
+    arj "*singhiozzando* [mcname]."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:572
 translate italian sm1cs_arj002_1210c546:
 
     # mc "And to get into specifics, Stacy deleted the stuff with you on it."
-    mc "And to get into specifics, Stacy deleted the stuff with you on it."
+    mc "E per essere specifici, Stacy ha cancellato la roba con te."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:576
 translate italian sm1cs_arj002_3c48954e:
 
     # mc "And I've looked through it myself to make sure it's gone for good."
-    mc "And I've looked through it myself to make sure it's gone for good."
+    mc "E l'ho controllato io stesso per assicurarmi che fosse sparito per sempre."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:580
 translate italian sm1cs_arj002_86f77a53:
@@ -1052,55 +1052,55 @@ translate italian sm1cs_arj002_86f77a53:
 translate italian sm1cs_arj002_50d8c7e2:
 
     # arj "*sniff* This has just been an awful mistake. I thought about the plan late one night."
-    arj "*sniff* This has just been an awful mistake. I thought about the plan late one night."
+    arj "*singhiozzo* Questo è stato solo un terribile errore. Ho pensato al piano una sera tardi."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:590
 translate italian sm1cs_arj002_1da5ad45:
 
     # arj "I think... it was after seeing your place the first time."
-    arj "I think... it was after seeing your place the first time."
+    arj "Penso... fosse dopo aver visto il tuo posto la prima volta."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:594
 translate italian sm1cs_arj002_ccac7ee1:
 
     # mc "You mean before the remodel? It really was shitty, haha."
-    mc "You mean before the remodel? It really was shitty, haha."
+    mc "Intendi prima della ristrutturazione? Era davvero una merda, haha."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:597
 translate italian sm1cs_arj002_a3f027dd:
 
     # arj "It was, but it had potential."
-    arj "It was, but it had potential."
+    arj "Lo era, ma aveva potenziale."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:599
 translate italian sm1cs_arj002_c1a091d9:
 
     # arj "But just look at it now. I was stubborn, and I thought, well, I'll use the studio to get at Stacy from another angle."
-    arj "But just look at it now. I was stubborn, and I thought, well, I'll use the studio to get at Stacy from another angle."
+    arj "Ma guardalo ora. Ero testarda, e ho pensato, beh, userò lo studio per arrivare a Stacy da un'altra angolazione."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:600
 translate italian sm1cs_arj002_7bf00d09:
 
     # arj "I let my fear make decisions. And I started thinking..."
-    arj "I let my fear make decisions. And I started thinking..."
+    arj "Ho lasciato che la mia paura prendesse decisioni. E ho iniziato a pensare..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:603
 translate italian sm1cs_arj002_5131453e:
 
     # arj "You didn't want me anymore..."
-    arj "You didn't want me anymore..."
+    arj "Non mi volevi più..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:605
 translate italian sm1cs_arj002_ae7de870:
 
     # mc "That's not true."
-    mc "That's not true."
+    mc "Non è vero."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:607
 translate italian sm1cs_arj002_54ae59f8:
 
     # arj "*relieved sigh*"
-    arj "*relieved sigh*"
+    arj "*sospiro di sollievo*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:608
 translate italian sm1cs_arj002_f12f1fcb:
