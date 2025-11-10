@@ -15,8 +15,8 @@
 translate italian strings:
 
     # game/code/renpy/screens/renovation.rpy:8
-    old "RENOVATION PROGRESS-[renovation_progress:.1f]%"
-    new "RENOVATION PROGRESS-[renovation_progress:.1f]%"
+    old "RENOVATION PROGRESS-[progress:.1f]%"
+    new "RENOVATION PROGRESS-[progress:.1f]%"
 
     # game/code/renpy/screens/renovation.rpy:52
     old "[mc_work_percent]%\nper energy"

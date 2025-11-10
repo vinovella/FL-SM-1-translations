@@ -13,8 +13,8 @@
     new "完成"
 
     # game/code/renpy/screens/renovation.rpy:8
-    old "RENOVATION PROGRESS-[renovation_progress:.1f]%"
-    new "装修进度-[renovation_progress:.1f]%"
+    old "RENOVATION PROGRESS-[progress:.1f]%"
+    new "装修进度-[progress:.1f]%"
 
     # game/code/renpy/screens/renovation.rpy:52
     old "[mc_work_percent]%\nper energy"
