@@ -8,7 +8,7 @@ translate italian sm1cs_dc010_d135624f:
 translate italian sm1cs_dc010_53111809:
 
     # sy "Okay!"
-    sy "Okay!"
+    sy "Va bene!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:12
 translate italian sm1cs_dc010_693804d0:
@@ -242,7 +242,7 @@ translate italian sm1cs_dc010_later_9b5986fd:
 translate italian sm1cs_dc010_later_9ddc1c0b:
 
     # mc "It was!"
-    mc "It was!"
+    mc "Lo è stato!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:110
 translate italian sm1cs_dc010_later_93077c47:
@@ -290,7 +290,7 @@ translate italian sm1cs_dc010_later_e2911744:
 translate italian sm1cs_dc010_later_9ddc1c0b_1:
 
     # mc "It was!"
-    mc "It was!"
+    mc "Lo è stato!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:129
 translate italian sm1cs_dc010_later_e092a1e5:
@@ -506,7 +506,7 @@ translate italian sm1cs_dc010_later_c5b09bec:
 translate italian sm1cs_dc010_later_8a6e6e14:
 
     # "Douche Cop" "Hahahahaha!"
-    "Douche Cop" "Hahahahaha!"
+    "Poliziotto Idiota" "Hahahahaha!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:212
 translate italian sm1cs_dc010_later_1987dde6:
@@ -590,7 +590,7 @@ translate italian sm1cs_dc010_later_531d8025:
 translate italian sm1cs_dc010_later_8a6e6e14_1:
 
     # "Douche Cop" "Hahahahaha!"
-    "Douche Cop" "Hahahahaha!"
+    "Poliziotto Idiota" "Hahahahaha!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:240
 translate italian sm1cs_dc010_later_ac0a60ad:
@@ -914,43 +914,43 @@ translate italian sm1cs_dc010_later_4cfcf8f1:
 translate italian sm1cs_dc010_later_7e6e76ce:
 
     # mc "I'm okay!"
-    mc "I'm okay!"
+    mc "Sto bene!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:352
 translate italian sm1cs_dc010_later_02c9e81b:
 
     # dc "No, no you are not."
-    dc "No, no you are not."
+    dc "No, no non stai bene."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:355
 translate italian sm1cs_dc010_later_68814e47:
 
     # dc "Come on, I need to see how bad it is!"
-    dc "Come on, I need to see how bad it is!"
+    dc "Dai, devo vedere quanto è grave!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:356
 translate italian sm1cs_dc010_later_e4d1305e:
 
     # mc "It's seriously not that - owwww!"
-    mc "It's seriously not that - owwww!"
+    mc "Seriamente non è così - owwww!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:357
 translate italian sm1cs_dc010_later_9e185900:
 
     # dc "Yeah, yeah. Come on."
-    dc "Yeah, yeah. Come on."
+    dc "Sì, sì. Dai."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:361
 translate italian sm1cs_dc010_later_ba9bb4b1:
 
     # dc "All right, tough guy. Shirt off, come on."
-    dc "All right, tough guy. Shirt off, come on."
+    dc "Va bene, tipo tosto. Togliti la camicia, dai."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:363
 translate italian sm1cs_dc010_later_cfc694d4:
 
     # mc "Fine, fine."
-    mc "Fine, fine."
+    mc "Va bene, va bene."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:369
 translate italian sm1cs_dc010_later_6b84ca68:
@@ -962,7 +962,7 @@ translate italian sm1cs_dc010_later_6b84ca68:
 translate italian sm1cs_dc010_later_73a321bd:
 
     # mc "All right, I'm ready for my inspection, Doctor Debbie."
-    mc "All right, I'm ready for my inspection, Doctor Debbie."
+    mc "Va bene, sono pronto per l'ispezione, Dottoressa Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:375
 translate italian sm1cs_dc010_later_6e32e8ee:
@@ -974,37 +974,37 @@ translate italian sm1cs_dc010_later_6e32e8ee:
 translate italian sm1cs_dc010_later_a715b379:
 
     # dc "How's, uhm, how's that feel? Does it hurt?"
-    dc "How's, uhm, how's that feel? Does it hurt?"
+    dc "Come, uhm, come ti senti? Fa male?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:380
 translate italian sm1cs_dc010_later_7a7fce80:
 
     # mc "Just a little, nothing serious."
-    mc "Just a little, nothing serious."
+    mc "Solo un po', niente di serio."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:382
 translate italian sm1cs_dc010_later_a579d56c:
 
     # dc "Good... good..."
-    dc "Good... good..."
+    dc "Bene... bene..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:385
 translate italian sm1cs_dc010_later_89f60bd0:
 
     # mc "Are you good, Debbie?"
-    mc "Are you good, Debbie?"
+    mc "Stai bene, Debbie?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:386
 translate italian sm1cs_dc010_later_652b9951:
 
     # dc "Uhm... what?"
-    dc "Uhm... what?"
+    dc "Uhm... cosa?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:388
 translate italian sm1cs_dc010_later_95c7633a:
 
     # mc "Are you okay?"
-    mc "Are you okay?"
+    mc "Stai bene?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:389
 translate italian sm1cs_dc010_later_6122a4b5:
@@ -1034,19 +1034,19 @@ translate italian sm1cs_dc010_later_4c590f8e:
 translate italian sm1cs_dc010_later_01b44a98:
 
     # dc "I think..."
-    dc "I think..."
+    dc "Penso..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:397
 translate italian sm1cs_dc010_later_7d0603d3:
 
     # dc "I want to do more than touch."
-    dc "I want to do more than touch."
+    dc "Voglio fare più che toccare."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:398
 translate italian sm1cs_dc010_later_2e403621:
 
     # mct "Oh damn."
-    mct "Oh damn."
+    mct "Oh cavolo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:401
 translate italian sm1cs_dc010_later_273fa2d0:
@@ -1082,7 +1082,7 @@ translate italian sm1cs_dc010_later_de7f9e6c:
 translate italian sm1cs_dc010_later_3dc1e7f6:
 
     # mc "What is it, Debbie?"
-    mc "What is it, Debbie?"
+    mc "Cos'è, Debbie?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:424
 translate italian sm1cs_dc010_later_b28e8ae2:
@@ -1094,25 +1094,25 @@ translate italian sm1cs_dc010_later_b28e8ae2:
 translate italian sm1cs_dc010_later_dd76c387:
 
     # mc "You can tell me anything."
-    mc "You can tell me anything."
+    mc "Puoi dirmi qualsiasi cosa."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:429
 translate italian sm1cs_dc010_later_bde8e4a1:
 
     # dc "I want to suck your cock, [mcname]."
-    dc "I want to suck your cock, [mcname]."
+    dc "Voglio succhiare il tuo c**zo, [mcname]."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:431
 translate italian sm1cs_dc010_later_8e579f9f:
 
     # mct "Not what I expected."
-    mct "Not what I expected."
+    mct "Non era quello che mi aspettavo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:433
 translate italian sm1cs_dc010_later_6ac7f4b9:
 
     # mc "Well, you won't see me resisting , Officer."
-    mc "Well, you won't see me resisting , Officer."
+    mc "Beh, non mi vedrai opporre resistenza, Agente."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:437
 translate italian sm1cs_dc010_later_afe087ac:
@@ -1130,25 +1130,25 @@ translate italian sm1cs_dc010_later_dfa59203:
 translate italian sm1cs_dc010_later_e867c4b1:
 
     # mc "What? Is something wrong down there?"
-    mc "What? Is something wrong down there?"
+    mc "Cosa? C'è qualcosa che non va laggiù?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:447
 translate italian sm1cs_dc010_later_ecfacd53:
 
     # dc "No... I just..."
-    dc "No... I just..."
+    dc "No... è solo che..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
 translate italian sm1cs_dc010_later_8a1da730:
 
     # dc "I have been looking forward to this for awhile.{w} I'm very excited."
-    dc "I have been looking forward to this for awhile.{w} I'm very excited."
+    dc "Non vedevo l'ora di farlo da un po'.{w} Sono molto eccitata."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:451
 translate italian sm1cs_dc010_later_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "Anch'io."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:456
 translate italian sm1cs_dc010_later_1e2e10d7:
@@ -1292,7 +1292,7 @@ translate italian sm1cs_dc010_later_349cb0f7:
 translate italian sm1cs_dc010_later_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:497
 translate italian sm1cs_dc010_later_2441b466:
@@ -2288,7 +2288,7 @@ translate italian sm1cs_dc010_end_c47972b6:
 translate italian sm1cs_dc010_end_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "Eh?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:858
 translate italian sm1cs_dc010_end_479a13ce:
@@ -2444,15 +2444,15 @@ translate italian strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:96
     old "2 Hours and 37 Minutes later"
-    new "2 Hours and 37 Minutes later"
+    new "2 ore e 37 minuti dopo"
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:586
     old "Yes, give Debbie a handjob"
-    new "Yes, give Debbie a handjob"
+    new "Sì, fai una sega a Debbie"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:708
 translate italian sm1cs_dc010_dc_hj_10a9c12a:
 
     # dc "I think of you cumming all over me as I stroke myself, and I- I-"
-    dc "I think of you cumming all over me as I stroke myself, and I- I-"
+    dc "Penso a te che vieni su di me mentre mi tocco, e io- io-"
 
