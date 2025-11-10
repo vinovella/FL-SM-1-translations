@@ -302,61 +302,61 @@ translate chinese sm1ms029_c702783c:
 translate chinese sm1ms029_7384a30f:
 
     # sy "Oh yes, yes it is."
-    sy "Oh yes, yes it is."
+    sy "哦是的，是的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:148
 translate chinese sm1ms029_f534bcfe:
 
     # mc "Mmmm, tonight is definitely going to be a lot of fun."
-    mc "Mmmm, tonight is definitely going to be a lot of fun."
+    mc "嗯嗯嗯，今晚肯定会很有趣。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:149
 translate chinese sm1ms029_3932d33f:
 
     # kv "Yes, yes it is."
-    kv "Yes, yes it is."
+    kv "是的，是的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:155
 translate chinese sm1ms029_7e2b18cf:
 
     # sy "See? Told ya'!"
-    sy "See? Told ya'!"
+    sy "看到了吗？告诉过你！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:156
 translate chinese sm1ms029_753fa76c:
 
     # mc "Yes, yes."
-    mc "Yes, yes."
+    mc "是的，是的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:160
 translate chinese sm1ms029_8c49b2a0:
 
     # sy "When are you going to learn to listen to your sister? Hmmm?"
-    sy "When are you going to learn to listen to your sister? Hmmm?"
+    sy "你什么时候才能学会听你妹妹的话？嗯？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:162
 translate chinese sm1ms029_885dfeda:
 
     # sy "When are you going to learn to listen to me? Hmmm?"
-    sy "When are you going to learn to listen to me? Hmmm?"
+    sy "你什么时候才能学会听我的话？嗯？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:165
 translate chinese sm1ms029_6f1767e0:
 
     # mc "I know, I know."
-    mc "I know, I know."
+    mc "我知道，我知道。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:166
 translate chinese sm1ms029_dd24d6c9:
 
     # mc "I will eventually learn my lesson."
-    mc "I will eventually learn my lesson."
+    mc "我最终会吸取教训的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:170
 translate chinese sm1ms029_fe9b231f:
 
     # arj "Surprise, surprise, Stacy and [mcname] bickering."
-    arj "Surprise, surprise, Stacy and [mcname] bickering."
+    arj "惊喜，惊喜，史黛西和[mcname]在斗嘴。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:173
 translate chinese sm1ms029_cc6ec84c:
