@@ -1730,37 +1730,37 @@ translate chinese sm1ms029_talk_tl_ns_2787bc59:
 translate chinese sm1ms029_talk_tl_ns_02e746d0:
 
     # ns "Yeah! We don't really get a chance to talk very often!"
-    ns "Yeah! We don't really get a chance to talk very often!"
+    ns "是的！我们真的没有机会经常交谈！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:799
 translate chinese sm1ms029_talk_tl_ns_bfc3414f:
 
     # tl "Ships passing in the night, usually."
-    tl "Ships passing in the night, usually."
+    tl "通常就像夜里擦肩而过的船。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:801
 translate chinese sm1ms029_talk_tl_ns_31bb92ce:
 
     # mc "Yeah, I guess I've never really thought about it."
-    mc "Yeah, I guess I've never really thought about it."
+    mc "是的，我想我从来没有真正想过这个问题。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:804
 translate chinese sm1ms029_talk_tl_ns_54dfdf04:
 
     # tl "Yeah, offset schedules and all that."
-    tl "Yeah, offset schedules and all that."
+    tl "是的，错开的时间表之类的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:805
 translate chinese sm1ms029_talk_tl_ns_ec9b8664:
 
     # ns "And I can't imagine sleeping in as late as Taisia does!"
-    ns "And I can't imagine sleeping in as late as Taisia does!"
+    ns "而且我无法想象像泰西娅那样睡那么晚！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:808
 translate chinese sm1ms029_talk_tl_ns_3b6bba2c:
 
     # tl "Says the woman who gets up at 5am!"
-    tl "Says the woman who gets up at 5am!"
+    tl "这是从早上5点起床的女人说的话！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:809
 translate chinese sm1ms029_talk_tl_ns_4f14dcb3:
@@ -1772,19 +1772,19 @@ translate chinese sm1ms029_talk_tl_ns_4f14dcb3:
 translate chinese sm1ms029_talk_tl_ns_b25dd6d6:
 
     # mc "Yeah, that is a little bit crazy, Nari."
-    mc "Yeah, that is a little bit crazy, Nari."
+    mc "是的，那确实有点疯狂，娜丽。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:813
 translate chinese sm1ms029_talk_tl_ns_b4da4a73:
 
     # ns "I'm not crazy!"
-    ns "I'm not crazy!"
+    ns "我不疯狂！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:815
 translate chinese sm1ms029_talk_tl_ns_7e1f46f1:
 
     # tl "Are you sure?"
-    tl "Are you sure?"
+    tl "你确定吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:816
 translate chinese sm1ms029_talk_tl_ns_585c4216:
@@ -1796,7 +1796,7 @@ translate chinese sm1ms029_talk_tl_ns_585c4216:
 translate chinese sm1ms029_talk_tl_ns_cac234da:
 
     # ns "Wait..."
-    ns "Wait..."
+    ns "等等..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:822
 translate chinese sm1ms029_talk_tl_ns_4d6f12a5:
@@ -1814,43 +1814,43 @@ translate chinese sm1ms029_talk_tl_ns_254a8c2a:
 translate chinese sm1ms029_talk_tl_ns_ceacdba3:
 
     # mc "Taisia, don't pick on Nari."
-    mc "Taisia, don't pick on Nari."
+    mc "泰西娅，别取笑娜丽。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:827
 translate chinese sm1ms029_talk_tl_ns_4d5f2f97:
 
     # tl "I'm sorry."
-    tl "I'm sorry."
+    tl "对不起。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:830
 translate chinese sm1ms029_talk_tl_ns_0f818704:
 
     # tl "But she's just so adorable!"
-    tl "But she's just so adorable!"
+    tl "但她真的太可爱了！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:831
 translate chinese sm1ms029_talk_tl_ns_545fbf54:
 
     # ns "I am adorable!"
-    ns "I am adorable!"
+    ns "我是很可爱！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:834
 translate chinese sm1ms029_talk_tl_ns_d3f2e6f0:
 
     # ns "Which is why you shouldn't be picking on me!"
-    ns "Which is why you shouldn't be picking on me!"
+    ns "所以你不应该取笑我！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:835
 translate chinese sm1ms029_talk_tl_ns_2686ff52:
 
     # tl "But how else am I going to see your cute pouty face, Nari?"
-    tl "But how else am I going to see your cute pouty face, Nari?"
+    tl "但我怎么才能看到你可爱的噘嘴脸，娜丽？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:838
 translate chinese sm1ms029_talk_tl_ns_4ec81c19:
 
     # ns "Hmph!"
-    ns "Hmph!"
+    ns "哼！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:839
 translate chinese sm1ms029_talk_tl_ns_6b2824e5:
@@ -1862,7 +1862,7 @@ translate chinese sm1ms029_talk_tl_ns_6b2824e5:
 translate chinese sm1ms029_talk_tl_ns_5cb50917:
 
     # ns "Hmmmmph!!"
-    ns "Hmmmmph!!"
+    ns "哼哼哼！！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:842
 translate chinese sm1ms029_talk_tl_ns_0c3105c2:
@@ -1880,19 +1880,19 @@ translate chinese sm1ms029_talk_tl_ns_d9b4a27e:
 translate chinese sm1ms029_talk_tl_ns_87a2ea18:
 
     # tl "How are you just so cute?"
-    tl "How are you just so cute?"
+    tl "你怎么能这么可爱？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:850
 translate chinese sm1ms029_talk_tl_ns_52db67e4:
 
     # ns "I don't know!"
-    ns "I don't know!"
+    ns "我不知道！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:853
 translate chinese sm1ms029_talk_tl_ns_de368e0b:
 
     # mc "Well, I'll leave you two to it."
-    mc "Well, I'll leave you two to it."
+    mc "好吧，我让你们两个继续吧。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:854
 translate chinese sm1ms029_talk_tl_ns_ede09f41:
@@ -1910,7 +1910,7 @@ translate chinese sm1ms029_talk_kv_hr_arj_043b6df1:
 translate chinese sm1ms029_talk_kv_hr_arj_39f23bcd:
 
     # hr "The man of the hour himself."
-    hr "The man of the hour himself."
+    hr "今晚的主角本人。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:877
 translate chinese sm1ms029_talk_kv_hr_arj_83fcac4c:
@@ -2000,13 +2000,13 @@ translate chinese sm1ms029_talk_kv_hr_arj_f114e539:
 translate chinese sm1ms029_talk_kv_hr_arj_e3f5b33d:
 
     # mct "Oh man..."
-    mct "Oh man..."
+    mct "哦，天哪..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:908
 translate chinese sm1ms029_talk_kv_hr_arj_55c0cc3e:
 
     # mct "This is awkward."
-    mct "This is awkward."
+    mct "这太尴尬了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:911
 translate chinese sm1ms029_talk_kv_hr_arj_90ca851a:
@@ -2246,7 +2246,7 @@ translate chinese sm1ms029_party_part_1_fdafb391:
 translate chinese sm1ms029_party_part_1_00292478:
 
     # mc "All right, everyone! First up this evening, who wants to come up here and eats Stacy's ass?"
-    mc "All right, everyone! First up this evening, who wants to come up here and eats Stacy's ass?"
+    mc "好了，大家！今晚首先，谁想上来吃史黛西的屁股？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1006
 translate chinese sm1ms029_party_part_1_3684e002:
@@ -2306,55 +2306,55 @@ translate chinese sm1ms029_party_part_1_2f29c928:
 translate chinese sm1ms029_party_part_1_c4c0a4a7:
 
     # kv "Slrppp, slllllrrppp, slrp, slrp, slrp!"
-    kv "Slrppp, slllllrrppp, slrp, slrp, slrp!"
+    kv "吸溜，吸溜溜溜，吸溜，吸溜，吸溜！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1028
 translate chinese sm1ms029_party_part_1_5f6a3159:
 
     # sy "Mmmm, mmmmmm!"
-    sy "Mmmm, mmmmmm!"
+    sy "嗯嗯嗯，嗯嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1031
 translate chinese sm1ms029_party_part_1_24400e96:
 
     # mc "All right, Kanya, that's enough."
-    mc "All right, Kanya, that's enough."
+    mc "好了，康雅，够了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1032
 translate chinese sm1ms029_party_part_1_d49547aa:
 
     # sy "Noooo, just as little more!"
-    sy "Noooo, just as little more!"
+    sy "不要，再来一点点！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1035
 translate chinese sm1ms029_party_part_1_c442311a:
 
     # kv "Mmmm, that was delicious."
-    kv "Mmmm, that was delicious."
+    kv "嗯嗯嗯，真美味。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1036
 translate chinese sm1ms029_party_part_1_e7d10ee4:
 
     # kv "You've got a great ass, Stacy."
-    kv "You've got a great ass, Stacy."
+    kv "你的屁股真棒，史黛西。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1038
 translate chinese sm1ms029_party_part_1_66dd3fc3:
 
     # sy "Awww, thanks Kanya!"
-    sy "Awww, thanks Kanya!"
+    sy "啊啊啊，谢谢你，康雅！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1041
 translate chinese sm1ms029_party_part_1_5f2b9e1e:
 
     # sy "But boo, [mcname]! I was having a good time!"
-    sy "But boo, [mcname]! I was having a good time!"
+    sy "但是嘘，[mcname]！我玩得很开心！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1045
 translate chinese sm1ms029_party_part_1_235482a0:
 
     # mc "Oh, but there's more good times to be had."
-    mc "Oh, but there's more good times to be had."
+    mc "哦，但还有更多美好时光等着呢。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1048
 translate chinese sm1ms029_party_part_1_cbf5dbac:
