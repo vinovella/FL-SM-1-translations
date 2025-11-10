@@ -68,3 +68,7 @@
     old "[character!t] can assist with the renovation [before_after!t] completion.\nTalk to [character!t] to proceed."
     new "[character!t] 可以协助 [before_after!t] 完成翻新。\n与 [character!t] 交谈以继续。"
 
+    # game/code/classes/renovation_controller.rpy:141
+    old "Upgrade\n$[upgrade_price]"
+    new "升级\n$[upgrade_price]"
+
