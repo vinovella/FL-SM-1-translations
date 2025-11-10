@@ -160,3 +160,31 @@
     old "Sunday"
     new "星期天"
 
+    # game/code/data/constants/constants.rpy:168
+    old "Mon"
+    new "一"
+
+    # game/code/data/constants/constants.rpy:169
+    old "Tue"
+    new "二"
+
+    # game/code/data/constants/constants.rpy:170
+    old "Wed"
+    new "三"
+
+    # game/code/data/constants/constants.rpy:171
+    old "Thu"
+    new "四"
+
+    # game/code/data/constants/constants.rpy:172
+    old "Fri"
+    new "五"
+
+    # game/code/data/constants/constants.rpy:173
+    old "Sat"
+    new "六"
+
+    # game/code/data/constants/constants.rpy:174
+    old "Sun"
+    new "日"
+

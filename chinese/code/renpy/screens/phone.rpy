@@ -36,9 +36,7 @@
     old "Settings"
     new "设置"
 
-translate chinese strings:
-
     # game/code/renpy/screens/phone.rpy:115
     old "Day: [gt.get_day_number()]"
-    new "Day: [gt.get_day_number()]"
+    new "第[gt.get_day_number()]天"
 
