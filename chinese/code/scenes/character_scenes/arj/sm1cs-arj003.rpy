@@ -172,12 +172,6 @@ translate chinese sm1cs_arj003_514ed6a7:
     # arj "*rolls eyes* No, silly. This. Just... talking. Being normal."
     arj "*翻白眼* 不是，傻瓜。是这个。就...聊天。做回普通人。"
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:82
-translate chinese sm1cs_arj003_7c8ab5b4:
-
-    # arj "It feels like it's been forever since we just hung out.{w} No drama.{w} No baggage."
-    arj "感觉我们已经好久没有这样相处了。{w}没有戏剧性。{w}没有包袱。"
-
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:84
 translate chinese sm1cs_arj003_f1bb5b7b:
 
@@ -1053,4 +1047,10 @@ translate chinese strings:
     # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:158
     old "You became my sex slave"
     new "你成了我的性奴"
+
+# game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:106
+translate chinese sm1cs_arj003_05e6e8bd:
+
+    # arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
+    arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
 

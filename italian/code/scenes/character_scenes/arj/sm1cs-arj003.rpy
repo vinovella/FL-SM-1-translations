@@ -172,12 +172,6 @@ translate italian sm1cs_arj003_514ed6a7:
     # arj "*rolls eyes* No, silly. This. Just... talking. Being normal."
     arj "*alza gli occhi al cielo* No, sciocco. Questo. Solo... parlare. Essere normali."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:82
-translate italian sm1cs_arj003_7c8ab5b4:
-
-    # arj "It feels like it's been forever since we just hung out.{w} No drama.{w} No baggage."
-    arj "Sembra sia passata un'eternità dall'ultima volta che siamo stati insieme.{w} Niente drammi.{w} Niente bagagli."
-
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:84
 translate italian sm1cs_arj003_f1bb5b7b:
 

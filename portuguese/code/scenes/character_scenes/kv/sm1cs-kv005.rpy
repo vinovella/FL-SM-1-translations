@@ -376,12 +376,6 @@ translate portuguese sm1cs_kv005_part_2_5d7823e3:
     # mc "Oh, {i}I love it.{/i}"
     mc "Ah, {i}amei{/i}."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:227
-translate portuguese _a6c5416e:
-
-    # kv "Good. It's got a little more lace than I'm used to, but I figured I'd try out something different, see how it went."
-    kv "Ótimo. É um pouco mais rendada do que eu tô acostumada, mas achei que seria legal tentar algo novo, ver no que dá."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:230
 translate portuguese sm1cs_kv005_part_2_826192ba:
 

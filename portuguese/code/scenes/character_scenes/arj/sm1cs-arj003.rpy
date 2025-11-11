@@ -172,12 +172,6 @@ translate portuguese sm1cs_arj003_514ed6a7:
     # arj "*rolls eyes* No, silly. This. Just... talking. Being normal."
     arj "*rolls eyes* No, silly. This. Just... talking. Being normal."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:82
-translate portuguese sm1cs_arj003_7c8ab5b4:
-
-    # arj "It feels like it's been forever since we just hung out.{w} No drama.{w} No baggage."
-    arj "It feels like it's been forever since we just hung out.{w} No drama.{w} No baggage."
-
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:84
 translate portuguese sm1cs_arj003_f1bb5b7b:
 
