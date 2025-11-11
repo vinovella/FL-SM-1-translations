@@ -68,8 +68,8 @@
     new "Sci-Fi Movie"
 
     # game/code/classes/movie_controllers.rpy:40
-    old "[movie] release"
-    new "[movie] release"
+    old "[movie!t] release"
+    new "[movie!t] release"
 
     # game/code/classes/movie_controllers.rpy:129
     old "Add $[amount] to [budget_name!t]"

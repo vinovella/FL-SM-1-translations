@@ -69,8 +69,8 @@
     new "CGI-Budget"
 
     # game/code/classes/movie_controllers.rpy:40
-    old "[movie] release"
-    new "[movie] Veröffentlichung"
+    old "[movie!t] release"
+    new "[movie!t] Veröffentlichung"
 
     # game/code/classes/movie_controllers.rpy:129
     old "Add $[amount] to [budget_name!t]"
