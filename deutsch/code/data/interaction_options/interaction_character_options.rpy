@@ -476,5 +476,5 @@ translate deutsch strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase An Actor Prepares for $60"
-    new "Kaufe An Actor Prepares für $60"
+    new "Kaufe Ein Schauspieler bereitet sich vor für $60"
 
