@@ -164,239 +164,239 @@ translate chinese q_inter_mes_6_97110289:
 translate chinese q_inter_mes_7_c31c6b56:
 
     # mes "Kanya seems very skilled, [mcname]."
-    mes "Kanya seems very skilled, [mcname]."
+    mes "康雅看起来很有技巧，[mcname]。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:108
 translate chinese q_inter_mes_7_a3f4ada6:
 
     # mes "She is really a fine addition to your team."
-    mes "She is really a fine addition to your team."
+    mes "她真的是你团队的好帮手。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:109
 translate chinese q_inter_mes_7_68b95aa2:
 
     # mc "Thanks, Min."
-    mc "Thanks, Min."
+    mc "谢谢，明。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:114
 translate chinese q_inter_mes_8_705ee222:
 
     # mes "Hi, [mcname]. Guess what?"
-    mes "Hi, [mcname]. Guess what?"
+    mes "嗨，[mcname]。猜猜看？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:115
 translate chinese q_inter_mes_8_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:116
 translate chinese q_inter_mes_8_fe11005a:
 
     # mes "I got a perfect score on my last assignment."
-    mes "I got a perfect score on my last assignment."
+    mes "我上次的作业得了满分。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:119
 translate chinese q_inter_mes_8_b5b8e299:
 
     # mes "I wonder if I push myself, if I can graduate early."
-    mes "I wonder if I push myself, if I can graduate early."
+    mes "我在想如果我努力，是否能提前毕业。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:125
 translate chinese q_inter_mes_9_45518ace:
 
     # mes "Ready for some more shots?"
-    mes "Ready for some more shots?"
+    mes "准备好再来几杯吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:126
 translate chinese q_inter_mes_9_5b66d0bb:
 
     # mc "Please no, Min."
-    mc "Please no, Min."
+    mc "请不要，明。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:127
 translate chinese q_inter_mes_9_a3440e08:
 
     # mc "I think my liver tried to escape out of my toes last time."
-    mc "I think my liver tried to escape out of my toes last time."
+    mc "我觉得上次我的肝脏试图从脚趾逃出来。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:128
 translate chinese q_inter_mes_9_77acbbbf:
 
     # mes "Haha. Lightweight."
-    mes "Haha. Lightweight."
+    mes "哈哈。酒量太差了。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:134
 translate chinese q_inter_mes_10_9150e656:
 
     # mc "How are your classes going?"
-    mc "How are your classes going?"
+    mc "你的课程怎么样？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:135
 translate chinese q_inter_mes_10_e4be0e70:
 
     # mes "Oh perfectly average."
-    mes "Oh perfectly average."
+    mes "哦，非常普通。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:136
 translate chinese q_inter_mes_10_d2287aa1:
 
     # mes "The history of European Socialism never loses its charm."
-    mes "The history of European Socialism never loses its charm."
+    mes "欧洲社会主义的历史永远不会失去魅力。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:141
 translate chinese q_inter_mes_11_3a2deb13:
 
     # mc "Looking good, Min."
-    mc "Looking good, Min."
+    mc "看起来不错，明。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:142
 translate chinese q_inter_mes_11_9dadc47f:
 
     # mes "You're not so bad yourself, big boy."
-    mes "You're not so bad yourself, big boy."
+    mes "你自己也不错，大男孩。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:148
 translate chinese q_inter_mes_12_19808382:
 
     # mes "Blergh."
-    mes "Blergh."
+    mes "呃。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:149
 translate chinese q_inter_mes_12_d30f4bac:
 
     # mc "Problem?"
-    mc "Problem?"
+    mc "有问题吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:150
 translate chinese q_inter_mes_12_66a10b8f:
 
     # mes "More of an... annoyance."
-    mes "More of an... annoyance."
+    mes "更多的是...烦恼。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:153
 translate chinese q_inter_mes_12_b1a5a483:
 
     # mes "I forgot who terrible the Wifi can be here."
-    mes "I forgot who terrible the Wifi can be here."
+    mes "我忘了这里的无线网有多糟糕。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:154
 translate chinese q_inter_mes_12_c7e90b55:
 
     # mes "It's one of the things I miss about Seoul."
-    mes "It's one of the things I miss about Seoul."
+    mes "这是我想念首尔的原因之一。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:159
 translate chinese q_inter_mes_13_65856392:
 
     # mes "Hey, [mcname]."
-    mes "Hey, [mcname]."
+    mes "嗨，[mcname]。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:160
 translate chinese q_inter_mes_13_ecf41c94:
 
     # mes "How is the studio doing?"
-    mes "How is the studio doing?"
+    mes "工作室怎么样？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:161
 translate chinese q_inter_mes_13_bcd368dd:
 
     # mc "Good. Nothing too crazy going on."
-    mc "Good. Nothing too crazy going on."
+    mc "很好。没有什么太疯狂的事情发生。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:162
 translate chinese q_inter_mes_13_8360cff9:
 
     # mc "At least not compared to Fetish Locator crazy."
-    mc "At least not compared to Fetish Locator crazy."
+    mc "至少与Fetish Locator的疯狂相比不算什么。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:165
 translate chinese q_inter_mes_13_8119ff39:
 
     # mes "Haha."
-    mes "Haha."
+    mes "哈哈。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:171
 translate chinese q_inter_mes_14_aaa5bfca:
 
     # mes "You know something?"
-    mes "You know something?"
+    mes "你知道吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:172
 translate chinese q_inter_mes_14_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:173
 translate chinese q_inter_mes_14_28bc6df2:
 
     # mes "I may have... scouted out the bathroom here."
-    mes "I may have... scouted out the bathroom here."
+    mes "我可能...侦查过这里的洗手间。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:174
 translate chinese q_inter_mes_14_b8de06d3:
 
     # mc "Oh."
-    mc "Oh."
+    mc "哦。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:177
 translate chinese q_inter_mes_14_a6c1cf49:
 
     # mes "Nice and clean. Functional locks."
-    mes "Nice and clean. Functional locks."
+    mes "又干净又整洁。锁也好用。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:178
 translate chinese q_inter_mes_14_60e3329a:
 
     # mes "Very interesting, wouldn't you say."
-    mes "Very interesting, wouldn't you say."
+    mes "很有趣，你说是不是。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:179
 translate chinese q_inter_mes_14_4661a639:
 
     # mc "Mmhmm."
-    mc "Mmhmm."
+    mc "嗯哼。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:185
 translate chinese q_inter_mes_15_dadb5b86:
 
     # mes "Mmm."
-    mes "Mmm."
+    mes "嗯。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:186
 translate chinese q_inter_mes_15_b85746b1:
 
     # mc "What's on your mind?"
-    mc "What's on your mind?"
+    mc "你在想什么？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:187
 translate chinese q_inter_mes_15_e5959447:
 
     # mes "I saw a flyer for a party at the university."
-    mes "I saw a flyer for a party at the university."
+    mes "我看到大学里有个派对的传单。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:190
 translate chinese q_inter_mes_15_b590c121:
 
     # mes "It looked good, but I just know I could put together one that would put theirs to shame."
-    mes "It looked good, but I just know I could put together one that would put theirs to shame."
+    mes "看起来不错，但我知道我可以办一个让他们的相形见绌。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:191
 translate chinese q_inter_mes_15_e526a903:
 
     # mc "Hmmm."
-    mc "Hmmm."
+    mc "嗯。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:192
 translate chinese q_inter_mes_15_0796b207:
 
     # mc "Maybe we can do one in the future."
-    mc "Maybe we can do one in the future."
+    mc "也许我们将来可以办一个。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:195
 translate chinese q_inter_mes_15_a52d6b10:
 
     # mes "Here is hoping."
-    mes "Here is hoping."
+    mes "希望如此。"
 

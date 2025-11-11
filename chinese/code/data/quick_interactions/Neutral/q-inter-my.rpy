@@ -290,37 +290,37 @@ translate chinese q_inter_my_10_ccd0c639:
 translate chinese q_inter_my_11_8bc223c4:
 
     # my "Hey, [mcname]!"
-    my "Hey, [mcname]!"
+    my "嗨，[mcname]！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:189
 translate chinese q_inter_my_11_35fedb77:
 
     # mc "Hey, Mom!"
-    mc "Hey, Mom!"
+    mc "嗨，妈妈！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:191
 translate chinese q_inter_my_11_f67d45c0:
 
     # mc "Hey, Melony!"
-    mc "Hey, Melony!"
+    mc "嗨，梅洛妮！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:192
 translate chinese q_inter_my_11_4b782f43:
 
     # mc "You know, that last date-"
-    mc "You know, that last date-"
+    mc "你知道，上次那个约会——"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:196
 translate chinese q_inter_my_11_1b49c09c:
 
     # my "Shhhh! Not i front of your sister!"
-    my "Shhhh! Not i front of your sister!"
+    my "嘘！别在你妹妹面前说！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:198
 translate chinese q_inter_my_11_64ff3bc5:
 
     # my "Shhh! Not in front of Stacy!"
-    my "Shhh! Not in front of Stacy!"
+    my "嘘！别在史黛西面前说！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:201
 translate chinese q_inter_my_11_fc645303:
@@ -332,73 +332,73 @@ translate chinese q_inter_my_11_fc645303:
 translate chinese q_inter_my_11_f4e6139e:
 
     # my "But yes it was."
-    my "But yes it was."
+    my "但是，是的，确实是。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:207
 translate chinese q_inter_my_12_77034b1f:
 
     # my "You know, [mcname], you've set the bar pretty high for yourself."
-    my "You know, [mcname], you've set the bar pretty high for yourself."
+    my "你知道，[mcname]，你给自己设定的标准很高。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:208
 translate chinese q_inter_my_12_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "哦？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:211
 translate chinese q_inter_my_12_6da6d153:
 
     # my "Mmmhmmmm. What's our next date going to be?"
-    my "Mmmhmmmm. What's our next date going to be?"
+    my "嗯哼。我们的下一次约会会是什么？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:212
 translate chinese q_inter_my_12_c753e752:
 
     # mc "OH, uh..."
-    mc "OH, uh..."
+    mc "哦，呃..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:215
 translate chinese q_inter_my_12_e5fdbbec:
 
     # my "Hehehehehehehe!"
-    my "Hehehehehehehe!"
+    my "呵呵呵呵呵！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:221
 translate chinese q_inter_my_13_993d0554:
 
     # mc "So, Mom, you know how you're an artist?"
-    mc "So, Mom, you know how you're an artist?"
+    mc "那个，妈妈，你知道你是个艺术家吧？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:223
 translate chinese q_inter_my_13_69636506:
 
     # mc "So, Melony, you know how you're an artist?"
-    mc "So, Melony, you know how you're an artist?"
+    mc "那个，梅洛妮，你知道你是个艺术家吧？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:226
 translate chinese q_inter_my_13_2128d416:
 
     # my "Mmhmmmm?"
-    my "Mmhmmmm?"
+    my "嗯哼？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:227
 translate chinese q_inter_my_13_cf0364b3:
 
     # mc "Do you think that maybe you'd be able to help us out with some of our art in the movies?"
-    mc "Do you think that maybe you'd be able to help us out with some of our art in the movies?"
+    mc "你觉得你也许能帮我们处理电影里的一些艺术工作吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:230
 translate chinese q_inter_my_13_92e887d1:
 
     # my "Hmmm... I don't know, [mcname]..."
-    my "Hmmm... I don't know, [mcname]..."
+    my "嗯...我不知道，[mcname]..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:231
 translate chinese q_inter_my_13_2aea2240:
 
     # my "I might have accepted that you're doing this, but I'm not sure I'm ready to commit to the movies yet..."
-    my "I might have accepted that you're doing this, but I'm not sure I'm ready to commit to the movies yet..."
+    my "我可能已经接受了你在做这个，但我还不确定是否准备好投入到电影中..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:236
 translate chinese q_inter_my_14_ec8245fb:
@@ -410,17 +410,17 @@ translate chinese q_inter_my_14_ec8245fb:
 translate chinese q_inter_my_14_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "啊？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:240
 translate chinese q_inter_my_14_aee1c600:
 
     # my "Oh, erm, nothing! Nothing at all!"
-    my "Oh, erm, nothing! Nothing at all!"
+    my "哦，呃，没什么！什么都没有！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:241
 translate chinese q_inter_my_14_b1517650:
 
     # my "Just thinking about something else!"
-    my "Just thinking about something else!"
+    my "只是在想别的事情！"
 
