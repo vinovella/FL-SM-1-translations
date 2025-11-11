@@ -10,25 +10,25 @@
 
     # game/code/classes/player.rpy:385
     old "You just discovered new location on the map"
-    new "Du hast gerade einen neuen Ort auf der Karte entdeckt."
+    new "Du hast gerade einen neuen Ort auf der Karte entdeckt"
 
     # game/code/classes/player.rpy:405
     old "You just improved in topic"
-    new "Du hast dich gerade in diesem Thema verbessert."
+    new "Du hast dich gerade in diesem Thema verbessert"
 
 translate deutsch strings:
 
     # game/code/classes/player.rpy:104
     old "You just got $[amount]"
-    new "You just got $[amount]"
+    new "Du hast gerade $[amount] erhalten"
 
     # game/code/classes/player.rpy:115
     old "You spent $[amount]"
-    new "You spent $[amount]"
+    new "Du hast $[amount] ausgegeben"
 
 translate deutsch strings:
 
     # game/code/classes/player.rpy:403
     old "You have improved in topic [topic!t]"
-    new "You have improved in topic [topic!t]"
+    new "Du hast dich im Thema [topic!t] verbessert"
 
