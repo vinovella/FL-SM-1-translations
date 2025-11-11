@@ -368,7 +368,7 @@ translate deutsch strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Wurst Delivery Sponsorship"
-    new "Wurstlieferung-Sponsoring"
+    new "Wurst Delivery Sponsoring"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Min for the Sci-Fi Movie"
@@ -442,39 +442,39 @@ translate deutsch strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Prepare for the party"
-    new "Prepare for the party"
+    new "Bereite dich auf die Party vor"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Confront Amore"
-    new "Confront Amore"
+    new "Konfrontiere Amore"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about work"
-    new "Talk about work"
+    new "Über die Arbeit sprechen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have some fun with Min"
-    new "Have some fun with Min"
+    new "Hab Spaß mit Min"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Smash"
-    new "Smash"
+    new "Zerschlagen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask about the play"
-    new "Ask about the play"
+    new "Frage nach dem Stück"
 
 translate deutsch strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Photography-101 for $60"
-    new "Purchase Photography-101 for $60"
+    new "Kaufe Fotografie-101 für $60"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Stars Weekly for $30"
-    new "Purchase Stars Weekly for $30"
+    new "Kaufe Stars Weekly für $30"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase An Actor Prepares for $60"
-    new "Purchase An Actor Prepares for $60"
+    new "Kaufe Ein Schauspieler bereitet sich vor für $60"
 
