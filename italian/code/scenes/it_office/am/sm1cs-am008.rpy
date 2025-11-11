@@ -1047,7 +1047,7 @@ translate italian sm1cs_am008_continue_4b3dda1d:
 translate italian sm1cs_am008_continue_a43870fb:
 
     # am "You calling me a {b}good girl{/b}. Your sexy puppy?"
-    am "You calling me a {b}good girl{/b}. Your sexy puppy?"
+    am "Tu che mi chiami {b}brava ragazza{/b}. La tua sexy cucciola?"
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:730
 translate italian sm1cs_am008_continue_fb3ff880:
 
@@ -1117,7 +1117,7 @@ translate italian sm1cs_am008_continue_dc16ebcd:
 translate italian sm1cs_am008_continue_14de88de:
 
     # mc "Alright... are you ready for Master to play with you?"
-    mc "Alright... are you ready for Master to play with you?"
+    mc "Va bene... sei pronta che il Padrone giochi con te?"
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:778
 translate italian sm1cs_am008_continue_09f0098a:
 
@@ -1167,7 +1167,7 @@ translate italian sm1cs_am008_sex_b6dd316c:
 translate italian sm1cs_am008_sex_51345f28:
 
     # am "[mcname], you don't have to."
-    am "[mcname], you don't have to."
+    am "[mcname], non devi farlo."
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:824
 translate italian sm1cs_am008_sex_0e53616b:
 
