@@ -2198,37 +2198,37 @@ translate chinese sm1ms029_talk_kv_hr_arj_57caba3c:
 translate chinese sm1ms029_party_part_1_2a92b2bc:
 
     # arj "Ladies, and gentleman, our first show of the night is about to begin!"
-    arj "Ladies, and gentleman, our first show of the night is about to begin!"
+    arj "女士们，先生们，今晚的第一场表演即将开始！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:988
 translate chinese sm1ms029_party_part_1_12858ca6:
 
     # arj "Please welcome, Stacy!"
-    arj "Please welcome, Stacy!"
+    arj "请欢迎，史黛西！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:991
 translate chinese sm1ms029_party_part_1_11154dea:
 
     # "Everyone" "Woooooo!"
-    "Everyone" "Woooooo!"
+    "Everyone" "哇哦哦哦哦！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:996
 translate chinese sm1ms029_party_part_1_22b701c9:
 
     # arj "Tonight, Stacy has agreed to allow everyone to participate."
-    arj "Tonight, Stacy has agreed to allow everyone to participate."
+    arj "今晚，史黛西同意让每个人都参与。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:997
 translate chinese sm1ms029_party_part_1_9e07a27a:
 
     # arj "[mcname] has a list of approved actions, and will welcome you to come up and perform them on our gorgeous actress!"
-    arj "[mcname] has a list of approved actions, and will welcome you to come up and perform them on our gorgeous actress!"
+    arj "[mcname]有一份批准的动作清单，欢迎你们上来对我们美丽的女演员表演！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:999
 translate chinese sm1ms029_party_part_1_c2178b2c:
 
     # "Everyone" "*claps*"
-    "Everyone" "*claps*"
+    "Everyone" "*鼓掌*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1000
 translate chinese sm1ms029_party_part_1_dfac5f6c:
@@ -2240,49 +2240,49 @@ translate chinese sm1ms029_party_part_1_dfac5f6c:
 translate chinese sm1ms029_party_part_1_fdafb391:
 
     # mc "Thanks, AmRose."
-    mc "Thanks, AmRose."
+    mc "谢谢，爱洛丝。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1005
 translate chinese sm1ms029_party_part_1_00292478:
 
     # mc "All right, everyone! First up this evening, who wants to come up here and eats Stacy's ass?"
-    mc "All right, everyone! First up this evening, who wants to come up here and eats Stacy's ass?"
+    mc "好的，大家！今晚首先，谁想上来舔史黛西的屁股？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1006
 translate chinese sm1ms029_party_part_1_3684e002:
 
     # kv "Oh, I would love to."
-    kv "Oh, I would love to."
+    kv "哦，我很乐意。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1009
 translate chinese sm1ms029_party_part_1_6a651f23:
 
     # kv "That sounds absolutely delightful."
-    kv "That sounds absolutely delightful."
+    kv "听起来绝对令人愉快。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1011
 translate chinese sm1ms029_party_part_1_21a2460e:
 
     # mc "She's all yours, Kanya!"
-    mc "She's all yours, Kanya!"
+    mc "她都是你的了，康雅！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1012
 translate chinese sm1ms029_party_part_1_99f87c39:
 
     # kv "Mmmm, goody."
-    kv "Mmmm, goody."
+    kv "嗯嗯嗯，太好了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1015
 translate chinese sm1ms029_party_part_1_a16f19a3:
 
     # kv "This is going to be fun..."
-    kv "This is going to be fun..."
+    kv "这会很有趣..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1020
 translate chinese sm1ms029_party_part_1_1430e7b2:
 
     # sy "Oh Gooooood, that feels good!"
-    sy "Oh Gooooood, that feels good!"
+    sy "哦，天啊啊啊，感觉真好！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1021
 translate chinese sm1ms029_party_part_1_f2e02679:
@@ -2294,7 +2294,7 @@ translate chinese sm1ms029_party_part_1_f2e02679:
 translate chinese sm1ms029_party_part_1_869092c0:
 
     # sy "Oh shit, Kaaaaanya! Mmmmmm!"
-    sy "Oh shit, Kaaaaanya! Mmmmmm!"
+    sy "哦，该死，康雅啊啊啊！嗯嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1025
 translate chinese sm1ms029_party_part_1_2f29c928:
