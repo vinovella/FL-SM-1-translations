@@ -1262,7 +1262,7 @@ translate italian sm1ms029_talk_tl_mes_7168d4f3:
 translate italian sm1ms029_talk_tl_mes_7e76fa14:
 
     # mes "For one thing, \"roomie\" seriously downplays who we are to you."
-    mes "For one thing, \"roomie\" seriously downplays who we are to you."
+    mes "Innanzitutto, \"coinquilina\" sminuisce seriamente chi siamo per te."
 
 # game/code/scenes/main_story/sm1ms029.rpy:625
 translate italian sm1ms029_talk_tl_mes_520cd898:
@@ -1292,7 +1292,7 @@ translate italian sm1ms029_talk_tl_mes_65c5cdd3:
 translate italian sm1ms029_talk_tl_mes_afc42360:
 
     # tl "Secondly, it belittles us a bit to be reduced to \"roomie\"."
-    tl "Secondly, it belittles us a bit to be reduced to \"roomie\"."
+    tl "In secondo luogo, ci sminuisce un po' essere ridotte a \"coinquiline\"."
 
 # game/code/scenes/main_story/sm1ms029.rpy:635
 translate italian sm1ms029_talk_tl_mes_e00369e1:
@@ -1322,7 +1322,7 @@ translate italian sm1ms029_talk_tl_mes_6b10d666:
 translate italian sm1ms029_talk_tl_mes_bafb6dae:
 
     # tl "Just that it's fucking cringe to call someone a \"roomie\"."
-    tl "Just that it's fucking cringe to call someone a \"roomie\"."
+    tl "Solo che è tremendamente imbarazzante chiamare qualcuno \"coinquilina\"."
 
 # game/code/scenes/main_story/sm1ms029.rpy:645
 translate italian sm1ms029_talk_tl_mes_47ebf633:
@@ -1352,25 +1352,25 @@ translate italian sm1ms029_talk_tl_mes_5e71ea17:
 translate italian sm1ms029_talk_tl_mes_5645cf64:
 
     # tl "Seriously, [mcname]."
-    tl "Seriously, [mcname]."
+    tl "Seriamente, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:656
 translate italian sm1ms029_talk_tl_mes_853ac5dd:
 
     # mc "What! I don't know! I'm not around that often, and I wasn't sure how often you two had crossed paths!"
-    mc "What! I don't know! I'm not around that often, and I wasn't sure how often you two had crossed paths!"
+    mc "Cosa! Non lo so! Non sono qui così spesso, e non ero sicuro di quanto spesso vi foste incrociate!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:663
 translate italian sm1ms029_talk_tl_mes_39813757:
 
     # mes "Of course we have. {i}We live together.{/i}"
-    mes "Of course we have. {i}We live together.{/i}"
+    mes "Certo che sì. {i}Viviamo insieme.{/i}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:664
 translate italian sm1ms029_talk_tl_mes_f0dae7e6:
 
     # tl "And Min is a bad ass. Bad ass women need to stick together."
-    tl "And Min is a bad ass. Bad ass women need to stick together."
+    tl "E Min è una tosta. Le donne toste devono restare unite."
 
 # game/code/scenes/main_story/sm1ms029.rpy:667
 translate italian sm1ms029_talk_tl_mes_b73a7d06:
@@ -1388,73 +1388,73 @@ translate italian sm1ms029_talk_tl_mes_1b400966:
 translate italian sm1ms029_talk_tl_mes_a74166dd:
 
     # mes "It's just... I don't think I get called \"bad ass\" usually."
-    mes "It's just... I don't think I get called \"bad ass\" usually."
+    mes "È solo che... non penso di essere solitamente chiamata \"tosta\"."
 
 # game/code/scenes/main_story/sm1ms029.rpy:671
 translate italian sm1ms029_talk_tl_mes_76ee5436:
 
     # mes "In my culture it's \"powerful\" or \"goal oriented\"."
-    mes "In my culture it's \"powerful\" or \"goal oriented\"."
+    mes "Nella mia cultura è \"potente\" o \"orientata agli obiettivi\"."
 
 # game/code/scenes/main_story/sm1ms029.rpy:672
 translate italian sm1ms029_talk_tl_mes_b783a969:
 
     # mes "And that assholes usually just call it \"bitchy\"."
-    mes "And that assholes usually just call it \"bitchy\"."
+    mes "E che gli stronzi di solito la chiamano semplicemente \"stronza\"."
 
 # game/code/scenes/main_story/sm1ms029.rpy:675
 translate italian sm1ms029_talk_tl_mes_265fa68f:
 
     # tl "I get it. I've been called a bitch more than once in my life."
-    tl "I get it. I've been called a bitch more than once in my life."
+    tl "Capisco. Sono stata chiamata stronza più di una volta nella mia vita."
 
 # game/code/scenes/main_story/sm1ms029.rpy:678
 translate italian sm1ms029_talk_tl_mes_355ea2cb:
 
     # mes "Well, that's because you're a bad ass."
-    mes "Well, that's because you're a bad ass."
+    mes "Beh, è perché sei una tosta."
 
 # game/code/scenes/main_story/sm1ms029.rpy:680
 translate italian sm1ms029_talk_tl_mes_771e210f:
 
     # tl "Thank you, Min."
-    tl "Thank you, Min."
+    tl "Grazie, Min."
 
 # game/code/scenes/main_story/sm1ms029.rpy:682
 translate italian sm1ms029_talk_tl_mes_8bd5b851:
 
     # mes "And we bad asses have to stick together!"
-    mes "And we bad asses have to stick together!"
+    mes "E noi toste dobbiamo restare unite!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:683
 translate italian sm1ms029_talk_tl_mes_e926ff8a:
 
     # tl "Damn straight."
-    tl "Damn straight."
+    tl "Maledettamente vero."
 
 # game/code/scenes/main_story/sm1ms029.rpy:686
 translate italian sm1ms029_talk_tl_mes_b09c0c4f:
 
     # mct "Huh... this was not the friendship I expected."
-    mct "Huh... this was not the friendship I expected."
+    mct "Huh... questa non era l'amicizia che mi aspettavo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:687
 translate italian sm1ms029_talk_tl_mes_363cb119:
 
     # mct "But, this is good! I'm happy they can see eye to eye."
-    mct "But, this is good! I'm happy they can see eye to eye."
+    mct "Ma, questo è positivo! Sono felice che riescano a vederla allo stesso modo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:690
 translate italian sm1ms029_talk_tl_mes_22142562:
 
     # mct "Now... let's make my exit, without disturbing them."
-    mct "Now... let's make my exit, without disturbing them."
+    mct "Ora... facciamo la mia uscita, senza disturbarle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:691
 translate italian sm1ms029_talk_tl_mes_7545b72e:
 
     # mct "I don't need to be ripped to shreds a second time..."
-    mct "I don't need to be ripped to shreds a second time..."
+    mct "Non ho bisogno di essere fatto a pezzi una seconda volta..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:702
 translate italian sm1ms029_talk_mes_ns_3dc038a1:
@@ -1484,7 +1484,7 @@ translate italian sm1ms029_talk_mes_ns_bd55fdb3:
 translate italian sm1ms029_talk_mes_ns_ee6bc3d3:
 
     # mc "You two seem to be getting along well!"
-    mc "You two seem to be getting along well!"
+    mc "Sembra che voi due vi stiate trovando bene!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:711
 translate italian sm1ms029_talk_mes_ns_a072c855:
@@ -1502,7 +1502,7 @@ translate italian sm1ms029_talk_mes_ns_05500ff6:
 translate italian sm1ms029_talk_mes_ns_5bca477e:
 
     # ns "Oh, I'm sorry, [mcname]!"
-    ns "Oh, I'm sorry, [mcname]!"
+    ns "Oh, mi dispiace, [mcname]!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:716
 translate italian sm1ms029_talk_mes_ns_056d0bd3:
@@ -1514,67 +1514,67 @@ translate italian sm1ms029_talk_mes_ns_056d0bd3:
 translate italian sm1ms029_talk_mes_ns_55e00494:
 
     # mes "It's a struggle to switch between your mother tongue and your second language sometimes."
-    mes "It's a struggle to switch between your mother tongue and your second language sometimes."
+    mes "A volte è difficile passare dalla lingua madre alla seconda lingua."
 
 # game/code/scenes/main_story/sm1ms029.rpy:720
 translate italian sm1ms029_talk_mes_ns_97885c81:
 
     # mes "Especially when you don't get to practice very often."
-    mes "Especially when you don't get to practice very often."
+    mes "Soprattutto quando non hai l'occasione di praticare molto spesso."
 
 # game/code/scenes/main_story/sm1ms029.rpy:723
 translate italian sm1ms029_talk_mes_ns_6921a067:
 
     # mc "Well, I'm happy that you both get to practice then!"
-    mc "Well, I'm happy that you both get to practice then!"
+    mc "Beh, sono felice che entrambe possiate esercitarvi allora!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:724
 translate italian sm1ms029_talk_mes_ns_764f0431:
 
     # ns "I am too!"
-    ns "I am too!"
+    ns "Anch'io!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:727
 translate italian sm1ms029_talk_mes_ns_1f91321b:
 
     # ns "It's so wonderful to be able to talk to someone who's also been to Seoul!"
-    ns "It's so wonderful to be able to talk to someone who's also been to Seoul!"
+    ns "È così meraviglioso poter parlare con qualcuno che è stato anche a Seoul!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:728
 translate italian sm1ms029_talk_mes_ns_05738eb0:
 
     # mes "It is pretty nice."
-    mes "It is pretty nice."
+    mes "È piuttosto bello."
 
 # game/code/scenes/main_story/sm1ms029.rpy:731
 translate italian sm1ms029_talk_mes_ns_2d051cd4:
 
     # mc "I'll have to visit it some day!"
-    mc "I'll have to visit it some day!"
+    mc "Dovrò visitarla un giorno!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:732
 translate italian sm1ms029_talk_mes_ns_2857d008:
 
     # ns "Oh, you absolutely must! There are so many good places to eat!"
-    ns "Oh, you absolutely must! There are so many good places to eat!"
+    ns "Oh, devi assolutamente! Ci sono così tanti posti buoni dove mangiare!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:733
 translate italian sm1ms029_talk_mes_ns_fea01c58:
 
     # ns "And to visit!"
-    ns "And to visit!"
+    ns "E da visitare!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:736
 translate italian sm1ms029_talk_mes_ns_ffa63963:
 
     # ns "Oh, oh, like a good Korean hot dog!"
-    ns "Oh, oh, like a good Korean hot dog!"
+    ns "Oh, oh, come un buon hot dog coreano!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:738
 translate italian sm1ms029_talk_mes_ns_277797c1:
 
     # ns "Or boba! Like, {i}real{/i} boba tea!"
-    ns "Or boba! Like, {i}real{/i} boba tea!"
+    ns "O il boba! Tipo, {i}vero{/i} tè boba!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:739
 translate italian sm1ms029_talk_mes_ns_9de3e2e4:
@@ -1586,109 +1586,109 @@ translate italian sm1ms029_talk_mes_ns_9de3e2e4:
 translate italian sm1ms029_talk_mes_ns_4124673d:
 
     # mes "Don't tease him with food he can't have, Nari."
-    mes "Don't tease him with food he can't have, Nari."
+    mes "Non stuzzicarlo con cibo che non può avere, Nari."
 
 # game/code/scenes/main_story/sm1ms029.rpy:743
 translate italian sm1ms029_talk_mes_ns_4e108bdd:
 
     # ns "Oh, but it's so good! Oh, my mouth is watering just thinking about it!"
-    ns "Oh, but it's so good! Oh, my mouth is watering just thinking about it!"
+    ns "Oh, ma è così buono! Oh, mi viene l'acquolina in bocca solo a pensarci!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:746
 translate italian sm1ms029_talk_mes_ns_ed88b19f:
 
     # mes "She's just an excitable one, isn't she?"
-    mes "She's just an excitable one, isn't she?"
+    mes "È solo una molto eccitabile, vero?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:747
 translate italian sm1ms029_talk_mes_ns_ae746b29:
 
     # mc "Oh, she absolutely does."
-    mc "Oh, she absolutely does."
+    mc "Oh, assolutamente sì."
 
 # game/code/scenes/main_story/sm1ms029.rpy:749
 translate italian sm1ms029_talk_mes_ns_f246ec81:
 
     # mes "But she's also a lot of fun."
-    mes "But she's also a lot of fun."
+    mes "Ma è anche molto divertente."
 
 # game/code/scenes/main_story/sm1ms029.rpy:750
 translate italian sm1ms029_talk_mes_ns_8d42590c:
 
     # mc "Yes, yes she is."
-    mc "Yes, yes she is."
+    mc "Sì, sì che lo è."
 
 # game/code/scenes/main_story/sm1ms029.rpy:753
 translate italian sm1ms029_talk_mes_ns_a1c8e8bb:
 
     # mes "I do like speaking Korean, that is a nice pleasantry of missed."
-    mes "I do like speaking Korean, that is a nice pleasantry of missed."
+    mes "Mi piace parlare coreano, è una bella piacevolezza che mi mancava."
 
 # game/code/scenes/main_story/sm1ms029.rpy:754
 translate italian sm1ms029_talk_mes_ns_83f3d709:
 
     # mc "I can imagine."
-    mc "I can imagine."
+    mc "Posso immaginarlo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:757
 translate italian sm1ms029_talk_mes_ns_7b7e6fb3:
 
     # mes "And to just have someone around who understands what growing up in Korea was like."
-    mes "And to just have someone around who understands what growing up in Korea was like."
+    mes "E avere semplicemente qualcuno intorno che capisca com'era crescere in Corea."
 
 # game/code/scenes/main_story/sm1ms029.rpy:758
 translate italian sm1ms029_talk_mes_ns_bdaf1c4c:
 
     # mc "Yeah... I can imagine that's comforting."
-    mc "Yeah... I can imagine that's comforting."
+    mc "Sì... posso immaginare che sia confortante."
 
 # game/code/scenes/main_story/sm1ms029.rpy:759
 translate italian sm1ms029_talk_mes_ns_9ef95c11:
 
     # mct "And I'm realizing that I've never really asked her about her life before Crowning..."
-    mct "And I'm realizing that I've never really asked her about her life before Crowning..."
+    mct "E mi sto rendendo conto che non le ho mai veramente chiesto della sua vita prima di Crowning..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:762
 translate italian sm1ms029_talk_mes_ns_b237c65c:
 
     # mct "Maybe I should do that sometime... get to know Min better."
-    mct "Maybe I should do that sometime... get to know Min better."
+    mct "Forse dovrei farlo un giorno... conoscere meglio Min."
 
 # game/code/scenes/main_story/sm1ms029.rpy:764
 translate italian sm1ms029_talk_mes_ns_f2dbd6c7:
 
     # mes "I'll keep an eye on her tonight, promise."
-    mes "I'll keep an eye on her tonight, promise."
+    mes "Terrò d'occhio lei stasera, promesso."
 
 # game/code/scenes/main_story/sm1ms029.rpy:765
 translate italian sm1ms029_talk_mes_ns_d1579dea:
 
     # mc "Thank you, Min."
-    mc "Thank you, Min."
+    mc "Grazie, Min."
 
 # game/code/scenes/main_story/sm1ms029.rpy:768
 translate italian sm1ms029_talk_mes_ns_a2d1ea75:
 
     # mc "She does need a supervisor>"
-    mc "She does need a supervisor>"
+    mc "Ha bisogno di un supervisore>"
 
 # game/code/scenes/main_story/sm1ms029.rpy:769
 translate italian sm1ms029_talk_mes_ns_4ab9b3f2:
 
     # mes "Hehehe, I believe that."
-    mes "Hehehe, I believe that."
+    mes "Hehehe, ci credo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:772
 translate italian sm1ms029_talk_mes_ns_654f2de5:
 
     # mc "I hope you both enjoy the show later."
-    mc "I hope you both enjoy the show later."
+    mc "Spero che entrambe vi godiate lo spettacolo più tardi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:773
 translate italian sm1ms029_talk_mes_ns_3bee4600:
 
     # ns "Oh, we will!"
-    ns "Oh, we will!"
+    ns "Oh, lo faremo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:775
 translate italian sm1ms029_talk_mes_ns_4d2952fd:
@@ -1910,31 +1910,31 @@ translate italian sm1ms029_talk_kv_hr_arj_043b6df1:
 translate italian sm1ms029_talk_kv_hr_arj_39f23bcd:
 
     # hr "The man of the hour himself."
-    hr "The man of the hour himself."
+    hr "L'uomo del momento in persona."
 
 # game/code/scenes/main_story/sm1ms029.rpy:877
 translate italian sm1ms029_talk_kv_hr_arj_83fcac4c:
 
     # arj "Your ears must have been burning."
-    arj "Your ears must have been burning."
+    arj "Le tue orecchie devono aver fischiato."
 
 # game/code/scenes/main_story/sm1ms029.rpy:879
 translate italian sm1ms029_talk_kv_hr_arj_fa7cb4b2:
 
     # mc "Oh, is that so?"
-    mc "Oh, is that so?"
+    mc "Oh, è così?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:881
 translate italian sm1ms029_talk_kv_hr_arj_b6fdaa7d:
 
     # arj "We were just talking about you."
-    arj "We were just talking about you."
+    arj "Stavamo proprio parlando di te."
 
 # game/code/scenes/main_story/sm1ms029.rpy:884
 translate italian sm1ms029_talk_kv_hr_arj_1b10da47:
 
     # mc "Hopefully good things!"
-    mc "Hopefully good things!"
+    mc "Spero cose buone!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:885
 translate italian sm1ms029_talk_kv_hr_arj_01a5c239:
@@ -1946,25 +1946,25 @@ translate italian sm1ms029_talk_kv_hr_arj_01a5c239:
 translate italian sm1ms029_talk_kv_hr_arj_c8be61da:
 
     # mc "Oh, not good things?"
-    mc "Oh, not good things?"
+    mc "Oh, non cose buone?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:890
 translate italian sm1ms029_talk_kv_hr_arj_ed22c116:
 
     # hr "I wasn't aware that AmRose wasn't a part of your little porn cabal."
-    hr "I wasn't aware that AmRose wasn't a part of your little porn cabal."
+    hr "Non sapevo che AmRose non facesse parte del tuo piccolo gruppo porno."
 
 # game/code/scenes/main_story/sm1ms029.rpy:891
 translate italian sm1ms029_talk_kv_hr_arj_159ea5fc:
 
     # mc "Not for lack of trying!"
-    mc "Not for lack of trying!"
+    mc "Non per mancanza di tentativi!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:894
 translate italian sm1ms029_talk_kv_hr_arj_403d36dd:
 
     # hr "Something about a disagreement about the use of Fetish Locator data."
-    hr "Something about a disagreement about the use of Fetish Locator data."
+    hr "Qualcosa riguardo un disaccordo sull'uso dei dati di Fetish Locator."
 
 # game/code/scenes/main_story/sm1ms029.rpy:895
 translate italian sm1ms029_talk_kv_hr_arj_c1dff962:
@@ -1976,43 +1976,43 @@ translate italian sm1ms029_talk_kv_hr_arj_c1dff962:
 translate italian sm1ms029_talk_kv_hr_arj_3a59403a:
 
     # hr "Mmhmmm. Care to elaborate, [mcname]?"
-    hr "Mmhmmm. Care to elaborate, [mcname]?"
+    hr "Mmhmmm. Vuoi elaborare, [mcname]?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:900
 translate italian sm1ms029_talk_kv_hr_arj_d6b435a8:
 
     # mc "I mean... that's kind of all of it. AmRose didn't like that we had the data, but we had it."
-    mc "I mean... that's kind of all of it. AmRose didn't like that we had the data, but we had it."
+    mc "Voglio dire... è più o meno tutto qui. Ad AmRose non piaceva che avessimo i dati, ma li avevamo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:901
 translate italian sm1ms029_talk_kv_hr_arj_1f898eff:
 
     # mc "And... that's it."
-    mc "And... that's it."
+    mc "E... è tutto."
 
 # game/code/scenes/main_story/sm1ms029.rpy:904
 translate italian sm1ms029_talk_kv_hr_arj_f114e539:
 
     # hr "All right, all right. I won't pry."
-    hr "All right, all right. I won't pry."
+    hr "Va bene, va bene. Non farò domande."
 
 # game/code/scenes/main_story/sm1ms029.rpy:907
 translate italian sm1ms029_talk_kv_hr_arj_e3f5b33d:
 
     # mct "Oh man..."
-    mct "Oh man..."
+    mct "Oh cavolo..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:908
 translate italian sm1ms029_talk_kv_hr_arj_55c0cc3e:
 
     # mct "This is awkward."
-    mct "This is awkward."
+    mct "Questo è imbarazzante."
 
 # game/code/scenes/main_story/sm1ms029.rpy:911
 translate italian sm1ms029_talk_kv_hr_arj_90ca851a:
 
     # kv "Hey, [mcname]-"
-    kv "Hey, [mcname]-"
+    kv "Ehi, [mcname]-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:912
 translate italian sm1ms029_talk_kv_hr_arj_8aabc563:
@@ -2024,13 +2024,13 @@ translate italian sm1ms029_talk_kv_hr_arj_8aabc563:
 translate italian sm1ms029_talk_kv_hr_arj_a3ed8018:
 
     # mc "Have you met AmRose and Hana?"
-    mc "Have you met AmRose and Hana?"
+    mc "Hai conosciuto AmRose e Hana?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:916
 translate italian sm1ms029_talk_kv_hr_arj_450e28a2:
 
     # kv "Nope, can't say that I have."
-    kv "Nope, can't say that I have."
+    kv "No, non posso dire di averle conosciute."
 
 # game/code/scenes/main_story/sm1ms029.rpy:919
 translate italian sm1ms029_talk_kv_hr_arj_f1a909c5:
@@ -2042,7 +2042,7 @@ translate italian sm1ms029_talk_kv_hr_arj_f1a909c5:
 translate italian sm1ms029_talk_kv_hr_arj_9c6e9a88:
 
     # hr "Pleasure."
-    hr "Pleasure."
+    hr "Piacere."
 
 # game/code/scenes/main_story/sm1ms029.rpy:922
 translate italian sm1ms029_talk_kv_hr_arj_ce75a466:
@@ -2054,19 +2054,19 @@ translate italian sm1ms029_talk_kv_hr_arj_ce75a466:
 translate italian sm1ms029_talk_kv_hr_arj_b9a60c20:
 
     # kv "{size=*0.7}Everything okay?{/size}"
-    kv "{size=*0.7}Everything okay?{/size}"
+    kv "{size=*0.7}Tutto okay?{/size}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:928
 translate italian sm1ms029_talk_kv_hr_arj_f03a3c27:
 
     # mc "{size=*0.7}Yeah, just need some back-up.{/size}"
-    mc "{size=*0.7}Yeah, just need some back-up.{/size}"
+    mc "{size=*0.7}Sì, ho solo bisogno di un po' di supporto.{/size}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:931
 translate italian sm1ms029_talk_kv_hr_arj_6fe079b7:
 
     # mc "Kanya is our director of photography! She's shot most, if not all of S&M Studio videos!"
-    mc "Kanya is our director of photography! She's shot most, if not all of S&M Studio videos!"
+    mc "Kanya è il nostro direttore della fotografia! Ha girato la maggior parte, se non tutti i video di S&M Studio!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:932
 translate italian sm1ms029_talk_kv_hr_arj_d54ef43f:
@@ -2078,25 +2078,25 @@ translate italian sm1ms029_talk_kv_hr_arj_d54ef43f:
 translate italian sm1ms029_talk_kv_hr_arj_eb0b3718:
 
     # hr "How'd you get connected to [mcname]?"
-    hr "How'd you get connected to [mcname]?"
+    hr "Come sei entrata in contatto con [mcname]?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:937
 translate italian sm1ms029_talk_kv_hr_arj_db017317:
 
     # kv "He found me! Told me what he was doing, and I was interested.{w} I've wanted an excuse to get into film."
-    kv "He found me! Told me what he was doing, and I was interested.{w} I've wanted an excuse to get into film."
+    kv "Mi ha trovato! Mi ha detto cosa stava facendo, ed ero interessata.{w} Volevo una scusa per entrare nel cinema."
 
 # game/code/scenes/main_story/sm1ms029.rpy:938
 translate italian sm1ms029_talk_kv_hr_arj_c0e307cc:
 
     # kv "[mcname] gave me the perfect excuse!"
-    kv "[mcname] gave me the perfect excuse!"
+    kv "[mcname] mi ha dato la scusa perfetta!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:940
 translate italian sm1ms029_talk_kv_hr_arj_d50dee04:
 
     # kv "And it helps that they're both super hot, and making super hot content."
-    kv "And it helps that they're both super hot, and making super hot content."
+    kv "E aiuta che siano entrambi super attraenti, e creino contenuti super sexy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:943
 translate italian sm1ms029_talk_kv_hr_arj_e2c5a007:
@@ -2108,19 +2108,19 @@ translate italian sm1ms029_talk_kv_hr_arj_e2c5a007:
 translate italian sm1ms029_talk_kv_hr_arj_0ffe1250:
 
     # kv "Are you two aspiring actresses? Is that why you're here?"
-    kv "Are you two aspiring actresses? Is that why you're here?"
+    kv "Siete aspiranti attrici voi due? È per questo che siete qui?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:949
 translate italian sm1ms029_talk_kv_hr_arj_911c149e:
 
     # hr "God, no."
-    hr "God, no."
+    hr "Dio, no."
 
 # game/code/scenes/main_story/sm1ms029.rpy:950
 translate italian sm1ms029_talk_kv_hr_arj_2432f384:
 
     # arj "I don't think I'm, uhm-"
-    arj "I don't think I'm, uhm-"
+    arj "Non penso di essere, uhm-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:952
 translate italian sm1ms029_talk_kv_hr_arj_c0c8ddae:
