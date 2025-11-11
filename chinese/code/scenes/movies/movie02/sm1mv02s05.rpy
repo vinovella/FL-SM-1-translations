@@ -590,487 +590,487 @@ translate chinese sm1mv02s05_6e55981d:
 translate chinese sm1mv02s05_e42f72a4:
 
     # tl "It's no biggy. We should have had you hang around the theater for a bit, Nari."
-    tl "It's no biggy. We should have had you hang around the theater for a bit, Nari."
+    tl "这没什么大不了的。我们刚才真该让你在剧院多待一会儿的，娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:363
 translate chinese sm1mv02s05_fd58ab9f:
 
     # tl "Everyone gets naked there all the time."
-    tl "Everyone gets naked there all the time."
+    tl "那里的人整天都光着身子。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:364
 translate chinese sm1mv02s05_dbb61bb1:
 
     # tl "You barely even notice it."
-    tl "You barely even notice it."
+    tl "你待久了根本就不会注意到这事。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:367
 translate chinese sm1mv02s05_dbd81ba2_1:
 
     # ns "Okay."
-    ns "Okay."
+    ns "好吧。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:376
 translate chinese sm1mv02s05_0eda839e:
 
     # ns "Well, this is me."
-    ns "Well, this is me."
+    ns "呃，我就是这样。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:379
 translate chinese sm1mv02s05_d8d7bcb4:
 
     # tl "Damn right it is."
-    tl "Damn right it is."
+    tl "说得太对了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:380
 translate chinese sm1mv02s05_def1efe4:
 
     # tl "Let's get to work."
-    tl "Let's get to work."
+    tl "我们开始工作吧。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:383
 translate chinese sm1mv02s05_ae3d4298:
 
     # tl "Help a sister out, [mcname]."
-    tl "Help a sister out, [mcname]."
+    tl "帮老妹一把，[mcname]。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:386
 translate chinese sm1mv02s05_1483fb5c:
 
     # mc "I don't know what to do."
-    mc "I don't know what to do."
+    mc "我不知道该做什么。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:389
 translate chinese sm1mv02s05_b007a4ef:
 
     # tl "Don't be a dummy. This is just the first layer of dark gray."
-    tl "Don't be a dummy. This is just the first layer of dark gray."
+    tl "别犯傻。这只是第一层深灰色。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:390
 translate chinese sm1mv02s05_89cae78c:
 
     # tl "You can't screw it up."
-    tl "You can't screw it up."
+    tl "你不可能搞砸的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:394
 translate chinese sm1mv02s05_6651ab87:
 
     # mc "Alright."
-    mc "Alright."
+    mc "好吧。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:399
 translate chinese sm1mv02s05_128a537c:
 
     # ns "Hehe."
-    ns "Hehe."
+    ns "嘿嘿。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:403
 translate chinese sm1mv02s05_a8e9b060:
 
     # tl "Hehe."
-    tl "Hehe."
+    tl "嘿嘿。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:426
 translate chinese sm1mv02s05_4ca98dc9:
 
     # tl "Alright. Looks like everything is ready."
-    tl "Alright. Looks like everything is ready."
+    tl "好了。看起来一切都准备好了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:429
 translate chinese sm1mv02s05_4d892494:
 
     # mc "Feeling alright, Nari?"
-    mc "Feeling alright, Nari?"
+    mc "感觉还好吗，娜丽？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:432
 translate chinese sm1mv02s05_104b843c:
 
     # ns "Um... I guess?"
-    ns "Um... I guess?"
+    ns "嗯...大概吧？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:433
 translate chinese sm1mv02s05_90c5c6d4:
 
     # ns "It really is like a second skin now."
-    ns "It really is like a second skin now."
+    ns "现在它真的像第二层皮肤了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:436
 translate chinese sm1mv02s05_97c9ec0c:
 
     # mc "It's going to look great on film."
-    mc "It's going to look great on film."
+    mc "在电影里看起来一定很棒。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:440
 translate chinese sm1mv02s05_78dcc8e1:
 
     # mc "Speaking of which, I think Taisia and I need to get ready for filming."
-    mc "Speaking of which, I think Taisia and I need to get ready for filming."
+    mc "说到这个，我觉得泰西娅和我需要去为拍摄做准备了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:444
 translate chinese sm1mv02s05_e8a273a2:
 
     # mc "See you on set, Nari."
-    mc "See you on set, Nari."
+    mc "片场见，娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:447
 translate chinese sm1mv02s05_ac980b19:
 
     # ns "Aye, Captain."
-    ns "Aye, Captain."
+    ns "是，舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:458
 translate chinese sm1mv02s05_52ae72c8:
 
     # kv "Alright.{w} Time to clock in, everyone."
-    kv "Alright.{w} Time to clock in, everyone."
+    kv "好了。{w}各位，该开工了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:461
 translate chinese sm1mv02s05_5ad5ea99:
 
     # mc "Wait, I had a question."
-    mc "Wait, I had a question."
+    mc "等等，我有个问题。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:464
 translate chinese sm1mv02s05_39446fe4:
 
     # kv "Shoot."
-    kv "Shoot."
+    kv "说。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:467
 translate chinese sm1mv02s05_0ae18bae:
 
     # mc "What's with the dummy props?"
-    mc "What's with the dummy props?"
+    mc "这些仿真道具是干什么用的？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:470
 translate chinese sm1mv02s05_b2a20b93:
 
     # kv "Oh. Stacy can explain."
-    kv "Oh. Stacy can explain."
+    kv "哦。史黛西可以解释。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:476
 translate chinese sm1mv02s05_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "嗯？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:480
 translate chinese sm1mv02s05_d43922a1:
 
     # sy "Well, if it was just the four of us, our ship would look super empty."
-    sy "Well, if it was just the four of us, our ship would look super empty."
+    sy "嗯，如果只有我们四个人，飞船看起来就会非常空荡。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:481
 translate chinese sm1mv02s05_a25d9d84:
 
     # sy "So Taisia and I went dumpster diving for mannequins from the sex shop and other places around town."
-    sy "So Taisia and I went dumpster diving for mannequins from the sex shop and other places around town."
+    sy "所以泰西娅和我从情趣商店和镇里其他地方的垃圾箱里捡来了这些人体模型。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:484
 translate chinese sm1mv02s05_3c7e93b5:
 
     # sy "We cleaned them up and then we can position them on set."
-    sy "We cleaned them up and then we can position them on set."
+    sy "我们确保都清理干净了，然后把它们布置在片场上。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:485
 translate chinese sm1mv02s05_cdc8fd60:
 
     # sy "Later on in post, I'll go through and replace them with some basic 3d models I found."
-    sy "Later on in post, I'll go through and replace them with some basic 3d models I found."
+    sy "后期制作时，我会把它们替换成我找到的一些基础3D模型。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:492
 translate chinese sm1mv02s05_9fb527b9:
 
     # mes "Not bad, but will it really hold up?"
-    mes "Not bad, but will it really hold up?"
+    mes "不错，但这真的能行吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:495
 translate chinese sm1mv02s05_1885ef8f:
 
     # sy "It will, trust me."
-    sy "It will, trust me."
+    sy "能行的，相信我。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:499
 translate chinese sm1mv02s05_d085fe03:
 
     # mh "Excellent thinking, Stacy."
-    mh "Excellent thinking, Stacy."
+    mh "想法很棒，史黛西。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:503
 translate chinese sm1mv02s05_418954ee:
 
     # mc "Alright. Punch it."
-    mc "Alright. Punch it."
+    mc "好了。开始吧。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:508
 translate chinese sm1mv02s05_cf6d2a3f:
 
     # kv "And... action!"
-    kv "And... action!"
+    kv "准备...开拍！"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:548
 translate chinese sm1mv02s05_movie_start_b4325b1a:
 
     # sy "Captain Hornstar, sensors are picking up something on the third planet from the sun."
-    sy "Captain Hornstar, sensors are picking up something on the third planet from the sun."
+    sy "霍斯塔舰长，传感器在太阳系第三颗行星探测到异常。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:551
 translate chinese sm1mv02s05_movie_start_c15add4d:
 
     # mc "Put it on the screen, Lieutenant Orion."
-    mc "Put it on the screen, Lieutenant Orion."
+    mc "把它放到主屏幕上，奥里昂中尉。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:557
 translate chinese sm1mv02s05_movie_start_e162205a:
 
     # mc "Analysis Commander Spectre."
-    mc "Analysis Commander Spectre."
+    mc "进行分析，斯佩克指挥官。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:565
 translate chinese sm1mv02s05_movie_start_fb732c6b:
 
     # mhmes "It appears to be an M-class planet."
-    mhmes "It appears to be an M-class planet."
+    mhmes "它看起来像是一颗M级行星。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:566
 translate chinese sm1mv02s05_movie_start_eda22b6a:
 
     # mhmes "There is a local population, humanoid. Their technological captivity suggests that they are nearing the advent of their post-industrial age."
-    mhmes "There is a local population, humanoid. Their technological captivity suggests that they are nearing the advent of their post-industrial age."
+    mhmes "那里有本地人口，类人形态。他们的科技水平表明他们正接近后工业时代的开端。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:572
 translate chinese sm1mv02s05_movie_start_bc438a44:
 
     # mc "Any sign of the Kasaru {i}Windblade{/i} hiding somewhere on the surface?"
-    mc "Any sign of the Kasaru {i}Windblade{/i} hiding somewhere on the surface?"
+    mc "有没有卡萨鲁人的{i}风刃号{/i}藏在星球表面的迹象？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:573
 translate chinese sm1mv02s05_movie_start_0c94f65c:
 
     # mc "It would be perfectly like them to hide after that raid on Dantu."
-    mc "It would be perfectly like them to hide after that raid on Dantu."
+    mc "在丹图星的那次袭击之后，他们完全有可能躲藏起来。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:580
 translate chinese sm1mv02s05_movie_start_a607d849:
 
     # sy "Captain. There are traces of Dickium in the system, but all signs suggest the Kasaru ship is no longer in the system."
-    sy "Captain. There are traces of Dickium in the system, but all signs suggest the Kasaru ship is no longer in the system."
+    sy "舰长。星系内存在迪基姆元素痕迹，但所有迹象都表明，卡萨鲁飞船已不在本星系。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:584
 translate chinese sm1mv02s05_movie_start_e8abc7ee:
 
     # mc "That Dickium trace is more than average. If they're leaking, they might be damaged."
-    mc "That Dickium trace is more than average. If they're leaking, they might be damaged."
+    mc "迪基姆泄漏量超出平均值。既然泄漏出来了，说明他们可能受损。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:591
 translate chinese sm1mv02s05_movie_start_4783da26:
 
     # mc "Commander Spectre, read through all the data of the planet again while we prepare the jump drive."
-    mc "Commander Spectre, read through all the data of the planet again while we prepare the jump drive."
+    mc "斯佩克指挥官，趁我们准备跃迁驱动时，重新核查该行星的所有数据。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:594
 translate chinese sm1mv02s05_movie_start_b5d6b601:
 
     # mc "Orion, isolate any patterns to find us their most likely destination."
-    mc "Orion, isolate any patterns to find us their most likely destination."
+    mc "奥里昂，隔离所有模式，找出他们最可能的目的地。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:595
 translate chinese sm1mv02s05_movie_start_b7eb9260:
 
     # mc "Lieutenant Solo."
-    mc "Lieutenant Solo."
+    mc "索罗中尉。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:596
 translate chinese sm1mv02s05_movie_start_7363e50f:
 
     # mc "Prepare a jump in case of trouble."
-    mc "Prepare a jump in case of trouble."
+    mc "以防万一，准备好紧急跳跃。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:600
 translate chinese sm1mv02s05_movie_start_8608023f:
 
     # tl "Captain, the jump drive spools are not responding to my commands."
-    tl "Captain, the jump drive spools are not responding to my commands."
+    tl "舰长，跃迁引擎的线轴没有响应我的指令。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:603
 translate chinese sm1mv02s05_movie_start_e526a903:
 
     # mc "Hmmm."
-    mc "Hmmm."
+    mc "嗯。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:604
 translate chinese sm1mv02s05_movie_start_3d2310fa:
 
     # mc "Are the reactor condensors giving us trouble again?"
-    mc "Are the reactor condensors giving us trouble again?"
+    mc "是反应堆冷凝器又出问题了吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:608
 translate chinese sm1mv02s05_movie_start_f4a58302:
 
     # tl "Negative. Engineering reports are in the green."
-    tl "Negative. Engineering reports are in the green."
+    tl "不是。工程部门报告一切正常。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:611
 translate chinese sm1mv02s05_movie_start_1fe7451b:
 
     # mc "Bring the ship to yellow alert. I don't like this one bit."
-    mc "Bring the ship to yellow alert. I don't like this one bit."
+    mc "将飞船提升至黄色警报。我一点也不喜欢这种情况。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:618
 translate chinese sm1mv02s05_movie_start_11e4e07a:
 
     # mc "Good. We don't want to get caught with our pants down."
-    mc "Good. We don't want to get caught with our pants down."
+    mc "很好，我们可不想慌得连裤子都来不及提。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:625
 translate chinese sm1mv02s05_movie_start_c0d2fd19:
 
     # mhmes "In my experience, that situation always leads to some interesting experiments."
-    mhmes "In my experience, that situation always leads to some interesting experiments."
+    mhmes "根据我的经验，那种来不及提裤子的情况...最后总会发展成有趣的实践。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:636
 translate chinese sm1mv02s05_movie_start_31651bfa:
 
     # mhmes "Captain, my additional analysis of the planet has registered a curiosity."
-    mhmes "Captain, my additional analysis of the planet has registered a curiosity."
+    mhmes "舰长，我对该行星的补充分析发现了一个异常现象。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:637
 translate chinese sm1mv02s05_movie_start_bbcd0f37:
 
     # mhmes "It may be the source of our jump drive inability."
-    mhmes "It may be the source of our jump drive inability."
+    mhmes "它可能是我们跃迁引擎失灵的原因。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:640
 translate chinese sm1mv02s05_movie_start_775244ac:
 
     # mc "Looks like we're going boots on the ground."
-    mc "Looks like we're going boots on the ground."
+    mc "看来我们需要登陆实地考察了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:651
 translate chinese sm1mv02s05_movie_start_a7eaec64:
 
     # mc "Just like home. Except for the purple, the potentially noxious fumes, and crystaline structures."
-    mc "Just like home. Except for the purple, the potentially noxious fumes, and crystaline structures."
+    mc "简直跟老家一模一样。除了紫色的天空、可能有毒的大气，还有这些水晶结构。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:659
 translate chinese sm1mv02s05_movie_start_b57a763b:
 
     # mc "Come on, Commander. Don't forget, we get our explorers badge if we walk on forty-seven more planets."
-    mc "Come on, Commander. Don't forget, we get our explorers badge if we walk on forty-seven more planets."
+    mc "动作快点儿，指挥官。别忘了我们再踏足四十七颗星球，就能拿到‘银河探索者’徽章了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:662
 translate chinese sm1mv02s05_movie_start_aa7d2b11:
 
     # sy "Badges? We don't need no stinking badges."
-    sy "Badges? We don't need no stinking badges."
+    sy "徽章？我们才不需要什么臭徽章。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:671
 translate chinese sm1mv02s05_movie_start_1fd586af:
 
     # mc "Lieutenant, move to the right. Cover me."
-    mc "Lieutenant, move to the right. Cover me."
+    mc "中尉，向右移动。掩护我。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:678
 translate chinese sm1mv02s05_movie_start_1c9941c4:
 
     # mc "*whispers* Hornstar to Intrepid."
-    mc "*whispers* Hornstar to Intrepid."
+    mc "*低语* 霍斯塔呼叫无畏号。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:683
 translate chinese sm1mv02s05_movie_start_106f1a14:
 
     # mhmes "Reading you, Captain."
-    mhmes "Reading you, Captain."
+    mhmes "收到信号，舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:693
 translate chinese sm1mv02s05_movie_start_f5804b10:
 
     # ns "*alien language*"
-    ns "*alien language*"
+    ns "*外星语*"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:696
 translate chinese sm1mv02s05_movie_start_8fa18602:
 
     # mc "So much for my stealth roll."
-    mc "So much for my stealth roll."
+    mc "我的潜行判定算是失败了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:700
 translate chinese sm1mv02s05_movie_start_f5804b10_1:
 
     # ns "*alien language*"
-    ns "*alien language*"
+    ns "*外星语*"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:704
 translate chinese sm1mv02s05_movie_start_72d41145:
 
     # mc "It's alright. I mean you no harm."
-    mc "It's alright. I mean you no harm."
+    mc "没关系。我无意伤害你。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:705
 translate chinese sm1mv02s05_movie_start_17a6b84d:
 
     # mc "I'm an explorer."
-    mc "I'm an explorer."
+    mc "我是位探险家。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:708
 translate chinese sm1mv02s05_movie_start_f5804b10_2:
 
     # ns "*alien language*"
-    ns "*alien language*"
+    ns "*外星语*"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:712
 translate chinese sm1mv02s05_movie_start_13b3a2de:
 
     # mc "*whispers* Commander Spectre, how is that universal translator patch coming?"
-    mc "*whispers* Commander Spectre, how is that universal translator patch coming?"
+    mc "*低语* 斯佩克指挥官，万能翻译补丁进度如何？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:718
 translate chinese sm1mv02s05_movie_start_270b34e9:
 
     # mhmes "Working Captain."
-    mhmes "Working Captain."
+    mhmes "正在处理，舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:722
 translate chinese sm1mv02s05_movie_start_329be88a:
 
     # sy "Get back."
-    sy "Get back."
+    sy "退后。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:725
 translate chinese sm1mv02s05_movie_start_26eb856e:
 
     # mc "Work faster, Commander."
-    mc "Work faster, Commander."
+    mc "加快进度，指挥官。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:728
 translate chinese sm1mv02s05_movie_start_abe8ea70:
 
     # mc "Stand down, Number One. She's not hostile.{w} I don't think."
-    mc "Stand down, Number One. She's not hostile.{w} I don't think."
+    mc "别冲动，一号副官。她不是敌人。{w}至少我觉得不是。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:731
 translate chinese sm1mv02s05_movie_start_516feb46:
 
     # sy "Can't take the chance, Captain. That machine she came from could be anchoring us here and the Kasaru could hit us and we'd be stuck here."
-    sy "Can't take the chance, Captain. That machine she came from could be anchoring us here and the Kasaru could hit us and we'd be stuck here."
+    sy "不能冒险，舰长。她出来的那台机器可能把我们锚定在这里，卡萨鲁人也可能会袭击我们，那我们就被困在这里了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:735
 translate chinese sm1mv02s05_movie_start_54c88288:
 
     # mc "That bad news will keep. Stand down, Orion."
-    mc "That bad news will keep. Stand down, Orion."
+    mc "坏消息可以等等再说。退下，奥里昂。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:739
 translate chinese sm1mv02s05_movie_start_2d8db469:
 
     # sy "I have a bad feeling about this."
-    sy "I have a bad feeling about this."
+    sy "我总有种不好的预感。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:747
 translate chinese sm1mv02s05_movie_start_6130f1a2:
 
     # mhmes "Patch enabled."
-    mhmes "Patch enabled."
+    mhmes "补丁已启用。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:748
 translate chinese sm1mv02s05_movie_start_703a6189:
@@ -2408,11 +2408,11 @@ translate chinese sm1mv02s05_46f309b4:
 translate chinese sm1mv02s05_b132ad51:
 
     # ns "It's a little cold. And the bristles tickle my nipples."
-    ns "It's a little cold. And the bristles tickle my nipples."
+    ns "有点凉。刷毛弄得我乳头痒痒的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:513
 translate chinese sm1mv02s05_710d2cab:
 
     # sy "They won't look perfect up close, but from a distance, it will look like our ship is a fully crewed vessel."
-    sy "They won't look perfect up close, but from a distance, it will look like our ship is a fully crewed vessel."
+    sy "近看可能不会很完美，但从远处看，它会让我们的飞船看起来像是满员航行。"
 
