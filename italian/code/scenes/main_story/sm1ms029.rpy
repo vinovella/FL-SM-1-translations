@@ -5654,31 +5654,31 @@ translate italian sm1ms029_party_arj_fa15121a:
 translate italian sm1ms029_party_arj_69552226:
 
     # mc "You just relax now."
-    mc "You just relax now."
+    mc "Rilassati ora."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2068
 translate italian sm1ms029_party_arj_49ef5417:
 
     # sy "A little refresher."
-    sy "A little refresher."
+    sy "Un piccolo rinfresco."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2070
 translate italian sm1ms029_party_arj_a82cce1d:
 
     # mc "You're a lifesaver."
-    mc "You're a lifesaver."
+    mc "Sei una salvatrice."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2074
 translate italian sm1ms029_party_arj_dc317f81:
 
     # mc "I should probably get dressed again."
-    mc "I should probably get dressed again."
+    mc "Probabilmente dovrei rivestirmi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2076
 translate italian sm1ms029_party_arj_73b2edbd:
 
     # sy "Yeah. Next party can just be a full nudity party."
-    sy "Yeah. Next party can just be a full nudity party."
+    sy "Sì. La prossima festa può essere semplicemente una festa di nudità completa."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2077
 translate italian sm1ms029_party_arj_1f5b224d:
@@ -5690,7 +5690,7 @@ translate italian sm1ms029_party_arj_1f5b224d:
 translate italian sm1ms029_confrontation_478920fb:
 
     # "?" "The man of the hour."
-    "?" "The man of the hour."
+    "?" "L'uomo del momento."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2088
 translate italian sm1ms029_confrontation_2b35b6fe:
@@ -5702,13 +5702,13 @@ translate italian sm1ms029_confrontation_2b35b6fe:
 translate italian sm1ms029_confrontation_c01c5a09:
 
     # mc "I do have that pleasure."
-    mc "I do have that pleasure."
+    mc "Ho questo piacere."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2093
 translate italian sm1ms029_confrontation_8ed4cb67:
 
     # mc "But I share it with my sister."
-    mc "But I share it with my sister."
+    mc "Ma lo condivido con mia sorella."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2094
 translate italian sm1ms029_confrontation_663aec39:
@@ -5720,7 +5720,7 @@ translate italian sm1ms029_confrontation_663aec39:
 translate italian sm1ms029_confrontation_2ab24a76:
 
     # mc "But I share it with my girlfriend."
-    mc "But I share it with my girlfriend."
+    mc "Ma lo condivido con la mia ragazza."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2097
 translate italian sm1ms029_confrontation_b4259619:
@@ -5732,19 +5732,19 @@ translate italian sm1ms029_confrontation_b4259619:
 translate italian sm1ms029_confrontation_32f05074:
 
     # sy "I uh... I don't think I recognize you two."
-    sy "I uh... I don't think I recognize you two."
+    sy "Io uh... Non penso di riconoscervi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2102
 translate italian sm1ms029_confrontation_1dcbf6e6:
 
     # "?" "Really? I would have hoped my face came up in your research."
-    "?" "Really? I would have hoped my face came up in your research."
+    "?" "Davvero? Speravo che il mio volto fosse emerso nelle tue ricerche."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2103
 translate italian sm1ms029_confrontation_62cac449:
 
     # "?" "Or perhaps you only know by body."
-    "?" "Or perhaps you only know by body."
+    "?" "O forse mi conosci solo di corpo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2105
 translate italian sm1ms029_confrontation_8114a09f:
@@ -5762,109 +5762,109 @@ translate italian sm1ms029_confrontation_99674341:
 translate italian sm1ms029_confrontation_1171c03c:
 
     # "?" "This is Carmel Blaise, my right hand."
-    "?" "This is Carmel Blaise, my right hand."
+    "?" "Questa è Carmel Blaise, la mia mano destra."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2110
 translate italian sm1ms029_confrontation_1a56837d:
 
     # mc "And who does that make you?"
-    mc "And who does that make you?"
+    mc "E questo chi ti rende?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2112
 translate italian sm1ms029_confrontation_37223229:
 
     # "?" "Just a humble businessman."
-    "?" "Just a humble businessman."
+    "?" "Solo un umile uomo d'affari."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2114
 translate italian sm1ms029_confrontation_c390860c:
 
     # et "Ethan Foxmorr, president and founder of Foxmorr Films."
-    et "Ethan Foxmorr, president and founder of Foxmorr Films."
+    et "Ethan Foxmorr, presidente e fondatore di Foxmorr Films."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2116
 translate italian sm1ms029_confrontation_068bfdf9:
 
     # sy "Foxmorr Films? You guys always have half of the top ten movie slots on Porn Cave."
-    sy "Foxmorr Films? You guys always have half of the top ten movie slots on Porn Cave."
+    sy "Foxmorr Films? Voi ragazzi avete sempre metà dei primi dieci posti su Porn Cave."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2118
 translate italian sm1ms029_confrontation_c83907dd:
 
     # sy "Now I see it. Carmel Blaise.{w}You're the top pornstar of Foxmorr Films."
-    sy "Now I see it. Carmel Blaise.{w}You're the top pornstar of Foxmorr Films."
+    sy "Ora capisco. Carmel Blaise.{w}Sei la pornostar più famosa di Foxmorr Films."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2119
 translate italian sm1ms029_confrontation_897a7ac8:
 
     # sy "You're amazing."
-    sy "You're amazing."
+    sy "Sei fantastica."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2121
 translate italian sm1ms029_confrontation_367b8aa9:
 
     # cb "Why, thank you, Stacy."
-    cb "Why, thank you, Stacy."
+    cb "Ma grazie, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2122
 translate italian sm1ms029_confrontation_f1711534:
 
     # cb "I try my best."
-    cb "I try my best."
+    cb "Faccio del mio meglio."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2124
 translate italian sm1ms029_confrontation_25757071:
 
     # mc "Well, it's a pleasure to have two big shots in our home. But I don't think we invited you."
-    mc "Well, it's a pleasure to have two big shots in our home. But I don't think we invited you."
+    mc "Beh, è un piacere avere due pezzi grossi a casa nostra. Ma non credo di avervi invitato."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2126
 translate italian sm1ms029_confrontation_79ae43d0:
 
     # et "I have a confession.{w} We snuck in."
-    et "I have a confession.{w} We snuck in."
+    et "Ho una confessione.{w} Ci siamo intrufolati."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2128
 translate italian sm1ms029_confrontation_ba6bebb5:
 
     # sy "Haha. Classic party move."
-    sy "Haha. Classic party move."
+    sy "Haha. Classica mossa da festa."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2130
 translate italian sm1ms029_confrontation_a031b0ee:
 
     # mc "And why did you sneak in?"
-    mc "And why did you sneak in?"
+    mc "E perché vi siete intrufolati?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2133
 translate italian sm1ms029_confrontation_b5c3b527:
 
     # et "I wanted to take the measure of you, [mcname]."
-    et "I wanted to take the measure of you, [mcname]."
+    et "Volevo prenderti le misure, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2134
 translate italian sm1ms029_confrontation_9786875a:
 
     # et "Our business might be the porn business, but that doesn't mean it requires anything less than our best."
-    et "Our business might be the porn business, but that doesn't mean it requires anything less than our best."
+    et "Il nostro business potrebbe essere quello del porno, ma ciò non significa che richieda qualcosa di meno del nostro meglio."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2135
 translate italian sm1ms029_confrontation_257a2740:
 
     # et "Wouldn't you agree?"
-    et "Wouldn't you agree?"
+    et "Non sei d'accordo?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2140
 translate italian sm1ms029_confrontation_db46c36a:
 
     # mc "Yes, I guess."
-    mc "Yes, I guess."
+    mc "Sì, immagino."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2145
 translate italian sm1ms029_confrontation_7c3d29c3:
 
     # mc "I don't usually agree with intruders."
-    mc "I don't usually agree with intruders."
+    mc "Di solito non sono d'accordo con gli intrusi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2146
 translate italian sm1ms029_confrontation_3cdb8089:
@@ -5876,91 +5876,91 @@ translate italian sm1ms029_confrontation_3cdb8089:
 translate italian sm1ms029_confrontation_cef53bf7:
 
     # mc "Why don't you save some time and get to your point?"
-    mc "Why don't you save some time and get to your point?"
+    mc "Perché non risparmi tempo e vai al punto?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2153
 translate italian sm1ms029_confrontation_c0fcaceb:
 
     # et "Like I said. I wanted to take the measure of you, [mcname]."
-    et "Like I said. I wanted to take the measure of you, [mcname]."
+    et "Come ho detto. Volevo prenderti le misure, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2158
 translate italian sm1ms029_confrontation_1e36a6be:
 
     # mc "Shall I pull out my dick, then?"
-    mc "Shall I pull out my dick, then?"
+    mc "Dovrei tirare fuori il mio cazzo, allora?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2161
 translate italian sm1ms029_confrontation_5db98e21:
 
     # et "That's not what I mean."
-    et "That's not what I mean."
+    et "Non è questo che intendo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2166
 translate italian sm1ms029_confrontation_e7b7569e:
 
     # mc "And why is that?"
-    mc "And why is that?"
+    mc "E perché?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2169
 translate italian sm1ms029_confrontation_235f506b:
 
     # et "Crowning is my home. It's given me many gifts."
-    et "Crowning is my home. It's given me many gifts."
+    et "Crowning è la mia casa. Mi ha dato molti doni."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2170
 translate italian sm1ms029_confrontation_920bca26:
 
     # et "When I started making porn, many in the city doubted I could make it big."
-    et "When I started making porn, many in the city doubted I could make it big."
+    et "Quando ho iniziato a fare porno, molti in città dubitavano che potessi farcela alla grande."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2171
 translate italian sm1ms029_confrontation_f8167a2c:
 
     # et "But I proved them wrong.{w} And now Foxmorr Films is one of the biggest businesses in the city."
-    et "But I proved them wrong.{w} And now Foxmorr Films is one of the biggest businesses in the city."
+    et "Ma ho dimostrato che avevano torto.{w} E ora Foxmorr Films è una delle attività più grandi della città."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2172
 translate italian sm1ms029_confrontation_00493fe4:
 
     # et "The company has made me a billionaire and made many outstanding individuals into top-tier talent that thousands of people watch every day."
-    et "The company has made me a billionaire and made many outstanding individuals into top-tier talent that thousands of people watch every day."
+    et "L'azienda mi ha reso miliardario e ha trasformato molte persone straordinarie in talenti di alto livello che migliaia di persone guardano ogni giorno."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2173
 translate italian sm1ms029_confrontation_6d21edd1:
 
     # et "But I remain humble, and always remember that Crowning deserves my help."
-    et "But I remain humble, and always remember that Crowning deserves my help."
+    et "Ma rimango umile e ricordo sempre che Crowning merita il mio aiuto."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2174
 translate italian sm1ms029_confrontation_e4f909f4:
 
     # et "It's for this simple reason that I stand before you today."
-    et "It's for this simple reason that I stand before you today."
+    et "È per questo semplice motivo che mi trovo davanti a voi oggi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2175
 translate italian sm1ms029_confrontation_80fc2791:
 
     # mc "What? You want to invest in us?"
-    mc "What? You want to invest in us?"
+    mc "Cosa? Vuoi investire in noi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2176
 translate italian sm1ms029_confrontation_dd5e72b3:
 
     # mc "Help us be successful like you?"
-    mc "Help us be successful like you?"
+    mc "Aiutarci ad avere successo come te?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2177
 translate italian sm1ms029_confrontation_cf7ed448:
 
     # et "Quite the opposite."
-    et "Quite the opposite."
+    et "Tutto il contrario."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2178
 translate italian sm1ms029_confrontation_3d877b57:
 
     # et "I want to buy you out."
-    et "I want to buy you out."
+    et "Voglio comprarvi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2179
 translate italian sm1ms029_confrontation_11455b53:
@@ -5972,181 +5972,181 @@ translate italian sm1ms029_confrontation_11455b53:
 translate italian sm1ms029_confrontation_b56db751:
 
     # sy "Buy us out?"
-    sy "Buy us out?"
+    sy "Comprarci?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2182
 translate italian sm1ms029_confrontation_b51b65e2:
 
     # et "If you please... {w}You two have done some amazing work."
-    et "If you please... {w}You two have done some amazing work."
+    et "Se permettete... {w}Voi due avete fatto un lavoro straordinario."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2183
 translate italian sm1ms029_confrontation_662ae26b:
 
     # et "I've been learning about you, seeing how S&M Studio came to be."
-    et "I've been learning about you, seeing how S&M Studio came to be."
+    et "Ho imparato molto su di voi, vedendo come è nato lo S&M Studio."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2185
 translate italian sm1ms029_confrontation_0020431e:
 
     # et "When I found out that it was just a brother and sister running things, without any formal business, education, I had to admit."
-    et "When I found out that it was just a brother and sister running things, without any formal business, education, I had to admit."
+    et "Quando ho scoperto che erano solo un fratello e una sorella a gestire le cose, senza alcuna formazione commerciale, ho dovuto ammettere."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2187
 translate italian sm1ms029_confrontation_63896cc6:
 
     # et "When I found out it was just two struggling people with no formal business education, I had to admit."
-    et "When I found out it was just two struggling people with no formal business education, I had to admit."
+    et "Quando ho scoperto che erano solo due persone in difficoltà senza formazione commerciale, ho dovuto ammettere."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2189
 translate italian sm1ms029_confrontation_409e62aa:
 
     # et "You two have done very well."
-    et "You two have done very well."
+    et "Voi due avete fatto molto bene."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2190
 translate italian sm1ms029_confrontation_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "Grazie."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2191
 translate italian sm1ms029_confrontation_37146546:
 
     # et "But I doubt think it will be enough."
-    et "But I doubt think it will be enough."
+    et "Ma dubito che sarà abbastanza."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2192
 translate italian sm1ms029_confrontation_d88a0e25:
 
     # et "Your films are fine, in that cute amateurish way."
-    et "Your films are fine, in that cute amateurish way."
+    et "I vostri film vanno bene, in quel modo amatoriale carino."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2193
 translate italian sm1ms029_confrontation_0bdff9c4:
 
     # et "But they'll never reach the heights of Nuttgrabbers II or Zero-Void Alien Babes."
-    et "But they'll never reach the heights of Nuttgrabbers II or Zero-Void Alien Babes."
+    et "Ma non raggiungeranno mai le vette di Nuttgrabbers II o Zero-Void Alien Babes."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2195
 translate italian sm1ms029_confrontation_fde8ccf7:
 
     # et "Foxmorr Films... on the other hand."
-    et "Foxmorr Films... on the other hand."
+    et "Foxmorr Films... d'altra parte."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2196
 translate italian sm1ms029_confrontation_25ec03b2:
 
     # et "We can take what you started and bring it to the next level."
-    et "We can take what you started and bring it to the next level."
+    et "Possiamo prendere ciò che avete iniziato e portarlo al livello successivo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2197
 translate italian sm1ms029_confrontation_0109d74c:
 
     # sy "So wait, you want us to work for you?"
-    sy "So wait, you want us to work for you?"
+    sy "Quindi aspetta, vuoi che lavoriamo per te?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2198
 translate italian sm1ms029_confrontation_589c57eb:
 
     # et "I would offer that, but I fear that there would be a culture clash. I prefer clean breaks when I can get them."
-    et "I would offer that, but I fear that there would be a culture clash. I prefer clean breaks when I can get them."
+    et "Lo offrirei, ma temo che ci sarebbe uno scontro culturale. Preferisco rotture nette quando posso ottenerle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2199
 translate italian sm1ms029_confrontation_3609be94:
 
     # mc "So what does that mean?"
-    mc "So what does that mean?"
+    mc "Quindi cosa significa?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2200
 translate italian sm1ms029_confrontation_738967c2:
 
     # et "It means I'd like to buy S&M Studios from you. Outright."
-    et "It means I'd like to buy S&M Studios from you. Outright."
+    et "Significa che vorrei comprare S&M Studios da voi. Completamente."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2201
 translate italian sm1ms029_confrontation_02085c23:
 
     # et "You two get rich, and I pick up your studio and all the IPs you've made."
-    et "You two get rich, and I pick up your studio and all the IPs you've made."
+    et "Voi due diventate ricchi, e io prendo il vostro studio e tutte le proprietà intellettuali che avete creato."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2203
 translate italian sm1ms029_confrontation_62515388:
 
     # et "Everyone wins..."
-    et "Everyone wins..."
+    et "Tutti vincono..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2208
 translate italian sm1ms029_confrontation_1fe5fc2b:
 
     # mc "I don't think so."
-    mc "I don't think so."
+    mc "Non credo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2210
 translate italian sm1ms029_confrontation_98a4002d:
 
     # mc "Stacy and I have made it this far on our own."
-    mc "Stacy and I have made it this far on our own."
+    mc "Stacy ed io siamo arrivati fin qui da soli."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2211
 translate italian sm1ms029_confrontation_51be9e8c:
 
     # mc "We're not about to sell everything we've been busting our asses to make."
-    mc "We're not about to sell everything we've been busting our asses to make."
+    mc "Non stiamo per vendere tutto ciò per cui ci siamo fatti il culo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2214
 translate italian sm1ms029_confrontation_cb46a1af:
 
     # et "You haven't even heard how much I'm offering."
-    et "You haven't even heard how much I'm offering."
+    et "Non hai nemmeno sentito quanto sto offrendo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2216
 translate italian sm1ms029_confrontation_4687687c:
 
     # sy "You heard, [mcname]. The answer is no, Foxmorr."
-    sy "You heard, [mcname]. The answer is no, Foxmorr."
+    sy "Hai sentito, [mcname]. La risposta è no, Foxmorr."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2221
 translate italian sm1ms029_confrontation_fabc44e1:
 
     # mc "Thanks, but no thanks."
-    mc "Thanks, but no thanks."
+    mc "Grazie, ma no grazie."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2222
 translate italian sm1ms029_confrontation_f5359b4f:
 
     # mc "I think we'll keep doing our thing."
-    mc "I think we'll keep doing our thing."
+    mc "Penso che continueremo a fare le nostre cose."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2224
 translate italian sm1ms029_confrontation_c9bc1fbd:
 
     # sy "Yeah. And since you came here to try to buy us out, I bet your scared of our potential."
-    sy "Yeah. And since you came here to try to buy us out, I bet your scared of our potential."
+    sy "Sì. E dato che sei venuto qui per cercare di comprarci, scommetto che hai paura del nostro potenziale."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2225
 translate italian sm1ms029_confrontation_3eb00c27:
 
     # sy "Maybe we'll buy you one day."
-    sy "Maybe we'll buy you one day."
+    sy "Forse ti compreremo noi un giorno."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2232
 translate italian sm1ms029_confrontation_661a1f85:
 
     # mc "How much are we talking?"
-    mc "How much are we talking?"
+    mc "Di quanto stiamo parlando?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2233
 translate italian sm1ms029_confrontation_834b7352:
 
     # et "How does Seventy-Five Thousand sound?"
-    et "How does Seventy-Five Thousand sound?"
+    et "Che ne pensi di Settantacinquemila?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2235
 translate italian sm1ms029_confrontation_eda69769:
 
     # mc "Done!"
-    mc "Done!"
+    mc "Fatto!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2237
 translate italian sm1ms029_confrontation_2306b455:
