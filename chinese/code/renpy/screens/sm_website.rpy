@@ -48,3 +48,7 @@
     old "Tags"
     new "标签"
 
+    # game/code/renpy/screens/sm_website.rpy:82
+    old "Stop Movie"
+    new "停止影片"
+

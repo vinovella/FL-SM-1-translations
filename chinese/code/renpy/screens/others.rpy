@@ -36,3 +36,15 @@
     old "Please enter your HTTP Port number:"
     new "请输入您的 HTTP 端口："
 
+    # game/code/renpy/screens/others.rpy:7
+    old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
+    new "我们只收集匿名数据，以更好地了解哪些路径、角色、场景和恋物癖最受欢迎，并确定需要改进的领域。"
+
+    # game/code/renpy/screens/others.rpy:8
+    old "NO PERSONAL INFORMATION IS COLLECTED."
+    new "不收集任何个人信息。"
+
+    # game/code/renpy/screens/others.rpy:9
+    old "Would you like to enable this data collection?"
+    new "您想启用此数据收集吗？"
+
