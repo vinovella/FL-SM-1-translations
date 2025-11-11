@@ -392,25 +392,25 @@ translate chinese q_inter_sy_32_3359e9ff:
 translate chinese q_inter_sy_33_d8c59b20:
 
     # sy "Our second film got ordered. It's really happening for us."
-    sy "Our second film got ordered. It's really happening for us."
+    sy "我们的第二部电影被订购了。我们真的成功了。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:312
 translate chinese q_inter_sy_33_71e206da:
 
     # mc "Yeah. I'm excited to play with you as a naughty farmer's daughter."
-    mc "Yeah. I'm excited to play with you as a naughty farmer's daughter."
+    mc "是的。我很期待和你一起扮演淘气的农夫女儿。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:315
 translate chinese q_inter_sy_33_aab31592:
 
     # sy "We should have subverted the expectation, and made the story about the farmer's son losing his anal virginity."
-    sy "We should have subverted the expectation, and made the story about the farmer's son losing his anal virginity."
+    sy "我们应该颠覆期待，讲一个关于农夫儿子失去肛门处女的故事。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:316
 translate chinese q_inter_sy_33_94821369:
 
     # mc "Yeah so it would still be me fucking you in the ass though."
-    mc "Yeah so it would still be me fucking you in the ass though."
+    mc "是的，所以还是我操你的屁股。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:319
 translate chinese q_inter_sy_33_5c2c7bcf:
@@ -422,7 +422,7 @@ translate chinese q_inter_sy_33_5c2c7bcf:
 translate chinese q_inter_sy_33_3c30f8a5:
 
     # mc "Right? I'd still be in control?"
-    mc "Right? I'd still be in control?"
+    mc "对吧？我还是掌控着吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:321
 translate chinese q_inter_sy_33_5c2c7bcf_1:
@@ -434,281 +434,281 @@ translate chinese q_inter_sy_33_5c2c7bcf_1:
 translate chinese q_inter_sy_33_4e13fbc5:
 
     # mc "I'm scaroused."
-    mc "I'm scaroused."
+    mc "我既害怕又兴奋。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:327
 translate chinese q_inter_sy_34_c72d9db5:
 
     # sy "Make sure that you don't forget about our second film, [mcname]."
-    sy "Make sure that you don't forget about our second film, [mcname]."
+    sy "确保你别忘了我们的第二部电影，[mcname]。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:328
 translate chinese q_inter_sy_34_742c8716:
 
     # mc "I'm not."
-    mc "I'm not."
+    mc "我没忘。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:331
 translate chinese q_inter_sy_34_505e7c3d:
 
     # sy "We'll have to find some time to film it."
-    sy "We'll have to find some time to film it."
+    sy "我们得找时间拍摄。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:332
 translate chinese q_inter_sy_34_e6078d57:
 
     # sy "Oh and we need to ask Kanya over."
-    sy "Oh and we need to ask Kanya over."
+    sy "哦，我们还需要邀请康雅过来。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:333
 translate chinese q_inter_sy_34_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "明白了。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:338
 translate chinese q_inter_sy_35_8ae6b8dc:
 
     # sy "Can you believe it, [mcname]?"
-    sy "Can you believe it, [mcname]?"
+    sy "你能相信吗，[mcname]？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:339
 translate chinese q_inter_sy_35_0dc643e7:
 
     # mc "Believe what?"
-    mc "Believe what?"
+    mc "相信什么？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:342
 translate chinese q_inter_sy_35_a51acffd:
 
     # sy "We run a porn studio now!"
-    sy "We run a porn studio now!"
+    sy "我们现在经营一个色情工作室了！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:343
 translate chinese q_inter_sy_35_1a51579b:
 
     # mc "Yeah, we do!"
-    mc "Yeah, we do!"
+    mc "是的，我们确实在做！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:346
 translate chinese q_inter_sy_35_95d62022:
 
     # sy "I just can't believe it!"
-    sy "I just can't believe it!"
+    sy "我简直不敢相信！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:351
 translate chinese q_inter_sy_36_d3179d59:
 
     # sy "How do you like living with Nari?"
-    sy "How do you like living with Nari?"
+    sy "你喜欢和娜丽一起住吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:352
 translate chinese q_inter_sy_36_f2b84ff5:
 
     # mc "She's quiet, but bubbly. Weird mix."
-    mc "She's quiet, but bubbly. Weird mix."
+    mc "她很安静，但又活泼。奇怪的组合。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:353
 translate chinese q_inter_sy_36_f70fbbc5:
 
     # mc "But, she is a delight to have around!"
-    mc "But, she is a delight to have around!"
+    mc "但是，有她在身边真是太好了！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:356
 translate chinese q_inter_sy_36_46726dcd:
 
     # sy "She is! She's absolutely adorable."
-    sy "She is! She's absolutely adorable."
+    sy "是的！她绝对可爱。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:357
 translate chinese q_inter_sy_36_92c597a1:
 
     # sy "I'm super happy she moved in with us."
-    sy "I'm super happy she moved in with us."
+    sy "我超级高兴她搬来和我们一起住。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:358
 translate chinese q_inter_sy_36_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "我也是。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:363
 translate chinese q_inter_sy_37_7a1c5ceb:
 
     # sy "What do you think of Taisia living here?"
-    sy "What do you think of Taisia living here?"
+    sy "你觉得泰西娅住在这里怎么样？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:364
 translate chinese q_inter_sy_37_4ae4015c:
 
     # mc "I think it's great."
-    mc "I think it's great."
+    mc "我觉得很好。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:367
 translate chinese q_inter_sy_37_f77935f1:
 
     # sy "Good. That was the right answer."
-    sy "Good. That was the right answer."
+    sy "很好。这是正确答案。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:368
 translate chinese q_inter_sy_37_4d1c76b0:
 
     # mc "I'm guessing you like that she's here too?"
-    mc "I'm guessing you like that she's here too?"
+    mc "我猜你也喜欢她在这里？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:371
 translate chinese q_inter_sy_37_17ee276e:
 
     # sy "Uh huh! She's bad ass, super hot, and you know what the best part is?"
-    sy "Uh huh! She's bad ass, super hot, and you know what the best part is?"
+    sy "嗯哼！她很酷，超级性感，你知道最棒的部分是什么吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:372
 translate chinese q_inter_sy_37_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:375
 translate chinese q_inter_sy_37_3a12d63d:
 
     # sy "Clown pussy!"
-    sy "Clown pussy!"
+    sy "小丑阴部！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:376
 translate chinese q_inter_sy_37_6b2595e6:
 
     # mc "Jesus Christ..."
-    mc "Jesus Christ..."
+    mc "我的天..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:381
 translate chinese q_inter_sy_38_0d410548:
 
     # sy "You know, the studio is perfect for making small films."
-    sy "You know, the studio is perfect for making small films."
+    sy "你知道，这个工作室很适合制作小电影。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:382
 translate chinese q_inter_sy_38_fcf340b6:
 
     # mc "I agree."
-    mc "I agree."
+    mc "我同意。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:385
 translate chinese q_inter_sy_38_14d0a4d4:
 
     # sy "But if we want to make bigger stuff, we might need to get something a bt more... open."
-    sy "But if we want to make bigger stuff, we might need to get something a bt more... open."
+    sy "但如果我们想做更大的项目，我们可能需要一个更...开阔的地方。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:386
 translate chinese q_inter_sy_38_e4297727:
 
     # mc "Already planning the next blockbuster?"
-    mc "Already planning the next blockbuster?"
+    mc "已经在计划下一部大片了？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:387
 translate chinese q_inter_sy_38_906dafd5:
 
     # sy "Always!"
-    sy "Always!"
+    sy "一直都是！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:392
 translate chinese q_inter_sy_39_27beff61:
 
     # sy "[mcname], you do know there are more empty rooms here, right?"
-    sy "[mcname], you do know there are more empty rooms here, right?"
+    sy "[mcname]，你知道这里还有更多空房间，对吧？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:393
 translate chinese q_inter_sy_39_7c4ee0ed:
 
     # mc "Right... and?"
-    mc "Right... and?"
+    mc "对...然后呢？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:396
 translate chinese q_inter_sy_39_9c463f60:
 
     # sy "Aaaaand, we should get more roommates!"
-    sy "Aaaaand, we should get more roommates!"
+    sy "而且，我们应该找更多室友！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:397
 translate chinese q_inter_sy_39_6d978903:
 
     # mc "Do you mean pornstars who live with us?"
-    mc "Do you mean pornstars who live with us?"
+    mc "你是说和我们一起住的色情明星？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:400
 translate chinese q_inter_sy_39_98c8613b:
 
     # sy "Even better!"
-    sy "Even better!"
+    sy "更好！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:405
 translate chinese q_inter_sy_40_3daf575b:
 
     # sy "That Foxmore guy was fucking weird."
-    sy "That Foxmore guy was fucking weird."
+    sy "那个Foxmore家伙真他妈怪。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:406
 translate chinese q_inter_sy_40_621d2c91:
 
     # mc "Yeah he was."
-    mc "Yeah he was."
+    mc "是的，他确实是。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:409
 translate chinese q_inter_sy_40_b5d36d31:
 
     # sy "But Carmilla...{w} damn."
-    sy "But Carmilla...{w} damn."
+    sy "但卡米拉...{w}该死。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:410
 translate chinese q_inter_sy_40_c5013d5b:
 
     # mc "Yeah she is."
-    mc "Yeah she is."
+    mc "是的，她确实是。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:411
 translate chinese q_inter_sy_40_c08b1d6a:
 
     # sy "Just... so hot."
-    sy "Just... so hot."
+    sy "就是...太性感了。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:416
 translate chinese q_inter_sy_41_3b9e329f:
 
     # sy "So what's next for SM Studios, you think?"
-    sy "So what's next for SM Studios, you think?"
+    sy "那么你认为SM工作室接下来会做什么？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:417
 translate chinese q_inter_sy_41_61d163f3:
 
     # mc "Well, more movies."
-    mc "Well, more movies."
+    mc "嗯，更多电影。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:420
 translate chinese q_inter_sy_41_82141912:
 
     # sy "Aaaaaaand?"
-    sy "Aaaaaaand?"
+    sy "然后呢？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:421
 translate chinese q_inter_sy_41_4e19dd85:
 
     # mc "Uhm... bigger movies?"
-    mc "Uhm... bigger movies?"
+    mc "呃...更大的电影？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:422
 translate chinese q_inter_sy_41_cea10e35:
 
     # sy "Aaaaaaaaaaaaaaaaaaand?"
-    sy "Aaaaaaaaaaaaaaaaaaand?"
+    sy "然后呢呢呢呢呢？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:423
 translate chinese q_inter_sy_41_5468f630:
 
     # mc "I don't know... more sex?"
-    mc "I don't know... more sex?"
+    mc "我不知道...更多性爱？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:426
 translate chinese q_inter_sy_41_47787dfc:
 
     # sy "Hell yeah!"
-    sy "Hell yeah!"
+    sy "太棒了！"
 

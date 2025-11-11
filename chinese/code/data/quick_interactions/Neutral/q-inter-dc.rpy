@@ -188,101 +188,101 @@ translate chinese q_inter_dc_12_757c5cb4:
 translate chinese q_inter_dc_12_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "嗯？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:138
 translate chinese q_inter_dc_12_b7912968:
 
     # dc "Have you heard about the bathroom in the park?"
-    dc "Have you heard about the bathroom in the park?"
+    dc "你听说过公园里的洗手间吗？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:139
 translate chinese q_inter_dc_12_9e3589d8:
 
     # mc "Uhm... what about it?"
-    mc "Uhm... what about it?"
+    mc "嗯...那个怎么了？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:142
 translate chinese q_inter_dc_12_6a5c9cc7:
 
     # dc "I think one day we'll have to go and check it out."
-    dc "I think one day we'll have to go and check it out."
+    dc "我想有一天我们得去看看。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:143
 translate chinese q_inter_dc_12_db62a37a:
 
     # dc "You know. For police work."
-    dc "You know. For police work."
+    dc "你知道的。为了警务工作。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:148
 translate chinese q_inter_dc_13_4af35993:
 
     # mc "Officer Callahan!"
-    mc "Officer Callahan!"
+    mc "卡拉汉警官！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:149
 translate chinese q_inter_dc_13_3c0c267e:
 
     # dc "Yes?"
-    dc "Yes?"
+    dc "什么事？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:150
 translate chinese q_inter_dc_13_1f796c3d:
 
     # mc "You know, I've always loved a woman in uniform."
-    mc "You know, I've always loved a woman in uniform."
+    mc "你知道，我一直喜欢穿制服的女人。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:153
 translate chinese q_inter_dc_13_f0a7cc79:
 
     # dc "[mcname]! Stop it, I'm at work!"
-    dc "[mcname]! Stop it, I'm at work!"
+    dc "[mcname]！停下，我在工作！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:154
 translate chinese q_inter_dc_13_7a05d0ac:
 
     # mc "How can I, when you look this good?"
-    mc "How can I, when you look this good?"
+    mc "当你看起来这么好的时候，我怎么能停下？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:155
 translate chinese q_inter_dc_13_3dc35730:
 
     # dc "Oh, you!"
-    dc "Oh, you!"
+    dc "哦，你这个人！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:160
 translate chinese q_inter_dc_14_21c04b3a:
 
     # dc "You know, [mcname]..."
-    dc "You know, [mcname]..."
+    dc "你知道，[mcname]..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:161
 translate chinese q_inter_dc_14_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "嗯？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:162
 translate chinese q_inter_dc_14_7e89b932:
 
     # dc "I wouldn't mind staying over some night... when I don't have to work early in the morning."
-    dc "I wouldn't mind staying over some night... when I don't have to work early in the morning."
+    dc "我不介意哪天晚上留下来...当我不用一大早工作的时候。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:165
 translate chinese q_inter_dc_14_991eb26a:
 
     # dc "As long as that's not too presumptuous!"
-    dc "As long as that's not too presumptuous!"
+    dc "只要这不是太冒昧！"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:166
 translate chinese q_inter_dc_14_d09610d2:
 
     # mc "I would love that, Debbie."
-    mc "I would love that, Debbie."
+    mc "我很乐意，黛比。"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:167
 translate chinese q_inter_dc_14_9ddb8cfd:
 
     # dc "I was really hoping you'd say that."
-    dc "I was really hoping you'd say that."
+    dc "我真的希望你这么说。"
 
