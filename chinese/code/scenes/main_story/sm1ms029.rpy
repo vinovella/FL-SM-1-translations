@@ -362,901 +362,901 @@ translate chinese sm1ms029_fe9b231f:
 translate chinese sm1ms029_cc6ec84c:
 
     # sy "AmRose! You made it!"
-    sy "AmRose! You made it!"
+    sy "爱洛丝！你来了！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:174
 translate chinese sm1ms029_b6d5ecfa:
 
     # arj "How could I resist the inagural S&M Studio party?"
-    arj "How could I resist the inagural S&M Studio party?"
+    arj "我怎么能拒绝S&M工作室的首场派对呢？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:177
 translate chinese sm1ms029_cf242ef8:
 
     # sy "See! AmRose gets it!"
-    sy "See! AmRose gets it!"
+    sy "看！爱洛丝明白！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:178
 translate chinese sm1ms029_8de3b99a:
 
     # mc "Hey, AmRose. Happy you made it."
-    mc "Hey, AmRose. Happy you made it."
+    mc "嘿，爱洛丝。很高兴你能来。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:181
 translate chinese sm1ms029_76ab3ef9:
 
     # arj "Thanks, [mcname]."
-    arj "Thanks, [mcname]."
+    arj "谢谢，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:184
 translate chinese sm1ms029_3bce8724:
 
     # sy "And your mask! Can't forget your mask!"
-    sy "And your mask! Can't forget your mask!"
+    sy "还有你的面具！不能忘记你的面具！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:185
 translate chinese sm1ms029_c61cf859:
 
     # arj "Ahh, yes. How could I forget about the masks."
-    arj "Ahh, yes. How could I forget about the masks."
+    arj "啊，是的。我怎么会忘记面具呢。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:188
 translate chinese sm1ms029_f2ebf022:
 
     # sy "I loved the masks from the old parties, so I thought I'd bring them back!"
-    sy "I loved the masks from the old parties, so I thought I'd bring them back!"
+    sy "我喜欢以前派对上的面具，所以我想把它们带回来！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:189
 translate chinese sm1ms029_a8c5a5e4:
 
     # mc "They did add a level of whimsy and mystery to the parties that was a lot of fun."
-    mc "They did add a level of whimsy and mystery to the parties that was a lot of fun."
+    mc "它们确实为派对增添了一些奇幻和神秘感，非常有趣。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:191
 translate chinese sm1ms029_bb77ad8e:
 
     # arj "\"Whimsy and fun\" is a hell of a way to describe those parties."
-    arj "\"Whimsy and fun\" is a hell of a way to describe those parties."
+    arj "\"奇幻和有趣\"真是个绝妙的方式来形容那些派对。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:194
 translate chinese sm1ms029_399bbda7:
 
     # arj "How do I look?"
-    arj "How do I look?"
+    arj "我看起来怎么样？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:196
 translate chinese sm1ms029_cd4fdce8:
 
     # sy "Banging!"
-    sy "Banging!"
+    sy "棒极了！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:197
 translate chinese sm1ms029_5937695a:
 
     # mc "You look great, AmRose."
-    mc "You look great, AmRose."
+    mc "你看起来很棒，爱洛丝。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:199
 translate chinese sm1ms029_76ab3ef9_1:
 
     # arj "Thanks, [mcname]."
-    arj "Thanks, [mcname]."
+    arj "谢谢，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:206
 translate chinese sm1ms029_903103e6:
 
     # arj "I'm looking forward to the party."
-    arj "I'm looking forward to the party."
+    arj "我很期待这个派对。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:207
 translate chinese sm1ms029_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "我也是。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:212
 translate chinese sm1ms029_c5cad03e:
 
     # mc "Man, this party is already going better than the last party."
-    mc "Man, this party is already going better than the last party."
+    mc "伙计，这个派对已经比上次派对好多了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:213
 translate chinese sm1ms029_d89e7b82:
 
     # sy "Because you're getting kisses?"
-    sy "Because you're getting kisses?"
+    sy "因为你得到吻了？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:215
 translate chinese sm1ms029_3dceab7a:
 
     # mc "Maaaaaybe."
-    mc "Maaaaaybe."
+    mc "也许吧。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:218
 translate chinese sm1ms029_bfd16d96:
 
     # sy "I want some kisses!"
-    sy "I want some kisses!"
+    sy "我也想要一些吻！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:219
 translate chinese sm1ms029_1e363f07:
 
     # mc "Oh don't worry, you're going to get way more than kisses tonight."
-    mc "Oh don't worry, you're going to get way more than kisses tonight."
+    mc "哦别担心，今晚你会得到比吻多得多的东西。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:222
 translate chinese sm1ms029_52b86e00:
 
     # sy "Oh, I know! I am definitely looking forward to that!"
-    sy "Oh, I know! I am definitely looking forward to that!"
+    sy "哦，我知道！我绝对期待那个！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:240
 translate chinese sm1ms029_party_ns_231a388b:
 
     # ns "Oh my goodness, I almost forgot my mask!"
-    ns "Oh my goodness, I almost forgot my mask!"
+    ns "哦，天哪，我差点忘了我的面具！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:241
 translate chinese sm1ms029_party_ns_67d8b4b6:
 
     # mc "Oh, hey, Nari."
-    mc "Oh, hey, Nari."
+    mc "哦，嘿，娜丽。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:243
 translate chinese sm1ms029_party_ns_258d2fdc:
 
     # ns "Hello! Where's my mask!?"
-    ns "Hello! Where's my mask!?"
+    ns "你好！我的面具在哪里！？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:246
 translate chinese sm1ms029_party_ns_bf321ffd:
 
     # sy "Here it is, Nari."
-    sy "Here it is, Nari."
+    sy "在这里，娜丽。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:247
 translate chinese sm1ms029_party_ns_83866363:
 
     # ns "Thank you, Stacy!"
-    ns "Thank you, Stacy!"
+    ns "谢谢你，史黛西！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:251
 translate chinese sm1ms029_party_ns_f7d615bd:
 
     # ns "I almost committed a faux pas!"
-    ns "I almost committed a faux pas!"
+    ns "我差点犯了失礼的错误！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:252
 translate chinese sm1ms029_party_ns_20e12b16:
 
     # mc "It's okay, Nari. Nothing that serious."
-    mc "It's okay, Nari. Nothing that serious."
+    mc "没关系，娜丽。没那么严重。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:256
 translate chinese sm1ms029_party_ns_041aa955:
 
     # ns "How do I look? Is this okay?"
-    ns "How do I look? Is this okay?"
+    ns "我看起来怎么样？这样可以吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:257
 translate chinese sm1ms029_party_ns_aacaef00:
 
     # ns "Am I dressed acceptably? Am I arriving at the right time? Not too early, but not too-"
-    ns "Am I dressed acceptably? Am I arriving at the right time? Not too early, but not too-"
+    ns "我穿得合适吗？我来的时间对吗？不会太早，但也不会太--"
 
 # game/code/scenes/main_story/sm1ms029.rpy:258
 translate chinese sm1ms029_party_ns_3dba5ce4:
 
     # mc "Nari-"
-    mc "Nari-"
+    mc "娜丽--"
 
 # game/code/scenes/main_story/sm1ms029.rpy:259
 translate chinese sm1ms029_party_ns_10b34b25:
 
     # ns "Late? Should I change? Should I have brought someth-"
-    ns "Late? Should I change? Should I have brought someth-"
+    ns "晚？我应该换衣服吗？我应该带些什么--"
 
 # game/code/scenes/main_story/sm1ms029.rpy:262
 translate chinese sm1ms029_party_ns_756cde06:
 
     # mc "Nari!"
-    mc "Nari!"
+    mc "娜丽！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:263
 translate chinese sm1ms029_party_ns_7c87e27d:
 
     # ns "ing, I can always run out to the store-"
-    ns "ing, I can always run out to the store-"
+    ns "东西，我随时可以跑去商店--"
 
 # game/code/scenes/main_story/sm1ms029.rpy:267
 translate chinese sm1ms029_party_ns_8f411162:
 
     # ns "Mmmm."
-    ns "Mmmm."
+    ns "嗯嗯嗯。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:269
 translate chinese sm1ms029_party_ns_8eacd99c:
 
     # mc "Everything is okay, you look great, no faux pas committed."
-    mc "Everything is okay, you look great, no faux pas committed."
+    mc "一切都好，你看起来很棒，没犯什么失礼的错误。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:270
 translate chinese sm1ms029_party_ns_07295b53:
 
     # mc "All you need to do is relax, and enjoy the party. Okay?"
-    mc "All you need to do is relax, and enjoy the party. Okay?"
+    mc "你需要做的就是放松，享受派对。好吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:272
 translate chinese sm1ms029_party_ns_9d0fe70b:
 
     # ns "Okay, [mcname]. I can do that!"
-    ns "Okay, [mcname]. I can do that!"
+    ns "好的，[mcname]。我能做到！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:277
 translate chinese sm1ms029_party_ns_75a5d3cf:
 
     # sy "Huh. I need to remember that."
-    sy "Huh. I need to remember that."
+    sy "嗯。我需要记住这一点。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:278
 translate chinese sm1ms029_party_ns_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:280
 translate chinese sm1ms029_party_ns_b307d307:
 
     # sy "Apparently that's her reset button."
-    sy "Apparently that's her reset button."
+    sy "显然那是她的重置按钮。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:281
 translate chinese sm1ms029_party_ns_3a36d1e7:
 
     # mc "What, kissing her?"
-    mc "What, kissing her?"
+    mc "什么，吻她？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:284
 translate chinese sm1ms029_party_ns_f73d8191:
 
     # sy "Yeah. Sometimes she goes into overdrive mode and I just need to get her to reset."
-    sy "Yeah. Sometimes she goes into overdrive mode and I just need to get her to reset."
+    sy "是的。有时她会进入过载模式，我只需要让她重置。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:285
 translate chinese sm1ms029_party_ns_130fbc1f:
 
     # sy "So next time she starts talking about crypto markets, I'm going to give her a wet, juicy, kiss."
-    sy "So next time she starts talking about crypto markets, I'm going to give her a wet, juicy, kiss."
+    sy "所以下次她开始谈论加密货币市场时，我会给她一个湿润、多汁的吻。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:287
 translate chinese sm1ms029_party_ns_f71e3163:
 
     # sy "Maybe that'll help stop the 45 minute tangent."
-    sy "Maybe that'll help stop the 45 minute tangent."
+    sy "也许这能帮助停止45分钟的离题。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:298
 translate chinese sm1ms029_party_tl_99d555b1:
 
     # tl "What's up, you two."
-    tl "What's up, you two."
+    tl "你们两个，怎么了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:299
 translate chinese sm1ms029_party_tl_05bebd15:
 
     # sy "Hi, Taisia!"
-    sy "Hi, Taisia!"
+    sy "嗨，泰西娅！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:302
 translate chinese sm1ms029_party_tl_e3164f63:
 
     # mc "Happy you could make it to the party."
-    mc "Happy you could make it to the party."
+    mc "很高兴你能来参加派对。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:304
 translate chinese sm1ms029_party_tl_41b49d0d:
 
     # tl "Well, I had nothing else going on, so I figured I'd drop by."
-    tl "Well, I had nothing else going on, so I figured I'd drop by."
+    tl "嗯，我也没什么别的事，所以我想我会顺便来一下。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:306
 translate chinese sm1ms029_party_tl_8f28cad3:
 
     # tl "I'm kidding."
-    tl "I'm kidding."
+    tl "我开玩笑的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:308
 translate chinese sm1ms029_party_tl_b76755f0:
 
     # tl "I'm actually really excited for this party."
-    tl "I'm actually really excited for this party."
+    tl "我其实真的很期待这个派对。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:309
 translate chinese sm1ms029_party_tl_4fe4d74b:
 
     # sy "Really?"
-    sy "Really?"
+    sy "真的吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:311
 translate chinese sm1ms029_party_tl_b917a934:
 
     # tl "How could I not be?"
-    tl "How could I not be?"
+    tl "我怎么能不呢？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:314
 translate chinese sm1ms029_party_tl_f5b5c8e2:
 
     # tl "A whole kink party, filled with freaky deaky shit?"
-    tl "A whole kink party, filled with freaky deaky shit?"
+    tl "一个充满怪异事物的性癖派对？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:317
 translate chinese sm1ms029_party_tl_6367d4e1:
 
     # tl "Sounds right up my alley."
-    tl "Sounds right up my alley."
+    tl "听起来正合我意。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:320
 translate chinese sm1ms029_party_tl_75dc03aa:
 
     # tl "And... {size=*0.7}it's with people I really like.{/size}"
-    tl "And... {size=*0.7}it's with people I really like.{/size}"
+    tl "而且...{size=*0.7}是和我真正喜欢的人在一起。{/size}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:321
 translate chinese sm1ms029_party_tl_8199f24e:
 
     # mc "What was the last part?"
-    mc "What was the last part?"
+    mc "最后一部分是什么？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:323
 translate chinese sm1ms029_party_tl_4957a308:
 
     # tl "Don't worry about it."
-    tl "Don't worry about it."
+    tl "别担心。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:333
 translate chinese sm1ms029_party_tl_ae13cf4c:
 
     # sy "Man, she's a wildcat."
-    sy "Man, she's a wildcat."
+    sy "伙计，她是只野猫。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:334
 translate chinese sm1ms029_party_tl_fa97395f:
 
     # mc "A little bit."
-    mc "A little bit."
+    mc "有一点。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:335
 translate chinese sm1ms029_party_tl_6f313b3a:
 
     # sy "I never know where we sit with her..."
-    sy "I never know where we sit with her..."
+    sy "我永远不知道我们和她的关系在哪里..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:338
 translate chinese sm1ms029_party_tl_d66bcb49:
 
     # mc "I think I'm breaking through the armor though..."
-    mc "I think I'm breaking through the armor though..."
+    mc "不过我想我正在突破她的防御..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:341
 translate chinese sm1ms029_party_tl_2be5873f:
 
     # mc "I bet there's a whole other side to Taisia we haven't even seen yet..."
-    mc "I bet there's a whole other side to Taisia we haven't even seen yet..."
+    mc "我打赌泰西娅还有我们从未见过的另一面..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:351
 translate chinese sm1ms029_party_mes_c77c474f:
 
     # mes "I see you to were paying attention!"
-    mes "I see you to were paying attention!"
+    mes "我看到你们一直在关注！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:353
 translate chinese sm1ms029_party_mes_63a9e153:
 
     # sy "What do you mean?"
-    sy "What do you mean?"
+    sy "你什么意思？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:356
 translate chinese sm1ms029_party_mes_0d11b7d0:
 
     # mes "Masks, greeting guests at the door..."
-    mes "Masks, greeting guests at the door..."
+    mes "面具，在门口迎接客人..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:358
 translate chinese sm1ms029_party_mes_e4fab229:
 
     # mes "Feels just like the old days."
-    mes "Feels just like the old days."
+    mes "感觉就像过去一样。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:360
 translate chinese sm1ms029_party_mes_6ff41185:
 
     # mc "Nope."
-    mc "Nope."
+    mc "不。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:362
 translate chinese sm1ms029_party_mes_9c22b126:
 
     # mes "No?"
-    mes "No?"
+    mes "不？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:363
 translate chinese sm1ms029_party_mes_2f0881e2:
 
     # mc "Nope!"
-    mc "Nope!"
+    mc "不！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:366
 translate chinese sm1ms029_party_mes_137ae08d:
 
     # sy "Because it's going to be better than the old days."
-    sy "Because it's going to be better than the old days."
+    sy "因为它会比过去更好。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:369
 translate chinese sm1ms029_party_mes_370eed48:
 
     # mes "That's quite the bar, Stacy. Think you'll be able to pull it off?"
-    mes "That's quite the bar, Stacy. Think you'll be able to pull it off?"
+    mes "这个标准很高，史黛西。你觉得你能做到吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:370
 translate chinese sm1ms029_party_mes_a08197a3:
 
     # mc "Oh, I wouldn't doubt her."
-    mc "Oh, I wouldn't doubt her."
+    mc "哦，我不会怀疑她。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:373
 translate chinese sm1ms029_party_mes_c33cc0a8:
 
     # sy "Because I know we're going pull it off."
-    sy "Because I know we're going pull it off."
+    sy "因为我知道我们会成功的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:374
 translate chinese sm1ms029_party_mes_5dbcb40b:
 
     # mc "She's got a few surprises in store."
-    mc "She's got a few surprises in store."
+    mc "她还准备了几个惊喜。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:377
 translate chinese sm1ms029_party_mes_9a4d8444:
 
     # mes "Well, I'm looking forward to it."
-    mes "Well, I'm looking forward to it."
+    mes "嗯，我很期待。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:391
 translate chinese sm1ms029_party_mh_5c541590:
 
     # sy "Lyssa! Yay!"
-    sy "Lyssa! Yay!"
+    sy "丽莎！耶！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:393
 translate chinese sm1ms029_party_mh_e6069c36:
 
     # mh "Stacy, [mcname]."
-    mh "Stacy, [mcname]."
+    mh "史黛西，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:396
 translate chinese sm1ms029_party_mh_dc042459:
 
     # mc "I'm happy you could make it, Lyssa."
-    mc "I'm happy you could make it, Lyssa."
+    mc "我很高兴你能来，丽莎。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:397
 translate chinese sm1ms029_party_mh_24ca0de0:
 
     # mh "Of course, how could I refuse your invitation?"
-    mh "Of course, how could I refuse your invitation?"
+    mh "当然，我怎么能拒绝你的邀请？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:404
 translate chinese sm1ms029_party_mh_83cbdced:
 
     # mh "Especially your invitation, [mcname]."
-    mh "Especially your invitation, [mcname]."
+    mh "特别是你的邀请，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:408
 translate chinese sm1ms029_party_mh_8da099d7:
 
     # mh "And how could I forget my Stacy."
-    mh "And how could I forget my Stacy."
+    mh "我怎么会忘记我的史黛西呢。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:416
 translate chinese sm1ms029_party_mh_bb326048:
 
     # mh "Mmmm, I see you two are continuing the masks tradition."
-    mh "Mmmm, I see you two are continuing the masks tradition."
+    mh "嗯嗯嗯，我看到你们俩在延续面具传统。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:418
 translate chinese sm1ms029_party_mh_e9fab0f6:
 
     # sy "Yeah! I always thought they were so fun."
-    sy "Yeah! I always thought they were so fun."
+    sy "是的！我一直觉得它们很有趣。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:419
 translate chinese sm1ms029_party_mh_3d1bb645:
 
     # mh "I always really liked them as well."
-    mh "I always really liked them as well."
+    mh "我也一直很喜欢它们。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:424
 translate chinese sm1ms029_party_mh_ad8cdd15:
 
     # mc "You did always know how to rock it."
-    mc "You did always know how to rock it."
+    mc "你一直都知道怎么驾驭它。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:425
 translate chinese sm1ms029_party_mh_3ed77072:
 
     # mh "Thank you, [mcname]."
-    mh "Thank you, [mcname]."
+    mh "谢谢，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:427
 translate chinese sm1ms029_party_mh_40ded0a5:
 
     # mh "How do I look? Just as wonderful as always?"
-    mh "How do I look? Just as wonderful as always?"
+    mh "我看起来怎么样？像往常一样精彩吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:428
 translate chinese sm1ms029_party_mh_f018ca3a:
 
     # sy "Hahaha, as wonderful as always Lyssa."
-    sy "Hahaha, as wonderful as always Lyssa."
+    sy "哈哈哈，像往常一样精彩，丽莎。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:430
 translate chinese sm1ms029_party_mh_75197ea9:
 
     # mh "Excited to party."
-    mh "Excited to party."
+    mh "兴奋地去派对。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:443
 translate chinese sm1ms029_party_continue_448e3711:
 
     # mc "Is that everybody?"
-    mc "Is that everybody?"
+    mc "那是所有人了吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:444
 translate chinese sm1ms029_party_continue_e5fb88c5:
 
     # sy "I think so?"
-    sy "I think so?"
+    sy "我想是的？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:446
 translate chinese sm1ms029_party_continue_4980e640:
 
     # hr "Not exactly."
-    hr "Not exactly."
+    hr "不完全是。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:449
 translate chinese sm1ms029_party_continue_d99ec557:
 
     # hr "Had to stop by and see if you two were staying out of trouble."
-    hr "Had to stop by and see if you two were staying out of trouble."
+    hr "得过来看看你们俩有没有惹麻烦。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:451
 translate chinese sm1ms029_party_continue_eb5e4b2e:
 
     # sy "Oh my God, Hana!"
-    sy "Oh my God, Hana!"
+    sy "哦，天哪，哈娜！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:452
 translate chinese sm1ms029_party_continue_4646aae7:
 
     # mc "Oh my God, Hana?"
-    mc "Oh my God, Hana?"
+    mc "哦，天哪，哈娜？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:457
 translate chinese sm1ms029_party_continue_9d83a8e2:
 
     # mc "What are you doing here?"
-    mc "What are you doing here?"
+    mc "你在这里做什么？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:458
 translate chinese sm1ms029_party_continue_d6ef86f8:
 
     # hr "Stacy invited me."
-    hr "Stacy invited me."
+    hr "史黛西邀请了我。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:461
 translate chinese sm1ms029_party_continue_6dbabf4e:
 
     # hr "And how could I refuse?"
-    hr "And how could I refuse?"
+    hr "我怎么能拒绝呢？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:462
 translate chinese sm1ms029_party_continue_23bd9b3c:
 
     # mc "I guess you can't?"
-    mc "I guess you can't?"
+    mc "我猜你不能？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:465
 translate chinese sm1ms029_party_continue_695444d2:
 
     # hr "Why so curious as to why I'm here, [mcname]?"
-    hr "Why so curious as to why I'm here, [mcname]?"
+    hr "为什么这么好奇我为什么在这里，[mcname]？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:467
 translate chinese sm1ms029_party_continue_4c94d068:
 
     # mc "It's just... it feels like it's been a season since I've seen you, is all."
-    mc "It's just... it feels like it's been a season since I've seen you, is all."
+    mc "只是...感觉好像有一个季节没见到你了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:468
 translate chinese sm1ms029_party_continue_46f7ff9d:
 
     # hr "Uh huh. Sure."
-    hr "Uh huh. Sure."
+    hr "嗯哼。当然。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:471
 translate chinese sm1ms029_party_continue_51d826c7:
 
     # hr "Not trying to hide anything, are you?"
-    hr "Not trying to hide anything, are you?"
+    hr "不是想隐瞒什么吧，是吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:472
 translate chinese sm1ms029_party_continue_766fbcc4:
 
     # mc "What? No!"
-    mc "What? No!"
+    mc "什么？不！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:474
 translate chinese sm1ms029_party_continue_1cb36a49:
 
     # sy "If we were, we wouldn't have invited you!"
-    sy "If we were, we wouldn't have invited you!"
+    sy "如果是的话，我们就不会邀请你了！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:480
 translate chinese sm1ms029_party_continue_d7e4194f:
 
     # hr "I'm just messing with you, [mcname].{w} You know I like to see you sweat."
-    hr "I'm just messing with you, [mcname].{w} You know I like to see you sweat."
+    hr "我只是在逗你，[mcname]。{w}你知道我喜欢看你冒汗。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:483
 translate chinese sm1ms029_party_continue_0c054906:
 
     # mc "Phew."
-    mc "Phew."
+    mc "呼。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:484
 translate chinese sm1ms029_party_continue_e9d7a927:
 
     # hr "But, I hope you've been keeping your nose clean."
-    hr "But, I hope you've been keeping your nose clean."
+    hr "但是，我希望你一直安分守己。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:485
 translate chinese sm1ms029_party_continue_4ef391a4:
 
     # mc "I have. Promise."
-    mc "I have. Promise."
+    mc "我有。保证。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:488
 translate chinese sm1ms029_party_continue_8f8edd51:
 
     # hr "Ahh, the masks are back."
-    hr "Ahh, the masks are back."
+    hr "啊，面具回来了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:489
 translate chinese sm1ms029_party_continue_95242e56:
 
     # mc "Yes, they are."
-    mc "Yes, they are."
+    mc "是的，它们回来了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:492
 translate chinese sm1ms029_party_continue_03a9193b:
 
     # hr "Couldn't resist, could you?"
-    hr "Couldn't resist, could you?"
+    hr "忍不住，是吧？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:493
 translate chinese sm1ms029_party_continue_825faa7b:
 
     # sy "No, we couldn't."
-    sy "No, we couldn't."
+    sy "是的，我们忍不住。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:496
 translate chinese sm1ms029_party_continue_9440f260:
 
     # hr "Mmmm, it is nice to wear again."
-    hr "Mmmm, it is nice to wear again."
+    hr "嗯嗯嗯，再次佩戴真好。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:497
 translate chinese sm1ms029_party_continue_11ba4715:
 
     # sy "Right!?"
-    sy "Right!?"
+    sy "对吧！？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:500
 translate chinese sm1ms029_party_continue_76a43bc3:
 
     # hr "Well, don't keep us waiting."
-    hr "Well, don't keep us waiting."
+    hr "好了，别让我们等了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:506
 translate chinese sm1ms029_party_continue_fec24833:
 
     # mc "All right, is that everyone now?"
-    mc "All right, is that everyone now?"
+    mc "好的，现在是所有人了吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:507
 translate chinese sm1ms029_party_continue_e66089f4:
 
     # sy "Yep! That's officially it!"
-    sy "Yep! That's officially it!"
+    sy "是的！正式就这样了！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:509
 translate chinese sm1ms029_party_continue_727c4135:
 
     # mc "Shall we then?"
-    mc "Shall we then?"
+    mc "那我们开始吧？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:510
 translate chinese sm1ms029_party_continue_167473b7:
 
     # sy "Please!"
-    sy "Please!"
+    sy "请！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:522
 translate chinese sm1ms029_party_continue_f54e7e3a:
 
     # sy "Everyone! Thanks so much for attending the very first ever S&M Studio Party!"
-    sy "Everyone! Thanks so much for attending the very first ever S&M Studio Party!"
+    sy "大家！非常感谢参加有史以来第一次S&M工作室派对！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:523
 translate chinese sm1ms029_party_continue_02321992:
 
     # "Everyone" "Wooo! *claps*"
-    "Everyone" "Wooo! *claps*"
+    "Everyone" "哇哦！*鼓掌*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:525
 translate chinese sm1ms029_party_continue_fba86d44:
 
     # mc "We just wanted to thank everyone for coming, and everyone who's had a part in helping the studio grow!"
-    mc "We just wanted to thank everyone for coming, and everyone who's had a part in helping the studio grow!"
+    mc "我们只是想感谢每个人的到来，以及每个帮助工作室成长的人！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:527
 translate chinese sm1ms029_party_continue_52fb6339:
 
     # mc "And an extra thanks to the wonderfully talented actresses who joined me on screen!"
-    mc "And an extra thanks to the wonderfully talented actresses who joined me on screen!"
+    mc "还要特别感谢和我一起在屏幕上出现的才华横溢的女演员们！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:536
 translate chinese sm1ms029_party_continue_3a8d95bc:
 
     # mc "Without whom, we'd never have gotten things going!"
-    mc "Without whom, we'd never have gotten things going!"
+    mc "没有她们，我们永远无法让事情运转起来！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:537
 translate chinese sm1ms029_party_continue_31ebab56:
 
     # "Everyone" "Wooooo!"
-    "Everyone" "Wooooo!"
+    "Everyone" "哇哦哦哦！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:540
 translate chinese sm1ms029_party_continue_6c812957:
 
     # mc "And, the biggest thanks, and all of my gratitude and love, to the woman who made everything possible."
-    mc "And, the biggest thanks, and all of my gratitude and love, to the woman who made everything possible."
+    mc "还有，最大的感谢，以及我所有的感激和爱，给让一切成为可能的女人。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:541
 translate chinese sm1ms029_party_continue_abe67841:
 
     # mc "Without her, this dream would have died without even a second of life."
-    mc "Without her, this dream would have died without even a second of life."
+    mc "没有她，这个梦想连一秒钟的生命都没有就会死去。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:543
 translate chinese sm1ms029_party_continue_276feb47:
 
     # mc "My sister, Stacy."
-    mc "My sister, Stacy."
+    mc "我的妹妹，史黛西。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:545
 translate chinese sm1ms029_party_continue_a1be5517:
 
     # mc "My best friend, Stacy."
-    mc "My best friend, Stacy."
+    mc "我最好的朋友，史黛西。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:548
 translate chinese sm1ms029_party_continue_c58ca4fa:
 
     # sy "Oh shucks, [mcname]."
-    sy "Oh shucks, [mcname]."
+    sy "哦，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:550
 translate chinese sm1ms029_party_continue_83078e78:
 
     # mc "I love you."
-    mc "I love you."
+    mc "我爱你。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:551
 translate chinese sm1ms029_party_continue_23e050ef:
 
     # sy "I love you too, [mcname]."
-    sy "I love you too, [mcname]."
+    sy "我也爱你，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:554
 translate chinese sm1ms029_party_continue_5ab3f63d:
 
     # mc "Everyone, grab some drinks! Intermingle! Chat!"
-    mc "Everyone, grab some drinks! Intermingle! Chat!"
+    mc "大家，拿些饮料！互相交流！聊天！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:557
 translate chinese sm1ms029_party_continue_0bd71230:
 
     # sy "And get ready for the main event! We promise, it's going to be a {i}ton{/i} of fun."
-    sy "And get ready for the main event! We promise, it's going to be a {i}ton{/i} of fun."
+    sy "准备好主要活动吧！我们保证，会有{i}很多{/i}乐趣。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:560
 translate chinese sm1ms029_party_continue_908f1f44:
 
     # mc "So far, so good!"
-    mc "So far, so good!"
+    mc "到目前为止，一切顺利！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:561
 translate chinese sm1ms029_party_continue_8b9f9234:
 
     # sy "Yeah!"
-    sy "Yeah!"
+    sy "是的！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:563
 translate chinese sm1ms029_party_continue_c7f00a93:
 
     # mc "Now, I'm going to go grab some-"
-    mc "Now, I'm going to go grab some-"
+    mc "现在，我要去拿一些--"
 
 # game/code/scenes/main_story/sm1ms029.rpy:566
 translate chinese sm1ms029_party_continue_bd56533b:
 
     # sy "You better not overeat."
-    sy "You better not overeat."
+    sy "你最好不要吃太多。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:567
 translate chinese sm1ms029_party_continue_d6fb8e35:
 
     # sy "You have an important job to do later, mister."
-    sy "You have an important job to do later, mister."
+    sy "你稍后有重要的工作要做，先生。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:568
 translate chinese sm1ms029_party_continue_165972a2:
 
     # sy "And you better not get sick! Or I swear to God-"
-    sy "And you better not get sick! Or I swear to God-"
+    sy "你最好不要生病！否则我向上帝发誓--"
 
 # game/code/scenes/main_story/sm1ms029.rpy:571
 translate chinese sm1ms029_party_continue_bc78ec09:
 
     # mc "You don't have to worry, Stacy. I won't spoil the fun."
-    mc "You don't have to worry, Stacy. I won't spoil the fun."
+    mc "你不用担心，史黛西。我不会破坏乐趣的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:575
 translate chinese sm1ms029_party_continue_82a009c4:
 
     # sy "All right! I'm going to go start getting ready! Have fun!"
-    sy "All right! I'm going to go start getting ready! Have fun!"
+    sy "好的！我要去开始准备了！玩得开心！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:576
 translate chinese sm1ms029_party_continue_412bb0e3:
 
     # mc "I will!"
-    mc "I will!"
+    mc "我会的！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:615
 translate chinese sm1ms029_talk_tl_mes_a96eeede:
 
     # mc "Hey, roomies!"
-    mc "Hey, roomies!"
+    mc "嘿，室友们！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:618
 translate chinese sm1ms029_talk_tl_mes_ed746f26:
 
     # mes "Really, roomies?"
-    mes "Really, roomies?"
+    mes "真的，室友们？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:619
 translate chinese sm1ms029_talk_tl_mes_a999006e:
 
     # tl "Seriously."
-    tl "Seriously."
+    tl "说真的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:621
 translate chinese sm1ms029_talk_tl_mes_7168d4f3:
 
     # mc "What!"
-    mc "What!"
+    mc "什么！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:624
 translate chinese sm1ms029_talk_tl_mes_7e76fa14:
@@ -1268,19 +1268,19 @@ translate chinese sm1ms029_talk_tl_mes_7e76fa14:
 translate chinese sm1ms029_talk_tl_mes_520cd898:
 
     # mes "Do you go around fucking all of your roommates?"
-    mes "Do you go around fucking all of your roommates?"
+    mes "你是到处和你所有的室友做爱吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:628
 translate chinese sm1ms029_talk_tl_mes_539098fd:
 
     # mc "I mean, kind of?"
-    mc "I mean, kind of?"
+    mc "我是说，有点？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:629
 translate chinese sm1ms029_talk_tl_mes_3018ffe4:
 
     # mes "Does that mean you used to fuck Pete?"
-    mes "Does that mean you used to fuck Pete?"
+    mes "这是否意味着你以前和皮特做过？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:631
 translate chinese sm1ms029_talk_tl_mes_65c5cdd3:
@@ -1370,7 +1370,7 @@ translate chinese sm1ms029_talk_tl_mes_39813757:
 translate chinese sm1ms029_talk_tl_mes_f0dae7e6:
 
     # tl "And Min is a bad ass. Bad ass women need to stick together."
-    tl "And Min is a bad ass. Bad ass women need to stick together."
+    tl "而且明是个坏蛋。坏蛋女人需要团结在一起。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:667
 translate chinese sm1ms029_talk_tl_mes_b73a7d06:
@@ -1382,7 +1382,7 @@ translate chinese sm1ms029_talk_tl_mes_b73a7d06:
 translate chinese sm1ms029_talk_tl_mes_1b400966:
 
     # tl "What?"
-    tl "What?"
+    tl "什么？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:670
 translate chinese sm1ms029_talk_tl_mes_a74166dd:
@@ -1424,7 +1424,7 @@ translate chinese sm1ms029_talk_tl_mes_771e210f:
 translate chinese sm1ms029_talk_tl_mes_8bd5b851:
 
     # mes "And we bad asses have to stick together!"
-    mes "And we bad asses have to stick together!"
+    mes "我们这些坏蛋必须团结在一起！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:683
 translate chinese sm1ms029_talk_tl_mes_e926ff8a:
@@ -1562,7 +1562,7 @@ translate chinese sm1ms029_talk_mes_ns_2857d008:
 translate chinese sm1ms029_talk_mes_ns_fea01c58:
 
     # ns "And to visit!"
-    ns "And to visit!"
+    ns "还有去拜访！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:736
 translate chinese sm1ms029_talk_mes_ns_ffa63963:
@@ -1634,7 +1634,7 @@ translate chinese sm1ms029_talk_mes_ns_83f3d709:
 translate chinese sm1ms029_talk_mes_ns_7b7e6fb3:
 
     # mes "And to just have someone around who understands what growing up in Korea was like."
-    mes "And to just have someone around who understands what growing up in Korea was like."
+    mes "而且只是有个人在身边，理解在韩国长大是什么样子。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:758
 translate chinese sm1ms029_talk_mes_ns_bdaf1c4c:
@@ -1754,7 +1754,7 @@ translate chinese sm1ms029_talk_tl_ns_54dfdf04:
 translate chinese sm1ms029_talk_tl_ns_ec9b8664:
 
     # ns "And I can't imagine sleeping in as late as Taisia does!"
-    ns "And I can't imagine sleeping in as late as Taisia does!"
+    ns "而且我无法想象像泰西娅那样睡懒觉！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:808
 translate chinese sm1ms029_talk_tl_ns_3b6bba2c:
@@ -2174,7 +2174,7 @@ translate chinese sm1ms029_talk_kv_hr_arj_01bf40f5:
 translate chinese sm1ms029_talk_kv_hr_arj_b3813e19:
 
     # kv "Also she said you should get ready for the show to start soon."
-    kv "Also she said you should get ready for the show to start soon."
+    kv "她还说你应该准备好，演出很快就要开始了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:970
 translate chinese sm1ms029_talk_kv_hr_arj_ed0783dd:
@@ -2816,7 +2816,7 @@ translate chinese sm1ms029_party_part_1_9e372812:
 translate chinese sm1ms029_party_part_1_3ed77072:
 
     # mh "Thank you, [mcname]."
-    mh "Thank you, [mcname]."
+    mh "谢谢，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1185
 translate chinese sm1ms029_party_part_1_85d475fe:
@@ -2870,7 +2870,7 @@ translate chinese sm1ms029_party_part_1_6f4346b1:
 translate chinese sm1ms029_party_part_1_cda7d8e2:
 
     # sy "I know, I know."
-    sy "I know, I know."
+    sy "我知道，我知道。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1202
 translate chinese sm1ms029_party_part_1_e53c9a12:
@@ -3836,7 +3836,7 @@ translate chinese sm1ms029_part_1_my_appear_dbe896c1:
 translate chinese sm1ms029_part_1_my_appear_31ebab56:
 
     # "Everyone" "Wooooo!"
-    "Everyone" "Wooooo!"
+    "Everyone" "哇哦哦哦！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1543
 translate chinese sm1ms029_part_1_my_appear_e91e8c0a:
@@ -4850,7 +4850,7 @@ translate chinese sm1ms029_party_sy_finale_c0c223fa:
 translate chinese sm1ms029_party_arj_254336d8:
 
     # arj "Mmmm."
-    arj "Mmmm."
+    arj "嗯嗯嗯。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1829
 translate chinese sm1ms029_party_arj_4e8ea874:
@@ -5270,7 +5270,7 @@ translate chinese sm1ms029_party_arj_fda3491d:
 translate chinese sm1ms029_party_arj_254336d8_1:
 
     # arj "Mmmm."
-    arj "Mmmm."
+    arj "嗯嗯嗯。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1955
 translate chinese sm1ms029_party_arj_7c7f62e0:
@@ -5966,7 +5966,7 @@ translate chinese sm1ms029_confrontation_3d877b57:
 translate chinese sm1ms029_confrontation_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2180
 translate chinese sm1ms029_confrontation_b56db751:
@@ -6326,7 +6326,7 @@ translate chinese sm1ms029_confrontation_84332637:
 translate chinese sm1ms029_confrontation_77975f23:
 
     # mc "Mmmm."
-    mc "Mmmm."
+    mc "嗯嗯嗯。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2292
 translate chinese sm1ms029_confrontation_2b35b6fe_1:
