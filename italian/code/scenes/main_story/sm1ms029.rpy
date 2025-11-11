@@ -1976,43 +1976,43 @@ translate italian sm1ms029_talk_kv_hr_arj_c1dff962:
 translate italian sm1ms029_talk_kv_hr_arj_3a59403a:
 
     # hr "Mmhmmm. Care to elaborate, [mcname]?"
-    hr "Mmhmmm. Care to elaborate, [mcname]?"
+    hr "Mmhmmm. Vuoi elaborare, [mcname]?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:900
 translate italian sm1ms029_talk_kv_hr_arj_d6b435a8:
 
     # mc "I mean... that's kind of all of it. AmRose didn't like that we had the data, but we had it."
-    mc "I mean... that's kind of all of it. AmRose didn't like that we had the data, but we had it."
+    mc "Voglio dire... è più o meno tutto qui. Ad AmRose non piaceva che avessimo i dati, ma li avevamo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:901
 translate italian sm1ms029_talk_kv_hr_arj_1f898eff:
 
     # mc "And... that's it."
-    mc "And... that's it."
+    mc "E... è tutto."
 
 # game/code/scenes/main_story/sm1ms029.rpy:904
 translate italian sm1ms029_talk_kv_hr_arj_f114e539:
 
     # hr "All right, all right. I won't pry."
-    hr "All right, all right. I won't pry."
+    hr "Va bene, va bene. Non farò domande."
 
 # game/code/scenes/main_story/sm1ms029.rpy:907
 translate italian sm1ms029_talk_kv_hr_arj_e3f5b33d:
 
     # mct "Oh man..."
-    mct "Oh man..."
+    mct "Oh cavolo..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:908
 translate italian sm1ms029_talk_kv_hr_arj_55c0cc3e:
 
     # mct "This is awkward."
-    mct "This is awkward."
+    mct "Questo è imbarazzante."
 
 # game/code/scenes/main_story/sm1ms029.rpy:911
 translate italian sm1ms029_talk_kv_hr_arj_90ca851a:
 
     # kv "Hey, [mcname]-"
-    kv "Hey, [mcname]-"
+    kv "Ehi, [mcname]-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:912
 translate italian sm1ms029_talk_kv_hr_arj_8aabc563:
@@ -2024,13 +2024,13 @@ translate italian sm1ms029_talk_kv_hr_arj_8aabc563:
 translate italian sm1ms029_talk_kv_hr_arj_a3ed8018:
 
     # mc "Have you met AmRose and Hana?"
-    mc "Have you met AmRose and Hana?"
+    mc "Hai conosciuto AmRose e Hana?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:916
 translate italian sm1ms029_talk_kv_hr_arj_450e28a2:
 
     # kv "Nope, can't say that I have."
-    kv "Nope, can't say that I have."
+    kv "No, non posso dire di averle conosciute."
 
 # game/code/scenes/main_story/sm1ms029.rpy:919
 translate italian sm1ms029_talk_kv_hr_arj_f1a909c5:
@@ -2042,7 +2042,7 @@ translate italian sm1ms029_talk_kv_hr_arj_f1a909c5:
 translate italian sm1ms029_talk_kv_hr_arj_9c6e9a88:
 
     # hr "Pleasure."
-    hr "Pleasure."
+    hr "Piacere."
 
 # game/code/scenes/main_story/sm1ms029.rpy:922
 translate italian sm1ms029_talk_kv_hr_arj_ce75a466:
@@ -2054,19 +2054,19 @@ translate italian sm1ms029_talk_kv_hr_arj_ce75a466:
 translate italian sm1ms029_talk_kv_hr_arj_b9a60c20:
 
     # kv "{size=*0.7}Everything okay?{/size}"
-    kv "{size=*0.7}Everything okay?{/size}"
+    kv "{size=*0.7}Tutto okay?{/size}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:928
 translate italian sm1ms029_talk_kv_hr_arj_f03a3c27:
 
     # mc "{size=*0.7}Yeah, just need some back-up.{/size}"
-    mc "{size=*0.7}Yeah, just need some back-up.{/size}"
+    mc "{size=*0.7}Sì, ho solo bisogno di un po' di supporto.{/size}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:931
 translate italian sm1ms029_talk_kv_hr_arj_6fe079b7:
 
     # mc "Kanya is our director of photography! She's shot most, if not all of S&M Studio videos!"
-    mc "Kanya is our director of photography! She's shot most, if not all of S&M Studio videos!"
+    mc "Kanya è il nostro direttore della fotografia! Ha girato la maggior parte, se non tutti i video di S&M Studio!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:932
 translate italian sm1ms029_talk_kv_hr_arj_d54ef43f:
@@ -2078,25 +2078,25 @@ translate italian sm1ms029_talk_kv_hr_arj_d54ef43f:
 translate italian sm1ms029_talk_kv_hr_arj_eb0b3718:
 
     # hr "How'd you get connected to [mcname]?"
-    hr "How'd you get connected to [mcname]?"
+    hr "Come sei entrata in contatto con [mcname]?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:937
 translate italian sm1ms029_talk_kv_hr_arj_db017317:
 
     # kv "He found me! Told me what he was doing, and I was interested.{w} I've wanted an excuse to get into film."
-    kv "He found me! Told me what he was doing, and I was interested.{w} I've wanted an excuse to get into film."
+    kv "Mi ha trovato! Mi ha detto cosa stava facendo, ed ero interessata.{w} Volevo una scusa per entrare nel cinema."
 
 # game/code/scenes/main_story/sm1ms029.rpy:938
 translate italian sm1ms029_talk_kv_hr_arj_c0e307cc:
 
     # kv "[mcname] gave me the perfect excuse!"
-    kv "[mcname] gave me the perfect excuse!"
+    kv "[mcname] mi ha dato la scusa perfetta!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:940
 translate italian sm1ms029_talk_kv_hr_arj_d50dee04:
 
     # kv "And it helps that they're both super hot, and making super hot content."
-    kv "And it helps that they're both super hot, and making super hot content."
+    kv "E aiuta che siano entrambi super attraenti, e creino contenuti super sexy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:943
 translate italian sm1ms029_talk_kv_hr_arj_e2c5a007:
@@ -2108,19 +2108,19 @@ translate italian sm1ms029_talk_kv_hr_arj_e2c5a007:
 translate italian sm1ms029_talk_kv_hr_arj_0ffe1250:
 
     # kv "Are you two aspiring actresses? Is that why you're here?"
-    kv "Are you two aspiring actresses? Is that why you're here?"
+    kv "Siete aspiranti attrici voi due? È per questo che siete qui?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:949
 translate italian sm1ms029_talk_kv_hr_arj_911c149e:
 
     # hr "God, no."
-    hr "God, no."
+    hr "Dio, no."
 
 # game/code/scenes/main_story/sm1ms029.rpy:950
 translate italian sm1ms029_talk_kv_hr_arj_2432f384:
 
     # arj "I don't think I'm, uhm-"
-    arj "I don't think I'm, uhm-"
+    arj "Non penso di essere, uhm-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:952
 translate italian sm1ms029_talk_kv_hr_arj_c0c8ddae:
