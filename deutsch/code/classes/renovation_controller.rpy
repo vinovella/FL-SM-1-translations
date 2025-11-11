@@ -52,21 +52,21 @@ translate deutsch strings:
 
     # game/code/classes/renovation_controller.rpy:48
     old "Renovation progress increased by [progress]%"
-    new "Renovation progress increased by [progress]%"
+    new "Der Renovierungsfortschritt stieg um [progress]%"
 
     # game/code/classes/renovation_controller.rpy:176
     old "before 50%"
-    new "before 50%"
+    new "vor 50%"
 
     # game/code/classes/renovation_controller.rpy:176
     old "after 50%"
-    new "after 50%"
+    new "nach 50%"
 
     # game/code/classes/renovation_controller.rpy:179
     old "Renovation progress is over 50%.\nYou can no longer receive help from [character!t]."
-    new "Renovation progress is over 50%.\nYou can no longer receive help from [character!t]."
+    new "Der Renovierungsfortschritt beträgt über 50%.\nDu kannst keine Hilfe mehr von [character!t] erhalten."
 
     # game/code/classes/renovation_controller.rpy:181
     old "[character!t] can assist with the renovation [before_after!t] completion.\nTalk to [character!t] to proceed."
-    new "[character!t] can assist with the renovation [before_after!t] completion.\nTalk to [character!t] to proceed."
+    new "[character!t] kann bei der Renovierung [before_after!t] helfen.\nSprich mit [character!t], um fortzufahren."
 
