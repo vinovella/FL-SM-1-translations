@@ -1052,163 +1052,163 @@ translate turkish sm1cs_arj002_86f77a53:
 translate turkish sm1cs_arj002_50d8c7e2:
 
     # arj "*sniff* This has just been an awful mistake. I thought about the plan late one night."
-    arj "*sniff* This has just been an awful mistake. I thought about the plan late one night."
+    arj "*burnunu çeker* Bu korkunç bir hataydı. Planı bir gece geç saatte düşündüm."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:590
 translate turkish sm1cs_arj002_1da5ad45:
 
     # arj "I think... it was after seeing your place the first time."
-    arj "I think... it was after seeing your place the first time."
+    arj "Sanırım... evinizi ilk gördükten sonraydı."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:594
 translate turkish sm1cs_arj002_ccac7ee1:
 
     # mc "You mean before the remodel? It really was shitty, haha."
-    mc "You mean before the remodel? It really was shitty, haha."
+    mc "Yeniden düzenlemeden önce mi demek istiyorsun? Gerçekten boktan gibiydi, haha."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:597
 translate turkish sm1cs_arj002_a3f027dd:
 
     # arj "It was, but it had potential."
-    arj "It was, but it had potential."
+    arj "Öyleydi, ama potansiyeli vardı."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:599
 translate turkish sm1cs_arj002_c1a091d9:
 
     # arj "But just look at it now. I was stubborn, and I thought, well, I'll use the studio to get at Stacy from another angle."
-    arj "But just look at it now. I was stubborn, and I thought, well, I'll use the studio to get at Stacy from another angle."
+    arj "Ama şimdi bak. İnatsızdım ve düşündüm ki, stüdyoyu Stacy'ye başka açıdan ulaşmak için kullanırım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:600
 translate turkish sm1cs_arj002_7bf00d09:
 
     # arj "I let my fear make decisions. And I started thinking..."
-    arj "I let my fear make decisions. And I started thinking..."
+    arj "Korkumun karar vermesine izin verdim. Ve düşünmeye başladım..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:603
 translate turkish sm1cs_arj002_5131453e:
 
     # arj "You didn't want me anymore..."
-    arj "You didn't want me anymore..."
+    arj "Beni artık istemiyordun..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:605
 translate turkish sm1cs_arj002_ae7de870:
 
     # mc "That's not true."
-    mc "That's not true."
+    mc "Bu doğru değil."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:607
 translate turkish sm1cs_arj002_54ae59f8:
 
     # arj "*relieved sigh*"
-    arj "*relieved sigh*"
+    arj "*rahatlamış iç çekiş*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:608
 translate turkish sm1cs_arj002_f12f1fcb:
 
     # arj "Being away from you all this time made each day worse for me."
-    arj "Being away from you all this time made each day worse for me."
+    arj "Senden bu kadar uzak olmak her günümü daha da kötü yaptı."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:609
 translate turkish sm1cs_arj002_126e1f8b:
 
     # arj "But being here with you now..."
-    arj "But being here with you now..."
+    arj "Ama şimdi burada seninle olmak..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:612
 translate turkish sm1cs_arj002_09b215b6:
 
     # mc "You can see it in my eyes..."
-    mc "You can see it in my eyes..."
+    mc "Gözlerimde görebiliyorsun..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:614
 translate turkish sm1cs_arj002_87a9a296:
 
     # arj "Oh god, it's so lame. I'm such a mess."
-    arj "Oh god, it's so lame. I'm such a mess."
+    arj "Tanrım, bu çok saçma. Ben tam bir dağınıklığım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:616
 translate turkish sm1cs_arj002_ab9c17b8:
 
     # mc "No, AmRose. Well I mean kind of."
-    mc "No, AmRose. Well I mean kind of."
+    mc "Hayır, AmRose. Yani biraz."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:618
 translate turkish sm1cs_arj002_c186507d:
 
     # arj "*sad laughing*"
-    arj "*sad laughing*"
+    arj "*hüzünlü gülüş*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:620
 translate turkish sm1cs_arj002_fabd7500:
 
     # mc "But I would make out with you in a shitstorm if it meant tasting your lips."
-    mc "But I would make out with you in a shitstorm if it meant tasting your lips."
+    mc "Ama dudaklarını tatmak anlamına gelse bile bir bok fırtınasında seninle öpüşürdüm."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:621
 translate turkish sm1cs_arj002_27ed1416:
 
     # mc "And that's the fluffy lord's truth."
-    mc "And that's the fluffy lord's truth."
+    mc "Ve bu tüylü lordun gerçeği."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:624
 translate turkish sm1cs_arj002_cd24d819:
 
     # arj "I've been such a fool.{w} Stacy..."
-    arj "I've been such a fool.{w} Stacy..."
+    arj "Çok aptal oldum.{w} Stacy..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:625
 translate turkish sm1cs_arj002_decfec76:
 
     # arj "I owe you an apology too. While everything was ending last year, well..."
-    arj "I owe you an apology too. While everything was ending last year, well..."
+    arj "Sana da özür borçluyum. Geçen yıl her şey biterken, yani..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:626
 translate turkish sm1cs_arj002_63476571:
 
     # arj "Sometimes inner demons speak louder than angels."
-    arj "Sometimes inner demons speak louder than angels."
+    arj "Bazen içimizdeki şeytanlar meleklerden daha yüksek sesle konuşur."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:629
 translate turkish sm1cs_arj002_b7d444ad:
 
     # sy "There is nothing to apologize for, AmRose."
-    sy "There is nothing to apologize for, AmRose."
+    sy "Özür dileyecek bir şey yok, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:630
 translate turkish sm1cs_arj002_27383dc4:
 
     # sy "Well... *coughs lightly* Nothing that you can't make up for."
-    sy "Well... *coughs lightly* Nothing that you can't make up for."
+    sy "Ee... *hafif öksürür* Telafi edemeyeceğin bir şey yok."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:633
 translate turkish sm1cs_arj002_e3ce5fb5:
 
     # arj "Mmmm. I did do a bad thing. And penance... sounds appropriate."
-    arj "Mmmm. I did do a bad thing. And penance... sounds appropriate."
+    arj "Mmmm. Kötü bir şey yaptım. Ve kefaret... uygun geliyor."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:635
 translate turkish sm1cs_arj002_79914e5f:
 
     # mc "Not at all, my little plaything."
-    mc "Not at all, my little plaything."
+    mc "Hiç de değil, küçük oyuncağım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:636
 translate turkish sm1cs_arj002_800546a9:
 
     # mc "Are you ready to continue filming?"
-    mc "Are you ready to continue filming?"
+    mc "Çekime devam etmeye hazır mısın?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:639
 translate turkish sm1cs_arj002_4c52213a:
 
     # arj "Yes... [mcname]."
-    arj "Yes... [mcname]."
+    arj "Evet... [mcname]."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:641
 translate turkish sm1cs_arj002_02822644:
 
     # arj "I mean...{w}Yes, [arj_mcname!t]."
-    arj "I mean...{w}Yes, [arj_mcname!t]."
+    arj "Yani...{w}Evet, [arj_mcname!t]."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:646
 translate turkish sm1cs_arj002_250d44ab:
@@ -1220,19 +1220,19 @@ translate turkish sm1cs_arj002_250d44ab:
 translate turkish sm1cs_arj002_355baa08:
 
     # mc "Your punishment begins now my pet."
-    mc "Your punishment begins now my pet."
+    mc "Cezanız şimdi başlıyor, evcil hayvanım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:651
 translate turkish sm1cs_arj002_fa8b3aa0:
 
     # arj "Yes, [arj_mcname!t]..."
-    arj "Yes, [arj_mcname!t]..."
+    arj "Evet, [arj_mcname!t]..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:657
 translate turkish sm1cs_arj002_fe5f741e:
 
     # mc "Good girl. You still remember your old tricks."
-    mc "Good girl. You still remember your old tricks."
+    mc "İyi kız. Eski numaralarını hâlâ hatırlıyorsun."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:658
 translate turkish sm1cs_arj002_1bccbb93:
@@ -1244,19 +1244,19 @@ translate turkish sm1cs_arj002_1bccbb93:
 translate turkish sm1cs_arj002_1e31c746:
 
     # sy "Oh that is so hot."
-    sy "Oh that is so hot."
+    sy "Oh bu çok seksi."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:662
 translate turkish sm1cs_arj002_56abe963:
 
     # mc "Fuck me, her lips feel so good."
-    mc "Fuck me, her lips feel so good."
+    mc "Kahretsin, dudakları çok iyi hissettiriyor."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:664
 translate turkish sm1cs_arj002_9c163278:
 
     # arj "*wet, sloppy sucking*"
-    arj "*wet, sloppy sucking*"
+    arj "*ıslak, dağınık emme*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:670
 translate turkish sm1cs_arj002_e7407a01:
@@ -1268,13 +1268,13 @@ translate turkish sm1cs_arj002_e7407a01:
 translate turkish sm1cs_arj002_7c49037e:
 
     # arj "But [arj_mcname!t] I haven't made you cum yet."
-    arj "But [arj_mcname!t] I haven't made you cum yet."
+    arj "Ama [arj_mcname!t] sizi henüz boşaltmadım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:675
 translate turkish sm1cs_arj002_78310c38:
 
     # mc "Fuck I've missed this so much!"
-    mc "Fuck I've missed this so much!"
+    mc "Kahretsin bunu çok özledim!"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:679
 translate turkish sm1cs_arj002_2aef0db0:
