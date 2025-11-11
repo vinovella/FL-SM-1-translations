@@ -38,7 +38,7 @@ translate portuguese sm1cs_dc001i_a70fd013:
 translate portuguese sm1cs_dc001i_5b5a0be7:
 
     # dc "Please do! He's been seen stalking around the park at night."
-    dc "Por favor! Ele tem sido visto rondando o parque à noite."
+    dc "Por favor! Viram ele rondando o parque à noite."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc001i.rpy:22
 translate portuguese sm1cs_dc001i_2a67fcb3:
