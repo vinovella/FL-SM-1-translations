@@ -1262,7 +1262,7 @@ translate chinese sm1ms029_talk_tl_mes_7168d4f3:
 translate chinese sm1ms029_talk_tl_mes_7e76fa14:
 
     # mes "For one thing, \"roomie\" seriously downplays who we are to you."
-    mes "For one thing, \"roomie\" seriously downplays who we are to you."
+    mes "首先，\"室友\"这个词严重低估了我们对你的意义。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:625
 translate chinese sm1ms029_talk_tl_mes_520cd898:
@@ -1286,13 +1286,13 @@ translate chinese sm1ms029_talk_tl_mes_3018ffe4:
 translate chinese sm1ms029_talk_tl_mes_65c5cdd3:
 
     # mc "In a different universe, maybe."
-    mc "In a different universe, maybe."
+    mc "在另一个宇宙里，也许吧。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:634
 translate chinese sm1ms029_talk_tl_mes_afc42360:
 
     # tl "Secondly, it belittles us a bit to be reduced to \"roomie\"."
-    tl "Secondly, it belittles us a bit to be reduced to \"roomie\"."
+    tl "其次，被简化为\"室友\"有点贬低我们。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:635
 translate chinese sm1ms029_talk_tl_mes_e00369e1:
@@ -1304,67 +1304,67 @@ translate chinese sm1ms029_talk_tl_mes_e00369e1:
 translate chinese sm1ms029_talk_tl_mes_9ebaad04:
 
     # mc "Shit... I guess, I am."
-    mc "Shit... I guess, I am."
+    mc "该死...我想，我是的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:639
 translate chinese sm1ms029_talk_tl_mes_f0d1bc7a:
 
     # mes "Thirdly..."
-    mes "Thirdly..."
+    mes "第三..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:642
 translate chinese sm1ms029_talk_tl_mes_6b10d666:
 
     # mes "What's third?"
-    mes "What's third?"
+    mes "第三是什么？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:644
 translate chinese sm1ms029_talk_tl_mes_bafb6dae:
 
     # tl "Just that it's fucking cringe to call someone a \"roomie\"."
-    tl "Just that it's fucking cringe to call someone a \"roomie\"."
+    tl "就是叫别人\"室友\"真他妈尴尬。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:645
 translate chinese sm1ms029_talk_tl_mes_47ebf633:
 
     # tl "They only do that shit in sitcoms."
-    tl "They only do that shit in sitcoms."
+    tl "他们只在情景喜剧里那样做。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:648
 translate chinese sm1ms029_talk_tl_mes_16abb13a:
 
     # mes "You've got a good point there."
-    mes "You've got a good point there."
+    mes "你说得有道理。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:651
 translate chinese sm1ms029_talk_tl_mes_c9dd41a0:
 
     # mc "Okay, so now that you've both had the chance to gang up on me, I'm assuming you've had some time to chat?"
-    mc "Okay, so now that you've both had the chance to gang up on me, I'm assuming you've had some time to chat?"
+    mc "好吧，既然你们俩都有机会联合起来对付我了，我猜你们应该有时间聊过了？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:654
 translate chinese sm1ms029_talk_tl_mes_5e71ea17:
 
     # mes "That's a joke, right?"
-    mes "That's a joke, right?"
+    mes "你在开玩笑吧？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:655
 translate chinese sm1ms029_talk_tl_mes_5645cf64:
 
     # tl "Seriously, [mcname]."
-    tl "Seriously, [mcname]."
+    tl "说真的，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:656
 translate chinese sm1ms029_talk_tl_mes_853ac5dd:
 
     # mc "What! I don't know! I'm not around that often, and I wasn't sure how often you two had crossed paths!"
-    mc "What! I don't know! I'm not around that often, and I wasn't sure how often you two had crossed paths!"
+    mc "什么！我不知道！我不经常在这里，我不确定你们俩多久见一次面！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:663
 translate chinese sm1ms029_talk_tl_mes_39813757:
 
     # mes "Of course we have. {i}We live together.{/i}"
-    mes "Of course we have. {i}We live together.{/i}"
+    mes "我们当然见过。{i}我们住在一起。{/i}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:664
 translate chinese sm1ms029_talk_tl_mes_f0dae7e6:
@@ -1376,7 +1376,7 @@ translate chinese sm1ms029_talk_tl_mes_f0dae7e6:
 translate chinese sm1ms029_talk_tl_mes_b73a7d06:
 
     # mes "Huh."
-    mes "Huh."
+    mes "嗯。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:668
 translate chinese sm1ms029_talk_tl_mes_1b400966:
@@ -1388,37 +1388,37 @@ translate chinese sm1ms029_talk_tl_mes_1b400966:
 translate chinese sm1ms029_talk_tl_mes_a74166dd:
 
     # mes "It's just... I don't think I get called \"bad ass\" usually."
-    mes "It's just... I don't think I get called \"bad ass\" usually."
+    mes "只是...我通常不会被叫做\"坏蛋\"。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:671
 translate chinese sm1ms029_talk_tl_mes_76ee5436:
 
     # mes "In my culture it's \"powerful\" or \"goal oriented\"."
-    mes "In my culture it's \"powerful\" or \"goal oriented\"."
+    mes "在我的文化中，这叫\"强大\"或\"目标导向\"。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:672
 translate chinese sm1ms029_talk_tl_mes_b783a969:
 
     # mes "And that assholes usually just call it \"bitchy\"."
-    mes "And that assholes usually just call it \"bitchy\"."
+    mes "而那些混蛋通常只会称之为\"刻薄\"。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:675
 translate chinese sm1ms029_talk_tl_mes_265fa68f:
 
     # tl "I get it. I've been called a bitch more than once in my life."
-    tl "I get it. I've been called a bitch more than once in my life."
+    tl "我明白。我这辈子不止一次被叫做婊子。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:678
 translate chinese sm1ms029_talk_tl_mes_355ea2cb:
 
     # mes "Well, that's because you're a bad ass."
-    mes "Well, that's because you're a bad ass."
+    mes "嗯，那是因为你是个坏蛋。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:680
 translate chinese sm1ms029_talk_tl_mes_771e210f:
 
     # tl "Thank you, Min."
-    tl "Thank you, Min."
+    tl "谢谢，明。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:682
 translate chinese sm1ms029_talk_tl_mes_8bd5b851:
@@ -1430,31 +1430,31 @@ translate chinese sm1ms029_talk_tl_mes_8bd5b851:
 translate chinese sm1ms029_talk_tl_mes_e926ff8a:
 
     # tl "Damn straight."
-    tl "Damn straight."
+    tl "该死的没错。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:686
 translate chinese sm1ms029_talk_tl_mes_b09c0c4f:
 
     # mct "Huh... this was not the friendship I expected."
-    mct "Huh... this was not the friendship I expected."
+    mct "嗯...这不是我预期的友谊。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:687
 translate chinese sm1ms029_talk_tl_mes_363cb119:
 
     # mct "But, this is good! I'm happy they can see eye to eye."
-    mct "But, this is good! I'm happy they can see eye to eye."
+    mct "但是，这很好！我很高兴她们能意见一致。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:690
 translate chinese sm1ms029_talk_tl_mes_22142562:
 
     # mct "Now... let's make my exit, without disturbing them."
-    mct "Now... let's make my exit, without disturbing them."
+    mct "现在...让我悄悄离开，不打扰她们。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:691
 translate chinese sm1ms029_talk_tl_mes_7545b72e:
 
     # mct "I don't need to be ripped to shreds a second time..."
-    mct "I don't need to be ripped to shreds a second time..."
+    mct "我不需要再被撕成碎片第二次..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:702
 translate chinese sm1ms029_talk_mes_ns_3dc038a1:
@@ -1484,7 +1484,7 @@ translate chinese sm1ms029_talk_mes_ns_bd55fdb3:
 translate chinese sm1ms029_talk_mes_ns_ee6bc3d3:
 
     # mc "You two seem to be getting along well!"
-    mc "You two seem to be getting along well!"
+    mc "你们俩似乎相处得很好！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:711
 translate chinese sm1ms029_talk_mes_ns_a072c855:
@@ -1496,67 +1496,67 @@ translate chinese sm1ms029_talk_mes_ns_a072c855:
 translate chinese sm1ms029_talk_mes_ns_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "嗯？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:715
 translate chinese sm1ms029_talk_mes_ns_5bca477e:
 
     # ns "Oh, I'm sorry, [mcname]!"
-    ns "Oh, I'm sorry, [mcname]!"
+    ns "哦，对不起，[mcname]！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:716
 translate chinese sm1ms029_talk_mes_ns_056d0bd3:
 
     # mes "Hehehehehe."
-    mes "Hehehehehe."
+    mes "呵呵呵呵。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:719
 translate chinese sm1ms029_talk_mes_ns_55e00494:
 
     # mes "It's a struggle to switch between your mother tongue and your second language sometimes."
-    mes "It's a struggle to switch between your mother tongue and your second language sometimes."
+    mes "有时候在母语和第二语言之间切换很困难。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:720
 translate chinese sm1ms029_talk_mes_ns_97885c81:
 
     # mes "Especially when you don't get to practice very often."
-    mes "Especially when you don't get to practice very often."
+    mes "尤其是当你不经常练习的时候。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:723
 translate chinese sm1ms029_talk_mes_ns_6921a067:
 
     # mc "Well, I'm happy that you both get to practice then!"
-    mc "Well, I'm happy that you both get to practice then!"
+    mc "嗯，我很高兴你们俩都能练习！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:724
 translate chinese sm1ms029_talk_mes_ns_764f0431:
 
     # ns "I am too!"
-    ns "I am too!"
+    ns "我也是！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:727
 translate chinese sm1ms029_talk_mes_ns_1f91321b:
 
     # ns "It's so wonderful to be able to talk to someone who's also been to Seoul!"
-    ns "It's so wonderful to be able to talk to someone who's also been to Seoul!"
+    ns "能和一个也去过首尔的人聊天太棒了！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:728
 translate chinese sm1ms029_talk_mes_ns_05738eb0:
 
     # mes "It is pretty nice."
-    mes "It is pretty nice."
+    mes "确实很不错。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:731
 translate chinese sm1ms029_talk_mes_ns_2d051cd4:
 
     # mc "I'll have to visit it some day!"
-    mc "I'll have to visit it some day!"
+    mc "我总有一天要去那里！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:732
 translate chinese sm1ms029_talk_mes_ns_2857d008:
 
     # ns "Oh, you absolutely must! There are so many good places to eat!"
-    ns "Oh, you absolutely must! There are so many good places to eat!"
+    ns "哦，你绝对必须去！有那么多好吃的地方！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:733
 translate chinese sm1ms029_talk_mes_ns_fea01c58:
@@ -1568,13 +1568,13 @@ translate chinese sm1ms029_talk_mes_ns_fea01c58:
 translate chinese sm1ms029_talk_mes_ns_ffa63963:
 
     # ns "Oh, oh, like a good Korean hot dog!"
-    ns "Oh, oh, like a good Korean hot dog!"
+    ns "哦，哦，比如好吃的韩国热狗！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:738
 translate chinese sm1ms029_talk_mes_ns_277797c1:
 
     # ns "Or boba! Like, {i}real{/i} boba tea!"
-    ns "Or boba! Like, {i}real{/i} boba tea!"
+    ns "或者波霸！就像，{i}真正的{/i}波霸奶茶！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:739
 translate chinese sm1ms029_talk_mes_ns_9de3e2e4:
@@ -1586,25 +1586,25 @@ translate chinese sm1ms029_talk_mes_ns_9de3e2e4:
 translate chinese sm1ms029_talk_mes_ns_4124673d:
 
     # mes "Don't tease him with food he can't have, Nari."
-    mes "Don't tease him with food he can't have, Nari."
+    mes "别用他吃不到的食物逗他，娜丽。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:743
 translate chinese sm1ms029_talk_mes_ns_4e108bdd:
 
     # ns "Oh, but it's so good! Oh, my mouth is watering just thinking about it!"
-    ns "Oh, but it's so good! Oh, my mouth is watering just thinking about it!"
+    ns "哦，但它太好吃了！哦，光是想想就流口水了！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:746
 translate chinese sm1ms029_talk_mes_ns_ed88b19f:
 
     # mes "She's just an excitable one, isn't she?"
-    mes "She's just an excitable one, isn't she?"
+    mes "她就是容易兴奋，不是吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:747
 translate chinese sm1ms029_talk_mes_ns_ae746b29:
 
     # mc "Oh, she absolutely does."
-    mc "Oh, she absolutely does."
+    mc "哦，她绝对是。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:749
 translate chinese sm1ms029_talk_mes_ns_f246ec81:
@@ -1616,19 +1616,19 @@ translate chinese sm1ms029_talk_mes_ns_f246ec81:
 translate chinese sm1ms029_talk_mes_ns_8d42590c:
 
     # mc "Yes, yes she is."
-    mc "Yes, yes she is."
+    mc "是的，是的，她是。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:753
 translate chinese sm1ms029_talk_mes_ns_a1c8e8bb:
 
     # mes "I do like speaking Korean, that is a nice pleasantry of missed."
-    mes "I do like speaking Korean, that is a nice pleasantry of missed."
+    mes "我确实喜欢说韩语，那是一种错过的美好感觉。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:754
 translate chinese sm1ms029_talk_mes_ns_83f3d709:
 
     # mc "I can imagine."
-    mc "I can imagine."
+    mc "我能想象。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:757
 translate chinese sm1ms029_talk_mes_ns_7b7e6fb3:
@@ -1640,7 +1640,7 @@ translate chinese sm1ms029_talk_mes_ns_7b7e6fb3:
 translate chinese sm1ms029_talk_mes_ns_bdaf1c4c:
 
     # mc "Yeah... I can imagine that's comforting."
-    mc "Yeah... I can imagine that's comforting."
+    mc "是的...我能想象那很安慰人。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:759
 translate chinese sm1ms029_talk_mes_ns_9ef95c11:
@@ -1652,43 +1652,43 @@ translate chinese sm1ms029_talk_mes_ns_9ef95c11:
 translate chinese sm1ms029_talk_mes_ns_b237c65c:
 
     # mct "Maybe I should do that sometime... get to know Min better."
-    mct "Maybe I should do that sometime... get to know Min better."
+    mct "也许我应该找个时间...更好地了解明。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:764
 translate chinese sm1ms029_talk_mes_ns_f2dbd6c7:
 
     # mes "I'll keep an eye on her tonight, promise."
-    mes "I'll keep an eye on her tonight, promise."
+    mes "我今晚会照看她的，保证。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:765
 translate chinese sm1ms029_talk_mes_ns_d1579dea:
 
     # mc "Thank you, Min."
-    mc "Thank you, Min."
+    mc "谢谢你，明。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:768
 translate chinese sm1ms029_talk_mes_ns_a2d1ea75:
 
     # mc "She does need a supervisor>"
-    mc "She does need a supervisor>"
+    mc "她确实需要一个监督人>"
 
 # game/code/scenes/main_story/sm1ms029.rpy:769
 translate chinese sm1ms029_talk_mes_ns_4ab9b3f2:
 
     # mes "Hehehe, I believe that."
-    mes "Hehehe, I believe that."
+    mes "呵呵呵，我相信。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:772
 translate chinese sm1ms029_talk_mes_ns_654f2de5:
 
     # mc "I hope you both enjoy the show later."
-    mc "I hope you both enjoy the show later."
+    mc "我希望你们俩稍后都能享受这场表演。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:773
 translate chinese sm1ms029_talk_mes_ns_3bee4600:
 
     # ns "Oh, we will!"
-    ns "Oh, we will!"
+    ns "哦，我们会的！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:775
 translate chinese sm1ms029_talk_mes_ns_4d2952fd:
@@ -1724,31 +1724,31 @@ translate chinese sm1ms029_talk_tl_ns_3bcbb30f:
 translate chinese sm1ms029_talk_tl_ns_2787bc59:
 
     # mc "It's nice to see you two chatting!"
-    mc "It's nice to see you two chatting!"
+    mc "看到你们俩聊天真好！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:798
 translate chinese sm1ms029_talk_tl_ns_02e746d0:
 
     # ns "Yeah! We don't really get a chance to talk very often!"
-    ns "Yeah! We don't really get a chance to talk very often!"
+    ns "是的！我们真的不常有机会聊天！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:799
 translate chinese sm1ms029_talk_tl_ns_bfc3414f:
 
     # tl "Ships passing in the night, usually."
-    tl "Ships passing in the night, usually."
+    tl "通常就像夜里过往的船只。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:801
 translate chinese sm1ms029_talk_tl_ns_31bb92ce:
 
     # mc "Yeah, I guess I've never really thought about it."
-    mc "Yeah, I guess I've never really thought about it."
+    mc "是的，我想我从来没真正想过这个问题。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:804
 translate chinese sm1ms029_talk_tl_ns_54dfdf04:
 
     # tl "Yeah, offset schedules and all that."
-    tl "Yeah, offset schedules and all that."
+    tl "是的，错开的时间表之类的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:805
 translate chinese sm1ms029_talk_tl_ns_ec9b8664:
@@ -1760,25 +1760,25 @@ translate chinese sm1ms029_talk_tl_ns_ec9b8664:
 translate chinese sm1ms029_talk_tl_ns_3b6bba2c:
 
     # tl "Says the woman who gets up at 5am!"
-    tl "Says the woman who gets up at 5am!"
+    tl "早上5点起床的女人这么说！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:809
 translate chinese sm1ms029_talk_tl_ns_4f14dcb3:
 
     # tl "That's insane."
-    tl "That's insane."
+    tl "那太疯狂了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:811
 translate chinese sm1ms029_talk_tl_ns_b25dd6d6:
 
     # mc "Yeah, that is a little bit crazy, Nari."
-    mc "Yeah, that is a little bit crazy, Nari."
+    mc "是的，那确实有点疯狂，娜丽。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:813
 translate chinese sm1ms029_talk_tl_ns_b4da4a73:
 
     # ns "I'm not crazy!"
-    ns "I'm not crazy!"
+    ns "我不疯狂！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:815
 translate chinese sm1ms029_talk_tl_ns_7e1f46f1:
@@ -1790,31 +1790,31 @@ translate chinese sm1ms029_talk_tl_ns_7e1f46f1:
 translate chinese sm1ms029_talk_tl_ns_585c4216:
 
     # ns "Nuh uh!"
-    ns "Nuh uh!"
+    ns "不是！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:819
 translate chinese sm1ms029_talk_tl_ns_cac234da:
 
     # ns "Wait..."
-    ns "Wait..."
+    ns "等等..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:822
 translate chinese sm1ms029_talk_tl_ns_4d6f12a5:
 
     # ns "Yeah, huh! I know I'm not crazy!"
-    ns "Yeah, huh! I know I'm not crazy!"
+    ns "是的，嗯！我知道我不疯狂！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:823
 translate chinese sm1ms029_talk_tl_ns_254a8c2a:
 
     # tl "Hehehehehe!"
-    tl "Hehehehehe!"
+    tl "呵呵呵呵！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:826
 translate chinese sm1ms029_talk_tl_ns_ceacdba3:
 
     # mc "Taisia, don't pick on Nari."
-    mc "Taisia, don't pick on Nari."
+    mc "泰西娅，别欺负娜丽。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:827
 translate chinese sm1ms029_talk_tl_ns_4d5f2f97:
@@ -1832,25 +1832,25 @@ translate chinese sm1ms029_talk_tl_ns_0f818704:
 translate chinese sm1ms029_talk_tl_ns_545fbf54:
 
     # ns "I am adorable!"
-    ns "I am adorable!"
+    ns "我是可爱的！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:834
 translate chinese sm1ms029_talk_tl_ns_d3f2e6f0:
 
     # ns "Which is why you shouldn't be picking on me!"
-    ns "Which is why you shouldn't be picking on me!"
+    ns "所以你不应该欺负我！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:835
 translate chinese sm1ms029_talk_tl_ns_2686ff52:
 
     # tl "But how else am I going to see your cute pouty face, Nari?"
-    tl "But how else am I going to see your cute pouty face, Nari?"
+    tl "但不然我怎么能看到你可爱的噘嘴脸呢，娜丽？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:838
 translate chinese sm1ms029_talk_tl_ns_4ec81c19:
 
     # ns "Hmph!"
-    ns "Hmph!"
+    ns "哼！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:839
 translate chinese sm1ms029_talk_tl_ns_6b2824e5:
@@ -1862,7 +1862,7 @@ translate chinese sm1ms029_talk_tl_ns_6b2824e5:
 translate chinese sm1ms029_talk_tl_ns_5cb50917:
 
     # ns "Hmmmmph!!"
-    ns "Hmmmmph!!"
+    ns "哼哼哼！！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:842
 translate chinese sm1ms029_talk_tl_ns_0c3105c2:
@@ -1880,25 +1880,25 @@ translate chinese sm1ms029_talk_tl_ns_d9b4a27e:
 translate chinese sm1ms029_talk_tl_ns_87a2ea18:
 
     # tl "How are you just so cute?"
-    tl "How are you just so cute?"
+    tl "你怎么就这么可爱？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:850
 translate chinese sm1ms029_talk_tl_ns_52db67e4:
 
     # ns "I don't know!"
-    ns "I don't know!"
+    ns "我不知道！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:853
 translate chinese sm1ms029_talk_tl_ns_de368e0b:
 
     # mc "Well, I'll leave you two to it."
-    mc "Well, I'll leave you two to it."
+    mc "好吧，我让你们俩继续。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:854
 translate chinese sm1ms029_talk_tl_ns_ede09f41:
 
     # ns "Hehehehe, okay!"
-    ns "Hehehehe, okay!"
+    ns "呵呵呵呵，好的！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:874
 translate chinese sm1ms029_talk_kv_hr_arj_043b6df1:
