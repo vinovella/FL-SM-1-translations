@@ -2186,25 +2186,25 @@ translate italian sm1ms029_talk_kv_hr_arj_ed0783dd:
 translate italian sm1ms029_talk_kv_hr_arj_f1f50e3c:
 
     # arj "Oh yes. The main event is going to be exciting."
-    arj "Oh yes. The main event is going to be exciting."
+    arj "Oh sì. L'evento principale sarà emozionante."
 
 # game/code/scenes/main_story/sm1ms029.rpy:973
 translate italian sm1ms029_talk_kv_hr_arj_57caba3c:
 
     # hr "Sounds like fun.{w} Catch you later."
-    hr "Sounds like fun.{w} Catch you later."
+    hr "Sembra divertente.{w} Ci vediamo dopo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:985
 translate italian sm1ms029_party_part_1_2a92b2bc:
 
     # arj "Ladies, and gentleman, our first show of the night is about to begin!"
-    arj "Ladies, and gentleman, our first show of the night is about to begin!"
+    arj "Signore e signori, il nostro primo spettacolo della serata sta per iniziare!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:988
 translate italian sm1ms029_party_part_1_12858ca6:
 
     # arj "Please welcome, Stacy!"
-    arj "Please welcome, Stacy!"
+    arj "Per favore, diamo il benvenuto a Stacy!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:991
 translate italian sm1ms029_party_part_1_11154dea:
@@ -2216,7 +2216,7 @@ translate italian sm1ms029_party_part_1_11154dea:
 translate italian sm1ms029_party_part_1_22b701c9:
 
     # arj "Tonight, Stacy has agreed to allow everyone to participate."
-    arj "Tonight, Stacy has agreed to allow everyone to participate."
+    arj "Stasera, Stacy ha accettato di permettere a tutti di partecipare."
 
 # game/code/scenes/main_story/sm1ms029.rpy:997
 translate italian sm1ms029_party_part_1_9e07a27a:
