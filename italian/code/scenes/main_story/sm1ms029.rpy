@@ -2,43 +2,43 @@
 translate italian sm1ms029_79f99e06:
 
     # mc "Whatcha' thinking, Stacy?"
-    mc "Whatcha' thinking, Stacy?"
+    mc "A cosa stai pensando, Stacy?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:18
 translate italian sm1ms029_3991f715:
 
     # sy "That we can't hold a party in our regular old studio."
-    sy "That we can't hold a party in our regular old studio."
+    sy "Che non possiamo fare una festa nel nostro vecchio studio."
 
 # game/code/scenes/main_story/sm1ms029.rpy:20
 translate italian sm1ms029_edb72193:
 
     # sy "We need to liven the place up a bit."
-    sy "We need to liven the place up a bit."
+    sy "Dobbiamo ravvivare un po' il posto."
 
 # game/code/scenes/main_story/sm1ms029.rpy:23
 translate italian sm1ms029_37154a2a:
 
     # mc "Uh oh."
-    mc "Uh oh."
+    mc "Oh oh."
 
 # game/code/scenes/main_story/sm1ms029.rpy:24
 translate italian sm1ms029_071beaf0:
 
     # sy "You know what that means!"
-    sy "You know what that means!"
+    sy "Sai cosa significa!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:27
 translate italian sm1ms029_9c903456:
 
     # mc "Please, God, no."
-    mc "Please, God, no."
+    mc "Ti prego, Dio, no."
 
 # game/code/scenes/main_story/sm1ms029.rpy:29
 translate italian sm1ms029_e04a06ce:
 
     # sy "Time for a decoration montage!"
-    sy "Time for a decoration montage!"
+    sy "È ora di un montaggio di decorazioni!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:30
 translate italian sm1ms029_62459064:
@@ -50,49 +50,49 @@ translate italian sm1ms029_62459064:
 translate italian sm1ms029_5dba34b3:
 
     # sy "Come on, it'll be fun!"
-    sy "Come on, it'll be fun!"
+    sy "Dai, sarà divertente!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:35
 translate italian sm1ms029_7a5f083f:
 
     # mc "Maybe for you. But I'm the one who ends up doing all the work, and you just sit around looking hot."
-    mc "Maybe for you. But I'm the one who ends up doing all the work, and you just sit around looking hot."
+    mc "Forse per te. Ma sono io quello che finisce per fare tutto il lavoro, e tu te ne stai lì seduta sembrando bellissima."
 
 # game/code/scenes/main_story/sm1ms029.rpy:36
 translate italian sm1ms029_8a838bd4:
 
     # sy "Of course! You always need to look hot!"
-    sy "Of course! You always need to look hot!"
+    sy "Certo! Devi sempre sembrare attraente!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:38
 translate italian sm1ms029_73dbe022:
 
     # mc "Oh yeah? And why's that, huh?"
-    mc "Oh yeah? And why's that, huh?"
+    mc "Oh sì? E perché, eh?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:39
 translate italian sm1ms029_3fe21214:
 
     # sy "Because you never know who's watching you."
-    sy "Because you never know who's watching you."
+    sy "Perché non sai mai chi ti sta guardando."
 
 # game/code/scenes/main_story/sm1ms029.rpy:42
 translate italian sm1ms029_2ffe07cf:
 
     # mc "It's just me here, Stacy."
-    mc "It's just me here, Stacy."
+    mc "Ci sono solo io qui, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:45
 translate italian sm1ms029_67fcf07b:
 
     # sy "That's what you think."
-    sy "That's what you think."
+    sy "È quello che pensi tu."
 
 # game/code/scenes/main_story/sm1ms029.rpy:46
 translate italian sm1ms029_e88d7b09:
 
     # sy "Now come on, chop, chop! To work, pool boy!"
-    sy "Now come on, chop, chop! To work, pool boy!"
+    sy "Ora dai, muoviti, muoviti! Al lavoro, ragazzo della piscina!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:48
 translate italian sm1ms029_8464a05b:
@@ -104,13 +104,13 @@ translate italian sm1ms029_8464a05b:
 translate italian sm1ms029_c1b5c70a:
 
     # mc "All right, and you sure everyone got the invite?"
-    mc "All right, and you sure everyone got the invite?"
+    mc "Va bene, e sei sicura che tutti abbiano ricevuto l'invito?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:64
 translate italian sm1ms029_acdacbac:
 
     # sy "Uh huh! They'll start arriving any second."
-    sy "Uh huh! They'll start arriving any second."
+    sy "Uh huh! Cominceranno ad arrivare da un momento all'altro."
 
 # game/code/scenes/main_story/sm1ms029.rpy:67
 translate italian sm1ms029_2c9a23fd:
@@ -122,115 +122,115 @@ translate italian sm1ms029_2c9a23fd:
 translate italian sm1ms029_aed102d0:
 
     # sy "Wow what?"
-    sy "Wow what?"
+    sy "Wow cosa?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:70
 translate italian sm1ms029_3064bc9d:
 
     # mc "I just... never thought I'd be hosting my own Fetish Locator party."
-    mc "I just... never thought I'd be hosting my own Fetish Locator party."
+    mc "Io solo... non avrei mai pensato di ospitare una mia festa di Fetish Locator."
 
 # game/code/scenes/main_story/sm1ms029.rpy:73
 translate italian sm1ms029_7e6a2515:
 
     # sy "Well, you're not now, [mcname]."
-    sy "Well, you're not now, [mcname]."
+    sy "Beh, non lo stai facendo ora, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:74
 translate italian sm1ms029_e0715dbc:
 
     # mc "But-"
-    mc "But-"
+    mc "Ma-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:76
 translate italian sm1ms029_277fcba5:
 
     # sy "But nothing! This is a S&M Studio party. Not an FL party."
-    sy "But nothing! This is a S&M Studio party. Not an FL party."
+    sy "Ma niente! Questa è una festa dello S&M Studio. Non una festa di FL."
 
 # game/code/scenes/main_story/sm1ms029.rpy:79
 translate italian sm1ms029_2565e6ab:
 
     # mc "Semantics. What I'm trying to say is..."
-    mc "Semantics. What I'm trying to say is..."
+    mc "Semantica. Quello che sto cercando di dire è..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:82
 translate italian sm1ms029_78a2ca4c:
 
     # mc "Things have really changed, and I think for the better."
-    mc "Things have really changed, and I think for the better."
+    mc "Le cose sono davvero cambiate, e penso in meglio."
 
 # game/code/scenes/main_story/sm1ms029.rpy:83
 translate italian sm1ms029_b7f96245:
 
     # mc "Here I am, standing in our beautifully remodeled studio apartment."
-    mc "Here I am, standing in our beautifully remodeled studio apartment."
+    mc "Eccomi qui, in piedi nel nostro appartamento studio splendidamente ristrutturato."
 
 # game/code/scenes/main_story/sm1ms029.rpy:86
 translate italian sm1ms029_6427e598:
 
     # mc "With my amazing sister."
-    mc "With my amazing sister."
+    mc "Con la mia fantastica sorella."
 
 # game/code/scenes/main_story/sm1ms029.rpy:88
 translate italian sm1ms029_331679fc:
 
     # mc "With my incredible girlfriend."
-    mc "With my incredible girlfriend."
+    mc "Con la mia incredibile ragazza."
 
 # game/code/scenes/main_story/sm1ms029.rpy:90
 translate italian sm1ms029_61ce2962:
 
     # mc "About to have a kink party to celebrate launching our porn studio."
-    mc "About to have a kink party to celebrate launching our porn studio."
+    mc "Sul punto di fare una festa fetish per celebrare il lancio del nostro studio porno."
 
 # game/code/scenes/main_story/sm1ms029.rpy:91
 translate italian sm1ms029_2ed0f494:
 
     # mc "How could things be any better?"
-    mc "How could things be any better?"
+    mc "Come potrebbero andare meglio le cose?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:94
 translate italian sm1ms029_6a9de7a5:
 
     # sy "Better be careful, [mcname]. Talking like that, I'll think you're getting sentimental on me."
-    sy "Better be careful, [mcname]. Talking like that, I'll think you're getting sentimental on me."
+    sy "Meglio fare attenzione, [mcname]. Parlando così, penserò che stai diventando sentimentale con me."
 
 # game/code/scenes/main_story/sm1ms029.rpy:95
 translate italian sm1ms029_89724ee8:
 
     # mc "Nah, I'm just a romantic."
-    mc "Nah, I'm just a romantic."
+    mc "Nah, sono solo un romantico."
 
 # game/code/scenes/main_story/sm1ms029.rpy:97
 translate italian sm1ms029_a8996796:
 
     # sy "Or maybe, this is the classic setup for the next chapter? Some epic villain or downfall before us?"
-    sy "Or maybe, this is the classic setup for the next chapter? Some epic villain or downfall before us?"
+    sy "O forse, questa è la classica preparazione per il prossimo capitolo? Qualche cattivo epico o caduta davanti a noi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:98
 translate italian sm1ms029_b96ad77f:
 
     # sy "Something to push us to new heights, through more difficult challenges?"
-    sy "Something to push us to new heights, through more difficult challenges?"
+    sy "Qualcosa per spingerci verso nuove vette, attraverso sfide più difficili?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:101
 translate italian sm1ms029_33f63d41:
 
     # mc "Nah, you're overthinking it. Just, kiss me, Stacy."
-    mc "Nah, you're overthinking it. Just, kiss me, Stacy."
+    mc "Nah, stai pensando troppo. Solo, baciami, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:102
 translate italian sm1ms029_76df7950:
 
     # sy "Whatever you say, [mcname]."
-    sy "Whatever you say, [mcname]."
+    sy "Quello che dici tu, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:110
 translate italian sm1ms029_15f52065:
 
     # "*door opens*"
-    "*door opens*"
+    "*porta che si apre*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:111
 translate italian sm1ms029_4f09c05f:
@@ -242,61 +242,61 @@ translate italian sm1ms029_4f09c05f:
 translate italian sm1ms029_25313efc:
 
     # kv "Didn't realize the party was starting early."
-    kv "Didn't realize the party was starting early."
+    kv "Non sapevo che la festa stesse iniziando in anticipo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:115
 translate italian sm1ms029_6c1b7c16:
 
     # sy "Of course it is!"
-    sy "Of course it is!"
+    sy "Certo che sì!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:118
 translate italian sm1ms029_1e69297d:
 
     # sy "And you're just in time to join us!"
-    sy "And you're just in time to join us!"
+    sy "E sei appena in tempo per unirti a noi!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:121
 translate italian sm1ms029_29490ee8:
 
     # kv "Thank God. I've been itching for a little bit of fun."
-    kv "Thank God. I've been itching for a little bit of fun."
+    kv "Grazie a Dio. Avevo voglia di un po' di divertimento."
 
 # game/code/scenes/main_story/sm1ms029.rpy:128
 translate italian sm1ms029_81221b90:
 
     # kv "Mmmmm. Definitely been itching for some fun."
-    kv "Mmmmm. Definitely been itching for some fun."
+    kv "Mmmmm. Avevo decisamente voglia di un po' di divertimento."
 
 # game/code/scenes/main_story/sm1ms029.rpy:132
 translate italian sm1ms029_c2485e81:
 
     # mc "You know who else is looking for some fun?"
-    mc "You know who else is looking for some fun?"
+    mc "Sai chi altro sta cercando un po' di divertimento?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:135
 translate italian sm1ms029_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "Cosa?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:137
 translate italian sm1ms029_660c709d:
 
     # kv "Mmmm, I think you're right, [mcname]."
-    kv "Mmmm, I think you're right, [mcname]."
+    kv "Mmmm, penso che tu abbia ragione, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:139
 translate italian sm1ms029_95a13b75:
 
     # sy "What's going on, Kanya?"
-    sy "What's going on, Kanya?"
+    sy "Cosa sta succedendo, Kanya?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:143
 translate italian sm1ms029_c702783c:
 
     # kv "Tonight is going to be a lot of fun!"
-    kv "Tonight is going to be a lot of fun!"
+    kv "Stasera sarà molto divertente!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:144
 translate italian sm1ms029_7384a30f:
