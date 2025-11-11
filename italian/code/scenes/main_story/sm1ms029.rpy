@@ -6644,25 +6644,25 @@ translate italian sm1ms029_party_end_57742cf4:
 translate italian sm1ms029_party_end_13a8f8fd:
 
     # sy "Oh my God, look at the time! AmRose, do you need me to call you a cab or something?"
-    sy "Oh my God, look at the time! AmRose, do you need me to call you a cab or something?"
+    sy "Oh mio Dio, guarda che ora è! AmRose, vuoi che ti chiami un taxi o qualcosa del genere?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2414
 translate italian sm1ms029_party_end_0e7057f6:
 
     # arj "I was actually thinking... or, wondering, if I could take you and [mcname] up on the offer to spend the night here."
-    arj "I was actually thinking... or, wondering, if I could take you and [mcname] up on the offer to spend the night here."
+    arj "In realtà stavo pensando... o, chiedendomi, se potessi accettare l'offerta di voi e [mcname] di passare la notte qui."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2415
 translate italian sm1ms029_party_end_be07bbfb:
 
     # sy "Of course!"
-    sy "Of course!"
+    sy "Certo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2417
 translate italian sm1ms029_party_end_08e18d61:
 
     # mc "You're welcome to stay here any time, AmRose. Seriously. Mi casa is... uhm, your house."
-    mc "You're welcome to stay here any time, AmRose. Seriously. Mi casa is... uhm, your house."
+    mc "Sei la benvenuta a restare qui quando vuoi, AmRose. Sul serio. Mi casa è... uhm, casa tua."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2418
 translate italian sm1ms029_party_end_53d863a2:
@@ -6674,25 +6674,25 @@ translate italian sm1ms029_party_end_53d863a2:
 translate italian sm1ms029_party_end_df938d26:
 
     # arj "Spent too much time staring at ass in Spanish class to remember anything, huh, [mcname]."
-    arj "Spent too much time staring at ass in Spanish class to remember anything, huh, [mcname]."
+    arj "Hai passato troppo tempo a fissare culi nella classe di spagnolo per ricordare qualcosa, eh, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2422
 translate italian sm1ms029_party_end_83d77586:
 
     # mc "Guilty as charged."
-    mc "Guilty as charged."
+    mc "Colpevole come accusato."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2423
 translate italian sm1ms029_party_end_af9be7ac:
 
     # sy "Now come on, AmRose. It's time for sleepy time."
-    sy "Now come on, AmRose. It's time for sleepy time."
+    sy "Ora dai, AmRose. È ora di andare a dormire."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2424
 translate italian sm1ms029_party_end_8e97066f:
 
     # sy "Before I pass out standing up."
-    sy "Before I pass out standing up."
+    sy "Prima che svenga in piedi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2425
 translate italian sm1ms029_party_end_a2b4c501_1:
@@ -6704,31 +6704,31 @@ translate italian sm1ms029_party_end_a2b4c501_1:
 translate italian sm1ms029_party_end_cfd1df4d:
 
     # arj "God, this bed is massive."
-    arj "God, this bed is massive."
+    arj "Dio, questo letto è enorme."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2431
 translate italian sm1ms029_party_end_e6388ad9:
 
     # sy "And soooooo comfy!"
-    sy "And soooooo comfy!"
+    sy "E coooosì comodo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2432
 translate italian sm1ms029_party_end_4781ee9b:
 
     # arj "Why is it so big?"
-    arj "Why is it so big?"
+    arj "Perché è così grande?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2434
 translate italian sm1ms029_party_end_1574b04d:
 
     # mc "For sleepovers. Come'on."
-    mc "For sleepovers. Come'on."
+    mc "Per i pigiama party. Dai."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2439
 translate italian sm1ms029_party_end_6d46208f:
 
     # arj "You know..."
-    arj "You know..."
+    arj "Sai..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2440
 translate italian sm1ms029_party_end_0a017d92:
@@ -6740,61 +6740,61 @@ translate italian sm1ms029_party_end_0a017d92:
 translate italian sm1ms029_party_end_8deda6c6:
 
     # arj "I've missed this..."
-    arj "I've missed this..."
+    arj "Mi è mancato questo..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2443
 translate italian sm1ms029_party_end_951a2de6:
 
     # sy "Me toooo..."
-    sy "Me toooo..."
+    sy "Anche a meeee..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2444
 translate italian sm1ms029_party_end_d7bf2c78:
 
     # mc "It's nice to be cuddling you again, AmRose."
-    mc "It's nice to be cuddling you again, AmRose."
+    mc "È bello coccolarti di nuovo, AmRose."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2445
 translate italian sm1ms029_party_end_95e6e005:
 
     # arj "Yes... yes it is..."
-    arj "Yes... yes it is..."
+    arj "Sì... sì che lo è..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2446
 translate italian sm1ms029_party_end_3105f5c2:
 
     # sy "Good night, everyone."
-    sy "Good night, everyone."
+    sy "Buonanotte a tutti."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2448
 translate italian sm1ms029_party_end_bae8c4d4:
 
     # mc "Good night, Stacy."
-    mc "Good night, Stacy."
+    mc "Buonanotte, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2449
 translate italian sm1ms029_party_end_b218fee5:
 
     # arj "Night, night, [mcname]..."
-    arj "Night, night, [mcname]..."
+    arj "Notte, notte, [mcname]..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2450
 translate italian sm1ms029_party_end_bc77ec7b:
 
     # mc "Good night, AmRose."
-    mc "Good night, AmRose."
+    mc "Buonanotte, AmRose."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2452
 translate italian sm1ms029_party_end_08263029:
 
     # mct "What a good night..."
-    mct "What a good night..."
+    mct "Che bella serata..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2453
 translate italian sm1ms029_party_end_52e3b996:
 
     # mct "Hell, a perfect night."
-    mct "Hell, a perfect night."
+    mct "Diavolo, una serata perfetta."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2461
 translate italian sm1ms029_cliffhanger_96e47e39:
