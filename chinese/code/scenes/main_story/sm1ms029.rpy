@@ -1580,7 +1580,7 @@ translate chinese sm1ms029_talk_mes_ns_277797c1:
 translate chinese sm1ms029_talk_mes_ns_9de3e2e4:
 
     # ns "Mmmmm!"
-    ns "Mmmmm!"
+    ns "嗯嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:742
 translate chinese sm1ms029_talk_mes_ns_4124673d:
@@ -1874,7 +1874,7 @@ translate chinese sm1ms029_talk_tl_ns_0c3105c2:
 translate chinese sm1ms029_talk_tl_ns_d9b4a27e:
 
     # ns "Okay!"
-    ns "Okay!"
+    ns "好的！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:848
 translate chinese sm1ms029_talk_tl_ns_87a2ea18:
@@ -1904,85 +1904,85 @@ translate chinese sm1ms029_talk_tl_ns_ede09f41:
 translate chinese sm1ms029_talk_kv_hr_arj_043b6df1:
 
     # arj "Hey, [mcname]."
-    arj "Hey, [mcname]."
+    arj "嘿，[mcname]。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:875
 translate chinese sm1ms029_talk_kv_hr_arj_39f23bcd:
 
     # hr "The man of the hour himself."
-    hr "The man of the hour himself."
+    hr "主角本人。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:877
 translate chinese sm1ms029_talk_kv_hr_arj_83fcac4c:
 
     # arj "Your ears must have been burning."
-    arj "Your ears must have been burning."
+    arj "你的耳朵一定很热吧。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:879
 translate chinese sm1ms029_talk_kv_hr_arj_fa7cb4b2:
 
     # mc "Oh, is that so?"
-    mc "Oh, is that so?"
+    mc "哦，是吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:881
 translate chinese sm1ms029_talk_kv_hr_arj_b6fdaa7d:
 
     # arj "We were just talking about you."
-    arj "We were just talking about you."
+    arj "我们刚才在谈论你。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:884
 translate chinese sm1ms029_talk_kv_hr_arj_1b10da47:
 
     # mc "Hopefully good things!"
-    mc "Hopefully good things!"
+    mc "希望是好事！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:885
 translate chinese sm1ms029_talk_kv_hr_arj_01a5c239:
 
     # arj "Uhhhh..."
-    arj "Uhhhh..."
+    arj "呃..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:887
 translate chinese sm1ms029_talk_kv_hr_arj_c8be61da:
 
     # mc "Oh, not good things?"
-    mc "Oh, not good things?"
+    mc "哦，不是好事？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:890
 translate chinese sm1ms029_talk_kv_hr_arj_ed22c116:
 
     # hr "I wasn't aware that AmRose wasn't a part of your little porn cabal."
-    hr "I wasn't aware that AmRose wasn't a part of your little porn cabal."
+    hr "我不知道爱洛丝不是你们小色情团伙的一员。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:891
 translate chinese sm1ms029_talk_kv_hr_arj_159ea5fc:
 
     # mc "Not for lack of trying!"
-    mc "Not for lack of trying!"
+    mc "不是没试过！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:894
 translate chinese sm1ms029_talk_kv_hr_arj_403d36dd:
 
     # hr "Something about a disagreement about the use of Fetish Locator data."
-    hr "Something about a disagreement about the use of Fetish Locator data."
+    hr "关于使用恋物癖定位器数据的分歧。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:895
 translate chinese sm1ms029_talk_kv_hr_arj_c1dff962:
 
     # mc "Oh..."
-    mc "Oh..."
+    mc "哦..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:897
 translate chinese sm1ms029_talk_kv_hr_arj_3a59403a:
 
     # hr "Mmhmmm. Care to elaborate, [mcname]?"
-    hr "Mmhmmm. Care to elaborate, [mcname]?"
+    hr "嗯哼。想详细说说吗，[mcname]？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:900
 translate chinese sm1ms029_talk_kv_hr_arj_d6b435a8:
 
     # mc "I mean... that's kind of all of it. AmRose didn't like that we had the data, but we had it."
-    mc "I mean... that's kind of all of it. AmRose didn't like that we had the data, but we had it."
+    mc "我是说...就是这样了。爱洛丝不喜欢我们有这些数据，但我们有。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:901
 translate chinese sm1ms029_talk_kv_hr_arj_1f898eff:
@@ -2000,97 +2000,97 @@ translate chinese sm1ms029_talk_kv_hr_arj_f114e539:
 translate chinese sm1ms029_talk_kv_hr_arj_e3f5b33d:
 
     # mct "Oh man..."
-    mct "Oh man..."
+    mct "哦，天啊..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:908
 translate chinese sm1ms029_talk_kv_hr_arj_55c0cc3e:
 
     # mct "This is awkward."
-    mct "This is awkward."
+    mct "这真尴尬。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:911
 translate chinese sm1ms029_talk_kv_hr_arj_90ca851a:
 
     # kv "Hey, [mcname]-"
-    kv "Hey, [mcname]-"
+    kv "嘿，[mcname]--"
 
 # game/code/scenes/main_story/sm1ms029.rpy:912
 translate chinese sm1ms029_talk_kv_hr_arj_8aabc563:
 
     # mc "Kanya."
-    mc "Kanya."
+    mc "康雅。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:915
 translate chinese sm1ms029_talk_kv_hr_arj_a3ed8018:
 
     # mc "Have you met AmRose and Hana?"
-    mc "Have you met AmRose and Hana?"
+    mc "你见过爱洛丝和哈娜吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:916
 translate chinese sm1ms029_talk_kv_hr_arj_450e28a2:
 
     # kv "Nope, can't say that I have."
-    kv "Nope, can't say that I have."
+    kv "没有，不能说见过。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:919
 translate chinese sm1ms029_talk_kv_hr_arj_f1a909c5:
 
     # arj "Hi!"
-    arj "Hi!"
+    arj "嗨！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:920
 translate chinese sm1ms029_talk_kv_hr_arj_9c6e9a88:
 
     # hr "Pleasure."
-    hr "Pleasure."
+    hr "很高兴。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:922
 translate chinese sm1ms029_talk_kv_hr_arj_ce75a466:
 
     # kv "Same."
-    kv "Same."
+    kv "同样。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:927
 translate chinese sm1ms029_talk_kv_hr_arj_b9a60c20:
 
     # kv "{size=*0.7}Everything okay?{/size}"
-    kv "{size=*0.7}Everything okay?{/size}"
+    kv "{size=*0.7}一切都好吗？{/size}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:928
 translate chinese sm1ms029_talk_kv_hr_arj_f03a3c27:
 
     # mc "{size=*0.7}Yeah, just need some back-up.{/size}"
-    mc "{size=*0.7}Yeah, just need some back-up.{/size}"
+    mc "{size=*0.7}是的，只是需要一些支援。{/size}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:931
 translate chinese sm1ms029_talk_kv_hr_arj_6fe079b7:
 
     # mc "Kanya is our director of photography! She's shot most, if not all of S&M Studio videos!"
-    mc "Kanya is our director of photography! She's shot most, if not all of S&M Studio videos!"
+    mc "康雅是我们的摄影指导！她拍摄了S&M工作室的大部分，如果不是全部的视频！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:932
 translate chinese sm1ms029_talk_kv_hr_arj_d54ef43f:
 
     # arj "Wow!"
-    arj "Wow!"
+    arj "哇！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:934
 translate chinese sm1ms029_talk_kv_hr_arj_eb0b3718:
 
     # hr "How'd you get connected to [mcname]?"
-    hr "How'd you get connected to [mcname]?"
+    hr "你是怎么和[mcname]联系上的？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:937
 translate chinese sm1ms029_talk_kv_hr_arj_db017317:
 
     # kv "He found me! Told me what he was doing, and I was interested.{w} I've wanted an excuse to get into film."
-    kv "He found me! Told me what he was doing, and I was interested.{w} I've wanted an excuse to get into film."
+    kv "他找到了我！告诉我他在做什么，我很感兴趣。{w}我一直想找个借口进入电影行业。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:938
 translate chinese sm1ms029_talk_kv_hr_arj_c0e307cc:
 
     # kv "[mcname] gave me the perfect excuse!"
-    kv "[mcname] gave me the perfect excuse!"
+    kv "[mcname]给了我完美的借口！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:940
 translate chinese sm1ms029_talk_kv_hr_arj_d50dee04:
@@ -2102,7 +2102,7 @@ translate chinese sm1ms029_talk_kv_hr_arj_d50dee04:
 translate chinese sm1ms029_talk_kv_hr_arj_e2c5a007:
 
     # hr "You've got a good point there."
-    hr "You've got a good point there."
+    hr "你说得有道理。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:946
 translate chinese sm1ms029_talk_kv_hr_arj_0ffe1250:
@@ -2114,25 +2114,25 @@ translate chinese sm1ms029_talk_kv_hr_arj_0ffe1250:
 translate chinese sm1ms029_talk_kv_hr_arj_911c149e:
 
     # hr "God, no."
-    hr "God, no."
+    hr "天哪，不。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:950
 translate chinese sm1ms029_talk_kv_hr_arj_2432f384:
 
     # arj "I don't think I'm, uhm-"
-    arj "I don't think I'm, uhm-"
+    arj "我不认为我是，嗯--"
 
 # game/code/scenes/main_story/sm1ms029.rpy:952
 translate chinese sm1ms029_talk_kv_hr_arj_c0c8ddae:
 
     # kv "That's a shame, because you're both definitely attractive."
-    kv "That's a shame, because you're both definitely attractive."
+    kv "那太遗憾了，因为你们俩绝对有吸引力。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:953
 translate chinese sm1ms029_talk_kv_hr_arj_15b3a3d1:
 
     # kv "You'd be great on screen."
-    kv "You'd be great on screen."
+    kv "你们在镜头前会很棒。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:956
 translate chinese sm1ms029_talk_kv_hr_arj_1556946e:
@@ -2150,7 +2150,7 @@ translate chinese sm1ms029_talk_kv_hr_arj_e930926d:
 translate chinese sm1ms029_talk_kv_hr_arj_728c9459:
 
     # kv "I just wanted to come by and let you know that Stacy is starting to get ready."
-    kv "I just wanted to come by and let you know that Stacy is starting to get ready."
+    kv "我只是想过来告诉你，史黛西开始准备了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:961
 translate chinese sm1ms029_talk_kv_hr_arj_3afd49eb:
@@ -2162,13 +2162,13 @@ translate chinese sm1ms029_talk_kv_hr_arj_3afd49eb:
 translate chinese sm1ms029_talk_kv_hr_arj_57ee03b8:
 
     # sy "She's a worry wort."
-    sy "She's a worry wort."
+    sy "她是个杞人忧天的人。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:964
 translate chinese sm1ms029_talk_kv_hr_arj_01bf40f5:
 
     # kv "I know, but I told her I'd check on you."
-    kv "I know, but I told her I'd check on you."
+    kv "我知道，但我告诉她我会检查你的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:967
 translate chinese sm1ms029_talk_kv_hr_arj_b3813e19:
@@ -2180,19 +2180,19 @@ translate chinese sm1ms029_talk_kv_hr_arj_b3813e19:
 translate chinese sm1ms029_talk_kv_hr_arj_ed0783dd:
 
     # mc "I should probably go check in with her, make sure everything is ready."
-    mc "I should probably go check in with her, make sure everything is ready."
+    mc "我应该去找她确认一下，确保一切都准备好了。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:972
 translate chinese sm1ms029_talk_kv_hr_arj_f1f50e3c:
 
     # arj "Oh yes. The main event is going to be exciting."
-    arj "Oh yes. The main event is going to be exciting."
+    arj "哦，是的。主要活动会很精彩。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:973
 translate chinese sm1ms029_talk_kv_hr_arj_57caba3c:
 
     # hr "Sounds like fun.{w} Catch you later."
-    hr "Sounds like fun.{w} Catch you later."
+    hr "听起来很有趣。{w}待会见。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:985
 translate chinese sm1ms029_party_part_1_2a92b2bc:
