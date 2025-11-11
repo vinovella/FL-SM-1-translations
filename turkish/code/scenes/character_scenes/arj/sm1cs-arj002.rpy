@@ -500,187 +500,187 @@ translate turkish sm1cs_arj002_87e3cd19:
 translate turkish sm1cs_arj002_69be19ca:
 
     # arj "*sheepishly* Thanks."
-    arj "*sheepishly* Thanks."
+    arj "*utangaç* Teşekkürler."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:278
 translate turkish sm1cs_arj002_722ff19c:
 
     # mc "Okay, so for this scene, we need you to sit down and relax. Just be yourself."
-    mc "Okay, so for this scene, we need you to sit down and relax. Just be yourself."
+    mc "Tamam, bu sahne için oturman ve rahatlamanı istiyoruz. Sadece kendin ol."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:285
 translate turkish sm1cs_arj002_4378575b:
 
     # arj "Alright... sounds easy enough."
-    arj "Alright... sounds easy enough."
+    arj "Tamam... kulağa yeterince kolay geliyor."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:289
 translate turkish sm1cs_arj002_0ca7ac86:
 
     # arj "And now what? I just realized I haven't seen a script."
-    arj "And now what? I just realized I haven't seen a script."
+    arj "Şimdi ne olacak? Az önce senaryo görmediğimi fark ettim."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:292
 translate turkish sm1cs_arj002_9f7d2160:
 
     # sy "Oh, you don't need one. In this scene, you're just the sexy plaything."
-    sy "Oh, you don't need one. In this scene, you're just the sexy plaything."
+    sy "Oh, sana gerek yok. Bu sahnede sen sadece seksi oyuncaksın."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:293
 translate turkish sm1cs_arj002_4d5ca6fe:
 
     # sy "The arm-candy."
-    sy "The arm-candy."
+    sy "Kol şekeri."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:297
 translate turkish sm1cs_arj002_13b3a6d2:
 
     # arj "Or perhaps the chair-candy."
-    arj "Or perhaps the chair-candy."
+    arj "Ya da belki sandalye şekeri."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:301
 translate turkish sm1cs_arj002_438dd9b4:
 
     # sy "Exactly. That is your motivation."
-    sy "Exactly. That is your motivation."
+    sy "Aynen. Bu senin motivasyonun."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:302
 translate turkish sm1cs_arj002_8cf2e490:
 
     # sy "The Master is coming home to play with you. You've been a naughty girl."
-    sy "The Master is coming home to play with you. You've been a naughty girl."
+    sy "Efendi seninle oynamak için eve geliyor. Yaramaz bir kız oldun."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:306
 translate turkish sm1cs_arj002_33c28cad:
 
     # sy "You know that you have to be punished, and you're getting a little wet thinking about it."
-    sy "You know that you have to be punished, and you're getting a little wet thinking about it."
+    sy "Cezalandırılman gerektiğini biliyorsun ve bunu düşünürken biraz ıslanıyorsun."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:310
 translate turkish sm1cs_arj002_53f13479:
 
     # arj "*breathing shallow*"
-    arj "*breathing shallow*"
+    arj "*sığ nefes alıyor*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:311
 translate turkish sm1cs_arj002_55d166ea:
 
     # arj "And what do I call, [mcname]?"
-    arj "And what do I call, [mcname]?"
+    arj "Peki [mcname]'e ne diyeceğim?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:315
 translate turkish sm1cs_arj002_98856325:
 
     # sy "Very good question."
-    sy "Very good question."
+    sy "Çok iyi soru."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:332
 translate turkish sm1cs_arj002_661fa6a7:
 
     # mc "Call me, [arj_mcname!t]."
-    mc "Call me, [arj_mcname!t]."
+    mc "Bana [arj_mcname!t] de."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:336
 translate turkish sm1cs_arj002_659e8ca0:
 
     # sy "*excited moaning*"
-    sy "*excited moaning*"
+    sy "*heyecanlı inleme*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:340
 translate turkish sm1cs_arj002_17d9d5a9:
 
     # arj "[arj_mcname!t]. Alright."
-    arj "[arj_mcname!t]. Alright."
+    arj "[arj_mcname!t]. Tamam."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:344
 translate turkish sm1cs_arj002_18d43a51:
 
     # sy "We good, [mcname]?"
-    sy "We good, [mcname]?"
+    sy "Hazır mıyız, [mcname]?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:346
 translate turkish sm1cs_arj002_844f1ae5:
 
     # mc "We're good."
-    mc "We're good."
+    mc "Hazırız."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:350
 translate turkish sm1cs_arj002_42356301:
 
     # sy "Okay, rolling... Action!"
-    sy "Okay, rolling... Action!"
+    sy "Tamam, çekiyoruz... Aksiyon!"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:354
 translate turkish sm1cs_arj002_aa12cbbb:
 
     # arj "Oh... I'm worried."
-    arj "Oh... I'm worried."
+    arj "Oh... Endişeliyim."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:355
 translate turkish sm1cs_arj002_47cd4384:
 
     # arj "Who knows what [arj_mcname!t] has planned for me."
-    arj "Who knows what [arj_mcname!t] has planned for me."
+    arj "[arj_mcname!t]'in benim için ne planladığını kim bilir."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:359
 translate turkish sm1cs_arj002_cc4b90cd:
 
     # mc "Good start, AmRose."
-    mc "Good start, AmRose."
+    mc "İyi başlangıç, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:360
 translate turkish sm1cs_arj002_2cfbbdf7:
 
     # mc "Maybe grind on the chair a bit, like a cat with a scratching post."
-    mc "Maybe grind on the chair a bit, like a cat with a scratching post."
+    mc "Belki sandalyede biraz sürtün, tırmık direğiyle oynayan bir kedi gibi."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:367
 translate turkish sm1cs_arj002_4ddf8b52:
 
     # arj "*shaky breath* Oh... I'm getting so worried."
-    arj "*shaky breath* Oh... I'm getting so worried."
+    arj "*titrek nefes* Oh... Çok endişelenmeye başlıyorum."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:370
 translate turkish sm1cs_arj002_9599654d:
 
     # arj "What will [arj_mcname!t] do to me when he finds out I've been..."
-    arj "What will [arj_mcname!t] do to me when he finds out I've been..."
+    arj "[arj_mcname!t] olduğumu öğrendiğinde bana ne yapacak..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:374
 translate turkish sm1cs_arj002_29e95544:
 
     # arj "So bad..."
-    arj "So bad..."
+    arj "Çok kötü..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:378
 translate turkish sm1cs_arj002_d6e5d1fd:
 
     # sy "*whispers* That's the good shit."
-    sy "*whispers* That's the good shit."
+    sy "*fısıldar* İşte bu iyi şeyler."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:382
 translate turkish sm1cs_arj002_bf38747f:
 
     # sy "You're up, slugger."
-    sy "You're up, slugger."
+    sy "Sıra sende, şampiyon."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:385
 translate turkish sm1cs_arj002_f5b748ae:
 
     # arj "[arj_mcname!t]. You're here."
-    arj "[arj_mcname!t]. You're here."
+    arj "[arj_mcname!t]. Buradasın."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:387
 translate turkish sm1cs_arj002_71859113:
 
     # mc "Yes. Have you been a good girl?"
-    mc "Yes. Have you been a good girl?"
+    mc "Evet. İyi bir kız oldun mu?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:389
 translate turkish sm1cs_arj002_a477ae37:
 
     # arj "I try, [arj_mcname!t]. But it's so hard to behave when you're not around."
-    arj "I try, [arj_mcname!t]. But it's so hard to behave when you're not around."
+    arj "Deniyorum, [arj_mcname!t]. Ama sen yokken uslu durmak çok zor."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:392
 translate turkish sm1cs_arj002_254336d8_1:
@@ -692,109 +692,109 @@ translate turkish sm1cs_arj002_254336d8_1:
 translate turkish sm1cs_arj002_5db77737:
 
     # mc "*grunts*"
-    mc "*grunts*"
+    mc "*homurdanır*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:401
 translate turkish sm1cs_arj002_95547680:
 
     # arj "Ooouha... You know I love it when you tie me up."
-    arj "Ooouha... You know I love it when you tie me up."
+    arj "Ooouha... Beni bağladığında sevdiğimi biliyorsun."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:405
 translate turkish sm1cs_arj002_5bc6de89:
 
     # mc "Is that why you keep causing me trouble."
-    mc "Is that why you keep causing me trouble."
+    mc "Bu yüzden mi bana sürekli sorun çıkarıyorsun."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:408
 translate turkish sm1cs_arj002_a5469a53:
 
     # arj "I don't mean to."
-    arj "I don't mean to."
+    arj "İstemem."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:409
 translate turkish sm1cs_arj002_2138e6c6:
 
     # mc "I'm not so sure."
-    mc "I'm not so sure."
+    mc "Emin değilim."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:413
 translate turkish sm1cs_arj002_be9e149f:
 
     # arj "Well... you know what I like. And you know I'm your perfect toy."
-    arj "Well... you know what I like. And you know I'm your perfect toy."
+    arj "Ee... ne sevdiğimi biliyorsun. Ve senin mükemmel oyuncağın olduğumu biliyorsun."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:414
 translate turkish sm1cs_arj002_3b384013:
 
     # arj "Whatever punishment you think I deserve..."
-    arj "Whatever punishment you think I deserve..."
+    arj "Hak ettiğimi düşündüğün her ceza..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:415
 translate turkish sm1cs_arj002_9c722286:
 
     # arj "I'm ready for it."
-    arj "I'm ready for it."
+    arj "Hazırım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:418
 translate turkish sm1cs_arj002_c6c150bf:
 
     # mc "Eager aren't we?"
-    mc "Eager aren't we?"
+    mc "Heveslisin, değil mi?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:423
 translate turkish sm1cs_arj002_808e04ea:
 
     # arj "For you? Always..."
-    arj "For you? Always..."
+    arj "Senin için mi? Her zaman..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:427
 translate turkish sm1cs_arj002_11e48912:
 
     # sy "Okay..."
-    sy "Okay..."
+    sy "Tamam..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:431
 translate turkish sm1cs_arj002_1258ced8:
 
     # sy "And now we get to do some watersports with you, AmRose."
-    sy "And now we get to do some watersports with you, AmRose."
+    sy "Şimdi seninle su sporları yapacağız, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:435
 translate turkish sm1cs_arj002_19b68b40:
 
     # arj "Watersports... Really?"
-    arj "Watersports... Really?"
+    arj "Su sporları... Gerçekten mi?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:439
 translate turkish sm1cs_arj002_b7270c39:
 
     # sy "Yes. It was one of the main requests for the client."
-    sy "Yes. It was one of the main requests for the client."
+    sy "Evet. Müşterinin ana isteklerinden biriydi."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:440
 translate turkish sm1cs_arj002_f6ea1cc6:
 
     # sy "So we got to make sure that we tick off that box."
-    sy "So we got to make sure that we tick off that box."
+    sy "O yüzden o kutuyu işaretlediğimizden emin olmalıyız."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:444
 translate turkish sm1cs_arj002_e6f0cf3e:
 
     # arj "I don't remember putting watersports on the request."
-    arj "I don't remember putting watersports on the request."
+    arj "İsteğe su sporlarını koyduğumu hatırlamıyorum."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:448
 translate turkish sm1cs_arj002_0a98cc6e:
 
     # mc "Oh, that's right. You wanted boofing."
-    mc "Oh, that's right. You wanted boofing."
+    mc "Oh, doğru. Boofing istiyordun."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:449
 translate turkish sm1cs_arj002_5d86d391:
 
     # mc "{b}You{/b} asked for any boofing videos we had made'"
-    mc "{b}You{/b} asked for any boofing videos we had made'"
+    mc "{b}Sen{/b} yaptığımız boofing videolarını istedin"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:452
 translate turkish sm1cs_arj002_e079d727:
@@ -806,85 +806,85 @@ translate turkish sm1cs_arj002_e079d727:
 translate turkish sm1cs_arj002_6b011f89:
 
     # mct "Haha. Now it's her turn to sweat."
-    mct "Haha. Now it's her turn to sweat."
+    mct "Haha. Şimdi terlemek onun sırası."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:457
 translate turkish sm1cs_arj002_86cae83f:
 
     # arj "Oh! You're confusing me. I'm not the client. I didn't ask for anything."
-    arj "Oh! You're confusing me. I'm not the client. I didn't ask for anything."
+    arj "Oh! Beni karıştırıyorsun. Ben müşteri değilim. Hiçbir şey istemedim."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:458
 translate turkish sm1cs_arj002_3c254887:
 
     # arj "But if the client asked for watersports, we can try that."
-    arj "But if the client asked for watersports, we can try that."
+    arj "Ama müşteri su sporları istediyse, bunu deneyebiliriz."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:464
 translate turkish sm1cs_arj002_2d22fcbf:
 
     # mc "Come on, AmRose."
-    mc "Come on, AmRose."
+    mc "Hadi, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:465
 translate turkish sm1cs_arj002_732d28b5:
 
     # mc "You can do better than that."
-    mc "You can do better than that."
+    mc "Bunu daha iyi yapabilirsin."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:469
 translate turkish sm1cs_arj002_8245c517:
 
     # arj "I... How... I mean... I don't know what the client wanted."
-    arj "I... How... I mean... I don't know what the client wanted."
+    arj "Ben... Nasıl... Yani... Müşterinin ne istediğini bilmiyorum."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:473
 translate turkish sm1cs_arj002_2824d4aa:
 
     # mc "Oh I think you do."
-    mc "Oh I think you do."
+    mc "Oh bence biliyorsun."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:474
 translate turkish sm1cs_arj002_94ab3d91:
 
     # arj "*nervous breathing*"
-    arj "*nervous breathing*"
+    arj "*gergin nefes alıyor*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:481
 translate turkish sm1cs_arj002_fa263c27:
 
     # mc "I'm afraid the jig is up, my sweet red flower."
-    mc "I'm afraid the jig is up, my sweet red flower."
+    mc "Korkarım oyun bitti, tatlı kızıl çiçeğim."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:486
 translate turkish sm1cs_arj002_5d524cf8:
 
     # arj "I don't know what you're talking about."
-    arj "I don't know what you're talking about."
+    arj "Neden bahsettiğini bilmiyorum."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:489
 translate turkish sm1cs_arj002_d72f9048:
 
     # sy "Then how did you know watersports wasn't in the order?"
-    sy "Then how did you know watersports wasn't in the order?"
+    sy "O zaman su sporlarının siparişte olmadığını nereden bildin?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:491
 translate turkish sm1cs_arj002_e3fe777e:
 
     # sy "Unless you wrote it."
-    sy "Unless you wrote it."
+    sy "Sen yazmadıysan."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:495
 translate turkish sm1cs_arj002_61d40c2c:
 
     # arj "I think...{w} [mcname] must have talked about it earlier."
-    arj "I think...{w} [mcname] must have talked about it earlier."
+    arj "Sanırım...{w} [mcname] daha önce bundan bahsetmiş olmalı."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:498
 translate turkish sm1cs_arj002_43762316:
 
     # mc "I did no such thing."
-    mc "I did no such thing."
+    mc "Böyle bir şey yapmadım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:503
 translate turkish sm1cs_arj002_d2d1553c:
@@ -896,151 +896,151 @@ translate turkish sm1cs_arj002_d2d1553c:
 translate turkish sm1cs_arj002_2d2ec360:
 
     # arj "Ah... the ropes."
-    arj "Ah... the ropes."
+    arj "Ah... ipler."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:508
 translate turkish sm1cs_arj002_ec5b3e88:
 
     # arj "Clever girl..."
-    arj "Clever girl..."
+    arj "Akıllı kız..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:510
 translate turkish sm1cs_arj002_378bcd4e:
 
     # arj "And boy."
-    arj "And boy."
+    arj "Ve oğlan."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:515
 translate turkish sm1cs_arj002_278b258f:
 
     # "Stacy and [mcname]" "*laughing*"
-    "Stacy and [mcname]" "*laughing*"
+    "Stacy ve [mcname]" "*gülüyor*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:519
 translate turkish sm1cs_arj002_7d6379a5:
 
     # arj "So... What's the accusation exactly?"
-    arj "So... What's the accusation exactly?"
+    arj "Peki... Suçlama tam olarak nedir?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:521
 translate turkish sm1cs_arj002_185eea27:
 
     # sy "Accusation?"
-    sy "Accusation?"
+    sy "Suçlama mı?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:525
 translate turkish sm1cs_arj002_4f9e4dcc:
 
     # mc "AmRose, stop playing dumb. We know what's going on here."
-    mc "AmRose, stop playing dumb. We know what's going on here."
+    mc "AmRose, aptal numarası yapmayı kes. Burada neler olduğunu biliyoruz."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:526
 translate turkish sm1cs_arj002_956ef124:
 
     # mc "You've been pretending to be our client so you could figure out if we had your data from Fetish Locator."
-    mc "You've been pretending to be our client so you could figure out if we had your data from Fetish Locator."
+    mc "Fetish Locator'dan verilerinin bizde olup olmadığını öğrenmek için müşterimiz gibi davranıyordun."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:530
 translate turkish sm1cs_arj002_e4d9ea2c:
 
     # arj "Hmmph. Even if I admitted to that, and I don't. You have no proof."
-    arj "Hmmph. Even if I admitted to that, and I don't. You have no proof."
+    arj "Hmmph. Bunu kabul etsem bile, ki etmiyorum. Kanıtın yok."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:533
 translate turkish sm1cs_arj002_93e12529:
 
     # sy "Girl please. It got a little obvious at the end."
-    sy "Girl please. It got a little obvious at the end."
+    sy "Kızım lütfen. Sonunda biraz açık oldu."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:536
 translate turkish sm1cs_arj002_12f2e5e4:
 
     # arj "Mmm. Maybe I slipped up. But I stand by what I did."
-    arj "Mmm. Maybe I slipped up. But I stand by what I did."
+    arj "Mmm. Belki yanıldım. Ama yaptığımın arkasındayım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:540
 translate turkish sm1cs_arj002_8ae5e39c:
 
     # arj "Or I would if not for the rope."
-    arj "Or I would if not for the rope."
+    arj "Ya da ip olmasaydı yapardım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:543
 translate turkish sm1cs_arj002_8f353fb8:
 
     # sy "You were trying to see if we still had your sensitive data from the Fetish Locator App."
-    sy "You were trying to see if we still had your sensitive data from the Fetish Locator App."
+    sy "Fetish Locator Uygulamasından hassas verilerinin hâlâ bizde olup olmadığını görmeye çalışıyordun."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:544
 translate turkish sm1cs_arj002_1fdf6c3a:
 
     # sy "Weren't you?"
-    sy "Weren't you?"
+    sy "Öyle değil mi?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:549
 translate turkish sm1cs_arj002_5518d3b8:
 
     # arj "*sniffs*"
-    arj "*sniffs*"
+    arj "*burnunu çeker*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:551
 translate turkish sm1cs_arj002_68e6e4c7:
 
     # arj "I... I'm sorry.{w} I'm so sorry, [mcname]."
-    arj "I... I'm sorry.{w} I'm so sorry, [mcname]."
+    arj "Ben... Üzgünüm.{w} Çok üzgünüm, [mcname]."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:552
 translate turkish sm1cs_arj002_fd13194a:
 
     # arj "I was just so worried and angry."
-    arj "I was just so worried and angry."
+    arj "Sadece çok endişeliydim ve kızgındım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:557
 translate turkish sm1cs_arj002_25da4cd3:
 
     # arj "When you chose not to delete the data, all I could think of was my secret getting leaked."
-    arj "When you chose not to delete the data, all I could think of was my secret getting leaked."
+    arj "Verileri silmemeyi seçtiğinde, tek düşünebildiğim sırrımın sızdırılmasıydı."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:559
 translate turkish sm1cs_arj002_83295ea0:
 
     # mc "I know, AmRose."
-    mc "I know, AmRose."
+    mc "Biliyorum, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:561
 translate turkish sm1cs_arj002_70a9ce1a:
 
     # mc "But come on."
-    mc "But come on."
+    mc "Ama hadi ama."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:563
 translate turkish sm1cs_arj002_66944b55:
 
     # mc "You {i}know{/i} me..."
-    mc "You {i}know{/i} me..."
+    mc "Beni {i}tanıyorsun{/i}..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:564
 translate turkish sm1cs_arj002_4cdf20f6:
 
     # mc "I would never hurt you. Your secret has been safe with me since I learned it."
-    mc "I would never hurt you. Your secret has been safe with me since I learned it."
+    mc "Seni asla incitmem. Öğrendiğimden beri sırrın benimle güvende."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:568
 translate turkish sm1cs_arj002_7f3b697c:
 
     # arj "*sniffing* [mcname]."
-    arj "*sniffing* [mcname]."
+    arj "*burnunu çekerek* [mcname]."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:572
 translate turkish sm1cs_arj002_1210c546:
 
     # mc "And to get into specifics, Stacy deleted the stuff with you on it."
-    mc "And to get into specifics, Stacy deleted the stuff with you on it."
+    mc "Ve ayrıntılara girmek gerekirse, Stacy seninle ilgili şeyleri sildi."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:576
 translate turkish sm1cs_arj002_3c48954e:
 
     # mc "And I've looked through it myself to make sure it's gone for good."
-    mc "And I've looked through it myself to make sure it's gone for good."
+    mc "Ve tamamen gittiğinden emin olmak için kendim kontrol ettim."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:580
 translate turkish sm1cs_arj002_86f77a53:
