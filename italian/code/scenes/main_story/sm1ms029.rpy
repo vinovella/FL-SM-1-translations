@@ -2126,61 +2126,61 @@ translate italian sm1ms029_talk_kv_hr_arj_2432f384:
 translate italian sm1ms029_talk_kv_hr_arj_c0c8ddae:
 
     # kv "That's a shame, because you're both definitely attractive."
-    kv "That's a shame, because you're both definitely attractive."
+    kv "È un peccato, perché siete entrambe decisamente attraenti."
 
 # game/code/scenes/main_story/sm1ms029.rpy:953
 translate italian sm1ms029_talk_kv_hr_arj_15b3a3d1:
 
     # kv "You'd be great on screen."
-    kv "You'd be great on screen."
+    kv "Sareste fantastiche sullo schermo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:956
 translate italian sm1ms029_talk_kv_hr_arj_1556946e:
 
     # hr "I know."
-    hr "I know."
+    hr "Lo so."
 
 # game/code/scenes/main_story/sm1ms029.rpy:957
 translate italian sm1ms029_talk_kv_hr_arj_e930926d:
 
     # kv "But..."
-    kv "But..."
+    kv "Ma..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:960
 translate italian sm1ms029_talk_kv_hr_arj_728c9459:
 
     # kv "I just wanted to come by and let you know that Stacy is starting to get ready."
-    kv "I just wanted to come by and let you know that Stacy is starting to get ready."
+    kv "Volevo solo passare e farti sapere che Stacy sta iniziando a prepararsi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:961
 translate italian sm1ms029_talk_kv_hr_arj_3afd49eb:
 
     # kv "And she wanted me to make sure that you weren't overeating."
-    kv "And she wanted me to make sure that you weren't overeating."
+    kv "E voleva che mi assicurassi che tu non stessi mangiando troppo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:962
 translate italian sm1ms029_talk_kv_hr_arj_57ee03b8:
 
     # sy "She's a worry wort."
-    sy "She's a worry wort."
+    sy "È un'ansiosa."
 
 # game/code/scenes/main_story/sm1ms029.rpy:964
 translate italian sm1ms029_talk_kv_hr_arj_01bf40f5:
 
     # kv "I know, but I told her I'd check on you."
-    kv "I know, but I told her I'd check on you."
+    kv "Lo so, ma le ho detto che avrei controllato."
 
 # game/code/scenes/main_story/sm1ms029.rpy:967
 translate italian sm1ms029_talk_kv_hr_arj_b3813e19:
 
     # kv "Also she said you should get ready for the show to start soon."
-    kv "Also she said you should get ready for the show to start soon."
+    kv "Inoltre ha detto che dovresti prepararti perché lo spettacolo inizierà presto."
 
 # game/code/scenes/main_story/sm1ms029.rpy:970
 translate italian sm1ms029_talk_kv_hr_arj_ed0783dd:
 
     # mc "I should probably go check in with her, make sure everything is ready."
-    mc "I should probably go check in with her, make sure everything is ready."
+    mc "Dovrei probabilmente andare a controllare con lei, assicurarmi che tutto sia pronto."
 
 # game/code/scenes/main_story/sm1ms029.rpy:972
 translate italian sm1ms029_talk_kv_hr_arj_f1f50e3c:
