@@ -1076,391 +1076,391 @@ translate chinese sm1mv02s05_movie_start_6130f1a2:
 translate chinese sm1mv02s05_movie_start_703a6189:
 
     # ns "Lamuola- appears that you are in charge."
-    ns "Lamuola- appears that you are in charge."
+    ns "拉莫拉--看来你是他们的负责人。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:751
 translate chinese sm1mv02s05_movie_start_b747223b:
 
     # ns "She called you, Captain. This means, leader, yes?"
-    ns "She called you, Captain. This means, leader, yes?"
+    ns "她叫你舰长。这意思就是，你是领导者，对吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:754
 translate chinese sm1mv02s05_movie_start_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "对。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:757
 translate chinese sm1mv02s05_movie_start_4cdb02d8:
 
     # mc "We didn't mean to disturb you."
-    mc "We didn't mean to disturb you."
+    mc "我们不是故意来打扰你的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:758
 translate chinese sm1mv02s05_movie_start_5fc09f7d:
 
     # mc "I am Captain Ramses Hornstar, United Planetary Alliance."
-    mc "I am Captain Ramses Hornstar, United Planetary Alliance."
+    mc "我是拉姆斯・霍斯塔舰长，来自联合行星联盟。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:759
 translate chinese sm1mv02s05_movie_start_aee9bef3:
 
     # mc "That is Lieutenant Commander Orion."
-    mc "That is Lieutenant Commander Orion."
+    mc "这位是奥里昂少校。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:760
 translate chinese sm1mv02s05_movie_start_0eba8c93:
 
     # mc "Our ship discovered an unusual reading in this area. I believe it is your machine there."
-    mc "Our ship discovered an unusual reading in this area. I believe it is your machine there."
+    mc "我们的飞船在这片区域探测到了异常信号。我认为信号来自你那边的那台机器。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:763
 translate chinese sm1mv02s05_movie_start_48034531:
 
     # sy "It's keeping us from going home."
-    sy "It's keeping us from going home."
+    sy "它阻碍了我们返航的路线。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:766
 translate chinese sm1mv02s05_movie_start_9ecfc894:
 
     # ns "This is very doubtful, sir."
-    ns "This is very doubtful, sir."
+    ns "先生，这一点非常值得怀疑。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:767
 translate chinese sm1mv02s05_movie_start_a6bdbcf9:
 
     # ns "I am Doctor Jalerra. Biologist, the last member of my team."
-    ns "I am Doctor Jalerra. Biologist, the last member of my team."
+    ns "我是杰莱拉博士。是一名生物学家，也是我团队里最后一名成员。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:770
 translate chinese sm1mv02s05_movie_start_525d4e77:
 
     # sy "Team?"
-    sy "Team?"
+    sy "团队？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:773
 translate chinese sm1mv02s05_movie_start_9fc5b6c7:
 
     # ns "Yes. We were sent here to isolate the specimen. That is what my machine is for."
-    ns "Yes. We were sent here to isolate the specimen. That is what my machine is for."
+    ns "对。我们被派到这里来隔离这个样本。我的这台机器就是用来做隔离的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:774
 translate chinese sm1mv02s05_movie_start_63d66d65:
 
     # ns "It's a Spectral Scanner."
-    ns "It's a Spectral Scanner."
+    ns "它是一台光谱扫描仪。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:777
 translate chinese sm1mv02s05_movie_start_881e1ab2:
 
     # mc "Impressive."
-    mc "Impressive."
+    mc "真没想到。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:780
 translate chinese sm1mv02s05_movie_start_03988bca:
 
     # ns "Well, surely not to you. You come from the stars, I imagine."
-    ns "Well, surely not to you. You come from the stars, I imagine."
+    ns "好吧，对你来说肯定不算什么。我猜你来自遥远的星际。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:783
 translate chinese sm1mv02s05_movie_start_d098822a:
 
     # sy "Yes, but you're taking that all rather well."
-    sy "Yes, but you're taking that all rather well."
+    sy "没错，但你对此表现得相当平静啊。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:786
 translate chinese sm1mv02s05_movie_start_29ace966:
 
     # ns "I have written many papers stipulating that there must be life on other planets."
-    ns "I have written many papers stipulating that there must be life on other planets."
+    ns "我写过很多论文，都指出其他星球上一定存在生命。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:787
 translate chinese sm1mv02s05_movie_start_dffbe00a:
 
     # ns "Naturally, I had no idea that other species would be so... pleasant on the eyes."
-    ns "Naturally, I had no idea that other species would be so... pleasant on the eyes."
+    ns "当然，我从来没想过其他物种会这么...养眼。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:788
 translate chinese sm1mv02s05_movie_start_f0a296e0:
 
     # ns "But I had hoped I might meet one in my lifetime."
-    ns "But I had hoped I might meet one in my lifetime."
+    ns "但我一直希望能在有生之年遇到一个外星物种。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:791
 translate chinese sm1mv02s05_movie_start_e9323eb2:
 
     # mc "Your form is very pleasing as well, Doctor Jalerra."
-    mc "Your form is very pleasing as well, Doctor Jalerra."
+    mc "杰莱拉博士，你的外形也非常迷人。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:794
 translate chinese sm1mv02s05_movie_start_c58d508c:
 
     # sy "Captain."
-    sy "Captain."
+    sy "舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:797
 translate chinese sm1mv02s05_movie_start_a7013389:
 
     # mc "What, it's a compliment."
-    mc "What, it's a compliment."
+    mc "怎么了，只是一句赞美而已。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:800
 translate chinese sm1mv02s05_movie_start_9a6d362b:
 
     # ns "I'm afraid compliments must wait. You two have come at a dangerous time."
-    ns "I'm afraid compliments must wait. You two have come at a dangerous time."
+    ns "恐怕现在不是互送赞美的时候。你们俩来得太不是时候了，现在处境很危险。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:804
 translate chinese sm1mv02s05_movie_start_f8dbe0ca:
 
     # ns "I am in the middle of running tests on the specimens."
-    ns "I am in the middle of running tests on the specimens."
+    ns "我正在对这些样本进行测试。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:805
 translate chinese sm1mv02s05_movie_start_872bd999:
 
     # ns "It is a volatile time."
-    ns "It is a volatile time."
+    ns "现在是非常不稳定的阶段。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:808
 translate chinese sm1mv02s05_movie_start_88f3a2bd:
 
     # mc "Maybe we can help."
-    mc "Maybe we can help."
+    mc "也许我们能帮上忙。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:812
 translate chinese sm1mv02s05_movie_start_f2821f44:
 
     # sy "This doesn't appear to be the source of our jump drive interference."
-    sy "This doesn't appear to be the source of our jump drive interference."
+    sy "这看起来不像是干扰我们跃迁引擎的源头。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:815
 translate chinese sm1mv02s05_movie_start_22498685:
 
     # mc "That's good news at least. But what about these tests, Doctor."
-    mc "That's good news at least. But what about these tests, Doctor."
+    mc "至少这是个好消息。但关于这些检测结果，博士你怎么看？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:818
 translate chinese sm1mv02s05_movie_start_5a8d6d23:
 
     # ns "I have taken to calling this plant the Great Bloom. It appears to be a spaceborne flower that landed on my planet about forty-two cycles ago."
-    ns "I have taken to calling this plant the Great Bloom. It appears to be a spaceborne flower that landed on my planet about forty-two cycles ago."
+    ns "我习惯称这种植物为'繁花星'。它似乎是约四十二个公转周期前坠落到我这颗星球的一朵太空花。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:819
 translate chinese sm1mv02s05_movie_start_184773d7:
 
     # ns "The effect it has on my people can only be described as disastrous."
-    ns "The effect it has on my people can only be described as disastrous."
+    ns "它对我们族人造成的影响，只能用灾难性来形容。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:822
 translate chinese sm1mv02s05_movie_start_05b2c4b1:
 
     # ns "The pathogens it emits have started changing the biology of our people."
-    ns "The pathogens it emits have started changing the biology of our people."
+    ns "它释放出的病原体已经开始改变我们族人的生理结构。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:823
 translate chinese sm1mv02s05_movie_start_18a4203c:
 
     # ns "Over the last forty cycles, male children have all but vanished."
-    ns "Over the last forty cycles, male children have all but vanished."
+    ns "在过去的四十个周期里，男性后代几乎已经绝迹了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:827
 translate chinese sm1mv02s05_movie_start_7428e1ba:
 
     # mc "That could be fatal to your population."
-    mc "That could be fatal to your population."
+    mc "这对你们的族群来说，可能是致命的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:831
 translate chinese sm1mv02s05_movie_start_844e2e05:
 
     # ns "Exactly!{w} That is why my team and I were deployed. We need to figure out a solution."
-    ns "Exactly!{w} That is why my team and I were deployed. We need to figure out a solution."
+    ns "完全正确！{w}这就是我和我的团队被派到这里来的原因。我们必须找到解决办法。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:832
 translate chinese sm1mv02s05_movie_start_54980f48:
 
     # ns "Before it's too late."
-    ns "Before it's too late."
+    ns "否则就太晚了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:835
 translate chinese sm1mv02s05_movie_start_64e695d0:
 
     # sy "You think that the pathogen will travel to the females of your species."
-    sy "You think that the pathogen will travel to the females of your species."
+    sy "你认为这种病原体会传染给你们星球的女性？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:838
 translate chinese sm1mv02s05_movie_start_0faa796f:
 
     # ns "It was theorized by one of my colleagues...."
-    ns "It was theorized by one of my colleagues...."
+    ns "这是我一位同事提出的理论...."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:839
 translate chinese sm1mv02s05_movie_start_6f949786:
 
     # ns "And then she was affected by a new strain of the pathogen."
-    ns "And then she was affected by a new strain of the pathogen."
+    ns "接着她就感染了这种病原体的新变种。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:843
 translate chinese sm1mv02s05_movie_start_ddd056e6:
 
     # mc "What are the effects?"
-    mc "What are the effects?"
+    mc "感染后的症状是什么？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:847
 translate chinese sm1mv02s05_movie_start_cc303859:
 
     # ns "You wouldn't believe me if I told you."
-    ns "You wouldn't believe me if I told you."
+    ns "就算我告诉你，你也不会相信的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:850
 translate chinese sm1mv02s05_movie_start_7c8072df:
 
     # mc "I've been to countless strange new worlds, Doctor."
-    mc "I've been to countless strange new worlds, Doctor."
+    mc "博士，我去过无数个陌生的新世界。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:851
 translate chinese sm1mv02s05_movie_start_a154fb7b:
 
     # mc "Try me."
-    mc "Try me."
+    mc "不妨说说看。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:854
 translate chinese sm1mv02s05_movie_start_018ed7bb:
 
     # ns "This new strain of the spores, once it gets into the bloodstream-"
-    ns "This new strain of the spores, once it gets into the bloodstream-"
+    ns "这种新变种的孢子一旦进入血液--"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:858
 translate chinese sm1mv02s05_movie_start_d1cdbe69:
 
     # sy "Hmmm."
-    sy "Hmmm."
+    sy "嗯..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:864
 translate chinese sm1mv02s05_movie_start_0e8b4e05:
 
     # sy "Uh-oh."
-    sy "Uh-oh."
+    sy "哦不。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:868
 translate chinese sm1mv02s05_movie_start_7981584a:
 
     # ns "Pull back!"
-    ns "Pull back!"
+    ns "退后！"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:871
 translate chinese sm1mv02s05_movie_start_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "啊？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:875
 translate chinese sm1mv02s05_movie_start_0a4a088f:
 
     # sy "Ohuaah... Huhaha... *coughing*"
-    sy "Ohuaah... Huhaha... *coughing*"
+    sy "哦...啊...*咳嗽*"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:878
 translate chinese sm1mv02s05_movie_start_b83075ff:
 
     # sy "Oh whoa."
-    sy "Oh whoa."
+    sy "哇。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:881
 translate chinese sm1mv02s05_movie_start_10d6081c:
 
     # sy "H-hah... Captain... I feel... strange. Warm. Like uncontrollably warm."
-    sy "H-hah... Captain... I feel... strange. Warm. Like uncontrollably warm."
+    sy "哈...舰长...我感觉...好奇怪。好热。浑身热得不受控制。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:884
 translate chinese sm1mv02s05_movie_start_598cf45e:
 
     # mc "What is happening to her?"
-    mc "What is happening to her?"
+    mc "她怎么了？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:887
 translate chinese sm1mv02s05_movie_start_d628865c:
 
     # ns "This is terrible. It's exactly the same thing that happened to most of my team."
-    ns "This is terrible. It's exactly the same thing that happened to most of my team."
+    ns "情况很糟糕。这和我团队里大多数人感染后的症状一模一样。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:888
 translate chinese sm1mv02s05_movie_start_f9529881:
 
     # ns "I thought I had all the plant's pollen ducts covered in retrieval pods."
-    ns "I thought I had all the plant's pollen ducts covered in retrieval pods."
+    ns "我以为我已经用采集舱把这株植物所有的花粉管都覆盖住了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:891
 translate chinese sm1mv02s05_movie_start_dab5bd41:
 
     # mc "Doctor, I need to know exactly what happened to my officer."
-    mc "Doctor, I need to know exactly what happened to my officer."
+    mc "博士，我需要确切知道我的军官到底发生了什么。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:894
 translate chinese sm1mv02s05_movie_start_0b0b96a6:
 
     # ns "The pollen enters the bloodstream and causes the afflicted to enter into an estrus state."
-    ns "The pollen enters the bloodstream and causes the afflicted to enter into an estrus state."
+    ns "这种花粉进入血液后，会让感染者进入发情状态。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:895
 translate chinese sm1mv02s05_movie_start_5306f7a5:
 
     # ns "Only by... causing sexual relief can the intensity be dampened."
-    ns "Only by... causing sexual relief can the intensity be dampened."
+    ns "只有通过...性行为获得释放，才能缓解这种强烈的症状。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:898
 translate chinese sm1mv02s05_movie_start_10a3c500:
 
     # mc "We have to get her back to my ship."
-    mc "We have to get her back to my ship."
+    mc "我们必须把她带回我的飞船。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:901
 translate chinese sm1mv02s05_movie_start_3c25c2c5:
 
     # sy "It's too risky, Captain. It's my fault. Leave me here. Oouhaah..."
-    sy "It's too risky, Captain. It's my fault. Leave me here. Oouhaah..."
+    sy "舰长，太危险了。这都是我的错。别管我了，把我留在这儿吧。啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:904
 translate chinese sm1mv02s05_movie_start_5dc1e831:
 
     # mc "No one gets left behind."
-    mc "No one gets left behind."
+    mc "我不会丢下任何人。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:907
 translate chinese sm1mv02s05_movie_start_61a181bd:
 
     # mc "Doctor. If we subdue her now, like you said, there is a chance we can buy her more time, yes?"
-    mc "Doctor. If we subdue her now, like you said, there is a chance we can buy her more time, yes?"
+    mc "博士。如果我们现在控制住她，就像你说的，也许能为她争取更多时间，对吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:910
 translate chinese sm1mv02s05_movie_start_9dfb694e:
 
     # ns "It's possible. But only a man of incredible stamina and fortitude could outlast the effect. The effect is very potent."
-    ns "It's possible. But only a man of incredible stamina and fortitude could outlast the effect. The effect is very potent."
+    ns "有可能。但只有拥有惊人耐力和毅力的男人，才能扛过这种症状的影响。它的效力非常强。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:913
 translate chinese sm1mv02s05_movie_start_a7e581cb:
 
     # mc "Some star-lilly from another galaxy has nothing on my potency."
-    mc "Some star-lilly from another galaxy has nothing on my potency."
+    mc "来自另一个星系的某种外星百合花，可奈何不了我的耐力。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:916
 translate chinese sm1mv02s05_movie_start_f61e3c3b:
 
     # ns "That is how you say, a gamble. For the life of your crew member.{w} And you."
-    ns "That is how you say, a gamble. For the life of your crew member.{w} And you."
+    ns "这么做就像是一场赌博。赌的是你的船员的命。{w}也是你的命。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:917
 translate chinese sm1mv02s05_movie_start_252487e9:
 
     # ns "If you're not strong enough...{w} She could drain us both."
-    ns "If you're not strong enough...{w} She could drain us both."
+    ns "如果你不够强大...{w}她可能会把我们俩都榨干。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:923
 translate chinese sm1mv02s05_movie_start_549dc270:
 
     # mc "Never fear, Doctor. I am the man who once single-handedly outfoxed the Sylon Queen into putting down her genocidal war to open a bed and breakfast on Titan."
-    mc "Never fear, Doctor. I am the man who once single-handedly outfoxed the Sylon Queen into putting down her genocidal war to open a bed and breakfast on Titan."
+    mc "别担心，博士。我就是那个曾经单枪匹马智取赛隆女王，让她放弃种族灭绝战争，转而去泰坦星开民宿的人。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:926
 translate chinese sm1mv02s05_movie_start_1c408ac7:
@@ -1472,601 +1472,601 @@ translate chinese sm1mv02s05_movie_start_1c408ac7:
 translate chinese sm1mv02s05_movie_start_8b5fcf20:
 
     # sy "Captain, you don't have to do this."
-    sy "Captain, you don't have to do this."
+    sy "舰长，你没必要这么做。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:932
 translate chinese sm1mv02s05_movie_start_14c8191b:
 
     # mc "I'd do it for any of my officers."
-    mc "I'd do it for any of my officers."
+    mc "我的任何一名军官遇到这种情况，我都会这么做。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:938
 translate chinese sm1mv02s05_movie_start_d6e0ebea:
 
     # mc "Doctor?"
-    mc "Doctor?"
+    mc "博士？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:941
 translate chinese sm1mv02s05_movie_start_7dbebf21:
 
     # ns "If I don't help, and you fall, then it may be the end of my people."
-    ns "If I don't help, and you fall, then it may be the end of my people."
+    ns "如果我不帮忙，而你失败了，那我的族人可能也就彻底没希望了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:942
 translate chinese sm1mv02s05_movie_start_919df6e4:
 
     # ns "We will subdue your Lieutenant Commander together."
-    ns "We will subdue your Lieutenant Commander together."
+    ns "我们一起控制住你的少校吧。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:945
 translate chinese sm1mv02s05_movie_start_68b106d7:
 
     # mc "This is turning out to be one of my favorite first dates ever."
-    mc "This is turning out to be one of my favorite first dates ever."
+    mc "这绝对算是我经历过最对劲的第一次约会了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:949
 translate chinese sm1mv02s05_movie_start_5758a9d8:
 
     # sy "Captain... huaah... I've wanted this for so long."
-    sy "Captain... huaah... I've wanted this for so long."
+    sy "舰长...啊...我想要你很久了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:952
 translate chinese sm1mv02s05_movie_start_aabe5ef9:
 
     # mc "I know. But we have to keep it professional, Orion."
-    mc "I know. But we have to keep it professional, Orion."
+    mc "我知道。但奥里昂，我们得保持专业。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:957
 translate chinese sm1mv02s05_movie_start_6c665e68:
 
     # sy "Fuck the regs. Actually. Just fuck me."
-    sy "Fuck the regs. Actually. Just fuck me."
+    sy "去他的规定。坦诚相待。快来干我。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:960
 translate chinese sm1mv02s05_movie_start_e8004855:
 
     # mc "I'll do my duty."
-    mc "I'll do my duty."
+    mc "我会履行我的职责。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:969
 translate chinese sm1mv02s05_movie_start_b74876f5:
 
     # ns "How strange. Is this how humans breed?"
-    ns "How strange. Is this how humans breed?"
+    ns "真奇怪。人类都是这样繁衍后代的吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:970
 translate chinese sm1mv02s05_movie_start_d6fc2d26:
 
     # ns "Is this length more of an ovipositor for a sexual organ inside the female mouth?"
-    ns "Is this length more of an ovipositor for a sexual organ inside the female mouth?"
+    ns "这个长度更像是一种产卵器，是用来将性器官送入雌性口腔里的吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:972
 translate chinese sm1mv02s05_movie_start_8da0be3d:
 
     # mc "Doctor. I'm glad you're helping, but this will go smoother if you go with the flow."
-    mc "Doctor. I'm glad you're helping, but this will go smoother if you go with the flow."
+    mc "博士。很高兴你能帮忙，但如果你能顺其自然，事情会进行得更顺利。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:975
 translate chinese sm1mv02s05_movie_start_ed841a5f:
 
     # ns "Oh. My apologies. I am somewhat... naturally curious."
-    ns "Oh. My apologies. I am somewhat... naturally curious."
+    ns "哦。抱歉。我天生就...有些好奇。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:977
 translate chinese sm1mv02s05_movie_start_0e6328ca:
 
     # mc "No worries. Just watch the Lieutenant Commander. She's going to give you some great visual lessons."
-    mc "No worries. Just watch the Lieutenant Commander. She's going to give you some great visual lessons."
+    mc "没关系。只管看好少校就行。她会给你上点相当直观的‘示范课’。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:980
 translate chinese sm1mv02s05_movie_start_889cbb8a:
 
     # ns "Mmmhmm."
-    ns "Mmmhmm."
+    ns "嗯..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:985
 translate chinese sm1mv02s05_movie_start_181dc4c9:
 
     # ns "Such an impressive length."
-    ns "Such an impressive length."
+    ns "这长度真是令人印象深刻。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:988
 translate chinese sm1mv02s05_movie_start_f6bce0df:
 
     # mc "Bigger than you've seen?"
-    mc "Bigger than you've seen?"
+    mc "比你见过的都大吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:989
 translate chinese sm1mv02s05_movie_start_d3765993:
 
     # ns "I... I have not seen many. My life has been devoted to science."
-    ns "I... I have not seen many. My life has been devoted to science."
+    ns "我...我没见过多少。我的一生都奉献给了科学。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:992
 translate chinese sm1mv02s05_movie_start_0305db40:
 
     # sy "Glrruph... slurrph... glukkaha..."
-    sy "Glrruph... slurrph... glukkaha..."
+    sy "咕...噗...咕咕唔..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:993
 translate chinese sm1mv02s05_movie_start_d664c287:
 
     # ns "But now... This is science!"
-    ns "But now... This is science!"
+    ns "但现在...这就是科学！"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:994
 translate chinese sm1mv02s05_movie_start_3904ea1e:
 
     # ns "Ahuaah-oouhaah..."
-    ns "Ahuaah-oouhaah..."
+    ns "啊哈--哦噢噢..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:995
 translate chinese sm1mv02s05_movie_start_70faab5b:
 
     # mc "There you go, Doctor. We all need to get ready for whatever this pathogen does to Orion."
-    mc "There you go, Doctor. We all need to get ready for whatever this pathogen does to Orion."
+    mc "这就对了，博士。不管这种病原体对奥里昂造成什么影响，我们所有人都得做好准备。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:998
 translate chinese sm1mv02s05_movie_start_1a92a6df:
 
     # ns "Yes... you're correct, Captain."
-    ns "Yes... you're correct, Captain."
+    ns "是的...你说得对，舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:999
 translate chinese sm1mv02s05_movie_start_492eae47:
 
     # sy "*moaning and sucking*"
-    sy "*moaning and sucking*"
+    sy "*呻吟加吮吸声*"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1000
 translate chinese sm1mv02s05_movie_start_4b7e2d2b:
 
     # mc "Well, LC... you're certainly getting top marks for this."
-    mc "Well, LC... you're certainly getting top marks for this."
+    mc "好吧，少校...你这次的表现肯定能拿高分。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1007
 translate chinese sm1mv02s05_movie_start_55547f95:
 
     # sy "Nothing will please me more than you filling me up with your seed, Captain."
-    sy "Nothing will please me more than you filling me up with your seed, Captain."
+    sy "没有什么比您用精液填满我更让我快乐的了，舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1010
 translate chinese sm1mv02s05_movie_start_3ae847d3:
 
     # mc "Is that the pollen talking, or you?"
-    mc "Is that the pollen talking, or you?"
+    mc "这是你被花粉影响了才这么说，还是你的真心话？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1013
 translate chinese sm1mv02s05_movie_start_c5e6bec2:
 
     # sy "Muaaah... why can't it be both?"
-    sy "Muaaah... why can't it be both?"
+    sy "嗯啊啊...为什么不能两者都是呢？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1032
 translate chinese sm1mv02s05_movie_start_21e673d7:
 
     # mc "Woah!"
-    mc "Woah!"
+    mc "喔！"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1035
 translate chinese sm1mv02s05_movie_start_a8a13e8d:
 
     # sy "I won't be put off any longer, Captain."
-    sy "I won't be put off any longer, Captain."
+    sy "舰长，我不会再拖延下去了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1036
 translate chinese sm1mv02s05_movie_start_7e125438:
 
     # sy "For the bloom to fulfill its purpose... All must breed..."
-    sy "For the bloom to fulfill its purpose... All must breed..."
+    sy "为了让繁花完成它的使命...所有人都必须交配..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1039
 translate chinese sm1mv02s05_movie_start_006abd41:
 
     # mc "What impressive focus. But couldn't we just do more foreplay so the doctor can study?"
-    mc "What impressive focus. But couldn't we just do more foreplay so the doctor can study?"
+    mc "这专注力真令人佩服。但我们能不能多做些前戏，好让博士进行研究？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1042
 translate chinese sm1mv02s05_movie_start_aca3cb25:
 
     # sy "No more talking.{w} Only."
-    sy "No more talking.{w} Only."
+    sy "别再说话了。{w}只要。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1046
 translate chinese sm1mv02s05_movie_start_d23c9e72:
 
     # sy "Snu-Snu!"
-    sy "Snu-Snu!"
+    sy "交--配就行！"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1049
 translate chinese sm1mv02s05_movie_start_d6e0ebea_1:
 
     # mc "Doctor?"
-    mc "Doctor?"
+    mc "博士？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1051
 translate chinese sm1mv02s05_movie_start_3c1c41fb:
 
     # ns "Excuse my rudeness, Captain. But I must stay close to observe her."
-    ns "Excuse my rudeness, Captain. But I must stay close to observe her."
+    ns "请原谅我的无礼，舰长。但我必须靠近观察她。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1054
 translate chinese sm1mv02s05_movie_start_07b102c2:
 
     # mc "I know a place you can go to have the best seat in the house."
-    mc "I know a place you can go to have the best seat in the house."
+    mc "我知道有个地方可以让你获得最佳视野。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1056
 translate chinese sm1mv02s05_movie_start_29cc72b9:
 
     # ns "Captain?"
-    ns "Captain?"
+    ns "舰长？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1064
 translate chinese sm1mv02s05_movie_start_106cce63:
 
     # ns "Oh Captain. Men on my planet do not put their mouth there..."
-    ns "Oh Captain. Men on my planet do not put their mouth there..."
+    ns "哦舰长。在我的星球上，男人不会把嘴放在那里..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1065
 translate chinese sm1mv02s05_movie_start_d142831e:
 
     # ns "They believe it weakens them."
-    ns "They believe it weakens them."
+    ns "他们认为那会削弱自己。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1066
 translate chinese sm1mv02s05_movie_start_fddc644d:
 
     # mc "Then allow me to add a new page to your research."
-    mc "Then allow me to add a new page to your research."
+    mc "那就请允许我为你的研究开启新的篇章。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1069
 translate chinese sm1mv02s05_movie_start_33a98dc3:
 
     # ns "Ohuaaah-houaah... Captain!"
-    ns "Ohuaaah-houaah... Captain!"
+    ns "哦噢噢...哈啊...舰长！"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1074
 translate chinese sm1mv02s05_movie_start_cfcce9d7:
 
     # sy "Very good, Doctor. The Captain is absolutely the best."
-    sy "Very good, Doctor. The Captain is absolutely the best."
+    sy "非常好，博士。舰长绝对是最棒的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1075
 translate chinese sm1mv02s05_movie_start_c5bab46a:
 
     # sy "I watched him fuck a Furian warrior princess and all of her maids of honor after negotiating a peace treaty."
-    sy "I watched him fuck a Furian warrior princess and all of her maids of honor after negotiating a peace treaty."
+    sy "我曾目睹他在谈判和平条约后，干翻了一个富里安勇士公主和她麾下全部的荣誉侍女。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1078
 translate chinese sm1mv02s05_movie_start_7f7c4704:
 
     # sy "Fuaha-gahuaaah... if anyone can do this... Can... fuck me till my head spins..."
-    sy "Fuaha-gahuaaah... if anyone can do this... Can... fuck me till my head spins..."
+    sy "操操操...噶啊...如果有人能做到...能...干得我头晕眼花..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1079
 translate chinese sm1mv02s05_movie_start_f9603cdd:
 
     # sy "It's him."
-    sy "It's him."
+    sy "那就是他。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1082
 translate chinese sm1mv02s05_movie_start_f5958454:
 
     # ns "He does seem... full of energy."
-    ns "He does seem... full of energy."
+    ns "他确实看起来...精力充沛。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1083
 translate chinese sm1mv02s05_movie_start_883f4a25:
 
     # ns "Does he have some sort of special adrenal gland responsible for this?"
-    ns "Does he have some sort of special adrenal gland responsible for this?"
+    ns "他是有某种特殊的肾上腺腺体负责这个吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1086
 translate chinese sm1mv02s05_movie_start_0664372d:
 
     # sy "Ha-fuaah... not that I know of. Maybe he just runs on pussy juice... houaaah..."
-    sy "Ha-fuaah... not that I know of. Maybe he just runs on pussy juice... houaaah..."
+    sy "哈--啊...这我倒不知道。也许他只是靠女人的淫液运转...啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1089
 translate chinese sm1mv02s05_movie_start_50986e3e:
 
     # sy "Yes... Fuck... fuck my pussy, Captain."
-    sy "Yes... Fuck... fuck my pussy, Captain."
+    sy "对...操...操我的小穴，舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1092
 translate chinese sm1mv02s05_movie_start_64d3023e:
 
     # sy "Make your Number One cum-huaaaah-ooouhaa!"
-    sy "Make your Number One cum-huaaaah-ooouhaa!"
+    sy "让你的一号副官高潮--啊啊--啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1093
 translate chinese sm1mv02s05_movie_start_93eea1cb:
 
     # ns "Me too, Captain. I... phuaah..."
-    ns "Me too, Captain. I... phuaah..."
+    ns "我也要，舰长。我...啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1096
 translate chinese sm1mv02s05_movie_start_008f0235:
 
     # ns "I wish to know... all about this cum... it sounds..."
-    ns "I wish to know... all about this cum... it sounds..."
+    ns "我想了解...关于这高潮的一切...听起来..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1097
 translate chinese sm1mv02s05_movie_start_f924dfa1:
 
     # ns "Like a very good sensation."
-    ns "Like a very good sensation."
+    ns "像是一种非常美妙的感觉。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1100
 translate chinese sm1mv02s05_movie_start_a52e952e:
 
     # sy "Ha.. ha-ha... just wait, Doctor. My Captain isn't going to leave you high and dry."
-    sy "Ha.. ha-ha... just wait, Doctor. My Captain isn't going to leave you high and dry."
+    sy "哈...哈哈...等着瞧吧，博士。我的舰长绝对会好好帮你实现愿望的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1103
 translate chinese sm1mv02s05_movie_start_c9ecf76f:
 
     # ns "Pha-lluaahh... I think not... I'm already so wet-huaah."
-    ns "Pha-lluaahh... I think not... I'm already so wet-huaah."
+    ns "啪--啊啊...我想也是...我已经这么湿了--唔唔。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1106
 translate chinese sm1mv02s05_movie_start_d11abe82:
 
     # sy "Nrraah-haaah."
-    sy "Nrraah-haaah."
+    sy "嗯啊...哈..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1114
 translate chinese sm1mv02s05_movie_start_5952676c:
 
     # mc "Doctor, lie down there."
-    mc "Doctor, lie down there."
+    mc "博士，躺在那儿。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1117
 translate chinese sm1mv02s05_movie_start_5247b372:
 
     # ns "As you say, {i}Hornstar{/i}."
-    ns "As you say, {i}Hornstar{/i}."
+    ns "遵命，{i}霍斯塔{/i}。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1121
 translate chinese sm1mv02s05_movie_start_ce036965:
 
     # mc "Hornstar? We are getting familiar aren't we?"
-    mc "Hornstar? We are getting familiar aren't we?"
+    mc "霍斯塔？我们变得这么亲昵了吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1125
 translate chinese sm1mv02s05_movie_start_101e7d74:
 
     # sy "Sex. Cock. Tits. Pussy..."
-    sy "Sex. Cock. Tits. Pussy..."
+    sy "性。鸡巴。奶子。小穴..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1126
 translate chinese sm1mv02s05_movie_start_86381c12:
 
     # sy "Pussy needs seed."
-    sy "Pussy needs seed."
+    sy "小穴需要种子。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1134
 translate chinese sm1mv02s05_movie_start_8d3536a9:
 
     # sy "Mmmmm. It tastes like green gello, Captain."
-    sy "Mmmmm. It tastes like green gello, Captain."
+    sy "嗯...它的味道像绿色果冻，舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1135
 translate chinese sm1mv02s05_movie_start_c6de7f17:
 
     # sy "I fucking love green gello!"
-    sy "I fucking love green gello!"
+    sy "我他妈爱死绿色果冻了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1138
 translate chinese sm1mv02s05_movie_start_22751a89:
 
     # ns "Puaaah-wwooouaah..."
-    ns "Puaaah-wwooouaah..."
+    ns "噗噗噗--哇啊啊啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1139
 translate chinese sm1mv02s05_movie_start_338e82c7:
 
     # ns "Oh, Hornstar, I was already so close when you had your mouth there."
-    ns "Oh, Hornstar, I was already so close when you had your mouth there."
+    ns "哦，霍斯塔，你的嘴贴在那儿时我已经快要去了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1140
 translate chinese sm1mv02s05_movie_start_c0e0a076:
 
     # ns "Is there not a better position?"
-    ns "Is there not a better position?"
+    ns "难道没有更好的姿势了吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1143
 translate chinese sm1mv02s05_movie_start_2043dd2c:
 
     # mc "Not for this."
-    mc "Not for this."
+    mc "对于这个没有。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1147
 translate chinese sm1mv02s05_movie_start_e472729b:
 
     # sy "Fffftttth..."
-    sy "Fffftttth..."
+    sy "噗嘶嘶..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1148
 translate chinese sm1mv02s05_movie_start_26be8d75:
 
     # sy "Captain. That's my tiny little asshole."
-    sy "Captain. That's my tiny little asshole."
+    sy "舰长。那是我的小小屁眼。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1151
 translate chinese sm1mv02s05_movie_start_dd0f73de:
 
     # mc "So it is, LC. Don't worry."
-    mc "So it is, LC. Don't worry."
+    mc "确实是，少校。别担心。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1152
 translate chinese sm1mv02s05_movie_start_7f1c3e5d:
 
     # mc "After I'm done with this tiny hole, you'll be laid out for days."
-    mc "After I'm done with this tiny hole, you'll be laid out for days."
+    mc "等我搞定这个小洞之后，你会瘫上好几天。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1159
 translate chinese sm1mv02s05_movie_start_031b2f15:
 
     # sy "Hauaah-huaah!"
-    sy "Hauaah-huaah!"
+    sy "哈啊--噶啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1162
 translate chinese sm1mv02s05_movie_start_282cff3e:
 
     # ns "Is this hole another sexual orifice, Captain?"
-    ns "Is this hole another sexual orifice, Captain?"
+    ns "这个洞是另一个性交孔穴吗，舰长？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1163
 translate chinese sm1mv02s05_movie_start_95f8dd4c:
 
     # mc "You could say that. Among humans, this is a scandalous activity."
-    mc "You could say that. Among humans, this is a scandalous activity."
+    mc "可以这么说。在人类当中，这可是一种伤风败俗的行为。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1166
 translate chinese sm1mv02s05_movie_start_251197c8:
 
     # sy "Ohuaa-fuck... yes... Drill me..."
-    sy "Ohuaa-fuck... yes... Drill me..."
+    sy "哦哇哇--操...就是这样...钻我..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1167
 translate chinese sm1mv02s05_movie_start_68065bf3:
 
     # sy "Keep fucking drilling my naughty asshole, Captain."
-    sy "Keep fucking drilling my naughty asshole, Captain."
+    sy "继续钻我的骚屁眼，舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1170
 translate chinese sm1mv02s05_movie_start_7616ad17:
 
     # sy "*whimpering* It's so big."
-    sy "*whimpering* It's so big."
+    sy "*呜咽声* 好大啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1171
 translate chinese sm1mv02s05_movie_start_95c86307:
 
     # sy "I can't think straight-huaaha..."
-    sy "I can't think straight-huaaha..."
+    sy "我没法正常思考了--噢噢噢..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1174
 translate chinese sm1mv02s05_movie_start_d82261b2:
 
     # ns "It looks cute too. Muraah... oh Orion."
-    ns "It looks cute too. Muraah... oh Orion."
+    ns "它看起来也很可爱呢。唔...哦奥里昂。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1175
 translate chinese sm1mv02s05_movie_start_7d5f6d07:
 
     # ns "She shouldn't be underestimated, Hornstar."
-    ns "She shouldn't be underestimated, Hornstar."
+    ns "不该小看她，霍斯塔。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1178
 translate chinese sm1mv02s05_movie_start_f383693c:
 
     # ns "Her tongue is feasting on my petals like a hungry Lixu."
-    ns "Her tongue is feasting on my petals like a hungry Lixu."
+    ns "她的舌头像饥饿的猛兽一样享用着我的花瓣。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1179
 translate chinese sm1mv02s05_movie_start_12db756b:
 
     # mc "Haha. Be brave, Doctor."
-    mc "Haha. Be brave, Doctor."
+    mc "哈哈。勇敢点，博士。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1182
 translate chinese sm1mv02s05_movie_start_c71e3410:
 
     # ns "Jalerra please... and...{w} Puaa-ooouha... I won't let you down."
-    ns "Jalerra please... and...{w} Puaa-ooouha... I won't let you down."
+    ns "请叫我杰莱拉...还有...{w}噗啊--哦...我不会让你失望的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1183
 translate chinese sm1mv02s05_movie_start_78cb965a:
 
     # sy "Keep fucking me, Captain."
-    sy "Keep fucking me, Captain."
+    sy "继续干我，舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1186
 translate chinese sm1mv02s05_movie_start_71bb967b:
 
     # sy "Use me however you like. I want all of it-kiaaah."
-    sy "Use me however you like. I want all of it-kiaaah."
+    sy "随你处置我吧。全都给我--噢噢啊啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1192
 translate chinese sm1mv02s05_movie_start_d05df4ea:
 
     # sy "Ahhu-huhaa...huaahh-ooouhaah..."
-    sy "Ahhu-huhaa...huaahh-ooouhaah..."
+    sy "啊呼-哈啊...噢噢--噢噢啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1195
 translate chinese sm1mv02s05_movie_start_2f77eabb:
 
     # sy "*gasping and moaning*"
-    sy "*gasping and moaning*"
+    sy "*喘息加呻吟声*"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1198
 translate chinese sm1mv02s05_movie_start_45a9f9e9:
 
     # ns "Incredible!"
-    ns "Incredible!"
+    ns "太棒了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1202
 translate chinese sm1mv02s05_movie_start_5f71acf7:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*呻吟*"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1204
 translate chinese sm1mv02s05_movie_start_e7b871fa:
 
     # sy "So... fucking... {w}HOT!"
-    sy "So... fucking... {w}HOT!"
+    sy "太...他妈...{w}爽了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1208
 translate chinese sm1mv02s05_movie_start_2c4ec082:
 
     # ns "Yessssss..."
-    ns "Yessssss..."
+    ns "正是..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1210
 translate chinese sm1mv02s05_movie_start_a7ac3ba0:
 
     # sy "*panting*"
-    sy "*panting*"
+    sy "*喘息声*"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1213
 translate chinese sm1mv02s05_movie_start_628bf4a3:
 
     # mc "Fuck."
-    mc "Fuck."
+    mc "操。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1216
 translate chinese sm1mv02s05_movie_start_812a7755:
 
     # ns "*cooing*"
-    ns "*cooing*"
+    ns "*轻哼声*"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1220
 translate chinese sm1mv02s05_movie_start_608957b5:
 
     # ns "Ooouha..."
-    ns "Ooouha..."
+    ns "哦哦啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1221
 translate chinese sm1mv02s05_movie_start_c6fd7b5e:
 
     # ns "We're not finished yet, are we, Captain?"
-    ns "We're not finished yet, are we, Captain?"
+    ns "我们还没结束呢，对吧，船长？"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1228
 translate chinese sm1mv02s05_movie_start_576f87a9:
 
     # ns "So... thick..."
-    ns "So... thick..."
+    ns "这么...粗壮..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1231
 translate chinese sm1mv02s05_movie_start_ce079fe5:
 
     # ns "H-hornstar... I'm beginning to hypothesize something."
-    ns "H-hornstar... I'm beginning to hypothesize something."
+    ns "霍--霍斯塔...我开始构想某种可能性了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1232
 translate chinese sm1mv02s05_movie_start_396f9b12:
