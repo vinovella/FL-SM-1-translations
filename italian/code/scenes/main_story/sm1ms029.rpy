@@ -1100,7 +1100,7 @@ translate italian sm1ms029_party_continue_f54e7e3a:
 translate italian sm1ms029_party_continue_02321992:
 
     # "Everyone" "Wooo! *claps*"
-    "Everyone" "Wooo! *claps*"
+    "Tutti" "Wooo! *applausi*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:525
 translate italian sm1ms029_party_continue_fba86d44:
@@ -1124,7 +1124,7 @@ translate italian sm1ms029_party_continue_3a8d95bc:
 translate italian sm1ms029_party_continue_31ebab56:
 
     # "Everyone" "Wooooo!"
-    "Everyone" "Wooooo!"
+    "Tutti" "Wooooo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:540
 translate italian sm1ms029_party_continue_6c812957:
@@ -2210,7 +2210,7 @@ translate italian sm1ms029_party_part_1_12858ca6:
 translate italian sm1ms029_party_part_1_11154dea:
 
     # "Everyone" "Woooooo!"
-    "Everyone" "Woooooo!"
+    "Tutti" "Woooooo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:996
 translate italian sm1ms029_party_part_1_22b701c9:
@@ -2228,7 +2228,7 @@ translate italian sm1ms029_party_part_1_9e07a27a:
 translate italian sm1ms029_party_part_1_c2178b2c:
 
     # "Everyone" "*claps*"
-    "Everyone" "*claps*"
+    "Tutti" "*applausi*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1000
 translate italian sm1ms029_party_part_1_dfac5f6c:
@@ -3836,7 +3836,7 @@ translate italian sm1ms029_part_1_my_appear_dbe896c1:
 translate italian sm1ms029_part_1_my_appear_31ebab56:
 
     # "Everyone" "Wooooo!"
-    "Everyone" "Wooooo!"
+    "Tutti" "Wooooo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1543
 translate italian sm1ms029_part_1_my_appear_e91e8c0a:
@@ -3848,7 +3848,7 @@ translate italian sm1ms029_part_1_my_appear_e91e8c0a:
 translate italian sm1ms029_part_1_my_appear_c0ff99e1:
 
     # "Everyone" "Woot woot!"
-    "Everyone" "Woot woot!"
+    "Tutti" "Woot woot!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1545
 translate italian sm1ms029_part_1_my_appear_5ce30a02:
@@ -4748,7 +4748,7 @@ translate italian sm1ms029_party_sy_finale_fdc64a79:
 translate italian sm1ms029_party_sy_finale_73c937a8:
 
     # "Everyone" "Hahahahah!"
-    "Everyone" "Hahahahah!"
+    "Tutti" "Hahahahah!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1794
 translate italian sm1ms029_party_sy_finale_6850ff51:
