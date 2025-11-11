@@ -374,5 +374,5 @@ translate italian sm1ms027_ff345ae0:
 translate italian sm1ms027_82b68733:
 
     # sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled!"
-    sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled!"
+    sy "Alla gente è piaciuto molto il design di Nari come aliena. E hanno pensato che i set e i costumi fossero fantastici!"
 
