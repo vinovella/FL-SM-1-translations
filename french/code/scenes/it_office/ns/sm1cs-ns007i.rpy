@@ -113,3 +113,4 @@ translate french sm1cs_ns007i_65702a88:
     ns "Merci, [mcname]."
 
 #Translate by BlackViper_
+

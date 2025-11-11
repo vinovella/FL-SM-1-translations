@@ -2817,3 +2817,4 @@ translate french strings:
     new "Attends une seconde et je serai prêt"
 
 #Translate by BlackViper_
+

@@ -65,3 +65,4 @@ translate french sm1cs_km006_2i_18fc405d:
     km "Mais c’est tout ce qu’on fait, hein. Juste de la répétition."
 
 #Translate by BlackViper_
+

@@ -17,3 +17,4 @@ translate french sm1cs_cw001i_b7f2275d:
     mc "Euh, bien sûr. Je viendrai."
 
 #Translate by BlackViper_
+

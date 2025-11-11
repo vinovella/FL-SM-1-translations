@@ -1,4 +1,3 @@
-
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:26
 translate french sm1cs_am003_60929dc7:
 

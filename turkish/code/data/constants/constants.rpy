@@ -164,3 +164,33 @@ translate turkish strings:
     old "Sunday"
     new "Sunday"
 
+translate turkish strings:
+
+    # game/code/data/constants/constants.rpy:168
+    old "Mon"
+    new "Mon"
+
+    # game/code/data/constants/constants.rpy:169
+    old "Tue"
+    new "Tue"
+
+    # game/code/data/constants/constants.rpy:170
+    old "Wed"
+    new "Wed"
+
+    # game/code/data/constants/constants.rpy:171
+    old "Thu"
+    new "Thu"
+
+    # game/code/data/constants/constants.rpy:172
+    old "Fri"
+    new "Fri"
+
+    # game/code/data/constants/constants.rpy:173
+    old "Sat"
+    new "Sat"
+
+    # game/code/data/constants/constants.rpy:174
+    old "Sun"
+    new "Sun"
+

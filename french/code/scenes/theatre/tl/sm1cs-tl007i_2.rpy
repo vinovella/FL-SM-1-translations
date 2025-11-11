@@ -17,3 +17,4 @@ translate french sm1cs_tl007i_2_ef7457da:
     mc "Oh merde désolé, Stacy vient de m’envoyer un message. Je dois y aller !"
 
 #Translate by BlackViper_
+

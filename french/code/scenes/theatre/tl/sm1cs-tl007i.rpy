@@ -59,3 +59,4 @@ translate french sm1cs_tl007i_de87a53b:
     mc "Dès que la chambre sera prête, on te préviendra. Je te le promets."
 
 #Translate by BlackViper_
+

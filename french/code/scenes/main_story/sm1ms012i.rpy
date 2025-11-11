@@ -41,3 +41,4 @@ translate french sm1ms012i_c79c606d:
     sy "Viens à la table ! On va le regarder sur mon ordi portable !"
 
 #Translate by BlackViper_
+

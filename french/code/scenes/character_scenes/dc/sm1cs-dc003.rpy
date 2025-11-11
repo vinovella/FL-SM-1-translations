@@ -645,3 +645,4 @@ translate french strings:
     new "Complimenter"
 
 #Translate by BlackViper_
+

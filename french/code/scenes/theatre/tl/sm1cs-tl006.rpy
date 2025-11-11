@@ -2123,3 +2123,4 @@ translate french sm1cs_tl006_continue_86f9bab7:
     mc "D’accord."
 
 #Translate by BlackViper_
+

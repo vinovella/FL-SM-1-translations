@@ -35,3 +35,4 @@ translate french sm1cs_ag002i_6c504cef:
     ag "Super !"
 
 #Translate by BlackViper_
+

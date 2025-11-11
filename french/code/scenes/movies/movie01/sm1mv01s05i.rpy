@@ -35,3 +35,4 @@ translate french sm1mv01s05i_94baf1a9:
     mc "Je vais appeler Kanya et Taisia pour leur dire que le tournage commence."
 
 #Translate by BlackViper_
+

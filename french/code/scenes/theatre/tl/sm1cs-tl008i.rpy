@@ -99,3 +99,4 @@ translate french strings:
     new "Pas maintenant"
 
 #Translate by BlackViper_
+

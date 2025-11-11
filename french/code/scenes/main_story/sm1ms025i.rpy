@@ -23,3 +23,4 @@ translate french sm1ms025i_d5f77a37:
     sy "Viens à l’ordi, c’est plus simple à te montrer."
 
 #Translate by BlackViper_
+

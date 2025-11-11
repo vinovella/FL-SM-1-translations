@@ -83,3 +83,4 @@ translate french sm1cs_tl006i_d9316f82:
     sy "YAAAYYYYY !"
 
 #Translate by BlackViper_
+

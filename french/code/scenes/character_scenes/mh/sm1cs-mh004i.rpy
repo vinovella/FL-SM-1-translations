@@ -77,3 +77,4 @@ translate french sm1cs_mh004i_db0d0c4c:
     mc "J’ai compris, j’ai compris."
 
 #Translate by BlackViper_
+

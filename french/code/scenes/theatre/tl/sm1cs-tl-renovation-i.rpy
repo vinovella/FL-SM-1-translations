@@ -23,3 +23,4 @@ translate french sm1cs_tl_renovation_i_46a26af3:
     tl "Tic-tac, [mcname]."
 
 #Translate by BlackViper_
+

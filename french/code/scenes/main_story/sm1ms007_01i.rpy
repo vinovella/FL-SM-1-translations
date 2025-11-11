@@ -39,3 +39,4 @@ translate french strings:
     new "Tu as donné 50 $ à Stacy pour acheter une perruque"
 
 #Translate by BlackViper_
+

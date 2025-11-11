@@ -1327,3 +1327,4 @@ translate french strings:
     new "C'est un excellent exemple de clair-obscur"
 
 #Translate by BlackViper_
+

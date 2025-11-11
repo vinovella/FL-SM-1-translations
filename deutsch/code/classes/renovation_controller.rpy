@@ -70,3 +70,9 @@ translate deutsch strings:
     old "[character!t] can assist with the renovation [before_after!t] completion.\nTalk to [character!t] to proceed."
     new "[character!t] kann bei der Renovierung [before_after!t] helfen.\nSprich mit [character!t], um fortzufahren."
 
+translate deutsch strings:
+
+    # game/code/classes/renovation_controller.rpy:141
+    old "Upgrade\n$[upgrade_price]"
+    new "Upgrade\n$[upgrade_price]"
+

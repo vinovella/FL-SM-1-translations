@@ -35,3 +35,4 @@ translate french sm1cs_ag003i_a83a3eae:
     cw "Mouais."
 
 #Translate by BlackViper_
+

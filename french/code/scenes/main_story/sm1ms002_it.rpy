@@ -337,3 +337,4 @@ translate french strings:
     new "Toujours paumé"
 
 #Translate by BlackViper_
+

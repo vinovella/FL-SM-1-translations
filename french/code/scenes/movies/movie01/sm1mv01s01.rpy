@@ -941,3 +941,4 @@ translate french sm1mv01s01_8ae75df5:
     mc "Vas-y, je te rejoins dans une minute."
 
 #Translate by BlackViper_
+

@@ -17,3 +17,4 @@ translate french sm1cs_mh003i_ccb5d9b1:
     mc "Je sais, mais j’ai toujours rien reçu et donc..."
 
 #Translate by BlackViper_
+

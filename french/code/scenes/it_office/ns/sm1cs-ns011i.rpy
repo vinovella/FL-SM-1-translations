@@ -53,3 +53,4 @@ translate french sm1cs_ns011i_5ee9eaa1:
     mc "Allons-y."
 
 #Translate by BlackViper_
+

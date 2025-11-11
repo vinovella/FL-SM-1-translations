@@ -11,3 +11,4 @@ translate french sm1ms014i_5ef70042:
     mc "Je crois bien, ouais."
 
 #Translate by BlackViper_
+

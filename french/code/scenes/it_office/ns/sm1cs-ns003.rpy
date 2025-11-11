@@ -1085,3 +1085,4 @@ translate french strings:
     new "Perdu"
 
 #Translate by BlackViper_
+

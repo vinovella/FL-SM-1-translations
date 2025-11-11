@@ -23,3 +23,4 @@ translate french sm1cs_ns013i_606e2d02:
     mc "Bien sûr."
 
 #Translate by BlackViper_
+

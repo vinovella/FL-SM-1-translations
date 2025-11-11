@@ -23,3 +23,4 @@ translate french sm1mv01s07i_6651ab87:
     mc "D’accord."
 
 #Translate by BlackViper_
+

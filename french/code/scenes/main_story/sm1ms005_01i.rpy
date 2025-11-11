@@ -47,3 +47,4 @@ translate french sm1ms005_01i_bedf5670:
     mc "Bonne idée, Stacy."
 
 #Translate by BlackViper_
+

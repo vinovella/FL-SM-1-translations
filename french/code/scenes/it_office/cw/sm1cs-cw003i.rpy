@@ -1,4 +1,3 @@
-
 # game/code/scenes/it_office/cw/sm1cs-cw003i.rpy:8
 translate french sm1cs_cw003i_eb884146:
 

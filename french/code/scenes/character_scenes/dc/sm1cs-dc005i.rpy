@@ -53,3 +53,4 @@ translate french sm1cs_dc005i_e448ee8f:
     dc "À plus tard, [mcname]."
 
 #Translate by BlackViper_
+

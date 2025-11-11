@@ -1641,3 +1641,4 @@ translate french strings:
     new "On dirait que celle de droite est à portée !"
 
 #Translate by BlackViper_
+

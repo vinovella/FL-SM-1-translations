@@ -47,3 +47,4 @@ translate french sm1cs_cw004i_606e2d02:
     mc "Bien sûr."
 
 #Translate by BlackViper_
+

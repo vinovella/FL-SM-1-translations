@@ -29,3 +29,4 @@ translate french sm1cs_bg002i_57e6958c:
     bg "Oh... la voilà. Tu peux lui demander toi-même."
 
 #Translate by BlackViper_
+

@@ -69,3 +69,4 @@ translate french strings:
     new "Juste dormir"
 
 #Translate by BlackViper_
+

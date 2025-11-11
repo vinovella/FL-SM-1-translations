@@ -599,3 +599,4 @@ translate french strings:
     new "Je vais aller en ville"
 
 #Translate by BlackViper_
+

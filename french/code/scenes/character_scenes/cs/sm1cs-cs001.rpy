@@ -203,3 +203,4 @@ translate french sm1cs_cs001_24cdc073:
     cs "Uh huh."
 
 #Translate by BlackViper_
+

@@ -569,3 +569,4 @@ translate french sm1cs_ns008_93d23263:
     ns "Excuse-moi, [mcname]."
 
 #Translate by BlackViper_
+

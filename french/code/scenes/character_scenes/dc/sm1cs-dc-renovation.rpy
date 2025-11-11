@@ -611,3 +611,4 @@ translate french sm1cs_dc_renovation_e5818002:
     dc "Toi aussi, [mcname] !"
 
 #Translate by BlackViper_
+

@@ -545,3 +545,4 @@ translate french sm1cs_mh004_flashback_aaf83c3e:
     mct "Maintenant, faut juste que je trouve comment je vais réussir à faire encore mieux."
 
 #Translate by BlackViper_
+

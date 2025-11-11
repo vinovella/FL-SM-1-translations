@@ -17,3 +17,4 @@ translate french sm1ms019i_d9ab3702:
     sy "Alors, allons-y !"
 
 #Translate by BlackViper_
+

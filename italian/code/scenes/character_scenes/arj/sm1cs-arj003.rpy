@@ -1048,3 +1048,9 @@ translate italian strings:
     old "You became my sex slave"
     new "Sei diventata la mia schiava del sesso"
 
+# game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:106
+translate italian sm1cs_arj003_05e6e8bd:
+
+    # arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
+    arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
+

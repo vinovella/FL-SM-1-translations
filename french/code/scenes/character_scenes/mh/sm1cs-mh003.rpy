@@ -839,3 +839,4 @@ translate french strings:
     new "Je crois pas que je serais à l’aise avec ça"
 
 #Translate by BlackViper_
+

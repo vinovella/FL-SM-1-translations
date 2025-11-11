@@ -65,3 +65,4 @@ translate french sm1ms008_01i_faa03e1a:
     mc "Haha."
 
 #Translate by BlackViper_
+

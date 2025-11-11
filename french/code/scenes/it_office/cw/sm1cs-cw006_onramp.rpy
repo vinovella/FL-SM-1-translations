@@ -35,3 +35,4 @@ translate french sm1cs_cw006_onramp_02808dd6:
     cw "*soupire* Très bien. Salle de conférence dans cinq minutes."
 
 #Translate by BlackViper_
+

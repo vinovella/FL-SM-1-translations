@@ -47,3 +47,4 @@ translate french sm1cs_dc001i_2a67fcb3:
     mc "Je vais garder ça en tête."
 
 #Translate by BlackViper_
+

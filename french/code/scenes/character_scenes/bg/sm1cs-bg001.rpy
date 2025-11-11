@@ -1113,3 +1113,4 @@ translate french strings:
     new "Pas trop mon délire"
 
 #Translate by BlackViper_
+

@@ -17,3 +17,4 @@ translate french sm1cs_rd001i_296eaf6f:
     mc "Merci. Moi c’est [mcname]."
 
 #Translate by BlackViper_
+

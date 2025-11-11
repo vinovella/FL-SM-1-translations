@@ -1603,3 +1603,4 @@ translate french strings:
     new "Couper la ligne"
 
 #Translate by BlackViper_
+

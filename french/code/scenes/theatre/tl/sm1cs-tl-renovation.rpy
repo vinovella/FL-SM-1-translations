@@ -407,3 +407,4 @@ translate french strings:
     new "De retour au studio"
 
 #Translate by BlackViper_
+

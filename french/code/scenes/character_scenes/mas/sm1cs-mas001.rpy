@@ -225,3 +225,4 @@ translate french strings:
     new "Content de pouvoir aider"
 
 #Translate by BlackViper_
+
