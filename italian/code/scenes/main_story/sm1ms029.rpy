@@ -1718,91 +1718,91 @@ translate italian sm1ms029_talk_tl_ns_8522c77b:
 translate italian sm1ms029_talk_tl_ns_3bcbb30f:
 
     # tl "'Sup?"
-    tl "'Sup?"
+    tl "Che c'è?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:795
 translate italian sm1ms029_talk_tl_ns_2787bc59:
 
     # mc "It's nice to see you two chatting!"
-    mc "It's nice to see you two chatting!"
+    mc "È bello vedervi chiacchierare voi due!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:798
 translate italian sm1ms029_talk_tl_ns_02e746d0:
 
     # ns "Yeah! We don't really get a chance to talk very often!"
-    ns "Yeah! We don't really get a chance to talk very often!"
+    ns "Sì! Non abbiamo davvero l'occasione di parlare molto spesso!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:799
 translate italian sm1ms029_talk_tl_ns_bfc3414f:
 
     # tl "Ships passing in the night, usually."
-    tl "Ships passing in the night, usually."
+    tl "Navi che si incrociano nella notte, di solito."
 
 # game/code/scenes/main_story/sm1ms029.rpy:801
 translate italian sm1ms029_talk_tl_ns_31bb92ce:
 
     # mc "Yeah, I guess I've never really thought about it."
-    mc "Yeah, I guess I've never really thought about it."
+    mc "Sì, immagino di non averci mai pensato."
 
 # game/code/scenes/main_story/sm1ms029.rpy:804
 translate italian sm1ms029_talk_tl_ns_54dfdf04:
 
     # tl "Yeah, offset schedules and all that."
-    tl "Yeah, offset schedules and all that."
+    tl "Sì, orari sfalsati e tutto il resto."
 
 # game/code/scenes/main_story/sm1ms029.rpy:805
 translate italian sm1ms029_talk_tl_ns_ec9b8664:
 
     # ns "And I can't imagine sleeping in as late as Taisia does!"
-    ns "And I can't imagine sleeping in as late as Taisia does!"
+    ns "E non riesco a immaginare di dormire fino a tardi come fa Taisia!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:808
 translate italian sm1ms029_talk_tl_ns_3b6bba2c:
 
     # tl "Says the woman who gets up at 5am!"
-    tl "Says the woman who gets up at 5am!"
+    tl "Lo dice la donna che si alza alle 5 del mattino!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:809
 translate italian sm1ms029_talk_tl_ns_4f14dcb3:
 
     # tl "That's insane."
-    tl "That's insane."
+    tl "È folle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:811
 translate italian sm1ms029_talk_tl_ns_b25dd6d6:
 
     # mc "Yeah, that is a little bit crazy, Nari."
-    mc "Yeah, that is a little bit crazy, Nari."
+    mc "Sì, è un po' pazzo, Nari."
 
 # game/code/scenes/main_story/sm1ms029.rpy:813
 translate italian sm1ms029_talk_tl_ns_b4da4a73:
 
     # ns "I'm not crazy!"
-    ns "I'm not crazy!"
+    ns "Non sono pazza!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:815
 translate italian sm1ms029_talk_tl_ns_7e1f46f1:
 
     # tl "Are you sure?"
-    tl "Are you sure?"
+    tl "Sei sicura?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:816
 translate italian sm1ms029_talk_tl_ns_585c4216:
 
     # ns "Nuh uh!"
-    ns "Nuh uh!"
+    ns "No!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:819
 translate italian sm1ms029_talk_tl_ns_cac234da:
 
     # ns "Wait..."
-    ns "Wait..."
+    ns "Aspetta..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:822
 translate italian sm1ms029_talk_tl_ns_4d6f12a5:
 
     # ns "Yeah, huh! I know I'm not crazy!"
-    ns "Yeah, huh! I know I'm not crazy!"
+    ns "Sì, eh! So di non essere pazza!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:823
 translate italian sm1ms029_talk_tl_ns_254a8c2a:
@@ -1814,37 +1814,37 @@ translate italian sm1ms029_talk_tl_ns_254a8c2a:
 translate italian sm1ms029_talk_tl_ns_ceacdba3:
 
     # mc "Taisia, don't pick on Nari."
-    mc "Taisia, don't pick on Nari."
+    mc "Taisia, non prendere in giro Nari."
 
 # game/code/scenes/main_story/sm1ms029.rpy:827
 translate italian sm1ms029_talk_tl_ns_4d5f2f97:
 
     # tl "I'm sorry."
-    tl "I'm sorry."
+    tl "Mi dispiace."
 
 # game/code/scenes/main_story/sm1ms029.rpy:830
 translate italian sm1ms029_talk_tl_ns_0f818704:
 
     # tl "But she's just so adorable!"
-    tl "But she's just so adorable!"
+    tl "Ma è così adorabile!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:831
 translate italian sm1ms029_talk_tl_ns_545fbf54:
 
     # ns "I am adorable!"
-    ns "I am adorable!"
+    ns "Sono adorabile!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:834
 translate italian sm1ms029_talk_tl_ns_d3f2e6f0:
 
     # ns "Which is why you shouldn't be picking on me!"
-    ns "Which is why you shouldn't be picking on me!"
+    ns "Motivo per cui non dovresti prendermi in giro!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:835
 translate italian sm1ms029_talk_tl_ns_2686ff52:
 
     # tl "But how else am I going to see your cute pouty face, Nari?"
-    tl "But how else am I going to see your cute pouty face, Nari?"
+    tl "Ma come altro posso vedere la tua carina faccia imbronciata, Nari?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:838
 translate italian sm1ms029_talk_tl_ns_4ec81c19:
@@ -1856,7 +1856,7 @@ translate italian sm1ms029_talk_tl_ns_4ec81c19:
 translate italian sm1ms029_talk_tl_ns_6b2824e5:
 
     # tl "Come on, Nari."
-    tl "Come on, Nari."
+    tl "Dai, Nari."
 
 # game/code/scenes/main_story/sm1ms029.rpy:841
 translate italian sm1ms029_talk_tl_ns_5cb50917:
@@ -1868,37 +1868,37 @@ translate italian sm1ms029_talk_tl_ns_5cb50917:
 translate italian sm1ms029_talk_tl_ns_0c3105c2:
 
     # tl "All right, I'm sorry, I'm sorry. I won't pick on you anymore."
-    tl "All right, I'm sorry, I'm sorry. I won't pick on you anymore."
+    tl "Va bene, mi dispiace, mi dispiace. Non ti prenderò più in giro."
 
 # game/code/scenes/main_story/sm1ms029.rpy:846
 translate italian sm1ms029_talk_tl_ns_d9b4a27e:
 
     # ns "Okay!"
-    ns "Okay!"
+    ns "Ok!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:848
 translate italian sm1ms029_talk_tl_ns_87a2ea18:
 
     # tl "How are you just so cute?"
-    tl "How are you just so cute?"
+    tl "Come fai ad essere così carina?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:850
 translate italian sm1ms029_talk_tl_ns_52db67e4:
 
     # ns "I don't know!"
-    ns "I don't know!"
+    ns "Non lo so!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:853
 translate italian sm1ms029_talk_tl_ns_de368e0b:
 
     # mc "Well, I'll leave you two to it."
-    mc "Well, I'll leave you two to it."
+    mc "Beh, vi lascio a voi due."
 
 # game/code/scenes/main_story/sm1ms029.rpy:854
 translate italian sm1ms029_talk_tl_ns_ede09f41:
 
     # ns "Hehehehe, okay!"
-    ns "Hehehehe, okay!"
+    ns "Hehehehe, ok!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:874
 translate italian sm1ms029_talk_kv_hr_arj_043b6df1:
@@ -2948,7 +2948,7 @@ translate italian sm1ms029_ns_nipple_clamps_53a678d0:
 translate italian sm1ms029_ns_nipple_clamps_d9b4a27e:
 
     # ns "Okay!"
-    ns "Okay!"
+    ns "Ok!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1244
 translate italian sm1ms029_ns_nipple_clamps_5157ba8d:
