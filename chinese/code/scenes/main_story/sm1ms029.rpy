@@ -6859,7 +6859,7 @@ translate chinese strings:
     new "与康雅、哈娜和爱洛丝交谈"
 
     # game/code/scenes/main_story/sm1ms029.rpy:586
-    old "查看主要活动"
+    old "Check out the main event"
     new "查看主要活动"
 
     # game/code/scenes/main_story/sm1ms029.rpy:1207
