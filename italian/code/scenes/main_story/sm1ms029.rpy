@@ -6806,99 +6806,99 @@ translate italian sm1ms029_cliffhanger_96e47e39:
 translate italian sm1ms029_cliffhanger_7d2e6a62:
 
     # et "No, they're not going to sell."
-    et "No, they're not going to sell."
+    et "No, non venderanno."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2464
 translate italian sm1ms029_cliffhanger_0560b4fc:
 
     # et "Not without some {i}motivation{/i}."
-    et "Not without some {i}motivation{/i}."
+    et "Non senza un po' di {i}motivazione{/i}."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2467
 translate italian sm1ms029_cliffhanger_f776cceb:
 
     # et "That's exactly what I was thinking."
-    et "That's exactly what I was thinking."
+    et "È esattamente quello che stavo pensando."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2469
 translate italian sm1ms029_cliffhanger_cbde5412:
 
     # et "We'll talk later."
-    et "We'll talk later."
+    et "Parleremo più tardi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2471
 translate italian sm1ms029_cliffhanger_71e7b42f:
 
     # et "Come, my dear. We've got work to do."
-    et "Come, my dear. We've got work to do."
+    et "Vieni, mia cara. Abbiamo del lavoro da fare."
 
 translate italian strings:
 
     # game/code/scenes/main_story/sm1ms029.rpy:129
     old "Tell Kanya to offer Stacy a kiss"
-    new "Tell Kanya to offer Stacy a kiss"
+    new "Di' a Kanya di offrire un bacio a Stacy"
 
     # game/code/scenes/main_story/sm1ms029.rpy:129
     old "Thank her for the kiss"
-    new "Thank her for the kiss"
+    new "Ringraziala per il bacio"
 
     # game/code/scenes/main_story/sm1ms029.rpy:586
     old "Talk to Taisia and Min"
-    new "Talk to Taisia and Min"
+    new "Parla con Taisia e Min"
 
     # game/code/scenes/main_story/sm1ms029.rpy:586
     old "Talk to Min and Nari"
-    new "Talk to Min and Nari"
+    new "Parla con Min e Nari"
 
     # game/code/scenes/main_story/sm1ms029.rpy:586
     old "Talk to Nari and Taisia"
-    new "Talk to Nari and Taisia"
+    new "Parla con Nari e Taisia"
 
     # game/code/scenes/main_story/sm1ms029.rpy:586
     old "Talk to Kanya, Hana, and AmRose"
-    new "Talk to Kanya, Hana, and AmRose"
+    new "Parla con Kanya, Hana e AmRose"
 
     # game/code/scenes/main_story/sm1ms029.rpy:586
     old "Check out the main event"
-    new "Check out the main event"
+    new "Guarda l'evento principale"
 
     # game/code/scenes/main_story/sm1ms029.rpy:1207
     old "Nari steps forward"
-    new "Nari steps forward"
+    new "Nari si fa avanti"
 
     # game/code/scenes/main_story/sm1ms029.rpy:1207
     old "Taisia steps forward"
-    new "Taisia steps forward"
+    new "Taisia si fa avanti"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2136
     old "Make your point"
-    new "Make your point"
+    new "Esprimi il tuo punto"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2154
     old "Should I pull out my dick?"
-    new "Should I pull out my dick?"
+    new "Dovrei tirare fuori il mio cazzo?"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2154
     old "Why is that?"
-    new "Why is that?"
+    new "Perché?"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2204
     old "Thanks, but no thanks"
-    new "Thanks, but no thanks"
+    new "Grazie, ma no grazie"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2204
     old "How much are we talking?"
-    new "How much are we talking?"
+    new "Di quanto stiamo parlando?"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2293
     old "We're going to dance"
-    new "We're going to dance"
+    new "Balleremo"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2293
     old "We're going to win"
-    new "We're going to win"
+    new "Vinceremo"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2293
     old "Forget about him"
-    new "Forget about him"
+    new "Dimenticati di lui"
 
