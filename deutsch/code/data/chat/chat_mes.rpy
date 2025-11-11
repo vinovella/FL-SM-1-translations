@@ -252,13 +252,13 @@ translate deutsch strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Wish you were here to warm my body."
-    new "Wish you were here to warm my body."
+    new "Ich wünschte, du wärst hier, um meinen Körper zu wärmen."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I was thinking of a game night. You, Stacy, and me."
-    new "I was thinking of a game night. You, Stacy, and me."
+    new "Ich dachte an einen Spieleabend. Du, Stacy und ich."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Alright, does this evening work?"
-    new "Alright, does this evening work?"
+    new "Okay, passt heute Abend?"
 
