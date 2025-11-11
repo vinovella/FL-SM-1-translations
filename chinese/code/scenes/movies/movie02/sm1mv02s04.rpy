@@ -926,7 +926,7 @@ translate chinese sm1mv02s04_later_3623d932:
 translate chinese sm1mv02s04_later_c22c9be8:
 
     # mc "Good, Commander Orion."
-    mc "很好，奥利安指挥官。"
+    mc "很好，奥里昂指挥官。"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:517
 translate chinese sm1mv02s04_later_ade3e0c2:
