@@ -76,35 +76,35 @@ translate deutsch strings:
 
     # game/code/data/constants/constants.rpy:77
     old "Night"
-    new "Night"
+    new "Nacht"
 
     # game/code/data/constants/constants.rpy:78
     old "Late Night"
-    new "Late Night"
+    new "Späte Nacht"
 
     # game/code/data/constants/constants.rpy:79
     old "Early Morning"
-    new "Early Morning"
+    new "Früher Morgen"
 
     # game/code/data/constants/constants.rpy:80
     old "Morning"
-    new "Morning"
+    new "Morgens"
 
     # game/code/data/constants/constants.rpy:81
     old "Noon"
-    new "Noon"
+    new "Mittag"
 
     # game/code/data/constants/constants.rpy:82
     old "Afternoon"
-    new "Afternoon"
+    new "Nachmittag"
 
     # game/code/data/constants/constants.rpy:83
     old "Evening"
-    new "Evening"
+    new "Abend"
 
     # game/code/data/constants/constants.rpy:84
     old "Nightfall"
-    new "Nightfall"
+    new "Einbruch der Dunkelheit"
 
     # game/code/data/constants/constants.rpy:130
     old "Mo"
@@ -112,15 +112,15 @@ translate deutsch strings:
 
     # game/code/data/constants/constants.rpy:131
     old "Tu"
-    new "Tu"
+    new "Di"
 
     # game/code/data/constants/constants.rpy:132
     old "We"
-    new "We"
+    new "Mi"
 
     # game/code/data/constants/constants.rpy:133
     old "Th"
-    new "Th"
+    new "Do"
 
     # game/code/data/constants/constants.rpy:134
     old "Fr"
@@ -132,35 +132,35 @@ translate deutsch strings:
 
     # game/code/data/constants/constants.rpy:136
     old "Su"
-    new "Su"
+    new "So"
 
 translate deutsch strings:
 
     # game/code/data/constants/constants.rpy:131
     old "Monday"
-    new "Monday"
+    new "Montag"
 
     # game/code/data/constants/constants.rpy:132
     old "Tuesday"
-    new "Tuesday"
+    new "Dienstag"
 
     # game/code/data/constants/constants.rpy:133
     old "Wednesday"
-    new "Wednesday"
+    new "Mittwoch"
 
     # game/code/data/constants/constants.rpy:134
     old "Thursday"
-    new "Thursday"
+    new "Donnerstag"
 
     # game/code/data/constants/constants.rpy:135
     old "Friday"
-    new "Friday"
+    new "Freitag"
 
     # game/code/data/constants/constants.rpy:136
     old "Saturday"
-    new "Saturday"
+    new "Samstag"
 
     # game/code/data/constants/constants.rpy:137
     old "Sunday"
-    new "Sunday"
+    new "Sonntag"
 
