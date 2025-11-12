@@ -50,49 +50,49 @@ translate turkish sm1ms029_62459064:
 translate turkish sm1ms029_5dba34b3:
 
     # sy "Come on, it'll be fun!"
-    sy "Come on, it'll be fun!"
+    sy "Hadi ama, eğlenceli olacak!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:35
 translate turkish sm1ms029_7a5f083f:
 
     # mc "Maybe for you. But I'm the one who ends up doing all the work, and you just sit around looking hot."
-    mc "Maybe for you. But I'm the one who ends up doing all the work, and you just sit around looking hot."
+    mc "Belki senin için. Ama bütün işi yapan benim ve sen sadece oturup seksi görünüyorsun."
 
 # game/code/scenes/main_story/sm1ms029.rpy:36
 translate turkish sm1ms029_8a838bd4:
 
     # sy "Of course! You always need to look hot!"
-    sy "Of course! You always need to look hot!"
+    sy "Tabii ki! Her zaman seksi görünmen gerekir!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:38
 translate turkish sm1ms029_73dbe022:
 
     # mc "Oh yeah? And why's that, huh?"
-    mc "Oh yeah? And why's that, huh?"
+    mc "Öyle mi? Peki neden, ha?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:39
 translate turkish sm1ms029_3fe21214:
 
     # sy "Because you never know who's watching you."
-    sy "Because you never know who's watching you."
+    sy "Çünkü seni kimin izlediğini asla bilemezsin."
 
 # game/code/scenes/main_story/sm1ms029.rpy:42
 translate turkish sm1ms029_2ffe07cf:
 
     # mc "It's just me here, Stacy."
-    mc "It's just me here, Stacy."
+    mc "Burada sadece ben varım, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:45
 translate turkish sm1ms029_67fcf07b:
 
     # sy "That's what you think."
-    sy "That's what you think."
+    sy "Öyle düşünüyorsun."
 
 # game/code/scenes/main_story/sm1ms029.rpy:46
 translate turkish sm1ms029_e88d7b09:
 
     # sy "Now come on, chop, chop! To work, pool boy!"
-    sy "Now come on, chop, chop! To work, pool boy!"
+    sy "Haydi, çabuk, çabuk! İşe koyul, havuz görevlisi!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:48
 translate turkish sm1ms029_8464a05b:
@@ -104,133 +104,133 @@ translate turkish sm1ms029_8464a05b:
 translate turkish sm1ms029_c1b5c70a:
 
     # mc "All right, and you sure everyone got the invite?"
-    mc "All right, and you sure everyone got the invite?"
+    mc "Peki, herkesin daveti aldığından emin misin?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:64
 translate turkish sm1ms029_acdacbac:
 
     # sy "Uh huh! They'll start arriving any second."
-    sy "Uh huh! They'll start arriving any second."
+    sy "Uh huh! Her an gelmeye başlayacaklar."
 
 # game/code/scenes/main_story/sm1ms029.rpy:67
 translate turkish sm1ms029_2c9a23fd:
 
     # mc "Wow..."
-    mc "Wow..."
+    mc "Vay..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:68
 translate turkish sm1ms029_aed102d0:
 
     # sy "Wow what?"
-    sy "Wow what?"
+    sy "Vay ne?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:70
 translate turkish sm1ms029_3064bc9d:
 
     # mc "I just... never thought I'd be hosting my own Fetish Locator party."
-    mc "I just... never thought I'd be hosting my own Fetish Locator party."
+    mc "Sadece... kendi Fetish Locator partimi düzenleyeceğimi hiç düşünmemiştim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:73
 translate turkish sm1ms029_7e6a2515:
 
     # sy "Well, you're not now, [mcname]."
-    sy "Well, you're not now, [mcname]."
+    sy "Şey, şimdi değilsin, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:74
 translate turkish sm1ms029_e0715dbc:
 
     # mc "But-"
-    mc "But-"
+    mc "Ama-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:76
 translate turkish sm1ms029_277fcba5:
 
     # sy "But nothing! This is a S&M Studio party. Not an FL party."
-    sy "But nothing! This is a S&M Studio party. Not an FL party."
+    sy "Ama falan yok! Bu bir S&M Studio partisi. FL partisi değil."
 
 # game/code/scenes/main_story/sm1ms029.rpy:79
 translate turkish sm1ms029_2565e6ab:
 
     # mc "Semantics. What I'm trying to say is..."
-    mc "Semantics. What I'm trying to say is..."
+    mc "Lafı dolandırma. Söylemeye çalıştığım şey..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:82
 translate turkish sm1ms029_78a2ca4c:
 
     # mc "Things have really changed, and I think for the better."
-    mc "Things have really changed, and I think for the better."
+    mc "Her şey gerçekten değişti ve bence daha iyiye gitti."
 
 # game/code/scenes/main_story/sm1ms029.rpy:83
 translate turkish sm1ms029_b7f96245:
 
     # mc "Here I am, standing in our beautifully remodeled studio apartment."
-    mc "Here I am, standing in our beautifully remodeled studio apartment."
+    mc "İşte buradayım, güzelce yenilenmiş stüdyo dairemizde duruyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:86
 translate turkish sm1ms029_6427e598:
 
     # mc "With my amazing sister."
-    mc "With my amazing sister."
+    mc "Harika kız kardeşimle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:88
 translate turkish sm1ms029_331679fc:
 
     # mc "With my incredible girlfriend."
-    mc "With my incredible girlfriend."
+    mc "İnanılmaz kız arkadaşımla."
 
 # game/code/scenes/main_story/sm1ms029.rpy:90
 translate turkish sm1ms029_61ce2962:
 
     # mc "About to have a kink party to celebrate launching our porn studio."
-    mc "About to have a kink party to celebrate launching our porn studio."
+    mc "Porno stüdyomuzu başlatmayı kutlamak için bir sapıklık partisi yapmak üzereyiz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:91
 translate turkish sm1ms029_2ed0f494:
 
     # mc "How could things be any better?"
-    mc "How could things be any better?"
+    mc "İşler daha nasıl iyi olabilir ki?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:94
 translate turkish sm1ms029_6a9de7a5:
 
     # sy "Better be careful, [mcname]. Talking like that, I'll think you're getting sentimental on me."
-    sy "Better be careful, [mcname]. Talking like that, I'll think you're getting sentimental on me."
+    sy "Dikkatli ol, [mcname]. Böyle konuşunca duygusallaştığını düşüneceğim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:95
 translate turkish sm1ms029_89724ee8:
 
     # mc "Nah, I'm just a romantic."
-    mc "Nah, I'm just a romantic."
+    mc "Hayır, ben sadece romantik biriyim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:97
 translate turkish sm1ms029_a8996796:
 
     # sy "Or maybe, this is the classic setup for the next chapter? Some epic villain or downfall before us?"
-    sy "Or maybe, this is the classic setup for the next chapter? Some epic villain or downfall before us?"
+    sy "Ya da belki de bu, sonraki bölüm için klasik bir hazırlık mı? Önümüzde epik bir kötü adam veya düşüş mü var?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:98
 translate turkish sm1ms029_b96ad77f:
 
     # sy "Something to push us to new heights, through more difficult challenges?"
-    sy "Something to push us to new heights, through more difficult challenges?"
+    sy "Bizi daha zor zorluklarla yeni zirvelere itmek için bir şeyler mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:101
 translate turkish sm1ms029_33f63d41:
 
     # mc "Nah, you're overthinking it. Just, kiss me, Stacy."
-    mc "Nah, you're overthinking it. Just, kiss me, Stacy."
+    mc "Hayır, fazla düşünüyorsun. Sadece öp beni, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:102
 translate turkish sm1ms029_76df7950:
 
     # sy "Whatever you say, [mcname]."
-    sy "Whatever you say, [mcname]."
+    sy "Sen nasıl istersen, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:110
 translate turkish sm1ms029_15f52065:
 
     # "*door opens*"
-    "*door opens*"
+    "*kapı açılıyor*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:111
 translate turkish sm1ms029_4f09c05f:
@@ -242,199 +242,199 @@ translate turkish sm1ms029_4f09c05f:
 translate turkish sm1ms029_25313efc:
 
     # kv "Didn't realize the party was starting early."
-    kv "Didn't realize the party was starting early."
+    kv "Partinin erken başladığını fark etmemiştim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:115
 translate turkish sm1ms029_6c1b7c16:
 
     # sy "Of course it is!"
-    sy "Of course it is!"
+    sy "Tabii ki öyle!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:118
 translate turkish sm1ms029_1e69297d:
 
     # sy "And you're just in time to join us!"
-    sy "And you're just in time to join us!"
+    sy "Ve tam zamanında bize katılıyorsun!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:121
 translate turkish sm1ms029_29490ee8:
 
     # kv "Thank God. I've been itching for a little bit of fun."
-    kv "Thank God. I've been itching for a little bit of fun."
+    kv "Tanrıya şükür. Biraz eğlence için can atıyordum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:128
 translate turkish sm1ms029_81221b90:
 
     # kv "Mmmmm. Definitely been itching for some fun."
-    kv "Mmmmm. Definitely been itching for some fun."
+    kv "Mmmmm. Kesinlikle biraz eğlence için can atıyordum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:132
 translate turkish sm1ms029_c2485e81:
 
     # mc "You know who else is looking for some fun?"
-    mc "You know who else is looking for some fun?"
+    mc "Başka kimin eğlence aradığını biliyor musun?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:135
 translate turkish sm1ms029_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "Ne?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:137
 translate turkish sm1ms029_660c709d:
 
     # kv "Mmmm, I think you're right, [mcname]."
-    kv "Mmmm, I think you're right, [mcname]."
+    kv "Mmmm, sanırım haklısın, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:139
 translate turkish sm1ms029_95a13b75:
 
     # sy "What's going on, Kanya?"
-    sy "What's going on, Kanya?"
+    sy "Ne oluyor, Kanya?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:143
 translate turkish sm1ms029_c702783c:
 
     # kv "Tonight is going to be a lot of fun!"
-    kv "Tonight is going to be a lot of fun!"
+    kv "Bu gece çok eğlenceli olacak!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:144
 translate turkish sm1ms029_7384a30f:
 
     # sy "Oh yes, yes it is."
-    sy "Oh yes, yes it is."
+    sy "Oh evet, öyle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:148
 translate turkish sm1ms029_f534bcfe:
 
     # mc "Mmmm, tonight is definitely going to be a lot of fun."
-    mc "Mmmm, tonight is definitely going to be a lot of fun."
+    mc "Mmmm, bu gece kesinlikle çok eğlenceli olacak."
 
 # game/code/scenes/main_story/sm1ms029.rpy:149
 translate turkish sm1ms029_3932d33f:
 
     # kv "Yes, yes it is."
-    kv "Yes, yes it is."
+    kv "Evet, öyle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:155
 translate turkish sm1ms029_7e2b18cf:
 
     # sy "See? Told ya'!"
-    sy "See? Told ya'!"
+    sy "Gördün mü? Sana söylemiştim!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:156
 translate turkish sm1ms029_753fa76c:
 
     # mc "Yes, yes."
-    mc "Yes, yes."
+    mc "Evet, evet."
 
 # game/code/scenes/main_story/sm1ms029.rpy:160
 translate turkish sm1ms029_8c49b2a0:
 
     # sy "When are you going to learn to listen to your sister? Hmmm?"
-    sy "When are you going to learn to listen to your sister? Hmmm?"
+    sy "Ne zaman kız kardeşini dinlemeyi öğreneceksin? Hmmm?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:162
 translate turkish sm1ms029_885dfeda:
 
     # sy "When are you going to learn to listen to me? Hmmm?"
-    sy "When are you going to learn to listen to me? Hmmm?"
+    sy "Ne zaman beni dinlemeyi öğreneceksin? Hmmm?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:165
 translate turkish sm1ms029_6f1767e0:
 
     # mc "I know, I know."
-    mc "I know, I know."
+    mc "Biliyorum, biliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:166
 translate turkish sm1ms029_dd24d6c9:
 
     # mc "I will eventually learn my lesson."
-    mc "I will eventually learn my lesson."
+    mc "Eninde sonunda dersimi alacağım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:170
 translate turkish sm1ms029_fe9b231f:
 
     # arj "Surprise, surprise, Stacy and [mcname] bickering."
-    arj "Surprise, surprise, Stacy and [mcname] bickering."
+    arj "Sürpriz, sürpriz, Stacy ve [mcname] tartışıyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:173
 translate turkish sm1ms029_cc6ec84c:
 
     # sy "AmRose! You made it!"
-    sy "AmRose! You made it!"
+    sy "AmRose! Geldin!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:174
 translate turkish sm1ms029_b6d5ecfa:
 
     # arj "How could I resist the inagural S&M Studio party?"
-    arj "How could I resist the inagural S&M Studio party?"
+    arj "İlk S&M Studio partisine nasıl direnebilirdim ki?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:177
 translate turkish sm1ms029_cf242ef8:
 
     # sy "See! AmRose gets it!"
-    sy "See! AmRose gets it!"
+    sy "Gördün mü! AmRose anlıyor!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:178
 translate turkish sm1ms029_8de3b99a:
 
     # mc "Hey, AmRose. Happy you made it."
-    mc "Hey, AmRose. Happy you made it."
+    mc "Hey, AmRose. Gelmene sevindim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:181
 translate turkish sm1ms029_76ab3ef9:
 
     # arj "Thanks, [mcname]."
-    arj "Thanks, [mcname]."
+    arj "Teşekkürler, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:184
 translate turkish sm1ms029_3bce8724:
 
     # sy "And your mask! Can't forget your mask!"
-    sy "And your mask! Can't forget your mask!"
+    sy "Ve masken! Maskeni unutma!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:185
 translate turkish sm1ms029_c61cf859:
 
     # arj "Ahh, yes. How could I forget about the masks."
-    arj "Ahh, yes. How could I forget about the masks."
+    arj "Ahh, evet. Maskeleri nasıl unutabildim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:188
 translate turkish sm1ms029_f2ebf022:
 
     # sy "I loved the masks from the old parties, so I thought I'd bring them back!"
-    sy "I loved the masks from the old parties, so I thought I'd bring them back!"
+    sy "Eski partilerdeki maskeleri sevmiştim, bu yüzden onları geri getirmeyi düşündüm!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:189
 translate turkish sm1ms029_a8c5a5e4:
 
     # mc "They did add a level of whimsy and mystery to the parties that was a lot of fun."
-    mc "They did add a level of whimsy and mystery to the parties that was a lot of fun."
+    mc "Partilere çok eğlenceli olan bir mizah ve gizem seviyesi kattılar."
 
 # game/code/scenes/main_story/sm1ms029.rpy:191
 translate turkish sm1ms029_bb77ad8e:
 
     # arj "\"Whimsy and fun\" is a hell of a way to describe those parties."
-    arj "\"Whimsy and fun\" is a hell of a way to describe those parties."
+    arj "\"Mizah ve eğlence\" o partileri tanımlamak için müthiş bir yol."
 
 # game/code/scenes/main_story/sm1ms029.rpy:194
 translate turkish sm1ms029_399bbda7:
 
     # arj "How do I look?"
-    arj "How do I look?"
+    arj "Nasıl görünüyorum?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:196
 translate turkish sm1ms029_cd4fdce8:
 
     # sy "Banging!"
-    sy "Banging!"
+    sy "Harika!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:197
 translate turkish sm1ms029_5937695a:
 
     # mc "You look great, AmRose."
-    mc "You look great, AmRose."
+    mc "Harika görünüyorsun, AmRose."
 
 # game/code/scenes/main_story/sm1ms029.rpy:199
 translate turkish sm1ms029_76ab3ef9_1:
