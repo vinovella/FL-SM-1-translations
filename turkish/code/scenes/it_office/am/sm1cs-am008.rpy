@@ -602,7 +602,7 @@ translate turkish sm1cs_am008_continue_0c95dc28:
 translate turkish sm1cs_am008_continue_b2aba0e3:
 
     # mc "Like what?"
-    mc "Like what?"
+    mc "Nasıl?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:340
 translate turkish sm1cs_am008_continue_0d40cf6c:
@@ -1100,54 +1100,55 @@ translate turkish sm1cs_am008_continue_2fd245bb:
 translate turkish sm1cs_am008_continue_7e5df753:
 
     # mc "I froze up."
-    mc "I froze up."
+    mc "Donup kaldım."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:584
 translate turkish sm1cs_am008_continue_2cd0033c:
 
     # am "I look that good, do I?"
-    am "I look that good, do I?"
+    am "O kadar iyi görünüyor muyum?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:588
 translate turkish sm1cs_am008_continue_7df38a92:
 
     # am "Like a sexy alien spy seducing the wicked jailor."
-    am "Like a sexy alien spy seducing the wicked jailor."
+    am "Kötü gardiyanı baştan çıkaran seksi uzaylı casus gibi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:591
 translate turkish sm1cs_am008_continue_49b2bcf4:
 
     # mc "You think I'm wicked?"
-    mc "You think I'm wicked?"
+    mc "Kötü olduğumu mu düşünüyorsun?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:595
 translate turkish sm1cs_am008_continue_a626d9ce:
 
     # am "Mmm. Not wicked. But I think there are parts of you that you keep locked up."
-    am "Mmm. Not wicked. But I think there are parts of you that you keep locked up."
+    am "Mmm. Kötü değil. Ama bence içinde saklı tuttuğun yanların var."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:599
 translate turkish sm1cs_am008_continue_cfc29437:
 
     # mc "I'm an open book."
-    mc "I'm an open book."
+    mc "Ben açık bir kitabım."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:601
 translate turkish sm1cs_am008_continue_02eb4f8d:
 
     # mc "But some chapters are further than just the opening few."
-    mc "But some chapters are further than just the opening few."
+    mc "Ama bazı bölümler sadece açılış sayfalarından daha ilerde."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:605
 translate turkish sm1cs_am008_continue_a7c08d02:
 
     # am "Fair."
-    am "Fair."
+    am "Adil."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:609
 translate turkish sm1cs_am008_continue_335113f2:
 
     # am "But... we don't need to keep talking about books, do we, [mcname]?"
+    am "Ama... kitaplar hakkında konuşmaya devam etmemize gerek yok, değil mi, [mcname]?"
     am "But... we don't need to keep talking about books, do we, [mcname]?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:610
@@ -1796,31 +1797,31 @@ translate turkish sm1cs_am008_sex_b63b36bc:
 translate turkish sm1cs_am008_sex_98d0f7b3:
 
     # am "Just shove your dick inside of me, [mcname]."
-    am "Just shove your dick inside of me, [mcname]."
+    am "Aletini içime sok, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:983
 translate turkish sm1cs_am008_sex_e1692be3:
 
     # mc "Like this?"
-    mc "Like this?"
+    mc "Böyle mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:987
 translate turkish sm1cs_am008_sex_b521084d:
 
     # am "Ahuwaah... yes..."
-    am "Ahuwaah... yes..."
+    am "Ahuwaah... evet..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:989
 translate turkish sm1cs_am008_sex_d4eb51c0:
 
     # am "Come on."
-    am "Come on."
+    am "Hadi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:995
 translate turkish sm1cs_am008_sex_4fce0f53:
 
     # am "*moaning*"
-    am "*moaning*"
+    am "*inliyor*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1001
 translate turkish sm1cs_am008_sex_de6baf5b:
@@ -1832,115 +1833,115 @@ translate turkish sm1cs_am008_sex_de6baf5b:
 translate turkish sm1cs_am008_sex_2b4de531:
 
     # mc "That's my good girl."
-    mc "That's my good girl."
+    mc "İşte benim iyi kızım."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1004
 translate turkish sm1cs_am008_sex_32bb0f3e:
 
     # mc "You like taking all of your Master's dick."
-    mc "You like taking all of your Master's dick."
+    mc "Efendinin aletini tamamen almayı seviyorsun."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1005
 translate turkish sm1cs_am008_sex_9b6fd1b4:
 
     # am "Yes..."
-    am "Yes..."
+    am "Evet..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1007
 translate turkish sm1cs_am008_sex_7e816c08:
 
     # mc "Yes, what?"
-    mc "Yes, what?"
+    mc "Evet, ne?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1008
 translate turkish sm1cs_am008_sex_c6015bb5:
 
     # am "I like taking all of your dick in my pussy."
-    am "I like taking all of your dick in my pussy."
+    am "Tüm aletini amıma almayı seviyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1009
 translate turkish sm1cs_am008_sex_e752d01d:
 
     # am "Muaah-errah... it's so thick."
-    am "Muaah-errah... it's so thick."
+    am "Muaah-errah... çok kalın."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1011
 translate turkish sm1cs_am008_sex_0c8f428d:
 
     # mc "You're my slutty little puppy girl aren't you?"
-    mc "You're my slutty little puppy girl aren't you?"
+    mc "Sen benim sürtük küçük köpek kızımsın, değil mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1012
 translate turkish sm1cs_am008_sex_2f3c227a:
 
     # am "No. I'm not slutty."
-    am "No. I'm not slutty."
+    am "Hayır. Sürtük değilim."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1013
 translate turkish sm1cs_am008_sex_ecf61e0e:
 
     # mc "Come on."
-    mc "Come on."
+    mc "Hadi ama."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1014
 translate turkish sm1cs_am008_sex_90e8875f:
 
     # am "I'm not... I just... like you a lot, Master."
-    am "I'm not... I just... like you a lot, Master."
+    am "Değilim... Sadece... seni çok seviyorum, Efendim."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1016
 translate turkish sm1cs_am008_sex_f49896f2:
 
     # am "Hahu-rrahuaa... Oh my fucking god."
-    am "Hahu-rrahuaa... Oh my fucking god."
+    am "Hahu-rrahuaa... Oh Tanrım."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1017
 translate turkish sm1cs_am008_sex_a04d8616:
 
     # am "You're going to make me explode!"
-    am "You're going to make me explode!"
+    am "Beni patlatacaksın!"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1019
 translate turkish sm1cs_am008_sex_ffbcad7b:
 
     # mc "Fuck, that feels so good, April."
-    mc "Fuck, that feels so good, April."
+    mc "Kahretsin, bu çok iyi hissettiriyor, April."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1020
 translate turkish sm1cs_am008_sex_13240797:
 
     # am "Thanks?{w} Whu-fahuah..."
-    am "Thanks?{w} Whu-fahuah..."
+    am "Teşekkürler?{w} Whu-fahuah..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1021
 translate turkish sm1cs_am008_sex_256cc22d:
 
     # am "It's strange... talking during this."
-    am "It's strange... talking during this."
+    am "Garip... bunun sırasında konuşmak."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1023
 translate turkish sm1cs_am008_sex_a6907b8f:
 
     # mc "You don't talk during sex?"
-    mc "You don't talk during sex?"
+    mc "Seks sırasında konuşmuyor musun?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1024
 translate turkish sm1cs_am008_sex_90cf1131:
 
     # am "I mean... I haven't had a lot of sex before."
-    am "I mean... I haven't had a lot of sex before."
+    am "Yani... daha önce çok fazla seks yapmadım."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1026
 translate turkish sm1cs_am008_sex_ff4ae645:
 
     # mc "Than I feel especially honored."
-    mc "Than I feel especially honored."
+    mc "O zaman kendimi özellikle onurlandırılmış hissediyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1027
 translate turkish sm1cs_am008_sex_0025253c:
 
     # am "Jesus. Such a dork."
-    am "Jesus. Such a dork."
+    am "Tanrım. Ne kadar aptal."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1028
 translate turkish sm1cs_am008_sex_b7549838:
@@ -1952,37 +1953,37 @@ translate turkish sm1cs_am008_sex_b7549838:
 translate turkish sm1cs_am008_sex_cc1bc876:
 
     # am "Still... I'm glad you feel so... comfortable."
-    am "Still... I'm glad you feel so... comfortable."
+    am "Yine de... bu kadar... rahat hissetmene sevindim."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1031
 translate turkish sm1cs_am008_sex_664ace26:
 
     # am "I'm very... *moans* Happy with {i}you{/i}, [mcname]."
-    am "I'm very... *moans* Happy with {i}you{/i}, [mcname]."
+    am "Çok... *inliyor* {i}Seninle{/i} mutluyum, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1032
 translate turkish sm1cs_am008_sex_620b3374:
 
     # mc "I feel the same, April."
-    mc "I feel the same, April."
+    mc "Ben de aynı şeyi hissediyorum, April."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1039
 translate turkish sm1cs_am008_sex_24c187ef:
 
     # am "I want to try being on top."
-    am "I want to try being on top."
+    am "Üstte olmayı denemek istiyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1041
 translate turkish sm1cs_am008_sex_8fdeda07:
 
     # mc "Knock yourself out."
-    mc "Knock yourself out."
+    mc "Buyur, dene."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1048
 translate turkish sm1cs_am008_sex_588499b4:
 
     # am "Haha. It's all sticky."
-    am "Haha. It's all sticky."
+    am "Haha. Her yer yapış yapış."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1053
 translate turkish sm1cs_am008_sex_0149961d:
@@ -1994,7 +1995,7 @@ translate turkish sm1cs_am008_sex_0149961d:
 translate turkish sm1cs_am008_sex_9c410475:
 
     # am "Mmm... Your scent... is outside and inside me."
-    am "Mmm... Your scent... is outside and inside me."
+    am "Mmm... Kokan... dışımda ve içimde."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1062
 translate turkish sm1cs_am008_sex_8422de45:
@@ -2012,55 +2013,55 @@ translate turkish sm1cs_am008_sex_4abe8e50:
 translate turkish sm1cs_am008_sex_5220b548:
 
     # am "How do I look, Master?"
-    am "How do I look, Master?"
+    am "Nasıl görünüyorum, Efendim?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1070
 translate turkish sm1cs_am008_sex_a92e7dcb:
 
     # mc "Incredible."
-    mc "Incredible."
+    mc "İnanılmaz."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1071
 translate turkish sm1cs_am008_sex_7672fb29:
 
     # mc "A wild creature hellbent on driving me insane."
-    mc "A wild creature hellbent on driving me insane."
+    mc "Beni çıldırtmaya kararlı vahşi bir yaratık."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1074
 translate turkish sm1cs_am008_sex_a24afbf4:
 
     # am "I'm not hurting you am I?"
-    am "I'm not hurting you am I?"
+    am "Seni incitmiyorum, değil mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1075
 translate turkish sm1cs_am008_sex_bb34c66e:
 
     # mc "No. I would let you know."
-    mc "No. I would let you know."
+    mc "Hayır. Sana söylerdim."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1076
 translate turkish sm1cs_am008_sex_4ac83256:
 
     # am "So... it feels good?"
-    am "So... it feels good?"
+    am "Yani... iyi hissettiriyor mu?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1077
 translate turkish sm1cs_am008_sex_d7c2d178:
 
     # am "Your puppy's pussy?"
-    am "Your puppy's pussy?"
+    am "Senin köpeğinin amcığı?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1079
 translate turkish sm1cs_am008_sex_175d8c36:
 
     # mc "I fucking love it."
-    mc "I fucking love it."
+    mc "Buna bayılıyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1080
 translate turkish sm1cs_am008_sex_adfa8c14:
 
     # mc "I wish I could pound you like this in the office."
-    mc "I wish I could pound you like this in the office."
+    mc "Keşke seni ofiste de böyle sikebilsem."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1082
 translate turkish sm1cs_am008_sex_fa799b95:
@@ -2072,13 +2073,13 @@ translate turkish sm1cs_am008_sex_fa799b95:
 translate turkish sm1cs_am008_sex_1273d7bd:
 
     # am "We'd get in trouble, Master... Hhuaah..."
-    am "We'd get in trouble, Master... Hhuaah..."
+    am "Başımız belaya girerdi, Efendim... Hhuaah..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1085
 translate turkish sm1cs_am008_sex_06f5cd06:
 
     # am "Unless we were extra sneaky."
-    am "Unless we were extra sneaky."
+    am "Ekstra gizli olmadıkça."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1086
 translate turkish sm1cs_am008_sex_7a4236be:
@@ -2090,73 +2091,73 @@ translate turkish sm1cs_am008_sex_7a4236be:
 translate turkish sm1cs_am008_sex_68298a07:
 
     # am "This is better."
-    am "This is better."
+    am "Bu daha iyi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1089
 translate turkish sm1cs_am008_sex_0966c495:
 
     # am "You were really starting to pound me before."
-    am "You were really starting to pound me before."
+    am "Daha önce gerçekten beni dövmeye başlamıştın."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1091
 translate turkish sm1cs_am008_sex_40793548:
 
     # mc "I just love driving into this tight pussy."
-    mc "I just love driving into this tight pussy."
+    mc "Bu dar amcığa girmekten çok hoşlanıyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1092
 translate turkish sm1cs_am008_sex_493e84f3:
 
     # am "Oh yeah?"
-    am "Oh yeah?"
+    am "Oh öyle mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1093
 translate turkish sm1cs_am008_sex_fe9498cc:
 
     # am "What's your favorite part of it?"
-    am "What's your favorite part of it?"
+    am "En sevdiğin yanı ne?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1096
 translate turkish sm1cs_am008_sex_521fbc4e:
 
     # mc "It's tight and so wet."
-    mc "It's tight and so wet."
+    mc "Dar ve çok ıslak."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1097
 translate turkish sm1cs_am008_sex_4bffa753:
 
     # mc "*grunts* And warm."
-    mc "*grunts* And warm."
+    mc "*homurdanır* Ve sıcak."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1099
 translate turkish sm1cs_am008_sex_9bd2356b:
 
     # am "You want warm, you should try this dick-huaah."
-    am "You want warm, you should try this dick-huaah."
+    am "Sıcak istiyorsan, bu aleti denemelisin-huaah."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1100
 translate turkish sm1cs_am008_sex_d3c6349e:
 
     # am "Oh god... It's making me snap all over, [mcname]!"
-    am "Oh god... It's making me snap all over, [mcname]!"
+    am "Oh Tanrım... Her yerimde çatlama hissediyorum, [mcname]!"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1106
 translate turkish sm1cs_am008_sex_44f14ca8:
 
     # am "Oh my god-huaaah!"
-    am "Oh my god-huaaah!"
+    am "Oh Tanrım-huaaah!"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1110
 translate turkish sm1cs_am008_sex_424763f3:
 
     # am "*loud moaning*"
-    am "*loud moaning*"
+    am "*yüksek sesle inliyor*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1114
 translate turkish sm1cs_am008_sex_e5027eae:
 
     # am "*panting and shivering*"
-    am "*panting and shivering*"
+    am "*soluyor ve titriyor*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1119
 translate turkish sm1cs_am008_sex_84d141b5:
@@ -2168,85 +2169,85 @@ translate turkish sm1cs_am008_sex_84d141b5:
 translate turkish sm1cs_am008_sex_91d8a70c:
 
     # mc "You okay?"
-    mc "You okay?"
+    mc "İyi misin?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1129
 translate turkish sm1cs_am008_sex_85d80da6:
 
     # am "Better than okay."
-    am "Better than okay."
+    am "İyiden de iyi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1130
 translate turkish sm1cs_am008_sex_2998c230:
 
     # am "That was probably the best orgasm I've had."
-    am "That was probably the best orgasm I've had."
+    am "Bu muhtemelen yaşadığım en iyi orgazmdı."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1134
 translate turkish sm1cs_am008_sex_4a91936b:
 
     # am "I wonder if there is a machine that can record endorphin releases."
-    am "I wonder if there is a machine that can record endorphin releases."
+    am "Endorfin salınımını kaydedebilen bir makine var mı acaba."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1138
 translate turkish sm1cs_am008_sex_5ff758cf:
 
     # mc "You had me worried there."
-    mc "You had me worried there."
+    mc "Beni endişelendirdin."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1140
 translate turkish sm1cs_am008_sex_55b26250:
 
     # mc "Sounds like we need to stop for a moment."
-    mc "Sounds like we need to stop for a moment."
+    mc "Bir an durmamız gerekiyor gibi görünüyor."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1146
 translate turkish sm1cs_am008_sex_4de8fb34:
 
     # am "Please, Master."
-    am "Please, Master."
+    am "Lütfen, Efendim."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1147
 translate turkish sm1cs_am008_sex_03a49d26:
 
     # am "I can take it."
-    am "I can take it."
+    am "Dayanabilirim."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1148
 translate turkish sm1cs_am008_sex_0b2e5a4c:
 
     # am "It wouldn't be fair if only one of us got to cum."
-    am "It wouldn't be fair if only one of us got to cum."
+    am "Sadece birimiz boşalırsa bu adil olmazdı."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1151
 translate turkish sm1cs_am008_sex_22a66f3c:
 
     # am "Pssssh. I didn't say that."
-    am "Pssssh. I didn't say that."
+    am "Pssssh. Öyle demedim."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1152
 translate turkish sm1cs_am008_sex_cd77dcbf:
 
     # am "*deep breath* I still got a bit left in me."
-    am "*deep breath* I still got a bit left in me."
+    am "*derin nefes* Hala biraz daha gücüm var."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1154
 translate turkish sm1cs_am008_sex_f33ee414:
 
     # am "So don't stop on my account, [mcname]."
-    am "So don't stop on my account, [mcname]."
+    am "O yüzden benim için durma, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1159
 translate turkish sm1cs_am008_sex_119d002d:
 
     # am "Mmmm... Unless..."
-    am "Mmmm... Unless..."
+    am "Mmmm... Tabii ki..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1162
 translate turkish sm1cs_am008_sex_bff00660:
 
     # am "This is what you want to see."
-    am "This is what you want to see."
+    am "İşte görmek istediğin bu."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1164
 translate turkish sm1cs_am008_sex_0cdd76d8:
