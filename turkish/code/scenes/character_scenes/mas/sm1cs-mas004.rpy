@@ -2,103 +2,103 @@
 translate turkish sm1cs_mas004_7c534312:
 
     # nr "Alright, listen up. I'm tapping out. Got a doctor's appointment I can't miss."
-    nr "Alright, listen up. I'm tapping out. Got a doctor's appointment I can't miss."
+    nr "Pekala, dinleyin. Ben çekiliyorum. Kaçıramayacağım bir doktor randevum var."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:11
 translate turkish sm1cs_mas004_fab4e598:
 
     # ms "Let me guess. You tried to eat a plant again."
-    ms "Let me guess. You tried to eat a plant again."
+    ms "Dur tahmin edeyim. Yine bitki yemeye çalıştın."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:15
 translate turkish sm1cs_mas004_f56a6ac0:
 
     # nr "*winces* It was a salad. A goddamn salad."
-    nr "*winces* It was a salad. A goddamn salad."
+    nr "*sızlanır* Bir salataydı. Lanet olası bir salata."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:16
 translate turkish sm1cs_mas004_722d6b62:
 
     # nr "Never trust food you don't cook. My insides are staging a full-scale rebellion."
-    nr "Never trust food you don't cook. My insides are staging a full-scale rebellion."
+    nr "Kendin pişirmediğin yemeğe asla güvenme. İçim tam bir isyan durumunda."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:20
 translate turkish sm1cs_mas004_9d6553a6:
 
     # "Rocco" "That's what happens when you betray the noble sausage for rabbit food, Nelson!"
-    "Rocco" "That's what happens when you betray the noble sausage for rabbit food, Nelson!"
+    "Rocco" "Asil sosisi tavşan yemi için ihanet ettiğinde böyle olur, Nelson!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:24
 translate turkish sm1cs_mas004_b8966c2a:
 
     # nr "Shut up, Rocco! Or you'll feel exactly how I'm feeling!"
-    nr "Shut up, Rocco! Or you'll feel exactly how I'm feeling!"
+    nr "Kapa çeneni, Rocco! Yoksa benim gibi hissedeceksin!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:28
 translate turkish sm1cs_mas004_0a238a3f:
 
     # nr "Anyway, I need one of you in charge."
-    nr "Anyway, I need one of you in charge."
+    nr "Her neyse, birinizin sorumlu olması gerekiyor."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:31
 translate turkish sm1cs_mas004_1cba2083:
 
     # ms "That'd be me. I've been here longer. I know where all the bodies are buried."
-    ms "That'd be me. I've been here longer. I know where all the bodies are buried."
+    ms "Bu ben olurum. Daha uzun süredir buradayım. Tüm cesetlerin nerede gömülü olduğunu biliyorum."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:35
 translate turkish sm1cs_mas004_e94dce5a:
 
     # nr "Hmmm.{w} On second thought."
-    nr "Hmmm.{w} On second thought."
+    nr "Hmmm.{w} Tekrar düşününce."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:36
 translate turkish sm1cs_mas004_30339b5c:
 
     # nr "I just remembered the last customer complaint made against you, Maya."
-    nr "I just remembered the last customer complaint made against you, Maya."
+    nr "Sana karşı yapılan son müşteri şikayetini hatırladım, Maya."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:37
 translate turkish sm1cs_mas004_8b4a2565:
 
     # nr "Telling a customer that he smells like \"a wet dumpster full of diapers that has been cooking on a hot day\"."
-    nr "Telling a customer that he smells like \"a wet dumpster full of diapers that has been cooking on a hot day\"."
+    nr "Bir müşteriye \"sıcak bir günde pişmiş bezlerle dolu ıslak bir çöp konteyneri\" gibi koktuğunu söylemen."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:41
 translate turkish sm1cs_mas004_1f634e1d:
 
     # ms "That was an entirely accurate assessment."
-    ms "That was an entirely accurate assessment."
+    ms "Bu tamamen doğru bir değerlendirmeydi."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:45
 translate turkish sm1cs_mas004_ae6fcdd0:
 
     # nr "You two are working together."
-    nr "You two are working together."
+    nr "Siz ikiniz birlikte çalışacaksınız."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:48
 translate turkish sm1cs_mas004_0f4cd710:
 
     # mc "But—"
-    mc "But—"
+    mc "Ama—"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:52
 translate turkish sm1cs_mas004_a140104e:
 
     # nr "No butts."
-    nr "No butts."
+    nr "Amalar yok."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:56
 translate turkish sm1cs_mas004_d94cafd4:
 
     # nr "As partners, I can at least hope for mutually assured competence."
-    nr "As partners, I can at least hope for mutually assured competence."
+    nr "Partnerler olarak, en azından karşılıklı güvenceli yetkinlik umabilirim."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:60
 translate turkish sm1cs_mas004_545b1ff6:
 
     # nr "Bank deposit is at three. Hopefully, we will get a big lunch rush."
-    nr "Bank deposit is at three. Hopefully, we will get a big lunch rush."
+    nr "Banka yatırma saati üçte. Umarım büyük bir öğle yemeği yoğunluğu olur."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:64
 translate turkish sm1cs_mas004_082ce987:
