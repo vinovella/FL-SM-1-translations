@@ -1136,25 +1136,25 @@ translate turkish sm1cs_dc010_later_e867c4b1:
 translate turkish sm1cs_dc010_later_ecfacd53:
 
     # dc "No... I just..."
-    dc "No... I just..."
+    dc "Hayır... Sadece..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
 translate turkish sm1cs_dc010_later_8a1da730:
 
     # dc "I have been looking forward to this for awhile.{w} I'm very excited."
-    dc "I have been looking forward to this for awhile.{w} I'm very excited."
+    dc "Bir süredir bunu bekliyordum.{w} Çok heyecanlıyım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:451
 translate turkish sm1cs_dc010_later_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "Ben de."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:456
 translate turkish sm1cs_dc010_later_1e2e10d7:
 
     # mc "Oh shit, Debbie!"
-    mc "Oh shit, Debbie!"
+    mc "Kahretsin, Debbie!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:457
 translate turkish sm1cs_dc010_later_40d2efff:
@@ -1166,7 +1166,7 @@ translate turkish sm1cs_dc010_later_40d2efff:
 translate turkish sm1cs_dc010_later_36ffc305:
 
     # mc "Wow! Nggggh!"
-    mc "Wow! Nggggh!"
+    mc "Vay be! Nggggh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:460
 translate turkish sm1cs_dc010_later_2921482f:
@@ -1178,19 +1178,19 @@ translate turkish sm1cs_dc010_later_2921482f:
 translate turkish sm1cs_dc010_later_c624b89e:
 
     # mc "Nggghhh - this is - wow!"
-    mc "Nggghhh - this is - wow!"
+    mc "Nggghhh - bu - vay be!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:462
 translate turkish sm1cs_dc010_later_c90a37d3:
 
     # mc "Debbie - ngggghhhh - holy shit!"
-    mc "Debbie - ngggghhhh - holy shit!"
+    mc "Debbie - ngggghhhh - kahretsin!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:464
 translate turkish sm1cs_dc010_later_5beb376f:
 
     # mc "This is amazing! Fuuuuuhhhhh - nggggh!"
-    mc "This is amazing! Fuuuuuhhhhh - nggggh!"
+    mc "Bu harika! Fuuuuuhhhhh - nggggh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:465
 translate turkish sm1cs_dc010_later_19bc8243:
@@ -1214,19 +1214,19 @@ translate turkish sm1cs_dc010_later_1bf8a6d3:
 translate turkish sm1cs_dc010_later_044e8092:
 
     # mc "Oh, this is amazing - ngggh!"
-    mc "Oh, this is amazing - ngggh!"
+    mc "Oh, bu harika - ngggh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:470
 translate turkish sm1cs_dc010_later_a78d9a58:
 
     # mc "This is - oh, Debbie. Fuuuckkk! Deebbbbiiiieeeee!"
-    mc "This is - oh, Debbie. Fuuuckkk! Deebbbbiiiieeeee!"
+    mc "Bu - oh, Debbie. Siiiiktir! Deebbbbiiiieeeee!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:472
 translate turkish sm1cs_dc010_later_1ee704af:
 
     # mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
-    mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
+    mc "Oh, o şey - nngghhhh - dilinle ne yapıyorsan-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
 translate turkish sm1cs_dc010_later_c7ffa945:
@@ -1244,7 +1244,7 @@ translate turkish sm1cs_dc010_later_eec3224d:
 translate turkish sm1cs_dc010_later_32b2131f:
 
     # mc "If you - nggghhhhh - keep going like that-"
-    mc "If you - nggghhhhh - keep going like that-"
+    mc "Eğer - nggghhhhh - böyle devam edersen-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:477
 translate turkish sm1cs_dc010_later_46b825c8:
@@ -1268,49 +1268,49 @@ translate turkish sm1cs_dc010_later_e904699f:
 translate turkish sm1cs_dc010_later_1c1ff67e:
 
     # dc "Sorry, [mcname], but..."
-    dc "Sorry, [mcname], but..."
+    dc "Özür dilerim, [mcname], ama..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:486
 translate turkish sm1cs_dc010_later_0c2f807c:
 
     # mc "No, it's okay, Debbie."
-    mc "No, it's okay, Debbie."
+    mc "Hayır, sorun değil, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:489
 translate turkish sm1cs_dc010_later_2086b5a4:
 
     # mc "Everything okay?"
-    mc "Everything okay?"
+    mc "Her şey yolunda mı?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:491
 translate turkish sm1cs_dc010_later_349cb0f7:
 
     # dc "Yeah, everything is fine, it's just, uhm..."
-    dc "Yeah, everything is fine, it's just, uhm..."
+    dc "Evet, her şey iyi, sadece, uhm..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:492
 translate turkish sm1cs_dc010_later_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Ne var?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:497
 translate turkish sm1cs_dc010_later_2441b466:
 
     # dc "There's something I've wanted to try..."
-    dc "There's something I've wanted to try..."
+    dc "Denemek istediğim bir şey var..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:498
 translate turkish sm1cs_dc010_later_c8f5c86e:
 
     # mc "Oh yeah? And what's that?"
-    mc "Oh yeah? And what's that?"
+    mc "Öyle mi? Peki o nedir?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:499
 translate turkish sm1cs_dc010_later_23482864:
 
     # dc "Sit up for me."
-    dc "Sit up for me."
+    dc "Benim için otur."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:502
 translate turkish sm1cs_dc010_later_1b199792:
@@ -1322,19 +1322,19 @@ translate turkish sm1cs_dc010_later_1b199792:
 translate turkish sm1cs_dc010_later_13bf2acd:
 
     # dc "I've always wanted to try this..."
-    dc "I've always wanted to try this..."
+    dc "Bunu her zaman denemek istemişimdir..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:510
 translate turkish sm1cs_dc010_later_673a7ff8:
 
     # mc "Oh shit, Debbie."
-    mc "Oh shit, Debbie."
+    mc "Kahretsin, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:511
 translate turkish sm1cs_dc010_later_1af81dfb:
 
     # dc "Oh, we haven't even gotten to the fun part yet."
-    dc "Oh, we haven't even gotten to the fun part yet."
+    dc "Oh, daha eğlenceli kısma bile gelmedik."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:514
 translate turkish sm1cs_dc010_later_fd22cc72:
