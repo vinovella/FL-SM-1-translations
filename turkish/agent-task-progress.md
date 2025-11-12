@@ -19,7 +19,10 @@ turkish\code\scenes\cross_characters\sm1xc_ns_tl_001i.rpy
 turkish\code\scenes\it_office\am\sm1cs-am008.rpy
 turkish\code\scenes\main_story\sm1ms027.rpy
 turkish\code\scenes\main_story\sm1ms028.rpy
-turkish\code\scenes\main_story\sm1ms029.rpy
+turkish\code\scenes\main_story\sm1ms029_1.rpy
+turkish\code\scenes\main_story\sm1ms029_2.rpy
+turkish\code\scenes\main_story\sm1ms029_3.rpy
+turkish\code\scenes\main_story\sm1ms029_4.rpy
 turkish\code\scenes\main_story\sm1ms029i.rpy
 turkish\code\scenes\main_story\sm1ms030.rpy
 turkish\code\scenes\theatre\dvh\sm1cs-dvh002.rpy
