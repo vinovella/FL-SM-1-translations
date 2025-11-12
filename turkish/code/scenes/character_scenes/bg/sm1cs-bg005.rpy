@@ -2,25 +2,25 @@
 translate turkish sm1cs_bg005_fb745ce9:
 
     # kv "Oh, hey you two. Perfect timing actually."
-    kv "Oh, hey you two. Perfect timing actually."
+    kv "Ah, merhaba ikiniz. Zamanlamanız mükemmel aslında."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:12
 translate turkish sm1cs_bg005_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Evet?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:15
 translate turkish sm1cs_bg005_eb3332b6:
 
     # kv "I've got to run across town to pick up a lens I ordered. Be back in an hour or so."
-    kv "I've got to run across town to pick up a lens I ordered. Be back in an hour or so."
+    kv "Sipariş ettiğim bir lensi almak için şehrin öbür ucuna koşmam gerekiyor. Bir saat kadar sonra dönerim."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:18
 translate turkish sm1cs_bg005_0bdf43df:
 
     # kv "You two can hold down the fort, right?"
-    kv "You two can hold down the fort, right?"
+    kv "Siz ikiniz işlere bakabilirsiniz, değil mi?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:21
 translate turkish sm1cs_bg005_2b06504c:
@@ -32,25 +32,25 @@ translate turkish sm1cs_bg005_2b06504c:
 translate turkish sm1cs_bg005_fd961873:
 
     # bg "We'll be fine."
-    bg "We'll be fine."
+    bg "İyi olacağız."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:27
 translate turkish sm1cs_bg005_1a49e229:
 
     # kv "Try not to break anything. Or each other."
-    kv "Try not to break anything. Or each other."
+    kv "Hiçbir şeyi kırmamaya çalışın. Ya da birbirinizi."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:30
 translate turkish sm1cs_bg005_59b30202:
 
     # mc "We'll do our best."
-    mc "We'll do our best."
+    mc "Elimizden geleni yapacağız."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:32
 translate turkish sm1cs_bg005_590002d9:
 
     # kv "That's what I'm afraid of."
-    kv "That's what I'm afraid of."
+    kv "İşte benden korktuğum şey bu."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:35
 translate turkish sm1cs_bg005_8e9aad0e:
