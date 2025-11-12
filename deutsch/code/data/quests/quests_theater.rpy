@@ -168,103 +168,103 @@ translate deutsch strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Invite Stacy to the amusement park during the day"
-    new "Invite Stacy to the amusement park during the day"
+    new "Lade Stacy tagsüber in den Vergnügungspark ein"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Go to the Theater for an audition during the day"
-    new "Go to the Theater for an audition during the day"
+    new "Gehe tagsüber zum Vorsprechen ins Theater"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's and Kellie's storylines"
-    new "Progress Veronica's and Kellie's storylines"
+    new "Fortschritte in den Handlungssträngen von Veronica und Kellie"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least {}/3 times"
-    new "Do the Saturday show at least {}/3 times"
+    new "Mache die Samstagsvorstellung mindestens {}/3 Mal"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have {}/10 total Relationship Points with the Theater girls"
-    new "Have {}/10 total Relationship Points with the Theater girls"
+    new "Habe insgesamt {}/10 Beziehungspunkte mit den Theatermädchen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least {}/3 times and have {}/10 total Relationship Points with the Theater girls"
-    new "Do the Saturday show at least {}/3 times and have {}/10 total Relationship Points with the Theater girls"
+    new "Mach die Samstagsshow mindestens {}/3 Mal und hol dir {}/10 Beziehungspunkte mit den Theatermädchen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least 3 times and have 10 total Relationship Points with the Theater girls"
-    new "Do the Saturday show at least 3 times and have 10 total Relationship Points with the Theater girls"
+    new "Mach mindestens 3 Mal die Samstagsshow und hol dir insgesamt 10 Beziehungspunkte mit den Theatermädchen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Visit the Theater at noon"
-    new "Visit the Theater at noon"
+    new "Besuche das Theater Mittags"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Denise about the Wurst Delivery sponsorship in her office"
-    new "Talk to Denise about the Wurst Delivery sponsorship in her office"
+    new "Sprich mit Denise in ihrem Büro über das Sponsoring von Wurst Delivery"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do a Theater show on Saturday"
-    new "Do a Theater show on Saturday"
+    new "Am Samstag eine Theateraufführung machen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Ask Denise how the play performed"
-    new "Ask Denise how the play performed"
+    new "Frage Denise, wie das Stück gelaufen ist"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress the Theater Story"
-    new "Progress the Theater Story"
+    new "Die Theatergeschichte vorantreiben"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Denise in her office"
-    new "Talk to Denise in her office"
+    new "Sprich mit Denise in ihrem Büro"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Practice with Denise in her office"
-    new "Practice with Denise in her office"
+    new "Übe mit Denise in ihrem Büro"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Wait a day"
-    new "Wait a day"
+    new "Einen Tag warten"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia about \"work\" during the daytime"
-    new "Talk with Taisia about \"work\" during the daytime"
+    new "Sprich mit Taisia über \"Arbeit\" während des Tages"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Go to the Theater to meet Taisia"
-    new "Go to the Theater to meet Taisia"
+    new "Geh ins Theater, um Taisia zu treffen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Buy the 'Stars Weekly' magazine from the store"
-    new "Buy the 'Stars Weekly' magazine from the store"
+    new "Kaufe das Magazin „Stars Weekly“ im Laden"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Get your Film and TV topic to 3"
-    new "Get your Film and TV topic to 3"
+    new "Bringe Film und Fernseh Thema auf 3"
 
 translate deutsch strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least [var]/3 times"
-    new "Do the Saturday show at least [var]/3 times"
+    new "Mache die Samstagsvorstellung mindestens [var]/3 Mal"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have [var]/10 total Relationship Points with the Theater girls"
-    new "Have [var]/10 total Relationship Points with the Theater girls"
+    new "Habe insgesamt [var]/10 Beziehungspunkte mit den Theatermädchen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least [var0]/3 times and have [var1]/10 total Relationship Points with the Theater girls"
-    new "Do the Saturday show at least [var0]/3 times and have [var1]/10 total Relationship Points with the Theater girls"
+    new "Mach die Samstagsshow mindestens [var0]/3 Mal und hol dir [var1]/10 Beziehungspunkte mit den Theatermädchen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $[var]/$50"
-    new "Have $[var]/$50"
+    new "Habe $[var]/$50"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $[var]/$100 and invite Taisia to make a film"
-    new "Have $[var]/$100 and invite Taisia to make a film"
+    new "Habe $[var]/$100 und lade Taisia ein, einen Film zu drehen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the rehearsal on [var!t]"
-    new "Do the rehearsal on [var!t]"
+    new "Die Probe findet am [var!t] statt"
 
