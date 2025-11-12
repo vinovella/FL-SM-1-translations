@@ -2,37 +2,37 @@
 translate turkish sm1cs_my005i_17476111:
 
     # sy "Have you talked to Mom since the swimsuit competition?"
-    sy "Have you talked to Mom since the swimsuit competition?"
+    sy "Mayo yarışmasından beri annemle konuştun mu?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005i.rpy:10
 translate turkish sm1cs_my005i_c1da839a:
 
     # sy "Have you talked to Melony since the swimsuit competition?"
-    sy "Have you talked to Melony since the swimsuit competition?"
+    sy "Mayo yarışmasından beri Melony ile konuştun mu?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005i.rpy:11
 translate turkish sm1cs_my005i_c28e66c1:
 
     # mc "Uhm, no?"
-    mc "Uhm, no?"
+    mc "Uhm, hayır?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005i.rpy:12
 translate turkish sm1cs_my005i_26033302:
 
     # sy "I think you should."
-    sy "I think you should."
+    sy "Bence yapmalısın."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005i.rpy:13
 translate turkish sm1cs_my005i_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "Neden?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005i.rpy:16
 translate turkish sm1cs_my005i_3763ae63:
 
     # sy "Because she kind of sprinted out of here the other night and it was super weird?"
-    sy "Because she kind of sprinted out of here the other night and it was super weird?"
+    sy "Çünkü geçen gece buradan bir nevi koşarak çıktı ve bu süper garipti?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005i.rpy:17
 translate turkish sm1cs_my005i_2b35b6fe:
@@ -44,5 +44,5 @@ translate turkish sm1cs_my005i_2b35b6fe:
 translate turkish sm1cs_my005i_8d84c26d:
 
     # mc "You've got a good point there."
-    mc "You've got a good point there."
+    mc "Haklısın."
 
