@@ -2,7 +2,7 @@
 translate turkish sm1xc_ns_tl_001_a8706f39:
 
     # tl "Oh. Morning, Nari."
-    tl "Oh. Morning, Nari."
+    tl "Oh. Günaydın, Nari."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:12
 translate turkish sm1xc_ns_tl_001_765e2188:
