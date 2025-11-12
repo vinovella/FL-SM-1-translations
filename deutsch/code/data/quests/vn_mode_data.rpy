@@ -712,21 +712,21 @@ translate deutsch strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Denise's, Kellie's, and Veronica's storylines"
-    new "Progress Denise's, Kellie's, and Veronica's storylines"
+    new "Fortschritt bei den Handlungssträngen von Denise, Kellie und Veronica"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress the Theater and Taisia's storylines"
-    new "Progress the Theater and Taisia's storylines"
+    new "Fortschritt bei den Handlungssträngen Das Theater und Taisia"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Lyssa's storyline and the Main Story"
-    new "Progress Lyssa's storyline and the Main Story"
+    new "Fortschritt bei Lyssa's Handlungsstrang und der Hauptstory"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Anna's and Nari's storylines"
-    new "Progress Anna's and Nari's storylines"
+    new "Fortschritt bei Annas und Naris Handlungssträngen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
-    new "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
+    new "Fortschritt bei den Handlungssträngen von Denise, Kellie, Taisia und Veronica"
 
