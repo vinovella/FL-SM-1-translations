@@ -2,43 +2,43 @@
 translate deutsch sm1cs_km001i_0a710bfb:
 
     # mc "Hey Kellie."
-    mc "Hey Kellie."
+    mc "Hallo Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:8
 translate deutsch sm1cs_km001i_0b71c355:
 
     # km "Hey yourself."
-    km "Hey yourself."
+    km "Hallo selber."
 
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:9
 translate deutsch sm1cs_km001i_8f80f541:
 
     # mct "Wow. Did someone spit in her coffee or something?"
-    mct "Wow. Did someone spit in her coffee or something?"
+    mct "Wow. Hat jemand in ihren Kaffee gespuckt oder so?"
 
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:11
 translate deutsch sm1cs_km001i_91a8243a:
 
     # mc "I just wanted to ask if you had any tips for me."
-    mc "I just wanted to ask if you had any tips for me."
+    mc "Ich wollte nur fragen, ob du irgendwelche Tipps für mich hast."
 
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:13
 translate deutsch sm1cs_km001i_683a9def:
 
     # km "Tips?"
-    km "Tips?"
+    km "Tipps?"
 
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:14
 translate deutsch sm1cs_km001i_c774917e:
 
     # mc "You know, to get better at acting."
-    mc "You know, to get better at acting."
+    mc "Weißt du, um besser schauspielern zu können."
 
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:16
 translate deutsch sm1cs_km001i_4629c687:
 
     # mc "I don't want to just be a stagehand my whole time here."
-    mc "I don't want to just be a stagehand my whole time here."
+    mc "Ich möchte hier nicht die ganze Zeit nur als Bühnenarbeiter tätig sein."
 
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:22
 translate deutsch sm1cs_km001i_6d319b2b:
@@ -50,17 +50,17 @@ translate deutsch sm1cs_km001i_6d319b2b:
 translate deutsch sm1cs_km001i_deaba72c:
 
     # km "Sure. I might have something. Go to backstage and grab two prop swords and shields. The Roman ones."
-    km "Sure. I might have something. Go to backstage and grab two prop swords and shields. The Roman ones."
+    km "Klar. Ich habe vielleicht etwas. Geh hinter die Bühne und hol zwei Requisitenschwerter und -schilde. Die römischen."
 
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:25
 translate deutsch sm1cs_km001i_09cee245:
 
     # mc "Okay. Then what?"
-    mc "Okay. Then what?"
+    mc "Okay. Und dann?"
 
 # game/code/scenes/theatre/km/sm1cs-km001i.rpy:26
 translate deutsch sm1cs_km001i_46e19a95:
 
     # km "Meet me on stage. Duh."
-    km "Meet me on stage. Duh."
+    km "Triff mich auf der Bühne. Duh."
 
