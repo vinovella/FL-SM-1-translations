@@ -1,6 +1,6 @@
-turkish\code\scenes\character_scenes\arj\sm1cs-arj002.rpy (61%)
-turkish\code\scenes\character_scenes\arj\sm1cs-arj002i.rpy
-turkish\code\scenes\character_scenes\arj\sm1cs-arj003.rpy
+turkish\code\scenes\character_scenes\arj\sm1cs-arj002.rpy (done)
+turkish\code\scenes\character_scenes\arj\sm1cs-arj002i.rpy (done)
+turkish\code\scenes\character_scenes\arj\sm1cs-arj003.rpy (7%)
 turkish\code\scenes\character_scenes\bg\sm1cs-bg005.rpy
 turkish\code\scenes\character_scenes\bg\sm1cs-bg005i.rpy
 turkish\code\scenes\character_scenes\dc\sm1cs-dc009.rpy

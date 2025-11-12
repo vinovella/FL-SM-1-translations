@@ -2,25 +2,25 @@
 translate turkish sm1cs_arj003_d0137b2a:
 
     # mc "So, how's the coursework treating you?"
-    mc "So, how's the coursework treating you?"
+    mc "Peki, ders çalışmaları nasıl gidiyor?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:11
 translate turkish sm1cs_arj003_185a2416:
 
     # arj "Like a needy ex. Constant demands, never satisfied, and somehow it's always my fault when things go wrong."
-    arj "Like a needy ex. Constant demands, never satisfied, and somehow it's always my fault when things go wrong."
+    arj "Muhtaç bir eski sevgili gibi. Sürekli talepler, asla tatmin olmayan, ve bir şeyler ters gittiğinde her zaman benim hatam."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:14
 translate turkish sm1cs_arj003_39cb0b7c:
 
     # mc "*laughs* That bad, huh?"
-    mc "*laughs* That bad, huh?"
+    mc "*güler* O kadar kötü mü?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:16
 translate turkish sm1cs_arj003_331597ac:
 
     # arj "Engineering has a lot of grinding involved."
-    arj "Engineering has a lot of grinding involved."
+    arj "Mühendislik çok fazla çalışma gerektiriyor."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:17
 translate turkish sm1cs_arj003_42b5928b:
@@ -32,55 +32,55 @@ translate turkish sm1cs_arj003_42b5928b:
 translate turkish sm1cs_arj003_0885b926:
 
     # arj "Haha. Not {i}that{/i} kind of grinding."
-    arj "Haha. Not {i}that{/i} kind of grinding."
+    arj "Haha. {i}O{/i} tür çalışma değil."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:21
 translate turkish sm1cs_arj003_37ff9a06:
 
     # arj "My thermal dynamics professor says if we aren't getting major migraines, we're not doing it right."
-    arj "My thermal dynamics professor says if we aren't getting major migraines, we're not doing it right."
+    arj "Termodinamik profesörüm, büyük migren yaşamıyorsak, doğru yapmıyoruz demektir diyor."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:24
 translate turkish sm1cs_arj003_24a537aa:
 
     # mc "Suddenly quitting school doesn't feel so bad."
-    mc "Suddenly quitting school doesn't feel so bad."
+    mc "Aniden okulu bırakmak o kadar da kötü gelmiyor."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:27
 translate turkish sm1cs_arj003_993bb9cc:
 
     # arj "Yeah..."
-    arj "Yeah..."
+    arj "Evet..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:28
 translate turkish sm1cs_arj003_0e9913a5:
 
     # arj "What about you? How's the glamorous world of porn production?"
-    arj "What about you? How's the glamorous world of porn production?"
+    arj "Peki sen? Porno yapımının görkemli dünyası nasıl?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:30
 translate turkish sm1cs_arj003_478ddb25:
 
     # mc "Glamorous is {i}one{/i} word for it."
-    mc "Glamorous is {i}one{/i} word for it."
+    mc "Görkemli bunu tarif eden {i}bir{/i} kelime."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:32
 translate turkish sm1cs_arj003_87781c1a:
 
     # mc "The other day I spent three hours trying to get the lighting right on a dildo."
-    mc "The other day I spent three hours trying to get the lighting right on a dildo."
+    mc "Geçen gün bir dildo üzerinde ışığı doğru ayarlamaya çalışırken üç saat harcadım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:33
 translate turkish sm1cs_arj003_35ddf690:
 
     # mc "Three.{w} Hours."
-    mc "Three.{w} Hours."
+    mc "Üç.{w} Saat."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:36
 translate turkish sm1cs_arj003_c6b8da15:
 
     # arj "*laughs* Oh no. The artistic struggle is real."
-    arj "*laughs* Oh no. The artistic struggle is real."
+    arj "*güler* Ah hayır. Sanatsal mücadele gerçek."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:38
 translate turkish sm1cs_arj003_0f2189f0:
