@@ -2,7 +2,7 @@
 translate turkish sm1cs_am008_f4010cc7:
 
     # mc "Uhh. I'm supposed to meet a date here."
-    mc "Uhh. I'm supposed to meet a date here."
+    mc "Uhh. Burada bir randevuda buluşacaktım."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:7
 translate turkish sm1cs_am008_67fd895b:
