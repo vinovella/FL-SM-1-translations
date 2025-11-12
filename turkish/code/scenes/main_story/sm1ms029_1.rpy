@@ -2,19 +2,19 @@
 translate turkish sm1ms029_79f99e06:
 
     # mc "Whatcha' thinking, Stacy?"
-    mc "Whatcha' thinking, Stacy?"
+    mc "Ne düşünüyorsun, Stacy?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:18
 translate turkish sm1ms029_3991f715:
 
     # sy "That we can't hold a party in our regular old studio."
-    sy "That we can't hold a party in our regular old studio."
+    sy "Normal eski stüdyomuzda parti veremeyiz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:20
 translate turkish sm1ms029_edb72193:
 
     # sy "We need to liven the place up a bit."
-    sy "We need to liven the place up a bit."
+    sy "Burayı biraz canlandırmamız gerekiyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:23
 translate turkish sm1ms029_37154a2a:
@@ -26,19 +26,19 @@ translate turkish sm1ms029_37154a2a:
 translate turkish sm1ms029_071beaf0:
 
     # sy "You know what that means!"
-    sy "You know what that means!"
+    sy "Bunun ne anlama geldiğini biliyorsun!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:27
 translate turkish sm1ms029_9c903456:
 
     # mc "Please, God, no."
-    mc "Please, God, no."
+    mc "Lütfen, Tanrım, hayır."
 
 # game/code/scenes/main_story/sm1ms029.rpy:29
 translate turkish sm1ms029_e04a06ce:
 
     # sy "Time for a decoration montage!"
-    sy "Time for a decoration montage!"
+    sy "Dekorasyon montajı zamanı!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:30
 translate turkish sm1ms029_62459064:
