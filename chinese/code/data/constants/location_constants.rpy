@@ -205,12 +205,12 @@
     new "导演办公室"
 
     # game/code/data/constants/location_constants.rpy:155
-    old "Storage Entrance"
-    new "仓库入口"
+    old "Storage Room"
+    new "储藏室"
 
     # game/code/data/constants/location_constants.rpy:161
-    old "Showers Entrance"
-    new "淋浴间入口"
+    old "Showers"
+    new "淋浴室"
 
     # game/code/data/constants/location_constants.rpy:165
     old "Locker Room"

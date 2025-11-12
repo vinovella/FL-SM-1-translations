@@ -12,3 +12,7 @@
     old "You need to progress [storyline_name!t]"
     new "您需要推进 [storyline_name!t]"
 
+    # game/code/classes/quest_controller.rpy:162
+    old "[storyline_name!t]"
+    new "[storyline_name!t]"
+
