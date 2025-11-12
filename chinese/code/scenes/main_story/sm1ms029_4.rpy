@@ -1227,7 +1227,7 @@ translate chinese sm1ms029_confrontation_c122e1f8:
 translate chinese sm1ms029_confrontation_3e248f0f:
 
     # mc "Hey, Stacy."
-    mc "Hey, Stacy."
+    mc "嘿，史黛西。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2286
 translate chinese sm1ms029_confrontation_84332637:
