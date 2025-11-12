@@ -2,73 +2,73 @@
 translate turkish sm1cs_dc010_d135624f:
 
     # mc "All right, Stacy, I'm taking off!"
-    mc "All right, Stacy, I'm taking off!"
+    mc "Pekala, Stacy, ben gidiyorum!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:10
 translate turkish sm1cs_dc010_53111809:
 
     # sy "Okay!"
-    sy "Okay!"
+    sy "Tamam!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:12
 translate turkish sm1cs_dc010_693804d0:
 
     # mc "Oh? Where are you going?"
-    mc "Oh? Where are you going?"
+    mc "Oh? Nereye gidiyorsun?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:14
 translate turkish sm1cs_dc010_c3e70951:
 
     # sy "Not all of us can be so lucky to get a date with a hot cop."
-    sy "Not all of us can be so lucky to get a date with a hot cop."
+    sy "Hepimiz ateşli bir polisle randevu alacak kadar şanslı olamayız."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:15
 translate turkish sm1cs_dc010_9ba447aa:
 
     # sy "Some of us need to go and work!"
-    sy "Some of us need to go and work!"
+    sy "Bazılarımız gidip çalışmak zorunda!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:18
 translate turkish sm1cs_dc010_4d99b4c0:
 
     # mc "You want to complain about work to me?"
-    mc "You want to complain about work to me?"
+    mc "Bana iş hakkında şikayet etmek mi istiyorsun?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:20
 translate turkish sm1cs_dc010_62fdba08:
 
     # sy "Hehehehe! Yep!"
-    sy "Hehehehe! Yep!"
+    sy "Hehehehe! Evet!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:22
 translate turkish sm1cs_dc010_97c58c29:
 
     # mc "Seriously, where are you heading out to?"
-    mc "Seriously, where are you heading out to?"
+    mc "Cidden, nereye gidiyorsun?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:24
 translate turkish sm1cs_dc010_07199214:
 
     # sy "There's a studio that's having a close out sale."
-    sy "There's a studio that's having a close out sale."
+    sy "Kapanış indirimi yapan bir stüdyo var."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:25
 translate turkish sm1cs_dc010_61e0988c:
 
     # sy "I'm going to see if there's anything worth buying."
-    sy "I'm going to see if there's anything worth buying."
+    sy "Satın almaya değer bir şey var mı diye bakacağım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:27
 translate turkish sm1cs_dc010_eaa14796:
 
     # mc "Oh, that's actually super useful..."
-    mc "Oh, that's actually super useful..."
+    mc "Oh, bu aslında çok faydalı..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:29
 translate turkish sm1cs_dc010_2c3518b2:
 
     # sy "I know!"
-    sy "I know!"
+    sy "Biliyorum!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:30
 translate turkish sm1cs_dc010_171f1069:
@@ -86,19 +86,19 @@ translate turkish sm1cs_dc010_ee87e6f3:
 translate turkish sm1cs_dc010_7b6538b2:
 
     # sy "Yeah, it's on the other side of Crowning. And they're starting super late."
-    sy "Yeah, it's on the other side of Crowning. And they're starting super late."
+    sy "Evet, Crowning'in diğer tarafında. Ve çok geç başlıyorlar."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:36
 translate turkish sm1cs_dc010_847f42e2:
 
     # sy "So you'll have the place all to yourself tonight."
-    sy "So you'll have the place all to yourself tonight."
+    sy "Yani bu gece yer tamamen senin olacak."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:38
 translate turkish sm1cs_dc010_d39e1fb5:
 
     # mc "Hey, I had no plans for any of that!"
-    mc "Hey, I had no plans for any of that!"
+    mc "Hey, bunun için hiç planım yoktu!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:39
 translate turkish sm1cs_dc010_14818ad7:
