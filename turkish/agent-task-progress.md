@@ -6,7 +6,7 @@ turkish\code\scenes\character_scenes\bg\sm1cs-bg005i.rpy (done)
 turkish\code\scenes\character_scenes\dc\sm1cs-dc009.rpy (done)
 turkish\code\scenes\character_scenes\dc\sm1cs-dc009i.rpy (done)
 turkish\code\scenes\character_scenes\dc\sm1cs-dc010.rpy (done)
-turkish\code\scenes\character_scenes\dc\sm1cs-dc010i.rpy
+turkish\code\scenes\character_scenes\dc\sm1cs-dc010i.rpy (done)
 turkish\code\scenes\character_scenes\mas\sm1cs-mas004.rpy
 turkish\code\scenes\character_scenes\mas\sm1cs-mas004i.rpy
 turkish\code\scenes\character_scenes\mes\sm1cs-mes-r1.rpy
