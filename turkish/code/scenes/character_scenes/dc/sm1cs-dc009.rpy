@@ -2,13 +2,13 @@
 translate turkish sm1cs_dc009_84160d7c:
 
     # mct "I wonder if Debbie caught that bike thief..."
-    mct "I wonder if Debbie caught that bike thief..."
+    mct "Debbie o bisiklet hırsızını yakaladı mı acaba..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:8
 translate turkish sm1cs_dc009_3b85dbb2:
 
     # mct "I hope she did. She could really use a win right about now."
-    mct "I hope she did. She could really use a win right about now."
+    mct "Umarım yakalamıştır. Şu anda gerçekten bir galibiyete ihtiyacı var."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:10
 translate turkish sm1cs_dc009_b8f9c5f6:
@@ -26,31 +26,31 @@ translate turkish sm1cs_dc009_699878f6:
 translate turkish sm1cs_dc009_d34c4731:
 
     # dc "I'm sorry that took so long."
-    dc "I'm sorry that took so long."
+    dc "Üzgünüm bu kadar uzun sürdü."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:18
 translate turkish sm1cs_dc009_03d85356:
 
     # mc "Did you catch him?"
-    mc "Did you catch him?"
+    mc "Onu yakaladın mı?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:20
 translate turkish sm1cs_dc009_957eca68:
 
     # dc "Him who?"
-    dc "Him who?"
+    dc "Kimi?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:22
 translate turkish sm1cs_dc009_73239ee1:
 
     # mc "Your bicycle thief."
-    mc "Your bicycle thief."
+    mc "Bisiklet hırsızını."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:25
 translate turkish sm1cs_dc009_db13e05f:
 
     # dc "Why do you think it was a guy?"
-    dc "Why do you think it was a guy?"
+    dc "Neden bir erkek olduğunu düşünüyorsun?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:27
 translate turkish sm1cs_dc009_2485f494:
@@ -62,7 +62,7 @@ translate turkish sm1cs_dc009_2485f494:
 translate turkish sm1cs_dc009_c571ca9e:
 
     # mc "I don't know. I just, kind of did?"
-    mc "I don't know. I just, kind of did?"
+    mc "Bilmiyorum. Sadece, bir şekilde öyle düşündüm?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:31
 translate turkish sm1cs_dc009_c7654a58:
@@ -74,133 +74,133 @@ translate turkish sm1cs_dc009_c7654a58:
 translate turkish sm1cs_dc009_7168d4f3:
 
     # mc "What!"
-    mc "What!"
+    mc "Ne!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:36
 translate turkish sm1cs_dc009_961c34ce:
 
     # dc "I'm just messing with you. Dudes are way more likely to steal than women are."
-    dc "I'm just messing with you. Dudes are way more likely to steal than women are."
+    dc "Sadece seninle dalga geçiyorum. Erkeklerin hırsızlık yapma olasılığı kadınlardan çok daha fazla."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:38
 translate turkish sm1cs_dc009_55310c42:
 
     # mc "Seriously?"
-    mc "Seriously?"
+    mc "Ciddi misin?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:40
 translate turkish sm1cs_dc009_b5cff98f:
 
     # dc "Mmhmmm. Men make up 56.9%% of larceny theft arrests."
-    dc "Mmhmmm. Men make up 56.9%% of larceny theft arrests."
+    dc "Mmhmmm. Erkekler, zimmet hırsızlığı tutuklamalarının %%56,9'unu oluşturuyor."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:42
 translate turkish sm1cs_dc009_4347656d:
 
     # dc "And they make up 81.1%% of motor thefts, and 83.6%% of burglary arrests!"
-    dc "And they make up 81.1%% of motor thefts, and 83.6%% of burglary arrests!"
+    dc "Ve motorlu araç hırsızlıklarının %%81,1'ini ve hırsızlık tutuklamalarının %%83,6'sını oluşturuyorlar!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:45
 translate turkish sm1cs_dc009_b3b57438:
 
     # mc "And those are facts you just... know?"
-    mc "And those are facts you just... know?"
+    mc "Ve bunlar senin sadece... bildiğin gerçekler mi?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:47
 translate turkish sm1cs_dc009_6ff1e32f:
 
     # dc "Uh huh! All part of the cop training I do!"
-    dc "Uh huh! All part of the cop training I do!"
+    dc "Uh huh! Yaptığım polis eğitiminin bir parçası!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:50
 translate turkish sm1cs_dc009_cbe1cda6:
 
     # mc "Wow, I didn't realize you had to do so many numbers as a part of your job."
-    mc "Wow, I didn't realize you had to do so many numbers as a part of your job."
+    mc "Vay, işinin bir parçası olarak bu kadar çok sayı ile uğraşman gerektiğini bilmiyordum."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:52
 translate turkish sm1cs_dc009_52a57a3f:
 
     # dc "Yep! Statistics can be really enlightening to a police department."
-    dc "Yep! Statistics can be really enlightening to a police department."
+    dc "Evet! İstatistikler bir polis departmanı için gerçekten aydınlatıcı olabilir."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:54
 translate turkish sm1cs_dc009_8baab5da:
 
     # dc "You know, where is the most crime happening, what type of crime, the demographics of the population, and what percentage of those individual demographics-"
-    dc "You know, where is the most crime happening, what type of crime, the demographics of the population, and what percentage of those individual demographics-"
+    dc "Bilirsin, en çok suçun nerede işlendiği, ne tür suç, nüfusun demografisi ve bu bireysel demografilerin yüzdesi-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:56
 translate turkish sm1cs_dc009_4911b52b:
 
     # dc "Sorry, you definitely did not have \"Debbie rambles about percentages\" as your 'date' idea."
-    dc "Sorry, you definitely did not have \"Debbie rambles about percentages\" as your 'date' idea."
+    dc "Üzgünüm, kesinlikle \"Debbie yüzdeler hakkında saçmalar\" 'randevu' fikrin değildi."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:59
 translate turkish sm1cs_dc009_8db20c11:
 
     # mc "It's okay! I like hearing about your job, Debbie."
-    mc "It's okay! I like hearing about your job, Debbie."
+    mc "Sorun değil! İşin hakkında dinlemeyi seviyorum, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:60
 translate turkish sm1cs_dc009_a083b805:
 
     # mc "It always seems exciting."
-    mc "It always seems exciting."
+    mc "Her zaman heyecan verici görünüyor."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:64
 translate turkish sm1cs_dc009_0464cec7:
 
     # dc "I used to think that too."
-    dc "I used to think that too."
+    dc "Ben de öyle düşünürdüm."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:66
 translate turkish sm1cs_dc009_0dcb92eb:
 
     # mc "What, is something wrong?"
-    mc "What, is something wrong?"
+    mc "Ne, bir sorun mu var?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:68
 translate turkish sm1cs_dc009_0e8fac2c:
 
     # dc "Yes?{w} No?{w} I don't know..."
-    dc "Yes?{w} No?{w} I don't know..."
+    dc "Evet?{w} Hayır?{w} Bilmiyorum..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:71
 translate turkish sm1cs_dc009_3dc1e7f6:
 
     # mc "What is it, Debbie?"
-    mc "What is it, Debbie?"
+    mc "Ne oldu, Debbie?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:73
 translate turkish sm1cs_dc009_ec955d78:
 
     # dc "It's nothing."
-    dc "It's nothing."
+    dc "Hiçbir şey değil."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:74
 translate turkish sm1cs_dc009_da104428:
 
     # mc "Hey, it doesn't sound like nothing..."
-    mc "Hey, it doesn't sound like nothing..."
+    mc "Hey, hiçbir şey gibi gelmiyor..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:76
 translate turkish sm1cs_dc009_7f6e3815:
 
     # dc "It's just..."
-    dc "It's just..."
+    dc "Sadece..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:79
 translate turkish sm1cs_dc009_85aae1ac:
 
     # dc "There are so many problems, and I... just don't know how to solve them."
-    dc "There are so many problems, and I... just don't know how to solve them."
+    dc "Çok fazla sorun var ve ben... sadece onları nasıl çözeceğimi bilmiyorum."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:80
 translate turkish sm1cs_dc009_4ef46fd4:
 
     # mc "Problems like?"
-    mc "Problems like?"
+    mc "Ne gibi sorunlar?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:83
 translate turkish sm1cs_dc009_871b9b08:
@@ -212,7 +212,7 @@ translate turkish sm1cs_dc009_871b9b08:
 translate turkish sm1cs_dc009_f88fa487:
 
     # dc "Okay, for example, last week I had a homeless guy in the park, right?"
-    dc "Okay, for example, last week I had a homeless guy in the park, right?"
+    dc "Tamam, örneğin, geçen hafta parkta evsiz bir adam vardı, değil mi?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:88
 translate turkish sm1cs_dc009_8852e77f:
@@ -224,31 +224,31 @@ translate turkish sm1cs_dc009_8852e77f:
 translate turkish sm1cs_dc009_3fd6dcdb:
 
     # dc "Pretty normal thing. But, when I tried to ask him to leave, he refused."
-    dc "Pretty normal thing. But, when I tried to ask him to leave, he refused."
+    dc "Oldukça normal bir şey. Ama, gitmesini istediğimde, reddetti."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:91
 translate turkish sm1cs_dc009_6f755235:
 
     # dc "All his stuff was here."
-    dc "All his stuff was here."
+    dc "Tüm eşyaları buradaydı."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:93
 translate turkish sm1cs_dc009_928d192a:
 
     # mc "Okay, but where is he now?"
-    mc "Okay, but where is he now?"
+    mc "Tamam, ama şimdi nerede?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:95
 translate turkish sm1cs_dc009_8b23ef80:
 
     # dc "He was removed by other officers."
-    dc "He was removed by other officers."
+    dc "Diğer memurlar tarafından uzaklaştırıldı."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:97
 translate turkish sm1cs_dc009_0613e0dc:
 
     # dc "See, police really only have one tool to deal with every situation."
-    dc "See, police really only have one tool to deal with every situation."
+    dc "Gördün mü, polisin her durumla başa çıkmak için gerçekten sadece bir aracı var."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:98
 translate turkish sm1cs_dc009_b6ea8bfa:
