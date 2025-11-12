@@ -980,73 +980,73 @@ translate turkish sm1cs_am008_continue_3243506c:
 translate turkish sm1cs_am008_continue_08dcc02a:
 
     # am "Bill it to room two-two-seven, please."
-    am "Bill it to room two-two-seven, please."
+    am "İki-iki-yedi numaralı odaya faturalayın lütfen."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:516
 translate turkish sm1cs_am008_continue_820cd5c4:
 
     # "Waiter" "Of course, madam."
-    "Waiter" "Of course, madam."
+    "Garson" "Tabii ki, hanımefendi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:522
 translate turkish sm1cs_am008_continue_7ff1764f:
 
     # am "Follow me."
-    am "Follow me."
+    am "Beni takip et."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:529
 translate turkish sm1cs_am008_continue_7129dea6:
 
     # mc "Nice."
-    mc "Nice."
+    mc "Güzel."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:532
 translate turkish sm1cs_am008_continue_d4e9cd74:
 
     # am "Perks of working for the premier IT company in the state."
-    am "Perks of working for the premier IT company in the state."
+    am "Eyaletteki önde gelen BT şirketinde çalışmanın avantajları."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:536
 translate turkish sm1cs_am008_continue_b556a1bb:
 
     # am "They don't know what to pay me, so I high-balled them and they went for it."
-    am "They don't know what to pay me, so I high-balled them and they went for it."
+    am "Bana ne kadar ödeyeceklerini bilmiyorlar, bu yüzden yüksek bir rakam söyledim ve kabul ettiler."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:539
 translate turkish sm1cs_am008_continue_11aa7ee2:
 
     # am "Ooof. Finally."
-    am "Ooof. Finally."
+    am "Ooof. Sonunda."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:541
 translate turkish sm1cs_am008_continue_b9e49400:
 
     # am "I think I'd rather walk through fire than wear shoes like these all the time."
-    am "I think I'd rather walk through fire than wear shoes like these all the time."
+    am "Sanırım sürekli böyle ayakkabılar giymektense ateşin içinden geçmeyi tercih ederim."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:545
 translate turkish sm1cs_am008_continue_9960587a:
 
     # mc "They looked great on you."
-    mc "They looked great on you."
+    mc "Sana çok yakıştılar."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:548
 translate turkish sm1cs_am008_continue_eb617092:
 
     # am "I'm more than just my looks, you mug."
-    am "I'm more than just my looks, you mug."
+    am "Sadece görünüşümden ibaret değilim, seni aptal."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:553
 translate turkish sm1cs_am008_continue_cfcc2293:
 
     # mc "I know."
-    mc "I know."
+    mc "Biliyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:555
 translate turkish sm1cs_am008_continue_603dfeff:
 
     # mc "You got that big melon that won't stop ticking."
-    mc "You got that big melon that won't stop ticking."
+    mc "Durmaksızın işleyen o büyük kafan var."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:559
 translate turkish sm1cs_am008_continue_9a9b5a38:
@@ -1058,43 +1058,43 @@ translate turkish sm1cs_am008_continue_9a9b5a38:
 translate turkish sm1cs_am008_continue_faae8290:
 
     # am "Don't think you're getting the full menu so easily."
-    am "Don't think you're getting the full menu so easily."
+    am "Tam menüyü bu kadar kolay alabileceğini sanma."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:564
 translate turkish sm1cs_am008_continue_468e6759:
 
     # am "I'm still mad at you."
-    am "I'm still mad at you."
+    am "Hâlâ sana kızgınım."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:568
 translate turkish sm1cs_am008_continue_823a982d:
 
     # mc "For what?"
-    mc "For what?"
+    mc "Neye?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:572
 translate turkish sm1cs_am008_continue_ca6fa1cc:
 
     # am "When you saw me, I thought you'd..."
-    am "When you saw me, I thought you'd..."
+    am "Beni gördüğünde, sanmıştım ki sen..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:574
 translate turkish sm1cs_am008_continue_13e5e38d:
 
     # am "I don't know. Come kiss me."
-    am "I don't know. Come kiss me."
+    am "Bilmiyorum. Gel beni öp."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:575
 translate turkish sm1cs_am008_continue_7f4f9e0d:
 
     # am "And what did I get? Not even a peck on the cheek."
-    am "And what did I get? Not even a peck on the cheek."
+    am "Ve ne aldım? Yanağıma bile bir öpücük atmadın."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:579
 translate turkish sm1cs_am008_continue_2fd245bb:
 
     # mc "I think seeing you, it reset me to factory defaults."
-    mc "I think seeing you, it reset me to factory defaults."
+    mc "Sanırım seni görmek beni fabrika ayarlarına döndürdü."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:580
 translate turkish sm1cs_am008_continue_7e5df753:
