@@ -146,11 +146,11 @@
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go to Wurst Delivery during the day"
-    new "Gehe tagsüber zu Wurst Lieferung"
+    new "Gehe tagsüber zu Wurst Delivery"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Visit Wurst Delivery in the evening"
-    new "Besuche Wurst Lieferung am Abend"
+    new "Besuche Wurst Delivery am Abend"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about your date with Lyssa"
@@ -270,7 +270,7 @@
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Get 6 Relationship Points with Maya and talk to her in Wurst Delivery"
-    new "Sammle 6 Beziehungspunkte mit Maya und sprich mit ihr bei Wurst Lieferung"
+    new "Sammle 6 Beziehungspunkte mit Maya und sprich mit ihr bei Wurst Delivery"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Get {}/9 Relationship Points with Maya"
@@ -298,167 +298,167 @@
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Open the map and go to Wurst Delivery"
-    new "Open the map and go to Wurst Delivery"
+    new "Öffne die Karte und gehe zu Wurst Delivery"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Work at Wurst Delivery until you have $200"
-    new "Work at Wurst Delivery until you have $200"
+    new "Arbeite bei Wurst Delivery, bis du $200 hast"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy while she's using her laptop"
-    new "Talk to Stacy while she's using her laptop"
+    new "Sprich mit Stacy, während sie ihren Laptop benutzt"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Progress the IT job storyline"
-    new "Progress the IT job storyline"
+    new "Fortschritt beim IT-Job"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Progress the Theater job storyline"
-    new "Progress the Theater job storyline"
+    new "Fortschritt beim Theater-Job"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Progress the IT and Theater job storylines"
-    new "Progress the IT and Theater job storylines"
+    new "Fortschritt beim IT-Job und beim Theater-Job"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about the Theater job"
-    new "Talk with Stacy about the Theater job"
+    new "Sprich mit Stacy über den Job im Theater"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go on a date with Stacy"
-    new "Go on a date with Stacy"
+    new "Geh mit Stacy auf ein Date"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy to start the renovation"
-    new "Talk with Stacy to start the renovation"
+    new "Sprich mit Stacy, um mit der Renovierung zu beginnen"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Work on the renovation and visit one of your jobs with Stacy and Melony"
-    new "Work on the renovation and visit one of your jobs with Stacy and Melony"
+    new "Arbeite an der Renovierung und besuche einen deiner Jobs mit Stacy und Melony"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Work on the renovation"
-    new "Work on the renovation"
+    new "Arbeite an der Renovierung"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Work on the renovation and visit your other job with Stacy and Melony"
-    new "Work on the renovation and visit your other job with Stacy and Melony"
+    new "Arbeite an der Renovierung und besuche deinen anderen Job mit Stacy und Melony"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy about editing again during the day"
-    new "Talk to Stacy about editing again during the day"
+    new "Sprich mit Stacy noch einmal über die Bearbeitung während des Tages"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy about the new order from the client"
-    new "Talk to Stacy about the new order from the client"
+    new "Sprich mit Stacy über die neue Bestellung des Kunden"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy to choose which movie you want to film"
-    new "Talk with Stacy to choose which movie you want to film"
+    new "Sprich mit Stacy, um zu entscheiden, welchen Film du drehen möchtest"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Be at home at noon"
-    new "Be at home at noon"
+    new "Sei Mittags zu Hause"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy to prepare for the party"
-    new "Talk to Stacy to prepare for the party"
+    new "Sprich mit Stacy, um dich auf die Party vorzubereiten"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go to the General Store"
-    new "Go to the General Store"
+    new "Geh zum General Store"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Learn Photography until you reach 5 in this topic (currently {})"
-    new "Learn Photography until you reach 5 in this topic (currently {})"
+    new "Lerne Fotografie, bis du in diesem Thema 5 erreichst (derzeit {})"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Learn Photography until you reach 5 in this topic"
-    new "Learn Photography until you reach 5 in this topic"
+    new "Lerne Fotografie, bis du in diesem Thema 5 erreichst"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about getting legal advice"
-    new "Talk with Stacy about getting legal advice"
+    new "Sprich mit Stacy über die Einholung von Rechtsberatung"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Kanya to learn more about photography"
-    new "Talk with Kanya to learn more about photography"
+    new "Sprich mit Kanya, um mehr über Fotografie zu lernen"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Text AmRose"
-    new "Text AmRose"
+    new "Schreibe AmRose"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Meet AmRose in the park during the day"
-    new "Meet AmRose in the park during the day"
+    new "Triff AmRose tagsüber im Park"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go to the Photo Dojo to talk with the BDSM girl"
-    new "Go to the Photo Dojo to talk with the BDSM girl"
+    new "Geh zum Foto Dojo, um mit dem BDSM-Mädchen zu sprechen"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Amore in the Photo Dojo"
-    new "Talk to Amore in the Photo Dojo"
+    new "Sprich mit Amore im Foto Dojo"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Visit the Photo Dojo"
-    new "Visit the Photo Dojo"
+    new "Besuche das Foto Dojo"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Amore at the Photo Dojo"
-    new "Talk to Amore at the Photo Dojo"
+    new "Sprich mit Amore im Foto Dojo"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Maya"
-    new "Talk with Maya"
+    new "Sprich mit Maya"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Take Lyssa out for a nice dinner"
-    new "Take Lyssa out for a nice dinner"
+    new "Lade Lyssa zu einem schönen Abendessen ein"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go to Lyssa's House during the evening"
-    new "Go to Lyssa's House during the evening"
+    new "Geh am Abend zu Lyssa's Haus"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Invite Lyssa to visit the studio"
-    new "Invite Lyssa to visit the studio"
+    new "Lade Lyssa auf einen Besuch im Studio ein"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy to borrow her laptop for editing Lyssa's video"
-    new "Talk with Stacy to borrow her laptop for editing Lyssa's video"
+    new "Sprich mit Stacy, um dir ihren Laptop auszuleihen, damit du Lyssa's Video bearbeiten kannst"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Debbie in the park"
-    new "Talk to Debbie in the park"
+    new "Sprich mit Debbie im Park"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Debbie in the evening in the park"
-    new "Talk to Debbie in the evening in the park"
+    new "Sprich am Abend mit Debbie im Park"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Finish the renovation to invite Min"
-    new "Finish the renovation to invite Min"
+    new "Die Renovierung abschließen, um Min einzuladen"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Text Min in the morning to help her move in"
-    new "Text Min in the morning to help her move in"
+    new "Schreib Min am Morgen, um ihr beim Einzug zu helfen"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Min in her room"
-    new "Talk with Min in her room"
+    new "Sprich mit Min in ihrem Zimmer"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Stacy about Melony"
-    new "Talk to Stacy about Melony"
+    new "Sprich mit Stacy über Melony"
 
 translate deutsch strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Learn Photography until you reach [var]/5 in this topic"
-    new "Learn Photography until you reach [var]/5 in this topic"
+    new "Lern Fotografie, bis du [var]/5 in diesem Thema erreichst"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Get [var]/9 Relationship Points with Maya"
-    new "Get [var]/9 Relationship Points with Maya"
+    new "Erhalte [var]/9 Beziehungspunkte mit Maya"
 
