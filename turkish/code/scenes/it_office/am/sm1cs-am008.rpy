@@ -860,7 +860,7 @@ translate turkish sm1cs_am008_continue_1a38103b:
 translate turkish sm1cs_am008_continue_5925e14b:
 
     # am "We're kind of kindred spirits in this, aren't we?"
-    am "We're kind of kindred spirits in this, aren't we?"
+    am "Bu konuda bir nevi ruh eşiyiz, değil mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:458
 translate turkish sm1cs_am008_continue_05500ff6:
@@ -872,109 +872,109 @@ translate turkish sm1cs_am008_continue_05500ff6:
 translate turkish sm1cs_am008_continue_acff7fa9:
 
     # am "You left college right? It was a big change, but you wanted to start a new path."
-    am "You left college right? It was a big change, but you wanted to start a new path."
+    am "Üniversiteden ayrıldın, değil mi? Büyük bir değişiklikti ama yeni bir yol başlatmak istedin."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:465
 translate turkish sm1cs_am008_continue_e334e13f:
 
     # mc "Something like that."
-    mc "Something like that."
+    mc "Öyle bir şey."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:466
 translate turkish sm1cs_am008_continue_abbd7c69:
 
     # mc "I just hope it is the right one."
-    mc "I just hope it is the right one."
+    mc "Umarım doğru olandır."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:469
 translate turkish sm1cs_am008_continue_dc301c20:
 
     # am "I think it is. If you hadn't come to Orbix, we wouldn't have met."
-    am "I think it is. If you hadn't come to Orbix, we wouldn't have met."
+    am "Bence öyle. Orbix'e gelmeseydin, tanışmazdık."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:470
 translate turkish sm1cs_am008_continue_277c8ce0:
 
     # am "It feels like the numbers crunched out a positive."
-    am "It feels like the numbers crunched out a positive."
+    am "Sayılar olumlu bir sonuç vermiş gibi hissediyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:471
 translate turkish sm1cs_am008_continue_7ccd7de3:
 
     # am "For both of us."
-    am "For both of us."
+    am "İkimiz için de."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:477
 translate turkish sm1cs_am008_continue_b17b00de:
 
     # mc "It's not the same."
-    mc "It's not the same."
+    mc "Aynı şey değil."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:478
 translate turkish sm1cs_am008_continue_6b19a8ee:
 
     # mc "I had to leave that part of my life behind."
-    mc "I had to leave that part of my life behind."
+    mc "Hayatımın o kısmını geride bırakmak zorunda kaldım."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:479
 translate turkish sm1cs_am008_continue_9e4ce483:
 
     # mc "You had a choice."
-    mc "You had a choice."
+    mc "Senin bir seçeneğin vardı."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:482
 translate turkish sm1cs_am008_continue_1fc9f634:
 
     # am "You're right."
-    am "You're right."
+    am "Haklısın."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:484
 translate turkish sm1cs_am008_continue_e04bbd89:
 
     # am "Sorry. I just like... thinking of what we have in common."
-    am "Sorry. I just like... thinking of what we have in common."
+    am "Üzgünüm. Sadece... ortak yanlarımızı düşünmeyi seviyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:489
 translate turkish sm1cs_am008_continue_237f7fe5:
 
     # am "I think {b}that{/b} is what started this crush...{w} You reminded me that I am more than just coding."
-    am "I think {b}that{/b} is what started this crush...{w} You reminded me that I am more than just coding."
+    am "Sanırım bu aşkı başlatan {b}şey{/b}...{w} Bana sadece kodlamadan daha fazlası olduğumu hatırlattın."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:490
 translate turkish sm1cs_am008_continue_9c72804e:
 
     # am "And bitchiness."
-    am "And bitchiness."
+    am "Ve kaltaklıktan."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:494
 translate turkish sm1cs_am008_continue_cfca3dc7:
 
     # am "I have other sides of me. {w}I want to share one with you."
-    am "I have other sides of me. {w}I want to share one with you."
+    am "Başka yanlarım da var. {w}Biriyle paylaşmak istiyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:498
 translate turkish sm1cs_am008_continue_f4881b5c:
 
     # mc "What side is that?"
-    mc "What side is that?"
+    mc "O hangi yan?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:501
 translate turkish sm1cs_am008_continue_f8beed07:
 
     # am "Don't get chicken on me. It's a side I've shown you before."
-    am "Don't get chicken on me. It's a side I've shown you before."
+    am "Korkma. Sana daha önce gösterdiğim bir yan."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:502
 translate turkish sm1cs_am008_continue_06bd77d4:
 
     # am "And I'm pretty sure you liked it."
-    am "And I'm pretty sure you liked it."
+    am "Ve beğendiğine oldukça eminim."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:506
 translate turkish sm1cs_am008_continue_3243506c:
 
     # mc "You bet I did."
-    mc "You bet I did."
+    mc "Bahse girerim beğendim."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:513
 translate turkish sm1cs_am008_continue_08dcc02a:
@@ -2882,61 +2882,61 @@ translate turkish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:19
     old "She looks jaw-droppingly gorgeous"
-    new "She looks jaw-droppingly gorgeous"
+    new "Çenesi düşürücü derecede muhteşem görünüyor"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:19
     old "She's been replaced by a pod person"
-    new "She's been replaced by a pod person"
+    new "Bir kapsül insanı tarafından değiştirilmiş"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:60
     old "I'm sorry"
-    new "I'm sorry"
+    new "Özür dilerim"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:60
     old "Nice isn't your natural state"
-    new "Nice isn't your natural state"
+    new "İyi olmak senin doğal halin değil"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:230
     old "Nothing wrong with that"
-    new "Nothing wrong with that"
+    new "Bunda yanlış bir şey yok"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:230
     old "That is oddly specific"
-    new "That is oddly specific"
+    new "Bu tuhaf derecede özel"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:230
     old "Parents think they know best"
-    new "Parents think they know best"
+    new "Ebeveynler en iyisini bildiklerini düşünürler"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:332
     old "Like what?"
-    new "Like what?"
+    new "Nasıl?"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:332
     old "I can't help it"
-    new "I can't help it"
+    new "Elimde değil"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:461
     old "Something like that?"
-    new "Something like that?"
+    new "Öyle bir şey mi?"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:461
     old "You had a choice. I didn't"
-    new "You had a choice. I didn't"
+    new "Senin bir seçeneğin vardı. Benim yoktu"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:732
     old "Yes to 'pet play' with April"
-    new "Yes to 'pet play' with April"
+    new "April ile 'evcil hayvan oyununa' evet"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:732
     old "No to 'pet play' with April"
-    new "No to 'pet play' with April"
+    new "April ile 'evcil hayvan oyununa' hayır"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:1348
     old "No label"
-    new "No label"
+    new "Etiket yok"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:1348
     old "You are my Sex Puppy"
-    new "You are my Sex Puppy"
+    new "Sen benim Seks Köpeğimsin"
 
