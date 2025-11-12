@@ -74,7 +74,7 @@ translate turkish sm1cs_dc010_2c3518b2:
 translate turkish sm1cs_dc010_171f1069:
 
     # sy "But I'll be getting back late."
-    sy "But I'll be getting back late."
+    sy "Ama geç döneceğim."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:33
 translate turkish sm1cs_dc010_ee87e6f3:
@@ -104,13 +104,13 @@ translate turkish sm1cs_dc010_d39e1fb5:
 translate turkish sm1cs_dc010_14818ad7:
 
     # sy "Suuuuuuuuure you didn't."
-    sy "Suuuuuuuuure you didn't."
+    sy "Taaaaaaabii yapmadın."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:41
 translate turkish sm1cs_dc010_e9e0e8a5:
 
     # sy "Just thought I'd let you know!"
-    sy "Just thought I'd let you know!"
+    sy "Sadece seni bilgilendireyim dedim!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:42
 translate turkish sm1cs_dc010_d71ee167:
@@ -122,103 +122,103 @@ translate turkish sm1cs_dc010_d71ee167:
 translate turkish sm1cs_dc010_03e29017:
 
     # mct "I guess Debbie is running behind..."
-    mct "I guess Debbie is running behind..."
+    mct "Sanırım Debbie geç kalıyor..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:49
 translate turkish sm1cs_dc010_457d38af:
 
     # mct "Well, I'll make sure to grab us some good seats at the very least."
-    mct "Well, I'll make sure to grab us some good seats at the very least."
+    mct "En azından iyi koltuklar bulmaya çalışayım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:52
 translate turkish sm1cs_dc010_c9a3df5d:
 
     # mct "Hope everything is all right."
-    mct "Hope everything is all right."
+    mct "Umarım her şey yolundadır."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:53
 translate turkish sm1cs_dc010_d881d8e9:
 
     # mct "Sounds like something happened at-"
-    mct "Sounds like something happened at-"
+    mct "Sanki bir şey olmuş gibi-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:56
 translate turkish sm1cs_dc010_1ee983bb:
 
     # dc "Oh my goodness, [mcname]! I am so sorry!"
-    dc "Oh my goodness, [mcname]! I am so sorry!"
+    dc "Tanrım, [mcname]! Çok özür dilerim!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:59
 translate turkish sm1cs_dc010_d4660ddb:
 
     # mc "It's okay! You've got an important job, and you're saving lives!"
-    mc "It's okay! You've got an important job, and you're saving lives!"
+    mc "Sorun değil! Önemli bir işin var ve hayat kurtarıyorsun!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:61
 translate turkish sm1cs_dc010_3c880be0:
 
     # dc "Oh, it's not all that!"
-    dc "Oh, it's not all that!"
+    dc "Ah, o kadar da değil!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:65
 translate turkish sm1cs_dc010_35d140ee:
 
     # mc "I hope these seats are okay!"
-    mc "I hope these seats are okay!"
+    mc "Umarım bu koltuklar iyidir!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:67
 translate turkish sm1cs_dc010_7932c445:
 
     # dc "Oh! These are great seats!"
-    dc "Oh! These are great seats!"
+    dc "Oh! Bunlar harika koltuklar!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:68
 translate turkish sm1cs_dc010_cd4b8d9c:
 
     # dc "And it looks like it's just us here!"
-    dc "And it looks like it's just us here!"
+    dc "Ve görünüşe göre burada sadece biz varız!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:71
 translate turkish sm1cs_dc010_225f9bf4:
 
     # mc "I think this movie has been out for a little bit."
-    mc "I think this movie has been out for a little bit."
+    mc "Sanırım bu film bir süredir gösterimde."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:72
 translate turkish sm1cs_dc010_5af7f38c:
 
     # mc "So hopefully it'll just be us!"
-    mc "So hopefully it'll just be us!"
+    mc "Umarım sadece biz oluruz!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:75
 translate turkish sm1cs_dc010_f74312ff:
 
     # dc "That would be, uhm, nice."
-    dc "That would be, uhm, nice."
+    dc "Bu, uhm, güzel olurdu."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:76
 translate turkish sm1cs_dc010_fd6f33e0:
 
     # mc "I think so too."
-    mc "I think so too."
+    mc "Ben de öyle düşünüyorum."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:79
 translate turkish sm1cs_dc010_75ef6436:
 
     # dc "Ooooo! The movie is starting!"
-    dc "Ooooo! The movie is starting!"
+    dc "Ooooo! Film başlıyor!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:86
 translate turkish sm1cs_dc010_220f39c1:
 
     # mct "Debbie is holding my hand."
-    mct "Debbie is holding my hand."
+    mct "Debbie elimi tutuyor."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:87
 translate turkish sm1cs_dc010_32229f62:
 
     # mct "Progress!"
-    mct "Progress!"
+    mct "İlerleme!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:104
 translate turkish sm1cs_dc010_later_9c3ae1b1:
@@ -230,121 +230,121 @@ translate turkish sm1cs_dc010_later_9c3ae1b1:
 translate turkish sm1cs_dc010_later_239e523a:
 
     # mc "Yeah, wow indeed!"
-    mc "Yeah, wow indeed!"
+    mc "Evet, gerçekten harika!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:107
 translate turkish sm1cs_dc010_later_9b5986fd:
 
     # dc "That was so good!"
-    dc "That was so good!"
+    dc "Çok iyiydi!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:109
 translate turkish sm1cs_dc010_later_9ddc1c0b:
 
     # mc "It was!"
-    mc "It was!"
+    mc "Öyleydi!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:110
 translate turkish sm1cs_dc010_later_93077c47:
 
     # dc "Did you like it!?"
-    dc "Did you like it!?"
+    dc "Beğendin mi!?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:112
 translate turkish sm1cs_dc010_later_629a6747:
 
     # mc "I did! And I'm guessing you did too?"
-    mc "I did! And I'm guessing you did too?"
+    mc "Beğendim! Ve sanırım sen de beğendin?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:114
 translate turkish sm1cs_dc010_later_81fc1d33:
 
     # dc "I did!"
-    dc "I did!"
+    dc "Beğendim!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:117
 translate turkish sm1cs_dc010_later_9e454f39:
 
     # dc "Like, when he showed up in the car, the handgun sticking out of the window!"
-    dc "Like, when he showed up in the car, the handgun sticking out of the window!"
+    dc "Mesela arabayla gelip, tabancayı pencereden dışarı uzattığı sahne!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:119
 translate turkish sm1cs_dc010_later_40b4ce97:
 
     # dc "And then he reloaded it by smashing it on the motorcyclists head! So bad ass!"
-    dc "And then he reloaded it by smashing it on the motorcyclists head! So bad ass!"
+    dc "Ve sonra motosikletlinin kafasına vurarak şarjör değiştirmesi! Çok havalıydı!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:124
 translate turkish sm1cs_dc010_later_eb07f581:
 
     # dc "Oh, oh! And when he was in that fight, and he grabbed the gun, and pulled it apart!"
-    dc "Oh, oh! And when he was in that fight, and he grabbed the gun, and pulled it apart!"
+    dc "Oh, oh! Bir de kavgadayken silahı kapıp parçaladığı sahne!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:125
 translate turkish sm1cs_dc010_later_e2911744:
 
     # dc "Classic bad ass move! Oh, so cool!"
-    dc "Classic bad ass move! Oh, so cool!"
+    dc "Klasik havalı hareket! Oh, çok havalı!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:126
 translate turkish sm1cs_dc010_later_9ddc1c0b_1:
 
     # mc "It was!"
-    mc "It was!"
+    mc "Öyleydi!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:129
 translate turkish sm1cs_dc010_later_e092a1e5:
 
     # dc "What a great night, [mcname]. Seriously, I had a lot of fun hanging out."
-    dc "What a great night, [mcname]. Seriously, I had a lot of fun hanging out."
+    dc "Ne harika bir geceydi, [mcname]. Cidden, seninle vakit geçirmek çok eğlenceliydi."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:131
 translate turkish sm1cs_dc010_later_3e5ae14e:
 
     # mc "Of course, I had a great time too."
-    mc "Of course, I had a great time too."
+    mc "Elbette, ben de harika vakit geçirdim."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:133
 translate turkish sm1cs_dc010_later_a17ce0cd:
 
     # mc "Like really great."
-    mc "Like really great."
+    mc "Gerçekten harika."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:135
 translate turkish sm1cs_dc010_later_848fe899:
 
     # dc "Really?"
-    dc "Really?"
+    dc "Gerçekten mi?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:136
 translate turkish sm1cs_dc010_later_83fe0392:
 
     # mc "Really, really."
-    mc "Really, really."
+    mc "Gerçekten, gerçekten."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:138
 translate turkish sm1cs_dc010_later_0ea9ca1d:
 
     # dc "You know... there's something I've been thinking a lot about..."
-    dc "You know... there's something I've been thinking a lot about..."
+    dc "Biliyorsun... Çok düşündüğüm bir şey var..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:139
 translate turkish sm1cs_dc010_later_09f2de35:
 
     # mc "Is that so?"
-    mc "Is that so?"
+    mc "Öyle mi?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:140
 translate turkish sm1cs_dc010_later_9b6efea4:
 
     # dc "Mmhmmm... something that we should be doing."
-    dc "Mmhmmm... something that we should be doing."
+    dc "Mmhmmm... Yapmamız gereken bir şey."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:141
 translate turkish sm1cs_dc010_later_8487f92d:
 
     # mc "And what's that?"
-    mc "And what's that?"
+    mc "Peki o nedir?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:142
 translate turkish sm1cs_dc010_later_871b9b08:
@@ -356,13 +356,13 @@ translate turkish sm1cs_dc010_later_871b9b08:
 translate turkish sm1cs_dc010_later_da217da4:
 
     # dc "Wait!"
-    dc "Wait!"
+    dc "Bekle!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:154
 translate turkish sm1cs_dc010_later_d3349d22:
 
     # dc "Where's my phone!?"
-    dc "Where's my phone!?"
+    dc "Telefonum nerede!?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:156
 translate turkish sm1cs_dc010_later_b3ae8984:
@@ -374,79 +374,79 @@ translate turkish sm1cs_dc010_later_b3ae8984:
 translate turkish sm1cs_dc010_later_11719ed7:
 
     # dc "Oh my God, I must have dropped it in the theater!"
-    dc "Oh my God, I must have dropped it in the theater!"
+    dc "Tanrım, sinemada düşürmüş olmalıyım!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:161
 translate turkish sm1cs_dc010_later_7c800396:
 
     # dc "Just - hold that thought! I'll be right back!"
-    dc "Just - hold that thought! I'll be right back!"
+    dc "Sadece - bunu bir düşün! Hemen döneceğim!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:163
 translate turkish sm1cs_dc010_later_c0e4bccc:
 
     # mc "No worries, I'll wait right here for you!"
-    mc "No worries, I'll wait right here for you!"
+    mc "Merak etme, burada seni bekleyeceğim!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:164
 translate turkish sm1cs_dc010_later_ca17ce17:
 
     # dc "Okay - sorry!"
-    dc "Okay - sorry!"
+    dc "Tamam - özür dilerim!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:168
 translate turkish sm1cs_dc010_later_18a04266:
 
     # mct "Well, tonight is going really well."
-    mct "Well, tonight is going really well."
+    mct "Bu gece gerçekten iyi gidiyor."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:171
 translate turkish sm1cs_dc010_later_d46816dd:
 
     # mct "Like... really good. Maybe, and just maybe..."
-    mct "Like... really good. Maybe, and just maybe..."
+    mct "Gerçekten... çok iyi. Belki, ve sadece belki..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:173
 translate turkish sm1cs_dc010_later_438b6718:
 
     # "Jerk Cop" "Well, what do we have here!"
-    "Jerk Cop" "Well, what do we have here!"
+    "Jerk Cop" "Neyse, burada ne var bakalım!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:174
 translate turkish sm1cs_dc010_later_dbc9c5b2:
 
     # mct "Oh shit."
-    mct "Oh shit."
+    mct "Kahretsin."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:177
 translate turkish sm1cs_dc010_later_9ea8e216:
 
     # "Douche Cop" "Oh, loitering? Maybe something a bit more nefarious?"
-    "Douche Cop" "Oh, loitering? Maybe something a bit more nefarious?"
+    "Douche Cop" "Oh, başıboş dolaşıyor musun? Belki biraz daha şeytani bir şey mi?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:179
 translate turkish sm1cs_dc010_later_8ce18fb0:
 
     # mc "Evening, officers."
-    mc "Evening, officers."
+    mc "İyi akşamlar, memur beyler."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:181
 translate turkish sm1cs_dc010_later_8104544b:
 
     # "Jerk Cop" "\"Evening, officers\", pfft."
-    "Jerk Cop" "\"Evening, officers\", pfft."
+    "Jerk Cop" "\"İyi akşamlar, memur beyler\", pfft."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:184
 translate turkish sm1cs_dc010_later_063d1ad9:
 
     # mc "Is there something I can help you with?"
-    mc "Is there something I can help you with?"
+    mc "Yardımcı olabileceğim bir şey var mı?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:185
 translate turkish sm1cs_dc010_later_d3f4a473:
 
     # "Douche Cop" "Hmmm... let's see."
-    "Douche Cop" "Hmmm... let's see."
+    "Douche Cop" "Hmmm... bakalım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:188
 translate turkish sm1cs_dc010_later_fca924d7:
@@ -458,49 +458,49 @@ translate turkish sm1cs_dc010_later_fca924d7:
 translate turkish sm1cs_dc010_later_2e90b41a:
 
     # "Douche Cop" "Oh, that's right!"
-    "Douche Cop" "Oh, that's right!"
+    "Douche Cop" "Oh, doğru ya!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:194
 translate turkish sm1cs_dc010_later_316b0cab:
 
     # "Douche Cop" "That's for using that bitch to embarrass us the other day!"
-    "Douche Cop" "That's for using that bitch to embarrass us the other day!"
+    "Douche Cop" "Bu o fahişeyi kullanıp bizi geçen gün utandırdığın için!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:196
 translate turkish sm1cs_dc010_later_2caf8a9a:
 
     # "Jerk Cop" "Woah, man."
-    "Jerk Cop" "Woah, man."
+    "Jerk Cop" "Vay be, adamım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:199
 translate turkish sm1cs_dc010_later_6e870534:
 
     # "Douche Cop" "What?"
-    "Douche Cop" "What?"
+    "Douche Cop" "Ne var?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:200
 translate turkish sm1cs_dc010_later_840706a6:
 
     # "Jerk Cop" "She's not entirely a bitch. Because, you now."
-    "Jerk Cop" "She's not entirely a bitch. Because, you now."
+    "Jerk Cop" "Tamamen fahişe değil. Çünkü, biliyorsun işte."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:203
 translate turkish sm1cs_dc010_later_083d0320:
 
     # "Douche Cop" "Oh yeah."
-    "Douche Cop" "Oh yeah."
+    "Douche Cop" "Ah evet."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:206
 translate turkish sm1cs_dc010_later_6499727b:
 
     # "Douche Cop" "Because she has a dick!"
-    "Douche Cop" "Because she has a dick!"
+    "Douche Cop" "Çünkü aletı var!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:209
 translate turkish sm1cs_dc010_later_c5b09bec:
 
     # "Jerk Cop" "Yeah! So, whatever she is! Fuck her!"
-    "Jerk Cop" "Yeah! So, whatever she is! Fuck her!"
+    "Jerk Cop" "Evet! Yani, her neyse! Siktir et onu!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:210
 translate turkish sm1cs_dc010_later_8a6e6e14:
@@ -518,73 +518,73 @@ translate turkish sm1cs_dc010_later_1987dde6:
 translate turkish sm1cs_dc010_later_f289aa21:
 
     # dc "The {i}fuck{/i} are you two doing?"
-    dc "The {i}fuck{/i} are you two doing?"
+    dc "Siz ikiniz ne {i}halt{/i} ediyorsunuz?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:217
 translate turkish sm1cs_dc010_later_beeaf278:
 
     # "Jerk Cop" "Oh, look who it is. You're little bitch, come to save her little bitch!"
-    "Jerk Cop" "Oh, look who it is. You're little bitch, come to save her little bitch!"
+    "Jerk Cop" "Oh, bak kim gelmiş. Küçük fahişen, küçük fahişesini kurtarmaya gelmiş!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:219
 translate turkish sm1cs_dc010_later_fd5252a2:
 
     # mc "Oh, that was a good one. Wooooow."
-    mc "Oh, that was a good one. Wooooow."
+    mc "Oh, bu iyiydi. Vaaaay be."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:221
 translate turkish sm1cs_dc010_later_50eb0f04:
 
     # "Jerk Cop" "Shut up!"
-    "Jerk Cop" "Shut up!"
+    "Jerk Cop" "Kapa çeneni!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:223
 translate turkish sm1cs_dc010_later_bfadea7f:
 
     # dc "You..."
-    dc "You..."
+    dc "Sen..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:225
 translate turkish sm1cs_dc010_later_e480be51:
 
     # dc "You've got three seconds to leave, and I'll pretend this never happened."
-    dc "You've got three seconds to leave, and I'll pretend this never happened."
+    dc "Gitmek için üç saniyeniz var, yoksa bunun hiç olmadığını farz ederim."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:226
 translate turkish sm1cs_dc010_later_72baf430:
 
     # dc "If you don't, you'll regret it."
-    dc "If you don't, you'll regret it."
+    dc "Gitmezseniz, pişman olursunuz."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:229
 translate turkish sm1cs_dc010_later_66c3cae5:
 
     # "Jerk Cop" "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
-    "Jerk Cop" "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+    "Jerk Cop" "Oh ho ho, buna karşı ne yapacaksın, {i}küçük kız{/i}?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:231
 translate turkish sm1cs_dc010_later_63386751:
 
     # dc "One."
-    dc "One."
+    dc "Bir."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:233
 translate turkish sm1cs_dc010_later_e1be8345:
 
     # "Douche Cop" "Oh the little girl, or {i}little boy{/i} is soooo scary!"
-    "Douche Cop" "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+    "Douche Cop" "Oh küçük kız, ya da {i}küçük oğlan{/i} çok korkutucu!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:234
 translate turkish sm1cs_dc010_later_302b49ba:
 
     # dc "Two."
-    dc "Two."
+    dc "İki."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:237
 translate turkish sm1cs_dc010_later_531d8025:
 
     # "Jerk Cop" "Oh, my balls are shaking! Hahahahaha!"
-    "Jerk Cop" "Oh, my balls are shaking! Hahahahaha!"
+    "Jerk Cop" "Oh, taşaklarım titriyor! Hahahahaha!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:238
 translate turkish sm1cs_dc010_later_8a6e6e14_1:
@@ -596,13 +596,13 @@ translate turkish sm1cs_dc010_later_8a6e6e14_1:
 translate turkish sm1cs_dc010_later_ac0a60ad:
 
     # dc "Three."
-    dc "Three."
+    dc "Üç."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:241
 translate turkish sm1cs_dc010_later_39d40fad:
 
     # "Jerk Cop" "Oh, fuck you!"
-    "Jerk Cop" "Oh, fuck you!"
+    "Jerk Cop" "Oh, siktir git!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:244
 translate turkish sm1cs_dc010_later_b78076c2:
@@ -620,7 +620,7 @@ translate turkish sm1cs_dc010_later_ba02e302:
 translate turkish sm1cs_dc010_later_26db978d:
 
     # "Douche Cop" "What the fuck!?"
-    "Douche Cop" "What the fuck!?"
+    "Douche Cop" "Ne oluyor lan!?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:252
 translate turkish sm1cs_dc010_later_198353ff:
@@ -632,7 +632,7 @@ translate turkish sm1cs_dc010_later_198353ff:
 translate turkish sm1cs_dc010_later_e247bcbf:
 
     # "Douche Cop" "Shit!"
-    "Douche Cop" "Shit!"
+    "Douche Cop" "Kahretsin!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:258
 translate turkish sm1cs_dc010_later_73a0be28:
@@ -644,31 +644,31 @@ translate turkish sm1cs_dc010_later_73a0be28:
 translate turkish sm1cs_dc010_later_cee1e977:
 
     # "Both cops" "*groaning*"
-    "Both cops" "*groaning*"
+    "Both cops" "*inleme*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:265
 translate turkish sm1cs_dc010_later_d3d34643:
 
     # "Douche Cop" "My ass."
-    "Douche Cop" "My ass."
+    "Douche Cop" "Kıçım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:266
 translate turkish sm1cs_dc010_later_4258e46e:
 
     # dc "You two. {i}Leave.{/i} Before I put you in the hospital."
-    dc "You two. {i}Leave.{/i} Before I put you in the hospital."
+    dc "Siz ikiniz. {i}Gidin.{/i} Sizi hastanelik etmeden önce."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:268
 translate turkish sm1cs_dc010_later_6106c91d:
 
     # "Jerk Cop" "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
-    "Jerk Cop" "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+    "Jerk Cop" "Öyle mi, sürtük? Peki kaptana saldırdığını söylersek ne olur?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:269
 translate turkish sm1cs_dc010_later_0e2b8682:
 
     # "Douche Cop" "Yeah. Get your ass kicked off the force."
-    "Douche Cop" "Yeah. Get your ass kicked off the force."
+    "Douche Cop" "Evet. Kıçın polis teşkilatından atılır."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:271
 translate turkish sm1cs_dc010_later_a9afe6d2:
@@ -680,25 +680,25 @@ translate turkish sm1cs_dc010_later_a9afe6d2:
 translate turkish sm1cs_dc010_later_49aa90fd:
 
     # mc "If you do that, I'll have to show your captain this video of you beating me up."
-    mc "If you do that, I'll have to show your captain this video of you beating me up."
+    mc "Eğer yaparsanız, kaptanınıza beni dövdüğünüz bu videoyu göstermek zorunda kalırım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:275
 translate turkish sm1cs_dc010_later_30054f4a:
 
     # mc "And of Officer Callahan telling you to leave."
-    mc "And of Officer Callahan telling you to leave."
+    mc "Ve Memur Callahan'ın gitmenizi söylediğini."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:276
 translate turkish sm1cs_dc010_later_25d8415a:
 
     # mc "And of both of you trying to punch her first."
-    mc "And of both of you trying to punch her first."
+    mc "Ve ikinizin önce ona yumruk atmaya çalıştığınızı."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:277
 translate turkish sm1cs_dc010_later_a0b3a7d5:
 
     # mc "I wonder what he would have to say about that?"
-    mc "I wonder what he would have to say about that?"
+    mc "Acaba bu konuda ne söylerdi?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:280
 translate turkish sm1cs_dc010_later_524cfcc1:
@@ -710,193 +710,193 @@ translate turkish sm1cs_dc010_later_524cfcc1:
 translate turkish sm1cs_dc010_later_32d72043:
 
     # "Douche Cop" "Mother fucker..."
-    "Douche Cop" "Mother fucker..."
+    "Douche Cop" "Orospu çocuğu..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:282
 translate turkish sm1cs_dc010_later_554ce0ea:
 
     # "Jerk Cop" "Come on."
-    "Jerk Cop" "Come on."
+    "Jerk Cop" "Hadi gel."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:285
 translate turkish sm1cs_dc010_later_a4ecbe4a:
 
     # mc "And if you two don't lay off of Debbie, I'm going to send this anonymously to your Captain!"
-    mc "And if you two don't lay off of Debbie, I'm going to send this anonymously to your Captain!"
+    mc "Ve eğer ikiniz Debbie'den uzak durmazsanız, bunu isimsiz olarak Kaptanınıza göndereceğim!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:286
 translate turkish sm1cs_dc010_later_87a3e1c6:
 
     # "Jerk Cop" "Fuck you."
-    "Jerk Cop" "Fuck you."
+    "Jerk Cop" "Siktir git."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:290
 translate turkish sm1cs_dc010_later_540b14dd:
 
     # dc "Oh my God! [mcname]! Are you okay?"
-    dc "Oh my God! [mcname]! Are you okay?"
+    dc "Tanrım! [mcname]! İyi misin?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:292
 translate turkish sm1cs_dc010_later_54915bb9:
 
     # mc "Yeah. Never better."
-    mc "Yeah. Never better."
+    mc "Evet. Daha iyi olamazdım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:293
 translate turkish sm1cs_dc010_later_70e5d6e9:
 
     # mc "Random question, have you seen a bloody tooth anywhere?"
-    mc "Random question, have you seen a bloody tooth anywhere?"
+    mc "Rastgele bir soru, kanlı bir diş gördün mü?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:296
 translate turkish sm1cs_dc010_later_497c8fa9:
 
     # dc "I can't believe they hurt you."
-    dc "I can't believe they hurt you."
+    dc "Seni incittiklerine inanamıyorum."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:297
 translate turkish sm1cs_dc010_later_6d068c34:
 
     # mc "Oh, did they? I'm totally fine!"
-    mc "Oh, did they? I'm totally fine!"
+    mc "Oh, öyle mi? Ben tamamen iyiyim!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:300
 translate turkish sm1cs_dc010_later_127cb093:
 
     # dc "Uh huh, sure you are, big guy."
-    dc "Uh huh, sure you are, big guy."
+    dc "Uh huh, elbette öylesin, koca adam."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:301
 translate turkish sm1cs_dc010_later_1f4d43a5:
 
     # dc "Come on, let me help you home."
-    dc "Come on, let me help you home."
+    dc "Hadi, eve gitmene yardım edeyim."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:303
 translate turkish sm1cs_dc010_later_203812b5:
 
     # mc "I can-"
-    mc "I can-"
+    mc "Ben-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:306
 translate turkish sm1cs_dc010_later_76b0d13e:
 
     # mc "Okay, maybe that last kick got me pretty good..."
-    mc "Okay, maybe that last kick got me pretty good..."
+    mc "Tamam, belki son tekme beni fena yakaladı..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:308
 translate turkish sm1cs_dc010_later_285a08d9:
 
     # mc "Thank you, Debbie."
-    mc "Thank you, Debbie."
+    mc "Teşekkür ederim, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:309
 translate turkish sm1cs_dc010_later_ba77217a:
 
     # dc "Of course, [mcname]."
-    dc "Of course, [mcname]."
+    dc "Elbette, [mcname]."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:312
 translate turkish sm1cs_dc010_later_3ea19605:
 
     # mc "Home, sweet home."
-    mc "Home, sweet home."
+    mc "Ev, tatlı ev."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:315
 translate turkish sm1cs_dc010_later_90f9eeef:
 
     # mc "All right, I think I'm doing better now."
-    mc "All right, I think I'm doing better now."
+    mc "Pekala, sanırım şimdi daha iyiyim."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:316
 translate turkish sm1cs_dc010_later_6926a361:
 
     # mc "Thank you for getting me home, Debbie."
-    mc "Thank you for getting me home, Debbie."
+    mc "Beni eve getirdiğin için teşekkür ederim, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:318
 translate turkish sm1cs_dc010_later_6d10d3dc:
 
     # dc "Of course."
-    dc "Of course."
+    dc "Elbette."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:320
 translate turkish sm1cs_dc010_later_a6efe63e:
 
     # dc "I couldn't leave you just laying out on the street."
-    dc "I couldn't leave you just laying out on the street."
+    dc "Seni sokakta bırakamazdım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:321
 translate turkish sm1cs_dc010_later_5dad0a0f:
 
     # mc "I mean, you {i}could{/i} have."
-    mc "I mean, you {i}could{/i} have."
+    mc "Yani, {i}yapabilirdin{/i}."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:322
 translate turkish sm1cs_dc010_later_79088c16:
 
     # dc "Hehehehe - never!"
-    dc "Hehehehe - never!"
+    dc "Hehehehe - asla!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:325
 translate turkish sm1cs_dc010_later_c83a7c91:
 
     # mc "Is there any way I can thank my hero?"
-    mc "Is there any way I can thank my hero?"
+    mc "Kahramanıma teşekkür etmenin bir yolu var mı?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:327
 translate turkish sm1cs_dc010_later_9928d7c7:
 
     # dc "Have you got any beer?"
-    dc "Have you got any beer?"
+    dc "Biran var mı?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:328
 translate turkish sm1cs_dc010_later_5ef70042:
 
     # mc "I think so."
-    mc "I think so."
+    mc "Sanırım var."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:330
 translate turkish sm1cs_dc010_later_6e339d91:
 
     # dc "Thank goodness. I'm parched."
-    dc "Thank goodness. I'm parched."
+    dc "Şükürler olsun. Susadım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:333
 translate turkish sm1cs_dc010_later_59dd503e:
 
     # mc "Well, in that case..."
-    mc "Well, in that case..."
+    mc "Öyleyse..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:336
 translate turkish sm1cs_dc010_later_431f342b:
 
     # mc "It looks like you're in luck."
-    mc "It looks like you're in luck."
+    mc "Görünüşe göre şanslısın."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:339
 translate turkish sm1cs_dc010_later_e40cd324:
 
     # dc "And you really don't need to thank me. It's my fault you were in that mess."
-    dc "And you really don't need to thank me. It's my fault you were in that mess."
+    dc "Ve gerçekten bana teşekkür etmene gerek yok. Bu pisliğe girmene ben sebep oldum."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:340
 translate turkish sm1cs_dc010_later_0a10d91e:
 
     # mc "The only ones at fault were those two pricks."
-    mc "The only ones at fault were those two pricks."
+    mc "Kabahati olan sadece o iki pislik."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:341
 translate turkish sm1cs_dc010_later_b348b1aa:
 
     # dc "You got that right!"
-    dc "You got that right!"
+    dc "Tam isabetli söyledin!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:344
 translate turkish sm1cs_dc010_later_7b61bde5:
 
     # dc "Cheers to us heroes!"
-    dc "Cheers to us heroes!"
+    dc "Kahramanlara şerefe!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:347
 translate turkish sm1cs_dc010_later_bc898f0f:
@@ -914,43 +914,43 @@ translate turkish sm1cs_dc010_later_4cfcf8f1:
 translate turkish sm1cs_dc010_later_7e6e76ce:
 
     # mc "I'm okay!"
-    mc "I'm okay!"
+    mc "İyiyim!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:352
 translate turkish sm1cs_dc010_later_02c9e81b:
 
     # dc "No, no you are not."
-    dc "No, no you are not."
+    dc "Hayır, hayır değilsin."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:355
 translate turkish sm1cs_dc010_later_68814e47:
 
     # dc "Come on, I need to see how bad it is!"
-    dc "Come on, I need to see how bad it is!"
+    dc "Hadi, ne kadar kötü olduğunu görmem gerek!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:356
 translate turkish sm1cs_dc010_later_e4d1305e:
 
     # mc "It's seriously not that - owwww!"
-    mc "It's seriously not that - owwww!"
+    mc "Gerçekten o kadar değil - owwww!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:357
 translate turkish sm1cs_dc010_later_9e185900:
 
     # dc "Yeah, yeah. Come on."
-    dc "Yeah, yeah. Come on."
+    dc "Evet, evet. Hadi."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:361
 translate turkish sm1cs_dc010_later_ba9bb4b1:
 
     # dc "All right, tough guy. Shirt off, come on."
-    dc "All right, tough guy. Shirt off, come on."
+    dc "Pekala, sert adam. Gömleğini çıkar, hadi."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:363
 translate turkish sm1cs_dc010_later_cfc694d4:
 
     # mc "Fine, fine."
-    mc "Fine, fine."
+    mc "Tamam, tamam."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:369
 translate turkish sm1cs_dc010_later_6b84ca68:
@@ -962,67 +962,67 @@ translate turkish sm1cs_dc010_later_6b84ca68:
 translate turkish sm1cs_dc010_later_73a321bd:
 
     # mc "All right, I'm ready for my inspection, Doctor Debbie."
-    mc "All right, I'm ready for my inspection, Doctor Debbie."
+    mc "Pekala, muayene için hazırım, Doktor Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:375
 translate turkish sm1cs_dc010_later_6e32e8ee:
 
     # dc "Oh, yeah, uhm -"
-    dc "Oh, yeah, uhm -"
+    dc "Oh, evet, uhm -"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:378
 translate turkish sm1cs_dc010_later_a715b379:
 
     # dc "How's, uhm, how's that feel? Does it hurt?"
-    dc "How's, uhm, how's that feel? Does it hurt?"
+    dc "Nasıl, uhm, nasıl hissediyorsun? Acıyor mu?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:380
 translate turkish sm1cs_dc010_later_7a7fce80:
 
     # mc "Just a little, nothing serious."
-    mc "Just a little, nothing serious."
+    mc "Sadece biraz, ciddi bir şey yok."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:382
 translate turkish sm1cs_dc010_later_a579d56c:
 
     # dc "Good... good..."
-    dc "Good... good..."
+    dc "İyi... iyi..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:385
 translate turkish sm1cs_dc010_later_89f60bd0:
 
     # mc "Are you good, Debbie?"
-    mc "Are you good, Debbie?"
+    mc "Sen iyi misin, Debbie?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:386
 translate turkish sm1cs_dc010_later_652b9951:
 
     # dc "Uhm... what?"
-    dc "Uhm... what?"
+    dc "Uhm... ne?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:388
 translate turkish sm1cs_dc010_later_95c7633a:
 
     # mc "Are you okay?"
-    mc "Are you okay?"
+    mc "İyi misin?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:389
 translate turkish sm1cs_dc010_later_6122a4b5:
 
     # dc "Oh, yeah, I'm... uh huh."
-    dc "Oh, yeah, I'm... uh huh."
+    dc "Oh, evet, ben... uh huh."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:390
 translate turkish sm1cs_dc010_later_ed6fb824:
 
     # dc "Little warm."
-    dc "Little warm."
+    dc "Biraz sıcak."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:392
 translate turkish sm1cs_dc010_later_99f73c57:
 
     # mc "Is that all?"
-    mc "Is that all?"
+    mc "Hepsi bu mu?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:394
 translate turkish sm1cs_dc010_later_4c590f8e:
@@ -1034,19 +1034,19 @@ translate turkish sm1cs_dc010_later_4c590f8e:
 translate turkish sm1cs_dc010_later_01b44a98:
 
     # dc "I think..."
-    dc "I think..."
+    dc "Sanırım..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:397
 translate turkish sm1cs_dc010_later_7d0603d3:
 
     # dc "I want to do more than touch."
-    dc "I want to do more than touch."
+    dc "Dokunmaktan fazlasını yapmak istiyorum."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:398
 translate turkish sm1cs_dc010_later_2e403621:
 
     # mct "Oh damn."
-    mct "Oh damn."
+    mct "Oh lanet."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:401
 translate turkish sm1cs_dc010_later_273fa2d0:
@@ -1076,49 +1076,49 @@ translate turkish sm1cs_dc010_later_c9019194:
 translate turkish sm1cs_dc010_later_de7f9e6c:
 
     # dc "I want to..."
-    dc "I want to..."
+    dc "İstiyorum..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:422
 translate turkish sm1cs_dc010_later_3dc1e7f6:
 
     # mc "What is it, Debbie?"
-    mc "What is it, Debbie?"
+    mc "Ne var, Debbie?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:424
 translate turkish sm1cs_dc010_later_b28e8ae2:
 
     # dc "I- I can't- uhm..."
-    dc "I- I can't- uhm..."
+    dc "Ben- Yapamam- uhm..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:426
 translate turkish sm1cs_dc010_later_dd76c387:
 
     # mc "You can tell me anything."
-    mc "You can tell me anything."
+    mc "Bana her şeyi söyleyebilirsin."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:429
 translate turkish sm1cs_dc010_later_bde8e4a1:
 
     # dc "I want to suck your cock, [mcname]."
-    dc "I want to suck your cock, [mcname]."
+    dc "Sikini emmek istiyorum, [mcname]."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:431
 translate turkish sm1cs_dc010_later_8e579f9f:
 
     # mct "Not what I expected."
-    mct "Not what I expected."
+    mct "Beklediğim bu değildi."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:433
 translate turkish sm1cs_dc010_later_6ac7f4b9:
 
     # mc "Well, you won't see me resisting , Officer."
-    mc "Well, you won't see me resisting , Officer."
+    mc "Şey, direndiğimi göremezsin, Memur Hanım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:437
 translate turkish sm1cs_dc010_later_afe087ac:
 
     # dc "*slow sniffing*"
-    dc "*slow sniffing*"
+    dc "*yavaşça koklama*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:444
 translate turkish sm1cs_dc010_later_dfa59203:
@@ -1130,31 +1130,31 @@ translate turkish sm1cs_dc010_later_dfa59203:
 translate turkish sm1cs_dc010_later_e867c4b1:
 
     # mc "What? Is something wrong down there?"
-    mc "What? Is something wrong down there?"
+    mc "Ne oldu? Aşağıda bir sorun mu var?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:447
 translate turkish sm1cs_dc010_later_ecfacd53:
 
     # dc "No... I just..."
-    dc "No... I just..."
+    dc "Hayır... Sadece..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
 translate turkish sm1cs_dc010_later_8a1da730:
 
     # dc "I have been looking forward to this for awhile.{w} I'm very excited."
-    dc "I have been looking forward to this for awhile.{w} I'm very excited."
+    dc "Bir süredir bunu bekliyordum.{w} Çok heyecanlıyım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:451
 translate turkish sm1cs_dc010_later_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "Ben de."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:456
 translate turkish sm1cs_dc010_later_1e2e10d7:
 
     # mc "Oh shit, Debbie!"
-    mc "Oh shit, Debbie!"
+    mc "Kahretsin, Debbie!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:457
 translate turkish sm1cs_dc010_later_40d2efff:
@@ -1166,7 +1166,7 @@ translate turkish sm1cs_dc010_later_40d2efff:
 translate turkish sm1cs_dc010_later_36ffc305:
 
     # mc "Wow! Nggggh!"
-    mc "Wow! Nggggh!"
+    mc "Vay be! Nggggh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:460
 translate turkish sm1cs_dc010_later_2921482f:
@@ -1178,19 +1178,19 @@ translate turkish sm1cs_dc010_later_2921482f:
 translate turkish sm1cs_dc010_later_c624b89e:
 
     # mc "Nggghhh - this is - wow!"
-    mc "Nggghhh - this is - wow!"
+    mc "Nggghhh - bu - vay be!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:462
 translate turkish sm1cs_dc010_later_c90a37d3:
 
     # mc "Debbie - ngggghhhh - holy shit!"
-    mc "Debbie - ngggghhhh - holy shit!"
+    mc "Debbie - ngggghhhh - kahretsin!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:464
 translate turkish sm1cs_dc010_later_5beb376f:
 
     # mc "This is amazing! Fuuuuuhhhhh - nggggh!"
-    mc "This is amazing! Fuuuuuhhhhh - nggggh!"
+    mc "Bu harika! Fuuuuuhhhhh - nggggh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:465
 translate turkish sm1cs_dc010_later_19bc8243:
@@ -1214,19 +1214,19 @@ translate turkish sm1cs_dc010_later_1bf8a6d3:
 translate turkish sm1cs_dc010_later_044e8092:
 
     # mc "Oh, this is amazing - ngggh!"
-    mc "Oh, this is amazing - ngggh!"
+    mc "Oh, bu harika - ngggh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:470
 translate turkish sm1cs_dc010_later_a78d9a58:
 
     # mc "This is - oh, Debbie. Fuuuckkk! Deebbbbiiiieeeee!"
-    mc "This is - oh, Debbie. Fuuuckkk! Deebbbbiiiieeeee!"
+    mc "Bu - oh, Debbie. Siiiiktir! Deebbbbiiiieeeee!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:472
 translate turkish sm1cs_dc010_later_1ee704af:
 
     # mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
-    mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
+    mc "Oh, o şey - nngghhhh - dilinle ne yapıyorsan-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
 translate turkish sm1cs_dc010_later_c7ffa945:
@@ -1244,7 +1244,7 @@ translate turkish sm1cs_dc010_later_eec3224d:
 translate turkish sm1cs_dc010_later_32b2131f:
 
     # mc "If you - nggghhhhh - keep going like that-"
-    mc "If you - nggghhhhh - keep going like that-"
+    mc "Eğer - nggghhhhh - böyle devam edersen-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:477
 translate turkish sm1cs_dc010_later_46b825c8:
@@ -1268,49 +1268,49 @@ translate turkish sm1cs_dc010_later_e904699f:
 translate turkish sm1cs_dc010_later_1c1ff67e:
 
     # dc "Sorry, [mcname], but..."
-    dc "Sorry, [mcname], but..."
+    dc "Özür dilerim, [mcname], ama..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:486
 translate turkish sm1cs_dc010_later_0c2f807c:
 
     # mc "No, it's okay, Debbie."
-    mc "No, it's okay, Debbie."
+    mc "Hayır, sorun değil, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:489
 translate turkish sm1cs_dc010_later_2086b5a4:
 
     # mc "Everything okay?"
-    mc "Everything okay?"
+    mc "Her şey yolunda mı?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:491
 translate turkish sm1cs_dc010_later_349cb0f7:
 
     # dc "Yeah, everything is fine, it's just, uhm..."
-    dc "Yeah, everything is fine, it's just, uhm..."
+    dc "Evet, her şey iyi, sadece, uhm..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:492
 translate turkish sm1cs_dc010_later_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Ne var?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:497
 translate turkish sm1cs_dc010_later_2441b466:
 
     # dc "There's something I've wanted to try..."
-    dc "There's something I've wanted to try..."
+    dc "Denemek istediğim bir şey var..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:498
 translate turkish sm1cs_dc010_later_c8f5c86e:
 
     # mc "Oh yeah? And what's that?"
-    mc "Oh yeah? And what's that?"
+    mc "Öyle mi? Peki o nedir?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:499
 translate turkish sm1cs_dc010_later_23482864:
 
     # dc "Sit up for me."
-    dc "Sit up for me."
+    dc "Benim için otur."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:502
 translate turkish sm1cs_dc010_later_1b199792:
@@ -1322,19 +1322,19 @@ translate turkish sm1cs_dc010_later_1b199792:
 translate turkish sm1cs_dc010_later_13bf2acd:
 
     # dc "I've always wanted to try this..."
-    dc "I've always wanted to try this..."
+    dc "Bunu her zaman denemek istemişimdir..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:510
 translate turkish sm1cs_dc010_later_673a7ff8:
 
     # mc "Oh shit, Debbie."
-    mc "Oh shit, Debbie."
+    mc "Kahretsin, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:511
 translate turkish sm1cs_dc010_later_1af81dfb:
 
     # dc "Oh, we haven't even gotten to the fun part yet."
-    dc "Oh, we haven't even gotten to the fun part yet."
+    dc "Oh, daha eğlenceli kısma bile gelmedik."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:514
 translate turkish sm1cs_dc010_later_fd22cc72:
