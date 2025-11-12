@@ -244,17 +244,27 @@
     old "Perfect."
     new "完美。"
 
-translate chinese strings:
-
     # game/code/data/chat/chat_mes.rpy:112
     old "Wish you were here to warm my body."
-    new "Wish you were here to warm my body."
+    new "希望你在这里温暖我的身体。"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I was thinking of a game night. You, Stacy, and me."
-    new "I was thinking of a game night. You, Stacy, and me."
+    new "我在想一个游戏之夜。你、史黛西和我。"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Alright, does this evening work?"
-    new "Alright, does this evening work?"
+    new "好的，今晚可以吗？"
+
+    # game/code/data/chat/chat_mes.rpy:112
+    old "Everything all right?"
+    new "一切都好吗？"
+
+    # game/code/data/chat/chat_mes.rpy:112
+    old "I hope you were the winner."
+    new "我希望你是赢家。"
+
+    # game/code/data/chat/chat_mes.rpy:112
+    old "It is now."
+    new "现在是赢家。"
 
