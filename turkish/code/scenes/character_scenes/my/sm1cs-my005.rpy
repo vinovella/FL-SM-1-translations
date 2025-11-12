@@ -1292,37 +1292,37 @@ translate turkish strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:47
     old "A Few Hours Later"
-    new "A Few Hours Later"
+    new "Birkaç Saat Sonra"
 
     # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:216
     old "About halfway through the movie"
-    new "About halfway through the movie"
+    new "Filmin yaklaşık yarısında"
 
     # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:469
     old "After the Movie"
-    new "After the Movie"
+    new "Filmden Sonra"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:391
 translate turkish sm1cs_my005_half_movie_c72b9a46:
 
     # mct "What is... is Mom rubbing my dick with her foot?"
-    mct "What is... is Mom rubbing my dick with her foot?"
+    mct "Bu ne... annem aletimi ayağıyla mı ovuyor?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:504
 translate turkish sm1cs_my005_after_movie_52d70a1d:
 
     # my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
-    my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
+    my "Bunu takdir ediyorum, ama benim yaşıma geldiğinde, kuş tüyü yorganı olan güzel, büyük, yumuşak bir yatak istersin."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:541
 translate turkish sm1cs_my005_after_movie_2d23f06a:
 
     # mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
-    mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "Az önce annemi bir ayak masajıyla boşalttım ve sonra sanki büyük bir mesele değilmiş gibi onunla flört ettim..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:543
 translate turkish sm1cs_my005_after_movie_eed91999:
 
     # mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
-    mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "Az önce Melony'yi bir ayak masajıyla boşalttım ve sonra sanki büyük bir mesele değilmiş gibi onunla flört ettim..."
 
