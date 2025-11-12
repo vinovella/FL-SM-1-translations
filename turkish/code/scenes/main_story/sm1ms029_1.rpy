@@ -440,61 +440,61 @@ translate turkish sm1ms029_5937695a:
 translate turkish sm1ms029_76ab3ef9_1:
 
     # arj "Thanks, [mcname]."
-    arj "Thanks, [mcname]."
+    arj "Teşekkürler, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:206
 translate turkish sm1ms029_903103e6:
 
     # arj "I'm looking forward to the party."
-    arj "I'm looking forward to the party."
+    arj "Partiyi dört gözle bekliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:207
 translate turkish sm1ms029_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "Ben de."
 
 # game/code/scenes/main_story/sm1ms029.rpy:212
 translate turkish sm1ms029_c5cad03e:
 
     # mc "Man, this party is already going better than the last party."
-    mc "Man, this party is already going better than the last party."
+    mc "Dostum, bu parti şimdiden son partiden daha iyi gidiyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:213
 translate turkish sm1ms029_d89e7b82:
 
     # sy "Because you're getting kisses?"
-    sy "Because you're getting kisses?"
+    sy "Öpücük aldığın için mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:215
 translate turkish sm1ms029_3dceab7a:
 
     # mc "Maaaaaybe."
-    mc "Maaaaaybe."
+    mc "Bellllki."
 
 # game/code/scenes/main_story/sm1ms029.rpy:218
 translate turkish sm1ms029_bfd16d96:
 
     # sy "I want some kisses!"
-    sy "I want some kisses!"
+    sy "Ben de öpücük istiyorum!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:219
 translate turkish sm1ms029_1e363f07:
 
     # mc "Oh don't worry, you're going to get way more than kisses tonight."
-    mc "Oh don't worry, you're going to get way more than kisses tonight."
+    mc "Oh merak etme, bu gece öpücükten çok daha fazlasını alacaksın."
 
 # game/code/scenes/main_story/sm1ms029.rpy:222
 translate turkish sm1ms029_52b86e00:
 
     # sy "Oh, I know! I am definitely looking forward to that!"
-    sy "Oh, I know! I am definitely looking forward to that!"
+    sy "Oh, biliyorum! Bunu kesinlikle dört gözle bekliyorum!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:240
 translate turkish sm1ms029_party_ns_231a388b:
 
     # ns "Oh my goodness, I almost forgot my mask!"
-    ns "Oh my goodness, I almost forgot my mask!"
+    ns "Aman Tanrım, neredeyse maskemi unutuyordum!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:241
 translate turkish sm1ms029_party_ns_67d8b4b6:
@@ -506,43 +506,43 @@ translate turkish sm1ms029_party_ns_67d8b4b6:
 translate turkish sm1ms029_party_ns_258d2fdc:
 
     # ns "Hello! Where's my mask!?"
-    ns "Hello! Where's my mask!?"
+    ns "Merhaba! Maskem nerede!?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:246
 translate turkish sm1ms029_party_ns_bf321ffd:
 
     # sy "Here it is, Nari."
-    sy "Here it is, Nari."
+    sy "İşte burada, Nari."
 
 # game/code/scenes/main_story/sm1ms029.rpy:247
 translate turkish sm1ms029_party_ns_83866363:
 
     # ns "Thank you, Stacy!"
-    ns "Thank you, Stacy!"
+    ns "Teşekkürler, Stacy!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:251
 translate turkish sm1ms029_party_ns_f7d615bd:
 
     # ns "I almost committed a faux pas!"
-    ns "I almost committed a faux pas!"
+    ns "Neredeyse ayıp bir şey yapıyordum!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:252
 translate turkish sm1ms029_party_ns_20e12b16:
 
     # mc "It's okay, Nari. Nothing that serious."
-    mc "It's okay, Nari. Nothing that serious."
+    mc "Sorun değil, Nari. O kadar ciddi bir şey değil."
 
 # game/code/scenes/main_story/sm1ms029.rpy:256
 translate turkish sm1ms029_party_ns_041aa955:
 
     # ns "How do I look? Is this okay?"
-    ns "How do I look? Is this okay?"
+    ns "Nasıl görünüyorum? Bu uygun mu?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:257
 translate turkish sm1ms029_party_ns_aacaef00:
 
     # ns "Am I dressed acceptably? Am I arriving at the right time? Not too early, but not too-"
-    ns "Am I dressed acceptably? Am I arriving at the right time? Not too early, but not too-"
+    ns "Uygun giyinmiş miyim? Doğru zamanda mı geliyorum? Çok erken değil, ama çok-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:258
 translate turkish sm1ms029_party_ns_3dba5ce4:
@@ -554,7 +554,7 @@ translate turkish sm1ms029_party_ns_3dba5ce4:
 translate turkish sm1ms029_party_ns_10b34b25:
 
     # ns "Late? Should I change? Should I have brought someth-"
-    ns "Late? Should I change? Should I have brought someth-"
+    ns "Geç mi? Üstümü değiştirmeli miyim? Bir şey getirmeli miydim-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:262
 translate turkish sm1ms029_party_ns_756cde06:
@@ -566,7 +566,7 @@ translate turkish sm1ms029_party_ns_756cde06:
 translate turkish sm1ms029_party_ns_7c87e27d:
 
     # ns "ing, I can always run out to the store-"
-    ns "ing, I can always run out to the store-"
+    ns "ler, her zaman mağazaya koşabilirim-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:267
 translate turkish sm1ms029_party_ns_8f411162:
@@ -578,175 +578,175 @@ translate turkish sm1ms029_party_ns_8f411162:
 translate turkish sm1ms029_party_ns_8eacd99c:
 
     # mc "Everything is okay, you look great, no faux pas committed."
-    mc "Everything is okay, you look great, no faux pas committed."
+    mc "Her şey yolunda, harika görünüyorsun, hiçbir ayıp yapmadın."
 
 # game/code/scenes/main_story/sm1ms029.rpy:270
 translate turkish sm1ms029_party_ns_07295b53:
 
     # mc "All you need to do is relax, and enjoy the party. Okay?"
-    mc "All you need to do is relax, and enjoy the party. Okay?"
+    mc "Tek yapman gereken rahatlamak ve partinin tadını çıkarmak. Tamam mı?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:272
 translate turkish sm1ms029_party_ns_9d0fe70b:
 
     # ns "Okay, [mcname]. I can do that!"
-    ns "Okay, [mcname]. I can do that!"
+    ns "Tamam, [mcname]. Bunu yapabilirim!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:277
 translate turkish sm1ms029_party_ns_75a5d3cf:
 
     # sy "Huh. I need to remember that."
-    sy "Huh. I need to remember that."
+    sy "Huh. Bunu hatırlamam gerek."
 
 # game/code/scenes/main_story/sm1ms029.rpy:278
 translate turkish sm1ms029_party_ns_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Ne?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:280
 translate turkish sm1ms029_party_ns_b307d307:
 
     # sy "Apparently that's her reset button."
-    sy "Apparently that's her reset button."
+    sy "Görünüşe göre bu onun sıfırlama düğmesi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:281
 translate turkish sm1ms029_party_ns_3a36d1e7:
 
     # mc "What, kissing her?"
-    mc "What, kissing her?"
+    mc "Ne, onu öpmek mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:284
 translate turkish sm1ms029_party_ns_f73d8191:
 
     # sy "Yeah. Sometimes she goes into overdrive mode and I just need to get her to reset."
-    sy "Yeah. Sometimes she goes into overdrive mode and I just need to get her to reset."
+    sy "Evet. Bazen aşırı yüklenme moduna giriyor ve onu sıfırlamam gerekiyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:285
 translate turkish sm1ms029_party_ns_130fbc1f:
 
     # sy "So next time she starts talking about crypto markets, I'm going to give her a wet, juicy, kiss."
-    sy "So next time she starts talking about crypto markets, I'm going to give her a wet, juicy, kiss."
+    sy "Yani kripto piyasaları hakkında konuşmaya başladığında, ona ıslak, sulu bir öpücük vereceğim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:287
 translate turkish sm1ms029_party_ns_f71e3163:
 
     # sy "Maybe that'll help stop the 45 minute tangent."
-    sy "Maybe that'll help stop the 45 minute tangent."
+    sy "Belki bu 45 dakikalık konuyu durdurmaya yardımcı olur."
 
 # game/code/scenes/main_story/sm1ms029.rpy:298
 translate turkish sm1ms029_party_tl_99d555b1:
 
     # tl "What's up, you two."
-    tl "What's up, you two."
+    tl "Ne haber, ikiniz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:299
 translate turkish sm1ms029_party_tl_05bebd15:
 
     # sy "Hi, Taisia!"
-    sy "Hi, Taisia!"
+    sy "Merhaba, Taisia!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:302
 translate turkish sm1ms029_party_tl_e3164f63:
 
     # mc "Happy you could make it to the party."
-    mc "Happy you could make it to the party."
+    mc "Partiye gelebildiğine sevindim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:304
 translate turkish sm1ms029_party_tl_41b49d0d:
 
     # tl "Well, I had nothing else going on, so I figured I'd drop by."
-    tl "Well, I had nothing else going on, so I figured I'd drop by."
+    tl "Şey, başka bir işim yoktu, ben de uğrayabilirim diye düşündüm."
 
 # game/code/scenes/main_story/sm1ms029.rpy:306
 translate turkish sm1ms029_party_tl_8f28cad3:
 
     # tl "I'm kidding."
-    tl "I'm kidding."
+    tl "Şaka yapıyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:308
 translate turkish sm1ms029_party_tl_b76755f0:
 
     # tl "I'm actually really excited for this party."
-    tl "I'm actually really excited for this party."
+    tl "Aslında bu parti için gerçekten heyecanlıyım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:309
 translate turkish sm1ms029_party_tl_4fe4d74b:
 
     # sy "Really?"
-    sy "Really?"
+    sy "Gerçekten mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:311
 translate turkish sm1ms029_party_tl_b917a934:
 
     # tl "How could I not be?"
-    tl "How could I not be?"
+    tl "Nasıl olmam ki?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:314
 translate turkish sm1ms029_party_tl_f5b5c8e2:
 
     # tl "A whole kink party, filled with freaky deaky shit?"
-    tl "A whole kink party, filled with freaky deaky shit?"
+    tl "Tuhaf şeylerle dolu bir sapıklık partisi mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:317
 translate turkish sm1ms029_party_tl_6367d4e1:
 
     # tl "Sounds right up my alley."
-    tl "Sounds right up my alley."
+    tl "Tam bana göre."
 
 # game/code/scenes/main_story/sm1ms029.rpy:320
 translate turkish sm1ms029_party_tl_75dc03aa:
 
     # tl "And... {size=*0.7}it's with people I really like.{/size}"
-    tl "And... {size=*0.7}it's with people I really like.{/size}"
+    tl "Ve... {size=*0.7}gerçekten sevdiğim insanlarla.{/size}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:321
 translate turkish sm1ms029_party_tl_8199f24e:
 
     # mc "What was the last part?"
-    mc "What was the last part?"
+    mc "Son kısım neydi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:323
 translate turkish sm1ms029_party_tl_4957a308:
 
     # tl "Don't worry about it."
-    tl "Don't worry about it."
+    tl "Boşver."
 
 # game/code/scenes/main_story/sm1ms029.rpy:333
 translate turkish sm1ms029_party_tl_ae13cf4c:
 
     # sy "Man, she's a wildcat."
-    sy "Man, she's a wildcat."
+    sy "Dostum, o tam bir vahşi kedi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:334
 translate turkish sm1ms029_party_tl_fa97395f:
 
     # mc "A little bit."
-    mc "A little bit."
+    mc "Biraz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:335
 translate turkish sm1ms029_party_tl_6f313b3a:
 
     # sy "I never know where we sit with her..."
-    sy "I never know where we sit with her..."
+    sy "Onunla aramızda ne olduğunu asla bilemiyorum..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:338
 translate turkish sm1ms029_party_tl_d66bcb49:
 
     # mc "I think I'm breaking through the armor though..."
-    mc "I think I'm breaking through the armor though..."
+    mc "Yine de zırhını kırıyorum galiba..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:341
 translate turkish sm1ms029_party_tl_2be5873f:
 
     # mc "I bet there's a whole other side to Taisia we haven't even seen yet..."
-    mc "I bet there's a whole other side to Taisia we haven't even seen yet..."
+    mc "Bahse girerim Taisia'nın henüz görmediğimiz tamamen başka bir tarafı var..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:351
 translate turkish sm1ms029_party_mes_c77c474f:
 
     # mes "I see you to were paying attention!"
-    mes "I see you to were paying attention!"
+    mes "Dikkat ettiğinizi görüyorum!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:353
 translate turkish sm1ms029_party_mes_63a9e153:
