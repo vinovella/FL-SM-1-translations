@@ -2,49 +2,49 @@
 translate chinese sm1mv02s06_308a7b0f:
 
     # kv "Welcome to the bridge, Captain!"
-    kv "Welcome to the bridge, Captain!"
+    kv "舰长，欢迎来到舰桥！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:93
 translate chinese sm1mv02s06_443c8e43:
 
     # mc "Hey, Kanya."
-    mc "Hey, Kanya."
+    mc "嘿，康雅。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:97
 translate chinese sm1mv02s06_86cf3284:
 
     # kv "You ready for this next one?"
-    kv "You ready for this next one?"
+    kv "下一场戏你准备好了吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:99
 translate chinese sm1mv02s06_48cb8e45:
 
     # mc "Oh, absolutely."
-    mc "Oh, absolutely."
+    mc "哦，当然准备好了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:105
 translate chinese sm1mv02s06_4766ebdb:
 
     # kv "Good, me too."
-    kv "Good, me too."
+    kv "太好了，我也是。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:109
 translate chinese sm1mv02s06_ac2414f9:
 
     # kv "I didn't think a Sci-Fi movie was going to be this fun to film."
-    kv "I didn't think a Sci-Fi movie was going to be this fun to film."
+    kv "我本来没想到拍科幻电影会这么有意思。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:113
 translate chinese sm1mv02s06_7b3cfeb1:
 
     # mc "Glad that we can keep it fun for you, Kanya!"
-    mc "Glad that we can keep it fun for you, Kanya!"
+    mc "康雅，真高兴我们能让你觉得拍摄过程很有趣！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:120
 translate chinese sm1mv02s06_40d18a1a:
 
     # kv "And look at that, the rest of the gang is here!"
-    kv "And look at that, the rest of the gang is here!"
+    kv "你看，其他人也都到齐啦！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:123
 translate chinese sm1mv02s06_9670d481:
