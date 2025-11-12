@@ -704,61 +704,61 @@ translate turkish sm1cs_my006_hotel_room_acbc0340:
 translate turkish sm1cs_my006_hotel_room_1a7b6063:
 
     # my "It's been - well, a very {i}long{/i} time since I've done this."
-    my "It's been - well, a very {i}long{/i} time since I've done this."
+    my "Bunu yapalı - şey, çok {i}uzun{/i} zaman oldu."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:356
 translate turkish sm1cs_my006_hotel_room_5950510c:
 
     # mct "I can tell, Jesus she's so tight..."
-    mct "I can tell, Jesus she's so tight..."
+    mct "Anlayabiliyorum, Tanrım o çok dar..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:359
 translate turkish sm1cs_my006_hotel_room_bc1620fb:
 
     # my "I just n-need a moment to adjust..."
-    my "I just n-need a moment to adjust..."
+    my "Sadece a-alışmak için bir dakikaya ihtiyacım var..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:360
 translate turkish sm1cs_my006_hotel_room_ccd19f5a:
 
     # my "God...{w} but your cock feels heavenly, [mcname]..."
-    my "God...{w} but your cock feels heavenly, [mcname]..."
+    my "Tanrım...{w} ama aletin cennet gibi hissettiriyor, [mcname]..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:363
 translate turkish sm1cs_my006_hotel_room_aa8e25c2:
 
     # my "O-okay. Go slow. But whatever else happens, I don't want you to stop."
-    my "O-okay. Go slow. But whatever else happens, I don't want you to stop."
+    my "T-tamam. Yavaş git. Ama ne olursa olsun, durmanı istemiyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:365
 translate turkish sm1cs_my006_hotel_room_1828d914:
 
     # mc "Are you-"
-    mc "Are you-"
+    mc "Sen-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:368
 translate turkish sm1cs_my006_hotel_room_fd71a709:
 
     # my "Yes. I need you to fuck me. Please."
-    my "Yes. I need you to fuck me. Please."
+    my "Evet. Beni becermen gerekiyor. Lütfen."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:371
 translate turkish sm1cs_my006_hotel_room_bc0350e9:
 
     # mc "Okay, Mom."
-    mc "Okay, Mom."
+    mc "Tamam, anne."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:373
 translate turkish sm1cs_my006_hotel_room_1d4337b6:
 
     # mc "Okay, Melony."
-    mc "Okay, Melony."
+    mc "Tamam, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:377
 translate turkish sm1cs_my006_hotel_room_aa263c7d:
 
     # my "Oh fuck!"
-    my "Oh fuck!"
+    my "Oh siktir!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:378
 translate turkish sm1cs_my006_hotel_room_5f71acf7:
@@ -788,7 +788,7 @@ translate turkish sm1cs_my006_hotel_room_daa418e9:
 translate turkish sm1cs_my006_hotel_room_72256e95:
 
     # mc "Shit-"
-    mc "Shit-"
+    mc "Lanet-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:385
 translate turkish sm1cs_my006_hotel_room_46f994ad:
@@ -800,7 +800,7 @@ translate turkish sm1cs_my006_hotel_room_46f994ad:
 translate turkish sm1cs_my006_hotel_room_c6b95208:
 
     # mc "Mom!"
-    mc "Mom!"
+    mc "Anne!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:389
 translate turkish sm1cs_my006_hotel_room_683b4fb5:
@@ -812,211 +812,211 @@ translate turkish sm1cs_my006_hotel_room_683b4fb5:
 translate turkish sm1cs_my006_hotel_room_c44eeafd:
 
     # my "This is incredible!"
-    my "This is incredible!"
+    my "Bu inanılmaz!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:391
 translate turkish sm1cs_my006_hotel_room_7165c22c:
 
     # my "Mmmmm! Yesssssss!"
-    my "Mmmmm! Yesssssss!"
+    my "Mmmmm! Eveeeeet!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:393
 translate turkish sm1cs_my006_hotel_room_d096b829:
 
     # my "Oh yeah, right there!!!"
-    my "Oh yeah, right there!!!"
+    my "Oh evet, tam orası!!!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:395
 translate turkish sm1cs_my006_hotel_room_251d4aff:
 
     # mc "Oh, Mom. Your pussy is clamping down on my cock!"
-    mc "Oh, Mom. Your pussy is clamping down on my cock!"
+    mc "Oh, anne. Amın aletimi sıkıca kavrıyor!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:397
 translate turkish sm1cs_my006_hotel_room_b55013ec:
 
     # mc "God, your pussy is clamped around my cock!"
-    mc "God, your pussy is clamped around my cock!"
+    mc "Tanrım, amın aletimi sımsıkı kavramış!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:398
 translate turkish sm1cs_my006_hotel_room_71aaeb21:
 
     # mc "This is so good, and you're so wet!"
-    mc "This is so good, and you're so wet!"
+    mc "Bu çok iyi ve sen çok ıslaksın!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:400
 translate turkish sm1cs_my006_hotel_room_12fc6983:
 
     # my "Oh, I've needed this for so long! Oh, ohhhh!!!"
-    my "Oh, I've needed this for so long! Oh, ohhhh!!!"
+    my "Oh, buna çok uzun zamandır ihtiyacım vardı! Oh, ohhhh!!!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:401
 translate turkish sm1cs_my006_hotel_room_a5a94967:
 
     # my "Mmmmm, just like that, [mcname], oh yes!"
-    my "Mmmmm, just like that, [mcname], oh yes!"
+    my "Mmmmm, aynen böyle, [mcname], oh evet!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:403
 translate turkish sm1cs_my006_hotel_room_dfe1be72:
 
     # my "Oh, your cock feels soooo good inside me - mmmmmm!"
-    my "Oh, your cock feels soooo good inside me - mmmmmm!"
+    my "Oh, aletin içimde çoook iyi hissettiriyor - mmmmmm!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:404
 translate turkish sm1cs_my006_hotel_room_75cb29d0:
 
     # my "The perfect - mmmmnnnnggg - fit!"
-    my "The perfect - mmmmnnnnggg - fit!"
+    my "Mükemmel - mmmmnnnnggg - uyum!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:406
 translate turkish sm1cs_my006_hotel_room_b3be27da:
 
     # mc "Fuck - ngggh, it's so tight!"
-    mc "Fuck - ngggh, it's so tight!"
+    mc "Lanet - ngggh, çok dar!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:407
 translate turkish sm1cs_my006_hotel_room_f52652b7:
 
     # mc "Damn - oh, it feels so good! Shit!"
-    mc "Damn - oh, it feels so good! Shit!"
+    mc "Lanet - oh, çok iyi hissettiriyor! Siktir!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:409
 translate turkish sm1cs_my006_hotel_room_34aa8bb7:
 
     # my "Oh, please don't cum yet, [mcname]. There's - mmmmpphhh - more I want to do!"
-    my "Oh, please don't cum yet, [mcname]. There's - mmmmpphhh - more I want to do!"
+    my "Oh, lütfen henüz boşalma, [mcname]. Daha - mmmmpphhh - yapmak istediğim şeyler var!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:410
 translate turkish sm1cs_my006_hotel_room_8a95ebae:
 
     # mc "I - nggghhhh - I can try and hold out-!"
-    mc "I - nggghhhh - I can try and hold out-!"
+    mc "Ben - nggghhhh - dayanmaya çalışabilirim-!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:414
 translate turkish sm1cs_my006_hotel_room_6e812456:
 
     # my "[mcname], I need you to wait until I can say you can cum, okay?"
-    my "[mcname], I need you to wait until I can say you can cum, okay?"
+    my "[mcname], boşalabileceğini söyleyene kadar beklemelisin, tamam mı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:415
 translate turkish sm1cs_my006_hotel_room_a0aa40eb:
 
     # my "It's been a long time since I've done anything like this, and I..."
-    my "It's been a long time since I've done anything like this, and I..."
+    my "Böyle bir şey yapalı uzun zaman oldu ve ben..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:417
 translate turkish sm1cs_my006_hotel_room_3a37b055:
 
     # my "And I need more. I need more of you. I need you to fuck me until I can't take it anymore, okay?"
-    my "And I need more. I need more of you. I need you to fuck me until I can't take it anymore, okay?"
+    my "Ve daha fazlasına ihtiyacım var. Senden daha fazlasına ihtiyacım var. Artık dayanamayacağım kadar beni becermeni istiyorum, tamam mı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:418
 translate turkish sm1cs_my006_hotel_room_e9d03a51:
 
     # my "Can you do that for me?"
-    my "Can you do that for me?"
+    my "Bunu benim için yapabilir misin?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:422
 translate turkish sm1cs_my006_hotel_room_ddd26eb4:
 
     # mc "I can do that, Mom."
-    mc "I can do that, Mom."
+    mc "Bunu yapabilirim, anne."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:424
 translate turkish sm1cs_my006_hotel_room_d60eef76:
 
     # mc "I can do that, Melony."
-    mc "I can do that, Melony."
+    mc "Bunu yapabilirim, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:427
 translate turkish sm1cs_my006_hotel_room_8ef041c9_1:
 
     # my "Good boy."
-    my "Good boy."
+    my "İyi çocuk."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:428
 translate turkish sm1cs_my006_hotel_room_187645cb:
 
     # my "Now, up!"
-    my "Now, up!"
+    my "Şimdi, kalk!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:431
 translate turkish sm1cs_my006_hotel_room_47f0ea46:
 
     # mc "Wha..."
-    mc "Wha..."
+    mc "Ne..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:433
 translate turkish sm1cs_my006_hotel_room_501d574b:
 
     # my "We're switching it up!"
-    my "We're switching it up!"
+    my "Pozisyonu değiştiriyoruz!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:436
 translate turkish sm1cs_my006_hotel_room_75942916:
 
     # mct "Goddamn..."
-    mct "Goddamn..."
+    mct "Lanet olsun..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:439
 translate turkish sm1cs_my006_hotel_room_4bd4fa4f:
 
     # my "Because I've always been a fan of doggy style."
-    my "Because I've always been a fan of doggy style."
+    my "Çünkü her zaman köpek stili pozisyonunun hayranı olmuşumdur."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:440
 translate turkish sm1cs_my006_hotel_room_a0ae41f9:
 
     # my "I personally think it's the best way to be fucked."
-    my "I personally think it's the best way to be fucked."
+    my "Şahsen bunun becerilmenin en iyi yolu olduğunu düşünüyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:442
 translate turkish sm1cs_my006_hotel_room_2485f494:
 
     # mc "I..."
-    mc "I..."
+    mc "Ben..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:445
 translate turkish sm1cs_my006_hotel_room_b74eae0d:
 
     # my "Hmmm? Cat got your tongue? A little pussy on your mind, [mcname]?"
-    my "Hmmm? Cat got your tongue? A little pussy on your mind, [mcname]?"
+    my "Hmmm? Dilin mi tutuldu? Aklında biraz am mı var, [mcname]?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:447
 translate turkish sm1cs_my006_hotel_room_2573b7b9:
 
     # mc "I... I..."
-    mc "I... I..."
+    mc "Ben... Ben..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:450
 translate turkish sm1cs_my006_hotel_room_ff633d6e:
 
     # my "Well come over here and get it off your mind, and onto your dick!"
-    my "Well come over here and get it off your mind, and onto your dick!"
+    my "O halde buraya gel ve onu aklından çıkar, aletine tak!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:452
 translate turkish sm1cs_my006_hotel_room_c49b1fb9:
 
     # mc "All right."
-    mc "All right."
+    mc "Peki."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:455
 translate turkish sm1cs_my006_hotel_room_15ad8d08:
 
     # my "Mmmm, taking your sweet time, are you?"
-    my "Mmmm, taking your sweet time, are you?"
+    my "Mmmm, acele etmiyorsun, öyle mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:458
 translate turkish sm1cs_my006_hotel_room_4339e553:
 
     # mc "If memory serves, wasn't it just you who was begging me to go until you came?"
-    mc "If memory serves, wasn't it just you who was begging me to go until you came?"
+    mc "Eğer hafızam beni yanıltmıyorsa, boşalana kadar devam etmem için yalvaran sen değil miydin?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:459
 translate turkish sm1cs_my006_hotel_room_f4bfcab7:
 
     # mc "Maybe, I want to tease you a little bit?"
-    mc "Maybe, I want to tease you a little bit?"
+    mc "Belki seni biraz kızdırmak istiyorum?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:462
 translate turkish sm1cs_my006_hotel_room_b6c49741:
@@ -1028,25 +1028,25 @@ translate turkish sm1cs_my006_hotel_room_b6c49741:
 translate turkish sm1cs_my006_hotel_room_7f28d349:
 
     # mc "What do you think about that, Mom?"
-    mc "What do you think about that, Mom?"
+    mc "Bu konuda ne düşünüyorsun, anne?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:467
 translate turkish sm1cs_my006_hotel_room_0c7a4a46:
 
     # mc "What do you think about that, Melony?"
-    mc "What do you think about that, Melony?"
+    mc "Bu konuda ne düşünüyorsun, Melony?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:468
 translate turkish sm1cs_my006_hotel_room_3b3ac460:
 
     # my "I think I'd rather-"
-    my "I think I'd rather-"
+    my "Sanırım tercih ederim-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:471
 translate turkish sm1cs_my006_hotel_room_845c4c57:
 
     # mc "What was that?"
-    mc "What was that?"
+    mc "Bu neydi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:473
 translate turkish sm1cs_my006_hotel_room_6ddc82ca:
@@ -1058,7 +1058,7 @@ translate turkish sm1cs_my006_hotel_room_6ddc82ca:
 translate turkish sm1cs_my006_hotel_room_97fc20fc:
 
     # mc "You like the feeling of my cock on your pussy, don't you?"
-    mc "You like the feeling of my cock on your pussy, don't you?"
+    mc "Aletimin amına değmesi hoşuna gidiyor, değil mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:477
 translate turkish sm1cs_my006_hotel_room_fc645303_1:
@@ -1070,25 +1070,25 @@ translate turkish sm1cs_my006_hotel_room_fc645303_1:
 translate turkish sm1cs_my006_hotel_room_03b29127:
 
     # mc "That makes you a dirty, dirty girl, doesn't it?"
-    mc "That makes you a dirty, dirty girl, doesn't it?"
+    mc "Bu seni kirli, kirli bir kız yapıyor, değil mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:482
 translate turkish sm1cs_my006_hotel_room_f4251614:
 
     # my "Mmmmm... maybe..."
-    my "Mmmmm... maybe..."
+    my "Mmmmm... belki..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:485
 translate turkish sm1cs_my006_hotel_room_93c7349a:
 
     # mc "Well, fortunately for you..."
-    mc "Well, fortunately for you..."
+    mc "Şey, senin için şans eseri..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:486
 translate turkish sm1cs_my006_hotel_room_f8878d98:
 
     # mc "I like dirty, dirty girls."
-    mc "I like dirty, dirty girls."
+    mc "Kirli, kirli kızları severim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:489
 translate turkish sm1cs_my006_hotel_room_3cb10c66:
@@ -1118,7 +1118,7 @@ translate turkish sm1cs_my006_hotel_room_a95f39ba:
 translate turkish sm1cs_my006_hotel_room_7e723529:
 
     # my "Oh, GOD, fuck!"
-    my "Oh, GOD, fuck!"
+    my "Oh, TANRIM, siktir!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:501
 translate turkish sm1cs_my006_hotel_room_9c7edfbf:
@@ -2348,27 +2348,27 @@ translate turkish sm1cs_my006_at_studio_ab13f1db:
 translate turkish sm1cs_my006_at_studio_53082042:
 
     # mct "But, at least the sex is pretty fucking awesome!"
-    mct "But, at least the sex is pretty fucking awesome!"
+    mct "Ama en azından seks çok harika!"
 
 translate turkish strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:776
     old "Next morning"
-    new "Next morning"
+    new "Ertesi sabah"
 
     # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:905
     old "Back at the studio"
-    new "Back at the studio"
+    new "Stüdyoya geri dönüş"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:545
 translate turkish sm1cs_my006_hotel_room_edc09e20:
 
     # mct "Melony's ass is amazing... and her pussy, fucking wow."
-    mct "Melony's ass is amazing... and her pussy, fucking wow."
+    mct "Melony'nin kıçı muhteşem... ve amı, lanet olsun vay be."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:811
 translate turkish sm1cs_my006_next_morning_02f10a8a:
 
     # my "It's fine, it's not like you have anyone who's going to miss you in bed."
-    my "It's fine, it's not like you have anyone who's going to miss you in bed."
+    my "Sorun değil, yatakta seni özleyecek biri olduğu gibi bir durum yok."
 
