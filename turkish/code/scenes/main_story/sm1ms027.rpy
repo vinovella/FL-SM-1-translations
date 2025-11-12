@@ -2,13 +2,13 @@
 translate turkish sm1ms027_5d79a831:
 
     # sy "[mcname]!{w} Wakeup!"
-    sy "[mcname]!{w} Wakeup!"
+    sy "[mcname]!{w} Uyan!"
 
 # game/code/scenes/main_story/sm1ms027.rpy:14
 translate turkish sm1ms027_ccd084af:
 
     # sy "Wakie wakie wakie wakie!"
-    sy "Wakie wakie wakie wakie!"
+    sy "Uyan uyan uyan uyan!"
 
 # game/code/scenes/main_story/sm1ms027.rpy:17
 translate turkish sm1ms027_1122a788:
@@ -20,31 +20,31 @@ translate turkish sm1ms027_1122a788:
 translate turkish sm1ms027_8f370dad:
 
     # mc "Stacy what is wrong? Is the studio on fire?"
-    mc "Stacy what is wrong? Is the studio on fire?"
+    mc "Stacy ne oldu? Stüdyo mu yanıyor?"
 
 # game/code/scenes/main_story/sm1ms027.rpy:21
 translate turkish sm1ms027_3897e05c:
 
     # sy "No! Better! I just finished it!"
-    sy "No! Better! I just finished it!"
+    sy "Hayır! Daha iyi! Az önce bitirdim!"
 
 # game/code/scenes/main_story/sm1ms027.rpy:25
 translate turkish sm1ms027_2a1dd802:
 
     # mc "Finished what...?"
-    mc "Finished what...?"
+    mc "Neyi bitirdin...?"
 
 # game/code/scenes/main_story/sm1ms027.rpy:28
 translate turkish sm1ms027_6d32d816:
 
     # sy "The site! The landing page, the trailer, the subscription system, even the sexy little launch button."
-    sy "The site! The landing page, the trailer, the subscription system, even the sexy little launch button."
+    sy "Siteyi! Açılış sayfası, tanıtım videosu, abonelik sistemi, hatta seksi küçük başlatma düğmesi."
 
 # game/code/scenes/main_story/sm1ms027.rpy:29
 translate turkish sm1ms027_a70499ec:
 
     # sy "It's all done."
-    sy "It's all done."
+    sy "Hepsi bitti."
 
 # game/code/scenes/main_story/sm1ms027.rpy:32
 translate turkish sm1ms027_bbd5f4b4:
