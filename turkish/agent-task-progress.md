@@ -9,9 +9,9 @@ turkish\code\scenes\character_scenes\dc\sm1cs-dc010.rpy (done)
 turkish\code\scenes\character_scenes\dc\sm1cs-dc010i.rpy (done)
 turkish\code\scenes\character_scenes\mas\sm1cs-mas004.rpy (done)
 turkish\code\scenes\character_scenes\mas\sm1cs-mas004i.rpy (done)
-turkish\code\scenes\character_scenes\mes\sm1cs-mes-r1.rpy  (71%)
-turkish\code\scenes\character_scenes\mes\sm1cs-mes-r1i.rpy
-turkish\code\scenes\character_scenes\my\sm1cs-my005.rpy
+turkish\code\scenes\character_scenes\mes\sm1cs-mes-r1.rpy (done)
+turkish\code\scenes\character_scenes\mes\sm1cs-mes-r1i.rpy (done)
+turkish\code\scenes\character_scenes\my\sm1cs-my005.rpy (15%)
 turkish\code\scenes\character_scenes\my\sm1cs-my005i.rpy
 turkish\code\scenes\character_scenes\my\sm1cs-my006.rpy
 turkish\code\scenes\cross_characters\sm1xc_ns_tl_001.rpy

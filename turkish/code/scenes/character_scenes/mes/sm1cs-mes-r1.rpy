@@ -272,7 +272,7 @@ translate turkish sm1cs_mes_r1_continue_eac479f0:
 translate turkish sm1cs_mes_r1_continue_dbb3a67f:
 
     # mes "Please..."
-    mes "Please..."
+    mes "Lütfen..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:139
 translate turkish sm1cs_mes_r1_continue_fba59461:
@@ -374,7 +374,7 @@ translate turkish sm1cs_mes_r1_gentle_9254f14c:
 translate turkish sm1cs_mes_r1_gentle_5c3c13ab:
 
     # mes "Please... Please can I cum for you?"
-    mes "Please... Please can I cum for you?"
+    mes "Lütfen... Lütfen senin için boşalabilir miyim?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:175
 translate turkish sm1cs_mes_r1_gentle_5ef30cea:
@@ -458,7 +458,7 @@ translate turkish sm1cs_mes_r1_rough_63a3d7ec:
 translate turkish sm1cs_mes_r1_rough_70e7de7c:
 
     # mc "Not yet."
-    mc "Not yet."
+    mc "Henüz değil."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:206
 translate turkish sm1cs_mes_r1_rough_e74ac855:
@@ -634,7 +634,7 @@ rsun...tam orası...devam et."
 translate turkish sm1cs_mes_r1_continue_2_5c3c13ab:
 
     # mes "Please... Please can I cum for you?"
-    mes "Please... Please can I cum for you?"
+    mes "Lütfen... Lütfen senin için boşalabilir miyim?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:268
 translate turkish sm1cs_mes_r1_continue_2_bdb47ec0:
@@ -694,7 +694,7 @@ translate turkish sm1cs_mes_r1_continue_2_1548728f:
 translate turkish sm1cs_mes_r1_continue_2_70e7de7c:
 
     # mc "Not yet."
-    mc "Not yet."
+    mc "Henüz değil."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:286
 translate turkish sm1cs_mes_r1_continue_2_6e696c08:
@@ -1052,79 +1052,79 @@ translate turkish sm1cs_mes_r1_watersports_d1cb12b9:
 translate turkish sm1cs_mes_r1_watersports_dbb3a67f:
 
     # mes "Please..."
-    mes "Please..."
+    mes "Lütfen..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:444
 translate turkish sm1cs_mes_r1_watersports_31fdf41e:
 
     # mes "*moaning* It's so warm..."
-    mes "*moaning* It's so warm..."
+    mes "*inleyerek* Çok sıcak..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:445
 translate turkish sm1cs_mes_r1_watersports_f173725a:
 
     # mc "That's my good girl. You look so fucking hot being my little piss slut."
-    mc "That's my good girl. You look so fucking hot being my little piss slut."
+    mc "İşte benim iyi kızım. Benim küçük sidik sürtüğüm olarak çok ateşli görünüyorsun."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:446
 translate turkish sm1cs_mes_r1_watersports_a1cf7eeb:
 
     # mes "*swallowing, moaning*"
-    mes "*swallowing, moaning*"
+    mes "*yutarak, inleyerek*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:448
 translate turkish sm1cs_mes_r1_watersports_7ac2347e:
 
     # mc "Such a perfect, dirty girl for me."
-    mc "Such a perfect, dirty girl for me."
+    mc "Benim için çok mükemmel, kirli bir kızsın."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:452
 translate turkish sm1cs_mes_r1_watersports_d2864618:
 
     # mes "*smiling* Thank you..."
-    mes "*smiling* Thank you..."
+    mes "*gülümseyerek* Teşekkür ederim..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:454
 translate turkish sm1cs_mes_r1_watersports_d02df581:
 
     # mes "I love doing this stuff with you, [mcname]."
-    mes "I love doing this stuff with you, [mcname]."
+    mes "Seninle bu şeyleri yapmayı seviyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:457
 translate turkish sm1cs_mes_r1_watersports_40f3c69c:
 
     # mes "Did that turn you on?"
-    mes "Did that turn you on?"
+    mes "Bu seni tahrik etti mi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:458
 translate turkish sm1cs_mes_r1_watersports_e27f40d9:
 
     # mes "Watching me be your dirty piss slut?"
-    mes "Watching me be your dirty piss slut?"
+    mes "Benim senin kirli sidik sürtüğün olmamı izlemek?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:460
 translate turkish sm1cs_mes_r1_watersports_d9ac1018:
 
     # mc "You have no idea."
-    mc "You have no idea."
+    mc "Hiçbir fikrin yok."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:461
 translate turkish sm1cs_mes_r1_watersports_c7abe981:
 
     # mc "Stand up. I'm not done with you yet."
-    mc "Stand up. I'm not done with you yet."
+    mc "Ayağa kalk. Seninle daha işim bitmedi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:463
 translate turkish sm1cs_mes_r1_watersports_568a23fc:
 
     # mes "So rough."
-    mes "So rough."
+    mes "Çok sert."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:464
 translate turkish sm1cs_mes_r1_watersports_20a1aa43:
 
     # mc "I know you love it."
-    mc "I know you love it."
+    mc "Bunu sevdiğini biliyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:465
 translate turkish sm1cs_mes_r1_watersports_825106da:
@@ -1136,85 +1136,85 @@ translate turkish sm1cs_mes_r1_watersports_825106da:
 translate turkish sm1cs_mes_r1_watersports_40bf961d:
 
     # mes "Fuck me, [mcname]... Please fuck me again..."
-    mes "Fuck me, [mcname]... Please fuck me again..."
+    mes "Becer beni, [mcname]... Lütfen beni tekrar becer..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:469
 translate turkish sm1cs_mes_r1_watersports_05cda036:
 
     # mes "Oh fuck! Yes! Make me take it!"
-    mes "Oh fuck! Yes! Make me take it!"
+    mes "Lanet olsun! Evet! Bana al dedirt!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:472
 translate turkish sm1cs_mes_r1_watersports_5bcdfe82:
 
     # mc "You're so perfect. So fucking perfect for me."
-    mc "You're so perfect. So fucking perfect for me."
+    mc "Çok mükemmelsin. Benim için çok lanet olası mükemmelsin."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:473
 translate turkish sm1cs_mes_r1_watersports_7a7aa73d:
 
     # mc "No one else gets to see you like this."
-    mc "No one else gets to see you like this."
+    mc "Kimse seni böyle göremez."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:475
 translate turkish sm1cs_mes_r1_watersports_e29ac21e:
 
     # mes "Only for you... Only ever for you..."
-    mes "Only for you... Only ever for you..."
+    mes "Sadece senin için... Sadece her zaman senin için..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:476
 translate turkish sm1cs_mes_r1_watersports_e1d4211d:
 
     # mes "I'm yours completely..."
-    mes "I'm yours completely..."
+    mes "Tamamen seninim..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:479
 translate turkish sm1cs_mes_r1_watersports_a3262709:
 
     # mc "You love being my piss-drinking slut, don't you?"
-    mc "You love being my piss-drinking slut, don't you?"
+    mc "Benim sidik içen sürtüğüm olmayı seviyorsun, değil mi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:480
 translate turkish sm1cs_mes_r1_watersports_193adbce:
 
     # mc "My personal fucking toilet?"
-    mc "My personal fucking toilet?"
+    mc "Benim kişisel lanet olası tuvaletim?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:482
 translate turkish sm1cs_mes_r1_watersports_9ff184ab:
 
     # mes "Yes! God yes! I'm your toilet! Your urinal!"
-    mes "Yes! God yes! I'm your toilet! Your urinal!"
+    mes "Evet! Tanrım evet! Senin tuvaletinm! Senin pisuarınım!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:483
 translate turkish sm1cs_mes_r1_watersports_80445f53:
 
     # mes "I'll drink your piss anytime you want!"
-    mes "I'll drink your piss anytime you want!"
+    mes "İstediğin zaman sidiğini içeceğim!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:493
 translate turkish sm1cs_mes_r1_watersports_928d436a:
 
     # mes "Don't stop... Keep going."
-    mes "Don't stop... Keep going."
+    mes "Durma... Devam et."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:494
 translate turkish sm1cs_mes_r1_watersports_6b93da5f:
 
     # mc "Fuck, Min... I'm going to cum..."
-    mc "Fuck, Min... I'm going to cum..."
+    mc "Lanet olsun, Min... Boşalacağım..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:495
 translate turkish sm1cs_mes_r1_watersports_9259e840:
 
     # mes "*raw, breathless* Yes! Give it to me!"
-    mes "*raw, breathless* Yes! Give it to me!"
+    mes "*çığ gibi, nefessiz* Evet! Ver onu bana!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:496
 translate turkish sm1cs_mes_r1_watersports_650214f7:
 
     # mes "Cum wherever you want!"
-    mes "Cum wherever you want!"
+    mes "İstediğin yere boşal!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:501
 translate turkish sm1cs_mes_r1_watersports_c28ffd80:
@@ -1262,7 +1262,7 @@ translate turkish sm1cs_mes_r1_watersports_0290aab3:
 translate turkish sm1cs_mes_r1_watersports_1eb2532b:
 
     # mes "Holy shit..."
-    mes "Holy shit..."
+    mes "Lanet olsun..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:529
 translate turkish sm1cs_mes_r1_watersports_91d8a70c:
@@ -1442,7 +1442,7 @@ translate turkish sm1cs_mes_r1_continue_3_c3c9cea8:
 translate turkish sm1cs_mes_r1_continue_3_1650ea57:
 
     # mc "*groaning* Fuck yes..."
-    mc "*groaning* Fuck yes..."
+    mc "*inleyerek* Lanet olsun evet..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:625
 translate turkish sm1cs_mes_r1_continue_3_bf3e0b53:
