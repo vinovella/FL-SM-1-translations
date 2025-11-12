@@ -8,43 +8,43 @@ translate turkish sm1cs_bg005i_896c806f:
 translate turkish sm1cs_bg005i_df153685:
 
     # mc "Hey. Got a minute?"
-    mc "Hey. Got a minute?"
+    mc "Hey. Bir dakikan var mı?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005i.rpy:10
 translate turkish sm1cs_bg005i_079719bf:
 
     # bg "I, uh... Yeah. Sure."
-    bg "I, uh... Yeah. Sure."
+    bg "Ben, uh... Evet. Tabii."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005i.rpy:13
 translate turkish sm1cs_bg005i_7c247efa:
 
     # mc "Good. Because I think we need to talk."
-    mc "Good. Because I think we need to talk."
+    mc "Güzel. Çünkü sanırım konuşmamız gerekiyor."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005i.rpy:14
 translate turkish sm1cs_bg005i_1282c4df:
 
     # bg "About...?"
-    bg "About...?"
+    bg "Neyle ilgili...?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005i.rpy:15
 translate turkish sm1cs_bg005i_36b811df:
 
     # mc "About the other night."
-    mc "About the other night."
+    mc "Geçen gece hakkında."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005i.rpy:18
 translate turkish sm1cs_bg005i_ddebc9bd:
 
     # bg "Oh. That. Yeah, the photos are going to be great, I think Kanya will—"
-    bg "Oh. That. Yeah, the photos are going to be great, I think Kanya will—"
+    bg "Oh. O. Evet, fotoğraflar harika olacak, sanırım Kanya—"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005i.rpy:19
 translate turkish sm1cs_bg005i_778d882f:
 
     # mc "What photos? Amore, we were alone."
-    mc "What photos? Amore, we were alone."
+    mc "Ne fotoğrafları? Amore, yalnızdık."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005i.rpy:20
 translate turkish sm1cs_bg005i_2b06504c:
@@ -56,7 +56,7 @@ translate turkish sm1cs_bg005i_2b06504c:
 translate turkish sm1cs_bg005i_702cddbf:
 
     # mc "I'm talking about what happened after."
-    mc "I'm talking about what happened after."
+    mc "Sonra olanlardan bahsediyorum."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005i.rpy:22
 translate turkish sm1cs_bg005i_24ff3a75:
