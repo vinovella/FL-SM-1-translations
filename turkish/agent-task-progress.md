@@ -18,7 +18,7 @@ turkish\code\scenes\cross_characters\sm1xc_ns_tl_001.rpy (done)
 turkish\code\scenes\cross_characters\sm1xc_ns_tl_001i.rpy (done)
 turkish\code\scenes\it_office\am\sm1cs-am008.rpy (done)
 turkish\code\scenes\main_story\sm1ms027.rpy (done)
-turkish\code\scenes\main_story\sm1ms028.rpy
+turkish\code\scenes\main_story\sm1ms028.rpy (done)
 turkish\code\scenes\main_story\sm1ms029_1.rpy
 turkish\code\scenes\main_story\sm1ms029_2.rpy
 turkish\code\scenes\main_story\sm1ms029_3.rpy
