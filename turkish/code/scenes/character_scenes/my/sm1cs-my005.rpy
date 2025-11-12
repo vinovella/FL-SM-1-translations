@@ -380,37 +380,37 @@ translate turkish sm1cs_my005_later_1eead2cc:
 translate turkish sm1cs_my005_later_781a07be:
 
     # my "Well, we know how mischievous Stacy can be."
-    my "Well, we know how mischievous Stacy can be."
+    my "Şey, Stacy'nin ne kadar yaramaz olabileceğini biliyoruz."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:184
 translate turkish sm1cs_my005_later_95c79610:
 
     # mc "Hahahahahaha! Yeah, you're right."
-    mc "Hahahahahaha! Yeah, you're right."
+    mc "Hahahahahaha! Evet, haklısın."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:187
 translate turkish sm1cs_my005_later_1d267f1c:
 
     # my "Speaking of, where is she tonight?"
-    my "Speaking of, where is she tonight?"
+    my "Sözü açılmışken, bu gece nerede?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:189
 translate turkish sm1cs_my005_later_373d5a55:
 
     # mc "She had to go out and do... something."
-    mc "She had to go out and do... something."
+    mc "Dışarı çıkıp... bir şey yapmak zorundaydı."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:192
 translate turkish sm1cs_my005_later_bb079b83:
 
     # my "Uh huh. \"Something\"."
-    my "Uh huh. \"Something\"."
+    my "Uh huh. \"Bir şey\"."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:194
 translate turkish sm1cs_my005_later_01e28313:
 
     # mc "You're doing the quotes thing again!"
-    mc "You're doing the quotes thing again!"
+    mc "Yine tırnak işareti olayını yapıyorsun!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:197
 translate turkish sm1cs_my005_later_8806ef39:
@@ -422,25 +422,25 @@ translate turkish sm1cs_my005_later_8806ef39:
 translate turkish sm1cs_my005_later_02be946d:
 
     # my "Have you got the movie queued up?"
-    my "Have you got the movie queued up?"
+    my "Filmi sıraya koydun mu?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:202
 translate turkish sm1cs_my005_later_c7fa1fd5:
 
     # mc "I do!"
-    mc "I do!"
+    mc "Evet!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:205
 translate turkish sm1cs_my005_later_626691c2:
 
     # my "Then what are we waiting for?"
-    my "Then what are we waiting for?"
+    my "O zaman ne bekliyoruz?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:207
 translate turkish sm1cs_my005_later_cb630b46:
 
     # mc "Nothing, nothing at all."
-    mc "Nothing, nothing at all."
+    mc "Hiçbir şey, hiçbir şey."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:209
 translate turkish sm1cs_my005_later_a1f184e9:
@@ -464,37 +464,37 @@ translate turkish sm1cs_my005_half_movie_3f871f46:
 translate turkish sm1cs_my005_half_movie_561e661f:
 
     # my "Can you do your dear old mother a favor?"
-    my "Can you do your dear old mother a favor?"
+    my "Sevgili yaşlı annene bir iyilik yapabilir misin?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:233
 translate turkish sm1cs_my005_half_movie_7e6843b2:
 
     # my "Can you do me a favor?"
-    my "Can you do me a favor?"
+    my "Bana bir iyilik yapabilir misin?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:235
 translate turkish sm1cs_my005_half_movie_52e4f359:
 
     # mc "Sure!"
-    mc "Sure!"
+    mc "Tabii!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:238
 translate turkish sm1cs_my005_half_movie_34b39063:
 
     # my "Can you give me a little foot massage?"
-    my "Can you give me a little foot massage?"
+    my "Bana küçük bir ayak masajı yapabilir misin?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:240
 translate turkish sm1cs_my005_half_movie_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "Gerçekten mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:243
 translate turkish sm1cs_my005_half_movie_80ee10da:
 
     # my "Please, [mcname]."
-    my "Please, [mcname]."
+    my "Lütfen, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:245
 translate turkish sm1cs_my005_half_movie_24788808:
@@ -518,43 +518,43 @@ translate turkish sm1cs_my005_half_movie_5e827f17:
 translate turkish sm1cs_my005_half_movie_af9645bd:
 
     # mct "Honestly, this is the least I could do after the whole swimsuit debacle."
-    mct "Honestly, this is the least I could do after the whole swimsuit debacle."
+    mct "Dürüst olmak gerekirse, mayo fiyaskosundan sonra yapabileceğim en az şey bu."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:255
 translate turkish sm1cs_my005_half_movie_2018c845:
 
     # mct "Besides, it'll probably score me some brownie points."
-    mct "Besides, it'll probably score me some brownie points."
+    mct "Ayrıca, bu muhtemelen bana biraz puan kazandıracak."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:258
 translate turkish sm1cs_my005_half_movie_a4644f26:
 
     # mct "Oh yeah. This is definitely going to score me some brownie points."
-    mct "Oh yeah. This is definitely going to score me some brownie points."
+    mct "Oh evet. Bu kesinlikle bana biraz puan kazandıracak."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:259
 translate turkish sm1cs_my005_half_movie_a874adca:
 
     # mct "She's going to melt into a puddle! Time to ramp up my massage game."
-    mct "She's going to melt into a puddle! Time to ramp up my massage game."
+    mct "Bir su birikintisine dönüşecek! Masaj oyunumu yükseltme zamanı."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:262
 translate turkish sm1cs_my005_half_movie_63f69750:
 
     # my "Mmmmm... that feels wonderful, [mcname]."
-    my "Mmmmm... that feels wonderful, [mcname]."
+    my "Mmmmm... bu harika hissettiriyor, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:265
 translate turkish sm1cs_my005_half_movie_12c18671:
 
     # mc "Only the best for my Mom."
-    mc "Only the best for my Mom."
+    mc "Annem için sadece en iyisi."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:267
 translate turkish sm1cs_my005_half_movie_44240522:
 
     # mc "Only the best for you, Melony."
-    mc "Only the best for you, Melony."
+    mc "Senin için sadece en iyisi, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:270
 translate turkish sm1cs_my005_half_movie_16cfa384:
@@ -566,19 +566,19 @@ translate turkish sm1cs_my005_half_movie_16cfa384:
 translate turkish sm1cs_my005_half_movie_cda28b2a:
 
     # mct "All right, this is good! I've got a new secret weapon."
-    mct "All right, this is good! I've got a new secret weapon."
+    mct "Tamam, bu iyi! Yeni bir gizli silahım var."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:275
 translate turkish sm1cs_my005_half_movie_1fc80eb2:
 
     # mct "Who knew Mom loved foot massages?"
-    mct "Who knew Mom loved foot massages?"
+    mct "Annemin ayak masajını sevdiğini kim bilebilirdi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:277
 translate turkish sm1cs_my005_half_movie_f4d5cfaf:
 
     # mct "Who knew Melony liked foot massages?"
-    mct "Who knew Melony liked foot massages?"
+    mct "Melony'nin ayak masajını sevdiğini kim bilebilirdi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:279
 translate turkish sm1cs_my005_half_movie_b6c49741:
@@ -590,7 +590,7 @@ translate turkish sm1cs_my005_half_movie_b6c49741:
 translate turkish sm1cs_my005_half_movie_f7c78371:
 
     # mct "Man, she really likes a good foot massage."
-    mct "Man, she really likes a good foot massage."
+    mct "Dostum, gerçekten iyi bir ayak masajını seviyor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:283
 translate turkish sm1cs_my005_half_movie_af41823f:
@@ -602,25 +602,25 @@ translate turkish sm1cs_my005_half_movie_af41823f:
 translate turkish sm1cs_my005_half_movie_8bc73477:
 
     # "TV" "I've loved you from the second I met you!"
-    "TV" "I've loved you from the second I met you!"
+    "TV" "Seninle tanıştığım andan beri seni seviyorum!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:287
 translate turkish sm1cs_my005_half_movie_01f6e561:
 
     # mct "Oh, sounds like things are getting interesting in the movie."
-    mct "Oh, sounds like things are getting interesting in the movie."
+    mct "Oh, görünüşe göre filmde işler ilginçleşiyor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:289
 translate turkish sm1cs_my005_half_movie_4459fa98:
 
     # mct "I feel like I've missed most of this movie. But this has to be the part where the couple gets together."
-    mct "I feel like I've missed most of this movie. But this has to be the part where the couple gets together."
+    mct "Bu filmin çoğunu kaçırmış gibi hissediyorum. Ama bu, çiftin bir araya geldiği kısım olmalı."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:290
 translate turkish sm1cs_my005_half_movie_93fd7b9b:
 
     # "TV" "Kiss me like you've never kissed me before."
-    "TV" "Kiss me like you've never kissed me before."
+    "TV" "Beni daha önce hiç öpmediğin gibi öp."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:292
 translate turkish sm1cs_my005_half_movie_450753ae:
@@ -632,61 +632,61 @@ translate turkish sm1cs_my005_half_movie_450753ae:
 translate turkish sm1cs_my005_half_movie_8ae2d869:
 
     # mct "And now, they'll fade to black, and-"
-    mct "And now, they'll fade to black, and-"
+    mct "Ve şimdi, karartmaya geçecekler, ve-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:296
 translate turkish sm1cs_my005_half_movie_0bf35fa5:
 
     # "TV" "I need to feel you in me."
-    "TV" "I need to feel you in me."
+    "TV" "Seni içimde hissetmem gerekiyor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:298
 translate turkish sm1cs_my005_half_movie_061faddc:
 
     # mct "Wait, what did she just say?"
-    mct "Wait, what did she just say?"
+    mct "Bekle, az önce ne dedi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:299
 translate turkish sm1cs_my005_half_movie_fb3aa7c8:
 
     # "TV" "It would be my pleasure."
-    "TV" "It would be my pleasure."
+    "TV" "Bu benim zevkim olur."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:304
 translate turkish sm1cs_my005_half_movie_82e04c20:
 
     # mct "Wait, how the fuck did they get undressed so fast?"
-    mct "Wait, how the fuck did they get undressed so fast?"
+    mct "Bekle, nasıl lanet olası bu kadar hızlı soyundular?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:305
 translate turkish sm1cs_my005_half_movie_d4d00c15:
 
     # "TV" "Take me! Take me as your lover, forever!"
-    "TV" "Take me! Take me as your lover, forever!"
+    "TV" "Al beni! Beni sonsuza dek sevgilin olarak al!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:308
 translate turkish sm1cs_my005_half_movie_b401c8cf:
 
     # mct "There's no way they're going to actually fuck-"
-    mct "There's no way they're going to actually fuck-"
+    mct "Gerçekten sikişeceklerinin hiçbir yolu yok-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:309
 translate turkish sm1cs_my005_half_movie_632ff841:
 
     # mct "Holy shit!"
-    mct "Holy shit!"
+    mct "Lanet olsun!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:311
 translate turkish sm1cs_my005_half_movie_506dcb09:
 
     # mct "They're actually fucking. That's real, live sex in a porno."
-    mct "They're actually fucking. That's real, live sex in a porno."
+    mct "Gerçekten sikişiyorlar. Bu bir pornoda gerçek, canlı seks."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:312
 translate turkish sm1cs_my005_half_movie_77431ad1:
 
     # mct "And it's kind of hot..."
-    mct "And it's kind of hot..."
+    mct "Ve bir tür ateşli..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:314
 translate turkish sm1cs_my005_half_movie_70a23111:
@@ -698,37 +698,37 @@ translate turkish sm1cs_my005_half_movie_70a23111:
 translate turkish sm1cs_my005_half_movie_0170577f:
 
     # mct "Wow... I wasn't expecting this movie to be so... spicy."
-    mct "Wow... I wasn't expecting this movie to be so... spicy."
+    mct "Vay canına... Bu filmin bu kadar... baharatlı olmasını beklemiyordum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:319
 translate turkish sm1cs_my005_half_movie_4514ccb5:
 
     # mct "And this chick is really into it. And she's got great tits."
-    mct "And this chick is really into it. And she's got great tits."
+    mct "Ve bu piliç gerçekten buna bayılıyor. Ve harika göğüsleri var."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:320
 translate turkish sm1cs_my005_half_movie_cc7a1264:
 
     # mct "Great, big, bouncy tits... kind of like-"
-    mct "Great, big, bouncy tits... kind of like-"
+    mct "Harika, büyük, zıplayan göğüsler... biraz şuna benziyor-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:323
 translate turkish sm1cs_my005_half_movie_c2cfc262:
 
     # mct "Oh no! Shit, I'm getting a boner!"
-    mct "Oh no! Shit, I'm getting a boner!"
+    mct "Oh hayır! Lanet olsun, ereksiyona giriyorum!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:326
 translate turkish sm1cs_my005_half_movie_83a5afe0:
 
     # mct "And Mom's feet are right on my dick! Fuck! Fuck, fuck, fuck!"
-    mct "And Mom's feet are right on my dick! Fuck! Fuck, fuck, fuck!"
+    mct "Ve annemin ayakları tam aletimin üzerinde! Lanet olsun! Lanet, lanet, lanet!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:328
 translate turkish sm1cs_my005_half_movie_1fa70604:
 
     # mct "And Melony's feet are right on my dick! Shit! Shit, shit, shit!"
-    mct "And Melony's feet are right on my dick! Shit! Shit, shit, shit!"
+    mct "Ve Melony'nin ayakları tam aletimin üzerinde! Kahretsin! Kahretsin, kahretsin, kahretsin!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:331
 translate turkish sm1cs_my005_half_movie_b0d66757:
@@ -740,13 +740,13 @@ translate turkish sm1cs_my005_half_movie_b0d66757:
 translate turkish sm1cs_my005_half_movie_4c89329b:
 
     # mct "Oh God, what the hell do I do know?"
-    mct "Oh God, what the hell do I do know?"
+    mct "Tanrım, şimdi ne lanet olası yapayım?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:335
 translate turkish sm1cs_my005_half_movie_e3ac023f:
 
     # mct "Think, damnit think! Uhhhh, cows! Baseball. Anything other than-"
-    mct "Think, damnit think! Uhhhh, cows! Baseball. Anything other than-"
+    mct "Düşün, lanet olsun düşün! Uhhhh, inekler! Beyzbol. Başka herhangi bir şey-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:337
 translate turkish sm1cs_my005_half_movie_c25aaa78:
@@ -758,7 +758,7 @@ translate turkish sm1cs_my005_half_movie_c25aaa78:
 translate turkish sm1cs_my005_half_movie_be3c77cd:
 
     # "TV" "Oh, your cock fills me up perfectly! I love how it slams into my pussy so snugly!"
-    "TV" "Oh, your cock fills me up perfectly! I love how it slams into my pussy so snugly!"
+    "TV" "Oh, aletin beni mükemmel dolduruyor! Amıma ne kadar sıkıca çarptığını seviyorum!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:341
 translate turkish sm1cs_my005_half_movie_2fe41ad3:
@@ -770,7 +770,7 @@ translate turkish sm1cs_my005_half_movie_2fe41ad3:
 translate turkish sm1cs_my005_half_movie_5438d03b:
 
     # mct "This movie is doing me no favors."
-    mct "This movie is doing me no favors."
+    mct "Bu film bana hiçbir iyilik yapmıyor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:346
 translate turkish sm1cs_my005_half_movie_3fbad7bf:
@@ -782,13 +782,13 @@ translate turkish sm1cs_my005_half_movie_3fbad7bf:
 translate turkish sm1cs_my005_half_movie_7c090b2d:
 
     # mct "Maybe she hasn't noticed?"
-    mct "Maybe she hasn't noticed?"
+    mct "Belki fark etmemiştir?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:348
 translate turkish sm1cs_my005_half_movie_7e339a82:
 
     # mct "Maybe the foot massage is keeping her distracted enough."
-    mct "Maybe the foot massage is keeping her distracted enough."
+    mct "Belki ayak masajı onu yeterince dağıtıyordur."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:349
 translate turkish sm1cs_my005_half_movie_4def46b9:
