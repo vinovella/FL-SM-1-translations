@@ -812,49 +812,49 @@ translate turkish sm1cs_mas004_after_lunch_d7fe0636:
 translate turkish sm1cs_mas004_after_lunch_489fd622:
 
     # ms "Like a cold beer after a long... {w}hard... {w}day."
-    ms "Like a cold beer after a long... {w}hard... {w}day."
+    ms "Uzun bir... {w}zor... {w}günün ardından soğuk bir bira gibi."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:567
 translate turkish sm1cs_mas004_after_lunch_bb6d78a4:
 
     # ms "*softer* And honestly... I think we've both earned a little fun."
-    ms "*softer* And honestly... I think we've both earned a little fun."
+    ms "*daha yumuşak* Ve dürüst olmak gerekirse... Sanırım ikimiz de biraz eğlenceyi hak ettik."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:570
 translate turkish sm1cs_mas004_after_lunch_0b1a1093:
 
     # mc "I'm definitely on board with that plan."
-    mc "I'm definitely on board with that plan."
+    mc "Kesinlikle bu plana katılıyorum."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:574
 translate turkish sm1cs_mas004_after_lunch_662db774:
 
     # ms "Good."
-    ms "Good."
+    ms "Güzel."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:578
 translate turkish sm1cs_mas004_after_lunch_5f2920c6:
 
     # ms "Alright, delivery boy. Your new delivery is your clothes on my floor."
-    ms "Alright, delivery boy. Your new delivery is your clothes on my floor."
+    ms "Pekala, teslimatçı oğlan. Yeni teslimatın kıyafetlerinin benim yerde olması."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:585
 translate turkish sm1cs_mas004_after_lunch_5d692fce:
 
     # ms "*approving nod* Now that is a {i}brat{/i}."
-    ms "*approving nod* Now that is a {i}brat{/i}."
+    ms "*onaylayarak başını sallar* İşte bu bir {i}sosis{/i}."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:586
 translate turkish sm1cs_mas004_after_lunch_0bb9cad4:
 
     # ms "Let's see how good it tastes."
-    ms "Let's see how good it tastes."
+    ms "Bakalım tadı ne kadar güzel."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:592
 translate turkish sm1cs_mas004_after_lunch_6f336072:
 
     # mc "Your turn."
-    mc "Your turn."
+    mc "Senin sıran."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:596
 translate turkish sm1cs_mas004_after_lunch_e6026cd5:
@@ -866,61 +866,61 @@ translate turkish sm1cs_mas004_after_lunch_e6026cd5:
 translate turkish sm1cs_mas004_after_lunch_e9c875da:
 
     # ms "Not yet. I want to see if you're worth the effort first."
-    ms "Not yet. I want to see if you're worth the effort first."
+    ms "Henüz değil. Önce çabaya değer olup olmadığını görmek istiyorum."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:611
 translate turkish sm1cs_mas004_after_lunch_8bc58285:
 
     # ms "I've been thinking about this since you saw me at that sorority house."
-    ms "I've been thinking about this since you saw me at that sorority house."
+    ms "Beni o kız öğrenci evinde gördüğünden beri bunu düşünüyorum."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:614
 translate turkish sm1cs_mas004_after_lunch_8ab39cb8:
 
     # mct "The way she's looking at me...{w} It's strange."
-    mct "The way she's looking at me...{w} It's strange."
+    mct "Bana bakma şekli...{w} Garip."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:615
 translate turkish sm1cs_mas004_after_lunch_fa3b3207:
 
     # mct "I've never seen this side of Maya before."
-    mct "I've never seen this side of Maya before."
+    mct "Maya'nın bu tarafını daha önce hiç görmemiştim."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:627
 translate turkish sm1cs_mas004_after_lunch_6b42e654:
 
     # ms "You like that?"
-    ms "You like that?"
+    ms "Bunu beğendin mi?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:630
 translate turkish sm1cs_mas004_after_lunch_ded77cb7:
 
     # mc "Fuck yes."
-    mc "Fuck yes."
+    mc "Lanet olsun evet."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:632
 translate turkish sm1cs_mas004_after_lunch_1880f02f:
 
     # ms "Good. Then you'd better earn it."
-    ms "Good. Then you'd better earn it."
+    ms "Güzel. O zaman bunu hak etsen iyi olur."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:639
 translate turkish sm1cs_mas004_after_lunch_1b79e1de:
 
     # ms "*eyes widen slightly* Oh? Taking control, are we? Let's see what you've got."
-    ms "*eyes widen slightly* Oh? Taking control, are we? Let's see what you've got."
+    ms "*gözleri hafifçe genişler* Oh? Kontrolü ele alıyor musun? Bakalım neyiniz varmış."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:641
 translate turkish sm1cs_mas004_after_lunch_ab5128fe:
 
     # mct "So she wants a challenge..."
-    mct "So she wants a challenge..."
+    mct "Demek bir meydan okuma istiyor..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:644
 translate turkish sm1cs_mas004_after_lunch_4024a92a:
 
     # mc "That's it. Good girl."
-    mc "That's it. Good girl."
+    mc "İşte bu. İyi kız."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:646
 translate turkish sm1cs_mas004_after_lunch_ef721124:
@@ -932,37 +932,37 @@ translate turkish sm1cs_mas004_after_lunch_ef721124:
 translate turkish sm1cs_mas004_after_lunch_46d7466f:
 
     # mc "*leans back, relaxing* You're amazing at this. Show me what you can do."
-    mc "*leans back, relaxing* You're amazing at this. Show me what you can do."
+    mc "*arkaya yaslanır, rahatlar* Bunda harikasin. Bana neler yapabileceğini göster."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:654
 translate turkish sm1cs_mas004_after_lunch_45564909:
 
     # mct "She gets off on being in control, and knowing she's the best at it. Interesting."
-    mct "She gets off on being in control, and knowing she's the best at it. Interesting."
+    mct "Kontrolde olmaktan ve bunda en iyi olduğunu bilmekten zevk alıyor. İlginç."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:656
 translate turkish sm1cs_mas004_after_lunch_60471029:
 
     # mct "Where the hell did she learn to use her tongue like that?"
-    mct "Where the hell did she learn to use her tongue like that?"
+    mct "Dilini böyle kullanmayı nereden öğrendi?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:659
 translate turkish sm1cs_mas004_after_lunch_82bc5bfc:
 
     # ms "*pulls back* Tell me how much you love it."
-    ms "*pulls back* Tell me how much you love it."
+    ms "*geri çekilir* Bunu ne kadar sevdiğini söyle."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:661
 translate turkish sm1cs_mas004_after_lunch_f8cf1e9b:
 
     # mc "More than you know."
-    mc "More than you know."
+    mc "Bildiğinden fazla."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:675
 translate turkish sm1cs_mas004_after_lunch_d905307b:
 
     # mc "Okay, my turn. I want to return the favor."
-    mc "Okay, my turn. I want to return the favor."
+    mc "Tamam, benim sıram. İyiliğini geri ödemek istiyorum."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:677
 translate turkish sm1cs_mas004_after_lunch_374d0d66:
@@ -974,73 +974,73 @@ translate turkish sm1cs_mas004_after_lunch_374d0d66:
 translate turkish sm1cs_mas004_after_lunch_50da3db9:
 
     # ms "Fine."
-    ms "Fine."
+    ms "Tamam."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:684
 translate turkish sm1cs_mas004_after_lunch_404992e9:
 
     # mct "Is she surprised? Did she not expect me to care?"
-    mct "Is she surprised? Did she not expect me to care?"
+    mct "Şaşırdı mı? Umursayacağımı beklememiş miydi?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:689
 translate turkish sm1cs_mas004_after_lunch_6066329f:
 
     # mc "You're beautiful, Maya."
-    mc "You're beautiful, Maya."
+    mc "Güzelsin, Maya."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:692
 translate turkish sm1cs_mas004_after_lunch_fcbb1a43:
 
     # ms "*blushes* Just get on with it."
-    ms "*blushes* Just get on with it."
+    ms "*kızarır* Sadece devam et."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:693
 translate turkish sm1cs_mas004_after_lunch_553c58e2:
 
     # mct "Is she actually blushing?"
-    mct "Is she actually blushing?"
+    mct "Gerçekten kızarıyor mu?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:695
 translate turkish sm1cs_mas004_after_lunch_d4731c66:
 
     # mct "Maya Siegel, blushing?"
-    mct "Maya Siegel, blushing?"
+    mct "Maya Siegel, kızarıyor mu?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:696
 translate turkish sm1cs_mas004_after_lunch_e6174cbe:
 
     # mct "Never imagined I'd see it."
-    mct "Never imagined I'd see it."
+    mct "Bunu göreceğimi hiç hayal etmemiştim."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:700
 translate turkish sm1cs_mas004_after_lunch_ef347373:
 
     # mc "Lean forward against the counter."
-    mc "Lean forward against the counter."
+    mc "Tezgaha doğru eğil."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:703
 translate turkish sm1cs_mas004_after_lunch_4aac5042:
 
     # ms "*low murmur* Bossy."
-    ms "*low murmur* Bossy."
+    ms "*alçak mırıldanma* Patronluk tasla."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:706
 translate turkish sm1cs_mas004_after_lunch_d5a33ef2:
 
     # mc "You like it."
-    mc "You like it."
+    mc "Bunu seviyorsun."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:710
 translate turkish sm1cs_mas004_after_lunch_0aeb8903:
 
     # ms "*sharp gasp* Fuck..."
-    ms "*sharp gasp* Fuck..."
+    ms "*keskin nefes alış* Lanet..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:714
 translate turkish sm1cs_mas004_after_lunch_ae575a07:
 
     # mc "You're soaking. You were really looking forward to this, huh?"
-    mc "You're soaking. You were really looking forward to this, huh?"
+    mc "Sırılsıklamsın. Bunu gerçekten dört gözle bekliyordun, değil mi?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:715
 translate turkish sm1cs_mas004_after_lunch_d8285341:
@@ -1052,13 +1052,13 @@ translate turkish sm1cs_mas004_after_lunch_d8285341:
 translate turkish sm1cs_mas004_after_lunch_b3da7de0:
 
     # ms "*breathing getting heavier* Right there...fuck, don't stop..."
-    ms "*breathing getting heavier* Right there...fuck, don't stop..."
+    ms "*nefes alışı ağırlaşır* Tam orası...lanet olsun, durma..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:721
 translate turkish sm1cs_mas004_after_lunch_78be8976:
 
     # mc "You're so fucking tight, Maya."
-    mc "You're so fucking tight, Maya."
+    mc "Çok dar sın, Maya."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:723
 translate turkish sm1cs_mas004_after_lunch_2861531b:
@@ -1070,61 +1070,61 @@ translate turkish sm1cs_mas004_after_lunch_2861531b:
 translate turkish sm1cs_mas004_after_lunch_9ebf6bed:
 
     # ms "*choked gasps* Oh God, I'm gonna—"
-    ms "*choked gasps* Oh God, I'm gonna—"
+    ms "*boğuk nefes alışlar* Tanrım, ben—"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:732
 translate turkish sm1cs_mas004_after_lunch_fb8a75e9:
 
     # ms "Fuck!"
-    ms "Fuck!"
+    ms "Lanet!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:733
 translate turkish sm1cs_mas004_after_lunch_b17185a3:
 
     # mct "Holy shit..."
-    mct "Holy shit..."
+    mct "Tanrım..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:738
 translate turkish sm1cs_mas004_after_lunch_c7c795fa:
 
     # ms "*breathless, trembling* Fuck... No one's made me cum like that in...a long time."
-    ms "*breathless, trembling* Fuck... No one's made me cum like that in...a long time."
+    ms "*nefes nefese, titriyor* Lanet... Uzun zamandır kimse beni böyle boşaltmadı."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:739
 translate turkish sm1cs_mas004_after_lunch_db5a9eb4:
 
     # ms "...I didn't know I could still do that."
-    ms "...I didn't know I could still do that."
+    ms "...Hala bunu yapabileceğimi bilmiyordum."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:746
 translate turkish sm1cs_mas004_after_lunch_6e9110fe:
 
     # ms "Bed. Now."
-    ms "Bed. Now."
+    ms "Yatak. Şimdi."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:749
 translate turkish sm1cs_mas004_after_lunch_f0cc539f:
 
     # ms "Don't say a word about the mess."
-    ms "Don't say a word about the mess."
+    ms "Dağınıklık hakkında tek kelime etme."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:752
 translate turkish sm1cs_mas004_after_lunch_4962ed06:
 
     # mc "I have other stuff on my mind."
-    mc "I have other stuff on my mind."
+    mc "Aklımda başka şeyler var."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:756
 translate turkish sm1cs_mas004_after_lunch_85724db1:
 
     # ms "I'm riding you."
-    ms "I'm riding you."
+    ms "Sana bineceğim."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:759
 translate turkish sm1cs_mas004_after_lunch_e119df09:
 
     # mc "As you wish."
-    mc "As you wish."
+    mc "Nasıl istersen."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:763
 translate turkish sm1cs_mas004_after_lunch_9594976f:
@@ -1142,85 +1142,85 @@ translate turkish sm1cs_mas004_after_lunch_90a8e4b7:
 translate turkish sm1cs_mas004_after_lunch_ac10e86e:
 
     # ms "Fuck. Going to change position."
-    ms "Fuck. Going to change position."
+    ms "Lanet. Pozisyon değiştireceğim."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:769
 translate turkish sm1cs_mas004_after_lunch_ef999064:
 
     # ms "*hiss of pleasure escapes her lips* Fuck...you're thick..."
-    ms "*hiss of pleasure escapes her lips* Fuck...you're thick..."
+    ms "*dudaklarından zevk fısıltısı kaçar* Lanet...kalınsın..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:772
 translate turkish sm1cs_mas004_after_lunch_4700670b:
 
     # mc "Take your time. We've got all night."
-    mc "Take your time. We've got all night."
+    mc "Acele etme. Bütün gecemiz var."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:775
 translate turkish sm1cs_mas004_after_lunch_e9a88273:
 
     # ms "Don't just let them sit there. Use them."
-    ms "Don't just let them sit there. Use them."
+    ms "Sadece orada oturtma. Kullan onları."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:777
 translate turkish sm1cs_mas004_after_lunch_b856e8fe:
 
     # mc "Use them how?"
-    mc "Use them how?"
+    mc "Nasıl kullanayım?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:778
 translate turkish sm1cs_mas004_after_lunch_435f2123:
 
     # ms "*voice drops* Spank me. Make me feel it."
-    ms "*voice drops* Spank me. Make me feel it."
+    ms "*sesi alçalır* Şaplağı at. Hissetmemi sağla."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:784
 translate turkish sm1cs_mas004_after_lunch_6f9546d6:
 
     # ms "**raw moaning* Fuck...yes."
-    ms "**raw moaning* Fuck...yes."
+    ms "**ham inleme* Lanet...evet."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:785
 translate turkish sm1cs_mas004_after_lunch_4cd2d6dd:
 
     # mc "You like that?"
-    mc "You like that?"
+    mc "Bunu seviyor musun?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:786
 translate turkish sm1cs_mas004_after_lunch_8ce3a9a6:
 
     # ms "I need it harder. Leave a mark. Punish me for wanting this so bad."
-    ms "I need it harder. Leave a mark. Punish me for wanting this so bad."
+    ms "Daha sert olmalı. İz bırak. Bunu bu kadar çok istediğim için beni cezalandır."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:788
 translate turkish sm1cs_mas004_after_lunch_4db8dacd:
 
     # mct "She's getting wetter and wetter."
-    mct "She's getting wetter and wetter."
+    mct "Gittikçe daha ıslak oluyor."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:790
 translate turkish sm1cs_mas004_after_lunch_c8a2dc43:
 
     # ms "I've been a bad, disobedient girl. I deserve this punishment."
-    ms "I've been a bad, disobedient girl. I deserve this punishment."
+    ms "Kötü, itaatsiz bir kız oldum. Bu cezayı hak ediyorum."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:791
 translate turkish sm1cs_mas004_after_lunch_d947d5b4:
 
     # mc "You love being my bad girl, don't you? Love having your ass turned red."
-    mc "You love being my bad girl, don't you? Love having your ass turned red."
+    mc "Benim kötü kızım olmayı seviyorsun, değil mi? Kıçının kıpkırmızı olmasını seviyorsun."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:792
 translate turkish sm1cs_mas004_after_lunch_76ef8299:
 
     # ms "*shuddering moan of pain and ecstasy* Yes, Sir! Fuck...just like that!"
-    ms "*shuddering moan of pain and ecstasy* Yes, Sir! Fuck...just like that!"
+    ms "*acı ve zevkin titrek inlemesi* Evet, efendim! Lanet...aynen böyle!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:794
 translate turkish sm1cs_mas004_after_lunch_f03fbd5b:
 
     # ms "Fuck me harder. Fill me up. Own me."
-    ms "Fuck me harder. Fill me up. Own me."
+    ms "Daha sert sik beni. Doldur beni. Sahiplen beni."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:795
 translate turkish sm1cs_mas004_after_lunch_17356166:
@@ -1232,31 +1232,31 @@ translate turkish sm1cs_mas004_after_lunch_17356166:
 translate turkish sm1cs_mas004_after_lunch_110edea5:
 
     # ms "I'm your bad bitch."
-    ms "I'm your bad bitch."
+    ms "Senin kötü sürtüğünüm."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:798
 translate turkish sm1cs_mas004_after_lunch_0fe50d2c:
 
     # ms "*panting* I'm close again... Fuck... Don't you dare stop..."
-    ms "*panting* I'm close again... Fuck... Don't you dare stop..."
+    ms "*nefes nefese* Yine yaklaştım... Lanet... Sakın durma..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:799
 translate turkish sm1cs_mas004_after_lunch_52c451c7:
 
     # mc "I'm right there with you."
-    mc "I'm right there with you."
+    mc "Ben de seninleyim."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:800
 translate turkish sm1cs_mas004_after_lunch_6860b2a7:
 
     # ms "*throaty purring* Cum on my face."
-    ms "*throaty purring* Cum on my face."
+    ms "*boğuk mırıltı* Yüzüme boşal."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:801
 translate turkish sm1cs_mas004_after_lunch_01824681:
 
     # ms "I want to taste you. I want to wear your cum like a trophy."
-    ms "I want to taste you. I want to wear your cum like a trophy."
+    ms "Seni tatmak istiyorum. Spermini bir kupa gibi taşımak istiyorum."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:806
 translate turkish sm1cs_mas004_after_lunch_fe802941:
@@ -1274,7 +1274,7 @@ translate turkish sm1cs_mas004_after_lunch_10e5d802:
 translate turkish sm1cs_mas004_after_lunch_bc96ee1b:
 
     # ms "Fuck... That was good."
-    ms "Fuck... That was good."
+    ms "Lanet... Bu iyiydi."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:822
 translate turkish sm1cs_mas004_after_lunch_669664cb:
@@ -1286,43 +1286,43 @@ translate turkish sm1cs_mas004_after_lunch_669664cb:
 translate turkish sm1cs_mas004_after_lunch_6758c6ec:
 
     # ms "...Hey, yourself."
-    ms "...Hey, yourself."
+    ms "...Hey, kendine."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:826
 translate turkish sm1cs_mas004_after_lunch_91d8a70c:
 
     # mc "You okay?"
-    mc "You okay?"
+    mc "İyi misin?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:830
 translate turkish sm1cs_mas004_after_lunch_754cde03:
 
     # ms "*nods, her voice quiet* Yeah. Just... That was intense."
-    ms "*nods, her voice quiet* Yeah. Just... That was intense."
+    ms "*başını sallar, sesi sessiz* Evet. Sadece... Bu yoğundu."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:833
 translate turkish sm1cs_mas004_after_lunch_8f02a7c8:
 
     # mct "I like the sound of that."
-    mct "I like the sound of that."
+    mct "Bunun sesini seviyorum."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:839
 translate turkish sm1cs_mas004_after_lunch_5ef0ee85:
 
     # ms "I'm...sticky. I'm gonna shower."
-    ms "I'm...sticky. I'm gonna shower."
+    ms "Ben...yapışkanım. Duş alacağım."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:841
 translate turkish sm1cs_mas004_after_lunch_6c57cef9:
 
     # mc "Can I join you?"
-    mc "Can I join you?"
+    mc "Sana katılabilir miyim?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:845
 translate turkish sm1cs_mas004_after_lunch_81816cd9:
 
     # ms "...No. {w}I... I think I just need a minute."
-    ms "...No. {w}I... I think I just need a minute."
+    ms "...Hayır. {w}Ben... Sanırım sadece bir dakikaya ihtiyacım var."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:855
 translate turkish sm1cs_mas004_after_lunch_61d89e71:
@@ -1334,19 +1334,19 @@ translate turkish sm1cs_mas004_after_lunch_61d89e71:
 translate turkish sm1cs_mas004_after_lunch_b013c1c0:
 
     # mct "One minute she's begging me to punish her, the next she can't even look me in the eye."
-    mct "One minute she's begging me to punish her, the next she can't even look me in the eye."
+    mct "Bir dakika önce beni cezalandırmam için yalvarıyor, sonra gözlerimin içine bile bakamıyor."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:859
 translate turkish sm1cs_mas004_after_lunch_9739c488:
 
     # mct "I didn't imagine Maya would be so..."
-    mct "I didn't imagine Maya would be so..."
+    mct "Maya'nın bu kadar... olacağını hayal etmemiştim."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:860
 translate turkish sm1cs_mas004_after_lunch_4388da1d:
 
     # mct "Complicated."
-    mct "Complicated."
+    mct "Karmaşık."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:867
 translate turkish sm1cs_mas004_after_lunch_e526a903:
@@ -1358,43 +1358,43 @@ translate turkish sm1cs_mas004_after_lunch_e526a903:
 translate turkish sm1cs_mas004_after_lunch_395fd390:
 
     # mct "What's this?"
-    mct "What's this?"
+    mct "Bu ne?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:878
 translate turkish sm1cs_mas004_after_lunch_e675c258:
 
     # mct "*reading quietly* \"The Twilight Council cordially invites you to an evening of delicious debauchery...\""
-    mct "*reading quietly* \"The Twilight Council cordially invites you to an evening of delicious debauchery...\""
+    mct "*sessizce okur* \"Alacakaranlık Konseyi sizi lezzetli bir ahlaksızlık akşamına davet ediyor...\""
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:879
 translate turkish sm1cs_mas004_after_lunch_8219bd71:
 
     # mct "What the... \"Reply for instructions\"..."
-    mct "What the... \"Reply for instructions\"..."
+    mct "Ne... \"Talimatlar için yanıt verin\"..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:880
 translate turkish sm1cs_mas004_after_lunch_c5dbe4a7:
 
     # mct "It's a bondage club?"
-    mct "It's a bondage club?"
+    mct "Bu bir esaret kulübü mü?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:884
 translate turkish sm1cs_mas004_after_lunch_0fc7fa79:
 
     # mct "Maya? The sarcastic, perpetually bored girl from work? She's into bondage?"
-    mct "Maya? The sarcastic, perpetually bored girl from work? She's into bondage?"
+    mct "Maya? İşteki alaycı, sürekli sıkılan kız mı? Esarete mi düşkün?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:885
 translate turkish sm1cs_mas004_after_lunch_2350057e:
 
     # mct "Wait... The spanking... Asking me to punish her..."
-    mct "Wait... The spanking... Asking me to punish her..."
+    mct "Bekle... Şaplak... Onu cezalandırmamı istemesi..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:889
 translate turkish sm1cs_mas004_after_lunch_2e266e26:
 
     # mct "Holy shit. She's...{w} way kinkier than I thought!"
-    mct "Holy shit. She's...{w} way kinkier than I thought!"
+    mct "Tanrım. O...{w} düşündüğümden çok daha sapık!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:899
 translate turkish sm1cs_mas004_after_lunch_374d0d66_1:
@@ -1406,139 +1406,139 @@ translate turkish sm1cs_mas004_after_lunch_374d0d66_1:
 translate turkish sm1cs_mas004_after_lunch_1f2cec72:
 
     # ms "Shower's free if you want it."
-    ms "Shower's free if you want it."
+    ms "Duş boş, istersen kullan."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:904
 translate turkish sm1cs_mas004_after_lunch_15c5f7e2:
 
     # mc "Thanks. I probably should wash up, I've got places to be."
-    mc "Thanks. I probably should wash up, I've got places to be."
+    mc "Teşekkürler. Muhtemelen yıkanmam gerekir, gidecek yerim var."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:908
 translate turkish sm1cs_mas004_after_lunch_b6f548dd:
 
     # ms "*staring at the letter*"
-    ms "*staring at the letter*"
+    ms "*mektuba bakıyor*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:909
 translate turkish sm1cs_mas004_after_lunch_2e9bba02:
 
     # ms "Um. Actually...on second thought, I think you should just go."
-    ms "Um. Actually...on second thought, I think you should just go."
+    ms "Um. Aslında...tekrar düşününce, sanırım sadece gitmelisin."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:913
 translate turkish sm1cs_mas004_after_lunch_5e437fff:
 
     # mc "Go? Did I do something wrong?"
-    mc "Go? Did I do something wrong?"
+    mc "Gitmem mi? Yanlış bir şey mi yaptım?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:917
 translate turkish sm1cs_mas004_after_lunch_6efcda6e:
 
     # ms "*quietly* No. Not you. Just... I need to be alone."
-    ms "*quietly* No. Not you. Just... I need to be alone."
+    ms "*sessizce* Hayır. Sen değil. Sadece... Yalnız kalmam gerekiyor."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:921
 translate turkish sm1cs_mas004_after_lunch_c0820910:
 
     # mc "I'll see you at work?"
-    mc "I'll see you at work?"
+    mc "İşte görüşürüz?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:923
 translate turkish sm1cs_mas004_after_lunch_985a626e:
 
     # ms "Yeah. Whatever. Just go."
-    ms "Yeah. Whatever. Just go."
+    ms "Evet. Her neyse. Sadece git."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:927
 translate turkish sm1cs_mas004_after_lunch_d37bb5ee:
 
     # mc "Maybe this won't make a difference, but maybe it will."
-    mc "Maybe this won't make a difference, but maybe it will."
+    mc "Belki bu bir fark yaratmayacak, ama belki yaratacak."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:928
 translate turkish sm1cs_mas004_after_lunch_7d7c5762:
 
     # mc "I had a really good time tonight, Maya."
-    mc "I had a really good time tonight, Maya."
+    mc "Bu gece gerçekten iyi vakit geçirdim, Maya."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:929
 translate turkish sm1cs_mas004_after_lunch_4d456aaf:
 
     # mc "If you have another bad month..."
-    mc "If you have another bad month..."
+    mc "Eğer başka kötü bir ayın olursa..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:933
 translate turkish sm1cs_mas004_after_lunch_4092a293:
 
     # mc "Well, you know where I work."
-    mc "Well, you know where I work."
+    mc "Nerede çalıştığımı biliyorsun."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:937
 translate turkish sm1cs_mas004_after_lunch_7ad5cfb2:
 
     # ms "Yup. Now please...go."
-    ms "Yup. Now please...go."
+    ms "Evet. Şimdi lütfen...git."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:946
 translate turkish sm1cs_mas004_after_lunch_1b05c399:
 
     # ms "*whispers* Shit. Shit. Shit."
-    ms "*whispers* Shit. Shit. Shit."
+    ms "*fısıldar* Kahretsin. Kahretsin. Kahretsin."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:947
 translate turkish sm1cs_mas004_after_lunch_dd3378a2:
 
     # ms "He knows..."
-    ms "He knows..."
+    ms "Biliyor..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:951
 translate turkish sm1cs_mas004_after_lunch_9ffbde34:
 
     # mct "She's so freaked out about me seeing that letter. It's just a BDSM club... That's barely a ping on my radar."
-    mct "She's so freaked out about me seeing that letter. It's just a BDSM club... That's barely a ping on my radar."
+    mct "O mektubu görmem hakkında çok telaşlı. Sadece bir BDSM kulübü... Bu benim radarımda bir şey bile değil."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:952
 translate turkish sm1cs_mas004_after_lunch_c919538e:
 
     # mct "I guess maybe it's more scandalous to normal people."
-    mct "I guess maybe it's more scandalous to normal people."
+    mct "Sanırım belki normal insanlar için daha skandal."
 
 translate turkish strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:121
     old "After the lunch rush"
-    new "After the lunch rush"
+    new "Öğle yemeği yoğunluğundan sonra"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:149
     old "You know a smile wouldn't kill you"
-    new "You know a smile wouldn't kill you"
+    new "Biliyorsun bir gülümseme seni öldürmez"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:149
     old "Something on your mind?"
-    new "Something on your mind?"
+    new "Aklında bir şey mi var?"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:415
     old "I thought you were serious for a second"
-    new "I thought you were serious for a second"
+    new "Bir an için ciddi olduğunu düşündüm"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:415
     old "You have a cleaner?"
-    new "You have a cleaner?"
+    new "Temizlikçin var mı?"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:517
     old "Didn't sound like you were joking"
-    new "Didn't sound like you were joking"
+    new "Şaka yaptığın gibi gelmedi"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:517
     old "I thought you were"
-    new "I thought you were"
+    new "Öyle olduğunu düşündüm"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:633
     old "Guide her head gently"
-    new "Guide her head gently"
+    new "Başını nazikçe yönlendir"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:633
     old "Let her lead"
-    new "Let her lead"
+    new "Ona öncülük ettir"
 
