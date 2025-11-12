@@ -254,67 +254,67 @@ translate turkish sm1cs_dc009_0613e0dc:
 translate turkish sm1cs_dc009_b6ea8bfa:
 
     # dc "So when a situation calls for something, like, deescalation, or something that requires like a social worker's skills..."
-    dc "So when a situation calls for something, like, deescalation, or something that requires like a social worker's skills..."
+    dc "Yani bir durum bir şey gerektirdiğinde, mesela, gerginliği azaltma, ya da bir sosyal çalışanın becerileri gibi bir şey..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:99
 translate turkish sm1cs_dc009_c4f1c922:
 
     # dc "We just, don't know how to do that."
-    dc "We just, don't know how to do that."
+    dc "Biz sadece, bunu nasıl yapacağımızı bilmiyoruz."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:102
 translate turkish sm1cs_dc009_609631fc:
 
     # dc "So instead, we remove and arrest. We punish, without heart, without any other solution than to slap a bandaid on the problem, and make it rough enough that it doesn't happen again."
-    dc "So instead, we remove and arrest. We punish, without heart, without any other solution than to slap a bandaid on the problem, and make it rough enough that it doesn't happen again."
+    dc "Bu yüzden bunun yerine, uzaklaştırıyor ve tutukluyoruz. Cezalandırıyoruz, kalpten, soruna bir yara bandı yapıştırmaktan başka çözüm olmadan ve bir daha olmaması için yeterince sert yapıyoruz."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:103
 translate turkish sm1cs_dc009_0adc5ace:
 
     # dc "And...{w} it just doesn't feel right..."
-    dc "And...{w} it just doesn't feel right..."
+    dc "Ve...{w} doğru hissettirmiyor..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:106
 translate turkish sm1cs_dc009_ed3819c4:
 
     # mc "Hey, it'll be okay Debbie."
-    mc "Hey, it'll be okay Debbie."
+    mc "Hey, iyi olacak Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:107
 translate turkish sm1cs_dc009_755bb154:
 
     # mc "If there's anyone I know that can figure something out, it's you."
-    mc "If there's anyone I know that can figure something out, it's you."
+    mc "Tanıdığım birinin bir şeyi çözebileceğini biliyorsam, o sensin."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:110
 translate turkish sm1cs_dc009_0702e7c6:
 
     # dc "I don't know about that, [mcname]..."
-    dc "I don't know about that, [mcname]..."
+    dc "Bundan emin değilim, [mcname]..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:112
 translate turkish sm1cs_dc009_2923d3c1:
 
     # mc "What! Come on!"
-    mc "What! Come on!"
+    mc "Ne! Hadi ama!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:114
 translate turkish sm1cs_dc009_e2ea759c:
 
     # mc "You're a bad ass chick."
-    mc "You're a bad ass chick."
+    mc "Sen sert bir kadınsın."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:115
 translate turkish sm1cs_dc009_199bd705:
 
     # mc "I mean you moved to a different city and clawed your way up the ranks."
-    mc "I mean you moved to a different city and clawed your way up the ranks."
+    mc "Yani farklı bir şehre taşındın ve rütbelerde tırmanarak yükseldin."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:116
 translate turkish sm1cs_dc009_499036bf:
 
     # mc "And you don't let anyone stop you from completing your tasks.{w} Not flashers or bike thieves."
-    mc "And you don't let anyone stop you from completing your tasks.{w} Not flashers or bike thieves."
+    mc "Ve görevlerini tamamlamaktan kimsenin seni alıkoymasına izin vermiyorsun.{w} Ne teşhirciler ne de bisiklet hırsızları."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:118
 translate turkish sm1cs_dc009_dea3b0e6:
@@ -326,79 +326,79 @@ translate turkish sm1cs_dc009_dea3b0e6:
 translate turkish sm1cs_dc009_1c1f0c03:
 
     # mc "It will work out. I have faith."
-    mc "It will work out. I have faith."
+    mc "Hallolacak. İnancım var."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:123
 translate turkish sm1cs_dc009_a382de20:
 
     # dc "Thank you, [mcname]. Seriously, that... means a lot."
-    dc "Thank you, [mcname]. Seriously, that... means a lot."
+    dc "Teşekkür ederim, [mcname]. Cidden, bu... çok şey ifade ediyor."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:127
 translate turkish sm1cs_dc009_711471a7:
 
     # dc "All right, enough about that! What's this big date you have planned?"
-    dc "All right, enough about that! What's this big date you have planned?"
+    dc "Pekala, bu kadar yeter! Planladığın bu büyük randevu nedir?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:129
 translate turkish sm1cs_dc009_c14c584c:
 
     # mc "Well..."
-    mc "Well..."
+    mc "Şey..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:131
 translate turkish sm1cs_dc009_a6fa27dc:
 
     # mc "What if I told you..."
-    mc "What if I told you..."
+    mc "Ya sana desem ki..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:133
 translate turkish sm1cs_dc009_5a2d1bce:
 
     # mc "I knew where to get the best hot dog in all of Crowning?"
-    mc "I knew where to get the best hot dog in all of Crowning?"
+    mc "Tüm Crowning'deki en iyi sosisliyi nereden alacağımı biliyorum?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:135
 translate turkish sm1cs_dc009_29a55d85:
 
     # dc "Hehehehe! This is the big date?"
-    dc "Hehehehe! This is the big date?"
+    dc "Hehehehe! Büyük randevu bu mu?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:138
 translate turkish sm1cs_dc009_981295b1:
 
     # mc "Uhm... well, it's part one of the date! And the second part is, uhm..."
-    mc "Uhm... well, it's part one of the date! And the second part is, uhm..."
+    mc "Uhm... şey, randevunun birinci bölümü! Ve ikinci bölüm, uhm..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:140
 translate turkish sm1cs_dc009_69d642f4:
 
     # dc "I'm just busting your chops, [mcname]! A hot dog sounds lovely!"
-    dc "I'm just busting your chops, [mcname]! A hot dog sounds lovely!"
+    dc "Sadece seninle dalga geçiyorum, [mcname]! Sosisli harika görünüyor!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:142
 translate turkish sm1cs_dc009_8aa3e427:
 
     # mc "Then two hot dogs, coming right up!"
-    mc "Then two hot dogs, coming right up!"
+    mc "O zaman iki sosisli, hemen geliyor!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:145
 translate turkish sm1cs_dc009_65cb469b:
 
     # dc "I've walked past this cart so many times, and I've always wondered what their hot dogs were like."
-    dc "I've walked past this cart so many times, and I've always wondered what their hot dogs were like."
+    dc "Bu arabayı o kadar çok geçtim ki ve sosislilerinin nasıl olduğunu hep merak ettim."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:147
 translate turkish sm1cs_dc009_8637c0f1:
 
     # mc "Well go on! No need to keep yourself in suspense. Try it!"
-    mc "Well go on! No need to keep yourself in suspense. Try it!"
+    mc "Hadi devam et! Kendini merakta tutmana gerek yok. Dene!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:149
 translate turkish sm1cs_dc009_f6d48994:
 
     # dc "All right, all right..."
-    dc "All right, all right..."
+    dc "Tamam, tamam..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:152
 translate turkish sm1cs_dc009_c42b05ac:
