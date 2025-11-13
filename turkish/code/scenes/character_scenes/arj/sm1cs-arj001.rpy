@@ -680,5 +680,5 @@ translate turkish sm1cs_arj001_92b04d3a:
 translate turkish sm1cs_arj001_5c2dddcf:
 
     # arj "So what if I do? {i}No one{/i} should have the flash drive."
-    arj "So what if I do? {i}No one{/i} should have the flash drive."
+    arj "Ya sende olsaydı ne olacak? {i}Hiç kimsenin{/i} elinde olmamalı flaş bellek."
 
