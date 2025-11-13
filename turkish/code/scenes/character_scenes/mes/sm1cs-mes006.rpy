@@ -1352,151 +1352,151 @@ translate turkish sm1cs_mes006_continue_f8192d1d:
 translate turkish sm1cs_mes006_continue_1c583666:
 
     # mc "I was planning to beat you on my own."
-    mc "I was planning to beat you on my own."
+    mc "Seni kendi başıma yenmeyi planlıyordum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:722
 translate turkish sm1cs_mes006_continue_1e811b7f:
 
     # mc "I don't know how I lost."
-    mc "I don't know how I lost."
+    mc "Nasıl kaybettiğimi bilmiyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:725
 translate turkish sm1cs_mes006_continue_21d6b28b:
 
     # mc "Unless, you {b}let{/b} Stacy win."
-    mc "Unless, you {b}let{/b} Stacy win."
+    mc "Tabii, Stacy'nin kazanmasına {b}izin vermediysen{/b}."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:727
 translate turkish sm1cs_mes006_continue_dc0cbc75:
 
     # mes "Well that's impossible."
-    mes "Well that's impossible."
+    mes "Bu imkansız."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:730
 translate turkish sm1cs_mes006_continue_22cfad4b:
 
     # mc "You did, didn't you?"
-    mc "You did, didn't you?"
+    mc "Yaptın, değil mi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:733
 translate turkish sm1cs_mes006_continue_35af0c5e:
 
     # mes "My lips are sealed. At the moment."
-    mes "My lips are sealed. At the moment."
+    mes "Dudaklarım mühürlü. Şu anda."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:738
 translate turkish sm1cs_mes006_continue_09971d21:
 
     # mc "Why did you do it."
-    mc "Why did you do it."
+    mc "Neden yaptın."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:740
 translate turkish sm1cs_mes006_continue_1d8491f1:
 
     # mes "Because there is a time for competition, and a time to friendly."
-    mes "Because there is a time for competition, and a time to friendly."
+    mes "Çünkü rekabet zamanı vardır, dostluk zamanı vardır."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:743
 translate turkish sm1cs_mes006_continue_24e2b880:
 
     # mes "I can always crush her in other ways."
-    mes "I can always crush her in other ways."
+    mes "Onu başka yollarla her zaman ezebilirim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:748
 translate turkish sm1cs_mes006_continue_d3ac7778:
 
     # mes "This has been a lot of fun you two."
-    mes "This has been a lot of fun you two."
+    mes "Bu çok eğlenceliydi ikiniz."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:749
 translate turkish sm1cs_mes006_continue_6d2a623d:
 
     # mes "I'm glad to have a night with friends instead of being alone in that big house."
-    mes "I'm glad to have a night with friends instead of being alone in that big house."
+    mes "O büyük evde yalnız olmak yerine arkadaşlarımla bir gece geçirdiğime sevindim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:752
 translate turkish sm1cs_mes006_continue_c01ff12d:
 
     # sy "I will trade you our place for your house right now."
-    sy "I will trade you our place for your house right now."
+    sy "Hemen şu anda evimizi senin evinle değiştiririm."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:755
 translate turkish sm1cs_mes006_continue_08029828:
 
     # mes "Haha. I don't think so, Stacy."
-    mes "Haha. I don't think so, Stacy."
+    mes "Haha. Sanmıyorum, Stacy."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:758
 translate turkish sm1cs_mes006_continue_14c36a33:
 
     # mes "Besides, you'd end up frustrated with it just as much as I am."
-    mes "Besides, you'd end up frustrated with it just as much as I am."
+    mes "Ayrıca, sen de benim kadar hayal kırıklığına uğrarsın."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:759
 translate turkish sm1cs_mes006_continue_b857b0fc:
 
     # mes "Being in a place that my parents helped buy me, well it has just left me feeling, joyless."
-    mes "Being in a place that my parents helped buy me, well it has just left me feeling, joyless."
+    mes "Ailemin bana almama yardım ettiği bir yerde olmak, beni neşesiz hissettiriyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:762
 translate turkish sm1cs_mes006_continue_6045e280:
 
     # sy "That sucks."
-    sy "That sucks."
+    sy "Bu kötü."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:764
 translate turkish sm1cs_mes006_continue_812d8797:
 
     # mes "You have no idea."
-    mes "You have no idea."
+    mes "Hiçbir fikrin yok."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:766
 translate turkish sm1cs_mes006_continue_faae18d6:
 
     # mes "And they keep calling me as soon as they know I'm not in classes."
-    mes "And they keep calling me as soon as they know I'm not in classes."
+    mes "Ve derste olmadığımı öğrenir öğrenmez beni aramaya devam ediyorlar."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:770
 translate turkish sm1cs_mes006_continue_2c9f1c00:
 
     # mes "They must have gotten my schedule from my brother."
-    mes "They must have gotten my schedule from my brother."
+    mes "Programımı ağabeyimden almış olmalılar."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:772
 translate turkish sm1cs_mes006_continue_61124161:
 
     # mc "Little rat."
-    mc "Little rat."
+    mc "Küçük fare."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:776
 translate turkish sm1cs_mes006_continue_fa05b08b:
 
     # mes "Hehe. He's not so bad."
-    mes "Hehe. He's not so bad."
+    mes "Hehe. O kadar da kötü değil."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:777
 translate turkish sm1cs_mes006_continue_8e7bafa1:
 
     # mes "But in this case, yes, he is a little rat."
-    mes "But in this case, yes, he is a little rat."
+    mes "Ama bu durumda, evet, küçük bir fare."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:781
 translate turkish sm1cs_mes006_continue_bfb67107:
 
     # mc "Do you think they'd ever force you to come back by selling the house?"
-    mc "Do you think they'd ever force you to come back by selling the house?"
+    mc "Sence evi satarak seni geri dönmeye zorlayabilirler mi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:783
 translate turkish sm1cs_mes006_continue_19786203:
 
     # mes "I don't think so. Luckily, it's not completely their decision."
-    mes "I don't think so. Luckily, it's not completely their decision."
+    mes "Sanmıyorum. Neyse ki, tamamen onların kararı değil."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:786
 translate turkish sm1cs_mes006_continue_6fba7714:
 
     # mes "I got some money willed to me by a family member, specifically so I could do my schooling here in the states."
-    mes "I got some money willed to me by a family member, specifically so I could do my schooling here in the states."
+    mes "Bir aile üyesi tarafından bana miras olarak biraz para bırakıldı, özellikle burada Birleşik Devletler'de eğitimimi yapabilmem için."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:787
 translate turkish sm1cs_mes006_continue_365bd374:
