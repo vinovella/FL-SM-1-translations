@@ -1250,13 +1250,13 @@ translate turkish sm1ms029_ns_nipple_clamps_d9b4a27e:
 translate turkish sm1ms029_ns_nipple_clamps_5157ba8d:
 
     # ns "Okay... all I have to do is..."
-    ns "Okay... all I have to do is..."
+    ns "Tamam... tek yapmam gereken..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1245
 translate turkish sm1ms029_ns_nipple_clamps_7ea65083:
 
     # ns "Put it on the..."
-    ns "Put it on the..."
+    ns "Şuraya takmak..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1248
 translate turkish sm1ms029_ns_nipple_clamps_c3a71b05:
@@ -1268,7 +1268,7 @@ translate turkish sm1ms029_ns_nipple_clamps_c3a71b05:
 translate turkish sm1ms029_ns_nipple_clamps_9ef2bf3d:
 
     # ns "Nipple!"
-    ns "Nipple!"
+    ns "Meme ucuna!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1251
 translate turkish sm1ms029_ns_nipple_clamps_2500beb2:
@@ -1280,37 +1280,37 @@ translate turkish sm1ms029_ns_nipple_clamps_2500beb2:
 translate turkish sm1ms029_ns_nipple_clamps_375621c9:
 
     # ns "Is that okay, Stacy!?"
-    ns "Is that okay, Stacy!?"
+    ns "Bu iyi mi, Stacy!?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1255
 translate turkish sm1ms029_ns_nipple_clamps_f596e9f7:
 
     # sy "Uh huh! Super okay! I like the feeling, it just takes me a second to get used to the pain."
-    sy "Uh huh! Super okay! I like the feeling, it just takes me a second to get used to the pain."
+    sy "Uh huh! Çok iyi! Hissi seviyorum, acıya alışmam sadece bir saniye sürüyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1256
 translate turkish sm1ms029_ns_nipple_clamps_4ade79da:
 
     # ns "It hurts!?!"
-    ns "It hurts!?!"
+    ns "Acıtıyor mu!?!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1258
 translate turkish sm1ms029_ns_nipple_clamps_65182ab5:
 
     # sy "Yes, but in a good way!"
-    sy "Yes, but in a good way!"
+    sy "Evet, ama iyi bir şekilde!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1260
 translate turkish sm1ms029_ns_nipple_clamps_5d81ffc3:
 
     # ns "Pain can be... good?"
-    ns "Pain can be... good?"
+    ns "Acı... iyi olabilir mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1262
 translate turkish sm1ms029_ns_nipple_clamps_3ea7f0fb:
 
     # sy "Oh, it absolutely can! You'll have to ask [mcname] about trying it sometime!"
-    sy "Oh, it absolutely can! You'll have to ask [mcname] about trying it sometime!"
+    sy "Oh, kesinlikle olabilir! Bir ara bunu denemek için [mcname]'e sormalısın!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1263
 translate turkish sm1ms029_ns_nipple_clamps_a5ed4ed1:
@@ -1322,13 +1322,13 @@ translate turkish sm1ms029_ns_nipple_clamps_a5ed4ed1:
 translate turkish sm1ms029_ns_nipple_clamps_a4a47c16:
 
     # sy "But before you get too lost in thought, why don't you put that other nipple clamp on me."
-    sy "But before you get too lost in thought, why don't you put that other nipple clamp on me."
+    sy "Ama düşüncelere fazla dalmadan önce, neden diğer meme ucu pensini bana takmıyorsun."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1267
 translate turkish sm1ms029_ns_nipple_clamps_fca0b820:
 
     # ns "Oh, right!"
-    ns "Oh, right!"
+    ns "Oh, doğru!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1270
 translate turkish sm1ms029_ns_nipple_clamps_a85f91b3:
@@ -1340,91 +1340,91 @@ translate turkish sm1ms029_ns_nipple_clamps_a85f91b3:
 translate turkish sm1ms029_ns_nipple_clamps_902cc0a1:
 
     # sy "Phew! Okay... God, I've missed nipple clamps."
-    sy "Phew! Okay... God, I've missed nipple clamps."
+    sy "Phew! Tamam... Tanrım, meme ucu penslerini özlemişim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1273
 translate turkish sm1ms029_ns_nipple_clamps_5bbdba07:
 
     # ns "Wow, you really like them, don't you?"
-    ns "Wow, you really like them, don't you?"
+    ns "Vay, gerçekten seviyorsun, değil mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1274
 translate turkish sm1ms029_ns_nipple_clamps_38e6c864:
 
     # sy "Oh I absolutely do."
-    sy "Oh I absolutely do."
+    sy "Oh kesinlikle seviyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1276
 translate turkish sm1ms029_ns_nipple_clamps_b78bbc50:
 
     # ns "I will have to try them at some point."
-    ns "I will have to try them at some point."
+    ns "Bir ara bunları denemem gerekecek."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1278
 translate turkish sm1ms029_ns_nipple_clamps_fc23298c:
 
     # sy "You can borrow mine any time, Nari!"
-    sy "You can borrow mine any time, Nari!"
+    sy "Benimkini istediğin zaman ödünç alabilirsin, Nari!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1280
 translate turkish sm1ms029_ns_nipple_clamps_70b41202:
 
     # ns "Wow, thank you, Stacy!"
-    ns "Wow, thank you, Stacy!"
+    ns "Vay, teşekkür ederim, Stacy!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1281
 translate turkish sm1ms029_ns_nipple_clamps_b3abcdee:
 
     # sy "Don't mention it!"
-    sy "Don't mention it!"
+    sy "Bahsetme bile!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1292
 translate turkish sm1ms029_tl_nipple_clamps_9495a2cd:
 
     # tl "I'd love to."
-    tl "I'd love to."
+    tl "Çok isterim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1295
 translate turkish sm1ms029_tl_nipple_clamps_b4642644:
 
     # mc "Oh ho! Of course, Taisia. Here you go!"
-    mc "Oh ho! Of course, Taisia. Here you go!"
+    mc "Oh ho! Tabii ki, Taisia. Al bakalım!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1298
 translate turkish sm1ms029_tl_nipple_clamps_6e318177:
 
     # tl "Mmmm, these are good ones, too."
-    tl "Mmmm, these are good ones, too."
+    tl "Mmmm, bunlar da iyiler."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1299
 translate turkish sm1ms029_tl_nipple_clamps_fcf32bb7:
 
     # mc "Nothing but the best here at S&M!"
-    mc "Nothing but the best here at S&M!"
+    mc "S&M'de sadece en iyisi var!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1301
 translate turkish sm1ms029_tl_nipple_clamps_6c8bee24:
 
     # tl "I can see that."
-    tl "I can see that."
+    tl "Bunu görebiliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1304
 translate turkish sm1ms029_tl_nipple_clamps_f2b790d1:
 
     # tl "Mmmm, looking delightful, Stacy."
-    tl "Mmmm, looking delightful, Stacy."
+    tl "Mmmm, harika görünüyorsun, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1305
 translate turkish sm1ms029_tl_nipple_clamps_0fa887c0:
 
     # sy "Thank you, Taisia!"
-    sy "Thank you, Taisia!"
+    sy "Teşekkür ederim, Taisia!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1307
 translate turkish sm1ms029_tl_nipple_clamps_dbb70fd4:
 
     # tl "You're going to look even better with these clamps."
-    tl "You're going to look even better with these clamps."
+    tl "Bu penslerle daha da iyi görüneceksin."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1308
 translate turkish sm1ms029_tl_nipple_clamps_2500beb2:
@@ -1436,7 +1436,7 @@ translate turkish sm1ms029_tl_nipple_clamps_2500beb2:
 translate turkish sm1ms029_tl_nipple_clamps_97073d08:
 
     # tl "But first, maybe a little care and affection for your poor titties."
-    tl "But first, maybe a little care and affection for your poor titties."
+    tl "Ama önce, belki zavallı göğüslerin için biraz özen ve şefkat."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1314
 translate turkish sm1ms029_tl_nipple_clamps_efda7d72:
@@ -1448,13 +1448,13 @@ translate turkish sm1ms029_tl_nipple_clamps_efda7d72:
 translate turkish sm1ms029_tl_nipple_clamps_b86b856a:
 
     # sy "Not what I was expecting."
-    sy "Not what I was expecting."
+    sy "Beklediğim bu değildi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1318
 translate turkish sm1ms029_tl_nipple_clamps_cf88d197:
 
     # tl "Good."
-    tl "Good."
+    tl "İyi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1321
 translate turkish sm1ms029_tl_nipple_clamps_bdcec9b3:
@@ -1466,7 +1466,7 @@ translate turkish sm1ms029_tl_nipple_clamps_bdcec9b3:
 translate turkish sm1ms029_tl_nipple_clamps_8165a683:
 
     # tl "Mmmmm, I love that sound."
-    tl "Mmmmm, I love that sound."
+    tl "Mmmmm, bu sesi seviyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1325
 translate turkish sm1ms029_tl_nipple_clamps_efda7d72_1:
@@ -1478,7 +1478,7 @@ translate turkish sm1ms029_tl_nipple_clamps_efda7d72_1:
 translate turkish sm1ms029_tl_nipple_clamps_ab9f7cbc:
 
     # tl "Just a little foreplay before..."
-    tl "Just a little foreplay before..."
+    tl "Sadece öncesinde biraz ön sevişme..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1329
 translate turkish sm1ms029_tl_nipple_clamps_bbac6b7b:
@@ -1496,7 +1496,7 @@ translate turkish sm1ms029_tl_nipple_clamps_82d9874c:
 translate turkish sm1ms029_tl_nipple_clamps_a548952e:
 
     # tl "Hearing your little yelps made me wet, Stacy. I want you to know that."
-    tl "Hearing your little yelps made me wet, Stacy. I want you to know that."
+    tl "Küçük çığlıklarını duymak beni ıslattı, Stacy. Bunu bilmeni istiyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1334
 translate turkish sm1ms029_tl_nipple_clamps_2500beb2_1:
@@ -1508,91 +1508,91 @@ translate turkish sm1ms029_tl_nipple_clamps_2500beb2_1:
 translate turkish sm1ms029_tl_nipple_clamps_2f3de30d:
 
     # tl "She's all yours again, big boy."
-    tl "She's all yours again, big boy."
+    tl "O yine tamamen senin, koca oğlan."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1345
 translate turkish sm1ms029_part_1_my_appear_e557a85c:
 
     # mc "Now, who would like to give Stacy a little ass fucking with this bad boy?"
-    mc "Now, who would like to give Stacy a little ass fucking with this bad boy?"
+    mc "Şimdi, Stacy'ye bu harika şeyle biraz kıçını sikmek kim ister?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1347
 translate turkish sm1ms029_part_1_my_appear_b34da7d0:
 
     # arj "Oh, I have been waiting all night for this!"
-    arj "Oh, I have been waiting all night for this!"
+    arj "Oh, bütün gece bunun için bekliyordum!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1350
 translate turkish sm1ms029_part_1_my_appear_dfbe248b:
 
     # arj "She always teases me with butt stuff, and I think it's time I return the favor."
-    arj "She always teases me with butt stuff, and I think it's time I return the favor."
+    arj "O her zaman beni kıç işleriyle kızdırıyor, ve bence iyiliğini geri ödeme zamanı."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1351
 translate turkish sm1ms029_part_1_my_appear_61ca0bf5:
 
     # mc "Well, have at it, AmRose."
-    mc "Well, have at it, AmRose."
+    mc "Peki, buyur AmRose."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1357
 translate turkish sm1ms029_part_1_my_appear_c59d03f5:
 
     # sy "So, who is going to fuck my ass?"
-    sy "So, who is going to fuck my ass?"
+    sy "Peki, kıçımı kim sikecek?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1358
 translate turkish sm1ms029_part_1_my_appear_ec46558f:
 
     # arj "Take a guess."
-    arj "Take a guess."
+    arj "Tahmin et."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1361
 translate turkish sm1ms029_part_1_my_appear_888d21b7:
 
     # sy "Oh, my old friend, AmRose."
-    sy "Oh, my old friend, AmRose."
+    sy "Oh, eski dostum, AmRose."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1362
 translate turkish sm1ms029_part_1_my_appear_447e7133:
 
     # arj "I am very excited for this, Stacy."
-    arj "I am very excited for this, Stacy."
+    arj "Bunun için çok heyecanlıyım, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1364
 translate turkish sm1ms029_part_1_my_appear_6e084f3a:
 
     # sy "I think I just got a little wet when you said that."
-    sy "I think I just got a little wet when you said that."
+    sy "Sanırım bunu söylediğinde biraz ıslandım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1365
 translate turkish sm1ms029_part_1_my_appear_a57533ab:
 
     # arj "Good."
-    arj "Good."
+    arj "İyi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1368
 translate turkish sm1ms029_part_1_my_appear_563ef014:
 
     # arj "Oh no, the dildo isn't lubed."
-    arj "Oh no, the dildo isn't lubed."
+    arj "Oh hayır, dildo yağlanmamış."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1369
 translate turkish sm1ms029_part_1_my_appear_46f52a42:
 
     # arj "I'll have to fix that."
-    arj "I'll have to fix that."
+    arj "Bunu düzeltmem gerekecek."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1384
 translate turkish sm1ms029_part_1_my_appear_2da8df6f:
 
     # arj "Hmmmm... I don't know if that's wet enough yet..."
-    arj "Hmmmm... I don't know if that's wet enough yet..."
+    arj "Hmmmm... Bunun yeterince ıslak olup olmadığını bilmiyorum..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1387
 translate turkish sm1ms029_part_1_my_appear_c8c40a7f:
 
     # arj "Open wide, Stacy."
-    arj "Open wide, Stacy."
+    arj "Ağzını aç, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1393
 translate turkish sm1ms029_part_1_my_appear_d71c9391:
@@ -1604,13 +1604,13 @@ translate turkish sm1ms029_part_1_my_appear_d71c9391:
 translate turkish sm1ms029_part_1_my_appear_01708eab:
 
     # arj "Oh, some on, Stacy. You can do better than that!"
-    arj "Oh, some on, Stacy. You can do better than that!"
+    arj "Oh, hadi ama, Stacy. Bundan daha iyisini yapabilirsin!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1397
 translate turkish sm1ms029_part_1_my_appear_f3e7df3a:
 
     # arj "That's it, take it like a good girl!"
-    arj "That's it, take it like a good girl!"
+    arj "İşte bu, iyi bir kız gibi al onu!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1398
 translate turkish sm1ms029_part_1_my_appear_ff7688ba:
@@ -1622,13 +1622,13 @@ translate turkish sm1ms029_part_1_my_appear_ff7688ba:
 translate turkish sm1ms029_part_1_my_appear_01508a13:
 
     # arj "Get it nice and sloppy for your ass, Stacy."
-    arj "Get it nice and sloppy for your ass, Stacy."
+    arj "Kıçın için güzelce ıslat ve dağınık hale getir, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1400
 translate turkish sm1ms029_part_1_my_appear_99f830bd:
 
     # arj "I want this dildo {i}very{/i} lubricated when I fuck you."
-    arj "I want this dildo {i}very{/i} lubricated when I fuck you."
+    arj "Seni siktiğimde bu dildonun {i}çok{/i} kaygan olmasını istiyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1401
 translate turkish sm1ms029_part_1_my_appear_89d5eb9c:
@@ -1646,25 +1646,25 @@ translate turkish sm1ms029_part_1_my_appear_e286018d:
 translate turkish sm1ms029_part_1_my_appear_bc6ecfa5:
 
     # arj "That should be good enough!"
-    arj "That should be good enough!"
+    arj "Bu yeterince iyi olmalı!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1407
 translate turkish sm1ms029_part_1_my_appear_16ce8215:
 
     # sy "Shit, AmRose-"
-    sy "Shit, AmRose-"
+    sy "Kahretsin, AmRose-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1409
 translate turkish sm1ms029_part_1_my_appear_cb447e12:
 
     # arj "Nuh uh uh, you don't get to talk!"
-    arj "Nuh uh uh, you don't get to talk!"
+    arj "Hayır hayır hayır, konuşamazsın!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1411
 translate turkish sm1ms029_part_1_my_appear_c6498bc1:
 
     # arj "Because I am going to enjoy watching you wiggle around while I impale your ass on this dildo."
-    arj "Because I am going to enjoy watching you wiggle around while I impale your ass on this dildo."
+    arj "Çünkü kıçını bu dildoya saplarken kıvranışını izlemekten keyif alacağım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1415
 translate turkish sm1ms029_part_1_my_appear_8c3faf33:
@@ -1676,7 +1676,7 @@ translate turkish sm1ms029_part_1_my_appear_8c3faf33:
 translate turkish sm1ms029_part_1_my_appear_59bcf8c9:
 
     # arj "Mmmmm, yesss, take it, Stacy!"
-    arj "Mmmmm, yesss, take it, Stacy!"
+    arj "Mmmmm, eveeet, al onu, Stacy!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1417
 translate turkish sm1ms029_part_1_my_appear_7575f82b:
@@ -1688,13 +1688,13 @@ translate turkish sm1ms029_part_1_my_appear_7575f82b:
 translate turkish sm1ms029_part_1_my_appear_6674c527:
 
     # arj "How does it feel? Having this thick dildo fuck your ass?"
-    arj "How does it feel? Having this thick dildo fuck your ass?"
+    arj "Nasıl hissettiriyor? Bu kalın dildonun kıçını sikmesi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1420
 translate turkish sm1ms029_part_1_my_appear_adc86885:
 
     # arj "I bet it's making you wet."
-    arj "I bet it's making you wet."
+    arj "Bahse girerim seni ıslatıyordur."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1421
 translate turkish sm1ms029_part_1_my_appear_898d5296:
