@@ -383,3 +383,5 @@ File: Turkish/code\scenes\theatre\vs\sm1cs-vs003.rpy (done)
 File: Turkish/code\scenes\theatre\vs\sm1cs-vs004.rpy (done)
 
 File: Turkish/code\scenes\theatre\vs\sm1cs-vs005.rpy (done)
+
+File: Turkish/code\data\chat\chat_am.rpy (done)
