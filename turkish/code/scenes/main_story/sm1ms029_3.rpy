@@ -104,19 +104,19 @@ translate turkish sm1ms029_part_1_my_appear_433bdcbc:
 translate turkish sm1ms029_part_1_my_appear_39033afc:
 
     # mct "Oh shit, it's Melony!"
-    mct "Oh shit, it's Melony!"
+    mct "Oh kahretsin, Melony!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1453
 translate turkish sm1ms029_part_1_my_appear_1f568467:
 
     # mct "Shit! Shit, shit, shit!"
-    mct "Shit! Shit, shit, shit!"
+    mct "Kahretsin! Kahretsin, kahretsin, kahretsin!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1456
 translate turkish sm1ms029_part_1_my_appear_2e5b5be3:
 
     # arj "Oh shit, this is so much fun, Stacy!"
-    arj "Oh shit, this is so much fun, Stacy!"
+    arj "Oh kahretsin, bu çok eğlenceli, Stacy!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1457
 translate turkish sm1ms029_part_1_my_appear_6b797ad1:
@@ -128,43 +128,43 @@ translate turkish sm1ms029_part_1_my_appear_6b797ad1:
 translate turkish sm1ms029_part_1_my_appear_90de4ca8:
 
     # arj "Fuck yes!"
-    arj "Fuck yes!"
+    arj "Evet lanet olsun!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1459
 translate turkish sm1ms029_part_1_my_appear_256ce3f2:
 
     # mct "I can't let her in right now!"
-    mct "I can't let her in right now!"
+    mct "Şu anda onu içeri alamam!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1461
 translate turkish sm1ms029_part_1_my_appear_41d16af8:
 
     # my "[mcname]? Hello?"
-    my "[mcname]? Hello?"
+    my "[mcname]? Merhaba?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1463
 translate turkish sm1ms029_part_1_my_appear_ca73caf7:
 
     # mct "All right, I guess I'll just have to be smooth..."
-    mct "All right, I guess I'll just have to be smooth..."
+    mct "Pekala, sanırım sadece sakin olmak zorundayım..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1465
 translate turkish sm1ms029_part_1_my_appear_e170028d:
 
     # mct "Wait!"
-    mct "Wait!"
+    mct "Bekle!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1466
 translate turkish sm1ms029_part_1_my_appear_becbd4f4:
 
     # mct "My mask!"
-    mct "My mask!"
+    mct "Maskemi!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1470
 translate turkish sm1ms029_part_1_my_appear_35fedb77:
 
     # mc "Hey, Mom!"
-    mc "Hey, Mom!"
+    mc "Hey, anne!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1472
 translate turkish sm1ms029_part_1_my_appear_f67d45c0:
@@ -176,49 +176,49 @@ translate turkish sm1ms029_part_1_my_appear_f67d45c0:
 translate turkish sm1ms029_part_1_my_appear_1b13e4d1:
 
     # my "I thought you might leave me out here all night!"
-    my "I thought you might leave me out here all night!"
+    my "Beni bütün gece burada dışarıda bırakacağını düşünmüştüm!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1474
 translate turkish sm1ms029_part_1_my_appear_1e189ba6:
 
     # mc "Never, but what's up?"
-    mc "Never, but what's up?"
+    mc "Asla, ama ne oldu?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1476
 translate turkish sm1ms029_part_1_my_appear_b94e4f4b:
 
     # my "What have you got going on in there? Sounds like a party!"
-    my "What have you got going on in there? Sounds like a party!"
+    my "İçeride ne oluyor? Parti gibi ses geliyor!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1477
 translate turkish sm1ms029_part_1_my_appear_99975500:
 
     # mc "Uhm, nope!"
-    mc "Uhm, nope!"
+    mc "Uhm, hayır!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1478
 translate turkish sm1ms029_part_1_my_appear_20008a20:
 
     # mc "It's a, uhm... theater practice?"
-    mc "It's a, uhm... theater practice?"
+    mc "Bu bir, uhm... tiyatro prova mı?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1480
 translate turkish sm1ms029_part_1_my_appear_6d683a4f:
 
     # my "Theater practive?"
-    my "Theater practive?"
+    my "Tiyatro provası?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1483
 translate turkish sm1ms029_part_1_my_appear_2db7f079:
 
     # arj "Your slutty ass just loves this dildo, doesn't it!"
-    arj "Your slutty ass just loves this dildo, doesn't it!"
+    arj "Sürtük kıçın bu dildoyu seviyor, değil mi!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1484
 translate turkish sm1ms029_part_1_my_appear_891beefa:
 
     # arj "I can feel you moaning through my hands, Stacy!"
-    arj "I can feel you moaning through my hands, Stacy!"
+    arj "Ellerimle inlediğini hissedebiliyorum, Stacy!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1485
 translate turkish sm1ms029_part_1_my_appear_962072ec:
@@ -230,25 +230,25 @@ translate turkish sm1ms029_part_1_my_appear_962072ec:
 translate turkish sm1ms029_part_1_my_appear_86fb9353:
 
     # mc "Uhm, yep! Just a little theater practice."
-    mc "Uhm, yep! Just a little theater practice."
+    mc "Uhm, evet! Sadece küçük bir tiyatro provası."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1488
 translate turkish sm1ms029_part_1_my_appear_81dce6c8:
 
     # mc "For our new play!"
-    mc "For our new play!"
+    mc "Yeni oyunumuz için!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1490
 translate turkish sm1ms029_part_1_my_appear_7043c072:
 
     # my "Sure, [mcname]."
-    my "Sure, [mcname]."
+    my "Tabii, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1492
 translate turkish sm1ms029_part_1_my_appear_31853e58:
 
     # mc "But, uh, what can I help you with, Mom?"
-    mc "But, uh, what can I help you with, Mom?"
+    mc "Ama, uh, sana ne konuda yardımcı olabilirim, anne?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1493
 translate turkish sm1ms029_part_1_my_appear_c8355527:
