@@ -404,37 +404,37 @@ translate turkish sm1fs_t008_later_9d4f6556:
 translate turkish sm1fs_t008_later_84260f4d:
 
     # dvh "Perfect."
-    dvh "Perfect."
+    dvh "Mükemmel."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:223
 translate turkish sm1fs_t008_later_455376f2:
 
     # dvh "As the kids say. {w} Show me what you got."
-    dvh "As the kids say. {w} Show me what you got."
+    dvh "Çocukların dediği gibi. {w} Bana ne yapabildiğini göster."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:226
 translate turkish sm1fs_t008_later_cf970b05:
 
     # mct "You got this."
-    mct "You got this."
+    mct "Bunu yapabilirsin."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:228
 translate turkish sm1fs_t008_later_2dcc3bab:
 
     # mct "I've done a role in a film."
-    mct "I've done a role in a film."
+    mct "Bir filmde rol yaptım."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:230
 translate turkish sm1fs_t008_later_97384160:
 
     # mct "This should be a piece of cake."
-    mct "This should be a piece of cake."
+    mct "Bu çocuk oyuncağı olmalı."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:232
 translate turkish sm1fs_t008_later_698a6ef9:
 
     # mct "Just... deep breaths... don't freeze up."
-    mct "Just... deep breaths... don't freeze up."
+    mct "Sadece... derin nefesler... donma."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:235
 translate turkish sm1fs_t008_later_6f1f65f7:
@@ -446,61 +446,61 @@ translate turkish sm1fs_t008_later_6f1f65f7:
 translate turkish sm1fs_t008_later_45a447cb:
 
     # mc "Kick us off, Taisia."
-    mc "Kick us off, Taisia."
+    mc "Başlat, Taisia."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:241
 translate turkish sm1fs_t008_later_effa3056:
 
     # tl "Hey, what's your problem, Shrek?"
-    tl "Hey, what's your problem, Shrek?"
+    tl "Hey, sorunun ne, Shrek?"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:242
 translate turkish sm1fs_t008_later_9bdb4245:
 
     # tl "What do you got against the whole world anyhow?"
-    tl "What do you got against the whole world anyhow?"
+    tl "Her neyse, tüm dünyaya karşı neyin var?"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:245
 translate turkish sm1fs_t008_later_c321095d:
 
     # mc "Look, I'm not the one with the problem."
-    mc "Look, I'm not the one with the problem."
+    mc "Bak, sorunu olan ben değilim."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:248
 translate turkish sm1fs_t008_later_ecbc7ce9:
 
     # mc "It's the world who seems to have a problem with me!"
-    mc "It's the world who seems to have a problem with me!"
+    mc "Benimle sorunu olan dünya!"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:251
 translate turkish sm1fs_t008_later_1fbf29ee:
 
     # mc "People take one look at me and go 'Ah help! Run! A big stupid ugly ogre."
-    mc "People take one look at me and go 'Ah help! Run! A big stupid ugly ogre."
+    mc "İnsanlar bana bir bakıyorlar ve 'Ah yardım edin! Kaçın! Kocaman aptal çirkin bir canavar."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:254
 translate turkish sm1fs_t008_later_73f80eaf:
 
     # mc "*sighs* They judge me even before they know me."
-    mc "*sighs* They judge me even before they know me."
+    mc "*iç çeker* Beni tanımadan bile yargılıyorlar."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:255
 translate turkish sm1fs_t008_later_103f5904:
 
     # mc "That's why I'm better off alone."
-    mc "That's why I'm better off alone."
+    mc "Bu yüzden yalnız olmam daha iyi."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:258
 translate turkish sm1fs_t008_later_1b9edef9:
 
     # tl "You know what, when we met, I didn't you think you was just a big stupid ugly ogre."
-    tl "You know what, when we met, I didn't you think you was just a big stupid ugly ogre."
+    tl "Biliyor musun, tanıştığımızda, senin sadece kocaman aptal çirkin bir canavar olduğunu düşünmedim."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:261
 translate turkish sm1fs_t008_later_7502dc42:
 
     # mc "Yeah, I know."
-    mc "Yeah, I know."
+    mc "Evet, biliyorum."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:267
 translate turkish sm1fs_t008_later_718efcc8:
@@ -512,13 +512,13 @@ translate turkish sm1fs_t008_later_718efcc8:
 translate turkish sm1fs_t008_later_7cd76da7:
 
     # mct "Oh man. Did she hate it?"
-    mct "Oh man. Did she hate it?"
+    mct "Ah dostum. Nefret mi etti?"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:272
 translate turkish sm1fs_t008_later_ac49ab0c:
 
     # "*clap clap clap*"
-    "*clap clap clap*"
+    "*alkış alkış alkış*"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:279
 translate turkish sm1fs_t008_later_86176f2b:
@@ -536,37 +536,37 @@ translate turkish sm1fs_t008_later_001b78ce:
 translate turkish sm1fs_t008_later_990a1e46:
 
     # ec "Yes, Denise?"
-    ec "Yes, Denise?"
+    ec "Evet, Denise?"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:286
 translate turkish sm1fs_t008_later_e0c9398d:
 
     # mct "Where did she pop out from?"
-    mct "Where did she pop out from?"
+    mct "Nereden çıktı o?"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:289
 translate turkish sm1fs_t008_later_a472212c:
 
     # dvh "Eileen, please add [mcname] to our official acting rolls."
-    dvh "Eileen, please add [mcname] to our official acting rolls."
+    dvh "Eileen, lütfen [mcname]'i resmi oyunculuk listesine ekle."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:292
 translate turkish sm1fs_t008_later_0dbfc92a:
 
     # ec "Right away, Denise."
-    ec "Right away, Denise."
+    ec "Hemen, Denise."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:295
 translate turkish sm1fs_t008_later_ccb80e6e:
 
     # dvh "People doubted me. But there is the proof."
-    dvh "People doubted me. But there is the proof."
+    dvh "İnsanlar benden şüphe etti. Ama işte kanıt."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:296
 translate turkish sm1fs_t008_later_a5a3efcf:
 
     # dvh "I have taken a lump of wet clay, formless, witless."
-    dvh "I have taken a lump of wet clay, formless, witless."
+    dvh "Islak kil yığınını, şekilsiz, akılsız birini aldım."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:299
 translate turkish sm1fs_t008_later_a15d334c:
@@ -578,25 +578,25 @@ translate turkish sm1fs_t008_later_a15d334c:
 translate turkish sm1fs_t008_later_f2840fcc:
 
     # dvh "And turned this simpleton into an actor for the stage."
-    dvh "And turned this simpleton into an actor for the stage."
+    dvh "Ve bu saf adamı sahne için bir oyuncuya dönüştürdüm."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:305
 translate turkish sm1fs_t008_later_3f220077:
 
     # dvh "[mcname], it is my pleasure to welcome you to be an actor in our troupe."
-    dvh "[mcname], it is my pleasure to welcome you to be an actor in our troupe."
+    dvh "[mcname], seni topluluğumuzda oyuncu olarak kabul etmekten mutluluk duyarım."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:306
 translate turkish sm1fs_t008_later_b657a01d:
 
     # dvh "That piece was done flawlessly. You brought me right back to the moment I first heard them spoken."
-    dvh "That piece was done flawlessly. You brought me right back to the moment I first heard them spoken."
+    dvh "O parça kusursuzca yapıldı. Beni onları ilk duyduğum ana geri götürdün."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:309
 translate turkish sm1fs_t008_later_85835cc2:
 
     # dvh "Kudos."
-    dvh "Kudos."
+    dvh "Tebrikler."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:310
 translate turkish sm1fs_t008_later_be397232:
