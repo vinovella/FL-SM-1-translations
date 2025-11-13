@@ -1,4 +1,4 @@
-File: Turkish/code\scenes\character_scenes\arj\sm1cs-arj001.rpy
+File: Turkish/code\scenes\character_scenes\arj\sm1cs-arj001.rpy (done)
 
 File: Turkish/code\scenes\character_scenes\arj\sm1cs-arj002.rpy
 
