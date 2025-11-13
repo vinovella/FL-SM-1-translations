@@ -28,7 +28,7 @@ turkish\code\scenes\main_story\sm1ms030.rpy (done)
 turkish\code\scenes\theatre\dvh\sm1cs-dvh002.rpy (done)
 turkish\code\scenes\theatre\dvh\sm1cs-dvh003.rpy (done)
 turkish\code\scenes\theatre\sm1fs-t007-2i.rpy (done)
-turkish\code\scenes\theatre\sm1fs-t007.rpy (50%)
+turkish\code\scenes\theatre\sm1fs-t007.rpy (done)
 turkish\code\scenes\theatre\sm1fs-t007i.rpy
 turkish\code\scenes\theatre\sm1fs-t008.rpy
 turkish\code\scenes\theatre\sm1fs-t008i.rpy
