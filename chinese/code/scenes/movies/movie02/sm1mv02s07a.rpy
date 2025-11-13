@@ -68,7 +68,7 @@ translate chinese sm1mv02s07a_8e896658:
 translate chinese sm1mv02s07a_fa4ae29e:
 
     # ns "*nervously* Oh... Right."
-    ns "*紧张地说* 哦…… 好的。"
+    ns "*紧张地说* 哦...好的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:100
 translate chinese sm1mv02s07a_7e53eac1:
@@ -86,7 +86,7 @@ translate chinese sm1mv02s07a_0fc62504:
 translate chinese sm1mv02s07a_0c7cde4c:
 
     # mct "Hmmm."
-    mct "嗯……"
+    mct "嗯..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:110
 translate chinese sm1mv02s07a_50a2ae11:
@@ -152,7 +152,7 @@ translate chinese sm1mv02s07a_85e65df7:
 translate chinese sm1mv02s07a_fbd793e2:
 
     # ns "Oh... I guess about how you two met."
-    ns "哦…… 我就是想知道你们俩是怎么认识的。"
+    ns "哦...我就是想知道你们俩是怎么认识的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:153
 translate chinese sm1mv02s07a_5fd6fc24:
@@ -254,7 +254,7 @@ translate chinese sm1mv02s07a_82063093:
 translate chinese sm1mv02s07a_8112b84d:
 
     # mes "Heh. My point is...{w} that at the party, I witnessed a whole new [mcname] that was walking around inside my house."
-    mes "呵。我的意思是……{w}在那个派对上，我在自己家里，看到了一个全新的[mcname]。"
+    mes "呵。我的意思是...{w}在那个派对上，我在自己家里，看到了一个全新的[mcname]。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:201
 translate chinese sm1mv02s07a_a8faf0ba:
@@ -272,7 +272,7 @@ translate chinese sm1mv02s07a_711f3c7a:
 translate chinese sm1mv02s07a_81241dd1:
 
     # mes "From there, what started as a moment of curiosity grew into a hunger, and now... an appreciation for him."
-    mes "我对他一开始只是出于好奇，从那以后渐渐变成了一种渴望，而现在…… 是对他的欣赏。"
+    mes "我对他一开始只是出于好奇，从那以后渐渐变成了一种渴望，而现在...是对他的欣赏。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:208
 translate chinese sm1mv02s07a_a0ac5de1:
@@ -320,7 +320,7 @@ translate chinese sm1mv02s07a_53491d1c:
 translate chinese sm1mv02s07a_a4f2c334:
 
     # ns "Hmmm. Let me think."
-    ns "嗯…… 让我想想。"
+    ns "嗯...让我想想。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:232
 translate chinese sm1mv02s07a_60afeb6c:
@@ -416,7 +416,7 @@ translate chinese sm1mv02s07a_7fa386b8:
 translate chinese sm1mv02s07a_c2dd5daa:
 
     # ns "The first time I saw watersports in hentai... I couldn't believe it."
-    ns "我第一次在成人动漫里看到水上作乐相关的内容时…… 我简直不敢相信自己的眼睛。"
+    ns "我第一次在成人动漫里看到水上作乐相关的内容时...我简直不敢相信自己的眼睛。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:292
 translate chinese sm1mv02s07a_9acff63b:
@@ -434,7 +434,7 @@ translate chinese sm1mv02s07a_a15d68c8:
 translate chinese sm1mv02s07a_551cd309:
 
     # ns "So first it was this... taboo."
-    ns "一开始，这对我来说是一种…… 禁忌。"
+    ns "一开始，这对我来说是一种...禁忌。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:298
 translate chinese sm1mv02s07a_558e3854:
@@ -572,7 +572,7 @@ translate chinese sm1mv02s07a_b8e0a172:
 translate chinese sm1mv02s07a_49bb0154:
 
     # ns "Oooh. You mean. The two of you working together...{w} on one person."
-    ns "哦～～ 你是说…… 你们两个人一起合作……{w}对付同一个人。"
+    ns "哦～～ 你是说...你们两个人一起合作...{w}对付同一个人。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:354
 translate chinese sm1mv02s07a_3d6e0cc9:
@@ -704,771 +704,771 @@ translate chinese sm1mv02s07a_e018cc3c:
 translate chinese sm1mv02s07a_e0c03fe6:
 
     # mes "You can go first, Nari."
-    mes "You can go first, Nari."
+    mes "你可以先来，娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:428
 translate chinese sm1mv02s07a_d1c9fde6:
 
     # mes "This time..."
-    mes "This time..."
+    mes "这次让你先来..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:431
 translate chinese sm1mv02s07a_ef23817b:
 
     # mes "But I will need you to get my pussy ready too."
-    mes "But I will need you to get my pussy ready too."
+    mes "但我也需要你帮我的小穴做好准备。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:434
 translate chinese sm1mv02s07a_2d71d801:
 
     # ns "Your pussy ready?"
-    ns "Your pussy ready?"
+    ns "帮你的小穴做好准备？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:435
 translate chinese sm1mv02s07a_bf5fc8e7:
 
     # ns "Hehehe. I think I can do that."
-    ns "Hehehe. I think I can do that."
+    ns "嘿嘿嘿。我想我可以办到。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:439
 translate chinese sm1mv02s07a_aea1c156:
 
     # ns "Ahuahah... Will this work?"
-    ns "Ahuahah... Will this work?"
+    ns "啊哈...这样可以吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:441
 translate chinese sm1mv02s07a_9c7524f0:
 
     # mes "Looks great from where I'm looking."
-    mes "Looks great from where I'm looking."
+    mes "从我这个角度看非常棒。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:450
 translate chinese sm1mv02s07a_86889063:
 
     # ns "Muaah... does that feel good, [mcname]?"
-    ns "Muaah... does that feel good, [mcname]?"
+    ns "嗯...这样舒服吗，[mcname]？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:453
 translate chinese sm1mv02s07a_20d8a624:
 
     # mc "Yes... Great, Nari..."
-    mc "Yes... Great, Nari..."
+    mc "可以...很棒，娜丽..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:456
 translate chinese sm1mv02s07a_6f03d83b:
 
     # mc "My horny little girl always feels amazing."
-    mc "My horny little girl always feels amazing."
+    mc "我的小骚货总是让人欲仙欲死。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:459
 translate chinese sm1mv02s07a_6f58acd4:
 
     # ns "Hhuaah-huaahh..."
-    ns "Hhuaah-huaahh..."
+    ns "唔--嗯嗯嗯..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:462
 translate chinese sm1mv02s07a_779f6ee3:
 
     # mes "Just don't forget about me, Nari."
-    mes "Just don't forget about me, Nari."
+    mes "可别忘了我，娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:465
 translate chinese sm1mv02s07a_93ed8d05:
 
     # mes "We will be working together for the scene."
-    mes "We will be working together for the scene."
+    mes "我们待会还要配合拍摄的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:468
 translate chinese sm1mv02s07a_9a427fea:
 
     # mes "Oha-haah... we need to keep practicing."
-    mes "Oha-haah... we need to keep practicing."
+    mes "喔...哈哈...我们得继续练习。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:471
 translate chinese sm1mv02s07a_c8250773:
 
     # ns "Yes, Min!"
-    ns "Yes, Min!"
+    ns "好的，明！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:474
 translate chinese sm1mv02s07a_dbb6ff46:
 
     # mes "*moaning* Oh fuck!"
-    mes "*moaning* Oh fuck!"
+    mes "*呻吟* 操！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:486
 translate chinese sm1mv02s07a_3bc1cd1c:
 
     # ns "Ahuah..."
-    ns "Ahuah..."
+    ns "啊哈..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:488
 translate chinese sm1mv02s07a_34254b03:
 
     # ns "Mrrmm...."
-    ns "Mrrmm...."
+    ns "唔...."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:494
 translate chinese sm1mv02s07a_a19e34b8:
 
     # mes "You are a natural, Nari."
-    mes "You are a natural, Nari."
+    mes "你真是个天生的尤物，娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:497
 translate chinese sm1mv02s07a_1ed1aa33:
 
     # ns "Thank you, Min."
-    ns "Thank you, Min."
+    ns "谢谢你，明。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:498
 translate chinese sm1mv02s07a_94f2bbc7:
 
     # ns "I aim to impress."
-    ns "I aim to impress."
+    ns "我力求让你满意。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:501
 translate chinese sm1mv02s07a_9274a4e6:
 
     # mes "You don't have to impress me."
-    mes "You don't have to impress me."
+    mes "你不需要取悦我。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:504
 translate chinese sm1mv02s07a_b76d686c:
 
     # mes "I mean I like it, but you need to make sure your own needs are met too."
-    mes "I mean I like it, but you need to make sure your own needs are met too."
+    mes "我的意思是你让我很享受，但你也得确保自己的需求得到满足。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:507
 translate chinese sm1mv02s07a_2b7a37bf:
 
     # ns "Good fortune smiles on me."
-    ns "Good fortune smiles on me."
+    ns "好运总是眷顾我。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:515
 translate chinese sm1mv02s07a_watersports_595ee7a3:
 
     # ns "But I am feeling... a little thirsty, [mcname]."
-    ns "But I am feeling... a little thirsty, [mcname]."
+    ns "但我感觉...有点渴了，[mcname]。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:518
 translate chinese sm1mv02s07a_watersports_d1e24133:
 
     # mes "Oooooooh."
-    mes "Oooooooh."
+    mes "噢噢噢--"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:521
 translate chinese sm1mv02s07a_watersports_5b6ab294:
 
     # mc "Coming right up."
-    mc "Coming right up."
+    mc "这就来。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:524
 translate chinese sm1mv02s07a_watersports_13d02858:
 
     # mc "Open up."
-    mc "Open up."
+    mc "张嘴。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:536
 translate chinese sm1mv02s07a_watersports_9527a087:
 
     # ns "Mrrrrmmmm."
-    ns "Mrrrrmmmm."
+    ns "唔唔唔..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:537
 translate chinese sm1mv02s07a_watersports_e03bd905:
 
     # mes "Drink it all up..."
-    mes "Drink it all up..."
+    mes "全部喝下去..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:538
 translate chinese sm1mv02s07a_watersports_06195294:
 
     # mes "Such a good girl."
-    mes "Such a good girl."
+    mes "真是个好姑娘。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:539
 translate chinese sm1mv02s07a_watersports_5b0bc377:
 
     # ns "*gurgling and slurping*"
-    ns "*gurgling and slurping*"
+    ns "*咕噜咕噜的吞咽声*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:546
 translate chinese sm1mv02s07a_watersports_e9d85557:
 
     # mc "Ahuaah..."
-    mc "Ahuaah..."
+    mc "哈啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:549
 translate chinese sm1mv02s07a_watersports_2ac7bd00:
 
     # ns "Nuraah-faaah! Ohuaah... Euhhhh..."
-    ns "Nuraah-faaah! Ohuaah... Euhhhh..."
+    ns "呃呃呃--咳！咳咳...呃呜呜..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:550
 translate chinese sm1mv02s07a_watersports_9ecdaa7d:
 
     # ns "*panting*"
-    ns "*panting*"
+    ns "*喘息*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:553
 translate chinese sm1mv02s07a_watersports_874ca342:
 
     # mes "All good there?"
-    mes "All good there?"
+    mes "还好吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:556
 translate chinese sm1mv02s07a_watersports_77a39142:
 
     # ns "*breathless* Extremely good."
-    ns "*breathless* Extremely good."
+    ns "*喘不过气* 好得不得了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:559
 translate chinese sm1mv02s07a_watersports_d4650470:
 
     # mes "Care to try out my flavor?"
-    mes "Care to try out my flavor?"
+    mes "想尝尝我的味道吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:562
 translate chinese sm1mv02s07a_watersports_1d2558fb:
 
     # ns "I should be prepared for anything."
-    ns "I should be prepared for anything."
+    ns "我应该做好万全准备。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:563
 translate chinese sm1mv02s07a_watersports_9211aaab:
 
     # ns "*excitedly* Plus I really want to!"
-    ns "*excitedly* Plus I really want to!"
+    ns "*兴奋地说* 而且我真的很想试试！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:566
 translate chinese sm1mv02s07a_watersports_8119ff39:
 
     # mes "Haha."
-    mes "Haha."
+    mes "哈哈。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:570
 translate chinese sm1mv02s07a_watersports_8f411162:
 
     # ns "Mmmm."
-    ns "Mmmm."
+    ns "嗯..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:573
 translate chinese sm1mv02s07a_watersports_bee06ac7:
 
     # mes "*soft breathing*"
-    mes "*soft breathing*"
+    mes "*轻柔的呼吸声*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:579
 translate chinese sm1mv02s07a_watersports_d261fc2b:
 
     # ns "Ahuaahh..."
-    ns "Ahuaahh..."
+    ns "啊唔..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:584
 translate chinese sm1mv02s07a_watersports_6ec4d390:
 
     # mc "How's it feel?"
-    mc "How's it feel?"
+    mc "感觉如何？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:585
 translate chinese sm1mv02s07a_watersports_5fca81a8:
 
     # mes "Hehe. Incredible. Usually I'm always on the receiving end."
-    mes "Hehe. Incredible. Usually I'm always on the receiving end."
+    mes "哈哈。妙不可言。平时我总是被动接受的一方。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:586
 translate chinese sm1mv02s07a_watersports_6cd87887:
 
     # mes "She's gulping it all up."
-    mes "She's gulping it all up."
+    mes "她正在大口吞咽呢。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:587
 translate chinese sm1mv02s07a_watersports_658b2833:
 
     # mes "Only you could be so lucky to find a watersports addict in an office cubicle."
-    mes "Only you could be so lucky to find a watersports addict in an office cubicle."
+    mes "也只有你能这么走运，在办公隔间里找到个喜欢水上作乐的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:588
 translate chinese sm1mv02s07a_watersports_d1392f98:
 
     # mc "We actually have open seating."
-    mc "We actually have open seating."
+    mc "我们其实是开放式办公区。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:589
 translate chinese sm1mv02s07a_watersports_f237aa88:
 
     # mes "Exactly my - uaha... *moans*"
-    mes "Exactly my - uaha... *moans*"
+    mes "正合我--呜啊...*呻吟*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:590
 translate chinese sm1mv02s07a_watersports_9434c18b:
 
     # mes "Point."
-    mes "Point."
+    mes "...我意。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:601
 translate chinese sm1mv02s07a_watersports_6f6512e0:
 
     # mc "Nari, how do you feel about pissing on me?"
-    mc "Nari, how do you feel about pissing on me?"
+    mc "娜丽，你愿意尿在我身上吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:604
 translate chinese sm1mv02s07a_watersports_6da522c8:
 
     # ns "On you? Me?"
-    ns "On you? Me?"
+    ns "尿在你身上？让我来？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:605
 translate chinese sm1mv02s07a_watersports_2ed21113:
 
     # ns "I thought watersports was all about men using girls as urinals."
-    ns "I thought watersports was all about men using girls as urinals."
+    ns "我以为水上作乐都是男人把女孩当小便器用的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:608
 translate chinese sm1mv02s07a_watersports_84af3145:
 
     # mes "Haha. For some, it is."
-    mes "Haha. For some, it is."
+    mes "哈哈。对某些人来说确实如此。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:609
 translate chinese sm1mv02s07a_watersports_7a02f197:
 
     # mes "But [mcname] has always been a flexible one."
-    mes "But [mcname] has always been a flexible one."
+    mes "但[mcname]向来都很灵活变通。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:610
 translate chinese sm1mv02s07a_watersports_96561336:
 
     # mes "He enjoys it both ways."
-    mes "He enjoys it both ways."
+    mes "他两种方式都乐在其中。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:613
 translate chinese sm1mv02s07a_watersports_cccbe836:
 
     # ns "But I've never done it before."
-    ns "But I've never done it before."
+    ns "可我从来没试过。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:616
 translate chinese sm1mv02s07a_watersports_94192873:
 
     # mes "I'll be there the whole time."
-    mes "I'll be there the whole time."
+    mes "我会全程陪着你的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:617
 translate chinese sm1mv02s07a_watersports_d8ce9edf:
 
     # mes "It's super easy, barely an inconvenience."
-    mes "It's super easy, barely an inconvenience."
+    mes "这事超级简单，根本不费劲。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:621
 translate chinese sm1mv02s07a_watersports_e1f949bb:
 
     # mc "You're up, Min."
-    mc "You're up, Min."
+    mc "该你了，明。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:625
 translate chinese sm1mv02s07a_watersports_1c59b413:
 
     # mes "I thought you'd never ask."
-    mes "I thought you'd never ask."
+    mes "我正等你开口呢。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:627
 translate chinese sm1mv02s07a_watersports_851a8a52:
 
     # mc "But I'm not going easy on you.{w} You ready to put it all on the line?"
-    mc "But I'm not going easy on you.{w} You ready to put it all on the line?"
+    mc "但我可不会对你手下留情。{w}你准备好全力以赴了吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:630
 translate chinese sm1mv02s07a_watersports_91cad09b:
 
     # mes "Bitch I was born ready."
-    mes "Bitch I was born ready."
+    mes "少废话，老娘天生就准备好了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:632
 translate chinese sm1mv02s07a_watersports_faa03e1a:
 
     # mc "Haha."
-    mc "Haha."
+    mc "哈哈。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:639
 translate chinese sm1mv02s07a_watersports_f261d5a3:
 
     # mes "I'll get you nice and ready."
-    mes "I'll get you nice and ready."
+    mes "我会让你好好进入状态的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:642
 translate chinese sm1mv02s07a_watersports_e274088d:
 
     # ns "Hah-uuhaah... ha-hoouhaha..."
-    ns "Hah-uuhaah... ha-hoouhaha..."
+    ns "哈--呜哇...啊--嚯哈哈..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:646
 translate chinese sm1mv02s07a_watersports_0b8d8198:
 
     # ns "I'm ready."
-    ns "I'm ready."
+    ns "我准备好了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:649
 translate chinese sm1mv02s07a_watersports_ba750082:
 
     # ns "Are you sure about this?"
-    ns "Are you sure about this?"
+    ns "你确定要这样吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:652
 translate chinese sm1mv02s07a_watersports_5810ea82:
 
     # mc "Fire away, gorgeous."
-    mc "Fire away, gorgeous."
+    mc "开火吧，美人。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:660
 translate chinese sm1mv02s07a_watersports_ff1dd6b3:
 
     # ns "Ahuuaahah..."
-    ns "Ahuuaahah..."
+    ns "啊哇啊啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:661
 translate chinese sm1mv02s07a_watersports_bdfaba6e:
 
     # mes "Good girl."
-    mes "Good girl."
+    mes "好姑娘。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:664
 translate chinese sm1mv02s07a_watersports_94621aa9:
 
     # mc "*gurgling*"
-    mc "*gurgling*"
+    mc "*咕噜声*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:665
 translate chinese sm1mv02s07a_watersports_79a10be1:
 
     # mes "Like I said... easy as breathing."
-    mes "Like I said... easy as breathing."
+    mes "就像我说的...简单得像呼吸一样。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:668
 translate chinese sm1mv02s07a_watersports_83a146c1:
 
     # mct "Oh this is so hot."
-    mct "Oh this is so hot."
+    mct "哦这太刺激了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:669
 translate chinese sm1mv02s07a_watersports_62d30ba6:
 
     # mc "I feel like I'm going to explode!"
-    mc "I feel like I'm going to explode!"
+    mc "我感觉快要爆炸了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:672
 translate chinese sm1mv02s07a_watersports_36b51bb2:
 
     # ns "Ahuaah... I feel so free..."
-    ns "Ahuaah... I feel so free..."
+    ns "啊啊...我觉得好自由..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:673
 translate chinese sm1mv02s07a_watersports_59ef47b6:
 
     # ns "Like I'm flying."
-    ns "Like I'm flying."
+    ns "就像在飞一样。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:682
 translate chinese sm1mv02s07a_watersports_33d70267:
 
     # ns "*deep breath*"
-    ns "*deep breath*"
+    ns "*深吸一口气*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:683
 translate chinese sm1mv02s07a_watersports_2cf31acb:
 
     # ns "That was... really nice."
-    ns "That was... really nice."
+    ns "刚才...真的很棒。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:686
 translate chinese sm1mv02s07a_watersports_01fe1a25:
 
     # ns "Thank you for trusting me for... it"
-    ns "Thank you for trusting me for... it"
+    ns "谢谢你们信任我...进行这种尝试。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:689
 translate chinese sm1mv02s07a_watersports_c71c0283:
 
     # mc "Not a problem, Nari."
-    mc "Not a problem, Nari."
+    mc "不客气，娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:693
 translate chinese sm1mv02s07a_watersports_1feb4f40:
 
     # mes "We should clean up a bit."
-    mes "We should clean up a bit."
+    mes "我们该稍微清理下了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:694
 translate chinese sm1mv02s07a_watersports_ebc36340:
 
     # mes "Don't want to get piss on the benches."
-    mes "Don't want to get piss on the benches."
+    mes "可不能把尿沾到长椅上。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:696
 translate chinese sm1mv02s07a_watersports_081b75b3:
 
     # mc "Hahah."
-    mc "Hahah."
+    mc "哈哈哈。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:700
 translate chinese sm1mv02s07a_watersports_88e49124:
 
     # mes "Oooh. In all the excitement, I nearly forgot my turn."
-    mes "Oooh. In all the excitement, I nearly forgot my turn."
+    mes "喔哦。太兴奋了，我差点忘了轮到我了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:702
 translate chinese sm1mv02s07a_watersports_bda1ba2d:
 
     # ns "Mmm. Maybe that is a sign that we should stop."
-    ns "Mmm. Maybe that is a sign that we should stop."
+    ns "嗯。也许这就是个信号，我们该停下了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:708
 translate chinese sm1mv02s07a_watersports_3b2d9360:
 
     # mes "I didn't hear no bell."
-    mes "I didn't hear no bell."
+    mes "我可没听见铃声。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:709
 translate chinese sm1mv02s07a_watersports_68fd51b8:
 
     # mes "How about it, big guy?"
-    mes "How about it, big guy?"
+    mes "你觉得呢，大个子？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:712
 translate chinese sm1mv02s07a_watersports_47c63e52:
 
     # mes "Still got gas in the tank?"
-    mes "Still got gas in the tank?"
+    mes "油箱里还有油吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:724
 translate chinese sm1mv02s07a_after_watersports_fea1d698:
 
     # ns "Mmmmm."
-    ns "Mmmmm."
+    ns "嗯嗯嗯。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:727
 translate chinese sm1mv02s07a_after_watersports_7c28ffa2:
 
     # mes "Oh fuck yeah."
-    mes "Oh fuck yeah."
+    mes "哦太棒了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:728
 translate chinese sm1mv02s07a_after_watersports_24cac04d:
 
     # mes "Push it in deep, [mcname]."
-    mes "Push it in deep, [mcname]."
+    mes "再往里顶深点，[mcname]。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:736
 translate chinese sm1mv02s07a_after_watersports_02d0276a:
 
     # mes "Fuh... houaah..."
-    mes "Fuh... houaah..."
+    mes "呼...嗷..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:737
 translate chinese sm1mv02s07a_after_watersports_a4b719b9:
 
     # mes "Oh you two are double-teaming me."
-    mes "Oh you two are double-teaming me."
+    mes "哦你们两个在双管齐下。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:740
 translate chinese sm1mv02s07a_after_watersports_d34a2d11:
 
     # mes "Super fair-ayiaaeeahh..."
-    mes "Super fair-ayiaaeeahh..."
+    mes "超级爽啊啊啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:743
 translate chinese sm1mv02s07a_after_watersports_299ecb75:
 
     # ns "We can stop if you'd like, Min."
-    ns "We can stop if you'd like, Min."
+    ns "如果你想停的话我们可以停下，明。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:744
 translate chinese sm1mv02s07a_after_watersports_cbc24aaa:
 
     # mes "Not on your life."
-    mes "Not on your life."
+    mes "除非我死。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:747
 translate chinese sm1mv02s07a_after_watersports_eb26a93f:
 
     # mes "No stopping until I make this beast inside me erupt like a fucking rocket!"
-    mes "No stopping until I make this beast inside me erupt like a fucking rocket!"
+    mes "除非让我体内这头洪荒巨兽他妈的像火箭般冲天而起，否则别想停！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:750
 translate chinese sm1mv02s07a_after_watersports_a88fa25c:
 
     # mc "Oh! We should make a movie about animatronic robots that fuck."
-    mc "Oh! We should make a movie about animatronic robots that fuck."
+    mc "哦！我们应该拍部关于会做爱的机械机器人的电影。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:753
 translate chinese sm1mv02s07a_after_watersports_227bd28b:
 
     # ns "Fucking robots? I'm not sure that one should leave the sauna, [mcname]."
-    ns "Fucking robots? I'm not sure that one should leave the sauna, [mcname]."
+    ns "会做爱的机器人？[mcname]，这玩意儿最好别带出桑拿房。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:754
 translate chinese sm1mv02s07a_after_watersports_4da22b5a:
 
     # mes "Hahah."
-    mes "Hahah."
+    mes "哈哈。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:757
 translate chinese sm1mv02s07a_after_watersports_6f6363bb:
 
     # mes "Oh momma! Fuck... fuck-huaaah!"
-    mes "Oh momma! Fuck... fuck-huaaah!"
+    mes "哦天哪！操...操--嗷！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:760
 translate chinese sm1mv02s07a_after_watersports_0f21764b:
 
     # mes "Right there. That's it."
-    mes "Right there. That's it."
+    mes "就是那里。就是那里！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:763
 translate chinese sm1mv02s07a_after_watersports_7dd96f5f:
 
     # mes "You're getting me so close... {w} Come on, [mcname]!"
-    mes "You're getting me so close... {w} Come on, [mcname]!"
+    mes "你们把我弄得快要...{w}来吧，[mcname]！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:770
 translate chinese sm1mv02s07a_after_watersports_6400bb25:
 
     # mes "Ahaaaa-yeeeee-ooooaaaah..."
-    mes "Ahaaaa-yeeeee-ooooaaaah..."
+    mes "啊哈--呀--啊啊啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:774
 translate chinese sm1mv02s07a_after_watersports_c366f7d1:
 
     # mc "Oh fuck. Min!"
-    mc "Oh fuck. Min!"
+    mc "我操。明！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:778
 translate chinese sm1mv02s07a_after_watersports_488ed5ff:
 
     # mes "Yesss-ooouhaaah..."
-    mes "Yesss-ooouhaaah..."
+    mes "嗯...噢噢啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:783
 translate chinese sm1mv02s07a_after_watersports_f147a0ff:
 
     # mes "Fuck me... Ohhhh..."
-    mes "Fuck me... Ohhhh..."
+    mes "操... 哦哦哦..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:790
 translate chinese sm1mv02s07a_after_watersports_106fc9c7:
 
     # ns "Ooooh!"
-    ns "Ooooh!"
+    ns "噢噢噢--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:801
 translate chinese sm1mv02s07a_after_watersports_60d64c1b:
 
     # mes "Fucking hot."
-    mes "Fucking hot."
+    mes "真他妈带劲。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:805
 translate chinese sm1mv02s07a_after_watersports_84ce5d23:
 
     # mes "So... do you think you passed?"
-    mes "So... do you think you passed?"
+    mes "所以...你觉得自己通过测试了吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:809
 translate chinese sm1mv02s07a_after_watersports_f3fbb643:
 
     # ns "What? I was being tested."
-    ns "What? I was being tested."
+    ns "什么？我刚刚是在被测试吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:813
 translate chinese sm1mv02s07a_after_watersports_84a4a784:
 
     # mes "Haha. I was just joking, Nari."
-    mes "Haha. I was just joking, Nari."
+    mes "哈哈。我只是在开玩笑，娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:816
 translate chinese sm1mv02s07a_after_watersports_9740ffdc:
 
     # mc "If it was a test, you certainly passed with flying colors."
-    mc "If it was a test, you certainly passed with flying colors."
+    mc "如果这是测试，你绝对以优异成绩通过了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:818
 translate chinese sm1mv02s07a_after_watersports_730d02b3:
 
     # ns "Excellent."
-    ns "Excellent."
+    ns "太好了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:821
 translate chinese sm1mv02s07a_after_watersports_2486c521:
 
     # mes "Either way, I hope that this was a good test run for the stuff we'll be doing together in the movies."
-    mes "Either way, I hope that this was a good test run for the stuff we'll be doing together in the movies."
+    mes "不管怎样，我都盼着这次能算是一次不错的预演，帮我们熟悉接下来要一起拍的电影情节。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:824
 translate chinese sm1mv02s07a_after_watersports_9c7c9d5d:
 
     # ns "It was certainly a trial by sauna sweat."
-    ns "It was certainly a trial by sauna sweat."
+    ns "这绝对是一次被桑拿汗水洗礼的考验。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:827
 translate chinese sm1mv02s07a_after_watersports_6bd461ba:
 
     # mes "[mcname] and Stacy's fans aren't going to know what hit them when we get on stage together."
-    mes "[mcname] and Stacy's fans aren't going to know what hit them when we get on stage together."
+    mes "等我们同台演出时，[mcname]和史黛西的粉丝们肯定会不知所措。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:835
 translate chinese sm1mv02s07a_after_watersports_817806a6:
 
     # ns "I can't wait."
-    ns "I can't wait."
+    ns "我已经等不及了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:836
 translate chinese sm1mv02s07a_after_watersports_65cd2bdc:
 
     # ns "What's next, [mcname]?"
-    ns "What's next, [mcname]?"
+    ns "接下来做什么，[mcname]？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:839
 translate chinese sm1mv02s07a_after_watersports_99de1526:
 
     # mc "I think we should wash up before the spa staff kicks us out."
-    mc "I think we should wash up before the spa staff kicks us out."
+    mc "我们还是赶紧清洗一下吧，免得被水疗中心的工作人员赶出去。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:841
 translate chinese sm1mv02s07a_after_watersports_f720b3f4:
 
     # mes "Yeah. We have definitely made {i}full use{/i} of the facilities."
-    mes "Yeah. We have definitely made {i}full use{/i} of the facilities."
+    mes "是啊。我们确实把这里的设施{i}物尽其用{/i}了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:849
 translate chinese sm1mv02s07a_after_watersports_8a6805e6:
 
     # ns "Great day, Min. Thanks again."
-    ns "Great day, Min. Thanks again."
+    ns "今天太开心了，明。再次谢谢你。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:851
 translate chinese sm1mv02s07a_after_watersports_e2c459a4:
 
     # mes "Don't mention it."
-    mes "Don't mention it."
+    mes "不客气"
 
 translate chinese strings:
 
     # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:116
     old "60 minutes later"
-    new "60 minutes later"
+    new "60分钟后"
 
     # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:260
     old "How can you focus on talking in a place like this?"
-    new "How can you focus on talking in a place like this?"
+    new "在这种地方，你怎么还能专心聊天呢？"
 
     # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:260
     old "I like the way they think"
-    new "I like the way they think"
+    new "我挺欣赏他们这种想法的"
 
     # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:597
     old "Ask Nari to piss on you"
-    new "Ask Nari to piss on you"
+    new "让娜丽尿在你身上"
 
     # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:597
     old "I think Min needs a turn on my cock"
-    new "I think Min needs a turn on my cock"
+    new "我觉得该轮到明享用我的家伙了"
 
