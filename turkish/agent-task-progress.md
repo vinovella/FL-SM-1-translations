@@ -1,9 +1,9 @@
 
-File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes006.rpy (Entire file untranslated) [3777 words] (83%)
+File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes006.rpy (Entire file untranslated) [3777 words] (done)
 
-File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes007.rpy (Entire file untranslated) [1174 words]
+File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes007.rpy (Entire file untranslated) [1174 words] (done)
 
-File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh009.rpy (Entire file untranslated) [3609 words]
+File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh009.rpy (Entire file untranslated) [3609 words] (1%)
 
 File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh010.rpy (Entire file untranslated) [945 words]
 
