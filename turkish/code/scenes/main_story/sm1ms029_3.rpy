@@ -2,19 +2,19 @@
 translate turkish sm1ms029_part_1_my_appear_0d0364cd:
 
     # arj "Oh yeah, I can see how wet you're getting."
-    arj "Oh yeah, I can see how wet you're getting."
+    arj "Oh evet, ne kadar ıslandığını görebiliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1424
 translate turkish sm1ms029_part_1_my_appear_d1864257:
 
     # arj "I bet you're thinking about [mcname] fucking you right now."
-    arj "I bet you're thinking about [mcname] fucking you right now."
+    arj "Bahse girerim şu anda [mcname]'in seni siktiğini düşünüyorsun."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1425
 translate turkish sm1ms029_part_1_my_appear_39dcb748:
 
     # arj "Pounding your tight pussy, with this dildo shoved up your ass."
-    arj "Pounding your tight pussy, with this dildo shoved up your ass."
+    arj "Bu dildo kıçına sokulmuşken dar amını dövüyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1426
 translate turkish sm1ms029_part_1_my_appear_2bc4e327:
@@ -26,7 +26,7 @@ translate turkish sm1ms029_part_1_my_appear_2bc4e327:
 translate turkish sm1ms029_part_1_my_appear_674e7749:
 
     # arj "That's right, I know al your fantasies, you little perv."
-    arj "That's right, I know al your fantasies, you little perv."
+    arj "Doğru, tüm fantezilerini biliyorum, seni küçük sapık."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1429
 translate turkish sm1ms029_part_1_my_appear_7f748666:
@@ -38,37 +38,37 @@ translate turkish sm1ms029_part_1_my_appear_7f748666:
 translate turkish sm1ms029_part_1_my_appear_4be528b3:
 
     # arj "And I can see how turned on they make you."
-    arj "And I can see how turned on they make you."
+    arj "Ve bunların seni nasıl tahrik ettiğini görebiliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1431
 translate turkish sm1ms029_part_1_my_appear_630b14f2:
 
     # arj "Your pussy is practically a fountain, dripping wet thinking about [mcname]'s cock."
-    arj "Your pussy is practically a fountain, dripping wet thinking about [mcname]'s cock."
+    arj "Amın neredeyse bir çeşme gibi, [mcname]'in sikini düşünmekten sırılsıklam."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1433
 translate turkish sm1ms029_part_1_my_appear_5f8c4ab9:
 
     # mct "Holy shit, AmRose turned into a freak with just this little bit of control."
-    mct "Holy shit, AmRose turned into a freak with just this little bit of control."
+    mct "Vay be, AmRose sadece bu küçük kontrolle ucubeye döndü."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1434
 translate turkish sm1ms029_part_1_my_appear_15e57e42:
 
     # mct "I need to remember this-"
-    mct "I need to remember this-"
+    mct "Bunu hatırlamam gerek-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1435
 translate turkish sm1ms029_part_1_my_appear_70314a44:
 
     # arj "Oh, and your ass takes this dildo soooo well!"
-    arj "Oh, and your ass takes this dildo soooo well!"
+    arj "Oh, ve kıçın bu dildoyu çooook iyi alıyor!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1436
 translate turkish sm1ms029_part_1_my_appear_5d49a728:
 
     # mct "Jesus, I definitely need to remember this."
-    mct "Jesus, I definitely need to remember this."
+    mct "Tanrım, kesinlikle bunu hatırlamam gerek."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1439
 translate turkish sm1ms029_part_1_my_appear_39df4a78:
@@ -80,25 +80,25 @@ translate turkish sm1ms029_part_1_my_appear_39df4a78:
 translate turkish sm1ms029_part_1_my_appear_0c33f972:
 
     # mct "Who could that be?"
-    mct "Who could that be?"
+    mct "Kim olabilir?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1444
 translate turkish sm1ms029_part_1_my_appear_c3dc273e:
 
     # mct "Another late arrival?"
-    mct "Another late arrival?"
+    mct "Başka bir geç gelen mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1446
 translate turkish sm1ms029_part_1_my_appear_ba366f6d:
 
     # my "[mcname]! Are you busy!?"
-    my "[mcname]! Are you busy!?"
+    my "[mcname]! Meşgul müsün!?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1450
 translate turkish sm1ms029_part_1_my_appear_433bdcbc:
 
     # mct "Oh shit, it's Mom!"
-    mct "Oh shit, it's Mom!"
+    mct "Oh kahretsin, annem!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1452
 translate turkish sm1ms029_part_1_my_appear_39033afc:
