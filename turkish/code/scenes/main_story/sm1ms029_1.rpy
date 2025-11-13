@@ -752,79 +752,79 @@ translate turkish sm1ms029_party_mes_c77c474f:
 translate turkish sm1ms029_party_mes_63a9e153:
 
     # sy "What do you mean?"
-    sy "What do you mean?"
+    sy "Ne demek istiyorsun?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:356
 translate turkish sm1ms029_party_mes_0d11b7d0:
 
     # mes "Masks, greeting guests at the door..."
-    mes "Masks, greeting guests at the door..."
+    mes "Maskeler, kapıda misafirleri karşılama..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:358
 translate turkish sm1ms029_party_mes_e4fab229:
 
     # mes "Feels just like the old days."
-    mes "Feels just like the old days."
+    mes "Tıpkı eski günler gibi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:360
 translate turkish sm1ms029_party_mes_6ff41185:
 
     # mc "Nope."
-    mc "Nope."
+    mc "Hayır."
 
 # game/code/scenes/main_story/sm1ms029.rpy:362
 translate turkish sm1ms029_party_mes_9c22b126:
 
     # mes "No?"
-    mes "No?"
+    mes "Hayır mı?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:363
 translate turkish sm1ms029_party_mes_2f0881e2:
 
     # mc "Nope!"
-    mc "Nope!"
+    mc "Hayır!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:366
 translate turkish sm1ms029_party_mes_137ae08d:
 
     # sy "Because it's going to be better than the old days."
-    sy "Because it's going to be better than the old days."
+    sy "Çünkü eski günlerden daha iyi olacak."
 
 # game/code/scenes/main_story/sm1ms029.rpy:369
 translate turkish sm1ms029_party_mes_370eed48:
 
     # mes "That's quite the bar, Stacy. Think you'll be able to pull it off?"
-    mes "That's quite the bar, Stacy. Think you'll be able to pull it off?"
+    mes "Bu oldukça yüksek bir hedef, Stacy. Başarabileceğini düşünüyor musun?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:370
 translate turkish sm1ms029_party_mes_a08197a3:
 
     # mc "Oh, I wouldn't doubt her."
-    mc "Oh, I wouldn't doubt her."
+    mc "Oh, ondan şüphe etmem."
 
 # game/code/scenes/main_story/sm1ms029.rpy:373
 translate turkish sm1ms029_party_mes_c33cc0a8:
 
     # sy "Because I know we're going pull it off."
-    sy "Because I know we're going pull it off."
+    sy "Çünkü başaracağımızı biliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:374
 translate turkish sm1ms029_party_mes_5dbcb40b:
 
     # mc "She's got a few surprises in store."
-    mc "She's got a few surprises in store."
+    mc "Birkaç sürprizi var."
 
 # game/code/scenes/main_story/sm1ms029.rpy:377
 translate turkish sm1ms029_party_mes_9a4d8444:
 
     # mes "Well, I'm looking forward to it."
-    mes "Well, I'm looking forward to it."
+    mes "Şey, dört gözle bekliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:391
 translate turkish sm1ms029_party_mh_5c541590:
 
     # sy "Lyssa! Yay!"
-    sy "Lyssa! Yay!"
+    sy "Lyssa! Yaşasın!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:393
 translate turkish sm1ms029_party_mh_e6069c36:
@@ -836,175 +836,175 @@ translate turkish sm1ms029_party_mh_e6069c36:
 translate turkish sm1ms029_party_mh_dc042459:
 
     # mc "I'm happy you could make it, Lyssa."
-    mc "I'm happy you could make it, Lyssa."
+    mc "Gelebildiğine sevindim, Lyssa."
 
 # game/code/scenes/main_story/sm1ms029.rpy:397
 translate turkish sm1ms029_party_mh_24ca0de0:
 
     # mh "Of course, how could I refuse your invitation?"
-    mh "Of course, how could I refuse your invitation?"
+    mh "Tabii ki, davetinizi nasıl geri çevirebilirdim?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:404
 translate turkish sm1ms029_party_mh_83cbdced:
 
     # mh "Especially your invitation, [mcname]."
-    mh "Especially your invitation, [mcname]."
+    mh "Özellikle senin davetin, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:408
 translate turkish sm1ms029_party_mh_8da099d7:
 
     # mh "And how could I forget my Stacy."
-    mh "And how could I forget my Stacy."
+    mh "Ve benim Stacy'mi nasıl unutabilirim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:416
 translate turkish sm1ms029_party_mh_bb326048:
 
     # mh "Mmmm, I see you two are continuing the masks tradition."
-    mh "Mmmm, I see you two are continuing the masks tradition."
+    mh "Mmmm, maske geleneğini sürdürdüğünüzü görüyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:418
 translate turkish sm1ms029_party_mh_e9fab0f6:
 
     # sy "Yeah! I always thought they were so fun."
-    sy "Yeah! I always thought they were so fun."
+    sy "Evet! Hep çok eğlenceli olduklarını düşünmüşümdür."
 
 # game/code/scenes/main_story/sm1ms029.rpy:419
 translate turkish sm1ms029_party_mh_3d1bb645:
 
     # mh "I always really liked them as well."
-    mh "I always really liked them as well."
+    mh "Ben de hep onları çok sevmişimdir."
 
 # game/code/scenes/main_story/sm1ms029.rpy:424
 translate turkish sm1ms029_party_mh_ad8cdd15:
 
     # mc "You did always know how to rock it."
-    mc "You did always know how to rock it."
+    mc "Her zaman nasıl havalı olacağını bilirdin."
 
 # game/code/scenes/main_story/sm1ms029.rpy:425
 translate turkish sm1ms029_party_mh_3ed77072:
 
     # mh "Thank you, [mcname]."
-    mh "Thank you, [mcname]."
+    mh "Teşekkürler, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:427
 translate turkish sm1ms029_party_mh_40ded0a5:
 
     # mh "How do I look? Just as wonderful as always?"
-    mh "How do I look? Just as wonderful as always?"
+    mh "Nasıl görünüyorum? Her zamanki gibi harika mı?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:428
 translate turkish sm1ms029_party_mh_f018ca3a:
 
     # sy "Hahaha, as wonderful as always Lyssa."
-    sy "Hahaha, as wonderful as always Lyssa."
+    sy "Hahaha, her zamanki gibi harika Lyssa."
 
 # game/code/scenes/main_story/sm1ms029.rpy:430
 translate turkish sm1ms029_party_mh_75197ea9:
 
     # mh "Excited to party."
-    mh "Excited to party."
+    mh "Parti yapmak için heyecanlıyım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:443
 translate turkish sm1ms029_party_continue_448e3711:
 
     # mc "Is that everybody?"
-    mc "Is that everybody?"
+    mc "Herkes bu kadar mı?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:444
 translate turkish sm1ms029_party_continue_e5fb88c5:
 
     # sy "I think so?"
-    sy "I think so?"
+    sy "Sanırım?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:446
 translate turkish sm1ms029_party_continue_4980e640:
 
     # hr "Not exactly."
-    hr "Not exactly."
+    hr "Tam olarak değil."
 
 # game/code/scenes/main_story/sm1ms029.rpy:449
 translate turkish sm1ms029_party_continue_d99ec557:
 
     # hr "Had to stop by and see if you two were staying out of trouble."
-    hr "Had to stop by and see if you two were staying out of trouble."
+    hr "Uğrayıp ikinizin başınızı belaya sokmadığınızı görmem gerekiyordu."
 
 # game/code/scenes/main_story/sm1ms029.rpy:451
 translate turkish sm1ms029_party_continue_eb5e4b2e:
 
     # sy "Oh my God, Hana!"
-    sy "Oh my God, Hana!"
+    sy "Aman Tanrım, Hana!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:452
 translate turkish sm1ms029_party_continue_4646aae7:
 
     # mc "Oh my God, Hana?"
-    mc "Oh my God, Hana?"
+    mc "Aman Tanrım, Hana?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:457
 translate turkish sm1ms029_party_continue_9d83a8e2:
 
     # mc "What are you doing here?"
-    mc "What are you doing here?"
+    mc "Burada ne yapıyorsun?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:458
 translate turkish sm1ms029_party_continue_d6ef86f8:
 
     # hr "Stacy invited me."
-    hr "Stacy invited me."
+    hr "Stacy beni davet etti."
 
 # game/code/scenes/main_story/sm1ms029.rpy:461
 translate turkish sm1ms029_party_continue_6dbabf4e:
 
     # hr "And how could I refuse?"
-    hr "And how could I refuse?"
+    hr "Ve nasıl reddedebilirdim?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:462
 translate turkish sm1ms029_party_continue_23bd9b3c:
 
     # mc "I guess you can't?"
-    mc "I guess you can't?"
+    mc "Sanırım reddedemezsin?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:465
 translate turkish sm1ms029_party_continue_695444d2:
 
     # hr "Why so curious as to why I'm here, [mcname]?"
-    hr "Why so curious as to why I'm here, [mcname]?"
+    hr "Neden burada olduğuma bu kadar meraklısın, [mcname]?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:467
 translate turkish sm1ms029_party_continue_4c94d068:
 
     # mc "It's just... it feels like it's been a season since I've seen you, is all."
-    mc "It's just... it feels like it's been a season since I've seen you, is all."
+    mc "Sadece... seni görmeyeli bir mevsim geçmiş gibi hissediyorum, o kadar."
 
 # game/code/scenes/main_story/sm1ms029.rpy:468
 translate turkish sm1ms029_party_continue_46f7ff9d:
 
     # hr "Uh huh. Sure."
-    hr "Uh huh. Sure."
+    hr "Uh huh. Tabii."
 
 # game/code/scenes/main_story/sm1ms029.rpy:471
 translate turkish sm1ms029_party_continue_51d826c7:
 
     # hr "Not trying to hide anything, are you?"
-    hr "Not trying to hide anything, are you?"
+    hr "Bir şey gizlemeye çalışmıyorsun, değil mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:472
 translate turkish sm1ms029_party_continue_766fbcc4:
 
     # mc "What? No!"
-    mc "What? No!"
+    mc "Ne? Hayır!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:474
 translate turkish sm1ms029_party_continue_1cb36a49:
 
     # sy "If we were, we wouldn't have invited you!"
-    sy "If we were, we wouldn't have invited you!"
+    sy "Olsaydık, seni davet etmezdik!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:480
 translate turkish sm1ms029_party_continue_d7e4194f:
 
     # hr "I'm just messing with you, [mcname].{w} You know I like to see you sweat."
-    hr "I'm just messing with you, [mcname].{w} You know I like to see you sweat."
+    hr "Sadece seninle dalga geçiyorum, [mcname].{w} Terlemeni izlemeyi sevdiğimi biliyorsun."
 
 # game/code/scenes/main_story/sm1ms029.rpy:483
 translate turkish sm1ms029_party_continue_0c054906:
@@ -1016,37 +1016,37 @@ translate turkish sm1ms029_party_continue_0c054906:
 translate turkish sm1ms029_party_continue_e9d7a927:
 
     # hr "But, I hope you've been keeping your nose clean."
-    hr "But, I hope you've been keeping your nose clean."
+    hr "Ama umarım burnunu temiz tutmuşsundur."
 
 # game/code/scenes/main_story/sm1ms029.rpy:485
 translate turkish sm1ms029_party_continue_4ef391a4:
 
     # mc "I have. Promise."
-    mc "I have. Promise."
+    mc "Tuttum. Söz veriyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:488
 translate turkish sm1ms029_party_continue_8f8edd51:
 
     # hr "Ahh, the masks are back."
-    hr "Ahh, the masks are back."
+    hr "Ahh, maskeler geri dönmüş."
 
 # game/code/scenes/main_story/sm1ms029.rpy:489
 translate turkish sm1ms029_party_continue_95242e56:
 
     # mc "Yes, they are."
-    mc "Yes, they are."
+    mc "Evet, öyle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:492
 translate turkish sm1ms029_party_continue_03a9193b:
 
     # hr "Couldn't resist, could you?"
-    hr "Couldn't resist, could you?"
+    hr "Dayanamadınız, değil mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:493
 translate turkish sm1ms029_party_continue_825faa7b:
 
     # sy "No, we couldn't."
-    sy "No, we couldn't."
+    sy "Hayır, dayanamadık."
 
 # game/code/scenes/main_story/sm1ms029.rpy:496
 translate turkish sm1ms029_party_continue_9440f260:
