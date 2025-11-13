@@ -1052,319 +1052,319 @@ translate turkish sm1ms029_party_continue_825faa7b:
 translate turkish sm1ms029_party_continue_9440f260:
 
     # hr "Mmmm, it is nice to wear again."
-    hr "Mmmm, it is nice to wear again."
+    hr "Mmmm, tekrar takmak güzel."
 
 # game/code/scenes/main_story/sm1ms029.rpy:497
 translate turkish sm1ms029_party_continue_11ba4715:
 
     # sy "Right!?"
-    sy "Right!?"
+    sy "Değil mi!?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:500
 translate turkish sm1ms029_party_continue_76a43bc3:
 
     # hr "Well, don't keep us waiting."
-    hr "Well, don't keep us waiting."
+    hr "Peki, bizi bekletmeyin."
 
 # game/code/scenes/main_story/sm1ms029.rpy:506
 translate turkish sm1ms029_party_continue_fec24833:
 
     # mc "All right, is that everyone now?"
-    mc "All right, is that everyone now?"
+    mc "Peki, şimdi herkes bu kadar mı?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:507
 translate turkish sm1ms029_party_continue_e66089f4:
 
     # sy "Yep! That's officially it!"
-    sy "Yep! That's officially it!"
+    sy "Evet! Resmi olarak bu kadar!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:509
 translate turkish sm1ms029_party_continue_727c4135:
 
     # mc "Shall we then?"
-    mc "Shall we then?"
+    mc "Öyleyse başlayalım mı?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:510
 translate turkish sm1ms029_party_continue_167473b7:
 
     # sy "Please!"
-    sy "Please!"
+    sy "Lütfen!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:522
 translate turkish sm1ms029_party_continue_f54e7e3a:
 
     # sy "Everyone! Thanks so much for attending the very first ever S&M Studio Party!"
-    sy "Everyone! Thanks so much for attending the very first ever S&M Studio Party!"
+    sy "Herkes! İlk S&M Studio Partisine katıldığınız için çok teşekkürler!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:523
 translate turkish sm1ms029_party_continue_02321992:
 
     # "Everyone" "Wooo! *claps*"
-    "Everyone" "Wooo! *claps*"
+    "Herkes" "Wooo! *alkış*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:525
 translate turkish sm1ms029_party_continue_fba86d44:
 
     # mc "We just wanted to thank everyone for coming, and everyone who's had a part in helping the studio grow!"
-    mc "We just wanted to thank everyone for coming, and everyone who's had a part in helping the studio grow!"
+    mc "Sadece geldiğiniz için herkese ve stüdyonun büyümesine yardımcı olan herkese teşekkür etmek istedik!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:527
 translate turkish sm1ms029_party_continue_52fb6339:
 
     # mc "And an extra thanks to the wonderfully talented actresses who joined me on screen!"
-    mc "And an extra thanks to the wonderfully talented actresses who joined me on screen!"
+    mc "Ve ekranda bana katılan harika yetenekli aktrislere ekstra teşekkürler!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:536
 translate turkish sm1ms029_party_continue_3a8d95bc:
 
     # mc "Without whom, we'd never have gotten things going!"
-    mc "Without whom, we'd never have gotten things going!"
+    mc "Onlar olmasaydı, hiçbir zaman işleri başlatamazdık!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:537
 translate turkish sm1ms029_party_continue_31ebab56:
 
     # "Everyone" "Wooooo!"
-    "Everyone" "Wooooo!"
+    "Herkes" "Wooooo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:540
 translate turkish sm1ms029_party_continue_6c812957:
 
     # mc "And, the biggest thanks, and all of my gratitude and love, to the woman who made everything possible."
-    mc "And, the biggest thanks, and all of my gratitude and love, to the woman who made everything possible."
+    mc "Ve en büyük teşekkür, tüm minnettarlığım ve sevgim, her şeyi mümkün kılan kadına."
 
 # game/code/scenes/main_story/sm1ms029.rpy:541
 translate turkish sm1ms029_party_continue_abe67841:
 
     # mc "Without her, this dream would have died without even a second of life."
-    mc "Without her, this dream would have died without even a second of life."
+    mc "O olmasaydı, bu rüya bir saniye bile yaşamadan ölürdü."
 
 # game/code/scenes/main_story/sm1ms029.rpy:543
 translate turkish sm1ms029_party_continue_276feb47:
 
     # mc "My sister, Stacy."
-    mc "My sister, Stacy."
+    mc "Kız kardeşim, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:545
 translate turkish sm1ms029_party_continue_a1be5517:
 
     # mc "My best friend, Stacy."
-    mc "My best friend, Stacy."
+    mc "En iyi arkadaşım, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:548
 translate turkish sm1ms029_party_continue_c58ca4fa:
 
     # sy "Oh shucks, [mcname]."
-    sy "Oh shucks, [mcname]."
+    sy "Oh, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:550
 translate turkish sm1ms029_party_continue_83078e78:
 
     # mc "I love you."
-    mc "I love you."
+    mc "Seni seviyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:551
 translate turkish sm1ms029_party_continue_23e050ef:
 
     # sy "I love you too, [mcname]."
-    sy "I love you too, [mcname]."
+    sy "Ben de seni seviyorum, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:554
 translate turkish sm1ms029_party_continue_5ab3f63d:
 
     # mc "Everyone, grab some drinks! Intermingle! Chat!"
-    mc "Everyone, grab some drinks! Intermingle! Chat!"
+    mc "Herkes, içecek alsın! Kaynaşın! Sohbet edin!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:557
 translate turkish sm1ms029_party_continue_0bd71230:
 
     # sy "And get ready for the main event! We promise, it's going to be a {i}ton{/i} of fun."
-    sy "And get ready for the main event! We promise, it's going to be a {i}ton{/i} of fun."
+    sy "Ve ana etkinliğe hazır olun! Söz veriyoruz, {i}çok{/i} eğlenceli olacak."
 
 # game/code/scenes/main_story/sm1ms029.rpy:560
 translate turkish sm1ms029_party_continue_908f1f44:
 
     # mc "So far, so good!"
-    mc "So far, so good!"
+    mc "Şu ana kadar çok iyi!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:561
 translate turkish sm1ms029_party_continue_8b9f9234:
 
     # sy "Yeah!"
-    sy "Yeah!"
+    sy "Evet!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:563
 translate turkish sm1ms029_party_continue_c7f00a93:
 
     # mc "Now, I'm going to go grab some-"
-    mc "Now, I'm going to go grab some-"
+    mc "Şimdi, gidip biraz-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:566
 translate turkish sm1ms029_party_continue_bd56533b:
 
     # sy "You better not overeat."
-    sy "You better not overeat."
+    sy "Fazla yemesen iyi olur."
 
 # game/code/scenes/main_story/sm1ms029.rpy:567
 translate turkish sm1ms029_party_continue_d6fb8e35:
 
     # sy "You have an important job to do later, mister."
-    sy "You have an important job to do later, mister."
+    sy "Sonra yapman gereken önemli bir iş var, bayım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:568
 translate turkish sm1ms029_party_continue_165972a2:
 
     # sy "And you better not get sick! Or I swear to God-"
-    sy "And you better not get sick! Or I swear to God-"
+    sy "Ve hastalanmasan iyi olur! Yoksa Tanrıya yemin ederim-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:571
 translate turkish sm1ms029_party_continue_bc78ec09:
 
     # mc "You don't have to worry, Stacy. I won't spoil the fun."
-    mc "You don't have to worry, Stacy. I won't spoil the fun."
+    mc "Endişelenme, Stacy. Eğlenceyi mahvetmeyeceğim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:575
 translate turkish sm1ms029_party_continue_82a009c4:
 
     # sy "All right! I'm going to go start getting ready! Have fun!"
-    sy "All right! I'm going to go start getting ready! Have fun!"
+    sy "Peki! Hazırlanmaya başlayacağım! İyi eğlenceler!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:576
 translate turkish sm1ms029_party_continue_412bb0e3:
 
     # mc "I will!"
-    mc "I will!"
+    mc "Eğlenirim!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:615
 translate turkish sm1ms029_talk_tl_mes_a96eeede:
 
     # mc "Hey, roomies!"
-    mc "Hey, roomies!"
+    mc "Hey, oda arkadaşları!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:618
 translate turkish sm1ms029_talk_tl_mes_ed746f26:
 
     # mes "Really, roomies?"
-    mes "Really, roomies?"
+    mes "Gerçekten mi, oda arkadaşları?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:619
 translate turkish sm1ms029_talk_tl_mes_a999006e:
 
     # tl "Seriously."
-    tl "Seriously."
+    tl "Cidden."
 
 # game/code/scenes/main_story/sm1ms029.rpy:621
 translate turkish sm1ms029_talk_tl_mes_7168d4f3:
 
     # mc "What!"
-    mc "What!"
+    mc "Ne!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:624
 translate turkish sm1ms029_talk_tl_mes_7e76fa14:
 
     # mes "For one thing, \"roomie\" seriously downplays who we are to you."
-    mes "For one thing, \"roomie\" seriously downplays who we are to you."
+    mes "Birincisi, \"oda arkadaşı\" bizim senin için ne olduğumuzu cidden küçümsüyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:625
 translate turkish sm1ms029_talk_tl_mes_520cd898:
 
     # mes "Do you go around fucking all of your roommates?"
-    mes "Do you go around fucking all of your roommates?"
+    mes "Bütün oda arkadaşlarınla mı yatıyorsun?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:628
 translate turkish sm1ms029_talk_tl_mes_539098fd:
 
     # mc "I mean, kind of?"
-    mc "I mean, kind of?"
+    mc "Yani, bir nevi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:629
 translate turkish sm1ms029_talk_tl_mes_3018ffe4:
 
     # mes "Does that mean you used to fuck Pete?"
-    mes "Does that mean you used to fuck Pete?"
+    mes "Bu Pete'le yattığın anlamına mı geliyor?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:631
 translate turkish sm1ms029_talk_tl_mes_65c5cdd3:
 
     # mc "In a different universe, maybe."
-    mc "In a different universe, maybe."
+    mc "Farklı bir evrende, belki."
 
 # game/code/scenes/main_story/sm1ms029.rpy:634
 translate turkish sm1ms029_talk_tl_mes_afc42360:
 
     # tl "Secondly, it belittles us a bit to be reduced to \"roomie\"."
-    tl "Secondly, it belittles us a bit to be reduced to \"roomie\"."
+    tl "İkincisi, \"oda arkadaşı\"na indirgenmek bizi biraz küçümsüyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:635
 translate turkish sm1ms029_talk_tl_mes_e00369e1:
 
     # tl "Besides, you're technically our landlord."
-    tl "Besides, you're technically our landlord."
+    tl "Ayrıca, teknik olarak bizim ev sahibimizsin."
 
 # game/code/scenes/main_story/sm1ms029.rpy:638
 translate turkish sm1ms029_talk_tl_mes_9ebaad04:
 
     # mc "Shit... I guess, I am."
-    mc "Shit... I guess, I am."
+    mc "Kahretsin... Sanırım, öyleyim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:639
 translate turkish sm1ms029_talk_tl_mes_f0d1bc7a:
 
     # mes "Thirdly..."
-    mes "Thirdly..."
+    mes "Üçüncüsü..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:642
 translate turkish sm1ms029_talk_tl_mes_6b10d666:
 
     # mes "What's third?"
-    mes "What's third?"
+    mes "Üçüncü ne?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:644
 translate turkish sm1ms029_talk_tl_mes_bafb6dae:
 
     # tl "Just that it's fucking cringe to call someone a \"roomie\"."
-    tl "Just that it's fucking cringe to call someone a \"roomie\"."
+    tl "Sadece birine \"oda arkadaşı\" demenin çok tuhaf olması."
 
 # game/code/scenes/main_story/sm1ms029.rpy:645
 translate turkish sm1ms029_talk_tl_mes_47ebf633:
 
     # tl "They only do that shit in sitcoms."
-    tl "They only do that shit in sitcoms."
+    tl "Bunu sadece sitcomlarda yapıyorlar."
 
 # game/code/scenes/main_story/sm1ms029.rpy:648
 translate turkish sm1ms029_talk_tl_mes_16abb13a:
 
     # mes "You've got a good point there."
-    mes "You've got a good point there."
+    mes "İyi bir noktaya değindin."
 
 # game/code/scenes/main_story/sm1ms029.rpy:651
 translate turkish sm1ms029_talk_tl_mes_c9dd41a0:
 
     # mc "Okay, so now that you've both had the chance to gang up on me, I'm assuming you've had some time to chat?"
-    mc "Okay, so now that you've both had the chance to gang up on me, I'm assuming you've had some time to chat?"
+    mc "Peki, ikiniz de bana karşı birleşme şansı bulduğunuza göre, sohbet etmek için biraz zamanınız olduğunu mu varsaymalıyım?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:654
 translate turkish sm1ms029_talk_tl_mes_5e71ea17:
 
     # mes "That's a joke, right?"
-    mes "That's a joke, right?"
+    mes "Bu bir şaka, değil mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:655
 translate turkish sm1ms029_talk_tl_mes_5645cf64:
 
     # tl "Seriously, [mcname]."
-    tl "Seriously, [mcname]."
+    tl "Cidden, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:656
 translate turkish sm1ms029_talk_tl_mes_853ac5dd:
 
     # mc "What! I don't know! I'm not around that often, and I wasn't sure how often you two had crossed paths!"
-    mc "What! I don't know! I'm not around that often, and I wasn't sure how often you two had crossed paths!"
+    mc "Ne! Bilmiyorum! O kadar sık etrafta olmuyorum ve ikinizin ne sıklıkla karşılaştığınızdan emin değildim!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:663
 translate turkish sm1ms029_talk_tl_mes_39813757:
 
     # mes "Of course we have. {i}We live together.{/i}"
-    mes "Of course we have. {i}We live together.{/i}"
+    mes "Tabii ki karşılaştık. {i}Birlikte yaşıyoruz.{/i}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:664
 translate turkish sm1ms029_talk_tl_mes_f0dae7e6:
