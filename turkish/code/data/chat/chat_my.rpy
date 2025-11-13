@@ -36,21 +36,21 @@ translate turkish strings:
 
     # game/code/data/chat/chat_my.rpy:53
     old "Hey mom, I was wondering, would you want to get dinner together?"
-    new "Hey mom, I was wondering, would you want to get dinner together?"
+    new "Hey anne, merak ediyordum, birlikte akşam yemeği yemek ister misin?"
 
     # game/code/data/chat/chat_my.rpy:53
     old "Hey Melony, I was wondering if you would want to get dinner together?"
-    new "Hey Melony, I was wondering if you would want to get dinner together?"
+    new "Selam Melony, birlikte akşam yemeği yemek ister misin diye merak ediyordum?"
 
     # game/code/data/chat/chat_my.rpy:53
     old "That sounds wonderful, [mcname!i]! Where would you like to go?"
-    new "That sounds wonderful, [mcname!i]! Where would you like to go?"
+    new "Kulağa harika geliyor, [mcname!i]! Nereye gitmek istersin?"
 
     # game/code/data/chat/chat_my.rpy:53
     old "Put on something nice, I'll pick you up in an hour!"
-    new "Put on something nice, I'll pick you up in an hour!"
+    new "Güzel bir şeyler giy, bir saat içinde seni alacağım!"
 
     # game/code/data/chat/chat_my.rpy:53
     old "Oooo, exciting. I'll see you in an hour!"
-    new "Oooo, exciting. I'll see you in an hour!"
+    new "Oooo, heyecan verici. Bir saat içinde görüşürüz!"
 

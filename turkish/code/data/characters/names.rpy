@@ -2,7 +2,7 @@
 
     # game/code/data/characters/names.rpy:6
     old "You"
-    new "You"
+    new "Sen"
 
     # game/code/data/characters/names.rpy:11
     old "Amore"
@@ -34,7 +34,7 @@
 
     # game/code/data/characters/names.rpy:23
     old "Creepy Guy"
-    new "Creepy Guy"
+    new "Ürpertici Adam"
 
     # game/code/data/characters/names.rpy:24
     old "Cecilia"
@@ -42,7 +42,7 @@
 
     # game/code/data/characters/names.rpy:25
     old "Dog Walker"
-    new "Dog Walker"
+    new "Köpek Gezdiren"
 
     # game/code/data/characters/names.rpy:26
     old "Elizabeth"
@@ -70,7 +70,7 @@
 
     # game/code/data/characters/names.rpy:32
     old "Jogger"
-    new "Jogger"
+    new "Koşucu"
 
     # game/code/data/characters/names.rpy:33
     old "Olivia"
@@ -102,7 +102,7 @@
 
     # game/code/data/characters/names.rpy:45
     old "Mr. Watts"
-    new "Mr. Watts"
+    new "Bay Watts"
 
     # game/code/data/characters/names.rpy:46
     old "Eugene"
@@ -110,7 +110,7 @@
 
     # game/code/data/characters/names.rpy:47
     old "Mrs. Watts"
-    new "Mrs. Watts"
+    new "Bayan Watts"
 
     # game/code/data/characters/names.rpy:48
     old "Mitch Conner"
@@ -122,7 +122,7 @@
 
     # game/code/data/characters/names.rpy:50
     old "Mrs. Maureen"
-    new "Mrs. Maureen"
+    new "Bayan Maureen"
 
     # game/code/data/characters/names.rpy:51
     old "Peter"
@@ -208,11 +208,11 @@ translate turkish strings:
 
     # game/code/data/characters/names.rpy:86
     old "Jerk Cop"
-    new "Jerk Cop"
+    new "Pislik Polis"
 
 translate turkish strings:
 
     # game/code/data/characters/names.rpy:87
     old "Douche Cop"
-    new "Douche Cop"
+    new "Serseri Polis"
 

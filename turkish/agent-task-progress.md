@@ -383,3 +383,37 @@ File: Turkish/code\scenes\theatre\vs\sm1cs-vs003.rpy (done)
 File: Turkish/code\scenes\theatre\vs\sm1cs-vs004.rpy (done)
 
 File: Turkish/code\scenes\theatre\vs\sm1cs-vs005.rpy (done)
+
+File: Turkish/code\data\chat\chat_am.rpy (done)
+
+File: Turkish/code\data\chat\chat_arj.rpy (done)
+
+File: Turkish/code\data\chat\chat_bg.rpy (done)
+
+File: Turkish/code\data\chat\chat_cw.rpy (done)
+
+File: Turkish/code\data\chat\chat_dc.rpy (done)
+
+File: Turkish/code\data\chat\chat_dvh.rpy (done)
+
+File: Turkish/code\data\chat\chat_km.rpy (done)
+
+File: Turkish/code\data\chat\chat_kv.rpy (done)
+
+File: Turkish/code\data\chat\chat_mes.rpy (done)
+
+File: Turkish/code\data\chat\chat_mh.rpy (done)
+
+File: Turkish/code\data\chat\chat_my.rpy (done)
+
+File: Turkish/code\data\chat\chat_ns.rpy (done)
+
+File: Turkish/code\data\chat\chat_tl.rpy (done)
+
+File: Turkish/code\data\chat\chat_vs.rpy (done)
+
+File: Turkish/code\data\characters\names.rpy (done)
+
+File: Turkish/code\data\constants\location_constants.rpy (done)
+
+File: Turkish/code\data\constants\constants.rpy (done)
