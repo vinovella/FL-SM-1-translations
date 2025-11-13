@@ -415,3 +415,5 @@ File: Turkish/code\data\chat\chat_vs.rpy (done)
 File: Turkish/code\data\characters\names.rpy (done)
 
 File: Turkish/code\data\constants\location_constants.rpy (done)
+
+File: Turkish/code\data\constants\constants.rpy (done)

@@ -76,121 +76,121 @@ translate turkish strings:
 
     # game/code/data/constants/constants.rpy:77
     old "Night"
-    new "Night"
+    new "Gece"
 
     # game/code/data/constants/constants.rpy:78
     old "Late Night"
-    new "Late Night"
+    new "Gece Yarısı"
 
     # game/code/data/constants/constants.rpy:79
     old "Early Morning"
-    new "Early Morning"
+    new "Sabah Erken"
 
     # game/code/data/constants/constants.rpy:80
     old "Morning"
-    new "Morning"
+    new "Sabah"
 
     # game/code/data/constants/constants.rpy:81
     old "Noon"
-    new "Noon"
+    new "Öğlen"
 
     # game/code/data/constants/constants.rpy:82
     old "Afternoon"
-    new "Afternoon"
+    new "Öğleden Sonra"
 
     # game/code/data/constants/constants.rpy:83
     old "Evening"
-    new "Evening"
+    new "Akşam"
 
     # game/code/data/constants/constants.rpy:84
     old "Nightfall"
-    new "Nightfall"
+    new "Akşam Karanlığı"
 
     # game/code/data/constants/constants.rpy:130
     old "Mo"
-    new "Mo"
+    new "Pt"
 
     # game/code/data/constants/constants.rpy:131
     old "Tu"
-    new "Tu"
+    new "Sa"
 
     # game/code/data/constants/constants.rpy:132
     old "We"
-    new "We"
+    new "Ça"
 
     # game/code/data/constants/constants.rpy:133
     old "Th"
-    new "Th"
+    new "Pe"
 
     # game/code/data/constants/constants.rpy:134
     old "Fr"
-    new "Fr"
+    new "Cu"
 
     # game/code/data/constants/constants.rpy:135
     old "Sa"
-    new "Sa"
+    new "Ct"
 
     # game/code/data/constants/constants.rpy:136
     old "Su"
-    new "Su"
+    new "Pz"
 
 translate turkish strings:
 
     # game/code/data/constants/constants.rpy:131
     old "Monday"
-    new "Monday"
+    new "Pazartesi"
 
     # game/code/data/constants/constants.rpy:132
     old "Tuesday"
-    new "Tuesday"
+    new "Salı"
 
     # game/code/data/constants/constants.rpy:133
     old "Wednesday"
-    new "Wednesday"
+    new "Çarşamba"
 
     # game/code/data/constants/constants.rpy:134
     old "Thursday"
-    new "Thursday"
+    new "Perşembe"
 
     # game/code/data/constants/constants.rpy:135
     old "Friday"
-    new "Friday"
+    new "Cuma"
 
     # game/code/data/constants/constants.rpy:136
     old "Saturday"
-    new "Saturday"
+    new "Cumartesi"
 
     # game/code/data/constants/constants.rpy:137
     old "Sunday"
-    new "Sunday"
+    new "Pazar"
 
 translate turkish strings:
 
     # game/code/data/constants/constants.rpy:168
     old "Mon"
-    new "Mon"
+    new "Pzt"
 
     # game/code/data/constants/constants.rpy:169
     old "Tue"
-    new "Tue"
+    new "Sal"
 
     # game/code/data/constants/constants.rpy:170
     old "Wed"
-    new "Wed"
+    new "Çar"
 
     # game/code/data/constants/constants.rpy:171
     old "Thu"
-    new "Thu"
+    new "Per"
 
     # game/code/data/constants/constants.rpy:172
     old "Fri"
-    new "Fri"
+    new "Cum"
 
     # game/code/data/constants/constants.rpy:173
     old "Sat"
-    new "Sat"
+    new "Cmt"
 
     # game/code/data/constants/constants.rpy:174
     old "Sun"
-    new "Sun"
+    new "Paz"
 
