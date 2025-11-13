@@ -2,127 +2,127 @@
 translate turkish sm1cs_my003_874e01cb:
 
     # mc "Well, it would just be nice to know what I'm bringing Mom to."
-    mc "Well, it would just be nice to know what I'm bringing Mom to."
+    mc "Annemi neye götürdüğümü bilmek güzel olurdu."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:19
 translate turkish sm1cs_my003_0aeef22a:
 
     # mc "It would just be nice to know what I'm bringing Melony to."
-    mc "It would just be nice to know what I'm bringing Melony to."
+    mc "Melony'yi neye götürdüğümü bilmek güzel olurdu."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:22
 translate turkish sm1cs_my003_4321f85a:
 
     # sy "But, you probably would have chickened out."
-    sy "But, you probably would have chickened out."
+    sy "Ama muhtemelen korkup vazgeçerdin."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:24
 translate turkish sm1cs_my003_645acc28:
 
     # mc "Nuh uh."
-    mc "Nuh uh."
+    mc "Hayır."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:29
 translate turkish sm1cs_my003_c09e69a4:
 
     # sy "Yeah huh."
-    sy "Yeah huh."
+    sy "Evet öyle."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:34
 translate turkish sm1cs_my003_4d16eaae:
 
     # sy "Now who the hell could that be?"
-    sy "Now who the hell could that be?"
+    sy "Şimdi bu da kim olabilir?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:36
 translate turkish sm1cs_my003_532d5691:
 
     # mc "I got it."
-    mc "I got it."
+    mc "Ben bakarım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:51
 translate turkish sm1cs_my003_562f945c:
 
     # mc "Oh, hey Mom!"
-    mc "Oh, hey Mom!"
+    mc "Oh, selam Anne!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:53
 translate turkish sm1cs_my003_eea95e88:
 
     # mc "Oh, hey Melony!"
-    mc "Oh, hey Melony!"
+    mc "Oh, selam Melony!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:55
 translate turkish sm1cs_my003_deac87fd:
 
     # sy "{size=*0.6}Her ears must have been burning.{/size}"
-    sy "{size=*0.6}Her ears must have been burning.{/size}"
+    sy "{size=*0.6}Kulakları çınlıyor olmalı.{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:60
 translate turkish sm1cs_my003_b6e8e273:
 
     # my "Hi, [mcname]! Stacy!"
-    my "Hi, [mcname]! Stacy!"
+    my "Merhaba, [mcname]! Stacy!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:64
 translate turkish sm1cs_my003_94364f29:
 
     # mc "You look like you were out for a run or something."
-    mc "You look like you were out for a run or something."
+    mc "Koşuya falan çıkmış gibi görünüyorsun."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:66
 translate turkish sm1cs_my003_30627e08:
 
     # my "I'm actually on my way to try out this bouldering gym."
-    my "I'm actually on my way to try out this bouldering gym."
+    my "Aslında bu kaya tırmanışı salonunu denemek için yoldayım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:69
 translate turkish sm1cs_my003_a8ea9ec9:
 
     # sy "You climb?"
-    sy "You climb?"
+    sy "Tırmanıyor musun?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:73
 translate turkish sm1cs_my003_2900b714:
 
     # my "Is it so shocking that your Mom has hobbies?"
-    my "Is it so shocking that your Mom has hobbies?"
+    my "Annenizin hobileri olması bu kadar şaşırtıcı mı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:75
 translate turkish sm1cs_my003_7d555b2d:
 
     # my "Is it so shocking that I have hobbies?"
-    my "Is it so shocking that I have hobbies?"
+    my "Hobilerimin olması bu kadar şaşırtıcı mı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:77
 translate turkish sm1cs_my003_6871aa82:
 
     # sy "No, I guess... I just didn't think that one of your hobbies was bouldering."
-    sy "No, I guess... I just didn't think that one of your hobbies was bouldering."
+    sy "Hayır, sanırım... hobilerinden birinin kaya tırmanışı olduğunu düşünmemiştim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:80
 translate turkish sm1cs_my003_31a8c613:
 
     # my "Well, while you and [mcname] have been busy with your lives, I've had to find something to do."
-    my "Well, while you and [mcname] have been busy with your lives, I've had to find something to do."
+    my "Sen ve [mcname] hayatınızla meşgulken, ben de yapacak bir şey bulmak zorunda kaldım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:84
 translate turkish sm1cs_my003_836666b1:
 
     # my "But, that's besides the point. I found out there's a bouldering gym here in Crowning, and I was wondering if either of you wanted to join me?"
-    my "But, that's besides the point. I found out there's a bouldering gym here in Crowning, and I was wondering if either of you wanted to join me?"
+    my "Ama bu konunun dışında. Crowning'de bir kaya tırmanışı salonu olduğunu öğrendim ve ikinizden herhangi biri bana katılmak ister mi diye merak ediyordum?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:86
 translate turkish sm1cs_my003_2eff6851:
 
     # mc "To go to the gym? I don't-"
-    mc "To go to the gym? I don't-"
+    mc "Spor salonuna mı gidelim? Ben-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:89
 translate turkish sm1cs_my003_e10fdfdf:
 
     # sy "I have a million errands to run today, but [mcname] was just saying that he wanted to do go out and do something!"
-    sy "I have a million errands to run today, but [mcname] was just saying that he wanted to do go out and do something!"
+    sy "Bugün yapacak bir milyon işim var, ama [mcname] dışarı çıkıp bir şeyler yapmak istediğini söylüyordu!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:92
 translate turkish sm1cs_my003_8fc79e73:
@@ -134,103 +134,103 @@ translate turkish sm1cs_my003_8fc79e73:
 translate turkish sm1cs_my003_0f63dab1:
 
     # my "Really, [mcname]? Because it would be wonderful if you would join me!"
-    my "Really, [mcname]? Because it would be wonderful if you would join me!"
+    my "Gerçekten mi, [mcname]? Çünkü bana katılırsan harika olur!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:97
 translate turkish sm1cs_my003_ab29b7b2:
 
     # mc "I was going to help Stacy out with errands-"
-    mc "I was going to help Stacy out with errands-"
+    mc "Stacy'ye işlerinde yardım edecektim-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:100
 translate turkish sm1cs_my003_73547803:
 
     # sy "Oh, I got it! You go bouldering!"
-    sy "Oh, I got it! You go bouldering!"
+    sy "Oh, hallettim! Sen kaya tırmanışına git!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:103
 translate turkish sm1cs_my003_967b102b:
 
     # my "Amazing! [mcname], go put on some gym clothes and let's go!"
-    my "Amazing! [mcname], go put on some gym clothes and let's go!"
+    my "Harika! [mcname], git spor kıyafetlerini giy ve gidelim!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:106
 translate turkish sm1cs_my003_41182d99:
 
     # mc "Yeah. Give me a second..."
-    mc "Yeah. Give me a second..."
+    mc "Evet. Bir saniye ver..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:110
 translate turkish sm1cs_my003_a18f6d58:
 
     # mct "Damnit Stacy... the last thing I want to do is go to the gym."
-    mct "Damnit Stacy... the last thing I want to do is go to the gym."
+    mct "Lanet olsun Stacy... yapmak istediğim son şey spor salonuna gitmek."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:114
 translate turkish sm1cs_my003_6a3b0266:
 
     # mct "But at least it's another excuse to hang out with Mom..."
-    mct "But at least it's another excuse to hang out with Mom..."
+    mct "Ama en azından annemle takılmak için başka bir bahane..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:116
 translate turkish sm1cs_my003_c8fee1db:
 
     # mct "But at least it's another excuse to hang out with Melony..."
-    mct "But at least it's another excuse to hang out with Melony..."
+    mct "Ama en azından Melony ile takılmak için başka bir bahane..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:117
 translate turkish sm1cs_my003_bb17b68f:
 
     # mct "Which is probably why Stacy volunteered me to go..."
-    mct "Which is probably why Stacy volunteered me to go..."
+    mct "Ki muhtemelen Stacy'nin beni gönüllü etme sebebi bu..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:130
 translate turkish sm1cs_my003_at_gym_1e2fb88f:
 
     # mct "Oh man... this is going to be a workout..."
-    mct "Oh man... this is going to be a workout..."
+    mct "Vay be... bu bir antrenman olacak..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:133
 translate turkish sm1cs_my003_at_gym_b8b806e1:
 
     # my "Are you excited, [mcname]!?"
-    my "Are you excited, [mcname]!?"
+    my "Heyecanlı mısın, [mcname]!?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:136
 translate turkish sm1cs_my003_at_gym_8c3bd5f5:
 
     # mc "Erm... sure am."
-    mc "Erm... sure am."
+    mc "Erm... eminim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:139
 translate turkish sm1cs_my003_at_gym_f5e1c867:
 
     # my "Have you ever tried bouldering before?"
-    my "Have you ever tried bouldering before?"
+    my "Daha önce hiç kaya tırmanışı denedin mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:141
 translate turkish sm1cs_my003_at_gym_3897731c:
 
     # mc "Like rock climbing? No. This will be a first for me."
-    mc "Like rock climbing? No. This will be a first for me."
+    mc "Kaya tırmanışı gibi mi? Hayır. Bu benim için bir ilk olacak."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:144
 translate turkish sm1cs_my003_at_gym_81e6d881:
 
     # my "It's not as tough as you think it is! I promise."
-    my "It's not as tough as you think it is! I promise."
+    my "Düşündüğün kadar zor değil! Söz veriyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:148
 translate turkish sm1cs_my003_at_gym_a9863ab1:
 
     # my "But first, we need to do some stretching!"
-    my "But first, we need to do some stretching!"
+    my "Ama önce biraz esneme yapmamız gerekiyor!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:150
 translate turkish sm1cs_my003_at_gym_fdfb405e:
 
     # mc "Stretching?"
-    mc "Stretching?"
+    mc "Esneme mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:154
 translate turkish sm1cs_my003_at_gym_3c784739:
@@ -242,217 +242,217 @@ translate turkish sm1cs_my003_at_gym_3c784739:
 translate turkish sm1cs_my003_at_gym_6aac0bc7:
 
     # my "It's important to stretch. You'll regret it if you don't, [mcname]."
-    my "It's important to stretch. You'll regret it if you don't, [mcname]."
+    my "Esneme önemli. Yapmazsan pişman olursun, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:157
 translate turkish sm1cs_my003_at_gym_5c59069d:
 
     # mc "I trust you."
-    mc "I trust you."
+    mc "Sana güveniyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:160
 translate turkish sm1cs_my003_at_gym_1fa57967:
 
     # my "All right, just try and do what I do, to the best of your abilities."
-    my "All right, just try and do what I do, to the best of your abilities."
+    my "Tamam, sadece yeteneklerinin elverdiğince benim yaptığımı yapmaya çalış."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:161
 translate turkish sm1cs_my003_at_gym_305d5208:
 
     # my "But don't push yourself. You can absolutely overstretch yourself."
-    my "But don't push yourself. You can absolutely overstretch yourself."
+    my "Ama kendini zorlama. Kesinlikle aşırı gerinebilirsin."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:165
 translate turkish sm1cs_my003_at_gym_bc0350e9:
 
     # mc "Okay, Mom."
-    mc "Okay, Mom."
+    mc "Tamam, Anne."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:167
 translate turkish sm1cs_my003_at_gym_1d4337b6:
 
     # mc "Okay, Melony."
-    mc "Okay, Melony."
+    mc "Tamam, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:173
 translate turkish sm1cs_my003_at_gym_562bfff3:
 
     # my "All right, so for our first pose..."
-    my "All right, so for our first pose..."
+    my "Tamam, ilk pozumuz için..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:179
 translate turkish sm1cs_my003_at_gym_3d6653b0:
 
     # my "Starting off with an easy one, loosen up those lower back muscles."
-    my "Starting off with an easy one, loosen up those lower back muscles."
+    my "Kolay bir taneyle başlayalım, şu bel kaslarını gevşet."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:180
 translate turkish sm1cs_my003_at_gym_34357747:
 
     # mct "Shit... I don't think I'm that flexible..."
-    mct "Shit... I don't think I'm that flexible..."
+    mct "Kahretsin... o kadar esnek olduğumu sanmıyorum..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:184
 translate turkish sm1cs_my003_at_gym_144291c2:
 
     # mct "But I can't let Mom think I can't keep up..."
-    mct "But I can't let Mom think I can't keep up..."
+    mct "Ama annemin ayak uyduramadığımı düşünmesine izin veremem..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:186
 translate turkish sm1cs_my003_at_gym_7fba95fa:
 
     # mct "But I can't let Melony think I can't keep up..."
-    mct "But I can't let Melony think I can't keep up..."
+    mct "Ama Melony'nin ayak uyduramadığımı düşünmesine izin veremem..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:189
 translate turkish sm1cs_my003_at_gym_0696b9c9:
 
     # mct "Oh shiiiiit... I'm stretching muscles I don't think are supposed to be streeeeeetched."
-    mct "Oh shiiiiit... I'm stretching muscles I don't think are supposed to be streeeeeetched."
+    mct "Oh kahretsin... gerinmesi gerektiğini düşünmediğim kasları geriyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:192
 translate turkish sm1cs_my003_at_gym_e8d300fc:
 
     # my "How's that feel, [mcname]?"
-    my "How's that feel, [mcname]?"
+    my "Nasıl hissediyorsun, [mcname]?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:194
 translate turkish sm1cs_my003_at_gym_7f555b17:
 
     # mc "G-good. So, so g-gooood. Yeah."
-    mc "G-good. So, so g-gooood. Yeah."
+    mc "İ-iyi. Çok, çok iyi. Evet."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:197
 translate turkish sm1cs_my003_at_gym_afbfd173:
 
     # my "Hehe - trust me, it's good for you."
-    my "Hehe - trust me, it's good for you."
+    my "Hehe - bana güven, bu senin için iyi."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:199
 translate turkish sm1cs_my003_at_gym_f6eb5496:
 
     # mc "I-if you say so."
-    mc "I-if you say so."
+    mc "S-sen öyle diyorsan."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:200
 translate turkish sm1cs_my003_at_gym_f92e3932:
 
     # mct "Is stretching how she keeps her boobs looking so good?"
-    mct "Is stretching how she keeps her boobs looking so good?"
+    mct "Göğüslerini bu kadar iyi görünür tutmasının sırrı esneme mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:201
 translate turkish sm1cs_my003_at_gym_1f324793:
 
     # my "Hehehehe. Well, I think it's time for the next pose."
-    my "Hehehehe. Well, I think it's time for the next pose."
+    my "Hehehehe. Sanırım sıradaki poz zamanı geldi."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:204
 translate turkish sm1cs_my003_at_gym_0cbc29d4:
 
     # mct "Jesus, there's more?"
-    mct "Jesus, there's more?"
+    mct "Tanrım, daha var mı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:208
 translate turkish sm1cs_my003_at_gym_431aae1d:
 
     # mct "How in the hell..."
-    mct "How in the hell..."
+    mct "Nasıl yapacağım..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:211
 translate turkish sm1cs_my003_at_gym_62ce9708:
 
     # my "Come on, [mcname], you got this! I promise, it's not as hard as it looks."
-    my "Come on, [mcname], you got this! I promise, it's not as hard as it looks."
+    my "Hadi, [mcname], yapabilirsin! Söz veriyorum, göründüğü kadar zor değil."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:213
 translate turkish sm1cs_my003_at_gym_0f240219:
 
     # mc "If you say so..."
-    mc "If you say so..."
+    mc "Sen öyle diyorsan..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:216
 translate turkish sm1cs_my003_at_gym_dba2da45:
 
     # mct "Holy shhhhhhhhhit... owowowowowowow."
-    mct "Holy shhhhhhhhhit... owowowowowowow."
+    mct "Tanrım... owowowowowowow."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:218
 translate turkish sm1cs_my003_at_gym_f9935d1e:
 
     # my "How you doing, [mcname]?"
-    my "How you doing, [mcname]?"
+    my "Nasılsın, [mcname]?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:219
 translate turkish sm1cs_my003_at_gym_80dcfad6:
 
     # mc "O-oh, I'm s-so, so... mmmm. Mmmhmmm. Stretched."
-    mc "O-oh, I'm s-so, so... mmmm. Mmmhmmm. Stretched."
+    mc "O-oh, ç-çok, çok... mmmm. Mmmhmmm. Gerilmiş."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:222
 translate turkish sm1cs_my003_at_gym_448616af:
 
     # my "Hehehehehehe. You really need to start stretching more!"
-    my "Hehehehehehe. You really need to start stretching more!"
+    my "Hehehehehehe. Gerçekten daha fazla esnemeye başlamalısın!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:225
 translate turkish sm1cs_my003_at_gym_d755de4f:
 
     # my "Especially with your new chosen profession."
-    my "Especially with your new chosen profession."
+    my "Özellikle yeni seçtiğin meslek için."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:227
 translate turkish sm1cs_my003_at_gym_16b64064:
 
     # mc "You might have a point, Mom."
-    mc "You might have a point, Mom."
+    mc "Haklı olabilirsin, Anne."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:229
 translate turkish sm1cs_my003_at_gym_6806050b:
 
     # mc "You might have a point, Melony."
-    mc "You might have a point, Melony."
+    mc "Haklı olabilirsin, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:233
 translate turkish sm1cs_my003_at_gym_83e4b0c2:
 
     # mct "Rule 18 of running your own porn studio. Limber up."
-    mct "Rule 18 of running your own porn studio. Limber up."
+    mct "Kendi porno stüdyonu işletmenin 18. kuralı. Esne."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:235
 translate turkish sm1cs_my003_at_gym_03e5eb22:
 
     # my "All right, now this one is a little bit tougher, but I have faith in you."
-    my "All right, now this one is a little bit tougher, but I have faith in you."
+    my "Tamam, şimdi bu biraz daha zor, ama sana güveniyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:238
 translate turkish sm1cs_my003_at_gym_7ada75e3:
 
     # mc "All right, let's see what..."
-    mc "All right, let's see what..."
+    mc "Tamam, bakalım ne..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:242
 translate turkish sm1cs_my003_at_gym_9b773887:
 
     # mct "Oh fuck me..."
-    mct "Oh fuck me..."
+    mct "Oh lanet olsun..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:245
 translate turkish sm1cs_my003_at_gym_54a19f81:
 
     # my "All right! Give it a try!"
-    my "All right! Give it a try!"
+    my "Tamam! Bir dene!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:247
 translate turkish sm1cs_my003_at_gym_d0308d16:
 
     # mc "I don't think this will end well."
-    mc "I don't think this will end well."
+    mc "Bunun iyi biteceğini sanmıyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:248
 translate turkish sm1cs_my003_at_gym_5a280294:
 
     # my "Come on. You won't know until you try."
-    my "Come on. You won't know until you try."
+    my "Hadi. Denemeden bilemezsin."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:255
 translate turkish sm1cs_my003_at_gym_61d35e29:
@@ -470,73 +470,73 @@ translate turkish sm1cs_my003_at_gym_fc8a5374:
 translate turkish sm1cs_my003_at_gym_febb0419:
 
     # my "Are you okay?"
-    my "Are you okay?"
+    my "İyi misin?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:268
 translate turkish sm1cs_my003_at_gym_fc366b7b:
 
     # mct "My god, what boobs you have, Mom..."
-    mct "My god, what boobs you have, Mom..."
+    mct "Tanrım, ne göğüslerin var, Anne..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:270
 translate turkish sm1cs_my003_at_gym_a124ca26:
 
     # mct "My God... Melony's tits are in my face..."
-    mct "My God... Melony's tits are in my face..."
+    mct "Tanrım... Melony'nin göğüsleri yüzümde..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:273
 translate turkish sm1cs_my003_at_gym_98cb135c:
 
     # mc "Erm- yeah, totally good. I just lost my balance."
-    mc "Erm- yeah, totally good. I just lost my balance."
+    mc "Erm- evet, tamamen iyiyim. Sadece dengemi kaybettim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:275
 translate turkish sm1cs_my003_at_gym_dfcd7d97:
 
     # my "That one was a pretty advanced pose, I shouldn't have done it with you."
-    my "That one was a pretty advanced pose, I shouldn't have done it with you."
+    my "Bu oldukça ileri seviye bir pozdu, seninle yapmamalıydım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:280
 translate turkish sm1cs_my003_at_gym_d9639b1f:
 
     # mc "It's alright Mom. I'm okay. "
-    mc "It's alright Mom. I'm okay. "
+    mc "Sorun değil Anne. İyiyim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:282
 translate turkish sm1cs_my003_at_gym_7df2d8c0:
 
     # mc "*chuckles* I'll live."
-    mc "*chuckles* I'll live."
+    mc "*kıkırdar* Yaşayacağım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:284
 translate turkish sm1cs_my003_at_gym_d4c9953f:
 
     # my "Well, how about you just help me finish my stretching, 'kay?"
-    my "Well, how about you just help me finish my stretching, 'kay?"
+    my "Peki, esneme hareketlerimi bitirmeme yardım etmeye ne dersin, tamam mı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:287
 translate turkish sm1cs_my003_at_gym_c0e6c520:
 
     # mc "Yeah, that's totally fine."
-    mc "Yeah, that's totally fine."
+    mc "Evet, sorun yok."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:291
 translate turkish sm1cs_my003_at_gym_a9769b29:
 
     # mct "I honestly don't think I could do any more stretching."
-    mct "I honestly don't think I could do any more stretching."
+    mct "Dürüst olmak gerekirse daha fazla esneme yapabileceğimi sanmıyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:292
 translate turkish sm1cs_my003_at_gym_9e355809:
 
     # mct "I feel like if I try anything else, something is going to tear."
-    mct "I feel like if I try anything else, something is going to tear."
+    mct "Başka bir şey denersem bir şeyin yırtılacağını hissediyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:295
 translate turkish sm1cs_my003_at_gym_1eba3321:
 
     # my "[mcname], can I get your help?"
-    my "[mcname], can I get your help?"
+    my "[mcname], yardımını alabilir miyim?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:296
 translate turkish sm1cs_my003_at_gym_2408d87d:
@@ -548,31 +548,31 @@ translate turkish sm1cs_my003_at_gym_2408d87d:
 translate turkish sm1cs_my003_at_gym_c4e04c7e:
 
     # mc "Erm, totally. What do you need help with?"
-    mc "Erm, totally. What do you need help with?"
+    mc "Erm, tabii. Neyle ilgili yardıma ihtiyacın var?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:301
 translate turkish sm1cs_my003_at_gym_de4324bb:
 
     # my "My inner thigh muscle is really tight. While I'm stretching, can you just help rub it out?"
-    my "My inner thigh muscle is really tight. While I'm stretching, can you just help rub it out?"
+    my "İç uyluk kasım çok gergin. Ben esnerken masaj yaparak gevşetmeme yardım eder misin?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:304
 translate turkish sm1cs_my003_at_gym_d4bf09e0:
 
     # mc "Rub - erm - yeah, I can."
-    mc "Rub - erm - yeah, I can."
+    mc "Masaj - erm - evet, yapabilirim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:308
 translate turkish sm1cs_my003_at_gym_f6a6698a:
 
     # mct "Come on, [mcname]... this is your Mom. Be cool. Be {u}cool.{/u}"
-    mct "Come on, [mcname]... this is your Mom. Be cool. Be {u}cool.{/u}"
+    mct "Hadi, [mcname]... bu senin annen. Sakin ol. {u}Sakin{/u} ol."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:310
 translate turkish sm1cs_my003_at_gym_fcd90430:
 
     # mct "Come on, [mcname]... it's just Melony. Be cool. Be {u}cool.{/u}"
-    mct "Come on, [mcname]... it's just Melony. Be cool. Be {u}cool.{/u}"
+    mct "Hadi, [mcname]... sadece Melony. Sakin ol. {u}Sakin{/u} ol."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:314
 translate turkish sm1cs_my003_at_gym_5a976ed4:
@@ -584,187 +584,187 @@ translate turkish sm1cs_my003_at_gym_5a976ed4:
 translate turkish sm1cs_my003_at_gym_55ea4e96:
 
     # mc "That the spot?"
-    mc "That the spot?"
+    mc "Orası mı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:320
 translate turkish sm1cs_my003_at_gym_33202cd2:
 
     # my "Yes, yes, that's itttt. Juuuuust like that..."
-    my "Yes, yes, that's itttt. Juuuuust like that..."
+    my "Evet, evet, orası. Aynen böyle..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:321
 translate turkish sm1cs_my003_at_gym_cba8b146:
 
     # my "Oh yes, keep going... mmmmm..."
-    my "Oh yes, keep going... mmmmm..."
+    my "Oh evet, devam et... mmmmm..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:324
 translate turkish sm1cs_my003_at_gym_a13ca133:
 
     # mct "God, she sounds so fucking hot right now-"
-    mct "God, she sounds so fucking hot right now-"
+    mct "Tanrım, şu anda çok ateşli görünüyor-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:325
 translate turkish sm1cs_my003_at_gym_0d6b1d04:
 
     # mct "Nope, can't think like that. Last thing I need is a boner at a bouldering gym."
-    mct "Nope, can't think like that. Last thing I need is a boner at a bouldering gym."
+    mct "Hayır, böyle düşünemem. Kaya tırmanışı salonunda ereksiyona girmem gereken son şey."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:327
 translate turkish sm1cs_my003_at_gym_b4e9ef4a:
 
     # my "Mmmm... okay, that's good. Time for the next position."
-    my "Mmmm... okay, that's good. Time for the next position."
+    my "Mmmm... tamam, bu iyi. Sıradaki pozisyonun zamanı."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:331
 translate turkish sm1cs_my003_at_gym_f308fe5e:
 
     # my "Now, just press your hands into my lower back. It will help me push my limits."
-    my "Now, just press your hands into my lower back. It will help me push my limits."
+    my "Şimdi, ellerini belime bastır. Limitlerimi zorlamama yardımcı olacak."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:335
 translate turkish sm1cs_my003_at_gym_5516442e:
 
     # mc "*Gulp* Mmhm-mm. I can do that."
-    mc "*Gulp* Mmhm-mm. I can do that."
+    mc "*Yutkunur* Mmhm-mm. Yapabilirim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:339
 translate turkish sm1cs_my003_at_gym_35ab8f09:
 
     # mc "How's that?"
-    mc "How's that?"
+    mc "Nasıl?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:341
 translate turkish sm1cs_my003_at_gym_99f5bc8c:
 
     # my "You have to get closer, silly. I really need you to give it to me."
-    my "You have to get closer, silly. I really need you to give it to me."
+    my "Daha yaklaşman gerekiyor, aptal. Gerçekten bunu vermeni istiyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:344
 translate turkish sm1cs_my003_at_gym_722df678:
 
     # mct "Oh my sweet fluffy lord."
-    mct "Oh my sweet fluffy lord."
+    mct "Aman Tanrım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:348
 translate turkish sm1cs_my003_at_gym_83d16ff4:
 
     # mc "That better?"
-    mc "That better?"
+    mc "Daha iyi mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:350
 translate turkish sm1cs_my003_at_gym_0fa64644:
 
     # my "That is perfect, [mcname]. You're going great."
-    my "That is perfect, [mcname]. You're going great."
+    my "Bu mükemmel, [mcname]. Harika gidiyorsun."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:353
 translate turkish sm1cs_my003_at_gym_cb4449e0:
 
     # mct "Does she have any idea of what this sounds like? Jesus."
-    mct "Does she have any idea of what this sounds like? Jesus."
+    mct "Bunun nasıl göründüğü hakkında hiç fikri var mı? Tanrım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:355
 translate turkish sm1cs_my003_at_gym_104f1870:
 
     # my "Harder, [mcname]... harder, please!"
-    my "Harder, [mcname]... harder, please!"
+    my "Daha sert, [mcname]... daha sert, lütfen!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:356
 translate turkish sm1cs_my003_at_gym_5609bf79:
 
     # mct "Jesus H. - oh she sounds so-"
-    mct "Jesus H. - oh she sounds so-"
+    mct "Tanrım - oh sesi çok-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:358
 translate turkish sm1cs_my003_at_gym_8a81fc31:
 
     # mct "Fuck, fuck, fuck - erm, puppies, bitcoin, stock market, uhhhh cows?"
-    mct "Fuck, fuck, fuck - erm, puppies, bitcoin, stock market, uhhhh cows?"
+    mct "Kahretsin, kahretsin, kahretsin - erm, köpek yavruları, bitcoin, borsa, uhhhh inekler?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:359
 translate turkish sm1cs_my003_at_gym_49a7cb64:
 
     # mct "Phew. That was close..."
-    mct "Phew. That was close..."
+    mct "Fuu. Kıl payı..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:364
 translate turkish sm1cs_my003_at_gym_7ba5a3e7:
 
     # my "Mmmm, that was good. Just one more."
-    my "Mmmm, that was good. Just one more."
+    my "Mmmm, bu iyiydi. Sadece bir tane daha."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:368
 translate turkish sm1cs_my003_at_gym_276a969c:
 
     # my "So for this one, I just need your help bracing me. I can get into the pose, I just can't hold it very long."
-    my "So for this one, I just need your help bracing me. I can get into the pose, I just can't hold it very long."
+    my "Bu için sadece beni desteklemene ihtiyacım var. Poza girebilirim, sadece çok uzun tutamıyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:370
 translate turkish sm1cs_my003_at_gym_8a471dff:
 
     # mc "What po-"
-    mc "What po-"
+    mc "Hangi po-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:374
 translate turkish sm1cs_my003_at_gym_df1cd57b:
 
     # mc "Cool. New pose."
-    mc "Cool. New pose."
+    mc "Harika. Yeni poz."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:376
 translate turkish sm1cs_my003_at_gym_e0d2cceb:
 
     # my "Come on tiger. I'm waiting."
-    my "Come on tiger. I'm waiting."
+    my "Hadi kaplan. Bekliyorum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:380
 translate turkish sm1cs_my003_at_gym_6be47a25:
 
     # mct "Holy cow."
-    mct "Holy cow."
+    mct "Vay canına."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:382
 translate turkish sm1cs_my003_at_gym_98e13f57:
 
     # mct "Is Mom intending to be so..."
-    mct "Is Mom intending to be so..."
+    mct "Annem bu kadar... olmayı mı amaçlıyor..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:384
 translate turkish sm1cs_my003_at_gym_a9d93ad5:
 
     # mct "Is Melony intending to be so..."
-    mct "Is Melony intending to be so..."
+    mct "Melony bu kadar... olmayı mı amaçlıyor..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:388
 translate turkish sm1cs_my003_at_gym_83d8adfb:
 
     # mct "Sexy?"
-    mct "Sexy?"
+    mct "Seksi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:390
 translate turkish sm1cs_my003_at_gym_c8680c82:
 
     # my "Oh, right there. Just hold on a little longer."
-    my "Oh, right there. Just hold on a little longer."
+    my "Oh, tam orası. Biraz daha tut."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:391
 translate turkish sm1cs_my003_at_gym_fca777ac:
 
     # my "Yes...{w}just like thaaaat..."
-    my "Yes...{w}just like thaaaat..."
+    my "Evet...{w}aynen böyle..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:393
 translate turkish sm1cs_my003_at_gym_63db58eb:
 
     # mct "Fuck... fuck, fuck, fuck... I definitely have a boner, and it is rubbing right up against her crotch."
-    mct "Fuck... fuck, fuck, fuck... I definitely have a boner, and it is rubbing right up against her crotch."
+    mct "Kahretsin... kahretsin, kahretsin, kahretsin... Kesinlikle ereksiyonum var ve kasıklarına sürtünüyor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:394
 translate turkish sm1cs_my003_at_gym_c37550e9:
 
     # mct "There's no way-"
-    mct "There's no way-"
+    mct "İmkanı yok-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:398
 translate turkish sm1cs_my003_at_gym_e5684d92:
@@ -776,133 +776,133 @@ translate turkish sm1cs_my003_at_gym_e5684d92:
 translate turkish sm1cs_my003_at_gym_b9c3c2a6:
 
     # my "Put me down."
-    my "Put me down."
+    my "Beni indir."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:403
 translate turkish sm1cs_my003_at_gym_4e106df2:
 
     # my "Oh my... that was incredible. You make an excellent partner, [mcname]."
-    my "Oh my... that was incredible. You make an excellent partner, [mcname]."
+    my "Aman Tanrım... bu inanılmazdı. Mükemmel bir partner oluyorsun, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:405
 translate turkish sm1cs_my003_at_gym_646a2746:
 
     # mc "Happy to help."
-    mc "Happy to help."
+    mc "Yardım etmekten mutluyum."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:408
 translate turkish sm1cs_my003_at_gym_45805ace:
 
     # my "Now that I'm all good and stretched out to, shall we get to the main event?"
-    my "Now that I'm all good and stretched out to, shall we get to the main event?"
+    my "Şimdi iyice esnendiğime göre, asıl olaya geçelim mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:410
 translate turkish sm1cs_my003_at_gym_55973ee0:
 
     # mc "The main event?"
-    mc "The main event?"
+    mc "Asıl olay mı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:411
 translate turkish sm1cs_my003_at_gym_a9a417f5:
 
     # my "*giggles* The bouldering, silly."
-    my "*giggles* The bouldering, silly."
+    my "*kıkırdar* Kaya tırmanışı, aptal."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:412
 translate turkish sm1cs_my003_at_gym_ea0fbc46:
 
     # mc "Oh right..."
-    mc "Oh right..."
+    mc "Oh doğru..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:415
 translate turkish sm1cs_my003_at_gym_37d87c4a:
 
     # my "Now, don't sound too excited, [mcname]."
-    my "Now, don't sound too excited, [mcname]."
+    my "Şimdi, çok heyecanlı görünme, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:417
 translate turkish sm1cs_my003_at_gym_634bbae6:
 
     # mc "I'm just excited to see how much stretching has helped me out."
-    mc "I'm just excited to see how much stretching has helped me out."
+    mc "Sadece esnemenim bana ne kadar yardımcı olduğunu görmek için heyecanlıyım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:420
 translate turkish sm1cs_my003_at_gym_c14d68db:
 
     # my "Oh, you'll notice it right away."
-    my "Oh, you'll notice it right away."
+    my "Oh, hemen fark edeceksin."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:425
 translate turkish sm1cs_my003_at_gym_c97ca7a6:
 
     # my "Put your game face on. It's time to tackle our first wall!"
-    my "Put your game face on. It's time to tackle our first wall!"
+    my "Ciddi yüzünü tak. İlk duvarımıza tırmanma zamanı!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:426
 translate turkish sm1cs_my003_at_gym_643c428c:
 
     # my "I'll go up first, and you can watch my path."
-    my "I'll go up first, and you can watch my path."
+    my "Önce ben çıkacağım, sen de yolumu izleyebilirsin."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:429
 translate turkish sm1cs_my003_at_gym_dc2685fc:
 
     # mc "Path?"
-    mc "Path?"
+    mc "Yol mu?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:431
 translate turkish sm1cs_my003_at_gym_e5f9ae37:
 
     # my "Mmmhmmm! The route I take. And if I get stuck, you can help guide me to the top."
-    my "Mmmhmmm! The route I take. And if I get stuck, you can help guide me to the top."
+    my "Mmmhmmm! İzlediğim rota. Ve sıkışırsam, zirveye ulaşmamda bana rehberlik edebilirsin."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:435
 translate turkish sm1cs_my003_at_gym_6dbe01ad:
 
     # mc "Okay, that sounds good to me!"
-    mc "Okay, that sounds good to me!"
+    mc "Tamam, bu bana iyi geliyor!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:437
 translate turkish sm1cs_my003_at_gym_8441c8c9:
 
     # my "Here we go!"
-    my "Here we go!"
+    my "Başlıyoruz!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:441
 translate turkish sm1cs_my003_at_gym_b881bfdf:
 
     # my "So one of the things I've learned about climbing, is that all of the power is in your hips!"
-    my "So one of the things I've learned about climbing, is that all of the power is in your hips!"
+    my "Tırmanma hakkında öğrendiğim şeylerden biri, tüm gücün kalçalarında olduğu!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:442
 translate turkish sm1cs_my003_at_gym_b7070f0f:
 
     # my "Most people think it's in your fingers, but if you try it that way, you'll get tired super fast."
-    my "Most people think it's in your fingers, but if you try it that way, you'll get tired super fast."
+    my "Çoğu insan parmaklarında olduğunu düşünür, ama o şekilde denersen çok hızlı yorulursun."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:443
 translate turkish sm1cs_my003_at_gym_a0cabf7f:
 
     # my "So remember, legs!"
-    my "So remember, legs!"
+    my "Yani unutma, bacaklar!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:446
 translate turkish sm1cs_my003_at_gym_0036c43e:
 
     # mct "That explains why her ass is so big..."
-    mct "That explains why her ass is so big..."
+    mct "Bu kıçının neden bu kadar büyük olduğunu açıklıyor..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:450
 translate turkish sm1cs_my003_at_gym_a0abb05b:
 
     # my "You also want to try and keep three points of contact on the wall. That's how you keep most of the stress of your body."
-    my "You also want to try and keep three points of contact on the wall. That's how you keep most of the stress of your body."
+    my "Ayrıca duvarda üç temas noktası tutmaya çalışmak istersin. Vücudunun stresinin çoğunu bu şekilde tutar."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:452
 translate turkish sm1cs_my003_at_gym_44478b3c:
 
     # mc "Okay, three points of contact."
-    mc "Okay, three points of contact."
+    mc "Tamam, üç temas noktası."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:456
 translate turkish sm1cs_my003_at_gym_ab362f3c:
@@ -914,7 +914,7 @@ translate turkish sm1cs_my003_at_gym_ab362f3c:
 translate turkish sm1cs_my003_at_gym_91d8a70c:
 
     # mc "You okay?"
-    mc "You okay?"
+    mc "İyi misin?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:462
 translate turkish sm1cs_my003_at_gym_5acd50d3:
