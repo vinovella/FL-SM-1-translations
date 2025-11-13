@@ -986,269 +986,269 @@ translate chinese sm1mv02s06_watersports_d9af6597:
 translate chinese sm1mv02s06_watersports_78936c65:
 
     # mhmes "Just pee on me! I want to feel your urine splashing all over me!"
-    mhmes "Just pee on me! I want to feel your urine splashing all over me!"
+    mhmes "就在我身上撒尿吧！我想要感受你的尿液溅满我全身的感觉！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:786
 translate chinese sm1mv02s06_watersports_77db8da2:
 
     # mc "Are you sure about that, Vel?"
-    mc "Are you sure about that, Vel?"
+    mc "你确定要这样吗，维尔？"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:789
 translate chinese sm1mv02s06_watersports_fc7917f8:
 
     # mhmes "Mmmmmmmm!"
-    mhmes "Mmmmmmmm!"
+    mhmes "嗯嗯嗯！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:799
 translate chinese sm1mv02s06_watersports_19a932fd:
 
     # mc "Oh God. That was so hot."
-    mc "Oh God. That was so hot."
+    mc "哦天啊。实在是太带劲了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:800
 translate chinese sm1mv02s06_watersports_6f9ddf07:
 
     # mhmes "Oh, that feels amaaaazing, Ramses!"
-    mhmes "Oh, that feels amaaaazing, Ramses!"
+    mhmes "哦，你让我好爽好舒服，拉姆斯！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:806
 translate chinese sm1mv02s06_watersports_c3ec5393:
 
     # mhmes "God, it feels... mmmmm, this feels so, so, soooo good!"
-    mhmes "God, it feels... mmmmm, this feels so, so, soooo good!"
+    mhmes "天啊，这感觉...嗯嗯额，真的，让我，好爽啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:807
 translate chinese sm1mv02s06_watersports_9c8d8331:
 
     # mhmes "Like... mmmmm..."
-    mhmes "Like... mmmmm..."
+    mhmes "就像... 嗯嗯嗯..."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:808
 translate chinese sm1mv02s06_watersports_b6174385:
 
     # mc "Ahhhhhhh..."
-    mc "Ahhhhhhh..."
+    mc "啊啊啊啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:814
 translate chinese sm1mv02s06_watersports_24f13baf:
 
     # mhmes "It feels like... it feels like..."
-    mhmes "It feels like... it feels like..."
+    mhmes "这感觉就像...这感觉就像..."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:815
 translate chinese sm1mv02s06_watersports_6aa5b073:
 
     # mhmes "Oh God... Oh, I feel like... mmmmmm!"
-    mhmes "Oh God... Oh, I feel like... mmmmmm!"
+    mhmes "哦天啊...哦，我感觉就像...嗯嗯嗯嗯！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:821
 translate chinese sm1mv02s06_watersports_a2ffb3da:
 
     # mhmes "Oh God, I'm going to-"
-    mhmes "Oh God, I'm going to-"
+    mhmes "天啊天啊，我快要--"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:835
 translate chinese sm1mv02s06_wet_319e2182:
 
     # mc "Computer, splash some water on Science Officer Vel?"
-    mc "Computer, splash some water on Science Officer Vel?"
+    mc "电脑，往科学官维尔身上洒些水？"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:837
 translate chinese sm1mv02s06_wet_8aab147d:
 
     # "*BLEEP, BLOOP, BLEEP*"
-    "*BLEEP, BLOOP, BLEEP*"
+    "*哔，啵，哔*"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:858
 translate chinese sm1mv02s06_end_628c4082:
 
     # mhmes "C... Captain?"
-    mhmes "C... Captain?"
+    mhmes "舰...舰长？"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:860
 translate chinese sm1mv02s06_end_4cec0f4f:
 
     # mc "Vel? Are you back to your usual self?"
-    mc "Vel? Are you back to your usual self?"
+    mc "维尔？你恢复正常了吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:864
 translate chinese sm1mv02s06_end_0d08b23b:
 
     # sy "Captain!"
-    sy "Captain!"
+    sy "舰长！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:868
 translate chinese sm1mv02s06_end_bdad02ad:
 
     # sy "Oh..."
-    sy "Oh..."
+    sy "哦..."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:878
 translate chinese sm1mv02s06_end_1073dda9:
 
     # mhmes "Lieutenant Commander Orion."
-    mhmes "Lieutenant Commander Orion."
+    mhmes "奥里昂少校。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:880
 translate chinese sm1mv02s06_end_e7698a66:
 
     # sy "Am I... interrupting?"
-    sy "Am I... interrupting?"
+    sy "我是不是...打扰了？"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:881
 translate chinese sm1mv02s06_end_e6e4aa05:
 
     # mhmes "Just some experiments with the captain.{w} How is our new patient?"
-    mhmes "Just some experiments with the captain.{w} How is our new patient?"
+    mhmes "我只是和舰长在做些实验。{w}我们的新病人情况如何？"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:884
 translate chinese sm1mv02s06_end_ed63edd4:
 
     # sy "Much improved. I have made a discovery, though, and I think it's best if we get the Captain into quarantine right away."
-    sy "Much improved. I have made a discovery, though, and I think it's best if we get the Captain into quarantine right away."
+    sy "好多了。不过我有个发现，我认为最好立即让舰长接受隔离。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:887
 translate chinese sm1mv02s06_end_c2325c8d:
 
     # mhmes "Yes, I agree. It seems that whatever you came into contact with down on the surface has spread very quickly."
-    mhmes "Yes, I agree. It seems that whatever you came into contact with down on the surface has spread very quickly."
+    mhmes "是的，我同意。看来你在外星球表面接触到的物质传播速度非常快。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:890
 translate chinese sm1mv02s06_end_66d4260c:
 
     # sy "Mmhmmm, a local flora. It becomes attached to the skin and acts as a pheromone."
-    sy "Mmhmmm, a local flora. It becomes attached to the skin and acts as a pheromone."
+    sy "嗯...是一种当地植物。它会附着在皮肤上，起到信息素的作用。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:896
 translate chinese sm1mv02s06_end_ce3856a0:
 
     # mhmes "I've already ran some experiments on the... effectiveness of this agent. I need to get to the lab to study it more in depth."
-    mhmes "I've already ran some experiments on the... effectiveness of this agent. I need to get to the lab to study it more in depth."
+    mhmes "我已对这种物质的...效力进行了初步实验。还需要去实验室深入研究。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:897
 translate chinese sm1mv02s06_end_e809186a:
 
     # mhmes "In the meantime, can you take the Captain to his quarters and ensure he is thoroughly cleaned off?"
-    mhmes "In the meantime, can you take the Captain to his quarters and ensure he is thoroughly cleaned off?"
+    mhmes "在此期间，能否请你护送船长回舱室并确保彻底清除他身上的附着物？"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:900
 translate chinese sm1mv02s06_end_dcce1f24:
 
     # sy "Aye, aye!"
-    sy "Aye, aye!"
+    sy "遵命！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:907
 translate chinese sm1mv02s06_end_f1fc1729:
 
     # mhmes "Very good."
-    mhmes "Very good."
+    mhmes "很好。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:911
 translate chinese sm1mv02s06_end_d59e7cd8:
 
     # sy "To your quarters, Captain."
-    sy "To your quarters, Captain."
+    sy "请回舱室，船长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:913
 translate chinese sm1mv02s06_end_0f5f5480:
 
     # mc "Whatever you say, Orion."
-    mc "Whatever you say, Orion."
+    mc "听你的，奥里昂。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:940
 translate chinese sm1mv02s06_cut_f3598b86:
 
     # sy "And cut!"
-    sy "And cut!"
+    sy "停！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:941
 translate chinese sm1mv02s06_cut_e1748d70:
 
     # sy "God, that looked hot! That was great!"
-    sy "God, that looked hot! That was great!"
+    sy "天啊，这镜头太带感了！演得太棒了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:943
 translate chinese sm1mv02s06_cut_d9233e91:
 
     # kv "Yeah, it looks fucking great! Damn."
-    kv "Yeah, it looks fucking great! Damn."
+    kv "是啊，效果真的很绝！简直了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:949
 translate chinese sm1mv02s06_cut_dbeca818:
 
     # mhmes "That's good. I need to go and wash up."
-    mhmes "That's good. I need to go and wash up."
+    mhmes "那就好。我需要去洗个澡。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:956
 translate chinese sm1mv02s06_cut_a883421e:
 
     # mhmes "But, this was a fantastic day. Thank you all for a good shoot!"
-    mhmes "But, this was a fantastic day. Thank you all for a good shoot!"
+    mhmes "但还是要说，今天真是太棒了。感谢大家完成了这次精彩的拍摄！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:960
 translate chinese sm1mv02s06_cut_fcb6bf72:
 
     # ns "Me too! This paint can get a little itchy."
-    ns "Me too! This paint can get a little itchy."
+    ns "我也是！这些颜料有点让人发痒。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:962
 translate chinese sm1mv02s06_cut_6bae2884:
 
     # sy "That's all good, you're wrapped too, Nari."
-    sy "That's all good, you're wrapped too, Nari."
+    sy "都没问题了，你的戏份也结束了，娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:965
 translate chinese sm1mv02s06_cut_83866363:
 
     # ns "Thank you, Stacy!"
-    ns "Thank you, Stacy!"
+    ns "谢谢你，史黛西！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:972
 translate chinese sm1mv02s06_cut_504c194a:
 
     # mc "Everything looking good?"
-    mc "Everything looking good?"
+    mc "一切顺利吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:974
 translate chinese sm1mv02s06_cut_3f8a9e94:
 
     # kv "Oh yeah, looks great. Definitely one for the reel."
-    kv "Oh yeah, looks great. Definitely one for the reel."
+    kv "哦，当然，效果绝佳。绝对值得收进作品集。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:977
 translate chinese sm1mv02s06_cut_e35f4d52:
 
     # mc "Good! But, I am fucking exhausted."
-    mc "Good! But, I am fucking exhausted."
+    mc "太好了！但我他妈累瘫了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:980
 translate chinese sm1mv02s06_cut_a1fcc79a:
 
     # mc "I'm glad that it looks good though!"
-    mc "I'm glad that it looks good though!"
+    mc "不过能拍得这么好，我还是很高兴！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:982
 translate chinese sm1mv02s06_cut_10b8073b:
 
     # sy "Me too!"
-    sy "Me too!"
+    sy "我也是！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:986
 translate chinese sm1mv02s06_cut_72c8ded8:
 
     # mc "I can't wait for the next one!"
-    mc "I can't wait for the next one!"
+    mc "都等不及拍下一场戏了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:988
 translate chinese sm1mv02s06_cut_ba2a327a:
 
     # kv "I'm looking forward to the next one!"
-    kv "I'm looking forward to the next one!"
+    kv "我也期待下一场！"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:991
 translate chinese sm1mv02s06_cut_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "我也是。"
 
