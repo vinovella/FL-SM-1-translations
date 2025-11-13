@@ -832,12 +832,6 @@ translate spanish ns013_labels_section_5b8f47d4:
     # ns "That is not who I am."
     ns "That is not who I am."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:533
-translate spanish ns013_labels_section_6dbe4ceb:
-
-    # ns "I am a very bad [nspetlabel]"
-    ns "I am a very bad [nspetlabel]"
-
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:535
 translate spanish ns013_labels_section_6790f1fe:
 
@@ -939,12 +933,6 @@ translate spanish ns013_labels_section_e5e55bb8:
 
     # mc "Are you feeling better now?"
     mc "Are you feeling better now?"
-
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:571
-translate spanish ns013_labels_section_55e64ca2:
-
-    # ns "A little. I'm actually stilll-"
-    ns "A little. I'm actually stilll-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:572
 translate spanish ns013_labels_section_d6d86041:
@@ -1096,12 +1084,6 @@ translate spanish ns013_labels_section_2360aad8:
     # mc "Take all the time you need, Nari."
     mc "Take all the time you need, Nari."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:629
-translate spanish ns013_labels_section_fb047390:
-
-    # ns "You're alawys so kind to me, [nsmcpetlabel]."
-    ns "You're alawys so kind to me, [nsmcpetlabel]."
-
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:631
 translate spanish ns013_labels_section_69aaf1f6:
 
@@ -1150,12 +1132,6 @@ translate spanish ns013_labels_section_bfd12f43:
     # ns "But now... with hua-huaah... you inside of me... everything feels like it should."
     ns "But now... with hua-huaah... you inside of me... everything feels like it should."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:653
-translate spanish ns013_labels_section_ad86d919:
-
-    # mc "I love how your pussy around me. I have such a good [nspetlabel]."
-    mc "I love how your pussy around me. I have such a good [nspetlabel]."
-
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:654
 translate spanish ns013_labels_section_d892676b:
 
@@ -1191,12 +1167,6 @@ translate spanish ns013_labels_section_a719a848:
 
     # ns "This pose... It's nice."
     ns "This pose... It's nice."
-
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:664
-translate spanish ns013_labels_section_ec7c7785:
-
-    # ns "I can go... Mrrmmm... at just the right speed,"
-    ns "I can go... Mrrmmm... at just the right speed,"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:665
 translate spanish ns013_labels_section_0e3f93c7:
@@ -2433,4 +2403,34 @@ translate spanish strings:
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1062
     old "About thirty minutes later"
     new "About thirty minutes later"
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:531
+translate spanish ns013_labels_section_0887f6cc:
+
+    # ns "I am a very bad [nspetlabel]."
+    ns "I am a very bad [nspetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:569
+translate spanish ns013_labels_section_3688c4d9:
+
+    # ns "A little. I'm actually still-"
+    ns "A little. I'm actually still-"
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:627
+translate spanish ns013_labels_section_713f1049:
+
+    # ns "You're always so kind to me, [nsmcpetlabel]."
+    ns "You're always so kind to me, [nsmcpetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:651
+translate spanish ns013_labels_section_791ab451:
+
+    # mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+    mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:662
+translate spanish ns013_labels_section_ab353c83:
+
+    # ns "I can go... Mrrmmm... at just the right speed."
+    ns "I can go... Mrrmmm... at just the right speed."
 

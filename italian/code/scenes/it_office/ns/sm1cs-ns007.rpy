@@ -322,12 +322,6 @@ translate italian sm1cs_ns007_resturant_3dd0863d:
     # mc "Not really, but... even if I wanted to order what you like, I don't really know what you like."
     mc "Non proprio, ma... anche se volessi ordinare quello che ti piace, non so davvero cosa ti piace."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:234
-translate italian sm1cs_ns007_resturant_4ee645e0:
-
-    # ns "I dissagree. I've told you many things I like."
-    ns "Non sono d'accordo. Ti ho detto molte cose che mi piacciono."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:236
 translate italian sm1cs_ns007_resturant_79ccfa96:
 
@@ -1030,12 +1024,6 @@ translate italian sm1cs_ns007_light_house_414b8d09:
     # ns "A little... but I want to you to keep touching me."
     ns "Un po'... ma voglio che continui a toccarmi."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:595
-translate italian sm1cs_ns007_light_house_721e1d0f:
-
-    # ns "I feel... comfortable... wtih you."
-    ns "Mi sento... a mio agio... con te."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:597
 translate italian sm1cs_ns007_light_house_6e683072:
 
@@ -1239,12 +1227,6 @@ translate italian sm1cs_ns007_light_house_7f24cbec:
 
     # mct "With me of course. She would probably be comfortable."
     mct "Con me ovviamente. Probabilmente si sentirebbe a suo agio."
-
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:694
-translate italian sm1cs_ns007_light_house_ec054526:
-
-    # ns "*exctied but stiffled moaning*"
-    ns "*gemiti eccitati ma soffocati*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:695
 translate italian sm1cs_ns007_light_house_cff3ddbc:
@@ -1480,12 +1462,6 @@ translate italian sm1cs_ns007_light_house_6157151d:
     # ns "*shivering* Really? That makes me so happy."
     ns "*tremando* Davvero? Questo mi rende così felice."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:806
-translate italian sm1cs_ns007_light_house_f8b5ef95:
-
-    # ns "*moaning. I love... hearing that... ooouhah..."
-    ns "*gemendo. Adoro... sentire questo... ooouhah..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:807
 translate italian sm1cs_ns007_light_house_8ab21434:
 
@@ -1642,12 +1618,6 @@ translate italian sm1cs_ns007_light_house_9c95d390:
     # ns "Ooouha-huaa-hooouah..."
     ns "Ooouha-huaa-hooouah..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:882
-translate italian sm1cs_ns007_light_house_47a2443e:
-
-    # ns "*whipsers* It's just like the hentai."
-    ns "*sussurra* È proprio come negli hentai."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:886
 translate italian sm1cs_ns007_light_house_45a96e41:
 
@@ -1701,12 +1671,6 @@ translate italian sm1cs_ns007_light_house_9272cc78:
 
     # mc "Alright. Here's your special order."
     mc "Va bene. Ecco il tuo ordine speciale."
-
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:910
-translate italian sm1cs_ns007_light_house_b7c02e3e:
-
-    # ns "Yes. Thank you, [mcname].."
-    ns "Sì. Grazie, [mcname].."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:913
 translate italian sm1cs_ns007_light_house_8716d7be:
@@ -1860,12 +1824,6 @@ translate italian sm1cs_ns007_walkaway_dbeabe96:
     # ns "Yes, I can do that."
     ns "Sì, posso farlo."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1001
-translate italian sm1cs_ns007_walkaway_1f0277e6:
-
-    # ns "Hmm... considering the food, conversation, company and my the amount of times I came..."
-    ns "Hmm... considerando il cibo, la conversazione, la compagnia e il numero di volte che sono venuta..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1002
 translate italian sm1cs_ns007_walkaway_e0cd2531:
 
@@ -2013,4 +1971,52 @@ translate italian strings:
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:536
     old "I won't tell if you don't"
     new "Non lo dirò se non lo fai tu"
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:234
+translate italian sm1cs_ns007_resturant_0eecd966:
+
+    # ns "I disagree. I've told you many things I like."
+    ns "I disagree. I've told you many things I like."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:595
+translate italian sm1cs_ns007_light_house_eb237d93:
+
+    # ns "I feel... comfortable... with you."
+    ns "I feel... comfortable... with you."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:694
+translate italian sm1cs_ns007_light_house_0c97487e:
+
+    # ns "*excited but stifled moaning*"
+    ns "*excited but stifled moaning*"
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:806
+translate italian sm1cs_ns007_light_house_5d826925:
+
+    # ns "*moaning. I love... hearing that... ooouhah...*"
+    ns "*moaning. I love... hearing that... ooouhah...*"
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:882
+translate italian sm1cs_ns007_light_house_81160ea0:
+
+    # ns "*whispers* It's just like the hentai."
+    ns "*whispers* It's just like the hentai."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:910
+translate italian sm1cs_ns007_light_house_4e72d60e:
+
+    # ns "Yes. Thank you, [mcname]."
+    ns "Yes. Thank you, [mcname]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1001
+translate italian sm1cs_ns007_walkaway_9dae56c9:
+
+    # ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+    ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+
+translate italian strings:
+
+    # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:439
+    old "The people close to me are happy about it"
+    new "The people close to me are happy about it"
 

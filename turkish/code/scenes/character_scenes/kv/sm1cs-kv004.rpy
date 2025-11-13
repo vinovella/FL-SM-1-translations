@@ -394,12 +394,6 @@ translate turkish sm1cs_kv004_41ac40ab:
     # mc "Not going to lie, it was a little awkward hearing someone talk about it with me in the room. She seemed to enjoy it, though."
     mc "Yalan söylemeyeceğim, odada benimle birlikte birinin bundan bahsettiğini duymak biraz tuhaftı. Ama bundan hoşlanmış gibi görünüyordu."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
-translate turkish sm1cs_kv004_96ff9235:
-
-    # kv "She did. I know it's been awhile since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "Öyle yaptı. Uzun zamandır bir şey yapmadığını biliyorum, bu yüzden hayal gücünü harekete geçirecek bir şeyin hoşuna gideceğini düşündüm."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:241
 translate turkish sm1cs_kv004_a0f8dcda:
 
@@ -682,12 +676,6 @@ translate turkish sm1cs_kv004_sex_repeatable_b9e52793:
     # kv "We'll start off with an easy POV shot."
     kv "Kolay bir POV çekimiyle başlayalım."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:407
-translate turkish sm1cs_kv004_sex_repeatable_b32bc269:
-
-    # kv "But we have to get rid of these pesky things..."
-    kv "Ama bu sinir bozucu şeylerden kurtulmamız lazım..."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:413
 translate turkish sm1cs_kv004_sex_repeatable_924c1b38:
 
@@ -741,12 +729,6 @@ translate turkish sm1cs_kv004_sex_repeatable_886511cd:
 
     # mc "You were right, this looks fucking {i}hot!{/i}"
     mc "Haklıymışsın, bu çok {i}sıcak{/i} görünüyor!"
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:456
-translate turkish sm1cs_kv004_sex_repeatable_ebeeae2e:
-
-    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, Goddamn."
-    mc "Shi- Kanya, ağzınla ah-maze-za-z yapıyorsun, kahretsin."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:468
 translate turkish sm1cs_kv004_sex_repeatable_334744a4:
@@ -1006,12 +988,6 @@ translate turkish sm1cs_kv004_sex_repeatable_aef2c7e5:
     # kv "Gooooood, chooooke me! Fuuuuck, I'mstillcummmmmming!"
     kv "Aman Tanrım, beni seç! Siktir et, hala boşalıyorum!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:596
-translate turkish sm1cs_kv004_sex_repeatable_2aadad2a:
-
-    # mc "Mmmmnngnng, Kanya you're so tight! You're pussy is like a viccce!"
-    mc "Mmmmnngnng, Kanya çok darsın! Senin amın bir viccce gibi!"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate turkish sm1cs_kv004_sex_repeatable_c5bef044:
 
@@ -1203,4 +1179,28 @@ translate turkish strings:
     # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:348
     old "Maybe some other time"
     new "Belki başka bir zaman."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
+translate turkish sm1cs_kv004_9b3488c6:
+
+    # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
+translate turkish sm1cs_kv004_sex_repeatable_b52d6afd:
+
+    # kv "Let's get rid of these pesky things..."
+    kv "Let's get rid of these pesky things..."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
+translate turkish sm1cs_kv004_sex_repeatable_0bda85cc:
+
+    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
+translate turkish sm1cs_kv004_sex_repeatable_925a1079:
+
+    # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
 

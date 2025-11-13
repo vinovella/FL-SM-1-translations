@@ -394,12 +394,6 @@ translate portuguese sm1cs_kv004_41ac40ab:
     # mc "Not going to lie, it was a little awkward hearing someone talk about it with me in the room. She seemed to enjoy it, though."
     mc "Sinceramente, foi um pouquinho estranho ouvir outra pessoa falar sobre isso comigo presente. Mas parece que ela gostou."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
-translate portuguese sm1cs_kv004_96ff9235:
-
-    # kv "She did. I know it's been awhile since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "Gostou mesmo. Eu sei que faz um tempo que ela transou, então achei que ia gostar de algo que atiçasse a imaginação."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:241
 translate portuguese sm1cs_kv004_a0f8dcda:
 
@@ -682,12 +676,6 @@ translate portuguese sm1cs_kv004_sex_repeatable_b9e52793:
     # kv "We'll start off with an easy POV shot."
     kv "Vamos começar com uma foto em primeira pessoa, bem simples."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:407
-translate portuguese sm1cs_kv004_sex_repeatable_b32bc269:
-
-    # kv "But we have to get rid of these pesky things..."
-    kv "Mas vamos ter que nos livrar dessas coisas chatas..."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:413
 translate portuguese sm1cs_kv004_sex_repeatable_924c1b38:
 
@@ -741,12 +729,6 @@ translate portuguese sm1cs_kv004_sex_repeatable_886511cd:
 
     # mc "You were right, this looks fucking {i}hot!{/i}"
     mc "Você tinha razão, tá tão {i}gostoso{/i}!"
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:456
-translate portuguese sm1cs_kv004_sex_repeatable_ebeeae2e:
-
-    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, Goddamn."
-    mc "Caral- Kanya, você é mui-too boa com essa boca, Jesus do céu."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:468
 translate portuguese sm1cs_kv004_sex_repeatable_334744a4:
@@ -1006,12 +988,6 @@ translate portuguese sm1cs_kv004_sex_repeatable_aef2c7e5:
     # kv "Gooooood, chooooke me! Fuuuuck, I'mstillcummmmmming!"
     kv "Issoooo, me enforca! Porraaa, aindatôgozandoooooo!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:596
-translate portuguese sm1cs_kv004_sex_repeatable_2aadad2a:
-
-    # mc "Mmmmnngnng, Kanya you're so tight! You're pussy is like a viccce!"
-    mc "Mmmmnn, Kanya, caralho como você tá apertando! A sua boceta parece uma prensa!"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate portuguese sm1cs_kv004_sex_repeatable_c5bef044:
 
@@ -1203,4 +1179,28 @@ translate portuguese strings:
     # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:348
     old "Maybe some other time"
     new "Talvez outra hora"
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
+translate portuguese sm1cs_kv004_9b3488c6:
+
+    # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
+translate portuguese sm1cs_kv004_sex_repeatable_b52d6afd:
+
+    # kv "Let's get rid of these pesky things..."
+    kv "Let's get rid of these pesky things..."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
+translate portuguese sm1cs_kv004_sex_repeatable_0bda85cc:
+
+    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
+translate portuguese sm1cs_kv004_sex_repeatable_925a1079:
+
+    # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
 

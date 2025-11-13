@@ -40,12 +40,6 @@ translate deutsch sm1cs_mh008_c067869b:
     # mc "Why did you want to see me?"
     mc "Warum willst du mich sehen?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:47
-translate deutsch sm1cs_mh008_e7ebf2b6:
-
-    # mh "I don't know... it's been awhile since we've really spent time together. I thought we could maybe do something, go somewhere."
-    mh "Ich weiß nicht... es ist schon eine Weile her, seit wir wirklich Zeit miteinander verbracht haben. Ich dachte, wir könnten vielleicht etwas unternehmen, irgendwo hingehen."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:50
 translate deutsch sm1cs_mh008_3e53a7b5:
 
@@ -2347,4 +2341,10 @@ translate deutsch strings:
     # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:187
     old "Don't press the issue"
     new "Dränge nicht weiter darauf"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:46
+translate deutsch sm1cs_mh008_f927037e:
+
+    # mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
+    mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
 

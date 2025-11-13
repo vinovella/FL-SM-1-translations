@@ -58,12 +58,6 @@ translate portuguese sm1cs_dc010i_7825249a:
     # dc "What are you thinking?"
     dc "Está pensando no quê?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010i.rpy:23
-translate portuguese sm1cs_dc010i_53ea3c7c:
-
-    # mc "Well, there's this new action move-"
-    mc "Bom, tem um filme de ação novo-"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010i.rpy:26
 translate portuguese sm1cs_dc010i_fc4320ec:
 
@@ -87,4 +81,10 @@ translate portuguese sm1cs_dc010i_35458250:
 
     # dc "Okay! I'll see you there! Yay!"
     dc "Tá bom! Te vejo lá! Eba!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010i.rpy:23
+translate portuguese sm1cs_dc010i_dfcdc19d:
+
+    # mc "Well, there's this new action movie-"
+    mc "Well, there's this new action movie-"
 

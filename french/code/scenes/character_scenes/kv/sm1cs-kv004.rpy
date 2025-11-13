@@ -394,12 +394,6 @@ translate french sm1cs_kv004_41ac40ab:
     # mc "Not going to lie, it was a little awkward hearing someone talk about it with me in the room. She seemed to enjoy it, though."
     mc "J’vais pas mentir, c’était un peu gênant d’entendre ça alors que j’étais dans la pièce. Mais elle avait l’air d’aimer."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
-translate french sm1cs_kv004_96ff9235:
-
-    # kv "She did. I know it's been awhile since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "Oui, c’est sûr. Ça fait un bail qu’elle n’a pas eu d’action, alors je me suis dit qu’un peu d’imagination lui ferait du bien."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:241
 translate french sm1cs_kv004_a0f8dcda:
 
@@ -682,12 +676,6 @@ translate french sm1cs_kv004_sex_repeatable_b9e52793:
     # kv "We'll start off with an easy POV shot."
     kv "On va commencer simple, un petit plan POV."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:407
-translate french sm1cs_kv004_sex_repeatable_b32bc269:
-
-    # kv "But we have to get rid of these pesky things..."
-    kv "Mais d’abord faut virer ces fringues gênantes..."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:413
 translate french sm1cs_kv004_sex_repeatable_924c1b38:
 
@@ -741,12 +729,6 @@ translate french sm1cs_kv004_sex_repeatable_886511cd:
 
     # mc "You were right, this looks fucking {i}hot!{/i}"
     mc "T’avais raison, c’est {i}putain{/i} de chaud !"
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:456
-translate french sm1cs_kv004_sex_repeatable_ebeeae2e:
-
-    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, Goddamn."
-    mc "Pu– Kanya, ta bouche c’est une tuerie, bordel..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:468
 translate french sm1cs_kv004_sex_repeatable_334744a4:
@@ -1006,12 +988,6 @@ translate french sm1cs_kv004_sex_repeatable_aef2c7e5:
     # kv "Gooooood, chooooke me! Fuuuuck, I'mstillcummmmmming!"
     kv "Ouiii, étrangle-moi ! Putain, je jouiiiiiis encore !"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:596
-translate french sm1cs_kv004_sex_repeatable_2aadad2a:
-
-    # mc "Mmmmnngnng, Kanya you're so tight! You're pussy is like a viccce!"
-    mc "Mmmmngh, Kanya, t’es tellement serrée ! Ta chatte, c’est un étau !"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate french sm1cs_kv004_sex_repeatable_c5bef044:
 
@@ -1205,4 +1181,28 @@ translate french strings:
     new "Une autre fois peut-être"
 
 #Translate by BlackViper_
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
+translate french sm1cs_kv004_9b3488c6:
+
+    # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
+translate french sm1cs_kv004_sex_repeatable_b52d6afd:
+
+    # kv "Let's get rid of these pesky things..."
+    kv "Let's get rid of these pesky things..."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
+translate french sm1cs_kv004_sex_repeatable_0bda85cc:
+
+    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
+translate french sm1cs_kv004_sex_repeatable_925a1079:
+
+    # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
 

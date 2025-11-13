@@ -400,12 +400,6 @@ translate portuguese sm1cs_cw006_72e1e090:
     # cw "You would never have had to play the role so {b}physically{/b}..."
     cw "Você nunca teria que fazer o papel tão {b}fisicamente{/b}..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:242
-translate portuguese sm1cs_cw006_481fa937:
-
-    # cw "If I didn't need you help in the first place..."
-    cw "Se não estivesse precisando da sua ajuda para início de conversa..."
-
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:249
 translate portuguese sm1cs_cw006_2d2aafdf:
 
@@ -435,12 +429,6 @@ translate portuguese sm1cs_cw006_09adac03:
 
     # cw "*gasps*"
     cw "*suspiro*"
-
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:257
-translate portuguese sm1cs_cw006_e1fea2e7:
-
-    # mc "I can only control my body so much, Claire.."
-    mc "Não tenho como controlar meu corpo tanto assim, Claire."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:260
 translate portuguese sm1cs_cw006_d99ab8d5:
@@ -652,12 +640,6 @@ translate portuguese cw006_choice1_b6ce5dca:
     # cw "I really appreciate your time today, and your attention."
     cw "Agradeço muito pelo seu tempo hoje, e pela sua atenção."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:358
-translate portuguese cw006_choice1_4c45d395:
-
-    # mc "Of course, Ms. Claire."
-    mc "Claro, Sra. Claire."
-
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:361
 translate portuguese cw006_choice1_ed8fb7e4:
 
@@ -754,12 +736,6 @@ translate portuguese sm1cs_cw006_onramp_1a_0282ab77:
     # cw "Being around you...{w} appears to help with my workflow."
     cw "Ficar com você...{w} parece que isso ajuda com o meu trabalho."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:404
-translate portuguese sm1cs_cw006_onramp_1a_61a975b5:
-
-    # cw "I think a little further analysis would be good.{w} Neccesary even."
-    cw "Acho que vale a pena analisar isso mais a fundo.{w} Diria que é até necessário."
-
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:408
 translate portuguese sm1cs_cw006_onramp_1a_212a1b90:
 
@@ -807,12 +783,6 @@ translate portuguese sm1cs_cw006_onramp_1a_38d02a53:
 
     # cw "In the weeks ahead, I may be calling on you to help me out with some technical details about a project I am working on."
     cw "Nas próximas semanas, talvez eu te chame para ajudar com certos detalhes técnicos de um projeto que estou trabalhando."
-
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:425
-translate portuguese sm1cs_cw006_onramp_1a_bb517c47:
-
-    # cw "And by helping me out, I mean I'd need you help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
-    cw "E quando eu digo me ajudar, quero dizer que precisaria de ajuda com atividades vagamente semelhantes às que {i}completamos{/i} no iate."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:426
 translate portuguese sm1cs_cw006_onramp_1a_05500ff6:
@@ -1696,12 +1666,6 @@ translate portuguese sm1cs_cw006_onramp_1_2ba0ca90:
     # cw "It is."
     cw "É."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:859
-translate portuguese sm1cs_cw006_onramp_2_82d718b7:
-
-    # mc "I wanted to talk to you about that special assignement you mentioned?"
-    mc "Queria falar com você sobre a tarefa especial que você falou?"
-
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:861
 translate portuguese sm1cs_cw006_onramp_2_641876ad:
 
@@ -1803,4 +1767,40 @@ translate portuguese strings:
     # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:476
     old "Your lips?"
     new "Your lips?"
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:238
+translate portuguese sm1cs_cw006_8854937c:
+
+    # cw "If I didn't need your help in the first place..."
+    cw "If I didn't need your help in the first place..."
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:253
+translate portuguese sm1cs_cw006_8fc13b58:
+
+    # mc "I can only control my body so much, Claire."
+    mc "I can only control my body so much, Claire."
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:353
+translate portuguese cw006_choice1_b19ad390:
+
+    # mc "Of course, Ms. Watts."
+    mc "Of course, Ms. Watts."
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:400
+translate portuguese sm1cs_cw006_onramp_1a_e8dd973e:
+
+    # cw "I think a little further analysis would be good.{w} Necessary even."
+    cw "I think a little further analysis would be good.{w} Necessary even."
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:421
+translate portuguese sm1cs_cw006_onramp_1a_141a8791:
+
+    # cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
+    cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:860
+translate portuguese sm1cs_cw006_onramp_2_d125b649:
+
+    # mc "I wanted to talk to you about that special assignment you mentioned?"
+    mc "I wanted to talk to you about that special assignment you mentioned?"
 

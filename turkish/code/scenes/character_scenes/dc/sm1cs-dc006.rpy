@@ -184,12 +184,6 @@ translate turkish sm1cs_dc006_11bee6f5:
     # dc "Yeah, surprisingly everyone is pretty tight lipped about it."
     dc "Evet, şaşırtıcı bir şekilde herkes bu konuda oldukça ketum."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
-translate turkish sm1cs_dc006_180f30a4:
-
-    # dc "I would be lying if I didn't say I was a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "Olanlarla biraz ilgilendiğimi söylemezsem yalan söylemiş olurum. Polisler bundan bahsetmiyorsa... olay çok ilginç olmalı."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:111
 translate turkish sm1cs_dc006_2b4b0363:
 
@@ -261,12 +255,6 @@ translate turkish sm1cs_dc006_73ff9d5e:
 
     # mc "Nope, can't say that I have. I'm actually pretty sure I've never had a mocha."
     mc "Hayır, öyle bir şey söyleyemem. Aslında hiç moka içmediğimden oldukça eminim."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
-translate turkish sm1cs_dc006_54e3a518:
-
-    # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, your's is a white chocolate mix, and..."
-    dc "Oldukça iyiler. Espresso, süt ve biraz çikolata karışımı. Yani, seninki beyaz çikolata karışımı ve..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:145
 translate turkish sm1cs_dc006_514a3798:
@@ -953,4 +941,16 @@ translate turkish sm1cs_dc006_at_park_fb7dfd2e:
 
     # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
     dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
+translate turkish sm1cs_dc006_993ec2ac:
+
+    # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
+translate turkish sm1cs_dc006_a541102c:
+
+    # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
+    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
 

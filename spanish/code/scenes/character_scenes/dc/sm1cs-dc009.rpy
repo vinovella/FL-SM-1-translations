@@ -460,12 +460,6 @@ translate spanish sm1cs_dc009_00afdad0:
     # mct "Man, the way Debbie can handle that hot dog..."
     mct "Man, the way Debbie can handle that hot dog..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:173
-translate spanish sm1cs_dc009_2db0278c:
-
-    # mct "I can't help but think of a different weiner I'd love for her to be putting-"
-    mct "I can't help but think of a different weiner I'd love for her to be putting-"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:176
 translate spanish sm1cs_dc009_52ff6b16:
 
@@ -489,12 +483,6 @@ translate spanish sm1cs_dc009_269f2ca1:
 
     # mct "If only she knew what was going on in my head..."
     mct "If only she knew what was going on in my head..."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:184
-translate spanish sm1cs_dc009_de87fb7e:
-
-    # mc "No everything is great.{w} But, I do have a confession to make..."
-    mc "No everything is great.{w} But, I do have a confession to make..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:186
 translate spanish sm1cs_dc009_610aac26:
@@ -646,12 +634,6 @@ translate spanish sm1cs_dc009_70cf9acc:
     # dc "But I like to try and keep up with my skills."
     dc "But I like to try and keep up with my skills."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:228
-translate spanish sm1cs_dc009_10b1cd37:
-
-    # dc "And I'd like to do that with you,[mcname]!"
-    dc "And I'd like to do that with you,[mcname]!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:229
 translate spanish sm1cs_dc009_e8a1c664:
 
@@ -802,12 +784,6 @@ translate spanish sm1cs_dc009_e5f90af8:
     # mc "Okay, always treat them like they're loaded."
     mc "Okay, always treat them like they're loaded."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:289
-translate spanish sm1cs_dc009_26deb4cc:
-
-    # dc "That is thee most important rule about any and every gun."
-    dc "That is thee most important rule about any and every gun."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:290
 translate spanish sm1cs_dc009_8a2323a2:
 
@@ -933,12 +909,6 @@ translate spanish sm1cs_dc009_5579462a:
 
     # dc "And keep your arms straight. Perfect."
     dc "And keep your arms straight. Perfect."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:334
-translate spanish sm1cs_dc009_2b44ed09:
-
-    # dc "All right, and lean a little foreward, brace yourself a bit for the recoil..."
-    dc "All right, and lean a little foreward, brace yourself a bit for the recoil..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:337
 translate spanish sm1cs_dc009_501eb9c4:
@@ -1066,12 +1036,6 @@ translate spanish sm1cs_dc009_60aee8ae:
     # jc "Oh, it is!"
     jc "Oh, it is!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:384
-translate spanish sm1cs_dc009_639d1c66:
-
-    # "Douche Cop" "Well hi there, little miss police officer!"
-    "Douche Cop" "Well hi there, little miss police officer!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:387
 translate spanish sm1cs_dc009_7a80fd92:
 
@@ -1096,12 +1060,6 @@ translate spanish sm1cs_dc009_69b25b91:
     # dc "He's not my - I mean, I..."
     dc "He's not my - I mean, I..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:393
-translate spanish sm1cs_dc009_f7106988:
-
-    # "Douche Cop" "Oh, that's not a surprise!"
-    "Douche Cop" "Oh, that's not a surprise!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:396
 translate spanish sm1cs_dc009_17bc80f3:
 
@@ -1120,12 +1078,6 @@ translate spanish sm1cs_dc009_09639c52:
     # mc "No, I want an answer."
     mc "No, I want an answer."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:403
-translate spanish sm1cs_dc009_77fa01e2:
-
-    # "Douche Cop" "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
-    "Douche Cop" "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:404
 translate spanish sm1cs_dc009_aa7b157f:
 
@@ -1137,12 +1089,6 @@ translate spanish sm1cs_dc009_9fd03fd8:
 
     # mc "That's not an answer to my question, asshole."
     mc "That's not an answer to my question, asshole."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:410
-translate spanish sm1cs_dc009_6a2196bc:
-
-    # "Douche Cop" "What's you just call me?"
-    "Douche Cop" "What's you just call me?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:412
 translate spanish sm1cs_dc009_70d27f81:
@@ -1161,12 +1107,6 @@ translate spanish sm1cs_dc009_b2f1b15e:
 
     # jc "Hell, she can barely be trusted to hang out in a park!"
     jc "Hell, she can barely be trusted to hang out in a park!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:418
-translate spanish sm1cs_dc009_49aa375e:
-
-    # "Douche Cop" "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
-    "Douche Cop" "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:421
 translate spanish sm1cs_dc009_95a1d572:
@@ -1192,29 +1132,11 @@ translate spanish sm1cs_dc009_668c4c0f:
     # jc "Hey man, I don't give a shit what she's got in her skirt."
     jc "Hey man, I don't give a shit what she's got in her skirt."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:434
-translate spanish sm1cs_dc009_296cfcdc:
-
-    # "Douche Cop" "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
-    "Douche Cop" "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:435
-translate spanish sm1cs_dc009_be67778c:
-
-    # "Douche Cop" "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
-    "Douche Cop" "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:438
 translate spanish sm1cs_dc009_cc060ba8:
 
     # jc "Hahahahah!"
     jc "Hahahahah!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:439
-translate spanish sm1cs_dc009_04524442:
-
-    # "Douche Cop" "Ohhh, my tits, ohhhhh!"
-    "Douche Cop" "Ohhh, my tits, ohhhhh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:442
 translate spanish sm1cs_dc009_ffc76d97:
@@ -1227,12 +1149,6 @@ translate spanish sm1cs_dc009_45c091a6:
 
     # jc "Oh, you fucking think so?"
     jc "Oh, you fucking think so?"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:446
-translate spanish sm1cs_dc009_52b7a4a8:
-
-    # "Douche Cop" "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
-    "Douche Cop" "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:448
 translate spanish sm1cs_dc009_fca52711:
@@ -1354,12 +1270,6 @@ translate spanish sm1cs_dc009_30742037:
     # jc "Come on! We going to do this!? You stall much longer, and I'm going to wonder what those saggy tits would feel like around my dick!"
     jc "Come on! We going to do this!? You stall much longer, and I'm going to wonder what those saggy tits would feel like around my dick!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:490
-translate spanish sm1cs_dc009_29d3c2e2:
-
-    # "Douche Cop" "Hahahahahaha!"
-    "Douche Cop" "Hahahahahaha!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:493
 translate spanish sm1cs_dc009_7790aac6:
 
@@ -1450,23 +1360,11 @@ translate spanish sm1cs_dc009_8a7a2b9b:
     # dc "Three 9s."
     dc "Three 9s."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:559
-translate spanish sm1cs_dc009_24e3c700:
-
-    # "Douche Cop" "Bullshit! No way!"
-    "Douche Cop" "Bullshit! No way!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:560
 translate spanish sm1cs_dc009_9b443ffe:
 
     # dc "Don't believe me, come take a look for yourself!"
     dc "Don't believe me, come take a look for yourself!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:563
-translate spanish sm1cs_dc009_3c5e93de:
-
-    # "Douche Cop" "Shit... three 9s..."
-    "Douche Cop" "Shit... three 9s..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:564
 translate spanish sm1cs_dc009_58dbd9de:
@@ -1521,12 +1419,6 @@ translate spanish sm1cs_dc009_e646e34f:
 
     # mc "It just felt like an appropriate retort?{w} You know, tell them that you are-"
     mc "It just felt like an appropriate retort?{w} You know, tell them that you are-"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:583
-translate spanish sm1cs_dc009_804027ce:
-
-    # dc "I mean...{w}you want me as your girlfriend?"
-    dc "I mean...{w}you want me as your girlfriend?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:585
 translate spanish sm1cs_dc009_4eddbbb0:
@@ -1707,4 +1599,112 @@ translate spanish sm1cs_dc009_2341bb60:
 
     # mct "Hot dogs and watching Debbie show up some asshole cops.{w} Not bad at all."
     mct "Hot dogs and watching Debbie show up some asshole cops.{w} Not bad at all."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:173
+translate spanish sm1cs_dc009_78d5a7ce:
+
+    # mct "I can't help but think of a different wiener I'd love for her to be putting-"
+    mct "I can't help but think of a different wiener I'd love for her to be putting-"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:184
+translate spanish sm1cs_dc009_c2f0d634:
+
+    # mc "No, everything is great.{w} But, I do have a confession to make..."
+    mc "No, everything is great.{w} But, I do have a confession to make..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:228
+translate spanish sm1cs_dc009_6cf47e29:
+
+    # dc "And I'd like to do that with you, [mcname]!"
+    dc "And I'd like to do that with you, [mcname]!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:289
+translate spanish sm1cs_dc009_bb81e359:
+
+    # dc "That is the most important rule about any and every gun."
+    dc "That is the most important rule about any and every gun."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:334
+translate spanish sm1cs_dc009_6827ff1e:
+
+    # dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
+    dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:384
+translate spanish sm1cs_dc009_440ee9ae:
+
+    # doc "Well hi there, little miss police officer!"
+    doc "Well hi there, little miss police officer!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:393
+translate spanish sm1cs_dc009_101d86dd:
+
+    # doc "Oh, that's not a surprise!"
+    doc "Oh, that's not a surprise!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:403
+translate spanish sm1cs_dc009_e360942c:
+
+    # doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
+    doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:410
+translate spanish sm1cs_dc009_fd79c6d2:
+
+    # doc "What's you just call me?"
+    doc "What's you just call me?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:418
+translate spanish sm1cs_dc009_79c0c6bc:
+
+    # doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
+    doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:434
+translate spanish sm1cs_dc009_9fae04d3:
+
+    # doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
+    doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:435
+translate spanish sm1cs_dc009_3524c2c1:
+
+    # doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
+    doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:439
+translate spanish sm1cs_dc009_a03bd0eb:
+
+    # doc "Ohhh, my tits, ohhhhh!"
+    doc "Ohhh, my tits, ohhhhh!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:446
+translate spanish sm1cs_dc009_21183386:
+
+    # doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
+    doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:490
+translate spanish sm1cs_dc009_6f1555e8:
+
+    # doc "Hahahahahaha!"
+    doc "Hahahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:559
+translate spanish sm1cs_dc009_8359aaa6:
+
+    # doc "Bullshit! No way!"
+    doc "Bullshit! No way!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:563
+translate spanish sm1cs_dc009_337ab247:
+
+    # doc "Shit... three 9s..."
+    doc "Shit... three 9s..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:583
+translate spanish sm1cs_dc009_fad668c9:
+
+    # dc "I mean...{w} you want me as your girlfriend?"
+    dc "I mean...{w} you want me as your girlfriend?"
 

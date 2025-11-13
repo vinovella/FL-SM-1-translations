@@ -256,12 +256,6 @@ translate deutsch sm1cs_ns002_165e5ad5:
     # ns "Now they're wet. Maybe ruined. I don't know. But I can't leave this place. Which means eventually someone will find out and then I'll be fired for sure."
     ns "Jetzt ist sie nass. Vielleicht ruiniert. Ich weiß es nicht. Aber ich kann diesen Ort nicht verlassen. Das bedeutet, dass es irgendwann jemand herausfinden wird und ich dann mit Sicherheit gefeuert werde."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
-translate deutsch sm1cs_ns002_e9fc13f4:
-
-    # mc "Let's just take a beat. I'll get you through this. we've all... had urges in strange places."
-    mc "Lass uns einfach einen Moment innehalten. Ich werde dir dabei helfen. Wir alle... hatten schon mal das Bedürfnis, es an seltsamen Orten zu tun."
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:169
 translate deutsch sm1cs_ns002_25d12c61:
 
@@ -742,12 +736,6 @@ translate deutsch sm1cs_ns002_74fc6761:
     # mc "Me too."
     mc "Ich auch."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
-translate deutsch sm1cs_ns002_f7744ef8:
-
-    # mct "No one is close. I hope"
-    mct "Niemand ist in der Nähe. Hoff ich..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:429
 translate deutsch sm1cs_ns002_e95fe494:
 
@@ -819,4 +807,16 @@ translate deutsch strings:
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "I don't need to know"
     new "Ich muss das nicht wissen"
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
+translate deutsch sm1cs_ns002_bc4ba015:
+
+    # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
+translate deutsch sm1cs_ns002_94a1cd6a:
+
+    # mct "No one is close. I hope."
+    mct "No one is close. I hope."
 

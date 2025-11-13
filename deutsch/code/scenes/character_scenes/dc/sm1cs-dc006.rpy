@@ -184,12 +184,6 @@ translate deutsch sm1cs_dc006_11bee6f5:
     # dc "Yeah, surprisingly everyone is pretty tight lipped about it."
     dc "Ja, überraschenderweise schweigen sich alle ziemlich darüber aus."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
-translate deutsch sm1cs_dc006_180f30a4:
-
-    # dc "I would be lying if I didn't say I was a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "Ich würde lügen, wenn ich nicht sagen würde, dass ich ein wenig daran interessiert bin, was passiert ist. Wenn die Polizisten nicht darüber reden wollen... muss es etwas Pikantes sein."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:111
 translate deutsch sm1cs_dc006_2b4b0363:
 
@@ -261,12 +255,6 @@ translate deutsch sm1cs_dc006_73ff9d5e:
 
     # mc "Nope, can't say that I have. I'm actually pretty sure I've never had a mocha."
     mc "Nein, das kann ich nicht behaupten. Ich bin mir sogar ziemlich sicher, dass ich noch nie einen Mocha getrunken habe."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
-translate deutsch sm1cs_dc006_54e3a518:
-
-    # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, your's is a white chocolate mix, and..."
-    dc "Die sind ziemlich gut. Es ist Espresso und Milch und etwas Schokoladenmischung. Ich meine, deine ist eine weiße Schokoladenmischung, und..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:145
 translate deutsch sm1cs_dc006_514a3798:
@@ -951,4 +939,16 @@ translate deutsch sm1cs_dc006_at_park_fb7dfd2e:
 
     # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
     dc "Officer Callahan...{w} Ich weiß. Ich kam gerade hier an, als er flüchtete...{w} Ich weiß, Sir..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
+translate deutsch sm1cs_dc006_993ec2ac:
+
+    # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
+translate deutsch sm1cs_dc006_a541102c:
+
+    # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
+    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
 

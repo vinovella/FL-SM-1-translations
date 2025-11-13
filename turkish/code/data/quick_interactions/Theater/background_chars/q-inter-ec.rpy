@@ -10,12 +10,6 @@ translate turkish q_inter_ec_1_ff301b79:
     # ec "Oh hey, [mcname]. Sorry I can't stay in chat. Deniese needs her coffee or she'll..."
     ec "Ah merhaba, [mcname]. Sohbet edemem, Deniese kahvesini bekliyor yoksa..."
 
-# game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:22
-translate turkish q_inter_ec_1_c3201eb7:
-
-    # ec "Well she works a lot better with a good cofee."
-    ec "İyi bir kahveyle çok daha verimli çalışıyor."
-
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:23
 translate turkish q_inter_ec_1_b5e6fa12:
 
@@ -195,4 +189,10 @@ translate turkish q_inter_ec_7_bc229872:
 
     # ec "Exactly."
     ec "Aynen öyle."
+
+# game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:22
+translate turkish q_inter_ec_1_7a965d97:
+
+    # ec "Well she works a lot better with a good coffee."
+    ec "Well she works a lot better with a good coffee."
 

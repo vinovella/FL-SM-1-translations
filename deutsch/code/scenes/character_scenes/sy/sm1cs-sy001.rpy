@@ -682,12 +682,6 @@ translate deutsch sm1cs_sy001_watersports_58aae0b1:
     # mc "Anything for you, but I should probably get going."
     mc "Für dich tue ich alles, aber ich sollte mich wohl besser auf den Weg machen."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:424
-translate deutsch sm1cs_sy001_watersports_6f6ffe70:
-
-    # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for awhile."
-    sy "Ja, ja. Mach dir keine Sorgen um mich, ich werde einfach hier sitzen, den Nachklang des Orgasmus genießen und eine Weile über all die schmutzigen Dinge nachdenken."
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:426
 translate deutsch sm1cs_sy001_watersports_c395378f:
 
@@ -763,4 +757,10 @@ translate deutsch strings:
     # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:328
     old "Actually, I kind of have to pee"
     new "Eigentlich muss ich mal pinkeln"
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:426
+translate deutsch sm1cs_sy001_watersports_962bd759:
+
+    # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
+    sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
 

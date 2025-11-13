@@ -28,12 +28,6 @@ translate french sm1cs_ns001_6207b3f5:
     # mc "Hey Anna. Nari and I were looking for some food. Is there anything close around here?"
     mc "Hey Anna. Nari et moi cherchions à manger. Il y a quelque chose pas loin d’ici ?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:34
-translate french sm1cs_ns001_11a27173:
-
-    # ag "Of course. The office has it's own cafeteria."
-    ag "Bien sûr. Le bureau a sa propre cafétéria."
-
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:37
 translate french sm1cs_ns001_db427dd9:
 
@@ -292,12 +286,6 @@ translate french sm1cs_ns001_continue_495c4c5a:
     # ns "Oh. Thanks."
     ns "Oh. Merci."
 
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
-translate french sm1cs_ns001_continue_7f280683:
-
-    # mct "He shoots"
-    mct "Il tire"
-
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:203
 translate french sm1cs_ns001_continue_7140082a:
 
@@ -399,12 +387,6 @@ translate french sm1cs_ns001_continue_3910922c:
 
     # ns "I caught April looking over my shoulder earlier. I was so embarrassed. I thought I had done something wrong or said something wrong."
     ns "J’ai surpris April en train de regarder par-dessus mon épaule tout à l’heure. J’étais super gênée. J’ai cru que j’avais fait ou dit une bêtise."
-
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
-translate french sm1cs_ns001_continue_318826f2:
-
-    # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda.."
-    ns "Plus tard, j’ai compris qu’elle devait être impressionnée par mon travail, parce qu’elle m’a demandé si je voulais un soda…"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:252
 translate french sm1cs_ns001_continue_d5326a7a:
@@ -601,4 +583,22 @@ translate french strings:
     new "Rester humble"
 
 #Translate by BlackViper_
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:34
+translate french sm1cs_ns001_1c682e14:
+
+    # ag "Of course. The office has its own cafeteria."
+    ag "Of course. The office has its own cafeteria."
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
+translate french sm1cs_ns001_continue_e2b53835:
+
+    # mct "He shoots."
+    mct "He shoots."
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
+translate french sm1cs_ns001_continue_aa4b7c7c:
+
+    # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
+    ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
 

@@ -394,12 +394,6 @@ translate chinese sm1cs_dvh002_b36b06f8:
     # mc "Denise?"
     mc "丹尼斯？"
 
-# game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:248
-translate chinese sm1cs_dvh002_7eafaf42:
-
-    # dvh "It is not... too much of a surprise to me. I have had my suspicions for awhile."
-    dvh "这对我来说...不算太意外。我已经怀疑了一段时间了。"
-
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:251
 translate chinese sm1cs_dvh002_0e06785c:
 
@@ -693,4 +687,10 @@ translate chinese sm1cs_dvh002_41e938d6:
 
     # mct "Maybe a shower would do me some good."
     mct "也许洗个澡对我有好处。"
+
+# game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:248
+translate chinese sm1cs_dvh002_7c5150d5:
+
+    # dvh "It is not... too much of a surprise to me. I have had my suspicions for a while."
+    dvh "It is not... too much of a surprise to me. I have had my suspicions for a while."
 

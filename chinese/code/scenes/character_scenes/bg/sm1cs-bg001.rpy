@@ -40,12 +40,6 @@ translate chinese sm1cs_bg001_d86b865f:
     # mc "Yeah, and I don't want to call you 'Bondage Model' or some other ridiculous thing."
     mc "当然是真的，我总不能一直叫你'捆绑模特'这么奇怪的称呼吧。"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:46
-translate chinese sm1cs_bg001_4963a583:
-
-    # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w}Amore"
-    "BDSM模特" "说得...也是。那你可以叫我...{w}阿茉。"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:49
 translate chinese sm1cs_bg001_ca70cd59:
 
@@ -285,12 +279,6 @@ translate chinese sm1cs_bg001_5f819049:
 
     # bg "So I... Kind of took them home with me and perused at my leisure and... Well I was super into it. I loved the style, the vibe, the toys, being a submissive little good girl for a master one day, and..."
     bg "后来我...偷偷把杂志带回家慢慢翻看...结果彻底迷上了。我爱死了那种风格、氛围、道具，想象自己某天能成为主人乖巧的小女奴..."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
-translate chinese sm1cs_bg001_72bae85d:
-
-    # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payements."
-    bg "总之，经过一个不眠之夜，我跑去买了第一套装备。本来存的钱是准备...我也不知道，按主流社会的节奏，大概会用来付首付、还贷款或者学生债务什么的吧。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:168
 translate chinese sm1cs_bg001_54691f60:
@@ -1111,4 +1099,16 @@ translate chinese strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:482
     old "Not really my thing"
     new "不是我的菜"
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:46
+translate chinese sm1cs_bg001_01872126:
+
+    # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
+    "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
+translate chinese sm1cs_bg001_f21ffe59:
+
+    # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
+    bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
 

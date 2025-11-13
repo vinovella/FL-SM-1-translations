@@ -77,8 +77,8 @@ translate portuguese sm1cs_dc004_404eabfc:
     mct "O que eu posso fazer é tentar falar com ela depois..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:25
-translate portuguese sm1cs_dc004_768b2899:
+translate portuguese sm1cs_dc004_1172721c:
 
-    # mc "But I wanted to ask you something. The other day, at coffee, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-    mc "Mas queria te perguntar uma coisa. Outro dia na cafeteria, você meio que saiu apressada. Tem algo errado? Eu falei algo errado?"
+    # mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+    mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
 

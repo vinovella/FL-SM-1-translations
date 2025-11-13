@@ -502,12 +502,6 @@ translate deutsch sm1cs_ns014_studio_85bfecbf:
     # "CLICK"
     "KLICK"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:364
-translate deutsch sm1cs_ns014_studio_c431fec1:
-
-    # ns "No fair. You're too sneaky. Stacy.."
-    ns "Das ist nicht fair. Du bist zu hinterhältig. Stacy..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:367
 translate deutsch sm1cs_ns014_studio_bca09261:
 
@@ -1231,4 +1225,10 @@ translate deutsch sm1cs_ns014_studio_883c4173:
 
     # sy "I'm so excited! We're gonna have so much fun, Nari."
     sy "Ich bin so aufgeregt! Wir werden so viel Spaß haben, Nari."
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:347
+translate deutsch sm1cs_ns014_studio_34d49c4d:
+
+    # ns "No fair. You're too sneaky. Stacy..."
+    ns "No fair. You're too sneaky. Stacy..."
 

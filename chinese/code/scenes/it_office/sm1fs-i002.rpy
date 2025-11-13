@@ -358,12 +358,6 @@ translate chinese sm1fs_i002_eed760b1:
     # cw "Avoidant? Not the best strategy, but continue."
     cw "这是在回避问题呀？这可不是什么好策略，不过你接着说吧。"
 
-# game/code/scenes/it_office/sm1fs-i002.rpy:205
-translate chinese sm1fs_i002_604fd726:
-
-    # mc "After I had it for awhile I... Realized it could be made better."
-    mc "我用了一段时间后...意识到它可以做得更好。"
-
 # game/code/scenes/it_office/sm1fs-i002.rpy:206
 translate chinese sm1fs_i002_e4c7a84a:
 
@@ -643,4 +637,10 @@ translate chinese strings:
     # game/code/scenes/it_office/sm1fs-i002.rpy:165
     old "I'd rather not say"
     new "我不想说"
+
+# game/code/scenes/it_office/sm1fs-i002.rpy:205
+translate chinese sm1fs_i002_46800ea7:
+
+    # mc "After I had it for a while I... Realized it could be made better."
+    mc "After I had it for a while I... Realized it could be made better."
 

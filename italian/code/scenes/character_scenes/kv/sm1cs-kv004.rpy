@@ -394,12 +394,6 @@ translate italian sm1cs_kv004_41ac40ab:
     # mc "Not going to lie, it was a little awkward hearing someone talk about it with me in the room. She seemed to enjoy it, though."
     mc "Non ti mentirò, è stato un po' imbarazzante sentire qualcuno parlarne con me nella stanza. Sembrava che le piacesse, però."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
-translate italian sm1cs_kv004_96ff9235:
-
-    # kv "She did. I know it's been awhile since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "Infatti. So che è passato un po' da quando ha avuto dell'azione, quindi ho pensato che qualcosa per stimolare la sua immaginazione sarebbe stato apprezzato."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:241
 translate italian sm1cs_kv004_a0f8dcda:
 
@@ -682,12 +676,6 @@ translate italian sm1cs_kv004_sex_repeatable_b9e52793:
     # kv "We'll start off with an easy POV shot."
     kv "Inizieremo con una semplice inquadratura POV."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:409
-translate italian sm1cs_kv004_sex_repeatable_b32bc269:
-
-    # kv "But we have to get rid of these pesky things..."
-    kv "Ma dobbiamo sbarazzarci di queste cose fastidiose..."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:415
 translate italian sm1cs_kv004_sex_repeatable_924c1b38:
 
@@ -741,12 +729,6 @@ translate italian sm1cs_kv004_sex_repeatable_886511cd:
 
     # mc "You were right, this looks fucking {i}hot!{/i}"
     mc "Avevi ragione, sembra fottutamente {i}sexy!{/i}"
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
-translate italian sm1cs_kv004_sex_repeatable_ebeeae2e:
-
-    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, Goddamn."
-    mc "Caz- Kanya, sei stra-or-di-na-ria con la bocca, Dio santo."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:470
 translate italian sm1cs_kv004_sex_repeatable_334744a4:
@@ -1006,12 +988,6 @@ translate italian sm1cs_kv004_sex_repeatable_aef2c7e5:
     # kv "Gooooood, chooooke me! Fuuuuck, I'mstillcummmmmming!"
     kv "Beeeeene, soffooocami! Caaazzo, stoAncoraVeneeendo!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
-translate italian sm1cs_kv004_sex_repeatable_2aadad2a:
-
-    # mc "Mmmmnngnng, Kanya you're so tight! You're pussy is like a viccce!"
-    mc "Mmmmnngnng, Kanya sei così stretta! La tua figa è come una morssssa!"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:600
 translate italian sm1cs_kv004_sex_repeatable_c5bef044:
 
@@ -1203,4 +1179,28 @@ translate italian strings:
     # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:348
     old "Maybe some other time"
     new "Forse un'altra volta"
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
+translate italian sm1cs_kv004_9b3488c6:
+
+    # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
+translate italian sm1cs_kv004_sex_repeatable_b52d6afd:
+
+    # kv "Let's get rid of these pesky things..."
+    kv "Let's get rid of these pesky things..."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
+translate italian sm1cs_kv004_sex_repeatable_0bda85cc:
+
+    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
+translate italian sm1cs_kv004_sex_repeatable_925a1079:
+
+    # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
 

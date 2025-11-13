@@ -244,12 +244,6 @@ translate italian sm1cs_kv003_95f48c18:
     # mc "I've never been good at guessing."
     mc "Non sono mai stato bravo a indovinare."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:159
-translate italian sm1cs_kv003_56de6b93:
-
-    # kv "I've been wondering how you're going to convince some of these actresses to star in your porn.."
-    kv "Mi stavo chiedendo come convincerai alcune di queste attrici a recitare nel tuo porno.."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:162
 translate italian sm1cs_kv003_8dbc347b:
 
@@ -748,12 +742,6 @@ translate italian sm1cs_kv003_ffc9a3b0:
     # kv "Ohhh, fuuuuck, pulling my hair- Really turns me on!"
     kv "Ohhh, cazzoooo, tirarmi i capelli- Mi eccita davvero!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:462
-translate italian sm1cs_kv003_b49e4c44:
-
-    # kv "I-I-I- Think I'm going to cum!"
-    kv "Pe-pe-penso che sto per venire!"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:466
 translate italian sm1cs_kv003_0360e0e9:
 
@@ -993,4 +981,16 @@ translate italian sm1cs_kv003_9c5419cb:
 
     # mc "Ugggggh, fine."
     mc "Ugggggh, va bene."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:159
+translate italian sm1cs_kv003_222c534c:
+
+    # kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
+    kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:462
+translate italian sm1cs_kv003_9ac58097:
+
+    # kv "I-I-I- think I'm going to cum!"
+    kv "I-I-I- think I'm going to cum!"
 

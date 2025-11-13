@@ -76,10 +76,10 @@ translate french sm1cs_dc004_404eabfc:
     # mct "I guess all I can do is try and talk to her later..."
     mct "Je suppose que tout ce que je peux faire, c’est essayer de lui reparler plus tard..."
 
-#Translate by BlackViper_
-# game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:25
-translate french sm1cs_dc004_768b2899:
 
-    # mc "But I wanted to ask you something. The other day, at coffee, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-    mc "But I wanted to ask you something. The other day, at coffee, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+# game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:25
+translate french sm1cs_dc004_1172721c:
+
+    # mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+    mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
 

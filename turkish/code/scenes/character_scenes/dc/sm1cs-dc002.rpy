@@ -298,12 +298,6 @@ translate turkish sm1cs_dc002_c4175c50:
     # mct "Shit - I think I need to hit a gym."
     mct "Kahretsin - sanırım spor salonuna gitmem gerek."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:230
-translate turkish sm1cs_dc002_9cacfeba:
-
-    # mct "I'm failing Rule Number One right now; cardio! God, Maybe we should get a treadmill for the studio..."
-    mct "Şu anda Birinci Kuralı başaramıyorum; kardiyo! Tanrım, belki stüdyoya bir koşu bandı almalıyız..."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:234
 translate turkish sm1cs_dc002_32c564d9:
 
@@ -525,4 +519,10 @@ translate turkish strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:177
     old "Check out the nude jogger"
     new "Çıplak koşucuyu kontrol edin"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:230
+translate turkish sm1cs_dc002_9cef6b0f:
+
+    # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
 

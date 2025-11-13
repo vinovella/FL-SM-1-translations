@@ -184,12 +184,6 @@ translate french sm1cs_dc006_11bee6f5:
     # dc "Yeah, surprisingly everyone is pretty tight lipped about it."
     dc "Ouais, étonnamment tout le monde est resté très discret là-dessus."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
-translate french sm1cs_dc006_180f30a4:
-
-    # dc "I would be lying if I didn't say I was a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "Je mentirais si je disais que ça ne m’intéresse pas un peu. Si même les flics n’en parlent pas... ça doit être croustillant."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:111
 translate french sm1cs_dc006_2b4b0363:
 
@@ -261,12 +255,6 @@ translate french sm1cs_dc006_73ff9d5e:
 
     # mc "Nope, can't say that I have. I'm actually pretty sure I've never had a mocha."
     mc "Non, jamais. En fait je suis presque sûr de n’avoir jamais bu de moka."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
-translate french sm1cs_dc006_54e3a518:
-
-    # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, your's is a white chocolate mix, and..."
-    dc "C’est plutôt bon. C’est de l’espresso, du lait et un mélange chocolaté. Le tien est au chocolat blanc, et..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:145
 translate french sm1cs_dc006_514a3798:
@@ -953,4 +941,16 @@ translate french sm1cs_dc006_at_park_fb7dfd2e:
 
     # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
     dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
+translate french sm1cs_dc006_993ec2ac:
+
+    # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
+translate french sm1cs_dc006_a541102c:
+
+    # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
+    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
 

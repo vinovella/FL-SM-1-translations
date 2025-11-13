@@ -268,12 +268,6 @@ translate portuguese sm1cs_dc010_later_9e454f39:
     # dc "Like, when he showed up in the car, the handgun sticking out of the window!"
     dc "Tipo, quando ele apareceu no carro, com a pistola pra fora da janela!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:119
-translate portuguese sm1cs_dc010_later_40b4ce97:
-
-    # dc "And then he reloaded it by smashing it on the motorcyclists head! So bad ass!"
-    dc "Aí ele carregou a arma batendo na cabeça do cara da moto! Que foda!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:124
 translate portuguese sm1cs_dc010_later_eb07f581:
 
@@ -406,23 +400,11 @@ translate portuguese sm1cs_dc010_later_d46816dd:
     # mct "Like... really good. Maybe, and just maybe..."
     mct "Tipo... legal de verdade. Talvez, talvez mesmo..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:173
-translate portuguese sm1cs_dc010_later_438b6718:
-
-    # "Jerk Cop" "Well, what do we have here!"
-    "Policial Babaca" "Ora, ora, o que temos aqui!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:174
 translate portuguese sm1cs_dc010_later_dbc9c5b2:
 
     # mct "Oh shit."
     mct "Merda."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:177
-translate portuguese sm1cs_dc010_later_9ea8e216:
-
-    # "Douche Cop" "Oh, loitering? Maybe something a bit more nefarious?"
-    "Policial Babaca" "Ah, vadiando, é? Ou talvez algo pior?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:179
 translate portuguese sm1cs_dc010_later_8ce18fb0:
@@ -430,83 +412,17 @@ translate portuguese sm1cs_dc010_later_8ce18fb0:
     # mc "Evening, officers."
     mc "Boa noite, policiais."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:181
-translate portuguese sm1cs_dc010_later_8104544b:
-
-    # "Jerk Cop" "\"Evening, officers\", pfft."
-    "Policial Babaca" "\"Boa noite, policiais\", olha ele."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:184
 translate portuguese sm1cs_dc010_later_063d1ad9:
 
     # mc "Is there something I can help you with?"
     mc "Posso ajudar com alguma coisa?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:185
-translate portuguese sm1cs_dc010_later_d3f4a473:
-
-    # "Douche Cop" "Hmmm... let's see."
-    "Policial Babaca" "Hmmm... vejamos."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:188
 translate portuguese sm1cs_dc010_later_fca924d7:
 
     # mc "Uuuuffff!"
     mc "Aaah!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:191
-translate portuguese sm1cs_dc010_later_2e90b41a:
-
-    # "Douche Cop" "Oh, that's right!"
-    "Policial Babaca" "Ah, verdade!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:194
-translate portuguese sm1cs_dc010_later_316b0cab:
-
-    # "Douche Cop" "That's for using that bitch to embarrass us the other day!"
-    "Policial Babaca" "Isso é por usar aquela cadela pra fazer a gente passar vergonha!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:196
-translate portuguese sm1cs_dc010_later_2caf8a9a:
-
-    # "Jerk Cop" "Woah, man."
-    "Policial Cuzão" "Eita, cara."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:199
-translate portuguese sm1cs_dc010_later_6e870534:
-
-    # "Douche Cop" "What?"
-    "Policial Babaca" "Que foi?"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:200
-translate portuguese sm1cs_dc010_later_840706a6:
-
-    # "Jerk Cop" "She's not entirely a bitch. Because, you now."
-    "Policial Cuzão" "Ela não é exatamente uma cadela. Sabe, por causa daquilo."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:203
-translate portuguese sm1cs_dc010_later_083d0320:
-
-    # "Douche Cop" "Oh yeah."
-    "Policial Babaca" "Ah, verdade."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:206
-translate portuguese sm1cs_dc010_later_6499727b:
-
-    # "Douche Cop" "Because she has a dick!"
-    "Policial Babaca" "Porque ela tem uma piroca!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:209
-translate portuguese sm1cs_dc010_later_c5b09bec:
-
-    # "Jerk Cop" "Yeah! So, whatever she is! Fuck her!"
-    "Policial Cuzão" "É? Então seja lá o que ela for! Que se foda!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:210
-translate portuguese sm1cs_dc010_later_8a6e6e14:
-
-    # "Douche Cop" "Hahahahaha!"
-    "Policial Babaca" "Hahahahaha!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:212
 translate portuguese sm1cs_dc010_later_1987dde6:
@@ -520,23 +436,11 @@ translate portuguese sm1cs_dc010_later_f289aa21:
     # dc "The {i}fuck{/i} are you two doing?"
     dc "Que {i}porra{/i} que vocês estão fazendo?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:217
-translate portuguese sm1cs_dc010_later_beeaf278:
-
-    # "Jerk Cop" "Oh, look who it is. You're little bitch, come to save her little bitch!"
-    "Policial Cuzão" "Mas olha só quem é. A sua cadelinha vindo salvar a cadela dela!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:219
 translate portuguese sm1cs_dc010_later_fd5252a2:
 
     # mc "Oh, that was a good one. Wooooow."
     mc "Nossa, mandou ver nessa hein. Uuuui."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:221
-translate portuguese sm1cs_dc010_later_50eb0f04:
-
-    # "Jerk Cop" "Shut up!"
-    "Policial Cuzão" "Cala a boca!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:223
 translate portuguese sm1cs_dc010_later_bfadea7f:
@@ -556,23 +460,11 @@ translate portuguese sm1cs_dc010_later_72baf430:
     # dc "If you don't, you'll regret it."
     dc "Se não se mandarem, vão se arrepender."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:229
-translate portuguese sm1cs_dc010_later_66c3cae5:
-
-    # "Jerk Cop" "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
-    "Policial Cuzão" "Ai não, e vai fazer o quê, {i}garotinha{/i}?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:231
 translate portuguese sm1cs_dc010_later_63386751:
 
     # dc "One."
     dc "Um."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:233
-translate portuguese sm1cs_dc010_later_e1be8345:
-
-    # "Douche Cop" "Oh the little girl, or {i}little boy{/i} is soooo scary!"
-    "Policial Babaca" "Poxa, que medo da garotinha, ou melhor {i}garotinho{/i}!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:234
 translate portuguese sm1cs_dc010_later_302b49ba:
@@ -580,29 +472,11 @@ translate portuguese sm1cs_dc010_later_302b49ba:
     # dc "Two."
     dc "Dois."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:237
-translate portuguese sm1cs_dc010_later_531d8025:
-
-    # "Jerk Cop" "Oh, my balls are shaking! Hahahahaha!"
-    "Policial Cuzão" "As minhas bolas estão tremendo de medo! Hahahahaha!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:238
-translate portuguese sm1cs_dc010_later_8a6e6e14_1:
-
-    # "Douche Cop" "Hahahahaha!"
-    "Policial Babaca" "Hahahahaha!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:240
 translate portuguese sm1cs_dc010_later_ac0a60ad:
 
     # dc "Three."
     dc "Três."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:241
-translate portuguese sm1cs_dc010_later_39d40fad:
-
-    # "Jerk Cop" "Oh, fuck you!"
-    "Policial Cuzão" "Ah, vai cagar!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:244
 translate portuguese sm1cs_dc010_later_b78076c2:
@@ -616,23 +490,11 @@ translate portuguese sm1cs_dc010_later_ba02e302:
     # "Ka-Chow!"
     "Bam!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:249
-translate portuguese sm1cs_dc010_later_26db978d:
-
-    # "Douche Cop" "What the fuck!?"
-    "Policial Babaca" "Mas que porra?!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:252
 translate portuguese sm1cs_dc010_later_198353ff:
 
     # dc "*grunts*"
     dc "*grunhido*"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:255
-translate portuguese sm1cs_dc010_later_e247bcbf:
-
-    # "Douche Cop" "Shit!"
-    "Policial Babaca" "Merda!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:258
 translate portuguese sm1cs_dc010_later_73a0be28:
@@ -646,29 +508,11 @@ translate portuguese sm1cs_dc010_later_cee1e977:
     # "Both cops" "*groaning*"
     "Ambos Policiais" "*grunhindo*"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:265
-translate portuguese sm1cs_dc010_later_d3d34643:
-
-    # "Douche Cop" "My ass."
-    "Policial babaca" "Minha bunda."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:266
 translate portuguese sm1cs_dc010_later_4258e46e:
 
     # dc "You two. {i}Leave.{/i} Before I put you in the hospital."
     dc "Vocês. {i}Vão embora{/i}. Antes que eu mande vocês dois pro hospital."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:268
-translate portuguese sm1cs_dc010_later_6106c91d:
-
-    # "Jerk Cop" "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
-    "Policial Cuzão" "Ah é, cadela? E o que você vai falar pro capitão sobre ter atacado a gente?"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:269
-translate portuguese sm1cs_dc010_later_0e2b8682:
-
-    # "Douche Cop" "Yeah. Get your ass kicked off the force."
-    "Policial Babaca" "É. Vai ser é expulsa da polícia."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:271
 translate portuguese sm1cs_dc010_later_a9afe6d2:
@@ -700,35 +544,11 @@ translate portuguese sm1cs_dc010_later_a0b3a7d5:
     # mc "I wonder what he would have to say about that?"
     mc "O que será que ele vai falar sobre isso, hein?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:280
-translate portuguese sm1cs_dc010_later_524cfcc1:
-
-    # "Jerk Cop" "Errrgghhhh..."
-    "Policial Cuzão" "Aaaahm..."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:281
-translate portuguese sm1cs_dc010_later_32d72043:
-
-    # "Douche Cop" "Mother fucker..."
-    "Policial Babaca" "Filho da puta..."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:282
-translate portuguese sm1cs_dc010_later_554ce0ea:
-
-    # "Jerk Cop" "Come on."
-    "Policial Cuzão" "Bora."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:285
 translate portuguese sm1cs_dc010_later_a4ecbe4a:
 
     # mc "And if you two don't lay off of Debbie, I'm going to send this anonymously to your Captain!"
     mc "E se vocês não pararem de importunar a Debbie, eu vou mandar anonimamente pro seu Capitão!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:286
-translate portuguese sm1cs_dc010_later_87a3e1c6:
-
-    # "Jerk Cop" "Fuck you."
-    "Policial Cuzão" "Vai se foder."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:290
 translate portuguese sm1cs_dc010_later_540b14dd:
@@ -1138,12 +958,6 @@ translate portuguese sm1cs_dc010_later_ecfacd53:
     # dc "No... I just..."
     dc "Não... é que..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
-translate portuguese sm1cs_dc010_later_8a1da730:
-
-    # dc "I have been looking forward to this for awhile.{w} I'm very excited."
-    dc "Faz um tempo que eu estava esperando por isso.{w} Estou super empolgada."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:451
 translate portuguese sm1cs_dc010_later_74fc6761:
 
@@ -1227,12 +1041,6 @@ translate portuguese sm1cs_dc010_later_1ee704af:
 
     # mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
     mc "Nossa, isso aí - nngghhhh - sei lá o que você tá fazendo com a língua-"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
-translate portuguese sm1cs_dc010_later_c7ffa945:
-
-    # dc "Sllrrrpppppp! Sleep, sllrrpp, sllrrrppp!"
-    dc "Sllrrrpppppp! Sllrrp, sllrrpp, sllrrrppp!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:474
 translate portuguese sm1cs_dc010_later_eec3224d:
@@ -1732,12 +1540,6 @@ translate portuguese sm1cs_dc010_dc_hj_03e1ac0f:
     # dc "Woah-!"
     dc "Aaah-!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:658
-translate portuguese sm1cs_dc010_dc_hj_6f12677e:
-
-    # mc "Great enough that it deserves it's own pleasure."
-    mc "Lindo o bastante pra merecer o próprio prazer."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:659
 translate portuguese sm1cs_dc010_dc_hj_4daf6261:
 
@@ -1966,12 +1768,6 @@ translate portuguese sm1cs_dc010_dc_hj_716ddd04:
     # mc "Better than your fantasy?"
     mc "Melhor que a sua fantasia?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:723
-translate portuguese sm1cs_dc010_dc_hj_22c6dce8:
-
-    # dc "Inifinitely better than my fantasy."
-    dc "Infinitamente melhor que a fantasia."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:726
 translate portuguese sm1cs_dc010_dc_hj_c3726f3d:
 
@@ -2127,12 +1923,6 @@ translate portuguese sm1cs_dc010_end_a782953a:
 
     # mc "Oh? Something to be worried about?"
     mc "Ah foi? Algo pra se preocupar?"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:793
-translate portuguese sm1cs_dc010_end_185ddc39:
-
-    # dc "No, not really Just some paperwork to do."
-    dc "Não, nada disso. É que ele me deu uma papelada pra fazer."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:794
 translate portuguese sm1cs_dc010_end_e964bd3a:
@@ -2455,4 +2245,214 @@ translate portuguese sm1cs_dc010_dc_hj_10a9c12a:
 
     # dc "I think of you cumming all over me as I stroke myself, and I- I-"
     dc "Eu penso em você gozando em mim enquanto me masturbo, e eu- eu-"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:119
+translate portuguese sm1cs_dc010_later_cc13123a:
+
+    # dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+    dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:173
+translate portuguese sm1cs_dc010_later_32c7d96e:
+
+    # jc "Well, what do we have here!"
+    jc "Well, what do we have here!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:177
+translate portuguese sm1cs_dc010_later_0a088038:
+
+    # doc "Oh, loitering? Maybe something a bit more nefarious?"
+    doc "Oh, loitering? Maybe something a bit more nefarious?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:181
+translate portuguese sm1cs_dc010_later_118db1de:
+
+    # jc "\"Evening, officers\", pfft."
+    jc "\"Evening, officers\", pfft."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:185
+translate portuguese sm1cs_dc010_later_313100aa:
+
+    # doc "Hmmm... let's see."
+    doc "Hmmm... let's see."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:191
+translate portuguese sm1cs_dc010_later_ee640895:
+
+    # doc "Oh, that's right!"
+    doc "Oh, that's right!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:194
+translate portuguese sm1cs_dc010_later_4e44cfdf:
+
+    # doc "That's for using that bitch to embarrass us the other day!"
+    doc "That's for using that bitch to embarrass us the other day!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:196
+translate portuguese sm1cs_dc010_later_7abc9f97:
+
+    # jc "Woah, man."
+    jc "Woah, man."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:199
+translate portuguese sm1cs_dc010_later_8faeff8a:
+
+    # doc "What?"
+    doc "What?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:200
+translate portuguese sm1cs_dc010_later_655b6865:
+
+    # jc "She's not entirely a bitch. Because, you now."
+    jc "She's not entirely a bitch. Because, you now."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:203
+translate portuguese sm1cs_dc010_later_c52dc3fb:
+
+    # doc "Oh yeah."
+    doc "Oh yeah."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:206
+translate portuguese sm1cs_dc010_later_ed8594e7:
+
+    # doc "Because she has a dick!"
+    doc "Because she has a dick!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:209
+translate portuguese sm1cs_dc010_later_937b5553:
+
+    # jc "Yeah! So, whatever she is! Fuck her!"
+    jc "Yeah! So, whatever she is! Fuck her!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:210
+translate portuguese sm1cs_dc010_later_731e535c:
+
+    # doc "Hahahahaha!"
+    doc "Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:217
+translate portuguese sm1cs_dc010_later_b23ba0d2:
+
+    # jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
+    jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:221
+translate portuguese sm1cs_dc010_later_abb132ec:
+
+    # jc "Shut up!"
+    jc "Shut up!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:229
+translate portuguese sm1cs_dc010_later_63318cc3:
+
+    # jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+    jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:233
+translate portuguese sm1cs_dc010_later_decb3a7c:
+
+    # doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+    doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:237
+translate portuguese sm1cs_dc010_later_738b9475:
+
+    # jc "Oh, my balls are shaking! Hahahahaha!"
+    jc "Oh, my balls are shaking! Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:238
+translate portuguese sm1cs_dc010_later_731e535c_1:
+
+    # doc "Hahahahaha!"
+    doc "Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:241
+translate portuguese sm1cs_dc010_later_1e1f5708:
+
+    # jc "Oh, fuck you!"
+    jc "Oh, fuck you!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:249
+translate portuguese sm1cs_dc010_later_f90d492d:
+
+    # doc "What the fuck!?"
+    doc "What the fuck!?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:255
+translate portuguese sm1cs_dc010_later_c8344b37:
+
+    # doc "Shit!"
+    doc "Shit!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:265
+translate portuguese sm1cs_dc010_later_082113f0:
+
+    # doc "My ass."
+    doc "My ass."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:268
+translate portuguese sm1cs_dc010_later_9d4feabf:
+
+    # jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+    jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:269
+translate portuguese sm1cs_dc010_later_062962a0:
+
+    # doc "Yeah. Get your ass kicked off the force."
+    doc "Yeah. Get your ass kicked off the force."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:280
+translate portuguese sm1cs_dc010_later_983f1fb6:
+
+    # jc "Errrgghhhh..."
+    jc "Errrgghhhh..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:281
+translate portuguese sm1cs_dc010_later_e1a3ea1a:
+
+    # doc "Mother fucker..."
+    doc "Mother fucker..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:282
+translate portuguese sm1cs_dc010_later_4ed7441e:
+
+    # jc "Come on."
+    jc "Come on."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:286
+translate portuguese sm1cs_dc010_later_57c7effd:
+
+    # jc "Fuck you."
+    jc "Fuck you."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
+translate portuguese sm1cs_dc010_later_9de368a5:
+
+    # dc "I have been looking forward to this for a while.{w} I'm very excited."
+    dc "I have been looking forward to this for a while.{w} I'm very excited."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
+translate portuguese sm1cs_dc010_later_0f8ee3ae:
+
+    # dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+    dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:658
+translate portuguese sm1cs_dc010_dc_hj_0d04a1d3:
+
+    # mc "Great enough that it deserves its own pleasure."
+    mc "Great enough that it deserves its own pleasure."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:723
+translate portuguese sm1cs_dc010_dc_hj_1a7b15ce:
+
+    # dc "Infinitely better than my fantasy."
+    dc "Infinitely better than my fantasy."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:793
+translate portuguese sm1cs_dc010_end_0f3a75eb:
+
+    # dc "No, not really. Just some paperwork to do."
+    dc "No, not really. Just some paperwork to do."
 

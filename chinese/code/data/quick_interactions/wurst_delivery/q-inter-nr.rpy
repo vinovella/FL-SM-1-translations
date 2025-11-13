@@ -28,12 +28,6 @@ translate chinese q_inter_nr_4_05500ff6:
     # mc "Huh?"
     mc "嗯？"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:52
-translate chinese q_inter_nr_4_c2138e10:
-
-    # nr "Pull my weiner. Heh heh."
-    nr "拉我的香肠。嘿嘿。"
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:58
 translate chinese q_inter_nr_5_1abd558a:
 
@@ -87,12 +81,6 @@ translate chinese q_inter_nr_9_df313f64:
 
     # nr "Don't you have deliveries to make?"
     nr "你不是有要送的货吗？"
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:93
-translate chinese q_inter_nr_10_fff0cb2c:
-
-    # nr "Let it rip, kid! Get out there and show those weiners who's boss."
-    nr "放手去干，孩子！出去告诉那些香肠谁是老大。"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:99
 translate chinese q_inter_nr_11_6db6dd58:
@@ -195,4 +183,16 @@ translate chinese q_inter_nr_18_636f1bcd:
 
     # nr "Don't ask how it's made. Just eat it."
     nr "别问它是怎么做的。就吃吧。"
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:52
+translate chinese q_inter_nr_4_9ff4a03c:
+
+    # nr "Pull my wiener. Heh heh."
+    nr "Pull my wiener. Heh heh."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:93
+translate chinese q_inter_nr_10_6f8406ed:
+
+    # nr "Let it rip, kid! Get out there and show those wieners who's boss."
+    nr "Let it rip, kid! Get out there and show those wieners who's boss."
 

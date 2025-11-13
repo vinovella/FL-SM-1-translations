@@ -40,12 +40,6 @@ translate italian q_inter_ms_4_44cbffbc:
     # ms "If the brats weren't so damn tasty, I probably would have quit already."
     ms "If the brats weren't so damn tasty, I probably would have quit already."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:86
-translate italian q_inter_ms_5_d8ebf05b:
-
-    # ms "Never thought I'd be buried in debt and putting weiners in bags."
-    ms "Never thought I'd be buried in debt and putting weiners in bags."
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:87
 translate italian q_inter_ms_5_8f32ceb1:
 
@@ -267,12 +261,6 @@ translate italian q_inter_ms_19_11455b53:
 
     # mc "What?"
     mc "What?"
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
-translate italian q_inter_ms_19_ded3b362:
-
-    # ms "Seeing you just reminds me that soon I have to be back at work handling weiners."
-    ms "Seeing you just reminds me that soon I have to be back at work handling weiners."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:216
 translate italian q_inter_ms_19_4fa138e3:
@@ -849,4 +837,16 @@ translate italian q_inter_ms_45_678c5fed:
 
     # ms "Maybe I'm on my first step to becoming one."
     ms "Maybe I'm on my first step to becoming one."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:86
+translate italian q_inter_ms_5_8a5a6bb5:
+
+    # ms "Never thought I'd be buried in debt and putting wieners in bags."
+    ms "Never thought I'd be buried in debt and putting wieners in bags."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
+translate italian q_inter_ms_19_6c302b48:
+
+    # ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
+    ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
 

@@ -322,12 +322,6 @@ translate deutsch sm1cs_dc_renovation_07ab98c5:
     # dc "Ha, ha. Very funny, [mcname]."
     dc "Ha, ha. Sehr witzig, [mcname]."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:220
-translate deutsch sm1cs_dc_renovation_e7efd5e7:
-
-    # mc "Oh shit! I haven't offered you water or anything! You must have world up a thirst."
-    mc "Oh Mist! Ich habe dir noch kein Wasser oder etwas anderes angeboten! Du musst ja furchtbar durstig sein."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:223
 translate deutsch sm1cs_dc_renovation_892af79d:
 
@@ -514,12 +508,6 @@ translate deutsch sm1cs_dc_renovation_61d1129a:
     # mc "Oh, I don't know about all that."
     mc "Oh, davon weiß ich nichts."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
-translate deutsch sm1cs_dc_renovation_65011277:
-
-    # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem to!"
-    mc "Wir sind jetzt schon ein paar Stunden hier, und du hast so viel geschafft {i}und{/i} mein Problem gelöst!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:326
 translate deutsch sm1cs_dc_renovation_28c85fe5:
 
@@ -609,4 +597,16 @@ translate deutsch sm1cs_dc_renovation_e5818002:
 
     # dc "And you, yours, [mcname]!"
     dc "Und du, dein, [mcname]!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:220
+translate deutsch sm1cs_dc_renovation_1b6ec0ce:
+
+    # mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+    mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
+translate deutsch sm1cs_dc_renovation_6d9f72cb:
+
+    # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
+    mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
 

@@ -172,12 +172,6 @@ translate chinese sm1cs_ns011_3fe289ec:
     # ns "Yes. That was used in a lot of hentai, but you hardly hear it nowadays."
     ns "是啊。很多本子里都有，不过现在很少听到了。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:112
-translate chinese sm1cs_ns011_d4ff4cf1:
-
-    # ns "Suguar Daddies love to play with their Good Girls..."
-    ns "金主喜欢和他们的乖女孩玩..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:115
 translate chinese sm1cs_ns011_98a3624c:
 
@@ -1151,4 +1145,10 @@ translate chinese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:373
     old "Are you sure that doesn't bother you?"
     new "你确定这不会让你困扰吗？"
+
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:112
+translate chinese sm1cs_ns011_a266d0ee:
+
+    # ns "Sugar Daddies love to play with their Good Girls..."
+    ns "Sugar Daddies love to play with their Good Girls..."
 

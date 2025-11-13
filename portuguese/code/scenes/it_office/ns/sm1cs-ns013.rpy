@@ -832,12 +832,6 @@ translate portuguese ns013_labels_section_5b8f47d4:
     # ns "That is not who I am."
     ns "Não sou assim."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:533
-translate portuguese ns013_labels_section_6dbe4ceb:
-
-    # ns "I am a very bad [nspetlabel]"
-    ns "Eu sou uma [nspetlabel] muito levada."
-
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:535
 translate portuguese ns013_labels_section_6790f1fe:
 
@@ -939,12 +933,6 @@ translate portuguese ns013_labels_section_e5e55bb8:
 
     # mc "Are you feeling better now?"
     mc "Tá melhor agora?"
-
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:571
-translate portuguese ns013_labels_section_55e64ca2:
-
-    # ns "A little. I'm actually stilll-"
-    ns "Um pouco. Ainda estou-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:572
 translate portuguese ns013_labels_section_d6d86041:
@@ -1096,12 +1084,6 @@ translate portuguese ns013_labels_section_2360aad8:
     # mc "Take all the time you need, Nari."
     mc "Não precisa ter pressa, Nari."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:629
-translate portuguese ns013_labels_section_fb047390:
-
-    # ns "You're alawys so kind to me, [nsmcpetlabel]."
-    ns "Você é sempre tão gentil comigo, [nsmcpetlabel]."
-
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:631
 translate portuguese ns013_labels_section_69aaf1f6:
 
@@ -1150,12 +1132,6 @@ translate portuguese ns013_labels_section_bfd12f43:
     # ns "But now... with hua-huaah... you inside of me... everything feels like it should."
     ns "Mas agora... que aaaih... você está dentro... tudo está como deveria."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:653
-translate portuguese ns013_labels_section_ad86d919:
-
-    # mc "I love how your pussy around me. I have such a good [nspetlabel]."
-    mc "Adoro como a sua boceta me aperta. Que [nspetlabel] boa."
-
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:654
 translate portuguese ns013_labels_section_d892676b:
 
@@ -1191,12 +1167,6 @@ translate portuguese ns013_labels_section_a719a848:
 
     # ns "This pose... It's nice."
     ns "Essa posição... é legal."
-
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:664
-translate portuguese ns013_labels_section_ec7c7785:
-
-    # ns "I can go... Mrrmmm... at just the right speed,"
-    ns "Eu consigo... Mrrmmm... ir na velocidade certa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:665
 translate portuguese ns013_labels_section_0e3f93c7:
@@ -2433,4 +2403,34 @@ translate portuguese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1062
     old "About thirty minutes later"
     new "Uns trinta minutos depois"
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:531
+translate portuguese ns013_labels_section_0887f6cc:
+
+    # ns "I am a very bad [nspetlabel]."
+    ns "I am a very bad [nspetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:569
+translate portuguese ns013_labels_section_3688c4d9:
+
+    # ns "A little. I'm actually still-"
+    ns "A little. I'm actually still-"
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:627
+translate portuguese ns013_labels_section_713f1049:
+
+    # ns "You're always so kind to me, [nsmcpetlabel]."
+    ns "You're always so kind to me, [nsmcpetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:651
+translate portuguese ns013_labels_section_791ab451:
+
+    # mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+    mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:662
+translate portuguese ns013_labels_section_ab353c83:
+
+    # ns "I can go... Mrrmmm... at just the right speed."
+    ns "I can go... Mrrmmm... at just the right speed."
 

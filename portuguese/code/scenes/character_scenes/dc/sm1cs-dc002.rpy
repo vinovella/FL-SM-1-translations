@@ -298,12 +298,6 @@ translate portuguese sm1cs_dc002_c4175c50:
     # mct "Shit - I think I need to hit a gym."
     mct "Merda - acho que preciso de uma academia."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:230
-translate portuguese sm1cs_dc002_9cacfeba:
-
-    # mct "I'm failing Rule Number One right now; cardio! God, Maybe we should get a treadmill for the studio..."
-    mct "Tô falhando na Regra Número Um: cardio! Poxa, talvez seja melhor comprar uma esteira pro estúdio..."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:234
 translate portuguese sm1cs_dc002_32c564d9:
 
@@ -525,4 +519,10 @@ translate portuguese strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:177
     old "Check out the nude jogger"
     new "Olhar para a moça pelada"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:230
+translate portuguese sm1cs_dc002_9cef6b0f:
+
+    # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
 

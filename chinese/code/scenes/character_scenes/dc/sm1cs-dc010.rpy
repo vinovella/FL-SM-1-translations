@@ -268,12 +268,6 @@ translate chinese sm1cs_dc010_later_9e454f39:
     # dc "Like, when he showed up in the car, the handgun sticking out of the window!"
     dc "比如，当他开着车出现，手枪伸出窗外的时候！"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:119
-translate chinese sm1cs_dc010_later_40b4ce97:
-
-    # dc "And then he reloaded it by smashing it on the motorcyclists head! So bad ass!"
-    dc "然后他把枪砸在摩托车手的头上来装弹！太酷了！"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:124
 translate chinese sm1cs_dc010_later_eb07f581:
 
@@ -406,23 +400,11 @@ translate chinese sm1cs_dc010_later_d46816dd:
     # mct "Like... really good. Maybe, and just maybe..."
     mct "真的...非常好。也许，只是也许..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:173
-translate chinese sm1cs_dc010_later_438b6718:
-
-    # "Jerk Cop" "Well, what do we have here!"
-    "混蛋警察" "嗯，看看我们发现了什么！"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:174
 translate chinese sm1cs_dc010_later_dbc9c5b2:
 
     # mct "Oh shit."
     mct "哦，糟了。"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:177
-translate chinese sm1cs_dc010_later_9ea8e216:
-
-    # "Douche Cop" "Oh, loitering? Maybe something a bit more nefarious?"
-    "蠢货警察" "哦，游荡？也许是更邪恶的事情？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:179
 translate chinese sm1cs_dc010_later_8ce18fb0:
@@ -430,83 +412,17 @@ translate chinese sm1cs_dc010_later_8ce18fb0:
     # mc "Evening, officers."
     mc "晚上好，警官们。"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:181
-translate chinese sm1cs_dc010_later_8104544b:
-
-    # "Jerk Cop" "\"Evening, officers\", pfft."
-    "混蛋警察" "\"晚上好，警官们\"，呵。"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:184
 translate chinese sm1cs_dc010_later_063d1ad9:
 
     # mc "Is there something I can help you with?"
     mc "有什么我能帮忙的吗？"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:185
-translate chinese sm1cs_dc010_later_d3f4a473:
-
-    # "Douche Cop" "Hmmm... let's see."
-    "蠢货警察" "嗯...让我看看。"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:188
 translate chinese sm1cs_dc010_later_fca924d7:
 
     # mc "Uuuuffff!"
     mc "呜呜呜！"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:191
-translate chinese sm1cs_dc010_later_2e90b41a:
-
-    # "Douche Cop" "Oh, that's right!"
-    "蠢货警察" "哦，对了！"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:194
-translate chinese sm1cs_dc010_later_316b0cab:
-
-    # "Douche Cop" "That's for using that bitch to embarrass us the other day!"
-    "蠢货警察" "这是为了你那天用那个贱人让我们出丑！"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:196
-translate chinese sm1cs_dc010_later_2caf8a9a:
-
-    # "Jerk Cop" "Woah, man."
-    "混蛋警察" "哇哦，伙计。"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:199
-translate chinese sm1cs_dc010_later_6e870534:
-
-    # "Douche Cop" "What?"
-    "蠢货警察" "什么？"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:200
-translate chinese sm1cs_dc010_later_840706a6:
-
-    # "Jerk Cop" "She's not entirely a bitch. Because, you now."
-    "混蛋警察" "她不完全是个贱人。因为，你知道的。"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:203
-translate chinese sm1cs_dc010_later_083d0320:
-
-    # "Douche Cop" "Oh yeah."
-    "蠢货警察" "哦是的。"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:206
-translate chinese sm1cs_dc010_later_6499727b:
-
-    # "Douche Cop" "Because she has a dick!"
-    "蠢货警察" "因为她有鸡巴！"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:209
-translate chinese sm1cs_dc010_later_c5b09bec:
-
-    # "Jerk Cop" "Yeah! So, whatever she is! Fuck her!"
-    "混蛋警察" "是啊！所以，不管她是什么！去她的！"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:210
-translate chinese sm1cs_dc010_later_8a6e6e14:
-
-    # "Douche Cop" "Hahahahaha!"
-    "蠢货警察" "哈哈哈哈哈！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:212
 translate chinese sm1cs_dc010_later_1987dde6:
@@ -520,23 +436,11 @@ translate chinese sm1cs_dc010_later_f289aa21:
     # dc "The {i}fuck{/i} are you two doing?"
     dc "你们两个在{i}搞{/i}什么？"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:217
-translate chinese sm1cs_dc010_later_beeaf278:
-
-    # "Jerk Cop" "Oh, look who it is. You're little bitch, come to save her little bitch!"
-    "混蛋警察" "哦，看看是谁。你这个小婊子，来救她的小婊子！"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:219
 translate chinese sm1cs_dc010_later_fd5252a2:
 
     # mc "Oh, that was a good one. Wooooow."
     mc "哦，说得真好。哇哦哦哦。"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:221
-translate chinese sm1cs_dc010_later_50eb0f04:
-
-    # "Jerk Cop" "Shut up!"
-    "混蛋警察" "闭嘴！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:223
 translate chinese sm1cs_dc010_later_bfadea7f:
@@ -556,23 +460,11 @@ translate chinese sm1cs_dc010_later_72baf430:
     # dc "If you don't, you'll regret it."
     dc "如果不走，你们会后悔的。"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:229
-translate chinese sm1cs_dc010_later_66c3cae5:
-
-    # "Jerk Cop" "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
-    "混蛋警察" "哦呵呵，那你要怎么办呢，{i}小女孩{/i}？"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:231
 translate chinese sm1cs_dc010_later_63386751:
 
     # dc "One."
     dc "一。"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:233
-translate chinese sm1cs_dc010_later_e1be8345:
-
-    # "Douche Cop" "Oh the little girl, or {i}little boy{/i} is soooo scary!"
-    "蠢货警察" "哦，小女孩，或者{i}小男孩{/i}好可怕哦！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:234
 translate chinese sm1cs_dc010_later_302b49ba:
@@ -580,29 +472,11 @@ translate chinese sm1cs_dc010_later_302b49ba:
     # dc "Two."
     dc "二。"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:237
-translate chinese sm1cs_dc010_later_531d8025:
-
-    # "Jerk Cop" "Oh, my balls are shaking! Hahahahaha!"
-    "混蛋警察" "哦，我的蛋蛋在颤抖！哈哈哈哈哈！"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:238
-translate chinese sm1cs_dc010_later_8a6e6e14_1:
-
-    # "Douche Cop" "Hahahahaha!"
-    "蠢货警察" "哈哈哈哈哈！"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:240
 translate chinese sm1cs_dc010_later_ac0a60ad:
 
     # dc "Three."
     dc "三。"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:241
-translate chinese sm1cs_dc010_later_39d40fad:
-
-    # "Jerk Cop" "Oh, fuck you!"
-    "混蛋警察" "哦，去你的！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:244
 translate chinese sm1cs_dc010_later_b78076c2:
@@ -616,23 +490,11 @@ translate chinese sm1cs_dc010_later_ba02e302:
     # "Ka-Chow!"
     "咔嚓！"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:249
-translate chinese sm1cs_dc010_later_26db978d:
-
-    # "Douche Cop" "What the fuck!?"
-    "蠢货警察" "什么鬼！？"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:252
 translate chinese sm1cs_dc010_later_198353ff:
 
     # dc "*grunts*"
     dc "*咕哝*"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:255
-translate chinese sm1cs_dc010_later_e247bcbf:
-
-    # "Douche Cop" "Shit!"
-    "蠢货警察" "该死！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:258
 translate chinese sm1cs_dc010_later_73a0be28:
@@ -646,29 +508,11 @@ translate chinese sm1cs_dc010_later_cee1e977:
     # "Both cops" "*groaning*"
     "两个警察" "*呻吟*"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:265
-translate chinese sm1cs_dc010_later_d3d34643:
-
-    # "Douche Cop" "My ass."
-    "蠢货警察" "我的屁股。"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:266
 translate chinese sm1cs_dc010_later_4258e46e:
 
     # dc "You two. {i}Leave.{/i} Before I put you in the hospital."
     dc "你们两个。{i}滚。{/i}在我把你们送进医院之前。"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:268
-translate chinese sm1cs_dc010_later_6106c91d:
-
-    # "Jerk Cop" "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
-    "混蛋警察" "哦是吗，贱人？要是我们告诉队长你袭击我们呢？"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:269
-translate chinese sm1cs_dc010_later_0e2b8682:
-
-    # "Douche Cop" "Yeah. Get your ass kicked off the force."
-    "蠢货警察" "是啊。把你从警队踢出去。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:271
 translate chinese sm1cs_dc010_later_a9afe6d2:
@@ -700,35 +544,11 @@ translate chinese sm1cs_dc010_later_a0b3a7d5:
     # mc "I wonder what he would have to say about that?"
     mc "我很好奇他会怎么说？"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:280
-translate chinese sm1cs_dc010_later_524cfcc1:
-
-    # "Jerk Cop" "Errrgghhhh..."
-    "混蛋警察" "呃呃呃..."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:281
-translate chinese sm1cs_dc010_later_32d72043:
-
-    # "Douche Cop" "Mother fucker..."
-    "蠢货警察" "混蛋..."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:282
-translate chinese sm1cs_dc010_later_554ce0ea:
-
-    # "Jerk Cop" "Come on."
-    "混蛋警察" "走吧。"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:285
 translate chinese sm1cs_dc010_later_a4ecbe4a:
 
     # mc "And if you two don't lay off of Debbie, I'm going to send this anonymously to your Captain!"
     mc "如果你们两个再不放过黛比，我就要匿名把这个发给你们队长！"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:286
-translate chinese sm1cs_dc010_later_87a3e1c6:
-
-    # "Jerk Cop" "Fuck you."
-    "混蛋警察" "去你的。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:290
 translate chinese sm1cs_dc010_later_540b14dd:
@@ -1138,12 +958,6 @@ translate chinese sm1cs_dc010_later_ecfacd53:
     # dc "No... I just..."
     dc "没有...我只是..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
-translate chinese sm1cs_dc010_later_8a1da730:
-
-    # dc "I have been looking forward to this for awhile.{w} I'm very excited."
-    dc "我期待这个很久了。{w}我很兴奋。"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:451
 translate chinese sm1cs_dc010_later_74fc6761:
 
@@ -1227,12 +1041,6 @@ translate chinese sm1cs_dc010_later_1ee704af:
 
     # mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
     mc "哦，那个--嗯嗯嗯--无论你用舌头在做什么--"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
-translate chinese sm1cs_dc010_later_c7ffa945:
-
-    # dc "Sllrrrpppppp! Sleep, sllrrpp, sllrrrppp!"
-    dc "呼噜噜！呼噜呼噜呼噜噜！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:474
 translate chinese sm1cs_dc010_later_eec3224d:
@@ -1732,12 +1540,6 @@ translate chinese sm1cs_dc010_dc_hj_03e1ac0f:
     # dc "Woah-!"
     dc "哇哦--！"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:658
-translate chinese sm1cs_dc010_dc_hj_6f12677e:
-
-    # mc "Great enough that it deserves it's own pleasure."
-    mc "棒到值得拥有自己的快乐。"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:659
 translate chinese sm1cs_dc010_dc_hj_4daf6261:
 
@@ -1972,12 +1774,6 @@ translate chinese sm1cs_dc010_dc_hj_716ddd04:
     # mc "Better than your fantasy?"
     mc "比你的幻想更好吗？"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:723
-translate chinese sm1cs_dc010_dc_hj_22c6dce8:
-
-    # dc "Inifinitely better than my fantasy."
-    dc "比我的幻想好无限倍。"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:726
 translate chinese sm1cs_dc010_dc_hj_c3726f3d:
 
@@ -2133,12 +1929,6 @@ translate chinese sm1cs_dc010_end_a782953a:
 
     # mc "Oh? Something to be worried about?"
     mc "哦？有什么值得担心的吗？"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:793
-translate chinese sm1cs_dc010_end_185ddc39:
-
-    # dc "No, not really Just some paperwork to do."
-    dc "不，不是真的，只是一些文书工作要做。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:794
 translate chinese sm1cs_dc010_end_e964bd3a:
@@ -2455,4 +2245,214 @@ translate chinese strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:586
     old "Yes, give Debbie a handjob"
     new "是的，给黛比打手枪"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:119
+translate chinese sm1cs_dc010_later_cc13123a:
+
+    # dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+    dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:173
+translate chinese sm1cs_dc010_later_32c7d96e:
+
+    # jc "Well, what do we have here!"
+    jc "Well, what do we have here!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:177
+translate chinese sm1cs_dc010_later_0a088038:
+
+    # doc "Oh, loitering? Maybe something a bit more nefarious?"
+    doc "Oh, loitering? Maybe something a bit more nefarious?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:181
+translate chinese sm1cs_dc010_later_118db1de:
+
+    # jc "\"Evening, officers\", pfft."
+    jc "\"Evening, officers\", pfft."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:185
+translate chinese sm1cs_dc010_later_313100aa:
+
+    # doc "Hmmm... let's see."
+    doc "Hmmm... let's see."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:191
+translate chinese sm1cs_dc010_later_ee640895:
+
+    # doc "Oh, that's right!"
+    doc "Oh, that's right!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:194
+translate chinese sm1cs_dc010_later_4e44cfdf:
+
+    # doc "That's for using that bitch to embarrass us the other day!"
+    doc "That's for using that bitch to embarrass us the other day!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:196
+translate chinese sm1cs_dc010_later_7abc9f97:
+
+    # jc "Woah, man."
+    jc "Woah, man."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:199
+translate chinese sm1cs_dc010_later_8faeff8a:
+
+    # doc "What?"
+    doc "What?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:200
+translate chinese sm1cs_dc010_later_655b6865:
+
+    # jc "She's not entirely a bitch. Because, you now."
+    jc "She's not entirely a bitch. Because, you now."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:203
+translate chinese sm1cs_dc010_later_c52dc3fb:
+
+    # doc "Oh yeah."
+    doc "Oh yeah."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:206
+translate chinese sm1cs_dc010_later_ed8594e7:
+
+    # doc "Because she has a dick!"
+    doc "Because she has a dick!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:209
+translate chinese sm1cs_dc010_later_937b5553:
+
+    # jc "Yeah! So, whatever she is! Fuck her!"
+    jc "Yeah! So, whatever she is! Fuck her!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:210
+translate chinese sm1cs_dc010_later_731e535c:
+
+    # doc "Hahahahaha!"
+    doc "Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:217
+translate chinese sm1cs_dc010_later_b23ba0d2:
+
+    # jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
+    jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:221
+translate chinese sm1cs_dc010_later_abb132ec:
+
+    # jc "Shut up!"
+    jc "Shut up!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:229
+translate chinese sm1cs_dc010_later_63318cc3:
+
+    # jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+    jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:233
+translate chinese sm1cs_dc010_later_decb3a7c:
+
+    # doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+    doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:237
+translate chinese sm1cs_dc010_later_738b9475:
+
+    # jc "Oh, my balls are shaking! Hahahahaha!"
+    jc "Oh, my balls are shaking! Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:238
+translate chinese sm1cs_dc010_later_731e535c_1:
+
+    # doc "Hahahahaha!"
+    doc "Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:241
+translate chinese sm1cs_dc010_later_1e1f5708:
+
+    # jc "Oh, fuck you!"
+    jc "Oh, fuck you!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:249
+translate chinese sm1cs_dc010_later_f90d492d:
+
+    # doc "What the fuck!?"
+    doc "What the fuck!?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:255
+translate chinese sm1cs_dc010_later_c8344b37:
+
+    # doc "Shit!"
+    doc "Shit!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:265
+translate chinese sm1cs_dc010_later_082113f0:
+
+    # doc "My ass."
+    doc "My ass."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:268
+translate chinese sm1cs_dc010_later_9d4feabf:
+
+    # jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+    jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:269
+translate chinese sm1cs_dc010_later_062962a0:
+
+    # doc "Yeah. Get your ass kicked off the force."
+    doc "Yeah. Get your ass kicked off the force."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:280
+translate chinese sm1cs_dc010_later_983f1fb6:
+
+    # jc "Errrgghhhh..."
+    jc "Errrgghhhh..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:281
+translate chinese sm1cs_dc010_later_e1a3ea1a:
+
+    # doc "Mother fucker..."
+    doc "Mother fucker..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:282
+translate chinese sm1cs_dc010_later_4ed7441e:
+
+    # jc "Come on."
+    jc "Come on."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:286
+translate chinese sm1cs_dc010_later_57c7effd:
+
+    # jc "Fuck you."
+    jc "Fuck you."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
+translate chinese sm1cs_dc010_later_9de368a5:
+
+    # dc "I have been looking forward to this for a while.{w} I'm very excited."
+    dc "I have been looking forward to this for a while.{w} I'm very excited."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
+translate chinese sm1cs_dc010_later_0f8ee3ae:
+
+    # dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+    dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:658
+translate chinese sm1cs_dc010_dc_hj_0d04a1d3:
+
+    # mc "Great enough that it deserves its own pleasure."
+    mc "Great enough that it deserves its own pleasure."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:723
+translate chinese sm1cs_dc010_dc_hj_1a7b15ce:
+
+    # dc "Infinitely better than my fantasy."
+    dc "Infinitely better than my fantasy."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:793
+translate chinese sm1cs_dc010_end_0f3a75eb:
+
+    # dc "No, not really. Just some paperwork to do."
+    dc "No, not really. Just some paperwork to do."
 

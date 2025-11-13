@@ -40,12 +40,6 @@ translate chinese q_inter_ms_4_44cbffbc:
     # ms "If the brats weren't so damn tasty, I probably would have quit already."
     ms "如果香肠不是那么好吃，我可能早就辞职了。"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:86
-translate chinese q_inter_ms_5_d8ebf05b:
-
-    # ms "Never thought I'd be buried in debt and putting weiners in bags."
-    ms "从没想过我会被债务淹没，还要把香肠装进袋子里。"
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:87
 translate chinese q_inter_ms_5_8f32ceb1:
 
@@ -267,12 +261,6 @@ translate chinese q_inter_ms_19_11455b53:
 
     # mc "What?"
     mc "什么？"
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
-translate chinese q_inter_ms_19_ded3b362:
-
-    # ms "Seeing you just reminds me that soon I have to be back at work handling weiners."
-    ms "看到你只是提醒我很快就得回去工作处理香肠了。"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:216
 translate chinese q_inter_ms_19_4fa138e3:
@@ -849,4 +837,16 @@ translate chinese q_inter_ms_45_678c5fed:
 
     # ms "Maybe I'm on my first step to becoming one."
     ms "也许我正在成为其中一员的第一步。"
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:86
+translate chinese q_inter_ms_5_8a5a6bb5:
+
+    # ms "Never thought I'd be buried in debt and putting wieners in bags."
+    ms "Never thought I'd be buried in debt and putting wieners in bags."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
+translate chinese q_inter_ms_19_6c302b48:
+
+    # ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
+    ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
 

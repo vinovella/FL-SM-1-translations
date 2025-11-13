@@ -28,12 +28,6 @@ translate portuguese sm1cs_ns001_6207b3f5:
     # mc "Hey Anna. Nari and I were looking for some food. Is there anything close around here?"
     mc "Oi Anna. Eu e a Nari queremos comer. Tem algum lugar aqui perto?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:34
-translate portuguese sm1cs_ns001_11a27173:
-
-    # ag "Of course. The office has it's own cafeteria."
-    ag "Claro. O escritório tem a própria cafeteria."
-
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:37
 translate portuguese sm1cs_ns001_db427dd9:
 
@@ -292,12 +286,6 @@ translate portuguese sm1cs_ns001_continue_495c4c5a:
     # ns "Oh. Thanks."
     ns "Ah. Obrigada."
 
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
-translate portuguese sm1cs_ns001_continue_7f280683:
-
-    # mct "He shoots"
-    mct "Ele lança."
-
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:203
 translate portuguese sm1cs_ns001_continue_7140082a:
 
@@ -399,12 +387,6 @@ translate portuguese sm1cs_ns001_continue_3910922c:
 
     # ns "I caught April looking over my shoulder earlier. I was so embarrassed. I thought I had done something wrong or said something wrong."
     ns "Eu peguei a April olhando pelas minhas costas. Fiquei com tanta vergonha. Eu achei que tinha feito ou falado algo errado."
-
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
-translate portuguese sm1cs_ns001_continue_318826f2:
-
-    # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda.."
-    ns "Depois eu percebi que ela deve ter ficado impressionada com o meu trabalho, porque perguntou se eu queria um refrigerante."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:252
 translate portuguese sm1cs_ns001_continue_d5326a7a:
@@ -599,4 +581,22 @@ translate portuguese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:154
     old "Be humble"
     new "Ser humilde"
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:34
+translate portuguese sm1cs_ns001_1c682e14:
+
+    # ag "Of course. The office has its own cafeteria."
+    ag "Of course. The office has its own cafeteria."
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
+translate portuguese sm1cs_ns001_continue_e2b53835:
+
+    # mct "He shoots."
+    mct "He shoots."
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
+translate portuguese sm1cs_ns001_continue_aa4b7c7c:
+
+    # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
+    ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
 

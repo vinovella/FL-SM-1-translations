@@ -20,3 +20,17 @@ translate deutsch strings:
     old "You need to progress [storyline_names!t]"
     new "Du musst [storyline_names!t] fortsetzen"
 
+translate deutsch strings:
+
+    # game/code/classes/quest_controller.rpy:156
+    old "You need to progress [storyline_name!t]"
+    new "You need to progress [storyline_name!t]"
+
+    # game/code/classes/quest_controller.rpy:159
+    old "and"
+    new "and"
+
+    # game/code/classes/quest_controller.rpy:162
+    old "[storyline_name!t]"
+    new "[storyline_name!t]"
+

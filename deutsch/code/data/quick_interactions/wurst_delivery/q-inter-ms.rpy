@@ -40,12 +40,6 @@ translate deutsch q_inter_ms_4_44cbffbc:
     # ms "If the brats weren't so damn tasty, I probably would have quit already."
     ms "Wären die Bratwürste nicht so verdammt lecker, hätte ich wahrscheinlich schon längst aufgehört."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:86
-translate deutsch q_inter_ms_5_d8ebf05b:
-
-    # ms "Never thought I'd be buried in debt and putting weiners in bags."
-    ms "Ich hätte nie gedacht, dass ich einmal in Schulden versinken und Würstchen in Tüten packen würde."
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:87
 translate deutsch q_inter_ms_5_8f32ceb1:
 
@@ -249,12 +243,6 @@ translate deutsch q_inter_ms_19_11455b53:
 
     # mc "What?"
     mc "Was?"
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
-translate deutsch q_inter_ms_19_ded3b362:
-
-    # ms "Seeing you just reminds me that soon I have to be back at work handling weiners."
-    ms "Wenn ich dich sehe, werde ich daran erinnert, dass ich bald wieder zur Arbeit muss und mich um Würstchen kümmern muss."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:216
 translate deutsch q_inter_ms_19_4fa138e3:
@@ -849,4 +837,16 @@ translate deutsch q_inter_ms_45_678c5fed:
 
     # ms "Maybe I'm on my first step to becoming one."
     ms "Vielleicht bin ich auf dem ersten Schritt, eine zu werden."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:86
+translate deutsch q_inter_ms_5_8a5a6bb5:
+
+    # ms "Never thought I'd be buried in debt and putting wieners in bags."
+    ms "Never thought I'd be buried in debt and putting wieners in bags."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
+translate deutsch q_inter_ms_19_6c302b48:
+
+    # ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
+    ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
 

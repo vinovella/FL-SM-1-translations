@@ -916,12 +916,6 @@ translate turkish sm1cs_my003_at_gym_91d8a70c:
     # mc "You okay?"
     mc "You okay?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:461
-translate turkish sm1cs_my003_at_gym_a3d6370e:
-
-    # my "Yeah, it's just been awhile since I've been able to get to the gym. Working some muscles that are a little frozen up."
-    my "Yeah, it's just been awhile since I've been able to get to the gym. Working some muscles that are a little frozen up."
-
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:462
 translate turkish sm1cs_my003_at_gym_5acd50d3:
 
@@ -1639,4 +1633,10 @@ translate turkish strings:
     # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:475
     old "It looks like the right one is within reach!"
     new "It looks like the right one is within reach!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:461
+translate turkish sm1cs_my003_at_gym_b2b93b59:
+
+    # my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
+    my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
 

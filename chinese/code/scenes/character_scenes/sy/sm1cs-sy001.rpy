@@ -682,12 +682,6 @@ translate chinese sm1cs_sy001_watersports_58aae0b1:
     # mc "Anything for you, but I should probably get going."
     mc "我为你做什么都行，不过现在我真得走了。"
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:424
-translate chinese sm1cs_sy001_watersports_6f6ffe70:
-
-    # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for awhile."
-    sy "嗯哼。别管我，我要躺在这享受高潮后的快感，好好回味下刚才的刺激。"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:426
 translate chinese sm1cs_sy001_watersports_c395378f:
 
@@ -763,4 +757,10 @@ translate chinese strings:
     # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:328
     old "Actually, I kind of have to pee"
     new "其实，我有点想尿尿"
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:426
+translate chinese sm1cs_sy001_watersports_962bd759:
+
+    # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
+    sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
 

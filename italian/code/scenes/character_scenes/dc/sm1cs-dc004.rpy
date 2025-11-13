@@ -40,12 +40,6 @@ translate italian sm1cs_dc004_6ce4cbe3:
     # dc "Yeah..."
     dc "Sì..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:25
-translate italian sm1cs_dc004_768b2899:
-
-    # mc "But I wanted to ask you something. The other day, at coffee, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-    mc "Ma volevo chiederti una cosa. L'altro giorno, al bar, sei scappata via di fretta. C'è qualcosa che non va? Ho detto qualcosa di sbagliato?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:29
 translate italian sm1cs_dc004_4005297e:
 
@@ -81,4 +75,10 @@ translate italian sm1cs_dc004_404eabfc:
 
     # mct "I guess all I can do is try and talk to her later..."
     mct "Immagino che tutto ciò che posso fare sia provare a parlarle più tardi..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:25
+translate italian sm1cs_dc004_1172721c:
+
+    # mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+    mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
 

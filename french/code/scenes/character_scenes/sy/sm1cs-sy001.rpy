@@ -682,12 +682,6 @@ translate french sm1cs_sy001_watersports_58aae0b1:
     # mc "Anything for you, but I should probably get going."
     mc "Tout pour toi, mais je devrais y aller."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:424
-translate french sm1cs_sy001_watersports_6f6ffe70:
-
-    # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for awhile."
-    sy "Ouais ouais. T’inquiète pas pour moi, je vais juste rester là à profiter du glow post-orgasme et penser à plein de sales trucs un moment."
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:426
 translate french sm1cs_sy001_watersports_c395378f:
 
@@ -765,4 +759,10 @@ translate french strings:
     new "En fait, j’ai un peu envie de pisser"
 
 #Translate by BlackViper_
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:426
+translate french sm1cs_sy001_watersports_962bd759:
+
+    # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
+    sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
 

@@ -322,12 +322,6 @@ translate french sm1cs_dc_renovation_07ab98c5:
     # dc "Ha, ha. Very funny, [mcname]."
     dc "Ha ha. Très drôle, [mcname]."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:220
-translate french sm1cs_dc_renovation_e7efd5e7:
-
-    # mc "Oh shit! I haven't offered you water or anything! You must have world up a thirst."
-    mc "Oh merde ! Je t’ai même pas proposé un verre d’eau ou quoi ! Tu dois crever de soif."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:223
 translate french sm1cs_dc_renovation_892af79d:
 
@@ -514,12 +508,6 @@ translate french sm1cs_dc_renovation_61d1129a:
     # mc "Oh, I don't know about all that."
     mc "Oh, je sais pas si on peut dire ça."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
-translate french sm1cs_dc_renovation_65011277:
-
-    # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem to!"
-    mc "On est là depuis quelques heures, t’as déjà abattu un sacré boulot, {i}et{/i} en plus t’as réglé mon problème !"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:326
 translate french sm1cs_dc_renovation_28c85fe5:
 
@@ -611,4 +599,16 @@ translate french sm1cs_dc_renovation_e5818002:
     dc "Toi aussi, [mcname] !"
 
 #Translate by BlackViper_
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:220
+translate french sm1cs_dc_renovation_1b6ec0ce:
+
+    # mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+    mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
+translate french sm1cs_dc_renovation_6d9f72cb:
+
+    # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
+    mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
 

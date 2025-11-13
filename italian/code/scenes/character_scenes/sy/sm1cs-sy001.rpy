@@ -682,12 +682,6 @@ translate italian sm1cs_sy001_watersports_58aae0b1:
     # mc "Anything for you, but I should probably get going."
     mc "Qualsiasi cosa per te, ma dovrei probabilmente andare."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:426
-translate italian sm1cs_sy001_watersports_6f6ffe70:
-
-    # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for awhile."
-    sy "Uh huh. Non preoccuparti per me, me ne starò qui nel bagliore post-orgasmo a pensare a tutte le cose sporche per un po'."
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:428
 translate italian sm1cs_sy001_watersports_c395378f:
 
@@ -763,4 +757,10 @@ translate italian strings:
     # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:330
     old "Actually, I kind of have to pee"
     new "In realtà, devo un po' fare pipì"
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:426
+translate italian sm1cs_sy001_watersports_962bd759:
+
+    # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
+    sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
 

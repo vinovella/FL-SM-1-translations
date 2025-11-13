@@ -340,12 +340,6 @@ translate italian sm1cs_dc007_continue_707f72e3:
     # mc "Oh, but I'm dedicated to the cause."
     mc "Oh, ma sono dedito alla causa."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:249
-translate italian sm1cs_dc007_continue_a220b838:
-
-    # dc "Well you kow, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
-    dc "Beh sai, sono curiosa... cosa fai per lavoro che ti dà così tanto tempo libero per far inciampare i miei sospetti?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:252
 translate italian sm1cs_dc007_continue_9a1f2614:
 
@@ -652,12 +646,6 @@ translate italian sm1cs_dc007_continue_965c4984:
     # mc "I don't know about \"rogue vigilante\", what about \"hot action hero\"?"
     mc "Non so per quanto riguarda \"vigilante ribelle\", che ne dici di \"eroe d'azione sexy\"?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
-translate italian sm1cs_dc007_continue_6e9d9cd5:
-
-    # dc "Mmmmm, maybe when you're move isn't \"Human Roadblock\"."
-    dc "Mmmmm, forse quando la tua mossa non è \"Blocco Stradale Umano\"."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:392
 translate italian sm1cs_dc007_continue_abdaa62e:
 
@@ -805,4 +793,16 @@ translate italian strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:217
     old "Plus, I think you're pretty cute"
     new "Inoltre, penso che tu sia piuttosto carina"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:249
+translate italian sm1cs_dc007_continue_2557068b:
+
+    # dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+    dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
+translate italian sm1cs_dc007_continue_6a0c526c:
+
+    # dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
+    dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
 

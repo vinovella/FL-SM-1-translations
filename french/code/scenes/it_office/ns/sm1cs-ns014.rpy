@@ -502,12 +502,6 @@ translate french sm1cs_ns014_studio_85bfecbf:
     # "CLICK"
     "CLICK"
 
-# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:347
-translate french sm1cs_ns014_studio_c431fec1:
-
-    # ns "No fair. You're too sneaky. Stacy.."
-    ns "No fair. You're too sneaky. Stacy.."
-
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:350
 translate french sm1cs_ns014_studio_bca09261:
 
@@ -1231,4 +1225,10 @@ translate french strings:
     # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:462
     old "I trust you"
     new "I trust you"
+
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:347
+translate french sm1cs_ns014_studio_34d49c4d:
+
+    # ns "No fair. You're too sneaky. Stacy..."
+    ns "No fair. You're too sneaky. Stacy..."
 

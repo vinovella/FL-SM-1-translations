@@ -118,12 +118,6 @@ translate chinese sm1cs_cs001_b8fbfa28:
     # mc "Yeah, I'll check with them first..."
     mc "嗯，我先过去跟他们说一声..."
 
-# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:65
-translate chinese sm1cs_cs001_649f6e26:
-
-    # mc "Yeah, yeah. I'll have a dark roast cofee and a..."
-    mc "要的要的。那我要一杯深度烘焙的咖啡，还有一杯..."
-
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:66
 translate chinese sm1cs_cs001_95ef3c92:
 
@@ -201,4 +195,10 @@ translate chinese sm1cs_cs001_24cdc073:
 
     # cs "Uh huh."
     cs "应该的。"
+
+# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:65
+translate chinese sm1cs_cs001_0b11eff4:
+
+    # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
 

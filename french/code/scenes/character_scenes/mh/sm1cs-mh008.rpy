@@ -40,12 +40,6 @@ translate french sm1cs_mh008_c067869b:
     # mc "Why did you want to see me?"
     mc "Pourquoi tu voulais me voir ?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:48
-translate french sm1cs_mh008_e7ebf2b6:
-
-    # mh "I don't know... it's been awhile since we've really spent time together. I thought we could maybe do something, go somewhere."
-    mh "Je sais pas... ça fait un moment qu’on n’a pas vraiment passé de temps ensemble. Je me disais qu’on pourrait faire quelque chose, sortir quelque part."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:51
 translate french sm1cs_mh008_3e53a7b5:
 
@@ -2348,4 +2342,10 @@ translate french sm1cs_mh008_couple_carousel_end_6779bff8:
 
     # mc "I couldn't think of anyone I'd rather be looking out over the city than with you, Lyssa."
     mc "I couldn't think of anyone I'd rather be looking out over the city than with you, Lyssa."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:46
+translate french sm1cs_mh008_f927037e:
+
+    # mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
+    mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
 

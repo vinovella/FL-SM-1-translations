@@ -358,12 +358,6 @@ translate french sm1fs_i002_eed760b1:
     # cw "Avoidant? Not the best strategy, but continue."
     cw "Évasif ? Pas la meilleure stratégie, mais continue."
 
-# game/code/scenes/it_office/sm1fs-i002.rpy:205
-translate french sm1fs_i002_604fd726:
-
-    # mc "After I had it for awhile I... Realized it could be made better."
-    mc "Après l’avoir utilisée un moment, j’ai… réalisé qu’on pouvait l’améliorer."
-
 # game/code/scenes/it_office/sm1fs-i002.rpy:206
 translate french sm1fs_i002_e4c7a84a:
 
@@ -645,4 +639,10 @@ translate french sm1fs_i002_334c54a0:
 
     # mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
     mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
+
+# game/code/scenes/it_office/sm1fs-i002.rpy:205
+translate french sm1fs_i002_46800ea7:
+
+    # mc "After I had it for a while I... Realized it could be made better."
+    mc "After I had it for a while I... Realized it could be made better."
 

@@ -340,12 +340,6 @@ translate french sm1cs_dc007_continue_707f72e3:
     # mc "Oh, but I'm dedicated to the cause."
     mc "Oh, mais je suis dévoué à la cause."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:249
-translate french sm1cs_dc007_continue_a220b838:
-
-    # dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
-    dc "Eh bien tu sais, je suis curieuse... tu fais quoi comme boulot pour avoir autant de temps libre à passer à faire trébucher mes suspects ?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:252
 translate french sm1cs_dc007_continue_9a1f2614:
 
@@ -652,12 +646,6 @@ translate french sm1cs_dc007_continue_965c4984:
     # mc "I don't know about \"rogue vigilante\", what about \"hot action hero\"?"
     mc "Je sais pas pour \"justicier rebelle\", mais que dis-tu de \"héros d’action sexy\"?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
-translate french sm1cs_dc007_continue_6e9d9cd5:
-
-    # dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
-    dc "Mmmmm, peut-être quand ton coup spécial ne sera plus \"Ralentisseur humain\"."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:392
 translate french sm1cs_dc007_continue_abdaa62e:
 
@@ -807,4 +795,16 @@ translate french strings:
     new "En plus, je trouve que tu es vraiment mignonne"
 
 #Translate by BlackViper_
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:249
+translate french sm1cs_dc007_continue_2557068b:
+
+    # dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+    dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
+translate french sm1cs_dc007_continue_6a0c526c:
+
+    # dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
+    dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
 

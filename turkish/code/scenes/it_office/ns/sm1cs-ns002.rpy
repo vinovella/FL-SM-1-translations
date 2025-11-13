@@ -256,12 +256,6 @@ translate turkish sm1cs_ns002_165e5ad5:
     # ns "Now they're wet. Maybe ruined. I don't know. But I can't leave this place. Which means eventually someone will find out and then I'll be fired for sure."
     ns "Şimdi ıslandılar. Belki mahvoldular. Bilmiyorum. Ama burayı terk edemem. Bu da demek oluyor ki sonunda birileri öğrenecek ve o zaman kesinlikle kovulacağım."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
-translate turkish sm1cs_ns002_e9fc13f4:
-
-    # mc "Let's just take a beat. I'll get you through this. we've all... had urges in strange places."
-    mc "Hadi bir mola verelim. Seni bu durumdan kurtaracağım. Hepimiz... garip yerlerde dürtüler yaşadık."
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:169
 translate turkish sm1cs_ns002_25d12c61:
 
@@ -742,12 +736,6 @@ translate turkish sm1cs_ns002_74fc6761:
     # mc "Me too."
     mc "Ben de."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
-translate turkish sm1cs_ns002_f7744ef8:
-
-    # mct "No one is close. I hope"
-    mct "Kimse yakın değil. Umarım"
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:429
 translate turkish sm1cs_ns002_e95fe494:
 
@@ -819,4 +807,16 @@ translate turkish strings:
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "I don't need to know"
     new "I don't need to know"
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
+translate turkish sm1cs_ns002_bc4ba015:
+
+    # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
+translate turkish sm1cs_ns002_94a1cd6a:
+
+    # mct "No one is close. I hope."
+    mct "No one is close. I hope."
 

@@ -472,12 +472,6 @@ translate turkish sm1cs_bg003_bg_appears_39decf51_1:
     # "*CAMERA STROBE SOUND EFFECT*"
     "*KAMERA STROBE SES EFEKT*"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:303
-translate turkish sm1cs_bg003_bg_appears_41f2a759:
-
-    # mc "It looking good?"
-    mc "İyi görünüyor mu?"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:307
 translate turkish sm1cs_bg003_bg_appears_79f38256:
 
@@ -820,12 +814,6 @@ translate turkish sm1cs_bg003_whipping_6092a598:
     # kv "Oh yeah... this was a good idea."
     kv "Ah evet... bu iyi bir fikirdi."
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:477
-translate turkish sm1cs_bg003_whipping_41f2a759:
-
-    # mc "It looking good?"
-    mc "İyi görünüyor mu?"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:479
 translate turkish sm1cs_bg003_whipping_815b81ca:
 
@@ -1089,12 +1077,6 @@ translate turkish sm1cs_bg003_whipping_e613fa07:
 
     # mc "All right, Kanya."
     mc "Tamam, Kanya."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:609
-translate turkish sm1cs_bg003_whipping_00c8c72d:
-
-    # mc "As long as your comfortable with this."
-    mc "Bu konuda rahat olduğunuz sürece."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:612
 translate turkish sm1cs_bg003_whipping_c004c31b:
@@ -1957,4 +1939,22 @@ translate turkish strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:732
     old "Sir"
     new "Efendim"
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:304
+translate turkish sm1cs_bg003_bg_appears_ad41354f:
+
+    # mc "Is it looking good?"
+    mc "Is it looking good?"
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:478
+translate turkish sm1cs_bg003_whipping_ad41354f:
+
+    # mc "Is it looking good?"
+    mc "Is it looking good?"
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:610
+translate turkish sm1cs_bg003_whipping_afad21c7:
+
+    # mc "As long as you're comfortable with this."
+    mc "As long as you're comfortable with this."
 

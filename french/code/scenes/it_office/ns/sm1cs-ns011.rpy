@@ -172,12 +172,6 @@ translate french sm1cs_ns011_3fe289ec:
     # ns "Yes. That was used in a lot of hentai, but you hardly hear it nowadays."
     ns "Oui. On utilisait beaucoup ce terme dans les hentai, mais de nos jours on ne l’entend presque plus."
 
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:112
-translate french sm1cs_ns011_d4ff4cf1:
-
-    # ns "Sugar Daddies love to play with their Good Girls..."
-    ns "Les Sugar Daddies adorent jouer avec leurs bonnes filles..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:115
 translate french sm1cs_ns011_98a3624c:
 
@@ -1153,4 +1147,10 @@ translate french strings:
     new "Tu es sûr que ça ne te dérange pas ?"
 
 #Translate by BlackViper_
+
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:112
+translate french sm1cs_ns011_a266d0ee:
+
+    # ns "Sugar Daddies love to play with their Good Girls..."
+    ns "Sugar Daddies love to play with their Good Girls..."
 

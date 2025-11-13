@@ -322,12 +322,6 @@ translate spanish sm1cs_ns007_resturant_3dd0863d:
     # mc "Not really, but... even if I wanted to order what you like, I don't really know what you like."
     mc "En realidad no, pero... incluso si quisiera pedir lo que te gusta, realmente no sé lo que te gusta."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:234
-translate spanish sm1cs_ns007_resturant_4ee645e0:
-
-    # ns "I dissagree. I've told you many things I like."
-    ns "No estoy de acuerdo. Te he dicho muchas cosas que me gustan."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:236
 translate spanish sm1cs_ns007_resturant_79ccfa96:
 
@@ -1030,12 +1024,6 @@ translate spanish sm1cs_ns007_light_house_414b8d09:
     # ns "A little... but I want to you to keep touching me."
     ns "Un poco... pero quiero que sigas tocándome."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:594
-translate spanish sm1cs_ns007_light_house_721e1d0f:
-
-    # ns "I feel... comfortable... wtih you."
-    ns "Me siento... cómoda... contigo."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:596
 translate spanish sm1cs_ns007_light_house_6e683072:
 
@@ -1239,12 +1227,6 @@ translate spanish sm1cs_ns007_light_house_7f24cbec:
 
     # mct "With me of course. She would probably be comfortable."
     mct "Conmigo por supuesto. Probablemente se sentiría cómoda."
-
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:693
-translate spanish sm1cs_ns007_light_house_ec054526:
-
-    # ns "*exctied but stiffled moaning*"
-    ns "*gemidos ahogados y excitados*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:694
 translate spanish sm1cs_ns007_light_house_cff3ddbc:
@@ -1480,12 +1462,6 @@ translate spanish sm1cs_ns007_light_house_6157151d:
     # ns "*shivering* Really? That makes me so happy."
     ns "*temblando* ¿En serio? Eso me hace tan feliz."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:805
-translate spanish sm1cs_ns007_light_house_f8b5ef95:
-
-    # ns "*moaning. I love... hearing that... ooouhah..."
-    ns "*gimiendo* Me encanta... escuchar eso... oouhah..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:806
 translate spanish sm1cs_ns007_light_house_8ab21434:
 
@@ -1642,12 +1618,6 @@ translate spanish sm1cs_ns007_light_house_9c95d390:
     # ns "Ooouha-huaa-hooouah..."
     ns "Ooouha-huaa-hooouah..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:881
-translate spanish sm1cs_ns007_light_house_47a2443e:
-
-    # ns "*whipsers* It's just like the hentai."
-    ns "*susurros* Es como el Hentai."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:885
 translate spanish sm1cs_ns007_light_house_45a96e41:
 
@@ -1701,12 +1671,6 @@ translate spanish sm1cs_ns007_light_house_9272cc78:
 
     # mc "Alright. Here's your special order."
     mc "Está bien. Aquí está su pedido especial."
-
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:909
-translate spanish sm1cs_ns007_light_house_b7c02e3e:
-
-    # ns "Yes. Thank you, [mcname].."
-    ns "Sí. Gracias, [mcname].."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:912
 translate spanish sm1cs_ns007_light_house_8716d7be:
@@ -1858,12 +1822,6 @@ translate spanish sm1cs_ns007_walkaway_dbeabe96:
     # ns "Yes, I can do that."
     ns "Sí, puedo hacer eso."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:998
-translate spanish sm1cs_ns007_walkaway_1f0277e6:
-
-    # ns "Hmm... considering the food, conversation, company and my the amount of times I came..."
-    ns "Hmm... teniendo en cuenta la comida, la conversación, la compañía y mi cantidad de veces que me corrí..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1003
 translate spanish sm1cs_ns007_walkaway_e1669c33:
 
@@ -2011,4 +1969,52 @@ translate spanish sm1cs_ns007_walkaway_e0cd2531:
 
     # ns "I will award you...{w}an Eight out of Ten."
     ns "I will award you...{w}an Eight out of Ten."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:234
+translate spanish sm1cs_ns007_resturant_0eecd966:
+
+    # ns "I disagree. I've told you many things I like."
+    ns "I disagree. I've told you many things I like."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:595
+translate spanish sm1cs_ns007_light_house_eb237d93:
+
+    # ns "I feel... comfortable... with you."
+    ns "I feel... comfortable... with you."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:694
+translate spanish sm1cs_ns007_light_house_0c97487e:
+
+    # ns "*excited but stifled moaning*"
+    ns "*excited but stifled moaning*"
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:806
+translate spanish sm1cs_ns007_light_house_5d826925:
+
+    # ns "*moaning. I love... hearing that... ooouhah...*"
+    ns "*moaning. I love... hearing that... ooouhah...*"
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:882
+translate spanish sm1cs_ns007_light_house_81160ea0:
+
+    # ns "*whispers* It's just like the hentai."
+    ns "*whispers* It's just like the hentai."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:910
+translate spanish sm1cs_ns007_light_house_4e72d60e:
+
+    # ns "Yes. Thank you, [mcname]."
+    ns "Yes. Thank you, [mcname]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1001
+translate spanish sm1cs_ns007_walkaway_9dae56c9:
+
+    # ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+    ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+
+translate spanish strings:
+
+    # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:439
+    old "The people close to me are happy about it"
+    new "The people close to me are happy about it"
 

@@ -562,12 +562,6 @@ translate french sm1cs_mh009_8ac5103c:
     # mct "Are we really just going to skip past all of that deep emotional stuff? That felt like..."
     mct "On va vraiment zapper tout ce qu’elle vient de dire d’important ? J’avais l’impression que c’était..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:314
-translate french sm1cs_mh009_592adc53:
-
-    # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for awhile?"
-    mct "Elle disait des choses vraiment profondes. Elle est à ce point excitée par l’idée d’un entretien sexuel au point de vouloir tout mettre de côté ?"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:318
 translate french sm1cs_mh009_4c29ffc4:
 
@@ -2427,4 +2421,10 @@ translate french strings:
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:330
     old "Allison"
     new "Allison"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:315
+translate french sm1cs_mh009_e9245de9:
+
+    # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
+    mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
 
