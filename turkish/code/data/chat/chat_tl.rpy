@@ -68,13 +68,13 @@ translate turkish strings:
 
     # game/code/data/chat/chat_tl.rpy:3
     old "hey, girl! Where can I find you today?"
-    new "hey, girl! Where can I find you today?"
+    new "Hey, kızım! Bugün seni nerede bulabilirim?"
 
     # game/code/data/chat/chat_tl.rpy:3
     old "I'm at the theater, find me there"
-    new "I'm at the theater, find me there"
+    new "Tiyatrodayım, beni orada bul"
 
     # game/code/data/chat/chat_tl.rpy:3
     old "On my way!"
-    new "On my way!"
+    new "Yoldayım!"
 

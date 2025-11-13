@@ -401,3 +401,13 @@ File: Turkish/code\data\chat\chat_km.rpy (done)
 File: Turkish/code\data\chat\chat_kv.rpy (done)
 
 File: Turkish/code\data\chat\chat_mes.rpy (done)
+
+File: Turkish/code\data\chat\chat_mh.rpy (done)
+
+File: Turkish/code\data\chat\chat_my.rpy (done)
+
+File: Turkish/code\data\chat\chat_ns.rpy (done)
+
+File: Turkish/code\data\chat\chat_tl.rpy (done)
+
+File: Turkish/code\data\chat\chat_vs.rpy (done)
