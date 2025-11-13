@@ -9,7 +9,7 @@ File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh010.rpy (Entire file untra
 
 File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh010i.rpy (Entire file untranslated) [106 words] (done)
 
-File: Turkish/code\scenes\character_scenes\my\sm1cs-my003.rpy (Entire file untranslated) [1930 words] (41%)
+File: Turkish/code\scenes\character_scenes\my\sm1cs-my003.rpy (Entire file untranslated) [1930 words] (done)
 
 File: Turkish/code\scenes\character_scenes\my\sm1cs-my004.rpy (Entire file untranslated) [2142 words]
 
