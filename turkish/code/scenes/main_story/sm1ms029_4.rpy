@@ -224,7 +224,7 @@ translate turkish sm1ms029_party_arj_f680e53a:
 translate turkish sm1ms029_party_arj_e3f94075:
 
     # arj "[mcname] quit teasing me."
-    arj "[mcname] quit teasing me."
+    arj "[mcname] benimle dalga geçmeyi kes."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1975
 translate turkish sm1ms029_party_arj_461e7cf4:
@@ -320,7 +320,7 @@ translate turkish sm1ms029_party_arj_64eab9e9:
 translate turkish sm1ms029_party_arj_0b785211:
 
     # mc "I can't wait!"
-    mc "I can't wait!"
+    mc "Bekleyemem!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1999
 translate turkish sm1ms029_party_arj_9b3e2cce:
@@ -488,7 +488,7 @@ translate turkish sm1ms029_party_arj_9cfa5994:
 translate turkish sm1ms029_party_arj_45f4612b:
 
     # arj "Please... *breathes* Fuck me again, Master."
-    arj "Please... *breathes* Fuck me again, Master."
+    arj "Lütfen... *nefes alır* Beni tekrar sik, Efendim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2055
 translate turkish sm1ms029_party_arj_e1de2415:
@@ -698,7 +698,7 @@ translate turkish sm1ms029_confrontation_367b8aa9:
 translate turkish sm1ms029_confrontation_f1711534:
 
     # cb "I try my best."
-    cb "I try my best."
+    cb "Elimden geleni yapıyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2124
 translate turkish sm1ms029_confrontation_25757071:
@@ -788,7 +788,7 @@ translate turkish sm1ms029_confrontation_5db98e21:
 translate turkish sm1ms029_confrontation_e7b7569e:
 
     # mc "And why is that?"
-    mc "And why is that?"
+    mc "Ve bunun nedeni ne?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2169
 translate turkish sm1ms029_confrontation_235f506b:
@@ -1400,7 +1400,7 @@ translate turkish sm1ms029_party_end_c845624f:
 translate turkish sm1ms029_party_end_24bb03fb:
 
     # hr "Maybe just a little bit nasty."
-    hr "Maybe just a little bit nasty."
+    hr "Belki sadece biraz yaramaz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2373
 translate turkish sm1ms029_party_end_0e281c6a:
@@ -1706,13 +1706,13 @@ translate turkish sm1ms029_cliffhanger_0560b4fc:
 translate turkish sm1ms029_cliffhanger_f776cceb:
 
     # et "That's exactly what I was thinking."
-    et "That's exactly what I was thinking."
+    et "Tam olarak düşündüğüm şey bu."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2469
 translate turkish sm1ms029_cliffhanger_cbde5412:
 
     # et "We'll talk later."
-    et "We'll talk later."
+    et "Sonra konuşuruz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2471
 translate turkish sm1ms029_cliffhanger_71e7b42f:
@@ -1768,7 +1768,7 @@ translate turkish strings:
 
     # game/code/scenes/main_story/sm1ms029.rpy:2154
     old "Why is that?"
-    new "Why is that?"
+    new "Bunun nedeni ne?"
 
     # game/code/scenes/main_story/sm1ms029.rpy:2204
     old "Thanks, but no thanks"
