@@ -1,50 +1,50 @@
 ﻿# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:56
 translate turkish sm1cs_mh009_1ba71b8e:
 
-    # mct "I wonder how long it'll take for Lyssa to get over here..."
-    mct "I wonder how long it'll take for Lyssa to get over here..."
+    # mct "Lyssa'nın buraya gelmesi ne kadar sürer acaba..."
+    mct "Lyssa'nın buraya gelmesi ne kadar sürer acaba..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:62
 translate turkish sm1cs_mh009_c816523f:
 
-    # mc "Where are you off to?"
-    mc "Where are you off to?"
+    # mc "Nereye gidiyorsun?"
+    mc "Nereye gidiyorsun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:66
 translate turkish sm1cs_mh009_507bb37f:
 
-    # sy "I have some errands I have to run this morning."
-    sy "I have some errands I have to run this morning."
+    # sy "Bu sabah yapmam gereken bazı işlerim var."
+    sy "Bu sabah yapmam gereken bazı işlerim var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:67
 translate turkish sm1cs_mh009_b9ec1870:
 
-    # sy "What are you doing today?"
-    sy "What are you doing today?"
+    # sy "Bugün ne yapıyorsun?"
+    sy "Bugün ne yapıyorsun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:69
 translate turkish sm1cs_mh009_ca37196f:
 
-    # mc "Lyssa is actually going to stop by and check out the new studio."
-    mc "Lyssa is actually going to stop by and check out the new studio."
+    # mc "Lyssa aslında uğrayıp yeni stüdyoya göz atacak."
+    mc "Lyssa aslında uğrayıp yeni stüdyoya göz atacak."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:70
 translate turkish sm1cs_mh009_ff3a54a4:
 
-    # sy "Oooooooo! That'll be fun!"
-    sy "Oooooooo! That'll be fun!"
+    # sy "Oooooooo! Bu eğlenceli olacak!"
+    sy "Oooooooo! Bu eğlenceli olacak!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:73
 translate turkish sm1cs_mh009_60c2ddc5:
 
-    # sy "And of course, I'm not going to be here."
-    sy "And of course, I'm not going to be here."
+    # sy "Ve tabii ki, ben burada olmayacağım."
+    sy "Ve tabii ki, ben burada olmayacağım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:75
 translate turkish sm1cs_mh009_19c1f0a2:
 
-    # mc "I didn't do it on purpose!"
-    mc "I didn't do it on purpose!"
+    # mc "Kasıtlı yapmadım!"
+    mc "Kasıtlı yapmadım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:79
 translate turkish sm1cs_mh009_c15f3a90:
@@ -55,74 +55,74 @@ translate turkish sm1cs_mh009_c15f3a90:
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:80
 translate turkish sm1cs_mh009_67a074be:
 
-    # sy "I know, and I really have to go run this errand..."
-    sy "I know, and I really have to go run this errand..."
+    # sy "Biliyorum ve gerçekten bu işi halletmem gerekiyor..."
+    sy "Biliyorum ve gerçekten bu işi halletmem gerekiyor..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:84
 translate turkish sm1cs_mh009_4723b184:
 
-    # sy "Well, tell Lyssa I said hi!"
-    sy "Well, tell Lyssa I said hi!"
+    # sy "Lyssa'ya merhaba dediğimi söyle!"
+    sy "Lyssa'ya merhaba dediğimi söyle!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:86
 translate turkish sm1cs_mh009_d82eab87:
 
-    # sy "And tell her I had an incredible time at the carnival the other night."
-    sy "And tell her I had an incredible time at the carnival the other night."
+    # sy "Ve ona geçen gece karnavalda harika vakit geçirdiğimi söyle."
+    sy "Ve ona geçen gece karnavalda harika vakit geçirdiğimi söyle."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:89
 translate turkish sm1cs_mh009_412bb0e3:
 
-    # mc "I will!"
-    mc "I will!"
+    # mc "Söylerim!"
+    mc "Söylerim!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:91
 translate turkish sm1cs_mh009_470fc5ef:
 
-    # sy "See you, [mcname]!"
-    sy "See you, [mcname]!"
+    # sy "Görüşürüz, [mcname]!"
+    sy "Görüşürüz, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:95
 translate turkish sm1cs_mh009_3e2c099f:
 
-    # mct "Hmmm.{w} Should I clean the studio?"
-    mct "Hmmm.{w} Should I clean the studio?"
+    # mct "Hmmm.{w} Stüdyoyu temizlemeli miyim?"
+    mct "Hmmm.{w} Stüdyoyu temizlemeli miyim?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:98
 translate turkish sm1cs_mh009_cf40dcb5:
 
-    # mct "Is it even messy?"
-    mct "Is it even messy?"
+    # mct "Dağınık bile mi?"
+    mct "Dağınık bile mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:99
 translate turkish sm1cs_mh009_73009b50:
 
-    # mct "Man, when was the last time I even thought about having to clean the studio..."
-    mct "Man, when was the last time I even thought about having to clean the studio..."
+    # mct "Dostum, en son ne zaman stüdyoyu temizlemeyi düşünmüştüm ki..."
+    mct "Dostum, en son ne zaman stüdyoyu temizlemeyi düşünmüştüm ki..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:104
 translate turkish sm1cs_mh009_7dbd14c3:
 
-    # mh "Your door is open, [mcname]."
-    mh "Your door is open, [mcname]."
+    # mh "Kapın açık, [mcname]."
+    mh "Kapın açık, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:108
 translate turkish sm1cs_mh009_c7d060b0:
 
-    # mc "Oh, well come on in! Because-"
-    mc "Oh, well come on in! Because-"
+    # mc "Oh, peki gel içeri! Çünkü-"
+    mc "Oh, peki gel içeri! Çünkü-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:111
 translate turkish sm1cs_mh009_a316a748:
 
-    # mh "[mcname], if you make one more vampire joke, I am going to walk right back out your door!"
-    mh "[mcname], if you make one more vampire joke, I am going to walk right back out your door!"
+    # mh "[mcname], bir tane daha vampir şakası yaparsan, kapından çıkıp gideceğim!"
+    mh "[mcname], bir tane daha vampir şakası yaparsan, kapından çıkıp gideceğim!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:113
 translate turkish sm1cs_mh009_9ca18dac:
 
-    # mc "I, uhm, wasn't going to make another vampire joke..."
-    mc "I, uhm, wasn't going to make another vampire joke..."
+    # mc "Ben, uhm, başka bir vampir şakası yapacak değildim..."
+    mc "Ben, uhm, başka bir vampir şakası yapacak değildim..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:114
 translate turkish sm1cs_mh009_c651eae7:
@@ -133,26 +133,26 @@ translate turkish sm1cs_mh009_c651eae7:
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:117
 translate turkish sm1cs_mh009_133c0517:
 
-    # mc "All right, guilty as charged."
-    mc "All right, guilty as charged."
+    # mc "Peki, suçlu olduğumu kabul ediyorum."
+    mc "Peki, suçlu olduğumu kabul ediyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:119
 translate turkish sm1cs_mh009_41a7e470:
 
-    # mh "Wow, a court joke. Even {i}more{/i} original."
-    mh "Wow, a court joke. Even {i}more{/i} original."
+    # mh "Vay, bir mahkeme şakası. {i}Daha da{/i} orijinal."
+    mh "Vay, bir mahkeme şakası. {i}Daha da{/i} orijinal."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:120
 translate turkish sm1cs_mh009_b57aae57:
 
-    # mc "Hey, I'm having a rough day. Not every joke I make can be gold!"
-    mc "Hey, I'm having a rough day. Not every joke I make can be gold!"
+    # mc "Hey, zor bir gün geçiriyorum. Yaptığım her şaka altın olamaz!"
+    mc "Hey, zor bir gün geçiriyorum. Yaptığım her şaka altın olamaz!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:123
 translate turkish sm1cs_mh009_ab8ea5e2:
 
-    # mh "Wow, you guys really upgraded your space."
-    mh "Wow, you guys really upgraded your space."
+    # mh "Vay, mekanınızı gerçekten geliştirmişsiniz."
+    mh "Vay, mekanınızı gerçekten geliştirmişsiniz."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:126
 translate turkish sm1cs_mh009_42e0c6db:
