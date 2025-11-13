@@ -638,529 +638,529 @@ translate turkish sm1fs_t007_bc232ad8:
 translate turkish sm1fs_t007_00b15866:
 
     # vs "*desperate* Father Lawrence, I can't marry him. I won't. I'd rather die!"
-    vs "*desperate* Father Lawrence, I can't marry him. I won't. I'd rather die!"
+    vs "*çaresiz* Peder Lawrence, onunla evlenemem. Evlenmeyeceğim. Ölmeyi tercih ederim!"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:368
 translate turkish sm1fs_t007_d3c9df4e:
 
     # tl "*calmly* Then perhaps...we arrange a death. A temporary one."
-    tl "*calmly* Then perhaps...we arrange a death. A temporary one."
+    tl "*sakin bir şekilde* O zaman belki...bir ölüm ayarlayalım. Geçici bir ölüm."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:371
 translate turkish sm1fs_t007_25e27a7a:
 
     # tl "Drink this tonight. You'll sleep as if dead for forty-two hours."
-    tl "Drink this tonight. You'll sleep as if dead for forty-two hours."
+    tl "Bu gece bunu iç. Kırk iki saat boyunca ölü gibi uyuyacaksın."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:372
 translate turkish sm1fs_t007_f4d31057:
 
     # tl "Your family will mourn. Romeo will come to retrieve you from the Winnebago."
-    tl "Your family will mourn. Romeo will come to retrieve you from the Winnebago."
+    tl "Ailen yas tutacak. Romeo seni Winnebago'dan almaya gelecek."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:374
 translate turkish sm1fs_t007_2dff58a2:
 
     # tl "And you'll wake in his arms, free."
-    tl "And you'll wake in his arms, free."
+    tl "Ve onun kollarında özgür bir şekilde uyanacaksın."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:377
 translate turkish sm1fs_t007_905c7d77:
 
     # vs "*takes vial, trembling* And if I wake alone?"
-    vs "*takes vial, trembling* And if I wake alone?"
+    vs "*şişeyi alır, titreyek* Peki ya yalnız uyanırsam?"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:380
 translate turkish sm1fs_t007_a0508d8f:
 
     # tl "Then we pray the text message gets through."
-    tl "Then we pray the text message gets through."
+    tl "O zaman mesajın iletilmesi için dua ederiz."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:383
 translate turkish sm1fs_t007_9a31fa36:
 
     # mct "Taisia's actually... really good."
-    mct "Taisia's actually... really good."
+    mct "Taisia aslında... gerçekten iyi."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:384
 translate turkish sm1fs_t007_a480ab5b:
 
     # mct "For a moment, I forgot she is the badass, badmouth troublemaker."
-    mct "For a moment, I forgot she is the badass, badmouth troublemaker."
+    mct "Bir an için, onun sert ağızlı baş belası biri olduğunu unuttum."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:413
 translate turkish sm1fs_t007_end_of_play_cf0df8f7:
 
     # nr "I never thought I'd cry about a story of love and tragedy..."
-    nr "I never thought I'd cry about a story of love and tragedy..."
+    nr "Aşk ve trajedi hikayesi için ağlayacağımı hiç düşünmemiştim..."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:414
 translate turkish sm1fs_t007_end_of_play_2058214b:
 
     # nr "And pizza and brats."
-    nr "And pizza and brats."
+    nr "Ve pizza ve bratwurst için."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:420
 translate turkish sm1fs_t007_end_of_play_7b4ec7bd:
 
     # "*audience clapping*"
-    "*audience clapping*"
+    "*seyirci alkışlıyor*"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:424
 translate turkish sm1fs_t007_end_of_play_abddac53:
 
     # dvh "Thank you. Thank you all for coming to our opening night."
-    dvh "Thank you. Thank you all for coming to our opening night."
+    dvh "Teşekkür ederim. Açılış gecemize geldiğiniz için hepinize teşekkür ederim."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:425
 translate turkish sm1fs_t007_end_of_play_3db850d2:
 
     # dvh "This production has been a labor of love—and occasionally rage—for all of us."
-    dvh "This production has been a labor of love—and occasionally rage—for all of us."
+    dvh "Bu prodüksiyon hepimiz için bir sevgi emeği oldu—ve bazen de öfke—."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:428
 translate turkish sm1fs_t007_end_of_play_2e2d4022:
 
     # dvh "This is our main show for the foreseeable future. So tell your friends,{w} tell your enemies,{w} tell anyone who enjoys Shakespeare, pizza, or bratwurst."
-    dvh "This is our main show for the foreseeable future. So tell your friends,{w} tell your enemies,{w} tell anyone who enjoys Shakespeare, pizza, or bratwurst."
+    dvh "Bu öngörülebilir gelecek için ana gösterimiz. Arkadaşlarınıza söyleyin,{w} düşmanlarınıza söyleyin,{w} Shakespeare, pizza veya bratwurst seven herkese söyleyin."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:430
 translate turkish sm1fs_t007_end_of_play_9ee3621f:
 
     # dvh "Good night."
-    dvh "Good night."
+    dvh "İyi geceler."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:441
 translate turkish sm1fs_t007_end_of_play_e4090963:
 
     # nr "[mcname]! There he is. Hell of a production."
-    nr "[mcname]! There he is. Hell of a production."
+    nr "[mcname]! İşte orada. Ne prodüksiyon ama."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:442
 translate turkish sm1fs_t007_end_of_play_dc31a85c:
 
     # nr "Really...uh...intense. *coughs*"
-    nr "Really...uh...intense. *coughs*"
+    nr "Gerçekten...uh...yoğun. *öksürür*"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:445
 translate turkish sm1fs_t007_end_of_play_7fd66ba0:
 
     # mc "Yeah, Denise doesn't halfass anything."
-    mc "Yeah, Denise doesn't halfass anything."
+    mc "Evet, Denise hiçbir şeyi yarım yamalak yapmaz."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:447
 translate turkish sm1fs_t007_end_of_play_fdfdad2e:
 
     # nr "*chuckles nervously* I'll say. A lot of death, though."
-    nr "*chuckles nervously* I'll say. A lot of death, though."
+    nr "*gergin bir şekilde güler* Söylerim. Yine de çok fazla ölüm var."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:449
 translate turkish sm1fs_t007_end_of_play_25a0d277:
 
     # nr "I mean, I knew it was Romeo and Juliet, but...damn. Everyone died."
-    nr "I mean, I knew it was Romeo and Juliet, but...damn. Everyone died."
+    nr "Yani, Romeo ve Juliet olduğunu biliyordum ama...lanet olsun. Herkes öldü."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:452
 translate turkish sm1fs_t007_end_of_play_66be811b:
 
     # ms "*deadpan* Only violence and sex sell these days, Nelson."
-    ms "*deadpan* Only violence and sex sell these days, Nelson."
+    ms "*soğukkanlı* Bu günlerde sadece şiddet ve seks satıyor, Nelson."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:453
 translate turkish sm1fs_t007_end_of_play_056738df:
 
     # ms "This had violence. If they'd added a sex scene, people wouldn't shut up about it for a month."
-    ms "This had violence. If they'd added a sex scene, people wouldn't shut up about it for a month."
+    ms "Bunda şiddet vardı. Eğer bir seks sahnesi ekleseydiler, insanlar bir ay boyunca bunu konuşmaktan vazgeçmezlerdi."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:456
 translate turkish sm1fs_t007_end_of_play_00719641:
 
     # ms "[mcname] knows a thing or two about what people like to see on screen."
-    ms "[mcname] knows a thing or two about what people like to see on screen."
+    ms "[mcname] insanların ekranda ne görmekten hoşlandığı hakkında bir şeyler biliyor."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:457
 translate turkish sm1fs_t007_end_of_play_3946ee4d:
 
     # ms "And on stage, I bet."
-    ms "And on stage, I bet."
+    ms "Ve sahnede de, bahse girerim."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:460
 translate turkish sm1fs_t007_end_of_play_00695813:
 
     # mct "Is she...hinting at the sorority thing?"
-    mct "Is she...hinting at the sorority thing?"
+    mct "O...kız kardeşlik olayına mı göndermede bulunuyor?"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:462
 translate turkish sm1fs_t007_end_of_play_299e077a:
 
     # nr "Anyway, pass on my thanks to the director and the team. Great work, kid."
-    nr "Anyway, pass on my thanks to the director and the team. Great work, kid."
+    nr "Her neyse, yönetmene ve ekibe teşekkürlerimi ilet. Harika iş, evlat."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:468
 translate turkish sm1fs_t007_end_of_play_53e479d6:
 
     # ms "*low, teasing* You look good in all black, by the way. Very... mysterious."
-    ms "*low, teasing* You look good in all black, by the way. Very... mysterious."
+    ms "*alçak sesle, alaycı* Bu arada tamamen siyah giyince iyi görünüyorsun. Çok... gizemli."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:470
 translate turkish sm1fs_t007_end_of_play_8dca17e6:
 
     # mct "...I cannot crack what is going on with her."
-    mct "...I cannot crack what is going on with her."
+    mct "...Onunla ne olduğunu çözemiyorum."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:476
 translate turkish sm1fs_t007_end_of_play_24e299a0:
 
     # sb "You did well tonight, [mcname]. Real good."
-    sb "You did well tonight, [mcname]. Real good."
+    sb "Bu gece iyi iş çıkardın, [mcname]. Gerçekten iyi."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:477
 translate turkish sm1fs_t007_end_of_play_b386760c:
 
     # sb "I can finish up here. You've earned your pay. Head home."
-    sb "I can finish up here. You've earned your pay. Head home."
+    sb "Burayı ben hallederim. Paranı kazandın. Eve git."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:480
 translate turkish sm1fs_t007_end_of_play_4b2ff4ca:
 
     # mc "You sure? I don't mind helping."
-    mc "You sure? I don't mind helping."
+    mc "Emin misin? Yardım etmekten çekinmem."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:482
 translate turkish sm1fs_t007_end_of_play_b88fa71c:
 
     # sb "*tiredly* I'm sure. Besides, Denise already signed off on your hours. Get out of here."
-    sb "*tiredly* I'm sure. Besides, Denise already signed off on your hours. Get out of here."
+    sb "*yorgun bir şekilde* Eminim. Ayrıca, Denise zaten saatlerini onayladı. Çık buradan."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:492
 translate turkish sm1fs_t007_end_of_play_ad5a9fe5:
 
     # tl "*hollers, voice echoing* Oi! Stagehand!"
-    tl "*hollers, voice echoing* Oi! Stagehand!"
+    tl "*bağırır, ses yankılanarak* Oi! Sahne görevlisi!"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:493
 translate turkish sm1fs_t007_end_of_play_2eb218bd:
 
     # tl "Get your ass over here!"
-    tl "Get your ass over here!"
+    tl "Kıçını buraya getir!"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:496
 translate turkish sm1fs_t007_end_of_play_bb13af59:
 
     # mc "Celebrating?"
-    mc "Celebrating?"
+    mc "Kutlama mı?"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:498
 translate turkish sm1fs_t007_end_of_play_5f90406a:
 
     # tl "Getting piss drunk. Same thing."
-    tl "Getting piss drunk. Same thing."
+    tl "Körkütük sarhoş oluyorum. Aynı şey."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:509
 translate turkish sm1fs_t007_end_of_play_52860dca:
 
     # mc "*coughs slightly* Strong."
-    mc "*coughs slightly* Strong."
+    mc "*hafifçe öksürür* Sert."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:512
 translate turkish sm1fs_t007_end_of_play_27ca62a4:
 
     # tl "Good for what ails you."
-    tl "Good for what ails you."
+    tl "Seni rahatsız eden şey için iyi."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:518
 translate turkish sm1fs_t007_end_of_play_04c43908:
 
     # mc "I'm good, thanks."
-    mc "I'm good, thanks."
+    mc "İyiyim, teşekkürler."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:521
 translate turkish sm1fs_t007_end_of_play_bcf44e50:
 
     # tl "Suit yourself."
-    tl "Suit yourself."
+    tl "Sen bilirsin."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:527
 translate turkish sm1fs_t007_end_of_play_e56e54e4:
 
     # tl "So. What'd you think? Honestly."
-    tl "So. What'd you think? Honestly."
+    tl "Ee. Ne düşündün? Dürüstçe."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:529
 translate turkish sm1fs_t007_end_of_play_f09d84cf:
 
     # mc "Of what?"
-    mc "Of what?"
+    mc "Neyi?"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:531
 translate turkish sm1fs_t007_end_of_play_697212dc:
 
     # tl "Oh, what? Of me, dummy!"
-    tl "Oh, what? Of me, dummy!"
+    tl "Oh, ne? Benim hakkımda, aptal!"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:537
 translate turkish sm1fs_t007_end_of_play_b9bc3df6:
 
     # mc "You were incredible. I couldn't take my eyes off you."
-    mc "You were incredible. I couldn't take my eyes off you."
+    mc "İnanılmazdın. Gözlerimi senden alamadım."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:540
 translate turkish sm1fs_t007_end_of_play_31c92b7b:
 
     # tl "*smirks* Yeah, well. I'm a professional."
-    tl "*smirks* Yeah, well. I'm a professional."
+    tl "*sırıtır* Evet, şey. Ben bir profesyonelim."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:541
 translate turkish sm1fs_t007_end_of_play_0cf0ab15:
 
     # tl "*quieter* But...thanks."
-    tl "*quieter* But...thanks."
+    tl "*daha sessiz* Ama...teşekkürler."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:547
 translate turkish sm1fs_t007_end_of_play_efd45618:
 
     # mc "You looked hot in that priest outfit."
-    mc "You looked hot in that priest outfit."
+    mc "O rahip kıyafetinde seksi görünüyordun."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:549
 translate turkish sm1fs_t007_end_of_play_49118625:
 
     # mc "Very \"forgive me, Father for I have sinned\" vibes."
-    mc "Very \"forgive me, Father for I have sinned\" vibes."
+    mc "Çok \"beni affet, Peder, çünkü günah işledim\" havası."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:552
 translate turkish sm1fs_t007_end_of_play_f8838055:
 
     # tl "*laughs* You're such a perv. But I can respect that."
-    tl "*laughs* You're such a perv. But I can respect that."
+    tl "*güler* Tam bir sapıksın. Ama buna saygı duyabilirim."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:554
 translate turkish sm1fs_t007_end_of_play_38d00472:
 
     # tl "Maybe I just gave you a new idea for a porno."
-    tl "Maybe I just gave you a new idea for a porno."
+    tl "Belki sana bir porno için yeni bir fikir verdim."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:555
 translate turkish sm1fs_t007_end_of_play_30627a01:
 
     # tl "If I did, I want a producer credit."
-    tl "If I did, I want a producer credit."
+    tl "Eğer verdimse, yapımcı kredisi istiyorum."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:558
 translate turkish sm1fs_t007_end_of_play_6a84ca0b:
 
     # mc "Haha. Sure."
-    mc "Haha. Sure."
+    mc "Haha. Elbette."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:563
 translate turkish sm1fs_t007_end_of_play_3936c042:
 
     # mc "It was solid. Everyone brought their A-game."
-    mc "It was solid. Everyone brought their A-game."
+    mc "Sağlamdı. Herkes en iyi oyununu ortaya koydu."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:566
 translate turkish sm1fs_t007_end_of_play_15bd9526:
 
     # tl "Damn right we did."
-    tl "Damn right we did."
+    tl "Kesinlikle öyle yaptık."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:570
 translate turkish sm1fs_t007_end_of_play_7339811c:
 
     # tl "You busted your ass tonight. Denise noticed. Bruce noticed."
-    tl "You busted your ass tonight. Denise noticed. Bruce noticed."
+    tl "Bu gece canını dişine taktın. Denise fark etti. Bruce fark etti."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:571
 translate turkish sm1fs_t007_end_of_play_1035f12c:
 
     # tl "That's good. You showed them you're not just some dipshit playing dress-up."
-    tl "That's good. You showed them you're not just some dipshit playing dress-up."
+    tl "Bu iyi. Onlara sadece kıyafet giyen bir aptal olmadığını gösterdin."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:574
 translate turkish sm1fs_t007_end_of_play_583dc057:
 
     # mc "High praise coming from you."
-    mc "High praise coming from you."
+    mc "Senden gelen büyük övgü."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:576
 translate turkish sm1fs_t007_end_of_play_1d09005b:
 
     # tl "*smirks* Don't let it go to your head."
-    tl "*smirks* Don't let it go to your head."
+    tl "*sırıtır* Kafana takma."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:578
 translate turkish sm1fs_t007_end_of_play_6deb0e26:
 
     # tl "But real talk? Theater's great for the resume and the \"craft\" or whatever."
-    tl "But real talk? Theater's great for the resume and the \"craft\" or whatever."
+    tl "Ama gerçekten? Tiyatro özgeçmiş ve \"sanat\" veya her neyse için harika."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:581
 translate turkish sm1fs_t007_end_of_play_aef06a19:
 
     # tl "But the real money—the fun money—is waiting for us back at the studio."
-    tl "But the real money—the fun money—is waiting for us back at the studio."
+    tl "Ama asıl para—eğlence parası—stüdyoda bizi bekliyor."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:584
 translate turkish sm1fs_t007_end_of_play_74befade:
 
     # mc "You know I'm not sitting around."
-    mc "You know I'm not sitting around."
+    mc "Oturup durmadığımı biliyorsun."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:585
 translate turkish sm1fs_t007_end_of_play_e918f50f:
 
     # mc "This pirate movie is going to be great."
-    mc "This pirate movie is going to be great."
+    mc "Bu korsan filmi harika olacak."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:588
 translate turkish sm1fs_t007_end_of_play_6962597f:
 
     # tl "I'm counting on it."
-    tl "I'm counting on it."
+    tl "Ona güveniyorum."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:589
 translate turkish sm1fs_t007_end_of_play_0d68b681:
 
     # tl "Counting on you too."
-    tl "Counting on you too."
+    tl "Sana da güveniyorum."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:593
 translate turkish sm1fs_t007_end_of_play_be7e94c1:
 
     # mc "I'm already working on another film. We've got momentum."
-    mc "I'm already working on another film. We've got momentum."
+    mc "Zaten başka bir film üzerinde çalışıyorum. Momentumumuz var."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:595
 translate turkish sm1fs_t007_end_of_play_046750eb:
 
     # tl "*perks up* Yeah? Good. Keep that shit rolling. I need another paycheck."
-    tl "*perks up* Yeah? Good. Keep that shit rolling. I need another paycheck."
+    tl "*canlanır* Gerçekten mi? Güzel. Devam et. Başka bir maaş çekine ihtiyacım var."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:598
 translate turkish sm1fs_t007_end_of_play_fee15124:
 
     # mc "Don't worry. As long as the films we've made start selling, you'll keep getting roles."
-    mc "Don't worry. As long as the films we've made start selling, you'll keep getting roles."
+    mc "Endişelenme. Yaptığımız filmler satmaya başladığı sürece, rol almaya devam edeceksin."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:599
 translate turkish sm1fs_t007_end_of_play_af5c7981:
 
     # mc "You're our star."
-    mc "You're our star."
+    mc "Sen bizim yıldızımızsın."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:602
 translate turkish sm1fs_t007_end_of_play_d8fbcd62:
 
     # tl "*raises bottle in toast* That's what I like to hear."
-    tl "*raises bottle in toast* That's what I like to hear."
+    tl "*şişeyi kadeh kaldırır gibi kaldırır* İşte duymak istediğim bu."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:605
 translate turkish sm1fs_t007_end_of_play_35982df5:
 
     # tl "I hope we can do films for a while. You and I."
-    tl "I hope we can do films for a while. You and I."
+    tl "Umarım bir süre film yapabiliriz. Sen ve ben."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:606
 translate turkish sm1fs_t007_end_of_play_3a29a9c6:
 
     # tl "Don't fuck it up."
-    tl "Don't fuck it up."
+    tl "Batırma."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:609
 translate turkish sm1fs_t007_end_of_play_d2517e73:
 
     # mc "We're working on it. Trust me."
-    mc "We're working on it. Trust me."
+    mc "Üzerinde çalışıyoruz. Bana güven."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:611
 translate turkish sm1fs_t007_end_of_play_97ef8027:
 
     # tl "Uh-huh. Just don't leave me hanging. I like eating regularly."
-    tl "Uh-huh. Just don't leave me hanging. I like eating regularly."
+    tl "Uh-huh. Sadece beni askıda bırakma. Düzenli yemek yemeyi seviyorum."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:615
 translate turkish sm1fs_t007_end_of_play_f0a930ad:
 
     # tl "Alright. I'm out. Later, loser."
-    tl "Alright. I'm out. Later, loser."
+    tl "Tamam. Ben gidiyorum. Sonra görüşürüz, ezik."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:617
 translate turkish sm1fs_t007_end_of_play_0419d335:
 
     # mc "Later."
-    mc "Later."
+    mc "Sonra görüşürüz."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:628
 translate turkish sm1fs_t007_end_of_play_732cb624:
 
     # mct "How cool would it be if I ever showed one of my films on the big screen?"
-    mct "How cool would it be if I ever showed one of my films on the big screen?"
+    mct "Filmlerimden birini büyük ekranda gösterirsem ne kadar havalı olurdu?"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:629
 translate turkish sm1fs_t007_end_of_play_bee6973b:
 
     # mct "A whole theater full of people who come to see my ideas."
-    mct "A whole theater full of people who come to see my ideas."
+    mct "Fikirlerimi görmek için gelen insanlarla dolu bir tiyatro."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:630
 translate turkish sm1fs_t007_end_of_play_02972fa6:
 
     # mct "Well, Stacy and my ideas."
-    mct "Well, Stacy and my ideas."
+    mct "Şey, Stacy ve benim fikirlerimiz."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:633
 translate turkish sm1fs_t007_end_of_play_b7b0d4ab:
 
     # mct "I'm sure she wouldn't mind."
-    mct "I'm sure she wouldn't mind."
+    mct "Eminim o aldırmazdı."
 
 translate turkish strings:
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:47
     old "I'm a little nervous, yeah"
-    new "I'm a little nervous, yeah"
+    new "Biraz gerginim, evet"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:47
     old "I'm terrified"
-    new "I'm terrified"
+    new "Korkuyorum"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:47
     old "You're going to kill it"
-    new "You're going to kill it"
+    new "Sen harika olacaksın"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:143
     old "After fixing the light"
-    new "After fixing the light"
+    new "Işığı tamir ettikten sonra"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:167
     old "Stay professional"
-    new "Stay professional"
+    new "Profesyonel kal"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:167
     old "Give her breast a squeeze"
-    new "Give her breast a squeeze"
+    new "Göğsünü sık"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:395
     old "At the end of the play"
-    new "At the end of the play"
+    new "Oyunun sonunda"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:501
     old "Take a drink"
-    new "Take a drink"
+    new "Bir yudum al"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:501
     old "Politely decline"
-    new "Politely decline"
+    new "Kibarca reddet"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:532
     old "You were incredible"
-    new "You were incredible"
+    new "İnanılmazdın"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:532
     old "You looked hot in that outfit"
-    new "You looked hot in that outfit"
+    new "O kıyafette seksi görünüyordun"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:532
     old "It was solid"
-    new "It was solid"
+    new "Sağlamdı"
 
