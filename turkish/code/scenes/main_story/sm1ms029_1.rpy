@@ -1370,7 +1370,7 @@ translate turkish sm1ms029_talk_tl_mes_39813757:
 translate turkish sm1ms029_talk_tl_mes_f0dae7e6:
 
     # tl "And Min is a bad ass. Bad ass women need to stick together."
-    tl "And Min is a bad ass. Bad ass women need to stick together."
+    tl "Ve Min havalı biri. Havalı kadınlar birlikte durmalı."
 
 # game/code/scenes/main_story/sm1ms029.rpy:667
 translate turkish sm1ms029_talk_tl_mes_b73a7d06:
@@ -1382,79 +1382,79 @@ translate turkish sm1ms029_talk_tl_mes_b73a7d06:
 translate turkish sm1ms029_talk_tl_mes_1b400966:
 
     # tl "What?"
-    tl "What?"
+    tl "Ne?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:670
 translate turkish sm1ms029_talk_tl_mes_a74166dd:
 
     # mes "It's just... I don't think I get called \"bad ass\" usually."
-    mes "It's just... I don't think I get called \"bad ass\" usually."
+    mes "Sadece... genellikle bana \"havalı\" dendiğini sanmıyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:671
 translate turkish sm1ms029_talk_tl_mes_76ee5436:
 
     # mes "In my culture it's \"powerful\" or \"goal oriented\"."
-    mes "In my culture it's \"powerful\" or \"goal oriented\"."
+    mes "Benim kültürümde \"güçlü\" veya \"hedefe odakl\" deniyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:672
 translate turkish sm1ms029_talk_tl_mes_b783a969:
 
     # mes "And that assholes usually just call it \"bitchy\"."
-    mes "And that assholes usually just call it \"bitchy\"."
+    mes "Ve pislikler genellikle buna \"huysuz\" diyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:675
 translate turkish sm1ms029_talk_tl_mes_265fa68f:
 
     # tl "I get it. I've been called a bitch more than once in my life."
-    tl "I get it. I've been called a bitch more than once in my life."
+    tl "Anlıyorum. Hayatımda birden fazla kez bana kaltak denildi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:678
 translate turkish sm1ms029_talk_tl_mes_355ea2cb:
 
     # mes "Well, that's because you're a bad ass."
-    mes "Well, that's because you're a bad ass."
+    mes "Şey, bu senin havalı olduğun için."
 
 # game/code/scenes/main_story/sm1ms029.rpy:680
 translate turkish sm1ms029_talk_tl_mes_771e210f:
 
     # tl "Thank you, Min."
-    tl "Thank you, Min."
+    tl "Teşekkürler, Min."
 
 # game/code/scenes/main_story/sm1ms029.rpy:682
 translate turkish sm1ms029_talk_tl_mes_8bd5b851:
 
     # mes "And we bad asses have to stick together!"
-    mes "And we bad asses have to stick together!"
+    mes "Ve biz havalılar birlikte durmalıyız!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:683
 translate turkish sm1ms029_talk_tl_mes_e926ff8a:
 
     # tl "Damn straight."
-    tl "Damn straight."
+    tl "Kesinlikle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:686
 translate turkish sm1ms029_talk_tl_mes_b09c0c4f:
 
     # mct "Huh... this was not the friendship I expected."
-    mct "Huh... this was not the friendship I expected."
+    mct "Huh... bu beklediğim arkadaşlık değildi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:687
 translate turkish sm1ms029_talk_tl_mes_363cb119:
 
     # mct "But, this is good! I'm happy they can see eye to eye."
-    mct "But, this is good! I'm happy they can see eye to eye."
+    mct "Ama bu iyi! Anlaşabilmelerine sevindim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:690
 translate turkish sm1ms029_talk_tl_mes_22142562:
 
     # mct "Now... let's make my exit, without disturbing them."
-    mct "Now... let's make my exit, without disturbing them."
+    mct "Şimdi... onları rahatsız etmeden çıkışımı yapayım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:691
 translate turkish sm1ms029_talk_tl_mes_7545b72e:
 
     # mct "I don't need to be ripped to shreds a second time..."
-    mct "I don't need to be ripped to shreds a second time..."
+    mct "İkinci kez parça parça edilmeye ihtiyacım yok..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:702
 translate turkish sm1ms029_talk_mes_ns_3dc038a1:
@@ -1484,7 +1484,7 @@ translate turkish sm1ms029_talk_mes_ns_bd55fdb3:
 translate turkish sm1ms029_talk_mes_ns_ee6bc3d3:
 
     # mc "You two seem to be getting along well!"
-    mc "You two seem to be getting along well!"
+    mc "İkiniz iyi anlaşıyor gibisiniz!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:711
 translate turkish sm1ms029_talk_mes_ns_a072c855:
@@ -1496,13 +1496,13 @@ translate turkish sm1ms029_talk_mes_ns_a072c855:
 translate turkish sm1ms029_talk_mes_ns_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Ha?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:715
 translate turkish sm1ms029_talk_mes_ns_5bca477e:
 
     # ns "Oh, I'm sorry, [mcname]!"
-    ns "Oh, I'm sorry, [mcname]!"
+    ns "Oh, özür dilerim, [mcname]!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:716
 translate turkish sm1ms029_talk_mes_ns_056d0bd3:
@@ -1514,67 +1514,67 @@ translate turkish sm1ms029_talk_mes_ns_056d0bd3:
 translate turkish sm1ms029_talk_mes_ns_55e00494:
 
     # mes "It's a struggle to switch between your mother tongue and your second language sometimes."
-    mes "It's a struggle to switch between your mother tongue and your second language sometimes."
+    mes "Bazen ana dili ve ikinci dil arasında geçiş yapmak zor oluyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:720
 translate turkish sm1ms029_talk_mes_ns_97885c81:
 
     # mes "Especially when you don't get to practice very often."
-    mes "Especially when you don't get to practice very often."
+    mes "Özellikle çok sık pratik yapamadığında."
 
 # game/code/scenes/main_story/sm1ms029.rpy:723
 translate turkish sm1ms029_talk_mes_ns_6921a067:
 
     # mc "Well, I'm happy that you both get to practice then!"
-    mc "Well, I'm happy that you both get to practice then!"
+    mc "Şey, ikinizin de pratik yapabilmesine sevindim!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:724
 translate turkish sm1ms029_talk_mes_ns_764f0431:
 
     # ns "I am too!"
-    ns "I am too!"
+    ns "Ben de!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:727
 translate turkish sm1ms029_talk_mes_ns_1f91321b:
 
     # ns "It's so wonderful to be able to talk to someone who's also been to Seoul!"
-    ns "It's so wonderful to be able to talk to someone who's also been to Seoul!"
+    ns "Seul'e gitmiş biriyle konuşabilmek çok harika!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:728
 translate turkish sm1ms029_talk_mes_ns_05738eb0:
 
     # mes "It is pretty nice."
-    mes "It is pretty nice."
+    mes "Oldukça güzel."
 
 # game/code/scenes/main_story/sm1ms029.rpy:731
 translate turkish sm1ms029_talk_mes_ns_2d051cd4:
 
     # mc "I'll have to visit it some day!"
-    mc "I'll have to visit it some day!"
+    mc "Bir gün oraya gitmem gerekecek!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:732
 translate turkish sm1ms029_talk_mes_ns_2857d008:
 
     # ns "Oh, you absolutely must! There are so many good places to eat!"
-    ns "Oh, you absolutely must! There are so many good places to eat!"
+    ns "Oh, kesinlikle gitmelisin! Yemek yenecek çok güzel yerler var!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:733
 translate turkish sm1ms029_talk_mes_ns_fea01c58:
 
     # ns "And to visit!"
-    ns "And to visit!"
+    ns "Ve gezilecek!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:736
 translate turkish sm1ms029_talk_mes_ns_ffa63963:
 
     # ns "Oh, oh, like a good Korean hot dog!"
-    ns "Oh, oh, like a good Korean hot dog!"
+    ns "Oh, oh, iyi bir Kore sosisli sandviçi gibi!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:738
 translate turkish sm1ms029_talk_mes_ns_277797c1:
 
     # ns "Or boba! Like, {i}real{/i} boba tea!"
-    ns "Or boba! Like, {i}real{/i} boba tea!"
+    ns "Ya da boba! Yani, {i}gerçek{/i} boba çayı!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:739
 translate turkish sm1ms029_talk_mes_ns_9de3e2e4:
@@ -1586,109 +1586,109 @@ translate turkish sm1ms029_talk_mes_ns_9de3e2e4:
 translate turkish sm1ms029_talk_mes_ns_4124673d:
 
     # mes "Don't tease him with food he can't have, Nari."
-    mes "Don't tease him with food he can't have, Nari."
+    mes "Onu yiyemeyeceği yemeklerle kandırma, Nari."
 
 # game/code/scenes/main_story/sm1ms029.rpy:743
 translate turkish sm1ms029_talk_mes_ns_4e108bdd:
 
     # ns "Oh, but it's so good! Oh, my mouth is watering just thinking about it!"
-    ns "Oh, but it's so good! Oh, my mouth is watering just thinking about it!"
+    ns "Oh, ama çok iyi! Oh, düşününce ağzım sulanıyor!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:746
 translate turkish sm1ms029_talk_mes_ns_ed88b19f:
 
     # mes "She's just an excitable one, isn't she?"
-    mes "She's just an excitable one, isn't she?"
+    mes "O sadece heyecanlı biri, değil mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:747
 translate turkish sm1ms029_talk_mes_ns_ae746b29:
 
     # mc "Oh, she absolutely does."
-    mc "Oh, she absolutely does."
+    mc "Oh, kesinlikle öyle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:749
 translate turkish sm1ms029_talk_mes_ns_f246ec81:
 
     # mes "But she's also a lot of fun."
-    mes "But she's also a lot of fun."
+    mes "Ama aynı zamanda çok eğlenceli."
 
 # game/code/scenes/main_story/sm1ms029.rpy:750
 translate turkish sm1ms029_talk_mes_ns_8d42590c:
 
     # mc "Yes, yes she is."
-    mc "Yes, yes she is."
+    mc "Evet, evet öyle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:753
 translate turkish sm1ms029_talk_mes_ns_a1c8e8bb:
 
     # mes "I do like speaking Korean, that is a nice pleasantry of missed."
-    mes "I do like speaking Korean, that is a nice pleasantry of missed."
+    mes "Korece konuşmayı seviyorum, özlediğim güzel bir şey."
 
 # game/code/scenes/main_story/sm1ms029.rpy:754
 translate turkish sm1ms029_talk_mes_ns_83f3d709:
 
     # mc "I can imagine."
-    mc "I can imagine."
+    mc "Hayal edebiliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:757
 translate turkish sm1ms029_talk_mes_ns_7b7e6fb3:
 
     # mes "And to just have someone around who understands what growing up in Korea was like."
-    mes "And to just have someone around who understands what growing up in Korea was like."
+    mes "Ve Kore'de büyümenin nasıl olduğunu anlayan birinin yanında olması."
 
 # game/code/scenes/main_story/sm1ms029.rpy:758
 translate turkish sm1ms029_talk_mes_ns_bdaf1c4c:
 
     # mc "Yeah... I can imagine that's comforting."
-    mc "Yeah... I can imagine that's comforting."
+    mc "Evet... bunun rahatlatıcı olduğunu hayal edebiliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:759
 translate turkish sm1ms029_talk_mes_ns_9ef95c11:
 
     # mct "And I'm realizing that I've never really asked her about her life before Crowning..."
-    mct "And I'm realizing that I've never really asked her about her life before Crowning..."
+    mct "Ve Crowning'den önceki hayatı hakkında ona hiç sormadığımı fark ediyorum..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:762
 translate turkish sm1ms029_talk_mes_ns_b237c65c:
 
     # mct "Maybe I should do that sometime... get to know Min better."
-    mct "Maybe I should do that sometime... get to know Min better."
+    mct "Belki bunu bir ara yapmalıyım... Min'i daha iyi tanımalıyım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:764
 translate turkish sm1ms029_talk_mes_ns_f2dbd6c7:
 
     # mes "I'll keep an eye on her tonight, promise."
-    mes "I'll keep an eye on her tonight, promise."
+    mes "Bu gece ona göz kulak olacağım, söz veriyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:765
 translate turkish sm1ms029_talk_mes_ns_d1579dea:
 
     # mc "Thank you, Min."
-    mc "Thank you, Min."
+    mc "Teşekkürler, Min."
 
 # game/code/scenes/main_story/sm1ms029.rpy:768
 translate turkish sm1ms029_talk_mes_ns_a2d1ea75:
 
     # mc "She does need a supervisor>"
-    mc "She does need a supervisor>"
+    mc "Bir gözetmene ihtiyacı var>"
 
 # game/code/scenes/main_story/sm1ms029.rpy:769
 translate turkish sm1ms029_talk_mes_ns_4ab9b3f2:
 
     # mes "Hehehe, I believe that."
-    mes "Hehehe, I believe that."
+    mes "Hehehe, buna inanıyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:772
 translate turkish sm1ms029_talk_mes_ns_654f2de5:
 
     # mc "I hope you both enjoy the show later."
-    mc "I hope you both enjoy the show later."
+    mc "Umarım ikiniz de daha sonra gösteriyi beğenirsiniz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:773
 translate turkish sm1ms029_talk_mes_ns_3bee4600:
 
     # ns "Oh, we will!"
-    ns "Oh, we will!"
+    ns "Oh, beğeneceğiz!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:775
 translate turkish sm1ms029_talk_mes_ns_4d2952fd:
