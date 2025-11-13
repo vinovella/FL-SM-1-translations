@@ -158,193 +158,193 @@ translate turkish sm1cs_mh009_ab8ea5e2:
 translate turkish sm1cs_mh009_42e0c6db:
 
     # mc "Yeah! Sorry, I got distracted by jokes. Let me give you the nickel tour!"
-    mc "Yeah! Sorry, I got distracted by jokes. Let me give you the nickel tour!"
+    mc "Evet! Üzgünüm, şakalarla dikkatin dağıttım. Sana kısa bir tur attırayım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:133
 translate turkish sm1cs_mh009_ed4845f7:
 
     # mc "Here's the kitchen."
-    mc "Here's the kitchen."
+    mc "İşte mutfak."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:136
 translate turkish sm1cs_mh009_f2b0a71d:
 
     # mh "Not much different here."
-    mh "Not much different here."
+    mh "Burada pek bir fark yok."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:138
 translate turkish sm1cs_mh009_814eb658:
 
     # mc "Yeah, we both thought we had a decent kitchen. Why fix what isn't broke?"
-    mc "Yeah, we both thought we had a decent kitchen. Why fix what isn't broke?"
+    mc "Evet, ikimiz de iyi bir mutfağımız olduğunu düşündük. Bozulmamışsa neden tamir edelim?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:145
 translate turkish sm1cs_mh009_b9ae7ac7:
 
     # mc "But we got a new TV to watch the edits in fullscreen!"
-    mc "But we got a new TV to watch the edits in fullscreen!"
+    mc "Ama düzenlemeleri tam ekranda izlemek için yeni bir TV aldık!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:147
 translate turkish sm1cs_mh009_32c6c192:
 
     # mh "And the fact that it's a tax write-off had nothing to do with buying it?"
-    mh "And the fact that it's a tax write-off had nothing to do with buying it?"
+    mh "Peki vergi indirimi olması satın almanla hiç mi alakası yok?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:150
 translate turkish sm1cs_mh009_b549cbdf:
 
     # mc "Uhm... nope. Nope, nope, nope!"
-    mc "Uhm... nope. Nope, nope, nope!"
+    mc "Uhm... hayır. Hayır, hayır, hayır!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:157
 translate turkish sm1cs_mh009_e5394d17:
 
     # mc "Here is where we do some of our test shoots, sometimes when we need a small set, we can build it here-"
-    mc "Here is where we do some of our test shoots, sometimes when we need a small set, we can build it here-"
+    mc "Burası bazı test çekimlerini yaptığımız yer, bazen küçük bir set gerektiğinde burada inşa edebiliyoruz-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:159
 translate turkish sm1cs_mh009_00f6bdb9:
 
     # mh "You're building sets?"
-    mh "You're building sets?"
+    mh "Set inşa mı ediyorsunuz?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:160
 translate turkish sm1cs_mh009_4801012c:
 
     # mc "Sometimes. Really just depends on the shoot."
-    mc "Sometimes. Really just depends on the shoot."
+    mc "Bazen. Gerçekten çekime bağlı."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:163
 translate turkish sm1cs_mh009_9a7ce323:
 
     # mh "I didn't know you were so handy."
-    mh "I didn't know you were so handy."
+    mh "Bu kadar becerikli olduğunu bilmiyordum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:165
 translate turkish sm1cs_mh009_b90d6db5:
 
     # mc "Oh, I do my best.{w} But that's most everything down here."
-    mc "Oh, I do my best.{w} But that's most everything down here."
+    mc "Oh, elimden geleni yapıyorum.{w} Ama aşağıda olan her şey bu kadar."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:170
 translate turkish sm1cs_mh009_a41c3134:
 
     # mc "We've tried to reserve the downstairs for business as much as possible."
-    mc "We've tried to reserve the downstairs for business as much as possible."
+    mc "Alt katı mümkün olduğunca iş için ayırmaya çalıştık."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:172
 translate turkish sm1cs_mh009_5e3c3f48:
 
     # mh "I totally missed the stairs! You can finally get up there?"
-    mh "I totally missed the stairs! You can finally get up there?"
+    mh "Merdivenleri tamamen kaçırmışım! Sonunda oraya çıkabiliyorsunuz?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:173
 translate turkish sm1cs_mh009_d55ae269:
 
     # mc "Yep!"
-    mc "Yep!"
+    mc "Evet!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:178
 translate turkish sm1cs_mh009_8e1f2385:
 
     # mc "We moved our bed upstairs, and you know... got some better sheets and stuff."
-    mc "We moved our bed upstairs, and you know... got some better sheets and stuff."
+    mc "Yatağımızı üst kata taşıdık ve bilirsin... daha iyi çarşaflar falan aldık."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:180
 translate turkish sm1cs_mh009_88e4573a:
 
     # mh "I see that."
-    mh "I see that."
+    mh "Görüyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:185
 translate turkish sm1cs_mh009_ec068f35:
 
     # mh "And I see you've redecorated a little bit."
-    mh "And I see you've redecorated a little bit."
+    mh "Ve biraz yeniden dekore ettiğinizi görüyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:187
 translate turkish sm1cs_mh009_1b60516a:
 
     # mc "Yeah, we figured we needed to put something on the walls, and we figured we should do something on brand for a porn studio."
-    mc "Yeah, we figured we needed to put something on the walls, and we figured we should do something on brand for a porn studio."
+    mc "Evet, duvarlara bir şeyler koymamız gerektiğini düşündük ve bir porno stüdyosu için markaya uygun bir şeyler yapmalıyız diye düşündük."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:188
 translate turkish sm1cs_mh009_3b8ad517:
 
     # mh "They are definitely the right look for a porn studio, I'll give you that."
-    mh "They are definitely the right look for a porn studio, I'll give you that."
+    mh "Kesinlikle bir porno stüdyosu için doğru görünüm, bunu kabul ediyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:193
 translate turkish sm1cs_mh009_0d7d47b3:
 
     # mc "And we have a little editing slash hang out area, and a few extra rooms!"
-    mc "And we have a little editing slash hang out area, and a few extra rooms!"
+    mc "Ve küçük bir kurgu / takılma alanımız ve birkaç ekstra odamız var!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:195
 translate turkish sm1cs_mh009_a67a6f2c:
 
     # mh "What are you using the extra rooms for?"
-    mh "What are you using the extra rooms for?"
+    mh "Ekstra odaları ne için kullanıyorsunuz?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:199
 translate turkish sm1cs_mh009_a62f83a8:
 
     # mc "I've actually rented some of them to some of our actresses. They needed a place to rent and I've got all this space. So I figured, why not?"
-    mc "I've actually rented some of them to some of our actresses. They needed a place to rent and I've got all this space. So I figured, why not?"
+    mc "Aslında bazılarını aktrislerimizden bazılarına kiraladım. Kiralayacak bir yere ihtiyaçları vardı ve benim tüm bu alanım var. Bu yüzden neden olmasın diye düşündüm?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:201
 translate turkish sm1cs_mh009_10c29e96:
 
     # mc "I've been thinking about maybe renting them out... a few of the actresses we work with might need a place to stay, or rent, or whatever."
-    mc "I've been thinking about maybe renting them out... a few of the actresses we work with might need a place to stay, or rent, or whatever."
+    mc "Belki onları kiraya vermeyi düşünüyorum... birlikte çalıştığımız aktrislerden birkaçının kalacak ya da kiralayacak bir yere ihtiyacı olabilir."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:204
 translate turkish sm1cs_mh009_4e016f97:
 
     # mh "Well, being a landlord, and a lawyer, if you want someone to look over your rent agreement, I would be happy to do that."
-    mh "Well, being a landlord, and a lawyer, if you want someone to look over your rent agreement, I would be happy to do that."
+    mh "Ev sahibi olmak ve avukat olmak, kira sözleşmene bakmak için birini istersen bunu yapmaktan mutlu olurum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:206
 translate turkish sm1cs_mh009_6d07863a:
 
     # mct "Huh... maybe I should make a rent contract..."
-    mct "Huh... maybe I should make a rent contract..."
+    mct "Huh... belki bir kira sözleşmesi yapmalıyım..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:209
 translate turkish sm1cs_mh009_26a0422a:
 
     # mc "Awesome, I'll keep that in mind, Lyssa."
-    mc "Awesome, I'll keep that in mind, Lyssa."
+    mc "Harika, bunu aklımda tutacağım, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:212
 translate turkish sm1cs_mh009_abdabcaa:
 
     # mh "But, it's pretty smart to rent out your extra space, [mcname]."
-    mh "But, it's pretty smart to rent out your extra space, [mcname]."
+    mh "Ama fazladan alanını kiraya vermek oldukça akıllıca, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:214
 translate turkish sm1cs_mh009_10dee4ef:
 
     # mc "You think so?"
-    mc "You think so?"
+    mc "Öyle mi düşünüyorsun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:216
 translate turkish sm1cs_mh009_b8cb455f:
 
     # mh "Yeah. Help offset starting up a business any way you can. Write-offs, breaks on rent - every small business needs every penny they can save."
-    mh "Yeah. Help offset starting up a business any way you can. Write-offs, breaks on rent - every small business needs every penny they can save."
+    mh "Evet. Bir iş kurmanın maliyetini yapabildiğin her şekilde azaltmaya yardımcı ol. Vergi indirimleri, kira indirimleri - her küçük işletme tasarruf edebileceği her kuruşa ihtiyaç duyar."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:219
 translate turkish sm1cs_mh009_1dc71ef0:
 
     # mc "Why, thank you, Lyssa."
-    mc "Why, thank you, Lyssa."
+    mc "Teşekkür ederim, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:220
 translate turkish sm1cs_mh009_0b1558b3:
 
     # mc "Would uh, you want a water, or coffee?"
-    mc "Would uh, you want a water, or coffee?"
+    mc "Uhm, su ya da kahve ister misin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:222
 translate turkish sm1cs_mh009_290063ca:
@@ -356,19 +356,19 @@ translate turkish sm1cs_mh009_290063ca:
 translate turkish sm1cs_mh009_583f83b6:
 
     # mc "Here you go, Lyssa."
-    mc "Here you go, Lyssa."
+    mc "Buyur, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:238
 translate turkish sm1cs_mh009_0236ebb2:
 
     # mh "Is that where you interview your new actresses?"
-    mh "Is that where you interview your new actresses?"
+    mh "Yeni aktrislerinle görüşme yaptığın yer burası mı?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:240
 translate turkish sm1cs_mh009_716608a8:
 
     # mc "Uh, maybe in the future. I've usually just done it sitting on the couch."
-    mc "Uh, maybe in the future. I've usually just done it sitting on the couch."
+    mc "Uh, belki gelecekte. Genellikle kanepede oturarak yapıyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:241
 translate turkish sm1cs_mh009_9ba07595:
@@ -380,31 +380,31 @@ translate turkish sm1cs_mh009_9ba07595:
 translate turkish sm1cs_mh009_b2f49166:
 
     # mh "This couch?"
-    mh "This couch?"
+    mh "Bu kanepe mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:247
 translate turkish sm1cs_mh009_f7ed1ce0:
 
     # mc "Uhm, yep. That's the one."
-    mc "Uhm, yep. That's the one."
+    mc "Uhm, evet. Tam da bu."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:251
 translate turkish sm1cs_mh009_93a021fd:
 
     # mh "Hmmmm...{w} Fascinating."
-    mh "Hmmmm...{w} Fascinating."
+    mh "Hmmmm...{w} İlginç."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:252
 translate turkish sm1cs_mh009_b01488c7:
 
     # mh "And what's the interview like?"
-    mh "And what's the interview like?"
+    mh "Peki görüşme nasıl oluyor?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:256
 translate turkish sm1cs_mh009_a669d15e:
 
     # mc "What do you mean? Like... I just ask questions, I guess?"
-    mc "What do you mean? Like... I just ask questions, I guess?"
+    mc "Ne demek istiyorsun? Yani... sadece sorular soruyorum, sanırım?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:258
 translate turkish sm1cs_mh009_d344fc72:
@@ -416,49 +416,49 @@ translate turkish sm1cs_mh009_d344fc72:
 translate turkish sm1cs_mh009_afc0ab36:
 
     # mh "Well, I'm definitely curious."
-    mh "Well, I'm definitely curious."
+    mh "Kesinlikle merak ediyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:264
 translate turkish sm1cs_mh009_249780e4:
 
     # mc "Curious about?"
-    mc "Curious about?"
+    mc "Neyi merak ediyorsun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:267
 translate turkish sm1cs_mh009_24d91849:
 
     # mh "This \"interview\", how you get your actresses, the whole process of going from a woman you know to someone you're fucking on camera."
-    mh "This \"interview\", how you get your actresses, the whole process of going from a woman you know to someone you're fucking on camera."
+    mh "Bu \"görüşme\"yi, aktrislerini nasıl bulduğunu, tanıdığın bir kadından kamerada siktiğin birine dönüşme sürecini."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:269
 translate turkish sm1cs_mh009_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "Gerçekten mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:272
 translate turkish sm1cs_mh009_d4d43f3a:
 
     # mh "Yes. There's something about the whole thing just feels so..."
-    mh "Yes. There's something about the whole thing just feels so..."
+    mh "Evet. Tüm bunun hakkında bir şey var ki çok hissettiriyor..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:273
 translate turkish sm1cs_mh009_8d74ee2a:
 
     # mh "Feels so submissive to me. And I can't help but be a little excited by the concept."
-    mh "Feels so submissive to me. And I can't help but be a little excited by the concept."
+    mh "Bana karşı çok itaatkâr hissettiriyor. Ve bu kavramdan biraz heyecanlanmaktan kendimi alamıyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:275
 translate turkish sm1cs_mh009_51e52cc6:
 
     # mc "Well, I can answer any questions you might have!"
-    mc "Well, I can answer any questions you might have!"
+    mc "Aklındaki tüm soruları yanıtlayabilirim!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:278
 translate turkish sm1cs_mh009_35f0e137:
 
     # mh "No."
-    mh "No."
+    mh "Hayır."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:280
 translate turkish sm1cs_mh009_0231d07a:
@@ -470,67 +470,67 @@ translate turkish sm1cs_mh009_0231d07a:
 translate turkish sm1cs_mh009_ad9d879d:
 
     # mh "I want you to {b}show{/b} me, [mcname]."
-    mh "I want you to {b}show{/b} me, [mcname]."
+    mh "Bana {b}göstermeni{/b} istiyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:286
 translate turkish sm1cs_mh009_30bca0bc:
 
     # mc "You want me to... show you?"
-    mc "You want me to... show you?"
+    mc "Sana... göstermemi mi istiyorsun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:289
 translate turkish sm1cs_mh009_32acb959:
 
     # mh "Yes."
-    mh "Yes."
+    mh "Evet."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:291
 translate turkish sm1cs_mh009_f781764f:
 
     # mc "But I thought... that you didn't approve of this?"
-    mc "But I thought... that you didn't approve of this?"
+    mc "Ama sanıyordum ki... bunu onaylamıyordun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:294
 translate turkish sm1cs_mh009_2dda7433:
 
     # mh "I... I'm conflicted. Because, you're correct. But..."
-    mh "I... I'm conflicted. Because, you're correct. But..."
+    mh "Ben... İçimde çelişkiler var. Çünkü haklısın. Ama..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:295
 translate turkish sm1cs_mh009_d2220f3e:
 
     # mh "I have always been a woman interested in process and results. And this is another process with fascinating results."
-    mh "I have always been a woman interested in process and results. And this is another process with fascinating results."
+    mh "Her zaman süreç ve sonuçlarla ilgilenen bir kadın oldum. Ve bu ilginç sonuçlara sahip başka bir süreç."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:296
 translate turkish sm1cs_mh009_e13e66b7:
 
     # mh "And... I do find myself thinking about the level of honesty and... submission, in a role like this."
-    mh "And... I do find myself thinking about the level of honesty and... submission, in a role like this."
+    mh "Ve... böyle bir roldeki dürüstlük ve... itaat seviyesi hakkında düşünürken buluyorum kendimi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:297
 translate turkish sm1cs_mh009_4fb44de1:
 
     # mh "I can't help but feel a bit hungry..{w} to know more about how it works..."
-    mh "I can't help but feel a bit hungry..{w} to know more about how it works..."
+    mh "Biraz aç hissetmekten kendimi alamıyorum..{w} nasıl çalıştığı hakkında daha fazla bilmek için..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:300
 translate turkish sm1cs_mh009_f78e912e:
 
     # mh "And seeing all of the effort you're putting in, and all of the energy and effort to make this dream of yours a reality..."
-    mh "And seeing all of the effort you're putting in, and all of the energy and effort to make this dream of yours a reality..."
+    mh "Ve harcadığın tüm çabayı ve bu hayalini gerçeğe dönüştürmek için gösterdiğin tüm enerji ve çabayı görmek..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:301
 translate turkish sm1cs_mh009_b3b196b8:
 
     # mh "I know you care, [mcname]."
-    mh "I know you care, [mcname]."
+    mh "Umursadığını biliyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:302
 translate turkish sm1cs_mh009_302a7d28:
 
     # mh "And my opinion aside, if you care this deeply about something, I want to {b}care{/b} about it too."
-    mh "And my opinion aside, if you care this deeply about something, I want to {b}care{/b} about it too."
+    mh "Ve benim fikrimi bir kenara bırakırsak, eğer bir şeyle bu kadar derinden ilgileniyorsan, ben de onunla {b}ilgilenmek{/b} istiyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:304
 translate turkish sm1cs_mh009_33009130:
@@ -542,103 +542,103 @@ translate turkish sm1cs_mh009_33009130:
 translate turkish sm1cs_mh009_845d4c7d:
 
     # mh "Enough sentimentality for the moment, back to the task at hand."
-    mh "Enough sentimentality for the moment, back to the task at hand."
+    mh "Şimdilik yeter duygusallık, asıl konuya dönelim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:308
 translate turkish sm1cs_mh009_52f7a3da:
 
     # mh "I want you to show me what it's like to be one of the women on your couch, [mcname]."
-    mh "I want you to show me what it's like to be one of the women on your couch, [mcname]."
+    mh "Kanependeki kadınlardan biri olmak nasıl bir şey göstermeni istiyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:310
 translate turkish sm1cs_mh009_5f46c07b:
 
     # mc "I thought you'd never ask."
-    mc "I thought you'd never ask."
+    mc "Bunu asla sormayacağını düşünmüştüm."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:313
 translate turkish sm1cs_mh009_8ac5103c:
 
     # mct "Are we really just going to skip past all of that deep emotional stuff? That felt like..."
-    mct "Are we really just going to skip past all of that deep emotional stuff? That felt like..."
+    mct "Gerçekten tüm o derin duygusal şeyleri atlayacak mıyız? Sanki..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:318
 translate turkish sm1cs_mh009_4c29ffc4:
 
     # mh "Before we begin, I think we should set up some ground rules."
-    mh "Before we begin, I think we should set up some ground rules."
+    mh "Başlamadan önce, bazı temel kurallar koymalıyız diye düşünüyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:320
 translate turkish sm1cs_mh009_c9f971da:
 
     # mc "I'm all ears!"
-    mc "I'm all ears!"
+    mc "Seni dinliyorum!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:323
 translate turkish sm1cs_mh009_48b8a4e9:
 
     # mh "First, during our little roleplay, I want you to call me... Allison."
-    mh "First, during our little roleplay, I want you to call me... Allison."
+    mh "İlk olarak, küçük rol oyunumuz sırasında bana... Allison demeni istiyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:325
 translate turkish sm1cs_mh009_1cd889c4:
 
     # mc "Like... your friend, Allison?"
-    mc "Like... your friend, Allison?"
+    mc "Yani... arkadaşın Allison gibi mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:326
 translate turkish sm1cs_mh009_289e2641:
 
     # mh "Yes. Unless you'd prefer something else?"
-    mh "Yes. Unless you'd prefer something else?"
+    mh "Evet. Başka bir şeyi tercih etmiyorsan?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:328
 translate turkish sm1cs_mh009_13d0b43e:
 
     # mc "Uhm... let me think..."
-    mc "Uhm... let me think..."
+    mc "Uhm... düşüneyim..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:333
 translate turkish sm1cs_mh009_8aefcbf2:
 
     # mh "Come on, [mcname], if you can't follow the first rule, I don't know if this will work."
-    mh "Come on, [mcname], if you can't follow the first rule, I don't know if this will work."
+    mh "Hadi, [mcname], ilk kurala uyamazsan bunun işe yarayacağını sanmıyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:334
 translate turkish sm1cs_mh009_7a1f2cc0:
 
     # mc "I'm sorry. We can go with Allison."
-    mc "I'm sorry. We can go with Allison."
+    mc "Üzgünüm. Allison ile devam edebiliriz."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:335
 translate turkish sm1cs_mh009_ffc6a815:
 
     # mh "Thank you."
-    mh "Thank you."
+    mh "Teşekkür ederim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:338
 translate turkish sm1cs_mh009_fe0d01a3:
 
     # mh "Wonderful. I have always liked the name \"Allison\"."
-    mh "Wonderful. I have always liked the name \"Allison\"."
+    mh "Harika. \"Allison\" ismini hep sevmişimdir."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:343
 translate turkish sm1cs_mh009_cd349a72:
 
     # mh "The second rule is that I want you to treat this just like any other interview, okay?"
-    mh "The second rule is that I want you to treat this just like any other interview, okay?"
+    mh "İkinci kural, buna diğer görüşmeler gibi davranmanı istiyorum, tamam mı?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:349
 translate turkish sm1cs_mh009_53d5e56e:
 
     # mh "Very good! And those are the only rules I have."
-    mh "Very good! And those are the only rules I have."
+    mh "Çok iyi! Ve bunlar benim tek kurallarım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:351
 translate turkish sm1cs_mh009_0b9b5176:
 
     # mc "Great!"
-    mc "Great!"
+    mc "Harika!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:352
 translate turkish sm1cs_mh009_63f710a6:
@@ -662,121 +662,121 @@ translate turkish sm1cs_mh009_63f710a6_1:
 translate turkish sm1cs_mh009_04255f71:
 
     # mh "Are all of your interviews like this?"
-    mh "Are all of your interviews like this?"
+    mh "Tüm görüşmelerin böyle mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:359
 translate turkish sm1cs_mh009_4e03e375:
 
     # mc "Oh, sorry, I wasn't sure if we had started."
-    mc "Oh, sorry, I wasn't sure if we had started."
+    mc "Oh, üzgünüm, başlayıp başlamadığımızdan emin değildim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:362
 translate turkish sm1cs_mh009_804f7811:
 
     # mh "Well, I'm not here to just sit around and look beautiful."
-    mh "Well, I'm not here to just sit around and look beautiful."
+    mh "Sadece oturup güzel görünmek için burada değilim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:364
 translate turkish sm1cs_mh009_f3852386:
 
     # mc "Of course, uhm-"
-    mc "Of course, uhm-"
+    mc "Tabii ki, uhm-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:365
 translate turkish sm1cs_mh009_8d016d40:
 
     # mh "Don't you need to have your camera started?"
-    mh "Don't you need to have your camera started?"
+    mh "Kameranı başlatman gerekmiyor mu?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:368
 translate turkish sm1cs_mh009_bfc101a9:
 
     # mc "Lyssa, are you sure you want me to record this."
-    mc "Lyssa, are you sure you want me to record this."
+    mc "Lyssa, bunu kaydetmemi istediğinden emin misin."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:370
 translate turkish sm1cs_mh009_768fa1d4:
 
     # mh "Do you normally record your interviews?"
-    mh "Do you normally record your interviews?"
+    mh "Görüşmelerini normalde kaydediyor musun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:371
 translate turkish sm1cs_mh009_604a694e:
 
     # mc "I do, but-"
-    mc "I do, but-"
+    mc "Ediyorum, ama-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:372
 translate turkish sm1cs_mh009_176f0182:
 
     # mh "Then, yes. I want you to record it, [mcname]."
-    mh "Then, yes. I want you to record it, [mcname]."
+    mh "O zaman, evet. Kaydetmeni istiyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:373
 translate turkish sm1cs_mh009_46cfa2f4:
 
     # mc "All right..."
-    mc "All right..."
+    mc "Pekala..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:377
 translate turkish sm1cs_mh009_6f365df2:
 
     # mct "Wow... I did not expect Lyssa to get this into the whole interview thing..."
-    mct "Wow... I did not expect Lyssa to get this into the whole interview thing..."
+    mct "Vay be... Lyssa'nın bu görüşme olayına bu kadar gireceğini beklemiyordum..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:384
 translate turkish sm1cs_mh009_263d30de:
 
     # mc "All right, now that we're recording... uhm, start with your name, and why you're here today."
-    mc "All right, now that we're recording... uhm, start with your name, and why you're here today."
+    mc "Pekala, artık kayıt yapıyoruz... uhm, adınla başla ve bugün neden burada olduğunla."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:390
 translate turkish sm1cs_mh009_92fa3237:
 
     # mc "Is that so? Why do you need the extra money?"
-    mc "Is that so? Why do you need the extra money?"
+    mc "Öyle mi? Neden ekstra paraya ihtiyacın var?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:393
 translate turkish sm1cs_mh009_d5e85442:
 
     # mh "Well, I just finished nursing school, but I have all of these loans that I need to start paying off."
-    mh "Well, I just finished nursing school, but I have all of these loans that I need to start paying off."
+    mh "Hemşirelik okulunu yeni bitirdim, ama ödemeye başlamam gereken bir sürü kredim var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:394
 translate turkish sm1cs_mh009_99392c41:
 
     # mh "And with the job market right now, I'm scared I won't be able to find a nursing job."
-    mh "And with the job market right now, I'm scared I won't be able to find a nursing job."
+    mh "Ve şu anki iş piyasasıyla, hemşirelik işi bulamayacağımdan korkuyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:397
 translate turkish sm1cs_mh009_f7708e9a:
 
     # mc "That's unfortunate. But, you know, we don't hire actresses just because they need money."
-    mc "That's unfortunate. But, you know, we don't hire actresses just because they need money."
+    mc "Bu talihsiz. Ama biliyorsun, sadece paraya ihtiyaçları var diye aktris tutmuyoruz."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:400
 translate turkish sm1cs_mh009_954a6ab6:
 
     # mh "Really?"
-    mh "Really?"
+    mh "Gerçekten mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:402
 translate turkish sm1cs_mh009_04a7c10b:
 
     # mc "Really. We also want to work with people who are excited to be here, you know? People with a... passion for porn."
-    mc "Really. We also want to work with people who are excited to be here, you know? People with a... passion for porn."
+    mc "Gerçekten. Ayrıca burada olmaktan heyecan duyan insanlarla çalışmak istiyoruz, anlıyor musun? Pornoya... tutkusu olan insanlarla."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:405
 translate turkish sm1cs_mh009_1c200401:
 
     # mh "Wow...{w} well, I definitely have a passion for sex!"
-    mh "Wow...{w} well, I definitely have a passion for sex!"
+    mh "Vay...{w} kesinlikle sekse karşı bir tutkum var!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:407
 translate turkish sm1cs_mh009_09f2de35:
 
     # mc "Is that so?"
-    mc "Is that so?"
+    mc "Öyle mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:408
 translate turkish sm1cs_mh009_677912ba:
@@ -788,13 +788,13 @@ translate turkish sm1cs_mh009_677912ba:
 translate turkish sm1cs_mh009_0d1cb933:
 
     # mh "And I've definitely been called \"passionate\" before."
-    mh "And I've definitely been called \"passionate\" before."
+    mh "Ve daha önce kesinlikle \"tutkulu\" olarak adlandırıldım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:417
 translate turkish sm1cs_mh009_3c26251f:
 
     # mc "All right, well, if you're passionate, tell me what your number one sexual fantasy is?"
-    mc "All right, well, if you're passionate, tell me what your number one sexual fantasy is?"
+    mc "Pekala, eğer tutkuluysan, bana bir numaralı cinsel fantezinin ne olduğunu söyle?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:420
 translate turkish sm1cs_mh009_9ba07595_1:
@@ -806,43 +806,43 @@ translate turkish sm1cs_mh009_9ba07595_1:
 translate turkish sm1cs_mh009_c123a681:
 
     # mh "Well... let meee seeeee..."
-    mh "Well... let meee seeeee..."
+    mh "Şey... bir bakayıııım..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:427
 translate turkish sm1cs_mh009_555eca7c:
 
     # mc "Displayed? Displayed how?"
-    mc "Displayed? Displayed how?"
+    mc "Sergilenmek mi? Nasıl sergilenmek?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:430
 translate turkish sm1cs_mh009_cb6b8d38:
 
     # mh "Well I want to have this latex mask on, and my hands to be cuffed behind my back, and..."
-    mh "Well I want to have this latex mask on, and my hands to be cuffed behind my back, and..."
+    mh "Üzerimde bir lateks maske olmasını ve ellerimin arkadan kelepçelenmesini istiyorum ve..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:431
 translate turkish sm1cs_mh009_3a96fde9:
 
     # mh "I want there to be, like, a seat - but instead of a chair, there's a vibrating, anal dildo pushed into my ass."
-    mh "I want there to be, like, a seat - but instead of a chair, there's a vibrating, anal dildo pushed into my ass."
+    mh "Bir koltuk olmasını istiyorum - ama sandalye yerine, kıçıma sokulmuş titreşimli bir anal dildo olsun."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:432
 translate turkish sm1cs_mh009_6cedc909:
 
     # mh "And I want to be cuffed to that chair for the whole night, where everyone can see everything."
-    mh "And I want to be cuffed to that chair for the whole night, where everyone can see everything."
+    mh "Ve tüm gece o koltuğa kelepçeli olmak istiyorum, herkesin her şeyi görebileceği bir şekilde."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:435
 translate turkish sm1cs_mh009_36703c69:
 
     # mh "They can see the goosebumps of my skin, the labored breathing and flushed breasts every time I cum... my throbbing hard cock as I cum over, and over..."
-    mh "They can see the goosebumps of my skin, the labored breathing and flushed breasts every time I cum... my throbbing hard cock as I cum over, and over..."
+    mh "Her boşaldığımda tenimin tüylerini, zorlu nefes alışımı ve kızarmış göğüslerimi görebilirler... tekrar ve tekrar boşalırken sertleşen ve zonklayan sikimi..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:436
 translate turkish sm1cs_mh009_82818768:
 
     # mh "And when the night is over, I want... someone to take me off the chair, push me to the floor, and fill me with their cum."
-    mh "And when the night is over, I want... someone to take me off the chair, push me to the floor, and fill me with their cum."
+    mh "Ve gece bittiğinde... birinin beni koltuktan almasını, yere itmesini ve dölüyle doldurmamı istiyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:439
 translate turkish sm1cs_mh009_596784ab:
@@ -854,97 +854,97 @@ translate turkish sm1cs_mh009_596784ab:
 translate turkish sm1cs_mh009_70be2168:
 
     # mh "Talking about it... gets me so excited. I just... mmmmmm!"
-    mh "Talking about it... gets me so excited. I just... mmmmmm!"
+    mh "Bunun hakkında konuşmak... beni çok heyecanlandırıyor. Sadece... mmmmmm!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:447
 translate turkish sm1cs_mh009_eaff8908:
 
     # mh "Thank you, [mcname]. Who knows, maybe one day I'll be able to find a place that'll let me do that. Maybe."
-    mh "Thank you, [mcname]. Who knows, maybe one day I'll be able to find a place that'll let me do that. Maybe."
+    mh "Teşekkür ederim, [mcname]. Kim bilir, belki bir gün bunu yapmama izin verecek bir yer bulabilirim. Belki."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:449
 translate turkish sm1cs_mh009_b7bfa870:
 
     # mc "Hey! No negative talk here. You {i}will{/i} find a place like that, I know it!"
-    mc "Hey! No negative talk here. You {i}will{/i} find a place like that, I know it!"
+    mc "Hey! Burada olumsuz konuşma yok. Böyle bir yer {i}bulacaksın{/i}, biliyorum!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:452
 translate turkish sm1cs_mh009_de83e18c:
 
     # mh "I'm glad you believe in my dream."
-    mh "I'm glad you believe in my dream."
+    mh "Hayalime inandığın için mutluyum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:454
 translate turkish sm1cs_mh009_0bf71e64:
 
     # mc "Of course!{w} That actually brings up another good point though."
-    mc "Of course!{w} That actually brings up another good point though."
+    mc "Tabii ki!{w} Bu aslında başka iyi bir noktayı gündeme getiriyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:455
 translate turkish sm1cs_mh009_5ec45140:
 
     # mc "Are there any other kinks or fetishes you're comfortable with? Or at least comfortable enough to do on camera?"
-    mc "Are there any other kinks or fetishes you're comfortable with? Or at least comfortable enough to do on camera?"
+    mc "Rahat olduğun başka sapkınlıklar ya da fetişler var mı? Ya da en azından kamera önünde yapmak için yeterince rahat olduğun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:459
 translate turkish sm1cs_mh009_aba166b3:
 
     # mh "Yeah, there are a few. I'm a bit of a switch, so I can be dominating or submissive. But I generally prefer being submissive."
-    mh "Yeah, there are a few. I'm a bit of a switch, so I can be dominating or submissive. But I generally prefer being submissive."
+    mh "Evet, birkaç tane var. Biraz değişkenim, yani baskın ya da itaatkar olabilirim. Ama genelde itaatkar olmayı tercih ederim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:461
 translate turkish sm1cs_mh009_0d455d76:
 
     # mc "Good to know!"
-    mc "Good to know!"
+    mc "Bunu bilmek güzel!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:462
 translate turkish sm1cs_mh009_812f08c3:
 
     # mh "I also like some other sneaky public things, kind of like my fantasy... and I'm also into watersports."
-    mh "I also like some other sneaky public things, kind of like my fantasy... and I'm also into watersports."
+    mh "Ayrıca bazı sinsi kamusal şeylerden de hoşlanıyorum, fantezim gibi... ve ayrıca watersports'a da ilgim var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:465
 translate turkish sm1cs_mh009_2844ced8:
 
     # mc "Watersports? Really?"
-    mc "Watersports? Really?"
+    mc "Watersports? Gerçekten mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:467
 translate turkish sm1cs_mh009_b4c0e77d:
 
     # mh "Yep! What do you think about that?"
-    mh "Yep! What do you think about that?"
+    mh "Evet! Bunun hakkında ne düşünüyorsun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:474
 translate turkish sm1cs_mh009_4d2a5947:
 
     # mc "You know, I'm totally down for watersports!"
-    mc "You know, I'm totally down for watersports!"
+    mc "Biliyorsun, watersports için tamamen hazırım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:476
 translate turkish sm1cs_mh009_e5763ac5:
 
     # mh "That makes me happy."
-    mh "That makes me happy."
+    mh "Bu beni mutlu ediyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:482
 translate turkish sm1cs_mh009_23f65fff:
 
     # mc "You know, I don't really know if watersports is for me."
-    mc "You know, I don't really know if watersports is for me."
+    mc "Biliyorsun, watersports'un bana göre olup olmadığından gerçekten emin değilim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:484
 translate turkish sm1cs_mh009_bccd8de7:
 
     # mh "That's okay, it's not for everyone."
-    mh "That's okay, it's not for everyone."
+    mh "Sorun değil, herkes için değil."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:489
 translate turkish sm1cs_mh009_94a7664a:
 
     # mc "Well, that's most of the interview. How about we move over to the backdrop and take some video of you there?"
-    mc "Well, that's most of the interview. How about we move over to the backdrop and take some video of you there?"
+    mc "Peki, görüşmenin çoğu bu kadar. Arka plana geçip orada senin birkaç videosunu çeksek nasıl olur?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:491
 translate turkish sm1cs_mh009_290063ca_1:
@@ -956,151 +956,151 @@ translate turkish sm1cs_mh009_290063ca_1:
 translate turkish sm1cs_mh009_8b8751be:
 
     # mct "You know, I've learned a lot of new things about Lyssa today."
-    mct "You know, I've learned a lot of new things about Lyssa today."
+    mct "Biliyorsun, bugün Lyssa hakkında bir sürü yeni şey öğrendim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:504
 translate turkish sm1cs_mh009_d3d98236:
 
     # mct "I was definitely not prepared to hear about her sexual fantasy. I almost busted through my jeans listening to her describe it!"
-    mct "I was definitely not prepared to hear about her sexual fantasy. I almost busted through my jeans listening to her describe it!"
+    mct "Onun cinsel fantezisini duymaya kesinlikle hazırlıklı değildim. Onun anlatışını dinlerken neredeyse kotumu patlatacaktım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:507
 translate turkish sm1cs_mh009_14fe9868:
 
     # mc "All right, so I figure-"
-    mc "All right, so I figure-"
+    mc "Pekala, ben düşünüyorum ki-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:510
 translate turkish sm1cs_mh009_731f6ea1:
 
     # mh "Figure what?"
-    mh "Figure what?"
+    mh "Ne düşünüyorsun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:514
 translate turkish sm1cs_mh009_47c6cbdd:
 
     # mc "I, erm, was going to suggest doing a few poses while clothed to get you warmed up, but it seems like you're already good to go."
-    mc "I, erm, was going to suggest doing a few poses while clothed to get you warmed up, but it seems like you're already good to go."
+    mc "Ben, erm, ısınman için giyinikken birkaç poz yapmanı önermek istiyordum, ama görünüşe göre zaten hazırsın."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:517
 translate turkish sm1cs_mh009_5e91f740:
 
     # mh "I figure, why beat around the bush?"
-    mh "I figure, why beat around the bush?"
+    mh "Düşündüm ki, neden lafı dolandıralım?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:518
 translate turkish sm1cs_mh009_7d57c8ab:
 
     # mh "Not that I've got one."
-    mh "Not that I've got one."
+    mh "Bende olmamasına rağmen."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:522
 translate turkish sm1cs_mh009_f15568d5:
 
     # mc "Fair point. Might as well get right into it!"
-    mc "Fair point. Might as well get right into it!"
+    mc "Haklısın. Hemen işe koyulabiliriz!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:523
 translate turkish sm1cs_mh009_335804c7:
 
     # mc "So why don't you just hit a few sexy poses?"
-    mc "So why don't you just hit a few sexy poses?"
+    mc "Öyleyse neden birkaç seksi poz yapmıyorsun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:526
 translate turkish sm1cs_mh009_064a9c5a:
 
     # mh "I think I can oblige that."
-    mh "I think I can oblige that."
+    mh "Sanırım bunu yapabilirim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:561
 translate turkish sm1cs_mh009_7a63cbb9:
 
     # mc "Wow, you're a natural! The camera absolutely loves you."
-    mc "Wow, you're a natural! The camera absolutely loves you."
+    mc "Vay be, doğuştansın! Kamera seni kesinlikle seviyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:563
 translate turkish sm1cs_mh009_189ddb7f:
 
     # mh "I bet you say that to all of your actresses."
-    mh "I bet you say that to all of your actresses."
+    mh "Bahse girerim bunu tüm aktrislerine söylüyorsun."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:566
 translate turkish sm1cs_mh009_0abe3b97:
 
     # mc "Actually, not really. Most of them need to do a lot of work to look like you on camera."
-    mc "Actually, not really. Most of them need to do a lot of work to look like you on camera."
+    mc "Aslında, pek değil. Çoğunun kamerada senin gibi görünmek için çok çalışması gerekiyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:567
 translate turkish sm1cs_mh009_38a38140:
 
     # mc "It feels like you know how to pose yourself in your light, how to show off to the camera, how to be sexy without making it forced..."
-    mc "It feels like you know how to pose yourself in your light, how to show off to the camera, how to be sexy without making it forced..."
+    mc "Sanki kendi ışığında nasıl poz vereceğini, kameraya nasıl gösteriş yapacağını, zorlamadan nasıl seksi olacağını biliyorsun..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:570
 translate turkish sm1cs_mh009_294000b4:
 
     # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to preform for the camera."
-    mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to preform for the camera."
+    mc "Ve yalan söylememin bir nedeni yok. Burası bir iş yeri ve her yetenek kamera için nasıl performans göstereceğini bilmeli."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:571
 translate turkish sm1cs_mh009_8115fc5e:
 
     # mc "If we know how to look hot on camera, it means more clicks - and more clicks means more money, and more money means better business."
-    mc "If we know how to look hot on camera, it means more clicks - and more clicks means more money, and more money means better business."
+    mc "Kamerada nasıl seksi görüneceğimizi bilirsek, bu daha fazla tıklama demek - ve daha fazla tıklama daha fazla para demek, daha fazla para da daha iyi iş demek."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:574
 translate turkish sm1cs_mh009_6b1bf756:
 
     # mh "You've got a good point there, [mcname]."
-    mh "You've got a good point there, [mcname]."
+    mh "Haklısın, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:576
 translate turkish sm1cs_mh009_229fe2de:
 
     # mc "So, now-"
-    mc "So, now-"
+    mc "Yani, şimdi-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:579
 translate turkish sm1cs_mh009_10da84c1:
 
     # mh "Not to interrupt, but how about we skip that, and get to the part where I show you some of my skills?"
-    mh "Not to interrupt, but how about we skip that, and get to the part where I show you some of my skills?"
+    mh "Sözünü kesmek istemem ama bunu atlayıp sana becerilerimi göstereceğim kısma geçsek nasıl olur?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:580
 translate turkish sm1cs_mh009_5aa19a40:
 
     # mh "And I bet you've been looking forward to that. I've seen your erection since I talked about my little sexual fantasy."
-    mh "And I bet you've been looking forward to that. I've seen your erection since I talked about my little sexual fantasy."
+    mh "Ve bahse girerim bunu dört gözle bekliyordun. Küçük cinsel fantezim hakkında konuştuğumdan beri ereksiyonunu görüyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:582
 translate turkish sm1cs_mh009_6a515955:
 
     # mc "You know, I'm still not going to complain! Let's get to it!"
-    mc "You know, I'm still not going to complain! Let's get to it!"
+    mc "Biliyorsun, yine de şikayet etmeyeceğim! Hadi başlayalım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:589
 translate turkish sm1cs_mh009_687b9cfa:
 
     # mh "Mmmm.{w} You look just as excited about this as I am."
-    mh "Mmmm.{w} You look just as excited about this as I am."
+    mh "Mmmm.{w} Bunun için benim kadar heyecanlı görünüyorsun."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:591
 translate turkish sm1cs_mh009_da0edacd:
 
     # mc "Absolutely. I mean, you're stunning and I'm excited to see your skillset."
-    mc "Absolutely. I mean, you're stunning and I'm excited to see your skillset."
+    mc "Kesinlikle. Yani, çarpıcısın ve beceri setini görmek için sabırsızlanıyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:595
 translate turkish sm1cs_mh009_8d618674:
 
     # mh "I hope you're ready to get {i}blown{/i} away!"
-    mh "I hope you're ready to get {i}blown{/i} away!"
+    mh "Umarım {i}büyülenmek{/i} için hazırsın!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:603
 translate turkish sm1cs_mh009_c4971346:
 
     # mc "Coming out of the gate strong! Wow!"
-    mc "Coming out of the gate strong! Wow!"
+    mc "Güçlü bir başlangıç! Vay!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:606
 translate turkish sm1cs_mh009_635e2099:
@@ -1112,13 +1112,13 @@ translate turkish sm1cs_mh009_635e2099:
 translate turkish sm1cs_mh009_564f9172:
 
     # mc "Damn, what the hell are you doing with your tongue? That's - intense!"
-    mc "Damn, what the hell are you doing with your tongue? That's - intense!"
+    mc "Kahretsin, dilinle ne yapıyorsun öyle? Bu - yoğun!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:608
 translate turkish sm1cs_mh009_7b5ec1f6:
 
     # mc "And your lips feel soooo soft..."
-    mc "And your lips feel soooo soft..."
+    mc "Ve dudakların çok yumuşak hissettiriyor..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:611
 translate turkish sm1cs_mh009_62c1d737:
@@ -1130,19 +1130,19 @@ translate turkish sm1cs_mh009_62c1d737:
 translate turkish sm1cs_mh009_c03b93ba:
 
     # mc "And I can already tell that you'd do great on camera - you look incredible."
-    mc "And I can already tell that you'd do great on camera - you look incredible."
+    mc "Ve kamerada harika olacağını şimdiden söyleyebilirim - inanılmaz görünüyorsun."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:616
 translate turkish sm1cs_mh009_16e77c1b:
 
     # mc "Your lips wrapped around my cock... you look like such a good girl."
-    mc "Your lips wrapped around my cock... you look like such a good girl."
+    mc "Dudakların sikimin etrafına sarılmış... çok iyi bir kız gibi görünüyorsun."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:617
 translate turkish sm1cs_mh009_e4db6fa7:
 
     # mc "Mmmm, and I can tell by the way your throat is gobbling me up that you like being called a good girl."
-    mc "Mmmm, and I can tell by the way your throat is gobbling me up that you like being called a good girl."
+    mc "Mmmm, ve boğazının beni yutma şeklinden iyi kız olarak çağrılmaktan hoşlandığını anlayabiliyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:621
 translate turkish sm1cs_mh009_08646be6:
@@ -1154,13 +1154,13 @@ translate turkish sm1cs_mh009_08646be6:
 translate turkish sm1cs_mh009_027e0d86:
 
     # mc "Well if you keep sucking my dick like that, you'll keep being a good girl."
-    mc "Well if you keep sucking my dick like that, you'll keep being a good girl."
+    mc "Eğer sikimi böyle emmeye devam edersen, iyi bir kız olmaya devam edeceksin."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:626
 translate turkish sm1cs_mh009_495a7c51:
 
     # mc "Mmmm, fuck yeaaaaaa."
-    mc "Mmmm, fuck yeaaaaaa."
+    mc "Mmmm, siktir eveeeeeet."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:628
 translate turkish sm1cs_mh009_99adf689:
@@ -1172,43 +1172,43 @@ translate turkish sm1cs_mh009_99adf689:
 translate turkish sm1cs_mh009_4201106a:
 
     # mc "Wooo - gotta' be careful. If we go on too much longer, I'm going to end up cumming down your throat!"
-    mc "Wooo - gotta' be careful. If we go on too much longer, I'm going to end up cumming down your throat!"
+    mc "Wooo - dikkatli olmalıyım. Eğer çok daha fazla devam edersek, boğazına boşalacağım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:634
 translate turkish sm1cs_mh009_61c6b2ae:
 
     # mh "Oh, that wouldn't be so terrible."
-    mh "Oh, that wouldn't be so terrible."
+    mh "Oh, bu o kadar da korkunç olmazdı."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:637
 translate turkish sm1cs_mh009_b3b5b774:
 
     # mc "It wouldn't, but I do have a few other things I want to try out on camera with you."
-    mc "It wouldn't, but I do have a few other things I want to try out on camera with you."
+    mc "Olmazdı, ama seninle kamerada denemek istediğim birkaç şey daha var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:639
 translate turkish sm1cs_mh009_4fe9d209:
 
     # mh "And what did you have in mind?"
-    mh "And what did you have in mind?"
+    mh "Peki aklında ne var?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:640
 translate turkish sm1cs_mh009_ad29a8c4:
 
     # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fuck as well as you suck."
-    mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fuck as well as you suck."
+    mc "Şimdi sikim güzelce yağlandığına göre... emdiğin kadar iyi sikilip sikilemeyeceğini görmek isterim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:643
 translate turkish sm1cs_mh009_dadd9e73:
 
     # mh "Oh, I think you will be surprised by how well I can take it."
-    mh "Oh, I think you will be surprised by how well I can take it."
+    mh "Oh, ne kadar iyi alabileceğime şaşıracağını düşünüyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:647
 translate turkish sm1cs_mh009_c57c3a25:
 
     # mc "Oh, will I be surprised?"
-    mc "Oh, will I be surprised?"
+    mc "Oh, şaşıracak mıyım?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:649
 translate turkish sm1cs_mh009_c651eae7_1:
@@ -1220,235 +1220,235 @@ translate turkish sm1cs_mh009_c651eae7_1:
 translate turkish sm1cs_mh009_ade9d370:
 
     # mh "But if you don't believe me, come over here and find out for yourself."
-    mh "But if you don't believe me, come over here and find out for yourself."
+    mh "Ama bana inanmıyorsan, buraya gel ve kendin öğren."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:661
 translate turkish sm1cs_mh009_d66bda72:
 
     # mc "Hmmm, well I am definitely ready to be surprised."
-    mc "Hmmm, well I am definitely ready to be surprised."
+    mc "Hmmm, kesinlikle şaşmaya hazırım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:664
 translate turkish sm1cs_mh009_e3b5fd78:
 
     # mh "Good, because I'm ready for you to take me."
-    mh "Good, because I'm ready for you to take me."
+    mh "İyi, çünkü beni almanıza hazırım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:674
 translate turkish sm1cs_mh009_9de70793:
 
     # mh "Oh myyy - fuck, [mcname]."
-    mh "Oh myyy - fuck, [mcname]."
+    mh "Oh tannrıııım - siktir, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:675
 translate turkish sm1cs_mh009_91d8a70c:
 
     # mc "You okay?"
-    mc "You okay?"
+    mc "İyi misin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:678
 translate turkish sm1cs_mh009_8a7b1cde:
 
     # mh "I am {i}very{/i} okay! Mmmm - your cock-"
-    mh "I am {i}very{/i} okay! Mmmm - your cock-"
+    mh "{i}Çok{/i} iyiyim! Mmmm - sikin-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:679
 translate turkish sm1cs_mh009_d68b7242:
 
     # mh "Oh, your cock feels sooo goood!"
-    mh "Oh, your cock feels sooo goood!"
+    mh "Oh, sikin çoook iyiii hissettiriyor!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:680
 translate turkish sm1cs_mh009_931925d4:
 
     # mc "Good! Because your asshole feels great too!"
-    mc "Good! Because your asshole feels great too!"
+    mc "İyi! Çünkü kıçın da harika hissettiriyor!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:683
 translate turkish sm1cs_mh009_6de94699:
 
     # mh "Oh yeah? Do you like how nice and tight my asshole feels?"
-    mh "Oh yeah? Do you like how nice and tight my asshole feels?"
+    mh "Oh evet? Kıçımın ne kadar güzel ve dar hissettirdiğini beğeniyor musun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:684
 translate turkish sm1cs_mh009_c98bc30e:
 
     # mc "Oh yeah, it feels fucking amazing!"
-    mc "Oh yeah, it feels fucking amazing!"
+    mc "Oh evet, harika hissettiriyor!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:685
 translate turkish sm1cs_mh009_0bb8613f:
 
     # mh "Well my tight little hole loves being filled by your cock. *moans* It's streeeetching me out!"
-    mh "Well my tight little hole loves being filled by your cock. *moans* It's streeeetching me out!"
+    mh "Küçük dar deliğim sikin tarafından doldurulmayı seviyor. *inliyor* Beni gereeeeetiriyor!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:688
 translate turkish sm1cs_mh009_b5bb6fee:
 
     # mh "God, keep fucking me like that, [mcname]!"
-    mh "God, keep fucking me like that, [mcname]!"
+    mh "Tanrım, beni böyle sikmeye devam et, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:690
 translate turkish sm1cs_mh009_4d335fd5:
 
     # mc "Oh yeah - fuuuck - yessss!"
-    mc "Oh yeah - fuuuck - yessss!"
+    mc "Oh evet - siktiiiir - eveeeet!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:693
 translate turkish sm1cs_mh009_7070a4d4:
 
     # mc "Muaah... fuck. I think I needed this badly.{w} I love it!"
-    mc "Muaah... fuck. I think I needed this badly.{w} I love it!"
+    mc "Muaah... siktir. Sanırım buna çok ihtiyacım vardı.{w} Bayıldım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:694
 translate turkish sm1cs_mh009_f3103638:
 
     # mc "And I love it too!"
-    mc "And I love it too!"
+    mc "Ve ben de bayıldım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:695
 translate turkish sm1cs_mh009_42e18979:
 
     # mh "Fuck me, [mcname], fuuuuck me!"
-    mh "Fuck me, [mcname], fuuuuck me!"
+    mh "Sik beni, [mcname], siiiiik beni!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:696
 translate turkish sm1cs_mh009_f9e7ce4b:
 
     # mc "Oh yeah, nggghhh! Oh, yeah!"
-    mc "Oh yeah, nggghhh! Oh, yeah!"
+    mc "Oh evet, nggghhh! Oh, evet!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:699
 translate turkish sm1cs_mh009_28ac5e15:
 
     # mh "Deeper, [mcname], just like that!!"
-    mh "Deeper, [mcname], just like that!!"
+    mh "Daha derin, [mcname], aynen böyle!!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:700
 translate turkish sm1cs_mh009_ced84a42:
 
     # mc "Oh, your ass is squeezing me so tiiiiight!"
-    mc "Oh, your ass is squeezing me so tiiiiight!"
+    mc "Oh, kıçın beni çooook sıkıştırıyor!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:701
 translate turkish sm1cs_mh009_e45bdd6e:
 
     # mh "It's because your big cock fills me up sooooo good!"
-    mh "It's because your big cock fills me up sooooo good!"
+    mh "Çünkü büyük sikin beni çoooook iyi dolduruyor!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:702
 translate turkish sm1cs_mh009_8e8e6f3b:
 
     # mc "It's a perfect fit, mmmmm-!"
-    mc "It's a perfect fit, mmmmm-!"
+    mc "Mükemmel bir uyum, mmmmm-!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:703
 translate turkish sm1cs_mh009_7d07316c:
 
     # mh "Yesss, a perfect fit, for a {i}perfect cock!{/i}"
-    mh "Yesss, a perfect fit, for a {i}perfect cock!{/i}"
+    mh "Eveeeet, {i}mükemmel bir sik{/i} için mükemmel bir uyum!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:704
 translate turkish sm1cs_mh009_17bc1692:
 
     # mc "Oh yesssss!"
-    mc "Oh yesssss!"
+    mc "Oh eveeeeeet!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:709
 translate turkish sm1cs_mh009_f8d52b4a:
 
     # mc "Oh shit-!"
-    mc "Oh shit-!"
+    mc "Oh siktir-!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:712
 translate turkish sm1cs_mh009_2138cbb2:
 
     # mh "Mmmm, was my ass too good?"
-    mh "Mmmm, was my ass too good?"
+    mh "Mmmm, kıçım çok mu iyiydi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:714
 translate turkish sm1cs_mh009_0f87eb89:
 
     # mc "Uh huh, definitely too good."
-    mc "Uh huh, definitely too good."
+    mc "Uh huh, kesinlikle çok iyiydi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:715
 translate turkish sm1cs_mh009_0d22bedf:
 
     # mc "Just give me a sec, phew."
-    mc "Just give me a sec, phew."
+    mc "Sadece bir saniye ver, phew."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:716
 translate turkish sm1cs_mh009_56d04174:
 
     # mc "Okay, that was close."
-    mc "Okay, that was close."
+    mc "Tamam, kıl payı kurtulduk."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:717
 translate turkish sm1cs_mh009_8f5e4179:
 
     # mh "Oh yeah?"
-    mh "Oh yeah?"
+    mh "Oh evet mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:718
 translate turkish sm1cs_mh009_cc67316c:
 
     # mc "Yeah, and I'm not ready to be done yet."
-    mc "Yeah, and I'm not ready to be done yet."
+    mc "Evet, ve henüz bitirmeye hazır değilim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:722
 translate turkish sm1cs_mh009_0b25d622:
 
     # mh "Neither am I."
-    mh "Neither am I."
+    mh "Ben de değilim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:724
 translate turkish sm1cs_mh009_494508c5:
 
     # mc "Good!"
-    mc "Good!"
+    mc "Güzel!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:725
 translate turkish sm1cs_mh009_a5a67b7d:
 
     # mh "Now get down here, and let me feel your dick fill me up."
-    mh "Now get down here, and let me feel your dick fill me up."
+    mh "Şimdi buraya gel ve sikin beni doldururken hisset bırak."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:729
 translate turkish sm1cs_mh009_0967b47e:
 
     # mc "You read my mind."
-    mc "You read my mind."
+    mc "Aklımı okudun."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:737
 translate turkish sm1cs_mh009_432519f5:
 
     # mh "Oh holllly shit!"
-    mh "Oh holllly shit!"
+    mh "Oh laaanet olsun!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:738
 translate turkish sm1cs_mh009_4e612710:
 
     # mh "God, your cock feels even bigger now!"
-    mh "God, your cock feels even bigger now!"
+    mh "Tanrım, sikin şimdi daha da büyük hissettiriyor!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:741
 translate turkish sm1cs_mh009_b5d17fda:
 
     # mh "Mmmmm - fuuuck yes, fuck me just like that!"
-    mh "Mmmmm - fuuuck yes, fuck me just like that!"
+    mh "Mmmmm - siktiiiir evet, tam böyle sik beni!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:743
 translate turkish sm1cs_mh009_7e7fb735:
 
     # mh "It feeeeels amazing! God - pound my little asshole, [mcname]!"
-    mh "It feeeeels amazing! God - pound my little asshole, [mcname]!"
+    mh "Müthiiiiş hissettiriyor! Tanrım - küçük kıçımı dövür, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:746
 translate turkish sm1cs_mh009_2ffdea26:
 
     # mc "Fuuuuuck!"
-    mc "Fuuuuuck!"
+    mc "Siktiiiiiir!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:747
 translate turkish sm1cs_mh009_c2dbbf91:
