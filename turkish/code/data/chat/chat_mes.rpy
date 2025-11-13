@@ -76,203 +76,203 @@ translate turkish strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Hello [mcname!i]."
-    new "Hello [mcname!i]."
+    new "Merhaba [mcname!i]."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Hi Min."
-    new "Hi Min."
+    new "Merhaba Min."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Nice to hear from you."
-    new "Nice to hear from you."
+    new "Senden haber almak güzel."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "You're probably the only one who thinks so."
-    new "You're probably the only one who thinks so."
+    new "Muhtemelen böyle düşünen tek kişi sensin."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "What happened?"
-    new "What happened?"
+    new "Ne oldu?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I got into a spirited discussion with a professor."
-    new "I got into a spirited discussion with a professor."
+    new "Bir profesörle hararetli bir tartışmaya girdim."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "That turned into a shouting match."
-    new "That turned into a shouting match."
+    new "Bu bir bağırma yarışmasına dönüştü."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Uh. That doesn't sound like you."
-    new "Uh. That doesn't sound like you."
+    new "Uh. Bu sana benzemiyor."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "What started the argument?"
-    new "What started the argument?"
+    new "Tartışmayı ne başlattı?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Don't worry about it."
-    new "Don't worry about it."
+    new "Endişelenme."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Yup. Just don't ask Professor Selbig."
-    new "Yup. Just don't ask Professor Selbig."
+    new "Evet. Sadece Profesör Selbig'e sorma."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "How was your day?"
-    new "How was your day?"
+    new "Günün nasıl geçti?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Good. Working hard as usual."
-    new "Good. Working hard as usual."
+    new "İyi. Her zamanki gibi çok çalışıyorum."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "As usual? I've never seen you work hard."
-    new "As usual? I've never seen you work hard."
+    new "Her zamanki gibi mi? Seni hiç çok çalışırken görmedim."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I work hard and play hard."
-    new "I work hard and play hard."
+    new "Çok çalışırım ve çok oynarım."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Talk to you later, [mcname!i]."
-    new "Talk to you later, [mcname!i]."
+    new "Sonra görüşürüz, [mcname!i]."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Done with me so soon?"
-    new "Done with me so soon?"
+    new "Benimle bu kadar çabuk mı bitirdin?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I have to study. But I'll give you something to tide you over."
-    new "I have to study. But I'll give you something to tide you over."
+    new "Çalışmam gerekiyor. Ama sana idare edecek bir şey vereceğim."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Let's arrange that soon."
-    new "Let's arrange that soon."
+    new "Bunu yakında ayarlayalım."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Hey, what are you doing?"
-    new "Hey, what are you doing?"
+    new "Hey, ne yapıyorsun?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Nothing. You?"
-    new "Nothing. You?"
+    new "Hiçbir şey. Sen?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I was thinking I could go for some fun."
-    new "I was thinking I could go for some fun."
+    new "Biraz eğlence için gidebileceğimi düşünüyordum."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Sexy fun."
-    new "Sexy fun."
+    new "Seksi eğlence."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Haha. You really have a one-track mind."
-    new "Haha. You really have a one-track mind."
+    new "Haha. Gerçekten tek yönlü bir zihnin var."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Sounds fun. I didn't think you'd want Stacy involved?"
-    new "Sounds fun. I didn't think you'd want Stacy involved?"
+    new "Kulağa eğlenceli geliyor. Stacy'nin dahil olmasını isteyeceğini düşünmemiştim?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I do. She seems fun. And she's a big part of your life isn't she?"
-    new "I do. She seems fun. And she's a big part of your life isn't she?"
+    new "İstiyorum. Eğlenceli görünüyor. Ve hayatının büyük bir parçası, değil mi?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Yes she is."
-    new "Yes she is."
+    new "Evet öyle."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Unfortunately yes. She's always here."
-    new "Unfortunately yes. She's always here."
+    new "Ne yazık ki evet. Her zaman burada."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "It's like we're living together."
-    new "It's like we're living together."
+    new "Sanki birlikte yaşıyoruz gibi."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Haha. I get it."
-    new "Haha. I get it."
+    new "Haha. Anladım."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "There is a board game I've been wanting to try out."
-    new "There is a board game I've been wanting to try out."
+    new "Denemek istediğim bir masa oyunu var."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I'll go buy it and get some junk food."
-    new "I'll go buy it and get some junk food."
+    new "Gidip alacağım ve biraz abur cubur alacağım."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "All you need to do is come over."
-    new "All you need to do is come over."
+    new "Tek yapman gereken buraya gelmek."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Perfect. See you then."
-    new "Perfect. See you then."
+    new "Mükemmel. O zaman görüşürüz."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Hey sexy."
-    new "Hey sexy."
+    new "Selam seksi."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Oooh. Someone is in a good mood."
-    new "Oooh. Someone is in a good mood."
+    new "Oooh. Birisi iyi bir ruh halinde."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "I always am when I talk to you."
-    new "I always am when I talk to you."
+    new "Seninle konuşurken her zaman öyleyim."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "I have time today, ready to move in?"
-    new "I have time today, ready to move in?"
+    new "Bugün vaktim var, taşınmaya hazır mısın?"
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Yes!"
-    new "Yes!"
+    new "Evet!"
 
     # game/code/data/chat/chat_mes.rpy:358
     old "I can't wait to put this place behind me."
-    new "I can't wait to put this place behind me."
+    new "Burayı geride bırakmak için sabırsızlanıyorum."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Awesome. Why don't you come over?"
-    new "Awesome. Why don't you come over?"
+    new "Harika. Neden gelmiyorsun?"
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Perfect."
-    new "Perfect."
+    new "Mükemmel."
 
 translate turkish strings:
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Never mind. Are you down or not?"
-    new "Never mind. Are you down or not?"
+    new "Boşver. Katılacak mısın yoksa katılmayacak mısın?"
 
 translate turkish strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Wish you were here to warm my body."
-    new "Wish you were here to warm my body."
+    new "Keşke vücudumu ısıtmak için burada olsaydın."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I was thinking of a game night. You, Stacy, and me."
-    new "I was thinking of a game night. You, Stacy, and me."
+    new "Bir oyun gecesi düşünüyordum. Sen, Stacy ve ben."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Alright, does this evening work?"
-    new "Alright, does this evening work?"
+    new "Tamam, bu akşam uyar mı?"
 
 translate turkish strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Everything all right?"
-    new "Everything all right?"
+    new "Her şey yolunda mı?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I hope you were the winner."
-    new "I hope you were the winner."
+    new "Umarım kazanan sendin."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "It is now."
-    new "It is now."
+    new "Şimdi öyle."
 

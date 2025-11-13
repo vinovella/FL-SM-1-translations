@@ -54,11 +54,11 @@
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Sure!"
-    new "Sure!"
+    new "Elbette!"
 
 translate turkish strings:
 
     # game/code/data/chat/chat_kv.rpy:3
     old "What's this one going to be about?"
-    new "What's this one going to be about?"
+    new "Bu ne hakkında olacak?"
 
