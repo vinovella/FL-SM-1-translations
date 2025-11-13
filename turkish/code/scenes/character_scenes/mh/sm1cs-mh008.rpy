@@ -368,25 +368,25 @@ translate turkish sm1cs_mh008_b73f6067:
 translate turkish sm1cs_mh008_9da0ff92:
 
     # mh "You're right though. I do need to find a way to get more comfortable with this."
-    mh "You're right though. I do need to find a way to get more comfortable with this."
+    mh "Yine de haklısın. Bununla daha rahat olmanın bir yolunu bulmam gerekiyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:203
 translate turkish sm1cs_mh008_3a9a3c92:
 
     # mh "Sure, invite Stacy for a... I guess, throuple date?"
-    mh "Sure, invite Stacy for a... I guess, throuple date?"
+    mh "Elbette, Stacy'yi davet et... sanırım, üçlü buluşma mı?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:206
 translate turkish sm1cs_mh008_d61f5fef:
 
     # mc "Great! I'll shoot her a text telling her to meet us there!"
-    mc "Great! I'll shoot her a text telling her to meet us there!"
+    mc "Harika! Ona orada buluşmak için bir mesaj atacağım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:209
 translate turkish sm1cs_mh008_4824b49d:
 
     # mh "That sounds great, [mcname]."
-    mh "That sounds great, [mcname]."
+    mh "Kulağa harika geliyor, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:214
 translate turkish sm1cs_mh008_409e34b5:
@@ -410,31 +410,31 @@ translate turkish sm1cs_mh008_1bc35450:
 translate turkish sm1cs_mh008_409e34b5_1:
 
     # mc "Hey, if you're not comfortable with that idea, we can do it some other time."
-    mc "Hey, if you're not comfortable with that idea, we can do it some other time."
+    mc "Hey, eğer bu fikir seni rahatsız ediyorsa, bunu başka bir zaman yapabiliriz."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:227
 translate turkish sm1cs_mh008_c7c4c6c9_1:
 
     # mh "Yeah, I don't think I'm there yet, [mcname]."
-    mh "Yeah, I don't think I'm there yet, [mcname]."
+    mh "Evet, henüz orada olduğumu sanmıyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:230
 translate turkish sm1cs_mh008_1bc35450_1:
 
     # mc "Totally okay! No worries at all, Lyssa."
-    mc "Totally okay! No worries at all, Lyssa."
+    mc "Tamamen sorun yok! Hiç endişelenme, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:233
 translate turkish sm1cs_mh008_2f322242:
 
     # mc "But, without any further ado, let's get to the carnival!"
-    mc "But, without any further ado, let's get to the carnival!"
+    mc "Ama, daha fazla uzatmadan, karnavala gidelim!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:236
 translate turkish sm1cs_mh008_bb79b11c:
 
     # mh "Hahahaha, oh, [mcname]."
-    mh "Hahahaha, oh, [mcname]."
+    mh "Hahahaha, ah, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:254
 translate turkish sm1cs_mh008_carnival_100e00e0:
@@ -446,121 +446,121 @@ translate turkish sm1cs_mh008_carnival_100e00e0:
 translate turkish sm1cs_mh008_carnival_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Ha?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:262
 translate turkish sm1cs_mh008_carnival_7ca253b9:
 
     # mh "I just love that smell... popcorn, and machinery, and groups of people laughing and smiling..."
-    mh "I just love that smell... popcorn, and machinery, and groups of people laughing and smiling..."
+    mh "O kokuyu çok seviyorum... patlamış mısır, makineler ve gülen, gülümseyen insan grupları..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:265
 translate turkish sm1cs_mh008_carnival_e775bd08:
 
     # mc "Huh, really?"
-    mc "Huh, really?"
+    mc "Ha, gerçekten mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:270
 translate turkish sm1cs_mh008_carnival_c32f909a:
 
     # mh "Yeah... I have a lot of fond memories of circuses and carnivals."
-    mh "Yeah... I have a lot of fond memories of circuses and carnivals."
+    mh "Evet... sirkler ve karnavallarla ilgili çok güzel anılarım var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:273
 translate turkish sm1cs_mh008_carnival_199d4c40:
 
     # mc "That's something I didn't know about you."
-    mc "That's something I didn't know about you."
+    mc "Bu senin hakkında bilmediğim bir şey."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:276
 translate turkish sm1cs_mh008_carnival_410eab9d:
 
     # mh "This is one of the perks of slowing down a little bit. Learning more about each other."
-    mh "This is one of the perks of slowing down a little bit. Learning more about each other."
+    mh "Bu biraz yavaşlamanın avantajlarından biri. Birbirimizi daha iyi tanımak."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:279
 translate turkish sm1cs_mh008_carnival_4333b57b:
 
     # mc "I agree.{w} Well, why do you have so many fond memories of circuses?"
-    mc "I agree.{w} Well, why do you have so many fond memories of circuses?"
+    mc "Katılıyorum.{w} Peki, neden sirklerle ilgili bu kadar güzel anın var?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:284
 translate turkish sm1cs_mh008_carnival_4683f7e8:
 
     # mh "Well... my bio parents - erm, the people who actually gave birth to me, would bring me to the carnival every year."
-    mh "Well... my bio parents - erm, the people who actually gave birth to me, would bring me to the carnival every year."
+    mh "Şey... biyolojik ebeveynlerim - yani, beni gerçekten doğuran insanlar, beni her yıl karnavala götürürlerdi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:285
 translate turkish sm1cs_mh008_carnival_bf61594d:
 
     # mh "I didn't know until I was older that it was because my bio-father had successfully defended a ride manufacturer in a pretty hairy civil suit because someone had gotten pretty badly injured."
-    mh "I didn't know until I was older that it was because my bio-father had successfully defended a ride manufacturer in a pretty hairy civil suit because someone had gotten pretty badly injured."
+    mh "Daha büyüyene kadar bunun, biyolojik babamın birinin ciddi şekilde yaralanması nedeniyle oldukça zor bir hukuk davasında bir eğlence aracı üreticisini başarıyla savunmuş olmasından kaynaklandığını bilmiyordum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
 translate turkish sm1cs_mh008_carnival_bc753126:
 
     # mh "As I kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "As I kid, I just knew that we would come to the circus because we had free tickets, and..."
+    mh "Çocukken, sadece ücretsiz biletlerimiz olduğu için sirke geldiğimizi biliyordum ve..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:289
 translate turkish sm1cs_mh008_carnival_0b117085:
 
     # mh "And I think it was one of the few times I saw my bio-father relax the hardened lawyer facade and just... be my dad."
-    mh "And I think it was one of the few times I saw my bio-father relax the hardened lawyer facade and just... be my dad."
+    mh "Ve sanırım bu, biyolojik babamın sertleşmiş avukat maskesini gevşettiğini ve sadece... babam olduğunu gördüğüm birkaç zamandan biriydi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:292
 translate turkish sm1cs_mh008_carnival_e5731e1e:
 
     # mc "I... I didn't know that."
-    mc "I... I didn't know that."
+    mc "Ben... Bunu bilmiyordum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:297
 translate turkish sm1cs_mh008_carnival_8db3376a:
 
     # mh "It's okay. I've been... guarded about it most of my life."
-    mh "It's okay. I've been... guarded about it most of my life."
+    mh "Sorun değil. Hayatımın çoğunda... bu konuda ketum oldum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:300
 translate turkish sm1cs_mh008_carnival_bcf6f8e8:
 
     # mc "I also... didn't know that you had been adopted."
-    mc "I also... didn't know that you had been adopted."
+    mc "Ayrıca... evlat edinildiğini bilmiyordum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:303
 translate turkish sm1cs_mh008_carnival_c681f59d:
 
     # mh "That's... another thing I've been pretty guarded about."
-    mh "That's... another thing I've been pretty guarded about."
+    mh "Bu... hakkında oldukça ketum olduğum başka bir şey."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:306
 translate turkish sm1cs_mh008_carnival_e1b60d67:
 
     # mc "Can I ask what happened?"
-    mc "Can I ask what happened?"
+    mc "Ne olduğunu sorabilir miyim?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:309
 translate turkish sm1cs_mh008_carnival_00ba0ae6:
 
     # mh "Oh, it's all pretty mundane. They were coming home from some gala and were struck by a drunk driver."
-    mh "Oh, it's all pretty mundane. They were coming home from some gala and were struck by a drunk driver."
+    mh "Ah, hepsi oldukça sıradan. Bir galadan eve geliyorlardı ve sarhoş bir sürücü tarafından çarpıldılar."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:310
 translate turkish sm1cs_mh008_carnival_39cdc1e9:
 
     # mh "I was pretty young... this all happened a long time ago."
-    mh "I was pretty young... this all happened a long time ago."
+    mh "Oldukça gençtim... bunların hepsi uzun zaman önce oldu."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:313
 translate turkish sm1cs_mh008_carnival_12c052b6:
 
     # mh "And then I was adopted by a lovely couple, and they took good care of me."
-    mh "And then I was adopted by a lovely couple, and they took good care of me."
+    mh "Ve sonra sevgili bir çift tarafından evlat edindim ve bana iyi baktılar."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:314
 translate turkish sm1cs_mh008_carnival_a81dcc3b:
 
     # mh "I had told them about my... family's trips to the carnival. So every summer, they would make sure to take me."
-    mh "I had told them about my... family's trips to the carnival. So every summer, they would make sure to take me."
+    mh "Onlara... ailemin karnavala yaptığı gezilerden bahsetmiştim. Bu yüzden her yaz beni götürmeyi ihmal etmezlerdi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:317
 translate turkish sm1cs_mh008_carnival_e26f48c7:
@@ -572,97 +572,97 @@ translate turkish sm1cs_mh008_carnival_e26f48c7:
 translate turkish sm1cs_mh008_carnival_2d68adc4:
 
     # mct "Man... there's a lot about Lyssa I don't really know."
-    mct "Man... there's a lot about Lyssa I don't really know."
+    mct "Dostum... Lyssa hakkında gerçekten bilmediğim çok şey var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:321
 translate turkish sm1cs_mh008_carnival_1c7c71a8:
 
     # mct "Like... a lot a lot. Wow..."
-    mct "Like... a lot a lot. Wow..."
+    mct "Yani... çok çok fazla. Vay be..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:324
 translate turkish sm1cs_mh008_carnival_fc31d306:
 
     # mct "I can't believe she went through all that. I always knew she was strong but..."
-    mct "I can't believe she went through all that. I always knew she was strong but..."
+    mct "Tüm bunları yaşadığına inanamıyorum. Güçlü olduğunu hep biliyordum ama..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:325
 translate turkish sm1cs_mh008_carnival_32aafe18:
 
     # mct "Damn."
-    mct "Damn."
+    mct "Kahretsin."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:328
 translate turkish sm1cs_mh008_carnival_e9d39345:
 
     # mh "Oh, don't do that, [mcname]."
-    mh "Oh, don't do that, [mcname]."
+    mh "Ah, bunu yapma, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:331
 translate turkish sm1cs_mh008_carnival_94507c05:
 
     # mc "Do what?"
-    mc "Do what?"
+    mc "Neyi yapmayayım?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:334
 translate turkish sm1cs_mh008_carnival_ef6020dd:
 
     # mh "Start giving me pity."
-    mh "Start giving me pity."
+    mh "Bana acımaya başlama."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:337
 translate turkish sm1cs_mh008_carnival_e522c30a:
 
     # mc "What! No, no. That's not what I was thinking."
-    mc "What! No, no. That's not what I was thinking."
+    mc "Ne! Hayır, hayır. Düşündüğüm şey bu değildi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:340
 translate turkish sm1cs_mh008_carnival_7c916c3a:
 
     # mh "You sure? Because you had that look on your face everyone gets when I tell them about how I grew up."
-    mh "You sure? Because you had that look on your face everyone gets when I tell them about how I grew up."
+    mh "Emin misin? Çünkü yüzünde nasıl büyüdüğümü anlattığımda herkesin takındığı o ifade vardı."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:343
 translate turkish sm1cs_mh008_carnival_79736694:
 
     # mc "No. I was thinking about...{w} All this time together, and I'm still learning more about you."
-    mc "No. I was thinking about...{w} All this time together, and I'm still learning more about you."
+    mc "Hayır. Şunu düşünüyordum...{w} Birlikte geçirdiğimiz bunca zamana rağmen, hala senin hakkında daha fazla şey öğreniyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:344
 translate turkish sm1cs_mh008_carnival_12dff004:
 
     # mc "And I'm glad I am. There's a lot of things now that make a lot more sense."
-    mc "And I'm glad I am. There's a lot of things now that make a lot more sense."
+    mc "Ve bundan mutluyum. Şimdi daha çok anlam ifade eden bir sürü şey var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:347
 translate turkish sm1cs_mh008_carnival_e774c3dd:
 
     # mh "Being an adopted orphan will make a person a bit more guarded, haha."
-    mh "Being an adopted orphan will make a person a bit more guarded, haha."
+    mh "Evlat edinilmiş bir yetim olmak, bir insanı biraz daha ketum yapar, haha."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:350
 translate turkish sm1cs_mh008_carnival_e5e74782:
 
     # mc "That, but it also explains why you are such a strong, fierce woman."
-    mc "That, but it also explains why you are such a strong, fierce woman."
+    mc "Bu, ama aynı zamanda neden bu kadar güçlü, azimli bir kadın olduğunu da açıklıyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:353
 translate turkish sm1cs_mh008_carnival_3ed77072:
 
     # mh "Thank you, [mcname]."
-    mh "Thank you, [mcname]."
+    mh "Teşekkür ederim, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:356
 translate turkish sm1cs_mh008_carnival_8dd9efd1:
 
     # mc "Of course, Lyssa."
-    mc "Of course, Lyssa."
+    mc "Elbette, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:359
 translate turkish sm1cs_mh008_carnival_2c87f249:
 
     # mc "Well, hey - no carnival trip is complete without popcorn!"
-    mc "Well, hey - no carnival trip is complete without popcorn!"
+    mc "Şey, hey - patlamış mısır olmadan hiçbir karnav gezisi tamamlanmaz!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:362
 translate turkish sm1cs_mh008_carnival_6ecd7401:
@@ -674,49 +674,49 @@ translate turkish sm1cs_mh008_carnival_6ecd7401:
 translate turkish sm1cs_mh008_carnival_94c3fd69:
 
     # mc "Nuh uh, I'm not going to listen to any arguments from the defense! I am getting you some popcorn."
-    mc "Nuh uh, I'm not going to listen to any arguments from the defense! I am getting you some popcorn."
+    mc "Hayır hayır, savunmadan hiçbir argüman dinlemeyeceğim! Sana patlamış mısır alacağım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:370
 translate turkish sm1cs_mh008_carnival_48dea7e0:
 
     # mc "Yeah, I'll take one, uhm, large popcorn?"
-    mc "Yeah, I'll take one, uhm, large popcorn?"
+    mc "Evet, bir, ıhm, büyük boy patlamış mısır alayım?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:378
 translate turkish sm1cs_mh008_carnival_4c6100b9:
 
     # mc "There ain't nothing like carnival popcorn!"
-    mc "There ain't nothing like carnival popcorn!"
+    mc "Karnav patlamış mısırı gibi bir şey yok!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:381
 translate turkish sm1cs_mh008_carnival_03fd9102:
 
     # mh "God, you are such a goof sometimes."
-    mh "God, you are such a goof sometimes."
+    mh "Tanrım, bazen o kadar aptal birisin ki."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:384
 translate turkish sm1cs_mh008_carnival_a0b00a76:
 
     # mc "Yeah, but you like it."
-    mc "Yeah, but you like it."
+    mc "Evet, ama hoşuna gidiyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:387
 translate turkish sm1cs_mh008_carnival_0a7b0987:
 
     # mh "Admittedly, I do."
-    mh "Admittedly, I do."
+    mh "İtiraf ediyorum ki, öyle."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:388
 translate turkish sm1cs_mh008_carnival_f16dac38:
 
     # mh "Because you're also quite the charmer."
-    mh "Because you're also quite the charmer."
+    mh "Çünkü sen aynı zamanda oldukça büyüleyicisin."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:391
 translate turkish sm1cs_mh008_carnival_4beaaaf5:
 
     # mc "Awe shucks, Lyssa."
-    mc "Awe shucks, Lyssa."
+    mc "Aa çok ayıp, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:394
 translate turkish sm1cs_mh008_carnival_c651eae7:
