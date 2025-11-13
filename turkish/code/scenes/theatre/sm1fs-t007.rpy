@@ -2,109 +2,109 @@
 translate turkish sm1fs_t007_ff282b14:
 
     # dvh "Listen up."
-    dvh "Listen up."
+    dvh "Dinleyin."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:10
 translate turkish sm1fs_t007_165f9dd2:
 
     # dvh "This is just another show. We've been preparing, and I have done my best to take you from weak, unmolded clay into something exquisite."
-    dvh "This is just another show. We've been preparing, and I have done my best to take you from weak, unmolded clay into something exquisite."
+    dvh "Bu sadece başka bir gösteri. Hazırlanıyorduk ve sizleri zayıf, şekilsiz kilden muhteşem bir şeye dönüştürmek için elimden geleni yaptım."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:13
 translate turkish sm1fs_t007_fa06fc92:
 
     # dvh "I know what it's like to be where you are standing."
-    dvh "I know what it's like to be where you are standing."
+    dvh "Sizin durumunuzda olmanın nasıl bir şey olduğunu biliyorum."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:14
 translate turkish sm1fs_t007_b3f93918:
 
     # dvh "You want sleep. Want to quit. You're worried you'll screw up."
-    dvh "You want sleep. Want to quit. You're worried you'll screw up."
+    dvh "Uyumak istiyorsunuz. Bırakmak istiyorsunuz. Her şeyi berbat edeceğinizden endişeleniyorsunuz."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:17
 translate turkish sm1fs_t007_f06d2b91:
 
     # dvh "But you wouldn't be here if I didn't expect you could do this!"
-    dvh "But you wouldn't be here if I didn't expect you could do this!"
+    dvh "Ama bunu yapabileceğini beklemiyorseydim burada olmazdın!"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:20
 translate turkish sm1fs_t007_99d5c016:
 
     # dvh "Tonight, you're awake. Tonight, you're sharp!"
-    dvh "Tonight, you're awake. Tonight, you're sharp!"
+    dvh "Bu gece uyanıksınız. Bu gece kesksiniz!"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:21
 translate turkish sm1fs_t007_a8e4f93c:
 
     # dvh "Tonight we are going to bring the magic alive."
-    dvh "Tonight we are going to bring the magic alive."
+    dvh "Bu gece büyüyü hayata geçireceğiz."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:24
 translate turkish sm1fs_t007_1ba0c6b7:
 
     # dvh "I want you to leave it all on the stage."
-    dvh "I want you to leave it all on the stage."
+    dvh "Her şeyi sahnede bırakmanızı istiyorum."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:25
 translate turkish sm1fs_t007_dd3f6629:
 
     # dvh "Do that, and the whole town will be buzzing about our newest show."
-    dvh "Do that, and the whole town will be buzzing about our newest show."
+    dvh "Bunu yapın, tüm kasaba en yeni gösterimizden bahsedecek."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:27
 translate turkish sm1fs_t007_4897cbd7:
 
     # dvh "Now...{w} are you ready to fly?"
-    dvh "Now...{w} are you ready to fly?"
+    dvh "Şimdi...{w} uçmaya hazır mısınız?"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:30
 translate turkish sm1fs_t007_94ad2941:
 
     # kw "Yes, ma'am!"
-    kw "Yes, ma'am!"
+    kw "Evet, hanımefendi!"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:31
 translate turkish sm1fs_t007_6e440a69:
 
     # vs "We've got this!"
-    vs "We've got this!"
+    vs "Bunu başaracağız!"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:32
 translate turkish sm1fs_t007_5627e49e:
 
     # tl "Let's kill it."
-    tl "Let's kill it."
+    tl "Hadi yapalım."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:35
 translate turkish sm1fs_t007_6994ac98:
 
     # dvh "Bruce, [mcname], let's make this seamless."
-    dvh "Bruce, [mcname], let's make this seamless."
+    dvh "Bruce, [mcname], bunu kusursuz yapalım."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:37
 translate turkish sm1fs_t007_b21879f3:
 
     # dvh "Places in ten minutes."
-    dvh "Places in ten minutes."
+    dvh "On dakika sonra pozisyonlarınıza."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:40
 translate turkish sm1fs_t007_d29165a1:
 
     # vs "Oh my God, I'm so nervous! Are you nervous?"
-    vs "Oh my God, I'm so nervous! Are you nervous?"
+    vs "Tanrım, çok gerginim! Sen gergin misin?"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:43
 translate turkish sm1fs_t007_9e122cdf:
 
     # vs "You look nervous.{w} Or maybe that's just your face."
-    vs "You look nervous.{w} Or maybe that's just your face."
+    vs "Gergin görünüyorsun.{w} Ya da belki de yüzün öyle."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:44
 translate turkish sm1fs_t007_5a641d76:
 
     # vs "Are you sick, don't be sick, [mcname]."
-    vs "Are you sick, don't be sick, [mcname]."
+    vs "Hasta mısın, hasta olma, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:46
 translate turkish sm1fs_t007_8114a09f:
@@ -116,211 +116,211 @@ translate turkish sm1fs_t007_8114a09f:
 translate turkish sm1fs_t007_93d8b122:
 
     # mc "I'm a little nervous, yeah. First opening night and all."
-    mc "I'm a little nervous, yeah. First opening night and all."
+    mc "Biraz gerginim, evet. İlk açılış gecesi falan."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:55
 translate turkish sm1fs_t007_0b1be79b:
 
     # vs "Oh good! I mean, not good that you're nervous, but good that I'm not alone."
-    vs "Oh good! I mean, not good that you're nervous, but good that I'm not alone."
+    vs "Oh iyi! Yani, gergin olman iyi değil ama yalnız olmadığım iyi."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:56
 translate turkish sm1fs_t007_3535de8a:
 
     # vs "*beams* We're gonna crush this together!"
-    vs "*beams* We're gonna crush this together!"
+    vs "*ışıldar* Bunu birlikte başaracağız!"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:61
 translate turkish sm1fs_t007_6327ef79:
 
     # mc "I'm terrified. This headset is the only thing keeping me from running out the door."
-    mc "I'm terrified. This headset is the only thing keeping me from running out the door."
+    mc "Korkuyorum. Bu kulaklık beni kapıdan dışarı kaçmaktan alıkoyan tek şey."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:64
 translate turkish sm1fs_t007_911bb4d8:
 
     # vs "*laughs* Don't sweat it, [mcname]. I have faith in you."
-    vs "*laughs* Don't sweat it, [mcname]. I have faith in you."
+    vs "*güler* Endişelenme, [mcname]. Sana güvenim var."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:65
 translate turkish sm1fs_t007_9691674e:
 
     # vs "You practiced just as much as the rest of us."
-    vs "You practiced just as much as the rest of us."
+    vs "Aramızdan herkes kadar pratik yaptın."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:68
 translate turkish sm1fs_t007_cbe30cbd:
 
     # vs "I'm sure you could do this blindfolded."
-    vs "I'm sure you could do this blindfolded."
+    vs "Eminim bunu gözlerin kapalı yapabilirsin."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:70
 translate turkish sm1fs_t007_b74942e8:
 
     # vs "Probably. Maybe. Hopefully."
-    vs "Probably. Maybe. Hopefully."
+    vs "Muhtemelen. Belki. Umarım."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:76
 translate turkish sm1fs_t007_35e7945d:
 
     # mc "Me? I'm just moving curtains. You're going to kill it out there."
-    mc "Me? I'm just moving curtains. You're going to kill it out there."
+    mc "Ben mi? Ben sadece perdeleri hareket ettiriyorum. Sen orada harika olacaksın."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:79
 translate turkish sm1fs_t007_29e0cafb:
 
     # vs "*laughs* Haha. I know!"
-    vs "*laughs* Haha. I know!"
+    vs "*güler* Haha. Biliyorum!"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:81
 translate turkish sm1fs_t007_4ac4c560:
 
     # vs "But I'm glad you're not letting your nerves get to you."
-    vs "But I'm glad you're not letting your nerves get to you."
+    vs "Ama gerginliğinin seni ele geçirmesine izin vermemene sevindim."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:83
 translate turkish sm1fs_t007_7209eea5:
 
     # mc "Who said I'm nervous."
-    mc "Who said I'm nervous."
+    mc "Kim gergin olduğumu söyledi."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:86
 translate turkish sm1fs_t007_2dc7bf54:
 
     # vs "Just your eyes, your head movements, your general aura."
-    vs "Just your eyes, your head movements, your general aura."
+    vs "Sadece gözlerin, baş hareketlerin, genel auran."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:87
 translate turkish sm1fs_t007_b07d1706:
 
     # vs "But it's okay. I know you can do this."
-    vs "But it's okay. I know you can do this."
+    vs "Ama sorun değil. Bunu yapabileceğini biliyorum."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:89
 translate turkish sm1fs_t007_5affd919:
 
     # vs "It's just acting after all."
-    vs "It's just acting after all."
+    vs "Sonuçta sadece oyunculuk."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:91
 translate turkish sm1fs_t007_04c6af22:
 
     # vs "Oh wait, I mean. It's just pulling ropes and moving stuff."
-    vs "Oh wait, I mean. It's just pulling ropes and moving stuff."
+    vs "Oh bekle, yani. Sadece ipleri çekmek ve eşyaları taşımak."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:93
 translate turkish sm1fs_t007_a64e8bc0:
 
     # mc "Thanks."
-    mc "Thanks."
+    mc "Teşekkürler."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:97
 translate turkish sm1fs_t007_d5d6cb21:
 
     # sb "*via headset* [mcname], I need you at the curtain. We open in five."
-    sb "*via headset* [mcname], I need you at the curtain. We open in five."
+    sb "*kulaklıktan* [mcname], perdeye ihtiyacım var. Beş dakika sonra açıyoruz."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:100
 translate turkish sm1fs_t007_e481f623:
 
     # mc "Break a leg."
-    mc "Break a leg."
+    mc "Bol şans."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:102
 translate turkish sm1fs_t007_9547bbf5:
 
     # vs "You too!"
-    vs "You too!"
+    vs "Sen de!"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:108
 translate turkish sm1fs_t007_daf99578:
 
     # mct "Oh, whoa."
-    mct "Oh, whoa."
+    mct "Oh, vay canına."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:109
 translate turkish sm1fs_t007_7164d851:
 
     # mct "Nelson and Maya made it to opening night."
-    mct "Nelson and Maya made it to opening night."
+    mct "Nelson ve Maya açılış gecesine geldiler."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:111
 translate turkish sm1fs_t007_19af1044:
 
     # mct "I really need this show to be good. Or I might get fired from this job, and Wurst Delivery."
-    mct "I really need this show to be good. Or I might get fired from this job, and Wurst Delivery."
+    mct "Bu gösterinin iyi olması gerçekten gerekiyor. Yoksa bu işten ve Wurst Delivery'den kovulabilirim."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:114
 translate turkish sm1fs_t007_a761991a:
 
     # dvh "*via headset* House is at ninety percent capacity. We're holding for two more minutes, then we go."
-    dvh "*via headset* House is at ninety percent capacity. We're holding for two more minutes, then we go."
+    dvh "*kulaklıktan* Salon yüzde doksan dolu. İki dakika daha bekliyoruz, sonra başlıyoruz."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:115
 translate turkish sm1fs_t007_79fd43a2:
 
     # dvh "*via headset* [mcname], on my mark, you open the curtain. Smooth and steady."
-    dvh "*via headset* [mcname], on my mark, you open the curtain. Smooth and steady."
+    dvh "*kulaklıktan* [mcname], işaret verdiğimde perdeyi açacaksın. Yumuşak ve sabit."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:116
 translate turkish sm1fs_t007_a394c373:
 
     # mc "*whispers into headset* Copy that. Smooth and steady."
-    mc "*whispers into headset* Copy that. Smooth and steady."
+    mc "*kulaklığa fısıldar* Anlaşıldı. Yumuşak ve sabit."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:119
 translate turkish sm1fs_t007_7c7e5503:
 
     # dvh "*via headset* And...go."
-    dvh "*via headset* And...go."
+    dvh "*kulaklıktan* Ve...başla."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:129
 translate turkish sm1fs_t007_ebcc7d45:
 
     # sb "*whispers* Clean open. Good work."
-    sb "*whispers* Clean open. Good work."
+    sb "*fısıldar* Temiz açılış. İyi iş."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:132
 translate turkish sm1fs_t007_b51f6cf8:
 
     # sb "*whispers* Next task. Stage left lighting rig. Second light from the back is flickering."
-    sb "*whispers* Next task. Stage left lighting rig. Second light from the back is flickering."
+    sb "*fısıldar* Sonraki görev. Sahnenin sol tarafındaki aydınlatma düzeneği. Arkadan ikinci ışık yanıp sönüyor."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:133
 translate turkish sm1fs_t007_c94e8123:
 
     # sb "*whispers* You've got about eight minutes before the next scene change."
-    sb "*whispers* You've got about eight minutes before the next scene change."
+    sb "*fısıldar* Bir sonraki sahne değişimine kadar yaklaşık sekiz dakikan var."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:134
 translate turkish sm1fs_t007_39de506d:
 
     # mc "On it."
-    mc "On it."
+    mc "Üstündeyim."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:147
 translate turkish sm1fs_t007_e90380fd:
 
     # sb "*via headset* Nicely done. Now get to the quick-change station."
-    sb "*via headset* Nicely done. Now get to the quick-change station."
+    sb "*kulaklıktan* Güzel hallettiniz. Şimdi hızlı değişim istasyonuna git."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:148
 translate turkish sm1fs_t007_a8fd7686:
 
     # sb "*via headset* Veronica's coming off in ninety seconds, and her mic was cutting in and out."
-    sb "*via headset* Veronica's coming off in ninety seconds, and her mic was cutting in and out."
+    sb "*kulaklıktan* Veronica doksan saniye sonra sahne arkasına gelecek ve mikrofonu kesilip duruyor."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:151
 translate turkish sm1fs_t007_594b975b:
 
     # vs "*slightly breathless* [mcname]! Thank God. My mic keeps—"
-    vs "*slightly breathless* [mcname]! Thank God. My mic keeps—"
+    vs "*hafif nefessiz* [mcname]! Tanrıya şükür. Mikrofonum—"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:152
 translate turkish sm1fs_t007_7f411395:
 
     # "*crackles*"
-    "*crackles*"
+    "*çıtırdar*"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:155
 translate turkish sm1fs_t007_d8247e33:
