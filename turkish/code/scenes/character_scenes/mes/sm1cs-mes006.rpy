@@ -2,97 +2,97 @@
 translate turkish sm1cs_mes006_1e1af944:
 
     # mes "I'm here."
-    mes "I'm here."
+    mes "Buradayım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:90
 translate turkish sm1cs_mes006_ef1e3a02:
 
     # sy "Hi, Min!"
-    sy "Hi, Min!"
+    sy "Merhaba, Min!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:92
 translate turkish sm1cs_mes006_28bf1ea3:
 
     # mes "Uh. Hi, Stacy."
-    mes "Uh. Hi, Stacy."
+    mes "Uh. Merhaba, Stacy."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:95
 translate turkish sm1cs_mes006_d0ae92f5:
 
     # sy "I got so excited when [mcname] told me we were going to do a game night."
-    sy "I got so excited when [mcname] told me we were going to do a game night."
+    sy "[mcname] bana oyun gecesi yapacağımızı söylediğinde çok heyecanlandım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:98
 translate turkish sm1cs_mes006_c7e54aa0:
 
     # sy "Sometimes all we do is fuck fuck fuck and work work work."
-    sy "Sometimes all we do is fuck fuck fuck and work work work."
+    sy "Bazen tek yaptığımız şey sikişmek sikişmek sikişmek ve çalışmak çalışmak çalışmak."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:102
 translate turkish sm1cs_mes006_8104b0ec:
 
     # mc "Isn't that what other people do?"
-    mc "Isn't that what other people do?"
+    mc "Diğer insanların yaptığı şey bu değil mi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:104
 translate turkish sm1cs_mes006_6c67fd02:
 
     # mes "In your dreams they do."
-    mes "In your dreams they do."
+    mes "Senin rüyalarında öyle yapıyorlar."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:105
 translate turkish sm1cs_mes006_b2f9559e:
 
     # mc "Yeah. I like dreams."
-    mc "Yeah. I like dreams."
+    mc "Evet. Rüyaları severim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:108
 translate turkish sm1cs_mes006_6cfcd2dd:
 
     # mes "Before we get down to business, I need to use the ladies room."
-    mes "Before we get down to business, I need to use the ladies room."
+    mes "İşe başlamadan önce, tuvalete gitmem gerekiyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:110
 translate turkish sm1cs_mes006_06bbf89d:
 
     # mc "Sure. Right over there."
-    mc "Sure. Right over there."
+    mc "Tabii. Şurada."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:121
 translate turkish sm1cs_mes006_18909a39:
 
     # sy "What is that? Oooh. What's this?"
-    sy "What is that? Oooh. What's this?"
+    sy "Bu ne? Oooh. Bu nedir?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:123
 translate turkish sm1cs_mes006_e931584b:
 
     # mc "Just be patient. I'll explain everything."
-    mc "Just be patient. I'll explain everything."
+    mc "Sadece sabırlı ol. Her şeyi açıklayacağım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:126
 translate turkish sm1cs_mes006_995623fb:
 
     # sy "Can't you tell me now?"
-    sy "Can't you tell me now?"
+    sy "Bana şimdi söyleyemez misin?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:128
 translate turkish sm1cs_mes006_45e48829:
 
     # mc "Not without Min around."
-    mc "Not without Min around."
+    mc "Min olmadan olmaz."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:129
 translate turkish sm1cs_mes006_30ac8290:
 
     # mc "I don't want to go over the rules twice."
-    mc "I don't want to go over the rules twice."
+    mc "Kuralları iki kez anlatmak istemiyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:132
 translate turkish sm1cs_mes006_c53ea9aa:
 
     # sy "Fine."
-    sy "Fine."
+    sy "Tamam."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:135
 translate turkish sm1cs_mes006_e526a903:
@@ -104,19 +104,19 @@ translate turkish sm1cs_mes006_e526a903:
 translate turkish sm1cs_mes006_7467c38f:
 
     # mct "A text from Min."
-    mct "A text from Min."
+    mct "Min'den bir mesaj."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:139
 translate turkish sm1cs_mes006_54dcda15:
 
     # mct "Min \"Come to the bathroom.\""
-    mct "Min \"Come to the bathroom.\""
+    mct "Min \"Tuvalete gel.\""
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:142
 translate turkish sm1cs_mes006_2b362099:
 
     # mct "What is she up to?"
-    mct "What is she up to?"
+    mct "Ne planlıyor acaba?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:150
 translate turkish sm1cs_mes006_c9159ee9:
@@ -128,7 +128,7 @@ translate turkish sm1cs_mes006_c9159ee9:
 translate turkish sm1cs_mes006_1f9d77f1:
 
     # mes "I need a little help."
-    mes "I need a little help."
+    mes "Biraz yardıma ihtiyacım var."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:155
 translate turkish sm1cs_mes006_f800bed0:
@@ -140,37 +140,37 @@ translate turkish sm1cs_mes006_f800bed0:
 translate turkish sm1cs_mes006_69d5ede0:
 
     # mc "Is the toilet not working? Sometimes you have to jiggle it."
-    mc "Is the toilet not working? Sometimes you have to jiggle it."
+    mc "Tuvalet çalışmıyor mu? Bazen biraz oynatman gerekir."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:159
 translate turkish sm1cs_mes006_fbaf0998:
 
     # mes "No."
-    mes "No."
+    mes "Hayır."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:167
 translate turkish sm1cs_mes006_9bf83cef:
 
     # mes "Why don't you jiggle this?"
-    mes "Why don't you jiggle this?"
+    mes "Neden bunu oynatmıyorsun?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:169
 translate turkish sm1cs_mes006_5d19d297:
 
     # mc "That also might work. If your problem is a horny problem."
-    mc "That also might work. If your problem is a horny problem."
+    mc "Bu da işe yarayabilir. Eğer sorunun azgınlık sorunuysa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:170
 translate turkish sm1cs_mes006_636772de:
 
     # mes "It is."
-    mes "It is."
+    mes "Öyle."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:173
 translate turkish sm1cs_mes006_f0558424:
 
     # mes "I want to feel your fingers, [mcname]."
-    mes "I want to feel your fingers, [mcname]."
+    mes "Parmaklarını hissetmek istiyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:177
 translate turkish sm1cs_mes006_347ab5d9:
@@ -182,19 +182,19 @@ translate turkish sm1cs_mes006_347ab5d9:
 translate turkish sm1cs_mes006_e1692be3:
 
     # mc "Like this?"
-    mc "Like this?"
+    mc "Böyle mi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:188
 translate turkish sm1cs_mes006_3033e961:
 
     # mes "*breathy* You know that's how I like it."
-    mes "*breathy* You know that's how I like it."
+    mes "*nefes nefese* Böyle sevdiğimi biliyorsun."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:193
 translate turkish sm1cs_mes006_777e92c8:
 
     # mc "I enjoy hearing you ask for it."
-    mc "I enjoy hearing you ask for it."
+    mc "İstediğini duymaktan zevk alıyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:194
 translate turkish sm1cs_mes006_dadb5b86:
@@ -206,247 +206,247 @@ translate turkish sm1cs_mes006_dadb5b86:
 translate turkish sm1cs_mes006_ecf61e0e:
 
     # mc "Come on."
-    mc "Come on."
+    mc "Hadi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:196
 translate turkish sm1cs_mes006_490f3e16:
 
     # mes "Keep going, [mcname]."
-    mes "Keep going, [mcname]."
+    mes "Devam et, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:197
 translate turkish sm1cs_mes006_e56fdf21:
 
     # mes "I love feeling you play with my slutty pussy."
-    mes "I love feeling you play with my slutty pussy."
+    mes "Sürtük amımla oynamanı hissetmeyi seviyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:199
 translate turkish sm1cs_mes006_cdfd67d0:
 
     # mc "*hungry breathing*"
-    mc "*hungry breathing*"
+    mc "*aç nefes alışlar*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:204
 translate turkish sm1cs_mes006_c42be61c:
 
     # mc "*soft chuckle*"
-    mc "*soft chuckle*"
+    mc "*yumuşak kıkırdama*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:208
 translate turkish sm1cs_mes006_84d70034:
 
     # mes "Yes. Oh, it feels so good."
-    mes "Yes. Oh, it feels so good."
+    mes "Evet. Oh, çok iyi hissettiriyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:209
 translate turkish sm1cs_mes006_207b1c26:
 
     # mes "But... you can't let me cum."
-    mes "But... you can't let me cum."
+    mes "Ama... boşalmama izin veremezsin."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:211
 translate turkish sm1cs_mes006_c987c1db:
 
     # mc "That is kind of up to you, Min."
-    mc "That is kind of up to you, Min."
+    mc "Bu biraz sana kalmış, Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:212
 translate turkish sm1cs_mes006_76a7eb9e:
 
     # mes "No... auhuah... [mcname], I want-"
-    mes "No... auhuah... [mcname], I want-"
+    mes "Hayır... auhuah... [mcname], istiyorum-"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:214
 translate turkish sm1cs_mes006_5576bd8c:
 
     # mes "I want... huaah-oohouaah..."
-    mes "I want... huaah-oohouaah..."
+    mes "İstiyorum... huaah-oohouaah..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:215
 translate turkish sm1cs_mes006_c53f6bf8:
 
     # mct "I love how wet she's getting."
-    mct "I love how wet she's getting."
+    mct "Ne kadar ıslandığını seviyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:216
 translate turkish sm1cs_mes006_3e40f6b9:
 
     # mct "Ten bucks says Stacy is listening outside."
-    mct "Ten bucks says Stacy is listening outside."
+    mct "On dolara bahse girerim Stacy dışarıda dinliyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:218
 translate turkish sm1cs_mes006_913004ee:
 
     # mes "I mean I want you to {b}stop{/b} me from cumming."
-    mes "I mean I want you to {b}stop{/b} me from cumming."
+    mes "Yani boşalmamı {b}engellemeni{/b} istiyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:220
 translate turkish sm1cs_mes006_30c477b0:
 
     # mes "It's a fetish called Orgasm Control."
-    mes "It's a fetish called Orgasm Control."
+    mes "Buna Orgazm Kontrolü denir."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:221
 translate turkish sm1cs_mes006_840c2d63:
 
     # mes "And I want to learn more about it.{w} With you."
-    mes "And I want to learn more about it.{w} With you."
+    mes "Ve bu konuda daha fazla şey öğrenmek istiyorum.{w} Seninle."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:227
 translate turkish sm1cs_mes006_b82e3af4:
 
     # mes "*moaning loudly*"
-    mes "*moaning loudly*"
+    mes "*yüksek sesle inliyor*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:228
 translate turkish sm1cs_mes006_cc14f047:
 
     # mc "Is this a bondage thing?"
-    mc "Is this a bondage thing?"
+    mc "Bu bir bağlama şeyi mi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:229
 translate turkish sm1cs_mes006_9f8777c3:
 
     # mes "*moaning* I don't know right now..."
-    mes "*moaning* I don't know right now..."
+    mes "*inliyor* Şu anda bilmiyorum..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:232
 translate turkish sm1cs_mes006_5b4cacb9:
 
     # mes "But if you do it, it's supposed to make your next orgasm so good you nearly pass out."
-    mes "But if you do it, it's supposed to make your next orgasm so good you nearly pass out."
+    mes "Ama bunu yaparsan, bir sonraki orgazmını o kadar iyi yapması gerekiyor ki neredeyse bayılıyorsun."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:233
 translate turkish sm1cs_mes006_56be8aba:
 
     # mc "So no more watersports?"
-    mc "So no more watersports?"
+    mc "Yani artık su sporları yok mu?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:234
 translate turkish sm1cs_mes006_0cde49f8:
 
     # mes "Huh? *moaning frantically*"
-    mes "Huh? *moaning frantically*"
+    mes "Huh? *çılgınca inliyor*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:236
 translate turkish sm1cs_mes006_408f9447:
 
     # mes "Well... that's up to you. What do you think?"
-    mes "Well... that's up to you. What do you think?"
+    mes "Şey... bu sana kalmış. Ne düşünüyorsun?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:237
 translate turkish sm1cs_mes006_c8cfabd2:
 
     # mct "Do I want to keep doing watersports with Min?"
-    mct "Do I want to keep doing watersports with Min?"
+    mct "Min ile su sporları yapmaya devam etmek istiyor muyum?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:242
 translate turkish sm1cs_mes006_f60ef150:
 
     # mc "I think I'd love to keep doing it. As long as you're down."
-    mc "I think I'd love to keep doing it. As long as you're down."
+    mc "Sanırım bunu yapmaya devam etmeyi çok isterim. Sen de istediğin sürece."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:243
 translate turkish sm1cs_mes006_208cd987:
 
     # mes "Of course!"
-    mes "Of course!"
+    mes "Elbette!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:244
 translate turkish sm1cs_mes006_de2c9362:
 
     # mes "I always love watching and feeling you piss all over me."
-    mes "I always love watching and feeling you piss all over me."
+    mes "Üzerime işemeni izlemeyi ve hissetmeyi her zaman severim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:245
 translate turkish sm1cs_mes006_d8a98533:
 
     # mes "This new fetish is another special thing we can enjoy."
-    mes "This new fetish is another special thing we can enjoy."
+    mes "Bu yeni fetiş birlikte tadını çıkarabileceğimiz başka özel bir şey."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:246
 translate turkish sm1cs_mes006_1e01a266:
 
     # mc "Say no more."
-    mc "Say no more."
+    mc "Daha fazla söyleme."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:250
 translate turkish sm1cs_mes006_e8998754:
 
     # mc "I think it was fun but I'm interested to focus on other stuff."
-    mc "I think it was fun but I'm interested to focus on other stuff."
+    mc "Bence eğlenceliydi ama başka şeylere odaklanmak istiyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:251
 translate turkish sm1cs_mes006_d66b7c4f:
 
     # mes "Sounds good to me, [mcname]."
-    mes "Sounds good to me, [mcname]."
+    mes "Bana iyi geldi, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:252
 translate turkish sm1cs_mes006_4331d2d8:
 
     # mes "I'm just glad we can keep exploring new things. *moans* Like this one."
-    mes "I'm just glad we can keep exploring new things. *moans* Like this one."
+    mes "Yeni şeyleri keşfetmeye devam edebilmemize sevindim. *inliyor* Bunun gibi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:253
 translate turkish sm1cs_mes006_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "Ben de."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:255
 translate turkish sm1cs_mes006_e20e842a:
 
     # mc "Wait. Well, you should probably say something when you get close."
-    mc "Wait. Well, you should probably say something when you get close."
+    mc "Bekle. Yaklaştığında bir şeyler söylemen gerekir."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:256
 translate turkish sm1cs_mes006_bf211877:
 
     # mc "Or I won't know when to stop."
-    mc "Or I won't know when to stop."
+    mc "Yoksa ne zaman duracağımı bilemem."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:261
 translate turkish sm1cs_mes006_d0f12525:
 
     # mes "*laughing moans*"
-    mes "*laughing moans*"
+    mes "*gülerek inliyor*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:262
 translate turkish sm1cs_mes006_3ec3dbff:
 
     # mes "Never change, [mcname]."
-    mes "Never change, [mcname]."
+    mes "Asla değişme, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:263
 translate turkish sm1cs_mes006_14179337:
 
     # mes "Mu-rhuah... YES. Right there!"
-    mes "Mu-rhuah... YES. Right there!"
+    mes "Mu-rhuah... EVET. Tam orası!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:264
 translate turkish sm1cs_mes006_4a4e1a0d:
 
     # mc "I love you, my naughty fuck-minx"
-    mc "I love you, my naughty fuck-minx"
+    mc "Seni seviyorum, yaramaz sürtüğüm"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:265
 translate turkish sm1cs_mes006_a7e4ffe2:
 
     # mes "Yes... I love you too, [mcname]."
-    mes "Yes... I love you too, [mcname]."
+    mes "Evet... Ben de seni seviyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:266
 translate turkish sm1cs_mes006_4b4ee843:
 
     # mes "This is... nuaah... ooouhah... Just what I needed."
-    mes "This is... nuaah... ooouhah... Just what I needed."
+    mes "Bu... nuaah... ooouhah... Tam ihtiyacım olan şey."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:269
 translate turkish sm1cs_mes006_4c0d420b:
 
     # mes "Oh damn. [mcname]! I'm getting really close!"
-    mes "Oh damn. [mcname]! I'm getting really close!"
+    mes "Oh lanet olsun. [mcname]! Gerçekten yaklaşıyorum!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:270
 translate turkish sm1cs_mes006_49aeeeb0:
@@ -458,7 +458,7 @@ translate turkish sm1cs_mes006_49aeeeb0:
 translate turkish sm1cs_mes006_2fd50d62:
 
     # mct "Should I stop her now, or take her just a little bit further?"
-    mct "Should I stop her now, or take her just a little bit further?"
+    mct "Şimdi onu durdurmalı mıyım, yoksa biraz daha mı götürmeliyim?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:278
 translate turkish sm1cs_mes006_31288a1c:
@@ -470,31 +470,31 @@ translate turkish sm1cs_mes006_31288a1c:
 translate turkish sm1cs_mes006_b4db018c:
 
     # mc "Don't cum, Min. If you cum, you'll have to be punished."
-    mc "Don't cum, Min. If you cum, you'll have to be punished."
+    mc "Boşalma, Min. Boşalırsan cezalandırılacaksın."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:286
 translate turkish sm1cs_mes006_276aecfa:
 
     # mes "*panting* Fuck. Oh fuck you bastard."
-    mes "*panting* Fuck. Oh fuck you bastard."
+    mes "*soluk soluğa* Siktir. Oh siktir sen piç."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:287
 translate turkish sm1cs_mes006_70367c4e:
 
     # mes "I was so close-huaah..."
-    mes "I was so close-huaah..."
+    mes "Çok yakındım-huaah..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:290
 translate turkish sm1cs_mes006_a47c84cd:
 
     # mc "Come on now. You're Min."
-    mc "Come on now. You're Min."
+    mc "Hadi ama. Sen Min'sin."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:291
 translate turkish sm1cs_mes006_e5ef493e:
 
     # mc "You can take it."
-    mc "You can take it."
+    mc "Bunu kaldırabilirsin."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:295
 translate turkish sm1cs_mes006_3b81aff2:
@@ -506,13 +506,13 @@ translate turkish sm1cs_mes006_3b81aff2:
 translate turkish sm1cs_mes006_17c18fa7:
 
     # mes "Fuah... fine. I'm fine."
-    mes "Fuah... fine. I'm fine."
+    mes "Fuah... tamam. İyiyim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:301
 translate turkish sm1cs_mes006_87e26eb2:
 
     # mc "Good girl."
-    mc "Good girl."
+    mc "İyi kız."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:304
 translate turkish sm1cs_mes006_dadb5b86_1:
@@ -530,7 +530,7 @@ translate turkish sm1cs_mes006_6341b83f:
 translate turkish sm1cs_mes006_e573159f:
 
     # mc "Stick out your tongue, my little minx."
-    mc "Stick out your tongue, my little minx."
+    mc "Dilini çıkar, küçük sürtüğüm."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:311
 translate turkish sm1cs_mes006_1f9727f8:
@@ -554,13 +554,13 @@ translate turkish sm1cs_mes006_3d25b3ed:
 translate turkish sm1cs_mes006_46d3cd42:
 
     # mc "Is that edgy enough for you."
-    mc "Is that edgy enough for you."
+    mc "Bu senin için yeterince sert mi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:330
 translate turkish sm1cs_mes006_3cfc65b5:
 
     # mes "*shakily* Yes."
-    mes "*shakily* Yes."
+    mes "*titrek bir şekilde* Evet."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:332
 translate turkish sm1cs_mes006_87e26eb2_1:
@@ -572,37 +572,37 @@ translate turkish sm1cs_mes006_87e26eb2_1:
 translate turkish sm1cs_mes006_fa75a44e:
 
     # mc "I'm going to go finish setting up."
-    mc "I'm going to go finish setting up."
+    mc "Hazırlıkları bitirmeye gideceğim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:336
 translate turkish sm1cs_mes006_015e9020:
 
     # mc "Get cleaned up, but don't you dare cum."
-    mc "Get cleaned up, but don't you dare cum."
+    mc "Temizlen, ama sakın boşalmaya kalkma."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:340
 translate turkish sm1cs_mes006_5959f1d4:
 
     # mes "*shallow breathing* I know."
-    mes "*shallow breathing* I know."
+    mes "*sığ nefes alışlar* Biliyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:343
 translate turkish sm1cs_mes006_97d10803:
 
     # mct "Alright, I should slow things down."
-    mct "Alright, I should slow things down."
+    mct "Tamam, işleri yavaşlatmalıyım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:348
 translate turkish sm1cs_mes006_f29158b6:
 
     # mct "Don't want to put Min in shock."
-    mct "Don't want to put Min in shock."
+    mct "Min'i şok geçirmek istemem."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:351
 translate turkish sm1cs_mes006_9a66cb96:
 
     # mes "*shallow moans* Muh-huaah..."
-    mes "*shallow moans* Muh-huaah..."
+    mes "*sığ inlemeler* Muh-huaah..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:352
 translate turkish sm1cs_mes006_9b3e11d0:
@@ -614,67 +614,67 @@ translate turkish sm1cs_mes006_9b3e11d0:
 translate turkish sm1cs_mes006_5e14e06d:
 
     # mes "Oh this fucking sucks..."
-    mes "Oh this fucking sucks..."
+    mes "Oh bu berbat..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:354
 translate turkish sm1cs_mes006_88c6ee16:
 
     # mes "So much..."
-    mes "So much..."
+    mes "Çok fazla..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:357
 translate turkish sm1cs_mes006_af550d59:
 
     # mc "We can keep going."
-    mc "We can keep going."
+    mc "Devam edebiliriz."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:359
 translate turkish sm1cs_mes006_dfa3237e:
 
     # mes "No. I got this."
-    mes "No. I got this."
+    mes "Hayır. Hallederim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:360
 translate turkish sm1cs_mes006_24d882f1:
 
     # mes "It was easy."
-    mes "It was easy."
+    mes "Kolaydı."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:364
 translate turkish sm1cs_mes006_127dc7f4:
 
     # mes "I have such a good boyfriend."
-    mes "I have such a good boyfriend."
+    mes "Çok iyi bir erkek arkadaşım var."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:374
 translate turkish sm1cs_mes006_ecf872dc:
 
     # mc "Wait."
-    mc "Wait."
+    mc "Bekle."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:375
 translate turkish sm1cs_mes006_c238ad04:
 
     # mc "We need a safe word, in case you want to end it."
-    mc "We need a safe word, in case you want to end it."
+    mc "Bir güvenlik kelimesine ihtiyacımız var, durdurmak istersen diye."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:378
 translate turkish sm1cs_mes006_b4e0bfae:
 
     # mes "Haha. I think that is just what you want."
-    mes "Haha. I think that is just what you want."
+    mes "Haha. Sanırım istediğin tam olarak bu."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:381
 translate turkish sm1cs_mes006_1caf12c3:
 
     # mc "Come on, Min. Safety first, right?"
-    mc "Come on, Min. Safety first, right?"
+    mc "Hadi ama, Min. Önce güvenlik, değil mi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:384
 translate turkish sm1cs_mes006_e5a44c4a:
 
     # mes "Okay."
-    mes "Okay."
+    mes "Tamam."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:385
 translate turkish sm1cs_mes006_3b52be4e:
@@ -686,13 +686,13 @@ translate turkish sm1cs_mes006_3b52be4e:
 translate turkish sm1cs_mes006_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "Anladım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:389
 translate turkish sm1cs_mes006_da19d979:
 
     # mc "I'll see you out there."
-    mc "I'll see you out there."
+    mc "Dışarıda görüşürüz."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:402
 translate turkish sm1cs_mes006_bd9a2c17:
@@ -704,145 +704,145 @@ translate turkish sm1cs_mes006_bd9a2c17:
 translate turkish sm1cs_mes006_a5948d14:
 
     # sy "Thought I was going to have to go rescue you two."
-    sy "Thought I was going to have to go rescue you two."
+    sy "İkinizi kurtarmaya gitmem gerekecek sandım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:406
 translate turkish sm1cs_mes006_a2ec2c51:
 
     # sy "Or join in on whatever you were actually doing."
-    sy "Or join in on whatever you were actually doing."
+    sy "Ya da gerçekte ne yapıyorsanız ona katılmam gerekecek."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:412
 translate turkish sm1cs_mes006_19e33e24:
 
     # mes "So what game did you grab?"
-    mes "So what game did you grab?"
+    mes "Peki hangi oyunu aldın?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:414
 translate turkish sm1cs_mes006_608da802:
 
     # mc "Great game. It's called 'Boss Dungeon'."
-    mc "Great game. It's called 'Boss Dungeon'."
+    mc "Harika bir oyun. Adı 'Boss Dungeon'."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:415
 translate turkish sm1cs_mes006_924a8a9f:
 
     # mc "We all get to play the Boss character in charge of our own dungeon."
-    mc "We all get to play the Boss character in charge of our own dungeon."
+    mc "Hepimiz kendi zindanımızın başındaki Boss karakterini oynuyoruz."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:418
 translate turkish sm1cs_mes006_016ace61:
 
     # sy "Oh cool. A medusa."
-    sy "Oh cool. A medusa."
+    sy "Oh harika. Bir medusa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:421
 translate turkish sm1cs_mes006_74e0b126:
 
     # mes "This one looks like Boswer."
-    mes "This one looks like Boswer."
+    mes "Bu Boswer'a benziyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:423
 translate turkish sm1cs_mes006_4e6875bb:
 
     # mc "Yes, we'll randomly draw two and pick the one we like."
-    mc "Yes, we'll randomly draw two and pick the one we like."
+    mc "Evet, rastgele iki tane çekip istediğimizi seçeceğiz."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:427
 translate turkish sm1cs_mes006_a6bc92e7:
 
     # sy "I call the medusa!"
-    sy "I call the medusa!"
+    sy "Medusa'yı ben alıyorum!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:429
 translate turkish sm1cs_mes006_9ff7b3e8:
 
     # mc "Stacy that's against the rules."
-    mc "Stacy that's against the rules."
+    mc "Stacy bu kurallara aykırı."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:433
 translate turkish sm1cs_mes006_f90b2d59:
 
     # sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
-    sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
+    sy "Kurallar, şurallar,.{w} Medusa seksi ve yeşil, saçım gibi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:434
 translate turkish sm1cs_mes006_392a584c:
 
     # sy "I {b}have{/b} to be her."
-    sy "I {b}have{/b} to be her."
+    sy "O {b}olmak zorundayım{/b}."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:441
 translate turkish sm1cs_mes006_e809e247:
 
     # mc "Fine you can play the Medusa."
-    mc "Fine you can play the Medusa."
+    mc "Tamam Medusa'yı oynayabilirsin."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:442
 translate turkish sm1cs_mes006_abdcb8c5:
 
     # mc "Min, do you want to be the big turtle monster?"
-    mc "Min, do you want to be the big turtle monster?"
+    mc "Min, büyük kaplumbağa canavarı olmak ister misin?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:445
 translate turkish sm1cs_mes006_76b4b16e:
 
     # mes "I'll be him if I draw him."
-    mes "I'll be him if I draw him."
+    mes "Onu çekersem olurum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:447
 translate turkish sm1cs_mes006_a8daba0a:
 
     # mc "Cool."
-    mc "Cool."
+    mc "Harika."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:454
 translate turkish sm1cs_mes006_1aff12a3:
 
     # mes "Don't be a spoiled winner."
-    mes "Don't be a spoiled winner."
+    mes "Şımarık bir kazanan olma."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:457
 translate turkish sm1cs_mes006_cdca773f:
 
     # sy "I'm not."
-    sy "I'm not."
+    sy "Değilim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:458
 translate turkish sm1cs_mes006_69638270:
 
     # sy "Come on, let's get cooking."
-    sy "Come on, let's get cooking."
+    sy "Hadi, başlayalım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:465
 translate turkish sm1cs_mes006_9ad3e47f:
 
     # mc "You don't get to pick a card, Stacy."
-    mc "You don't get to pick a card, Stacy."
+    mc "Kart seçemezsin, Stacy."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:466
 translate turkish sm1cs_mes006_47bf6aa1:
 
     # mc "It's done randomly to make it fair."
-    mc "It's done randomly to make it fair."
+    mc "Adil olması için rastgele yapılıyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:470
 translate turkish sm1cs_mes006_8b06e80c:
 
     # sy "Alright. Jeez. We can play by the rules."
-    sy "Alright. Jeez. We can play by the rules."
+    sy "Tamam. Tanrım. Kurallara göre oynayabiliriz."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:471
 translate turkish sm1cs_mes006_b33e4940:
 
     # sy "Cause that's always fun."
-    sy "Cause that's always fun."
+    sy "Çünkü bu her zaman eğlencelidir."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:476
 translate turkish sm1cs_mes006_c79310c6:
 
     # mes "Are we ready?"
-    mes "Are we ready?"
+    mes "Hazır mıyız?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:478
 translate turkish sm1cs_mes006_f800bed0_1:
@@ -854,97 +854,97 @@ translate turkish sm1cs_mes006_f800bed0_1:
 translate turkish sm1cs_mes006_f19a0df0:
 
     # mc "Welcome to Boss Dungeon. The objectives are simple..."
-    mc "Welcome to Boss Dungeon. The objectives are simple..."
+    mc "Boss Dungeon'a hoş geldiniz. Hedefler basit..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:483
 translate turkish sm1cs_mes006_bdf74431:
 
     # mc "Be the last Boss Monster standing, or collect ten souls from the heroes."
-    mc "Be the last Boss Monster standing, or collect ten souls from the heroes."
+    mc "Ayakta kalan son Boss Canavarı olun veya kahramanlardan on ruh toplayın."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:498
 translate turkish sm1cs_mes006_continue_5ac051d6:
 
     # mes "I play Warlock Library."
-    mes "I play Warlock Library."
+    mes "Warlock Library oynuyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:499
 translate turkish sm1cs_mes006_continue_bc3ecaf5:
 
     # mes "All my treasure turns to Magic Books."
-    mes "All my treasure turns to Magic Books."
+    mes "Tüm hazinem Sihirli Kitaplara dönüşüyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:502
 translate turkish sm1cs_mes006_continue_d6817765:
 
     # sy "Wait."
-    sy "Wait."
+    sy "Bekle."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:503
 translate turkish sm1cs_mes006_continue_f1b25c22:
 
     # sy "What does that mean? [mcname]?"
-    sy "What does that mean? [mcname]?"
+    sy "Bu ne demek? [mcname]?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:506
 translate turkish sm1cs_mes006_continue_3e575e38:
 
     # mc "Trouble."
-    mc "Trouble."
+    mc "Sorun."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:507
 translate turkish sm1cs_mes006_continue_99bac5fb:
 
     # mc "All the heroes after magic items now go to Min's dungeon."
-    mc "All the heroes after magic items now go to Min's dungeon."
+    mc "Sihirli eşya arayan tüm kahramanlar artık Min'in zindanına gidiyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:511
 translate turkish sm1cs_mes006_continue_806ce49e:
 
     # mes "That's really cool."
-    mes "That's really cool."
+    mes "Bu gerçekten harika."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:512
 translate turkish sm1cs_mes006_continue_c18b7bc7:
 
     # mes "How many souls do I get?"
-    mes "How many souls do I get?"
+    mes "Kaç ruh alıyorum?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:515
 translate turkish sm1cs_mes006_continue_c35c3984:
 
     # mc "Don't get cute, Min. All three of those heroes just got killed in your dungeon."
-    mc "Don't get cute, Min. All three of those heroes just got killed in your dungeon."
+    mc "Şirinlik yapma, Min. O üç kahramanın hepsi zindanında öldürüldü."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:517
 translate turkish sm1cs_mes006_continue_e8702862:
 
     # mes "Perfect. That means I pick up three souls!"
-    mes "Perfect. That means I pick up three souls!"
+    mes "Mükemmel. Bu üç ruh aldığım anlamına geliyor!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:520
 translate turkish sm1cs_mes006_continue_1099e931:
 
     # sy "Oh no. That's really bad. I think."
-    sy "Oh no. That's really bad. I think."
+    sy "Oh hayır. Bu gerçekten kötü. Sanırım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:522
 translate turkish sm1cs_mes006_continue_a814932f:
 
     # mc "Yeah. Bad. Min now has seven souls."
-    mc "Yeah. Bad. Min now has seven souls."
+    mc "Evet. Kötü. Min'in şimdi yedi ruhu var."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:525
 translate turkish sm1cs_mes006_continue_67b9bcd4:
 
     # sy "Three more and she wins."
-    sy "Three more and she wins."
+    sy "Üç tane daha ve kazanıyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:528
 translate turkish sm1cs_mes006_continue_ebacde9c:
 
     # mes "All your souls will belong to us."
-    mes "All your souls will belong to us."
+    mes "Tüm ruhlarınız bize ait olacak."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:530
 translate turkish sm1cs_mes006_continue_faa03e1a:
@@ -956,217 +956,217 @@ translate turkish sm1cs_mes006_continue_faa03e1a:
 translate turkish sm1cs_mes006_continue_e6d20954:
 
     # mes "This is no time to laugh, [mcname]."
-    mes "This is no time to laugh, [mcname]."
+    mes "Gülme zamanı değil, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:535
 translate turkish sm1cs_mes006_continue_4744a556:
 
     # sy "We should form an alliance bro."
-    sy "We should form an alliance bro."
+    sy "Bir ittifak kurmalıyız dostum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:537
 translate turkish sm1cs_mes006_continue_926fd374:
 
     # sy "We need to form an alliance."
-    sy "We need to form an alliance."
+    sy "Bir ittifak kurmalıyız."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:538
 translate turkish sm1cs_mes006_continue_c1e5ee47:
 
     # sy "Let's become a power couple in the game."
-    sy "Let's become a power couple in the game."
+    sy "Oyunda bir güç çifti olalım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:541
 translate turkish sm1cs_mes006_continue_0175dc96:
 
     # mc "No alliances."
-    mc "No alliances."
+    mc "İttifak yok."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:542
 translate turkish sm1cs_mes006_continue_4115e4b7:
 
     # mc "Besides, I haven't forgotten that assassin you sent into my dungeon."
-    mc "Besides, I haven't forgotten that assassin you sent into my dungeon."
+    mc "Ayrıca, zindanıma gönderdiğin suikastçıyı unutmadım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:545
 translate turkish sm1cs_mes006_continue_b97eec6e:
 
     # sy "Huh? I didn't even know that was how it worked."
-    sy "Huh? I didn't even know that was how it worked."
+    sy "Huh? Böyle çalıştığını bile bilmiyordum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:547
 translate turkish sm1cs_mes006_continue_53c27928:
 
     # mes "And what about the second one?"
-    mes "And what about the second one?"
+    mes "Peki ya ikincisi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:550
 translate turkish sm1cs_mes006_continue_5b33b3a9:
 
     # sy "Well that time was just good strategy, and for fun."
-    sy "Well that time was just good strategy, and for fun."
+    sy "O sefer sadece iyi bir stratejiydi ve eğlence içindi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:552
 translate turkish sm1cs_mes006_continue_307a2969:
 
     # mc "And this is why no alliances."
-    mc "And this is why no alliances."
+    mc "İşte bu yüzden ittifak yok."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:556
 translate turkish sm1cs_mes006_continue_015aa569:
 
     # "Stacy and Min" "*Laughing*"
-    "Stacy and Min" "*Laughing*"
+    "Stacy ve Min" "*Gülüyorlar*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:559
 translate turkish sm1cs_mes006_continue_8e345497:
 
     # mct "Alright, I'm up, and then Stacy goes, and finally Min goes."
-    mct "Alright, I'm up, and then Stacy goes, and finally Min goes."
+    mct "Tamam, sıra bende, sonra Stacy, en sonunda Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:561
 translate turkish sm1cs_mes006_continue_b25e174d:
 
     # mct "If I don't do something big, Min will win."
-    mct "If I don't do something big, Min will win."
+    mct "Büyük bir şey yapmazsam, Min kazanacak."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:563
 translate turkish sm1cs_mes006_continue_e4f902df:
 
     # mct "But if I don't attack Min, maybe I can win, cause Stacy will try something to stop Min."
-    mct "But if I don't attack Min, maybe I can win, cause Stacy will try something to stop Min."
+    mct "Ama Min'e saldırmazsam, belki kazanabilirim, çünkü Stacy Min'i durdurmak için bir şey deneyecektir."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:564
 translate turkish sm1cs_mes006_continue_c06d4ef6:
 
     # mct "Decisions decisions."
-    mct "Decisions decisions."
+    mct "Kararlar kararlar."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:570
 translate turkish sm1cs_mes006_continue_dae18a54:
 
     # mc "I play Plumber Bros on Min."
-    mc "I play Plumber Bros on Min."
+    mc "Min'e Plumber Bros oynuyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:573
 translate turkish sm1cs_mes006_continue_2fc9b2d4:
 
     # mes "Timefreeze. Next player's turn is skipped."
-    mes "Timefreeze. Next player's turn is skipped."
+    mes "Zaman Dondurma. Sonraki oyuncunun sırası atlanır."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:575
 translate turkish sm1cs_mes006_continue_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Ne?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:576
 translate turkish sm1cs_mes006_continue_89bb3ad1:
 
     # mes "So the game skips, [mcname]."
-    mes "So the game skips, [mcname]."
+    mes "Yani oyun atlanıyor, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:579
 translate turkish sm1cs_mes006_continue_92d76a02:
 
     # sy "Which means I get to go."
-    sy "Which means I get to go."
+    sy "Bu da benim sıram geldi demek."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:583
 translate turkish sm1cs_mes006_continue_15d9ee39:
 
     # sy "I play the Bastard Executioner and kill the two most powerful heroes in town."
-    sy "I play the Bastard Executioner and kill the two most powerful heroes in town."
+    sy "Piç Cellat'ı oynuyorum ve kasabadaki en güçlü iki kahramanı öldürüyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:585
 translate turkish sm1cs_mes006_continue_7238fc03:
 
     # mc "Oh no."
-    mc "Oh no."
+    mc "Oh hayır."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:588
 translate turkish sm1cs_mes006_continue_29949c03:
 
     # sy "Oh yes! Which means that I win!"
-    sy "Oh yes! Which means that I win!"
+    sy "Oh evet! Bu da kazandığım anlamına geliyor!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:594
 translate turkish sm1cs_mes006_continue_1d5f8c00:
 
     # mct "Min has been really down lately."
-    mct "Min has been really down lately."
+    mct "Min son zamanlarda gerçekten keyifsiz."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:595
 translate turkish sm1cs_mes006_continue_a3895fd0:
 
     # mct "I'll help her out."
-    mct "I'll help her out."
+    mct "Ona yardım edeceğim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:599
 translate turkish sm1cs_mes006_continue_43d95c0e:
 
     # mc "I play Crusade on Stacy."
-    mc "I play Crusade on Stacy."
+    mc "Stacy'ye Crusade oynuyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:600
 translate turkish sm1cs_mes006_continue_c0842d8d:
 
     # mc "That will send the Paladin John Cross to your dungeon instead of Min's."
-    mc "That will send the Paladin John Cross to your dungeon instead of Min's."
+    mc "Bu Paladin John Cross'u Min'in yerine senin zindanına gönderecek."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:603
 translate turkish sm1cs_mes006_continue_112efae3:
 
     # sy "No fair!"
-    sy "No fair!"
+    sy "Haksızlık!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:606
 translate turkish sm1cs_mes006_continue_96c0a7bb:
 
     # sy "Now I only have one health left."
-    sy "Now I only have one health left."
+    sy "Şimdi sadece bir canım kaldı."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:608
 translate turkish sm1cs_mes006_continue_e68e8936:
 
     # mc "Oh really? I didn't notice that."
-    mc "Oh really? I didn't notice that."
+    mc "Oh gerçekten mi? Fark etmemiştim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:611
 translate turkish sm1cs_mes006_continue_7c8fa29f:
 
     # sy "I play Earthquake on Min. That destroys your magic library."
-    sy "I play Earthquake on Min. That destroys your magic library."
+    sy "Min'e Deprem oynuyorum. Bu sihirli kütüphaneni yok ediyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:619
 translate turkish sm1cs_mes006_continue_087bf285:
 
     # mes "I play Archmaester. For every two magic items in my dungeon, I get a soul."
-    mes "I play Archmaester. For every two magic items in my dungeon, I get a soul."
+    mes "Archmaester oynuyorum. Zindanımdaki her iki sihirli eşya için bir ruh alıyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:622
 translate turkish sm1cs_mes006_continue_382db91f:
 
     # mc "Min, you're still one soul short."
-    mc "Min, you're still one soul short."
+    mc "Min, hâlâ bir ruh eksik."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:624
 translate turkish sm1cs_mes006_continue_d6bd030d:
 
     # mes "Oh really? Darn?"
-    mes "Oh really? Darn?"
+    mes "Oh gerçekten mi? Kahretsin?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:627
 translate turkish sm1cs_mes006_continue_0facd9db:
 
     # sy "Two. Three."
-    sy "Two. Three."
+    sy "İki. Üç."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:628
 translate turkish sm1cs_mes006_continue_6cf9ea16:
 
     # sy "Haha! I just won!"
-    sy "Haha! I just won!"
+    sy "Haha! Kazandım!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:631
 translate turkish sm1cs_mes006_continue_05500ff6:
@@ -1178,67 +1178,67 @@ translate turkish sm1cs_mes006_continue_05500ff6:
 translate turkish sm1cs_mes006_continue_7d64d7b7:
 
     # sy "Yes I did. Because no one played a room card, I still get all the rogue heroes."
-    sy "Yes I did. Because no one played a room card, I still get all the rogue heroes."
+    sy "Evet kazandım. Kimse oda kartı oynamadığı için tüm haydut kahramanları ben alıyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:636
 translate turkish sm1cs_mes006_continue_94011dff:
 
     # sy "And all four of them die in my dungeon so I get four souls!"
-    sy "And all four of them die in my dungeon so I get four souls!"
+    sy "Ve dördü de zindanımda ölüyor, yani dört ruh alıyorum!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:637
 translate turkish sm1cs_mes006_continue_6f461961:
 
     # sy "That's ten!"
-    sy "That's ten!"
+    sy "Bu on!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:642
 translate turkish sm1cs_mes006_continue_c31b2193:
 
     # sy "In your face."
-    sy "In your face."
+    sy "Yüzünüze gözünüze."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:644
 translate turkish sm1cs_mes006_continue_c4badaa9:
 
     # mes "Well done, Stacy."
-    mes "Well done, Stacy."
+    mes "Aferin, Stacy."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:647
 translate turkish sm1cs_mes006_continue_335c817d:
 
     # mct "What just happened?"
-    mct "What just happened?"
+    mct "Ne oldu şimdi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:651
 translate turkish sm1cs_mes006_continue_cf7316e0:
 
     # sy "My first order as Queen of all boss dungeons is for you two to get us more drinks."
-    sy "My first order as Queen of all boss dungeons is for you two to get us more drinks."
+    sy "Tüm patron zindanların Kraliçesi olarak ilk emrim siz ikinizin bize daha fazla içki getirmeniz."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:652
 translate turkish sm1cs_mes006_continue_6f090bb6:
 
     # sy "Get them quickly and I shall be a sensual and merciful queen."
-    sy "Get them quickly and I shall be a sensual and merciful queen."
+    sy "Çabuk getirin ve şehvetli ve merhametli bir kraliçe olacağım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:656
 translate turkish sm1cs_mes006_continue_eb315316:
 
     # "[mcname] and Min" "Laughing"
-    "[mcname] and Min" "Laughing"
+    "[mcname] ve Min" "Gülüyorlar"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:659
 translate turkish sm1cs_mes006_continue_e3b9a087:
 
     # mes "We're so doomed."
-    mes "We're so doomed."
+    mes "Mahvolduk."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:661
 translate turkish sm1cs_mes006_continue_137134f8:
 
     # mc "At least you don't live with the Dungeon Queen."
-    mc "At least you don't live with the Dungeon Queen."
+    mc "En azından Zindan Kraliçesi ile yaşamıyorsun."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:668
 translate turkish sm1cs_mes006_continue_05500ff6_1:
@@ -1250,253 +1250,253 @@ translate turkish sm1cs_mes006_continue_05500ff6_1:
 translate turkish sm1cs_mes006_continue_a5a6bfdb:
 
     # mes "Nothing."
-    mes "Nothing."
+    mes "Bir şey değil."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:679
 translate turkish sm1cs_mes006_continue_50417edb:
 
     # mes "Stacy is fun."
-    mes "Stacy is fun."
+    mes "Stacy eğlenceli."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:680
 translate turkish sm1cs_mes006_continue_7d496051:
 
     # mes "A little bratty, but fun."
-    mes "A little bratty, but fun."
+    mes "Biraz yaramaz, ama eğlenceli."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:683
 translate turkish sm1cs_mes006_continue_62d62fdd:
 
     # mc "It's all for show. She knows she can be overly dramatic sometimes."
-    mc "It's all for show. She knows she can be overly dramatic sometimes."
+    mc "Hepsi gösteriş için. Bazen aşırı dramatik olabileceğini biliyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:684
 translate turkish sm1cs_mes006_continue_c0523ec0:
 
     # mc "I think."
-    mc "I think."
+    mc "Sanırım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:687
 translate turkish sm1cs_mes006_continue_292e527f:
 
     # mes "Now I wish I played my other card."
-    mes "Now I wish I played my other card."
+    mes "Şimdi diğer kartımı oynamış olmayı diliyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:689
 translate turkish sm1cs_mes006_continue_002a068d:
 
     # mc "Ah, you were playing {i}nice{/i}."
-    mc "Ah, you were playing {i}nice{/i}."
+    mc "Ah, {i}nazik{/i} oynuyordun."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:694
 translate turkish sm1cs_mes006_continue_ff5a69d7:
 
     # mes "Maybe."
-    mes "Maybe."
+    mes "Belki."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:696
 translate turkish sm1cs_mes006_continue_90f86819:
 
     # mc "Min Eun-Soo, losing on purpose."
-    mc "Min Eun-Soo, losing on purpose."
+    mc "Min Eun-Soo, kasten kaybediyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:699
 translate turkish sm1cs_mes006_continue_889ae141:
 
     # mes "I didn't say I did that. And don't ever tell my parents about that."
-    mes "I didn't say I did that. And don't ever tell my parents about that."
+    mes "Öyle yaptığımı söylemedim. Ve bunu ailememe asla söyleme."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:702
 translate turkish sm1cs_mes006_continue_33cea6f8:
 
     # mc "Your secret is safe with me."
-    mc "Your secret is safe with me."
+    mc "Sırrın bende güvende."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:706
 translate turkish sm1cs_mes006_continue_242daeea:
 
     # mes "I know what you were up to, [mcname]."
-    mes "I know what you were up to, [mcname]."
+    mes "Ne yaptığını biliyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:708
 translate turkish sm1cs_mes006_continue_5f135cbb:
 
     # mc "Me? I'm not up to anything."
-    mc "Me? I'm not up to anything."
+    mc "Ben mi? Hiçbir şey yapmıyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:713
 translate turkish sm1cs_mes006_continue_1705e330:
 
     # mc "Why what have you heard?"
-    mc "Why what have you heard?"
+    mc "Neden ne duydun?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:716
 translate turkish sm1cs_mes006_continue_fc7a0af8:
 
     # mes "It's what I saw."
-    mes "It's what I saw."
+    mes "Gördüğüm şey."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:717
 translate turkish sm1cs_mes006_continue_34ab56a5:
 
     # mes "The whole game I was crushing you two."
-    mes "The whole game I was crushing you two."
+    mes "Oyunun tamamında ikinizi eziyordum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:718
 translate turkish sm1cs_mes006_continue_f8192d1d:
 
     # mes "And even at the end, you didn't join up with Stacy to try to beat me."
-    mes "And even at the end, you didn't join up with Stacy to try to beat me."
+    mes "Ve sonunda bile, beni yenmek için Stacy ile birleşmedin."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:721
 translate turkish sm1cs_mes006_continue_1c583666:
 
     # mc "I was planning to beat you on my own."
-    mc "I was planning to beat you on my own."
+    mc "Seni kendi başıma yenmeyi planlıyordum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:722
 translate turkish sm1cs_mes006_continue_1e811b7f:
 
     # mc "I don't know how I lost."
-    mc "I don't know how I lost."
+    mc "Nasıl kaybettiğimi bilmiyorum."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:725
 translate turkish sm1cs_mes006_continue_21d6b28b:
 
     # mc "Unless, you {b}let{/b} Stacy win."
-    mc "Unless, you {b}let{/b} Stacy win."
+    mc "Tabii, Stacy'nin kazanmasına {b}izin vermediysen{/b}."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:727
 translate turkish sm1cs_mes006_continue_dc0cbc75:
 
     # mes "Well that's impossible."
-    mes "Well that's impossible."
+    mes "Bu imkansız."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:730
 translate turkish sm1cs_mes006_continue_22cfad4b:
 
     # mc "You did, didn't you?"
-    mc "You did, didn't you?"
+    mc "Yaptın, değil mi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:733
 translate turkish sm1cs_mes006_continue_35af0c5e:
 
     # mes "My lips are sealed. At the moment."
-    mes "My lips are sealed. At the moment."
+    mes "Dudaklarım mühürlü. Şu anda."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:738
 translate turkish sm1cs_mes006_continue_09971d21:
 
     # mc "Why did you do it."
-    mc "Why did you do it."
+    mc "Neden yaptın."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:740
 translate turkish sm1cs_mes006_continue_1d8491f1:
 
     # mes "Because there is a time for competition, and a time to friendly."
-    mes "Because there is a time for competition, and a time to friendly."
+    mes "Çünkü rekabet zamanı vardır, dostluk zamanı vardır."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:743
 translate turkish sm1cs_mes006_continue_24e2b880:
 
     # mes "I can always crush her in other ways."
-    mes "I can always crush her in other ways."
+    mes "Onu başka yollarla her zaman ezebilirim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:748
 translate turkish sm1cs_mes006_continue_d3ac7778:
 
     # mes "This has been a lot of fun you two."
-    mes "This has been a lot of fun you two."
+    mes "Bu çok eğlenceliydi ikiniz."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:749
 translate turkish sm1cs_mes006_continue_6d2a623d:
 
     # mes "I'm glad to have a night with friends instead of being alone in that big house."
-    mes "I'm glad to have a night with friends instead of being alone in that big house."
+    mes "O büyük evde yalnız olmak yerine arkadaşlarımla bir gece geçirdiğime sevindim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:752
 translate turkish sm1cs_mes006_continue_c01ff12d:
 
     # sy "I will trade you our place for your house right now."
-    sy "I will trade you our place for your house right now."
+    sy "Hemen şu anda evimizi senin evinle değiştiririm."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:755
 translate turkish sm1cs_mes006_continue_08029828:
 
     # mes "Haha. I don't think so, Stacy."
-    mes "Haha. I don't think so, Stacy."
+    mes "Haha. Sanmıyorum, Stacy."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:758
 translate turkish sm1cs_mes006_continue_14c36a33:
 
     # mes "Besides, you'd end up frustrated with it just as much as I am."
-    mes "Besides, you'd end up frustrated with it just as much as I am."
+    mes "Ayrıca, sen de benim kadar hayal kırıklığına uğrarsın."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:759
 translate turkish sm1cs_mes006_continue_b857b0fc:
 
     # mes "Being in a place that my parents helped buy me, well it has just left me feeling, joyless."
-    mes "Being in a place that my parents helped buy me, well it has just left me feeling, joyless."
+    mes "Ailemin bana almama yardım ettiği bir yerde olmak, beni neşesiz hissettiriyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:762
 translate turkish sm1cs_mes006_continue_6045e280:
 
     # sy "That sucks."
-    sy "That sucks."
+    sy "Bu kötü."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:764
 translate turkish sm1cs_mes006_continue_812d8797:
 
     # mes "You have no idea."
-    mes "You have no idea."
+    mes "Hiçbir fikrin yok."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:766
 translate turkish sm1cs_mes006_continue_faae18d6:
 
     # mes "And they keep calling me as soon as they know I'm not in classes."
-    mes "And they keep calling me as soon as they know I'm not in classes."
+    mes "Ve derste olmadığımı öğrenir öğrenmez beni aramaya devam ediyorlar."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:770
 translate turkish sm1cs_mes006_continue_2c9f1c00:
 
     # mes "They must have gotten my schedule from my brother."
-    mes "They must have gotten my schedule from my brother."
+    mes "Programımı ağabeyimden almış olmalılar."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:772
 translate turkish sm1cs_mes006_continue_61124161:
 
     # mc "Little rat."
-    mc "Little rat."
+    mc "Küçük fare."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:776
 translate turkish sm1cs_mes006_continue_fa05b08b:
 
     # mes "Hehe. He's not so bad."
-    mes "Hehe. He's not so bad."
+    mes "Hehe. O kadar da kötü değil."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:777
 translate turkish sm1cs_mes006_continue_8e7bafa1:
 
     # mes "But in this case, yes, he is a little rat."
-    mes "But in this case, yes, he is a little rat."
+    mes "Ama bu durumda, evet, küçük bir fare."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:781
 translate turkish sm1cs_mes006_continue_bfb67107:
 
     # mc "Do you think they'd ever force you to come back by selling the house?"
-    mc "Do you think they'd ever force you to come back by selling the house?"
+    mc "Sence evi satarak seni geri dönmeye zorlayabilirler mi?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:783
 translate turkish sm1cs_mes006_continue_19786203:
 
     # mes "I don't think so. Luckily, it's not completely their decision."
-    mes "I don't think so. Luckily, it's not completely their decision."
+    mes "Sanmıyorum. Neyse ki, tamamen onların kararı değil."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:786
 translate turkish sm1cs_mes006_continue_6fba7714:
 
     # mes "I got some money willed to me by a family member, specifically so I could do my schooling here in the states."
-    mes "I got some money willed to me by a family member, specifically so I could do my schooling here in the states."
+    mes "Bir aile üyesi tarafından bana miras olarak biraz para bırakıldı, özellikle burada Birleşik Devletler'de eğitimimi yapabilmem için."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:787
 translate turkish sm1cs_mes006_continue_365bd374:
