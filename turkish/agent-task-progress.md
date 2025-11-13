@@ -16,63 +16,63 @@ File: Turkish/code\scenes\character_scenes\bg\sm1cs-bg005.rpy (done)
 
 File: Turkish/code\scenes\character_scenes\cs\sm1cs-cs001.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc-renovation.rpy
+File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc-renovation.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc002.rpy
+File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc002.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc004.rpy
+File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc004.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc006.rpy
+File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc006.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc006i.rpy
+File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc006i.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc007.rpy
+File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc007.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc008.rpy
+File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc008.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc009.rpy
+File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc009.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc009i.rpy
+File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc009i.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc010.rpy
+File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc010.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc010i.rpy
+File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc010i.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\kv\sm1cs-kv001.rpy
+File: Turkish/code\scenes\character_scenes\kv\sm1cs-kv001.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\kv\sm1cs-kv003.rpy
+File: Turkish/code\scenes\character_scenes\kv\sm1cs-kv003.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\kv\sm1cs-kv004.rpy
+File: Turkish/code\scenes\character_scenes\kv\sm1cs-kv004.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mas\sm1cs-mas003.rpy
+File: Turkish/code\scenes\character_scenes\mas\sm1cs-mas003.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mas\sm1cs-mas004.rpy
+File: Turkish/code\scenes\character_scenes\mas\sm1cs-mas004.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mas\sm1cs-mas004i.rpy
+File: Turkish/code\scenes\character_scenes\mas\sm1cs-mas004i.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes-r1.rpy
+File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes-r1.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes001.rpy
+File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes001.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes003.rpy
+File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes003.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes005.rpy
+File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes005.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes006.rpy
+File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes006.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes007.rpy
+File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes007.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh002.rpy
+File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh002.rpy (done)
 
 File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh007.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh008.rpy (20%)
+File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh008.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh009.rpy
+File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh009.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh010.rpy
+File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh010.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh010i.rpy
+File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh010i.rpy (done)
 
 File: Turkish/code\scenes\character_scenes\my\sm1cs-my003.rpy
 
