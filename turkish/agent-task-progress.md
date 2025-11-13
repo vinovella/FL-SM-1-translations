@@ -74,59 +74,59 @@ File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh010.rpy (done)
 
 File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh010i.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\my\sm1cs-my003.rpy
+File: Turkish/code\scenes\character_scenes\my\sm1cs-my003.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\my\sm1cs-my003i.rpy
+File: Turkish/code\scenes\character_scenes\my\sm1cs-my003i.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\my\sm1cs-my004.rpy
+File: Turkish/code\scenes\character_scenes\my\sm1cs-my004.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\my\sm1cs-my004i.rpy
+File: Turkish/code\scenes\character_scenes\my\sm1cs-my004i.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\my\sm1cs-my005.rpy
+File: Turkish/code\scenes\character_scenes\my\sm1cs-my005.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\my\sm1cs-my006.rpy
+File: Turkish/code\scenes\character_scenes\my\sm1cs-my006.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\sy\sm1cs-sy001.rpy
+File: Turkish/code\scenes\character_scenes\sy\sm1cs-sy001.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\sy\sm1cs-sy002.rpy
+File: Turkish/code\scenes\character_scenes\sy\sm1cs-sy002.rpy (done)
 
-File: Turkish/code\scenes\it_office\sm1fs-i001.rpy
+File: Turkish/code\scenes\it_office\sm1fs-i001.rpy (done)
 
-File: Turkish/code\scenes\it_office\sm1fs-i002.rpy
+File: Turkish/code\scenes\it_office\sm1fs-i002.rpy (done)
 
-File: Turkish/code\scenes\it_office\sm1fs-i003.rpy
+File: Turkish/code\scenes\it_office\sm1fs-i003.rpy (done)
 
-File: Turkish/code\scenes\it_office\sm1fs-i004.rpy
+File: Turkish/code\scenes\it_office\sm1fs-i004.rpy (done)
 
-File: Turkish/code\scenes\it_office\sm1fs-i005.rpy
+File: Turkish/code\scenes\it_office\sm1fs-i005.rpy (done)
 
-File: Turkish/code\scenes\it_office\ag\sm1cs-ag001.rpy
+File: Turkish/code\scenes\it_office\ag\sm1cs-ag001.rpy (done)
 
-File: Turkish/code\scenes\it_office\ag\sm1cs-ag002.rpy
+File: Turkish/code\scenes\it_office\ag\sm1cs-ag002.rpy (done)
 
-File: Turkish/code\scenes\it_office\ag\sm1cs-ag003.rpy
+File: Turkish/code\scenes\it_office\ag\sm1cs-ag003.rpy (done)
 
-File: Turkish/code\scenes\it_office\am\sm1cs-am-renovation.rpy
+File: Turkish/code\scenes\it_office\am\sm1cs-am-renovation.rpy (done)
 
-File: Turkish/code\scenes\it_office\am\sm1cs-am001.rpy
+File: Turkish/code\scenes\it_office\am\sm1cs-am001.rpy (done)
 
-File: Turkish/code\scenes\it_office\am\sm1cs-am002.rpy
+File: Turkish/code\scenes\it_office\am\sm1cs-am002.rpy (done)
 
-File: Turkish/code\scenes\it_office\am\sm1cs-am003.rpy
+File: Turkish/code\scenes\it_office\am\sm1cs-am003.rpy (done)
 
-File: Turkish/code\scenes\it_office\am\sm1cs-am004.rpy
+File: Turkish/code\scenes\it_office\am\sm1cs-am004.rpy (done)
 
-File: Turkish/code\scenes\it_office\am\sm1cs-am004i.rpy
+File: Turkish/code\scenes\it_office\am\sm1cs-am004i.rpy (done)
 
-File: Turkish/code\scenes\it_office\am\sm1cs-am005.rpy
+File: Turkish/code\scenes\it_office\am\sm1cs-am005.rpy (done)
 
-File: Turkish/code\scenes\it_office\am\sm1cs-am005b.rpy
+File: Turkish/code\scenes\it_office\am\sm1cs-am005b.rpy (done)
 
-File: Turkish/code\scenes\it_office\am\sm1cs-am006.rpy
+File: Turkish/code\scenes\it_office\am\sm1cs-am006.rpy (done)
 
-File: Turkish/code\scenes\it_office\am\sm1cs-am007.rpy
+File: Turkish/code\scenes\it_office\am\sm1cs-am007.rpy (done)
 
-File: Turkish/code\scenes\it_office\am\sm1cs-am008.rpy
+File: Turkish/code\scenes\it_office\am\sm1cs-am008.rpy (done)
 
 File: Turkish/code\scenes\it_office\cw\sm1cs-cw001.rpy
 
