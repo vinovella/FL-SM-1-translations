@@ -128,258 +128,258 @@ File: Turkish/code\scenes\it_office\am\sm1cs-am007.rpy (done)
 
 File: Turkish/code\scenes\it_office\am\sm1cs-am008.rpy (done)
 
-File: Turkish/code\scenes\it_office\cw\sm1cs-cw001.rpy
+File: Turkish/code\scenes\it_office\cw\sm1cs-cw001.rpy (done)
 
-File: Turkish/code\scenes\it_office\cw\sm1cs-cw002.rpy
+File: Turkish/code\scenes\it_office\cw\sm1cs-cw002.rpy (done)
 
-File: Turkish/code\scenes\it_office\cw\sm1cs-cw002_2.rpy
+File: Turkish/code\scenes\it_office\cw\sm1cs-cw002_2.rpy (done)
 
-File: Turkish/code\scenes\it_office\cw\sm1cs-cw003.rpy
+File: Turkish/code\scenes\it_office\cw\sm1cs-cw003.rpy (done)
 
-File: Turkish/code\scenes\it_office\cw\sm1cs-cw003i.rpy
+File: Turkish/code\scenes\it_office\cw\sm1cs-cw003i.rpy (done)
 
-File: Turkish/code\scenes\it_office\cw\sm1cs-cw004.rpy
+File: Turkish/code\scenes\it_office\cw\sm1cs-cw004.rpy (done)
 
-File: Turkish/code\scenes\it_office\cw\sm1cs-cw005.rpy
+File: Turkish/code\scenes\it_office\cw\sm1cs-cw005.rpy (done)
 
-File: Turkish/code\scenes\it_office\cw\sm1cs-cw006.rpy
+File: Turkish/code\scenes\it_office\cw\sm1cs-cw006.rpy (done)
 
-File: Turkish/code\scenes\it_office\cw\sm1cs-cw006_onramp.rpy
+File: Turkish/code\scenes\it_office\cw\sm1cs-cw006_onramp.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns001.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns001.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns002.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns002.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns003.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns003.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns004.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns004.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns005.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns005.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns007.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns007.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns009.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns009.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns011.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns011.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns012.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns012.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns012i.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns012i.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns013.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns013.rpy (done)
 
-File: Turkish/code\scenes\it_office\ns\sm1cs-ns014.rpy
+File: Turkish/code\scenes\it_office\ns\sm1cs-ns014.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms002.rpy
+File: Turkish/code\scenes\main_story\sm1ms002.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms004.rpy
+File: Turkish/code\scenes\main_story\sm1ms004.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms005.rpy
+File: Turkish/code\scenes\main_story\sm1ms005.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms005_02i.rpy
+File: Turkish/code\scenes\main_story\sm1ms005_02i.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms006.rpy
+File: Turkish/code\scenes\main_story\sm1ms006.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms008.rpy
+File: Turkish/code\scenes\main_story\sm1ms008.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms009.rpy
+File: Turkish/code\scenes\main_story\sm1ms009.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms010.rpy
+File: Turkish/code\scenes\main_story\sm1ms010.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms011-01i.rpy
+File: Turkish/code\scenes\main_story\sm1ms011-01i.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms011-02i.rpy
+File: Turkish/code\scenes\main_story\sm1ms011-02i.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms011_it.rpy
+File: Turkish/code\scenes\main_story\sm1ms011_it.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms014.rpy
+File: Turkish/code\scenes\main_story\sm1ms014.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms015.rpy
+File: Turkish/code\scenes\main_story\sm1ms015.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms016.rpy
+File: Turkish/code\scenes\main_story\sm1ms016.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms017.rpy
+File: Turkish/code\scenes\main_story\sm1ms017.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms020.rpy
+File: Turkish/code\scenes\main_story\sm1ms020.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms021.rpy
+File: Turkish/code\scenes\main_story\sm1ms021.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms022i.rpy
+File: Turkish/code\scenes\main_story\sm1ms022i.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms025.rpy
+File: Turkish/code\scenes\main_story\sm1ms025.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms025i.rpy
+File: Turkish/code\scenes\main_story\sm1ms025i.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms026.rpy
+File: Turkish/code\scenes\main_story\sm1ms026.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms026i.rpy
+File: Turkish/code\scenes\main_story\sm1ms026i.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms027.rpy
+File: Turkish/code\scenes\main_story\sm1ms027.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms028.rpy
+File: Turkish/code\scenes\main_story\sm1ms028.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms029i.rpy
+File: Turkish/code\scenes\main_story\sm1ms029i.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms029_1.rpy
+File: Turkish/code\scenes\main_story\sm1ms029_1.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms029_2.rpy
+File: Turkish/code\scenes\main_story\sm1ms029_2.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms029_3.rpy
+File: Turkish/code\scenes\main_story\sm1ms029_3.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms029_4.rpy
+File: Turkish/code\scenes\main_story\sm1ms029_4.rpy (done)
 
-File: Turkish/code\scenes\main_story\sm1ms030.rpy
+File: Turkish/code\scenes\main_story\sm1ms030.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s01.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s01.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s02.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s02.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s02i.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s02i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s03_1.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s03_1.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s03_1i.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s03_1i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s03_2.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s03_2.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s04.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s04.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s04i.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s04i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s04_2i.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s04_2i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s05.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s05.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s05i.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s05i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s06.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s06.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s06i.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s06i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s07.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s07.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s07i.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s07i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s07_2.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s07_2.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s08.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s08.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s09.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s09.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s10.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s10.rpy (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s11i.rpy
+File: Turkish/code\scenes\movies\movie01\sm1mv01s11i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s01.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s01.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s02.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s02.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s02i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s02i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s02_01i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s02_01i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s02_02i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s02_02i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s03i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s03i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s03_1.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s03_1.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s03_1i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s03_1i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s03_2.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s03_2.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s03_2i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s03_2i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s04.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s04.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s04i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s04i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s05.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s05.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s05i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s05i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s05_1i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s05_1i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s06.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s06.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s06i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s06i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s07a.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s07a.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s07a_1i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s07a_1i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s07a_2i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s07a_2i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s07b.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s07b.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s07b_1i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s07b_1i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s07b_2i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s07b_2i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s08.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s08.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s08i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s08i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s08_1i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s08_1i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s09.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s09.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s09i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s09i.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s10.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s10.rpy (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s10i.rpy
+File: Turkish/code\scenes\movies\movie02\sm1mv02s10i.rpy (done)
 
-File: Turkish/code\scenes\theatre\sm1fs-t002.rpy
+File: Turkish/code\scenes\theatre\sm1fs-t002.rpy (done)
 
-File: Turkish/code\scenes\theatre\sm1fs-t003.rpy
+File: Turkish/code\scenes\theatre\sm1fs-t003.rpy (done)
 
-File: Turkish/code\scenes\theatre\sm1fs-t004.rpy
+File: Turkish/code\scenes\theatre\sm1fs-t004.rpy (done)
 
-File: Turkish/code\scenes\theatre\sm1fs-t005.rpy
+File: Turkish/code\scenes\theatre\sm1fs-t005.rpy (done)
 
-File: Turkish/code\scenes\theatre\sm1fs-t006.rpy
+File: Turkish/code\scenes\theatre\sm1fs-t006.rpy (done)
 
-File: Turkish/code\scenes\theatre\sm1fs-t007.rpy
+File: Turkish/code\scenes\theatre\sm1fs-t007.rpy (done)
 
-File: Turkish/code\scenes\theatre\sm1fs-t007i.rpy
+File: Turkish/code\scenes\theatre\sm1fs-t007i.rpy (done)
 
-File: Turkish/code\scenes\theatre\sm1fs-t008.rpy
+File: Turkish/code\scenes\theatre\sm1fs-t008.rpy (done)
 
-File: Turkish/code\scenes\theatre\sm1fs-t008i.rpy
+File: Turkish/code\scenes\theatre\sm1fs-t008i.rpy (done)
 
-File: Turkish/code\scenes\theatre\dvh\sm1cs-dvh001.rpy
+File: Turkish/code\scenes\theatre\dvh\sm1cs-dvh001.rpy (done)
 
-File: Turkish/code\scenes\theatre\dvh\sm1cs-dvh002.rpy
+File: Turkish/code\scenes\theatre\dvh\sm1cs-dvh002.rpy (done)
 
-File: Turkish/code\scenes\theatre\km\sm1cs-km001.rpy
+File: Turkish/code\scenes\theatre\km\sm1cs-km001.rpy (done)
 
-File: Turkish/code\scenes\theatre\km\sm1cs-km002.rpy
+File: Turkish/code\scenes\theatre\km\sm1cs-km002.rpy (done)
 
-File: Turkish/code\scenes\theatre\km\sm1cs-km003-2.rpy
+File: Turkish/code\scenes\theatre\km\sm1cs-km003-2.rpy (done)
 
-File: Turkish/code\scenes\theatre\km\sm1cs-km003-2i.rpy
+File: Turkish/code\scenes\theatre\km\sm1cs-km003-2i.rpy (done)
 
-File: Turkish/code\scenes\theatre\km\sm1cs-km003.rpy
+File: Turkish/code\scenes\theatre\km\sm1cs-km003.rpy (done)
 
-File: Turkish/code\scenes\theatre\km\sm1cs-km004.rpy
+File: Turkish/code\scenes\theatre\km\sm1cs-km004.rpy (done)
 
-File: Turkish/code\scenes\theatre\km\sm1cs-km005.rpy
+File: Turkish/code\scenes\theatre\km\sm1cs-km005.rpy (done)
 
-File: Turkish/code\scenes\theatre\km\sm1cs-km006.rpy
+File: Turkish/code\scenes\theatre\km\sm1cs-km006.rpy (done)
 
-File: Turkish/code\scenes\theatre\tl\sm1cs-tl003.rpy
+File: Turkish/code\scenes\theatre\tl\sm1cs-tl003.rpy (done)
 
-File: Turkish/code\scenes\theatre\tl\sm1cs-tl004.rpy
+File: Turkish/code\scenes\theatre\tl\sm1cs-tl004.rpy (done)
 
-File: Turkish/code\scenes\theatre\tl\sm1cs-tl008i.rpy
+File: Turkish/code\scenes\theatre\tl\sm1cs-tl008i.rpy (done)
 
-File: Turkish/code\scenes\theatre\vs\sm1cs-vs-renovation.rpy
+File: Turkish/code\scenes\theatre\vs\sm1cs-vs-renovation.rpy (done)
 
-File: Turkish/code\scenes\theatre\vs\sm1cs-vs002.rpy
+File: Turkish/code\scenes\theatre\vs\sm1cs-vs002.rpy (done)
 
-File: Turkish/code\scenes\theatre\vs\sm1cs-vs003.rpy
+File: Turkish/code\scenes\theatre\vs\sm1cs-vs003.rpy (done)
 
-File: Turkish/code\scenes\theatre\vs\sm1cs-vs004.rpy
+File: Turkish/code\scenes\theatre\vs\sm1cs-vs004.rpy (done)
 
-File: Turkish/code\scenes\theatre\vs\sm1cs-vs005.rpy
+File: Turkish/code\scenes\theatre\vs\sm1cs-vs005.rpy (done)
