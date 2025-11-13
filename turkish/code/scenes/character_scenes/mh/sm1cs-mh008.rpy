@@ -728,25 +728,25 @@ translate turkish sm1cs_mh008_carnival_c651eae7:
 translate turkish sm1cs_mh008_date_078814f4:
 
     # mh "So... you texted Stacy?"
-    mh "So... you texted Stacy?"
+    mh "Yani... Stacy'ye mesaj attın mı?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:406
 translate turkish sm1cs_mh008_date_14c2f4fe:
 
     # mc "I did. She said she had to shower and she would be on her way."
-    mc "I did. She said she had to shower and she would be on her way."
+    mc "Evet. Duş alması gerektiğini ve yolda olacağını söyledi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:407
 translate turkish sm1cs_mh008_date_5be838a0:
 
     # mc "So we definitely have some time to kill before she gets here."
-    mc "So we definitely have some time to kill before she gets here."
+    mc "Bu yüzden kesinlikle buraya gelmeden önce öldürecek biraz zamanımız var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:411
 translate turkish sm1cs_mh008_date_677cdf8d:
 
     # mc "So, what would you like to do now that we have secured the best popcorn that you can get."
-    mc "So, what would you like to do now that we have secured the best popcorn that you can get."
+    mc "Peki, alabileceğin en iyi patlamış mısırı güvence altına aldığımıza göre şimdi ne yapmak istersin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:414
 translate turkish sm1cs_mh008_date_45df555d:
@@ -758,97 +758,97 @@ translate turkish sm1cs_mh008_date_45df555d:
 translate turkish sm1cs_mh008_date_770fe6fd:
 
     # mh "How about some games?"
-    mh "How about some games?"
+    mh "Biraz oyun oynamaya ne dersin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:420
 translate turkish sm1cs_mh008_date_8693c428:
 
     # mc "Yeah, that sounds great! I can try and win you a giant stuffed teddy!"
-    mc "Yeah, that sounds great! I can try and win you a giant stuffed teddy!"
+    mc "Evet, kulağa harika geliyor! Sana dev bir peluş ayı kazanmayı deneyebilirim!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:424
 translate turkish sm1cs_mh008_date_225bb283:
 
     # mh "Did you know that \"teddy bears\" are named after the 26th US President, Theodore Roosevelt?"
-    mh "Did you know that \"teddy bears\" are named after the 26th US President, Theodore Roosevelt?"
+    mh "\"Teddy ayılarının\" 26. ABD Başkanı Theodore Roosevelt'in adını taşıdığını biliyor muydun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:427
 translate turkish sm1cs_mh008_date_9ab85d26:
 
     # mc "What? Seriously?"
-    mc "What? Seriously?"
+    mc "Ne? Ciddi misin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
 translate turkish sm1cs_mh008_date_6007f5df:
 
     # mh "Yeah. it's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Yeah. it's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+    mh "Evet. Garip bir hikaye ama kısaca - Bay Roosevelt bağlı bir ayıyı vurmayı reddetti ve sonra biri bunun siyasi bir karikatürünü yaptı."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:431
 translate turkish sm1cs_mh008_date_5e0303df:
 
     # mh "And then a toymaker, Morris Michtom, saw the cartoon and wanted to make a cute, stuffed bear."
-    mh "And then a toymaker, Morris Michtom, saw the cartoon and wanted to make a cute, stuffed bear."
+    mh "Ve sonra bir oyuncak yapımcısı, Morris Michtom, karikatürü gördü ve sevimli, peluş bir ayı yapmak istedi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:434
 translate turkish sm1cs_mh008_date_8ec977b3:
 
     # mh "He sold them as \"Teddy's Bears\", which is where they got the name."
-    mh "He sold them as \"Teddy's Bears\", which is where they got the name."
+    mh "Onları \"Teddy'nin Ayıları\" olarak sattı, işte adı buradan geliyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:435
 translate turkish sm1cs_mh008_date_0c5b3600:
 
     # mh "And it's also why everyone started calling him Teddy Roosevelt. Because of the bear."
-    mh "And it's also why everyone started calling him Teddy Roosevelt. Because of the bear."
+    mh "Ve herkesin ona Teddy Roosevelt demeye başlamasının da nedeni bu. Ayı yüzünden."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:438
 translate turkish sm1cs_mh008_date_9410c7e6:
 
     # mc "Huh... that's a weird fun fact."
-    mc "Huh... that's a weird fun fact."
+    mc "Ha... bu garip bir eğlence bilgisi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:441
 translate turkish sm1cs_mh008_date_c1c53635:
 
     # mh "You learn lots of weird things on the road of life."
-    mh "You learn lots of weird things on the road of life."
+    mh "Hayat yolunda bir sürü garip şey öğreniyorsun."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:451
 translate turkish sm1ms_mh008_game_0ec5aa4b:
 
     # "Carnival Worker" "Step right up! See if you have what it takes to take home one of these adorable, stuffed animals!"
-    "Carnival Worker" "Step right up! See if you have what it takes to take home one of these adorable, stuffed animals!"
+    "Karnav Çalışanı" "Hemen gel! Bu sevimli, peluş hayvanlardan birini eve götürmek için gerekenlere sahip olup olmadığını gör!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:454
 translate turkish sm1ms_mh008_game_d9246fd0:
 
     # mc "What do I have to do to win one?"
-    mc "What do I have to do to win one?"
+    mc "Bir tane kazanmak için ne yapmam gerekiyor?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:457
 translate turkish sm1ms_mh008_game_782b7512:
 
     # "Carnival Worker" "It's simple! You got five shots with our air rifle, and you just need to knock down three of the targets!"
-    "Carnival Worker" "It's simple! You got five shots with our air rifle, and you just need to knock down three of the targets!"
+    "Karnav Çalışanı" "Çok basit! Havalı tüfeğimizle beş atışın var ve sadece hedeflerden üçünü devirmek zorundasın!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:460
 translate turkish sm1ms_mh008_game_c76ac7c5:
 
     # mc "Easy! I can do that!"
-    mc "Easy! I can do that!"
+    mc "Kolay! Bunu yapabilirim!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:463
 translate turkish sm1ms_mh008_game_35c81463:
 
     # "Carnival Worker" "Yeah! Nothing to it! Show me what you got!"
-    "Carnival Worker" "Yeah! Nothing to it! Show me what you got!"
+    "Karnav Çalışanı" "Evet! Hiç zor değil! Bana neler yapabileceğini göster!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:467
 translate turkish sm1ms_mh008_game_c904ccf1:
 
     # mct "All right, [mcname]. Let's win Lyssa this bear!"
-    mct "All right, [mcname]. Let's win Lyssa this bear!"
+    mct "Pekala, [mcname]. Hadi Lyssa'ya bu ayıyı kazandıralım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:470
 translate turkish sm1ms_mh008_game_8a88410b:
@@ -860,19 +860,19 @@ translate turkish sm1ms_mh008_game_8a88410b:
 translate turkish sm1ms_mh008_game_8701f4f1:
 
     # "Carnival Worker" "Well, it seems like you missed all three shots! Would you like to try again?"
-    "Carnival Worker" "Well, it seems like you missed all three shots! Would you like to try again?"
+    "Karnav Çalışanı" "Şey, görünüşe göre üç atışı da kaçırdın! Tekrar denemek ister misin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:481
 translate turkish sm1ms_mh008_game_3c0bbbee:
 
     # mc "Absolutely!"
-    mc "Absolutely!"
+    mc "Kesinlikle!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:484
 translate turkish sm1ms_mh008_game_b0f92f45:
 
     # "Carnival Worker" "All right, have at her!"
-    "Carnival Worker" "All right, have at her!"
+    "Karnav Çalışanı" "Pekala, dene bakalım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:487
 translate turkish sm1ms_mh008_game_8a88410b_1:
@@ -884,25 +884,25 @@ translate turkish sm1ms_mh008_game_8a88410b_1:
 translate turkish sm1ms_mh008_game_b8b01170:
 
     # mct "Shit..."
-    mct "Shit..."
+    mct "Kahretsin..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:495
 translate turkish sm1ms_mh008_game_b0674b22:
 
     # "Carnival Worker" "And three more misses! Wow!{w} What about you, miss? Would you like to give it a go?"
-    "Carnival Worker" "And three more misses! Wow!{w} What about you, miss? Would you like to give it a go?"
+    "Karnav Çalışanı" "Ve üç kaçırma daha! Vay be!{w} Peki ya sen, bayan? Bir denemek ister misin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:498
 translate turkish sm1ms_mh008_game_fb8892f4:
 
     # mh "Sure. How much to play?"
-    mh "Sure. How much to play?"
+    mh "Tabii. Oynamak ne kadar?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:501
 translate turkish sm1ms_mh008_game_1ad4d7ce:
 
     # mc "Don't worry, Lyssa. I'll pay for it."
-    mc "Don't worry, Lyssa. I'll pay for it."
+    mc "Endişelenme, Lyssa. Bunu ben ödeyeceğim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:504
 translate turkish sm1ms_mh008_game_dba3a987:
