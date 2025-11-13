@@ -1,20 +1,20 @@
 File: Turkish/code\scenes\character_scenes\arj\sm1cs-arj001.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\arj\sm1cs-arj002.rpy
+File: Turkish/code\scenes\character_scenes\arj\sm1cs-arj002.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\arj\sm1cs-arj003.rpy
+File: Turkish/code\scenes\character_scenes\arj\sm1cs-arj003.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\bg\sm1cs-bg001.rpy
+File: Turkish/code\scenes\character_scenes\bg\sm1cs-bg001.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\bg\sm1cs-bg002.rpy
+File: Turkish/code\scenes\character_scenes\bg\sm1cs-bg002.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\bg\sm1cs-bg003.rpy
+File: Turkish/code\scenes\character_scenes\bg\sm1cs-bg003.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\bg\sm1cs-bg004.rpy
+File: Turkish/code\scenes\character_scenes\bg\sm1cs-bg004.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\bg\sm1cs-bg005.rpy
+File: Turkish/code\scenes\character_scenes\bg\sm1cs-bg005.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\cs\sm1cs-cs001.rpy
+File: Turkish/code\scenes\character_scenes\cs\sm1cs-cs001.rpy (done)
 
 File: Turkish/code\scenes\character_scenes\dc\sm1cs-dc-renovation.rpy
 
