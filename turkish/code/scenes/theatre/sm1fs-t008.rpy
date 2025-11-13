@@ -602,31 +602,31 @@ translate turkish sm1fs_t008_later_85835cc2:
 translate turkish sm1fs_t008_later_be397232:
 
     # dvh "You have the heat. I can see it clearly now."
-    dvh "You have the heat. I can see it clearly now."
+    dvh "İçinde ateş var. Şimdi açıkça görebiliyorum."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:313
 translate turkish sm1fs_t008_later_73cf7071:
 
     # mc "So that means I pass?"
-    mc "So that means I pass?"
+    mc "Yani bu geçtiğim anlamına mı geliyor?"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:316
 translate turkish sm1fs_t008_later_df1e0b39:
 
     # dvh "Yes. If you want it, I am prepared to add you to the acting roster."
-    dvh "Yes. If you want it, I am prepared to add you to the acting roster."
+    dvh "Evet. Eğer istersen, seni oyunculuk kadrosuna eklemeye hazırım."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:319
 translate turkish sm1fs_t008_later_478d8aa4:
 
     # mc "Nothing would make me-"
-    mc "Nothing would make me-"
+    mc "Hiçbir şey beni daha mutlu-"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:322
 translate turkish sm1fs_t008_later_74bcabd0:
 
     # dvh "Unless, of course, you have been ignoring my rules."
-    dvh "Unless, of course, you have been ignoring my rules."
+    dvh "Tabii ki, kurallarımı görmezden gelmediğin sürece."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:325
 translate turkish sm1fs_t008_later_05500ff6:
@@ -638,19 +638,19 @@ translate turkish sm1fs_t008_later_05500ff6:
 translate turkish sm1fs_t008_later_ed50aa35:
 
     # dvh "I did tell you when we first started out..."
-    dvh "I did tell you when we first started out..."
+    dvh "İlk başladığımızda sana söylemiştim..."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:329
 translate turkish sm1fs_t008_later_6c3316dd:
 
     # dvh "That the theater is not a place for debacherous sex, [mcname]."
-    dvh "That the theater is not a place for debacherous sex, [mcname]."
+    dvh "Tiyatronun ahlaksız seks için bir yer olmadığını, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:332
 translate turkish sm1fs_t008_later_606276a4:
 
     # dvh "Have you been sullying my actresses, [mcname]?"
-    dvh "Have you been sullying my actresses, [mcname]?"
+    dvh "Oyuncularımı kirlettin mi, [mcname]?"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:341
 translate turkish sm1fs_t008_later_bbe9fb07:
@@ -662,7 +662,7 @@ translate turkish sm1fs_t008_later_bbe9fb07:
 translate turkish sm1fs_t008_later_f1aada58:
 
     # dvh "Hold that thought."
-    dvh "Hold that thought."
+    dvh "O düşünceyi beklet."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:348
 translate turkish sm1fs_t008_later_03bb9cb5:
@@ -674,43 +674,43 @@ translate turkish sm1fs_t008_later_03bb9cb5:
 translate turkish sm1fs_t008_later_eb83c0bd:
 
     # dvh "Of course, Ms. Moretti."
-    dvh "Of course, Ms. Moretti."
+    dvh "Elbette, Bayan Moretti."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:352
 translate turkish sm1fs_t008_later_a7a2dad7:
 
     # dvh "Yes, we are very happy to hear that."
-    dvh "Yes, we are very happy to hear that."
+    dvh "Evet, bunu duyduğumuza çok mutlu olduk."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:355
 translate turkish sm1fs_t008_later_d013388c:
 
     # dvh "Ah, you are very kind."
-    dvh "Ah, you are very kind."
+    dvh "Ah, çok naziksiniz."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:358
 translate turkish sm1fs_t008_later_f1a3db88:
 
     # tl "Hey so [mcname] is one of us, right?"
-    tl "Hey so [mcname] is one of us, right?"
+    tl "Hey, yani [mcname] artık bizden biri, değil mi?"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:361
 translate turkish sm1fs_t008_later_2b2f8b72:
 
     # dvh "Yes. And during our next rehearsals, they'll be understudying for Kai."
-    dvh "Yes. And during our next rehearsals, they'll be understudying for Kai."
+    dvh "Evet. Ve bir sonraki provalarımızda, Kai için yedek olarak çalışacak."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:364
 translate turkish sm1fs_t008_later_82cfef52:
 
     # mc "Awesome."
-    mc "Awesome."
+    mc "Harika."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:367
 translate turkish sm1fs_t008_later_84b3dfbd:
 
     # dvh "Sorry about that, Ms. Moretti."
-    dvh "Sorry about that, Ms. Moretti."
+    dvh "Bunun için özür dilerim, Bayan Moretti."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:370
 translate turkish sm1fs_t008_later_f792967b:
@@ -728,13 +728,13 @@ translate turkish sm1fs_t008_later_b95bc9fa:
 translate turkish sm1fs_t008_later_fbaa8e80:
 
     # tl "Not bad, [mcname]."
-    tl "Not bad, [mcname]."
+    tl "Fena değil, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:377
 translate turkish sm1fs_t008_later_29e5ae1c:
 
     # tl "Denise doesn't give too many second chances."
-    tl "Denise doesn't give too many second chances."
+    tl "Denise fazla ikinci şans vermez."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:380
 translate turkish sm1fs_t008_later_e29cc3b7:
@@ -746,121 +746,121 @@ translate turkish sm1fs_t008_later_e29cc3b7:
 translate turkish sm1fs_t008_later_cca1dd29:
 
     # km "Maybe she realized that there is more to you than meets the eye."
-    km "Maybe she realized that there is more to you than meets the eye."
+    km "Belki de sende göründüğünden daha fazlası olduğunu fark etti."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:385
 translate turkish sm1fs_t008_later_87115595:
 
     # km "I know I did."
-    km "I know I did."
+    km "Ben yaptığımı biliyorum."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:389
 translate turkish sm1fs_t008_later_78dc934f:
 
     # vs "Just make sure all of our little adventures stay a secret."
-    vs "Just make sure all of our little adventures stay a secret."
+    vs "Sadece tüm küçük maceralarımızın gizli kalmasını sağla."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:392
 translate turkish sm1fs_t008_later_f147483f:
 
     # km "Then it might be good if you don't say them on stage, Veronica."
-    km "Then it might be good if you don't say them on stage, Veronica."
+    km "O zaman onları sahnede söylememen iyi olur, Veronica."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:395
 translate turkish sm1fs_t008_later_a5af54c8:
 
     # vs "Oh yeah."
-    vs "Oh yeah."
+    vs "Ah evet."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:396
 translate turkish sm1fs_t008_later_025488b6:
 
     # vs "Duh."
-    vs "Duh."
+    vs "Tabii ya."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:400
 translate turkish sm1fs_t008_later_233e129c:
 
     # vs "Just be sure to keep your nose clean."
-    vs "Just be sure to keep your nose clean."
+    vs "Sadece burnunu temiz tuttuğundan emin ol."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:401
 translate turkish sm1fs_t008_later_caacf5eb:
 
     # vs "Remember, even if Denise asks, you've never had sex in the theater."
-    vs "Remember, even if Denise asks, you've never had sex in the theater."
+    vs "Unutma, Denise sorsa bile, tiyatroda hiç seks yapmadın."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:404
 translate turkish sm1fs_t008_later_06f8b886:
 
     # km "What?"
-    km "What?"
+    km "Ne?"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:405
 translate turkish sm1fs_t008_later_cd9fde2c:
 
     # km "Of course, that would be his answer. He wouldn't have to lie."
-    km "Of course, that would be his answer. He wouldn't have to lie."
+    km "Elbette, bu onun cevabı olur. Yalan söylemesi gerekmez."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:408
 translate turkish sm1fs_t008_later_45ecf883:
 
     # km "Right, [mcname]?"
-    km "Right, [mcname]?"
+    km "Değil mi, [mcname]?"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:411
 translate turkish sm1fs_t008_later_6a436258:
 
     # tl "Come on, Kellie. We've all bent a rule now and then."
-    tl "Come on, Kellie. We've all bent a rule now and then."
+    tl "Hadi ama, Kellie. Hepimiz ara sıra kuralları esnetmişizdir."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:414
 translate turkish sm1fs_t008_later_ef4bacfe:
 
     # km "Not me."
-    km "Not me."
+    km "Ben değil."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:416
 translate turkish sm1fs_t008_later_f27ba9db:
 
     # tl "Sure..."
-    tl "Sure..."
+    tl "Tabii..."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:419
 translate turkish sm1fs_t008_later_bc320e49:
 
     # km "Well, either way, you should be congratulated for becoming part of the acting team, [mcname]."
-    km "Well, either way, you should be congratulated for becoming part of the acting team, [mcname]."
+    km "Her neyse, oyunculuk ekibinin bir parçası olduğun için tebrik edilmelisin, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:420
 translate turkish sm1fs_t008_later_fbabc42b:
 
     # km "But just remember. An audition is one thing. When you're out on the stage with the audience out there in front of you..."
-    km "But just remember. An audition is one thing. When you're out on the stage with the audience out there in front of you..."
+    km "Ama sadece unutma. Seçme bir şey. Sahnede önünde seyircilerle olduğunda..."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:423
 translate turkish sm1fs_t008_later_b8551bb3:
 
     # km "It's like you've entered into a new world."
-    km "It's like you've entered into a new world."
+    km "Sanki yeni bir dünyaya girmiş gibisin."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:424
 translate turkish sm1fs_t008_later_063f4472:
 
     # km "A glorious."
-    km "A glorious."
+    km "Muhteşem bir."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:427
 translate turkish sm1fs_t008_later_4367e9a6:
 
     # km "And sometimes terrifying world."
-    km "And sometimes terrifying world."
+    km "Ve bazen korkutucu bir dünya."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:430
 translate turkish sm1fs_t008_later_202b7cf7:
 
     # mc "Thanks, Kellie. I'll remember that."
-    mc "Thanks, Kellie. I'll remember that."
+    mc "Teşekkürler, Kellie. Bunu hatırlayacağım."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:433
 translate turkish sm1fs_t008_later_5ecd8ffa:
@@ -872,89 +872,89 @@ translate turkish sm1fs_t008_later_5ecd8ffa:
 translate turkish sm1fs_t008_later_6bc0ff47:
 
     # vs "And too think, just a little while ago you didn't even know what a script was."
-    vs "And too think, just a little while ago you didn't even know what a script was."
+    vs "Düşünmek bile, kısa bir süre önce senaryonun ne olduğunu bile bilmiyordun."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:439
 translate turkish sm1fs_t008_later_bf8e3dbb:
 
     # mc "I don't think that was me, Veronica."
-    mc "I don't think that was me, Veronica."
+    mc "O benim olduğumu sanmıyorum, Veronica."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:442
 translate turkish sm1fs_t008_later_30d90efd:
 
     # vs "Really? Hmmm. Maybe it was me."
-    vs "Really? Hmmm. Maybe it was me."
+    vs "Gerçekten mi? Hmmm. Belki de bendim."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:443
 translate turkish sm1fs_t008_later_01eb88ce:
 
     # vs "Either way."
-    vs "Either way."
+    vs "Her neyse."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:446
 translate turkish sm1fs_t008_later_ff5d45a8:
 
     # vs "Welcome to the acting roster, [mcname]."
-    vs "Welcome to the acting roster, [mcname]."
+    vs "Oyunculuk kadrosuna hoş geldin, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:450
 translate turkish sm1fs_t008_later_e6627fd4:
 
     # mc "Thanks, everyone."
-    mc "Thanks, everyone."
+    mc "Teşekkürler, herkese."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:451
 translate turkish sm1fs_t008_later_cfae495f:
 
     # mc "I should head on home."
-    mc "I should head on home."
+    mc "Eve gitmeliyim."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:452
 translate turkish sm1fs_t008_later_68eb8d66:
 
     # mc "This is exciting but I feel pretty drained."
-    mc "This is exciting but I feel pretty drained."
+    mc "Bu heyecan verici ama oldukça bitkin hissediyorum."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:455
 translate turkish sm1fs_t008_later_81704619:
 
     # km "Of course. Just make sure to be ready for the next practice."
-    km "Of course. Just make sure to be ready for the next practice."
+    km "Elbette. Sadece bir sonraki prova için hazır olduğundan emin ol."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:458
 translate turkish sm1fs_t008_later_dac16979:
 
     # mc "I will."
-    mc "I will."
+    mc "Olacağım."
 
 translate turkish strings:
 
     # game/code/scenes/theatre/sm1fs-t008.rpy:19
     old "I did once"
-    new "I did once"
+    new "Bir zamanlar istemiştim"
 
     # game/code/scenes/theatre/sm1fs-t008.rpy:19
     old "You mean, I'm going to get to act on stage?"
-    new "You mean, I'm going to get to act on stage?"
+    new "Yani, sahnede oynayabilecek miyim?"
 
     # game/code/scenes/theatre/sm1fs-t008.rpy:86
     old "Secondhand smoke kills, Denise"
-    new "Secondhand smoke kills, Denise"
+    new "Pasif içicilik öldürür, Denise"
 
     # game/code/scenes/theatre/sm1fs-t008.rpy:86
     old "I know I can deliver the goods"
-    new "I know I can deliver the goods"
+    new "Bunu başarabileceğimi biliyorum"
 
     # game/code/scenes/theatre/sm1fs-t008.rpy:86
     old "Why the time limit?"
-    new "Why the time limit?"
+    new "Neden zaman sınırı var?"
 
     # game/code/scenes/theatre/sm1fs-t008.rpy:208
     old "Thirty minutes later"
-    new "Thirty minutes later"
+    new "Otuz dakika sonra"
 
     # game/code/scenes/theatre/sm1fs-t008.rpy:333
     old "Truth"
-    new "Truth"
+    new "Doğru"
 
