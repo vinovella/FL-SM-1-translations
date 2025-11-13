@@ -64,9 +64,9 @@ File: Turkish/code\scenes\character_scenes\mes\sm1cs-mes007.rpy
 
 File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh002.rpy
 
-File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh007.rpy
+File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh007.rpy (done)
 
-File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh008.rpy
+File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh008.rpy (20%)
 
 File: Turkish/code\scenes\character_scenes\mh\sm1cs-mh009.rpy
 
