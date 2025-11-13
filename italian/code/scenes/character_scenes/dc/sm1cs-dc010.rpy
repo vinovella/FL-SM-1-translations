@@ -268,12 +268,6 @@ translate italian sm1cs_dc010_later_9e454f39:
     # dc "Like, when he showed up in the car, the handgun sticking out of the window!"
     dc "Tipo, quando è arrivato in macchina, con la pistola che sporgeva dal finestrino!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:119
-translate italian sm1cs_dc010_later_40b4ce97:
-
-    # dc "And then he reloaded it by smashing it on the motorcyclists head! So bad ass!"
-    dc "E poi l'ha ricaricata sbattendola sulla testa del motociclista! Così figo!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:124
 translate italian sm1cs_dc010_later_eb07f581:
 
@@ -406,23 +400,11 @@ translate italian sm1cs_dc010_later_d46816dd:
     # mct "Like... really good. Maybe, and just maybe..."
     mct "Tipo... davvero bene. Forse, e solo forse..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:173
-translate italian sm1cs_dc010_later_438b6718:
-
-    # "Jerk Cop" "Well, what do we have here!"
-    "Poliziotto Stronzo" "Beh, cosa abbiamo qui!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:174
 translate italian sm1cs_dc010_later_dbc9c5b2:
 
     # mct "Oh shit."
     mct "Oh merda."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:177
-translate italian sm1cs_dc010_later_9ea8e216:
-
-    # "Douche Cop" "Oh, loitering? Maybe something a bit more nefarious?"
-    "Poliziotto Idiota" "Oh, vagabondaggio? Forse qualcosa di un po' più losco?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:179
 translate italian sm1cs_dc010_later_8ce18fb0:
@@ -430,83 +412,17 @@ translate italian sm1cs_dc010_later_8ce18fb0:
     # mc "Evening, officers."
     mc "Buonasera, agenti."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:181
-translate italian sm1cs_dc010_later_8104544b:
-
-    # "Jerk Cop" "\"Evening, officers\", pfft."
-    "Poliziotto Stronzo" "\"Buonasera, agenti\", pfft."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:184
 translate italian sm1cs_dc010_later_063d1ad9:
 
     # mc "Is there something I can help you with?"
     mc "C'è qualcosa con cui posso aiutarvi?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:185
-translate italian sm1cs_dc010_later_d3f4a473:
-
-    # "Douche Cop" "Hmmm... let's see."
-    "Poliziotto Idiota" "Hmmm... vediamo."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:188
 translate italian sm1cs_dc010_later_fca924d7:
 
     # mc "Uuuuffff!"
     mc "Uuuuffff!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:191
-translate italian sm1cs_dc010_later_2e90b41a:
-
-    # "Douche Cop" "Oh, that's right!"
-    "Poliziotto Idiota" "Oh, esatto!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:194
-translate italian sm1cs_dc010_later_316b0cab:
-
-    # "Douche Cop" "That's for using that bitch to embarrass us the other day!"
-    "Poliziotto Idiota" "Questo è per aver usato quella tr**a per farci fare una figuraccia l'altro giorno!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:196
-translate italian sm1cs_dc010_later_2caf8a9a:
-
-    # "Jerk Cop" "Woah, man."
-    "Poliziotto Stronzo" "Woah, amico."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:199
-translate italian sm1cs_dc010_later_6e870534:
-
-    # "Douche Cop" "What?"
-    "Poliziotto Idiota" "Cosa?"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:200
-translate italian sm1cs_dc010_later_840706a6:
-
-    # "Jerk Cop" "She's not entirely a bitch. Because, you now."
-    "Poliziotto Stronzo" "Non è completamente una tr**a. Perché, sai."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:203
-translate italian sm1cs_dc010_later_083d0320:
-
-    # "Douche Cop" "Oh yeah."
-    "Poliziotto Idiota" "Oh sì."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:206
-translate italian sm1cs_dc010_later_6499727b:
-
-    # "Douche Cop" "Because she has a dick!"
-    "Poliziotto Idiota" "Perché ha un c**zo!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:209
-translate italian sm1cs_dc010_later_c5b09bec:
-
-    # "Jerk Cop" "Yeah! So, whatever she is! Fuck her!"
-    "Poliziotto Stronzo" "Sì! Quindi, qualunque cosa sia! Fanc**o lei!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:210
-translate italian sm1cs_dc010_later_8a6e6e14:
-
-    # "Douche Cop" "Hahahahaha!"
-    "Poliziotto Idiota" "Hahahahaha!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:212
 translate italian sm1cs_dc010_later_1987dde6:
@@ -520,23 +436,11 @@ translate italian sm1cs_dc010_later_f289aa21:
     # dc "The {i}fuck{/i} are you two doing?"
     dc "Che {i}c**zo{/i} state facendo voi due?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:217
-translate italian sm1cs_dc010_later_beeaf278:
-
-    # "Jerk Cop" "Oh, look who it is. You're little bitch, come to save her little bitch!"
-    "Poliziotto Stronzo" "Oh, guarda chi c'è. La tua piccola tr**etta, venuta a salvare la sua piccola tr**etta!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:219
 translate italian sm1cs_dc010_later_fd5252a2:
 
     # mc "Oh, that was a good one. Wooooow."
     mc "Oh, questa era buona. Wooooow."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:221
-translate italian sm1cs_dc010_later_50eb0f04:
-
-    # "Jerk Cop" "Shut up!"
-    "Poliziotto Stronzo" "Stai zitto!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:223
 translate italian sm1cs_dc010_later_bfadea7f:
@@ -556,23 +460,11 @@ translate italian sm1cs_dc010_later_72baf430:
     # dc "If you don't, you'll regret it."
     dc "Se non lo fate, ve ne pentirete."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:229
-translate italian sm1cs_dc010_later_66c3cae5:
-
-    # "Jerk Cop" "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
-    "Poliziotto Stronzo" "Oh ho ho, e cosa farai al riguardo, {i}ragazzina{/i}?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:231
 translate italian sm1cs_dc010_later_63386751:
 
     # dc "One."
     dc "Uno."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:233
-translate italian sm1cs_dc010_later_e1be8345:
-
-    # "Douche Cop" "Oh the little girl, or {i}little boy{/i} is soooo scary!"
-    "Poliziotto Idiota" "Oh la ragazzina, o {i}il ragazzino{/i} è così spaventosa!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:234
 translate italian sm1cs_dc010_later_302b49ba:
@@ -580,29 +472,11 @@ translate italian sm1cs_dc010_later_302b49ba:
     # dc "Two."
     dc "Due."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:237
-translate italian sm1cs_dc010_later_531d8025:
-
-    # "Jerk Cop" "Oh, my balls are shaking! Hahahahaha!"
-    "Poliziotto Stronzo" "Oh, le mie palle tremano! Hahahahaha!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:238
-translate italian sm1cs_dc010_later_8a6e6e14_1:
-
-    # "Douche Cop" "Hahahahaha!"
-    "Poliziotto Idiota" "Hahahahaha!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:240
 translate italian sm1cs_dc010_later_ac0a60ad:
 
     # dc "Three."
     dc "Tre."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:241
-translate italian sm1cs_dc010_later_39d40fad:
-
-    # "Jerk Cop" "Oh, fuck you!"
-    "Poliziotto Stronzo" "Oh, vaffanc**o!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:244
 translate italian sm1cs_dc010_later_b78076c2:
@@ -616,23 +490,11 @@ translate italian sm1cs_dc010_later_ba02e302:
     # "Ka-Chow!"
     "Ka-Chow!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:249
-translate italian sm1cs_dc010_later_26db978d:
-
-    # "Douche Cop" "What the fuck!?"
-    "Poliziotto Idiota" "Ma che c**zo!?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:252
 translate italian sm1cs_dc010_later_198353ff:
 
     # dc "*grunts*"
     dc "*grugnisce*"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:255
-translate italian sm1cs_dc010_later_e247bcbf:
-
-    # "Douche Cop" "Shit!"
-    "Poliziotto Idiota" "Merda!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:258
 translate italian sm1cs_dc010_later_73a0be28:
@@ -646,29 +508,11 @@ translate italian sm1cs_dc010_later_cee1e977:
     # "Both cops" "*groaning*"
     "Entrambi i poliziotti" "*gemiti*"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:265
-translate italian sm1cs_dc010_later_d3d34643:
-
-    # "Douche Cop" "My ass."
-    "Poliziotto Idiota" "Il mio c**o."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:266
 translate italian sm1cs_dc010_later_4258e46e:
 
     # dc "You two. {i}Leave.{/i} Before I put you in the hospital."
     dc "Voi due. {i}Andatevene.{/i} Prima che vi mandi in ospedale."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:268
-translate italian sm1cs_dc010_later_6106c91d:
-
-    # "Jerk Cop" "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
-    "Poliziotto Stronzo" "Oh sì, tr**a? E se diciamo al capitano che ci hai aggrediti?"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:269
-translate italian sm1cs_dc010_later_0e2b8682:
-
-    # "Douche Cop" "Yeah. Get your ass kicked off the force."
-    "Poliziotto Idiota" "Sì. Fatti buttare fuori dalle forze dell'ordine."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:271
 translate italian sm1cs_dc010_later_a9afe6d2:
@@ -700,35 +544,11 @@ translate italian sm1cs_dc010_later_a0b3a7d5:
     # mc "I wonder what he would have to say about that?"
     mc "Mi chiedo cosa avrebbe da dire al riguardo?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:280
-translate italian sm1cs_dc010_later_524cfcc1:
-
-    # "Jerk Cop" "Errrgghhhh..."
-    "Poliziotto Stronzo" "Errrgghhhh..."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:281
-translate italian sm1cs_dc010_later_32d72043:
-
-    # "Douche Cop" "Mother fucker..."
-    "Poliziotto Idiota" "Figlio di p**tana..."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:282
-translate italian sm1cs_dc010_later_554ce0ea:
-
-    # "Jerk Cop" "Come on."
-    "Poliziotto Stronzo" "Andiamo."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:285
 translate italian sm1cs_dc010_later_a4ecbe4a:
 
     # mc "And if you two don't lay off of Debbie, I'm going to send this anonymously to your Captain!"
     mc "E se voi due non lasciate in pace Debbie, invierò questo video in forma anonima al vostro Capitano!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:286
-translate italian sm1cs_dc010_later_87a3e1c6:
-
-    # "Jerk Cop" "Fuck you."
-    "Poliziotto Stronzo" "Vaffanc**o."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:290
 translate italian sm1cs_dc010_later_540b14dd:
@@ -1138,12 +958,6 @@ translate italian sm1cs_dc010_later_ecfacd53:
     # dc "No... I just..."
     dc "No... è solo che..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
-translate italian sm1cs_dc010_later_8a1da730:
-
-    # dc "I have been looking forward to this for awhile.{w} I'm very excited."
-    dc "Non vedevo l'ora di farlo da un po'.{w} Sono molto eccitata."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:451
 translate italian sm1cs_dc010_later_74fc6761:
 
@@ -1227,12 +1041,6 @@ translate italian sm1cs_dc010_later_1ee704af:
 
     # mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
     mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
-translate italian sm1cs_dc010_later_c7ffa945:
-
-    # dc "Sllrrrpppppp! Sleep, sllrrpp, sllrrrppp!"
-    dc "Sllrrrpppppp! Sleep, sllrrpp, sllrrrppp!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:474
 translate italian sm1cs_dc010_later_eec3224d:
@@ -1732,12 +1540,6 @@ translate italian sm1cs_dc010_dc_hj_03e1ac0f:
     # dc "Woah-!"
     dc "Woah-!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:658
-translate italian sm1cs_dc010_dc_hj_6f12677e:
-
-    # mc "Great enough that it deserves it's own pleasure."
-    mc "Great enough that it deserves it's own pleasure."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:659
 translate italian sm1cs_dc010_dc_hj_4daf6261:
 
@@ -1966,12 +1768,6 @@ translate italian sm1cs_dc010_dc_hj_716ddd04:
     # mc "Better than your fantasy?"
     mc "Better than your fantasy?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:723
-translate italian sm1cs_dc010_dc_hj_22c6dce8:
-
-    # dc "Inifinitely better than my fantasy."
-    dc "Inifinitely better than my fantasy."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:726
 translate italian sm1cs_dc010_dc_hj_c3726f3d:
 
@@ -2127,12 +1923,6 @@ translate italian sm1cs_dc010_end_a782953a:
 
     # mc "Oh? Something to be worried about?"
     mc "Oh? Something to be worried about?"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:793
-translate italian sm1cs_dc010_end_185ddc39:
-
-    # dc "No, not really Just some paperwork to do."
-    dc "No, not really Just some paperwork to do."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:794
 translate italian sm1cs_dc010_end_e964bd3a:
@@ -2455,4 +2245,214 @@ translate italian sm1cs_dc010_dc_hj_10a9c12a:
 
     # dc "I think of you cumming all over me as I stroke myself, and I- I-"
     dc "Penso a te che vieni su di me mentre mi tocco, e io- io-"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:119
+translate italian sm1cs_dc010_later_cc13123a:
+
+    # dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+    dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:173
+translate italian sm1cs_dc010_later_32c7d96e:
+
+    # jc "Well, what do we have here!"
+    jc "Well, what do we have here!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:177
+translate italian sm1cs_dc010_later_0a088038:
+
+    # doc "Oh, loitering? Maybe something a bit more nefarious?"
+    doc "Oh, loitering? Maybe something a bit more nefarious?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:181
+translate italian sm1cs_dc010_later_118db1de:
+
+    # jc "\"Evening, officers\", pfft."
+    jc "\"Evening, officers\", pfft."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:185
+translate italian sm1cs_dc010_later_313100aa:
+
+    # doc "Hmmm... let's see."
+    doc "Hmmm... let's see."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:191
+translate italian sm1cs_dc010_later_ee640895:
+
+    # doc "Oh, that's right!"
+    doc "Oh, that's right!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:194
+translate italian sm1cs_dc010_later_4e44cfdf:
+
+    # doc "That's for using that bitch to embarrass us the other day!"
+    doc "That's for using that bitch to embarrass us the other day!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:196
+translate italian sm1cs_dc010_later_7abc9f97:
+
+    # jc "Woah, man."
+    jc "Woah, man."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:199
+translate italian sm1cs_dc010_later_8faeff8a:
+
+    # doc "What?"
+    doc "What?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:200
+translate italian sm1cs_dc010_later_655b6865:
+
+    # jc "She's not entirely a bitch. Because, you now."
+    jc "She's not entirely a bitch. Because, you now."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:203
+translate italian sm1cs_dc010_later_c52dc3fb:
+
+    # doc "Oh yeah."
+    doc "Oh yeah."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:206
+translate italian sm1cs_dc010_later_ed8594e7:
+
+    # doc "Because she has a dick!"
+    doc "Because she has a dick!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:209
+translate italian sm1cs_dc010_later_937b5553:
+
+    # jc "Yeah! So, whatever she is! Fuck her!"
+    jc "Yeah! So, whatever she is! Fuck her!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:210
+translate italian sm1cs_dc010_later_731e535c:
+
+    # doc "Hahahahaha!"
+    doc "Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:217
+translate italian sm1cs_dc010_later_b23ba0d2:
+
+    # jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
+    jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:221
+translate italian sm1cs_dc010_later_abb132ec:
+
+    # jc "Shut up!"
+    jc "Shut up!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:229
+translate italian sm1cs_dc010_later_63318cc3:
+
+    # jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+    jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:233
+translate italian sm1cs_dc010_later_decb3a7c:
+
+    # doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+    doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:237
+translate italian sm1cs_dc010_later_738b9475:
+
+    # jc "Oh, my balls are shaking! Hahahahaha!"
+    jc "Oh, my balls are shaking! Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:238
+translate italian sm1cs_dc010_later_731e535c_1:
+
+    # doc "Hahahahaha!"
+    doc "Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:241
+translate italian sm1cs_dc010_later_1e1f5708:
+
+    # jc "Oh, fuck you!"
+    jc "Oh, fuck you!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:249
+translate italian sm1cs_dc010_later_f90d492d:
+
+    # doc "What the fuck!?"
+    doc "What the fuck!?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:255
+translate italian sm1cs_dc010_later_c8344b37:
+
+    # doc "Shit!"
+    doc "Shit!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:265
+translate italian sm1cs_dc010_later_082113f0:
+
+    # doc "My ass."
+    doc "My ass."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:268
+translate italian sm1cs_dc010_later_9d4feabf:
+
+    # jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+    jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:269
+translate italian sm1cs_dc010_later_062962a0:
+
+    # doc "Yeah. Get your ass kicked off the force."
+    doc "Yeah. Get your ass kicked off the force."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:280
+translate italian sm1cs_dc010_later_983f1fb6:
+
+    # jc "Errrgghhhh..."
+    jc "Errrgghhhh..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:281
+translate italian sm1cs_dc010_later_e1a3ea1a:
+
+    # doc "Mother fucker..."
+    doc "Mother fucker..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:282
+translate italian sm1cs_dc010_later_4ed7441e:
+
+    # jc "Come on."
+    jc "Come on."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:286
+translate italian sm1cs_dc010_later_57c7effd:
+
+    # jc "Fuck you."
+    jc "Fuck you."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
+translate italian sm1cs_dc010_later_9de368a5:
+
+    # dc "I have been looking forward to this for a while.{w} I'm very excited."
+    dc "I have been looking forward to this for a while.{w} I'm very excited."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
+translate italian sm1cs_dc010_later_0f8ee3ae:
+
+    # dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+    dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:658
+translate italian sm1cs_dc010_dc_hj_0d04a1d3:
+
+    # mc "Great enough that it deserves its own pleasure."
+    mc "Great enough that it deserves its own pleasure."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:723
+translate italian sm1cs_dc010_dc_hj_1a7b15ce:
+
+    # dc "Infinitely better than my fantasy."
+    dc "Infinitely better than my fantasy."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:793
+translate italian sm1cs_dc010_end_0f3a75eb:
+
+    # dc "No, not really. Just some paperwork to do."
+    dc "No, not really. Just some paperwork to do."
 

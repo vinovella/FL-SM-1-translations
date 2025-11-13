@@ -4,12 +4,6 @@ translate french sm1cs_ns005_62226fad:
     # mct "Another day, another dollar. I wonder if Nari has plans for after work."
     mct "Un autre jour, un autre dollar. Je me demande si Nari a des plans après le boulot."
 
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:32
-translate french sm1cs_ns005_f972cb88:
-
-    # mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diviving."
-    mct "Je devrais arrêter de perdre du temps et l’inviter à un vrai rendez-vous. Je suis sûr qu’elle préférerait une belle soirée dehors plutôt que de replonger dans ses délires financiers."
-
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:33
 translate french sm1cs_ns005_18363494:
 
@@ -27,12 +21,6 @@ translate french sm1cs_ns005_ce33b62b:
 
     # mc "Uh."
     mc "Euh."
-
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:46
-translate french sm1cs_ns005_8c490514:
-
-    # ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a text last time."
-    ns "*glousse* Pas besoin de t’incliner aussi. C’est moi qui t’ai laissé en plan quand j’ai reçu ce message la dernière fois."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:47
 translate french sm1cs_ns005_45b1640f:
@@ -75,12 +63,6 @@ translate french sm1cs_ns005_d7430ab3:
 
     # ns "But I still needed to apologize, and I am sorry that we had to cut our time short."
     ns "Mais je tenais quand même à m’excuser, je suis désolée qu’on ait dû écourter notre moment."
-
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:65
-translate french sm1cs_ns005_de5753c6:
-
-    # ns "They're Blue Gensing candy, one of my favorite snacks from back home."
-    ns "Ce sont des bonbons au ginseng bleu, une de mes friandises préférées de chez moi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:66
 translate french sm1cs_ns005_60b0d663:
@@ -640,12 +622,6 @@ translate french sm1cs_ns005_in_bathroom_a5a9a10c:
     # ns "Hehehe. [mcname] shhhhh. Or do you want someone to find us?"
     ns "Hehehe. [mcname] shhh... ou tu veux qu’on nous surprenne ?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:352
-translate french sm1cs_ns005_in_bathroom_51cec772:
-
-    # mc "I... I don't. But I want you to finish me offf."
-    mc "Je... je veux pas. Mais je veux que tu me fasses jouir."
-
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:353
 translate french sm1cs_ns005_in_bathroom_48ffe5b8:
 
@@ -861,12 +837,6 @@ translate french sm1cs_ns005_after_cum_1d0518ba:
 
     # ns "*heavy breathing*"
     ns "*respiration haletante*"
-
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:502
-translate french sm1cs_ns005_after_cum_a2c1ddd6:
-
-    # ns "That was, a lot of cum, [mcname]. I trust that means you enjoyed yourself."
-    ns "C’était... beaucoup de sperme, [mcname]. Je suppose que ça veut dire que tu t’es bien amusé."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:505
 translate french sm1cs_ns005_after_cum_76a717a9:
@@ -1108,23 +1078,11 @@ translate french sm1cs_ns005_after_cum_fabcbb93:
     # mc "Wow. You can really turn on a dime."
     mc "Wow. Tu changes vraiment de sujet en un claquement de doigts."
 
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:640
-translate french sm1cs_ns005_after_cum_e2df8331:
-
-    # ns "You know I'm very effecient."
-    ns "Tu sais que je suis très efficace."
-
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:641
 translate french sm1cs_ns005_after_cum_cd7370be:
 
     # mc "And then some."
     mc "Et pas qu’un peu."
-
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:644
-translate french sm1cs_ns005_after_cum_7e8cfb77:
-
-    # mc "Give me a little time and I'll find a resturant and text you the details."
-    mc "Laisse-moi un peu de temps et je trouverai un resto. Je t’enverrai les détails par message."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:647
 translate french sm1cs_ns005_after_cum_3cdbd291:
@@ -1159,4 +1117,46 @@ translate french strings:
     new "Jouir dans la bouche de Nari"
 
 #Translate by BlackViper_
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:32
+translate french sm1cs_ns005_ef1a9eef:
+
+    # mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+    mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:46
+translate french sm1cs_ns005_bdbf9d38:
+
+    # ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+    ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:65
+translate french sm1cs_ns005_ecb1749e:
+
+    # ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+    ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:353
+translate french sm1cs_ns005_in_bathroom_55af1966:
+
+    # mc "I... I don't. But I want you to finish me off."
+    mc "I... I don't. But I want you to finish me off."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:503
+translate french sm1cs_ns005_after_cum_f15deec7:
+
+    # ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+    ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:642
+translate french sm1cs_ns005_after_cum_5af9bd6d:
+
+    # ns "You know I'm very efficient."
+    ns "You know I'm very efficient."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:646
+translate french sm1cs_ns005_after_cum_34dbd9c4:
+
+    # mc "Give me a little time and I'll find a restaurant and text you the details."
+    mc "Give me a little time and I'll find a restaurant and text you the details."
 

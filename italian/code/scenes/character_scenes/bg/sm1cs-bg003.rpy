@@ -472,12 +472,6 @@ translate italian sm1cs_bg003_bg_appears_39decf51_1:
     # "*CAMERA STROBE SOUND EFFECT*"
     "*CAMERA STROBE SOUND EFFECT*"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:304
-translate italian sm1cs_bg003_bg_appears_41f2a759:
-
-    # mc "It looking good?"
-    mc "It looking good?"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:308
 translate italian sm1cs_bg003_bg_appears_79f38256:
 
@@ -820,12 +814,6 @@ translate italian sm1cs_bg003_whipping_6092a598:
     # kv "Oh yeah... this was a good idea."
     kv "Oh sì... questa è stata una buona idea."
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:478
-translate italian sm1cs_bg003_whipping_41f2a759:
-
-    # mc "It looking good?"
-    mc "It looking good?"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:480
 translate italian sm1cs_bg003_whipping_815b81ca:
 
@@ -1089,12 +1077,6 @@ translate italian sm1cs_bg003_whipping_e613fa07:
 
     # mc "Va bene, Kanya."
     mc "Va bene, Kanya."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:610
-translate italian sm1cs_bg003_whipping_00c8c72d:
-
-    # mc "Purché tu sia a tuo agio con questo."
-    mc "Purché tu sia a tuo agio con questo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:613
 translate italian sm1cs_bg003_whipping_c004c31b:
@@ -1957,4 +1939,22 @@ translate italian strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:733
     old "Sir"
     new "Signore"
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:304
+translate italian sm1cs_bg003_bg_appears_ad41354f:
+
+    # mc "Is it looking good?"
+    mc "Is it looking good?"
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:478
+translate italian sm1cs_bg003_whipping_ad41354f:
+
+    # mc "Is it looking good?"
+    mc "Is it looking good?"
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:610
+translate italian sm1cs_bg003_whipping_afad21c7:
+
+    # mc "As long as you're comfortable with this."
+    mc "As long as you're comfortable with this."
 

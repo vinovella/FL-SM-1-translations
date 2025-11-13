@@ -40,12 +40,6 @@ translate chinese sm1cs_mh008_c067869b:
     # mc "Why did you want to see me?"
     mc "你为什么想见我？"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:46
-translate chinese sm1cs_mh008_e7ebf2b6:
-
-    # mh "I don't know... it's been awhile since we've really spent time together. I thought we could maybe do something, go somewhere."
-    mh "我也不知道...我们已经很久没有真正在一起共度时光了。我想也许我们可以做点什么，去个什么地方。"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:49
 translate chinese sm1cs_mh008_3e53a7b5:
 
@@ -2347,4 +2341,10 @@ translate chinese strings:
     # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:186
     old "Don't press the issue"
     new "不要勉强"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:46
+translate chinese sm1cs_mh008_f927037e:
+
+    # mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
+    mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
 

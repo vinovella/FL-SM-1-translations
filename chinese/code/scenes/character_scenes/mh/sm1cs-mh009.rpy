@@ -562,12 +562,6 @@ translate chinese sm1cs_mh009_8ac5103c:
     # mct "Are we really just going to skip past all of that deep emotional stuff? That felt like..."
     mct "我们真的要跳过所有那些深层的情感内容吗？那感觉像..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:314
-translate chinese sm1cs_mh009_592adc53:
-
-    # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for awhile?"
-    mct "她说了一些非常重要的话。她真的被性爱面试的想法激动到想要暂时忽略它吗？"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:318
 translate chinese sm1cs_mh009_4c29ffc4:
 
@@ -2425,4 +2419,10 @@ translate chinese strings:
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:330
     old "Allison"
     new "艾莉森"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:315
+translate chinese sm1cs_mh009_e9245de9:
+
+    # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
+    mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
 

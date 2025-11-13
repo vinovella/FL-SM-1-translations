@@ -322,12 +322,6 @@ translate chinese sm1cs_dc_renovation_07ab98c5:
     # dc "Ha, ha. Very funny, [mcname]."
     dc "哈，哈。真幽默，[mcname]。"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:220
-translate chinese sm1cs_dc_renovation_e7efd5e7:
-
-    # mc "Oh shit! I haven't offered you water or anything! You must have world up a thirst."
-    mc "靠！我都忘了给你倒水！肯定渴坏了吧。"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:223
 translate chinese sm1cs_dc_renovation_892af79d:
 
@@ -514,12 +508,6 @@ translate chinese sm1cs_dc_renovation_61d1129a:
     # mc "Oh, I don't know about all that."
     mc "噢，我可没你说的那么厉害。"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
-translate chinese sm1cs_dc_renovation_65011277:
-
-    # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem to!"
-    mc "我们在这儿才忙几个小时，你就搞定了这么多，{i}还{/i}解决了我的电路问题！"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:326
 translate chinese sm1cs_dc_renovation_28c85fe5:
 
@@ -609,4 +597,16 @@ translate chinese sm1cs_dc_renovation_e5818002:
 
     # dc "And you, yours, [mcname]!"
     dc "你也是，[mcname]！"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:220
+translate chinese sm1cs_dc_renovation_1b6ec0ce:
+
+    # mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+    mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
+translate chinese sm1cs_dc_renovation_6d9f72cb:
+
+    # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
+    mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
 

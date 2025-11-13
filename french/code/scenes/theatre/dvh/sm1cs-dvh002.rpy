@@ -394,12 +394,6 @@ translate french sm1cs_dvh002_b36b06f8:
     # mc "Denise?"
     mc "Denise?"
 
-# game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:248
-translate french sm1cs_dvh002_7eafaf42:
-
-    # dvh "It is not... too much of a surprise to me. I have had my suspicions for awhile."
-    dvh "It is not... too much of a surprise to me. I have had my suspicions for awhile."
-
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:251
 translate french sm1cs_dvh002_0e06785c:
 
@@ -693,4 +687,10 @@ translate french sm1cs_dvh002_41e938d6:
 
     # mct "Maybe a shower would do me some good."
     mct "Maybe a shower would do me some good."
+
+# game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:248
+translate french sm1cs_dvh002_7c5150d5:
+
+    # dvh "It is not... too much of a surprise to me. I have had my suspicions for a while."
+    dvh "It is not... too much of a surprise to me. I have had my suspicions for a while."
 

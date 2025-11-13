@@ -28,12 +28,6 @@ translate deutsch q_inter_nr_4_05500ff6:
     # mc "Huh?"
     mc "Hä?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:52
-translate deutsch q_inter_nr_4_c2138e10:
-
-    # nr "Pull my weiner. Heh heh."
-    nr "Zieh an meinem Würstchen. Hehe."
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:58
 translate deutsch q_inter_nr_5_1abd558a:
 
@@ -81,12 +75,6 @@ translate deutsch q_inter_nr_9_df313f64:
 
     # nr "Don't you have deliveries to make?"
     nr "Hast du keine Lieferungen zu machen?"
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:93
-translate deutsch q_inter_nr_10_fff0cb2c:
-
-    # nr "Let it rip, kid! Get out there and show those weiners who's boss."
-    nr "Lass es krachen, Junge! Geh raus und zeig den Würstchen, wer der Boss ist."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:99
 translate deutsch q_inter_nr_11_6db6dd58:
@@ -195,4 +183,16 @@ translate deutsch q_inter_nr_8_7ef23e41:
 
     # nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
     nr "*schnüffelt* Mmm. Ja, es braucht noch etwas mehr Dill, bevor es fertig ist."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:52
+translate deutsch q_inter_nr_4_9ff4a03c:
+
+    # nr "Pull my wiener. Heh heh."
+    nr "Pull my wiener. Heh heh."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:93
+translate deutsch q_inter_nr_10_6f8406ed:
+
+    # nr "Let it rip, kid! Get out there and show those wieners who's boss."
+    nr "Let it rip, kid! Get out there and show those wieners who's boss."
 

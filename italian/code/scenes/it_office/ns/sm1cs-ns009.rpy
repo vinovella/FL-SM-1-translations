@@ -64,12 +64,6 @@ translate italian sm1cs_ns009_0a3bd24a:
     # mc "Alright. That still doesn't answer what you're doing here."
     mc "Va bene. Questo non spiega ancora cosa ci fai qui."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
-translate italian sm1cs_ns009_cd306336:
-
-    # mc "And... I totally didn't scared."
-    mc "E... non mi sono affatto spaventato."
-
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:88
 translate italian sm1cs_ns009_33cf1ae2:
 
@@ -1355,4 +1349,10 @@ translate italian strings:
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:648
     old "Pronebone Nari"
     new "Scopa Nari prona"
+
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
+translate italian sm1cs_ns009_f37a2921:
+
+    # mc "And... I totally wasn't scared."
+    mc "And... I totally wasn't scared."
 

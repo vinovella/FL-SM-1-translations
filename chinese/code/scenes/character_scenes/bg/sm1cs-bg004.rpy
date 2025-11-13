@@ -976,12 +976,6 @@ translate chinese sm1cs_bg004_anal_26a64fd0:
     # bg "OHHHH FUUUUUCK!"
     bg "哦！操！"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:543
-translate chinese sm1cs_bg004_anal_9097d712:
-
-    # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!u], I NEED A BREAK!"
-    bg "我要--呃--求你了， [bg_mcname!u]，我需要歇一会儿！"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:544
 translate chinese sm1cs_bg004_anal_7b9fc1d1:
 
@@ -1569,4 +1563,10 @@ translate chinese sm1cs_bg004_anal_be577bc5:
 
     # bg "I... I want your cum, [bg_mcname!t]."
     bg "我...我想要你的精液，[bg_mcname!t]。"
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:543
+translate chinese sm1cs_bg004_anal_a58f65b7:
+
+    # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
+    bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
 

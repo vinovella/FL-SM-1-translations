@@ -322,12 +322,6 @@ translate chinese sm1cs_ns007_resturant_3dd0863d:
     # mc "Not really, but... even if I wanted to order what you like, I don't really know what you like."
     mc "也不是，不过...就算我想帮你点你喜欢吃的，我也不太清楚你喜欢吃什么呀。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:234
-translate chinese sm1cs_ns007_resturant_4ee645e0:
-
-    # ns "I dissagree. I've told you many things I like."
-    ns "我不这么觉得。我跟你说过很多我喜欢的东西呀。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:236
 translate chinese sm1cs_ns007_resturant_79ccfa96:
 
@@ -1030,12 +1024,6 @@ translate chinese sm1cs_ns007_light_house_414b8d09:
     # ns "A little... but I want to you to keep touching me."
     ns "有一点...但我想让你一直摸我。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:594
-translate chinese sm1cs_ns007_light_house_721e1d0f:
-
-    # ns "I feel... comfortable... wtih you."
-    ns "和你在一起...我感觉...很舒服。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:596
 translate chinese sm1cs_ns007_light_house_6e683072:
 
@@ -1239,12 +1227,6 @@ translate chinese sm1cs_ns007_light_house_7f24cbec:
 
     # mct "With me of course. She would probably be comfortable."
     mct "当然是和我一起，她可能会比较能接受。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:693
-translate chinese sm1cs_ns007_light_house_ec054526:
-
-    # ns "*exctied but stiffled moaning*"
-    ns "*兴奋但僵硬的呻吟*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:694
 translate chinese sm1cs_ns007_light_house_cff3ddbc:
@@ -1480,12 +1462,6 @@ translate chinese sm1cs_ns007_light_house_6157151d:
     # ns "*shivering* Really? That makes me so happy."
     ns "*颤抖* 真的吗？这话让我太高兴了。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:805
-translate chinese sm1cs_ns007_light_house_f8b5ef95:
-
-    # ns "*moaning. I love... hearing that... ooouhah..."
-    ns "*呻吟* 我喜欢...听这种话...呜呜..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:806
 translate chinese sm1cs_ns007_light_house_8ab21434:
 
@@ -1642,12 +1618,6 @@ translate chinese sm1cs_ns007_light_house_9c95d390:
     # ns "Ooouha-huaa-hooouah..."
     ns "噢噢--哈啊--啊啊..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:881
-translate chinese sm1cs_ns007_light_house_47a2443e:
-
-    # ns "*whipsers* It's just like the hentai."
-    ns "*低语* 和H漫里一样。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:885
 translate chinese sm1cs_ns007_light_house_45a96e41:
 
@@ -1701,12 +1671,6 @@ translate chinese sm1cs_ns007_light_house_9272cc78:
 
     # mc "Alright. Here's your special order."
     mc "好啊。这是你的特别订单。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:909
-translate chinese sm1cs_ns007_light_house_b7c02e3e:
-
-    # ns "Yes. Thank you, [mcname].."
-    ns "耶，谢谢你，[mcname]..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:912
 translate chinese sm1cs_ns007_light_house_8716d7be:
@@ -1858,12 +1822,6 @@ translate chinese sm1cs_ns007_walkaway_dbeabe96:
     # ns "Yes, I can do that."
     ns "好，我觉得可以。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:998
-translate chinese sm1cs_ns007_walkaway_1f0277e6:
-
-    # ns "Hmm... considering the food, conversation, company and my the amount of times I came..."
-    ns "嗯...考虑到食物、聊天、陪伴，还有我达到高潮的次数..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1003
 translate chinese sm1cs_ns007_walkaway_e1669c33:
 
@@ -2011,4 +1969,52 @@ translate chinese sm1cs_ns007_walkaway_e0cd2531:
 
     # ns "I will award you...{w}an Eight out of Ten."
     ns "我会给你……{w}十分中打八分。"
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:234
+translate chinese sm1cs_ns007_resturant_0eecd966:
+
+    # ns "I disagree. I've told you many things I like."
+    ns "I disagree. I've told you many things I like."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:595
+translate chinese sm1cs_ns007_light_house_eb237d93:
+
+    # ns "I feel... comfortable... with you."
+    ns "I feel... comfortable... with you."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:694
+translate chinese sm1cs_ns007_light_house_0c97487e:
+
+    # ns "*excited but stifled moaning*"
+    ns "*excited but stifled moaning*"
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:806
+translate chinese sm1cs_ns007_light_house_5d826925:
+
+    # ns "*moaning. I love... hearing that... ooouhah...*"
+    ns "*moaning. I love... hearing that... ooouhah...*"
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:882
+translate chinese sm1cs_ns007_light_house_81160ea0:
+
+    # ns "*whispers* It's just like the hentai."
+    ns "*whispers* It's just like the hentai."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:910
+translate chinese sm1cs_ns007_light_house_4e72d60e:
+
+    # ns "Yes. Thank you, [mcname]."
+    ns "Yes. Thank you, [mcname]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1001
+translate chinese sm1cs_ns007_walkaway_9dae56c9:
+
+    # ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+    ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+
+translate chinese strings:
+
+    # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:439
+    old "The people close to me are happy about it"
+    new "The people close to me are happy about it"
 

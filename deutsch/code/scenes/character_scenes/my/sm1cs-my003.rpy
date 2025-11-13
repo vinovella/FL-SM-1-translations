@@ -916,12 +916,6 @@ translate deutsch sm1cs_my003_at_gym_91d8a70c:
     # mc "You okay?"
     mc "Alles in Ordnung?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:461
-translate deutsch sm1cs_my003_at_gym_a3d6370e:
-
-    # my "Yeah, it's just been awhile since I've been able to get to the gym. Working some muscles that are a little frozen up."
-    my "Ja, es ist schon eine Weile her, seit ich das letzte Mal im Fitnessstudio war. Ich trainiere gerade ein paar Muskeln, die etwas eingerostet sind."
-
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:462
 translate deutsch sm1cs_my003_at_gym_5acd50d3:
 
@@ -1639,4 +1633,10 @@ translate deutsch strings:
     # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:475
     old "It looks like the right one is within reach!"
     new "Es sieht so aus, als wäre der Richtige in greifbarer Nähe!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:461
+translate deutsch sm1cs_my003_at_gym_b2b93b59:
+
+    # my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
+    my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
 

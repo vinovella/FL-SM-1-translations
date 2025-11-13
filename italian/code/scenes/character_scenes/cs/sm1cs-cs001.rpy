@@ -118,12 +118,6 @@ translate italian sm1cs_cs001_b8fbfa28:
     # mc "Yeah, I'll check with them first..."
     mc "Sì, controllerò prima con loro..."
 
-# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:65
-translate italian sm1cs_cs001_649f6e26:
-
-    # mc "Yeah, yeah. I'll have a dark roast cofee and a..."
-    mc "Sì, sì. Prenderò un caffè tostato scuro e un..."
-
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:66
 translate italian sm1cs_cs001_95ef3c92:
 
@@ -201,4 +195,10 @@ translate italian sm1cs_cs001_24cdc073:
 
     # cs "Uh huh."
     cs "Uh huh."
+
+# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:65
+translate italian sm1cs_cs001_0b11eff4:
+
+    # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
 

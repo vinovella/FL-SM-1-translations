@@ -394,12 +394,6 @@ translate chinese sm1cs_kv004_41ac40ab:
     # mc "Not going to lie, it was a little awkward hearing someone talk about it with me in the room. She seemed to enjoy it, though."
     mc "说实话，当着我的面听别人讨论这个，多少有点尴尬。不过她好像听得挺享受的。"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
-translate chinese sm1cs_kv004_96ff9235:
-
-    # kv "She did. I know it's been awhile since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "她确实很享受。我知道她有段时间没什么性生活了，所以我觉得讲点能勾起她幻想的事，她应该会喜欢。"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:241
 translate chinese sm1cs_kv004_a0f8dcda:
 
@@ -682,12 +676,6 @@ translate chinese sm1cs_kv004_sex_repeatable_b9e52793:
     # kv "We'll start off with an easy POV shot."
     kv "我们先从简单的POV镜头开始。"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:407
-translate chinese sm1cs_kv004_sex_repeatable_b32bc269:
-
-    # kv "But we have to get rid of these pesky things..."
-    kv "但首先得把这些麻烦的衣服脱掉..."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:413
 translate chinese sm1cs_kv004_sex_repeatable_924c1b38:
 
@@ -741,12 +729,6 @@ translate chinese sm1cs_kv004_sex_repeatable_886511cd:
 
     # mc "You were right, this looks fucking {i}hot!{/i}"
     mc "你说得对，这画面看起来太他妈的{i}惹火{/i}了！"
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:456
-translate chinese sm1cs_kv004_sex_repeatable_ebeeae2e:
-
-    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, Goddamn."
-    mc "我靠--康雅，你的口活简--直--神--了。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:468
 translate chinese sm1cs_kv004_sex_repeatable_334744a4:
@@ -1006,12 +988,6 @@ translate chinese sm1cs_kv004_sex_repeatable_aef2c7e5:
     # kv "Gooooood, chooooke me! Fuuuuck, I'mstillcummmmmming!"
     kv "太~棒了~掐我！啊啊~我还在~高潮~！"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:596
-translate chinese sm1cs_kv004_sex_repeatable_2aadad2a:
-
-    # mc "Mmmmnngnng, Kanya you're so tight! You're pussy is like a viccce!"
-    mc "嗯嗯嗯~康雅你好紧！你的小穴像老虎钳！"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate chinese sm1cs_kv004_sex_repeatable_c5bef044:
 
@@ -1203,4 +1179,28 @@ translate chinese strings:
     # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:348
     old "Maybe some other time"
     new "改天再说"
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
+translate chinese sm1cs_kv004_9b3488c6:
+
+    # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
+translate chinese sm1cs_kv004_sex_repeatable_b52d6afd:
+
+    # kv "Let's get rid of these pesky things..."
+    kv "Let's get rid of these pesky things..."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
+translate chinese sm1cs_kv004_sex_repeatable_0bda85cc:
+
+    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
+translate chinese sm1cs_kv004_sex_repeatable_925a1079:
+
+    # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
 

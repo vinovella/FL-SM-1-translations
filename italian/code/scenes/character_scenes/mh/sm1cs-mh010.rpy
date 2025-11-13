@@ -580,12 +580,6 @@ translate italian sm1cs_mh010_a041e779:
     # mc "Has anyone told you that you're amazing?"
     mc "Qualcuno ti ha mai detto che sei fantastica?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:282
-translate italian sm1cs_mh010_5b8a49c4:
-
-    # mh "Once or twice, but a girl likes to hear it every once in awhile."
-    mh "Una o due volte, ma a una ragazza piace sentirlo ogni tanto."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:285
 translate italian sm1cs_mh010_e13491b8:
 
@@ -709,4 +703,10 @@ translate italian strings:
     # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:267
     old "Leave Lyssa's house"
     new "Lascia la casa di Lyssa"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:283
+translate italian sm1cs_mh010_16687345:
+
+    # mh "Once or twice, but a girl likes to hear it every once in a while."
+    mh "Once or twice, but a girl likes to hear it every once in a while."
 

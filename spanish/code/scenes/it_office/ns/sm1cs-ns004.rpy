@@ -202,12 +202,6 @@ translate spanish sm1cs_ns004_96217179:
     # ns "Oh, come on, [mcname]. That's not at all what I was saying. Well, I mean, I guess it was one possible situation, but the odds are pretty low."
     ns "Oh, vamos, [mcname]. Eso no es en absoluto lo que estaba diciendo. Bueno, quiero decir, supongo que era una situación posible, pero las probabilidades son bastante bajas."
 
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:86
-translate spanish sm1cs_ns004_b839a8bd:
-
-    # ns "I would consder that outcome as very high risk, low chance."
-    ns "Yo consideraría ese resultado como de muy alto riesgo y baja probabilidad."
-
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:89
 translate spanish sm1cs_ns004_716019b8:
 
@@ -808,12 +802,6 @@ translate spanish sm1cs_ns004_end_talk_88a01f90:
     # ns "I'm fine. I just... I wanted to say that you have been the nicest person I have met since I came here."
     ns "Estoy bien. Solo... quería decir que has sido la persona más agradable que he conocido desde que vine aquí."
 
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
-translate spanish sm1cs_ns004_end_talk_b427a71b:
-
-    # mc "I'm, really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
-    mc "Estoy realmente feliz de escuchar eso. Pero estoy seguro de que conocerás a más personas que son tan buenas como yo."
-
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:400
 translate spanish sm1cs_ns004_end_talk_4f0e3ac2:
 
@@ -973,4 +961,16 @@ translate spanish strings:
     # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:251
     old "I'm not really into it"
     new "Realmente no me gusta"
+
+# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:86
+translate spanish sm1cs_ns004_fc4dfef5:
+
+    # ns "I would consider that outcome as very high risk, low chance."
+    ns "I would consider that outcome as very high risk, low chance."
+
+# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
+translate spanish sm1cs_ns004_end_talk_36d68c75:
+
+    # mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
+    mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
 

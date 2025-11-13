@@ -58,12 +58,6 @@ translate italian sm1cs_dc010i_7825249a:
     # dc "What are you thinking?"
     dc "A cosa stai pensando?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010i.rpy:23
-translate italian sm1cs_dc010i_53ea3c7c:
-
-    # mc "Well, there's this new action move-"
-    mc "Beh, c'è questo nuovo film d'azione-"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010i.rpy:26
 translate italian sm1cs_dc010i_fc4320ec:
 
@@ -87,4 +81,10 @@ translate italian sm1cs_dc010i_35458250:
 
     # dc "Okay! I'll see you there! Yay!"
     dc "Okay! Ci vediamo lì! Evviva!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010i.rpy:23
+translate italian sm1cs_dc010i_dfcdc19d:
+
+    # mc "Well, there's this new action movie-"
+    mc "Well, there's this new action movie-"
 

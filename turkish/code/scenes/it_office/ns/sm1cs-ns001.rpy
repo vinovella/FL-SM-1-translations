@@ -28,12 +28,6 @@ translate turkish sm1cs_ns001_6207b3f5:
     # mc "Hey Anna. Nari and I were looking for some food. Is there anything close around here?"
     mc "Hey Anna. Nari ve ben yiyecek arıyorduk. Buralarda yakınlarda bir yer var mı?"
 
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:34
-translate turkish sm1cs_ns001_11a27173:
-
-    # ag "Of course. The office has it's own cafeteria."
-    ag "Elbette. Ofisin kendine ait bir kafeteryası var."
-
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:37
 translate turkish sm1cs_ns001_db427dd9:
 
@@ -292,12 +286,6 @@ translate turkish sm1cs_ns001_continue_495c4c5a:
     # ns "Oh. Thanks."
     ns "Ah. Teşekkürler."
 
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
-translate turkish sm1cs_ns001_continue_7f280683:
-
-    # mct "He shoots"
-    mct "O ateş ediyor"
-
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:203
 translate turkish sm1cs_ns001_continue_7140082a:
 
@@ -399,12 +387,6 @@ translate turkish sm1cs_ns001_continue_3910922c:
 
     # ns "I caught April looking over my shoulder earlier. I was so embarrassed. I thought I had done something wrong or said something wrong."
     ns "April'in az önce omzumun üzerinden baktığını gördüm. Çok utanmıştım. Yanlış bir şey yaptığımı veya yanlış bir şey söylediğimi düşündüm."
-
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
-translate turkish sm1cs_ns001_continue_318826f2:
-
-    # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda.."
-    ns "Daha sonra, yaptığım işten gerçekten etkilenmiş olmalı ki bana Soda isteyip istemediğimi sordu.."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:252
 translate turkish sm1cs_ns001_continue_d5326a7a:
@@ -599,4 +581,22 @@ translate turkish strings:
     # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:154
     old "Be humble"
     new "Alçakgönüllü olun"
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:34
+translate turkish sm1cs_ns001_1c682e14:
+
+    # ag "Of course. The office has its own cafeteria."
+    ag "Of course. The office has its own cafeteria."
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
+translate turkish sm1cs_ns001_continue_e2b53835:
+
+    # mct "He shoots."
+    mct "He shoots."
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
+translate turkish sm1cs_ns001_continue_aa4b7c7c:
+
+    # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
+    ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
 

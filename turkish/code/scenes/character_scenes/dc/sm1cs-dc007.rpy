@@ -340,12 +340,6 @@ translate turkish sm1cs_dc007_continue_707f72e3:
     # mc "Oh, but I'm dedicated to the cause."
     mc "Ama ben bu davaya adanmış durumdayım."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:249
-translate turkish sm1cs_dc007_continue_a220b838:
-
-    # dc "Well you kow, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
-    dc "Biliyorsun, merak ediyorum... Şüphelilerimi tuzağa düşürmek için sana bu kadar çok boş zaman veren işte ne yapıyorsun?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:252
 translate turkish sm1cs_dc007_continue_9a1f2614:
 
@@ -652,12 +646,6 @@ translate turkish sm1cs_dc007_continue_965c4984:
     # mc "I don't know about \"rogue vigilante\", what about \"hot action hero\"?"
     mc "\"Serseri kanunsuz\" hakkında bir şey bilmiyorum, peki \"yakışıklı aksiyon kahramanı\" hakkında ne düşünüyorsun?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
-translate turkish sm1cs_dc007_continue_6e9d9cd5:
-
-    # dc "Mmmmm, maybe when you're move isn't \"Human Roadblock\"."
-    dc "Mmmmm, belki de hareketin \"İnsan Engeli\" olmadığında."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:392
 translate turkish sm1cs_dc007_continue_abdaa62e:
 
@@ -805,4 +793,16 @@ translate turkish strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:217
     old "Plus, I think you're pretty cute"
     new "Ayrıca, bence sen oldukça tatlısın."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:249
+translate turkish sm1cs_dc007_continue_2557068b:
+
+    # dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+    dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
+translate turkish sm1cs_dc007_continue_6a0c526c:
+
+    # dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
+    dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
 

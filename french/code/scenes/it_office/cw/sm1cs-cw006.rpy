@@ -400,12 +400,6 @@ translate french sm1cs_cw006_72e1e090:
     # cw "You would never have had to play the role so {b}physically{/b}..."
     cw "Tu n’aurais jamais eu à jouer ce rôle de façon aussi {b}physique{/b}..."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:242
-translate french sm1cs_cw006_481fa937:
-
-    # cw "If I didn't need you help in the first place..."
-    cw "Si je n’avais pas eu besoin de ton aide dès le départ..."
-
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:249
 translate french sm1cs_cw006_2d2aafdf:
 
@@ -435,12 +429,6 @@ translate french sm1cs_cw006_09adac03:
 
     # cw "*gasps*"
     cw "*halète*"
-
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:257
-translate french sm1cs_cw006_e1fea2e7:
-
-    # mc "I can only control my body so much, Claire.."
-    mc "Je peux pas toujours contrôler mon corps, Claire..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:260
 translate french sm1cs_cw006_d99ab8d5:
@@ -652,12 +640,6 @@ translate french cw006_choice1_b6ce5dca:
     # cw "I really appreciate your time today, and your attention."
     cw "J’apprécie vraiment le temps que tu m’as accordé aujourd’hui, et ton attention."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:358
-translate french cw006_choice1_4c45d395:
-
-    # mc "Of course, Ms. Claire."
-    mc "Bien sûr, Mme Claire."
-
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:361
 translate french cw006_choice1_ed8fb7e4:
 
@@ -754,12 +736,6 @@ translate french sm1cs_cw006_onramp_1a_0282ab77:
     # cw "Being around you...{w} appears to help with my workflow."
     cw "Être avec toi...{w} semble aider ma productivité."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:404
-translate french sm1cs_cw006_onramp_1a_61a975b5:
-
-    # cw "I think a little further analysis would be good.{w} Neccesary even."
-    cw "Je pense qu’une analyse plus poussée serait utile.{w} Nécessaire même."
-
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:408
 translate french sm1cs_cw006_onramp_1a_212a1b90:
 
@@ -807,12 +783,6 @@ translate french sm1cs_cw006_onramp_1a_38d02a53:
 
     # cw "In the weeks ahead, I may be calling on you to help me out with some technical details about a project I am working on."
     cw "Dans les semaines qui viennent, je pourrais te solliciter pour m’aider sur certains détails techniques d’un projet sur lequel je travaille."
-
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:425
-translate french sm1cs_cw006_onramp_1a_bb517c47:
-
-    # cw "And by helping me out, I mean I'd need you help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
-    cw "Et par aider, j’entends que j’aurais besoin de toi pour des activités vaguement similaires à celles qu’on a {i}faites{/i} sur le yacht."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:426
 translate french sm1cs_cw006_onramp_1a_05500ff6:
@@ -1696,12 +1666,6 @@ translate french sm1cs_cw006_onramp_1_2ba0ca90:
     # cw "It is."
     cw "Exact."
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:863
-translate french sm1cs_cw006_onramp_2_82d718b7:
-
-    # mc "I wanted to talk to you about that special assignement you mentioned?"
-    mc "Je voulais te parler de cette mission spéciale dont tu as parlé ?"
-
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:865
 translate french sm1cs_cw006_onramp_2_641876ad:
 
@@ -1804,4 +1768,40 @@ translate french strings:
     # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:476
     old "Your lips?"
     new "Your lips?"
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:238
+translate french sm1cs_cw006_8854937c:
+
+    # cw "If I didn't need your help in the first place..."
+    cw "If I didn't need your help in the first place..."
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:253
+translate french sm1cs_cw006_8fc13b58:
+
+    # mc "I can only control my body so much, Claire."
+    mc "I can only control my body so much, Claire."
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:353
+translate french cw006_choice1_b19ad390:
+
+    # mc "Of course, Ms. Watts."
+    mc "Of course, Ms. Watts."
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:400
+translate french sm1cs_cw006_onramp_1a_e8dd973e:
+
+    # cw "I think a little further analysis would be good.{w} Necessary even."
+    cw "I think a little further analysis would be good.{w} Necessary even."
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:421
+translate french sm1cs_cw006_onramp_1a_141a8791:
+
+    # cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
+    cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
+
+# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:860
+translate french sm1cs_cw006_onramp_2_d125b649:
+
+    # mc "I wanted to talk to you about that special assignment you mentioned?"
+    mc "I wanted to talk to you about that special assignment you mentioned?"
 

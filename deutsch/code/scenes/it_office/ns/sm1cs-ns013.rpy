@@ -874,12 +874,6 @@ translate deutsch ns013_labels_section_5b8f47d4:
     # ns "That is not who I am."
     ns "So bin ich nicht."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:533
-translate deutsch ns013_labels_section_6dbe4ceb:
-
-    # ns "I am a very bad [nspetlabel]"
-    ns "Ich bin eine sehr schlechte [nspetlabel]."
-
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:535
 translate deutsch ns013_labels_section_6790f1fe:
 
@@ -981,12 +975,6 @@ translate deutsch ns013_labels_section_e5e55bb8:
 
     # mc "Are you feeling better now?"
     mc "Geht es dir jetzt besser?"
-
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:571
-translate deutsch ns013_labels_section_55e64ca2:
-
-    # ns "A little. I'm actually stilll-"
-    ns "Ein bisschen. Ich bin eigentlich immer noch..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:572
 translate deutsch ns013_labels_section_d6d86041:
@@ -1138,12 +1126,6 @@ translate deutsch ns013_labels_section_2360aad8:
     # mc "Take all the time you need, Nari."
     mc "Nimm dir alle Zeit, die du brauchst, Nari."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:629
-translate deutsch ns013_labels_section_fb047390:
-
-    # ns "You're alawys so kind to me, [nsmcpetlabel]."
-    ns "Du bist immer so nett zu mir, [nsmcpetlabel]."
-
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:631
 translate deutsch ns013_labels_section_69aaf1f6:
 
@@ -1192,12 +1174,6 @@ translate deutsch ns013_labels_section_bfd12f43:
     # ns "But now... with hua-huaah... you inside of me... everything feels like it should."
     ns "Aber jetzt... mit hua-huaah... dir in mir... fühlt sich alles so an, wie es sein sollte."
 
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:653
-translate deutsch ns013_labels_section_ad86d919:
-
-    # mc "I love how your pussy around me. I have such a good [nspetlabel]."
-    mc "Ich liebe es, wie deine Muschi um mich herum ist. Ich habe so eine gute [nspetlabel]."
-
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:654
 translate deutsch ns013_labels_section_d892676b:
 
@@ -1233,12 +1209,6 @@ translate deutsch ns013_labels_section_a719a848:
 
     # ns "This pose... It's nice."
     ns "Diese Stellung... ist schön."
-
-# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:664
-translate deutsch ns013_labels_section_ec7c7785:
-
-    # ns "I can go... Mrrmmm... at just the right speed,"
-    ns "Ich kann ... Mrrmmm ... mit genau der richtigen Geschwindigkeit gehen,"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:665
 translate deutsch ns013_labels_section_0e3f93c7:
@@ -2433,4 +2403,34 @@ translate deutsch ns013_labels_section_4e1d76af:
 
     # ns "Yes, [mcname]."
     ns "Ja, [mcname]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:531
+translate deutsch ns013_labels_section_0887f6cc:
+
+    # ns "I am a very bad [nspetlabel]."
+    ns "I am a very bad [nspetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:569
+translate deutsch ns013_labels_section_3688c4d9:
+
+    # ns "A little. I'm actually still-"
+    ns "A little. I'm actually still-"
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:627
+translate deutsch ns013_labels_section_713f1049:
+
+    # ns "You're always so kind to me, [nsmcpetlabel]."
+    ns "You're always so kind to me, [nsmcpetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:651
+translate deutsch ns013_labels_section_791ab451:
+
+    # mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+    mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:662
+translate deutsch ns013_labels_section_ab353c83:
+
+    # ns "I can go... Mrrmmm... at just the right speed."
+    ns "I can go... Mrrmmm... at just the right speed."
 

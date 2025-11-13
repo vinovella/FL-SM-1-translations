@@ -562,12 +562,6 @@ translate portuguese sm1cs_mh009_8ac5103c:
     # mct "Are we really just going to skip past all of that deep emotional stuff? That felt like..."
     mct "Are we really just going to skip past all of that deep emotional stuff? That felt like..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:314
-translate portuguese sm1cs_mh009_592adc53:
-
-    # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for awhile?"
-    mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for awhile?"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:318
 translate portuguese sm1cs_mh009_4c29ffc4:
 
@@ -2425,4 +2419,10 @@ translate portuguese strings:
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:330
     old "Allison"
     new "Allison"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:315
+translate portuguese sm1cs_mh009_e9245de9:
+
+    # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
+    mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
 

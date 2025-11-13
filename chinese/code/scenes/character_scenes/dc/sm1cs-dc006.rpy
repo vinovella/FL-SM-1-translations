@@ -184,12 +184,6 @@ translate chinese sm1cs_dc006_11bee6f5:
     # dc "Yeah, surprisingly everyone is pretty tight lipped about it."
     dc "是啊，奇怪的是大家都对此守口如瓶。"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
-translate chinese sm1cs_dc006_180f30a4:
-
-    # dc "I would be lying if I didn't say I was a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "要说我不感兴趣，那肯定是假话，到底发生了什么？连警察都不愿多谈...肯定很劲爆。"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:111
 translate chinese sm1cs_dc006_2b4b0363:
 
@@ -261,12 +255,6 @@ translate chinese sm1cs_dc006_73ff9d5e:
 
     # mc "Nope, can't say that I have. I'm actually pretty sure I've never had a mocha."
     mc "没喝过，说实话我可能连普通摩卡都没喝过。"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
-translate chinese sm1cs_dc006_54e3a518:
-
-    # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, your's is a white chocolate mix, and..."
-    dc "很好喝的。里面有浓缩咖啡、牛奶和巧克力酱。你这个是白巧克力酱，还有..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:145
 translate chinese sm1cs_dc006_514a3798:
@@ -951,4 +939,16 @@ translate chinese strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
     old "Show no interest in Debbie"
     new "对黛比不感兴趣"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
+translate chinese sm1cs_dc006_993ec2ac:
+
+    # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
+translate chinese sm1cs_dc006_a541102c:
+
+    # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
+    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
 

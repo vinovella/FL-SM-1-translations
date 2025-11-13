@@ -268,12 +268,6 @@ translate deutsch sm1cs_dc010_later_9e454f39:
     # dc "Like, when he showed up in the car, the handgun sticking out of the window!"
     dc "Like, when he showed up in the car, the handgun sticking out of the window!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:119
-translate deutsch sm1cs_dc010_later_40b4ce97:
-
-    # dc "And then he reloaded it by smashing it on the motorcyclists head! So bad ass!"
-    dc "And then he reloaded it by smashing it on the motorcyclists head! So bad ass!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:124
 translate deutsch sm1cs_dc010_later_eb07f581:
 
@@ -406,23 +400,11 @@ translate deutsch sm1cs_dc010_later_d46816dd:
     # mct "Like... really good. Maybe, and just maybe..."
     mct "Like... really good. Maybe, and just maybe..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:173
-translate deutsch sm1cs_dc010_later_438b6718:
-
-    # "Jerk Cop" "Well, what do we have here!"
-    "Jerk Cop" "Well, what do we have here!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:174
 translate deutsch sm1cs_dc010_later_dbc9c5b2:
 
     # mct "Oh shit."
     mct "Oh shit."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:177
-translate deutsch sm1cs_dc010_later_9ea8e216:
-
-    # "Douche Cop" "Oh, loitering? Maybe something a bit more nefarious?"
-    "Douche Cop" "Oh, loitering? Maybe something a bit more nefarious?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:179
 translate deutsch sm1cs_dc010_later_8ce18fb0:
@@ -430,83 +412,17 @@ translate deutsch sm1cs_dc010_later_8ce18fb0:
     # mc "Evening, officers."
     mc "Evening, officers."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:181
-translate deutsch sm1cs_dc010_later_8104544b:
-
-    # "Jerk Cop" "\"Evening, officers\", pfft."
-    "Jerk Cop" "\"Evening, officers\", pfft."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:184
 translate deutsch sm1cs_dc010_later_063d1ad9:
 
     # mc "Is there something I can help you with?"
     mc "Is there something I can help you with?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:185
-translate deutsch sm1cs_dc010_later_d3f4a473:
-
-    # "Douche Cop" "Hmmm... let's see."
-    "Douche Cop" "Hmmm... let's see."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:188
 translate deutsch sm1cs_dc010_later_fca924d7:
 
     # mc "Uuuuffff!"
     mc "Uuuuffff!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:191
-translate deutsch sm1cs_dc010_later_2e90b41a:
-
-    # "Douche Cop" "Oh, that's right!"
-    "Douche Cop" "Oh, that's right!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:194
-translate deutsch sm1cs_dc010_later_316b0cab:
-
-    # "Douche Cop" "That's for using that bitch to embarrass us the other day!"
-    "Douche Cop" "That's for using that bitch to embarrass us the other day!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:196
-translate deutsch sm1cs_dc010_later_2caf8a9a:
-
-    # "Jerk Cop" "Woah, man."
-    "Jerk Cop" "Woah, man."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:199
-translate deutsch sm1cs_dc010_later_6e870534:
-
-    # "Douche Cop" "What?"
-    "Douche Cop" "What?"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:200
-translate deutsch sm1cs_dc010_later_840706a6:
-
-    # "Jerk Cop" "She's not entirely a bitch. Because, you now."
-    "Jerk Cop" "She's not entirely a bitch. Because, you now."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:203
-translate deutsch sm1cs_dc010_later_083d0320:
-
-    # "Douche Cop" "Oh yeah."
-    "Douche Cop" "Oh yeah."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:206
-translate deutsch sm1cs_dc010_later_6499727b:
-
-    # "Douche Cop" "Because she has a dick!"
-    "Douche Cop" "Because she has a dick!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:209
-translate deutsch sm1cs_dc010_later_c5b09bec:
-
-    # "Jerk Cop" "Yeah! So, whatever she is! Fuck her!"
-    "Jerk Cop" "Yeah! So, whatever she is! Fuck her!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:210
-translate deutsch sm1cs_dc010_later_8a6e6e14:
-
-    # "Douche Cop" "Hahahahaha!"
-    "Douche Cop" "Hahahahaha!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:212
 translate deutsch sm1cs_dc010_later_1987dde6:
@@ -520,23 +436,11 @@ translate deutsch sm1cs_dc010_later_f289aa21:
     # dc "The {i}fuck{/i} are you two doing?"
     dc "The {i}fuck{/i} are you two doing?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:217
-translate deutsch sm1cs_dc010_later_beeaf278:
-
-    # "Jerk Cop" "Oh, look who it is. You're little bitch, come to save her little bitch!"
-    "Jerk Cop" "Oh, look who it is. You're little bitch, come to save her little bitch!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:219
 translate deutsch sm1cs_dc010_later_fd5252a2:
 
     # mc "Oh, that was a good one. Wooooow."
     mc "Oh, that was a good one. Wooooow."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:221
-translate deutsch sm1cs_dc010_later_50eb0f04:
-
-    # "Jerk Cop" "Shut up!"
-    "Jerk Cop" "Shut up!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:223
 translate deutsch sm1cs_dc010_later_bfadea7f:
@@ -556,23 +460,11 @@ translate deutsch sm1cs_dc010_later_72baf430:
     # dc "If you don't, you'll regret it."
     dc "If you don't, you'll regret it."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:229
-translate deutsch sm1cs_dc010_later_66c3cae5:
-
-    # "Jerk Cop" "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
-    "Jerk Cop" "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:231
 translate deutsch sm1cs_dc010_later_63386751:
 
     # dc "One."
     dc "One."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:233
-translate deutsch sm1cs_dc010_later_e1be8345:
-
-    # "Douche Cop" "Oh the little girl, or {i}little boy{/i} is soooo scary!"
-    "Douche Cop" "Oh the little girl, or {i}little boy{/i} is soooo scary!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:234
 translate deutsch sm1cs_dc010_later_302b49ba:
@@ -580,29 +472,11 @@ translate deutsch sm1cs_dc010_later_302b49ba:
     # dc "Two."
     dc "Two."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:237
-translate deutsch sm1cs_dc010_later_531d8025:
-
-    # "Jerk Cop" "Oh, my balls are shaking! Hahahahaha!"
-    "Jerk Cop" "Oh, my balls are shaking! Hahahahaha!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:238
-translate deutsch sm1cs_dc010_later_8a6e6e14_1:
-
-    # "Douche Cop" "Hahahahaha!"
-    "Douche Cop" "Hahahahaha!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:240
 translate deutsch sm1cs_dc010_later_ac0a60ad:
 
     # dc "Three."
     dc "Three."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:241
-translate deutsch sm1cs_dc010_later_39d40fad:
-
-    # "Jerk Cop" "Oh, fuck you!"
-    "Jerk Cop" "Oh, fuck you!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:244
 translate deutsch sm1cs_dc010_later_b78076c2:
@@ -616,23 +490,11 @@ translate deutsch sm1cs_dc010_later_ba02e302:
     # "Ka-Chow!"
     "Ka-Chow!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:249
-translate deutsch sm1cs_dc010_later_26db978d:
-
-    # "Douche Cop" "What the fuck!?"
-    "Douche Cop" "What the fuck!?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:252
 translate deutsch sm1cs_dc010_later_198353ff:
 
     # dc "*grunts*"
     dc "*grunts*"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:255
-translate deutsch sm1cs_dc010_later_e247bcbf:
-
-    # "Douche Cop" "Shit!"
-    "Douche Cop" "Shit!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:258
 translate deutsch sm1cs_dc010_later_73a0be28:
@@ -646,29 +508,11 @@ translate deutsch sm1cs_dc010_later_cee1e977:
     # "Both cops" "*groaning*"
     "Both cops" "*groaning*"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:265
-translate deutsch sm1cs_dc010_later_d3d34643:
-
-    # "Douche Cop" "My ass."
-    "Douche Cop" "My ass."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:266
 translate deutsch sm1cs_dc010_later_4258e46e:
 
     # dc "You two. {i}Leave.{/i} Before I put you in the hospital."
     dc "You two. {i}Leave.{/i} Before I put you in the hospital."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:268
-translate deutsch sm1cs_dc010_later_6106c91d:
-
-    # "Jerk Cop" "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
-    "Jerk Cop" "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:269
-translate deutsch sm1cs_dc010_later_0e2b8682:
-
-    # "Douche Cop" "Yeah. Get your ass kicked off the force."
-    "Douche Cop" "Yeah. Get your ass kicked off the force."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:271
 translate deutsch sm1cs_dc010_later_a9afe6d2:
@@ -700,35 +544,11 @@ translate deutsch sm1cs_dc010_later_a0b3a7d5:
     # mc "I wonder what he would have to say about that?"
     mc "I wonder what he would have to say about that?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:280
-translate deutsch sm1cs_dc010_later_524cfcc1:
-
-    # "Jerk Cop" "Errrgghhhh..."
-    "Jerk Cop" "Errrgghhhh..."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:281
-translate deutsch sm1cs_dc010_later_32d72043:
-
-    # "Douche Cop" "Mother fucker..."
-    "Douche Cop" "Mother fucker..."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:282
-translate deutsch sm1cs_dc010_later_554ce0ea:
-
-    # "Jerk Cop" "Come on."
-    "Jerk Cop" "Come on."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:285
 translate deutsch sm1cs_dc010_later_a4ecbe4a:
 
     # mc "And if you two don't lay off of Debbie, I'm going to send this anonymously to your Captain!"
     mc "And if you two don't lay off of Debbie, I'm going to send this anonymously to your Captain!"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:286
-translate deutsch sm1cs_dc010_later_87a3e1c6:
-
-    # "Jerk Cop" "Fuck you."
-    "Jerk Cop" "Fuck you."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:290
 translate deutsch sm1cs_dc010_later_540b14dd:
@@ -1138,12 +958,6 @@ translate deutsch sm1cs_dc010_later_ecfacd53:
     # dc "No... I just..."
     dc "No... I just..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
-translate deutsch sm1cs_dc010_later_8a1da730:
-
-    # dc "I have been looking forward to this for awhile.{w} I'm very excited."
-    dc "I have been looking forward to this for awhile.{w} I'm very excited."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:451
 translate deutsch sm1cs_dc010_later_74fc6761:
 
@@ -1227,12 +1041,6 @@ translate deutsch sm1cs_dc010_later_1ee704af:
 
     # mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
     mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
-translate deutsch sm1cs_dc010_later_c7ffa945:
-
-    # dc "Sllrrrpppppp! Sleep, sllrrpp, sllrrrppp!"
-    dc "Sllrrrpppppp! Sleep, sllrrpp, sllrrrppp!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:474
 translate deutsch sm1cs_dc010_later_eec3224d:
@@ -1732,12 +1540,6 @@ translate deutsch sm1cs_dc010_dc_hj_03e1ac0f:
     # dc "Woah-!"
     dc "Woah-!"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:658
-translate deutsch sm1cs_dc010_dc_hj_6f12677e:
-
-    # mc "Great enough that it deserves it's own pleasure."
-    mc "Great enough that it deserves it's own pleasure."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:659
 translate deutsch sm1cs_dc010_dc_hj_4daf6261:
 
@@ -1966,12 +1768,6 @@ translate deutsch sm1cs_dc010_dc_hj_716ddd04:
     # mc "Better than your fantasy?"
     mc "Better than your fantasy?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:723
-translate deutsch sm1cs_dc010_dc_hj_22c6dce8:
-
-    # dc "Inifinitely better than my fantasy."
-    dc "Inifinitely better than my fantasy."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:726
 translate deutsch sm1cs_dc010_dc_hj_c3726f3d:
 
@@ -2127,12 +1923,6 @@ translate deutsch sm1cs_dc010_end_a782953a:
 
     # mc "Oh? Something to be worried about?"
     mc "Oh? Something to be worried about?"
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:793
-translate deutsch sm1cs_dc010_end_185ddc39:
-
-    # dc "No, not really Just some paperwork to do."
-    dc "No, not really Just some paperwork to do."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:794
 translate deutsch sm1cs_dc010_end_e964bd3a:
@@ -2455,4 +2245,214 @@ translate deutsch sm1cs_dc010_dc_hj_10a9c12a:
 
     # dc "I think of you cumming all over me as I stroke myself, and I- I-"
     dc "I think of you cumming all over me as I stroke myself, and I- I-"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:119
+translate deutsch sm1cs_dc010_later_cc13123a:
+
+    # dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+    dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:173
+translate deutsch sm1cs_dc010_later_32c7d96e:
+
+    # jc "Well, what do we have here!"
+    jc "Well, what do we have here!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:177
+translate deutsch sm1cs_dc010_later_0a088038:
+
+    # doc "Oh, loitering? Maybe something a bit more nefarious?"
+    doc "Oh, loitering? Maybe something a bit more nefarious?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:181
+translate deutsch sm1cs_dc010_later_118db1de:
+
+    # jc "\"Evening, officers\", pfft."
+    jc "\"Evening, officers\", pfft."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:185
+translate deutsch sm1cs_dc010_later_313100aa:
+
+    # doc "Hmmm... let's see."
+    doc "Hmmm... let's see."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:191
+translate deutsch sm1cs_dc010_later_ee640895:
+
+    # doc "Oh, that's right!"
+    doc "Oh, that's right!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:194
+translate deutsch sm1cs_dc010_later_4e44cfdf:
+
+    # doc "That's for using that bitch to embarrass us the other day!"
+    doc "That's for using that bitch to embarrass us the other day!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:196
+translate deutsch sm1cs_dc010_later_7abc9f97:
+
+    # jc "Woah, man."
+    jc "Woah, man."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:199
+translate deutsch sm1cs_dc010_later_8faeff8a:
+
+    # doc "What?"
+    doc "What?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:200
+translate deutsch sm1cs_dc010_later_655b6865:
+
+    # jc "She's not entirely a bitch. Because, you now."
+    jc "She's not entirely a bitch. Because, you now."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:203
+translate deutsch sm1cs_dc010_later_c52dc3fb:
+
+    # doc "Oh yeah."
+    doc "Oh yeah."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:206
+translate deutsch sm1cs_dc010_later_ed8594e7:
+
+    # doc "Because she has a dick!"
+    doc "Because she has a dick!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:209
+translate deutsch sm1cs_dc010_later_937b5553:
+
+    # jc "Yeah! So, whatever she is! Fuck her!"
+    jc "Yeah! So, whatever she is! Fuck her!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:210
+translate deutsch sm1cs_dc010_later_731e535c:
+
+    # doc "Hahahahaha!"
+    doc "Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:217
+translate deutsch sm1cs_dc010_later_b23ba0d2:
+
+    # jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
+    jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:221
+translate deutsch sm1cs_dc010_later_abb132ec:
+
+    # jc "Shut up!"
+    jc "Shut up!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:229
+translate deutsch sm1cs_dc010_later_63318cc3:
+
+    # jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+    jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:233
+translate deutsch sm1cs_dc010_later_decb3a7c:
+
+    # doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+    doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:237
+translate deutsch sm1cs_dc010_later_738b9475:
+
+    # jc "Oh, my balls are shaking! Hahahahaha!"
+    jc "Oh, my balls are shaking! Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:238
+translate deutsch sm1cs_dc010_later_731e535c_1:
+
+    # doc "Hahahahaha!"
+    doc "Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:241
+translate deutsch sm1cs_dc010_later_1e1f5708:
+
+    # jc "Oh, fuck you!"
+    jc "Oh, fuck you!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:249
+translate deutsch sm1cs_dc010_later_f90d492d:
+
+    # doc "What the fuck!?"
+    doc "What the fuck!?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:255
+translate deutsch sm1cs_dc010_later_c8344b37:
+
+    # doc "Shit!"
+    doc "Shit!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:265
+translate deutsch sm1cs_dc010_later_082113f0:
+
+    # doc "My ass."
+    doc "My ass."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:268
+translate deutsch sm1cs_dc010_later_9d4feabf:
+
+    # jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+    jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:269
+translate deutsch sm1cs_dc010_later_062962a0:
+
+    # doc "Yeah. Get your ass kicked off the force."
+    doc "Yeah. Get your ass kicked off the force."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:280
+translate deutsch sm1cs_dc010_later_983f1fb6:
+
+    # jc "Errrgghhhh..."
+    jc "Errrgghhhh..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:281
+translate deutsch sm1cs_dc010_later_e1a3ea1a:
+
+    # doc "Mother fucker..."
+    doc "Mother fucker..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:282
+translate deutsch sm1cs_dc010_later_4ed7441e:
+
+    # jc "Come on."
+    jc "Come on."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:286
+translate deutsch sm1cs_dc010_later_57c7effd:
+
+    # jc "Fuck you."
+    jc "Fuck you."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:450
+translate deutsch sm1cs_dc010_later_9de368a5:
+
+    # dc "I have been looking forward to this for a while.{w} I'm very excited."
+    dc "I have been looking forward to this for a while.{w} I'm very excited."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
+translate deutsch sm1cs_dc010_later_0f8ee3ae:
+
+    # dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+    dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:658
+translate deutsch sm1cs_dc010_dc_hj_0d04a1d3:
+
+    # mc "Great enough that it deserves its own pleasure."
+    mc "Great enough that it deserves its own pleasure."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:723
+translate deutsch sm1cs_dc010_dc_hj_1a7b15ce:
+
+    # dc "Infinitely better than my fantasy."
+    dc "Infinitely better than my fantasy."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:793
+translate deutsch sm1cs_dc010_end_0f3a75eb:
+
+    # dc "No, not really. Just some paperwork to do."
+    dc "No, not really. Just some paperwork to do."
 

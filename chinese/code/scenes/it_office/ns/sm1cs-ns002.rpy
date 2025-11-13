@@ -256,12 +256,6 @@ translate chinese sm1cs_ns002_165e5ad5:
     # ns "Now they're wet. Maybe ruined. I don't know. But I can't leave this place. Which means eventually someone will find out and then I'll be fired for sure."
     ns "现在内裤湿了。可能也不能穿了。我不知道。但我不能离开这儿。离开就意味着最终肯定会有人发现，然后我肯定会被炒鱿鱼。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
-translate chinese sm1cs_ns002_e9fc13f4:
-
-    # mc "Let's just take a beat. I'll get you through this. we've all... had urges in strange places."
-    mc "先冷静一下。我会帮你度过这一关的。我们都...在不合适的地方有过冲动。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:169
 translate chinese sm1cs_ns002_25d12c61:
 
@@ -742,12 +736,6 @@ translate chinese sm1cs_ns002_74fc6761:
     # mc "Me too."
     mc "同感。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
-translate chinese sm1cs_ns002_f7744ef8:
-
-    # mct "No one is close. I hope"
-    mct "没人在附近吧。希望如此。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:429
 translate chinese sm1cs_ns002_e95fe494:
 
@@ -817,4 +805,16 @@ translate chinese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "You can tell me what happened"
     new "你可以告诉我发生了什么"
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
+translate chinese sm1cs_ns002_bc4ba015:
+
+    # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
+translate chinese sm1cs_ns002_94a1cd6a:
+
+    # mct "No one is close. I hope."
+    mct "No one is close. I hope."
 

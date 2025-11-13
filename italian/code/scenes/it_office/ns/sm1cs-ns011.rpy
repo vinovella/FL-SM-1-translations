@@ -172,12 +172,6 @@ translate italian sm1cs_ns011_3fe289ec:
     # ns "Yes. That was used in a lot of hentai, but you hardly hear it nowadays."
     ns "Sì. Era usato in molto hentai, ma oggigiorno non lo senti quasi mai."
 
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:112
-translate italian sm1cs_ns011_d4ff4cf1:
-
-    # ns "Suguar Daddies love to play with their Good Girls..."
-    ns "I Sugar Daddy amano giocare con le loro Good Girls..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:115
 translate italian sm1cs_ns011_98a3624c:
 
@@ -1151,4 +1145,10 @@ translate italian strings:
     # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:373
     old "Are you sure that doesn't bother you?"
     new "Sei sicuro che non ti disturbi?"
+
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:112
+translate italian sm1cs_ns011_a266d0ee:
+
+    # ns "Sugar Daddies love to play with their Good Girls..."
+    ns "Sugar Daddies love to play with their Good Girls..."
 

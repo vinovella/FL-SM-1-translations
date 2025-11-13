@@ -40,12 +40,6 @@ translate italian sm1cs_bg001_d86b865f:
     # mc "Yeah, and I don't want to call you 'Bondage Model' or some other ridiculous thing."
     mc "Sì, e non voglio chiamarti 'Modella Bondage' o qualche altra cosa ridicola."
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:46
-translate italian sm1cs_bg001_4963a583:
-
-    # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w}Amore"
-    "BDSM Model" "Oh è... Un buon punto. Uhm, puoi chiamarmi...{w}Amore"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:49
 translate italian sm1cs_bg001_ca70cd59:
 
@@ -285,12 +279,6 @@ translate italian sm1cs_bg001_5f819049:
 
     # bg "So I... Kind of took them home with me and perused at my leisure and... Well I was super into it. I loved the style, the vibe, the toys, being a submissive little good girl for a master one day, and..."
     bg "Quindi io... Le ho un po' portate a casa con me e le ho sfogliate con calma e... Beh, mi sono piaciute tantissimo. Amavo lo stile, l'atmosfera, i giocattoli, essere una brava ragazzina sottomessa per un padrone un giorno, e..."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
-translate italian sm1cs_bg001_72bae85d:
-
-    # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payements."
-    bg "Beh, diciamo solo che dopo una notte impegnativa, sono uscita e ho comprato il mio primo outfit. Stavo risparmiando per... non so. Quello che la vita ti dice di prendere. Un mutuo, o un prestito, o il pagamento del debito studentesco."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:168
 translate italian sm1cs_bg001_54691f60:
@@ -1111,4 +1099,16 @@ translate italian strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:482
     old "Not really my thing"
     new "Non è proprio il mio genere"
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:46
+translate italian sm1cs_bg001_01872126:
+
+    # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
+    "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
+translate italian sm1cs_bg001_f21ffe59:
+
+    # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
+    bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
 

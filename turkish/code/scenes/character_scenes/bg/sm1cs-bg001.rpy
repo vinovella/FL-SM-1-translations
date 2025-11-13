@@ -40,12 +40,6 @@ translate turkish sm1cs_bg001_d86b865f:
     # mc "Yeah, and I don't want to call you 'Bondage Model' or some other ridiculous thing."
     mc "Evet, ve sana 'Esaret Modeli' ya da benzeri saçma bir şey demek istemiyorum."
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:46
-translate turkish sm1cs_bg001_4963a583:
-
-    # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w}Amore"
-    "BDSM Modeli" "Ah, bu... İyi bir nokta. Şey, bana...{w}Amore diyebilirsin"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:49
 translate turkish sm1cs_bg001_ca70cd59:
 
@@ -285,12 +279,6 @@ translate turkish sm1cs_bg001_5f819049:
 
     # bg "So I... Kind of took them home with me and perused at my leisure and... Well I was super into it. I loved the style, the vibe, the toys, being a submissive little good girl for a master one day, and..."
     bg "Bu yüzden... Onları eve götürdüm ve boş zamanımda inceledim ve... Eh, çok hoşuma gitti. Stilini, havasını, oyuncaklarını, bir gün efendi olmak için itaatkar küçük bir iyi kız olmayı ve..."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
-translate turkish sm1cs_bg001_72bae85d:
-
-    # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payements."
-    bg "Şey, diyelim ki yoğun bir gecenin ardından dışarı çıktım ve ilk kıyafetimi aldım. Biriktiriyordum... Bilmiyorum. Hayat sana ne derse onu al. Bir ipotek, bir kredi veya öğrenci borcu ödemeleri."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:168
 translate turkish sm1cs_bg001_54691f60:
@@ -1111,4 +1099,16 @@ translate turkish strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:482
     old "Not really my thing"
     new "Benim tarzım değil."
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:46
+translate turkish sm1cs_bg001_01872126:
+
+    # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
+    "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
+translate turkish sm1cs_bg001_f21ffe59:
+
+    # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
+    bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
 

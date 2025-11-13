@@ -262,3 +262,17 @@ translate turkish strings:
     old "Alright, does this evening work?"
     new "Alright, does this evening work?"
 
+translate turkish strings:
+
+    # game/code/data/chat/chat_mes.rpy:112
+    old "Everything all right?"
+    new "Everything all right?"
+
+    # game/code/data/chat/chat_mes.rpy:112
+    old "I hope you were the winner."
+    new "I hope you were the winner."
+
+    # game/code/data/chat/chat_mes.rpy:112
+    old "It is now."
+    new "It is now."
+

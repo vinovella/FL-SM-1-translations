@@ -340,12 +340,6 @@ translate chinese sm1cs_dc007_continue_707f72e3:
     # mc "Oh, but I'm dedicated to the cause."
     mc "哦，不过我为了这个目标，肯定会坚持的。"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:249
-translate chinese sm1cs_dc007_continue_a220b838:
-
-    # dc "Well you kow, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
-    dc "对了，我有点好奇...你是做什么工作的啊，怎么总有这么多时间，还能刚好绊倒我要抓的人？"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:252
 translate chinese sm1cs_dc007_continue_9a1f2614:
 
@@ -652,12 +646,6 @@ translate chinese sm1cs_dc007_continue_965c4984:
     # mc "I don't know about \"rogue vigilante\", what about \"hot action hero\"?"
     mc "\"流氓义警\"这说法我可不敢当，换成\"性感动作英雄\"怎么样？"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
-translate chinese sm1cs_dc007_continue_6e9d9cd5:
-
-    # dc "Mmmmm, maybe when you're move isn't \"Human Roadblock\"."
-    dc "嗯...或许等你的招式不再是\"人肉路障\"的时候，还差不多。"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:392
 translate chinese sm1cs_dc007_continue_abdaa62e:
 
@@ -805,4 +793,16 @@ translate chinese strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:217
     old "Plus, I think you're pretty cute"
     new "另外，我觉得你还挺可爱的"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:249
+translate chinese sm1cs_dc007_continue_2557068b:
+
+    # dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+    dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
+translate chinese sm1cs_dc007_continue_6a0c526c:
+
+    # dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
+    dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
 

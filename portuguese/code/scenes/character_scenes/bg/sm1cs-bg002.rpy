@@ -670,12 +670,6 @@ translate portuguese sm1cs_bg002_white_screen_8e479415_14:
     # "*CAMERA STROBE SOUND*"
     "*SOM DE FLASH*"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:345
-translate portuguese sm1cs_bg002_white_screen_b726d9a9:
-
-    # kv "You two make quite the pair, you now that? It might be a little bumpy, but you two have excellent on camera chemistry."
-    kv "Vocês são um belo par, sabiam? Pode ser um pouquinho complicado, mas vocês têm uma ótima química na frente da câmera."
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:347
 translate portuguese sm1cs_bg002_white_screen_a31340dd:
 
@@ -753,12 +747,6 @@ translate portuguese sm1cs_bg002_white_screen_c1108e29:
 
     # mc "You're telling me."
     mc "Nem me fala."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:381
-translate portuguese sm1cs_bg002_white_screen_05f12057:
-
-    # kv "Suddenly have some ideas running around that brain of your's, [mcname]?"
-    kv "Teve umas ideias repentinas nessa sua cabecinha, foi [mcname]?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:382
 translate portuguese sm1cs_bg002_white_screen_cc761816:
@@ -1330,12 +1318,6 @@ translate portuguese sm1cs_bg002_continue_shoot_f6522a80:
     # kv "Fuuuuuuucccckkkk!!!"
     kv "Caraaaaalhhooo!!!"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:666
-translate portuguese sm1cs_bg002_continue_shoot_a6a92bfe:
-
-    # mc "I'm summmming!"
-    mc "Tô gozaaangooo!"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:672
 translate portuguese sm1cs_bg002_continue_shoot_7198db4d:
 
@@ -1579,4 +1561,22 @@ translate portuguese strings:
     # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:727
     old "I think I'm good"
     new "Acho que não"
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:346
+translate portuguese sm1cs_bg002_white_screen_12b3e2b8:
+
+    # kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
+    kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:382
+translate portuguese sm1cs_bg002_white_screen_cf9bf6a9:
+
+    # kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
+    kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:667
+translate portuguese sm1cs_bg002_continue_shoot_75643fbc:
+
+    # mc "I'm cummmming!"
+    mc "I'm cummmming!"
 

@@ -904,12 +904,6 @@ translate deutsch sm1cs_dc008_d85db8ae:
     # mc "Man. You really do look stunning tonight, Debbie."
     mc "Man, du siehst heute Abend wirklich umwerfend aus, Debbie."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:396
-translate deutsch sm1cs_dc008_0a3e87b6:
-
-    # dc "Thanks, [mcname]. I lke your outfit too."
-    dc "Danke, [mcname]. Mir gefällt dein Outfit auch."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:397
 translate deutsch sm1cs_dc008_3d4a6bb7:
 
@@ -1035,4 +1029,10 @@ translate deutsch sm1cs_dc008_b12cc4d7:
 
     # mc "I'm grateful that you shared that part of you with me, Debbie."
     mc "Ich bin dankbar, dass du diesen Teil von dir mit mir geteilt hast, Debbie."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:396
+translate deutsch sm1cs_dc008_a037dc10:
+
+    # dc "Thanks, [mcname]. I like your outfit too."
+    dc "Thanks, [mcname]. I like your outfit too."
 

@@ -256,12 +256,6 @@ translate french sm1cs_ns002_165e5ad5:
     # ns "Now they're wet. Maybe ruined. I don't know. But I can't leave this place. Which means eventually someone will find out and then I'll be fired for sure."
     ns "Maintenant elles sont trempées. Peut-être foutues. J’en sais rien. Mais je peux pas sortir d’ici. Ça veut dire que quelqu’un finira par s’en rendre compte et que je me ferai virer, c’est sûr."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
-translate french sm1cs_ns002_e9fc13f4:
-
-    # mc "Let's just take a beat. I'll get you through this. we've all... had urges in strange places."
-    mc "Calme-toi deux secondes. Je vais t’aider à gérer ça. On a tous déjà eu… des envies dans des endroits chelous."
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:169
 translate french sm1cs_ns002_25d12c61:
 
@@ -742,12 +736,6 @@ translate french sm1cs_ns002_74fc6761:
     # mc "Me too."
     mc "Moi aussi."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
-translate french sm1cs_ns002_f7744ef8:
-
-    # mct "No one is close. I hope"
-    mct "Personne dans le coin. J’espère…"
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:429
 translate french sm1cs_ns002_e95fe494:
 
@@ -820,4 +808,16 @@ translate french strings:
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "I don't need to know"
     new "I don't need to know"
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
+translate french sm1cs_ns002_bc4ba015:
+
+    # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
+translate french sm1cs_ns002_94a1cd6a:
+
+    # mct "No one is close. I hope."
+    mct "No one is close. I hope."
 

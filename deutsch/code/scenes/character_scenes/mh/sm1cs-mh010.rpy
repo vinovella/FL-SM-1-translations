@@ -580,12 +580,6 @@ translate deutsch sm1cs_mh010_a041e779:
     # mc "Has anyone told you that you're amazing?"
     mc "Hat dir schon mal jemand gesagt, dass du großartig bist?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:282
-translate deutsch sm1cs_mh010_5b8a49c4:
-
-    # mh "Once or twice, but a girl likes to hear it every once in awhile."
-    mh "Ein- oder zweimal, aber ein Mädchen hört das gerne ab und zu."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:285
 translate deutsch sm1cs_mh010_e13491b8:
 
@@ -709,4 +703,10 @@ translate deutsch strings:
     # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:267
     old "Leave Lyssa's house"
     new "Verlasse Lyssa's Haus"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:283
+translate deutsch sm1cs_mh010_16687345:
+
+    # mh "Once or twice, but a girl likes to hear it every once in a while."
+    mh "Once or twice, but a girl likes to hear it every once in a while."
 

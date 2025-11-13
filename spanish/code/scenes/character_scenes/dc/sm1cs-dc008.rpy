@@ -904,12 +904,6 @@ translate spanish sm1cs_dc008_d85db8ae:
     # mc "Man. You really do look stunning tonight, Debbie."
     mc "Man. You really do look stunning tonight, Debbie."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:396
-translate spanish sm1cs_dc008_0a3e87b6:
-
-    # dc "Thanks, [mcname]. I lke your outfit too."
-    dc "Thanks, [mcname]. I lke your outfit too."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:397
 translate spanish sm1cs_dc008_3d4a6bb7:
 
@@ -1035,4 +1029,10 @@ translate spanish sm1cs_dc008_b12cc4d7:
 
     # mc "I'm grateful that you shared that part of you with me, Debbie."
     mc "I'm grateful that you shared that part of you with me, Debbie."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:396
+translate spanish sm1cs_dc008_a037dc10:
+
+    # dc "Thanks, [mcname]. I like your outfit too."
+    dc "Thanks, [mcname]. I like your outfit too."
 

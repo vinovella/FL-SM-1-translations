@@ -118,12 +118,6 @@ translate deutsch sm1cs_cs001_b8fbfa28:
     # mc "Yeah, I'll check with them first..."
     mc "Ja, ich werde mich zuerst bei ihm erkundigen..."
 
-# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:65
-translate deutsch sm1cs_cs001_649f6e26:
-
-    # mc "Yeah, yeah. I'll have a dark roast cofee and a..."
-    mc "Ja, ja. Ich nehme einen dunkel gerösteten Kaffee und einen..."
-
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:66
 translate deutsch sm1cs_cs001_95ef3c92:
 
@@ -201,4 +195,10 @@ translate deutsch sm1cs_cs001_24cdc073:
 
     # cs "Uh huh."
     cs "Aha."
+
+# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:65
+translate deutsch sm1cs_cs001_0b11eff4:
+
+    # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
 

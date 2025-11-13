@@ -244,12 +244,6 @@ translate turkish sm1cs_kv003_95f48c18:
     # mc "I've never been good at guessing."
     mc "Tahmin etmekte hiç iyi olmadım."
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:158
-translate turkish sm1cs_kv003_56de6b93:
-
-    # kv "I've been wondering how you're going to convince some of these actresses to star in your porn.."
-    kv "Bu aktrislerin bazılarını porno filmlerinde oynamaya nasıl ikna edeceğini merak ediyordum.."
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:161
 translate turkish sm1cs_kv003_8dbc347b:
 
@@ -742,12 +736,6 @@ translate turkish sm1cs_kv003_ffc9a3b0:
     # kv "Ohhh, fuuuuck, pulling my hair- Really turns me on!"
     kv "Aman Tanrım, saçımı çekmen- Beni gerçekten tahrik ediyor!"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:461
-translate turkish sm1cs_kv003_b49e4c44:
-
-    # kv "I-I-I- Think I'm going to cum!"
-    kv "III- Sanırım boşalacağım!"
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:465
 translate turkish sm1cs_kv003_0360e0e9:
 
@@ -993,4 +981,16 @@ translate turkish sm1cs_kv003_51d06342:
 
     # kv "What's the next question?"
     kv "What's the next question?"
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:159
+translate turkish sm1cs_kv003_222c534c:
+
+    # kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
+    kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:462
+translate turkish sm1cs_kv003_9ac58097:
+
+    # kv "I-I-I- think I'm going to cum!"
+    kv "I-I-I- think I'm going to cum!"
 

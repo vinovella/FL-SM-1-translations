@@ -4,12 +4,6 @@ translate spanish sm1cs_ns003_0c054906:
     # mc "Phew."
     mc "Uf."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:13
-translate spanish sm1cs_ns003_f9c17921:
-
-    # mct "Nari has been usually quiet today"
-    mct "Nari ha estado generalmente tranquila hoy."
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:16
 translate spanish sm1cs_ns003_6e9c8121:
 
@@ -64,23 +58,11 @@ translate spanish sm1cs_ns003_caeb7a32:
     # mct "She can be so damn cute when she's embarrassed. Still shy, but there is something else there."
     mct "Ella puede ser tan linda cuando está avergonzada. Sigue siendo tímida, pero hay algo más ahí."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:40
-translate spanish sm1cs_ns003_05adedab:
-
-    # mct "Like she's playing a game with me. Only she knows the moves"
-    mct "Como si estuviera jugando un juego conmigo. Solo ella conoce los movimientos."
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:43
 translate spanish sm1cs_ns003_a9c128b4:
 
     # ns "You have no idea how glad that makes me feel. Thank you, [mcname]."
     ns "No sabes lo feliz que me haces sentir. Gracias, [mcname]."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:44
-translate spanish sm1cs_ns003_2bc74066:
-
-    # ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Clare got close to me."
-    ns "Cuando regresé a mi escritorio, sentí que a cada minuto quería arrugarme y esconderme. Empeoraba cuando Anna o Clare se acercaban a mí."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:47
 translate spanish sm1cs_ns003_5dfde812:
@@ -123,12 +105,6 @@ translate spanish sm1cs_ns003_2d263e16:
 
     # mc "Where are you taking me?"
     mc "¿A dónde me llevas?"
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:67
-translate spanish sm1cs_ns003_4b516848:
-
-    # ns "It's' a secret. But... well not a total secret. I wanted to get you something for your help."
-    ns "Es un secreto. Pero... bueno no un secreto del todo. Quería darte algo por tu ayuda."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:70
 translate spanish sm1cs_ns003_52ce0b28:
@@ -286,12 +262,6 @@ translate spanish sm1cs_ns003_b48bdde5:
     # ns "I mean... It's fine. I'll get better at it. I mean-"
     ns "Quiero decir... está bien. Mejoraré en eso. Quiero decir..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:146
-translate spanish sm1cs_ns003_54cc29f7:
-
-    # mct "She can be so shy, and yet so casual about talking about sexy stuff"
-    mct "Puede ser tan tímida y a la vez tan despreocupada a la hora de hablar de cosas sexys."
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:147
 translate spanish sm1cs_ns003_f2de809e:
 
@@ -358,12 +328,6 @@ translate spanish sm1cs_ns003_6714eb3a:
     # ns "Hmmm..."
     ns "Mmm..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:176
-translate spanish sm1cs_ns003_632cf42f:
-
-    # mct "I never imagined it would take this long"
-    mct "Nunca imaginé que le tomaría tanto tiempo."
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:179
 translate spanish sm1cs_ns003_d972e0c2:
 
@@ -393,12 +357,6 @@ translate spanish sm1cs_ns003_b12c4edb:
 
     # mc "That's just a lot of technology."
     mc "Esa es solo mucha tecnología."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:193
-translate spanish sm1cs_ns003_4ab8e2bb:
-
-    # mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn.."
-    mc "Ni siquiera puedo ver más de veinte minutos de pornografía a la vez, y me encanta el porno..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:196
 translate spanish sm1cs_ns003_273d1970:
@@ -850,12 +808,6 @@ translate spanish sm1cs_ns003_4c0e037a:
     # mct "Man. Nari is so kinky, and she's into watersports."
     mct "Hombre. Nari es muy pervertida y le gustan los deportes acuáticos."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:446
-translate spanish sm1cs_ns003_2be2d328:
-
-    # mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio"
-    mct "Tendré que hacerle saber a Stacy que tenía razón. Nari podría ser una gran recluta para el estudio"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:449
 translate spanish sm1cs_ns003_2526109c:
 
@@ -880,12 +832,6 @@ translate spanish sm1cs_ns003_dbd81ba2:
     # ns "Okay."
     ns "Bueno."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:471
-translate spanish sm1cs_ns003_28801589:
-
-    # mct "This is either my best idea or my worst idea yet"
-    mct "Esta es mi mejor idea o mi peor idea hasta ahora."
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:474
 translate spanish sm1cs_ns003_3f147cf2:
 
@@ -898,12 +844,6 @@ translate spanish sm1cs_ns003_4024f096:
     # ns "I can feel your warmth, [mcname]. It looks so tasty."
     ns "Puedo sentir tu calor, [mcname]. Se ve tan sabroso."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:480
-translate spanish sm1cs_ns003_4e4cbeeb:
-
-    # mc "Just be careful, Nari. This thing has a mind of its own sometimes.."
-    mc "Solo ten cuidado, Nari. Esta cosa tiene mente propia a veces..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:483
 translate spanish sm1cs_ns003_36de6ef8:
 
@@ -915,18 +855,6 @@ translate spanish sm1cs_ns003_af26d42b:
 
     # ns "Mrmmm."
     ns "Mmmmm."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:492
-translate spanish sm1cs_ns003_f57541b6:
-
-    # mct "No, you are definitely not shy, Nari. Wow"
-    mct "No, definitivamente no eres tímida, Nari. Vaya."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:495
-translate spanish sm1cs_ns003_b331bc18:
-
-    # mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it"
-    mct "Ciertamente tiene un toque perfectamente suave. Suave pero no tan ligero para que no puedas sentirlo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:498
 translate spanish sm1cs_ns003_a61ef815:
@@ -1000,12 +928,6 @@ translate spanish sm1cs_ns003_cf1adef2:
     # mc "Yeah."
     mc "Sí."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:539
-translate spanish sm1cs_ns003_6e21a06a:
-
-    # mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole"
-    mct "Por un segundo, pensé que Nari iba a empezar a chupármela por el agujero de la gloria."
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:542
 translate spanish sm1cs_ns003_c7807583:
 
@@ -1042,18 +964,6 @@ translate spanish sm1cs_ns003_0419d335:
     # mc "Later."
     mc "Más tarde."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:560
-translate spanish sm1cs_ns003_dbb76032:
-
-    # mct "Well, that was quite a ride. I almost thought she might want to hang out"
-    mct "Bueno, eso fue todo un espectáculo. Casi pensé que querría pasar el rato."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:561
-translate spanish sm1cs_ns003_3b7471c7:
-
-    # mct "Maybe next time"
-    mct "Quizás la próxima vez."
-
 translate spanish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:109
@@ -1083,4 +993,94 @@ translate spanish strings:
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:386
     old "Confused"
     new "Confundido"
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:13
+translate spanish sm1cs_ns003_6c6f50bb:
+
+    # mct "Nari has been usually quiet today."
+    mct "Nari has been usually quiet today."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:40
+translate spanish sm1cs_ns003_33a29b32:
+
+    # mct "Like she's playing a game with me. Only she knows the moves."
+    mct "Like she's playing a game with me. Only she knows the moves."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:44
+translate spanish sm1cs_ns003_68c462c4:
+
+    # ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
+    ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:67
+translate spanish sm1cs_ns003_37aa12d7:
+
+    # ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
+    ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:146
+translate spanish sm1cs_ns003_6d83be49:
+
+    # mct "She can be so shy, and yet so casual about talking about sexy stuff."
+    mct "She can be so shy, and yet so casual about talking about sexy stuff."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:176
+translate spanish sm1cs_ns003_6d8220b3:
+
+    # mct "I never imagined it would take this long."
+    mct "I never imagined it would take this long."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:193
+translate spanish sm1cs_ns003_ee47ea12:
+
+    # mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
+    mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:446
+translate spanish sm1cs_ns003_9e3ed79b:
+
+    # mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
+    mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:471
+translate spanish sm1cs_ns003_edf4f757:
+
+    # mct "This is either my best idea or my worst idea yet."
+    mct "This is either my best idea or my worst idea yet."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:480
+translate spanish sm1cs_ns003_11f9454a:
+
+    # mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
+    mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:492
+translate spanish sm1cs_ns003_2855cbd1:
+
+    # mct "No, you are definitely not shy, Nari. Wow."
+    mct "No, you are definitely not shy, Nari. Wow."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:495
+translate spanish sm1cs_ns003_6aee29d5:
+
+    # mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
+    mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:539
+translate spanish sm1cs_ns003_52693859:
+
+    # mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
+    mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:560
+translate spanish sm1cs_ns003_8a7c6254:
+
+    # mct "Well, that was quite a ride. I almost thought she might want to hang out."
+    mct "Well, that was quite a ride. I almost thought she might want to hang out."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:561
+translate spanish sm1cs_ns003_21d17c87:
+
+    # mct "Maybe next time."
+    mct "Maybe next time."
 

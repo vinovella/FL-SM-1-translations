@@ -118,12 +118,6 @@ translate spanish sm1cs_cs001_b8fbfa28:
     # mc "Yeah, I'll check with them first..."
     mc "Sí, lo comprobaré primero con ellos..."
 
-# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:65
-translate spanish sm1cs_cs001_649f6e26:
-
-    # mc "Yeah, yeah. I'll have a dark roast cofee and a..."
-    mc "Sí, sí. Tomaré un café tostado oscuro y un..."
-
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:66
 translate spanish sm1cs_cs001_95ef3c92:
 
@@ -201,4 +195,10 @@ translate spanish sm1cs_cs001_24cdc073:
 
     # cs "Uh huh."
     cs "Uh huh."
+
+# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:65
+translate spanish sm1cs_cs001_0b11eff4:
+
+    # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
 

@@ -64,12 +64,6 @@ translate spanish sm1cs_ns009_0a3bd24a:
     # mc "Alright. That still doesn't answer what you're doing here."
     mc "Está bien. Eso todavía no responde lo que estás haciendo aquí."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
-translate spanish sm1cs_ns009_cd306336:
-
-    # mc "And... I totally didn't scared."
-    mc "Y... No me asusté en absoluto."
-
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:88
 translate spanish sm1cs_ns009_33cf1ae2:
 
@@ -1357,4 +1351,10 @@ translate spanish strings:
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
     old "Don't dominate Nari"
     new "Don't dominate Nari"
+
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
+translate spanish sm1cs_ns009_f37a2921:
+
+    # mc "And... I totally wasn't scared."
+    mc "And... I totally wasn't scared."
 

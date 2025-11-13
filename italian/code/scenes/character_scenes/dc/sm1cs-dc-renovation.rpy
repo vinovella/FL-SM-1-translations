@@ -322,12 +322,6 @@ translate italian sm1cs_dc_renovation_07ab98c5:
     # dc "Ha, ha. Very funny, [mcname]."
     dc "Ah, ah. Molto divertente, [mcname]."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:220
-translate italian sm1cs_dc_renovation_e7efd5e7:
-
-    # mc "Oh shit! I haven't offered you water or anything! You must have world up a thirst."
-    mc "Oh merda! Non ti ho offerto dell'acqua o altro! Devi aver fatto venire sete."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:223
 translate italian sm1cs_dc_renovation_892af79d:
 
@@ -514,12 +508,6 @@ translate italian sm1cs_dc_renovation_61d1129a:
     # mc "Oh, I don't know about all that."
     mc "Oh, non so se sia proprio così."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
-translate italian sm1cs_dc_renovation_65011277:
-
-    # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem to!"
-    mc "Siamo qui da qualche ora, e hai fatto così tanto, {i}e{/i} hai risolto anche il mio problema!"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:326
 translate italian sm1cs_dc_renovation_28c85fe5:
 
@@ -609,4 +597,16 @@ translate italian sm1cs_dc_renovation_e5818002:
 
     # dc "And you, yours, [mcname]!"
     dc "E tu la tua, [mcname]!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:220
+translate italian sm1cs_dc_renovation_1b6ec0ce:
+
+    # mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+    mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
+translate italian sm1cs_dc_renovation_6d9f72cb:
+
+    # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
+    mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
 

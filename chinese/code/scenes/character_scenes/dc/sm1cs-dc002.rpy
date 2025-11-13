@@ -298,12 +298,6 @@ translate chinese sm1cs_dc002_c4175c50:
     # mct "Shit - I think I need to hit a gym."
     mct "靠--看来我得去健身房了。"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:230
-translate chinese sm1cs_dc002_9cacfeba:
-
-    # mct "I'm failing Rule Number One right now; cardio! God, Maybe we should get a treadmill for the studio..."
-    mct "我现在完全违反了第一条守则：心肺功能！天，也许该在工作室放台跑步机..."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:234
 translate chinese sm1cs_dc002_32c564d9:
 
@@ -525,4 +519,10 @@ translate chinese strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:177
     old "Check out the nude jogger"
     new "偷看裸身慢跑的人"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:230
+translate chinese sm1cs_dc002_9cef6b0f:
+
+    # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
 

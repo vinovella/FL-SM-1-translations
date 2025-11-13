@@ -64,12 +64,6 @@ translate chinese sm1cs_ns009_0a3bd24a:
     # mc "Alright. That still doesn't answer what you're doing here."
     mc "好吧。这还是不能回答你在这里做什么。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
-translate chinese sm1cs_ns009_cd306336:
-
-    # mc "And... I totally didn't scared."
-    mc "而且...我才没被吓到呢。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:88
 translate chinese sm1cs_ns009_33cf1ae2:
 
@@ -1355,4 +1349,10 @@ translate chinese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:647
     old "Pronebone Nari"
     new "俯卧插入娜丽"
+
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
+translate chinese sm1cs_ns009_f37a2921:
+
+    # mc "And... I totally wasn't scared."
+    mc "And... I totally wasn't scared."
 

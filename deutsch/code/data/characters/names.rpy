@@ -210,3 +210,9 @@ translate deutsch strings:
     old "Jerk Cop"
     new "Idioten Cop"
 
+translate deutsch strings:
+
+    # game/code/data/characters/names.rpy:87
+    old "Douche Cop"
+    new "Douche Cop"
+

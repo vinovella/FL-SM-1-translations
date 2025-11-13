@@ -360,3 +360,7 @@
     old "Jerk Cop"
     new "混蛋警察"
 
+    # game/code/data/characters/names.rpy:87
+    old "Douche Cop"
+    new "傻逼警察"
+

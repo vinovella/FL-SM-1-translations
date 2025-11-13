@@ -184,12 +184,6 @@ translate italian sm1cs_dc006_11bee6f5:
     # dc "Yeah, surprisingly everyone is pretty tight lipped about it."
     dc "Sì, sorprendentemente tutti sono piuttosto riservati a riguardo."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
-translate italian sm1cs_dc006_180f30a4:
-
-    # dc "I would be lying if I didn't say I was a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "Mentirei se dicessi che non sono un po' interessata a quello che è successo. Se i poliziotti non ne parlano... deve essere succoso."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:111
 translate italian sm1cs_dc006_2b4b0363:
 
@@ -261,12 +255,6 @@ translate italian sm1cs_dc006_73ff9d5e:
 
     # mc "Nope, can't say that I have. I'm actually pretty sure I've never had a mocha."
     mc "No, non posso dire di averlo fatto. In realtà sono abbastanza sicuro di non aver mai bevuto un mocha."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
-translate italian sm1cs_dc006_54e3a518:
-
-    # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, your's is a white chocolate mix, and..."
-    dc "Sono piuttosto buoni. È espresso e latte e un po' di cioccolato. Voglio dire, il tuo è un mix di cioccolato bianco, e..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:145
 translate italian sm1cs_dc006_514a3798:
@@ -951,4 +939,16 @@ translate italian strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
     old "Show no interest in Debbie"
     new "Non mostrare interesse per Debbie"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
+translate italian sm1cs_dc006_993ec2ac:
+
+    # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
+translate italian sm1cs_dc006_a541102c:
+
+    # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
+    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
 

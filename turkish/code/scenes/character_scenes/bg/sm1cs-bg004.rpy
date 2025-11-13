@@ -1138,12 +1138,6 @@ translate turkish sm1cs_bg004_anal_26a64fd0:
     # bg "OHHHH FUUUUUCK!"
     bg "AHHHH SİKTİR!"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:543
-translate turkish sm1cs_bg004_anal_9097d712:
-
-    # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!u], I NEED A BREAK!"
-    bg "İhtiyacım var- LÜTFEN, [bg_mcname!u], BİR MOLAYA İHTİYACIM VAR!"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:544
 translate turkish sm1cs_bg004_anal_7b9fc1d1:
 
@@ -1569,4 +1563,10 @@ translate turkish sm1cs_bg004_anal_41c02abb:
 
     # mct "But, she's right. I should probably get dressed..."
     mct "Ama haklı. Sanırım giyinmeliyim..."
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:543
+translate turkish sm1cs_bg004_anal_a58f65b7:
+
+    # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
+    bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
 

@@ -340,12 +340,6 @@ translate spanish sm1cs_dc007_continue_707f72e3:
     # mc "Oh, but I'm dedicated to the cause."
     mc "Oh, pero estoy dedicado a la causa."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:249
-translate spanish sm1cs_dc007_continue_a220b838:
-
-    # dc "Well you kow, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
-    dc "Bueno, ya sabes, tengo curiosidad... ¿qué haces en el trabajo que te da tanto tiempo libre para tropezar con mis sospechosos?"
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:252
 translate spanish sm1cs_dc007_continue_9a1f2614:
 
@@ -652,12 +646,6 @@ translate spanish sm1cs_dc007_continue_965c4984:
     # mc "I don't know about \"rogue vigilante\", what about \"hot action hero\"?"
     mc "No sé si \"justiciero pícaro\", ¿qué tal \"héroe de acción sexy\"?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
-translate spanish sm1cs_dc007_continue_6e9d9cd5:
-
-    # dc "Mmmmm, maybe when you're move isn't \"Human Roadblock\"."
-    dc "Mmmmm, tal vez cuando tu movimiento no sea \"Bloqueo Humano\"."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:392
 translate spanish sm1cs_dc007_continue_abdaa62e:
 
@@ -805,4 +793,16 @@ translate spanish strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:217
     old "Plus, I think you're pretty cute"
     new "Además, creo que eres bastante linda"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:249
+translate spanish sm1cs_dc007_continue_2557068b:
+
+    # dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+    dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
+translate spanish sm1cs_dc007_continue_6a0c526c:
+
+    # dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
+    dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
 

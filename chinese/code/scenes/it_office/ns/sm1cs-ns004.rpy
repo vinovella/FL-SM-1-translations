@@ -202,12 +202,6 @@ translate chinese sm1cs_ns004_96217179:
     # ns "Oh, come on, [mcname]. That's not at all what I was saying. Well, I mean, I guess it was one possible situation, but the odds are pretty low."
     ns "哦，不至于，[mcname]。我根本不是那个意思。嗯，我是说，我猜那是一种可能的情况，但可能性相当低。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:86
-translate chinese sm1cs_ns004_b839a8bd:
-
-    # ns "I would consder that outcome as very high risk, low chance."
-    ns "我觉得那种结果属于高风险、低概率事件。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:89
 translate chinese sm1cs_ns004_716019b8:
 
@@ -808,12 +802,6 @@ translate chinese sm1cs_ns004_end_talk_88a01f90:
     # ns "I'm fine. I just... I wanted to say that you have been the nicest person I have met since I came here."
     ns "我没事。我只是...我想说，你是我来到这儿之后遇到的最友好的人。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
-translate chinese sm1cs_ns004_end_talk_b427a71b:
-
-    # mc "I'm, really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
-    mc "听到你这么说我真的很高兴。但我相信你还会遇到和我一样好的人。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:400
 translate chinese sm1cs_ns004_end_talk_4f0e3ac2:
 
@@ -973,4 +961,16 @@ translate chinese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:251
     old "I'm not really into it"
     new "我不太喜欢"
+
+# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:86
+translate chinese sm1cs_ns004_fc4dfef5:
+
+    # ns "I would consider that outcome as very high risk, low chance."
+    ns "I would consider that outcome as very high risk, low chance."
+
+# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
+translate chinese sm1cs_ns004_end_talk_36d68c75:
+
+    # mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
+    mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
 

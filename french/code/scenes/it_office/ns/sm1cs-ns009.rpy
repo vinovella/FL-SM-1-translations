@@ -64,12 +64,6 @@ translate french sm1cs_ns009_0a3bd24a:
     # mc "Alright. That still doesn't answer what you're doing here."
     mc "D’accord. Mais ça n’explique toujours pas ce que tu fais ici."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
-translate french sm1cs_ns009_cd306336:
-
-    # mc "And... I totally didn't scared."
-    mc "Et... j’ai pas eu peur. Pas du tout."
-
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:88
 translate french sm1cs_ns009_33cf1ae2:
 
@@ -1359,4 +1353,10 @@ translate french strings:
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
     old "Don't dominate Nari"
     new "Don't dominate Nari"
+
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
+translate french sm1cs_ns009_f37a2921:
+
+    # mc "And... I totally wasn't scared."
+    mc "And... I totally wasn't scared."
 

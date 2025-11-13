@@ -5,8 +5,8 @@
     new "你好，杨先生。"
 
     # game/code/data/chat/chat_cw.rpy:3
-    old "Hi, Ms. Claire."
-    new "你好，克莱尔女士。"
+    old "Hi, Ms. Watts."
+    new "你好，沃茨女士。"
 
     # game/code/data/chat/chat_cw.rpy:3
     old "Something has come up. Please meet me Friday evening at the office."

@@ -210,3 +210,9 @@ translate portuguese strings:
     old "Jerk Cop"
     new "Jerk Cop"
 
+translate portuguese strings:
+
+    # game/code/data/characters/names.rpy:87
+    old "Douche Cop"
+    new "Douche Cop"
+

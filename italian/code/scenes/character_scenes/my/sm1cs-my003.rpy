@@ -916,12 +916,6 @@ translate italian sm1cs_my003_at_gym_91d8a70c:
     # mc "You okay?"
     mc "Stai bene?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:461
-translate italian sm1cs_my003_at_gym_a3d6370e:
-
-    # my "Yeah, it's just been awhile since I've been able to get to the gym. Working some muscles that are a little frozen up."
-    my "Sì, è solo che è passato un po' di tempo da quando sono riuscita ad andare in palestra. Sto facendo lavorare alcuni muscoli che sono un po' irrigiditi."
-
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:462
 translate italian sm1cs_my003_at_gym_5acd50d3:
 
@@ -1639,4 +1633,10 @@ translate italian strings:
     # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:475
     old "It looks like the right one is within reach!"
     new "Quella sulla tua destra sembra a portata di mano!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:461
+translate italian sm1cs_my003_at_gym_b2b93b59:
+
+    # my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
+    my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
 

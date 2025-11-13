@@ -4,12 +4,6 @@ translate chinese sm1cs_ns003_0c054906:
     # mc "Phew."
     mc "呼。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:13
-translate chinese sm1cs_ns003_f9c17921:
-
-    # mct "Nari has been usually quiet today"
-    mct "娜丽今天异常安静。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:16
 translate chinese sm1cs_ns003_6e9c8121:
 
@@ -64,23 +58,11 @@ translate chinese sm1cs_ns003_caeb7a32:
     # mct "She can be so damn cute when she's embarrassed. Still shy, but there is something else there."
     mct "她尴尬的时候真是太可爱了。还是很害羞，但又有点别的感觉。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:40
-translate chinese sm1cs_ns003_05adedab:
-
-    # mct "Like she's playing a game with me. Only she knows the moves"
-    mct "就好像她在跟我玩一个游戏，而只有她知道该怎么走下一步。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:43
 translate chinese sm1cs_ns003_a9c128b4:
 
     # ns "You have no idea how glad that makes me feel. Thank you, [mcname]."
     ns "你不知道你的话让我感觉有多开心。谢谢你，[mcname]。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:44
-translate chinese sm1cs_ns003_2bc74066:
-
-    # ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Clare got close to me."
-    ns "我回到工位后，感觉每一分钟我都想蜷缩起来或者躲起来。当安娜或克莱尔靠近我的时候，这种感觉就更强烈了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:47
 translate chinese sm1cs_ns003_5dfde812:
@@ -123,12 +105,6 @@ translate chinese sm1cs_ns003_2d263e16:
 
     # mc "Where are you taking me?"
     mc "你要带我去哪里？"
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:67
-translate chinese sm1cs_ns003_4b516848:
-
-    # ns "It's' a secret. But... well not a total secret. I wanted to get you something for your help."
-    ns "这是个秘密。不过...也不完全算是秘密。我想送你点东西，感谢你帮了我。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:70
 translate chinese sm1cs_ns003_52ce0b28:
@@ -286,12 +262,6 @@ translate chinese sm1cs_ns003_b48bdde5:
     # ns "I mean... It's fine. I'll get better at it. I mean-"
     ns "我是说...没关系啦。我会更擅长控制的。我是说--"
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:146
-translate chinese sm1cs_ns003_54cc29f7:
-
-    # mct "She can be so shy, and yet so casual about talking about sexy stuff"
-    mct "她有时候很害羞，但聊起性感话题时又可以这么随意。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:147
 translate chinese sm1cs_ns003_f2de809e:
 
@@ -358,12 +328,6 @@ translate chinese sm1cs_ns003_6714eb3a:
     # ns "Hmmm..."
     ns "嗯..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:176
-translate chinese sm1cs_ns003_632cf42f:
-
-    # mct "I never imagined it would take this long"
-    mct "我从没想过要花这么长时间。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:179
 translate chinese sm1cs_ns003_d972e0c2:
 
@@ -393,12 +357,6 @@ translate chinese sm1cs_ns003_b12c4edb:
 
     # mc "That's just a lot of technology."
     mc "那视频里的技术含量也太高了。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:193
-translate chinese sm1cs_ns003_4ab8e2bb:
-
-    # mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn.."
-    mc "我看色情片一次都没法超过二十分钟，而且我已经算很喜欢看成人影片的那种了..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:196
 translate chinese sm1cs_ns003_273d1970:
@@ -850,12 +808,6 @@ translate chinese sm1cs_ns003_4c0e037a:
     # mct "Man. Nari is so kinky, and she's into watersports."
     mct "天啊，娜丽真淫荡，她还喜欢玩水作乐。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:446
-translate chinese sm1cs_ns003_2be2d328:
-
-    # mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio"
-    mct "我得告诉史黛西她是对的。娜丽可能会成为工作室的优秀新成员。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:449
 translate chinese sm1cs_ns003_2526109c:
 
@@ -880,12 +832,6 @@ translate chinese sm1cs_ns003_dbd81ba2:
     # ns "Okay."
     ns "好呀。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:471
-translate chinese sm1cs_ns003_28801589:
-
-    # mct "This is either my best idea or my worst idea yet"
-    mct "这要么是我想过的最棒的主意，要么就是最糟糕的主意。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:474
 translate chinese sm1cs_ns003_3f147cf2:
 
@@ -898,12 +844,6 @@ translate chinese sm1cs_ns003_4024f096:
     # ns "I can feel your warmth, [mcname]. It looks so tasty."
     ns "我能感受到你的热度，[mcname]。看起来真诱人。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:480
-translate chinese sm1cs_ns003_4e4cbeeb:
-
-    # mc "Just be careful, Nari. This thing has a mind of its own sometimes.."
-    mc "小心点，娜丽。这东西有时候自己会不受控制..."
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:483
 translate chinese sm1cs_ns003_36de6ef8:
 
@@ -915,18 +855,6 @@ translate chinese sm1cs_ns003_af26d42b:
 
     # ns "Mrmmm."
     ns "嗯..."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:492
-translate chinese sm1cs_ns003_f57541b6:
-
-    # mct "No, you are definitely not shy, Nari. Wow"
-    mct "真是，你一点都不害羞，娜丽。哇哦。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:495
-translate chinese sm1cs_ns003_b331bc18:
-
-    # mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it"
-    mct "她的手法真的很温柔。很轻柔但又不会轻到让你感觉不到。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:498
 translate chinese sm1cs_ns003_a61ef815:
@@ -1000,12 +928,6 @@ translate chinese sm1cs_ns003_cf1adef2:
     # mc "Yeah."
     mc "是啊。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:539
-translate chinese sm1cs_ns003_6e21a06a:
-
-    # mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole"
-    mct "有那么一瞬间，我还以为娜丽要通过‘荣耀之洞’给我口交了。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:542
 translate chinese sm1cs_ns003_c7807583:
 
@@ -1042,18 +964,6 @@ translate chinese sm1cs_ns003_0419d335:
     # mc "Later."
     mc "回见。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:560
-translate chinese sm1cs_ns003_dbb76032:
-
-    # mct "Well, that was quite a ride. I almost thought she might want to hang out"
-    mct "好吧，刚才可真是一场奇妙的经历。我差点以为她想再一起待会儿呢。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:561
-translate chinese sm1cs_ns003_3b7471c7:
-
-    # mct "Maybe next time"
-    mct "也许下次吧。"
-
 translate chinese strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:109
@@ -1083,4 +993,94 @@ translate chinese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:386
     old "Confused"
     new "困惑"
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:13
+translate chinese sm1cs_ns003_6c6f50bb:
+
+    # mct "Nari has been usually quiet today."
+    mct "Nari has been usually quiet today."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:40
+translate chinese sm1cs_ns003_33a29b32:
+
+    # mct "Like she's playing a game with me. Only she knows the moves."
+    mct "Like she's playing a game with me. Only she knows the moves."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:44
+translate chinese sm1cs_ns003_68c462c4:
+
+    # ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
+    ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:67
+translate chinese sm1cs_ns003_37aa12d7:
+
+    # ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
+    ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:146
+translate chinese sm1cs_ns003_6d83be49:
+
+    # mct "She can be so shy, and yet so casual about talking about sexy stuff."
+    mct "She can be so shy, and yet so casual about talking about sexy stuff."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:176
+translate chinese sm1cs_ns003_6d8220b3:
+
+    # mct "I never imagined it would take this long."
+    mct "I never imagined it would take this long."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:193
+translate chinese sm1cs_ns003_ee47ea12:
+
+    # mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
+    mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:446
+translate chinese sm1cs_ns003_9e3ed79b:
+
+    # mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
+    mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:471
+translate chinese sm1cs_ns003_edf4f757:
+
+    # mct "This is either my best idea or my worst idea yet."
+    mct "This is either my best idea or my worst idea yet."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:480
+translate chinese sm1cs_ns003_11f9454a:
+
+    # mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
+    mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:492
+translate chinese sm1cs_ns003_2855cbd1:
+
+    # mct "No, you are definitely not shy, Nari. Wow."
+    mct "No, you are definitely not shy, Nari. Wow."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:495
+translate chinese sm1cs_ns003_6aee29d5:
+
+    # mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
+    mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:539
+translate chinese sm1cs_ns003_52693859:
+
+    # mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
+    mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:560
+translate chinese sm1cs_ns003_8a7c6254:
+
+    # mct "Well, that was quite a ride. I almost thought she might want to hang out."
+    mct "Well, that was quite a ride. I almost thought she might want to hang out."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:561
+translate chinese sm1cs_ns003_21d17c87:
+
+    # mct "Maybe next time."
+    mct "Maybe next time."
 

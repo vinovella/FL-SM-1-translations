@@ -64,12 +64,6 @@ translate portuguese sm1cs_ns009_0a3bd24a:
     # mc "Alright. That still doesn't answer what you're doing here."
     mc "Beleza. Isso ainda não responde o que você tá fazendo aqui."
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
-translate portuguese sm1cs_ns009_cd306336:
-
-    # mc "And... I totally didn't scared."
-    mc "E... eu nem me assustei, tá."
-
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:88
 translate portuguese sm1cs_ns009_33cf1ae2:
 
@@ -1357,4 +1351,10 @@ translate portuguese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
     old "Don't dominate Nari"
     new "Don't dominate Nari"
+
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
+translate portuguese sm1cs_ns009_f37a2921:
+
+    # mc "And... I totally wasn't scared."
+    mc "And... I totally wasn't scared."
 

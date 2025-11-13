@@ -1138,12 +1138,6 @@ translate deutsch sm1cs_bg004_anal_26a64fd0:
     # bg "OHHHH FUUUUUCK!"
     bg "OHHHH FUUUUUCK!"
 
-# game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:542
-translate deutsch sm1cs_bg004_anal_9097d712:
-
-    # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!u], I NEED A BREAK!"
-    bg "ICH BRAUCHE- FUUUUUH - BITTE, [bg_mcname!u], ICH BRAUCHE EINE PAUSE!"
-
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:543
 translate deutsch sm1cs_bg004_anal_7b9fc1d1:
 
@@ -1569,4 +1563,10 @@ translate deutsch sm1cs_bg004_anal_41c02abb:
 
     # mct "But, she's right. I should probably get dressed..."
     mct "Aber sie hat recht. Ich sollte mich wohl besser anziehen..."
+
+# game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:543
+translate deutsch sm1cs_bg004_anal_a58f65b7:
+
+    # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
+    bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
 

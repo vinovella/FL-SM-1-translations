@@ -256,12 +256,6 @@ translate italian sm1cs_ns002_165e5ad5:
     # ns "Now they're wet. Maybe ruined. I don't know. But I can't leave this place. Which means eventually someone will find out and then I'll be fired for sure."
     ns "Ora sono bagnate. Forse rovinate. Non lo so. Ma non posso lasciare questo posto. Il che significa che alla fine qualcuno lo scoprirà e poi sarò sicuramente licenziata."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
-translate italian sm1cs_ns002_e9fc13f4:
-
-    # mc "Let's just take a beat. I'll get you through this. we've all... had urges in strange places."
-    mc "Prendiamoci un momento. Ti aiuterò a superare tutto questo. Abbiamo tutti... avuto impulsi in posti strani."
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:169
 translate italian sm1cs_ns002_25d12c61:
 
@@ -742,12 +736,6 @@ translate italian sm1cs_ns002_74fc6761:
     # mc "Me too."
     mc "Anch'io."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
-translate italian sm1cs_ns002_f7744ef8:
-
-    # mct "No one is close. I hope"
-    mct "Nessuno è vicino. Spero"
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:429
 translate italian sm1cs_ns002_e95fe494:
 
@@ -817,4 +805,16 @@ translate italian strings:
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "You can tell me what happened"
     new "Puoi dirmi cosa è successo"
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
+translate italian sm1cs_ns002_bc4ba015:
+
+    # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
+translate italian sm1cs_ns002_94a1cd6a:
+
+    # mct "No one is close. I hope."
+    mct "No one is close. I hope."
 

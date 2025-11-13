@@ -10,12 +10,6 @@ translate deutsch q_inter_ec_1_ff301b79:
     # ec "Oh hey, [mcname]. Sorry I can't stay in chat. Deniese needs her coffee or she'll..."
     ec "Oh hey, [mcname]. Tut mir leid, ich kann nicht im Chat bleiben. Deniese braucht ihren Kaffee, sonst wird sie..."
 
-# game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:22
-translate deutsch q_inter_ec_1_c3201eb7:
-
-    # ec "Well she works a lot better with a good cofee."
-    ec "Nun, mit einem guten Kaffee arbeitet sie viel besser."
-
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:23
 translate deutsch q_inter_ec_1_b5e6fa12:
 
@@ -195,4 +189,10 @@ translate deutsch q_inter_ec_7_bc229872:
 
     # ec "Exactly."
     ec "Genau."
+
+# game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:22
+translate deutsch q_inter_ec_1_7a965d97:
+
+    # ec "Well she works a lot better with a good coffee."
+    ec "Well she works a lot better with a good coffee."
 

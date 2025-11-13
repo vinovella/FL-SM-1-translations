@@ -28,12 +28,6 @@ translate turkish q_inter_nr_4_05500ff6:
     # mc "Huh?"
     mc "Ha?"
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:52
-translate turkish q_inter_nr_4_c2138e10:
-
-    # nr "Pull my weiner. Heh heh."
-    nr "Sosisimi çek. Heh heh."
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:58
 translate turkish q_inter_nr_5_1abd558a:
 
@@ -81,12 +75,6 @@ translate turkish q_inter_nr_9_df313f64:
 
     # nr "Don't you have deliveries to make?"
     nr "Yapman gereken teslimatlar yok mu?"
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:93
-translate turkish q_inter_nr_10_fff0cb2c:
-
-    # nr "Let it rip, kid! Get out there and show those weiners who's boss."
-    nr "Haydi evlat! Git ve o sosislere patronun kim olduğunu göster."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:99
 translate turkish q_inter_nr_11_6db6dd58:
@@ -195,4 +183,16 @@ translate turkish q_inter_nr_8_7ef23e41:
 
     # nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
     nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:52
+translate turkish q_inter_nr_4_9ff4a03c:
+
+    # nr "Pull my wiener. Heh heh."
+    nr "Pull my wiener. Heh heh."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:93
+translate turkish q_inter_nr_10_6f8406ed:
+
+    # nr "Let it rip, kid! Get out there and show those wieners who's boss."
+    nr "Let it rip, kid! Get out there and show those wieners who's boss."
 

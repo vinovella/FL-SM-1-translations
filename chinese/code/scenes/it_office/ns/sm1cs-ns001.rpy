@@ -28,12 +28,6 @@ translate chinese sm1cs_ns001_6207b3f5:
     # mc "Hey Anna. Nari and I were looking for some food. Is there anything close around here?"
     mc "嘿，安娜。娜丽和我在找吃的。这附近有什么地方可以去吗？"
 
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:34
-translate chinese sm1cs_ns001_11a27173:
-
-    # ag "Of course. The office has it's own cafeteria."
-    ag "当然有。办公室有自己的自助餐厅。"
-
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:37
 translate chinese sm1cs_ns001_db427dd9:
 
@@ -292,12 +286,6 @@ translate chinese sm1cs_ns001_continue_495c4c5a:
     # ns "Oh. Thanks."
     ns "哦，谢谢。"
 
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
-translate chinese sm1cs_ns001_continue_7f280683:
-
-    # mct "He shoots"
-    mct "进球--"
-
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:203
 translate chinese sm1cs_ns001_continue_7140082a:
 
@@ -399,12 +387,6 @@ translate chinese sm1cs_ns001_continue_3910922c:
 
     # ns "I caught April looking over my shoulder earlier. I was so embarrassed. I thought I had done something wrong or said something wrong."
     ns "我之前发现艾普尔在背后偷看我工作。我当时好尴尬。我以为我做错了什么或者说错了什么。"
-
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
-translate chinese sm1cs_ns001_continue_318826f2:
-
-    # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda.."
-    ns "后来，我意识到她一定是对我的工作印象深刻，因为她问我想不想喝汽水。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:252
 translate chinese sm1cs_ns001_continue_d5326a7a:
@@ -599,4 +581,22 @@ translate chinese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:154
     old "Be humble"
     new "保持谦逊"
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:34
+translate chinese sm1cs_ns001_1c682e14:
+
+    # ag "Of course. The office has its own cafeteria."
+    ag "Of course. The office has its own cafeteria."
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
+translate chinese sm1cs_ns001_continue_e2b53835:
+
+    # mct "He shoots."
+    mct "He shoots."
+
+# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
+translate chinese sm1cs_ns001_continue_aa4b7c7c:
+
+    # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
+    ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
 

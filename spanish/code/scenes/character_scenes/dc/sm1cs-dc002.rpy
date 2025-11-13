@@ -298,12 +298,6 @@ translate spanish sm1cs_dc002_c4175c50:
     # mct "Shit - I think I need to hit a gym."
     mct "Mierda, creo que necesito ir a un gimnasio."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:230
-translate spanish sm1cs_dc002_9cacfeba:
-
-    # mct "I'm failing Rule Number One right now; cardio! God, Maybe we should get a treadmill for the studio..."
-    mct "Estoy fallando en la Regla Número Uno en este momento; ¡cardio! Dios, tal vez deberíamos conseguir una cinta de correr para el estudio..."
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:234
 translate spanish sm1cs_dc002_32c564d9:
 
@@ -525,4 +519,10 @@ translate spanish strings:
     # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:177
     old "Check out the nude jogger"
     new "Echa un vistazo a la corredora desnuda"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:230
+translate spanish sm1cs_dc002_9cef6b0f:
+
+    # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
 

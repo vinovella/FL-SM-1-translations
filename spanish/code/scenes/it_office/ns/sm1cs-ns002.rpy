@@ -256,12 +256,6 @@ translate spanish sm1cs_ns002_165e5ad5:
     # ns "Now they're wet. Maybe ruined. I don't know. But I can't leave this place. Which means eventually someone will find out and then I'll be fired for sure."
     ns "Ahora están mojados. Tal vez arruinado. No lo sé. Pero no puedo dejar este Lugar. Lo que significa que al final alguien se enterará y entonces seguro que me despiden."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
-translate spanish sm1cs_ns002_e9fc13f4:
-
-    # mc "Let's just take a beat. I'll get you through this. we've all... had urges in strange places."
-    mc "Vamos a tomarnos un momento. Te sacaré de esto. Todos hemos... tenido impulsos en lugares extraños."
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:169
 translate spanish sm1cs_ns002_25d12c61:
 
@@ -742,12 +736,6 @@ translate spanish sm1cs_ns002_74fc6761:
     # mc "Me too."
     mc "Yo también."
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
-translate spanish sm1cs_ns002_f7744ef8:
-
-    # mct "No one is close. I hope"
-    mct "Nadie está cerca. Eso espero."
-
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:429
 translate spanish sm1cs_ns002_e95fe494:
 
@@ -819,4 +807,16 @@ translate spanish strings:
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "I don't need to know"
     new "I don't need to know"
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
+translate spanish sm1cs_ns002_bc4ba015:
+
+    # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
+translate spanish sm1cs_ns002_94a1cd6a:
+
+    # mct "No one is close. I hope."
+    mct "No one is close. I hope."
 

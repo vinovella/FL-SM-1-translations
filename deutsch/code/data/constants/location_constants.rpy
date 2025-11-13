@@ -238,3 +238,13 @@ translate deutsch strings:
     old "Stage Area"
     new "Bühnenbereich"
 
+translate deutsch strings:
+
+    # game/code/data/constants/location_constants.rpy:155
+    old "Storage Room"
+    new "Storage Room"
+
+    # game/code/data/constants/location_constants.rpy:161
+    old "Showers"
+    new "Showers"
+

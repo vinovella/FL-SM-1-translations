@@ -202,12 +202,6 @@ translate french sm1cs_ns004_96217179:
     # ns "Oh, come on, [mcname]. That's not at all what I was saying. Well, I mean, I guess it was one possible situation, but the odds are pretty low."
     ns "Oh allez, [mcname]. C’est pas du tout ce que je disais. Enfin… disons que c’est une possibilité, mais les chances sont minuscules."
 
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:86
-translate french sm1cs_ns004_b839a8bd:
-
-    # ns "I would consder that outcome as very high risk, low chance."
-    ns "Je considérerais ça comme un scénario à haut risque mais très peu probable."
-
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:89
 translate french sm1cs_ns004_716019b8:
 
@@ -808,12 +802,6 @@ translate french sm1cs_ns004_end_talk_88a01f90:
     # ns "I'm fine. I just... I wanted to say that you have been the nicest person I have met since I came here."
     ns "Ça va. Je voulais juste te dire que t’es la personne la plus gentille que j’ai rencontrée depuis que je suis arrivée ici."
 
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
-translate french sm1cs_ns004_end_talk_b427a71b:
-
-    # mc "I'm, really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
-    mc "Ça me fait super plaisir d’entendre ça. Mais je suis sûr que tu rencontreras d’autres gens aussi bien que moi."
-
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:400
 translate french sm1cs_ns004_end_talk_4f0e3ac2:
 
@@ -975,4 +963,16 @@ translate french strings:
     new "C’est pas trop mon délire"
 
 #Translate by BlackViper_
+
+# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:86
+translate french sm1cs_ns004_fc4dfef5:
+
+    # ns "I would consider that outcome as very high risk, low chance."
+    ns "I would consider that outcome as very high risk, low chance."
+
+# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
+translate french sm1cs_ns004_end_talk_36d68c75:
+
+    # mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
+    mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
 

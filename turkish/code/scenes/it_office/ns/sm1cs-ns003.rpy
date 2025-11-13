@@ -4,12 +4,6 @@ translate turkish sm1cs_ns003_0c054906:
     # mc "Phew."
     mc "Oh be."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:13
-translate turkish sm1cs_ns003_f9c17921:
-
-    # mct "Nari has been usually quiet today"
-    mct "Nari bugün genellikle sessizdi"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:16
 translate turkish sm1cs_ns003_6e9c8121:
 
@@ -64,23 +58,11 @@ translate turkish sm1cs_ns003_caeb7a32:
     # mct "She can be so damn cute when she's embarrassed. Still shy, but there is something else there."
     mct "Utandığında çok tatlı olabiliyor. Hala utangaç ama orada başka bir şey var."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:40
-translate turkish sm1cs_ns003_05adedab:
-
-    # mct "Like she's playing a game with me. Only she knows the moves"
-    mct "Sanki benimle oyun oynuyor. Hareketleri sadece o biliyor"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:43
 translate turkish sm1cs_ns003_a9c128b4:
 
     # ns "You have no idea how glad that makes me feel. Thank you, [mcname]."
     ns "Bunun beni ne kadar mutlu ettiğini bilemezsin. Teşekkür ederim, [mcname]."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:44
-translate turkish sm1cs_ns003_2bc74066:
-
-    # ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Clare got close to me."
-    ns "Masama döndüğümde, her dakika büzülüp saklanmak istiyordum. Anna veya Clare bana yaklaştığında daha da kötü oluyordu."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:47
 translate turkish sm1cs_ns003_5dfde812:
@@ -123,12 +105,6 @@ translate turkish sm1cs_ns003_2d263e16:
 
     # mc "Where are you taking me?"
     mc "Beni nereye götürüyorsun?"
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:67
-translate turkish sm1cs_ns003_4b516848:
-
-    # ns "It's' a secret. But... well not a total secret. I wanted to get you something for your help."
-    ns "Bu bir sır. Ama... pek de sır değil. Yardımın için sana bir şey almak istedim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:70
 translate turkish sm1cs_ns003_52ce0b28:
@@ -286,12 +262,6 @@ translate turkish sm1cs_ns003_b48bdde5:
     # ns "I mean... It's fine. I'll get better at it. I mean-"
     ns "Yani... Sorun değil. Daha iyi olacağım. Yani-"
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:146
-translate turkish sm1cs_ns003_54cc29f7:
-
-    # mct "She can be so shy, and yet so casual about talking about sexy stuff"
-    mct "Çok utangaç olabiliyor, ama yine de seksi şeyler hakkında konuşurken çok rahat olabiliyor"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:147
 translate turkish sm1cs_ns003_f2de809e:
 
@@ -358,12 +328,6 @@ translate turkish sm1cs_ns003_6714eb3a:
     # ns "Hmmm..."
     ns "Hımmm..."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:176
-translate turkish sm1cs_ns003_632cf42f:
-
-    # mct "I never imagined it would take this long"
-    mct "Bu kadar uzun süreceğini hiç tahmin etmemiştim"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:179
 translate turkish sm1cs_ns003_d972e0c2:
 
@@ -393,12 +357,6 @@ translate turkish sm1cs_ns003_b12c4edb:
 
     # mc "That's just a lot of technology."
     mc "Bu sadece bir sürü teknoloji."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:193
-translate turkish sm1cs_ns003_4ab8e2bb:
-
-    # mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn.."
-    mc "Bir seferde yirmi dakikadan fazla porno izleyemiyorum ve pornoyu seviyorum.."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:196
 translate turkish sm1cs_ns003_273d1970:
@@ -850,12 +808,6 @@ translate turkish sm1cs_ns003_4c0e037a:
     # mct "Man. Nari is so kinky, and she's into watersports."
     mct "Dostum. Nari çok sapık ve su sporlarına meraklı."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:446
-translate turkish sm1cs_ns003_2be2d328:
-
-    # mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio"
-    mct "Stacy'ye haklı olduğunu bildirmem gerekecek. Nari stüdyo için harika bir aday olabilir"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:449
 translate turkish sm1cs_ns003_2526109c:
 
@@ -880,12 +832,6 @@ translate turkish sm1cs_ns003_dbd81ba2:
     # ns "Okay."
     ns "Tamam."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:471
-translate turkish sm1cs_ns003_28801589:
-
-    # mct "This is either my best idea or my worst idea yet"
-    mct "Bu ya en iyi fikrim ya da şimdiye kadarki en kötü fikrim"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:474
 translate turkish sm1cs_ns003_3f147cf2:
 
@@ -898,12 +844,6 @@ translate turkish sm1cs_ns003_4024f096:
     # ns "I can feel your warmth, [mcname]. It looks so tasty."
     ns "Sıcaklığını hissedebiliyorum, [mcname]. Çok lezzetli görünüyor."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:480
-translate turkish sm1cs_ns003_4e4cbeeb:
-
-    # mc "Just be careful, Nari. This thing has a mind of its own sometimes.."
-    mc "Dikkatli ol, Nari. Bu şeyin bazen kendi kafasına göre hareket ettiği oluyor.."
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:483
 translate turkish sm1cs_ns003_36de6ef8:
 
@@ -915,18 +855,6 @@ translate turkish sm1cs_ns003_af26d42b:
 
     # ns "Mrmmm."
     ns "Mmmmm."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:492
-translate turkish sm1cs_ns003_f57541b6:
-
-    # mct "No, you are definitely not shy, Nari. Wow"
-    mct "Hayır, kesinlikle utangaç değilsin, Nari. Vay canına"
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:495
-translate turkish sm1cs_ns003_b331bc18:
-
-    # mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it"
-    mct "Kesinlikle mükemmel derecede nazik bir dokunuşa sahip. Yumuşak ama hissedemeyeceğiniz kadar hafif değil"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:498
 translate turkish sm1cs_ns003_a61ef815:
@@ -1000,12 +928,6 @@ translate turkish sm1cs_ns003_cf1adef2:
     # mc "Yeah."
     mc "Evet."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:539
-translate turkish sm1cs_ns003_6e21a06a:
-
-    # mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole"
-    mct "Bir an Nari'nin beni gloryhole'dan emmeye başlayacağını düşündüm"
-
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:542
 translate turkish sm1cs_ns003_c7807583:
 
@@ -1042,18 +964,6 @@ translate turkish sm1cs_ns003_0419d335:
     # mc "Later."
     mc "Daha sonra."
 
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:560
-translate turkish sm1cs_ns003_dbb76032:
-
-    # mct "Well, that was quite a ride. I almost thought she might want to hang out"
-    mct "Eh, bu oldukça eğlenceliydi. Neredeyse onun benimle takılmak isteyebileceğini düşünmüştüm"
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:561
-translate turkish sm1cs_ns003_3b7471c7:
-
-    # mct "Maybe next time"
-    mct "Belki bir dahaki sefere"
-
 translate turkish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:109
@@ -1083,4 +993,94 @@ translate turkish strings:
     # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:386
     old "Confused"
     new "Kafası karışık"
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:13
+translate turkish sm1cs_ns003_6c6f50bb:
+
+    # mct "Nari has been usually quiet today."
+    mct "Nari has been usually quiet today."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:40
+translate turkish sm1cs_ns003_33a29b32:
+
+    # mct "Like she's playing a game with me. Only she knows the moves."
+    mct "Like she's playing a game with me. Only she knows the moves."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:44
+translate turkish sm1cs_ns003_68c462c4:
+
+    # ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
+    ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:67
+translate turkish sm1cs_ns003_37aa12d7:
+
+    # ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
+    ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:146
+translate turkish sm1cs_ns003_6d83be49:
+
+    # mct "She can be so shy, and yet so casual about talking about sexy stuff."
+    mct "She can be so shy, and yet so casual about talking about sexy stuff."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:176
+translate turkish sm1cs_ns003_6d8220b3:
+
+    # mct "I never imagined it would take this long."
+    mct "I never imagined it would take this long."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:193
+translate turkish sm1cs_ns003_ee47ea12:
+
+    # mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
+    mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:446
+translate turkish sm1cs_ns003_9e3ed79b:
+
+    # mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
+    mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:471
+translate turkish sm1cs_ns003_edf4f757:
+
+    # mct "This is either my best idea or my worst idea yet."
+    mct "This is either my best idea or my worst idea yet."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:480
+translate turkish sm1cs_ns003_11f9454a:
+
+    # mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
+    mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:492
+translate turkish sm1cs_ns003_2855cbd1:
+
+    # mct "No, you are definitely not shy, Nari. Wow."
+    mct "No, you are definitely not shy, Nari. Wow."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:495
+translate turkish sm1cs_ns003_6aee29d5:
+
+    # mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
+    mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:539
+translate turkish sm1cs_ns003_52693859:
+
+    # mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
+    mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:560
+translate turkish sm1cs_ns003_8a7c6254:
+
+    # mct "Well, that was quite a ride. I almost thought she might want to hang out."
+    mct "Well, that was quite a ride. I almost thought she might want to hang out."
+
+# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:561
+translate turkish sm1cs_ns003_21d17c87:
+
+    # mct "Maybe next time."
+    mct "Maybe next time."
 

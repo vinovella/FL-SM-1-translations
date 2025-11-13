@@ -202,12 +202,6 @@ translate portuguese sm1cs_ns004_96217179:
     # ns "Oh, come on, [mcname]. That's not at all what I was saying. Well, I mean, I guess it was one possible situation, but the odds are pretty low."
     ns "Ah [mcname], que isso. Não foi o que eu quis dizer. Tipo, essa é uma das possíveis situações, mas as chances são bem baixas."
 
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:86
-translate portuguese sm1cs_ns004_b839a8bd:
-
-    # ns "I would consder that outcome as very high risk, low chance."
-    ns "Eu consideraria isso de altíssimo risco e baixa chance."
-
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:89
 translate portuguese sm1cs_ns004_716019b8:
 
@@ -808,12 +802,6 @@ translate portuguese sm1cs_ns004_end_talk_88a01f90:
     # ns "I'm fine. I just... I wanted to say that you have been the nicest person I have met since I came here."
     ns "Estou bem. É que... Eu queria falar que você é a pessoa mais legal que eu conheci desde que cheguei aqui."
 
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
-translate portuguese sm1cs_ns004_end_talk_b427a71b:
-
-    # mc "I'm, really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
-    mc "Fico muito feliz em saber disso. Mas aposto que você vai encontrar pessoas tão legais quanto eu."
-
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:400
 translate portuguese sm1cs_ns004_end_talk_4f0e3ac2:
 
@@ -973,4 +961,16 @@ translate portuguese strings:
     # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:251
     old "I'm not really into it"
     new "Não sou muito a fim"
+
+# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:86
+translate portuguese sm1cs_ns004_fc4dfef5:
+
+    # ns "I would consider that outcome as very high risk, low chance."
+    ns "I would consider that outcome as very high risk, low chance."
+
+# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
+translate portuguese sm1cs_ns004_end_talk_36d68c75:
+
+    # mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
+    mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
 
