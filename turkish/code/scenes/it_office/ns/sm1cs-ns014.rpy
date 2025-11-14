@@ -2,97 +2,97 @@
 translate turkish sm1cs_ns014_c8f9104c:
 
     # ns "Hey [mcname], you still here?"
-    ns "Hey [mcname], you still here?"
+    ns "Hey [mcname], hala burada mısın?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:25
 translate turkish sm1cs_ns014_555d082d:
 
     # mc "Yeah, still wrestling with these last few tickets."
-    mc "Yeah, still wrestling with these last few tickets."
+    mc "Evet, hala bu son birkaç biletle uğraşıyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:27
 translate turkish sm1cs_ns014_00eb664d:
 
     # mc "It feels like we have been buried in work since we got hacked."
-    mc "It feels like we have been buried in work since we got hacked."
+    mc "Hacklendikten beri işe gömülmüş gibi hissediyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:28
 translate turkish sm1cs_ns014_e95f267c:
 
     # mc "Kind of making me fall out of love with this."
-    mc "Kind of making me fall out of love with this."
+    mc "Bundan soğumama neden oluyor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:31
 translate turkish sm1cs_ns014_02c21f22:
 
     # ns "It's going to be okay. We just have to keep at it, and eventually will be better."
-    ns "It's going to be okay. We just have to keep at it, and eventually will be better."
+    ns "Her şey yoluna girecek. Sadece devam etmemiz gerekiyor, sonunda daha iyi olacak."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:34
 translate turkish sm1cs_ns014_2a1b2a1b:
 
     # mc "No dark clouds for you, eh Nari?"
-    mc "No dark clouds for you, eh Nari?"
+    mc "Senin için kara bulut yok, ha Nari?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:37
 translate turkish sm1cs_ns014_961bd807:
 
     # ns "After meeting you, my life has been a net positive."
-    ns "After meeting you, my life has been a net positive."
+    ns "Seninle tanıştıktan sonra, hayatım net pozitif oldu."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:41
 translate turkish sm1cs_ns014_a64e8bc0:
 
     # mc "Thanks."
-    mc "Thanks."
+    mc "Teşekkürler."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:61
 translate turkish sm1cs_ns014_1e28232c:
 
     # ns "I wish you were already done with your work, [mcname]."
-    ns "I wish you were already done with your work, [mcname]."
+    ns "Keşke işini çoktan bitirmiş olsaydın, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:62
 translate turkish sm1cs_ns014_1c11fc26:
 
     # ns "I was hoping you were finished and then we could walk home together."
-    ns "I was hoping you were finished and then we could walk home together."
+    ns "Bitirmiş olmanı umuyordum, böylece eve birlikte yürüyebilirdik."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:66
 translate turkish sm1cs_ns014_88de960d:
 
     # mc "Ah, that's sweet."
-    mc "Ah, that's sweet."
+    mc "Ah, ne tatlı."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:67
 translate turkish sm1cs_ns014_fb8ef964:
 
     # mc "How did you finish yours so fast, Nari?"
-    mc "How did you finish yours so fast, Nari?"
+    mc "Seninkini nasıl bu kadar hızlı bitirdin, Nari?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:70
 translate turkish sm1cs_ns014_ae3ed293:
 
     # ns "There {b}were{/b} a lot of tickets."
-    ns "There {b}were{/b} a lot of tickets."
+    ns "{b}Çok{/b} fazla bilet vardı."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:71
 translate turkish sm1cs_ns014_b7615c4d:
 
     # ns "But you know me, once I finish one, I just keep powering through until they're all gone."
-    ns "But you know me, once I finish one, I just keep powering through until they're all gone."
+    ns "Ama beni bilirsin, birini bitirdikten sonra, hepsi bitene kadar devam ederim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:78
 translate turkish sm1cs_ns014_177d3eb2:
 
     # mc "What are you doing?"
-    mc "What are you doing?"
+    mc "Ne yapıyorsun?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:80
 translate turkish sm1cs_ns014_36c6c5d1:
 
     # ns "Making sure no one is watching."
-    ns "Making sure no one is watching."
+    ns "Kimsenin izlemediğinden emin oluyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:90
 translate turkish sm1cs_ns014_25ec905e:
@@ -104,61 +104,61 @@ translate turkish sm1cs_ns014_25ec905e:
 translate turkish sm1cs_ns014_fe4d8bc5:
 
     # ns "That should give you some more pep."
-    ns "That should give you some more pep."
+    ns "Bu sana biraz daha canlılık verecektir."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:104
 translate turkish sm1cs_ns014_43bb0817:
 
     # mc "I might need more where that comes from."
-    mc "I might need more where that comes from."
+    mc "Bundan daha fazlasına ihtiyacım olabilir."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:107
 translate turkish sm1cs_ns014_fc5cc81c:
 
     # ns "[mcname]... we're supposed to behave around work."
-    ns "[mcname]... we're supposed to behave around work."
+    ns "[mcname]... iş yerinde uslu durmamız gerekiyor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:108
 translate turkish sm1cs_ns014_d7390d19:
 
     # ns "But maybe we can do something later."
-    ns "But maybe we can do something later."
+    ns "Ama belki sonra bir şeyler yapabiliriz."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:109
 translate turkish sm1cs_ns014_ebf7675e:
 
     # ns "In my room."
-    ns "In my room."
+    ns "Odamda."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:113
 translate turkish sm1cs_ns014_00bc57a3:
 
     # ns "Keep working hard and it will be done before you know it, [mcname]."
-    ns "Keep working hard and it will be done before you know it, [mcname]."
+    ns "Sıkı çalışmaya devam et ve farkına varmadan bitecek, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:114
 translate turkish sm1cs_ns014_a2198132:
 
     # ns "Unless you want me to stay and help you code?"
-    ns "Unless you want me to stay and help you code?"
+    ns "Kalıp kodlama yapmanıza yardım etmemi istemediğin sürece?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:115
 translate turkish sm1cs_ns014_1e4dcb4c:
 
     # ns "Cause I can do that."
-    ns "Cause I can do that."
+    ns "Çünkü bunu yapabilirim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:118
 translate turkish sm1cs_ns014_92e3fdf5:
 
     # mc "No way, Nari. You've already done all the work you needed to do."
-    mc "No way, Nari. You've already done all the work you needed to do."
+    mc "Olmaz, Nari. Yapman gereken tüm işi zaten yaptın."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:119
 translate turkish sm1cs_ns014_474723e2:
 
     # mc "I got to carry my own weight."
-    mc "I got to carry my own weight."
+    mc "Kendi ağırlığımı taşımam gerekiyor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:123
 translate turkish sm1cs_ns014_dff0c4b4:
@@ -170,7 +170,7 @@ translate turkish sm1cs_ns014_dff0c4b4:
 translate turkish sm1cs_ns014_720ecf02:
 
     # ns "What does carrying weights have to do with me helping you?"
-    ns "What does carrying weights have to do with me helping you?"
+    ns "Ağırlık taşımanın sana yardım etmemle ne ilgisi var?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:127
 translate turkish sm1cs_ns014_faa03e1a:
@@ -182,13 +182,13 @@ translate turkish sm1cs_ns014_faa03e1a:
 translate turkish sm1cs_ns014_ee02790c:
 
     # mc "I'll see you at home, cutie."
-    mc "I'll see you at home, cutie."
+    mc "Evde görüşürüz, tatlım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:132
 translate turkish sm1cs_ns014_f4629ac3:
 
     # ns "Until then..."
-    ns "Until then..."
+    ns "O zamana kadar..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:133
 translate turkish sm1cs_ns014_2b35b6fe:
