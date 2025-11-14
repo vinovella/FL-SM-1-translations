@@ -2,73 +2,73 @@
 translate turkish sm1mv01s09_2288bebd:
 
     # kv "...Aaaaaaaaaaand cut."
-    kv "...Aaaaaaaaaaand cut."
+    kv "...Veeeee kes."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:96
 translate turkish sm1mv01s09_8c3df0d4:
 
     # sy "Oh thank God."
-    sy "Oh thank God."
+    sy "Oh Tanrıya şükür."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:97
 translate turkish sm1mv01s09_6c52ca80:
 
     # sy "I {i}cannot{/i} get anymore sand in my ass. It's driving me {i}wild{/i}."
-    sy "I {i}cannot{/i} get anymore sand in my ass. It's driving me {i}wild{/i}."
+    sy "Kıçıma daha fazla kum {i}giremez{/i}. Beni {i}çıldırtıyor{/i}."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:100
 translate turkish sm1mv01s09_f59b34ed:
 
     # mc "You don't need to be here right now."
-    mc "You don't need to be here right now."
+    mc "Şu anda burada olman gerekmiyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:101
 translate turkish sm1mv01s09_2d0f276f:
 
     # mc "After your monologue, your character doesn't show up for a while."
-    mc "After your monologue, your character doesn't show up for a while."
+    mc "Monologundan sonra, karakterin bir süre görünmüyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:105
 translate turkish sm1mv01s09_2f590b3a:
 
     # sy "But who would be the script supervisor if I wasn't here!?"
-    sy "But who would be the script supervisor if I wasn't here!?"
+    sy "Ama ben burada olmasam senaryo süpervizörü kim olurdu!?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:108
 translate turkish sm1mv01s09_04d82986:
 
     # tl "You're not my supervisor!"
-    tl "You're not my supervisor!"
+    tl "Sen benim süpervizörüm değilsin!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:110
 translate turkish sm1mv01s09_e861a3f3:
 
     # mc "What the hell is a script supervisor?"
-    mc "What the hell is a script supervisor?"
+    mc "Senaryo süpervizörü de ne lan?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:113
 translate turkish sm1mv01s09_8f7c24de:
 
     # sy "I make sure to keep track of continuity! That and to make sure you're doing all of your lines right."
-    sy "I make sure to keep track of continuity! That and to make sure you're doing all of your lines right."
+    sy "Sürekliliği takip ettiğimden emin oluyorum! Bir de tüm repliklerini doğru yapıp yapmadığını kontrol ediyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:115
 translate turkish sm1mv01s09_908196a2:
 
     # mc "Man... how many people does it take to make a movie?"
-    mc "Man... how many people does it take to make a movie?"
+    mc "Dostum... bir film yapmak için kaç kişi gerekiyor?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:119
 translate turkish sm1mv01s09_a6bdbde1:
 
     # sy "Definitely more than four."
-    sy "Definitely more than four."
+    sy "Kesinlikle dörtten fazla."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:122
 translate turkish sm1mv01s09_88979df8:
 
     # kv "All right, well Ms. \"Script Supervisor\", what do we have next?"
-    kv "All right, well Ms. \"Script Supervisor\", what do we have next?"
+    kv "Pekala, Bayan \"Senaryo Süpervizörü\", sırada ne var?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:124
 translate turkish sm1mv01s09_691ab6e7:
