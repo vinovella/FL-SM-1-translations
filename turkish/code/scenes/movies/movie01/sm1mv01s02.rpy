@@ -482,61 +482,61 @@ translate turkish sm1mv01s02_a43d5490:
 translate turkish sm1mv01s02_378ab5f1:
 
     # mc "We'll can handle the cost of getting good outfits."
-    mc "We'll can handle the cost of getting good outfits."
+    mc "İyi kıyafetlerin maliyetini karşılayabiliriz."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:261
 translate turkish sm1mv01s02_91c301db:
 
     # mc "I haven't been breaking my fingers like a good code-monkey to pinch pennies."
-    mc "I haven't been breaking my fingers like a good code-monkey to pinch pennies."
+    mc "İyi bir kod maymunu gibi parmaklarımı kırmıyorum beş kuruş kazanmak için."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:263
 translate turkish sm1mv01s02_c38e581b:
 
     # mc "I haven't been memorizing lines and dealing with super egos for weeks to skimp on costumes."
-    mc "I haven't been memorizing lines and dealing with super egos for weeks to skimp on costumes."
+    mc "Haftalardır replikler ezberleyip süper egolarla uğraşmadım ki kıyafetlerde cimrilik edeyim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:265
 translate turkish sm1mv01s02_ec4c9d50:
 
     # mc "I'm been slinging hot dogs and brats for plenty of nights."
-    mc "I'm been slinging hot dogs and brats for plenty of nights."
+    mc "Bir sürü gece boyunca sosisli sandviç ve sosis sattım."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:266
 translate turkish sm1mv01s02_2bd512c1:
 
     # mc "Now it's all going to be worth it."
-    mc "Now it's all going to be worth it."
+    mc "Şimdi her şey buna değecek."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:269
 translate turkish sm1mv01s02_81109791:
 
     # kv "Ah,{w} So you're saying..."
-    kv "Ah,{w} So you're saying..."
+    kv "Ah,{w} Yani diyorsun ki..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:270
 translate turkish sm1mv01s02_521c035e:
 
     # kv "I can just pick up anything I want?"
-    kv "I can just pick up anything I want?"
+    kv "İstediğim her şeyi alabilirim?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:273
 translate turkish sm1mv01s02_6d951819:
 
     # mc "I don't think that is what I said."
-    mc "I don't think that is what I said."
+    mc "Böyle bir şey söylediğimi sanmıyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:276
 translate turkish sm1mv01s02_167af18c:
 
     # sy "I think this is the one for our Hero character."
-    sy "I think this is the one for our Hero character."
+    sy "Sanırım bu Kahraman karakterimiz için olanı."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:277
 translate turkish sm1mv01s02_8650abbe:
 
     # sy "I'll try it on. I have a similar build to Taisia."
-    sy "I'll try it on. I have a similar build to Taisia."
+    sy "Deneyeceğim. Taisia'ya benzer bir yapım var."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:284
 translate turkish sm1mv01s02_af4bd44f:
@@ -548,79 +548,79 @@ translate turkish sm1mv01s02_af4bd44f:
 translate turkish sm1mv01s02_bcff9820:
 
     # mc "I think it's a great fit."
-    mc "I think it's a great fit."
+    mc "Bence harika uyuyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:290
 translate turkish sm1mv01s02_afd74152:
 
     # mc "What do you think?"
-    mc "What do you think?"
+    mc "Sen ne düşünüyorsun?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:293
 translate turkish sm1mv01s02_49d89bd1:
 
     # kv "I don't think it captures the full Pirate Queen vibe."
-    kv "I don't think it captures the full Pirate Queen vibe."
+    kv "Korsan Kraliçe havasını tam olarak yakaladığını düşünmüyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:296
 translate turkish sm1mv01s02_74def966:
 
     # mc "No, I mean, for our heroine.{w} Taisia's character."
-    mc "No, I mean, for our heroine.{w} Taisia's character."
+    mc "Hayır, yani kahramanımız için.{w} Taisia'nın karakteri."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:299
 translate turkish sm1mv01s02_02fc6250:
 
     # kv "Oh yeah!{w} It might work."
-    kv "Oh yeah!{w} It might work."
+    kv "Ah evet!{w} İşe yarayabilir."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:300
 translate turkish sm1mv01s02_ef4f6571:
 
     # kv "We really should have her here."
-    kv "We really should have her here."
+    kv "Gerçekten onu burada olmalıydı."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:303
 translate turkish sm1mv01s02_9252bebe:
 
     # mc "I tried, but she said she had to work."
-    mc "I tried, but she said she had to work."
+    mc "Denedim ama çalışması gerektiğini söyledi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:306
 translate turkish sm1mv01s02_95ddc92b:
 
     # sy "She gave us her measurements when she signed up to be in the movie."
-    sy "She gave us her measurements when she signed up to be in the movie."
+    sy "Filme katılmak için kaydolurken bize ölçülerini verdi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:309
 translate turkish sm1mv01s02_e658442d:
 
     # mc "Yeah. And then we can just buy one that is Taisia's size."
-    mc "Yeah. And then we can just buy one that is Taisia's size."
+    mc "Evet. Ve sonra Taisia'nın bedeninde bir tane alabiliriz."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:312
 translate turkish sm1mv01s02_2cbccefe:
 
     # sy "Exactly. And I have enough basic skills with needle and thread. I'm sure I can help with any adjustments."
-    sy "Exactly. And I have enough basic skills with needle and thread. I'm sure I can help with any adjustments."
+    sy "Kesinlikle. Ve iğne iplik konusunda yeterli temel becerilerim var. Eminim ayarlamalarda yardımcı olabilirim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:314
 translate turkish sm1mv01s02_9930ed4b:
 
     # mc "Great."
-    mc "Great."
+    mc "Harika."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:316
 translate turkish sm1mv01s02_4779a8cb:
 
     # mc "So? Is this our Hero outfit or what?"
-    mc "So? Is this our Hero outfit or what?"
+    mc "Ee? Bu bizim Kahraman kıyafetimiz mi yoksa ne?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:319
 translate turkish sm1mv01s02_b8c021ce:
 
     # kv "I think so. We should see what we can find for Pirate Queen before making a final decision."
-    kv "I think so. We should see what we can find for Pirate Queen before making a final decision."
+    kv "Sanırım öyle. Nihai kararı vermeden önce Korsan Kraliçe için neler bulabileceğimize bakmalıyız."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:321
 translate turkish sm1mv01s02_4661a639:
@@ -632,49 +632,49 @@ translate turkish sm1mv01s02_4661a639:
 translate turkish sm1mv01s02_cc2958f8:
 
     # sy "Forward my salty dogs."
-    sy "Forward my salty dogs."
+    sy "İlerleyin benim tuzlu köpeklerim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:326
 translate turkish sm1mv01s02_3a5e46aa:
 
     # sy "We found the hero clothes, but we haven't found all the treasure."
-    sy "We found the hero clothes, but we haven't found all the treasure."
+    sy "Kahraman kıyafetlerini bulduk ama henüz tüm hazineyi bulmadık."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:330
 translate turkish sm1mv01s02_371407e9:
 
     # mct "I shouldn't forget my costume."
-    mct "I shouldn't forget my costume."
+    mct "Kendi kostümümü unutmamalıyım."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:346
 translate turkish sm1mv01s02_later_d498e71f:
 
     # sy "Ooooh. This is going to be great."
-    sy "Ooooh. This is going to be great."
+    sy "Ooooh. Bu harika olacak."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:353
 translate turkish sm1mv01s02_later_f72bf8f5:
 
     # sy "It fits perfectly."
-    sy "It fits perfectly."
+    sy "Mükemmel uyuyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:354
 translate turkish sm1mv01s02_later_e508dac5:
 
     # sy "Hopefully Kanya found herself something too."
-    sy "Hopefully Kanya found herself something too."
+    sy "Umarım Kanya da kendine bir şey bulmuştur."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:358
 translate turkish sm1mv01s02_later_a233524f:
 
     # mct "Alright I found something."
-    mct "Alright I found something."
+    mct "Pekala bir şey buldum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:362
 translate turkish sm1mv01s02_later_08e5ae1c:
 
     # mct "Nice. This might work."
-    mct "Nice. This might work."
+    mct "Güzel. Bu işe yarayabilir."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:370
 translate turkish sm1mv01s02_later_0f5095cc:
@@ -686,25 +686,25 @@ translate turkish sm1mv01s02_later_0f5095cc:
 translate turkish sm1mv01s02_later_3c65f722:
 
     # "CRASH"
-    "CRASH"
+    "GÜMBÜRTÜ"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:376
 translate turkish sm1mv01s02_later_2d61b5a8:
 
     # mc "Skeleton!{w} Horny pirate skeleton!"
-    mc "Skeleton!{w} Horny pirate skeleton!"
+    mc "İskelet!{w} Azgın korsan iskeleti!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:379
 translate turkish sm1mv01s02_later_4f3de647:
 
     # kv "[mcname] is right. He is certainly a horny pirate."
-    kv "[mcname] is right. He is certainly a horny pirate."
+    kv "[mcname] haklı. Kesinlikle azgın bir korsan."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:383
 translate turkish sm1mv01s02_later_fd14712b:
 
     # sy "So strange. But also so cool."
-    sy "So strange. But also so cool."
+    sy "Çok garip. Ama aynı zamanda çok havalı."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:387
 translate turkish sm1mv01s02_later_baa3d25d:
@@ -722,145 +722,145 @@ translate turkish sm1mv01s02_later_2c2979ba:
 translate turkish sm1mv01s02_later_711d858e:
 
     # sy "It must be super-glued on."
-    sy "It must be super-glued on."
+    sy "Süper yapıştırıcıyla yapıştırılmış olmalı."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:392
 translate turkish sm1mv01s02_later_0de058fb:
 
     # kv "Someone must have built him for a party at some point."
-    kv "Someone must have built him for a party at some point."
+    kv "Biri bir noktada onu bir parti için yapmış olmalı."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:394
 translate turkish sm1mv01s02_later_f4f108f2:
 
     # mc "They shouldn't just leave something like this hidden around."
-    mc "They shouldn't just leave something like this hidden around."
+    mc "Böyle bir şeyi etrafta saklı bırakmamalılar."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:397
 translate turkish sm1mv01s02_later_28afdfe1:
 
     # sy "Yeah. What a waste."
-    sy "Yeah. What a waste."
+    sy "Evet. Ne israf."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:401
 translate turkish sm1mv01s02_later_b4bbb763:
 
     # sy "Yes!"
-    sy "Yes!"
+    sy "Evet!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:402
 translate turkish sm1mv01s02_later_5737bf74:
 
     # sy "We should put him in the movie."
-    sy "We should put him in the movie."
+    sy "Onu filme koymalıyız."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:405
 translate turkish sm1mv01s02_later_192794f1:
 
     # mc "Who's the 'him' in that sentence?"
-    mc "Who's the 'him' in that sentence?"
+    mc "O cümledeki 'o' kim?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:408
 translate turkish sm1mv01s02_later_9ffe204a:
 
     # sy "Him!"
-    sy "Him!"
+    sy "O!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:413
 translate turkish sm1mv01s02_later_a0b12388:
 
     # mc "Yes. A skeleton captain."
-    mc "Yes. A skeleton captain."
+    mc "Evet. Bir iskelet kaptan."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:416
 translate turkish sm1mv01s02_later_b468f957:
 
     # sy "Or a skeleton first mate."
-    sy "Or a skeleton first mate."
+    sy "Ya da bir iskelet ikinci kaptan."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:419
 translate turkish sm1mv01s02_later_461dc047:
 
     # kv "I thought we were making a serious film?"
-    kv "I thought we were making a serious film?"
+    kv "Ciddi bir film yaptığımızı sanıyordum?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:422
 translate turkish sm1mv01s02_later_6a4279c2:
 
     # sy "Nothing is as serious as magic that can make a skeleton pirate with a dick."
-    sy "Nothing is as serious as magic that can make a skeleton pirate with a dick."
+    sy "Sikli bir iskelet korsan yaratabilen sihir kadar ciddi bir şey yok."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:425
 translate turkish sm1mv01s02_later_11c7610c:
 
     # mc "It certainly would make our film stand out."
-    mc "It certainly would make our film stand out."
+    mc "Kesinlikle filmimizin öne çıkmasını sağlayacaktır."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:428
 translate turkish sm1mv01s02_later_90fe0ccf:
 
     # kv "You guys are crazy. It's not even a little practical."
-    kv "You guys are crazy. It's not even a little practical."
+    kv "Siz çılgınsınız. Zerre kadar pratik değil."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:431
 translate turkish sm1mv01s02_later_edaf2c52:
 
     # kv "Look."
-    kv "Look."
+    kv "Bak."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:432
 translate turkish sm1mv01s02_later_cc150cbe:
 
     # kv "This isn't like, an outfit."
-    kv "This isn't like, an outfit."
+    kv "Bu bir kıyafet falan değil."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:433
 translate turkish sm1mv01s02_later_edbc2b3f:
 
     # kv "It's a statue with some movable arms."
-    kv "It's a statue with some movable arms."
+    kv "Hareketli kolları olan bir heykel."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:436
 translate turkish sm1mv01s02_later_8b64c561:
 
     # kv "And a bit of leg movement."
-    kv "And a bit of leg movement."
+    kv "Ve biraz bacak hareketi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:437
 translate turkish sm1mv01s02_later_f13d5e52:
 
     # kv "You're going to have to move it like a puppet every time it's on screen."
-    kv "You're going to have to move it like a puppet every time it's on screen."
+    kv "Ekranda her göründüğünde onu bir kukla gibi hareket ettirmen gerekecek."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:438
 translate turkish sm1mv01s02_later_d5ac2ea9:
 
     # kv "It is going to be a huge pain in the ass."
-    kv "It is going to be a huge pain in the ass."
+    kv "Kocaman bir baş belası olacak."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:441
 translate turkish sm1mv01s02_later_6e6c2f00:
 
     # mc "But so worth it."
-    mc "But so worth it."
+    mc "Ama buna değer."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:443
 translate turkish sm1mv01s02_later_bca1236e:
 
     # sy "That's what I'm saying. He can be Captain Bone."
-    sy "That's what I'm saying. He can be Captain Bone."
+    sy "İşte bunu diyorum. Kaptan Kemik olabilir."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:446
 translate turkish sm1mv01s02_later_fca52711:
 
     # mc "No."
-    mc "No."
+    mc "Hayır."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:447
 translate turkish sm1mv01s02_later_e9070277:
 
     # mc "Boner. First Mate Boner, undead loyal servant of the Pirate Queen."
-    mc "Boner. First Mate Boner, undead loyal servant of the Pirate Queen."
+    mc "Boner. İkinci Kaptan Boner, Korsan Kraliçe'nin ölümsüz sadık hizmetkarı."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:450
 translate turkish sm1mv01s02_later_6d2d8309:
@@ -872,7 +872,7 @@ translate turkish sm1mv01s02_later_6d2d8309:
 translate turkish sm1mv01s02_later_304163ca:
 
     # sy "I love it."
-    sy "I love it."
+    sy "Bayıldım."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:455
 translate turkish sm1mv01s02_later_e70966a0:
@@ -884,103 +884,103 @@ translate turkish sm1mv01s02_later_e70966a0:
 translate turkish sm1mv01s02_later_d3f5af31:
 
     # mc "What do you say, Kanya?"
-    mc "What do you say, Kanya?"
+    mc "Ne dersin, Kanya?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:459
 translate turkish sm1mv01s02_later_ff1d6afb:
 
     # kv "You don't need me to approve this."
-    kv "You don't need me to approve this."
+    kv "Bunu onaylamama ihtiyacın yok."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:462
 translate turkish sm1mv01s02_later_e68144c3:
 
     # mc "We want it to be unified."
-    mc "We want it to be unified."
+    mc "Birleşik olmasını istiyoruz."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:465
 translate turkish sm1mv01s02_later_ea3a10e7:
 
     # sy "Yeah. One vision."
-    sy "Yeah. One vision."
+    sy "Evet. Tek bir vizyon."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:469
 translate turkish sm1mv01s02_later_ee8d15c3:
 
     # kv "I appreciate that."
-    kv "I appreciate that."
+    kv "Bunu takdir ediyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:470
 translate turkish sm1mv01s02_later_2a675638:
 
     # kv "But usually the vision of a movie is just the director's."
-    kv "But usually the vision of a movie is just the director's."
+    kv "Ama genellikle bir filmin vizyonu sadece yönetmenin dir."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:473
 translate turkish sm1mv01s02_later_66c38d3b:
 
     # mc "Well, we can do it our way."
-    mc "Well, we can do it our way."
+    mc "Eh, kendi yolumuzla yapabiliriz."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:476
 translate turkish sm1mv01s02_later_f64e9b7f:
 
     # sy "Exactly."
-    sy "Exactly."
+    sy "Kesinlikle."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:477
 translate turkish sm1mv01s02_later_a0a65616:
 
     # sy "Our money."
-    sy "Our money."
+    sy "Bizim paramız."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:479
 translate turkish sm1mv01s02_later_cd6473ea:
 
     # mc "Our movie."
-    mc "Our movie."
+    mc "Bizim filmimiz."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:482
 translate turkish sm1mv01s02_later_6bb55cd8:
 
     # kv "Okay. I don't get the good of bringing in our skeletal friend, but I am willing to see how it goes."
-    kv "Okay. I don't get the good of bringing in our skeletal friend, but I am willing to see how it goes."
+    kv "Tamam. İskelet arkadaşımızı getirmenin fay dasını anlamıyorum ama nasıl gideceğini görmek istiyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:483
 translate turkish sm1mv01s02_later_38caa5dc:
 
     # kv "I'm on board."
-    kv "I'm on board."
+    kv "Katılıyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:486
 translate turkish sm1mv01s02_later_ebe29f13:
 
     # sy "Yay! Thank you, Kanya."
-    sy "Yay! Thank you, Kanya."
+    sy "Yaşasın! Teşekkürler, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:489
 translate turkish sm1mv01s02_later_331e8617:
 
     # sy "Now that that's out of the way, what do you think of my outfit, [mcname]?"
-    sy "Now that that's out of the way, what do you think of my outfit, [mcname]?"
+    sy "Şimdi bu işi hallettiğimize göre, kıyafetim hakkında ne düşünüyorsun, [mcname]?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:495
 translate turkish sm1mv01s02_later_7bcb8b91:
 
     # mc "I think it's very hot."
-    mc "I think it's very hot."
+    mc "Bence çok seksi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:498
 translate turkish sm1mv01s02_later_4fe4d74b:
 
     # sy "Really?"
-    sy "Really?"
+    sy "Gerçekten mi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:501
 translate turkish sm1mv01s02_later_d98b0ef3:
 
     # mc "Yeah. I'd swab your deck any day."
-    mc "Yeah. I'd swab your deck any day."
+    mc "Evet. Her gün güvertendeğini temizlerim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:503
 translate turkish sm1mv01s02_later_8218548c:
@@ -992,31 +992,31 @@ translate turkish sm1mv01s02_later_8218548c:
 translate turkish sm1mv01s02_later_e1b71c15:
 
     # sy "Awesome."
-    sy "Awesome."
+    sy "Harika."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:514
 translate turkish sm1mv01s02_later_6aba708b:
 
     # sy "Now be a good boy and try on your outfit."
-    sy "Now be a good boy and try on your outfit."
+    sy "Şimdi iyi bir çocuk ol ve kıyafetini dene."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:515
 translate turkish sm1mv01s02_later_304eba17:
 
     # sy "I'll inspect Kanya's."
-    sy "I'll inspect Kanya's."
+    sy "Kanya'nınkini inceleyeceğim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:518
 translate turkish sm1mv01s02_later_64e9d282:
 
     # kv "Only inspection? {w}Boo."
-    kv "Only inspection? {w}Boo."
+    kv "Sadece muayene mi? {w}Buu."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:531
 translate turkish sm1mv01s02_later_f60e7509:
 
     # mc "How do I look?"
-    mc "How do I look?"
+    mc "Nasıl görünüyorum?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:534
 translate turkish sm1mv01s02_later_59e7b700:
@@ -1028,139 +1028,139 @@ translate turkish sm1mv01s02_later_59e7b700:
 translate turkish sm1mv01s02_later_d883f784:
 
     # kv "The clothes really {b}make{/b} the man."
-    kv "The clothes really {b}make{/b} the man."
+    kv "Kıyafetler gerçekten adamı {b}yapar{/b}."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:538
 translate turkish sm1mv01s02_later_98a85d68:
 
     # kv "Looking like that, I can almost forget that you're a hard-working horndog."
-    kv "Looking like that, I can almost forget that you're a hard-working horndog."
+    kv "Böyle görününce, sıkı çalışan bir azgın olduğunu neredeyse unutuyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:541
 translate turkish sm1mv01s02_later_dd9bfd9a:
 
     # mc "And don't you forget it."
-    mc "And don't you forget it."
+    mc "Ve bunu unutma."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:544
 translate turkish sm1mv01s02_later_87de1bac:
 
     # kv "I like that they're tight but flexible."
-    kv "I like that they're tight but flexible."
+    kv "Sıkı ama esnek olmalarını seviyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:547
 translate turkish sm1mv01s02_later_119b2dec:
 
     # sy "Do you mean you mean sexy but breathable?"
-    sy "Do you mean you mean sexy but breathable?"
+    sy "Seksi ama nefes alabilir mi demek istiyorsun?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:550
 translate turkish sm1mv01s02_later_5475a4de:
 
     # kv "You could say that."
-    kv "You could say that."
+    kv "Öyle diyebilirsin."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:553
 translate turkish sm1mv01s02_later_9fd7949f:
 
     # sy "Cool. Looks like we have everything."
-    sy "Cool. Looks like we have everything."
+    sy "Harika. Görünüşe göre her şeyimiz var."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:554
 translate turkish sm1mv01s02_later_05c53aef:
 
     # sy "Everyone get back into your normal clothes and we'll buy everything we need."
-    sy "Everyone get back into your normal clothes and we'll buy everything we need."
+    sy "Herkes normal kıyafetlerini giysin ve ihtiyacımız olan her şeyi satın alalım."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:558
 translate turkish sm1mv01s02_later_9cdb2270:
 
     # mc "Aren't you forgetting something, dear sister?"
-    mc "Aren't you forgetting something, dear sister?"
+    mc "Bir şey unutmuyor musun, sevgili kız kardeşim?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:560
 translate turkish sm1mv01s02_later_548357a2:
 
     # mc "Aren't you forgetting something, Stacy?"
-    mc "Aren't you forgetting something, Stacy?"
+    mc "Bir şey unutmuyor musun, Stacy?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:562
 translate turkish sm1mv01s02_later_652090e3:
 
     # sy "I don't think so."
-    sy "I don't think so."
+    sy "Sanmıyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:563
 translate turkish sm1mv01s02_later_e9199ac6:
 
     # mc "We haven't {b}tested{/b} the costumes for sex yet."
-    mc "We haven't {b}tested{/b} the costumes for sex yet."
+    mc "Kostümleri henüz seks için {b}test etmedik{/b}."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:566
 translate turkish sm1mv01s02_later_82a705c4:
 
     # kv "Wait. What?"
-    kv "Wait. What?"
+    kv "Bekle. Ne?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:571
 translate turkish sm1mv01s02_later_7b4d5a36:
 
     # sy "YES."
-    sy "YES."
+    sy "EVET."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:578
 translate turkish sm1mv01s02_later_3f0c4f35:
 
     # kv "Guys... this is a sex shop, not the photo dojo."
-    kv "Guys... this is a sex shop, not the photo dojo."
+    kv "Çocuklar... burası bir seks dükkanı, fotoğraf stüdyosu değil."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:579
 translate turkish sm1mv01s02_later_b069b9fb:
 
     # kv "They probably have cameras in the dressing rooms."
-    kv "They probably have cameras in the dressing rooms."
+    kv "Muhtemelen soyunma odalarında kameraları vardır."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:580
 translate turkish sm1mv01s02_later_60d467bc:
 
     # kv "And you know{w}... rules against this sort of thing."
-    kv "And you know{w}... rules against this sort of thing."
+    kv "Ve biliyorsunuz{w}... bu tür şeylere karşı kurallar var."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:584
 translate turkish sm1mv01s02_later_706d9a7c:
 
     # mc "We'll be quick. Think of it as... field testing."
-    mc "We'll be quick. Think of it as... field testing."
+    mc "Hızlı olacağız. Bunu... saha testi olarak düşün."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:587
 translate turkish sm1mv01s02_later_5ed1b1fa:
 
     # kv "Oh, good."
-    kv "Oh, good."
+    kv "Ah, güzel."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:588
 translate turkish sm1mv01s02_later_abdb19ef:
 
     # kv "It's okay, officer. It wasn't public indecency.{w} It was field testing."
-    kv "It's okay, officer. It wasn't public indecency.{w} It was field testing."
+    kv "Sorun yok, memur bey. Müstehcenlik değildi.{w} Saha testiydi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:591
 translate turkish sm1mv01s02_later_1c8ea3ba:
 
     # sy "That's a good point, Kanya."
-    sy "That's a good point, Kanya."
+    sy "Bu iyi bir nokta, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:592
 translate turkish sm1mv01s02_later_a87b0df4:
 
     # sy "But right now, you just have to ask yourself one question."
-    sy "But right now, you just have to ask yourself one question."
+    sy "Ama şu anda, sadece kendine bir soru sorman gerekiyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:593
 translate turkish sm1mv01s02_later_8b53b95d:
 
     # sy "Do you feel horny, punk?"
-    sy "Do you feel horny, punk?"
+    sy "Azgın hissediyor musun, serseri?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:595
 translate turkish sm1mv01s02_later_7f06eb4b:
@@ -1172,13 +1172,13 @@ translate turkish sm1mv01s02_later_7f06eb4b:
 translate turkish sm1mv01s02_later_5892df35:
 
     # sy "Well, do yah?"
-    sy "Well, do yah?"
+    sy "Peki, öyle mi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:599
 translate turkish sm1mv01s02_later_36b38310:
 
     # kv "You two are a bad influence."
-    kv "You two are a bad influence."
+    kv "Siz ikiniz kötü etkisiniz."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:603
 translate turkish sm1mv01s02_later_faa03e1a:
@@ -1196,55 +1196,55 @@ translate turkish sm1mv01s02_later_e99bf7e5:
 translate turkish sm1mv01s02_later_59cd2960:
 
     # sy "Well, we can already see that the pants can come off easily."
-    sy "Well, we can already see that the pants can come off easily."
+    sy "Eh, pantolonun kolayca çıkabileceğini zaten görebiliyoruz."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:614
 translate turkish sm1mv01s02_later_878c94bd:
 
     # sy "That's very useful to know."
-    sy "That's very useful to know."
+    sy "Bunu bilmek çok faydalı."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:618
 translate turkish sm1mv01s02_later_5d805495:
 
     # sy "And it doesn't seem like it restricts normal bloodflow."
-    sy "And it doesn't seem like it restricts normal bloodflow."
+    sy "Ve normal kan akışını kısıtlamıyor gibi görünüyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:619
 translate turkish sm1mv01s02_later_2b22ff9d:
 
     # sy "Very important. Wouldn't you agree, Kanya?"
-    sy "Very important. Wouldn't you agree, Kanya?"
+    sy "Çok önemli. Katılmaz mısın, Kanya?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:622
 translate turkish sm1mv01s02_later_6dec30ed:
 
     # kv "I suppose."
-    kv "I suppose."
+    kv "Sanırım."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:623
 translate turkish sm1mv01s02_later_707b01fa:
 
     # kv "But you need to go further, Stacy."
-    kv "But you need to go further, Stacy."
+    kv "Ama daha ileri gitmen gerekiyor, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:624
 translate turkish sm1mv01s02_later_c1a73d3e:
 
     # kv "Make sure you can suck cock with that hat on."
-    kv "Make sure you can suck cock with that hat on."
+    kv "O şapkayla sik emebileceğinden emin ol."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:627
 translate turkish sm1mv01s02_later_b81148b4:
 
     # sy "Smart."
-    sy "Smart."
+    sy "Akıllıca."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:628
 translate turkish sm1mv01s02_later_1244a61e:
 
     # sy "It will be hard, but I love a challenge."
-    sy "It will be hard, but I love a challenge."
+    sy "Zor olacak ama ben meydan okumayı severim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:638
 translate turkish sm1mv01s02_later_0e09b362:
