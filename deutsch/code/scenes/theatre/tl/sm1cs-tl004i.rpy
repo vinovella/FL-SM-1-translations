@@ -8,47 +8,47 @@ translate deutsch sm1cs_tl004i_a95cfbed:
 translate deutsch sm1cs_tl004i_124b3074:
 
     # tl "Oh, hey [mcname]."
-    tl "Oh, hey [mcname]."
+    tl "Oh, hallo [mcname]."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004i.rpy:9
 translate deutsch sm1cs_tl004i_8f59568d:
 
     # mc "How are you?"
-    mc "How are you?"
+    mc "Wie geht es dir?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004i.rpy:13
 translate deutsch sm1cs_tl004i_04469430:
 
     # tl "I'm... fine."
-    tl "I'm... fine."
+    tl "Mir geht es... gut."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004i.rpy:14
 translate deutsch sm1cs_tl004i_18f98479:
 
     # tl "I was wondering, you wanna go get a beer or something?"
-    tl "I was wondering, you wanna go get a beer or something?"
+    tl "Ich habe mich gefragt, ob du vielleicht ein Bier trinken gehen möchtest?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004i.rpy:16
 translate deutsch sm1cs_tl004i_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Was?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004i.rpy:20
 translate deutsch sm1cs_tl004i_65ea8c88:
 
     # tl "I'm asking a guy I work with if he wants to get a beer. What's so weird about that?"
-    tl "I'm asking a guy I work with if he wants to get a beer. What's so weird about that?"
+    tl "Ich frage einen Kollegen, ob er mit mir ein Bier trinken gehen möchte. Was ist daran so seltsam?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004i.rpy:22
 translate deutsch sm1cs_tl004i_b771d497:
 
     # mc "Uhm, nothing-"
-    mc "Uhm, nothing-"
+    mc "Ähm, nichts-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004i.rpy:26
 translate deutsch sm1cs_tl004i_318ed744:
 
     # tl "Good, then come on."
-    tl "Good, then come on."
+    tl "Gut, dann komm mit."
 
