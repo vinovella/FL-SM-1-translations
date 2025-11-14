@@ -29,7 +29,7 @@ File: Turkish/code\scenes\main_story\sm1ms025.rpy (Entire file untranslated) [11
 
 File: Turkish/code\scenes\main_story\sm1ms026.rpy (Entire file untranslated) [1215 words] (done)
 
-File: Turkish/code\scenes\main_story\sm1ms026i.rpy (Entire file untranslated) [105 words]
+File: Turkish/code\scenes\main_story\sm1ms026i.rpy (Entire file untranslated) [105 words] (done)
 
 File: Turkish/code\scenes\movies\movie01\sm1mv01s01.rpy (Entire file untranslated) [1010 words]
 
