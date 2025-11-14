@@ -2,139 +2,139 @@
 translate turkish sm1mv01s07_2_ec4b218e:
 
     # mc "*sniffs*"
-    mc "*sniffs*"
+    mc "*koklama*"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:22
 translate turkish sm1mv01s07_2_393fb688:
 
     # mc "Where did you say you got this van again?"
-    mc "Where did you say you got this van again?"
+    mc "Bu minibüsü nereden aldığını tekrar söyler misin?"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:25
 translate turkish sm1mv01s07_2_b8e3f2ff:
 
     # tl "Jugsy."
-    tl "Jugsy."
+    tl "Jugsy'den."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:26
 translate turkish sm1mv01s07_2_be670325:
 
     # tl "Why, is there a problem?"
-    tl "Why, is there a problem?"
+    tl "Neden, bir sorun mu var?"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:29
 translate turkish sm1mv01s07_2_31def221:
 
     # mc "No, so long as all of us learn how to breathe without you know... breathing."
-    mc "No, so long as all of us learn how to breathe without you know... breathing."
+    mc "Hayır, hepimiz nefes almadan nasıl nefes alacağımızı öğrendiğimiz sürece... bilirsin işte."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:34
 translate turkish sm1mv01s07_2_34915a26:
 
     # tl "Eh, you get used to it."
-    tl "Eh, you get used to it."
+    tl "Eh, alışıyorsun."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:42
 translate turkish sm1mv01s07_2_e96a4a3b:
 
     # sy "Hey you two."
-    sy "Hey you two."
+    sy "Hey ikiniz."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:43
 translate turkish sm1mv01s07_2_65ec1a19:
 
     # sy "We all set?"
-    sy "We all set?"
+    sy "Hazır mıyız?"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:48
 translate turkish sm1mv01s07_2_b88a08c4:
 
     # mc "Just about. We just need Kanya's bag."
-    mc "Just about. We just need Kanya's bag."
+    mc "Neredeyse. Sadece Kanya'nın çantasına ihtiyacımız var."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:54
 translate turkish sm1mv01s07_2_2b9051f1:
 
     # kv "Geeze."
-    kv "Geeze."
+    kv "Vay be."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:55
 translate turkish sm1mv01s07_2_1a725365:
 
     # kv "This van has \"character\"."
-    kv "This van has \"character\"."
+    kv "Bu minibüsün \"karakteri\" var."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:58
 translate turkish sm1mv01s07_2_db22e255:
 
     # tl "Don't like it, you're free to hitch."
-    tl "Don't like it, you're free to hitch."
+    tl "Beğenmiyorsan, otostop çekebilirsin."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:65
 translate turkish sm1mv01s07_2_d0872dc1:
 
     # kv "I recommend we look to save up for a company car in the future."
-    kv "I recommend we look to save up for a company car in the future."
+    kv "Gelecekte bir şirket arabası için para biriktirmeyi öneriyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:66
 translate turkish sm1mv01s07_2_82f1b33c:
 
     # kv "Cop stops us in this, and it won't matter if there is no weed in the car."
-    kv "Cop stops us in this, and it won't matter if there is no weed in the car."
+    kv "Polis bizi bununla durdurursa, arabada ot olup olmadığının önemi olmaz."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:67
 translate turkish sm1mv01s07_2_7dca9b7c:
 
     # kv "That smell means at least a stop."
-    kv "That smell means at least a stop."
+    kv "Bu koku en azından bir durdurma demek."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:70
 translate turkish sm1mv01s07_2_e86daea9:
 
     # mc "I hear you, but this was all we could get on short notice."
-    mc "I hear you, but this was all we could get on short notice."
+    mc "Seni duyuyorum, ama kısa sürede bulabildiğimiz tek şey buydu."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:71
 translate turkish sm1mv01s07_2_70358473:
 
     # mc "It's going to be fine, Kanya."
-    mc "It's going to be fine, Kanya."
+    mc "Her şey yolunda olacak, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:74
 translate turkish sm1mv01s07_2_8b1c74fa:
 
     # kv "I hope so."
-    kv "I hope so."
+    kv "Umarım öyledir."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:78
 translate turkish sm1mv01s07_2_626abf51:
 
     # tl "Come on, slowpokes. The open road beckons."
-    tl "Come on, slowpokes. The open road beckons."
+    tl "Haydi, yavaşlar. Açık yol çağırıyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:85
 translate turkish sm1mv01s07_2_dc529be2:
 
     # tl "Figure we will split the driving between us. It's six hours after all."
-    tl "Figure we will split the driving between us. It's six hours after all."
+    tl "Sürüşü aramızda böleceğiz düşünüyorum. Sonuçta altı saat."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:88
 translate turkish sm1mv01s07_2_5d8fc6e7:
 
     # mc "Good plan."
-    mc "Good plan."
+    mc "İyi plan."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:91
 translate turkish sm1mv01s07_2_ac313e1f:
 
     # tl "Buckle up, cuties. We gotta beat the morning traffic."
-    tl "Buckle up, cuties. We gotta beat the morning traffic."
+    tl "Kemerlerinizi bağlayın, tatlılarım. Sabah trafiğini yenmeliyiz."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:94
 translate turkish sm1mv01s07_2_f6fca36d:
 
     # "Vrrmmmm...."
-    "Vrrmmmm...."
+    "Vrrrmmmm...."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:99
 translate turkish sm1mv01s07_2_8b19ae40:
@@ -152,25 +152,25 @@ translate turkish sm1mv01s07_2_21e673d7:
 translate turkish sm1mv01s07_2_b3ea9900:
 
     # mc "Taisia, remember that there is no money for the job if we wind up dead."
-    mc "Taisia, remember that there is no money for the job if we wind up dead."
+    mc "Taisia, ölürsek iş için para olmayacağını unutma."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:108
 translate turkish sm1mv01s07_2_2a75b09a:
 
     # tl "Psssh. Just drink your coffee and relax."
-    tl "Psssh. Just drink your coffee and relax."
+    tl "Psssh. Sadece kahveni iç ve rahatla."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:109
 translate turkish sm1mv01s07_2_f740c315:
 
     # tl "I know these roads like the shape of my nipples."
-    tl "I know these roads like the shape of my nipples."
+    tl "Bu yolları meme uçlarımın şekli gibi biliyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:112
 translate turkish sm1mv01s07_2_9e578b91:
 
     # kv "We are so dead."
-    kv "We are so dead."
+    kv "Öldük biz."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:133
 translate turkish sm1mv01s07_2_d3168d38:
