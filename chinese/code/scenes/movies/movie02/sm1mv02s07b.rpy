@@ -14,7 +14,7 @@ translate chinese sm1mv02s07b_f49fff8f:
 translate chinese sm1mv02s07b_f4af854b:
 
     # ns "What... what is Lyssa like?"
-    ns "莉萨…… 莉萨是个什么样的人呀？"
+    ns "丽莎...丽莎是个什么样的人呀？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:65
 translate chinese sm1mv02s07b_b2b9e19d:
@@ -68,7 +68,7 @@ translate chinese sm1mv02s07b_7e104e24:
 translate chinese sm1mv02s07b_ca95b50f:
 
     # ns "I've never met a lawyer! Or a lady who has... something extra. And I don't know how to be with her!"
-    ns "我从来没有见过律师！也从来没有见过…… 身上有特殊之处的女士。我不知道该怎么跟她相处！"
+    ns "我从来没有见过律师！也从来没有见过...身上有特殊之处的女士。我不知道该怎么跟她相处！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:87
 translate chinese sm1mv02s07b_110b2f97:
@@ -98,7 +98,7 @@ translate chinese sm1mv02s07b_8195cecf:
 translate chinese sm1mv02s07b_ba85758a:
 
     # mc "Lyssa, glad you could make it!"
-    mc "莉萨，你能来真好！"
+    mc "丽莎，你能来真好！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:98
 translate chinese sm1mv02s07b_808ba784:
@@ -110,13 +110,13 @@ translate chinese sm1mv02s07b_808ba784:
 translate chinese sm1mv02s07b_810bc393:
 
     # mc "Oh, Nari! Meet Miss Lyssa Harris. Lyssa, this is Nari Song."
-    mc "哦，娜丽！快过来认识一下莉萨・哈里斯小姐。莉萨，这位是宋娜丽。"
+    mc "哦，娜丽！快过来认识一下丽莎・哈里斯小姐。丽莎，这位是宋娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:107
 translate chinese sm1mv02s07b_bd259061:
 
     # mh "Please, Lyssa is fine by me."
-    mh "别这么客气，叫我莉萨就好。"
+    mh "别这么客气，叫我丽莎就好。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:111
 translate chinese sm1mv02s07b_4a9155b0:
@@ -128,7 +128,7 @@ translate chinese sm1mv02s07b_4a9155b0:
 translate chinese sm1mv02s07b_73edeb06:
 
     # ns "It's so great to meet you, Lyssa."
-    ns "莉萨，很高兴认识你。"
+    ns "丽莎，很高兴认识你。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:114
 translate chinese sm1mv02s07b_5b6679a6:
@@ -326,7 +326,7 @@ translate chinese sm1mv02s07b_1c7deb2a:
 translate chinese sm1mv02s07b_19eb95eb:
 
     # ns "Ah, well... I am not sure what to do in this setting. Is [mcname] supposed to order us fizzy drinks, or are we meant to pamper him?"
-    ns "啊，那个…… 我不太清楚在这种场合该做什么。是该让[mcname]给我们点气泡饮料，还是我们应该好好照顾他呢？"
+    ns "啊，那个...我不太清楚在这种场合该做什么。是该让[mcname]给我们点气泡饮料，还是我们应该好好照顾他呢？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:208
 translate chinese sm1mv02s07b_bf0289a6:
@@ -344,7 +344,7 @@ translate chinese sm1mv02s07b_46dbcf98:
 translate chinese sm1mv02s07b_dca8de50:
 
     # ns "Yes... Or at least, it would make these things easier! I need... what did [mcname] say?...{w} \"Discipline and punishment\"."
-    ns "是的…… 或者说，至少有规则手册会让这些事情变得更简单！我需要...[mcname]是怎么说的来着？{w}\"规矩与惩罚\"。"
+    ns "是的...或者说，至少有规则手册会让这些事情变得更简单！我需要...[mcname]是怎么说的来着？{w}\"规矩与惩罚\"。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:220
 translate chinese sm1mv02s07b_b3fce145:
@@ -374,7 +374,7 @@ translate chinese sm1mv02s07b_5dcb4385:
 translate chinese sm1mv02s07b_e001184a:
 
     # ns "So, uh... Lyssa, what was it like to, erm, transition?"
-    ns "所以，呃…… 莉萨，那个…… 你经历变性的时候，是什么感觉呀？"
+    ns "所以，呃...丽莎，那个...你经历变性的时候，是什么感觉呀？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:235
 translate chinese sm1mv02s07b_84470fed:
@@ -386,7 +386,7 @@ translate chinese sm1mv02s07b_84470fed:
 translate chinese sm1mv02s07b_1324af8d:
 
     # mh "Maybe when we get to know each other better... we can talk about it more."
-    mh "也许等我们彼此更熟悉之后……我们可以多聊聊这个。"
+    mh "也许等我们彼此更熟悉之后...我们可以多聊聊这个。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:237
 translate chinese sm1mv02s07b_6ed02572:
@@ -416,13 +416,13 @@ translate chinese sm1mv02s07b_7396543f:
 translate chinese sm1mv02s07b_654c1406:
 
     # ns "So, [mcname], I have to wonder if you're as {i}familiar{/i} with Lyssa as you are with me. Is she as good at giving head as I am, for example?"
-    ns "对了[mcname]，我很好奇，你对莉萨是不是也像对我一样{i}熟悉{/i}。比如说，她口交的技术有我好吗？"
+    ns "对了[mcname]，我很好奇，你对丽莎是不是也像对我一样{i}熟悉{/i}。比如说，她口交的技术有我好吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:252
 translate chinese sm1mv02s07b_3ecc5ecb:
 
     # mh "Mmmm. How bold of you, Nari."
-    mh "嗯……你还真是大胆啊，娜丽。"
+    mh "嗯...你还真是大胆啊，娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:253
 translate chinese sm1mv02s07b_d1a971d2:
@@ -434,7 +434,7 @@ translate chinese sm1mv02s07b_d1a971d2:
 translate chinese sm1mv02s07b_b7a0d8fc:
 
     # mc "Uhhhhhhhhh."
-    mc "呃呃呃……"
+    mc "呃呃呃..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:258
 translate chinese sm1mv02s07b_c62c543c:
@@ -464,7 +464,7 @@ translate chinese sm1mv02s07b_01af4155:
 translate chinese sm1mv02s07b_5890065b:
 
     # ns "Ooooh, that's a great point! It looks like we have some privacy here... and I'd be super happy to show, instead of tell. What do you think about that, Lyssa?"
-    ns "喔，说得好！看来这个问题挺私密的……我更乐意用行动而不是言语来展示。你觉得呢，丽莎？"
+    ns "喔，说得好！看来这个问题挺私密的...我更乐意用行动而不是言语来展示。你觉得呢，丽莎？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:269
 translate chinese sm1mv02s07b_07908b36:
@@ -500,7 +500,7 @@ translate chinese sm1mv02s07b_cc0484d9:
 translate chinese sm1mv02s07b_264e6e16:
 
     # mh "Oooh, so... mmf... So you're new to Crowning, then? I guess adjusting to our way of life must have been kind of challenging."
-    mh "喔，所以……嗯……你刚来皇冠镇不久？想必适应我们这里的生活方式挺有挑战性的吧。"
+    mh "喔，所以...嗯...你刚来皇冠镇不久？想必适应我们这里的生活方式挺有挑战性的吧。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:290
 translate chinese sm1mv02s07b_5014a9e3:
@@ -512,13 +512,13 @@ translate chinese sm1mv02s07b_5014a9e3:
 translate chinese sm1mv02s07b_d6fc6c13:
 
     # ns "Mmmn, your hands are so soft! Yeah, the uh... the housing market was kind of rough, as a foreigner. Lots of places wouldn't talk to me, or they thought I was pranking them, and it was super frustrating."
-    ns "嗯……你的手真软！是啊，作为外国人……租房确实不太容易。很多地方不愿跟我谈，或者以为我在恶作剧，这点还是很让人沮丧的。"
+    ns "嗯...你的手真软！是啊，作为外国人...租房确实不太容易。很多地方不愿跟我谈，或者以为我在恶作剧，这点还是很让人沮丧的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:294
 translate chinese sm1mv02s07b_9881a44a:
 
     # ns "Thankfully, [mcname] brought me in and I'm living at his st- nnnnh... st-studio."
-    ns "幸好[mcname]收留了我，我现在住在他的工--嗯嗯…工-工作室。"
+    ns "幸好[mcname]收留了我，我现在住在他的工--嗯嗯...工-工作室。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:297
 translate chinese sm1mv02s07b_22d5ee05:
@@ -536,7 +536,7 @@ translate chinese sm1mv02s07b_177e5aea:
 translate chinese sm1mv02s07b_6a69ad3f:
 
     # ns "He- NGH! He is always saying nice things about me, but I don- Nnnngh, Lyssa your hand is good. I don't know about being special. We just have a lot of fun together, you know?"
-    ns "他--呃啊！他总是夸我，但我不--嗯……丽莎你的手真厉害。我不觉得自己特别。我们只是在一起很开心，你明白吗？"
+    ns "他--呃啊！他总是夸我，但我不--嗯...丽莎你的手真厉害。我不觉得自己特别。我们只是在一起很开心，你明白吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:305
 translate chinese sm1mv02s07b_31a3153f:
@@ -566,7 +566,7 @@ translate chinese sm1mv02s07b_3c1d5e8d:
 translate chinese sm1mv02s07b_e5056a47:
 
     # ns "*light moaning* Lyssa - this feels... can I?"
-    ns "*轻声呻吟* 丽莎--这样……我可以继续吗？"
+    ns "*轻声呻吟* 丽莎--这样...我可以继续吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:318
 translate chinese sm1mv02s07b_9339daec:
@@ -620,7 +620,7 @@ translate chinese sm1mv02s07b_7fd2541e:
 translate chinese sm1mv02s07b_6e56eb47:
 
     # mc "Damn... this is hot."
-    mc "该死……这也太要命了。"
+    mc "该死...这也太要命了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:348
 translate chinese sm1mv02s07b_26e245f5:
@@ -722,7 +722,7 @@ translate chinese sm1mv02s07b_748bddc6:
 translate chinese sm1mv02s07b_b39b842d:
 
     # mc "The perfect speed, the perfect grip... God, that feels good!"
-    mc "这速度恰到好处，力道也完美……天哪，太舒服了！"
+    mc "这速度恰到好处，力道也完美...天哪，太舒服了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:396
 translate chinese sm1mv02s07b_a4a4a1a3:
@@ -734,7 +734,7 @@ translate chinese sm1mv02s07b_a4a4a1a3:
 translate chinese sm1mv02s07b_5e0e05f7:
 
     # mh "Mmmmm... it looks like I have some serious competition, [mcname]!"
-    mh "哼……看来我遇到了强劲的对手啊，[mcname]！"
+    mh "哼...看来我遇到了强劲的对手啊，[mcname]！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:400
 translate chinese sm1mv02s07b_cce4fbce:
@@ -752,7 +752,7 @@ translate chinese sm1mv02s07b_02eb86b6:
 translate chinese sm1mv02s07b_354ccc39:
 
     # mh "But we can't cum yet. She deserves... Nraah... some repayment."
-    mh "但我们还不能射。她值得……嗯啊……得到些回报。"
+    mh "但我们还不能射。她值得...嗯啊...得到些回报。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:405
 translate chinese sm1mv02s07b_14353591:
@@ -764,7 +764,7 @@ translate chinese sm1mv02s07b_14353591:
 translate chinese sm1mv02s07b_21a7e8b4:
 
     # ns "Mmmmmmmslllrrrrrppp!!!"
-    ns "嗯嗯……嘶溜嘶溜!!!"
+    ns "嗯嗯...嘶溜嘶溜!!!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:409
 translate chinese sm1mv02s07b_96938482:
@@ -782,7 +782,7 @@ translate chinese sm1mv02s07b_285d61f0:
 translate chinese sm1mv02s07b_49b27afc:
 
     # mh "Mmmmm, yesss, Nari... just like that..."
-    mh "嗯嗯嗯，啊……娜莉...就这么弄..."
+    mh "嗯嗯嗯，啊...娜莉...就这么弄..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:414
 translate chinese sm1mv02s07b_917280ef:
@@ -812,7 +812,7 @@ translate chinese sm1mv02s07b_ba2169e9:
 translate chinese sm1mv02s07b_12882903:
 
     # ns "Shlllllrrrrrrppppp!"
-    ns "啧啧啧……嘶溜嘶溜！"
+    ns "啧啧啧...嘶溜嘶溜！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:433
 translate chinese sm1mv02s07b_0b393625:
@@ -878,523 +878,523 @@ translate chinese sm1mv02s07b_e6ede00a:
 translate chinese sm1mv02s07b_3e71928e:
 
     # mh "Mmmmm, exactly how I want it."
-    mh "嗯哈哈……正合我意。"
+    mh "嗯哈哈...正合我意。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:468
 translate chinese sm1mv02s07b_0a8d521f:
 
     # ns "Oh, Lyssa!"
-    ns "Oh, Lyssa!"
+    ns "哦，丽莎！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:469
 translate chinese sm1mv02s07b_3db81250:
 
     # ns "Oh, your cock is inside me! Oh!"
-    ns "Oh, your cock is inside me! Oh!"
+    ns "哦，你的肉棒进来了！噢！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:470
 translate chinese sm1mv02s07b_d42782eb:
 
     # mh "Are you okay, nari?"
-    mh "Are you okay, nari?"
+    mh "你还好吗，娜丽？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:473
 translate chinese sm1mv02s07b_fb4b0bf5:
 
     # ns "Oh, more than okay! This feels wonderful!"
-    ns "Oh, more than okay! This feels wonderful!"
+    ns "哈，何止是好！简直是美到不行！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:474
 translate chinese sm1mv02s07b_04c43cc7:
 
     # ns "Oh, your cock feels ah-maz-zing, Lyssa!"
-    ns "Oh, your cock feels ah-maz-zing, Lyssa!"
+    ns "丽莎，你的肉棒感觉好...舒...服...！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:477
 translate chinese sm1mv02s07b_72de4732:
 
     # mh "And I can say the same for your pussy, Nari, mmmmm!"
-    mh "And I can say the same for your pussy, Nari, mmmmm!"
+    mh "我也要说你的小穴同样令人沉醉，娜丽，嗯嗯嗯！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:478
 translate chinese sm1mv02s07b_df5d5f88:
 
     # mc "Oh fuck, Lyssa!"
-    mc "Oh fuck, Lyssa!"
+    mc "我操，丽莎！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:479
 translate chinese sm1mv02s07b_62e47e9e:
 
     # ns "Are you enjoying this as much as I am, [mcname]!?"
-    ns "Are you enjoying this as much as I am, [mcname]!?"
+    ns "你和我一样享受吗，[mcname]!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:482
 translate chinese sm1mv02s07b_2618d6b9:
 
     # mc "Oh fuck yeah! God, Lyssa's ass is so tight!"
-    mc "Oh fuck yeah! God, Lyssa's ass is so tight!"
+    mc "靠那是当然！天哪，丽莎的屁股真紧！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:483
 translate chinese sm1mv02s07b_dc671b5d:
 
     # mh "Mmmmm, damn right it is!"
-    mh "Mmmmm, damn right it is!"
+    mh "嗯嗯嗯...说得太对了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:484
 translate chinese sm1mv02s07b_f33970fc:
 
     # mh "And the same should be said for you, Nari. Your pussy... mmmmmmm!"
-    mh "And the same should be said for you, Nari. Your pussy... mmmmmmm!"
+    mh "你也同样如此，娜丽。你的小穴...嗯啊啊啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:487
 translate chinese sm1mv02s07b_b858cc10:
 
     # ns "Good! I am happy that my pussy pleases you Lyssa!"
-    ns "Good! I am happy that my pussy pleases you Lyssa!"
+    ns "太好了！很高兴我的小穴能取悦你，丽莎！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:488
 translate chinese sm1mv02s07b_fd702b3e:
 
     # ns "Mnnnnngggg! It feels - Goooooood! So, so, so, so, goooooood!"
-    ns "Mnnnnngggg! It feels - Goooooood! So, so, so, so, goooooood!"
+    ns "嗯嗯嗯嗯嗯！这感觉--太、棒、了！真的，非常，极致地爽--啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:491
 translate chinese sm1mv02s07b_aa829e71:
 
     # ns "The feeling of your cock thrusting into me is incredible!"
-    ns "The feeling of your cock thrusting into me is incredible!"
+    ns "好喜欢你的肉棒顶进我身体的感觉！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:492
 translate chinese sm1mv02s07b_357cf445:
 
     # mc "I can feel her fucking you, and it feels amazing!"
-    mc "I can feel her fucking you, and it feels amazing!"
+    mc "我能感受到她在操你，真的好神奇！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:493
 translate chinese sm1mv02s07b_01802b22:
 
     # mh "And I am definitely - mmmmmm - the lucky one here!"
-    mh "And I am definitely - mmmmmm - the lucky one here!"
+    mh "而我绝对是--嗯嗯嗯--这里最幸运的人！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:496
 translate chinese sm1mv02s07b_ad9b4b88:
 
     # mc "Can't we - fuck - all be lucky?"
-    mc "Can't we - fuck - all be lucky?"
+    mc "我们不能--操--都成为幸运儿吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:497
 translate chinese sm1mv02s07b_97e623dd:
 
     # ns "I feel like the luckiest girl on the whole planet!"
-    ns "I feel like the luckiest girl on the whole planet!"
+    ns "我感觉自己是全世界最幸运的女孩！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:498
 translate chinese sm1mv02s07b_5b9ec15c:
 
     # ns "Two awesome dicks, all for me!"
-    ns "Two awesome dicks, all for me!"
+    ns "两根这么美味的肉棒，全都属于我！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:501
 translate chinese sm1mv02s07b_05e0ad91:
 
     # ns "Mmmrrrrnnnggg - maybe not just for me, but it feels so incredible!"
-    ns "Mmmrrrrnnnggg - maybe not just for me, but it feels so incredible!"
+    ns "嗯嗯嗯嗯嗯...或许不全是我的，但这感觉简直要升天了！！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:502
 translate chinese sm1mv02s07b_8da4d0a5:
 
     # mh "Oh, fuck - mmmmmmm!"
-    mh "Oh, fuck - mmmmmmm!"
+    mh "我操--呃啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:503
 translate chinese sm1mv02s07b_db04442b:
 
     # mc "Ouuuaaaahhhh - God yes!"
-    mc "Ouuuaaaahhhh - God yes!"
+    mc "哇啊啊啊--爽死了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:506
 translate chinese sm1mv02s07b_20d08801:
 
     # ns "I can feel myself -mrrrrrrgggg- getting - nggggggh - close!"
-    ns "I can feel myself -mrrrrrrgggg- getting - nggggggh - close!"
+    ns "我能感觉到自己--嗯嗯嗯嗯...快要--嗯嗯嗯--到了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:507
 translate chinese sm1mv02s07b_adc9a6c1:
 
     # mh "Mmmmmm, then you can cum, Nari."
-    mh "Mmmmmm, then you can cum, Nari."
+    mh "嗯嗯...那你就释放出来吧，娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:508
 translate chinese sm1mv02s07b_f66f08ec:
 
     # ns "Oh, oh-!"
-    ns "Oh, oh-!"
+    ns "哦，哦--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:514
 translate chinese sm1mv02s07b_c4c4215a:
 
     # ns "Oh, I'm orgasming! Oh - oh, I'm cumming!"
-    ns "Oh, I'm orgasming! Oh - oh, I'm cumming!"
+    ns "哦，我--要高潮了！哦--哦，我来了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:516
 translate chinese sm1mv02s07b_c0dbf08e:
 
     # mh "Good girl."
-    mh "Good girl."
+    mh "好姑娘。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:519
 translate chinese sm1mv02s07b_47d83484:
 
     # ns "Ohhhhhhhh-!"
-    ns "Ohhhhhhhh-!"
+    ns "哦啊啊啊啊啊--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:522
 translate chinese sm1mv02s07b_edab243c:
 
     # mc "Wow, she came super hard."
-    mc "Wow, she came super hard."
+    mc "喔，她可真猛啊。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:526
 translate chinese sm1mv02s07b_a96b4b27:
 
     # mh "Mmmm, goood."
-    mh "Mmmm, goood."
+    mh "嗯~真不错。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:530
 translate chinese sm1mv02s07b_8339d183:
 
     # mh "But it looks like you haven't cum yet, [mcname]."
-    mh "But it looks like you haven't cum yet, [mcname]."
+    mh "但好像你还没射呢，[mcname]。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:533
 translate chinese sm1mv02s07b_ddcf1e52:
 
     # mc "Neither have you."
-    mc "Neither have you."
+    mc "你也还没啊。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:535
 translate chinese sm1mv02s07b_2dec6e8a:
 
     # mh "Can't have that can we?"
-    mh "Can't have that can we?"
+    mh "我们可不能这样对吧？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:538
 translate chinese sm1mv02s07b_02a70465:
 
     # mh "Nari... Do you think you could massage my cock with your mouth a little more?"
-    mh "Nari... Do you think you could massage my cock with your mouth a little more?"
+    mh "娜丽...你愿意用嘴再伺候一会儿我的家伙吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:539
 translate chinese sm1mv02s07b_778c91ba:
 
     # ns "Yes, Lyssa!"
-    ns "Yes, Lyssa!"
+    ns "愿意，丽莎！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:541
 translate chinese sm1mv02s07b_d2dcc8a5:
 
     # mc "And I'll have some fun back here."
-    mc "And I'll have some fun back here."
+    mc "我会在你后面找点乐子。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:545
 translate chinese sm1mv02s07b_6dd6e6a2:
 
     # mh "Yes, dear."
-    mh "Yes, dear."
+    mh "好啊，亲爱的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:549
 translate chinese sm1mv02s07b_457a4bb1:
 
     # mh "Mmmm, ready for a face fuck, Nari?"
-    mh "Mmmm, ready for a face fuck, Nari?"
+    mh "嗯...准备好接受深喉了吗，娜丽？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:552
 translate chinese sm1mv02s07b_817806a6:
 
     # ns "I can't wait."
-    ns "I can't wait."
+    ns "已经等不及了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:560
 translate chinese sm1mv02s07b_79bbd417:
 
     # ns "Mrrrnnnggg! Slllrrrrp! Gllllck!"
-    ns "Mrrrnnnggg! Slllrrrrp! Gllllck!"
+    ns "嗯嗯嗯嗯！啧啧啧！咕噗咕噗！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:561
 translate chinese sm1mv02s07b_6e030d29:
 
     # mh "Oh - mmmmmm - this is even better than before, mmmmmm!"
-    mh "Oh - mmmmmm - this is even better than before, mmmmmm!"
+    mh "哦--哼嗯嗯嗯...这比刚才还要舒服，嗯啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:564
 translate chinese sm1mv02s07b_e8de04a2:
 
     # mc "Fuck, I can feel her pussy sucking me in!"
-    mc "Fuck, I can feel her pussy sucking me in!"
+    mc "操，我能感觉到她的小穴在吸我！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:565
 translate chinese sm1mv02s07b_b95e3e8e:
 
     # mh "Mmmmm - her mouth is doing the same!"
-    mh "Mmmmm - her mouth is doing the same!"
+    mh "嗯啊啊--她的小嘴同样也没闲着！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:568
 translate chinese sm1mv02s07b_826b5d81:
 
     # mh "Her cock sucking is divine!"
-    mh "Her cock sucking is divine!"
+    mh "她吃鸡巴的功夫简直神乎其神！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:569
 translate chinese sm1mv02s07b_bbe3c8a4:
 
     # ns "Mrrrnnnng! Glllllck, gllllllck!"
-    ns "Mrrrnnnng! Glllllck, gllllllck!"
+    ns "嗯嗯嗯嗯！咕咕，咕噗噗！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:572
 translate chinese sm1mv02s07b_e6c21f95:
 
     # mc "Nggggg - I don't know how long I'm going to last!"
-    mc "Nggggg - I don't know how long I'm going to last!"
+    mc "嗯嗯嗯--我不知道我还能坚持多久！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:573
 translate chinese sm1mv02s07b_cc0ca368:
 
     # mh "I can't tell which is better.{w} Her lips or her pussy."
-    mh "I can't tell which is better.{w} Her lips or her pussy."
+    mh "我分不清哪个更舒服。{w}是她的嘴唇，还是她的小穴。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:576
 translate chinese sm1mv02s07b_5e9480ea:
 
     # mh "Mmmmmmm - God, just like that..."
-    mh "Mmmmmmm - God, just like that..."
+    mh "嗯啊啊啊啊--天哪，就是这样..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:577
 translate chinese sm1mv02s07b_dcc38882:
 
     # ns "Gllllck, slrrrrrrrrrrpppp!"
-    ns "Gllllck, slrrrrrrrrrrpppp!"
+    ns "咕噗噗，嘶溜嘶溜！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:578
 translate chinese sm1mv02s07b_13a63e0c:
 
     # mc "Oh, Nari!"
-    mc "Oh, Nari!"
+    mc "哦，娜丽！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:582
 translate chinese sm1mv02s07b_5d4ad848:
 
     # mc "Nnnggggghhhhh!"
-    mc "Nnnggggghhhhh!"
+    mc "嗯嗯嗯嗯啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:583
 translate chinese sm1mv02s07b_31de929e:
 
     # mh "Yessss, mmmmmmm!"
-    mh "Yessss, mmmmmmm!"
+    mh "太棒了，啊啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:584
 translate chinese sm1mv02s07b_e1d04b5f:
 
     # mh "*panting*"
-    mh "*panting*"
+    mh "*喘息*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:587
 translate chinese sm1mv02s07b_642dfd16:
 
     # mc "Oh fuck, I'm getting close!"
-    mc "Oh fuck, I'm getting close!"
+    mc "哦操，我快要到了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:588
 translate chinese sm1mv02s07b_c4e6fc38:
 
     # ns "Gllllck, gllllck, gllllllllck!!!"
-    ns "Gllllck, gllllck, gllllllllck!!!"
+    ns "咕咕咕，咕噗咕噗，咕呜咕呜!!!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:589
 translate chinese sm1mv02s07b_68269260:
 
     # mh "Me too!"
-    mh "Me too!"
+    mh "我也是！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:594
 translate chinese sm1mv02s07b_b15a7de1:
 
     # ns "Glck, glck, glck, glllck, gllllckkkk!"
-    ns "Glck, glck, glck, glllck, gllllckkkk!"
+    ns "唔唔唔--咕噗咕噗，噶--咳！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:595
 translate chinese sm1mv02s07b_fb16887d:
 
     # mh "Nari, I'm about to-"
-    mh "Nari, I'm about to-"
+    mh "娜丽，我快要--"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:610
 translate chinese sm1mv02s07b_watersports_242a1aa1:
 
     # mh "Cuuummmmm!"
-    mh "Cuuummmmm!"
+    mh "射了啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:618
 translate chinese sm1mv02s07b_watersports_383d7f94:
 
     # mh "Every drop... just like a good girl."
-    mh "Every drop... just like a good girl."
+    mh "一滴不剩...真是个好姑娘。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:619
 translate chinese sm1mv02s07b_watersports_2dbf2dea:
 
     # mh "Mmmm."
-    mh "Mmmm."
+    mh "嗯..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:620
 translate chinese sm1mv02s07b_watersports_2ebf4383:
 
     # mh "I hate to cum and go, but I just realized I have to use the ladies room."
-    mh "I hate to cum and go, but I just realized I have to use the ladies room."
+    mh "我也不想完事就走，但我刚想起来得去趟洗手间。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:623
 translate chinese sm1mv02s07b_watersports_79cc9c69:
 
     # mc "Nnngggggggg-"
-    mc "Nnngggggggg-"
+    mc "嗯嗯嗯嗯嗯--"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:625
 translate chinese sm1mv02s07b_watersports_51c72c64:
 
     # ns "Lyssa, if you want... you could... uhm..."
-    ns "Lyssa, if you want... you could... uhm..."
+    ns "丽莎，如果你想的话...可以...呃..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:628
 translate chinese sm1mv02s07b_watersports_e520d982:
 
     # mh "I could what?"
-    mh "I could what?"
+    mh "我可以怎样？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:632
 translate chinese sm1mv02s07b_watersports_2b3d8ac8:
 
     # ns "You could relieve yourself on me, Lyssa."
-    ns "You could relieve yourself on me, Lyssa."
+    ns "你可以尿在我身上，丽莎。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:633
 translate chinese sm1mv02s07b_watersports_8a560182:
 
     # ns "I think it would be wonderful if you did."
-    ns "I think it would be wonderful if you did."
+    ns "你愿意的话，那真是再好不过了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:636
 translate chinese sm1mv02s07b_watersports_d39a631d:
 
     # mh "How can I deny such a good girl a delicious request?"
-    mh "How can I deny such a good girl a delicious request?"
+    mh "我怎么能拒绝好姑娘这么诱人的请求呢？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:642
 translate chinese sm1mv02s07b_watersports_91c4213b:
 
     # mh "Oh Gooood, I didn't realize how bad I needed to go..."
-    mh "Oh Gooood, I didn't realize how bad I needed to go..."
+    mh "哦天~哪，我都没意识到我憋得这么难受..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:643
 translate chinese sm1mv02s07b_watersports_f4178353:
 
     # ns "Oh, it's so warm, Lyssa! Ohhh!"
-    ns "Oh, it's so warm, Lyssa! Ohhh!"
+    ns "哦，好暖啊，丽莎！哦啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:644
 translate chinese sm1mv02s07b_watersports_ddd533de:
 
     # mc "Ngggggg!"
-    mc "Ngggggg!"
+    mc "嗯嗯嗯嗯！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:647
 translate chinese sm1mv02s07b_watersports_991b61c7:
 
     # ns "Oh, it feels - oh, Lyssa! [mcname]!"
-    ns "Oh, it feels - oh, Lyssa! [mcname]!"
+    ns "哦，这感觉--哦，丽莎！[mcname]！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:648
 translate chinese sm1mv02s07b_watersports_66a445e9:
 
     # mc "Oh God, I'm so close-!"
-    mc "Oh God, I'm so close-!"
+    mc "哦天哪，我要来了--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:649
 translate chinese sm1mv02s07b_watersports_df533afa:
 
     # mh "Mmmmrmmmmm!"
-    mh "Mmmmrmmmmm!"
+    mh "嗯嗯嗯嗯嗯！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:652
 translate chinese sm1mv02s07b_watersports_be5a7c1b:
 
     # ns "I can feel - yessss - I'm going to, I'm going to-"
-    ns "I can feel - yessss - I'm going to, I'm going to-"
+    ns "我能感觉到--啊啊啊--我要，我要--"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:653
 translate chinese sm1mv02s07b_watersports_fc992a00:
 
     # mc "Oh, me too-"
-    mc "Oh, me too-"
+    mc "哦，我也--"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:654
 translate chinese sm1mv02s07b_watersports_d90763de:
 
     # mh "Ahhhhhhhhh!"
-    mh "Ahhhhhhhhh!"
+    mh "啊啊啊啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:657
 translate chinese sm1mv02s07b_watersports_b5cb9030:
 
     # ns "Oh, oh, oh, oh! I'm cumming! Oh, I'm cumming!"
-    ns "Oh, oh, oh, oh! I'm cumming! Oh, I'm cumming!"
+    ns "哦，哦，哦，哦！我要来了！哦，我来了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:658
 translate chinese sm1mv02s07b_watersports_0c26425b:
 
     # mc "Oh shiiiit!"
-    mc "Oh shiiiit!"
+    mc "靠靠靠！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:668
 translate chinese sm1mv02s07b_watersports_756cde06:
 
     # mc "Nari!"
-    mc "Nari!"
+    mc "娜丽！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:671
 translate chinese sm1mv02s07b_watersports_b03273ab:
 
     # ns "Oh, oh, OH!"
-    ns "Oh, oh, OH!"
+    ns "哦，哦，哦！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:679
 translate chinese sm1mv02s07b_watersports_4c89d439:
 
     # ns "Oh myyyyyy!"
-    ns "Oh myyyyyy!"
+    ns "哦我的天--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:681
 translate chinese sm1mv02s07b_watersports_c0dab57e:
 
     # mc "Damn, Nari..."
-    mc "Damn, Nari..."
+    mc "靠，娜丽..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:684
 translate chinese sm1mv02s07b_watersports_489964b7:
 
     # mh "I have the exact same sentiment."
-    mh "I have the exact same sentiment."
+    mh "我和你想的一样。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:685
 translate chinese sm1mv02s07b_watersports_0c1cc558:
 
     # mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
-    mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
+    mh "你真是个不一般的女孩，娜丽。我很高兴能与你相识。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:689
 translate chinese sm1mv02s07b_watersports_3a04ebe1:
 
     # ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
-    ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
+    ns "谢谢你，丽莎。不过，我好像把自己弄得脏兮兮的，该去洗个澡了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:690
 translate chinese sm1mv02s07b_watersports_bbbc5a5f:
@@ -1580,5 +1580,5 @@ translate chinese sm1mv02s07b_end_1e824725:
 translate chinese sm1mv02s07b_22e4a5e2:
 
     # ns "*giggles* It will be like a Nari sandwich."
-    ns "*giggles* It will be like a Nari sandwich."
+    ns "*轻笑* 这就像娜丽馅儿三明治呢。"
 
