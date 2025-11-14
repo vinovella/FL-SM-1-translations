@@ -2,97 +2,97 @@
 translate turkish sm1mv01s04_fec265b6:
 
     # mc "Finally time to build our sets."
-    mc "Finally time to build our sets."
+    mc "Sonunda setlerimizi yapma zamanı."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:15
 translate turkish sm1mv01s04_0efe99f8:
 
     # sy "Uh huh, the ship's cabin, and the ship deck."
-    sy "Uh huh, the ship's cabin, and the ship deck."
+    sy "Uh huh, geminin kamarası ve gemi güvertesi."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:17
 translate turkish sm1mv01s04_42b5351e:
 
     # mc "You think we should build both at the same time?"
-    mc "You think we should build both at the same time?"
+    mc "İkisini de aynı anda yapmamız gerektiğini mi düşünüyorsun?"
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:20
 translate turkish sm1mv01s04_6fac7ee5:
 
     # sy "I don't think we have the space for it."
-    sy "I don't think we have the space for it."
+    sy "Bunun için yerimiz olduğunu sanmıyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:23
 translate turkish sm1mv01s04_afa522e9:
 
     # sy "But, I think we build some art flats and we can put them up and take them down when we're filming the scene."
-    sy "But, I think we build some art flats and we can put them up and take them down when we're filming the scene."
+    sy "Ama bence dekor panoları yaparız ve sahneyi çekerken kurabilir ve kaldırabiliriz."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:25
 translate turkish sm1mv01s04_090cc79c:
 
     # mc "What the hell is an art flat?"
-    mc "What the hell is an art flat?"
+    mc "Dekor panosu da ne oluyor?"
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:28
 translate turkish sm1mv01s04_770a34e9:
 
     # sy "It's a fake wall. It's like the shit they use on theater stages when they need to build a room or something."
-    sy "It's a fake wall. It's like the shit they use on theater stages when they need to build a room or something."
+    sy "Sahte bir duvar. Tiyatro sahnesinde oda veya başka bir şey yapmak için kullandıkları şeyler gibi."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:30
 translate turkish sm1mv01s04_09adf1d9:
 
     # mc "Oh, okay. Yeah, art flats would be great here."
-    mc "Oh, okay. Yeah, art flats would be great here."
+    mc "Oh, tamam. Evet, dekor panoları burada harika olur."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:31
 translate turkish sm1mv01s04_78f7bb28:
 
     # mc "So which one do you think we should start with?"
-    mc "So which one do you think we should start with?"
+    mc "Peki hangisiyle başlamamız gerektiğini düşünüyorsun?"
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:34
 translate turkish sm1mv01s04_e3a58f39:
 
     # sy "I don't know."
-    sy "I don't know."
+    sy "Bilmiyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:39
 translate turkish sm1mv01s04_9eabbbba:
 
     # sy "That's why I called in an expert."
-    sy "That's why I called in an expert."
+    sy "Bu yüzden bir uzman çağırdım."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:43
 translate turkish sm1mv01s04_ffe8b8a7:
 
     # kv "'Sup, guys?"
-    kv "'Sup, guys?"
+    kv "Selam, çocuklar?"
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:45
 translate turkish sm1mv01s04_37a80f85:
 
     # mc "Kanya! Are you here to help us with the set building?"
-    mc "Kanya! Are you here to help us with the set building?"
+    mc "Kanya! Set yapımında bize yardım etmeye mi geldin?"
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:49
 translate turkish sm1mv01s04_00bdb53e:
 
     # kv "I'm here in a more... supervisory role."
-    kv "I'm here in a more... supervisory role."
+    kv "Daha çok... denetleyici bir rolde buradayım."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:50
 translate turkish sm1mv01s04_da014ccc:
 
     # kv "Make sure you guys build the sets in a way that we can work easier."
-    kv "Make sure you guys build the sets in a way that we can work easier."
+    kv "Setleri daha kolay çalışabileceğimiz şekilde yaptığınızdan emin olacağım."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:54
 translate turkish sm1mv01s04_0c41ff9a:
 
     # kv "Besides, you couldn't afford my day rate for manual labor."
-    kv "Besides, you couldn't afford my day rate for manual labor."
+    kv "Ayrıca, fiziksel iş için günlük ücretimi karşılayamazsınız."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:57
 translate turkish sm1mv01s04_dff6be8a:
