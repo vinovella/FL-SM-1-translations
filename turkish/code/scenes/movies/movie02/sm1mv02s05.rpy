@@ -860,37 +860,37 @@ translate turkish sm1mv02s05_movie_start_a607d849:
 translate turkish sm1mv02s05_movie_start_e8abc7ee:
 
     # mc "That Dickium trace is more than average. If they're leaking, they might be damaged."
-    mc "That Dickium trace is more than average. If they're leaking, they might be damaged."
+    mc "O Dickium izi ortalamanın üzerinde. Eğer sızıntı yapıyorlarsa, hasarlı olabilirler."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:591
 translate turkish sm1mv02s05_movie_start_4783da26:
 
     # mc "Commander Spectre, read through all the data of the planet again while we prepare the jump drive."
-    mc "Commander Spectre, read through all the data of the planet again while we prepare the jump drive."
+    mc "Komutan Spectre, atlama motorunu hazırlarken gezegenin tüm verilerini tekrar gözden geçir."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:594
 translate turkish sm1mv02s05_movie_start_b5d6b601:
 
     # mc "Orion, isolate any patterns to find us their most likely destination."
-    mc "Orion, isolate any patterns to find us their most likely destination."
+    mc "Orion, en olası varış noktalarını bulmak için herhangi bir kalıp belirle."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:595
 translate turkish sm1mv02s05_movie_start_b7eb9260:
 
     # mc "Lieutenant Solo."
-    mc "Lieutenant Solo."
+    mc "Teğmen Solo."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:596
 translate turkish sm1mv02s05_movie_start_7363e50f:
 
     # mc "Prepare a jump in case of trouble."
-    mc "Prepare a jump in case of trouble."
+    mc "Sorun olursa diye bir atlama hazırla."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:600
 translate turkish sm1mv02s05_movie_start_8608023f:
 
     # tl "Captain, the jump drive spools are not responding to my commands."
-    tl "Captain, the jump drive spools are not responding to my commands."
+    tl "Kaptan, atlama motoru makaraları komutlarıma cevap vermiyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:603
 translate turkish sm1mv02s05_movie_start_e526a903:
@@ -902,7 +902,7 @@ translate turkish sm1mv02s05_movie_start_e526a903:
 translate turkish sm1mv02s05_movie_start_3d2310fa:
 
     # mc "Are the reactor condensors giving us trouble again?"
-    mc "Are the reactor condensors giving us trouble again?"
+    mc "Reaktör yoğunlaştırıcıları yine sorun mu çıkarıyor?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:608
 translate turkish sm1mv02s05_movie_start_f4a58302:
