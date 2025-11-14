@@ -2,61 +2,61 @@
 translate turkish sm1ms026_055c0d28:
 
     # sy "Okay, so I've been thinking a lot about this-"
-    sy "Okay, so I've been thinking a lot about this-"
+    sy "Tamam, bu konuda çok düşündüm-"
 
 # game/code/scenes/main_story/sm1ms026.rpy:18
 translate turkish sm1ms026_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "Oh yeah?"
+    mc "Oh öyle mi?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:23
 translate turkish sm1ms026_90a280b6:
 
     # sy "Shut up, [mcname], because I'm on a roll."
-    sy "Shut up, [mcname], because I'm on a roll."
+    sy "Kapa çeneni, [mcname], çünkü harikayım."
 
 # game/code/scenes/main_story/sm1ms026.rpy:26
 translate turkish sm1ms026_8c803b57:
 
     # sy "So, before we can really get into the preproduction for the films, we need to have an idea."
-    sy "So, before we can really get into the preproduction for the films, we need to have an idea."
+    sy "Yani, filmler için ön prodüksiyona gerçekten girebilmemiz için bir fikrimiz olması gerekiyor."
 
 # game/code/scenes/main_story/sm1ms026.rpy:28
 translate turkish sm1ms026_5aa88c4b:
 
     # mc "I thought we already had an idea?"
-    mc "I thought we already had an idea?"
+    mc "Zaten bir fikrimiz olduğunu düşünmüştüm?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:32
 translate turkish sm1ms026_6d74976e:
 
     # sy "I mean, yeah, we have like a general theme, sure, but before we get too into it, I think we need to figure out the elephant in the room."
-    sy "I mean, yeah, we have like a general theme, sure, but before we get too into it, I think we need to figure out the elephant in the room."
+    sy "Yani, evet, genel bir temamız var, elbette, ama fazla derinlere dalmadan önce odadaki fili çözmemiz gerektiğini düşünüyorum."
 
 # game/code/scenes/main_story/sm1ms026.rpy:36
 translate turkish sm1ms026_0b119405:
 
     # mc "Hey! I thought I was slimming down nicely, thank you!"
-    mc "Hey! I thought I was slimming down nicely, thank you!"
+    mc "Hey! Güzelce zayıfladığımı düşünmüştüm, teşekkürler!"
 
 # game/code/scenes/main_story/sm1ms026.rpy:38
 translate turkish sm1ms026_6cce2d91:
 
     # sy "Ha, ha, Mr. Comedian - no, I'm talking about the {i}other{/i} elephant in the room."
-    sy "Ha, ha, Mr. Comedian - no, I'm talking about the {i}other{/i} elephant in the room."
+    sy "Ha, ha, Bay Komedyen - hayır, odadaki {i}diğer{/i} filden bahsediyorum."
 
 # game/code/scenes/main_story/sm1ms026.rpy:41
 translate turkish sm1ms026_d85a3ac5:
 
     # mc "Which is?"
-    mc "Which is?"
+    mc "O da nedir?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:43
 translate turkish sm1ms026_4ae96add:
 
     # sy "Who are we going to cast in our movies."
-    sy "Who are we going to cast in our movies."
+    sy "Filmlerimizde kimleri oynataacağız."
 
 # game/code/scenes/main_story/sm1ms026.rpy:47
 translate turkish sm1ms026_ce48b4af:
@@ -68,103 +68,103 @@ translate turkish sm1ms026_ce48b4af:
 translate turkish sm1ms026_62b97696:
 
     # sy "And since you're our \"talent scout\", I figured we should talk about this together."
-    sy "And since you're our \"talent scout\", I figured we should talk about this together."
+    sy "Ve sen bizim \"yetenek avcımız\" olduğuna göre, bunun hakkında birlikte konuşmamız gerektiğini düşündüm."
 
 # game/code/scenes/main_story/sm1ms026.rpy:50
 translate turkish sm1ms026_f3f23115:
 
     # mc "Right, right."
-    mc "Right, right."
+    mc "Doğru, doğru."
 
 # game/code/scenes/main_story/sm1ms026.rpy:53
 translate turkish sm1ms026_7cc854af:
 
     # sy "We should also maybe figure out if we want to do anything kinky in the movies. Because everyone has their own kinks they like."
-    sy "We should also maybe figure out if we want to do anything kinky in the movies. Because everyone has their own kinks they like."
+    sy "Ayrıca filmlerde sapkınca bir şeyler yapmak isteyip istemediğimize de karar vermeliyiz. Çünkü herkesin sevdiği kendi sapkınlıkları var."
 
 # game/code/scenes/main_story/sm1ms026.rpy:55
 translate turkish sm1ms026_62fa9484:
 
     # mc "Sure, sure."
-    mc "Sure, sure."
+    mc "Tabii, tabii."
 
 # game/code/scenes/main_story/sm1ms026.rpy:58
 translate turkish sm1ms026_75938f7b:
 
     # sy "So, which movie idea should we figure out first?"
-    sy "So, which movie idea should we figure out first?"
+    sy "Peki, hangi film fikrini önce halletmeliyiz?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:86
 translate turkish sm1ms026_2_b193da73:
 
     # sy "So, which movie do you want to figure out next?"
-    sy "So, which movie do you want to figure out next?"
+    sy "Peki, sırada hangi filmi halletmek istiyorsun?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:92
 translate turkish sm1ms026_2_c1de97ae:
 
     # mc "How about the Sci-Fi movie?"
-    mc "How about the Sci-Fi movie?"
+    mc "Bilim kurgu filmine ne dersin?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:103
 translate turkish sm1ms026_2_6fda1cf2:
 
     # mc "Let's talk about pirates now."
-    mc "Let's talk about pirates now."
+    mc "Şimdi korsanlar hakkında konuşalım."
 
 # game/code/scenes/main_story/sm1ms026.rpy:119
 translate turkish sm1ms026_movie_a835a99d:
 
     # mc "I like pirates."
-    mc "I like pirates."
+    mc "Korsanları severim."
 
 # game/code/scenes/main_story/sm1ms026.rpy:126
 translate turkish sm1ms026_movie_d1e855fe:
 
     # mc "How about the sci fi movie?"
-    mc "How about the sci fi movie?"
+    mc "Bilim kurgu filmine ne dersin?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:137
 translate turkish sm1ms026_pirates_824173ad:
 
     # sy "Hell yeah. So - pirates - hot chicks, sword fights, booty, booty, booty!"
-    sy "Hell yeah. So - pirates - hot chicks, sword fights, booty, booty, booty!"
+    sy "Lanet olsun evet. Yani - korsanlar - seksi kızlar, kılıç savaşları, ganimet, ganimet, ganimet!"
 
 # game/code/scenes/main_story/sm1ms026.rpy:139
 translate turkish sm1ms026_pirates_04bd1a43:
 
     # mc "Yeah! That all sounds great!"
-    mc "Yeah! That all sounds great!"
+    mc "Evet! Hepsi harika görünüyor!"
 
 # game/code/scenes/main_story/sm1ms026.rpy:142
 translate turkish sm1ms026_pirates_902a8562:
 
     # sy "Well, I guess the first question is, how kinky do we want to be?"
-    sy "Well, I guess the first question is, how kinky do we want to be?"
+    sy "Şey, sanırım ilk soru şu, ne kadar sapkın olmak istiyoruz?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:145
 translate turkish sm1ms026_pirates_cf04a5f0:
 
     # mc "Well, we want to probably focus on action. High-seas battles and sword fights."
-    mc "Well, we want to probably focus on action. High-seas battles and sword fights."
+    mc "Şey, muhtemelen aksiyona odaklanmak istiyoruz. Açık deniz savaşları ve kılıç dövüşleri."
 
 # game/code/scenes/main_story/sm1ms026.rpy:146
 translate turkish sm1ms026_pirates_43307cda:
 
     # mc "So the kinky stuff shouldn't be too crazy."
-    mc "So the kinky stuff shouldn't be too crazy."
+    mc "Bu yüzden sapkın şeyler çok çılgın olmamalı."
 
 # game/code/scenes/main_story/sm1ms026.rpy:148
 translate turkish sm1ms026_pirates_40ad57af:
 
     # sy "Agreed."
-    sy "Agreed."
+    sy "Katılıyorum."
 
 # game/code/scenes/main_story/sm1ms026.rpy:151
 translate turkish sm1ms026_pirates_54a6281f:
 
     # mc "What about some choking stuff?"
-    mc "What about some choking stuff?"
+    mc "Biraz boğma sahneleri olursa?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:153
 translate turkish sm1ms026_pirates_b13b386c:
@@ -176,7 +176,7 @@ translate turkish sm1ms026_pirates_b13b386c:
 translate turkish sm1ms026_pirates_96bd79f2:
 
     # mc "I mean... the pirates were into ropes and shit. I feel like they might like a little choke and stroke."
-    mc "I mean... the pirates were into ropes and shit. I feel like they might like a little choke and stroke."
+    mc "Yani... korsanlar ipler falan işine giriyordu. Sanırım biraz boğma ve okşamayı sevebilirler."
 
 # game/code/scenes/main_story/sm1ms026.rpy:160
 translate turkish sm1ms026_pirates_11455b53:
@@ -188,31 +188,31 @@ translate turkish sm1ms026_pirates_11455b53:
 translate turkish sm1ms026_pirates_e9c15fc9:
 
     # sy "That is {i}so{/i} dark, [mcname]."
-    sy "That is {i}so{/i} dark, [mcname]."
+    sy "Bu {i}çok{/i} karanlık, [mcname]."
 
 # game/code/scenes/main_story/sm1ms026.rpy:165
 translate turkish sm1ms026_pirates_71b60910:
 
     # sy "But I love it."
-    sy "But I love it."
+    sy "Ama bayıldım."
 
 # game/code/scenes/main_story/sm1ms026.rpy:166
 translate turkish sm1ms026_pirates_3c19f788:
 
     # sy "All right. Choking. Now we just need a star!"
-    sy "All right. Choking. Now we just need a star!"
+    sy "Pekala. Boğma. Şimdi sadece bir yıldıza ihtiyacımız var!"
 
 # game/code/scenes/main_story/sm1ms026.rpy:169
 translate turkish sm1ms026_pirates_2b5a1db6:
 
     # mc "Yeah... who do we know who would fit in a pirate themed porno..."
-    mc "Yeah... who do we know who would fit in a pirate themed porno..."
+    mc "Evet... korsan temalı bir pornoya kimin uyacağını biliyoruz..."
 
 # game/code/scenes/main_story/sm1ms026.rpy:173
 translate turkish sm1ms026_pirates_b923ef69:
 
     # sy "You know... I think I would look pretty hot as a pirate villain."
-    sy "You know... I think I would look pretty hot as a pirate villain."
+    sy "Biliyor musun... Sanırım korsan kötü adam olarak oldukça seksi görünürüm."
 
 # game/code/scenes/main_story/sm1ms026.rpy:175
 translate turkish sm1ms026_pirates_4f43e9fe:
