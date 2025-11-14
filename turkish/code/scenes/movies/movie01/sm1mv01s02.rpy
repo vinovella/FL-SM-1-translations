@@ -1262,25 +1262,25 @@ translate turkish sm1mv01s02_later_2474ec75:
 translate turkish sm1mv01s02_later_7a478400:
 
     # mc "Ahuah... good girl, Stacy."
-    mc "Ahuah... good girl, Stacy."
+    mc "Ahuah... aferin kızım, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:643
 translate turkish sm1mv01s02_later_13597c08:
 
     # sy "*eager sucking*"
-    sy "*eager sucking*"
+    sy "*hevesle emme*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:646
 translate turkish sm1mv01s02_later_d83ed11e:
 
     # kv "Looks the costume passes the horny test with flying colors."
-    kv "Looks the costume passes the horny test with flying colors."
+    kv "Görünüşe göre kostüm azgınlık testini başarıyla geçiyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:647
 translate turkish sm1mv01s02_later_4d2a3293:
 
     # mc "*soft moaning* And then some."
-    mc "*soft moaning* And then some."
+    mc "*hafif inleme* Ve fazlasıyla."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:650
 translate turkish sm1mv01s02_later_3e1a0f62:
@@ -1292,43 +1292,43 @@ translate turkish sm1mv01s02_later_3e1a0f62:
 translate turkish sm1mv01s02_later_bb714860:
 
     # kv "Oh we're so doomed. *chuckles*"
-    kv "Oh we're so doomed. *chuckles*"
+    kv "Ah mahvolduk. *kıkırdar*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:655
 translate turkish sm1mv01s02_later_7072cd51:
 
     # kv "Just think, soon Stacy might go full method acting as the Pirate Queen."
-    kv "Just think, soon Stacy might go full method acting as the Pirate Queen."
+    kv "Bir düşün, yakında Stacy Korsan Kraliçe olarak tam method oyunculuğa geçebilir."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:657
 translate turkish sm1mv01s02_later_9cb4a265:
 
     # kv "We'll have to watch out for that."
-    kv "We'll have to watch out for that."
+    kv "Buna dikkat etmemiz gerekecek."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:658
 translate turkish sm1mv01s02_later_673b8cbf:
 
     # mc "Haha. *moans* As long as she keeps doing what she's going, my Queen can give me any order."
-    mc "Haha. *moans* As long as she keeps doing what she's going, my Queen can give me any order."
+    mc "Haha. *inler* Yapmaya devam ettiği sürece, Kraliçem bana istediği emri verebilir."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:664
 translate turkish sm1mv01s02_later_077a6c24:
 
     # sy "*gasping* I want you to fuck me..."
-    sy "*gasping* I want you to fuck me..."
+    sy "*nefes nefese* Beni becermeni istiyorum..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:665
 translate turkish sm1mv01s02_later_24cb088c:
 
     # sy "Right inside this dressing room."
-    sy "Right inside this dressing room."
+    sy "Tam bu soyunma odasında."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:668
 translate turkish sm1mv01s02_later_8f99e740:
 
     # mc "I will, Stacy. But first, I think Kanya needs some attention."
-    mc "I will, Stacy. But first, I think Kanya needs some attention."
+    mc "Yapacağım, Stacy. Ama önce, sanırım Kanya'nın biraz ilgiye ihtiyacı var."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:678
 translate turkish sm1mv01s02_later_605948e7:
@@ -1346,19 +1346,19 @@ translate turkish sm1mv01s02_later_87acb237:
 translate turkish sm1mv01s02_later_34e12491:
 
     # kv "*moans happily*"
-    kv "*moans happily*"
+    kv "*mutlu inler*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:686
 translate turkish sm1mv01s02_later_13d0470b:
 
     # kv "Mrrr-huaaah... ouhaa fuck."
-    kv "Mrrr-huaaah... ouhaa fuck."
+    kv "Mrrr-huaaah... ouhaa lanet olsun."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:687
 translate turkish sm1mv01s02_later_0959e915:
 
     # sy "Very nice."
-    sy "Very nice."
+    sy "Çok güzel."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:690
 translate turkish sm1mv01s02_later_77031b5d:
@@ -1382,19 +1382,19 @@ translate turkish sm1mv01s02_later_ea518f4f:
 translate turkish sm1mv01s02_later_b94f56cb:
 
     # sy "Keep going, [mcname]."
-    sy "Keep going, [mcname]."
+    sy "Devam et, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:706
 translate turkish sm1mv01s02_later_76a298ea:
 
     # sy "Make her cum... right in front of me."
-    sy "Make her cum... right in front of me."
+    sy "Boşalt onu... tam önümde."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:714
 translate turkish sm1mv01s02_later_bdaede7c:
 
     # kv "*satisfied deep breathing*."
-    kv "*satisfied deep breathing*."
+    kv "*tatmin olmuş derin nefes alma*."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:721
 translate turkish sm1mv01s02_later_5c1984cd:
@@ -1406,91 +1406,91 @@ translate turkish sm1mv01s02_later_5c1984cd:
 translate turkish sm1mv01s02_later_cd7efae9:
 
     # kv "Your fingers seem extra kinky today, Captain."
-    kv "Your fingers seem extra kinky today, Captain."
+    kv "Parmakların bugün ekstra sapkın görünüyor, Kaptan."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:725
 translate turkish sm1mv01s02_later_e269fc32:
 
     # mc "Thank you, Kanya..."
-    mc "Thank you, Kanya..."
+    mc "Teşekkürler, Kanya..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:727
 translate turkish sm1mv01s02_later_d3ba89d8:
 
     # sy "Captain. The Pirate Queen needs a moment of your time..."
-    sy "Captain. The Pirate Queen needs a moment of your time..."
+    sy "Kaptan. Korsan Kraliçe'nin biraz vaktine ihtiyacı var..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:730
 translate turkish sm1mv01s02_later_b98f163a:
 
     # mc "Just as minute?"
-    mc "Just as minute?"
+    mc "Sadece bir dakika mı?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:733
 translate turkish sm1mv01s02_later_5911a183:
 
     # sy "Okay...{w} as long as it takes..."
-    sy "Okay...{w} as long as it takes..."
+    sy "Tamam...{w} ne kadar sürerse..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:734
 translate turkish sm1mv01s02_later_8d27aa77:
 
     # sy "Now please put your cock inside my cove."
-    sy "Now please put your cock inside my cove."
+    sy "Şimdi lütfen sikini koyuma sok."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:736
 translate turkish sm1mv01s02_later_42485e58:
 
     # mc "The cannon is ready, my queen."
-    mc "The cannon is ready, my queen."
+    mc "Top hazır, kraliçem."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:747
 translate turkish sm1mv01s02_later_efebd025:
 
     # sy "Oh god."
-    sy "Oh god."
+    sy "Tanrım."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:748
 translate turkish sm1mv01s02_later_72fa2eae:
 
     # mc "Heh. The Pirate Queen has a very wet weak spot."
-    mc "Heh. The Pirate Queen has a very wet weak spot."
+    mc "Heh. Korsan Kraliçe'nin çok ıslak bir zayıf noktası var."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
 translate turkish sm1mv01s02_later_063a8ccb:
 
     # sy "Shuddup... *moans wildly*"
-    sy "Shuddup... *moans wildly*"
+    sy "Kapa çeneni... *çılgınca inler*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:752
 translate turkish sm1mv01s02_later_c800bdff:
 
     # sy "*moaning* Oh, that's so good."
-    sy "*moaning* Oh, that's so good."
+    sy "*inler* Ah, bu çok iyi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:753
 translate turkish sm1mv01s02_later_547407b9:
 
     # sy "Fucking in costumes is so much fun."
-    sy "Fucking in costumes is so much fun."
+    sy "Kostümle sevişmek çok eğlenceli."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:756
 translate turkish sm1mv01s02_later_bc14aa04:
 
     # kv "It really is. I always get super horny when I'm wearing a mask."
-    kv "It really is. I always get super horny when I'm wearing a mask."
+    kv "Gerçekten öyle. Maske taktığımda her zaman çok azgın olurum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:757
 translate turkish sm1mv01s02_later_e26ef220:
 
     # kv "That... anonymity as someone you don't know fucks you..."
-    kv "That... anonymity as someone you don't know fucks you..."
+    kv "O... tanımadığın biri seni becerirken anonim olma hissi..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:758
 translate turkish sm1mv01s02_later_315b0dc3:
 
     # kv "Oh, it feels so good."
-    kv "Oh, it feels so good."
+    kv "Ah, çok iyi hissettiriyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:761
 translate turkish sm1mv01s02_later_658872c7:
@@ -1502,61 +1502,61 @@ translate turkish sm1mv01s02_later_658872c7:
 translate turkish sm1mv01s02_later_c0564d68:
 
     # mc "Reminds me of my early Fetish Locator parties."
-    mc "Reminds me of my early Fetish Locator parties."
+    mc "Bana erken dönem Fetish Locator partilerimi hatırlatıyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:766
 translate turkish sm1mv01s02_later_aba8bc8d:
 
     # mc "So fucking hot."
-    mc "So fucking hot."
+    mc "Çok ateşli."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:768
 translate turkish sm1mv01s02_later_7bf1f8b2:
 
     # sy "Muaha... fuahah... We should do a Fetish Locator Movie."
-    sy "Muaha... fuahah... We should do a Fetish Locator Movie."
+    sy "Muaha... fuahah... Bir Fetish Locator Filmi yapmalıyız."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:769
 translate turkish sm1mv01s02_later_bb9b7392:
 
     # mc "We weren't planning one already?"
-    mc "We weren't planning one already?"
+    mc "Zaten planlamıyor muyduk?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:772
 translate turkish sm1mv01s02_later_e3a58f39:
 
     # sy "I don't know."
-    sy "I don't know."
+    sy "Bilmiyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:773
 translate turkish sm1mv01s02_later_12dd17f0:
 
     # sy "I can't think anymore..."
-    sy "I can't think anymore..."
+    sy "Artık düşünemiyorum..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:776
 translate turkish sm1mv01s02_later_086e169d:
 
     # sy "Cum...{w} Cum inside of me."
-    sy "Cum...{w} Cum inside of me."
+    sy "Boşal...{w} İçime boşal."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:777
 translate turkish sm1mv01s02_later_5329efe3:
 
     # sy "Don't stain the costume."
-    sy "Don't stain the costume."
+    sy "Kostümü lekelememe."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:782
 translate turkish sm1mv01s02_later_2ede6974:
 
     # sy "Oh bro, I'm getting close!"
-    sy "Oh bro, I'm getting close!"
+    sy "Ah abi, yaklaşıyorum!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:784
 translate turkish sm1mv01s02_later_aa9328ab:
 
     # sy "Oh [mcname], I'm getting close!"
-    sy "Oh [mcname], I'm getting close!"
+    sy "Ah [mcname], yaklaşıyorum!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:785
 translate turkish sm1mv01s02_later_d55d85a8:
