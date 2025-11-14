@@ -2,43 +2,43 @@
 translate turkish sm1mv02s04_d83f64b8:
 
     # sy "Okay, it looks like Kanya emailed back to confirm that the photodojo is available."
-    sy "Okay, it looks like Kanya emailed back to confirm that the photodojo is available."
+    sy "Tamam, görünüşe göre Kanya photodojo'nun müsait olduğunu onaylamak için e-posta göndermiş."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:16
 translate turkish sm1mv02s04_1a312d94:
 
     # mc "Great. And..."
-    mc "Great. And..."
+    mc "Harika. Ve..."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:21
 translate turkish sm1mv02s04_090a4b5f:
 
     # mc "Min just replied back. She can join us this afternoon."
-    mc "Min just replied back. She can join us this afternoon."
+    mc "Min az önce cevap verdi. Bu öğleden sonra bize katılabilir."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:23
 translate turkish sm1mv02s04_d5c25d75:
 
     # mc "Lyssa just texted back. She just finished her brief so she has some time for us."
-    mc "Lyssa just texted back. She just finished her brief so she has some time for us."
+    mc "Lyssa az önce mesaj attı. Dava özetini yeni bitirmiş, bu yüzden bizim için zamanı var."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:26
 translate turkish sm1mv02s04_07d4fbb9:
 
     # sy "Excellent.{w} I'll text Taisia. You text Nari."
-    sy "Excellent.{w} I'll text Taisia. You text Nari."
+    sy "Mükemmel.{w} Ben Taisia'ya mesaj atacağım. Sen Nari'ye mesaj at."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:30
 translate turkish sm1mv02s04_9d38af69:
 
     # ns "Text me about what?"
-    ns "Text me about what?"
+    ns "Bana ne hakkında mesaj atacaksınız?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:34
 translate turkish sm1mv02s04_83936906:
 
     # mc "Hi Nari."
-    mc "Hi Nari."
+    mc "Merhaba Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:36
 translate turkish sm1mv02s04_edb68308:
@@ -50,55 +50,55 @@ translate turkish sm1mv02s04_edb68308:
 translate turkish sm1mv02s04_80522f28:
 
     # mc "I was just going to text you to see if you could come and do a table read with us."
-    mc "I was just going to text you to see if you could come and do a table read with us."
+    mc "Sana gelip bizimle masa okuması yapıp yapamayacağını görmek için mesaj atacaktım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:40
 translate turkish sm1mv02s04_a7f388c2:
 
     # ns "A table read? Is that like when people decipher the meanings of leaves in tea?"
-    ns "A table read? Is that like when people decipher the meanings of leaves in tea?"
+    ns "Masa okuması? Bu insanların çaydaki yaprakların anlamlarını çözdüğü şey gibi mi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:43
 translate turkish sm1mv02s04_7f08e5f1:
 
     # mc "Not really."
-    mc "Not really."
+    mc "Pek sayılmaz."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:44
 translate turkish sm1mv02s04_6697ed59:
 
     # mc "It's just like the first time the cast gets together and does a dry run of the script."
-    mc "It's just like the first time the cast gets together and does a dry run of the script."
+    mc "Sadece oyuncuların bir araya gelip senaryonun kuru provasını yaptığı ilk seferki gibi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:47
 translate turkish sm1mv02s04_cb027436:
 
     # sy "It's nice and simple and low pressure. But it's also a super-necessary step to make sure we find problems before we're filming a scene."
-    sy "It's nice and simple and low pressure. But it's also a super-necessary step to make sure we find problems before we're filming a scene."
+    sy "Güzel, basit ve az stresli. Ama aynı zamanda bir sahne çekmeden önce sorunları bulduğumuzdan emin olmak için son derece gerekli bir adım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:50
 translate turkish sm1mv02s04_32fc160d:
 
     # ns "Oh, it is almost like we are beta testing the script."
-    ns "Oh, it is almost like we are beta testing the script."
+    ns "Oh, neredeyse senaryoyu beta testi yapıyormuşuz gibi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:53
 translate turkish sm1mv02s04_b180829a:
 
     # mc "Bingo."
-    mc "Bingo."
+    mc "Tam isabet."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:56
 translate turkish sm1mv02s04_b3a02aa9:
 
     # ns "I... I'm not sure I'm ready for that."
-    ns "I... I'm not sure I'm ready for that."
+    ns "Ben... bunun için hazır olduğumdan emin değilim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:60
 translate turkish sm1mv02s04_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "Ha?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:63
 translate turkish sm1mv02s04_9fbc0f46:
@@ -110,139 +110,139 @@ translate turkish sm1mv02s04_9fbc0f46:
 translate turkish sm1mv02s04_33f9fbdb:
 
     # ns "I have been preparing. Looking at tutorials online on how to be a better actress."
-    ns "I have been preparing. Looking at tutorials online on how to be a better actress."
+    ns "Hazırlanıyordum. Daha iyi bir oyuncu olmak için internette öğreticilere bakıyordum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:67
 translate turkish sm1mv02s04_a4e73abf:
 
     # ns "But each time I try to do the drills they suggest, it feels like my legs are going to lock up."
-    ns "But each time I try to do the drills they suggest, it feels like my legs are going to lock up."
+    ns "Ama önerdikleri tatbikatları yapmaya her çalıştığımda, bacaklarım kilitlenecekmiş gibi hissediyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:75
 translate turkish sm1mv02s04_3adc5195:
 
     # mc "Nari, it's totally natural to be a little nervous."
-    mc "Nari, it's totally natural to be a little nervous."
+    mc "Nari, biraz gergin olmak tamamen doğal."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:76
 translate turkish sm1mv02s04_354cb17e:
 
     # mc "I was the same way when Stacy and I filmed our first scene."
-    mc "I was the same way when Stacy and I filmed our first scene."
+    mc "Stacy ve ben ilk sahnemi çektiğimizde ben de aynı şekildeyim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:77
 translate turkish sm1mv02s04_b6bb75a1:
 
     # mc "Heck I was nervous the first time we recorded ourselves having sex."
-    mc "Heck I was nervous the first time we recorded ourselves having sex."
+    mc "Hatta seks yaparken kendimizi ilk kez kaydettiğimizde gergindim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:80
 translate turkish sm1mv02s04_70eefb26:
 
     # ns "You were?"
-    ns "You were?"
+    ns "Öyle miydin?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:83
 translate turkish sm1mv02s04_7b7871f6:
 
     # mc "Yes. But it gets easier each time."
-    mc "Yes. But it gets easier each time."
+    mc "Evet. Ama her seferinde daha kolay hale geliyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:84
 translate turkish sm1mv02s04_1bac32c3:
 
     # mc "But we all have to start somewhere."
-    mc "But we all have to start somewhere."
+    mc "Ama hepimiz bir yerden başlamak zorundayız."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:87
 translate turkish sm1mv02s04_b59bcd79:
 
     # ns "Okay. Well... I guess if everyone gets nervous, this is just part of the tutorial. *giggles nervously*"
-    ns "Okay. Well... I guess if everyone gets nervous, this is just part of the tutorial. *giggles nervously*"
+    ns "Tamam. Şey... sanırım herkes gerginleşiyorsa, bu sadece öğreticinin bir parçası. *gergin bir şekilde kıkırdar*"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:92
 translate turkish sm1mv02s04_399c52a8:
 
     # mc "Nari, it's me. I'm not going to let anything happen to you."
-    mc "Nari, it's me. I'm not going to let anything happen to you."
+    mc "Nari, benim. Sana bir şey olmasına izin vermeyeceğim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:95
 translate turkish sm1mv02s04_1edca4c4:
 
     # ns "I know... but I fear my body will betray me."
-    ns "I know... but I fear my body will betray me."
+    ns "Biliyorum... ama vücudumun bana ihanet edeceğinden korkuyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:98
 translate turkish sm1mv02s04_02c08337:
 
     # mc "Don't let it. You're the one in control."
-    mc "Don't let it. You're the one in control."
+    mc "İzin verme. Kontrolü elinde tutan sensin."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:103
 translate turkish sm1mv02s04_914dbe37:
 
     # sy "Plus, we know some tricks to help with your nerves. Little breathing exercises and other things."
-    sy "Plus, we know some tricks to help with your nerves. Little breathing exercises and other things."
+    sy "Ayrıca, sinirlerini yatıştırmak için bazı püf noktaları biliyoruz. Küçük nefes egzersizleri ve diğer şeyler."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:106
 translate turkish sm1mv02s04_b6e44f57:
 
     # ns "Okay. Thanks, Stacy. I feel a little better."
-    ns "Okay. Thanks, Stacy. I feel a little better."
+    ns "Tamam. Teşekkürler, Stacy. Biraz daha iyi hissediyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:112
 translate turkish sm1mv02s04_6ec3534a:
 
     # sy "Alright, let's get a move on then."
-    sy "Alright, let's get a move on then."
+    sy "Pekala, o zaman harekete geçelim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:113
 translate turkish sm1mv02s04_da976ca0:
 
     # sy "No one else is going to run through this script for us."
-    sy "No one else is going to run through this script for us."
+    sy "Bizim için bu senaryoyu başkası gözden geçirmeyecek."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:116
 translate turkish sm1mv02s04_a921ad96:
 
     # mc "Did you get in touch with Taisia?"
-    mc "Did you get in touch with Taisia?"
+    mc "Taisia ile irtibata geçtin mi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:120
 translate turkish sm1mv02s04_17db51be:
 
     # sy "I think so. She texted back an emoji of a mouth eating something, the word 'my' and then an emoji of a clam."
-    sy "I think so. She texted back an emoji of a mouth eating something, the word 'my' and then an emoji of a clam."
+    sy "Sanırım öyle. Bir şey yiyen bir ağız emojisi, 'benim' kelimesi ve ardından bir istiridye emojisi gönderdi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:121
 translate turkish sm1mv02s04_918b04ab:
 
     # sy "But then she also sent a laughing face with a thumbs up emoji."
-    sy "But then she also sent a laughing face with a thumbs up emoji."
+    sy "Ama sonra beğeni emojisiyle birlikte gülen bir yüz de gönderdi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:124
 translate turkish sm1mv02s04_91484b69:
 
     # mc "I think in Taisia talk, that means she is in."
-    mc "I think in Taisia talk, that means she is in."
+    mc "Sanırım Taisia dilinde, bu onun kabul ettiği anlamına geliyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:127
 translate turkish sm1mv02s04_011efcc0:
 
     # sy "Yup. Even if she's not, her role is much smaller than ours."
-    sy "Yup. Even if she's not, her role is much smaller than ours."
+    sy "Evet. Olmasa bile, rolü bizimkinden çok daha küçük."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:129
 translate turkish sm1mv02s04_a574d00e:
 
     # mc "Cool. I'll order a rideshare."
-    mc "Cool. I'll order a rideshare."
+    mc "Harika. Araç paylaşım siparişi vereceğim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:133
 translate turkish sm1mv02s04_89030d48:
 
     # ns "We are actually doing {i}this{/i}."
-    ns "We are actually doing {i}this{/i}."
+    ns "Gerçekten {i}bunu{/i} yapıyoruz."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:144
 translate turkish sm1mv02s04_3e529961:
@@ -254,13 +254,13 @@ translate turkish sm1mv02s04_3e529961:
 translate turkish sm1mv02s04_113de99e:
 
     # mes "Haha. I am eager to see how impressive you can be in a role like this, [mcname]."
-    mes "Haha. I am eager to see how impressive you can be in a role like this, [mcname]."
+    mes "Haha. Böyle bir rolde ne kadar etkileyici olabileceğini görmek için sabırsızlanıyorum, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:150
 translate turkish sm1mv02s04_27699e55:
 
     # mes "And who is this?"
-    mes "And who is this?"
+    mes "Peki bu kim?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:156
 translate turkish sm1mv02s04_3e529961_1:
@@ -272,13 +272,13 @@ translate turkish sm1mv02s04_3e529961_1:
 translate turkish sm1mv02s04_70f29d4b:
 
     # mh "Good to see you, [mcname]."
-    mh "Good to see you, [mcname]."
+    mh "Seni görmek güzel, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:162
 translate turkish sm1mv02s04_c365e39a:
 
     # mh "And who might you be, my dear?"
-    mh "And who might you be, my dear?"
+    mh "Peki sen kim olabilirsin, tatlım?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:169
 translate turkish sm1mv02s04_e140f834:
@@ -290,55 +290,55 @@ translate turkish sm1mv02s04_e140f834:
 translate turkish sm1mv02s04_1f8570fb:
 
     # mc "Min, this is Nari."
-    mc "Min, this is Nari."
+    mc "Min, bu Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:171
 translate turkish sm1mv02s04_2928b49a:
 
     # mc "Nari, this is Min Eun-Soo."
-    mc "Nari, this is Min Eun-Soo."
+    mc "Nari, bu Min Eun-Soo."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:172
 translate turkish sm1mv02s04_dacca4a9:
 
     # mc "We took business classes together and became good friends."
-    mc "We took business classes together and became good friends."
+    mc "Birlikte iş dersleri aldık ve iyi arkadaş olduk."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:175
 translate turkish sm1mv02s04_b7abe3dd:
 
     # mes "Nice to meet you, Nari."
-    mes "Nice to meet you, Nari."
+    mes "Tanıştığımıza memnun oldum, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:178
 translate turkish sm1mv02s04_0a99c007:
 
     # ns "Yes. You too, Min!{w} I am sorry, I am just very excited."
-    ns "Yes. You too, Min!{w} I am sorry, I am just very excited."
+    ns "Evet. Sen de, Min!{w} Özür dilerim, sadece çok heyecanlıyım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:181
 translate turkish sm1mv02s04_dc7580ae:
 
     # mes "Haha. I may have you beat."
-    mes "Haha. I may have you beat."
+    mes "Haha. Seni geçmiş olabilirim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:182
 translate turkish sm1mv02s04_4b403731:
 
     # mes "[mcname] and I have done plenty together."
-    mes "[mcname] and I have done plenty together."
+    mes "[mcname] ve ben birlikte çok şey yaptık."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:183
 translate turkish sm1mv02s04_5b7976b6:
 
     # mes "But never something like this."
-    mes "But never something like this."
+    mes "Ama asla böyle bir şey yapmadık."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:186
 translate turkish sm1mv02s04_1311bb71:
 
     # ns "I hope we can all make something wonderful together."
-    ns "I hope we can all make something wonderful together."
+    ns "Umarım hep birlikte harika bir şey yapabiliriz."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:188
 translate turkish sm1mv02s04_66fad05b:
@@ -356,157 +356,157 @@ translate turkish sm1mv02s04_e140f834_1:
 translate turkish sm1mv02s04_8320734d:
 
     # mc "Nari, this is Lyssa Harris. We met at a party and have been friends ever since."
-    mc "Nari, this is Lyssa Harris. We met at a party and have been friends ever since."
+    mc "Nari, bu Lyssa Harris. Bir partide tanıştık ve o zamandan beri arkadaşız."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:198
 translate turkish sm1mv02s04_f7809f8d:
 
     # mh "Lovely to meet you, Nari."
-    mh "Lovely to meet you, Nari."
+    mh "Seninle tanışmak çok güzel, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:201
 translate turkish sm1mv02s04_fdb339f6:
 
     # ns "Thank you. And are you also a professional porn actress? Like [mcname]?"
-    ns "Thank you. And are you also a professional porn actress? Like [mcname]?"
+    ns "Teşekkür ederim. Ve sen de profesyonel bir porno oyuncusu musun? [mcname] gibi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:204
 translate turkish sm1mv02s04_3864258d:
 
     # mh "Oh {i}you're{/i} professional already?"
-    mh "Oh {i}you're{/i} professional already?"
+    mh "Oh {i}sen{/i} zaten profesyonel misin?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:207
 translate turkish sm1mv02s04_ce207b6c:
 
     # mc "Haha. Doing my best."
-    mc "Haha. Doing my best."
+    mc "Haha. Elimden geleni yapıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:210
 translate turkish sm1mv02s04_5134ce78:
 
     # mh "I can happily say that I am a professional, but not a professional porn actress."
-    mh "I can happily say that I am a professional, but not a professional porn actress."
+    mh "Memnuniyetle söyleyebilirim ki ben bir profesyonelim, ama profesyonel bir porno oyuncusu değilim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:211
 translate turkish sm1mv02s04_da5d8685:
 
     # mh "I'm actually just a lawyer."
-    mh "I'm actually just a lawyer."
+    mh "Aslında sadece bir avukatım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:214
 translate turkish sm1mv02s04_9b7000c8:
 
     # ns "Oh. So you're here just for the legal stuff."
-    ns "Oh. So you're here just for the legal stuff."
+    ns "Oh. Yani buraya sadece yasal işler için mi geldin."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:217
 translate turkish sm1mv02s04_a76135dd:
 
     # mh "At first, that was the extent of my involvement."
-    mh "At first, that was the extent of my involvement."
+    mh "İlk başta, katılımım bu kadardı."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:218
 translate turkish sm1mv02s04_e23c6442:
 
     # mh "But now..."
-    mh "But now..."
+    mh "Ama şimdi..."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:221
 translate turkish sm1mv02s04_11f0cdef:
 
     # mh "... well let's just say that [mcname] convinced me to dip my toes in the water a bit more."
-    mh "... well let's just say that [mcname] convinced me to dip my toes in the water a bit more."
+    mh "... şey diyelim ki [mcname] parmaklarımı suya biraz daha sokmam için beni ikna etti."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:222
 translate turkish sm1mv02s04_c5d17c81:
 
     # mh "I guess a little part of me has been very keen to at least try things out."
-    mh "I guess a little part of me has been very keen to at least try things out."
+    mh "Sanırım bir parçam en azından bir şeyleri denemeye çok istekliydi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:223
 translate turkish sm1mv02s04_3ced96ff:
 
     # mh "At least once."
-    mh "At least once."
+    mh "En azından bir kez."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:226
 translate turkish sm1mv02s04_95b4abf6:
 
     # ns "That sounds great. We're going to be porn actress virgins."
-    ns "That sounds great. We're going to be porn actress virgins."
+    ns "Kulağa harika geliyor. Porno oyunculuğunda bakire olacağız."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:228
 translate turkish sm1mv02s04_86d4e273:
 
     # mh "I guess we will be, Nari."
-    mh "I guess we will be, Nari."
+    mh "Sanırım öyle olacağız, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:231
 translate turkish sm1mv02s04_7df862ec:
 
     # kv "Welcome to the team, Nari."
-    kv "Welcome to the team, Nari."
+    kv "Takıma hoş geldin, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:232
 translate turkish sm1mv02s04_93ed5b65:
 
     # kv "I'm Kanya, I'll be your photographer, camera girl, pretty much anything with a lens."
-    kv "I'm Kanya, I'll be your photographer, camera girl, pretty much anything with a lens."
+    kv "Ben Kanya, fotoğrafçın, kameramanın, neredeyse objektifle ilgili her şey olacağım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:235
 translate turkish sm1mv02s04_af055283:
 
     # ns "Hello Kanya."
-    ns "Hello Kanya."
+    ns "Merhaba Kanya."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:238
 translate turkish sm1mv02s04_2f72b79c:
 
     # ns "Is there uh... anything I should know to maximize my potential for {i}this{/i}?"
-    ns "Is there uh... anything I should know to maximize my potential for {i}this{/i}?"
+    ns "{i}Bunun{/i} için potansiyelimi en üst düzeye çıkarmak için bilmem gereken bir şey var mı?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:241
 translate turkish sm1mv02s04_22b3af8e:
 
     # kv "Hahah. I was going to ask you the same thing."
-    kv "Hahah. I was going to ask you the same thing."
+    kv "Hahah. Sana aynı şeyi soracaktım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:242
 translate turkish sm1mv02s04_c492e28b:
 
     # kv "We want everyone on set to be completely comfortable and in cohesion with the script and the camerawork."
-    kv "We want everyone on set to be completely comfortable and in cohesion with the script and the camerawork."
+    kv "Sette herkesin tamamen rahat olmasını ve senaryo ve kamera çekimiyle uyum içinde olmasını istiyoruz."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:245
 translate turkish sm1mv02s04_99534b2e:
 
     # kv "And since I'm also your host, it will be my pleasure to help make your first porn journey as memorable and perfect as I can."
-    kv "And since I'm also your host, it will be my pleasure to help make your first porn journey as memorable and perfect as I can."
+    kv "Ve ben aynı zamanda ev sahibiniz olduğum için, ilk porno yolculuğunuzu elimden geldiğince unutulmaz ve mükemmel hale getirmeye yardımcı olmak benim için bir zevk olacak."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:247
 translate turkish sm1mv02s04_633c8e97:
 
     # ns "Thank you so much, Kanya. That makes me feel so much better."
-    ns "Thank you so much, Kanya. That makes me feel so much better."
+    ns "Çok teşekkür ederim, Kanya. Bu beni çok daha iyi hissettiriyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:248
 translate turkish sm1mv02s04_cd7bca42:
 
     # kv "I aim to please."
-    kv "I aim to please."
+    kv "Memnun etmeyi amaçlıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:252
 translate turkish sm1mv02s04_c81b70f2:
 
     # tl "How's it hanging, Nari?"
-    tl "How's it hanging, Nari?"
+    tl "Nasıl gidiyor, Nari?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:255
 translate turkish sm1mv02s04_c98ecc04:
 
     # ns "How is... {i}what{/i} hanging?"
-    ns "How is... {i}what{/i} hanging?"
+    ns "Nasıl... {i}ne{/i} gidiyor?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:258
 translate turkish sm1mv02s04_eadd5e5f:
@@ -518,49 +518,49 @@ translate turkish sm1mv02s04_eadd5e5f:
 translate turkish sm1mv02s04_655bfc3d:
 
     # tl "Looks like I'm finally going to see what is hidden under those pencil skirts of yours."
-    tl "Looks like I'm finally going to see what is hidden under those pencil skirts of yours."
+    tl "Görünüşe göre sonunda o kalem eteklerinin altında ne gizlendiğini göreceğim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:262
 translate turkish sm1mv02s04_780de552:
 
     # ns "I guess so."
-    ns "I guess so."
+    ns "Sanırım öyle."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:268
 translate turkish sm1mv02s04_aec583f9:
 
     # mc "Don't tease your costar and neighbor, Taisia."
-    mc "Don't tease your costar and neighbor, Taisia."
+    mc "Oyuncu arkadaşını ve komşunu takılma, Taisia."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:271
 translate turkish sm1mv02s04_eb79a5ce:
 
     # tl "Haha. She likes it."
-    tl "Haha. She likes it."
+    tl "Haha. Hoşuna gidiyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:274
 translate turkish sm1mv02s04_f0c90618:
 
     # ns "*nervous laughter*"
-    ns "*nervous laughter*"
+    ns "*gergin kahkaha*"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:280
 translate turkish sm1mv02s04_653a8268:
 
     # ns "I have noticed that you have a very nice looking ass."
-    ns "I have noticed that you have a very nice looking ass."
+    ns "Çok güzel görünen bir kıçın olduğunu fark ettim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:281
 translate turkish sm1mv02s04_9af27488:
 
     # ns "And you seem to enjoy it when [mcname] fucks it."
-    ns "And you seem to enjoy it when [mcname] fucks it."
+    ns "Ve [mcname] seni siktiğinde bundan hoşlanıyor gibisin."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:282
 translate turkish sm1mv02s04_c411f0df:
 
     # ns "Are you... a big fan of anal?"
-    ns "Are you... a big fan of anal?"
+    ns "Sen... anal seks hayranı mısın?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:285
 translate turkish sm1mv02s04_ee3fb314:
@@ -572,43 +572,43 @@ translate turkish sm1mv02s04_ee3fb314:
 translate turkish sm1mv02s04_a58db86f:
 
     # tl "I mean, I don't usually think of it like that."
-    tl "I mean, I don't usually think of it like that."
+    tl "Yani, genellikle böyle düşünmem."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:287
 translate turkish sm1mv02s04_f8118ca8:
 
     # tl "It just kind of comes up and then boom, [mcname] is dicking me down and probably spanking me too."
-    tl "It just kind of comes up and then boom, [mcname] is dicking me down and probably spanking me too."
+    tl "Sadece bir şekilde ortaya çıkıyor ve sonra bam, [mcname] beni sikiyor ve muhtemelen beni tokatl Ayrıca."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:290
 translate turkish sm1mv02s04_55355630:
 
     # ns "Oh. That does sound nice."
-    ns "Oh. That does sound nice."
+    ns "Oh. Kulağa hoş geliyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:293
 translate turkish sm1mv02s04_05833579:
 
     # tl "You enjoy a little rough touch... don't you?"
-    tl "You enjoy a little rough touch... don't you?"
+    tl "Biraz sert dokunuştan hoşlanıyorsun... değil mi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:296
 translate turkish sm1mv02s04_3e28e544:
 
     # ns "With, [mcname]. But... if he'd like... Maybe I could try with you."
-    ns "With, [mcname]. But... if he'd like... Maybe I could try with you."
+    ns "[mcname] ile. Ama... eğer isterse... Belki seninle deneyebilirim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:299
 translate turkish sm1mv02s04_26737bb3:
 
     # tl "Heh heh. Well, we shouldn't keep them waiting."
-    tl "Heh heh. Well, we shouldn't keep them waiting."
+    tl "Heh heh. Şey, onları bekletmemeliyiz."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:304
 translate turkish sm1mv02s04_697ec159:
 
     # mc "And you may have seen this character around home."
-    mc "And you may have seen this character around home."
+    mc "Ve bu karakteri evde görmüş olabilirsin."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:305
 translate turkish sm1mv02s04_863d9071:
