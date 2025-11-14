@@ -620,67 +620,67 @@ translate turkish sm1cs_am007_3d30aaaa:
 translate turkish sm1cs_am007_202e9ad0:
 
     # am "When it rings, come rain or shine, I gotta start."
-    am "When it rings, come rain or shine, I gotta start."
+    am "Çaldığında, yağmur ya da güneş, başlamalıyım."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:308
 translate turkish sm1cs_am007_8fe379af:
 
     # mc "You run a marathon every two weeks?"
-    mc "You run a marathon every two weeks?"
+    mc "Her iki haftada bir maraton mu koşuyorsun?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:311
 translate turkish sm1cs_am007_4bf78832:
 
     # am "Have you seen how much junk food I eat?"
-    am "Have you seen how much junk food I eat?"
+    am "Ne kadar abur cubur yediğimi gördün mü?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:312
 translate turkish sm1cs_am007_8da8f1d4:
 
     # am "It's a small price to pay for a sweet tooth."
-    am "It's a small price to pay for a sweet tooth."
+    am "Tatlı düşkünlüğü için ödenecek küçük bir bedel."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:322
 translate turkish sm1cs_am007_c50a63e8:
 
     # mc "Well you are {i}sweet{/i} as sugar."
-    mc "Well you are {i}sweet{/i} as sugar."
+    mc "Eh, şeker gibi {i}tatlısın{/i}."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:325
 translate turkish sm1cs_am007_f204999b:
 
     # am "Sure..."
-    am "Sure..."
+    am "Tabii..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:326
 translate turkish sm1cs_am007_742c3e9b:
 
     # am "So long as your definition of 'sweet' is the opposite of what it means in the dictionaries of every human language."
-    am "So long as your definition of 'sweet' is the opposite of what it means in the dictionaries of every human language."
+    am "Tabii ki 'tatlı' tanımın her insan dilinin sözlüğündeki anlamının tam tersi olduğu sürece."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:327
 translate turkish sm1cs_am007_65daffd9:
 
     # am "Idiot."
-    am "Idiot."
+    am "Aptal."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:335
 translate turkish sm1cs_am007_571a3973:
 
     # mc "The word 'sweet' and you don't seem to fit together."
-    mc "The word 'sweet' and you don't seem to fit together."
+    mc "'Tatlı' kelimesi ve sen birbirinize uymuyor gibisiniz."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:338
 translate turkish sm1cs_am007_8c79c0d1:
 
     # am "With that attitude, you're certainly doing great at never seeing my sweet side."
-    am "With that attitude, you're certainly doing great at never seeing my sweet side."
+    am "Bu tutumla, benim tatlı tarafımı asla görmemekte kesinlikle harikasın."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:340
 translate turkish sm1cs_am007_7fe76b4d:
 
     # mc "Maybe I'm into sour candy."
-    mc "Maybe I'm into sour candy."
+    mc "Belki de ekşi şekerden hoşlanıyorumdur."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:341
 translate turkish sm1cs_am007_ffa2f81f:
@@ -692,7 +692,7 @@ translate turkish sm1cs_am007_ffa2f81f:
 translate turkish sm1cs_am007_98a67b87:
 
     # mc "Maybe you shouldn't eat so much junk food, April."
-    mc "Maybe you shouldn't eat so much junk food, April."
+    mc "Belki bu kadar çok abur cubur yememelisin, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:352
 translate turkish sm1cs_am007_1c8acf17_1:
@@ -710,49 +710,49 @@ translate turkish sm1cs_am007_2b35b6fe_1:
 translate turkish sm1cs_am007_e95ac8fd:
 
     # am "I will give you one chance.{w} Just one..."
-    am "I will give you one chance.{w} Just one..."
+    am "Sana bir şans vereceğim.{w} Sadece bir..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:357
 translate turkish sm1cs_am007_9a8063eb:
 
     # am "To take back your {b}absurd{/b} statement."
-    am "To take back your {b}absurd{/b} statement."
+    am "{b}Saçma{/b} ifadeni geri almak için."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:358
 translate turkish sm1cs_am007_d236baa9:
 
     # am "That you just made about your girlfriend."
-    am "That you just made about your girlfriend."
+    am "Kız arkadaşın hakkında az önce yaptığın."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:359
 translate turkish sm1cs_am007_420ee239:
 
     # am "To her {b}face{/b}...{w} When she's having a bad day."
-    am "To her {b}face{/b}...{w} When she's having a bad day."
+    am "Onun {b}yüzüne{/b}...{w} Kötü bir gün geçirirken."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:368
 translate turkish sm1cs_am007_menu_2_dce52e74:
 
     # mc "I'm sorry. April. I didn't mean it."
-    mc "I'm sorry. April. I didn't mean it."
+    mc "Özür dilerim, April. Kastetmedim."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:372
 translate turkish sm1cs_am007_menu_2_f79c4813:
 
     # am "Hmmmph. Good."
-    am "Hmmmph. Good."
+    am "Hmmmph. İyi."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:379
 translate turkish sm1cs_am007_menu_2_6a57aa02:
 
     # mc "I said what I said."
-    mc "I said what I said."
+    mc "Söyledim söylediğimi."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:380
 translate turkish sm1cs_am007_menu_2_6a320d0c:
 
     # mc "Hashtag no regrets."
-    mc "Hashtag no regrets."
+    mc "Hashtag pişmanlık yok."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:384
 translate turkish sm1cs_am007_menu_2_62e14357:
@@ -770,19 +770,19 @@ translate turkish sm1cs_am007_menu_2_5143be6c:
 translate turkish sm1cs_am007_menu_2_054de26c:
 
     # mc "*coughs*"
-    mc "*coughs*"
+    mc "*öksürür*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:391
 translate turkish sm1cs_am007_menu_2_848fcd93:
 
     # mc "I deserve that."
-    mc "I deserve that."
+    mc "Bunu hak ettim."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:394
 translate turkish sm1cs_am007_menu_2_84d44ed8:
 
     # am "Damn right."
-    am "Damn right."
+    am "Kesinlikle."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:395
 translate turkish sm1cs_am007_menu_2_537e73cc:
@@ -794,121 +794,121 @@ translate turkish sm1cs_am007_menu_2_537e73cc:
 translate turkish sm1cs_am007_menu_2_badcaab3:
 
     # mc "Giraaah... Going to leave a mark."
-    mc "Giraaah... Going to leave a mark."
+    mc "Giraaah... İz bırakacak."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:402
 translate turkish sm1cs_am007_menu_2_602fccd0:
 
     # am "You'll live."
-    am "You'll live."
+    am "Yaşarsın."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:405
 translate turkish sm1cs_am007_menu_2_9a0d53a1:
 
     # mct "Note to self.{w} Don't ever say {b}that{/b} again."
-    mct "Note to self.{w} Don't ever say {b}that{/b} again."
+    mct "Kendime not.{w} Bir daha asla {b}bunu{/b} söyleme."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:413
 translate turkish sm1cs_am007_jogging_c323eece:
 
     # am "So what do you say?"
-    am "So what do you say?"
+    am "Peki ne diyorsun?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:416
 translate turkish sm1cs_am007_jogging_e3359900:
 
     # mc "To what?"
-    mc "To what?"
+    mc "Neye?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:419
 translate turkish sm1cs_am007_jogging_bd2dbc26:
 
     # am "Do you want to run a marathon with me?"
-    am "Do you want to run a marathon with me?"
+    am "Benimle maraton koşmak ister misin?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:422
 translate turkish sm1cs_am007_jogging_5dd33794:
 
     # mc "Uh sure. How do I sign up?"
-    mc "Uh sure. How do I sign up?"
+    mc "Uh tabii. Nasıl kaydolabilirim?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:425
 translate turkish sm1cs_am007_jogging_132f6836:
 
     # am "No. I mean. It's not a real marathon."
-    am "No. I mean. It's not a real marathon."
+    am "Hayır. Yani. Gerçek bir maraton değil."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:426
 translate turkish sm1cs_am007_jogging_27b012b1:
 
     # am "I've mapped out a route. It starts at Theomalt Park and goes throughout the city."
-    am "I've mapped out a route. It starts at Theomalt Park and goes throughout the city."
+    am "Bir rota çıkardım. Theomalt Park'ta başlıyor ve şehrin her yerine gidiyor."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:427
 translate turkish sm1cs_am007_jogging_a5dd2128:
 
     # am "The distance is equivalent to that of a marathon."
-    am "The distance is equivalent to that of a marathon."
+    am "Mesafe bir maratonunkiyle eşdeğer."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:430
 translate turkish sm1cs_am007_jogging_2b6524bc:
 
     # mc "My girl is wicked smart."
-    mc "My girl is wicked smart."
+    mc "Kızım şeytan gibi zeki."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:431
 translate turkish sm1cs_am007_jogging_e6965271:
 
     # mc "Sure. I can do a marathon with you."
-    mc "Sure. I can do a marathon with you."
+    mc "Tabii. Seninle maraton koşabilirim."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:434
 translate turkish sm1cs_am007_jogging_9a9d804f:
 
     # am "Great. It will be like a date."
-    am "Great. It will be like a date."
+    am "Harika. Bir randevu gibi olacak."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:435
 translate turkish sm1cs_am007_jogging_94f22942:
 
     # am "Just the two of us."
-    am "Just the two of us."
+    am "Sadece ikimiz."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:438
 translate turkish sm1cs_am007_jogging_c0e639c3:
 
     # mc "Even better."
-    mc "Even better."
+    mc "Daha da iyi."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:440
 translate turkish sm1cs_am007_jogging_d99c633e:
 
     # am "I need to get into my gym clothes. You should put on something else too."
-    am "I need to get into my gym clothes. You should put on something else too."
+    am "Spor kıyafetlerimi giymeliyim. Sen de başka bir şey giymelisin."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:441
 translate turkish sm1cs_am007_jogging_9b45ec8f:
 
     # am "Unless you want to ruin your clothes."
-    am "Unless you want to ruin your clothes."
+    am "Kıyafetlerini mahvetmek istemiyorsan tabii."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:445
 translate turkish sm1cs_am007_jogging_218246b8:
 
     # am "*nervously* Ummm."
-    am "*nervously* Ummm."
+    am "*gergin* Ummm."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:446
 translate turkish sm1cs_am007_jogging_d8cb6ef7:
 
     # am "Kiss me goodbye?"
-    am "Kiss me goodbye?"
+    am "Veda öpücüğü?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:447
 translate turkish sm1cs_am007_jogging_1a4e920f:
 
     # am "*soft breaths*"
-    am "*soft breaths*"
+    am "*yumuşak nefesler*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:452
 translate turkish sm1cs_am007_jogging_e32ab0a4:
@@ -920,13 +920,13 @@ translate turkish sm1cs_am007_jogging_e32ab0a4:
 translate turkish sm1cs_am007_jogging_ce35f8a6:
 
     # am "How do you kiss so much better than you code?"
-    am "How do you kiss so much better than you code?"
+    am "Nasıl oluyor da kodlamadan çok daha iyi öpüşüyorsun?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:461
 translate turkish sm1cs_am007_jogging_8c051f5a:
 
     # mc "One of life's mysteries I guess."
-    mc "One of life's mysteries I guess."
+    mc "Hayatın gizemlerinden biri sanırım."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:464
 translate turkish sm1cs_am007_jogging_b6effd23:
@@ -938,43 +938,43 @@ translate turkish sm1cs_am007_jogging_b6effd23:
 translate turkish sm1cs_am007_jogging_16ba7c89:
 
     # am "Text me when you're at the park."
-    am "Text me when you're at the park."
+    am "Parka vardığında mesaj at."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:468
 translate turkish sm1cs_am007_jogging_8f353817:
 
     # mc "Count on it."
-    mc "Count on it."
+    mc "Güven bana."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:489
 translate turkish sm1cs_am007_20_minutes_later_6af582a1:
 
     # mct "She said she's coming over."
-    mct "She said she's coming over."
+    mct "Geleceğini söyledi."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:493
 translate turkish sm1cs_am007_20_minutes_later_94e6f76e:
 
     # mct "Where are you, April?"
-    mct "Where are you, April?"
+    mct "Neredesin, April?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:496
 translate turkish sm1cs_am007_20_minutes_later_835d177f:
 
     # mct "Gah. I probably shouldn't be jogging this close to a groin injury."
-    mct "Gah. I probably shouldn't be jogging this close to a groin injury."
+    mct "Gah. Kasık yaralanmasına bu kadar yakınken muhtemelen koşmamalıyım."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:497
 translate turkish sm1cs_am007_20_minutes_later_498c2424:
 
     # mct "Then again, it's never a good idea to even remotely imply a girl eats too much."
-    mct "Then again, it's never a good idea to even remotely imply a girl eats too much."
+    mct "Öte yandan, bir kızın çok yemek yediğini uzaktan bile ima etmek asla iyi bir fikir değildir."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:498
 translate turkish sm1cs_am007_20_minutes_later_0967f8f5:
 
     # mct "Of anything."
-    mct "Of anything."
+    mct "Hiçbir şeyin."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:505
 translate turkish sm1cs_am007_20_minutes_later_ee014359:
@@ -986,19 +986,19 @@ translate turkish sm1cs_am007_20_minutes_later_ee014359:
 translate turkish sm1cs_am007_20_minutes_later_2b684309:
 
     # mc "Hello-"
-    mc "Hello-"
+    mc "Merhaba-"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:511
 translate turkish sm1cs_am007_20_minutes_later_69a1b761:
 
     # mc "Hot."
-    mc "Hot."
+    mc "Ateşli."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:515
 translate turkish sm1cs_am007_20_minutes_later_02f4de52:
 
     # am "*giggles* You ready?"
-    am "*giggles* You ready?"
+    am "*kıkırdar* Hazır mısın?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:523
 translate turkish sm1cs_am007_20_minutes_later_c03be87a:
