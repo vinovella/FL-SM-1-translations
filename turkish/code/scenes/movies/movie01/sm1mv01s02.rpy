@@ -2,91 +2,91 @@
 translate turkish sm1mv01s02_bea959ae:
 
     # sy "They have to have pirate clothes somewhere."
-    sy "They have to have pirate clothes somewhere."
+    sy "Bir yerde korsan kıyafetleri olmalı."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:49
 translate turkish sm1mv01s02_66e3e599:
 
     # mc "The shop clerk said they did."
-    mc "The shop clerk said they did."
+    mc "Mağaza görevlisi olduğunu söyledi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:51
 translate turkish sm1mv01s02_4f02f79e:
 
     # sy "What do we need again?"
-    sy "What do we need again?"
+    sy "Neye ihtiyacımız vardı?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:52
 translate turkish sm1mv01s02_adf970aa:
 
     # mc "Our hero pirate outfit. That will be for our lead actress."
-    mc "Our hero pirate outfit. That will be for our lead actress."
+    mc "Kahraman korsan kıyafetimiz. O, baş aktrisimiz için olacak."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:53
 translate turkish sm1mv01s02_0413cb37:
 
     # sy "Ah yes. My outfit."
-    sy "Ah yes. My outfit."
+    sy "Ah evet. Benim kıyafetim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:57
 translate turkish sm1mv01s02_3c34f354:
 
     # mc "No, Stacy. You're the wicked pirate queen."
-    mc "No, Stacy. You're the wicked pirate queen."
+    mc "Hayır, Stacy. Sen kötü korsan kraliçesisin."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:59
 translate turkish sm1mv01s02_25069130:
 
     # sy "Oh yeah."
-    sy "Oh yeah."
+    sy "Ah evet."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:62
 translate turkish sm1mv01s02_e17de6e1:
 
     # sy "Does she have to be wicked?"
-    sy "Does she have to be wicked?"
+    sy "Kötü olmak zorunda mı?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:63
 translate turkish sm1mv01s02_e26fe711:
 
     # sy "Can't she be just misunderstood? Like all of the villains from those animated movies?"
-    sy "Can't she be just misunderstood? Like all of the villains from those animated movies?"
+    sy "Sadece yanlış anlaşılmış olamaz mı? Tıpkı o animasyon filmlerindeki tüm kötü adamlar gibi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:64
 translate turkish sm1mv01s02_3968a5eb:
 
     # sy "They seem like fun and interesting villains who would eat children..."
-    sy "They seem like fun and interesting villains who would eat children..."
+    sy "Çocukları yiyecek eğlenceli ve ilginç kötü adamlar gibi görünürler..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:65
 translate turkish sm1mv01s02_77e521fb:
 
     # sy "...but then we finally see in the prequels that they were actually the true victims all along?"
-    sy "...but then we finally see in the prequels that they were actually the true victims all along?"
+    sy "...ama sonra devam filmlerinde aslında baştan beri gerçek kurbanların onlar olduğunu görürüz?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:68
 translate turkish sm1mv01s02_5f9381de:
 
     # kv "Ah yes. And the hunter who shot Tambi's mother was actually avenging his father that Tambi's mother killed..."
-    kv "Ah yes. And the hunter who shot Tambi's mother was actually avenging his father that Tambi's mother killed..."
+    kv "Ah evet. Ve Tambi'nin annesini vuran avcı aslında Tambi'nin annesinin öldürdüğü babasının intikamını alıyordu..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:72
 translate turkish sm1mv01s02_ae622efe:
 
     # kv "*Fake gagging*"
-    kv "*Fake gagging*"
+    kv "*Sahte öğürme*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:75
 translate turkish sm1mv01s02_7ded6fb6:
 
     # kv "We're not trying to make a shades of gray, morally ambiguous character here."
-    kv "We're not trying to make a shades of gray, morally ambiguous character here."
+    kv "Burada grinin tonları, ahlaki açıdan belirsiz bir karakter yaratmaya çalışmıyoruz."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:76
 translate turkish sm1mv01s02_ae566dd8:
 
     # kv "People like a good villain. So she needs to be as wicked as they come."
-    kv "People like a good villain. So she needs to be as wicked as they come."
+    kv "İnsanlar iyi bir kötü adamı sever. Bu yüzden olabildiğince kötü olması gerekiyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:77
 translate turkish sm1mv01s02_2b35b6fe:
@@ -104,31 +104,31 @@ translate turkish sm1mv01s02_8218548c:
 translate turkish sm1mv01s02_c1477d1c:
 
     # kv "What?"
-    kv "What?"
+    kv "Ne?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:86
 translate turkish sm1mv01s02_87d78dfc:
 
     # sy "Very strong feelings about misunderstood villains, haven't we, Kanya?"
-    sy "Very strong feelings about misunderstood villains, haven't we, Kanya?"
+    sy "Yanlış anlaşılan kötü adamlar hakkında çok güçlü duygularımız var, değil mi Kanya?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:89
 translate turkish sm1mv01s02_ab17ae38:
 
     # kv "I hate character assassinations."
-    kv "I hate character assassinations."
+    kv "Karakter suikastlerinden nefret ederim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:92
 translate turkish sm1mv01s02_733923a1:
 
     # mc "Okay. So the wicked pirate queen remains wicked."
-    mc "Okay. So the wicked pirate queen remains wicked."
+    mc "Tamam. Yani kötü korsan kraliçe kötü kalıyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:95
 translate turkish sm1mv01s02_d051f178:
 
     # sy "I should start practicing my evil laugh."
-    sy "I should start practicing my evil laugh."
+    sy "Kötü gülüşümü pratik yapmaya başlamalıyım."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:96
 translate turkish sm1mv01s02_78395f4e:
@@ -140,49 +140,49 @@ translate turkish sm1mv01s02_78395f4e:
 translate turkish sm1mv01s02_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "Ne?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:102
 translate turkish sm1mv01s02_07968465:
 
     # sy "Not wicked enough?"
-    sy "Not wicked enough?"
+    sy "Yeterince kötü değil mi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:105
 translate turkish sm1mv01s02_b286c0f7:
 
     # kv "I mean it was..."
-    kv "I mean it was..."
+    kv "Yani..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:106
 translate turkish sm1mv01s02_7ca1dc1e:
 
     # kv "Close."
-    kv "Close."
+    kv "Yakın."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:109
 translate turkish sm1mv01s02_ceb88f98:
 
     # mc "You might be able to scare small children with a laugh like that."
-    mc "You might be able to scare small children with a laugh like that."
+    mc "Böyle bir gülüşle küçük çocukları korkutabilirsin."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:110
 translate turkish sm1mv01s02_66226ee3:
 
     # mc "But it certainly wasn't nefarious enough for a power-hungry pirate queen."
-    mc "But it certainly wasn't nefarious enough for a power-hungry pirate queen."
+    mc "Ama güce aç bir korsan kraliçe için kesinlikle yeterince sinsi değildi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:114
 translate turkish sm1mv01s02_aa01decc:
 
     # sy "How dare you!"
-    sy "How dare you!"
+    sy "Nasıl cüret edersin!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:118
 translate turkish sm1mv01s02_475c01b3:
 
     # sy "Any more lip like that, Mr. Young, and I'll be sending you off to old Davy John's locker."
-    sy "Any more lip like that, Mr. Young, and I'll be sending you off to old Davy John's locker."
+    sy "Bir daha böyle konuşursan Bay Young, seni yaşlı Davy John'un dolabına gönderirim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:121
 translate turkish sm1mv01s02_6d2d8309:
@@ -194,175 +194,175 @@ translate turkish sm1mv01s02_6d2d8309:
 translate turkish sm1mv01s02_3241eddf:
 
     # kv "Much better."
-    kv "Much better."
+    kv "Çok daha iyi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:123
 translate turkish sm1mv01s02_fc2f8405:
 
     # kv "Up until the last part."
-    kv "Up until the last part."
+    kv "Son kısma kadar."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:126
 translate turkish sm1mv01s02_0c007a58:
 
     # sy "Huh? What happened with the last part?"
-    sy "Huh? What happened with the last part?"
+    sy "Ha? Son kısımda ne oldu?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:129
 translate turkish sm1mv01s02_507c9e62:
 
     # mc "It's Davy Jones. Not Davy Johns."
-    mc "It's Davy Jones. Not Davy Johns."
+    mc "Davy Jones. Davy Johns değil."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:132
 translate turkish sm1mv01s02_81c60285:
 
     # sy "Mmm. Hate to break it to you, but it's totally Davy Johns."
-    sy "Mmm. Hate to break it to you, but it's totally Davy Johns."
+    sy "Mmm. Bunu söylemekten nefret ediyorum ama kesinlikle Davy Johns."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:133
 translate turkish sm1mv01s02_8e49ff53:
 
     # sy "And as pirate queen of the high seas, my word is law, you scurvy dogs!"
-    sy "And as pirate queen of the high seas, my word is law, you scurvy dogs!"
+    sy "Ve açık denizlerin korsan kraliçesi olarak, benim sözüm kanundur, siz uyuz köpekler!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:137
 translate turkish sm1mv01s02_a3ebfe85:
 
     # kv "Well, she's certainly letting her Queen flag fly."
-    kv "Well, she's certainly letting her Queen flag fly."
+    kv "Eh, kesinlikle Kraliçe bayrağını dalgalandırıyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:145
 translate turkish sm1mv01s02_2a54947c:
 
     # mc "Stacy is always my Queen."
-    mc "Stacy is always my Queen."
+    mc "Stacy her zaman benim Kraliçemdir."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:148
 translate turkish sm1mv01s02_a73e4e8d:
 
     # kv "Haha. I suppose so."
-    kv "Haha. I suppose so."
+    kv "Haha. Sanırım öyle."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:149
 translate turkish sm1mv01s02_8cf0a645:
 
     # kv "But remember, your character has to be a rival to hers."
-    kv "But remember, your character has to be a rival to hers."
+    kv "Ama unutma, senin karakterin onun rakibi olmak zorunda."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:150
 translate turkish sm1mv01s02_04678dcf:
 
     # kv "So you can't be simping around when the camera is rolling."
-    kv "So you can't be simping around when the camera is rolling."
+    kv "Bu yüzden kamera çalışırken etrafta yaltaklanma."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:153
 translate turkish sm1mv01s02_2d973cd9:
 
     # mc "I'll pretend I didn't hear that."
-    mc "I'll pretend I didn't hear that."
+    mc "Bunu duymadım gibi yapacağım."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:154
 translate turkish sm1mv01s02_23add27f:
 
     # mc "I never simp."
-    mc "I never simp."
+    mc "Ben asla yaltaklanmam."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:157
 translate turkish sm1mv01s02_992a4b37:
 
     # kv "Haha. Sure, buddy."
-    kv "Haha. Sure, buddy."
+    kv "Haha. Tabii, dostum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:164
 translate turkish sm1mv01s02_867fd99e:
 
     # mc "I'm not sure if the world is ready for Stacy Unchained."
-    mc "I'm not sure if the world is ready for Stacy Unchained."
+    mc "Dünyanın Zincirlerinden Kurtulan Stacy için hazır olup olmadığından emin değilim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:167
 translate turkish sm1mv01s02_9a358d17:
 
     # kv "Haha. Wrong genre."
-    kv "Haha. Wrong genre."
+    kv "Haha. Yanlış tür."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:170
 translate turkish sm1mv01s02_7e964cf4:
 
     # mc "Haha. Yeah. Hey why hasn't Tarintino ever made a pirate movie?"
-    mc "Haha. Yeah. Hey why hasn't Tarintino ever made a pirate movie?"
+    mc "Haha. Evet. Hey, Tarantino neden hiç korsan filmi yapmadı?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:173
 translate turkish sm1mv01s02_23775b78:
 
     # kv "Think he's too into westerns."
-    kv "Think he's too into westerns."
+    kv "Sanırım kovboy filmlerine çok düşkün."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:177
 translate turkish sm1mv01s02_fd1c0152:
 
     # mc "Oh man!"
-    mc "Oh man!"
+    mc "Ah be adam!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:180
 translate turkish sm1mv01s02_c1477d1c_1:
 
     # kv "What?"
-    kv "What?"
+    kv "Ne?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:184
 translate turkish sm1mv01s02_51dce919:
 
     # mc "We have to do one of those."
-    mc "We have to do one of those."
+    mc "Bunlardan birini yapmamız gerek."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:187
 translate turkish sm1mv01s02_4da3d68d:
 
     # kv "Come on. We're lagging behind our queen."
-    kv "Come on. We're lagging behind our queen."
+    kv "Hadi. Kraliçemizin gerisinde kalıyoruz."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:190
 translate turkish sm1mv01s02_39e5f492:
 
     # mc "Right behind you, partner."
-    mc "Right behind you, partner."
+    mc "Hemen arkandayım, ortak."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:194
 translate turkish sm1mv01s02_fe98237a:
 
     # kv "[mcname]. You never finished the list."
-    kv "[mcname]. You never finished the list."
+    kv "[mcname]. Listeyi hiç bitirmedin."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:195
 translate turkish sm1mv01s02_db2dcc7a:
 
     # kv "What are all the pirate costumes we need?"
-    kv "What are all the pirate costumes we need?"
+    kv "İhtiyacımız olan tüm korsan kıyafetleri neler?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:197
 translate turkish sm1mv01s02_83b91498:
 
     # mc "Oh, right."
-    mc "Oh, right."
+    mc "Ah, doğru."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:201
 translate turkish sm1mv01s02_b1927a04:
 
     # mc "Stacy's pirate queen outfit. Our hero pirate outfit. My captain outfit."
-    mc "Stacy's pirate queen outfit. Our hero pirate outfit. My captain outfit."
+    mc "Stacy'nin korsan kraliçe kıyafeti. Kahraman korsan kıyafetimiz. Benim kaptan kıyafetim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:202
 translate turkish sm1mv01s02_d0d5c348:
 
     # mc "And then one for you."
-    mc "And then one for you."
+    mc "Ve senin için bir tane."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:205
 translate turkish sm1mv01s02_2be0be4a:
 
     # kv "Right. Just in case we need an extra body in one of the scenes."
-    kv "Right. Just in case we need an extra body in one of the scenes."
+    kv "Doğru. Sahnelerden birinde ekstra bir bedene ihtiyacımız olursa diye."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:207
 translate turkish sm1mv01s02_b180829a:
@@ -380,103 +380,103 @@ translate turkish sm1mv01s02_6e1c673b:
 translate turkish sm1mv01s02_26f447d6:
 
     # sy "Hey. I think I found them."
-    sy "Hey. I think I found them."
+    sy "Hey. Sanırım buldum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:216
 translate turkish sm1mv01s02_27caad76:
 
     # mc "Nice work, Stacy."
-    mc "Nice work, Stacy."
+    mc "İyi iş, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:218
 translate turkish sm1mv01s02_871a90e0:
 
     # kv "Yeah. I'm sure we'll find some outfits that work for us here."
-    kv "Yeah. I'm sure we'll find some outfits that work for us here."
+    kv "Evet. Eminim burada bize uygun kıyafetler bulabiliriz."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:225
 translate turkish sm1mv01s02_daf402d8:
 
     # kv "I didn't imagine a sex shop would have so many pirate costumes."
-    kv "I didn't imagine a sex shop would have so many pirate costumes."
+    kv "Bir seks dükkanında bu kadar çok korsan kıyafeti olacağını hayal etmemiştim."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:228
 translate turkish sm1mv01s02_a226bb9d:
 
     # mc "Pirates are always sexy."
-    mc "Pirates are always sexy."
+    mc "Korsanlar her zaman seksidir."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:231
 translate turkish sm1mv01s02_1db469ee:
 
     # kv "Yeah, in stories."
-    kv "Yeah, in stories."
+    kv "Evet, hikayelerde."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:232
 translate turkish sm1mv01s02_6b370281:
 
     # kv "I don't think they looked sexy while they were raping and pillaging."
-    kv "I don't think they looked sexy while they were raping and pillaging."
+    kv "Tecavüz edip yağmalarken seksi görüneceğini sanmıyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:235
 translate turkish sm1mv01s02_aad24bc7:
 
     # mc "Let's agree that our stories will always land more on the side of fantastical instead of historical."
-    mc "Let's agree that our stories will always land more on the side of fantastical instead of historical."
+    mc "Hikayelerimizin her zaman tarihsel yerine fantastik tarafta olacağı konusunda anlaşalım."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:239
 translate turkish sm1mv01s02_c8450db3:
 
     # kv "Good plan."
-    kv "Good plan."
+    kv "İyi plan."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:240
 translate turkish sm1mv01s02_18cdf4ea:
 
     # kv "Woah. We came to the right shop."
-    kv "Woah. We came to the right shop."
+    kv "Woah. Doğru dükkana geldik."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:241
 translate turkish sm1mv01s02_e68a5a87:
 
     # kv "Some of them are super slutty, but they're decently build."
-    kv "Some of them are super slutty, but they're decently build."
+    kv "Bazıları çok sürtük ama iyi yapılmış."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:244
 translate turkish sm1mv01s02_b7a7a6bb:
 
     # kv "And they'll look nice on camera."
-    kv "And they'll look nice on camera."
+    kv "Ve kamerada güzel görünecekler."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:248
 translate turkish sm1mv01s02_ccfdcbb1:
 
     # kv "But fuck me they're expensive."
-    kv "But fuck me they're expensive."
+    kv "Ama lanet olsun pahalılar."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:251
 translate turkish sm1mv01s02_b8c19e73:
 
     # sy "Maybe they have a bargain section."
-    sy "Maybe they have a bargain section."
+    sy "Belki pazarlık bölümleri vardır."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:252
 translate turkish sm1mv01s02_934c6ecd:
 
     # sy "Or a 'used' section."
-    sy "Or a 'used' section."
+    sy "Ya da 'kullanılmış' bölümü."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:255
 translate turkish sm1mv01s02_4d206177:
 
     # mc "We're not buying second-hand clothes from a sex shop."
-    mc "We're not buying second-hand clothes from a sex shop."
+    mc "Bir seks dükkanından ikinci el kıyafet almayacağız."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:258
 translate turkish sm1mv01s02_a43d5490:
 
     # mc "And we don't need to worry so much about the costs."
-    mc "And we don't need to worry so much about the costs."
+    mc "Ve maliyetler konusunda bu kadar endişelenmemize gerek yok."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:259
 translate turkish sm1mv01s02_378ab5f1:
