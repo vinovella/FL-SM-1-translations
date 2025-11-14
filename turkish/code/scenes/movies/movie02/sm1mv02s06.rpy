@@ -2,121 +2,121 @@
 translate turkish sm1mv02s06_308a7b0f:
 
     # kv "Welcome to the bridge, Captain!"
-    kv "Welcome to the bridge, Captain!"
+    kv "Köprüye hoş geldiniz, Kaptan!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:93
 translate turkish sm1mv02s06_443c8e43:
 
     # mc "Hey, Kanya."
-    mc "Hey, Kanya."
+    mc "Selam, Kanya."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:97
 translate turkish sm1mv02s06_86cf3284:
 
     # kv "You ready for this next one?"
-    kv "You ready for this next one?"
+    kv "Bunun için hazır mısın?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:99
 translate turkish sm1mv02s06_48cb8e45:
 
     # mc "Oh, absolutely."
-    mc "Oh, absolutely."
+    mc "Ah, kesinlikle."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:105
 translate turkish sm1mv02s06_4766ebdb:
 
     # kv "Good, me too."
-    kv "Good, me too."
+    kv "Güzel, ben de."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:109
 translate turkish sm1mv02s06_ac2414f9:
 
     # kv "I didn't think a Sci-Fi movie was going to be this fun to film."
-    kv "I didn't think a Sci-Fi movie was going to be this fun to film."
+    kv "Bir bilim kurgu filminin bu kadar eğlenceli olacağını düşünmemiştim."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:113
 translate turkish sm1mv02s06_7b3cfeb1:
 
     # mc "Glad that we can keep it fun for you, Kanya!"
-    mc "Glad that we can keep it fun for you, Kanya!"
+    mc "Senin için eğlenceli tutabildiğimize sevindim, Kanya!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:120
 translate turkish sm1mv02s06_40d18a1a:
 
     # kv "And look at that, the rest of the gang is here!"
-    kv "And look at that, the rest of the gang is here!"
+    kv "Bak şuna, ekibin geri kalanı da burada!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:123
 translate turkish sm1mv02s06_9670d481:
 
     # sy "Hey, Kanya!"
-    sy "Hey, Kanya!"
+    sy "Selam, Kanya!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:125
 translate turkish sm1mv02s06_326e04dd:
 
     # kv "Damn, you guys all look great!"
-    kv "Damn, you guys all look great!"
+    kv "Lanet olsun, hepiniz harika görünüyorsunuz!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:133
 translate turkish sm1mv02s06_95d811ab:
 
     # mhmes "Thank you, Kanya."
-    mhmes "Thank you, Kanya."
+    mhmes "Teşekkürler, Kanya."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:136
 translate turkish sm1mv02s06_f43ba8a4:
 
     # sy "All right, are we ready to get into it?"
-    sy "All right, are we ready to get into it?"
+    sy "Pekala, başlamaya hazır mıyız?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:138
 translate turkish sm1mv02s06_ec16f67e:
 
     # kv "I'm good to go."
-    kv "I'm good to go."
+    kv "Ben hazırım."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:141
 translate turkish sm1mv02s06_98583cc4:
 
     # ns "Me too!"
-    ns "Me too!"
+    ns "Ben de!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:143
 translate turkish sm1mv02s06_e0a4b3f4:
 
     # sy "All right! Then everyone to one!"
-    sy "All right! Then everyone to one!"
+    sy "Pekala! O zaman herkes bir numaraya!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:148
 translate turkish sm1mv02s06_fc1e0a9e:
 
     # sy "All right, first up... let's get all of [mcname]'s coverage on the deck. Sound good, Kanya?"
-    sy "All right, first up... let's get all of [mcname]'s coverage on the deck. Sound good, Kanya?"
+    sy "Pekala, öncelikle... [mcname]'in tüm çekimlerini güvertede alalım. Kulağa iyi geliyor mu, Kanya?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:150
 translate turkish sm1mv02s06_2d11ad7e:
 
     # kv "Sounds great to me!"
-    kv "Sounds great to me!"
+    kv "Bana harika geliyor!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:154
 translate turkish sm1mv02s06_f644995b:
 
     # sy "All right, and... camera?"
-    sy "All right, and... camera?"
+    sy "Pekala, ve... kamera?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:156
 translate turkish sm1mv02s06_dab6b7e5:
 
     # kv "Set."
-    kv "Set."
+    kv "Hazır."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:159
 translate turkish sm1mv02s06_dd7d141d:
 
     # sy "Sound?"
-    sy "Sound?"
+    sy "Ses?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:161
 translate turkish sm1mv02s06_edfcc4f6:
