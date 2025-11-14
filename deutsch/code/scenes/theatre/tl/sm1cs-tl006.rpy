@@ -2,91 +2,91 @@
 translate deutsch sm1cs_tl006_b8310e45:
 
     # tl "I was wondering if you were going to stop by."
-    tl "I was wondering if you were going to stop by."
+    tl "Ich habe mich schon gefragt, ob du vorbeikommen würdest."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:75
 translate deutsch sm1cs_tl006_741452ee:
 
     # mc "How could I resist the temptation?"
-    mc "How could I resist the temptation?"
+    mc "Wie hätte ich dieser Versuchung widerstehen können?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:78
 translate deutsch sm1cs_tl006_4277e7a9:
 
     # tl "The temptation of what? Me kicking your ass in pool?"
-    tl "The temptation of what? Me kicking your ass in pool?"
+    tl "Die Versuchung wovon? Dass ich dich beim Billard schlage?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:83
 translate deutsch sm1cs_tl006_fa1f7abb:
 
     # mc "Hey, I kicked {i}your{/i} ass in pool last time."
-    mc "Hey, I kicked {i}your{/i} ass in pool last time."
+    mc "Hey, ich habe {i}dich{/i} letztes Mal beim Billard fertiggemacht."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:85
 translate deutsch sm1cs_tl006_d36d8f1e:
 
     # tl "That was a fluke."
-    tl "That was a fluke."
+    tl "Das war ein Zufallstreffer."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:90
 translate deutsch sm1cs_tl006_cdddc4c4:
 
     # mc "Just wait until the next one."
-    mc "Just wait until the next one."
+    mc "Warte einfach bis zum nächsten Mal."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:100
 translate deutsch sm1cs_tl006_pay_bet_from_tl004_8740ae6c:
 
     # tl "I'm still waiting for the 40 bucks you owe me from the last time I kicked your ass."
-    tl "I'm still waiting for the 40 bucks you owe me from the last time I kicked your ass."
+    tl "Ich warte immer noch auf die 40 Dollar, die du mir schuldest, seit ich dir das letzte Mal in den Arsch getreten habe."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:102
 translate deutsch sm1cs_tl006_pay_bet_from_tl004_79dba188:
 
     # mc "Shit..."
-    mc "Shit..."
+    mc "Scheiße..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:108
 translate deutsch sm1cs_tl006_pay_bet_from_tl004_08ad240c:
 
     # mc "Here you go."
-    mc "Here you go."
+    mc "Bitte schön."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:110
 translate deutsch sm1cs_tl006_pay_bet_from_tl004_137c3d33:
 
     # tl "I knew you were good for it."
-    tl "I knew you were good for it."
+    tl "Ich wusste, dass du das kannst."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:115
 translate deutsch sm1cs_tl006_pay_bet_from_tl004_8d732fce:
 
     # mc "I, erm, will get you next time."
-    mc "I, erm, will get you next time."
+    mc "Ich, ähm, kriege dich nächstes Mal."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:117
 translate deutsch sm1cs_tl006_pay_bet_from_tl004_056b0673:
 
     # tl "You had better."
-    tl "You had better."
+    tl "Das solltest du besser."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:128
 translate deutsch sm1cs_tl006_continue_f37e80e2:
 
     # tl "But I have a funny feeling we're not here to play pool."
-    tl "But I have a funny feeling we're not here to play pool."
+    tl "Aber ich habe das komische Gefühl, dass wir nicht hier sind, um Billard zu spielen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:130
 translate deutsch sm1cs_tl006_continue_f35bfe99:
 
     # mc "Oh shit, that reminds me!"
-    mc "Oh shit, that reminds me!"
+    mc "Oh Mist, das erinnert mich an etwas!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:134
 translate deutsch sm1cs_tl006_continue_0c9d37c9:
 
     # mc "I'm supposed to text Stacy..."
-    mc "I'm supposed to text Stacy..."
+    mc "Ich soll Stacy eine Nachricht schreiben..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:139
 translate deutsch sm1cs_tl006_continue_5a402f79:
@@ -98,7 +98,7 @@ translate deutsch sm1cs_tl006_continue_5a402f79:
 translate deutsch sm1cs_tl006_continue_5d5bd908:
 
     # mc "Yeah, she wants to-"
-    mc "Yeah, she wants to-"
+    mc "Ja, sie will..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:143
 translate deutsch sm1cs_tl006_continue_6bbe3587:
@@ -110,25 +110,25 @@ translate deutsch sm1cs_tl006_continue_6bbe3587:
 translate deutsch sm1cs_tl006_continue_0d066607:
 
     # mc "-she'll be here in a minute."
-    mc "-she'll be here in a minute."
+    mc "-sie wird gleich hier sein."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:149
 translate deutsch sm1cs_tl006_continue_53d84903:
 
     # tl "Be here for what?"
-    tl "Be here for what?"
+    tl "Wozu hier sein?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:151
 translate deutsch sm1cs_tl006_continue_ba5035d1:
 
     # mc "She'll tell you about it."
-    mc "She'll tell you about it."
+    mc "Sie wird dir davon erzählen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:152
 translate deutsch sm1cs_tl006_continue_9e3d0285:
 
     # mc "If I tell you, she'll kill me. She's pumped."
-    mc "If I tell you, she'll kill me. She's pumped."
+    mc "Wenn ich es dir sage, bringt sie mich um. Sie ist total aufgeregt."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:155
 translate deutsch sm1cs_tl006_continue_173afac0:
@@ -140,151 +140,151 @@ translate deutsch sm1cs_tl006_continue_173afac0:
 translate deutsch sm1cs_tl006_continue_496b2a1a:
 
     # tl "So... how are things?"
-    tl "So... how are things?"
+    tl "Also... wie läuft's?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:166
 translate deutsch sm1cs_tl006_continue_07a27c38:
 
     # mc "Uhm... good? I guess?"
-    mc "Uhm... good? I guess?"
+    mc "Ähm... gut? Ich denke schon?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:169
 translate deutsch sm1cs_tl006_continue_f87fdd36:
 
     # tl "Cool... and, uhm... how is... work? Or whatever?"
-    tl "Cool... and, uhm... how is... work? Or whatever?"
+    tl "Cool... und, ähm... wie läuft es... bei der Arbeit? Oder so?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:172
 translate deutsch sm1cs_tl006_continue_fde655d7:
 
     # mc "Uhhh, what are you doing?"
-    mc "Uhhh, what are you doing?"
+    mc "Äh, was machst du da?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:174
 translate deutsch sm1cs_tl006_continue_9b754d1a:
 
     # tl "I don't fucking know. Small talk? Isn't that a thing people do?"
-    tl "I don't fucking know. Small talk? Isn't that a thing people do?"
+    tl "Ich habe keine Ahnung. Small Talk? Ist das nicht etwas, was Menschen tun?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:178
 translate deutsch sm1cs_tl006_continue_e9e00a09:
 
     # mc "Yeah, I guess so?"
-    mc "Yeah, I guess so?"
+    mc "Ja, ich denke schon?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:180
 translate deutsch sm1cs_tl006_continue_538b5d1b:
 
     # tl "Well fuck me for trying to do shit that friends do."
-    tl "Well fuck me for trying to do shit that friends do."
+    tl "Fick dich, dass ich versuche, das zu tun, was Freunde tun."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:184
 translate deutsch sm1cs_tl006_continue_511b8887:
 
     # tl "What."
-    tl "What."
+    tl "Was."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:186
 translate deutsch sm1cs_tl006_continue_a1ced148:
 
     # mc "Did you just say the \"f\" word?"
-    mc "Did you just say the \"f\" word?"
+    mc "Hast du gerade das \"F\" Wort gesagt?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:190
 translate deutsch sm1cs_tl006_continue_026bfe24:
 
     # tl "Fuck? I say fuck all the time."
-    tl "Fuck? I say fuck all the time."
+    tl "Fick? Ich sage ständig ficken."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:192
 translate deutsch sm1cs_tl006_continue_bbcd5076:
 
     # mc "No, \"friends\"."
-    mc "No, \"friends\"."
+    mc "Nein, \"Freunde\"."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:196
 translate deutsch sm1cs_tl006_continue_b0e9874f:
 
     # mct "Holy shit, did I make Taisia blush?"
-    mct "Holy shit, did I make Taisia blush?"
+    mct "Heilige Scheiße, habe ich Taisia zum Erröten gebracht?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:197
 translate deutsch sm1cs_tl006_continue_b934c453:
 
     # mct "I didn't think that was possible."
-    mct "I didn't think that was possible."
+    mct "Ich hätte nicht gedacht, dass das möglich ist."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:201
 translate deutsch sm1cs_tl006_continue_b355b036:
 
     # tl "Shut the fuck up, before I kick your ass."
-    tl "Shut the fuck up, before I kick your ass."
+    tl "Halt die Klappe, bevor ich dir in den Arsch trete."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:204
 translate deutsch sm1cs_tl006_continue_dc4574a3:
 
     # mct "That's the Taisia I know."
-    mct "That's the Taisia I know."
+    mct "Das ist die Taisia, die ich kenne."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:208
 translate deutsch sm1cs_tl006_continue_154de05e:
 
     # tl "How long did Stacy say she was going to take?"
-    tl "How long did Stacy say she was going to take?"
+    tl "Wie lange hat Stacy gesagt, dass sie brauchen würde?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:210
 translate deutsch sm1cs_tl006_continue_1b78aa92:
 
     # mc "She didn't say, just that she was on her way here."
-    mc "She didn't say, just that she was on her way here."
+    mc "Sie hat nichts gesagt, nur dass sie auf dem Weg hierher sei."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:211
 translate deutsch sm1cs_tl006_continue_156ef1b0:
 
     # tl "So what, she'll be here-"
-    tl "So what, she'll be here-"
+    tl "Na und, sie wird hier sein..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:221
 translate deutsch sm1cs_tl006_continue_2de09b27:
 
     # tl "-I guess right on cue."
-    tl "-I guess right on cue."
+    tl "-Ich schätze genau im richtigen Moment."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:225
 translate deutsch sm1cs_tl006_continue_fd108cd9:
 
     # sy "Roomie!"
-    sy "Roomie!"
+    sy "Mitbewohnerin!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:227
 translate deutsch sm1cs_tl006_continue_d568de72:
 
     # tl "Huh?"
-    tl "Huh?"
+    tl "Hä?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:231
 translate deutsch sm1cs_tl006_continue_268bf43c:
 
     # sy "I am so excited-"
-    sy "I am so excited-"
+    sy "Ich bin so aufgeregt-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:233
 translate deutsch sm1cs_tl006_continue_211a4051:
 
     # tl "What the hell are you talking about?"
-    tl "What the hell are you talking about?"
+    tl "Was zum Teufel redest du da?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:236
 translate deutsch sm1cs_tl006_continue_30507ca5:
 
     # sy "You didn't tell her?"
-    sy "You didn't tell her?"
+    sy "Du hast es ihr nicht gesagt?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:238
 translate deutsch sm1cs_tl006_continue_705d1f80:
 
     # mc "I thought-"
-    mc "I thought-"
+    mc "Ich dachte..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:241
 translate deutsch sm1cs_tl006_continue_2306b455:
@@ -296,19 +296,19 @@ translate deutsch sm1cs_tl006_continue_2306b455:
 translate deutsch sm1cs_tl006_continue_eb3d9e6e:
 
     # sy "We want you to move in!"
-    sy "We want you to move in!"
+    sy "Wir möchten, dass du bei uns einziehst!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:246
 translate deutsch sm1cs_tl006_continue_d568de72_1:
 
     # tl "Huh?"
-    tl "Huh?"
+    tl "Hä?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:249
 translate deutsch sm1cs_tl006_continue_863cdab2:
 
     # mc "I told Stacy that you were looking for a place."
-    mc "I told Stacy that you were looking for a place."
+    mc "Ich habe Stacy gesagt, dass du eine Wohnung suchst."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:251
 translate deutsch sm1cs_tl006_continue_3021eeb1:
@@ -320,37 +320,37 @@ translate deutsch sm1cs_tl006_continue_3021eeb1:
 translate deutsch sm1cs_tl006_continue_3160d83f:
 
     # sy "And now we have all these rooms!"
-    sy "And now we have all these rooms!"
+    sy "Und jetzt haben wir all diese Zimmer!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:260
 translate deutsch sm1cs_tl006_continue_0f66c468:
 
     # sy "I don't know if you saw, but there's all this space on the second floor!"
-    sy "I don't know if you saw, but there's all this space on the second floor!"
+    sy "Ich weiß nicht, ob du es gesehen hast, aber im zweiten Stock ist jede Menge Platz!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:263
 translate deutsch sm1cs_tl006_continue_1a7728f1:
 
     # tl "I didn't see any stairs at your place."
-    tl "I didn't see any stairs at your place."
+    tl "Ich habe keine Treppe bei euch gesehen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:265
 translate deutsch sm1cs_tl006_continue_d6e3eff4:
 
     # mc "Well... we need to do a little bit of work on the studio. Including adding some stairs."
-    mc "Well... we need to do a little bit of work on the studio. Including adding some stairs."
+    mc "Nun... wir müssen noch ein wenig am Studio arbeiten. Unter anderem müssen wir eine Treppe einbauen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:267
 translate deutsch sm1cs_tl006_continue_8ba73abe:
 
     # tl "I don't know... what would the deal be? I have to pay you in sex or something?"
-    tl "I don't know... what would the deal be? I have to pay you in sex or something?"
+    tl "Ich weiß nicht... wie würde das funktionieren? Muss ich dann mit Sex bezahlen oder so?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:271
 translate deutsch sm1cs_tl006_continue_34443730:
 
     # sy "That would totally be fine!"
-    sy "That would totally be fine!"
+    sy "Das wäre völlig in Ordnung!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:274
 translate deutsch sm1cs_tl006_continue_9de07441:
@@ -362,19 +362,19 @@ translate deutsch sm1cs_tl006_continue_9de07441:
 translate deutsch sm1cs_tl006_continue_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "Was?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:280
 translate deutsch sm1cs_tl006_continue_0f92e14d:
 
     # mc "You'll have to forgive my sister, she is... excitable."
-    mc "You'll have to forgive my sister, she is... excitable."
+    mc "Du musst meiner Schwester verzeihen, sie ist... leicht erregbar."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:282
 translate deutsch sm1cs_tl006_continue_ad0383a0:
 
     # mc "You'll have to forgive her. She is... excitable."
-    mc "You'll have to forgive her. She is... excitable."
+    mc "Du musst ihr verzeihen. Sie ist... leicht erregbar."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:285
 translate deutsch sm1cs_tl006_continue_56d3ff98:
@@ -386,295 +386,295 @@ translate deutsch sm1cs_tl006_continue_56d3ff98:
 translate deutsch sm1cs_tl006_continue_18170bcd:
 
     # tl "I've noticed, believe me."
-    tl "I've noticed, believe me."
+    tl "Ich habe es schon bemerkt, glaube mir."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:291
 translate deutsch sm1cs_tl006_continue_8cb8d645:
 
     # sy "Hey again!"
-    sy "Hey again!"
+    sy "Hey nochmal!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:295
 translate deutsch sm1cs_tl006_continue_ea3a4832:
 
     # sy "Come on, can't a girl be excited to have a new roommate?"
-    sy "Come on, can't a girl be excited to have a new roommate?"
+    sy "Komm schon, darf sich ein Mädchen nicht freuen, wenn es eine neue Mitbewohnerin bekommt?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:299
 translate deutsch sm1cs_tl006_continue_06319a91:
 
     # sy "Living with [mcname] isn't all it's cracked up to be."
-    sy "Living with [mcname] isn't all it's cracked up to be."
+    sy "Das Zusammenleben mit [mcname] ist nicht so toll, wie alle immer denken."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:302
 translate deutsch sm1cs_tl006_continue_5dbf65dc:
 
     # tl "You're making a hell of a sales pitch."
-    tl "You're making a hell of a sales pitch."
+    tl "Du machst einen verdammt guten Verkaufsvortrag."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:304
 translate deutsch sm1cs_tl006_continue_53f1f409:
 
     # sy "Wait, that's not what I mean!"
-    sy "Wait, that's not what I mean!"
+    sy "Moment, so meine ich das nicht!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:307
 translate deutsch sm1cs_tl006_continue_1646e120:
 
     # sy "We have great water pressure, aaaand you'll have your own room, aaaaaand the building has central air!"
-    sy "We have great water pressure, aaaand you'll have your own room, aaaaaand the building has central air!"
+    sy "Wir haben einen tollen Wasserdruck, uuuund du bekommst dein eigenes Zimmer, uuuund das Gebäude hat eine zentrale Klimaanlage!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:309
 translate deutsch sm1cs_tl006_continue_b4be3ee7:
 
     # tl "{size=*0.6}Central air would be nice...{/size}"
-    tl "{size=*0.6}Central air would be nice...{/size}"
+    tl "{size=*0.6}Eine zentrale Klimaanlage wäre schön...{/size}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:312
 translate deutsch sm1cs_tl006_continue_816b7f3d:
 
     # sy "See! Plus, you can fuck [mcname] whenever you waaaaaaant!"
-    sy "See! Plus, you can fuck [mcname] whenever you waaaaaaant!"
+    sy "Siehst du! Außerdem kannst du [mcname] ficken, wann iiiiiimmer du willst!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:314
 translate deutsch sm1cs_tl006_continue_a31fc335:
 
     # tl "I don't know..."
-    tl "I don't know..."
+    tl "Ich weiß ja nicht..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:317
 translate deutsch sm1cs_tl006_continue_e2be6b76:
 
     # sy "What can I do to convince you, Taisia?"
-    sy "What can I do to convince you, Taisia?"
+    sy "Was kann ich tun, um dich zu überzeugen, Taisia?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:320
 translate deutsch sm1cs_tl006_continue_f84e4202:
 
     # tl "What if... we make a wager?"
-    tl "What if... we make a wager?"
+    tl "Was wäre, wenn... wir eine Wette abschließen würden?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:322
 translate deutsch sm1cs_tl006_continue_c1353656:
 
     # sy "I'm listening."
-    sy "I'm listening."
+    sy "Ich höre."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:325
 translate deutsch sm1cs_tl006_continue_0f56e184:
 
     # tl "You beat me in a game of pool and I'll move in."
-    tl "You beat me in a game of pool and I'll move in."
+    tl "Wenn du mich beim Billard besiegst, ziehe ich bei euch ein."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:327
 translate deutsch sm1cs_tl006_continue_34583c3d:
 
     # sy "Deal!"
-    sy "Deal!"
+    sy "Abgemacht!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:330
 translate deutsch sm1cs_tl006_continue_220f0bec:
 
     # mc "Wait, Stacy - what happens if you lose?"
-    mc "Wait, Stacy - what happens if you lose?"
+    mc "Warte, Stacy – was passiert, wenn du verlierst?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:333
 translate deutsch sm1cs_tl006_continue_7d8553b5:
 
     # tl "You give me $[sm1cs_tl006_sy_bet_money]."
-    tl "You give me $[sm1cs_tl006_sy_bet_money]."
+    tl "Du gibst mir $[sm1cs_tl006_sy_bet_money]."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:335
 translate deutsch sm1cs_tl006_continue_5c456724:
 
     # mc "Hang on-"
-    mc "Hang on-"
+    mc "Warte mal-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:339
 translate deutsch sm1cs_tl006_continue_34583c3d_1:
 
     # sy "Deal!"
-    sy "Deal!"
+    sy "Abgemacht!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:343
 translate deutsch sm1cs_tl006_continue_923c461d:
 
     # mc "Can you give me a moment to chat with my sister, Taisia?"
-    mc "Can you give me a moment to chat with my sister, Taisia?"
+    mc "Kannst du mir einen Moment Zeit geben, um mit meiner Schwester zu sprechen, Taisia?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:345
 translate deutsch sm1cs_tl006_continue_83a9b809:
 
     # mc "Can you give us a sec, Taisia?"
-    mc "Can you give us a sec, Taisia?"
+    mc "Kannst du uns einen Moment Zeit geben, Taisia?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:348
 translate deutsch sm1cs_tl006_continue_5c47b448:
 
     # tl "Sure, whatever you need."
-    tl "Sure, whatever you need."
+    tl "Klar, was immer du brauchst."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:352
 translate deutsch sm1cs_tl006_continue_88cc7bf8:
 
     # mc "Stacy! What are you doing!"
-    mc "Stacy! What are you doing!"
+    mc "Stacy! Was machst du da?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:354
 translate deutsch sm1cs_tl006_continue_32f212d3:
 
     # sy "Getting us a new roommate!"
-    sy "Getting us a new roommate!"
+    sy "Uns eine neue Mitbewohnerin besorgen!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:357
 translate deutsch sm1cs_tl006_continue_c46bd51b:
 
     # mc "You're gambling with $[sm1cs_tl006_sy_bet_money]!"
-    mc "You're gambling with $[sm1cs_tl006_sy_bet_money]!"
+    mc "Du spielst um $[sm1cs_tl006_sy_bet_money]!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:359
 translate deutsch sm1cs_tl006_continue_8c9ccc57:
 
     # mc "And that's a shit ton of money!"
-    mc "And that's a shit ton of money!"
+    mc "Und das ist eine Menge Geld!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:361
 translate deutsch sm1cs_tl006_continue_4cd15a32:
 
     # mc "And we don't have that kind of cash laying around!"
-    mc "And we don't have that kind of cash laying around!"
+    mc "Und wir haben nicht so viel Geld übrig!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:365
 translate deutsch sm1cs_tl006_continue_a823aa9f:
 
     # sy "Don't worry big brother, I got this!"
-    sy "Don't worry big brother, I got this!"
+    sy "Keine Sorge, großer Bruder, ich schaffe das schon!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:367
 translate deutsch sm1cs_tl006_continue_a0154f2b:
 
     # sy "Don't worry, [mcname]! I got this!"
-    sy "Don't worry, [mcname]! I got this!"
+    sy "Keine Sorge, [mcname]! Ich schaff das!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:371
 translate deutsch sm1cs_tl006_continue_af6f8b9e:
 
     # mct "Shit... this isn't going to go well... is it?"
-    mct "Shit... this isn't going to go well... is it?"
+    mct "Scheiße... das wird nicht gut gehen... oder?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:375
 translate deutsch sm1cs_tl006_continue_b879915f:
 
     # sy "You're on, Taisia!"
-    sy "You're on, Taisia!"
+    sy "Du bist dran, Taisia!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:377
 translate deutsch sm1cs_tl006_continue_a55dcb2c:
 
     # tl "Hell yeah."
-    tl "Hell yeah."
+    tl "Verdammt ja."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:382
 translate deutsch sm1cs_tl006_continue_91753d2d:
 
     # sy "I'm going to kick your ass!"
-    sy "I'm going to kick your ass!"
+    sy "Ich werde dir in den Arsch treten!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:384
 translate deutsch sm1cs_tl006_continue_1088cde2:
 
     # tl "Uh huh."
-    tl "Uh huh."
+    tl "Aha."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:389
 translate deutsch sm1cs_tl006_continue_59db1228:
 
     # sy "If my brother can beat you in pool, so can I!"
-    sy "If my brother can beat you in pool, so can I!"
+    sy "Wenn mein Bruder dich beim Billard schlagen kann, kann ich das auch!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:391
 translate deutsch sm1cs_tl006_continue_002f7fc6:
 
     # sy "If [mcname] can beat you in pool, so can I!"
-    sy "If [mcname] can beat you in pool, so can I!"
+    sy "Wenn [mcname] dich beim Billard schlagen kann, dann kann ich das auch!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:394
 translate deutsch sm1cs_tl006_continue_064b6db1:
 
     # sy "And I am a much better pool player than my brother!"
-    sy "And I am a much better pool player than my brother!"
+    sy "Und ich bin eine viel bessere Billardspielerin als mein Bruder!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:396
 translate deutsch sm1cs_tl006_continue_49f1eb9c:
 
     # sy "And I am a much better pool player than [mcname]!"
-    sy "And I am a much better pool player than [mcname]!"
+    sy "Und ich bin eine viel bessere Billardspielerin als [mcname]!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:401
 translate deutsch sm1cs_tl006_continue_6fb0e491:
 
     # tl "Yea."
-    tl "Yea."
+    tl "Ahja."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:404
 translate deutsch sm1cs_tl006_continue_ccafa2b5:
 
     # sy "Just you watch!"
-    sy "Just you watch!"
+    sy "Du wirst schon sehen!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:408
 translate deutsch sm1cs_tl006_continue_07f404b7:
 
     # tl "All right then, hot shot. You break."
-    tl "All right then, hot shot. You break."
+    tl "Na gut, du Überflieger. Du fängst an."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:410
 translate deutsch sm1cs_tl006_continue_e56b6c3b:
 
     # sy "Hell yeah! Just you wait and see!"
-    sy "Hell yeah! Just you wait and see!"
+    sy "Verdammt ja! Wartet es nur ab!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:411
 translate deutsch sm1cs_tl006_continue_97cdb985:
 
     # tl "And Stacy?"
-    tl "And Stacy?"
+    tl "Und Stacy?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:412
 translate deutsch sm1cs_tl006_continue_de0ecb93:
 
     # sy "Yeah?"
-    sy "Yeah?"
+    sy "Ja?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:415
 translate deutsch sm1cs_tl006_continue_5a511c63:
 
     # tl "I like your glasses. They make you look hot."
-    tl "I like your glasses. They make you look hot."
+    tl "Ich mag deine Brille. Du siehst damit heiß aus."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:420
 translate deutsch sm1cs_tl006_continue_45719e7d:
 
     # sy "Oh, erm, uhm, thanks, Taisia."
-    sy "Oh, erm, uhm, thanks, Taisia."
+    sy "Oh, ähm, danke, Taisia."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:431
 translate deutsch sm1cs_tl006_continue_43730f7b:
 
     # sy "No, no, no, no, no!"
-    sy "No, no, no, no, no!"
+    sy "Nein, nein, nein, nein, nein!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:436
 translate deutsch sm1cs_tl006_continue_1a4c31ef:
 
     # sy "Nooooooo!"
-    sy "Nooooooo!"
+    sy "Nein!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:440
 translate deutsch sm1cs_tl006_continue_2de5405d:
 
     # tl "Easiest $[sm1cs_tl006_sy_bet_money] I've ever made."
-    tl "Easiest $[sm1cs_tl006_sy_bet_money] I've ever made."
+    tl "Das waren die einfachsten $[sm1cs_tl006_sy_bet_money], die ich je verdient habe."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:441
 translate deutsch sm1cs_tl006_continue_5c2c7bcf:
@@ -686,49 +686,49 @@ translate deutsch sm1cs_tl006_continue_5c2c7bcf:
 translate deutsch sm1cs_tl006_continue_e0c10ac4:
 
     # sy "Best two out of three?"
-    sy "Best two out of three?"
+    sy "Beste Zwei von drei?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:447
 translate deutsch sm1cs_tl006_continue_596c654d:
 
     # tl "As long as you rack it up again."
-    tl "As long as you rack it up again."
+    tl "Solange du es wieder aufbaust."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:449
 translate deutsch sm1cs_tl006_continue_34583c3d_2:
 
     # sy "Deal!"
-    sy "Deal!"
+    sy "Abgemacht!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:452
 translate deutsch sm1cs_tl006_continue_adf0ed63:
 
     # mct "Shit... this is {b}really{/b} not going to go well."
-    mct "Shit... this is {b}really{/b} not going to go well."
+    mct "Scheiße... das wird {b}wirklich{/b} nicht gut gehen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:453
 translate deutsch sm1cs_tl006_continue_9c77951b:
 
     # mct "Taisia is going to end up owning our studio at this rate..."
-    mct "Taisia is going to end up owning our studio at this rate..."
+    mct "Bei diesem Tempo wird Taisia am Ende unser Studio besitzen..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:461
 translate deutsch sm1cs_tl006_continue_b4bbb763:
 
     # sy "Yes!"
-    sy "Yes!"
+    sy "Ja!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:464
 translate deutsch sm1cs_tl006_continue_429dde94:
 
     # tl "Congrats, you didn't lose on the break. We still have a whole game to play though."
-    tl "Congrats, you didn't lose on the break. We still have a whole game to play though."
+    tl "Glückwunsch, du hast in der Pause nicht verloren. Aber wir haben noch ein ganzes Spiel vor uns."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:488
 translate deutsch sm1cs_tl006_continue_38f96571:
 
     # tl "Well, looks like I won."
-    tl "Well, looks like I won."
+    tl "Nun, sieht so aus, als hätte ich gewonnen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:489
 translate deutsch sm1cs_tl006_continue_5c2c7bcf_1:
@@ -740,19 +740,19 @@ translate deutsch sm1cs_tl006_continue_5c2c7bcf_1:
 translate deutsch sm1cs_tl006_continue_c5585d29:
 
     # tl "I'll take my money now."
-    tl "I'll take my money now."
+    tl "Ich nehme jetzt mein Geld."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:493
 translate deutsch sm1cs_tl006_continue_e1a12b08:
 
     # sy "How about best 3 out of 5! And we'll double the bet!"
-    sy "How about best 3 out of 5! And we'll double the bet!"
+    sy "Wie wäre es mit den besten 3 von 5! Und wir verdoppeln den Einsatz!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:495
 translate deutsch sm1cs_tl006_continue_44857895:
 
     # tl "All right-"
-    tl "All right-"
+    tl "In Ordnung-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:498
 translate deutsch sm1cs_tl006_continue_9de07441_1:
@@ -764,31 +764,31 @@ translate deutsch sm1cs_tl006_continue_9de07441_1:
 translate deutsch sm1cs_tl006_continue_62c252e1:
 
     # sy "What!"
-    sy "What!"
+    sy "Was!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:503
 translate deutsch sm1cs_tl006_continue_7c373379:
 
     # mc "We don't have that-"
-    mc "We don't have that-"
+    mc "Das haben wir nicht-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:506
 translate deutsch sm1cs_tl006_continue_9f6a7c7a:
 
     # sy "Don't worry! I got this!"
-    sy "Don't worry! I got this!"
+    sy "Keine Sorge! Ich schaffe das!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:509
 translate deutsch sm1cs_tl006_continue_f7c3275a:
 
     # sy "This time, it's all mine!"
-    sy "This time, it's all mine!"
+    sy "Dieses Mal gehört es ganz mir!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:524
 translate deutsch sm1cs_tl006_continue_3fdaa521:
 
     # tl "Well, well, well... looks like I won. Again."
-    tl "Well, well, well... looks like I won. Again."
+    tl "Na, na, na... sieht so aus, als hätte ich gewonnen. Schon wieder."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:525
 translate deutsch sm1cs_tl006_continue_5c2c7bcf_2:
@@ -800,25 +800,25 @@ translate deutsch sm1cs_tl006_continue_5c2c7bcf_2:
 translate deutsch sm1cs_tl006_continue_eb47d999:
 
     # tl "So, double or nothing, huh?"
-    tl "So, double or nothing, huh?"
+    tl "Also, doppelt oder nichts, was?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:529
 translate deutsch sm1cs_tl006_continue_572a467a:
 
     # sy "4 out of 7."
-    sy "4 out of 7."
+    sy "4 von 7."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:532
 translate deutsch sm1cs_tl006_continue_b821e25d:
 
     # tl "Hey, it's your money."
-    tl "Hey, it's your money."
+    tl "Hey, es ist dein Geld."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:550
 translate deutsch sm1cs_tl006_continue_22d5f9d5:
 
     # tl "You sure you've played pool before?"
-    tl "You sure you've played pool before?"
+    tl "Bist du sicher, dass du schon einmal Billard gespielt hast?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:551
 translate deutsch sm1cs_tl006_continue_5c2c7bcf_3:
@@ -830,223 +830,223 @@ translate deutsch sm1cs_tl006_continue_5c2c7bcf_3:
 translate deutsch sm1cs_tl006_continue_b694e053:
 
     # sy "Shit."
-    sy "Shit."
+    sy "Scheiße."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:557
 translate deutsch sm1cs_tl006_continue_e25386ff:
 
     # sy "I need a drink."
-    sy "I need a drink."
+    sy "Ich brauche einen Drink."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:559
 translate deutsch sm1cs_tl006_continue_33f84937:
 
     # mc "You'll need to get it yourself."
-    mc "You'll need to get it yourself."
+    mc "Den musst du dir schon selber machen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:562
 translate deutsch sm1cs_tl006_continue_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "Hä?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:564
 translate deutsch sm1cs_tl006_continue_e3aab9b1:
 
     # mc "The bartender took off. Closed down for the night."
-    mc "The bartender took off. Closed down for the night."
+    mc "Der Barkeeper machte sich aus dem Staub. Für heute Nacht geschlossen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:568
 translate deutsch sm1cs_tl006_continue_70310e6c:
 
     # sy "The bartender just... left us here?"
-    sy "The bartender just... left us here?"
+    sy "Die Barkeeperin hat uns einfach... hier stehen lassen?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:572
 translate deutsch sm1cs_tl006_continue_e147b1d5:
 
     # tl "Yeah, she lets me stay after sometimes. When I get into the zone, or just need somewhere to chill for a bit."
-    tl "Yeah, she lets me stay after sometimes. When I get into the zone, or just need somewhere to chill for a bit."
+    tl "Ja, manchmal lässt sie mich länger bleiben. Wenn ich richtig in Fahrt bin oder einfach nur einen Ort brauche, um mich ein bisschen zu entspannen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:576
 translate deutsch sm1cs_tl006_continue_032ad202:
 
     # sy "Oh, that's pretty cool."
-    sy "Oh, that's pretty cool."
+    sy "Oh, das ist ziemlich cool."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:580
 translate deutsch sm1cs_tl006_continue_30bb2811:
 
     # sy "So that means... we're the only ones here."
-    sy "So that means... we're the only ones here."
+    sy "Das heißt also... wir sind die Einzigen hier."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:583
 translate deutsch sm1cs_tl006_continue_3cbc44c4:
 
     # tl "Yep."
-    tl "Yep."
+    tl "Ja."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:586
 translate deutsch sm1cs_tl006_continue_67100f5a:
 
     # sy "How about... we make a {i}new{/i} bet?"
-    sy "How about... we make a {i}new{/i} bet?"
+    sy "Wie wäre es... wenn wir eine {i}neue{/i} Wette abschließen?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:588
 translate deutsch sm1cs_tl006_continue_1edc3d0f:
 
     # tl "Sure. I kicked your ass in pool, I can kick your ass in whatever else."
-    tl "Sure. I kicked your ass in pool, I can kick your ass in whatever else."
+    tl "Klar. Ich habe dich beim Billard geschlagen, ich kann dich auch bei allem anderen schlagen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:589
 translate deutsch sm1cs_tl006_continue_535e1461:
 
     # sy "Is that so..."
-    sy "Is that so..."
+    sy "Ist das so..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:591
 translate deutsch sm1cs_tl006_continue_ba2808f5:
 
     # sy "Well then... I bet that I can make you cum before I cum."
-    sy "Well then... I bet that I can make you cum before I cum."
+    sy "Na dann... Ich wette, dass ich dich zum Orgasmus bringen kann, bevor ich komme."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:595
 translate deutsch sm1cs_tl006_continue_b86bf87d:
 
     # tl "Is that so."
-    tl "Is that so."
+    tl "Ist das so."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:599
 translate deutsch sm1cs_tl006_continue_394f8f09:
 
     # sy "Uh huh.{w} And if I win, you move in. And if I lose, [mcname] will become your sex slave for a week."
-    sy "Uh huh.{w} And if I win, you move in. And if I lose, [mcname] will become your sex slave for a week."
+    sy "Aha.{w} Und wenn ich gewinne, ziehst du ein. Und wenn ich verliere, wird [mcname] eine Woche lang dein Sexsklave sein."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:603
 translate deutsch sm1cs_tl006_continue_cb636fa6:
 
     # mc "Woah! Don't I get a say in this?"
-    mc "Woah! Don't I get a say in this?"
+    mc "Wow! Habe ich dabei kein Mitspracherecht?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:605
 translate deutsch sm1cs_tl006_continue_54d470fc:
 
     # tl "Deal."
-    tl "Deal."
+    tl "Abgemacht."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:606
 translate deutsch sm1cs_tl006_continue_4f9a6029:
 
     # mct "I am so fucked..."
-    mct "I am so fucked..."
+    mct "Ich bin so am Arsch..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:609
 translate deutsch sm1cs_tl006_continue_8a355e9e:
 
     # sy "Don't worry, [mcname], we haven't forgotten about you."
-    sy "Don't worry, [mcname], we haven't forgotten about you."
+    sy "Keine Sorge, [mcname], wir haben dich nicht vergessen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:610
 translate deutsch sm1cs_tl006_continue_7b626953:
 
     # sy "In fact, I know the {i}perfect{/i} way to get Taisia all worked up."
-    sy "In fact, I know the {i}perfect{/i} way to get Taisia all worked up."
+    sy "Tatsächlich kenne ich den {i}perfekten{/i} Weg, um Taisia so richtig zu erregen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:613
 translate deutsch sm1cs_tl006_continue_0369719c:
 
     # tl "Oh, do you?"
-    tl "Oh, do you?"
+    tl "Ach, wirklich?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:615
 translate deutsch sm1cs_tl006_continue_16388ad3:
 
     # sy "Mmmhmmm. Taisia, get on your knees. And [mcname], get your cock out."
-    sy "Mmmhmmm. Taisia, get on your knees. And [mcname], get your cock out."
+    sy "Mmmhmmm. Taisia, geh auf die Knie. Und [mcname], hol deinen Schwanz raus."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:619
 translate deutsch sm1cs_tl006_continue_54bd1c5e:
 
     # mc "Whatever you say, Stacy."
-    mc "Whatever you say, Stacy."
+    mc "Was immer du sagst, Stacy."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:623
 translate deutsch sm1cs_tl006_continue_f4f5ca8f:
 
     # tl "You think [mcname]'s dick is all it takes to get me wet?"
-    tl "You think [mcname]'s dick is all it takes to get me wet?"
+    tl "Du denkst, [mcname]s Schwanz reicht aus, um mich feucht zu machen?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:625
 translate deutsch sm1cs_tl006_continue_c478c069:
 
     # sy "Nope."
-    sy "Nope."
+    sy "Nein."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:629
 translate deutsch sm1cs_tl006_continue_fc1c6e58:
 
     # sy "But you should open wide."
-    sy "But you should open wide."
+    sy "Aber du solltest den Mund weit öffnen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:631
 translate deutsch sm1cs_tl006_continue_93fcef52:
 
     # tl "Why-"
-    tl "Why-"
+    tl "Warum-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:635
 translate deutsch sm1cs_tl006_continue_98c1980e:
 
     # sy "Because otherwise where will [mcname]'s dick go!?"
-    sy "Because otherwise where will [mcname]'s dick go!?"
+    sy "Denn wo soll sonst [mcname]s Schwanz hin?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:637
 translate deutsch sm1cs_tl006_continue_170f9236:
 
     # tl "Holy fuck!"
-    tl "Holy fuck!"
+    tl "Heilige Scheiße!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:640
 translate deutsch sm1cs_tl006_continue_aaf9eb32:
 
     # mc "Okay, this is pretty hot."
-    mc "Okay, this is pretty hot."
+    mc "Okay, das ist ziemlich heiß."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:642
 translate deutsch sm1cs_tl006_continue_c80268e0:
 
     # sy "Shove your dick into the back of her throat, [mcname]."
-    sy "Shove your dick into the back of her throat, [mcname]."
+    sy "Steck deinen Schwanz tief in ihren Hals, [mcname]."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:643
 translate deutsch sm1cs_tl006_continue_5844ae44:
 
     # mc "Hell yeah."
-    mc "Hell yeah."
+    mc "Oh ja."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:653
 translate deutsch sm1cs_tl006_continue_2173cc71:
 
     # sy "Yeah, choke on that cock, Taisia!"
-    sy "Yeah, choke on that cock, Taisia!"
+    sy "Ja, würg an diesem Schwanz, Taisia!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:654
 translate deutsch sm1cs_tl006_continue_551da538:
 
     # mc "Fuck, she's really sucking my dick!"
-    mc "Fuck, she's really sucking my dick!"
+    mc "Verdammt, sie lutscht mir wirklich den Schwanz!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:657
 translate deutsch sm1cs_tl006_continue_fb70a385:
 
     # mc "Like, she is {i}reaaaalllly{/i} sucking my dick!"
-    mc "Like, she is {i}reaaaalllly{/i} sucking my dick!"
+    mc "Sie lutscht mir {i}wiiiirklich{/i} den Schwanz!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:660
 translate deutsch sm1cs_tl006_continue_3fc3a7b3:
 
     # sy "Choking on it like a good little slut, right?"
-    sy "Choking on it like a good little slut, right?"
+    sy "Du würgst daran wie eine brave kleine Schlampe, oder?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:661
 translate deutsch sm1cs_tl006_continue_192431d9:
@@ -1058,13 +1058,13 @@ translate deutsch sm1cs_tl006_continue_192431d9:
 translate deutsch sm1cs_tl006_continue_6d090c3c:
 
     # mc "Like something, yeah! Fuck it feels great."
-    mc "Like something, yeah! Fuck it feels great."
+    mc "Ja, das ist toll! Das fühlt sich verdammt gut an."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:667
 translate deutsch sm1cs_tl006_continue_d90c642c:
 
     # sy "It's pretty hot to watch from this angle too."
-    sy "It's pretty hot to watch from this angle too."
+    sy "Auch aus diesem Blickwinkel ist es ziemlich heiß anzusehen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:668
 translate deutsch sm1cs_tl006_continue_01d6f223:
@@ -1076,37 +1076,37 @@ translate deutsch sm1cs_tl006_continue_01d6f223:
 translate deutsch sm1cs_tl006_continue_c3021b65:
 
     # sy "I thought you might enjoy something like this."
-    sy "I thought you might enjoy something like this."
+    sy "Ich dachte, so etwas würde dir gefallen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:674
 translate deutsch sm1cs_tl006_continue_26dbc44d:
 
     # sy "I'm just happy I get to participate this time!"
-    sy "I'm just happy I get to participate this time!"
+    sy "Ich bin einfach nur froh, dass ich dieses Mal mitmachen darf!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:675
 translate deutsch sm1cs_tl006_continue_90204cfe:
 
     # mc "Oh, you are welcome to participate any time, if this is how you plan to help!"
-    mc "Oh, you are welcome to participate any time, if this is how you plan to help!"
+    mc "Oh, du kannst jederzeit gerne mitmachen, wenn du so helfen möchtest!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:678
 translate deutsch sm1cs_tl006_continue_d196506e:
 
     # sy "Oh, I have {i}so many{/i} ideas on how I can help!"
-    sy "Oh, I have {i}so many{/i} ideas on how I can help!"
+    sy "Oh, ich habe {i}so viele{/i} Ideen, wie ich helfen kann!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:681
 translate deutsch sm1cs_tl006_continue_3f39100a:
 
     # mc "God, her throat is so tight around my cock!"
-    mc "God, her throat is so tight around my cock!"
+    mc "Gott, ihre Kehle ist so eng um meinen Schwanz!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:682
 translate deutsch sm1cs_tl006_continue_64e2896d:
 
     # sy "It sounds like she's slobbering and gobbling up your cock pretty good!"
-    sy "It sounds like she's slobbering and gobbling up your cock pretty good!"
+    sy "Es klingt, als würde sie deinen Schwanz richtig gut lutschen und verschlingen!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:683
 translate deutsch sm1cs_tl006_continue_283efe94:
@@ -1118,67 +1118,67 @@ translate deutsch sm1cs_tl006_continue_283efe94:
 translate deutsch sm1cs_tl006_continue_e5f42149:
 
     # mc "Oh God... fuck yesssss..."
-    mc "Oh God... fuck yesssss..."
+    mc "Oh Gott... verdammt jaaaa..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:687
 translate deutsch sm1cs_tl006_continue_ca25effe:
 
     # sy "Oh, it sounds like you are {i}really{/i} enjoying this."
-    sy "Oh, it sounds like you are {i}really{/i} enjoying this."
+    sy "Oh, es klingt, als würde dir das {i}wirklich{/i} Spaß machen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:688
 translate deutsch sm1cs_tl006_continue_8852e77f:
 
     # mc "Uh huh."
-    mc "Uh huh."
+    mc "Oh ja."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:695
 translate deutsch sm1cs_tl006_continue_a472e4f3:
 
     # tl "Fuck..."
-    tl "Fuck..."
+    tl "Scheiße..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:697
 translate deutsch sm1cs_tl006_continue_de2bbf3b:
 
     # mc "You all good, Taisia?"
-    mc "You all good, Taisia?"
+    mc "Alles in Ordnung, Taisia?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:700
 translate deutsch sm1cs_tl006_continue_326bf95c:
 
     # tl "Yeah... better than good..."
-    tl "Yeah... better than good..."
+    tl "Ja... mehr als in Ordnung..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:701
 translate deutsch sm1cs_tl006_continue_303dd945:
 
     # tl "I didn't know Stacy... was such a freak..."
-    tl "I didn't know Stacy... was such a freak..."
+    tl "Ich wusste nicht, dass Stacy... so eine Verrückte ist..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:704
 translate deutsch sm1cs_tl006_continue_bff2d586:
 
     # sy "Oh, that's just the tip of the iceberg."
-    sy "Oh, that's just the tip of the iceberg."
+    sy "Oh, das ist nur die Spitze des Eisbergs."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:707
 translate deutsch sm1cs_tl006_continue_5ec82b12:
 
     # sy "I have a few more fun ideas in store for you."
-    sy "I have a few more fun ideas in store for you."
+    sy "Ich habe noch ein paar weitere lustige Ideen für dich auf Lager."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:709
 translate deutsch sm1cs_tl006_continue_7f009669:
 
     # tl "I can't help but say I'm excited."
-    tl "I can't help but say I'm excited."
+    tl "Ich kann nicht anders, als zu sagen, dass ich aufgeregt bin."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:710
 translate deutsch sm1cs_tl006_continue_e732c3a5:
 
     # sy "Good. If that's the case take off the rest of your clothes."
-    sy "Good. If that's the case take off the rest of your clothes."
+    sy "Gut. Wenn das der Fall ist, zieh den Rest deiner Kleidung aus."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:713
 translate deutsch sm1cs_tl006_continue_a4cd1341:
@@ -1190,121 +1190,121 @@ translate deutsch sm1cs_tl006_continue_a4cd1341:
 translate deutsch sm1cs_tl006_continue_6bfc74d9_1:
 
     # sy "What?"
-    sy "What?"
+    sy "Was?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:718
 translate deutsch sm1cs_tl006_continue_cbdfcfdf:
 
     # sy "Suddenly shy? Nervous about what's next?"
-    sy "Suddenly shy? Nervous about what's next?"
+    sy "Plötzlich schüchtern? Nervös wegen dem, was als Nächstes kommt?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:721
 translate deutsch sm1cs_tl006_continue_986d11cf:
 
     # tl "No. Just savoring a moment."
-    tl "No. Just savoring a moment."
+    tl "Nein. Ich genieße nur den Moment."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:722
 translate deutsch sm1cs_tl006_continue_885dc3e1:
 
     # tl "So what's next?"
-    tl "So what's next?"
+    tl "Was kommt als Nächstes?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:726
 translate deutsch sm1cs_tl006_continue_c061ec3d:
 
     # sy "[mcname], lay down. And Taisia, feel free to take him for a ride. Reverse cowgirl style."
-    sy "[mcname], lay down. And Taisia, feel free to take him for a ride. Reverse cowgirl style."
+    sy "[mcname], leg dich hin. Und Taisia, du kannst ihn gerne reiten. Im Reverse Cowgirl Stil."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:728
 translate deutsch sm1cs_tl006_continue_5ee4fd07:
 
     # mc "So demanding."
-    mc "So demanding."
+    mc "So anspruchsvoll."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:729
 translate deutsch sm1cs_tl006_continue_fec48c47:
 
     # sy "I have a bet to win."
-    sy "I have a bet to win."
+    sy "Ich habe eine Wette zu gewinnen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:733
 translate deutsch sm1cs_tl006_continue_d3a9a465:
 
     # tl "And what are you going to be doing?"
-    tl "And what are you going to be doing?"
+    tl "Und was wirst du machen?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:735
 translate deutsch sm1cs_tl006_continue_0aa12e02:
 
     # sy "Don't worry, you'll see."
-    sy "Don't worry, you'll see."
+    sy "Keine Sorge, du wirst schon sehen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:739
 translate deutsch sm1cs_tl006_continue_3eb03a4d:
 
     # tl "Fuuuuuuck, that's - mmmmm - exactly what I needed."
-    tl "Fuuuuuuck, that's - mmmmm - exactly what I needed."
+    tl "Verdammt, das ist – mmmmm – genau das, was ich gebraucht habe."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:741
 translate deutsch sm1cs_tl006_continue_2b20211f:
 
     # sy "Well, not exactly."
-    sy "Well, not exactly."
+    sy "Nun, nicht ganz."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:742
 translate deutsch sm1cs_tl006_continue_d568de72_2:
 
     # tl "Huh?"
-    tl "Huh?"
+    tl "Hä?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:751
 translate deutsch sm1cs_tl006_continue_ecb5e3cd:
 
     # tl "Oh Goooooooood!"
-    tl "Oh Goooooooood!"
+    tl "Oh Goooooott!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:752
 translate deutsch sm1cs_tl006_continue_c2ea84bb:
 
     # mc "Oh shit!"
-    mc "Oh shit!"
+    mc "Oh Scheiße!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:755
 translate deutsch sm1cs_tl006_continue_81c0fabe:
 
     # tl "Oh that feels soooo fucking good!"
-    tl "Oh that feels soooo fucking good!"
+    tl "Oh, das fühlt sich soooo verdammt gut an!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:758
 translate deutsch sm1cs_tl006_continue_d7d61edb:
 
     # mc "I can say the same, shit!"
-    mc "I can say the same, shit!"
+    mc "Ich kann das Gleiche sagen, Scheiße!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:760
 translate deutsch sm1cs_tl006_continue_f9bb101d:
 
     # tl "Fuck, your sister has a tongue on her!"
-    tl "Fuck, your sister has a tongue on her!"
+    tl "Verdammt, deine Schwester hat eine begabte Zunge!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:762
 translate deutsch sm1cs_tl006_continue_2a3d593d:
 
     # tl "Fuck, she has a tongue on her!"
-    tl "Fuck, she has a tongue on her!"
+    tl "Verdammt, sie hat aber eine begabte Zunge!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:763
 translate deutsch sm1cs_tl006_continue_d83c177e:
 
     # mc "Believe me, I know!"
-    mc "Believe me, I know!"
+    mc "Glaube mir, das weiß ich!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:764
 translate deutsch sm1cs_tl006_continue_397bb6f5:
 
     # tl "Goooodddddddd..."
-    tl "Goooodddddddd..."
+    tl "Oh Gooooott..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:767
 translate deutsch sm1cs_tl006_continue_b3bdbcc5:
@@ -1316,67 +1316,67 @@ translate deutsch sm1cs_tl006_continue_b3bdbcc5:
 translate deutsch sm1cs_tl006_continue_9758029c:
 
     # tl "Yes, right there - yes!"
-    tl "Yes, right there - yes!"
+    tl "Ja, genau so – ja!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:769
 translate deutsch sm1cs_tl006_continue_eaa07433:
 
     # mc "Mmmm, fuck, Taisia!"
-    mc "Mmmm, fuck, Taisia!"
+    mc "Mmmm, verdammt, Taisia!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:772
 translate deutsch sm1cs_tl006_continue_7743309d:
 
     # mct "I wish we were recording this right now! It would make a great movie..."
-    mct "I wish we were recording this right now! It would make a great movie..."
+    mct "Ich wünschte, wir würden das gerade aufnehmen! Das wäre ein großartiger Film..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:773
 translate deutsch sm1cs_tl006_continue_f8e06960:
 
     # mct "Shit, that's a really good idea."
-    mct "Shit, that's a really good idea."
+    mct "Scheiße, das ist eine wirklich gute Idee."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:776
 translate deutsch sm1cs_tl006_continue_40a78e1b:
 
     # mct "I should remember-"
-    mct "I should remember-"
+    mct "Ich sollte mich daran erinnern-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:777
 translate deutsch sm1cs_tl006_continue_0874d569:
 
     # tl "Fuck, Stacy!"
-    tl "Fuck, Stacy!"
+    tl "Verdammt, Stacy!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:780
 translate deutsch sm1cs_tl006_continue_5a19eac1:
 
     # mct "Back to reality-"
-    mct "Back to reality-"
+    mct "Zurück zur Realität-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:781
 translate deutsch sm1cs_tl006_continue_3d9d2c05:
 
     # tl "Yes, yes, yes!"
-    tl "Yes, yes, yes!"
+    tl "Ja, ja, ja!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:784
 translate deutsch sm1cs_tl006_continue_9a857470:
 
     # mc "Oh Christ, Taisia!"
-    mc "Oh Christ, Taisia!"
+    mc "Oh Gott, Taisia!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:787
 translate deutsch sm1cs_tl006_continue_5891ea60:
 
     # tl "Mmmmmm, nnnngggggg ohhhhyesssss!"
-    tl "Mmmmmm, nnnngggggg ohhhhyesssss!"
+    tl "Mmmmmm, nnnngggggg ohhhhjaaaaa!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:790
 translate deutsch sm1cs_tl006_continue_e219cf6d:
 
     # mc "Grraaaaah - fuck!"
-    mc "Grraaaaah - fuck!"
+    mc "Grraaaaah - verdammt!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:793
 translate deutsch sm1cs_tl006_continue_45765e08:
@@ -1388,7 +1388,7 @@ translate deutsch sm1cs_tl006_continue_45765e08:
 translate deutsch sm1cs_tl006_continue_b4c945fb:
 
     # tl "St-Stacy! Fuck, right there, right there!"
-    tl "St-Stacy! Fuck, right there, right there!"
+    tl "St-Stacy! Verdammt, genau da, genau da!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:797
 translate deutsch sm1cs_tl006_continue_70914f86:
@@ -1406,7 +1406,7 @@ translate deutsch sm1cs_tl006_continue_ae76366e:
 translate deutsch sm1cs_tl006_continue_6c820763:
 
     # mc "Shit - Taisia!"
-    mc "Shit - Taisia!"
+    mc "Scheiße – Taisia!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:804
 translate deutsch sm1cs_tl006_continue_ce62d2c5:
@@ -1424,115 +1424,115 @@ translate deutsch sm1cs_tl006_continue_13549abc:
 translate deutsch sm1cs_tl006_continue_5edf0dac:
 
     # sy "Mmmmm, seems like I'm doing a good job on winning this bet."
-    sy "Mmmmm, seems like I'm doing a good job on winning this bet."
+    sy "Mmmmm, sieht so aus, als würde ich diese Wette gewinnen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:818
 translate deutsch sm1cs_tl006_continue_ad590bca:
 
     # tl "You haven't won it yet, though. And if you're going to quit at the last second like that..."
-    tl "You haven't won it yet, though. And if you're going to quit at the last second like that..."
+    tl "Du hast aber noch nicht gewonnen. Und wenn du in letzter Sekunde so aufgibst..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:820
 translate deutsch sm1cs_tl006_continue_ccc378dc:
 
     # sy "Oh, I won't."
-    sy "Oh, I won't."
+    sy "Oh, das werde ich nicht."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:824
 translate deutsch sm1cs_tl006_continue_13521b71:
 
     # sy "I just wanted to make sure I didn't win by cheating."
-    sy "I just wanted to make sure I didn't win by cheating."
+    sy "Ich wollte nur sichergehen, dass ich nicht durch Betrug gewonnen habe."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:826
 translate deutsch sm1cs_tl006_continue_108cb40a:
 
     # tl "How the fuck were you cheating?"
-    tl "How the fuck were you cheating?"
+    tl "Wie zum Teufel hast du betrogen?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:839
 translate deutsch sm1cs_tl006_continue_87ad6c63:
 
     # sy "Well, I wanted to make you cum..."
-    sy "Well, I wanted to make you cum..."
+    sy "Nun, ich wollte dich zum Orgasmus bringen..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:840
 translate deutsch sm1cs_tl006_continue_64824860:
 
     # sy "... wrapped around this."
-    sy "... wrapped around this."
+    sy "... damit."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:843
 translate deutsch sm1cs_tl006_continue_df464f00:
 
     # tl "Well... I won't say no to that."
-    tl "Well... I won't say no to that."
+    tl "Nun... Ich werde das nicht ablehnen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:847
 translate deutsch sm1cs_tl006_continue_8601ce16:
 
     # tl "Well, come on. Don't keep me in suspense over here."
-    tl "Well, come on. Don't keep me in suspense over here."
+    tl "Na los, lass mich nicht so lange zappeln."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:858
 translate deutsch sm1cs_tl006_continue_811a8b15:
 
     # tl "Oh Gooooooooddd yessss!"
-    tl "Oh Gooooooooddd yessss!"
+    tl "Oh Gott, jaaaaaaaa!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:859
 translate deutsch sm1cs_tl006_continue_18c6254c:
 
     # mc "Oh - oh fuuuuck!"
-    mc "Oh - oh fuuuuck!"
+    mc "Oh – oh verdammt!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:862
 translate deutsch sm1cs_tl006_continue_04042628:
 
     # tl "You two are filllling me up!! Fuck, I am so fuuulllllll!"
-    tl "You two are filllling me up!! Fuck, I am so fuuulllllll!"
+    tl "Ihr beiden macht mich so satt!! Verdammt, ich bin so voll!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:865
 translate deutsch sm1cs_tl006_continue_eedd0e34:
 
     # sy "I have wanted to do this for soooo looooong! Fuck yes!"
-    sy "I have wanted to do this for soooo looooong! Fuck yes!"
+    sy "Das wollte ich schon soooo lange machen! Ja, verdammt!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:866
 translate deutsch sm1cs_tl006_continue_72d3fe6f:
 
     # tl "Oh God, fuck my ass! Fuck my aaassssss!"
-    tl "Oh God, fuck my ass! Fuck my aaassssss!"
+    tl "Oh Gott, fick meinen Arsch! Fick meinen Arsch!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:869
 translate deutsch sm1cs_tl006_continue_70026c2f:
 
     # mc "Shiiiiiiiiiiiit!"
-    mc "Shiiiiiiiiiiiit!"
+    mc "Scheißeeeee!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:870
 translate deutsch sm1cs_tl006_continue_b05bd9f5:
 
     # tl "Yes, yes, yes, yessssss!"
-    tl "Yes, yes, yes, yessssss!"
+    tl "Ja, ja, ja, jaaaaaaa!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:873
 translate deutsch sm1cs_tl006_continue_00dff17a:
 
     # sy "You like having this biiiiig dildo stretching out your ass?"
-    sy "You like having this biiiiig dildo stretching out your ass?"
+    sy "Magst du es, wenn dieser riesige Dildo deinen Arsch dehnt?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:874
 translate deutsch sm1cs_tl006_continue_09e65e33:
 
     # tl "Mmmhmmmm, I do, I doooooo!"
-    tl "Mmmhmmmm, I do, I doooooo!"
+    tl "Mmmhmmmm, ja, das tue ich, das tue ich!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:877
 translate deutsch sm1cs_tl006_continue_dc531570:
 
     # sy "And do you like having [mcname]'s cock buried in your pussssssy?"
-    sy "And do you like having [mcname]'s cock buried in your pussssssy?"
+    sy "Und magst du es, wenn [mcname] seinen Schwanz tief in deine Muschi steckt?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:878
 translate deutsch sm1cs_tl006_continue_d2c73214:
@@ -1544,49 +1544,49 @@ translate deutsch sm1cs_tl006_continue_d2c73214:
 translate deutsch sm1cs_tl006_continue_5b6c854e:
 
     # mc "Gah - I fucking love it too!!!"
-    mc "Gah - I fucking love it too!!!"
+    mc "Verdammt, das liebe ich auch!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:882
 translate deutsch sm1cs_tl006_continue_ecb428c1:
 
     # tl "Come on, Stacy! Put your back into it!"
-    tl "Come on, Stacy! Put your back into it!"
+    tl "Komm schon, Stacy! Gib alles!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:884
 translate deutsch sm1cs_tl006_continue_3a3b1b7d:
 
     # sy "Oh? Am I not fucking you hard enough?"
-    sy "Oh? Am I not fucking you hard enough?"
+    sy "Ach ja? Fick ich dich nicht hart genug?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:885
 translate deutsch sm1cs_tl006_continue_fd00d638:
 
     # tl "Fuck me deeeeeeeper!"
-    tl "Fuck me deeeeeeeper!"
+    tl "Fick mich tiefer!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:889
 translate deutsch sm1cs_tl006_continue_0a109015:
 
     # tl "Oh God, yesssssss!"
-    tl "Oh God, yesssssss!"
+    tl "Oh Gott, jaaaaaaaa!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:890
 translate deutsch sm1cs_tl006_continue_b14d21cc:
 
     # mc "Fuck, Taisia! If you ride my dick any harder, you'll break me!"
-    mc "Fuck, Taisia! If you ride my dick any harder, you'll break me!"
+    mc "Verdammt, Taisia! Wenn du meinen Schwanz noch härter reitest, machst du mich kaputt!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:893
 translate deutsch sm1cs_tl006_continue_6ae4cc08:
 
     # tl "If you can't handle this, [mcname]-!"
-    tl "If you can't handle this, [mcname]-!"
+    tl "Wenn du damit nicht klarkommst, [mcname]-!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:894
 translate deutsch sm1cs_tl006_continue_37cd972e:
 
     # tl "Oh Goooood, yessssss!"
-    tl "Oh Goooood, yessssss!"
+    tl "Oh Gott, jaaaa!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:897
 translate deutsch sm1cs_tl006_continue_919aeeda:
@@ -1598,19 +1598,19 @@ translate deutsch sm1cs_tl006_continue_919aeeda:
 translate deutsch sm1cs_tl006_continue_1123ea37:
 
     # mc "Oh God, fuck!"
-    mc "Oh God, fuck!"
+    mc "Oh Gott, verdammt!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:901
 translate deutsch sm1cs_tl006_continue_ccdf8bd7:
 
     # tl "I'm going to - shiiiiiiit! I'm going to cuuuuuuum!"
-    tl "I'm going to - shiiiiiiit! I'm going to cuuuuuuum!"
+    tl "Ich komme gleich – Scheiße! Ich komme gleich!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:902
 translate deutsch sm1cs_tl006_continue_39cf2953:
 
     # sy "Yes, cum! Cum, Taisia, cuuuuuuum!"
-    sy "Yes, cum! Cum, Taisia, cuuuuuuum!"
+    sy "Ja, komm! Komm, Taisia, kooooomm!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:903
 translate deutsch sm1cs_tl006_continue_daa113a0:
@@ -1628,109 +1628,109 @@ translate deutsch sm1cs_tl006_continue_497a831b:
 translate deutsch sm1cs_tl006_continue_802043fc:
 
     # sy "Mmmm, that's it."
-    sy "Mmmm, that's it."
+    sy "Mmmm, das ist es."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:916
 translate deutsch sm1cs_tl006_continue_780a56b9:
 
     # tl "Fuck... that was good."
-    tl "Fuck... that was good."
+    tl "Verdammt... das war gut."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:917
 translate deutsch sm1cs_tl006_continue_b7dfbbd0:
 
     # tl "But... technically [mcname] helped you still..."
-    tl "But... technically [mcname] helped you still..."
+    tl "Aber... technisch gesehen hat [mcname] dir trotzdem geholfen..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:918
 translate deutsch sm1cs_tl006_continue_424fdd17:
 
     # tl "So you haven't won the bet."
-    tl "So you haven't won the bet."
+    tl "Du hast also die Wette nicht gewonnen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:921
 translate deutsch sm1cs_tl006_continue_afb5a47e:
 
     # sy "Good thing neither [mcname] or I have cum yet."
-    sy "Good thing neither [mcname] or I have cum yet."
+    sy "Gut, dass weder [mcname] noch ich bisher gekommen sind."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:924
 translate deutsch sm1cs_tl006_continue_c4d44a6b:
 
     # tl "Wait, what?"
-    tl "Wait, what?"
+    tl "Moment mal, was?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:928
 translate deutsch sm1cs_tl006_continue_d7ffe5e0:
 
     # sy "I got one more round in me. How about you, [mcname]?"
-    sy "I got one more round in me. How about you, [mcname]?"
+    sy "Ich habe noch eine Runde drauf. Wie sieht's mit dir aus, [mcname]?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:930
 translate deutsch sm1cs_tl006_continue_2713a7c4:
 
     # mc "Oh, I could definitely go one more round."
-    mc "Oh, I could definitely go one more round."
+    mc "Oh, ich könnte definitiv noch eine Runde."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:931
 translate deutsch sm1cs_tl006_continue_5b6c0482:
 
     # sy "Can I make a request though?"
-    sy "Can I make a request though?"
+    sy "Kann ich aber eine Bitte äußern?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:935
 translate deutsch sm1cs_tl006_continue_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Sicher."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:937
 translate deutsch sm1cs_tl006_continue_31f0adef:
 
     # sy "Can you fuck me? I've gotten all worked up."
-    sy "Can you fuck me? I've gotten all worked up."
+    sy "Kannst du mich ficken? Ich bin total erregt."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:938
 translate deutsch sm1cs_tl006_continue_45c0b70b:
 
     # mc "I think I can oblige your request."
-    mc "I think I can oblige your request."
+    mc "Ich glaube, ich kann deiner Bitte nachkommen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:941
 translate deutsch sm1cs_tl006_continue_5e301904:
 
     # tl "And what about-"
-    tl "And what about-"
+    tl "Und was ist mit-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:945
 translate deutsch sm1cs_tl006_continue_f1923d64:
 
     # tl "What-"
-    tl "What-"
+    tl "Was-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:949
 translate deutsch sm1cs_tl006_continue_66c507f2:
 
     # tl "-the fuck!"
-    tl "-the fuck!"
+    tl "-zur Hölle!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:952
 translate deutsch sm1cs_tl006_continue_22084b5d:
 
     # sy "[mcname], help a gal out and slide the strap on into Taisia's ass?"
-    sy "[mcname], help a gal out and slide the strap on into Taisia's ass?"
+    sy "[mcname], könntest du mir helfen und Taisia ​​den Strap-On in den Hintern schieben?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:954
 translate deutsch sm1cs_tl006_continue_928221a2:
 
     # mc "Oh, I think I can give you a hand with that!"
-    mc "Oh, I think I can give you a hand with that!"
+    mc "Oh, ich glaube, dabei kann ich dir helfen!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:958
 translate deutsch sm1cs_tl006_continue_0579f3d9:
 
     # tl "Ohhhh Gooooooooddddd..."
-    tl "Ohhhh Gooooooooddddd..."
+    tl "Ohhhh Gooooooootttttt..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:962
 translate deutsch sm1cs_tl006_continue_1a581383:
@@ -1742,31 +1742,31 @@ translate deutsch sm1cs_tl006_continue_1a581383:
 translate deutsch sm1cs_tl006_continue_8b3deeb9:
 
     # sy "And don't forget about little ol' me, [mcname]."
-    sy "And don't forget about little ol' me, [mcname]."
+    sy "Und vergiss mich nicht, [mcname]."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:966
 translate deutsch sm1cs_tl006_continue_566994f9:
 
     # mc "I could never."
-    mc "I could never."
+    mc "Das könnte ich niemals."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:973
 translate deutsch sm1cs_tl006_continue_38e11854:
 
     # tl "Oh Godddddd, mmmmmyeessssss!"
-    tl "Oh Godddddd, mmmmmyeessssss!"
+    tl "Oh Gooott, jaaaaaa!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:974
 translate deutsch sm1cs_tl006_continue_7bb5e87b:
 
     # mc "Fuck, Stacy you are so weeetttt!"
-    mc "Fuck, Stacy you are so weeetttt!"
+    mc "Verdammt, Stacy, du bist so feucht!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:977
 translate deutsch sm1cs_tl006_continue_63731694:
 
     # sy "Fuck me, [mcname]! Fuck me!"
-    sy "Fuck me, [mcname]! Fuck me!"
+    sy "Fick mich, [mcname]! Fick mich!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:978
 translate deutsch sm1cs_tl006_continue_78bc86fe:
@@ -1778,25 +1778,25 @@ translate deutsch sm1cs_tl006_continue_78bc86fe:
 translate deutsch sm1cs_tl006_continue_08312e85:
 
     # sy "Oh yessss! Fuuuuuuuuhhhhhck!"
-    sy "Oh yessss! Fuuuuuuuuhhhhhck!"
+    sy "Oh jaaaa! Fuuuuuuuuhhhhhck!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:982
 translate deutsch sm1cs_tl006_continue_35bf176d:
 
     # mc "Oh my God, Stacy..."
-    mc "Oh my God, Stacy..."
+    mc "Oh mein Gott, Stacy..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:985
 translate deutsch sm1cs_tl006_continue_d0eef29a:
 
     # sy "Fuck me! Fuck meeeee! Yes, yes, yes, yessssss!"
-    sy "Fuck me! Fuck meeeee! Yes, yes, yes, yessssss!"
+    sy "Fick mich! Fick mich! Ja, ja, ja, jaaaaaa!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:986
 translate deutsch sm1cs_tl006_continue_5feafded:
 
     # tl "Oh Gooood, my asss is sooooo fuullllll!"
-    tl "Oh Gooood, my asss is sooooo fuullllll!"
+    tl "Oh Goooott, mein Arsch ist sooooo volllllll!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:989
 translate deutsch sm1cs_tl006_continue_fb9934e8:
@@ -1808,19 +1808,19 @@ translate deutsch sm1cs_tl006_continue_fb9934e8:
 translate deutsch sm1cs_tl006_continue_3603c620:
 
     # mc "Fucccck - I'm, I'm getting close!"
-    mc "Fucccck - I'm, I'm getting close!"
+    mc "Verdammt – ich, ich bin fast soweit!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:993
 translate deutsch sm1cs_tl006_continue_48c02a04:
 
     # sy "Just a little bit - just a little bit moooooore!"
-    sy "Just a little bit - just a little bit moooooore!"
+    sy "Nur ein bisschen – nur ein bisschen meeeehrrr!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:994
 translate deutsch sm1cs_tl006_continue_e4804560:
 
     # tl "I feel - I feel another one-"
-    tl "I feel - I feel another one-"
+    tl "Ich spüre – ich spüre noch einen –"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:997
 translate deutsch sm1cs_tl006_continue_e1806c85:
@@ -1832,7 +1832,7 @@ translate deutsch sm1cs_tl006_continue_e1806c85:
 translate deutsch sm1cs_tl006_continue_b7e1fde7:
 
     # sy "Oh my God, [mcname] - oh God!"
-    sy "Oh my God, [mcname] - oh God!"
+    sy "Oh mein Gott, [mcname] – oh Gott!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1001
 translate deutsch sm1cs_tl006_continue_65202f23:
@@ -1850,19 +1850,19 @@ translate deutsch sm1cs_tl006_continue_855bc7f8:
 translate deutsch sm1cs_tl006_continue_3cd8de54:
 
     # tl "I'M GOING TO - FUUUUUUCK!"
-    tl "I'M GOING TO - FUUUUUUCK!"
+    tl "ICH WERDE – FUUUUUUCK!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1006
 translate deutsch sm1cs_tl006_continue_e3c478fe:
 
     # tl "FUCK - I'M CUMMING!!!"
-    tl "FUCK - I'M CUMMING!!!"
+    tl "FUCK – ICH KOMME!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1009
 translate deutsch sm1cs_tl006_continue_2a645a79:
 
     # sy "I'm so cloooooose!!!"
-    sy "I'm so cloooooose!!!"
+    sy "Ich bin so nah drannnnn!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1012
 translate deutsch sm1cs_tl006_continue_80e86122:
@@ -1874,7 +1874,7 @@ translate deutsch sm1cs_tl006_continue_80e86122:
 translate deutsch sm1cs_tl006_continue_bb98d72c:
 
     # sy "Oh yyyaaaaasssssss! I'm- I'm-!"
-    sy "Oh yyyaaaaasssssss! I'm- I'm-!"
+    sy "Oh jaaaaaaaaa! Ich – ich –!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1016
 translate deutsch sm1cs_tl006_continue_78747f46:
@@ -1886,239 +1886,239 @@ translate deutsch sm1cs_tl006_continue_78747f46:
 translate deutsch sm1cs_tl006_continue_5df8f9f3:
 
     # mc "-cumming!!!"
-    mc "-cumming!!!"
+    mc "-komme!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1023
 translate deutsch sm1cs_tl006_continue_25fdd3ee:
 
     # tl "FUCKITY FUUUUCK!"
-    tl "FUCKITY FUUUUCK!"
+    tl "VERDAMMT NOCHMAL!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1026
 translate deutsch sm1cs_tl006_continue_7d9a199c:
 
     # sy "Ohhh Goooooodddd!"
-    sy "Ohhh Goooooodddd!"
+    sy "Ohhh, Goooooott!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1028
 translate deutsch sm1cs_tl006_continue_38cb8147:
 
     # mc "Fuck!"
-    mc "Fuck!"
+    mc "Verdammt!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1032
 translate deutsch sm1cs_tl006_continue_70be13e2:
 
     # mc "Shit!!!"
-    mc "Shit!!!"
+    mc "Scheiße!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1034
 translate deutsch sm1cs_tl006_continue_ef9893aa:
 
     # sy "Fuck... [mcname]..."
-    sy "Fuck... [mcname]..."
+    sy "Scheiße... [mcname]..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1039
 translate deutsch sm1cs_tl006_continue_3523c9d1:
 
     # mc "Shit... sorry, Taisia..."
-    mc "Shit... sorry, Taisia..."
+    mc "Scheiße... Entschuldigung, Taisia..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1041
 translate deutsch sm1cs_tl006_continue_a8c55fda:
 
     # tl "It's all good."
-    tl "It's all good."
+    tl "Alles ist gut."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1045
 translate deutsch sm1cs_tl006_continue_503dd507:
 
     # tl "I can use a little pick me up anyway."
-    tl "I can use a little pick me up anyway."
+    tl "Ich könnte sowieso ein bisschen Aufmunterung gebrauchen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1053
 translate deutsch sm1cs_tl006_continue_c39e1741:
 
     # tl "Well..."
-    tl "Well..."
+    tl "Nun ja..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1054
 translate deutsch sm1cs_tl006_continue_7827a858:
 
     # tl "It looks like you won the bet..."
-    tl "It looks like you won the bet..."
+    tl "Es sieht so aus, als hättest du die Wette gewonnen..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1056
 translate deutsch sm1cs_tl006_continue_39e9a1fa:
 
     # sy "Shit, I did, didn't I?"
-    sy "Shit, I did, didn't I?"
+    sy "Scheiße, das habe ich doch, oder?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1058
 translate deutsch sm1cs_tl006_continue_b8c53a6a:
 
     # mc "Thank God."
-    mc "Thank God."
+    mc "Gott sei Dank."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1061
 translate deutsch sm1cs_tl006_continue_8ab3fb01:
 
     # tl "So when should I pack my bags?"
-    tl "So when should I pack my bags?"
+    tl "Wann soll ich also meine Koffer packen?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1064
 translate deutsch sm1cs_tl006_continue_5ef43fce_1:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "Hä?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1066
 translate deutsch sm1cs_tl006_continue_64620271:
 
     # tl "Did [mcname] skip the part where I'm looking for a place to live like ASAP?"
-    tl "Did [mcname] skip the part where I'm looking for a place to live like ASAP?"
+    tl "Hat [mcname] den Teil übersprungen, in dem ich sagte, dass ich so schnell wie möglich eine Wohnung suche?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1070
 translate deutsch sm1cs_tl006_continue_7730e57d:
 
     # sy "Oh... uhhhh..."
-    sy "Oh... uhhhh..."
+    sy "Oh... ähhh..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1072
 translate deutsch sm1cs_tl006_continue_9176b0f5:
 
     # sy "Well, let me make sure the room is all good for you, and, uh... we can probably have you move in pretty soon?"
-    sy "Well, let me make sure the room is all good for you, and, uh... we can probably have you move in pretty soon?"
+    sy "Nun, ich werde sicherstellen, dass das Zimmer für dich in Ordnung ist, und, äh... wir können dich wahrscheinlich bald einziehen lassen?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1074
 translate deutsch sm1cs_tl006_continue_3133a377:
 
     # sy "We still have some work to do in the studio, but we can let you know when it's all done. You should be able to move in pretty quick after that."
-    sy "We still have some work to do in the studio, but we can let you know when it's all done. You should be able to move in pretty quick after that."
+    sy "Wir haben noch etwas Arbeit im Studio vor uns, aber wir geben dir Bescheid, sobald alles fertig ist. Danach solltest du ziemlich schnell einziehen können."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1076
 translate deutsch sm1cs_tl006_continue_45fc0712:
 
     # tl "Sounds good to me."
-    tl "Sounds good to me."
+    tl "Klingt gut für mich."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1080
 translate deutsch sm1cs_tl006_continue_a02169ed:
 
     # tl "If you'll excuse me, I need to go wash up real quick."
-    tl "If you'll excuse me, I need to go wash up real quick."
+    tl "Entschuldige mich bitte, ich muss mich kurz waschen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1082
 translate deutsch sm1cs_tl006_continue_bf1c7fbe:
 
     # sy "Uh huh."
-    sy "Uh huh."
+    sy "Aha."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1086
 translate deutsch sm1cs_tl006_continue_c583e05d:
 
     # sy "It looks like we've got a new roommate!"
-    sy "It looks like we've got a new roommate!"
+    sy "Es sieht so aus, als hätten wir eine neue Mitbewohnerin!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1088
 translate deutsch sm1cs_tl006_continue_2602c202:
 
     # mc "That it does."
-    mc "That it does."
+    mc "Das tut es tatsächlich."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1091
 translate deutsch sm1cs_tl006_continue_b0ca756e:
 
     # sy "And I got to fuuuuck her!"
-    sy "And I got to fuuuuck her!"
+    sy "Und ich durfte sie fickeeen!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1093
 translate deutsch sm1cs_tl006_continue_81fefdc7:
 
     # mc "That you did."
-    mc "That you did."
+    mc "Das hast du."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1097
 translate deutsch sm1cs_tl006_continue_dbe20161:
 
     # sy "We need to get that room ready for her as fast as we can."
-    sy "We need to get that room ready for her as fast as we can."
+    sy "Wir müssen das Zimmer so schnell wie möglich für sie vorbereiten."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1099
 translate deutsch sm1cs_tl006_continue_fca6fb03:
 
     # mc "I'll get right on that."
-    mc "I'll get right on that."
+    mc "Ich werde mich sofort darum kümmern."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1100
 translate deutsch sm1cs_tl006_continue_87024dfe:
 
     # sy "Good."
-    sy "Good."
+    sy "Gut."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1103
 translate deutsch sm1cs_tl006_continue_790b5c17:
 
     # mc "Oh, totally different thought - we should film a movie here."
-    mc "Oh, totally different thought - we should film a movie here."
+    mc "Oh, ganz andere Idee – wir sollten hier einen Film drehen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1107
 translate deutsch sm1cs_tl006_continue_5ef43fce_2:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "Hä?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1109
 translate deutsch sm1cs_tl006_continue_942249d1:
 
     # mc "You know, for that porn studio we run."
-    mc "You know, for that porn studio we run."
+    mc "Weißt du, für das Pornostudio, das wir betreiben."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1112
 translate deutsch sm1cs_tl006_continue_b68405e9:
 
     # sy "Oh yeah! That would be sick!"
-    sy "Oh yeah! That would be sick!"
+    sy "Oh ja! Das wäre der Hammer!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1113
 translate deutsch sm1cs_tl006_continue_70776d73:
 
     # sy "Do you think Taisia could make that happen?"
-    sy "Do you think Taisia could make that happen?"
+    sy "Glaubst du, Taisia könnte das möglich machen?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1115
 translate deutsch sm1cs_tl006_continue_97bfc284:
 
     # mc "We did just fuck the shit out of her here. How much different would it be if we brought a camera along?"
-    mc "We did just fuck the shit out of her here. How much different would it be if we brought a camera along?"
+    mc "Wir haben sie hier gerade richtig durchgefickt. Wie viel anders wäre es, wenn wir eine Kamera mitgebracht hätten?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1117
 translate deutsch sm1cs_tl006_continue_c0757c90:
 
     # sy "Good point."
-    sy "Good point."
+    sy "Guter Punkt."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1120
 translate deutsch sm1cs_tl006_continue_781944af:
 
     # sy "But enough work chat! I want to enjoy my post orgasm glow."
-    sy "But enough work chat! I want to enjoy my post orgasm glow."
+    sy "Aber genug von der Arbeit! Ich möchte mein Glücksgefühl nach dem Orgasmus genießen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1124
 translate deutsch sm1cs_tl006_continue_a8ee5531:
 
     # mc "I wouldn't mind that either."
-    mc "I wouldn't mind that either."
+    mc "Das würde mir auch nichts ausmachen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1127
 translate deutsch sm1cs_tl006_continue_d140270e:
 
     # sy "And then we should probably head home and sleep."
-    sy "And then we should probably head home and sleep."
+    sy "Und dann sollten wir wahrscheinlich nach Hause gehen und schlafen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1129
 translate deutsch sm1cs_tl006_continue_86f9bab7:
 
     # mc "Agreed."
-    mc "Agreed."
+    mc "Einverstanden."
 
