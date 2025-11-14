@@ -614,7 +614,7 @@ translate deutsch sm1cs_tl003_in_street_e1104c7e:
 translate deutsch sm1cs_tl003_in_street_999086e7:
 
     # sy "All right... Camera set, aaaaaaand action!"
-    sy „Okay... Kamera bereit, uuuuuund... Action!"
+    sy "Okay... Kamera bereit, uuuuuund... Action!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:354
 translate deutsch sm1cs_tl003_in_street_a60c5d7e:
