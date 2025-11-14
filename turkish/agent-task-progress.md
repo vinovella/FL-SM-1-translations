@@ -95,7 +95,7 @@ File: Turkish/code\scenes\movies\movie02\sm1mv02s07a.rpy (Entire file untranslat
 
 File: Turkish/code\scenes\movies\movie02\sm1mv02s07a_1i.rpy (Entire file untranslated) [110 words] (done)
 
-File: Turkish/code\scenes\movies\movie02\sm1mv02s07a_2i.rpy (Entire file untranslated) [170 words]
+File: Turkish/code\scenes\movies\movie02\sm1mv02s07a_2i.rpy (Entire file untranslated) [170 words] (done)
 
 File: Turkish/code\scenes\movies\movie02\sm1mv02s07b.rpy (Entire file untranslated) [2089 words]
 
