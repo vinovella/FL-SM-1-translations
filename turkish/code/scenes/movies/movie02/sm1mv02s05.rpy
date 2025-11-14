@@ -572,37 +572,37 @@ translate turkish sm1mv02s05_5ae6f2ba:
 translate turkish sm1mv02s05_020c0088:
 
     # tl "We need you fully painted for when the camera is rolling."
-    tl "We need you fully painted for when the camera is rolling."
+    tl "Kamera çalışırken tamamen boyanmış olman gerekiyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:358
 translate turkish sm1mv02s05_4db68f45:
 
     # ns "Right.{w} Right. I just have to get naked."
-    ns "Right.{w} Right. I just have to get naked."
+    ns "Doğru.{w} Doğru. Sadece soyunmam gerekiyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:359
 translate turkish sm1mv02s05_6e55981d:
 
     # ns "In front of you, Taisia."
-    ns "In front of you, Taisia."
+    ns "Senin önünde, Taisia."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:362
 translate turkish sm1mv02s05_e42f72a4:
 
     # tl "It's no biggy. We should have had you hang around the theater for a bit, Nari."
-    tl "It's no biggy. We should have had you hang around the theater for a bit, Nari."
+    tl "Büyük mesele değil. Seni tiyatroda biraz dolaştırmalıydık, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:363
 translate turkish sm1mv02s05_fd58ab9f:
 
     # tl "Everyone gets naked there all the time."
-    tl "Everyone gets naked there all the time."
+    tl "Orada herkes sürekli soyunuyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:364
 translate turkish sm1mv02s05_dbb61bb1:
 
     # tl "You barely even notice it."
-    tl "You barely even notice it."
+    tl "Neredeyse fark bile etmezsin."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:367
 translate turkish sm1mv02s05_dbd81ba2_1:
@@ -614,49 +614,49 @@ translate turkish sm1mv02s05_dbd81ba2_1:
 translate turkish sm1mv02s05_0eda839e:
 
     # ns "Well, this is me."
-    ns "Well, this is me."
+    ns "İşte, bu benim."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:379
 translate turkish sm1mv02s05_d8d7bcb4:
 
     # tl "Damn right it is."
-    tl "Damn right it is."
+    tl "Kesinlikle öyle."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:380
 translate turkish sm1mv02s05_def1efe4:
 
     # tl "Let's get to work."
-    tl "Let's get to work."
+    tl "İşe koyulalım."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:383
 translate turkish sm1mv02s05_ae3d4298:
 
     # tl "Help a sister out, [mcname]."
-    tl "Help a sister out, [mcname]."
+    tl "Bir kız kardeşine yardım et, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:386
 translate turkish sm1mv02s05_1483fb5c:
 
     # mc "I don't know what to do."
-    mc "I don't know what to do."
+    mc "Ne yapacağımı bilmiyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:389
 translate turkish sm1mv02s05_b007a4ef:
 
     # tl "Don't be a dummy. This is just the first layer of dark gray."
-    tl "Don't be a dummy. This is just the first layer of dark gray."
+    tl "Aptal olma. Bu sadece koyu grinin ilk katmanı."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:390
 translate turkish sm1mv02s05_89cae78c:
 
     # tl "You can't screw it up."
-    tl "You can't screw it up."
+    tl "Batıramazsın."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:394
 translate turkish sm1mv02s05_6651ab87:
 
     # mc "Alright."
-    mc "Alright."
+    mc "Tamam."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:399
 translate turkish sm1mv02s05_128a537c:
@@ -674,187 +674,187 @@ translate turkish sm1mv02s05_a8e9b060:
 translate turkish sm1mv02s05_4ca98dc9:
 
     # tl "Alright. Looks like everything is ready."
-    tl "Alright. Looks like everything is ready."
+    tl "Pekala. Her şey hazır görünüyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:429
 translate turkish sm1mv02s05_4d892494:
 
     # mc "Feeling alright, Nari?"
-    mc "Feeling alright, Nari?"
+    mc "İyi hissediyor musun, Nari?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:432
 translate turkish sm1mv02s05_104b843c:
 
     # ns "Um... I guess?"
-    ns "Um... I guess?"
+    ns "Um... Sanırım?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:433
 translate turkish sm1mv02s05_90c5c6d4:
 
     # ns "It really is like a second skin now."
-    ns "It really is like a second skin now."
+    ns "Gerçekten şimdi ikinci bir deri gibi."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:436
 translate turkish sm1mv02s05_97c9ec0c:
 
     # mc "It's going to look great on film."
-    mc "It's going to look great on film."
+    mc "Filmde harika görünecek."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:440
 translate turkish sm1mv02s05_78dcc8e1:
 
     # mc "Speaking of which, I think Taisia and I need to get ready for filming."
-    mc "Speaking of which, I think Taisia and I need to get ready for filming."
+    mc "Bu arada, sanırım Taisia ve benim çekim için hazırlanmamız gerekiyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:444
 translate turkish sm1mv02s05_e8a273a2:
 
     # mc "See you on set, Nari."
-    mc "See you on set, Nari."
+    mc "Sette görüşürüz, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:447
 translate turkish sm1mv02s05_ac980b19:
 
     # ns "Aye, Captain."
-    ns "Aye, Captain."
+    ns "Emredersiniz, Kaptan."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:458
 translate turkish sm1mv02s05_52ae72c8:
 
     # kv "Alright.{w} Time to clock in, everyone."
-    kv "Alright.{w} Time to clock in, everyone."
+    kv "Pekala.{w} Herkes için mesaiye başlama zamanı."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:461
 translate turkish sm1mv02s05_5ad5ea99:
 
     # mc "Wait, I had a question."
-    mc "Wait, I had a question."
+    mc "Bekle, bir sorum vardı."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:464
 translate turkish sm1mv02s05_39446fe4:
 
     # kv "Shoot."
-    kv "Shoot."
+    kv "Sor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:467
 translate turkish sm1mv02s05_0ae18bae:
 
     # mc "What's with the dummy props?"
-    mc "What's with the dummy props?"
+    mc "Bu manken aksesuarlar ne için?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:470
 translate turkish sm1mv02s05_b2a20b93:
 
     # kv "Oh. Stacy can explain."
-    kv "Oh. Stacy can explain."
+    kv "Oh. Stacy açıklayabilir."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:476
 translate turkish sm1mv02s05_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Ha?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:480
 translate turkish sm1mv02s05_d43922a1:
 
     # sy "Well, if it was just the four of us, our ship would look super empty."
-    sy "Well, if it was just the four of us, our ship would look super empty."
+    sy "Şey, sadece dördümüz olsaydık, gemimiz çok boş görünürdü."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:481
 translate turkish sm1mv02s05_a25d9d84:
 
     # sy "So Taisia and I went dumpster diving for mannequins from the sex shop and other places around town."
-    sy "So Taisia and I went dumpster diving for mannequins from the sex shop and other places around town."
+    sy "Bu yüzden Taisia ve ben seks dükkanından ve kasabadaki diğer yerlerden çöp konteynerlerinde manken avına çıktık."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:484
 translate turkish sm1mv02s05_3c7e93b5:
 
     # sy "We cleaned them up and then we can position them on set."
-    sy "We cleaned them up and then we can position them on set."
+    sy "Onları temizledik ve sonra sette yerleştirebiliriz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:485
 translate turkish sm1mv02s05_cdc8fd60:
 
     # sy "Later on in post, I'll go through and replace them with some basic 3d models I found."
-    sy "Later on in post, I'll go through and replace them with some basic 3d models I found."
+    sy "Daha sonra post prodüksiyonda, bulduğum bazı temel 3d modellerle değiştireceğim."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:492
 translate turkish sm1mv02s05_9fb527b9:
 
     # mes "Not bad, but will it really hold up?"
-    mes "Not bad, but will it really hold up?"
+    mes "Fena değil, ama gerçekten dayanır mı?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:495
 translate turkish sm1mv02s05_1885ef8f:
 
     # sy "It will, trust me."
-    sy "It will, trust me."
+    sy "Dayanır, bana güven."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:499
 translate turkish sm1mv02s05_d085fe03:
 
     # mh "Excellent thinking, Stacy."
-    mh "Excellent thinking, Stacy."
+    mh "Mükemmel fikir, Stacy."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:503
 translate turkish sm1mv02s05_418954ee:
 
     # mc "Alright. Punch it."
-    mc "Alright. Punch it."
+    mc "Pekala. Başlat."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:508
 translate turkish sm1mv02s05_cf6d2a3f:
 
     # kv "And... action!"
-    kv "And... action!"
+    kv "Ve... Çekim!"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:548
 translate turkish sm1mv02s05_movie_start_b4325b1a:
 
     # sy "Captain Hornstar, sensors are picking up something on the third planet from the sun."
-    sy "Captain Hornstar, sensors are picking up something on the third planet from the sun."
+    sy "Kaptan Hornstar, sensörler güneşten üçüncü gezegende bir şey algılıyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:551
 translate turkish sm1mv02s05_movie_start_c15add4d:
 
     # mc "Put it on the screen, Lieutenant Orion."
-    mc "Put it on the screen, Lieutenant Orion."
+    mc "Ekrana koy, Teğmen Orion."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:557
 translate turkish sm1mv02s05_movie_start_e162205a:
 
     # mc "Analysis Commander Spectre."
-    mc "Analysis Commander Spectre."
+    mc "Analiz Komutan Spectre."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:565
 translate turkish sm1mv02s05_movie_start_fb732c6b:
 
     # mhmes "It appears to be an M-class planet."
-    mhmes "It appears to be an M-class planet."
+    mhmes "M sınıfı bir gezegen gibi görünüyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:566
 translate turkish sm1mv02s05_movie_start_eda22b6a:
 
     # mhmes "There is a local population, humanoid. Their technological captivity suggests that they are nearing the advent of their post-industrial age."
-    mhmes "There is a local population, humanoid. Their technological captivity suggests that they are nearing the advent of their post-industrial age."
+    mhmes "Yerli bir nüfus var, insansı. Teknolojik kapasiteleri, endüstri sonrası çağın başlangıcına yaklaştıklarını gösteriyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:572
 translate turkish sm1mv02s05_movie_start_bc438a44:
 
     # mc "Any sign of the Kasaru {i}Windblade{/i} hiding somewhere on the surface?"
-    mc "Any sign of the Kasaru {i}Windblade{/i} hiding somewhere on the surface?"
+    mc "Yüzeyde bir yerde sakl anan Kasaru {i}Windblade{/i}'in herhangi bir işareti var mı?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:573
 translate turkish sm1mv02s05_movie_start_0c94f65c:
 
     # mc "It would be perfectly like them to hide after that raid on Dantu."
-    mc "It would be perfectly like them to hide after that raid on Dantu."
+    mc "Dantu'daki baskından sonra saklanmaları onlara çok uyar."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:580
 translate turkish sm1mv02s05_movie_start_a607d849:
 
     # sy "Captain. There are traces of Dickium in the system, but all signs suggest the Kasaru ship is no longer in the system."
-    sy "Captain. There are traces of Dickium in the system, but all signs suggest the Kasaru ship is no longer in the system."
+    sy "Kaptan. Sistemde Dickium izleri var, ama tüm işaretler Kasaru gemisinin artık sistemde olmadığını gösteriyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:584
 translate turkish sm1mv02s05_movie_start_e8abc7ee:
@@ -2342,31 +2342,31 @@ translate turkish strings:
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:173
     old "About ten minutes later"
-    new "About ten minutes later"
+    new "Yaklaşık on dakika sonra"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:262
     old "Your performance has always left me satisfied"
-    new "Your performance has always left me satisfied"
+    new "Performansın beni her zaman tatmin etti"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:262
     old "This is just another mountain to climb"
-    new "This is just another mountain to climb"
+    new "Bu sadece tırmanılacak başka bir dağ"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:311
     old "Technically, I'm the boss"
-    new "Technically, I'm the boss"
+    new "Teknik olarak, ben patronum"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:311
     old "You're going to be great, Nari"
-    new "You're going to be great, Nari"
+    new "Harika olacaksın, Nari"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:415
     old "Ten minutes later"
-    new "Ten minutes later"
+    new "On dakika sonra"
 
     # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1314
     old "Fifteen minutes after end of filming"
-    new "Fifteen minutes after end of filming"
+    new "Çekimin bitiminden on beş dakika sonra"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:97
 translate turkish sm1mv02s05_8ee6d23f:
