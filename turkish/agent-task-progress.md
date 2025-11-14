@@ -21,7 +21,7 @@ File: Turkish/code\scenes\it_office\am\sm1cs-am007.rpy (Entire file untranslated
 
 File: Turkish/code\scenes\it_office\cw\sm1cs-cw006.rpy (Entire file untranslated) [2181 words] (done)
 
-File: Turkish/code\scenes\it_office\cw\sm1cs-cw006_onramp.rpy (Entire file untranslated) [46 words]
+File: Turkish/code\scenes\it_office\cw\sm1cs-cw006_onramp.rpy (Entire file untranslated) [46 words] (done)
 
 File: Turkish/code\scenes\it_office\ns\sm1cs-ns014.rpy (Entire file untranslated) [1608 words]
 
