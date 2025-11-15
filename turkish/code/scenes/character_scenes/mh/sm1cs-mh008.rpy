@@ -387,19 +387,19 @@ translate turkish sm1cs_mh008_4824b49d:
 translate turkish sm1cs_mh008_409e34b5:
 
     # mc "Hey, if you're not comfortable with that idea, we can do it some other time."
-    mc "Hey, if you're not comfortable with that idea, we can do it some other time."
+    mc "Hey, eğer bu fikir seni rahatsız ediyorsa, bunu başka bir zaman yapabiliriz."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:217
 translate turkish sm1cs_mh008_c7c4c6c9:
 
     # mh "Yeah, I don't think I'm there yet, [mcname]."
-    mh "Yeah, I don't think I'm there yet, [mcname]."
+    mh "Evet, henüz orada olduğumu sanmıyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:220
 translate turkish sm1cs_mh008_1bc35450:
 
     # mc "Totally okay! No worries at all, Lyssa."
-    mc "Totally okay! No worries at all, Lyssa."
+    mc "Tamamen sorun yok! Hiç endişelenme, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:224
 translate turkish sm1cs_mh008_409e34b5_1:
@@ -1017,91 +1017,91 @@ translate turkish sm1ms_mh008_game_e4106ae0:
 translate turkish sm1cs_mh008_couple_carousel_f3d441b0:
 
     # mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
-    mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
+    mc "Şey, karnavala yapılan hiçbir ziyaret dönme dolap sürüşü olmadan tamamlanmaz!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:593
 translate turkish sm1cs_mh008_couple_carousel_45412da6:
 
     # mh "I couldn't agree more, [mcname]."
-    mh "I couldn't agree more, [mcname]."
+    mh "Daha fazla katılamam, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:608
 translate turkish sm1cs_mh008_couple_carousel_4467d5d8:
 
     # mh "I hope you're not afraid of heights, [mcname]!"
-    mh "I hope you're not afraid of heights, [mcname]!"
+    mh "Umarım yükseklikten korkmazsın, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:611
 translate turkish sm1cs_mh008_couple_carousel_3de751db:
 
     # mc "Nope! Not afraid of them at all."
-    mc "Nope! Not afraid of them at all."
+    mc "Hayır! Onlardan hiç korkmam."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:614
 translate turkish sm1cs_mh008_couple_carousel_38fb3ff4:
 
     # mh "Hehehe. Are you afraid of anything? Some of the things I've seen you do... I think of you as fearless."
-    mh "Hehehe. Are you afraid of anything? Some of the things I've seen you do... I think of you as fearless."
+    mh "Hehehe. Herhangi bir şeyden korkuyor musun? Yaptığını gördüğüm bazı şeyler... Seni korkusuz biri olarak görüyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:617
 translate turkish sm1cs_mh008_couple_carousel_349fb02a:
 
     # mc "I... I do have one fear."
-    mc "I... I do have one fear."
+    mc "Ben... Bir korkum var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:620
 translate turkish sm1cs_mh008_couple_carousel_b635efb0:
 
     # mh "Oh yeah? And what's that."
-    mh "Oh yeah? And what's that."
+    mh "Ah evet? Ve o nedir?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:623
 translate turkish sm1cs_mh008_couple_carousel_5efa3136:
 
     # mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
-    mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
+    mc "Ben... Fıstık ezmesinin ağzımın tavanına yapışmasından korkuyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:626
 translate turkish sm1cs_mh008_couple_carousel_84217137:
 
     # mh "Excuse me... you're afraid of..."
-    mh "Excuse me... you're afraid of..."
+    mh "Affedersin... sen neden korkuyorsun..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:629
 translate turkish sm1cs_mh008_couple_carousel_7d735c19:
 
     # mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
-    mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
+    mc "Fıstık ezmesinin ağzımın tavanına yapışması. Evet."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:630
 translate turkish sm1cs_mh008_couple_carousel_8486795c:
 
     # mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
-    mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
+    mc "Çünkü bir fıstık ezmeli sandviç yiyeceğim ve biri benimle konuşmaya çalışacak."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:633
 translate turkish sm1cs_mh008_couple_carousel_ccd20cf6:
 
     # mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
-    mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
+    mc "Ve sonra ağzımda fıstık ezmesi olacak ve konuşamayacağım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:634
 translate turkish sm1cs_mh008_couple_carousel_831928cf:
 
     # mc "Or it'll sound super weird!"
-    mc "Or it'll sound super weird!"
+    mc "Ya da çok garip gelecek!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:637
 translate turkish sm1cs_mh008_couple_carousel_c60a8f92:
 
     # mh "I, uhm - uhm-"
-    mh "I, uhm - uhm-"
+    mh "Ben, ıhm - ıhm-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:640
 translate turkish sm1cs_mh008_couple_carousel_05d4025a:
 
     # mc "What! It's a very real fear!"
-    mc "What! It's a very real fear!"
+    mc "Ne! Bu çok gerçek bir korku!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:643
 translate turkish sm1cs_mh008_couple_carousel_cb11c524:
@@ -1113,31 +1113,31 @@ translate turkish sm1cs_mh008_couple_carousel_cb11c524:
 translate turkish sm1cs_mh008_couple_carousel_a9094a0b:
 
     # mc "And what, you're totally fearless, Lyssa?!?"
-    mc "And what, you're totally fearless, Lyssa?!?"
+    mc "Peki ya sen, sen tamamen korkusuz musun, Lyssa?!?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:649
 translate turkish sm1cs_mh008_couple_carousel_5d13dc5e:
 
     # mh "No, I wouldn't say that. I'm scared of some things. I used to get really bad vertigo, but I think I've finally gotten over that."
-    mh "No, I wouldn't say that. I'm scared of some things. I used to get really bad vertigo, but I think I've finally gotten over that."
+    mh "Hayır, bunu söylemezdim. Bazı şeylerden korkuyorum. Eskiden çok kötü baş dönmesi yaşardım ama sanırım sonunda bunun üstesinden geldim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:650
 translate turkish sm1cs_mh008_couple_carousel_13be126e:
 
     # mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
-    mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
+    mh "Ve palyaçolardan korktuğumu söylemem, sadece onlara karşı bir... isteksizliğim var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:653
 translate turkish sm1cs_mh008_couple_carousel_ffcb4e75:
 
     # mc "There's only one clown to be afraid of."
-    mc "There's only one clown to be afraid of."
+    mc "Korkulacak tek bir palyaço var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:656
 translate turkish sm1cs_mh008_couple_carousel_a161e15d:
 
     # mh "Oh yeah? And which one is that?"
-    mh "Oh yeah? And which one is that?"
+    mh "Ah evet? Ve o hangisi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:659
 translate turkish sm1cs_mh008_couple_carousel_4e784502:
@@ -1149,79 +1149,79 @@ translate turkish sm1cs_mh008_couple_carousel_4e784502:
 translate turkish sm1cs_mh008_couple_carousel_8f5e4b82:
 
     # mh "Like... the mascot for the fast food place?"
-    mh "Like... the mascot for the fast food place?"
+    mh "Yani... fast food yerinin maskotu mu?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:665
 translate turkish sm1cs_mh008_couple_carousel_03035655:
 
     # mc "Yes. He's the most lethal clown in history."
-    mc "Yes. He's the most lethal clown in history."
+    mc "Evet. O tarihteki en ölümcül palyaço."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:666
 translate turkish sm1cs_mh008_couple_carousel_890c0854:
 
     # mc "He's killed more people than Gacy."
-    mc "He's killed more people than Gacy."
+    mc "Gacy'den daha fazla insan öldürdü."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:669
 translate turkish sm1cs_mh008_couple_carousel_1e99bd94:
 
     # mh "You know... you've got a good point there."
-    mh "You know... you've got a good point there."
+    mh "Biliyorsun... burada iyi bir noktaya değindin."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:672
 translate turkish sm1cs_mh008_couple_carousel_d64fffa8:
 
     # mc "And he just looks creepy as hell."
-    mc "And he just looks creepy as hell."
+    mc "Ve çok ürkütücü görünüyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:675
 translate turkish sm1cs_mh008_couple_carousel_83fc393b:
 
     # mh "Hehehe - yeah, you're not wrong there either."
-    mh "Hehehe - yeah, you're not wrong there either."
+    mh "Hehehe - evet, orada da yanılmıyorsun."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:678
 translate turkish sm1cs_mh008_couple_carousel_46c747e9:
 
     # mh "Wow... sometimes I forget how beautiful Crowning is..."
-    mh "Wow... sometimes I forget how beautiful Crowning is..."
+    mh "Vay be... bazen Crowning'in ne kadar güzel olduğunu unutuyorum..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:681
 translate turkish sm1cs_mh008_couple_carousel_6780655c:
 
     # mc "Yeah, the sights are really something..."
-    mc "Yeah, the sights are really something..."
+    mc "Evet, manzaralar gerçekten bir şey..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:684
 translate turkish sm1cs_mh008_couple_carousel_18c82454:
 
     # mh "You're not even looking out at the city, [mcname]."
-    mh "You're not even looking out at the city, [mcname]."
+    mh "Şehre bile bakmıyorsun, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:687
 translate turkish sm1cs_mh008_couple_carousel_974505ae:
 
     # mc "Why would I do that?"
-    mc "Why would I do that?"
+    mc "Neden bunu yapayım ki?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:690
 translate turkish sm1cs_mh008_couple_carousel_c0664f99:
 
     # mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
-    mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
+    mc "Çünkü bana göre, bakabileceğim en güzel şey sensin, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:693
 translate turkish sm1cs_mh008_couple_carousel_aa0a328b:
 
     # mh "Oh, you..."
-    mh "Oh, you..."
+    mh "Ah, sen..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:704
 translate turkish sm1cs_mh008_couple_carousel_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Ben-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:707
 translate turkish sm1cs_mh008_couple_carousel_c7cf2826:
@@ -1233,13 +1233,13 @@ translate turkish sm1cs_mh008_couple_carousel_c7cf2826:
 translate turkish sm1cs_mh008_couple_carousel_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Evet?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:713
 translate turkish sm1cs_mh008_couple_carousel_7647e6de:
 
     # mh "Let's just enjoy this moment."
-    mh "Let's just enjoy this moment."
+    mh "Sadece bu anın tadını çıkaralım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:716
 translate turkish sm1cs_mh008_couple_carousel_d0445bce:
@@ -1251,145 +1251,145 @@ translate turkish sm1cs_mh008_couple_carousel_d0445bce:
 translate turkish sm1cs_mh008_couple_carousel_end_cac1d1c7:
 
     # mh "That was... truly wonderful, [mcname]."
-    mh "That was... truly wonderful, [mcname]."
+    mh "Bu... gerçekten harikaydı, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:734
 translate turkish sm1cs_mh008_couple_carousel_end_04a06728:
 
     # mh "Another wonderful carnival memory to add to the others."
-    mh "Another wonderful carnival memory to add to the others."
+    mh "Diğerlerine eklenecek bir başka harika karnav anısı."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:737
 translate turkish sm1cs_mh008_couple_carousel_end_6779bff8:
 
     # mc "I couldn't think of anyone I'd rather be looking out over the city than with you, Lyssa."
-    mc "I couldn't think of anyone I'd rather be looking out over the city than with you, Lyssa."
+    mc "Şehir manzarasına bakarken seninle olmaktan daha çok isteyeceğim kimseyi düşünemezdim, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:740
 translate turkish sm1cs_mh008_couple_carousel_end_db28c904:
 
     # mh "I'd hate to cut this short, but I do have a meeting in the morning that I have to make."
-    mh "I'd hate to cut this short, but I do have a meeting in the morning that I have to make."
+    mh "Bunu kısa kesmekten nefret ederim ama sabah katılmam gereken bir toplantım var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:744
 translate turkish sm1cs_mh008_couple_carousel_end_31b055e7:
 
     # mc "Wait, isn't it the weekend?"
-    mc "Wait, isn't it the weekend?"
+    mc "Bekle, hafta sonu değil mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:747
 translate turkish sm1cs_mh008_couple_carousel_end_aff55cb5:
 
     # mh "When you work as a solo practitioner, you're never guaranteed weekends off."
-    mh "When you work as a solo practitioner, you're never guaranteed weekends off."
+    mh "Tek başına çalışan bir avukat olarak, hafta sonları tatil yapabileceğin asla garanti değil."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:750
 translate turkish sm1cs_mh008_couple_carousel_end_1fc5a45e:
 
     # mc "Oh shit, it's a work night, isn't it?"
-    mc "Oh shit, it's a work night, isn't it?"
+    mc "Ah kahretsin, bu bir iş gecesi, değil mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:753
 translate turkish sm1cs_mh008_couple_carousel_end_4b42e3c3:
 
     # mh "That it is."
-    mh "That it is."
+    mh "Öyle."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:756
 translate turkish sm1cs_mh008_couple_carousel_end_0b5bf597:
 
     # mc "In that case, I'm glad you had a great night."
-    mc "In that case, I'm glad you had a great night."
+    mc "Bu durumda, harika bir gece geçirmene sevindim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:759
 translate turkish sm1cs_mh008_couple_carousel_end_d3dbb2e7:
 
     # mh "There is... one more thing you could do to make tonight phenomenal."
-    mh "There is... one more thing you could do to make tonight phenomenal."
+    mh "Bu geceyi olağanüstü yapmak için yapabileceğin... bir şey daha var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:762
 translate turkish sm1cs_mh008_couple_carousel_end_c8f5c86e:
 
     # mc "Oh yeah? And what's that?"
-    mc "Oh yeah? And what's that?"
+    mc "Ah evet? Ve o nedir?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:765
 translate turkish sm1cs_mh008_couple_carousel_end_3f381964:
 
     # mh "Kiss me."
-    mh "Kiss me."
+    mh "Öp beni."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:768
 translate turkish sm1cs_mh008_couple_carousel_end_8817f8de:
 
     # mc "Don't mind if I do."
-    mc "Don't mind if I do."
+    mc "Yaparım tabii."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:781
 translate turkish sm1cs_mh008_couple_carousel_end_03d44d91:
 
     # mh "Mmmmm... perfect, [mcname]."
-    mh "Mmmmm... perfect, [mcname]."
+    mh "Mmmmm... mükemmel, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:782
 translate turkish sm1cs_mh008_couple_carousel_end_e014e089:
 
     # mh "That was... a hell of a kiss."
-    mh "That was... a hell of a kiss."
+    mh "Bu... müthiş bir öpücüktü."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
 translate turkish sm1cs_mh008_couple_carousel_end_ae0106d3:
 
     # mc "Hey, when you say \"memorable\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, when you say \"memorable\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    mc "Hey, \"unutulmaz\" ve \"öpücük\" dediğinde, sana maksimum çabalı bir öpücük vermeliyim, değil mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:788
 translate turkish sm1cs_mh008_couple_carousel_end_22b9b3c1:
 
     # mh "Yes, you do."
-    mh "Yes, you do."
+    mh "Evet, yapmalısın."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:789
 translate turkish sm1cs_mh008_couple_carousel_end_98292c6f:
 
     # mh "And I'm going to be holding you to that, [mcname]."
-    mh "And I'm going to be holding you to that, [mcname]."
+    mh "Ve bunun için seni sorumlu tutacağım, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:792
 translate turkish sm1cs_mh008_couple_carousel_end_7b471f6f:
 
     # mc "Good."
-    mc "Good."
+    mc "İyi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:795
 translate turkish sm1cs_mh008_couple_carousel_end_bb6de89a:
 
     # mh "All right, I do need to go though. I hope I see you soon, [mcname]."
-    mh "All right, I do need to go though. I hope I see you soon, [mcname]."
+    mh "Pekala, gitmem gerekiyor. Umarım yakında görüşürüz, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:798
 translate turkish sm1cs_mh008_couple_carousel_end_df110fd3:
 
     # mc "You will! I have to show you the new studio now that it's done!"
-    mc "You will! I have to show you the new studio now that it's done!"
+    mc "Görüşeceğiz! Artık bittiğine göre sana yeni stüdyoyu göstermeliyim!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:801
 translate turkish sm1cs_mh008_couple_carousel_end_bcaa0de5:
 
     # mh "Sounds like a date to me."
-    mh "Sounds like a date to me."
+    mh "Bana bir randevu gibi geliyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:804
 translate turkish sm1cs_mh008_couple_carousel_end_0b693eb1:
 
     # mct "Hell yeah, that was a great date."
-    mct "Hell yeah, that was a great date."
+    mct "Çok iyi, harika bir randevuydu."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:805
 translate turkish sm1cs_mh008_couple_carousel_end_d90e3aed:
 
     # mct "And I'm pretty excited for her to see what the studio looks like now."
-    mct "And I'm pretty excited for her to see what the studio looks like now."
+    mct "Ve stüdyonun şu anda nasıl göründüğünü görmesi için oldukça heyecanlıyım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:817
 translate turkish sm1cs_mh008_throuple_carousel_1b6d5927:
@@ -1407,37 +1407,37 @@ translate turkish sm1cs_mh008_throuple_carousel_3e248f0f:
 translate turkish sm1cs_mh008_throuple_carousel_058df31b:
 
     # sy "Sorry I'm so late. I had to shower, and find some clean clothes, and - never mind, did I miss anything fun?"
-    sy "Sorry I'm so late. I had to shower, and find some clean clothes, and - never mind, did I miss anything fun?"
+    sy "Çok geç kaldığım için özür dilerim. Duş almak ve temiz kıyafet bulmak zorundaydım ve - boşver, eğlenceli bir şey mi kaçırdım?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:826
 translate turkish sm1cs_mh008_throuple_carousel_a3b9dec9:
 
     # mh "Just [mcname] winning me a little prize."
-    mh "Just [mcname] winning me a little prize."
+    mh "Sadece [mcname] bana küçük bir ödül kazandırması."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:829
 translate turkish sm1cs_mh008_throuple_carousel_62c252e1:
 
     # sy "What!"
-    sy "What!"
+    sy "Ne!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:830
 translate turkish sm1cs_mh008_throuple_carousel_2f26d296:
 
     # sy "It's so cute! [mcname]! Why didn't you win me one?"
-    sy "It's so cute! [mcname]! Why didn't you win me one?"
+    sy "Çok tatlı! [mcname]! Neden bana bir tane kazandırmadın?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:833
 translate turkish sm1cs_mh008_throuple_carousel_2cbf11a3:
 
     # mc "Well, uhhh..."
-    mc "Well, uhhh..."
+    mc "Şey, ıhh..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:836
 translate turkish sm1cs_mh008_throuple_carousel_c9c40c2f:
 
     # mh "Well, [mcname] didn't win it, exactly. But he paid for the winning game!"
-    mh "Well, [mcname] didn't win it, exactly. But he paid for the winning game!"
+    mh "Şey, [mcname] tam olarak kazanmadı. Ama kazanan oyun için para ödedi!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:839
 translate turkish sm1cs_mh008_throuple_carousel_0c32fd40:
@@ -1449,163 +1449,163 @@ translate turkish sm1cs_mh008_throuple_carousel_0c32fd40:
 translate turkish sm1cs_mh008_throuple_carousel_607b3a0e:
 
     # sy "Lyyssssaaaaaaaaa, will you win me a teddy bear with [mcname]'s money?"
-    sy "Lyyssssaaaaaaaaa, will you win me a teddy bear with [mcname]'s money?"
+    sy "Lyyssssaaaaaaaaa, [mcname]'in parasıyla bana bir teddy ayı kazandırır mısın?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:845
 translate turkish sm1cs_mh008_throuple_carousel_986f846c:
 
     # mh "Oh, well that doesn't sound like a half-bad plan. What do you think, [mcname]?"
-    mh "Oh, well that doesn't sound like a half-bad plan. What do you think, [mcname]?"
+    mh "Ah, bu o kadar da kötü bir plan gibi gelmiyor. Ne düşünüyorsun, [mcname]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:848
 translate turkish sm1cs_mh008_throuple_carousel_c41bbdb8:
 
     # mc "I, uhhh - that was an expensive game, and erm-"
-    mc "I, uhhh - that was an expensive game, and erm-"
+    mc "Ben, ıhh - bu pahalı bir oyundu ve şey-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:851
 translate turkish sm1cs_mh008_throuple_carousel_025f0bd5:
 
     # sy "I'm kidding, [mcname]. You don't need to win me a bear."
-    sy "I'm kidding, [mcname]. You don't need to win me a bear."
+    sy "Şaka yapıyorum, [mcname]. Bana bir ayı kazandırman gerekmiyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:852
 translate turkish sm1cs_mh008_throuple_carousel_051ecb8f:
 
     # sy "But you do need to show me around! I don't think I've ever really been to the carnival for fun. Just for... \"work stuff\"."
-    sy "But you do need to show me around! I don't think I've ever really been to the carnival for fun. Just for... \"work stuff\"."
+    sy "Ama bana etrafı göstermen gerekiyor! Eğlence için karnavala gerçekten hiç gelmedim sanırım. Sadece... \"iş şeyleri\" için."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:855
 translate turkish sm1cs_mh008_throuple_carousel_954a6ab6:
 
     # mh "Really?"
-    mh "Really?"
+    mh "Gerçekten mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:859
 translate turkish sm1cs_mh008_throuple_carousel_d08cc125:
 
     # sy "Uh huh. We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
-    sy "Uh huh. We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
+    sy "Uh huh. Büyürken hiç gitmedik ve Crowning'e geldiğimden beri çok meşguldüm, yani... sadece zaman bulamadım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
 translate turkish sm1cs_mh008_throuple_carousel_04b4af8c:
 
     # sy "Growing up. Our familes never really went to the carvnial."
-    sy "Growing up. Our familes never really went to the carvnial."
+    sy "Büyürken. Ailelerimiz karnavala hiç gitmedi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:862
 translate turkish sm1cs_mh008_throuple_carousel_2fc0ca58:
 
     # sy "And I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
-    sy "And I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
+    sy "Ve Crowning'e geldiğimden beri çok meşguldüm, yani... sadece zaman bulamadım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:865
 translate turkish sm1cs_mh008_throuple_carousel_71c6ea92:
 
     # mh "Well, let's get you caught up."
-    mh "Well, let's get you caught up."
+    mh "Pekala, seni yakalayalım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:868
 translate turkish sm1cs_mh008_throuple_carousel_6e71bd96:
 
     # sy "Thanks, Lyssa."
-    sy "Thanks, Lyssa."
+    sy "Teşekkürler, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:871
 translate turkish sm1cs_mh008_throuple_carousel_c5cb254d:
 
     # mct "Well, things are definitely off to a good start!"
-    mct "Well, things are definitely off to a good start!"
+    mct "Şey, işler kesinlikle iyi bir başlangıç yaptı!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:890
 translate turkish sm1cs_mh008_throuple_carousel_f63c75c7:
 
     # sy "Ooooo, are we going to ride on the ferris wheel!?"
-    sy "Ooooo, are we going to ride on the ferris wheel!?"
+    sy "Ooooo, dönme dolaba binecek miyiz!?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:893
 translate turkish sm1cs_mh008_throuple_carousel_f3d441b0:
 
     # mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
-    mc "Well, no visit to the carnival is complete without a ferris wheel ride!"
+    mc "Şey, karnavala yapılan hiçbir ziyaret dönme dolap sürüşü olmadan tamamlanmaz!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:896
 translate turkish sm1cs_mh008_throuple_carousel_45412da6:
 
     # mh "I couldn't agree more, [mcname]."
-    mh "I couldn't agree more, [mcname]."
+    mh "Daha fazla katılamam, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:912
 translate turkish sm1cs_mh008_throuple_carousel_4467d5d8:
 
     # mh "I hope you're not afraid of heights, [mcname]!"
-    mh "I hope you're not afraid of heights, [mcname]!"
+    mh "Umarım yükseklikten korkmazsın, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:915
 translate turkish sm1cs_mh008_throuple_carousel_3de751db:
 
     # mc "Nope! Not afraid of them at all."
-    mc "Nope! Not afraid of them at all."
+    mc "Hayır! Onlardan hiç korkmam."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:918
 translate turkish sm1cs_mh008_throuple_carousel_78983fe1:
 
     # mh "What about you, Stacy?"
-    mh "What about you, Stacy?"
+    mh "Peki ya sen, Stacy?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:921
 translate turkish sm1cs_mh008_throuple_carousel_df0572e5:
 
     # sy "Oh, I'm terrified of heights."
-    sy "Oh, I'm terrified of heights."
+    sy "Ah, yükseklikten çok korkuyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:924
 translate turkish sm1cs_mh008_throuple_carousel_d1f17865:
 
     # mh "Then... why did you want to ride the ferris wheel?"
-    mh "Then... why did you want to ride the ferris wheel?"
+    mh "O zaman... neden dönme dolaba binmek istedin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:927
 translate turkish sm1cs_mh008_throuple_carousel_a7fbe2aa:
 
     # mc "Yeah, the whole thing with it is heights, Stacy."
-    mc "Yeah, the whole thing with it is heights, Stacy."
+    mc "Evet, onun tüm olayı yükseklik, Stacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:930
 translate turkish sm1cs_mh008_throuple_carousel_ec03ff89:
 
     # sy "You know I love challenging myself."
-    sy "You know I love challenging myself."
+    sy "Kendime meydan okumayı sevdiğimi biliyorsun."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:931
 translate turkish sm1cs_mh008_throuple_carousel_41ac0b4d:
 
     # sy "If I never challenged myself, I'd never grow or change."
-    sy "If I never challenged myself, I'd never grow or change."
+    sy "Kendime asla meydan okumasam, asla büyümez veya değişmem."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:934
 translate turkish sm1cs_mh008_throuple_carousel_b9e34d9f:
 
     # sy "I'd just be some stock character in the background of everyone's lives."
-    sy "I'd just be some stock character in the background of everyone's lives."
+    sy "Herkesin hayatının arka planında sadece sıradan bir karakter olurdum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:935
 translate turkish sm1cs_mh008_throuple_carousel_8c961881:
 
     # sy "And I am definitely not a background character."
-    sy "And I am definitely not a background character."
+    sy "Ve ben kesinlikle bir arka plan karakteri değilim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:938
 translate turkish sm1cs_mh008_throuple_carousel_35324042:
 
     # mc "You can say that again."
-    mc "You can say that again."
+    mc "Bunu tekrar söyleyebilirsin."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:941
 translate turkish sm1cs_mh008_throuple_carousel_cc72c627:
 
     # sy "But you two get it. You both also have big main character energy."
-    sy "But you two get it. You both also have big main character energy."
+    sy "Ama siz ikiniz anlıyorsunuz. İkinizin de büyük ana karakter enerjisi var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:944
 translate turkish sm1cs_mh008_throuple_carousel_d69c9291:
@@ -1617,115 +1617,115 @@ translate turkish sm1cs_mh008_throuple_carousel_d69c9291:
 translate turkish sm1cs_mh008_throuple_carousel_d7cb8a21:
 
     # sy "You know, like... erm, you're both the author of your own worlds, you know?"
-    sy "You know, like... erm, you're both the author of your own worlds, you know?"
+    sy "Bilirsin, yani... şey, ikiniz de kendi dünyanızın yazarısınız, bilirsin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:948
 translate turkish sm1cs_mh008_throuple_carousel_16d022cc:
 
     # sy "You're both strong, capable people. If you want something, you go out and get it. If something needs to get done, you do it."
-    sy "You're both strong, capable people. If you want something, you go out and get it. If something needs to get done, you do it."
+    sy "İkiniz de güçlü, yetenekli insanlarsınız. Bir şey istediğinizde, gidip alırsınız. Bir şeyin yapılması gerekiyorsa, yaparsınız."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:949
 translate turkish sm1cs_mh008_throuple_carousel_b75b82c5:
 
     # sy "And neither of you are ever the second player."
-    sy "And neither of you are ever the second player."
+    sy "Ve ikiniz de asla ikinci oyuncu değilsiniz."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:952
 translate turkish sm1cs_mh008_throuple_carousel_caae6011:
 
     # mh "Well, sometimes..."
-    mh "Well, sometimes..."
+    mh "Şey, bazen..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:955
 translate turkish sm1cs_mh008_throuple_carousel_2e5c4041:
 
     # mct "Uhhhh, this might get awkward. I need to change the subject."
-    mct "Uhhhh, this might get awkward. I need to change the subject."
+    mct "Uhhhh, bu garip olabilir. Konuyu değiştirmem gerekiyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:958
 translate turkish sm1cs_mh008_throuple_carousel_9ad42642:
 
     # mc "I... I have something I'm scared of."
-    mc "I... I have something I'm scared of."
+    mc "Ben... Korktuğum bir şey var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:962
 translate turkish sm1cs_mh008_throuple_carousel_ff324e5d:
 
     # sy "Really, bro?"
-    sy "Really, bro?"
+    sy "Gerçekten mi, kardeşim?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:964
 translate turkish sm1cs_mh008_throuple_carousel_3c4665e0:
 
     # sy "Really, [mcname]?"
-    sy "Really, [mcname]?"
+    sy "Gerçekten mi, [mcname]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:967
 translate turkish sm1cs_mh008_throuple_carousel_b635efb0:
 
     # mh "Oh yeah? And what's that."
-    mh "Oh yeah? And what's that."
+    mh "Ah evet? Ve o nedir?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:970
 translate turkish sm1cs_mh008_throuple_carousel_5efa3136:
 
     # mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
-    mc "I'm... I'm afraid of peanut butter getting stuck to the roof of my mouth."
+    mc "Ben... Fıstık ezmesinin ağzımın tavanına yapışmasından korkuyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:973
 translate turkish sm1cs_mh008_throuple_carousel_84217137:
 
     # mh "Excuse me... you're afraid of..."
-    mh "Excuse me... you're afraid of..."
+    mh "Affedersin... sen neden korkuyorsun..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:976
 translate turkish sm1cs_mh008_throuple_carousel_7d735c19:
 
     # mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
-    mc "Peanut butter getting stuck to the roof of my mouth. Yeah."
+    mc "Fıstık ezmesinin ağzımın tavanına yapışması. Evet."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:977
 translate turkish sm1cs_mh008_throuple_carousel_8486795c:
 
     # mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
-    mc "Because I'm going to be eating, like, a PB and J, and someone is going to try and talk to me."
+    mc "Çünkü bir fıstık ezmeli sandviç yiyeceğim ve biri benimle konuşmaya çalışacak."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:981
 translate turkish sm1cs_mh008_throuple_carousel_ccd20cf6:
 
     # mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
-    mc "And then I'm going to have peanut butter in my mouth, and I won't be able to talk."
+    mc "Ve sonra ağzımda fıstık ezmesi olacak ve konuşamayacağım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:982
 translate turkish sm1cs_mh008_throuple_carousel_86ad05c0:
 
     # mc "Or it'll sound super weird and that scares me!"
-    mc "Or it'll sound super weird and that scares me!"
+    mc "Ya da çok garip gelecek ve bu beni korkutuyor!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:985
 translate turkish sm1cs_mh008_throuple_carousel_c60a8f92:
 
     # mh "I, uhm - uhm-"
-    mh "I, uhm - uhm-"
+    mh "Ben, ıhm - ıhm-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:988
 translate turkish sm1cs_mh008_throuple_carousel_1b3407be:
 
     # sy "You're fucking with us, right?"
-    sy "You're fucking with us, right?"
+    sy "Bizimle dalga geçiyorsun, değil mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:991
 translate turkish sm1cs_mh008_throuple_carousel_233ba459:
 
     # mc "No! I'm seriously afraid of it-"
-    mc "No! I'm seriously afraid of it-"
+    mc "Hayır! Bundan cidden korkuyorum-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:994
 translate turkish sm1cs_mh008_throuple_carousel_05d4025a:
 
     # mc "What! It's a very real fear!"
-    mc "What! It's a very real fear!"
+    mc "Ne! Bu çok gerçek bir korku!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:997
 translate turkish sm1cs_mh008_throuple_carousel_cb11c524:
@@ -1737,103 +1737,103 @@ translate turkish sm1cs_mh008_throuple_carousel_cb11c524:
 translate turkish sm1cs_mh008_throuple_carousel_bf31223f:
 
     # sy "Hahahahahahahaha! No fucking way!"
-    sy "Hahahahahahahaha! No fucking way!"
+    sy "Hahahahahahahaha! İmkanı yok!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1003
 translate turkish sm1cs_mh008_throuple_carousel_9ec7878b:
 
     # sy "That's the most ridiculous thing I've ever heard, [mcname]!"
-    sy "That's the most ridiculous thing I've ever heard, [mcname]!"
+    sy "Bu şimdiye kadar duyduğum en saçma şey, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1006
 translate turkish sm1cs_mh008_throuple_carousel_6409586d:
 
     # mc "And what, you two are totally fearless?!"
-    mc "And what, you two are totally fearless?!"
+    mc "Peki ne, siz ikiniz tamamen korkusuz musunuz?!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1009
 translate turkish sm1cs_mh008_throuple_carousel_73ccfa3c:
 
     # sy "No, I already told you I'm scared of heights. But that one makes sense."
-    sy "No, I already told you I'm scared of heights. But that one makes sense."
+    sy "Hayır, sana yükseklikten korktuğumu zaten söyledim. Ama bu mantıklı."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1010
 translate turkish sm1cs_mh008_throuple_carousel_033df74c:
 
     # sy "Because if you fall from super high up, that's it for you."
-    sy "Because if you fall from super high up, that's it for you."
+    sy "Çünkü çok yüksekten düşersen, senin için iş biter."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1011
 translate turkish sm1cs_mh008_throuple_carousel_94f2286d:
 
     # sy "My fear makes sense. Yours is just insane!"
-    sy "My fear makes sense. Yours is just insane!"
+    sy "Benim korkum mantıklı. Senin ki sadece delice!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1014
 translate turkish sm1cs_mh008_throuple_carousel_242c405e:
 
     # mc "Is not!"
-    mc "Is not!"
+    mc "Değil!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1017
 translate turkish sm1cs_mh008_throuple_carousel_356c92fb:
 
     # sy "Suuuuuuuuuure."
-    sy "Suuuuuuuuuure."
+    sy "Tabiiiiiiiiii."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1020
 translate turkish sm1cs_mh008_throuple_carousel_61b0845e:
 
     # mh "And no, I wouldn't say that I'm not scared of anything. I used to get really bad vertigo, but I think I've finally gotten over that."
-    mh "And no, I wouldn't say that I'm not scared of anything. I used to get really bad vertigo, but I think I've finally gotten over that."
+    mh "Ve hayır, hiçbir şeyden korkmadığımı söylemem. Eskiden çok kötü baş dönmesi yaşardım ama sanırım sonunda bunun üstesinden geldim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1023
 translate turkish sm1cs_mh008_throuple_carousel_6377fe3f:
 
     # sy "And that one totally makes sense! Heights are spooky!"
-    sy "And that one totally makes sense! Heights are spooky!"
+    sy "Ve bu tamamen mantıklı! Yükseklikler ürkütücü!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1026
 translate turkish sm1cs_mh008_throuple_carousel_5c22fcd6:
 
     # mh "Yes, heights are definitely spooky."
-    mh "Yes, heights are definitely spooky."
+    mh "Evet, yükseklikler kesinlikle ürkütücü."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1027
 translate turkish sm1cs_mh008_throuple_carousel_13be126e:
 
     # mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
-    mh "And I wouldn't say I'm scared of clowns, I just have an... aversion to them."
+    mh "Ve palyaçolardan korktuğumu söylemem, sadece onlara karşı bir... isteksizliğim var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1030
 translate turkish sm1cs_mh008_throuple_carousel_e8db4ec6:
 
     # sy "Mmmm.{w} You know, I think clowns are actually kind of sexy."
-    sy "Mmmm.{w} You know, I think clowns are actually kind of sexy."
+    sy "Mmmm.{w} Biliyorsun, bence palyaçolar aslında biraz seksi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1033
 translate turkish sm1cs_mh008_throuple_carousel_954a6ab6_1:
 
     # mh "Really?"
-    mh "Really?"
+    mh "Gerçekten mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1036
 translate turkish sm1cs_mh008_throuple_carousel_0b2d8102:
 
     # sy "Well... the right kind of clown."
-    sy "Well... the right kind of clown."
+    sy "Şey... doğru tür palyaço."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1039
 translate turkish sm1cs_mh008_throuple_carousel_d7a27687:
 
     # mc "We know someone who's made a clown porn video or two."
-    mc "We know someone who's made a clown porn video or two."
+    mc "Bir veya iki palyaço porno videosu yapmış birini tanıyoruz."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1040
 translate turkish sm1cs_mh008_throuple_carousel_6a05b4c3:
 
     # mc "I think it secretly unlocked a weird kink in Stacy's brain."
-    mc "I think it secretly unlocked a weird kink in Stacy's brain."
+    mc "Sanırım Stacy'nin beyninde gizlice garip bir sapkınlığın kilidini açtı."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1043
 translate turkish sm1cs_mh008_throuple_carousel_56d3ff98:
@@ -1845,43 +1845,43 @@ translate turkish sm1cs_mh008_throuple_carousel_56d3ff98:
 translate turkish sm1cs_mh008_throuple_carousel_78aae6be:
 
     # mc "Am I wrong?"
-    mc "Am I wrong?"
+    mc "Yanılıyor muyum?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1049
 translate turkish sm1cs_mh008_throuple_carousel_1312f9be:
 
     # sy "...{w} No."
-    sy "...{w} No."
+    sy "...{w} Hayır."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1052
 translate turkish sm1cs_mh008_throuple_carousel_fbd9cf05:
 
     # mh "Hey, maybe I just haven't met the right clowns."
-    mh "Hey, maybe I just haven't met the right clowns."
+    mh "Hey, belki de sadece doğru palyaçoları tanımadım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1055
 translate turkish sm1cs_mh008_throuple_carousel_b3062656:
 
     # sy "Oh, I can totally introduce you! Taisia is a little freak, and-"
-    sy "Oh, I can totally introduce you! Taisia is a little freak, and-"
+    sy "Ah, seni tamamen tanıştırabilirim! Taisia biraz ucubedir ve-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1058
 translate turkish sm1cs_mh008_throuple_carousel_c5cfdf97:
 
     # mc "Stacy, let's maybe not talk about clown porn right now."
-    mc "Stacy, let's maybe not talk about clown porn right now."
+    mc "Stacy, belki şu anda palyaço pornosu hakkında konuşmayalım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1061
 translate turkish sm1cs_mh008_throuple_carousel_e9e1aef6:
 
     # sy "Uggghhhhh, fiiiiiiiiiiiine."
-    sy "Uggghhhhh, fiiiiiiiiiiiine."
+    sy "Uggghhhhh, taaaaaaamam."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1064
 translate turkish sm1cs_mh008_throuple_carousel_4ef78658:
 
     # sy "But I will totally send you a link later."
-    sy "But I will totally send you a link later."
+    sy "Ama kesinlikle sana daha sonra bir link göndereceğim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1067
 translate turkish sm1cs_mh008_throuple_carousel_15634037:
@@ -1893,13 +1893,13 @@ translate turkish sm1cs_mh008_throuple_carousel_15634037:
 translate turkish sm1cs_mh008_throuple_carousel_39f3bc9f:
 
     # mc "But there's only one clown to be afraid of."
-    mc "But there's only one clown to be afraid of."
+    mc "Ama korkulacak tek bir palyaço var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1073
 translate turkish sm1cs_mh008_throuple_carousel_a161e15d:
 
     # mh "Oh yeah? And which one is that?"
-    mh "Oh yeah? And which one is that?"
+    mh "Ah evet? Ve o hangisi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1076
 translate turkish sm1cs_mh008_throuple_carousel_4e784502:
@@ -1911,121 +1911,121 @@ translate turkish sm1cs_mh008_throuple_carousel_4e784502:
 translate turkish sm1cs_mh008_throuple_carousel_8f5e4b82:
 
     # mh "Like... the mascot for the fast food place?"
-    mh "Like... the mascot for the fast food place?"
+    mh "Yani... fast food yerinin maskotu mu?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1082
 translate turkish sm1cs_mh008_throuple_carousel_073d3c75:
 
     # sy "Didn't Taisia scare the shit out of you when she was in her clown makeup?"
-    sy "Didn't Taisia scare the shit out of you when she was in her clown makeup?"
+    sy "Taisia palyaço makyajındayken seni mahvetmedi mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1085
 translate turkish sm1cs_mh008_throuple_carousel_6a81b4c6:
 
     # mc "That was a jump scare, I wasn't scared because she was a clown."
-    mc "That was a jump scare, I wasn't scared because she was a clown."
+    mc "O bir korku anıydı, bir palyaço olduğu için korkmadım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1086
 translate turkish sm1cs_mh008_throuple_carousel_c70012ca:
 
     # mc "The only clown to fear, is Donald MacDonald."
-    mc "The only clown to fear, is Donald MacDonald."
+    mc "Korkacak tek palyaço, Donald MacDonald."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1089
 translate turkish sm1cs_mh008_throuple_carousel_03035655:
 
     # mc "Yes. He's the most lethal clown in history."
-    mc "Yes. He's the most lethal clown in history."
+    mc "Evet. O tarihteki en ölümcül palyaço."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1090
 translate turkish sm1cs_mh008_throuple_carousel_890c0854:
 
     # mc "He's killed more people than Gacy."
-    mc "He's killed more people than Gacy."
+    mc "Gacy'den daha fazla insan öldürdü."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1093
 translate turkish sm1cs_mh008_throuple_carousel_1e99bd94:
 
     # mh "You know... you've got a good point there."
-    mh "You know... you've got a good point there."
+    mh "Biliyorsun... burada iyi bir noktaya değindin."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1096
 translate turkish sm1cs_mh008_throuple_carousel_ced925a6:
 
     # sy "I've never really thought about it like that..."
-    sy "I've never really thought about it like that..."
+    sy "Bunu hiç böyle düşünmemiştim..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1099
 translate turkish sm1cs_mh008_throuple_carousel_d64fffa8:
 
     # mc "And he just looks creepy as hell."
-    mc "And he just looks creepy as hell."
+    mc "Ve çok ürkütücü görünüyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1102
 translate turkish sm1cs_mh008_throuple_carousel_83fc393b:
 
     # mh "Hehehe - yeah, you're not wrong there either."
-    mh "Hehehe - yeah, you're not wrong there either."
+    mh "Hehehe - evet, orada da yanılmıyorsun."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1105
 translate turkish sm1cs_mh008_throuple_carousel_46c747e9:
 
     # mh "Wow... sometimes I forget how beautiful Crowning is..."
-    mh "Wow... sometimes I forget how beautiful Crowning is..."
+    mh "Vay be... bazen Crowning'in ne kadar güzel olduğunu unutuyorum..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1108
 translate turkish sm1cs_mh008_throuple_carousel_ba334fd2:
 
     # sy "Right? You can just... forget that we're actually pretty lucky."
-    sy "Right? You can just... forget that we're actually pretty lucky."
+    sy "Değil mi? Sadece... aslında oldukça şanslı olduğumuzu unutabilirsin."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1111
 translate turkish sm1cs_mh008_throuple_carousel_6780655c:
 
     # mc "Yeah, the sights are really something..."
-    mc "Yeah, the sights are really something..."
+    mc "Evet, manzaralar gerçekten bir şey..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1114
 translate turkish sm1cs_mh008_throuple_carousel_4553470d:
 
     # mc "Yeah.{w} They really are..."
-    mc "Yeah.{w} They really are..."
+    mc "Evet.{w} Gerçekten öyleler..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1117
 translate turkish sm1cs_mh008_throuple_carousel_18c82454:
 
     # mh "You're not even looking out at the city, [mcname]."
-    mh "You're not even looking out at the city, [mcname]."
+    mh "Şehre bile bakmıyorsun, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1120
 translate turkish sm1cs_mh008_throuple_carousel_974505ae:
 
     # mc "Why would I do that?"
-    mc "Why would I do that?"
+    mc "Neden bunu yapayım ki?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1123
 translate turkish sm1cs_mh008_throuple_carousel_c0664f99:
 
     # mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
-    mc "Because, as far as I'm concerned, the most beautiful thing I could be looking at, is you, Lyssa."
+    mc "Çünkü bana göre, bakabileceğim en güzel şey sensin, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1126
 translate turkish sm1cs_mh008_throuple_carousel_aa0a328b:
 
     # mh "Oh, you..."
-    mh "Oh, you..."
+    mh "Ah, sen..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1135
 translate turkish sm1cs_mh008_throuple_carousel_51fda705:
 
     # mc "And I'm the luckiest man in the world, to be sitting here with you, too, Stacy."
-    mc "And I'm the luckiest man in the world, to be sitting here with you, too, Stacy."
+    mc "Ve ben, seninle de burada oturabildiğim için dünyanın en şanslı adamıyım, Stacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1138
 translate turkish sm1cs_mh008_throuple_carousel_6aa11858:
 
     # sy "Oh, all romantic now, are we?"
-    sy "Oh, all romantic now, are we?"
+    sy "Ah, şimdi romantik olduk, değil mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1141
 translate turkish sm1cs_mh008_throuple_carousel_d9fc70c6:
@@ -2037,19 +2037,19 @@ translate turkish sm1cs_mh008_throuple_carousel_d9fc70c6:
 translate turkish sm1cs_mh008_throuple_carousel_de0ecb93:
 
     # sy "Yeah?"
-    sy "Yeah?"
+    sy "Evet?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1148
 translate turkish sm1cs_mh008_throuple_carousel_f3581888:
 
     # mc "Shut up, before you ruin the moment."
-    mc "Shut up, before you ruin the moment."
+    mc "Kapa çeneni, anı mahvetmeden önce."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1151
 translate turkish sm1cs_mh008_throuple_carousel_6c09de90:
 
     # sy "Wait-"
-    sy "Wait-"
+    sy "Bekle-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1157
 translate turkish sm1cs_mh008_throuple_carousel_1b4becb5:
@@ -2061,19 +2061,19 @@ translate turkish sm1cs_mh008_throuple_carousel_1b4becb5:
 translate turkish sm1cs_mh008_throuple_carousel_ea0365b7:
 
     # mc "That trick always works."
-    mc "That trick always works."
+    mc "Bu numara her zaman işe yarar."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1163
 translate turkish sm1cs_mh008_throuple_carousel_9005f6c0:
 
     # sy "It's a good trick."
-    sy "It's a good trick."
+    sy "İyi bir numara."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1169
 translate turkish sm1cs_mh008_throuple_carousel_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Ben-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1172
 translate turkish sm1cs_mh008_throuple_carousel_c7cf2826:
@@ -2085,217 +2085,217 @@ translate turkish sm1cs_mh008_throuple_carousel_c7cf2826:
 translate turkish sm1cs_mh008_throuple_carousel_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Evet?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1178
 translate turkish sm1cs_mh008_throuple_carousel_7647e6de:
 
     # mh "Let's just enjoy this moment."
-    mh "Let's just enjoy this moment."
+    mh "Sadece bu anın tadını çıkaralım."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1181
 translate turkish sm1cs_mh008_throuple_carousel_46df97aa:
 
     # mct "When she's right. She's right."
-    mct "When she's right. She's right."
+    mct "Haklı olduğunda. Haklıdır."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1198
 translate turkish sm1cs_mh008_throuple_carousel_end_cac1d1c7:
 
     # mh "That was... truly wonderful, [mcname]."
-    mh "That was... truly wonderful, [mcname]."
+    mh "Bu... gerçekten harikaydı, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1199
 translate turkish sm1cs_mh008_throuple_carousel_end_04a06728:
 
     # mh "Another wonderful carnival memory to add to the others."
-    mh "Another wonderful carnival memory to add to the others."
+    mh "Diğerlerine eklenecek bir başka harika karnav anısı."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1202
 translate turkish sm1cs_mh008_throuple_carousel_end_7b0fc73d:
 
     # sy "Yeah, that was incredible."
-    sy "Yeah, that was incredible."
+    sy "Evet, bu inanılmazdı."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1205
 translate turkish sm1cs_mh008_throuple_carousel_end_532cad5f:
 
     # mc "I couldn't think of anyone I'd rather be up there with than you two."
-    mc "I couldn't think of anyone I'd rather be up there with than you two."
+    mc "Sizden başka orada birlikte olmak isteyeceğim kimseyi düşünemezdim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1208
 translate turkish sm1cs_mh008_throuple_carousel_end_45678195:
 
     # mh "I hate to cut this short, but I do have a meeting in the morning that I have to make."
-    mh "I hate to cut this short, but I do have a meeting in the morning that I have to make."
+    mh "Bunu kısa kesmekten nefret ederim ama sabah katılmam gereken bir toplantım var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1211
 translate turkish sm1cs_mh008_throuple_carousel_end_e5593f66:
 
     # sy "Boooo!"
-    sy "Boooo!"
+    sy "Yuuuuh!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1215
 translate turkish sm1cs_mh008_throuple_carousel_end_31b055e7:
 
     # mc "Wait, isn't it the weekend?"
-    mc "Wait, isn't it the weekend?"
+    mc "Bekle, hafta sonu değil mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1218
 translate turkish sm1cs_mh008_throuple_carousel_end_aff55cb5:
 
     # mh "When you work as a solo practitioner, you're never guaranteed weekends off."
-    mh "When you work as a solo practitioner, you're never guaranteed weekends off."
+    mh "Tek başına çalışan bir avukat olarak, hafta sonları tatil yapabileceğin asla garanti değil."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1221
 translate turkish sm1cs_mh008_throuple_carousel_end_1fc5a45e:
 
     # mc "Oh shit, it's a work night, isn't it?"
-    mc "Oh shit, it's a work night, isn't it?"
+    mc "Ah kahretsin, bu bir iş gecesi, değil mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1224
 translate turkish sm1cs_mh008_throuple_carousel_end_4b42e3c3:
 
     # mh "That it is."
-    mh "That it is."
+    mh "Öyle."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1227
 translate turkish sm1cs_mh008_throuple_carousel_end_2b987de2:
 
     # mc "In that case, I'm glad you had a great night, Lyssa."
-    mc "In that case, I'm glad you had a great night, Lyssa."
+    mc "Bu durumda, harika bir gece geçirmene sevindim, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1230
 translate turkish sm1cs_mh008_throuple_carousel_end_d3dbb2e7:
 
     # mh "There is... one more thing you could do to make tonight phenomenal."
-    mh "There is... one more thing you could do to make tonight phenomenal."
+    mh "Bu geceyi olağanüstü yapmak için yapabileceğin... bir şey daha var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1233
 translate turkish sm1cs_mh008_throuple_carousel_end_c8f5c86e:
 
     # mc "Oh yeah? And what's that?"
-    mc "Oh yeah? And what's that?"
+    mc "Ah evet? Ve o nedir?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1236
 translate turkish sm1cs_mh008_throuple_carousel_end_3f381964:
 
     # mh "Kiss me."
-    mh "Kiss me."
+    mh "Öp beni."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1239
 translate turkish sm1cs_mh008_throuple_carousel_end_8817f8de:
 
     # mc "Don't mind if I do."
-    mc "Don't mind if I do."
+    mc "Yaparım tabii."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1248
 translate turkish sm1cs_mh008_throuple_carousel_end_03d44d91:
 
     # mh "Mmmmm... perfect, [mcname]."
-    mh "Mmmmm... perfect, [mcname]."
+    mh "Mmmmm... mükemmel, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1249
 translate turkish sm1cs_mh008_throuple_carousel_end_e014e089:
 
     # mh "That was... a hell of a kiss."
-    mh "That was... a hell of a kiss."
+    mh "Bu... müthiş bir öpücüktü."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1252
 translate turkish sm1cs_mh008_throuple_carousel_end_83caa5fe:
 
     # mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    mc "Hey, \"olağanüstü\" ve \"öpücük\" dediğinde, sana maksimum çabalı bir öpücük vermeliyim, değil mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1255
 translate turkish sm1cs_mh008_throuple_carousel_end_22b9b3c1:
 
     # mh "Yes, you do."
-    mh "Yes, you do."
+    mh "Evet, yapmalısın."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1256
 translate turkish sm1cs_mh008_throuple_carousel_end_98292c6f:
 
     # mh "And I'm going to be holding you to that, [mcname]."
-    mh "And I'm going to be holding you to that, [mcname]."
+    mh "Ve bunun için seni sorumlu tutacağım, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1259
 translate turkish sm1cs_mh008_throuple_carousel_end_7b471f6f:
 
     # mc "Good."
-    mc "Good."
+    mc "İyi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1262
 translate turkish sm1cs_mh008_throuple_carousel_end_afed84e0:
 
     # sy "Well, I want one too!"
-    sy "Well, I want one too!"
+    sy "Şey, ben de bir tane istiyorum!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1266
 translate turkish sm1cs_mh008_throuple_carousel_end_ce632f2e:
 
     # mc "Anything for you, dear sister."
-    mc "Anything for you, dear sister."
+    mc "Senin için her şey, sevgili kardeşim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1268
 translate turkish sm1cs_mh008_throuple_carousel_end_22e47135:
 
     # mc "Anything for my best friend."
-    mc "Anything for my best friend."
+    mc "En iyi arkadaşım için her şey."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1277
 translate turkish sm1cs_mh008_throuple_carousel_end_e1deded6:
 
     # sy "Wait... I wanted, like, a whole production with my kiss."
-    sy "Wait... I wanted, like, a whole production with my kiss."
+    sy "Bekle... Öpücüğümle birlikte tam bir prodüksiyon istiyordum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
 translate turkish sm1cs_mh008_throuple_carousel_end_4a9a3a30:
 
     # mh "Yeah, something like this, [mcname]"
-    mh "Yeah, something like this, [mcname]"
+    mh "Evet, bunun gibi bir şey, [mcname]"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1286
 translate turkish sm1cs_mh008_throuple_carousel_end_77858d38:
 
     # sy "Woah - Lyssa!"
-    sy "Woah - Lyssa!"
+    sy "Vay be - Lyssa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1289
 translate turkish sm1cs_mh008_throuple_carousel_end_55acb48e:
 
     # mh "Just go with it, Stacy."
-    mh "Just go with it, Stacy."
+    mh "Sadece bırak götürsün, Stacy."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1297
 translate turkish sm1cs_mh008_throuple_carousel_end_653b760e:
 
     # mct "Holy shit... that's hot."
-    mct "Holy shit... that's hot."
+    mct "Vay be... bu ateşli."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1301
 translate turkish sm1cs_mh008_throuple_carousel_end_0bf97885:
 
     # sy "Wow..."
-    sy "Wow..."
+    sy "Vay..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1304
 translate turkish sm1cs_mh008_throuple_carousel_end_bb6de89a:
 
     # mh "All right, I do need to go though. I hope I see you soon, [mcname]."
-    mh "All right, I do need to go though. I hope I see you soon, [mcname]."
+    mh "Pekala, gitmem gerekiyor. Umarım yakında görüşürüz, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1307
 translate turkish sm1cs_mh008_throuple_carousel_end_df110fd3:
 
     # mc "You will! I have to show you the new studio now that it's done!"
-    mc "You will! I have to show you the new studio now that it's done!"
+    mc "Görüşeceğiz! Artık bittiğine göre sana yeni stüdyoyu göstermeliyim!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1310
 translate turkish sm1cs_mh008_throuple_carousel_end_bcaa0de5:
 
     # mh "Sounds like a date to me."
-    mh "Sounds like a date to me."
+    mh "Bana bir randevu gibi geliyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1313
 translate turkish sm1cs_mh008_throuple_carousel_end_c122e1f8:
@@ -2307,31 +2307,31 @@ translate turkish sm1cs_mh008_throuple_carousel_end_c122e1f8:
 translate turkish sm1cs_mh008_throuple_carousel_end_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Evet?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1318
 translate turkish sm1cs_mh008_throuple_carousel_end_29afcd50:
 
     # sy "I need you to help me home. My legs are jelly and I'm scared I'm going to collapse any second now."
-    sy "I need you to help me home. My legs are jelly and I'm scared I'm going to collapse any second now."
+    sy "Eve gitmem için bana yardım etmeni istiyorum. Bacaklarım pelte gibi ve her an yere yığılacağımdan korkuyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1321
 translate turkish sm1cs_mh008_throuple_carousel_end_c43b6269:
 
     # mc "All right, come on. Let's get you home."
-    mc "All right, come on. Let's get you home."
+    mc "Pekala, hadi. Seni eve götürelim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1325
 translate turkish sm1cs_mh008_throuple_carousel_end_3c5db827:
 
     # sy "Thank yoooooouuuuu..."
-    sy "Thank yoooooouuuuu..."
+    sy "Teşekkür ederiiiiiim..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1328
 translate turkish sm1cs_mh008_throuple_carousel_end_260b1487:
 
     # mct "I honestly couldn't have planned a better date than this."
-    mct "I honestly couldn't have planned a better date than this."
+    mct "Dürüst olmak gerekirse, bundan daha iyi bir randevu planlayamazdım."
 
 translate turkish strings:
 
