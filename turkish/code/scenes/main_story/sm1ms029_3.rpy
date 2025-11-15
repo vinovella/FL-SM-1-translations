@@ -202,12 +202,6 @@ translate turkish sm1ms029_part_1_my_appear_20008a20:
     # mc "It's a, uhm... theater practice?"
     mc "Bu bir, uhm... tiyatro prova mı?"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1480
-translate turkish sm1ms029_part_1_my_appear_6d683a4f:
-
-    # my "Theater practive?"
-    my "Tiyatro provası?"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1483
 translate turkish sm1ms029_part_1_my_appear_2db7f079:
 
@@ -340,12 +334,6 @@ translate turkish sm1ms029_part_1_my_appear_b32c2bcf:
     # mc "I hate to be rude, Melony, but I am in the middle of this, erm, theater practice."
     mc "I hate to be rude, Melony, but I am in the middle of this, erm, theater practice."
 
-# game/code/scenes/main_story/sm1ms029.rpy:1515
-translate turkish sm1ms029_part_1_my_appear_b9db78a7:
-
-    # my "All right."
-    my "Tamam."
-
 # game/code/scenes/main_story/sm1ms029.rpy:1518
 translate turkish sm1ms029_part_1_my_appear_22cecdce:
 
@@ -369,12 +357,6 @@ translate turkish sm1ms029_part_1_my_appear_20231b23:
 
     # mc "I will! Bye, Melony!"
     mc "Söylerim! Güle güle, Melony!"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1528
-translate turkish sm1ms029_part_1_my_appear_b8b0ba4d:
-
-    # my "I'll see you later!"
-    my "Sonra görüşürüz!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1530
 translate turkish sm1ms029_part_1_my_appear_d106c4c4:
@@ -1023,12 +1005,6 @@ translate turkish sm1ms029_party_sy_7b187bef:
 
     # mc "I know when to keep my mouth shut."
     mc "Ne zaman ağzımı kapatacağımı bilirim."
-
-# game/code/scenes/main_story/sm1ms029.rpy:1692
-translate turkish sm1ms029_party_sy_21b22e4f:
-
-    # sy "And I know when to keep mine open!"
-    sy "Ve ben de benimkini ne zaman açık tutacağımı bilirim!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1696
 translate turkish sm1ms029_party_sy_1d9ba22a:

@@ -41,12 +41,6 @@ translate turkish sm1cs_mh008_c067869b:
     mc "Neden beni görmek istedin?"
 
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:46
-translate turkish sm1cs_mh008_e7ebf2b6:
-
-    # mh "I don't know... it's been awhile since we've really spent time together. I thought we could maybe do something, go somewhere."
-    mh "Bilmiyorum... gerçekten birlikte vakit geçirmeyeli uzun zaman oldu. Bir şeyler yapabiliriz, bir yere gidebiliriz diye düşündüm."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:49
 translate turkish sm1cs_mh008_3e53a7b5:
 

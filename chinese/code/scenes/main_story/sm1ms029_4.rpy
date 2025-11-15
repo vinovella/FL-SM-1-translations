@@ -701,12 +701,6 @@ translate chinese sm1ms029_confrontation_068bfdf9:
     # sy "Foxmorr Films? You guys always have half of the top ten movie slots on Porn Cave."
     sy "福克斯莫电影？你们总是占据色情洞穴网站前十榜单的一半。"
 
-# game/code/scenes/main_story/sm1ms029.rpy:2118
-translate chinese sm1ms029_confrontation_c83907dd:
-
-    # sy "Now I see it. Carmel Blaise.{w}You're the top pornstar of Foxmorr Films."
-    sy "现在我认出来了。卡梅尔·布莱斯。{w}你是福克斯莫电影的顶级色情明星。"
-
 # game/code/scenes/main_story/sm1ms029.rpy:2119
 translate chinese sm1ms029_confrontation_897a7ac8:
 
@@ -1229,12 +1223,6 @@ translate chinese sm1ms029_confrontation_3e248f0f:
     # mc "Hey, Stacy."
     mc "嘿，史黛西。"
 
-# game/code/scenes/main_story/sm1ms029.rpy:2286
-translate chinese sm1ms029_confrontation_84332637:
-
-    # sy "What are we doing to do?"
-    sy "我们要怎么办？"
-
 # game/code/scenes/main_story/sm1ms029.rpy:2290
 translate chinese sm1ms029_confrontation_77975f23:
 
@@ -1294,12 +1282,6 @@ translate chinese sm1ms029_confrontation_063dd8e9:
 
     # mc "Forget about that guy. Total inferiority complex."
     mc "忘了那家伙吧。典型的自卑情结。"
-
-# game/code/scenes/main_story/sm1ms029.rpy:2317
-translate chinese sm1ms029_confrontation_0956bd9e:
-
-    # mc "He thinks he can come in and tryto scare us?"
-    mc "他以为他可以进来吓唬我们？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2318
 translate chinese sm1ms029_confrontation_1cd215d5:

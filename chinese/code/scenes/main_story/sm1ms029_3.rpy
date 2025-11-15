@@ -221,12 +221,6 @@ translate chinese sm1ms029_part_1_my_appear_20008a20:
     # mc "It's a, uhm... theater practice?"
     mc "这是，呃...戏剧排练？"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1480
-translate chinese sm1ms029_part_1_my_appear_6d683a4f:
-
-    # my "Theater practive?"
-    my "戏剧排练？"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1483
 translate chinese sm1ms029_part_1_my_appear_2db7f079:
 
@@ -359,12 +353,6 @@ translate chinese sm1ms029_part_1_my_appear_b32c2bcf:
     # mc "I hate to be rude, Melony, but I am in the middle of this, erm, theater practice."
     mc "我不想不礼貌，梅洛妮，但我正在进行这个，呃，戏剧排练。"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1515
-translate chinese sm1ms029_part_1_my_appear_b9db78a7:
-
-    # my "All right."
-    my "好的。"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1518
 translate chinese sm1ms029_part_1_my_appear_22cecdce:
 
@@ -388,12 +376,6 @@ translate chinese sm1ms029_part_1_my_appear_20231b23:
 
     # mc "I will! Bye, Melony!"
     mc "我会的！再见，梅洛妮！"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1528
-translate chinese sm1ms029_part_1_my_appear_b8b0ba4d:
-
-    # my "I'll see you later!"
-    my "回头见！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1530
 translate chinese sm1ms029_part_1_my_appear_d106c4c4:
@@ -1042,12 +1024,6 @@ translate chinese sm1ms029_party_sy_7b187bef:
 
     # mc "I know when to keep my mouth shut."
     mc "我知道什么时候该闭嘴。"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1692
-translate chinese sm1ms029_party_sy_21b22e4f:
-
-    # sy "And I know when to keep mine open!"
-    sy "我知道什么时候该睁开眼睛！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1696
 translate chinese sm1ms029_party_sy_1d9ba22a:

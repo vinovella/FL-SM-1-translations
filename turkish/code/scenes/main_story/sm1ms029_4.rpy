@@ -676,12 +676,6 @@ translate turkish sm1ms029_confrontation_068bfdf9:
     # sy "Foxmorr Films? You guys always have half of the top ten movie slots on Porn Cave."
     sy "Foxmorr Films? You guys always have half of the top ten movie slots on Porn Cave."
 
-# game/code/scenes/main_story/sm1ms029.rpy:2118
-translate turkish sm1ms029_confrontation_c83907dd:
-
-    # sy "Now I see it. Carmel Blaise.{w}You're the top pornstar of Foxmorr Films."
-    sy "Now I see it. Carmel Blaise.{w}You're the top pornstar of Foxmorr Films."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2119
 translate turkish sm1ms029_confrontation_897a7ac8:
 
@@ -1204,12 +1198,6 @@ translate turkish sm1ms029_confrontation_3e248f0f:
     # mc "Hey, Stacy."
     mc "Hey, Stacy."
 
-# game/code/scenes/main_story/sm1ms029.rpy:2286
-translate turkish sm1ms029_confrontation_84332637:
-
-    # sy "What are we doing to do?"
-    sy "What are we doing to do?"
-
 # game/code/scenes/main_story/sm1ms029.rpy:2290
 translate turkish sm1ms029_confrontation_77975f23:
 
@@ -1269,12 +1257,6 @@ translate turkish sm1ms029_confrontation_063dd8e9:
 
     # mc "Forget about that guy. Total inferiority complex."
     mc "Forget about that guy. Total inferiority complex."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2317
-translate turkish sm1ms029_confrontation_0956bd9e:
-
-    # mc "He thinks he can come in and tryto scare us?"
-    mc "He thinks he can come in and tryto scare us?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2318
 translate turkish sm1ms029_confrontation_1cd215d5:

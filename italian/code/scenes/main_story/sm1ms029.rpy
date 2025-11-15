@@ -3610,12 +3610,6 @@ translate italian sm1ms029_part_1_my_appear_20008a20:
     # mc "It's a, uhm... theater practice?"
     mc "It's a, uhm... theater practice?"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1480
-translate italian sm1ms029_part_1_my_appear_6d683a4f:
-
-    # my "Theater practive?"
-    my "Theater practive?"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1483
 translate italian sm1ms029_part_1_my_appear_2db7f079:
 
@@ -3748,12 +3742,6 @@ translate italian sm1ms029_part_1_my_appear_b32c2bcf:
     # mc "I hate to be rude, Melony, but I am in the middle of this, erm, theater practice."
     mc "I hate to be rude, Melony, but I am in the middle of this, erm, theater practice."
 
-# game/code/scenes/main_story/sm1ms029.rpy:1515
-translate italian sm1ms029_part_1_my_appear_b9db78a7:
-
-    # my "All right."
-    my "All right."
-
 # game/code/scenes/main_story/sm1ms029.rpy:1518
 translate italian sm1ms029_part_1_my_appear_22cecdce:
 
@@ -3777,12 +3765,6 @@ translate italian sm1ms029_part_1_my_appear_20231b23:
 
     # mc "I will! Bye, Melony!"
     mc "I will! Bye, Melony!"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1528
-translate italian sm1ms029_part_1_my_appear_b8b0ba4d:
-
-    # my "I'll see you later!"
-    my "I'll see you later!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1530
 translate italian sm1ms029_part_1_my_appear_d106c4c4:
@@ -4431,12 +4413,6 @@ translate italian sm1ms029_party_sy_7b187bef:
 
     # mc "I know when to keep my mouth shut."
     mc "I know when to keep my mouth shut."
-
-# game/code/scenes/main_story/sm1ms029.rpy:1692
-translate italian sm1ms029_party_sy_21b22e4f:
-
-    # sy "And I know when to keep mine open!"
-    sy "And I know when to keep mine open!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1696
 translate italian sm1ms029_party_sy_1d9ba22a:
@@ -5788,12 +5764,6 @@ translate italian sm1ms029_confrontation_068bfdf9:
     # sy "Foxmorr Films? You guys always have half of the top ten movie slots on Porn Cave."
     sy "Foxmorr Films? Voi ragazzi avete sempre metà dei primi dieci posti su Porn Cave."
 
-# game/code/scenes/main_story/sm1ms029.rpy:2118
-translate italian sm1ms029_confrontation_c83907dd:
-
-    # sy "Now I see it. Carmel Blaise.{w}You're the top pornstar of Foxmorr Films."
-    sy "Ora capisco. Carmel Blaise.{w}Sei la pornostar più famosa di Foxmorr Films."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2119
 translate italian sm1ms029_confrontation_897a7ac8:
 
@@ -6316,12 +6286,6 @@ translate italian sm1ms029_confrontation_3e248f0f:
     # mc "Hey, Stacy."
     mc "Ehi, Stacy."
 
-# game/code/scenes/main_story/sm1ms029.rpy:2286
-translate italian sm1ms029_confrontation_84332637:
-
-    # sy "What are we doing to do?"
-    sy "Cosa faremo?"
-
 # game/code/scenes/main_story/sm1ms029.rpy:2290
 translate italian sm1ms029_confrontation_77975f23:
 
@@ -6381,12 +6345,6 @@ translate italian sm1ms029_confrontation_063dd8e9:
 
     # mc "Forget about that guy. Total inferiority complex."
     mc "Dimentica quel tipo. Complesso di inferiorità totale."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2317
-translate italian sm1ms029_confrontation_0956bd9e:
-
-    # mc "He thinks he can come in and tryto scare us?"
-    mc "Pensa di poter venire qui e cercare di spaventarci?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2318
 translate italian sm1ms029_confrontation_1cd215d5:
