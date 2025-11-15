@@ -2,7 +2,7 @@
 translate turkish sm1fs_i005_e0baf58f:
 
     # ag "Morning, [mcname]."
-    ag "Günaydın, [mcname]."
+    ag "Morning, [mcname]."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:21
 translate turkish sm1fs_i005_aed8c193:
@@ -14,181 +14,181 @@ translate turkish sm1fs_i005_aed8c193:
 translate turkish sm1fs_i005_807a5429:
 
     # ag "Have a good evening?"
-    ag "İyi bir akşam geçirdin mi?"
+    ag "Have a good evening?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:27
 translate turkish sm1fs_i005_7f8bd567:
 
     # mc "Yeah I guess.{w} You?"
-    mc "Evet sanırım.{w} Sen?"
+    mc "Yeah I guess.{w} You?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:31
 translate turkish sm1fs_i005_7a2fe859:
 
     # ag "Not too bad. Was working on a problem for a while. A real brain teaser."
-    ag "Fena sayılmaz. Bir süre bir problem üzerinde çalışıyordum. Gerçek bir beyin jimnastiği."
+    ag "Not too bad. Was working on a problem for a while. A real brain teaser."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:32
 translate turkish sm1fs_i005_cd403d8a:
 
     # ag "Decided to play the new update for Skelstorm: Komach's Revenge to take my mind off the problem."
-    ag "Aklımı sorundan uzaklaştırmak için Skelstorm: Komach'ın İntikamı'nın yeni güncellemesini oynamaya karar verdim."
+    ag "Decided to play the new update for Skelstorm: Komach's Revenge to take my mind off the problem."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:33
 translate turkish sm1fs_i005_d32f8004:
 
     # ag "I finally loaded onto the server, and it hit me."
-    ag "Sonunda sunucuya giriş yaptım ve aklıma geldi."
+    ag "I finally loaded onto the server, and it hit me."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:37
 translate turkish sm1fs_i005_30e7949d:
 
     # ag "Pow."
-    ag "Bam."
+    ag "Pow."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:40
 translate turkish sm1fs_i005_c5a66e6f:
 
     # ag "I can do all of it in the wedding chapter."
-    ag "Hepsini düğün bölümünde yapabilirim."
+    ag "I can do all of it in the wedding chapter."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:41
 translate turkish sm1fs_i005_7dbab108:
 
     # mct "Wedding chapter?"
-    mct "Düğün bölümü mü?"
+    mct "Wedding chapter?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:43
 translate turkish sm1fs_i005_bc1a7c89:
 
     # mct "I have no idea what she is talking about."
-    mct "Neden bahsettiği hakkında hiçbir fikrim yok."
+    mct "I have no idea what she is talking about."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:44
 translate turkish sm1fs_i005_dca75da5:
 
     # mct "It certainly doesn't sound like Orbix work."
-    mct "Kesinlikle Orbix işi gibi gelmiyor."
+    mct "It certainly doesn't sound like Orbix work."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:46
 translate turkish sm1fs_i005_a5c4ac90:
 
     # mc "Sounds great, Anna."
-    mc "Harika geliyor, Anna."
+    mc "Sounds great, Anna."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:49
 translate turkish sm1fs_i005_4409cafb:
 
     # ag "It is. It will be."
-    ag "Öyle. Olacak."
+    ag "It is. It will be."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:52
 translate turkish sm1fs_i005_7adf8479:
 
     # ag "At least I hope so."
-    ag "En azından öyle umuyorum."
+    ag "At least I hope so."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:63
 translate turkish sm1fs_i005_a6d3c8e0:
 
     # jh "*grunting* One. Two."
-    jh "*inler* Bir. İki."
+    jh "*grunting* One. Two."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:70
 translate turkish sm1fs_i005_8d36749d:
 
     # jh "Six. Seven."
-    jh "Altı. Yedi."
+    jh "Six. Seven."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:71
 translate turkish sm1fs_i005_fe9ecebe:
 
     # jh "Come on. Feel that burn."
-    jh "Hadi. Yanışı hisset."
+    jh "Come on. Feel that burn."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:75
 translate turkish sm1fs_i005_108fff34:
 
     # sr "Jayden, please."
-    sr "Jayden, lütfen."
+    sr "Jayden, please."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:76
 translate turkish sm1fs_i005_a1cf62fa:
 
     # sr "I'm trying to scan this new config and I can't concentrate."
-    sr "Bu yeni konfigürasyonu taramaya çalışıyorum ve konsantre olamıyorum."
+    sr "I'm trying to scan this new config and I can't concentrate."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:80
 translate turkish sm1fs_i005_10a97588:
 
     # jh "If you don't squat, Sienna, you drop."
-    jh "Squat yapmazsan, Sienna, düşersin."
+    jh "If you don't squat, Sienna, you drop."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:84
 translate turkish sm1fs_i005_75dcc0bf:
 
     # jh "Just put on some headphones."
-    jh "Sadece kulaklık tak."
+    jh "Just put on some headphones."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:87
 translate turkish sm1fs_i005_c58b7d65:
 
     # sr "Or you could do your squatting outside?"
-    sr "Ya da squat yapmanı dışarıda yapabilir misin?"
+    sr "Or you could do your squatting outside?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:88
 translate turkish sm1fs_i005_8da52667:
 
     # sr "Ever heard of tai chi?"
-    sr "Hiç tai chi duydun mu?"
+    sr "Ever heard of tai chi?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:91
 translate turkish sm1fs_i005_1f40bc27:
 
     # jh "Sure. Let's do some tai chi together."
-    jh "Tabii. Birlikte tai chi yapalım."
+    jh "Sure. Let's do some tai chi together."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:92
 translate turkish sm1fs_i005_1c3b0476:
 
     # jh "But I gotta finish my squats."
-    jh "Ama squat'larımı bitirmeliyim."
+    jh "But I gotta finish my squats."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:96
 translate turkish sm1fs_i005_b5fe5f19:
 
     # jh "One.{w} Two."
-    jh "Bir.{w} İki."
+    jh "One.{w} Two."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:107
 translate turkish sm1fs_i005_bb176f5c:
 
     # sr "Oh my god, that's disgusting!"
-    sr "Aman Tanrım, bu iğrenç!"
+    sr "Oh my god, that's disgusting!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:110
 translate turkish sm1fs_i005_89b479ce:
 
     # jh "Get real. I'm almost done."
-    jh "Gerçekçi ol. Neredeyse bittim."
+    jh "Get real. I'm almost done."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:113
 translate turkish sm1fs_i005_9bc86978:
 
     # sr "Not you, Jayden."
-    sr "Sen değil, Jayden."
+    sr "Not you, Jayden."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:115
 translate turkish sm1fs_i005_a3ba144a:
 
     # sr "That!"
-    sr "Şu!"
+    sr "That!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:122
 translate turkish sm1fs_i005_59486112:
 
     # jh "Huh?"
-    jh "Hah?"
+    jh "Huh?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:126
 translate turkish sm1fs_i005_a1aa5b5f:
@@ -200,169 +200,169 @@ translate turkish sm1fs_i005_a1aa5b5f:
 translate turkish sm1fs_i005_a0c8b3f2:
 
     # jh "Sienna. I never thought you'd be into this."
-    jh "Sienna. Bundan hoşlanacağını hiç düşünmemiştim."
+    jh "Sienna. I never thought you'd be into this."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:130
 translate turkish sm1fs_i005_cb21fd64:
 
     # sr "What?"
-    sr "Ne?"
+    sr "What?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:131
 translate turkish sm1fs_i005_1a274564:
 
     # sr "I didn't put this on."
-    sr "Ben bunu açmadım."
+    sr "I didn't put this on."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:132
 translate turkish sm1fs_i005_f4d3bc7e:
 
     # sr "I'd never watch something like this."
-    sr "Böyle bir şeyi asla izlemem."
+    sr "I'd never watch something like this."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:135
 translate turkish sm1fs_i005_65e63dde:
 
     # jh "Sure. Then what's it doing on your computer?"
-    jh "Tabii. O zaman bilgisayarında ne işi var?"
+    jh "Sure. Then what's it doing on your computer?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:139
 translate turkish sm1fs_i005_8c26cb31:
 
     # mc "What's going on?"
-    mc "Neler oluyor?"
+    mc "What's going on?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:143
 translate turkish sm1fs_i005_ca110266:
 
     # jh "Hey, new guy."
-    jh "Hey, yeni adam."
+    jh "Hey, new guy."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:144
 translate turkish sm1fs_i005_154bf4aa:
 
     # jh "Check it out."
-    jh "Bir bak şuna."
+    jh "Check it out."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:148
 translate turkish sm1fs_i005_550c04f4:
 
     # mc "Uh, I've been here a while now, Jayden."
-    mc "Uh, bir süredir buradayım, Jayden."
+    mc "Uh, I've been here a while now, Jayden."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:149
 translate turkish sm1fs_i005_64ff6dbc:
 
     # mc "My name is-"
-    mc "Adım-"
+    mc "My name is-"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:152
 translate turkish sm1fs_i005_0a24e7b4:
 
     # jh "Yeah, yeah. Just watch."
-    jh "Evet, evet. Sadece izle."
+    jh "Yeah, yeah. Just watch."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:156
 translate turkish sm1fs_i005_b43232d4:
 
     # sr "I can't remove it."
-    sr "Kaldıramıyorum."
+    sr "I can't remove it."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:159
 translate turkish sm1fs_i005_700d93ff:
 
     # mc "What the?"
-    mc "Ne?"
+    mc "What the?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:160
 translate turkish sm1fs_i005_7aedb8cd:
 
     # mct "Now that's something you don't see every day."
-    mct "İşte bu her gün görmediğin bir şey."
+    mct "Now that's something you don't see every day."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:167
 translate turkish sm1fs_i005_d1a15a84:
 
     # mct "Maybe I should figure out doing that with Stacy sometime."
-    mct "Belki bir zaman Stacy ile bunu yapmayı düşünmeliyim."
+    mct "Maybe I should figure out doing that with Stacy sometime."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:172
 translate turkish sm1fs_i005_3569e648:
 
     # mct "Not really my style."
-    mct "Pek benim tarzım değil."
+    mct "Not really my style."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:177
 translate turkish sm1fs_i005_2f818692:
 
     # sr "You two should get back to your seats."
-    sr "İkiniz de koltuklarınıza dönmelisiniz."
+    sr "You two should get back to your seats."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:180
 translate turkish sm1fs_i005_630ef190:
 
     # sr "You're not helping me here."
-    sr "Bana yardım etmiyorsunuz."
+    sr "You're not helping me here."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:183
 translate turkish sm1fs_i005_e54e3a0b:
 
     # jh "Oh yeah. She doesn't need our help."
-    jh "Oh evet. Bizim yardımımıza ihtiyacı yok."
+    jh "Oh yeah. She doesn't need our help."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:184
 translate turkish sm1fs_i005_ad37db46:
 
     # jh "She's a soloist."
-    jh "O bir solist."
+    jh "She's a soloist."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:187
 translate turkish sm1fs_i005_b52616cf:
 
     # sr "Shut up, Jayden."
-    sr "Kapa çeneni, Jayden."
+    sr "Shut up, Jayden."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:190
 translate turkish sm1fs_i005_0dc59e92:
 
     # jh "Don't tell me to shut up."
-    jh "Bana çeneni kapa deme."
+    jh "Don't tell me to shut up."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:193
 translate turkish sm1fs_i005_ad9576f1:
 
     # "Actor 1" "Yeah take that bitch."
-    "Aktör 1" "Evet al sana sürtük."
+    "Actor 1" "Yeah take that bitch."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:200
 translate turkish sm1fs_i005_bc285175:
 
     # sr "What did you just call me?"
-    sr "Bana ne dedin sen?"
+    sr "What did you just call me?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:203
 translate turkish sm1fs_i005_cba7f89c:
 
     # jh "That wasn't me."
-    jh "Ben değildim."
+    jh "That wasn't me."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:206
 translate turkish sm1fs_i005_99cd567e:
 
     # sr "I'm going to grab Maureen right now."
-    sr "Hemen Maureen'i çağıracağım."
+    sr "I'm going to grab Maureen right now."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:207
 translate turkish sm1fs_i005_4d67c0d1:
 
     # sr "You're an insect to me, Jayden. A fly about to be splattered."
-    sr "Sen benim için bir böceksin, Jayden. Ezilmek üzere olan bir sinek."
+    sr "You're an insect to me, Jayden. A fly about to be splattered."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:210
 translate turkish sm1fs_i005_77956b48:
 
     # mc "I don't think he called you-"
-    mc "Sanmıyorum sana-"
+    mc "I don't think he called you-"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:213
 translate turkish sm1fs_i005_16278896:
@@ -374,241 +374,247 @@ translate turkish sm1fs_i005_16278896:
 translate turkish sm1fs_i005_cb4f01ae:
 
     # mc "*nervous* That word."
-    mc "*gergin* O kelimeyi."
+    mc "*nervous* That word."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:221
 translate turkish sm1fs_i005_fd1ebc41:
 
     # "Actor 1" "Yeah. Kiss it.{w} Suck on those balls."
-    "Aktör 1" "Evet. Öp onu.{w} Şu taşakları yala."
+    "Actor 1" "Yeah. Kiss it.{w} Suck on those balls."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:224
 translate turkish sm1fs_i005_27e54841:
 
     # jh "That can't be good."
-    jh "Bu iyi olamaz."
+    jh "That can't be good."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:227
 translate turkish sm1fs_i005_5d6ad19e:
 
     # sr "It's spreading."
-    sr "Yayılıyor."
+    sr "It's spreading."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:232
 translate turkish sm1fs_i005_525b4a71:
 
     # jh "Fuck. Control alt delete."
-    jh "Lanet olsun. Control alt delete."
+    jh "Fuck. Control alt delete."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:233
 translate turkish sm1fs_i005_35e4f505:
 
     # jh "Come on. Task Manager. Open damnit."
-    jh "Hadi. Görev Yöneticisi. Aç lanet olsun."
+    jh "Come on. Task Manager. Open damnit."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:239
 translate turkish sm1fs_i005_4f129c23:
 
     # mc "Looks like we got to see your interests too."
-    mc "Görünüşe göre senin ilgi alanlarını da gördük."
+    mc "Looks like we got to see your interests too."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:242
 translate turkish sm1fs_i005_cb9a800e:
 
     # jh "No. I never look at porn."
-    jh "Hayır. Asla porno izlemem."
+    jh "No. I never look at porn."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:245
 translate turkish sm1fs_i005_f61762d0:
 
     # jh "I don't need it. I get nines.{w} All the time."
-    jh "İhtiyacım yok. Dokuzlar alıyorum.{w} Her zaman."
+    jh "I don't need it. I get nines.{w} All the time."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:248
 translate turkish sm1fs_i005_90d2835d:
 
     # mc "Sure, buddy."
-    mc "Tabii, dostum."
+    mc "Sure, buddy."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:252
 translate turkish sm1fs_i005_8b22c046:
 
     # jh "Screw you."
-    jh "Siktir git."
+    jh "Screw you."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:262
 translate turkish sm1fs_i005_37dd2e55:
 
-    # am "Petey de porno arıyor."
-    am "Petey de porno arıyor."
+    # am "Petey's looking up porn too."
+    am "Petey's looking up porn too."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:265
 translate turkish sm1fs_i005_c8985f53:
 
-    # pm "April. Tanrım..."
-    pm "April. Tanrım..."
+    # pm "April. Jesus..."
+    pm "April. Jesus..."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:268
 translate turkish sm1fs_i005_07b91840:
 
-    # am "*gürültülü höpürdetme*"
-    am "*gürültülü höpürdetme*"
+    # am "*noisy slurping*"
+    am "*noisy slurping*"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:271
 translate turkish sm1fs_i005_2d620f5b:
 
-    # am "İş gününün ortasında dörtlü izleyen sensin."
-    am "İş gününün ortasında dörtlü izleyen sensin."
+    # am "You're the one watching a foursome in the middle of the workday."
+    am "You're the one watching a foursome in the middle of the workday."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:274
 translate turkish sm1fs_i005_e51945c9:
 
-    # pm "Bunu asla yapmadım."
-    pm "Bunu asla yapmadım."
+    # pm "I never did that."
+    pm "I never did that."
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:280
+translate turkish sm1fs_i005_b16b4e3c:
+
+    # pm "Sienna. You're DevOps.{w} Stop this."
+    pm "Sienna. You're DevOps.{w} Stop this."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:284
 translate turkish sm1fs_i005_ae2631c3:
 
-    # sr "Deniyorum. Daha önce gördüğüm hiçbir şeye benzemiyor."
-    sr "Deniyorum. Daha önce gördüğüm hiçbir şeye benzemiyor."
+    # sr "I'm trying. It's unlike anything I've seen before."
+    sr "I'm trying. It's unlike anything I've seen before."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:287
 translate turkish sm1fs_i005_9c13ebd0:
 
-    # pm "Acele et."
-    pm "Acele et."
+    # pm "Hurry."
+    pm "Hurry."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:290
 translate turkish sm1fs_i005_597c43af:
 
-    # pm "Lütfen acele et."
-    pm "Lütfen acele et."
+    # pm "Please hurry."
+    pm "Please hurry."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:293
 translate turkish sm1fs_i005_351de84b:
 
-    # sr "April, biraz yardıma ihtiyacım var."
-    sr "April, biraz yardıma ihtiyacım var."
+    # sr "April, I could use some help."
+    sr "April, I could use some help."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:296
 translate turkish sm1fs_i005_af248fd0:
 
-    # am "{i}Kesinlikle{/i} yapabilirsin."
-    am "{i}Kesinlikle{/i} yapabilirsin."
+    # am "You {i}sure{/i} could."
+    am "You {i}sure{/i} could."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:301
 translate turkish sm1fs_i005_bd7e0998:
 
-    # sr "Bence bu bir Karanlık Çekirdek Çöküşü."
-    sr "Bence bu bir Karanlık Çekirdek Çöküşü."
+    # sr "I think it's a Dark Kernel Cavein."
+    sr "I think it's a Dark Kernel Cavein."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:304
 translate turkish sm1fs_i005_99ecf24c:
 
-    # am "*alay eder* Bu kadar hızlı mı? Liseye geri döndüğümüzü ve kodlama hakkında hiçbir şey bilmediğimizi mi varsayıyoruz?"
-    am "*alay eder* Bu kadar hızlı mı? Liseye geri döndüğümüzü ve kodlama hakkında hiçbir şey bilmediğimizi mi varsayıyoruz?"
+    # am "*scoffs* This fast? Are we pretending like we're back in high school and we don't know anything about coding?"
+    am "*scoffs* This fast? Are we pretending like we're back in high school and we don't know anything about coding?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:307
 translate turkish sm1fs_i005_afbd7187:
 
-    # sr "Ah. April, hadi ama."
-    sr "Ah. April, hadi ama."
+    # sr "Ugh. April, come on."
+    sr "Ugh. April, come on."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:310
 translate turkish sm1fs_i005_53c53cc1:
 
-    # am "Sen DevOps Uzmanısın."
-    am "Sen DevOps Uzmanısın."
+    # am "You're the DevOps Specialist."
+    am "You're the DevOps Specialist."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:311
 translate turkish sm1fs_i005_c0f20dab:
 
-    # am "Uzmanlaş."
-    am "Uzmanlaş."
+    # am "Specialize."
+    am "Specialize."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:314
 translate turkish sm1fs_i005_b96285ed:
 
-    # cw "Burada neler oluyor?"
-    cw "Burada neler oluyor?"
+    # cw "What is going on here?"
+    cw "What is going on here?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:318
 translate turkish sm1fs_i005_203ae35b:
 
-    # ag "[mcname]. Şu TPS raporlarını-"
-    ag "[mcname]. Şu TPS raporlarını-"
+    # ag "[mcname]. Don't you have those TPS reports to-"
+    ag "[mcname]. Don't you have those TPS reports to-"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:322
 translate turkish sm1fs_i005_fab2e996:
 
-    # ag "Dosyala..."
-    ag "Dosyala..."
+    # ag "File..."
+    ag "File..."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:325
 translate turkish sm1fs_i005_bdd1edfb:
 
-    # cw "Bu ne Chrome maskarası?"
-    cw "Bu ne Chrome maskarası?"
+    # cw "What in the Chrome fuckery is that?"
+    cw "What in the Chrome fuckery is that?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:328
 translate turkish sm1fs_i005_2d3ae8bf:
 
-    # sr "Peter'ın bilgisayarında porno çıktı."
-    sr "Peter'ın bilgisayarında porno çıktı."
+    # sr "Porn showed up on Peter's computer."
+    sr "Porn showed up on Peter's computer."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:331
 translate turkish sm1fs_i005_0b06c317:
 
     # pm "I swear it's not mine!"
-    pm "Yemin ederim benim değil!"
+    pm "I swear it's not mine!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:334
 translate turkish sm1fs_i005_cb22f20b:
 
     # sr "It's appearing on all our systems."
-    sr "Tüm sistemlerimizde görünüyor."
+    sr "It's appearing on all our systems."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:335
 translate turkish sm1fs_i005_61bd4485:
 
     # sr "Ms. Watts.{w} We are being penetrated."
-    sr "Bayan Watts.{w} Penetre ediliyoruz."
+    sr "Ms. Watts.{w} We are being penetrated."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:336
 translate turkish sm1fs_i005_0256e0e8:
 
     # am "*chuckling* Again and again."
-    am "*kıkırdayarak* Tekrar ve tekrar."
+    am "*chuckling* Again and again."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:339
 translate turkish sm1fs_i005_6dbff2f1:
 
     # cw "Well, fix it!"
-    cw "Peki, düzeltin!"
+    cw "Well, fix it!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:342
 translate turkish sm1fs_i005_ef3d26bd:
 
     # sr "What do you think I'm trying to do?"
-    sr "Ne yapmaya çalıştığımı sanıyorsun?"
+    sr "What do you think I'm trying to do?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:346
 translate turkish sm1fs_i005_fa49df63:
 
     # am "Hold this and look pretty."
-    am "Bunu tut ve güzel görün."
+    am "Hold this and look pretty."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:349
 translate turkish sm1fs_i005_05500ff6:
 
     # mc "Huh?"
-    mc "Hah?"
+    mc "Huh?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:352
 translate turkish sm1fs_i005_f00fdb68:
 
     # am "Move Petey."
-    am "Çekil Petey."
+    am "Move Petey."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:355
 translate turkish sm1fs_i005_8ef53404:
@@ -620,103 +626,103 @@ translate turkish sm1fs_i005_8ef53404:
 translate turkish sm1fs_i005_9c7dcd9a:
 
     # am "We'll call you when we need some dead weight with a nice haircut."
-    am "Güzel bir saç kesimi olan ölü ağırlığa ihtiyacımız olduğunda seni ararız."
+    am "We'll call you when we need some dead weight with a nice haircut."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:366
 translate turkish sm1fs_i005_7069aaff:
 
     # am "*sucking*"
-    am "*emme*"
+    am "*sucking*"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:370
 translate turkish sm1fs_i005_5f035a4d:
 
     # am "Shortcuts aren't working."
-    am "Kısayollar çalışmıyor."
+    am "Shortcuts aren't working."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:373
 translate turkish sm1fs_i005_4e916ee7:
 
     # sr "Already tried that."
-    sr "Onu zaten denedim."
+    sr "Already tried that."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:374
 translate turkish sm1fs_i005_dae14b16:
 
     # sr "I can't even open the kernel."
-    sr "Çekirdeği bile açamıyorum."
+    sr "I can't even open the kernel."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:377
 translate turkish sm1fs_i005_3741c50a:
 
     # am "Shit."
-    am "Kahretsin."
+    am "Shit."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:378
 translate turkish sm1fs_i005_1d4cbcc1:
 
     # am "[mcname]. See if anyone's computer is not being affected."
-    am "[mcname]. Kimsenin bilgisayarının etkilenip etkilenmediğine bak."
+    am "[mcname]. See if anyone's computer is not being affected."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:381
 translate turkish sm1fs_i005_a49ed4f8:
 
     # mc "Okay."
-    mc "Tamam."
+    mc "Okay."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:390
 translate turkish sm1fs_i005_1aa3ffc8:
 
-    # lm "Yani, bunların gördüğüm en büyük memeler olduğunu söylemiyorum."
-    lm "Yani, bunların gördüğüm en büyük memeler olduğunu söylemiyorum."
+    # lm "I mean, I'm not saying those are the biggest tits I've seen."
+    lm "I mean, I'm not saying those are the biggest tits I've seen."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:391
 translate turkish sm1fs_i005_c05c6333:
 
-    # lm "Ama büyükler ve sulu."
-    lm "Ama büyükler ve sulu."
+    # lm "But they are big and juicy."
+    lm "But they are big and juicy."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:394
 translate turkish sm1fs_i005_a1859ef4:
 
-    # ml "Tek gördüğüm gerçekleşmeyi bekleyen bir dava."
-    ml "Tek gördüğüm gerçekleşmeyi bekleyen bir dava."
+    # ml "All I see is a lawsuit waiting to happen."
+    ml "All I see is a lawsuit waiting to happen."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:395
 translate turkish sm1fs_i005_6b9da9c1:
 
-    # ml "Bu ülkemizin batmasının nedeni."
-    ml "Bu ülkemizin batmasının nedeni."
+    # ml "This is why our country is going down the pipes."
+    ml "This is why our country is going down the pipes."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:398
 translate turkish sm1fs_i005_7267b17d:
 
-    # lm "*iç çeker* Lütfen, Maureen. Şimdi olmaz."
-    lm "*iç çeker* Lütfen, Maureen. Şimdi olmaz."
+    # lm "*sighs* Please, Maureen. Not now."
+    lm "*sighs* Please, Maureen. Not now."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:400
 translate turkish sm1fs_i005_b266ccfc:
 
-    # lm "Sienna bunu yakında çözecek."
-    lm "Sienna bunu yakında çözecek."
+    # lm "Sienna will figure this out soon."
+    lm "Sienna will figure this out soon."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:405
 translate turkish sm1fs_i005_01221e02:
 
-    # lm "Oh. Evet birini emiyor ve diğerini mastürbasyon yapıyor."
-    lm "Oh. Evet birini emiyor ve diğerini mastürbasyon yapıyor."
+    # lm "Oh. Yeah she is sucking one and jerking off the other."
+    lm "Oh. Yeah she is sucking one and jerking off the other."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:410
 translate turkish sm1fs_i005_d05e8c1c:
 
-    # lm "Sadece lanet... kasabaya gidiyor."
-    lm "Sadece lanet... kasabaya gidiyor."
+    # lm "Just fucking... going to town."
+    lm "Just fucking... going to town."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:412
 translate turkish sm1fs_i005_19376701:
 
-    # ml "Çok fazla insan kovulmak üzere."
-    ml "Çok fazla insan kovulmak üzere."
+    # ml "So many people are about to be fired."
+    ml "So many people are about to be fired."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:417
 translate turkish sm1fs_i005_2626f453:
@@ -727,86 +733,92 @@ translate turkish sm1fs_i005_2626f453:
 # game/code/scenes/it_office/sm1fs-i005.rpy:420
 translate turkish sm1fs_i005_1d74550d:
 
-    # ml "Size yardımcı olabilir miyiz? Libby'nin ekranı hala müstehcenlik tarafından bozulmuş durumda."
-    ml "Size yardımcı olabilir miyiz? Libby'nin ekranı hala müstehcenlik tarafından bozulmuş durumda."
+    # ml "Can we help you? Libby's screen is still corrupted by smut."
+    ml "Can we help you? Libby's screen is still corrupted by smut."
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:423
+translate turkish sm1fs_i005_849e0440:
+
+    # en "What is the problem?"
+    en "What is the problem?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:424
 translate turkish sm1fs_i005_09d178b8:
 
-    # en "Bu sadece güzel ve doğal bir aşk ifadesi."
-    en "Bu sadece güzel ve doğal bir aşk ifadesi."
+    # en "This is just beautiful and natural expression of love."
+    en "This is just beautiful and natural expression of love."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:427
 translate turkish sm1fs_i005_d4cb238b:
 
-    # ml "Aşk mı? Bu aşk değil. Bu sadece saf şehvet."
-    ml "Aşk mı? Bu aşk değil. Bu sadece saf şehvet."
+    # ml "Love? This isn't love. This is just unadulterated lust."
+    ml "Love? This isn't love. This is just unadulterated lust."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:430
 translate turkish sm1fs_i005_6b4061e7:
 
-    # en "Evet. Dedim işte."
-    en "Evet. Dedim işte."
+    # en "Yes. That is what I said."
+    en "Yes. That is what I said."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:431
 translate turkish sm1fs_i005_6d100274:
 
-    # en "Sadece saf neşe ve aşk. Hepimizin hayatında bunlardan daha fazlası olmalı."
-    en "Sadece saf neşe ve aşk. Hepimizin hayatında bunlardan daha fazlası olmalı."
+    # en "Just pure joy and love. We should all have more of this in our lives."
+    en "Just pure joy and love. We should all have more of this in our lives."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:434
 translate turkish sm1fs_i005_d4390c40:
 
-    # lm "Onunki gibi memeler büyüt Eugene ve eminim onları emecek birini bulursun."
-    lm "Onunki gibi memeler büyüt Eugene ve eminim onları emecek birini bulursun."
+    # lm "Grow titties like hers Eugene and I'm sure you'll find someone to suck on them."
+    lm "Grow titties like hers Eugene and I'm sure you'll find someone to suck on them."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:438
 translate turkish sm1fs_i005_9a2a379b:
 
-    # ml "Bunu duymamış gibi davranacağım, Libby."
-    ml "Bunu duymamış gibi davranacağım, Libby."
+    # ml "I'm going to pretend I didn't hear that, Libby."
+    ml "I'm going to pretend I didn't hear that, Libby."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:441
 translate turkish sm1fs_i005_10e9bb8a:
 
-    # lm "Asla gitmeyeceğini düşünmüştüm."
-    lm "Asla gitmeyeceğini düşünmüştüm."
+    # lm "I thought she'd never leave."
+    lm "I thought she'd never leave."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:443
 translate turkish sm1fs_i005_2504b379:
 
-    # en "Ah, şimdi 'Üç sırtlı canavar'ı başlatıyorlar."
-    en "Ah, şimdi 'Üç sırtlı canavar'ı başlatıyorlar."
+    # en "Ah, now they are commencing the 'Beast with three backs'."
+    en "Ah, now they are commencing the 'Beast with three backs'."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:446
 translate turkish sm1fs_i005_a621772d:
 
-    # lm "İyi göz, Eugene."
-    lm "İyi göz, Eugene."
+    # lm "Good eye, Eugene."
+    lm "Good eye, Eugene."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:449
 translate turkish sm1fs_i005_7d921c6c:
 
-    # en "Bu {b}benim{/b} ekranda olandan çok daha iyi."
-    en "Bu {b}benim{/b} ekranda olandan çok daha iyi."
+    # en "This is much better than what {b}my{/b} screen had."
+    en "This is much better than what {b}my{/b} screen had."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:452
 translate turkish sm1fs_i005_396d2189:
 
     # mc "Don't."
-    mc "Yapma."
+    mc "Don't."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:455
 translate turkish sm1fs_i005_cfe2ed63:
 
-    # lm "Hayır, merak ediyorum."
-    lm "Hayır, merak ediyorum."
+    # lm "No, I'm curious."
+    lm "No, I'm curious."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:458
 translate turkish sm1fs_i005_df8fcde1:
 
-    # lm "Neden [mcname]'e ekranını göstermiyorsun, Eugene."
-    lm "Neden [mcname]'e ekranını göstermiyorsun, Eugene."
+    # lm "Why don't you show [mcname] your screen, Eugene."
+    lm "Why don't you show [mcname] your screen, Eugene."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:461
 translate turkish sm1fs_i005_37657fcc:
@@ -817,8 +829,8 @@ translate turkish sm1fs_i005_37657fcc:
 # game/code/scenes/it_office/sm1fs-i005.rpy:464
 translate turkish sm1fs_i005_1c0449b5:
 
-    # en "Ben kötü bir adam değilim, Libby."
-    en "Ben kötü bir adam değilim, Libby."
+    # en "I am not a wicked man, Libby."
+    en "I am not a wicked man, Libby."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:467
 translate turkish sm1fs_i005_628c9df7:
@@ -829,8 +841,8 @@ translate turkish sm1fs_i005_628c9df7:
 # game/code/scenes/it_office/sm1fs-i005.rpy:472
 translate turkish sm1fs_i005_7829ec17:
 
-    # mc "Ah kahretsin. O ne?"
-    mc "Ah kahretsin. O ne?"
+    # mc "Oh shit. What's that?"
+    mc "Oh shit. What's that?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:477
 translate turkish sm1fs_i005_00eabfe4:
@@ -841,80 +853,86 @@ translate turkish sm1fs_i005_00eabfe4:
 # game/code/scenes/it_office/sm1fs-i005.rpy:481
 translate turkish sm1fs_i005_d76167da:
 
-    # am "Görüyoruz."
-    am "Görüyoruz."
+    # am "We see it."
+    am "We see it."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:485
 translate turkish sm1fs_i005_d4eb51c0:
 
     # am "Come on."
-    am "Hadi."
+    am "Come on."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:486
 translate turkish sm1fs_i005_b16ed30e:
 
-    # am "Seni sinsi piç."
-    am "Seni sinsi piç."
+    # am "You squirrely bastard."
+    am "You squirrely bastard."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:487
 translate turkish sm1fs_i005_791c37dd:
 
-    # am "Neredesin?"
-    am "Neredesin?"
+    # am "Where are you?"
+    am "Where are you?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:490
 translate turkish sm1fs_i005_336442b6:
 
-    # sr "Bunun için kovulacağım."
-    sr "Bunun için kovulacağım."
+    # sr "I'm going to get fired for this."
+    sr "I'm going to get fired for this."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:493
 translate turkish sm1fs_i005_979abe97:
 
     # am "Yeah, probably."
-    am "Evet, muhtemelen."
+    am "Yeah, probably."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:500
 translate turkish sm1fs_i005_cadd0aaa:
 
-    # ag "April, buldum."
-    ag "April, buldum."
+    # ag "April, I found it."
+    ag "April, I found it."
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:501
+translate turkish sm1fs_i005_bd4c8cdb:
+
+    # ag "It's in file directory sales slash two-thousand-twenty slash Oh Bee Jay slash archive."
+    ag "It's in file directory sales slash two-thousand-twenty slash Oh Bee Jay slash archive."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:506
 translate turkish sm1fs_i005_f8ee961d:
 
-    # am "*tükürme*"
-    am "*tükürme*"
+    # am "*spitting*"
+    am "*spitting*"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:508
 translate turkish sm1fs_i005_5ae32462:
 
-    # sr "İğğğ. April!"
-    sr "İğğğ. April!"
+    # sr "Ewww. April!"
+    sr "Ewww. April!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:511
 translate turkish sm1fs_i005_ef39635a:
 
-    # am "Kahretsin kahretsin kahretsin."
-    am "Kahretsin kahretsin kahretsin."
+    # am "Fuck fuck fuck."
+    am "Fuck fuck fuck."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:514
 translate turkish sm1fs_i005_60f608c3:
 
-    # am "Yakaladım."
-    am "Yakaladım."
+    # am "Gotchu."
+    am "Gotchu."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:520
 translate turkish sm1fs_i005_3741c50a_1:
 
     # am "Shit."
-    am "Kahretsin."
+    am "Shit."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:522
 translate turkish sm1fs_i005_2928e9a1:
 
     # ag "Oh darn."
-    ag "Ah lanet."
+    ag "Oh darn."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:525
 translate turkish sm1fs_i005_b3a42b52:
@@ -931,158 +949,170 @@ translate turkish sm1fs_i005_447a59a7:
 # game/code/scenes/it_office/sm1fs-i005.rpy:531
 translate turkish sm1fs_i005_15d8ccd6:
 
-    # en "Oh. Tanrı'nın anası!"
-    en "Oh. Tanrı'nın anası!"
+    # en "Oh. Mother of god!"
+    en "Oh. Mother of god!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:532
 translate turkish sm1fs_i005_b49fcd84:
 
-    # en "O ne unutkanlığı?!"
-    en "O ne unutkanlığı?!"
+    # en "What is oblivion is that?!"
+    en "What is oblivion is that?!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:535
 translate turkish sm1fs_i005_1dfc4293:
 
     # jh "Nah... nah man."
-    jh "Hayır... hayır dostum."
+    jh "Nah... nah man."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:536
 translate turkish sm1fs_i005_666bc08f:
 
-    # jh "{i}Bunu{/i} görmek istemiyorum."
-    jh "{i}Bunu{/i} görmek istemiyorum."
+    # jh "I don't want to see {i}that{/i}."
+    jh "I don't want to see {i}that{/i}."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:539
 translate turkish sm1fs_i005_f8c147c4:
 
-    # ml "Adam mı..."
-    ml "Adam mı..."
+    # ml "Is the man..."
+    ml "Is the man..."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:542
 translate turkish sm1fs_i005_c28ab8e0:
 
-    # jh "Ona bakma!"
-    jh "Ona bakma!"
+    # jh "Don't look at it!"
+    jh "Don't look at it!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:545
 translate turkish sm1fs_i005_d879f307:
 
     # ag "My eyes!"
-    ag "Gözlerim!"
+    ag "My eyes!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:548
 translate turkish sm1fs_i005_58e44c50:
 
     # ns "Why?!"
-    ns "Neden?!"
+    ns "Why?!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:551
 translate turkish sm1fs_i005_85bfecbf:
 
-    # "TIKLAMA"
-    "TIKLAMA"
+    # "CLICK"
+    "CLICK"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:556
 translate turkish sm1fs_i005_efeb4f53:
 
-    # "İyyyiiiillllik..."
-    "İyyyiiiillllik..."
+    # "Dooooooommm..."
+    "Dooooooommm..."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:559
 translate turkish sm1fs_i005_14c22241:
 
     # ag "*sighing heavily*"
-    ag "*derin iç çekerek*"
+    ag "*sighing heavily*"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:574
 translate turkish sm1fs_i005_75d741b5:
 
-    # am "*yutkunma*"
-    am "*yutkunma*"
+    # am "*gulp gulp*"
+    am "*gulp gulp*"
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:578
+translate turkish sm1fs_i005_330d5a55:
+
+    # sr "Oh.{w} That's Peter's."
+    sr "Oh.{w} That's Peter's."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:581
 translate turkish sm1fs_i005_15e1e8d2:
 
-    # am "Ona geri ödeyeceğim."
-    am "Ona geri ödeyeceğim."
+    # am "I'll pay him back."
+    am "I'll pay him back."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:582
 translate turkish sm1fs_i005_6887c6fa:
 
-    # am "Beyin çamaşır suyu için bir şeye ihtiyacın var."
-    am "Beyin çamaşır suyu için bir şeye ihtiyacın var."
+    # am "You need something for brain bleach."
+    am "You need something for brain bleach."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:591
 translate turkish sm1fs_i005_2aa1892d:
 
-    # sr "*gıkırdama*"
-    sr "*gıkırdama*"
+    # sr "*glug*"
+    sr "*glug*"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:600
 translate turkish sm1fs_i005_4748c3b4:
 
-    # cw "Mesele şu. Yargılamam."
-    cw "Mesele şu. Yargılamam."
+    # cw "Here is the thing. I don't judge."
+    cw "Here is the thing. I don't judge."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:601
 translate turkish sm1fs_i005_ba787c43:
 
-    # cw "Bunu ülkemizin yargıçlarına bırakacağım."
-    cw "Bunu ülkemizin yargıçlarına bırakacağım."
+    # cw "I will leave that to the judges of our country."
+    cw "I will leave that to the judges of our country."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:604
 translate turkish sm1fs_i005_55129b6c:
 
-    # cw "Ve umarım buna karışan herhangi bir avukata değil."
-    cw "Ve umarım buna karışan herhangi bir avukata değil."
+    # cw "And hopefully not to any lawyers who get involved with this."
+    cw "And hopefully not to any lawyers who get involved with this."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:606
 translate turkish sm1fs_i005_f2c88c7b:
 
-    # cw "Ve ben şeyler yaptım."
-    cw "Ve ben şeyler yaptım."
+    # cw "And I've done things."
+    cw "And I've done things."
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:609
+translate turkish sm1fs_i005_d8a77a7d:
+
+    # cw "I mean I've {i}seen{/i} things."
+    cw "I mean I've {i}seen{/i} things."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:612
 translate turkish sm1fs_i005_93ec2d34:
 
-    # cw "Yani herkes bir şeyler gördü. İnternet bu."
-    cw "Yani herkes bir şeyler gördü. İnternet bu."
+    # cw "I mean everyone has seen things. It's the internet."
+    cw "I mean everyone has seen things. It's the internet."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:613
 translate turkish sm1fs_i005_deb5108d:
 
-    # cw "Bazen tamamen tesadüfen bir şeyler görürsün."
-    cw "Bazen tamamen tesadüfen bir şeyler görürsün."
+    # cw "You see things by pure accident sometimes."
+    cw "You see things by pure accident sometimes."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:616
 translate turkish sm1fs_i005_b4a2a2f8:
 
     # cw "But..."
-    cw "Ama..."
+    cw "But..."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:617
 translate turkish sm1fs_i005_35c5a30d:
 
-    # cw "Bazı şeyler."
-    cw "Bazı şeyler."
+    # cw "Some things."
+    cw "Some things."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:620
 translate turkish sm1fs_i005_f55149ad:
 
-    # cw "Gücü kapatmadan önce o ekranlarda gördüğüm bazı şeyler..."
-    cw "Gücü kapatmadan önce o ekranlarda gördüğüm bazı şeyler..."
+    # cw "Some of the things I saw on those screens before I shut down the power..."
+    cw "Some of the things I saw on those screens before I shut down the power..."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:623
 translate turkish sm1fs_i005_d15522ad:
 
     # cw "*sighs*"
-    cw "*iç çeker*"
+    cw "*sighs*"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:624
 translate turkish sm1fs_i005_9750bbc9:
 
     # cw "Well..."
-    cw "Peki..."
+    cw "Well..."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:628
 translate turkish sm1fs_i005_e66654e2:
@@ -1093,218 +1123,218 @@ translate turkish sm1fs_i005_e66654e2:
 # game/code/scenes/it_office/sm1fs-i005.rpy:631
 translate turkish sm1fs_i005_eaee6bb2:
 
-    # cw "Orbix monitörlerinde yerleri yok."
-    cw "Orbix monitörlerinde yerleri yok."
+    # cw "They don't belong on Orbix monitors."
+    cw "They don't belong on Orbix monitors."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:634
 translate turkish sm1fs_i005_a6fa439a:
 
-    # cw "Ve bazıları ölüm düğmesine basmanın virüsü durdurmadığını ve Sienna, Anna ve April için daha fazla iş eklediğimi söyleyecek."
-    cw "Ve bazıları ölüm düğmesine basmanın virüsü durdurmadığını ve Sienna, Anna ve April için daha fazla iş eklediğimi söyleyecek."
+    # cw "And some will say that hitting the kill switch didn't stop the virus and that I only added more work for Sienna, Anna, and April."
+    cw "And some will say that hitting the kill switch didn't stop the virus and that I only added more work for Sienna, Anna, and April."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:637
 translate turkish sm1fs_i005_9750bbc9_1:
 
     # cw "Well..."
-    cw "Peki..."
+    cw "Well..."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:641
 translate turkish sm1fs_i005_2679ca0d:
 
-    # cw "Bilirsiniz. Birçok kahraman kendi zamanında yanlış anlaşılır."
-    cw "Bilirsiniz. Birçok kahraman kendi zamanında yanlış anlaşılır."
+    # cw "You know. Many heroes are misunderstood in their time."
+    cw "You know. Many heroes are misunderstood in their time."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:644
 translate turkish sm1fs_i005_810db49c:
 
-    # cw "Cesur eylemleri gerçekten tanınana kadar sonraya kadar değil."
-    cw "Cesur eylemleri gerçekten tanınana kadar sonraya kadar değil."
+    # cw "It's not till later on that their brave acts truly get recognized."
+    cw "It's not till later on that their brave acts truly get recognized."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:647
 translate turkish sm1fs_i005_045486c0:
 
-    # cw "Ama ben kahraman değilim."
-    cw "Ama ben kahraman değilim."
+    # cw "But I'm no hero."
+    cw "But I'm no hero."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:648
 translate turkish sm1fs_i005_208eac6c:
 
-    # cw "Günün sonunda, sadece paniği bitirmeye çalışıyordum."
-    cw "Günün sonunda, sadece paniği bitirmeye çalışıyordum."
+    # cw "End of the day, I was just trying to put an end to the panic."
+    cw "End of the day, I was just trying to put an end to the panic."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:651
 translate turkish sm1fs_i005_2a0b7d23:
 
-    # cw "Sanırım, bir bakıma."
-    cw "Sanırım, bir bakıma."
+    # cw "So I guess, in a way."
+    cw "So I guess, in a way."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:652
 translate turkish sm1fs_i005_a48a72e4:
 
-    # cw "Ben {i}kahraman{/i}dım.{w} Hmm."
-    cw "Ben {i}kahraman{/i}dım.{w} Hmm."
+    # cw "I {i}was{/i} the hero.{w} Hmm."
+    cw "I {i}was{/i} the hero.{w} Hmm."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:655
 translate turkish sm1fs_i005_35b7e91e:
 
-    # mc "Bu yüzden mi bunu kaydediyorum?"
-    mc "Bu yüzden mi bunu kaydediyorum?"
+    # mc "Is that why I'm recording this?"
+    mc "Is that why I'm recording this?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:656
 translate turkish sm1fs_i005_3f44db59:
 
-    # mc "Olanları açıklamak için mi?"
-    mc "Olanları açıklamak için mi?"
+    # mc "To explain what went down?"
+    mc "To explain what went down?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:659
 translate turkish sm1fs_i005_e849418f:
 
-    # cw "Kesinlikle. Buna ihtiyaç duymamayı umuyorum, ama {i}benim{/i} patronumla asla bilemezsin."
-    cw "Kesinlikle. Buna ihtiyaç duymamayı umuyorum, ama {i}benim{/i} patronumla asla bilemezsin."
+    # cw "Exactly. I'm hoping not to need it, but you never know with {i}my{/i} boss."
+    cw "Exactly. I'm hoping not to need it, but you never know with {i}my{/i} boss."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:660
 translate turkish sm1fs_i005_c7f8033c:
 
-    # cw "Yardımın için teşekkürler, [mcname]."
-    cw "Yardımın için teşekkürler, [mcname]."
+    # cw "Thanks for your help, [mcname]."
+    cw "Thanks for your help, [mcname]."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:661
 translate turkish sm1fs_i005_ee9ba6ff:
 
-    # cw "Şimdi kapatabilirsin."
-    cw "Şimdi kapatabilirsin."
+    # cw "You can turn it off now."
+    cw "You can turn it off now."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:664
 translate turkish sm1fs_i005_606e2d02:
 
     # mc "Sure."
-    mc "Tabii."
+    mc "Sure."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:673
 translate turkish sm1fs_i005_conference_80478591:
 
     # cw "Okay."
-    cw "Tamam."
+    cw "Okay."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:674
 translate turkish sm1fs_i005_conference_9d3858d5:
 
-    # cw "Tamamen anlayabilmem için."
-    cw "Tamamen anlayabilmem için."
+    # cw "Just so I understand completely."
+    cw "Just so I understand completely."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:677
 translate turkish sm1fs_i005_conference_4f47c0d3:
 
-    # cw "Hacklandik."
-    cw "Hacklandik."
+    # cw "We were hacked."
+    cw "We were hacked."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:681
 translate turkish sm1fs_i005_conference_2b5bfce0:
 
-    # cw "Ve baş şüphelimiz Angela'nın bizi uyardığı bu trol."
-    cw "Ve baş şüphelimiz Angela'nın bizi uyardığı bu trol."
+    # cw "And our lead suspect is this troll that Angela warned us about."
+    cw "And our lead suspect is this troll that Angela warned us about."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:684
 translate turkish sm1fs_i005_conference_0ccf9e6e:
 
-    # cw "Yani hazırlıksızdık."
-    cw "Yani hazırlıksızdık."
+    # cw "Meaning we were unprepared."
+    cw "Meaning we were unprepared."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:687
 translate turkish sm1fs_i005_conference_96ec6c94:
 
-    # am "Kimse adamın lanet bir Neo ile Bay Robot'un birleşimi olduğunu söylemedi."
-    am "Kimse adamın lanet bir Neo ile Bay Robot'un birleşimi olduğunu söylemedi."
+    # am "No one said anything about the guy being some fucking Neo combined with Mr. Robot."
+    am "No one said anything about the guy being some fucking Neo combined with Mr. Robot."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:690
 translate turkish sm1fs_i005_conference_06360c1c:
 
-    # cw "Sen... trolden etkilendin mi?"
-    cw "Sen... trolden etkilendin mi?"
+    # cw "Are you... are you impressed by the troll?"
+    cw "Are you... are you impressed by the troll?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:693
 translate turkish sm1fs_i005_conference_87c5d9de:
 
-    # am "Oyun oyuna saygı duyar."
-    am "Oyun oyuna saygı duyar."
+    # am "Game respects game."
+    am "Game respects game."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:697
 translate turkish sm1fs_i005_conference_d15522ad:
 
     # cw "*sighs*"
-    cw "*iç çeker*"
+    cw "*sighs*"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:700
 translate turkish sm1fs_i005_conference_93afe826:
 
-    # ag "İyi tarafından bakmaya çalış."
-    ag "İyi tarafından bakmaya çalış."
+    # ag "Try to look on the bright side."
+    ag "Try to look on the bright side."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:701
 translate turkish sm1fs_i005_conference_dcb247c1:
 
-    # ag "Nari'nin sistemine teşekkürler, Orbix'e saldıranı sistemimiz olmasaydığından çok daha kısa sürede bulabileceğiz."
-    ag "Nari'nin sistemine teşekkürler, Orbix'e saldıranı sistemimiz olmasaydığından çok daha kısa sürede bulabileceğiz."
+    # ag "Thanks to Nari's system, we'll be able to track down who attacked Orbix in a much shorter time than if we didn't have her system."
+    ag "Thanks to Nari's system, we'll be able to track down who attacked Orbix in a much shorter time than if we didn't have her system."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:704
 translate turkish sm1fs_i005_conference_61de242d:
 
-    # cw "En azından bunun için Tanrı'ya şükür."
-    cw "En azından bunun için Tanrı'ya şükür."
+    # cw "Well thank god for that at least."
+    cw "Well thank god for that at least."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:707
 translate turkish sm1fs_i005_conference_2ff06fd4:
 
-    # cw "İyi iş, Bayan Song."
-    cw "İyi iş, Bayan Song."
+    # cw "Good work, Ms. Song."
+    cw "Good work, Ms. Song."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:710
 translate turkish sm1fs_i005_conference_a4308a20:
 
-    # ns "Teşekkür ederim, Bayan Watts."
-    ns "Teşekkür ederim, Bayan Watts."
+    # ns "Thank you, Ms. Watts."
+    ns "Thank you, Ms. Watts."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:714
 translate turkish sm1fs_i005_conference_245f6c31:
 
-    # cw "Ve bu noktada, hiç şüphelimiz yok."
-    cw "Ve bu noktada, hiç şüphelimiz yok."
+    # cw "And at this point, we don't have any suspects."
+    cw "And at this point, we don't have any suspects."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:717
 translate turkish sm1fs_i005_conference_be47cd6d:
 
     # ag "Not yet."
-    ag "Henüz değil."
+    ag "Not yet."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:718
 translate turkish sm1fs_i005_conference_e52fecb0:
 
-    # ag "Ama Sienna veya birimizin bir çözüm bulması sadece zaman meselesi."
-    ag "Ama Sienna veya birimizin bir çözüm bulması sadece zaman meselesi."
+    # ag "But it's just a matter of time until Sienna or one of us can find a fix."
+    ag "But it's just a matter of time until Sienna or one of us can find a fix."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:721
 translate turkish sm1fs_i005_conference_f52a2354:
 
-    # cw "Tekrar dönersek, mevcut çözümümüzün uzun vadeli olmadığını mı söylüyorsunuz?"
-    cw "Tekrar dönersek, mevcut çözümümüzün uzun vadeli olmadığını mı söylüyorsunuz?"
+    # cw "Circling back around, you're saying that our current solution is not a long-term one?"
+    cw "Circling back around, you're saying that our current solution is not a long-term one?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:724
 translate turkish sm1fs_i005_conference_b544b853:
 
     # am "Oh yeah.{w} No, that will definitely stop the problem."
-    am "Oh evet.{w} Hayır, bu kesinlikle sorunu çözecek."
+    am "Oh yeah.{w} No, that will definitely stop the problem."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:727
 translate turkish sm1fs_i005_conference_4762d165:
 
-    # cw "Gerçekten mi?"
-    cw "Gerçekten mi?"
+    # cw "Really?"
+    cw "Really?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:730
 translate turkish sm1fs_i005_conference_6221c1f4:
 
-    # ag "Seninle dalga geçiyor, Claire."
-    ag "Seninle dalga geçiyor, Claire."
+    # ag "She's teasing you, Claire."
+    ag "She's teasing you, Claire."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:734
 translate turkish sm1fs_i005_conference_9f203f78:
@@ -1316,211 +1346,223 @@ translate turkish sm1fs_i005_conference_9f203f78:
 translate turkish sm1fs_i005_conference_66e46ae8:
 
     # am "I'm only human."
-    am "Ben sadece bir insanım."
+    am "I'm only human."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:740
 translate turkish sm1fs_i005_conference_fce39087:
 
-    # cw "Peki bunu nasıl düzeltiriz?"
-    cw "Peki bunu nasıl düzeltiriz?"
+    # cw "So then how do we fix this?"
+    cw "So then how do we fix this?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:743
 translate turkish sm1fs_i005_conference_c8a9892b:
 
-    # am "Sienna ana fonksiyonlarımızın...{w} Fonksiyon görmesi için yedek sistemleri çevrimiçi hale getirmek için elinden geleni yapıyor."
-    am "Sienna ana fonksiyonlarımızın...{w} Fonksiyon görmesi için yedek sistemleri çevrimiçi hale getirmek için elinden geleni yapıyor."
+    # am "Sienna is doing her best to bring back-up systems online so that our main functions can...{w} Function."
+    am "Sienna is doing her best to bring back-up systems online so that our main functions can...{w} Function."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:746
 translate turkish sm1fs_i005_conference_e3401148:
 
-    # ag "April ve ben bozuk ekteki her kod satırını taramaya başlayacağız."
-    ag "April ve ben bozuk ekteki her kod satırını taramaya başlayacağız."
+    # ag "April and I will begin sweeping through every line of code in the corrupted appendix."
+    ag "April and I will begin sweeping through every line of code in the corrupted appendix."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:747
 translate turkish sm1fs_i005_conference_96bc0e75:
 
-    # ag "Bu yapıldıktan sonra, evet, sistemlerimizi tamamen düzeltmek mümkün."
-    ag "Bu yapıldıktan sonra, evet, sistemlerimizi tamamen düzeltmek mümkün."
+    # ag "Once that is done, then yes, it is possible to completely fix our systems."
+    ag "Once that is done, then yes, it is possible to completely fix our systems."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:750
 translate turkish sm1fs_i005_conference_8e7bec65:
 
-    # am "Ama zaman alacak."
-    am "Ama zaman alacak."
+    # am "But it will take time."
+    am "But it will take time."
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:751
+translate turkish sm1fs_i005_conference_08fe18ca:
+
+    # am "And we're still making the news website."
+    am "And we're still making the news website."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:752
 translate turkish sm1fs_i005_conference_f1db57cb:
 
-    # am "Beni bundan çekmek her şeyin geciktiği anlamına gelir."
-    am "Beni bundan çekmek her şeyin geciktiği anlamına gelir."
+    # am "Taking me off that means everything is delayed."
+    am "Taking me off that means everything is delayed."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:755
 translate turkish sm1fs_i005_conference_5c7c3991:
 
-    # cw "Hayır.{w} İmkansız.{w} Bu olmayacak."
-    cw "Hayır.{w} İmkansız.{w} Bu olmayacak."
+    # cw "No.{w} Impossible.{w} That's not going to happen."
+    cw "No.{w} Impossible.{w} That's not going to happen."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:756
 translate turkish sm1fs_i005_conference_c7ee5017:
 
-    # cw "Tüm çeyrek için C.U.M Bölümü üzerinde bir kara leke olurdu."
-    cw "Tüm çeyrek için C.U.M Bölümü üzerinde bir kara leke olurdu."
+    # cw "It would be a blackmark on the C.U.M Division for the whole quarter."
+    cw "It would be a blackmark on the C.U.M Division for the whole quarter."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:759
 translate turkish sm1fs_i005_conference_ca04c66a:
 
-    # cw "Anna. Yapabileceğimiz bir şey olmalı?"
-    cw "Anna. Yapabileceğimiz bir şey olmalı?"
+    # cw "Anna. There has to be something we can do?"
+    cw "Anna. There has to be something we can do?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:762
 translate turkish sm1fs_i005_conference_312e5857:
 
     # ag "There is."
-    ag "Var."
+    ag "There is."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:763
 translate turkish sm1fs_i005_conference_f1f58bc6:
 
-    # ag "Bir kod çıkarımı yapıyoruz."
-    ag "Bir kod çıkarımı yapıyoruz."
+    # ag "We do a code excisement."
+    ag "We do a code excisement."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:766
 translate turkish sm1fs_i005_conference_1fcc47b6:
 
-    # cw "İngilizcesi?"
-    cw "İngilizcesi?"
+    # cw "In English?"
+    cw "In English?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:769
 translate turkish sm1fs_i005_conference_c4aee0b4:
 
-    # ag "Sienna ve April yeni güvenlik duvarları kurabilir ve bozuk sistemleri olabildiğince sıkıştırabilir."
-    ag "Sienna ve April yeni güvenlik duvarları kurabilir ve bozuk sistemleri olabildiğince sıkıştırabilir."
+    # ag "Sienna and April can build up new firewalls and squeeze down the corrupted systems as much as possible."
+    ag "Sienna and April can build up new firewalls and squeeze down the corrupted systems as much as possible."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:773
 translate turkish sm1fs_i005_conference_1221d722:
 
-    # ag "Şanslıysak, kök kodu bulabilir ve bozuk verileri yakabilirler."
-    ag "Şanslıysak, kök kodu bulabilir ve bozuk verileri yakabilirler."
+    # ag "If we're lucky, they can figure out the root code and burn out the corrupted data."
+    ag "If we're lucky, they can figure out the root code and burn out the corrupted data."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:777
 translate turkish sm1fs_i005_conference_1e00e190:
 
-    # cw "B planı nedir? Daha hızlı seçenek nedir."
-    cw "B planı nedir? Daha hızlı seçenek nedir."
+    # cw "What is plan B? What is the faster option."
+    cw "What is plan B? What is the faster option."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:780
 translate turkish sm1fs_i005_conference_963b94a1:
 
-    # ag "Yedek sistemleri yükleyebiliriz."
-    ag "Yedek sistemleri yükleyebiliriz."
+    # ag "We can load up the backup systems."
+    ag "We can load up the backup systems."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:781
 translate turkish sm1fs_i005_conference_8c2518b0:
 
-    # ag "Ama gerçekten? Güvenlik açıklarını bulmak ve onları kapatmak için zaman harcamadan?"
-    ag "Ama gerçekten? Güvenlik açıklarını bulmak ve onları kapatmak için zaman harcamadan?"
+    # ag "But real talk? Without spending the time to find out the vulnerabilities and plugging them?"
+    ag "But real talk? Without spending the time to find out the vulnerabilities and plugging them?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:784
 translate turkish sm1fs_i005_conference_efcd2ea1:
 
-    # am "Tekrar hacklenebiliriz."
-    am "Tekrar hacklenebiliriz."
+    # am "We could get hacked all over again."
+    am "We could get hacked all over again."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:787
 translate turkish sm1fs_i005_conference_bbc86966:
 
-    # cw "Yapın. Gecikmeye zamanımız yok."
-    cw "Yapın. Gecikmeye zamanımız yok."
+    # cw "Do it. We don't have time for a delay."
+    cw "Do it. We don't have time for a delay."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:789
 translate turkish sm1fs_i005_conference_2fa351b6:
 
-    # am "Senin cenazen."
-    am "Senin cenazen."
+    # am "Your funeral."
+    am "Your funeral."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:792
 translate turkish sm1fs_i005_conference_da6144a4:
 
-    # ag "Yani Nari ve [mcname]. Siz ikiniz yaptığınız işe devam edin."
-    ag "Yani Nari ve [mcname]. Siz ikiniz yaptığınız işe devam edin."
+    # ag "So Nari and [mcname]. You two just keep doing what you're doing."
+    ag "So Nari and [mcname]. You two just keep doing what you're doing."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:794
 translate turkish sm1fs_i005_conference_a49ed4f8:
 
     # mc "Okay."
-    mc "Tamam."
+    mc "Okay."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:796
 translate turkish sm1fs_i005_conference_e4c65fa4:
 
-    # ns "Öyle diyorsan."
-    ns "Öyle diyorsan."
+    # ns "If you say so."
+    ns "If you say so."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:799
 translate turkish sm1fs_i005_conference_34d0f802:
 
-    # ag "Ama Bayan Watts. Web sitesini bitirdiğimiz an, deliği bulup tıkamalıyız."
-    ag "Ama Bayan Watts. Web sitesini bitirdiğimiz an, deliği bulup tıkamalıyız."
+    # ag "But Ms. Watts. The moment we finish the website, we have to find the hole and plug it."
+    ag "But Ms. Watts. The moment we finish the website, we have to find the hole and plug it."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:802
 translate turkish sm1fs_i005_conference_b9f751c3:
 
-    # am "Evet. Ya da başa döneriz."
-    am "Evet. Ya da başa döneriz."
+    # am "Yeah. Or we'll be right back at square one."
+    am "Yeah. Or we'll be right back at square one."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:805
 translate turkish sm1fs_i005_conference_4d21422d:
 
-    # cw "İyi olacak.{w} Ayrıca, daha iyi bir seçeneğimiz yok."
-    cw "İyi olacak.{w} Ayrıca, daha iyi bir seçeneğimiz yok."
+    # cw "It's going to be fine.{w} Besides, we don't have a better option."
+    cw "It's going to be fine.{w} Besides, we don't have a better option."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:810
 translate turkish sm1fs_i005_conference_a31da267:
 
-    # cw "Zaten önceden baskı altındaydık."
-    cw "Zaten önceden baskı altındaydık."
+    # cw "We were already under pressure before."
+    cw "We were already under pressure before."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:811
 translate turkish sm1fs_i005_conference_7a2695d5:
 
-    # cw "Şimdi bu hack yüzünden tam bir gün kaybettik ve kim bilir başka ne kaybettik."
-    cw "Şimdi bu hack yüzünden tam bir gün kaybettik ve kim bilir başka ne kaybettik."
+    # cw "Now we've lost an entire day and who knows what because of this hack."
+    cw "Now we've lost an entire day and who knows what because of this hack."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:814
 translate turkish sm1fs_i005_conference_78ac7599:
 
-    # cw "Ne pahasına olursa olsun, web sitesi projesini tamamlamamız gerekiyor."
-    cw "Ne pahasına olursa olsun, web sitesi projesini tamamlamamız gerekiyor."
+    # cw "Whatever it takes, we need to get the website project complete."
+    cw "Whatever it takes, we need to get the website project complete."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:820
 translate turkish sm1fs_i005_conference_269c0140:
 
-    # cw "Başarısızlık bir seçenek değil."
-    cw "Başarısızlık bir seçenek değil."
+    # cw "Failure is not an option."
+    cw "Failure is not an option."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:828
 translate turkish sm1fs_i005_conference_64f4e970:
 
-    # am "Sienna'ya planı söyleyecek misin?"
-    am "Sienna'ya planı söyleyecek misin?"
+    # am "You'll tell Sienna the plan?"
+    am "You'll tell Sienna the plan?"
+
+# game/code/scenes/it_office/sm1fs-i005.rpy:831
+translate turkish sm1fs_i005_conference_53902fad:
+
+    # ag "Yes. And I presume you're going for a caffeine run?"
+    ag "Yes. And I presume you're going for a caffeine run?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:834
 translate turkish sm1fs_i005_conference_dbad630f:
 
-    # am "Roketler yakıt olmadan uçmaz. Marketten otuz dakikada döneceğim."
-    am "Roketler yakıt olmadan uçmaz. Marketten otuz dakikada döneceğim."
+    # am "Rockets don't fly without fuel. I'll be back from the convenience store in thirty."
+    am "Rockets don't fly without fuel. I'll be back from the convenience store in thirty."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:837
 translate turkish sm1fs_i005_conference_b3461b7c:
 
-    # ag "Oradayken bana bir Thunderblast al."
-    ag "Oradayken bana bir Thunderblast al."
+    # ag "Pick me up a Thunderblast when you're there."
+    ag "Pick me up a Thunderblast when you're there."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:843
 translate turkish sm1fs_i005_conference_d09eeaf0:
 
-    # am "Anlaşıldı."
-    am "Anlaşıldı."
+    # am "You got it."
+    am "You got it."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:850
 translate turkish sm1fs_i005_conference_6c7322c9:
@@ -1531,96 +1573,54 @@ translate turkish sm1fs_i005_conference_6c7322c9:
 # game/code/scenes/it_office/sm1fs-i005.rpy:855
 translate turkish sm1fs_i005_conference_0f549615:
 
-    # ag "Bunun için kaydolmadığınızı biliyorum."
-    ag "Bunun için kaydolmadığınızı biliyorum."
+    # ag "I know this isn't what you signed up for."
+    ag "I know this isn't what you signed up for."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:859
 translate turkish sm1fs_i005_conference_5b5f248a:
 
-    # ag "Ama eminim en kötüsü geride kaldı."
-    ag "Ama eminim en kötüsü geride kaldı."
+    # ag "But I am sure that the worst is over."
+    ag "But I am sure that the worst is over."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:862
 translate turkish sm1fs_i005_conference_569e04e7:
 
-    # ag "O halde atlarımıza binelim ve C.U.M Bölümünü gururlandıralım."
-    ag "O halde atlarımıza binelim ve C.U.M Bölümünü gururlandıralım."
+    # ag "So let's get back on our horses and make the C.U.M Division proud."
+    ag "So let's get back on our horses and make the C.U.M Division proud."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:866
 translate turkish sm1fs_i005_conference_b46a79f6:
 
-    # ag "Size güncellenmiş kod paketlerini yirmide göndereceğim."
-    ag "Size güncellenmiş kod paketlerini yirmide göndereceğim."
+    # ag "I'll send you updated code packets in twenty."
+    ag "I'll send you updated code packets in twenty."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:869
 translate turkish sm1fs_i005_conference_b9c94647:
 
-    # ns "Evet, Bayan Goodwin!"
-    ns "Evet, Bayan Goodwin!"
+    # ns "Yes, Ms. Goodwin!"
+    ns "Yes, Ms. Goodwin!"
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:872
+# game/code/scenes/it_office/sm1fs-i005.rpy:873
 translate turkish sm1fs_i005_conference_c3f379e0:
 
-    # ag "Çok güzel."
-    ag "Çok güzel."
+    # ag "Very good."
+    ag "Very good."
 
 translate turkish strings:
 
     # game/code/scenes/it_office/sm1fs-i005.rpy:162
-    old "Eğlenceli olabilir"
-    new "Eğlenceli olabilir"
+    old "Could be fun"
+    new "Could be fun"
 
     # game/code/scenes/it_office/sm1fs-i005.rpy:162
-    old "Pek benim için değil"
-    new "Pek benim için değil"
+    old "Not really for me"
+    new "Not really for me"
 
     # game/code/scenes/it_office/sm1fs-i005.rpy:234
-    old "Onunla dalga geç"
-    new "Onunla dalga geç"
+    old "Tease him"
+    new "Tease him"
 
     # game/code/scenes/it_office/sm1fs-i005.rpy:234
-    old "Odaklan"
-    new "Odaklan"
-
-# game/code/scenes/it_office/sm1fs-i005.rpy:280
-translate turkish sm1fs_i005_b16b4e3c:
-
-    # pm "Sienna. Sen DevOps'sın.{w} Bunu durdur."
-    pm "Sienna. Sen DevOps'sın.{w} Bunu durdur."
-
-# game/code/scenes/it_office/sm1fs-i005.rpy:423
-translate turkish sm1fs_i005_849e0440:
-
-    # en "Sorun nedir?"
-    en "Sorun nedir?"
-
-# game/code/scenes/it_office/sm1fs-i005.rpy:501
-translate turkish sm1fs_i005_bd4c8cdb:
-
-    # ag "Dosya dizininde satış eğik çizgi iki bin yirmi eğik çizgi Oh Bee Jay eğik çizgi arşiv."
-    ag "Dosya dizininde satış eğik çizgi iki bin yirmi eğik çizgi Oh Bee Jay eğik çizgi arşiv."
-
-# game/code/scenes/it_office/sm1fs-i005.rpy:578
-translate turkish sm1fs_i005_330d5a55:
-
-    # sr "Oh.{w} O Peter'ınki."
-    sr "Oh.{w} O Peter'ınki."
-
-# game/code/scenes/it_office/sm1fs-i005.rpy:609
-translate turkish sm1fs_i005_d8a77a7d:
-
-    # cw "Yani {i}gördüm{/i} şeyler."
-    cw "Yani {i}gördüm{/i} şeyler."
-
-# game/code/scenes/it_office/sm1fs-i005.rpy:751
-translate turkish sm1fs_i005_conference_08fe18ca:
-
-    # am "Ve hala haber sitesini yapıyoruz."
-    am "Ve hala haber sitesini yapıyoruz."
-
-# game/code/scenes/it_office/sm1fs-i005.rpy:831
-translate turkish sm1fs_i005_conference_53902fad:
-
-    # ag "Evet. Ve sanırım kafein için gidiyorsun?"
-    ag "Evet. Ve sanırım kafein için gidiyorsun?"
+    old "Focus"
+    new "Focus"
 
