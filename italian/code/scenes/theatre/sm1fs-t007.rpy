@@ -58,12 +58,6 @@ translate italian sm1fs_t007_4897cbd7:
     # dvh "Now...{w} are you ready to fly?"
     dvh "Ora...{w} siete pronti a volare?"
 
-# game/code/scenes/theatre/sm1fs-t007.rpy:30
-translate italian sm1fs_t007_94ad2941:
-
-    # kw "Yes, ma'am!"
-    kw "Sì, signora!"
-
 # game/code/scenes/theatre/sm1fs-t007.rpy:31
 translate italian sm1fs_t007_6e440a69:
 

@@ -58,12 +58,6 @@ translate turkish sm1fs_t007_4897cbd7:
     # dvh "Now...{w} are you ready to fly?"
     dvh "Şimdi...{w} uçmaya hazır mısınız?"
 
-# game/code/scenes/theatre/sm1fs-t007.rpy:30
-translate turkish sm1fs_t007_94ad2941:
-
-    # kw "Yes, ma'am!"
-    kw "Evet, hanımefendi!"
-
 # game/code/scenes/theatre/sm1fs-t007.rpy:31
 translate turkish sm1fs_t007_6e440a69:
 

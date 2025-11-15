@@ -58,12 +58,6 @@ translate spanish sm1fs_t007_4897cbd7:
     # dvh "Now...{w} are you ready to fly?"
     dvh "Now...{w} are you ready to fly?"
 
-# game/code/scenes/theatre/sm1fs-t007.rpy:30
-translate spanish sm1fs_t007_94ad2941:
-
-    # kw "Yes, ma'am!"
-    kw "Yes, ma'am!"
-
 # game/code/scenes/theatre/sm1fs-t007.rpy:31
 translate spanish sm1fs_t007_6e440a69:
 

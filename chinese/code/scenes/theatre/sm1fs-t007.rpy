@@ -58,12 +58,6 @@ translate chinese sm1fs_t007_4897cbd7:
     # dvh "Now...{w} are you ready to fly?"
     dvh "现在...{w}你们准备好起飞了吗？"
 
-# game/code/scenes/theatre/sm1fs-t007.rpy:30
-translate chinese sm1fs_t007_94ad2941:
-
-    # kw "Yes, ma'am!"
-    kw "是的，女士！"
-
 # game/code/scenes/theatre/sm1fs-t007.rpy:31
 translate chinese sm1fs_t007_6e440a69:
 
