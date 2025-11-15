@@ -1820,7 +1820,7 @@ translate turkish sm1cs_mh009_408b5706:
 translate turkish sm1cs_mh009_bef30000:
 
     # mh "Probably not. But I can probably go to work filled with cum."
-    mh "Probably not. But I can probably go to work filled with cum."
+    mh "Muhtemelen olmaz. Ama muhtemelen dölle dolu işe gidebilirim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:908
 translate turkish sm1cs_mh009_b17185a3:
