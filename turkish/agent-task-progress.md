@@ -43,11 +43,11 @@ File: Turkish/code\scenes\movies\movie01\sm1mv01s03_1i.rpy (Entire file untransl
 
 File: Turkish/code\scenes\movies\movie01\sm1mv01s03_2.rpy (Entire file untranslated) [1693 words] (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s04.rpy (Entire file untranslated) [1115 words] (10%)
+File: Turkish/code\scenes\movies\movie01\sm1mv01s04.rpy (Entire file untranslated) [1115 words] (done)
 
 File: Turkish/code\scenes\movies\movie01\sm1mv01s04i.rpy (Entire file untranslated) [133 words] (done)
 
-File: Turkish/code\scenes\movies\movie01\sm1mv01s05.rpy (Entire file untranslated) [1534 words] (30%)
+File: Turkish/code\scenes\movies\movie01\sm1mv01s05.rpy (Entire file untranslated) [1534 words] (done)
 
 File: Turkish/code\scenes\movies\movie01\sm1mv01s05i.rpy (Entire file untranslated) [48 words] (done)
 
