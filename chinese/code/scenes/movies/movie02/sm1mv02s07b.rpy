@@ -1400,163 +1400,163 @@ translate chinese sm1mv02s07b_watersports_3a04ebe1:
 translate chinese sm1mv02s07b_watersports_bbbc5a5f:
 
     # ns "If you'll excuse me."
-    ns "If you'll excuse me."
+    ns "我先去啦。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:705
 translate chinese sm1mv02s07b_no_watersports_242a1aa1:
 
     # mh "Cuuummmmm!"
-    mh "Cuuummmmm!"
+    mh "射啦啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:706
 translate chinese sm1mv02s07b_no_watersports_acc20661:
 
     # mc "Me too!"
-    mc "Me too!"
+    mc "我也一样！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:715
 translate chinese sm1mv02s07b_no_watersports_8acc82a2:
 
     # mc "Fuuuuuuuuhhhhck!"
-    mc "Fuuuuuuuuhhhhck!"
+    mc "噢噢噢操！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:719
 translate chinese sm1mv02s07b_no_watersports_b03273ab:
 
     # ns "Oh, oh, OH!"
-    ns "Oh, oh, OH!"
+    ns "哦，噢噢噢！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:724
 translate chinese sm1mv02s07b_no_watersports_0dd18a4e:
 
     # ns "Oh, I'm cummmmming!"
-    ns "Oh, I'm cummmmming!"
+    ns "噢...我要去了...！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:725
 translate chinese sm1mv02s07b_no_watersports_5147d88d:
 
     # ns "Oh, my..."
-    ns "Oh, my..."
+    ns "天哪..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:729
 translate chinese sm1mv02s07b_no_watersports_383d7f94:
 
     # mh "Every drop... just like a good girl."
-    mh "Every drop... just like a good girl."
+    mh "一滴不剩...真是个好姑娘。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:732
 translate chinese sm1mv02s07b_no_watersports_5e770005:
 
     # ns "Thank you, Lyssa."
-    ns "Thank you, Lyssa."
+    ns "谢谢你，丽莎。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:736
 translate chinese sm1mv02s07b_no_watersports_c0dab57e:
 
     # mc "Damn, Nari..."
-    mc "Damn, Nari..."
+    mc "靠，娜丽..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:739
 translate chinese sm1mv02s07b_no_watersports_489964b7:
 
     # mh "I have the exact same sentiment."
-    mh "I have the exact same sentiment."
+    mh "我和你想的一样。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:740
 translate chinese sm1mv02s07b_no_watersports_0c1cc558:
 
     # mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
-    mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
+    mh "你真是个不一般的女孩，娜丽。我很高兴能与你相识。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:744
 translate chinese sm1mv02s07b_no_watersports_3a04ebe1:
 
     # ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
-    ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
+    ns "谢谢你，丽莎。不过，我好像把自己弄得脏兮兮的，该去洗个澡了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:745
 translate chinese sm1mv02s07b_no_watersports_2b575dc3:
 
     # ns "If you'll excuse me!"
-    ns "If you'll excuse me!"
+    ns "我先去啦。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:761
 translate chinese sm1mv02s07b_end_7b2f27cd:
 
     # mh "Mmmmm... I really needed this today."
-    mh "Mmmmm... I really needed this today."
+    mh "嗯...我今天真的很需要这样释放一下。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:764
 translate chinese sm1mv02s07b_end_01987d57:
 
     # mc "I could say the same."
-    mc "I could say the same."
+    mc "我也深有同感。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:765
 translate chinese sm1mv02s07b_end_8d0f7581:
 
     # mc "I would be lying to say I wasn't a little stressed."
-    mc "I would be lying to say I wasn't a little stressed."
+    mc "要说我完全没有压力那肯定是谎话。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:769
 translate chinese sm1mv02s07b_end_570842f8:
 
     # mh "Same."
-    mh "Same."
+    mh "彼此彼此。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:772
 translate chinese sm1mv02s07b_end_e9bed104:
 
     # ns "Oh, are we cuddling!?!"
-    ns "Oh, are we cuddling!?!"
+    ns "噢！我们现在是在拥抱吗!?!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:778
 translate chinese sm1mv02s07b_end_fec80edb:
 
     # ns "I love a good post-coital cuddle!"
-    ns "I love a good post-coital cuddle!"
+    ns "我最喜欢酣畅淋漓的事后温存了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:779
 translate chinese sm1mv02s07b_end_d7593448:
 
     # mct "Post-coital?"
-    mct "Post-coital?"
+    mct "事后温存？"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:781
 translate chinese sm1mv02s07b_end_acb8586d:
 
     # mc "I'm not sure this chair is big enough for all of us."
-    mc "I'm not sure this chair is big enough for all of us."
+    mc "我不确定这张椅子是否足够容纳我们所有人。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:782
 translate chinese sm1mv02s07b_end_a83b463b:
 
     # ns "We'll make it work."
-    ns "We'll make it work."
+    ns "我们总能找到办法的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:785
 translate chinese sm1mv02s07b_end_5a9338f8:
 
     # ns "Best boss ever."
-    ns "Best boss ever."
+    ns "你是天底下最棒的老板。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:787
 translate chinese sm1mv02s07b_end_8221fbbd:
 
     # mc "I'm not your boss, Nari."
-    mc "I'm not your boss, Nari."
+    mc "娜丽，我可不是你的老板。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:789
 translate chinese sm1mv02s07b_end_9bca07f1:
 
     # mh "You are the director, [mcname]. In a way, you are her boss."
-    mh "You are the director, [mcname]. In a way, you are her boss."
+    mh "[mcname]，你是导演。从某种角度说，你确实是她的老板。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:790
 translate chinese sm1mv02s07b_end_012fe6ad:
 
     # mh "And also her landlord."
-    mh "And also her landlord."
+    mh "同时你还是她的房东。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:793
 translate chinese sm1mv02s07b_end_2b35b6fe:
@@ -1568,13 +1568,13 @@ translate chinese sm1mv02s07b_end_2b35b6fe:
 translate chinese sm1mv02s07b_end_8bc4dbf7:
 
     # mh "Mmhmmm. That's what I thought."
-    mh "Mmhmmm. That's what I thought."
+    mh "唔～ 我当初就是这么想的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:800
 translate chinese sm1mv02s07b_end_1e824725:
 
     # ns "Best spa day ever!"
-    ns "Best spa day ever!"
+    ns "这绝对是最棒的水疗日！"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:555
 translate chinese sm1mv02s07b_22e4a5e2:
