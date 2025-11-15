@@ -1074,91 +1074,91 @@ translate turkish strings:
 translate turkish sm1cs_mh007_bf2c0adf:
 
     # mh "[mcname], I was wondering..."
-    mh "[mcname], I was wondering..."
+    mh "[mcname], merak ediyordum..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:262
 translate turkish sm1cs_mh007_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Evet?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:263
 translate turkish sm1cs_mh007_030be35c:
 
     # mh "How would you feel if I...{w} had a turn, with you?"
-    mh "How would you feel if I...{w} had a turn, with you?"
+    mh "Eğer ben...{w} seninle bir tur atsam, nasıl hissederdin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:264
 translate turkish sm1cs_mh007_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Ne demek istiyorsun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:266
 translate turkish sm1cs_mh007_d41060db:
 
     # mh "That I... kind of want to try fucking you. What do you think about that?"
-    mh "That I... kind of want to try fucking you. What do you think about that?"
+    mh "Ben... seni sikmeyi denemek istiyorum. Bu konuda ne düşünüyorsun?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:274
 translate turkish sm1cs_mh007_c0d907b0:
 
     # mc "I don't think I'd like that, Lyssa, I'm sorry..."
-    mc "I don't think I'd like that, Lyssa, I'm sorry..."
+    mc "Bundan hoşlanacağımı sanmıyorum, Lyssa, üzgünüm..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:275
 translate turkish sm1cs_mh007_58f014e2:
 
     # mh "It's okay, we still have some more fun to have anyway."
-    mh "It's okay, we still have some more fun to have anyway."
+    mh "Sorun değil, yine de biraz daha eğlenebiliriz."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:281
 translate turkish sm1cs_mh007_e0c7542b:
 
     # mc "Yeah, Lyssa, I'd be down to try it."
-    mc "Yeah, Lyssa, I'd be down to try it."
+    mc "Evet, Lyssa, denemek isterim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:282
 translate turkish sm1cs_mh007_954a6ab6:
 
     # mh "Really?"
-    mh "Really?"
+    mh "Gerçekten mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:283
 translate turkish sm1cs_mh007_a3caf5a7:
 
     # mc "Really, really!"
-    mc "Really, really!"
+    mc "Gerçekten, gerçekten!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:285
 translate turkish sm1cs_mh007_1b966d50:
 
     # mc "Just promise to be gentle."
-    mc "Just promise to be gentle."
+    mc "Sadece nazik olacağına söz ver."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:286
 translate turkish sm1cs_mh007_9f73cc01:
 
     # mh "Mmmmm, I promise, [mcname]."
-    mh "Mmmmm, I promise, [mcname]."
+    mh "Mmmmm, söz veriyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:288
 translate turkish sm1cs_mh007_44c6d442:
 
     # mh "I have been fantasizing about this..."
-    mh "I have been fantasizing about this..."
+    mh "Bunu hayal ediyordum..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:289
 translate turkish sm1cs_mh007_24687b7d:
 
     # mc "Well, I'm happy to bring your dream to reality!"
-    mc "Well, I'm happy to bring your dream to reality!"
+    mc "Eh, hayalini gerçeğe dönüştürmekten mutluluk duyarım!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:291
 translate turkish sm1cs_mh007_1263b847:
 
     # mh "Are you ready?"
-    mh "Are you ready?"
+    mh "Hazır mısın?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:292
 translate turkish sm1cs_mh007_37c12963:
@@ -1176,19 +1176,19 @@ translate turkish sm1cs_mh007_5dfa7c5e:
 translate turkish sm1cs_mh007_0f5e6726:
 
     # mh "You okay?"
-    mh "You okay?"
+    mh "İyi misin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:296
 translate turkish sm1cs_mh007_c5327c66:
 
     # mc "Mmm-mmhmmmm! Just - getting used to the feeling."
-    mc "Mmm-mmhmmmm! Just - getting used to the feeling."
+    mc "Mmm-mmhmmmm! Sadece - hisse alışıyorum."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:297
 translate turkish sm1cs_mh007_9bc304fb:
 
     # mh "I'm going to keep going, okay?"
-    mh "I'm going to keep going, okay?"
+    mh "Devam edeceğim, tamam mı?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:298
 translate turkish sm1cs_mh007_ef71e91f:
@@ -1206,19 +1206,19 @@ translate turkish sm1cs_mh007_de9dc30b:
 translate turkish sm1cs_mh007_ddd94792:
 
     # mh "Still okay?"
-    mh "Still okay?"
+    mh "Hala iyi misin?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:302
 translate turkish sm1cs_mh007_2ea6de0c:
 
     # mc "Y-yeah!"
-    mc "Y-yeah!"
+    mc "E-evet!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:303
 translate turkish sm1cs_mh007_6bd1c7a8:
 
     # mh "Just a little more..."
-    mh "Just a little more..."
+    mh "Biraz daha..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:305
 translate turkish sm1cs_mh007_49ecd705:
@@ -1236,31 +1236,31 @@ translate turkish sm1cs_mh007_c7cf2826:
 translate turkish sm1cs_mh007_368efa07:
 
     # mc "Mmmm, just - wow - this is a - new feeling!"
-    mc "Mmmm, just - wow - this is a - new feeling!"
+    mc "Mmmm, sadece - vay - bu - yeni bir his!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:308
 translate turkish sm1cs_mh007_a12e6db3:
 
     # mh "I'll give you a second to adjust."
-    mh "I'll give you a second to adjust."
+    mh "Alışman için sana bir saniye vereceğim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:309
 translate turkish sm1cs_mh007_d2efecf2:
 
     # mc "Thank you..."
-    mc "Thank you..."
+    mc "Teşekkür ederim..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:311
 translate turkish sm1cs_mh007_0896b69e:
 
     # mh "This feels amazing already, [mcname]."
-    mh "This feels amazing already, [mcname]."
+    mh "Bu şimdiden harika hissettiriyor, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:312
 translate turkish sm1cs_mh007_f49fff8f_1:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Evet?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:313
 translate turkish sm1cs_mh007_259ad6b6_1:
@@ -1272,31 +1272,31 @@ translate turkish sm1cs_mh007_259ad6b6_1:
 translate turkish sm1cs_mh007_ec7fd73b:
 
     # mc "I think - ngggh - you can start thrusting if you want."
-    mc "I think - ngggh - you can start thrusting if you want."
+    mc "Sanırım - ngggh - istersen itmeye başlayabilirsin."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:315
 translate turkish sm1cs_mh007_84227619:
 
     # mh "Mmmmm, I'll go slow."
-    mh "Mmmmm, I'll go slow."
+    mh "Mmmmm, yavaş gideceğim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:318
 translate turkish sm1cs_mh007_b7c684bc:
 
     # mc "Ohh - shit-"
-    mc "Ohh - shit-"
+    mc "Ohh - siktir-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:319
 translate turkish sm1cs_mh007_29d2ae55:
 
     # mh "You okay, [mcname]?"
-    mh "You okay, [mcname]?"
+    mh "İyi misin, [mcname]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:320
 translate turkish sm1cs_mh007_eb3a1d15:
 
     # mc "Mmmmmm - y-yep!"
-    mc "Mmmmmm - y-yep!"
+    mc "Mmmmmm - e-evet!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:322
 translate turkish sm1cs_mh007_d608c209:
@@ -1308,7 +1308,7 @@ translate turkish sm1cs_mh007_d608c209:
 translate turkish sm1cs_mh007_085313a0:
 
     # mc "Oh shit, Lyssa - shiiiit-!"
-    mc "Oh shit, Lyssa - shiiiit-!"
+    mc "Ah siktir, Lyssa - siktiiir-!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:324
 translate turkish sm1cs_mh007_118586bd:
@@ -1320,43 +1320,43 @@ translate turkish sm1cs_mh007_118586bd:
 translate turkish sm1cs_mh007_73631d7d:
 
     # mc "This feels - ngggh-!"
-    mc "This feels - ngggh-!"
+    mc "Bu - ngggh - hissettiriyor-!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:327
 translate turkish sm1cs_mh007_fc477c8d:
 
     # mh "How does it feel?"
-    mh "How does it feel?"
+    mh "Nasıl hissettiriyor?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:328
 translate turkish sm1cs_mh007_a1ba1026:
 
     # mc "It feels - mmmm- kind of, {i}really{/i}, good!"
-    mc "It feels - mmmm- kind of, {i}really{/i}, good!"
+    mc "Hissettiriyor - mmmm - bir nevi, {i}gerçekten{/i}, iyi!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:329
 translate turkish sm1cs_mh007_3ce13710:
 
     # mh "Mmmmm, yes, yes it does!"
-    mh "Mmmmm, yes, yes it does!"
+    mh "Mmmmm, evet, evet öyle!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:331
 translate turkish sm1cs_mh007_f56613ea:
 
     # mc "Oh, shit - it feels - mmm - nice having you inside me, Lyssa!"
-    mc "Oh, shit - it feels - mmm - nice having you inside me, Lyssa!"
+    mc "Ah, siktir - hissettiriyor - mmm - içimde olman güzel, Lyssa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:332
 translate turkish sm1cs_mh007_4f24e9cd:
 
     # mh "And your ass is wonderful, [mcname]!"
-    mh "And your ass is wonderful, [mcname]!"
+    mh "Ve senin kıçın harika, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:333
 translate turkish sm1cs_mh007_6dcde6a9:
 
     # mh "It feels - mmmmm - soooooo gooooood!"
-    mh "It feels - mmmmm - soooooo gooooood!"
+    mh "Hissettiriyor - mmmmm - çooook güüüzel!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:335
 translate turkish sm1cs_mh007_dbf69743:
@@ -1368,7 +1368,7 @@ translate turkish sm1cs_mh007_dbf69743:
 translate turkish sm1cs_mh007_6ce1258d:
 
     # mh "Oh, yes, [mcname]!"
-    mh "Oh, yes, [mcname]!"
+    mh "Ah, evet, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:337
 translate turkish sm1cs_mh007_e8840ad8:
@@ -1380,19 +1380,19 @@ translate turkish sm1cs_mh007_e8840ad8:
 translate turkish sm1cs_mh007_ef890fd2:
 
     # mh "Oh shit - we definitely, mmmmm, need to do this more often!"
-    mh "Oh shit - we definitely, mmmmm, need to do this more often!"
+    mh "Ah siktir - kesinlikle, mmmmm, bunu daha sık yapmalıyız!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:340
 translate turkish sm1cs_mh007_d02ad225:
 
     # mc "I - ngggghhh - agree!"
-    mc "I - ngggghhh - agree!"
+    mc "Ben - ngggghhh - katılıyorum!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:341
 translate turkish sm1cs_mh007_1d5fc5d6:
 
     # mh "Oh - mmmm, I feel myself getting close!"
-    mh "Oh - mmmm, I feel myself getting close!"
+    mh "Ah - mmmm, yaklaştığımı hissediyorum!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:342
 translate turkish sm1cs_mh007_adaed853:
@@ -1404,19 +1404,19 @@ translate turkish sm1cs_mh007_adaed853:
 translate turkish sm1cs_mh007_632389c9:
 
     # mh "But I - mmmmmm - I need you inside me again."
-    mh "But I - mmmmmm - I need you inside me again."
+    mh "Ama ben - mmmmmm - tekrar içimde sana ihtiyacım var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:346
 translate turkish sm1cs_mh007_591a1ccb:
 
     # mh "I really, really need you inside me again."
-    mh "I really, really need you inside me again."
+    mh "Gerçekten, gerçekten tekrar içimde sana ihtiyacım var."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:347
 translate turkish sm1cs_mh007_09f2de35:
 
     # mc "Is that so?"
-    mc "Is that so?"
+    mc "Öyle mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:348
 translate turkish sm1cs_mh007_bf5d86f0:
@@ -1428,15 +1428,15 @@ translate turkish sm1cs_mh007_bf5d86f0:
 translate turkish sm1cs_mh007_b9a250b1:
 
     # mc "Well, I think I know just what we need to do..."
-    mc "Well, I think I know just what we need to do..."
+    mc "Şey, sanırım tam olarak ne yapmamız gerektiğini biliyorum..."
 
 translate turkish strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:267
     old "I'd be up for that!"
-    new "I'd be up for that!"
+    new "Buna varım!"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:267
     old "I don't think I would like that..."
-    new "I don't think I would like that..."
+    new "Bundan hoşlanacağımı sanmıyorum..."
 
