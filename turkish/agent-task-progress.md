@@ -1,5 +1,3 @@
-turkish\code\scenes\character_scenes\mes\sm1cs-mes006.rpy
-
 turkish\code\scenes\character_scenes\mes\sm1cs-mes007.rpy
 
 turkish\code\scenes\character_scenes\mh\sm1cs-mh007.rpy
