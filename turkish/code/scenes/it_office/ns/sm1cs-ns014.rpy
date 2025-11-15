@@ -200,13 +200,13 @@ translate turkish sm1cs_ns014_2b35b6fe:
 translate turkish sm1cs_ns014_98b92a41:
 
     # mct "Time to clock out."
-    mct "Time to clock out."
+    mct "Mesai bitişi zamanı."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:161
 translate turkish sm1cs_ns014_studio_e955b343:
 
     # mc "I'm home."
-    mc "I'm home."
+    mc "Eve geldim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:164
 translate turkish sm1cs_ns014_studio_2b35b6fe:
@@ -218,49 +218,49 @@ translate turkish sm1cs_ns014_studio_2b35b6fe:
 translate turkish sm1cs_ns014_studio_45d4b8ac:
 
     # "Click"
-    "Click"
+    "Klik"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:169
 translate turkish sm1cs_ns014_studio_024b48a9:
 
     # mct "What was that?"
-    mct "What was that?"
+    mct "O da neydi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:184
 translate turkish sm1cs_ns014_studio_147e4307:
 
     # mct "There they are."
-    mct "There they are."
+    mct "İşte oradalar."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:189
 translate turkish sm1cs_ns014_studio_d0316469:
 
     # sy "Welcome home, superstar."
-    sy "Welcome home, superstar."
+    sy "Eve hoş geldin, süperstar."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:192
 translate turkish sm1cs_ns014_studio_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "Selam."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:193
 translate turkish sm1cs_ns014_studio_b47b5ad1:
 
     # mc "What's goin on here?"
-    mc "What's goin on here?"
+    mc "Burada ne oluyor?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:196
 translate turkish sm1cs_ns014_studio_99bef5b7:
 
     # ns "Surprise! Stacy was taking naughty pictures of me."
-    ns "Surprise! Stacy was taking naughty pictures of me."
+    ns "Sürpriz! Stacy benim yaramaz fotoğraflarımı çekiyordu."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:199
 translate turkish sm1cs_ns014_studio_5fb5dda5:
 
     # sy "With you, Nari. I'm taking naughty pictures with you."
-    sy "With you, Nari. I'm taking naughty pictures with you."
+    sy "Seninle, Nari. Seninle yaramaz fotoğraflar çekiyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:201
 translate turkish sm1cs_ns014_studio_27b35491:
@@ -272,97 +272,97 @@ translate turkish sm1cs_ns014_studio_27b35491:
 translate turkish sm1cs_ns014_studio_877599b8:
 
     # mc "How did this get started?"
-    mc "How did this get started?"
+    mc "Bu nasıl başladı?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:207
 translate turkish sm1cs_ns014_studio_92297ecf:
 
     # sy "Well, Nari saw me checking out the equipment. And she asked me what it was for."
-    sy "Well, Nari saw me checking out the equipment. And she asked me what it was for."
+    sy "Şey, Nari ekipmanı kontrol ederken beni gördü. Ve bunun ne için olduğunu sordu."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:210
 translate turkish sm1cs_ns014_studio_393b6452:
 
     # sy "Since I didn't know how to answer that loaded question, I asked her if she wanted to take some sexy photos for you."
-    sy "Since I didn't know how to answer that loaded question, I asked her if she wanted to take some sexy photos for you."
+    sy "O yüklü soruyu nasıl cevaplayacağımı bilmediğim için, senin için seksi fotoğraflar çekmek isteyip istemediğini sordum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:211
 translate turkish sm1cs_ns014_studio_3ffc1030:
 
     # sy "Because you've been working so hard."
-    sy "Because you've been working so hard."
+    sy "Çünkü çok çalışıyorsun."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:214
 translate turkish sm1cs_ns014_studio_716019b8:
 
     # mc "Right."
-    mc "Right."
+    mc "Doğru."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:215
 translate turkish sm1cs_ns014_studio_fafbfb54:
 
     # mc "Good thinking."
-    mc "Good thinking."
+    mc "İyi düşünmüşsün."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:218
 translate turkish sm1cs_ns014_studio_7a2d5fe8:
 
     # ns "Were you surprised, [mcname]."
-    ns "Were you surprised, [mcname]."
+    ns "Şaşırdın mı, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:221
 translate turkish sm1cs_ns014_studio_fbeffde4:
 
     # mc "You could say that."
-    mc "You could say that."
+    mc "Öyle diyebilirsin."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:224
 translate turkish sm1cs_ns014_studio_962fabbf:
 
     # ns "I wanted to make something nice for you because you let me stay here."
-    ns "I wanted to make something nice for you because you let me stay here."
+    ns "Burada kalmama izin verdiğin için senin için güzel bir şey yapmak istedim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:225
 translate turkish sm1cs_ns014_studio_bfb70bb7:
 
     # ns "And I knew you'd be working hard to get out of Orbix today."
-    ns "And I knew you'd be working hard to get out of Orbix today."
+    ns "Ve bugün Orbix'ten çıkmak için çok çalışacağını biliyordum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:229
 translate turkish sm1cs_ns014_studio_10b37829:
 
     # mc "I love it. It's a really nice idea, Nari."
-    mc "I love it. It's a really nice idea, Nari."
+    mc "Bayıldım. Gerçekten güzel bir fikir, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:234
 translate turkish sm1cs_ns014_studio_7e519a82:
 
     # mc "I'm thinking I'll have to make a surprise for you later."
-    mc "I'm thinking I'll have to make a surprise for you later."
+    mc "Sanırım sonra senin için bir sürpriz yapmam gerekecek."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:236
 translate turkish sm1cs_ns014_studio_3a9ce697:
 
     # ns "Ooooh. I like the sound of that."
-    ns "Ooooh. I like the sound of that."
+    ns "Ooooh. Bunun kulağa nasıl geldiğini sevdim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:241
 translate turkish sm1cs_ns014_studio_15b52eca:
 
     # sy "Here, you take over, [mcname].{w} You can be the director for a little."
-    sy "Here, you take over, [mcname].{w} You can be the director for a little."
+    sy "İşte, sen devral, [mcname].{w} Biraz yönetmen olabilirsin."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:244
 translate turkish sm1cs_ns014_studio_2c2508f3:
 
     # sy "Now. How would you like to see us?"
-    sy "Now. How would you like to see us?"
+    sy "Şimdi. Bizi nasıl görmek istersin?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:247
 translate turkish sm1cs_ns014_studio_6e752c17:
 
     # ns "I think I know the answer to that question."
-    ns "I think I know the answer to that question."
+    ns "Sanırım bu sorunun cevabını biliyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:248
 translate turkish sm1cs_ns014_studio_b2f6f0d8:
