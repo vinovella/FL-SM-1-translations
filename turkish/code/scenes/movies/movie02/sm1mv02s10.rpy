@@ -121,7 +121,7 @@ translate turkish sm1mv02s10_ce1d63f6:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:162
 translate turkish sm1mv02s10_ecf61e0e:
 
-    # mc "Come on."
+    # mc "Hadi ama."
     mc "Hadi ama."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:163
@@ -277,7 +277,7 @@ translate turkish sm1mv02s10_d59c8da4:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:249
 translate turkish sm1mv02s10_25069130:
 
-    # sy "Oh yeah."
+    # sy "Oh evet."
     sy "Oh evet."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:251
@@ -559,7 +559,7 @@ translate turkish sm1mv02s10_continue_21e673d7:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:423
 translate turkish sm1mv02s10_continue_e1b71c15:
 
-    # sy "Awesome."
+    # sy "Harika."
     sy "Harika."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:426
@@ -589,7 +589,7 @@ translate turkish sm1mv02s10_continue_27069204:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:443
 translate turkish sm1mv02s10_continue_bf64d622:
 
-    # ns "Yes."
+    # ns "Evet."
     ns "Evet."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:446
@@ -1111,7 +1111,7 @@ translate turkish sm1mv02s10_sex_84109df4:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:746
 translate turkish sm1mv02s10_sex_65ef56f9:
 
-    # mes "Right there."
+    # mes "Tam orası."
     mes "Tam orası."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:747
