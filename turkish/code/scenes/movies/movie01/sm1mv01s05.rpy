@@ -1010,19 +1010,19 @@ translate turkish sm1mv01s05_start_shoot_d125c2e2:
 translate turkish sm1mv01s05_start_shoot_c05edca6:
 
     # tl "Tell me it's the best you ever had."
-    tl "Tell me it's the best you ever had."
+    tl "Bana yaşadığın en iyi deneyim olduğunu söyle."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:714
 translate turkish sm1mv01s05_start_shoot_01d6ae68:
 
     # mc "Hah. Not even close."
-    mc "Hah. Not even close."
+    mc "Hah. Yakınından bile geçmez."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:718
 translate turkish sm1mv01s05_start_shoot_6fd8deaf:
 
     # tl "*aggressive sucking*"
-    tl "*aggressive sucking*"
+    tl "*agresif emme*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:719
 translate turkish sm1mv01s05_start_shoot_c2b0fbed:
@@ -1034,13 +1034,13 @@ translate turkish sm1mv01s05_start_shoot_c2b0fbed:
 translate turkish sm1mv01s05_start_shoot_4338fb9e:
 
     # tl "Really?"
-    tl "Really?"
+    tl "Gerçekten mi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:726
 translate turkish sm1mv01s05_start_shoot_76a8ee8c:
 
     # mc "Maybe closer than I'd like."
-    mc "Maybe closer than I'd like."
+    mc "Belki istediğimden daha yakın."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:731
 translate turkish sm1mv01s05_start_shoot_a02722c0:
@@ -1052,19 +1052,19 @@ translate turkish sm1mv01s05_start_shoot_a02722c0:
 translate turkish sm1mv01s05_start_shoot_e256c479:
 
     # tl "Kalyspso's tits."
-    tl "Kalyspso's tits."
+    tl "Kalyspso'nun göğüsleri."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:736
 translate turkish sm1mv01s05_start_shoot_2ef13c70:
 
     # tl "It feels bigger inside."
-    tl "It feels bigger inside."
+    tl "İçeride daha büyük hissettiriyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:743
 translate turkish sm1mv01s05_start_shoot_47052f55:
 
     # tl "*moaning loudly*"
-    tl "*moaning loudly*"
+    tl "*yüksek sesle inleme*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:746
 translate turkish sm1mv01s05_start_shoot_c1d7a7de:
@@ -1076,91 +1076,91 @@ translate turkish sm1mv01s05_start_shoot_c1d7a7de:
 translate turkish sm1mv01s05_start_shoot_34b8d935:
 
     # mc "If I wanted to, I could fuck the secret of the map out of you"
-    mc "If I wanted to, I could fuck the secret of the map out of you"
+    mc "İsteseydim, haritanın sırrını senden çıkarabilirdim"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:752
 translate turkish sm1mv01s05_start_shoot_3d33cd77:
 
     # tl "Why Captain Dickhart..."
-    tl "Why Captain Dickhart..."
+    tl "Neden Kaptan Dickhart..."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:753
 translate turkish sm1mv01s05_start_shoot_d17c0549:
 
     # tl "You could certainly try..."
-    tl "You could certainly try..."
+    tl "Kesinlikle deneyebilirsin..."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:756
 translate turkish sm1mv01s05_start_shoot_1b5c5dc5:
 
     # tl "But I'm not some virgin from a tobacco farm."
-    tl "But I'm not some virgin from a tobacco farm."
+    tl "Ama ben tütün çiftliğinden bir bakire değilim."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:757
 translate turkish sm1mv01s05_start_shoot_7ca85874:
 
     # tl "I'm a pirate."
-    tl "I'm a pirate."
+    tl "Ben bir korsanım."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:762
 translate turkish sm1mv01s05_start_shoot_8d4a927c:
 
     # tl "And I haven't come this far-huaah... without learning a few tricks."
-    tl "And I haven't come this far-huaah... without learning a few tricks."
+    tl "Ve birkaç numara öğrenmeden bu kadar ileri-huaah... gelmedim."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:763
 translate turkish sm1mv01s05_start_shoot_f98daaa6:
 
     # mc "Then I do think... *grunts* We'll get along swimingly."
-    mc "Then I do think... *grunts* We'll get along swimingly."
+    mc "O zaman düşünüyorum ki... *homurdanma* Harika anlaşacağız."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:764
 translate turkish sm1mv01s05_start_shoot_7b889b31:
 
     # tl "Aye... a great- Fukhaah-huaah... Partnership-huaaaah!"
-    tl "Aye... a great- Fukhaah-huaah... Partnership-huaaaah!"
+    tl "Evet... harika bir- Fukhaah-huaah... Ortaklık-huaaaah!"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:772
 translate turkish sm1mv01s05_start_shoot_ddac7206:
 
     # mc "Huah... Fuck."
-    mc "Huah... Fuck."
+    mc "Huah... Siktir."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:777
 translate turkish sm1mv01s05_start_shoot_cc7a0232:
 
     # tl "By the powers-rriaaha!"
-    tl "By the powers-rriaaha!"
+    tl "Tüm güçler adına-rriaaha!"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:778
 translate turkish sm1mv01s05_start_shoot_348ab2a7:
 
     # tl "Oh... oh... yeah... give it to me."
-    tl "Oh... oh... yeah... give it to me."
+    tl "Oh... oh... evet... ver bana."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:783
 translate turkish sm1mv01s05_start_shoot_502443ad:
 
     # tl "Oh... you great stallion...."
-    tl "Oh... you great stallion...."
+    tl "Oh... seni muhteşem aygır...."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:784
 translate turkish sm1mv01s05_start_shoot_ba7c8d0d:
 
     # tl "Heave... to... *panting and moaning*"
-    tl "Heave... to... *panting and moaning*"
+    tl "Devam et... *nefes nefese ve inleme*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:785
 translate turkish sm1mv01s05_start_shoot_2fc05963:
 
     # tl "*panting* I'm getting so close."
-    tl "*panting* I'm getting so close."
+    tl "*nefes nefese* Çok yaklaşıyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:791
 translate turkish sm1mv01s05_start_shoot_6ad74559:
 
     # mc "Blast.... I'm nearly there!"
-    mc "Blast.... I'm nearly there!"
+    mc "Lanet olsun.... Neredeyse oradayım!"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:792
 translate turkish sm1mv01s05_start_shoot_5dbe1b4f:
@@ -1172,7 +1172,7 @@ translate turkish sm1mv01s05_start_shoot_5dbe1b4f:
 translate turkish sm1mv01s05_start_shoot_cf34c512:
 
     # mc "Hell's bells!"
-    mc "Hell's bells!"
+    mc "Cehennemin çanları!"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:796
 translate turkish sm1mv01s05_start_shoot_35ca15cc:
@@ -1184,19 +1184,19 @@ translate turkish sm1mv01s05_start_shoot_35ca15cc:
 translate turkish sm1mv01s05_start_shoot_980ca240:
 
     # tl "Perhaps... *moans* your legend isn't completely unearned..."
-    tl "Perhaps... *moans* your legend isn't completely unearned..."
+    tl "Belki de... *inleme* efsanen tamamen haksız değil..."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:802
 translate turkish sm1mv01s05_start_shoot_2c2bd4b7:
 
     # mc "Hmmph. Sounds like I need to batten your hatches some more."
-    mc "Hmmph. Sounds like I need to batten your hatches some more."
+    mc "Hmmph. Görünüşe göre ambarlarını biraz daha sıkıştırmam gerekiyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:805
 translate turkish sm1mv01s05_start_shoot_1c07c621:
 
     # tl "*deep breath* Oh god!"
-    tl "*deep breath* Oh god!"
+    tl "*derin nefes* Tanrım!"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:806
 translate turkish sm1mv01s05_start_shoot_47bad8bd:
@@ -1238,97 +1238,97 @@ translate turkish sm1mv01s05_start_shoot_b3f15ec2:
 translate turkish sm1mv01s05_start_shoot_136d6bc0:
 
     # mc "*shallow breathing*"
-    mc "*shallow breathing*"
+    mc "*sığ nefes alma*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:831
 translate turkish sm1mv01s05_start_shoot_0b082b6a:
 
     # mc "Swallow it, my sexy sea-wench."
-    mc "Swallow it, my sexy sea-wench."
+    mc "Yut onu, seksi deniz sürtüğüm."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:835
 translate turkish sm1mv01s05_start_shoot_cdb5f6e5:
 
     # tl "*gulps*"
-    tl "*gulps*"
+    tl "*yutkunma*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:841
 translate turkish sm1mv01s05_start_shoot_ea9a0719:
 
     # tl "Take care, Captain."
-    tl "Take care, Captain."
+    tl "Dikkatli ol, Kaptan."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:842
 translate turkish sm1mv01s05_start_shoot_ffa3b1f6:
 
     # tl "I am a lady, and if you treat me so rough, I'll have you do the {i}swallowing{/i} next time."
-    tl "I am a lady, and if you treat me so rough, I'll have you do the {i}swallowing{/i} next time."
+    tl "Ben bir leydiim ve bana bu kadar sert davranırsan, bir dahaki sefere {i}yutanın{/i} sen olacaksın."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:845
 translate turkish sm1mv01s05_start_shoot_5d4ef525:
 
     # mc "Heh. Don't act like you don't like it."
-    mc "Heh. Don't act like you don't like it."
+    mc "Heh. Sevmiyormuş gibi davranma."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:849
 translate turkish sm1mv01s05_start_shoot_f55e8567:
 
     # tl "So, do we have an accord?"
-    tl "So, do we have an accord?"
+    tl "Peki, anlaştık mı?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:850
 translate turkish sm1mv01s05_start_shoot_9065c262:
 
     # tl "We'll make way for the treasure at first light, and damn Tempestra or anyone else who dares get in our way."
-    tl "We'll make way for the treasure at first light, and damn Tempestra or anyone else who dares get in our way."
+    tl "İlk ışıkta hazineye doğru yola çıkacağız ve lanet olsun Tempestra'ya ve yolumuza çıkmaya cesaret eden herkese."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:853
 translate turkish sm1mv01s05_start_shoot_7bf49bc3:
 
     # mc "Aye. I've been meaning to find the next job for me crew."
-    mc "Aye. I've been meaning to find the next job for me crew."
+    mc "Evet. Mürettebatım için bir sonraki işi bulmayı düşünüyordum."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:854
 translate turkish sm1mv01s05_start_shoot_a9ee2346:
 
     # mc "And a suicide mission is always good to trim the lard."
-    mc "And a suicide mission is always good to trim the lard."
+    mc "Ve bir intihar görevi fazlalıkları ayıklamak için her zaman iyidir."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:858
 translate turkish sm1mv01s05_start_shoot_bacc6125:
 
     # sy "Trim the lard?"
-    sy "Trim the lard?"
+    sy "Fazlalıkları ayıklamak mı?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:859
 translate turkish sm1mv01s05_start_shoot_774ed30e:
 
     # sy "That's not in the script."
-    sy "That's not in the script."
+    sy "Bu senaryoda yok."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:862
 translate turkish sm1mv01s05_start_shoot_ded289a3:
 
     # mc "I don't know. It felt right in the moment."
-    mc "I don't know. It felt right in the moment."
+    mc "Bilmiyorum. O anda doğru geldi."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:863
 translate turkish sm1mv01s05_start_shoot_5048497b:
 
     # mc "Very \"dastardly\" captain."
-    mc "Very \"dastardly\" captain."
+    mc "Çok \"alçakça\" bir kaptan."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:867
 translate turkish sm1mv01s05_start_shoot_648f7801:
 
     # sy "Kanya, what's your take?"
-    sy "Kanya, what's your take?"
+    sy "Kanya, sen ne düşünüyorsun?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:870
 translate turkish sm1mv01s05_start_shoot_4365e6b2:
 
     # kv "It's a bit weird, but then again, themed pornos always get a little goofy now and then."
-    kv "It's a bit weird, but then again, themed pornos always get a little goofy now and then."
+    kv "Biraz garip ama temali pornolar zaman zaman biraz saçma olur."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:873
 translate turkish sm1mv01s05_start_shoot_d1cdbe69:
@@ -1340,37 +1340,37 @@ translate turkish sm1mv01s05_start_shoot_d1cdbe69:
 translate turkish sm1mv01s05_start_shoot_0bba2cf3:
 
     # tl "Either cut it or keep it."
-    tl "Either cut it or keep it."
+    tl "Ya kes ya da tut."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:877
 translate turkish sm1mv01s05_start_shoot_8d961d82:
 
     # tl "I need a shower soon."
-    tl "I need a shower soon."
+    tl "Yakında bir duş almam gerekiyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:880
 translate turkish sm1mv01s05_start_shoot_978c6ff3:
 
     # sy "Your call, [mcname]."
-    sy "Your call, [mcname]."
+    sy "Karar senin, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:881
 translate turkish sm1mv01s05_start_shoot_39600b40:
 
     # sy "Still want to keep the line?"
-    sy "Still want to keep the line?"
+    sy "Hala repliği tutmak istiyor musun?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:887
 translate turkish sm1mv01s05_start_shoot_43829334:
 
     # mc "I like it. We should keep it."
-    mc "I like it. We should keep it."
+    mc "Beğendim. Tutmalıyız."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:890
 translate turkish sm1mv01s05_start_shoot_7e9a31d3:
 
     # sy "Aye aye."
-    sy "Aye aye."
+    sy "Emredersiniz."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:891
 translate turkish sm1mv01s05_start_shoot_505be050:
@@ -1382,19 +1382,19 @@ translate turkish sm1mv01s05_start_shoot_505be050:
 translate turkish sm1mv01s05_start_shoot_e3b33503:
 
     # mc "Nah. You're right."
-    mc "Nah. You're right."
+    mc "Hayır. Haklısın."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:897
 translate turkish sm1mv01s05_start_shoot_9663d64f:
 
     # mc "We should cut the line."
-    mc "We should cut the line."
+    mc "Repliği kesmeliyiz."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:900
 translate turkish sm1mv01s05_start_shoot_0357c851:
 
     # sy "Okay."
-    sy "Okay."
+    sy "Tamam."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:901
 translate turkish sm1mv01s05_start_shoot_505be050_1:
@@ -1472,133 +1472,133 @@ translate turkish sm1mv01s05_start_shoot_660ce80f:
 translate turkish sm1mv01s05_start_shoot_55521b79:
 
     # tl "Or fiction... about the great Captain Dickhart..."
-    tl "Or fiction... about the great Captain Dickhart..."
+    tl "Ya da kurgu... büyük Kaptan Dickhart hakkında..."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:942
 translate turkish sm1mv01s05_shoot_end_b6a49aa4:
 
     # sy "And cut."
-    sy "And cut."
+    sy "Ve kes."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:945
 translate turkish sm1mv01s05_shoot_end_0c054906:
 
     # mc "Phew."
-    mc "Phew."
+    mc "Uff."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:948
 translate turkish sm1mv01s05_shoot_end_944940ff:
 
     # sy "Great job, you two!"
-    sy "Great job, you two!"
+    sy "Harika iş, ikiniz de!"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:951
 translate turkish sm1mv01s05_shoot_end_f3103fbb:
 
     # kv "Excellent work."
-    kv "Excellent work."
+    kv "Mükemmel iş."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:952
 translate turkish sm1mv01s05_shoot_end_a5d30201:
 
     # kv "I'm glad we're finishing up. I was getting so horny watching you."
-    kv "I'm glad we're finishing up. I was getting so horny watching you."
+    kv "Bitirdiğimize sevindim. Sizi izlerken çok azgınlaştım."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:955
 translate turkish sm1mv01s05_shoot_end_d47ba650:
 
     # sy "Tell me about it."
-    sy "Tell me about it."
+    sy "Bana anlatma."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:956
 translate turkish sm1mv01s05_shoot_end_d68b43fd:
 
     # sy "We'll have to make sure there is no camera shaking when we do the editing."
-    sy "We'll have to make sure there is no camera shaking when we do the editing."
+    sy "Düzenleme yaparken kameranın sallanmadığından emin olmalıyız."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:959
 translate turkish sm1mv01s05_shoot_end_dc2cbc71:
 
     # mc "Yeah. Really good stuff, Taisia."
-    mc "Yeah. Really good stuff, Taisia."
+    mc "Evet. Gerçekten iyi işti, Taisia."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:962
 translate turkish sm1mv01s05_shoot_end_1e28cb0d:
 
     # tl "Same."
-    tl "Same."
+    tl "Aynı şekilde."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:966
 translate turkish sm1mv01s05_shoot_end_16b1aea8:
 
     # tl "I take it we've improved a lot since our first outing?"
-    tl "I take it we've improved a lot since our first outing?"
+    tl "İlk çekimimizden beri çok geliştiğimizi düşünüyorum?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:969
 translate turkish sm1mv01s05_shoot_end_137d5357:
 
     # sy "Oh yeah. My panties are drenched."
-    sy "Oh yeah. My panties are drenched."
+    sy "Oh evet. Külotum sırılsıklam oldu."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:970
 translate turkish sm1mv01s05_shoot_end_71aa8a68:
 
     # sy "I think people are going to get hooked with this meetup."
-    sy "I think people are going to get hooked with this meetup."
+    sy "Sanırım insanlar bu buluşmaya kapılacaklar."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:973
 translate turkish sm1mv01s05_shoot_end_67228bcd:
 
     # kv "It's not meet-cute."
-    kv "It's not meet-cute."
+    kv "Şirin bir tanışma değil."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:974
 translate turkish sm1mv01s05_shoot_end_aeea474c:
 
     # kv "But it's certainly a meet-fuck that gives people something hot to fap to, while also adding some intrigue."
-    kv "But it's certainly a meet-fuck that gives people something hot to fap to, while also adding some intrigue."
+    kv "Ama kesinlikle insanlara otuzbir çekecek sıcak bir şey sunan ve biraz da entrika ekleyen bir tanış-sikiş."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:977
 translate turkish sm1mv01s05_shoot_end_82cfef52:
 
     # mc "Awesome."
-    mc "Awesome."
+    mc "Harika."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:978
 translate turkish sm1mv01s05_shoot_end_bb48cad6:
 
     # mc "One down."
-    mc "One down."
+    mc "Bir tane bitti."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:981
 translate turkish sm1mv01s05_shoot_end_8264c1d3:
 
     # sy "Three to go, Captain."
-    sy "Three to go, Captain."
+    sy "Üç tane daha var, Kaptan."
 
 translate turkish strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s05.rpy:78
     old "Grope Taisia"
-    new "Grope Taisia"
+    new "Taisia'yı ellemeye çalış"
 
     # game/code/scenes/movies/movie01/sm1mv01s05.rpy:78
     old "Focus on the work"
-    new "Focus on the work"
+    new "İşe odaklan"
 
     # game/code/scenes/movies/movie01/sm1mv01s05.rpy:207
     old "I'm glad you remembered"
-    new "I'm glad you remembered"
+    new "Hatırladığına sevindim"
 
     # game/code/scenes/movies/movie01/sm1mv01s05.rpy:207
     old "Right"
-    new "Right"
+    new "Doğru"
 
     # game/code/scenes/movies/movie01/sm1mv01s05.rpy:882
     old "Keep the lard line"
-    new "Keep the lard line"
+    new "Fazlalık repliğini tut"
 
     # game/code/scenes/movies/movie01/sm1mv01s05.rpy:882
     old "Cut the line"
-    new "Cut the line"
+    new "Repliği kes"
 
