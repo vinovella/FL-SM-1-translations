@@ -950,85 +950,85 @@ translate turkish sm1mv02s10_continue_d0b7679c:
 translate turkish sm1mv02s10_continue_a4535165:
 
     # mes "Sure... 'fun'..."
-    mes "Sure... 'fun'..."
+    mes "Tabii... 'eğlence'..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:643
 translate turkish sm1mv02s10_continue_281c06dd:
 
     # mh "You never switch off, do you, Captain?"
-    mh "You never switch off, do you, Captain?"
+    mh "Hiç kapanmıyorsun, değil mi Kaptan?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:646
 translate turkish sm1mv02s10_continue_3010248a:
 
     # mc "You never know when trouble may find us, Spectre."
-    mc "You never know when trouble may find us, Spectre."
+    mc "Başımıza ne zaman bela geleceği belli olmaz, Spectre."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:647
 translate turkish sm1mv02s10_continue_4966e15a:
 
     # mc "A good captain knows that he must make room for love whenever possible."
-    mc "A good captain knows that he must make room for love whenever possible."
+    mc "İyi bir kaptan, mümkün olduğunda aşka yer açması gerektiğini bilir."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:651
 translate turkish sm1mv02s10_continue_e9d92712:
 
     # mh "Well... you're not wrong about that."
-    mh "Well... you're not wrong about that."
+    mh "Şey... bu konuda haksız sayılmazsın."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:655
 translate turkish sm1mv02s10_continue_30e7aecb:
 
     # ns "[mcname]. I was wondering, if we could start. You and I?"
-    ns "[mcname]. I was wondering, if we could start. You and I?"
+    ns "[mcname]. Merak ediyordum, başlayabilir miyiz. Sen ve ben?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:658
 translate turkish sm1mv02s10_continue_a7a01cde:
 
     # ns "I mean, I was the main co-star in the movie after all..."
-    ns "I mean, I was the main co-star in the movie after all..."
+    ns "Yani, sonuçta filmde başrol oyuncusuydum..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:662
 translate turkish sm1mv02s10_continue_724d7611:
 
     # mes "Haha. Sneaky Nari."
-    mes "Haha. Sneaky Nari."
+    mes "Haha. Sinsi Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:666
 translate turkish sm1mv02s10_continue_9389e99e:
 
     # mh "I knew I should have just ripped his pants off.."
-    mh "I knew I should have just ripped his pants off.."
+    mh "Pantolonunu yırtmam gerektiğini biliyordum.."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:669
 translate turkish sm1mv02s10_continue_c1a77cd4:
 
     # sy "It's always the quiet ones."
-    sy "It's always the quiet ones."
+    sy "Her zaman sessiz olanlar yapar."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:673
 translate turkish sm1mv02s10_continue_d4b4336e:
 
     # ns "I am not quiet. Am I, [mcname]?"
-    ns "I am not quiet. Am I, [mcname]?"
+    ns "Ben sessiz değilim. Değil miyim, [mcname]?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:675
 translate turkish sm1mv02s10_continue_560265ea:
 
     # mc "No. And especially not when I'm with you."
-    mc "No. And especially not when I'm with you."
+    mc "Hayır. Özellikle seninleyken değil."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:686
 translate turkish sm1mv02s10_sex_05c551a7:
 
     # mc "Ready, Nari?"
-    mc "Ready, Nari?"
+    mc "Hazır mısın, Nari?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:689
 translate turkish sm1mv02s10_sex_3578d568:
 
     # ns "I got wet the moment the first naughty scene played out on the screen."
-    ns "I got wet the moment the first naughty scene played out on the screen."
+    ns "Ekranda ilk yaramaz sahne oynandığı anda ıslandım."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:693
 translate turkish sm1mv02s10_sex_056c22a6:
@@ -1040,25 +1040,25 @@ translate turkish sm1mv02s10_sex_056c22a6:
 translate turkish sm1mv02s10_sex_f1e7498f:
 
     # ns "I've been waiting for the real thing all night-huaah!"
-    ns "I've been waiting for the real thing all night-huaah!"
+    ns "Bütün gece gerçeğini bekliyordum-huaah!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:701
 translate turkish sm1mv02s10_sex_7f656013:
 
     # ns "Muhaah... I knew having sex without body paint on would feel better."
-    ns "Muhaah... I knew having sex without body paint on would feel better."
+    ns "Muhaah... Vücut boyası olmadan seks yapmanın daha iyi hissettireceğini biliyordum."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:703
 translate turkish sm1mv02s10_sex_7189ffd0:
 
     # mc "But you would do it again if the Doctor returned. Right?"
-    mc "But you would do it again if the Doctor returned. Right?"
+    mc "Ama Doktor geri dönerse tekrar yapardın. Değil mi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:706
 translate turkish sm1mv02s10_sex_0b917359:
 
     # ns "Nua-hhuah... Keep going... and we'll see."
-    ns "Nua-hhuah... Keep going... and we'll see."
+    ns "Nua-hhuah... Devam et... göreceğiz."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:707
 translate turkish sm1mv02s10_sex_faa03e1a:
@@ -1070,19 +1070,19 @@ translate turkish sm1mv02s10_sex_faa03e1a:
 translate turkish sm1mv02s10_sex_62a5cbb9:
 
     # ns "Oh god. I didn't imagine that I would be watched while having sex at a watch party."
-    ns "Oh god. I didn't imagine that I would be watched while having sex at a watch party."
+    ns "Tanrım. Bir izleme partisinde seks yaparken izleneceğimi hayal etmemiştim."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:711
 translate turkish sm1mv02s10_sex_4b204a98:
 
     # mc "Nurah... you can knock another one off the list."
-    mc "Nurah... you can knock another one off the list."
+    mc "Nurah... listeden bir tanesini daha çıkarabilirsin."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:716
 translate turkish sm1mv02s10_sex_d235d41d:
 
     # ns "Huah... list? Ohua... fuahah..."
-    ns "Huah... list? Ohua... fuahah..."
+    ns "Huah... liste mi? Ohua... fuahah..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:717
 translate turkish sm1mv02s10_sex_3a56a48f:
@@ -1094,73 +1094,73 @@ translate turkish sm1mv02s10_sex_3a56a48f:
 translate turkish sm1mv02s10_sex_86c6c781:
 
     # sy "Looks like someone is about to jump to lightspeed."
-    sy "Looks like someone is about to jump to lightspeed."
+    sy "Görünüşe göre biri ışık hızına atlamak üzere."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:731
 translate turkish sm1mv02s10_sex_e5b71152:
 
     # ns "[mcname]-iihuah-yah... YES!!!"
-    ns "[mcname]-iihuah-yah... YES!!!"
+    ns "[mcname]-iihuah-yah... EVET!!!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:739
 translate turkish sm1mv02s10_sex_84109df4:
 
     # mes "Mmrruh... oh fuck."
-    mes "Mmrruh... oh fuck."
+    mes "Mmrruh... oh siktir."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:746
 translate turkish sm1mv02s10_sex_65ef56f9:
 
     # mes "Right there."
-    mes "Right there."
+    mes "Tam orası."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:747
 translate turkish sm1mv02s10_sex_e5e6c31f:
 
     # mes "You really are a big pervert aren't you."
-    mes "You really are a big pervert aren't you."
+    mes "Gerçekten büyük bir sapıksın, değil mi."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:755
 translate turkish sm1mv02s10_sex_dbcb35d4:
 
     # mes "Having sex in front of your roommate, and your sister."
-    mes "Having sex in front of your roommate, and your sister."
+    mes "Oda arkadaşının ve kız kardeşinin önünde seks yapmak."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:757
 translate turkish sm1mv02s10_sex_8304e355:
 
     # mes "Having sex in front of your roommate, and Stacy."
-    mes "Having sex in front of your roommate, and Stacy."
+    mes "Oda arkadaşının ve Stacy'nin önünde seks yapmak."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:758
 translate turkish sm1mv02s10_sex_ce42a790:
 
     # mc "Nraah... I wasn't waways such a big pervert."
-    mc "Nraah... I wasn't waways such a big pervert."
+    mc "Nraah... Her zaman bu kadar büyük bir sapık değildim."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:759
 translate turkish sm1mv02s10_sex_47536980:
 
     # mc "I had many friends helping me become something special."
-    mc "I had many friends helping me become something special."
+    mc "Özel biri olmama yardımcı olan birçok arkadaşım vardı."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:768
 translate turkish sm1mv02s10_sex_e2a8802b:
 
-    # mes "Nuraah... I'm... Niaah...{w} Glad I could play a role-huaaah!"
-    mes "Nuraah... I'm... Niaah...{w} Glad I could play a role-huaaah!"
+    # mes "Nuraah... Ben... Niaah...{w} Bir rol oynayabildiğim için mutluyum-huaaah!"
+    mes "Nuraah... Ben... Niaah...{w} Bir rol oynayabildiğim için mutluyum-huaaah!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:775
 translate turkish sm1mv02s10_sex_147173f6:
 
-    # mes "Awhua-fuck... You're hitting that perfect spot, [mcname]!"
-    mes "Awhua-fuck... You're hitting that perfect spot, [mcname]!"
+    # mes "Awhua-siktir... O mükemmel noktaya vuruyorsun, [mcname]!"
+    mes "Awhua-siktir... O mükemmel noktaya vuruyorsun, [mcname]!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:776
 translate turkish sm1mv02s10_sex_173fde24:
 
-    # mc "Min. I'm getting close."
-    mc "Min. I'm getting close."
+    # mc "Min. Yaklaşıyorum."
+    mc "Min. Yaklaşıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:785
 translate turkish sm1mv02s10_sex_73386611:
@@ -1183,74 +1183,74 @@ translate turkish sm1mv02s10_sex_5444461f:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:804
 translate turkish sm1mv02s10_sex_46bf3754:
 
-    # mes "Mrrmmm... Yesss..."
-    mes "Mrrmmm... Yesss..."
+    # mes "Mrrmmm... Eveettt..."
+    mes "Mrrmmm... Eveettt..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:824
 translate turkish sm1mv02s10_sex_fd1c5ded:
 
-    # mc "Your turn, Lyssa."
-    mc "Your turn, Lyssa."
+    # mc "Senin sıran, Lyssa."
+    mc "Senin sıran, Lyssa."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:826
 translate turkish sm1mv02s10_sex_937aad9e:
 
-    # mh "I was beginning to think you forgot about me."
-    mh "I was beginning to think you forgot about me."
+    # mh "Beni unuttuğunu düşünmeye başlıyordum."
+    mh "Beni unuttuğunu düşünmeye başlıyordum."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:827
 translate turkish sm1mv02s10_sex_e2395518:
 
-    # mc "Impossible. No captain can fly into the darkness without his sexy science officer."
-    mc "Impossible. No captain can fly into the darkness without his sexy science officer."
+    # mc "İmkansız. Hiçbir kaptan seksi bilim subayı olmadan karanlığa uçamaz."
+    mc "İmkansız. Hiçbir kaptan seksi bilim subayı olmadan karanlığa uçamaz."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:830
 translate turkish sm1mv02s10_sex_e7c1a958:
 
-    # mh "Muaha-huaah... flatterer. Don't you like solo adventures?"
-    mh "Muaha-huaah... flatterer. Don't you like solo adventures?"
+    # mh "Muaha-huaah... yaltakçı. Solo maceraları sevmez misin?"
+    mh "Muaha-huaah... yaltakçı. Solo maceraları sevmez misin?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:831
 translate turkish sm1mv02s10_sex_95838639:
 
-    # mc "Maybe once. Now I've moved beyond them."
-    mc "Maybe once. Now I've moved beyond them."
+    # mc "Belki bir zamanlar. Şimdi onları geride bıraktım."
+    mc "Belki bir zamanlar. Şimdi onları geride bıraktım."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:832
 translate turkish sm1mv02s10_sex_aa946a8f:
 
-    # mh "*desperate moaning*"
-    mh "*desperate moaning*"
+    # mh "*çaresizce inleme*"
+    mh "*çaresizce inleme*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:843
 translate turkish sm1mv02s10_sex_d2986c36:
 
-    # mc "Did you enjoy exploring strange new worlds with me?"
-    mc "Did you enjoy exploring strange new worlds with me?"
+    # mc "Benimle garip yeni dünyaları keşfetmekten hoşlandın mı?"
+    mc "Benimle garip yeni dünyaları keşfetmekten hoşlandın mı?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:844
 translate turkish sm1mv02s10_sex_76509bac:
 
-    # mh "I think you know I did."
-    mh "I think you know I did."
+    # mh "Bence bunu biliyorsun."
+    mh "Bence bunu biliyorsun."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:845
 translate turkish sm1mv02s10_sex_e603ebff:
 
-    # mh "I uh... I quite liked playing the role."
-    mh "I uh... I quite liked playing the role."
+    # mh "Ben uh... Rolü oynamayı çok sevdim."
+    mh "Ben uh... Rolü oynamayı çok sevdim."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:848
 translate turkish sm1mv02s10_sex_7aa29cfc:
 
-    # mh "Muaah-fraaaauh... I could even do it again..."
-    mh "Muaah-fraaaauh... I could even do it again..."
+    # mh "Muaah-fraaaauh... Tekrar bile yapabilirim..."
+    mh "Muaah-fraaaauh... Tekrar bile yapabilirim..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:849
 translate turkish sm1mv02s10_sex_02f28023:
 
-    # mh "You know... if you thought there was a hole I could fill."
-    mh "You know... if you thought there was a hole I could fill."
+    # mh "Biliyorsun... doldurabileceğim bir delik olduğunu düşünürsen."
+    mh "Biliyorsun... doldurabileceğim bir delik olduğunu düşünürsen."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:850
 translate turkish sm1mv02s10_sex_eef67037:
@@ -1261,8 +1261,8 @@ translate turkish sm1mv02s10_sex_eef67037:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:862
 translate turkish sm1mv02s10_sex_50e40433:
 
-    # mh "*moaning wildly*"
-    mh "*moaning wildly*"
+    # mh "*vahşice inleme*"
+    mh "*vahşice inleme*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:867
 translate turkish sm1mv02s10_sex_95e2f62b:
@@ -1279,8 +1279,8 @@ translate turkish sm1mv02s10_sex_d40fa5f9:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:871
 translate turkish sm1mv02s10_sex_1e5427b6:
 
-    # mct "Got to hold it in."
-    mct "Got to hold it in."
+    # mct "Tutmalıyım."
+    mct "Tutmalıyım."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:874
 translate turkish sm1mv02s10_sex_d0e1e1e3:
@@ -1291,8 +1291,8 @@ translate turkish sm1mv02s10_sex_d0e1e1e3:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:887
 translate turkish sm1mv02s10_sex_e86977de:
 
-    # mc "*panting*"
-    mc "*panting*"
+    # mc "*nefes nefese*"
+    mc "*nefes nefese*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:889
 translate turkish sm1mv02s10_sex_93746866:
@@ -1303,44 +1303,44 @@ translate turkish sm1mv02s10_sex_93746866:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:895
 translate turkish sm1mv02s10_sex_3745c0b8:
 
-    # mh "*gulps*"
-    mh "*gulps*"
+    # mh "*yutuyor*"
+    mh "*yutuyor*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:898
 translate turkish sm1mv02s10_sex_c5592b84:
 
-    # mh "What a juicy offering, Captain."
-    mh "What a juicy offering, Captain."
+    # mh "Ne sulu bir teklif, Kaptan."
+    mh "Ne sulu bir teklif, Kaptan."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:906
 translate turkish sm1mv02s10_sex_86d8dbd5:
 
-    # sy "Hey! Aren't you forgetting about the director?"
-    sy "Hey! Aren't you forgetting about the director?"
+    # sy "Hey! Yönetmeni unutmuyor musun?"
+    sy "Hey! Yönetmeni unutmuyor musun?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:908
 translate turkish sm1mv02s10_sex_45bca86c:
 
-    # mc "Ha-gaah... easy. You're mashing it."
-    mc "Ha-gaah... easy. You're mashing it."
+    # mc "Ha-gaah... yavaş. Eziyorsun."
+    mc "Ha-gaah... yavaş. Eziyorsun."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:911
 translate turkish sm1mv02s10_sex_3123749e:
 
-    # sy "I'm not mashing anything."
-    sy "I'm not mashing anything."
+    # sy "Hiçbir şeyi ezmiyorum."
+    sy "Hiçbir şeyi ezmiyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:913
 translate turkish sm1mv02s10_sex_8e3c5400:
 
-    # mc "Oooh... wee... hiaaa..."
-    mc "Oooh... wee... hiaaa..."
+    # mc "Oooh... vay... hiaaa..."
+    mc "Oooh... vay... hiaaa..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:916
 translate turkish sm1mv02s10_sex_86da6d74:
 
-    # sy "You'd feel if I was-"
-    sy "You'd feel if I was-"
+    # sy "Hissederdin eğer-"
+    sy "Hissederdin eğer-"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:922
 translate turkish sm1mv02s10_sex_bdad02ad:
@@ -1351,26 +1351,26 @@ translate turkish sm1mv02s10_sex_bdad02ad:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:926
 translate turkish sm1mv02s10_sex_ea85ec3a:
 
-    # mc "Maybe we should bring Lieutenant Commander Orion back."
-    mc "Maybe we should bring Lieutenant Commander Orion back."
+    # mc "Belki Yüzbaşı Orion'u geri getirmeliyiz."
+    mc "Belki Yüzbaşı Orion'u geri getirmeliyiz."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:927
 translate turkish sm1mv02s10_sex_374124d7:
 
-    # mc "Give her a nice, long, punishment."
-    mc "Give her a nice, long, punishment."
+    # mc "Ona güzel, uzun bir ceza verelim."
+    mc "Ona güzel, uzun bir ceza verelim."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:930
 translate turkish sm1mv02s10_sex_ef0699d9:
 
-    # sy "She doesn't deserve it."
-    sy "She doesn't deserve it."
+    # sy "Bunu hak etmedi."
+    sy "Bunu hak etmedi."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:931
 translate turkish sm1mv02s10_sex_106a2f75:
 
-    # sy "But you know I don't mind."
-    sy "But you know I don't mind."
+    # sy "Ama biliyorsun sakıncası yok benim için."
+    sy "Ama biliyorsun sakıncası yok benim için."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:935
 translate turkish sm1mv02s10_sex_7b94a579:
@@ -1381,8 +1381,8 @@ translate turkish sm1mv02s10_sex_7b94a579:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:938
 translate turkish sm1mv02s10_sex_1feda36f:
 
-    # sy "Yes... Give it to me, Captain!"
-    sy "Yes... Give it to me, Captain!"
+    # sy "Evet... Ver bana, Kaptan!"
+    sy "Evet... Ver bana, Kaptan!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:941
 translate turkish sm1mv02s10_sex_0e0674fd:
@@ -1393,38 +1393,38 @@ translate turkish sm1mv02s10_sex_0e0674fd:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:942
 translate turkish sm1mv02s10_sex_91ba49d9:
 
-    # sy "So big... B-aahaaah."
-    sy "So big... B-aahaaah."
+    # sy "Çok büyük... B-aahaaah."
+    sy "Çok büyük... B-aahaaah."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:948
 translate turkish sm1mv02s10_sex_e86977de_1:
 
-    # mc "*panting*"
-    mc "*panting*"
+    # mc "*nefes nefese*"
+    mc "*nefes nefese*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:949
 translate turkish sm1mv02s10_sex_e46edc4b:
 
-    # sy "Oh fuck. Fuck fuck... Gaa-huaah."
-    sy "Oh fuck. Fuck fuck... Gaa-huaah."
+    # sy "Oh siktir. Siktir siktir... Gaa-huaah."
+    sy "Oh siktir. Siktir siktir... Gaa-huaah."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:952
 translate turkish sm1mv02s10_sex_fa24d33f:
 
-    # sy "Oh captain my captain. My pussy's shields are failing."
-    sy "Oh captain my captain. My pussy's shields are failing."
+    # sy "Oh kaptanım benim kaptanım. Amımın kalkanları düşüyor."
+    sy "Oh kaptanım benim kaptanım. Amımın kalkanları düşüyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:961
 translate turkish sm1mv02s10_sex_8df8bee6:
 
-    # mc "Mhuaah... so tight. So wet."
-    mc "Mhuaah... so tight. So wet."
+    # mc "Mhuaah... çok dar. Çok ıslak."
+    mc "Mhuaah... çok dar. Çok ıslak."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:964
 translate turkish sm1mv02s10_sex_bb738642:
 
-    # sy "Give me all you've got!"
-    sy "Give me all you've got!"
+    # sy "Elindeki her şeyi ver!"
+    sy "Elindeki her şeyi ver!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:967
 translate turkish sm1mv02s10_sex_d6c6694f:
@@ -1435,26 +1435,26 @@ translate turkish sm1mv02s10_sex_d6c6694f:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:976
 translate turkish sm1mv02s10_sex_613c5268:
 
-    # sy "So fucking good-huaaah!"
-    sy "So fucking good-huaaah!"
+    # sy "Çok sikici iyi-huaaah!"
+    sy "Çok sikici iyi-huaaah!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:983
 translate turkish sm1mv02s10_sex_dbac7194:
 
-    # sy "Time to tag-team our captain, doctor."
-    sy "Time to tag-team our captain, doctor."
+    # sy "Kaptanımıza ikili yapmamın zamanı, doktor."
+    sy "Kaptanımıza ikili yapmamın zamanı, doktor."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:986
 translate turkish sm1mv02s10_sex_749e9ae7:
 
-    # ns "Delighted to, Stacy."
-    ns "Delighted to, Stacy."
+    # ns "Memnuniyetle, Stacy."
+    ns "Memnuniyetle, Stacy."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:988
 translate turkish sm1mv02s10_sex_fa7e1a01:
 
-    # mc "Oh boy."
-    mc "Oh boy."
+    # mc "Oh be."
+    mc "Oh be."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:999
 translate turkish sm1mv02s10_sex_9a0f8a01:
@@ -1465,8 +1465,8 @@ translate turkish sm1mv02s10_sex_9a0f8a01:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1002
 translate turkish sm1mv02s10_sex_ddebf36e:
 
-    # mc "Nrrah... I might have bitten off more than I can chew."
-    mc "Nrrah... I might have bitten off more than I can chew."
+    # mc "Nrrah... Çiğneyebileceğimden fazlasını ısırmış olabilirim."
+    mc "Nrrah... Çiğneyebileceğimden fazlasını ısırmış olabilirim."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1003
 translate turkish sm1mv02s10_sex_a0d6f35b:
@@ -1495,32 +1495,32 @@ translate turkish sm1mv02s10_sex_end_23aa3b29:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1037
 translate turkish sm1mv02s10_sex_end_bead9acf:
 
-    # sy "'Hmmm' what?"
-    sy "'Hmmm' what?"
+    # sy "'Hmmm' ne?"
+    sy "'Hmmm' ne?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1040
 translate turkish sm1mv02s10_sex_end_cb304a34:
 
-    # mes "Just thinking that I can't wait for the next wrap party."
-    mes "Just thinking that I can't wait for the next wrap party."
+    # mes "Sadece bir sonraki final partisini bekleyemeyeceğimi düşünüyordum."
+    mes "Sadece bir sonraki final partisini bekleyemeyeceğimi düşünüyordum."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1043
 translate turkish sm1mv02s10_sex_end_764ce2b9:
 
-    # mes "With a little work, it might be as big as the Fetish Locator parties were..."
-    mes "With a little work, it might be as big as the Fetish Locator parties were..."
+    # mes "Biraz çalışmayla, Fetish Locator partileri kadar büyük olabilir..."
+    mes "Biraz çalışmayla, Fetish Locator partileri kadar büyük olabilir..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1046
 translate turkish sm1mv02s10_sex_end_f5682518:
 
-    # mc "Sounds like the gauntlet has been tossed down."
-    mc "Sounds like the gauntlet has been tossed down."
+    # mc "Eldiven atılmış gibi görünüyor."
+    mc "Eldiven atılmış gibi görünüyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1048
 translate turkish sm1mv02s10_sex_end_0136cad0:
 
-    # mes "Sharp as always, [mcname]..."
-    mes "Sharp as always, [mcname]..."
+    # mes "Her zamanki gibi keskin, [mcname]..."
+    mes "Her zamanki gibi keskin, [mcname]..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1054
 translate turkish sm1mv02s10_sex_end_3e964c88:
@@ -1537,88 +1537,88 @@ translate turkish sm1mv02s10_sex_end_65145fad:
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1058
 translate turkish sm1mv02s10_sex_end_38db7c30:
 
-    # mc "Yeah, Lyssa."
-    mc "Yeah, Lyssa."
+    # mc "Evet, Lyssa."
+    mc "Evet, Lyssa."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1062
 translate turkish sm1mv02s10_sex_end_73ab6b2a:
 
-    # mh "I'm sticky."
-    mh "I'm sticky."
+    # mh "Yapışkanım."
+    mh "Yapışkanım."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1064
 translate turkish sm1mv02s10_sex_end_11ac42a0:
 
-    # mc "Occupational hazard for being so hot."
-    mc "Occupational hazard for being so hot."
+    # mc "Bu kadar seksi olmanın meslek hastalığı."
+    mc "Bu kadar seksi olmanın meslek hastalığı."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1067
 translate turkish sm1mv02s10_sex_end_47c50abe:
 
-    # mh "You know, if all of our watch parties are like this, you're going to have to invest in some stain proof furniture."
-    mh "You know, if all of our watch parties are like this, you're going to have to invest in some stain proof furniture."
+    # mh "Biliyorsun, eğer tüm izleme partilerimiz böyleyse, lekeye dayanıklı mobilyalara yatırım yapman gerekecek."
+    mh "Biliyorsun, eğer tüm izleme partilerimiz böyleyse, lekeye dayanıklı mobilyalara yatırım yapman gerekecek."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1069
 translate turkish sm1mv02s10_sex_end_49e93d71:
 
-    # mc "Not a bad idea."
-    mc "Not a bad idea."
+    # mc "Fena fikir değil."
+    mc "Fena fikir değil."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1072
 translate turkish sm1mv02s10_sex_end_b065b15d:
 
-    # mc "Does that mean you're down to star in more roles?"
-    mc "Does that mean you're down to star in more roles?"
+    # mc "Bu daha fazla rolde oynamaya hazır olduğun anlamına mı geliyor?"
+    mc "Bu daha fazla rolde oynamaya hazır olduğun anlamına mı geliyor?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1075
 translate turkish sm1mv02s10_sex_end_5f6f07ee:
 
-    # mh "You know I'm always here to help you, [mcname]."
-    mh "You know I'm always here to help you, [mcname]."
+    # mh "Sana her zaman yardım etmek için burada olduğumu biliyorsun, [mcname]."
+    mh "Sana her zaman yardım etmek için burada olduğumu biliyorsun, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1076
 translate turkish sm1mv02s10_sex_end_fc020ba6:
 
-    # mh "But more specifically..."
-    mh "But more specifically..."
+    # mh "Ama daha spesifik olarak..."
+    mh "Ama daha spesifik olarak..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1079
 translate turkish sm1mv02s10_sex_end_cd94fc32:
 
-    # mh "Yes{w}, I think I rather enjoyed being a special part of your skinflick feature."
-    mh "Yes{w}, I think I rather enjoyed being a special part of your skinflick feature."
+    # mh "Evet{w}, sanırım porno filminin özel bir parçası olmaktan oldukça keyif aldım."
+    mh "Evet{w}, sanırım porno filminin özel bir parçası olmaktan oldukça keyif aldım."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1082
 translate turkish sm1mv02s10_sex_end_49f56384:
 
-    # mh "And I can't wait to see what you cook up next..."
-    mh "And I can't wait to see what you cook up next..."
+    # mh "Ve bir sonraki işinde ne pişireceğini görmek için sabırsızlanıyorum..."
+    mh "Ve bir sonraki işinde ne pişireceğini görmek için sabırsızlanıyorum..."
 
 translate turkish strings:
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:138
     old "You're overthinking it"
-    new "You're overthinking it"
+    new "Çok fazla düşünüyorsun"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:138
     old "I can guarantee it"
-    new "I can guarantee it"
+    new "Garanti edebilirim"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:138
     old "We gave it our all"
-    new "We gave it our all"
+    new "Elimizden gelenin en iyisini yaptık"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:303
     old "I need to see you in more uniforms"
-    new "I need to see you in more uniforms"
+    new "Seni daha fazla üniformada görmem gerek"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:303
     old "It's cool, but not my favorite"
-    new "It's cool, but not my favorite"
+    new "Güzel, ama favorim değil"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:441
 translate turkish sm1mv02s10_continue_e27903d2:
 
     # mc "You never know. She could definitely bring her 'unique' perspective to other problems the {i}Intrepid{/i} might run into."
-    mc "You never know. She could definitely bring her 'unique' perspective to other problems the {i}Intrepid{/i} might run into."
+    mc "Bilemezsin. {i}Intrepid{/i}'in karşılaşabileceği diğer sorunlara 'benzersiz' bakış açısını kesinlikle getirebilir."
 
