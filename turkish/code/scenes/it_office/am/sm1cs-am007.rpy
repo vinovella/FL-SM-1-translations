@@ -1148,13 +1148,13 @@ translate turkish sm1cs_am007_jogging_continue_7ff1764f:
 translate turkish sm1cs_am007_jogging_continue_7d8c61d1:
 
     # am "Come on, [mcname]."
-    am "Come on, [mcname]."
+    am "Hadi, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:644
 translate turkish sm1cs_am007_jogging_continue_03be9d07:
 
     # am "We're almost halfway done."
-    am "We're almost halfway done."
+    am "Neredeyse yarı yoldayız."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:649
 translate turkish sm1cs_am007_jogging_continue_e86977de:
@@ -1538,13 +1538,13 @@ translate turkish sm1cs_am007_one_hour_later_292a5e5a:
 translate turkish sm1cs_am007_one_hour_later_6c0cf4a7:
 
     # mc "It's your life, and I'd hate to say something that puts you on the wrong path."
-    mc "It's your life, and I'd hate to say something that puts you on the wrong path."
+    mc "Bu senin hayatın ve seni yanlış yola sokacak bir şey söylemekten nefret ederim."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:840
 translate turkish sm1cs_am007_one_hour_later_96e1bad9:
 
     # am "Yeah. Forget I said anything..."
-    am "Yeah. Forget I said anything..."
+    am "Evet. Bir şey söylediğimi unut..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:842
 translate turkish sm1cs_am007_one_hour_later_2b35b6fe_1:
@@ -1556,7 +1556,7 @@ translate turkish sm1cs_am007_one_hour_later_2b35b6fe_1:
 translate turkish sm1cs_am007_one_hour_later_157700e7:
 
     # mc "So what happens now?"
-    mc "So what happens now?"
+    mc "Peki şimdi ne olacak?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:849
 translate turkish sm1cs_am007_one_hour_later_1c8acf17:
@@ -1568,43 +1568,43 @@ translate turkish sm1cs_am007_one_hour_later_1c8acf17:
 translate turkish sm1cs_am007_one_hour_later_08721f0d:
 
     # am "You should go to the bathroom. {w}Splash some water in your face."
-    am "You should go to the bathroom. {w}Splash some water in your face."
+    am "Tuvalete gitmelisin. {w}Yüzüne biraz su çarp."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:851
 translate turkish sm1cs_am007_one_hour_later_100fa7f1:
 
     # am "You've still got some grass up your nose."
-    am "You've still got some grass up your nose."
+    am "Hala burnunda çimen var."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:856
 translate turkish sm1cs_am007_one_hour_later_b29343f3:
 
     # mc "I'm good. I'll just shower off at home."
-    mc "I'm good. I'll just shower off at home."
+    mc "İyiyim. Evde duş alırım."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:859
 translate turkish sm1cs_am007_one_hour_later_cebafa02:
 
     # am "It's fine. I'll come with."
-    am "It's fine. I'll come with."
+    am "Sorun değil. Seninle gelirim."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:862
 translate turkish sm1cs_am007_one_hour_later_7a3456fb:
 
     # mc "Uh... I'm good. I don't need to go right now."
-    mc "Uh... I'm good. I don't need to go right now."
+    mc "Uh... İyiyim. Şu anda gitmem gerekmiyor."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:865
 translate turkish sm1cs_am007_one_hour_later_28981525:
 
     # am "I think you should {b}really{/b} go to the bathroom, [mcname]."
-    am "I think you should {b}really{/b} go to the bathroom, [mcname]."
+    am "Bence {b}gerçekten{/b} tuvalete gitmelisin, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:866
 translate turkish sm1cs_am007_one_hour_later_49e2b5e0:
 
     # am "And I'll come {i}with{/i} you."
-    am "And I'll come {i}with{/i} you."
+    am "Ve seninle {i}birlikte{/i} geleceğim."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:868
 translate turkish sm1cs_am007_one_hour_later_2b35b6fe_2:
@@ -1616,31 +1616,31 @@ translate turkish sm1cs_am007_one_hour_later_2b35b6fe_2:
 translate turkish sm1cs_am007_one_hour_later_ad9a5476:
 
     # mc "Do you have some sixth sense about my bladder?"
-    mc "Do you have some sixth sense about my bladder?"
+    mc "Mesanem hakkında altıncı bir hissin mi var?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:874
 translate turkish sm1cs_am007_one_hour_later_55b15cb4:
 
     # mc "I'm telling you, I don't need to use the restroom."
-    mc "I'm telling you, I don't need to use the restroom."
+    mc "Sana söylüyorum, tuvaleti kullanmama gerek yok."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:877
 translate turkish sm1cs_am007_one_hour_later_2c373927:
 
     # am "Sure. But do you really know that for sure?"
-    am "Sure. But do you really know that for sure?"
+    am "Tabii. Ama bunu gerçekten kesin olarak biliyor musun?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:878
 translate turkish sm1cs_am007_one_hour_later_dfd6f92e:
 
     # am "Cause sometimes if you go into a restroom, stuff will happen."
-    am "Cause sometimes if you go into a restroom, stuff will happen."
+    am "Çünkü bazen tuvalete girdiğinde, bir şeyler olur."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:881
 translate turkish sm1cs_am007_one_hour_later_42f745d8:
 
     # am "{i}Good{/i} stuff."
-    am "{i}Good{/i} stuff."
+    am "{i}İyi{/i} şeyler."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:884
 translate turkish sm1cs_am007_one_hour_later_2b35b6fe_3:
@@ -1652,7 +1652,7 @@ translate turkish sm1cs_am007_one_hour_later_2b35b6fe_3:
 translate turkish sm1cs_am007_one_hour_later_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Ne?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:889
 translate turkish sm1cs_am007_one_hour_later_44644e27:
@@ -1664,7 +1664,7 @@ translate turkish sm1cs_am007_one_hour_later_44644e27:
 translate turkish sm1cs_am007_one_hour_later_99f62563:
 
     # am "I want you to play with me in the bathroom, [mcname]."
-    am "I want you to play with me in the bathroom, [mcname]."
+    am "Benimle tuvalette oynamanı istiyorum, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:893
 translate turkish sm1cs_am007_one_hour_later_f2316b97:
@@ -1682,31 +1682,31 @@ translate turkish sm1cs_am007_one_hour_later_844a7c83:
 translate turkish sm1cs_am007_one_hour_later_cde84a9e:
 
     # mc "Why didn't you say so?"
-    mc "Why didn't you say so?"
+    mc "Neden öyle demedin?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:900
 translate turkish sm1cs_am007_one_hour_later_996c9c59:
 
     # am "Lord help me..."
-    am "Lord help me..."
+    am "Tanrım bana yardım et..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:906
 translate turkish sm1cs_am007_one_hour_later_7133b732:
 
     # mc "Ooooooh. I get it."
-    mc "Ooooooh. I get it."
+    mc "Ooooooh. Anladım."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:907
 translate turkish sm1cs_am007_one_hour_later_b2def198:
 
     # mc "You want to turn that restroom..."
-    mc "You want to turn that restroom..."
+    mc "O tuvaleti çevirmek istiyorsun..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:908
 translate turkish sm1cs_am007_one_hour_later_2f5ffd80:
 
     # mc "Into a sex room..."
-    mc "Into a sex room..."
+    mc "Bir seks odasına..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:911
 translate turkish sm1cs_am007_one_hour_later_44644e27_1:
@@ -1718,31 +1718,31 @@ translate turkish sm1cs_am007_one_hour_later_44644e27_1:
 translate turkish sm1cs_am007_one_hour_later_8da34dec:
 
     # am "Forget I said anything."
-    am "Forget I said anything."
+    am "Bir şey söylediğimi unut."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:915
 translate turkish sm1cs_am007_one_hour_later_f8eeb524:
 
     # mc "Nah-uh. No take-backs."
-    mc "Nah-uh. No take-backs."
+    mc "Hayır hayır. Geri alma yok."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:918
 translate turkish sm1cs_am007_one_hour_later_7cf9a676:
 
     # am "Then hurry the fuck up before I change my mind, dummy."
-    am "Then hurry the fuck up before I change my mind, dummy."
+    am "O zaman fikrimi değiştirmeden önce acele et, aptal."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:931
 translate turkish sm1cs_am007_one_hour_later_bfd26833:
 
     # am "Lock the door."
-    am "Lock the door."
+    am "Kapıyı kilitle."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:934
 translate turkish sm1cs_am007_one_hour_later_45d4b8ac:
 
     # "Click"
-    "Click"
+    "Klik"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:943
 translate turkish sm1cs_am007_one_hour_later_a06a0ff5:
@@ -1760,7 +1760,7 @@ translate turkish sm1cs_am007_one_hour_later_4fce0f53:
 translate turkish sm1cs_am007_one_hour_later_a0b304e8:
 
     # mct "All that fucking jogging and sweating has me right on the edge."
-    mct "All that fucking jogging and sweating has me right on the edge."
+    mct "Bütün o lanet koşu ve terleme beni tam sınırda tutuyor."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:948
 translate turkish sm1cs_am007_one_hour_later_dc30ffd1:
@@ -1772,7 +1772,7 @@ translate turkish sm1cs_am007_one_hour_later_dc30ffd1:
 translate turkish sm1cs_am007_one_hour_later_47eec681:
 
     # am "Take off your shirt!"
-    am "Take off your shirt!"
+    am "Gömleğini çıkar!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:962
 translate turkish sm1cs_am007_one_hour_later_d1f9307a:
@@ -1784,7 +1784,7 @@ translate turkish sm1cs_am007_one_hour_later_d1f9307a:
 translate turkish sm1cs_am007_one_hour_later_30507156:
 
     # mct "April's not wasting any time."
-    mct "April's not wasting any time."
+    mct "April zaman kaybetmiyor."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:968
 translate turkish sm1cs_am007_one_hour_later_1f2e4625:
@@ -1802,13 +1802,13 @@ translate turkish sm1cs_am007_one_hour_later_ce766102:
 translate turkish sm1cs_am007_one_hour_later_3a028a00:
 
     # mc "This is so hot, April."
-    mc "This is so hot, April."
+    mc "Bu çok ateşli, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:977
 translate turkish sm1cs_am007_one_hour_later_4cb837c7:
 
     # mct "When her switch goes off, she's a real wild thang."
-    mct "When her switch goes off, she's a real wild thang."
+    mct "Şalteri kapatıldığında, gerçek bir vahşi kedi oluyor."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:983
 translate turkish sm1cs_am007_one_hour_later_64e42b04:
@@ -1820,55 +1820,55 @@ translate turkish sm1cs_am007_one_hour_later_64e42b04:
 translate turkish sm1cs_am007_one_hour_later_79ca4b0a:
 
     # am "You're so smelly right now."
-    am "You're so smelly right now."
+    am "Şu anda çok kokuyorsun."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:985
 translate turkish sm1cs_am007_one_hour_later_191073cb:
 
     # am "Like an animal..."
-    am "Like an animal..."
+    am "Bir hayvan gibi..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:988
 translate turkish sm1cs_am007_one_hour_later_69c25b65:
 
     # mc "Yeah..."
-    mc "Yeah..."
+    mc "Evet..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:991
 translate turkish sm1cs_am007_one_hour_later_6cebdd07:
 
     # am "Can I... lick your armpits?"
-    am "Can I... lick your armpits?"
+    am "Koltukalıtlarını... yalayabilir miyim?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:999
 translate turkish sm1cs_am007_one_hour_later_682a47fe:
 
     # mc "So long as I can do the same to you."
-    mc "So long as I can do the same to you."
+    mc "Ben de sana aynısını yapabildiğim sürece."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1007
 translate turkish sm1cs_am007_one_hour_later_647f74a2:
 
     # mc "I'd prefer to just lick yours, April."
-    mc "I'd prefer to just lick yours, April."
+    mc "Sadece seninkini yalamayı tercih ederim, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1009
 translate turkish sm1cs_am007_one_hour_later_5660918f:
 
     # am "Okay. That's fine."
-    am "Okay. That's fine."
+    am "Tamam. Sorun değil."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1017
 translate turkish sm1cs_am007_one_hour_later_013235ea:
 
     # mc "I have other things in mind, April."
-    mc "I have other things in mind, April."
+    mc "Aklımda başka şeyler var, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1020
 translate turkish sm1cs_am007_one_hour_later_14660504:
 
     # am "Okay."
-    am "Okay."
+    am "Tamam."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1026
 translate turkish sm1cs_am007_one_hour_later_e9a4d565:
@@ -1886,37 +1886,37 @@ translate turkish sm1cs_am007_one_hour_later_c0e5d1f3:
 translate turkish sm1cs_am007_one_hour_later_16f570b6:
 
     # am "Gawd..."
-    am "Gawd..."
+    am "Tanrım..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1032
 translate turkish sm1cs_am007_one_hour_later_97e20b6a:
 
     # mc "My turn..."
-    mc "My turn..."
+    mc "Benim sıram..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1038
 translate turkish sm1cs_am007_one_hour_later_9b6fd1b4:
 
     # am "Yes..."
-    am "Yes..."
+    am "Evet..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1039
 translate turkish sm1cs_am007_one_hour_later_3d7c9020:
 
     # am "Oh fuck."
-    am "Oh fuck."
+    am "Oh siktir."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1040
 translate turkish sm1cs_am007_one_hour_later_b3745e5a:
 
     # am "Your tongue..."
-    am "Your tongue..."
+    am "Dilin..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1041
 translate turkish sm1cs_am007_one_hour_later_9d24ef07:
 
     # am "That's it. I like it so much."
-    am "That's it. I like it so much."
+    am "İşte bu. Çok seviyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1056
 translate turkish sm1cs_am007_one_hour_later_094f44bc:
@@ -1940,61 +1940,61 @@ translate turkish sm1cs_am007_one_hour_later_2295c0df:
 translate turkish sm1cs_am007_one_hour_later_096bcc92:
 
     # mc "Too much?"
-    mc "Too much?"
+    mc "Çok mu fazla?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1067
 translate turkish sm1cs_am007_one_hour_later_31538b5f:
 
     # am "*sighing* Just... a little..."
-    am "*sighing* Just... a little..."
+    am "*iç çeker* Sadece... biraz..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1068
 translate turkish sm1cs_am007_one_hour_later_3088b4dd:
 
     # am "It's starting to feel better now."
-    am "It's starting to feel better now."
+    am "Şimdi daha iyi hissetmeye başladı."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1073
 translate turkish sm1cs_am007_one_hour_later_1f163a4f:
 
     # am "I want to feel your cock..."
-    am "I want to feel your cock..."
+    am "Aletini hissetmek istiyorum..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1074
 translate turkish sm1cs_am007_one_hour_later_af23ca9a:
 
     # am "Between my breasts."
-    am "Between my breasts."
+    am "Göğüslerimin arasında."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1082
 translate turkish sm1cs_am007_one_hour_later_d32126c2:
 
     # am "It's getting so warm."
-    am "It's getting so warm."
+    am "Çok ısınıyor."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1083
 translate turkish sm1cs_am007_one_hour_later_b14fe482:
 
     # am "Stroke your cock with my tits, [mcname]!"
-    am "Stroke your cock with my tits, [mcname]!"
+    am "Aletini göğüslerimle okşa, [mcname]!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1086
 translate turkish sm1cs_am007_one_hour_later_c4635acf:
 
     # am "I'm a bad girl. Seeing how hard I make you makes me so fucking wet!"
-    am "I'm a bad girl. Seeing how hard I make you makes me so fucking wet!"
+    am "Kötü bir kızım. Seni ne kadar sertleştirdiğimi görmek beni çok ıslatıyor!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1087
 translate turkish sm1cs_am007_one_hour_later_267a40ef:
 
     # mc "Your tits feel great, April."
-    mc "Your tits feel great, April."
+    mc "Göğüslerin harika hissettiriyor, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1090
 translate turkish sm1cs_am007_one_hour_later_cdd44701:
 
     # mc "Your whole body looks perfect for this kind of thing."
-    mc "Your whole body looks perfect for this kind of thing."
+    mc "Tüm vücudun bu tür şeyler için mükemmel görünüyor."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1091
 translate turkish sm1cs_am007_one_hour_later_efcf743d:
@@ -2012,13 +2012,13 @@ translate turkish sm1cs_am007_one_hour_later_8422de45:
 translate turkish sm1cs_am007_one_hour_later_08dfc3d1:
 
     # am "I think I'm ready..."
-    am "I think I'm ready..."
+    am "Sanırım hazırım..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1103
 translate turkish sm1cs_am007_one_hour_later_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Evet?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1104
 translate turkish sm1cs_am007_one_hour_later_a2d98c0a:
@@ -2054,31 +2054,31 @@ translate turkish sm1cs_am007_one_hour_later_eab6139b:
 translate turkish sm1cs_am007_one_hour_later_2ee33b29:
 
     # am "I want to feel it inside."
-    am "I want to feel it inside."
+    am "İçimde hissetmek istiyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1125
 translate turkish sm1cs_am007_one_hour_later_ac370935:
 
     # mc "I didn't think you wanted our first time to be something crazy like this."
-    mc "I didn't think you wanted our first time to be something crazy like this."
+    mc "İlk seferimizin böyle çılgın bir şey olmasını istediğini düşünmemiştim."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1128
 translate turkish sm1cs_am007_one_hour_later_0a4aa5ad:
 
     # am "I'm not allowed to be wrong some times?"
-    am "I'm not allowed to be wrong some times?"
+    am "Bazen yanılmama izin yok mu?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1130
 translate turkish sm1cs_am007_one_hour_later_5cb4bc0c:
 
     # mc "Of course you are. I just didn't expect it."
-    mc "Of course you are. I just didn't expect it."
+    mc "Tabii ki var. Sadece beklemiyordum."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1133
 translate turkish sm1cs_am007_one_hour_later_aac0bd77:
 
     # am "Are you going to fuck me or not?"
-    am "Are you going to fuck me or not?"
+    am "Beni becerecek misin yoksa beceremeyecek misin?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1134
 translate turkish sm1cs_am007_one_hour_later_2b35b6fe_4:
@@ -2090,31 +2090,31 @@ translate turkish sm1cs_am007_one_hour_later_2b35b6fe_4:
 translate turkish sm1cs_am007_one_hour_later_5cba0b2b:
 
     # am "Seriously?"
-    am "Seriously?"
+    am "Cidden mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1140
 translate turkish sm1cs_am007_one_hour_later_d11fa7b9:
 
     # mct "Time to activate beast mode."
-    mct "Time to activate beast mode."
+    mct "Canavar modunu aktifleştirme zamanı."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1142
 translate turkish sm1cs_am007_one_hour_later_476a0226:
 
     # mc "Fuck you. I'm going to fuck you."
-    mc "Fuck you. I'm going to fuck you."
+    mc "Siktir et. Seni becerecğim."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1145
 translate turkish sm1cs_am007_one_hour_later_060becd2:
 
     # am "You hesitated!"
-    am "You hesitated!"
+    am "Tereddüt ettin!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1149
 translate turkish sm1cs_am007_one_hour_later_8d213f61:
 
     # mc "I was thinking of a funny story."
-    mc "I was thinking of a funny story."
+    mc "Komik bir hikaye düşünüyordum."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1152
 translate turkish sm1cs_am007_one_hour_later_bc39512b:
