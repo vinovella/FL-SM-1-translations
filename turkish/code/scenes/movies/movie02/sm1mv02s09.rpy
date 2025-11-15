@@ -2,19 +2,19 @@
 translate turkish sm1mv02s09_5423faba:
 
     # mct "All right, today's the day. The big finale... final stretch."
-    mct "All right, today's the day. The big finale... final stretch."
+    mct "Pekala, bugün o gün. Büyük final... son aşama."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:88
 translate turkish sm1mv02s09_416ebd37:
 
     # mct "I think-"
-    mct "I think-"
+    mct "Sanırım-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:92
 translate turkish sm1mv02s09_7ce2b4fb:
 
     # sy "All right! Let's get everyone to ones, and-"
-    sy "All right! Let's get everyone to ones, and-"
+    sy "Pekala! Herkesi yerlerine alalım, ve-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:94
 translate turkish sm1mv02s09_5c2c7bcf:
@@ -26,103 +26,103 @@ translate turkish sm1mv02s09_5c2c7bcf:
 translate turkish sm1mv02s09_2d3faea8:
 
     # mc "Yeah, it's just me."
-    mc "Yeah, it's just me."
+    mc "Evet, sadece benim."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:101
 translate turkish sm1mv02s09_0b4c4ee3:
 
     # sy "How am I supposed to be a big fancy director, if there's no one here!?!"
-    sy "How am I supposed to be a big fancy director, if there's no one here!?!"
+    sy "Burada kimse yokken nasıl büyük şık bir yönetmen olabilirim!?!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:107
 translate turkish sm1mv02s09_70b87e07:
 
     # mc "Don't worry, I bet-"
-    mc "Don't worry, I bet-"
+    mc "Merak etme, bahse girerim-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:112
 translate turkish sm1mv02s09_7d88dbdc:
 
     # mc "See? You just had to wait a second."
-    mc "See? You just had to wait a second."
+    mc "Gördün mü? Sadece bir saniye beklemen gerekiyordu."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:114
 translate turkish sm1mv02s09_63b92b49:
 
     # sy "Well, in that case-"
-    sy "Well, in that case-"
+    sy "Eh, bu durumda-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:119
 translate turkish sm1mv02s09_4aba8817:
 
     # sy "All right, everyone! To ones! Let's get this show on the road!"
-    sy "All right, everyone! To ones! Let's get this show on the road!"
+    sy "Pekala, herkes! Yerlerinize! Hadi bu gösteriyi başlatalım!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:122
 translate turkish sm1mv02s09_f8bd991a:
 
     # kv "Good thing I got the camera all set up."
-    kv "Good thing I got the camera all set up."
+    kv "İyi ki kamerayı tamamen hazırladım."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:124
 translate turkish sm1mv02s09_35931fd7:
 
     # ns "I'm excited for today!"
-    ns "I'm excited for today!"
+    ns "Bugün için heyecanlıyım!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:127
 translate turkish sm1mv02s09_4974a7c7:
 
     # sy "Me too. Now, all we need is-"
-    sy "Me too. Now, all we need is-"
+    sy "Ben de. Şimdi, tek ihtiyacımız olan-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:136
 translate turkish sm1mv02s09_6fbddefc:
 
     # mhmes "Apologies. I had an appointment I had to keep!"
-    mhmes "Apologies. I had an appointment I had to keep!"
+    mhmes "Özür dilerim. Gitmem gereken bir randevum vardı!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:139
 translate turkish sm1mv02s09_4ccee691:
 
     # mc "It's all good!"
-    mc "It's all good!"
+    mc "Sorun yok!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:144
 translate turkish sm1mv02s09_c92db5e2:
 
     # sy "All right, now that we're all here, it's time for a safety meeting!"
-    sy "All right, now that we're all here, it's time for a safety meeting!"
+    sy "Pekala, artık hepimiz buradayken, güvenlik toplantısının zamanı geldi!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:147
 translate turkish sm1mv02s09_5729c22f:
 
     # mc "A what?"
-    mc "A what?"
+    mc "Bir ne?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:150
 translate turkish sm1mv02s09_1ad469c8:
 
     # sy "Safety meeting. It's something big movies do all the time. You know, let everyone know what we're doing, if there are any concerns."
-    sy "Safety meeting. It's something big movies do all the time. You know, let everyone know what we're doing, if there are any concerns."
+    sy "Güvenlik toplantısı. Büyük filmlerin her zaman yaptığı bir şey. Bilirsin, herkese ne yaptığımızı bildirmek, eğer bir endişe varsa."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:152
 translate turkish sm1mv02s09_2321d60b:
 
     # mc "Oh. I guess that makes sense."
-    mc "Oh. I guess that makes sense."
+    mc "Oh. Sanırım bu mantıklı."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:158
 translate turkish sm1mv02s09_7b1d6c9d:
 
     # sy "All right, so - today is our big day for Babe-lyon!"
-    sy "All right, so - today is our big day for Babe-lyon!"
+    sy "Pekala, yani - bugün Babe-lyon için büyük günümüz!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:161
 translate turkish sm1mv02s09_63197f6d:
 
     # sy "We've got some stunts today, that I'll help direct. Little bit of action, and then we hav our tit-"
-    sy "We've got some stunts today, that I'll help direct. Little bit of action, and then we hav our tit-"
+    sy "Bugün bazı gösterilerimiz var, yönetmesine yardım edeceğim. Biraz aksiyon, ve sonra göğüs-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:164
 translate turkish sm1mv02s09_61a27627:
@@ -134,49 +134,49 @@ translate turkish sm1mv02s09_61a27627:
 translate turkish sm1mv02s09_999726e6:
 
     # sy "-Titular sex scene today! It's going to be a lot of activity."
-    sy "-Titular sex scene today! It's going to be a lot of activity."
+    sy "-Baş roldeki seks sahnesi bugün! Çok fazla aktivite olacak."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:168
 translate turkish sm1mv02s09_a1122fd9:
 
     # sy "So make sure you stay hydrated!{w} Let's get to it, everyone! And let's make it a great day!"
-    sy "So make sure you stay hydrated!{w} Let's get to it, everyone! And let's make it a great day!"
+    sy "Bu yüzden susuz kalmadığınızdan emin olun!{w} Hadi işe koyulalım, herkes! Ve harika bir gün yapalım!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:180
 translate turkish sm1mv02s09_3e82c105:
 
     # sy "Thank you, thank you!"
-    sy "Thank you, thank you!"
+    sy "Teşekkürler, teşekkürler!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:181
 translate turkish sm1mv02s09_db9c2213:
 
     # sy "Now, to ones!"
-    sy "Now, to ones!"
+    sy "Şimdi, yerlerinize!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:193
 translate turkish sm1mv02s09_92d4b7a1:
 
     # mc "You ready for this?"
-    mc "You ready for this?"
+    mc "Buna hazır mısın?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:196
 translate turkish sm1mv02s09_be18fe6b:
 
     # sy "Yeah! I am super ready!"
-    sy "Yeah! I am super ready!"
+    sy "Evet! Süper hazırım!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:201
 translate turkish sm1mv02s09_0b9b5176:
 
     # mc "Great!"
-    mc "Great!"
+    mc "Harika!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:205
 translate turkish sm1mv02s09_4fa326d7:
 
     # sy "Now some on, superstar. To first position!"
-    sy "Now some on, superstar. To first position!"
+    sy "Şimdi hadi, süperstar. İlk pozisyona!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:208
 translate turkish sm1mv02s09_699878f6:
@@ -194,7 +194,7 @@ translate turkish sm1mv02s09_a57d9a52:
 translate turkish sm1mv02s09_07bac69a:
 
     # mc "I'm calling HR!"
-    mc "I'm calling HR!"
+    mc "İK'yı arıyorum!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:216
 translate turkish sm1mv02s09_5c01deba:
