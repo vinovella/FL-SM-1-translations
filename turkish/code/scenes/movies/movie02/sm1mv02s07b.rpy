@@ -8,97 +8,97 @@ translate turkish sm1mv02s07b_20e2058b:
 translate turkish sm1mv02s07b_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Evet?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:62
 translate turkish sm1mv02s07b_f4af854b:
 
     # ns "What... what is Lyssa like?"
-    ns "What... what is Lyssa like?"
+    ns "Ne... Lyssa nasıl biri?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:65
 translate turkish sm1mv02s07b_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Ne demek istiyorsun?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:68
 translate turkish sm1mv02s07b_ba838db0:
 
     # ns "Is she nice? Loud? Soft spoken? Direct?"
-    ns "Is she nice? Loud? Soft spoken? Direct?"
+    ns "Kibar mı? Gürültülü mü? Yumuşak konuşan mı? Doğrudan mı?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:71
 translate turkish sm1mv02s07b_fccb9547:
 
     # mc "Why do you ask?"
-    mc "Why do you ask?"
+    mc "Neden soruyorsun?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:74
 translate turkish sm1mv02s07b_1609718d:
 
     # ns "Well..."
-    ns "Well..."
+    ns "Şey..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:75
 translate turkish sm1mv02s07b_92b26c93:
 
     # ns "I just want to assure that I make a positive impression on her."
-    ns "I just want to assure that I make a positive impression on her."
+    ns "Sadece onun üzerinde olumlu bir izlenim bıraktığımdan emin olmak istiyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:79
 translate turkish sm1mv02s07b_da22852e:
 
     # mc "You have nothing to worry about, Nari. You're going to do just fine."
-    mc "You have nothing to worry about, Nari. You're going to do just fine."
+    mc "Endişelenecek bir şey yok, Nari. Çok iyi yapacaksın."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:82
 translate turkish sm1mv02s07b_615e31e6:
 
     # ns "How do you know that!? What if I say the wrong thing!?"
-    ns "How do you know that!? What if I say the wrong thing!?"
+    ns "Bunu nereden biliyorsun!? Ya yanlış bir şey söylersem!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:83
 translate turkish sm1mv02s07b_7e104e24:
 
     # ns "What if I look like a fool, or, or, or say something that makes her uncomfortable!"
-    ns "What if I look like a fool, or, or, or say something that makes her uncomfortable!"
+    ns "Ya aptal gibi görünürsem, ya da, ya da, ya da onu rahatsız eden bir şey söylersem!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:84
 translate turkish sm1mv02s07b_ca95b50f:
 
     # ns "I've never met a lawyer! Or a lady who has... something extra. And I don't know how to be with her!"
-    ns "I've never met a lawyer! Or a lady who has... something extra. And I don't know how to be with her!"
+    ns "Hiç avukatla tanışmadım! Ya da... fazladan bir şeyi olan bir bayanla. Ve onunla nasıl olacağımı bilmiyorum!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:87
 translate turkish sm1mv02s07b_110b2f97:
 
     # mc "Relax, Nari. That's why we're here - to relax."
-    mc "Relax, Nari. That's why we're here - to relax."
+    mc "Rahatla, Nari. Bu yüzden buradayız - rahatlamak için."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:88
 translate turkish sm1mv02s07b_01aef04f:
 
     # mc "It's going to be okay."
-    mc "It's going to be okay."
+    mc "Her şey yoluna girecek."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:92
 translate turkish sm1mv02s07b_254b3aeb:
 
     # "*DOOR OPENING NOISE*"
-    "*DOOR OPENING NOISE*"
+    "*KAPI AÇILMA SESİ*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:94
 translate turkish sm1mv02s07b_8195cecf:
 
     # mc "Speak of the devil-"
-    mc "Speak of the devil-"
+    mc "İti an çomağı hazırla-"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:95
 translate turkish sm1mv02s07b_ba85758a:
 
     # mc "Lyssa, glad you could make it!"
-    mc "Lyssa, glad you could make it!"
+    mc "Lyssa, gelebildiğine sevindim!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:98
 translate turkish sm1mv02s07b_808ba784:
