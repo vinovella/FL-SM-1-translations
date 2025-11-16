@@ -2,19 +2,19 @@
 translate chinese sm1mv02s09_5423faba:
 
     # mct "All right, today's the day. The big finale... final stretch."
-    mct "All right, today's the day. The big finale... final stretch."
+    mct "好了，就是今天了。这场盛大的结局…… 最后的冲刺阶段。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:88
 translate chinese sm1mv02s09_416ebd37:
 
     # mct "I think-"
-    mct "I think-"
+    mct "我觉得--"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:92
 translate chinese sm1mv02s09_7ce2b4fb:
 
     # sy "All right! Let's get everyone to ones, and-"
-    sy "All right! Let's get everyone to ones, and-"
+    sy "好了！所有人各就各位，然后--"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:94
 translate chinese sm1mv02s09_5c2c7bcf:
@@ -26,127 +26,127 @@ translate chinese sm1mv02s09_5c2c7bcf:
 translate chinese sm1mv02s09_2d3faea8:
 
     # mc "Yeah, it's just me."
-    mc "Yeah, it's just me."
+    mc "是啊，这里只有我一个人。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:101
 translate chinese sm1mv02s09_0b4c4ee3:
 
     # sy "How am I supposed to be a big fancy director, if there's no one here!?!"
-    sy "How am I supposed to be a big fancy director, if there's no one here!?!"
+    sy "要是这儿连个人都没有，我还怎么当一个大牌导演啊!?!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:107
 translate chinese sm1mv02s09_70b87e07:
 
     # mc "Don't worry, I bet-"
-    mc "Don't worry, I bet-"
+    mc "别担心，我打赌--"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:112
 translate chinese sm1mv02s09_7d88dbdc:
 
     # mc "See? You just had to wait a second."
-    mc "See? You just had to wait a second."
+    mc "看吧？你只需要再等一秒钟就好了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:114
 translate chinese sm1mv02s09_63b92b49:
 
     # sy "Well, in that case-"
-    sy "Well, in that case-"
+    sy "好吧，既然这样--"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:119
 translate chinese sm1mv02s09_4aba8817:
 
     # sy "All right, everyone! To ones! Let's get this show on the road!"
-    sy "All right, everyone! To ones! Let's get this show on the road!"
+    sy "好了，各位！各就各位！我们开始拍摄吧！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:122
 translate chinese sm1mv02s09_f8bd991a:
 
     # kv "Good thing I got the camera all set up."
-    kv "Good thing I got the camera all set up."
+    kv "幸好我已经把摄像机都调试好了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:124
 translate chinese sm1mv02s09_35931fd7:
 
     # ns "I'm excited for today!"
-    ns "I'm excited for today!"
+    ns "我对今天的拍摄太期待了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:127
 translate chinese sm1mv02s09_4974a7c7:
 
     # sy "Me too. Now, all we need is-"
-    sy "Me too. Now, all we need is-"
+    sy "我也是。现在，我们就差--"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:136
 translate chinese sm1mv02s09_6fbddefc:
 
     # mhmes "Apologies. I had an appointment I had to keep!"
-    mhmes "Apologies. I had an appointment I had to keep!"
+    mhmes "抱歉。我之前有个约会必须要去！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:139
 translate chinese sm1mv02s09_4ccee691:
 
     # mc "It's all good!"
-    mc "It's all good!"
+    mc "没关系的！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:144
 translate chinese sm1mv02s09_c92db5e2:
 
     # sy "All right, now that we're all here, it's time for a safety meeting!"
-    sy "All right, now that we're all here, it's time for a safety meeting!"
+    sy "好了，现在大家都到齐了，该开个安全会议了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:147
 translate chinese sm1mv02s09_5729c22f:
 
     # mc "A what?"
-    mc "A what?"
+    mc "开什么？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:150
 translate chinese sm1mv02s09_1ad469c8:
 
     # sy "Safety meeting. It's something big movies do all the time. You know, let everyone know what we're doing, if there are any concerns."
-    sy "Safety meeting. It's something big movies do all the time. You know, let everyone know what we're doing, if there are any concerns."
+    sy "安全会议。那些大制作电影总是这么做的。你知道的，让每个人都清楚我们要做什么，有没有什么需要担心的问题。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:152
 translate chinese sm1mv02s09_2321d60b:
 
     # mc "Oh. I guess that makes sense."
-    mc "Oh. I guess that makes sense."
+    mc "哦。我明白了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:158
 translate chinese sm1mv02s09_7b1d6c9d:
 
     # sy "All right, so - today is our big day for Babe-lyon!"
-    sy "All right, so - today is our big day for Babe-lyon!"
+    sy "好了，那么--今天就是我们‘艳女之星’大戏的重要日子！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:161
 translate chinese sm1mv02s09_63197f6d:
 
     # sy "We've got some stunts today, that I'll help direct. Little bit of action, and then we hav our tit-"
-    sy "We've got some stunts today, that I'll help direct. Little bit of action, and then we hav our tit-"
+    sy "我们今天会有一些特技镜头，我会帮忙指导。会有一点动作戏，然后还有我们的--"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:164
 translate chinese sm1mv02s09_61a27627:
 
     # sy "Hehehehehehe-"
-    sy "Hehehehehehe-"
+    sy "呵呵呵呵呵--"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:167
 translate chinese sm1mv02s09_999726e6:
 
     # sy "-Titular sex scene today! It's going to be a lot of activity."
-    sy "-Titular sex scene today! It's going to be a lot of activity."
+    sy "--我们这部戏的核心床戏！今天会有很多拍摄任务。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:168
 translate chinese sm1mv02s09_a1122fd9:
 
     # sy "So make sure you stay hydrated!{w} Let's get to it, everyone! And let's make it a great day!"
-    sy "So make sure you stay hydrated!{w} Let's get to it, everyone! And let's make it a great day!"
+    sy "所以大家一定要保持水分充足！{w}好了，各位，我们开始吧！让我们今天好好表现！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:180
 translate chinese sm1mv02s09_3e82c105:
 
     # sy "Thank you, thank you!"
-    sy "Thank you, thank you!"
+    sy "谢谢各位，谢谢大家！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:181
 translate chinese sm1mv02s09_db9c2213:
