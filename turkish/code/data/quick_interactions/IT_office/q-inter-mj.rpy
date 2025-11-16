@@ -86,11 +86,11 @@ translate turkish q_inter_mj_4_fe961654:
 translate turkish q_inter_mj_1_e906923a:
 
     # mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
-    mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
+    mj "[mcname], Anna mı April mi daha az hata yapacak bahsine katılıyor musun?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:40
 translate turkish q_inter_mj_3_eadd033a:
 
     # mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
-    mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
+    mj "Aslında, bu konuyu Anna ile konuşayım! Bakalım April'ın da teslim olmasını sağlayabilecek mi."
 

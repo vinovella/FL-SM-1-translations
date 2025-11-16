@@ -164,97 +164,97 @@ translate turkish q_inter_mes_6_97110289:
 translate turkish q_inter_mes_7_c31c6b56:
 
     # mes "Kanya seems very skilled, [mcname]."
-    mes "Kanya seems very skilled, [mcname]."
+    mes "Kanya çok yetenekli görünüyor, [mcname]."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:108
 translate turkish q_inter_mes_7_a3f4ada6:
 
     # mes "She is really a fine addition to your team."
-    mes "She is really a fine addition to your team."
+    mes "Ekibine gerçekten güzel bir katkı."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:109
 translate turkish q_inter_mes_7_68b95aa2:
 
     # mc "Thanks, Min."
-    mc "Thanks, Min."
+    mc "Teşekkürler, Min."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:114
 translate turkish q_inter_mes_8_705ee222:
 
     # mes "Hi, [mcname]. Guess what?"
-    mes "Hi, [mcname]. Guess what?"
+    mes "Merhaba, [mcname]. Bil bakalım ne oldu?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:115
 translate turkish q_inter_mes_8_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Ne oldu?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:116
 translate turkish q_inter_mes_8_fe11005a:
 
     # mes "I got a perfect score on my last assignment."
-    mes "I got a perfect score on my last assignment."
+    mes "Son ödevimden tam puan aldım."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:119
 translate turkish q_inter_mes_8_b5b8e299:
 
     # mes "I wonder if I push myself, if I can graduate early."
-    mes "I wonder if I push myself, if I can graduate early."
+    mes "Kendimi zorlarsam, erken mezun olabileceğimi merak ediyorum."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:125
 translate turkish q_inter_mes_9_45518ace:
 
     # mes "Ready for some more shots?"
-    mes "Ready for some more shots?"
+    mes "Birkaç shot daha içmeye hazır mısın?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:126
 translate turkish q_inter_mes_9_5b66d0bb:
 
     # mc "Please no, Min."
-    mc "Please no, Min."
+    mc "Lütfen hayır, Min."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:127
 translate turkish q_inter_mes_9_a3440e08:
 
     # mc "I think my liver tried to escape out of my toes last time."
-    mc "I think my liver tried to escape out of my toes last time."
+    mc "Sanırım geçen sefer karaciğerim ayak parmaklarımdan kaçmaya çalıştı."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:128
 translate turkish q_inter_mes_9_77acbbbf:
 
     # mes "Haha. Lightweight."
-    mes "Haha. Lightweight."
+    mes "Haha. Dayanıksız."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:134
 translate turkish q_inter_mes_10_9150e656:
 
     # mc "How are your classes going?"
-    mc "How are your classes going?"
+    mc "Derslerin nasıl gidiyor?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:135
 translate turkish q_inter_mes_10_e4be0e70:
 
     # mes "Oh perfectly average."
-    mes "Oh perfectly average."
+    mes "Ah gayet ortalama."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:136
 translate turkish q_inter_mes_10_d2287aa1:
 
     # mes "The history of European Socialism never loses its charm."
-    mes "The history of European Socialism never loses its charm."
+    mes "Avrupa Sosyalizminin tarihi asla cazibesini kaybetmiyor."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:141
 translate turkish q_inter_mes_11_3a2deb13:
 
     # mc "Looking good, Min."
-    mc "Looking good, Min."
+    mc "Güzel görünüyorsun, Min."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:142
 translate turkish q_inter_mes_11_9dadc47f:
 
     # mes "You're not so bad yourself, big boy."
-    mes "You're not so bad yourself, big boy."
+    mes "Sen de fena değilsin, koca oğlan."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:148
 translate turkish q_inter_mes_12_19808382:
@@ -266,7 +266,7 @@ translate turkish q_inter_mes_12_19808382:
 translate turkish q_inter_mes_12_d30f4bac:
 
     # mc "Problem?"
-    mc "Problem?"
+    mc "Sorun mu var?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:150
 translate turkish q_inter_mes_12_66a10b8f:
@@ -302,7 +302,7 @@ translate turkish q_inter_mes_13_ecf41c94:
 translate turkish q_inter_mes_13_bcd368dd:
 
     # mc "Good. Nothing too crazy going on."
-    mc "Good. Nothing too crazy going on."
+    mc "İyi. Çok çılgın bir şey olmuyor."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:162
 translate turkish q_inter_mes_13_8360cff9:
@@ -368,7 +368,7 @@ translate turkish q_inter_mes_15_dadb5b86:
 translate turkish q_inter_mes_15_b85746b1:
 
     # mc "What's on your mind?"
-    mc "What's on your mind?"
+    mc "Aklında ne var?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:187
 translate turkish q_inter_mes_15_e5959447:

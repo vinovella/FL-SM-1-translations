@@ -110,5 +110,5 @@ translate turkish q_inter_pm_5_414611e9:
 translate turkish q_inter_pm_3_98e57bf0:
 
     # pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
-    pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
+    pm "Hey! [mcname], orada rock müziği her zaman aşırı yüksek sesle çalan kim?"
 

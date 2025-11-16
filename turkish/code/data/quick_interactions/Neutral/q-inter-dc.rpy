@@ -188,31 +188,31 @@ translate turkish q_inter_dc_12_757c5cb4:
 translate turkish q_inter_dc_12_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Evet?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:138
 translate turkish q_inter_dc_12_b7912968:
 
     # dc "Have you heard about the bathroom in the park?"
-    dc "Have you heard about the bathroom in the park?"
+    dc "Parktaki tuvalet hakkında bir şeyler duydun mu?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:139
 translate turkish q_inter_dc_12_9e3589d8:
 
     # mc "Uhm... what about it?"
-    mc "Uhm... what about it?"
+    mc "Şey... ne hakkında?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:142
 translate turkish q_inter_dc_12_6a5c9cc7:
 
     # dc "I think one day we'll have to go and check it out."
-    dc "I think one day we'll have to go and check it out."
+    dc "Bence bir gün gidip kontrol etmemiz gerekecek."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:143
 translate turkish q_inter_dc_12_db62a37a:
 
     # dc "You know. For police work."
-    dc "You know. For police work."
+    dc "Bilirsin işte. Polis işi için."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:148
 translate turkish q_inter_dc_13_4af35993:
@@ -224,55 +224,55 @@ translate turkish q_inter_dc_13_4af35993:
 translate turkish q_inter_dc_13_3c0c267e:
 
     # dc "Yes?"
-    dc "Yes?"
+    dc "Evet?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:150
 translate turkish q_inter_dc_13_1f796c3d:
 
     # mc "You know, I've always loved a woman in uniform."
-    mc "You know, I've always loved a woman in uniform."
+    mc "Bilirsin, üniformalı kadınları her zaman sevmişimdir."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:153
 translate turkish q_inter_dc_13_f0a7cc79:
 
     # dc "[mcname]! Stop it, I'm at work!"
-    dc "[mcname]! Stop it, I'm at work!"
+    dc "[mcname]! Kes şunu, ben işte çalışıyorum!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:154
 translate turkish q_inter_dc_13_7a05d0ac:
 
     # mc "How can I, when you look this good?"
-    mc "How can I, when you look this good?"
+    mc "Nasıl dayanabilirim, bu kadar güzel görünürken?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:155
 translate turkish q_inter_dc_13_3dc35730:
 
     # dc "Oh, you!"
-    dc "Oh, you!"
+    dc "Ah, sen!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:160
 translate turkish q_inter_dc_14_21c04b3a:
 
     # dc "You know, [mcname]..."
-    dc "You know, [mcname]..."
+    dc "Biliyor musun, [mcname]..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:161
 translate turkish q_inter_dc_14_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Evet?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:162
 translate turkish q_inter_dc_14_7e89b932:
 
     # dc "I wouldn't mind staying over some night... when I don't have to work early in the morning."
-    dc "I wouldn't mind staying over some night... when I don't have to work early in the morning."
+    dc "Bir gece kalmaya itirazım olmaz... sabah erken çalışmak zorunda olmadığım zamanlarda."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:165
 translate turkish q_inter_dc_14_991eb26a:
 
     # dc "As long as that's not too presumptuous!"
-    dc "As long as that's not too presumptuous!"
+    dc "Tabii bu çok küstahça değilse!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:166
 translate turkish q_inter_dc_14_d09610d2:
@@ -284,5 +284,5 @@ translate turkish q_inter_dc_14_d09610d2:
 translate turkish q_inter_dc_14_9ddb8cfd:
 
     # dc "I was really hoping you'd say that."
-    dc "I was really hoping you'd say that."
+    dc "Bunu söylemeni gerçekten umuyordum."
 
