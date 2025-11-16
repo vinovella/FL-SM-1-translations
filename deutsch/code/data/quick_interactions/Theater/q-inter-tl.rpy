@@ -554,25 +554,25 @@ translate deutsch q_inter_tl_17_543cc186:
 translate deutsch q_inter_tl_22_b8de97c5:
 
     # tl "I've lived in a lot of different places in my life."
-    tl "I've lived in a lot of different places in my life."
+    tl "Ich habe in meinem Leben schon an vielen verschiedenen Orten gelebt."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:301
 translate deutsch q_inter_tl_22_9779ebe5:
 
     # mc "Where does this rank?"
-    mc "Where does this rank?"
+    mc "Wo ordnet sich dieser ein"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:304
 translate deutsch q_inter_tl_22_2a6567e4:
 
     # tl "Definitely top ten. I once stayed in a cartel leader's mansion."
-    tl "Definitely top ten. I once stayed in a cartel leader's mansion."
+    tl "Auf jeden Fall unter den Top Ten. Ich habe sogar einmal in der Villa eines Kartellchefs gewohnt."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:305
 translate deutsch q_inter_tl_22_318299da:
 
     # tl "Great food and maid service."
-    tl "Great food and maid service."
+    tl "Tolles Essen und hervorragender Zimmerservice."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:311
 translate deutsch q_inter_tl_23_7cadc6a5:
@@ -584,55 +584,55 @@ translate deutsch q_inter_tl_23_7cadc6a5:
 translate deutsch q_inter_tl_23_3ee32121:
 
     # mc "You good?"
-    mc "You good?"
+    mc "Alles klar?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:313
 translate deutsch q_inter_tl_23_1d988ea3:
 
     # tl "Yeah. Just caught the perfect draft."
-    tl "Yeah. Just caught the perfect draft."
+    tl "Ja. Habe gerade den perfekten Draft erwischt."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:314
 translate deutsch q_inter_tl_23_cdd14d57:
 
     # tl "Made my nipples buzz. Haha."
-    tl "Made my nipples buzz. Haha."
+    tl "Das hat meine Brustwarzen zum Kribbeln gebracht. Haha."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:319
 translate deutsch q_inter_tl_24_e256e6d7:
 
     # tl "I'm glad you're not some square or suit working for the Man, [mcname]."
-    tl "I'm glad you're not some square or suit working for the Man, [mcname]."
+    tl "Ich bin froh, dass du kein Spießer oder Anzugträger bist, der für den Chef arbeitet, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:320
 translate deutsch q_inter_tl_24_f4b470ca:
 
     # mc "Thanks?"
-    mc "Thanks?"
+    mc "Danke?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:321
 translate deutsch q_inter_tl_24_316e0f01:
 
     # tl "It takes big balls to stay independent these days."
-    tl "It takes big balls to stay independent these days."
+    tl "Heutzutage braucht man viel Mut, um unabhängig zu bleiben."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:327
 translate deutsch q_inter_tl_25_06b9e6a6:
 
     # tl "Who was that guy at the Studio party?"
-    tl "Who was that guy at the Studio party?"
+    tl "Wer war dieser Typ auf der Studio-Party?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:328
 translate deutsch q_inter_tl_25_91c18cf9:
 
     # mc "Just some asshole?"
-    mc "Just some asshole?"
+    mc "Nur irgendein Arschloch?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:329
 translate deutsch q_inter_tl_25_3304e74e:
 
     # tl "Want me to fuck up his car with a butterfly knife?"
-    tl "Want me to fuck up his car with a butterfly knife?"
+    tl "Soll ich sein Auto mit einem Butterflymesser kaputtmachen?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:330
 translate deutsch q_inter_tl_25_2b35b6fe:
@@ -644,55 +644,55 @@ translate deutsch q_inter_tl_25_2b35b6fe:
 translate deutsch q_inter_tl_25_fca52711:
 
     # mc "No."
-    mc "No."
+    mc "Nein."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:332
 translate deutsch q_inter_tl_25_7c1576dc:
 
     # tl "No as in like 'No'?"
-    tl "No as in like 'No'?"
+    tl "Nein, wie ein „Nein“?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:333
 translate deutsch q_inter_tl_25_b6a99958:
 
     # mc "No as in N. O. Taisia."
-    mc "No as in N. O. Taisia."
+    mc "Nein, wie ein N.E.I.N. Taisia."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:336
 translate deutsch q_inter_tl_25_4e239b13:
 
     # tl "Fine fine."
-    tl "Fine fine."
+    tl "Gut, gut."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:341
 translate deutsch q_inter_tl_26_ee162e8e:
 
     # tl "You're in now, [mcname]."
-    tl "You're in now, [mcname]."
+    tl "Du bist jetzt drin, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:342
 translate deutsch q_inter_tl_26_af44dddb:
 
     # tl "Try not to blow it."
-    tl "Try not to blow it."
+    tl "Versuch es nicht zu vermasseln."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:347
 translate deutsch q_inter_tl_27_f8a8af5a:
 
     # tl "I'll admit, I bet Kai twenty bucks that you wouldn't make it to be a full actor here."
-    tl "I'll admit, I bet Kai twenty bucks that you wouldn't make it to be a full actor here."
+    tl "Ich gebe zu, ich habe mit Kai um zwanzig Dollar gewettet, dass du es hier nicht zum Vollzeit-Schauspieler schaffen würdest."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:348
 translate deutsch q_inter_tl_27_88816c0b:
 
     # mc "You're the one who brought me in."
-    mc "You're the one who brought me in."
+    mc "Du bist diejenige, die mich hierher gebracht hat."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:351
 translate deutsch q_inter_tl_27_586c405a:
 
     # tl "Were you listening? I'm out twenty bucks because of you."
-    tl "Were you listening? I'm out twenty bucks because of you."
+    tl "Hast du zugehört? Wegen dir bin ich zwanzig Dollar los."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:352
 translate deutsch q_inter_tl_27_eadd5e5f:
