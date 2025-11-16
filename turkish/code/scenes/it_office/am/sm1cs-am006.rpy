@@ -1016,273 +1016,273 @@ translate turkish strings:
 translate turkish sm1cs_am006_58ee8e36:
 
     # mc "Isn't the customer always right?"
-    mc "Isn't the customer always right?"
+    mc "Müşteri her zaman haklı değil mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:227
 translate turkish sm1cs_am006_arcade_6c8b6bb5:
 
     # am "I {b}know{/b} I can be a lot.{w} That's what you're thinking, right?"
-    am "I {b}know{/b} I can be a lot.{w} That's what you're thinking, right?"
+    am "{b}Biliyorum{/b} biraz fazla olabilirim.{w} Düşündüğün şey bu, değil mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:238
 translate turkish sm1cs_am006_arcade_e0313ce3:
 
     # mc "So you're going to try lowering your shields?"
-    mc "So you're going to try lowering your shields?"
+    mc "Peki kalkanlarını indirmeyi deneyecek misin?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:250
 translate turkish sm1cs_am006_arcade_073a951f:
 
     # am "I'm not {b}that{/b} easy, [mcname]."
-    am "I'm not {b}that{/b} easy, [mcname]."
+    am "Ben {b}o{/b} kadar kolay değilim, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:253
 translate turkish sm1cs_am006_arcade_3b107314:
 
     # mc "The last time we were out, you asked me to fuck you in your car..."
-    mc "The last time we were out, you asked me to fuck you in your car..."
+    mc "Son dışarı çıktığımızda, arabanda seni sikmemi istedin..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:290
 translate turkish sm1cs_am006_arcade_521a9133:
 
     # mct "I remember this machine.{w} It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
-    mct "I remember this machine.{w} It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
+    mct "Bu makineyi hatırlıyorum.{w} Büyük halkalara atmak daha kolay ama topu küçük halkalara atarak en çok puanı alırsın."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:318
 translate turkish sm1cs_am006_arcade_134ebe15:
 
     # am "I'm a little rusty..."
-    am "I'm a little rusty..."
+    am "Biraz paslanmışım..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:324
 translate turkish sm1cs_am006_arcade_ebdf84e1:
 
     # am "And you know you're never going to see my smaller {b}hole{/b} acting like that."
-    am "And you know you're never going to see my smaller {b}hole{/b} acting like that."
+    am "Ve böyle davranarak benim daha küçük {b}deliğimi{/b} asla göremeyeceğini biliyorsun."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:352
 translate turkish sm1cs_am006_arcade_cbdde717:
 
     # am "It's gotta be you.{w} When I do this alone, I always score way higher."
-    am "It's gotta be you.{w} When I do this alone, I always score way higher."
+    am "Senin yüzünden olmalı.{w} Bunu yalnız yaptığımda, her zaman çok daha yüksek puan alırım."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:355
 translate turkish sm1cs_am006_arcade_ee626115:
 
     # mc "That might be it.{w} Or it's because you're not really letting yourself relax."
-    mc "That might be it.{w} Or it's because you're not really letting yourself relax."
+    mc "Bu olabilir.{w} Ya da kendini gerçekten rahatlatmadığın içindir."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:364
 translate turkish sm1cs_am006_arcade_52b129bf:
 
     # mc "I studied your movements, April.{w} Your body was so stiff and tense."
-    mc "I studied your movements, April.{w} Your body was so stiff and tense."
+    mc "Hareketlerini inceledim, April.{w} Vücudun çok katı ve gergindi."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:371
 translate turkish sm1cs_am006_arcade_f9779a86:
 
     # mc "Yeah, sounds like you're {b}totally{/b} relaxed."
-    mc "Yeah, sounds like you're {b}totally{/b} relaxed."
+    mc "Evet, {b}tamamen{/b} rahatlamış gibi görünüyorsun."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:380
 translate turkish sm1cs_am006_arcade_cfd32586:
 
     # mc "Once is lucky.{w} Twice is just plain {b}good{/b}."
-    mc "Once is lucky.{w} Twice is just plain {b}good{/b}."
+    mc "Bir kere şanstır.{w} İki kere sadece {b}iyidir{/b}."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:402
 translate turkish sm1cs_am006_arcade_999e1d2f:
 
     # am "No way.{w} Best two out of three."
-    am "No way.{w} Best two out of three."
+    am "Asla.{w} Üçün en iyisi ikisi."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:439
 translate turkish sm1cs_am006_arcade_585579e4:
 
     # am "Yes!{w} Wooh. She shoots, she scores!"
-    am "Yes!{w} Wooh. She shoots, she scores!"
+    am "Evet!{w} Wooh. Atış yapar, gol atar!"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:448
 translate turkish sm1cs_am006_arcade_39c7e4cc:
 
     # am "In your face!{w} In your stupid handsome face!"
-    am "In your face!{w} In your stupid handsome face!"
+    am "Suratına!{w} Aptal yakışıklı suratına!"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:457
 translate turkish sm1cs_am006_arcade_97275737:
 
     # am "Oh yeah.{w} Forget I said anything."
-    am "Oh yeah.{w} Forget I said anything."
+    am "Ah evet.{w} Bir şey söylediğimi unut."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:491
 translate turkish sm1cs_am006_arcade_140a6992:
 
     # mc "So spill it.{w} When was the last time you let your shields down?"
-    mc "So spill it.{w} When was the last time you let your shields down?"
+    mc "Hadi söyle.{w} Kalkanlarını en son ne zaman indirdin?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:511
 translate turkish sm1cs_am006_arcade_288b6525:
 
     # mc "Okay, liar."
-    mc "Okay, liar."
+    mc "Tamam, yalancı."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:514
 translate turkish sm1cs_am006_arcade_e0d555f5:
 
     # am "I'm not lying.{w} I... I really mean it, [mcname]."
-    am "I'm not lying.{w} I... I really mean it, [mcname]."
+    am "Yalan söylemiyorum.{w} Ben... Gerçekten söylüyorum, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:515
 translate turkish sm1cs_am006_arcade_14e32ccd:
 
     # am "It's probably been years..."
-    am "It's probably been years..."
+    am "Muhtemelen yıllar olmuştur..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:518
 translate turkish sm1cs_am006_arcade_b70189dd:
 
     # am "Around middle school is when I realized how good I was with computers..."
-    am "Around middle school is when I realized how good I was with computers..."
+    am "Ortaokulda bilgisayarlarla ne kadar iyi olduğumu fark ettiğimde..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:519
 translate turkish sm1cs_am006_arcade_49acd481:
 
     # am "When I started getting really good, a lot of guys {i}changed{/i} how they acted toward me."
-    am "When I started getting really good, a lot of guys {i}changed{/i} how they acted toward me."
+    am "Gerçekten iyi olmaya başladığımda, birçok erkek bana karşı davranışlarını {i}değiştirdi{/i}."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:520
 translate turkish sm1cs_am006_arcade_d1126a46:
 
     # am "Sometimes it was small changes.{w} Other times..."
-    am "Sometimes it was small changes.{w} Other times..."
+    am "Bazen küçük değişikliklerdi.{w} Diğer zamanlarda..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:521
 translate turkish sm1cs_am006_arcade_ffa0b403:
 
     # am "I lost friends.{w} People I knew for years turned into super assholes."
-    am "I lost friends.{w} People I knew for years turned into super assholes."
+    am "Arkadaşlarımı kaybettim.{w} Yıllardır tanıdığım insanlar süper pislikler haline geldi."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:524
 translate turkish sm1cs_am006_arcade_53a463b4:
 
     # mct "I can't imagine that was easy."
-    mct "I can't imagine that was easy."
+    mct "Bunun kolay olduğunu düşünemiyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:542
 translate turkish sm1cs_am006_arcade_2be93e70:
 
     # am "I had to break them with my words.{w} Or at least get them to leave me the hell alone."
-    am "I had to break them with my words.{w} Or at least get them to leave me the hell alone."
+    am "Onları sözlerimle kırmak zorunda kaldım.{w} Ya da en azından beni rahat bırakmalarını sağlamak zorundaydım."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:545
 translate turkish sm1cs_am006_arcade_1579fa81:
 
     # mc "Is that why you treat Anna like you do?{w} Because she got the promotion and is now above you?"
-    mc "Is that why you treat Anna like you do?{w} Because she got the promotion and is now above you?"
+    mc "Anna'ya bu yüzden mi böyle davranıyorsun?{w} Çünkü terfi etti ve şimdi senin üstünde mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:558
 translate turkish sm1cs_am006_arcade_1106ff6e:
 
     # mc "Maybe because I'm the first non-asshole who saw the {i}real{/i} you?{w} Underneath the barbs."
-    mc "Maybe because I'm the first non-asshole who saw the {i}real{/i} you?{w} Underneath the barbs."
+    mc "Belki de {i}gerçek{/i} seni gören ilk pislik olmayan kişi olduğum içindir?{w} Dikenlerinin altındaki seni."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
 translate turkish sm1cs_am006_arcade_d4cb5c7b:
 
     # am "Hmmph.{w} Maybe you're onto something."
-    am "Hmmph.{w} Maybe you're onto something."
+    am "Hmmph.{w} Belki bir şeylerin peşindesin."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:563
 translate turkish sm1cs_am006_arcade_33057f39:
 
     # am "But more realistically, it's probably because I have a crush on you."
-    am "But more realistically, it's probably because I have a crush on you."
+    am "Ama daha gerçekçi bir şekilde, muhtemelen sana aşık olduğum içindir."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:564
 translate turkish sm1cs_am006_arcade_ed63b19c:
 
     # am "And one day, it will wear off."
-    am "And one day, it will wear off."
+    am "Ve bir gün, bu geçecek."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:576
 translate turkish sm1cs_am006_arcade_536b2a6a:
 
     # mc "I do.{w} Maybe we can test things out again."
-    mc "I do.{w} Maybe we can test things out again."
+    mc "Biliyorum.{w} Belki bir şeyleri tekrar deneyebiliriz."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:588
 translate turkish sm1cs_am006_arcade_db3fe2b0:
 
     # mc "*softly* The basics."
-    mc "*softly* The basics."
+    mc "*yumuşakça* Temel şeyler."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:623
 translate turkish sm1cs_am006_arcade_811460c5:
 
     # mc "Okay, okay.{w} We don't have to-"
-    mc "Okay, okay.{w} We don't have to-"
+    mc "Tamam, tamam.{w} Yapmak zorunda değiliz-"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:646
 translate turkish sm1cs_am006_arcade_8441b9e9:
 
     # mct "Woah.{w} She's... she's really into this."
-    mct "Woah.{w} She's... she's really into this."
+    mct "Vay canına.{w} O... o gerçekten bunun içinde."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:665
 translate turkish sm1cs_am006_arcade_07a645a2:
 
     # am "What?{w} No. Of course I didn't.{w} Shut up!"
-    am "What?{w} No. Of course I didn't.{w} Shut up!"
+    am "Ne?{w} Hayır. Tabii ki yapmadım.{w} Sus!"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:675
 translate turkish sm1cs_am006_arcade_9eebb2e3:
 
     # am "I know.{w} I don't know what's gotten into me."
-    am "I know.{w} I don't know what's gotten into me."
+    am "Biliyorum.{w} Bana ne olduğunu bilmiyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:679
 translate turkish sm1cs_am006_arcade_5446535a:
 
     # am "I {b}hate{/b} that thought more."
-    am "I {b}hate{/b} that thought more."
+    am "Bu düşünceden daha çok {b}nefret ediyorum{/b}."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:683
 translate turkish sm1cs_am006_arcade_157700e7:
 
     # mc "So what happens now?"
-    mc "So what happens now?"
+    mc "Peki şimdi ne olacak?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:688
 translate turkish sm1cs_am006_arcade_f98c4280:
 
     # am "You {i}were{/i} right, this was a good idea."
-    am "You {i}were{/i} right, this was a good idea."
+    am "{i}Haklıydın{/i}, bu iyi bir fikirdi."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:689
 translate turkish sm1cs_am006_arcade_bb8e3797:
 
     # am "I just.{w} For now, I still need time."
-    am "I just.{w} For now, I still need time."
+    am "Ben sadece.{w} Şimdilik, hala zamana ihtiyacım var."
 
 translate turkish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
     old "That really sucks"
-    new "That really sucks"
+    new "Bu gerçekten kötü"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
     old "You look great"
-    new "You look great"
+    new "Harika görünüyorsun"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:565
     old "I hope it doesn't"
-    new "I hope it doesn't"
+    new "Umarım öyle olmaz"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
     old "Kiss April again"
-    new "Kiss April again"
+    new "April'ı tekrar öp"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
     old "Don't kiss April"
-    new "Don't kiss April"
+    new "April'ı öpme"
 
