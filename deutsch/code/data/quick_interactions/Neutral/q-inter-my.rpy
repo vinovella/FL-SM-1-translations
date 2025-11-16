@@ -296,7 +296,7 @@ translate deutsch q_inter_my_11_8bc223c4:
 translate deutsch q_inter_my_11_35fedb77:
 
     # mc "Hey, Mom!"
-    mc "Hey, Mom!"
+    mc "Hey, Mama!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:191
 translate deutsch q_inter_my_11_f67d45c0:
@@ -308,19 +308,19 @@ translate deutsch q_inter_my_11_f67d45c0:
 translate deutsch q_inter_my_11_4b782f43:
 
     # mc "You know, that last date-"
-    mc "You know, that last date-"
+    mc "Weißt du, das letzte Date-"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:196
 translate deutsch q_inter_my_11_1b49c09c:
 
     # my "Shhhh! Not i front of your sister!"
-    my "Shhhh! Not i front of your sister!"
+    my "Pssst! Nicht vor deiner Schwester!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:198
 translate deutsch q_inter_my_11_64ff3bc5:
 
     # my "Shhh! Not in front of Stacy!"
-    my "Shhh! Not in front of Stacy!"
+    my "Pssst! Nicht vor Stacy!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:201
 translate deutsch q_inter_my_11_fc645303:
@@ -332,13 +332,13 @@ translate deutsch q_inter_my_11_fc645303:
 translate deutsch q_inter_my_11_f4e6139e:
 
     # my "But yes it was."
-    my "But yes it was."
+    my "Aber ja, das war es."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:207
 translate deutsch q_inter_my_12_77034b1f:
 
     # my "You know, [mcname], you've set the bar pretty high for yourself."
-    my "You know, [mcname], you've set the bar pretty high for yourself."
+    my "Weißt du, [mcname], du hast dir selbst ziemlich hohe Ziele gesetzt."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:208
 translate deutsch q_inter_my_12_ee87e6f3:
@@ -350,13 +350,13 @@ translate deutsch q_inter_my_12_ee87e6f3:
 translate deutsch q_inter_my_12_6da6d153:
 
     # my "Mmmhmmmm. What's our next date going to be?"
-    my "Mmmhmmmm. What's our next date going to be?"
+    my "Mmmhmmmm. Wann ist unser nächstes Date?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:212
 translate deutsch q_inter_my_12_c753e752:
 
     # mc "OH, uh..."
-    mc "OH, uh..."
+    mc "OH, äh..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:215
 translate deutsch q_inter_my_12_e5fdbbec:
@@ -368,13 +368,13 @@ translate deutsch q_inter_my_12_e5fdbbec:
 translate deutsch q_inter_my_13_993d0554:
 
     # mc "So, Mom, you know how you're an artist?"
-    mc "So, Mom, you know how you're an artist?"
+    mc "Also, Mama, weißt du, du bist doch eine Künstlerin?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:223
 translate deutsch q_inter_my_13_69636506:
 
     # mc "So, Melony, you know how you're an artist?"
-    mc "So, Melony, you know how you're an artist?"
+    mc "Also, Melony, weißt du, du bist doch eine Künstlerin?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:226
 translate deutsch q_inter_my_13_2128d416:
@@ -386,19 +386,19 @@ translate deutsch q_inter_my_13_2128d416:
 translate deutsch q_inter_my_13_cf0364b3:
 
     # mc "Do you think that maybe you'd be able to help us out with some of our art in the movies?"
-    mc "Do you think that maybe you'd be able to help us out with some of our art in the movies?"
+    mc "Könntest du uns vielleicht bei einigen unserer künstlerischen Arbeiten im Filmbereich unterstützen?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:230
 translate deutsch q_inter_my_13_92e887d1:
 
     # my "Hmmm... I don't know, [mcname]..."
-    my "Hmmm... I don't know, [mcname]..."
+    my "Hmmm... Ich weiß ja nicht, [mcname]..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:231
 translate deutsch q_inter_my_13_2aea2240:
 
     # my "I might have accepted that you're doing this, but I'm not sure I'm ready to commit to the movies yet..."
-    my "I might have accepted that you're doing this, but I'm not sure I'm ready to commit to the movies yet..."
+    my "Ich würde vielleicht akzeptieren, dass du das machst, aber ich bin mir noch nicht sicher, ob ich mich schon so sehr auf die Filme einlassen möchte..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:236
 translate deutsch q_inter_my_14_ec8245fb:
@@ -410,17 +410,17 @@ translate deutsch q_inter_my_14_ec8245fb:
 translate deutsch q_inter_my_14_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Hä?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:240
 translate deutsch q_inter_my_14_aee1c600:
 
     # my "Oh, erm, nothing! Nothing at all!"
-    my "Oh, erm, nothing! Nothing at all!"
+    my "Oh, ähm, nichts! Überhaupt nichts!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:241
 translate deutsch q_inter_my_14_b1517650:
 
     # my "Just thinking about something else!"
-    my "Just thinking about something else!"
+    my "Ich denke gerade an etwas anderes!"
 
