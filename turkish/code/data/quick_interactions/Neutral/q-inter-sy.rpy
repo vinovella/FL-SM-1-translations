@@ -398,7 +398,7 @@ translate turkish q_inter_sy_33_d8c59b20:
 translate turkish q_inter_sy_33_71e206da:
 
     # mc "Yeah. I'm excited to play with you as a naughty farmer's daughter."
-    mc "Yeah. I'm excited to play with you as a naughty farmer's daughter."
+    mc "Evet. Seninle yaramaz bir çiftçinin kızı olarak oynamak için sabırsızlanıyorum."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:315
 translate turkish q_inter_sy_33_aab31592:
