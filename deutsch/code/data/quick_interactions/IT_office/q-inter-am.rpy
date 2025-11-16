@@ -776,47 +776,47 @@ translate deutsch q_inter_am_21_5ceda4d0:
 translate deutsch q_inter_am_29_6b516b0a:
 
     # mc "Can I get you a drink, April?"
-    mc "Can I get you a drink, April?"
+    mc "Möchtest du etwas trinken, April?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:428
 translate deutsch q_inter_am_29_e256ee28:
 
     # am "Nah, I'm just going to have this one and head home."
-    am "Nah, I'm just going to have this one and head home."
+    am "Nein, ich nehme nur dieses eine und gehe dann nach Hause."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:429
 translate deutsch q_inter_am_29_d5ae2301:
 
     # mc "Fair enough."
-    mc "Fair enough."
+    mc "In Ordnung."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:432
 translate deutsch q_inter_am_29_a98164a3:
 
     # am "But maybe some other time?"
-    am "But maybe some other time?"
+    am "Aber vielleicht ein anderes Mal?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:433
 translate deutsch q_inter_am_29_74c498aa:
 
     # mc "Sounds good to me."
-    mc "Sounds good to me."
+    mc "Klingt gut für mich."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:438
 translate deutsch q_inter_am_30_fc8a648f:
 
     # am "You know... that was a pretty nice hotel we were at."
-    am "You know... that was a pretty nice hotel we were at."
+    am "Weißt du... das war ein ziemlich schönes Hotel, in dem wir waren."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:439
 translate deutsch q_inter_am_30_6e031e75:
 
     # mc "Yeah it was."
-    mc "Yeah it was."
+    mc "Ja, das war es."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:442
 translate deutsch q_inter_am_30_83e13801:
 
     # am "We'll have to go back sometime for round 2."
-    am "We'll have to go back sometime for round 2."
+    am "Wir müssen irgendwann für Runde 2 zurückkommen."
 
