@@ -42,13 +42,13 @@ translate deutsch strings:
 
     # game/code/renpy/screens/others.rpy:7
     old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
-    new "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
+    new "Wir sammeln ausschließlich anonymisierte Daten, um besser zu verstehen, welche Pfade, Charaktere, Szenen und Fetische am beliebtesten sind, und um Bereiche zu identifizieren, in denen Verbesserungsbedarf besteht."
 
     # game/code/renpy/screens/others.rpy:8
     old "NO PERSONAL INFORMATION IS COLLECTED."
-    new "NO PERSONAL INFORMATION IS COLLECTED."
+    new "ES WERDEN KEINE PERSONENBEZOGENEN DATEN ERFASST."
 
     # game/code/renpy/screens/others.rpy:9
     old "Would you like to enable this data collection?"
-    new "Would you like to enable this data collection?"
+    new "Möchtest du diese Datenerfassung aktivieren?"
 
