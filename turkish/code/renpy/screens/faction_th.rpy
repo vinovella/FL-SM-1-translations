@@ -20,9 +20,9 @@ translate turkish strings:
 
     # game/code/renpy/screens/faction_th.rpy:60
     old "Pay after show on [THController.final_show_day!t]:"
-    new "Pay after show on [THController.final_show_day!t]:"
+    new "[THController.final_show_day!t] tarihindeki gösteriden sonra ödeme:"
 
     # game/code/renpy/screens/faction_th.rpy:70
     old "Progress [th_progress_percent]%"
-    new "Progress [th_progress_percent]%"
+    new "İlerleme [th_progress_percent]%"
 
