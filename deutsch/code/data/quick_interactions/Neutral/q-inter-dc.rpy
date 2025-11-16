@@ -188,31 +188,31 @@ translate deutsch q_inter_dc_12_757c5cb4:
 translate deutsch q_inter_dc_12_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Ja?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:138
 translate deutsch q_inter_dc_12_b7912968:
 
     # dc "Have you heard about the bathroom in the park?"
-    dc "Have you heard about the bathroom in the park?"
+    dc "Hast du schon von der Toilette im Park gehört?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:139
 translate deutsch q_inter_dc_12_9e3589d8:
 
     # mc "Uhm... what about it?"
-    mc "Uhm... what about it?"
+    mc "Ähm... was ist damit?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:142
 translate deutsch q_inter_dc_12_6a5c9cc7:
 
     # dc "I think one day we'll have to go and check it out."
-    dc "I think one day we'll have to go and check it out."
+    dc "Ich denke, wir müssen uns die eines Tages mal ansehen."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:143
 translate deutsch q_inter_dc_12_db62a37a:
 
     # dc "You know. For police work."
-    dc "You know. For police work."
+    dc "Du weißt schon. Für die Polizeiarbeit."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:148
 translate deutsch q_inter_dc_13_4af35993:
@@ -224,65 +224,65 @@ translate deutsch q_inter_dc_13_4af35993:
 translate deutsch q_inter_dc_13_3c0c267e:
 
     # dc "Yes?"
-    dc "Yes?"
+    dc "Ja?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:150
 translate deutsch q_inter_dc_13_1f796c3d:
 
     # mc "You know, I've always loved a woman in uniform."
-    mc "You know, I've always loved a woman in uniform."
+    mc "Weißt du, ich habe Frauen in Uniform schon immer geliebt."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:153
 translate deutsch q_inter_dc_13_f0a7cc79:
 
     # dc "[mcname]! Stop it, I'm at work!"
-    dc "[mcname]! Stop it, I'm at work!"
+    dc "[mcname]! Hör auf damit, ich bin bei der Arbeit!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:154
 translate deutsch q_inter_dc_13_7a05d0ac:
 
     # mc "How can I, when you look this good?"
-    mc "How can I, when you look this good?"
+    mc "Wie könnte ich das, wenn du so gut aussiehst?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:155
 translate deutsch q_inter_dc_13_3dc35730:
 
     # dc "Oh, you!"
-    dc "Oh, you!"
+    dc "Ach, du!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:160
 translate deutsch q_inter_dc_14_21c04b3a:
 
     # dc "You know, [mcname]..."
-    dc "You know, [mcname]..."
+    dc "Weißt du, [mcname]..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:161
 translate deutsch q_inter_dc_14_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Ja?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:162
 translate deutsch q_inter_dc_14_7e89b932:
 
     # dc "I wouldn't mind staying over some night... when I don't have to work early in the morning."
-    dc "I wouldn't mind staying over some night... when I don't have to work early in the morning."
+    dc "Ich würde gerne mal eine Nacht hier verbringen... wenn ich nicht früh morgens arbeiten muss."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:165
 translate deutsch q_inter_dc_14_991eb26a:
 
     # dc "As long as that's not too presumptuous!"
-    dc "As long as that's not too presumptuous!"
+    dc "Solange das nicht zu anmaßend ist!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:166
 translate deutsch q_inter_dc_14_d09610d2:
 
     # mc "I would love that, Debbie."
-    mc "I would love that, Debbie."
+    mc "Das würde mir sehr gefallen, Debbie."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:167
 translate deutsch q_inter_dc_14_9ddb8cfd:
 
     # dc "I was really hoping you'd say that."
-    dc "I was really hoping you'd say that."
+    dc "Ich hatte wirklich gehofft, dass du das sagen würdest."
 
