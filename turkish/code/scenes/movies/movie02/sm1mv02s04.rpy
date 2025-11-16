@@ -248,7 +248,7 @@ translate turkish sm1mv02s04_89030d48:
 translate turkish sm1mv02s04_3e529961:
 
     # mc "Hey everyone. Your fearless leader has arrived."
-    mc "Hey everyone. Your fearless leader has arrived."
+    mc "Herkese selam. Korkusuz lideriniz geldi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:147
 translate turkish sm1mv02s04_113de99e:
@@ -266,7 +266,7 @@ translate turkish sm1mv02s04_27699e55:
 translate turkish sm1mv02s04_3e529961_1:
 
     # mc "Hey everyone. Your fearless leader has arrived."
-    mc "Hey everyone. Your fearless leader has arrived."
+    mc "Herkese selam. Korkusuz lideriniz geldi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:159
 translate turkish sm1mv02s04_70f29d4b:
@@ -284,7 +284,7 @@ translate turkish sm1mv02s04_c365e39a:
 translate turkish sm1mv02s04_e140f834:
 
     # mc "I almost forgot."
-    mc "I almost forgot."
+    mc "Neredeyse unutuyordum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:170
 translate turkish sm1mv02s04_1f8570fb:
@@ -350,7 +350,7 @@ translate turkish sm1mv02s04_66fad05b:
 translate turkish sm1mv02s04_e140f834_1:
 
     # mc "I almost forgot."
-    mc "I almost forgot."
+    mc "Neredeyse unutuyordum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:194
 translate turkish sm1mv02s04_8320734d:
@@ -614,19 +614,19 @@ translate turkish sm1mv02s04_697ec159:
 translate turkish sm1mv02s04_863d9071:
 
     # mc "Taisia Lindquist. We met at the theater."
-    mc "Taisia Lindquist. We met at the theater."
+    mc "Taisia Lindquist. Tiyatroda tanıştık."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:308
 translate turkish sm1mv02s04_17fd4c5d:
 
     # ns "And now she lives with us."
-    ns "And now she lives with us."
+    ns "Ve şimdi bizimle yaşıyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:311
 translate turkish sm1mv02s04_e159c4aa:
 
     # tl "I'm always good at finding perks."
-    tl "I'm always good at finding perks."
+    tl "Avantaj bulmakta her zaman iyiyimdir."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:313
 translate turkish sm1mv02s04_8f411162:
@@ -638,19 +638,19 @@ translate turkish sm1mv02s04_8f411162:
 translate turkish sm1mv02s04_5c397765:
 
     # mc "And this is Taisia, a colleague from the local theater."
-    mc "And this is Taisia, a colleague from the local theater."
+    mc "Ve bu Taisia, yerel tiyatrodan bir meslektaş."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:319
 translate turkish sm1mv02s04_7a96f443:
 
     # tl "'Colleague'? So formal."
-    tl "'Colleague'? So formal."
+    tl "'Meslektaş'? Ne kadar resmi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:320
 translate turkish sm1mv02s04_2cb35900:
 
     # tl "You sure you came to the right spot, Nari?"
-    tl "You sure you came to the right spot, Nari?"
+    tl "Doğru yere geldiğine emin misin, Nari?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:323
 translate turkish sm1mv02s04_831c5076:
@@ -662,43 +662,43 @@ translate turkish sm1mv02s04_831c5076:
 translate turkish sm1mv02s04_241dd514:
 
     # tl "Yeah but you look a bit shy and nervous. Not exactly porn actress material."
-    tl "Yeah but you look a bit shy and nervous. Not exactly porn actress material."
+    tl "Evet ama biraz utangaç ve gergin görünüyorsun. Tam olarak porno oyuncusu malzemesi değil."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:329
 translate turkish sm1mv02s04_b11e2bc9:
 
     # mc "Rest assured, Nari is a naughty as they come."
-    mc "Rest assured, Nari is a naughty as they come."
+    mc "Emin ol, Nari oldukça yaramaz biri."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:332
 translate turkish sm1mv02s04_63290708:
 
     # tl "Hmm. Guess we'll see."
-    tl "Hmm. Guess we'll see."
+    tl "Hmm. Sanırım göreceğiz."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:336
 translate turkish sm1mv02s04_caed8c7d:
 
     # mc "Okay everyone. Let's get used to our seats and stations."
-    mc "Okay everyone. Let's get used to our seats and stations."
+    mc "Tamam millet. Koltuklarımıza ve istasyonlarımıza alışalım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:340
 translate turkish sm1mv02s04_e1b71c15:
 
     # sy "Awesome."
-    sy "Awesome."
+    sy "Harika."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:342
 translate turkish sm1mv02s04_817806a6:
 
     # ns "I can't wait."
-    ns "I can't wait."
+    ns "Sabırsızlanıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:348
 translate turkish sm1mv02s04_a54ad57f:
 
     # mes "I may have already peaked a little."
-    mes "I may have already peaked a little."
+    mes "Sanırım zaten biraz baktım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:350
 translate turkish sm1mv02s04_38163c39:
@@ -710,19 +710,19 @@ translate turkish sm1mv02s04_38163c39:
 translate turkish sm1mv02s04_4a50da89:
 
     # mes "I couldn't resist."
-    mes "I couldn't resist."
+    mes "Direnememiştim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:355
 translate turkish sm1mv02s04_f3722664:
 
     # mh "And a hush falls over the crowd."
-    mh "And a hush falls over the crowd."
+    mh "Ve kalabalığın üzerine bir sessizlik çöküyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:358
 translate turkish sm1mv02s04_2aef07a4:
 
     # mc "You're going to love it."
-    mc "You're going to love it."
+    mc "Bayılacaksın."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:365
 translate turkish sm1mv02s04_23aa3b29:
@@ -746,43 +746,43 @@ translate turkish sm1mv02s04_aedb9d02:
 translate turkish sm1mv02s04_904f1517:
 
     # ns "Woah."
-    ns "Woah."
+    ns "Vay be."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:379
 translate turkish sm1mv02s04_1855f0cf:
 
     # ns "So cool."
-    ns "So cool."
+    ns "Çok havalı."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:382
 translate turkish sm1mv02s04_954da776:
 
     # mc "Thanks, Nari. But make sure to just keep that photo yourself."
-    mc "Thanks, Nari. But make sure to just keep that photo yourself."
+    mc "Teşekkürler, Nari. Ama o fotoğrafı sadece kendinde tut."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:383
 translate turkish sm1mv02s04_d19ed516:
 
     # mc "No sharing yet."
-    mc "No sharing yet."
+    mc "Henüz paylaşma."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:386
 translate turkish sm1mv02s04_5f29e557:
 
     # ns "I know. Maybe after the movie is done."
-    ns "I know. Maybe after the movie is done."
+    ns "Biliyorum. Belki film bittikten sonra."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:387
 translate turkish sm1mv02s04_cf9ac7f6:
 
     # ns "And where do I sit?"
-    ns "And where do I sit?"
+    ns "Peki ben nereye oturacağım?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:390
 translate turkish sm1mv02s04_44d659ad:
 
     # mc "For some of the scenes, you will probably be setup at one of the sub consoles."
-    mc "For some of the scenes, you will probably be setup at one of the sub consoles."
+    mc "Bazı sahneler için muhtemelen yardımcı konsollardan birinde olacaksın."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:391
 translate turkish sm1mv02s04_f2316b97:
@@ -794,43 +794,43 @@ translate turkish sm1mv02s04_f2316b97:
 translate turkish sm1mv02s04_870a72c1:
 
     # mc "Why don't you have a seat on the command couch for now."
-    mc "Why don't you have a seat on the command couch for now."
+    mc "Şimdilik komuta koltuğuna otur."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:396
 translate turkish sm1mv02s04_dbd81ba2:
 
     # ns "Okay."
-    ns "Okay."
+    ns "Tamam."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:400
 translate turkish sm1mv02s04_d93377cb:
 
     # mes "I actually feel like I'm on some space age battleship."
-    mes "I actually feel like I'm on some space age battleship."
+    mes "Gerçekten uzay çağı bir savaş gemisinde gibi hissediyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:405
 translate turkish sm1mv02s04_2e84c070:
 
     # mh "I actually feel like I'm on some space age battleship."
-    mh "I actually feel like I'm on some space age battleship."
+    mh "Gerçekten uzay çağı bir savaş gemisinde gibi hissediyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:408
 translate turkish sm1mv02s04_d09d646b:
 
     # mc "It's powerful yes, but the {i}Intrepid{/i} is a vessel of discovery first and foremost."
-    mc "It's powerful yes, but the {i}Intrepid{/i} is a vessel of discovery first and foremost."
+    mc "Güçlü evet, ama {i}Intrepid{/i} her şeyden önce bir keşif gemisidir."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:412
 translate turkish sm1mv02s04_387fefab:
 
     # mc "Derp. I forgot the scripts."
-    mc "Derp. I forgot the scripts."
+    mc "Eyvah. Senaryoları unuttum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:445
 translate turkish sm1mv02s04_d4562c1d:
 
     # mc "Alright. Let's get cracking."
-    mc "Alright. Let's get cracking."
+    mc "Pekala. Hadi başlayalım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:460
 translate turkish sm1mv02s04_later_6aa4ee50:
@@ -860,43 +860,43 @@ translate turkish sm1mv02s04_later_f31b69a3:
 translate turkish sm1mv02s04_later_ccc6b56e:
 
     # sy "Are we all set?"
-    sy "Are we all set?"
+    sy "Hazır mıyız?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:487
 translate turkish sm1mv02s04_later_f0a3ec93:
 
     # tl "Light it up."
-    tl "Light it up."
+    tl "Başlat."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:490
 translate turkish sm1mv02s04_later_60504da8:
 
     # ns "Sure."
-    ns "Sure."
+    ns "Tabii."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:493
 translate turkish sm1mv02s04_later_fd90dfdc:
 
     # mc "Hit it."
-    mc "Hit it."
+    mc "Başla."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:497
 translate turkish sm1mv02s04_later_b552ba6c:
 
     # mes "I'm ready to fly."
-    mes "I'm ready to fly."
+    mes "Uçmaya hazırım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:501
 translate turkish sm1mv02s04_later_6c11b34d:
 
     # mh "Aye aye, Captain Stacy."
-    mh "Aye aye, Captain Stacy."
+    mh "Emredersiniz, Kaptan Stacy."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:505
 translate turkish sm1mv02s04_later_d91d57e6:
 
     # sy "*giggles*"
-    sy "*giggles*"
+    sy "*kıkırdar*"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:506
 translate turkish sm1mv02s04_later_a884c6d5:
@@ -908,79 +908,79 @@ translate turkish sm1mv02s04_later_a884c6d5:
 translate turkish sm1mv02s04_later_f090024c:
 
     # mc "Status report Number One."
-    mc "Status report Number One."
+    mc "Durum raporu Bir Numaradan."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:511
 translate turkish sm1mv02s04_later_968164cd:
 
     # sy "The ship is still in orbit over Planet Vemtyral."
-    sy "The ship is still in orbit over Planet Vemtyral."
+    sy "Gemi hala Vemtyral Gezegeni'nin yörüngesinde."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:512
 translate turkish sm1mv02s04_later_3623d932:
 
     # sy "The ion storm is getting closer, but should pass us without complication."
-    sy "The ion storm is getting closer, but should pass us without complication."
+    sy "İyon fırtınası yaklaşıyor, ama sorunsuz bir şekilde geçmeli."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:513
 translate turkish sm1mv02s04_later_c22c9be8:
 
     # mc "Good, Commander Orion."
-    mc "Good, Commander Orion."
+    mc "İyi, Komutan Orion."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:517
 translate turkish sm1mv02s04_later_ade3e0c2:
 
     # mc "Lieutenant Spectre, how's that cure coming along?"
-    mc "Lieutenant Spectre, how's that cure coming along?"
+    mc "Teğmen Spectre, tedavi nasıl gidiyor?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:521
 translate turkish sm1mv02s04_later_647d5c1b:
 
     # mes "We are making good progress, Captain."
-    mes "We are making good progress, Captain."
+    mes "İyi ilerleme kaydediyoruz, Kaptan."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:522
 translate turkish sm1mv02s04_later_299c0183:
 
     # mes "With Doctor Jelerra's expert help, we should have results within a cycle."
-    mes "With Doctor Jelerra's expert help, we should have results within a cycle."
+    mes "Doktor Jelerra'nın uzman yardımıyla, bir döngü içinde sonuç almalıyız."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:526
 translate turkish sm1mv02s04_later_1ceb054d:
 
     # mh "We are making good progress, Captain."
-    mh "We are making good progress, Captain."
+    mh "İyi ilerleme kaydediyoruz, Kaptan."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:527
 translate turkish sm1mv02s04_later_92d7da3e:
 
     # mh "With Doctor Jelerra's expert help, we should have results within a cycle."
-    mh "With Doctor Jelerra's expert help, we should have results within a cycle."
+    mh "Doktor Jelerra'nın uzman yardımıyla, bir döngü içinde sonuç almalıyız."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:530
 translate turkish sm1mv02s04_later_224b6085:
 
     # mc "Good to have you with us, Doctor."
-    mc "Good to have you with us, Doctor."
+    mc "Aramızda olmanız güzel, Doktor."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:532
 translate turkish sm1mv02s04_later_12aac470:
 
     # ns "You are welcome, Captain."
-    ns "You are welcome, Captain."
+    ns "Rica ederim, Kaptan."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:533
 translate turkish sm1mv02s04_later_b15148ae:
 
     # ns "Your ship and its crew are amazing by the way. I believe that working together, we will be able to save my people."
-    ns "Your ship and its crew are amazing by the way. I believe that working together, we will be able to save my people."
+    ns "Bu arada geminiz ve mürettebatınız harika. Birlikte çalışarak halkımı kurtarabileceğimize inanıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:534
 translate turkish sm1mv02s04_later_bce8692b:
 
     # mc "Of course. But until then, consider yourself a guest aboard the {i}Intrepid{/i}."
-    mc "Of course. But until then, consider yourself a guest aboard the {i}Intrepid{/i}."
+    mc "Elbette. Ama o zamana kadar, kendinizi {i}Intrepid{/i}'de bir misafir olarak kabul edin."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:545
 translate turkish sm1mv02s04_later_ef7a8a56:
@@ -1172,61 +1172,61 @@ translate turkish sm1mv02s04_later_0a0cccdd:
 translate turkish sm1mv02s04_later_b5b0c9de:
 
     # mc "Until then, everyone, I'll see you around."
-    mc "Until then, everyone, I'll see you around."
+    mc "O zamana kadar, herkese görüşürüz."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:648
 translate turkish sm1mv02s04_later_cc83a8ff:
 
     # mc "And I'll see you back at home."
-    mc "And I'll see you back at home."
+    mc "Ve seninle evde görüşürüz."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:653
 translate turkish sm1mv02s04_later_17dae5e3:
 
     # mc "And you, come to think about it."
-    mc "And you, come to think about it."
+    mc "Ve sen, düşününce."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:656
 translate turkish sm1mv02s04_later_1349876f:
 
     # mes "Am I so easily forgotten."
-    mes "Am I so easily forgotten."
+    mes "Bu kadar kolay mu unutuluyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:658
 translate turkish sm1mv02s04_later_011b37b4:
 
     # mc "Not a chance."
-    mc "Not a chance."
+    mc "Asla olmaz."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:662
 translate turkish sm1mv02s04_later_cc83a8ff_1:
 
     # mc "And I'll see you back at home."
-    mc "And I'll see you back at home."
+    mc "Ve seninle evde görüşürüz."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:667
 translate turkish sm1mv02s04_later_63590117:
 
     # mc "I'm so excited to show you more of the process, Lyssa."
-    mc "I'm so excited to show you more of the process, Lyssa."
+    mc "Sana sürecin daha fazlasını göstermek için çok heyecanlıyım, Lyssa."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:668
 translate turkish sm1mv02s04_later_998d14c1:
 
     # mc "You still interested?"
-    mc "You still interested?"
+    mc "Hala ilgili misin?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:671
 translate turkish sm1mv02s04_later_f35741fa:
 
     # mh "Very, [mcname]. Now that I've breathed life into the character, I cannot fathom letting Commander Spectre down."
-    mh "Very, [mcname]. Now that I've breathed life into the character, I cannot fathom letting Commander Spectre down."
+    mh "Çok, [mcname]. Artık karaktere hayat verdiğime göre, Komutan Spectre'yi hayal kırıklığına uğratamam."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:674
 translate turkish sm1mv02s04_later_4eb10af1:
 
     # mc "Happy to hear it. Goodbye, Lyssa."
-    mc "Happy to hear it. Goodbye, Lyssa."
+    mc "Bunu duyduğuma sevindim. Hoşça kal, Lyssa."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:676
 translate turkish sm1mv02s04_later_7c4b9ec4:
@@ -1238,29 +1238,29 @@ translate turkish strings:
 
     # game/code/scenes/movies/movie02/sm1mv02s04.rpy:68
     old "It's natural to be a little nervous"
-    new "It's natural to be a little nervous"
+    new "Biraz gergin olmak doğaldır"
 
     # game/code/scenes/movies/movie02/sm1mv02s04.rpy:68
     old "I won't let anything happen to you, Nari"
-    new "I won't let anything happen to you, Nari"
+    new "Sana bir şey olmasına izin vermeyeceğim, Nari"
 
     # game/code/scenes/movies/movie02/sm1mv02s04.rpy:263
     old "Tell Taisia to play nice"
-    new "Tell Taisia to play nice"
+    new "Taisia'ya nazik olmasını söyle"
 
     # game/code/scenes/movies/movie02/sm1mv02s04.rpy:263
     old "Leave them be"
-    new "Leave them be"
+    new "Onları bırak"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:397
 translate turkish sm1mv02s04_9f47d567:
 
     # mes "This is all pretty impressive."
-    mes "This is all pretty impressive."
+    mes "Bunların hepsi oldukça etkileyici."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:402
 translate turkish sm1mv02s04_8ab552c3:
 
     # mh "This is all pretty impressive."
-    mh "This is all pretty impressive."
+    mh "Bunların hepsi oldukça etkileyici."
 
