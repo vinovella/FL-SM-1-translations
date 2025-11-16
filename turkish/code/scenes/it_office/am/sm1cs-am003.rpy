@@ -750,137 +750,137 @@ translate turkish sm1cs_am003_71f06d2b:
 translate turkish sm1cs_am003_9f59f0f4:
 
     # am "Humans. We have created all this technology.{w} It can do incredible things."
-    am "Humans. We have created all this technology.{w} It can do incredible things."
+    am "İnsanlar. Tüm bu teknolojiyi yarattık.{w} İnanılmaz şeyler yapabilir."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:99
 translate turkish sm1cs_am003_1fd7d62e:
 
     # am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
-    am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
+    am "Hımmm.{w} Öğleden sonranı boşa harcamış gibi görünüyor. Ben iyiyim."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:111
 translate turkish sm1cs_am003_bcf016f9:
 
     # am "It's bullying to say someone {b}sucks{/b} at their job?"
-    am "It's bullying to say someone {b}sucks{/b} at their job?"
+    am "Birinin işinde {b}kötü{/b} olduğunu söylemek zorbalık mı?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:120
 translate turkish sm1cs_am003_aee5974a:
 
     # mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
-    mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+    mct "Bu kız...{w} Anna'nın dediği gibi. Bu kadar iyi olmasaydı, tavrı onu Orbix'ten kovdururdu."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:127
 translate turkish sm1cs_am003_b4faa8fc:
 
     # mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
-    mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
+    mc "Haklıydın. Seni kontrol etmeye gelmedim.{w} Bir iş sorununda yardıma ihtiyacım var ve şu anda burada çalışıyorsun. Bu kadar basit."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:134
 translate turkish sm1cs_am003_ae4dcaad:
 
     # am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
-    am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
+    am "O çalışma seansından sonra, ben... Ya işten ayrılacağını ya da görevlerinde sadece asgari düzeyde çalışacağını düşünmüştüm."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:135
 translate turkish sm1cs_am003_67284458:
 
     # am "But here you are..."
-    am "But here you are..."
+    am "Ama işte buradasın..."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:144
 translate turkish sm1cs_am003_8a8d91f6:
 
     # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
-    mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
+    mc "Öyledin. Berbat olabilirim ama istediğimi elde etmek için inanılmaz derecede çok çalışabilirim de.{w} Bazen tökezlerim ama asla uzun süre yerde kalmam."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:145
 translate turkish sm1cs_am003_b4235cd6:
 
     # mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
-    mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
+    mc "Üniversitede BT okumadım ama her zaman hızlı öğrenen biri oldum.{w} Bana öğret, ayağında öğrenmeye hazırım, April."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:155
 translate turkish sm1cs_am003_e9ac1b53:
 
     # am "Against my better judgment, I'll try to give you some pointers here and there."
-    am "Against my better judgment, I'll try to give you some pointers here and there."
+    am "Daha iyi kararıma karşın, sana buradan oradan bazı ipuçları vermeye çalışacağım."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:176
 translate turkish sm1cs_am003_d5d84aa0:
 
     # am "I am not your teacher, [mcname]. That's not my job."
-    am "I am not your teacher, [mcname]. That's not my job."
+    am "Ben senin öğretmenin değilim, [mcname]. Bu benim işim değil."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:186
 translate turkish sm1cs_am003_d6fb5843:
 
     # am "Okay.{w} Show me what problems you're having with the website."
-    am "Okay.{w} Show me what problems you're having with the website."
+    am "Tamam.{w} Web sitesiyle ilgili ne gibi sorunlar yaşadığını göster bana."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:290
 translate turkish sm1cs_am003_ef447ff8:
 
     # mc "One dark roast coffee for the girl who roasts me every day."
-    mc "One dark roast coffee for the girl who roasts me every day."
+    mc "Her gün beni kavuran kız için bir koyu kavrulmuş kahve."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:303
 translate turkish sm1cs_am003_97c62095:
 
     # mct "Ah. That hit the spot."
-    mct "Ah. That hit the spot."
+    mct "Ah. Tam yerinde oldu."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:365
 translate turkish sm1cs_am003_9403deba:
 
     # am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
-    am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
+    am "Evet. Bir sürü şey oluyor. Benim... bizim vermemiz gereken kararlar.{w} Zor kararlar."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:382
 translate turkish sm1cs_am003_2aa81bf8:
 
     # mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
-    mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
+    mc "Sanırım sinyallerimiz karıştı.{w} Seni randevuya çıkarmak isteseydim, seni randevuya çıkarırdım."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:385
 translate turkish sm1cs_am003_1168ac9b:
 
     # am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
-    am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
+    am "Kesinlikle.{w} Ve beni randevuya çıkarmazdın çünkü benim senin liginin dışında olduğumu biliyorsun."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:407
 translate turkish sm1cs_am003_d5031920:
 
     # am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
-    am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
+    am "Bir sürü pislikle çalıştım ve senin de onlar gibi olacağını düşündüm.{w} Ama sen sadece oturmuyorsun. Sen-"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:410
 translate turkish sm1cs_am003_80afa197:
 
     # mc "Trying to not {b}suck{/b} all the time?"
-    mc "Trying to not {b}suck{/b} all the time?"
+    mc "Her zaman {b}kötü olmamaya{/b} mı çalışıyorum?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:436
 translate turkish sm1cs_am003_5bb6b0ec:
 
     # mc "So I'm an elite-code-monkey now, right?"
-    mc "So I'm an elite-code-monkey now, right?"
+    mc "Yani şimdi elit bir kod maymunu muyum, değil mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:439
 translate turkish sm1cs_am003_d906822a:
 
     # am "Oh yeah... A future Wozniak."
-    am "Oh yeah... A future Wozniak."
+    am "Ah evet... Gelecekteki Wozniak."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:484
 translate turkish sm1cs_am003_45ccaa21:
 
     # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
-    am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
+    am "Harika.{w} Pagan rock grubu, o yüzden hazırlıklı ol. Beni... biraz çılgın görünürken görebilirsin.{w} Ve yüzümde savaş boyası olabilir ya da olmayabilir."
 
 translate turkish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
     old "I had to come here for work"
-    new "I had to come here for work"
+    new "İş için buraya gelmek zorundaydım"
 
