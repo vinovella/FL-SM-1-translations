@@ -908,79 +908,79 @@ translate turkish sm1mv02s05_movie_start_3d2310fa:
 translate turkish sm1mv02s05_movie_start_f4a58302:
 
     # tl "Negative. Engineering reports are in the green."
-    tl "Negative. Engineering reports are in the green."
+    tl "Olumsuz. Mühendislik raporları yeşilde."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:611
 translate turkish sm1mv02s05_movie_start_1fe7451b:
 
     # mc "Bring the ship to yellow alert. I don't like this one bit."
-    mc "Bring the ship to yellow alert. I don't like this one bit."
+    mc "Gemiyi sarı alarma geçir. Bu işi hiç sevmedim."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:618
 translate turkish sm1mv02s05_movie_start_11e4e07a:
 
     # mc "Good. We don't want to get caught with our pants down."
-    mc "Good. We don't want to get caught with our pants down."
+    mc "İyi. Hazırlıksız yakalanmak istemeyiz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:625
 translate turkish sm1mv02s05_movie_start_c0d2fd19:
 
     # mhmes "In my experience, that situation always leads to some interesting experiments."
-    mhmes "In my experience, that situation always leads to some interesting experiments."
+    mhmes "Tecrübelerime göre, bu durum her zaman ilginç deneylere yol açar."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:636
 translate turkish sm1mv02s05_movie_start_31651bfa:
 
     # mhmes "Captain, my additional analysis of the planet has registered a curiosity."
-    mhmes "Captain, my additional analysis of the planet has registered a curiosity."
+    mhmes "Kaptan, gezegenle ilgili ek analizim ilginç bir şey kaydetti."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:637
 translate turkish sm1mv02s05_movie_start_bbcd0f37:
 
     # mhmes "It may be the source of our jump drive inability."
-    mhmes "It may be the source of our jump drive inability."
+    mhmes "Atlama motorumuzun çalışmamasının kaynağı bu olabilir."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:640
 translate turkish sm1mv02s05_movie_start_775244ac:
 
     # mc "Looks like we're going boots on the ground."
-    mc "Looks like we're going boots on the ground."
+    mc "Görünüşe göre yere iniyoruz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:651
 translate turkish sm1mv02s05_movie_start_a7eaec64:
 
     # mc "Just like home. Except for the purple, the potentially noxious fumes, and crystaline structures."
-    mc "Just like home. Except for the purple, the potentially noxious fumes, and crystaline structures."
+    mc "Tıpkı evimiz gibi. Mor renk, potansiyel zararlı dumanlar ve kristal yapılar hariç."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:659
 translate turkish sm1mv02s05_movie_start_b57a763b:
 
     # mc "Come on, Commander. Don't forget, we get our explorers badge if we walk on forty-seven more planets."
-    mc "Come on, Commander. Don't forget, we get our explorers badge if we walk on forty-seven more planets."
+    mc "Hadi ama, Komutan. Unutma, kırk yedi gezegen daha gezsek kaşif rozetimizi alırız."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:662
 translate turkish sm1mv02s05_movie_start_aa7d2b11:
 
     # sy "Badges? We don't need no stinking badges."
-    sy "Badges? We don't need no stinking badges."
+    sy "Rozetler mi? Boktan rozetlere ihtiyacımız yok."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:671
 translate turkish sm1mv02s05_movie_start_1fd586af:
 
     # mc "Lieutenant, move to the right. Cover me."
-    mc "Lieutenant, move to the right. Cover me."
+    mc "Teğmen, sağa git. Beni koru."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:678
 translate turkish sm1mv02s05_movie_start_1c9941c4:
 
     # mc "*whispers* Hornstar to Intrepid."
-    mc "*whispers* Hornstar to Intrepid."
+    mc "*fısıldar* Hornstar'dan Intrepid'e."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:683
 translate turkish sm1mv02s05_movie_start_106f1a14:
 
     # mhmes "Reading you, Captain."
-    mhmes "Reading you, Captain."
+    mhmes "Seni alıyorum, Kaptan."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:693
 translate turkish sm1mv02s05_movie_start_f5804b10:
@@ -992,7 +992,7 @@ translate turkish sm1mv02s05_movie_start_f5804b10:
 translate turkish sm1mv02s05_movie_start_8fa18602:
 
     # mc "So much for my stealth roll."
-    mc "So much for my stealth roll."
+    mc "Gizlilik atışım işe yaramadı."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:700
 translate turkish sm1mv02s05_movie_start_f5804b10_1:
@@ -1004,13 +1004,13 @@ translate turkish sm1mv02s05_movie_start_f5804b10_1:
 translate turkish sm1mv02s05_movie_start_72d41145:
 
     # mc "It's alright. I mean you no harm."
-    mc "It's alright. I mean you no harm."
+    mc "Sorun yok. Size zarar vermek istemiyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:705
 translate turkish sm1mv02s05_movie_start_17a6b84d:
 
     # mc "I'm an explorer."
-    mc "I'm an explorer."
+    mc "Ben bir kaşifim."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:708
 translate turkish sm1mv02s05_movie_start_f5804b10_2:
@@ -1022,283 +1022,283 @@ translate turkish sm1mv02s05_movie_start_f5804b10_2:
 translate turkish sm1mv02s05_movie_start_13b3a2de:
 
     # mc "*whispers* Commander Spectre, how is that universal translator patch coming?"
-    mc "*whispers* Commander Spectre, how is that universal translator patch coming?"
+    mc "*fısıldar* Komutan Spectre, evrensel çevirmen yaması nasıl gidiyor?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:718
 translate turkish sm1mv02s05_movie_start_270b34e9:
 
     # mhmes "Working Captain."
-    mhmes "Working Captain."
+    mhmes "Üzerinde çalışıyorum Kaptan."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:722
 translate turkish sm1mv02s05_movie_start_329be88a:
 
     # sy "Get back."
-    sy "Get back."
+    sy "Geri çekil."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:725
 translate turkish sm1mv02s05_movie_start_26eb856e:
 
     # mc "Work faster, Commander."
-    mc "Work faster, Commander."
+    mc "Daha hızlı çalış, Komutan."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:728
 translate turkish sm1mv02s05_movie_start_abe8ea70:
 
     # mc "Stand down, Number One. She's not hostile.{w} I don't think."
-    mc "Stand down, Number One. She's not hostile.{w} I don't think."
+    mc "Sakin ol, Bir Numara. O düşman değil.{w} Sanmıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:731
 translate turkish sm1mv02s05_movie_start_516feb46:
 
     # sy "Can't take the chance, Captain. That machine she came from could be anchoring us here and the Kasaru could hit us and we'd be stuck here."
-    sy "Can't take the chance, Captain. That machine she came from could be anchoring us here and the Kasaru could hit us and we'd be stuck here."
+    sy "Riski alamam, Kaptan. Geldiği makine bizi buraya bağlıyor olabilir ve Kasaru bize saldırabilir ve burada mahsur kalabiliriz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:735
 translate turkish sm1mv02s05_movie_start_54c88288:
 
     # mc "That bad news will keep. Stand down, Orion."
-    mc "That bad news will keep. Stand down, Orion."
+    mc "O kötü haber bekleyebilir. Sakin ol, Orion."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:739
 translate turkish sm1mv02s05_movie_start_2d8db469:
 
     # sy "I have a bad feeling about this."
-    sy "I have a bad feeling about this."
+    sy "Bu konuda kötü bir his var içimde."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:747
 translate turkish sm1mv02s05_movie_start_6130f1a2:
 
     # mhmes "Patch enabled."
-    mhmes "Patch enabled."
+    mhmes "Yama etkinleştirildi."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:748
 translate turkish sm1mv02s05_movie_start_703a6189:
 
     # ns "Lamuola- appears that you are in charge."
-    ns "Lamuola- appears that you are in charge."
+    ns "Lamuola- görünüşe göre sen komutasın."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:751
 translate turkish sm1mv02s05_movie_start_b747223b:
 
     # ns "She called you, Captain. This means, leader, yes?"
-    ns "She called you, Captain. This means, leader, yes?"
+    ns "Sana Kaptan dedi. Bu lider demek, değil mi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:754
 translate turkish sm1mv02s05_movie_start_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Evet."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:757
 translate turkish sm1mv02s05_movie_start_4cdb02d8:
 
     # mc "We didn't mean to disturb you."
-    mc "We didn't mean to disturb you."
+    mc "Sizi rahatsız etmek istemedik."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:758
 translate turkish sm1mv02s05_movie_start_5fc09f7d:
 
     # mc "I am Captain Ramses Hornstar, United Planetary Alliance."
-    mc "I am Captain Ramses Hornstar, United Planetary Alliance."
+    mc "Ben Kaptan Ramses Hornstar, Birleşik Gezegen İttifakı."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:759
 translate turkish sm1mv02s05_movie_start_aee9bef3:
 
     # mc "That is Lieutenant Commander Orion."
-    mc "That is Lieutenant Commander Orion."
+    mc "Bu da Binbaşı Orion."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:760
 translate turkish sm1mv02s05_movie_start_0eba8c93:
 
     # mc "Our ship discovered an unusual reading in this area. I believe it is your machine there."
-    mc "Our ship discovered an unusual reading in this area. I believe it is your machine there."
+    mc "Gemimiz bu bölgede olağandışı bir okuma keşfetti. Bunun oradaki makineniz olduğuna inanıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:763
 translate turkish sm1mv02s05_movie_start_48034531:
 
     # sy "It's keeping us from going home."
-    sy "It's keeping us from going home."
+    sy "Eve gitmemizi engelliyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:766
 translate turkish sm1mv02s05_movie_start_9ecfc894:
 
     # ns "This is very doubtful, sir."
-    ns "This is very doubtful, sir."
+    ns "Bu çok şüpheli, efendim."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:767
 translate turkish sm1mv02s05_movie_start_a6bdbcf9:
 
     # ns "I am Doctor Jalerra. Biologist, the last member of my team."
-    ns "I am Doctor Jalerra. Biologist, the last member of my team."
+    ns "Ben Doktor Jalerra. Biyolog, ekibimin son üyesi."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:770
 translate turkish sm1mv02s05_movie_start_525d4e77:
 
     # sy "Team?"
-    sy "Team?"
+    sy "Ekip mi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:773
 translate turkish sm1mv02s05_movie_start_9fc5b6c7:
 
     # ns "Yes. We were sent here to isolate the specimen. That is what my machine is for."
-    ns "Yes. We were sent here to isolate the specimen. That is what my machine is for."
+    ns "Evet. Örneği izole etmek için buraya gönderildik. Makinenin amacı bu."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:774
 translate turkish sm1mv02s05_movie_start_63d66d65:
 
     # ns "It's a Spectral Scanner."
-    ns "It's a Spectral Scanner."
+    ns "Bu bir Spektral Tarayıcı."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:777
 translate turkish sm1mv02s05_movie_start_881e1ab2:
 
     # mc "Impressive."
-    mc "Impressive."
+    mc "Etkileyici."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:780
 translate turkish sm1mv02s05_movie_start_03988bca:
 
     # ns "Well, surely not to you. You come from the stars, I imagine."
-    ns "Well, surely not to you. You come from the stars, I imagine."
+    ns "Şey, sizin için kesinlikle değil. Yıldızlardan geliyorsunuz, sanırım."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:783
 translate turkish sm1mv02s05_movie_start_d098822a:
 
     # sy "Yes, but you're taking that all rather well."
-    sy "Yes, but you're taking that all rather well."
+    sy "Evet, ama bunu oldukça iyi karşılıyorsunuz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:786
 translate turkish sm1mv02s05_movie_start_29ace966:
 
     # ns "I have written many papers stipulating that there must be life on other planets."
-    ns "I have written many papers stipulating that there must be life on other planets."
+    ns "Diğer gezegenlerde yaşam olması gerektiğini öne süren birçok makale yazdım."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:787
 translate turkish sm1mv02s05_movie_start_dffbe00a:
 
     # ns "Naturally, I had no idea that other species would be so... pleasant on the eyes."
-    ns "Naturally, I had no idea that other species would be so... pleasant on the eyes."
+    ns "Doğal olarak, diğer türlerin bu kadar... göze hoş geleceğini hiç bilmiyordum."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:788
 translate turkish sm1mv02s05_movie_start_f0a296e0:
 
     # ns "But I had hoped I might meet one in my lifetime."
-    ns "But I had hoped I might meet one in my lifetime."
+    ns "Ama hayatımda biriyle tanışmayı umuyordum."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:791
 translate turkish sm1mv02s05_movie_start_e9323eb2:
 
     # mc "Your form is very pleasing as well, Doctor Jalerra."
-    mc "Your form is very pleasing as well, Doctor Jalerra."
+    mc "Sizin görünümünüz de çok hoş, Doktor Jalerra."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:794
 translate turkish sm1mv02s05_movie_start_c58d508c:
 
     # sy "Captain."
-    sy "Captain."
+    sy "Kaptan."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:797
 translate turkish sm1mv02s05_movie_start_a7013389:
 
     # mc "What, it's a compliment."
-    mc "What, it's a compliment."
+    mc "Ne var, bu bir iltifat."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:800
 translate turkish sm1mv02s05_movie_start_9a6d362b:
 
     # ns "I'm afraid compliments must wait. You two have come at a dangerous time."
-    ns "I'm afraid compliments must wait. You two have come at a dangerous time."
+    ns "Korkarım iltifatlar beklemek zorunda. İkiniz tehlikeli bir zamanda geldiniz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:804
 translate turkish sm1mv02s05_movie_start_f8dbe0ca:
 
     # ns "I am in the middle of running tests on the specimens."
-    ns "I am in the middle of running tests on the specimens."
+    ns "Örnekler üzerinde testler yapmaktayım."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:805
 translate turkish sm1mv02s05_movie_start_872bd999:
 
     # ns "It is a volatile time."
-    ns "It is a volatile time."
+    ns "Çalkantılı bir zaman."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:808
 translate turkish sm1mv02s05_movie_start_88f3a2bd:
 
     # mc "Maybe we can help."
-    mc "Maybe we can help."
+    mc "Belki yardım edebiliriz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:812
 translate turkish sm1mv02s05_movie_start_f2821f44:
 
     # sy "This doesn't appear to be the source of our jump drive interference."
-    sy "This doesn't appear to be the source of our jump drive interference."
+    sy "Bu atlama motoru müdahalemizin kaynağı gibi görünmüyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:815
 translate turkish sm1mv02s05_movie_start_22498685:
 
     # mc "That's good news at least. But what about these tests, Doctor."
-    mc "That's good news at least. But what about these tests, Doctor."
+    mc "En azından bu iyi bir haber. Peki bu testler ne hakkında, Doktor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:818
 translate turkish sm1mv02s05_movie_start_5a8d6d23:
 
     # ns "I have taken to calling this plant the Great Bloom. It appears to be a spaceborne flower that landed on my planet about forty-two cycles ago."
-    ns "I have taken to calling this plant the Great Bloom. It appears to be a spaceborne flower that landed on my planet about forty-two cycles ago."
+    ns "Bu bitkiye Büyük Çiçeklenme adını verdim. Yaklaşık kırk iki döngü önce gezegenime inen uzay kaynaklı bir çiçek gibi görünüyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:819
 translate turkish sm1mv02s05_movie_start_184773d7:
 
     # ns "The effect it has on my people can only be described as disastrous."
-    ns "The effect it has on my people can only be described as disastrous."
+    ns "Halkım üzerindeki etkisi sadece felaket olarak tanımlanabilir."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:822
 translate turkish sm1mv02s05_movie_start_05b2c4b1:
 
     # ns "The pathogens it emits have started changing the biology of our people."
-    ns "The pathogens it emits have started changing the biology of our people."
+    ns "Yaydığı patojenler halkımızın biyolojisini değiştirmeye başladı."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:823
 translate turkish sm1mv02s05_movie_start_18a4203c:
 
     # ns "Over the last forty cycles, male children have all but vanished."
-    ns "Over the last forty cycles, male children have all but vanished."
+    ns "Son kırk döngüde, erkek çocuklar neredeyse tamamen yok oldu."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:827
 translate turkish sm1mv02s05_movie_start_7428e1ba:
 
     # mc "That could be fatal to your population."
-    mc "That could be fatal to your population."
+    mc "Bu nüfusunuz için ölümcül olabilir."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:831
 translate turkish sm1mv02s05_movie_start_844e2e05:
 
     # ns "Exactly!{w} That is why my team and I were deployed. We need to figure out a solution."
-    ns "Exactly!{w} That is why my team and I were deployed. We need to figure out a solution."
+    ns "Kesinlikle!{w} Bu yüzden ekibim ve ben görevlendirildik. Bir çözüm bulmamız gerekiyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:832
 translate turkish sm1mv02s05_movie_start_54980f48:
 
     # ns "Before it's too late."
-    ns "Before it's too late."
+    ns "Çok geç olmadan önce."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:835
 translate turkish sm1mv02s05_movie_start_64e695d0:
 
     # sy "You think that the pathogen will travel to the females of your species."
-    sy "You think that the pathogen will travel to the females of your species."
+    sy "Patojenin türünüzün dişilerine yayılacağını düşünüyorsunuz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:838
 translate turkish sm1mv02s05_movie_start_0faa796f:
 
     # ns "It was theorized by one of my colleagues...."
-    ns "It was theorized by one of my colleagues...."
+    ns "Meslektaşlarımdan biri tarafından teorize edildi...."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:839
 translate turkish sm1mv02s05_movie_start_6f949786:
 
     # ns "And then she was affected by a new strain of the pathogen."
-    ns "And then she was affected by a new strain of the pathogen."
+    ns "Ve sonra o patojenin yeni bir türünden etkilendi."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:843
 translate turkish sm1mv02s05_movie_start_ddd056e6:
