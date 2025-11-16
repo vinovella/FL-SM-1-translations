@@ -20,41 +20,41 @@ translate deutsch strings:
 
     # game/code/renpy/screens/difficulity.rpy:54
     old "Full story with exploration and player choice"
-    new "Full story with exploration and player choice"
+    new "Eine vollständige Geschichte mit Erkundungsmöglichkeiten und Spielerentscheidungen"
 
     # game/code/renpy/screens/difficulity.rpy:54
     old "Sandbox-style free roaming"
-    new "Sandbox-style free roaming"
+    new "Sandbox-Stil mit Bewegungsfreiheit"
 
     # game/code/renpy/screens/difficulity.rpy:54
     old "Minigames and quests"
-    new "Minigames and quests"
+    new "Minispiele und Quests"
 
     # game/code/renpy/screens/difficulity.rpy:54
     old "Character stats and progression"
-    new "Character stats and progression"
+    new "Charakterstatistiken und Fortschritt"
 
     # game/code/renpy/screens/difficulity.rpy:54
     old "Minigames are skipped or auto-resolved"
-    new "Minigames are skipped or auto-resolved"
+    new "Minispiele werden übersprungen oder automatisch gelöst"
 
     # game/code/renpy/screens/difficulity.rpy:54
     old "Quests and character progression"
-    new "Quests and character progression"
+    new "Quests und Charakterentwicklung"
 
     # game/code/renpy/screens/difficulity.rpy:54
     old "Most of the story with player-driven progression"
-    new "Most of the story with player-driven progression"
+    new "Der Großteil der Geschichte mit spielergesteuertem Fortschritt"
 
     # game/code/renpy/screens/difficulity.rpy:54
     old "No free roaming or open exploration"
-    new "No free roaming or open exploration"
+    new "Keine Bewegungsfreiheit oder offenes Erkunden"
 
     # game/code/renpy/screens/difficulity.rpy:54
     old "Minigames and sandbox activities removed"
-    new "Minigames and sandbox activities removed"
+    new "Minispiele und Sandbox-Aktivitäten entfernt"
 
     # game/code/renpy/screens/difficulity.rpy:54
     old "A streamlined experience focusing on narrative"
-    new "A streamlined experience focusing on narrative"
+    new "Ein optimiertes Nutzererlebnis mit Fokus auf die Erzählung"
 
