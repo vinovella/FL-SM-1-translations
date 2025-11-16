@@ -860,67 +860,67 @@ translate turkish strings:
 translate turkish ns013_labels_section_08999b4d:
 
     # ns "I am so ashamed, my [nsmcpetlabel]."
-    ns "I am so ashamed, my [nsmcpetlabel]."
+    ns "Çok utanıyorum, [nsmcpetlabel]'im."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:530
 translate turkish ns013_labels_section_8d67bd63:
 
     # ns "I didn't mean to be peeping on you."
-    ns "I didn't mean to be peeping on you."
+    ns "Seni gözetlemek istememiştim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:531
 translate turkish ns013_labels_section_5b8f47d4:
 
     # ns "That is not who I am."
-    ns "That is not who I am."
+    ns "Ben böyle biri değilim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:535
 translate turkish ns013_labels_section_6790f1fe:
 
     # ns "I am so sorry."
-    ns "I am so sorry."
+    ns "Çok üzgünüm."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:538
 translate turkish ns013_labels_section_b77a4808:
 
     # ns "I am so ashamed, [mcname]."
-    ns "I am so ashamed, [mcname]."
+    ns "Çok utanıyorum, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:539
 translate turkish ns013_labels_section_8d67bd63_1:
 
     # ns "I didn't mean to be peeping on you."
-    ns "I didn't mean to be peeping on you."
+    ns "Seni gözetlemek istememiştim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:540
 translate turkish ns013_labels_section_5b8f47d4_1:
 
     # ns "That is not who I am."
-    ns "That is not who I am."
+    ns "Ben böyle biri değilim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:541
 translate turkish ns013_labels_section_6790f1fe_1:
 
     # ns "I am so sorry."
-    ns "I am so sorry."
+    ns "Çok üzgünüm."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:545
 translate turkish ns013_labels_section_76576a99:
 
     # ns "And I am sorry to you too, Stacy."
-    ns "And I am sorry to you too, Stacy."
+    ns "Ve senden de özür dilerim, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:546
 translate turkish ns013_labels_section_d63bc8c5:
 
     # ns "It is one thing if I see you naked."
-    ns "It is one thing if I see you naked."
+    ns "Seni çıplak görmek başka bir şey."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:547
 translate turkish ns013_labels_section_51bf770f:
 
     # ns "But it is another just watching you make love."
-    ns "But it is another just watching you make love."
+    ns "Ama sevişmenizi izlemek başka bir şey."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:550
 translate turkish ns013_labels_section_beaf3144:
@@ -938,205 +938,205 @@ translate turkish ns013_labels_section_c88f2a60:
 translate turkish ns013_labels_section_61432e4d:
 
     # sy "I mean... you're totally not the first girl to see me and [mcname] having sex."
-    sy "I mean... you're totally not the first girl to see me and [mcname] having sex."
+    sy "Yani... benimle [mcname]'in seks yaptığını gören ilk kız kesinlikle sen değilsin."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:553
 translate turkish ns013_labels_section_5f93be1f:
 
     # sy "And I doubt you'll be the last..."
-    sy "And I doubt you'll be the last..."
+    sy "Ve son olacağından da şüpheliyim..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:556
 translate turkish ns013_labels_section_41cffa8a:
 
     # mc "Heh.{w} Nice..."
-    mc "Heh.{w} Nice..."
+    mc "Heh.{w} Güzel..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:558
 translate turkish ns013_labels_section_f88950e2:
 
     # mc "Is my [nspetlabel] feeling better now?"
-    mc "Is my [nspetlabel] feeling better now?"
+    mc "[nspetlabel]'im şimdi daha iyi hissediyor mu?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:562
 translate turkish ns013_labels_section_068cceb0:
 
     # ns "Yes, thank you for asking, [nsmcpetlabel]."
-    ns "Yes, thank you for asking, [nsmcpetlabel]."
+    ns "Evet, sorduğun için teşekkür ederim, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:566
 translate turkish ns013_labels_section_b93e4541:
 
     # ns "Yes..."
-    ns "Yes..."
+    ns "Evet..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:568
 translate turkish ns013_labels_section_e5e55bb8:
 
     # mc "Are you feeling better now?"
-    mc "Are you feeling better now?"
+    mc "Şimdi daha iyi hissediyor musun?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:572
 translate turkish ns013_labels_section_d6d86041:
 
     # ns "No.{w} I should just go back to my room."
-    ns "No.{w} I should just go back to my room."
+    ns "Hayır.{w} Sadece odama geri dönmeliyim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:575
 translate turkish ns013_labels_section_a102d6fd:
 
     # mc "I know that look.{w} Come on, Nari."
-    mc "I know that look.{w} Come on, Nari."
+    mc "Bu bakışı tanıyorum.{w} Hadi, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:576
 translate turkish ns013_labels_section_bb579ae8:
 
     # mc "This is a judgment-free zone, and we're not going to ever shame you for asking for something you want."
-    mc "This is a judgment-free zone, and we're not going to ever shame you for asking for something you want."
+    mc "Burası yargısız bir bölge ve istediğin bir şeyi istediğin için seni asla utandırmayacağız."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:579
 translate turkish ns013_labels_section_a79a2e87:
 
     # ns "I guess I am still a little horny."
-    ns "I guess I am still a little horny."
+    ns "Sanırım hala biraz azdım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:580
 translate turkish ns013_labels_section_bb7871d4:
 
     # ns "Watching and playing with myself is one thing."
-    ns "Watching and playing with myself is one thing."
+    ns "İzlemek ve kendimle oynamak bir şey."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:583
 translate turkish ns013_labels_section_4e2d23b0:
 
     # ns "*softly* Maybe... maybe after you are done with Stacy..."
-    ns "*softly* Maybe... maybe after you are done with Stacy..."
+    ns "*yumuşakça* Belki... belki Stacy ile işin bittikten sonra..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:584
 translate turkish ns013_labels_section_070a0aee:
 
     # ns "*softly* You can fuck me?"
-    ns "*softly* You can fuck me?"
+    ns "*yumuşakça* Beni sikebilir misin?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:587
 translate turkish ns013_labels_section_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "Tabii ki."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:588
 translate turkish ns013_labels_section_11e7b25c:
 
     # mc "She actually came when you moaned."
-    mc "She actually came when you moaned."
+    mc "Sen inlediğinde gerçekten boşaldı."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:589
 translate turkish ns013_labels_section_0ef78440:
 
     # mc "So... if you're ready-"
-    mc "So... if you're ready-"
+    mc "Yani... eğer hazırsan-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:590
 translate turkish ns013_labels_section_778a36b4:
 
     # mc "You can test out the big bed."
-    mc "You can test out the big bed."
+    mc "Büyük yatağı test edebilirsin."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:593
 translate turkish ns013_labels_section_d17243bb:
 
     # ns "*sniff* Thank you, [mcname]."
-    ns "*sniff* Thank you, [mcname]."
+    ns "*burnunu çeker* Teşekkür ederim, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:594
 translate turkish ns013_labels_section_65ed987f:
 
     # ns "I think I'd like that."
-    ns "I think I'd like that."
+    ns "Sanırım bunu isterim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:599
 translate turkish ns013_labels_section_76ae0203:
 
     # ns "Your dick is always so big."
-    ns "Your dick is always so big."
+    ns "Sikin her zaman çok büyük."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:602
 translate turkish ns013_labels_section_95b41d43:
 
     # ns "Even after making Stacy cum."
-    ns "Even after making Stacy cum."
+    ns "Stacy'i boşalttıktan sonra bile."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:605
 translate turkish ns013_labels_section_12088f60:
 
     # sy "He's a crazy freak of nature."
-    sy "He's a crazy freak of nature."
+    sy "O doğanın çılgın bir ucubesi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:606
 translate turkish ns013_labels_section_af89606a:
 
     # sy "But he's {b}my{/b} freak. *giggles*"
-    sy "But he's {b}my{/b} freak. *giggles*"
+    sy "Ama o {b}benim{/b} ucubem. *kıkırdar*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:609
 translate turkish ns013_labels_section_c707c7e7:
 
     # sy "Well... {i}our{/i} freak, now."
-    sy "Well... {i}our{/i} freak, now."
+    sy "Şey... artık {i}bizim{/i} ucubemiz."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:610
 translate turkish ns013_labels_section_352a01b4:
 
     # sy "Don't be shy, Nari."
-    sy "Don't be shy, Nari."
+    sy "Utanma, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:611
 translate turkish ns013_labels_section_3a9ce1a4:
 
     # sy "It's not like you haven't done this before."
-    sy "It's not like you haven't done this before."
+    sy "Daha önce bunu yapmadın değil ki."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:614
 translate turkish ns013_labels_section_e4af941e:
 
     # ns "Yes.{w} Well no.{w} Never...{w} in front of another girl."
-    ns "Yes.{w} Well no.{w} Never...{w} in front of another girl."
+    ns "Evet.{w} Yani hayır.{w} Hiç...{w} başka bir kızın önünde."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:615
 translate turkish ns013_labels_section_da69643a:
 
     # ns "Especially not in front of a guy's 'girlfriend'."
-    ns "Especially not in front of a guy's 'girlfriend'."
+    ns "Özellikle bir adamın 'kız arkadaşının' önünde değil."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:618
 translate turkish ns013_labels_section_c0e7ac6c:
 
     # sy "Pretend I'm not even here. I'll be a fly on the wall."
-    sy "Pretend I'm not even here. I'll be a fly on the wall."
+    sy "Ben burada değilmişim gibi davran. Duvarda bir sinek olacağım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:622
 translate turkish ns013_labels_section_70230b7a:
 
     # ns "Okay. I'm still nervous, but... I can just try looking down."
-    ns "Okay. I'm still nervous, but... I can just try looking down."
+    ns "Tamam. Hala gerginim ama... sadece aşağı bakmayı deneyebilirim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:625
 translate turkish ns013_labels_section_2360aad8:
 
     # mc "Take all the time you need, Nari."
-    mc "Take all the time you need, Nari."
+    mc "İhtiyacın olan kadar zaman ayır, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:631
 translate turkish ns013_labels_section_69aaf1f6:
 
     # ns "Ahhh. Your [nspetlabel] doesn't deserve such kindness."
-    ns "Ahhh. Your [nspetlabel] doesn't deserve such kindness."
+    ns "Ahhh. [nspetlabel]'in bu tür bir nezaketi hak etmiyor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:633
 translate turkish ns013_labels_section_fb5af827:
 
     # ns "*soft laughter* You're always so kind to me."
-    ns "*soft laughter* You're always so kind to me."
+    ns "*hafif kahkaha* Bana her zaman çok naziksin."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:637
 translate turkish ns013_labels_section_79d2e6e9:
@@ -1154,61 +1154,61 @@ translate turkish ns013_labels_section_56b92905:
 translate turkish ns013_labels_section_5d587328:
 
     # mc "Are you okay, Nari?"
-    mc "Are you okay, Nari?"
+    mc "İyi misin, Nari?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:647
 translate turkish ns013_labels_section_32d316f8:
 
     # ns "Yes. Oohuha-fuaaah... I am now."
-    ns "Yes. Oohuha-fuaaah... I am now."
+    ns "Evet. Oohuha-fuaaah... şimdi iyiyim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:648
 translate turkish ns013_labels_section_e6c9fa37:
 
     # ns "I think... being nervous... it made me a little tighter than normal."
-    ns "I think... being nervous... it made me a little tighter than normal."
+    ns "Sanırım... gergin olmak... beni normalden biraz daha sıkı yaptı."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:651
 translate turkish ns013_labels_section_bfd12f43:
 
     # ns "But now... with hua-huaah... you inside of me... everything feels like it should."
-    ns "But now... with hua-huaah... you inside of me... everything feels like it should."
+    ns "Ama şimdi... hua-huaah ile... sen içimdesin... her şey olması gerektiği gibi hissettiriyor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:654
 translate turkish ns013_labels_section_d892676b:
 
     # ns "*moaning* Yes!{w} Oh, [nsmcpetlabel]."
-    ns "*moaning* Yes!{w} Oh, [nsmcpetlabel]."
+    ns "*inleme* Evet!{w} Ah, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:655
 translate turkish ns013_labels_section_34a24ba1:
 
     # ns "Hearing that makes my heart shine."
-    ns "Hearing that makes my heart shine."
+    ns "Bunu duymak kalbimi parlattı."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:658
 translate turkish ns013_labels_section_42a94aa4:
 
     # ns "Does... does my pussy feel good, [mcname]?"
-    ns "Does... does my pussy feel good, [mcname]?"
+    ns "Amım... amım iyi hissettiriyor mu, [mcname]?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:659
 translate turkish ns013_labels_section_c52dba7a:
 
     # mc "Yes. Incredible as always."
-    mc "Yes. Incredible as always."
+    mc "Evet. Her zamanki gibi inanılmaz."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:660
 translate turkish ns013_labels_section_18531d72:
 
     # ns "I'm happy."
-    ns "I'm happy."
+    ns "Mutluyum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:663
 translate turkish ns013_labels_section_a719a848:
 
     # ns "This pose... It's nice."
-    ns "This pose... It's nice."
+    ns "Bu poz... Güzel."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:665
 translate turkish ns013_labels_section_0e3f93c7:
@@ -1220,127 +1220,127 @@ translate turkish ns013_labels_section_0e3f93c7:
 translate turkish ns013_labels_section_889510f4:
 
     # ns "And you're sure this is alright with you?"
-    ns "And you're sure this is alright with you?"
+    ns "Ve bunun senin için uygun olduğundan emin misin?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:669
 translate turkish ns013_labels_section_18b4c635:
 
     # sy "Absolutely. I actually get pretty horny myself when I share [mcname] with someone."
-    sy "Absolutely. I actually get pretty horny myself when I share [mcname] with someone."
+    sy "Kesinlikle. [mcname]'i biriyle paylaştığımda aslında kendim de oldukça azdım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:672
 translate turkish ns013_labels_section_5514995c:
 
     # sy "And you're such a sweetheart, Nari."
-    sy "And you're such a sweetheart, Nari."
+    sy "Ve sen çok tatlısın, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:673
 translate turkish ns013_labels_section_c482a3cb:
 
     # sy "Watching you riding him is like some nice wholesome porn."
-    sy "Watching you riding him is like some nice wholesome porn."
+    sy "Seni onun üzerinde sürerken izlemek, güzel bir sağlıklı porno gibi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:674
 translate turkish ns013_labels_section_57349aef:
 
     # sy "*moaning* I dig it."
-    sy "*moaning* I dig it."
+    sy "*inleme* Onu sevdim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:677
 translate turkish ns013_labels_section_e3ac5f98:
 
     # ns "Dig it?"
-    ns "Dig it?"
+    ns "Onu sevdim mi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:678
 translate turkish ns013_labels_section_762e449a:
 
     # sy "I like it."
-    sy "I like it."
+    sy "Sevdim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:679
 translate turkish ns013_labels_section_0ef919a2:
 
     # ns "Then... muaah... I am very pleased..."
-    ns "Then... muaah... I am very pleased..."
+    ns "O zaman... muaah... çok memnunum..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:684
 translate turkish ns013_labels_section_8d271b77:
 
     # ns "I want to be the best [nspetlabel] ever for you, [nsmcpetlabel]."
-    ns "I want to be the best [nspetlabel] ever for you, [nsmcpetlabel]."
+    ns "Senin için en iyi [nspetlabel] olmak istiyorum, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:686
 translate turkish ns013_labels_section_459fac6e:
 
     # ns "I want to be the best [nspetlabel] for you, [mcname]."
-    ns "I want to be the best [nspetlabel] for you, [mcname]."
+    ns "Senin için en iyi [nspetlabel] olmak istiyorum, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:687
 translate turkish ns013_labels_section_c4a3f796:
 
     # ns "Stacy... if you'd like..."
-    ns "Stacy... if you'd like..."
+    ns "Stacy... istersen..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:689
 translate turkish ns013_labels_section_bc561560:
 
     # ns "You can touch me... while my [nsmcpetlabel] fucks me."
-    ns "You can touch me... while my [nsmcpetlabel] fucks me."
+    ns "Bana dokunabilirsin... [nsmcpetlabel]'im beni sikerken."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:691
 translate turkish ns013_labels_section_e70dc8df:
 
     # ns "You can touch me while he fucks me."
-    ns "You can touch me while he fucks me."
+    ns "O beni sikerken bana dokunabilirsin."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:693
 translate turkish ns013_labels_section_815bc810:
 
     # ns "And... perhaps... if you like."
-    ns "And... perhaps... if you like."
+    ns "Ve... belki de... istersen."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:694
 translate turkish ns013_labels_section_46425fca:
 
     # ns "Stacy... You can touch me... while [mcname] fucks me."
-    ns "Stacy... You can touch me... while [mcname] fucks me."
+    ns "Stacy... Bana dokunabilirsin... [mcname] beni sikerken."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:695
 translate turkish ns013_labels_section_1bb5ef0e:
 
     # sy "I'd love that, Nari."
-    sy "I'd love that, Nari."
+    sy "Bunu çok isterim, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:698
 translate turkish ns013_labels_section_b800fd1e:
 
     # ns "Good."
-    ns "Good."
+    ns "İyi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:699
 translate turkish ns013_labels_section_e2bde633:
 
     # ns "[mcname]... You're being so gentle with me."
-    ns "[mcname]... You're being so gentle with me."
+    ns "[mcname]... Bana karşı çok naziksin."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:700
 translate turkish ns013_labels_section_336b0b79:
 
     # ns "My pussy is so thankful, but now... I want to feel you..."
-    ns "My pussy is so thankful, but now... I want to feel you..."
+    ns "Amım çok müteşekkir ama şimdi... seni hissetmek istiyorum..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:701
 translate turkish ns013_labels_section_ed367f8c:
 
     # ns "In my other hole."
-    ns "In my other hole."
+    ns "Diğer deliğimde."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:708
 translate turkish ns013_labels_section_759d00b1:
 
     # sy "Oh my."
-    sy "Oh my."
+    sy "Aman Tanrım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:711
 translate turkish ns013_labels_section_0f38532e:
@@ -1352,13 +1352,13 @@ translate turkish ns013_labels_section_0f38532e:
 translate turkish ns013_labels_section_60bad6bf:
 
     # ns "You're nice and wet for my asshole, [mcname]."
-    ns "You're nice and wet for my asshole, [mcname]."
+    ns "Göt deliğim için güzel ve ıslaksın, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:713
 translate turkish ns013_labels_section_2c24f27a:
 
     # ns "But still so large."
-    ns "But still so large."
+    ns "Ama yine de çok büyük."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:719
 translate turkish ns013_labels_section_20e1f6eb:
@@ -1370,43 +1370,43 @@ translate turkish ns013_labels_section_20e1f6eb:
 translate turkish ns013_labels_section_f9acd26c:
 
     # sy "Let's see if this doesn't get him going."
-    sy "Let's see if this doesn't get him going."
+    sy "Bakalım bu onu çalıştırmayacak mı."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:725
 translate turkish ns013_labels_section_a7f294da:
 
     # ns "Yes... I can already feel it."
-    ns "Yes... I can already feel it."
+    ns "Evet... Şimdiden hissedebiliyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:726
 translate turkish ns013_labels_section_1efa2459:
 
     # ns "You two... are very close."
-    ns "You two... are very close."
+    ns "Siz ikiniz... çok yakınsınız."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:728
 translate turkish ns013_labels_section_a7ca8a27:
 
     # ns "I never imagined meeting a brother and sister who fucked..."
-    ns "I never imagined meeting a brother and sister who fucked..."
+    ns "Sevişen bir erkek ve kız kardeşle tanışacağımı hiç hayal etmemiştim..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:729
 translate turkish ns013_labels_section_df691304:
 
     # ns "And... shared lovers."
-    ns "And... shared lovers."
+    ns "Ve... sevgilileri paylaşan."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:731
 translate turkish ns013_labels_section_e624ca53:
 
     # ns "I never imagined I'd meet a couple who enjoyed sharing a lover like this."
-    ns "I never imagined I'd meet a couple who enjoyed sharing a lover like this."
+    ns "Böyle bir sevgiliyi paylaşmaktan hoşlanan bir çiftle tanışacağımı hiç hayal etmemiştim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:735
 translate turkish ns013_labels_section_245da689:
 
     # sy "Yeah. We're fucking awesome!"
-    sy "Yeah. We're fucking awesome!"
+    sy "Evet. Biz lanet olasıca harikayız!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:737
 translate turkish ns013_labels_section_6e9f3ca0:
@@ -1418,31 +1418,31 @@ translate turkish ns013_labels_section_6e9f3ca0:
 translate turkish ns013_labels_section_10b07808:
 
     # sy "I am going to touch you now."
-    sy "I am going to touch you now."
+    sy "Şimdi sana dokunacağım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:743
 translate turkish ns013_labels_section_4eec0b8f:
 
     # ns "Yes. But... maybe just my boobs."
-    ns "Yes. But... maybe just my boobs."
+    ns "Evet. Ama... belki sadece göğüslerime."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:744
 translate turkish ns013_labels_section_938c66b1:
 
     # ns "Today..."
-    ns "Today..."
+    ns "Bugün..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:747
 translate turkish ns013_labels_section_2debfc27:
 
     # sy "Sure thing."
-    sy "Sure thing."
+    sy "Elbette."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:755
 translate turkish ns013_labels_section_a68bf77e:
 
     # mc "Oh fuck! Your ass just gobbles up my cock."
-    mc "Oh fuck! Your ass just gobbles up my cock."
+    mc "Kahretsin! Kıçın sikimi yutup yutuyor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:756
 translate turkish ns013_labels_section_7ff6e90e:
@@ -1454,31 +1454,31 @@ translate turkish ns013_labels_section_7ff6e90e:
 translate turkish ns013_labels_section_ecd76dfd:
 
     # ns "It's so big... I'm already going to cum."
-    ns "It's so big... I'm already going to cum."
+    ns "Çok büyük... Şimdiden boşalacağım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:760
 translate turkish ns013_labels_section_88b82d62:
 
     # sy "Just relax, Nari."
-    sy "Just relax, Nari."
+    sy "Sadece rahatla, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:761
 translate turkish ns013_labels_section_cc8a2659:
 
     # sy "Enjoy it. Loosen up... as much as you can."
-    sy "Enjoy it. Loosen up... as much as you can."
+    sy "Tadını çıkar. Gevşe... yapabildiğin kadar."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:762
 translate turkish ns013_labels_section_44737be0:
 
     # sy "I don't want you to rush this."
-    sy "I don't want you to rush this."
+    sy "Bunu acele etmeni istemiyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:765
 translate turkish ns013_labels_section_9993cebf:
 
     # ns "Ahh-ahuaah... I'll try, Stacy."
-    ns "Ahh-ahuaah... I'll try, Stacy."
+    ns "Ahh-ahuaah... Deneyeceğim, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:766
 translate turkish ns013_labels_section_86fcf5ed:
@@ -1490,31 +1490,31 @@ translate turkish ns013_labels_section_86fcf5ed:
 translate turkish ns013_labels_section_91e7a1ad:
 
     # sy "That's so fucking hot!"
-    sy "That's so fucking hot!"
+    sy "Bu çok ateşli!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:771
 translate turkish ns013_labels_section_0417db39:
 
     # sy "You like it, don't you?"
-    sy "You like it, don't you?"
+    sy "Hoşuna gidiyor, değil mi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:772
 translate turkish ns013_labels_section_ff73bf30:
 
     # sy "My brother fucking your tight little ass?"
-    sy "My brother fucking your tight little ass?"
+    sy "Kardeşimin senin küçük sıkı kıçını becermesi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:774
 translate turkish ns013_labels_section_5d2d1140:
 
     # sy "You like it don't you?"
-    sy "You like it don't you?"
+    sy "Hoşuna gidiyor, değil mi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:775
 translate turkish ns013_labels_section_607a3a4d:
 
     # sy "My boyfriend fucking your tight little ass?"
-    sy "My boyfriend fucking your tight little ass?"
+    sy "Erkek arkadaşımın senin küçük sıkı kıçını becermesi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:778
 translate turkish ns013_labels_section_87789305:
@@ -1526,13 +1526,13 @@ translate turkish ns013_labels_section_87789305:
 translate turkish ns013_labels_section_b8e38855:
 
     # ns "I fucking love it so much!"
-    ns "I fucking love it so much!"
+    ns "Buna bayılıyorum!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:780
 translate turkish ns013_labels_section_b350dc10:
 
     # ns "There is nothing like it."
-    ns "There is nothing like it."
+    ns "Bunun gibi bir şey yok."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:783
 translate turkish ns013_labels_section_a91d9555:
@@ -1544,7 +1544,7 @@ translate turkish ns013_labels_section_a91d9555:
 translate turkish ns013_labels_section_33b19f92:
 
     # ns "Oh god!{w} Please keep fucking me, [mcname]!"
-    ns "Oh god!{w} Please keep fucking me, [mcname]!"
+    ns "Tanrım!{w} Lütfen beni sikmeye devam et, [mcname]!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:787
 translate turkish ns013_labels_section_e645f320:
@@ -1556,7 +1556,7 @@ translate turkish ns013_labels_section_e645f320:
 translate turkish ns013_labels_section_ff7dcb90:
 
     # ns "You know just how to fuck me."
-    ns "You know just how to fuck me."
+    ns "Beni nasıl sikeceğini biliyorsun."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:791
 translate turkish ns013_labels_section_4c4f5202:
@@ -1574,13 +1574,13 @@ translate turkish ns013_labels_section_adc7bd14:
 translate turkish ns013_labels_section_17568505:
 
     # ns "*moaning deliriously*"
-    ns "*moaning deliriously*"
+    ns "*çılgınca inliyor*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:799
 translate turkish ns013_labels_section_eee9b345:
 
     # ns "Feels... so... good..."
-    ns "Feels... so... good..."
+    ns "Hissediyor... çok... iyi..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:800
 translate turkish ns013_labels_section_5d58e7e0:
@@ -1592,7 +1592,7 @@ translate turkish ns013_labels_section_5d58e7e0:
 translate turkish ns013_labels_section_e42b4771:
 
     # ns "Stacy...{w} Kiss me."
-    ns "Stacy...{w} Kiss me."
+    ns "Stacy...{w} Öp beni."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:809
 translate turkish ns013_labels_section_c9dcabdc:
@@ -1610,31 +1610,31 @@ translate turkish ns013_labels_section_4aabf257:
 translate turkish ns013_labels_section_37e98e33:
 
     # sy "That's me."
-    sy "That's me."
+    sy "Bu benim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:821
 translate turkish ns013_labels_section_bf9f84df:
 
     # ns "Oh... sorry. I don't know what got hold of me."
-    ns "Oh... sorry. I don't know what got hold of me."
+    ns "Ah... üzgünüm. Bana ne oldu bilmiyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:824
 translate turkish ns013_labels_section_75f3169b:
 
     # sy "No sorries. It was quite the treat."
-    sy "No sorries. It was quite the treat."
+    sy "Özür dileme. Oldukça keyifliydi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:827
 translate turkish ns013_labels_section_8e9364a8:
 
     # mc "What did I miss?"
-    mc "What did I miss?"
+    mc "Neyi kaçırdım?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:831
 translate turkish ns013_labels_section_6ef3f330:
 
     # sy "Just Nari putting her tongue down my throat."
-    sy "Just Nari putting her tongue down my throat."
+    sy "Sadece Nari dilini boğazıma soktu."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:834
 translate turkish ns013_labels_section_2b35b6fe:
@@ -1646,37 +1646,37 @@ translate turkish ns013_labels_section_2b35b6fe:
 translate turkish ns013_labels_section_69a1b761:
 
     # mc "Hot."
-    mc "Hot."
+    mc "Ateşli."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:837
 translate turkish ns013_labels_section_3843c15a:
 
     # mc "Fuck. I'm getting so close, Nari."
-    mc "Fuck. I'm getting so close, Nari."
+    mc "Kahretsin. Çok yaklaşıyorum, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:840
 translate turkish ns013_labels_section_a49423bc:
 
     # ns "Hold on, please. I want to do something special."
-    ns "Hold on, please. I want to do something special."
+    ns "Bekle lütfen. Özel bir şey yapmak istiyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:841
 translate turkish ns013_labels_section_2e9389cc:
 
     # ns "Something we can both do for you."
-    ns "Something we can both do for you."
+    ns "İkimizin de senin için yapabileceği bir şey."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:842
 translate turkish ns013_labels_section_ba607f6b:
 
     # ns "Please.{w} Let us pleasure you, [mcname]."
-    ns "Please.{w} Let us pleasure you, [mcname]."
+    ns "Lütfen.{w} Sana zevk vermemize izin ver, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:845
 translate turkish ns013_labels_section_a3450f5b:
 
     # mc "I'm not about to say 'no'."
-    mc "I'm not about to say 'no'."
+    mc "'Hayır' demeyeceğim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:848
 translate turkish ns013_labels_section_7656896b:
@@ -1694,25 +1694,25 @@ translate turkish ns013_labels_section_85a93ebf:
 translate turkish ns013_labels_section_84010f30:
 
     # mc "Fuck me. Oh..."
-    mc "Fuck me. Oh..."
+    mc "Sik beni. Ah..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:856
 translate turkish ns013_labels_section_db90e2c0:
 
     # mc "That feels so good, Nari."
-    mc "That feels so good, Nari."
+    mc "Bu çok iyi hissettiriyor, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:859
 translate turkish ns013_labels_section_b101633c:
 
     # mc "And you too, Stacy."
-    mc "And you too, Stacy."
+    mc "Ve sen de, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:860
 translate turkish ns013_labels_section_b710308a:
 
     # mc "I'm going to cum buckets."
-    mc "I'm going to cum buckets."
+    mc "Kovalarla boşalacağım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:863
 translate turkish ns013_labels_section_e3339053:
@@ -1730,19 +1730,19 @@ translate turkish ns013_labels_section_2317e74e:
 translate turkish ns013_labels_section_7ff75e74:
 
     # sy "Each time your tongue moves, he gets harder and thicker."
-    sy "Each time your tongue moves, he gets harder and thicker."
+    sy "Dilin her hareket ettiğinde daha sert ve kalın oluyor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:868
 translate turkish ns013_labels_section_b2021bff:
 
     # ns "I'm very pleased to hear that."
-    ns "I'm very pleased to hear that."
+    ns "Bunu duyduğuma çok memnun oldum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:871
 translate turkish ns013_labels_section_94268c59:
 
     # sy "Muaah... you taste so fucking good, [mcname]."
-    sy "Muaah... you taste so fucking good, [mcname]."
+    sy "Muaah... tadın çok güzel, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:872
 translate turkish ns013_labels_section_cd60a2fb:
@@ -1766,19 +1766,19 @@ translate turkish ns013_labels_section_72813ae1:
 translate turkish ns013_labels_section_2c1b2636:
 
     # sy "*wet lewd sucking*"
-    sy "*wet lewd sucking*"
+    sy "*ıslak müstehcen emme*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:882
 translate turkish ns013_labels_section_ceff1066:
 
     # ns "*excited moaning*"
-    ns "*excited moaning*"
+    ns "*heyecanlı inleme*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:890
 translate turkish ns013_labels_section_e8301e81:
 
     # mc "Shit. I'm going to explode!"
-    mc "Shit. I'm going to explode!"
+    mc "Kahretsin. Patlayacağım!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:892
 translate turkish ns013_labels_section_4d152809:
@@ -1796,7 +1796,7 @@ translate turkish ns013_labels_section_628bf4a3:
 translate turkish ns013_labels_section_e054ce99:
 
     # mc "I'm going to cum!"
-    mc "I'm going to cum!"
+    mc "Boşalacağım!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:900
 translate turkish ns013_labels_section_fe802941:
@@ -1814,19 +1814,19 @@ translate turkish ns013_labels_section_2d0577ab:
 translate turkish ns013_labels_section_1f0a11a2:
 
     # ns "*moaning loudly*"
-    ns "*moaning loudly*"
+    ns "*yüksek sesle inliyor*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:911
 translate turkish ns013_labels_section_e74d0fff:
 
     # ns "Mmmm. So thick."
-    ns "Mmmm. So thick."
+    ns "Mmmm. Çok kalın."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:914
 translate turkish ns013_labels_section_55b79db6:
 
     # sy "And warm."
-    sy "And warm."
+    sy "Ve sıcak."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:918
 translate turkish ns013_labels_section_1c81208e:
@@ -1838,31 +1838,31 @@ translate turkish ns013_labels_section_1c81208e:
 translate turkish ns013_labels_section_8e9ba5df:
 
     # sy "What a pair we make."
-    sy "What a pair we make."
+    sy "Ne güzel bir çift olduk."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:924
 translate turkish ns013_labels_section_8ea8e26c:
 
     # ns "I know. Nice and sticky."
-    ns "I know. Nice and sticky."
+    ns "Biliyorum. Güzel ve yapışkan."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:925
 translate turkish ns013_labels_section_88c7899f:
 
     # ns "I never imagined looking at another cute girl beside me."
-    ns "I never imagined looking at another cute girl beside me."
+    ns "Yanımda başka bir sevimli kıza bakacağımı hiç hayal etmemiştim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:926
 translate turkish ns013_labels_section_a50d4329:
 
     # ns "While we had the same man's semen drooling down our faces."
-    ns "While we had the same man's semen drooling down our faces."
+    ns "Aynı adamın menisi yüzümüzden akarken."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:927
 translate turkish ns013_labels_section_23a48cd1:
 
     # ns "I... I think that... going forward...{w} I could do this again."
-    ns "I... I think that... going forward...{w} I could do this again."
+    ns "Ben... Sanırım... bundan sonra...{w} Bunu tekrar yapabilirim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:931
 translate turkish ns013_labels_section_7e66f832:
@@ -1874,55 +1874,55 @@ translate turkish ns013_labels_section_7e66f832:
 translate turkish ns013_labels_section_2f39905a:
 
     # sy "Woah. You really came a lot."
-    sy "Woah. You really came a lot."
+    sy "Vay be. Gerçekten çok boşaldın."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:934
 translate turkish ns013_labels_section_2454c390:
 
     # sy "Guess it pays to have two girls milking you hard."
-    sy "Guess it pays to have two girls milking you hard."
+    sy "Sanırım iki kızın seni sert sağması işe yarıyor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:937
 translate turkish ns013_labels_section_b3eebab8:
 
     # ns "Oh no, [nsmcpetlabel]."
-    ns "Oh no, [nsmcpetlabel]."
+    ns "Ah hayır, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:938
 translate turkish ns013_labels_section_fae7e98c:
 
     # ns "We didn't hurt you did we?"
-    ns "We didn't hurt you did we?"
+    ns "Seni incitmedik, değil mi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:940
 translate turkish ns013_labels_section_1d35557a:
 
     # ns "We didn't hurt you, did we, [mcname]?"
-    ns "We didn't hurt you, did we, [mcname]?"
+    ns "Seni incitmedik, değil mi, [mcname]?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:943
 translate turkish ns013_labels_section_7182e19a:
 
     # mc "No. I'm good."
-    mc "No. I'm good."
+    mc "Hayır. İyiyim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:946
 translate turkish ns013_labels_section_f44b91a7:
 
     # sy "Yeah, he's fine."
-    sy "Yeah, he's fine."
+    sy "Evet, o iyi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:948
 translate turkish ns013_labels_section_ee8e4e26:
 
     # sy "My bro is made of sterner stuff than most men."
-    sy "My bro is made of sterner stuff than most men."
+    sy "Kardeşim çoğu erkekten daha sert bir şeyden yapılmıştır."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:950
 translate turkish ns013_labels_section_0aab528e:
 
     # sy "My boyfriend is made of sterner stuff than most men."
-    sy "My boyfriend is made of sterner stuff than most men."
+    sy "Erkek arkadaşım çoğu erkekten daha sert bir şeyden yapılmıştır."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:954
 translate turkish ns013_labels_section_29c9338e:
@@ -1934,7 +1934,7 @@ translate turkish ns013_labels_section_29c9338e:
 translate turkish ns013_labels_section_9f5b56cb:
 
     # ns "Oh my!"
-    ns "Oh my!"
+    ns "Aman Tanrım!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:960
 translate turkish ns013_labels_section_9de07441:
@@ -1946,31 +1946,31 @@ translate turkish ns013_labels_section_9de07441:
 translate turkish ns013_labels_section_8fd9be1f:
 
     # sy "What?{w} I was just checking if you could go for another round."
-    sy "What?{w} I was just checking if you could go for another round."
+    sy "Ne?{w} Sadece bir tur daha gidip gidemeyeceğini kontrol ediyordum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:965
 translate turkish ns013_labels_section_3abd9d84:
 
     # mc "Not anymore..."
-    mc "Not anymore..."
+    mc "Artık değil..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:969
 translate turkish ns013_labels_section_4add1c1a:
 
     # sy "I'm just playing, bro."
-    sy "I'm just playing, bro."
+    sy "Sadece şaka yapıyorum, kardeşim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:971
 translate turkish ns013_labels_section_01d8eb46:
 
     # sy "I'm just playing around, [mcname]."
-    sy "I'm just playing around, [mcname]."
+    sy "Sadece şaka yapıyorum, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:972
 translate turkish ns013_labels_section_da10bdc8:
 
     # sy "Gotta have a little fun since a new girl is with us."
-    sy "Gotta have a little fun since a new girl is with us."
+    sy "Yeni bir kız bizimle olduğundan biraz eğlenmemiz gerekiyor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:974
 translate turkish ns013_labels_section_4661a639:
@@ -1982,7 +1982,7 @@ translate turkish ns013_labels_section_4661a639:
 translate turkish ns013_labels_section_ef65c1c4:
 
     # sy "Let me make it all better."
-    sy "Let me make it all better."
+    sy "Her şeyi daha iyi yapmama izin ver."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:981
 translate turkish ns013_labels_section_febd1648:
@@ -1994,19 +1994,19 @@ translate turkish ns013_labels_section_febd1648:
 translate turkish ns013_labels_section_10563ca6:
 
     # sy "Better?"
-    sy "Better?"
+    sy "Daha iyi mi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:987
 translate turkish ns013_labels_section_27320961:
 
     # mc "A little."
-    mc "A little."
+    mc "Biraz."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:989
 translate turkish ns013_labels_section_7b2cf348:
 
     # ns "Can I... can I try to make you feel better with a kiss too?"
-    ns "Can I... can I try to make you feel better with a kiss too?"
+    ns "Ben de... ben de bir öpücükle seni daha iyi hissettirmeyi deneyebilir miyim?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:990
 translate turkish ns013_labels_section_f915e9f8:
@@ -2024,25 +2024,25 @@ translate turkish ns013_labels_section_8f411162:
 translate turkish ns013_labels_section_4488b5fc:
 
     # mct "Alright, the two of them kissing my poor cock is worth a lot of Stacy's wickedness."
-    mct "Alright, the two of them kissing my poor cock is worth a lot of Stacy's wickedness."
+    mct "Pekala, ikisinin de zavallı aletimi öpmesi Stacy'nin kötülüğüne değer."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:999
 translate turkish ns013_labels_section_c16f3ee8:
 
     # mc "That feels a lot better now. Thanks, both of you."
-    mc "That feels a lot better now. Thanks, both of you."
+    mc "Şimdi çok daha iyi hissediyorum. Teşekkürler, ikinize de."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1002
 translate turkish ns013_labels_section_68c6c026:
 
     # sy "Don't thank us yet."
-    sy "Don't thank us yet."
+    sy "Henüz teşekkür etme."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1006
 translate turkish ns013_labels_section_c4ef911f:
 
     # sy "We're going to go get cleaned up while you cook us breakfast."
-    sy "We're going to go get cleaned up while you cook us breakfast."
+    sy "Bize kahvaltı hazırlarken temizlenmeye gideceğiz."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1008
 translate turkish ns013_labels_section_11455b53:
@@ -2054,163 +2054,163 @@ translate turkish ns013_labels_section_11455b53:
 translate turkish ns013_labels_section_6fa4ce57:
 
     # sy "Chickenbutt.{w} You can't expect us to walk around with your cum on our face and in our hair."
-    sy "Chickenbutt.{w} You can't expect us to walk around with your cum on our face and in our hair."
+    sy "Tavuk kıçı.{w} Yüzümüzde ve saçımızda menin ile dolaşmamızı bekleyemezsin."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1012
 translate turkish ns013_labels_section_98d63524:
 
     # sy "Come on, Nari. The shower is amazing."
-    sy "Come on, Nari. The shower is amazing."
+    sy "Hadi, Nari. Duş harika."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1016
 translate turkish ns013_labels_section_86efcb55:
 
     # ns "Oh... I can just go after you, Stacy."
-    ns "Oh... I can just go after you, Stacy."
+    ns "Ah... Sadece senden sonra gidebilirim, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1019
 translate turkish ns013_labels_section_5a4e1054:
 
     # sy "Nonsense."
-    sy "Nonsense."
+    sy "Saçmalık."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1020
 translate turkish ns013_labels_section_96efceb5:
 
     # sy "I promise no funny business."
-    sy "I promise no funny business."
+    sy "Garip bir şey yapmayacağıma söz veriyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1021
 translate turkish ns013_labels_section_78deb72d:
 
     # sy "But I do want to see your conditioner or whatever makes your hair smell so good."
-    sy "But I do want to see your conditioner or whatever makes your hair smell so good."
+    sy "Ama saçının bu kadar güzel kokmasını sağlayan kremi ya da her neyse görmek istiyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1025
 translate turkish ns013_labels_section_d122d073:
 
     # ns "Okay. I can do that."
-    ns "Okay. I can do that."
+    ns "Tamam. Bunu yapabilirim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1027
 translate turkish ns013_labels_section_1caa6908:
 
     # ns "If my [nsmcpetlabel] is okay with that."
-    ns "If my [nsmcpetlabel] is okay with that."
+    ns "Eğer [nsmcpetlabel]'im bununla sorun yoksa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1029
 translate turkish ns013_labels_section_f80d8d2f:
 
     # ns "If [mcname] is okay with that."
-    ns "If [mcname] is okay with that."
+    ns "Eğer [mcname] bununla sorun yoksa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1034
 translate turkish ns013_labels_section_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Elbette."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1035
 translate turkish ns013_labels_section_253424a3:
 
     # mc "Go on, Stacy. Make my [nspetlabel] nice and clean."
-    mc "Go on, Stacy. Make my [nspetlabel] nice and clean."
+    mc "Devam et, Stacy. [nspetlabel]'imi güzel ve temiz yap."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1036
 translate turkish ns013_labels_section_531bfbf1:
 
     # sy "Sure."
-    sy "Sure."
+    sy "Elbette."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1038
 translate turkish ns013_labels_section_f915e9f8_1:
 
     # mc "Of course, Nari."
-    mc "Of course, Nari."
+    mc "Tabii ki, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1039
 translate turkish ns013_labels_section_18a97eb9:
 
     # mc "But... if Stacy gets out of line, let me know and I'll punish her later."
-    mc "But... if Stacy gets out of line, let me know and I'll punish her later."
+    mc "Ama... eğer Stacy sınırı aşarsa bana haber ver, daha sonra onu cezalandıracağım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1043
 translate turkish ns013_labels_section_864990fa:
 
     # ns "Of course, [nsmcpetlabel]."
-    ns "Of course, [nsmcpetlabel]."
+    ns "Tabii ki, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1045
 translate turkish ns013_labels_section_807b127b:
 
     # ns "I think I can do that."
-    ns "I think I can do that."
+    ns "Sanırım bunu yapabilirim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1049
 translate turkish ns013_labels_section_214487a0:
 
     # sy "Hehe. What about the sisterhood, Nari?"
-    sy "Hehe. What about the sisterhood, Nari?"
+    sy "Hehe. Peki ya kız kardeşlik, Nari?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1052
 translate turkish ns013_labels_section_f3298e71:
 
     # ns "Mmm. We will see how the shower goes."
-    ns "Mmm. We will see how the shower goes."
+    ns "Mmm. Duşun nasıl geçtiğini göreceğiz."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1074
 translate turkish ns013_labels_section_dff883af:
 
     # mct "What is taking them so long?"
-    mct "What is taking them so long?"
+    mct "Neden bu kadar uzun sürüyor?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1075
 translate turkish ns013_labels_section_da29598f:
 
     # mct "They were just showering."
-    mct "They were just showering."
+    mct "Sadece duş alıyorlardı."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1080
 translate turkish ns013_labels_section_641211b9:
 
     # sy "Heya."
-    sy "Heya."
+    sy "Selam."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1082
 translate turkish ns013_labels_section_3ac6c8d9:
 
     # ns "Hello."
-    ns "Hello."
+    ns "Merhaba."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1085
 translate turkish ns013_labels_section_756c5de5:
 
     # mc "There you two are."
-    mc "There you two are."
+    mc "İşte ikiniz de buradasınız."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1086
 translate turkish ns013_labels_section_f8d443dc:
 
     # mc "I should go get cleaned up."
-    mc "I should go get cleaned up."
+    mc "Gidip temizlenmeliyim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1091
 translate turkish ns013_labels_section_82128f55:
 
     # sy "Nah, stay. We're starving and we want to eat together."
-    sy "Nah, stay. We're starving and we want to eat together."
+    sy "Hayır, kal. Açız ve birlikte yemek yemek istiyoruz."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1094
 translate turkish ns013_labels_section_86c73c7c:
 
     # ns "And I think... judging from our conversation in the shower."
-    ns "And I think... judging from our conversation in the shower."
+    ns "Ve sanırım... duştaki konuşmamıza bakılırsa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1095
 translate turkish ns013_labels_section_ea72caf3:
 
     # ns "Stacy and I enjoy when you smell a little from sex."
-    ns "Stacy and I enjoy when you smell a little from sex."
+    ns "Stacy ve ben seksten biraz koktuğunda hoşumuza gidiyor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1099
 translate turkish ns013_labels_section_e70966a0:
@@ -2222,19 +2222,19 @@ translate turkish ns013_labels_section_e70966a0:
 translate turkish ns013_labels_section_e837dbf6:
 
     # mc "I mean... Oh no."
-    mc "I mean... Oh no."
+    mc "Yani... Ah hayır."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1103
 translate turkish ns013_labels_section_e302e469:
 
     # mc "You're already corrupting her, Stacy."
-    mc "You're already corrupting her, Stacy."
+    mc "Onu şimdiden bozuyorsun, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1106
 translate turkish ns013_labels_section_a67574e0:
 
     # sy "Woah, Nari is her own woman, and I think we can all agree she was a little perverted before we ever met."
-    sy "Woah, Nari is her own woman, and I think we can all agree she was a little perverted before we ever met."
+    sy "Vay, Nari kendi kadını ve sanırım hepimiz tanışmadan önce biraz sapık olduğu konusunda hemfikir olabiliriz."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1110
 translate turkish ns013_labels_section_c4a48b98:
@@ -2246,7 +2246,7 @@ translate turkish ns013_labels_section_c4a48b98:
 translate turkish ns013_labels_section_88a5f694:
 
     # ns "*softly* Maybe."
-    ns "*softly* Maybe."
+    ns "*yumuşakça* Belki."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1116
 translate turkish ns013_labels_section_50800ec3:
@@ -2258,37 +2258,37 @@ translate turkish ns013_labels_section_50800ec3:
 translate turkish ns013_labels_section_57d25b67:
 
     # mc "I think the three of us are going to get along just fine."
-    mc "I think the three of us are going to get along just fine."
+    mc "Sanırım üçümüz çok iyi anlaşacağız."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1121
 translate turkish ns013_labels_section_3a5f99b4:
 
     # sy "I second that."
-    sy "I second that."
+    sy "Ben de katılıyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1125
 translate turkish ns013_labels_section_1037299c:
 
     # ns "Thank you, [nsmcpetlabel]. And you too, Stacy."
-    ns "Thank you, [nsmcpetlabel]. And you too, Stacy."
+    ns "Teşekkür ederim, [nsmcpetlabel]. Ve sen de, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1127
 translate turkish ns013_labels_section_d788a727:
 
     # ns "Thank you, [mcname] and Stacy."
-    ns "Thank you, [mcname] and Stacy."
+    ns "Teşekkür ederim, [mcname] ve Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1128
 translate turkish ns013_labels_section_08aa7c03:
 
     # ns "It is a beautiful morning to be accepted by..."
-    ns "It is a beautiful morning to be accepted by..."
+    ns "Kabul edilmek için güzel bir sabah..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1129
 translate turkish ns013_labels_section_20bcc80c:
 
     # ns "People who enjoy doing naughty stuff as much as I do."
-    ns "People who enjoy doing naughty stuff as much as I do."
+    ns "Benim kadar yaramaz şeyler yapmaktan hoşlanan insanlar tarafından."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1132
 translate turkish ns013_labels_section_97bd9894:
@@ -2300,55 +2300,55 @@ translate turkish ns013_labels_section_97bd9894:
 translate turkish ns013_labels_section_1aea3951:
 
     # mc "Speaking of naughty stuff, did Stacy do anything bad in the shower?"
-    mc "Speaking of naughty stuff, did Stacy do anything bad in the shower?"
+    mc "Yaramaz şeylerden bahsetmişken, Stacy duşta kötü bir şey yaptı mı?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1136
 translate turkish ns013_labels_section_a4f2c334:
 
     # ns "Hmmm. Let me think."
-    ns "Hmmm. Let me think."
+    ns "Hmmm. Düşünmeme izin ver."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1140
 translate turkish ns013_labels_section_bcd4a114:
 
     # sy "Think?{w} Huh? I didn't do anything."
-    sy "Think?{w} Huh? I didn't do anything."
+    sy "Düşün?{w} Ha? Hiçbir şey yapmadım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1142
 translate turkish ns013_labels_section_1f57c392:
 
     # ns "Well, you may think that, but I might not agree."
-    ns "Well, you may think that, but I might not agree."
+    ns "Şey, sen öyle düşünebilirsin ama ben katılmayabilirim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1145
 translate turkish ns013_labels_section_12637889:
 
     # sy "Oh come on, Nari. I was going out of my way to behave like the perfect roommate."
-    sy "Oh come on, Nari. I was going out of my way to behave like the perfect roommate."
+    sy "Ah hadi ama, Nari. Mükemmel bir oda arkadaşı gibi davranmak için elimden geleni yapıyordum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1146
 translate turkish ns013_labels_section_bc259caa:
 
     # sy "What did I do?"
-    sy "What did I do?"
+    sy "Ne yaptım ki?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1149
 translate turkish ns013_labels_section_f401d19f:
 
     # ns "Gotcha."
-    ns "Gotcha."
+    ns "Yakaladım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1152
 translate turkish ns013_labels_section_32a59417:
 
     # sy "You."
-    sy "You."
+    sy "Sen."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1153
 translate turkish ns013_labels_section_b820a812:
 
     # sy "Hah! You are in trouble now."
-    sy "Hah! You are in trouble now."
+    sy "Hah! Şimdi başın belada."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1156
 translate turkish ns013_labels_section_cd71789f:
@@ -2360,77 +2360,77 @@ translate turkish ns013_labels_section_cd71789f:
 translate turkish ns013_labels_section_9da26eaf:
 
     # ns "I've never had roommates to play little jokes on."
-    ns "I've never had roommates to play little jokes on."
+    ns "Hiç üzerinde küçük şakalar yapabileceğim oda arkadaşım olmadı."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1158
 translate turkish ns013_labels_section_131df71a:
 
     # ns "And I imagined you would enjoy that, Stacy."
-    ns "And I imagined you would enjoy that, Stacy."
+    ns "Ve senin bundan hoşlanacağını hayal ettim, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1161
 translate turkish ns013_labels_section_573aad5c:
 
     # sy "Oh, I did. But not as much as I'll enjoy getting you back."
-    sy "Oh, I did. But not as much as I'll enjoy getting you back."
+    sy "Ah, hoşlandım. Ama sana ödeteceğim kadar değil."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1164
 translate turkish ns013_labels_section_2a4bec29:
 
     # mc "Come on, girls. Eat up."
-    mc "Come on, girls. Eat up."
+    mc "Hadi, kızlar. Yiyin."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1165
 translate turkish ns013_labels_section_3ae25e73:
 
     # mc "There will be plenty of time for pranks and tricks later."
-    mc "There will be plenty of time for pranks and tricks later."
+    mc "Şakalar ve hileler için daha sonra bol bol zaman olacak."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1169
 translate turkish ns013_labels_section_4a1d7680:
 
     # sy "Yes, bro."
-    sy "Yes, bro."
+    sy "Evet, kardeşim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1171
 translate turkish ns013_labels_section_47c7dd93:
 
     # sy "Alright, alright."
-    sy "Alright, alright."
+    sy "Tamam, tamam."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1173
 translate turkish ns013_labels_section_4e1d76af:
 
     # ns "Yes, [mcname]."
-    ns "Yes, [mcname]."
+    ns "Evet, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:531
 translate turkish ns013_labels_section_0887f6cc:
 
     # ns "I am a very bad [nspetlabel]."
-    ns "I am a very bad [nspetlabel]."
+    ns "Ben çok kötü bir [nspetlabel]'im."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:569
 translate turkish ns013_labels_section_3688c4d9:
 
     # ns "A little. I'm actually still-"
-    ns "A little. I'm actually still-"
+    ns "Biraz. Aslında hala-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:627
 translate turkish ns013_labels_section_713f1049:
 
     # ns "You're always so kind to me, [nsmcpetlabel]."
-    ns "You're always so kind to me, [nsmcpetlabel]."
+    ns "Bana her zaman çok naziksin, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:651
 translate turkish ns013_labels_section_791ab451:
 
     # mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
-    mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+    mc "Amının etrafımda nasıl hissettiğini seviyorum. Çok iyi bir [nspetlabel]'e sahibim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:662
 translate turkish ns013_labels_section_ab353c83:
 
     # ns "I can go... Mrrmmm... at just the right speed."
-    ns "I can go... Mrrmmm... at just the right speed."
+    ns "Gidebilirim... Mrrmmm... tam doğru hızda."
 
