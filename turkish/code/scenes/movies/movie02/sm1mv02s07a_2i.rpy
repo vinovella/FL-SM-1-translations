@@ -38,7 +38,7 @@ translate turkish sm1mv02s07a_2i_75d47e2a:
 translate turkish sm1mv02s07a_2i_d389dcd8:
 
     # ns "Hehehe."
-    ns "Hehehe."
+    ns "Hihihi."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a_2i.rpy:19
 translate turkish sm1mv02s07a_2i_e56da994:
