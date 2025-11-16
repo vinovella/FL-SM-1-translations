@@ -74,49 +74,49 @@ translate turkish sm1mv01s09_88979df8:
 translate turkish sm1mv01s09_691ab6e7:
 
     # sy "Uhm... I think just the ending? The big stand off."
-    sy "Uhm... I think just the ending? The big stand off."
+    sy "Uhm... Sanırım sadece son? Büyük yüzleşme."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:127
 translate turkish sm1mv01s09_08816fb2:
 
     # kv "Sweet."
-    kv "Sweet."
+    kv "Harika."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:130
 translate turkish sm1mv01s09_24c61750:
 
     # mct "Hmmm... they're looking beat."
-    mct "Hmmm... they're looking beat."
+    mct "Hmmm... yorgun görünüyorlar."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:131
 translate turkish sm1mv01s09_2b3f39df:
 
     # mct "It has been a really long day."
-    mct "It has been a really long day."
+    mct "Gerçekten uzun bir gün oldu."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:135
 translate turkish sm1mv01s09_3f1aa590:
 
     # mct "We need to make sure we schedule things better in the future."
-    mct "We need to make sure we schedule things better in the future."
+    mct "Gelecekte işleri daha iyi planladığımızdan emin olmalıyız."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:136
 translate turkish sm1mv01s09_476e1983:
 
     # mct "There was always going to be some rough patches on this big of a production."
-    mct "There was always going to be some rough patches on this big of a production."
+    mct "Bu kadar büyük bir prodüksiyonda her zaman bazı zorlu anlar olacaktı."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:139
 translate turkish sm1mv01s09_251b4443:
 
     # mc "That's awesome! Then we're almost done. Just a little further."
-    mc "That's awesome! Then we're almost done. Just a little further."
+    mc "Bu harika! O zaman neredeyse bitirdik. Sadece biraz daha."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:142
 translate turkish sm1mv01s09_a089ddbe:
 
     # tl "Thank God. Stacy was right about the sand..."
-    tl "Thank God. Stacy was right about the sand..."
+    tl "Tanrıya şükür. Stacy kum konusunda haklıydı..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:143
 translate turkish sm1mv01s09_af33ea6d:
@@ -128,121 +128,121 @@ translate turkish sm1mv01s09_af33ea6d:
 translate turkish sm1mv01s09_5810bf12:
 
     # tl "I don't like sand. It's coarse and rough and irritating — and it gets everywhere."
-    tl "I don't like sand. It's coarse and rough and irritating — and it gets everywhere."
+    tl "Kumdan hoşlanmam. Kaba, sert ve tahriş edici — ve her yere giriyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:146
 translate turkish sm1mv01s09_f2c3d056:
 
     # mc "I thought you liked rough things?"
-    mc "I thought you liked rough things?"
+    mc "Sert şeylerden hoşlandığını sanıyordum?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:149
 translate turkish sm1mv01s09_87578058:
 
     # tl "Yeah, kinky rough. Not \"sand in my asshole\" rough."
-    tl "Yeah, kinky rough. Not \"sand in my asshole\" rough."
+    tl "Evet, sapıkça sert. \"Kıçımda kum\" türünden sert değil."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:152
 translate turkish sm1mv01s09_b80e55ac:
 
     # mc "Anyway — we've done a really good job today! Look at how much we've gotten through!"
-    mc "Anyway — we've done a really good job today! Look at how much we've gotten through!"
+    mc "Her neyse — bugün gerçekten iyi iş çıkardık! Ne kadar ilerlediğimize bakın!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:153
 translate turkish sm1mv01s09_304f7a8e:
 
     # mc "By the end of today, we'll have wrapped on our pirate movie!"
-    mc "By the end of today, we'll have wrapped on our pirate movie!"
+    mc "Bugün sonunda, korsan filmimizi tamamlamış olacağız!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:156
 translate turkish sm1mv01s09_5a088c31:
 
     # kv "You're right..."
-    kv "You're right..."
+    kv "Haklısın..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:158
 translate turkish sm1mv01s09_4f218b4a:
 
     # sy "We are {i}almost{/i} done."
-    sy "We are {i}almost{/i} done."
+    sy "{i}Neredeyse{/i} bitirdik."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:161
 translate turkish sm1mv01s09_1070753e:
 
     # mc "Yeah! And, some of the stuff left is going to be a lot of fun for us to film!"
-    mc "Yeah! And, some of the stuff left is going to be a lot of fun for us to film!"
+    mc "Evet! Ve kalan bazı şeyleri çekmek bizim için çok eğlenceli olacak!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:165
 translate turkish sm1mv01s09_cce5f06c:
 
     # tl "Mmmmm... you have a good point there. I always feel better with a dick in my ass."
-    tl "Mmmmm... you have a good point there. I always feel better with a dick in my ass."
+    tl "Mmmmm... bu konuda haklısın. Kıçımda bir sik olduğunda her zaman daha iyi hissederim."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:168
 translate turkish sm1mv01s09_e38f2353:
 
     # sy "And I get to make Taisia shiver and shake as I eat her out!"
-    sy "And I get to make Taisia shiver and shake as I eat her out!"
+    sy "Ve ben de Taisia'yı yerken titretip sarsacağım!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:172
 translate turkish sm1mv01s09_b70108a4:
 
     # mc "Yeah! So, just one last push, and we're done!"
-    mc "Yeah! So, just one last push, and we're done!"
+    mc "Evet! Yani, sadece son bir hamle ve bitirdik!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:180
 translate turkish sm1mv01s09_e8acd2b4:
 
     # "Everyone" "Yeah!"
-    "Everyone" "Yeah!"
+    "Herkes" "Evet!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:181
 translate turkish sm1mv01s09_22aee32b:
 
     # kv "You heard, [mcname]. Everyone get to your spots!"
-    kv "You heard, [mcname]. Everyone get to your spots!"
+    kv "Duydunuz, [mcname]. Herkes yerlerine!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:184
 translate turkish sm1mv01s09_e3a5aa68:
 
     # sy "First position!"
-    sy "First position!"
+    sy "İlk pozisyon!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:188
 translate turkish sm1mv01s09_035ef16a:
 
     # tl "I figure first will be a blowjob-"
-    tl "I figure first will be a blowjob-"
+    tl "Sanırım önce oral olacak-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:191
 translate turkish sm1mv01s09_cf003abb:
 
     # sy "Oh, I meant like \"starting spots\" but I {b}love{/b} where your head is at, Taisia!"
-    sy "Oh, I meant like \"starting spots\" but I {b}love{/b} where your head is at, Taisia!"
+    sy "Oh, \"başlangıç noktaları\" gibi bir şey demek istedim ama kafanın nerede olduğunu {b}seviyorum{/b}, Taisia!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:194
 translate turkish sm1mv01s09_b1b5ebdb:
 
     # sy "All right, Kanya — on your call!"
-    sy "All right, Kanya — on your call!"
+    sy "Tamam, Kanya — senin emrinle!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:197
 translate turkish sm1mv01s09_a71365d8:
 
     # kv "Yeah, one second... just need to get the right angle here..."
-    kv "Yeah, one second... just need to get the right angle here..."
+    kv "Evet, bir saniye... burada doğru açıyı yakalamam lazım..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:199
 translate turkish sm1mv01s09_8d2bf680:
 
     # kv "All right, and..."
-    kv "All right, and..."
+    kv "Tamam, ve..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:202
 translate turkish sm1mv01s09_0212cd3a:
 
     # kv "Action!"
-    kv "Action!"
+    kv "Aksiyon!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:225
 translate turkish sm1mv01s09_movie_start_334f8a6e:
@@ -1928,7 +1928,7 @@ translate turkish strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s09.rpy:208
     old "Back in the cave"
-    new "Back in the cave"
+    new "Mağaraya geri dön"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:318
 translate turkish sm1mv01s09_movie_start_e2f21eec:
