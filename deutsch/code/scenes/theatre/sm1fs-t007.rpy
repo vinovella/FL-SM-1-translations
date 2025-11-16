@@ -1158,3 +1158,9 @@ translate deutsch strings:
     old "It was solid"
     new "Es war solide"
 
+# game/code/scenes/theatre/sm1fs-t007.rpy:36
+translate deutsch sm1fs_t007_47fafcd6:
+
+    # km "Yes, ma'am!"
+    km "Yes, ma'am!"
+

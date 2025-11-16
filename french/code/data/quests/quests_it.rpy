@@ -262,3 +262,17 @@ translate french strings:
     old "Work at Orbix [var]/20 times"
     new "Work at Orbix [var]/20 times"
 
+translate french strings:
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work the IT job 35/35 times and finish the renovations"
+    new "Work the IT job 35/35 times and finish the renovations"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work the IT job [var]/35 times and finish the renovations"
+    new "Work the IT job [var]/35 times and finish the renovations"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work the IT job [var]/35 times"
+    new "Work the IT job [var]/35 times"
+

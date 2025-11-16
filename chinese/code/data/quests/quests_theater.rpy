@@ -260,3 +260,9 @@
     old "Do the rehearsal on [var!t]"
     new "在[var!t]进行排练"
 
+translate chinese strings:
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Nelson during the day about sponsoring the new show"
+    new "Talk to Nelson during the day about sponsoring the new show"
+

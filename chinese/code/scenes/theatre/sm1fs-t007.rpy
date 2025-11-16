@@ -1158,3 +1158,9 @@ translate chinese strings:
     old "It was solid"
     new "很扎实"
 
+# game/code/scenes/theatre/sm1fs-t007.rpy:36
+translate chinese sm1fs_t007_47fafcd6:
+
+    # km "Yes, ma'am!"
+    km "Yes, ma'am!"
+

@@ -270,3 +270,9 @@ translate portuguese strings:
     old "Do the rehearsal on [var!t]"
     new "Do the rehearsal on [var!t]"
 
+translate portuguese strings:
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Nelson during the day about sponsoring the new show"
+    new "Talk to Nelson during the day about sponsoring the new show"
+

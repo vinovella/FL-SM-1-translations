@@ -1158,3 +1158,9 @@ translate french strings:
     old "It was solid"
     new "It was solid"
 
+# game/code/scenes/theatre/sm1fs-t007.rpy:36
+translate french sm1fs_t007_47fafcd6:
+
+    # km "Yes, ma'am!"
+    km "Yes, ma'am!"
+
