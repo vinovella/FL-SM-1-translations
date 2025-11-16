@@ -20,7 +20,7 @@ translate deutsch q_inter_rd_2_f47016ff:
 translate deutsch q_inter_rd_2_4110bb44:
 
     # rd "Haha. Must have been seeing stuff."
-    rd "Haha. Ich muss wohl Dinge gesehen haben."
+    rd "Haha. Musst wohl Halluzinationen gehabt haben."
 
 # game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:30
 translate deutsch q_inter_rd_2_d0b2417d:
