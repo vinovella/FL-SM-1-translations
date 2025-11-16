@@ -8,25 +8,25 @@ translate turkish sm1ms029_party_arj_7b7c1b0e:
 translate turkish sm1ms029_party_arj_dca6def0:
 
     # mc "There is a good slave. Take your Master's cock!"
-    mc "There is a good slave. Take your Master's cock!"
+    mc "İşte iyi bir köle. Efendinin sikini al!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1918
 translate turkish sm1ms029_party_arj_fd432c63:
 
     # mc "All the way to your womb!"
-    mc "All the way to your womb!"
+    mc "Rahmine kadar!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1920
 translate turkish sm1ms029_party_arj_64b42d5d:
 
     # arj "Yes, Master! Sully my perverted pussy with your virile cock!"
-    arj "Yes, Master! Sully my perverted pussy with your virile cock!"
+    arj "Evet, Efendim! Sapık amımı erkek sikinle kirlet!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1921
 translate turkish sm1ms029_party_arj_3d28a85a:
 
     # arj "Every part of my body is yours."
-    arj "Every part of my body is yours."
+    arj "Vücudumun her parçası senindir."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1923
 translate turkish sm1ms029_party_arj_c270851f:
@@ -38,37 +38,37 @@ translate turkish sm1ms029_party_arj_c270851f:
 translate turkish sm1ms029_party_arj_d7b32b44:
 
     # arj "I should never have left your side."
-    arj "I should never have left your side."
+    arj "Yanından asla ayrılmamalıydım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1925
 translate turkish sm1ms029_party_arj_ad26dd12:
 
     # arj "This... Feeling you crash inside me."
-    arj "This... Feeling you crash inside me."
+    arj "Bu... İçimde patladığını hissetmek."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1927
 translate turkish sm1ms029_party_arj_a28672db:
 
     # arj "It's all I need. It's all I ever desire-fhuaaah!"
-    arj "It's all I need. It's all I ever desire-fhuaaah!"
+    arj "İhtiyacım olan tek şey bu. Arzuladığım tek şey bu-fhuaaah!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1929
 translate turkish sm1ms029_party_arj_fcc52c1d:
 
     # mc "Let's give them all a great show."
-    mc "Let's give them all a great show."
+    mc "Hepsine harika bir gösteri verelim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1930
 translate turkish sm1ms029_party_arj_59ead21a:
 
     # arj "Yes. Although you're pretty much in full control."
-    arj "Yes. Although you're pretty much in full control."
+    arj "Evet. Her ne kadar sen tam kontroldesin."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1931
 translate turkish sm1ms029_party_arj_110b944b:
 
     # arj "I couldn't scratch my ass if I wanted to."
-    arj "I couldn't scratch my ass if I wanted to."
+    arj "İstesem bile kıçımı kaşıyamam."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1933
 translate turkish sm1ms029_party_arj_faa03e1a:
@@ -80,7 +80,7 @@ translate turkish sm1ms029_party_arj_faa03e1a:
 translate turkish sm1ms029_party_arj_59051cfd:
 
     # mc "That's what I'm for. To take care of all your needs."
-    mc "That's what I'm for. To take care of all your needs."
+    mc "Ben bunun için varım. Tüm ihtiyaçlarınla ilgilenmek için."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1935
 translate turkish sm1ms029_party_arj_d67db856:
@@ -92,7 +92,7 @@ translate turkish sm1ms029_party_arj_d67db856:
 translate turkish sm1ms029_party_arj_4e7f0a0b:
 
     # arj "That's sweet, but I'm a big girl, [mcname]."
-    arj "That's sweet, but I'm a big girl, [mcname]."
+    arj "Çok tatlısın, ama ben büyük bir kızım, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1938
 translate turkish sm1ms029_party_arj_a33c151a:
@@ -104,7 +104,7 @@ translate turkish sm1ms029_party_arj_a33c151a:
 translate turkish sm1ms029_party_arj_cfcc2293:
 
     # mc "I know."
-    mc "I know."
+    mc "Biliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1941
 translate turkish sm1ms029_party_arj_5f71acf7:
@@ -116,7 +116,7 @@ translate turkish sm1ms029_party_arj_5f71acf7:
 translate turkish sm1ms029_party_arj_3f19b7c7:
 
     # mc "But you're also {i}my{/i} girl. And I want to give you anything you need."
-    mc "But you're also {i}my{/i} girl. And I want to give you anything you need."
+    mc "Ama aynı zamanda {i}benim{/i} kızımsın. Ve sana ihtiyacın olan her şeyi vermek istiyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1943
 translate turkish sm1ms029_party_arj_a281a7be:
@@ -128,31 +128,31 @@ translate turkish sm1ms029_party_arj_a281a7be:
 translate turkish sm1ms029_party_arj_230a1b61:
 
     # arj "You already do that, [mcname]!"
-    arj "You already do that, [mcname]!"
+    arj "Zaten bunu yapıyorsun, [mcname]!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1948
 translate turkish sm1ms029_party_arj_8873befd:
 
     # mct "Shit. I'm going to explode."
-    mct "Shit. I'm going to explode."
+    mct "Kahretsin. Patlayacağım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1949
 translate turkish sm1ms029_party_arj_953a58b8:
 
     # mct "But I can't cum without making AmRose melt."
-    mct "But I can't cum without making AmRose melt."
+    mct "Ama AmRose'u eritmeden boşalamam."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1951
 translate turkish sm1ms029_party_arj_6adeae12:
 
     # mc "Stacy, help me get her out of the ropes."
-    mc "Stacy, help me get her out of the ropes."
+    mc "Stacy, onu iplerden çıkarmama yardım et."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1952
 translate turkish sm1ms029_party_arj_fda3491d:
 
     # sy "You got it."
-    sy "You got it."
+    sy "Tamam."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1954
 translate turkish sm1ms029_party_arj_254336d8_1:
@@ -164,7 +164,7 @@ translate turkish sm1ms029_party_arj_254336d8_1:
 translate turkish sm1ms029_party_arj_7c7f62e0:
 
     # arj "What is-"
-    arj "What is-"
+    arj "Ne-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1957
 translate turkish sm1ms029_party_arj_03bd3623:
@@ -188,7 +188,7 @@ translate turkish sm1ms029_party_arj_37602784:
 translate turkish sm1ms029_party_arj_26a1568e:
 
     # arj "Fuck fuck fuck..."
-    arj "Fuck fuck fuck..."
+    arj "Siktir siktir siktir..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1966
 translate turkish sm1ms029_party_arj_32617025:
@@ -200,25 +200,25 @@ translate turkish sm1ms029_party_arj_32617025:
 translate turkish sm1ms029_party_arj_0467b794:
 
     # arj "Please, Master. I need you back inside of me."
-    arj "Please, Master. I need you back inside of me."
+    arj "Lütfen, Efendim. Seni tekrar içimde istiyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1968
 translate turkish sm1ms029_party_arj_f4e7a7bb:
 
     # mc "Is my slave telling me what to do?"
-    mc "Is my slave telling me what to do?"
+    mc "Kölem bana ne yapacağımı mı söylüyor?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1970
 translate turkish sm1ms029_party_arj_dd862cc9:
 
     # arj "No. Of course not. But... she does want to be punished some more."
-    arj "No. Of course not. But... she does want to be punished some more."
+    arj "Hayır. Tabii ki hayır. Ama... biraz daha cezalandırılmak istiyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1971
 translate turkish sm1ms029_party_arj_f680e53a:
 
     # mc "Hah. Oh I'll punish you."
-    mc "Hah. Oh I'll punish you."
+    mc "Hah. Oh seni cezalandıracağım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1974
 translate turkish sm1ms029_party_arj_e3f94075:
@@ -230,25 +230,25 @@ translate turkish sm1ms029_party_arj_e3f94075:
 translate turkish sm1ms029_party_arj_461e7cf4:
 
     # arj "My pussy wants nothing more than to gobble and suck on your cock!"
-    arj "My pussy wants nothing more than to gobble and suck on your cock!"
+    arj "Amım senin sikini yalayıp emmekten başka bir şey istemiyor!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1977
 translate turkish sm1ms029_party_arj_aa94414f:
 
     # arj "Please! I need it so bad."
-    arj "Please! I need it so bad."
+    arj "Lütfen! Çok ihtiyacım var."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1978
 translate turkish sm1ms029_party_arj_5d015962:
 
     # mc "Mmmm. I guess I should give you what you so desperately need."
-    mc "Mmmm. I guess I should give you what you so desperately need."
+    mc "Mmmm. Sanırım sana bu kadar çaresizce ihtiyaç duyduğun şeyi vermeliyim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1979
 translate turkish sm1ms029_party_arj_d5cb18e5:
 
     # arj "Yes. Give me your cock... or I'll lose my mind!"
-    arj "Yes. Give me your cock... or I'll lose my mind!"
+    arj "Evet. Sikini ver bana... yoksa aklımı kaybedeceğim!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1981
 translate turkish sm1ms029_party_arj_ca4b6706:
@@ -260,61 +260,61 @@ translate turkish sm1ms029_party_arj_ca4b6706:
 translate turkish sm1ms029_party_arj_4f9d2674:
 
     # mc "Woah. You can really keep your legs that high."
-    mc "Woah. You can really keep your legs that high."
+    mc "Vay be. Bacaklarını gerçekten o kadar yüksekte tutabiliyorsun."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1985
 translate turkish sm1ms029_party_arj_a5eb7199:
 
     # arj "Through the power of love. Anything is possible."
-    arj "Through the power of love. Anything is possible."
+    arj "Aşkın gücüyle. Her şey mümkün."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1986
 translate turkish sm1ms029_party_arj_1c4ff6db:
 
     # mc "It's amazing."
-    mc "It's amazing."
+    mc "İnanılmaz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1987
 translate turkish sm1ms029_party_arj_f5bf3d05:
 
     # arj "Muaaa-huaaah... Keeep going."
-    arj "Muaaa-huaaah... Keeep going."
+    arj "Muaaa-huaaah... Devam et."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1988
 translate turkish sm1ms029_party_arj_b889270b:
 
     # arj "Fuck me till I lose my mind!"
-    arj "Fuck me till I lose my mind!"
+    arj "Aklımı kaybedene kadar sik beni!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1991
 translate turkish sm1ms029_party_arj_4a5ab3da:
 
     # arj "One day... I might be your slave on set too, Master."
-    arj "One day... I might be your slave on set too, Master."
+    arj "Bir gün... Sette de senin kölen olabilirim, Efendim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1992
 translate turkish sm1ms029_party_arj_945fe216:
 
     # mc "Don't tease me, slave."
-    mc "Don't tease me, slave."
+    mc "Benimle dalga geçme, köle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1994
 translate turkish sm1ms029_party_arj_d43c754f:
 
     # arj "I'm not. I'm thinking about it."
-    arj "I'm not. I'm thinking about it."
+    arj "Geçmiyorum. Bunu düşünüyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1995
 translate turkish sm1ms029_party_arj_f3811e05:
 
     # arj "I'll be your free use fuckdoll, relieving your stress, and then staring in a scene right after."
-    arj "I'll be your free use fuckdoll, relieving your stress, and then staring in a scene right after."
+    arj "Senin serbestçe kullanabileceğin seks bebeğin olacağım, stresini atacağım ve sonra hemen bir sahnede rol alacağım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1996
 translate turkish sm1ms029_party_arj_64eab9e9:
 
     # mc "Oh fuck. That will be amazing, darling."
-    mc "Oh fuck. That will be amazing, darling."
+    mc "Ah siktir. Bu harika olacak, hayatım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1998
 translate turkish sm1ms029_party_arj_0b785211:
@@ -332,73 +332,73 @@ translate turkish sm1ms029_party_arj_9b3e2cce:
 translate turkish sm1ms029_party_arj_0242b70f:
 
     # arj "You know... this might end up... hu-huaaa..."
-    arj "You know... this might end up... hu-huaaa..."
+    arj "Biliyorsun... bu sonuçta... hu-huaaa..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2003
 translate turkish sm1ms029_party_arj_a41d04a7:
 
     # arj "Being good practice."
-    arj "Being good practice."
+    arj "İyi bir alıştırma olabilir."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2005
 translate turkish sm1ms029_party_arj_e4068727:
 
     # mc "What is?"
-    mc "What is?"
+    mc "Ne?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2006
 translate turkish sm1ms029_party_arj_caa0ecea:
 
     # arj "Fucking... niaha... in front of a lot of people."
-    arj "Fucking... niaha... in front of a lot of people."
+    arj "Sikişmek... niaha... bir sürü insanın önünde."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2007
 translate turkish sm1ms029_party_arj_3a387874:
 
     # arj "I guess... I'll have to-fouhaaa..."
-    arj "I guess... I'll have to-fouhaaa..."
+    arj "Sanırım... -fouhaaa yapmam gerekecek..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2009
 translate turkish sm1ms029_party_arj_eac9dc7a:
 
     # arj "To get used to it if I join the studio."
-    arj "To get used to it if I join the studio."
+    arj "Stüdyoya katılırsam buna alışmam gerekecek."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2010
 translate turkish sm1ms029_party_arj_86ea4724:
 
     # mc "Really? I thought you were still thinking about it."
-    mc "Really? I thought you were still thinking about it."
+    mc "Gerçekten mi? Hala düşünüyorsun sanıyordum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2012
 translate turkish sm1ms029_party_arj_ec423152:
 
     # arj "Ha-houuha... Ooouha. I am... I can't make a decision now..."
-    arj "Ha-houuha... Ooouha. I am... I can't make a decision now..."
+    arj "Ha-houuha... Ooouha. Düşünüyorum... Şimdi karar veremem..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2013
 translate turkish sm1ms029_party_arj_0f411385:
 
     # arj "But... I think... deep down... I know I'd like it."
-    arj "But... I think... deep down... I know I'd like it."
+    arj "Ama... Sanırım... Derinlerde... Bunu seveceğimi biliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2014
 translate turkish sm1ms029_party_arj_42be4321:
 
     # arj "Since that means more time with you, [mcname]."
-    arj "Since that means more time with you, [mcname]."
+    arj "Çünkü bu seninle daha fazla zaman geçirmek anlamına geliyor, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2016
 translate turkish sm1ms029_party_arj_884ac509:
 
     # mc "Oh fuck. I love you so much, AmRose!"
-    mc "Oh fuck. I love you so much, AmRose!"
+    mc "Ah siktir. Seni çok seviyorum, AmRose!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2017
 translate turkish sm1ms029_party_arj_a887bdb3:
 
     # arj "I love you too!"
-    arj "I love you too!"
+    arj "Ben de seni seviyorum!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2019
 translate turkish sm1ms029_party_arj_6be0145b:
@@ -410,37 +410,37 @@ translate turkish sm1ms029_party_arj_6be0145b:
 translate turkish sm1ms029_party_arj_2754e49d:
 
     # arj "Ohuaa... kissing you... while you're right up against my spot..."
-    arj "Ohuaa... kissing you... while you're right up against my spot..."
+    arj "Ohuaa... seni öpmek... tam noktama dokunurken..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2022
 translate turkish sm1ms029_party_arj_101a5723:
 
     # arj "It's so good-huaaah!"
-    arj "It's so good-huaaah!"
+    arj "Çok iyi-huaaah!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2025
 translate turkish sm1ms029_party_arj_900ccfdf:
 
     # arj "Oh my godd-huaaaa-ayieeehaaah!"
-    arj "Oh my godd-huaaaa-ayieeehaaah!"
+    arj "Aman Tanrım-huaaaa-ayieeehaaah!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2029
 translate turkish sm1ms029_party_arj_a995df6f:
 
     # arj "Do it. Blast my pussy with your cum, [arj_mcname!t]."
-    arj "Do it. Blast my pussy with your cum, [arj_mcname!t]."
+    arj "Yap. Amımı dölünle doldur, [arj_mcname!t]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2031
 translate turkish sm1ms029_party_arj_be832965:
 
     # arj "Do it. Blast my pussy with your cum!"
-    arj "Do it. Blast my pussy with your cum!"
+    arj "Yap. Amımı dölünle doldur!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2034
 translate turkish sm1ms029_party_arj_dd4a8689:
 
     # arj "F-huaaah.... yes...."
-    arj "F-huaaah.... yes...."
+    arj "F-huaaah.... evet...."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2036
 translate turkish sm1ms029_party_arj_adf45718:
@@ -458,25 +458,25 @@ translate turkish sm1ms029_party_arj_4568a3c8:
 translate turkish sm1ms029_party_arj_ffbb976a:
 
     # sy "Woohoo. Not bad."
-    sy "Woohoo. Not bad."
+    sy "Woohoo. Fena değil."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2041
 translate turkish sm1ms029_party_arj_3ec27db8:
 
     # sy "You two almost beat my performance."
-    sy "You two almost beat my performance."
+    sy "Siz ikiniz neredeyse benim performansımı geçtiniz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2043
 translate turkish sm1ms029_party_arj_bfefe293:
 
     # sy "Almost."
-    sy "Almost."
+    sy "Neredeyse."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2047
 translate turkish sm1ms029_party_arj_e7c9f9db:
 
     # mc "Hup."
-    mc "Hup."
+    mc "Hop."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2051
 translate turkish sm1ms029_party_arj_9cfa5994:
@@ -494,19 +494,19 @@ translate turkish sm1ms029_party_arj_45f4612b:
 translate turkish sm1ms029_party_arj_e1de2415:
 
     # arj "Punish your bad slave."
-    arj "Punish your bad slave."
+    arj "Kötü köleni cezalandır."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2056
 translate turkish sm1ms029_party_arj_06b05f37:
 
     # arj "For being weak."
-    arj "For being weak."
+    arj "Zayıf olduğu için."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2058
 translate turkish sm1ms029_party_arj_92d1ab53:
 
     # mc "There will be plenty of time for that later, my sweet."
-    mc "There will be plenty of time for that later, my sweet."
+    mc "Bunun için daha sonra bolca zaman olacak, tatlım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2059
 translate turkish sm1ms029_party_arj_291d543b:
@@ -518,13 +518,13 @@ translate turkish sm1ms029_party_arj_291d543b:
 translate turkish sm1ms029_party_arj_a02249a5:
 
     # arj "Nothing ever compares to being with you, [mcname]."
-    arj "Nothing ever compares to being with you, [mcname]."
+    arj "Hiçbir şey seninle olmaya kıyaslanamaz, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2062
 translate turkish sm1ms029_party_arj_dbf2ef64:
 
     # arj "I hope we never fight again..."
-    arj "I hope we never fight again..."
+    arj "Umarım bir daha asla kavga etmeyiz..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2063
 translate turkish sm1ms029_party_arj_55b17283:
@@ -536,37 +536,37 @@ translate turkish sm1ms029_party_arj_55b17283:
 translate turkish sm1ms029_party_arj_fa15121a:
 
     # mc "Me too, AmRose."
-    mc "Me too, AmRose."
+    mc "Ben de, AmRose."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2066
 translate turkish sm1ms029_party_arj_69552226:
 
     # mc "You just relax now."
-    mc "You just relax now."
+    mc "Şimdi sadece rahatla."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2068
 translate turkish sm1ms029_party_arj_49ef5417:
 
     # sy "A little refresher."
-    sy "A little refresher."
+    sy "Küçük bir ferahlama."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2070
 translate turkish sm1ms029_party_arj_a82cce1d:
 
     # mc "You're a lifesaver."
-    mc "You're a lifesaver."
+    mc "Hayat kurtarıcısın."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2074
 translate turkish sm1ms029_party_arj_dc317f81:
 
     # mc "I should probably get dressed again."
-    mc "I should probably get dressed again."
+    mc "Muhtemelen tekrar giyinmeliyim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2076
 translate turkish sm1ms029_party_arj_73b2edbd:
 
     # sy "Yeah. Next party can just be a full nudity party."
-    sy "Yeah. Next party can just be a full nudity party."
+    sy "Evet. Bir sonraki parti tamamen çıplaklık partisi olabilir."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2077
 translate turkish sm1ms029_party_arj_1f5b224d:
@@ -578,7 +578,7 @@ translate turkish sm1ms029_party_arj_1f5b224d:
 translate turkish sm1ms029_confrontation_478920fb:
 
     # "?" "The man of the hour."
-    "?" "The man of the hour."
+    "?" "Anın adamı."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2088
 translate turkish sm1ms029_confrontation_2b35b6fe:
@@ -590,13 +590,13 @@ translate turkish sm1ms029_confrontation_2b35b6fe:
 translate turkish sm1ms029_confrontation_c01c5a09:
 
     # mc "I do have that pleasure."
-    mc "I do have that pleasure."
+    mc "Bu zevk bende."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2093
 translate turkish sm1ms029_confrontation_8ed4cb67:
 
     # mc "But I share it with my sister."
-    mc "But I share it with my sister."
+    mc "Ama bunu kız kardeşimle paylaşıyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2094
 translate turkish sm1ms029_confrontation_663aec39:
@@ -608,7 +608,7 @@ translate turkish sm1ms029_confrontation_663aec39:
 translate turkish sm1ms029_confrontation_2ab24a76:
 
     # mc "But I share it with my girlfriend."
-    mc "But I share it with my girlfriend."
+    mc "Ama bunu kız arkadaşımla paylaşıyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2097
 translate turkish sm1ms029_confrontation_b4259619:
@@ -620,13 +620,13 @@ translate turkish sm1ms029_confrontation_b4259619:
 translate turkish sm1ms029_confrontation_32f05074:
 
     # sy "I uh... I don't think I recognize you two."
-    sy "I uh... I don't think I recognize you two."
+    sy "Ben uh... Sanırım siz ikinizi tanımıyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2102
 translate turkish sm1ms029_confrontation_1dcbf6e6:
 
     # "?" "Really? I would have hoped my face came up in your research."
-    "?" "Really? I would have hoped my face came up in your research."
+    "?" "Gerçekten mi? Araştırmanızda yüzümü görmeyi umuyordum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2103
 translate turkish sm1ms029_confrontation_62cac449:
