@@ -278,17 +278,17 @@ translate turkish q_inter_cw_11_03020337:
 translate turkish q_inter_cw_6_144c0d07:
 
     # cw "Good. I'm meeting a potential client at a new gastro-pub I've heard a lot about and don't want to be late."
-    cw "Good. I'm meeting a potential client at a new gastro-pub I've heard a lot about and don't want to be late."
+    cw "Güzel. Yeni bir gastro-pub'da potansiyel bir müşteriyle buluşacağım, çok şey duydum hakkında ve geç kalmak istemiyorum."
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:137
 translate turkish q_inter_cw_10_1f0406dc:
 
     # cw "No. We do not. Keep it vague, Mr. Young."
-    cw "No. We do not. Keep it vague, Mr. Young."
+    cw "Hayır. Yapmayız. Belirsiz tut, Bay Young."
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:162
 translate turkish q_inter_cw_11_9929b95c:
 
     # mc "Message received."
-    mc "Message received."
+    mc "Mesaj alındı."
 
