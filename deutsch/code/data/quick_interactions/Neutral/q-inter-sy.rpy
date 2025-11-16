@@ -392,25 +392,25 @@ translate deutsch q_inter_sy_32_3359e9ff:
 translate deutsch q_inter_sy_33_d8c59b20:
 
     # sy "Our second film got ordered. It's really happening for us."
-    sy "Our second film got ordered. It's really happening for us."
+    sy "Unser zweiter Film wurde bestellt. Es geht wirklich los für uns."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:312
 translate deutsch q_inter_sy_33_71e206da:
 
     # mc "Yeah. I'm excited to play with you as a naughty farmer's daughter."
-    mc "Yeah. I'm excited to play with you as a naughty farmer's daughter."
+    mc "Ja. Ich freue mich darauf, mit dir als freche Bauerntochter zu spielen."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:315
 translate deutsch q_inter_sy_33_aab31592:
 
     # sy "We should have subverted the expectation, and made the story about the farmer's son losing his anal virginity."
-    sy "We should have subverted the expectation, and made the story about the farmer's son losing his anal virginity."
+    sy "Wir hätten die Erwartungen unterlaufen und die Geschichte über den Bauernsohn erzählen sollen, der seine anale Jungfräulichkeit verliert."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:316
 translate deutsch q_inter_sy_33_94821369:
 
     # mc "Yeah so it would still be me fucking you in the ass though."
-    mc "Yeah so it would still be me fucking you in the ass though."
+    mc "Ja, aber ich würde dich trotzdem in den Arsch ficken."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:319
 translate deutsch q_inter_sy_33_5c2c7bcf:
@@ -422,7 +422,7 @@ translate deutsch q_inter_sy_33_5c2c7bcf:
 translate deutsch q_inter_sy_33_3c30f8a5:
 
     # mc "Right? I'd still be in control?"
-    mc "Right? I'd still be in control?"
+    mc "Richtig? Ich hätte immer noch die Kontrolle?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:321
 translate deutsch q_inter_sy_33_5c2c7bcf_1:
@@ -434,281 +434,281 @@ translate deutsch q_inter_sy_33_5c2c7bcf_1:
 translate deutsch q_inter_sy_33_4e13fbc5:
 
     # mc "I'm scaroused."
-    mc "I'm scaroused."
+    mc "Ich habe Angst."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:327
 translate deutsch q_inter_sy_34_c72d9db5:
 
     # sy "Make sure that you don't forget about our second film, [mcname]."
-    sy "Make sure that you don't forget about our second film, [mcname]."
+    sy "Vergiss bloß nicht unseren zweiten Film, [mcname]."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:328
 translate deutsch q_inter_sy_34_742c8716:
 
     # mc "I'm not."
-    mc "I'm not."
+    mc "Mach ich nicht."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:331
 translate deutsch q_inter_sy_34_505e7c3d:
 
     # sy "We'll have to find some time to film it."
-    sy "We'll have to find some time to film it."
+    sy "Wir müssen Zeit finden, um ihn zu drehen."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:332
 translate deutsch q_inter_sy_34_e6078d57:
 
     # sy "Oh and we need to ask Kanya over."
-    sy "Oh and we need to ask Kanya over."
+    sy "Oh, und wir müssen Kanya einladen."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:333
 translate deutsch q_inter_sy_34_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "Verstanden."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:338
 translate deutsch q_inter_sy_35_8ae6b8dc:
 
     # sy "Can you believe it, [mcname]?"
-    sy "Can you believe it, [mcname]?"
+    sy "Kannst du das glauben, [mcname]?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:339
 translate deutsch q_inter_sy_35_0dc643e7:
 
     # mc "Believe what?"
-    mc "Believe what?"
+    mc "Was glauben?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:342
 translate deutsch q_inter_sy_35_a51acffd:
 
     # sy "We run a porn studio now!"
-    sy "We run a porn studio now!"
+    sy "Wir betreiben jetzt ein Pornostudio!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:343
 translate deutsch q_inter_sy_35_1a51579b:
 
     # mc "Yeah, we do!"
-    mc "Yeah, we do!"
+    mc "Ja, das tun wir!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:346
 translate deutsch q_inter_sy_35_95d62022:
 
     # sy "I just can't believe it!"
-    sy "I just can't believe it!"
+    sy "Ich kann es einfach nicht glauben!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:351
 translate deutsch q_inter_sy_36_d3179d59:
 
     # sy "How do you like living with Nari?"
-    sy "How do you like living with Nari?"
+    sy "Wie gefällt es dir, mit Nari zusammenzuleben?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:352
 translate deutsch q_inter_sy_36_f2b84ff5:
 
     # mc "She's quiet, but bubbly. Weird mix."
-    mc "She's quiet, but bubbly. Weird mix."
+    mc "Sie ist ruhig, aber temperamentvoll. Eine seltsame Mischung."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:353
 translate deutsch q_inter_sy_36_f70fbbc5:
 
     # mc "But, she is a delight to have around!"
-    mc "But, she is a delight to have around!"
+    mc "Aber es ist eine Freude, sie um sich zu haben!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:356
 translate deutsch q_inter_sy_36_46726dcd:
 
     # sy "She is! She's absolutely adorable."
-    sy "She is! She's absolutely adorable."
+    sy "Das ist sie! Sie ist absolut bezaubernd."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:357
 translate deutsch q_inter_sy_36_92c597a1:
 
     # sy "I'm super happy she moved in with us."
-    sy "I'm super happy she moved in with us."
+    sy "Ich bin super glücklich, dass sie bei uns eingezogen ist."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:358
 translate deutsch q_inter_sy_36_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "Ich auch."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:363
 translate deutsch q_inter_sy_37_7a1c5ceb:
 
     # sy "What do you think of Taisia living here?"
-    sy "What do you think of Taisia living here?"
+    sy "Was denkst du darüber, dass Taisia ​​hier wohnt?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:364
 translate deutsch q_inter_sy_37_4ae4015c:
 
     # mc "I think it's great."
-    mc "I think it's great."
+    mc "Ich finde es großartig."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:367
 translate deutsch q_inter_sy_37_f77935f1:
 
     # sy "Good. That was the right answer."
-    sy "Good. That was the right answer."
+    sy "Gut. Das war die richtige Antwort."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:368
 translate deutsch q_inter_sy_37_4d1c76b0:
 
     # mc "I'm guessing you like that she's here too?"
-    mc "I'm guessing you like that she's here too?"
+    mc "Ich vermute, dir gefällt es auch, dass sie hier ist?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:371
 translate deutsch q_inter_sy_37_17ee276e:
 
     # sy "Uh huh! She's bad ass, super hot, and you know what the best part is?"
-    sy "Uh huh! She's bad ass, super hot, and you know what the best part is?"
+    sy "Oh ja! Sie ist knallhart, superheiß, und weißt du, was das Beste daran ist?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:372
 translate deutsch q_inter_sy_37_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Was?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:375
 translate deutsch q_inter_sy_37_3a12d63d:
 
     # sy "Clown pussy!"
-    sy "Clown pussy!"
+    sy "Clown Muschi!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:376
 translate deutsch q_inter_sy_37_6b2595e6:
 
     # mc "Jesus Christ..."
-    mc "Jesus Christ..."
+    mc "Jesus Christus..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:381
 translate deutsch q_inter_sy_38_0d410548:
 
     # sy "You know, the studio is perfect for making small films."
-    sy "You know, the studio is perfect for making small films."
+    sy "Weißt du, das Studio ist perfekt für die Produktion kleiner Filme."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:382
 translate deutsch q_inter_sy_38_fcf340b6:
 
     # mc "I agree."
-    mc "I agree."
+    mc "Da stimme ich zu."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:385
 translate deutsch q_inter_sy_38_14d0a4d4:
 
     # sy "But if we want to make bigger stuff, we might need to get something a bt more... open."
-    sy "But if we want to make bigger stuff, we might need to get something a bt more... open."
+    sy "Wenn wir aber größere Projekte realisieren wollen, brauchen wir vielleicht etwas... Offeneres."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:386
 translate deutsch q_inter_sy_38_e4297727:
 
     # mc "Already planning the next blockbuster?"
-    mc "Already planning the next blockbuster?"
+    mc "Planst du schon den nächsten Blockbuster?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:387
 translate deutsch q_inter_sy_38_906dafd5:
 
     # sy "Always!"
-    sy "Always!"
+    sy "Immer!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:392
 translate deutsch q_inter_sy_39_27beff61:
 
     # sy "[mcname], you do know there are more empty rooms here, right?"
-    sy "[mcname], you do know there are more empty rooms here, right?"
+    sy "[mcname], du weißt doch, dass es hier noch mehr freie Zimmer gibt, oder?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:393
 translate deutsch q_inter_sy_39_7c4ee0ed:
 
     # mc "Right... and?"
-    mc "Right... and?"
+    mc "Richtig... und?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:396
 translate deutsch q_inter_sy_39_9c463f60:
 
     # sy "Aaaaand, we should get more roommates!"
-    sy "Aaaaand, we should get more roommates!"
+    sy "Uuuuund wir sollten uns mehr Mitbewohnerinnen suchen!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:397
 translate deutsch q_inter_sy_39_6d978903:
 
     # mc "Do you mean pornstars who live with us?"
-    mc "Do you mean pornstars who live with us?"
+    mc "Meinst du Pornostars, die bei uns leben?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:400
 translate deutsch q_inter_sy_39_98c8613b:
 
     # sy "Even better!"
-    sy "Even better!"
+    sy "Noch besser!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:405
 translate deutsch q_inter_sy_40_3daf575b:
 
     # sy "That Foxmore guy was fucking weird."
-    sy "That Foxmore guy was fucking weird."
+    sy "Dieser Foxmore-Typ war echt seltsam."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:406
 translate deutsch q_inter_sy_40_621d2c91:
 
     # mc "Yeah he was."
-    mc "Yeah he was."
+    mc "Ja, das war er."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:409
 translate deutsch q_inter_sy_40_b5d36d31:
 
     # sy "But Carmilla...{w} damn."
-    sy "But Carmilla...{w} damn."
+    sy "Aber Carmilla...{w} Verdammt."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:410
 translate deutsch q_inter_sy_40_c5013d5b:
 
     # mc "Yeah she is."
-    mc "Yeah she is."
+    mc "Ja, das ist sie."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:411
 translate deutsch q_inter_sy_40_c08b1d6a:
 
     # sy "Just... so hot."
-    sy "Just... so hot."
+    sy "Einfach... so heiß."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:416
 translate deutsch q_inter_sy_41_3b9e329f:
 
     # sy "So what's next for SM Studios, you think?"
-    sy "So what's next for SM Studios, you think?"
+    sy "Was kommt deiner Meinung nach als Nächstes für SM Studios?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:417
 translate deutsch q_inter_sy_41_61d163f3:
 
     # mc "Well, more movies."
-    mc "Well, more movies."
+    mc "Nun, mehr Filme."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:420
 translate deutsch q_inter_sy_41_82141912:
 
     # sy "Aaaaaaand?"
-    sy "Aaaaaaand?"
+    sy "Uuuuuuund?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:421
 translate deutsch q_inter_sy_41_4e19dd85:
 
     # mc "Uhm... bigger movies?"
-    mc "Uhm... bigger movies?"
+    mc "Ähm... größere Filme?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:422
 translate deutsch q_inter_sy_41_cea10e35:
 
     # sy "Aaaaaaaaaaaaaaaaaaand?"
-    sy "Aaaaaaaaaaaaaaaaaaand?"
+    sy "Uuuuuuuuuuuuuuuuuuund?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:423
 translate deutsch q_inter_sy_41_5468f630:
 
     # mc "I don't know... more sex?"
-    mc "I don't know... more sex?"
+    mc "Ich weiß nicht... mehr Sex?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:426
 translate deutsch q_inter_sy_41_47787dfc:
 
     # sy "Hell yeah!"
-    sy "Hell yeah!"
+    sy "Verdammt richtig!"
 
