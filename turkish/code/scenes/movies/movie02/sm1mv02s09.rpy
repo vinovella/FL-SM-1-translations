@@ -200,247 +200,247 @@ translate turkish sm1mv02s09_07bac69a:
 translate turkish sm1mv02s09_5c01deba:
 
     # sy "What HR?"
-    sy "What HR?"
+    sy "Hangi İK?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:221
 translate turkish sm1mv02s09_db4903a1:
 
     # sy "All right, everyone's set - yeah?"
-    sy "All right, everyone's set - yeah?"
+    sy "Pekala, herkes hazır - değil mi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:227
 translate turkish sm1mv02s09_375eea02:
 
     # ns "Yep!"
-    ns "Yep!"
+    ns "Evet!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:230
 translate turkish sm1mv02s09_5d8383f2:
 
     # mhmes "Ready."
-    mhmes "Ready."
+    mhmes "Hazırım."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:234
 translate turkish sm1mv02s09_f267d924:
 
     # sy "Wonderful, places, places...{w} and...{w} action!"
-    sy "Wonderful, places, places...{w} and...{w} action!"
+    sy "Harika, yerlerinize, yerlerinize...{w} ve...{w} başla!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:259
 translate turkish sm1mv02s09_movie_80fe8f1e:
 
     # mhmes "Captain! We've got it!"
-    mhmes "Captain! We've got it!"
+    mhmes "Kaptan! Başardık!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:262
 translate turkish sm1mv02s09_movie_09f2de35:
 
     # mc "Is that so?"
-    mc "Is that so?"
+    mc "Öyle mi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:264
 translate turkish sm1mv02s09_movie_ab002a41:
 
     # ns "Yes, Mr. Captain, sir!"
-    ns "Yes, Mr. Captain, sir!"
+    ns "Evet, Bay Kaptan, efendim!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:267
 translate turkish sm1mv02s09_movie_8bc7b9b3:
 
     # mc "How long!?"
-    mc "How long!?"
+    mc "Ne kadar sürer!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:270
 translate turkish sm1mv02s09_movie_3835bf7f:
 
     # mhmes "Just a few more minutes."
-    mhmes "Just a few more minutes."
+    mhmes "Sadece birkaç dakika daha."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:275
 translate turkish sm1mv02s09_movie_16555a60:
 
     # mc "Yeah, when you say it all non-chalant, it sounds easy!"
-    mc "Yeah, when you say it all non-chalant, it sounds easy!"
+    mc "Evet, bu kadar rahat söyleyince kolay geliyor!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:278
 translate turkish sm1mv02s09_movie_3b4459cd:
 
     # mhmes "I think I might have the harder job right now."
-    mhmes "I think I might have the harder job right now."
+    mhmes "Sanırım şu an daha zor bir işim var."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:281
 translate turkish sm1mv02s09_movie_e9ef5d53:
 
     # mc "Oh yeah? You think!?"
-    mc "Oh yeah? You think!?"
+    mc "Öyle mi? Öyle mi düşünüyorsun!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:286
 translate turkish sm1mv02s09_movie_a658b61f:
 
     # mc "Please enlighten me as to how your job is harder?"
-    mc "Please enlighten me as to how your job is harder?"
+    mc "Lütfen bana senin işinin nasıl daha zor olduğunu açıkla?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:293
 translate turkish sm1mv02s09_movie_360b7ede:
 
     # mhmes "I'm currently isolating a singular mutagen present in our systems that nullifies the lust virus."
-    mhmes "I'm currently isolating a singular mutagen present in our systems that nullifies the lust virus."
+    mhmes "Şu anda sistemlerimizde bulunan şehvet virüsünü etkisiz hale getiren tek bir mutajeni izole ediyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:297
 translate turkish sm1mv02s09_movie_d5d6608f:
 
     # ns "That we are synthesizing from your urine, captain! It seems to be ultra-potent!"
-    ns "That we are synthesizing from your urine, captain! It seems to be ultra-potent!"
+    ns "Senin idrarından sentezlediğimiz, kaptan! Çok güçlü görünüyor!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:304
 translate turkish sm1mv02s09_movie_4ba5eb3c:
 
     # mhmes "And I'm simultaneously creating a hyper-potent version we're immune to, to help us fend off these raiders."
-    mhmes "And I'm simultaneously creating a hyper-potent version we're immune to, to help us fend off these raiders."
+    mhmes "Ve aynı zamanda bu akıncıları savuşturmamıza yardımcı olmak için bağışık olduğumuz hiper güçlü bir versiyon yaratıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:305
 translate turkish sm1mv02s09_movie_3031e307:
 
     # mhmes "All while I'm under duress."
-    mhmes "All while I'm under duress."
+    mhmes "Tüm bunları baskı altındayken yapıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:308
 translate turkish sm1mv02s09_movie_54946aa8:
 
     # mc "I don't know if that makes your job-"
-    mc "I don't know if that makes your job-"
+    mc "Bu senin işini daha- olarak yapıp yapmadığını bilmiyorum"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:317
 translate turkish sm1mv02s09_movie_9ad7eed3:
 
     # mc "-Harder than mine!"
-    mc "-Harder than mine!"
+    mc "-Benimkinden daha zor!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:329
 translate turkish sm1mv02s09_movie_a988f246:
 
     # ns "I think you both have an equally hard job!"
-    ns "I think you both have an equally hard job!"
+    ns "Bence ikinizin de eşit derecede zor bir işi var!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:332
 translate turkish sm1mv02s09_movie_3901b1ba:
 
     # mc "And what are you doing?"
-    mc "And what are you doing?"
+    mc "Peki sen ne yapıyorsun?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:339
 translate turkish sm1mv02s09_movie_c1ee5173:
 
     # ns "Being a wonderful, cheery spirit!"
-    ns "Being a wonderful, cheery spirit!"
+    ns "Harika, neşeli bir ruh olmak!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:343
 translate turkish sm1mv02s09_movie_5a62c47c:
 
     # ns "Whoo! You got this!"
-    ns "Whoo! You got this!"
+    ns "Huu! Başarabilirsin!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:354
 translate turkish sm1mv02s09_movie_69bea1a5:
 
     # mc "That's-"
-    mc "That's-"
+    mc "Bu-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:375
 translate turkish sm1mv02s09_movie_b964c89a:
 
     # ns "Uh oh!"
-    ns "Uh oh!"
+    ns "Hay aksi!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:384
 translate turkish sm1mv02s09_movie_990722a0:
 
     # "Kasaru Warrior" "Hiiiyyyyaaaa!"
-    "Kasaru Warrior" "Hiiiyyyyaaaa!"
+    "Kasaru Savaşçısı" "Hiiiyyyyaaaa!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:393
 translate turkish sm1mv02s09_movie_a5d6c8a3:
 
     # mc "All right, then I guess it's a fist fight!"
-    mc "All right, then I guess it's a fist fight!"
+    mc "Pekala, o zaman sanırım yumruk dövüşü yapacağız!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:396
 translate turkish sm1mv02s09_movie_9da8b7f0:
 
     # "Kasaru Warrior" "Bring it on."
-    "Kasaru Warrior" "Bring it on."
+    "Kasaru Savaşçısı" "Hadi getir bakalım."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:403
 translate turkish sm1mv02s09_movie_137e9508:
 
     # mc "Yeaaaaaaaaa!"
-    mc "Yeaaaaaaaaa!"
+    mc "Evettttttt!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:417
 translate turkish sm1mv02s09_movie_fa6b8ba3:
 
     # mc "Uhhh, Vel... how much more time do you need?"
-    mc "Uhhh, Vel... how much more time do you need?"
+    mc "Uhhh, Vel... ne kadar zamana daha ihtiyacın var?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:425
 translate turkish sm1mv02s09_movie_4f273b99:
 
     # mhmes "Two more minutes."
-    mhmes "Two more minutes."
+    mhmes "İki dakika daha."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:428
 translate turkish sm1mv02s09_movie_dab14170:
 
     # mc "Can you do it in one?"
-    mc "Can you do it in one?"
+    mc "Bir dakikada yapabilir misin?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:439
 translate turkish sm1mv02s09_movie_a811658a:
 
     # mc "Please, tell me you can do it in one!"
-    mc "Please, tell me you can do it in one!"
+    mc "Lütfen, bana bir dakikada yapabileceğini söyle!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:447
 translate turkish sm1mv02s09_movie_6b7e95f6:
 
     # mhmes "I'm trying, but you pestering me won't help."
-    mhmes "I'm trying, but you pestering me won't help."
+    mhmes "Deniyorum, ama beni rahatsız etmen yardımcı olmaz."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:451
 translate turkish sm1mv02s09_movie_652c26f5:
 
     # mc "You think I'm pestering?"
-    mc "You think I'm pestering?"
+    mc "Seni rahatsız ettiğimi mi düşünüyorsun?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:457
 translate turkish sm1mv02s09_movie_b68a9182:
 
     # mc "Oooooph!"
-    mc "Oooooph!"
+    mc "Offfff!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:465
 translate turkish sm1mv02s09_movie_1f4a0da7:
 
     # "Kasaru Warrior" "I've got you now, you puny human!"
-    "Kasaru Warrior" "I've got you now, you puny human!"
+    "Kasaru Savaşçısı" "Artık yakaladım seni, seni cılız insan!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:468
 translate turkish sm1mv02s09_movie_987f7a37:
 
     # mc "Erggg - grrrrrmm - little help!?"
-    mc "Erggg - grrrrrmm - little help!?"
+    mc "Erggg - grrrrrmm - biraz yardım!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:471
 translate turkish sm1mv02s09_movie_46a432d0:
 
     # ns "We're almost there, Captain, sir!"
-    ns "We're almost there, Captain, sir!"
+    ns "Neredeyse bitti, Kaptan, efendim!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:479
 translate turkish sm1mv02s09_movie_9bf83b12:
 
     # "Kasaru Warrior" "Yeearrrrggg!!!"
-    "Kasaru Warrior" "Yeearrrrggg!!!"
+    "Kasaru Savaşçısı" "Yeearrrrggg!!!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:483
 translate turkish sm1mv02s09_movie_bf12d390:
@@ -458,13 +458,13 @@ translate turkish sm1mv02s09_movie_cb97af6b:
 translate turkish sm1mv02s09_movie_3f6c9ec3:
 
     # "Kasaru Warrior" "That's only going to work once! Now what!?"
-    "Kasaru Warrior" "That's only going to work once! Now what!?"
+    "Kasaru Savaşçısı" "Bu sadece bir kez işe yarar! Şimdi ne yapacaksın!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:498
 translate turkish sm1mv02s09_movie_6fe993c4:
 
     # mc "T-this!"
-    mc "T-this!"
+    mc "B-bunu!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:501
 translate turkish sm1mv02s09_movie_d9c0aa28:
@@ -476,175 +476,175 @@ translate turkish sm1mv02s09_movie_d9c0aa28:
 translate turkish sm1mv02s09_movie_447443c4:
 
     # "Kasaru Warrior" "What-!?"
-    "Kasaru Warrior" "What-!?"
+    "Kasaru Savaşçısı" "Ne-!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:510
 translate turkish sm1mv02s09_movie_8a71592f:
 
     # "Kasaru Warrior" "Ha, what, what do you... oh..."
-    "Kasaru Warrior" "Ha, what, what do you... oh..."
+    "Kasaru Savaşçısı" "Ha, ne, ne yapıyorsun... oh..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:513
 translate turkish sm1mv02s09_movie_5cfdbad7:
 
     # "Kasaru Warrior" "Oh, oh, OH!"
-    "Kasaru Warrior" "Oh, oh, OH!"
+    "Kasaru Savaşçısı" "Oh, oh, OH!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:516
 translate turkish sm1mv02s09_movie_e86cc71c:
 
     # "Kasaru Warrior" "Did I just orgasm!?! OH!"
-    "Kasaru Warrior" "Did I just orgasm!?! OH!"
+    "Kasaru Savaşçısı" "Az önce orgazm oldum mu!?! OH!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:518
 translate turkish sm1mv02s09_movie_027674b4:
 
     # "Kasaru Warrior" "I'm doing it again!?!"
-    "Kasaru Warrior" "I'm doing it again!?!"
+    "Kasaru Savaşçısı" "Yine oluyorum!?!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:526
 translate turkish sm1mv02s09_movie_a877a75e:
 
     # mc "Just in the nick of time, huh."
-    mc "Just in the nick of time, huh."
+    mc "Tam zamanında, ha."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:533
 translate turkish sm1mv02s09_movie_03ccc7e7:
 
     # mhmes "You know me."
-    mhmes "You know me."
+    mhmes "Beni tanırsın."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:536
 translate turkish sm1mv02s09_movie_4f83996d:
 
     # mc "All right, now how do we get the rest of them?"
-    mc "All right, now how do we get the rest of them?"
+    mc "Pekala, şimdi geri kalanlarını nasıl hallederiz?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:544
 translate turkish sm1mv02s09_movie_1944ae45:
 
     # mhmes "That's easy."
-    mhmes "That's easy."
+    mhmes "Bu kolay."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:545
 translate turkish sm1mv02s09_movie_8193fef0:
 
     # mhmes "I turned the cure into an aerosol. Should make it easy enough for disbursement."
-    mhmes "I turned the cure into an aerosol. Should make it easy enough for disbursement."
+    mhmes "İlacı bir aerosol haline getirdim. Dağıtım için yeterince kolay olmalı."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:547
 translate turkish sm1mv02s09_movie_f3fe110e:
 
     # mc "Then let's get to it! I don't know if I can do another fist fight with a Kasaru."
-    mc "Then let's get to it! I don't know if I can do another fist fight with a Kasaru."
+    mc "O zaman hadi başlayalım! Bir Kasaru ile başka bir yumruk dövüşü yapabileceğimi sanmıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:550
 translate turkish sm1mv02s09_movie_7ee98f85:
 
     # mhmes "It would be my pleasure."
-    mhmes "It would be my pleasure."
+    mhmes "Büyük bir zevkle."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:557
 translate turkish sm1mv02s09_movie_1d62f4a8:
 
     # mhmes "Dispersing in 3...{w} 2...{w} 1..."
-    mhmes "Dispersing in 3...{w} 2...{w} 1..."
+    mhmes "Dağıtılıyor 3...{w} 2...{w} 1..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:561
 translate turkish sm1mv02s09_movie_e59b2499:
 
     # "Kasaru Warrior" "Hahaha, I can't wait to kill some humans!"
-    "Kasaru Warrior" "Hahaha, I can't wait to kill some humans!"
+    "Kasaru Savaşçısı" "Hahaha, birkaç insanı öldürmek için sabırsızlanıyorum!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:562
 translate turkish sm1mv02s09_movie_ee5b3b67:
 
     # "Kasaru Warrior" "Or even that sexy alien from the- wait, what the-"
-    "Kasaru Warrior" "Or even that sexy alien from the- wait, what the-"
+    "Kasaru Savaşçısı" "Ya da şu seksi uzaylı bile- bekle, ne-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:566
 translate turkish sm1mv02s09_movie_cf520166:
 
     # "Kasaru Warrior" "OH GOD, I JUST CAME SO HARD!"
-    "Kasaru Warrior" "OH GOD, I JUST CAME SO HARD!"
+    "Kasaru Savaşçısı" "TANRIM, ÇOK ŞIDDETLI BOŞALDIM!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:582
 translate turkish sm1mv02s09_movie_3874baf3:
 
     # mc "Sounds like it worked."
-    mc "Sounds like it worked."
+    mc "Galiba işe yaradı."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:585
 translate turkish sm1mv02s09_movie_a7cd4e19:
 
     # mc "Now let's retake the bridge. Shall we?"
-    mc "Now let's retake the bridge. Shall we?"
+    mc "Şimdi köprüyü geri alalım. Olur mu?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:588
 translate turkish sm1mv02s09_movie_404c8b84:
 
     # ns "Aye, aye, Captain!"
-    ns "Aye, aye, Captain!"
+    ns "Emredersiniz, Kaptan!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:613
 translate turkish sm1mv02s09_movie_c6e829f5:
 
     # kv "You... you've beat me..."
-    kv "You... you've beat me..."
+    kv "Sen... beni yendin..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:616
 translate turkish sm1mv02s09_movie_f4444901:
 
     # mc "It looks like it!"
-    mc "It looks like it!"
+    mc "Öyle görünüyor!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:619
 translate turkish sm1mv02s09_movie_d53af776:
 
     # kv "By the customs of my people..."
-    kv "By the customs of my people..."
+    kv "Halkımın geleneklerine göre..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:623
 translate turkish sm1mv02s09_movie_8b5a49a4:
 
     # kv "You have the right to take me. Sexually. Here and now."
-    kv "You have the right to take me. Sexually. Here and now."
+    kv "Beni alma hakkına sahipsin. Cinsel olarak. Şimdi ve burada."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:624
 translate turkish sm1mv02s09_movie_ec1a2c3e:
 
     # kv "You, and those two with you. You can take me."
-    kv "You, and those two with you. You can take me."
+    kv "Sen ve yanındaki o ikisi. Beni alabilirsiniz."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:627
 translate turkish sm1mv02s09_movie_3f0a2727:
 
     # kv "Ravage me! Let me earn the right to be a better warrior!"
-    kv "Ravage me! Let me earn the right to be a better warrior!"
+    kv "Harap et beni! Daha iyi bir savaşçı olma hakkını kazanmama izin ver!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:633
 translate turkish sm1mv02s09_movie_ff734e33:
 
     # mc "Uhm... what should we do?"
-    mc "Uhm... what should we do?"
+    mc "Uhm... ne yapmalıyız?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:634
 translate turkish sm1mv02s09_movie_94d239bd:
 
     # mc "There is the non-interference protocol to follow."
-    mc "There is the non-interference protocol to follow."
+    mc "Takip edilmesi gereken müdahale etmeme protokolü var."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:641
 translate turkish sm1mv02s09_movie_14b277df:
 
     # mhmes "But it would be quite rude to refuse her cultural custom."
-    mhmes "But it would be quite rude to refuse her cultural custom."
+    mhmes "Ama onun kültürel geleneğini reddetmek oldukça kaba olur."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:644
 translate turkish sm1mv02s09_movie_7406b001:
 
     # mc "That it would..."
-    mc "That it would..."
+    mc "Öyle olurdu..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:647
 translate turkish sm1mv02s09_movie_6e1c3a07:
@@ -656,43 +656,43 @@ translate turkish sm1mv02s09_movie_6e1c3a07:
 translate turkish sm1mv02s09_movie_2004f9c3:
 
     # ns "I did not realize that we might discuss not engaging in the sacred rite... so I prepared myself."
-    ns "I did not realize that we might discuss not engaging in the sacred rite... so I prepared myself."
+    ns "Kutsal törene katılmamayı tartışabileceğimizi fark etmemiştim... bu yüzden kendimi hazırladım."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:651
 translate turkish sm1mv02s09_movie_0e2002b3:
 
     # mc "Well, I think there's your answer."
-    mc "Well, I think there's your answer."
+    mc "Eh, sanırım cevabın bu."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:659
 translate turkish sm1mv02s09_movie_4be5272d:
 
     # mhmes "In the name of science!"
-    mhmes "In the name of science!"
+    mhmes "Bilim adına!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:674
 translate turkish sm1mv02s09_movie_39056828:
 
     # mc "Time to give her all we got!"
-    mc "Time to give her all we got!"
+    mc "Sahip olduğumuz her şeyi verme zamanı!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:684
 translate turkish sm1mv02s09_movie_4f92aaf0:
 
     # kv "And now... take me!"
-    kv "And now... take me!"
+    kv "Ve şimdi... al beni!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:696
 translate turkish sm1mv02s09_movie_c2ea84bb:
 
     # mc "Oh shit!"
-    mc "Oh shit!"
+    mc "Kahretsin!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:697
 translate turkish sm1mv02s09_movie_3de09177:
 
     # ns "Mmmrrrg! That feels wonderful!"
-    ns "Mmmrrrg! That feels wonderful!"
+    ns "Mmmrrrg! Bu harika hissettiriyor!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:701
 translate turkish sm1mv02s09_movie_617bb0e6:
@@ -704,19 +704,19 @@ translate turkish sm1mv02s09_movie_617bb0e6:
 translate turkish sm1mv02s09_movie_03138244:
 
     # mhmes "Mmmmmmmm, I agree."
-    mhmes "Mmmmmmmm, I agree."
+    mhmes "Mmmmmmmm, katılıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:708
 translate turkish sm1mv02s09_movie_9f13c500:
 
     # ns "Oooooo, I don't think I've ever done something quite like this!"
-    ns "Oooooo, I don't think I've ever done something quite like this!"
+    ns "Oooooo, daha önce hiç böyle bir şey yaptığımı sanmıyorum!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:709
 translate turkish sm1mv02s09_movie_db73d19f:
 
     # ns "And it feeeeels soooooo gooooood!"
-    ns "And it feeeeels soooooo gooooood!"
+    ns "Ve çok çok iyi hissettiriyooooor!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:710
 translate turkish sm1mv02s09_movie_d6f7192e:
@@ -728,13 +728,13 @@ translate turkish sm1mv02s09_movie_d6f7192e:
 translate turkish sm1mv02s09_movie_5b875543:
 
     # mc "Oh yeah, and her mouth feels fucking amazing!"
-    mc "Oh yeah, and her mouth feels fucking amazing!"
+    mc "Oh evet, ve ağzı inanılmaz hissettiriyor!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:717
 translate turkish sm1mv02s09_movie_30de99a1:
 
     # mhmes "The Kasaru are - mmmmm - known for having additional muscles in their mouth."
-    mhmes "The Kasaru are - mmmmm - known for having additional muscles in their mouth."
+    mhmes "Kasaru'lar - mmmmm - ağızlarında ekstra kasları olmasıyla tanınırlar."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:718
 translate turkish sm1mv02s09_movie_6b4d2a84:
