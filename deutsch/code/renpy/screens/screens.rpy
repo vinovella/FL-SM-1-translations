@@ -66,7 +66,7 @@
 
     # game/code/renpy/screens/screens.rpy:489
     old "Unseen Text"
-    new "Unsichtbarer Text"
+    new "Ungesehener Text"
 
     # game/code/renpy/screens/screens.rpy:490
     old "After Choices"
@@ -94,7 +94,7 @@
 
     # game/code/renpy/screens/screens.rpy:780
     old "Advances dialogue and activates the interface."
-    new "Fördert den Dialog und aktiviert die Schnittstelle."
+    new "Erweiterter Dialog und aktiviert die Benutzeroberfläche."
 
     # game/code/renpy/screens/screens.rpy:783
     old "Space"
@@ -102,7 +102,7 @@
 
     # game/code/renpy/screens/screens.rpy:784
     old "Advances dialogue without selecting choices."
-    new "Fördert den Dialog, ohne Auswahlmöglichkeiten zu treffen."
+    new "Erweiterter Dialog, ohne Auswahlmöglichkeiten zu treffen."
 
     # game/code/renpy/screens/screens.rpy:787
     old "Arrow Keys"
@@ -338,7 +338,7 @@
 
     # game/code/renpy/screens/screens.rpy:724
     old "On Hover"
-    new "On Hover"
+    new "Beim Darüberfahren mit der Maus"
 
     # game/code/renpy/screens/screens.rpy:733
     old "Analytics :"
@@ -362,11 +362,11 @@
 
     # game/code/renpy/screens/screens.rpy:353
     old "Saves For Chapter 2"
-    new "Saves For Chapter 2"
+    new "Speicherstände für Kapitel 2"
 
     # game/code/renpy/screens/screens.rpy:729
     old "Minigames :"
-    new "Minigames :"
+    new "Minispiele :"
 
     # game/code/renpy/screens/screens.rpy:920
     old "S&M Studio{#about_button}"
@@ -374,7 +374,7 @@
 
     # game/code/renpy/screens/screens.rpy:924
     old "Dev Team"
-    new "Dev Team"
+    new "Entwicklerteam"
 
     # game/code/renpy/screens/screens.rpy:947
     old "VERSION : [config.version!t]"
@@ -406,27 +406,27 @@
 
     # game/code/renpy/screens/screens.rpy:1005
     old "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
-    new "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
+    new "Dieses Werk ist lizenziert unter der {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
 
     # game/code/renpy/screens/screens.rpy:1008
     old "This work is licensed under the {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
-    new "This work is licensed under the {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
+    new "Dieses Werk ist lizenziert unter der {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
 
     # game/code/renpy/screens/screens.rpy:1011
     old "This work is licensed under the {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
-    new "This work is licensed under the {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
+    new "Dieses Werk ist lizenziert unter der {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
 
     # game/code/renpy/screens/screens.rpy:1016
     old "Licensed under Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
-    new "Licensed under Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
+    new "Lizenziert unter Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
 
     # game/code/renpy/screens/screens.rpy:1019
     old "Licensed under a {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
-    new "Licensed under a {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
+    new "Lizenziert unter einer {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
 
     # game/code/renpy/screens/screens.rpy:1020
     old "Changes: quacking sounds added"
-    new "Changes: quacking sounds added"
+    new "Änderungen: Quakgeräusche hinzugefügt"
 
     # game/code/renpy/screens/screens.rpy:1024
     old "VOICEOVER CREDITS"
@@ -434,15 +434,15 @@
 
     # game/code/renpy/screens/screens.rpy:1038
     old "PORTUGUESE TRANSLATION"
-    new "PORTUGUESE TRANSLATION"
+    new "PORTUGIESISCHE ÜBERSETZUNG"
 
     # game/code/renpy/screens/screens.rpy:1043
     old "SPANISH TRANSLATION"
-    new "SPANISH TRANSLATION"
+    new "SPANISCHE ÜBERSETZUNG"
 
     # game/code/renpy/screens/screens.rpy:1048
     old "DEUTSCH TRANSLATION"
-    new "DEUTSCH TRANSLATION"
+    new "DEUTSCHE ÜBERSETZUNG"
 
     # game/code/renpy/screens/screens.rpy:1059
     old "GAME ENGINE"
@@ -450,11 +450,11 @@
 
     # game/code/renpy/screens/screens.rpy:1064
     old "PROOFREADING CREDITS"
-    new "PROOFREADING CREDITS"
+    new "KORREKTURLESER CREDITS"
 
     # game/code/renpy/screens/screens.rpy:1065
     old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
-    new "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
+    new "Besonderer Dank gilt unserem Korrekturleser : .grubb (Discord: grubbjunker)"
 
     # game/code/renpy/screens/screens.rpy:1069
     old "ICON CREDITS"
@@ -462,5 +462,5 @@
 
     # game/code/renpy/screens/screens.rpy:1070
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
-    new "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
+    new "Menüicons stammen aus {a=https://feathericons.com/}Feather{/a}, einer wunderschönen Sammlung von Icons, erstellt von @colebemis und lizenziert unter der {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
 
