@@ -14,7 +14,7 @@
 
     # game/code/renpy/screens/sm_website.rpy:23
     old "ACTRESS"
-    new "SCHAUSPIELERIN"
+    new "DARSTELLER"
 
     # game/code/renpy/screens/sm_website.rpy:24
     old "COMMUNITY"
@@ -52,5 +52,5 @@ translate deutsch strings:
 
     # game/code/renpy/screens/sm_website.rpy:82
     old "Stop Movie"
-    new "Stop Movie"
+    new "Film anhalten"
 
