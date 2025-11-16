@@ -20,9 +20,9 @@ translate deutsch strings:
 
     # game/code/renpy/screens/renovation.rpy:52
     old "[mc_work_percent]%\nper energy"
-    new "[mc_work_percent]%\nper energy"
+    new "[mc_work_percent]%\npro Energie"
 
     # game/code/renpy/screens/renovation.rpy:53
     old "[sy_work_percent]%\nper day"
-    new "[sy_work_percent]%\nper day"
+    new "[sy_work_percent]%\npro Tag"
 
