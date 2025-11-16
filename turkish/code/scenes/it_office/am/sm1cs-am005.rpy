@@ -994,7 +994,7 @@ translate turkish strings:
 translate turkish sm1cs_am005_d267eb2f:
 
     # mct "This can't go on. I need to at least get us back on the same page."
-    mct "This can't go on. I need to at least get us back on the same page."
+    mct "Bu böyle devam edemez. En azından ikimizi de aynı sayfaya getirmem gerekiyor."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:37
 translate turkish sm1cs_am005_71f06d2b:
@@ -1006,123 +1006,123 @@ translate turkish sm1cs_am005_71f06d2b:
 translate turkish sm1cs_am005_hours_later_e90fce66:
 
     # mct "Finally. That's the last ticket for my shift."
-    mct "Finally. That's the last ticket for my shift."
+    mct "Sonunda. Vardiyamdaki son bilet bu."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:86
 translate turkish sm1cs_am005_hours_later_a896092a:
 
     # mct "April texted me."
-    mct "April texted me."
+    mct "April bana mesaj attı."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:96
 translate turkish sm1cs_am005_hours_later_66953d1c:
 
     # am "Now I can talk.{w} So talk."
-    am "Now I can talk.{w} So talk."
+    am "Şimdi konuşabilirim.{w} Konuş bakalım."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:118
 translate turkish sm1cs_am005_hours_later_146a1f48:
 
     # am "I... yes.{w} I want to talk."
-    am "I... yes.{w} I want to talk."
+    am "Ben... evet.{w} Konuşmak istiyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:122
 translate turkish sm1cs_am005_hours_later_2cbd87a6:
 
     # am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
-    am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
+    am "Yani... yeni bir sayfa açabilir miyiz, [mcname]{w} Yeni bir başlangıç yapabilir miyiz?"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:155
 translate turkish sm1cs_am005_hours_later_a275d6ef:
 
     # mct "I should be a little patient with April.{w} She's obviously got something on her mind."
-    mct "I should be a little patient with April.{w} She's obviously got something on her mind."
+    mct "April'e karşı biraz sabırlı olmalıyım.{w} Belli ki aklında bir şeyler var."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:159
 translate turkish sm1cs_am005_hours_later_a7b1f1c9:
 
     # mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
-    mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
+    mct "Bekle...{w} April benden hoşlanıyor mu?{w} Arabasındayken öyle görünmüyordu."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:175
 translate turkish sm1cs_am005_hours_later_0ff1fdb3:
 
     # am "What do you think, idiot?{w} All of it."
-    am "What do you think, idiot?{w} All of it."
+    am "Ne düşünüyorsun, aptal?{w} Hepsinden dolayı."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:186
 translate turkish sm1cs_am005_sex_1_bd4a6ae6:
 
     # am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
-    am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
+    am "Kötü dürtülerimin kontrolü ele almasına izin verdim.{w} Beynim düzgün düşünemiyordu."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:198
 translate turkish sm1cs_am005_sex_1_028c5529:
 
     # mc "Say no more..."
-    mc "Say no more..."
+    mc "Daha fazla söyleme..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:203
 translate turkish sm1cs_am005_sex_1_bd9f2d5b:
 
     # am "[mcname]...{w} That's not what I mean."
-    am "[mcname]...{w} That's not what I mean."
+    am "[mcname]...{w} Demek istediğim bu değil."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:210
 translate turkish sm1cs_am005_sex_1_4e767ae1:
 
     # mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
-    mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
+    mc "Bunu açıklamak ister misin, April?{w} Senin sık sık söylediğin gibi, ben senin kadar keskin değilim."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:217
 translate turkish sm1cs_am005_sex_1_5c9540af:
 
     # am "And I just, I don't know, I went stupid mode.{w} Basic mode."
-    am "And I just, I don't know, I went stupid mode.{w} Basic mode."
+    am "Ve ben sadece, bilmiyorum, aptal moduna geçtim.{w} Temel moda."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:227
 translate turkish sm1cs_am005_sex_1_1d60ca19:
 
     # mct "I guess she doesn't have {b}all{/b} the answers."
-    mct "I guess she doesn't have {b}all{/b} the answers."
+    mct "Sanırım {b}tüm{/b} cevaplara sahip değil."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:230
 translate turkish sm1cs_am005_sex_1_5dc800e5:
 
     # mc "Text me if you ever figure it out.{w} I got other-"
-    mc "Text me if you ever figure it out.{w} I got other-"
+    mc "Eğer çözersen bana mesaj at.{w} Benim başka-"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:263
 translate turkish sm1cs_am005_sex_1_61ca4758:
 
     # am "I didn't want {b}our{/b} first time to be like that."
-    am "I didn't want {b}our{/b} first time to be like that."
+    am "{b}Bizim{/b} ilk seferimizin böyle olmasını istemedim."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:274
 translate turkish sm1cs_am005_sex_1_de51fd56:
 
     # am "Shuuuussssssh.{w} Not out here."
-    am "Shuuuussssssh.{w} Not out here."
+    am "Şşşşşşşş.{w} Burada olmaz."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:280
 translate turkish sm1cs_am005_sex_1_246cc10d:
 
     # am "I don't know.{w} Maybe after I invited you to see my band."
-    am "I don't know.{w} Maybe after I invited you to see my band."
+    am "Bilmiyorum.{w} Belki seni grubumu izlemeye davet ettikten sonra."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:600
 translate turkish sm1cs_am005_thumbsup_end_901d4d24:
 
     # mct "Uh. Did she just really give me a thumbs up?"
-    mct "Uh. Did she just really give me a thumbs up?"
+    mct "Ee. Gerçekten bana başparmak yukarı mı yaptı?"
 
 translate turkish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
     old "Push it"
-    new "Push it"
+    new "Üstüne git"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
     old "Don't push it"
-    new "Don't push it"
+    new "Üstüne gitme"
 
