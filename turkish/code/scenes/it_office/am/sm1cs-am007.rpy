@@ -211,16 +211,14 @@ translate turkish sm1cs_am007_725210ba:
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:131
 translate turkish sm1cs_am007_3f7f1e59:
 
-    # am "*iç çeker*" Mitch, you haven't had a real job in years."
-    am "*iç çeker*" Mitch, you haven't had a real job in years."
+    # am "*sighs* Mitch, you haven't had a real job in years."
+    am "*iç çeker* Mitch, yıllardır düzgün bir işin olmadı."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:132
 translate turkish sm1cs_am007_27c91aa1:
 
     # am "You don't have a pot to piss in."
-    am "Meteliksiz bir durumdas
-
-ın."
+    am "Meteliksiz bir durumdasın."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:134
 translate turkish sm1cs_am007_6ac5c548:
@@ -321,8 +319,8 @@ translate turkish sm1cs_am007_e8cf1261:
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:163
 translate turkish sm1cs_am007_a41c7fa1:
 
-    # am "*iç çeker*" And I can't keep spending so much time on the phone."
-    am "*iç çeker*" And I can't keep spending so much time on the phone."
+    # am "*sighs* And I can't keep spending so much time on the phone."
+    am "*iç çeker* Ve telefonda bu kadar çok zaman harcamaya devam edemem."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:164
 translate turkish sm1cs_am007_57d6e0c6:
