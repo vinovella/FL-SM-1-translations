@@ -842,11 +842,11 @@ translate deutsch q_inter_ms_45_678c5fed:
 translate deutsch q_inter_ms_5_8a5a6bb5:
 
     # ms "Never thought I'd be buried in debt and putting wieners in bags."
-    ms "Never thought I'd be buried in debt and putting wieners in bags."
+    ms "Ich hätte nie gedacht, dass ich einmal in Schulden versinken und Würstchen in Tüten packen würde."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
 translate deutsch q_inter_ms_19_6c302b48:
 
     # ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
-    ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
+    ms "Wenn ich dich sehe, werde ich daran erinnert, dass ich bald wieder zur Arbeit muss und mich um Würstchen kümmern muss."
 
