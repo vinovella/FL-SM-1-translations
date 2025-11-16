@@ -266,19 +266,19 @@ translate deutsch q_inter_vs_7_305758d8:
 translate deutsch q_inter_vs_12_fbd78eaa:
 
     # vs "Yay, [mcname]! You're finally one of the real actors."
-    vs "Yay, [mcname]! You're finally one of the real actors."
+    vs "Hurra, [mcname]! Endlich bist du einer der echten Schauspieler."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:158
 translate deutsch q_inter_vs_12_40ecebb6:
 
     # vs "You don't have to feel ashamed of being a stagehand any longer."
-    vs "You don't have to feel ashamed of being a stagehand any longer."
+    vs "Du musst dich nicht mehr dafür schämen, Bühnenarbeiter zu sein."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:159
 translate deutsch q_inter_vs_12_6d495a60:
 
     # mc "I was never ashamed of that."
-    mc "I was never ashamed of that."
+    mc "Ich habe mich dafür nie geschämt."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:162
 translate deutsch q_inter_vs_12_8576433e:
@@ -290,17 +290,17 @@ translate deutsch q_inter_vs_12_8576433e:
 translate deutsch q_inter_vs_12_a24c393b:
 
     # vs "Why not?"
-    vs "Why not?"
+    vs "Warum nicht?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:170
 translate deutsch q_inter_vs_13_7c4f4e75:
 
     # vs "The most important thing about being a true actor is to not panic."
-    vs "The most important thing about being a true actor is to not panic."
+    vs "Das Wichtigste, um ein echter Schauspieler zu sein, ist, nicht in Panik zu geraten."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:171
 translate deutsch q_inter_vs_13_db875d9f:
 
     # vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
-    vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
+    vs "Oh, und du musst deinen Text lernen. Denise sagt, das ist auch ziemlich wichtig."
 
