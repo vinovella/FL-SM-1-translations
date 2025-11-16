@@ -1,517 +1,246 @@
-turkish/code/classes/character.rpy (Entire file untranslated) [75 words]
-
-turkish/code/classes/chat_controller.rpy [12 words]
-
-turkish/code/classes/gallery.rpy (Entire file untranslated) [8 words]
-
-turkish/code/classes/gametime.rpy [24 words]
-
-turkish/code/classes/interaction_character_option.rpy [51 words]
-
-turkish/code/classes/interaction_location_option.rpy (Entire file untranslated) [2 words]
-
-turkish/code/classes/interaction_object_option.rpy [12 words]
-
-turkish/code/classes/it_controller.rpy [4 words]
-
-turkish/code/classes/lovense.rpy (Entire file untranslated) [13 words]
-
-turkish/code/classes/map_location.rpy (Entire file untranslated) [22 words]
-
-turkish/code/classes/movie_controllers.rpy (Entire file untranslated) [73 words]
-
-turkish/code/classes/player.rpy [13 words]
-
-turkish/code/classes/player_controller.rpy [5 words]
-
-turkish/code/classes/quest_controller.rpy (Entire file untranslated) [33 words]
-
+turkish/code/classes/quest_controller.rpy  [33 words]
 turkish/code/classes/renovation_controller.rpy [34 words]
-
 turkish/code/classes/th_controller.rpy [8 words]
-
-turkish/code/classes/vn_mode_controller.rpy (Entire file untranslated) [5 words]
-
-turkish/code/data/characters/characters.rpy (Entire file untranslated) [35 words]
-
+turkish/code/classes/vn_mode_controller.rpy  [5 words]
+turkish/code/data/characters/characters.rpy  [35 words]
 turkish/code/data/characters/names.rpy [38 words]
-
 turkish/code/data/constants/constants.rpy [1 words]
-
 turkish/code/data/constants/location_constants.rpy [6 words]
-
 turkish/code/data/constants/traits.rpy [4 words]
-
-turkish/code/data/gallery/replay_gallery.rpy (Entire file untranslated) [251 words]
-
-turkish/code/data/gallery/sm_website.rpy (Entire file untranslated) [58 words]
-
+turkish/code/data/gallery/replay_gallery.rpy  [251 words]
+turkish/code/data/gallery/sm_website.rpy  [58 words]
 turkish/code/data/interaction_options/interaction_character_options.rpy [241 words]
-
-turkish/code/data/interaction_options/interaction_conditions.rpy (Entire file untranslated) [7 words]
-
+turkish/code/data/interaction_options/interaction_conditions.rpy  [7 words]
 turkish/code/data/interaction_options/interaction_location_options.rpy [14 words]
-
 turkish/code/data/interaction_options/interaction_object_options.rpy [2 words]
-
 turkish/code/data/quests/line_list_quests.rpy [10 words]
-
 turkish/code/data/quests/quests_it.rpy [375 words]
-
-turkish/code/data/quests/quests_movies.rpy (Entire file untranslated) [394 words]
-
+turkish/code/data/quests/quests_movies.rpy  [394 words]
 turkish/code/data/quests/quests_neutral.rpy [438 words]
-
 turkish/code/data/quests/quests_theater.rpy [271 words]
-
-turkish/code/data/quests/vn_mode_conditions.rpy (Entire file untranslated) [26 words]
-
+turkish/code/data/quests/vn_mode_conditions.rpy  [26 words]
 turkish/code/data/quests/vn_mode_data.rpy [234 words]
-
 turkish/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy [7 words]
-
 turkish/code/data/quick_interactions/IT_office/q-inter-ag.rpy [38 words]
-
 turkish/code/data/quick_interactions/IT_office/q-inter-am.rpy [74 words]
-
 turkish/code/data/quick_interactions/IT_office/q-inter-cw.rpy [32 words]
-
 turkish/code/data/quick_interactions/IT_office/q-inter-en.rpy [7 words]
-
 turkish/code/data/quick_interactions/IT_office/q-inter-jh.rpy [15 words]
-
 turkish/code/data/quick_interactions/IT_office/q-inter-lm.rpy [39 words]
-
 turkish/code/data/quick_interactions/IT_office/q-inter-mj.rpy [34 words]
-
 turkish/code/data/quick_interactions/IT_office/q-inter-ns.rpy [330 words]
-
 turkish/code/data/quick_interactions/IT_office/q-inter-pm.rpy [15 words]
-
 turkish/code/data/quick_interactions/IT_office/q-inter-sr.rpy [21 words]
-
 turkish/code/data/quick_interactions/Neutral/q-inter-dc.rpy [100 words]
-
 turkish/code/data/quick_interactions/Neutral/q-inter-mes.rpy [198 words]
-
 turkish/code/data/quick_interactions/Neutral/q-inter-my.rpy [134 words]
-
 turkish/code/data/quick_interactions/Neutral/q-inter-sy.rpy [302 words]
-
 turkish/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy [111 words]
-
 turkish/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy [133 words]
-
 turkish/code/data/quick_interactions/Theater/q-inter-dvh.rpy [13 words]
-
 turkish/code/data/quick_interactions/Theater/q-inter-km.rpy [82 words]
-
 turkish/code/data/quick_interactions/Theater/q-inter-tl.rpy [178 words]
-
 turkish/code/data/quick_interactions/Theater/q-inter-vs.rpy [105 words]
-
 turkish/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy [15 words]
-
 turkish/code/data/quick_interactions/Theater/background_chars/q-inter-sb.rpy [3 words]
-
 turkish/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy [106 words]
-
 turkish/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy [29 words]
-
-turkish/code/functions/functions.rpy (Entire file untranslated) [1 words]
-
+turkish/code/functions/functions.rpy  [1 words]
 turkish/code/minigames/simon_says/simon_says_game.rpy [10 words]
-
-turkish/code/minigames/wurst_delivery/wurst_delivery_class.rpy (Entire file untranslated) [8 words]
-
-turkish/code/renpy/config/options.rpy (Entire file untranslated) [4 words]
-
-turkish/code/renpy/labels/actions.rpy (Entire file untranslated) [137 words]
-
+turkish/code/minigames/wurst_delivery/wurst_delivery_class.rpy  [8 words]
+turkish/code/renpy/config/options.rpy  [4 words]
+turkish/code/renpy/labels/actions.rpy  [137 words]
 turkish/code/renpy/labels/vn_mode.rpy [10 words]
-
 turkish/code/renpy/screens/character.rpy [2 words]
-
 turkish/code/renpy/screens/difficulity.rpy [52 words]
-
 turkish/code/renpy/screens/faction_it.rpy [4 words]
-
 turkish/code/renpy/screens/faction_th.rpy [7 words]
-
-turkish/code/renpy/screens/gallery.rpy (Entire file untranslated) [15 words]
-
+turkish/code/renpy/screens/gallery.rpy  [15 words]
 turkish/code/renpy/screens/game_menus.rpy [7 words]
-
-turkish/code/renpy/screens/info.rpy (Entire file untranslated) [83 words]
-
-turkish/code/renpy/screens/language.rpy (Entire file untranslated) [2 words]
-
-turkish/code/renpy/screens/lovense.rpy (Entire file untranslated) [80 words]
-
-turkish/code/renpy/screens/music_player.rpy (Entire file untranslated) [3 words]
-
+turkish/code/renpy/screens/info.rpy  [83 words]
+turkish/code/renpy/screens/language.rpy  [2 words]
+turkish/code/renpy/screens/lovense.rpy  [80 words]
+turkish/code/renpy/screens/music_player.rpy  [3 words]
 turkish/code/renpy/screens/others.rpy [55 words]
-
 turkish/code/renpy/screens/phone.rpy [5 words]
-
-turkish/code/renpy/screens/pirates_movie.rpy (Entire file untranslated) [8 words]
-
+turkish/code/renpy/screens/pirates_movie.rpy  [8 words]
 turkish/code/renpy/screens/renovation.rpy [6 words]
-
-turkish/code/renpy/screens/save.rpy (Entire file untranslated) [17 words]
-
-turkish/code/renpy/screens/scifi_movie.rpy (Entire file untranslated) [2 words]
-
+turkish/code/renpy/screens/save.rpy  [17 words]
+turkish/code/renpy/screens/scifi_movie.rpy  [2 words]
 turkish/code/renpy/screens/screens.rpy [206 words]
-
-turkish/code/renpy/screens/sm_website.rpy (Entire file untranslated) [16 words]
-
-turkish/code/renpy/screens/studio_laptop.rpy (Entire file untranslated) [2 words]
-
+turkish/code/renpy/screens/sm_website.rpy  [16 words]
+turkish/code/renpy/screens/studio_laptop.rpy  [2 words]
 turkish/code/renpy/screens/vn_mode.rpy [4 words]
-
 turkish/code/scenes/character_scenes/arj/sm1cs-arj002.rpy [68 words]
-
 turkish/code/scenes/character_scenes/arj/sm1cs-arj003.rpy [2 words]
-
 turkish/code/scenes/character_scenes/bg/sm1cs-bg001.rpy [52 words]
-
 turkish/code/scenes/character_scenes/bg/sm1cs-bg002.rpy [36 words]
-
 turkish/code/scenes/character_scenes/bg/sm1cs-bg003.rpy [15 words]
-
 turkish/code/scenes/character_scenes/bg/sm1cs-bg004.rpy [10 words]
-
 turkish/code/scenes/character_scenes/bg/sm1cs-bg005.rpy [7 words]
-
 turkish/code/scenes/character_scenes/cs/sm1cs-cs001.rpy [10 words]
-
 turkish/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy [35 words]
-
 turkish/code/scenes/character_scenes/dc/sm1cs-dc002.rpy [18 words]
-
 turkish/code/scenes/character_scenes/dc/sm1cs-dc004.rpy [29 words]
-
 turkish/code/scenes/character_scenes/dc/sm1cs-dc006.rpy [63 words]
-
 turkish/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy [75 words]
-
 turkish/code/scenes/character_scenes/dc/sm1cs-dc007.rpy [31 words]
-
 turkish/code/scenes/character_scenes/dc/sm1cs-dc008.rpy [19 words]
-
 turkish/code/scenes/character_scenes/dc/sm1cs-dc009.rpy [213 words]
-
 turkish/code/scenes/character_scenes/dc/sm1cs-dc009i.rpy [2 words]
-
 turkish/code/scenes/character_scenes/dc/sm1cs-dc010.rpy [248 words]
-
 turkish/code/scenes/character_scenes/dc/sm1cs-dc010i.rpy [6 words]
-
 turkish/code/scenes/character_scenes/kv/sm1cs-kv001.rpy [16 words]
-
 turkish/code/scenes/character_scenes/kv/sm1cs-kv003.rpy [27 words]
-
 turkish/code/scenes/character_scenes/kv/sm1cs-kv004.rpy [50 words]
-
 turkish/code/scenes/character_scenes/mas/sm1cs-mas003.rpy [22 words]
-
 turkish/code/scenes/character_scenes/mas/sm1cs-mas004.rpy [17 words]
-
 turkish/code/scenes/character_scenes/mas/sm1cs-mas004i.rpy [2 words]
-
 turkish/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy [53 words]
-
 turkish/code/scenes/character_scenes/mes/sm1cs-mes001.rpy [55 words]
-
 turkish/code/scenes/character_scenes/mes/sm1cs-mes003.rpy [2 words]
-
 turkish/code/scenes/character_scenes/mes/sm1cs-mes005.rpy [15 words]
-
 turkish/code/scenes/character_scenes/mes/sm1cs-mes006.rpy [590 words]
-
 turkish/code/scenes/character_scenes/mes/sm1cs-mes007.rpy [13 words]
-
 turkish/code/scenes/character_scenes/mh/sm1cs-mh002.rpy [27 words]
-
 turkish/code/scenes/character_scenes/mh/sm1cs-mh007.rpy [20 words]
-
 turkish/code/scenes/character_scenes/mh/sm1cs-mh008.rpy [52 words]
-
 turkish/code/scenes/character_scenes/mh/sm1cs-mh009.rpy [158 words]
-
 turkish/code/scenes/character_scenes/mh/sm1cs-mh010.rpy [3 words]
-
 turkish/code/scenes/character_scenes/mh/sm1cs-mh010i.rpy [2 words]
-
 turkish/code/scenes/character_scenes/my/sm1cs-my003.rpy [157 words]
-
-turkish/code/scenes/character_scenes/my/sm1cs-my003i.rpy (Entire file untranslated) [44 words]
-
+turkish/code/scenes/character_scenes/my/sm1cs-my003i.rpy  [44 words]
 turkish/code/scenes/character_scenes/my/sm1cs-my004.rpy [16 words]
-
 turkish/code/scenes/character_scenes/my/sm1cs-my004i.rpy [12 words]
-
 turkish/code/scenes/character_scenes/my/sm1cs-my005.rpy [54 words]
-
 turkish/code/scenes/character_scenes/my/sm1cs-my006.rpy [93 words]
-
 turkish/code/scenes/character_scenes/sy/sm1cs-sy001.rpy [28 words]
-
 turkish/code/scenes/character_scenes/sy/sm1cs-sy002.rpy [29 words]
-
 turkish/code/scenes/it_office/sm1fs-i001.rpy [40 words]
-
 turkish/code/scenes/it_office/sm1fs-i002.rpy [52 words]
-
 turkish/code/scenes/it_office/sm1fs-i003.rpy [0 words]
-
 turkish/code/scenes/it_office/sm1fs-i004.rpy [87 words]
-
 turkish/code/scenes/it_office/sm1fs-i005.rpy [13 words]
-
 turkish/code/scenes/it_office/ag/sm1cs-ag001.rpy [141 words]
-
 turkish/code/scenes/it_office/ag/sm1cs-ag002.rpy [4 words]
-
 turkish/code/scenes/it_office/ag/sm1cs-ag003.rpy [23 words]
-
 turkish/code/scenes/it_office/am/sm1cs-am-renovation.rpy [25 words]
-
 turkish/code/scenes/it_office/am/sm1cs-am002.rpy [202 words]
-
 turkish/code/scenes/it_office/am/sm1cs-am003.rpy [2 words]
-
 turkish/code/scenes/it_office/am/sm1cs-am004.rpy [41 words]
-
 turkish/code/scenes/it_office/am/sm1cs-am004i.rpy [21 words]
-
 turkish/code/scenes/it_office/am/sm1cs-am005.rpy [2 words]
-
 turkish/code/scenes/it_office/am/sm1cs-am005b.rpy [9 words]
-
 turkish/code/scenes/it_office/am/sm1cs-am007.rpy [1431 words]
-
 turkish/code/scenes/it_office/am/sm1cs-am008.rpy [244 words]
-
 turkish/code/scenes/it_office/cw/sm1cs-cw001.rpy [11 words]
-
 turkish/code/scenes/it_office/cw/sm1cs-cw002.rpy [16 words]
-
 turkish/code/scenes/it_office/cw/sm1cs-cw002_2.rpy [20 words]
-
 turkish/code/scenes/it_office/cw/sm1cs-cw003.rpy [17 words]
-
 turkish/code/scenes/it_office/cw/sm1cs-cw003i.rpy [7 words]
-
 turkish/code/scenes/it_office/cw/sm1cs-cw004.rpy [63 words]
-
 turkish/code/scenes/it_office/cw/sm1cs-cw005.rpy [55 words]
-
 turkish/code/scenes/it_office/cw/sm1cs-cw006.rpy [12 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns001.rpy [32 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns002.rpy [28 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns003.rpy [209 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns004.rpy [31 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns005.rpy [108 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns007.rpy [64 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns009.rpy [19 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns011.rpy [9 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns012.rpy [11 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns012i.rpy [23 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns013.rpy [77 words]
-
 turkish/code/scenes/it_office/ns/sm1cs-ns014.rpy [83 words]
-
 turkish/code/scenes/main_story/sm1ms002.rpy [6 words]
-
 turkish/code/scenes/main_story/sm1ms004.rpy [36 words]
-
 turkish/code/scenes/main_story/sm1ms005.rpy [3 words]
-
 turkish/code/scenes/main_story/sm1ms005_02i.rpy [4 words]
-
 turkish/code/scenes/main_story/sm1ms006.rpy [38 words]
-
 turkish/code/scenes/main_story/sm1ms008.rpy [95 words]
-
 turkish/code/scenes/main_story/sm1ms009.rpy [11 words]
-
 turkish/code/scenes/main_story/sm1ms010.rpy [16 words]
-
 turkish/code/scenes/main_story/sm1ms011-01i.rpy [29 words]
-
 turkish/code/scenes/main_story/sm1ms011-02i.rpy [25 words]
-
 turkish/code/scenes/main_story/sm1ms011_it.rpy [95 words]
-
 turkish/code/scenes/main_story/sm1ms014.rpy [7 words]
-
 turkish/code/scenes/main_story/sm1ms015.rpy [29 words]
-
 turkish/code/scenes/main_story/sm1ms016.rpy [4 words]
-
 turkish/code/scenes/main_story/sm1ms017.rpy [22 words]
-
 turkish/code/scenes/main_story/sm1ms020.rpy [15 words]
-
 turkish/code/scenes/main_story/sm1ms021.rpy [160 words]
-
 turkish/code/scenes/main_story/sm1ms022i.rpy [5 words]
-
 turkish/code/scenes/main_story/sm1ms025.rpy [13 words]
-
-turkish/code/scenes/main_story/sm1ms025i.rpy (Entire file untranslated) [19 words]
-
+turkish/code/scenes/main_story/sm1ms025i.rpy  [19 words]
 turkish/code/scenes/main_story/sm1ms026.rpy [12 words]
-
 turkish/code/scenes/main_story/sm1ms026i.rpy [1 words]
-
 turkish/code/scenes/main_story/sm1ms027.rpy [2 words]
-
 turkish/code/scenes/main_story/sm1ms028.rpy [16 words]
-
-turkish/code/scenes/main_story/sm1ms029.rpy (Entire file untranslated) [32 words]
-
+turkish/code/scenes/main_story/sm1ms029.rpy  [32 words]
 turkish/code/scenes/main_story/sm1ms029i.rpy [1 words]
-
 turkish/code/scenes/main_story/sm1ms029_1.rpy [11 words]
-
 turkish/code/scenes/main_story/sm1ms029_2.rpy [44 words]
-
 turkish/code/scenes/main_story/sm1ms029_3.rpy [122 words]
-
 turkish/code/scenes/main_story/sm1ms029_4.rpy [1908 words]
-
 turkish/code/scenes/main_story/sm1ms030.rpy [5 words]
-
 turkish/code/scenes/movies/movie01/sm1mv01s01.rpy [4 words]
-
 turkish/code/scenes/movies/movie01/sm1mv01s02.rpy [53 words]
-
 turkish/code/scenes/movies/movie01/sm1mv01s03_1.rpy [3 words]
-
 turkish/code/scenes/movies/movie01/sm1mv01s03_2.rpy [11 words]
-
 turkish/code/scenes/movies/movie01/sm1mv01s04.rpy [4 words]
-
-turkish/code/scenes/movies/movie01/sm1mv01s04_2i.rpy (Entire file untranslated) [23 words]
-
+turkish/code/scenes/movies/movie01/sm1mv01s04_2i.rpy  [23 words]
 turkish/code/scenes/movies/movie01/sm1mv01s05.rpy [190 words]
-
 turkish/code/scenes/movies/movie01/sm1mv01s06.rpy [21 words]
-
-turkish/code/scenes/movies/movie01/sm1mv01s06i.rpy (Entire file untranslated) [18 words]
-
-turkish/code/scenes/movies/movie01/sm1mv01s07i.rpy (Entire file untranslated) [12 words]
-
+turkish/code/scenes/movies/movie01/sm1mv01s06i.rpy  [18 words]
+turkish/code/scenes/movies/movie01/sm1mv01s07i.rpy  [12 words]
 turkish/code/scenes/movies/movie01/sm1mv01s07_2.rpy [972 words]
-
 turkish/code/scenes/movies/movie01/sm1mv01s08.rpy [43 words]
-
 turkish/code/scenes/movies/movie01/sm1mv01s09.rpy [2050 words]
-
 turkish/code/scenes/movies/movie01/sm1mv01s10.rpy [8 words]
-
 turkish/code/scenes/movies/movie02/sm1mv02s01.rpy [8 words]
-
 turkish/code/scenes/movies/movie02/sm1mv02s02i.rpy [2 words]
-
 turkish/code/scenes/movies/movie02/sm1mv02s02_02i.rpy [1 words]
-
 turkish/code/scenes/movies/movie02/sm1mv02s03_1.rpy [5 words]
-
-turkish/code/scenes/movies/movie02/sm1mv02s03_1i.rpy (Entire file untranslated) [20 words]
-
+turkish/code/scenes/movies/movie02/sm1mv02s03_1i.rpy  [20 words]
 turkish/code/scenes/movies/movie02/sm1mv02s03_2.rpy [6 words]
-
-turkish/code/scenes/movies/movie02/sm1mv02s03_2i.rpy (Entire file untranslated) [27 words]
-
+turkish/code/scenes/movies/movie02/sm1mv02s03_2i.rpy  [27 words]
 turkish/code/scenes/movies/movie02/sm1mv02s04.rpy [859 words]
-
-turkish/code/scenes/movies/movie02/sm1mv02s04i.rpy (Entire file untranslated) [34 words]
-
+turkish/code/scenes/movies/movie02/sm1mv02s04i.rpy  [34 words]
 turkish/code/scenes/movies/movie02/sm1mv02s05.rpy [1863 words]
-
 turkish/code/scenes/movies/movie02/sm1mv02s06.rpy [1481 words]
-
-turkish/code/scenes/movies/movie02/sm1mv02s06i.rpy (Entire file untranslated) [23 words]
-
+turkish/code/scenes/movies/movie02/sm1mv02s06i.rpy  [23 words]
 turkish/code/scenes/movies/movie02/sm1mv02s07a.rpy [15 words]
-
 turkish/code/scenes/movies/movie02/sm1mv02s07b.rpy [1954 words]
-
 turkish/code/scenes/movies/movie02/sm1mv02s08.rpy [16 words]
-
 turkish/code/scenes/movies/movie02/sm1mv02s08i.rpy [2 words]
-
 turkish/code/scenes/movies/movie02/sm1mv02s09.rpy [1690 words]
-
-turkish/code/scenes/movies/movie02/sm1mv02s09i.rpy (Entire file untranslated) [19 words]
-
+turkish/code/scenes/movies/movie02/sm1mv02s09i.rpy  [19 words]
 turkish/code/scenes/movies/movie02/sm1mv02s10.rpy [202 words]
-
 turkish/code/scenes/theatre/sm1fs-t002.rpy [54 words]
-
 turkish/code/scenes/theatre/sm1fs-t003.rpy [25 words]
-
 turkish/code/scenes/theatre/sm1fs-t004.rpy [10 words]
-
 turkish/code/scenes/theatre/sm1fs-t005.rpy [7 words]
-
-turkish/code/scenes/theatre/sm1fs-t006.rpy (Entire file untranslated) [815 words]
-
+turkish/code/scenes/theatre/sm1fs-t006.rpy  [815 words]
 turkish/code/scenes/theatre/sm1fs-t007.rpy [4 words]
-
 turkish/code/scenes/theatre/sm1fs-t007i.rpy [2 words]
-
 turkish/code/scenes/theatre/sm1fs-t008.rpy [12 words]
-
 turkish/code/scenes/theatre/sm1fs-t008i.rpy [2 words]
-
 turkish/code/scenes/theatre/dvh/sm1cs-dvh001.rpy [43 words]
-
 turkish/code/scenes/theatre/dvh/sm1cs-dvh002.rpy [25 words]
-
 turkish/code/scenes/theatre/km/sm1cs-km001.rpy [26 words]
-
 turkish/code/scenes/theatre/km/sm1cs-km002.rpy [12 words]
-
 turkish/code/scenes/theatre/km/sm1cs-km003-2.rpy [6 words]
-
 turkish/code/scenes/theatre/km/sm1cs-km003-2i.rpy [38 words]
-
 turkish/code/scenes/theatre/km/sm1cs-km003.rpy [10 words]
-
 turkish/code/scenes/theatre/km/sm1cs-km004.rpy [34 words]
-
 turkish/code/scenes/theatre/km/sm1cs-km005.rpy [23 words]
-
 turkish/code/scenes/theatre/km/sm1cs-km006.rpy [3 words]
-
 turkish/code/scenes/theatre/tl/sm1cs-tl003.rpy [45 words]
-
 turkish/code/scenes/theatre/tl/sm1cs-tl004.rpy [9 words]
-
 turkish/code/scenes/theatre/tl/sm1cs-tl008i.rpy [66 words]
-
 turkish/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy [28 words]
-
 turkish/code/scenes/theatre/vs/sm1cs-vs002.rpy [13 words]
-
 turkish/code/scenes/theatre/vs/sm1cs-vs003.rpy [3 words]
-
 turkish/code/scenes/theatre/vs/sm1cs-vs004.rpy [7 words]
-
 turkish/code/scenes/theatre/vs/sm1cs-vs005.rpy [38 words]
