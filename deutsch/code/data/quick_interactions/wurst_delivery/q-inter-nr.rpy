@@ -188,11 +188,11 @@ translate deutsch q_inter_nr_8_7ef23e41:
 translate deutsch q_inter_nr_4_9ff4a03c:
 
     # nr "Pull my wiener. Heh heh."
-    nr "Pull my wiener. Heh heh."
+    nr "Zieh an meinem Würstchen. Hehe."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:93
 translate deutsch q_inter_nr_10_6f8406ed:
 
     # nr "Let it rip, kid! Get out there and show those wieners who's boss."
-    nr "Let it rip, kid! Get out there and show those wieners who's boss."
+    nr "Gib alles, Junge! Geh raus und zeig diesen Weicheiern, wer der Boss ist."
 
