@@ -566,9 +566,9 @@ translate deutsch strings:
 
     # game/code/scenes/movies/movie02/sm1mv02s01.rpy:4
     old "Yes, include watersports content"
-    new "Yes, include watersports content"
+    new "Ja, Wassersportinhalte einbeziehen"
 
     # game/code/scenes/movies/movie02/sm1mv02s01.rpy:4
     old "No, do not include watersports content"
-    new "No, do not include watersports content"
+    new "Nein, keine Wassersportinhalte einbeziehen"
 
