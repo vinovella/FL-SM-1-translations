@@ -176,7 +176,7 @@ translate deutsch sm1fs_t003_ca4a336b:
 translate deutsch sm1fs_t003_e52c461b:
 
     # dvh "*Quietly* Als ik deze toneelschrijver ooit ontmoet, beloof ik dat ik zijn tong door zijn kont naar buiten zal trekken..."
-    dvh "*Quietly* Als ik deze toneelschrijver ooit ontmoet, beloof ik dat ik zijn tong door zijn kont naar buiten zal trekken..."
+    dvh "*Leise* Als ik deze toneelschrijver ooit ontmoet, beloof ik dat ik zijn tong door zijn kont naar buiten zal trekken..."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:126
 translate deutsch sm1fs_t003_054fda02:
