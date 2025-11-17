@@ -2,19 +2,19 @@
 
     # game/code/classes/chat_controller.rpy:219
     old "Send video"
-    new "Send video"
+    new "Invia video"
 
     # game/code/classes/chat_controller.rpy:219
     old "Sent a video."
-    new "Sent a video."
+    new "Video inviato."
 
     # game/code/classes/chat_controller.rpy:221
     old "Send photo"
-    new "Send photo"
+    new "Invia foto"
 
     # game/code/classes/chat_controller.rpy:221
     old "Sent a photo."
-    new "Sent a photo."
+    new "Foto inviata."
 
 translate italian strings:
 
@@ -28,7 +28,7 @@ translate italian strings:
 
     # game/code/classes/chat_controller.rpy:196
     old "You need to have $[amount]"
-    new "You need to have $[amount]"
+    new "Devi avere $[amount]"
 
     # game/code/classes/chat_controller.rpy:197
     old "[chat_message!t] ([error_msg!t])"
