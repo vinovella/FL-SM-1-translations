@@ -42,7 +42,7 @@
 
     # game/code/data/characters/names.rpy:23
     old "Creepy Guy"
-    new "Creepy Guy"
+    new "Tizio Inquietante"
 
     # game/code/data/characters/names.rpy:24
     old "Cecilia"
@@ -50,7 +50,7 @@
 
     # game/code/data/characters/names.rpy:25
     old "Dog Walker"
-    new "Dog Walker"
+    new "Porta Cani"
 
     # game/code/data/characters/names.rpy:26
     old "Elizabeth"
@@ -78,7 +78,7 @@
 
     # game/code/data/characters/names.rpy:32
     old "Jogger"
-    new "Jogger"
+    new "Jogging"
 
     # game/code/data/characters/names.rpy:33
     old "Olivia"
@@ -226,11 +226,11 @@ translate italian strings:
 
     # game/code/data/characters/names.rpy:86
     old "Jerk Cop"
-    new "Jerk Cop"
+    new "Poliziotto Idiota"
 
 translate italian strings:
 
     # game/code/data/characters/names.rpy:87
     old "Douche Cop"
-    new "Douche Cop"
+    new "Poliziotto Stronzo"
 
