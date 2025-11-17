@@ -638,7 +638,7 @@ translate deutsch strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:260
     old "Flirt"
-    new "Flirt"
+    new "Flirten"
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:260
     old "Compliment"
