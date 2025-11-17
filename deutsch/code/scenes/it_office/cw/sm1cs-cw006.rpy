@@ -434,7 +434,7 @@ translate deutsch sm1cs_cw006_09adac03:
 translate deutsch sm1cs_cw006_d99ab8d5:
 
     # cw "Stop."
-    cw "Stop."
+    cw "Halt."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:263
 translate deutsch sm1cs_cw006_ecae6164:
@@ -1766,41 +1766,41 @@ translate deutsch strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:476
     old "Your lips?"
-    new "Your lips?"
+    new "Deine Lippen?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:238
 translate deutsch sm1cs_cw006_8854937c:
 
     # cw "If I didn't need your help in the first place..."
-    cw "If I didn't need your help in the first place..."
+    cw "Wenn ich deine Hilfe nicht von vornherein gebraucht hätte..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:253
 translate deutsch sm1cs_cw006_8fc13b58:
 
     # mc "I can only control my body so much, Claire."
-    mc "I can only control my body so much, Claire."
+    mc "Ich kann meinen Körper nur bis zu einem gewissen Grad kontrollieren, Claire."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:353
 translate deutsch cw006_choice1_b19ad390:
 
     # mc "Of course, Ms. Watts."
-    mc "Of course, Ms. Watts."
+    mc "Natürlich, Frau Watts."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:400
 translate deutsch sm1cs_cw006_onramp_1a_e8dd973e:
 
     # cw "I think a little further analysis would be good.{w} Necessary even."
-    cw "I think a little further analysis would be good.{w} Necessary even."
+    cw "Ich denke, eine etwas genauere Analyse wäre gut.{w} Sogar notwendig."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:421
 translate deutsch sm1cs_cw006_onramp_1a_141a8791:
 
     # cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
-    cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
+    cw "Und mit mir helfen meine ich, dass ich deine Hilfe bei Aktivitäten brauchen würde, die denen, die wir auf der Yacht {i}durchgeführt{/i} haben, vage ähneln."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:860
 translate deutsch sm1cs_cw006_onramp_2_d125b649:
 
     # mc "I wanted to talk to you about that special assignment you mentioned?"
-    mc "I wanted to talk to you about that special assignment you mentioned?"
+    mc "Ich wollte mit dir über den Sonderauftrag sprechen, den du erwähnt hast."
 
