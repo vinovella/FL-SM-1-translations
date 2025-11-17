@@ -692,7 +692,7 @@ translate turkish sm1cs_vs_renovation_ade0c19d:
 translate turkish sm1cs_vs_renovation_9c0bc37a:
 
     # mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming an actor in the group."
-    mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming an actor in the group."
+    mc "Kesinlikle var, ama gruptaki bir aktör olmamı engelleyebilecek bir şey yapmayacağım."
 
 translate turkish strings:
 

@@ -1812,5 +1812,5 @@ translate turkish sm1cs_vs005_continue_a297c2d2:
 translate turkish sm1cs_vs005_70c5755c:
 
     # vs "It's embarrassing, but when the alarm went off...{w} I kind of panicked."
-    vs "It's embarrassing, but when the alarm went off...{w} I kind of panicked."
+    vs "Utanç verici ama alarm çaldığında...{w} Bir nevi paniklemiştim."
 

@@ -1340,11 +1340,11 @@ translate turkish strings:
 translate turkish sm1cs_km005_22270354:
 
     # mc "Says the girl with hard nipples poking at her top."
-    mc "Says the girl with hard nipples poking at her top."
+    mc "Üstünden sertleşmiş meme uçları fırlayan kız söylüyor."
 
 translate turkish strings:
 
     # game/code/scenes/theatre/km/sm1cs-km005.rpy:535
     old "That was good. But now we've got a little mess to clean up"
-    new "That was good. But now we've got a little mess to clean up"
+    new "İyiydi. Ama şimdi temizlememiz gereken küçük bir dağınıklık var"
 

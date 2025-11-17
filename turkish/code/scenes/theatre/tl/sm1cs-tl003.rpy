@@ -1404,5 +1404,5 @@ translate turkish sm1cs_tl003_in_street_76592468:
 translate turkish sm1cs_tl003_sex_end_b82ee33e:
 
     # tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
-    tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
+    tl "Kapa çeneni, [mcname]. Bugün kimse hapse gitmeyecek. Sadece sessiz ol ve beni takip et!"
 
