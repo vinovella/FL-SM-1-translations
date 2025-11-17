@@ -1034,5 +1034,5 @@ translate deutsch sm1cs_dc008_b12cc4d7:
 translate deutsch sm1cs_dc008_a037dc10:
 
     # dc "Thanks, [mcname]. I like your outfit too."
-    dc "Thanks, [mcname]. I like your outfit too."
+    dc "Danke, [mcname]. Mir gefällt dein Outfit auch."
 
