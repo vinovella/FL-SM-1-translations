@@ -1520,7 +1520,7 @@ translate turkish sm1ms029_party_end_13a8f8fd:
 translate turkish sm1ms029_party_end_0e7057f6:
 
     # arj "I was actually thinking... or, wondering, if I could take you and [mcname] up on the offer to spend the night here."
-    arj "Aslında düşünüyordum... ya da, merak ediyordum, burada geceyi geçirme teklifinizi kabul edebilir miyim diye."
+    arj "Aslında düşünüyordum... ya da, merak ediyordum, senin ve [mcname]'in burada geceyi geçirme teklifinizi kabul edebilir miyim diye."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2415
 translate turkish sm1ms029_party_end_be07bbfb:
