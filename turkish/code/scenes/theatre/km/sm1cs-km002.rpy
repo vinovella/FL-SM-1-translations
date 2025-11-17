@@ -466,5 +466,5 @@ translate turkish strings:
 translate turkish sm1cs_km002_complement_km_5e3be15b:
 
     # km "[mcname], are you still interested in learning to be a better actor?"
-    km "[mcname], are you still interested in learning to be a better actor?"
+    km "[mcname], daha iyi bir aktör olmayı öğrenmekle hala ilgileniyor musun?"
 

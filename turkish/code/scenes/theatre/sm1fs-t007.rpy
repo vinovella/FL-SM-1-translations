@@ -1162,5 +1162,5 @@ translate turkish strings:
 translate turkish sm1fs_t007_47fafcd6:
 
     # km "Yes, ma'am!"
-    km "Yes, ma'am!"
+    km "Evet, hanımefendi!"
 

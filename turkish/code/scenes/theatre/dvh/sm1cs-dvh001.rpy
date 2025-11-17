@@ -516,11 +516,11 @@ translate turkish strings:
 translate turkish sm1cs_dvh001_5264a337:
 
     # dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
-    dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
+    dvh "Birazdan sahneye döneceğim. Sadece biraz derin nefes almam gerekiyor."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:213
 translate turkish sm1cs_dvh001_169f969d:
 
     # dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
-    dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
+    dvh "Sende potansiyel görüyorum. Ama sadece başka bir Bram olmadığını görene kadar, sana fazladan zaman harcamayacağım."
 
