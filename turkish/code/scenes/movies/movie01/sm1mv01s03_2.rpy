@@ -14,7 +14,7 @@ translate turkish sm1mv01s03_2_44567750:
 translate turkish sm1mv01s03_2_150bc008:
 
     # tl "Oh. Hey, [mcname]."
-    tl "Oh. Hey, [mcname]."
+    tl "Oh. Selam, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:35
 translate turkish sm1mv01s03_2_37b166cd:
@@ -434,7 +434,7 @@ translate turkish sm1mv01s03_2_e261c06c:
 translate turkish sm1mv01s03_2_b46c8996:
 
     # tl "Hey, Stacy."
-    tl "Hey, Stacy."
+    tl "Selam, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:233
 translate turkish sm1mv01s03_2_94112e5e:
@@ -732,7 +732,7 @@ translate turkish sm1mv01s03_2_d6109b0d:
 translate turkish sm1mv01s03_2_716019b8:
 
     # mc "Right."
-    mc "Right."
+    mc "Doğru."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:399
 translate turkish sm1mv01s03_2_8b57ff02:
@@ -1158,7 +1158,7 @@ translate turkish sm1mv01s03_2_later_on_4e9e4b94:
 translate turkish sm1mv01s03_2_later_on_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Ne?"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:642
 translate turkish sm1mv01s03_2_later_on_69009883:
@@ -1428,7 +1428,7 @@ translate turkish sm1mv01s03_2_tl_costume_babcca26:
 translate turkish sm1mv01s03_2_tl_costume_716019b8:
 
     # mc "Right."
-    mc "Right."
+    mc "Doğru."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:788
 translate turkish sm1mv01s03_2_tl_costume_c95cb708:
