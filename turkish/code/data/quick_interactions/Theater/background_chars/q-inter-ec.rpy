@@ -194,5 +194,5 @@ translate turkish q_inter_ec_7_bc229872:
 translate turkish q_inter_ec_1_7a965d97:
 
     # ec "Well she works a lot better with a good coffee."
-    ec "Well she works a lot better with a good coffee."
+    ec "İyi bir kahve ile çok daha iyi çalışıyor."
 

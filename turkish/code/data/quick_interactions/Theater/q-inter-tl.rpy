@@ -536,43 +536,43 @@ translate turkish q_inter_tl_21_c1dff962:
 translate turkish q_inter_tl_5_2a8059e7:
 
     # tl "If I get 8 hours at the other job... And I save, what, half of that paycheck..."
-    tl "If I get 8 hours at the other job... And I save, what, half of that paycheck..."
+    tl "Diğer işte 8 saat çalışırsam... Ve maaşın yarısını biriktirirsem..."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:147
 translate turkish q_inter_tl_11_687943e7:
 
     # tl "Don't know. But I'm not surprised."
-    tl "Don't know. But I'm not surprised."
+    tl "Bilmiyorum. Ama şaşırmadım."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:244
 translate turkish q_inter_tl_17_543cc186:
 
     # mc "Huh, I never thought about it like that."
-    mc "Huh, I never thought about it like that."
+    mc "Ha, hiç böyle düşünmemiştim."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:300
 translate turkish q_inter_tl_22_b8de97c5:
 
     # tl "I've lived in a lot of different places in my life."
-    tl "I've lived in a lot of different places in my life."
+    tl "Hayatım boyunca birçok farklı yerde yaşadım."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:301
 translate turkish q_inter_tl_22_9779ebe5:
 
     # mc "Where does this rank?"
-    mc "Where does this rank?"
+    mc "Burası kaçıncı sırada?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:304
 translate turkish q_inter_tl_22_2a6567e4:
 
     # tl "Definitely top ten. I once stayed in a cartel leader's mansion."
-    tl "Definitely top ten. I once stayed in a cartel leader's mansion."
+    tl "Kesinlikle ilk onda. Bir keresinde bir kartel liderinin konağında kalmıştım."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:305
 translate turkish q_inter_tl_22_318299da:
 
     # tl "Great food and maid service."
-    tl "Great food and maid service."
+    tl "Harika yemekler ve hizmetçi servisi vardı."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:311
 translate turkish q_inter_tl_23_7cadc6a5:
@@ -584,55 +584,55 @@ translate turkish q_inter_tl_23_7cadc6a5:
 translate turkish q_inter_tl_23_3ee32121:
 
     # mc "You good?"
-    mc "You good?"
+    mc "İyi misin?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:313
 translate turkish q_inter_tl_23_1d988ea3:
 
     # tl "Yeah. Just caught the perfect draft."
-    tl "Yeah. Just caught the perfect draft."
+    tl "Evet. Tam mükemmel bir esinti geldi."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:314
 translate turkish q_inter_tl_23_cdd14d57:
 
     # tl "Made my nipples buzz. Haha."
-    tl "Made my nipples buzz. Haha."
+    tl "Meme uçlarımı ürpertti. Haha."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:319
 translate turkish q_inter_tl_24_e256e6d7:
 
     # tl "I'm glad you're not some square or suit working for the Man, [mcname]."
-    tl "I'm glad you're not some square or suit working for the Man, [mcname]."
+    tl "Sistemin bir parçası olan esnaf biri olmadığına sevindim, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:320
 translate turkish q_inter_tl_24_f4b470ca:
 
     # mc "Thanks?"
-    mc "Thanks?"
+    mc "Teşekkürler?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:321
 translate turkish q_inter_tl_24_316e0f01:
 
     # tl "It takes big balls to stay independent these days."
-    tl "It takes big balls to stay independent these days."
+    tl "Bugünlerde bağımsız kalmak büyük cesaret ister."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:327
 translate turkish q_inter_tl_25_06b9e6a6:
 
     # tl "Who was that guy at the Studio party?"
-    tl "Who was that guy at the Studio party?"
+    tl "Stüdyo partisindeki o adam kimdi?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:328
 translate turkish q_inter_tl_25_91c18cf9:
 
     # mc "Just some asshole?"
-    mc "Just some asshole?"
+    mc "Sadece bir pislik?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:329
 translate turkish q_inter_tl_25_3304e74e:
 
     # tl "Want me to fuck up his car with a butterfly knife?"
-    tl "Want me to fuck up his car with a butterfly knife?"
+    tl "Kelebek bıçağımla arabasını mahvetmemi ister misin?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:330
 translate turkish q_inter_tl_25_2b35b6fe:
@@ -644,55 +644,55 @@ translate turkish q_inter_tl_25_2b35b6fe:
 translate turkish q_inter_tl_25_fca52711:
 
     # mc "No."
-    mc "No."
+    mc "Hayır."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:332
 translate turkish q_inter_tl_25_7c1576dc:
 
     # tl "No as in like 'No'?"
-    tl "No as in like 'No'?"
+    tl "Hayır derken gerçekten 'Hayır' mı?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:333
 translate turkish q_inter_tl_25_b6a99958:
 
     # mc "No as in N. O. Taisia."
-    mc "No as in N. O. Taisia."
+    mc "Hayır derken H. A. Y. I. R. Taisia."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:336
 translate turkish q_inter_tl_25_4e239b13:
 
     # tl "Fine fine."
-    tl "Fine fine."
+    tl "Tamam tamam."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:341
 translate turkish q_inter_tl_26_ee162e8e:
 
     # tl "You're in now, [mcname]."
-    tl "You're in now, [mcname]."
+    tl "Artık içerisin, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:342
 translate turkish q_inter_tl_26_af44dddb:
 
     # tl "Try not to blow it."
-    tl "Try not to blow it."
+    tl "Batırmamaya çalış."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:347
 translate turkish q_inter_tl_27_f8a8af5a:
 
     # tl "I'll admit, I bet Kai twenty bucks that you wouldn't make it to be a full actor here."
-    tl "I'll admit, I bet Kai twenty bucks that you wouldn't make it to be a full actor here."
+    tl "İtiraf edeyim, Kai ile burada tam bir aktör olamayacağına dair yirmi dolar bahse girdim."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:348
 translate turkish q_inter_tl_27_88816c0b:
 
     # mc "You're the one who brought me in."
-    mc "You're the one who brought me in."
+    mc "Beni buraya getiren sendin."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:351
 translate turkish q_inter_tl_27_586c405a:
 
     # tl "Were you listening? I'm out twenty bucks because of you."
-    tl "Were you listening? I'm out twenty bucks because of you."
+    tl "Dinliyor muydun? Senin yüzünden yirmi dolar kaybettim."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:352
 translate turkish q_inter_tl_27_eadd5e5f:

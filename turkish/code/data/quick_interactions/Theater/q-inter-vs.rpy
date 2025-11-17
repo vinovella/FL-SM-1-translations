@@ -242,65 +242,65 @@ translate turkish q_inter_vs_11_cd1b3d42:
 translate turkish q_inter_vs_4_0ac7542c:
 
     # vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
-    vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
+    vs "Merhaba, [mcname]. Umarım tiyatroda geçirdiğin zamanın tadını çıkarıyorsundur."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:74
 translate turkish q_inter_vs_5_26a5f019:
 
     # vs "I really hope you impress Denise the next time you get to audition, [mcname]."
-    vs "I really hope you impress Denise the next time you get to audition, [mcname]."
+    vs "Bir dahaki sefer seçmelere girdiğinde Denise'i etkileyeceğini umuyorum, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:92
 translate turkish q_inter_vs_7_2acf4fd6:
 
     # vs "*whispers* Hey [mcname]."
-    vs "*whispers* Hey [mcname]."
+    vs "*fısıldar* Hey [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:95
 translate turkish q_inter_vs_7_305758d8:
 
     # vs "*whispers* Because it's fun, and because you want to keep talk about FL on the downlow right?"
-    vs "*whispers* Because it's fun, and because you want to keep talk about FL on the downlow right?"
+    vs "*fısıldar* Çünkü eğlenceli ve FL hakkında konuşmaları sessiz tutmak istiyorsun değil mi?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:157
 translate turkish q_inter_vs_12_fbd78eaa:
 
     # vs "Yay, [mcname]! You're finally one of the real actors."
-    vs "Yay, [mcname]! You're finally one of the real actors."
+    vs "Yaşasın, [mcname]! Sonunda gerçek aktörlerden biri oldun."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:158
 translate turkish q_inter_vs_12_40ecebb6:
 
     # vs "You don't have to feel ashamed of being a stagehand any longer."
-    vs "You don't have to feel ashamed of being a stagehand any longer."
+    vs "Artık sahne arkası görevlisi olmaktan utanmana gerek yok."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:159
 translate turkish q_inter_vs_12_6d495a60:
 
     # mc "I was never ashamed of that."
-    mc "I was never ashamed of that."
+    mc "Bundan hiç utanmadım."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:162
 translate turkish q_inter_vs_12_8576433e:
 
     # vs "Oh?"
-    vs "Oh?"
+    vs "Öyle mi?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:163
 translate turkish q_inter_vs_12_a24c393b:
 
     # vs "Why not?"
-    vs "Why not?"
+    vs "Neden?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:170
 translate turkish q_inter_vs_13_7c4f4e75:
 
     # vs "The most important thing about being a true actor is to not panic."
-    vs "The most important thing about being a true actor is to not panic."
+    vs "Gerçek bir aktör olmanın en önemli yanı panik yapmamaktır."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:171
 translate turkish q_inter_vs_13_db875d9f:
 
     # vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
-    vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
+    vs "Bir de repliklerini hatırlamalısın. Denise bunun da oldukça önemli olduğunu söylüyor."
 
