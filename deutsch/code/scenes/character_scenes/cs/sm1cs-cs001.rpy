@@ -200,5 +200,5 @@ translate deutsch sm1cs_cs001_24cdc073:
 translate deutsch sm1cs_cs001_0b11eff4:
 
     # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
-    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+    mc "Ja, ja. Ich nehme einen Dark Roast Kaffee und einen..."
 
