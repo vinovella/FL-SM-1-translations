@@ -590,25 +590,25 @@ translate turkish sm1ms021_f93fec35:
 translate turkish sm1ms021_ceba888b:
 
     # sy "This space... it's not just a studio anymore. It's starting to feel like our dream is finally taking shape."
-    sy "Bu mekan... artık sadece bir stüdyo değil. Hayalimizin sonunda şekillenmeye başladığı hissettiriyor."
+    sy "Bu mekan... artık sadece bir stüdyo değil. Hayalimiz nihayet şekillenmeye başlıyor gibi hissettiriyor."
 
 # game/code/scenes/main_story/sm1ms021.rpy:107
 translate turkish sm1ms021_cedf59a8:
 
     # sy "Same here. I mean, you're the one who kept me sane through all of this."
-    sy "Ben de öyle. Yani, tüm bunlar boyunca beni aklı başında tutan sensin."
+    sy "Bende de aynısı. Yani, tüm bunlar boyunca aklımı başımda tutan sensin."
 
 # game/code/scenes/main_story/sm1ms021.rpy:112
 translate turkish sm1ms021_1092c087:
 
     # sy "And with Mom around, it's been just a little bit more hectic."
-    sy "Ve anne etrafta olduğunda, biraz daha hareketli oldu."
+    sy "Ve annem etraftayken, biraz daha hareketli oldu."
 
 # game/code/scenes/main_story/sm1ms021.rpy:217
 translate turkish sm1ms021_532bc35f:
 
     # sy "I guess so long as the check clears, I'm not complaining."
-    sy "Sanırım çek temizlendiği sürece şikayet etmiyorum."
+    sy "Sanırım çek geçerli olduğu sürece şikayet etmiyorum."
 
 # game/code/scenes/main_story/sm1ms021.rpy:218
 translate turkish sm1ms021_2aa31d72:

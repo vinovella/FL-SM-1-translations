@@ -884,7 +884,7 @@ translate turkish sm1ms015_23dee611:
 translate turkish sm1ms015_4211e622:
 
     # mc "Everything okay, Mom?"
-    mc "Her şey yolunda mı, Anne?"
+    mc "Her şey yolunda mı, anne?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:157
 translate turkish sm1ms015_d989617b:
@@ -896,11 +896,11 @@ translate turkish sm1ms015_d989617b:
 translate turkish sm1ms015_fdab53eb:
 
     # ns "And I'm delighted to meet you too, Ms. Melony."
-    ns "Ve sizinle tanıştığım için çok mutluyum, Bayan Melony."
+    ns "Ben de sizinle tanışmaktan çok memnunum, Bayan Melony."
 
 # game/code/scenes/main_story/sm1ms015.rpy:381
 translate turkish sm1ms015_23fb47ba:
 
     # sy "Haha. He's got you there, Mom."
-    sy "Haha. Bu konuda haklı, Anne."
+    sy "Haha. Seni yakaladı, anne."
 
