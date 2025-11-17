@@ -1952,65 +1952,65 @@ translate turkish strings:
 translate turkish sm1cs_cw004_onramp_d4bfa7e3:
 
     # mc "I will help you Claire."
-    mc "I will help you Claire."
+    mc "Sana yardım edeceğim Claire."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:123
 translate turkish sm1cs_cw004_onramp_ae9263f5:
 
     # mc "As long as you think this is a good idea."
-    mc "As long as you think this is a good idea."
+    mc "Bunun iyi bir fikir olduğunu düşündüğün sürece."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:126
 translate turkish sm1cs_cw004_onramp_753a8f9e:
 
     # cw "Thank you, [mcname]. I mean..."
-    cw "Thank you, [mcname]. I mean..."
+    cw "Teşekkür ederim, [mcname]. Yani..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:129
 translate turkish sm1cs_cw004_onramp_add432cd:
 
     # cw "*ahem* Mr. Young."
-    cw "*ahem* Mr. Young."
+    cw "*öhöm* Bay Young."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:130
 translate turkish sm1cs_cw004_onramp_6f8832f9:
 
     # cw "And I'm sure it will be fine. We're both capable."
-    cw "And I'm sure it will be fine. We're both capable."
+    cw "Ve eminim iyi olacak. İkimiz de becerikli insanlarız."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:134
 translate turkish sm1cs_cw004_onramp_14b1d440:
 
     # cw "I will text you instructions tomorrow morning."
-    cw "I will text you instructions tomorrow morning."
+    cw "Yarın sabah sana talimatları mesajla göndereceğim."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:135
 translate turkish sm1cs_cw004_onramp_2a3fe990:
 
     # cw "And for the love of god, don't be late."
-    cw "And for the love of god, don't be late."
+    cw "Ve Tanrı aşkına, geç kalma."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:540
 translate turkish sm1cs_cw004_later_6251a886:
 
     # cw "How is he, Daddy?"
-    cw "How is he, Daddy?"
+    cw "O nasıl, Baba?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:674
 translate turkish sm1cs_cw004_first_evening_7d3aec05:
 
     # fw "Farah please, [mcname]."
-    fw "Farah please, [mcname]."
+    fw "Lütfen Farah de, [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:900
 translate turkish sm1cs_cw004_first_evening_19a0c527:
 
     # cw "*whispers* Stop resisting."
-    cw "*whispers* Stop resisting."
+    cw "*fısıldar* Direnmekten vazgeç."
 
 translate turkish strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
     old "Sure let's do it"
-    new "Sure let's do it"
+    new "Elbette yapalım"
 

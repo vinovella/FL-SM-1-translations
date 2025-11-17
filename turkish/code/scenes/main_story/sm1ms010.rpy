@@ -1186,17 +1186,17 @@ translate turkish strings:
 
     # game/code/scenes/main_story/sm1ms010.rpy:106
     old "Yeah, me too"
-    new "Yeah, me too"
+    new "Evet, ben de"
 
     # game/code/scenes/main_story/sm1ms010.rpy:189
     old "She's doing fine"
-    new "She's doing fine"
+    new "İyi gidiyor"
 
     # game/code/scenes/main_story/sm1ms010.rpy:338
     old "Kiss her again and continue"
-    new "Kiss her again and continue"
+    new "Onu tekrar öp ve devam et"
 
     # game/code/scenes/main_story/sm1ms010.rpy:338
     old "Stop things from going further"
-    new "Stop things from going further"
+    new "İşlerin daha da ilerlemesini durdur"
 

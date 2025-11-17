@@ -368,7 +368,7 @@ translate turkish sm1mv01s02_2be0be4a:
 translate turkish sm1mv01s02_b180829a:
 
     # mc "Bingo."
-    mc "Bingo."
+    mc "Tamam."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:210
 translate turkish sm1mv01s02_6e1c673b:
@@ -542,7 +542,7 @@ translate turkish sm1mv01s02_8650abbe:
 translate turkish sm1mv01s02_af4bd44f:
 
     # sy "Ta-dah!"
-    sy "Ta-dah!"
+    sy "İşte!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:287
 translate turkish sm1mv01s02_bcff9820:
@@ -1022,7 +1022,7 @@ translate turkish sm1mv01s02_later_f60e7509:
 translate turkish sm1mv01s02_later_59e7b700:
 
     # sy "Woah."
-    sy "Woah."
+    sy "Vay be."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:537
 translate turkish sm1mv01s02_later_d883f784:
@@ -1724,7 +1724,7 @@ translate turkish sm1mv01s02_later_b2cbc7b2:
 translate turkish sm1mv01s02_later_7765b292:
 
     # mc "*gulp*"
-    mc "*gulp*"
+    mc "*yutkunur*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:881
 translate turkish sm1mv01s02_later_164ecf31:
@@ -1748,7 +1748,7 @@ translate turkish sm1mv01s02_later_fa158adf:
 translate turkish sm1mv01s02_later_c23b85e7:
 
     # kv "Come on, [mcname]."
-    kv "Come on, [mcname]."
+    kv "Hadi, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:895
 translate turkish sm1mv01s02_later_c00afa54:
@@ -1844,7 +1844,7 @@ translate turkish sm1mv01s02_later_87c7a278:
 translate turkish sm1mv01s02_later_dff79cab:
 
     # mc "You're right."
-    mc "You're right."
+    mc "Haklısın."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:939
 translate turkish sm1mv01s02_later_02eaa174:
@@ -1856,7 +1856,7 @@ translate turkish sm1mv01s02_later_02eaa174:
 translate turkish sm1mv01s02_later_6a028b65:
 
     # kv "Thanks."
-    kv "Thanks."
+    kv "Teşekkürler."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:944
 translate turkish sm1mv01s02_later_a05cd929:
@@ -1940,7 +1940,7 @@ translate turkish sm1mv01s02_walkout_08e04b18:
 translate turkish sm1mv01s02_walkout_531bfbf1:
 
     # sy "Sure."
-    sy "Sure."
+    sy "Tabii."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:998
 translate turkish sm1mv01s02_walkout_f8c4c766:

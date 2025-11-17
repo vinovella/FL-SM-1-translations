@@ -2016,5 +2016,5 @@ translate turkish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:439
     old "The people close to me are happy about it"
-    new "The people close to me are happy about it"
+    new "Bana yakın olan insanlar bundan mutlular"
 

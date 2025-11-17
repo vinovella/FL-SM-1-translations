@@ -890,7 +890,7 @@ translate turkish sm1ms015_4211e622:
 translate turkish sm1ms015_d989617b:
 
     # cw "Never mind."
-    cw "Never mind."
+    cw "Boşver."
 
 # game/code/scenes/main_story/sm1ms015.rpy:246
 translate turkish sm1ms015_fdab53eb:

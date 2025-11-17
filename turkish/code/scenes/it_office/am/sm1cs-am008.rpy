@@ -1275,31 +1275,31 @@ translate turkish sm1cs_am008_continue_cc27a1f7:
 translate turkish sm1cs_am008_continue_7d0b2798:
 
     # mct "Mmmm. She wants to give it to me."
-    mct "Mmmm. She wants to give it to me."
+    mct "Mmmm. Bana vermek istiyor."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:691
 translate turkish sm1cs_am008_continue_6c10da70:
 
     # mct "But she wants me to act a certain way."
-    mct "But she wants me to act a certain way."
+    mct "Ama benim belirli bir şekilde davranmamı istiyor."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:692
 translate turkish sm1cs_am008_continue_f6af85da:
 
     # mct "Like in the car."
-    mct "Like in the car."
+    mct "Arabadaki gibi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:696
 translate turkish sm1cs_am008_continue_09dd313d:
 
     # mc "April, if you want to be a good girl, you'll give me what you have."
-    mc "April, if you want to be a good girl, you'll give me what you have."
+    mc "April, eğer iyi bir kız olmak istiyorsan, elindekini bana vereceksin."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:700
 translate turkish sm1cs_am008_continue_4fe09405:
 
     # am "*sighs and shivers*"
-    am "*sighs and shivers*"
+    am "*iç çeker ve titrer*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:707
 translate turkish sm1cs_am008_continue_954c80a5_1:
@@ -1311,55 +1311,55 @@ translate turkish sm1cs_am008_continue_954c80a5_1:
 translate turkish sm1cs_am008_continue_37b6c54f:
 
     # mc "Too tight?"
-    mc "Too tight?"
+    mc "Çok mu sıkı?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:713
 translate turkish sm1cs_am008_continue_4c674b25:
 
     # am "No. It's just right."
-    am "No. It's just right."
+    am "Hayır. Tam olarak doğru."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:718
 translate turkish sm1cs_am008_continue_82e39d08:
 
     # am "You can... ummm."
-    am "You can... ummm."
+    am "Sen... ummm."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:721
 translate turkish sm1cs_am008_continue_da4e06e6:
 
     # mc "Don't be nervous."
-    mc "Don't be nervous."
+    mc "Gergin olma."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:725
 translate turkish sm1cs_am008_continue_4b3dda1d:
 
     # am "Can we try some pet play?"
-    am "Can we try some pet play?"
+    am "Evcil hayvan oyunu deneyebilir miyiz?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:726
 translate turkish sm1cs_am008_continue_a43870fb:
 
     # am "You calling me a {b}good girl{/b}. Your sexy puppy?"
-    am "You calling me a {b}good girl{/b}. Your sexy puppy?"
+    am "Bana {b}iyi kız{/b} demen. Senin seksi köpeciğin?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:730
 translate turkish sm1cs_am008_continue_fb3ff880:
 
     # am "Ah forget it."
-    am "Ah forget it."
+    am "Ah unut gitsin."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:731
 translate turkish sm1cs_am008_continue_a7e4fe62:
 
     # am "It would be too much."
-    am "It would be too much."
+    am "Çok fazla olurdu."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:738
 translate turkish sm1cs_am008_continue_0255d6bf:
 
     # mc "If you're okay with it, so am I."
-    mc "If you're okay with it, so am I."
+    mc "Eğer sen uygunsan, ben de uygunum."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:743
 translate turkish sm1cs_am008_continue_001426f0:
@@ -1371,25 +1371,25 @@ translate turkish sm1cs_am008_continue_001426f0:
 translate turkish sm1cs_am008_continue_68730b1e:
 
     # mc "Sabre is your safe word right?"
-    mc "Sabre is your safe word right?"
+    mc "Kılıç senin güvenli kelimen, değil mi?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:750
 translate turkish sm1cs_am008_continue_1b337ef4:
 
     # am "You remembered."
-    am "You remembered."
+    am "Hatırladın."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:754
 translate turkish sm1cs_am008_continue_d207a461:
 
     # mc "Safety first."
-    mc "Safety first."
+    mc "Güvenlik önce."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:758
 translate turkish sm1cs_am008_continue_8fc205e9:
 
     # am "Except for cumming in me."
-    am "Except for cumming in me."
+    am "İçime boşalman dışında."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:761
 translate turkish sm1cs_am008_continue_96dc08cf:

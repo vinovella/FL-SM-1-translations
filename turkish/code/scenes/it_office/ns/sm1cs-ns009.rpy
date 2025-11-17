@@ -1322,7 +1322,7 @@ translate turkish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:376
     old "Finger Nari some more"
-    new "Parmak Nari biraz daha"
+    new "Nari'yi biraz daha parmakla"
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:376
     old "Eat out Nari"
@@ -1334,7 +1334,7 @@ translate turkish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:647
     old "Pronebone Nari"
-    new "Pronebone Nari"
+    new "Nari'yi yüzüstü sik"
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
 translate turkish sm1cs_ns009_sex_continue_78168329:
@@ -1346,11 +1346,11 @@ translate turkish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
     old "Dominate Nari"
-    new "Dominate Nari"
+    new "Nari'ye hakim ol"
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
     old "Don't dominate Nari"
-    new "Don't dominate Nari"
+    new "Nari'ye hakim olma"
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
 translate turkish sm1cs_ns009_f37a2921:

@@ -586,17 +586,17 @@ translate turkish strings:
 translate turkish sm1cs_ns001_1c682e14:
 
     # ag "Of course. The office has its own cafeteria."
-    ag "Of course. The office has its own cafeteria."
+    ag "Elbette. Ofisin kendi kafeteryası var."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
 translate turkish sm1cs_ns001_continue_e2b53835:
 
     # mct "He shoots."
-    mct "He shoots."
+    mct "Atış yapıyor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
 translate turkish sm1cs_ns001_continue_aa4b7c7c:
 
     # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
-    ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
+    ns "Daha sonra, işimden gerçekten etkilenmiş olması gerektiğini fark ettim çünkü bana soda isteyip istemediğimi sordu."
 

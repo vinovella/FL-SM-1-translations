@@ -1688,13 +1688,13 @@ translate turkish strings:
 translate turkish sm1cs_am004_sex_ce4eb6af:
 
     # mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
-    mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
+    mc "Dinle, senin amacının her zaman bana karşı kötü davranmak olduğunu biliyorum, ama penisimin ısırılıp koparılmasını istemiyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:987
 translate turkish sm1cs_am004_after_spank_94b939c6:
 
     # mc "Come on. You know the {b}word{/b} I'm waiting for."
-    mc "Come on. You know the {b}word{/b} I'm waiting for."
+    mc "Hadi. Beklediğim {b}kelimeyi{/b} biliyorsun."
 
 translate turkish strings:
 

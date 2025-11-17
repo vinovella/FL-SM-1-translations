@@ -526,27 +526,27 @@ translate turkish strings:
 translate turkish sm1cs_km001_b55f6d50:
 
     # mct "Why is she snooping?"
-    mct "Why is she snooping?"
+    mct "Neden burnunu sokuyor?"
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:116
 translate turkish sm1cs_km001_7262d936:
 
     # km "Unless you're afraid to lose to a girl."
-    km "Unless you're afraid to lose to a girl."
+    km "Bir kıza kaybetmekten korkmuyorsan tabii."
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:240
 translate turkish sm1cs_km001_7ca99b3a:
 
     # km "Hmmm. Not bad for an amateur."
-    km "Hmmm. Not bad for an amateur."
+    km "Hmmm. Bir amatör için fena değil."
 
 translate turkish strings:
 
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
     old "I'll go easy on you"
-    new "I'll go easy on you"
+    new "Sana karşı nazik olacağım"
 
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
     old "Let's dance, Kellie"
-    new "Let's dance, Kellie"
+    new "Hadi dans edelim, Kellie"
 

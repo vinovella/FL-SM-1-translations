@@ -230,15 +230,15 @@ translate turkish sm1cs_cw002_8f39dca1:
 translate turkish sm1cs_cw002_e0bf352d:
 
     # mc "Of course. I won't let you down, Ms. Watts."
-    mc "Of course. I won't let you down, Ms. Watts."
+    mc "Elbette. Sizi hayal kırıklığına uğratmayacağım, Bayan Watts."
 
 translate turkish strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I like it"
-    new "I like it"
+    new "Beğendim"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I don't like it"
-    new "I don't like it"
+    new "Beğenmedim"
 

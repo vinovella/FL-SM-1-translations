@@ -1000,7 +1000,7 @@ translate turkish sm1cs_am005_d267eb2f:
 translate turkish sm1cs_am005_71f06d2b:
 
     # mc "Hey, April."
-    mc "Hey, April."
+    mc "Selam, April."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:77
 translate turkish sm1cs_am005_hours_later_e90fce66:

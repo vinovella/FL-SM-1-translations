@@ -744,7 +744,7 @@ translate turkish strings:
 translate turkish sm1cs_am003_71f06d2b:
 
     # mc "Hey, April."
-    mc "Hey, April."
+    mc "Selam, April."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:42
 translate turkish sm1cs_am003_9f59f0f4:

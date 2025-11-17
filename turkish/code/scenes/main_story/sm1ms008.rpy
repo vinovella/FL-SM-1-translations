@@ -924,9 +924,9 @@ translate turkish strings:
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "You should stick with red hair"
-    new "You should stick with red hair"
+    new "Kırmızı saçta kalmalısın"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I think it will do nicely for the scene"
-    new "I think it will do nicely for the scene"
+    new "Bence sahne için çok uygun olacak"
 

@@ -74,7 +74,7 @@ translate turkish sm1mv02s02_02i_04380dee:
 translate turkish sm1mv02s02_02i_e38629db:
 
     # mh "Hehehehehehe."
-    mh "Hehehehehehe."
+    mh "Hihihihihi."
 
 # game/code/scenes/movies/movie02/sm1mv02s02_02i.rpy:37
 translate turkish sm1mv02s02_02i_a42fff79:

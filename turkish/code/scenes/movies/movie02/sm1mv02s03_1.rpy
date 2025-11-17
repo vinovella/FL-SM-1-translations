@@ -332,7 +332,7 @@ translate turkish sm1mv02s03_1_f5ec359b:
 translate turkish sm1mv02s03_1_10b8073b:
 
     # sy "Me too!"
-    sy "Me too!"
+    sy "Ben de!"
 
 # game/code/scenes/movies/movie02/sm1mv02s03_1.rpy:241
 translate turkish sm1mv02s03_1_ce75a466:
@@ -380,7 +380,7 @@ translate turkish sm1mv02s03_1_2066acc4:
 translate turkish sm1mv02s03_1_10b8073b_1:
 
     # sy "Me too!"
-    sy "Me too!"
+    sy "Ben de!"
 
 # game/code/scenes/movies/movie02/sm1mv02s03_1.rpy:265
 translate turkish sm1mv02s03_1_2fa14957:
@@ -446,7 +446,7 @@ translate turkish sm1mv02s03_1_90650119:
 translate turkish sm1mv02s03_1_fa3ab68b:
 
     # mc "Nah..."
-    mc "Nah..."
+    mc "Yok..."
 
 # game/code/scenes/movies/movie02/sm1mv02s03_1.rpy:306
 translate turkish sm1mv02s03_1_3f0a0aa7:

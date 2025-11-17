@@ -806,7 +806,7 @@ translate turkish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "I don't need to know"
-    new "I don't need to know"
+    new "Bilmeme gerek yok"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
 translate turkish sm1cs_ns002_bc4ba015:

@@ -2,7 +2,7 @@
 translate chinese sm1mv02s09_5423faba:
 
     # mct "All right, today's the day. The big finale... final stretch."
-    mct "好了，就是今天了。这场盛大的结局…… 最后的冲刺阶段。"
+    mct "好了，就是今天了。这场盛大的结局... 最后的冲刺阶段。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:88
 translate chinese sm1mv02s09_416ebd37:
@@ -224,7 +224,7 @@ translate chinese sm1mv02s09_5d8383f2:
 translate chinese sm1mv02s09_f267d924:
 
     # sy "Wonderful, places, places...{w} and...{w} action!"
-    sy "太棒了，各就各位，各就各位……{w}好……{w}开始！"
+    sy "太棒了，各就各位，各就各位...{w}好...{w}开始！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:259
 translate chinese sm1mv02s09_movie_80fe8f1e:
@@ -380,7 +380,7 @@ translate chinese sm1mv02s09_movie_137e9508:
 translate chinese sm1mv02s09_movie_fa6b8ba3:
 
     # mc "Uhhh, Vel... how much more time do you need?"
-    mc "呃，维尔…… 你还需要多长时间？"
+    mc "呃，维尔... 你还需要多长时间？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:425
 translate chinese sm1mv02s09_movie_4f273b99:
@@ -482,7 +482,7 @@ translate chinese sm1mv02s09_movie_447443c4:
 translate chinese sm1mv02s09_movie_8a71592f:
 
     # "Kasaru Warrior" "Ha, what, what do you... oh..."
-    "卡萨鲁勇士" "哈，什么，你…… 哦..."
+    "卡萨鲁勇士" "哈，什么，你... 哦..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:513
 translate chinese sm1mv02s09_movie_5cfdbad7:
@@ -590,7 +590,7 @@ translate chinese sm1mv02s09_movie_404c8b84:
 translate chinese sm1mv02s09_movie_c6e829f5:
 
     # kv "You... you've beat me..."
-    kv "你…… 你打败我了..."
+    kv "你... 你打败我了..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:616
 translate chinese sm1mv02s09_movie_f4444901:
@@ -626,7 +626,7 @@ translate chinese sm1mv02s09_movie_3f0a2727:
 translate chinese sm1mv02s09_movie_ff734e33:
 
     # mc "Uhm... what should we do?"
-    mc "呃…… 我们该怎么办？"
+    mc "呃... 我们该怎么办？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:634
 translate chinese sm1mv02s09_movie_94d239bd:
@@ -656,7 +656,7 @@ translate chinese sm1mv02s09_movie_6e1c3a07:
 translate chinese sm1mv02s09_movie_2004f9c3:
 
     # ns "I did not realize that we might discuss not engaging in the sacred rite... so I prepared myself."
-    ns "我刚才还以为我们根本不会讨论拒绝这个神圣仪式的可能性呢…… 所以我已经做好准备了。"
+    ns "我刚才还以为我们根本不会讨论拒绝这个神圣仪式的可能性呢... 所以我已经做好准备了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:651
 translate chinese sm1mv02s09_movie_0e2002b3:
@@ -680,7 +680,7 @@ translate chinese sm1mv02s09_movie_39056828:
 translate chinese sm1mv02s09_movie_4f92aaf0:
 
     # kv "And now... take me!"
-    kv "现在……占有我吧！"
+    kv "现在...占有我吧！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:696
 translate chinese sm1mv02s09_movie_c2ea84bb:
@@ -734,7 +734,7 @@ translate chinese sm1mv02s09_movie_5b875543:
 translate chinese sm1mv02s09_movie_30de99a1:
 
     # mhmes "The Kasaru are - mmmmm - known for having additional muscles in their mouth."
-    mhmes "卡萨鲁族……嗯嗯……以口腔内长有特殊肌肉群而闻名。"
+    mhmes "卡萨鲁族...嗯嗯...以口腔内长有特殊肌肉群而闻名。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:718
 translate chinese sm1mv02s09_movie_6b4d2a84:
@@ -788,7 +788,7 @@ translate chinese sm1mv02s09_movie_ac35a529:
 translate chinese sm1mv02s09_movie_83074f11:
 
     # mhmes "Mmmmmm... are you complaining?"
-    mhmes "嗯嗯嗯……你是在抱怨吗？"
+    mhmes "嗯嗯嗯...你是在抱怨吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:747
 translate chinese sm1mv02s09_movie_f29c425d:
@@ -824,7 +824,7 @@ translate chinese sm1mv02s09_movie_fee599f2:
 translate chinese sm1mv02s09_movie_018158e9:
 
     # kv "Gllllck, slrrrrrp, sllllllrrrrrp, glllck!"
-    kv "咕噗，嘶溜嘶溜，嘶溜……咕噜！"
+    kv "咕噗，嘶溜嘶溜，嘶溜...咕噜！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:765
 translate chinese sm1mv02s09_movie_9b5c5619:
@@ -848,7 +848,7 @@ translate chinese sm1mv02s09_movie_db48f35a:
 translate chinese sm1mv02s09_movie_1d74460a:
 
     # mc "Mmmmmmm, give me a second."
-    mc "嗯……稍等一下。"
+    mc "嗯...稍等一下。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:784
 translate chinese sm1mv02s09_movie_994346d2:
@@ -932,7 +932,7 @@ translate chinese sm1mv02s09_movie_1e7e7ecd:
 translate chinese sm1mv02s09_movie_5d3ba5b3:
 
     # kv "Slrrrp, slrp, slrrrrrrrrp!"
-    kv "吸溜……，吸溜，吸溜--！"
+    kv "吸溜...，吸溜，吸溜--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:831
 translate chinese sm1mv02s09_movie_23238a22:
@@ -944,19 +944,19 @@ translate chinese sm1mv02s09_movie_23238a22:
 translate chinese sm1mv02s09_movie_29a34f7c:
 
     # kv "Lccck, lcccccccck, slllrrrrrrrpppp!"
-    kv "啧啧啧……嘶溜嘶溜！"
+    kv "啧啧啧...嘶溜嘶溜！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:833
 translate chinese sm1mv02s09_movie_a1824882:
 
     # ns "Oh, oh yesssssss!"
-    ns "噢……就是这样！"
+    ns "噢...就是这样！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:836
 translate chinese sm1mv02s09_movie_e067a9c9:
 
     # mc "Nggghhhh - ouuuuaggggggh!"
-    mc "嗯额……呃啊啊啊！"
+    mc "嗯额...呃啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:837
 translate chinese sm1mv02s09_movie_87b62427:
@@ -968,7 +968,7 @@ translate chinese sm1mv02s09_movie_87b62427:
 translate chinese sm1mv02s09_movie_411efc6a:
 
     # kv "Lccckc, lcccck, lcccckkkkk!"
-    kv "唔……嘶溜嘶溜！"
+    kv "唔...嘶溜嘶溜！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:841
 translate chinese sm1mv02s09_movie_18c0abab:
@@ -980,7 +980,7 @@ translate chinese sm1mv02s09_movie_18c0abab:
 translate chinese sm1mv02s09_movie_c3e6c879:
 
     # mc "I - nggggggghhhh - don't know how long I can keep this up."
-    mc "我--唔唔唔……不知道还能坚持多久。"
+    mc "我--唔唔唔...不知道还能坚持多久。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:845
 translate chinese sm1mv02s09_movie_e88a6cb8:
@@ -998,7 +998,7 @@ translate chinese sm1mv02s09_movie_4aac9000:
 translate chinese sm1mv02s09_movie_ef025953:
 
     # kv "Slrrrp, slllllrrrpppp, sllrrp!"
-    kv "嘶……啧啧啧……吸溜！"
+    kv "嘶...啧啧啧...吸溜！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:850
 translate chinese sm1mv02s09_movie_8cee9893:
@@ -1028,7 +1028,7 @@ translate chinese sm1mv02s09_movie_0c3ac319:
 translate chinese sm1mv02s09_movie_3a156363:
 
     # ns "Mrrrgghhhhhh, oh she is bringing me close!"
-    ns "嗯嗯嗯……她快让我高潮了！"
+    ns "嗯嗯嗯...她快让我高潮了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:859
 translate chinese sm1mv02s09_movie_78be2997:
@@ -1058,7 +1058,7 @@ translate chinese sm1mv02s09_movie_1306e05b:
 translate chinese sm1mv02s09_movie_a563df4a:
 
     # kv "Lck, lck, lck, slllrrrrrp, shhhmmmrrrrrrp, lck, lck, lck!"
-    kv "唔唔唔……噗噗……嘶溜嘶溜！"
+    kv "唔唔唔...噗噗...嘶溜嘶溜！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:866
 translate chinese sm1mv02s09_movie_d0614b49:
@@ -1100,13 +1100,13 @@ translate chinese sm1mv02s09_movie_4a153d9d:
 translate chinese sm1mv02s09_movie_f1d18e0c:
 
     # mhmes "You don't say... warrants further research indeed."
-    mhmes "真的吗……确实需要进一步研究。"
+    mhmes "真的吗...确实需要进一步研究。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:904
 translate chinese sm1mv02s09_movie_f3564368:
 
     # mhmes "Definitely requires a more... direct approach of study."
-    mhmes "绝对需要更……直接的研究方法。"
+    mhmes "绝对需要更...直接的研究方法。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:912
 translate chinese sm1mv02s09_movie_7b7a35f9:
@@ -1142,7 +1142,7 @@ translate chinese sm1mv02s09_movie_f00cb4ca:
 translate chinese sm1mv02s09_movie_8d5d343e:
 
     # ns "Mmmmmmm."
-    ns "嗯……"
+    ns "嗯..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:934
 translate chinese sm1mv02s09_movie_421f2de0:
@@ -1154,557 +1154,557 @@ translate chinese sm1mv02s09_movie_421f2de0:
 translate chinese sm1mv02s09_movie_fbecad0f:
 
     # mc "Oh shit! Your ass is even tighter!"
-    mc "Oh shit! Your ass is even tighter!"
+    mc "我去！你的屁股居然更紧了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:963
 translate chinese sm1mv02s09_movie_48f85163:
 
     # mhmes "Slrrp, slrrrp, mmm - she seems to like it, Ramses."
-    mhmes "Slrrp, slrrrp, mmm - she seems to like it, Ramses."
+    mhmes "吸溜，吸溜，嗯...她好像挺享受的，拉姆斯。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:964
 translate chinese sm1mv02s09_movie_5f3d5574:
 
     # kv "Nggggh - lck, lck - ngggggghhhh!"
-    kv "Nggggh - lck, lck - ngggggghhhh!"
+    kv "嗯呃--嘶溜，嘶溜--呃呃呃！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:971
 translate chinese sm1mv02s09_movie_653e4583:
 
     # ns "Sllllrrrrp, sllllrrrrppp, slrp!"
-    ns "Sllllrrrrp, sllllrrrrppp, slrp!"
+    ns "咂咂...啧...啧啧！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:972
 translate chinese sm1mv02s09_movie_e03f4ec0:
 
     # mc "Ouuahhjj j- Jelarra has quite a tongue too!"
-    mc "Ouuahhjj j- Jelarra has quite a tongue too!"
+    mc "哦哇...杰莱拉的舌头也很厉害！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:978
 translate chinese sm1mv02s09_movie_dcb0bc30:
 
     # mhmes "Oh yes, yes she does."
-    mhmes "Oh yes, yes she does."
+    mhmes "哦，你说的一点没错。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:979
 translate chinese sm1mv02s09_movie_a87aeb12:
 
     # mhmes "Mmmmmmmmmm, lck, lck, lck, slrrrrrp, the Kasaru is quite skilled!"
-    mhmes "Mmmmmmmmmm, lck, lck, lck, slrrrrrp, the Kasaru is quite skilled!"
+    mhmes "嗯嗯嗯...啧，啧，啧，嘶溜...卡萨鲁人的本事确实了得！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:985
 translate chinese sm1mv02s09_movie_390f8af8:
 
     # ns "Slrrrrrrrrrp! Lcccccccccccck!"
-    ns "Slrrrrrrrrrp! Lcccccccccccck!"
+    ns "吸溜吸溜！呼哧呼哧！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:986
 translate chinese sm1mv02s09_movie_107e1ecd:
 
     # kv "Mmmmrrrrggggg, lck, lck, lck!"
-    kv "Mmmmrrrrggggg, lck, lck, lck!"
+    kv "嗯嗯嗯嗯...啧，啧，啧！!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:992
 translate chinese sm1mv02s09_movie_1fd53dd5:
 
     # mc "Oh God, this feels out of this world!"
-    mc "Oh God, this feels out of this world!"
+    mc "我去，魂儿简直都要飞了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:993
 translate chinese sm1mv02s09_movie_8228c607:
 
     # mhmes "I agree - mmmmm - with your assessment, captain!"
-    mhmes "I agree - mmmmm - with your assessment, captain!"
+    mhmes "我赞同--嗯嗯嗯--你的评价，船长！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:999
 translate chinese sm1mv02s09_movie_e76f4c5b:
 
     # kv "Oh - yesssssssss-!"
-    kv "Oh - yesssssssss-!"
+    kv "哦--啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1000
 translate chinese sm1mv02s09_movie_fc9d1ee1:
 
     # ns "Sllllrpppp!"
-    ns "Sllllrpppp!"
+    ns "啧啧啧！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1006
 translate chinese sm1mv02s09_movie_2e80172d:
 
     # mhmes "Mmmmmmm, sounds like Jelarra enjoys asses as much as you, Ramses!"
-    mhmes "Mmmmmmm, sounds like Jelarra enjoys asses as much as you, Ramses!"
+    mhmes "嗯嗯嗯，听起来杰莱拉和你一样喜欢屁股呢，拉姆斯！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1007
 translate chinese sm1mv02s09_movie_32598ff5:
 
     # mc "Oh, she definitely - nghgggghhhhh - does!"
-    mc "Oh, she definitely - nghgggghhhhh - does!"
+    mc "哦，她绝对--呃呃啊--喜欢这样！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1013
 translate chinese sm1mv02s09_movie_164128da:
 
     # mc "Fuck - I don't know how much I have left in me!"
-    mc "Fuck - I don't know how much I have left in me!"
+    mc "操--我不知道自己还能撑多久！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1014
 translate chinese sm1mv02s09_movie_cab30fa8:
 
     # mhmes "I feel myself approaching an orgasm as well."
-    mhmes "I feel myself approaching an orgasm as well."
+    mhmes "我也快来了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1015
 translate chinese sm1mv02s09_movie_f8af1ffd:
 
     # kv "Mmmmmrrrmmmmmggggg!"
-    kv "Mmmmmrrrmmmmmggggg!"
+    kv "嗯嗯嗯嗯嗯！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1021
 translate chinese sm1mv02s09_movie_9d7ff7bc:
 
     # mhmes "Mmmmmmm - and I'd say the same thing for our Kasaru as well!"
-    mhmes "Mmmmmmm - and I'd say the same thing for our Kasaru as well!"
+    mhmes "嗯嗯嗯...我觉得我们卡萨鲁人也是同样的感受！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1022
 translate chinese sm1mv02s09_movie_15fec648:
 
     # ns "Lck, slrrrrp, lccccccck!"
-    ns "Lck, slrrrrp, lccccccck!"
+    ns "啧，嘶溜嘶溜，啧啧啧！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1023
 translate chinese sm1mv02s09_movie_563211b1:
 
     # mc "Oh, right there, Jelarra! Oh, shit!"
-    mc "Oh, right there, Jelarra! Oh, shit!"
+    mc "哦，就是那里，杰莱拉！哦，靠！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1029
 translate chinese sm1mv02s09_movie_3293ab06:
 
     # mhmes "Mmmmmm - mmmmmmm-!"
-    mhmes "Mmmmmm - mmmmmmm-!"
+    mhmes "嗯嗯嗯--嗯嗯--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1030
 translate chinese sm1mv02s09_movie_84bcd8c5:
 
     # kv "Mmrrrg - ngggggh - ouuuuaaarrrrgggghhhhH!"
-    kv "Mmrrrg - ngggggh - ouuuuaaarrrrgggghhhhH!"
+    kv "唔唔...嗯呃--哇啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1031
 translate chinese sm1mv02s09_movie_ad20d587:
 
     # mc "Oh fuck-!"
-    mc "Oh fuck-!"
+    mc "操--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1041
 translate chinese sm1mv02s09_movie_e1b38a81:
 
     # mc "Oh fuck! Ugggggggh!"
-    mc "Oh fuck! Ugggggggh!"
+    mc "操啊啊啊！呃呃呃！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1055
 translate chinese sm1mv02s09_movie_449fb40f:
 
     # mhmes "Oh, oh!"
-    mhmes "Oh, oh!"
+    mhmes "哦，噢噢！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1061
 translate chinese sm1mv02s09_movie_42294006:
 
     # mhmes "Incredible... that was... intense. Quite a skilled warrior in the bedroom indeed."
-    mhmes "Incredible... that was... intense. Quite a skilled warrior in the bedroom indeed."
+    mhmes "不可思议...刚才...真是激烈。在卧室里确实是个技术相当娴熟的战士。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1064
 translate chinese sm1mv02s09_movie_f2604829:
 
     # ns "I think I understand your fascinations with butts now! And I think at some point, I will need to experience some of this myself!"
-    ns "I think I understand your fascinations with butts now! And I think at some point, I will need to experience some of this myself!"
+    ns "我想我现在理解你对臀部的着迷了！而且我觉得，什么时候我自己也得体验一下这些！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1066
 translate chinese sm1mv02s09_movie_20885c7c:
 
     # mc "That can absolutely be arranged, Jelarra."
-    mc "That can absolutely be arranged, Jelarra."
+    mc "这个绝对可以安排上，杰莱拉。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1074
 translate chinese sm1mv02s09_movie_e3be59cf:
 
     # mhmes "For scientific purposes of course."
-    mhmes "For scientific purposes of course."
+    mhmes "当然是为了科学研究的目的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1080
 translate chinese sm1mv02s09_movie_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1081
 translate chinese sm1mv02s09_movie_72f26666:
 
     # mc "Well, it seems we have successfully defended the ship."
-    mc "Well, it seems we have successfully defended the ship."
+    mc "嗯，看来我们成功守住了舰船。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1088
 translate chinese sm1mv02s09_movie_90d696f1:
 
     # mhmes "Indeed.{w} But what do we do with our Kasaru friend now?"
-    mhmes "Indeed.{w} But what do we do with our Kasaru friend now?"
+    mhmes "确实。{w}但我们现在怎么处理这位卡萨鲁族朋友？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1099
 translate chinese sm1mv02s09_watersports_d73a4817:
 
     # kv "Need... more..."
-    kv "Need... more..."
+    kv "还... 想要..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1108
 translate chinese sm1mv02s09_watersports_b474b758:
 
     # mc "Well, fortunately we know how to cure that, don't we!"
-    mc "Well, fortunately we know how to cure that, don't we!"
+    mc "好吧，幸运的是我们知道如何治愈这种状态，不是吗！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1110
 translate chinese sm1mv02s09_watersports_b8d9007c:
 
     # ns "We do!"
-    ns "We do!"
+    ns "没错！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1116
 translate chinese sm1mv02s09_watersports_a209fb96:
 
     # mc "Vel, want to give us a hand?"
-    mc "Vel, want to give us a hand?"
+    mc "维尔，要帮我们一把吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1124
 translate chinese sm1mv02s09_watersports_58fc758a:
 
     # mhmes "Unfortunately, I am depleted both from our coitus, as well as from synthesizing the cure."
-    mhmes "Unfortunately, I am depleted both from our coitus, as well as from synthesizing the cure."
+    mhmes "很遗憾，我因为刚才的交合，以及合成解药，现在已经完全筋疲力尽了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1125
 translate chinese sm1mv02s09_watersports_ded0344d:
 
     # mhmes "But, I would love to observe."
-    mhmes "But, I would love to observe."
+    mhmes "不过，我很乐意旁观。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1127
 translate chinese sm1mv02s09_watersports_45ca906c:
 
     # mc "Sounds good to me!"
-    mc "Sounds good to me!"
+    mc "完全没问题！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1130
 translate chinese sm1mv02s09_watersports_83ac9261:
 
     # mc "All right, Jelarra, let's get the captain back to her right mind."
-    mc "All right, Jelarra, let's get the captain back to her right mind."
+    mc "好了，杰莱拉，我们来让这位舰长恢复神智吧。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1133
 translate chinese sm1mv02s09_watersports_404c8b84:
 
     # ns "Aye, aye, Captain!"
-    ns "Aye, aye, Captain!"
+    ns "遵命，舰长！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1143
 translate chinese sm1mv02s09_watersports_62302749:
 
     # mc "Ohhhhh, yeaaaaaa. Definitely needed this!"
-    mc "Ohhhhh, yeaaaaaa. Definitely needed this!"
+    mc "噢噢噢--就是这样...绝对需要这个！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1144
 translate chinese sm1mv02s09_watersports_0c49c866:
 
     # ns "Me too, Captain!"
-    ns "Me too, Captain!"
+    ns "我也是，舰长！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1151
 translate chinese sm1mv02s09_watersports_eba68f03:
 
     # kv "Mmrrrrggggg - nnnggggggghhhh!"
-    kv "Mmrrrrggggg - nnnggggggghhhh!"
+    kv "唔唔唔...嗯呃呃呃！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1152
 translate chinese sm1mv02s09_watersports_6dab4a38:
 
     # ns "It sounds like it's rousing her, Captain!"
-    ns "It sounds like it's rousing her, Captain!"
+    ns "听起来好像在唤醒她，舰长！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1153
 translate chinese sm1mv02s09_watersports_5771cd4e:
 
     # mc "It does!"
-    mc "It does!"
+    mc "确实！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1160
 translate chinese sm1mv02s09_watersports_663ecf42:
 
     # kv "Mrrrmmmmm, oooouuuaaaaaaah-!"
-    kv "Mrrrmmmmm, oooouuuaaaaaaah-!"
+    kv "唔唔唔...哦啊啊啊--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1161
 translate chinese sm1mv02s09_watersports_29cc72b9:
 
     # ns "Captain?"
-    ns "Captain?"
+    ns "舰长？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1162
 translate chinese sm1mv02s09_watersports_7f5f9630:
 
     # mc "I think that the pee also acts as an intensifier, so she's-"
-    mc "I think that the pee also acts as an intensifier, so she's-"
+    mc "我觉得尿液也起到了增强剂的作用，所以她--"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1163
 translate chinese sm1mv02s09_watersports_3586d95f:
 
     # kv "Ohhhh, ohhhhhhh!"
-    kv "Ohhhh, ohhhhhhh!"
+    kv "哦哦，噢噢噢！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1164
 translate chinese sm1mv02s09_watersports_d5e87f9b:
 
     # mhmes "Fascinating."
-    mhmes "Fascinating."
+    mhmes "过瘾。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1171
 translate chinese sm1mv02s09_watersports_bf9aac13:
 
     # kv "Ohhhh, oh yesssssss, oh, I'm, oh Gooooodddssss!"
-    kv "Ohhhh, oh yesssssss, oh, I'm, oh Gooooodddssss!"
+    kv "哦哦，哦就是这样...呃啊，我要...啊啊啊天啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1172
 translate chinese sm1mv02s09_watersports_a14293ad:
 
     # mhmes "The pee doesn't neutralize the reaction, it heightens it to the point where the virus overloads and can no longer react."
-    mhmes "The pee doesn't neutralize the reaction, it heightens it to the point where the virus overloads and can no longer react."
+    mhmes "尿液并不会中和反应，而是将反应强化到病毒超载、且无法继续反应的程度。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1173
 translate chinese sm1mv02s09_watersports_f8a811b5:
 
     # kv "Ohhhhh, oh Goooodddds, I'm, I'm - Iiiiiiiiii -!"
-    kv "Ohhhhh, oh Goooodddds, I'm, I'm - Iiiiiiiiii -!"
+    kv "哦哦，天呐天呐，我要，我要...我我我我--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1174
 translate chinese sm1mv02s09_watersports_14219251:
 
     # mc "Just a little more-!"
-    mc "Just a little more-!"
+    mc "就差一点--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1182
 translate chinese sm1mv02s09_watersports_60efa136:
 
     # kv "I'm CUUUUMMMMMMIIIIINNNNNNNNGGGGG!"
-    kv "I'm CUUUUMMMMMMIIIIINNNNNNNNGGGGG!"
+    kv "要去~了啊啊啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1185
 translate chinese sm1mv02s09_watersports_823fdff6:
 
     # kv "FUCKKKKKKKK!"
-    kv "FUCKKKKKKKK!"
+    kv "呃呃操操操！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1186
 translate chinese sm1mv02s09_watersports_804ae0f9:
 
     # kv "Mmmmrrrggghhhhhh...."
-    kv "Mmmmrrrggghhhhhh...."
+    kv "唔唔唔...."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1193
 translate chinese sm1mv02s09_watersports_fac1ab2b:
 
     # mhmes "I think I need to study this virus more... that was quite the reaction."
-    mhmes "I think I need to study this virus more... that was quite the reaction."
+    mhmes "看来我得深入研究这种病毒了...这反应可真够劲儿。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1196
 translate chinese sm1mv02s09_watersports_0cb5b032:
 
     # ns "Oh, you'll have to stay for our festival then! It's quite the experience."
-    ns "Oh, you'll have to stay for our festival then! It's quite the experience."
+    ns "那你得留下来参加我们的庆典！绝对是难忘的体验。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1207
 translate chinese sm1mv02s09_end_8722f566:
 
     # mc "With the Kasaru defeated, and the virus cured-"
-    mc "With the Kasaru defeated, and the virus cured-"
+    mc "既然卡萨鲁人已被击败，病毒也已治愈--"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1210
 translate chinese sm1mv02s09_end_0fae17ae:
 
     # ns "Oh, and we've sent dispersal units down to the planet so my people have ways to cure it!"
-    ns "Oh, and we've sent dispersal units down to the planet so my people have ways to cure it!"
+    ns "对了，我们已经向行星派遣了散布装置，这样我的族人也能获得解药了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1212
 translate chinese sm1mv02s09_end_f1fe6537:
 
     # mc "It seems like a job well done."
-    mc "It seems like a job well done."
+    mc "看来任务圆满完成了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1214
 translate chinese sm1mv02s09_end_aa5d23a7:
 
     # ns "Yay!"
-    ns "Yay!"
+    ns "耶！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1221
 translate chinese sm1mv02s09_end_82bf2699:
 
     # mhmes "But what now, Captain?"
-    mhmes "But what now, Captain?"
+    mhmes "但接下来呢，船长？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1237
 translate chinese sm1mv02s09_end_968c5f96:
 
     # mc "I think there's still a lot of universe left to explore, don't you Science Officer Spectre?"
-    mc "I think there's still a lot of universe left to explore, don't you Science Officer Spectre?"
+    mc "我认为宇宙中还有很多地方等着我们去探索，你觉得呢，斯佩克科学官？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1240
 translate chinese sm1mv02s09_end_8f26a5a0:
 
     # mhmes "Aye, aye, Captain."
-    mhmes "Aye, aye, Captain."
+    mhmes "是的，舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1243
 translate chinese sm1mv02s09_end_1db2a4b6:
 
     # mc "Then I think we should continue on! Full speed ahead!"
-    mc "Then I think we should continue on! Full speed ahead!"
+    mc "那么我们继续前进！全速前进！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1265
 translate chinese sm1mv02s09_end_f3598b86:
 
     # sy "And cut!"
-    sy "And cut!"
+    sy "卡！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1269
 translate chinese sm1mv02s09_end_c32067a4:
 
     # sy "That's a wrap!"
-    sy "That's a wrap!"
+    sy "收工！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1275
 translate chinese sm1mv02s09_end_cf36579d:
 
     # "Everyone" "Woooooooooo!"
-    "Everyone" "Woooooooooo!"
+    "全体人员" "喔喔喔--！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1279
 translate chinese sm1mv02s09_end_fb71e55c:
 
     # mc "How was it?"
-    mc "How was it?"
+    mc "效果怎么样？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1285
 translate chinese sm1mv02s09_end_378506b6:
 
     # sy "It looked fucking epic!"
-    sy "It looked fucking epic!"
+    sy "简直燃炸了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1286
 translate chinese sm1mv02s09_end_2738626d:
 
     # sy "You all did so good! The whole scene was super hot."
-    sy "You all did so good! The whole scene was super hot."
+    sy "每个人都表现得非常棒！整场戏超级带感。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1287
 translate chinese sm1mv02s09_end_166a4726:
 
     # sy "This is going to be a hit, for sure!"
-    sy "This is going to be a hit, for sure!"
+    sy "这部电影绝对会大受欢迎的！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1290
 translate chinese sm1mv02s09_end_3927c8b3:
 
     # ns "Yay! That's awesome to hear!"
-    ns "Yay! That's awesome to hear!"
+    ns "太棒了！听到这个消息真高兴！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1297
 translate chinese sm1mv02s09_end_3c4e9a83:
 
     # mhmes "I would agree."
-    mhmes "I would agree."
+    mhmes "我同意。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1300
 translate chinese sm1mv02s09_end_9f66b63b:
 
     # sy "But you two should go and get cleaned up. I know how long the special effects takes to get off."
-    sy "But you two should go and get cleaned up. I know how long the special effects takes to get off."
+    sy "但你们俩应该去清理一下了。我知道要卸掉那些特效妆得花多长时间。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1309
 translate chinese sm1mv02s09_end_5cd25b87:
 
     # mhmes "Thank you, Stacy."
-    mhmes "Thank you, Stacy."
+    mhmes "谢谢你，史黛西。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1311
 translate chinese sm1mv02s09_end_b634c2a2:
 
     # ns "Yes! Thank you! I can't wait to see the final version!"
-    ns "Yes! Thank you! I can't wait to see the final version!"
+    ns "没错，谢谢你！我等不及想看最终版本了！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1316
 translate chinese sm1mv02s09_end_05f2795d:
 
     # mc "So, did it really look good?"
-    mc "So, did it really look good?"
+    mc "所以，效果真的不错吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1319
 translate chinese sm1mv02s09_end_d8fb5f2a:
 
     # sy "It did."
-    sy "It did."
+    sy "是的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1322
 translate chinese sm1mv02s09_end_7e50abc5:
 
     # kv "Good, because I have no idea how those angles looked."
-    kv "Good, because I have no idea how those angles looked."
+    kv "太好了，因为我完全不知道那些角度拍出来是什么效果。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1325
 translate chinese sm1mv02s09_end_872c4afb:
 
     # kv "I'll start downloading the data and get it over to you, Stacy."
-    kv "I'll start downloading the data and get it over to you, Stacy."
+    kv "我这就开始下载数据，马上发给你，史黛西。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1326
 translate chinese sm1mv02s09_end_4b1cc96d:
 
     # kv "I'll also make sure to give it a once over and check all the footage."
-    kv "I'll also make sure to give it a once over and check all the footage."
+    kv "我也会仔细检查一遍所有素材。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1329
 translate chinese sm1mv02s09_end_1afc8cd5:
 
     # sy "Thank you, Kanya!"
-    sy "Thank you, Kanya!"
+    sy "谢谢你，康雅！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1333
 translate chinese sm1mv02s09_end_9edda2ec:
 
     # mc "All right, do you two need anything from me?"
-    mc "All right, do you two need anything from me?"
+    mc "好了，你们俩需要我帮忙做点什么吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1337
 translate chinese sm1mv02s09_end_4060cdbc:
 
     # sy "Nope! You nailed it today, superstar. You get hydrated and get some rest, and I'll follow up with you later."
-    sy "Nope! You nailed it today, superstar. You get hydrated and get some rest, and I'll follow up with you later."
+    sy "不用啦！你今天表现得超棒，超级巨星。你多喝点水，好好休息一下，我之后再跟你联系。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1340
 translate chinese sm1mv02s09_end_c8c8b22f:
 
     # mc "Sounds good to me! I'll see you two later!"
-    mc "Sounds good to me! I'll see you two later!"
+    mc "好呀！那我们回头见！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1343
 translate chinese sm1mv02s09_end_64cc7ad0:
 
     # sy "See ya'!"
-    sy "See ya'!"
+    sy "拜拜！"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1345
 translate chinese sm1mv02s09_end_ac4f60cc:
 
     # kv "Later, [mcname]."
-    kv "Later, [mcname]."
+    kv "回头见，[mcname]。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1138
 translate chinese sm1mv02s09_watersports_0fb44886:
 
     # mhmes "It seems she's still under the effect of the lust."
-    mhmes "It seems she's still under the effect of the lust."
+    mhmes "看来她还在受情欲影响着。"
 

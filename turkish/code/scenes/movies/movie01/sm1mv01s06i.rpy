@@ -14,13 +14,13 @@ translate turkish sm1mv01s06i_021b5030:
 translate turkish sm1mv01s06i_da1676be:
 
     # mc "Ready to film the second scene?"
-    mc "Ready to film the second scene?"
+    mc "İkinci sahneyi çekmeye hazır mısın?"
 
 # game/code/scenes/movies/movie01/sm1mv01s06i.rpy:16
 translate turkish sm1mv01s06i_490f2fb4:
 
     # tl "I was born ready!"
-    tl "I was born ready!"
+    tl "Hazır doğdum!"
 
 # game/code/scenes/movies/movie01/sm1mv01s06i.rpy:18
 translate turkish sm1mv01s06i_87bf65c4:

@@ -2,7 +2,7 @@
 translate turkish sm1cs_my004i_421ed5f0:
 
     # sy "Hey! What have you got planned today?"
-    sy "Hey! What have you got planned today?"
+    sy "Hey! Bugün ne planladın?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004i.rpy:8
 translate turkish sm1cs_my004i_1efca297:
@@ -14,7 +14,7 @@ translate turkish sm1cs_my004i_1efca297:
 translate turkish sm1cs_my004i_93befbe3:
 
     # sy "Good! Stay right there then!"
-    sy "Good! Stay right there then!"
+    sy "Güzel! O zaman tam orada kal!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004i.rpy:14
 translate turkish sm1cs_my004i_8f20af04:
