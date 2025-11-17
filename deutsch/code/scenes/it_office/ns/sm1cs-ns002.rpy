@@ -812,11 +812,11 @@ translate deutsch strings:
 translate deutsch sm1cs_ns002_bc4ba015:
 
     # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
-    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Lass uns einfach einen Moment innehalten. Ich werde dir dabei helfen. Wir alle hatten schon einmal... Triebe an seltsamen Orten."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
 translate deutsch sm1cs_ns002_94a1cd6a:
 
     # mct "No one is close. I hope."
-    mct "No one is close. I hope."
+    mct "Niemand ist in der Nähe. Hoffentlich."
 
