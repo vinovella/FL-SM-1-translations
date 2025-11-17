@@ -1282,11 +1282,11 @@ translate turkish strings:
 translate turkish sm1cs_mes005_1276f4df:
 
     # kv "Haha.{w} Looking forward to it, [mcname]."
-    kv "Haha.{w} Looking forward to it, [mcname]."
+    kv "Haha.{w} Bunu dört gözle bekliyorum, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:441
 translate turkish sm1cs_mes005_4a089a68:
 
     # mes "Well, then you'll enjoy this."
-    mes "Well, then you'll enjoy this."
+    mes "O zaman bundan keyif alacaksın."
 

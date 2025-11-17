@@ -218,7 +218,7 @@ translate turkish sm1cs_mes007_c1b31333:
 translate turkish sm1cs_mes007_a5ce6d2e:
 
     # mes "Tut tut tut."
-    mes "Tut tut tut."
+    mes "Tıs tıs tıs."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:181
 translate turkish sm1cs_mes007_4b129476:
@@ -230,7 +230,7 @@ translate turkish sm1cs_mes007_4b129476:
 translate turkish sm1cs_mes007_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Ha?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:187
 translate turkish sm1cs_mes007_2f6d67e6:

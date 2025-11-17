@@ -548,7 +548,7 @@ translate turkish sm1cs_mes_r1_rough_6cf032f5:
 translate turkish sm1cs_mes_r1_continue_2_1eb2532b:
 
     # mes "Holy shit..."
-    mes "Holy shit..."
+    mes "Vay canına..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:240
 translate turkish sm1cs_mes_r1_continue_2_8e662436:
@@ -1220,43 +1220,43 @@ translate turkish sm1cs_mes_r1_watersports_650214f7:
 translate turkish sm1cs_mes_r1_watersports_c28ffd80:
 
     # mes "Inside! Yes! Cum inside me right now!"
-    mes "Inside! Yes! Cum inside me right now!"
+    mes "İçine! Evet! Hemen içime boşal!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:503
 translate turkish sm1cs_mes_r1_watersports_9ca215c0:
 
     # mc "*groaning* Fuck... Take all of it..."
-    mc "*groaning* Fuck... Take all of it..."
+    mc "*inleme* Siktir... Hepsini al..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:507
 translate turkish sm1cs_mes_r1_watersports_263ecdf4:
 
     # mes "So full... I can feel you flooding my pussy... Fuck..."
-    mes "So full... I can feel you flooding my pussy... Fuck..."
+    mes "Çok dolu... Amımı doldurduğunu hissedebiliyorum... Siktir..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:511
 translate turkish sm1cs_mes_r1_watersports_298234cd:
 
     # mc "Turn around. On your knees, now."
-    mc "Turn around. On your knees, now."
+    mc "Dön. Dizlerinin üstüne, şimdi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:516
 translate turkish sm1cs_mes_r1_watersports_ece82835:
 
     # mes "Cover me... Please... Make me even dirtier..."
-    mes "Cover me... Please... Make me even dirtier..."
+    mes "Kapla beni... Lütfen... Beni daha da kirlet..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:518
 translate turkish sm1cs_mes_r1_watersports_1650ea57:
 
     # mc "*groaning* Fuck yes..."
-    mc "*groaning* Fuck yes..."
+    mc "*inleme* Evet siktir..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:523
 translate turkish sm1cs_mes_r1_watersports_0290aab3:
 
     # mes "Mmm... I love how filthy we are together..."
-    mes "Mmm... I love how filthy we are together..."
+    mes "Mmm... Birlikte ne kadar pis olduğumuzu seviyorum..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:528
 translate turkish sm1cs_mes_r1_watersports_1eb2532b:
@@ -1268,7 +1268,7 @@ translate turkish sm1cs_mes_r1_watersports_1eb2532b:
 translate turkish sm1cs_mes_r1_watersports_91d8a70c:
 
     # mc "You okay?"
-    mc "You okay?"
+    mc "İyi misin?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:531
 translate turkish sm1cs_mes_r1_watersports_691cc3e1:
