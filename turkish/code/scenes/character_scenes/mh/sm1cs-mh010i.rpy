@@ -62,7 +62,7 @@ translate turkish sm1cs_mh010i_b9c86464:
 translate turkish sm1cs_mh010i_df2f4018:
 
     # sy "Boooooooo."
-    sy "Boooooooo."
+    sy "Yuuuuuuuh."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010i.rpy:32
 translate turkish sm1cs_mh010i_473c57e5:
@@ -74,7 +74,7 @@ translate turkish sm1cs_mh010i_473c57e5:
 translate turkish sm1cs_mh010i_bde8478d:
 
     # sy "Fiiiiiiiiiiiine."
-    sy "Fiiiiiiiiiiiine."
+    sy "Taaaaaaamam."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010i.rpy:36
 translate turkish sm1cs_mh010i_6d04953c:
