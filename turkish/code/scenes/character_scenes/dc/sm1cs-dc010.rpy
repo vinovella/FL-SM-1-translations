@@ -2250,7 +2250,7 @@ translate turkish sm1cs_dc010_dc_hj_10a9c12a:
 translate turkish sm1cs_dc010_later_cc13123a:
 
     # dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
-    dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+    dc "Ve sonra motosikletçinin kafasına vurarak yeniden doldurdu! Çok havalı!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:173
 translate turkish sm1cs_dc010_later_32c7d96e:
@@ -2430,7 +2430,7 @@ translate turkish sm1cs_dc010_later_57c7effd:
 translate turkish sm1cs_dc010_later_9de368a5:
 
     # dc "I have been looking forward to this for a while.{w} I'm very excited."
-    dc "I have been looking forward to this for a while.{w} I'm very excited."
+    dc "Bunu bir süredir bekliyordum.{w} Çok heyecanlıyım."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:473
 translate turkish sm1cs_dc010_later_0f8ee3ae:
@@ -2442,17 +2442,17 @@ translate turkish sm1cs_dc010_later_0f8ee3ae:
 translate turkish sm1cs_dc010_dc_hj_0d04a1d3:
 
     # mc "Great enough that it deserves its own pleasure."
-    mc "Great enough that it deserves its own pleasure."
+    mc "Kendi zevkini hak edecek kadar harika."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:723
 translate turkish sm1cs_dc010_dc_hj_1a7b15ce:
 
     # dc "Infinitely better than my fantasy."
-    dc "Infinitely better than my fantasy."
+    dc "Hayalimden sonsuz kat daha iyi."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:793
 translate turkish sm1cs_dc010_end_0f3a75eb:
 
     # dc "No, not really. Just some paperwork to do."
-    dc "No, not really. Just some paperwork to do."
+    dc "Hayır, pek sayılmaz. Sadece yapılacak bazı evrak işleri var."
 

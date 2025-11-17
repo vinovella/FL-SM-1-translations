@@ -80,5 +80,5 @@ translate turkish sm1cs_dc004_404eabfc:
 translate turkish sm1cs_dc004_1172721c:
 
     # mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-    mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+    mc "Ama sana bir şey sormak istiyorum. Geçen gün kafede aceleyle kaçtın. Bir sorun mu var? Yanlış bir şey mi söyledim?"
 

@@ -1028,11 +1028,11 @@ translate turkish sm1cs_dc008_02776fbe:
 translate turkish sm1cs_dc008_b12cc4d7:
 
     # mc "I'm grateful that you shared that part of you with me, Debbie."
-    mc "I'm grateful that you shared that part of you with me, Debbie."
+    mc "O parçanı benimle paylaştığın için minnettarım, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:396
 translate turkish sm1cs_dc008_a037dc10:
 
     # dc "Thanks, [mcname]. I like your outfit too."
-    dc "Thanks, [mcname]. I like your outfit too."
+    dc "Teşekkürler, [mcname]. Ben de senin kıyafetini beğendim."
 

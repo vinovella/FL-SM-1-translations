@@ -940,17 +940,17 @@ translate turkish strings:
 translate turkish sm1cs_dc006_at_park_fb7dfd2e:
 
     # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
-    dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+    dc "Memur Callahan...{w} Biliyorum. Tam kaçarken buraya geldim...{w} Biliyorum, efendim..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
 translate turkish sm1cs_dc006_993ec2ac:
 
     # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+    dc "Olanlarla ilgilendiğimi söylemem yalan olurdu. Polisler bu konuda konuşmuyorsa... ilginç bir şey olmalı."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
 translate turkish sm1cs_dc006_a541102c:
 
     # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
-    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
+    dc "Oldukça iyiler. Espresso ve süt ve biraz çikolata karışımı. Yani, seninkisi beyaz çikolata karışımı ve..."
 

@@ -1604,31 +1604,31 @@ translate turkish sm1cs_dc009_2341bb60:
 translate turkish sm1cs_dc009_78d5a7ce:
 
     # mct "I can't help but think of a different wiener I'd love for her to be putting-"
-    mct "I can't help but think of a different wiener I'd love for her to be putting-"
+    mct "Onun koymaktan hoşlanacağı farklı bir sosisli düşünmekten kendimi alamıyorum-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:184
 translate turkish sm1cs_dc009_c2f0d634:
 
     # mc "No, everything is great.{w} But, I do have a confession to make..."
-    mc "No, everything is great.{w} But, I do have a confession to make..."
+    mc "Hayır, her şey harika.{w} Ama, yapmam gereken bir itirafım var..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:228
 translate turkish sm1cs_dc009_6cf47e29:
 
     # dc "And I'd like to do that with you, [mcname]!"
-    dc "And I'd like to do that with you, [mcname]!"
+    dc "Ve bunu seninle yapmak isterdim, [mcname]!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:289
 translate turkish sm1cs_dc009_bb81e359:
 
     # dc "That is the most important rule about any and every gun."
-    dc "That is the most important rule about any and every gun."
+    dc "Bu, her silah hakkında en önemli kuraldır."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:334
 translate turkish sm1cs_dc009_6827ff1e:
 
     # dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
-    dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
+    dc "Pekala, ve biraz öne eğil, geri tepme için kendini biraz hazırla..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:384
 translate turkish sm1cs_dc009_440ee9ae:
@@ -1706,5 +1706,5 @@ translate turkish sm1cs_dc009_337ab247:
 translate turkish sm1cs_dc009_fad668c9:
 
     # dc "I mean...{w} you want me as your girlfriend?"
-    dc "I mean...{w} you want me as your girlfriend?"
+    dc "Yani...{w} beni kız arkadaşın olarak mı istiyorsun?"
 
