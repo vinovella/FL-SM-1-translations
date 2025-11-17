@@ -286,7 +286,7 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Double Penetration"
-    new "Double Penetration"
+    new "Doppelte Penetration"
 
     # game/code/data/constants/traits.rpy:82
     old "Ass to Mouth"
