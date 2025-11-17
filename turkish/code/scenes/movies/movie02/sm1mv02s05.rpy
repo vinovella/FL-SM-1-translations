@@ -1400,7 +1400,7 @@ translate turkish sm1mv02s05_movie_start_dab5bd41:
 translate turkish sm1mv02s05_movie_start_0b0b96a6:
 
     # ns "The pollen enters the bloodstream and causes the afflicted to enter into an estrus state."
-    ns "The pollen enters the bloodstream and causes the afflicted to enter into an estrus state."
+    ns "Polen kan dolaşımına girerek etkileneni kızgınlık durumuna sokar."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:895
 translate turkish sm1mv02s05_movie_start_5306f7a5:
@@ -1430,13 +1430,13 @@ translate turkish sm1mv02s05_movie_start_5dc1e831:
 translate turkish sm1mv02s05_movie_start_61a181bd:
 
     # mc "Doctor. If we subdue her now, like you said, there is a chance we can buy her more time, yes?"
-    mc "Doctor. If we subdue her now, like you said, there is a chance we can buy her more time, yes?"
+    mc "Doktor. Şimdi onu etkisiz hale getirirsek, dediğiniz gibi, ona daha fazla zaman kazandırabiliriz, değil mi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:910
 translate turkish sm1mv02s05_movie_start_9dfb694e:
 
     # ns "It's possible. But only a man of incredible stamina and fortitude could outlast the effect. The effect is very potent."
-    ns "It's possible. But only a man of incredible stamina and fortitude could outlast the effect. The effect is very potent."
+    ns "Mümkün. Ama sadece inanılmaz dayanıklılığa ve metanete sahip bir adam etkiden daha uzun süre dayanabilir. Etki çok güçlü."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:913
 translate turkish sm1mv02s05_movie_start_a7e581cb:
@@ -1448,7 +1448,7 @@ translate turkish sm1mv02s05_movie_start_a7e581cb:
 translate turkish sm1mv02s05_movie_start_f61e3c3b:
 
     # ns "That is how you say, a gamble. For the life of your crew member.{w} And you."
-    ns "That is how you say, a gamble. For the life of your crew member.{w} And you."
+    ns "Buna kumar dersiniz. Mürettebat üyenizin hayatı için.{w} Ve sizin için."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:917
 translate turkish sm1mv02s05_movie_start_252487e9:
@@ -1460,7 +1460,7 @@ translate turkish sm1mv02s05_movie_start_252487e9:
 translate turkish sm1mv02s05_movie_start_549dc270:
 
     # mc "Never fear, Doctor. I am the man who once single-handedly outfoxed the Sylon Queen into putting down her genocidal war to open a bed and breakfast on Titan."
-    mc "Never fear, Doctor. I am the man who once single-handedly outfoxed the Sylon Queen into putting down her genocidal war to open a bed and breakfast on Titan."
+    mc "Korkmayın, Doktor. Bir zamanlar tek başına Sylon Kraliçesi'ni soykırım savaşını bırakıp Titan'da bir pansiyon açmaya ikna eden adamım."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:926
 translate turkish sm1mv02s05_movie_start_1c408ac7:
@@ -1490,7 +1490,7 @@ translate turkish sm1mv02s05_movie_start_d6e0ebea:
 translate turkish sm1mv02s05_movie_start_7dbebf21:
 
     # ns "If I don't help, and you fall, then it may be the end of my people."
-    ns "If I don't help, and you fall, then it may be the end of my people."
+    ns "Eğer yardım etmezsem ve siz düşerseniz, bu halkımın sonu olabilir."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:942
 translate turkish sm1mv02s05_movie_start_919df6e4:
@@ -1538,13 +1538,13 @@ translate turkish sm1mv02s05_movie_start_b74876f5:
 translate turkish sm1mv02s05_movie_start_d6fc2d26:
 
     # ns "Is this length more of an ovipositor for a sexual organ inside the female mouth?"
-    ns "Is this length more of an ovipositor for a sexual organ inside the female mouth?"
+    ns "Bu uzunluk dişi ağzının içindeki bir cinsel organ için daha çok bir yumurta koyucu mu?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:972
 translate turkish sm1mv02s05_movie_start_8da0be3d:
 
     # mc "Doctor. I'm glad you're helping, but this will go smoother if you go with the flow."
-    mc "Doctor. I'm glad you're helping, but this will go smoother if you go with the flow."
+    mc "Doktor. Yardım etmenize sevindim, ama akışa uyarsanız bu daha kolay gider."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:975
 translate turkish sm1mv02s05_movie_start_ed841a5f:
@@ -1556,7 +1556,7 @@ translate turkish sm1mv02s05_movie_start_ed841a5f:
 translate turkish sm1mv02s05_movie_start_0e6328ca:
 
     # mc "No worries. Just watch the Lieutenant Commander. She's going to give you some great visual lessons."
-    mc "No worries. Just watch the Lieutenant Commander. She's going to give you some great visual lessons."
+    mc "Sorun değil. Sadece Yüzbaşıyı izleyin. Size harika görsel dersler verecek."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:980
 translate turkish sm1mv02s05_movie_start_889cbb8a:
@@ -1604,7 +1604,7 @@ translate turkish sm1mv02s05_movie_start_3904ea1e:
 translate turkish sm1mv02s05_movie_start_70faab5b:
 
     # mc "There you go, Doctor. We all need to get ready for whatever this pathogen does to Orion."
-    mc "There you go, Doctor. We all need to get ready for whatever this pathogen does to Orion."
+    mc "İşte böyle, Doktor. Hepimizin bu patojenin Orion'a ne yapacağına hazır olmamız gerekiyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:998
 translate turkish sm1mv02s05_movie_start_1a92a6df:
@@ -1628,7 +1628,7 @@ translate turkish sm1mv02s05_movie_start_4b7e2d2b:
 translate turkish sm1mv02s05_movie_start_55547f95:
 
     # sy "Nothing will please me more than you filling me up with your seed, Captain."
-    sy "Nothing will please me more than you filling me up with your seed, Captain."
+    sy "Beni tohumunla doldurman kadar mutlu edecek hiçbir şey yok, Kaptan."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1010
 translate turkish sm1mv02s05_movie_start_3ae847d3:
@@ -1664,7 +1664,7 @@ translate turkish sm1mv02s05_movie_start_7e125438:
 translate turkish sm1mv02s05_movie_start_006abd41:
 
     # mc "What impressive focus. But couldn't we just do more foreplay so the doctor can study?"
-    mc "What impressive focus. But couldn't we just do more foreplay so the doctor can study?"
+    mc "Ne etkileyici bir odaklanma. Ama doktorun çalışabilmesi için daha fazla ön sevişme yapamaz mıyız?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1042
 translate turkish sm1mv02s05_movie_start_aca3cb25:
@@ -1688,7 +1688,7 @@ translate turkish sm1mv02s05_movie_start_d6e0ebea_1:
 translate turkish sm1mv02s05_movie_start_3c1c41fb:
 
     # ns "Excuse my rudeness, Captain. But I must stay close to observe her."
-    ns "Excuse my rudeness, Captain. But I must stay close to observe her."
+    ns "Kabalığımı mazur görün, Kaptan. Ama onu gözlemlemek için yakında kalmalıyım."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1054
 translate turkish sm1mv02s05_movie_start_07b102c2:
@@ -1736,13 +1736,13 @@ translate turkish sm1mv02s05_movie_start_cfcce9d7:
 translate turkish sm1mv02s05_movie_start_c5bab46a:
 
     # sy "I watched him fuck a Furian warrior princess and all of her maids of honor after negotiating a peace treaty."
-    sy "I watched him fuck a Furian warrior princess and all of her maids of honor after negotiating a peace treaty."
+    sy "Bir barış antlaşması müzakere ettikten sonra onun bir Furian savaşçı prensesi ve tüm nedimelerini becerdiğini izledim."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1078
 translate turkish sm1mv02s05_movie_start_7f7c4704:
 
     # sy "Fuaha-gahuaaah... if anyone can do this... Can... fuck me till my head spins..."
-    sy "Fuaha-gahuaaah... if anyone can do this... Can... fuck me till my head spins..."
+    sy "Fuaha-gahuaaah... eğer biri bunu yapabiliyorsa... Başım dönene kadar... beni sikebilir..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1079
 translate turkish sm1mv02s05_movie_start_f9603cdd:
@@ -1760,13 +1760,13 @@ translate turkish sm1mv02s05_movie_start_f5958454:
 translate turkish sm1mv02s05_movie_start_883f4a25:
 
     # ns "Does he have some sort of special adrenal gland responsible for this?"
-    ns "Does he have some sort of special adrenal gland responsible for this?"
+    ns "Bundan sorumlu özel bir adrenal bezi mi var?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1086
 translate turkish sm1mv02s05_movie_start_0664372d:
 
     # sy "Ha-fuaah... not that I know of. Maybe he just runs on pussy juice... houaaah..."
-    sy "Ha-fuaah... not that I know of. Maybe he just runs on pussy juice... houaaah..."
+    sy "Ha-fuaah... bildiğim kadarıyla yok. Belki sadece am suyuyla çalışıyor... houaaah..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1089
 translate turkish sm1mv02s05_movie_start_50986e3e:
@@ -1802,7 +1802,7 @@ translate turkish sm1mv02s05_movie_start_f924dfa1:
 translate turkish sm1mv02s05_movie_start_a52e952e:
 
     # sy "Ha.. ha-ha... just wait, Doctor. My Captain isn't going to leave you high and dry."
-    sy "Ha.. ha-ha... just wait, Doctor. My Captain isn't going to leave you high and dry."
+    sy "Ha.. ha-ha... sadece bekle, Doktor. Kaptanım seni yarı yolda bırakmayacak."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1103
 translate turkish sm1mv02s05_movie_start_c9ecf76f:
@@ -1868,7 +1868,7 @@ translate turkish sm1mv02s05_movie_start_22751a89:
 translate turkish sm1mv02s05_movie_start_338e82c7:
 
     # ns "Oh, Hornstar, I was already so close when you had your mouth there."
-    ns "Oh, Hornstar, I was already so close when you had your mouth there."
+    ns "Oh, Hornstar, ağzın oradayken zaten çok yakındım."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1140
 translate turkish sm1mv02s05_movie_start_c0e0a076:
@@ -1892,19 +1892,19 @@ translate turkish sm1mv02s05_movie_start_e472729b:
 translate turkish sm1mv02s05_movie_start_26be8d75:
 
     # sy "Captain. That's my tiny little asshole."
-    sy "Captain. That's my tiny little asshole."
+    sy "Kaptan. Bu benim küçük göt deliğim."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1151
 translate turkish sm1mv02s05_movie_start_dd0f73de:
 
     # mc "So it is, LC. Don't worry."
-    mc "So it is, LC. Don't worry."
+    mc "Öyle, Y.B. Endişelenme."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1152
 translate turkish sm1mv02s05_movie_start_7f1c3e5d:
 
     # mc "After I'm done with this tiny hole, you'll be laid out for days."
-    mc "After I'm done with this tiny hole, you'll be laid out for days."
+    mc "Bu küçük delikle işim bittiğinde, günlerce uzanacaksın."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1159
 translate turkish sm1mv02s05_movie_start_031b2f15:
@@ -1916,25 +1916,25 @@ translate turkish sm1mv02s05_movie_start_031b2f15:
 translate turkish sm1mv02s05_movie_start_282cff3e:
 
     # ns "Is this hole another sexual orifice, Captain?"
-    ns "Is this hole another sexual orifice, Captain?"
+    ns "Bu delik başka bir cinsel açıklık mı, Kaptan?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1163
 translate turkish sm1mv02s05_movie_start_95f8dd4c:
 
     # mc "You could say that. Among humans, this is a scandalous activity."
-    mc "You could say that. Among humans, this is a scandalous activity."
+    mc "Öyle diyebilirsiniz. İnsanlar arasında bu skandal bir faaliyet."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1166
 translate turkish sm1mv02s05_movie_start_251197c8:
 
     # sy "Ohuaa-fuck... yes... Drill me..."
-    sy "Ohuaa-fuck... yes... Drill me..."
+    sy "Ohuaa-lanet olsun... evet... Beni del..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1167
 translate turkish sm1mv02s05_movie_start_68065bf3:
 
     # sy "Keep fucking drilling my naughty asshole, Captain."
-    sy "Keep fucking drilling my naughty asshole, Captain."
+    sy "Yaramaz göt deliğimi delmeye devam et, Kaptan."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1170
 translate turkish sm1mv02s05_movie_start_7616ad17:
@@ -1946,25 +1946,25 @@ translate turkish sm1mv02s05_movie_start_7616ad17:
 translate turkish sm1mv02s05_movie_start_95c86307:
 
     # sy "I can't think straight-huaaha..."
-    sy "I can't think straight-huaaha..."
+    sy "Düzgün düşünemiyorum-huaaha..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1174
 translate turkish sm1mv02s05_movie_start_d82261b2:
 
     # ns "It looks cute too. Muraah... oh Orion."
-    ns "It looks cute too. Muraah... oh Orion."
+    ns "Tatlı da görünüyor. Muraah... oh Orion."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1175
 translate turkish sm1mv02s05_movie_start_7d5f6d07:
 
     # ns "She shouldn't be underestimated, Hornstar."
-    ns "She shouldn't be underestimated, Hornstar."
+    ns "Küçümsenmemeli, Hornstar."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1178
 translate turkish sm1mv02s05_movie_start_f383693c:
 
     # ns "Her tongue is feasting on my petals like a hungry Lixu."
-    ns "Her tongue is feasting on my petals like a hungry Lixu."
+    ns "Dili, aç bir Lixu gibi taç yapraklarımda ziyafet çekiyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1179
 translate turkish sm1mv02s05_movie_start_12db756b:
@@ -1976,7 +1976,7 @@ translate turkish sm1mv02s05_movie_start_12db756b:
 translate turkish sm1mv02s05_movie_start_c71e3410:
 
     # ns "Jalerra please... and...{w} Puaa-ooouha... I won't let you down."
-    ns "Jalerra please... and...{w} Puaa-ooouha... I won't let you down."
+    ns "Jalerra lütfen... ve...{w} Puaa-ooouha... Seni hayal kırıklığına uğratmayacağım."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1183
 translate turkish sm1mv02s05_movie_start_78cb965a:
@@ -1988,7 +1988,7 @@ translate turkish sm1mv02s05_movie_start_78cb965a:
 translate turkish sm1mv02s05_movie_start_71bb967b:
 
     # sy "Use me however you like. I want all of it-kiaaah."
-    sy "Use me however you like. I want all of it-kiaaah."
+    sy "Beni istediğin gibi kullan. Hepsini istiyorum-kiaaah."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1192
 translate turkish sm1mv02s05_movie_start_d05df4ea:
