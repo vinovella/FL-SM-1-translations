@@ -656,7 +656,7 @@ translate turkish sm1mv02s04_2cb35900:
 translate turkish sm1mv02s04_831c5076:
 
     # ns "Ummm. I mean, [mcname] is here..."
-    ns "Ummm. I mean, [mcname] is here..."
+    ns "Ummm. Yani, [mcname] burada..."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:326
 translate turkish sm1mv02s04_241dd514:
@@ -734,13 +734,13 @@ translate turkish sm1mv02s04_23aa3b29:
 translate turkish sm1mv02s04_a13a8d4d:
 
     # mh "Hah. Fine craftsmanship."
-    mh "Hah. Fine craftsmanship."
+    mh "Hah. Güzel işçilik."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:372
 translate turkish sm1mv02s04_aedb9d02:
 
     # mc "Awww yeah."
-    mc "Awww yeah."
+    mc "Awww evet."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:375
 translate turkish sm1mv02s04_904f1517:
@@ -836,25 +836,25 @@ translate turkish sm1mv02s04_d4562c1d:
 translate turkish sm1mv02s04_later_6aa4ee50:
 
     # sy "Great work everyone. We're halfway done."
-    sy "Great work everyone. We're halfway done."
+    sy "Herkese harika iş çıkardı. Yarı yoldayız."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:461
 translate turkish sm1mv02s04_later_d0ff60e3:
 
     # sy "Let's have everyone just stretch out a bit. Keep the blood flowing."
-    sy "Let's have everyone just stretch out a bit. Keep the blood flowing."
+    sy "Herkes biraz esneme yapsın. Kan dolaşımını sağlayalım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:465
 translate turkish sm1mv02s04_later_1d936169:
 
     # mes "These chairs look good, but they're a bit hell on my back."
-    mes "These chairs look good, but they're a bit hell on my back."
+    mes "Bu sandalyeler iyi görünüyor, ama sırtım için biraz cehennem."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:469
 translate turkish sm1mv02s04_later_f31b69a3:
 
     # mh "Perfect time for a break. I sit around enough as it is."
-    mh "Perfect time for a break. I sit around enough as it is."
+    mh "Mola için mükemmel bir zaman. Zaten yeterince oturuyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:485
 translate turkish sm1mv02s04_later_ccc6b56e:
@@ -902,7 +902,7 @@ translate turkish sm1mv02s04_later_d91d57e6:
 translate turkish sm1mv02s04_later_a884c6d5:
 
     # sy "Alright. Scene Four. Interior {i}Intrepid{/i} Bridge."
-    sy "Alright. Scene Four. Interior {i}Intrepid{/i} Bridge."
+    sy "Pekala. Dördüncü Sahne. İç Mekan {i}Intrepid{/i} Köprüsü."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:509
 translate turkish sm1mv02s04_later_f090024c:
@@ -986,103 +986,103 @@ translate turkish sm1mv02s04_later_bce8692b:
 translate turkish sm1mv02s04_later_ef7a8a56:
 
     # sy "And cut.{w} Or at least that is what I'd be saying if we were filming."
-    sy "And cut.{w} Or at least that is what I'd be saying if we were filming."
+    sy "Ve kes.{w} Ya da en azından çekiyor olsaydık söyleyeceğim şey buydu."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:548
 translate turkish sm1mv02s04_later_236b3fc8:
 
     # ns "Hehe. So this is how it goes for you guys?"
-    ns "Hehe. So this is how it goes for you guys?"
+    ns "Hehe. Yani sizin için böyle mi oluyor?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:549
 translate turkish sm1mv02s04_later_ce23ea33:
 
     # ns "It is just pretend, but like, serious pretending?"
-    ns "It is just pretend, but like, serious pretending?"
+    ns "Bu sadece numara, ama ciddi numara gibi mi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:553
 translate turkish sm1mv02s04_later_068fa7a2:
 
     # mes "It looks that way. It's funny, it's almost exactly how I imagined it."
-    mes "It looks that way. It's funny, it's almost exactly how I imagined it."
+    mes "Öyle görünüyor. Komik, tam da hayal ettiğim gibi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:557
 translate turkish sm1mv02s04_later_56e4eecf:
 
     # mh "Haha, I like that phrase. 'Serious pretending', sounds like what most of my opponents try to do when they know their client is cooked."
-    mh "Haha, I like that phrase. 'Serious pretending', sounds like what most of my opponents try to do when they know their client is cooked."
+    mh "Haha, bu ifadeyi sevdim. 'Ciddi numara', rakiplerimden çoğunun müvekkillerinin işinin bittiğini bildiklerinde yapmaya çalıştıkları şey gibi."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:562
 translate turkish sm1mv02s04_later_2d1fc4a1:
 
     # mc "I just wanted to say that everyone did great."
-    mc "I just wanted to say that everyone did great."
+    mc "Sadece herkesin harika iş çıkardığını söylemek istedim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:575
 translate turkish sm1mv02s04_later_534bd6fd:
 
     # mc "This is certainly a bigger team than the pirate film, and I know it might be harder for our veterans."
-    mc "This is certainly a bigger team than the pirate film, and I know it might be harder for our veterans."
+    mc "Bu kesinlikle korsan filminden daha büyük bir ekip ve veteranlarımız için daha zor olabileceğini biliyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:576
 translate turkish sm1mv02s04_later_d8462e2f:
 
     # mc "But I think we learned a lot before and that will make this film even better."
-    mc "But I think we learned a lot before and that will make this film even better."
+    mc "Ama sanırım daha önce çok şey öğrendik ve bu filmi daha da iyi yapacak."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:588
 translate turkish sm1mv02s04_later_b48ce799:
 
     # mc "This movie is far more than just your parents' thematic porn movie."
-    mc "This movie is far more than just your parents' thematic porn movie."
+    mc "Bu film, ebeveynlerinizin tematik porno filminden çok daha fazlası."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:589
 translate turkish sm1mv02s04_later_6da5e82a:
 
     # mc "But I am sure that we will all pitch in to make it something special."
-    mc "But I am sure that we will all pitch in to make it something special."
+    mc "Ama eminim hepimiz bunu özel bir şey yapmak için katkıda bulunacağız."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:592
 translate turkish sm1mv02s04_later_59c9849b:
 
     # mc "Now we just need to memorize our lines and do it with the camera rolling."
-    mc "Now we just need to memorize our lines and do it with the camera rolling."
+    mc "Şimdi sadece repliklerimizi ezberlememiz ve kamera çalışırken yapmamız gerekiyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:594
 translate turkish sm1mv02s04_later_730d02b3:
 
     # ns "Excellent."
-    ns "Excellent."
+    ns "Mükemmel."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:597
 translate turkish sm1mv02s04_later_0f3fe4f4:
 
     # mc "Kanya, you have a line on some nice costumes, right?"
-    mc "Kanya, you have a line on some nice costumes, right?"
+    mc "Kanya, güzel kostümler hakkında bir fikrin var, değil mi?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:600
 translate turkish sm1mv02s04_later_936fc3b8:
 
     # kv "Yup. I think you'll be pleasantly surprised, [mcname]."
-    kv "Yup. I think you'll be pleasantly surprised, [mcname]."
+    kv "Evet. Hoş bir şekilde şaşıracağını düşünüyorum, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:602
 translate turkish sm1mv02s04_later_4b661a36:
 
     # mc "You never let me down."
-    mc "You never let me down."
+    mc "Beni asla hayal kırıklığına uğratmazsın."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:605
 translate turkish sm1mv02s04_later_6c37f0aa:
 
     # sy "Do we have any questions before we break for today?"
-    sy "Do we have any questions before we break for today?"
+    sy "Bugünlük molaya girmeden önce herhangi bir sorunuz var mı?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:609
 translate turkish sm1mv02s04_later_802453ca:
 
     # mes "No, I think I will be good."
-    mes "No, I think I will be good."
+    mes "Hayır, sanırım iyi olacağım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:610
 translate turkish sm1mv02s04_later_bfc62131:
@@ -1094,49 +1094,49 @@ translate turkish sm1mv02s04_later_bfc62131:
 translate turkish sm1mv02s04_later_034c82ec:
 
     # sy "Excellent, Min."
-    sy "Excellent, Min."
+    sy "Mükemmel, Min."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:616
 translate turkish sm1mv02s04_later_0582ebc2:
 
     # mh "I prepare to read in front of a full courthouse all the time."
-    mh "I prepare to read in front of a full courthouse all the time."
+    mh "Her zaman dolu bir mahkeme salonunun önünde okumaya hazırlanırım."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:617
 translate turkish sm1mv02s04_later_05478c0f:
 
     # mh "These lines should be a piece of cake, Stacy."
-    mh "These lines should be a piece of cake, Stacy."
+    mh "Bu replikler çocuk oyuncağı olmalı, Stacy."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:620
 translate turkish sm1mv02s04_later_fc51fee9:
 
     # sy "Awesome, Lyssa. I know you'll be incredible."
-    sy "Awesome, Lyssa. I know you'll be incredible."
+    sy "Harika, Lyssa. İnanılmaz olacağını biliyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:623
 translate turkish sm1mv02s04_later_7524e30c:
 
     # mh "I didn't say that, don't quote me on that."
-    mh "I didn't say that, don't quote me on that."
+    mh "Bunu söylemedim, beni bununla alıntılama."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:624
 translate turkish sm1mv02s04_later_78d4c719:
 
     # mh "Hehee."
-    mh "Hehee."
+    mh "Hihii."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:625
 translate turkish sm1mv02s04_later_d1790b9c:
 
     # mh "I will settle for at least being enticing."
-    mh "I will settle for at least being enticing."
+    mh "En azından çekici olmakla yetineceğim."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:628
 translate turkish sm1mv02s04_later_edd88bf3:
 
     # mc "I don't think there will be any problem hitting that mark."
-    mc "I don't think there will be any problem hitting that mark."
+    mc "Bu hedefi tutturmakta herhangi bir sorun olacağını düşünmüyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:631
 translate turkish sm1mv02s04_later_b1afe30f:
@@ -1148,25 +1148,25 @@ translate turkish sm1mv02s04_later_b1afe30f:
 translate turkish sm1mv02s04_later_4c09483b:
 
     # kv "Studio is being used for an antiacid commercial."
-    kv "Studio is being used for an antiacid commercial."
+    kv "Stüdyo bir antiasit reklamı için kullanılıyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:635
 translate turkish sm1mv02s04_later_515a38c0:
 
     # mc "Thanks again for all your help on this one, Kanya."
-    mc "Thanks again for all your help on this one, Kanya."
+    mc "Bu konuda tüm yardımların için tekrar teşekkürler, Kanya."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:636
 translate turkish sm1mv02s04_later_2b682cc9:
 
     # mc "We'll be in touch when we're ready to start filming."
-    mc "We'll be in touch when we're ready to start filming."
+    mc "Çekime başlamaya hazır olduğumuzda iletişime geçeceğiz."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:639
 translate turkish sm1mv02s04_later_0a0cccdd:
 
     # kv "I can't wait."
-    kv "I can't wait."
+    kv "Sabırsızlanıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:642
 translate turkish sm1mv02s04_later_b5b0c9de:
