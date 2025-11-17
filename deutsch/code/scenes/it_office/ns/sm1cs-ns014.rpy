@@ -1230,5 +1230,5 @@ translate deutsch sm1cs_ns014_studio_883c4173:
 translate deutsch sm1cs_ns014_studio_34d49c4d:
 
     # ns "No fair. You're too sneaky. Stacy..."
-    ns "No fair. You're too sneaky. Stacy..."
+    ns "Das ist unfair. Du bist zu hinterlistig. Stacy..."
 
