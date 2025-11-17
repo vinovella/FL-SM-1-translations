@@ -14,7 +14,7 @@
 
     # game/code/data/constants/location_constants.rpy:59
     old "Wurst Delivery"
-    new "Wurstlieferung"
+    new "Wurst Delivery"
 
     # game/code/data/constants/location_constants.rpy:69
     old "Orbix"
@@ -88,7 +88,7 @@ translate deutsch strings:
 
     # game/code/data/constants/location_constants.rpy:24
     old "Bathroom Door"
-    new "Bathroom Door"
+    new "Badezimmertür"
 
     # game/code/data/constants/location_constants.rpy:26
     old "TV Area"
@@ -100,7 +100,7 @@ translate deutsch strings:
 
     # game/code/data/constants/location_constants.rpy:36
     old "Upstairs Bed"
-    new "Oberes Bett"
+    new "Bett im Obergeschoss"
 
     # game/code/data/constants/location_constants.rpy:41
     old "Nari's Room"
@@ -242,9 +242,9 @@ translate deutsch strings:
 
     # game/code/data/constants/location_constants.rpy:155
     old "Storage Room"
-    new "Storage Room"
+    new "Lagerraum"
 
     # game/code/data/constants/location_constants.rpy:161
     old "Showers"
-    new "Showers"
+    new "Duschen"
 
