@@ -468,5 +468,5 @@ translate turkish strings:
 translate turkish sm1cs_cw003_c8642c96:
 
     # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
-    mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
+    mc "Annesi çok rahatlamış, Claire'in artık o \"seks\" uygulamasını kullanmak zorunda kalmayacağına sevindiğini söyleyerek."
 
