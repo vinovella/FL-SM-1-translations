@@ -998,89 +998,89 @@ translate deutsch strings:
 translate deutsch sm1cs_ns003_6c6f50bb:
 
     # mct "Nari has been usually quiet today."
-    mct "Nari has been usually quiet today."
+    mct "Nari war heute ungewöhnlich still."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:40
 translate deutsch sm1cs_ns003_33a29b32:
 
     # mct "Like she's playing a game with me. Only she knows the moves."
-    mct "Like she's playing a game with me. Only she knows the moves."
+    mct "Als würde sie ein Spiel mit mir spielen. Nur sie kennt die Spielzüge."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:44
 translate deutsch sm1cs_ns003_68c462c4:
 
     # ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
-    ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
+    ns "Als ich an meinen Schreibtisch zurückkehrte, hatte ich das Gefühl, mich jede Minute zusammenkauern und verstecken zu wollen. Es wurde noch schlimmer, wenn Anna oder Claire in meine Nähe kamen."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:67
 translate deutsch sm1cs_ns003_37aa12d7:
 
     # ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
-    ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
+    ns "Es ist ein Geheimnis. Aber... nun ja, kein absolutes Geheimnis. Ich wollte dir etwas für deine Hilfe schenken."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:146
 translate deutsch sm1cs_ns003_6d83be49:
 
     # mct "She can be so shy, and yet so casual about talking about sexy stuff."
-    mct "She can be so shy, and yet so casual about talking about sexy stuff."
+    mct "Sie kann so schüchtern sein und trotzdem so locker über sexy Themen reden."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:176
 translate deutsch sm1cs_ns003_6d8220b3:
 
     # mct "I never imagined it would take this long."
-    mct "I never imagined it would take this long."
+    mct "Ich hätte nie gedacht, dass es so lange dauern würde."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:193
 translate deutsch sm1cs_ns003_ee47ea12:
 
     # mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
-    mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
+    mc "Ich kann nicht einmal mehr als etwa zwanzig Minuten Pornos am Stück anschauen, und ich liebe Pornos."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:446
 translate deutsch sm1cs_ns003_9e3ed79b:
 
     # mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
-    mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
+    mct "Ich muss Stacy sagen, dass sie Recht hatte. Nari könnte eine großartige Verstärkung für das Studio sein."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:471
 translate deutsch sm1cs_ns003_edf4f757:
 
     # mct "This is either my best idea or my worst idea yet."
-    mct "This is either my best idea or my worst idea yet."
+    mct "Das ist entweder meine beste oder meine schlechteste Idee bisher."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:480
 translate deutsch sm1cs_ns003_11f9454a:
 
     # mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
-    mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
+    mc "Sei vorsichtig, Nari. Dieses Ding hat manchmal seinen eigenen Kopf..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:492
 translate deutsch sm1cs_ns003_2855cbd1:
 
     # mct "No, you are definitely not shy, Nari. Wow."
-    mct "No, you are definitely not shy, Nari. Wow."
+    mct "Nein, du bist definitiv nicht schüchtern, Nari. Wow."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:495
 translate deutsch sm1cs_ns003_6aee29d5:
 
     # mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
-    mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
+    mct "Sie hat wahrlich eine wunderbar sanfte Hand. Zart, aber nicht so leicht, dass man sie nicht spüren kann."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:539
 translate deutsch sm1cs_ns003_52693859:
 
     # mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
-    mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
+    mct "Für einen Moment dachte ich, Nari würde mir durch das Gloryhole einen blasen."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:560
 translate deutsch sm1cs_ns003_8a7c6254:
 
     # mct "Well, that was quite a ride. I almost thought she might want to hang out."
-    mct "Well, that was quite a ride. I almost thought she might want to hang out."
+    mct "Das war eine aufregende Erfahrung. Ich dachte fast, sie würde sich mit mir treffen wollen."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:561
 translate deutsch sm1cs_ns003_21d17c87:
 
     # mct "Maybe next time."
-    mct "Maybe next time."
+    mct "Vielleicht beim nächsten Mal."
 
