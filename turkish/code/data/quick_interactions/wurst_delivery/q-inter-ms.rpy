@@ -800,53 +800,53 @@ translate turkish q_inter_ms_45_62351857:
 translate turkish q_inter_ms_9_4e19df90:
 
     # ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
-    ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
+    ms "Kimse söylemedi mi sana? Ben sosisli bir ninjayım, [mcname]."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:129
 translate turkish q_inter_ms_9_16556a01:
 
     # ms "Swwwssh. See? while you blinked, I delivered five combo packs."
-    ms "Swwwssh. See? while you blinked, I delivered five combo packs."
+    ms "Swwwssh. Gördün mü? Sen göz kırparken beş kombo paket teslim ettim."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:160
 translate turkish q_inter_ms_14_0ab32883:
 
     # ms "At least they can't automate bratwurst makers yet."
-    ms "At least they can't automate bratwurst makers yet."
+    ms "En azından bratwurst yapımını henüz otomatikleştiremediler."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:373
 translate turkish q_inter_ms_35_59b4bc48:
 
     # ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
-    ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
+    ms "İkimizin de rahatça uyuyup, işte ezilmek için acele etmediğimiz güne kadeh kaldırırım."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:440
 translate turkish q_inter_ms_40_14e02518:
 
     # ms "Shhhh. You want the whole place to hear?"
-    ms "Shhhh. You want the whole place to hear?"
+    ms "Şşşşt. Herkesin duymasını mı istiyorsun?"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:528
 translate turkish q_inter_ms_45_fad7a7ce:
 
     # mc "I'm sure a lot of billionaires start the same way."
-    mc "I'm sure a lot of billionaires start the same way."
+    mc "Eminim birçok milyarder de böyle başlamıştır."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:529
 translate turkish q_inter_ms_45_678c5fed:
 
     # ms "Maybe I'm on my first step to becoming one."
-    ms "Maybe I'm on my first step to becoming one."
+    ms "Belki de ben biri olmak için ilk adımımı attım."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:86
 translate turkish q_inter_ms_5_8a5a6bb5:
 
     # ms "Never thought I'd be buried in debt and putting wieners in bags."
-    ms "Never thought I'd be buried in debt and putting wieners in bags."
+    ms "Borçların altında ezilip sosisleri torbalara koyacağımı hiç düşünmemiştim."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
 translate turkish q_inter_ms_19_6c302b48:
 
     # ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
-    ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
+    ms "Seni görmek, yakında işe dönüp sosislerle uğraşacağımı hatırlatıyor."
 
