@@ -214,5 +214,5 @@ translate deutsch strings:
 
     # game/code/data/characters/names.rpy:87
     old "Douche Cop"
-    new "Douche Cop"
+    new "Böser Cop"
 
