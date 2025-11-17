@@ -734,7 +734,7 @@ translate turkish sm1mv01s01_3bc7e398:
 translate turkish sm1mv01s01_cc45cedb:
 
     # mc "Hey, Kanya!"
-    mc "Hey, Kanya!"
+    mc "Selam, Kanya!"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:416
 translate turkish sm1mv01s01_428ff741:
