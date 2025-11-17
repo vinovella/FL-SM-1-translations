@@ -254,7 +254,7 @@ translate deutsch sm1cs_mes006_c987c1db:
 translate deutsch sm1cs_mes006_76a7eb9e:
 
     # mes "No... auhuah... [mcname], I want-"
-    mes "Nein... auhuah... [Name], ich möchte-"
+    mes "Nein... auhuah... [mcname], ich möchte-"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:214
 translate deutsch sm1cs_mes006_5576bd8c:
