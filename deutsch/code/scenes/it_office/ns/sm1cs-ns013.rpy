@@ -1190,7 +1190,7 @@ translate deutsch ns013_labels_section_34a24ba1:
 translate deutsch ns013_labels_section_42a94aa4:
 
     # ns "Does... does my pussy feel good, [mcname]?"
-    ns "Fühlt sich meine Muschi gut an, [mcname]?"
+    ns "Fühlt sich... meine Muschi gut an, [mcname]?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:659
 translate deutsch ns013_labels_section_c52dba7a:
@@ -2408,29 +2408,29 @@ translate deutsch ns013_labels_section_4e1d76af:
 translate deutsch ns013_labels_section_0887f6cc:
 
     # ns "I am a very bad [nspetlabel]."
-    ns "I am a very bad [nspetlabel]."
+    ns "Ich bin eine sehr schlechte [nspetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:569
 translate deutsch ns013_labels_section_3688c4d9:
 
     # ns "A little. I'm actually still-"
-    ns "A little. I'm actually still-"
+    ns "Ein bisschen. Ich bin eigentlich immer noch-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:627
 translate deutsch ns013_labels_section_713f1049:
 
     # ns "You're always so kind to me, [nsmcpetlabel]."
-    ns "You're always so kind to me, [nsmcpetlabel]."
+    ns "Du bist immer so nett zu mir, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:651
 translate deutsch ns013_labels_section_791ab451:
 
     # mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
-    mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+    mc "Ich liebe es, wie sich deine Muschi um mich herum anfühlt. Ich habe so eine gute [nspetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:662
 translate deutsch ns013_labels_section_ab353c83:
 
     # ns "I can go... Mrrmmm... at just the right speed."
-    ns "I can go... Mrrmmm... at just the right speed."
+    ns "Ich kann... Mrrmmm... genau die richtige Geschwindigkeit erreichen."
 
