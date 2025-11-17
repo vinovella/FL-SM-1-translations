@@ -1226,7 +1226,7 @@ translate turkish sm1cs_mas004_after_lunch_f03fbd5b:
 translate turkish sm1cs_mas004_after_lunch_17356166:
 
     # ms "Tonight... rhua-oouha..."
-    ms "Tonight... rhua-oouha..."
+    ms "Bu gece... rhua-oouha..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:796
 translate turkish sm1cs_mas004_after_lunch_110edea5:
@@ -1280,7 +1280,7 @@ translate turkish sm1cs_mas004_after_lunch_bc96ee1b:
 translate turkish sm1cs_mas004_after_lunch_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "Selam."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:825
 translate turkish sm1cs_mas004_after_lunch_6758c6ec:
