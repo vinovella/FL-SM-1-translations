@@ -690,13 +690,13 @@ translate turkish strings:
 translate turkish sm1cs_am_renovation_later_e7545316:
 
     # am "Fucking charley horse. Nrraaah."
-    am "Fucking charley horse. Nrraaah."
+    am "Lanet olası kramp. Nrraaah."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:283
 translate turkish sm1cs_am_renovation_later_796e7fbc:
 
     # mc "Another charley horse?"
-    mc "Another charley horse?"
+    mc "Yine kramp mı?"
 
 translate turkish strings:
 
