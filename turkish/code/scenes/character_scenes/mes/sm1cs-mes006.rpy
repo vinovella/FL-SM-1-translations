@@ -122,7 +122,7 @@ translate turkish sm1cs_mes006_2b362099:
 translate turkish sm1cs_mes006_c9159ee9:
 
     # mes "Hey [mcname]."
-    mes "Hey [mcname]."
+    mes "Selam [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:151
 translate turkish sm1cs_mes006_1f9d77f1:
@@ -2858,7 +2858,7 @@ translate turkish sm1cs_mes006_water_sports_e0cfd3c6:
 translate turkish sm1cs_mes006_water_sports_3d6e0cc9:
 
     # mes "Yes!"
-    mes "Yes!"
+    mes "Evet!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1442
 translate turkish sm1cs_mes006_water_sports_326c6c01:
