@@ -590,7 +590,7 @@ translate deutsch strings:
 
     # game/code/scenes/it_office/sm1fs-i002.rpy:109
     old "Going out"
-    new "Ausgehen"
+    new "Hinausgehen"
 
     # game/code/scenes/it_office/sm1fs-i002.rpy:109
     old "Online shopping"
@@ -630,17 +630,17 @@ translate deutsch sm1fs_i002_bf4b8ddd:
 translate deutsch sm1fs_i002_59b9bf49:
 
     # cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
-    cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
+    cw "Nachdem ich meine Entscheidung getroffen habe, werde ich dich [gt.next_day_name!t] um 8:00 Uhr anrufen."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:287
 translate deutsch sm1fs_i002_334c54a0:
 
     # mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
-    mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
+    mc "Ich freue mich auf deinen Anruf [gt.next_day_name!t] um 8:00 Uhr!"
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:205
 translate deutsch sm1fs_i002_46800ea7:
 
     # mc "After I had it for a while I... Realized it could be made better."
-    mc "After I had it for a while I... Realized it could be made better."
+    mc "Nachdem ich es eine Weile hatte... merkte ich, dass es verbessert werden könnte."
 
