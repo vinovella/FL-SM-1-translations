@@ -1508,7 +1508,7 @@ translate chinese sm1mv02s09_watersports_804ae0f9:
 translate chinese sm1mv02s09_watersports_fac1ab2b:
 
     # mhmes "I think I need to study this virus more... that was quite the reaction."
-    mhmes 看来我得深入研究这种病毒了...这反应可真够劲儿。"
+    mhmes "看来我得深入研究这种病毒了...这反应可真够劲儿。"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1196
 translate chinese sm1mv02s09_watersports_0cb5b032:
