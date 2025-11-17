@@ -194,7 +194,7 @@ translate turkish sm1mv02s03_2_414fe690:
 translate turkish sm1mv02s03_2_c1e7f53c:
 
     # mc "Damn."
-    mc "Damn."
+    mc "Lanet olsun."
 
 # game/code/scenes/movies/movie02/sm1mv02s03_2.rpy:172
 translate turkish sm1mv02s03_2_b882f5d7:
