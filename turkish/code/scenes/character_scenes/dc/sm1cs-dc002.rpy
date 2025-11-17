@@ -524,5 +524,5 @@ translate turkish strings:
 translate turkish sm1cs_dc002_9cef6b0f:
 
     # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
-    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+    mct "Şu anda Bir Numaralı Kuralı çiğniyorum; kardiyo! Tanrım, belki stüdyo için bir koşu bandı almalıyız..."
 

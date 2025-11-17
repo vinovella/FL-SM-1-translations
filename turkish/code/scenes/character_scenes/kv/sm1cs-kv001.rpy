@@ -500,9 +500,9 @@ translate turkish strings:
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
     old "Sure, I'm interested in how a photoshoot like this works"
-    new "Sure, I'm interested in how a photoshoot like this works"
+    new "Elbette, böyle bir fotoğraf çekiminin nasıl çalıştığıyla ilgileniyorum"
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
     old "Oh, I'll give you some space"
-    new "Oh, I'll give you some space"
+    new "Ah, sana biraz alan vereceğim"
 
