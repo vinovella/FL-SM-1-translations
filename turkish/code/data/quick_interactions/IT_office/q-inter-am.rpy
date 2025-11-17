@@ -764,59 +764,59 @@ translate turkish q_inter_am_28_1c1031d5:
 translate turkish q_inter_am_15_f4735917:
 
     # mc "I thought I could make it more efficient."
-    mc "I thought I could make it more efficient."
+    mc "Daha verimli hale getirebileceğimi düşünmüştüm."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:330
 translate turkish q_inter_am_21_5ceda4d0:
 
     # am "Uh... never mind. It might be awkward. And you'd just be sitting there."
-    am "Uh... never mind. It might be awkward. And you'd just be sitting there."
+    am "Uh... boş ver. Garip olabilir. Ve sadece orada otururdun."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:427
 translate turkish q_inter_am_29_6b516b0a:
 
     # mc "Can I get you a drink, April?"
-    mc "Can I get you a drink, April?"
+    mc "Sana bir içki ısmarlayabilir miyim, April?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:428
 translate turkish q_inter_am_29_e256ee28:
 
     # am "Nah, I'm just going to have this one and head home."
-    am "Nah, I'm just going to have this one and head home."
+    am "Hayır, sadece bunu içip eve gideceğim."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:429
 translate turkish q_inter_am_29_d5ae2301:
 
     # mc "Fair enough."
-    mc "Fair enough."
+    mc "Anlaşıldı."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:432
 translate turkish q_inter_am_29_a98164a3:
 
     # am "But maybe some other time?"
-    am "But maybe some other time?"
+    am "Ama belki başka bir sefere?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:433
 translate turkish q_inter_am_29_74c498aa:
 
     # mc "Sounds good to me."
-    mc "Sounds good to me."
+    mc "Bana uyar."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:438
 translate turkish q_inter_am_30_fc8a648f:
 
     # am "You know... that was a pretty nice hotel we were at."
-    am "You know... that was a pretty nice hotel we were at."
+    am "Biliyor musun... kaldığımız otel oldukça güzeldi."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:439
 translate turkish q_inter_am_30_6e031e75:
 
     # mc "Yeah it was."
-    mc "Yeah it was."
+    mc "Evet öyleydi."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:442
 translate turkish q_inter_am_30_83e13801:
 
     # am "We'll have to go back sometime for round 2."
-    am "We'll have to go back sometime for round 2."
+    am "2. tur için bir ara geri dönmeliyiz."
 

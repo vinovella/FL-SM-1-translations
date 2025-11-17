@@ -544,189 +544,189 @@ translate turkish strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about making a new move"
-    new "Talk about making a new move"
+    new "Yeni bir hamle yapmayı konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the movie options"
-    new "Talk about the movie options"
+    new "Film seçenekleri hakkında konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Choose which movie to make"
-    new "Choose which movie to make"
+    new "Hangi filmi yapacağını seç"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Stacy launched the S&M Website"
-    new "Stacy launched the S&M Website"
+    new "Stacy S&M Web Sitesini başlattı"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer Min's text again"
-    new "Answer Min's text again"
+    new "Min'in mesajına tekrar cevap ver"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Help Min to move in"
-    new "Help Min to move in"
+    new "Min'in taşınmasına yardım et"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Carnival date with Lyssa"
-    new "Carnival date with Lyssa"
+    new "Lyssa ile karnaval randevusu"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Show the renovated studio to Lyssa"
-    new "Show the renovated studio to Lyssa"
+    new "Yenilenmiş stüdyoyu Lyssa'ya göster"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Borrow Stacy's laptop"
-    new "Borrow Stacy's laptop"
+    new "Stacy'nin dizüstü bilgisayarını ödünç al"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Visit museum with Melony"
-    new "Visit museum with Melony"
+    new "Melony ile müzeyi ziyaret et"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Go bouldering with Melony"
-    new "Go bouldering with Melony"
+    new "Melony ile kaya tırmanışına git"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Problem at the IT Office"
-    new "Problem at the IT Office"
+    new "BT Ofisinde sorun"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Go jogging with April"
-    new "Go jogging with April"
+    new "April ile koşuya git"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Get back with Claire"
-    new "Get back with Claire"
+    new "Claire ile barış"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Continue what you had with Claire"
-    new "Continue what you had with Claire"
+    new "Claire ile olan ilişkine devam et"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Nari wants to talk with you"
-    new "Nari wants to talk with you"
+    new "Nari seninle konuşmak istiyor"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Ask Nelson about sponsoring theater"
-    new "Ask Nelson about sponsoring theater"
+    new "Nelson'a tiyatroyu sponsorlamak hakkında sor"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the Wurst Delivery Sponsorship"
-    new "Talk about the Wurst Delivery Sponsorship"
+    new "Wurst Delivery Sponsorluğu hakkında konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about the Pirates movie"
-    new "Talk to Stacy about the Pirates movie"
+    new "Stacy ile Korsanlar filmi hakkında konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Buy costumes for the movie"
-    new "Buy costumes for the movie"
+    new "Film için kostümler satın al"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about recruiting the actress"
-    new "Talk about recruiting the actress"
+    new "Oyuncu bulmayı konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Recruit Taisia as the actress"
-    new "Recruit Taisia as the actress"
+    new "Taisia'yı oyuncu olarak bul"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Start filming the next scene"
-    new "Start filming the next scene"
+    new "Bir sonraki sahneyi çekmeye başla"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Travel to the location for shooting"
-    new "Travel to the location for shooting"
+    new "Çekim için lokasyona git"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Finished editing the movie"
-    new "Finished editing the movie"
+    new "Filmin düzenlemesi tamamlandı"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about the Sci-Fi Movie"
-    new "Talk to Stacy about the Sci-Fi Movie"
+    new "Stacy ile Bilim Kurgu Filmi hakkında konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Recruit Min for Sci-Fi Movie"
-    new "Recruit Min for Sci-Fi Movie"
+    new "Bilim Kurgu Filmi için Min'i bul"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Recruit Lyssa for Sci-Fi Movie"
-    new "Recruit Lyssa for Sci-Fi Movie"
+    new "Bilim Kurgu Filmi için Lyssa'yı bul"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about Sci-Fi Movie props"
-    new "Talk to Stacy about Sci-Fi Movie props"
+    new "Stacy ile Bilim Kurgu Filmi aksesuarları hakkında konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about building the set"
-    new "Talk to Stacy about building the set"
+    new "Stacy ile seti kurmayı konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Build the rest of the set"
-    new "Build the rest of the set"
+    new "Setin geri kalanını inşa et"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Start filming!"
-    new "Start filming!"
+    new "Çekime başla!"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Film the second scene"
-    new "Film the second scene"
+    new "İkinci sahneyi çek"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Plan a Spa day"
-    new "Plan a Spa day"
+    new "Bir spa günü planla"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Enjoy a Spa day"
-    new "Enjoy a Spa day"
+    new "Bir spa gününün tadını çıkar"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about big scenes in the Sci-Fi Movie"
-    new "Talk about big scenes in the Sci-Fi Movie"
+    new "Bilim Kurgu Filmindeki büyük sahneleri konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Film the third scene"
-    new "Film the third scene"
+    new "Üçüncü sahneyi çek"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Film the last scene"
-    new "Film the last scene"
+    new "Son sahneyi çek"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Watch the final cut"
-    new "Watch the final cut"
+    new "Nihai kurguyu izle"
 
 translate turkish strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Meet an old friend"
-    new "Meet an old friend"
+    new "Eski bir arkadaşla tanış"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Surprise Nari at night"
-    new "Surprise Nari at night"
+    new "Geceleri Nari'yi sürprizle"
 
 translate turkish strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Denise's, Kellie's, and Veronica's storylines"
-    new "Progress Denise's, Kellie's, and Veronica's storylines"
+    new "Denise, Kellie ve Veronica'nın hikayelerini ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress the Theater and Taisia's storylines"
-    new "Progress the Theater and Taisia's storylines"
+    new "Tiyatro ve Taisia'nın hikayelerini ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Lyssa's storyline and the Main Story"
-    new "Progress Lyssa's storyline and the Main Story"
+    new "Lyssa'nın hikayesini ve Ana Hikayeyi ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Anna's and Nari's storylines"
-    new "Progress Anna's and Nari's storylines"
+    new "Anna ve Nari'nin hikayelerini ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
-    new "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
+    new "Denise, Kellie, Taisia ve Veronica'nın hikayelerini ilerlet"
 

@@ -284,23 +284,23 @@ translate turkish q_inter_ag_18_b714cbc4:
 translate turkish q_inter_ag_4_3546ca5d:
 
     # ag "I definitely shouldn't have had that extra energy drink."
-    ag "I definitely shouldn't have had that extra energy drink."
+    ag "Kesinlikle o fazladan enerji içkisini içmemeliydim."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:85
 translate turkish q_inter_ag_7_79d8f0d1:
 
     # ag "Great. I finished my book, 'The Mask of Morraco' last night."
-    ag "Great. I finished my book, 'The Mask of Morraco' last night."
+    ag "Harika. Dün gece 'Morraco'nun Maskesi' kitabını bitirdim."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:174
 translate turkish q_inter_ag_17_e1f59b0c:
 
     # ag "You know, Ridley makes pretty good margaritas."
-    ag "You know, Ridley makes pretty good margaritas."
+    ag "Biliyor musun, Ridley oldukça iyi margarita yapıyor."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:188
 translate turkish q_inter_ag_18_c20b0fa0:
 
     # mc "Going to be working at the coffee shop for a while?"
-    mc "Going to be working at the coffee shop for a while?"
+    mc "Bir süre kahve dükkanında çalışacak mısın?"
 
