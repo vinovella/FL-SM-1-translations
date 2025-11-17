@@ -762,5 +762,5 @@ translate deutsch strings:
 translate deutsch sm1cs_sy001_watersports_962bd759:
 
     # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
-    sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
+    sy "Ja, ja. Mach dir keine Sorgen um mich, ich werde einfach hier sitzen, den Nachklang des Orgasmus genießen und eine Weile über all die schmutzigen Dinge nachdenken."
 
