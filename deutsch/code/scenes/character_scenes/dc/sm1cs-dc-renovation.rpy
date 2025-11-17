@@ -602,11 +602,11 @@ translate deutsch sm1cs_dc_renovation_e5818002:
 translate deutsch sm1cs_dc_renovation_1b6ec0ce:
 
     # mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
-    mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+    mc "Oh Mist! Ich habe dir noch kein Wasser oder etwas anderes angeboten! Du musst durstig sein."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
 translate deutsch sm1cs_dc_renovation_6d9f72cb:
 
     # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
-    mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
+    mc "Wir sind jetzt schon ein paar Stunden hier, und du hast so viel geschafft {i}und{/i} auch noch mein Problem gelöst!"
 
