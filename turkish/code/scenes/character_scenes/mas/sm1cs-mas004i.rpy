@@ -2,13 +2,13 @@
 translate turkish sm1cs_mas004i_68b476b7:
 
     # ms "Hey."
-    ms "Hey."
+    ms "Selam."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004i.rpy:6
 translate turkish sm1cs_mas004i_866f4b07:
 
     # mc "Hey, Maya."
-    mc "Hey, Maya."
+    mc "Selam, Maya."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004i.rpy:9
 translate turkish sm1cs_mas004i_cc15c64c:

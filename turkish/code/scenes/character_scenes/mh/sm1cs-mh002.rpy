@@ -392,5 +392,5 @@ translate turkish sm1cs_mh002_92b73ecf:
 translate turkish sm1cs_mh002_4165b5fc:
 
     # mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
-    mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
+    mh "Görünüşe göre bir kez hız kazandıktan sonra, Lydia'nın ne yaptığını anlamak için gizemli perdeyi oldukça hızlı bir şekilde delebilmişsiniz."
 

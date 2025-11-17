@@ -458,7 +458,7 @@ translate turkish sm1cs_my003_at_gym_5a280294:
 translate turkish sm1cs_my003_at_gym_61d35e29:
 
     # mct "Uh oh-"
-    mct "Uh oh-"
+    mct "Eyvah-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:260
 translate turkish sm1cs_my003_at_gym_fc8a5374:
@@ -542,7 +542,7 @@ translate turkish sm1cs_my003_at_gym_1eba3321:
 translate turkish sm1cs_my003_at_gym_2408d87d:
 
     # mct "Oh my..."
-    mct "Oh my..."
+    mct "Aman Tanrım..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:299
 translate turkish sm1cs_my003_at_gym_c4e04c7e:
@@ -968,19 +968,19 @@ translate turkish sm1cs_my003_at_gym_f35e0449:
 translate turkish sm1cs_my003_at_gym_9f3aca8e:
 
     # my "Almoooost..."
-    my "Almoooost..."
+    my "Neredeyseee..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:489
 translate turkish sm1cs_my003_at_gym_ef5945ab:
 
     # my "Damnit!"
-    my "Damnit!"
+    my "Lanet olsun!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:490
 translate turkish sm1cs_my003_at_gym_cd687329:
 
     # my "I can't reach it!"
-    my "I can't reach it!"
+    my "Ulaşamıyorum!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:493
 translate turkish sm1cs_my003_at_gym_fd0b49d7:
@@ -998,7 +998,7 @@ translate turkish sm1cs_my003_at_gym_18f078c8:
 translate turkish sm1cs_my003_at_gym_f35e0449_1:
 
     # my "Okay!"
-    my "Okay!"
+    my "Tamam!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:501
 translate turkish sm1cs_my003_at_gym_0dfc59a1:
@@ -1010,7 +1010,7 @@ translate turkish sm1cs_my003_at_gym_0dfc59a1:
 translate turkish sm1cs_my003_at_gym_f35e0449_2:
 
     # my "Okay!"
-    my "Okay!"
+    my "Tamam!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:512
 translate turkish sm1cs_my003_continue_24ca9a83:
@@ -1022,13 +1022,13 @@ translate turkish sm1cs_my003_continue_24ca9a83:
 translate turkish sm1cs_my003_continue_b3828257:
 
     # my "I got it!"
-    my "I got it!"
+    my "Yakaladım!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:518
 translate turkish sm1cs_my003_continue_3a17010e:
 
     # mc "Hell yeah!"
-    mc "Hell yeah!"
+    mc "Evet, kesinlikle!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:521
 translate turkish sm1cs_my003_continue_4e126364:
@@ -1046,7 +1046,7 @@ translate turkish sm1cs_my003_continue_fbc0c021:
 translate turkish sm1cs_my003_continue_01d946a6:
 
     # mc "Uhm, sure!"
-    mc "Uhm, sure!"
+    mc "Şey, elbette!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:527
 translate turkish sm1cs_my003_continue_085d881d:
@@ -1058,7 +1058,7 @@ translate turkish sm1cs_my003_continue_085d881d:
 translate turkish sm1cs_my003_continue_2b834db9:
 
     # mct "Well... here goes nothing."
-    mct "Well... here goes nothing."
+    mct "Eh... işte şimdi bakalım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:532
 translate turkish sm1cs_my003_continue_ed2e8622:
@@ -1082,7 +1082,7 @@ translate turkish sm1cs_my003_continue_026fac3b:
 translate turkish sm1cs_my003_continue_f460ef32:
 
     # mct "More pushing with my legs."
-    mct "More pushing with my legs."
+    mct "Bacaklarımla daha fazla itme."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:541
 translate turkish sm1cs_my003_continue_f356fa7a:
@@ -1106,7 +1106,7 @@ translate turkish sm1cs_my003_continue_deca35c4:
 translate turkish sm1cs_my003_continue_91c59289:
 
     # mc "Don't remind me..."
-    mc "Don't remind me..."
+    mc "Hatırlatma bana..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:551
 translate turkish sm1cs_my003_continue_6b74b4c7:
@@ -1124,19 +1124,19 @@ translate turkish sm1cs_my003_continue_e736fd33:
 translate turkish sm1cs_my003_continue_a3ef5b48:
 
     # mc "Okay!"
-    mc "Okay!"
+    mc "Tamam!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:559
 translate turkish sm1cs_my003_continue_c191efd8:
 
     # mct "Almost... got it!"
-    mct "Almost... got it!"
+    mct "Neredeyse... yakaladım!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:563
 translate turkish sm1cs_my003_continue_d580891f:
 
     # mc "I got it!"
-    mc "I got it!"
+    mc "Yakaladım!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:566
 translate turkish sm1cs_my003_continue_aa5425b1:
@@ -1148,7 +1148,7 @@ translate turkish sm1cs_my003_continue_aa5425b1:
 translate turkish sm1cs_my003_continue_2eb7c63f:
 
     # my "Yay! You did it!"
-    my "Yay! You did it!"
+    my "Yaşasın! Başardın!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:574
 translate turkish sm1cs_my003_continue_0f62bd18:
@@ -1184,7 +1184,7 @@ translate turkish sm1cs_my003_continue_dedcd6c9:
 translate turkish sm1cs_my003_continue_b3ae8984:
 
     # mc "Uhm..."
-    mc "Uhm..."
+    mc "Şey..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:587
 translate turkish sm1cs_my003_continue_d8623c38:
@@ -1196,19 +1196,19 @@ translate turkish sm1cs_my003_continue_d8623c38:
 translate turkish sm1cs_my003_continue_40141271:
 
     # mct "But I can't disappoint Mom."
-    mct "But I can't disappoint Mom."
+    mct "Ama annemi hayal kırıklığına uğratamam."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:592
 translate turkish sm1cs_my003_continue_af5beb60:
 
     # mct "But I can't disappoint Melony."
-    mct "But I can't disappoint Melony."
+    mct "Ama Melony'yi hayal kırıklığına uğratamam."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:594
 translate turkish sm1cs_my003_continue_ea006630:
 
     # mc "Sure! Let's go bouldering!"
-    mc "Sure! Let's go bouldering!"
+    mc "Elbette! Hadi kaya tırmanışına gidelim!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:597
 translate turkish sm1cs_my003_continue_8835a04a:
@@ -1220,7 +1220,7 @@ translate turkish sm1cs_my003_continue_8835a04a:
 translate turkish sm1cs_my003_continue_18206bf0:
 
     # mct "Oh boy..."
-    mct "Oh boy..."
+    mct "Aman Tanrım..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:617
 translate turkish sm1cs_my003_continue_7b33da01:
@@ -1232,7 +1232,7 @@ translate turkish sm1cs_my003_continue_7b33da01:
 translate turkish sm1cs_my003_continue_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "Ah?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:622
 translate turkish sm1cs_my003_continue_2bc19e55:
@@ -1244,13 +1244,13 @@ translate turkish sm1cs_my003_continue_2bc19e55:
 translate turkish sm1cs_my003_continue_c74b5716:
 
     # mc "Thanks, Mom."
-    mc "Thanks, Mom."
+    mc "Teşekkürler, Anne."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:627
 translate turkish sm1cs_my003_continue_ae633b37:
 
     # mc "Thanks, Melony."
-    mc "Thanks, Melony."
+    mc "Teşekkürler, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:630
 translate turkish sm1cs_my003_continue_cfc491c0:
@@ -1310,37 +1310,37 @@ translate turkish sm1cs_my003_continue_f0189776:
 translate turkish sm1cs_my003_continue_b16effd4:
 
     # my "Hooray!"
-    my "Hooray!"
+    my "Yaşasın!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:658
 translate turkish sm1cs_my003_continue_5f895441:
 
     # my "All right, you ready?"
-    my "All right, you ready?"
+    my "Tamam, hazır mısın?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:660
 translate turkish sm1cs_my003_continue_112c2e89:
 
     # mc "Can I say no?"
-    mc "Can I say no?"
+    mc "Hayır diyebilir miyim?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:663
 translate turkish sm1cs_my003_continue_8afca06f:
 
     # my "Nope!"
-    my "Nope!"
+    my "Hayır!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:667
 translate turkish sm1cs_my003_continue_e7cc732f:
 
     # my "On your mark...{w} get set..."
-    my "On your mark...{w} get set..."
+    my "Yerlerinize...{w} hazırlanın..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:671
 translate turkish sm1cs_my003_continue_8e24e336:
 
     # my "Go!"
-    my "Go!"
+    my "Başla!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:673
 translate turkish sm1cs_my003_continue_699878f6:
@@ -1352,7 +1352,7 @@ translate turkish sm1cs_my003_continue_699878f6:
 translate turkish sm1cs_my003_continue_f11c77ee:
 
     # mc "That's cheating!"
-    mc "That's cheating!"
+    mc "Bu hile!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:679
 translate turkish sm1cs_my003_continue_2e0e636a:
@@ -1388,25 +1388,25 @@ translate turkish sm1cs_my003_continue_0204286d:
 translate turkish sm1cs_my003_continue_5e0e2d02:
 
     # my "Let your Mom show you-"
-    my "Let your Mom show you-"
+    my "Annenin sana göstermesine izin ver-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:696
 translate turkish sm1cs_my003_continue_e8bed92a:
 
     # my "Let me show you-"
-    my "Let me show you-"
+    my "Sana göstereyim-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:700
 translate turkish sm1cs_my003_continue_0e31ed30:
 
     # my "Ohh shiiitttt!"
-    my "Ohh shiiitttt!"
+    my "Ohhh siktiiir!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:704
 translate turkish sm1cs_my003_continue_13958af6:
 
     # mc "Oh shi-!"
-    mc "Oh shi-!"
+    mc "Ah sik-!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:708
 translate turkish sm1cs_my003_continue_db7ffff6:
@@ -1418,13 +1418,13 @@ translate turkish sm1cs_my003_continue_db7ffff6:
 translate turkish sm1cs_my003_continue_37154a2a:
 
     # mc "Uh oh."
-    mc "Uh oh."
+    mc "Eyvah."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:715
 translate turkish sm1cs_my003_continue_4baad9ce:
 
     # mc "Shit!"
-    mc "Shit!"
+    mc "Siktir!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:721
 translate turkish sm1cs_my003_continue_dcde9073:
@@ -1436,13 +1436,13 @@ translate turkish sm1cs_my003_continue_dcde9073:
 translate turkish sm1cs_my003_continue_5ec992a3:
 
     # my "Owww!"
-    my "Owww!"
+    my "Acııı!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:725
 translate turkish sm1cs_my003_continue_7706f5bb:
 
     # mct "Fuck... that wasn't fun..."
-    mct "Fuck... that wasn't fun..."
+    mct "Siktir... bu eğlenceli değildi..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:727
 translate turkish sm1cs_my003_continue_febb0419:
@@ -1454,7 +1454,7 @@ translate turkish sm1cs_my003_continue_febb0419:
 translate turkish sm1cs_my003_continue_d53589a3:
 
     # mc "Yeah... totally fine..."
-    mc "Yeah... totally fine..."
+    mc "Evet... tamamen iyiyim..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:734
 translate turkish sm1cs_my003_continue_9f9df535:
@@ -1472,7 +1472,7 @@ translate turkish sm1cs_my003_continue_49378d9a:
 translate turkish sm1cs_my003_continue_8c7d63ba:
 
     # mct "Her big, wonderful-"
-    mct "Her big, wonderful-"
+    mct "Onun büyük, harika-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:741
 translate turkish sm1cs_my003_continue_a9449e93:
@@ -1520,7 +1520,7 @@ translate turkish sm1cs_my003_continue_3cb3b1dd:
 translate turkish sm1cs_my003_continue_2e14611e:
 
     # mc "I pinky promise that I am totally okay."
-    mc "I pinky promise that I am totally okay."
+    mc "Çocuk parmağıma söz veriyorum, tamamen iyiyim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:762
 translate turkish sm1cs_my003_continue_8f39ba93:
@@ -1532,7 +1532,7 @@ translate turkish sm1cs_my003_continue_8f39ba93:
 translate turkish sm1cs_my003_continue_207aeb81:
 
     # mc "Now that, I am totally okay with!"
-    mc "Now that, I am totally okay with!"
+    mc "İşte buna tamamen razıyım!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:768
 translate turkish sm1cs_my003_continue_8806ef39:
@@ -1580,13 +1580,13 @@ translate turkish sm1cs_my003_continue_0a5fc1f8:
 translate turkish sm1cs_my003_continue_b833da70:
 
     # my "In fact, Stacy invited me over sometime soon for your little competition thing."
-    my "In fact, Stacy invited me over sometime soon for your little competition thing."
+    my "Aslında, Stacy beni yakında küçük yarışma şeyiniz için davet etti."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:788
 translate turkish sm1cs_my003_continue_b506d02f:
 
     # mc "Competition thing?"
-    mc "Competition thing?"
+    mc "Yarışma şeyi mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:791
 translate turkish sm1cs_my003_continue_6b2409eb:

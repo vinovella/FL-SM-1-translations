@@ -1245,7 +1245,7 @@ translate turkish sm1cs_mh008_couple_carousel_7647e6de:
 translate turkish sm1cs_mh008_couple_carousel_d0445bce:
 
     # mc "Yeah, that sounds nice."
-    mc "Yeah, that sounds nice."
+    mc "Evet, kulağa hoş geliyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:733
 translate turkish sm1cs_mh008_couple_carousel_end_cac1d1c7:
@@ -2347,5 +2347,5 @@ translate turkish strings:
 translate turkish sm1cs_mh008_f927037e:
 
     # mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
-    mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
+    mh "Bilmiyorum... Gerçekten birlikte vakit geçirmeyeli uzun zaman oldu. Belki bir şeyler yapabiliriz, bir yere gidebiliriz diye düşündüm."
 

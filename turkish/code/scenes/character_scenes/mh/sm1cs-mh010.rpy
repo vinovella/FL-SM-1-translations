@@ -230,7 +230,7 @@ translate turkish sm1cs_mh010_a1c82878:
 translate turkish sm1cs_mh010_3355807b:
 
     # mh "I..."
-    mh "I..."
+    mh "Ben..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:131
 translate turkish sm1cs_mh010_8ff40ab3:
@@ -320,7 +320,7 @@ translate turkish sm1cs_mh010_8f924bc7:
 translate turkish sm1cs_mh010_eacfa1b7:
 
     # mct "Uh oh."
-    mct "Uh oh."
+    mct "Eyvah."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:171
 translate turkish sm1cs_mh010_3225204e:
@@ -362,7 +362,7 @@ translate turkish sm1cs_mh010_8c091e0d:
 translate turkish sm1cs_mh010_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "Gerçekten mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:192
 translate turkish sm1cs_mh010_d7eb3ba9:
@@ -404,7 +404,7 @@ translate turkish sm1cs_mh010_67441c3b:
 translate turkish sm1cs_mh010_a31340dd_1:
 
     # mc "Really?"
-    mc "Really?"
+    mc "Gerçekten mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:214
 translate turkish sm1cs_mh010_78c4c7aa:

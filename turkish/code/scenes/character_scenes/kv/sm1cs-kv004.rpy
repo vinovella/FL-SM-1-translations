@@ -1184,23 +1184,23 @@ translate turkish strings:
 translate turkish sm1cs_kv004_9b3488c6:
 
     # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    kv "Hoşlandı. Uzun zamandır harekete geçmediğini biliyorum, bu yüzden hayal gücünü harekete geçirecek bir şey takdir edileceğini düşündüm."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
 translate turkish sm1cs_kv004_sex_repeatable_b52d6afd:
 
     # kv "Let's get rid of these pesky things..."
-    kv "Let's get rid of these pesky things..."
+    kv "Haydi şu can sıkıcı şeylerden kurtulalım..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
 translate turkish sm1cs_kv004_sex_repeatable_0bda85cc:
 
     # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
-    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    mc "Sik- Kanya, ağzınla muh-te-şem-sin, lanet olsun."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate turkish sm1cs_kv004_sex_repeatable_925a1079:
 
     # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
-    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    mc "Mmmmnngnng, Kanya çok darlsın! Amın bir me---nge gibi!"
 

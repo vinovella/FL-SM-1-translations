@@ -170,7 +170,7 @@ translate turkish sm1cs_mas003_5d8761ba:
 translate turkish sm1cs_mas003_4a76cbe5:
 
     # ms "Yoink."
-    ms "Yoink."
+    ms "Hop."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:105
 translate turkish sm1cs_mas003_669664cb:
@@ -1694,13 +1694,13 @@ translate turkish strings:
 translate turkish sm1cs_mas003_third_delivery_7eec6586:
 
     # ms "Never mind."
-    ms "Never mind."
+    ms "Boşver."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
 translate turkish sm1cs_mas003_third_delivery_9ed10f06:
 
     # ms "Show's over, ladies."
-    ms "Show's over, ladies."
+    ms "Gösteri bitti, bayanlar."
 
 translate turkish strings:
 
@@ -1716,5 +1716,5 @@ translate turkish strings:
 translate turkish sm1cs_mas003_third_delivery_fedc52e9:
 
     # ka "*sniff* They're the best."
-    ka "*sniff* They're the best."
+    ka "*burnunu çeker* Onlar en iyiler."
 
