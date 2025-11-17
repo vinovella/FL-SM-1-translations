@@ -14,11 +14,11 @@ translate turkish sm1ms025i_4d2a5cce:
 translate turkish sm1ms025i_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Ne?"
 
 # game/code/scenes/main_story/sm1ms025i.rpy:14
 translate turkish sm1ms025i_d5f77a37:
 
     # sy "Follow me to the computer. It's better to show you."
-    sy "Follow me to the computer. It's better to show you."
+    sy "Bilgisayara kadar beni takip et. Sana göstermek daha iyi."
 

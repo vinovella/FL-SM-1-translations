@@ -302,5 +302,5 @@ translate turkish sm1ms011_02i_135ba797:
 translate turkish sm1ms011_02i_d8e756d5:
 
     # sy "But I'm sure if you want to get one of these actresses to join us, you'll have to get on stage yourself."
-    sy "But I'm sure if you want to get one of these actresses to join us, you'll have to get on stage yourself."
+    sy "Ama eminim bu aktrislerden birinin bize katılmasını istiyorsan, kendin sahneye çıkman gerekecek."
 

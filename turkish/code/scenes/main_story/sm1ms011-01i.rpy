@@ -242,11 +242,11 @@ translate turkish strings:
 translate turkish sm1ms011_01i_e3c7f05c:
 
     # sy "There is an IT company in Crowning that is looking for new coders."
-    sy "There is an IT company in Crowning that is looking for new coders."
+    sy "Crowning'de yeni kodlayıcılar arayan bir BT şirketi var."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:40
 translate turkish sm1ms011_01i_31340d6f:
 
     # sy "There is an IT Company called Orbix in Crowning. They're looking for a new software engineer."
-    sy "There is an IT Company called Orbix in Crowning. They're looking for a new software engineer."
+    sy "Crowning'de Orbix adında bir BT Şirketi var. Yeni bir yazılım mühendisi arıyorlar."
 

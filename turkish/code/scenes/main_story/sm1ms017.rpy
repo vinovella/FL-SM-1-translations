@@ -668,13 +668,13 @@ translate turkish sm1ms017_end_298609cd:
 translate turkish sm1ms017_317bedb5:
 
     # mc "What will we do if Melony comes back?"
-    mc "What will we do if Melony comes back?"
+    mc "Melony geri gelirse ne yapacağız?"
 
 # game/code/scenes/main_story/sm1ms017.rpy:415
 translate turkish sm1ms017_869ad7f6:
 
     # mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
-    mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
+    mc "Eğer anne iki blok yarıçapında bir yerdeyse, kesinlikle boşaldığını duymuştur."
 
 # game/code/scenes/main_story/sm1ms017.rpy:451
 translate turkish sm1ms017_f46b669d_1:
