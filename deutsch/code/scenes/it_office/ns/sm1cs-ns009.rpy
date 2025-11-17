@@ -1356,5 +1356,5 @@ translate deutsch strings:
 translate deutsch sm1cs_ns009_f37a2921:
 
     # mc "And... I totally wasn't scared."
-    mc "And... I totally wasn't scared."
+    mc "Und... ich hatte überhaupt keine Angst."
 
