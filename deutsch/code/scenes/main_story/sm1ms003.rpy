@@ -374,7 +374,7 @@ translate deutsch sm1ms003_tickle_fc9c4d37:
 translate deutsch sm1ms003_tickle_953641ca:
 
     # sy "Gah!!"
-    sy "Gah!!"
+    sy "Ach!!"
 
 # game/code/scenes/main_story/sm1ms003.rpy:434
 translate deutsch sm1ms003_tickle_aeceee46:
