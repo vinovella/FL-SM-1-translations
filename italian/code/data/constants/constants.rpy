@@ -2,31 +2,31 @@
 
     # game/code/data/constants/constants.rpy:361
     old "Animals"
-    new "Animals"
+    new "Animali"
 
     # game/code/data/constants/constants.rpy:362
     old "Art"
-    new "Art"
+    new "Arte"
 
     # game/code/data/constants/constants.rpy:363
     old "Automobiles"
-    new "Automobiles"
+    new "Automobili"
 
     # game/code/data/constants/constants.rpy:364
     old "Collecting"
-    new "Collecting"
+    new "Collezionismo"
 
     # game/code/data/constants/constants.rpy:365
     old "Fashion"
-    new "Fashion"
+    new "Moda"
 
     # game/code/data/constants/constants.rpy:366
     old "Film and TV"
-    new "Film and TV"
+    new "Film e TV"
 
     # game/code/data/constants/constants.rpy:367
     old "Finance"
-    new "Finance"
+    new "Finanza"
 
     # game/code/data/constants/constants.rpy:368
     old "Fitness"
@@ -34,97 +34,97 @@
 
     # game/code/data/constants/constants.rpy:369
     old "Food and Drink"
-    new "Food and Drink"
+    new "Cibo e Bevande"
 
     # game/code/data/constants/constants.rpy:370
     old "Gaming"
-    new "Gaming"
+    new "Videogiochi"
 
     # game/code/data/constants/constants.rpy:371
     old "Gardening"
-    new "Gardening"
+    new "Giardinaggio"
 
     # game/code/data/constants/constants.rpy:372
     old "Literature"
-    new "Literature"
+    new "Letteratura"
 
     # game/code/data/constants/constants.rpy:373
     old "Music"
-    new "Music"
+    new "Musica"
 
     # game/code/data/constants/constants.rpy:374
     old "Photography"
-    new "Photography"
+    new "Fotografia"
 
     # game/code/data/constants/constants.rpy:375
     old "Science"
-    new "Science"
+    new "Scienza"
 
     # game/code/data/constants/constants.rpy:376
     old "Sports"
-    new "Sports"
+    new "Sport"
 
     # game/code/data/constants/constants.rpy:377
     old "Technology"
-    new "Technology"
+    new "Tecnologia"
 
     # game/code/data/constants/constants.rpy:378
     old "Travel"
-    new "Travel"
+    new "Viaggi"
 
 translate italian strings:
 
     # game/code/data/constants/constants.rpy:77
     old "Night"
-    new "Night"
+    new "Notte"
 
     # game/code/data/constants/constants.rpy:78
     old "Late Night"
-    new "Late Night"
+    new "Tarda Notte"
 
     # game/code/data/constants/constants.rpy:79
     old "Early Morning"
-    new "Early Morning"
+    new "Prima Mattina"
 
     # game/code/data/constants/constants.rpy:80
     old "Morning"
-    new "Morning"
+    new "Mattina"
 
     # game/code/data/constants/constants.rpy:81
     old "Noon"
-    new "Noon"
+    new "Mezzogiorno"
 
     # game/code/data/constants/constants.rpy:82
     old "Afternoon"
-    new "Afternoon"
+    new "Pomeriggio"
 
     # game/code/data/constants/constants.rpy:83
     old "Evening"
-    new "Evening"
+    new "Sera"
 
     # game/code/data/constants/constants.rpy:84
     old "Nightfall"
-    new "Nightfall"
+    new "Imbrunire"
 
     # game/code/data/constants/constants.rpy:130
     old "Mo"
-    new "Mo"
+    new "Lu"
 
     # game/code/data/constants/constants.rpy:131
     old "Tu"
-    new "Tu"
+    new "Ma"
 
     # game/code/data/constants/constants.rpy:132
     old "We"
-    new "We"
+    new "Me"
 
     # game/code/data/constants/constants.rpy:133
     old "Th"
-    new "Th"
+    new "Gi"
 
     # game/code/data/constants/constants.rpy:134
     old "Fr"
-    new "Fr"
+    new "Ve"
 
     # game/code/data/constants/constants.rpy:135
     old "Sa"
@@ -132,65 +132,65 @@ translate italian strings:
 
     # game/code/data/constants/constants.rpy:136
     old "Su"
-    new "Su"
+    new "Do"
 
 translate italian strings:
 
     # game/code/data/constants/constants.rpy:131
     old "Monday"
-    new "Monday"
+    new "Lunedì"
 
     # game/code/data/constants/constants.rpy:132
     old "Tuesday"
-    new "Tuesday"
+    new "Martedì"
 
     # game/code/data/constants/constants.rpy:133
     old "Wednesday"
-    new "Wednesday"
+    new "Mercoledì"
 
     # game/code/data/constants/constants.rpy:134
     old "Thursday"
-    new "Thursday"
+    new "Giovedì"
 
     # game/code/data/constants/constants.rpy:135
     old "Friday"
-    new "Friday"
+    new "Venerdì"
 
     # game/code/data/constants/constants.rpy:136
     old "Saturday"
-    new "Saturday"
+    new "Sabato"
 
     # game/code/data/constants/constants.rpy:137
     old "Sunday"
-    new "Sunday"
+    new "Domenica"
 
 translate italian strings:
 
     # game/code/data/constants/constants.rpy:168
     old "Mon"
-    new "Mon"
+    new "Lun"
 
     # game/code/data/constants/constants.rpy:169
     old "Tue"
-    new "Tue"
+    new "Mar"
 
     # game/code/data/constants/constants.rpy:170
     old "Wed"
-    new "Wed"
+    new "Mer"
 
     # game/code/data/constants/constants.rpy:171
     old "Thu"
-    new "Thu"
+    new "Gio"
 
     # game/code/data/constants/constants.rpy:172
     old "Fri"
-    new "Fri"
+    new "Ven"
 
     # game/code/data/constants/constants.rpy:173
     old "Sat"
-    new "Sat"
+    new "Sab"
 
     # game/code/data/constants/constants.rpy:174
     old "Sun"
-    new "Sun"
+    new "Dom"
 

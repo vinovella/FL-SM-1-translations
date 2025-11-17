@@ -1,88 +1,88 @@
-﻿translate italian strings:
+translate italian strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Brunette"
-    new "Brunette"
+    new "Bruna"
 
     # game/code/data/constants/traits.rpy:82
     old "Blonde"
-    new "Blonde"
+    new "Bionda"
 
     # game/code/data/constants/traits.rpy:82
     old "Redhead"
-    new "Redhead"
+    new "Rossa"
 
     # game/code/data/constants/traits.rpy:82
     old "Dyed Hair"
-    new "Dyed Hair"
+    new "Capelli Tinti"
 
     # game/code/data/constants/traits.rpy:82
     old "Multiple Color Hair"
-    new "Multiple Color Hair"
+    new "Capelli Multicolore"
 
     # game/code/data/constants/traits.rpy:82
     old "Blue Hair"
-    new "Blue Hair"
+    new "Capelli Blu"
 
     # game/code/data/constants/traits.rpy:82
     old "Green Hair"
-    new "Green Hair"
+    new "Capelli Verdi"
 
     # game/code/data/constants/traits.rpy:82
     old "Platinum Hair"
-    new "Platinum Hair"
+    new "Capelli Platino"
 
     # game/code/data/constants/traits.rpy:82
     old "Grey Hair"
-    new "Grey Hair"
+    new "Capelli Grigi"
 
     # game/code/data/constants/traits.rpy:82
     old "Bald"
-    new "Bald"
+    new "Calvo"
 
     # game/code/data/constants/traits.rpy:82
     old "Long Hair"
-    new "Long Hair"
+    new "Capelli Lunghi"
 
     # game/code/data/constants/traits.rpy:82
     old "Short Hair"
-    new "Short Hair"
+    new "Capelli Corti"
 
     # game/code/data/constants/traits.rpy:82
     old "Braces"
-    new "Braces"
+    new "Apparecchio"
 
     # game/code/data/constants/traits.rpy:82
     old "Black Hair"
-    new "Black Hair"
+    new "Capelli Neri"
 
     # game/code/data/constants/traits.rpy:82
     old "Braids"
-    new "Braids"
+    new "Trecce"
 
     # game/code/data/constants/traits.rpy:82
     old "Dreads"
-    new "Dreads"
+    new "Dreadlocks"
 
     # game/code/data/constants/traits.rpy:82
     old "Afro Hair"
-    new "Afro Hair"
+    new "Capelli Afro"
 
     # game/code/data/constants/traits.rpy:82
     old "Curly Hair"
-    new "Curly Hair"
+    new "Capelli Ricci"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Boobs"
-    new "Big Boobs"
+    new "Seno Grande"
 
     # game/code/data/constants/traits.rpy:82
     old "Small Boobs"
-    new "Small Boobs"
+    new "Seno Piccolo"
 
     # game/code/data/constants/traits.rpy:82
     old "Huge Boobs"
-    new "Huge Boobs"
+    new "Seno Enorme"
 
     # game/code/data/constants/traits.rpy:82
     old "MILF"
@@ -90,15 +90,15 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Big Ass"
-    new "Big Ass"
+    new "Culo Grande"
 
     # game/code/data/constants/traits.rpy:82
     old "Skinny"
-    new "Skinny"
+    new "Magra"
 
     # game/code/data/constants/traits.rpy:82
     old "Curvy"
-    new "Curvy"
+    new "Formosa"
 
     # game/code/data/constants/traits.rpy:82
     old "BBW"
@@ -106,71 +106,71 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Muscular"
-    new "Muscular"
+    new "Muscolosa"
 
     # game/code/data/constants/traits.rpy:82
     old "Short"
-    new "Short"
+    new "Bassa"
 
     # game/code/data/constants/traits.rpy:82
     old "Tall"
-    new "Tall"
+    new "Alta"
 
     # game/code/data/constants/traits.rpy:82
     old "Amputee"
-    new "Amputee"
+    new "Amputato"
 
     # game/code/data/constants/traits.rpy:82
     old "Facial Piercing"
-    new "Facial Piercing"
+    new "Piercing Facciale"
 
     # game/code/data/constants/traits.rpy:82
     old "Nipple Piercings"
-    new "Nipple Piercings"
+    new "Piercing ai Capezzoli"
 
     # game/code/data/constants/traits.rpy:82
     old "Genital Piercing"
-    new "Genital Piercing"
+    new "Piercing Genitale"
 
     # game/code/data/constants/traits.rpy:82
     old "Tattoo"
-    new "Tattoo"
+    new "Tatuaggio"
 
     # game/code/data/constants/traits.rpy:82
     old "Freckles"
-    new "Freckles"
+    new "Lentiggini"
 
     # game/code/data/constants/traits.rpy:82
     old "Tan lines"
-    new "Tan lines"
+    new "Segni dell'Abbronzatura"
 
     # game/code/data/constants/traits.rpy:82
     old "Hairy"
-    new "Hairy"
+    new "Pelosa"
 
     # game/code/data/constants/traits.rpy:82
     old "Trimmed"
-    new "Trimmed"
+    new "Rasata"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Lips"
-    new "Big Lips"
+    new "Labbra Carnose"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Nipples"
-    new "Big Nipples"
+    new "Capezzoli Grandi"
 
     # game/code/data/constants/traits.rpy:82
     old "Pregnant"
-    new "Pregnant"
+    new "Incinta"
 
     # game/code/data/constants/traits.rpy:82
     old "Pale"
-    new "Pale"
+    new "Pallida"
 
     # game/code/data/constants/traits.rpy:82
     old "Innocent"
-    new "Innocent"
+    new "Innocente"
 
     # game/code/data/constants/traits.rpy:82
     old "Trans"
@@ -178,35 +178,35 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Smoking"
-    new "Smoking"
+    new "Fumatrice"
 
     # game/code/data/constants/traits.rpy:82
     old "Anal"
-    new "Anal"
+    new "Anale"
 
     # game/code/data/constants/traits.rpy:82
     old "Watersports"
-    new "Watersports"
+    new "Giochi d'Acqua"
 
     # game/code/data/constants/traits.rpy:82
     old "Creampie"
-    new "Creampie"
+    new "Sborrata Interna"
 
     # game/code/data/constants/traits.rpy:82
     old "Facial"
-    new "Facial"
+    new "Facciale"
 
     # game/code/data/constants/traits.rpy:82
     old "Group sex"
-    new "Group sex"
+    new "Sesso di Gruppo"
 
     # game/code/data/constants/traits.rpy:82
     old "Sex with women"
-    new "Sex with women"
+    new "Sesso con Donne"
 
     # game/code/data/constants/traits.rpy:82
     old "Deep Throat"
-    new "Deep Throat"
+    new "Gola Profonda"
 
     # game/code/data/constants/traits.rpy:82
     old "Fisting"
@@ -214,23 +214,23 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Foot Fetish"
-    new "Foot Fetish"
+    new "Feticismo dei Piedi"
 
     # game/code/data/constants/traits.rpy:82
     old "Masochism"
-    new "Masochism"
+    new "Masochismo"
 
     # game/code/data/constants/traits.rpy:82
     old "Humiliation"
-    new "Humiliation"
+    new "Umiliazione"
 
     # game/code/data/constants/traits.rpy:82
     old "Submission"
-    new "Submission"
+    new "Sottomissione"
 
     # game/code/data/constants/traits.rpy:82
     old "Domination"
-    new "Domination"
+    new "Dominazione"
 
     # game/code/data/constants/traits.rpy:82
     old "Bondage"
@@ -238,23 +238,23 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Spanking"
-    new "Spanking"
+    new "Sculacciate"
 
     # game/code/data/constants/traits.rpy:82
     old "Enema"
-    new "Enema"
+    new "Clistere"
 
     # game/code/data/constants/traits.rpy:82
     old "Pet Play"
-    new "Pet Play"
+    new "Gioco di Ruolo Pet"
 
     # game/code/data/constants/traits.rpy:82
     old "Exhibitionism"
-    new "Exhibitionism"
+    new "Esibizionismo"
 
     # game/code/data/constants/traits.rpy:82
     old "Cum Swallow"
-    new "Cum Swallow"
+    new "Ingoio Sperma"
 
     # game/code/data/constants/traits.rpy:82
     old "Pegging"
@@ -262,11 +262,11 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Toys"
-    new "Toys"
+    new "Giocattoli"
 
     # game/code/data/constants/traits.rpy:82
     old "Food Play"
-    new "Food Play"
+    new "Giochi col Cibo"
 
     # game/code/data/constants/traits.rpy:82
     old "Gangbang"
@@ -274,11 +274,11 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Rough Sex"
-    new "Rough Sex"
+    new "Sesso Violento"
 
     # game/code/data/constants/traits.rpy:82
     old "Rimming"
-    new "Rimming"
+    new "Anilingus"
 
     # game/code/data/constants/traits.rpy:82
     old "Felching"
@@ -290,17 +290,17 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Double Penetration"
-    new "Double Penetration"
+    new "Doppia Penetrazione"
 
     # game/code/data/constants/traits.rpy:82
     old "Ass to Mouth"
-    new "Ass to Mouth"
+    new "Culo-Bocca"
 
     # game/code/data/constants/traits.rpy:82
     old "Choking"
-    new "Choking"
+    new "Soffocamento"
 
     # game/code/data/constants/traits.rpy:82
     old "Extreme"
-    new "Extreme"
+    new "Estremo"
 
