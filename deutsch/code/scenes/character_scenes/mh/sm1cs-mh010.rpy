@@ -708,5 +708,5 @@ translate deutsch strings:
 translate deutsch sm1cs_mh010_16687345:
 
     # mh "Once or twice, but a girl likes to hear it every once in a while."
-    mh "Once or twice, but a girl likes to hear it every once in a while."
+    mh "Ein- oder zweimal, aber ein Mädchen hört das gerne ab und zu."
 
