@@ -446,7 +446,7 @@ translate deutsch sm1ms007_after_choice_b764fa60:
 translate deutsch sm1ms007_after_choice_392991a2:
 
     # mc "Sorry. Sorry."
-    mc "Sorry. Sorry."
+    mc "Entschuldigung. Entschuldigung."
 
 # game/code/scenes/main_story/sm1ms007.rpy:235
 translate deutsch sm1ms007_after_choice_6769f183:
