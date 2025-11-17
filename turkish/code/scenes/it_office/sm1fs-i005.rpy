@@ -668,7 +668,7 @@ translate turkish sm1fs_i005_1d4cbcc1:
 translate turkish sm1fs_i005_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "Tamam."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:390
 translate turkish sm1fs_i005_1aa3ffc8:
@@ -1484,7 +1484,7 @@ translate turkish sm1fs_i005_conference_da6144a4:
 translate turkish sm1fs_i005_conference_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "Tamam."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:796
 translate turkish sm1fs_i005_conference_e4c65fa4:
