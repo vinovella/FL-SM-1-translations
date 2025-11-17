@@ -28,27 +28,27 @@ translate turkish strings:
 
     # game/code/renpy/screens/others.rpy:13
     old "Sync your saves using Ren'Py Sync Server"
-    new "Sync your saves using Ren'Py Sync Server"
+    new "Ren'Py Senkronizasyon Sunucusu kullanarak kayıtlarınızı senkronize edin"
 
     # game/code/renpy/screens/others.rpy:139
     old "Please enter your Local IP number:"
-    new "Please enter your Local IP number:"
+    new "Lütfen Yerel IP numaranızı girin:"
 
     # game/code/renpy/screens/others.rpy:142
     old "Please enter your HTTP Port number:"
-    new "Please enter your HTTP Port number:"
+    new "Lütfen HTTP Port numaranızı girin:"
 
 translate turkish strings:
 
     # game/code/renpy/screens/others.rpy:7
     old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
-    new "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
+    new "Hangi yolların, karakterlerin, sahnelerin ve fetişlerin en popüler olduğunu daha iyi anlamak ve iyileştirme alanlarını belirlemek için yalnızca anonimleştirilmiş veriler topluyoruz."
 
     # game/code/renpy/screens/others.rpy:8
     old "NO PERSONAL INFORMATION IS COLLECTED."
-    new "NO PERSONAL INFORMATION IS COLLECTED."
+    new "KİŞİSEL BİLGİ TOPLANMAMAKTADIR."
 
     # game/code/renpy/screens/others.rpy:9
     old "Would you like to enable this data collection?"
-    new "Would you like to enable this data collection?"
+    new "Bu veri toplamayı etkinleştirmek ister misiniz?"
 

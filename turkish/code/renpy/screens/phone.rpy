@@ -32,15 +32,15 @@ translate turkish strings:
 
     # game/code/renpy/screens/phone.rpy:69
     old "Laptop"
-    new "Laptop"
+    new "Dizüstü"
 
     # game/code/renpy/screens/phone.rpy:75
     old "Studio Laptop"
-    new "Studio Laptop"
+    new "Stüdyo Dizüstü"
 
 translate turkish strings:
 
     # game/code/renpy/screens/phone.rpy:115
     old "Day: [gt.get_day_number()]"
-    new "Day: [gt.get_day_number()]"
+    new "Gün: [gt.get_day_number()]"
 

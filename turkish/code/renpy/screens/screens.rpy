@@ -230,151 +230,151 @@
 
     # game/code/renpy/screens/screens.rpy:12
     old "New Game"
-    new "New Game"
+    new "Yeni Oyun"
 
     # game/code/renpy/screens/screens.rpy:46
     old "Join Patreon"
-    new "Join Patreon"
+    new "Patreon'a Katıl"
 
     # game/code/renpy/screens/screens.rpy:51
     old "Join Discord"
-    new "Join Discord"
+    new "Discord'a Katıl"
 
     # game/code/renpy/screens/screens.rpy:122
     old "Language"
-    new "Language"
+    new "Dil"
 
     # game/code/renpy/screens/screens.rpy:149
     old "Music Player"
-    new "Music Player"
+    new "Müzik Çalar"
 
     # game/code/renpy/screens/screens.rpy:498
     old "Audio"
-    new "Audio"
+    new "Ses"
 
     # game/code/renpy/screens/screens.rpy:502
     old "Dialogue"
-    new "Dialogue"
+    new "Diyalog"
 
     # game/code/renpy/screens/screens.rpy:506
     old "Gameplay"
-    new "Gameplay"
+    new "Oynanış"
 
     # game/code/renpy/screens/screens.rpy:530
     old "Master Volume :"
-    new "Master Volume :"
+    new "Ana Ses :"
 
     # game/code/renpy/screens/screens.rpy:544
     old "Mute All Channels :"
-    new "Mute All Channels :"
+    new "Tüm Kanalları Sustur :"
 
     # game/code/renpy/screens/screens.rpy:546
     old "Unmuted"
-    new "Unmuted"
+    new "Sesli"
 
     # game/code/renpy/screens/screens.rpy:547
     old "Muted"
-    new "Muted"
+    new "Sessiz"
 
     # game/code/renpy/screens/screens.rpy:554
     old "Full Voiceover :"
-    new "Full Voiceover :"
+    new "Tam Seslendirme :"
 
     # game/code/renpy/screens/screens.rpy:564
     old "Music Volume :"
-    new "Music Volume :"
+    new "Müzik Sesi :"
 
     # game/code/renpy/screens/screens.rpy:573
     old "Sound Volume :"
-    new "Sound Volume :"
+    new "Efekt Sesi :"
 
     # game/code/renpy/screens/screens.rpy:584
     old "Voice Volume :"
-    new "Voice Volume :"
+    new "Ses Sesi :"
 
     # game/code/renpy/screens/screens.rpy:593
     old "Sex Voice Volume :"
-    new "Sex Voice Volume :"
+    new "Seks Sesi :"
 
     # game/code/renpy/screens/screens.rpy:615
     old "Text Speed :"
-    new "Text Speed :"
+    new "Metin Hızı :"
 
     # game/code/renpy/screens/screens.rpy:626
     old "Auto-Forward Time :"
-    new "Auto-Forward Time :"
+    new "Otomatik İlerleme Süresi :"
 
     # game/code/renpy/screens/screens.rpy:637
     old "Dialogue Box Opacity :"
-    new "Dialogue Box Opacity :"
+    new "Diyalog Kutusu Saydamlığı :"
 
     # game/code/renpy/screens/screens.rpy:648
     old "Skip :"
-    new "Skip :"
+    new "Atla :"
 
     # game/code/renpy/screens/screens.rpy:657
     old "Fast Skip Confirm :"
-    new "Fast Skip Confirm :"
+    new "Hızlı Atlama Onayı :"
 
     # game/code/renpy/screens/screens.rpy:665
     old "Rollback Side :"
-    new "Rollback Side :"
+    new "Geri Alma Yönü :"
 
     # game/code/renpy/screens/screens.rpy:668
     old "Left"
-    new "Left"
+    new "Sol"
 
     # game/code/renpy/screens/screens.rpy:681
     old "Window Size :"
-    new "Window Size :"
+    new "Pencere Boyutu :"
 
     # game/code/renpy/screens/screens.rpy:694
     old "Weekly Statement :"
-    new "Weekly Statement :"
+    new "Haftalık Rapor :"
 
     # game/code/renpy/screens/screens.rpy:702
     old "Navigation Highlights :"
-    new "Navigation Highlights :"
+    new "Navigasyon Vurguları :"
 
     # game/code/renpy/screens/screens.rpy:712
     old "Taboo Mode :"
-    new "Taboo Mode :"
+    new "Tabu Modu :"
 
     # game/code/renpy/screens/screens.rpy:721
     old "Quick Menu :"
-    new "Quick Menu :"
+    new "Hızlı Menü :"
 
     # game/code/renpy/screens/screens.rpy:724
     old "On Hover"
-    new "On Hover"
+    new "Üzerine Gelindiğinde"
 
     # game/code/renpy/screens/screens.rpy:733
     old "Analytics :"
-    new "Analytics :"
+    new "Analitik :"
 
     # game/code/renpy/screens/screens.rpy:742
     old "Quick Menu Buttons :"
-    new "Quick Menu Buttons :"
+    new "Hızlı Menü Düğmeleri :"
 
     # game/code/renpy/screens/screens.rpy:906
     old "Translation"
-    new "Translation"
+    new "Çeviri"
 
     # game/code/renpy/screens/screens.rpy:910
     old "Others"
-    new "Others"
+    new "Diğerleri"
 
     # game/code/renpy/screens/screens.rpy:923
     old "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
-    new "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
+    new "Yapımında kullanılan : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
 
     # game/code/renpy/screens/screens.rpy:353
     old "Saves For Chapter 2"
-    new "Saves For Chapter 2"
+    new "Bölüm 2 için Kayıtlar"
 
     # game/code/renpy/screens/screens.rpy:729
     old "Minigames :"
-    new "Minigames :"
+    new "Mini Oyunlar :"
 
     # game/code/renpy/screens/screens.rpy:920
     old "S&M Studio{#about_button}"
@@ -382,93 +382,93 @@
 
     # game/code/renpy/screens/screens.rpy:924
     old "Dev Team"
-    new "Dev Team"
+    new "Geliştirici Ekibi"
 
     # game/code/renpy/screens/screens.rpy:947
     old "VERSION : [config.version!t]"
-    new "VERSION : [config.version!t]"
+    new "SÜRÜM : [config.version!t]"
 
     # game/code/renpy/screens/screens.rpy:949
     old "DEVELOPED BY :"
-    new "DEVELOPED BY :"
+    new "GELİŞTİREN :"
 
     # game/code/renpy/screens/screens.rpy:964
     old "STORY WRITING"
-    new "STORY WRITING"
+    new "HİKAYE YAZARLIĞI"
 
     # game/code/renpy/screens/screens.rpy:973
     old "ART & ANIMATION"
-    new "ART & ANIMATION"
+    new "SANAT VE ANİMASYON"
 
     # game/code/renpy/screens/screens.rpy:982
     old "PROGRAMMING"
-    new "PROGRAMMING"
+    new "PROGRAMLAMA"
 
     # game/code/renpy/screens/screens.rpy:991
     old "SOUND DESIGN"
-    new "SOUND DESIGN"
+    new "SES TASARIMI"
 
     # game/code/renpy/screens/screens.rpy:1002
     old "MUSIC CREDITS"
-    new "MUSIC CREDITS"
+    new "MÜZİK KATKIDA BULUNANLAR"
 
     # game/code/renpy/screens/screens.rpy:1005
     old "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
-    new "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
+    new "Bu eser {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 Uluslararası Lisansı{/a} altında lisanslanmıştır."
 
     # game/code/renpy/screens/screens.rpy:1008
     old "This work is licensed under the {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
-    new "This work is licensed under the {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
+    new "Bu eser {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported Lisansı{/a} altında lisanslanmıştır."
 
     # game/code/renpy/screens/screens.rpy:1011
     old "This work is licensed under the {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
-    new "This work is licensed under the {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
+    new "Bu eser {a=http://creativecommons.org/licenses/by/3.0/}Attribution Lisansı{/a} altında lisanslanmıştır."
 
     # game/code/renpy/screens/screens.rpy:1016
     old "Licensed under Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
-    new "Licensed under Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
+    new "Basitleştirilmiş {a=https://filmmusic.io/standard-license}Filmmusic.io Standart Lisansı{/a} altında lisanslanmıştır"
 
     # game/code/renpy/screens/screens.rpy:1019
     old "Licensed under a {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
-    new "Licensed under a {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
+    new "{a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 Uluslararası Lisansı{/a} altında lisanslanmıştır."
 
     # game/code/renpy/screens/screens.rpy:1020
     old "Changes: quacking sounds added"
-    new "Changes: quacking sounds added"
+    new "Değişiklikler: vaklama sesleri eklendi"
 
     # game/code/renpy/screens/screens.rpy:1024
     old "VOICEOVER CREDITS"
-    new "VOICEOVER CREDITS"
+    new "SESLENDİRME KATKIDA BULUNANLAR"
 
     # game/code/renpy/screens/screens.rpy:1038
     old "PORTUGUESE TRANSLATION"
-    new "PORTUGUESE TRANSLATION"
+    new "PORTEKIZCE ÇEVİRİ"
 
     # game/code/renpy/screens/screens.rpy:1043
     old "SPANISH TRANSLATION"
-    new "SPANISH TRANSLATION"
+    new "İSPANYOLCA ÇEVİRİ"
 
     # game/code/renpy/screens/screens.rpy:1048
     old "DEUTSCH TRANSLATION"
-    new "DEUTSCH TRANSLATION"
+    new "ALMANCA ÇEVİRİ"
 
     # game/code/renpy/screens/screens.rpy:1059
     old "GAME ENGINE"
-    new "GAME ENGINE"
+    new "OYUN MOTORU"
 
     # game/code/renpy/screens/screens.rpy:1064
     old "PROOFREADING CREDITS"
-    new "PROOFREADING CREDITS"
+    new "DÜZELTME KATKIDA BULUNANLAR"
 
     # game/code/renpy/screens/screens.rpy:1065
     old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
-    new "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
+    new "Düzeltmenimize özel teşekkürler : .grubb (Discord: grubbjunker)"
 
     # game/code/renpy/screens/screens.rpy:1069
     old "ICON CREDITS"
-    new "ICON CREDITS"
+    new "İKON KATKIDA BULUNANLAR"
 
     # game/code/renpy/screens/screens.rpy:1070
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
-    new "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
+    new "Menü ikonları @colebemis tarafından yapılan ve {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT Lisansı{/a} altında lisanslanan güzel bir ikon koleksiyonu olan {a=https://feathericons.com/}Feather{/a}'dan türetilmiştir."
 
