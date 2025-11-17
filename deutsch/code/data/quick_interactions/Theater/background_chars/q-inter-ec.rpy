@@ -194,5 +194,5 @@ translate deutsch q_inter_ec_7_bc229872:
 translate deutsch q_inter_ec_1_7a965d97:
 
     # ec "Well she works a lot better with a good coffee."
-    ec "Well she works a lot better with a good coffee."
+    ec "Nun, mit einem guten Kaffee arbeitet sie viel besser."
 
