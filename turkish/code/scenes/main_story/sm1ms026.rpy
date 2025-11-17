@@ -602,7 +602,7 @@ translate turkish sm1ms026_scifi_dd809da1:
 translate turkish sm1ms026_scifi_3bbcf026_1:
 
     # mc "Oh man, Min would probably be great for this."
-    mc "Oh man, Min would probably be great for this."
+    mc "Vay be, Min bunun için mükemmel olurdu muhtemelen."
 
 # game/code/scenes/main_story/sm1ms026.rpy:342
 translate turkish sm1ms026_scifi_4f79867b_1:

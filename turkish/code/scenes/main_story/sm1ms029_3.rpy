@@ -254,7 +254,7 @@ translate turkish sm1ms029_part_1_my_appear_c8355527:
 translate turkish sm1ms029_part_1_my_appear_95ea9fd1:
 
     # mc "But, erm, what can I help you with, Melony?"
-    mc "But, erm, what can I help you with, Melony?"
+    mc "Ama, şey, sana nasıl yardımcı olabilirim, Melony?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1496
 translate turkish sm1ms029_part_1_my_appear_f27400f7:
@@ -326,13 +326,13 @@ translate turkish sm1ms029_part_1_my_appear_1ed74f44:
 translate turkish sm1ms029_part_1_my_appear_97a984fd:
 
     # mc "I hate to be rude, Mom, but I am in the middle of this, uh, theater practice."
-    mc "I hate to be rude, Mom, but I am in the middle of this, uh, theater practice."
+    mc "Kaba olmaktan nefret ediyorum anne, ama şu anda bu, şey, tiyatro pratiğinin ortasındayım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1514
 translate turkish sm1ms029_part_1_my_appear_b32c2bcf:
 
     # mc "I hate to be rude, Melony, but I am in the middle of this, erm, theater practice."
-    mc "I hate to be rude, Melony, but I am in the middle of this, erm, theater practice."
+    mc "Kaba olmaktan nefret ediyorum Melony, ama şu anda bu, şey, tiyatro pratiğinin ortasındayım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1518
 translate turkish sm1ms029_part_1_my_appear_22cecdce:

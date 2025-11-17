@@ -482,35 +482,35 @@ translate turkish strings:
 translate turkish sm1ms011_it_039d17e4:
 
     # sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
-    sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
+    sy "Tamam, haklısın. Şirketten bahsetmişken, oradaki insanlar hakkında bana pek bir şey anlatmadın."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:113
 translate turkish sm1fs_i011_it_talk_ns_ac838888:
 
     # mc "This girl Nari Song is pretty cute."
-    mc "This girl Nari Song is pretty cute."
+    mc "Nari Song adındaki kız oldukça tatlı."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:212
 translate turkish sm1fs_i011_it_talk_am_09c55492:
 
     # mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
-    mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
+    mc "Belki. Daha önce başkalarıyla eşleştirildiyse ve iş yürümediyse, belki de acemilerle uğraşmaktan yorulmuştur."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:215
 translate turkish sm1fs_i011_it_talk_am_36deca91:
 
     # sy "Hmmmph. That's no excuse to be rude to you or the new girl."
-    sy "Hmmmph. That's no excuse to be rude to you or the new girl."
+    sy "Hmmph. Bu, sana veya yeni kıza kaba davranmak için bir bahane değil."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:242
 translate turkish sm1ms011_it_continue_36be2754:
 
     # sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
-    sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
+    sy "Asla. Büyük hata dostum. Bir düşün. Hepsinin en büyük gizli sapığı o olabilir."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:277
 translate turkish sm1ms011_it_continue_d4b1ca4d:
 
     # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
-    sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
+    sy "Harika. Seni tanıyorum, [mcname]. Ne yapmaya karar verirsen ver, eminim mükemmel bir şekilde başarırsın."
 
