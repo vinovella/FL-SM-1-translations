@@ -266,13 +266,13 @@ translate deutsch strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Everything all right?"
-    new "Everything all right?"
+    new "Alles in Ordnung?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I hope you were the winner."
-    new "I hope you were the winner."
+    new "Ich hoffe, du warst der Gewinner."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "It is now."
-    new "It is now."
+    new "Es ist jetzt."
 
