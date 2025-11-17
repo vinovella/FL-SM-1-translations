@@ -1120,41 +1120,41 @@ translate deutsch strings:
 translate deutsch sm1cs_ns005_ef1a9eef:
 
     # mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
-    mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+    mct "Ich sollte aufhören, Zeit zu verschwenden, und sie um ein Date bitten. Ich bin mir sicher, dass sie einen schönen Abend genießen würde, anstatt sich weiter mit Finanzen zu beschäftigen."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:46
 translate deutsch sm1cs_ns005_bdbf9d38:
 
     # ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
-    ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+    ns "*kichert* Du musst dich nicht auch verbeugen. Ich war es, der dich das letzte Mal hängen lassen musste, als ich einen Anruf bekam."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:65
 translate deutsch sm1cs_ns005_ecb1749e:
 
     # ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
-    ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+    ns "Das sind Blue Ginseng-Bonbons, eine meiner Lieblingssüßigkeiten aus meiner Heimat."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:353
 translate deutsch sm1cs_ns005_in_bathroom_55af1966:
 
     # mc "I... I don't. But I want you to finish me off."
-    mc "I... I don't. But I want you to finish me off."
+    mc "Ich... ich will nicht. Aber ich will, dass du mich fertig machst."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:503
 translate deutsch sm1cs_ns005_after_cum_f15deec7:
 
     # ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
-    ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+    ns "Das war eine Menge Sperma, [mcname]. Ich gehe davon aus, dass es dir gefallen hat."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:642
 translate deutsch sm1cs_ns005_after_cum_5af9bd6d:
 
     # ns "You know I'm very efficient."
-    ns "You know I'm very efficient."
+    ns "Du weißt, dass ich sehr effizient bin."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:646
 translate deutsch sm1cs_ns005_after_cum_34dbd9c4:
 
     # mc "Give me a little time and I'll find a restaurant and text you the details."
-    mc "Give me a little time and I'll find a restaurant and text you the details."
+    mc "Gib mir ein wenig Zeit, dann suche ich ein Restaurant und schicke dir die Details per Nachricht."
 
