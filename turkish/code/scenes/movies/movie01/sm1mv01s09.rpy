@@ -254,103 +254,103 @@ translate turkish sm1mv01s09_movie_start_334f8a6e:
 translate turkish sm1mv01s09_movie_start_d603f9a8:
 
     # sy "Well, well, well... if it isn't Dickhart and Searose."
-    sy "Well, well, well... if it isn't Dickhart and Searose."
+    sy "Bak, bak, bak... Kim varmış, Dickhart ve Searose."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:229
 translate turkish sm1mv01s09_movie_start_576302c7:
 
     # sy "Come back for more of my wild pussy, Captain?"
-    sy "Come back for more of my wild pussy, Captain?"
+    sy "Benim vahşi amımdan daha fazlası için mi geldin, Kaptan?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:233
 translate turkish sm1mv01s09_movie_start_04083077:
 
     # tl "This is the end for you, you vile wench!"
-    tl "This is the end for you, you vile wench!"
+    tl "Bu senin sonun, seni iğrenç sürtük!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:237
 translate turkish sm1mv01s09_movie_start_1293dede:
 
     # sy "Oh, Scarlet. I beat you once, what makes you think I can't do it again?"
-    sy "Oh, Scarlet. I beat you once, what makes you think I can't do it again?"
+    sy "Oh, Scarlet. Seni bir kez yendim, tekrar yapamayacağımı ne düşündürüyor sana?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:240
 translate turkish sm1mv01s09_movie_start_5a4783b0:
 
     # tl "Because this time, I'm not alone!"
-    tl "Because this time, I'm not alone!"
+    tl "Çünkü bu sefer yalnız değilim!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:243
 translate turkish sm1mv01s09_movie_start_506640ab:
 
     # sy "Is that so? How do you know your brave and fearless captain hasn't fallen under the spell of my pussy?"
-    sy "Is that so? How do you know your brave and fearless captain hasn't fallen under the spell of my pussy?"
+    sy "Öyle mi? Cesur ve korkusuz kaptanının amımın büyüsüne kapılmadığını nereden biliyorsun?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:244
 translate turkish sm1mv01s09_movie_start_063ea094:
 
     # sy "Isn't that how you failed the first time? So sure your first mate would {i}never{/i} fall for my tricks?"
-    sy "Isn't that how you failed the first time? So sure your first mate would {i}never{/i} fall for my tricks?"
+    sy "İlk seferinde böyle başarısız olmamış mıydın? İkinci kaptanının hilelerime {i}asla{/i} kapılmayacağından o kadar emindi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:248
 translate turkish sm1mv01s09_movie_start_f94a8d0b:
 
     # sy "Well, look at him now!"
-    sy "Well, look at him now!"
+    sy "Şimdi ona bir bak!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:250
 translate turkish sm1mv01s09_movie_start_d0f1a8d2:
 
     # tl "*gasps* First Mate Bob!{w} Where is his cock?"
-    tl "*gasps* First Mate Bob!{w} Where is his cock?"
+    tl "*nefes kesilir* İkinci Kaptan Bob!{w} Siki nerede?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:251
 translate turkish sm1mv01s09_movie_start_5ef842bb:
 
     # sy "I broke it off for his earlier failure."
-    sy "I broke it off for his earlier failure."
+    sy "Önceki başarısızlığı için kopardım."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:252
 translate turkish sm1mv01s09_movie_start_29b820f0:
 
     # sy "It's feeding the crabs now."
-    sy "It's feeding the crabs now."
+    sy "Şimdi yengeçleri besliyor."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:256
 translate turkish sm1mv01s09_movie_start_bffbcdc0:
 
     # tl "You bitch. You'll pay for that, Tempestra!"
-    tl "You bitch. You'll pay for that, Tempestra!"
+    tl "Seni kaltak. Bunun bedelini ödeyeceksin, Tempestra!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:259
 translate turkish sm1mv01s09_movie_start_274fc310:
 
     # sy "Words are wind, Scarlet."
-    sy "Words are wind, Scarlet."
+    sy "Sözler rüzgardır, Scarlet."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:262
 translate turkish sm1mv01s09_movie_start_30694308:
 
     # tl "Come on, Dickhart! Time to see if you're as good with that steel as you are with your sword."
-    tl "Come on, Dickhart! Time to see if you're as good with that steel as you are with your sword."
+    tl "Hadi, Dickhart! Kılıçta olduğun kadar o çelikte de iyi olup olmadığını görme zamanı."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:264
 translate turkish sm1mv01s09_movie_start_d2f92e9e:
 
     # mc "Scarlet, I think-"
-    mc "Scarlet, I think-"
+    mc "Scarlet, sanırım-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:268
 translate turkish sm1mv01s09_movie_start_c83d788d:
 
     # tl "I knew it! You traitorous scum!"
-    tl "I knew it! You traitorous scum!"
+    tl "Biliyordum! Seni hain pislik!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:270
 translate turkish sm1mv01s09_movie_start_726bcad7:
 
     # mc "What! What are you doing!?"
-    mc "What! What are you doing!?"
+    mc "Ne! Ne yapıyorsun!?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:273
 translate turkish sm1mv01s09_movie_start_6a8d5cc9:
@@ -362,49 +362,49 @@ translate turkish sm1mv01s09_movie_start_6a8d5cc9:
 translate turkish sm1mv01s09_movie_start_c6083348:
 
     # sy "See!? No one can resist me, Scarlet!"
-    sy "See!? No one can resist me, Scarlet!"
+    sy "Gördün mü!? Kimse bana karşı koyamaz, Scarlet!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:278
 translate turkish sm1mv01s09_movie_start_a4b735e6:
 
     # mc "But I did! I threw sand in your face, and led her here, to your treasure trove!"
-    mc "But I did! I threw sand in your face, and led her here, to your treasure trove!"
+    mc "Ama ben karşı koydum! Yüzüne kum attım ve onu buraya, senin hazine deposuna getirdim!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:280
 translate turkish sm1mv01s09_movie_start_38f5f5f8:
 
     # sy "Just like we planned. I have to say I'm impressed, Dickhart."
-    sy "Just like we planned. I have to say I'm impressed, Dickhart."
+    sy "Tam planladığımız gibi. İtiraf etmeliyim ki etkilendim, Dickhart."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:283
 translate turkish sm1mv01s09_movie_start_bdd7ee1d:
 
     # mc "No! You two-faced hellspawn. Tempestra!"
-    mc "No! You two-faced hellspawn. Tempestra!"
+    mc "Hayır! Seni iki yüzlü cehennem yaratığı. Tempestra!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:286
 translate turkish sm1mv01s09_movie_start_d5a0b3a8:
 
     # mc "Come now. You cannot trust her."
-    mc "Come now. You cannot trust her."
+    mc "Hadi ama. Ona güvenemezsin."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:288
 translate turkish sm1mv01s09_movie_start_61742784:
 
     # tl "I'm not going to be betrayed twice, Dickhart."
-    tl "I'm not going to be betrayed twice, Dickhart."
+    tl "İki kez ihanete uğramayacağım, Dickhart."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:289
 translate turkish sm1mv01s09_movie_start_6ddb3c49:
 
     # mc "This is what she {b}wants!{/b} Us at each others' throats."
-    mc "This is what she {b}wants!{/b} Us at each others' throats."
+    mc "Bu onun {b}istediği{/b} şey! Birbirimizin boğazına sarılmamız."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:291
 translate turkish sm1mv01s09_movie_start_62e5605b:
 
     # mc "Don't fall for the wench's tricks, Searose."
-    mc "Don't fall for the wench's tricks, Searose."
+    mc "Sürtüğün hilelerine kanma, Searose."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:292
 translate turkish sm1mv01s09_movie_start_a4cd1341:
@@ -416,7 +416,7 @@ translate turkish sm1mv01s09_movie_start_a4cd1341:
 translate turkish sm1mv01s09_movie_start_a0bbe248:
 
     # mc "Fine, if you won't believe me..."
-    mc "Fine, if you won't believe me..."
+    mc "Peki, bana inanmayacaksan..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:298
 translate turkish sm1mv01s09_movie_start_7a9dc5f2:

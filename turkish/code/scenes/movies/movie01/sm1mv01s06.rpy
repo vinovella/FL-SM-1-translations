@@ -1520,7 +1520,7 @@ translate turkish sm1mv01s06_done_recording_b13a4657:
 translate turkish sm1mv01s06_done_recording_ea1b1f93:
 
     # mc "I owe you one, sis."
-    mc "I owe you one, sis."
+    mc "Sana borcum var, kardeşim."
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:926
 translate turkish sm1mv01s06_done_recording_6eb675ec:

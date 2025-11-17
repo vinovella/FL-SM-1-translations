@@ -902,49 +902,49 @@ translate turkish sm1mv01s05_start_shoot_072acbd8:
 translate turkish sm1mv01s05_start_shoot_5b310447:
 
     # tl "And what about your flair?"
-    tl "And what about your flair?"
+    tl "Peki ya senin yeteneğin?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:642
 translate turkish sm1mv01s05_start_shoot_5d115b84:
 
     # tl "Or is your silver tongue just for talking?"
-    tl "Or is your silver tongue just for talking?"
+    tl "Yoksa o gümüş dilin sadece konuşmak için mi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:645
 translate turkish sm1mv01s05_start_shoot_7bb20d22:
 
     # mc "I'm insulted."
-    mc "I'm insulted."
+    mc "Gücendim."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:646
 translate turkish sm1mv01s05_start_shoot_58e92ffd:
 
     # mc "Allow me."
-    mc "Allow me."
+    mc "İzin ver."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:657
 translate turkish sm1mv01s05_start_shoot_5bae4a11:
 
     # tl "{b}This{/b} doesn't mean I'll be taking anything less than a full share, captain."
-    tl "{b}This{/b} doesn't mean I'll be taking anything less than a full share, captain."
+    tl "{b}Bu{/b} tam bir paydan daha azını kabul edeceğim anlamına gelmiyor, kaptan."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:660
 translate turkish sm1mv01s05_start_shoot_77b115bd:
 
     # mc "You wound me, Searose."
-    mc "You wound me, Searose."
+    mc "Beni yaralıyorsun, Searose."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:666
 translate turkish sm1mv01s05_start_shoot_7b6345bd:
 
     # tl "You first, Captain. I've already led."
-    tl "You first, Captain. I've already led."
+    tl "Önce sen, Kaptan. Ben zaten yol gösterdim."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:667
 translate turkish sm1mv01s05_start_shoot_5fee639b:
 
     # tl "Now it's your turn."
-    tl "Now it's your turn."
+    tl "Şimdi senin sıran."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:674
 translate turkish sm1mv01s05_start_shoot_366e89ce:
@@ -956,7 +956,7 @@ translate turkish sm1mv01s05_start_shoot_366e89ce:
 translate turkish sm1mv01s05_start_shoot_2c7c781f:
 
     # tl "Not bad."
-    tl "Not bad."
+    tl "Fena değil."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:677
 translate turkish sm1mv01s05_start_shoot_ee56f586:
@@ -968,37 +968,37 @@ translate turkish sm1mv01s05_start_shoot_ee56f586:
 translate turkish sm1mv01s05_start_shoot_44c15f4e:
 
     # tl "*muffled moaning*"
-    tl "*muffled moaning*"
+    tl "*boğuk inleme*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:686
 translate turkish sm1mv01s05_start_shoot_55856e0e:
 
     # tl "Yes..."
-    tl "Yes..."
+    tl "Evet..."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:687
 translate turkish sm1mv01s05_start_shoot_569d9029:
 
     # tl "Right there, Captain."
-    tl "Right there, Captain."
+    tl "Tam orası, Kaptan."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:690
 translate turkish sm1mv01s05_start_shoot_71374efa:
 
     # tl "*horny sucking*"
-    tl "*horny sucking*"
+    tl "*azgın emme*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:700
 translate turkish sm1mv01s05_start_shoot_91a16184:
 
     # mc "Such a fiesty wench."
-    mc "Such a fiesty wench."
+    mc "Ne kavgacı bir sürtük."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:703
 translate turkish sm1mv01s05_start_shoot_422a6713:
 
     # tl "Muah... huah... I've been called worse."
-    tl "Muah... huah... I've been called worse."
+    tl "Muah... huah... Daha kötüsüne denildi."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:706
 translate turkish sm1mv01s05_start_shoot_d125c2e2:
@@ -1376,7 +1376,7 @@ translate turkish sm1mv01s05_start_shoot_7e9a31d3:
 translate turkish sm1mv01s05_start_shoot_505be050:
 
     # sy "Let's go to the next line."
-    sy "Let's go to the next line."
+    sy "Bir sonraki repliğe geçelim."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:896
 translate turkish sm1mv01s05_start_shoot_e3b33503:
@@ -1406,43 +1406,43 @@ translate turkish sm1mv01s05_start_shoot_505be050_1:
 translate turkish sm1mv01s05_start_shoot_7f14dcf3:
 
     # sy "And..."
-    sy "And..."
+    sy "Ve..."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:907
 translate turkish sm1mv01s05_start_shoot_a731e77d:
 
     # sy "Action."
-    sy "Action."
+    sy "Aksiyon."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:910
 translate turkish sm1mv01s05_start_shoot_20f57347:
 
     # tl "I take it that we'll be sharing these quarters for the voyage?"
-    tl "I take it that we'll be sharing these quarters for the voyage?"
+    tl "Yolculuk boyunca bu kabini paylaşacağımızı mı anlayacağım?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:913
 translate turkish sm1mv01s05_start_shoot_17b85725:
 
     # mc "*scoffs*"
-    mc "*scoffs*"
+    mc "*alayla güler*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:914
 translate turkish sm1mv01s05_start_shoot_0f31d0dc:
 
     # mc "We're partners. Not {i}partners{/i}, Searose."
-    mc "We're partners. Not {i}partners{/i}, Searose."
+    mc "Ortağız. {i}Partner{/i} değiliz, Searose."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:917
 translate turkish sm1mv01s05_start_shoot_9f54303f:
 
     # mc "Captain Dickhart does not cuddle and he does not spoon."
-    mc "Captain Dickhart does not cuddle and he does not spoon."
+    mc "Kaptan Dickhart sarılmaz ve kaşıklanmaz."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:918
 translate turkish sm1mv01s05_start_shoot_ff25250e:
 
     # mc "Talk to Toms. He'll find you a space."
-    mc "Talk to Toms. He'll find you a space."
+    mc "Toms'la konuş. Sana bir yer bulur."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:921
 translate turkish sm1mv01s05_start_shoot_8b7badb3:
@@ -1454,19 +1454,19 @@ translate turkish sm1mv01s05_start_shoot_8b7badb3:
 translate turkish sm1mv01s05_start_shoot_f4f4f50d:
 
     # tl "I guess the legend that you were a gentleman pirate was greatly exaggerated."
-    tl "I guess the legend that you were a gentleman pirate was greatly exaggerated."
+    tl "Sanırım centilmen korsan olduğun efsanesi fazlasıyla abartılmış."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:925
 translate turkish sm1mv01s05_start_shoot_bd41cf67:
 
     # mc "You should know better than to believe everything you hear, lass."
-    mc "You should know better than to believe everything you hear, lass."
+    mc "Duyduğun her şeye inanmaman gerektiğini bilmelisin, kızım."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:928
 translate turkish sm1mv01s05_start_shoot_660ce80f:
 
     # tl "Well, so long as our bargain holds, I'm sure I'll be able to learn everything that is fact..."
-    tl "Well, so long as our bargain holds, I'm sure I'll be able to learn everything that is fact..."
+    tl "Şey, anlaşmamız geçerli olduğu sürece, eminim gerçek olan her şeyi öğrenebileceğim..."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:929
 translate turkish sm1mv01s05_start_shoot_55521b79:
