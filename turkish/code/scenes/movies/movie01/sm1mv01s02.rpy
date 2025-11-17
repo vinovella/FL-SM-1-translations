@@ -1724,7 +1724,7 @@ translate turkish sm1mv01s02_later_b2cbc7b2:
 translate turkish sm1mv01s02_later_7765b292:
 
     # mc "*gulp*"
-    mc "*gulp*"
+    mc "*yutkunur*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:881
 translate turkish sm1mv01s02_later_164ecf31:

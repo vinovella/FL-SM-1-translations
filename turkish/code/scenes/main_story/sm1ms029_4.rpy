@@ -98,7 +98,7 @@ translate turkish sm1ms029_party_arj_4e7f0a0b:
 translate turkish sm1ms029_party_arj_a33c151a:
 
     # arj "*panting and moaning*"
-    arj "*panting and moaning*"
+    arj "*nefes nefese ve inliyor*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1939
 translate turkish sm1ms029_party_arj_cfcc2293:
@@ -110,7 +110,7 @@ translate turkish sm1ms029_party_arj_cfcc2293:
 translate turkish sm1ms029_party_arj_5f71acf7:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*homurdanıyor*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1942
 translate turkish sm1ms029_party_arj_3f19b7c7:
@@ -530,7 +530,7 @@ translate turkish sm1ms029_party_arj_dbf2ef64:
 translate turkish sm1ms029_party_arj_55b17283:
 
     # arj "Phew..."
-    arj "Phew..."
+    arj "Öf..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2065
 translate turkish sm1ms029_party_arj_fa15121a:
@@ -1178,13 +1178,13 @@ translate turkish sm1ms029_confrontation_928cc905:
 translate turkish sm1ms029_confrontation_2247f06f:
 
     # sy "*indiscernable words*"
-    sy "*indiscernable words*"
+    sy "*anlaşılmaz sözler*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2282
 translate turkish sm1ms029_confrontation_24b25b0f:
 
     # mc "*sighs*"
-    mc "*sighs*"
+    mc "*iç çeker*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2283
 translate turkish sm1ms029_confrontation_c122e1f8:
@@ -1196,7 +1196,7 @@ translate turkish sm1ms029_confrontation_c122e1f8:
 translate turkish sm1ms029_confrontation_3e248f0f:
 
     # mc "Hey, Stacy."
-    mc "Hey, Stacy."
+    mc "Selam, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2290
 translate turkish sm1ms029_confrontation_77975f23:
@@ -1454,7 +1454,7 @@ translate turkish sm1ms029_party_end_d299c722:
 translate turkish sm1ms029_party_end_a2b4c501:
 
     # mc "Same."
-    mc "Same."
+    mc "Aynı şekilde."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2391
 translate turkish sm1ms029_party_end_d667f9f0:
@@ -1568,7 +1568,7 @@ translate turkish sm1ms029_party_end_8e97066f:
 translate turkish sm1ms029_party_end_a2b4c501_1:
 
     # mc "Same."
-    mc "Same."
+    mc "Aynı şekilde."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2430
 translate turkish sm1ms029_party_end_cfd1df4d:
