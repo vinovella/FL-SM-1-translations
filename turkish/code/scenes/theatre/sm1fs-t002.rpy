@@ -1902,39 +1902,39 @@ translate turkish strings:
 translate turkish sm1fs_t002_3cc3e891:
 
     # tl "So what's your story, you two?"
-    tl "So what's your story, you two?"
+    tl "Peki ikinizin hikayesi nedir?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:373
 translate turkish sm1fs_t002_48bdc3d2:
 
     # sy "Let's get this party started!"
-    sy "Let's get this party started!"
+    sy "Hadi bu partiyi başlatalım!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:535
 translate turkish sm1fs_t002_sex_7f6d7367:
 
     # tl "Damn. Someone is definitely not shy."
-    tl "Damn. Someone is definitely not shy."
+    tl "Kahretsin. Birisi kesinlikle utangaç değil."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:704
 translate turkish sm1fs_t002_sex_226f2e7f:
 
     # mc "Literally zero complaints from me then."
-    mc "Literally zero complaints from me then."
+    mc "O zaman benden kelimenin tam anlamıyla sıfır şikayet."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:736
 translate turkish sm1fs_t002_sex_b41d6af2:
 
     # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
-    sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
+    sy "Bize göstermen gerekiyor, anlatman değil. Kimse porno sesli kitabı istemiyor. Sinema istiyorlar!"
 
 translate turkish strings:
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:245
     old "I'm into spanking"
-    new "I'm into spanking"
+    new "Dayak atmayı severim"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:245
     old "I'm game. If you can do those things to me"
-    new "I'm game. If you can do those things to me"
+    new "Varım ben. Eğer bu şeyleri bana yapabiliyorsan"
 
