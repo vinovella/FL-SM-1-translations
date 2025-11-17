@@ -1184,23 +1184,23 @@ translate deutsch strings:
 translate deutsch sm1cs_kv004_9b3488c6:
 
     # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    kv "Das hat sie. Ich weiß, dass sie schon eine Weile keinen Sex mehr hatte, also dachte ich mir, dass etwas, das ihre Fantasie anregt, ihr gefallen würde."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
 translate deutsch sm1cs_kv004_sex_repeatable_b52d6afd:
 
     # kv "Let's get rid of these pesky things..."
-    kv "Let's get rid of these pesky things..."
+    kv "Lasst uns diese lästigen Dinger loswerden..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
 translate deutsch sm1cs_kv004_sex_repeatable_0bda85cc:
 
     # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
-    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    mc "Shi-Kanya, du bist verdammt noch mal unglaublich mit deinem Mund."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate deutsch sm1cs_kv004_sex_repeatable_925a1079:
 
     # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
-    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    mc "Mmmmnngnng, Kanya, du bist so eng! Deine Muschi ist wie eine Viccce!"
 
