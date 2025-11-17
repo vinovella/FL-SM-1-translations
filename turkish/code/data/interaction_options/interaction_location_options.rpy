@@ -20,9 +20,9 @@ translate turkish strings:
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Recruit Lyssa for the Sci-Fi Movie"
-    new "Recruit Lyssa for the Sci-Fi Movie"
+    new "Bilim-Kurgu Filmi için Lyssa'yı işe al"
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Talk about going to the spa with Nari"
-    new "Talk about going to the spa with Nari"
+    new "Nari ile spa'ya gitme hakkında konuş"
 
