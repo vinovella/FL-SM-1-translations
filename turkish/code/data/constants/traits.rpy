@@ -2,7 +2,7 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Brunette"
-    new "Brunette"
+    new "Kumral"
 
     # game/code/data/constants/traits.rpy:82
     old "Blonde"
@@ -304,5 +304,5 @@ translate turkish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Nipple Piercings"
-    new "Nipple Piercings"
+    new "Meme Ucu Piercinglari"
 

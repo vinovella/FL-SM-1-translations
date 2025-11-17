@@ -276,201 +276,201 @@ translate turkish strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Watch her pee..."
-    new "Watch her pee..."
+    new "İşemesini izle..."
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Visit Theater"
-    new "Visit Theater"
+    new "Tiyatroyu Ziyaret Et"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about new order from the client"
-    new "Talk about new order from the client"
+    new "Müşteriden yeni sipariş hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk to Stacy about the new movie"
-    new "Talk to Stacy about the new movie"
+    new "Stacy ile yeni film hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Choose the movie you want to film"
-    new "Choose the movie you want to film"
+    new "Çekmek istediğiniz filmi seçin"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk to Stacy about the second movie"
-    new "Talk to Stacy about the second movie"
+    new "Stacy ile ikinci film hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Borrow Stacy's Laptop"
-    new "Borrow Stacy's Laptop"
+    new "Stacy'nin Dizüstü Bilgisayarını Ödünç Al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask Debbie out again"
-    new "Ask Debbie out again"
+    new "Debbie'yi tekrar dışarı davet et"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Sexy Times?"
-    new "Sexy Times?"
+    new "Seksi Zamanlar?"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "I want to continue what we had"
-    new "I want to continue what we had"
+    new "Aramızdaki şeye devam etmek istiyorum"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "I agree to your special assignment"
-    new "I agree to your special assignment"
+    new "Özel görevinizi kabul ediyorum"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Wurst Delivery Sponsorship"
-    new "Wurst Delivery Sponsorship"
+    new "Wurst Teslimat Sponsorluğu"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Buy costume for the movie"
-    new "Buy costume for the movie"
+    new "Film için kostüm satın al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit actress for the movie"
-    new "Recruit actress for the movie"
+    new "Film için oyuncu işe al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Taisia for the movie"
-    new "Recruit Taisia for the movie"
+    new "Film için Taisia'yı işe al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Pirates Movie"
-    new "Pirates Movie"
+    new "Korsanlar Filmi"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about buying props for the movie"
-    new "Talk about buying props for the movie"
+    new "Film için sahne malzemeleri satın alma hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Build props for the movie"
-    new "Build props for the movie"
+    new "Film için sahne malzemeleri yap"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Start filming the movie"
-    new "Start filming the movie"
+    new "Filmi çekmeye başla"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Start filming the second scene"
-    new "Start filming the second scene"
+    new "İkinci sahneyi çekmeye başla"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about the movie"
-    new "Talk about the movie"
+    new "Film hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Travel!"
-    new "Travel!"
+    new "Seyahat!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "I finished editing!"
-    new "I finished editing!"
+    new "Düzenlemeyi bitirdim!"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Min for the Sci-Fi Movie"
-    new "Recruit Min for the Sci-Fi Movie"
+    new "Bilim-Kurgu Filmi için Min'i işe al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Sci-Fi Movie props"
-    new "Talk about Sci-Fi Movie props"
+    new "Bilim-Kurgu Filmi sahne malzemeleri hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Nari for the Sci-Fi Movie"
-    new "Recruit Nari for the Sci-Fi Movie"
+    new "Bilim-Kurgu Filmi için Nari'yi işe al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about building set for Sci-Fi Movie"
-    new "Talk about building set for Sci-Fi Movie"
+    new "Bilim-Kurgu Filmi için set inşaatı hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Continue building set for Sci-Fi Movie"
-    new "Continue building set for Sci-Fi Movie"
+    new "Bilim-Kurgu Filmi için set inşaatına devam et"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Next step for the Sci-Fi Movie"
-    new "Next step for the Sci-Fi Movie"
+    new "Bilim-Kurgu Filmi için bir sonraki adım"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Prepare for filming the Sci-Fi Movie"
-    new "Prepare for filming the Sci-Fi Movie"
+    new "Bilim-Kurgu Filmini çekmeye hazırlan"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Start filming the Sci-Fi Movie"
-    new "Start filming the Sci-Fi Movie"
+    new "Bilim-Kurgu Filmini çekmeye başla"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Film the next Sci-Fi Movie scene"
-    new "Film the next Sci-Fi Movie scene"
+    new "Bilim-Kurgu Filminin bir sonraki sahnesini çek"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about going to the spa with Lyssa"
-    new "Talk about going to the spa with Lyssa"
+    new "Lyssa ile kaplıcaya gitme hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about going to the spa with Min"
-    new "Talk about going to the spa with Min"
+    new "Min ile kaplıcaya gitme hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about big scenes in Sci-Fi Movie"
-    new "Talk about big scenes in Sci-Fi Movie"
+    new "Bilim-Kurgu Filmindeki büyük sahneler hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Film the final scene of Sci-Fi Movie"
-    new "Film the final scene of Sci-Fi Movie"
+    new "Bilim-Kurgu Filminin final sahnesini çek"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Done editing the Sci-Fi Movie"
-    new "Done editing the Sci-Fi Movie"
+    new "Bilim-Kurgu Filminin düzenlemesi bitti"
 
 translate turkish strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk with Stacy about her job search"
-    new "Talk with Stacy about her job search"
+    new "Stacy ile iş arayışı hakkında konuş"
 
 translate turkish strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Let's go to the Amusement Park"
-    new "Let's go to the Amusement Park"
+    new "Hadi Eğlence Parkına gidelim"
 
 translate turkish strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Prepare for the party"
-    new "Prepare for the party"
+    new "Parti için hazırlan"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Confront Amore"
-    new "Confront Amore"
+    new "Amore ile Yüzleş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about work"
-    new "Talk about work"
+    new "İş hakkında konuş"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have some fun with Min"
-    new "Have some fun with Min"
+    new "Min ile biraz eğlen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Smash"
-    new "Smash"
+    new "Dağıt"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask about the play"
-    new "Ask about the play"
+    new "Oyun hakkında sor"
 
 translate turkish strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Photography-101 for $60"
-    new "Purchase Photography-101 for $60"
+    new "$60 karşılığında Fotoğrafçılık-101 satın al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Stars Weekly for $30"
-    new "Purchase Stars Weekly for $30"
+    new "$30 karşılığında Stars Weekly satın al"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase An Actor Prepares for $60"
-    new "Purchase An Actor Prepares for $60"
+    new "$60 karşılığında An Actor Prepares satın al"
 
