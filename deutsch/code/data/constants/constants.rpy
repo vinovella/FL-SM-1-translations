@@ -172,25 +172,25 @@ translate deutsch strings:
 
     # game/code/data/constants/constants.rpy:169
     old "Tue"
-    new "Tue"
+    new "Die"
 
     # game/code/data/constants/constants.rpy:170
     old "Wed"
-    new "Wed"
+    new "Mit"
 
     # game/code/data/constants/constants.rpy:171
     old "Thu"
-    new "Thu"
+    new "Don"
 
     # game/code/data/constants/constants.rpy:172
     old "Fri"
-    new "Fri"
+    new "Fre"
 
     # game/code/data/constants/constants.rpy:173
     old "Sat"
-    new "Sat"
+    new "Sam"
 
     # game/code/data/constants/constants.rpy:174
     old "Sun"
-    new "Sun"
+    new "Son"
 
