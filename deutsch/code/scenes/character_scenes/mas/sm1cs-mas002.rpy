@@ -176,7 +176,7 @@ translate deutsch sm1cs_mas002_fcbdad26:
 translate deutsch sm1cs_mas002_c74abe6e:
 
     # ms "Yeah, it sucks a lot."
-    ms "Yeah, it sucks a lot."
+    ms "Ja, das ist echt ätzend."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:89
 translate deutsch sm1cs_mas002_2259599a:
