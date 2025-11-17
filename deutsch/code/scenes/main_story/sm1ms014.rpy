@@ -62,7 +62,7 @@ translate deutsch sm1ms014_c1e03b64:
 translate deutsch sm1ms014_4f0d583a:
 
     # mc "Oh, hey Melony."
-    mc ""
+    mc "Oh, hey Melony."
 
 # game/code/scenes/main_story/sm1ms014.rpy:43
 translate deutsch sm1ms014_e99a3cc2:
