@@ -56,7 +56,7 @@ translate turkish sm1cs_am005b_9163e74f:
 translate turkish sm1cs_am005b_658994d8:
 
     # mc "Never mind."
-    mc "Never mind."
+    mc "Boşver."
 
 translate turkish strings:
 

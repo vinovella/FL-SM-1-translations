@@ -812,5 +812,5 @@ translate turkish sm1cs_ag003_353fb300:
 translate turkish sm1cs_ag003_e50bff0e:
 
     # ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
-    ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
+    ag "Teşekkürler! Bir süredir... tuvaleti kullanmam gerekiyor, ama eşyalarımı sahipsiz bırakmaktan nefret ediyorum. Hemen döneceğim!"
 

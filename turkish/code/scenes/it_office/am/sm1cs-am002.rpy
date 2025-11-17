@@ -506,79 +506,79 @@ translate turkish strings:
 translate turkish sm1cs_am002_e86d99ac:
 
     # mc "Uh... Earth to April."
-    mc "Uh... Earth to April."
+    mc "Şey... April, buradasın?"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:78
 translate turkish sm1cs_am002_39bb3e71:
 
     # mc "Totally fine.{w} Gave my heart a workout."
-    mc "Totally fine.{w} Gave my heart a workout."
+    mc "Kesinlikle iyi.{w} Kalbime iyi bir egzersiz yaptırdı."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:81
 translate turkish sm1cs_am002_9222011b:
 
     # ag "Did she say anything?{w} Did you hear her talking on her phone?"
-    ag "Did she say anything?{w} Did you hear her talking on her phone?"
+    ag "Bir şey söyledi mi?{w} Telefonla konuştuğunu duydun mu?"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:96
 translate turkish sm1cs_am002_72c66862:
 
     # ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
-    ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
+    ag "Hayır hayır. Sadece şey...{w} April'in şirket zamanında tuvalette saklanıp kişisel aramalar yapmadığından emin olmak istiyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:99
 translate turkish sm1cs_am002_d06f9e7a:
 
     # mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
-    mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
+    mc "Tamam... Belki mesaj almıştır?{w} Telefonuna çok kafa yormuş gibi görünüyordu."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:106
 translate turkish sm1cs_am002_e2dd0671:
 
     # mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
-    mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
+    mc "Ah gerçekten iyi. Ve birçok denemeden sonra, bana bağırmadan yardım istemenin en iyi yolunu bulduğumu düşünüyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:167
 translate turkish sm1cs_am002_9bab7d01:
 
     # ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
-    ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
+    ag "Yarın mı?{w} Hayır. Middleware'deki değişiklikleri bugün bitirmen gerekiyordu."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:185
 translate turkish sm1cs_am002_38cb486e:
 
     # am "Look, it's like I said earlier.{w} It will be ready tomorrow."
-    am "Look, it's like I said earlier.{w} It will be ready tomorrow."
+    am "Bak, daha önce söylediğim gibi.{w} Yarın hazır olacak."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:189
 translate turkish sm1cs_am002_f059d2ec:
 
     # ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
-    ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
+    ag "*iç çeker* April, lütfen benimle konuş.{w} Bu sana benzemiyor. Yani, sana benziyor ama... tüm hakaretlerine ve ufak tefek sataşmalarına rağmen, hiç bu kadar geride kalmadın."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:201
 translate turkish sm1cs_am002_371de864:
 
     # am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
-    am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
+    am "Middleware'in ne kadar değişken olabileceğini biliyorsun.{w} Ve senin tüm bu çığlıkların beni oyunumdan çıkarıyor ve daha da geri atıyor."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:311
 translate turkish sm1cs_am002_cb355b8b:
 
     # ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
-    ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
+    ag "Hahaha, asla.{w} Onun dikkatini çekmenin en hızlı yolu olduğunu söyledi ve onu bayıltacağını düşünmedi."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:312
 translate turkish sm1cs_am002_a8caa986:
 
     # ag "That was quite the day..."
-    ag "That was quite the day..."
+    ag "Oldukça etkileyici bir gündü..."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:323
 translate turkish sm1cs_am002_cff053f3:
 
     # ag "Thanks, [mcname]."
-    ag "Thanks, [mcname]."
+    ag "Teşekkürler, [mcname]."
 
 translate turkish strings:
 

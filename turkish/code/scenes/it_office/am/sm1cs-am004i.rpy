@@ -78,11 +78,11 @@ translate turkish strings:
 translate turkish sm1cs_am004i_e2e0bcfb:
 
     # am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
-    am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
+    am "Peki, unutma, bu pagan rock. Sonra şikayet ettiğini duymak istemiyorum."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
 translate turkish sm1cs_am004i_286029a4:
 
     # mc "Wouldn't dream of it. See you tonight."
-    mc "Wouldn't dream of it. See you tonight."
+    mc "Aklımdan bile geçmez. Bu gece görüşürüz."
 

@@ -698,7 +698,7 @@ translate turkish strings:
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:30
     old "Huh?"
-    new "Huh?"
+    new "Ha?"
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:30
     old "Totally"
@@ -740,47 +740,47 @@ translate turkish strings:
 translate turkish sm1cs_ag001_493be2ed:
 
     # mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
-    mj "My team managed to nail down that analytics error that was a real thorn in our butts. Now I've got Jayden saying the stress test alerts are going off when we're at fifteen percent capacity."
+    mj "Ekibim canımızı sıkan o analitik hatasını çözmeyi başardı. Şimdi Jayden yüzde on beş kapasitedeyken stres testi alarmlarının çaldığını söylüyor."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:234
 translate turkish sm1cs_ag001_314d6ac2:
 
     # mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
-    mct "The story of Eva Kingsley as she goes undercover in the salacious Marquis Club."
+    mct "Eva Kingsley'nin şehvetli Marquis Kulübü'ne sızarken yaşadığı hikaye."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:238
 translate turkish sm1cs_ag001_9e2758b7:
 
     # mct "This certainly deserves an Adults Only rating."
-    mct "This certainly deserves an Adults Only rating."
+    mct "Bu kesinlikle Sadece Yetişkinler derecelendirmesini hak ediyor."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
 translate turkish sm1cs_ag001_8601bed3:
 
     # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
-    mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
+    mct "Buna dayanarak, kapatılmasaydı Anna'nın Fetish Locator'a ilgi duyabileceğini düşünüyorum."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:243
 translate turkish sm1cs_ag001_499c380f:
 
     # mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
-    mct "I still shouldn't have looked. Now I know she's kinky, but it's not like I can walk up to her and say \"hey, I heard you're into humiliation porn\"."
+    mct "Yine de bakmamalıydım. Şimdi onun sapkın olduğunu biliyorum, ama ona gidip \"hey, aşağılanma pornosuna meraklı olduğunu duydum\" diyemem ki."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:246
 translate turkish sm1cs_ag001_30f8e87b:
 
     # mc "Oh cool, they're making a movie based on the book."
-    mc "Oh cool, they're making a movie based on the book."
+    mc "Vay be, kitaptan bir film çekiyorlar."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:398
 translate turkish sm1cs_ag001_continue_68649b33:
 
     # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
-    ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
+    ag "Ama muhtemelen Crowning'deki en iyi kodlayıcı ve onu ekipte bulundurmak bir ayrıcalık. Eksiklikleriyle birlikte."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
 translate turkish sm1cs_ag001_continue_be0ef968:
 
     # mct "Oh I don't think either of us would mind that, Anna."
-    mct "Oh I don't think either of us would mind that, Anna."
+    mct "Oh, sanırım ikimiz de buna itiraz etmeyiz, Anna."
 
