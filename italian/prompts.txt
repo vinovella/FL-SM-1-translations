@@ -1,35 +1,4 @@
 
---- PROMPT 3 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/data/characters/names.rpy [17 words]
-italian/code/data/chat/chat_am.rpy [113 words]
-italian/code/data/chat/chat_arj.rpy [91 words]
-italian/code/data/chat/chat_bg.rpy [21 words]
-italian/code/data/chat/chat_cw.rpy [29 words]
-italian/code/data/chat/chat_dc.rpy [122 words]
-italian/code/data/chat/chat_dvh.rpy [12 words]
-italian/code/data/chat/chat_km.rpy [28 words]
-italian/code/data/chat/chat_kv.rpy [77 words]
-italian/code/data/chat/chat_mes.rpy [396 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
---- PROMPT 4 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/data/chat/chat_mh.rpy [58 words]
-italian/code/data/chat/chat_my.rpy [135 words]
-italian/code/data/chat/chat_ns.rpy [24 words]
-italian/code/data/chat/chat_tl.rpy [127 words]
-italian/code/data/chat/chat_vs.rpy [113 words]
-italian/code/data/constants/constants.rpy [53 words]
-italian/code/data/constants/location_constants.rpy [102 words]
-italian/code/data/constants/traits.rpy [99 words]
-italian/code/data/gallery/replay_gallery.rpy [263 words]
-italian/code/data/gallery/sm_website.rpy [45 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
 
 --- PROMPT 5 ---
 Translate untranslated lines of dialogue and menu choices in
