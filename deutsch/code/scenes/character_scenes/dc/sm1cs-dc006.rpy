@@ -928,11 +928,11 @@ translate deutsch strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
     old "Stop Debbie"
-    new "Stop Debbie"
+    new "Stopp Debbie"
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:483
     old "Show no interest in Debbie"
-    new "Zeige kein Interesse an Debbie."
+    new "Zeige kein Interesse an Debbie"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:505
 translate deutsch sm1cs_dc006_at_park_fb7dfd2e:
@@ -944,11 +944,11 @@ translate deutsch sm1cs_dc006_at_park_fb7dfd2e:
 translate deutsch sm1cs_dc006_993ec2ac:
 
     # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+    dc "Ich würde lügen, wenn ich behaupten würde, dass mich das Geschehene nicht ein wenig interessiert. Wenn die Polizei nicht darüber sprechen will, muss es schon etwas... Pikantes sein."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
 translate deutsch sm1cs_dc006_a541102c:
 
     # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
-    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
+    dc "Die sind ziemlich gut. Es ist Espresso und Milch und etwas Schokoladenmischung. Ich meine, deine ist eine weiße Schokoladenmischung, und..."
 
