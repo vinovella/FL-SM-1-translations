@@ -2,7 +2,7 @@
 translate deutsch sm1ms002_809091fc:
 
     # sy "Oh good, you're here."
-    sy "Oh gut, du bist da."
+    sy "Oh gut, da bist du ja."
 
 # game/code/scenes/main_story/sm1ms002.rpy:22
 translate deutsch sm1ms002_c0baac05:
@@ -230,7 +230,7 @@ translate deutsch sm1ms002_continue_convo_2f83e092:
 translate deutsch sm1ms002_continue_convo_3a6e7871:
 
     # mct "Gah!"
-    mct "Gah!"
+    mct "Ach!"
 
 translate deutsch strings:
 
