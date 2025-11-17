@@ -1245,7 +1245,7 @@ translate turkish sm1cs_mh008_couple_carousel_7647e6de:
 translate turkish sm1cs_mh008_couple_carousel_d0445bce:
 
     # mc "Yeah, that sounds nice."
-    mc "Yeah, that sounds nice."
+    mc "Evet, kulağa hoş geliyor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:733
 translate turkish sm1cs_mh008_couple_carousel_end_cac1d1c7:
