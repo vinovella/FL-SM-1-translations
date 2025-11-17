@@ -8,7 +8,7 @@ translate turkish sm1ms025i_3e248f0f:
 translate turkish sm1ms025i_4d2a5cce:
 
     # sy "Hey, [mcname]. I've got good news."
-    sy "Hey, [mcname]. I've got good news."
+    sy "Hey, [mcname]. İyi haberim var."
 
 # game/code/scenes/main_story/sm1ms025i.rpy:12
 translate turkish sm1ms025i_11455b53:

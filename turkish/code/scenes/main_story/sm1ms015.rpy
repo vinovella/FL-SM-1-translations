@@ -884,13 +884,13 @@ translate turkish sm1ms015_23dee611:
 translate turkish sm1ms015_4211e622:
 
     # mc "Everything okay, Mom?"
-    mc "Everything okay, Mom?"
+    mc "Her şey yolunda mı, Anne?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:157
 translate turkish sm1ms015_d989617b:
 
     # cw "Never mind."
-    cw "Never mind."
+    cw "Boşver."
 
 # game/code/scenes/main_story/sm1ms015.rpy:246
 translate turkish sm1ms015_fdab53eb:
