@@ -272,5 +272,5 @@ translate deutsch strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Nelson during the day about sponsoring the new show"
-    new "Talk to Nelson during the day about sponsoring the new show"
+    new "Sprich tagsüber mit Nelson über das Sponsoring der neuen Show"
 
