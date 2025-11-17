@@ -20,7 +20,7 @@ translate deutsch strings:
 
     # game/code/renpy/screens/game_menus.rpy:155
     old "HIST"
-    new "HIST"
+    new "GESCHICHTE"
 
     # game/code/renpy/screens/game_menus.rpy:159
     old "AUTO"
