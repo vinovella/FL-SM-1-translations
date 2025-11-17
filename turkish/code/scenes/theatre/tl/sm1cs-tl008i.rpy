@@ -50,41 +50,41 @@ translate turkish sm1cs_tl008i_repeatable_e0c56fee:
 translate turkish sm1cs_tl008i_repeatable_97f3ede0:
 
     # tl "At least it turns me on enough that I need to fuck my pussy."
-    tl "At least it turns me on enough that I need to fuck my pussy."
+    tl "En azından beni o kadar azdırıyor ki amımı becermem gerekiyor."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008i.rpy:30
 translate turkish sm1cs_tl008i_repeatable_d205b6d3:
 
     # tl "You want to help me out?"
-    tl "You want to help me out?"
+    tl "Bana yardım etmek ister misin?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008i.rpy:36
 translate turkish sm1cs_tl008i_repeatable_650005ba:
 
     # mc "Hell yeah I do!"
-    mc "Hell yeah I do!"
+    mc "Elbette istiyorum!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008i.rpy:39
 translate turkish sm1cs_tl008i_repeatable_d2cf478c:
 
     # tl "Let's get started."
-    tl "Let's get started."
+    tl "Hadi başlayalım."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008i.rpy:41
 translate turkish sm1cs_tl008i_repeatable_307e9ea5:
 
     # tl "Let's go to my room."
-    tl "Let's go to my room."
+    tl "Hadi odama gidelim."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008i.rpy:51
 translate turkish sm1cs_tl008i_repeatable_f11f5d14:
 
     # mc "I actually was just stopping in to say hi. I've got some things I need to do."
-    mc "I actually was just stopping in to say hi. I've got some things I need to do."
+    mc "Aslında sadece merhaba demek için uğramıştım. Yapmam gereken bazı şeyler var."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008i.rpy:55
 translate turkish sm1cs_tl008i_repeatable_ca4a336b:
 
     # tl "Whatever."
-    tl "Whatever."
+    tl "Ne olursa olsun."
 

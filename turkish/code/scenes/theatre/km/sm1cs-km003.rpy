@@ -272,5 +272,5 @@ translate turkish sm1cs_km003_6aec3e56:
 translate turkish sm1cs_km003_68f2a5f5:
 
     # mc "Oh yeah, your two out of five-star apology. Very sincere."
-    mc "Oh yeah, your two out of five-star apology. Very sincere."
+    mc "Ah evet, beş yıldızlı özrünün ikisi. Çok samimi."
 
