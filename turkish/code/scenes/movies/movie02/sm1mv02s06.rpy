@@ -812,7 +812,7 @@ translate turkish sm1mv02s06_scene_afda5fce:
 translate turkish sm1mv02s06_scene_00a8dc63:
 
     # mhmes "T-this is a good - mmmmmmm - experiment-"
-    mhmes "T-this is a good - mmmmmmm - experiment-"
+    mhmes "B-bu iyi bir - mmmmmmm - deney-"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:639
 translate turkish sm1mv02s06_scene_d517d4b5:
