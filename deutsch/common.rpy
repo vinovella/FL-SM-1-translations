@@ -582,7 +582,7 @@
 
     # renpy/common/00preferences.rpy:362
     old "skip unseen text"
-    new "ungesehen überspringen text"
+    new "ungesehen Text überspringen"
 
     # renpy/common/00preferences.rpy:364
     old "begin skipping"
@@ -686,7 +686,7 @@
 
     # renpy/common/00preferences.rpy:503
     old "font transform"
-    new "font transform"
+    new "Schriftart-Transformation"
 
     # renpy/common/00preferences.rpy:506
     old "font size"
@@ -702,7 +702,7 @@
 
     # renpy/common/00preferences.rpy:531
     old "renderer menu"
-    new "renderer menu"
+    new "Renderer-Menü"
 
     # renpy/common/00preferences.rpy:534
     old "accessibility menu"
@@ -730,7 +730,7 @@
 
     # renpy/common/00preferences.rpy:588
     old "restore window position"
-    new "restore window position"
+    new "Fensterposition wiederherstellen"
 
     # renpy/common/00preferences.rpy:597
     old "reset"
@@ -1174,7 +1174,7 @@
 
     # renpy/common/_errorhandling.rpym:682
     old "Copy Markdown"
-    new "Copy Markdown"
+    new "Markdown kopieren"
 
     # renpy/common/_errorhandling.rpym:684
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
