@@ -878,29 +878,29 @@ translate turkish sm1ms015_894728ea:
 translate turkish sm1ms015_23dee611:
 
     # mc "Their main focus is developing IT solutions and infrastructure."
-    mc "Their main focus is developing IT solutions and infrastructure."
+    mc "Ana odak noktaları BT çözümleri ve altyapı geliştirmek."
 
 # game/code/scenes/main_story/sm1ms015.rpy:47
 translate turkish sm1ms015_4211e622:
 
     # mc "Everything okay, Mom?"
-    mc "Everything okay, Mom?"
+    mc "Her şey yolunda mı, Anne?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:157
 translate turkish sm1ms015_d989617b:
 
     # cw "Never mind."
-    cw "Never mind."
+    cw "Boşver."
 
 # game/code/scenes/main_story/sm1ms015.rpy:246
 translate turkish sm1ms015_fdab53eb:
 
     # ns "And I'm delighted to meet you too, Ms. Melony."
-    ns "And I'm delighted to meet you too, Ms. Melony."
+    ns "Ve sizinle tanıştığım için çok mutluyum, Bayan Melony."
 
 # game/code/scenes/main_story/sm1ms015.rpy:381
 translate turkish sm1ms015_23fb47ba:
 
     # sy "Haha. He's got you there, Mom."
-    sy "Haha. He's got you there, Mom."
+    sy "Haha. Bu konuda haklı, Anne."
 

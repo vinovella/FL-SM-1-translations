@@ -70,5 +70,5 @@ translate turkish strings:
 
     # game/code/scenes/main_story/sm1ms022i.rpy:12
     old "You gave $200 to Stacy"
-    new "You gave $200 to Stacy"
+    new "Stacy'ye 200$ verdin"
 

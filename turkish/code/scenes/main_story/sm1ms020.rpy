@@ -1306,5 +1306,5 @@ translate turkish strings:
 translate turkish sm1ms020_0046f9d0:
 
     # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
-    my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+    my "Yatırımcılar ve galeri arasındaki bağlantıları yönetiyorum, sergilenecek yeni sanatçılar için yetenek avcılığı yapıyorum..."
 
