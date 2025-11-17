@@ -944,97 +944,97 @@ translate turkish q_inter_ns_37_0bc7a040:
 translate turkish q_inter_ns_37_18abae82:
 
     # ns "With all these advances in AI script modules, I wonder if I would have used them in classes."
-    ns "With all these advances in AI script modules, I wonder if I would have used them in classes."
+    ns "Yapay zeka betik modüllerindeki tüm bu ilerlemelerle, acaba derslerde bunları kullanır mıydım?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:117
 translate turkish q_inter_ns_7_525df220:
 
     # ns "Oh hey there. How's it going, [mcname]?"
-    ns "Oh hey there. How's it going, [mcname]?"
+    ns "Ah merhaba. Nasıl gidiyor, [mcname]?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:134
 translate turkish q_inter_ns_8_0c2db63d:
 
     # ns "Well... you know. *giggles*"
-    ns "Well... you know. *giggles*"
+    ns "Şey... bilirsin. *kıkırdar*"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:313
 translate turkish q_inter_ns_22_af94e231:
 
     # ns "Hehehe. Never mind. I just wanted you to look at me."
-    ns "Hehehe. Never mind. I just wanted you to look at me."
+    ns "Hehehe. Boş ver. Sadece bana bakmanı istedim."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:383
 translate turkish q_inter_ns_26_0f469b9f:
 
     # ns "And NASA found that a single plant can effectively purify 30 square feet of a space."
-    ns "And NASA found that a single plant can effectively purify 30 square feet of a space."
+    ns "Ve NASA bir bitkinin 30 fit karelik bir alanı etkili bir şekilde arındırabileceğini bulmuş."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:393
 translate turkish q_inter_ns_26_0a0ffbc8:
 
     # ns "Some of these studies focus on specific plants, and each plant..."
-    ns "Some of these studies focus on specific plants, and each plant..."
+    ns "Bu çalışmaların bazıları belirli bitkilere odaklanıyor ve her bitki..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:447
 translate turkish q_inter_ns_29_28d64cc9:
 
     # mct "Crowning has a Korean barbecue place?"
-    mct "Crowning has a Korean barbecue place?"
+    mct "Crowning'de Kore barbekü restoranı mı var?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:559
 translate turkish q_inter_ns_38_17166f24:
 
     # ns "That was so fun, hooking up with you and Stacy."
-    ns "That was so fun, hooking up with you and Stacy."
+    ns "Seninle ve Stacy'yle birlikte olmak çok eğlenceliydi."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:560
 translate turkish q_inter_ns_38_d6a36a7a:
 
     # mc "First time?"
-    mc "First time?"
+    mc "İlk kez mi?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:561
 translate turkish q_inter_ns_38_bf64d622:
 
     # ns "Yes."
-    ns "Yes."
+    ns "Evet."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:564
 translate turkish q_inter_ns_38_a018b071:
 
     # ns "Wait? Was I that bad?"
-    ns "Wait? Was I that bad?"
+    ns "Dur bir dakika. O kadar kötü müydüm?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:567
 translate turkish q_inter_ns_38_d1330e66:
 
     # mc "Not at all Nari."
-    mc "Not at all Nari."
+    mc "Hiç de değil Nari."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:573
 translate turkish q_inter_ns_39_217556ef:
 
     # ns "I wonder if Stacy will want to fuck me and you at the same time again."
-    ns "I wonder if Stacy will want to fuck me and you at the same time again."
+    ns "Acaba Stacy tekrar seninle ve benimle aynı anda sevişmek ister mi?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:574
 translate turkish q_inter_ns_39_3bffd0c2:
 
     # mc "Oh I think you can safely assume that will happen again."
-    mc "Oh I think you can safely assume that will happen again."
+    mc "Bunun tekrar olacağını güvenle varsayabilirsin."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:575
 translate turkish q_inter_ns_39_93037fdf:
 
     # mc "Stacy likes sex in all its forms."
-    mc "Stacy likes sex in all its forms."
+    mc "Stacy seksin her türünü sever."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:578
 translate turkish q_inter_ns_39_a6593017:
 
     # ns "Ooooh. Sounds like we'll get along nicely."
-    ns "Ooooh. Sounds like we'll get along nicely."
+    ns "Ooooh. Görünüşe göre iyi anlaşacağız."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:585
 translate turkish q_inter_ns_40_25048c2a:

@@ -392,13 +392,13 @@ translate turkish q_inter_sy_32_3359e9ff:
 translate turkish q_inter_sy_33_d8c59b20:
 
     # sy "Our second film got ordered. It's really happening for us."
-    sy "Our second film got ordered. It's really happening for us."
+    sy "İkinci filmimiz sipariş edildi. Gerçekten başlıyoruz."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:312
 translate turkish q_inter_sy_33_71e206da:
 
     # mc "Yeah. I'm excited to play with you as a naughty farmer's daughter."
-    mc "Yeah. I'm excited to play with you as a naughty farmer's daughter."
+    mc "Evet. Seninle yaramaz bir çiftçinin kızı olarak oynamak için sabırsızlanıyorum."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:315
 translate turkish q_inter_sy_33_aab31592:

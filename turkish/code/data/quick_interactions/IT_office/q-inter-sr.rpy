@@ -110,5 +110,5 @@ translate turkish q_inter_sr_5_031e8a5d:
 translate turkish q_inter_sr_4_6dd1d47e:
 
     # sr "We've been getting bombarded with a DDoS all morning. Thank God we had April test the system when we implemented it."
-    sr "We've been getting bombarded with a DDoS all morning. Thank God we had April test the system when we implemented it."
+    sr "Sabahtan beri DDoS saldırısına maruz kalıyoruz. Tanrıya şükür sistemi uygulamaya koyarken April'a test ettirmiştik."
 
