@@ -752,7 +752,7 @@ translate italian sm1cs_am003_cf1adef2:
 translate italian sm1cs_am003_26668e99:
 
     # am "Hey. If you're not busy sucking at night on Mondays or Thursdays my band is playing at a local bar near here."
-    am "Hey. If you're not busy sucking at night on Mondays or Thursdays my band is playing at a local bar near here."
+    am "Ehi. Se non sei impegnato a fare schifo la sera il lunedì o il giovedì, la mia band suona in un bar locale qui vicino."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:471
 translate italian sm1cs_am003_26668e99_1:
