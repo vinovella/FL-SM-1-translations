@@ -1094,7 +1094,7 @@ translate italian sm1cs_mas003_third_delivery_1f56924c:
 translate italian sm1cs_mas003_third_delivery_1d945691:
 
     # ols "Oh my god. How do the two of you go on deliveries together and not just snack on each other?"
-    ols "Oh my god. How do the two of you go on deliveries together and not just snack on each other?"
+    ols "Oh mio dio. Come fate voi due ad andare insieme alle consegne e non spiluccarvi a vicenda?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:652
 translate italian sm1cs_mas003_third_delivery_11455b53_1:
@@ -1178,7 +1178,7 @@ translate italian sm1cs_mas003_third_delivery_3cc23eab:
 translate italian sm1cs_mas003_third_delivery_42c30215:
 
     # ka "I'm sorry for my friend. I think she was super sheltered growing up and never drank."
-    ka "I'm sorry for my friend. I think she was super sheltered growing up and never drank."
+    ka "Mi scuso per la mia amica. Penso che sia stata super protetta crescendo e non abbia mai bevuto."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:687
 translate italian sm1cs_mas003_third_delivery_e1f4e33f:

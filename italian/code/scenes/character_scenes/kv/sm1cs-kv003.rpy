@@ -1,4 +1,4 @@
-﻿# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:37
+# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:37
 translate italian sm1cs_kv003_aa0d9ec1:
 
     # sy "Hey there stud, how was meeting Kanya?"
