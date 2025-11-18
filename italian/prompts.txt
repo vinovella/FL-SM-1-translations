@@ -1,20 +1,4 @@
 
---- PROMPT 25 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/scenes/it_office/ns/sm1cs-ns010.rpy [2 words]
-italian/code/scenes/it_office/ns/sm1cs-ns011.rpy [14 words]
-italian/code/scenes/it_office/ns/sm1cs-ns012.rpy [77 words]
-italian/code/scenes/it_office/ns/sm1cs-ns013.rpy [119 words]
-italian/code/scenes/it_office/ns/sm1cs-ns014.rpy [84 words]
-italian/code/scenes/main_story/sm1ms002.rpy [1 words]
-italian/code/scenes/main_story/sm1ms002_it.rpy [4 words]
-italian/code/scenes/main_story/sm1ms003.rpy [1 words]
-italian/code/scenes/main_story/sm1ms005.rpy [4 words]
-italian/code/scenes/main_story/sm1ms006.rpy [6 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
 --- PROMPT 26 ---
 Translate untranslated lines of dialogue and menu choices in
 
