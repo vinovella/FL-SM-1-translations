@@ -986,11 +986,11 @@ translate italian sm1cs_kv003_9c5419cb:
 translate italian sm1cs_kv003_222c534c:
 
     # kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
-    kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
+    kv "Mi stavo chiedendo come farai a convincere alcune di queste attrici a recitare nei tuoi porno."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:462
 translate italian sm1cs_kv003_9ac58097:
 
     # kv "I-I-I- think I'm going to cum!"
-    kv "I-I-I- think I'm going to cum!"
+    kv "I-I-I- penso che sto per venire!"
 

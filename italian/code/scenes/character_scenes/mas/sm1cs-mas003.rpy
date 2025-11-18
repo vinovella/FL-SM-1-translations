@@ -1130,7 +1130,7 @@ translate italian sm1cs_mas003_third_delivery_d919414d:
 translate italian sm1cs_mas003_third_delivery_8968713b:
 
     # lg "Can we order food? I'm really hungry."
-    lg "Can we order food? I'm really hungry."
+    lg "Possiamo ordinare del cibo? Ho davvero fame."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:667
 translate italian sm1cs_mas003_third_delivery_05d96d56:
@@ -1178,7 +1178,7 @@ translate italian sm1cs_mas003_third_delivery_3cc23eab:
 translate italian sm1cs_mas003_third_delivery_42c30215:
 
     # ka "I'm sorry for my friend. I think she was super sheltered growing up and never drank."
-    ka "I'm sorry for my friend. I think she was super sheltered growing up and never drank."
+    ka "Mi dispiace per la mia amica. Penso che sia stata molto protetta crescendo e non abbia mai bevuto."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:687
 translate italian sm1cs_mas003_third_delivery_e1f4e33f:
@@ -1226,7 +1226,7 @@ translate italian sm1cs_mas003_third_delivery_e02f26a6:
 translate italian sm1cs_mas003_third_delivery_ee26e2b5:
 
     # ka "I'm sorry. I just... I love my house. And I love these two bitches."
-    ka "I'm sorry. I just... I love my house. And I love these two bitches."
+    ka "Mi dispiace. È solo che... Amo la mia casa. E amo queste due stronze."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:712
 translate italian sm1cs_mas003_third_delivery_677ccda6:
@@ -1346,7 +1346,7 @@ translate italian sm1cs_mas003_third_delivery_e901380f:
 translate italian sm1cs_mas003_third_delivery_0b3e8fba:
 
     # ka "Lauren, you're such a horny tart."
-    ka "Lauren, you're such a horny tart."
+    ka "Lauren, sei proprio una puttanella arrapata."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:764
 translate italian sm1cs_mas003_third_delivery_656f8bcb:

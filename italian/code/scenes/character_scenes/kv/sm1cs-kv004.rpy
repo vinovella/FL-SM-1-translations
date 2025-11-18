@@ -1184,23 +1184,23 @@ translate italian strings:
 translate italian sm1cs_kv004_9b3488c6:
 
     # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    kv "Le è piaciuto. So che è passato un po' da quando ha avuto un po' di azione, quindi ho pensato che qualcosa per stimolare la sua immaginazione sarebbe stato apprezzato."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
 translate italian sm1cs_kv004_sex_repeatable_b52d6afd:
 
     # kv "Let's get rid of these pesky things..."
-    kv "Let's get rid of these pesky things..."
+    kv "Liberiamoci di queste cose fastidiose..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
 translate italian sm1cs_kv004_sex_repeatable_0bda85cc:
 
     # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
-    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    mc "Mer- Kanya, sei stra-ordi-na-ria con la bocca, cazzo."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate italian sm1cs_kv004_sex_repeatable_925a1079:
 
     # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
-    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    mc "Mmmmnngnng, Kanya sei così stretta! La tua figa è come una morrrsa!"
 
