@@ -1,19 +1,4 @@
 
-
---- PROMPT 5 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/data/interaction_options/interaction_character_options.rpy [479 words]
-italian/code/data/interaction_options/interaction_conditions.rpy [7 words]
-italian/code/data/interaction_options/interaction_location_options.rpy [28 words]
-italian/code/data/interaction_options/interaction_object_options.rpy [37 words]
-italian/code/data/interaction_options/store_item_options.rpy [4 words]
-italian/code/data/quests/line_list_quests.rpy [49 words]
-italian/code/data/quests/quests_it.rpy [474 words]
-italian/code/data/quests/quests_movies.rpy [408 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
 --- PROMPT 6 ---
 Translate untranslated lines of dialogue and menu choices in
 
