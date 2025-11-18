@@ -884,7 +884,7 @@ translate italian sm1cs_ns014_studio_ef1914ae:
 translate italian sm1cs_ns014_studio_c502812c:
 
     # mc "Hardy har har."
-    mc "Hardy har har."
+    mc "Ah ah ah."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:544
 translate italian sm1cs_ns014_studio_53e39a6f:
@@ -1176,59 +1176,59 @@ translate italian strings:
 translate italian sm1cs_ns014_studio_56ae4acc:
 
     # mc "You're a natural, Nari."
-    mc "You're a natural, Nari."
+    mc "Sei una naturale, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:385
 translate italian sm1cs_ns014_studio_f6999e6a:
 
     # ns "Heehee, stop it. I'm shy!"
-    ns "Heehee, stop it. I'm shy!"
+    ns "Hihihi, smettila. Sono timida!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:388
 translate italian sm1cs_ns014_studio_9904ae8d:
 
     # sy "Lies! You're eating this up."
-    sy "Lies! You're eating this up."
+    sy "Bugie! Ti stai divertendo un sacco."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:459
 translate italian sm1cs_ns014_studio_0444f710:
 
     # mc "Yeah. I should've told you sooner."
-    mc "Yeah. I should've told you sooner."
+    mc "Sì. Avrei dovuto dirtelo prima."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:463
 translate italian sm1cs_ns014_studio_7d588463:
 
     # ns "That's so wild, [mcname]. So all this camera gear is for... wow."
-    ns "That's so wild, [mcname]. So all this camera gear is for... wow."
+    ns "È così pazzesco, [mcname]. Quindi tutta questa attrezzatura fotografica è per... wow."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:467
 translate italian sm1cs_ns014_studio_8664f48e:
 
     # mc "I'm sorry for keeping it from you. Can you forgive me?"
-    mc "I'm sorry for keeping it from you. Can you forgive me?"
+    mc "Mi dispiace per avertelo nascosto. Puoi perdonarmi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:578
 translate italian sm1cs_ns014_studio_f95ee359:
 
     # mc "Really? You'd want to? As in actually be filmed in scenes with me?"
-    mc "Really? You'd want to? As in actually be filmed in scenes with me?"
+    mc "Davvero? Vorresti? Tipo essere davvero filmata in scene con me?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:602
 translate italian sm1cs_ns014_studio_33145967:
 
     # mc "Of course. Whatever you're comfortable with."
-    mc "Of course. Whatever you're comfortable with."
+    mc "Certo. Qualunque cosa con cui ti senta a tuo agio."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:609
 translate italian sm1cs_ns014_studio_883c4173:
 
     # sy "I'm so excited! We're gonna have so much fun, Nari."
-    sy "I'm so excited! We're gonna have so much fun, Nari."
+    sy "Sono così entusiasta! Ci divertiremo così tanto, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:347
 translate italian sm1cs_ns014_studio_34d49c4d:
 
     # ns "No fair. You're too sneaky. Stacy..."
-    ns "No fair. You're too sneaky. Stacy..."
+    ns "Non è giusto. Sei troppo furba. Stacy..."
 
