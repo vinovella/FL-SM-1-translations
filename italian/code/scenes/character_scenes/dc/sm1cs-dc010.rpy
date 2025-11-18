@@ -1106,19 +1106,19 @@ translate italian sm1cs_dc010_later_11455b53:
 translate italian sm1cs_dc010_later_2441b466:
 
     # dc "There's something I've wanted to try..."
-    dc "There's something I've wanted to try..."
+    dc "C'è qualcosa che ho sempre voluto provare..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:498
 translate italian sm1cs_dc010_later_c8f5c86e:
 
     # mc "Oh yeah? And what's that?"
-    mc "Oh yeah? And what's that?"
+    mc "Oh sì? E cos'è?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:499
 translate italian sm1cs_dc010_later_23482864:
 
     # dc "Sit up for me."
-    dc "Sit up for me."
+    dc "Siediti per me."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:502
 translate italian sm1cs_dc010_later_1b199792:
@@ -1130,7 +1130,7 @@ translate italian sm1cs_dc010_later_1b199792:
 translate italian sm1cs_dc010_later_13bf2acd:
 
     # dc "I've always wanted to try this..."
-    dc "I've always wanted to try this..."
+    dc "Ho sempre voluto provare questo..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:510
 translate italian sm1cs_dc010_later_673a7ff8:
@@ -1142,7 +1142,7 @@ translate italian sm1cs_dc010_later_673a7ff8:
 translate italian sm1cs_dc010_later_1af81dfb:
 
     # dc "Oh, we haven't even gotten to the fun part yet."
-    dc "Oh, we haven't even gotten to the fun part yet."
+    dc "Oh, non siamo ancora arrivati alla parte divertente."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:514
 translate italian sm1cs_dc010_later_fd22cc72:
@@ -1160,13 +1160,13 @@ translate italian sm1cs_dc010_later_d218b3cc:
 translate italian sm1cs_dc010_later_a1bd6b50:
 
     # dc "How does it feel, [mcname]?"
-    dc "How does it feel, [mcname]?"
+    dc "Come ti sembra, [mcname]?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:518
 translate italian sm1cs_dc010_later_8bef365a:
 
     # mc "Oh, so, so, {i}so{/i} good!"
-    mc "Oh, so, so, {i}so{/i} good!"
+    mc "Oh, così, così, {i}così{/i} bello!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:519
 translate italian sm1cs_dc010_later_6d037f67:
@@ -1178,67 +1178,67 @@ translate italian sm1cs_dc010_later_6d037f67:
 translate italian sm1cs_dc010_later_3939526f:
 
     # dc "But tell me more."
-    dc "But tell me more."
+    dc "Ma dimmi di più."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:522
 translate italian sm1cs_dc010_later_0267a82e:
 
     # dc "Tell me what it's like to have my tits wrapped around your hard..."
-    dc "Tell me what it's like to have my tits wrapped around your hard..."
+    dc "Dimmi com'è avere le mie tette avvolte attorno al tuo duro..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:523
 translate italian sm1cs_dc010_later_08f3a9b3:
 
     # dc "Throbbing..."
-    dc "Throbbing..."
+    dc "Pulsante..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:525
 translate italian sm1cs_dc010_later_631fdf12:
 
     # dc "Cock."
-    dc "Cock."
+    dc "Cazzo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:526
 translate italian sm1cs_dc010_later_0d18333c:
 
     # mc "It feels like two clouds from heaven came down to smother my dick!"
-    mc "It feels like two clouds from heaven came down to smother my dick!"
+    mc "Sembra che due nuvole dal paradiso siano scese per soffocare il mio cazzo!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:527
 translate italian sm1cs_dc010_later_f5ddd0c6:
 
     # mc "They're so warm, and soft - nggghhh!"
-    mc "They're so warm, and soft - nggghhh!"
+    mc "Sono così calde e morbide - nggghhh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:529
 translate italian sm1cs_dc010_later_498363f5:
 
     # dc "Mmmm, I'm glad it feels good!"
-    dc "Mmmm, I'm glad it feels good!"
+    dc "Mmmm, sono contenta che ti piaccia!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:530
 translate italian sm1cs_dc010_later_80c53ef6:
 
     # dc "Because it feels {i}amazing{/i} to have your hard shaft..."
-    dc "Because it feels {i}amazing{/i} to have your hard shaft..."
+    dc "Perché è {i}fantastico{/i} sentire la tua asta dura..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:531
 translate italian sm1cs_dc010_later_34e7c4f5:
 
     # dc "Gliding between my tits."
-    dc "Gliding between my tits."
+    dc "Scivolare tra le mie tette."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:533
 translate italian sm1cs_dc010_later_82ad96ab:
 
     # dc "I can feel every twitch and pulse of your cock..."
-    dc "I can feel every twitch and pulse of your cock..."
+    dc "Posso sentire ogni sussulto e pulsazione del tuo cazzo..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:534
 translate italian sm1cs_dc010_later_0eb00538:
 
     # dc "As it glides up and down my slick tits."
-    dc "As it glides up and down my slick tits."
+    dc "Mentre scivola su e giù per le mie tette lisce."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:535
 translate italian sm1cs_dc010_later_d3b29ca1:
@@ -1250,31 +1250,31 @@ translate italian sm1cs_dc010_later_d3b29ca1:
 translate italian sm1cs_dc010_later_4926d43a:
 
     # dc "I can feel it, [mcname]."
-    dc "I can feel it, [mcname]."
+    dc "Posso sentirlo, [mcname]."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:538
 translate italian sm1cs_dc010_later_9fa664fd:
 
     # dc "I can feel how badly you want to cum."
-    dc "I can feel how badly you want to cum."
+    dc "Posso sentire quanto vuoi venire."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:540
 translate italian sm1cs_dc010_later_f5e722c4:
 
     # dc "And I want you to."
-    dc "And I want you to."
+    dc "E voglio che tu lo faccia."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:541
 translate italian sm1cs_dc010_later_a02dfb61:
 
     # dc "I want you to cover my big tits with all of your hot cum."
-    dc "I want you to cover my big tits with all of your hot cum."
+    dc "Voglio che ricopri le mie grandi tette con tutta la tua sborra calda."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:542
 translate italian sm1cs_dc010_later_ffa40e6d:
 
     # dc "I {i}need{/i} you to spray my face, cover me with your semen."
-    dc "I {i}need{/i} you to spray my face, cover me with your semen."
+    dc "{i}Ho bisogno{/i} che mi spruzzi la faccia, che mi ricopra con il tuo sperma."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:544
 translate italian sm1cs_dc010_later_1554d5c0:
@@ -1292,31 +1292,31 @@ translate italian sm1cs_dc010_later_1f73e8b7:
 translate italian sm1cs_dc010_later_32298924:
 
     # dc "Mmmmmm, it feels just like I hoped it would."
-    dc "Mmmmmm, it feels just like I hoped it would."
+    dc "Mmmmmm, è proprio come speravo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:558
 translate italian sm1cs_dc010_later_8b84cf49:
 
     # dc "It feels so wonderful..."
-    dc "It feels so wonderful..."
+    dc "È così meraviglioso..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:561
 translate italian sm1cs_dc010_later_b43925ce:
 
     # mc "Gotta say, this is quite a look for you, Officer Callahan."
-    mc "Gotta say, this is quite a look for you, Officer Callahan."
+    mc "Devo dire, questo è un look perfetto per te, Agente Callahan."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:563
 translate italian sm1cs_dc010_later_6c0f32a6:
 
     # dc "Oh is it?"
-    dc "Oh is it?"
+    dc "Oh davvero?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:564
 translate italian sm1cs_dc010_later_3ac5f7cf:
 
     # mc "Uh huh. I think this should be your new makeup look!"
-    mc "Uh huh. I think this should be your new makeup look!"
+    mc "Uh huh. Penso che questo dovrebbe essere il tuo nuovo look da trucco!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:566
 translate italian sm1cs_dc010_later_a5d19ba3:
@@ -1328,13 +1328,13 @@ translate italian sm1cs_dc010_later_a5d19ba3:
 translate italian sm1cs_dc010_later_b4d65a41:
 
     # dc "Is that so? I have heard that it's great for your skin."
-    dc "Is that so? I have heard that it's great for your skin."
+    dc "È così? Ho sentito dire che è ottimo per la pelle."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:575
 translate italian sm1cs_dc010_later_bc85ad89:
 
     # dc "And it's yummy to boot!"
-    dc "And it's yummy to boot!"
+    dc "E delizioso per di più!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:577
 translate italian sm1cs_dc010_later_eb096946:
@@ -1352,19 +1352,19 @@ translate italian sm1cs_dc010_later_71232df6:
 translate italian sm1cs_dc010_later_ee76e81e:
 
     # mc "I didn't know you were a freak!"
-    mc "I didn't know you were a freak!"
+    mc "Non sapevo fossi così perversa!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:581
 translate italian sm1cs_dc010_later_96467beb:
 
     # dc "Hehehehehe!{w} I like what I like."
-    dc "Hehehehehe!{w} I like what I like."
+    dc "Hehehehehe!{w} Mi piace quello che mi piace."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:582
 translate italian sm1cs_dc010_later_01c0d524:
 
     # mct "Looks like Debbie is getting hard."
-    mct "Looks like Debbie is getting hard."
+    mct "Sembra che Debbie stia diventando dura."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:585
 translate italian sm1cs_dc010_later_b55f9143:

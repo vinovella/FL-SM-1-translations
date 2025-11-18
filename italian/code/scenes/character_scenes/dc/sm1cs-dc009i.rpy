@@ -2,7 +2,7 @@
 translate italian sm1cs_dc009i_0ea76d38:
 
     # dc "[mcname]! Hi!"
-    dc "[mcname]! Hi!"
+    dc "[mcname]! Ciao!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009i.rpy:9
 translate italian sm1cs_dc009i_5e7b67af:
