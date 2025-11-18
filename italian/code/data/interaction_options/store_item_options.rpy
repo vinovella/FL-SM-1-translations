@@ -2,11 +2,11 @@
 
     # game/code/data/interaction_options/store_item_options.rpy:3
     old "Photography-101"
-    new "Photography-101"
+    new "Fotografia-101"
 
     # game/code/data/interaction_options/store_item_options.rpy:3
     old "An Actor Prepares"
-    new "An Actor Prepares"
+    new "Un attore si prepara"
 
     # game/code/data/interaction_options/store_item_options.rpy:3
     old "Stars Weekly"
