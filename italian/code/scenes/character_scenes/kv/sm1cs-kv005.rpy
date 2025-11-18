@@ -1,4 +1,4 @@
-﻿# game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:11
+# game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:11
 translate italian sm1cs_kv005i_0bcf2115:
 
     # kv "Hey, [mcname]! Ready to keep practicing?"
@@ -530,7 +530,7 @@ translate italian sm1cs_kv005_part_2_a1f184e9_1:
 translate italian sm1cs_kv005_part_2_563c4bbe:
 
     # kv "Next thing you know, every model coming through the door wanted to do a BDSM shoot."
-    kv "Next thing you know, every model coming through the door wanted to do a BDSM shoot."
+    kv "La prossima cosa che sai, ogni modella che entrava dalla porta voleva fare un servizio BDSM."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:294
 translate italian sm1cs_kv005_part_2_d5061500:
@@ -548,7 +548,7 @@ translate italian sm1cs_kv005_part_2_a1f184e9_2:
 translate italian sm1cs_kv005_part_2_a6770eb6:
 
     # kv "And next thing you know, I've got enough to rent a real studio."
-    kv "And next thing you know, I've got enough to rent a real studio."
+    kv "E la prossima cosa che sai, ho abbastanza per affittare uno studio vero."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:300
 translate italian sm1cs_kv005_part_2_95a01890:
@@ -560,7 +560,7 @@ translate italian sm1cs_kv005_part_2_95a01890:
 translate italian sm1cs_kv005_part_2_91ca4230:
 
     # mc "Where'd you shoot before you rented the studio here?"
-    mc "Where'd you shoot before you rented the studio here?"
+    mc "Dove scattavi prima di affittare lo studio qui?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:307
 translate italian sm1cs_kv005_part_2_997ec5a5:
@@ -578,19 +578,19 @@ translate italian sm1cs_kv005_part_2_a1f184e9_3:
 translate italian sm1cs_kv005_part_2_353fd1bb:
 
     # mc "God, I can't even imagine the look on that cop's face."
-    mc "God, I can't even imagine the look on that cop's face."
+    mc "Dio, non riesco nemmeno a immaginare l'espressione su quel poliziotto."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:314
 translate italian sm1cs_kv005_part_2_e1666cc1:
 
     # kv "Oh, it was {i}priceless{/i}."
-    kv "Oh, it was {i}priceless{/i}."
+    kv "Oh, era {i}impagabile{/i}."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:316
 translate italian sm1cs_kv005_part_2_c08e3873:
 
     # kv "You ever heard of Robert Capa?"
-    kv "You ever heard of Robert Capa?"
+    kv "Hai mai sentito parlare di Robert Capa?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:320
 translate italian sm1cs_kv005_part_2_178abc2b:
@@ -602,13 +602,13 @@ translate italian sm1cs_kv005_part_2_178abc2b:
 translate italian sm1cs_kv005_part_2_c5f15cbd:
 
     # kv "'If your pictures aren't good enough, you're not close enough.'"
-    kv "'If your pictures aren't good enough, you're not close enough.'"
+    kv "'Se le tue foto non sono abbastanza buone, non sei abbastanza vicino.'"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:326
 translate italian sm1cs_kv005_part_2_bc645b49:
 
     # mc "Oh, that's a pretty good tip."
-    mc "Oh, that's a pretty good tip."
+    mc "Oh, è un ottimo consiglio."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:328
 translate italian sm1cs_kv005_part_2_76df5a0d:
@@ -620,25 +620,25 @@ translate italian sm1cs_kv005_part_2_76df5a0d:
 translate italian sm1cs_kv005_part_2_5a518c71:
 
     # mc "What the hell is a cowboy?"
-    mc "What the hell is a cowboy?"
+    mc "Che diavolo è un cowboy?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:334
 translate italian sm1cs_kv005_part_2_8a662639:
 
     # kv "Shot from the knees up."
-    kv "Shot from the knees up."
+    kv "Inquadratura dalle ginocchia in su."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:337
 translate italian sm1cs_kv005_part_2_3196b074:
 
     # mc "Huh...{w} Okay, time to mix it up a bit then."
-    mc "Huh...{w} Okay, time to mix it up a bit then."
+    mc "Huh...{w} Okay, è ora di variare un po' allora."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:343
 translate italian sm1cs_kv005_part_2_7ec5af54:
 
     # kv "See? A little bit of variety is a good thing."
-    kv "See? A little bit of variety is a good thing."
+    kv "Vedi? Un po' di varietà è una buona cosa."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:345
 translate italian sm1cs_kv005_part_2_a1f184e9_4:
@@ -650,25 +650,25 @@ translate italian sm1cs_kv005_part_2_a1f184e9_4:
 translate italian sm1cs_kv005_part_2_567975f7:
 
     # mc "You're not wrong..."
-    mc "You're not wrong..."
+    mc "Non hai torto..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:351
 translate italian sm1cs_kv005_part_2_2e6c83f9:
 
     # mct "God... Kanya has some great tits..."
-    mct "God... Kanya has some great tits..."
+    mct "Dio... Kanya ha delle belle tette..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:354
 translate italian sm1cs_kv005_part_2_4a88997d:
 
     # kv "You just going to stare at them? Or are you going to take a picture?"
-    kv "You just going to stare at them? Or are you going to take a picture?"
+    kv "Le stai solo fissando? O farai una foto?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:358
 translate italian sm1cs_kv005_part_2_865084a0:
 
     # mc "Oh, I, uh..."
-    mc "Oh, I, uh..."
+    mc "Oh, io, uh..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:361
 translate italian sm1cs_kv005_part_2_61342504:
@@ -680,7 +680,7 @@ translate italian sm1cs_kv005_part_2_61342504:
 translate italian sm1cs_kv005_part_2_47066fb7:
 
     # mc "Yeah, didn't even think of that."
-    mc "Yeah, didn't even think of that."
+    mc "Sì, non ci avevo nemmeno pensato."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:365
 translate italian sm1cs_kv005_part_2_a1f184e9_5:
@@ -710,25 +710,25 @@ translate italian sm1cs_kv005_part_2_a1f184e9_6:
 translate italian sm1cs_kv005_part_2_c3afc8fe:
 
     # mc "Are you kidding me, Kanya? Your tits are already great!"
-    mc "Are you kidding me, Kanya? Your tits are already great!"
+    mc "Stai scherzando, Kanya? Le tue tette sono già fantastiche!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:376
 translate italian sm1cs_kv005_part_2_9741c7b9:
 
     # kv "Good! That's exactly what a model wants to hear."
-    kv "Good! That's exactly what a model wants to hear."
+    kv "Bene! È esattamente quello che una modella vuole sentire."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:380
 translate italian sm1cs_kv005_part_2_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Eh?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:383
 translate italian sm1cs_kv005_part_2_c9a5e229:
 
     # kv "Every model has some insecurity. Some flaw, something they'd want to change."
-    kv "Every model has some insecurity. Some flaw, something they'd want to change."
+    kv "Ogni modella ha qualche insicurezza. Qualche difetto, qualcosa che vorrebbe cambiare."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:384
 translate italian sm1cs_kv005_part_2_442a38fa:
@@ -1172,25 +1172,25 @@ translate italian sm1cs_kv005_part_3_921c5425:
 translate italian sm1cs_kv005_part_3_6985e441:
 
     # mc "See ya' soon, Kanya!"
-    mc "See ya' soon, Kanya!"
+    mc "Ci vediamo presto, Kanya!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:624
 translate italian sm1cs_kv005_continue_f7cb1da8:
 
     # mc "I am! Did some reading and I'm good to go."
-    mc "I am! Did some reading and I'm good to go."
+    mc "Lo sono! Ho fatto un po' di lettura e sono pronto."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:627
 translate italian sm1cs_kv005_continue_c2049419:
 
     # kv "Great! Why don't you grab the camera and I'll go change!"
-    kv "Great! Why don't you grab the camera and I'll go change!"
+    kv "Fantastico! Perché non prendi la fotocamera e io vado a cambiarmi!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:647
 translate italian sm1cs_kv005_come_back_later_2902d80b:
 
     # kv "Still nothing?"
-    kv "Still nothing?"
+    kv "Ancora niente?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:650
 translate italian sm1cs_kv005_come_back_later_e18f9ec3:
@@ -1208,53 +1208,53 @@ translate italian sm1cs_kv005_come_back_later_2e48059a:
 translate italian sm1cs_kv005_come_back_later_3656a527:
 
     # mc "You sure?"
-    mc "You sure?"
+    mc "Sei sicuro?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:656
 translate italian sm1cs_kv005_come_back_later_fee76e19:
 
     # kv "Yeah. We have plenty of time."
-    kv "Yeah. We have plenty of time."
+    kv "Sì. Abbiamo un sacco di tempo."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:660
 translate italian sm1cs_kv005_come_back_later_c49b1fb9:
 
     # mc "All right."
-    mc "All right."
+    mc "Va bene."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:664
 translate italian sm1cs_kv005_come_back_later_270ca6ef:
 
     # kv "So far things are looking great though!"
-    kv "So far things are looking great though!"
+    kv "Finora le cose stanno andando alla grande comunque!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:667
 translate italian sm1cs_kv005_come_back_later_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "Davvero?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:670
 translate italian sm1cs_kv005_come_back_later_e8008f49:
 
     # kv "Really really."
-    kv "Really really."
+    kv "Davvero davvero."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:673
 translate italian sm1cs_kv005_come_back_later_82cfef52:
 
     # mc "Awesome."
-    mc "Awesome."
+    mc "Fantastico."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:674
 translate italian sm1cs_kv005_come_back_later_956dddb8:
 
     # mc "Don't worry, I'll be back!"
-    mc "Don't worry, I'll be back!"
+    mc "Non preoccuparti, tornerò!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:677
 translate italian sm1cs_kv005_come_back_later_74105290:
 
     # kv "I'm looking forward to it, [mcname]."
-    kv "I'm looking forward to it, [mcname]."
+    kv "Non vedo l'ora, [mcname]."
 

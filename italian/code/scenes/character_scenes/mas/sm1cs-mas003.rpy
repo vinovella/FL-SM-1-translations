@@ -1,4 +1,4 @@
-﻿# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:13
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:13
 translate italian sm1cs_mas003_4256d734:
 
     # mc "Hey Maya."
@@ -170,7 +170,7 @@ translate italian sm1cs_mas003_5d8761ba:
 translate italian sm1cs_mas003_4a76cbe5:
 
     # ms "Yoink."
-    ms "Yoink."
+    ms "Zac."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:105
 translate italian sm1cs_mas003_669664cb:
@@ -974,7 +974,7 @@ translate italian sm1cs_mas003_third_delivery_df3a306b:
 translate italian sm1cs_mas003_third_delivery_5693a819:
 
     # mc "Huh..."
-    mc "Huh..."
+    mc "Eh..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:573
 translate italian sm1cs_mas003_third_delivery_e6026cd5:
@@ -1016,49 +1016,49 @@ translate italian sm1cs_mas003_third_delivery_0c61983f:
 translate italian sm1cs_mas003_third_delivery_ee2267ca:
 
     # ka "Yay. Food is here!"
-    ka "Yay. Food is here!"
+    ka "Evviva. Il cibo è arrivato!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:618
 translate italian sm1cs_mas003_third_delivery_2d384679:
 
     # lg "And it's coming in style. *growls*"
-    lg "And it's coming in style. *growls*"
+    lg "E arriva con stile. *ringhia*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:620
 translate italian sm1cs_mas003_third_delivery_925bec25:
 
     # ols "Oh my god, Lauren. Keep it in your pants."
-    ols "Oh my god, Lauren. Keep it in your pants."
+    ols "Oh mio dio, Lauren. Tienilo nei pantaloni."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:624
 translate italian sm1cs_mas003_third_delivery_b448c6e1:
 
     # lg "What? It would be rude not to let the Johnny know he's handsome."
-    lg "What? It would be rude not to let the Johnny know he's handsome."
+    lg "Cosa? Sarebbe scortese non far sapere al Johnny che è bello."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:626
 translate italian sm1cs_mas003_third_delivery_db797870:
 
     # ka "Oh my god, she's so drunk."
-    ka "Oh my god, she's so drunk."
+    ka "Oh mio dio, è così ubriaca."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:629
 translate italian sm1cs_mas003_third_delivery_28bdd7d3:
 
     # lg "She is, usually, she'd be the one saying something lewd."
-    lg "She is, usually, she'd be the one saying something lewd."
+    lg "Lo è, di solito, sarebbe lei a dire qualcosa di osceno."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:630
 translate italian sm1cs_mas003_third_delivery_b95471f8:
 
     # lg "Oh my. It was me ethic's time."
-    lg "Oh my. It was me ethic's time."
+    lg "Oh mio. Era il momento della mia etica."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:633
 translate italian sm1cs_mas003_third_delivery_d6cbe556:
 
     # ols "Drunk Lauren is the best."
-    ols "Drunk Lauren is the best."
+    ols "Lauren ubriaca è la migliore."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:636
 translate italian sm1cs_mas003_third_delivery_d1a2fc1b:
@@ -1070,13 +1070,13 @@ translate italian sm1cs_mas003_third_delivery_d1a2fc1b:
 translate italian sm1cs_mas003_third_delivery_e483301b:
 
     # ka "Oh hey. Sorry didn't see you there."
-    ka "Oh hey. Sorry didn't see you there."
+    ka "Oh ehi. Scusa non ti avevo visto lì."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:641
 translate italian sm1cs_mas003_third_delivery_c2287ff3:
 
     # ka "Which is a mistake.{w} You're kind of cute."
-    ka "Which is a mistake.{w} You're kind of cute."
+    ka "Il che è un errore.{w} Sei piuttosto carino."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:644
 translate italian sm1cs_mas003_third_delivery_5ae806d1:
@@ -1088,7 +1088,7 @@ translate italian sm1cs_mas003_third_delivery_5ae806d1:
 translate italian sm1cs_mas003_third_delivery_1f56924c:
 
     # lg "I say. Keen eyes, Kennedy."
-    lg "I say. Keen eyes, Kennedy."
+    lg "Dico io. Occhi acuti, Kennedy."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:649
 translate italian sm1cs_mas003_third_delivery_1d945691:
@@ -1112,7 +1112,7 @@ translate italian sm1cs_mas003_third_delivery_d3279198:
 translate italian sm1cs_mas003_third_delivery_47803213:
 
     # ka "But you've been wanting to."
-    ka "But you've been wanting to."
+    ka "Ma hai voluto farlo."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:659
 translate italian sm1cs_mas003_third_delivery_01835f28:
@@ -1124,13 +1124,13 @@ translate italian sm1cs_mas003_third_delivery_01835f28:
 translate italian sm1cs_mas003_third_delivery_d919414d:
 
     # ols "She is totally glad they are. Oh my god."
-    ols "She is totally glad they are. Oh my god."
+    ols "È totalmente contenta che lo siano. Oh mio dio."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:664
 translate italian sm1cs_mas003_third_delivery_8968713b:
 
     # lg "Can we order food? I'm really hungry."
-    lg "Can we order food? I'm really hungry."
+    lg "Possiamo ordinare cibo? Ho davvero fame."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:667
 translate italian sm1cs_mas003_third_delivery_05d96d56:
@@ -1142,25 +1142,25 @@ translate italian sm1cs_mas003_third_delivery_05d96d56:
 translate italian sm1cs_mas003_third_delivery_749aa996:
 
     # lg "Smashing good time."
-    lg "Smashing good time."
+    lg "Tempo fantastico."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:674
 translate italian sm1cs_mas003_third_delivery_2702b4fc:
 
     # lg "You know... if this was a porno, I'd be smashing him already."
-    lg "You know... if this was a porno, I'd be smashing him already."
+    lg "Sai... se fosse un porno, lo starei già schiaccando."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:676
 translate italian sm1cs_mas003_third_delivery_e220f17d:
 
     # ols "She keeps outdoing herself."
-    ols "She keeps outdoing herself."
+    ols "Continua a superare se stessa."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:679
 translate italian sm1cs_mas003_third_delivery_4f9eeb06:
 
     # lg "Oh dear. Who?"
-    lg "Oh dear. Who?"
+    lg "Oh cielo. Chi?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:682
 translate italian sm1cs_mas003_third_delivery_9e635b54:
@@ -1172,7 +1172,7 @@ translate italian sm1cs_mas003_third_delivery_9e635b54:
 translate italian sm1cs_mas003_third_delivery_3cc23eab:
 
     # lg "Splendid."
-    lg "Splendid."
+    lg "Splendido."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:686
 translate italian sm1cs_mas003_third_delivery_42c30215:
@@ -1184,7 +1184,7 @@ translate italian sm1cs_mas003_third_delivery_42c30215:
 translate italian sm1cs_mas003_third_delivery_e1f4e33f:
 
     # ka "Or got exposed to real men."
-    ka "Or got exposed to real men."
+    ka "O si sia mai esposta a veri uomini."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:691
 translate italian sm1cs_mas003_third_delivery_646a2746:
@@ -1196,7 +1196,7 @@ translate italian sm1cs_mas003_third_delivery_646a2746:
 translate italian sm1cs_mas003_third_delivery_f3e7eb51:
 
     # ols "We need more help. This is the first party for the Pi Phi house."
-    ols "We need more help. This is the first party for the Pi Phi house."
+    ols "Abbiamo bisogno di più aiuto. Questa è la prima festa per la casa Pi Phi."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:696
 translate italian sm1cs_mas003_third_delivery_07eced0d:
@@ -1208,25 +1208,25 @@ translate italian sm1cs_mas003_third_delivery_07eced0d:
 translate italian sm1cs_mas003_third_delivery_28709c77:
 
     # ka "No, the Pi Phi house. For Pi Beta Phi. Get it right."
-    ka "No, the Pi Phi house. For Pi Beta Phi. Get it right."
+    ka "No, la casa Pi Phi. Per Pi Beta Phi. Fallo bene."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:701
 translate italian sm1cs_mas003_third_delivery_9d9edc58:
 
     # lg "Wow. Steady on."
-    lg "Wow. Steady on."
+    lg "Wow. Calmati."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:705
 translate italian sm1cs_mas003_third_delivery_e02f26a6:
 
     # ols "Yeah, easy tiger."
-    ols "Yeah, easy tiger."
+    ols "Sì, calma tigre."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:707
 translate italian sm1cs_mas003_third_delivery_ee26e2b5:
 
     # ka "I'm sorry. I just... I love my house. And I love these two bitches."
-    ka "I'm sorry. I just... I love my house. And I love these two bitches."
+    ka "Mi dispiace. Solo... Amo la mia casa. E amo queste due stronze."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:712
 translate italian sm1cs_mas003_third_delivery_677ccda6:
@@ -1238,25 +1238,25 @@ translate italian sm1cs_mas003_third_delivery_677ccda6:
 translate italian sm1cs_mas003_third_delivery_0c885f25:
 
     # ols "*sniff* Don't you start crying because then I'll start crying."
-    ols "*sniff* Don't you start crying because then I'll start crying."
+    ols "*sniff* Non iniziare a piangere perché poi inizierò anche io."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:718
 translate italian sm1cs_mas003_third_delivery_726a8e83:
 
     # ka "He's kind of cute."
-    ka "He's kind of cute."
+    ka "È piuttosto carino."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:720
 translate italian sm1cs_mas003_third_delivery_7781af7d:
 
     # lg "Oh yes. The sausage delivery boy is a sausage man."
-    lg "Oh yes. The sausage delivery boy is a sausage man."
+    lg "Oh sì. Il ragazzo delle consegne di salsicce è un uomo salsiccia."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:723
 translate italian sm1cs_mas003_third_delivery_74d63b1a:
 
     # lg "Show us your sausage, sailor."
-    lg "Show us your sausage, sailor."
+    lg "Mostraci la tua salsiccia, marinaio."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:725
 translate italian sm1cs_mas003_third_delivery_28acfa00:
@@ -1268,7 +1268,7 @@ translate italian sm1cs_mas003_third_delivery_28acfa00:
 translate italian sm1cs_mas003_third_delivery_715889b4:
 
     # ka "Yeah. I want to see both. Then I'll make my final decision."
-    ka "Yeah. I want to see both. Then I'll make my final decision."
+    ka "Sì. Voglio vederle entrambe. Poi prenderò la mia decisione finale."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:730
 translate italian sm1cs_mas003_third_delivery_61ee64c4:
@@ -1280,19 +1280,19 @@ translate italian sm1cs_mas003_third_delivery_61ee64c4:
 translate italian sm1cs_mas003_third_delivery_639dd943:
 
     # lg "Droll. No fun."
-    lg "Droll. No fun."
+    lg "Noioso. Nessun divertimento."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:735
 translate italian sm1cs_mas003_third_delivery_476f814f:
 
     # lg "You are no fun."
-    lg "You are no fun."
+    lg "Non sei divertente."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:738
 translate italian sm1cs_mas003_third_delivery_8cfa47db:
 
     # ols "What about you?"
-    ols "What about you?"
+    ols "E tu?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:740
 translate italian sm1cs_mas003_third_delivery_2ed7f871:
@@ -1304,13 +1304,13 @@ translate italian sm1cs_mas003_third_delivery_2ed7f871:
 translate italian sm1cs_mas003_third_delivery_27e927a4:
 
     # lg "Yeah. Flash us your kibble and biscuits."
-    lg "Yeah. Flash us your kibble and biscuits."
+    lg "Sì. Mostraci le tue crocchette e biscotti."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:746
 translate italian sm1cs_mas003_third_delivery_f5f51f4c:
 
     # ka "Oh yeah. Do it."
-    ka "Oh yeah. Do it."
+    ka "Oh sì. Fallo."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:749
 translate italian sm1cs_mas003_third_delivery_a1fd3080:
@@ -1322,37 +1322,37 @@ translate italian sm1cs_mas003_third_delivery_a1fd3080:
 translate italian sm1cs_mas003_third_delivery_67876db3:
 
     # lg "Wait, wait."
-    lg "Wait, wait."
+    lg "Aspetta, aspetta."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:755
 translate italian sm1cs_mas003_third_delivery_252272b7:
 
     # lg "Here. One, two, three hundred dollars."
-    lg "Here. One, two, three hundred dollars."
+    lg "Ecco. Uno, due, trecento dollari."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
 translate italian sm1cs_mas003_third_delivery_ffef8177:
 
     # lg "I've already seen Olivia and Kennedy's girls."
-    lg "I've already seen Olivia and Kennedy's girls."
+    lg "Ho già visto le ragazze di Olivia e Kennedy."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:759
 translate italian sm1cs_mas003_third_delivery_e901380f:
 
     # ols "No you haven't."
-    ols "No you haven't."
+    ols "No, non le hai viste."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:761
 translate italian sm1cs_mas003_third_delivery_0b3e8fba:
 
     # ka "Lauren, you're such a horny tart."
-    ka "Lauren, you're such a horny tart."
+    ka "Lauren, sei una tale maiala eccitata."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:764
 translate italian sm1cs_mas003_third_delivery_656f8bcb:
 
     # lg "Come on, it's a party. I must have my unchained entertainment."
-    lg "Come on, it's a party. I must have my unchained entertainment."
+    lg "Dai, è una festa. Devo avere il mio intrattenimento sfrenato."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
 translate italian sm1cs_mas003_third_delivery_b9f7c36f:
@@ -1382,19 +1382,19 @@ translate italian sm1cs_mas003_third_delivery_d5a69b2c:
 translate italian sm1cs_mas003_third_delivery_ee48ba5d:
 
     # ka "Lauren, you did not."
-    ka "Lauren, you did not."
+    ka "Lauren, non l'hai fatto."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:778
 translate italian sm1cs_mas003_third_delivery_932553e1:
 
     # ols "She's off her bobby."
-    ols "She's off her bobby."
+    ols "È fuori di testa."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:781
 translate italian sm1cs_mas003_third_delivery_d2c11984:
 
     # lg "Hush. And that's not at all how you say that."
-    lg "Hush. And that's not at all how you say that."
+    lg "Silenzio. E non è affatto così che si dice."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
 translate italian sm1cs_mas003_third_delivery_ac1ccd30:
@@ -1406,19 +1406,19 @@ translate italian sm1cs_mas003_third_delivery_ac1ccd30:
 translate italian sm1cs_mas003_third_delivery_c7253fdd:
 
     # lg "Exquisite."
-    lg "Exquisite."
+    lg "Squisito."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:797
 translate italian sm1cs_mas003_third_delivery_4f5fd961:
 
     # ka "Not bad."
-    ka "Not bad."
+    ka "Non male."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:799
 translate italian sm1cs_mas003_third_delivery_c5639972:
 
     # ols "Damn girl. You belong on a magazine or something."
-    ols "Damn girl. You belong on a magazine or something."
+    ols "Dannazione ragazza. Meriti di stare su una rivista o qualcosa del genere."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
 translate italian sm1cs_mas003_third_delivery_9ed10f06:
@@ -1436,13 +1436,13 @@ translate italian sm1cs_mas003_third_delivery_0f81d339:
 translate italian sm1cs_mas003_third_delivery_92ea7136:
 
     # lg "Again again."
-    lg "Again again."
+    lg "Ancora ancora."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:816
 translate italian sm1cs_mas003_third_delivery_7ed3ef6e:
 
     # lg "Cracking. The food is here."
-    lg "Cracking. The food is here."
+    lg "Fantastico. Il cibo è arrivato."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:837
 translate italian sm1cs_mas003_after_delivery_674ff5b6:
@@ -1716,5 +1716,5 @@ translate italian strings:
 translate italian sm1cs_mas003_third_delivery_fedc52e9:
 
     # ka "*sniff* They're the best."
-    ka "*sniff* They're the best."
+    ka "*sniff* Sono le migliori."
 
