@@ -1,86 +1,86 @@
 ﻿# game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:16
 translate italian q_inter_mj_1_e906923a:
 
-    # mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
-    mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
+    # mj "[mcname], stai partecipando a questa scommessa su chi avrà meno errori, Anna o April?"
+    mj "[mcname], stai partecipando a questa scommessa su chi avrà meno errori, Anna o April?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:18
 translate italian q_inter_mj_1_e5d5f892:
 
-    # mc "I didn't even realize there was a contest between them."
-    mc "I didn't even realize there was a contest between them."
+    # mc "Non sapevo nemmeno che ci fosse una gara tra loro."
+    mc "Non sapevo nemmeno che ci fosse una gara tra loro."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:19
 translate italian q_inter_mj_1_d803cbf5:
 
-    # mj "My money is on April."
-    mj "My money is on April."
+    # mj "I miei soldi sono su April."
+    mj "I miei soldi sono su April."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:25
 translate italian q_inter_mj_2_01534311:
 
-    # mc "Morning, Megan."
-    mc "Morning, Megan."
+    # mc "Buongiorno, Megan."
+    mc "Buongiorno, Megan."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:27
 translate italian q_inter_mj_2_1631fabe:
 
-    # mj "Mmmm, coffee."
-    mj "Mmmm, coffee."
+    # mj "Mmmm, caffè."
+    mj "Mmmm, caffè."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:29
 translate italian q_inter_mj_2_05500ff6:
 
-    # mc "Huh?"
-    mc "Huh?"
+    # mc "Eh?"
+    mc "Eh?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:30
 translate italian q_inter_mj_2_5fe3394b:
 
-    # mj "Claire gets {i}the best{/i} coffee for the office."
-    mj "Claire gets {i}the best{/i} coffee for the office."
+    # mj "Claire prende {i}il migliore{/i} caffè per l'ufficio."
+    mj "Claire prende {i}il migliore{/i} caffè per l'ufficio."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:31
 translate italian q_inter_mj_2_578c7f2a:
 
-    # mc "I'll have to grab a cup then."
-    mc "I'll have to grab a cup then."
+    # mc "Dovrò prenderne una tazza allora."
+    mc "Dovrò prenderne una tazza allora."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:37
 translate italian q_inter_mj_3_a3eff697:
 
-    # mj "Hey, [mcname], make sure you get me your test reports soon."
-    mj "Hey, [mcname], make sure you get me your test reports soon."
+    # mj "Ehi, [mcname], assicurati di darmi i tuoi report di test presto."
+    mj "Ehi, [mcname], assicurati di darmi i tuoi report di test presto."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:39
 translate italian q_inter_mj_3_8a7ee1e8:
 
-    # mc "I will-"
-    mc "I will-"
+    # mc "Lo farò-"
+    mc "Lo farò-"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:40
 translate italian q_inter_mj_3_eadd033a:
 
-    # mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
-    mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
+    # mj "In realtà, ne parlerò con Anna! Vediamo se riesce a far consegnare anche April i suoi."
+    mj "In realtà, ne parlerò con Anna! Vediamo se riesce a far consegnare anche April i suoi."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:46
 translate italian q_inter_mj_4_819cf8a1:
 
-    # mj "Hey, [mcname], I've got a question for you."
-    mj "Hey, [mcname], I've got a question for you."
+    # mj "Ehi, [mcname], ho una domanda per te."
+    mj "Ehi, [mcname], ho una domanda per te."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:48
 translate italian q_inter_mj_4_d66c229f:
 
-    # mc "Yeah? What's up?"
-    mc "Yeah? What's up?"
+    # mc "Sì? Che c'è?"
+    mc "Sì? Che c'è?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:52
 translate italian q_inter_mj_4_4d660f7c:
 
-    # mj "Do you know April and Anna are always at each other's throats?"
-    mj "Do you know April and Anna are always at each other's throats?"
+    # mj "Sai perché April e Anna sono sempre ai ferri corti?"
+    mj "Sai perché April e Anna sono sempre ai ferri corti?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:54
 translate italian q_inter_mj_4_c058dab2:
@@ -91,6 +91,6 @@ translate italian q_inter_mj_4_c058dab2:
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:55
 translate italian q_inter_mj_4_fe961654:
 
-    # mj "Drats. I was hoping you would..."
-    mj "Drats. I was hoping you would..."
+    # mj "Accidenti. Speravo che tu..."
+    mj "Accidenti. Speravo che tu..."
 
