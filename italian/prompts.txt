@@ -1,17 +1,4 @@
 
-
---- PROMPT 10 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy [175 words]
-italian/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy [239 words]
-italian/code/data/quick_interactions/Starducks/q-inter-cs.rpy [152 words]
-italian/code/data/quick_interactions/Theater/q-inter-dvh.rpy [98 words]
-italian/code/data/quick_interactions/Theater/q-inter-km.rpy [263 words]
-italian/code/data/quick_interactions/Theater/q-inter-tl.rpy [753 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
 --- PROMPT 11 ---
 Translate untranslated lines of dialogue and menu choices in
 
