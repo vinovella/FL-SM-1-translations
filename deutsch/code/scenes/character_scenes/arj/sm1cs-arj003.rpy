@@ -2,13 +2,13 @@
 translate deutsch sm1cs_arj003_d0137b2a:
 
     # mc "So, how's the coursework treating you?"
-    mc "Wie läuft es mit den Kursarbeiten?"
+    mc "Und, wie läuft es mit dem Studium?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:11
 translate deutsch sm1cs_arj003_185a2416:
 
     # arj "Like a needy ex. Constant demands, never satisfied, and somehow it's always my fault when things go wrong."
-    arj "Wie ein bedürftiger Ex. Ständige Forderungen, nie zufrieden, und irgendwie ist es immer meine Schuld, wenn etwas schief geht."
+    arj "Wie mit einem bedürftigen Ex. Ständige Forderungen, nie befriedigt, und irgendwie bin ich immer schuld, wenn etwas schiefgeht."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:14
 translate deutsch sm1cs_arj003_39cb0b7c:
