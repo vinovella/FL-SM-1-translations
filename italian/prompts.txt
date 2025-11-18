@@ -1,15 +1,4 @@
 
---- PROMPT 11 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/data/quick_interactions/Theater/q-inter-vs.rpy [434 words]
-italian/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy [197 words]
-italian/code/data/quick_interactions/Theater/background_chars/q-inter-kw.rpy [297 words]
-italian/code/data/quick_interactions/Theater/background_chars/q-inter-sb.rpy [53 words]
-italian/code/data/quick_interactions/Theater/background_chars/q-inter-sj.rpy [392 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
 --- PROMPT 12 ---
 Translate untranslated lines of dialogue and menu choices in
 
