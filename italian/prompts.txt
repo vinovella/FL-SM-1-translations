@@ -1,11 +1,3 @@
---- PROMPT 19 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/scenes/character_scenes/mes/sm1cs-mes003.rpy [767 words]
-italian/code/scenes/character_scenes/mes/sm1cs-mes004.rpy [2 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
 --- PROMPT 20 ---
 Translate untranslated lines of dialogue and menu choices in
 
