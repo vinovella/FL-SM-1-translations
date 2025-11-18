@@ -38,23 +38,23 @@
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Dickhart"
-    new "迪克哈特"
+    new "硬汉迪克"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Tempestra"
-    new "坦佩斯特拉"
+    new "风暴海姬"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Searose"
-    new "海玫瑰"
+    new "海萝"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Captain Ramses Hornstar"
-    new "拉美西斯·霍恩斯塔舰长"
+    new "拉姆斯·霍斯塔舰长"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Lt. Luffie Orion"
-    new "拉菲·奥莱恩中尉"
+    new "卢菲・奥里昂中尉"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Lieutenant Kira Solo"
@@ -62,11 +62,11 @@
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Doctor Jalerra"
-    new "贾莱拉医生"
+    new "杰莱拉医生"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Spectre"
-    new "幽灵"
+    new "斯佩克"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Captain Kimora"
