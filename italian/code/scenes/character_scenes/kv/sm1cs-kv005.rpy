@@ -914,7 +914,7 @@ translate italian sm1cs_kv005_part_3_ec4ac012:
 translate italian sm1cs_kv005_part_3_269120ed:
 
     # kv "Wait! I just had an idea, I want you to stand up straight, and look down at me with the camera."
-    kv "Wait! I just had an idea, I want you to stand up straight, and look down at me with the camera."
+    kv "Aspetta! Mi è appena venuta un'idea, voglio che tu stia dritto e guardi verso di me con la fotocamera."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:498
 translate italian sm1cs_kv005_part_3_651334e0:
@@ -992,7 +992,7 @@ translate italian sm1cs_kv005_part_3_a1f184e9_4:
 translate italian sm1cs_kv005_part_3_0ff9feb9:
 
     # kv "Your dick, disappearing down my throat. My wet tongue gliding under your shaft as you thrust your cock in and out of my mouth..."
-    kv "Your dick, disappearing down my throat. My wet tongue gliding under your shaft as you thrust your cock in and out of my mouth..."
+    kv "Il tuo cazzo, che scompare nella mia gola. La mia lingua bagnata che scivola sotto la tua asta mentre spingi il tuo cazzo dentro e fuori dalla mia bocca..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:533
 translate italian sm1cs_kv005_part_3_a1f184e9_5:
@@ -1004,7 +1004,7 @@ translate italian sm1cs_kv005_part_3_a1f184e9_5:
 translate italian sm1cs_kv005_part_3_2958d18d:
 
     # kv "You know, you're not the only one that gets turned on during a shoot. Just look at how much my pussy is begging for you to fuck it."
-    kv "You know, you're not the only one that gets turned on during a shoot. Just look at how much my pussy is begging for you to fuck it."
+    kv "Sai, non sei l'unico che si eccita durante un servizio. Guarda solo quanto la mia figa implora che tu la scopi."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:537
 translate italian sm1cs_kv005_part_3_f0350e87:
@@ -1052,7 +1052,7 @@ translate italian sm1cs_kv005_part_3_8ca91c0a:
 translate italian sm1cs_kv005_part_3_e16f9d33:
 
     # kv "Because, I'm teaching you how to be a {i}professional{/i}. And professionals wait until at least after the shoot for their treat."
-    kv "Because, I'm teaching you how to be a {i}professional{/i}. And professionals wait until at least after the shoot for their treat."
+    kv "Perché, ti sto insegnando come essere un {i}professionista{/i}. E i professionisti aspettano almeno dopo il servizio per la loro ricompensa."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:557
 translate italian sm1cs_kv005_part_3_a1f184e9_9:
@@ -1130,7 +1130,7 @@ translate italian sm1cs_kv005_part_3_eec6a723:
 translate italian sm1cs_kv005_part_3_949efd1a:
 
     # kv "Please. They all love me too much. But you might be able to scoop up all the new models."
-    kv "Please. They all love me too much. But you might be able to scoop up all the new models."
+    kv "Per favore. Mi amano tutti troppo. Ma potresti riuscire a prendere tutte le nuove modelle."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:595
 translate italian sm1cs_kv005_part_3_39bd3221:
@@ -1154,7 +1154,7 @@ translate italian sm1cs_kv005_part_3_ef67388d:
 translate italian sm1cs_kv005_part_3_f0bc4f57:
 
     # kv "I have to throw some clothes on and get ready, you know how to get out!"
-    kv "I have to throw some clothes on and get ready, you know how to get out!"
+    kv "Devo mettermi qualche vestito e prepararmi, sai come uscire!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:604
 translate italian sm1cs_kv005_part_3_3c275573:
@@ -1202,7 +1202,7 @@ translate italian sm1cs_kv005_come_back_later_e18f9ec3:
 translate italian sm1cs_kv005_come_back_later_2e48059a:
 
     # kv "That's okay, all part of the learning process. Why don't you go read up a little bit, and come back later?"
-    kv "That's okay, all part of the learning process. Why don't you go read up a little bit, and come back later?"
+    kv "Va bene, tutto parte del processo di apprendimento. Perché non vai a studiare un po' e torni più tardi?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:653
 translate italian sm1cs_kv005_come_back_later_3656a527:
