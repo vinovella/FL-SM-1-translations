@@ -1578,5 +1578,5 @@ translate italian sm1cs_bg002_white_screen_cf9bf6a9:
 translate italian sm1cs_bg002_continue_shoot_75643fbc:
 
     # mc "I'm cummmming!"
-    mc "I'm cummmming!"
+    mc "Sto veneeeeendo!"
 
