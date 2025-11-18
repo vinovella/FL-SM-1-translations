@@ -1,15 +1,4 @@
 
---- PROMPT 6 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/data/quests/quests_neutral.rpy [739 words]
-italian/code/data/quests/quests_theater.rpy [429 words]
-italian/code/data/quests/vn_mode_conditions.rpy [26 words]
-italian/code/data/quests/vn_mode_data.rpy [730 words]
-italian/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy [58 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
 --- PROMPT 7 ---
 Translate untranslated lines of dialogue and menu choices in
 
