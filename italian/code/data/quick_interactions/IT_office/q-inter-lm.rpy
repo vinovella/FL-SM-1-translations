@@ -1,102 +1,102 @@
 ﻿# game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:17
 translate italian q_inter_lm_1_8fb45fc8:
 
-    # lm "Can you do me a favor?"
-    lm "Can you do me a favor?"
+    # lm "Puoi farmi un favore?"
+    lm "Puoi farmi un favore?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:19
 translate italian q_inter_lm_1_d60af7b4:
 
-    # mc "Sure, what's up?"
-    mc "Sure, what's up?"
+    # mc "Certo, che c'è?"
+    mc "Certo, che c'è?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:20
 translate italian q_inter_lm_1_ee7b8d27:
 
-    # lm "If you see April messing around the the database, could you tell me?"
-    lm "If you see April messing around the the database, could you tell me?"
+    # lm "Se vedi April giocare con il database, potresti dirmelo?"
+    lm "Se vedi April giocare con il database, potresti dirmelo?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:21
 translate italian q_inter_lm_1_d425daa3:
 
-    # mc "Sure?"
-    mc "Sure?"
+    # mc "Certo?"
+    mc "Certo?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:22
 translate italian q_inter_lm_1_33c1180d:
 
-    # lm "Awesome. They are good changes, I just need to know she's doing stuff."
-    lm "Awesome. They are good changes, I just need to know she's doing stuff."
+    # lm "Fantastico. Sono buone modifiche, ho solo bisogno di sapere che sta facendo qualcosa."
+    lm "Fantastico. Sono buone modifiche, ho solo bisogno di sapere che sta facendo qualcosa."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:28
 translate italian q_inter_lm_2_97eaf931:
 
-    # lm "Morning, [mcname]."
-    lm "Morning, [mcname]."
+    # lm "Buongiorno, [mcname]."
+    lm "Buongiorno, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:30
 translate italian q_inter_lm_2_24340561:
 
-    # mc "Hey, Libby. How's your morning going?"
-    mc "Hey, Libby. How's your morning going?"
+    # mc "Ehi, Libby. Come sta andando la tua mattinata?"
+    mc "Ehi, Libby. Come sta andando la tua mattinata?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:31
 translate italian q_inter_lm_2_9eade80d:
 
-    # lm "Great! Claire and I went out to this diner last night and I'm still thinking about it. God, it was good..."
-    lm "Great! Claire and I went out to this diner last night and I'm still thinking about it. God, it was good..."
+    # lm "Benissimo! Io e Claire siamo andate in questo diner ieri sera e ci sto ancora pensando. Dio, era buonissimo..."
+    lm "Benissimo! Io e Claire siamo andate in questo diner ieri sera e ci sto ancora pensando. Dio, era buonissimo..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:37
 translate italian q_inter_lm_3_9f8f1046:
 
-    # lm "Oh, [mcname]. If you see April can you tell her to come see me? I have a doozy of an error I need some help with."
-    lm "Oh, [mcname]. If you see April can you tell her to come see me? I have a doozy of an error I need some help with."
+    # lm "Oh, [mcname]. Se vedi April puoi dirle di venire da me? Ho un errore tremendo con cui ho bisogno di aiuto."
+    lm "Oh, [mcname]. Se vedi April puoi dirle di venire da me? Ho un errore tremendo con cui ho bisogno di aiuto."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:39
 translate italian q_inter_lm_3_54ff50e6:
 
-    # mc "Yeah, I'll let her know."
-    mc "Yeah, I'll let her know."
+    # mc "Sì, glielo dirò."
+    mc "Sì, glielo dirò."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:40
 translate italian q_inter_lm_3_5d1b9f2f:
 
-    # lm "Thanks!"
-    lm "Thanks!"
+    # lm "Grazie!"
+    lm "Grazie!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:46
 translate italian q_inter_lm_4_56708c49:
 
-    # lm "Have you seen these projected timelines from Claire?"
-    lm "Have you seen these projected timelines from Claire?"
+    # lm "Hai visto queste tempistiche previste da Claire?"
+    lm "Hai visto queste tempistiche previste da Claire?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:48
 translate italian q_inter_lm_4_5d27f189:
 
-    # mc "Not yet?"
-    mc "Not yet?"
+    # mc "Non ancora?"
+    mc "Non ancora?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:49
 translate italian q_inter_lm_4_cbbbc36f:
 
-    # lm "Ugh, I can already feel the crunch time coming..."
-    lm "Ugh, I can already feel the crunch time coming..."
+    # lm "Ugh, sento già arrivare il momento critico..."
+    lm "Ugh, sento già arrivare il momento critico..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:55
 translate italian q_inter_lm_5_21a44699:
 
-    # lm "[mcname], do you know where Anna is?"
-    lm "[mcname], do you know where Anna is?"
+    # lm "[mcname], sai dove si trova Anna?"
+    lm "[mcname], sai dove si trova Anna?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:57
 translate italian q_inter_lm_5_a80e5299:
 
-    # mc "Yeah, she should be around somewhere."
-    mc "Yeah, she should be around somewhere."
+    # mc "Sì, dovrebbe essere qui da qualche parte."
+    mc "Sì, dovrebbe essere qui da qualche parte."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:58
 translate italian q_inter_lm_5_04a6de38:
 
-    # lm "Great. We need to do an overview meeting of how the database is functioning."
-    lm "Great. We need to do an overview meeting of how the database is functioning."
+    # lm "Perfetto. Dobbiamo fare una riunione di panoramica su come funziona il database."
+    lm "Perfetto. Dobbiamo fare una riunione di panoramica su come funziona il database."
 
