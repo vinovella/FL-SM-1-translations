@@ -1370,37 +1370,37 @@ translate italian sm1cs_dc010_later_01c0d524:
 translate italian sm1cs_dc010_later_b55f9143:
 
     # mct "Should I offer her a helping hand?"
-    mct "Should I offer her a helping hand?"
+    mct "Dovrei offrirle una mano?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:589
 translate italian sm1cs_dc010_later_30bebd7e:
 
     # mc "Hey, Debbie. Why don't you take a seat?"
-    mc "Hey, Debbie. Why don't you take a seat?"
+    mc "Ehi, Debbie. Perché non ti siedi?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:591
 translate italian sm1cs_dc010_later_0a282315:
 
     # dc "Okay? Sure."
-    dc "Okay? Sure."
+    dc "Ok? Certo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:596
 translate italian sm1cs_dc010_later_aa0aadd3:
 
     # mct "I don't think I'm comfortable with that."
-    mct "I don't think I'm comfortable with that."
+    mct "Non penso di sentirmi a mio agio con questo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:598
 translate italian sm1cs_dc010_later_6eb439e2:
 
     # dc "I, uhm, think I'm going to go wash off quick."
-    dc "I, uhm, think I'm going to go wash off quick."
+    dc "Io, ehm, penso che andrò a lavarmi velocemente."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:601
 translate italian sm1cs_dc010_later_acf8f395:
 
     # mc "Oh, sorry - yeah! The bathroom is the door over to your right."
-    mc "Oh, sorry - yeah! The bathroom is the door over to your right."
+    mc "Oh, scusa - sì! Il bagno è la porta alla tua destra."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:602
 translate italian sm1cs_dc010_later_4915dab3:
@@ -1418,13 +1418,13 @@ translate italian sm1cs_dc010_dc_hj_16b05ad9:
 translate italian sm1cs_dc010_dc_hj_e53a613d:
 
     # dc "Yes, [mcname]?"
-    dc "Yes, [mcname]?"
+    dc "Sì, [mcname]?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:614
 translate italian sm1cs_dc010_dc_hj_6d6d29e2:
 
     # mc "I want you to take your pants off."
-    mc "I want you to take your pants off."
+    mc "Voglio che ti tolga i pantaloni."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:617
 translate italian sm1cs_dc010_dc_hj_07157240:
@@ -1436,25 +1436,25 @@ translate italian sm1cs_dc010_dc_hj_07157240:
 translate italian sm1cs_dc010_dc_hj_226c0490:
 
     # mc "Nuh uh, no wiggling out of this, Officer. Time for your pat down!"
-    mc "Nuh uh, no wiggling out of this, Officer. Time for your pat down!"
+    mc "Nuh uh, non puoi sottrarti a questo, Agente. È ora della tua perquisizione!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:622
 translate italian sm1cs_dc010_dc_hj_c947d33b:
 
     # dc "That was bad."
-    dc "That was bad."
+    dc "È stato pessimo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:625
 translate italian sm1cs_dc010_dc_hj_f2f9b537:
 
     # mc "What can I say? I have a talent for bad jokes!"
-    mc "What can I say? I have a talent for bad jokes!"
+    mc "Cosa posso dire? Ho un talento per le battute pessime!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:626
 translate italian sm1cs_dc010_dc_hj_42e496dc:
 
     # mc "Now, come on. Pants off."
-    mc "Now, come on. Pants off."
+    mc "Ora, dai. Togli i pantaloni."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:627
 translate italian sm1cs_dc010_dc_hj_14f9520a:
