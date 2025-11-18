@@ -1,8 +1,8 @@
-﻿translate italian strings:
+translate italian strings:
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Red-haired maid fucked hard"
-    new "Red-haired maid fucked hard"
+    new "Domestica rossa scopata duramente"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Mr. CEO Man"
@@ -10,11 +10,11 @@
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Maid"
-    new "Maid"
+    new "Domestica"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Sexy brunette fucked in a car"
-    new "Sexy brunette fucked in a car"
+    new "Brunetta sexy scopata in macchina"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Officer Johnson"
@@ -22,11 +22,11 @@
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Street Racer"
-    new "Street Racer"
+    new "Corridore di Strada"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Slutty redhead farmer girl gets her tight ass pounded"
-    new "Slutty redhead farmer girl gets her tight ass pounded"
+    new "Contadina rossa troia riceve nel culo stretto"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Farmhand Jon"
