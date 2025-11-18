@@ -104,7 +104,7 @@ translate italian q_inter_am_4_ab8fd180:
 translate italian q_inter_am_4_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "Ok."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:91
 translate italian q_inter_am_5_669664cb:
