@@ -314,7 +314,7 @@ translate italian sm1fs_i011_it_talk_am_11fd1f1e:
 translate italian sm1fs_i011_it_talk_am_954a072f:
 
     # sy "How so?"
-    sy "How so?"
+    sy "In che senso?"
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:205
 translate italian sm1fs_i011_it_talk_am_918f4a78:
@@ -368,7 +368,7 @@ translate italian sm1ms011_it_continue_abe25c2f:
 translate italian sm1ms011_it_continue_a23917d6:
 
     # mc "What about her?"
-    mc "What about her?"
+    mc "Che cosa c'è con lei?"
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:236
 translate italian sm1ms011_it_continue_20251c36:
