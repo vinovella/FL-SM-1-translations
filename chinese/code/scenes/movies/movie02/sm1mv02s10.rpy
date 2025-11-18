@@ -992,541 +992,541 @@ translate chinese sm1mv02s10_continue_a7a01cde:
 translate chinese sm1mv02s10_continue_724d7611:
 
     # mes "Haha. Sneaky Nari."
-    mes "Haha. Sneaky Nari."
+    mes "哈哈。狡猾的娜丽。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:666
 translate chinese sm1mv02s10_continue_9389e99e:
 
     # mh "I knew I should have just ripped his pants off.."
-    mh "I knew I should have just ripped his pants off.."
+    mh "我早就知道我应该直接撕掉他的裤子。.."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:669
 translate chinese sm1mv02s10_continue_c1a77cd4:
 
     # sy "It's always the quiet ones."
-    sy "It's always the quiet ones."
+    sy "安分的人总是会做出最出格的事情。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:673
 translate chinese sm1mv02s10_continue_d4b4336e:
 
     # ns "I am not quiet. Am I, [mcname]?"
-    ns "I am not quiet. Am I, [mcname]?"
+    ns "我可一点都不安分。对不对，[mcname]？"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:675
 translate chinese sm1mv02s10_continue_560265ea:
 
     # mc "No. And especially not when I'm with you."
-    mc "No. And especially not when I'm with you."
+    mc "没错。尤其是当我和你在一起的时候。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:686
 translate chinese sm1mv02s10_sex_05c551a7:
 
     # mc "Ready, Nari?"
-    mc "Ready, Nari?"
+    mc "准备好了吗，娜丽？"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:689
 translate chinese sm1mv02s10_sex_3578d568:
 
     # ns "I got wet the moment the first naughty scene played out on the screen."
-    ns "I got wet the moment the first naughty scene played out on the screen."
+    ns "屏幕上第一个撩人场景出现时，我就已经湿了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:693
 translate chinese sm1mv02s10_sex_056c22a6:
 
     # ns "Hnuaah-huaha..."
-    ns "Hnuaah-huaha..."
+    ns "嗯啊啊--哈啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:696
 translate chinese sm1mv02s10_sex_f1e7498f:
 
     # ns "I've been waiting for the real thing all night-huaah!"
-    ns "I've been waiting for the real thing all night-huaah!"
+    ns "我一整晚都在等待着真枪实弹--哈啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:701
 translate chinese sm1mv02s10_sex_7f656013:
 
     # ns "Muhaah... I knew having sex without body paint on would feel better."
-    ns "Muhaah... I knew having sex without body paint on would feel better."
+    ns "哈啊...我就知道不涂人体彩绘做爱感觉会更好。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:703
 translate chinese sm1mv02s10_sex_7189ffd0:
 
     # mc "But you would do it again if the Doctor returned. Right?"
-    mc "But you would do it again if the Doctor returned. Right?"
+    mc "但医生要是回来，你还会再做一次对吧？"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:706
 translate chinese sm1mv02s10_sex_0b917359:
 
     # ns "Nua-hhuah... Keep going... and we'll see."
-    ns "Nua-hhuah... Keep going... and we'll see."
+    ns "嗯...继续...到时候再说。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:707
 translate chinese sm1mv02s10_sex_faa03e1a:
 
     # mc "Haha."
-    mc "Haha."
+    mc "哈哈。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:710
 translate chinese sm1mv02s10_sex_62a5cbb9:
 
     # ns "Oh god. I didn't imagine that I would be watched while having sex at a watch party."
-    ns "Oh god. I didn't imagine that I would be watched while having sex at a watch party."
+    ns "天啊。没想到在观影派对上做爱还会被人偷窥。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:711
 translate chinese sm1mv02s10_sex_4b204a98:
 
     # mc "Nurah... you can knock another one off the list."
-    mc "Nurah... you can knock another one off the list."
+    mc "嗯啊...你可以从清单上再划掉一项了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:716
 translate chinese sm1mv02s10_sex_d235d41d:
 
     # ns "Huah... list? Ohua... fuahah..."
-    ns "Huah... list? Ohua... fuahah..."
+    ns "哈啊...清单？哦...啊啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:717
 translate chinese sm1mv02s10_sex_3a56a48f:
 
     # ns "[mcname]! Ahhu-oouhaah."
-    ns "[mcname]! Ahhu-oouhaah."
+    ns "[mcname]！啊...噢噢噢。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:727
 translate chinese sm1mv02s10_sex_86c6c781:
 
     # sy "Looks like someone is about to jump to lightspeed."
-    sy "Looks like someone is about to jump to lightspeed."
+    sy "看来有人即将进入超光速了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:731
 translate chinese sm1mv02s10_sex_e5b71152:
 
     # ns "[mcname]-iihuah-yah... YES!!!"
-    ns "[mcname]-iihuah-yah... YES!!!"
+    ns "[mcname]--咿--呀...啊啊啊!!!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:739
 translate chinese sm1mv02s10_sex_84109df4:
 
     # mes "Mmrruh... oh fuck."
-    mes "Mmrruh... oh fuck."
+    mes "呣嗯...操。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:746
 translate chinese sm1mv02s10_sex_65ef56f9:
 
     # mes "Right there."
-    mes "Right there."
+    mes "就是这里。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:747
 translate chinese sm1mv02s10_sex_e5e6c31f:
 
     # mes "You really are a big pervert aren't you."
-    mes "You really are a big pervert aren't you."
+    mes "你真是个不折不扣的大变态。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:755
 translate chinese sm1mv02s10_sex_dbcb35d4:
 
     # mes "Having sex in front of your roommate, and your sister."
-    mes "Having sex in front of your roommate, and your sister."
+    mes "在你的室友和你妹妹面前做爱。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:757
 translate chinese sm1mv02s10_sex_8304e355:
 
     # mes "Having sex in front of your roommate, and Stacy."
-    mes "Having sex in front of your roommate, and Stacy."
+    mes "在你的室友和史黛西面前做爱。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:758
 translate chinese sm1mv02s10_sex_ce42a790:
 
     # mc "Nraah... I wasn't waways such a big pervert."
-    mc "Nraah... I wasn't waways such a big pervert."
+    mc "嗯啊啊...我以前没这么变态的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:759
 translate chinese sm1mv02s10_sex_47536980:
 
     # mc "I had many friends helping me become something special."
-    mc "I had many friends helping me become something special."
+    mc "我有很多朋友，帮助我变得这么特别。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:768
 translate chinese sm1mv02s10_sex_e2a8802b:
 
     # mes "Nuraah... I'm... Niaah...{w} Glad I could play a role-huaaah!"
-    mes "Nuraah... I'm... Niaah...{w} Glad I could play a role-huaaah!"
+    mes "嗯啊啊...我...呢...{w}很高兴我也是其中一个--哈啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:775
 translate chinese sm1mv02s10_sex_147173f6:
 
     # mes "Awhua-fuck... You're hitting that perfect spot, [mcname]!"
-    mes "Awhua-fuck... You're hitting that perfect spot, [mcname]!"
+    mes "喔--操...你正戳中那个完美点位，[mcname]！"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:776
 translate chinese sm1mv02s10_sex_173fde24:
 
     # mc "Min. I'm getting close."
-    mc "Min. I'm getting close."
+    mc "明。我快了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:785
 translate chinese sm1mv02s10_sex_73386611:
 
     # mes "Fuhck-haua-iiaaah."
-    mes "Fuhck-haua-iiaaah."
+    mes "操--哈...啊啊啊"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:792
 translate chinese sm1mv02s10_sex_cdcf40c9:
 
     # mes "Muraaah..."
-    mes "Muraaah..."
+    mes "呣呣..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:796
 translate chinese sm1mv02s10_sex_5444461f:
 
     # mc "Graah..."
-    mc "Graah..."
+    mc "嘎啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:804
 translate chinese sm1mv02s10_sex_46bf3754:
 
     # mes "Mrrmmm... Yesss..."
-    mes "Mrrmmm... Yesss..."
+    mes "呣嗯... 好爽..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:824
 translate chinese sm1mv02s10_sex_fd1c5ded:
 
     # mc "Your turn, Lyssa."
-    mc "Your turn, Lyssa."
+    mc "轮到你了，丽莎。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:826
 translate chinese sm1mv02s10_sex_937aad9e:
 
     # mh "I was beginning to think you forgot about me."
-    mh "I was beginning to think you forgot about me."
+    mh "我还以为你把我忘了呢。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:827
 translate chinese sm1mv02s10_sex_e2395518:
 
     # mc "Impossible. No captain can fly into the darkness without his sexy science officer."
-    mc "Impossible. No captain can fly into the darkness without his sexy science officer."
+    mc "不可能。没有哪位舰长能不带他性感的科学官，就独自闯入黑暗。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:830
 translate chinese sm1mv02s10_sex_e7c1a958:
 
     # mh "Muaha-huaah... flatterer. Don't you like solo adventures?"
-    mh "Muaha-huaah... flatterer. Don't you like solo adventures?"
+    mh "唔...哈啊...真会奉承。难道你不喜欢独自冒险吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:831
 translate chinese sm1mv02s10_sex_95838639:
 
     # mc "Maybe once. Now I've moved beyond them."
-    mc "Maybe once. Now I've moved beyond them."
+    mc "也许曾经喜欢。现在我已经超越那个阶段了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:832
 translate chinese sm1mv02s10_sex_aa946a8f:
 
     # mh "*desperate moaning*"
-    mh "*desperate moaning*"
+    mh "*热切的呻吟声*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:843
 translate chinese sm1mv02s10_sex_d2986c36:
 
     # mc "Did you enjoy exploring strange new worlds with me?"
-    mc "Did you enjoy exploring strange new worlds with me?"
+    mc "你喜欢和我一起探索陌生又新奇的世界吗？"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:844
 translate chinese sm1mv02s10_sex_76509bac:
 
     # mh "I think you know I did."
-    mh "I think you know I did."
+    mh "你知道我有多喜欢。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:845
 translate chinese sm1mv02s10_sex_e603ebff:
 
     # mh "I uh... I quite liked playing the role."
-    mh "I uh... I quite liked playing the role."
+    mh "我...我挺喜欢扮演这个角色的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:848
 translate chinese sm1mv02s10_sex_7aa29cfc:
 
     # mh "Muaah-fraaaauh... I could even do it again..."
-    mh "Muaah-fraaaauh... I could even do it again..."
+    mh "呣--呣啊啊...我甚至愿意再演一次..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:849
 translate chinese sm1mv02s10_sex_02f28023:
 
     # mh "You know... if you thought there was a hole I could fill."
-    mh "You know... if you thought there was a hole I could fill."
+    mh "你明白的...如果你觉得有什么空缺需要我来填补。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:850
 translate chinese sm1mv02s10_sex_eef67037:
 
     # mc "Oh Lyssa...."
-    mc "Oh Lyssa...."
+    mc "哦丽莎...."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:862
 translate chinese sm1mv02s10_sex_50e40433:
 
     # mh "*moaning wildly*"
-    mh "*moaning wildly*"
+    mh "*狂野地呻吟*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:867
 translate chinese sm1mv02s10_sex_95e2f62b:
 
     # mh "Nrrr-nnnnn-awaahhh."
-    mh "Nrrr-nnnnn-awaahhh."
+    mh "嗯—-嗯嗯嗯--啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:870
 translate chinese sm1mv02s10_sex_d40fa5f9:
 
     # mc "Nuh-rhah..."
-    mc "Nuh-rhah..."
+    mc "嗯--哈啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:871
 translate chinese sm1mv02s10_sex_1e5427b6:
 
     # mct "Got to hold it in."
-    mct "Got to hold it in."
+    mct "必须忍住。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:874
 translate chinese sm1mv02s10_sex_d0e1e1e3:
 
     # mh "Ah-huaah... Ooooh."
-    mh "Ah-huaah... Ooooh."
+    mh "啊--哈啊...哦哦哦。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:887
 translate chinese sm1mv02s10_sex_e86977de:
 
     # mc "*panting*"
-    mc "*panting*"
+    mc "*喘息声*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:889
 translate chinese sm1mv02s10_sex_93746866:
 
     # mh "Awww..."
-    mh "Awww..."
+    mh "哦..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:895
 translate chinese sm1mv02s10_sex_3745c0b8:
 
     # mh "*gulps*"
-    mh "*gulps*"
+    mh "*吞咽*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:898
 translate chinese sm1mv02s10_sex_c5592b84:
 
     # mh "What a juicy offering, Captain."
-    mh "What a juicy offering, Captain."
+    mh "真是多汁的贡品呢，舰长。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:906
 translate chinese sm1mv02s10_sex_86d8dbd5:
 
     # sy "Hey! Aren't you forgetting about the director?"
-    sy "Hey! Aren't you forgetting about the director?"
+    sy "嘿！你们是不是忘了导演了？"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:908
 translate chinese sm1mv02s10_sex_45bca86c:
 
     # mc "Ha-gaah... easy. You're mashing it."
-    mc "Ha-gaah... easy. You're mashing it."
+    mc "哈--嘎啊...轻点。你都快压坏了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:911
 translate chinese sm1mv02s10_sex_3123749e:
 
     # sy "I'm not mashing anything."
-    sy "I'm not mashing anything."
+    sy "我才没压坏什么。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:913
 translate chinese sm1mv02s10_sex_8e3c5400:
 
     # mc "Oooh... wee... hiaaa..."
-    mc "Oooh... wee... hiaaa..."
+    mc "噢噢...我们...啊啊啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:916
 translate chinese sm1mv02s10_sex_86da6d74:
 
     # sy "You'd feel if I was-"
-    sy "You'd feel if I was-"
+    sy "那样的话你会感觉到的--"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:922
 translate chinese sm1mv02s10_sex_bdad02ad:
 
     # sy "Oh..."
-    sy "Oh..."
+    sy "哦..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:926
 translate chinese sm1mv02s10_sex_ea85ec3a:
 
     # mc "Maybe we should bring Lieutenant Commander Orion back."
-    mc "Maybe we should bring Lieutenant Commander Orion back."
+    mc "也许我们应该把奥里昂少校叫回来。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:927
 translate chinese sm1mv02s10_sex_374124d7:
 
     # mc "Give her a nice, long, punishment."
-    mc "Give her a nice, long, punishment."
+    mc "给她来个痛快又持久的惩罚。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:930
 translate chinese sm1mv02s10_sex_ef0699d9:
 
     # sy "She doesn't deserve it."
-    sy "She doesn't deserve it."
+    sy "她不值得。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:931
 translate chinese sm1mv02s10_sex_106a2f75:
 
     # sy "But you know I don't mind."
-    sy "But you know I don't mind."
+    sy "但你知道我不介意这个惩罚。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:935
 translate chinese sm1mv02s10_sex_7b94a579:
 
     # sy "Puah-oouha..."
-    sy "Puah-oouha..."
+    sy "噗--哦..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:938
 translate chinese sm1mv02s10_sex_1feda36f:
 
     # sy "Yes... Give it to me, Captain!"
-    sy "Yes... Give it to me, Captain!"
+    sy "嗯...给我吧，船长！"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:941
 translate chinese sm1mv02s10_sex_0e0674fd:
 
     # sy "Bah-kaah..."
-    sy "Bah-kaah..."
+    sy "噗嗤..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:942
 translate chinese sm1mv02s10_sex_91ba49d9:
 
     # sy "So big... B-aahaaah."
-    sy "So big... B-aahaaah."
+    sy "好大... 唔啊啊啊。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:948
 translate chinese sm1mv02s10_sex_e86977de_1:
 
     # mc "*panting*"
-    mc "*panting*"
+    mc "*喘息声*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:949
 translate chinese sm1mv02s10_sex_e46edc4b:
 
     # sy "Oh fuck. Fuck fuck... Gaa-huaah."
-    sy "Oh fuck. Fuck fuck... Gaa-huaah."
+    sy "哦操。操操...呃啊--哈..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:952
 translate chinese sm1mv02s10_sex_fa24d33f:
 
     # sy "Oh captain my captain. My pussy's shields are failing."
-    sy "Oh captain my captain. My pussy's shields are failing."
+    sy "哦舰长我的舰长。我的小穴护盾快要失效了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:961
 translate chinese sm1mv02s10_sex_8df8bee6:
 
     # mc "Mhuaah... so tight. So wet."
-    mc "Mhuaah... so tight. So wet."
+    mc "呣啊...这么紧。这么湿。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:964
 translate chinese sm1mv02s10_sex_bb738642:
 
     # sy "Give me all you've got!"
-    sy "Give me all you've got!"
+    sy "放马过来吧！"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:967
 translate chinese sm1mv02s10_sex_d6c6694f:
 
     # sy "Fuah-muaah... Phuaah..."
-    sy "Fuah-muaah... Phuaah..."
+    sy "呼--呣...噗啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:976
 translate chinese sm1mv02s10_sex_613c5268:
 
     # sy "So fucking good-huaaah!"
-    sy "So fucking good-huaaah!"
+    sy "妈的好舒服--哈啊啊！"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:983
 translate chinese sm1mv02s10_sex_dbac7194:
 
     # sy "Time to tag-team our captain, doctor."
-    sy "Time to tag-team our captain, doctor."
+    sy "是时候联手对付我们的舰长了，医生。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:986
 translate chinese sm1mv02s10_sex_749e9ae7:
 
     # ns "Delighted to, Stacy."
-    ns "Delighted to, Stacy."
+    ns "乐意之至，史黛西。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:988
 translate chinese sm1mv02s10_sex_fa7e1a01:
 
     # mc "Oh boy."
-    mc "Oh boy."
+    mc "我去。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:999
 translate chinese sm1mv02s10_sex_9a0f8a01:
 
     # mc "Hru-graah..."
-    mc "Hru-graah..."
+    mc "唔--呃啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1002
 translate chinese sm1mv02s10_sex_ddebf36e:
 
     # mc "Nrrah... I might have bitten off more than I can chew."
-    mc "Nrrah... I might have bitten off more than I can chew."
+    mc "啊啊...我可能有点自不量力了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1003
 translate chinese sm1mv02s10_sex_a0d6f35b:
 
     # sy "Mmmmhhhhhhh!"
-    sy "Mmmmhhhhhhh!"
+    sy "嗯嗯嗯嗯！"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1015
 translate chinese sm1mv02s10_sex_29c6b946:
 
     # ns "Nuaahhh."
-    ns "Nuaahhh."
+    ns "嗯啊啊--"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1016
 translate chinese sm1mv02s10_sex_6c3fb01f:
 
     # sy "Haa-huaah..."
-    sy "Haa-huaah..."
+    sy "哈--哈啊..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1034
 translate chinese sm1mv02s10_sex_end_23aa3b29:
 
     # mes "Hmmm."
-    mes "Hmmm."
+    mes "嗯。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1037
 translate chinese sm1mv02s10_sex_end_bead9acf:
 
     # sy "'Hmmm' what?"
-    sy "'Hmmm' what?"
+    sy "‘嗯’什么？"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1040
 translate chinese sm1mv02s10_sex_end_cb304a34:
 
     # mes "Just thinking that I can't wait for the next wrap party."
-    mes "Just thinking that I can't wait for the next wrap party."
+    mes "只是在想我已经等不及下一次杀青派对了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1043
 translate chinese sm1mv02s10_sex_end_764ce2b9:
 
     # mes "With a little work, it might be as big as the Fetish Locator parties were..."
-    mes "With a little work, it might be as big as the Fetish Locator parties were..."
+    mes "稍微努力下，说不定能办得像性趣探测器派对那样盛大..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1046
 translate chinese sm1mv02s10_sex_end_f5682518:
 
     # mc "Sounds like the gauntlet has been tossed down."
-    mc "Sounds like the gauntlet has been tossed down."
+    mc "看来这战书算是甩到台面上了啊。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1048
 translate chinese sm1mv02s10_sex_end_0136cad0:
 
     # mes "Sharp as always, [mcname]..."
-    mes "Sharp as always, [mcname]..."
+    mes "还是一如既往的敏锐啊，[mcname]..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1054
 translate chinese sm1mv02s10_sex_end_3e964c88:
 
     # mh "Mrmmuh..."
-    mh "Mrmmuh..."
+    mh "嗯..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1055
 translate chinese sm1mv02s10_sex_end_65145fad:
@@ -1538,87 +1538,87 @@ translate chinese sm1mv02s10_sex_end_65145fad:
 translate chinese sm1mv02s10_sex_end_38db7c30:
 
     # mc "Yeah, Lyssa."
-    mc "Yeah, Lyssa."
+    mc "怎么了，丽莎。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1062
 translate chinese sm1mv02s10_sex_end_73ab6b2a:
 
     # mh "I'm sticky."
-    mh "I'm sticky."
+    mh "我身上黏糊糊的。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1064
 translate chinese sm1mv02s10_sex_end_11ac42a0:
 
     # mc "Occupational hazard for being so hot."
-    mc "Occupational hazard for being so hot."
+    mc "谁让你这么性感呢，这都是职业‘风险’。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1067
 translate chinese sm1mv02s10_sex_end_47c50abe:
 
     # mh "You know, if all of our watch parties are like this, you're going to have to invest in some stain proof furniture."
-    mh "You know, if all of our watch parties are like this, you're going to have to invest in some stain proof furniture."
+    mh "你知道吗，如果我们所有的观影派对都像这样，你就得投资一些防污家具了。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1069
 translate chinese sm1mv02s10_sex_end_49e93d71:
 
     # mc "Not a bad idea."
-    mc "Not a bad idea."
+    mc "这主意不错。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1072
 translate chinese sm1mv02s10_sex_end_b065b15d:
 
     # mc "Does that mean you're down to star in more roles?"
-    mc "Does that mean you're down to star in more roles?"
+    mc "这么说你愿意出演更多角色了？"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1075
 translate chinese sm1mv02s10_sex_end_5f6f07ee:
 
     # mh "You know I'm always here to help you, [mcname]."
-    mh "You know I'm always here to help you, [mcname]."
+    mh "你知道我一直都愿意帮你，[mcname]。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1076
 translate chinese sm1mv02s10_sex_end_fc020ba6:
 
     # mh "But more specifically..."
-    mh "But more specifically..."
+    mh "不过具体来说..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1079
 translate chinese sm1mv02s10_sex_end_cd94fc32:
 
     # mh "Yes{w}, I think I rather enjoyed being a special part of your skinflick feature."
-    mh "Yes{w}, I think I rather enjoyed being a special part of your skinflick feature."
+    mh "是的{w}，我觉得我很享受成为你情色电影特别环节的一部分。"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1082
 translate chinese sm1mv02s10_sex_end_49f56384:
 
     # mh "And I can't wait to see what you cook up next..."
-    mh "And I can't wait to see what you cook up next..."
+    mh "我已经等不及想看你接下来会构思出什么精彩内容了..."
 
 translate chinese strings:
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:138
     old "You're overthinking it"
-    new "You're overthinking it"
+    new "你想太多了"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:138
     old "I can guarantee it"
-    new "I can guarantee it"
+    new "我可以保证"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:138
     old "We gave it our all"
-    new "We gave it our all"
+    new "我们已经全力以赴了"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:303
     old "I need to see you in more uniforms"
-    new "I need to see you in more uniforms"
+    new "我真的很想看到你穿更多款式的制服"
 
     # game/code/scenes/movies/movie02/sm1mv02s10.rpy:303
     old "It's cool, but not my favorite"
-    new "It's cool, but not my favorite"
+    new "那也很酷，但不是我最喜欢的"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:441
 translate chinese sm1mv02s10_continue_e27903d2:
 
     # mc "You never know. She could definitely bring her 'unique' perspective to other problems the {i}Intrepid{/i} might run into."
-    mc "You never know. She could definitely bring her 'unique' perspective to other problems the {i}Intrepid{/i} might run into."
+    mc "你永远不知道。对于{i}无畏号{/i}可能遇到的其他麻烦，她绝对能带来她‘独特’的视角。"
 
