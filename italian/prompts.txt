@@ -1,20 +1,4 @@
 
---- PROMPT 12 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy [886 words]
-italian/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy [255 words]
-italian/code/minigames/nonogram/nonogram_game.rpy [23 words]
-italian/code/minigames/nonogram/nonogram_tutorial.rpy [390 words]
-italian/code/minigames/simon_says/simon_says_game.rpy [21 words]
-italian/code/minigames/wurst_delivery/wurst_delivery_class.rpy [8 words]
-italian/code/minigames/wurst_delivery/wurst_delivery_game.rpy [3 words]
-italian/code/minigames/wurst_delivery/wurst_delivery_labels.rpy [12 words]
-italian/code/renpy/labels/actions.rpy [137 words]
-italian/code/renpy/labels/vn_mode.rpy [25 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
 --- PROMPT 13 ---
 Translate untranslated lines of dialogue and menu choices in
 
