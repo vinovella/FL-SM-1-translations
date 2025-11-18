@@ -1,13 +1,4 @@
 
---- PROMPT 8 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/data/quick_interactions/IT_office/q-inter-ns.rpy [1448 words]
-italian/code/data/quick_interactions/IT_office/q-inter-pm.rpy [130 words]
-italian/code/data/quick_interactions/IT_office/q-inter-sr.rpy [136 words]
-italian/code/data/quick_interactions/l71_shop/q-inter-ic.rpy [100 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
 
 --- PROMPT 9 ---
 Translate untranslated lines of dialogue and menu choices in
