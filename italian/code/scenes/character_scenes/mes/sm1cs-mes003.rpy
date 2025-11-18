@@ -691,37 +691,37 @@ translate italian sm1cs_mes003_b571a071:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:384
 translate italian sm1cs_mes003_6c7e321c:
 
-    # mes "Voglio che mi mostri quanto ti sono mancata."
+    # mes "I want you to show me how much you missed me."
     mes "Voglio che mi mostri quanto ti sono mancata."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:386
 translate italian sm1cs_mes003_5f46c07b:
 
-    # mc "Pensavo non me lo avresti mai chiesto."
+    # mc "I thought you'd never ask."
     mc "Pensavo non me lo avresti mai chiesto."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:400
 translate italian sm1cs_mes003_continue_99f4abb5:
 
-    # mes "Lasciami..."
+    # mes "Let me..."
     mes "Lasciami..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:403
 translate italian sm1cs_mes003_continue_4ac20ef2:
 
-    # mc "Pensavo volessi che fossi {i}io{/i} a guidare."
+    # mc "I thought you wanted {i}me{/i} to lead."
     mc "Pensavo volessi che fossi {i}io{/i} a guidare."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:407
 translate italian sm1cs_mes003_continue_1d8e8771:
 
-    # mes "Tutto a suo tempo."
+    # mes "All in good time."
     mes "Tutto a suo tempo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:411
 translate italian sm1cs_mes003_continue_27617b28:
 
-    # mes "Inoltre... mi stai ancora {i}mostrando{/i} in un certo senso."
+    # mes "Besides... you're still {i}showing{/i} me in a way."
     mes "Inoltre... mi stai ancora {i}mostrando{/i} in un certo senso."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:414
@@ -733,31 +733,31 @@ translate italian sm1cs_mes003_continue_1ff7900c:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:433
 translate italian sm1cs_mes003_continue_ae409fa1:
 
-    # mes "È sempre stato così grande?"
+    # mes "Was it always this big?"
     mes "È sempre stato così grande?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:436
 translate italian sm1cs_mes003_continue_96158226:
 
-    # mc "Heh. Dicono che la distanza faccia crescere l'affetto."
+    # mc "Heh. They say distance makes the heart grow fonder."
     mc "Heh. Dicono che la distanza faccia crescere l'affetto."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:437
 translate italian sm1cs_mes003_continue_f5e827d8:
 
-    # mc "Forse fa crescere i cazzi più spessi."
+    # mc "Maybe it makes cocks grow thicker."
     mc "Forse fa crescere i cazzi più spessi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:440
 translate italian sm1cs_mes003_continue_c609fbc5:
 
-    # mes "Oh mio dio. *ridacchia*"
+    # mes "Oh my god. *chuckles*"
     mes "Oh mio dio. *ridacchia*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:443
 translate italian sm1cs_mes003_continue_76dc3809:
 
-    # mes "Aspetta."
+    # mes "Wait."
     mes "Aspetta."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:446
@@ -769,37 +769,37 @@ translate italian sm1cs_mes003_continue_05500ff6:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:449
 translate italian sm1cs_mes003_continue_0160861a:
 
-    # mes "Sei sicuro che Stacy sarà d'accordo con questo, [mcname]."
+    # mes "Are you sure Stacy will be okay with this, [mcname]."
     mes "Sei sicuro che Stacy sarà d'accordo con questo, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:450
 translate italian sm1cs_mes003_continue_99b206f4:
 
-    # mes "Non voglio causare problemi."
+    # mes "I don't want to cause a problem."
     mes "Non voglio causare problemi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:453
 translate italian sm1cs_mes003_continue_75ebcf90:
 
-    # mc "Non lo sarà. È d'accordo che io stia con altre ragazze."
+    # mc "It won't be. She is open to me being with other girls."
     mc "Non lo sarà. È d'accordo che io stia con altre ragazze."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:454
 translate italian sm1cs_mes003_continue_b1add91f:
 
-    # mc "A volte lo incoraggia."
+    # mc "Sometimes she encourages it."
     mc "A volte lo incoraggia."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:457
 translate italian sm1cs_mes003_continue_b05c4072:
 
-    # mes "Sembra che alcune cose non cambino mai."
+    # mes "Sounds like some things never change."
     mes "Sembra che alcune cose non cambino mai."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:460
 translate italian sm1cs_mes003_continue_7d6b1bde:
 
-    # mc "Ma se è troppo per te, possiamo fermarci."
+    # mc "But if that's too much for you, we can stop."
     mc "Ma se è troppo per te, possiamo fermarci."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:463
@@ -811,13 +811,13 @@ translate italian sm1cs_mes003_continue_9c4b8b04:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:464
 translate italian sm1cs_mes003_continue_571dca18:
 
-    # mes "*eccitata* Ti voglio, [mcname]."
+    # mes "*horny* I want you, [mcname]."
     mes "*eccitata* Ti voglio, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:467
 translate italian sm1cs_mes003_continue_48a2f141:
 
-    # mes "Voglio fare tutto quello che abbiamo rimandato. Che io ho rimandato."
+    # mes "I want to do everything we put off. That I put off."
     mes "Voglio fare tutto quello che abbiamo rimandato. Che io ho rimandato."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:471
@@ -829,7 +829,7 @@ translate italian sm1cs_mes003_continue_95ef0839:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:475
 translate italian sm1cs_mes003_continue_f2c3d492:
 
-    # mct "Questo è il meglio!"
+    # mct "This is the best!"
     mct "Questo è il meglio!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:486
@@ -841,163 +841,163 @@ translate italian sm1cs_mes003_sucking_c625106a:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:487
 translate italian sm1cs_mes003_sucking_0d868c60:
 
-    # mes "*lecca lecca*"
+    # mes "*lick lick*"
     mes "*lecca lecca*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:490
 translate italian sm1cs_mes003_sucking_51b0d99b:
 
-    # mc "Cazzo Min. È fantastico."
+    # mc "Fuck Min. That feels amazing."
     mc "Cazzo Min. È fantastico."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:493
 translate italian sm1cs_mes003_sucking_c9e698e5:
 
-    # mct "Guardarla, adorare il mio cazzo."
+    # mct "Watching her, worship my cock."
     mct "Guardarla, adorare il mio cazzo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:494
 translate italian sm1cs_mes003_sucking_14a1dd24:
 
-    # mct "Sembra ancora più bella di prima."
+    # mct "She looks better than before."
     mct "Sembra ancora più bella di prima."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:497
 translate italian sm1cs_mes003_sucking_38c32c98:
 
-    # mct "Pazzesco pensare che fosse possibile."
+    # mct "Crazy to think that was possible."
     mct "Pazzesco pensare che fosse possibile."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:498
 translate italian sm1cs_mes003_sucking_d125c2e2:
 
-    # mc "*gemiti sensuali*"
+    # mc "*sensual groaning*"
     mc "*gemiti sensuali*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:501
 translate italian sm1cs_mes003_sucking_f4a9c923:
 
-    # mc "Se continui così sto per venire."
+    # mc "You keep going like that and I'm going to cum."
     mc "Se continui così sto per venire."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:504
 translate italian sm1cs_mes003_sucking_b0d22f80:
 
-    # mes "*felici rumori di suzione*"
+    # mes "*happy sucking noises*"
     mes "*felici rumori di suzione*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:511
 translate italian sm1cs_mes003_sucking_667ef7a4:
 
-    # mes "Non stuzzicarmi, [mcname]."
+    # mes "Don't tease me, [mcname]."
     mes "Non stuzzicarmi, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:512
 translate italian sm1cs_mes003_sucking_cb8c9240:
 
-    # mes "Non puoi venire ancora."
+    # mes "You can't cum yet."
     mes "Non puoi venire ancora."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:516
 translate italian sm1cs_mes003_sucking_49916fb8:
 
-    # mes "Non finché non ti sento dentro."
+    # mes "Not till I get to feel you inside."
     mes "Non finché non ti sento dentro."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:526
 translate italian sm1cs_mes003_sucking_ebdba66e:
 
-    # mes "Ti piace la mia lingerie?"
+    # mes "Do you like my lingerie?"
     mes "Ti piace la mia lingerie?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:529
 translate italian sm1cs_mes003_sucking_4c8dfac2:
 
-    # mc "È fantastica."
+    # mc "It's great."
     mc "È fantastica."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:532
 translate italian sm1cs_mes003_sucking_40757960:
 
-    # mes "Li ho indossati per te."
+    # mes "I wore them for you."
     mes "Li ho indossati per te."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:536
 translate italian sm1cs_mes003_sucking_9ab8442e:
 
-    # mes "Avevo la sensazione... che avrei potuto perdere il controllo."
+    # mes "I had a feeling... I might lose control."
     mes "Avevo la sensazione... che avrei potuto perdere il controllo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:540
 translate italian sm1cs_mes003_sucking_63513e5c:
 
-    # mes "Dopo che hai iniziato ad aiutarmi..."
+    # mes "After you started helping me out..."
     mes "Dopo che hai iniziato ad aiutarmi..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:541
 translate italian sm1cs_mes003_sucking_51b3b60c:
 
-    # mes "Mi sono sempre eccitata stando vicino a te."
+    # mes "I always got excited being around you."
     mes "Mi sono sempre eccitata stando vicino a te."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:544
 translate italian sm1cs_mes003_sucking_3c226c35:
 
-    # mes "Ma non voglio metterti fretta."
+    # mes "But I don't want to rush you."
     mes "Ma non voglio metterti fretta."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:545
 translate italian sm1cs_mes003_sucking_28412686:
 
-    # mes "Dovremmo andarci piano..."
+    # mes "We should go slowly..."
     mes "Dovremmo andarci piano..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:548
 translate italian sm1cs_mes003_sucking_980aa49d:
 
-    # mc "Non puoi dire questo e strofinare la tua figa nuda e bagnata contro il mio cazzo."
+    # mc "You can't say that and grind your naked wet pussy against my cock."
     mc "Non puoi dire questo e strofinare la tua figa nuda e bagnata contro il mio cazzo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:551
 translate italian sm1cs_mes003_sucking_01888a40:
 
-    # mes "Woah. Così impaziente."
+    # mes "Woah. So hasty."
     mes "Woah. Così impaziente."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:554
 translate italian sm1cs_mes003_sucking_3233f1a9:
 
-    # mc "Non fare la carina."
+    # mc "Don't play cute."
     mc "Non fare la carina."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:555
 translate italian sm1cs_mes003_sucking_8bd7ac19:
 
-    # mc "Mettilo dentro la tua figa."
+    # mc "Put it inside your pussy."
     mc "Mettilo dentro la tua figa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:559
 translate italian sm1cs_mes003_sucking_b9d2ea44:
 
-    # mes "Ma è così GRANDE."
+    # mes "But it's so BIG."
     mes "Ma è così GRANDE."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:562
 translate italian sm1cs_mes003_sucking_0a5c8854:
 
-    # mes "*sussurrando* Non ho scopato con nessuno da quando ci sei tu, [mcname]."
+    # mes "*whispering* I haven't fucked anyone since you, [mcname]."
     mes "*sussurrando* Non ho scopato con nessuno da quando ci sei tu, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:567
 translate italian sm1cs_mes003_sucking_0098444f:
 
-    # mc "Ho detto, 'mettilo nella tua figa'."
+    # mc "I said, 'put it in your pussy'."
     mc "Ho detto, 'mettilo nella tua figa'."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:571
 translate italian sm1cs_mes003_sucking_15ec5c8f:
 
-    # mes "Sììì...."
+    # mes "Yesss...."
     mes "Sììì...."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:574
@@ -1015,43 +1015,43 @@ translate italian sm1cs_mes003_pussy_47a25005:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:587
 translate italian sm1cs_mes003_pussy_e825bc9c:
 
-    # mes "Continua. Allarga il mio buco con il tuo grosso cazzo."
+    # mes "Keep going. Stretch my hole out with your big thick cock."
     mes "Continua. Allarga il mio buco con il tuo grosso cazzo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:590
 translate italian sm1cs_mes003_pussy_972c0909:
 
-    # mc "Cazzo Min. Adoro scopare la tua figa."
+    # mc "Fuck Min. I love fucking your pussy."
     mc "Cazzo Min. Adoro scopare la tua figa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:593
 translate italian sm1cs_mes003_pussy_4420a4ab:
 
-    # mc "Ma è così stretta."
+    # mc "But it's so tight."
     mc "Ma è così stretta."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:597
 translate italian sm1cs_mes003_pussy_88c25596:
 
-    # mes "Haha. Dai. Non stai gettando la spugna, vero?"
+    # mes "Haha. Come on. You're not throwing in the towel, are you?"
     mes "Haha. Dai. Non stai gettando la spugna, vero?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:600
 translate italian sm1cs_mes003_pussy_b29890bf:
 
-    # mc "Cazzo no."
+    # mc "Fuck no."
     mc "Cazzo no."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:603
 translate italian sm1cs_mes003_pussy_ea9523df:
 
-    # mes "*ridendo*"
+    # mes "*laughing*"
     mes "*ridendo*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:604
 translate italian sm1cs_mes003_pussy_4323cf5d:
 
-    # mes "*gemendo* Oh dio sì. Cazzo. Sì."
+    # mes "*moaning* Oh god yes. Fuck. Yes."
     mes "*gemendo* Oh dio sì. Cazzo. Sì."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:607
@@ -1063,7 +1063,7 @@ translate italian sm1cs_mes003_pussy_b8fb10fc:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:613
 translate italian sm1cs_mes003_pussy_0b0a318e:
 
-    # mes "Aahuhua-merda-hooouhaah."
+    # mes "Aahuhua-shit-hooouhaah."
     mes "Aahuhua-merda-hooouhaah."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:616
@@ -1075,13 +1075,13 @@ translate italian sm1cs_mes003_pussy_c6c37043:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:620
 translate italian sm1cs_mes003_pussy_776549e1:
 
-    # mc "Min? Stai bene."
+    # mc "Min? You okay."
     mc "Min? Stai bene."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:623
 translate italian sm1cs_mes003_pussy_560565a4:
 
-    # mes "*sottovoce* Vaffanculo."
+    # mes "*softly* Fuck you."
     mes "*sottovoce* Vaffanculo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:625
@@ -1093,55 +1093,55 @@ translate italian sm1cs_mes003_pussy_05500ff6:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:626
 translate italian sm1cs_mes003_pussy_4949cfff:
 
-    # mes "Hah. Vaffanculo, [mcname]."
+    # mes "Hah. Fuck you, [mcname]."
     mes "Hah. Vaffanculo, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:629
 translate italian sm1cs_mes003_pussy_de52b1b8:
 
-    # mes "Hai quasi rotto la mia povera figa con quel tuo cazzo grosso."
+    # mes "You nearly broke my poor pussy with that thick hog of yours."
     mes "Hai quasi rotto la mia povera figa con quel tuo cazzo grosso."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:630
 translate italian sm1cs_mes003_pussy_1e52bfda:
 
-    # mes "Non dovrei volerne di più, ma ne voglio."
+    # mes "I shouldn't want more, but I do."
     mes "Non dovrei volerne di più, ma ne voglio."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:631
 translate italian sm1cs_mes003_pussy_255a9c58:
 
-    # mes "Mi sta facendo impazzire."
+    # mes "It's fucking driving me crazy."
     mes "Mi sta facendo impazzire."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:632
 translate italian sm1cs_mes003_pussy_7c2daef2:
 
-    # mes "Cosa vuoi farmi dopo?"
+    # mes "What do you want to do to me next?"
     mes "Cosa vuoi farmi dopo?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:636
 translate italian sm1cs_mes003_pussy_75729585:
 
-    # mc "Voglio che ti appoggi al braccio."
+    # mc "I want you to lean over the arm."
     mc "Voglio che ti appoggi al braccio."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:640
 translate italian sm1cs_mes003_pussy_271bb311:
 
-    # mes "Sì..."
+    # mes "Yes..."
     mes "Sì..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:641
 translate italian sm1cs_mes003_pussy_990d0074:
 
-    # mes "Così?"
+    # mes "Like this?"
     mes "Così?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:644
 translate italian sm1cs_mes003_pussy_85785fdb:
 
-    # mc "Perfetto."
+    # mc "Perfect."
     mc "Perfetto."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:648
@@ -1159,7 +1159,7 @@ translate italian sm1cs_mes003_pussy_84d38f56:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:655
 translate italian sm1cs_mes003_pussy_096bcc92:
 
-    # mc "Troppo?"
+    # mc "Too much?"
     mc "Troppo?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:658
@@ -1171,13 +1171,13 @@ translate italian sm1cs_mes003_pussy_4e7e35bf:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:661
 translate italian sm1cs_mes003_pussy_6303fdaa:
 
-    # mct "Immagino sia un 'no'."
+    # mct "Guess that's a 'no'."
     mct "Immagino sia un 'no'."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:662
 translate italian sm1cs_mes003_pussy_fed4bdbb:
 
-    # mct "E la sua lingua sta impazzendo contro il mio cazzo."
+    # mct "And her tongue is fucking going crazy against my cock."
     mct "E la sua lingua sta impazzendo contro il mio cazzo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:668
@@ -1189,37 +1189,37 @@ translate italian sm1cs_mes003_pussy_8c4e7a33:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:671
 translate italian sm1cs_mes003_pussy_4b1a3c89:
 
-    # mc "Sì. Ecco. Ho quasi dimenticato quanto ti piace rude."
+    # mc "Yes. That's it. I nearly forgot how rough you like it."
     mc "Sì. Ecco. Ho quasi dimenticato quanto ti piace rude."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:674
 translate italian sm1cs_mes003_pussy_ca3abc78:
 
-    # mes "*gemiti felici e soffocati*"
+    # mes "*stuffed happy moans*"
     mes "*gemiti felici e soffocati*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:677
 translate italian sm1cs_mes003_pussy_39bcfd1a:
 
-    # mc "Sembri incredibilmente fottuta, Min."
+    # mc "You look fucking incredible, Min."
     mc "Sembri incredibilmente fottuta, Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:680
 translate italian sm1cs_mes003_pussy_1f50405a:
 
-    # mct "È davvero una naturale nell'essere una troia."
+    # mct "She really is such a natural at being a slut."
     mct "È davvero una naturale nell'essere una troia."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:681
 translate italian sm1cs_mes003_pussy_591c101d:
 
-    # mct "Ha quella presenza, e quel pizzico di arroganza che rimane, anche quando le viene scopata la gola."
+    # mct "She's got that presence, and that hint of arrogance that sticks around, even when she's being throat-fucked."
     mct "Ha quella presenza, e quel pizzico di arroganza che rimane, anche quando le viene scopata la gola."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:684
 translate italian sm1cs_mes003_pussy_74abc299:
 
-    # mes "*soffoca soffoca*"
+    # mes "*choke choke*"
     mes "*soffoca soffoca*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:685
@@ -1231,91 +1231,91 @@ translate italian sm1cs_mes003_pussy_12ef5632:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:696
 translate italian sm1cs_mes003_pussy_5726109c:
 
-    # mes "Oh sììì-sììììì-ssaaah."
+    # mes "Oh yess-ssssss-ssaaah."
     mes "Oh sììì-sììììì-ssaaah."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:697
 translate italian sm1cs_mes003_pussy_ea890083:
 
-    # mes "*sibilando* Non... nrrrghh... sprechi tempo."
+    # mes "*hissing* You don't... nrrrghh... waste any time."
     mes "*sibilando* Non... nrrrghh... sprechi tempo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:700
 translate italian sm1cs_mes003_pussy_03c90782:
 
-    # mes "Cazzo. Stai già spingendo così in profondità."
+    # mes "Fuck. You're already pushing so deep."
     mes "Cazzo. Stai già spingendo così in profondità."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:701
 translate italian sm1cs_mes003_pussy_c28d5e2c:
 
-    # mc "So quanto ti piace."
+    # mc "I know how much you like it."
     mc "So quanto ti piace."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:704
 translate italian sm1cs_mes003_pussy_8616b220:
 
-    # mes "*ridacchia* Mi piace. Ma dovrei essere una brava ragazza."
+    # mes "*chuckles* I do. But I'm supposed to be a good girl."
     mes "*ridacchia* Mi piace. Ma dovrei essere una brava ragazza."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:705
 translate italian sm1cs_mes003_pussy_8575a90a:
 
-    # mes "Se la mia famiglia potesse vedermi ora..."
+    # mes "If my family could see me now..."
     mes "Se la mia famiglia potesse vedermi ora..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:708
 translate italian sm1cs_mes003_pussy_99f4bc1e:
 
-    # mes "Perderebbero la testa!"
+    # mes "They would fucking lose it!"
     mes "Perderebbero la testa!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:709
 translate italian sm1cs_mes003_pussy_f3f32175:
 
-    # mes "Ooohua-huaah... sì. Questo ti fa venire più duro vero?"
+    # mes "Ooohua-huaah... yes. That gets you harder doesn't it?"
     mes "Ooohua-huaah... sì. Questo ti fa venire più duro vero?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:713
 translate italian sm1cs_mes003_pussy_90d8eb69:
 
-    # mes "Trasformare la loro brava ragazza ben educata nella tua... cazzoo..."
+    # mes "Making their good, well-behaved girl into your... fucckk..."
     mes "Trasformare la loro brava ragazza ben educata nella tua... cazzoo..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:714
 translate italian sm1cs_mes003_pussy_7bcc493e:
 
-    # mes "*ansimando* La tua troia da culo."
+    # mes "*panting* Your anal cock-slut."
     mes "*ansimando* La tua troia da culo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:717
 translate italian sm1cs_mes003_pussy_e455a9fd:
 
-    # mc "Mi piace. Ma non tanto quanto le piace prendere il mio CAZZO!"
+    # mc "I do. But not nearly as much as she likes taking my COCK!"
     mc "Mi piace. Ma non tanto quanto le piace prendere il mio CAZZO!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:718
 translate italian sm1cs_mes003_pussy_61ee44a6:
 
-    # mes "Muaaaah... Sì... Esatto."
+    # mes "Muaaaah... Yes... That's right."
     mes "Muaaaah... Sì... Esatto."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:721
 translate italian sm1cs_mes003_pussy_146dd031:
 
-    # mes "Continua a martellarm, [mcname]."
+    # mes "Keep pounding me, [mcname]."
     mes "Continua a martellarm, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:722
 translate italian sm1cs_mes003_pussy_1c494b38:
 
-    # mes "Trapanami il culo-uaaaah!"
+    # mes "Drill my asshol-uaaaah!"
     mes "Trapanami il culo-uaaaah!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:725
 translate italian sm1cs_mes003_pussy_cb7cd11b:
 
-    # mes "Mi sei mancato così tanto!"
+    # mes "I've missed you so much!"
     mes "Mi sei mancato così tanto!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:738
@@ -1327,19 +1327,19 @@ translate italian sm1cs_mes003_menu_47a25005:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:741
 translate italian sm1cs_mes003_menu_0e522eb4:
 
-    # mes "Adoro farti scopare, [mcname]."
+    # mes "I love having you fuck me, [mcname]."
     mes "Adoro farti scopare, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:749
 translate italian sm1cs_mes003_menu_38fbff24:
 
-    # mes "*senza fiato* Sì. Continua a scopare il mio buco cattivo."
+    # mes "*breathless* Yes. Keep fucking my naughty hole."
     mes "*senza fiato* Sì. Continua a scopare il mio buco cattivo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:752
 translate italian sm1cs_mes003_menu_ef45ecc1:
 
-    # mes "Prendi la mia figa. *geme*"
+    # mes "Take my pussy. *moans*"
     mes "Prendi la mia figa. *geme*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:766
@@ -1351,19 +1351,19 @@ translate italian sm1cs_mes003_menu_8c4e7a33:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:769
 translate italian sm1cs_mes003_menu_fd134cc0:
 
-    # mc "Scoparti la gola è così bello, Min."
+    # mc "Throatfucking you feels so good, Min."
     mc "Scoparti la gola è così bello, Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:774
 translate italian sm1cs_mes003_menu_5801802c:
 
-    # mes "*gemiti felici*"
+    # mes "*happy stuff moans*"
     mes "*gemiti felici*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:777
 translate italian sm1cs_mes003_menu_1c7497b8:
 
-    # mc "Sei davvero il mio giocattolino in questo momento."
+    # mc "You really are my little toy right now."
     mc "Sei davvero il mio giocattolino in questo momento."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:789
@@ -1375,61 +1375,61 @@ translate italian sm1cs_mes003_menu_cd92439f:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:792
 translate italian sm1cs_mes003_menu_3edfa386:
 
-    # mes "Ti sento così grande dentro di me, [mcname]."
+    # mes "You feel so big inside me, [mcname]."
     mes "Ti sento così grande dentro di me, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:795
 translate italian sm1cs_mes003_menu_136520e7:
 
-    # mes "Scopami. Nrraah. SÌÌÌÌUAAH."
+    # mes "Fuck me. Nrraah. YESSSSUAAH."
     mes "Scopami. Nrraah. SÌÌÌÌUAAH."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:801
 translate italian sm1cs_mes003_menu_035936ea:
 
-    # mes "*gemiti tesi* Sentirti allargare il mio culo è così fottutamente bello."
+    # mes "*strained moaning* Having you stretch out my ass feels so fucking good."
     mes "*gemiti tesi* Sentirti allargare il mio culo è così fottutamente bello."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:806
 translate italian sm1cs_mes003_menu_05575fa3:
 
-    # mes "Tra poco, non riesco a pensare... diritto... *gemito rauco*"
+    # mes "Pretty soon, I can't think... straight... *husky moan*"
     mes "Tra poco, non riesco a pensare... diritto... *gemito rauco*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:822
 translate italian sm1cs_mes003_after_menu_4deb7b31:
 
-    # mes "Merda. Mi farai venire di nuovo."
+    # mes "Shit. You're going to make me cum again."
     mes "Merda. Mi farai venire di nuovo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:825
 translate italian sm1cs_mes003_after_menu_2bd12fe9:
 
-    # mes "*urlando e gemendo*"
+    # mes "*screaming and moaning*"
     mes "*urlando e gemendo*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:827
 translate italian sm1cs_mes003_after_menu_9dfc7fa9:
 
-    # mes "Oh mio dio...."
+    # mes "Oh my god...."
     mes "Oh mio dio...."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:830
 translate italian sm1cs_mes003_after_menu_ef586487:
 
-    # mes "Dai. Continua. Usa il mio buco per venire, [mcname]!"
+    # mes "Come on. Keep going. Use my hole to cum, [mcname]!"
     mes "Dai. Continua. Usa il mio buco per venire, [mcname]!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:834
 translate italian sm1cs_mes003_after_menu_5f71acf7:
 
-    # mc "*grugnendo*"
+    # mc "*grunting*"
     mc "*grugnendo*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:837
 translate italian sm1cs_mes003_after_menu_b7b7dd02:
 
-    # mes "Santo cazzo-huaah."
+    # mes "Holy fuck-huaah."
     mes "Santo cazzo-huaah."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:841
@@ -1441,7 +1441,7 @@ translate italian sm1cs_mes003_after_menu_d846c549:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:845
 translate italian sm1cs_mes003_after_menu_d91b10cb:
 
-    # mes "*ridacchia e ansima*"
+    # mes "*giggles and pants*"
     mes "*ridacchia e ansima*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:849
@@ -1453,193 +1453,193 @@ translate italian sm1cs_mes003_after_menu_0a60238c:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:863
 translate italian sm1cs_mes003_after_menu_445c6d65:
 
-    # mc "Phew. Quello è stato..."
+    # mc "Phew. That was..."
     mc "Phew. Quello è stato..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:867
 translate italian sm1cs_mes003_after_menu_f41d771a:
 
-    # mes "Fantastico?"
+    # mes "Great?"
     mes "Fantastico?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:870
 translate italian sm1cs_mes003_after_menu_46e9b270:
 
-    # mc "Meglio che fantastico."
+    # mc "Better than great."
     mc "Meglio che fantastico."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:874
 translate italian sm1cs_mes003_after_menu_a2a9cf91:
 
-    # mes "Hai un asciugamano?"
+    # mes "Do you have a towel?"
     mes "Hai un asciugamano?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:875
 translate italian sm1cs_mes003_after_menu_44ceeb54:
 
-    # mes "O due?"
+    # mes "Or two?"
     mes "O due?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:878
 translate italian sm1cs_mes003_after_menu_f800bed0:
 
-    # mc "Sì."
+    # mc "Yes."
     mc "Sì."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:886
 translate italian sm1cs_mes003_after_menu_b3b7ceed:
 
-    # mes "Grazie."
+    # mes "Thanks."
     mes "Grazie."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:890
 translate italian sm1cs_mes003_after_menu_ac1e7dd5:
 
-    # mes "Ne avevo davvero bisogno."
+    # mes "I really needed this."
     mes "Ne avevo davvero bisogno."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:891
 translate italian sm1cs_mes003_after_menu_a3644427:
 
-    # mes "Sono contenta che volessi uscire di nuovo."
+    # mes "I was glad you wanted to hang out again."
     mes "Sono contenta che volessi uscire di nuovo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:894
 translate italian sm1cs_mes003_after_menu_1bfaac30:
 
-    # mes "Dopo che ci siamo incontrati al bar, ho iniziato a preoccuparmi che non avresti voluto uscire con Min la Depressa."
+    # mes "After we met at the bar, I started getting worried you wouldn't want to hang out with Mopey Min."
     mes "Dopo che ci siamo incontrati al bar, ho iniziato a preoccuparmi che non avresti voluto uscire con Min la Depressa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:897
 translate italian sm1cs_mes003_after_menu_44f78df4:
 
-    # mc "Mi piace uscire con ogni Min."
+    # mc "I like hanging out with every Min."
     mc "Mi piace uscire con ogni Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:900
 translate italian sm1cs_mes003_after_menu_f9d3e38b:
 
-    # mes "Grazie, [mcname]."
+    # mes "Thank you, [mcname]."
     mes "Grazie, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:903
 translate italian sm1cs_mes003_after_menu_0cb271b1:
 
-    # mc "Dovrei ringraziarti io."
+    # mc "I should be thanking you."
     mc "Dovrei ringraziarti io."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:906
 translate italian sm1cs_mes003_after_menu_de8b9e5b:
 
-    # mes "No. Cioè. Certo."
+    # mes "No. I mean. Sure."
     mes "No. Cioè. Certo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:909
 translate italian sm1cs_mes003_after_menu_a7f8afe4:
 
-    # mes "Ma è più di questo."
+    # mes "But it's more than that."
     mes "Ma è più di questo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:910
 translate italian sm1cs_mes003_after_menu_49f0d321:
 
-    # mes "Penso che tu sia l'unica persona con cui posso-"
+    # mes "I think you're the only person I can-"
     mes "Penso che tu sia l'unica persona con cui posso-"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:915
 translate italian sm1cs_mes003_after_menu_919f1971:
 
-    # sy "Ehi [mcname]. Sono a casa."
+    # sy "Hey [mcname]. I'm home."
     sy "Ehi [mcname]. Sono a casa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:918
 translate italian sm1cs_mes003_after_menu_a31df0e5:
 
-    # mes "Oh merda."
+    # mes "Oh shit."
     mes "Oh merda."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:922
 translate italian sm1cs_mes003_after_menu_08ae9e32:
 
-    # sy "Oh. Sembra che abbiamo compagnia. Hehe."
+    # sy "Oh. Looks like we have company. Hehe."
     sy "Oh. Sembra che abbiamo compagnia. Hehe."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:926
 translate italian sm1cs_mes003_after_menu_ce5f26d0:
 
-    # sy "Ciao Min."
+    # sy "Hello Min."
     sy "Ciao Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:929
 translate italian sm1cs_mes003_after_menu_6759281f:
 
-    # mes "C-Ciao Stacy. Mi dispiace così tanto per questo."
+    # mes "H-Hi Stacy. I'm so sorry about this."
     mes "C-Ciao Stacy. Mi dispiace così tanto per questo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:932
 translate italian sm1cs_mes003_after_menu_7e0cc383:
 
-    # sy "Non è assolutamente un problema."
+    # sy "It's no problem at all."
     sy "Non è assolutamente un problema."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:933
 translate italian sm1cs_mes003_after_menu_73f30645:
 
-    # sy "Sono solo dispiaciuta di essermi persa lo spettacolo."
+    # sy "I'm only bummed I missed the show."
     sy "Sono solo dispiaciuta di essermi persa lo spettacolo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:937
 translate italian sm1cs_mes003_after_menu_e797e54a:
 
-    # mes "Oh. Io... è fantastico."
+    # mes "Oh. I... that's great."
     mes "Oh. Io... è fantastico."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:941
 translate italian sm1cs_mes003_after_menu_815e5a33:
 
-    # mes "Ma come minimo, avrei dovuto..."
+    # mes "But at the very least, I should have..."
     mes "Ma come minimo, avrei dovuto..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:944
 translate italian sm1cs_mes003_after_menu_83abfe84:
 
-    # mes "Cioè devo tornare ai miei compiti."
+    # mes "I mean I need to get back to my assignments."
     mes "Cioè devo tornare ai miei compiti."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:947
 translate italian sm1cs_mes003_after_menu_497900d4:
 
-    # mes "Ma. Ho davvero apprezzato avere un po' di tempo per... {i}schiarire{/i} la mente."
+    # mes "But. I really appreciated getting some time to... {i}clear{/i} my head."
     mes "Ma. Ho davvero apprezzato avere un po' di tempo per... {i}schiarire{/i} la mente."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:948
 translate italian sm1cs_mes003_after_menu_f6ef10a7:
 
-    # mes "Spero... Spero che possiamo farlo di nuovo."
+    # mes "I hope... I hope we can do it again."
     mes "Spero... Spero che possiamo farlo di nuovo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:951
 translate italian sm1cs_mes003_after_menu_18ad3f7e:
 
-    # mc "Certo. Quando vuoi, Min."
+    # mc "Of course. Anytime, Min."
     mc "Certo. Quando vuoi, Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:954
 translate italian sm1cs_mes003_after_menu_a437bdda:
 
-    # mes "Ciao."
+    # mes "Bye."
     mes "Ciao."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:958
 translate italian sm1cs_mes003_after_menu_1d5f9943:
 
-    # mes "Ciao Stacy."
+    # mes "Bye Stacy."
     mes "Ciao Stacy."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:961
 translate italian sm1cs_mes003_after_menu_b6b8cfeb:
 
-    # sy "Ci vediamo Min."
+    # sy "Later Min."
     sy "Ci vediamo Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:969
@@ -1651,61 +1651,61 @@ translate italian sm1cs_mes003_after_menu_5ef43fce:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:970
 translate italian sm1cs_mes003_after_menu_46ccd846:
 
-    # sy "È stato strano. Per niente da lei."
+    # sy "That was strange. Not like her at all."
     sy "È stato strano. Per niente da lei."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:973
 translate italian sm1cs_mes003_after_menu_5d588a08:
 
-    # mc "Voglio dire, non la conosci così bene."
+    # mc "I mean, you don't know her that well."
     mc "Voglio dire, non la conosci così bene."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:976
 translate italian sm1cs_mes003_after_menu_f1d9c00a:
 
-    # sy "Certo. Ma non riesco ancora a immaginare che sia il suo stile normale."
+    # sy "Sure. But I still can't imagine that's her normal style."
     sy "Certo. Ma non riesco ancora a immaginare che sia il suo stile normale."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:977
 translate italian sm1cs_mes003_after_menu_bb72def7:
 
-    # sy "Era la Regina delle feste di Fetish Locator dopotutto."
+    # sy "She was Queen of Fetish Locator parties after all."
     sy "Era la Regina delle feste di Fetish Locator dopotutto."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:980
 translate italian sm1cs_mes003_after_menu_cf1adef2:
 
-    # mc "Sì."
+    # mc "Yeah."
     mc "Sì."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:981
 translate italian sm1cs_mes003_after_menu_1f6d05c7:
 
-    # mc "Ha solo molte cose per la testa in questo momento."
+    # mc "She's just got a lot on her mind right now."
     mc "Ha solo molte cose per la testa in questo momento."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:985
 translate italian sm1cs_mes003_after_menu_4f255bd5:
 
-    # mc "Scommetto che la prossima volta, le cose saranno diverse."
+    # mc "I bet next time, things will be different."
     mc "Scommetto che la prossima volta, le cose saranno diverse."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:988
 translate italian sm1cs_mes003_after_menu_012e80f1:
 
-    # sy "Assumendo che ci sia una prossima volta e che non l'abbia spaventata."
+    # sy "Assuming there is a next time and I didn't scare her off."
     sy "Assumendo che ci sia una prossima volta e che non l'abbia spaventata."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:991
 translate italian sm1cs_mes003_after_menu_c88185ac:
 
-    # mc "*sottovoce* Sì."
+    # mc "*softly* Yeah."
     mc "*sottovoce* Sì."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:994
 translate italian sm1cs_mes003_after_menu_a2514bde:
 
-    # mct "Forse sarebbe stato meglio andare più piano con Min."
+    # mct "Maybe it would have been better taking it slower with Min."
     mct "Forse sarebbe stato meglio andare più piano con Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:996
