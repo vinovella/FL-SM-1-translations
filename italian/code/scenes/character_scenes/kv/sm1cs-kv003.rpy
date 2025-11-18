@@ -428,7 +428,7 @@ translate italian sm1cs_kv003_dc3841e0:
 translate italian sm1cs_kv003_ad1eaa57:
 
     # mc "Huh."
-    mc "Huh."
+    mc "Eh."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:260
 translate italian sm1cs_kv003_c1477d1c:
@@ -656,7 +656,7 @@ translate italian sm1cs_kv003_48d2a972:
 translate italian sm1cs_kv003_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Sì?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:396
 translate italian sm1cs_kv003_3693b736:
@@ -926,7 +926,7 @@ translate italian sm1cs_kv003_a067b4ce:
 translate italian sm1cs_kv003_f49fff8f_1:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Sì?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:565
 translate italian sm1cs_kv003_f1a647d0:

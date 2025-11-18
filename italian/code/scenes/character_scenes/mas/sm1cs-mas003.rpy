@@ -386,7 +386,7 @@ translate italian sm1cs_mas003_second_delivery_03f01764:
 translate italian sm1cs_mas003_second_delivery_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Eh?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:273
 translate italian sm1cs_mas003_second_delivery_0e02a48f:
@@ -1166,7 +1166,7 @@ translate italian sm1cs_mas003_third_delivery_4f9eeb06:
 translate italian sm1cs_mas003_third_delivery_9e635b54:
 
     # ols "You!"
-    ols "You!"
+    ols "Tu!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:683
 translate italian sm1cs_mas003_third_delivery_3cc23eab:
@@ -1376,7 +1376,7 @@ translate italian sm1cs_mas003_third_delivery_a5699de4:
 translate italian sm1cs_mas003_third_delivery_d5a69b2c:
 
     # lg "Sold!"
-    lg "Sold!"
+    lg "Venduto!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:776
 translate italian sm1cs_mas003_third_delivery_ee48ba5d:

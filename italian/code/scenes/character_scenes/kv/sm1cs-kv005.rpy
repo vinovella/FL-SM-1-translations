@@ -50,7 +50,7 @@ translate italian sm1cs_kv005i_b68d62a4:
 translate italian sm1cs_kv005i_50ccc0e2:
 
     # kv "Me!"
-    kv "Me!"
+    kv "Io!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:50
 translate italian sm1cs_kv005_start_ca0cb360:
