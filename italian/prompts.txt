@@ -1,20 +1,3 @@
-
---- PROMPT 14 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/renpy/screens/map.rpy [2 words]
-italian/code/renpy/screens/money_statement.rpy [5 words]
-italian/code/renpy/screens/music_player.rpy [3 words]
-italian/code/renpy/screens/neutral_characters.rpy [2 words]
-italian/code/renpy/screens/others.rpy [74 words]
-italian/code/renpy/screens/phone.rpy [14 words]
-italian/code/renpy/screens/pirates_movie.rpy [8 words]
-italian/code/renpy/screens/quests.rpy [14 words]
-italian/code/renpy/screens/renovation.rpy [10 words]
-italian/code/renpy/screens/sandbox.rpy [6 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
 --- PROMPT 15 ---
 Translate untranslated lines of dialogue and menu choices in
 
