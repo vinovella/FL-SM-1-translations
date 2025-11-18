@@ -1,20 +1,4 @@
 
---- PROMPT 13 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/renpy/screens/character.rpy [7 words]
-italian/code/renpy/screens/difficulity.rpy [58 words]
-italian/code/renpy/screens/faction_it.rpy [20 words]
-italian/code/renpy/screens/faction_th.rpy [17 words]
-italian/code/renpy/screens/gallery.rpy [20 words]
-italian/code/renpy/screens/game_menus.rpy [12 words]
-italian/code/renpy/screens/info.rpy [83 words]
-italian/code/renpy/screens/interaction.rpy [1 words]
-italian/code/renpy/screens/language.rpy [2 words]
-italian/code/renpy/screens/lovense.rpy [78 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
 --- PROMPT 14 ---
 Translate untranslated lines of dialogue and menu choices in
 
