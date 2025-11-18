@@ -110,7 +110,7 @@ translate italian sm1ms019_e87b1453:
 translate italian sm1ms019_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/main_story/sm1ms019.rpy:117
 translate italian sm1ms019_e0db9667:
@@ -1139,5 +1139,5 @@ translate italian sm1ms019_a0cfca12:
 translate italian sm1ms019_11455b53_1:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 

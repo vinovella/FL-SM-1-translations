@@ -122,13 +122,13 @@ translate italian sm1ms011_01i_it_job_2f1dff94:
 translate italian sm1ms011_01i_it_job_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "Capito."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:72
 translate italian sm1ms011_01i_it_job_74a6ce6d:
 
     # sy "Let me get my laptop."
-    sy "Let me get my laptop."
+    sy "Fammi prendere il mio laptop."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:78
 translate italian sm1ms011_01i_it_job_6c17550b:
@@ -158,13 +158,13 @@ translate italian sm1ms011_01i_it_job_85785fdb:
 translate italian sm1ms011_01i_it_job_7d3bfb8b:
 
     # mc "Let me give it a think."
-    mc "Let me give it a think."
+    mc "Fammi pensarci."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:90
 translate italian sm1ms011_01i_it_job_56230744:
 
     # sy "Your call."
-    sy "Your call."
+    sy "Decidi tu."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:96
 translate italian sm1ms011_01i_th_job_e047cf5b:
@@ -188,13 +188,13 @@ translate italian sm1ms011_01i_th_job_1b11e88f:
 translate italian sm1ms011_01i_th_job_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "Capito."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:112
 translate italian sm1ms011_01i_th_job_74a6ce6d:
 
     # sy "Let me get my laptop."
-    sy "Let me get my laptop."
+    sy "Fammi prendere il mio laptop."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:118
 translate italian sm1ms011_01i_th_job_48f01058:
@@ -224,13 +224,13 @@ translate italian sm1ms011_01i_th_job_74c498aa:
 translate italian sm1ms011_01i_th_job_7d3bfb8b:
 
     # mc "Let me give it a think."
-    mc "Let me give it a think."
+    mc "Fammi pensarci."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:130
 translate italian sm1ms011_01i_th_job_56230744:
 
     # sy "Your call."
-    sy "Your call."
+    sy "Decidi tu."
 
 translate italian strings:
 
