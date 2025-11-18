@@ -728,43 +728,43 @@ translate italian q_inter_ns_27_1fb12c9f:
 translate italian q_inter_ns_27_a2bea4b1:
 
     # ns "Oh, I think you are aware of it.{w} Living here means I get to be closer to you."
-    ns "Oh, I think you are aware of it.{w} Living here means I get to be closer to you."
+    ns "Oh, penso che tu ne sia consapevole.{w} Vivere qui significa che posso stare più vicina a te."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:413
 translate italian q_inter_ns_27_a9b33723:
 
     # ns "Which means we can have more \"fun\" together!"
-    ns "Which means we can have more \"fun\" together!"
+    ns "Il che significa che possiamo divertirci di più insieme!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:415
 translate italian q_inter_ns_27_ac15f41a:
 
     # mc "I like the sound of that."
-    mc "I like the sound of that."
+    mc "Mi piace l'idea."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:416
 translate italian q_inter_ns_27_98583cc4:
 
     # ns "Me too!"
-    ns "Me too!"
+    ns "Anche a me!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:423
 translate italian q_inter_ns_28_cc9ea2ea:
 
     # ns "[mcname]. Do you have a portfolio?"
-    ns "[mcname]. Do you have a portfolio?"
+    ns "[mcname]. Hai un portafoglio?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:425
 translate italian q_inter_ns_28_fbf1de87:
 
     # mc "Like... an artist's portfolio?"
-    mc "Like... an artist's portfolio?"
+    mc "Tipo... un portfolio artistico?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:427
 translate italian q_inter_ns_28_13a1b4af:
 
     # ns "No, a stock portfolio."
-    ns "No, a stock portfolio."
+    ns "No, un portafoglio azionario."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:429
 translate italian q_inter_ns_28_ad5e75f1:
@@ -776,25 +776,25 @@ translate italian q_inter_ns_28_ad5e75f1:
 translate italian q_inter_ns_28_66c0b8ba:
 
     # ns "You really need to get one."
-    ns "You really need to get one."
+    ns "Davvero devi fartene uno."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:437
 translate italian q_inter_ns_29_a2123298:
 
     # ns "[mcname], what are you doing for dinner tonight?"
-    ns "[mcname], what are you doing for dinner tonight?"
+    ns "[mcname], cosa fai per cena stasera?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:439
 translate italian q_inter_ns_29_deb9a320:
 
     # mc "No idea."
-    mc "No idea."
+    mc "Nessuna idea."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:440
 translate italian q_inter_ns_29_d5eb1a27:
 
     # ns "Hmmmm. I've been thinking about going to a KBBQ restaurant that I saw online, but I am unsure."
-    ns "Hmmmm. I've been thinking about going to a KBBQ restaurant that I saw online, but I am unsure."
+    ns "Hmmmm. Sto pensando di andare in un ristorante KBBQ che ho visto online, ma non sono sicura."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:441
 translate italian q_inter_ns_29_58602942:
@@ -806,97 +806,97 @@ translate italian q_inter_ns_29_58602942:
 translate italian q_inter_ns_29_d54a09db:
 
     # ns "Korean barbecue! It's amazing!"
-    ns "Korean barbecue! It's amazing!"
+    ns "Barbecue coreano! È fantastico!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:447
 translate italian q_inter_ns_29_28d64cc9:
 
     # mct "Crowning has a Korean barbecue place?"
-    mct "Crowning has a Korean barbecue place?"
+    mct "Crowning ha un posto di barbecue coreano?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:454
 translate italian q_inter_ns_30_db455a15:
 
     # ns "Oh, [mcname], I believe a package will be arriving for me today!"
-    ns "Oh, [mcname], I believe a package will be arriving for me today!"
+    ns "Oh, [mcname], credo che oggi arriverà un pacco per me!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:456
 translate italian q_inter_ns_30_01fe7847:
 
     # mc "Good to know. I'll make sure Stacy keeps an eye out for it."
-    mc "Good to know. I'll make sure Stacy keeps an eye out for it."
+    mc "Bene a sapersi. Mi assicurerò che Stacy lo tenga d'occhio."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:457
 translate italian q_inter_ns_30_cd19445a:
 
     # ns "Thank you!"
-    ns "Thank you!"
+    ns "Grazie!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:463
 translate italian q_inter_ns_31_a2eb34f3:
 
     # mc "How are you doing, Nari?"
-    mc "How are you doing, Nari?"
+    mc "Come stai, Nari?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:465
 translate italian q_inter_ns_31_874a3f03:
 
     # ns "Pretty good."
-    ns "Pretty good."
+    ns "Abbastanza bene."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:466
 translate italian q_inter_ns_31_74ef64e7:
 
     # ns "Happy to not be worried about my living situation."
-    ns "Happy to not be worried about my living situation."
+    ns "Felice di non dovermi preoccupare della mia situazione abitativa."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:467
 translate italian q_inter_ns_31_1dca69a6:
 
     # ns "April seemed to notice that something has changed."
-    ns "April seemed to notice that something has changed."
+    ns "April sembra aver notato che qualcosa è cambiato."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:471
 translate italian q_inter_ns_31_28b99311:
 
     # ns "She complained that I am smiling more than normal. *giggles*"
-    ns "She complained that I am smiling more than normal. *giggles*"
+    ns "Si è lamentata che sorrido più del normale. *ridacchia*"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:478
 translate italian q_inter_ns_32_ee60d830:
 
     # ns "I wonder if we are breaking any Orbix rules by living together?"
-    ns "I wonder if we are breaking any Orbix rules by living together?"
+    ns "Mi chiedo se stiamo infrangendo qualche regola di Orbix vivendo insieme?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:479
 translate italian q_inter_ns_32_797eb5c6:
 
     # ns "It's kind of fun to think about it."
-    ns "It's kind of fun to think about it."
+    ns "È un po' divertente pensarci."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:486
 translate italian q_inter_ns_33_af54bf96:
 
     # ns "See you at home, [mcname]."
-    ns "See you at home, [mcname]."
+    ns "Ci vediamo a casa, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:492
 translate italian q_inter_ns_34_80f66704:
 
     # ns "Maybe we should think of doing some meal prep together, [mcname]."
-    ns "Maybe we should think of doing some meal prep together, [mcname]."
+    ns "Forse dovremmo pensare di preparare i pasti insieme, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:494
 translate italian q_inter_ns_34_a8bb4dab:
 
     # mc "That could be fun. And we'd probably save on lunches."
-    mc "That could be fun. And we'd probably save on lunches."
+    mc "Potrebbe essere divertente. E probabilmente risparmieremmo sui pranzi."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:498
 translate italian q_inter_ns_34_1a2369ae:
 
     # ns "That's what I was thinking about."
-    ns "That's what I was thinking about."
+    ns "È quello a cui stavo pensando."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:505
 translate italian q_inter_ns_35_d389dcd8:
@@ -908,13 +908,13 @@ translate italian q_inter_ns_35_d389dcd8:
 translate italian q_inter_ns_35_3649ff39:
 
     # ns "It's so funny, keeping a secret from everyone."
-    ns "It's so funny, keeping a secret from everyone."
+    ns "È così divertente tenere un segreto da tutti."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:508
 translate italian q_inter_ns_35_cead7b03:
 
     # mc "It is, but let's still be careful about talking too much about it, Nari."
-    mc "It is, but let's still be careful about talking too much about it, Nari."
+    mc "Lo è, ma stiamo ancora attenti a non parlarne troppo, Nari."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:509
 translate italian q_inter_ns_35_bcec72e1:
@@ -926,127 +926,127 @@ translate italian q_inter_ns_35_bcec72e1:
 translate italian q_inter_ns_36_7b92d90c:
 
     # ns "I'm really conflicted about which video driver company to invest in."
-    ns "I'm really conflicted about which video driver company to invest in."
+    ns "Sono davvero combattuta su in quale azienda di driver video investire."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:517
 translate italian q_inter_ns_36_84876de3:
 
     # ns "They both seem to be rollercoasters."
-    ns "They both seem to be rollercoasters."
+    ns "Entrambe sembrano delle montagne russe."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:519
 translate italian q_inter_ns_36_aa6b1ad0:
 
     # mc "You're talking about... video drivers, like for video games?"
-    mc "You're talking about... video drivers, like for video games?"
+    mc "Stai parlando di... driver video, tipo per i videogiochi?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:523
 translate italian q_inter_ns_36_560e7b4d:
 
     # ns "Oh yes. The top two are constantly dancing with one another."
-    ns "Oh yes. The top two are constantly dancing with one another."
+    ns "Oh sì. Le prime due stanno costantemente ballando l'una con l'altra."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:525
 translate italian q_inter_ns_36_35a72f19:
 
     # mc "Interesting."
-    mc "Interesting."
+    mc "Interessante."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:531
 translate italian q_inter_ns_37_18abae82:
 
     # ns "With all these advances in AI script modules, I wonder if I would have used them in classes."
-    ns "With all these advances in AI script modules, I wonder if I would have used them in classes."
+    ns "Con tutti questi progressi nei moduli di script AI, mi chiedo se li avrei usati nelle lezioni."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:532
 translate italian q_inter_ns_37_214256e1:
 
     # ns "What about you, [mcname]?"
-    ns "What about you, [mcname]?"
+    ns "E tu, [mcname]?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:534
 translate italian q_inter_ns_37_0572d01b:
 
     # mc "I haven't given it much thought."
-    mc "I haven't given it much thought."
+    mc "Non ci ho pensato molto."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:535
 translate italian q_inter_ns_37_a354679b:
 
     # mc "But I'm glad I'm not a teacher right now."
-    mc "But I'm glad I'm not a teacher right now."
+    mc "Ma sono felice di non essere un insegnante adesso."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:539
 translate italian q_inter_ns_37_0bc7a040:
 
     # ns "*giggles* Yeah."
-    ns "*giggles* Yeah."
+    ns "*ridacchia* Sì."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:559
 translate italian q_inter_ns_38_17166f24:
 
     # ns "That was so fun, hooking up with you and Stacy."
-    ns "That was so fun, hooking up with you and Stacy."
+    ns "È stato così divertente fare sesso con te e Stacy."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:560
 translate italian q_inter_ns_38_d6a36a7a:
 
     # mc "First time?"
-    mc "First time?"
+    mc "Prima volta?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:561
 translate italian q_inter_ns_38_bf64d622:
 
     # ns "Yes."
-    ns "Yes."
+    ns "Sì."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:564
 translate italian q_inter_ns_38_a018b071:
 
     # ns "Wait? Was I that bad?"
-    ns "Wait? Was I that bad?"
+    ns "Aspetta? Sono stata così male?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:567
 translate italian q_inter_ns_38_d1330e66:
 
     # mc "Not at all Nari."
-    mc "Not at all Nari."
+    mc "Per niente Nari."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:573
 translate italian q_inter_ns_39_217556ef:
 
     # ns "I wonder if Stacy will want to fuck me and you at the same time again."
-    ns "I wonder if Stacy will want to fuck me and you at the same time again."
+    ns "Mi chiedo se Stacy vorrà scopare di nuovo con me e te allo stesso tempo."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:574
 translate italian q_inter_ns_39_3bffd0c2:
 
     # mc "Oh I think you can safely assume that will happen again."
-    mc "Oh I think you can safely assume that will happen again."
+    mc "Oh penso che tu possa tranquillamente presumere che succederà di nuovo."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:575
 translate italian q_inter_ns_39_93037fdf:
 
     # mc "Stacy likes sex in all its forms."
-    mc "Stacy likes sex in all its forms."
+    mc "A Stacy piace il sesso in tutte le sue forme."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:578
 translate italian q_inter_ns_39_a6593017:
 
     # ns "Ooooh. Sounds like we'll get along nicely."
-    ns "Ooooh. Sounds like we'll get along nicely."
+    ns "Ooooh. Sembra che andremo d'accordo."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:585
 translate italian q_inter_ns_40_25048c2a:
 
     # ns "I can't believe I'm going to make porn with you."
-    ns "I can't believe I'm going to make porn with you."
+    ns "Non posso credere che farò porno con te."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:590
 translate italian q_inter_ns_41_0ffd1d15:
 
     # ns "I have to figure out some kind of pornstar name."
-    ns "I have to figure out some kind of pornstar name."
+    ns "Devo trovare una specie di nome da pornos tar."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:591
 translate italian q_inter_ns_41_52a24206:
@@ -1058,31 +1058,31 @@ translate italian q_inter_ns_41_52a24206:
 translate italian q_inter_ns_41_8dd527a3:
 
     # mc "I don't think pornstar names usually use their first name."
-    mc "I don't think pornstar names usually use their first name."
+    mc "Non credo che i nomi da pornostar usino solitamente il loro nome."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:595
 translate italian q_inter_ns_41_61edbb0d:
 
     # ns "This is going to be harder than I thought."
-    ns "This is going to be harder than I thought."
+    ns "Sarà più difficile di quanto pensassi."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:600
 translate italian q_inter_ns_42_0443c849:
 
     # ns "Hello roomie."
-    ns "Hello roomie."
+    ns "Ciao coinquilina."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:605
 translate italian q_inter_ns_43_9c9704f2:
 
     # ns "I really love my room, [mcname]."
-    ns "I really love my room, [mcname]."
+    ns "Amo davvero la mia stanza, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:610
 translate italian q_inter_ns_44_869134b1:
 
     # ns "The bathroom at home is so big."
-    ns "The bathroom at home is so big."
+    ns "Il bagno a casa è così grande."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:615
 translate italian q_inter_ns_45_eef0c656:
@@ -1100,109 +1100,109 @@ translate italian q_inter_ns_45_9fbc0f46:
 translate italian q_inter_ns_45_8963cfad:
 
     # ns "Hehe. Just thinking about the next time we have some down-time."
-    ns "Hehe. Just thinking about the next time we have some down-time."
+    ns "Hehe. Sto solo pensando alla prossima volta che avremo un po' di tempo libero."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:623
 translate italian q_inter_ns_46_fbccf30c:
 
     # ns "This place is amazing. I found the garage yesterday."
-    ns "This place is amazing. I found the garage yesterday."
+    ns "Questo posto è fantastico. Ho trovato il garage ieri."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:624
 translate italian q_inter_ns_46_88799376:
 
     # ns "Maybe one day I'll have a car to put in there."
-    ns "Maybe one day I'll have a car to put in there."
+    ns "Forse un giorno avrò una macchina da mettere lì dentro."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:625
 translate italian q_inter_ns_46_2034c056:
 
     # mc "Maybe."
-    mc "Maybe."
+    mc "Forse."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:631
 translate italian q_inter_ns_47_073558da:
 
     # ns "Mmmm. What is that look, [mcname]."
-    ns "Mmmm. What is that look, [mcname]."
+    ns "Mmmm. Che sguardo è quello, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:632
 translate italian q_inter_ns_47_6f09aad8:
 
     # ns "Are you thinking of doing something naughty with me?"
-    ns "Are you thinking of doing something naughty with me?"
+    ns "Stai pensando di fare qualcosa di birichino con me?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:638
 translate italian q_inter_ns_48_c7779512:
 
     # ns "Hey, [mcname]."
-    ns "Hey, [mcname]."
+    ns "Ehi, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:639
 translate italian q_inter_ns_48_1fc48270:
 
     # ns "Did you hear that Bitcoin is up again?"
-    ns "Did you hear that Bitcoin is up again?"
+    ns "Hai sentito che Bitcoin è di nuovo salito?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:640
 translate italian q_inter_ns_48_8104a080:
 
     # ns "I need to save some money next paycheck to buy some."
-    ns "I need to save some money next paycheck to buy some."
+    ns "Devo risparmiare un po' di soldi dalla prossima busta paga per comprarne un po'."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:646
 translate italian q_inter_ns_49_3ff77964:
 
     # ns "Hi, [mcname]."
-    ns "Hi, [mcname]."
+    ns "Ciao, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:647
 translate italian q_inter_ns_49_6154ad10:
 
     # mc "What's wrong, Nari?"
-    mc "What's wrong, Nari?"
+    mc "Cosa c'è che non va, Nari?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:650
 translate italian q_inter_ns_49_807319e0:
 
     # ns "Bitcoin went down again yesterday."
-    ns "Bitcoin went down again yesterday."
+    ns "Bitcoin è sceso di nuovo ieri."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:651
 translate italian q_inter_ns_49_9dec280d:
 
     # ns "Right after I bought some."
-    ns "Right after I bought some."
+    ns "Subito dopo che ne ho comprato un po'."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:652
 translate italian q_inter_ns_49_f196c3da:
 
     # mc "Win some, lose some."
-    mc "Win some, lose some."
+    mc "A volte si vince, a volte si perde."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:655
 translate italian q_inter_ns_49_b93e4541:
 
     # ns "Yes..."
-    ns "Yes..."
+    ns "Sì..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:660
 translate italian q_inter_ns_50_2c274d13:
 
     # mc "Oh hey Nari! Going for a walk?"
-    mc "Oh hey Nari! Going for a walk?"
+    mc "Oh ehi Nari! Vai a fare una passeggiata?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:661
 translate italian q_inter_ns_50_f6afdaa7:
 
     # ns "Mmhmmm! I just think Crowning is so beautiful."
-    ns "Mmhmmm! I just think Crowning is so beautiful."
+    ns "Mmhmmm! Penso solo che Crowning sia così bella."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:662
 translate italian q_inter_ns_50_fd8f367f:
 
     # mc "I do too!"
-    mc "I do too!"
+    mc "Anche io!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:667
 translate italian q_inter_ns_51_8522c77b:
@@ -1220,17 +1220,17 @@ translate italian q_inter_ns_51_03d1e965:
 translate italian q_inter_ns_51_7683dcea:
 
     # ns "One day we should come out here and fool around in the bushes!"
-    ns "One day we should come out here and fool around in the bushes!"
+    ns "Un giorno dovremmo venire qui e divertirci tra i cespugli!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:672
 translate italian q_inter_ns_51_b365e603:
 
     # mc "That sounds like a plan!"
-    mc "That sounds like a plan!"
+    mc "Sembra un ottimo piano!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:673
 translate italian q_inter_ns_51_640f754e:
 
     # mct "I always forget Nari is a little freaky."
-    mct "I always forget Nari is a little freaky."
+    mct "Dimentico sempre che Nari è un po' birichina."
 
