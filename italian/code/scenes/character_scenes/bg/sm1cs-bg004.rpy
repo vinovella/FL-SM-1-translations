@@ -1022,31 +1022,31 @@ translate italian sm1cs_bg004_anal_fa7cdc9b:
 translate italian sm1cs_bg004_anal_4ad70258:
 
     # bg "I-it... I've never felt pleasure like this before!"
-    bg "I-it... I've never felt pleasure like this before!"
+    bg "I-io... Non ho mai provato un piacere così prima!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:509
 translate italian sm1cs_bg004_anal_3f08ecc4:
 
     # bg "Nothing has ever satisfied me like..."
-    bg "Nothing has ever satisfied me like..."
+    bg "Niente mi ha mai soddisfatta come..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:512
 translate italian sm1cs_bg004_anal_9de0d4b8:
 
     # bg "Satisfied me like being fucked like a ragdoll, [bg_mcname!t]!"
-    bg "Satisfied me like being fucked like a ragdoll, [bg_mcname!t]!"
+    bg "Mi ha soddisfatta come essere scopata come una bambola di pezza, [bg_mcname!t]!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:513
 translate italian sm1cs_bg004_anal_952478a1:
 
     # bg "Your cock - it's my favorite thing in the world!"
-    bg "Your cock - it's my favorite thing in the world!"
+    bg "Il tuo cazzo - è la mia cosa preferita al mondo!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:514
 translate italian sm1cs_bg004_anal_021faad1:
 
     # bg "And I want - I want your cock always! Please, [bg_mcname!t], let me always have your cock!"
-    bg "And I want - I want your cock always! Please, [bg_mcname!t], let me always have your cock!"
+    bg "E voglio - voglio sempre il tuo cazzo! Per favore, [bg_mcname!t], lasciami avere sempre il tuo cazzo!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:517
 translate italian sm1cs_bg004_anal_c3537f1e:
@@ -1058,7 +1058,7 @@ translate italian sm1cs_bg004_anal_c3537f1e:
 translate italian sm1cs_bg004_anal_284b79bc:
 
     # bg "Yes, [bg_mcname!t], I am! I'm yoooooouuuursssss!"
-    bg "Yes, [bg_mcname!t], I am! I'm yoooooouuuursssss!"
+    bg "Sì, [bg_mcname!t], lo sono! Sono tuuuuuaaaaaaa!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:519
 translate italian sm1cs_bg004_anal_e6876fbd:
@@ -1070,37 +1070,37 @@ translate italian sm1cs_bg004_anal_e6876fbd:
 translate italian sm1cs_bg004_anal_1fad88ec:
 
     # mc "God, Amore-"
-    mc "God, Amore-"
+    mc "Dio, Amore-"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:524
 translate italian sm1cs_bg004_anal_4803e072:
 
     # bg "Y-yes, [bg_mcname!t]! Yes!"
-    bg "Y-yes, [bg_mcname!t]! Yes!"
+    bg "S-sì, [bg_mcname!t]! Sì!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:525
 translate italian sm1cs_bg004_anal_53ebd10b:
 
     # mc "Fucking your ass-"
-    mc "Fucking your ass-"
+    mc "Scopare il tuo culo-"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:528
 translate italian sm1cs_bg004_anal_108a769a:
 
     # bg "Yes! Yes!"
-    bg "Yes! Yes!"
+    bg "Sì! Sì!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:529
 translate italian sm1cs_bg004_anal_cb355e5d:
 
     # mc "It's fucking incredible!"
-    mc "It's fucking incredible!"
+    mc "È fottutamente incredibile!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:532
 translate italian sm1cs_bg004_anal_c50c8001:
 
     # bg "Oh God, [mcname], I'm cummmmminnngg!"
-    bg "Oh God, [mcname], I'm cummmmminnngg!"
+    bg "Oh Dio, [mcname], sto veneeeeendoooo!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:533
 translate italian sm1cs_bg004_anal_f55e6501:
@@ -1112,19 +1112,19 @@ translate italian sm1cs_bg004_anal_f55e6501:
 translate italian sm1cs_bg004_anal_977bc925:
 
     # bg "FUCK, I'M CUMMING!!!"
-    bg "FUCK, I'M CUMMING!!!"
+    bg "CAZZO, STO VENENDO!!!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:537
 translate italian sm1cs_bg004_anal_1eadac68:
 
     # mct "That was sudden-"
-    mct "That was sudden-"
+    mct "È stato improvviso-"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:540
 translate italian sm1cs_bg004_anal_af8077eb:
 
     # bg "God, God, God, GOODDDD, GOOOOOOODDDD, [mcname!u]!"
-    bg "God, God, God, GOODDDD, GOOOOOOODDDD, [mcname!u]!"
+    bg "Dio, Dio, Dio, DIIIIIO, DIIIIIIIIIIO, [mcname!u]!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:541
 translate italian sm1cs_bg004_anal_6c52da50:
@@ -1136,13 +1136,13 @@ translate italian sm1cs_bg004_anal_6c52da50:
 translate italian sm1cs_bg004_anal_26a64fd0:
 
     # bg "OHHHH FUUUUUCK!"
-    bg "OHHHH FUUUUUCK!"
+    bg "OHHHH CAAAAAAZZO!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:544
 translate italian sm1cs_bg004_anal_7b9fc1d1:
 
     # bg "IT'S TOO MUCH, TOO MUCH!"
-    bg "IT'S TOO MUCH, TOO MUCH!"
+    bg "È TROPPO, TROPPO!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:550
 translate italian sm1cs_bg004_anal_50eec7db:
@@ -1160,7 +1160,7 @@ translate italian sm1cs_bg004_anal_f01b293a_1:
 translate italian sm1cs_bg004_anal_042355d8:
 
     # mc "Amore? Are you okay?"
-    mc "Amore? Are you okay?"
+    mc "Amore? Stai bene?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:557
 translate italian sm1cs_bg004_anal_e2c7a6b7:
@@ -1172,7 +1172,7 @@ translate italian sm1cs_bg004_anal_e2c7a6b7:
 translate italian sm1cs_bg004_anal_3a4ffdc4:
 
     # mct "Shit... I think I broke her."
-    mct "Shit... I think I broke her."
+    mct "Merda... Penso di averla rotta."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:566
 translate italian sm1cs_bg004_anal_f046bd72:
@@ -1184,19 +1184,19 @@ translate italian sm1cs_bg004_anal_f046bd72:
 translate italian sm1cs_bg004_anal_042355d8_1:
 
     # mc "Amore? Are you okay?"
-    mc "Amore? Are you okay?"
+    mc "Amore? Stai bene?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:571
 translate italian sm1cs_bg004_anal_c35bc41d:
 
     # bg "Mmmhmmm... better than okay..."
-    bg "Mmmhmmm... better than okay..."
+    bg "Mmmhmmm... meglio di okay..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:572
 translate italian sm1cs_bg004_anal_13878614:
 
     # mc "Good. Because we're not done yet."
-    mc "Good. Because we're not done yet."
+    mc "Bene. Perché non abbiamo ancora finito."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:573
 translate italian sm1cs_bg004_anal_482511d7:
@@ -1208,19 +1208,19 @@ translate italian sm1cs_bg004_anal_482511d7:
 translate italian sm1cs_bg004_anal_c13ff7b7:
 
     # mc "I said, we're not done yet."
-    mc "I said, we're not done yet."
+    mc "Ho detto, non abbiamo ancora finito."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:579
 translate italian sm1cs_bg004_anal_94c63018:
 
     # mc "I still haven't cum."
-    mc "I still haven't cum."
+    mc "Non sono ancora venuto."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:582
 translate italian sm1cs_bg004_anal_8246e89e:
 
     # bg "Of... of course, [bg_mcname!t]. I can..."
-    bg "Of... of course, [bg_mcname!t]. I can..."
+    bg "D... di sicuro, [bg_mcname!t]. Posso..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:586
 translate italian sm1cs_bg004_anal_143f1146:
@@ -1244,7 +1244,7 @@ translate italian sm1cs_bg004_anal_5e749615:
 translate italian sm1cs_bg004_anal_87e26eb2:
 
     # mc "Good girl."
-    mc "Good girl."
+    mc "Brava ragazza."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:596
 translate italian sm1cs_bg004_anal_c4aece61:
@@ -1334,7 +1334,7 @@ translate italian sm1cs_bg004_anal_ac4f330d:
 translate italian sm1cs_bg004_anal_87e26eb2_1:
 
     # mc "Good girl."
-    mc "Good girl."
+    mc "Brava ragazza."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:627
 translate italian sm1cs_bg004_anal_fc11c9e7:

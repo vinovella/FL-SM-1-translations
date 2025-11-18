@@ -524,7 +524,7 @@ translate italian sm1cs_bg003_bg_appears_e4999db2:
 translate italian sm1cs_bg003_bg_appears_61202cd7:
 
     # mc "That good?"
-    mc "That good?"
+    mc "Così buono?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:337
 translate italian sm1cs_bg003_bg_appears_39decf51_3:
@@ -974,13 +974,13 @@ translate italian sm1cs_bg003_whipping_39decf51_4:
 translate italian sm1cs_bg003_whipping_61202cd7:
 
     # mc "That good?"
-    mc "That good?"
+    mc "Così buono?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:556
 translate italian sm1cs_bg003_whipping_fa7340a9:
 
     # kv "This is \"front page of the portfolio\" good, [mcname]."
-    kv "This is \"front page of the portfolio\" good, [mcname]."
+    kv "Questo è \"prima pagina del portfolio\" buono, [mcname]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:558
 translate italian sm1cs_bg003_whipping_39decf51_5:
