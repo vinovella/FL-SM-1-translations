@@ -1,19 +1,3 @@
---- PROMPT 15 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/renpy/screens/save.rpy [17 words]
-italian/code/renpy/screens/scifi_movie.rpy [2 words]
-italian/code/renpy/screens/screens.rpy [318 words]
-italian/code/renpy/screens/sm_website.rpy [16 words]
-italian/code/renpy/screens/studio_laptop.rpy [2 words]
-italian/code/renpy/screens/topics.rpy [1 words]
-italian/code/renpy/screens/ui.rpy [8 words]
-italian/code/renpy/screens/vn_mode.rpy [12 words]
-italian/code/renpy/screens/wait.rpy [10 words]
-italian/code/scenes/character_scenes/arj/sm1cs-arj002.rpy [36 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
 --- PROMPT 16 ---
 Translate untranslated lines of dialogue and menu choices in
 
