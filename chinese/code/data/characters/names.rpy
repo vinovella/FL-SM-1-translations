@@ -290,11 +290,11 @@
 
     # game/code/data/characters/characters.rpy:3
     old "Van der Haute"
-    new "范德哈特"
+    new "范德奥特"
 
     # game/code/data/characters/characters.rpy:3
     old "Lindqvist"
-    new "林德奎斯特"
+    new "林奎斯特"
 
     # game/code/data/characters/characters.rpy:3
     old "Steele"
@@ -362,5 +362,5 @@
 
     # game/code/data/characters/names.rpy:87
     old "Douche Cop"
-    new "傻逼警察"
+    new "烂人警察"
 
