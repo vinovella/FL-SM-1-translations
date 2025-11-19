@@ -2810,9 +2810,9 @@ translate italian strings:
 
     # game/code/scenes/main_story/sm1ms009.rpy:981
     old "Yeah, that sounds great!"
-    new "Yeah, that sounds great!"
+    new "Sì, sembra fantastico!"
 
     # game/code/scenes/main_story/sm1ms009.rpy:981
     old "Just, give me a second and I'll be ready"
-    new "Just, give me a second and I'll be ready"
+    new "Dammi solo un secondo e sarò pronto"
 

@@ -1604,85 +1604,85 @@ translate italian sm1cs_dc009_2341bb60:
 translate italian sm1cs_dc009_78d5a7ce:
 
     # mct "I can't help but think of a different wiener I'd love for her to be putting-"
-    mct "I can't help but think of a different wiener I'd love for her to be putting-"
+    mct "Non posso fare a meno di pensare a un altro wurstel che vorrei che lei mettesse-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:184
 translate italian sm1cs_dc009_c2f0d634:
 
     # mc "No, everything is great.{w} But, I do have a confession to make..."
-    mc "No, everything is great.{w} But, I do have a confession to make..."
+    mc "No, tutto è fantastico.{w} Ma, ho una confessione da fare..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:228
 translate italian sm1cs_dc009_6cf47e29:
 
     # dc "And I'd like to do that with you, [mcname]!"
-    dc "And I'd like to do that with you, [mcname]!"
+    dc "E mi piacerebbe farlo con te, [mcname]!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:289
 translate italian sm1cs_dc009_bb81e359:
 
     # dc "That is the most important rule about any and every gun."
-    dc "That is the most important rule about any and every gun."
+    dc "Questa è la regola più importante riguardo a qualsiasi arma da fuoco."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:334
 translate italian sm1cs_dc009_6827ff1e:
 
     # dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
-    dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
+    dc "Va bene, e inclinati un po' in avanti, preparati un po' per il rinculo..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:384
 translate italian sm1cs_dc009_440ee9ae:
 
     # doc "Well hi there, little miss police officer!"
-    doc "Well hi there, little miss police officer!"
+    doc "Beh ciao, piccola signorina agente di polizia!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:393
 translate italian sm1cs_dc009_101d86dd:
 
     # doc "Oh, that's not a surprise!"
-    doc "Oh, that's not a surprise!"
+    doc "Oh, non è una sorpresa!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:403
 translate italian sm1cs_dc009_e360942c:
 
     # doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
-    doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
+    doc "Oh, guarda il piccolo coniglietto che difende la poliziotta del parco! Così carino!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:410
 translate italian sm1cs_dc009_fd79c6d2:
 
     # doc "What's you just call me?"
-    doc "What's you just call me?"
+    doc "Come mi hai appena chiamato?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:418
 translate italian sm1cs_dc009_79c0c6bc:
 
     # doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
-    doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
+    doc "Esatto! Il capo stava parlando di metterti a una scrivania! Qualcosa sul fatto che sei troppo rompiscatole."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:434
 translate italian sm1cs_dc009_9fae04d3:
 
     # doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
-    doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
+    doc "Sì, sono quelle tettone flosce! Fottute che sbattono in giro ogni volta che deve inseguire qualche fottuto molestatore del parco!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:435
 translate italian sm1cs_dc009_3524c2c1:
 
     # doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
-    doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
+    doc "Lo vedo già! Fottutamente che corre e poi \"oh no, la mia tetta mi ha appena colpito in faccia! Nooo!\"."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:439
 translate italian sm1cs_dc009_a03bd0eb:
 
     # doc "Ohhh, my tits, ohhhhh!"
-    doc "Ohhh, my tits, ohhhhh!"
+    doc "Ohhh, le mie tette, ohhhhh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:446
 translate italian sm1cs_dc009_21183386:
 
     # doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
-    doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
+    doc "Sì? E come lo proverà? Ci picchierà a morte con quei fottuti sacchi di divertimento!?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:490
 translate italian sm1cs_dc009_6f1555e8:
@@ -1694,17 +1694,17 @@ translate italian sm1cs_dc009_6f1555e8:
 translate italian sm1cs_dc009_8359aaa6:
 
     # doc "Bullshit! No way!"
-    doc "Bullshit! No way!"
+    doc "Stronzate! Non è possibile!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:563
 translate italian sm1cs_dc009_337ab247:
 
     # doc "Shit... three 9s..."
-    doc "Shit... three 9s..."
+    doc "Merda... tre 9..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:583
 translate italian sm1cs_dc009_fad668c9:
 
     # dc "I mean...{w} you want me as your girlfriend?"
-    dc "I mean...{w} you want me as your girlfriend?"
+    dc "Voglio dire...{w} mi vuoi come tua ragazza?"
 

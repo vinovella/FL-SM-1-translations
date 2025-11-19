@@ -944,11 +944,11 @@ translate italian strings:
 translate italian sm1cs_dc006_993ec2ac:
 
     # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+    dc "Mentirei se dicessi che non sono un po' interessata a quello che è successo. Se i poliziotti non ne parlano... deve essere succoso."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
 translate italian sm1cs_dc006_a541102c:
 
     # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
-    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
+    dc "Sono piuttosto buoni. È espresso, latte e un po' di miscela di cioccolato. Voglio dire, il tuo è una miscela di cioccolato bianco, e..."
 

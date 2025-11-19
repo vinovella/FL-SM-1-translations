@@ -362,7 +362,7 @@ translate italian sm1cs_mh010_8c091e0d:
 translate italian sm1cs_mh010_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "Davvero?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:192
 translate italian sm1cs_mh010_d7eb3ba9:
@@ -708,5 +708,5 @@ translate italian strings:
 translate italian sm1cs_mh010_16687345:
 
     # mh "Once or twice, but a girl likes to hear it every once in a while."
-    mh "Once or twice, but a girl likes to hear it every once in a while."
+    mh "Una o due volte, ma a una ragazza piace sentirlo di tanto in tanto."
 

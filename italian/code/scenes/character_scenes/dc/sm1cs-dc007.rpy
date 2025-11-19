@@ -798,11 +798,11 @@ translate italian strings:
 translate italian sm1cs_dc007_continue_2557068b:
 
     # dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
-    dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+    dc "Beh sai, sono curiosa... cosa fai per lavoro che ti dà così tanto tempo libero per far inciampare i miei sospetti?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
 translate italian sm1cs_dc007_continue_6a0c526c:
 
     # dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
-    dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
+    dc "Mmmmm, forse quando la tua mossa non è \"Blocco Stradale Umano\"."
 

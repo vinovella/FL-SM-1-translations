@@ -86,5 +86,5 @@ translate italian sm1cs_dc010i_35458250:
 translate italian sm1cs_dc010i_dfcdc19d:
 
     # mc "Well, there's this new action movie-"
-    mc "Well, there's this new action movie-"
+    mc "Beh, c'è questo nuovo film d'azione-"
 

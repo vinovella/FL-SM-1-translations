@@ -630,17 +630,17 @@ translate italian strings:
 translate italian sm1fs_i002_59b9bf49:
 
     # cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
-    cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
+    cw "Dopo che avrò preso la mia decisione [gt.next_day_name!t] entro le 8:00 del mattino ti chiamerò."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:287
 translate italian sm1fs_i002_334c54a0:
 
     # mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
-    mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
+    mc "Non vedo l'ora della tua chiamata [gt.next_day_name!t] alle 8:00 del mattino!"
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:205
 translate italian sm1fs_i002_46800ea7:
 
     # mc "After I had it for a while I... Realized it could be made better."
-    mc "After I had it for a while I... Realized it could be made better."
+    mc "Dopo averla avuta per un po'... Mi sono reso conto che poteva essere migliorata."
 

@@ -1110,5 +1110,5 @@ translate italian sm1cs_bg001_01872126:
 translate italian sm1cs_bg001_f21ffe59:
 
     # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
-    bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
+    bg "Beh, diciamo solo che dopo una notte intensa, sono uscita e ho preso il mio primo outfit. Stavo risparmiando per... non lo so. Per quello che la vita ti dice di prendere. Un mutuo, o un prestito, o il pagamento dei debiti studenteschi."
 

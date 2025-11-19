@@ -1,4 +1,4 @@
-﻿# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:37
+# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:37
 translate italian sm1cs_kv003_aa0d9ec1:
 
     # sy "Hey there stud, how was meeting Kanya?"
@@ -428,7 +428,7 @@ translate italian sm1cs_kv003_dc3841e0:
 translate italian sm1cs_kv003_ad1eaa57:
 
     # mc "Huh."
-    mc "Huh."
+    mc "Eh."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:260
 translate italian sm1cs_kv003_c1477d1c:
@@ -656,7 +656,7 @@ translate italian sm1cs_kv003_48d2a972:
 translate italian sm1cs_kv003_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Sì?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:396
 translate italian sm1cs_kv003_3693b736:
@@ -926,7 +926,7 @@ translate italian sm1cs_kv003_a067b4ce:
 translate italian sm1cs_kv003_f49fff8f_1:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Sì?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:565
 translate italian sm1cs_kv003_f1a647d0:
@@ -986,7 +986,7 @@ translate italian sm1cs_kv003_9c5419cb:
 translate italian sm1cs_kv003_222c534c:
 
     # kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
-    kv "Mi stavo chiedendo come farai a convincere alcune di queste attrici a recitare nei tuoi porno."
+    kv "Mi stavo chiedendo come convincerai alcune di queste attrici a recitare nei tuoi porno."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:462
 translate italian sm1cs_kv003_9ac58097:

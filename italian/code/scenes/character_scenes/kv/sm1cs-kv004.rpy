@@ -1,4 +1,4 @@
-﻿# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:55
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:55
 translate italian sm1cs_kv004_fd033fb9:
 
     # kv "Oh, hey, [mcname]!"
@@ -1184,7 +1184,7 @@ translate italian strings:
 translate italian sm1cs_kv004_9b3488c6:
 
     # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "Le è piaciuto. So che è passato un po' da quando ha avuto un po' di azione, quindi ho pensato che qualcosa per stimolare la sua immaginazione sarebbe stato apprezzato."
+    kv "Lo ha fatto. So che è passato un po' da quando ha avuto un po' di azione, quindi ho pensato che qualcosa per stimolare la sua immaginazione sarebbe stato apprezzato."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
 translate italian sm1cs_kv004_sex_repeatable_b52d6afd:
@@ -1196,7 +1196,7 @@ translate italian sm1cs_kv004_sex_repeatable_b52d6afd:
 translate italian sm1cs_kv004_sex_repeatable_0bda85cc:
 
     # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
-    mc "Mer- Kanya, sei stra-ordi-na-ria con la bocca, cazzo."
+    mc "Caz- Kanya, sei fan-tas-ti-ca con la tua bocca, dannazione."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate italian sm1cs_kv004_sex_repeatable_925a1079:

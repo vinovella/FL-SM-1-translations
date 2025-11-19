@@ -1262,7 +1262,7 @@ translate italian sm1cs_ns012_part_2_8522c77b_1:
 translate italian sm1cs_ns012_part_2_6b796309:
 
     # ns "My [nsmcpetlabel] is making me cum again!!!"
-    ns "My [nsmcpetlabel] is making me cum again!!!"
+    ns "Il mio [nsmcpetlabel] mi sta facendo venire di nuovo!!!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:738
 translate italian sm1cs_ns012_part_2_5f71acf7:
@@ -1304,7 +1304,7 @@ translate italian sm1cs_ns012_part_2_8522c77b_2:
 translate italian sm1cs_ns012_part_2_6b796309_1:
 
     # ns "My [nsmcpetlabel] is making me cum again!!!"
-    ns "My [nsmcpetlabel] is making me cum again!!!"
+    ns "Il mio [nsmcpetlabel] mi sta facendo venire di nuovo!!!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:773
 translate italian sm1cs_ns012_part_2_15feccdc:
@@ -1850,25 +1850,25 @@ translate italian sm1cs_ns012_cum_mouth_a4e73f39:
 translate italian sm1cs_ns012_cum_mouth_2681bf57:
 
     # ns "I love when my [nsmcpetlabel] makes a big mess of me."
-    ns "I love when my [nsmcpetlabel] makes a big mess of me."
+    ns "Adoro quando il mio [nsmcpetlabel] mi fa diventare tutta sporca."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:1136
 translate italian sm1cs_ns012_cum_mouth_eb746b8a:
 
     # ns "I love when you make me all messy and sticky, [mcname]."
-    ns "I love when you make me all messy and sticky, [mcname]."
+    ns "Adoro quando mi fai diventare tutta sporca e appiccicosa, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:1146
 translate italian sm1cs_ns012_cum_mouth_2681bf57_1:
 
     # ns "I love when my [nsmcpetlabel] makes a big mess of me."
-    ns "I love when my [nsmcpetlabel] makes a big mess of me."
+    ns "Adoro quando il mio [nsmcpetlabel] mi fa diventare tutta sporca."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:1148
 translate italian sm1cs_ns012_cum_mouth_eb746b8a_1:
 
     # ns "I love when you make me all messy and sticky, [mcname]."
-    ns "I love when you make me all messy and sticky, [mcname]."
+    ns "Adoro quando mi fai diventare tutta sporca e appiccicosa, [mcname]."
 
 translate italian strings:
 

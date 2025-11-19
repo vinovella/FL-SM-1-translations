@@ -1112,7 +1112,7 @@ translate italian sm1cs_cw004_first_evening_47879083:
 translate italian sm1cs_cw004_first_evening_aa8ff31c:
 
     # mct "I can't imagine what will happen when we \"break up\"."
-    mct "I can't imagine what will happen when we \"break up\"."
+    mct "Non riesco a immaginare cosa succederà quando ci \"lasceremo\"."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:660
 translate italian sm1cs_cw004_first_evening_a80e7b34:
@@ -1502,7 +1502,7 @@ translate italian sm1cs_cw004_first_evening_14ecba02:
 translate italian sm1cs_cw004_first_evening_a6f2b272:
 
     # mc "*whispers* Are you sure?"
-    mc "*whispers* Are you sure?"
+    mc "*sussurra* Sei sicura?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:840
 translate italian sm1cs_cw004_first_evening_f4e72a58:

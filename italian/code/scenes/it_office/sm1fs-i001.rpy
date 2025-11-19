@@ -624,5 +624,5 @@ translate italian strings:
 translate italian sm1fs_i001_got_hired_718fe7f4:
 
     # ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
-    ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
+    ag "Se vieni domani, [gt.next_day_name!t] alle 8:00 del mattino dovresti riuscire a incontrarla."
 

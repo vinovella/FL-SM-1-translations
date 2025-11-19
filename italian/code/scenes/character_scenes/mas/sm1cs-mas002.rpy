@@ -1,8 +1,8 @@
-﻿# game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:11
+# game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:11
 translate italian sm1cs_mas002_f1a8e7e0:
 
     # mc "Slow night?"
-    mc "Slow night?"
+    mc "Serata tranquilla?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:14
 translate italian sm1cs_mas002_11925183:
@@ -296,7 +296,7 @@ translate italian sm1cs_mas002_3399eb1a:
 translate italian sm1cs_mas002_cbcb82c7:
 
     # nr "Maya? Helllooooo?"
-    nr "Maya? Helllooooo?"
+    nr "Maya? Ciaoooooo?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:155
 translate italian sm1cs_mas002_de7ae1ff:

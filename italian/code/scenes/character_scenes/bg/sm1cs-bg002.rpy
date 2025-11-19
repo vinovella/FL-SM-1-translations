@@ -1334,7 +1334,7 @@ translate italian sm1cs_bg002_continue_shoot_63c98bd8:
 translate italian sm1cs_bg002_continue_shoot_31cc48ab:
 
     # bg "What?"
-    bg "What?"
+    bg "Cosa?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:680
 translate italian sm1cs_bg002_continue_shoot_50053e49:
@@ -1484,7 +1484,7 @@ translate italian sm1cs_bg002_dating_97077530:
 translate italian sm1cs_bg002_dating_31cc48ab:
 
     # bg "What?"
-    bg "What?"
+    bg "Cosa?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:766
 translate italian sm1cs_bg002_dating_ddbb4675:
@@ -1566,17 +1566,17 @@ translate italian strings:
 translate italian sm1cs_bg002_white_screen_12b3e2b8:
 
     # kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
-    kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
+    kv "Voi due fate proprio una bella coppia, lo sapete? Potrebbe essere un po' instabile, ma voi due avete un'ottima chimica davanti alla telecamera."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:382
 translate italian sm1cs_bg002_white_screen_cf9bf6a9:
 
     # kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
-    kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
+    kv "Improvvisamente hai qualche idea che ti gira per la testa, [mcname]?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:667
 translate italian sm1cs_bg002_continue_shoot_75643fbc:
 
     # mc "I'm cummmming!"
-    mc "I'm cummmming!"
+    mc "Sto veneeeeendo!"
 

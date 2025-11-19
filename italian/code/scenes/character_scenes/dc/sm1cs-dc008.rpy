@@ -266,7 +266,7 @@ translate italian sm1cs_dc008_ddb7485f:
 translate italian sm1cs_dc008_4290e358:
 
     # "Waiter" "Of course, sir."
-    "Waiter" "Of course, sir."
+    "Cameriere" "Certamente, signore."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:144
 translate italian sm1cs_dc008_7c1ee514:
@@ -440,7 +440,7 @@ translate italian sm1cs_dc008_9191e49c:
 translate italian sm1cs_dc008_4290e358_1:
 
     # "Waiter" "Of course, sir."
-    "Waiter" "Of course, sir."
+    "Cameriere" "Certamente, signore."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:222
 translate italian sm1cs_dc008_757c5cb4:
@@ -626,7 +626,7 @@ translate italian sm1cs_dc008_0927c7ca:
 translate italian sm1cs_dc008_4d719382:
 
     # dc "Hahaha, that's very true."
-    dc "Hahaha, that's very true."
+    dc "Hahaha, è molto vero."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:288
 translate italian sm1cs_dc008_f8500621:
@@ -770,7 +770,7 @@ translate italian sm1cs_dc008_0d843cb3:
 translate italian sm1cs_dc008_4290e358_2:
 
     # "Waiter" "Of course, sir."
-    "Waiter" "Of course, sir."
+    "Cameriere" "Certamente, signore."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:342
 translate italian sm1cs_dc008_bbe41178:
@@ -1034,5 +1034,5 @@ translate italian sm1cs_dc008_02776fbe:
 translate italian sm1cs_dc008_a037dc10:
 
     # dc "Thanks, [mcname]. I like your outfit too."
-    dc "Thanks, [mcname]. I like your outfit too."
+    dc "Grazie, [mcname]. Anche a me piace il tuo vestito."
 

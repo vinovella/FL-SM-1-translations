@@ -2,17 +2,17 @@
 
     # game/code/renpy/screens/money_statement.rpy:71
     old "BACK"
-    new "BACK"
+    new "INDIETRO"
 
     # game/code/renpy/screens/money_statement.rpy:72
     old "NEXT"
-    new "NEXT"
+    new "AVANTI"
 
     # game/code/renpy/screens/money_statement.rpy:72
     old "HIDE"
-    new "HIDE"
+    new "NASCONDI"
 
     # game/code/renpy/screens/money_statement.rpy:78
     old "SKIP ALL"
-    new "SKIP ALL"
+    new "SALTA TUTTO"
 
