@@ -374,7 +374,7 @@ translate italian sm1cs_am004_ag_appears_395d02a4_1:
 translate italian sm1cs_am004_ag_appears_0323f92f:
 
     # mcon "On drums we have Pepper Storm."
-    mcon "On drums we have Pepper Storm."
+    mcon "Alla batteria abbiamo Pepper Storm."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:252
 translate italian sm1cs_am004_ag_appears_395d02a4_2:
@@ -386,7 +386,7 @@ translate italian sm1cs_am004_ag_appears_395d02a4_2:
 translate italian sm1cs_am004_ag_appears_01e66815:
 
     # mcon "And on bass we have April the Merciless!"
-    mcon "And on bass we have April the Merciless!"
+    mcon "E al basso abbiamo April la Spietata!"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:266
 translate italian sm1cs_am004_ag_appears_395d02a4_3:
@@ -1436,7 +1436,7 @@ translate italian sm1cs_am004_after_spank_780537f7:
 translate italian sm1cs_am004_after_spank_94b939c6:
 
     # mc "Come on. You know the {b}word{/b} I'm waiting for."
-    mc "Come on. You know the {b}word{/b} I'm waiting for."
+    mc "Dai. Sai qual è la {b}parola{/b} che sto aspettando."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:980
 translate italian sm1cs_am004_after_spank_a790f962:
