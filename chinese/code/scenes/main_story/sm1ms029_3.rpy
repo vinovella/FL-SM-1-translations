@@ -1,5 +1,4 @@
-﻿
-# game/code/scenes/main_story/sm1ms029.rpy:1419
+﻿# game/code/scenes/main_story/sm1ms029.rpy:1419
 translate chinese sm1ms029_part_1_my_appear_6674c527:
 
     # arj "How does it feel? Having this thick dildo fuck your ass?"

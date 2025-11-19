@@ -1,5 +1,4 @@
-﻿
-# game/code/scenes/main_story/sm1ms029.rpy:1906
+﻿# game/code/scenes/main_story/sm1ms029.rpy:1906
 translate chinese sm1ms029_party_arj_50c3b1d0:
 
     # arj "Yes, Master! Give your slave your big, thick cock."

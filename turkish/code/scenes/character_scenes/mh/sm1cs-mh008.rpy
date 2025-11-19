@@ -40,7 +40,6 @@ translate turkish sm1cs_mh008_c067869b:
     # mc "Why did you want to see me?"
     mc "Neden beni görmek istedin?"
 
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:49
 translate turkish sm1cs_mh008_3e53a7b5:
 
