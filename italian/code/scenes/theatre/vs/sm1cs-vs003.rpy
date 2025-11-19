@@ -212,7 +212,7 @@ translate italian sm1cs_vs003_a8a75e64:
 translate italian sm1cs_vs003_later_69cdc9db:
 
     # vs "And scene."
-    vs "And scene."
+    vs "E scena."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:181
 translate italian sm1cs_vs003_later_987b243c:
@@ -1004,7 +1004,7 @@ translate italian sm1cs_vs003_part3_6b619f90:
 translate italian sm1cs_vs003_part3_1f028ee0:
 
     # mc "*lick lick*"
-    mc "*lick lick*"
+    mc "*lecca lecca*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:583
 translate italian sm1cs_vs003_part3_481fbe70:
@@ -1070,7 +1070,7 @@ translate italian sm1cs_vs003_part3_b11b18fc:
 translate italian sm1cs_vs003_part3_a21d844c:
 
     # vs "*suck suck*"
-    vs "*suck suck*"
+    vs "*succhia succhia*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:608
 translate italian sm1cs_vs003_part3_e34e0986:
@@ -1088,7 +1088,7 @@ translate italian sm1cs_vs003_part3_7681545d:
 translate italian sm1cs_vs003_part3_1f028ee0_1:
 
     # mc "*lick lick*"
-    mc "*lick lick*"
+    mc "*lecca lecca*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:615
 translate italian sm1cs_vs003_part3_84f93152:
@@ -1256,7 +1256,7 @@ translate italian sm1cs_vs003_part3_8cf12499:
 translate italian sm1cs_vs003_part3_a21d844c_1:
 
     # vs "*suck suck*"
-    vs "*suck suck*"
+    vs "*succhia succhia*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:692
 translate italian sm1cs_vs003_part3_a594b662:
