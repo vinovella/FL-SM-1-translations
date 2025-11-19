@@ -122,7 +122,7 @@ translate italian sm1cs_dvh003_54ff9d51:
 translate italian sm1cs_dvh003_375d6796:
 
     # dvh "Lekker. Then you will strip."
-    dvh "Lekker. Then you will strip."
+    dvh "Lekker. Allora ti spoglierai."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:79
 translate italian sm1cs_dvh003_f8a7ceff:
@@ -368,7 +368,7 @@ translate italian sm1cs_dvh003_96695174:
 translate italian sm1cs_dvh003_64dba11a:
 
     # dvh "{i}Oprotten{/i}. I have work to do."
-    dvh "{i}Oprotten{/i}. I have work to do."
+    dvh "{i}Oprotten{/i}. Ho del lavoro da fare."
 
 translate italian strings:
 
