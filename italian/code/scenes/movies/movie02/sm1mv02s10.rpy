@@ -1076,19 +1076,19 @@ translate italian sm1mv02s10_sex_faa03e1a:
 translate italian sm1mv02s10_sex_62a5cbb9:
 
     # ns "Oh god. I didn't imagine that I would be watched while having sex at a watch party."
-    ns "Oh god. I didn't imagine that I would be watched while having sex at a watch party."
+    ns "Oh dio. Non immaginavo che sarei stata guardata mentre facevo sesso a una festa di visione."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:735
 translate italian sm1mv02s10_sex_4b204a98:
 
     # mc "Nurah... you can knock another one off the list."
-    mc "Nurah... you can knock another one off the list."
+    mc "Nurah... puoi cancellarne un'altra dalla lista."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:740
 translate italian sm1mv02s10_sex_d235d41d:
 
     # ns "Huah... list? Ohua... fuahah..."
-    ns "Huah... list? Ohua... fuahah..."
+    ns "Huah... lista? Ohua... fuahah..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:741
 translate italian sm1mv02s10_sex_3a56a48f:
@@ -1100,61 +1100,61 @@ translate italian sm1mv02s10_sex_3a56a48f:
 translate italian sm1mv02s10_sex_86c6c781:
 
     # sy "Looks like someone is about to jump to lightspeed."
-    sy "Looks like someone is about to jump to lightspeed."
+    sy "Sembra che qualcuno stia per saltare alla velocità della luce."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:755
 translate italian sm1mv02s10_sex_e5b71152:
 
     # ns "[mcname]-iihuah-yah... YES!!!"
-    ns "[mcname]-iihuah-yah... YES!!!"
+    ns "[mcname]-iihuah-yah... SÌ!!!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:763
 translate italian sm1mv02s10_sex_84109df4:
 
     # mes "Mmrruh... oh fuck."
-    mes "Mmrruh... oh fuck."
+    mes "Mmrruh... oh cazzo."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:770
 translate italian sm1mv02s10_sex_65ef56f9:
 
     # mes "Right there."
-    mes "Right there."
+    mes "Proprio lì."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:771
 translate italian sm1mv02s10_sex_e5e6c31f:
 
     # mes "You really are a big pervert aren't you."
-    mes "You really are a big pervert aren't you."
+    mes "Sei davvero un grande pervertito, vero."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:779
 translate italian sm1mv02s10_sex_dbcb35d4:
 
     # mes "Having sex in front of your roommate, and your sister."
-    mes "Having sex in front of your roommate, and your sister."
+    mes "Fare sesso davanti alla tua coinquilina e tua sorella."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:781
 translate italian sm1mv02s10_sex_8304e355:
 
     # mes "Having sex in front of your roommate, and Stacy."
-    mes "Having sex in front of your roommate, and Stacy."
+    mes "Fare sesso davanti alla tua coinquilina e Stacy."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:782
 translate italian sm1mv02s10_sex_ce42a790:
 
     # mc "Nraah... I wasn't waways such a big pervert."
-    mc "Nraah... I wasn't waways such a big pervert."
+    mc "Nraah... Non sono sempre stato un così grande pervertito."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:783
 translate italian sm1mv02s10_sex_47536980:
 
     # mc "I had many friends helping me become something special."
-    mc "I had many friends helping me become something special."
+    mc "Ho avuto molti amici che mi hanno aiutato a diventare qualcosa di speciale."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:792
 translate italian sm1mv02s10_sex_e2a8802b:
 
     # mes "Nuraah... I'm... Niaah...{w} Glad I could play a role-huaaah!"
-    mes "Nuraah... I'm... Niaah...{w} Glad I could play a role-huaaah!"
+    mes "Nuraah... Sono... Niaah...{w} Felice di aver potuto avere un ruolo-huaaah!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:799
 translate italian sm1mv02s10_sex_147173f6:
@@ -1166,7 +1166,7 @@ translate italian sm1mv02s10_sex_147173f6:
 translate italian sm1mv02s10_sex_173fde24:
 
     # mc "Min. I'm getting close."
-    mc "Min. I'm getting close."
+    mc "Min. Mi sto avvicinando."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:809
 translate italian sm1mv02s10_sex_73386611:
@@ -1190,25 +1190,25 @@ translate italian sm1mv02s10_sex_5444461f:
 translate italian sm1mv02s10_sex_46bf3754:
 
     # mes "Mrrmmm... Yesss..."
-    mes "Mrrmmm... Yesss..."
+    mes "Mrrmmm... Sììì..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:848
 translate italian sm1mv02s10_sex_fd1c5ded:
 
     # mc "Your turn, Lyssa."
-    mc "Your turn, Lyssa."
+    mc "Il tuo turno, Lyssa."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:850
 translate italian sm1mv02s10_sex_937aad9e:
 
     # mh "I was beginning to think you forgot about me."
-    mh "I was beginning to think you forgot about me."
+    mh "Stavo iniziando a pensare che ti fossi dimenticato di me."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:851
 translate italian sm1mv02s10_sex_e2395518:
 
     # mc "Impossible. No captain can fly into the darkness without his sexy science officer."
-    mc "Impossible. No captain can fly into the darkness without his sexy science officer."
+    mc "Impossibile. Nessun capitano può volare nell'oscurità senza il suo sexy ufficiale scientifico."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:854
 translate italian sm1mv02s10_sex_e7c1a958:
@@ -1220,7 +1220,7 @@ translate italian sm1mv02s10_sex_e7c1a958:
 translate italian sm1mv02s10_sex_95838639:
 
     # mc "Maybe once. Now I've moved beyond them."
-    mc "Maybe once. Now I've moved beyond them."
+    mc "Forse una volta. Ora li ho superati."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:856
 translate italian sm1mv02s10_sex_aa946a8f:
@@ -1232,19 +1232,19 @@ translate italian sm1mv02s10_sex_aa946a8f:
 translate italian sm1mv02s10_sex_d2986c36:
 
     # mc "Did you enjoy exploring strange new worlds with me?"
-    mc "Did you enjoy exploring strange new worlds with me?"
+    mc "Ti è piaciuto esplorare strani nuovi mondi con me?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:868
 translate italian sm1mv02s10_sex_76509bac:
 
     # mh "I think you know I did."
-    mh "I think you know I did."
+    mh "Penso che tu sappia che sì."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:869
 translate italian sm1mv02s10_sex_e603ebff:
 
     # mh "I uh... I quite liked playing the role."
-    mh "I uh... I quite liked playing the role."
+    mh "Io uh... Mi è piaciuto molto interpretare il ruolo."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:872
 translate italian sm1mv02s10_sex_7aa29cfc:
@@ -1256,7 +1256,7 @@ translate italian sm1mv02s10_sex_7aa29cfc:
 translate italian sm1mv02s10_sex_02f28023:
 
     # mh "You know... if you thought there was a hole I could fill."
-    mh "You know... if you thought there was a hole I could fill."
+    mh "Sai... se pensavi che ci fosse un buco che potrei riempire."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:874
 translate italian sm1mv02s10_sex_eef67037:
@@ -1286,7 +1286,7 @@ translate italian sm1mv02s10_sex_d40fa5f9:
 translate italian sm1mv02s10_sex_1e5427b6:
 
     # mct "Got to hold it in."
-    mct "Got to hold it in."
+    mct "Devo trattenerlo."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:898
 translate italian sm1mv02s10_sex_d0e1e1e3:
@@ -1316,13 +1316,13 @@ translate italian sm1mv02s10_sex_3745c0b8:
 translate italian sm1mv02s10_sex_c5592b84:
 
     # mh "What a juicy offering, Captain."
-    mh "What a juicy offering, Captain."
+    mh "Che offerta succosa, Capitano."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:930
 translate italian sm1mv02s10_sex_86d8dbd5:
 
     # sy "Hey! Aren't you forgetting about the director?"
-    sy "Hey! Aren't you forgetting about the director?"
+    sy "Ehi! Non ti stai dimenticando della regista?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:932
 translate italian sm1mv02s10_sex_45bca86c:
@@ -1334,7 +1334,7 @@ translate italian sm1mv02s10_sex_45bca86c:
 translate italian sm1mv02s10_sex_3123749e:
 
     # sy "I'm not mashing anything."
-    sy "I'm not mashing anything."
+    sy "Non sto schiacciando niente."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:937
 translate italian sm1mv02s10_sex_8e3c5400:
@@ -1346,7 +1346,7 @@ translate italian sm1mv02s10_sex_8e3c5400:
 translate italian sm1mv02s10_sex_86da6d74:
 
     # sy "You'd feel if I was-"
-    sy "You'd feel if I was-"
+    sy "Sentiresti se stessi-"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:946
 translate italian sm1mv02s10_sex_bdad02ad:
@@ -1358,25 +1358,25 @@ translate italian sm1mv02s10_sex_bdad02ad:
 translate italian sm1mv02s10_sex_ea85ec3a:
 
     # mc "Maybe we should bring Lieutenant Commander Orion back."
-    mc "Maybe we should bring Lieutenant Commander Orion back."
+    mc "Forse dovremmo riportare indietro il Tenente Comandante Orion."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:951
 translate italian sm1mv02s10_sex_374124d7:
 
     # mc "Give her a nice, long, punishment."
-    mc "Give her a nice, long, punishment."
+    mc "Darle una bella, lunga punizione."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:954
 translate italian sm1mv02s10_sex_ef0699d9:
 
     # sy "She doesn't deserve it."
-    sy "She doesn't deserve it."
+    sy "Non se lo merita."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:955
 translate italian sm1mv02s10_sex_106a2f75:
 
     # sy "But you know I don't mind."
-    sy "But you know I don't mind."
+    sy "Ma sai che non mi dispiace."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:959
 translate italian sm1mv02s10_sex_7b94a579:
@@ -1388,7 +1388,7 @@ translate italian sm1mv02s10_sex_7b94a579:
 translate italian sm1mv02s10_sex_1feda36f:
 
     # sy "Yes... Give it to me, Captain!"
-    sy "Yes... Give it to me, Captain!"
+    sy "Sì... Dammelo, Capitano!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:965
 translate italian sm1mv02s10_sex_0e0674fd:
@@ -1400,7 +1400,7 @@ translate italian sm1mv02s10_sex_0e0674fd:
 translate italian sm1mv02s10_sex_91ba49d9:
 
     # sy "So big... B-aahaaah."
-    sy "So big... B-aahaaah."
+    sy "Così grande... B-aahaaah."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:972
 translate italian sm1mv02s10_sex_e86977de_1:
@@ -1412,25 +1412,25 @@ translate italian sm1mv02s10_sex_e86977de_1:
 translate italian sm1mv02s10_sex_e46edc4b:
 
     # sy "Oh fuck. Fuck fuck... Gaa-huaah."
-    sy "Oh fuck. Fuck fuck... Gaa-huaah."
+    sy "Oh cazzo. Cazzo cazzo... Gaa-huaah."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:976
 translate italian sm1mv02s10_sex_fa24d33f:
 
     # sy "Oh captain my captain. My pussy's shields are failing."
-    sy "Oh captain my captain. My pussy's shields are failing."
+    sy "Oh capitano mio capitano. Gli scudi della mia figa stanno cedendo."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:985
 translate italian sm1mv02s10_sex_8df8bee6:
 
     # mc "Mhuaah... so tight. So wet."
-    mc "Mhuaah... so tight. So wet."
+    mc "Mhuaah... così stretta. Così bagnata."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:988
 translate italian sm1mv02s10_sex_bb738642:
 
     # sy "Give me all you've got!"
-    sy "Give me all you've got!"
+    sy "Dammi tutto quello che hai!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:991
 translate italian sm1mv02s10_sex_d6c6694f:
@@ -1442,25 +1442,25 @@ translate italian sm1mv02s10_sex_d6c6694f:
 translate italian sm1mv02s10_sex_613c5268:
 
     # sy "So fucking good-huaaah!"
-    sy "So fucking good-huaaah!"
+    sy "Così fottutamente bello-huaaah!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1007
 translate italian sm1mv02s10_sex_dbac7194:
 
     # sy "Time to tag-team our captain, doctor."
-    sy "Time to tag-team our captain, doctor."
+    sy "È ora di fare gioco di squadra con il nostro capitano, dottoressa."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1010
 translate italian sm1mv02s10_sex_749e9ae7:
 
     # ns "Delighted to, Stacy."
-    ns "Delighted to, Stacy."
+    ns "Sarò felice di farlo, Stacy."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1012
 translate italian sm1mv02s10_sex_fa7e1a01:
 
     # mc "Oh boy."
-    mc "Oh boy."
+    mc "Oh cavolo."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1023
 translate italian sm1mv02s10_sex_9a0f8a01:
@@ -1472,7 +1472,7 @@ translate italian sm1mv02s10_sex_9a0f8a01:
 translate italian sm1mv02s10_sex_ddebf36e:
 
     # mc "Nrrah... I might have bitten off more than I can chew."
-    mc "Nrrah... I might have bitten off more than I can chew."
+    mc "Nrrah... Potrei aver morso più di quanto possa masticare."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1027
 translate italian sm1mv02s10_sex_a0d6f35b:
@@ -1502,31 +1502,31 @@ translate italian sm1mv02s10_sex_end_23aa3b29:
 translate italian sm1mv02s10_sex_end_bead9acf:
 
     # sy "'Hmmm' what?"
-    sy "'Hmmm' what?"
+    sy "'Hmmm' cosa?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1065
 translate italian sm1mv02s10_sex_end_cb304a34:
 
     # mes "Just thinking that I can't wait for the next wrap party."
-    mes "Just thinking that I can't wait for the next wrap party."
+    mes "Stavo solo pensando che non vedo l'ora della prossima festa di fine riprese."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1068
 translate italian sm1mv02s10_sex_end_764ce2b9:
 
     # mes "With a little work, it might be as big as the Fetish Locator parties were..."
-    mes "With a little work, it might be as big as the Fetish Locator parties were..."
+    mes "Con un po' di lavoro, potrebbe essere grande quanto lo erano le feste di Fetish Locator..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1071
 translate italian sm1mv02s10_sex_end_f5682518:
 
     # mc "Sounds like the gauntlet has been tossed down."
-    mc "Sounds like the gauntlet has been tossed down."
+    mc "Sembra che il guanto di sfida sia stato lanciato."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1073
 translate italian sm1mv02s10_sex_end_0136cad0:
 
     # mes "Sharp as always, [mcname]..."
-    mes "Sharp as always, [mcname]..."
+    mes "Acuto come sempre, [mcname]..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1079
 translate italian sm1mv02s10_sex_end_3e964c88:
@@ -1544,61 +1544,61 @@ translate italian sm1mv02s10_sex_end_65145fad:
 translate italian sm1mv02s10_sex_end_38db7c30:
 
     # mc "Yeah, Lyssa."
-    mc "Yeah, Lyssa."
+    mc "Sì, Lyssa."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1087
 translate italian sm1mv02s10_sex_end_73ab6b2a:
 
     # mh "I'm sticky."
-    mh "I'm sticky."
+    mh "Sono appiccicosa."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1089
 translate italian sm1mv02s10_sex_end_11ac42a0:
 
     # mc "Occupational hazard for being so hot."
-    mc "Occupational hazard for being so hot."
+    mc "Rischio professionale per essere così sexy."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1092
 translate italian sm1mv02s10_sex_end_47c50abe:
 
     # mh "You know, if all of our watch parties are like this, you're going to have to invest in some stain proof furniture."
-    mh "You know, if all of our watch parties are like this, you're going to have to invest in some stain proof furniture."
+    mh "Sai, se tutte le nostre feste di visione sono così, dovrai investire in mobili antimacchia."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1094
 translate italian sm1mv02s10_sex_end_49e93d71:
 
     # mc "Not a bad idea."
-    mc "Not a bad idea."
+    mc "Non è una cattiva idea."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1097
 translate italian sm1mv02s10_sex_end_b065b15d:
 
     # mc "Does that mean you're down to star in more roles?"
-    mc "Does that mean you're down to star in more roles?"
+    mc "Significa che sei disposta a recitare in più ruoli?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1100
 translate italian sm1mv02s10_sex_end_5f6f07ee:
 
     # mh "You know I'm always here to help you, [mcname]."
-    mh "You know I'm always here to help you, [mcname]."
+    mh "Sai che sono sempre qui per aiutarti, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1101
 translate italian sm1mv02s10_sex_end_fc020ba6:
 
     # mh "But more specifically..."
-    mh "But more specifically..."
+    mh "Ma più specificamente..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1104
 translate italian sm1mv02s10_sex_end_cd94fc32:
 
     # mh "Yes{w}, I think I rather enjoyed being a special part of your skinflick feature."
-    mh "Yes{w}, I think I rather enjoyed being a special part of your skinflick feature."
+    mh "Sì{w}, penso che mi sia davvero piaciuto essere una parte speciale del tuo film erotico."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:1107
 translate italian sm1mv02s10_sex_end_49f56384:
 
     # mh "And I can't wait to see what you cook up next..."
-    mh "And I can't wait to see what you cook up next..."
+    mh "E non vedo l'ora di vedere cosa inventerai dopo..."
 
 translate italian strings:
 
