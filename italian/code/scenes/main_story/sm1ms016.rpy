@@ -458,7 +458,7 @@ translate italian sm1ms016_a516014d:
 translate italian sm1ms016_ce567898:
 
     # my "Good."
-    my "Good."
+    my "Bene."
 
 # game/code/scenes/main_story/sm1ms016.rpy:205
 translate italian sm1ms016_861022f9:

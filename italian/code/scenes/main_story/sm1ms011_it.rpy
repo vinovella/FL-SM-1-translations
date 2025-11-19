@@ -368,7 +368,7 @@ translate italian sm1ms011_it_continue_abe25c2f:
 translate italian sm1ms011_it_continue_a23917d6:
 
     # mc "What about her?"
-    mc "Che cosa c'è con lei?"
+    mc "Che c'è con lei?"
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:236
 translate italian sm1ms011_it_continue_20251c36:

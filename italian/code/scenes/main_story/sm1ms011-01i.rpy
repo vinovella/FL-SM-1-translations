@@ -128,7 +128,7 @@ translate italian sm1ms011_01i_it_job_dc16ebcd:
 translate italian sm1ms011_01i_it_job_74a6ce6d:
 
     # sy "Let me get my laptop."
-    sy "Lascia che prenda il mio laptop."
+    sy "Fammi prendere il mio laptop."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:78
 translate italian sm1ms011_01i_it_job_6c17550b:
@@ -158,7 +158,7 @@ translate italian sm1ms011_01i_it_job_85785fdb:
 translate italian sm1ms011_01i_it_job_7d3bfb8b:
 
     # mc "Let me give it a think."
-    mc "Lasciami pensarci."
+    mc "Fammi pensarci."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:90
 translate italian sm1ms011_01i_it_job_56230744:
@@ -194,7 +194,7 @@ translate italian sm1ms011_01i_th_job_dc16ebcd:
 translate italian sm1ms011_01i_th_job_74a6ce6d:
 
     # sy "Let me get my laptop."
-    sy "Lascia che prenda il mio laptop."
+    sy "Fammi prendere il mio laptop."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:118
 translate italian sm1ms011_01i_th_job_48f01058:
@@ -224,7 +224,7 @@ translate italian sm1ms011_01i_th_job_74c498aa:
 translate italian sm1ms011_01i_th_job_7d3bfb8b:
 
     # mc "Let me give it a think."
-    mc "Lasciami pensarci."
+    mc "Fammi pensarci."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:130
 translate italian sm1ms011_01i_th_job_56230744:
