@@ -308,7 +308,7 @@ translate italian sm1mv02s03_1_ba9a323b:
 translate italian sm1mv02s03_1_f7722d39:
 
     # sy "\"To be faaaaair!\""
-    sy "\"To be faaaaair!\""
+    sy "\"Per essere giuuuuusti!\""
 
 # game/code/scenes/movies/movie02/sm1mv02s03_1.rpy:229
 translate italian sm1mv02s03_1_ff6f4bb4:
@@ -470,7 +470,7 @@ translate italian sm1mv02s03_1_503d6bd1:
 translate italian sm1mv02s03_1_7ff8dc2b:
 
     # mc "Definitely \"we\"."
-    mc "Definitely \"we\"."
+    mc "Decisamente \"noi\"."
 
 # game/code/scenes/movies/movie02/sm1mv02s03_1.rpy:319
 translate italian sm1mv02s03_1_9d74ffe9:

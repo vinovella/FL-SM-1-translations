@@ -668,7 +668,7 @@ translate italian sm1mv02s05_89cae78c:
 translate italian sm1mv02s05_6651ab87:
 
     # mc "Alright."
-    mc "Alright."
+    mc "Va bene."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:400
 translate italian sm1mv02s05_128a537c:

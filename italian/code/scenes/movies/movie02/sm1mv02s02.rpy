@@ -284,7 +284,7 @@ translate italian sm1mv02s02_df779f8d:
 translate italian sm1mv02s02_6af2db45:
 
     # ns "That sounds awesome. I'd love to help you build it."
-    ns "That sounds awesome. I'd love to help you build it."
+    ns "Sembra fantastico. Mi piacerebbe aiutarti a costruirlo."
 
 # game/code/scenes/movies/movie02/sm1mv02s02.rpy:153
 translate italian sm1mv02s02_a64e8bc0:

@@ -206,7 +206,7 @@ translate italian sm1mv02s01_ab4475b0:
 translate italian sm1mv02s01_9ea5c75c:
 
     # sy "You'll see."
-    sy "You'll see."
+    sy "Vedrai."
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:166
 translate italian sm1mv02s01_a79da3c9:
@@ -236,7 +236,7 @@ translate italian sm1mv02s01_0115cce0:
 translate italian sm1mv02s01_9ea5c75c_1:
 
     # sy "You'll see."
-    sy "You'll see."
+    sy "Vedrai."
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:187
 translate italian sm1mv02s01_1ffdac60:
@@ -266,7 +266,7 @@ translate italian sm1mv02s01_53794b9b:
 translate italian sm1mv02s01_9ea5c75c_2:
 
     # sy "You'll see."
-    sy "You'll see."
+    sy "Vedrai."
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:201
 translate italian sm1mv02s01_d2cafec3:
