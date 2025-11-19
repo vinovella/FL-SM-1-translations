@@ -452,3 +452,11 @@
     old "Get [var]/9 Relationship Points with Maya"
     new "与玛雅获得[var]/9关系点数"
 
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Debbie about your next date in the park"
+    new "与黛比谈论你在公园的下一次约会"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Invite Debbie to the next date"
+    new "邀请黛比参加下一次约会"
+

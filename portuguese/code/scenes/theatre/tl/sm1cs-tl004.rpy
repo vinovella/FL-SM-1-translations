@@ -931,6 +931,6 @@ translate portuguese strings:
 translate portuguese strings:
 
     # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
-    old "You lost $[amount] to Taisia in a pool game."
-    new "You lost $[amount] to Taisia in a pool game."
+    old "You lost $[amount] to Taisia in a pool game"
+    new "You lost $[amount] to Taisia in a pool game"
 

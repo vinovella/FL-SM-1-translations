@@ -928,9 +928,7 @@ translate deutsch strings:
     old "You lost ${} to Taisia in a pool game."
     new "Du hast ${} bei einer Partie Billard an Taisia verloren."
 
-translate deutsch strings:
-
     # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
-    old "You lost $[amount] to Taisia in a pool game."
-    new "Du hast bei einer Partie Billard $[amount] an Taisia verloren."
+    old "You lost $[amount] to Taisia in a pool game"
+    new "Du hast bei einer Partie Billard $[amount] an Taisia verloren"
 

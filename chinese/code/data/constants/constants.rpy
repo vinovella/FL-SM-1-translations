@@ -188,3 +188,15 @@
     old "Sun"
     new "日"
 
+    # game/code/data/constants/constants.rpy:388
+    old "Book"
+    new "书籍"
+
+    # game/code/data/constants/constants.rpy:389
+    old "Magazine"
+    new "杂志"
+
+    # game/code/data/constants/constants.rpy:398
+    old "Energy drink"
+    new "能量饮料"
+

@@ -982,6 +982,12 @@ translate chinese sm1ms028_location_change_306afde4:
     # sy "I can't wait!"
     sy "我等不及了！"
 
+# game/code/scenes/main_story/sm1ms028.rpy:114
+translate chinese sm1ms028_dress_change_d5624f26:
+
+    # mc "Never mind, we dont have time to change."
+    mc "算了，我们没时间换衣服了。"
+
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms028.rpy:348
@@ -996,9 +1002,11 @@ translate chinese strings:
     old "We're going to be rich!"
     new "我们要发财了！"
 
-# game/code/scenes/main_story/sm1ms028.rpy:114
-translate chinese sm1ms028_dress_change_d5624f26:
+    # game/code/scenes/main_story/sm1ms028.rpy:372
+    old "Signup bonus from Porn Cave"
+    new "来自色情洞穴的注册奖金"
 
-    # mc "Never mind, we dont have time to change."
-    mc "算了，我们没时间换衣服了。"
+    # game/code/scenes/main_story/sm1ms028.rpy:372
+    old "You got $500 as your signup bonus from Porn Cave"
+    new "你获得了来自色情洞穴的500美元注册奖金"
 

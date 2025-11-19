@@ -40,3 +40,7 @@
     old "Day: [gt.get_day_number()]"
     new "第[gt.get_day_number()]天"
 
+    # game/code/renpy/screens/phone.rpy:77
+    old "Save for Season 2"
+    new "保存第二季"
+

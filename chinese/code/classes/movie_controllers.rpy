@@ -88,3 +88,7 @@
     old "Spend [amount] Energy in [energy_name!t]"
     new "在 [energy_name!t] 中消耗 [amount] 能量"
 
+    # game/code/classes/movie_controllers.rpy:115
+    old "Pirate movie"
+    new "海盗电影"
+

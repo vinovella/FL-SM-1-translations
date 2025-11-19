@@ -5,6 +5,7 @@
     new "您已经从这本杂志中学到了所有内容"
 
     # game/code/classes/it_controller.rpy:43
-    old "Orbix Salary ([days] days)"
+    old "Orbix salary ([days] days)"
     new "Orbix 薪资 ([days] 天)"
+
 

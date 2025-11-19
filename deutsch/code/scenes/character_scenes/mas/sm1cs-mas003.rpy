@@ -1709,8 +1709,8 @@ translate deutsch strings:
     new "Wurst Delivery Trinkgeld"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a $[amount] as your cut of the tip."
-    new "Du hast $[amount] als deinen Anteil am Trinkgeld bekommen."
+    old "You got a $[amount] as your cut of the tip"
+    new "Du hast $[amount] als deinen Anteil am Trinkgeld bekommen"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
 translate deutsch sm1cs_mas003_third_delivery_fedc52e9:

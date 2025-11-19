@@ -1709,8 +1709,8 @@ translate turkish strings:
     new "Wurst Delivery tip"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a $[amount] as your cut of the tip."
-    new "You got a $[amount] as your cut of the tip."
+    old "You got a $[amount] as your cut of the tip"
+    new "You got a $[amount] as your cut of the tip"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
 translate turkish sm1cs_mas003_third_delivery_fedc52e9:

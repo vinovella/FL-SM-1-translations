@@ -48,3 +48,7 @@
     old "Would you like to enable this data collection?"
     new "您想启用此数据收集吗？"
 
+    # game/code/renpy/screens/others.rpy:163
+    old "How do you want to name your Season 2 save?"
+    new "您想如何命名您的第二季存档？"
+

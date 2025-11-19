@@ -670,3 +670,9 @@ translate chinese sm1xc_ns_tl_001_73b4fefc:
     # ns "*nod and smiles* Yes. Definitely in a good way."
     ns "*点头并微笑* 是的。绝对是好的方面。"
 
+# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:191
+translate chinese sm1xc_ns_tl_001_4da1f062:
+
+    # "[mcname] and Taisia" "Hahaha."
+    "[mcname] and Taisia" "Hahaha."
+

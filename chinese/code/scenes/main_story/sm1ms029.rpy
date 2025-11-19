@@ -22,3 +22,15 @@ translate chinese sm1ms029_confrontation_3670d210:
     # mc "He thinks he can come in and try to scare us?"
     mc "He thinks he can come in and try to scare us?"
 
+# game/code/scenes/main_story/sm1ms029.rpy:618
+translate chinese sm1ms029_party_mes_d6798e52:
+
+    # mes "I see you two were paying attention!"
+    mes "I see you two were paying attention!"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1365
+translate chinese sm1ms029_talk_kv_hr_arj_c8a218be:
+
+    # mc "She's a worry wort."
+    mc "She's a worry wort."
+

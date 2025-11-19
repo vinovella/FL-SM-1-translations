@@ -472,3 +472,7 @@
     old "Purchase An Actor Prepares for $60"
     new "购买演员的准备，价格 $60"
 
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ask Debbie to the movies"
+    new "邀请黛比去看电影"
+

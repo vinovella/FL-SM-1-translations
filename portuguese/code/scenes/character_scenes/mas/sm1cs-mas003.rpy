@@ -1709,8 +1709,8 @@ translate portuguese strings:
     new "Gorjeta da Wurst Delivery"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a $[amount] as your cut of the tip."
-    new "Você ganhou $[amount] como parte da gorjeta."
+    old "You got a $[amount] as your cut of the tip"
+    new "Você ganhou $[amount] como parte da gorjeta"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
 translate portuguese sm1cs_mas003_third_delivery_fedc52e9:

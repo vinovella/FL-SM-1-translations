@@ -1713,6 +1713,6 @@ translate chinese strings:
     new "Wurst Delivery 小费"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a $[amount] as your cut of the tip."
-    new "你得到了$[amount]作为你应得的小费。"
+    old "You got a $[amount] as your cut of the tip"
+    new "你得到了$[amount]作为你应得的小费"
 
