@@ -320,7 +320,7 @@ translate italian sm1mv01s10_c5669d75:
 translate italian sm1mv01s10_f6e5323d:
 
     # tl "How long do you think that's going to take?"
-    tl "How long do you think that's going to take?"
+    tl "Quanto tempo pensi che ci vorrà?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:180
 translate italian sm1mv01s10_a2b39b3f:
@@ -338,7 +338,7 @@ translate italian sm1mv01s10_1e1dd51c:
 translate italian sm1mv01s10_b6c392ef:
 
     # sy "When we get back, talk with me and I'll have you help me with editing."
-    sy "When we get back, talk with me and I'll have you help me with editing."
+    sy "Quando torniamo, parla con me e ti farò aiutare con il montaggio."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:187
 translate italian sm1mv01s10_9e829312:
@@ -350,37 +350,37 @@ translate italian sm1mv01s10_9e829312:
 translate italian sm1mv01s10_449b6482:
 
     # sy "But, now it's time to relax..."
-    sy "But, now it's time to relax..."
+    sy "Ma, ora è il momento di rilassarsi..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:196
 translate italian sm1mv01s10_3ddc67bc:
 
     # sy "I can finally enjoy all the post orgasm bliss from getting fucked all day."
-    sy "I can finally enjoy all the post orgasm bliss from getting fucked all day."
+    sy "Finalmente posso godermi tutta la beatitudine post-orgasmica dopo essere stata scopata tutto il giorno."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:198
 translate italian sm1mv01s10_8728c81d:
 
     # mc "You held out that long?"
-    mc "You held out that long?"
+    mc "Hai resistito così tanto?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:201
 translate italian sm1mv01s10_d8d79950:
 
     # sy "I had things I had to do!"
-    sy "I had things I had to do!"
+    sy "Avevo cose da fare!"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:202
 translate italian sm1mv01s10_b529ebd8:
 
     # sy "But now..."
-    sy "But now..."
+    sy "Ma ora..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:206
 translate italian sm1mv01s10_5db0e73d:
 
     # sy "Now I can enjoy the last bit of our trip."
-    sy "Now I can enjoy the last bit of our trip."
+    sy "Ora posso godermi l'ultima parte del nostro viaggio."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:208
 translate italian sm1mv01s10_91cfbd65:
