@@ -248,7 +248,7 @@ translate italian sm1mv02s04_89030d48:
 translate italian sm1mv02s04_3e529961:
 
     # mc "Hey everyone. Your fearless leader has arrived."
-    mc "Hey everyone. Your fearless leader has arrived."
+    mc "Ehi a tutti. Il vostro leader senza paura è arrivato."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:146
 translate italian sm1mv02s04_113de99e:
@@ -266,7 +266,7 @@ translate italian sm1mv02s04_27699e55:
 translate italian sm1mv02s04_3e529961_1:
 
     # mc "Hey everyone. Your fearless leader has arrived."
-    mc "Hey everyone. Your fearless leader has arrived."
+    mc "Ehi a tutti. Il vostro leader senza paura è arrivato."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:158
 translate italian sm1mv02s04_70f29d4b:
@@ -284,7 +284,7 @@ translate italian sm1mv02s04_c365e39a:
 translate italian sm1mv02s04_e140f834:
 
     # mc "I almost forgot."
-    mc "I almost forgot."
+    mc "Quasi dimenticavo."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:169
 translate italian sm1mv02s04_1f8570fb:
@@ -350,7 +350,7 @@ translate italian sm1mv02s04_66fad05b:
 translate italian sm1mv02s04_e140f834_1:
 
     # mc "I almost forgot."
-    mc "I almost forgot."
+    mc "Quasi dimenticavo."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:193
 translate italian sm1mv02s04_8320734d:
@@ -908,43 +908,43 @@ translate italian sm1mv02s04_later_6c11b34d:
 translate italian sm1mv02s04_later_d91d57e6:
 
     # sy "*giggles*"
-    sy "*giggles*"
+    sy "*risatine*"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:504
 translate italian sm1mv02s04_later_a884c6d5:
 
     # sy "Alright. Scene Four. Interior {i}Intrepid{/i} Bridge."
-    sy "Alright. Scene Four. Interior {i}Intrepid{/i} Bridge."
+    sy "Va bene. Scena Quattro. Interno Ponte {i}Intrepid{/i}."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:507
 translate italian sm1mv02s04_later_f090024c:
 
     # mc "Status report Number One."
-    mc "Status report Number One."
+    mc "Rapporto della situazione Numero Uno."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:509
 translate italian sm1mv02s04_later_968164cd:
 
     # sy "The ship is still in orbit over Planet Vemtyral."
-    sy "The ship is still in orbit over Planet Vemtyral."
+    sy "La nave è ancora in orbita sul Pianeta Vemtyral."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:510
 translate italian sm1mv02s04_later_3623d932:
 
     # sy "The ion storm is getting closer, but should pass us without complication."
-    sy "The ion storm is getting closer, but should pass us without complication."
+    sy "La tempesta ionica si sta avvicinando, ma dovrebbe passarci senza complicazioni."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:511
 translate italian sm1mv02s04_later_c22c9be8:
 
     # mc "Good, Commander Orion."
-    mc "Good, Commander Orion."
+    mc "Bene, Comandante Orion."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:515
 translate italian sm1mv02s04_later_ade3e0c2:
 
     # mc "Lieutenant Spectre, how's that cure coming along?"
-    mc "Lieutenant Spectre, how's that cure coming along?"
+    mc "Tenente Spectre, come procede quella cura?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:519
 translate italian sm1mv02s04_later_647d5c1b:

@@ -536,7 +536,7 @@ translate italian sm1mv02s03_2_b3bdd7a5:
 translate italian sm1mv02s03_2_57395b5c:
 
     # sy "Then don't say crazy things like \"my logic is undeniable\"."
-    sy "Then don't say crazy things like \"my logic is undeniable\"."
+    sy "Allora non dire cose folli come \"la mia logica è innegabile\"."
 
 # game/code/scenes/movies/movie02/sm1mv02s03_2.rpy:355
 translate italian sm1mv02s03_2_a0241f40:

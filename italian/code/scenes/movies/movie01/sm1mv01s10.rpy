@@ -140,169 +140,169 @@ translate italian sm1mv01s10_a4cd1341:
 translate italian sm1mv01s10_38673b6e:
 
     # tl "That was fucking awful, [mcname]."
-    tl "That was fucking awful, [mcname]."
+    tl "È stato terribile, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:81
 translate italian sm1mv01s10_458f085e:
 
     # kv "Seriously, talk about cringe-"
-    kv "Seriously, talk about cringe-"
+    kv "Sul serio, che imbarazzo-"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:85
 translate italian sm1mv01s10_65e8e6c8:
 
     # sy "It's done!"
-    sy "It's done!"
+    sy "È fatto!"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:88
 translate italian sm1mv01s10_e1b52e91:
 
     # sy "Hot damn, it's all transferred!"
-    sy "Hot damn, it's all transferred!"
+    sy "Accidenti, è tutto trasferito!"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:89
 translate italian sm1mv01s10_e86be4f0:
 
     # sy "Now, I just need to check all of the footage."
-    sy "Now, I just need to check all of the footage."
+    sy "Ora, devo solo controllare tutto il girato."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:92
 translate italian sm1mv01s10_be11f870:
 
     # tl "... Can we see some of it?"
-    tl "... Can we see some of it?"
+    tl "... Possiamo vederne un po'?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:94
 translate italian sm1mv01s10_be07bbfb:
 
     # sy "Of course!"
-    sy "Of course!"
+    sy "Certo!"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:98
 translate italian sm1mv01s10_c03b7b41:
 
     # mc "Wait, me too?"
-    mc "Wait, me too?"
+    mc "Aspetta, anche io?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:100
 translate italian sm1mv01s10_0ad60682:
 
     # sy "No, [mcname]. You can't see any of it."
-    sy "No, [mcname]. You can't see any of it."
+    sy "No, [mcname]. Non puoi vederne niente."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:102
 translate italian sm1mv01s10_7168d4f3:
 
     # mc "What!"
-    mc "What!"
+    mc "Cosa!"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:105
 translate italian sm1mv01s10_dddae73f:
 
     # sy "I'm joking, come over here, you doofus."
-    sy "I'm joking, come over here, you doofus."
+    sy "Sto scherzando, vieni qui, stupido."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:112
 translate italian sm1mv01s10_0bfd6888:
 
     # sy "Okay, sick... looking good..."
-    sy "Okay, sick... looking good..."
+    sy "Okay, fichissimo... sembra buono..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:117
 translate italian sm1mv01s10_80663cf1:
 
     # tl "Ooo, looking good, Stacy."
-    tl "Ooo, looking good, Stacy."
+    tl "Ooo, sembra buono, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:119
 translate italian sm1mv01s10_a1aa620c:
 
     # sy "Thanks, Taisia!"
-    sy "Thanks, Taisia!"
+    sy "Grazie, Taisia!"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:126
 translate italian sm1mv01s10_82d7c1bf:
 
     # sy "And here's where we started the sexy bits..."
-    sy "And here's where we started the sexy bits..."
+    sy "E qui è dove abbiamo iniziato le parti sexy..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:129
 translate italian sm1mv01s10_b7c5bfca:
 
     # kv "This was hot."
-    kv "This was hot."
+    kv "Questo era eccitante."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:131
 translate italian sm1mv01s10_f1530775:
 
     # mc "Yes, it was."
-    mc "Yes, it was."
+    mc "Sì, lo era."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:136
 translate italian sm1mv01s10_0f0fbbdf:
 
     # tl "Oooo, I like that."
-    tl "Oooo, I like that."
+    tl "Oooo, mi piace."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:138
 translate italian sm1mv01s10_665e32eb:
 
     # sy "Believe me, I did too."
-    sy "Believe me, I did too."
+    sy "Credimi, anche a me."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:141
 translate italian sm1mv01s10_73eea63a:
 
     # sy "But, let's check the next stuff..."
-    sy "But, let's check the next stuff..."
+    sy "Ma, controlliamo la roba successiva..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:148
 translate italian sm1mv01s10_4c43d852:
 
     # sy "Looking good, looking good..."
-    sy "Looking good, looking good..."
+    sy "Sembra buono, sembra buono..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:151
 translate italian sm1mv01s10_0945de23:
 
     # kv "And you're going to color grade this?"
-    kv "And you're going to color grade this?"
+    kv "E farai la correzione colore di questo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:153
 translate italian sm1mv01s10_3a41c5e6:
 
     # sy "Yep!"
-    sy "Yep!"
+    sy "Sì!"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:158
 translate italian sm1mv01s10_0bd16d9f:
 
     # sy "All right, and the porn part of the movie..."
-    sy "All right, and the porn part of the movie..."
+    sy "Va bene, e la parte porno del film..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:161
 translate italian sm1mv01s10_536aae77:
 
     # kv "This was also hot."
-    kv "This was also hot."
+    kv "Anche questo era eccitante."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:163
 translate italian sm1mv01s10_2b1d1b98:
 
     # mc "Also, agree."
-    mc "Also, agree."
+    mc "Anche io sono d'accordo."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:166
 translate italian sm1mv01s10_4ca4bfa4:
 
     # tl "Mmmm... I'm going to need a copy of this movie."
-    tl "Mmmm... I'm going to need a copy of this movie."
+    tl "Mmmm... Avrò bisogno di una copia di questo film."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:168
 translate italian sm1mv01s10_f99a0f21:
 
     # sy "Don't worry, I'll make a few for us to... have."
-    sy "Don't worry, I'll make a few for us to... have."
+    sy "Non preoccuparti, ne farò qualcuno per noi da... avere."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:170
 translate italian sm1mv01s10_ab5121a6:
@@ -314,73 +314,73 @@ translate italian sm1mv01s10_ab5121a6:
 translate italian sm1mv01s10_c5669d75:
 
     # sy "Looks like everything worked out! Now I just need to make a few copies of the footage, and I can get working on the edit!"
-    sy "Looks like everything worked out! Now I just need to make a few copies of the footage, and I can get working on the edit!"
+    sy "Sembra che tutto sia andato bene! Ora devo solo fare qualche copia del girato, e posso mettermi a lavorare sul montaggio!"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:177
 translate italian sm1mv01s10_f6e5323d:
 
     # tl "How long do you think that's going to take?"
-    tl "How long do you think that's going to take?"
+    tl "Quanto tempo pensi che ci vorrà?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:180
 translate italian sm1mv01s10_a2b39b3f:
 
     # sy "Uhm... probably a few weeks?"
-    sy "Uhm... probably a few weeks?"
+    sy "Uhm... probabilmente qualche settimana?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:181
 translate italian sm1mv01s10_1e1dd51c:
 
     # sy "But it'll go a lot faster if you help me."
-    sy "But it'll go a lot faster if you help me."
+    sy "Ma andrà molto più veloce se mi aiuti."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:185
 translate italian sm1mv01s10_b6c392ef:
 
     # sy "When we get back, talk with me and I'll have you help me with editing."
-    sy "When we get back, talk with me and I'll have you help me with editing."
+    sy "Quando torniamo, parla con me e ti farò aiutare con il montaggio."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:187
 translate italian sm1mv01s10_9e829312:
 
     # mc "Sounds good, Stacy."
-    mc "Sounds good, Stacy."
+    mc "Sembra buono, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:192
 translate italian sm1mv01s10_449b6482:
 
     # sy "But, now it's time to relax..."
-    sy "But, now it's time to relax..."
+    sy "Ma, ora è il momento di rilassarsi..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:196
 translate italian sm1mv01s10_3ddc67bc:
 
     # sy "I can finally enjoy all the post orgasm bliss from getting fucked all day."
-    sy "I can finally enjoy all the post orgasm bliss from getting fucked all day."
+    sy "Finalmente posso godermi tutta la beatitudine post-orgasmica dopo essere stata scopata tutto il giorno."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:198
 translate italian sm1mv01s10_8728c81d:
 
     # mc "You held out that long?"
-    mc "You held out that long?"
+    mc "Hai resistito così tanto?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:201
 translate italian sm1mv01s10_d8d79950:
 
     # sy "I had things I had to do!"
-    sy "I had things I had to do!"
+    sy "Avevo cose da fare!"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:202
 translate italian sm1mv01s10_b529ebd8:
 
     # sy "But now..."
-    sy "But now..."
+    sy "Ma ora..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:206
 translate italian sm1mv01s10_5db0e73d:
 
     # sy "Now I can enjoy the last bit of our trip."
-    sy "Now I can enjoy the last bit of our trip."
+    sy "Ora posso godermi l'ultima parte del nostro viaggio."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:208
 translate italian sm1mv01s10_91cfbd65:

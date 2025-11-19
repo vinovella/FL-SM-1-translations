@@ -668,7 +668,7 @@ translate italian sm1mv02s05_89cae78c:
 translate italian sm1mv02s05_6651ab87:
 
     # mc "Alright."
-    mc "Alright."
+    mc "Va bene."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:400
 translate italian sm1mv02s05_128a537c:
@@ -1184,7 +1184,7 @@ translate italian sm1mv02s05_movie_start_a6bdbcf9:
 translate italian sm1mv02s05_movie_start_525d4e77:
 
     # sy "Team?"
-    sy "Team?"
+    sy "Squadra?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:832
 translate italian sm1mv02s05_movie_start_9fc5b6c7:
@@ -1202,19 +1202,19 @@ translate italian sm1mv02s05_movie_start_63d66d65:
 translate italian sm1mv02s05_movie_start_881e1ab2:
 
     # mc "Impressive."
-    mc "Impressive."
+    mc "Impressionante."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:839
 translate italian sm1mv02s05_movie_start_03988bca:
 
     # ns "Well, surely not to you. You come from the stars, I imagine."
-    ns "Well, surely not to you. You come from the stars, I imagine."
+    ns "Beh, sicuramente non per voi. Venite dalle stelle, immagino."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:842
 translate italian sm1mv02s05_movie_start_d098822a:
 
     # sy "Yes, but you're taking that all rather well."
-    sy "Yes, but you're taking that all rather well."
+    sy "Sì, ma la stai prendendo piuttosto bene."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:845
 translate italian sm1mv02s05_movie_start_29ace966:
