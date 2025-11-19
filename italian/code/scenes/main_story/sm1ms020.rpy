@@ -524,7 +524,7 @@ translate italian sm1ms020_228780ff:
 translate italian sm1ms020_4c1aee4b:
 
     # mc "I don't know, Stacy..."
-    mc "I don't know, Stacy..."
+    mc "Non lo so, Stacy..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:275
 translate italian sm1ms020_e946b619:
@@ -674,7 +674,7 @@ translate italian sm1ms020_11b82db9:
 translate italian sm1ms020_4c1aee4b_1:
 
     # mc "I don't know, Stacy..."
-    mc "I don't know, Stacy..."
+    mc "Non lo so, Stacy..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:343
 translate italian sm1ms020_a46055c8:

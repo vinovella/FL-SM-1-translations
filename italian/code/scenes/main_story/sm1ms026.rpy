@@ -182,7 +182,7 @@ translate italian sm1ms026_pirates_96bd79f2:
 translate italian sm1ms026_pirates_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:162
 translate italian sm1ms026_pirates_e9c15fc9:
@@ -836,7 +836,7 @@ translate italian sm1ms026_end_ce116a80:
 translate italian sm1ms026_end_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:408
 translate italian sm1ms026_end_76bc562e:

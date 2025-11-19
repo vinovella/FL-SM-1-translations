@@ -506,7 +506,7 @@ translate italian sm1ms024_65534fec:
 translate italian sm1ms024_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "Cosa?"
 
 # game/code/scenes/main_story/sm1ms024.rpy:249
 translate italian sm1ms024_fcda8cc6:
