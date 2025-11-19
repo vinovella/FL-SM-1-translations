@@ -80,13 +80,13 @@ translate italian sm1mv02s07a_2i_d203627e:
 translate italian sm1mv02s07a_2i_c40fd222:
 
     # ns "I shouldn't go if she just wants to spend time with you."
-    ns "I shouldn't go if she just wants to spend time with you."
+    ns "Non dovrei andare se vuole solo passare del tempo con te."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a_2i.rpy:35
 translate italian sm1mv02s07a_2i_d8d95150:
 
     # mc "That is not the case. She actually wants to get to know you a little better."
-    mc "That is not the case. She actually wants to get to know you a little better."
+    mc "Non è questo il caso. In realtà vuole conoscerti un po' meglio."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a_2i.rpy:39
 translate italian sm1mv02s07a_2i_c15e61b8:

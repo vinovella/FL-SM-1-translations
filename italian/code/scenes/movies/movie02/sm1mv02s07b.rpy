@@ -1244,7 +1244,7 @@ translate italian sm1mv02s07b_watersports_242a1aa1:
 translate italian sm1mv02s07b_watersports_383d7f94:
 
     # mh "Every drop... just like a good girl."
-    mh "Every drop... just like a good girl."
+    mh "Ogni goccia... proprio come una brava ragazza."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:630
 translate italian sm1mv02s07b_watersports_2dbf2dea:
@@ -1316,7 +1316,7 @@ translate italian sm1mv02s07b_watersports_ddd533de:
 translate italian sm1mv02s07b_watersports_991b61c7:
 
     # ns "Oh, it feels - oh, Lyssa! [mcname]!"
-    ns "Oh, it feels - oh, Lyssa! [mcname]!"
+    ns "Oh, si sente - oh, Lyssa! [mcname]!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:659
 translate italian sm1mv02s07b_watersports_66a445e9:
@@ -1382,25 +1382,25 @@ translate italian sm1mv02s07b_watersports_4c89d439:
 translate italian sm1mv02s07b_watersports_c0dab57e:
 
     # mc "Damn, Nari..."
-    mc "Damn, Nari..."
+    mc "Dannazione, Nari..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:695
 translate italian sm1mv02s07b_watersports_489964b7:
 
     # mh "I have the exact same sentiment."
-    mh "I have the exact same sentiment."
+    mh "Ho esattamente lo stesso sentimento."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:696
 translate italian sm1mv02s07b_watersports_0c1cc558:
 
     # mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
-    mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
+    mh "Sei una donna davvero straordinaria, Nari. E sono felice di fare la tua conoscenza."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:700
 translate italian sm1mv02s07b_watersports_3a04ebe1:
 
     # ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
-    ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
+    ns "Grazie, Lyssa. Ma sembra che mi sia sporcata, e dovrei andare a pulirmi."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:701
 translate italian sm1mv02s07b_watersports_bbbc5a5f:
@@ -1460,25 +1460,25 @@ translate italian sm1mv02s07b_no_watersports_5e770005:
 translate italian sm1mv02s07b_no_watersports_c0dab57e:
 
     # mc "Damn, Nari..."
-    mc "Damn, Nari..."
+    mc "Dannazione, Nari..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:750
 translate italian sm1mv02s07b_no_watersports_489964b7:
 
     # mh "I have the exact same sentiment."
-    mh "I have the exact same sentiment."
+    mh "Ho esattamente lo stesso sentimento."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:751
 translate italian sm1mv02s07b_no_watersports_0c1cc558:
 
     # mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
-    mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
+    mh "Sei una donna davvero straordinaria, Nari. E sono felice di fare la tua conoscenza."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:755
 translate italian sm1mv02s07b_no_watersports_3a04ebe1:
 
     # ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
-    ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
+    ns "Grazie, Lyssa. Ma sembra che mi sia sporcata, e dovrei andare a pulirmi."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:756
 translate italian sm1mv02s07b_no_watersports_2b575dc3:
@@ -1508,7 +1508,7 @@ translate italian sm1mv02s07b_end_8d0f7581:
 translate italian sm1mv02s07b_end_570842f8:
 
     # mh "Same."
-    mh "Same."
+    mh "Anche io."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:783
 translate italian sm1mv02s07b_end_e9bed104:

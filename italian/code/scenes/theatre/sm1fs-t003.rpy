@@ -176,7 +176,7 @@ translate italian sm1fs_t003_ca4a336b:
 translate italian sm1fs_t003_e52c461b:
 
     # dvh "*Quietly* Als ik deze toneelschrijver ooit ontmoet, beloof ik dat ik zijn tong door zijn kont naar buiten zal trekken..."
-    dvh "*Quietly* Als ik deze toneelschrijver ooit ontmoet, beloof ik dat ik zijn tong door zijn kont naar buiten zal trekken..."
+    dvh "*Sottovoce* Se incontrerò mai questo sceneggiatore, prometto che gli tirerò fuori la lingua dal culo..."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:126
 translate italian sm1fs_t003_054fda02:
@@ -566,7 +566,7 @@ translate italian sm1fs_t003_035c3355:
 translate italian sm1fs_t003_8cc105c3:
 
     # mc "I guess so."
-    mc "I guess so."
+    mc "Immagino di sì."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:313
 translate italian sm1fs_t003_9fd96ea3:
