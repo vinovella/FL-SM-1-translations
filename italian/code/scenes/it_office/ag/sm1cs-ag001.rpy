@@ -608,7 +608,7 @@ translate italian sm1cs_ag001_next_choice_7c1672a3:
 translate italian sm1cs_ag001_next_choice_2d6a04a5_1:
 
     # ag "Next question."
-    ag "Next question."
+    ag "Prossima domanda."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:375
 translate italian sm1cs_ag001_continue_8becb149:
