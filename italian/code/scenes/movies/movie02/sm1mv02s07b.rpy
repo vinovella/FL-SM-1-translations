@@ -1244,7 +1244,7 @@ translate italian sm1mv02s07b_watersports_242a1aa1:
 translate italian sm1mv02s07b_watersports_383d7f94:
 
     # mh "Every drop... just like a good girl."
-    mh "Every drop... just like a good girl."
+    mh "Ogni goccia... proprio come una brava ragazza."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:630
 translate italian sm1mv02s07b_watersports_2dbf2dea:
@@ -1316,7 +1316,7 @@ translate italian sm1mv02s07b_watersports_ddd533de:
 translate italian sm1mv02s07b_watersports_991b61c7:
 
     # ns "Oh, it feels - oh, Lyssa! [mcname]!"
-    ns "Oh, it feels - oh, Lyssa! [mcname]!"
+    ns "Oh, si sente - oh, Lyssa! [mcname]!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:659
 translate italian sm1mv02s07b_watersports_66a445e9:
