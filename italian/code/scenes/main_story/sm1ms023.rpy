@@ -26,7 +26,7 @@ translate italian sm1ms023_3066aa7e:
 translate italian sm1ms023_ece16b55:
 
     # sy "But..."
-    sy "But..."
+    sy "Ma..."
 
 # game/code/scenes/main_story/sm1ms023.rpy:27
 translate italian sm1ms023_7520b211:

@@ -170,7 +170,7 @@ translate italian sm1ms026_pirates_54a6281f:
 translate italian sm1ms026_pirates_b13b386c:
 
     # sy "Oh yeah?"
-    sy "Oh yeah?"
+    sy "Oh sì?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:156
 translate italian sm1ms026_pirates_96bd79f2:
@@ -218,7 +218,7 @@ translate italian sm1ms026_pirates_b923ef69:
 translate italian sm1ms026_pirates_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "Oh yeah?"
+    mc "Oh sì?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:181
 translate italian sm1ms026_pirates_e3d1e94f:
@@ -434,7 +434,7 @@ translate italian sm1ms026_scifi_83f70028:
 translate italian sm1ms026_scifi_63a9e153:
 
     # sy "What do you mean?"
-    sy "What do you mean?"
+    sy "Cosa intendi?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:280
 translate italian sm1ms026_scifi_3bd0aecf:
@@ -566,7 +566,7 @@ translate italian sm1ms026_scifi_d7d3ee77:
 translate italian sm1ms026_scifi_3bbcf026:
 
     # mc "Oh man, Min would probably be great for this."
-    mc "Oh man, Min would probably be great for this."
+    mc "Oh cavolo, Min sarebbe probabilmente perfetta per questo."
 
 # game/code/scenes/main_story/sm1ms026.rpy:333
 translate italian sm1ms026_scifi_4f79867b:
@@ -578,7 +578,7 @@ translate italian sm1ms026_scifi_4f79867b:
 translate italian sm1ms026_scifi_bc0a5736:
 
     # mc "You remember, she was the host for the Fetish Locator Parties."
-    mc "You remember, she was the host for the Fetish Locator Parties."
+    mc "Ricordi, era la presentatrice delle Feste di Fetish Locator."
 
 # game/code/scenes/main_story/sm1ms026.rpy:336
 translate italian sm1ms026_scifi_45902eaf:
@@ -602,7 +602,7 @@ translate italian sm1ms026_scifi_dd809da1:
 translate italian sm1ms026_scifi_3bbcf026_1:
 
     # mc "Oh man, Min would probably be great for this."
-    mc "Oh man, Min would probably be great for this."
+    mc "Oh cavolo, Min sarebbe probabilmente perfetta per questo."
 
 # game/code/scenes/main_story/sm1ms026.rpy:342
 translate italian sm1ms026_scifi_4f79867b_1:
@@ -614,7 +614,7 @@ translate italian sm1ms026_scifi_4f79867b_1:
 translate italian sm1ms026_scifi_bc0a5736_1:
 
     # mc "You remember, she was the host for the Fetish Locator Parties."
-    mc "You remember, she was the host for the Fetish Locator Parties."
+    mc "Ricordi, era la presentatrice delle Feste di Fetish Locator."
 
 # game/code/scenes/main_story/sm1ms026.rpy:345
 translate italian sm1ms026_scifi_25069130:

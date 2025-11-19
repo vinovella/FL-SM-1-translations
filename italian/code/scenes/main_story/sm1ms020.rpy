@@ -134,7 +134,7 @@ translate italian sm1ms020_9ea5c75c:
 translate italian sm1ms020_29b8ea4e:
 
     # my "Aye yi yi..."
-    my "Aye yi yi..."
+    my "Ahi ahi ahi..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:80
 translate italian sm1ms020_956cd6bb:
@@ -170,7 +170,7 @@ translate italian sm1ms020_ae1edb5d:
 translate italian sm1ms020_5ef2d3d9:
 
     # sy "Tadaaaaa!"
-    sy "Tadaaaaa!"
+    sy "Eccoooo!"
 
 # game/code/scenes/main_story/sm1ms020.rpy:105
 translate italian sm1ms020_b77ecb7e:
