@@ -454,12 +454,6 @@ translate turkish sm1ms029_talk_kv_hr_arj_3afd49eb:
     # kv "And she wanted me to make sure that you weren't overeating."
     kv "Ve aşırı yemediğinden emin olmamı istedi."
 
-# game/code/scenes/main_story/sm1ms029.rpy:962
-translate turkish sm1ms029_talk_kv_hr_arj_57ee03b8:
-
-    # sy "She's a worry wort."
-    sy "O endişeli bir kadın."
-
 # game/code/scenes/main_story/sm1ms029.rpy:964
 translate turkish sm1ms029_talk_kv_hr_arj_01bf40f5:
 

@@ -466,12 +466,6 @@ translate chinese sm1ms029_talk_kv_hr_arj_3afd49eb:
     # kv "And she wanted me to make sure that you weren't overeating."
     kv "她想让我确保你没有吃太多。"
 
-# game/code/scenes/main_story/sm1ms029.rpy:962
-translate chinese sm1ms029_talk_kv_hr_arj_57ee03b8:
-
-    # sy "She's a worry wort."
-    sy "她是个爱操心的人。"
-
 # game/code/scenes/main_story/sm1ms029.rpy:964
 translate chinese sm1ms029_talk_kv_hr_arj_01bf40f5:
 

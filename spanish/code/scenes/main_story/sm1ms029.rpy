@@ -742,12 +742,6 @@ translate spanish sm1ms029_party_tl_2be5873f:
     # mc "I bet there's a whole other side to Taisia we haven't even seen yet..."
     mc "I bet there's a whole other side to Taisia we haven't even seen yet..."
 
-# game/code/scenes/main_story/sm1ms029.rpy:351
-translate spanish sm1ms029_party_mes_c77c474f:
-
-    # mes "I see you to were paying attention!"
-    mes "I see you to were paying attention!"
-
 # game/code/scenes/main_story/sm1ms029.rpy:353
 translate spanish sm1ms029_party_mes_63a9e153:
 
@@ -2157,12 +2151,6 @@ translate spanish sm1ms029_talk_kv_hr_arj_3afd49eb:
 
     # kv "And she wanted me to make sure that you weren't overeating."
     kv "And she wanted me to make sure that you weren't overeating."
-
-# game/code/scenes/main_story/sm1ms029.rpy:962
-translate spanish sm1ms029_talk_kv_hr_arj_57ee03b8:
-
-    # sy "She's a worry wort."
-    sy "She's a worry wort."
 
 # game/code/scenes/main_story/sm1ms029.rpy:964
 translate spanish sm1ms029_talk_kv_hr_arj_01bf40f5:

@@ -382,12 +382,6 @@ translate italian sm1xc_ns_tl_001_6a1843fd:
     # ns "*blushing harder* The temperature control on this stove is imprecise!"
     ns "*arrossisce di più* Il controllo della temperatura su questo fornello è impreciso!"
 
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:223
-translate italian sm1xc_ns_tl_001_5d20a08e:
-
-    # mc and tl "Hahaha."
-    mc and tl "Hahaha."
-
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:227
 translate italian sm1xc_ns_tl_001_b8cf75d5:
 

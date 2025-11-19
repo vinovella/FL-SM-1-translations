@@ -382,12 +382,6 @@ translate chinese sm1xc_ns_tl_001_6a1843fd:
     # ns "*blushing harder* The temperature control on this stove is imprecise!"
     ns "*脸更红了* 这个炉子的温控不准确！"
 
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:223
-translate chinese sm1xc_ns_tl_001_5d20a08e:
-
-    # mc and tl "Hahaha."
-    mc and tl "哈哈哈。"
-
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:227
 translate chinese sm1xc_ns_tl_001_b8cf75d5:
 

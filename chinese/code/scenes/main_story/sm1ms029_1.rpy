@@ -742,12 +742,6 @@ translate chinese sm1ms029_party_tl_2be5873f:
     # mc "I bet there's a whole other side to Taisia we haven't even seen yet..."
     mc "我打赌泰西娅还有我们从未见过的另一面..."
 
-# game/code/scenes/main_story/sm1ms029.rpy:351
-translate chinese sm1ms029_party_mes_c77c474f:
-
-    # mes "I see you to were paying attention!"
-    mes "我看到你们一直在关注！"
-
 # game/code/scenes/main_story/sm1ms029.rpy:353
 translate chinese sm1ms029_party_mes_63a9e153:
 
