@@ -1,10 +1,3 @@
---- PROMPT 28 ---
-Translate untranslated lines of dialogue and menu choices in
-
-italian/code/scenes/main_story/sm1ms029.rpy [3330 words]
-
-files to Italian and use copilot-instructions.md for context and instructions.
-
 --- PROMPT 29 ---
 Translate untranslated lines of dialogue and menu choices in
 
