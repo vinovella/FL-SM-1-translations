@@ -524,5 +524,5 @@ translate italian strings:
 translate italian sm1cs_dc002_9cef6b0f:
 
     # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
-    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+    mct "Sto fallendo la Regola Numero Uno in questo momento; cardio! Dio, forse dovremmo prendere un tapis roulant per lo studio..."
 

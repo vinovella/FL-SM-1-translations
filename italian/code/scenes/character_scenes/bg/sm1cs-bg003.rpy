@@ -524,7 +524,7 @@ translate italian sm1cs_bg003_bg_appears_e4999db2:
 translate italian sm1cs_bg003_bg_appears_61202cd7:
 
     # mc "That good?"
-    mc "That good?"
+    mc "Così buono?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:337
 translate italian sm1cs_bg003_bg_appears_39decf51_3:
@@ -974,13 +974,13 @@ translate italian sm1cs_bg003_whipping_39decf51_4:
 translate italian sm1cs_bg003_whipping_61202cd7:
 
     # mc "That good?"
-    mc "That good?"
+    mc "Così buono?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:556
 translate italian sm1cs_bg003_whipping_fa7340a9:
 
     # kv "This is \"front page of the portfolio\" good, [mcname]."
-    kv "This is \"front page of the portfolio\" good, [mcname]."
+    kv "Questo è \"prima pagina del portfolio\" buono, [mcname]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:558
 translate italian sm1cs_bg003_whipping_39decf51_5:
@@ -1028,7 +1028,7 @@ translate italian sm1cs_bg003_whipping_b19dc133:
 translate italian sm1cs_bg003_whipping_04a2c217:
 
     # kv "Taking the \"suck his dick\" part literally, Amore, eh?"
-    kv "Taking the \"suck his dick\" part literally, Amore, eh?"
+    kv "Prendendo alla lettera la parte \"succhia il suo cazzo\", Amore, eh?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:587
 translate italian sm1cs_bg003_whipping_3e5f9a07:
@@ -1944,17 +1944,17 @@ translate italian strings:
 translate italian sm1cs_bg003_bg_appears_ad41354f:
 
     # mc "Is it looking good?"
-    mc "Is it looking good?"
+    mc "Sembra bello?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:478
 translate italian sm1cs_bg003_whipping_ad41354f:
 
     # mc "Is it looking good?"
-    mc "Is it looking good?"
+    mc "Sembra bello?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:610
 translate italian sm1cs_bg003_whipping_afad21c7:
 
     # mc "As long as you're comfortable with this."
-    mc "As long as you're comfortable with this."
+    mc "Finché ti senti a tuo agio con questo."
 
