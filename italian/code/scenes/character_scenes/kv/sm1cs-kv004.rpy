@@ -1202,5 +1202,5 @@ translate italian sm1cs_kv004_sex_repeatable_0bda85cc:
 translate italian sm1cs_kv004_sex_repeatable_925a1079:
 
     # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
-    mc "Mmmmnngnng, Kanya sei così stretta! La tua figa è come una morrrrsa!"
+    mc "Mmmmnngnng, Kanya sei così stretta! La tua figa è come una morrrsa!"
 
