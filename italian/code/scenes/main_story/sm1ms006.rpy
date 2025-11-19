@@ -386,7 +386,7 @@ translate italian sm1ms006_91b4277a:
 translate italian sm1ms006_62dd07cf:
 
     # sy "Ooooo, kinky."
-    sy "Ooooo, kinky."
+    sy "Ooooo, piccante."
 
 # game/code/scenes/main_story/sm1ms006.rpy:270
 translate italian sm1ms006_868ecda0:
