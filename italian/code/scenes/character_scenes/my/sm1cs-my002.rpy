@@ -500,7 +500,7 @@ translate italian sm1cs_my002_art_gallery_8852e77f:
 translate italian sm1cs_my002_art_gallery_688ab86d:
 
     # my "I'm impressed."
-    my "I'm impressed."
+    my "Sono impressionata."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:280
 translate italian sm1cs_my002_art_gallery_84b09aba:
@@ -530,7 +530,7 @@ translate italian sm1cs_my002_art_gallery_a87a337b:
 translate italian sm1cs_my002_art_gallery_688ab86d_1:
 
     # my "I'm impressed."
-    my "I'm impressed."
+    my "Sono impressionata."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:297
 translate italian sm1cs_my002_art_gallery_ab56833c:
