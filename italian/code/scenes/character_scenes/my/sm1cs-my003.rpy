@@ -1638,5 +1638,5 @@ translate italian strings:
 translate italian sm1cs_my003_at_gym_b2b93b59:
 
     # my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
-    my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
+    my "Sì, è solo che è passato un po' di tempo dall'ultima volta che sono riuscita ad andare in palestra. Sto allenando alcuni muscoli che sono un po' irrigiditi."
 

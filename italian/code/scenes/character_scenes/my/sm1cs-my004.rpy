@@ -884,7 +884,7 @@ translate italian sm1cs_my004_cab7607c:
 translate italian sm1cs_my004_9c633a46:
 
     # sy "Yeah, I think she did."
-    sy "Yeah, I think she did."
+    sy "Sì, penso di sì."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:501
 translate italian sm1cs_my004_946b7abb:
@@ -896,7 +896,7 @@ translate italian sm1cs_my004_946b7abb:
 translate italian sm1cs_my004_9c633a46_1:
 
     # sy "Yeah, I think she did."
-    sy "Yeah, I think she did."
+    sy "Sì, penso di sì."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:511
 translate italian sm1cs_my004_db07abac:

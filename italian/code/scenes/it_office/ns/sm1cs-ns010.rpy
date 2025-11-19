@@ -254,7 +254,7 @@ translate italian sm1cs_ns010_796a0076:
 translate italian sm1cs_ns010_bf64d622:
 
     # ns "Yes."
-    ns "Yes."
+    ns "Sì."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:172
 translate italian sm1cs_ns010_dff0c4b4:
@@ -284,7 +284,7 @@ translate italian sm1cs_ns010_5ba24ab7:
 translate italian sm1cs_ns010_bf64d622_1:
 
     # ns "Yes."
-    ns "Yes."
+    ns "Sì."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:188
 translate italian sm1cs_ns010_bf0a7793:

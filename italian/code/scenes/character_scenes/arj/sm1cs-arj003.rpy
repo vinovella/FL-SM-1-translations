@@ -1052,5 +1052,5 @@ translate italian strings:
 translate italian sm1cs_arj003_05e6e8bd:
 
     # arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
-    arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
+    arj "Sembra sia passata un'eternità dall'ultima volta che ci siamo solo visti.{w} Niente drammi.{w} Niente bagaglio."
 

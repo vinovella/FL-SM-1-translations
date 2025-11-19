@@ -2,19 +2,19 @@
 
     # game/code/renpy/screens/game_menus.rpy:150
     old "Back"
-    new "Back"
+    new "Indietro"
 
     # game/code/renpy/screens/game_menus.rpy:151
     old "History"
-    new "History"
+    new "Cronologia"
 
     # game/code/renpy/screens/game_menus.rpy:154
     old "Save"
-    new "Save"
+    new "Salva"
 
     # game/code/renpy/screens/game_menus.rpy:160
     old "Open phone"
-    new "Open phone"
+    new "Apri telefono"
 
 translate italian strings:
 

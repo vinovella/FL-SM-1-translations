@@ -134,7 +134,7 @@ translate italian sm1cs_dc_renovation_d24bc72b:
 translate italian sm1cs_dc_renovation_7a7f7d2b:
 
     # mc "Here you go!"
-    mc "Here you go!"
+    mc "Ecco a te!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:90
 translate italian sm1cs_dc_renovation_9bdd3f10:
@@ -602,11 +602,11 @@ translate italian sm1cs_dc_renovation_e5818002:
 translate italian sm1cs_dc_renovation_1b6ec0ce:
 
     # mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
-    mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+    mc "Oh merda! Non ti ho offerto dell'acqua o altro! Devi esserti fatta venire sete."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
 translate italian sm1cs_dc_renovation_6d9f72cb:
 
     # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
-    mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
+    mc "Siamo qui da qualche ora, e hai fatto così tanto, {i}e{/i} hai risolto anche il mio problema!"
 
