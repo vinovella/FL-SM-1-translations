@@ -22,29 +22,29 @@ translate italian strings:
 
     # game/code/renpy/screens/save.rpy:20
     old "Congratulations! You completed all storylines!"
-    new "Congratulations! You completed all storylines!"
+    new "Congratulazioni! Hai completato tutte le storie!"
 
     # game/code/renpy/screens/save.rpy:22
     old "Here is your progress so far!"
-    new "Here is your progress so far!"
+    new "Ecco i tuoi progressi finora!"
 
     # game/code/renpy/screens/save.rpy:24
     old "Congratulations! You completed the main story!"
-    new "Congratulations! You completed the main story!"
+    new "Congratulazioni! Hai completato la storia principale!"
 
     # game/code/renpy/screens/save.rpy:122
     old "Save your progress for S&M Studio Season 2!"
-    new "Save your progress for S&M Studio Season 2!"
+    new "Salva i tuoi progressi per S&M Studio Stagione 2!"
 
     # game/code/renpy/screens/save.rpy:131
     old "Skip"
-    new "Skip"
+    new "Salta"
 
     # game/code/renpy/screens/save.rpy:184
     old "Saves For Season [season]"
-    new "Saves For Season [season]"
+    new "Salvataggi Per la Stagione [season]"
 
     # game/code/renpy/screens/save.rpy:184
     old "Saves From Season [season]"
-    new "Saves From Season [season]"
+    new "Salvataggi Dalla Stagione [season]"
 
