@@ -12,6 +12,10 @@
     old "You don't have enough money"
     new "Tu n'as pas assez d'argent"
 
+    # game/code/classes/movie_controllers.rpy:73
+    old "Add ${amount} to {budget_name}"
+    new "Ajoute ${amount} à {budget_name}"
+
     # game/code/classes/movie_controllers.rpy:86
     old "You have filled the energy bar already"
     new "Tu as déjà rempli la barre d'énergie"
@@ -27,63 +31,57 @@
     # game/code/classes/movie_controllers.rpy:92
     old "You can only work from the Studio"
     new "Tu ne peux travailler que depuis le studio"
+
+    # game/code/classes/movie_controllers.rpy:94
+    old "Add {amount} to {energy_name}"
+    new "Ajoute {amount} à {energy_name}"
+
     # game/code/classes/movie_controllers.rpy:37
     old "Movie royalty"
-    new "Movie royalty"
+    new "Noblesse du cinéma"
+
+    # game/code/classes/movie_controllers.rpy:40
+    old "{} release"
+    new "Sortie de {}"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Budget"
-    new "Props Budget"
+    new "Budget accessoires"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Design"
-    new "Props Design"
+    new "Conception des accessoires"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Travel Budget"
-    new "Travel Budget"
+    new "Budget déplacements"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Movie Editing"
-    new "Movie Editing"
+    new "Montage du film"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Budget"
-    new "Set Budget"
+    new "Budget décors"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Design"
-    new "Set Design"
+    new "Conception des décors"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Outfit Design"
-    new "Outfit Design"
+    new "Conception des costumes"
 
     # game/code/classes/movie_controllers.rpy:45
     old "CGI Budget"
-    new "CGI Budget"
+    new "Budget effets spéciaux"
+
+    # game/code/classes/movie_controllers.rpy:150
+    old "Spend {amount} Energy in {energy_name}"
+    new "Dépenser {amount} d'Énergie dans {energy_name}"
 
     # game/code/classes/movie_controllers.rpy:227
     old "Sci-Fi Movie"
-    new "Sci-Fi Movie"
-
-    # game/code/classes/movie_controllers.rpy:40
-    old "[movie!t] release"
-    new "[movie!t] release"
-
-    # game/code/classes/movie_controllers.rpy:129
-    old "Add $[amount] to [budget_name!t]"
-    new "Add $[amount] to [budget_name!t]"
-
-    # game/code/classes/movie_controllers.rpy:150
-    old "Spend [amount] Energy in [energy_name!t]"
-    new "Spend [amount] Energy in [energy_name!t]"
+    new "Film de science-fiction"
 
 #Translate by BlackViper_
-
-translate french strings:
-
-    # game/code/classes/movie_controllers.rpy:115
-    old "Pirate movie"
-    new "Pirate movie"
-

@@ -230,15 +230,22 @@ translate french sm1cs_cw002_8f39dca1:
 translate french sm1cs_cw002_e0bf352d:
 
     # mc "Of course. I won't let you down, Ms. Watts."
+    mc "Bien sûr. Je ne vous décevrai pas, Mme Watts."
+
+# game/code/scenes/it_office/cw/sm1cs-cw002.rpy:99
+translate french sm1cs_cw002_e0bf352d:
+
+    # mc "Of course. I won't let you down, Ms. Watts."
     mc "Of course. I won't let you down, Ms. Watts."
 
 translate french strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I like it"
-    new "I like it"
+    new "J’aime bien"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I don't like it"
-    new "I don't like it"
+    new "Je n’aime pas"
 
+#Translate by BlackViper_

@@ -68,7 +68,7 @@ translate french sm1cs_km002_0144a548:
 translate french sm1cs_km002_6e1e97f8:
 
     # mc "Well I-"
-    mc "Eh bien, je—"
+    mc "Eh bien, je..."
 
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:44
 translate french sm1cs_km002_b42c6ec3:
@@ -80,13 +80,13 @@ translate french sm1cs_km002_b42c6ec3:
 translate french sm1cs_km002_0f02b930:
 
     # mc "You know-"
-    mc "Tu sais—"
+    mc "Tu sais..."
 
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:50
 translate french sm1cs_km002_8e1497f5:
 
     # km "I just-"
-    km "Je voulais juste—"
+    km "Je voulais juste..."
 
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:53
 translate french sm1cs_km002_c83d5307:
@@ -200,7 +200,7 @@ translate french sm1cs_km002_push_km_1a9fbede:
 translate french sm1cs_km002_push_km_8eb88ac8:
 
     # km "Not beat up on the new guy because of how-"
-    km "Pas tabasser le petit nouveau juste parce que—"
+    km "Pas tabasser le petit nouveau juste parce que..."
 
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:112
 translate french sm1cs_km002_push_km_e0820afa:
@@ -436,6 +436,12 @@ translate french sm1cs_km002_after_choice_c482a0d6:
     # mc "Yes ma'am!"
     mc "Oui, chef !"
 
+# game/code/scenes/theatre/km/sm1cs-km002.rpy:164
+translate french sm1cs_km002_complement_km_5e3be15b:
+
+    # km "[mcname], are you still interested in learning to be a better actor?"
+    km "[mcname], tu es toujours intéressé·e par le fait de devenir un meilleur acteur ?"
+
 translate french strings:
 
     # game/code/scenes/theatre/km/sm1cs-km002.rpy:74
@@ -463,9 +469,4 @@ translate french strings:
     new "Neutre"
 
 #Translate by BlackViper_
-# game/code/scenes/theatre/km/sm1cs-km002.rpy:164
-translate french sm1cs_km002_complement_km_5e3be15b:
-
-    # km "[mcname], are you still interested in learning to be a better actor?"
-    km "[mcname], are you still interested in learning to be a better actor?"
 

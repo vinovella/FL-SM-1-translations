@@ -110,7 +110,7 @@ translate french sm1cs_mh009_7dbd14c3:
 translate french sm1cs_mh009_c7d060b0:
 
     # mc "Oh, well come on in! Because-"
-    mc "Oh, entre alors ! Parce que—"
+    mc "Oh, entre alors ! Parce que..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:111
 translate french sm1cs_mh009_a316a748:
@@ -200,7 +200,7 @@ translate french sm1cs_mh009_b549cbdf:
 translate french sm1cs_mh009_e5394d17:
 
     # mc "Here is where we do some of our test shoots, sometimes when we need a small set, we can build it here-"
-    mc "Ici, c’est là qu’on fait nos essais de tournage. Parfois, quand on a besoin d’un petit décor, on le monte ici—"
+    mc "Ici, c’est là qu’on fait nos essais de tournage. Parfois, quand on a besoin d’un petit décor, on le monte ici..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:159
 translate french sm1cs_mh009_00f6bdb9:
@@ -704,7 +704,7 @@ translate french sm1cs_mh009_768fa1d4:
 translate french sm1cs_mh009_604a694e:
 
     # mc "I do, but-"
-    mc "Oui, mais—"
+    mc "Oui, mais..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:372
 translate french sm1cs_mh009_176f0182:
@@ -824,7 +824,7 @@ translate french sm1cs_mh009_cb6b8d38:
 translate french sm1cs_mh009_3a96fde9:
 
     # mh "I want there to be, like, a seat - but instead of a chair, there's a vibrating, anal dildo pushed into my ass."
-    mh "Je voudrais qu’il y ait, genre, un siège — mais à la place, un gode anal vibrant enfoncé dans mon cul."
+    mh "Je voudrais qu’il y ait, genre, un siège ... mais à la place, un gode anal vibrant enfoncé dans mon cul."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:432
 translate french sm1cs_mh009_6cedc909:
@@ -968,7 +968,7 @@ translate french sm1cs_mh009_d3d98236:
 translate french sm1cs_mh009_14fe9868:
 
     # mc "All right, so I figure-"
-    mc "Bon, je me disais—"
+    mc "Bon, je me disais..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:510
 translate french sm1cs_mh009_731f6ea1:
@@ -1046,7 +1046,7 @@ translate french sm1cs_mh009_294000b4:
 translate french sm1cs_mh009_8115fc5e:
 
     # mc "If we know how to look hot on camera, it means more clicks - and more clicks means more money, and more money means better business."
-    mc "Si on sait paraître canon à l’écran, ça veut dire plus de clics — plus de clics, plus d’argent — et plus d’argent, c’est meilleur business."
+    mc "Si on sait paraître canon à l’écran, ça veut dire plus de clics ... plus de clics, plus d’argent ... et plus d’argent, c’est meilleur business."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:574
 translate french sm1cs_mh009_6b1bf756:
@@ -1058,7 +1058,7 @@ translate french sm1cs_mh009_6b1bf756:
 translate french sm1cs_mh009_229fe2de:
 
     # mc "So, now-"
-    mc "Alors, maintenant—"
+    mc "Alors, maintenant..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:579
 translate french sm1cs_mh009_10da84c1:
@@ -1130,7 +1130,7 @@ translate french sm1cs_mh009_62c1d737:
 translate french sm1cs_mh009_c03b93ba:
 
     # mc "And I can already tell that you'd do great on camera - you look incredible."
-    mc "Et je vois déjà que tu ferais un carton devant la caméra — tu es incroyable."
+    mc "Et je vois déjà que tu ferais un carton devant la caméra ... tu es incroyable."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:616
 translate french sm1cs_mh009_16e77c1b:
@@ -1172,7 +1172,7 @@ translate french sm1cs_mh009_99adf689:
 translate french sm1cs_mh009_4201106a:
 
     # mc "Wooo - gotta' be careful. If we go on too much longer, I'm going to end up cumming down your throat!"
-    mc "Wooo — fais gaffe. Si tu continues encore longtemps, je vais finir par jouir au fond de ta gorge !"
+    mc "Wooo ... fais gaffe. Si tu continues encore longtemps, je vais finir par jouir au fond de ta gorge !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:634
 translate french sm1cs_mh009_61c6b2ae:
@@ -1514,7 +1514,7 @@ translate french sm1cs_mh009_6a84f888:
 translate french sm1cs_mh009_08085d49:
 
     # mh "Any time you get a little bored - mmmmphhh - a little horrrrnnyyyyy-"
-    mh "À chaque fois que tu t’ennuieras un peu... Mmmmphhh... Ou que tu seras excitéééé—"
+    mh "À chaque fois que tu t’ennuieras un peu... Mmmmphhh... Ou que tu seras excitéééé..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:765
 translate french sm1cs_mh009_3238c131:
@@ -1646,7 +1646,7 @@ translate french sm1cs_mh009_80df68a2:
 translate french sm1cs_mh009_6286c2e8:
 
     # mc "I'm just going to run to the bathroom-"
-    mc "Je vais juste filer aux chiottes—"
+    mc "Je vais juste filer aux chiottes..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:827
 translate french sm1cs_mh009_2f631098:
@@ -1988,7 +1988,7 @@ translate french sm1cs_mh009_1_cd18ca2f:
 translate french sm1cs_mh009_1_a0f18190:
 
     # mc "You know, I hate to watch you go-"
-    mc "Tu sais, j’aime pas te voir partir—"
+    mc "Tu sais, j’aime pas te voir partir..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1008
 translate french sm1cs_mh009_1_66e99990:
@@ -2090,7 +2090,7 @@ translate french sm1cs_mh009_1_cc441963:
 translate french sm1cs_mh009_1_43f85b91:
 
     # mc "And I promise that the only person who is ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
-    mc "Et je te jure que seuls toi et moi verrons ça. Pas de post, pas de partage, à personne, je le jure—"
+    mc "Et je te jure que seuls toi et moi verrons ça. Pas de post, pas de partage, à personne, je le jure..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1053
 translate french sm1cs_mh009_1_c7cf2826:
@@ -2290,6 +2290,12 @@ translate french sm1cs_mh009_sy_entrance_43867854:
     # mct "Classic Stacy..."
     mct "Classique, Stacy..."
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:425
+translate french sm1cs_mh009_d79e591d:
+
+    # mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
+    mh "Alors... une des choses que j'ai toujours voulu faire... c'est être exposée dans, genre, un club BDSM."
+
 translate french strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:329
@@ -2313,118 +2319,4 @@ translate french strings:
     new "Être dominant"
 
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:425
-translate french sm1cs_mh009_d79e591d:
-
-    # mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
-    mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:341
-translate french sm1cs_mh009_7b2b35e6:
-
-    # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
-    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:342
-translate french sm1cs_mh009_7b2b35e6_1:
-
-    # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
-    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:348
-translate french sm1cs_mh009_72f11ebc:
-
-    # mc "Sure, Lys- I mean, [mhname!t]."
-    mc "Sure, Lys- I mean, [mhname!t]."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:389
-translate french sm1cs_mh009_0c331674:
-
-    # mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
-    mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:446
-translate french sm1cs_mh009_ed0f3263:
-
-    # mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
-    mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:601
-translate french sm1cs_mh009_348b8dd7:
-
-    # mc "Oh shit, [mhname!t]!"
-    mc "Oh shit, [mhname!t]!"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:619
-translate french sm1cs_mh009_beac13b0:
-
-    # mc "Do you? Do you like being my good girl, [mhname!t]?"
-    mc "Do you? Do you like being my good girl, [mhname!t]?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:624
-translate french sm1cs_mh009_70654531:
-
-    # mc "Fuuuucking hell, this is great, [mhname!t]."
-    mc "Fuuuucking hell, this is great, [mhname!t]."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:687
-translate french sm1cs_mh009_2c204863:
-
-    # mc "Oh fuck yeah, [mhname!t]!"
-    mc "Oh fuck yeah, [mhname!t]!"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:739
-translate french sm1cs_mh009_8751d578:
-
-    # mc "Oh shit, [mhname!t]! Oh this is incredible!"
-    mc "Oh shit, [mhname!t]! Oh this is incredible!"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:756
-translate french sm1cs_mh009_e922e4ef:
-
-    # mc "What, [mhname!t]?"
-    mc "What, [mhname!t]?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:765
-translate french sm1cs_mh009_2b193e52:
-
-    # mc "Ohh, L- love this, [mhname!t], I love this!"
-    mc "Ohh, L- love this, [mhname!t], I love this!"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:784
-translate french sm1cs_mh009_c66ced23:
-
-    # mc "Oh God, [mhname!t]..."
-    mc "Oh God, [mhname!t]..."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:861
-translate french sm1cs_mh009_32fbcfe7:
-
-    # mc "Are you going to cum, [mhname!t]?"
-    mc "Are you going to cum, [mhname!t]?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:936
-translate french sm1cs_mh009_1_c8b0e979:
-
-    # mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
-    mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:948
-translate french sm1cs_mh009_1_44176ab2:
-
-    # mc "Cum for me, [mhname!t]."
-    mc "Cum for me, [mhname!t]."
-
-translate french strings:
-
-    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:330
-    old "Allison"
-    new "Allison"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:315
-translate french sm1cs_mh009_e9245de9:
-
-    # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
-    mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
 

@@ -92,7 +92,7 @@ translate french sm1cs_ns008_04bfdd87:
 translate french sm1cs_ns008_91a898b7:
 
     # mc "Hello, cutie."
-    mc "Salut, jolie fille."
+    mc "Salut, ma belle."
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:72
 translate french sm1cs_ns008_ab55223f:
@@ -110,7 +110,7 @@ translate french sm1cs_ns008_fd1c0766:
 translate french sm1cs_ns008_425d808a:
 
     # ns "Did you know that the word \"conference\" comes from the Medieval Latin word conferentia, which means \"contribution, discussion\"?"
-    ns "Tu savais que le mot \"conférence\" vient du latin médiéval *conferentia*, qui signifie \"contribution, discussion\" ?"
+    ns "Tu savais que le mot \"conférence\" vient du latin médiéval conferentia, qui signifie \"contribution, discussion\" ?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:81
 translate french sm1cs_ns008_e7604c08:
@@ -314,7 +314,7 @@ translate french sm1cs_ns008_4ed4b059:
 translate french sm1cs_ns008_3e0c1758:
 
     # am "And you have the traits of a-"
-    am "Et toi tu as les traits d’une—"
+    am "Et toi tu as les traits d’une..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:189
 translate french sm1cs_ns008_d1834f3c:

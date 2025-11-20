@@ -44,7 +44,7 @@ translate french sm1cs_ns003_773321e5:
 translate french sm1cs_ns003_844f5821:
 
     # ns "I fear I've been acting awkward since- Well, since that time in the bathroom."
-    ns "J’ai peur d’avoir agi bizarrement depuis... enfin, depuis ce moment dans la salle de bain."
+    ns "J’ai peur d’avoir agi bizarrement depuis... enfin, depuis ce moment dans les toilettes."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:36
 translate french sm1cs_ns003_89978243:
@@ -212,13 +212,13 @@ translate french sm1cs_ns003_6be4d6f0:
 translate french sm1cs_ns003_81e74d6d:
 
     # mc "What is normal these days? The world is a crazy place. Sometimes-"
-    mc "C’est quoi normal de nos jours ? Le monde est dingue. Parfois—"
+    mc "C’est quoi normal de nos jours ? Le monde est dingue. Parfois..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:121
 translate french sm1cs_ns003_1e59f88b:
 
     # mc "-staying sane means you gotta let the naughty thoughts out of the cage."
-    mc "—rester sain d’esprit, ça veut dire laisser sortir les pensées coquines de leur cage."
+    mc "... Rester sain d’esprit, ça veut dire laisser sortir les pensées coquines de leur cage."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:124
 translate french sm1cs_ns003_c5acf3b1:
@@ -260,7 +260,7 @@ translate french sm1cs_ns003_2006c63a:
 translate french sm1cs_ns003_b48bdde5:
 
     # ns "I mean... It's fine. I'll get better at it. I mean-"
-    ns "Je veux dire... c’est pas grave. Je m’améliorerai. Enfin—"
+    ns "Je veux dire... c’est pas grave. Je m’améliorerai. Enfin..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:147
 translate french sm1cs_ns003_f2de809e:
@@ -554,7 +554,7 @@ translate french sm1cs_ns003_1fc1fb1e:
 translate french sm1cs_ns003_fb06cfd2:
 
     # mc "My heart was racing just being around you after-"
-    mc "Mon cœur battait déjà à fond rien qu’en étant avec toi après—"
+    mc "Mon cœur battait déjà à fond rien qu’en étant avec toi après..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:287
 translate french sm1cs_ns003_5402f6f1:
@@ -650,13 +650,13 @@ translate french sm1cs_ns003_521aeaf7:
 translate french sm1cs_ns003_6d9eef66:
 
     # mc "You really can't hold off from jilling for more than an hour?"
-    mc "Tu peux vraiment pas te retenir de te toucher plus d’une heure ?"
+    mc "Tu peux vraiment pas te retenir de te masturber plus d’une heure ?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:342
 translate french sm1cs_ns003_433266d1:
 
     # ns "Jilling? What. I didn't even bring a toy. I-"
-    ns "Jilling ? Quoi ? J’ai même pas apporté de jouet. Je—"
+    ns "masturber ? Quoi ? J’ai même pas apporté de jouet. Je..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:347
 translate french sm1cs_ns003_66a5117a:
@@ -860,7 +860,7 @@ translate french sm1cs_ns003_af26d42b:
 translate french sm1cs_ns003_a61ef815:
 
     # ns "I think I want to. I mean... can I put my-"
-    ns "Je crois que j’ai envie. Enfin… est-ce que je peux mettre mon..."
+    ns "Je crois que j’ai envie. Enfin… est-ce que je peux mettre ma..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:501
 translate french sm1cs_ns003_8c0ddf7c:
@@ -995,94 +995,4 @@ translate french strings:
     new "Perdu"
 
 #Translate by BlackViper_
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:13
-translate french sm1cs_ns003_6c6f50bb:
-
-    # mct "Nari has been usually quiet today."
-    mct "Nari has been usually quiet today."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:40
-translate french sm1cs_ns003_33a29b32:
-
-    # mct "Like she's playing a game with me. Only she knows the moves."
-    mct "Like she's playing a game with me. Only she knows the moves."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:44
-translate french sm1cs_ns003_68c462c4:
-
-    # ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
-    ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:67
-translate french sm1cs_ns003_37aa12d7:
-
-    # ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
-    ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:146
-translate french sm1cs_ns003_6d83be49:
-
-    # mct "She can be so shy, and yet so casual about talking about sexy stuff."
-    mct "She can be so shy, and yet so casual about talking about sexy stuff."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:176
-translate french sm1cs_ns003_6d8220b3:
-
-    # mct "I never imagined it would take this long."
-    mct "I never imagined it would take this long."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:193
-translate french sm1cs_ns003_ee47ea12:
-
-    # mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
-    mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:446
-translate french sm1cs_ns003_9e3ed79b:
-
-    # mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
-    mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:471
-translate french sm1cs_ns003_edf4f757:
-
-    # mct "This is either my best idea or my worst idea yet."
-    mct "This is either my best idea or my worst idea yet."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:480
-translate french sm1cs_ns003_11f9454a:
-
-    # mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
-    mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:492
-translate french sm1cs_ns003_2855cbd1:
-
-    # mct "No, you are definitely not shy, Nari. Wow."
-    mct "No, you are definitely not shy, Nari. Wow."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:495
-translate french sm1cs_ns003_6aee29d5:
-
-    # mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
-    mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:539
-translate french sm1cs_ns003_52693859:
-
-    # mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
-    mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:560
-translate french sm1cs_ns003_8a7c6254:
-
-    # mct "Well, that was quite a ride. I almost thought she might want to hang out."
-    mct "Well, that was quite a ride. I almost thought she might want to hang out."
-
-# game/code/scenes/it_office/ns/sm1cs-ns003.rpy:561
-translate french sm1cs_ns003_21d17c87:
-
-    # mct "Maybe next time."
-    mct "Maybe next time."
 

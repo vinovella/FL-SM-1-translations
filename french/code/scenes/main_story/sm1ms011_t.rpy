@@ -115,8 +115,8 @@ translate french sm1ms011_t_451735c1:
 # game/code/scenes/main_story/sm1ms011_t.rpy:62
 translate french sm1ms011_t_91eb0311:
 
-    # mc "It wasn't just what she said—it was how she said it. Harsh, critical, like she was analyzing everything I did."
-    mc "Ce n’est pas seulement ce qu’elle disait — c’est la façon dont elle le disait. Dure, critique, comme si elle décortiquait tout ce que je faisais."
+    # mc "It wasn't just what she said...it was how she said it. Harsh, critical, like she was analyzing everything I did."
+    mc "Ce n’est pas seulement ce qu’elle disait ... c’est la façon dont elle le disait. Dure, critique, comme si elle décortiquait tout ce que je faisais."
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:65
 translate french sm1ms011_t_5ab59591:

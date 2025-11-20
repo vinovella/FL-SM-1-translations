@@ -152,7 +152,7 @@ translate french sm1cs_am004_2b6ae213:
 translate french sm1cs_am004_167be35e:
 
     # am "I should probably-"
-    am "Je devrais probablement—"
+    am "Je devrais probablement..."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:129
 translate french sm1cs_am004_c6a5927b:
@@ -656,7 +656,7 @@ translate french sm1cs_am004_continue_cfffe58f:
 translate french sm1cs_am004_music_2_end_395d02a4:
 
     # "Crowd" "*cheering*"
-    "Foule" "*acclamant*"
+    "Foule" "*acclamantion*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:476
 translate french sm1cs_am004_music_2_end_8ede7d85:
@@ -770,7 +770,7 @@ translate french sm1cs_am004_music_2_end_e62c723a:
 translate french sm1cs_am004_music_2_end_cc1b33f9:
 
     # mc "Sure. Anna you want to come-"
-    mc "Bien sûr. Anna, tu veux venir—"
+    mc "Bien sûr. Anna, tu veux venir..."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:548
 translate french sm1cs_am004_music_2_end_4804cbcc:
@@ -1076,7 +1076,7 @@ translate french sm1cs_am004_sex_cc6831b9:
 translate french sm1cs_am004_sex_7069aaff:
 
     # am "*sucking*"
-    am "*sucements*"
+    am "*suce*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:770
 translate french sm1cs_am004_sex_dbadb8b0:
@@ -1328,7 +1328,7 @@ translate french sm1cs_am004_after_spank_fad3c43f:
 translate french sm1cs_am004_after_spank_01cf0e61:
 
     # am "*sucking and gagging*"
-    am "*sucements et haut-le-cœur*"
+    am "*suce et haut-le-cœur*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:910
 translate french sm1cs_am004_after_spank_2fb8ec24:
@@ -1346,7 +1346,7 @@ translate french sm1cs_am004_after_spank_0f78b688:
 translate french sm1cs_am004_after_spank_208bee5d:
 
     # mc "Oh shit. April, if you keep going-"
-    mc "Oh merde. April, si tu continues—"
+    mc "Oh merde. April, si tu continues..."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:914
 translate french sm1cs_am004_after_spank_aa1012f9:
@@ -1508,7 +1508,7 @@ translate french sm1cs_am004_after_spank_e4ea2075:
 translate french sm1cs_am004_after_spank_c73aa215:
 
     # am "I want you to fu-"
-    am "Je veux que tu me bai—"
+    am "Je veux que tu me bai..."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:1003
 translate french sm1cs_am004_after_spank_f49fff8f:
@@ -1520,7 +1520,7 @@ translate french sm1cs_am004_after_spank_f49fff8f:
 translate french sm1cs_am004_after_spank_3d134061:
 
     # am "Oh fuck. Oh fuck-huaaa-ooouhaah!"
-    am "Oh putain. Oh fuck-huaaa-ooouhaah !"
+    am "Oh putain. Oh putt-taaaa-iiinnnnn !"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:1017
 translate french sm1cs_am004_after_spank_5c02f405:
@@ -1562,7 +1562,7 @@ translate french sm1cs_am004_after_spank_bf371c93:
 translate french sm1cs_am004_after_spank_bfba5b59:
 
     # mc "Wait, weren't you about to say-"
-    mc "Attends, tu n’étais pas sur le point de dire—"
+    mc "Attends, tu n’étais pas sur le point de dire..."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:1035
 translate french sm1cs_am004_after_spank_95e59b83:
@@ -1618,11 +1618,27 @@ translate french sm1cs_am004_after_spank_17b0592e:
     # mct "Don't stick your dick in crazy."
     mct "Ne fous pas ta bite dans une folle."
 
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:795
+translate french sm1cs_am004_sex_ce4eb6af:
+
+    # mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
+    mc "Écoute, je sais que ton délire c’est d’être une vraie chieuse avec moi tout le temps, mais j’essaie pas de me faire arracher la bite."
+
+# game/code/scenes/it_office/am/sm1cs-am004.rpy:983
+translate french sm1cs_am004_after_spank_94b939c6:
+
+    # mc "Come on. You know the {b}word{/b} I'm waiting for."
+    mc "Allez. Tu sais très bien quel {b}mot{/b} j’attends."
+
 translate french strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
+    old "Later that evening\nAt Guns 'n Rosette'"
+    new "Plus tard dans la soirée\nAu Guns 'n Rosette'"
 
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:66
     old "Are you nervous to play for me?"
-    new "Tu es nerveux à l’idée de jouer pour moi ?"
+    new "Tu es nerveuse à l’idée de jouer pour moi ?"
 
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:66
     old "I can go if you want me to"
@@ -1684,23 +1700,9 @@ translate french strings:
     old "Don't spank her ass"
     new "Ne pas lui claquer le cul"
 
-#Translate by BlackViper_
-
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:795
-translate french sm1cs_am004_sex_ce4eb6af:
-
-    # mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
-    mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
-
-# game/code/scenes/it_office/am/sm1cs-am004.rpy:983
-translate french sm1cs_am004_after_spank_94b939c6:
-
-    # mc "Come on. You know the {b}word{/b} I'm waiting for."
-    mc "Come on. You know the {b}word{/b} I'm waiting for."
-
-translate french strings:
-
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:33
     old "Later that evening\nAt Guns n' Rosette"
-    new "Later that evening\nAt Guns n' Rosette"
+    new "Plus tard dans la soirée\nAu Guns n' Rosette"
+
+#Translate by BlackViper_
 

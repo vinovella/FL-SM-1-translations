@@ -134,7 +134,7 @@ translate french sm1cs_mes001_da2d5460:
 translate french sm1cs_mes001_53677b8d:
 
     # mc "Can I have one of those?"
-    mc "Je peux en avoir une ?"
+    mc "Je peux en avoir un ?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:92
 translate french sm1cs_mes001_a64e8bc0:
@@ -151,8 +151,8 @@ translate french sm1cs_mes001_9941042b:
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:101
 translate french sm1cs_mes001_fa9b2b83:
 
-    # mc "Min... about Lydia and Fetish Locator—"
-    mc "Min... à propos de Lydia et de Fetish Locator—"
+    # mc "Min... about Lydia and Fetish Locator..."
+    mc "Min... à propos de Lydia et de Fetish Locator..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:106
 translate french sm1cs_mes001_9446a237:
@@ -295,7 +295,7 @@ translate french sm1cs_mes001_9e901329:
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:163
 translate french sm1cs_mes001_7f20d86f:
 
-    # mes "The exact opposite of what I've been doing here — going to parties, being the best student, dropping in and out of relationships..."
+    # mes "The exact opposite of what I've been doing here ... going to parties, being the best student, dropping in and out of relationships..."
     mes "Exactement l’opposé de ce que je fais ici : faire la fête, viser les meilleures notes, enchaîner et quitter des relations..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:164
@@ -307,8 +307,8 @@ translate french sm1cs_mes001_02f7b223:
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:165
 translate french sm1cs_mes001_44695ac5:
 
-    # mct "She looks so weighed down by it all. This is a side of Min I rarely saw — vulnerable and uncertain."
-    mct "Elle semble écrasée par tout ça. C’est un côté de Min que je vois rarement — vulnérable et incertaine."
+    # mct "She looks so weighed down by it all. This is a side of Min I rarely saw ... vulnerable and uncertain."
+    mct "Elle semble écrasée par tout ça. C’est un côté de Min que je vois rarement ... vulnérable et incertaine."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:169
 translate french sm1cs_mes001_a095db16:
@@ -356,13 +356,13 @@ translate french sm1cs_mes001_edd361d8:
 translate french sm1cs_mes001_cacc92e3:
 
     # mc "I know the feeling. Guess it's just dumb luck we both picked this spot."
-    mc "Je connais ça. On a juste eu la malchance — ou la chance — de choisir le même endroit."
+    mc "Je connais ça. On a juste eu la malchance ... ou la chance ... de choisir le même endroit."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:193
 translate french sm1cs_mes001_3892ec91:
 
-    # mes "Right? It's definitely not my usual hangout — feels a bit random."
-    mes "C’est clair. C’est pas du tout mon coin habituel — un peu au hasard."
+    # mes "Right? It's definitely not my usual hangout ... feels a bit random."
+    mes "C’est clair. C’est pas du tout mon coin habituel ... un peu au hasard."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:198
 translate french sm1cs_mes001_065c4bae:
@@ -445,8 +445,8 @@ translate french sm1cs_mes001_eb995180:
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:227
 translate french sm1cs_mes001_044fd057:
 
-    # mc "Yeah, it's real, all right — stressful, chaotic, but real."
-    mc "Ouais, c’est du concret — stressant, chaotique, mais réel."
+    # mc "Yeah, it's real, all right ... stressful, chaotic, but real."
+    mc "Ouais, c’est du concret ... stressant, chaotique, mais réel."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:229
 translate french sm1cs_mes001_2e8ac8f7:
@@ -583,8 +583,8 @@ translate french sm1cs_mes001_58832f50:
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:281
 translate french sm1cs_mes001_39c46ca2:
 
-    # mc "We're basically a couple — but she doesn't mind me being with other girls."
-    mc "On est pratiquement un couple — mais ça la dérange pas que je voie d’autres filles."
+    # mc "We're basically a couple ... but she doesn't mind me being with other girls."
+    mc "On est pratiquement un couple ... mais ça la dérange pas que je voie d’autres filles."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:284
 translate french sm1cs_mes001_e9f707ae:
@@ -632,7 +632,7 @@ translate french sm1cs_mes001_0ffd43c2:
 translate french sm1cs_mes001_6653baef:
 
     # mes "But I can't help but wonder if-"
-    mes "Mais je peux pas m’empêcher de me demander si—"
+    mes "Mais je peux pas m’empêcher de me demander si..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:302
 translate french sm1cs_mes001_83d89bc9:
@@ -733,7 +733,7 @@ translate french sm1cs_mes001_7d010a14:
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:341
 translate french sm1cs_mes001_d19c0b1c:
 
-    # mes "My {i}loving{/i} family tried setting me up with a 'nice, respectable' suitor — who does that these days?"
+    # mes "My {i}loving{/i} family tried setting me up with a 'nice, respectable' suitor ... who does that these days?"
     mes "Ma famille {i}adorée{/i} a essayé de me caser avec un prétendant 'gentil et respectable'... Qui fait encore ça de nos jours ?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:347
@@ -781,8 +781,8 @@ translate french sm1cs_mes001_a2b7ebd5:
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:361
 translate french sm1cs_mes001_2b76248e:
 
-    # mc "I mean, we only have one real client so far — a guy who specifically wanted a redhead in his short film."
-    mc "Bon, pour l’instant on n’a qu’un vrai client — un type qui voulait absolument une rousse dans son court-métrage."
+    # mc "I mean, we only have one real client so far ... a guy who specifically wanted a redhead in his short film."
+    mc "Bon, pour l’instant on n’a qu’un vrai client ... un type qui voulait absolument une rousse dans son court-métrage."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:362
 translate french sm1cs_mes001_017fb432:
@@ -913,7 +913,7 @@ translate french sm1cs_mes001_6e0c7511:
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:417
 translate french sm1cs_mes001_b1765de3:
 
-    # mes "But I feel like celebrating just a tiny bit — celebrating the fact that I'm not alone here after all."
+    # mes "But I feel like celebrating just a tiny bit ... celebrating the fact that I'm not alone here after all."
     mes "Mais j’ai quand même envie de fêter un peu… le fait que je ne sois finalement pas seule ici."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:419
@@ -991,8 +991,8 @@ translate french sm1cs_mes001_c3ff5792:
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:466
 translate french sm1cs_mes001_6abc3f73:
 
-    # mc "Min... I'm really glad we got a chance to talk. I know you've been through hell. If there's anything I can do — anything at all — just say the word."
-    mc "Min... je suis vraiment content qu’on ait pu parler. Je sais que t’as traversé l’enfer. Si je peux faire quoi que ce soit — n’importe quoi — dis-le-moi."
+    # mc "Min... I'm really glad we got a chance to talk. I know you've been through hell. If there's anything I can do ... anything at all ... just say the word."
+    mc "Min... je suis vraiment content qu’on ait pu parler. Je sais que t’as traversé l’enfer. Si je peux faire quoi que ce soit ... n’importe quoi ... dis-le-moi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:469
 translate french sm1cs_mes001_0ad8d8eb:
@@ -1024,29 +1024,28 @@ translate french sm1cs_mes001_927c1195:
     # mc "Cool, it's a deal then."
     mc "Parfait, marché conclu."
 
-#Translate by BlackViper_
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:103
 translate french sm1cs_mes001_66273e86:
 
     # mes "*chuckles wryly* The elephant in the room."
-    mes "*chuckles wryly* The elephant in the room."
+    mes "*ricane légèrement* L’éléphant au milieu de la pièce."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:219
 translate french sm1cs_mes001_9af4df5f:
 
     # mc "*sheepishly* Guilty as charged. The old business management program just wasn't cutting it for me."
-    mc "*sheepishly* Guilty as charged. The old business management program just wasn't cutting it for me."
+    mc "*gêné* Coupable, je l’avoue. L’ancien programme de gestion d’entreprise ne me convenait juste pas."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:344
 translate french sm1cs_mes001_3a955c35:
 
     # mc "Are you telling me you almost got a set up for an arranged marriage type date in Korea?"
-    mc "Are you telling me you almost got a set up for an arranged marriage type date in Korea?"
+    mc "Tu es en train de me dire que tu as presque eu un rendez-vous arrangé façon mariage en Corée ?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:368
 translate french sm1cs_mes001_229c1cea:
 
     # mc "Hey, we do that too, but we can be serious when we need to be."
-    mc "Hey, we do that too, but we can be serious when we need to be."
+    mc "Hé, on fait ça aussi, mais on peut être sérieux quand il faut."
 
+#Translate by BlackViper_

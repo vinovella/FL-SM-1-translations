@@ -50,9 +50,3 @@
 
 #Translate by BlackViper_
 
-translate french strings:
-
-    # game/code/renpy/screens/sm_website.rpy:82
-    old "Stop Movie"
-    new "Stop Movie"
-

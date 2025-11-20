@@ -1,10 +1,11 @@
 ﻿translate french strings:
 
+    # game/code/classes/vn_mode_controller.rpy:184
+    old "Progress {storyline_name}"
+    new "Progresser dans {storyline_name}"
+
     # game/code/classes/vn_mode_controller.rpy:191
     old "Progress required storylines"
-    new "Progress required storylines"
+    new "Progrès requis"
 
-    # game/code/classes/vn_mode_controller.rpy:190
-    old "Progress [storyline_name!t]"
-    new "Progress [storyline_name!t]"
-
+#Translate by BlackViper_

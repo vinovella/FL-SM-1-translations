@@ -134,7 +134,7 @@ translate french sm1cs_ns002_19f42ec8:
 translate french sm1cs_ns002_1e10f41d:
 
     # mc "Oh hey! Uh, what's up? Just taking a little bathroom break. Nothing to worry about over here!"
-    mc "Oh hé ! Euh, quoi de neuf ? Je prends juste une petite pause toilettes. Rien à signaler ici !"
+    mc "Oh hé ! Euh... Je prends juste une petite pause toilettes. Rien à signaler ici !"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:94
 translate french sm1cs_ns002_73e97ae7:
@@ -176,7 +176,7 @@ translate french sm1cs_ns002_76090ab9:
 translate french sm1cs_ns002_5b73a5f9:
 
     # mc "What's up with that-"
-    mc "C’est quoi ce délire—"
+    mc "C’est quoi ce délire..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:127
 translate french sm1cs_ns002_196c250a:
@@ -422,7 +422,7 @@ translate french sm1cs_ns002_0ded4364:
 translate french sm1cs_ns002_b98f7a28:
 
     # mc "*sniffs* Uh, first I- Hmm. Let's get you cleaned up."
-    mc "*renifle* Euh, d’abord je— hmm. On va te nettoyer."
+    mc "*renifle* Euh, d’abord je... Hmm. On va te nettoyer."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:254
 translate french sm1cs_ns002_c8467b41:
@@ -488,7 +488,7 @@ translate french sm1cs_ns002_6d5f8951:
 translate french sm1cs_ns002_d15d1547:
 
     # mc "There. Everything is back to normal. You with your badge, looking cute as a peach."
-    mc "Voilà. Tout est revenu à la normale. Toi avec ton badge, jolie comme un cœur."
+    mc "Voilà. Tout est revenu à la normale. Toi avec ton badge, mignonne comme une pêche."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:290
 translate french sm1cs_ns002_a3ba8874:
@@ -608,7 +608,7 @@ translate french sm1cs_ns002_d95921a9:
 translate french sm1cs_ns002_d059a10a:
 
     # ns "No. I've already been absent long enough. I can't let Anna think I'm slacking off."
-    ns "Non. J’ai déjà disparu assez longtemps. Je peux pas laisser Anna croire que je fous rien."
+    ns "Non. J’ai déjà disparu assez longtemps. Je peux pas laisser Anna croire que je ne branle rien."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:356
 translate french sm1cs_ns002_b8422bfb:
@@ -710,7 +710,7 @@ translate french sm1cs_ns002_d83f0c5b:
 translate french sm1cs_ns002_1b5c7929:
 
     # mc "Get a plastic bag from the breakroom when you're about to leave for the day. Then you can-"
-    mc "Prends un sac plastique dans la salle de pause quand tu pars ce soir. Comme ça tu pourras—"
+    mc "Prends un sac plastique dans la salle de pause quand tu pars ce soir. Comme ça tu pourras..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:411
 translate french sm1cs_ns002_be86a29c:
@@ -799,25 +799,15 @@ translate french sm1cs_ns002_6ff41185:
 translate french strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
+    old "I don't need to know."
+    new "J’ai pas besoin de savoir."
+
+    # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "You can tell me what happened"
     new "Tu peux me dire ce qui s’est passé"
 
-#Translate by BlackViper_
-translate french strings:
-
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "I don't need to know"
-    new "I don't need to know"
+    new "Je n'ai pas besoin de savoir"
 
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
-translate french sm1cs_ns002_bc4ba015:
-
-    # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
-    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
-
-# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
-translate french sm1cs_ns002_94a1cd6a:
-
-    # mct "No one is close. I hope."
-    mct "No one is close. I hope."
-
+#Translate by BlackViper_

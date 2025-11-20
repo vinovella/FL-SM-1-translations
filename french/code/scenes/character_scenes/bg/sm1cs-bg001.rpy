@@ -218,7 +218,7 @@ translate french sm1cs_bg001_df91c315:
 translate french sm1cs_bg001_86d0177e:
 
     # mc "Can I ask you a few other things I've been curious about?{w} But if you just want to eat your lunch instead, I get it. I can come back late-"
-    mc "Je peux te poser quelques autres questions qui me trottent en tête ?{w} Mais si tu veux juste profiter de ton déjeuner, je comprends. Je peux revenir plus tard—"
+    mc "Je peux te poser quelques autres questions qui me trottent en tête ?{w} Mais si tu veux juste profiter de ton déjeuner, je comprends. Je peux revenir plus tard..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:139
 translate french sm1cs_bg001_451649ac:
@@ -308,7 +308,7 @@ translate french sm1cs_bg001_858dcf7f:
 translate french sm1cs_bg001_b3c6112f:
 
     # mc "No, not the magazines - the first outfit."
-    mc "Non, pas les magazines — la première tenue."
+    mc "Non, pas les magazines ... la première tenue."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:181
 translate french sm1cs_bg001_473f9f29:
@@ -392,7 +392,7 @@ translate french sm1cs_bg001_86389d81:
 translate french sm1cs_bg001_bb3d716c:
 
     # bg "Nope! It's the 21st century. Modern problems require modern solutions."
-    bg "Non ! On est au 21ᵉ siècle. Problèmes modernes, solutions modernes."
+    bg "Non ! On est au 21ème siècle. Problèmes modernes, solutions modernes."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:219
 translate french sm1cs_bg001_8e8043d1:
@@ -902,7 +902,7 @@ translate french sm1cs_bg001_more_talking_38b92a1f:
 translate french sm1cs_bg001_more_talking_7e1f6f3a:
 
     # mc "Speaking of... What's like a 'dream shoot' for you?"
-    mc "D’ailleurs… ce serait quoi ton ‘shoot de rêve’ ?"
+    mc "D’ailleurs… ce serait quoi ton 'shoot de rêve' ?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:458
 translate french sm1cs_bg001_more_talking_a8b1cb28_1:
@@ -956,7 +956,7 @@ translate french sm1cs_bg001_more_talking_e9ce241a:
 translate french sm1cs_bg001_more_talking_08612bde:
 
     # bg "I've just never really gelled with anyone in a way that makes me want to call them 'Daddy'."
-    bg "J’ai jamais vraiment accroché avec quelqu’un au point d’avoir envie de l’appeler ‘Daddy’."
+    bg "J’ai jamais vraiment accroché avec quelqu’un au point d’avoir envie de l’appeler 'Daddy'."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:481
 translate french sm1cs_bg001_more_talking_934fc5ec:
@@ -986,7 +986,7 @@ translate french sm1cs_bg001_more_talking_7c4d28fb:
 translate french sm1cs_bg001_more_talking_0f02b930:
 
     # mc "You know-"
-    mc "Tu sais-"
+    mc "Tu sais..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:498
 translate french sm1cs_bg001_more_talking_4005b7ef:
@@ -1101,16 +1101,4 @@ translate french strings:
     new "Pas trop mon délire"
 
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:46
-translate french sm1cs_bg001_01872126:
-
-    # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
-    "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
-translate french sm1cs_bg001_f21ffe59:
-
-    # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
-    bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
 

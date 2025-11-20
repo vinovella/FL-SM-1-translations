@@ -350,7 +350,7 @@ translate french sm1cs_mas002_89e45b9c:
 translate french sm1cs_mas002_4ea2cde0:
 
     # mct "Wait, is that-?"
-    mct "Attends... c’est—?"
+    mct "Attends... c’est...?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:185
 translate french sm1cs_mas002_ef205893:

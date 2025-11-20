@@ -308,7 +308,7 @@ translate french sm1ms024_dc7d93a9:
 translate french sm1ms024_1e92ce73:
 
     # sy "\"And [mcname] looked out at the breadth of his kingdom and wept, for there were so many worlds yet to conquer.\""
-    sy "« Et [mcname] contempla l’étendue de son royaume et pleura, car il restait tant de mondes à conquérir. »"
+    sy "\"Et [mcname] contempla l’étendue de son royaume et pleura, car il restait tant de mondes à conquérir.\""
 
 # game/code/scenes/main_story/sm1ms024.rpy:158
 translate french sm1ms024_11455b53:
@@ -350,7 +350,7 @@ translate french sm1ms024_43c39b16:
 translate french sm1ms024_64ea2368:
 
     # sy "I don't-"
-    sy "Je ne—"
+    sy "Je ne..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:178
 translate french sm1ms024_172363cd:
@@ -512,7 +512,7 @@ translate french sm1ms024_6bfc74d9:
 translate french sm1ms024_fcda8cc6:
 
     # mc "That's the most grown-ass thing you've said since you said 'take my ass'."
-    mc "C’est la chose la plus adulte que t’aies dite depuis que t’as dit « prends mon cul »."
+    mc "C’est la chose la plus adulte que t’aies dite depuis que t’as dit 'prends mon cul'."
 
 # game/code/scenes/main_story/sm1ms024.rpy:253
 translate french sm1ms024_64961bb1:
@@ -746,7 +746,7 @@ translate french sm1ms024_25dee965:
 translate french sm1ms024_ef606456:
 
     # sy "And I need to get better at scripts, and, and-"
-    sy "Et je dois m’améliorer pour les scénarios, et, et—"
+    sy "Et je dois m’améliorer pour les scénarios, et, et..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:360
 translate french sm1ms024_354881fa:
@@ -758,7 +758,7 @@ translate french sm1ms024_354881fa:
 translate french sm1ms024_97772608:
 
     # sy "I'll call Kanya, and, uhm, start looking at things on the internet-"
-    sy "Je vais appeler Kanya et, euh, commencer à chercher des trucs sur Internet—"
+    sy "Je vais appeler Kanya et, euh, commencer à chercher des trucs sur Internet..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:364
 translate french sm1ms024_9de07441:

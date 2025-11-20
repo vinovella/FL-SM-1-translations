@@ -14,7 +14,7 @@ translate french sm1cs_tl007_b1823e97:
 translate french sm1cs_tl007_2de14837:
 
     # mc "What's the-"
-    mc "Qu’est-ce que—"
+    mc "Qu’est-ce que..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:28
 translate french sm1cs_tl007_47661554:
@@ -32,7 +32,7 @@ translate french sm1cs_tl007_5a5684ba:
 translate french sm1cs_tl007_d6b07f02:
 
     # sy "I don't know!{w} I just came in here to shower, and then water started spraying everywhere, and-"
-    sy "J’en sais rien ! {w} J’étais juste venue pour prendre une douche, et l’eau s’est mise à gicler partout, et—"
+    sy "J’en sais rien ! {w} J’étais juste venue pour prendre une douche, et l’eau s’est mise à gicler partout, et..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:37
 translate french sm1cs_tl007_0f36c409:
@@ -80,7 +80,7 @@ translate french sm1cs_tl007_3c0408af:
 translate french sm1cs_tl007_f8aeffc8:
 
     # mc "Wait, Stacy-"
-    mc "Attends, Stacy—"
+    mc "Attends, Stacy..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:71
 translate french sm1cs_tl007_e730ccf4:
@@ -98,7 +98,7 @@ translate french sm1cs_tl007_6f8b649b:
 translate french sm1cs_tl007_6c09de90:
 
     # sy "Wait-"
-    sy "Attends—"
+    sy "Attends..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:81
 translate french sm1cs_tl007_eda7bd51:
@@ -128,7 +128,7 @@ translate french sm1cs_tl007_178b1f6b:
 translate french sm1cs_tl007_7eea3738:
 
     # mc "Wait - shit."
-    mc "Attends — merde."
+    mc "Attends ... merde."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:104
 translate french sm1cs_tl007_487db22f:
@@ -194,13 +194,13 @@ translate french sm1cs_tl007_b81947f6:
 translate french sm1cs_tl007_f712f5c9:
 
     # tl "Just - shut up."
-    tl "Juste — tais-toi."
+    tl "Juste ... tais-toi."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:136
 translate french sm1cs_tl007_28c1d556:
 
     # mc "I've tried, like, everything-"
-    mc "J’ai tout essayé, genre—"
+    mc "J’ai tout essayé, genre..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:143
 translate french sm1cs_tl007_ced2498a:
@@ -290,7 +290,7 @@ translate french sm1cs_tl007_37692fff:
 translate french sm1cs_tl007_2e4f993f:
 
     # mc "Well, without further ado then-"
-    mc "Eh bien, sans plus attendre alors—"
+    mc "Eh bien, sans plus attendre alors..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:197
 translate french sm1cs_tl007_93abfa17:

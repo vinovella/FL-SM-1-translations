@@ -452,7 +452,7 @@ translate french sm1ms006_99f4cad9:
 translate french sm1ms006_898c8904:
 
     # mc "But the person that ass is attached to has brought on a world of pain for herself."
-    mc "Mais la personne à qui ce cul est attaché s’est attirée pas mal de problèmes toute seule."
+    mc "Mais la personne à qui ce cul s’est attirée pas mal de problèmes toute seule."
 
 # game/code/scenes/main_story/sm1ms006.rpy:320
 translate french sm1ms006_8c47f712:
@@ -676,23 +676,23 @@ translate french sm1ms006_061f6f43:
     # sy "*giggles* Little old me? Distracting? Never."
     sy "*ricane* Moi, une distraction ? Jamais."
 
-#Translate by BlackViper_
-
 # game/code/scenes/main_story/sm1ms006.rpy:180
 translate french sm1ms006_e6186b8f:
 
     # mc "I think so too. But... AmRose said something kind of interesting."
-    mc "I think so too. But... AmRose said something kind of interesting."
+    mc "Je le pense aussi. Mais... AmRose a dit quelque chose d'assez intéressant."
 
 # game/code/scenes/main_story/sm1ms006.rpy:239
 translate french sm1ms006_eac16535:
 
     # sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
-    sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
+    sy "Ce n'est pas grave ? Je veux dire, tu as menti sur la tonne de porno que tu cachais sous ton lit, [mcname]."
 
 # game/code/scenes/main_story/sm1ms006.rpy:453
 translate french sm1ms006_ed03918c:
 
     # sy "You going to get dressed?"
-    sy "You going to get dressed?"
+    sy "Tu vas t'habiller ?"
+
+#Translate by BlackViper_
 

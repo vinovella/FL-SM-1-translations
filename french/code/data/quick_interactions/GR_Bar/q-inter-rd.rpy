@@ -76,11 +76,10 @@ translate french q_inter_rd_6_1203e51e:
     # mc "Ridley."
     mc "Ridley."
 
-#Translate by BlackViper_
-
 # game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:45
 translate french q_inter_rd_4_64339c27:
 
     # mc "Phew. Thank god it's the weekend."
-    mc "Phew. Thank god it's the weekend."
+    mc "Pfiou. Dieu merci, c'est enfin le week-end."
 
+#Translate by BlackViper_

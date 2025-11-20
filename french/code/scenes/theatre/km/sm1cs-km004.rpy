@@ -284,7 +284,7 @@ translate french sm1cs_km004_32f6670f:
 translate french sm1cs_km004_e70a76b5:
 
     # tl "*low growling*"
-    tl "*grogne bas*"
+    tl "*grogne*"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:191
 translate french sm1cs_km004_f2687533:
@@ -302,7 +302,7 @@ translate french sm1cs_km004_b18a6f25:
 translate french sm1cs_km004_a7cb7f25:
 
     # tl "No. Not when you share a room with girls."
-    tl "Non. Pas quand tu partages une chambre avec des filles."
+    tl "Non. Pas quand tu partages un vestiaire avec des filles."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:199
 translate french sm1cs_km004_580f05d6:
@@ -362,7 +362,7 @@ translate french sm1cs_km004_2469a89c:
 translate french sm1cs_km004_90fdfaa9:
 
     # km "Yes but-"
-    km "Oui mais-"
+    km "Oui mais..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:244
 translate french sm1cs_km004_14a115ed:
@@ -422,13 +422,13 @@ translate french sm1cs_km004_76002d58:
 translate french sm1cs_km004_a9320074:
 
     # tl "That's it. You're dead."
-    tl "Ça y est. T'es mort."
+    tl "Ça y est. T'es morte."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:275
 translate french sm1cs_km004_526335af:
 
     # mc "Whah-"
-    mc "Whah-"
+    mc "Whah..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:278
 translate french sm1cs_km004_4dd320d9:
@@ -524,7 +524,7 @@ translate french sm1cs_km004_76e069db:
 translate french sm1cs_km004_63c64710:
 
     # tl "Dammit."
-    tl "Mince !"
+    tl "Merde !"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:346
 translate french sm1cs_km004_19af5eb2:
@@ -620,7 +620,7 @@ translate french sm1cs_km004_warehouse_23a2dc2f:
 translate french sm1cs_km004_warehouse_6bcfd0a6:
 
     # mc "You screwed up, and now Taisia is out for blood."
-    mc "Tu as foiré, et maintenant Taisia en veut à mort."
+    mc "Tu as foiré, et maintenant Taisia est assoiffée de sang."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:420
 translate french sm1cs_km004_warehouse_6d785eae:
@@ -650,7 +650,7 @@ translate french sm1cs_km004_warehouse_83ccd2bf:
 translate french sm1cs_km004_warehouse_05c854d4:
 
     # km "Yup. If you gave her a twenty, I bet she'd forget she ever saw us."
-    km "Oui. Si tu lui donnais vingt, je parie qu’elle oublierait même nous avoir vus."
+    km "Oui. Si tu lui donnais vingt balles, je parie qu’elle oublierait même nous avoir vus."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:433
 translate french sm1cs_km004_warehouse_29838345:
@@ -908,7 +908,7 @@ translate french sm1cs_km004_stage_c1cde18a:
 translate french sm1cs_km004_stage_ea887662:
 
     # dvh "Have you two seen her?"
-    dvh "Vous l'avez vue, toutes les deux ?"
+    dvh "Vous l'avez vue, tous les deux ?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:606
 translate french sm1cs_km004_stage_27d60669:
@@ -932,7 +932,7 @@ translate french sm1cs_km004_stage_c5a6f623:
 translate french sm1cs_km004_stage_9a234355:
 
     # dvh "Finally, we-"
-    dvh "Enfin, nous-"
+    dvh "Enfin, nous..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:622
 translate french sm1cs_km004_stage_2b35b6fe:
@@ -950,7 +950,7 @@ translate french sm1cs_km004_stage_f619f2ec:
 translate french sm1cs_km004_stage_edaa7b97:
 
     # dvh "What {b}is{/b} going on?"
-    dvh "Que {b}se passe{/b}‑t‑il ?"
+    dvh "Que {b}se passe{/b}-t-il ?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:630
 translate french sm1cs_km004_stage_64acf592:
@@ -974,7 +974,7 @@ translate french sm1cs_km004_stage_affb5a61:
 translate french sm1cs_km004_stage_7df993c1:
 
     # vs "Okay-dokey."
-    vs "D’accord‑d’accord."
+    vs "D’accord-d’accord."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:645
 translate french sm1cs_km004_stage_ab6182eb:
@@ -1298,7 +1298,7 @@ translate french sm1cs_km004_later_0d7004ec:
 translate french sm1cs_km004_later_f627bce6:
 
     # mct "She's naked. And-"
-    mct "Elle est nue. Et-"
+    mct "Elle est nue. Et..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:839
 translate french sm1cs_km004_later_6ac56210:
@@ -1346,7 +1346,7 @@ translate french sm1cs_km004_later_70394c34:
 translate french sm1cs_km004_later_061b3681:
 
     # vs "Kellie... what are you-"
-    vs "Kellie... qu'est-ce que tu fais-"
+    vs "Kellie... qu'est-ce que tu fais..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:871
 translate french sm1cs_km004_later_3e231a0d:
@@ -1364,7 +1364,7 @@ translate french sm1cs_km004_later_bc4f2a79:
 translate french sm1cs_km004_later_64a9558f:
 
     # km "You're going to get distracted and think about this."
-    km "Tu vas être distrait(e) et y penser."
+    km "Tu vas être distraite et y penser."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:888
 translate french sm1cs_km004_later_7a99d1ad:
@@ -1544,7 +1544,7 @@ translate french sm1cs_km004_later_7883393c:
 translate french sm1cs_km004_later_d7882c75:
 
     # vs "Hahaha. What a prankster."
-    vs "Hahaha. Quel farceur."
+    vs "Hahaha. Quelle farceuse."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:991
 translate french sm1cs_km004_later_ce720b70:
@@ -1588,7 +1588,35 @@ translate french sm1cs_km004_later_03d537de:
     # mct "I just hope that Taisia doesn't charge Kellie for the return of her clothes."
     mct "J’espère juste que Taisia ne fera pas payer Kellie pour récupérer ses vêtements."
 
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:206
+translate french sm1cs_km004_6fdfaeb6:
+
+    # tl "To see if this is a bannable offense, you uncivilized ogre."
+    tl "Pour vérifier si ça mérite une exclusion, espèce d’ogre sans éducation."
+
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:491
+translate french sm1cs_km004_locker_b82e7b9d:
+
+    # mct "At least we know Veronica won't be coming anytime soon. I can still hear the shower."
+    mct "Au moins, on sait que Veronica ne reviendra pas tout de suite. J’entends encore la douche."
+
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:666
+translate french sm1cs_km004_stage_c13052d4:
+
+    # vs "What's in a name? That which we call a rose."
+    vs "Qu’y a-t-il dans un nom ? Ce que nous appelons une rose."
+
+# game/code/scenes/theatre/km/sm1cs-km004.rpy:681
+translate french sm1cs_km004_stage_4661a3df:
+
+    # dvh "Exquisite, Veronica."
+    dvh "Exquis, Veronica."
+
 translate french strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
+    old "Yeah, it's exciting."
+    new "Ouais, c'est plutôt excitant."
     
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
     old "What is my role again?"
@@ -1618,34 +1646,9 @@ translate french strings:
     old "I'm starting to get worried"
     new "Je commence à m'inquiéter."
 
-#Translate by BlackViper_
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:206
-translate french sm1cs_km004_6fdfaeb6:
-
-    # tl "To see if this is a bannable offense, you uncivilized ogre."
-    tl "To see if this is a bannable offense, you uncivilized ogre."
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:491
-translate french sm1cs_km004_locker_b82e7b9d:
-
-    # mct "At least we know Veronica won't be coming anytime soon. I can still hear the shower."
-    mct "At least we know Veronica won't be coming anytime soon. I can still hear the shower."
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:666
-translate french sm1cs_km004_stage_c13052d4:
-
-    # vs "What's in a name? That which we call a rose."
-    vs "What's in a name? That which we call a rose."
-
-# game/code/scenes/theatre/km/sm1cs-km004.rpy:681
-translate french sm1cs_km004_stage_4661a3df:
-
-    # dvh "Exquisite, Veronica."
-    dvh "Exquisite, Veronica."
-
-translate french strings:
-
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
     old "Yeah, it's exciting"
-    new "Yeah, it's exciting"
+    new "Oui, c'est excitant"
+
+#Translate by BlackViper_
 

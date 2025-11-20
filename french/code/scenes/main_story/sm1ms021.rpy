@@ -242,13 +242,13 @@ translate french sm1ms021_344ffae0:
 translate french sm1ms021_8be8a842:
 
     # sy "'Loved your work. The scene was exactly what I was looking for.'"
-    sy "«J’ai adoré votre travail. La scène correspondait exactement à ce que je recherchais.»"
+    sy "'J’ai adoré votre travail. La scène correspondait exactement à ce que je recherchais.'"
 
 # game/code/scenes/main_story/sm1ms021.rpy:148
 translate french sm1ms021_0cf622cf:
 
     # sy "'Great work by both of your actors and your camera work. I really enjoyed watching the film.'"
-    sy "«Excellent travail de vos deux acteurs et de votre mise en scène. J’ai vraiment pris plaisir à regarder le film.»"
+    sy "'Excellent travail de vos deux acteurs et de votre mise en scène. J’ai vraiment pris plaisir à regarder le film.'"
 
 # game/code/scenes/main_story/sm1ms021.rpy:151
 translate french sm1ms021_85a9a2d1:
@@ -284,13 +284,13 @@ translate french sm1ms021_73c09c4c:
 translate french sm1ms021_83104082:
 
     # mc "'This is embarrassing, but if I can't talk to you about it, who can I?'"
-    mc "«C’est embarrassant, mais si je ne peux pas t’en parler, à qui le pourrais-je ?»"
+    mc "'C’est embarrassant, mais si je ne peux pas t’en parler, à qui le pourrais-je ?'"
 
 # game/code/scenes/main_story/sm1ms021.rpy:164
 translate french sm1ms021_249173a2:
 
     # mc "'I have always been a fan of buttstuff. Not just anal sex, but that is where we can start.'"
-    mc "«J’ai toujours été fan de stimulation anale. Pas seulement du sexe anal, mais c’est un bon point de départ.»"
+    mc "'J’ai toujours été fan de stimulation anale. Pas seulement du sexe anal, mais c’est un bon point de départ.'"
 
 # game/code/scenes/main_story/sm1ms021.rpy:165
 translate french sm1ms021_dfac26d3:
@@ -320,19 +320,19 @@ translate french sm1ms021_7f33bf16:
 translate french sm1ms021_4286ec2c:
 
     # mc "'So for this new scene, I would like to have it focus on anal sex.'"
-    mc "«Donc, pour cette nouvelle scène, j’aimerais qu’elle se concentre sur le sexe anal.»"
+    mc "'Donc, pour cette nouvelle scène, j’aimerais qu’elle se concentre sur le sexe anal.'"
 
 # game/code/scenes/main_story/sm1ms021.rpy:179
 translate french sm1ms021_a9342863:
 
     # mc "'You can use toys and fingering or whatever, but one thing I want to make sure is in there is a big cock pounding a tight ass.'"
-    mc "«Tu peux utiliser des jouets, des doigts ou autre chose, mais je veux m’assurer qu’il y ait une grosse bite qui pénètre un cul bien serré.»"
+    mc "'Tu peux utiliser des jouets, des doigts ou autre chose, mais je veux m’assurer qu’il y ait une grosse bite qui pénètre un cul bien serré.'"
 
 # game/code/scenes/main_story/sm1ms021.rpy:180
 translate french sm1ms021_e020bd48:
 
     # mc "'And please use the red wig again.'"
-    mc "«Et merci d’utiliser à nouveau la perruque rouge.»"
+    mc "'Et merci d’utiliser à nouveau la perruque rouge.'"
 
 # game/code/scenes/main_story/sm1ms021.rpy:183
 translate french sm1ms021_d086d80c:
@@ -580,70 +580,71 @@ translate french sm1ms021_3829caaa:
     # sy "For the dream! Hehehe!"
     sy "Pour le rêve ! Hehehe !"
 
-#Translate by BlackViper_
 # game/code/scenes/main_story/sm1ms021.rpy:69
 translate french sm1ms021_f93fec35:
 
     # mc "You're talking about my dick, right?"
-    mc "You're talking about my dick, right?"
+    mc "Tu parles de ma bite, là, non ?"
 
 # game/code/scenes/main_story/sm1ms021.rpy:92
 translate french sm1ms021_ceba888b:
 
     # sy "This space... it's not just a studio anymore. It's starting to feel like our dream is finally taking shape."
-    sy "This space... it's not just a studio anymore. It's starting to feel like our dream is finally taking shape."
+    sy "Cet espace... ce n'est plus juste un studio. J'ai l'impression que notre rêve commence enfin à prendre forme."
 
 # game/code/scenes/main_story/sm1ms021.rpy:107
 translate french sm1ms021_cedf59a8:
 
     # sy "Same here. I mean, you're the one who kept me sane through all of this."
-    sy "Same here. I mean, you're the one who kept me sane through all of this."
+    sy "Moi aussi. Je veux dire, c'est toi qui m'as gardée saine d'esprit à travers tout ça."
 
 # game/code/scenes/main_story/sm1ms021.rpy:112
 translate french sm1ms021_1092c087:
 
     # sy "And with Mom around, it's been just a little bit more hectic."
-    sy "And with Mom around, it's been just a little bit more hectic."
+    sy "Et avec Maman dans les parages, ça a été un peu plus chaotique."
 
 # game/code/scenes/main_story/sm1ms021.rpy:217
 translate french sm1ms021_532bc35f:
 
     # sy "I guess so long as the check clears, I'm not complaining."
-    sy "I guess so long as the check clears, I'm not complaining."
+    sy "J'imagine que tant que le chèque passe, je ne vais pas me plaindre."
 
 # game/code/scenes/main_story/sm1ms021.rpy:218
 translate french sm1ms021_2aa31d72:
 
     # sy "And now that we've got the extra power and space in the studio, this film is going to be even better than the first one."
-    sy "And now that we've got the extra power and space in the studio, this film is going to be even better than the first one."
+    sy "Et maintenant qu'on a plus de moyens et d'espace dans le studio, ce film va être encore meilleur que le premier."
 
 # game/code/scenes/main_story/sm1ms021.rpy:222
 translate french sm1ms021_3a6cba59:
 
     # mct "She's got a point. This is the kind of project that could put us on the map if we nail it."
-    mct "She's got a point. This is the kind of project that could put us on the map if we nail it."
+    mct "Elle marque un point. C'est le genre de projet qui pourrait vraiment nous faire connaître si on le réussit."
 
 # game/code/scenes/main_story/sm1ms021.rpy:226
 translate french sm1ms021_d5128873:
 
     # mc "Alright, let's start brainstorming then."
-    mc "Alright, let's start brainstorming then."
+    mc "Très bien, alors commençons à réfléchir."
 
 # game/code/scenes/main_story/sm1ms021.rpy:232
 translate french sm1ms021_1b494305:
 
     # sy "Hold on there, Spielberg. We can't just jump in without a solid plan and, more importantly, without money."
-    sy "Hold on there, Spielberg. We can't just jump in without a solid plan and, more importantly, without money."
+    sy "Doucement, Spielberg. On ne peut pas se lancer sans un vrai plan et surtout, sans argent."
 
 # game/code/scenes/main_story/sm1ms021.rpy:282
 translate french sm1ms021_67f7648d:
 
     # mc "Alright, let's map this out. First, we secure the funding. Then, we finalize the concept for the scene."
-    mc "Alright, let's map this out. First, we secure the funding. Then, we finalize the concept for the scene."
+    mc "D'accord, on organise ça. D'abord, on obtient le financement. Ensuite, on finalise le concept de la scène."
 
 # game/code/scenes/main_story/sm1ms021.rpy:312
 translate french sm1ms021_bd60b7b9:
 
     # mc "Let's do this. For the studio and for the dream."
-    mc "Let's do this. For the studio and for the dream."
+    mc "Faisons-le. Pour le studio et pour le rêve."
+
+#Translate by BlackViper_
 

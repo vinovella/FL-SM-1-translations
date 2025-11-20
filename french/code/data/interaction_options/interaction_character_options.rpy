@@ -145,6 +145,10 @@
     new "Parler de la fille à la caméra"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Purchase Photography-101 for $"
+    new "Acheter Photographie-101 pour $"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Tell Stacy about Kanya"
     new "Parler à Stacy de Kanya"
 
@@ -269,12 +273,28 @@
     new "Répétition pour le spectacle"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Let's go to Amusement Park"
+    new "Allons au parc d'attractions"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Interview Taisia now"
     new "Interviewe Taisia maintenant"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "___ INSERT _____"
+    new "___ INSÉRER _____"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Purchase Stars Weekly for $"
+    new "Acheter Stars Weekly pour $"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Next Blitz?"
     new "Prochain Blitz ?"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Purchase An Actor Prepares for $"
+    new "Acheter *An Actor Prepares* pour $"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Hey Kellie!"
@@ -352,143 +372,112 @@
     old "I finished editing!"
     new "J'ai fini le montage !"
 
-#Translate by BlackViper_
-
-translate french strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk with Stacy about her job search"
-    new "Talk with Stacy about her job search"
+    new "Parler avec Stacy de sa recherche d'emploi"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Choose the movie you want to film"
-    new "Choose the movie you want to film"
+    new "Choisir le film que tu veux réaliser"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk to Stacy about the second movie"
-    new "Talk to Stacy about the second movie"
+    new "Parler à Stacy du deuxième film"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Prepare for the party"
-    new "Prepare for the party"
+    new "Préparer la fête"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Confront Amore"
-    new "Confront Amore"
+    new "Confronter Amore"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about work"
-    new "Talk about work"
+    new "Parler du travail"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Borrow Stacy's Laptop"
-    new "Borrow Stacy's Laptop"
+    new "Emprunter l'ordinateur portable de Stacy"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have some fun with Min"
-    new "Have some fun with Min"
+    new "S'amuser avec Min"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Smash"
-    new "Smash"
+    new "Baiser"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Let's go to the Amusement Park"
-    new "Let's go to the Amusement Park"
+    new "Allons au parc d'attractions"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask about the play"
-    new "Ask about the play"
+    new "Demander à propos de la pièce de théâtre"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Wurst Delivery Sponsorship"
-    new "Wurst Delivery Sponsorship"
+    new "Sponsorisation de livraison de saucisses"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Sci-Fi movie"
-    new "Sci-Fi movie"
+    new "Film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Min for the Sci-Fi Movie"
-    new "Recruit Min for the Sci-Fi Movie"
+    new "Recruter Min pour le film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Sci-Fi Movie props"
-    new "Talk about Sci-Fi Movie props"
+    new "Parler des accessoires du film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Recruit Nari for the Sci-Fi Movie"
-    new "Recruit Nari for the Sci-Fi Movie"
+    new "Recruter Nari pour le film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about building set for Sci-Fi Movie"
-    new "Talk about building set for Sci-Fi Movie"
+    new "Parler de la construction du décor pour le film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Continue building set for Sci-Fi Movie"
-    new "Continue building set for Sci-Fi Movie"
+    new "Continuer la construction du décor du film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Next step for the Sci-Fi Movie"
-    new "Next step for the Sci-Fi Movie"
+    new "Prochaine étape du film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Prepare for filming the Sci-Fi Movie"
-    new "Prepare for filming the Sci-Fi Movie"
+    new "Préparer le tournage du film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Start filming the Sci-Fi Movie"
-    new "Start filming the Sci-Fi Movie"
+    new "Commencer le tournage du film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Film the next Sci-Fi Movie scene"
-    new "Film the next Sci-Fi Movie scene"
+    new "Filmer la scène suivante du film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about going to the spa with Lyssa"
-    new "Talk about going to the spa with Lyssa"
+    new "Parler d'aller au spa avec Lyssa"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about going to the spa with Min"
-    new "Talk about going to the spa with Min"
+    new "Parler d'aller au spa avec Min"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about big scenes in Sci-Fi Movie"
-    new "Talk about big scenes in Sci-Fi Movie"
+    new "Parler des grandes scènes du film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Film the final scene of Sci-Fi Movie"
-    new "Film the final scene of Sci-Fi Movie"
+    new "Filmer la scène finale du film de science-fiction"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Done editing the Sci-Fi Movie"
-    new "Done editing the Sci-Fi Movie"
+    new "Montage du film de science-fiction terminé"
 
-translate french strings:
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Photography-101 for $60"
-    new "Purchase Photography-101 for $60"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase Stars Weekly for $30"
-    new "Purchase Stars Weekly for $30"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Purchase An Actor Prepares for $60"
-    new "Purchase An Actor Prepares for $60"
-
-translate french strings:
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Ask Debbie to the movies"
-    new "Ask Debbie to the movies"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Have some fun in the toilet"
-    new "Have some fun in the toilet"
-
-    # game/code/data/interaction_options/interaction_character_options.rpy:3
-    old "Good morning!"
-    new "Good morning!"
-
+#Translate by BlackViper_

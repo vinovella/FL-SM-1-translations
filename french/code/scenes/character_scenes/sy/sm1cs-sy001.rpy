@@ -404,7 +404,7 @@ translate french sm1cs_sy001_shower_sex_18f9ec31:
 translate french sm1cs_sy001_shower_sex_51bbc7f3:
 
     # mc "Uhhh Stacy, what are you -"
-    mc "Euhhh Stacy, qu'est-ce que tu—"
+    mc "Euhhh Stacy, qu'est-ce que tu..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:277
 translate french sm1cs_sy001_shower_sex_f9fc7303:
@@ -446,7 +446,7 @@ translate french sm1cs_sy001_shower_sex_ee088831:
 translate french sm1cs_sy001_shower_sex_9e96fb48:
 
     # sy "It's been, mmmmmmng, hard work, but -"
-    sy "Ça a été, mmmmmmng, du boulot, mais—"
+    sy "Ça a été, mmmmmmng, du boulot, mais..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:299
 translate french sm1cs_sy001_shower_sex_0365bafe:
@@ -548,7 +548,7 @@ translate french sm1cs_sy001_shower_sex_5d41150d:
 translate french sm1cs_sy001_shower_sex_fe6e7553:
 
     # mc "I actually need to use the toilet. One sec -"
-    mc "En fait, j'dois aller aux chiottes. Une seconde—"
+    mc "En fait, j'dois aller aux chiottes. Une seconde..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:354
 translate french sm1cs_sy001_shower_sex_b84825d4:
@@ -602,7 +602,7 @@ translate french sm1cs_sy001_watersports_766dcd96:
 translate french sm1cs_sy001_watersports_fa9f8080:
 
     # mc "Seriously, I can just-"
-    mc "Sérieusement, je peux juste—"
+    mc "Sérieusement, je peux juste..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:380
 translate french sm1cs_sy001_watersports_f7928f32:
@@ -759,10 +759,4 @@ translate french strings:
     new "En fait, j’ai un peu envie de pisser"
 
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:426
-translate french sm1cs_sy001_watersports_962bd759:
-
-    # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
-    sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
 

@@ -26,7 +26,7 @@
 
     # game/code/data/chat/chat_vs.rpy:3
     old "Hahah. Rubbing her clam? You're ridiculous."
-    new "Hahaha. « Se tripoter » ? T’es con."
+    new "Hahaha. Se tripoter ? T’es con."
 
     # game/code/data/chat/chat_vs.rpy:3
     old "I tried to talk to her after, but she's avoiding me."

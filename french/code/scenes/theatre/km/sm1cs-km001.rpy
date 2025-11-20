@@ -32,7 +32,7 @@ translate french sm1cs_km001_7fc0c25f:
 translate french sm1cs_km001_f916c32f:
 
     # mc "Kellie asked me to get two sets of prop swords and shields. She specified 'Roman' ones?"
-    mc "Kellie m’a demandé de récupérer deux ensembles d’épées et de boucliers factices. Elle a précisé des modèles ‘romains’ ?"
+    mc "Kellie m’a demandé de récupérer deux ensembles d’épées et de boucliers factices. Elle a précisé des modèles 'romain' ?"
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:32
 translate french sm1cs_km001_903f3073:
@@ -508,7 +508,21 @@ translate french sm1cs_km001_e1a4d150:
     # mct "Hopefully, without dying."
     mct "En espérant que ça ne me coûte pas la vie."
 
+# game/code/scenes/theatre/km/sm1cs-km001.rpy:240
+translate french sm1cs_km001_7ca99b3a:
+
+    # km "Hmmm. Not bad for an amateur."
+    km "Hmmm. Pas mal pour un amateur."
+
 translate french strings:
+
+    # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
+    old "I'll go easy on you."
+    new "Je vais y aller doucement avec toi."
+
+    # game/code/scenes/theatre/km/sm1cs-km001.rpy:127
+    old "Let's dance, Kellie."
+    new "Allons danser, Kellie."
 
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:189
     old "Distract her with flirting"
@@ -522,32 +536,13 @@ translate french strings:
     old "Be sneaky and go low"
     new "Être rusé et frapper bas"
 
-#Translate by BlackViper_
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:73
-translate french sm1cs_km001_b55f6d50:
-
-    # mct "Why is she snooping?"
-    mct "Why is she snooping?"
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:116
-translate french sm1cs_km001_7262d936:
-
-    # km "Unless you're afraid to lose to a girl."
-    km "Unless you're afraid to lose to a girl."
-
-# game/code/scenes/theatre/km/sm1cs-km001.rpy:240
-translate french sm1cs_km001_7ca99b3a:
-
-    # km "Hmmm. Not bad for an amateur."
-    km "Hmmm. Not bad for an amateur."
-
-translate french strings:
-
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
     old "I'll go easy on you"
-    new "I'll go easy on you"
+    new "Je serai gentil avec toi"
 
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
     old "Let's dance, Kellie"
-    new "Let's dance, Kellie"
+    new "Danse avec moi, Kellie"
+
+#Translate by BlackViper_
 

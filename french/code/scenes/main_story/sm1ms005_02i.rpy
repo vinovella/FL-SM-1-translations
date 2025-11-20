@@ -52,6 +52,12 @@ translate french sm1ms005_02i_db837775:
     # mc "I think we slow it down and have some of that romantic passion."
     mc "Je pense qu’on devrait ralentir et se faire un peu de passion romantique."
 
+# game/code/scenes/main_story/sm1ms005_02i.rpy:43
+translate french sm1ms005_02i_5ddbcfce:
+
+    # sy "Alright. Let's do it."
+    sy "Très bien. Allons-y."
+
 translate french strings:
 
     # game/code/scenes/main_story/sm1ms005_02i.rpy:13
@@ -67,10 +73,4 @@ translate french strings:
     new "Faire l’amour"
 
 #Translate by BlackViper_
-
-# game/code/scenes/main_story/sm1ms005_02i.rpy:43
-translate french sm1ms005_02i_5ddbcfce:
-
-    # sy "Alright. Let's do it."
-    sy "Alright. Let's do it."
 

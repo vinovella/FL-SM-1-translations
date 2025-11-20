@@ -176,7 +176,7 @@ translate french sm1ms023_a4dfa9a7:
 translate french sm1ms023_00d0de41:
 
     # sy "And yeah, that's most of the video editing to do. I mean, there's definitely some more fine tuning I want to do, but-"
-    sy "Et oui, c'est presque tout le montage. Il y a encore quelques ajustements que je veux faire, mais—"
+    sy "Et oui, c'est presque tout le montage. Il y a encore quelques ajustements que je veux faire, mais..."
 
 # game/code/scenes/main_story/sm1ms023.rpy:121
 translate french sm1ms023_21b35f3d:

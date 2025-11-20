@@ -290,7 +290,7 @@ translate french sm1cs_cw006_1a866b7c:
 translate french sm1cs_cw006_5c584eed:
 
     # cw "I'm going to go to the park, then my allergies will give me the perfect not-so-fake tears to really sell the breakup to my parents."
-    cw "Je vais aller au parc, mes allergies me donneront les larmes parfaites — pas si fausses — pour vraiment vendre la rupture à mes parents."
+    cw "Je vais aller au parc, mes allergies me donneront les larmes parfaites ... pas si fausses ... pour vraiment vendre la rupture à mes parents."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:187
 translate french sm1cs_cw006_a23ecc31:
@@ -1508,7 +1508,7 @@ translate french sm1cs_cw006_at_desk_5351c5d7:
 translate french sm1cs_cw006_at_desk_fe31eeea:
 
     # am "Right. So instead of coming to her hotshot best in the entire state coder, Claire, who is not even our boss..."
-    am "Ouais, bien sûr. Donc au lieu de venir voir sa super star du code, la meilleure du coin — moi — Claire, qui est même pas notre patronne..."
+    am "Ouais, bien sûr. Donc au lieu de venir voir sa super star du code, la meilleure du coin ... moi ... Claire, qui est même pas notre patronne..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:783
 translate french sm1cs_cw006_at_desk_53d45c14:
@@ -1739,6 +1739,10 @@ translate french strings:
     new "Ne pas la croire"
 
     # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:480
+    old "You're lips?"
+    new "Tes lèvres ?"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:480
     old "Your ass?"
     new "Ton cul ?"
 
@@ -1762,46 +1766,8 @@ translate french strings:
     old "Then I have my answer"
     new "Alors j’ai ma réponse"
 
-#Translate by BlackViper_
-translate french strings:
-
     # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:476
     old "Your lips?"
-    new "Your lips?"
+    new "Tes lèvres ?"
 
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:238
-translate french sm1cs_cw006_8854937c:
-
-    # cw "If I didn't need your help in the first place..."
-    cw "If I didn't need your help in the first place..."
-
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:253
-translate french sm1cs_cw006_8fc13b58:
-
-    # mc "I can only control my body so much, Claire."
-    mc "I can only control my body so much, Claire."
-
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:353
-translate french cw006_choice1_b19ad390:
-
-    # mc "Of course, Ms. Watts."
-    mc "Of course, Ms. Watts."
-
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:400
-translate french sm1cs_cw006_onramp_1a_e8dd973e:
-
-    # cw "I think a little further analysis would be good.{w} Necessary even."
-    cw "I think a little further analysis would be good.{w} Necessary even."
-
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:421
-translate french sm1cs_cw006_onramp_1a_141a8791:
-
-    # cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
-    cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
-
-# game/code/scenes/it_office/cw/sm1cs-cw006.rpy:860
-translate french sm1cs_cw006_onramp_2_d125b649:
-
-    # mc "I wanted to talk to you about that special assignment you mentioned?"
-    mc "I wanted to talk to you about that special assignment you mentioned?"
-
+#Translate by BlackViper_

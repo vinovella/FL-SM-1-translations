@@ -20,7 +20,7 @@ translate french sm1cs_cs001_9654d2fb:
 translate french sm1cs_cs001_abbbddcb:
 
     # mct "I actually can't believe that this is her old coffee shop. They painted, and-"
-    mct "J’arrive pas à croire que c’était son vieux café. Ils ont repeint et—"
+    mct "J’arrive pas à croire que c’était son vieux café. Ils ont repeint et..."
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:21
 translate french sm1cs_cs001_6e453293:
@@ -74,7 +74,7 @@ translate french sm1cs_cs001_3138ead7:
 translate french sm1cs_cs001_249f0f46:
 
     # mc "Nora's - yeah."
-    mc "Nora’s — ouais."
+    mc "Nora’s ... ouais."
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:44
 translate french sm1cs_cs001_c74c1883:
@@ -140,7 +140,7 @@ translate french sm1cs_cs001_6d7a79b5:
 translate french sm1cs_cs001_e67fbaa1:
 
     # cs "Most people-"
-    cs "La plupart des gens—"
+    cs "La plupart des gens..."
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:76
 translate french sm1cs_cs001_dd52fc66:
@@ -197,10 +197,4 @@ translate french sm1cs_cs001_24cdc073:
     cs "Uh huh."
 
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:65
-translate french sm1cs_cs001_0b11eff4:
-
-    # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
-    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
 

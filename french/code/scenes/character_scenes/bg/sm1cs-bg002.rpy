@@ -254,7 +254,7 @@ translate french sm1cs_bg002_white_screen_be072e2d:
 translate french sm1cs_bg002_white_screen_57310445:
 
     # bg "Wha... I-"
-    bg "Quoi... je—"
+    bg "Quoi... je..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:167
 translate french sm1cs_bg002_white_screen_d84984a2:
@@ -1563,22 +1563,4 @@ translate french strings:
     new "Je pense que ça ira"
 
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:346
-translate french sm1cs_bg002_white_screen_12b3e2b8:
-
-    # kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
-    kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:382
-translate french sm1cs_bg002_white_screen_cf9bf6a9:
-
-    # kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
-    kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:667
-translate french sm1cs_bg002_continue_shoot_75643fbc:
-
-    # mc "I'm cummmming!"
-    mc "I'm cummmming!"
 

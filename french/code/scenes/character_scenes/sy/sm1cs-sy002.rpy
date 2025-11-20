@@ -314,13 +314,13 @@ translate french sm1cs_sy002_aeb55dee:
 translate french sm1cs_sy002_a96f2443:
 
     # mc "I-I- I'll do anything to win you over! My life is yours! I love you-"
-    mc "Je... je ferai n’importe quoi pour te conquérir ! Ma vie est à toi ! Je t’aime—"
+    mc "Je... je ferai n’importe quoi pour te conquérir ! Ma vie est à toi ! Je t’aime..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:199
 translate french sm1cs_sy002_a699ad7d:
 
     # sy "Okay, that was terrible! What's even better was that jogger running by. Kodak moment - did you see her face?"
-    sy "Ok, c’était affreux ! Mais encore mieux : la joggeuse qui est passée. Moment Kodak — t’as vu sa tête ?"
+    sy "Ok, c’était affreux ! Mais encore mieux : la joggeuse qui est passée. Moment Kodak ... t’as vu sa tête ?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:202
 translate french sm1cs_sy002_72d41c8d:
@@ -596,7 +596,7 @@ translate french sm1cs_sy002_2_cfbc263a:
 translate french sm1cs_sy002_2_345c673b:
 
     # sy "Oh yes, do that - mmmmmmpppphhh - do that thing with your tongue I like!"
-    sy "Oh oui, fais ça — mmmmmmpppphhh — fais ce truc avec ta langue que j’adore !"
+    sy "Oh oui, fais ça ... mmmmmmpppphhh ... fais ce truc avec ta langue que j’adore !"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:342
 translate french sm1cs_sy002_2_160cd786:
@@ -620,13 +620,13 @@ translate french sm1cs_sy002_2_4b511c95:
 translate french sm1cs_sy002_2_180a2373:
 
     # sy "Oh God, Agent - I'm gonna - Agent!"
-    sy "Oh mon Dieu, Agent — je vais... Agent !"
+    sy "Oh mon Dieu, Agent ... je vais... Agent !"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:348
 translate french sm1cs_sy002_2_6c5ba43c:
 
     # sy "Ohhhh ooouuuuaaaaaaaahhhhhh - Agent [mcname]! I'm gonnnnaaaaaa-"
-    sy "Ohhhh ooouuuuaaaaaaaahhhhhh — Agent [mcname] ! Je vais jouiiiiir—"
+    sy "Ohhhh ooouuuuaaaaaaaahhhhhh ... Agent [mcname] ! Je vais jouiiiiir..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:351
 translate french sm1cs_sy002_2_e3652c66:
@@ -638,7 +638,7 @@ translate french sm1cs_sy002_2_e3652c66:
 translate french sm1cs_sy002_2_7f7c78b9:
 
     # sy "CUH-CUH-CUMMMM-"
-    sy "Je... jouuuuuuuuuis—"
+    sy "Je... jouuuuuuuuuis..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:359
 translate french sm1cs_sy002_2_44f9e064:
@@ -734,7 +734,7 @@ translate french sm1cs_sy002_2_7b471f6f:
 translate french sm1cs_sy002_2_d9f234e4:
 
     # sy "Oh God, Agent - I've missed your cock so much! The lonely nights behind the Iron Curtain... I can't wait until we can do this without fear of our superiors!"
-    sy "Oh mon Dieu, Agent — ta bite m’a tellement manqué ! Les nuits solitaires derrière le rideau de fer... J’ai hâte qu’on puisse faire ça sans craindre nos supérieurs !"
+    sy "Oh mon Dieu, Agent ... ta bite m’a tellement manqué ! Les nuits solitaires derrière le rideau de fer... J’ai hâte qu’on puisse faire ça sans craindre nos supérieurs !"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:401
 translate french sm1cs_sy002_2_c01adeea:
@@ -866,7 +866,7 @@ translate french sm1cs_sy002_2_d341e8aa:
 translate french sm1cs_sy002_2_1be0b372:
 
     # sy "This is a specialty technique I learned in some advanced course work-"
-    sy "C’est une technique spéciale que j’ai apprise dans une formation avancée—"
+    sy "C’est une technique spéciale que j’ai apprise dans une formation avancée..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:454
 translate french sm1cs_sy002_2_b964d814:
@@ -980,7 +980,7 @@ translate french sm1cs_sy002_2_43b64cc0:
 translate french sm1cs_sy002_2_503bfbfa:
 
     # sy "Oh God, I'm going to cum again! I'm gonna, I'm gonna-!"
-    sy "Oh mon Dieu, je vais jouir encore ! Je vais... je vais—!"
+    sy "Oh mon Dieu, je vais jouir encore ! Je vais... je vais...!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:489
 translate french sm1cs_sy002_2_36d4e6c9:
@@ -1238,17 +1238,18 @@ translate french sm1cs_sy002_dc_talk_074ea2e5:
 translate french sm1cs_sy002_77589fcc:
 
     # mc "It sounds like you've been planning this idea out for a while, Stacy."
-    mc "It sounds like you've been planning this idea out for a while, Stacy."
+    mc "On dirait que tu prépares cette idée depuis un moment, Stacy."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:267
 translate french sm1cs_sy002_2_221a6943:
 
     # sy "But never mind that! Let's get into the acting!"
-    sy "But never mind that! Let's get into the acting!"
+    sy "Mais laisse tomber ça ! Passons au jeu d'acteur !"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:587
 translate french sm1cs_sy002_dc_talk_4558d886:
 
     # mc "{size=*0.7}She looks like the park cop.{/size}"
-    mc "{size=*0.7}She looks like the park cop.{/size}"
+    mc "{size=*0.7}On dirait la flic du parc.{/size}"
 
+#Translate by BlackViper_

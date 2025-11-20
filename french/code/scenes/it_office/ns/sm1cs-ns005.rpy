@@ -296,7 +296,7 @@ translate french sm1cs_ns005_in_bathroom_f3e7f2dd:
 translate french sm1cs_ns005_in_bathroom_8a47c596:
 
     # mc "Haha. I'm hardly the most 'traditional' guy, and if you're not interested in something like that-"
-    mc "Haha. Je suis pas vraiment le mec le plus 'traditionnel', et si ça t’intéresse pas—"
+    mc "Haha. Je suis pas vraiment le mec le plus 'traditionnel', et si ça t’intéresse pas..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:211
 translate french sm1cs_ns005_in_bathroom_c8b9ae5b:
@@ -596,7 +596,7 @@ translate french sm1cs_ns005_in_bathroom_b5f3646f:
 translate french sm1cs_ns005_in_bathroom_402813b1:
 
     # mc "Do we need a safe-"
-    mc "On a besoin d’un mot de sécu—"
+    mc "On a besoin d’un mot de sécu..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:342
 translate french sm1cs_ns005_in_bathroom_addc179d:
@@ -698,7 +698,7 @@ translate french sm1cs_ns005_in_bathroom_7a86d034:
 translate french sm1cs_ns005_in_bathroom_8f7a1ced:
 
     # mct "At least she's being quiet now. My own little cock-sucking ninja."
-    mct "Au moins, elle est silencieuse maintenant. Mon petit ninja suceur de bite."
+    mct "Au moins, elle est silencieuse maintenant. Ma petite ninja suceuse de bite."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:395
 translate french sm1cs_ns005_in_bathroom_00ab719a:
@@ -835,7 +835,7 @@ translate french sm1cs_ns005_in_bathroom_d6479007:
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:496
 translate french sm1cs_ns005_after_cum_1d0518ba:
 
-    # ns "*heavy breathing*"
+    # ns "*respiration lourde*"
     ns "*respiration haletante*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:505
@@ -1117,46 +1117,4 @@ translate french strings:
     new "Jouir dans la bouche de Nari"
 
 #Translate by BlackViper_
-
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:32
-translate french sm1cs_ns005_ef1a9eef:
-
-    # mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
-    mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
-
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:46
-translate french sm1cs_ns005_bdbf9d38:
-
-    # ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
-    ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
-
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:65
-translate french sm1cs_ns005_ecb1749e:
-
-    # ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
-    ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
-
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:353
-translate french sm1cs_ns005_in_bathroom_55af1966:
-
-    # mc "I... I don't. But I want you to finish me off."
-    mc "I... I don't. But I want you to finish me off."
-
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:503
-translate french sm1cs_ns005_after_cum_f15deec7:
-
-    # ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
-    ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
-
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:642
-translate french sm1cs_ns005_after_cum_5af9bd6d:
-
-    # ns "You know I'm very efficient."
-    ns "You know I'm very efficient."
-
-# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:646
-translate french sm1cs_ns005_after_cum_34dbd9c4:
-
-    # mc "Give me a little time and I'll find a restaurant and text you the details."
-    mc "Give me a little time and I'll find a restaurant and text you the details."
 

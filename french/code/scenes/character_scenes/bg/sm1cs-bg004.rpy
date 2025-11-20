@@ -200,7 +200,7 @@ translate french sm1cs_bg004_6ef5fef2:
 translate french sm1cs_bg004_aa321fd7:
 
     # bg "I... I-"
-    bg "Je... je—"
+    bg "Je... je..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:164
 translate french sm1cs_bg004_141da615:
@@ -446,7 +446,7 @@ translate french sm1cs_bg004_1e204443:
 translate french sm1cs_bg004_93b1f89a:
 
     # bg "I, uhm-"
-    bg "Je, euh—"
+    bg "Je, euh..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:280
 translate french sm1cs_bg004_f37a4d28:
@@ -950,7 +950,7 @@ translate french sm1cs_bg004_anal_be73382a:
 translate french sm1cs_bg004_anal_5409578a:
 
     # mc "Good... now-"
-    mc "Bien... maintenant—"
+    mc "Bien... maintenant..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:483
 translate french sm1cs_bg004_anal_f01b293a:
@@ -962,7 +962,7 @@ translate french sm1cs_bg004_anal_f01b293a:
 translate french sm1cs_bg004_anal_6dbb4af1:
 
     # mc "And-"
-    mc "Et—"
+    mc "Et..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:488
 translate french sm1cs_bg004_anal_ba7fc303:
@@ -1040,7 +1040,7 @@ translate french sm1cs_bg004_anal_9de0d4b8:
 translate french sm1cs_bg004_anal_952478a1:
 
     # bg "Your cock - it's my favorite thing in the world!"
-    bg "Ta bite — c’est ma chose préférée au monde !"
+    bg "Ta bite ... c’est ma chose préférée au monde !"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:513
 translate french sm1cs_bg004_anal_021faad1:
@@ -1082,7 +1082,7 @@ translate french sm1cs_bg004_anal_4803e072:
 translate french sm1cs_bg004_anal_53ebd10b:
 
     # mc "Fucking your ass-"
-    mc "Baiser ton cul—"
+    mc "Baiser ton cul..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:527
 translate french sm1cs_bg004_anal_108a769a:
@@ -1106,7 +1106,7 @@ translate french sm1cs_bg004_anal_c50c8001:
 translate french sm1cs_bg004_anal_f55e6501:
 
     # mc "Wha-"
-    mc "Quoi—"
+    mc "Quoi..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:535
 translate french sm1cs_bg004_anal_977bc925:
@@ -1118,7 +1118,7 @@ translate french sm1cs_bg004_anal_977bc925:
 translate french sm1cs_bg004_anal_1eadac68:
 
     # mct "That was sudden-"
-    mct "C’était soudain—"
+    mct "C’était soudain..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:539
 translate french sm1cs_bg004_anal_af8077eb:
@@ -1136,7 +1136,7 @@ translate french sm1cs_bg004_anal_6c52da50:
 translate french sm1cs_bg004_anal_26a64fd0:
 
     # bg "OHHHH FUUUUUCK!"
-    bg "OHHHH PUTEIIIIIN !"
+    bg "OHHHH PUTAIIIIIN !"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:543
 translate french sm1cs_bg004_anal_7b9fc1d1:
@@ -1262,7 +1262,7 @@ translate french sm1cs_bg004_anal_3e17b239:
 translate french sm1cs_bg004_anal_bc973a66:
 
     # bg "I already - mmmrrrrnnnng - I already feel like I'm going to cum!"
-    bg "Je suis déjà— mmmrrrrnnnng — j’ai déjà l’impression que je vais jouir !"
+    bg "Je suis déjà... mmmrrrrnnnng ... j’ai déjà l’impression que je vais jouir !"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:606
 translate french sm1cs_bg004_anal_2343ba31:
@@ -1274,7 +1274,7 @@ translate french sm1cs_bg004_anal_2343ba31:
 translate french sm1cs_bg004_anal_2cec0f28:
 
     # bg "Oh, oh - I'm, I'm sorry [bg_mcname!t]-"
-    bg "Oh, oh— je suis, je suis désolée [bg_mcname!t]—"
+    bg "Oh, oh... je suis, je suis désolée [bg_mcname!t]..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:608
 translate french sm1cs_bg004_anal_1cc4b03d:
@@ -1352,7 +1352,7 @@ translate french sm1cs_bg004_anal_964e5e11:
 translate french sm1cs_bg004_anal_339a170f:
 
     # bg "N-no, [bg_mcname!t]. But it's- it's hard-"
-    bg "N-non, [bg_mcname!t]. Mais c’est... c’est dur—"
+    bg "N-non, [bg_mcname!t]. Mais c’est... c’est dur..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:629
 translate french sm1cs_bg004_anal_d6e6ce1f:
@@ -1460,7 +1460,7 @@ translate french sm1cs_bg004_anal_31eb7782_1:
 translate french sm1cs_bg004_anal_964cab66:
 
     # bg "I-I-I- Gooooooood!"
-    bg "J-j-j— oh mon dieuuuuu !"
+    bg "J-j-j... oh mon dieuuuuu !"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:666
 translate french sm1cs_bg004_anal_8ca9e8c8:
@@ -1565,10 +1565,4 @@ translate french sm1cs_bg004_anal_41c02abb:
     mct "Mais elle a raison. Je devrais probablement m’habiller..."
 
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:543
-translate french sm1cs_bg004_anal_a58f65b7:
-
-    # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
-    bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
 

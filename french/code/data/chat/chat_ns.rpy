@@ -1,6 +1,10 @@
 ﻿translate french strings:
 
     # game/code/data/chat/chat_ns.rpy:3
+    old "Hey! I have an idea. Can we meet in cafe?"
+    new "Hey ! J’ai une idée. On peut se voir au café ?"
+
+    # game/code/data/chat/chat_ns.rpy:3
     old "No-no, I want you to meet someone! Can you come?"
     new "Non non, je veux que tu rencontres quelqu’un ! Tu peux venir ?"
 
@@ -8,10 +12,8 @@
     old "See you there!"
     new "On se retrouve là-bas !"
 
-#Translate by BlackViper_
-translate french strings:
-
     # game/code/data/chat/chat_ns.rpy:3
     old "Hey! I have an idea. Can we meet in the cafe?"
-    new "Hey! I have an idea. Can we meet in the cafe?"
+    new "Hey ! J'ai une idée. On peut se retrouver au café ?"
 
+#Translate by BlackViper_

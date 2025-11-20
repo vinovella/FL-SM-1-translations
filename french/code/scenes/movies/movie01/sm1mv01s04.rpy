@@ -158,7 +158,7 @@ translate french sm1mv01s04_23c89849:
 translate french sm1mv01s04_346de54f:
 
     # mc "Wait a second-"
-    mc "Attends une seconde—"
+    mc "Attends une seconde..."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:85
 translate french sm1mv01s04_6a7aedfd:
@@ -772,11 +772,11 @@ translate french sm1mv01s04_7816b969:
     # mct "But, I should get this set taken down..."
     mct "Mais bon... je ferais bien de démonter ce décor..."
 
-#Translate by BlackViper_
-
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:311
 translate french sm1mv01s04_08511480:
 
     # tl "But that doesn't mean that it won't fucking hurt if you hit someone with it."
-    tl "But that doesn't mean that it won't fucking hurt if you hit someone with it."
+    tl "Mais ça ne veut pas dire que ça ne fera pas putain de mal si tu frappes quelqu’un avec."
+
+#Translate by BlackViper_
 

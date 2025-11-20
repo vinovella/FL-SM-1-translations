@@ -104,7 +104,7 @@ translate french sm1cs_dc006_8d84c26d:
 translate french sm1cs_dc006_0d7cb424:
 
     # dc "Oh my God, [mcname]. I am {i}so, so sorry.{/i} I... that just slipped out. I didn't mean to dredge up Lydia and Fetish Locator, I-"
-    dc "Oh mon Dieu, [mcname]. Je suis {i}tellement, tellement désolée.{/i} Je... ça m’a échappé. Je ne voulais pas remuer l’histoire de Lydia et de Fetish Locator, je—"
+    dc "Oh mon Dieu, [mcname]. Je suis {i}tellement, tellement désolée.{/i} Je... ça m’a échappé. Je ne voulais pas remuer l’histoire de Lydia et de Fetish Locator, je..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:69
 translate french sm1cs_dc006_13d0febb:
@@ -140,7 +140,7 @@ translate french sm1cs_dc006_44471d5a:
 translate french sm1cs_dc006_82040262:
 
     # dc "I-"
-    dc "Je—"
+    dc "Je..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:87
 translate french sm1cs_dc006_d1c96fbe:
@@ -230,7 +230,7 @@ translate french sm1cs_dc006_6b0a689f:
 translate french sm1cs_dc006_52589806:
 
     # dc "Okay, where to begin... I, uhm-"
-    dc "Bon, par où commencer... je, euh—"
+    dc "Bon, par où commencer... je, euh..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:132
 translate french sm1cs_dc006_7957e3f5:
@@ -422,7 +422,7 @@ translate french sm1cs_dc006_8d70938f:
 translate french sm1cs_dc006_4005297e:
 
     # dc "No, I-"
-    dc "Non, je—"
+    dc "Non, je..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:220
 translate french sm1cs_dc006_c288c13d:
@@ -464,7 +464,7 @@ translate french sm1cs_dc006_1f373e09:
 translate french sm1cs_dc006_2471c7d2:
 
     # dc "I'm sorry, it's my break, and-"
-    dc "Désolée, je suis en pause, et—"
+    dc "Désolée, je suis en pause, et..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:236
 translate french sm1cs_dc006_1f373e09_1:
@@ -866,7 +866,7 @@ translate french sm1cs_dc006_at_park_47f0ea46:
 translate french sm1cs_dc006_at_park_581f08ae:
 
     # dc "I've been trying to tell you all morning. I... transitioned back in my hometown because I never felt like {i}me{/i}. Now I do."
-    dc "J’ai essayé de te le dire toute la matinée. J’ai... transitionné dans ma ville natale parce que je ne me suis jamais senti·e comme {i}moi{/i}. Maintenant oui."
+    dc "J’ai essayé de te le dire toute la matinée. J’ai... transitionné dans ma ville natale parce que je ne me suis jamais sentie comme {i}moi{/i}. Maintenant oui."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:472
 translate french sm1cs_dc006_at_park_19ea7790:
@@ -916,6 +916,12 @@ translate french sm1cs_dc006_at_park_adecc7f3:
     # mct "Woah... that's a lot to take in..."
     mct "Woah... ça fait beaucoup à encaisser..."
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:505
+translate french sm1cs_dc006_at_park_fb7dfd2e:
+
+    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
+    dc "Officer Callahan...{w} Je sais. Je suis arrivé juste au moment où il s'échappait...{w} Je sais, monsieur..."
+
 translate french strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:436
@@ -935,22 +941,3 @@ translate french strings:
     new "Ne montre aucun intérêt pour Debbie"
 
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:505
-translate french sm1cs_dc006_at_park_fb7dfd2e:
-
-    # dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
-    dc "Officer Callahan...{w} I know. I got here just as he was making his escape...{w} I know, sir..."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:108
-translate french sm1cs_dc006_993ec2ac:
-
-    # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
-translate french sm1cs_dc006_a541102c:
-
-    # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
-    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
-

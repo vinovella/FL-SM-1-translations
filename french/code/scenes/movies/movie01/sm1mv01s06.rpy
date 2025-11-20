@@ -1618,6 +1618,18 @@ translate french sm1mv01s06_done_recording_d45da490:
     # mc "I'd like that."
     mc "J’aimerais ça."
 
+# game/code/scenes/movies/movie01/sm1mv01s06.rpy:730
+translate french sm1mv01s06_movie_start_bb856909:
+
+    # mc "Come now, you'd be missing my devilishly good looks now, wouldn't you?"
+    mc "Allez, tu regretterais mes ravissantes et diaboliques bonnes manières, pas vrai ?"
+
+# game/code/scenes/movies/movie01/sm1mv01s06.rpy:814
+translate french sm1mv01s06_done_recording_659dcc56:
+
+    # kv "I admire your fervor, but let's not forget what we're making."
+    kv "J’admire ton enthousiasme, mais n’oublions pas ce qu’on est en train de filmer."
+
 translate french strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s06.rpy:232
@@ -1633,15 +1645,4 @@ translate french strings:
     new "Sur les hautes mers"
 
 #Translate by BlackViper_
-# game/code/scenes/movies/movie01/sm1mv01s06.rpy:730
-translate french sm1mv01s06_movie_start_bb856909:
-
-    # mc "Come now, you'd be missing my devilishly good looks now, wouldn't you?"
-    mc "Come now, you'd be missing my devilishly good looks now, wouldn't you?"
-
-# game/code/scenes/movies/movie01/sm1mv01s06.rpy:814
-translate french sm1mv01s06_done_recording_659dcc56:
-
-    # kv "I admire your fervor, but let's not forget what we're making."
-    kv "I admire your fervor, but let's not forget what we're making."
 

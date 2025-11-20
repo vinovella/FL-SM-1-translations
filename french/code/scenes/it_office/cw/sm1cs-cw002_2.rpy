@@ -14,7 +14,7 @@ translate french sm1cs_cw002_2_4799ce29:
 translate french sm1cs_cw002_2_8f44afd7:
 
     # mc "Hi Ms. Watts. I'm so sorry I'm-"
-    mc "Bonjour, Mme Watts. Je suis vraiment désolé, je suis—"
+    mc "Bonjour, Mme Watts. Je suis vraiment désolé, je suis..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:27
 translate french sm1cs_cw002_2_ec794ee8:
@@ -884,33 +884,46 @@ translate french sm1cs_cw002_2_after_lunch_0662017d:
 translate french sm1cs_cw002_2_de7b5f54:
 
     # mc "*whispers* Eugene? Ms. Watts. I'm totally lost."
-    mc "*whispers* Eugene? Ms. Watts. I'm totally lost."
+    mc "*chuchote* Eugene ? Mme Watts. Je suis complètement perdu."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:252
 translate french sm1cs_cw002_2_da7d3338:
 
     # cw "You told Daddy?"
-    cw "You told Daddy?"
+    cw "Tu l’as dit à Papa ?"
 
 translate french strings:
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "It was fine"
-    new "It was fine"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
-    old "Sorry, Claire"
-    new "Sorry, Claire"
-
-    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
-    old "Don't mention it, Ms. Watts"
-    new "Don't mention it, Ms. Watts"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:308
     old "After a tense lunch"
     new "Après un déjeuner tendu"
 
+    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
+    old "It was fine."
+    new "C’était bien."
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
+    old "Sorry, Claire."
+    new "Désolé, Claire."
+
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Anything for my 'girlfriend'"
     new "Tout pour ma 'petite amie'"
 
+    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
+    old "Don't mention it, Ms. Watts."
+    new "Il n’y a pas de quoi, Mme Watts."
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
+    old "It was fine"
+    new "C’était bien"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
+    old "Sorry, Claire"
+    new "Désolé, Claire"
+
+    # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
+    old "Don't mention it, Ms. Watts"
+    new "De rien, Mme Watts"
+
+#Translate by BlackViper_

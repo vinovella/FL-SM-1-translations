@@ -86,7 +86,7 @@ translate french sm1cs_kv005_start_d0926fc6:
 translate french sm1cs_kv005_start_fe067151:
 
     # mc "No! Wait - I mean, yes! I, uhm, I meant-"
-    mc "Non ! Attends... Enfin, si ! Euh, je voulais dire—"
+    mc "Non ! Attends... Enfin, si ! Euh, je voulais dire..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:68
 translate french sm1cs_kv005_start_9eeeadc3:
@@ -476,7 +476,7 @@ translate french sm1cs_kv005_part_2_496d5972:
 translate french sm1cs_kv005_part_2_13ab8d6d:
 
     # mc "Huh... That's a good trick! Okay-"
-    mc "Ah ouais... pas con comme astuce ! Ok—"
+    mc "Ah ouais... pas con comme astuce ! Ok..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:274
 translate french sm1cs_kv005_part_2_20151f03:
@@ -800,7 +800,7 @@ translate french sm1cs_kv005_part_3_80a34a9a:
 translate french sm1cs_kv005_part_3_2a1bc74f:
 
     # kv "Tada - the last outfit of our practice session!"
-    kv "Tadaaa — la dernière tenue de notre séance d’entraînement !"
+    kv "Tadaaa ... la dernière tenue de notre séance d’entraînement !"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:444
 translate french sm1cs_kv005_part_3_2bd88806:

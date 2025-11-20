@@ -729,6 +729,10 @@ translate french strings:
     new "On peut être d’accord là-dessus"
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
+    old "I had to come here for work."
+    new "Je devais venir ici pour le boulot."
+
+    # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
     old "I wanted to check on you"
     new "Je voulais voir si tu allais bien"
 
@@ -740,148 +744,148 @@ translate french strings:
     old "If you teach me well, I'm sure I'll do great"
     new "Si tu m’enseignes bien, je suis sûr que je vais cartonner"
 
-#Translate by BlackViper_
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:23
 translate french sm1cs_am003_71f06d2b:
 
     # mc "Hey, April."
-    mc "Hey, April."
+    mc "Salut, April."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:42
 translate french sm1cs_am003_9f59f0f4:
 
     # am "Humans. We have created all this technology.{w} It can do incredible things."
-    am "Humans. We have created all this technology.{w} It can do incredible things."
+    am "Les humains. On a créé toute cette technologie.{w} Elle peut faire des choses incroyables."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:99
 translate french sm1cs_am003_1fd7d62e:
 
     # am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
-    am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
+    am "Hmmph.{w} On dirait que tu as gâché ton après-midi. Moi, ça va."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:111
 translate french sm1cs_am003_bcf016f9:
 
     # am "It's bullying to say someone {b}sucks{/b} at their job?"
-    am "It's bullying to say someone {b}sucks{/b} at their job?"
+    am "C’est du harcèlement de dire que quelqu’un {b}est nul{/b} à son boulot ?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:120
 translate french sm1cs_am003_aee5974a:
 
     # mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
-    mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+    mct "Cette fille...{w} Comme Anna l’a dit. Si elle n’était pas aussi compétente, son attitude l’aurait déjà fait virer d’Orbix."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:127
 translate french sm1cs_am003_b4faa8fc:
 
     # mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
-    mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
+    mc "Tu avais raison. Je ne suis pas venu prendre de tes nouvelles.{w} J’ai besoin d’aide sur un problème de boulot, et tu travailles ici maintenant. C’est tout."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:134
 translate french sm1cs_am003_ae4dcaad:
 
     # am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
-    am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
+    am "Après cette séance de travail, je... je pensais que tu allais soit abandonner, soit faire le strict minimum."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:135
 translate french sm1cs_am003_67284458:
 
     # am "But here you are..."
-    am "But here you are..."
+    am "Mais te voilà..."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:144
 translate french sm1cs_am003_8a8d91f6:
 
     # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
-    mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
+    mc "Oui. Je peux être un raté, mais je peux aussi bosser extrêmement dur pour obtenir ce que je veux.{w} Parfois je trébuche, mais je ne reste jamais à terre longtemps."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:145
 translate french sm1cs_am003_b4235cd6:
 
     # mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
-    mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
+    mc "Je n’ai pas étudié l’informatique à la fac, mais j’apprends vite.{w} Enseigne-moi, je suis prêt à apprendre auprès de toi, April."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:155
 translate french sm1cs_am003_e9ac1b53:
 
     # am "Against my better judgment, I'll try to give you some pointers here and there."
-    am "Against my better judgment, I'll try to give you some pointers here and there."
+    am "Contre mon bon sens, je vais essayer de te donner quelques conseils de temps en temps."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:176
 translate french sm1cs_am003_d5d84aa0:
 
     # am "I am not your teacher, [mcname]. That's not my job."
-    am "I am not your teacher, [mcname]. That's not my job."
+    am "Je ne suis pas ta prof, [mcname]. Ce n’est pas mon boulot."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:186
 translate french sm1cs_am003_d6fb5843:
 
     # am "Okay.{w} Show me what problems you're having with the website."
-    am "Okay.{w} Show me what problems you're having with the website."
+    am "D’accord.{w} Montre-moi quel problème tu as avec le site."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:290
 translate french sm1cs_am003_ef447ff8:
 
     # mc "One dark roast coffee for the girl who roasts me every day."
-    mc "One dark roast coffee for the girl who roasts me every day."
+    mc "Un café corsé pour la fille qui me grille tous les jours."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:303
 translate french sm1cs_am003_97c62095:
 
     # mct "Ah. That hit the spot."
-    mct "Ah. That hit the spot."
+    mct "Ah. Ça fait du bien."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:365
 translate french sm1cs_am003_9403deba:
 
     # am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
-    am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
+    am "Oui. Il se passe beaucoup de choses. Des décisions que je... que nous devons prendre.{w} Des décisions difficiles."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:382
 translate french sm1cs_am003_2aa81bf8:
 
     # mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
-    mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
+    mc "Je crois qu’on s’est mal compris.{w} Si je voulais t’inviter à sortir, je te le demanderais directement."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:385
 translate french sm1cs_am003_1168ac9b:
 
     # am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
-    am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
+    am "Totalement.{w} Et tu ne m’inviterais pas parce que tu sais que je suis hors de ta portée."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:407
 translate french sm1cs_am003_d5031920:
 
     # am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
-    am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
+    am "J’ai travaillé avec beaucoup de connards, et je pensais que tu serais comme eux.{w} Mais tu ne restes pas à ne rien faire. Tu es..."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:410
 translate french sm1cs_am003_80afa197:
 
     # mc "Trying to not {b}suck{/b} all the time?"
-    mc "Trying to not {b}suck{/b} all the time?"
+    mc "En train d’essayer de ne pas {b}être nul{/b} tout le temps ?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:436
 translate french sm1cs_am003_5bb6b0ec:
 
     # mc "So I'm an elite-code-monkey now, right?"
-    mc "So I'm an elite-code-monkey now, right?"
+    mc "Donc je suis un singe du code d’élite maintenant, c’est ça ?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:439
 translate french sm1cs_am003_d906822a:
 
     # am "Oh yeah... A future Wozniak."
-    am "Oh yeah... A future Wozniak."
+    am "Oh oui... Un futur Wozniak."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:484
 translate french sm1cs_am003_45ccaa21:
 
     # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
-    am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
+    am "Cool.{w} C’est un groupe de rock païen, donc prépare-toi. Tu pourrais me voir... un peu déjantée.{w} Et j’aurai peut-être de la peinture de guerre sur le visage."
 
 translate french strings:
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
     old "I had to come here for work"
-    new "I had to come here for work"
+    new "Je devais venir ici pour le travail"
 
+#Translate by BlackViper_

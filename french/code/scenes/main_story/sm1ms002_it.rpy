@@ -320,7 +320,7 @@ translate french sm1ms002_it_end_4cc2dfff:
 translate french sm1ms002_it_end_497f444d:
 
     # sy "Permission granted, Ensign [mcname]."
-    sy "Permission accordée, enseigne [mcname]."
+    sy "Permission accordée, Insigne [mcname]."
 
 translate french strings:
 

@@ -38,7 +38,7 @@ translate french sm1cs_tl002_f78ce37b:
 translate french sm1cs_tl002_9c135e76:
 
     # mc "Wait, uh, I mean-"
-    mc "Attends, euh, je veux dire—"
+    mc "Attends, euh, je veux dire..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:35
 translate french sm1cs_tl002_7f76f812:
@@ -50,7 +50,7 @@ translate french sm1cs_tl002_7f76f812:
 translate french sm1cs_tl002_d5c9df98:
 
     # mc "That's not-"
-    mc "Mais c’est pas—"
+    mc "Mais c’est pas..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:40
 translate french sm1cs_tl002_4ee6c4bb:
@@ -128,7 +128,7 @@ translate french sm1cs_tl002_d1123148:
 translate french sm1cs_tl002_48008a5e:
 
     # tl "Like what? I already told you about my kinks-"
-    tl "Comme quoi ? Je t’ai déjà parlé de mes délires sexuels—"
+    tl "Comme quoi ? Je t’ai déjà parlé de mes délires sexuels..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:74
 translate french sm1cs_tl002_ccd16d34:
@@ -188,7 +188,7 @@ translate french sm1cs_tl002_4a15a5bb:
 translate french sm1cs_tl002_bbad5cac:
 
     # tl "I just... don't get asked about 'me' a lot, you know?"
-    tl "C’est juste que… on me demande pas souvent de parler de *moi*, tu vois ?"
+    tl "C’est juste que… on me demande pas souvent de parler de 'moi', tu vois ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:104
 translate french sm1cs_tl002_accdcd89:
@@ -326,7 +326,7 @@ translate french sm1cs_tl002_5a402f79:
 translate french sm1cs_tl002_42bac3fb:
 
     # mc "Yeah. You can be some racecar chick at the track, and-"
-    mc "Ouais. Tu pourrais être une fille pilote sur circuit, et—"
+    mc "Ouais. Tu pourrais être une fille pilote sur circuit, et..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:159
 translate french sm1cs_tl002_1ec9987f:
@@ -500,7 +500,7 @@ translate french sm1cs_tl002_efab7677:
 translate french sm1cs_tl002_39e878e1:
 
     # mc "Jesus, you had me wor-"
-    mc "Putain, tu m’as fait flipper—"
+    mc "Putain, tu m’as fait flipper..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:233
 translate french sm1cs_tl002_2b35b6fe:
@@ -632,7 +632,7 @@ translate french sm1cs_tl002_58b58807:
 translate french sm1cs_tl002_worker_88ebbf02:
 
     # tl "Well-"
-    tl "Eh bien—"
+    tl "Eh bien..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:309
 translate french sm1cs_tl002_worker_63882ad0:

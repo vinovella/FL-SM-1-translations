@@ -70,6 +70,12 @@ translate french sm1cs_km003_40626d0a:
     # km "[mcname], I said I was sorry. We don't have time for this."
     km "[mcname], j’ai dit que j’étais désolée. On n’a pas le temps pour ça."
 
+# game/code/scenes/theatre/km/sm1cs-km003.rpy:69
+translate french sm1cs_km003_68f2a5f5:
+
+    # mc "Oh yeah, your two out of five-star apology. Very sincere."
+    mc "Ah oui, ton excuse deux étoiles sur cinq. Vraiment sincère."
+
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:70
 translate french sm1cs_km003_1d7f48ab:
 
@@ -269,9 +275,4 @@ translate french sm1cs_km003_6aec3e56:
     mct "Je commence vraiment à les aimer, ces filles du théâtre."
 
 #Translate by BlackViper_
-# game/code/scenes/theatre/km/sm1cs-km003.rpy:69
-translate french sm1cs_km003_68f2a5f5:
-
-    # mc "Oh yeah, your two out of five-star apology. Very sincere."
-    mc "Oh yeah, your two out of five-star apology. Very sincere."
 

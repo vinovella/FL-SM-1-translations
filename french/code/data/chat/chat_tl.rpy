@@ -18,7 +18,7 @@
 
     # game/code/data/chat/chat_tl.rpy:31
     old "Hey Taisia 👋"
-    new "Hey Taisia 👋"
+    new "Salut Taisia 👋"
 
     # game/code/data/chat/chat_tl.rpy:31
     old "yo"
@@ -64,15 +64,12 @@
     old "we'll be there!"
     new "On sera là !"
 
-#Translate by BlackViper_
-
-translate french strings:
-
     # game/code/data/chat/chat_tl.rpy:3
     old "hey, girl! Where can I find you today?"
-    new "hey, girl! Where can I find you today?"
+    new "Hey, meuf ! Je te trouve où aujourd’hui ?"
 
     # game/code/data/chat/chat_tl.rpy:3
     old "I'm at the theater, find me there"
-    new "I'm at the theater, find me there"
+    new "Je suis au théâtre, viens me trouver là-bas."
 
+#Translate by BlackViper_

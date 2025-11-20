@@ -1064,7 +1064,7 @@ translate french sm1ms019_4483922b:
 translate french sm1ms019_9e623cfe:
 
     # mc "Wait, I thought we were going to relax-"
-    mc "Attends, je croyais qu’on allait juste se détendre—"
+    mc "Attends, je croyais qu’on allait juste se détendre..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:589
 translate french sm1ms019_bbb7f676:

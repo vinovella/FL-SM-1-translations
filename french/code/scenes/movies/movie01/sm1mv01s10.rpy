@@ -146,7 +146,7 @@ translate french sm1mv01s10_38673b6e:
 translate french sm1mv01s10_458f085e:
 
     # kv "Seriously, talk about cringe-"
-    kv "Sérieusement, ça fait vraiment cringe—"
+    kv "Sérieusement, ça fait vraiment cringe..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:86
 translate french sm1mv01s10_65e8e6c8:
@@ -820,10 +820,11 @@ translate french sm1mv01s10_b6cf5280:
     # tl "Good night, [mcname]."
     tl "Bonne nuit, [mcname]."
 
-#Translate by BlackViper_
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:315
 translate french sm1mv01s10_9ab27c1f:
 
     # kv "I'm sure once the money comes in we can start to work on some of these other things, it'll get easier."
-    kv "I'm sure once the money comes in we can start to work on some of these other things, it'll get easier."
+    kv "Je suis sûre qu’une fois que l’argent commencera à rentrer, on pourra commencer à travailler sur certaines de ces autres choses, et ce sera plus facile."
+
+#Translate by BlackViper_
 

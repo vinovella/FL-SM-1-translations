@@ -200,13 +200,13 @@ translate french sm1mv01s08_57090f14:
 translate french sm1mv01s08_2839b380:
 
     # kv "Nothing - blocking is a term in the film world for like, rehearsing, but just the physical aspects of the space."
-    kv "Rien — le ‘blocking’ c’est un terme du cinéma, ça veut dire répéter, mais seulement les déplacements dans l’espace."
+    kv "Rien ... le ‘blocking’ c’est un terme du cinéma, ça veut dire répéter, mais seulement les déplacements dans l’espace."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:157
 translate french sm1mv01s08_5b5349ba:
 
     # kv "Like-"
-    kv "Genre—"
+    kv "Genre..."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:160
 translate french sm1mv01s08_1da88521:
@@ -242,7 +242,7 @@ translate french sm1mv01s08_453aef51:
 translate french sm1mv01s08_0aaf5b8a:
 
     # mc "Woah, Kanya - so forward this early in the morning?"
-    mc "Woah, Kanya — si directe dès le matin ?"
+    mc "Woah, Kanya ... si directe dès le matin ?"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:176
 translate french sm1mv01s08_41a942dd:
@@ -800,7 +800,7 @@ translate french sm1mv01s08_movie_start_e14a8768:
 translate french sm1mv01s08_movie_start_2a0b6d8c:
 
     # sy "Sweet Kalypso - I don't know how much of this I can take! I already feel myself-"
-    sy "Douce Kalypso - je ne sais pas combien de temps je vais tenir ! Je sens déjà que je vais—"
+    sy "Douce Kalypso - je ne sais pas combien de temps je vais tenir ! Je sens déjà que je vais..."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:463
 translate french sm1mv01s08_movie_start_8c7d2605:
@@ -956,7 +956,7 @@ translate french sm1mv01s08_movie_start_c2dd9141:
 translate french sm1mv01s08_movie_start_1065a3f1:
 
     # mc "God, Tempestra-"
-    mc "Putain, Tempestra—"
+    mc "Putain, Tempestra..."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:531
 translate french sm1mv01s08_movie_start_63154548:
@@ -1004,7 +1004,7 @@ translate french sm1mv01s08_movie_start_b354a3f8:
 translate french sm1mv01s08_movie_start_5b4c42fa:
 
     # mc "Oh shit, I can feel you-!"
-    mc "Oh merde, je te sens venir— !"
+    mc "Oh merde, je te sens venir... !"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:549
 translate french sm1mv01s08_movie_start_80c6e912:
@@ -1016,7 +1016,7 @@ translate french sm1mv01s08_movie_start_80c6e912:
 translate french sm1mv01s08_movie_start_d7cad405:
 
     # mc "Holy shit, Tempesta-"
-    mc "Putain de merde, Tempestra—"
+    mc "Putain de merde, Tempestra..."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:554
 translate french sm1mv01s08_movie_start_8de250ab:
@@ -1040,7 +1040,7 @@ translate french sm1mv01s08_movie_start_3ba87cf5:
 translate french sm1mv01s08_movie_start_4b9093a8:
 
     # sy "You-"
-    sy "Toi—"
+    sy "Toi..."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:563
 translate french sm1mv01s08_movie_start_2a690f74:
@@ -1052,7 +1052,7 @@ translate french sm1mv01s08_movie_start_2a690f74:
 translate french sm1mv01s08_movie_start_83500ff3:
 
     # sy "Dick-"
-    sy "Dick—"
+    sy "Dick..."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:572
 translate french sm1mv01s08_movie_start_9a36bb7f:
@@ -1070,13 +1070,13 @@ translate french sm1mv01s08_movie_start_faabbacc:
 translate french sm1mv01s08_movie_start_bfc1092c:
 
     # sy "What-"
-    sy "Quoi—"
+    sy "Quoi..."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:579
 translate french sm1mv01s08_movie_start_4eeb4682:
 
     # sy "Wait a second, Dickhart-"
-    sy "Attends une seconde, Dickhart—"
+    sy "Attends une seconde, Dickhart..."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:581
 translate french sm1mv01s08_movie_start_b319f52d:
@@ -1786,6 +1786,12 @@ translate french sm1mv01s08_movie_end_a39318bf:
     # sy "Copy!"
     sy "Bien reçu !"
 
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:848
+translate french sm1mv01s08_movie_end_65593449:
+
+    # sy "You're doing great! Seriously, fucking incredible."
+    sy "Tu gères super bien ! Sérieusement, c’est putain d’incroyable."
+
 translate french strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s08.rpy:278
@@ -1793,9 +1799,4 @@ translate french strings:
     new "Dickhart trouve Tempestra"
 
 #Translate by BlackViper_
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:848
-translate french sm1mv01s08_movie_end_65593449:
-
-    # sy "You're doing great! Seriously, fucking incredible."
-    sy "You're doing great! Seriously, fucking incredible."
 

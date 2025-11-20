@@ -106,10 +106,11 @@ translate french sm1mv01s11i_8a48223e:
     # mc "Cool!"
     mc "Cool !"
 
-#Translate by BlackViper_
 # game/code/scenes/movies/movie01/sm1mv01s11i.rpy:40
 translate french sm1mv01s11i_a320b680:
 
     # sy "I wonder if it will make more money than the Sci-Fi movie."
-    sy "I wonder if it will make more money than the Sci-Fi movie."
+    sy "Je me demande si ça rapportera plus d’argent que le film de science-fiction."
+
+#Translate by BlackViper_
 

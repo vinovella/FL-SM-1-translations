@@ -16,46 +16,35 @@
     old "No Sandbox"
     new "Sans mode bac à sable"
 
-#Translate by BlackViper_
-translate french strings:
-
     # game/code/renpy/screens/difficulity.rpy:54
     old "Full story with exploration and player choice"
-    new "Full story with exploration and player choice"
-
-    # game/code/renpy/screens/difficulity.rpy:54
+    new "Histoire complète avec exploration et choix du joueur"
+    
     old "Sandbox-style free roaming"
-    new "Sandbox-style free roaming"
-
-    # game/code/renpy/screens/difficulity.rpy:54
+    new "Exploration libre en mode sandbox"
+    
     old "Minigames and quests"
-    new "Minigames and quests"
-
-    # game/code/renpy/screens/difficulity.rpy:54
+    new "Mini-jeux et quêtes"
+    
     old "Character stats and progression"
-    new "Character stats and progression"
-
-    # game/code/renpy/screens/difficulity.rpy:54
+    new "Statistiques des personnages et progression"
+    
     old "Minigames are skipped or auto-resolved"
-    new "Minigames are skipped or auto-resolved"
-
-    # game/code/renpy/screens/difficulity.rpy:54
+    new "Les mini-jeux sont ignorés ou résolus automatiquement"
+    
     old "Quests and character progression"
-    new "Quests and character progression"
-
-    # game/code/renpy/screens/difficulity.rpy:54
+    new "Quêtes et progression des personnages"
+    
     old "Most of the story with player-driven progression"
-    new "Most of the story with player-driven progression"
-
-    # game/code/renpy/screens/difficulity.rpy:54
+    new "Une grande partie de l'histoire avec une progression guidée par le joueur"
+    
     old "No free roaming or open exploration"
-    new "No free roaming or open exploration"
-
-    # game/code/renpy/screens/difficulity.rpy:54
+    new "Aucune exploration libre ou monde ouvert"
+    
     old "Minigames and sandbox activities removed"
-    new "Minigames and sandbox activities removed"
-
-    # game/code/renpy/screens/difficulity.rpy:54
+    new "Mini-jeux et activités sandbox supprimés"
+    
     old "A streamlined experience focusing on narrative"
-    new "A streamlined experience focusing on narrative"
+    new "Une expérience simplifiée centrée sur la narration"
 
+#Translate by BlackViper_

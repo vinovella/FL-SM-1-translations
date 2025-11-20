@@ -398,7 +398,7 @@ translate french sm1cs_mh007_74fe04de:
 translate french sm1cs_mh007_9350e3e2:
 
     # mct "Those were some $5 words... Maybe I should've finished-"
-    mct "C’était des mots savants... Peut-être que j’aurais dû finir—"
+    mct "C’était des mots savants... Peut-être que j’aurais dû finir..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:237
 translate french sm1cs_mh007_a64d31ab:
@@ -1060,209 +1060,197 @@ translate french sm1cs_mh007_8dd9efd1:
     # mc "Of course, Lyssa."
     mc "Bien sûr, Lyssa."
 
-translate french strings:
-
-    # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:392
-    old "I think it would be fun to do some more dom sub roleplay"
-    new "Je pense que ce serait amusant d’explorer davantage le jeu de rôle dom/sub"
-
-    # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:392
-    old "I don't know... I think I'm good for now"
-    new "Je ne sais pas... je pense que ça me suffit pour l’instant"
-
-#Translate by BlackViper_
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:261
 translate french sm1cs_mh007_bf2c0adf:
 
     # mh "[mcname], I was wondering..."
-    mh "[mcname], I was wondering..."
+    mh "[mcname], je me demandais..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:262
 translate french sm1cs_mh007_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Oui ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:263
 translate french sm1cs_mh007_030be35c:
 
     # mh "How would you feel if I...{w} had a turn, with you?"
-    mh "How would you feel if I...{w} had a turn, with you?"
+    mh "Comment tu te sentirais si je...{w} prenais ma part, avec toi ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:264
 translate french sm1cs_mh007_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Qu’est-ce que tu veux dire ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:266
 translate french sm1cs_mh007_d41060db:
 
     # mh "That I... kind of want to try fucking you. What do you think about that?"
-    mh "That I... kind of want to try fucking you. What do you think about that?"
+    mh "Que je... j’aimerais un peu essayer de te baiser. Qu’est-ce que tu en penses ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:274
 translate french sm1cs_mh007_c0d907b0:
 
     # mc "I don't think I'd like that, Lyssa, I'm sorry..."
-    mc "I don't think I'd like that, Lyssa, I'm sorry..."
+    mc "Je ne pense pas que ça me plairait, Lyssa... désolé..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:275
 translate french sm1cs_mh007_58f014e2:
 
     # mh "It's okay, we still have some more fun to have anyway."
-    mh "It's okay, we still have some more fun to have anyway."
+    mh "Ce n’est pas grave, on a encore plein de choses à faire ensemble."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:281
 translate french sm1cs_mh007_e0c7542b:
 
     # mc "Yeah, Lyssa, I'd be down to try it."
-    mc "Yeah, Lyssa, I'd be down to try it."
+    mc "Oui, Lyssa, je veux bien essayer."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:282
 translate french sm1cs_mh007_954a6ab6:
 
     # mh "Really?"
-    mh "Really?"
+    mh "Vraiment ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:283
 translate french sm1cs_mh007_a3caf5a7:
 
     # mc "Really, really!"
-    mc "Really, really!"
+    mc "Vraiment, vraiment !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:285
 translate french sm1cs_mh007_1b966d50:
 
     # mc "Just promise to be gentle."
-    mc "Just promise to be gentle."
+    mc "Promets juste d’y aller doucement."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:286
 translate french sm1cs_mh007_9f73cc01:
 
     # mh "Mmmmm, I promise, [mcname]."
-    mh "Mmmmm, I promise, [mcname]."
+    mh "Mmmmm, je te le promets, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:288
 translate french sm1cs_mh007_44c6d442:
 
     # mh "I have been fantasizing about this..."
-    mh "I have been fantasizing about this..."
+    mh "J’ai fantasmé sur ça depuis longtemps..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:289
 translate french sm1cs_mh007_24687b7d:
 
     # mc "Well, I'm happy to bring your dream to reality!"
-    mc "Well, I'm happy to bring your dream to reality!"
+    mc "Eh bien, je suis content de réaliser ton rêve !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:291
 translate french sm1cs_mh007_1263b847:
 
     # mh "Are you ready?"
-    mh "Are you ready?"
+    mh "Tu es prêt ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:292
 translate french sm1cs_mh007_37c12963:
 
     # mc "Uh huh!"
-    mc "Uh huh!"
+    mc "Hm-hm !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:294
 translate french sm1cs_mh007_5dfa7c5e:
 
     # mc "Oooo, ooooooooo!"
-    mc "Oooo, ooooooooo!"
+    mc "Oooo, oooooooh !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:295
 translate french sm1cs_mh007_0f5e6726:
 
     # mh "You okay?"
-    mh "You okay?"
+    mh "Tu vas bien ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:296
 translate french sm1cs_mh007_c5327c66:
 
     # mc "Mmm-mmhmmmm! Just - getting used to the feeling."
-    mc "Mmm-mmhmmmm! Just - getting used to the feeling."
+    mc "Mmm-mmhmmm ! Juste... je m’habitue à la sensation."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:297
 translate french sm1cs_mh007_9bc304fb:
 
     # mh "I'm going to keep going, okay?"
-    mh "I'm going to keep going, okay?"
+    mh "Je continue, d’accord ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:298
 translate french sm1cs_mh007_ef71e91f:
 
     # mc "Mmmhmmm!"
-    mc "Mmmhmmm!"
+    mc "Mmmhmmm !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:300
 translate french sm1cs_mh007_de9dc30b:
 
     # mc "Ooooooooo!"
-    mc "Ooooooooo!"
+    mc "Oooooooooh !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:301
 translate french sm1cs_mh007_ddd94792:
 
     # mh "Still okay?"
-    mh "Still okay?"
+    mh "Toujours bon ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:302
 translate french sm1cs_mh007_2ea6de0c:
 
     # mc "Y-yeah!"
-    mc "Y-yeah!"
+    mc "O-ouais !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:303
 translate french sm1cs_mh007_6bd1c7a8:
 
     # mh "Just a little more..."
-    mh "Just a little more..."
+    mh "Encore un peu..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:305
 translate french sm1cs_mh007_49ecd705:
 
     # mc "Nnnngggghhhh-!"
-    mc "Nnnngggghhhh-!"
+    mc "Nnnngggghhhh- !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:306
 translate french sm1cs_mh007_c7cf2826:
 
     # mh "[mcname]?"
-    mh "[mcname]?"
+    mh "[mcname] ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:307
 translate french sm1cs_mh007_368efa07:
 
     # mc "Mmmm, just - wow - this is a - new feeling!"
-    mc "Mmmm, just - wow - this is a - new feeling!"
+    mc "Mmmm, juste... wow... c’est vraiment... une sensation nouvelle !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:308
 translate french sm1cs_mh007_a12e6db3:
 
     # mh "I'll give you a second to adjust."
-    mh "I'll give you a second to adjust."
+    mh "Je te laisse une seconde pour t’habituer."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:309
 translate french sm1cs_mh007_d2efecf2:
 
     # mc "Thank you..."
-    mc "Thank you..."
+    mc "Merci..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:311
 translate french sm1cs_mh007_0896b69e:
 
     # mh "This feels amazing already, [mcname]."
-    mh "This feels amazing already, [mcname]."
+    mh "Ça fait déjà tellement de bien, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:312
 translate french sm1cs_mh007_f49fff8f_1:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Ah oui ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:313
 translate french sm1cs_mh007_259ad6b6_1:
@@ -1274,31 +1262,31 @@ translate french sm1cs_mh007_259ad6b6_1:
 translate french sm1cs_mh007_ec7fd73b:
 
     # mc "I think - ngggh - you can start thrusting if you want."
-    mc "I think - ngggh - you can start thrusting if you want."
+    mc "Je pense... ngggh... que tu peux commencer à bouger si tu veux."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:315
 translate french sm1cs_mh007_84227619:
 
     # mh "Mmmmm, I'll go slow."
-    mh "Mmmmm, I'll go slow."
+    mh "Mmmmm, je vais y aller doucement."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:318
 translate french sm1cs_mh007_b7c684bc:
 
     # mc "Ohh - shit-"
-    mc "Ohh - shit-"
+    mc "Ohh... putain..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:319
 translate french sm1cs_mh007_29d2ae55:
 
     # mh "You okay, [mcname]?"
-    mh "You okay, [mcname]?"
+    mh "Tu vas bien, [mcname] ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:320
 translate french sm1cs_mh007_eb3a1d15:
 
     # mc "Mmmmmm - y-yep!"
-    mc "Mmmmmm - y-yep!"
+    mc "Mmmmmm...o-oui !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:322
 translate french sm1cs_mh007_d608c209:
@@ -1310,115 +1298,115 @@ translate french sm1cs_mh007_d608c209:
 translate french sm1cs_mh007_085313a0:
 
     # mc "Oh shit, Lyssa - shiiiit-!"
-    mc "Oh shit, Lyssa - shiiiit-!"
+    mc "Oh putain, Lyssa... Putaaain...!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:324
 translate french sm1cs_mh007_118586bd:
 
     # mh "Mmmmm?"
-    mh "Mmmmm?"
+    mh "Mmmmm ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:326
 translate french sm1cs_mh007_73631d7d:
 
     # mc "This feels - ngggh-!"
-    mc "This feels - ngggh-!"
+    mc "Ça fait - ngggh- !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:327
 translate french sm1cs_mh007_fc477c8d:
 
     # mh "How does it feel?"
-    mh "How does it feel?"
+    mh "Qu’est-ce que ça te fait ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:328
 translate french sm1cs_mh007_a1ba1026:
 
     # mc "It feels - mmmm- kind of, {i}really{/i}, good!"
-    mc "It feels - mmmm- kind of, {i}really{/i}, good!"
+    mc "Ça fait... Mmmm... Genre, {i}vraiment{/i} trop bon !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:329
 translate french sm1cs_mh007_3ce13710:
 
     # mh "Mmmmm, yes, yes it does!"
-    mh "Mmmmm, yes, yes it does!"
+    mh "Mmmmm, oui, oui, moi aussi !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:331
 translate french sm1cs_mh007_f56613ea:
 
     # mc "Oh, shit - it feels - mmm - nice having you inside me, Lyssa!"
-    mc "Oh, shit - it feels - mmm - nice having you inside me, Lyssa!"
+    mc "Oh putain c’est mmm... Tellement bon de t’avoir en moi, Lyssa !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:332
 translate french sm1cs_mh007_4f24e9cd:
 
     # mh "And your ass is wonderful, [mcname]!"
-    mh "And your ass is wonderful, [mcname]!"
+    mh "Et ton cul est incroyable, [mcname] !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:333
 translate french sm1cs_mh007_6dcde6a9:
 
     # mh "It feels - mmmmm - soooooo gooooood!"
-    mh "It feels - mmmmm - soooooo gooooood!"
+    mh "Ça fait... Mmmmm... Tellement booooon !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:335
 translate french sm1cs_mh007_dbf69743:
 
     # mc "Nggggghhhh - Lyssa!"
-    mc "Nggggghhhh - Lyssa!"
+    mc "Nggggghhhh... Lyssa !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:336
 translate french sm1cs_mh007_6ce1258d:
 
     # mh "Oh, yes, [mcname]!"
-    mh "Oh, yes, [mcname]!"
+    mh "Oh oui, [mcname] !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:337
 translate french sm1cs_mh007_e8840ad8:
 
     # mc "Oooo, ooooo, mmmmmppphhh!"
-    mc "Oooo, ooooo, mmmmmppphhh!"
+    mc "Oooo, ooooo, mmmmmppphhh !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:339
 translate french sm1cs_mh007_ef890fd2:
 
     # mh "Oh shit - we definitely, mmmmm, need to do this more often!"
-    mh "Oh shit - we definitely, mmmmm, need to do this more often!"
+    mh "Oh putain on doit clairement, mmmmm, refaire ça souvent !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:340
 translate french sm1cs_mh007_d02ad225:
 
     # mc "I - ngggghhh - agree!"
-    mc "I - ngggghhh - agree!"
+    mc "Je... Ngggghhh... Suis d’accord !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:341
 translate french sm1cs_mh007_1d5fc5d6:
 
     # mh "Oh - mmmm, I feel myself getting close!"
-    mh "Oh - mmmm, I feel myself getting close!"
+    mh "Oh... Mmmm, je sens que je suis proche !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:342
 translate french sm1cs_mh007_adaed853:
 
     # mc "Ngggghhhhh -"
-    mc "Ngggghhhhh -"
+    mc "Ngggghhhhh..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:343
 translate french sm1cs_mh007_632389c9:
 
     # mh "But I - mmmmmm - I need you inside me again."
-    mh "But I - mmmmmm - I need you inside me again."
+    mh "Mais je... Mmmmmm... J’ai besoin de t’avoir en moi encore."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:346
 translate french sm1cs_mh007_591a1ccb:
 
     # mh "I really, really need you inside me again."
-    mh "I really, really need you inside me again."
+    mh "J’en ai vraiment, vraiment besoin, encore."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:347
 translate french sm1cs_mh007_09f2de35:
 
     # mc "Is that so?"
-    mc "Is that so?"
+    mc "Ah oui ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:348
 translate french sm1cs_mh007_bf5d86f0:
@@ -1426,19 +1414,29 @@ translate french sm1cs_mh007_bf5d86f0:
     # mh "Mmmmhmmm."
     mh "Mmmmhmmm."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:349
+# game/code/scenes/character_scenes/mh/sm1cs-мh007.rpy:349
 translate french sm1cs_mh007_b9a250b1:
 
     # mc "Well, I think I know just what we need to do..."
-    mc "Well, I think I know just what we need to do..."
+    mc "Eh bien, je crois que je sais exactement ce qu’on doit faire…"
 
 translate french strings:
 
+    # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:392
+    old "I think it would be fun to do some more dom sub roleplay"
+    new "Je pense que ce serait amusant d’explorer davantage le jeu de rôle dom/sub"
+
+    # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:392
+    old "I don't know... I think I'm good for now"
+    new "Je ne sais pas... je pense que ça me suffit pour l’instant"
+
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:267
     old "I'd be up for that!"
-    new "I'd be up for that!"
+    new "Je serais partant pour ça !"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:267
     old "I don't think I would like that..."
-    new "I don't think I would like that..."
+    new "Je ne pense pas que ça me plairait..."
+
+#Translate by BlackViper_
 

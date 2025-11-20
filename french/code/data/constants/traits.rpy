@@ -125,6 +125,10 @@
     new "Piercing facial"
 
     # game/code/data/constants/traits.rpy:82
+    old "Nipples Piercing"
+    new "Piercing aux tétons"
+
+    # game/code/data/constants/traits.rpy:82
     old "Genital Piercing"
     new "Piercing génital"
 
@@ -142,7 +146,7 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Hairy"
-    new "Poilu(e)"
+    new "Poilue"
 
     # game/code/data/constants/traits.rpy:82
     old "Trimmed"
@@ -250,7 +254,7 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Cum Swallow"
-    new "Avaler le sperme"
+    new "Avale le sperme"
 
     # game/code/data/constants/traits.rpy:82
     old "Pegging"
@@ -290,7 +294,7 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Ass to Mouth"
-    new "Anus-bouche (ATM)"
+    new "Cul à bouche (ATM)"
 
     # game/code/data/constants/traits.rpy:82
     old "Choking"
@@ -300,10 +304,9 @@
     old "Extreme"
     new "Extrême"
 
-#Translate by BlackViper_
-translate french strings:
-
     # game/code/data/constants/traits.rpy:82
     old "Nipple Piercings"
-    new "Nipple Piercings"
+    new "Piercings aux tétons"
+
+#Translate by BlackViper_
 

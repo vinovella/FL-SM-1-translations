@@ -488,7 +488,7 @@ translate french sm1ms014_after_montage_bae2c675:
 translate french sm1ms014_after_montage_802d7d84:
 
     # mc "The studio is really big, Stacy-"
-    mc "Le studio est vraiment grand, Stacy—"
+    mc "Le studio est vraiment grand, Stacy..."
 
 # game/code/scenes/main_story/sm1ms014.rpy:276
 translate french sm1ms014_after_montage_a4fe9036:
@@ -608,7 +608,7 @@ translate french sm1ms014_after_montage_1852c410:
 translate french sm1ms014_after_montage_f34ff9ed:
 
     # mc "Well, I've hired a camera woman-"
-    mc "Eh bien, j’ai engagé une caméraman—"
+    mc "Eh bien, j’ai engagé une caméraman..."
 
 # game/code/scenes/main_story/sm1ms014.rpy:326
 translate french sm1ms014_after_montage_2582424a:
@@ -1048,6 +1048,12 @@ translate french sm1ms014_after_montage_39113f01:
     # mct "But, there's more that needs doing."
     mct "Mais il reste encore beaucoup à faire."
 
+# game/code/scenes/main_story/sm1ms014.rpy:186
+translate french sm1ms014_4834ec4b:
+
+    # sy "Uhm, yeah... no internet nudes of me..."
+    sy "Euh, ouais... pas de nudes de moi sur Internet..."
+
 translate french strings:
 
     # game/code/scenes/main_story/sm1ms014.rpy:547
@@ -1059,9 +1065,4 @@ translate french strings:
     new "Vous avez dépensé 300 $ pour de l’équipement de rénovation"
 
 #Translate by BlackViper_
-# game/code/scenes/main_story/sm1ms014.rpy:186
-translate french sm1ms014_4834ec4b:
-
-    # sy "Uhm, yeah... no internet nudes of me..."
-    sy "Uhm, yeah... no internet nudes of me..."
 

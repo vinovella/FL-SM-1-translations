@@ -20,7 +20,7 @@ translate french sm1cs_tl003i_5a38c7de:
 translate french sm1cs_tl003i_d83c2e2a:
 
     # mc "Yeah, we got-"
-    mc "Ouais, on a—"
+    mc "Ouais, on a..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003i.rpy:18
 translate french sm1cs_tl003i_bfad3132:
@@ -32,7 +32,7 @@ translate french sm1cs_tl003i_bfad3132:
 translate french sm1cs_tl003i_0a537b0c:
 
     # mc "I - what? You're just ready to go?"
-    mc "Hein—quoi ? T’es déjà prête à y aller ?"
+    mc "Hein...quoi ? T’es déjà prête à y aller ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003i.rpy:21
 translate french sm1cs_tl003i_6eac125a:

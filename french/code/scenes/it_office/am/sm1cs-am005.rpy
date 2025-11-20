@@ -50,7 +50,7 @@ translate french sm1cs_am005_0fed480a:
 translate french sm1cs_am005_18f81ccd:
 
     # mc "Listen April, we should really-"
-    mc "Écoute April, faudrait vraiment qu’on—"
+    mc "Écoute April, faudrait vraiment qu’on..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:49
 translate french sm1cs_am005_aff0d2ac:
@@ -242,7 +242,7 @@ translate french sm1cs_am005_sex_1_69da63a3:
 translate french sm1cs_am005_sex_1_c9c2e027:
 
     # mc "What the hell-"
-    mc "Putain, quoi—"
+    mc "Putain, quoi..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:213
 translate french sm1cs_am005_sex_1_e07a0189:
@@ -344,7 +344,7 @@ translate french sm1cs_am005_sex_1_7c2603c6:
 translate french sm1cs_am005_sex_1_b7547a2f:
 
     # mc "Wait, how long have you been thinking of us do-"
-    mc "Attends… depuis combien de temps tu penses à nous fai—"
+    mc "Attends… depuis combien de temps tu penses à nous fai..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:277
 translate french sm1cs_am005_sex_1_ea038288:
@@ -692,7 +692,7 @@ translate french sm1cs_am005_reply_2_e0c0e14f:
 translate french sm1cs_am005_reply_2_1c4dfd7f:
 
     # am "*frustrated growl* I don't know but-"
-    am "*grognement frustré* J’sais pas mais—"
+    am "*grognement frustré* J’sais pas mais..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:464
 translate french sm1cs_am005_reply_2_5135e6d4:
@@ -940,7 +940,141 @@ translate french sm1cs_am005_walkout_df9591cc:
     # cw "Hmmm."
     cw "Hmmm."
 
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:34
+translate french sm1cs_am005_d267eb2f:
+
+    # mct "This can't go on. I need to at least get us back on the same page."
+    mct "Ça ne peut pas continuer comme ça. Je dois au moins nous remettre sur la même longueur d’onde."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:37
+translate french sm1cs_am005_71f06d2b:
+
+    # mc "Hey, April."
+    mc "Salut, April."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:77
+translate french sm1cs_am005_hours_later_e90fce66:
+
+    # mct "Finally. That's the last ticket for my shift."
+    mct "Enfin. C’est le dernier ticket de mon service."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:86
+translate french sm1cs_am005_hours_later_a896092a:
+
+    # mct "April texted me."
+    mct "April m’a envoyé un message."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:96
+translate french sm1cs_am005_hours_later_66953d1c:
+
+    # am "Now I can talk.{w} So talk."
+    am "Maintenant je peux parler.{w} Alors parle."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:118
+translate french sm1cs_am005_hours_later_146a1f48:
+
+    # am "I... yes.{w} I want to talk."
+    am "Je... oui.{w} Je veux parler."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:122
+translate french sm1cs_am005_hours_later_2cbd87a6:
+
+    # am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
+    am "Alors... on peut juste ouvrir un nouveau doc, [mcname]{w} Repartir à zéro ?"
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:155
+translate french sm1cs_am005_hours_later_a275d6ef:
+
+    # mct "I should be a little patient with April.{w} She's obviously got something on her mind."
+    mct "Je devrais être un peu patient avec April.{w} Elle a clairement quelque chose en tête."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:159
+translate french sm1cs_am005_hours_later_a7b1f1c9:
+
+    # mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
+    mct "Attends...{w} Est-ce qu’April est intéressée par moi ?{w} Ça n’en avait pas l’air dans sa voiture."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:175
+translate french sm1cs_am005_hours_later_0ff1fdb3:
+
+    # am "What do you think, idiot?{w} All of it."
+    am "Qu’est-ce que tu crois, idiot ?{w} Tout."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:186
+translate french sm1cs_am005_sex_1_bd4a6ae6:
+
+    # am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
+    am "J’ai laissé mes mauvais instincts prendre le dessus.{w} Mon cerveau ne réfléchissait plus correctement."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:198
+translate french sm1cs_am005_sex_1_028c5529:
+
+    # mc "Say no more..."
+    mc "N’en dis pas plus..."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:203
+translate french sm1cs_am005_sex_1_bd9f2d5b:
+
+    # am "[mcname]...{w} That's not what I mean."
+    am "[mcname]...{w} Ce n’est pas ce que je veux dire."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:210
+translate french sm1cs_am005_sex_1_4e767ae1:
+
+    # mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
+    mc "Tu veux bien expliquer alors, April ?{w} Comme tu le dis souvent, je suis pas aussi malin que toi."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:217
+translate french sm1cs_am005_sex_1_5c9540af:
+
+    # am "And I just, I don't know, I went stupid mode.{w} Basic mode."
+    am "Et je sais pas, j’ai juste bugué.{w} Mode débile."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:227
+translate french sm1cs_am005_sex_1_1d60ca19:
+
+    # mct "I guess she doesn't have {b}all{/b} the answers."
+    mct "On dirait qu’elle n’a pas {b}toutes{/b} les réponses."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:230
+translate french sm1cs_am005_sex_1_5dc800e5:
+
+    # mc "Text me if you ever figure it out.{w} I got other-"
+    mc "Envoie-moi un message si tu finis par comprendre.{w} J’ai d’autres..."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:263
+translate french sm1cs_am005_sex_1_61ca4758:
+
+    # am "I didn't want {b}our{/b} first time to be like that."
+    am "Je voulais pas que {b}notre{/b} première fois soit comme ça."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:274
+translate french sm1cs_am005_sex_1_de51fd56:
+
+    # am "Shuuuussssssh.{w} Not out here."
+    am "Chuuuut.{w} Pas ici."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:280
+translate french sm1cs_am005_sex_1_246cc10d:
+
+    # am "I don't know.{w} Maybe after I invited you to see my band."
+    am "Je sais pas.{w} Peut-être après t’avoir invité à voir mon groupe."
+
+# game/code/scenes/it_office/am/sm1cs-am005.rpy:600
+translate french sm1cs_am005_thumbsup_end_901d4d24:
+
+    # mct "Uh. Did she just really give me a thumbs up?"
+    mct "Euh. Elle vient vraiment de me faire un pouce levé ?"
+
 translate french strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
+    old "Push it."
+    new "Insiste."
+
+    # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
+    old "Don't push it."
+    new "N’insiste pas."
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:98
     old "Act evasive"
@@ -990,140 +1124,12 @@ translate french strings:
     old "No more games, period"
     new "Plus de jeux, point final"
 
-#Translate by BlackViper_
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:34
-translate french sm1cs_am005_d267eb2f:
-
-    # mct "This can't go on. I need to at least get us back on the same page."
-    mct "This can't go on. I need to at least get us back on the same page."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:37
-translate french sm1cs_am005_71f06d2b:
-
-    # mc "Hey, April."
-    mc "Hey, April."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:77
-translate french sm1cs_am005_hours_later_e90fce66:
-
-    # mct "Finally. That's the last ticket for my shift."
-    mct "Finally. That's the last ticket for my shift."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:86
-translate french sm1cs_am005_hours_later_a896092a:
-
-    # mct "April texted me."
-    mct "April texted me."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:96
-translate french sm1cs_am005_hours_later_66953d1c:
-
-    # am "Now I can talk.{w} So talk."
-    am "Now I can talk.{w} So talk."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:118
-translate french sm1cs_am005_hours_later_146a1f48:
-
-    # am "I... yes.{w} I want to talk."
-    am "I... yes.{w} I want to talk."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:122
-translate french sm1cs_am005_hours_later_2cbd87a6:
-
-    # am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
-    am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:155
-translate french sm1cs_am005_hours_later_a275d6ef:
-
-    # mct "I should be a little patient with April.{w} She's obviously got something on her mind."
-    mct "I should be a little patient with April.{w} She's obviously got something on her mind."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:159
-translate french sm1cs_am005_hours_later_a7b1f1c9:
-
-    # mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
-    mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:175
-translate french sm1cs_am005_hours_later_0ff1fdb3:
-
-    # am "What do you think, idiot?{w} All of it."
-    am "What do you think, idiot?{w} All of it."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:186
-translate french sm1cs_am005_sex_1_bd4a6ae6:
-
-    # am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
-    am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:198
-translate french sm1cs_am005_sex_1_028c5529:
-
-    # mc "Say no more..."
-    mc "Say no more..."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:203
-translate french sm1cs_am005_sex_1_bd9f2d5b:
-
-    # am "[mcname]...{w} That's not what I mean."
-    am "[mcname]...{w} That's not what I mean."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:210
-translate french sm1cs_am005_sex_1_4e767ae1:
-
-    # mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
-    mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:217
-translate french sm1cs_am005_sex_1_5c9540af:
-
-    # am "And I just, I don't know, I went stupid mode.{w} Basic mode."
-    am "And I just, I don't know, I went stupid mode.{w} Basic mode."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:227
-translate french sm1cs_am005_sex_1_1d60ca19:
-
-    # mct "I guess she doesn't have {b}all{/b} the answers."
-    mct "I guess she doesn't have {b}all{/b} the answers."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:230
-translate french sm1cs_am005_sex_1_5dc800e5:
-
-    # mc "Text me if you ever figure it out.{w} I got other-"
-    mc "Text me if you ever figure it out.{w} I got other-"
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:263
-translate french sm1cs_am005_sex_1_61ca4758:
-
-    # am "I didn't want {b}our{/b} first time to be like that."
-    am "I didn't want {b}our{/b} first time to be like that."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:274
-translate french sm1cs_am005_sex_1_de51fd56:
-
-    # am "Shuuuussssssh.{w} Not out here."
-    am "Shuuuussssssh.{w} Not out here."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:280
-translate french sm1cs_am005_sex_1_246cc10d:
-
-    # am "I don't know.{w} Maybe after I invited you to see my band."
-    am "I don't know.{w} Maybe after I invited you to see my band."
-
-# game/code/scenes/it_office/am/sm1cs-am005.rpy:600
-translate french sm1cs_am005_thumbsup_end_901d4d24:
-
-    # mct "Uh. Did she just really give me a thumbs up?"
-    mct "Uh. Did she just really give me a thumbs up?"
-
-translate french strings:
-
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
     old "Push it"
-    new "Push it"
+    new "Insister"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
     old "Don't push it"
-    new "Don't push it"
+    new "Ne pas insister"
 
+#Translate by BlackViper_

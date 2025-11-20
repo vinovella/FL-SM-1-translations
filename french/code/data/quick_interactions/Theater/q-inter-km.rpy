@@ -160,53 +160,52 @@ translate french q_inter_km_11_1342fee4:
     # km "Hey..."
     km "Hé..."
 
-#Translate by BlackViper_
-
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:131
 translate french q_inter_km_12_e774a14f:
 
     # km "So you're really one of us now."
-    km "So you're really one of us now."
+    km "Alors tu fais vraiment partie des nôtres maintenant."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:132
 translate french q_inter_km_12_92e25b2d:
 
     # mc "Looks that way."
-    mc "Looks that way."
+    mc "On dirait bien."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:135
 translate french q_inter_km_12_73f8b446:
 
     # km "It is good that you didn't give up, [mcname]."
-    km "It is good that you didn't give up, [mcname]."
+    km "Tu as bien fait de ne pas abandonner, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:136
 translate french q_inter_km_12_f721a89e:
 
     # km "Persistence is an important trait for an actor."
-    km "Persistence is an important trait for an actor."
+    km "La persévérance, c’est essentiel pour un acteur."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:141
 translate french q_inter_km_13_cfdaa95a:
 
     # km "I really hope that I don't end up competing with you for roles."
-    km "I really hope that I don't end up competing with you for roles."
+    km "J’espère vraiment qu’on ne finira pas par se battre pour les mêmes rôles."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:142
 translate french q_inter_km_13_496871f4:
 
     # mc "I am sure there is room enough for both of us, Kellie."
-    mc "I am sure there is room enough for both of us, Kellie."
+    mc "Je suis sûr qu’il y a de la place pour nous deux, Kellie."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:145
 translate french q_inter_km_13_46f2a43c:
 
     # km "I'm not so sure about that. I mean, Veronica was already getting a lot of the good roles."
-    km "I'm not so sure about that. I mean, Veronica was already getting a lot of the good roles."
+    km "Je n’en suis pas si certaine. Veronica avait déjà la plupart des bons rôles."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:146
 translate french q_inter_km_13_b15644e2:
 
     # km "But... the best I can do is just keep improving my craft."
-    km "But... the best I can do is just keep improving my craft."
+    km "Mais… le mieux que je puisse faire, c’est continuer à m’améliorer."
 
+#Translate by BlackViper_

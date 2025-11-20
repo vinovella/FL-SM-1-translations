@@ -2,7 +2,7 @@
 translate french sm1fs_i003_ec136a61:
 
     # sy "Shuuddddup."
-    sy "Tais-toi."
+    sy "La feeeerrmmmmmeee."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:33
 translate french sm1fs_i003_527f7ed9:
@@ -80,7 +80,7 @@ translate french sm1fs_i003_bd3754c4:
 translate french sm1fs_i003_1c1d72cd:
 
     # ns "You seem to be out of shape."
-    ns "Tu as l’air hors de forme."
+    ns "Tu n'as pas l’air en forme."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:98
 translate french sm1fs_i003_f8ad994a:
@@ -104,7 +104,7 @@ translate french sm1fs_i003_78807f3a:
 translate french sm1fs_i003_66399b39:
 
     # ns "That would be a good reason to be out of shape."
-    ns "Ça expliquerait pourquoi tu es hors de forme."
+    ns "Ça expliquerait pourquoi tu n'es pas en forme."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:107
 translate french sm1fs_i003_a7577c14:
@@ -278,7 +278,7 @@ translate french sm1fs_i003_519cf39c:
 translate french sm1fs_i003_d85e89fe:
 
     # am "And as long as they're better than Aubergine Anna."
-    am "Et tant qu’ils sont meilleurs que “Anna l’Aubergine”."
+    am "Et tant qu’ils sont meilleurs que Anna l’Aubergine."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:190
 translate french sm1fs_i003_6a53b2ff:
@@ -338,7 +338,7 @@ translate french sm1fs_i003_908a0f34:
 translate french sm1fs_i003_834dac81:
 
     # ns "Excuse me, I didn't think cum was a place."
-    ns "Excusez-moi, je ne pensais pas que “cum” était un lieu."
+    ns "Excusez-moi, je ne pensais pas que cum était un lieu."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:218
 translate french sm1fs_i003_1e27f6cd:
@@ -356,7 +356,7 @@ translate french sm1fs_i003_9eee945a:
 translate french sm1fs_i003_f4a86eea:
 
     # cw "Ms. Song. C.U.M. is an acronym for Cloud User Management. While here, you may hear this name used from time to time."
-    cw "Mlle Song. C.U.M. est l’acronyme de “Cloud User Management”. Ici, vous entendrez ce nom utilisé de temps en temps."
+    cw "Mlle Song. C.U.M. est l’acronyme de Cloud User Management. Ici, vous entendrez ce nom utilisé de temps en temps."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:223
 translate french sm1fs_i003_a32b4516:
@@ -1000,6 +1000,12 @@ translate french sm1fs_i003_end_88720f29:
     # ag "Then that's all! You can take off for the rest of the day."
     ag "Alors c’est tout ! Vous pouvez rentrer pour le reste de la journée."
 
+# game/code/scenes/it_office/sm1fs-i003.rpy:130
+translate french sm1fs_i003_884c26d7:
+
+    # ns "{font=fonts/notosanskr-medium.ttf}새로운 잘생긴 동료를 만나서 반가워요!{/font}"
+    ns "{font=fonts/notosanskr-medium.ttf}Ravi de rencontrer un nouveau collègue beau gosse !{/font}"
+
 translate french strings:
 
     # game/code/scenes/it_office/sm1fs-i003.rpy:5
@@ -1015,9 +1021,4 @@ translate french strings:
     new "Trois heures plus tard..."
 
 #Translate by BlackViper_
-# game/code/scenes/it_office/sm1fs-i003.rpy:130
-translate french sm1fs_i003_884c26d7:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}새로운 잘생긴 동료를 만나서 반가워요!{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}새로운 잘생긴 동료를 만나서 반가워요!{/font}"
 

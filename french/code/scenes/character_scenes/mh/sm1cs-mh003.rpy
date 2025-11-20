@@ -50,7 +50,7 @@ translate french sm1cs_mh003_8b77f594:
 translate french sm1cs_mh003_ee704957:
 
     # mc "Stacy, Lyssa is a busy lawyer. I doubt-"
-    mc "Stacy, Lyssa est une avocate occupée. Je doute—"
+    mc "Stacy, Lyssa est une avocate occupée. Je doute..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:37
 translate french sm1cs_mh003_1a250e16:
@@ -314,7 +314,7 @@ translate french sm1cs_mh003_a87a337b:
 translate french sm1cs_mh003_e7bfff0f:
 
     # mh "If you want to live where you work, you need to make sure that you're zoned for it - i.e. mixed use."
-    mh "Si vous voulez vivre là où vous travaillez, il faut vérifier que c’est en zone mixte — habitation et activité."
+    mh "Si vous voulez vivre là où vous travaillez, il faut vérifier que c’est en zone mixte ... habitation et activité."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:170
 translate french sm1cs_mh003_e95b2bee:
@@ -338,7 +338,7 @@ translate french sm1cs_mh003_dcfff7eb:
 translate french sm1cs_mh003_ac9cc28d:
 
     # mc "Uhh, it does. But, Lyssa, we don't-"
-    mc "Euh, c’est clair. Mais Lyssa, on n’a pas—"
+    mc "Euh, c’est clair. Mais Lyssa, on n’a pas..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:180
 translate french sm1cs_mh003_523b741a:

@@ -280,28 +280,28 @@ translate french q_inter_ag_18_b714cbc4:
     # ag "Oh, erm... yep. Just until I finish this, erm, other project."
     ag "Oh, euh… ouais. Juste le temps de finir cet… autre projet."
 
-#Translate by BlackViper_
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:59
 translate french q_inter_ag_4_3546ca5d:
 
     # ag "I definitely shouldn't have had that extra energy drink."
-    ag "I definitely shouldn't have had that extra energy drink."
+    ag "J’aurais vraiment pas dû prendre cette boisson énergisante en plus."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:85
 translate french q_inter_ag_7_79d8f0d1:
 
     # ag "Great. I finished my book, 'The Mask of Morraco' last night."
-    ag "Great. I finished my book, 'The Mask of Morraco' last night."
+    ag "Super. J’ai fini mon livre, 'Le Masque de Morraco', hier soir."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:174
 translate french q_inter_ag_17_e1f59b0c:
 
     # ag "You know, Ridley makes pretty good margaritas."
-    ag "You know, Ridley makes pretty good margaritas."
+    ag "Tu sais, Ridley prépare de très bonnes margaritas."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:188
 translate french q_inter_ag_18_c20b0fa0:
 
     # mc "Going to be working at the coffee shop for a while?"
-    mc "Going to be working at the coffee shop for a while?"
+    mc "Tu vas travailler encore longtemps au café ?"
 
+#Translate by BlackViper_

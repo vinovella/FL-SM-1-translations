@@ -44,7 +44,7 @@ translate french sm1cs_tl004i_65ea8c88:
 translate french sm1cs_tl004i_b771d497:
 
     # mc "Uhm, nothing-"
-    mc "Euh, rien—"
+    mc "Euh, rien..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004i.rpy:26
 translate french sm1cs_tl004i_318ed744:

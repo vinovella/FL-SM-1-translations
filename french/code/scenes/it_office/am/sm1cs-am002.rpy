@@ -496,102 +496,112 @@ translate french sm1cs_am002_bf8549a7:
     # mc "Loud and clear."
     mc "Clair et net."
 
-translate french strings:
-
-    # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
-    old "April, you okay?"
-    new "April, ça va ?"
-
-#Translate by BlackViper_
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:57
 translate french sm1cs_am002_e86d99ac:
 
     # mc "Uh... Earth to April."
-    mc "Uh... Earth to April."
+    mc "Euh... Allô, April ?"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:78
 translate french sm1cs_am002_39bb3e71:
 
     # mc "Totally fine.{w} Gave my heart a workout."
-    mc "Totally fine.{w} Gave my heart a workout."
+    mc "Tout va bien.{w} Ça a juste fait travailler mon cœur."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:81
 translate french sm1cs_am002_9222011b:
 
     # ag "Did she say anything?{w} Did you hear her talking on her phone?"
-    ag "Did she say anything?{w} Did you hear her talking on her phone?"
+    ag "Elle a dit quelque chose ?{w} Tu l’as entendue parler au téléphone ?"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:96
 translate french sm1cs_am002_72c66862:
 
     # ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
-    ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
+    ag "Oh non. C’est juste que...{w} Je veux m’assurer qu’April ne se cache pas aux toilettes pour passer des appels perso pendant les heures de travail."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:99
 translate french sm1cs_am002_d06f9e7a:
 
     # mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
-    mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
+    mc "Okay... Peut-être qu’elle recevait des messages ?{w} Elle était vraiment à fond sur son téléphone."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:106
 translate french sm1cs_am002_e2dd0671:
 
     # mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
-    mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
+    mc "Oh, vraiment bien. Et après plusieurs tentatives, je crois que j’ai trouvé la meilleure façon de lui demander de l’aide sans qu’elle me hurle dessus."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:167
 translate french sm1cs_am002_9bab7d01:
 
     # ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
-    ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
+    ag "Demain ?{w} Non. Tu étais censée avoir terminé les modifications du middleware aujourd’hui."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:185
 translate french sm1cs_am002_38cb486e:
 
     # am "Look, it's like I said earlier.{w} It will be ready tomorrow."
-    am "Look, it's like I said earlier.{w} It will be ready tomorrow."
+    am "Écoute, comme je l’ai déjà dit.{w} Ce sera prêt demain."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:189
 translate french sm1cs_am002_f059d2ec:
 
     # ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
-    ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
+    ag "*soupire* April, parle-moi, s'il te plaît.{w} Ce n’est pas ton genre. Enfin, si, mais... même avec toutes tes piques et insultes, tu ne prends jamais autant de retard."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:201
 translate french sm1cs_am002_371de864:
 
     # am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
-    am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
+    am "Tu sais à quel point le middleware peut être capricieux.{w} Et tous tes piaillements me déconcentrent et me font encore plus prendre du retard."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:311
 translate french sm1cs_am002_cb355b8b:
 
     # ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
-    ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
+    ag "Hahaha, jamais.{w} Elle disait que c’était le moyen le plus rapide d’attirer son attention et qu’elle ne pensait pas que ça l’assommerait."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:312
 translate french sm1cs_am002_a8caa986:
 
     # ag "That was quite the day..."
-    ag "That was quite the day..."
+    ag "C’était une sacrée journée..."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:323
 translate french sm1cs_am002_cff053f3:
 
     # ag "Thanks, [mcname]."
-    ag "Thanks, [mcname]."
+    ag "Merci, [mcname]."
 
 translate french strings:
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
-    old "You should watch where you're going"
-    new "You should watch where you're going"
+    old "You should watch where you're going."
+    new "Tu devrais regarder où tu vas."
 
+    # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
+    old "April, you okay?"
+    new "April, ça va ?"
+
+    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
+    old "She's a fucking menace."
+    new "C’est une vraie plaie."
+
+    # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
+    old "She seems stressed."
+    new "Elle a l’air stressée."
+
+    # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
+    old "You should watch where you're going"
+    new "Tu devrais regarder où tu vas"
+    
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
     old "She's a fucking menace"
-    new "She's a fucking menace"
-
+    new "C’est une vraie plaie"
+    
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
     old "She seems stressed"
-    new "She seems stressed"
+    new "Elle a l’air stressée"
 
+#Translate by BlackViper_

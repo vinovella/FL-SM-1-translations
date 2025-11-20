@@ -2,7 +2,7 @@
 translate french sm1cs_tl001i_c7a0fb24:
 
     # mc "Hey, Taisia. I wanted to talk to you-"
-    mc "Hey, Taisia. Je voulais te parler—"
+    mc "Hey, Taisia. Je voulais te parler..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001i.rpy:8
 translate french sm1cs_tl001i_6f85c701:

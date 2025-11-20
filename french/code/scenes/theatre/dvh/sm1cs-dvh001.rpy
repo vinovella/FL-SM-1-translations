@@ -40,12 +40,6 @@ translate french sm1cs_dvh001_b5ff2aaa:
     # dvh "Yes?"
     dvh "Oui ?"
 
-# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:34
-translate french sm1cs_dvh001_cb8f47d0:
-
-    # mc "I just... Thought smoking and breathing deep were polar opposites."
-    mc "Je pensais juste que fumer et respirer profondément étaient des opposés."
-
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:38
 translate french sm1cs_dvh001_0864ec51:
 
@@ -212,7 +206,7 @@ translate french sm1cs_dvh001_44239085:
 translate french sm1cs_dvh001_6b79b63b:
 
     # mc "So can you help me?"
-    mc "Alors, pouvez-vous m’aider ?"
+    mc "Alors, peux-tu m’aider ?"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:111
 translate french sm1cs_dvh001_e436bda0:
@@ -242,7 +236,7 @@ translate french sm1cs_dvh001_87a1c3e1:
 translate french sm1cs_dvh001_04de8a65:
 
     # dvh "My first time directing a play, \"Soldier of Yellow\", I wanted to do something daring and bold."
-    dvh "La première fois que j’ai dirigé une pièce, « Soldat de Jaune », je voulais faire quelque chose d’audacieux et de courageux."
+    dvh "La première fois que j’ai dirigé une pièce, \" Soldat de Jaune\" , je voulais faire quelque chose d’audacieux et de courageux."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:126
 translate french sm1cs_dvh001_365e18c4:
@@ -392,7 +386,7 @@ translate french sm1cs_dvh001_f5be7902:
 translate french sm1cs_dvh001_1e6e0418:
 
     # mc "So what do you think? Will you teach me how to be a better actor?"
-    mc "Alors, qu’en penses-tu ? Vas‑tu m’apprendre à devenir un meilleur acteur ?"
+    mc "Alors, qu’en penses-tu ? Vas-tu m’apprendre à devenir un meilleur acteur ?"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:192
 translate french sm1cs_dvh001_9febb501:
@@ -488,7 +482,7 @@ translate french sm1cs_dvh001_d40608a9:
 translate french sm1cs_dvh001_678552aa:
 
     # dvh "Try not to disappoint me, [mcname]. And if you do, just make it quick."
-    dvh "Essaie de ne pas me décevoir, [mcname]. Et si tu le fais, fais‑le vite."
+    dvh "Essaie de ne pas me décevoir, [mcname]. Et si tu le fais, fais-le vite."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:231
 translate french sm1cs_dvh001_784ea34b:
@@ -513,16 +507,4 @@ translate french strings:
     new "Dis à Denise que tu t’intéresses seulement au jeu d’acteur"
 
 #Translate by BlackViper_
-
-# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:27
-translate french sm1cs_dvh001_5264a337:
-
-    # dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
-    dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
-
-# game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:213
-translate french sm1cs_dvh001_169f969d:
-
-    # dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
-    dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
 

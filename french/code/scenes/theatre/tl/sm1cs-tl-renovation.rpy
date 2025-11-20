@@ -20,7 +20,7 @@ translate french sm1cs_tl_renovation_5babfffd:
 translate french sm1cs_tl_renovation_73d77ba6:
 
     # mc "I don't know... moving stuff, and, uh painting, and-"
-    mc "Je sais pas... déplacer des trucs, peindre un peu, et—"
+    mc "Je sais pas... déplacer des trucs, peindre un peu, et..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl-renovation.rpy:23
 translate french sm1cs_tl_renovation_596784ab:
@@ -176,7 +176,7 @@ translate french sm1cs_tl_renovation_studio_befd34b2:
 translate french sm1cs_tl_renovation_studio_0eeff9a1:
 
     # mc "I - wait, I have no idea what your place looks like."
-    mc "Je— attends, j’ai aucune idée de ce à quoi ressemble ton appart."
+    mc "Je... attends, j’ai aucune idée de ce à quoi ressemble ton appart."
 
 # game/code/scenes/theatre/tl/sm1cs-tl-renovation.rpy:120
 translate french sm1cs_tl_renovation_studio_3cbc44c4:
@@ -188,7 +188,7 @@ translate french sm1cs_tl_renovation_studio_3cbc44c4:
 translate french sm1cs_tl_renovation_studio_c582cffb:
 
     # mc "I'd like-"
-    mc "J’aimerais—"
+    mc "J’aimerais..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl-renovation.rpy:127
 translate french sm1cs_tl_renovation_studio_aeaccb28:
@@ -362,7 +362,7 @@ translate french sm1cs_tl_renovation_studio_06d49c14:
 translate french sm1cs_tl_renovation_studio_0a2ccb35:
 
     # tl "Which, speaking of-"
-    tl "En parlant de ça—"
+    tl "En parlant de ça..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl-renovation.rpy:233
 translate french sm1cs_tl_renovation_studio_5b5c28c8:

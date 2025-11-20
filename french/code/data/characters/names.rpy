@@ -2,7 +2,7 @@
 
     # game/code/data/characters/names.rpy:6
     old "You"
-    new "You"
+    new "Toi"
 
     # game/code/data/characters/names.rpy:21
     old "Angela"
@@ -14,11 +14,11 @@
 
     # game/code/data/characters/names.rpy:23
     old "Creepy Guy"
-    new "Creepy Guy"
+    new "Mec flippant"
 
     # game/code/data/characters/names.rpy:25
     old "Dog Walker"
-    new "Dog Walker"
+    new "Promeneur de chiens"
 
     # game/code/data/characters/names.rpy:26
     old "Elizabeth"
@@ -100,9 +100,4 @@
     old "Jerk Cop"
     new "Jerk Cop"
 
-translate french strings:
-
-    # game/code/data/characters/names.rpy:87
-    old "Douche Cop"
-    new "Douche Cop"
-
+#Translate by BlackViper_

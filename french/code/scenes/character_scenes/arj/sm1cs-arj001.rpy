@@ -194,7 +194,7 @@ translate french sm1cs_arj001_5928b576:
 translate french sm1cs_arj001_93c72098:
 
     # mc "Well, I-"
-    mc "Eh bien, je-"
+    mc "Eh bien, je..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:108
 translate french sm1cs_arj001_c8a57576:
@@ -506,7 +506,7 @@ translate french sm1cs_arj001_9c526eca:
 translate french sm1cs_arj001_f3db19d5:
 
     # mc "But... about the USB-"
-    mc "Mais... à propos de l’USB-"
+    mc "Mais... à propos de l’USB..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:252
 translate french sm1cs_arj001_cef51dd8:
@@ -536,7 +536,7 @@ translate french sm1cs_arj001_40b02401:
 translate french sm1cs_arj001_726e3898:
 
     # arj "I don't want it anyway. All this thing is going to do is bring trouble. So take it."
-    arj "De toute façon, je n’en veux pas. Tout ce truc ne fera qu’apporter des emmerdes. Alors prends-le."
+    arj "De toute façon, je n’en veux pas. Tout ce truc ne fera qu’apporter des emmerdes. Alors prends-la."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:269
 translate french sm1cs_arj001_be4ecc29:
@@ -626,7 +626,7 @@ translate french sm1cs_arj001_e334e13f:
 translate french sm1cs_arj001_22d060fd:
 
     # cs "I was going to say, the sexual tension between you two was insane."
-    cs "J’allais dire, la tension sexuelle entre vous deux était dingue."
+    cs "J’veux dire, la tension sexuelle entre vous deux était dingue."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:321
 translate french sm1cs_arj001_a31340dd:
@@ -676,10 +676,10 @@ translate french sm1cs_arj001_92b04d3a:
     # mct "I wonder if she feels the same way?"
     mct "Je me demande si elle pense la même chose ?"
 
-#Translate by BlackViper_
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:43
 translate french sm1cs_arj001_5c2dddcf:
 
     # arj "So what if I do? {i}No one{/i} should have the flash drive."
-    arj "So what if I do? {i}No one{/i} should have the flash drive."
+    arj "Et alors si je le fais ? {i}Personne{/i} ne devrait avoir la clé USB.."
 
+#Translate by BlackViper_

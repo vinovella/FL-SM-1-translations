@@ -8,7 +8,7 @@ translate french sm1cs_my002_5ef8f649:
 translate french sm1cs_my002_cfd0751b:
 
     # mc "Yeah, we got some oysters-"
-    mc "Ouais, on a pris des huîtres-"
+    mc "Ouais, on a pris des huîtres..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:21
 translate french sm1cs_my002_ccc3d225:
@@ -74,7 +74,7 @@ translate french sm1cs_my002_5ad61693:
 translate french sm1cs_my002_4d404aed:
 
     # mc "I don't think that's the case, Stacy. I think she's just happy to be able to spend some time with me - with us, ya know?"
-    mc "Je crois pas, Stacy. Je pense qu’elle est juste contente de pouvoir passer un peu de temps avec moi — avec nous, tu vois ?"
+    mc "Je crois pas, Stacy. Je pense qu’elle est juste contente de pouvoir passer un peu de temps avec moi ... avec nous, tu vois ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:54
 translate french sm1cs_my002_feb23eb0:
@@ -380,7 +380,7 @@ translate french sm1cs_my002_art_gallery_0a22f587:
 translate french sm1cs_my002_art_gallery_97182e10:
 
     # mc "Hey now-"
-    mc "Hé, oh—"
+    mc "Hé, oh..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:217
 translate french sm1cs_my002_art_gallery_179b1239:
@@ -422,7 +422,7 @@ translate french sm1cs_my002_art_gallery_2b42a320:
 translate french sm1cs_my002_art_gallery_7a9c5d08:
 
     # my "Hahahaha - in my experience, guys who go to school for business aren't usually the most artistic."
-    my "Hahaha — d’après mon expérience, les gars en école de commerce sont rarement les plus artistiques."
+    my "Hahaha ... d’après mon expérience, les gars en école de commerce sont rarement les plus artistiques."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:236
 translate french sm1cs_my002_art_gallery_8fbc20f6:

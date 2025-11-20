@@ -68,7 +68,7 @@ translate french sm1cs_kv001_8a234e5c:
 translate french sm1cs_kv001_d79d21ea:
 
     # mc "Well, I used to be a student at the college here-"
-    mc "Eh bien, j’étais étudiant au collège ici—"
+    mc "Eh bien, j’étais étudiant au collège ici..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:64
 translate french sm1cs_kv001_d608b9d8:
@@ -498,11 +498,25 @@ translate french sm1cs_kv001_ending_ad25f2ce:
 
 translate french strings:
 
+    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:6
+    old "BOOK NAME"
+    new "NOM DU LIVRE"
+
+    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
+    old "Sure, I'm interested in how a photoshoot like this works."
+    new "Bien sûr, ça m’intéresse de voir comment marche un shooting comme ça."
+
+    # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:193
+    old "Oh, I'll give you some space."
+    new "Oh, je vais vous laisser un peu d’espace."
+
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:192
     old "Sure, I'm interested in how a photoshoot like this works"
-    new "Sure, I'm interested in how a photoshoot like this works"
+    new "Bien sûr, ça m'intéresse de voir comment fonctionne une séance photo comme ça"
 
     # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:192
     old "Oh, I'll give you some space"
-    new "Oh, I'll give you some space"
+    new "D'accord, je te laisse un peu d'espace"
+
+#Translate by BlackViper_
 

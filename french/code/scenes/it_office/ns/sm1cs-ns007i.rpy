@@ -20,7 +20,7 @@ translate french sm1cs_ns007i_1a1d7292:
 translate french sm1cs_ns007i_3d185314:
 
     # ns "No one told me. I'm so sorry. I'll just-"
-    ns "Personne ne me l’a dit. Je suis désolée. Je vais juste—"
+    ns "Personne ne me l’a dit. Je suis désolée. Je vais juste..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007i.rpy:17
 translate french sm1cs_ns007i_a6aa8ac9:

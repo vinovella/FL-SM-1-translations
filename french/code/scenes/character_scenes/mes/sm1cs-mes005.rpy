@@ -398,7 +398,7 @@ translate french sm1cs_mes005_1de6cf58:
 translate french sm1cs_mes005_8fc458e6:
 
     # mc "Hey Kanya-oh my god!"
-    mc "Salut Kanya—oh putain !"
+    mc "Salut Kanya...oh putain !"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:212
 translate french sm1cs_mes005_cae9ffd6:
@@ -1264,6 +1264,18 @@ translate french sm1cs_mes005_9435cfd0:
     # mct "That's the most important thing."
     mct "C’est ça le plus important."
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:241
+translate french sm1cs_mes005_1276f4df:
+
+    # kv "Haha.{w} Looking forward to it, [mcname]."
+    kv "Haha.{w} J’ai hâte, [mcname]."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:441
+translate french sm1cs_mes005_4a089a68:
+
+    # mes "Well, then you'll enjoy this."
+    mes "Eh bien, alors tu vas apprécier ça."
+
 translate french strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:220
@@ -1279,16 +1291,3 @@ translate french strings:
     new "Soutenir Min"
 
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:241
-translate french sm1cs_mes005_1276f4df:
-
-    # kv "Haha.{w} Looking forward to it, [mcname]."
-    kv "Haha.{w} Looking forward to it, [mcname]."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:441
-translate french sm1cs_mes005_4a089a68:
-
-    # mes "Well, then you'll enjoy this."
-    mes "Well, then you'll enjoy this."
-

@@ -830,7 +830,7 @@ translate french sm1cs_kv004_sex_repeatable_a12e1049:
 translate french sm1cs_kv004_sex_repeatable_2b6215a6:
 
     # kv "Fuuuuuh - hang on, I want to enjoy this for a second."
-    kv "Fuuuuuh – attends, je veux en profiter une seconde."
+    kv "Puuuuut... Attends, je veux en profiter une seconde."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:515
 translate french sm1cs_kv004_sex_repeatable_9dbf668e:
@@ -872,7 +872,7 @@ translate french sm1cs_kv004_sex_repeatable_1ce81b63:
 translate french sm1cs_kv004_sex_repeatable_22543fa9:
 
     # kv "Goooood, yes! That's so much better."
-    kv "Goooood, ouiii ! C’est tellement meilleur."
+    kv "Mon dieu, ouiii ! C’est tellement meilleur."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:539
 translate french sm1cs_kv004_sex_repeatable_ad7ddf91:
@@ -896,13 +896,13 @@ translate french sm1cs_kv004_sex_repeatable_7261c57f:
 translate french sm1cs_kv004_sex_repeatable_2c794ec4:
 
     # kv "Fuuuuuccccck, if we - nnnngnghghghh - stay in this position-"
-    kv "Fuuuuuuck, si on – nnnnghh – reste comme ça–"
+    kv "Puuuuuutain, si on... Nnnnghh... Reste comme ça..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:551
 translate french sm1cs_kv004_sex_repeatable_3272f42d:
 
     # kv "NNNNNGGG, I'm going to - fuuuuuucking -"
-    kv "Nnnnnghh, je vais – jouiiir, putaaaain–"
+    kv "Nnnnnghh, je vais jouiiir, putaaaain..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:553
 translate french sm1cs_kv004_sex_repeatable_13e8df3e:
@@ -926,7 +926,7 @@ translate french sm1cs_kv004_sex_repeatable_b1fb8c3a:
 translate french sm1cs_kv004_sex_repeatable_ef38e483:
 
     # kv "FuuuuuckI'mcummmmming!"
-    kv "Fuuuuuuck je jouiiiiiiiis !!!"
+    kv "Puuuuuutain je jouiiiiiiiis !!!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:565
 translate french sm1cs_kv004_sex_repeatable_2f8872a0:
@@ -956,13 +956,13 @@ translate french sm1cs_kv004_sex_repeatable_579c5263:
 translate french sm1cs_kv004_sex_repeatable_234a4a1f:
 
     # kv "And choke me! Fuck, I love it - wrap that big, strong hand around my neck!"
-    kv "Et étrangle-moi ! Putain, j’adore ça – serre ton gros bras autour de mon cou !"
+    kv "Et étrangle-moi ! Putain, j’adore ça serre ton gros bras autour de mon cou !"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:583
 translate french sm1cs_kv004_sex_repeatable_b754232b:
 
     # kv "Fuuuuungnnaldjgn, keep fucking me - just like that! I can feel myself about to cum again!"
-    kv "Fuuuuuck, continue de me baiser – ouiii comme ça ! Je vais jouir encore !"
+    kv "Puuuuutain, continue de me baiser... Ouiii comme ça ! Je vais jouir encore !"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:589
 translate french sm1cs_kv004_sex_repeatable_9ba64785:
@@ -992,13 +992,13 @@ translate french sm1cs_kv004_sex_repeatable_aef2c7e5:
 translate french sm1cs_kv004_sex_repeatable_c5bef044:
 
     # mc "I'm going to - fuuuuuuck - I'm so close!"
-    mc "Je vais – fuuuuuck – je suis trop proche !"
+    mc "Je vais... Puuuuutain... Je suis très proche !"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:599
 translate french sm1cs_kv004_sex_repeatable_53203aff:
 
     # kv "Fuh - King - Cum - In - My - PUSSY!!!"
-    kv "Viens – jouis – dans – ma – CHAAAATTE !!!"
+    kv "Viens... Jouis... Dans... Ma... CHAAAATTE !!!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:604
 translate french sm1cs_kv004_sex_repeatable_f9fc7303:
@@ -1034,7 +1034,7 @@ translate french sm1cs_kv004_sex_repeatable_68dcd1f2:
 translate french sm1cs_kv004_sex_repeatable_a0d20ec7:
 
     # kv "I was going to talk about the best way to do a money shot... But this is too good of a feeling to pass up on."
-    kv "J’allais expliquer la meilleure façon de faire un cumshot... mais ce que je ressens est bien trop bon pour gâcher ça."
+    kv "J’allais expliquer la meilleure façon de faire un plan cul... mais ce que je ressens est bien trop bon pour gâcher ça."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:620
 translate french sm1cs_kv004_sex_repeatable_9142d86a:
@@ -1181,28 +1181,4 @@ translate french strings:
     new "Une autre fois peut-être"
 
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
-translate french sm1cs_kv004_9b3488c6:
-
-    # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
-translate french sm1cs_kv004_sex_repeatable_b52d6afd:
-
-    # kv "Let's get rid of these pesky things..."
-    kv "Let's get rid of these pesky things..."
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
-translate french sm1cs_kv004_sex_repeatable_0bda85cc:
-
-    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
-    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
-translate french sm1cs_kv004_sex_repeatable_925a1079:
-
-    # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
-    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
 

@@ -206,7 +206,7 @@ translate french sm1ms008_db07abac:
 translate french sm1ms008_d3d71759:
 
     # sy "Thank you, [mcname]. It sounds like the client is into a little rough stuff. They want some spanking and maybe a little choking, little man-handling."
-    sy "Merci, [mcname]. Le client aime un peu le hard. Ils veulent de la fessée, peut-être un peu d’étranglement, et quelques bonnes prises en main musclées."
+    sy "Merci, [mcname]. Le client aime un peu le hard. Il veut de la fessée, peut-être un peu d’étranglement, et quelques bonnes prises en main musclées."
 
 # game/code/scenes/main_story/sm1ms008.rpy:136
 translate french sm1ms008_77082a31:
@@ -332,7 +332,7 @@ translate french sm1ms008_special_5328f655:
 translate french sm1ms008_special_17c2779d:
 
     # kv "When you talked about your 'best' friend, I had a feeling you might be friends with benefits by the way you talked about her."
-    kv "Quand tu parlais de ta ‘meilleure’ amie, j’avais bien senti que c’était plutôt une amie avec avantages…"
+    kv "Quand tu parlais de ta 'meilleure' amie, j’avais bien senti que c’était plutôt une amie avec avantages…"
 
 # game/code/scenes/main_story/sm1ms008.rpy:206
 translate french sm1ms008_special_9e3ed4a4:
@@ -868,6 +868,48 @@ translate french sm1ms008_after_choice_fcbd7d08:
     # sy "Ouais, moi aussi. On te recontacte dès qu’on a la caméra."
     sy "Ouais, pareil. On te recontacte dès qu’on a la caméra."
 
+# game/code/scenes/main_story/sm1ms008.rpy:140
+translate french sm1ms008_4b4bda9d:
+
+    # sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+    sy "Il y a une dernière demande. C'est un peu étrange. Ils veulent que la fille soit rousse. Alors [mcname] a pris cette perruque."
+
+# game/code/scenes/main_story/sm1ms008.rpy:221
+translate french sm1ms008_special_971cdae2:
+
+    # mc "Well, we're together now. That's the important part."
+    mc "Bon, on est ensemble maintenant. C'est ça qui compte."
+
+# game/code/scenes/main_story/sm1ms008.rpy:380
+translate french sm1ms008_after_choice_c7b2de42:
+
+    # kv "Alright Stacy, why don't you give me some poses."
+    kv "Très bien Stacy, pourquoi tu ne me ferais pas quelques poses."
+
+# game/code/scenes/main_story/sm1ms008.rpy:430
+translate french sm1ms008_after_choice_afa6b554:
+
+    # mc "Wait, don't you have any cameras we might need, Kanya?"
+    mc "Attends, tu n'as pas des caméras dont on pourrait avoir besoin, Kanya ?"
+
+# game/code/scenes/main_story/sm1ms008.rpy:455
+translate french sm1ms008_after_choice_9090b1fc:
+
+    # sy "I'm thinking about the extra work we'll have to do to get this super camera."
+    sy "Je pense au travail supplémentaire qu'on devra faire pour obtenir cette super caméra."
+
+# game/code/scenes/main_story/sm1ms008.rpy:482
+translate french sm1ms008_after_choice_6805a231:
+
+    # sy "Haha. Good thing that's not [mcname]'s motto."
+    sy "Haha. Heureusement que ce n'est pas la devise de [mcname]."
+
+# game/code/scenes/main_story/sm1ms008.rpy:498
+translate french sm1ms008_after_choice_43fefb83:
+
+    # kv "Got it, let me give you my number."
+    kv "Parfait, laisse-moi te donner mon numéro."
+
 translate french strings:
 
     # game/code/scenes/main_story/sm1ms008.rpy:10
@@ -875,60 +917,24 @@ translate french strings:
     new "Au Photo Dojo"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
+    old "You should stick with red hair."
+    new "Tu devrais garder les cheveux roux."
+
+    # game/code/scenes/main_story/sm1ms008.rpy:322
+    old "I think it will do nicely for the scene."
+    new "Je pense que ça ira parfaitement pour la scène."
+
+    # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I'm glad it's temporary"
     new "Je suis content que ce soit temporaire"
 
-#Translate by BlackViper_
-
-# game/code/scenes/main_story/sm1ms008.rpy:140
-translate french sm1ms008_4b4bda9d:
-
-    # sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-    sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-
-# game/code/scenes/main_story/sm1ms008.rpy:221
-translate french sm1ms008_special_971cdae2:
-
-    # mc "Well, we're together now. That's the important part."
-    mc "Well, we're together now. That's the important part."
-
-# game/code/scenes/main_story/sm1ms008.rpy:380
-translate french sm1ms008_after_choice_c7b2de42:
-
-    # kv "Alright Stacy, why don't you give me some poses."
-    kv "Alright Stacy, why don't you give me some poses."
-
-# game/code/scenes/main_story/sm1ms008.rpy:430
-translate french sm1ms008_after_choice_afa6b554:
-
-    # mc "Wait, don't you have any cameras we might need, Kanya?"
-    mc "Wait, don't you have any cameras we might need, Kanya?"
-
-# game/code/scenes/main_story/sm1ms008.rpy:455
-translate french sm1ms008_after_choice_9090b1fc:
-
-    # sy "I'm thinking about the extra work we'll have to do to get this super camera."
-    sy "I'm thinking about the extra work we'll have to do to get this super camera."
-
-# game/code/scenes/main_story/sm1ms008.rpy:482
-translate french sm1ms008_after_choice_6805a231:
-
-    # sy "Haha. Good thing that's not [mcname]'s motto."
-    sy "Haha. Good thing that's not [mcname]'s motto."
-
-# game/code/scenes/main_story/sm1ms008.rpy:498
-translate french sm1ms008_after_choice_43fefb83:
-
-    # kv "Got it, let me give you my number."
-    kv "Got it, let me give you my number."
-
-translate french strings:
-
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "You should stick with red hair"
-    new "You should stick with red hair"
+    new "Tu devrais garder les cheveux roux"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I think it will do nicely for the scene"
-    new "I think it will do nicely for the scene"
+    new "Je pense que ça ira très bien pour la scène"
+
+#Translate by BlackViper_
 

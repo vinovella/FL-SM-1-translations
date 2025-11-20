@@ -8,6 +8,14 @@
     old "Do you want to skip time and sleep right now?"
     new "Veux-tu passer le temps et dormir maintenant ?"
 
+    # game/code/classes/player.rpy:98
+    old "You just got ${}"
+    new "Tu viens de recevoir ${}"
+
+    # game/code/classes/player.rpy:109
+    old "You spent ${}"
+    new "Tu as dépensé ${}"
+
     # game/code/classes/player.rpy:386
     old "You just discovered new location on the map"
     new "Tu viens de découvrir un nouveau lieu sur la carte"
@@ -17,20 +25,4 @@
     new "Tu viens de progresser dans le sujet"
 
 #Translate by BlackViper_
-
-translate french strings:
-
-    # game/code/classes/player.rpy:104
-    old "You just got $[amount]"
-    new "You just got $[amount]"
-
-    # game/code/classes/player.rpy:115
-    old "You spent $[amount]"
-    new "You spent $[amount]"
-
-translate french strings:
-
-    # game/code/classes/player.rpy:403
-    old "You have improved in topic [topic!t]"
-    new "You have improved in topic [topic!t]"
 

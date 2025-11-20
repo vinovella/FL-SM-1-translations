@@ -1921,8 +1921,8 @@ translate french sm1cs_am007_one_hour_later_9d24ef07:
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1057
 translate french sm1cs_am007_one_hour_later_094f44bc:
 
-    # am "*heavy breathing*"
-    am "*haleine lourde*"
+    # am "*respiration lourde*"
+    am "*respiration lourde*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1062
 translate french sm1cs_am007_one_hour_later_e2e529bb:
@@ -2120,7 +2120,7 @@ translate french sm1cs_am007_one_hour_later_8d213f61:
 translate french sm1cs_am007_one_hour_later_bc39512b:
 
     # am "Oh yeah? Tell me-"
-    am "Ah ouais ? Raconte-moi—"
+    am "Ah ouais ? Raconte-moi..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1158
 translate french sm1cs_am007_one_hour_later_e9a4d565_1:
@@ -2228,7 +2228,7 @@ translate french sm1cs_am007_one_hour_later_3a1d4cf8:
 translate french sm1cs_am007_one_hour_later_37971945:
 
     # am "Fuuhhhaaak."
-    am "Fuuhhhaaak."
+    am "Puutttaaain."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1204
 translate french sm1cs_am007_one_hour_later_b630bcda:
@@ -2276,7 +2276,7 @@ translate french sm1cs_am007_one_hour_later_6a6bc5a5:
 translate french sm1cs_am007_one_hour_later_c983c525:
 
     # am "Don't stop-huaah!... *moaning*"
-    am "T’arrête pas—huaah !... *gémit*"
+    am "T’arrête pas...huaah !... *gémit*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1220
 translate french sm1cs_am007_one_hour_later_728182d4:
@@ -2432,7 +2432,7 @@ translate french sm1cs_am007_one_hour_later_34ab3758:
 translate french sm1cs_am007_one_hour_later_826d8536:
 
     # mc "I thought I was just going to meet people like I met at the-"
-    mc "Je pensais que j’allais juste croiser des gens comme ceux que j’ai connus au—"
+    mc "Je pensais que j’allais juste croiser des gens comme ceux que j’ai connus au..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1296
 translate french sm1cs_am007_one_hour_later_dbc9c5b2:
@@ -2560,6 +2560,60 @@ translate french sm1cs_am007_one_hour_later_76afc299:
     # mct "It will be fine.{w} I {b}know{/b} April will understand..."
     mct "Ça ira.{w} Je {b}sais{/b} qu’April comprendra..."
 
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:46
+translate french sm1cs_am007_ed615167:
+
+    # mct "I wonder what the call is about.{w} Seemed important."
+    mct "Je me demande ce que voulait dire cet appel.{w} Ça avait l’air important."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:114
+translate french sm1cs_am007_44f8eb4e:
+
+    # ps "We should have listened better and we should accept that sometimes you're going to miss practice."
+    ps "On aurait dû mieux t’écouter et accepter que parfois tu ne puisses pas venir à l’entraînement."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:212
+translate french sm1cs_am007_c4c994b5:
+
+    # am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
+    am "Je bosse dans la tech.{w} Chaque jour, c’est un sandwich de merde au petit-déj et un cocktail d’angoisse au déjeuner."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:213
+translate french sm1cs_am007_45358e8c:
+
+    # am "And this week has been order on the double-shit sandwich."
+    am "Et cette semaine, c’était un sandwich double dose de merde."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:525
+translate french sm1cs_am007_20_minutes_later_01c49227:
+
+    # mc "I have a sudden thirst for a big glass of milk."
+    mc "J’ai soudain très envie d’un grand verre de lait."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:528
+translate french sm1cs_am007_20_minutes_later_7368538e:
+
+    # am "You're here to run.{w} Not ogle my tits."
+    am "Tu es ici pour courir.{w} Pas pour mater mes seins."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1249
+translate french sm1cs_am007_one_hour_later_36b9f516:
+
+    # mc "Anyone standing near this building might have heard us."
+    mc "N’importe qui près du bâtiment a dû nous entendre."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1287
+translate french sm1cs_am007_one_hour_later_6d10752d:
+
+    # mct "I almost said \"at Fetish Locator parties\"."
+    mct "J’ai failli dire \"aux soirées Fetish Locator\"."
+
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:1335
+translate french sm1cs_am007_one_hour_later_620b174c:
+
+    # mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
+    mct "C’est un peu tordu. Je ne devrais pas m’engager avec quelqu’un sans expliquer pourquoi je suis venu chez Orbix au départ."
+
 translate french strings:
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:57
@@ -2569,6 +2623,10 @@ translate french strings:
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "You'll figure it out"
     new "Tu finiras par comprendre"
+
+    # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
+    old "Suprised it's taking you this long"
+    new "Surpris que ça te prenne autant de temps"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "I have heard of the general concept"
@@ -2662,64 +2720,8 @@ translate french strings:
     old "I'd like to do other things to you"
     new "J’aimerais te faire d’autres choses"
 
-#Translate by BlackViper_
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:46
-translate french sm1cs_am007_ed615167:
-
-    # mct "I wonder what the call is about.{w} Seemed important."
-    mct "I wonder what the call is about.{w} Seemed important."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:114
-translate french sm1cs_am007_44f8eb4e:
-
-    # ps "We should have listened better and we should accept that sometimes you're going to miss practice."
-    ps "We should have listened better and we should accept that sometimes you're going to miss practice."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:212
-translate french sm1cs_am007_c4c994b5:
-
-    # am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
-    am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:213
-translate french sm1cs_am007_45358e8c:
-
-    # am "And this week has been order on the double-shit sandwich."
-    am "And this week has been order on the double-shit sandwich."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:525
-translate french sm1cs_am007_20_minutes_later_01c49227:
-
-    # mc "I have a sudden thirst for a big glass of milk."
-    mc "I have a sudden thirst for a big glass of milk."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:528
-translate french sm1cs_am007_20_minutes_later_7368538e:
-
-    # am "You're here to run.{w} Not ogle my tits."
-    am "You're here to run.{w} Not ogle my tits."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1249
-translate french sm1cs_am007_one_hour_later_36b9f516:
-
-    # mc "Anyone standing near this building might have heard us."
-    mc "Anyone standing near this building might have heard us."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1287
-translate french sm1cs_am007_one_hour_later_6d10752d:
-
-    # mct "I almost said \"at Fetish Locator parties\"."
-    mct "I almost said \"at Fetish Locator parties\"."
-
-# game/code/scenes/it_office/am/sm1cs-am007.rpy:1335
-translate french sm1cs_am007_one_hour_later_620b174c:
-
-    # mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
-    mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
-
-translate french strings:
-
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "Surprised it's taking you this long"
-    new "Surprised it's taking you this long"
+    new "Surpris que ça te prenne autant de temps"
 
+#Translate by BlackViper_

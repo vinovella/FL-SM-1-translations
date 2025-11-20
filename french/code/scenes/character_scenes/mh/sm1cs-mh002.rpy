@@ -388,11 +388,10 @@ translate french sm1cs_mh002_92b73ecf:
     # mh "Ciao."
     mh "Ciao."
 
-#Translate by BlackViper_
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:117
 translate french sm1cs_mh002_4165b5fc:
 
     # mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
-    mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
+    mh "On dirait que dès que vous avez pris de la vitesse, vous avez pu percer le voile du mystère assez rapidement pour comprendre ce que Lydia faisait."
 
+#Translate by BlackViper_

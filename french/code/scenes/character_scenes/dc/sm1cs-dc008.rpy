@@ -86,7 +86,7 @@ translate french sm1cs_dc008_81593a9f:
 translate french sm1cs_dc008_c4ab66d2:
 
     # mc "I'm sorry - Officer Callahan."
-    mc "Pardon — officier Callahan."
+    mc "Pardon ... officier Callahan."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:56
 translate french sm1cs_dc008_5fa7ce74:
@@ -296,7 +296,7 @@ translate french sm1cs_dc008_9e7ca970:
 translate french sm1cs_dc008_9cf967d2:
 
     # dc "Oh, I- that was rude, wasn't it?{w} I am so sorry."
-    dc "Oh, je— c’était impoli, non ?{w} Je suis désolée."
+    dc "Oh, je... c’était impoli, non ?{w} Je suis désolée."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:158
 translate french sm1cs_dc008_9c1eb13e:
@@ -428,7 +428,7 @@ translate french sm1cs_dc008_11407d3d:
 translate french sm1cs_dc008_28fe45a4:
 
     # dc "Oh my! Not at all, actually, uhm-"
-    dc "Oh mince ! Pas du tout, en fait, euh—"
+    dc "Oh mince ! Pas du tout, en fait, euh..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:214
 translate french sm1cs_dc008_9191e49c:
@@ -512,7 +512,7 @@ translate french sm1cs_dc008_a1c6fa7f:
 translate french sm1cs_dc008_f9ebc8dd:
 
     # mc "You - you're smiling now!"
-    mc "Toi — tu souris maintenant !"
+    mc "Toi ... tu souris maintenant !"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:249
 translate french sm1cs_dc008_d5b04f9f:
@@ -1024,23 +1024,16 @@ translate french sm1cs_dc008_02776fbe:
     # mct "Hopefully..."
     mct "Avec un peu de chance..."
 
-#Translate by BlackViper_
-
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:23
 translate french sm1cs_dc008_3e0984ed:
 
     # "Waiter" "And I will make sure your date joins you as soon as he arrives."
-    "Waiter" "And I will make sure your date joins you as soon as he arrives."
+    "Waiter" "Et je m’assurerai que ton rendez-vous te rejoigne dès qu’il arrivera."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:441
 translate french sm1cs_dc008_b12cc4d7:
 
     # mc "I'm grateful that you shared that part of you with me, Debbie."
-    mc "I'm grateful that you shared that part of you with me, Debbie."
+    mc "Je suis reconnaissant que tu aies partagé cette part de toi avec moi, Debbie."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:396
-translate french sm1cs_dc008_a037dc10:
-
-    # dc "Thanks, [mcname]. I like your outfit too."
-    dc "Thanks, [mcname]. I like your outfit too."
-
+#Translate by BlackViper_

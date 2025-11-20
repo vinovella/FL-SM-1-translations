@@ -338,7 +338,7 @@ translate french sm1fs_i011_it_talk_am_0d82105c:
 translate french sm1ms011_it_continue_abe25c2f:
 
     # sy "And what about your boss' boss. Claire?"
-    sy "Et ta patronne au-dessus du patron ? Claire ?"
+    sy "Et ta patronne au-dessus de ta patronne ? Claire ?"
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:233
 translate french sm1ms011_it_continue_a23917d6:
@@ -356,7 +356,13 @@ translate french sm1ms011_it_continue_20251c36:
 translate french sm1ms011_it_continue_14c261e5:
 
     # mc "Given she's my boss' boss, I figured it would be smart to stay clear of her."
-    mc "Vu que c’est la patronne de mon patron, j’me suis dit que ce serait plus malin de garder mes distances."
+    mc "Vu que c’est la patronne de ma patronne, j’me suis dit que ce serait plus malin de garder mes distances."
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:242
+translate french sm1ms011_it_continue_36be2754:
+
+    # sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
+    sy "Pas question. Grosse erreur, mec. Réfléchis. Elle pourrait être la plus grande perverse en secret de toute l'équipe."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:243
 translate french sm1ms011_it_continue_00b812a7:
@@ -448,6 +454,12 @@ translate french sm1ms011_it_continue_af16fc6f:
     # mc "No worries there, Stacy."
     mc "T’inquiète pas pour ça, Stacy."
 
+# game/code/scenes/main_story/sm1ms011_it.rpy:277
+translate french sm1ms011_it_continue_d4b1ca4d:
+
+    # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
+    sy "Super. Je te connais, [mcname]. Peu importe ce sur quoi tu te concentres, je suis sûre que tu peux assurer."
+
 translate french strings:
 
     # game/code/scenes/main_story/sm1ms011_it.rpy:45
@@ -479,39 +491,4 @@ translate french strings:
     new "Je vais voir ce que je peux faire"
 
 #Translate by BlackViper_
-# game/code/scenes/main_story/sm1ms011_it.rpy:26
-translate french sm1ms011_it_039d17e4:
-
-    # sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
-    sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:113
-translate french sm1fs_i011_it_talk_ns_ac838888:
-
-    # mc "This girl Nari Song is pretty cute."
-    mc "This girl Nari Song is pretty cute."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:212
-translate french sm1fs_i011_it_talk_am_09c55492:
-
-    # mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
-    mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:215
-translate french sm1fs_i011_it_talk_am_36deca91:
-
-    # sy "Hmmmph. That's no excuse to be rude to you or the new girl."
-    sy "Hmmmph. That's no excuse to be rude to you or the new girl."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:242
-translate french sm1ms011_it_continue_36be2754:
-
-    # sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
-    sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
-
-# game/code/scenes/main_story/sm1ms011_it.rpy:277
-translate french sm1ms011_it_continue_d4b1ca4d:
-
-    # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
-    sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
 

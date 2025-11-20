@@ -15,12 +15,10 @@
     # game/code/renpy/screens/character.rpy:52
     old "Fetishes"
     new "Fétiches"
+    
+    # game/code/renpy/screens/character.rpy:59
+    old "Progress "
+    new "Progression "
 
 #Translate by BlackViper_
-
-translate french strings:
-
-    # game/code/renpy/screens/character.rpy:59
-    old "Progress [storyline_progress_percent]%"
-    new "Progress [storyline_progress_percent]%"
 

@@ -296,7 +296,7 @@ translate french sm1ms012_b3e4e9e0:
 translate french sm1ms012_e8addbef:
 
     # sy "Well, it adds a lot of time to post processing. And also kind of a lot of time to production. And the gear costs-"
-    sy "Ben déjà, ça rajoute énormément de boulot en post-prod. Et même pendant le tournage. Sans parler du prix du matos—"
+    sy "Ben déjà, ça rajoute énormément de boulot en post-prod. Et même pendant le tournage. Sans parler du prix du matos..."
 
 # game/code/scenes/main_story/sm1ms012.rpy:133
 translate french sm1ms012_1e734161:
@@ -536,7 +536,7 @@ translate french sm1ms012_722f26c0:
 translate french sm1ms012_686bd857:
 
     # mc "We can put hair and makeup over there-"
-    mc "On pourra mettre le coin coiffure et maquillage là-bas—"
+    mc "On pourra mettre le coin coiffure et maquillage là-bas..."
 
 # game/code/scenes/main_story/sm1ms012.rpy:232
 translate french sm1ms012_6843610e:

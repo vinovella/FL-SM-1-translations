@@ -410,7 +410,7 @@ translate french sm1ms025_9b575e18:
 translate french sm1ms025_083b8096:
 
     # mc "You said time twice."
-    mc "Tu as dit « temps » deux fois."
+    mc "Tu as dit temps deux fois."
 
 # game/code/scenes/main_story/sm1ms025.rpy:179
 translate french sm1ms025_05fd11ef:
@@ -874,11 +874,11 @@ translate french sm1ms025_827ba594:
     # sy "That's the plan, man."
     sy "C’est le plan, mec."
 
-#Translate by BlackViper_
-
 # game/code/scenes/main_story/sm1ms025.rpy:334
 translate french sm1ms025_01a929b4:
 
     # sy "She stole my flash drive."
-    sy "She stole my flash drive."
+    sy "Elle a volé ma clé USB."
+
+#Translate by BlackViper_
 

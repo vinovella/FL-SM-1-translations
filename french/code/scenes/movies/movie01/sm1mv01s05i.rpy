@@ -2,7 +2,7 @@
 translate french sm1mv01s05i_2f292d45:
 
     # mc "Hey Stacy. All set to film the 'Recruitment' scene?"
-    mc "Salut Stacy. Prête à tourner la scène du « recrutement » ?"
+    mc "Salut Stacy. Prête à tourner la scène du 'recrutement'?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05i.rpy:10
 translate french sm1mv01s05i_cf513cd9:

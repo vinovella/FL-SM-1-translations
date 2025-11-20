@@ -1280,7 +1280,7 @@ translate french sm1mv01s05_start_shoot_f55e8567:
 translate french sm1mv01s05_start_shoot_9065c262:
 
     # tl "We'll make way for the treasure at first light, and damn Tempestra or anyone else who dares get in our way."
-    tl "Nous lèverons l’ancre à la première lueur pour trouver le trésor, et maudite soit Tempestra — ou quiconque oserait se mettre en travers de notre route."
+    tl "Nous lèverons l’ancre à la première lueur pour trouver le trésor, et maudite soit Tempestra ... ou quiconque oserait se mettre en travers de notre route."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:855
 translate french sm1mv01s05_start_shoot_7bf49bc3:
@@ -1316,7 +1316,7 @@ translate french sm1mv01s05_start_shoot_ded289a3:
 translate french sm1mv01s05_start_shoot_5048497b:
 
     # mc "Very \"dastardly\" captain."
-    mc "Très « capitaine machiavélique », tu vois."
+    mc "Très \"capitaine machiavélique\", tu vois."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:869
 translate french sm1mv01s05_start_shoot_648f7801:

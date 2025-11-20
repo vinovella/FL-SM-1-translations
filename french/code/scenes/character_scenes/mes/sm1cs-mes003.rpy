@@ -1544,7 +1544,7 @@ translate french sm1cs_mes003_after_menu_a7f8afe4:
 translate french sm1cs_mes003_after_menu_49f0d321:
 
     # mes "I think you're the only person I can-"
-    mes "Je crois que tu es le seul avec qui je peux—"
+    mes "Je crois que tu es le seul avec qui je peux..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:914
 translate french sm1cs_mes003_after_menu_919f1971:

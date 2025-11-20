@@ -896,7 +896,7 @@ translate french sm1ms020_flirting_680f07dd:
 translate french sm1ms020_flirting_d4b36439:
 
     # my "Yeah, yeah-"
-    my "Ouais, ouais—"
+    my "Ouais, ouais..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:464
 translate french sm1ms020_flirting_95f39f28:
@@ -1276,6 +1276,12 @@ translate french sm1ms020_cheers_ebd5fe58:
     # sy "Alright, let's get the check and then get out of here."
     sy "Très bien, récupérons l’addition et sortons d’ici."
 
+# game/code/scenes/main_story/sm1ms020.rpy:175
+translate french sm1ms020_0046f9d0:
+
+    # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+    my "Je gère les relations entre les investisseurs et la galerie, et je repère de nouveaux artistes à mettre en avant..."
+
 translate french strings:
 
     # game/code/scenes/main_story/sm1ms020.rpy:4
@@ -1303,9 +1309,4 @@ translate french strings:
     new "À la fin des travaux manuels !"
 
 #Translate by BlackViper_
-# game/code/scenes/main_story/sm1ms020.rpy:175
-translate french sm1ms020_0046f9d0:
-
-    # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
-    my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
 

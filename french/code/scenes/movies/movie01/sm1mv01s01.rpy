@@ -92,7 +92,7 @@ translate french sm1mv01s01_9e6b6e18:
 translate french sm1mv01s01_e9b5277e:
 
     # sy "Whataboutprops,wardrobe,script,locations,gear-"
-    sy "Et les accessoires, la garde-robe, le script, les lieux, le matos—"
+    sy "Et les accessoires, la garde-robe, le script, les lieux, le matos..."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:67
 translate french sm1mv01s01_9de07441:
@@ -128,13 +128,13 @@ translate french sm1mv01s01_02256a45:
 translate french sm1mv01s01_d629cefb:
 
     # mc "So, props - that's kind of a part of wardrobe?"
-    mc "Alors, les accessoires — c’est un peu lié à la garde-robe, non ?"
+    mc "Alors, les accessoires ... c’est un peu lié à la garde-robe, non ?"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:86
 translate french sm1mv01s01_2f8faa63:
 
     # sy "Not the treasure-"
-    sy "Pas le trésor—"
+    sy "Pas le trésor..."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:89
 translate french sm1mv01s01_e4dc4227:
@@ -242,7 +242,7 @@ translate french sm1mv01s01_61989109:
 translate french sm1mv01s01_f94f9719:
 
     # mc "Which is just a funny way of saying stealing."
-    mc "Ce qui est une façon rigolote de dire « voler »."
+    mc "Ce qui est une façon rigolote de dire voler."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:136
 translate french sm1mv01s01_105eab9c:
@@ -338,7 +338,7 @@ translate french sm1mv01s01_ecc14397:
 translate french sm1mv01s01_607b3b1a:
 
     # mc "I mean-"
-    mc "Je veux dire—"
+    mc "Je veux dire..."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:182
 translate french sm1mv01s01_7228a582:
@@ -350,7 +350,7 @@ translate french sm1mv01s01_7228a582:
 translate french sm1mv01s01_82db637b:
 
     # mc "Now, hang on-"
-    mc "Attends une seconde—"
+    mc "Attends une seconde..."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:189
 translate french sm1mv01s01_908b086d:
@@ -362,7 +362,7 @@ translate french sm1mv01s01_908b086d:
 translate french sm1mv01s01_13c790bc:
 
     # mc "Staaacccyyy-!"
-    mc "Staaacccyyy—!"
+    mc "Staaacccyyy...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:195
 translate french sm1mv01s01_24e0909f:
@@ -374,7 +374,7 @@ translate french sm1mv01s01_24e0909f:
 translate french sm1mv01s01_c5e4c232:
 
     # mc "Shit, Stacy-!"
-    mc "Merde, Stacy—!"
+    mc "Merde, Stacy...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:201
 translate french sm1mv01s01_4975572b:
@@ -470,7 +470,7 @@ translate french sm1mv01s01_5cc8e501:
 translate french sm1mv01s01_f6ae2ff7:
 
     # mc "Awesome, okay-"
-    mc "Génial, d’accord—"
+    mc "Génial, d’accord..."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:251
 translate french sm1mv01s01_3b5f731a:
@@ -578,7 +578,7 @@ translate french sm1mv01s01_531bfbf1:
 translate french sm1mv01s01_1452ccea:
 
     # sy "One thing we'll have to figure out is some CG work. Little bit of VFX to help sell the whole \"at sea\" thing."
-    sy "Il faudra aussi prévoir un peu de CGI. Quelques effets spéciaux pour rendre crédible le côté « en mer »."
+    sy "Il faudra aussi prévoir un peu de CGI. Quelques effets spéciaux pour rendre crédible le côté \"en mer\"."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:321
 translate french sm1mv01s01_722f688f:
@@ -746,7 +746,7 @@ translate french sm1mv01s01_428ff741:
 translate french sm1mv01s01_7b558075:
 
     # mc "We do-"
-    mc "Ouais, on en fait un—"
+    mc "Ouais, on en fait un..."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:421
 translate french sm1mv01s01_ca75cf3f:
@@ -782,7 +782,7 @@ translate french sm1mv01s01_73db3ef0:
 translate french sm1mv01s01_b18a87ca:
 
     # mc "Oh - then, yes! We're making a feature!"
-    mc "Ah — alors ouais ! On fait un long métrage !"
+    mc "Ah ... alors ouais ! On fait un long métrage !"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:439
 translate french sm1mv01s01_0daf0a13:

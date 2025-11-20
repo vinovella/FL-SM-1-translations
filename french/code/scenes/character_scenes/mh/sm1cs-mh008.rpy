@@ -482,7 +482,7 @@ translate french sm1cs_mh008_carnival_4333b57b:
 translate french sm1cs_mh008_carnival_4683f7e8:
 
     # mh "Well... my bio parents - erm, the people who actually gave birth to me, would bring me to the carnival every year."
-    mh "Eh bien... mes parents biologiques — enfin, ceux qui m’ont mis au monde — m’emmenaient au carnaval chaque année."
+    mh "Eh bien... mes parents biologiques ... enfin, ceux qui m’ont mis au monde ... m’emmenaient au carnaval chaque année."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:287
 translate french sm1cs_mh008_carnival_bf61594d:
@@ -656,7 +656,7 @@ translate french sm1cs_mh008_carnival_8dd9efd1:
 translate french sm1cs_mh008_carnival_2c87f249:
 
     # mc "Well, hey - no carnival trip is complete without popcorn!"
-    mc "Bon, hé — aucune sortie au carnaval n’est complète sans pop-corn !"
+    mc "Bon, hé ... aucune sortie au carnaval n’est complète sans pop-corn !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:364
 translate french sm1cs_mh008_carnival_6ecd7401:
@@ -776,7 +776,7 @@ translate french sm1cs_mh008_date_9ab85d26:
 translate french sm1cs_mh008_date_6007f5df:
 
     # mh "Yeah. it's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Ouais. C’est une histoire bizarre, mais en gros — M. Roosevelt a refusé de tirer sur un ours attaché, et quelqu’un en a fait une caricature politique."
+    mh "Ouais. C’est une histoire bizarre, mais en gros ... M. Roosevelt a refusé de tirer sur un ours attaché, et quelqu’un en a fait une caricature politique."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:433
 translate french sm1cs_mh008_date_5e0303df:
@@ -1712,7 +1712,7 @@ translate french sm1cs_mh008_throuple_carousel_1b3407be:
 translate french sm1cs_mh008_throuple_carousel_233ba459:
 
     # mc "No! I'm seriously afraid of it-"
-    mc "Non ! J’en ai vraiment peur—"
+    mc "Non ! J’en ai vraiment peur..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:996
 translate french sm1cs_mh008_throuple_carousel_05d4025a:
@@ -1856,7 +1856,7 @@ translate french sm1cs_mh008_throuple_carousel_fbd9cf05:
 translate french sm1cs_mh008_throuple_carousel_b3062656:
 
     # sy "Oh, I can totally introduce you! Taisia is a little freak, and-"
-    sy "Oh, je peux carrément te présenter ! Taisia est un peu perchée et—"
+    sy "Oh, je peux carrément te présenter ! Taisia est un peu perchée et..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1060
 translate french sm1cs_mh008_throuple_carousel_c5cfdf97:
@@ -2042,7 +2042,7 @@ translate french sm1cs_mh008_throuple_carousel_f3581888:
 translate french sm1cs_mh008_throuple_carousel_6c09de90:
 
     # sy "Wait-"
-    sy "Attends—"
+    sy "Attends..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1159
 translate french sm1cs_mh008_throuple_carousel_1b4becb5:
@@ -2066,7 +2066,7 @@ translate french sm1cs_mh008_throuple_carousel_9005f6c0:
 translate french sm1cs_mh008_throuple_carousel_d7afdc3b:
 
     # mc "I-"
-    mc "Je—"
+    mc "Je..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1174
 translate french sm1cs_mh008_throuple_carousel_c7cf2826:
@@ -2326,6 +2326,12 @@ translate french sm1cs_mh008_throuple_carousel_end_260b1487:
     # mct "I honestly couldn't have planned a better date than this."
     mct "Franchement, j’aurais pas pu rêver d’un meilleur rendez-vous que celui-là."
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:737
+translate french sm1cs_mh008_couple_carousel_end_6779bff8:
+
+    # mc "I couldn't think of anyone I'd rather be looking out over the city than with you, Lyssa."
+    mc "Je ne pourrais imaginer personne avec qui j'aimerais regarder la ville plus qu'avec toi, Lyssa."
+
 translate french strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:188
@@ -2337,15 +2343,3 @@ translate french strings:
     new "Ne pas insister"
 
 #Translate by BlackViper_
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:737
-translate french sm1cs_mh008_couple_carousel_end_6779bff8:
-
-    # mc "I couldn't think of anyone I'd rather be looking out over the city than with you, Lyssa."
-    mc "I couldn't think of anyone I'd rather be looking out over the city than with you, Lyssa."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:46
-translate french sm1cs_mh008_f927037e:
-
-    # mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
-    mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
-

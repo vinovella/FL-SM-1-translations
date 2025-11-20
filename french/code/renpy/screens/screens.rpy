@@ -1,5 +1,17 @@
 ﻿translate french strings:
 
+    # game/code/renpy/screens/screens.rpy:19
+    old "Start from release 2"
+    new "Commencer à partir de la version 2"
+
+    # game/code/renpy/screens/screens.rpy:22
+    old "Start"
+    new "Démarrer"
+
+    # game/code/renpy/screens/screens.rpy:31
+    old "Preferences"
+    new "Préférences"
+
     # game/code/renpy/screens/screens.rpy:34
     old "End Replay"
     new "Arrêter la relecture"
@@ -68,6 +80,10 @@
     old "»"
     new "»"
 
+    # game/code/renpy/screens/screens.rpy:478
+    old "Display"
+    new "Affichage"
+
     # game/code/renpy/screens/screens.rpy:479
     old "Fullscreen"
     new "Plein écran"
@@ -83,6 +99,54 @@
     # game/code/renpy/screens/screens.rpy:490
     old "Transitions"
     new "Transitions"
+
+    # game/code/renpy/screens/screens.rpy:495
+    old "Minigames"
+    new "Mini-jeux"
+
+    # game/code/renpy/screens/screens.rpy:503
+    old "Analytics"
+    new "Statistiques"
+
+    # game/code/renpy/screens/screens.rpy:514
+    old "Text Speed"
+    new "Vitesse du texte"
+
+    # game/code/renpy/screens/screens.rpy:518
+    old "Auto-Forward Time"
+    new "Avance auto"
+
+    # game/code/renpy/screens/screens.rpy:522
+    old "Dialogue Box Opacity"
+    new "Opacité de la boîte de dialogue"
+
+    # game/code/renpy/screens/screens.rpy:528
+    old "Music Volume"
+    new "Volume de la musique"
+
+    # game/code/renpy/screens/screens.rpy:535
+    old "Sound Volume"
+    new "Volume sonore"
+
+    # game/code/renpy/screens/screens.rpy:541
+    old "Test"
+    new "Test"
+
+    # game/code/renpy/screens/screens.rpy:552
+    old "Sex Voice Volume"
+    new "Volume des voix sexuelles"
+
+    # game/code/renpy/screens/screens.rpy:563
+    old "Mute All"
+    new "Tout couper"
+
+    # game/code/renpy/screens/screens.rpy:654
+    old "Version [config.version!t]\n"
+    new "Version [config.version!t]\n"
+
+    # game/code/renpy/screens/screens.rpy:659
+    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "Fait avec {a=https://www.renpy.org/}Ren’Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/code/renpy/screens/screens.rpy:704
     old "The dialogue history is empty."
@@ -230,259 +294,246 @@
 
     # game/code/renpy/screens/screens.rpy:12
     old "New Game"
-    new "New Game"
-
+    new "Nouvelle Partie"
+    
     # game/code/renpy/screens/screens.rpy:46
     old "Join Patreon"
-    new "Join Patreon"
-
+    new "Rejoindre le Patreon"
+    
     # game/code/renpy/screens/screens.rpy:51
     old "Join Discord"
-    new "Join Discord"
-
+    new "Rejoindre le Discord"
+    
     # game/code/renpy/screens/screens.rpy:122
     old "Language"
-    new "Language"
-
+    new "Langue"
+    
     # game/code/renpy/screens/screens.rpy:149
     old "Music Player"
-    new "Music Player"
-
+    new "Lecteur de Musique"
+    
     # game/code/renpy/screens/screens.rpy:353
     old "Saves For Chapter 2"
-    new "Saves For Chapter 2"
-
+    new "Sauvegardes du Chapitre 2"
+    
     # game/code/renpy/screens/screens.rpy:506
     old "Audio"
     new "Audio"
-
+    
     # game/code/renpy/screens/screens.rpy:510
     old "Dialogue"
     new "Dialogue"
-
+    
     # game/code/renpy/screens/screens.rpy:514
     old "Gameplay"
     new "Gameplay"
-
+    
     # game/code/renpy/screens/screens.rpy:538
     old "Master Volume :"
-    new "Master Volume :"
-
+    new "Volume Général :"
+    
     # game/code/renpy/screens/screens.rpy:552
     old "Mute All Channels :"
-    new "Mute All Channels :"
-
+    new "Couper tous les sons :"
+    
     # game/code/renpy/screens/screens.rpy:554
     old "Unmuted"
-    new "Unmuted"
-
+    new "Activé"
+    
     # game/code/renpy/screens/screens.rpy:555
     old "Muted"
-    new "Muted"
-
+    new "Coupé"
+    
     # game/code/renpy/screens/screens.rpy:562
     old "Full Voiceover :"
-    new "Full Voiceover :"
-
+    new "Voix Complètes :"
+    
     # game/code/renpy/screens/screens.rpy:572
     old "Music Volume :"
-    new "Music Volume :"
-
+    new "Volume Musique :"
+    
     # game/code/renpy/screens/screens.rpy:581
     old "Sound Volume :"
-    new "Sound Volume :"
-
+    new "Volume Effets Sonores :"
+    
     # game/code/renpy/screens/screens.rpy:592
     old "Voice Volume :"
-    new "Voice Volume :"
-
+    new "Volume Voix :"
+    
     # game/code/renpy/screens/screens.rpy:601
     old "Sex Voice Volume :"
-    new "Sex Voice Volume :"
-
+    new "Volume Voix Scènes Hot :"
+    
     # game/code/renpy/screens/screens.rpy:623
     old "Text Speed :"
-    new "Text Speed :"
-
+    new "Vitesse du Texte :"
+    
     # game/code/renpy/screens/screens.rpy:634
     old "Auto-Forward Time :"
-    new "Auto-Forward Time :"
-
+    new "Délai d’Avancement Auto :"
+    
     # game/code/renpy/screens/screens.rpy:645
     old "Dialogue Box Opacity :"
-    new "Dialogue Box Opacity :"
-
+    new "Opacité de la Boîte de Dialogue :"
+    
     # game/code/renpy/screens/screens.rpy:656
     old "Skip :"
-    new "Skip :"
-
+    new "Saut :"
+    
     # game/code/renpy/screens/screens.rpy:665
     old "Fast Skip Confirm :"
-    new "Fast Skip Confirm :"
-
+    new "Confirmation Saut Rapide :"
+    
     # game/code/renpy/screens/screens.rpy:673
     old "Rollback Side :"
-    new "Rollback Side :"
-
+    new "Côté du Retour Arrière :"
+    
     # game/code/renpy/screens/screens.rpy:676
     old "Left"
-    new "Left"
-
+    new "Gauche"
+    
     # game/code/renpy/screens/screens.rpy:689
     old "Window Size :"
-    new "Window Size :"
-
+    new "Taille de Fenêtre :"
+    
     # game/code/renpy/screens/screens.rpy:702
     old "Weekly Statement :"
-    new "Weekly Statement :"
-
+    new "Rapport Hebdomadaire :"
+    
     # game/code/renpy/screens/screens.rpy:710
     old "Navigation Highlights :"
-    new "Navigation Highlights :"
-
+    new "Surbrillance de Navigation :"
+    
     # game/code/renpy/screens/screens.rpy:721
     old "Taboo Mode :"
-    new "Taboo Mode :"
-
+    new "Mode Tabou :"
+    
     # game/code/renpy/screens/screens.rpy:729
     old "Minigames :"
-    new "Minigames :"
-
+    new "Mini-jeux :"
+    
     # game/code/renpy/screens/screens.rpy:748
     old "Quick Menu :"
-    new "Quick Menu :"
-
+    new "Menu Rapide :"
+    
     # game/code/renpy/screens/screens.rpy:751
     old "On Hover"
-    new "On Hover"
-
+    new "Au Survol"
+    
     # game/code/renpy/screens/screens.rpy:760
     old "Analytics :"
-    new "Analytics :"
-
+    new "Statistiques :"
+    
     # game/code/renpy/screens/screens.rpy:769
     old "Quick Menu Buttons :"
-    new "Quick Menu Buttons :"
-
+    new "Boutons du Menu Rapide :"
+    
     # game/code/renpy/screens/screens.rpy:920
     old "S&M Studio{#about_button}"
     new "S&M Studio{#about_button}"
-
+    
     # game/code/renpy/screens/screens.rpy:924
     old "Dev Team"
-    new "Dev Team"
-
+    new "Équipe de Développement"
+    
     # game/code/renpy/screens/screens.rpy:932
     old "Translation"
-    new "Translation"
-
+    new "Traduction"
+    
     # game/code/renpy/screens/screens.rpy:936
     old "Others"
-    new "Others"
-
+    new "Autres"
+    
     # game/code/renpy/screens/screens.rpy:947
     old "VERSION : [config.version!t]"
     new "VERSION : [config.version!t]"
-
+    
     # game/code/renpy/screens/screens.rpy:949
     old "DEVELOPED BY :"
-    new "DEVELOPED BY :"
-
+    new "DÉVELOPPÉ PAR :"
+    
     # game/code/renpy/screens/screens.rpy:964
     old "STORY WRITING"
-    new "STORY WRITING"
-
+    new "SCÉNARIO"
+    
     # game/code/renpy/screens/screens.rpy:973
     old "ART & ANIMATION"
     new "ART & ANIMATION"
-
+    
     # game/code/renpy/screens/screens.rpy:982
     old "PROGRAMMING"
-    new "PROGRAMMING"
-
+    new "PROGRAMMATION"
+    
     # game/code/renpy/screens/screens.rpy:991
     old "SOUND DESIGN"
-    new "SOUND DESIGN"
-
+    new "DESIGN SONORE"
+    
     # game/code/renpy/screens/screens.rpy:1002
     old "MUSIC CREDITS"
-    new "MUSIC CREDITS"
-
+    new "CRÉDITS MUSIQUE"
+    
     # game/code/renpy/screens/screens.rpy:1005
     old "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
-    new "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
-
+    new "Ce travail est sous licence {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International{/a}."
+    
     # game/code/renpy/screens/screens.rpy:1008
     old "This work is licensed under the {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
-    new "This work is licensed under the {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
-
+    new "Ce travail est sous licence {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported{/a}."
+    
     # game/code/renpy/screens/screens.rpy:1011
     old "This work is licensed under the {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
-    new "This work is licensed under the {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
-
+    new "Ce travail est sous licence {a=http://creativecommons.org/licenses/by/3.0/}Attribution{/a}."
+    
     # game/code/renpy/screens/screens.rpy:1016
     old "Licensed under Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
-    new "Licensed under Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
-
+    new "Sous licence simplifiée {a=https://filmmusic.io/standard-license}Filmmusic.io Standard{/a}"
+    
     # game/code/renpy/screens/screens.rpy:1019
     old "Licensed under a {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
-    new "Licensed under a {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
-
+    new "Sous licence {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International{/a}."
+    
     # game/code/renpy/screens/screens.rpy:1020
     old "Changes: quacking sounds added"
-    new "Changes: quacking sounds added"
-
+    new "Modifications : sons de canard ajoutés"
+    
     # game/code/renpy/screens/screens.rpy:1024
     old "VOICEOVER CREDITS"
-    new "VOICEOVER CREDITS"
-
+    new "CRÉDITS DES DOUBLAGES"
+    
     # game/code/renpy/screens/screens.rpy:1038
     old "PORTUGUESE TRANSLATION"
-    new "PORTUGUESE TRANSLATION"
-
+    new "TRADUCTION PORTUGAISE"
+    
     # game/code/renpy/screens/screens.rpy:1043
     old "SPANISH TRANSLATION"
-    new "SPANISH TRANSLATION"
-
+    new "TRADUCTION ESPAGNOLE"
+    
     # game/code/renpy/screens/screens.rpy:1048
     old "DEUTSCH TRANSLATION"
-    new "DEUTSCH TRANSLATION"
-
+    new "TRADUCTION ALLEMANDE"
+    
     # game/code/renpy/screens/screens.rpy:1059
     old "GAME ENGINE"
-    new "GAME ENGINE"
-
+    new "MOTEUR DE JEU"
+    
     # game/code/renpy/screens/screens.rpy:1060
     old "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
-    new "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
-
+    new "Créé avec : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
+    
     # game/code/renpy/screens/screens.rpy:1064
     old "PROOFREADING CREDITS"
-    new "PROOFREADING CREDITS"
-
+    new "RELECTURE"
+    
     # game/code/renpy/screens/screens.rpy:1065
     old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
-    new "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
-
+    new "Remerciements spéciaux à notre relecteur : .grubb (Discord : grubbjunker)"
+    
     # game/code/renpy/screens/screens.rpy:1069
     old "ICON CREDITS"
-    new "ICON CREDITS"
-
+    new "CRÉDITS DES ICÔNES"
+    
     # game/code/renpy/screens/screens.rpy:1070
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
-    new "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
+    new "Les icônes du menu proviennent de {a=https://feathericons.com/}Feather{/a}, une superbe collection créée par @colebemis et sous licence {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT{/a}."
 
-translate french strings:
-
-    # game/code/renpy/screens/screens.rpy:444
-    old "Saves For Season 2"
-    new "Saves For Season 2"
-
-    # game/code/renpy/screens/screens.rpy:1107
-    old "MUSIC LISENCES & SOURCES"
-    new "MUSIC LISENCES & SOURCES"
-
-    # game/code/renpy/screens/screens.rpy:1140
-    old "FRENCH TRANSLATION"
-    new "FRENCH TRANSLATION"
-
+#Translate by BlackViper_

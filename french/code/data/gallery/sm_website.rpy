@@ -52,13 +52,9 @@
     old "Searose"
     new "Searose" 
 
-#Translate by BlackViper_
-
-translate french strings:
-
     # game/code/data/gallery/sm_website.rpy:1
     old "Captain Ramses Hornstar"
-    new "Captain Ramses Hornstar"
+    new "Capitaine Ramses Hornstar"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Lt. Luffie Orion"
@@ -70,7 +66,7 @@ translate french strings:
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Doctor Jalerra"
-    new "Doctor Jalerra"
+    new "Docteure Jalerra"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Spectre"
@@ -78,5 +74,6 @@ translate french strings:
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Captain Kimora"
-    new "Captain Kimora"
+    new "Capitaine Kimora"
 
+#Translate by BlackViper_
