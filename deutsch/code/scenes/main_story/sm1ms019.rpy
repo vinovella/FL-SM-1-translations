@@ -170,7 +170,7 @@ translate deutsch sm1ms019_bef79272:
 translate deutsch sm1ms019_6bfc74d9:
 
     # sy "What?"
-    sy ""
+    sy "Was?"
 
 # game/code/scenes/main_story/sm1ms019.rpy:143
 translate deutsch sm1ms019_3a67ccd1:
