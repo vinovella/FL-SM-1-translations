@@ -22,29 +22,29 @@ translate deutsch strings:
 
     # game/code/renpy/screens/save.rpy:20
     old "Congratulations! You completed all storylines!"
-    new "Congratulations! You completed all storylines!"
+    new "Herzlichen Glückwunsch! Du hast alle Handlungsstränge abgeschlossen!"
 
     # game/code/renpy/screens/save.rpy:22
     old "Here is your progress so far!"
-    new "Here is your progress so far!"
+    new "Hier ist Ihr bisheriger Fortschritt!"
 
     # game/code/renpy/screens/save.rpy:24
     old "Congratulations! You completed the Main story!"
-    new "Congratulations! You completed the Main story!"
+    new "Herzlichen Glückwunsch! Du hast die Hauptgeschichte abgeschlossen!"
 
     # game/code/renpy/screens/save.rpy:122
     old "Save your progress for S&M Studio Season 2!"
-    new "Save your progress for S&M Studio Season 2!"
+    new "Speicher deinen Fortschritt für S&M Studio Season 2!"
 
     # game/code/renpy/screens/save.rpy:131
     old "Skip"
-    new "Skip"
+    new "Überspringen"
 
     # game/code/renpy/screens/save.rpy:184
     old "Saves For Season [season]"
-    new "Saves For Season [season]"
+    new "Speicherstände für Season [season]"
 
     # game/code/renpy/screens/save.rpy:184
     old "Saves From Season [season]"
-    new "Saves From Season [season]"
+    new "Speicherstände von Season [season]"
 
