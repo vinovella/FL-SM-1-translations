@@ -1,12 +1,10 @@
+chinese/code/data/quick_interactions/Neutral/q-inter-dc.rpy [1 words]
 
-chinese/code/data/quick_interactions/Neutral/q-inter-my.rpy [2 words]
+191: mc "Yeah?"
 
-407: my "{size=*0.7}Oh, [mcname]...{/size}"
-
-chinese/code/data/quick_interactions/Theater/q-inter-tl.rpy [2 words]
+chinese/code/data/quick_interactions/Theater/q-inter-tl.rpy [1 words]
 
 581: tl "Ooouh."
-647: mc "No."
 
 chinese/code/scenes/character_scenes/arj/sm1cs-arj002.rpy [9 words]
 
@@ -39,30 +37,17 @@ chinese/code/scenes/character_scenes/dc/sm1cs-dc009i.rpy [1 words]
 
 29: dc "Hahahaha!"
 
-chinese/code/scenes/character_scenes/dc/sm1cs-dc010.rpy [8 words]
+chinese/code/scenes/character_scenes/dc/sm1cs-dc010.rpy [6 words]
 
-1415: mc "Debbie?"
 2237: sy "Hehehehe."
 2331: doc "Hahahahaha!"
 2367: doc "Hahahahaha!"
-2385: doc "Shit!"
 2439: dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
 
-chinese/code/scenes/character_scenes/mas/sm1cs-mas004i.rpy [3 words]
+chinese/code/scenes/character_scenes/my/sm1cs-my006.rpy [2 words]
 
-5: ms "Hey."
-11: mc "Hey, Maya."
-
-chinese/code/scenes/character_scenes/my/sm1cs-my006.rpy [4 words]
-
-1637: mc "Yeah?"
 1973: "*GULP*"
 2015: "*GULP*"
-2063: mc "Yeah?"
-
-chinese/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy [4 words]
-
-677: "[mcname] and Taisia" "Hahaha."
 
 chinese/code/scenes/it_office/am/sm1cs-am008.rpy [1 words]
 
@@ -76,6 +61,24 @@ chinese/code/scenes/main_story/sm1ms028.rpy [3 words]
 chinese/code/scenes/main_story/sm1ms029_1.rpy [1 words]
 
 1577: ns "Mmmmm!"
+
+chinese/code/scenes/main_story/sm1ms029_2.rpy [15 words]
+
+35: sy "Nggghhhhh-!"
+143: sy "Mmmmm..."
+467: sy "Mmmmmm!"
+527: sy "Nnnnggghhhhh!"
+623: sy "Mmmmmm!"
+635: sy "Ooooo!"
+665: sy "Ooooo!"
+683: tl "Mmmmmm..."
+695: sy "Mmmmmm!"
+791: sy "Gggllllllgggg!"
+809: sy "Gllccckkrggrggrgg!"
+827: sy "Glllrrggggcccckkk!"
+833: arj "Mmmmmm..."
+863: sy "Mmmppphhh!"
+875: sy "Mmmm-mmmphhh!"
 
 chinese/code/scenes/main_story/sm1ms029_3.rpy [19 words]
 
