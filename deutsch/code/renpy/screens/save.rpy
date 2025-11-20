@@ -29,8 +29,8 @@ translate deutsch strings:
     new "Hier ist Ihr bisheriger Fortschritt!"
 
     # game/code/renpy/screens/save.rpy:24
-    old "Congratulations! You completed the Main story!"
-    new "Herzlichen Glückwunsch! Du hast die Hauptgeschichte abgeschlossen!"
+    old "Congratulations! You completed the main story!"
+    new "Herzlichen Glückwunsch! Du hast die hauptgeschichte abgeschlossen!"
 
     # game/code/renpy/screens/save.rpy:122
     old "Save your progress for S&M Studio Season 2!"

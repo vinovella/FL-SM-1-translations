@@ -29,8 +29,8 @@ translate spanish strings:
     new "Here is your progress so far!"
 
     # game/code/renpy/screens/save.rpy:24
-    old "Congratulations! You completed the Main story!"
-    new "Congratulations! You completed the Main story!"
+    old "Congratulations! You completed the main story!"
+    new "Congratulations! You completed the main story!"
 
     # game/code/renpy/screens/save.rpy:122
     old "Save your progress for S&M Studio Season 2!"

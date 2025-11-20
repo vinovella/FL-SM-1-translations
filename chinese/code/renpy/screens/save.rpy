@@ -29,7 +29,7 @@
     new "恭喜！您完成了所有故事线！"
 
     # game/code/renpy/screens/save.rpy:18
-    old "Congratulations! You completed the Main story!"
+    old "Congratulations! You completed the main story!"
     new "恭喜！您完成了主线故事！"
 
     # game/code/renpy/screens/save.rpy:116
