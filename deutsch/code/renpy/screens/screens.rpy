@@ -382,7 +382,7 @@
 
     # game/code/renpy/screens/screens.rpy:949
     old "DEVELOPED BY :"
-    new "DEVELOPED BY :"
+    new "ENTWICKELT VON :"
 
     # game/code/renpy/screens/screens.rpy:964
     old "STORY WRITING"
@@ -394,7 +394,7 @@
 
     # game/code/renpy/screens/screens.rpy:982
     old "PROGRAMMING"
-    new "PROGRAMMING"
+    new "PROGRAMMIERUNG"
 
     # game/code/renpy/screens/screens.rpy:991
     old "SOUND DESIGN"
@@ -402,7 +402,7 @@
 
     # game/code/renpy/screens/screens.rpy:1002
     old "MUSIC CREDITS"
-    new "MUSIC CREDITS"
+    new "MUSIK CREDITS"
 
     # game/code/renpy/screens/screens.rpy:1005
     old "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
@@ -468,13 +468,13 @@ translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:444
     old "Saves For Season 2"
-    new "Saves For Season 2"
+    new "Speicherstände für Season 2"
 
     # game/code/renpy/screens/screens.rpy:1107
     old "MUSIC LISENCES & SOURCES"
-    new "MUSIC LISENCES & SOURCES"
+    new "MUSIKLIZENZEN & QUELLEN"
 
     # game/code/renpy/screens/screens.rpy:1140
     old "FRENCH TRANSLATION"
-    new "FRENCH TRANSLATION"
+    new "FRANZÖSISCHE ÜBERSETZUNG"
 
