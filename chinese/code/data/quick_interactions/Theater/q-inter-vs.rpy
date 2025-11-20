@@ -266,41 +266,41 @@ translate chinese q_inter_vs_11_cd1b3d42:
 translate chinese q_inter_vs_12_fbd78eaa:
 
     # vs "Yay, [mcname]! You're finally one of the real actors."
-    vs "Yay, [mcname]! You're finally one of the real actors."
+    vs "耶，[mcname]！你终于成为真正的演员之一了。"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:158
 translate chinese q_inter_vs_12_40ecebb6:
 
     # vs "You don't have to feel ashamed of being a stagehand any longer."
-    vs "You don't have to feel ashamed of being a stagehand any longer."
+    vs "你不必再为当舞台工作人员感到羞愧了。"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:159
 translate chinese q_inter_vs_12_6d495a60:
 
     # mc "I was never ashamed of that."
-    mc "I was never ashamed of that."
+    mc "我从来没有为此感到羞愧。"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:162
 translate chinese q_inter_vs_12_8576433e:
 
     # vs "Oh?"
-    vs "Oh?"
+    vs "哦？"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:163
 translate chinese q_inter_vs_12_a24c393b:
 
     # vs "Why not?"
-    vs "Why not?"
+    vs "为什么不呢？"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:170
 translate chinese q_inter_vs_13_7c4f4e75:
 
     # vs "The most important thing about being a true actor is to not panic."
-    vs "The most important thing about being a true actor is to not panic."
+    vs "作为一名真正的演员，最重要的是不要恐慌。"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:171
 translate chinese q_inter_vs_13_db875d9f:
 
     # vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
-    vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
+    vs "哦，还有你需要记住你的台词。丹尼斯说这也很重要。"
 
