@@ -986,251 +986,251 @@ translate chinese q_inter_ns_37_0bc7a040:
 translate chinese q_inter_ns_38_17166f24:
 
     # ns "That was so fun, hooking up with you and Stacy."
-    ns "That was so fun, hooking up with you and Stacy."
+    ns "和你和史黛西一起太有趣了。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:560
 translate chinese q_inter_ns_38_d6a36a7a:
 
     # mc "First time?"
-    mc "First time?"
+    mc "第一次？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:561
 translate chinese q_inter_ns_38_bf64d622:
 
     # ns "Yes."
-    ns "Yes."
+    ns "是的。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:564
 translate chinese q_inter_ns_38_a018b071:
 
     # ns "Wait? Was I that bad?"
-    ns "Wait? Was I that bad?"
+    ns "等等？我有那么糟糕吗？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:567
 translate chinese q_inter_ns_38_d1330e66:
 
     # mc "Not at all Nari."
-    mc "Not at all Nari."
+    mc "一点也不，娜丽。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:573
 translate chinese q_inter_ns_39_217556ef:
 
     # ns "I wonder if Stacy will want to fuck me and you at the same time again."
-    ns "I wonder if Stacy will want to fuck me and you at the same time again."
+    ns "我想知道史黛西是否还想再次同时和我和你做爱。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:574
 translate chinese q_inter_ns_39_3bffd0c2:
 
     # mc "Oh I think you can safely assume that will happen again."
-    mc "Oh I think you can safely assume that will happen again."
+    mc "哦，我想你可以放心地假设这会再次发生。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:575
 translate chinese q_inter_ns_39_93037fdf:
 
     # mc "Stacy likes sex in all its forms."
-    mc "Stacy likes sex in all its forms."
+    mc "史黛西喜欢各种形式的性爱。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:578
 translate chinese q_inter_ns_39_a6593017:
 
     # ns "Ooooh. Sounds like we'll get along nicely."
-    ns "Ooooh. Sounds like we'll get along nicely."
+    ns "哦哦哦。听起来我们会相处得很好。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:585
 translate chinese q_inter_ns_40_25048c2a:
 
     # ns "I can't believe I'm going to make porn with you."
-    ns "I can't believe I'm going to make porn with you."
+    ns "我不敢相信我要和你一起拍色情片。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:590
 translate chinese q_inter_ns_41_0ffd1d15:
 
     # ns "I have to figure out some kind of pornstar name."
-    ns "I have to figure out some kind of pornstar name."
+    ns "我得想个色情明星的名字。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:591
 translate chinese q_inter_ns_41_52a24206:
 
     # ns "Nari Stardust. Nari Always-Wet."
-    ns "Nari Stardust. Nari Always-Wet."
+    ns "娜丽·星尘。娜丽·永湿。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:592
 translate chinese q_inter_ns_41_8dd527a3:
 
     # mc "I don't think pornstar names usually use their first name."
-    mc "I don't think pornstar names usually use their first name."
+    mc "我不认为色情明星的名字通常会使用他们的真名。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:595
 translate chinese q_inter_ns_41_61edbb0d:
 
     # ns "This is going to be harder than I thought."
-    ns "This is going to be harder than I thought."
+    ns "这比我想的要难。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:600
 translate chinese q_inter_ns_42_0443c849:
 
     # ns "Hello roomie."
-    ns "Hello roomie."
+    ns "你好，室友。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:605
 translate chinese q_inter_ns_43_9c9704f2:
 
     # ns "I really love my room, [mcname]."
-    ns "I really love my room, [mcname]."
+    ns "我真的很喜欢我的房间，[mcname]。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:610
 translate chinese q_inter_ns_44_869134b1:
 
     # ns "The bathroom at home is so big."
-    ns "The bathroom at home is so big."
+    ns "家里的浴室太大了。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:615
 translate chinese q_inter_ns_45_eef0c656:
 
     # ns "Mmmuah..."
-    ns "Mmmuah..."
+    ns "嗯嘛..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:616
 translate chinese q_inter_ns_45_9fbc0f46:
 
     # mc "Nari?"
-    mc "Nari?"
+    mc "娜丽？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:617
 translate chinese q_inter_ns_45_8963cfad:
 
     # ns "Hehe. Just thinking about the next time we have some down-time."
-    ns "Hehe. Just thinking about the next time we have some down-time."
+    ns "呵呵。只是在想我们下次有空闲时间的时候。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:623
 translate chinese q_inter_ns_46_fbccf30c:
 
     # ns "This place is amazing. I found the garage yesterday."
-    ns "This place is amazing. I found the garage yesterday."
+    ns "这个地方太棒了。我昨天发现了车库。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:624
 translate chinese q_inter_ns_46_88799376:
 
     # ns "Maybe one day I'll have a car to put in there."
-    ns "Maybe one day I'll have a car to put in there."
+    ns "也许有一天我会有一辆车放在那里。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:625
 translate chinese q_inter_ns_46_2034c056:
 
     # mc "Maybe."
-    mc "Maybe."
+    mc "也许吧。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:631
 translate chinese q_inter_ns_47_073558da:
 
     # ns "Mmmm. What is that look, [mcname]."
-    ns "Mmmm. What is that look, [mcname]."
+    ns "嗯嗯。那是什么眼神，[mcname]。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:632
 translate chinese q_inter_ns_47_6f09aad8:
 
     # ns "Are you thinking of doing something naughty with me?"
-    ns "Are you thinking of doing something naughty with me?"
+    ns "你在想和我做些顽皮的事吗？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:638
 translate chinese q_inter_ns_48_c7779512:
 
     # ns "Hey, [mcname]."
-    ns "Hey, [mcname]."
+    ns "嘿，[mcname]。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:639
 translate chinese q_inter_ns_48_1fc48270:
 
     # ns "Did you hear that Bitcoin is up again?"
-    ns "Did you hear that Bitcoin is up again?"
+    ns "你听说比特币又涨了吗？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:640
 translate chinese q_inter_ns_48_8104a080:
 
     # ns "I need to save some money next paycheck to buy some."
-    ns "I need to save some money next paycheck to buy some."
+    ns "我需要在下次发工资时存点钱买一些。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:646
 translate chinese q_inter_ns_49_3ff77964:
 
     # ns "Hi, [mcname]."
-    ns "Hi, [mcname]."
+    ns "嗨，[mcname]。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:647
 translate chinese q_inter_ns_49_6154ad10:
 
     # mc "What's wrong, Nari?"
-    mc "What's wrong, Nari?"
+    mc "怎么了，娜丽？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:650
 translate chinese q_inter_ns_49_807319e0:
 
     # ns "Bitcoin went down again yesterday."
-    ns "Bitcoin went down again yesterday."
+    ns "比特币昨天又跌了。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:651
 translate chinese q_inter_ns_49_9dec280d:
 
     # ns "Right after I bought some."
-    ns "Right after I bought some."
+    ns "就在我买了一些之后。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:652
 translate chinese q_inter_ns_49_f196c3da:
 
     # mc "Win some, lose some."
-    mc "Win some, lose some."
+    mc "有赢有输。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:655
 translate chinese q_inter_ns_49_b93e4541:
 
     # ns "Yes..."
-    ns "Yes..."
+    ns "是啊..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:660
 translate chinese q_inter_ns_50_2c274d13:
 
     # mc "Oh hey Nari! Going for a walk?"
-    mc "Oh hey Nari! Going for a walk?"
+    mc "哦，嘿，娜丽！去散步吗？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:661
 translate chinese q_inter_ns_50_f6afdaa7:
 
     # ns "Mmhmmm! I just think Crowning is so beautiful."
-    ns "Mmhmmm! I just think Crowning is so beautiful."
+    ns "嗯哼！我只是觉得Crowning太美了。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:662
 translate chinese q_inter_ns_50_fd8f367f:
 
     # mc "I do too!"
-    mc "I do too!"
+    mc "我也是！"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:667
 translate chinese q_inter_ns_51_8522c77b:
 
     # ns "[mcname]!"
-    ns "[mcname]!"
+    ns "[mcname]！"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:668
 translate chinese q_inter_ns_51_03d1e965:
 
     # mc "Yes, Nari?"
-    mc "Yes, Nari?"
+    mc "什么事，娜丽？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:671
 translate chinese q_inter_ns_51_7683dcea:
 
     # ns "One day we should come out here and fool around in the bushes!"
-    ns "One day we should come out here and fool around in the bushes!"
+    ns "有一天我们应该来这里在灌木丛里胡闹！"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:672
 translate chinese q_inter_ns_51_b365e603:
 
     # mc "That sounds like a plan!"
-    mc "That sounds like a plan!"
+    mc "听起来是个好计划！"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:673
 translate chinese q_inter_ns_51_640f754e:
 
     # mct "I always forget Nari is a little freaky."
-    mct "I always forget Nari is a little freaky."
+    mct "我总是忘记娜丽有点古怪。"
 
