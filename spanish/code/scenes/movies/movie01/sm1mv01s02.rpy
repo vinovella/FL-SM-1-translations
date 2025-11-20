@@ -1790,7 +1790,7 @@ translate spanish sm1mv01s02_later_12e7afd4:
 translate spanish sm1mv01s02_later_6d2d8309_1:
 
     # kv "Haha."
-    kv "Ja ja."
+    kv "Jaja."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:916
 translate spanish sm1mv01s02_later_e54de122:
