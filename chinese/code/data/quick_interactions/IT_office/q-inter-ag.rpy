@@ -1,306 +1,306 @@
 ﻿# game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:29
 translate chinese q_inter_ag_1_3d682e9c:
 
-    # ag "嘿，[mcname]。希望你今天过得愉快。"
-    ag "嘿，[mcname]。希望你今天过得愉快。"
+    # ag "Hey [mcname]. I hope you're having a good day."
+    ag "Hey [mcname]. I hope you're having a good day."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:35
 translate chinese q_inter_ag_2_361851ea:
 
-    # ag "看起来你今天心不在焉的。"
-    ag "看起来你今天心不在焉的。"
+    # ag "Looks like you've got your head in the clouds today."
+    ag "Looks like you've got your head in the clouds today."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:37
 translate chinese q_inter_ag_2_0ec443f3:
 
-    # mc "哈哈哈。说得好。"
-    mc "哈哈哈。说得好。"
+    # mc "Hahaha. Nice one."
+    mc "Hahaha. Nice one."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:38
 translate chinese q_inter_ag_2_4e82a65f:
 
-    # ag "谢谢。"
-    ag "谢谢。"
+    # ag "Thanks."
+    ag "Thanks."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:45
 translate chinese q_inter_ag_3_7245f8bc:
 
-    # ag "最近在读什么有趣的东西吗，[mcname]？"
-    ag "最近在读什么有趣的东西吗，[mcname]？"
+    # ag "Reading anything interesting these days, [mcname]?"
+    ag "Reading anything interesting these days, [mcname]?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:47
 translate chinese q_inter_ag_3_e92acb86:
 
-    # mc "不太有。主要是技术手册。"
-    mc "不太有。主要是技术手册。"
+    # mc "Not really. Mostly just technical manuals."
+    mc "Not really. Mostly just technical manuals."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:48
 translate chinese q_inter_ag_3_c313f8b5:
 
-    # ag "那真可惜。"
-    ag "那真可惜。"
+    # ag "That's a bummer."
+    ag "That's a bummer."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:54
 translate chinese q_inter_ag_4_74736967:
 
-    # ag "嗷。"
-    ag "嗷。"
+    # ag "Grrr."
+    ag "Grrr."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:56
 translate chinese q_inter_ag_4_605b79ac:
 
-    # mc "怎么了，安娜？"
-    mc "怎么了，安娜？"
+    # mc "What's wrong, Anna?"
+    mc "What's wrong, Anna?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:58
 translate chinese q_inter_ag_4_44962b02:
 
-    # ag "嗯？哦。没什么。我呃...我有点熬夜玩游戏了。"
-    ag "嗯？哦。没什么。我呃...我有点熬夜玩游戏了。"
+    # ag "Huh? Oh. Nothing. I uh ... I kind of stayed up late playing a game."
+    ag "Huh? Oh. Nothing. I uh ... I kind of stayed up late playing a game."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:59
 translate chinese q_inter_ag_4_3546ca5d:
 
-    # ag "我绝对不应该再喝那杯能量饮料的。"
-    ag "我绝对不应该再喝那杯能量饮料的。"
+    # ag "I definitely shouldn't have had that extra energy drink."
+    ag "I definitely shouldn't have had that extra energy drink."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:66
 translate chinese q_inter_ag_5_6267fff3:
 
-    # ag "对不起，我现在不能说话。杰登又在让我的生活很痛苦了。"
-    ag "对不起，我现在不能说话。杰登又在让我的生活很痛苦了。"
+    # ag "Sorry, I can't talk right now. Jayden is making my life miserable. Again."
+    ag "Sorry, I can't talk right now. Jayden is making my life miserable. Again."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:72
 translate chinese q_inter_ag_6_7c2863d6:
 
-    # ag "我很高兴你能加入团队，[mcname]。"
-    ag "我很高兴你能加入团队，[mcname]。"
+    # ag "I'm glad to have you on the team, [mcname]."
+    ag "I'm glad to have you on the team, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:73
 translate chinese q_inter_ag_6_1d3b6759:
 
-    # ag "哈哈。跟着我们，你会走得很远的。"
-    ag "哈哈。跟着我们，你会走得很远的。"
+    # ag "Haha. Stick with us and you'll go far."
+    ag "Haha. Stick with us and you'll go far."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:74
 translate chinese q_inter_ag_6_235b3c69:
 
-    # mct "哦，天哪。"
-    mct "哦，天哪。"
+    # mct "Oh god."
+    mct "Oh god."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:81
 translate chinese q_inter_ag_7_3f801fa3:
 
-    # ag "最近怎么样，[mcname]？"
-    ag "最近怎么样，[mcname]？"
+    # ag "How's it going, [mcname]?"
+    ag "How's it going, [mcname]?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:83
 translate chinese q_inter_ag_7_4a1565c6:
 
-    # mc "还不错。你呢。"
-    mc "还不错。你呢。"
+    # mc "Not too bad. How about you."
+    mc "Not too bad. How about you."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:85
 translate chinese q_inter_ag_7_79d8f0d1:
 
-    # ag "很好。我昨晚读完了我的书，《莫拉科的面具》。"
-    ag "很好。我昨晚读完了我的书，《莫拉科的面具》。"
+    # ag "Great. I finished my book, 'The Mask of Morraco' last night."
+    ag "Great. I finished my book, 'The Mask of Morraco' last night."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:86
 translate chinese q_inter_ag_7_c6a3e40d:
 
-    # ag "太棒了。"
-    ag "太棒了。"
+    # ag "It was amazing."
+    ag "It was amazing."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:93
 translate chinese q_inter_ag_8_ea837785:
 
-    # ag "我本可以去全国比赛的。我本可以赢得金摇杆奖的。"
-    ag "我本可以去全国比赛的。我本可以赢得金摇杆奖的。"
+    # ag "I could have gone to nationals. I would have won the golden joystick."
+    ag "I could have gone to nationals. I would have won the golden joystick."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:95
 translate chinese q_inter_ag_8_e9536a13:
 
-    # mc "你还好吗，安娜？"
-    mc "你还好吗，安娜？"
+    # mc "You okay, Anna?"
+    mc "You okay, Anna?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:97
 translate chinese q_inter_ag_8_cdf85bce:
 
-    # ag "哦！嘿，[mcname]。抱歉，陷入白日梦了。"
-    ag "哦！嘿，[mcname]。抱歉，陷入白日梦了。"
+    # ag "Oh! Hey [mcname]. Sorry, got caught up in a day dream."
+    ag "Oh! Hey [mcname]. Sorry, got caught up in a day dream."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:104
 translate chinese q_inter_ag_9_9a51215d:
 
-    # ag "哦，嘿，[mcname]。很高兴在工作之外见到你。"
-    ag "哦，嘿，[mcname]。很高兴在工作之外见到你。"
+    # ag "Oh hey, [mcname]. Nice to see you outside of work."
+    ag "Oh hey, [mcname]. Nice to see you outside of work."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:106
 translate chinese q_inter_ag_9_4da9317a:
 
-    # mc "我也是，安娜。"
-    mc "我也是，安娜。"
+    # mc "You too, Anna."
+    mc "You too, Anna."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:112
 translate chinese q_inter_ag_10_45c27f92:
 
-    # mc "嘿，安娜。最近怎么样？"
-    mc "嘿，安娜。最近怎么样？"
+    # mc "Hey Anna. How's it going?"
+    mc "Hey Anna. How's it going?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:114
 translate chinese q_inter_ag_10_e82d7f2a:
 
-    # ag "嗯嗯。很好。没什么比散散步更好的了。你怎么来这里了，[mcname]？"
-    ag "嗯嗯。很好。没什么比散散步更好的了。你怎么来这里了，[mcname]？"
+    # ag "Mmmm. Wonderful. Nothing beats a little stroll. What brings you out here, [mcname]?"
+    ag "Mmmm. Wonderful. Nothing beats a little stroll. What brings you out here, [mcname]?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:115
 translate chinese q_inter_ag_10_5c9908e1:
 
-    # mc "是啊。有时我害怕自己有多少时间只是盯着屏幕或坐在室内。"
-    mc "是啊。有时我害怕自己有多少时间只是盯着屏幕或坐在室内。"
+    # mc "Yeah. Sometimes it scares me how much time I'm just staring at a screen or sitting around indoors."
+    mc "Yeah. Sometimes it scares me how much time I'm just staring at a screen or sitting around indoors."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:116
 translate chinese q_inter_ag_10_638b8872:
 
-    # ag "嗯哼。"
-    ag "嗯哼。"
+    # ag "Mmhmm."
+    ag "Mmhmm."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:123
 translate chinese q_inter_ag_12_88202202:
 
-    # ag "嘿，[mcname]。我得走了，但下次在工作时见。"
-    ag "嘿，[mcname]。我得走了，但下次在工作时见。"
+    # ag "Hey [mcname]. I gotta run, but I'll see you next time at work."
+    ag "Hey [mcname]. I gotta run, but I'll see you next time at work."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:129
 translate chinese q_inter_ag_13_331c981a:
 
-    # ag "今晚有什么有趣的计划吗？"
-    ag "今晚有什么有趣的计划吗？"
+    # ag "Got any fun plans tonight?"
+    ag "Got any fun plans tonight?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:131
 translate chinese q_inter_ag_13_e2b99916:
 
-    # mc "我在想读我刚买的新书。"
-    mc "我在想读我刚买的新书。"
+    # mc "I'm thinking about reading this new book I got."
+    mc "I'm thinking about reading this new book I got."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:132
 translate chinese q_inter_ag_13_6539b98d:
 
-    # ag "哦哦，那总是个好计划！"
-    ag "哦哦，那总是个好计划！"
+    # ag "Oooh, that's always a good plan!"
+    ag "Oooh, that's always a good plan!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:138
 translate chinese q_inter_ag_14_a0646568:
 
-    # ag "我不敢相信他们这里卖海苔片！"
-    ag "我不敢相信他们这里卖海苔片！"
+    # ag "I can't believe they sell seaweed chips here!"
+    ag "I can't believe they sell seaweed chips here!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:144
 translate chinese q_inter_ag_15_627cf67a:
 
-    # mc "你在忙什么，安娜？"
-    mc "你在忙什么，安娜？"
+    # mc "What are you up to, Anna?"
+    mc "What are you up to, Anna?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:146
 translate chinese q_inter_ag_15_02b4f025:
 
-    # ag "哦，只是在看书放松。"
-    ag "哦，只是在看书放松。"
+    # ag "Oh just was relaxing with my book."
+    ag "Oh just was relaxing with my book."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:147
 translate chinese q_inter_ag_15_613101ca:
 
-    # mc "酷，是什么类型的书？"
-    mc "酷，是什么类型的书？"
+    # mc "Cool, what kind of book is it?"
+    mc "Cool, what kind of book is it?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:148
 translate chinese q_inter_ag_15_bde20939:
 
-    # ag "哦，只是一本呃...经典。《远大前程》。"
-    ag "哦，只是一本呃...经典。《远大前程》。"
+    # ag "Oh just a um... classic. Great Expectations."
+    ag "Oh just a um... classic. Great Expectations."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:150
 translate chinese q_inter_ag_15_96b89f6e:
 
-    # mc "我记得那本书。"
-    mc "我记得那本书。"
+    # mc "I remember that one."
+    mc "I remember that one."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:154
 translate chinese q_inter_ag_15_d2df92c3:
 
-    # ag "是的。有时我喜欢重读旧书。有点像舒适的书籍。"
-    ag "是的。有时我喜欢重读旧书。有点像舒适的书籍。"
+    # ag "Yup. Sometimes I like to reread old books. A bit like comfort books."
+    ag "Yup. Sometimes I like to reread old books. A bit like comfort books."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:156
 translate chinese q_inter_ag_15_9d8ac380:
 
-    # mc "或者说是休闲读物。"
-    mc "或者说是休闲读物。"
+    # mc "Or pleasure literature."
+    mc "Or pleasure literature."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:158
 translate chinese q_inter_ag_15_9881353b:
 
-    # ag "*轻笑* 正是如此。"
-    ag "*轻笑* 正是如此。"
+    # ag "*chuckles* Exactly."
+    ag "*chuckles* Exactly."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:164
 translate chinese q_inter_ag_16_456cbfd2:
 
-    # ag "嘿，[mcname]！要和我一起参加欢乐时光吗？"
-    ag "嘿，[mcname]！要和我一起参加欢乐时光吗？"
+    # ag "Hey, [mcname]! Joining me for happy hour?"
+    ag "Hey, [mcname]! Joining me for happy hour?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:166
 translate chinese q_inter_ag_16_92e98a73:
 
-    # mc "也许一小会儿。"
-    mc "也许一小会儿。"
+    # mc "Maybe for a little bit."
+    mc "Maybe for a little bit."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:167
 translate chinese q_inter_ag_16_6c504cef:
 
-    # ag "太棒了！"
-    ag "太棒了！"
+    # ag "Awesome!"
+    ag "Awesome!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:174
 translate chinese q_inter_ag_17_e1f59b0c:
 
-    # ag "你知道吗，雷德利做的玛格丽塔很不错。"
-    ag "你知道吗，雷德利做的玛格丽塔很不错。"
+    # ag "You know, Ridley makes pretty good margaritas."
+    ag "You know, Ridley makes pretty good margaritas."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:175
 translate chinese q_inter_ag_17_cea800f6:
 
-    # ag "你会认为她的古典鸡尾酒是她最好的饮品，确实很棒！"
-    ag "你会认为她的古典鸡尾酒是她最好的饮品，确实很棒！"
+    # ag "And you'd expect her old fashioned to be her best drink, and it's great!"
+    ag "And you'd expect her old fashioned to be her best drink, and it's great!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:176
 translate chinese q_inter_ag_17_000e25b0:
 
-    # ag "但伙计，她的玛格丽塔真是绝了。"
-    ag "但伙计，她的玛格丽塔真是绝了。"
+    # ag "But man, her marg is to die for."
+    ag "But man, her marg is to die for."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:182
 translate chinese q_inter_ag_18_177eb32b:
 
-    # mc "工作怎么样？"
-    mc "工作怎么样？"
+    # mc "How's work going?"
+    mc "How's work going?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:184
 translate chinese q_inter_ag_18_fbdc9484:
 
-    # ag "很好。"
-    ag "很好。"
+    # ag "It's good."
+    ag "It's good."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:188
 translate chinese q_inter_ag_18_c20b0fa0:
 
-    # mc "要在咖啡店工作一段时间吗？"
-    mc "要在咖啡店工作一段时间吗？"
+    # mc "Going to be working at the coffee shop for a while?"
+    mc "Going to be working at the coffee shop for a while?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:190
 translate chinese q_inter_ag_18_b714cbc4:
 
-    # ag "哦，呃...是的。只是直到我完成这个，呃，其他项目。"
-    ag "哦，呃...是的。只是直到我完成这个，呃，其他项目。"
+    # ag "Oh, erm... yep. Just until I finish this, erm, other project."
+    ag "Oh, erm... yep. Just until I finish this, erm, other project."
 
