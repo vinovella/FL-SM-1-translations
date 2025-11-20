@@ -484,3 +484,7 @@
     old "Good morning!"
     new "早上好！"
 
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Let's go to sleep"
+    new "让我们去睡觉吧"
+

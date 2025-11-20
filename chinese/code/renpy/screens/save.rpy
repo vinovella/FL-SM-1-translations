@@ -48,3 +48,15 @@
     old "Saves From Season [season]"
     new "第[season]季的存档"
 
+    # game/code/renpy/screens/save.rpy:123
+    old "You completed 100% of the game!"
+    new "您完成了游戏的100%！"
+
+    # game/code/renpy/screens/save.rpy:125
+    old "You finished the main story!"
+    new "您完成了主线故事！"
+
+    # game/code/renpy/screens/save.rpy:128
+    old "You can continue to play the game and save later from your phone as well."
+    new "您可以继续玩游戏，并且稍后也可以从手机上保存。"
+
