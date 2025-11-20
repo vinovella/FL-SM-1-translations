@@ -256,29 +256,29 @@ translate italian strings:
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Mask party"
-    new "Mask party"
+    new "Festa in maschera"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Convincing AmRose"
-    new "Convincing AmRose"
+    new "Convincere AmRose"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Date with Debbie"
-    new "Date with Debbie"
+    new "Appuntamento con Debbie"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Settling score with Maya"
-    new "Settling score with Maya"
+    new "Saldare i conti con Maya"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Helping Min relief stress"
-    new "Helping Min relief stress"
+    new "Aiutare Min ad alleviare lo stress"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Date with April"
-    new "Date with April"
+    new "Appuntamento con April"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Practicing with Denise"
-    new "Practicing with Denise"
+    new "Praticare con Denise"
 

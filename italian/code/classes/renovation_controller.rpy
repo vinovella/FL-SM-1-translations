@@ -38,7 +38,7 @@
 
     # game/code/classes/renovation_controller.rpy:140
     old "Max"
-    new "Max"
+    new "Mass."
 
     # game/code/classes/renovation_controller.rpy:149
     old "Insufficient money"

@@ -92,5 +92,5 @@ translate italian strings:
 
     # game/code/classes/movie_controllers.rpy:115
     old "Pirate movie"
-    new "Pirate movie"
+    new "Film dei pirati"
 

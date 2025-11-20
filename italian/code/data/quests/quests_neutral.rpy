@@ -466,9 +466,9 @@ translate italian strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Debbie about your next date in the park"
-    new "Talk to Debbie about your next date in the park"
+    new "Parla con Debbie del tuo prossimo appuntamento al parco"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Invite Debbie to the next date"
-    new "Invite Debbie to the next date"
+    new "Invita Debbie al prossimo appuntamento"
 
