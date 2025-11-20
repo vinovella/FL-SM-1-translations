@@ -456,7 +456,7 @@ translate italian strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Smash"
-    new "Smash"
+    new "Scopare"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask about the play"
@@ -480,13 +480,13 @@ translate italian strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask Debbie to the movies"
-    new "Ask Debbie to the movies"
+    new "Invita Debbie al cinema"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have some fun in the toilet"
-    new "Have some fun in the toilet"
+    new "Divertiti un po' in bagno"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Good morning!"
-    new "Good morning!"
+    new "Buongiorno!"
 

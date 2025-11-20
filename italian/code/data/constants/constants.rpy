@@ -30,7 +30,7 @@
 
     # game/code/data/constants/constants.rpy:368
     old "Fitness"
-    new "Fitness"
+    new "Forma fisica"
 
     # game/code/data/constants/constants.rpy:369
     old "Food and Drink"
@@ -198,13 +198,13 @@ translate italian strings:
 
     # game/code/data/constants/constants.rpy:388
     old "Book"
-    new "Book"
+    new "Libro"
 
     # game/code/data/constants/constants.rpy:389
     old "Magazine"
-    new "Magazine"
+    new "Rivista"
 
     # game/code/data/constants/constants.rpy:398
     old "Energy drink"
-    new "Energy drink"
+    new "Bevanda energetica"
 

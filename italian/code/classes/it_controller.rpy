@@ -14,5 +14,5 @@ translate italian strings:
 
     # game/code/classes/it_controller.rpy:55
     old "Orbix salary ([days] days)"
-    new "Orbix salary ([days] days)"
+    new "Stipendio Orbix ([days] giorni)"
 

@@ -6,11 +6,11 @@
 
     # game/code/data/constants/location_constants.rpy:41
     old "Upstairs"
-    new "Upstairs"
+    new "Piano superiore"
 
     # game/code/data/constants/location_constants.rpy:46
     old "Above Kitchen"
-    new "Above Kitchen"
+    new "Sopra la cucina"
 
     # game/code/data/constants/location_constants.rpy:59
     old "Wurst Delivery"
@@ -22,11 +22,11 @@
 
     # game/code/data/constants/location_constants.rpy:95
     old "Theomalt Park"
-    new "Theomalt Park"
+    new "Parco Theomalt"
 
     # game/code/data/constants/location_constants.rpy:107
     old "71 Store"
-    new "71 Store"
+    new "Negozio 71"
 
     # game/code/data/constants/location_constants.rpy:114
     old "Photo Dojo"
@@ -34,15 +34,15 @@
 
     # game/code/data/constants/location_constants.rpy:126
     old "Theater"
-    new "Theater"
+    new "Teatro"
 
     # game/code/data/constants/location_constants.rpy:180
     old "Starducks Café"
-    new "Starducks Café"
+    new "Caffè Starducks"
 
     # game/code/data/constants/location_constants.rpy:189
     old "Lyssa's House"
-    new "Lyssa's House"
+    new "Casa di Lyssa"
 
     # game/code/data/constants/location_constants.rpy:197
     old "Guns n' Rosette"
