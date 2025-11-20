@@ -466,9 +466,9 @@ translate deutsch strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Debbie about your next date in the park"
-    new "Talk to Debbie about your next date in the park"
+    new "Sprich mit Debbie über dein nächstes Date im Park"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Invite Debbie to the next date"
-    new "Invite Debbie to the next date"
+    new "Lade Debbie zum nächsten Date ein"
 
