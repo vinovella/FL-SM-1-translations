@@ -1,4 +1,7 @@
 ============================== Language: italian ==============================
+Here is a list of files with lines of dialogue and menu choices that need to be translated to Italian. Use copilot-instructions.md for context and instructions. 
+List:
+
 italian/code/classes/it_controller.rpy [4 words]
 
 17: new "Orbix salary ([days] days)"
@@ -77,6 +80,10 @@ italian/code/data/quests/vn_mode_data.rpy [83 words]
 793: new "Taisia wants to make breakfast"
 797: new "Nari is hungry in the morning"
 
+
+
+Translate untranslated lines of dialogue and menu choices in
+
 italian/code/data/quick_interactions/IT_office/q-inter-cw.rpy (Entire file untranslated) [320 words]
 
 italian/code/data/quick_interactions/IT_office/q-inter-en.rpy (Entire file untranslated) [63 words]
@@ -88,6 +95,10 @@ italian/code/data/quick_interactions/IT_office/q-inter-lm.rpy (Entire file untra
 italian/code/data/quick_interactions/IT_office/q-inter-mj.rpy (Entire file untranslated) [90 words]
 
 italian/code/data/quick_interactions/IT_office/q-inter-ns.rpy [12 words]
+
+to Italian and use copilot-instructions.md for context and instructions. 
+
+
 
 italian/code/minigames/wurst_delivery/wurst_delivery_class.rpy [2 words]
 
