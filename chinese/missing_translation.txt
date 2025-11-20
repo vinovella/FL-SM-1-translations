@@ -1,109 +1,99 @@
-chinese/code/scenes/character_scenes/dc/sm1cs-dc009.rpy [198 words]
+chinese/code/scenes/character_scenes/my/sm1cs-my005.rpy [73 words]
 
-941: "*BANG*"
-1307: "*BANG*"
-1313: "*BANG*"
-1319: "*BANG*"
-1331: "*BANG*"
-1337: "*BANG*"
-1343: "*BANG*"
-1607: mct "I can't help but think of a different wiener I'd love for her to be putting-"
-1613: mc "No, everything is great.{w} But, I do have a confession to make..."
-1619: dc "And I'd like to do that with you, [mcname]!"
-1625: dc "That is the most important rule about any and every gun."
-1631: dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
-1637: doc "Well hi there, little miss police officer!"
-1643: doc "Oh, that's not a surprise!"
-1649: doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
-1655: doc "What's you just call me?"
-1661: doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
-1667: doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
-1673: doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
-1679: doc "Ohhh, my tits, ohhhhh!"
-1685: doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
-1691: doc "Hahahahahaha!"
-1697: doc "Bullshit! No way!"
-1703: doc "Shit... three 9s..."
-1709: dc "I mean...{w} you want me as your girlfriend?"
+1309: mct "What is... is Mom rubbing my dick with her foot?"
+1315: my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
+1321: mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
+1327: mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
 
-chinese/code/scenes/character_scenes/dc/sm1cs-dc009i.rpy (Entire file untranslated) [108 words]
+chinese/code/scenes/character_scenes/my/sm1cs-my005i.rpy (Entire file untranslated) [47 words]
 
-chinese/code/scenes/character_scenes/dc/sm1cs-dc010.rpy [194 words]
+chinese/code/scenes/character_scenes/my/sm1cs-my006.rpy [31 words]
 
-2253: dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
-2259: jc "Well, what do we have here!"
-2265: doc "Oh, loitering? Maybe something a bit more nefarious?"
-2271: jc "\"Evening, officers\", pfft."
-2277: doc "Hmmm... let's see."
-2283: doc "Oh, that's right!"
-2289: doc "That's for using that bitch to embarrass us the other day!"
-2295: jc "Woah, man."
-2301: doc "What?"
-2307: jc "She's not entirely a bitch. Because, you now."
-2313: doc "Oh yeah."
-2319: doc "Because she has a dick!"
-2325: jc "Yeah! So, whatever she is! Fuck her!"
-2337: jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
-2343: jc "Shut up!"
-2349: jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
-2355: doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
-2361: jc "Oh, my balls are shaking! Hahahahaha!"
-2373: jc "Oh, fuck you!"
-2379: doc "What the fuck!?"
-2391: doc "My ass."
-2397: jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
-2403: doc "Yeah. Get your ass kicked off the force."
-2409: jc "Errrgghhhh..."
-2415: doc "Mother fucker..."
-2421: jc "Come on."
-2427: jc "Fuck you."
-2433: dc "I have been looking forward to this for a while.{w} I'm very excited."
-2439: dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
-2445: mc "Great enough that it deserves its own pleasure."
-2451: dc "Infinitely better than my fantasy."
-2457: dc "No, not really. Just some paperwork to do."
+1709: mc "What?"
+2357: new "Next morning"
+2361: new "Back at the studio"
+2367: mct "Melony's ass is amazing... and her pussy, fucking wow."
+2373: my "It's fine, it's not like you have anyone who's going to miss you in bed."
 
-chinese/code/scenes/character_scenes/dc/sm1cs-dc010i.rpy (Entire file untranslated) [91 words]
+chinese/code/scenes/character_scenes/sy/sm1cs-sy001.rpy [27 words]
 
-chinese/code/scenes/character_scenes/kv/sm1cs-kv003.rpy [23 words]
+765: sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
 
-989: kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
-995: kv "I-I-I- think I'm going to cum!"
+chinese/code/scenes/cross_characters/sm1xc_ns_tl_001i.rpy (Entire file untranslated) [159 words]
 
-chinese/code/scenes/character_scenes/kv/sm1cs-kv004.rpy [50 words]
+chinese/code/scenes/it_office/sm1fs-i002.rpy [14 words]
 
-1187: kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-1193: kv "Let's get rid of these pesky things..."
-1199: mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
-1205: mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+645: mc "After I had it for a while I... Realized it could be made better."
 
-chinese/code/scenes/character_scenes/mas/sm1cs-mas004i.rpy [15 words]
+chinese/code/scenes/it_office/sm1fs-i003.rpy [0 words]
 
-17: ms "Nelson wants to talk to us. Something about a doctor's appointment."
-23: mc "That sounds ominous."
-29: ms "*shrugs*"
+155: ns "{font=fonts/notosanskr-medium.ttf}새로운 잘생긴 동료를 만나서 반가워요!{/font}"
 
-chinese/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy [3 words]
+chinese/code/scenes/it_office/cw/sm1cs-cw006.rpy [71 words]
 
-1259: mc "*groaning* Fuck yes..."
+1769: new "Your lips?"
+1775: cw "If I didn't need your help in the first place..."
+1781: mc "I can only control my body so much, Claire."
+1787: mc "Of course, Ms. Watts."
+1793: cw "I think a little further analysis would be good.{w} Necessary even."
+1799: cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
+1805: mc "I wanted to talk to you about that special assignment you mentioned?"
 
-chinese/code/scenes/character_scenes/mes/sm1cs-mes-r1i.rpy [10 words]
+chinese/code/scenes/it_office/ns/sm1cs-ns001.rpy [32 words]
 
-5: mc "Hey Min ready for some fun?"
-11: mes "Hell yeah I am!"
+589: ag "Of course. The office has its own cafeteria."
+595: mct "He shoots."
+601: ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
 
-chinese/code/scenes/character_scenes/mh/sm1cs-mh008.rpy [22 words]
+chinese/code/scenes/it_office/ns/sm1cs-ns002.rpy [23 words]
 
-2349: mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
+813: mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+819: mct "No one is close. I hope."
 
-chinese/code/scenes/character_scenes/mh/sm1cs-mh009.rpy [30 words]
+chinese/code/scenes/it_office/ns/sm1cs-ns003.rpy [209 words]
 
-2427: mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
+1001: mct "Nari has been usually quiet today."
+1007: mct "Like she's playing a game with me. Only she knows the moves."
+1013: ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
+1019: ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
+1025: mct "She can be so shy, and yet so casual about talking about sexy stuff."
+1031: mct "I never imagined it would take this long."
+1037: mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
+1043: mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
+1049: mct "This is either my best idea or my worst idea yet."
+1055: mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
+1061: mct "No, you are definitely not shy, Nari. Wow."
+1067: mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
+1073: mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
+1079: mct "Well, that was quite a ride. I almost thought she might want to hang out."
+1085: mct "Maybe next time."
 
-chinese/code/scenes/character_scenes/mh/sm1cs-mh010.rpy [15 words]
+chinese/code/scenes/it_office/ns/sm1cs-ns004.rpy [31 words]
 
-711: mh "Once or twice, but a girl likes to hear it every once in a while."
+969: ns "I would consider that outcome as very high risk, low chance."
+975: mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
 
-chinese/code/scenes/character_scenes/my/sm1cs-my003.rpy [24 words]
+chinese/code/scenes/it_office/ns/sm1cs-ns005.rpy [108 words]
 
-1641: my "Yeah, i
+1123: mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+1129: ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+1135: ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+1141: mc "I... I don't. But I want you to finish me off."
+1147: ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+1153: ns "You know I'm very efficient."
+1159: mc "Give me a little time and I'll find a restaurant and text you the details."
+
+chinese/code/scenes/it_office/ns/sm1cs-ns007.rpy [56 words]
+
+1977: ns "I disagree. I've told you many things I like."
+1983: ns "I feel... comfortable... with you."
+1989: ns "*excited but stifled moaning*"
+1995: ns "*moaning. I love... hearing that... ooouhah...*"
+2001: ns "*whispers* It's just like the hentai."
+2007: ns "Yes. Thank you, [mcname]."
+2013: ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+2019: new "The people close to me are happy about it"
+
+chinese/code/scenes/it_office/ns/sm1cs-ns009.rpy [5 words]
+
+1357: mc "And... I totally wasn't scared."
