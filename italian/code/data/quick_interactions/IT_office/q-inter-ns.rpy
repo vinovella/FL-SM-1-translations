@@ -500,7 +500,7 @@ translate italian q_inter_ns_22_ff4d3e62:
 translate italian q_inter_ns_22_03d1e965:
 
     # mc "Yes, Nari?"
-    mc "Yes, Nari?"
+    mc "Sì, Nari?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:313
 translate italian q_inter_ns_22_af94e231:
@@ -1214,7 +1214,7 @@ translate italian q_inter_ns_51_8522c77b:
 translate italian q_inter_ns_51_03d1e965:
 
     # mc "Yes, Nari?"
-    mc "Yes, Nari?"
+    mc "Sì, Nari?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:671
 translate italian q_inter_ns_51_7683dcea:
