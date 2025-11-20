@@ -482,13 +482,13 @@ translate deutsch strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask Debbie to the movies"
-    new "Ask Debbie to the movies"
+    new "Frage Debbie, ob sie mit dir ins Kino gehen möchte"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have some fun in the toilet"
-    new "Have some fun in the toilet"
+    new "Hab etwas Spaß auf der Toilette"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Good morning!"
-    new "Good morning!"
+    new "Guten Morgen!"
 
