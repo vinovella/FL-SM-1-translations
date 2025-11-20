@@ -4118,7 +4118,7 @@ translate deutsch sm1ms029_party_sy_d9b6ee3b:
 translate deutsch sm1ms029_party_sy_bc72065b:
 
     # sy "Wait, wait, wait, wait-!"
-    sy Warte, warte, warte, warte-!"
+    sy "Warte, warte, warte, warte-!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1625
 translate deutsch sm1ms029_party_sy_a68d2552:
