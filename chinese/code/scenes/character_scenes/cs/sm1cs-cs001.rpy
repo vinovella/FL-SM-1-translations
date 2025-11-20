@@ -200,5 +200,5 @@ translate chinese sm1cs_cs001_24cdc073:
 translate chinese sm1cs_cs001_0b11eff4:
 
     # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
-    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+    mc "好好好。我要一杯深度烘焙咖啡和一个..."
 

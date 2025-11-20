@@ -1364,7 +1364,7 @@ translate chinese sm1cs_arj002_c9ab0dfd:
 translate chinese sm1cs_arj002_07172b26:
 
     # arj "*giggles*"
-    arj "*giggles*"
+    arj "*咯咯笑*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:738
 translate chinese sm1cs_arj002_eeffc2db:
@@ -1994,7 +1994,7 @@ translate chinese sm1cs_arj002_67affca7:
 translate chinese sm1cs_arj002_07172b26_1:
 
     # arj "*giggles*"
-    arj "*giggles*"
+    arj "*咯咯笑*"
 
 translate chinese strings:
 
