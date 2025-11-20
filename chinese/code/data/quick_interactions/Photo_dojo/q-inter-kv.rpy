@@ -86,107 +86,107 @@ translate chinese q_inter_kv_4_08e5f9ce:
 translate chinese q_inter_kv_5_1bf8b352:
 
     # kv "Stacy texted me that the film is complete. Nice work, [mcname]."
-    kv "Stacy texted me that the film is complete. Nice work, [mcname]."
+    kv "史黛西给我发短信说电影完成了。干得好，[mcname]。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:74
 translate chinese q_inter_kv_5_f44013dc:
 
     # mc "Come on, it was group effort."
-    mc "Come on, it was group effort."
+    mc "得了吧，这是团队努力的结果。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:79
 translate chinese q_inter_kv_6_3c97da9e:
 
     # kv "Ah my favorite customer."
-    kv "Ah my favorite customer."
+    kv "啊，我最喜欢的顾客。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:80
 translate chinese q_inter_kv_6_09be2dc3:
 
     # kv "That was some movie production. I think you and Stacy were meant to be farmers that fuck on a ranch."
-    kv "That was some movie production. I think you and Stacy were meant to be farmers that fuck on a ranch."
+    kv "那部电影制作真不错。我觉得你和史黛西注定要成为在农场上做爱的农民。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:81
 translate chinese q_inter_kv_6_c211c4af:
 
     # mc "I might have to give it a try one day. I kind of liked 'Yellowstone'."
-    mc "I might have to give it a try one day. I kind of liked 'Yellowstone'."
+    mc "也许有一天我得试试。我有点喜欢《黄石》。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:82
 translate chinese q_inter_kv_6_52e698e2:
 
     # kv "Haha. Cowboy mafia."
-    kv "Haha. Cowboy mafia."
+    kv "哈哈。牛仔黑帮。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:83
 translate chinese q_inter_kv_6_40b258f5:
 
     # kv "Not for me."
-    kv "Not for me."
+    kv "不适合我。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:88
 translate chinese q_inter_kv_7_644c96cd:
 
     # kv "[mcname]! The website is great!"
-    kv "[mcname]! The website is great!"
+    kv "[mcname]！网站棒极了！"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:89
 translate chinese q_inter_kv_7_3a312602:
 
     # kv "I've been sharing it to some of my special clients."
-    kv "I've been sharing it to some of my special clients."
+    kv "我一直在和我的一些特殊客户分享它。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:90
 translate chinese q_inter_kv_7_53c94d32:
 
     # mc "Thanks, Kanya. Every new fan helps."
-    mc "Thanks, Kanya. Every new fan helps."
+    mc "谢谢，康雅。每一个新粉丝都有帮助。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:91
 translate chinese q_inter_kv_7_bb29d6b3:
 
     # kv "Oh yeah."
-    kv "Oh yeah."
+    kv "哦，是的。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:96
 translate chinese q_inter_kv_8_59d01662:
 
     # kv "That was a kick ass party, [mcname]."
-    kv "That was a kick ass party, [mcname]."
+    kv "那是个超棒的派对，[mcname]。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:97
 translate chinese q_inter_kv_8_45478349:
 
     # mc "I had a great time!"
-    mc "I had a great time!"
+    mc "我玩得很开心！"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:98
 translate chinese q_inter_kv_8_fc95e473:
 
     # kv "I hope there's more in the future."
-    kv "I hope there's more in the future."
+    kv "我希望将来会有更多这样的派对。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:99
 translate chinese q_inter_kv_8_fd8f367f:
 
     # mc "I do too!"
-    mc "I do too!"
+    mc "我也是！"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:104
 translate chinese q_inter_kv_9_85c2aa91:
 
     # kv "So now that the studio is officially launched, does that mean I'm going to have more work?"
-    kv "So now that the studio is officially launched, does that mean I'm going to have more work?"
+    kv "那么既然工作室正式启动了，这意味着我会有更多的工作吗？"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:105
 translate chinese q_inter_kv_9_e0d93906:
 
     # mc "That's the plan."
-    mc "That's the plan."
+    mc "这就是计划。"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:108
 translate chinese q_inter_kv_9_1475a46f:
 
     # kv "Good, I'm looking forward to it!"
-    kv "Good, I'm looking forward to it!"
+    kv "好的，我很期待！"
 
