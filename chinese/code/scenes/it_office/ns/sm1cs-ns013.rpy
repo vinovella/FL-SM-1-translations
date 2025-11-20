@@ -2408,29 +2408,29 @@ translate chinese strings:
 translate chinese ns013_labels_section_0887f6cc:
 
     # ns "I am a very bad [nspetlabel]."
-    ns "I am a very bad [nspetlabel]."
+    ns "我是一个非常坏的[nspetlabel]。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:569
 translate chinese ns013_labels_section_3688c4d9:
 
     # ns "A little. I'm actually still-"
-    ns "A little. I'm actually still-"
+    ns "有一点。其实我还——"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:627
 translate chinese ns013_labels_section_713f1049:
 
     # ns "You're always so kind to me, [nsmcpetlabel]."
-    ns "You're always so kind to me, [nsmcpetlabel]."
+    ns "你总是对我那么好，[nsmcpetlabel]。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:651
 translate chinese ns013_labels_section_791ab451:
 
     # mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
-    mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+    mc "我喜欢你的小穴包裹着我的感觉。我有一个如此乖的[nspetlabel]。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:662
 translate chinese ns013_labels_section_ab353c83:
 
     # ns "I can go... Mrrmmm... at just the right speed."
-    ns "I can go... Mrrmmm... at just the right speed."
+    ns "我可以...嗯嗯嗯...用恰到好处的速度。"
 

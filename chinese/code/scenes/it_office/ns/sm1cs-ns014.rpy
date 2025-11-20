@@ -1230,5 +1230,5 @@ translate chinese sm1cs_ns014_studio_883c4173:
 translate chinese sm1cs_ns014_studio_34d49c4d:
 
     # ns "No fair. You're too sneaky. Stacy..."
-    ns "No fair. You're too sneaky. Stacy..."
+    ns "不公平。你太狡猾了。史黛西..."
 

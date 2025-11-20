@@ -26,7 +26,7 @@ translate chinese sm1ms002_it_8fc40573:
 translate chinese sm1ms002_it_f75998f3:
 
     # sy "Perl, Python, C, C#...?"
-    sy "Perl, Python, C, C#...?"
+    sy "Perl、Python、C、C#...？"
 
 # game/code/scenes/main_story/sm1ms002_it.rpy:17
 translate chinese sm1ms002_it_728440fc:

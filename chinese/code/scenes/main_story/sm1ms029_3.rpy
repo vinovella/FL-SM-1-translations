@@ -1442,13 +1442,13 @@ translate chinese sm1ms029_party_arj_254336d8:
 translate chinese sm1ms029_party_arj_4e8ea874:
 
     # arj "[arj_mcname!t], I hope you're not too tuckered out yet."
-    arj "[arj_mcname!t], I hope you're not too tuckered out yet."
+    arj "[arj_mcname!t]，我希望你还没累坏。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1831
 translate chinese sm1ms029_party_arj_16ff3013:
 
     # mc "*panting* What? Me. I'm fine.{w} I'm sure the feeling in my legs will return."
-    mc "*panting* What? Me. I'm fine.{w} I'm sure the feeling in my legs will return."
+    mc "*喘气* 什么？我。我很好。{w}我相信我腿上的感觉会恢复的。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1832
 translate chinese sm1ms029_party_arj_f3c65db8:

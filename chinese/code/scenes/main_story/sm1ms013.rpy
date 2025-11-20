@@ -746,7 +746,7 @@ translate chinese sm1ms013_87c872c1:
 translate chinese sm1ms013_6baeadf6:
 
     # my "Did you think your room magically cleaned itself, [mcname]?"
-    my "你以为你的房间会自动打扫干净吗？"
+    my "你以为你的房间会自动打扫干净吗，[mcname]？"
 
 # game/code/scenes/main_story/sm1ms013.rpy:401
 translate chinese sm1ms013_68c94d16:

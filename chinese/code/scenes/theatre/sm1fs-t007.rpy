@@ -1162,5 +1162,5 @@ translate chinese strings:
 translate chinese sm1fs_t007_47fafcd6:
 
     # km "Yes, ma'am!"
-    km "Yes, ma'am!"
+    km "是的，女士！"
 
