@@ -48,5 +48,5 @@ translate deutsch strings:
 
     # game/code/renpy/screens/phone.rpy:77
     old "Save for Season 2"
-    new "Save for Season 2"
+    new "Für Season 2 speichern"
 
