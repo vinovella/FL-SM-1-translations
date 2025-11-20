@@ -1006,5 +1006,5 @@ translate deutsch strings:
 
     # game/code/scenes/main_story/sm1ms028.rpy:372
     old "You got $500 as your signup bonus from Porn Cave"
-    new "You got $500 as your signup bonus from Porn Cave"
+    new "Du hast $500 als Anmeldebonus von Porn Cave erhalten"
 
