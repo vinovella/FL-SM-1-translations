@@ -932,5 +932,5 @@ translate chinese strings:
 
     # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
     old "You lost $[amount] to Taisia in a pool game"
-    new "You lost $[amount] to Taisia in a pool game"
+    new "你在台球比赛中输给了泰西娅$[amount]"
 

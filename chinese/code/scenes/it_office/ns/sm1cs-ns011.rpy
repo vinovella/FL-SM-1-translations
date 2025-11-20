@@ -1150,5 +1150,5 @@ translate chinese strings:
 translate chinese sm1cs_ns011_a266d0ee:
 
     # ns "Sugar Daddies love to play with their Good Girls..."
-    ns "Sugar Daddies love to play with their Good Girls..."
+    ns "干爹们喜欢和他们的乖女孩一起玩..."
 

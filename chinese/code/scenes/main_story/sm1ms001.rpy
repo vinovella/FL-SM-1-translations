@@ -92,7 +92,7 @@ translate chinese name_done_08ad240c:
 translate chinese name_done_1607ef68:
 
     # "Delivery Person" "Thank you, uhh, Mr.{w} [mcname] Young."
-    "快递员" "谢谢您，{w}呃，杨先生。"
+    "快递员" "谢谢您，{w}呃，[mcname]·杨先生。"
 
 # game/code/scenes/main_story/sm1ms001.rpy:115
 translate chinese name_done_e744756d:

@@ -14,7 +14,7 @@ translate chinese sm1cs_dvh002_f4e1a271:
 translate chinese sm1cs_dvh002_184e8807:
 
     # dvh "{i}Vreselijk.{/i}"
-    dvh "{i}Vreselijk.{/i}"
+    dvh "{i}可怕。{/i}"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:16
 translate chinese sm1cs_dvh002_9cd70510:
@@ -692,5 +692,5 @@ translate chinese sm1cs_dvh002_41e938d6:
 translate chinese sm1cs_dvh002_7c5150d5:
 
     # dvh "It is not... too much of a surprise to me. I have had my suspicions for a while."
-    dvh "It is not... too much of a surprise to me. I have had my suspicions for a while."
+    dvh "这对我来说...并不太令人惊讶。我怀疑这件事有一段时间了。"
 
