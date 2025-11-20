@@ -1638,5 +1638,5 @@ translate chinese strings:
 translate chinese sm1cs_my003_at_gym_b2b93b59:
 
     # my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
-    my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
+    my "是的，只是我有一段时间没能去健身房了。锻炼一些有点僵硬的肌肉。"
 

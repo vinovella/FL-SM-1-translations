@@ -2346,5 +2346,5 @@ translate chinese strings:
 translate chinese sm1cs_mh008_f927037e:
 
     # mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
-    mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
+    mh "我不知道...我们已经很久没有真正在一起度过时间了。我想也许我们可以做点什么，去某个地方。"
 

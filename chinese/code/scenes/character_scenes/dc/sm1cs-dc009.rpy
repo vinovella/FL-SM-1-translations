@@ -1604,85 +1604,85 @@ translate chinese sm1cs_dc009_2341bb60:
 translate chinese sm1cs_dc009_78d5a7ce:
 
     # mct "I can't help but think of a different wiener I'd love for her to be putting-"
-    mct "I can't help but think of a different wiener I'd love for her to be putting-"
+    mct "我不禁想到我希望她含着的另一根香肠——"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:184
 translate chinese sm1cs_dc009_c2f0d634:
 
     # mc "No, everything is great.{w} But, I do have a confession to make..."
-    mc "No, everything is great.{w} But, I do have a confession to make..."
+    mc "不，一切都很好。{w} 但是，我确实有件事要坦白..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:228
 translate chinese sm1cs_dc009_6cf47e29:
 
     # dc "And I'd like to do that with you, [mcname]!"
-    dc "And I'd like to do that with you, [mcname]!"
+    dc "我想和你一起做这件事，[mcname]！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:289
 translate chinese sm1cs_dc009_bb81e359:
 
     # dc "That is the most important rule about any and every gun."
-    dc "That is the most important rule about any and every gun."
+    dc "这是关于任何枪支的最重要规则。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:334
 translate chinese sm1cs_dc009_6827ff1e:
 
     # dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
-    dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
+    dc "好的，稍微向前倾一点，做好准备应对后坐力..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:384
 translate chinese sm1cs_dc009_440ee9ae:
 
     # doc "Well hi there, little miss police officer!"
-    doc "Well hi there, little miss police officer!"
+    doc "嘿，你好啊，小警官小姐！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:393
 translate chinese sm1cs_dc009_101d86dd:
 
     # doc "Oh, that's not a surprise!"
-    doc "Oh, that's not a surprise!"
+    doc "哦，这并不令人惊讶！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:403
 translate chinese sm1cs_dc009_e360942c:
 
     # doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
-    doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
+    doc "哦，看看这只小兔子为公园警察出头！好可爱啊！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:410
 translate chinese sm1cs_dc009_fd79c6d2:
 
     # doc "What's you just call me?"
-    doc "What's you just call me?"
+    doc "你刚才叫我什么？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:418
 translate chinese sm1cs_dc009_79c0c6bc:
 
     # doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
-    doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
+    doc "没错！队长在说要让你坐办公室！说你太烦人了。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:434
 translate chinese sm1cs_dc009_9fae04d3:
 
     # doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
-    doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
+    doc "是啊，就是那对又大又下垂的奶子！每次她在公园追捕那些犯轻罪的混蛋时都甩来甩去的！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:435
 translate chinese sm1cs_dc009_3524c2c1:
 
     # doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
-    doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
+    doc "我现在都能想象到！跑着跑着然后\"哦不，我的奶子打到我脸上了！不要啊！\"。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:439
 translate chinese sm1cs_dc009_a03bd0eb:
 
     # doc "Ohhh, my tits, ohhhhh!"
-    doc "Ohhh, my tits, ohhhhh!"
+    doc "哦哦哦，我的奶子，哦哦哦！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:446
 translate chinese sm1cs_dc009_21183386:
 
     # doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
-    doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
+    doc "是吗？她怎么证明？她要用那对大奶袋把我们打死吗！？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:490
 translate chinese sm1cs_dc009_6f1555e8:
@@ -1694,17 +1694,17 @@ translate chinese sm1cs_dc009_6f1555e8:
 translate chinese sm1cs_dc009_8359aaa6:
 
     # doc "Bullshit! No way!"
-    doc "Bullshit! No way!"
+    doc "胡说八道！不可能！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:563
 translate chinese sm1cs_dc009_337ab247:
 
     # doc "Shit... three 9s..."
-    doc "Shit... three 9s..."
+    doc "该死...三个9..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:583
 translate chinese sm1cs_dc009_fad668c9:
 
     # dc "I mean...{w} you want me as your girlfriend?"
-    dc "I mean...{w} you want me as your girlfriend?"
+    dc "我是说...{w} 你想让我做你的女朋友？"
 

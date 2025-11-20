@@ -1184,23 +1184,23 @@ translate chinese strings:
 translate chinese sm1cs_kv004_9b3488c6:
 
     # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    kv "她确实喜欢。我知道她已经很久没有行动了，所以我想给她点能激发想象力的东西会很受欢迎。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
 translate chinese sm1cs_kv004_sex_repeatable_b52d6afd:
 
     # kv "Let's get rid of these pesky things..."
-    kv "Let's get rid of these pesky things..."
+    kv "让我们摆脱这些讨厌的东西..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
 translate chinese sm1cs_kv004_sex_repeatable_0bda85cc:
 
     # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
-    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    mc "该——康雅，你的嘴真是太——厉——害了，该死。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate chinese sm1cs_kv004_sex_repeatable_925a1079:
 
     # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
-    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    mc "嗯嗯嗯，康雅你太紧了！你的小穴就像老虎钳！"
 
