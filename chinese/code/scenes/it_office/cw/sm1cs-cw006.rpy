@@ -1766,41 +1766,41 @@ translate chinese strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:476
     old "Your lips?"
-    new "Your lips?"
+    new "你的嘴唇？"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:238
 translate chinese sm1cs_cw006_8854937c:
 
     # cw "If I didn't need your help in the first place..."
-    cw "If I didn't need your help in the first place..."
+    cw "如果我一开始就不需要你的帮助..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:253
 translate chinese sm1cs_cw006_8fc13b58:
 
     # mc "I can only control my body so much, Claire."
-    mc "I can only control my body so much, Claire."
+    mc "我只能控制我的身体到这种程度，克莱尔。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:353
 translate chinese cw006_choice1_b19ad390:
 
     # mc "Of course, Ms. Watts."
-    mc "Of course, Ms. Watts."
+    mc "当然，沃茨女士。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:400
 translate chinese sm1cs_cw006_onramp_1a_e8dd973e:
 
     # cw "I think a little further analysis would be good.{w} Necessary even."
-    cw "I think a little further analysis would be good.{w} Necessary even."
+    cw "我认为进一步分析会很好。{w}甚至是必要的。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:421
 translate chinese sm1cs_cw006_onramp_1a_141a8791:
 
     # cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
-    cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
+    cw "帮我忙的意思是，我需要你帮我做一些与我们在游艇上{i}完成的{/i}活动类似的事情。"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:860
 translate chinese sm1cs_cw006_onramp_2_d125b649:
 
     # mc "I wanted to talk to you about that special assignment you mentioned?"
-    mc "I wanted to talk to you about that special assignment you mentioned?"
+    mc "我想和你谈谈你提到的那个特殊任务？"
 

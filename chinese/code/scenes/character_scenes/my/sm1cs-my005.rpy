@@ -1306,23 +1306,23 @@ translate chinese strings:
 translate chinese sm1cs_my005_half_movie_c72b9a46:
 
     # mct "What is... is Mom rubbing my dick with her foot?"
-    mct "What is... is Mom rubbing my dick with her foot?"
+    mct "这是...是妈妈在用脚蹭我的老二吗？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:504
 translate chinese sm1cs_my005_after_movie_52d70a1d:
 
     # my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
-    my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
+    my "我很感激，但当你到了我这个年纪，你会想要一张又大又软的床，配上羽绒被。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:541
 translate chinese sm1cs_my005_after_movie_2d23f06a:
 
     # mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
-    mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "我刚刚让妈妈因为足部按摩而高潮了，然后还像没事一样和她调情..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:543
 translate chinese sm1cs_my005_after_movie_eed91999:
 
     # mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
-    mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "我刚刚让梅洛妮因为足部按摩而高潮了，然后还像没事一样和她调情..."
 

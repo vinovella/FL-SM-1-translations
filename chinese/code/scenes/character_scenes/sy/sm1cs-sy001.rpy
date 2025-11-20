@@ -762,5 +762,5 @@ translate chinese strings:
 translate chinese sm1cs_sy001_watersports_962bd759:
 
     # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
-    sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
+    sy "嗯哼。别担心我，我只是要坐在这里享受高潮后的余韵，想想那些肮脏的事情。"
 

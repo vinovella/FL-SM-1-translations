@@ -586,17 +586,17 @@ translate chinese strings:
 translate chinese sm1cs_ns001_1c682e14:
 
     # ag "Of course. The office has its own cafeteria."
-    ag "Of course. The office has its own cafeteria."
+    ag "当然。办公室有自己的自助餐厅。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
 translate chinese sm1cs_ns001_continue_e2b53835:
 
     # mct "He shoots."
-    mct "He shoots."
+    mct "他出手了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
 translate chinese sm1cs_ns001_continue_aa4b7c7c:
 
     # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
-    ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
+    ns "后来，我意识到她一定对我的工作印象深刻，因为她问我要不要喝汽水。"
 
