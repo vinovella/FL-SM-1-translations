@@ -1256,7 +1256,7 @@ translate chinese sm1cs_mes_r1_watersports_ece82835:
 translate chinese sm1cs_mes_r1_watersports_1650ea57:
 
     # mc "*groaning* Fuck yes..."
-    mc "*groaning* Fuck yes..."
+    mc "*呻吟* 太他妈爽了..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:523
 translate chinese sm1cs_mes_r1_watersports_0290aab3:

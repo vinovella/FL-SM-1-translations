@@ -708,5 +708,5 @@ translate chinese strings:
 translate chinese sm1cs_mh010_16687345:
 
     # mh "Once or twice, but a girl likes to hear it every once in a while."
-    mh "Once or twice, but a girl likes to hear it every once in a while."
+    mh "一两次吧，但女孩子偶尔还是喜欢听到的。"
 
