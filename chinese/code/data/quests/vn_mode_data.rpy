@@ -710,85 +710,85 @@
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk big business"
-    new "Talk big business"
+    new "谈大生意"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress AmRose's story"
-    new "Progress AmRose's story"
+    new "推进爱洛丝的故事"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Throw a party"
-    new "Throw a party"
+    new "举办派对"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Start making the second movie"
-    new "Start making the second movie"
+    new "开始制作第二部电影"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Text AmRose for a meetup"
-    new "Text AmRose for a meetup"
+    new "给爱洛丝发消息约见面"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer AmRose's message"
-    new "Answer AmRose's message"
+    new "回复爱洛丝的消息"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Reminisce with AmRose"
-    new "Reminisce with AmRose"
+    new "与爱洛丝回忆往事"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk with Amore"
-    new "Talk with Amore"
+    new "与阿茉交谈"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Date with Debbie at the shooting range"
-    new "Date with Debbie at the shooting range"
+    new "在射击场与黛比约会"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Movie date with Debbie"
-    new "Movie date with Debbie"
+    new "与黛比的电影约会"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Working it with Maya"
-    new "Working it with Maya"
+    new "与玛雅一起工作"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Some fun with Min"
-    new "Some fun with Min"
+    new "与明一起享乐"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Contest with Melony and Stacy"
-    new "Contest with Melony and Stacy"
+    new "与梅洛妮啊和史黛西的比赛"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "A night in Melony"
-    new "A night in Melony"
+    new "在梅洛妮啊家的夜晚"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer April's message"
-    new "Answer April's message"
+    new "回复艾普尔的消息"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Dinner with April"
-    new "Dinner with April"
+    new "与艾普尔共进晚餐"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Perform a hungry show"
-    new "Perform a hungry show"
+    new "表演一场饥饿秀"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the play"
-    new "Talk about the play"
+    new "谈论话剧"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Text Taisia"
-    new "Text Taisia"
+    new "给泰西娅发消息"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Taisia wants to make breakfast"
-    new "Taisia wants to make breakfast"
+    new "泰西娅想做早餐"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Nari is hungry in the morning"
-    new "Nari is hungry in the morning"
+    new "娜丽早上饿了"
 

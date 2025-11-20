@@ -442,7 +442,7 @@
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Confront Amore"
-    new "Confront Amore"
+    new "对质阿茉"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about work"
