@@ -524,5 +524,5 @@ translate chinese strings:
 translate chinese sm1cs_dc002_9cef6b0f:
 
     # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
-    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+    mct "我现在违反了第一条规则：心肺锻炼！天哪，也许我们应该在工作室里买台跑步机..."
 

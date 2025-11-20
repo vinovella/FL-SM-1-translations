@@ -1104,11 +1104,11 @@ translate chinese strings:
 translate chinese sm1cs_bg001_01872126:
 
     # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
-    "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
+    "BDSM模特" "哦，这个...说得好。嗯，你可以叫我...{w}阿茉。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
 translate chinese sm1cs_bg001_f21ffe59:
 
     # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
-    bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
+    bg "嗯，就这么说吧，经过一个忙碌的晚上后，我出去买了我的第一套装备。我一直在存钱...我也不知道为了什么。就是生活告诉你该买的东西。房贷，或者贷款，或者学生债务还款。"
 

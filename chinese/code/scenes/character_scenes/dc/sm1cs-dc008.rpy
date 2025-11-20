@@ -1034,5 +1034,5 @@ translate chinese sm1cs_dc008_b12cc4d7:
 translate chinese sm1cs_dc008_a037dc10:
 
     # dc "Thanks, [mcname]. I like your outfit too."
-    dc "Thanks, [mcname]. I like your outfit too."
+    dc "谢谢，[mcname]。我也喜欢你的穿搭。"
 

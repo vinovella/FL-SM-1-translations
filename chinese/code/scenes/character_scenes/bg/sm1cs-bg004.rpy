@@ -1568,5 +1568,5 @@ translate chinese sm1cs_bg004_anal_be577bc5:
 translate chinese sm1cs_bg004_anal_a58f65b7:
 
     # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
-    bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
+    bg "我需要--啊啊啊--求你了，[bg_mcname!tu]，我需要休息一下！"
 

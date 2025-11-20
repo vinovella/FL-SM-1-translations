@@ -944,11 +944,11 @@ translate chinese strings:
 translate chinese sm1cs_dc006_993ec2ac:
 
     # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+    dc "如果我说我对发生的事不感兴趣，那就是在撒谎。如果警察不愿意谈论...那一定很劲爆。"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
 translate chinese sm1cs_dc006_a541102c:
 
     # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
-    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
+    dc "它们很不错的。是浓缩咖啡加牛奶，还有一些巧克力混合物。我的意思是，你那杯是白巧克力混合物，而且..."
 
