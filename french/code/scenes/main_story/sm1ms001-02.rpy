@@ -26,7 +26,7 @@ translate french sm1ms001_02_7243fc57:
 translate french sm1ms001_02_9fb73803:
 
     # mc "Haha. That does sound perfect after a long day. Let's do it."
-    mc "Haha. Ça sonne parfait après une longue journée. Allons-y."
+    mc "Haha. Ça sonne bien après une longue journée. Allons-y."
 
 # game/code/scenes/main_story/sm1ms001-02.rpy:35
 translate french sm1ms001_02_cd301ca0:

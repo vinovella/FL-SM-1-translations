@@ -686,7 +686,7 @@ translate french sm1cs_cw004_later_f2a53832:
 translate french sm1cs_cw004_later_3e44a61a:
 
     # mct "Oh man, that would be-"
-    mct "Oh mec, ce serait—"
+    mct "Oh mec, ce serait..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:415
 translate french sm1cs_cw004_later_2df2f9b7:
@@ -1274,7 +1274,7 @@ translate french sm1cs_cw004_first_evening_80a60165:
 translate french sm1cs_cw004_first_evening_63d90238:
 
     # cw "I-"
-    cw "Je—"
+    cw "Je..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:744
 translate french sm1cs_cw004_first_evening_f191c337:
@@ -1940,13 +1940,31 @@ translate french sm1cs_cw004_first_evening_5c0fa263:
 translate french sm1cs_cw004_first_evening_d259ade9:
 
     # mct "I'm going to have no problem falling to-"
-    mct "Je vais m’endormir sans problème—"
+    mct "Je vais m’endormir sans problème..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:1058
 translate french sm1cs_cw004_first_evening_80f6d00e:
 
     # cw "Hmm."
     cw "Hmm."
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:540
+translate french sm1cs_cw004_later_6251a886:
+
+    # cw "How is he, Daddy?"
+    cw "Comment il va, Papa ?"
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:674
+translate french sm1cs_cw004_first_evening_7d3aec05:
+
+    # fw "Farah please, [mcname]."
+    fw "Farah, s’il te plaît, [mcname]."
+
+# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:900
+translate french sm1cs_cw004_first_evening_19a0c527:
+
+    # cw "*whispers* Stop resisting."
+    cw "*chuchote* Arrête de résister."
 
 translate french strings:
 
@@ -1974,6 +1992,10 @@ translate french strings:
     old "I don't want to waste your ammo"
     new "Je ne veux pas gaspiller tes munitions"
 
+    # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
+    old "Sure lets do it"
+    new "Bien sûr, faisons-le"
+
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:636
     old "Later that evening"
     new "Plus tard dans la soirée"
@@ -1986,28 +2008,8 @@ translate french strings:
     old "Resist!"
     new "Résister !"
 
-#Translate by BlackViper_
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:540
-translate french sm1cs_cw004_later_6251a886:
-
-    # cw "How is he, Daddy?"
-    cw "How is he, Daddy?"
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:674
-translate french sm1cs_cw004_first_evening_7d3aec05:
-
-    # fw "Farah please, [mcname]."
-    fw "Farah please, [mcname]."
-
-# game/code/scenes/it_office/cw/sm1cs-cw004.rpy:900
-translate french sm1cs_cw004_first_evening_19a0c527:
-
-    # cw "*whispers* Stop resisting."
-    cw "*whispers* Stop resisting."
-
-translate french strings:
-
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:482
     old "Sure let's do it"
-    new "Sure let's do it"
+    new "Oui, faisons ça"
 
+#Translate by BlackViper_

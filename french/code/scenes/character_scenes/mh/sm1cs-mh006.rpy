@@ -68,7 +68,7 @@ translate french sm1cs_mh006_8b71bd04:
 translate french sm1cs_mh006_c6c3a682:
 
     # mc "I don't know if I would call it 'productive'."
-    mc "Je ne sais pas si j’appellerais ça vraiment « productif »."
+    mc "Je ne sais pas si j’appellerais ça vraiment 'productif'."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:72
 translate french sm1cs_mh006_b82ed622:
@@ -272,7 +272,7 @@ translate french sm1cs_mh006_60249650:
 translate french sm1cs_mh006_323a47da:
 
     # mc "If it will make you more comfortable-"
-    mc "Si ça peut te mettre plus à l’aise—"
+    mc "Si ça peut te mettre plus à l’aise..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:155
 translate french sm1cs_mh006_c006bcdf:
@@ -326,7 +326,7 @@ translate french sm1cs_mh006_after_choice_b2b9e19d:
 translate french sm1cs_mh006_after_choice_bf05c5a5:
 
     # mh "When we first started seeing each other again, I... I told myself I would hold out until at least the third date. I wouldn't even think the word sex until you had wined and dined me enough."
-    mh "Quand nous avons recommencé à nous voir, je... je m’étais promis d’attendre au moins le troisième rendez-vous. De ne même pas penser au mot “sexe” avant que tu ne m’aies vraiment courtisée, sortie, invitée..."
+    mh "Quand nous avons recommencé à nous voir, je... je m’étais promis d’attendre au moins le troisième rendez-vous. De ne même pas penser au mot sexe avant que tu ne m’aies vraiment courtisée, sortie, invitée..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:179
 translate french sm1cs_mh006_after_choice_c328ad82:
@@ -470,7 +470,7 @@ translate french sm1cs_mh006_after_choice_54fc16cf:
 translate french sm1cs_mh006_after_choice_81cc3a3a:
 
     # mh "What? What do you mean 'when a shark bites a lawyer'?"
-    mh "Quoi ? Qu’est-ce que tu veux dire par « quand un requin mord un avocat » ?"
+    mh "Quoi ? Qu’est-ce que tu veux dire par 'quand un requin mord un avocat'?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:239
 translate french sm1cs_mh006_after_choice_df387c72:
@@ -644,7 +644,7 @@ translate french sm1cs_mh006_after_choice_5ac8cc43:
 translate french sm1cs_mh006_after_choice_047c5d38:
 
     # mc "Wel, uhm... I guess-"
-    mc "Bon, euh... je suppose que—"
+    mc "Bon, euh... je suppose que..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:323
 translate french sm1cs_mh006_after_choice_b5fd75b7:
@@ -680,7 +680,7 @@ translate french sm1cs_mh006_after_choice_2affa0d3:
 translate french sm1cs_mh006_after_choice_9c4093be:
 
     # mc "'Yeah, tea sounds cool. Or whatever.'"
-    mc "« Ouais, le thé, c’est cool... ou un truc du genre. »"
+    mc "'Ouais, le thé, c’est cool... ou un truc du genre.'"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:339
 translate french sm1cs_mh006_after_choice_1cbf27a3:
@@ -740,7 +740,7 @@ translate french sm1cs_mh006_after_choice_b3ae8984:
 translate french sm1cs_mh006_after_choice_b8c18fdc:
 
     # mct "Shit! The only tea I can think of is a video game teabag and that is {u}very different.{/u}"
-    mct "Merde ! Le seul thé qui me vient, c’est le tea-bag dans un jeu vidéo et ça, c’est {u}très différent.{/u}"
+    mct "Merde ! Le seul thé qui me vient, c’est le teabag dans un jeu vidéo et ça, c’est {u}très différent.{/u}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:374
 translate french sm1cs_mh006_after_choice_eb25c9ca:
@@ -842,7 +842,7 @@ translate french sm1cs_mh006_after_choice_0c170bad:
 translate french sm1cs_mh006_after_choice_cc49fce0:
 
     # mh "Well, since the tea is ready, I think it's time for the 'something else'."
-    mh "Eh bien, puisque le thé est prêt... je crois qu’il est temps de passer au « quelque chose d’autre »."
+    mh "Eh bien, puisque le thé est prêt... je crois qu’il est temps de passer au 'quelque chose d’autre'."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:452
 translate french sm1cs_mh006_sex_b8b7db21:
@@ -962,19 +962,19 @@ translate french sm1cs_mh006_sex_74c4e690:
 translate french sm1cs_mh006_sex_509ac89a:
 
     # mc "If you're not careful-"
-    mc "Si tu continues comme ça—"
+    mc "Si tu continues comme ça..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:506
 translate french sm1cs_mh006_sex_2b65586a:
 
     # mc "-Jesus, I want to cum down your throat. Holllly guacamollllley!"
-    mc "—Jésus... je veux jouir au fond de ta gorge. Putaaain, c’est trop !"
+    mc "...Jésus... je veux jouir au fond de ta gorge. Putaaain, c’est trop !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:507
 translate french sm1cs_mh006_sex_91f75041:
 
     # mc "Yeah, just like that - fuh - just like that!"
-    mc "Ouais, comme ça—fuhhh—ouais, exactement comme ça !"
+    mc "Ouais, comme ça...Putaa...ouais, exactement comme ça !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:510
 translate french sm1cs_mh006_sex_4e99a1c1:
@@ -1142,7 +1142,7 @@ translate french sm1cs_mh006_sex_f49fff8f_1:
 translate french sm1cs_mh006_sex_925b1184:
 
     # mh "Fuhhh - that felt -"
-    mh "Fuhhh... c’était..."
+    mh "Puttt... c’était..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:584
 translate french sm1cs_mh006_sex_ab9779f2:

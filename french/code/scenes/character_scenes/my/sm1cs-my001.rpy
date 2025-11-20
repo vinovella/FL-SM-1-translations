@@ -968,7 +968,7 @@ translate french sm1cs_my001_12a94a93:
 translate french sm1cs_my001_686f07fc:
 
     # my "She gave me an address-"
-    my "Elle m’a donné une adresse—"
+    my "Elle m’a donné une adresse..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:488
 translate french sm1cs_my001_043b25c6:
@@ -1142,7 +1142,7 @@ translate french sm1cs_my001_4040cc16:
 translate french sm1cs_my001_ac58434a:
 
     # mc "Oh, she's-"
-    mc "Oh, elle—"
+    mc "Oh, elle..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:568
 translate french sm1cs_my001_ca6fec8c:

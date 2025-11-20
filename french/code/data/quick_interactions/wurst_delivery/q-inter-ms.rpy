@@ -796,59 +796,46 @@ translate french q_inter_ms_45_62351857:
     # ms "Don't you wish all your problems could be ground up and packaged for profit."
     ms "Tu voudrais pas que tous tes problèmes puissent être broyés et emballés pour faire du fric ?"
 
-#Translate by BlackViper_
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:128
 translate french q_inter_ms_9_4e19df90:
 
     # ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
-    ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
+    ms "On ne t’a jamais dit ? Je suis une ninja lanceuse de bratwurst, [mcname]."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:129
 translate french q_inter_ms_9_16556a01:
 
     # ms "Swwwssh. See? while you blinked, I delivered five combo packs."
-    ms "Swwwssh. See? while you blinked, I delivered five combo packs."
+    ms "Swwwssh. Tu vois ? Pendant que tu clignais des yeux, j’ai livré cinq menus."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:160
 translate french q_inter_ms_14_0ab32883:
 
     # ms "At least they can't automate bratwurst makers yet."
-    ms "At least they can't automate bratwurst makers yet."
+    ms "Au moins, ils ne peuvent pas encore automatiser les fabricants de bratwurst."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:373
 translate french q_inter_ms_35_59b4bc48:
 
     # ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
-    ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
+    ms "À ce jour où on pourra juste faire la grasse matinée et ne pas se précipiter dehors pour se faire broyer par la vie."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:440
 translate french q_inter_ms_40_14e02518:
 
     # ms "Shhhh. You want the whole place to hear?"
-    ms "Shhhh. You want the whole place to hear?"
+    ms "Chut. Tu veux que tout le monde entende ?"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:528
 translate french q_inter_ms_45_fad7a7ce:
 
     # mc "I'm sure a lot of billionaires start the same way."
-    mc "I'm sure a lot of billionaires start the same way."
+    mc "Je suis sûr que beaucoup de milliardaires ont commencé comme ça."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:529
 translate french q_inter_ms_45_678c5fed:
 
     # ms "Maybe I'm on my first step to becoming one."
-    ms "Maybe I'm on my first step to becoming one."
+    ms "Peut-être que je suis sur le premier pas pour en devenir une."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:86
-translate french q_inter_ms_5_8a5a6bb5:
-
-    # ms "Never thought I'd be buried in debt and putting wieners in bags."
-    ms "Never thought I'd be buried in debt and putting wieners in bags."
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
-translate french q_inter_ms_19_6c302b48:
-
-    # ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
-    ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
-
+#Translate by BlackViper_

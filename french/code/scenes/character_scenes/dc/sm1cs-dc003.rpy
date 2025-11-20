@@ -20,7 +20,7 @@ translate french sm1cs_dc003_fea07740:
 translate french sm1cs_dc003_7229594e:
 
     # dc "Dark roast then... Please."
-    dc "Rôti noir alors... s’il te plaît."
+    dc "Un café noir alors... s’il te plaît."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:32
 translate french sm1cs_dc003_06eccbc2:
@@ -146,7 +146,7 @@ translate french sm1cs_dc003_ff0d0921:
 translate french sm1cs_dc003_78dbdece:
 
     # mc "You've got nothing to apologize for. Hindsight being 20-20, probably shouldn't have been sneaking around the park while the Midnight Creep is on the loose."
-    mc "T’as rien à te reprocher. Avec le recul, j’aurais sans doute pas dû traîner en douce dans le parc alors que le Creep de minuit rôde."
+    mc "T’as rien à te reprocher. Avec le recul, j’aurais sans doute pas dû traîner en douce dans le parc alors que le Midnight Creep rôde."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:103
 translate french sm1cs_dc003_e3cfe840:
@@ -398,7 +398,7 @@ translate french sm1cs_dc003_44313634:
 translate french sm1cs_dc003_517eb1ba:
 
     # mc "If you don't want-"
-    mc "Si tu veux pas—"
+    mc "Si tu veux pas..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:205
 translate french sm1cs_dc003_4c2a9060:
@@ -596,7 +596,7 @@ translate french sm1cs_dc003_68fca3f6:
 translate french sm1cs_dc003_e85e327e:
 
     # dc "Uhm - yeah, no. It-it's okay."
-    dc "Euh—ouais, non. Ça va."
+    dc "Euh...ouais, non. Ça va."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:295
 translate french sm1cs_dc003_ef589775:

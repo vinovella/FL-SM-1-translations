@@ -1120,41 +1120,41 @@ translate chinese strings:
 translate chinese sm1cs_ns005_ef1a9eef:
 
     # mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
-    mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+    mct "我应该停止浪费时间，约她出去约会。我相信她会喜欢一个美好的夜晚，而不是继续深入研究财务。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:46
 translate chinese sm1cs_ns005_bdbf9d38:
 
     # ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
-    ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+    ns "*咯咯笑* 你也不用鞠躬。上次接到电话时，是我让你空等的。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:65
 translate chinese sm1cs_ns005_ecb1749e:
 
     # ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
-    ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+    ns "这是蓝人参糖，是我家乡最喜欢的小吃之一。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:353
 translate chinese sm1cs_ns005_in_bathroom_55af1966:
 
     # mc "I... I don't. But I want you to finish me off."
-    mc "I... I don't. But I want you to finish me off."
+    mc "我...我不。但我想让你帮我完成。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:503
 translate chinese sm1cs_ns005_after_cum_f15deec7:
 
     # ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
-    ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+    ns "射了好多，[mcname]。我相信这意味着你很享受。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:642
 translate chinese sm1cs_ns005_after_cum_5af9bd6d:
 
     # ns "You know I'm very efficient."
-    ns "You know I'm very efficient."
+    ns "你知道我效率很高。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:646
 translate chinese sm1cs_ns005_after_cum_34dbd9c4:
 
     # mc "Give me a little time and I'll find a restaurant and text you the details."
-    mc "Give me a little time and I'll find a restaurant and text you the details."
+    mc "给我一点时间，我会找家餐厅并发短信告诉你详情。"
 

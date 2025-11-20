@@ -2,37 +2,39 @@
 
     # game/code/renpy/screens/gallery.rpy:9
     old "Replay Gallery"
-    new "Replay Gallery"
-
+    new "Galerie des replays"
+    
     # game/code/renpy/screens/gallery.rpy:15
     old "Achievements"
-    new "Achievements"
-
+    new "Succès"
+    
     # game/code/renpy/screens/gallery.rpy:24
     old "Hints on"
-    new "Hints on"
-
+    new "Astuces activées"
+    
     # game/code/renpy/screens/gallery.rpy:24
     old "Hints off"
-    new "Hints off"
-
+    new "Astuces désactivées"
+    
     # game/code/renpy/screens/gallery.rpy:36
     old "Character Filter: [character_filter!t]"
-    new "Character Filter: [character_filter!t]"
-
+    new "Filtre de personnage : [character_filter!t]"
+    
     # game/code/renpy/screens/gallery.rpy:44
     old "Page [page]"
     new "Page [page]"
-
+    
     # game/code/renpy/screens/gallery.rpy:111
     old "None"
-    new "None"
-
+    new "Aucun"
+    
     # game/code/renpy/screens/gallery.rpy:155
     old "Prev"
-    new "Prev"
-
+    new "Précédent"
+    
     # game/code/renpy/screens/gallery.rpy:156
     old "Next"
-    new "Next"
+    new "Suivant"
+
+#Translate by BlackViper_
 

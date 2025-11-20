@@ -8,4 +8,3 @@
     old "Orbix salary ([days] days)"
     new "Orbix 薪资 ([days] 天)"
 
-

@@ -416,7 +416,7 @@ translate french sm1ms009_ac19358c:
 translate french sm1ms009_e52f496b:
 
     # kv "I've got a lot of things to do to get set before you can go - make sure the audio levels are set, focus is sharp... so wait for the magic word."
-    kv "J’ai plein de réglages à faire avant que vous puissiez commencer – vérifier les niveaux audio, la mise au point… alors attends le mot magique."
+    kv "J’ai plein de réglages à faire avant que vous puissiez commencer, vérifier les niveaux audio, la mise au point… alors attends le mot magique."
 
 # game/code/scenes/main_story/sm1ms009.rpy:308
 translate french sm1ms009_ad09b856:
@@ -776,7 +776,7 @@ translate french sm1ms009_35dde8ea:
 translate french sm1ms009_112542cc:
 
     # kv "Let's find some marks, and get you two into place!"
-    kv "Trouvons vos repères et mettons-vous en place !"
+    kv "Trouvons vos repères et mettons-nous en place !"
 
 # game/code/scenes/main_story/sm1ms009.rpy:473
 translate french sm1ms009_8876e32a:

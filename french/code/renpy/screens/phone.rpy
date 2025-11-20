@@ -12,6 +12,10 @@
     old "Messenger"
     new "Messagerie"
 
+    # game/code/renpy/screens/phone.rpy:63
+    old "VN Mode"
+    new "Mode VN"
+
     # game/code/renpy/screens/phone.rpy:69
     old "Quick Save"
     new "Sauvegarde rapide"
@@ -28,27 +32,16 @@
     old "Settings"
     new "Paramètres"
 
-#Translate by BlackViper_
-
-translate french strings:
-
     # game/code/renpy/screens/phone.rpy:69
     old "Laptop"
-    new "Laptop"
+    new "Ordinateur portable"
 
     # game/code/renpy/screens/phone.rpy:75
     old "Studio Laptop"
-    new "Studio Laptop"
-
-translate french strings:
+    new "Ordinateur portable de studio"
 
     # game/code/renpy/screens/phone.rpy:115
     old "Day: [gt.get_day_number()]"
-    new "Day: [gt.get_day_number()]"
+    new "Jour : [gt.get_day_number()]"
 
-translate french strings:
-
-    # game/code/renpy/screens/phone.rpy:77
-    old "Save for Season 2"
-    new "Save for Season 2"
-
+#Translate by BlackViper_

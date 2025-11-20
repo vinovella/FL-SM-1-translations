@@ -176,7 +176,7 @@ translate french sm1ms007_after_choice_66aa9d87:
 translate french sm1ms007_after_choice_08d42b34:
 
     # mc "Us? You don't want me to ask one of the candidates to do it?"
-    mc "Nous ? Tu veux pas que je demande à un des candidats ?"
+    mc "Nous ? Tu veux pas que je demande à une des candidates ?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:104
 translate french sm1ms007_after_choice_790de301:
@@ -488,13 +488,13 @@ translate french sm1ms007_after_choice_9232cdae:
 translate french sm1ms007_after_choice_904cb0f1:
 
     # sy "And if the waiter weren't coming round with our food, I'd show you just how much I appreciate {b}you{/b}, [mcname]."
-    sy "Et si le serveur arrivait pas avec nos plats, je te montrerais à quel point j’apprécie {b}toi{/b}, [mcname]."
+    sy "Et si le serveur arrivait pas avec nos plats, je te montrerais à quel point je t’apprécie {b}toi{/b}, [mcname]."
 
 # game/code/scenes/main_story/sm1ms007.rpy:260
 translate french sm1ms007_after_choice_f630e951:
 
     # mct "Stupid cock-blocking waiter."
-    mct "Putain de serveur qui fait le cockblock."
+    mct "Putain de serveur qui fait le bloqueur de bite."
 
 # game/code/scenes/main_story/sm1ms007.rpy:274
 translate french sm1ms007_after_choice_8f1990c6:

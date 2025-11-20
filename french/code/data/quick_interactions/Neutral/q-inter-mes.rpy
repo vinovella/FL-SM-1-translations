@@ -160,103 +160,101 @@ translate french q_inter_mes_6_97110289:
     # mes "Well, I'm honored you chose my company as for your precious break time."
     mes "Eh bien, je suis honorée que tu passes ta précieuse pause en ma compagnie."
 
-#Translate by BlackViper_
-
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:107
 translate french q_inter_mes_7_c31c6b56:
 
     # mes "Kanya seems very skilled, [mcname]."
-    mes "Kanya seems very skilled, [mcname]."
+    mes "Kanya a l'air très douée, [mcname]."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:108
 translate french q_inter_mes_7_a3f4ada6:
 
     # mes "She is really a fine addition to your team."
-    mes "She is really a fine addition to your team."
+    mes "C’est vraiment un excellent ajout à ton équipe."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:109
 translate french q_inter_mes_7_68b95aa2:
 
     # mc "Thanks, Min."
-    mc "Thanks, Min."
+    mc "Merci, Min."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:114
 translate french q_inter_mes_8_705ee222:
 
     # mes "Hi, [mcname]. Guess what?"
-    mes "Hi, [mcname]. Guess what?"
+    mes "Salut, [mcname]. Devine quoi ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:115
 translate french q_inter_mes_8_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Quoi ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:116
 translate french q_inter_mes_8_fe11005a:
 
     # mes "I got a perfect score on my last assignment."
-    mes "I got a perfect score on my last assignment."
+    mes "J’ai eu un score parfait sur mon dernier devoir."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:119
 translate french q_inter_mes_8_b5b8e299:
 
     # mes "I wonder if I push myself, if I can graduate early."
-    mes "I wonder if I push myself, if I can graduate early."
+    mes "Je me demande si en me poussant un peu, je ne pourrais pas obtenir mon diplôme en avance."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:125
 translate french q_inter_mes_9_45518ace:
 
     # mes "Ready for some more shots?"
-    mes "Ready for some more shots?"
+    mes "Prêt pour quelques shooters de plus ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:126
 translate french q_inter_mes_9_5b66d0bb:
 
     # mc "Please no, Min."
-    mc "Please no, Min."
+    mc "Pitié non, Min."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:127
 translate french q_inter_mes_9_a3440e08:
 
     # mc "I think my liver tried to escape out of my toes last time."
-    mc "I think my liver tried to escape out of my toes last time."
+    mc "Je crois que mon foie a essayé de s’enfuir par mes orteils la dernière fois."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:128
 translate french q_inter_mes_9_77acbbbf:
 
     # mes "Haha. Lightweight."
-    mes "Haha. Lightweight."
+    mes "Haha. Petite nature."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:134
 translate french q_inter_mes_10_9150e656:
 
     # mc "How are your classes going?"
-    mc "How are your classes going?"
+    mc "Comment se passent tes cours ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:135
 translate french q_inter_mes_10_e4be0e70:
 
     # mes "Oh perfectly average."
-    mes "Oh perfectly average."
+    mes "Oh, parfaitement ordinaires."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:136
 translate french q_inter_mes_10_d2287aa1:
 
     # mes "The history of European Socialism never loses its charm."
-    mes "The history of European Socialism never loses its charm."
+    mes "L’histoire du socialisme européen ne perd jamais son charme."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:141
 translate french q_inter_mes_11_3a2deb13:
 
     # mc "Looking good, Min."
-    mc "Looking good, Min."
+    mc "Tu es superbe, Min."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:142
 translate french q_inter_mes_11_9dadc47f:
 
     # mes "You're not so bad yourself, big boy."
-    mes "You're not so bad yourself, big boy."
+    mes "Toi non plus tu n’es pas mal, grand garçon."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:148
 translate french q_inter_mes_12_19808382:
@@ -268,49 +266,49 @@ translate french q_inter_mes_12_19808382:
 translate french q_inter_mes_12_d30f4bac:
 
     # mc "Problem?"
-    mc "Problem?"
+    mc "Un problème ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:150
 translate french q_inter_mes_12_66a10b8f:
 
     # mes "More of an... annoyance."
-    mes "More of an... annoyance."
+    mes "Plutôt une... irritation."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:153
 translate french q_inter_mes_12_b1a5a483:
 
     # mes "I forgot who terrible the Wifi can be here."
-    mes "I forgot who terrible the Wifi can be here."
+    mes "J'avais oublié à quel point le Wi-Fi est horrible ici."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:154
 translate french q_inter_mes_12_c7e90b55:
 
     # mes "It's one of the things I miss about Seoul."
-    mes "It's one of the things I miss about Seoul."
+    mes "C’est l’une des choses qui me manquent de Séoul."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:159
 translate french q_inter_mes_13_65856392:
 
     # mes "Hey, [mcname]."
-    mes "Hey, [mcname]."
+    mes "Hé, [mcname]."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:160
 translate french q_inter_mes_13_ecf41c94:
 
     # mes "How is the studio doing?"
-    mes "How is the studio doing?"
+    mes "Comment va le studio ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:161
 translate french q_inter_mes_13_bcd368dd:
 
     # mc "Good. Nothing too crazy going on."
-    mc "Good. Nothing too crazy going on."
+    mc "Bien. Rien de trop fou en ce moment."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:162
 translate french q_inter_mes_13_8360cff9:
 
     # mc "At least not compared to Fetish Locator crazy."
-    mc "At least not compared to Fetish Locator crazy."
+    mc "En tout cas pas comparé à la folie de Fetish Locator."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:165
 translate french q_inter_mes_13_8119ff39:
@@ -322,19 +320,19 @@ translate french q_inter_mes_13_8119ff39:
 translate french q_inter_mes_14_aaa5bfca:
 
     # mes "You know something?"
-    mes "You know something?"
+    mes "Tu sais quoi ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:172
 translate french q_inter_mes_14_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Quoi ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:173
 translate french q_inter_mes_14_28bc6df2:
 
     # mes "I may have... scouted out the bathroom here."
-    mes "I may have... scouted out the bathroom here."
+    mes "Il se peut que... j’aie repéré les toilettes ici."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:174
 translate french q_inter_mes_14_b8de06d3:
@@ -346,13 +344,13 @@ translate french q_inter_mes_14_b8de06d3:
 translate french q_inter_mes_14_a6c1cf49:
 
     # mes "Nice and clean. Functional locks."
-    mes "Nice and clean. Functional locks."
+    mes "Propre et bien entretenu. Les verrous fonctionnent."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:178
 translate french q_inter_mes_14_60e3329a:
 
     # mes "Very interesting, wouldn't you say."
-    mes "Very interesting, wouldn't you say."
+    mes "Très intéressant, tu ne trouves pas ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:179
 translate french q_inter_mes_14_4661a639:
@@ -370,19 +368,19 @@ translate french q_inter_mes_15_dadb5b86:
 translate french q_inter_mes_15_b85746b1:
 
     # mc "What's on your mind?"
-    mc "What's on your mind?"
+    mc "À quoi tu penses ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:187
 translate french q_inter_mes_15_e5959447:
 
     # mes "I saw a flyer for a party at the university."
-    mes "I saw a flyer for a party at the university."
+    mes "J’ai vu une affiche pour une fête à l’université."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:190
 translate french q_inter_mes_15_b590c121:
 
     # mes "It looked good, but I just know I could put together one that would put theirs to shame."
-    mes "It looked good, but I just know I could put together one that would put theirs to shame."
+    mes "Ça avait l’air sympa, mais je sais que je pourrais en organiser une qui les mettrait clairement à l’amende."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:191
 translate french q_inter_mes_15_e526a903:
@@ -394,11 +392,12 @@ translate french q_inter_mes_15_e526a903:
 translate french q_inter_mes_15_0796b207:
 
     # mc "Maybe we can do one in the future."
-    mc "Maybe we can do one in the future."
+    mc "On pourrait en organiser une, un de ces jours."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:195
 translate french q_inter_mes_15_a52d6b10:
 
     # mes "Here is hoping."
-    mes "Here is hoping."
+    mes "Espérons."
 
+#Translate by BlackViper_

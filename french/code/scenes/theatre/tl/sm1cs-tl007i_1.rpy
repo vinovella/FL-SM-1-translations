@@ -26,7 +26,7 @@ translate french sm1cs_tl007i_1_80cc65ef:
 translate french sm1cs_tl007i_1_ef7457da:
 
     # mc "Oh shit - sorry, Stacy just texted me. I have to run!"
-    mc "Oh merde — désolé, Stacy vient de m’envoyer un message. Faut que j’y aille !"
+    mc "Oh merde ... désolé, Stacy vient de m’envoyer un message. Faut que j’y aille !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl007i_1.rpy:19
 translate french sm1cs_tl007i_1_64289e58:

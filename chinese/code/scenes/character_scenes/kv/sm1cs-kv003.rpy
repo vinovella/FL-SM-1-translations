@@ -986,11 +986,11 @@ translate chinese sm1cs_kv003_51d06342:
 translate chinese sm1cs_kv003_222c534c:
 
     # kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
-    kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
+    kv "我一直在想你要怎么说服这些女演员出演你的色情片。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:462
 translate chinese sm1cs_kv003_9ac58097:
 
     # kv "I-I-I- think I'm going to cum!"
-    kv "I-I-I- think I'm going to cum!"
+    kv "我——我——我——我想我要高潮了！"
 

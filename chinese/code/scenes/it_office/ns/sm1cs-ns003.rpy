@@ -998,89 +998,89 @@ translate chinese strings:
 translate chinese sm1cs_ns003_6c6f50bb:
 
     # mct "Nari has been usually quiet today."
-    mct "Nari has been usually quiet today."
+    mct "娜丽今天异常安静。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:40
 translate chinese sm1cs_ns003_33a29b32:
 
     # mct "Like she's playing a game with me. Only she knows the moves."
-    mct "Like she's playing a game with me. Only she knows the moves."
+    mct "就像她在和我玩游戏。只有她知道怎么走。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:44
 translate chinese sm1cs_ns003_68c462c4:
 
     # ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
-    ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
+    ns "当我回到办公桌时，感觉每一分钟我都想缩成一团躲起来。当安娜或克莱尔靠近我时，情况会更糟。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:67
 translate chinese sm1cs_ns003_37aa12d7:
 
     # ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
-    ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
+    ns "这是个秘密。但是...嗯，也不是完全的秘密。我想送你点东西感谢你的帮助。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:146
 translate chinese sm1cs_ns003_6d83be49:
 
     # mct "She can be so shy, and yet so casual about talking about sexy stuff."
-    mct "She can be so shy, and yet so casual about talking about sexy stuff."
+    mct "她可以这么害羞，但谈论性感的东西时却又那么随意。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:176
 translate chinese sm1cs_ns003_6d8220b3:
 
     # mct "I never imagined it would take this long."
-    mct "I never imagined it would take this long."
+    mct "我从没想过会花这么长时间。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:193
 translate chinese sm1cs_ns003_ee47ea12:
 
     # mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
-    mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
+    mc "我一次甚至连二十分钟的色情片都看不完，而我很喜欢色情片。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:446
 translate chinese sm1cs_ns003_9e3ed79b:
 
     # mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
-    mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
+    mct "我得告诉史黛西她是对的。娜丽可能是工作室的一个好人选。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:471
 translate chinese sm1cs_ns003_edf4f757:
 
     # mct "This is either my best idea or my worst idea yet."
-    mct "This is either my best idea or my worst idea yet."
+    mct "这要么是我最好的主意，要么是我最糟糕的主意。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:480
 translate chinese sm1cs_ns003_11f9454a:
 
     # mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
-    mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
+    mc "小心点，娜丽。这玩意儿有时候有自己的想法..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:492
 translate chinese sm1cs_ns003_2855cbd1:
 
     # mct "No, you are definitely not shy, Nari. Wow."
-    mct "No, you are definitely not shy, Nari. Wow."
+    mct "不，娜丽，你绝对不害羞。哇。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:495
 translate chinese sm1cs_ns003_6aee29d5:
 
     # mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
-    mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
+    mct "她的触感确实完美温柔。柔软但又不会轻到让你感觉不到。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:539
 translate chinese sm1cs_ns003_52693859:
 
     # mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
-    mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
+    mct "有那么一瞬间，我以为娜丽要开始通过荣耀洞给我口交了。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:560
 translate chinese sm1cs_ns003_8a7c6254:
 
     # mct "Well, that was quite a ride. I almost thought she might want to hang out."
-    mct "Well, that was quite a ride. I almost thought she might want to hang out."
+    mct "好吧，那真是一段旅程。我差点以为她可能想出去玩。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:561
 translate chinese sm1cs_ns003_21d17c87:
 
     # mct "Maybe next time."
-    mct "Maybe next time."
+    mct "也许下次吧。"
 

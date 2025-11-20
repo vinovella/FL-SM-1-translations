@@ -8,11 +8,8 @@
     old "Rejected Characters"
     new "Personnages rejetés"
 
-#Translate by BlackViper_
-
-translate french strings:
-
     # game/code/renpy/screens/vn_mode.rpy:114
     old "Open Laptop"
-    new "Open Laptop"
+    new "Ouvrir l'ordinateur portable"
 
+#Translate by BlackViper_

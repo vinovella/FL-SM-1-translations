@@ -602,7 +602,7 @@ translate french sm1cs_sy003_sex_6e8ae101:
 translate french sm1cs_sy003_sex_57bd29e8:
 
     # sy "Holding me while you fuck-fhuaaah."
-    sy "Me tenant pendant que tu me baises—fhuaaah..."
+    sy "Me tenant pendant que tu me baises...fhuaaah..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:438
 translate french sm1cs_sy003_sex_99403aff:
@@ -614,7 +614,7 @@ translate french sm1cs_sy003_sex_99403aff:
 translate french sm1cs_sy003_sex_ebd1a428:
 
     # sy "I said. 'While you fuck-oouhwaaah!''"
-    sy "J’ai dit... ‘Pendant que tu me baises—oouhwaaah !’"
+    sy "J’ai dit... ‘Pendant que tu me baises...oouhwaaah !’"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:442
 translate french sm1cs_sy003_sex_8c2c1b35:

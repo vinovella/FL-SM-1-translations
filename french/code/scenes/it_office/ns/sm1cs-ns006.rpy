@@ -716,7 +716,7 @@ translate french sm1cs_ns006_later_7e66b35e:
 translate french sm1cs_ns006_later_a62e8fff:
 
     # ns "*sleepy* Yes. I want to sleep with [mcname]."
-    ns "*ensommeillée* Oui... Je veux dormir avec [mcname]."
+    ns "*ensommeillée* Oui... Je veux dormir, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns006.rpy:461
 translate french sm1cs_ns006_later_d2b454d8:
@@ -734,7 +734,7 @@ translate french sm1cs_ns006_later_560c99a3:
 translate french sm1cs_ns006_later_87309f06:
 
     # ns "Ni-ni, [mcname]."
-    ns "Nii-nite, [mcname]."
+    ns "Nii-ni, [mcname]."
 
 translate french strings:
 

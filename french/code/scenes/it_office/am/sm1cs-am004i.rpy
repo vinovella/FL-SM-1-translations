@@ -64,6 +64,18 @@ translate french sm1cs_am004i_c3079f66:
     # am "Bye."
     am "Salut."
 
+# game/code/scenes/it_office/am/sm1cs-am004i.rpy:24
+translate french sm1cs_am004i_e2e0bcfb:
+
+    # am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
+    am "N'oublie pas, c'est du rock païen. Je veux pas t'entendre te plaindre après."
+
+# game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
+translate french sm1cs_am004i_286029a4:
+
+    # mc "Wouldn't dream of it. See you tonight."
+    mc "Même pas en rêve. À ce soir."
+
 translate french strings:
 
     # game/code/scenes/it_office/am/sm1cs-am004i.rpy:17
@@ -75,15 +87,3 @@ translate french strings:
     new "Finalement, j’ai quelque chose à faire"
 
 #Translate by BlackViper_
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:24
-translate french sm1cs_am004i_e2e0bcfb:
-
-    # am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
-    am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
-
-# game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
-translate french sm1cs_am004i_286029a4:
-
-    # mc "Wouldn't dream of it. See you tonight."
-    mc "Wouldn't dream of it. See you tonight."
-

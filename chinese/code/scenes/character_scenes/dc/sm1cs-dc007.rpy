@@ -798,11 +798,11 @@ translate chinese strings:
 translate chinese sm1cs_dc007_continue_2557068b:
 
     # dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
-    dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+    dc "你知道吗，我很好奇...你是做什么工作的，能有这么多空闲时间来绊倒我的嫌疑人？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
 translate chinese sm1cs_dc007_continue_6a0c526c:
 
     # dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
-    dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
+    dc "嗯嗯嗯，也许等你的招式不是\"人肉路障\"的时候吧。"
 

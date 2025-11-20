@@ -1304,7 +1304,7 @@ translate french sm1cs_bg003_whipping_c2e34ea6:
 translate french sm1cs_bg003_whipping_010c964a:
 
     # bg "Oh - I totally spaced we were still doing a shoot..."
-    bg "Oh — j’avais complètement oublié qu’on faisait encore un shooting..."
+    bg "Oh ... j’avais complètement oublié qu’on faisait encore un shooting..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:707
 translate french sm1cs_bg003_whipping_aa1af39d:
@@ -1322,13 +1322,13 @@ translate french sm1cs_bg003_whipping_41c21483:
 translate french sm1cs_bg003_whipping_c22bee3b:
 
     # bg "No it isn't! I need to let you know, or get your consent, or-"
-    bg "Non, si ! Je dois t’en parler, avoir ton consentement, ou—"
+    bg "Non, si ! Je dois t’en parler, avoir ton consentement, ou..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:716
 translate french sm1cs_bg003_whipping_3f962afd:
 
     # mc "Hey, hey, hey - calm down! It's not like you chaotically slipped a finger in my ass or anything."
-    mc "Hé, hé, hé — calme-toi ! C’est pas comme si t’avais glissé un doigt dans mon cul sans prévenir."
+    mc "Hé, hé, hé ... calme-toi ! C’est pas comme si t’avais glissé un doigt dans mon cul sans prévenir."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:717
 translate french sm1cs_bg003_whipping_c6eccae1:
@@ -1742,7 +1742,7 @@ translate french sm1cs_bg003_continue_a34a54ab:
 translate french sm1cs_bg003_continue_1974c0b2:
 
     # mc "Is that -nnngggpphh- understood?"
-    mc "C’est -nnngggpphh- compris ?"
+    mc "C’est... Nnnngggpphh... Compris ?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:928
 translate french sm1cs_bg003_continue_fb851558:
@@ -1766,7 +1766,7 @@ translate french sm1cs_bg003_continue_60d1e4c3:
 translate french sm1cs_bg003_continue_58623f78:
 
     # mc "Because here it cuuuuuums!"
-    mc "Parce que ça veeeeient !"
+    mc "Parce que ça viiiiieeeeent !"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:937
 translate french sm1cs_bg003_continue_0a65f255:
@@ -1932,6 +1932,10 @@ translate french strings:
     old "I'd actually prefer it if you used my name"
     new "Je préférerais que tu utilises mon prénom"
 
+    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:721
+    old "How about instead, you call me..."
+    new "Et si, à la place, tu m’appelais..."
+
     # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:723
     old "Master"
     new "Maître"
@@ -1940,23 +1944,9 @@ translate french strings:
     old "Sir"
     new "Monsieur"
 
+    # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:750
+    old "Please enter your BDSM nickname"
+    new "Entre ton surnom BDSM"
+
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:304
-translate french sm1cs_bg003_bg_appears_ad41354f:
-
-    # mc "Is it looking good?"
-    mc "Is it looking good?"
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:478
-translate french sm1cs_bg003_whipping_ad41354f:
-
-    # mc "Is it looking good?"
-    mc "Is it looking good?"
-
-# game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:610
-translate french sm1cs_bg003_whipping_afad21c7:
-
-    # mc "As long as you're comfortable with this."
-    mc "As long as you're comfortable with this."
 

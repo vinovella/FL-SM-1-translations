@@ -24,10 +24,12 @@
     old "Yeah! I'm totally free this morning, stop on by!"
     new "Ouais ! Je suis complètement libre ce matin, passe !"
 
-#Translate by BlackViper_
-translate french strings:
+    # game/code/data/chat/chat_mh.rpy:37
+    old "I'll be over in a jif"
+    new "J’arrive dans une seconde"
 
     # game/code/data/chat/chat_mh.rpy:37
     old "I'll be over in a jiff"
-    new "I'll be over in a jiff"
+    new "J'arrive dans une minute"
 
+#Translate by BlackViper_

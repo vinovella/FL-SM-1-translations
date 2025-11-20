@@ -14,7 +14,7 @@ translate french sm1cs_kv003_cc4e203d:
 translate french sm1cs_kv003_93094637:
 
     # sy "Hell yeah! S and M studios is getting its first crew member!"
-    sy "Putain ouais ! S and M Studios a enfin son premier membre de l’équipe !"
+    sy "Putain ouais ! S et M Studios a enfin son premier membre de l’équipe !"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:47
 translate french sm1cs_kv003_26cc3943:
@@ -976,23 +976,10 @@ translate french sm1cs_kv003_9c5419cb:
     # mc "Ugggggh, fine."
     mc "Ugggggh, d’accord..."
 
-#Translate by BlackViper_
-
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:290
 translate french sm1cs_kv003_51d06342:
 
     # kv "What's the next question?"
-    kv "What's the next question?"
+    kv "C'est quoi la prochaine question ?"
 
-# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:159
-translate french sm1cs_kv003_222c534c:
-
-    # kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
-    kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
-
-# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:462
-translate french sm1cs_kv003_9ac58097:
-
-    # kv "I-I-I- think I'm going to cum!"
-    kv "I-I-I- think I'm going to cum!"
-
+#Translate by BlackViper_

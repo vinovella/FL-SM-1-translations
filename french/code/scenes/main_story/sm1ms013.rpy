@@ -122,7 +122,7 @@ translate french sm1ms013_4f43e9fe:
 translate french sm1ms013_e2469418:
 
     # sy "Mmhmmmm... just some deep, hard, pound-"
-    sy "Mmhmmmm... juste du bien profond, du dur, du frap—"
+    sy "Mmhmmmm... juste du bien profond, du dur, du frap..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:83
 translate french sm1ms013_40511e6c:
@@ -152,7 +152,7 @@ translate french sm1ms013_c478c069:
 translate french sm1ms013_c05533fa:
 
     # sy "It's probably not important. I'd rather have your cock buried in my ass, pounding-"
-    sy "C’est sûrement pas important. Je préfère sentir ta bite bien enfoncée dans mon cul, en train de me défon—"
+    sy "C’est sûrement pas important. Je préfère sentir ta bite bien enfoncée dans mon cul, en train de me défon..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:96
 translate french sm1ms013_40511e6c_1:
@@ -362,7 +362,7 @@ translate french sm1ms013_2de09b4b:
 translate french sm1ms013_85599874:
 
     # my "Please, Stacy-"
-    my "S’il te plaît, Stacy—"
+    my "S’il te plaît, Stacy..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:222
 translate french sm1ms013_820212ed:
@@ -386,7 +386,7 @@ translate french sm1ms013_05500ff6:
 translate french sm1ms013_60244d5d:
 
     # my "It's nothing... [mcname], Stacy-"
-    my "Ce n’est rien... [mcname], Stacy—"
+    my "Ce n’est rien... [mcname], Stacy..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:234
 translate french sm1ms013_4c6af24b:
@@ -602,7 +602,7 @@ translate french sm1ms013_2dd4a5a8:
 translate french sm1ms013_a795f577:
 
     # mc "Wait - you... you saw it?"
-    mc "Attends — tu... tu l’as vue ?"
+    mc "Attends ... tu... tu l’as vue ?"
 
 # game/code/scenes/main_story/sm1ms013.rpy:334
 translate french sm1ms013_b9c4f24f:
@@ -884,7 +884,7 @@ translate french sm1ms013_7b37de2f:
 translate french sm1ms013_78d92bda:
 
     # sy "Oh, uhhhh, yeah! It totally is! It's just, uhm-"
-    sy "Oh, euhhhh, ouais ! Carrément ! C’est juste que, euh—"
+    sy "Oh, euhhhh, ouais ! Carrément ! C’est juste que, euh..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:467
 translate french sm1ms013_bf23f467:

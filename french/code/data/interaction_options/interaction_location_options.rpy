@@ -16,15 +16,12 @@
     old "Take Lyssa on a date"
     new "Emmener Lyssa à un rendez-vous"
 
-#Translate by BlackViper_
-
-translate french strings:
-
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Recruit Lyssa for the Sci-Fi Movie"
-    new "Recruit Lyssa for the Sci-Fi Movie"
+    new "Recruter Lyssa pour le film de science-fiction"
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Talk about going to the spa with Nari"
-    new "Talk about going to the spa with Nari"
+    new "Parler d'aller au spa avec Nari"
 
+#Translate by BlackViper_

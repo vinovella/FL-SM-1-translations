@@ -38,7 +38,7 @@ translate french sm1mv01s03_1_2f5a7b27:
 translate french sm1mv01s03_1_5459bbe3:
 
     # mc "Pirates don't really say 'hiyah'."
-    mc "Les pirates ne disent pas vraiment « hiyah »."
+    mc "Les pirates ne disent pas vraiment 'hiyah'."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:54
 translate french sm1mv01s03_1_76a1a4af:
@@ -182,7 +182,7 @@ translate french sm1mv01s03_1_f99e6316:
 translate french sm1mv01s03_1_c12aaed0:
 
     # mc "I know one way to get my creative juices flowing."
-    mc "Moi, je connais une façon de faire circuler mes « jus créatifs »."
+    mc "Moi, je connais une façon de faire circuler mes jus créatifs."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:148
 translate french sm1mv01s03_1_d286932b:

@@ -124,10 +124,10 @@ translate french q_inter_jh_5_11809067:
     # mc "Which ones?"
     mc "Lesquels ?"
 
-#Translate by BlackViper_
 # game/code/data/quick_interactions/IT_office/q-inter-jh.rpy:71
 translate french q_inter_jh_5_527d1655:
 
     # jh "A Castle of Thistles and Orchids. Anna turned me on to them."
-    jh "A Castle of Thistles and Orchids. Anna turned me on to them."
+    jh "Un château de chardons et d’orchidées. C’est Anna qui me les a fait découvrir."
 
+#Translate by BlackViper_

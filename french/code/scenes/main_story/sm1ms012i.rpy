@@ -32,7 +32,7 @@ translate french sm1ms012i_30b81d09:
 translate french sm1ms012i_d1c9fda4:
 
     # mc "Wait - really?"
-    mc "Attends — sérieusement ?"
+    mc "Attends ... sérieusement ?"
 
 # game/code/scenes/main_story/sm1ms012i.rpy:17
 translate french sm1ms012i_c79c606d:

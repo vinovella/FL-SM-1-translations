@@ -178,8 +178,6 @@ translate french q_inter_dc_11_d6858f30:
     # dc "I know this isn't the park, but keep your eyes peeled. You never know where that creep might be."
     dc "Je sais que ce n’est pas le parc, mais garde les yeux ouverts. On ne sait jamais où ce type louche pourrait traîner."
 
-#Translate by BlackViper_
-
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:136
 translate french q_inter_dc_12_757c5cb4:
 
@@ -190,101 +188,102 @@ translate french q_inter_dc_12_757c5cb4:
 translate french q_inter_dc_12_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Ouais ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:138
 translate french q_inter_dc_12_b7912968:
 
     # dc "Have you heard about the bathroom in the park?"
-    dc "Have you heard about the bathroom in the park?"
+    dc "Tu as entendu parler des toilettes du parc ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:139
 translate french q_inter_dc_12_9e3589d8:
 
     # mc "Uhm... what about it?"
-    mc "Uhm... what about it?"
+    mc "Euh... qu'est-ce qu'il y a ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:142
 translate french q_inter_dc_12_6a5c9cc7:
 
     # dc "I think one day we'll have to go and check it out."
-    dc "I think one day we'll have to go and check it out."
+    dc "Je pense qu'un jour on devra aller y jeter un œil."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:143
 translate french q_inter_dc_12_db62a37a:
 
     # dc "You know. For police work."
-    dc "You know. For police work."
+    dc "Tu sais. Pour... le travail de police."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:148
 translate french q_inter_dc_13_4af35993:
 
     # mc "Officer Callahan!"
-    mc "Officer Callahan!"
+    mc "Officier Callahan !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:149
 translate french q_inter_dc_13_3c0c267e:
 
     # dc "Yes?"
-    dc "Yes?"
+    dc "Oui ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:150
 translate french q_inter_dc_13_1f796c3d:
 
     # mc "You know, I've always loved a woman in uniform."
-    mc "You know, I've always loved a woman in uniform."
+    mc "Tu sais, j'ai toujours aimé les femmes en uniforme."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:153
 translate french q_inter_dc_13_f0a7cc79:
 
     # dc "[mcname]! Stop it, I'm at work!"
-    dc "[mcname]! Stop it, I'm at work!"
+    dc "[mcname] ! Arrête, je suis en service !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:154
 translate french q_inter_dc_13_7a05d0ac:
 
     # mc "How can I, when you look this good?"
-    mc "How can I, when you look this good?"
+    mc "Comment je peux, quand tu es aussi ravissante ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:155
 translate french q_inter_dc_13_3dc35730:
 
     # dc "Oh, you!"
-    dc "Oh, you!"
+    dc "Oh, toi alors !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:160
 translate french q_inter_dc_14_21c04b3a:
 
     # dc "You know, [mcname]..."
-    dc "You know, [mcname]..."
+    dc "Tu sais, [mcname]..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:161
 translate french q_inter_dc_14_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Ouais ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:162
 translate french q_inter_dc_14_7e89b932:
 
     # dc "I wouldn't mind staying over some night... when I don't have to work early in the morning."
-    dc "I wouldn't mind staying over some night... when I don't have to work early in the morning."
+    dc "Ça ne me dérangerait pas de passer la nuit chez toi... un soir où je ne travaille pas tôt le lendemain."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:165
 translate french q_inter_dc_14_991eb26a:
 
     # dc "As long as that's not too presumptuous!"
-    dc "As long as that's not too presumptuous!"
+    dc "Enfin... sauf si c’est trop présomptueux !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:166
 translate french q_inter_dc_14_d09610d2:
 
     # mc "I would love that, Debbie."
-    mc "I would love that, Debbie."
+    mc "J’adorerais ça, Debbie."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:167
 translate french q_inter_dc_14_9ddb8cfd:
 
     # dc "I was really hoping you'd say that."
-    dc "I was really hoping you'd say that."
+    dc "J’espérais vraiment que tu dirais ça."
 
+#Translate by BlackViper_

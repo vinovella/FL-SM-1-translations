@@ -242,7 +242,7 @@ translate french sm1cs_tl003_f59b43f0:
 translate french sm1cs_tl003_17891617:
 
     # sy "Fiiiiiine."
-    sy "Fiiiiine."
+    sy "Biiiiieeeen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:148
 translate french sm1cs_tl003_91d8a70c:
@@ -308,7 +308,7 @@ translate french sm1cs_tl003_5c2c7bcf_1:
 translate french sm1cs_tl003_a10afa28:
 
     # sy "Can you throat fuck her?"
-    sy "Tu peux la baiser à la gorge ?"
+    sy "Tu peux lui baiser la gorge ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:176
 translate french sm1cs_tl003_fc154ff0:
@@ -364,6 +364,12 @@ translate french sm1cs_tl003_in_street_ea6df87b:
     # sy "Why is there a cop parked here?"
     sy "Pourquoi y’a un flic garé ici ?"
 
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:211
+translate french sm1cs_tl003_in_street_76592468:
+
+    # tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
+    tl "Il y a quelque temps, il y a eu une explosion folle ou quelque chose comme ça ici. Après ça, les flics ont décidé de garder quelqu'un sur place, au cas où ils essaieraient encore de faire une connerie."
+
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:213
 translate french sm1cs_tl003_in_street_d3ec48b3:
 
@@ -386,13 +392,13 @@ translate french sm1cs_tl003_in_street_69379607:
 translate french sm1cs_tl003_in_street_83e87c49:
 
     # tl "Positive."
-    tl "Positive."
+    tl "Affirmatif."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:224
 translate french sm1cs_tl003_in_street_ec5bf8d4:
 
     # sy "Like, how positive?"
-    sy "Genre, à quel point positive ?"
+    sy "Genre, à quel point Affirmatif ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:226
 translate french sm1cs_tl003_in_street_5240e815:
@@ -530,7 +536,7 @@ translate french sm1cs_tl003_in_street_26549aa9:
 translate french sm1cs_tl003_in_street_ff23c1ed:
 
     # tl "I can answer them after we fuck. Speaking of, shall we get to it?"
-    tl "J’y répondrai après qu’on baise. En parlant de ça, on s’y met ?"
+    tl "J’y répondrai après une bonne baise. En parlant de ça, on s’y met ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:297
 translate french sm1cs_tl003_in_street_d55ae269:
@@ -902,7 +908,7 @@ translate french sm1cs_tl003_sex_10f917e0:
 translate french sm1cs_tl003_sex_8d3e0504:
 
     # tl "Ready to race for my {i}pink slip?{/i}"
-    tl "Prêt à courir pour gagner mon {i}pink slip{/i} ?"
+    tl "Prêt à courir pour gagner mon {i}string rose{/i} ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:504
 translate french sm1cs_tl003_sex_e36dab88:
@@ -932,12 +938,12 @@ translate french sm1cs_tl003_sex_eb9128e1:
 translate french sm1cs_tl003_sex_25b533fa:
 
     # tl "Mmmmm - you've got a good {i}stick{/i} shift, Officer."
-    tl "Mmmmm - t’as un bon {i}levier{/i}, officier."
+    tl "Mmmmm... T’as un bon {i}levier{/i}, officier."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:521
 translate french sm1cs_tl003_sex_49981f29:
 
-    # mc "Oh yeah, ooooooo - downshift as much as you want, this is incredible."
+    # mc "Oh yeah, ooooooo downshift as much as you want, this is incredible."
     mc "Oh ouais, ooooooo - rétrograde autant que tu veux, c’est incroyable."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:522
@@ -956,13 +962,13 @@ translate french sm1cs_tl003_sex_fb35951c:
 translate french sm1cs_tl003_sex_33e0c2eb:
 
     # tl "Mmmmmm, I don't need to see the road. Mmmmph - I drive by feeeeeel."
-    tl "Mmmmmm, j’ai pas besoin de voir la route. Mmmmph – je conduis au feeeeeeling."
+    tl "Mmmmmm, j’ai pas besoin de voir la route. Mmmmph... Je conduis au feeeeeeling."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:527
 translate french sm1cs_tl003_sex_88a6757e:
 
     # tl "Fuh - This is so goooood."
-    tl "Fuh – c’est tellement boooon."
+    tl "Put... C’est tellement boooon."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:530
 translate french sm1cs_tl003_sex_76ca6e9e:
@@ -974,13 +980,13 @@ translate french sm1cs_tl003_sex_76ca6e9e:
 translate french sm1cs_tl003_sex_7b710f47:
 
     # mc "Nnnng - you mean, 'Officer' [mcname], yeah?"
-    mc "Nnnng – tu veux dire « Officier [mcname] », hein ?"
+    mc "Nnnng... Tu veux dire 'Officier [mcname]', hein ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:532
 translate french sm1cs_tl003_sex_720ee4c3:
 
     # tl "Yeah - whatever - just fuuuck me!"
-    tl "Ouais - peu importe - baise-moi, putain !"
+    tl "Ouais... Peu importe - baise-moi, putain !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:536
 translate french sm1cs_tl003_sex_8d72597b:
@@ -992,7 +998,7 @@ translate french sm1cs_tl003_sex_8d72597b:
 translate french sm1cs_tl003_sex_3dabacb8:
 
     # tl "Yeah - mmmmmmnnng - yessss!"
-    tl "Ouais - mmmmmmnnng - ouiiiiii !"
+    tl "Ouais... Mmmmmmnnng... Ouiiiiii !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:538
 translate french sm1cs_tl003_sex_a98ff5a7:
@@ -1004,7 +1010,7 @@ translate french sm1cs_tl003_sex_a98ff5a7:
 translate french sm1cs_tl003_sex_1f36d05c:
 
     # tl "This isn't even high octane! Just - oooooooo - wait!"
-    tl "C’est même pas encore de l’octane élevé ! Juste - oooooooo - attends !"
+    tl "C’est même pas encore de l’octane élevé ! Juste... Oooooooo... Attends !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:542
 translate french sm1cs_tl003_sex_f42dc4c4:
@@ -1016,7 +1022,7 @@ translate french sm1cs_tl003_sex_f42dc4c4:
 translate french sm1cs_tl003_sex_8cf139ce:
 
     # mc "Gah-Goddamn, babe!"
-    mc "Gah—Putain, bébé !"
+    mc "Gah...Putain, bébé !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:551
 translate french sm1cs_tl003_sex_0b766453:
@@ -1046,7 +1052,7 @@ translate french sm1cs_tl003_sex_b9a614e1:
 translate french sm1cs_tl003_sex_68e95772:
 
     # mc "I can do that, I'll grip them like my steeri-"
-    mc "Je peux faire ça, je vais les tenir comme mon vol—"
+    mc "Je peux faire ça, je vais les tenir comme mon vol..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:559
 translate french sm1cs_tl003_sex_6c7eff67:
@@ -1064,13 +1070,13 @@ translate french sm1cs_tl003_sex_f2429ec1:
 translate french sm1cs_tl003_sex_fe583909:
 
     # mc "Oh fuuuuck, fuck Taisia!"
-    mc "Oh putaaain, baise Taisia !"
+    mc "Oh putaaain... Putain Taisia !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:571
 translate french sm1cs_tl003_sex_56ba026c:
 
     # tl "Choke meeee, hardeeer!"
-    tl "Étrangle-moiii, plus fooort !"
+    tl "Presse-moiii les seins, plus fooort !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:575
 translate french sm1cs_tl003_sex_0bcfb58d:
@@ -1088,7 +1094,7 @@ translate french sm1cs_tl003_sex_f00b9250:
 translate french sm1cs_tl003_sex_e60193ba:
 
     # mc "You know, {i}fast{/i}? Like-"
-    mc "Tu sais, {i}vite{/i} ? Comme—"
+    mc "Tu sais, {i}vite{/i} ? Comme..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:578
 translate french sm1cs_tl003_sex_56d6692c:
@@ -1106,7 +1112,7 @@ translate french sm1cs_tl003_sex_c0fa3a5a:
 translate french sm1cs_tl003_sex_1e5468a0:
 
     # tl "We should've -mmmnnnng - started with this position!"
-    tl "On aurait dû -mmmnnnng- commencer avec cette position !"
+    tl "On aurait dû... Mmmnnnng... Commencer avec cette position !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:588
 translate french sm1cs_tl003_sex_fa52f539:
@@ -1118,7 +1124,7 @@ translate french sm1cs_tl003_sex_fa52f539:
 translate french sm1cs_tl003_sex_bae80873:
 
     # mc "Fuuuhhh - whaaa?"
-    mc "Fuuuhhh – hein ?"
+    mc "Puuuttt... Hein ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:591
 translate french sm1cs_tl003_sex_2cba4f00:
@@ -1136,7 +1142,7 @@ translate french sm1cs_tl003_sex_f72a0195:
 translate french sm1cs_tl003_sex_fc3a93fa:
 
     # tl "Oh - fuuh - tha - yeeeessss!"
-    tl "Oh - fuuh - ouiii - yeeeessss !"
+    tl "Oh... Puut... Ouiii... Yeeeessss !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:598
 translate french sm1cs_tl003_sex_de0a7174:
@@ -1148,7 +1154,7 @@ translate french sm1cs_tl003_sex_de0a7174:
 translate french sm1cs_tl003_sex_a88d1dd6:
 
     # tl "Yeee - yeeeee! Fuuuh - I'm close!"
-    tl "Ouuuui - ouiiii ! Fuuuuh – je vais jouir !"
+    tl "Ouuuui... Ouiiii ! Puuuut... je vais jouir !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:602
 translate french sm1cs_tl003_sex_97d2f8ed:
@@ -1160,7 +1166,7 @@ translate french sm1cs_tl003_sex_97d2f8ed:
 translate french sm1cs_tl003_sex_60da3151:
 
     # tl "I can't - I can't -"
-    tl "Je peux pas – je peux pas –"
+    tl "Je peux pas... Je peux pas..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:604
 translate french sm1cs_tl003_sex_bab69050:
@@ -1190,13 +1196,13 @@ translate french sm1cs_tl003_sex_2af9a42d:
 translate french sm1cs_tl003_sex_end_3aca2b0d:
 
     # sy "Aaaaaand cut...{w} Holy shit that was hot."
-    sy "Aaaaaand... coupez... {w} Bordel, c’était trop chaud."
+    sy "Ettttttt... coupez... {w} Bordel, c’était trop chaud."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:636
 translate french sm1cs_tl003_sex_end_9adb5b1c:
 
     # mc "Fuck, you're telling me."
-    mc "Putain, tu m’en parles pas."
+    mc "Putain, m’en parles pas."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:640
 translate french sm1cs_tl003_sex_end_0fb10c0b:
@@ -1268,7 +1274,7 @@ translate french sm1cs_tl003_sex_end_e744f0f3:
 translate french sm1cs_tl003_sex_end_bc1bf114:
 
     # tl "All cleaned, now let's-"
-    tl "C’est tout propre, maintenant on peut—"
+    tl "C’est tout propre, maintenant on peut..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:680
 translate french sm1cs_tl003_sex_end_9a38998b:
@@ -1276,11 +1282,17 @@ translate french sm1cs_tl003_sex_end_9a38998b:
     # tl "Oh shit! Get down!"
     tl "Oh merde ! Planquez-vous !"
 
+# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:691
+translate french sm1cs_tl003_sex_end_b82ee33e:
+
+    # tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
+    tl "La ferme, [mcname]. Personne ne va en prison aujourd'hui. Reste tranquille et suis-moi !"
+
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:696
 translate french sm1cs_tl003_sex_end_972dc55f:
 
     # mc "Oh no, oh no - I'm too handsome to go to jail!"
-    mc "Oh non, non, non – je suis bien trop canon pour finir en taule !"
+    mc "Oh non, non, non... Je suis bien trop canon pour finir en taule !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:749
 translate french sm1cs_tl003_sex_end_2aba6cf1:
@@ -1395,16 +1407,4 @@ translate french strings:
     new "Tu as donné 100 $ à Taisia pour le tournage"
 
 #Translate by BlackViper_
-
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:211
-translate french sm1cs_tl003_in_street_76592468:
-
-    # tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
-    tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
-
-# game/code/scenes/theatre/tl/sm1cs-tl003.rpy:691
-translate french sm1cs_tl003_sex_end_b82ee33e:
-
-    # tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
-    tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
 

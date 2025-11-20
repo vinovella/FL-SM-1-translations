@@ -37,8 +37,8 @@ translate french sm1ms011_02i_7abf0022:
 # game/code/scenes/main_story/sm1ms011-02i.rpy:18
 translate french sm1ms011_02i_a83106ff:
 
-    # mc "There's Nari. She's super smart and eager—almost too eager. She's already memorized the employee handbook."
-    mc "Il y a Nari. Elle est super intelligente et motivée — presque trop. Elle a déjà mémorisé le manuel de l’employé."
+    # mc "There's Nari. She's super smart and eager...almost too eager. She's already memorized the employee handbook."
+    mc "Il y a Nari. Elle est super intelligente et motivée ... presque trop. Elle a déjà mémorisé le manuel de l’employé."
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:22
 translate french sm1ms011_02i_50cce48f:
@@ -236,7 +236,7 @@ translate french sm1ms011_02i_a64e8bc0:
 translate french sm1ms011_02i_f6a4d2f5:
 
     # sy "Well at least you're kind of 'in'. So that must mean you still met some of the girls there."
-    sy "Eh bien, au moins, t’es un peu ‘dans le coup’. Donc j’imagine que t’as quand même rencontré quelques filles là-bas."
+    sy "Eh bien, au moins, t’es un peu 'dans le coup'. Donc j’imagine que t’as quand même rencontré quelques filles là-bas."
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:92
 translate french sm1ms011_02i_788b4255:
@@ -292,16 +292,17 @@ translate french sm1ms011_02i_e0d93906:
     # mc "That's the plan."
     mc "C’est le plan."
 
-#Translate by BlackViper_
 # game/code/scenes/main_story/sm1ms011-02i.rpy:107
 translate french sm1ms011_02i_135ba797:
 
     # mc "Hahah. We'll see."
-    mc "Hahah. We'll see."
+    mc "Hahaha. On verra."
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:112
 translate french sm1ms011_02i_d8e756d5:
 
     # sy "But I'm sure if you want to get one of these actresses to join us, you'll have to get on stage yourself."
-    sy "But I'm sure if you want to get one of these actresses to join us, you'll have to get on stage yourself."
+    sy "Mais je suis sûre que si tu veux convaincre une de ces actrices de nous rejoindre, tu devras monter sur scène toi-même."
+
+#Translate by BlackViper_
 

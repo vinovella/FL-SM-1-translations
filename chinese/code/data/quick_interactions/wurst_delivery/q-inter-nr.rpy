@@ -188,11 +188,11 @@ translate chinese q_inter_nr_18_636f1bcd:
 translate chinese q_inter_nr_4_9ff4a03c:
 
     # nr "Pull my wiener. Heh heh."
-    nr "Pull my wiener. Heh heh."
+    nr "拉我的香肠。嘿嘿。"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:93
 translate chinese q_inter_nr_10_6f8406ed:
 
     # nr "Let it rip, kid! Get out there and show those wieners who's boss."
-    nr "Let it rip, kid! Get out there and show those wieners who's boss."
+    nr "放手去做，孩子！出去告诉那些香肠谁才是老大。"
 

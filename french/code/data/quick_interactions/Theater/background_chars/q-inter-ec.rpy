@@ -192,9 +192,3 @@ translate french q_inter_ec_7_bc229872:
 
 #Translate by BlackViper_
 
-# game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:22
-translate french q_inter_ec_1_7a965d97:
-
-    # ec "Well she works a lot better with a good coffee."
-    ec "Well she works a lot better with a good coffee."
-

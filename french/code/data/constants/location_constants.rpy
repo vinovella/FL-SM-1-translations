@@ -44,185 +44,185 @@
     old "Lyssa's House"
     new "Maison de Lyssa"
 
-#Translate by BlackViper_
-
-translate french strings:
+    # game/code/data/constants/location_constants.rpy:194
+    old "Guns n' Rossette's"
+    new "Guns n' Rossette's"
 
     # game/code/data/constants/location_constants.rpy:5
     old "Overview"
-    new "Overview"
+    new "Aperçu"
 
     # game/code/data/constants/location_constants.rpy:6
     old "Kitchen"
-    new "Kitchen"
+    new "Cuisine"
 
     # game/code/data/constants/location_constants.rpy:8
     old "Outside"
-    new "Outside"
+    new "Extérieur"
 
     # game/code/data/constants/location_constants.rpy:9
     old "Bathroom"
-    new "Bathroom"
+    new "Salle de bain"
 
     # game/code/data/constants/location_constants.rpy:10
     old "Entrance"
-    new "Entrance"
+    new "Entrée"
 
     # game/code/data/constants/location_constants.rpy:11
     old "Corridor"
-    new "Corridor"
+    new "Couloir"
 
     # game/code/data/constants/location_constants.rpy:12
     old "Couch Area"
-    new "Couch Area"
+    new "Espace canapé"
 
     # game/code/data/constants/location_constants.rpy:13
     old "Counter"
-    new "Counter"
+    new "Comptoir"
 
     # game/code/data/constants/location_constants.rpy:21
     old "Mattress Area"
-    new "Mattress Area"
+    new "Zone matelas"
 
     # game/code/data/constants/location_constants.rpy:22
     old "Corner Couch"
-    new "Corner Couch"
+    new "Canapé d’angle"
 
     # game/code/data/constants/location_constants.rpy:24
     old "Bathroom Door"
-    new "Bathroom Door"
+    new "Porte de la salle de bain"
 
     # game/code/data/constants/location_constants.rpy:26
     old "TV Area"
-    new "TV Area"
+    new "Coin TV"
 
     # game/code/data/constants/location_constants.rpy:28
     old "Stairs"
-    new "Stairs"
+    new "Escaliers"
 
     # game/code/data/constants/location_constants.rpy:36
     old "Upstairs Bed"
-    new "Upstairs Bed"
+    new "Lit à l’étage"
 
     # game/code/data/constants/location_constants.rpy:41
     old "Nari's Room"
-    new "Nari's Room"
+    new "Chambre de Nari"
 
     # game/code/data/constants/location_constants.rpy:43
     old "Taisia's Room"
-    new "Taisia's Room"
+    new "Chambre de Taisia"
 
     # game/code/data/constants/location_constants.rpy:45
     old "Min's Room"
-    new "Min's Room"
+    new "Chambre de Min"
 
     # game/code/data/constants/location_constants.rpy:54
     old "Waiting Area"
-    new "Waiting Area"
+    new "Zone d’attente"
 
     # game/code/data/constants/location_constants.rpy:68
     old "Claire's desk"
-    new "Claire's desk"
+    new "Bureau de Claire"
 
     # game/code/data/constants/location_constants.rpy:70
     old "Work Desks"
-    new "Work Desks"
+    new "Bureaux de travail"
 
     # game/code/data/constants/location_constants.rpy:72
     old "Your desk"
-    new "Your desk"
+    new "Ton bureau"
 
     # game/code/data/constants/location_constants.rpy:74
     old "Beanbag Area"
-    new "Beanbag Area"
+    new "Espace poufs"
 
     # game/code/data/constants/location_constants.rpy:77
     old "Meeting room"
-    new "Meeting room"
+    new "Salle de réunion"
 
     # game/code/data/constants/location_constants.rpy:90
     old "Fountain Area"
-    new "Fountain Area"
+    new "Zone de la fontaine"
 
     # game/code/data/constants/location_constants.rpy:92
     old "Hotdog stall"
-    new "Hotdog stall"
+    new "Stand de hot-dogs"
 
     # game/code/data/constants/location_constants.rpy:94
     old "Park Center"
-    new "Park Center"
+    new "Centre du parc"
 
     # game/code/data/constants/location_constants.rpy:96
     old "Park Fork"
-    new "Park Fork"
+    new "Croisement du parc"
 
     # game/code/data/constants/location_constants.rpy:98
     old "Toilets"
-    new "Toilets"
+    new "Toilettes"
 
     # game/code/data/constants/location_constants.rpy:100
     old "Park Exit"
-    new "Park Exit"
+    new "Sortie du parc"
 
     # game/code/data/constants/location_constants.rpy:107
     old "Fridges"
-    new "Fridges"
+    new "Frigos"
 
     # game/code/data/constants/location_constants.rpy:117
     old "Shooting Area"
-    new "Shooting Area"
+    new "Zone de tournage"
 
     # game/code/data/constants/location_constants.rpy:134
     old "Corridor Entrance"
-    new "Corridor Entrance"
+    new "Entrée du couloir"
 
     # game/code/data/constants/location_constants.rpy:139
     old "Backstage"
-    new "Backstage"
+    new "Coulisses"
 
     # game/code/data/constants/location_constants.rpy:143
     old "Stage Entrance"
-    new "Stage Entrance"
+    new "Entrée de la scène"
 
     # game/code/data/constants/location_constants.rpy:145
     old "Stage Front"
-    new "Stage Front"
+    new "Avant-scène"
 
     # game/code/data/constants/location_constants.rpy:147
     old "Stage Seats"
-    new "Stage Seats"
+    new "Sièges de la scène"
 
     # game/code/data/constants/location_constants.rpy:149
     old "Dressing Room 1"
-    new "Dressing Room 1"
+    new "Loge 1"
 
     # game/code/data/constants/location_constants.rpy:151
     old "Dressing Room 2"
-    new "Dressing Room 2"
+    new "Loge 2"
 
     # game/code/data/constants/location_constants.rpy:153
     old "Director's Office"
-    new "Director's Office"
+    new "Bureau du directeur"
 
     # game/code/data/constants/location_constants.rpy:155
     old "Storage Entrance"
-    new "Storage Entrance"
+    new "Entrée du stockage"
 
     # game/code/data/constants/location_constants.rpy:161
     old "Showers Entrance"
-    new "Showers Entrance"
+    new "Entrée des douches"
 
     # game/code/data/constants/location_constants.rpy:165
     old "Locker Room"
-    new "Locker Room"
+    new "Vestiaire"
 
     # game/code/data/constants/location_constants.rpy:173
     old "Seating Area"
-    new "Seating Area"
+    new "Zone d’assise"
 
     # game/code/data/constants/location_constants.rpy:176
     old "Toilet"
-    new "Toilet"
+    new "Toilette"
 
     # game/code/data/constants/location_constants.rpy:188
     old "Guns n' Rosette"
@@ -230,7 +230,7 @@ translate french strings:
 
     # game/code/data/constants/location_constants.rpy:192
     old "Billiard Area"
-    new "Billiard Area"
+    new "Zone billard"
 
     # game/code/data/constants/location_constants.rpy:195
     old "Bar"
@@ -238,15 +238,6 @@ translate french strings:
 
     # game/code/data/constants/location_constants.rpy:197
     old "Stage Area"
-    new "Stage Area"
+    new "Zone de scène"
 
-translate french strings:
-
-    # game/code/data/constants/location_constants.rpy:155
-    old "Storage Room"
-    new "Storage Room"
-
-    # game/code/data/constants/location_constants.rpy:161
-    old "Showers"
-    new "Showers"
-
+#Translate by BlackViper_

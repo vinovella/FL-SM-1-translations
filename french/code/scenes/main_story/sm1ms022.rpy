@@ -110,7 +110,7 @@ translate french sm1ms022_ef670d68:
 translate french sm1ms022_8c8b74be:
 
     # kv "Hey-"
-    kv "Hé—"
+    kv "Hé..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:133
 translate french sm1ms022_271b8e2c:
@@ -122,7 +122,7 @@ translate french sm1ms022_271b8e2c:
 translate french sm1ms022_9c0d6c62:
 
     # mc "Kanya-"
-    mc "Kanya—"
+    mc "Kanya..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:139
 translate french sm1ms022_3527addd:
@@ -200,7 +200,7 @@ translate french sm1ms022_8ae5fa75:
 translate french sm1ms022_b30d4041:
 
     # mc "What do you mean, come on?"
-    mc "Qu’est-ce que tu veux dire, « allez » ?"
+    mc "Qu’est-ce que tu veux dire, allez ?"
 
 # game/code/scenes/main_story/sm1ms022.rpy:172
 translate french sm1ms022_c72a3109:
@@ -356,7 +356,7 @@ translate french sm1ms022_241deef6:
 translate french sm1ms022_339d5b33:
 
     # sy "And are you okay to call action and cut, Kanya?"
-    sy "Et ça te va de gérer les « action » et « coupez », Kanya ?"
+    sy "Et ça te va de gérer les action et coupez, Kanya ?"
 
 # game/code/scenes/main_story/sm1ms022.rpy:245
 translate french sm1ms022_fa166858:
@@ -428,19 +428,19 @@ translate french sm1ms022_5ff957c6:
 translate french sm1ms022_be305707:
 
     # kv "Why don't you go with...{w} ma'am?"
-    kv "Pourquoi tu ne dirais pas...{w} « madame » ?"
+    kv "Pourquoi tu ne dirais pas...{w} madame?"
 
 # game/code/scenes/main_story/sm1ms022.rpy:290
 translate french sm1ms022_525ff588:
 
     # sy "Oooo, yeah.{w} Go with ma'am, I like that."
-    sy "Oooo, ouais.{w} Va pour « madame », j’aime bien."
+    sy "Oooo, ouais.{w} Va pour madame, j’aime bien."
 
 # game/code/scenes/main_story/sm1ms022.rpy:292
 translate french sm1ms022_e5c6af7e:
 
     # mc "All right, ma'am works for me."
-    mc "Très bien, « madame » me va."
+    mc "Très bien, madame me va."
 
 # game/code/scenes/main_story/sm1ms022.rpy:296
 translate french sm1ms022_f9f06ccf:
@@ -860,7 +860,7 @@ translate french sm1ms022_c8666902:
 translate french sm1ms022_cad96834:
 
     # mc "Oh Goood, ma'am, nnnnngggggg-"
-    mc "Oh mon dieu, madame, nnnnngggggg—"
+    mc "Oh mon dieu, madame, nnnnngggggg..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:537
 translate french sm1ms022_126edabe:
@@ -1022,19 +1022,19 @@ translate french sm1ms022_214887d9:
 translate french sm1ms022_94ffaca5:
 
     # sy "Because I'm-"
-    sy "Parce que je suis—"
+    sy "Parce que je suis..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:615
 translate french sm1ms022_da5cd6e5:
 
     # sy "Oh golly, I'm a gonna'-"
-    sy "Oh putain, je vais—"
+    sy "Oh putain, je vais..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:616
 translate french sm1ms022_ab90d743:
 
     # sy "Have so much fun, I'm a gonna'-"
-    sy "Prendre tellement mon pied, je vais—"
+    sy "Prendre tellement mon pied, je vais..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:617
 translate french sm1ms022_57b041e8:
@@ -1046,7 +1046,7 @@ translate french sm1ms022_57b041e8:
 translate french sm1ms022_9033e9fd:
 
     # mc "Oh are you about to-"
-    mc "Oh, tu vas—"
+    mc "Oh, tu vas..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:622
 translate french sm1ms022_b030ae00:
@@ -1058,7 +1058,7 @@ translate french sm1ms022_b030ae00:
 translate french sm1ms022_0d71e0dd:
 
     # sy "Oh, I'm-"
-    sy "Oh, je—"
+    sy "Oh, je..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:627
 translate french sm1ms022_0ca5e03f:
@@ -1070,7 +1070,7 @@ translate french sm1ms022_0ca5e03f:
 translate french sm1ms022_8d07015c:
 
     # mc "Oh boy, miss-"
-    mc "Oh bordel, m’dame—"
+    mc "Oh bordel, m’dame..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:633
 translate french sm1ms022_eb1e900b:
@@ -1238,7 +1238,7 @@ translate french sm1ms022_51c9ff3a:
 translate french sm1ms022_3728f99f:
 
     # sy "Ohhh myyyyyyy-"
-    sy "Ohhh mooooon dieuuuuu—"
+    sy "Ohhh mooooon dieuuuuu..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:715
 translate french sm1ms022_37c0a93f:
@@ -1262,7 +1262,7 @@ translate french sm1ms022_cdc60c52:
 translate french sm1ms022_c0359de4:
 
     # sy "Oh my goooodness, I've never -"
-    sy "Oh mon dieuuuuu, je n’ai jamais—"
+    sy "Oh mon dieuuuuu, je n’ai jamais..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:723
 translate french sm1ms022_1d180114:
@@ -1304,13 +1304,13 @@ translate french sm1ms022_801eb992:
 translate french sm1ms022_681dec9f:
 
     # sy "If you keep going like that, I'm gonna-"
-    sy "Si tu continues comme ça, je vais—"
+    sy "Si tu continues comme ça, je vais..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:737
 translate french sm1ms022_46a0034d:
 
     # sy "Oh, I'm already soooo close, Farmhand Jon! I feel another or-or- ohhhhh yesssssss!"
-    sy "Oh, je suis déjà si près, Fermier Jon ! Je sens que je vais encore— oh ouiiiiiiiii !"
+    sy "Oh, je suis déjà si près, Fermier Jon ! Je sens que je vais encore... oh ouiiiiiiiii !"
 
 # game/code/scenes/main_story/sm1ms022.rpy:738
 translate french sm1ms022_4cf68077:
@@ -1328,7 +1328,7 @@ translate french sm1ms022_1fa73418:
 translate french sm1ms022_1044e3c0:
 
     # sy "You just gotta'-"
-    sy "Tu dois juste—"
+    sy "Tu dois juste..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:745
 translate french sm1ms022_8adf5b08:
@@ -1346,7 +1346,7 @@ translate french sm1ms022_91468d23:
 translate french sm1ms022_9f6fb409:
 
     # mc "I ain't got much longer-"
-    mc "Je tiendrai pas longtemps—"
+    mc "Je tiendrai pas longtemps..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:750
 translate french sm1ms022_32885b40:
@@ -1358,7 +1358,7 @@ translate french sm1ms022_32885b40:
 translate french sm1ms022_484a8973:
 
     # sy "ANd you can- oh LAAAWDDDDD - I'm sooo close!"
-    sy "Et tu peux— oh mon dieuuuuu – je suis siii prèèès !"
+    sy "Et tu peux... oh mon dieuuuuu – je suis siii prèèès !"
 
 # game/code/scenes/main_story/sm1ms022.rpy:754
 translate french sm1ms022_db66535b:
@@ -1532,7 +1532,7 @@ translate french sm1ms022_ba55b433:
 translate french sm1ms022_c082cc9d:
 
     # kv "But you don't really need to check it anymore, because you'd see it on the screen."
-    kv "Mais maintenant, c’est plus nécessaire — on le voit directement à l’écran."
+    kv "Mais maintenant, c’est plus nécessaire ... on le voit directement à l’écran."
 
 # game/code/scenes/main_story/sm1ms022.rpy:838
 translate french sm1ms022_0948ddeb:

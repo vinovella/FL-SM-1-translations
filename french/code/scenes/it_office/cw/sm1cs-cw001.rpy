@@ -116,7 +116,7 @@ translate french sm1cs_cw001_am_convo_af0cefa2:
 translate french sm1cs_cw001_am_convo_6f3d4433:
 
     # mc "Wait. Now I can-"
-    mc "Attends. Là je peux—"
+    mc "Attends. Là je peux..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:95
 translate french sm1cs_cw001_am_convo_5a588930:
@@ -670,6 +670,12 @@ translate french sm1cs_cw001_end_convo_606e2d02:
     # mc "Sure."
     mc "D’accord."
 
+# game/code/scenes/it_office/cw/sm1cs-cw001.rpy:294
+translate french sm1cs_cw001_end_convo_c4aa9c65:
+
+    # mc "Did Orbix have some trouble with inter-office relationships in the past?"
+    mc "Orbix a déjà eu des problèmes avec des relations entre collègues dans le passé ?"
+
 translate french strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:40
@@ -721,10 +727,4 @@ translate french strings:
     new "Être en désaccord avec Claire"
 
 #Translate by BlackViper_
-
-# game/code/scenes/it_office/cw/sm1cs-cw001.rpy:294
-translate french sm1cs_cw001_end_convo_c4aa9c65:
-
-    # mc "Did Orbix have some trouble with inter-office relationships in the past?"
-    mc "Did Orbix have some trouble with inter-office relationships in the past?"
 

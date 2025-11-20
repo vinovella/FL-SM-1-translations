@@ -56,7 +56,7 @@ translate french sm1ms002_t_c82a9bba:
 translate french sm1ms002_t_23f193f3:
 
     # sy "I mean, even if you've practiced deepthroating THAT and you had an enema there should be some hesitation."
-    sy "Je veux dire, même si t'as pratiqué à t'enfoncer un truc pareil et que t'as pris un lavement, y devrait quand même y avoir un peu d'hésitation."
+    sy "Je veux dire, même si t'as pratiqué à t'enfoncer un truc pareil et que t'as fais un lavement, y devrait quand même y avoir un peu d'hésitation."
 
 # game/code/scenes/main_story/sm1ms002_t.rpy:27
 translate french sm1ms002_t_6c741b8b:

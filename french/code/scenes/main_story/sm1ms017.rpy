@@ -664,22 +664,23 @@ translate french sm1ms017_end_298609cd:
     # my "Your focus is very impressive for some millennials."
     my "Votre concentration est impressionnante pour des jeunes de votre génération."
 
-#Translate by BlackViper_
 # game/code/scenes/main_story/sm1ms017.rpy:379
 translate french sm1ms017_317bedb5:
 
     # mc "What will we do if Melony comes back?"
-    mc "What will we do if Melony comes back?"
+    mc "Qu'est-ce qu'on fera si Melony revient ?"
 
 # game/code/scenes/main_story/sm1ms017.rpy:415
 translate french sm1ms017_869ad7f6:
 
     # mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
-    mc "Well, if Mom is in a two-block radius, she definitely heard you cumming."
+    mc "Eh bien, si Maman est dans un rayon de deux pâtés de maisons, elle t’a clairement entendue jouir."
 
 # game/code/scenes/main_story/sm1ms017.rpy:451
 translate french sm1ms017_f46b669d_1:
 
     # mc "*chuckles*"
-    mc "*chuckles*"
+    mc "*ricane*"
+
+#Translate by BlackViper_
 

@@ -62,7 +62,7 @@ translate french sm1cs_ag003_e0dd96dd:
 translate french sm1cs_ag003_0f786908:
 
     # mc "So, uh, what are you working on? Bug checking, or-"
-    mc "Alors, euh, tu bosses sur quoi ? Du débogage, ou—"
+    mc "Alors, euh, tu bosses sur quoi ? Du débogage, ou..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:53
 translate french sm1cs_ag003_773a88e1:
@@ -128,7 +128,7 @@ translate french sm1cs_ag003_b6bd8a00:
 translate french sm1cs_ag003_47925ada:
 
     # mc "Uhm, sure-"
-    mc "Euh, oui—"
+    mc "Euh, oui..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:87
 translate french sm1cs_ag003_794e211d:
@@ -530,7 +530,7 @@ translate french sm1cs_ag003_8879a28a:
 translate french sm1cs_ag003_b71f0e74:
 
     # mct "There's probably something on her laptop-"
-    mct "Il y a sûrement quelque chose sur son ordi—"
+    mct "Il y a sûrement quelque chose sur son ordi..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:286
 translate french sm1cs_ag003_f85e849a:
@@ -590,7 +590,7 @@ translate french sm1cs_ag003_f727b063:
 translate french sm1cs_ag003_4090725e:
 
     # mct "If it's just the smut... this might be a dead-"
-    mct "Si c’est juste du cul... ça doit être une impa—"
+    mct "Si c’est juste du cul... ça doit être une impa..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:314
 translate french sm1cs_ag003_f419bd54:
@@ -674,7 +674,7 @@ translate french sm1cs_ag003_a24738a2:
 translate french sm1cs_ag003_3d26a787:
 
     # mct "Wait, the recluse... he's watching her. He's watching her lust, and-"
-    mct "Attends, le reclus... il la regarde. Il observe son désir, et—"
+    mct "Attends, le reclus... il la regarde. Il observe son désir, et..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:347
 translate french sm1cs_ag003_b076b8cf:
@@ -698,7 +698,7 @@ translate french sm1cs_ag003_fd577c7b:
 translate french sm1cs_ag003_39d0833d:
 
     # mct "Oh shit! Anna's coming back! Shit, I need to-"
-    mct "Oh merde ! Anna revient ! Merde, faut que je—"
+    mct "Oh merde ! Anna revient ! Merde, faut que je..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:359
 translate french sm1cs_ag003_58fc9e6f:
@@ -808,11 +808,10 @@ translate french sm1cs_ag003_353fb300:
     # mct "In the meantime... I wonder what the hot recluse is going to do now that he's seen Magnolia fingering herself..."
     mct "En attendant... je me demande ce que le reclus sexy va faire maintenant qu’il a vu Magnolia se doigter..."
 
-#Translate by BlackViper_
-
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:252
 translate french sm1cs_ag003_e50bff0e:
 
     # ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
-    ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
+    ag "Merci ! Ça fait un moment que j'ai besoin d'aller aux toilettes, mais je déteste laisser mes affaires sans surveillance. Je reviens tout de suite !"
 
+#Translate by BlackViper_

@@ -82,16 +82,16 @@ translate french q_inter_mj_4_fe961654:
     # mj "Drats. I was hoping you would..."
     mj "Zut. J’espérais que tu saurais..."
 
-#Translate by BlackViper_
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:16
 translate french q_inter_mj_1_e906923a:
 
     # mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
-    mj "[mcname], are you participating in this bet on who will have less errors, Anna or April?"
+    mj "[mcname], tu participes au pari pour savoir qui aura le moins d’erreurs, Anna ou April ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:40
 translate french q_inter_mj_3_eadd033a:
 
     # mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
-    mj "Actually, I'll just talk to Anna about it! See if she can get April to surrender hers too."
+    mj "En fait, je vais juste en parler à Anna ! Voir si elle peut convaincre April d’abandonner aussi."
 
+#Translate by BlackViper_

@@ -44,7 +44,7 @@ translate french sm1cs_kv004_1i_62312871:
 translate french sm1cs_kv004_1i_d3621aad:
 
     # mc "And I was wondering if-"
-    mc "Et je me demandais si—"
+    mc "Et je me demandais si..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004_1i.rpy:28
 translate french sm1cs_kv004_1i_0f342b24:

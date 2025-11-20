@@ -308,7 +308,7 @@ translate french sm1cs_ns011_a44d6c0a:
 translate french sm1cs_ns011_2055c64a:
 
     # mc "That's not. When I said strikes you-"
-    mc "Ce n’est pas… Quand j’ai dit “si l’envie te frappe”—"
+    mc "Ce n’est pas… Quand j’ai dit “si l’envie te frappe”..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:198
 translate french sm1cs_ns011_d389dcd8:
@@ -1147,10 +1147,4 @@ translate french strings:
     new "Tu es sûr que ça ne te dérange pas ?"
 
 #Translate by BlackViper_
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:112
-translate french sm1cs_ns011_a266d0ee:
-
-    # ns "Sugar Daddies love to play with their Good Girls..."
-    ns "Sugar Daddies love to play with their Good Girls..."
 

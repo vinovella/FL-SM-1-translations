@@ -1052,5 +1052,5 @@ translate chinese strings:
 translate chinese sm1cs_arj003_05e6e8bd:
 
     # arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
-    arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
+    arj "感觉我们好久没有这样单纯地出来玩了。{w}没有狗血剧情。{w}没有负担。"
 

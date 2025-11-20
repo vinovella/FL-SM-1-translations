@@ -92,7 +92,7 @@ translate french sm1cs_tl005_46dbdd82:
 translate french sm1cs_tl005_81208e93:
 
     # mc "Oh shit... I am so sorry, Taisia. I didn't mean to-"
-    mc "Oh merde... désolé, Taisia. J’voulais pas—"
+    mc "Oh merde... désolé, Taisia. J’voulais pas..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:75
 translate french sm1cs_tl005_00a055be:
@@ -158,7 +158,7 @@ translate french sm1cs_tl005_4d8996ad:
 translate french sm1cs_tl005_b1d63f6f:
 
     # mc "Wait - hang on!"
-    mc "Attends — minute !"
+    mc "Attends ... minute !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:121
 translate french sm1cs_tl005_1f552253:
@@ -176,7 +176,7 @@ translate french sm1cs_tl005_4a89a67b:
 translate french sm1cs_tl005_3a1717eb:
 
     # mc "What-"
-    mc "Quoi—"
+    mc "Quoi..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:132
 translate french sm1cs_tl005_034153d2:
@@ -200,7 +200,7 @@ translate french sm1cs_tl005_1241a836:
 translate french sm1cs_tl005_c9c2e027:
 
     # mc "What the hell-"
-    mc "C’est quoi ce bordel—"
+    mc "C’est quoi ce bordel..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:144
 translate french sm1cs_tl005_b6924f54:
@@ -278,7 +278,7 @@ translate french sm1cs_tl005_c98e48e8:
 translate french sm1cs_tl005_ef737236:
 
     # tl "[mcname]-"
-    tl "[mcname] —"
+    tl "[mcname] ..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:196
 translate french sm1cs_tl005_88a9073a:

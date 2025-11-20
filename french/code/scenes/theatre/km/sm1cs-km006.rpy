@@ -421,8 +421,8 @@ translate french sm1cs_km006_after_menu_fdec830c:
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:324
 translate french sm1cs_km006_after_menu_68f76220:
 
-    # km "I really want to impress Denise with my blocking—"
-    km "Je veux vraiment impressionner Denise avec mon placement —"
+    # km "I really want to impress Denise with my blocking..."
+    km "Je veux vraiment impressionner Denise avec mon placement ..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:326
 translate french sm1cs_km006_after_menu_17c55c75:
@@ -577,8 +577,8 @@ translate french sm1cs_km006_after_menu_3b0a8039:
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:389
 translate french sm1cs_km006_after_menu_e2fc5f30:
 
-    # vs "You call the shots—pun very intended."
-    vs "C’est toi qui décides — le jeu de mots est totalement voulu."
+    # vs "You call the shots...pun very intended."
+    vs "C’est toi qui décides ... le jeu de mots est totalement voulu."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:395
 translate french sm1cs_km006_after_menu_fa4a52ad:
@@ -662,7 +662,7 @@ translate french sm1cs_km006_dressing_room_b660c5cc:
 translate french sm1cs_km006_dressing_room_6bc61ae4:
 
     # vs "It is kind of your 'get out of jail' card."
-    vs "C’est en quelque sorte ta carte « sors‑toi d’affaire »."
+    vs "C’est en quelque sorte ta carte 'sors‑toi d’affaire '."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:445
 translate french sm1cs_km006_dressing_room_c7a72865:
@@ -733,8 +733,8 @@ translate french sm1cs_km006_dressing_room_532d5691:
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:470
 translate french sm1cs_km006_dressing_room_5858e391:
 
-    # mc "You're all-in, all the time.{w} And it shows. You don't act—{w} you live the part."
-    mc "Tu t’investis toujours à fond. {w} Et ça se voit. Tu ne joues pas un rôle — {w} tu le vis."
+    # mc "You're all-in, all the time.{w} And it shows. You don't act...{w} you live the part."
+    mc "Tu t’investis toujours à fond. {w} Et ça se voit. Tu ne joues pas un rôle ... {w} tu le vis."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:471
 translate french sm1cs_km006_dressing_room_e39aefe4:
@@ -1478,7 +1478,7 @@ translate french sm1cs_km006_after_td_016fe108:
 translate french sm1cs_km006_after_td_e6e3010f:
 
     # vs "Now you can \"like\" my body in person, Kellie."
-    vs "Maintenant, tu peux « liker » mon corps en vrai, Kellie."
+    vs "Maintenant, tu peux \"liker\" mon corps en vrai, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:807
 translate french sm1cs_km006_after_td_73da43db:
@@ -1826,7 +1826,7 @@ translate french sm1cs_km006_sex_2eb519e9:
 translate french sm1cs_km006_sex_620242f8:
 
     # km "I've never- Ooouhah."
-    km "Je n’ai jamais— Ooouhah."
+    km "Je n’ai jamais... Ooouhah."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:961
 translate french sm1cs_km006_sex_18a23515:
@@ -1916,7 +1916,7 @@ translate french sm1cs_km006_sex_79f6365b:
 translate french sm1cs_km006_sex_0180fb95:
 
     # km "Oh my god.{w} Veronica-fhuraah."
-    km "Oh mon dieu.{w} Veronica—fhuraah."
+    km "Oh mon dieu.{w} Veronica...fhuraah."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1017
 translate french sm1cs_km006_sex_eaf144ac:
@@ -2029,7 +2029,7 @@ translate french sm1cs_km006_sex_5519c08c:
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1074
 translate french sm1cs_km006_sex_a373db51:
 
-    # km "*heavy breathing*"
+    # km "*respiration lourde*"
     km "*respiration haletante*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1077
@@ -2672,7 +2672,7 @@ translate french sm1cs_km006_sex_0c3d7bb9:
 translate french sm1cs_km006_sex_b1624197:
 
     # km "Veronica. I don't think-"
-    km "Veronica. Je crois pas que—"
+    km "Veronica. Je crois pas que..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1374
 translate french sm1cs_km006_sex_19e95d8e:
@@ -3205,6 +3205,10 @@ translate french sm1cs_km006_after_sex_353b9d2c:
 translate french strings:
 
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:82
+    old "Sure. Just practicing."
+    new "Bien sûr. Je fais juste des répétitions."
+
+    # game/code/scenes/theatre/km/sm1cs-km006.rpy:82
     old "You sound bitter about what we did"
     new "Tu sembles amer à propos de ce qu’on a fait."
 
@@ -3244,11 +3248,9 @@ translate french strings:
     old "Drink"
     new "Boire"
 
-#Translate by BlackViper_
-
-translate french strings:
-
     # game/code/scenes/theatre/km/sm1cs-km006.rpy:82
     old "Sure. Just practicing"
-    new "Sure. Just practicing"
+    new "Bien sûr. Je m'entraîne juste"
+
+#Translate by BlackViper_
 

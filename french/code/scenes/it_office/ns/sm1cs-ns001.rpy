@@ -98,7 +98,7 @@ translate french sm1cs_ns001_cafeteria_b803a251:
 translate french sm1cs_ns001_cafeteria_af9fb19d:
 
     # ns "Yes. No. I mean. I-"
-    ns "Oui. Non. Enfin je veux dire. Je—"
+    ns "Oui. Non. Enfin je veux dire. Je..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:85
 translate french sm1cs_ns001_cafeteria_bb36b8b3:
@@ -206,7 +206,7 @@ translate french sm1cs_ns001_cafeteria_97d3d6fd:
 translate french sm1cs_ns001_cafeteria_5fb35389:
 
     # ns "I was happy. But it felt like a \"strange\" happy. Like a soldier who is \"happy\" to serve their country. Not the \"happy\" I saw in TV shows and movies."
-    ns "J’étais heureuse. Mais c’était un « drôle » de bonheur. Comme un soldat qui est \"heureux\" de servir son pays. Pas le « bonheur » que je voyais dans les séries et les films."
+    ns "J’étais heureuse. Mais c’était un \"drôle \" de bonheur. Comme un soldat qui est \"heureux\" de servir son pays. Pas le \"bonheur\" que je voyais dans les séries et les films."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:139
 translate french sm1cs_ns001_cafeteria_1cfd9290:
@@ -583,22 +583,4 @@ translate french strings:
     new "Rester humble"
 
 #Translate by BlackViper_
-
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:34
-translate french sm1cs_ns001_1c682e14:
-
-    # ag "Of course. The office has its own cafeteria."
-    ag "Of course. The office has its own cafeteria."
-
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
-translate french sm1cs_ns001_continue_e2b53835:
-
-    # mct "He shoots."
-    mct "He shoots."
-
-# game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
-translate french sm1cs_ns001_continue_aa4b7c7c:
-
-    # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
-    ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
 

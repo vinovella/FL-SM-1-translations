@@ -464,7 +464,7 @@ translate french sm1mv01s02_b8c19e73:
 translate french sm1mv01s02_934c6ecd:
 
     # sy "Or a 'used' section."
-    sy "Ou un rayon « occasion »."
+    sy "Ou un rayon 'occasion '."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:255
 translate french sm1mv01s02_4d206177:
@@ -758,7 +758,7 @@ translate french sm1mv01s02_later_5737bf74:
 translate french sm1mv01s02_later_192794f1:
 
     # mc "Who's the 'him' in that sentence?"
-    mc "Qui est le « lui » dans cette phrase ?"
+    mc "Qui est le ' lui ' dans cette phrase ?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:411
 translate french sm1mv01s02_later_9ffe204a:
@@ -1730,7 +1730,7 @@ translate french sm1mv01s02_later_7765b292:
 translate french sm1mv01s02_later_164ecf31:
 
     # mc "Do you do discounts for 'accidental orgy-related product damage'?"
-    mc "Vous faites des réductions pour les «dégâts accidentels liés à l’orgie» ?"
+    mc "Vous faites des réductions pour les 'dégâts accidentels liés à l’orgie'?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:887
 translate french sm1mv01s02_later_5c7b1ea3:
@@ -1984,6 +1984,12 @@ translate french sm1mv01s02_walkout_e7421fbe:
     # kv "I'm counting on it."
     kv "Je compte là-dessus."
 
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:509
+translate french sm1mv01s02_later_1e8e7e72:
+
+    # mc "I think it's the perfect outfit for a pirate queen."
+    mc "Je pense que c'est la tenue parfaite pour une reine pirate."
+
 translate french strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s02.rpy:139
@@ -2003,10 +2009,4 @@ translate french strings:
     new "Concentré"
 
 #Translate by BlackViper_
-
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:509
-translate french sm1mv01s02_later_1e8e7e72:
-
-    # mc "I think it's the perfect outfit for a pirate queen."
-    mc "I think it's the perfect outfit for a pirate queen."
 

@@ -14,7 +14,7 @@ translate french sm1cs_tl004_d568de72:
 translate french sm1cs_tl004_d4282f16:
 
     # mc "I don't know. You just seem to know the bartender."
-    mc "Je sais pas, tu semblais connaître le barman."
+    mc "Je sais pas, tu semblais connaître la barmaid."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:42
 translate french sm1cs_tl004_debce389:
@@ -38,7 +38,7 @@ translate french sm1cs_tl004_3b835377:
 translate french sm1cs_tl004_d7afdc3b:
 
     # mc "I-"
-    mc "Je—"
+    mc "Je..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:57
 translate french sm1cs_tl004_553aff27:
@@ -74,7 +74,7 @@ translate french sm1cs_tl004_61e6479e:
 translate french sm1cs_tl004_824dd8bb:
 
     # mc "I- wait, what?"
-    mc "Je—attends, quoi ?"
+    mc "Je... attends, quoi ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:75
 translate french sm1cs_tl004_0f43c964:
@@ -92,7 +92,7 @@ translate french sm1cs_tl004_6fba0ee3:
 translate french sm1cs_tl004_c25043f9:
 
     # tl "'What', 'how', 'why'. I feel like you've said it 90 times."
-    tl "« Quoi », « comment », « pourquoi ». J’ai l’impression que tu l’as dit 90 fois."
+    tl "'Quoi', 'comment', 'pourquoi'. J’ai l’impression que tu l’as dit 90 fois."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:84
 translate french sm1cs_tl004_46989565:
@@ -128,19 +128,19 @@ translate french sm1cs_tl004_a25e178c:
 translate french sm1cs_tl004_96f18d45:
 
     # mc "But, you said-"
-    mc "Mais t’as dit—"
+    mc "Mais t’as dit..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:102
 translate french sm1cs_tl004_071dabdf:
 
     # tl "What, you want the sob story? You want some poor \"oh, look at fucking Taisia, messy, sloppy, Taisia\" story?"
-    tl "Quoi, tu veux l’histoire triste ? Le truc du genre « oh, regardez la pauvre Taisia, la bordélique, la foutue Taisia » ?"
+    tl "Quoi, tu veux l’histoire triste ? Le truc du genre \"oh, regardez la pauvre Taisia, la bordélique, la foutue Taisia\"?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:104
 translate french sm1cs_tl004_b9734da4:
 
     # mc "No, I-"
-    mc "Non, je—"
+    mc "Non, je..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:105
 translate french sm1cs_tl004_1bc1acee:
@@ -170,7 +170,7 @@ translate french sm1cs_tl004_037dd10e:
 translate french sm1cs_tl004_5618ce94:
 
     # tl "No, I-"
-    tl "Non, je—"
+    tl "Non, je..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:123
 translate french sm1cs_tl004_4be6d6de:
@@ -929,10 +929,4 @@ translate french strings:
     new "Tu as perdu ${} contre Taisia lors d’une partie de billard."
 
 #Translate by BlackViper_
-
-translate french strings:
-
-    # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
-    old "You lost $[amount] to Taisia in a pool game"
-    new "You lost $[amount] to Taisia in a pool game"
 

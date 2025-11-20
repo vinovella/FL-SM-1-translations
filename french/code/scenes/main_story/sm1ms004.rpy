@@ -404,7 +404,7 @@ translate french sm1ms004_ac84a9e8:
 translate french sm1ms004_32d39a52:
 
     # arj "I'm not-"
-    arj "Je ne suis pas-"
+    arj "Je ne suis pas..."
 
 # game/code/scenes/main_story/sm1ms004.rpy:196
 translate french sm1ms004_78eb34ab:
@@ -446,7 +446,7 @@ translate french sm1ms004_1a2d6994:
 translate french sm1ms004_50280bdf:
 
     # mc "Yeah, I do.{w} I thought I was in love with Lydia, but she-"
-    mc "Ouais, je sais.{w} Je croyais être amoureux de Lydia, mais elle-"
+    mc "Ouais, je sais.{w} Je croyais être amoureux de Lydia, mais elle..."
 
 # game/code/scenes/main_story/sm1ms004.rpy:212
 translate french sm1ms004_e7654b92:
@@ -476,7 +476,7 @@ translate french sm1ms004_1426611e:
 translate french sm1ms004_0a99064b:
 
     # mc "We still had the same phone numbers. We didn't try to-"
-    mc "On avait toujours les mêmes numéros. On n’a pas essayé de-"
+    mc "On avait toujours les mêmes numéros. On n’a pas essayé de..."
 
 # game/code/scenes/main_story/sm1ms004.rpy:223
 translate french sm1ms004_ce28713e:
@@ -572,7 +572,7 @@ translate french sm1ms004_8d616ac3:
 translate french sm1ms004_93730c07:
 
     # mct "That was interesting.{w} I feel good - like AmRose is coming back around to liking us."
-    mct "C’était intéressant.{w} J’ai un bon pressentiment – comme si AmRose recommençait à nous apprécier."
+    mct "C’était intéressant.{w} J’ai un bon pressentiment comme si AmRose recommençait à nous apprécier."
 
 # game/code/scenes/main_story/sm1ms004.rpy:268
 translate french sm1ms004_fcf11b81:
@@ -581,21 +581,4 @@ translate french sm1ms004_fcf11b81:
     mct "Mais j’arrive pas à me débarrasser de l’impression d’avoir raté un truc vraiment important."
 
 #Translate by BlackViper_
-# game/code/scenes/main_story/sm1ms004.rpy:69
-translate french sm1ms004_6ca11396:
-
-    # arj "Never mind. It doesn't matter."
-    arj "Never mind. It doesn't matter."
-
-# game/code/scenes/main_story/sm1ms004.rpy:171
-translate french sm1ms004_b80a46ec:
-
-    # mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-    mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-
-# game/code/scenes/main_story/sm1ms004.rpy:266
-translate french sm1ms004_738d94cc:
-
-    # mct "Maybe this isn't completely fucked after all."
-    mct "Maybe this isn't completely fucked after all."
 

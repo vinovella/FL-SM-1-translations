@@ -20,7 +20,7 @@ translate french sm1cs_cw005_b6371f49:
 translate french sm1cs_cw005_c95e2191:
 
     # mct "Why is Claire talking to me. It feels way too early for me to be-"
-    mct "Pourquoi Claire me parle ? Il est bien trop tôt pour que je sois—"
+    mct "Pourquoi Claire me parle ? Il est bien trop tôt pour que je sois..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:67
 translate french sm1cs_cw005_b8de06d3:
@@ -170,7 +170,7 @@ translate french sm1cs_cw005_ef85e000:
 translate french sm1cs_cw005_95e9203d:
 
     # cw "Now... In our case, the early bird gets the-"
-    cw "Maintenant… dans notre cas, le lève-tôt obtient le—"
+    cw "Maintenant… dans notre cas, le lève-tôt obtient le..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:148
 translate french sm1cs_cw005_pushy_menu_fc5b720a:
@@ -194,7 +194,7 @@ translate french sm1cs_cw005_pushy_menu_f11b0391:
 translate french sm1cs_cw005_pushy_menu_219c890f:
 
     # cw "You're going to love it. We're going to ride on-"
-    cw "Tu vas adorer. On va monter sur—"
+    cw "Tu vas adorer. On va monter sur..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:167
 translate french sm1cs_cw005_pushy_menu_7ae9a3a2:
@@ -212,7 +212,7 @@ translate french sm1cs_cw005_pushy_menu_80f6d00e:
 translate french sm1cs_cw005_pushy_menu_58d653aa:
 
     # cw "The sooner you get cleaned up, the sooner we can ride our-"
-    cw "Plus vite tu te laves, plus vite on pourra monter sur notre—"
+    cw "Plus vite tu te laves, plus vite on pourra monter sur notre..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:182
 translate french sm1cs_cw005_pushy_menu_9b9a0344:
@@ -650,7 +650,7 @@ translate french sm1cs_cw005_food_2081365a:
 translate french sm1cs_cw005_food_eef7d806:
 
     # fw "It's been so long since the-"
-    fw "Ça fait si longtemps depuis les—"
+    fw "Ça fait si longtemps depuis les..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:456
 translate french sm1cs_cw005_food_912ca707:
@@ -1556,7 +1556,7 @@ translate french sm1cs_cw005_sauna_menu_29596d93:
 translate french sm1cs_cw005_sauna_menu_329db151:
 
     # cw "*whispers* Why would you need to-"
-    cw "*chuchote* Pourquoi t’aurais besoin de—"
+    cw "*chuchote* Pourquoi t’aurais besoin de..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:896
 translate french sm1cs_cw005_sauna_menu_4b47a85e:
@@ -2475,6 +2475,53 @@ translate french sm1cs_cw005_sauna_menu_6907467e:
 
     # mct "Huh."
     mct "Hein."
+# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:105
+translate french sm1cs_cw005_91026b4d:
+
+    # cw "My family hates whining. And it's not a good color on you."
+    cw "Ma famille déteste les pleurnichards. Et ça ne te va pas du tout."
+
+# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:174
+translate french sm1cs_cw005_pushy_menu_0c1cb963:
+
+    # cw "Well, get moving, Mr. Bird."
+    cw "Alors, on se bouge, Monsieur Bird."
+
+# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:189
+translate french sm1cs_cw005_pushy_menu_f35fb8a3:
+
+    # cw "Well...{w} I'm sure you'll change your tune once we're riding the waves on-"
+    cw "Eh bien...{w} Je suis sûre que tu changeras d’avis quand on sera en train de chevaucher les vagues sur..."
+
+# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:398
+translate french sm1cs_cw005_food_e81143ee:
+
+    # cw "I know, Daddy."
+    cw "Je sais, Papa."
+
+# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:498
+translate french sm1cs_cw005_food_67b1590d:
+
+    # fw "*titters*"
+    fw "*ricane*"
+
+# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:672
+translate french sm1cs_cw005_sauna_menu_e46d3ab2:
+
+    # mct "Woah. I think this is the first time I've seen Claire really laugh."
+    mct "Wow. Je crois que c’est la première fois que je vois Claire vraiment rire."
+
+# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:927
+translate french sm1cs_cw005_sauna_menu_ecd30e39:
+
+    # cw "Never mind. You have the situation well in hand."
+    cw "Laisse tomber. Tu gères très bien la situation."
+
+# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1013
+translate french sm1cs_cw005_sauna_menu_a0ab7e8b:
+
+    # mct "And her body keeps shaking whenever my nose brushes her clit."
+    mct "Et son corps tremble à chaque fois que mon nez frôle son clito."
 
 translate french strings:
 
@@ -2535,51 +2582,3 @@ translate french strings:
     new "C’était vraiment très fun"
 
 #Translate by BlackViper_
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:105
-translate french sm1cs_cw005_91026b4d:
-
-    # cw "My family hates whining. And it's not a good color on you."
-    cw "My family hates whining. And it's not a good color on you."
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:174
-translate french sm1cs_cw005_pushy_menu_0c1cb963:
-
-    # cw "Well, get moving, Mr. Bird."
-    cw "Well, get moving, Mr. Bird."
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:189
-translate french sm1cs_cw005_pushy_menu_f35fb8a3:
-
-    # cw "Well...{w} I'm sure you'll change your tune once we're riding the waves on-"
-    cw "Well...{w} I'm sure you'll change your tune once we're riding the waves on-"
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:398
-translate french sm1cs_cw005_food_e81143ee:
-
-    # cw "I know, Daddy."
-    cw "I know, Daddy."
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:498
-translate french sm1cs_cw005_food_67b1590d:
-
-    # fw "*titters*"
-    fw "*titters*"
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:672
-translate french sm1cs_cw005_sauna_menu_e46d3ab2:
-
-    # mct "Woah. I think this is the first time I've seen Claire really laugh."
-    mct "Woah. I think this is the first time I've seen Claire really laugh."
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:927
-translate french sm1cs_cw005_sauna_menu_ecd30e39:
-
-    # cw "Never mind. You have the situation well in hand."
-    cw "Never mind. You have the situation well in hand."
-
-# game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1013
-translate french sm1cs_cw005_sauna_menu_a0ab7e8b:
-
-    # mct "And her body keeps shaking whenever my nose brushes her clit."
-    mct "And her body keeps shaking whenever my nose brushes her clit."
-

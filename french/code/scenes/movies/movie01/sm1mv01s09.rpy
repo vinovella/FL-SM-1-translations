@@ -68,7 +68,7 @@ translate french sm1mv01s09_a6bdbde1:
 translate french sm1mv01s09_88979df8:
 
     # kv "All right, well Ms. \"Script Supervisor\", what do we have next?"
-    kv "Très bien, mademoiselle « script », on fait quoi ensuite ?"
+    kv "Très bien, mademoiselle \"script\", on fait quoi ensuite ?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:125
 translate french sm1mv01s09_691ab6e7:
@@ -127,7 +127,7 @@ translate french sm1mv01s09_af33ea6d:
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:145
 translate french sm1mv01s09_5810bf12:
 
-    # tl "I don't like sand. It's coarse and rough and irritating — and it gets everywhere."
+    # tl "I don't like sand. It's coarse and rough and irritating ... and it gets everywhere."
     tl "J’aime pas le sable. C’est rugueux, chiant, irritant... et y en a partout."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:147
@@ -140,13 +140,13 @@ translate french sm1mv01s09_f2c3d056:
 translate french sm1mv01s09_87578058:
 
     # tl "Yeah, kinky rough. Not \"sand in my asshole\" rough."
-    tl "Ouais, rugueux genre coquin. Pas « du sable dans le cul » rugueux."
+    tl "Ouais, rugueux genre coquin. Pas \"du sable dans le cul\" rugueux."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:153
 translate french sm1mv01s09_b80e55ac:
 
-    # mc "Anyway — we've done a really good job today! Look at how much we've gotten through!"
-    mc "Bref — on a super bien bossé aujourd’hui ! Regarde tout ce qu’on a abattu !"
+    # mc "Anyway ... we've done a really good job today! Look at how much we've gotten through!"
+    mc "Bref ... on a super bien bossé aujourd’hui ! Regarde tout ce qu’on a abattu !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:154
 translate french sm1mv01s09_304f7a8e:
@@ -212,19 +212,19 @@ translate french sm1mv01s09_e3a5aa68:
 translate french sm1mv01s09_035ef16a:
 
     # tl "I figure first will be a blowjob-"
-    tl "Je dirais qu’on commence par une pipe—"
+    tl "Je dirais qu’on commence par une pipe..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:192
 translate french sm1mv01s09_cf003abb:
 
     # sy "Oh, I meant like \"starting spots\" but I {b}love{/b} where your head is at, Taisia!"
-    sy "Oh, je parlais des « positions de départ », mais j’{b}adore{/b} ta façon de penser, Taisia !"
+    sy "Oh, je parlais des \"positions de départ\", mais j’{b}adore{/b} ta façon de penser, Taisia !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:195
 translate french sm1mv01s09_b1b5ebdb:
 
-    # sy "All right, Kanya — on your call!"
-    sy "Ok, Kanya — à ton signal !"
+    # sy "All right, Kanya ... on your call!"
+    sy "Ok, Kanya ... à ton signal !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:198
 translate french sm1mv01s09_a71365d8:
@@ -338,7 +338,7 @@ translate french sm1mv01s09_movie_start_30694308:
 translate french sm1mv01s09_movie_start_d2f92e9e:
 
     # mc "Scarlet, I think-"
-    mc "Scarlet, je crois que—"
+    mc "Scarlet, je crois que..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:269
 translate french sm1mv01s09_movie_start_c83d788d:
@@ -578,13 +578,13 @@ translate french sm1mv01s09_movie_start_937bb6d4:
 translate french sm1mv01s09_movie_start_99240fdc:
 
     # sy "Now-"
-    sy "Maintenant—"
+    sy "Maintenant..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:379
 translate french sm1mv01s09_movie_start_5e3a3581:
 
     # sy "What the-"
-    sy "Qu’est-ce que—"
+    sy "Qu’est-ce que..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:384
 translate french sm1mv01s09_movie_start_3d943ff6:
@@ -596,13 +596,13 @@ translate french sm1mv01s09_movie_start_3d943ff6:
 translate french sm1mv01s09_movie_start_ad6225e6:
 
     # sy "You scallywag-!"
-    sy "Espèce de friponne—!"
+    sy "Espèce de friponne...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:391
 translate french sm1mv01s09_movie_start_8a27c375:
 
     # tl "That's enough out of you - Dickhart, why don't you help me shut her up?"
-    tl "Ça suffit de ta part — Dickhart, tu veux pas m’aider à la faire taire ?"
+    tl "Ça suffit de ta part ... Dickhart, tu veux pas m’aider à la faire taire ?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:394
 translate french sm1mv01s09_movie_start_2b6e1f2c:
@@ -673,8 +673,8 @@ translate french sm1mv01s09_movie_start_67e481b5:
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:422
 translate french sm1mv01s09_movie_start_b5dead6f:
 
-    # mc "God, she is just gobbling me up — you're pushing her so far down on my dick!"
-    mc "Putain, elle m’engloutit complètement — tu la pousses à fond sur ma bite !"
+    # mc "God, she is just gobbling me up ... you're pushing her so far down on my dick!"
+    mc "Putain, elle m’engloutit complètement ... tu la pousses à fond sur ma bite !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:425
 translate french sm1mv01s09_movie_start_53e1362c:
@@ -691,8 +691,8 @@ translate french sm1mv01s09_movie_start_85f49628:
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:429
 translate french sm1mv01s09_movie_start_1811814e:
 
-    # sy "Huuuuuacccccc — grrrrrrrrrrk!"
-    sy "Huuuuuacccccc — grrrrrrrrrrk !"
+    # sy "Huuuuuacccccc ... grrrrrrrrrrk!"
+    sy "Huuuuuacccccc ... grrrrrrrrrrk !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:430
 translate french sm1mv01s09_movie_start_f5e16cbf:
@@ -782,7 +782,7 @@ translate french sm1mv01s09_movie_start_5784e6a0:
 translate french sm1mv01s09_movie_start_8972938e:
 
     # tl "Wait, Dickhart-"
-    tl "Attends, Dickhart—"
+    tl "Attends, Dickhart..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:472
 translate french sm1mv01s09_movie_start_3e8a123c:
@@ -794,7 +794,7 @@ translate french sm1mv01s09_movie_start_3e8a123c:
 translate french sm1mv01s09_movie_start_10bd0339:
 
     # tl "You-!"
-    tl "Toi—!"
+    tl "Toi...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:474
 translate french sm1mv01s09_movie_start_86a968ef:
@@ -818,7 +818,7 @@ translate french sm1mv01s09_movie_start_23172483:
 translate french sm1mv01s09_movie_start_a18b4c28:
 
     # tl "What are you-"
-    tl "Qu’est-ce que tu—"
+    tl "Qu’est-ce que tu..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:493
 translate french sm1mv01s09_movie_start_5e0e43b9:
@@ -871,8 +871,8 @@ translate french sm1mv01s09_movie_start_bf5371c5:
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:518
 translate french sm1mv01s09_movie_start_032eae35:
 
-    # mc "Oooooooph — yes it does!"
-    mc "Oooooooph — oh que oui !"
+    # mc "Oooooooph ... yes it does!"
+    mc "Oooooooph ... oh que oui !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:521
 translate french sm1mv01s09_movie_start_67dd8a10:
@@ -884,7 +884,7 @@ translate french sm1mv01s09_movie_start_67dd8a10:
 translate french sm1mv01s09_movie_start_ad5e3666:
 
     # mc "I don't - mmmmmm - I don't know about that!"
-    mc "J’sais pas trop — mmmmmm — j’suis pas sûr de ça !"
+    mc "J’sais pas trop ... mmmmmm ... j’suis pas sûr de ça !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:527
 translate french sm1mv01s09_movie_start_0e8ac5a9:
@@ -896,7 +896,7 @@ translate french sm1mv01s09_movie_start_0e8ac5a9:
 translate french sm1mv01s09_movie_start_3f9a16a2:
 
     # sy "But first-"
-    sy "Mais d’abord—"
+    sy "Mais d’abord..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:533
 translate french sm1mv01s09_movie_start_5fbeeb0f:
@@ -992,7 +992,7 @@ translate french sm1mv01s09_movie_start_699878f6:
 translate french sm1mv01s09_movie_start_851a9f32:
 
     # sy "If you're going to cum anywhere-"
-    sy "Si tu dois jouir quelque part—"
+    sy "Si tu dois jouir quelque part..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:571
 translate french sm1mv01s09_movie_start_ff0dc20d:
@@ -1076,7 +1076,7 @@ translate french sm1mv01s09_movie_start_9d221119:
 translate french sm1mv01s09_movie_start_c622b1cc:
 
     # sy "Mmppphhh-"
-    sy "Mmmppphhh—"
+    sy "Mmmppphhh..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:608
 translate french sm1mv01s09_movie_start_bcc7b102:
@@ -1093,8 +1093,8 @@ translate french sm1mv01s09_movie_start_c476caa5:
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:612
 translate french sm1mv01s09_movie_start_c0c14e30:
 
-    # mc "Gods — shiver me timbers!"
-    mc "Par les dieux — que le navire tremble !"
+    # mc "Gods ... shiver me timbers!"
+    mc "Par les dieux ... que le navire tremble !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:615
 translate french sm1mv01s09_movie_start_e77d088c:
@@ -1232,7 +1232,7 @@ translate french sm1mv01s09_movie_start_ef7550de:
 translate french sm1mv01s09_movie_start_69abacef:
 
     # sy "Oh you despicable little-"
-    sy "Oh, sale garce méprisable—"
+    sy "Oh, sale garce méprisable..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:672
 translate french sm1mv01s09_movie_start_ccb4dffc:
@@ -1255,8 +1255,8 @@ translate french sm1mv01s09_movie_start_2def855b:
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:679
 translate french sm1mv01s09_movie_start_ff844053:
 
-    # mc "Fuck, please — shit, your pussy is fantastic, Scarlet!"
-    mc "Putain, merde — ta chatte est incroyable, Scarlet !"
+    # mc "Fuck, please ... shit, your pussy is fantastic, Scarlet!"
+    mc "Putain, merde ... ta chatte est incroyable, Scarlet !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:682
 translate french sm1mv01s09_movie_start_ea2373c6:
@@ -1268,7 +1268,7 @@ translate french sm1mv01s09_movie_start_ea2373c6:
 translate french sm1mv01s09_movie_start_738928a5:
 
     # mc "Fuuuh - the best cunny is always the one holding my cock!"
-    mc "Fuuuh — la meilleure chatte, c’est toujours celle qui tient ma bite !"
+    mc "Fuuuh ... la meilleure chatte, c’est toujours celle qui tient ma bite !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:688
 translate french sm1mv01s09_movie_start_b801a0e8:
@@ -1310,7 +1310,7 @@ translate french sm1mv01s09_movie_start_c9489b97:
 translate french sm1mv01s09_movie_start_4b9093a8:
 
     # sy "You-"
-    sy "Toi—"
+    sy "Toi..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:703
 translate french sm1mv01s09_movie_start_79e4d286:
@@ -1339,7 +1339,7 @@ translate french sm1mv01s09_movie_start_0c4ac69a:
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:709
 translate french sm1mv01s09_movie_start_8596aa50:
 
-    # mc "Fuck, this is —- ngggggh!"
+    # mc "Fuck, this is ...- ngggggh!"
     mc "Putain, c’est... nggggghhh !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:712
@@ -1364,7 +1364,7 @@ translate french sm1mv01s09_movie_start_1fec0341:
 translate french sm1mv01s09_movie_start_6df3141b:
 
     # sy "Yes, that's it, that's-"
-    sy "Oui, voilà, c’est—"
+    sy "Oui, voilà, c’est..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:724
 translate french sm1mv01s09_movie_start_4e1d9384:
@@ -1394,7 +1394,7 @@ translate french sm1mv01s09_movie_start_23d7846d:
 translate french sm1mv01s09_movie_start_96f473be:
 
     # sy "Well, while you rest-"
-    sy "Très bien, pendant que tu récupères—"
+    sy "Très bien, pendant que tu récupères..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:739
 translate french sm1mv01s09_movie_start_1f894204:
@@ -1412,7 +1412,7 @@ translate french sm1mv01s09_movie_start_c14c584c:
 translate french sm1mv01s09_movie_start_9973a3cd:
 
     # mc "Don't mind if I-"
-    mc "Je vais pas dire non si je—"
+    mc "Je vais pas dire non si je..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:752
 translate french sm1mv01s09_movie_start_6b94905c:
@@ -1448,7 +1448,7 @@ translate french sm1mv01s09_movie_start_6abe6c01:
 translate french sm1mv01s09_movie_start_22d688c4:
 
     # sy "Nnggghhhh - I told - mmppppgggggg - told you!"
-    sy "Nnggghhhh — j’te l’avais — mmppppgggggg — dit !"
+    sy "Nnggghhhh ... j’te l’avais ... mmppppgggggg ... dit !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:770
 translate french sm1mv01s09_movie_start_4baad9ce:
@@ -1459,14 +1459,14 @@ translate french sm1mv01s09_movie_start_4baad9ce:
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:771
 translate french sm1mv01s09_movie_start_cb38a118:
 
-    # mc "Oh, fuck, Scarlet! You're not — ngggggh!"
-    mc "Oh putain, Scarlet ! Tu es en train de — ngggggh !"
+    # mc "Oh, fuck, Scarlet! You're not ... ngggggh!"
+    mc "Oh putain, Scarlet ! Tu es en train de ... ngggggh !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:774
 translate french sm1mv01s09_movie_start_4f1d7e57:
 
     # sy "What is that-"
-    sy "Qu’est-ce que—"
+    sy "Qu’est-ce que..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:775
 translate french sm1mv01s09_movie_start_790a34b4:
@@ -1490,13 +1490,13 @@ translate french sm1mv01s09_movie_start_1f3c13f4:
 translate french sm1mv01s09_movie_start_855087cc:
 
     # tl "Shlllllrrrrrp - shut up and - shhllrrrrrrppppp - enjoy getting your ass plowed!"
-    tl "Shlllllrrrrrp — ferme-la et — shhllrrrrrrppppp — profite qu’on te laboure le cul !"
+    tl "Shlllllrrrrrp ... ferme-la et ... shhllrrrrrrppppp ... profite qu’on te laboure le cul !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:783
 translate french sm1mv01s09_movie_start_2b591029:
 
     # sy "I - oh fuck! Keep - yessss, like that!"
-    sy "Je — oh putain ! Continue — ouiii, comme ça !"
+    sy "Je ... oh putain ! Continue ... ouiii, comme ça !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:786
 translate french sm1mv01s09_movie_start_1281aa14:
@@ -1508,13 +1508,13 @@ translate french sm1mv01s09_movie_start_1281aa14:
 translate french sm1mv01s09_movie_start_44ac1015:
 
     # tl "What - shlllrrrrppp - a good angle I have!"
-    tl "Quel — shlllrrrrppp — bon angle j’ai là !"
+    tl "Quel ... shlllrrrrppp ... bon angle j’ai là !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:790
 translate french sm1mv01s09_movie_start_778e6fb7:
 
     # sy "Oh yesssss, keep going! I'm - mmmmmmmm - oh, I'm getting close!"
-    sy "Oh ouiii, continue ! Je suis — mmmmmmmm — oh, je suis si proche !"
+    sy "Oh ouiii, continue ! Je suis ... mmmmmmmm ... oh, je suis si proche !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:793
 translate french sm1mv01s09_movie_start_26a8fd13:
@@ -1526,7 +1526,7 @@ translate french sm1mv01s09_movie_start_26a8fd13:
 translate french sm1mv01s09_movie_start_7e586368:
 
     # tl "That's it - shlllrp - let yourself go!"
-    tl "C’est ça — shlllrp — laisse-toi aller !"
+    tl "C’est ça ... shlllrp ... laisse-toi aller !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:797
 translate french sm1mv01s09_movie_start_2dc725b6:
@@ -1544,7 +1544,7 @@ translate french sm1mv01s09_movie_start_b2d7016b:
 translate french sm1mv01s09_movie_start_9ad44ead:
 
     # sy "It's all - oh Gods - it's all yours!"
-    sy "C’est tout — oh dieux — tout à toi !"
+    sy "C’est tout ... oh dieux ... tout à toi !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:802
 translate french sm1mv01s09_movie_start_5c4dff0f:
@@ -1568,7 +1568,7 @@ translate french sm1mv01s09_movie_start_e0724767:
 translate french sm1mv01s09_movie_start_9cd05c47:
 
     # sy "Oh Gods, oh Gods! I'm - I'm-!"
-    sy "Oh dieux, oh dieux ! Je suis... je suis— !"
+    sy "Oh dieux, oh dieux ! Je suis... je suis... !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:814
 translate french sm1mv01s09_movie_start_939e01b2:
@@ -1580,7 +1580,7 @@ translate french sm1mv01s09_movie_start_939e01b2:
 translate french sm1mv01s09_movie_start_c9a23040:
 
     # tl "Shlllrpppp - like a good wench!"
-    tl "Shlllrpppp — comme une bonne garce !"
+    tl "Shlllrpppp ... comme une bonne garce !"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:816
 translate french sm1mv01s09_movie_start_7a496bb6:
@@ -1700,7 +1700,7 @@ translate french sm1mv01s09_movie_start_de653d91:
 translate french sm1mv01s09_movie_start_15996a57:
 
     # mc "Oh shiiiii-"
-    mc "Oh putaaaai—"
+    mc "Oh putaaaai..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:871
 translate french sm1mv01s09_movie_start_f4a554b4:
@@ -1718,7 +1718,7 @@ translate french sm1mv01s09_movie_start_0791e2c3:
 translate french sm1mv01s09_movie_start_e5cd560b:
 
     # mc "Shiver{w} me-"
-    mc "Frissonnez{w} mes—"
+    mc "Frissonnez{w} mes..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:884
 translate french sm1mv01s09_movie_start_cf7cd821:
@@ -1778,7 +1778,7 @@ translate french sm1mv01s09_movie_start_6cba0ed7:
 translate french sm1mv01s09_movie_start_29ec4b2b:
 
     # mc "Huh... what are you-?"
-    mc "Hein... qu’est-ce que tu— ?"
+    mc "Hein... qu’est-ce que tu... ?"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:913
 translate french sm1mv01s09_movie_start_70aac4cb:
@@ -1924,6 +1924,24 @@ translate french sm1mv01s09_movie_end_44e4456e:
     # sy "I'll {w} Make {w}You {w} Pay."
     sy "Je {w} te {w} ferai {w} payer."
 
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:318
+translate french sm1mv01s09_movie_start_e2f21eec:
+
+    # sy "Muah-ha-haa! My what an interesting turn..."
+    sy "Muah-ha-haa ! Eh bien, voilà un tournant intéressant..."
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:418
+translate french sm1mv01s09_movie_start_cf748506:
+
+    # tl "I think we finally found a good use for that devilish tongue of hers."
+    tl "Je crois qu’on a enfin trouvé une bonne utilisation pour sa langue démoniaque."
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:595
+translate french sm1mv01s09_movie_start_e642e4c1:
+
+    # mc "Oh shit, your fingers are making her pussy tighten up each time you clench!"
+    mc "Putain, tes doigts font se resserrer sa chatte à chaque fois que tu les contractes !"
+
 translate french strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s09.rpy:209
@@ -1931,22 +1949,4 @@ translate french strings:
     new "De retour dans la grotte"
 
 #Translate by BlackViper_
-
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:318
-translate french sm1mv01s09_movie_start_e2f21eec:
-
-    # sy "Muah-ha-haa! My what an interesting turn..."
-    sy "Muah-ha-haa! My what an interesting turn..."
-
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:418
-translate french sm1mv01s09_movie_start_cf748506:
-
-    # tl "I think we finally found a good use for that devilish tongue of hers."
-    tl "I think we finally found a good use for that devilish tongue of hers."
-
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:595
-translate french sm1mv01s09_movie_start_e642e4c1:
-
-    # mc "Oh shit, your fingers are making her pussy tighten up each time you clench!"
-    mc "Oh shit, your fingers are making her pussy tighten up each time you clench!"
 

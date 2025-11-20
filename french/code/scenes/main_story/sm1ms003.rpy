@@ -170,7 +170,7 @@ translate french sm1ms003_cumface_7e413450:
 translate french sm1ms003_cumface_40fe769b:
 
     # sy "Give it to me! Cover me with your hot seed!!!"
-    sy "Donne-le-moi ! Recouvre-moi de ta chaude semence !!!"
+    sy "Donne-le-moi ! Recouvre-moi de ton jus !!!"
 
 # game/code/scenes/main_story/sm1ms003.rpy:296
 translate french sm1ms003_cumface_58e1fa65:

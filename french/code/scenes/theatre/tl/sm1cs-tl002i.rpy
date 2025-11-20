@@ -56,7 +56,7 @@ translate french sm1cs_tl002i_da071411:
 translate french sm1cs_tl002i_178a1605:
 
     # mc "No, not that kind of a vibe. I mean, what would be a good film for you, and what we would do, and a theme, and-"
-    mc "Non, pas ce genre de vibe. Je veux dire, quel serait un bon film pour toi, ce qu’on ferait, le thème, et—"
+    mc "Non, pas ce genre de vibe. Je veux dire, quel serait un bon film pour toi, ce qu’on ferait, le thème, et..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002i.rpy:37
 translate french sm1cs_tl002i_6233f4c8:

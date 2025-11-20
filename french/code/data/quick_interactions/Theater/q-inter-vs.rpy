@@ -238,71 +238,70 @@ translate french q_inter_vs_11_cd1b3d42:
     # vs "Bubblegum likes gum, but I think she likes your cum better. *giggles*"
     vs "Bubblegum aime le chewing-gum, mais je crois qu’elle préfère ton sperme. *ricane*"
 
-#Translate by BlackViper_
-
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:65
 translate french q_inter_vs_4_0ac7542c:
 
     # vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
-    vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
+    vs "Salut, [mcname]. J’espère vraiment que tu apprécies ton temps au théâtre."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:76
 translate french q_inter_vs_5_26a5f019:
 
     # vs "I really hope you impress Denise the next time you get to audition, [mcname]."
-    vs "I really hope you impress Denise the next time you get to audition, [mcname]."
+    vs "J’espère vraiment que tu vas impressionner Denise la prochaine fois que tu auras une audition, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:94
 translate french q_inter_vs_7_2acf4fd6:
 
     # vs "*whispers* Hey [mcname]."
-    vs "*whispers* Hey [mcname]."
+    vs "*chuchote* Hé, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:97
 translate french q_inter_vs_7_305758d8:
 
     # vs "*whispers* Because it's fun, and because you want to keep talk about FL on the downlow right?"
-    vs "*whispers* Because it's fun, and because you want to keep talk about FL on the downlow right?"
+    vs "*chuchote* Parce que c’est amusant, et parce que tu veux garder les discussions sur FL discrètes, non ?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:157
 translate french q_inter_vs_12_fbd78eaa:
 
     # vs "Yay, [mcname]! You're finally one of the real actors."
-    vs "Yay, [mcname]! You're finally one of the real actors."
+    vs "Yay, [mcname] ! Tu es enfin un vrai acteur."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:158
 translate french q_inter_vs_12_40ecebb6:
 
     # vs "You don't have to feel ashamed of being a stagehand any longer."
-    vs "You don't have to feel ashamed of being a stagehand any longer."
+    vs "Tu n’as plus à avoir honte d’être machiniste maintenant."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:159
 translate french q_inter_vs_12_6d495a60:
 
     # mc "I was never ashamed of that."
-    mc "I was never ashamed of that."
+    mc "Je n’en ai jamais eu honte."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:162
 translate french q_inter_vs_12_8576433e:
 
     # vs "Oh?"
-    vs "Oh?"
+    vs "Oh ?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:163
 translate french q_inter_vs_12_a24c393b:
 
     # vs "Why not?"
-    vs "Why not?"
+    vs "Pourquoi pas ?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:170
 translate french q_inter_vs_13_7c4f4e75:
 
     # vs "The most important thing about being a true actor is to not panic."
-    vs "The most important thing about being a true actor is to not panic."
+    vs "La chose la plus importante quand on est un vrai acteur, c’est de ne pas paniquer."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:171
 translate french q_inter_vs_13_db875d9f:
 
     # vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
-    vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
+    vs "Ah, et tu dois retenir ton texte. Denise dit que c’est plutôt important aussi."
 
+#Translate by BlackViper_

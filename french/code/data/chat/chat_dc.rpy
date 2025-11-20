@@ -5,6 +5,10 @@
     new "Hé, [mcname!i] ! Je voulais juste dire que je suis super contente de t’avoir enfin tout dit, et je suis trop excitée pour notre futur rendez-vous ! 😜"
 
     # game/code/data/chat/chat_dc.rpy:3
+    old "Hey Debbie! Im glad we talked too. Im also pretty pumped for this date"
+    new "Hey Debbie ! Je suis content qu’on ait parlé aussi. Moi aussi je suis super motivé pour ce rendez-vous"
+
+    # game/code/data/chat/chat_dc.rpy:3
     old "In fact, what are you doing tonight?"
     new "D’ailleurs, tu fais quoi ce soir ?"
 
@@ -44,14 +48,16 @@
     old "It sounds like a date, [mcname!i] 😉"
     new "Ça ressemble bien à un rendez-vous, [mcname!i] 😉"
 
-#Translate by BlackViper_
-translate french strings:
+    # game/code/data/chat/chat_dc.rpy:41
+    old "I'll send  you the address! See you in a bit 😏"
+    new "Je t’envoie l’adresse ! À tout à l’heure 😏"
 
     # game/code/data/chat/chat_dc.rpy:3
     old "Hey Debbie! I'm glad we talked too. I'm also pretty pumped for this date"
-    new "Hey Debbie! I'm glad we talked too. I'm also pretty pumped for this date"
+    new "Salut Debbie ! Je suis content qu’on ait parlé aussi. Je suis vraiment impatient pour ce rendez-vous."
 
     # game/code/data/chat/chat_dc.rpy:41
     old "I'll send you the address! See you in a bit 😏"
-    new "I'll send you the address! See you in a bit 😏"
+    new "Je t’envoie l’adresse ! À tout à l’heure 😏"
 
+#Translate by BlackViper_

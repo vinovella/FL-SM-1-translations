@@ -244,9 +244,3 @@ translate french strings:
 
 #Translate by BlackViper_.
 
-# game/code/scenes/main_story/sm1ms002.rpy:59
-translate french sm1ms002_4f8bfe43:
-
-    # mc "I haven't started cutting myself yet."
-    mc "I haven't started cutting myself yet."
-

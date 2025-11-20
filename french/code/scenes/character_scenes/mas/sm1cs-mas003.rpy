@@ -1070,7 +1070,7 @@ translate french sm1cs_mas003_third_delivery_e483301b:
 translate french sm1cs_mas003_third_delivery_c2287ff3:
 
     # ka "Which is a mistake.{w} You're kind of cute."
-    ka "Erreur de ma part.{w} T’es plutôt mignon."
+    ka "Erreur de ma part.{w} T’es plutôt mignonne."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:644
 translate french sm1cs_mas003_third_delivery_5ae806d1:
@@ -1142,7 +1142,7 @@ translate french sm1cs_mas003_third_delivery_749aa996:
 translate french sm1cs_mas003_third_delivery_2702b4fc:
 
     # lg "You know... if this was a porno, I'd be smashing him already."
-    lg "Tu sais... si c’était un porno, je serais déjà en train de le démonter."
+    lg "Tu sais... si c’était un porno, je serais déjà en train de le baiser."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:676
 translate french sm1cs_mas003_third_delivery_e220f17d:
@@ -1196,7 +1196,7 @@ translate french sm1cs_mas003_third_delivery_f3e7eb51:
 translate french sm1cs_mas003_third_delivery_07eced0d:
 
     # ms "Did you say pie pie?"
-    ms "T’as dit tarte tarte ?"
+    ms "T’as dit pi-pi ?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:699
 translate french sm1cs_mas003_third_delivery_28709c77:
@@ -1364,7 +1364,7 @@ translate french sm1cs_mas003_third_delivery_a83b93df:
 translate french sm1cs_mas003_third_delivery_a5699de4:
 
     # ms "Make it five hundred."
-    ms "Faites-en cinq cents."
+    ms "Mets-en cinq cents."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:774
 translate french sm1cs_mas003_third_delivery_d5a69b2c:
@@ -1660,6 +1660,18 @@ translate french sm1cs_mas003_after_delivery_9c414a81:
     # ms "*rapidly* Okay. Bye. Goodnight."
     ms "*vite* Ok. Salut. Bonne nuit."
 
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
+translate french sm1cs_mas003_third_delivery_7eec6586:
+
+    # ms "Never mind."
+    ms "Laisse tomber."
+
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
+translate french sm1cs_mas003_third_delivery_9ed10f06:
+
+    # ms "Show's over, ladies."
+    ms "Le spectacle est terminé, mesdames."
+
 translate french strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:65
@@ -1690,33 +1702,13 @@ translate french strings:
     old "Ask for your cut"
     new "Demander ta part"
 
+    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
+    old "Wurst delivery tip"
+    new "Pourboire livraison Wurst"
+
+    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
+    old "You got a ${} as your cut of the tip."
+    new "Tu as reçu ${} comme ta part du pourboire."
+
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:586
-translate french sm1cs_mas003_third_delivery_7eec6586:
-
-    # ms "Never mind."
-    ms "Never mind."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
-translate french sm1cs_mas003_third_delivery_9ed10f06:
-
-    # ms "Show's over, ladies."
-    ms "Show's over, ladies."
-
-translate french strings:
-
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "Wurst Delivery tip"
-    new "Wurst Delivery tip"
-
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a $[amount] as your cut of the tip"
-    new "You got a $[amount] as your cut of the tip"
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
-translate french sm1cs_mas003_third_delivery_fedc52e9:
-
-    # ka "*sniff* They're the best."
-    ka "*sniff* They're the best."
 

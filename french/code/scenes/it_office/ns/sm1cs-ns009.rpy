@@ -698,7 +698,7 @@ translate french sm1cs_ns009_sex_continue_0829cd02:
 translate french sm1cs_ns009_sex_continue_3beb8d67:
 
     # mct "Sweet fluffy lord of mine. Please let no one stop by the office late. There is no way to keep this cute little minx quiet."
-    mct "Oh doux seigneur duveteux... pourvu que personne ne passe tard au bureau. Impossible de garder ce joli petit démon silencieux."
+    mct "Oh doux seigneur... Pourvu que personne ne passe tard au bureau. Impossible de garder ce joli petit démon silencieux."
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:419
 translate french sm1cs_ns009_sex_continue_2a841c70:
@@ -986,7 +986,7 @@ translate french sm1cs_ns009_sex_continue_890bdd56:
 translate french sm1cs_ns009_sex_continue_670887a5:
 
     # ns "Yesuaaah!"
-    ns "Yesuaaah !"
+    ns "Ouiuaaah !"
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:557
 translate french sm1cs_ns009_sex_continue_e011f773:
@@ -1088,7 +1088,7 @@ translate french sm1cs_ns009_sex_continue_6e1c3a07:
 translate french sm1cs_ns009_sex_continue_d5859887:
 
     # ns "Nuuhaah... I'm so glad-uhaah!"
-    ns "Nuuhaah... je suis tellement heureuse-uhaah !"
+    ns "Nuuhaah... je suis tellement heureuse... uhaah !"
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:593
 translate french sm1cs_ns009_sex_continue_d05ea38b:
@@ -1318,6 +1318,12 @@ translate french sm1cs_ns009_sex_end_f6a8e131:
     # mc "Good night, Nari."
     mc "Bonne nuit, Nari."
 
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
+translate french sm1cs_ns009_sex_continue_78168329:
+
+    # ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
+    ns "*ricane* Ne me rends pas {i}trop{/i} embarrassée, [mcname]."
+
 translate french strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:376
@@ -1328,6 +1334,14 @@ translate french strings:
     old "Eat out Nari"
     new "Manger la chatte de Nari"
 
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
+    old "Dominate Nari."
+    new "Dominer Nari."
+
+    # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:426
+    old "Don't dominate Nari."
+    new "Ne pas dominer Nari."
+
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:647
     old "Let Nari ride you"
     new "Laisser Nari te chevaucher"
@@ -1336,27 +1350,12 @@ translate french strings:
     old "Pronebone Nari"
     new "Baiser Nari en levrette allongée"
 
-#Translate by BlackViper_
-
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:514
-translate french sm1cs_ns009_sex_continue_78168329:
-
-    # ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
-    ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
-
-translate french strings:
-
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
     old "Dominate Nari"
-    new "Dominate Nari"
+    new "Dominer Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
     old "Don't dominate Nari"
-    new "Don't dominate Nari"
+    new "Ne pas dominer Nari"
 
-# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
-translate french sm1cs_ns009_f37a2921:
-
-    # mc "And... I totally wasn't scared."
-    mc "And... I totally wasn't scared."
-
+#Translate by BlackViper_

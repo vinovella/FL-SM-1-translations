@@ -368,7 +368,7 @@ translate french sm1cs_mh005_after_game_2364ab7f:
 translate french sm1cs_mh005_after_game_5f2e984c:
 
     # mh "Good. I'll-"
-    mh "Parfait. Alors je vais—"
+    mh "Parfait. Alors je vais..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:356
 translate french sm1cs_mh005_after_game_057c5926:
@@ -440,7 +440,7 @@ translate french sm1cs_mh005_after_game_9a8f7aa5:
 translate french sm1cs_mh005_after_game_8905117d:
 
     # mc "And that's not even getting into distribution and markets, and-"
-    mc "Et je ne parle même pas de la distribution, des marchés, et—"
+    mc "Et je ne parle même pas de la distribution, des marchés, et..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:395
 translate french sm1cs_mh005_after_game_8de5a559:
@@ -524,7 +524,7 @@ translate french sm1cs_mh005_after_game_5561e084:
 translate french sm1cs_mh005_after_game_eb0ed461:
 
     # mc "But, I thought-"
-    mc "Mais je croyais—"
+    mc "Mais je croyais..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:433
 translate french sm1cs_mh005_after_game_3311d4d6:
@@ -710,7 +710,7 @@ translate french sm1cs_mh005_blowjob_1e62d656:
 translate french sm1cs_mh005_blowjob_f16c65f9:
 
     # mh "Ooo, you been watching k-dramas lately, [mcname]?"
-    mh "Ooo, t’aurais pas regardé des k-dramas récemment, [mcname] ?"
+    mh "Ooo, t’aurais pas regardé des D-dramas récemment, [mcname] ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:543
 translate french sm1cs_mh005_blowjob_3d9109b0:
@@ -854,13 +854,13 @@ translate french sm1cs_mh005_blowjob_fb0ac2d9:
 translate french sm1cs_mh005_blowjob_0f72435e:
 
     # mc "Oh- Lyssa-!"
-    mc "Oh- Lyssa-!"
+    mc "Oh... Lyssa...!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:640
 translate french sm1cs_mh005_blowjob_21e67478:
 
     # mc "OH fuhh- Lyssa!"
-    mc "Ohhh putain- Lyssa !"
+    mc "Ohhh putain... Lyssa !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:644
 translate french sm1cs_mh005_blowjob_89fc186d:
@@ -872,31 +872,31 @@ translate french sm1cs_mh005_blowjob_89fc186d:
 translate french sm1cs_mh005_blowjob_df00c0bd:
 
     # mc "I-I almost forgot how good you are at this-"
-    mc "J-j’avais presque oublié à quel point tu es douée pour ça—"
+    mc "J-j’avais presque oublié à quel point tu es douée pour ça..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:649
 translate french sm1cs_mh005_blowjob_8468bb2f:
 
     # mc "Your lips - your tongue - fuuuuhhhnnnnngggg!"
-    mc "Tes lèvres... ta langue... fuuuuuuuuck !"
+    mc "Tes lèvres... ta langue... puuuuuuuutain !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:652
 translate french sm1cs_mh005_blowjob_3b47f7b8:
 
     # mc "Oh, God - Lyssa - Lyssa, I'm going to cum."
-    mc "Oh putain - Lyssa - Lyssa, je vais jouir."
+    mc "Oh putain... Lyssa... Lyssa, je vais jouir."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:654
 translate french sm1cs_mh005_blowjob_d43b3558:
 
     # mc "Ly-Lyssa! I'm going to - I'm going to-!"
-    mc "Ly-Lyssa ! Je vais... je vais—!"
+    mc "Ly-Lyssa ! Je vais... je vais...!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:656
 translate french sm1cs_mh005_blowjob_f9125357:
 
     # mc "Lyssa- I'm going to-!"
-    mc "Lyssa—je vais—!"
+    mc "Lyssa...je vais...!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:662
 translate french sm1cs_mh005_blowjob_24edeec4:
@@ -926,7 +926,7 @@ translate french sm1cs_mh005_blowjob_2f12fde7:
 translate french sm1cs_mh005_blowjob_6dbaab77:
 
     # mc "Lyssa, I-"
-    mc "Lyssa, je—"
+    mc "Lyssa, je..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:682
 translate french sm1cs_mh005_blowjob_61dceb13:

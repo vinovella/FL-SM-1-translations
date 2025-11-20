@@ -212,7 +212,7 @@ translate french sm1cs_ag002_e6fd0ff9:
 translate french sm1cs_ag002_2da191c6:
 
     # mct "I bet it's something like Animal Junction, or-"
-    mct "Je parie que c’est un truc genre Animal Junction, ou—"
+    mct "Je parie que c’est un truc genre Animal Junction, ou..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:150
 translate french sm1cs_ag002_cc5f2fae:
@@ -488,7 +488,7 @@ translate french sm1cs_ag002_c0900dc6:
 translate french sm1cs_ag002_e993bca9:
 
     # mct "Did she just say \"sexing\"?"
-    mct "Elle vient vraiment de dire « sexer » ?"
+    mct "Elle vient vraiment de dire \"sexer\"?"
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:289
 translate french sm1cs_ag002_ce767c36:
@@ -622,6 +622,12 @@ translate french sm1cs_ag002_5a330c8a:
     # mct "Hopefully it won't be too long before we can make that video game hang out happen."
     mct "J’espère que ça prendra pas trop longtemps avant qu’on puisse se faire cette session jeux vidéo."
 
+# game/code/scenes/it_office/ag/sm1cs-ag002.rpy:213
+translate french sm1cs_ag002_47fea000:
+
+    # mc "You know, \"Aubergine Anna\"?"
+    mc "Tu sais, \"Anna l'Aubergine\" ?"
+
 translate french strings:
 
     # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:36
@@ -637,9 +643,4 @@ translate french strings:
     new "Mojito"
 
 #Translate by BlackViper_
-# game/code/scenes/it_office/ag/sm1cs-ag002.rpy:213
-translate french sm1cs_ag002_47fea000:
-
-    # mc "You know, \"Aubergine Anna\"?"
-    mc "You know, \"Aubergine Anna\"?"
 

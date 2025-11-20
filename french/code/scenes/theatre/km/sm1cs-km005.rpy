@@ -302,7 +302,7 @@ translate french sm1cs_km005_af8e22ff:
 translate french sm1cs_km005_667f267e:
 
     # km "*nervously* Why would I ever like Veronica's photos? She's just an airhead who keeps stealing the lead roles and looks really good in jeans and a low cut-"
-    km "*nerveuse* Pourquoi j’aimerais les photos de Véronica, hein ? C’est juste une fille superficielle qui pique toujours les premiers rôles et qui… qui a l’air trop bien en jean et avec un décolleté—"
+    km "*nerveuse* Pourquoi j’aimerais les photos de Véronica, hein ? C’est juste une fille superficielle qui pique toujours les premiers rôles et qui… qui a l’air trop bien en jean et avec un décolleté..."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:174
 translate french sm1cs_km005_97ffde2c:
@@ -1046,7 +1046,7 @@ translate french sm1cs_km005_deaa75ef:
 translate french sm1cs_km005_f55e6501:
 
     # mc "Wha-"
-    mc "Qu—"
+    mc "Qu..."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:526
 translate french sm1cs_km005_2d425345:
@@ -1058,12 +1058,12 @@ translate french sm1cs_km005_2d425345:
 translate french sm1cs_km005_83fb6450:
 
     # km "*gasping*"
-    km "*haletant*"
+    km "*halète*"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:533
 translate french sm1cs_km005_4408dea2:
 
-    # mc "*heavy breathing*"
+    # mc "*respiration lourde*"
     mc "*respiration haletante*"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:538
@@ -1184,7 +1184,7 @@ translate french sm1cs_km005_a487a67f:
 translate french sm1cs_km005_aaced226:
 
     # km "Promise me that you won't tell Veronica I was looking through her stuff, [mcname]."
-    km "Promets-moi que tu ne dirais pas à Veronica que je regardais à travers ses affaires [mcname]."
+    km "Promets-moi que tu ne dirais pas à Veronica que je regardais ses affaires [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:609
 translate french sm1cs_km005_b0ac8bbb:
@@ -1196,7 +1196,7 @@ translate french sm1cs_km005_b0ac8bbb:
 translate french sm1cs_km005_de09ec72:
 
     # mc "You really should just talk to her about this, Kellie."
-    mc "Vous devriez vraiment lui en parler, Kellie."
+    mc "Tu devrais vraiment lui en parler, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:613
 translate french sm1cs_km005_41397898:
@@ -1208,25 +1208,25 @@ translate french sm1cs_km005_41397898:
 translate french sm1cs_km005_c2883a19:
 
     # km "Like you know anything about pining after someone who barely notices you."
-    km "Comme si vous saviez quelque chose à l'entrée après quelqu'un qui vous remarque à peine."
+    km "Comme si tu savais quoi que ce soit de ce que c'est que de languir après quelqu'un qui te remarque à peine."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:619
 translate french sm1cs_km005_ade2f48f:
 
     # mc "You'd actually be surprised."
-    mc "Vous seriez en fait surpris."
+    mc "Tu serais en fait surprise."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:620
 translate french sm1cs_km005_be7282a5:
 
     # mc "This doubt. It's all mental, Kellie. And if you like Veronica, like, really like her."
-    mc "Ce doute. Tout est mental, Kellie. Et si vous aimez Veronica, comme, vraiment l'aime."
+    mc "Ce doute. C'est purement psychologique, Kellie. Et si tu aimes Veronica, vraiment,."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:621
 translate french sm1cs_km005_9e69e67d:
 
     # mc "You owe it to yourself to at least try."
-    mc "Vous vous devez au moins d'essayer."
+    mc "Vous vous devez au moins d'essayer.."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:624
 translate french sm1cs_km005_391bdb58:
@@ -1244,13 +1244,13 @@ translate french sm1cs_km005_a43f4ab2:
 translate french sm1cs_km005_4849f05e:
 
     # km "Nope. I like my way better."
-    km "Non. J'aime mieux mon bien."
+    km "Non. Je préfère largement ma façon de faire.."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:633
 translate french sm1cs_km005_a604f368:
 
     # mc "You two work together in a theater troupe."
-    mc "Vous deux travaillez ensemble dans une troupe de théâtre."
+    mc "Vous travaillez ensemble dans une troupe de théâtre."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:636
 translate french sm1cs_km005_b2f06ead:
@@ -1280,7 +1280,7 @@ translate french sm1cs_km005_1d30ac8b:
 translate french sm1cs_km005_97837161:
 
     # mct "I should talk to Denise about getting the AC checked in the theater."
-    mct "Je devrais parler à Denise de faire vérifier l'AC au théâtre."
+    mct "Je devrais parler à Denise de faire vérifier la clim du théâtre."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:646
 translate french sm1cs_km005_413bf8ba:
@@ -1330,22 +1330,25 @@ translate french sm1cs_km005_fe17183d:
     # mct "Well, I guess the only thing to do is to tell Veronica about this new development."
     mct "Eh bien, je suppose que la seule chose à faire est de parler à Veronica de ce nouveau développement."
 
+# game/code/scenes/theatre/km/sm1cs-km005.rpy:429
+translate french sm1cs_km005_22270354:
+
+    # mc "Says the girl with hard nipples poking at her top."
+    mc "Dit la fille avec les tétons durs qui pointent à travers son haut."
+
 translate french strings:
 
     # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
     old "Why did you do that?"
     new "Pourquoi as-tu fait ça?"
-
-#Translate by BlackViper_
-# game/code/scenes/theatre/km/sm1cs-km005.rpy:429
-translate french sm1cs_km005_22270354:
-
-    # mc "Says the girl with hard nipples poking at her top."
-    mc "Says the girl with hard nipples poking at her top."
-
-translate french strings:
-
+    
+    # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
+    old "That was good. But now we've got a little mess to clean up."
+    new "C'était bien. Mais maintenant, nous avons un petit désordre à nettoyer."
+    
     # game/code/scenes/theatre/km/sm1cs-km005.rpy:535
     old "That was good. But now we've got a little mess to clean up"
-    new "That was good. But now we've got a little mess to clean up"
+    new "C’était bien. Mais maintenant on a un petit désordre à nettoyer"
+
+#Translate by BlackViper_
 

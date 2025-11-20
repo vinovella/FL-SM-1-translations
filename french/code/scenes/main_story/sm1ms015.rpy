@@ -874,34 +874,35 @@ translate french sm1ms015_894728ea:
     # sy "Yup."
     sy "Ouais."
 
-#Translate by BlackViper_
 # game/code/scenes/main_story/sm1ms015.rpy:38
 translate french sm1ms015_23dee611:
 
     # mc "Their main focus is developing IT solutions and infrastructure."
-    mc "Their main focus is developing IT solutions and infrastructure."
+    mc "Leur objectif principal est de développer des solutions informatiques et des infrastructures."
 
 # game/code/scenes/main_story/sm1ms015.rpy:47
 translate french sm1ms015_4211e622:
 
     # mc "Everything okay, Mom?"
-    mc "Everything okay, Mom?"
+    mc "Tout va bien, Maman ?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:157
 translate french sm1ms015_d989617b:
 
     # cw "Never mind."
-    cw "Never mind."
+    cw "Laisse tomber."
 
 # game/code/scenes/main_story/sm1ms015.rpy:246
 translate french sm1ms015_fdab53eb:
 
     # ns "And I'm delighted to meet you too, Ms. Melony."
-    ns "And I'm delighted to meet you too, Ms. Melony."
+    ns "Et je suis ravie de vous rencontrer aussi, Madame Melony."
 
 # game/code/scenes/main_story/sm1ms015.rpy:381
 translate french sm1ms015_23fb47ba:
 
     # sy "Haha. He's got you there, Mom."
-    sy "Haha. He's got you there, Mom."
+    sy "Haha. Là, il t’a bien eue, Maman."
+
+#Translate by BlackViper_
 

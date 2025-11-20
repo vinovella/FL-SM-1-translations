@@ -134,7 +134,7 @@
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday} lundi"
+    new "{#weekday} Lundi"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
@@ -162,11 +162,11 @@
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new "{#weekday_short} Mon"
+    new "{#weekday_short} Lun"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "{#weekday_short} mar"
+    new "{#weekday_short} Mar"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
@@ -174,19 +174,19 @@
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "{#weekday_short} Thu"
+    new "{#weekday_short} Jeu"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "{#weekday_short} ven"
+    new "{#weekday_short} Ven"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short} Sat"
+    new "{#weekday_short} Sam"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short} Soleil"
+    new "{#weekday_short} Dim"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
@@ -194,7 +194,7 @@
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new "{#month} Février"
+    new "{#month} février"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
@@ -222,7 +222,7 @@
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new "{#month} Septembre"
+    new "{#month} septembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
@@ -242,31 +242,31 @@
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new "{#month_short} février"
+    new "{#month_short} Fév"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new "{#month_short} MAR"
+    new "{#month_short} Mar"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new "{#month_short} avril"
+    new "{#month_short} Avr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new "{#month_short} mai"
+    new "{#month_short} Mai"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new "{#month_short} juin"
+    new "{#month_short} Juin"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new "{#month_short} Jul"
+    new "{#month_short} Juil"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new "{#month_short} août"
+    new "{#month_short} Aoû"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
@@ -274,15 +274,15 @@
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new "{#month_short} octobre"
+    new "{#month_short} Oct"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new "{#month_short} nov"
+    new "{#month_short} Nov"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new "{#month_short} Dec"
+    new "{#month_short} Déc"
 
     # renpy/common/00action_file.rpy:258
     old "%b %d, %H:%M"

@@ -146,7 +146,7 @@ translate french sm1cs_am_renovation_998ea2a4:
 translate french sm1cs_am_renovation_0b2cf3d8:
 
     # mc "But honestly, it was just a-"
-    mc "Mais franchement, c’était juste un—"
+    mc "Mais franchement, c’était juste un..."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:85
 translate french sm1cs_am_renovation_fd255b6a:
@@ -416,7 +416,7 @@ translate french sm1cs_am_renovation_later_5b7eaca7:
 translate french sm1cs_am_renovation_later_cfcc4e77:
 
     # am "Listen closely, dummy. We might be dating but that doesn't mean my body is free to-"
-    am "Écoute bien, idiot. On sort peut-être ensemble mais ça veut pas dire que mon corps est en libre-service—"
+    am "Écoute bien, idiot. On sort peut-être ensemble mais ça veut pas dire que mon corps est en libre-service..."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:251
 translate french sm1cs_am_renovation_later_00146ce6:
@@ -664,6 +664,18 @@ translate french sm1cs_am_renovation_later_0dfc7207:
     # mc "Yeah. See ya around."
     mc "Ouais. À bientôt."
 
+# game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:233
+translate french sm1cs_am_renovation_later_e7545316:
+
+    # am "Fucking charley horse. Nrraaah."
+    am "Putain de crampe. Nrraaah."
+
+# game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:283
+translate french sm1cs_am_renovation_later_796e7fbc:
+
+    # mc "Another charley horse?"
+    mc "Encore une crampe ?"
+
 translate french strings:
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:38
@@ -675,6 +687,10 @@ translate french strings:
     new "Laisser couler"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
+    old "I didn't think to ask."
+    new "Je n’ai pas pensé à demander."
+
+    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "You want to help?"
     new "Tu veux aider ?"
 
@@ -682,39 +698,36 @@ translate french strings:
     old "A few minutes later"
     new "Quelques minutes plus tard"
 
+    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
+    old "Ask April what she did."
+    new "Demander à April ce qu’elle a fait."
+
+    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
+    old "Complain to April."
+    new "Se plaindre à April."
+
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Lie"
     new "Mentir"
 
-#Translate by BlackViper_
-
-# game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:233
-translate french sm1cs_am_renovation_later_e7545316:
-
-    # am "Fucking charley horse. Nrraaah."
-    am "Fucking charley horse. Nrraaah."
-
-# game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:283
-translate french sm1cs_am_renovation_later_796e7fbc:
-
-    # mc "Another charley horse?"
-    mc "Another charley horse?"
-
-translate french strings:
+    # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
+    old "Promise the answer one day."
+    new "Promettre de répondre un jour."
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "I didn't think to ask"
-    new "I didn't think to ask"
+    new "Je n’ai pas pensé à demander"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
     old "Ask April what she did"
-    new "Ask April what she did"
+    new "Demander à April ce qu’elle a fait"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
     old "Complain to April"
-    new "Complain to April"
+    new "Se plaindre à April"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Promise the answer one day"
-    new "Promise the answer one day"
+    new "Promettre de donner la réponse un jour"
 
+#Translate by BlackViper_

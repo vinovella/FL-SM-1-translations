@@ -69,207 +69,195 @@
     new "Bon..."
 
     # game/code/data/chat/chat_mes.rpy:58
+    old "Nevermind. Are you down or not?"
+    new "Laisse tomber. Alors, tu viens ou pas ?"
+
+    # game/code/data/chat/chat_mes.rpy:58
     old "Yes, Min. Send me the details."
     new "Oui, Min. Envoie-moi les détails."
 
-#Translate by BlackViper_
-translate french strings:
-
     # game/code/data/chat/chat_mes.rpy:58
     old "Never mind. Are you down or not?"
-    new "Never mind. Are you down or not?"
+    new "Laisse tomber. Tu viens ou pas ?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Hello [mcname!i]."
-    new "Hello [mcname!i]."
+    new "Salut, [mcname!i]."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Hi Min."
-    new "Hi Min."
+    new "Salut Min."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Nice to hear from you."
-    new "Nice to hear from you."
+    new "Ça fait plaisir d’avoir de tes nouvelles."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "You're probably the only one who thinks so."
-    new "You're probably the only one who thinks so."
+    new "Tu es probablement le seul à penser ça."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "What happened?"
-    new "What happened?"
+    new "Qu'est-ce qui s’est passé ?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I got into a spirited discussion with a professor."
-    new "I got into a spirited discussion with a professor."
+    new "J'ai eu une discussion animée avec un professeur."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "That turned into a shouting match."
-    new "That turned into a shouting match."
+    new "Qui a fini en dispute à voix haute."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Uh. That doesn't sound like you."
-    new "Uh. That doesn't sound like you."
+    new "Euh… ça ne te ressemble pas."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "What started the argument?"
-    new "What started the argument?"
+    new "Qu’est-ce qui a déclenché ça ?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Don't worry about it."
-    new "Don't worry about it."
+    new "Ne t’en fais pas avec ça."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Yup. Just don't ask Professor Selbig."
-    new "Yup. Just don't ask Professor Selbig."
+    new "Ouais. Évite juste de demander au professeur Selbig."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "How was your day?"
-    new "How was your day?"
+    new "Et ta journée ?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Good. Working hard as usual."
-    new "Good. Working hard as usual."
+    new "Bien. Je travaille dur comme d’hab."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "As usual? I've never seen you work hard."
-    new "As usual? I've never seen you work hard."
+    new "Comme d’hab ? Je t’ai jamais vu travailler dur."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I work hard and play hard."
-    new "I work hard and play hard."
+    new "Je travaille dur et je m’amuse dur."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Talk to you later, [mcname!i]."
-    new "Talk to you later, [mcname!i]."
+    new "On se reparle plus tard, [mcname!i]."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Done with me so soon?"
-    new "Done with me so soon?"
+    new "Tu me lâches déjà ?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I have to study. But I'll give you something to tide you over."
-    new "I have to study. But I'll give you something to tide you over."
+    new "Je dois étudier. Mais je peux te laisser de quoi tenir."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Wish you were here to warm my body."
-    new "Wish you were here to warm my body."
+    new "J’aimerais que tu sois là pour réchauffer mon corps."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Let's arrange that soon."
-    new "Let's arrange that soon."
+    new "On s’arrange ça très bientôt."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Hey, what are you doing?"
-    new "Hey, what are you doing?"
+    new "Hey, tu fais quoi ?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Nothing. You?"
-    new "Nothing. You?"
+    new "Rien. Et toi ?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I was thinking I could go for some fun."
-    new "I was thinking I could go for some fun."
+    new "Je me disais que j’aurais envie de m’amuser un peu."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Sexy fun."
-    new "Sexy fun."
+    new "Genre… du fun sexy."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Haha. You really have a one-track mind."
-    new "Haha. You really have a one-track mind."
+    new "Haha. Toujours une seule idée en tête, toi."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I was thinking of a game night. You, Stacy, and me."
-    new "I was thinking of a game night. You, Stacy, and me."
+    new "Je pensais à une soirée jeux. Toi, Stacy et moi."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Sounds fun. I didn't think you'd want Stacy involved?"
-    new "Sounds fun. I didn't think you'd want Stacy involved?"
+    new "Ça a l’air cool. Je pensais pas que tu voulais Stacy dans le truc ?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I do. She seems fun. And she's a big part of your life isn't she?"
-    new "I do. She seems fun. And she's a big part of your life isn't she?"
+    new "Si. Elle a l’air sympa. Et elle compte beaucoup pour toi, non ?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Yes she is."
-    new "Yes she is."
+    new "Oui, c’est vrai."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Unfortunately yes. She's always here."
-    new "Unfortunately yes. She's always here."
+    new "Malheureusement oui. Elle est toujours là."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "It's like we're living together."
-    new "It's like we're living together."
+    new "On dirait qu’on vit ensemble."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Haha. I get it."
-    new "Haha. I get it."
+    new "Haha. Je vois le délire."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "There is a board game I've been wanting to try out."
-    new "There is a board game I've been wanting to try out."
+    new "Il y a un jeu de société que j’aimerais essayer."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I'll go buy it and get some junk food."
-    new "I'll go buy it and get some junk food."
+    new "Je vais l’acheter et prendre de la bouffe."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "All you need to do is come over."
-    new "All you need to do is come over."
+    new "Tout ce que tu as à faire, c’est venir."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Alright, does this evening work?"
-    new "Alright, does this evening work?"
+    new "Ça te va pour ce soir ?"
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Perfect. See you then."
-    new "Perfect. See you then."
+    new "Parfait. À tout à l’heure alors."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Hey sexy."
-    new "Hey sexy."
+    new "Salut, sexy."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Oooh. Someone is in a good mood."
-    new "Oooh. Someone is in a good mood."
+    new "Oooh. Quelqu’un est de bonne humeur."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "I always am when I talk to you."
-    new "I always am when I talk to you."
+    new "Toujours, quand je te parle."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "I have time today, ready to move in?"
-    new "I have time today, ready to move in?"
+    new "J'ai du temps aujourd'hui, prêt(e) à emménager ?"
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Yes!"
-    new "Yes!"
+    new "Oui !"
 
     # game/code/data/chat/chat_mes.rpy:358
     old "I can't wait to put this place behind me."
-    new "I can't wait to put this place behind me."
+    new "J'ai hâte de laisser cet endroit derrière moi."
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Awesome. Why don't you come over?"
-    new "Awesome. Why don't you come over?"
+    new "Parfait. Tu veux venir maintenant ?"
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Perfect."
-    new "Perfect."
+    new "Parfait."
 
-translate french strings:
-
-    # game/code/data/chat/chat_mes.rpy:112
-    old "Everything all right?"
-    new "Everything all right?"
-
-    # game/code/data/chat/chat_mes.rpy:112
-    old "I hope you were the winner."
-    new "I hope you were the winner."
-
-    # game/code/data/chat/chat_mes.rpy:112
-    old "It is now."
-    new "It is now."
-
+#Translate by BlackViper_

@@ -112,6 +112,12 @@ translate french sm1fs_i004_7dd67392:
     # ag "I don't need the attitude, April."
     ag "J’ai pas besoin de ton attitude, April."
 
+# game/code/scenes/it_office/sm1fs-i004.rpy:82
+translate french sm1fs_i004_bfc49473:
+
+    # am "Sorry, {i}Aubergine Anna{/i}."
+    am "Désolée, {i}Aubergine Anna{/i}."
+
 # game/code/scenes/it_office/sm1fs-i004.rpy:85
 translate french sm1fs_i004_bbcc2a25:
 
@@ -164,7 +170,7 @@ translate french sm1fs_i004_b249b4c1:
 translate french sm1fs_i004_a6a75cb9:
 
     # am "And how many were in mine?"
-    am "Et combien dans le mien ?"
+    am "Et combien dans le tien ?"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:112
 translate french sm1fs_i004_e8bf654c:
@@ -189,6 +195,12 @@ translate french sm1fs_i004_3c2c4bec:
 
     # ag "Nari-"
     ag "Nari..."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:124
+translate french sm1fs_i004_e997d712:
+
+    # ns "Yes, Aubergine Anna?"
+    ns "Oui, Aubergine Anna ?"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:127
 translate french sm1fs_i004_12c4a685:
@@ -243,6 +255,12 @@ translate french sm1fs_i004_629db91f:
 
     # cw "We are looking forward to working with you, and your network. We have a brief presentation about our plan for your new website."
     cw "Nous avons hâte de travailler avec vous et votre réseau. Nous avons une courte présentation de notre plan pour votre nouveau site web."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:160
+translate french sm1fs_i004_037241da:
+
+    # cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a news website."
+    cw "Nos équipes ici chez Orbix ont fait une analyse du marché. Elles ont proposé quelques solutions pour un site d'actualités."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:163
 translate french sm1fs_i004_b32c8de0:
@@ -315,6 +333,12 @@ translate french sm1fs_i004_5721f7bc:
 
     # atp "We should work closely together so there are no screwups."
     atp "On devrait travailler en étroite collaboration pour éviter les ratés."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:196
+translate french sm1fs_i004_d0ed86ec:
+
+    # cw "Of course. We're excited to be in business with you, Angela. As soon as we have a progress update, I'll get in touch."
+    cw "Bien sûr. Nous sommes ravis de travailler avec vous, Angela. Dès que nous aurons une mise à jour sur l’avancement, je vous recontacterai."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:199
 translate french sm1fs_i004_d2033644:
@@ -496,6 +520,12 @@ translate french sm1fs_i004_697af26a:
     # am "But if a bunch of dumb code-monkeys messed around with it-"
     am "Mais si une bande de singes du code a tout salopé..."
 
+# game/code/scenes/it_office/sm1fs-i004.rpy:298
+translate french sm1fs_i004_e556069d:
+
+    # cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're asleep."
+    cw "C’est pour ça que vous avez quatre semaines au lieu de trois. Il faudra peut-être travailler pendant votre sommeil."
+
 # game/code/scenes/it_office/sm1fs-i004.rpy:303
 translate french sm1fs_i004_7f3a1e1d:
 
@@ -585,6 +615,12 @@ translate french sm1fs_i004_3608ec25:
 
     # am "Ahem. Listen I..."
     am "Ahem. Écoute, je..."
+
+# game/code/scenes/it_office/sm1fs-i004.rpy:356
+translate french sm1fs_i004_058155eb:
+
+    # am "You are... You're..."
+    am "Tu es... Tu es..."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:359
 translate french sm1fs_i004_454f418c:
@@ -691,57 +727,31 @@ translate french sm1fs_i004_9f0edafa:
 translate french strings:
 
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
+    old "I do, I love Kikini Bill."
+    new "Oui, j’adore Kikini Bill."
+
+    # game/code/scenes/it_office/sm1fs-i004.rpy:390
+    old "Uh, yep! Totally."
+    new "Euh, ouais ! Carrément."
+
+    # game/code/scenes/it_office/sm1fs-i004.rpy:390
+    old "I don't mind some... Punk rock."
+    new "Ça me dérange pas d’écouter un peu... de punk rock."
+
+    # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "I'd rather listen to classic rock!"
     new "Je préfère écouter du rock classique !"
 
-#Translate by BlackViper_
-# game/code/scenes/it_office/sm1fs-i004.rpy:82
-translate french sm1fs_i004_bfc49473:
-
-    # am "Sorry, {i}Aubergine Anna{/i}."
-    am "Sorry, {i}Aubergine Anna{/i}."
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:124
-translate french sm1fs_i004_e997d712:
-
-    # ns "Yes, Aubergine Anna?"
-    ns "Yes, Aubergine Anna?"
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:160
-translate french sm1fs_i004_037241da:
-
-    # cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a news website."
-    cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a news website."
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:196
-translate french sm1fs_i004_d0ed86ec:
-
-    # cw "Of course. We're excited to be in business with you, Angela. As soon as we have a progress update, I'll get in touch."
-    cw "Of course. We're excited to be in business with you, Angela. As soon as we have a progress update, I'll get in touch."
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:298
-translate french sm1fs_i004_e556069d:
-
-    # cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're asleep."
-    cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're asleep."
-
-# game/code/scenes/it_office/sm1fs-i004.rpy:356
-translate french sm1fs_i004_058155eb:
-
-    # am "You are... You're..."
-    am "You are... You're..."
-
-translate french strings:
-
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "I do, I love Kikini Bill"
-    new "I do, I love Kikini Bill"
+    new "Oui, j'adore Kikini Bill"
 
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "Uh, yep! Totally"
-    new "Uh, yep! Totally"
+    new "Euh, ouais ! Complètement"
 
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "I don't mind some... Punk rock"
-    new "I don't mind some... Punk rock"
+    new "Ça me dérange pas un peu de... Punk rock"
 
+#Translate by BlackViper_

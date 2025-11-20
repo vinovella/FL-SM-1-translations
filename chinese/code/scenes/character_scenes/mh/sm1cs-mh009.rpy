@@ -2424,5 +2424,5 @@ translate chinese strings:
 translate chinese sm1cs_mh009_e9245de9:
 
     # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
-    mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
+    mct "她在说一些非常重要的事情。她真的因为性爱采访的想法而兴奋到想暂时忽略这些吗？"
 

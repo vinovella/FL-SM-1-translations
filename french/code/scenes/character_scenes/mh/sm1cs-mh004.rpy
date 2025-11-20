@@ -284,7 +284,7 @@ translate french sm1cs_mh004_flashback_c9a86800:
 translate french sm1cs_mh004_flashback_20b0c9c7:
 
     # mc "The opportunity was there, and-"
-    mc "L’occasion était là, et—"
+    mc "L’occasion était là, et..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:266
 translate french sm1cs_mh004_flashback_46cec061:
@@ -392,7 +392,7 @@ translate french sm1cs_mh004_flashback_6607fb08:
 translate french sm1cs_mh004_flashback_45d5a74f:
 
     # mc "Stacy's cool-"
-    mc "Stacy est d’accord—"
+    mc "Stacy est d’accord..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:316
 translate french sm1cs_mh004_flashback_8aff9180:

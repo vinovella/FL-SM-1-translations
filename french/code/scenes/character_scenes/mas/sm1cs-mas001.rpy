@@ -206,7 +206,7 @@ translate french sm1cs_mas001_42be92ed:
 translate french sm1cs_mas001_5149d891:
 
     # ms "I'll see you around, [mcname]."
-    ms "On se revoit, [mcname]."
+    ms "On se revoit plus tard, [mcname]."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas001.rpy:121
 translate french sm1cs_mas001_bf45c723:

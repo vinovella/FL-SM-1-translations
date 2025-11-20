@@ -33,8 +33,8 @@
     new "Completa la tua seconda audizione"
 
     # game/code/data/gallery/achievements.rpy:1
-    old "05: ARRRRRRGGGGHHH!"
-    new "05: ARRRRRRGGGGHHH!"
+    old "ARRRRRRGGGGHHH!"
+    new "ARRRRRRGGGGHHH!"
 
     # game/code/data/gallery/achievements.rpy:1
     old "Complete your pirate adventure"
@@ -153,8 +153,8 @@
     new "Incontra ogni personaggio nel gioco"
 
     # game/code/data/gallery/achievements.rpy:1
-    old "20: FL OG"
-    new "20: FL OG"
+    old "FL OG"
+    new "FL OG"
 
     # game/code/data/gallery/achievements.rpy:1
     old "Finish main story with minigames"

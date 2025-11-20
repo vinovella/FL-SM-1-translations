@@ -770,7 +770,7 @@ translate french sm1mv01s03_2_014a8449:
 translate french sm1mv01s03_2_d921e6c6:
 
     # sy "Don't forget bondage in the 'Recruitment' scene."
-    sy "N’oubliez pas le bondage dans la scène «Recrutement»."
+    sy "N’oubliez pas le bondage dans la scène 'Recrutement'."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:417
 translate french sm1mv01s03_2_2b35b6fe_1:

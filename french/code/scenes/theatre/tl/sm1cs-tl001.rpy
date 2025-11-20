@@ -50,13 +50,13 @@ translate french sm1cs_tl001_11455b53:
 translate french sm1cs_tl001_2dccf79c:
 
     # tl "I thought you were going to say \"tomorrow\" or \"this weekend\"."
-    tl "Je pensais que t’allais dire « demain » ou « ce week-end »."
+    tl "Je pensais que t’allais dire \"demain\" ou \"ce week-end\"."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:48
 translate french sm1cs_tl001_50af5136:
 
     # mc "We've got a lot of moving parts and aren't exactly liquid-"
-    mc "Disons qu’on a beaucoup de choses à gérer, et qu’on n’est pas vraiment pleins aux as—"
+    mc "Disons qu’on a beaucoup de choses à gérer, et qu’on n’est pas vraiment pleins aux as..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:50
 translate french sm1cs_tl001_28ffc5b8:
@@ -86,7 +86,7 @@ translate french sm1cs_tl001_c3b67424:
 translate french sm1cs_tl001_d720da5d:
 
     # mc "Well we're still building things up around here, and-"
-    mc "Disons qu’on est encore en train de tout mettre en place ici, et—"
+    mc "Disons qu’on est encore en train de tout mettre en place ici, et..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:66
 translate french sm1cs_tl001_6ff2c38e:
@@ -104,7 +104,7 @@ translate french sm1cs_tl001_dfd81e46:
 translate french sm1cs_tl001_cb305ab5:
 
     # sy "We're really not sure, Taisia. First we needed to get a star - like you - and now we need to get all of the other stuff figured out to make the studio kosher."
-    sy "On n’en est vraiment pas sûrs, Taisia. D’abord, il nous fallait une star — comme toi — et maintenant, on doit régler tout le reste pour que le studio tourne correctement."
+    sy "On n’en est vraiment pas sûrs, Taisia. D’abord, il nous fallait une star ... comme toi ... et maintenant, on doit régler tout le reste pour que le studio tourne correctement."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:76
 translate french sm1cs_tl001_4b237aef:
@@ -140,7 +140,7 @@ translate french sm1cs_tl001_1bf87679:
 translate french sm1cs_tl001_31b1e374:
 
     # tl "I mean, people have tried weirder so I get it, but-"
-    tl "Enfin, j’veux dire, j’ai déjà vu pire comme tentatives, donc je peux comprendre, mais—"
+    tl "Enfin, j’veux dire, j’ai déjà vu pire comme tentatives, donc je peux comprendre, mais..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:94
 translate french sm1cs_tl001_2659dffa:
@@ -206,13 +206,13 @@ translate french sm1cs_tl001_91168861:
 translate french sm1cs_tl001_c21c00c6:
 
     # mc "Okay, su-"
-    mc "D’accord, d’ac—"
+    mc "D’accord, d’ac..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:127
 translate french sm1cs_tl001_bb1c753e:
 
     # tl "I {i}seriously{/i} don't want to talk about it."
-    tl "Je {i}sérieusement{/i} ne veux pas en parler."
+    tl "{i}Sérieusement{/i} Je ne veux pas en parler ."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:130
 translate french sm1cs_tl001_469d431b:
@@ -302,7 +302,7 @@ translate french sm1cs_tl001_bff5b1d9:
 translate french sm1cs_tl001_550ea4e2:
 
     # tl "Even though my \"performance\" could use some work?"
-    tl "Même si mes « performances » ont encore besoin d’un peu d’entraînement ?"
+    tl "Même si mes \"performances\" ont encore besoin d’un peu d’entraînement ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:171
 translate french sm1cs_tl001_611fc485:
@@ -332,7 +332,7 @@ translate french sm1cs_tl001_4338fb9e:
 translate french sm1cs_tl001_5306147d:
 
     # sy "Hang on a sec, [mcname]-"
-    sy "Attends une seconde, [mcname]—"
+    sy "Attends une seconde, [mcname]..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:185
 translate french sm1cs_tl001_4a7c2092:

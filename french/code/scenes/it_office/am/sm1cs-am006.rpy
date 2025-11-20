@@ -260,7 +260,7 @@ translate french sm1cs_am006_arcade_6f776b05:
 translate french sm1cs_am006_arcade_ae7ac2a8:
 
     # am "That's not what I-"
-    am "C’est pas ce que je—"
+    am "C’est pas ce que je..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:159
 translate french sm1cs_am006_arcade_79b887a9:
@@ -428,7 +428,7 @@ translate french sm1cs_am006_arcade_1c8acf17:
 translate french sm1cs_am006_arcade_f6fc5558:
 
     # am "I told you, I was just pent up from the music and-"
-    am "Je t’ai dit, j’étais juste excitée par la musique et—"
+    am "Je t’ai dit, j’étais juste excitée par la musique et..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:257
 translate french sm1cs_am006_arcade_d197a121:
@@ -530,7 +530,7 @@ translate french sm1cs_am006_arcade_8b7ce4f0:
 translate french sm1cs_am006_arcade_c654b893:
 
     # mc "Three times is-"
-    mc "Trois fois, c’est—"
+    mc "Trois fois, c’est..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:388
 translate french sm1cs_am006_arcade_07e6e1a0:
@@ -872,7 +872,7 @@ translate french sm1cs_am006_arcade_43393439:
 translate french sm1cs_am006_arcade_6e779a52:
 
     # am "Unless... you wanted me to-"
-    am "À moins que... tu veuilles que je—"
+    am "À moins que... tu veuilles que je..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:665
 translate french sm1cs_am006_arcade_421888ee:
@@ -994,7 +994,263 @@ translate french sm1cs_am006_arcade_b400fc7f:
     # mc "This way."
     mc "Par là."
 
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:54
+translate french sm1cs_am006_58ee8e36:
+
+    # mc "Isn't the customer always right?"
+    mc "Le client n’a pas toujours raison ?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:227
+translate french sm1cs_am006_arcade_6c8b6bb5:
+
+    # am "I {b}know{/b} I can be a lot.{w} That's what you're thinking, right?"
+    am "Je {b}sais{/b} que je peux être intense.{w} C’est ce que tu te dis, hein ?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:238
+translate french sm1cs_am006_arcade_e0313ce3:
+
+    # mc "So you're going to try lowering your shields?"
+    mc "Donc tu vas essayer de baisser la garde ?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:250
+translate french sm1cs_am006_arcade_073a951f:
+
+    # am "I'm not {b}that{/b} easy, [mcname]."
+    am "Je ne suis pas {b}si{/b} facile, [mcname]."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:253
+translate french sm1cs_am006_arcade_3b107314:
+
+    # mc "The last time we were out, you asked me to fuck you in your car..."
+    mc "La dernière fois qu’on est sortis, tu m’as demandé de te baiser dans ta voiture..."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:290
+translate french sm1cs_am006_arcade_521a9133:
+
+    # mct "I remember this machine.{w} It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
+    mct "Je me souviens de cette machine.{w} C’est plus simple de viser les gros cercles, mais tu gagnes plus de points avec les petits."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:318
+translate french sm1cs_am006_arcade_134ebe15:
+
+    # am "I'm a little rusty..."
+    am "Je suis un peu rouillée..."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:324
+translate french sm1cs_am006_arcade_ebdf84e1:
+
+    # am "And you know you're never going to see my smaller {b}hole{/b} acting like that."
+    am "Et tu sais que tu verras jamais mon {b}petit trou{/b} si tu agis comme ça."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:352
+translate french sm1cs_am006_arcade_cbdde717:
+
+    # am "It's gotta be you.{w} When I do this alone, I always score way higher."
+    am "Ça vient de toi.{w} Quand je le fais seule, je marque beaucoup plus."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:355
+translate french sm1cs_am006_arcade_ee626115:
+
+    # mc "That might be it.{w} Or it's because you're not really letting yourself relax."
+    mc "Peut-être.{w} Ou alors c’est parce que tu ne te détends pas vraiment."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:364
+translate french sm1cs_am006_arcade_52b129bf:
+
+    # mc "I studied your movements, April.{w} Your body was so stiff and tense."
+    mc "J’ai observé tes mouvements, April.{w} Ton corps était tout raide, tendu."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:371
+translate french sm1cs_am006_arcade_f9779a86:
+
+    # mc "Yeah, sounds like you're {b}totally{/b} relaxed."
+    mc "Ouais, tu as l’air {b}vraiment{/b} détendue."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:380
+translate french sm1cs_am006_arcade_cfd32586:
+
+    # mc "Once is lucky.{w} Twice is just plain {b}good{/b}."
+    mc "Une fois c’est de la chance.{w} Deux fois, c’est juste que t’es {b}douée{/b}."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:402
+translate french sm1cs_am006_arcade_999e1d2f:
+
+    # am "No way.{w} Best two out of three."
+    am "Pas question.{w} Deux manches gagnantes sur trois."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:439
+translate french sm1cs_am006_arcade_585579e4:
+
+    # am "Yes!{w} Wooh. She shoots, she scores!"
+    am "Oui !{w} Wooh. Elle tire et elle marque !"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:448
+translate french sm1cs_am006_arcade_39c7e4cc:
+
+    # am "In your face!{w} In your stupid handsome face!"
+    am "Dans ta face !{w} Dans ta stupide jolie face !"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:457
+translate french sm1cs_am006_arcade_97275737:
+
+    # am "Oh yeah.{w} Forget I said anything."
+    am "Ah oui.{w} Oublie ce que j’ai dit."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:491
+translate french sm1cs_am006_arcade_140a6992:
+
+    # mc "So spill it.{w} When was the last time you let your shields down?"
+    mc "Alors vas-y.{w} C’était quand la dernière fois que tu as baissé la garde ?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:511
+translate french sm1cs_am006_arcade_288b6525:
+
+    # mc "Okay, liar."
+    mc "Ok, menteuse."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:514
+translate french sm1cs_am006_arcade_e0d555f5:
+
+    # am "I'm not lying.{w} I... I really mean it, [mcname]."
+    am "Je mens pas.{w} Je... Je le pense vraiment, [mcname]."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:515
+translate french sm1cs_am006_arcade_14e32ccd:
+
+    # am "It's probably been years..."
+    am "Ça fait sûrement des années..."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:518
+translate french sm1cs_am006_arcade_b70189dd:
+
+    # am "Around middle school is when I realized how good I was with computers..."
+    am "Au collège, j’ai réalisé que j’étais douée en informatique..."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:519
+translate french sm1cs_am006_arcade_49acd481:
+
+    # am "When I started getting really good, a lot of guys {i}changed{/i} how they acted toward me."
+    am "Quand j’ai commencé à vraiment m’améliorer, beaucoup de mecs ont {i}changé{/i} leur comportement avec moi."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:520
+translate french sm1cs_am006_arcade_d1126a46:
+
+    # am "Sometimes it was small changes.{w} Other times..."
+    am "Parfois, c’était subtil.{w} D’autres fois..."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:521
+translate french sm1cs_am006_arcade_ffa0b403:
+
+    # am "I lost friends.{w} People I knew for years turned into super assholes."
+    am "J’ai perdu des amis.{w} Des gens que je connaissais depuis des années sont devenus des gros connards."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:524
+translate french sm1cs_am006_arcade_53a463b4:
+
+    # mct "I can't imagine that was easy."
+    mct "Je n’imagine pas que ça ait été facile."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:542
+translate french sm1cs_am006_arcade_2be93e70:
+
+    # am "I had to break them with my words.{w} Or at least get them to leave me the hell alone."
+    am "J’ai dû les briser avec mes mots.{w} Ou au moins les faire me foutre la paix."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:545
+translate french sm1cs_am006_arcade_1579fa81:
+
+    # mc "Is that why you treat Anna like you do?{w} Because she got the promotion and is now above you?"
+    mc "C’est pour ça que tu traites Anna comme ça ?{w} Parce qu’elle a eu la promotion et qu’elle est passée au-dessus de toi ?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:558
+translate french sm1cs_am006_arcade_1106ff6e:
+
+    # mc "Maybe because I'm the first non-asshole who saw the {i}real{/i} you?{w} Underneath the barbs."
+    mc "Peut-être parce que je suis le premier non-connard à avoir vu la {i}vraie{/i} toi ?{w} Sous les piques."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:562
+translate french sm1cs_am006_arcade_d4cb5c7b:
+
+    # am "Hmmph.{w} Maybe you're onto something."
+    am "Hmmph.{w} Peut-être bien que tu tiens quelque chose."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:563
+translate french sm1cs_am006_arcade_33057f39:
+
+    # am "But more realistically, it's probably because I have a crush on you."
+    am "Mais plus réalistement, c’est probablement parce que je craque pour toi."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:564
+translate french sm1cs_am006_arcade_ed63b19c:
+
+    # am "And one day, it will wear off."
+    am "Et un jour, ça passera."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:576
+translate french sm1cs_am006_arcade_536b2a6a:
+
+    # mc "I do.{w} Maybe we can test things out again."
+    mc "Je sais.{w} Peut-être qu’on peut réessayer."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:588
+translate french sm1cs_am006_arcade_db3fe2b0:
+
+    # mc "*softly* The basics."
+    mc "*doucement* Les bases."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:623
+translate french sm1cs_am006_arcade_811460c5:
+
+    # mc "Okay, okay.{w} We don't have to-"
+    mc "Ok, ok.{w} On n’est pas obligés de..."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:646
+translate french sm1cs_am006_arcade_cfd32586:
+
+    # mct "Woah.{w} She's... she's really into this."
+    mct "Wow.{w} Elle... elle est vraiment dedans."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:665
+translate french sm1cs_am006_arcade_07a645a2:
+
+    # am "What?{w} No. Of course I didn't.{w} Shut up!"
+    am "Quoi ?{w} Non. Bien sûr que non.{w} Tais-toi !"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:675
+translate french sm1cs_am006_arcade_9eebb2e3:
+
+    # am "I know.{w} I don't know what's gotten into me."
+    am "Je sais.{w} Je ne sais pas ce qui me prend."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:679
+translate french sm1cs_am006_arcade_5446535a:
+
+    # am "I {b}hate{/b} that thought more."
+    am "Cette idée, je la {b}déteste{/b} encore plus."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:683
+translate french sm1cs_am006_arcade_157700e7:
+
+    # mc "So what happens now?"
+    mc "Donc, qu’est-ce qui se passe maintenant ?"
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:688
+translate french sm1cs_am006_arcade_f98c4280:
+
+    # am "You {i}were{/i} right, this was a good idea."
+    am "Tu {i}avais{/i} raison, c’était une bonne idée."
+
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:689
+translate french sm1cs_am006_arcade_bb8e3797:
+
+    # am "I just.{w} For now, I still need time."
+    am "C’est juste que...{w} Pour l’instant, j’ai encore besoin de temps."
+
 translate french strings:
+
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
+    old "That really sucks."
+    new "Ça craint vraiment."
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
     old "Isn't the customer always right?"
@@ -1009,282 +1265,47 @@ translate french strings:
     new "Tu te fous de moi, hein ?"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
+    old "You look great."
+    new "Tu es superbe."
+
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
     old "I'm glad we both look good"
     new "Je suis content qu’on ait tous les deux la classe"
 
-#Translate by BlackViper_
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:54
-translate french sm1cs_am006_58ee8e36:
-
-    # mc "Isn't the customer always right?"
-    mc "Isn't the customer always right?"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:227
-translate french sm1cs_am006_arcade_6c8b6bb5:
-
-    # am "I {b}know{/b} I can be a lot.{w} That's what you're thinking, right?"
-    am "I {b}know{/b} I can be a lot.{w} That's what you're thinking, right?"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:238
-translate french sm1cs_am006_arcade_e0313ce3:
-
-    # mc "So you're going to try lowering your shields?"
-    mc "So you're going to try lowering your shields?"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:250
-translate french sm1cs_am006_arcade_073a951f:
-
-    # am "I'm not {b}that{/b} easy, [mcname]."
-    am "I'm not {b}that{/b} easy, [mcname]."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:253
-translate french sm1cs_am006_arcade_3b107314:
-
-    # mc "The last time we were out, you asked me to fuck you in your car..."
-    mc "The last time we were out, you asked me to fuck you in your car..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:290
-translate french sm1cs_am006_arcade_521a9133:
-
-    # mct "I remember this machine.{w} It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
-    mct "I remember this machine.{w} It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:318
-translate french sm1cs_am006_arcade_134ebe15:
-
-    # am "I'm a little rusty..."
-    am "I'm a little rusty..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:324
-translate french sm1cs_am006_arcade_ebdf84e1:
-
-    # am "And you know you're never going to see my smaller {b}hole{/b} acting like that."
-    am "And you know you're never going to see my smaller {b}hole{/b} acting like that."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:352
-translate french sm1cs_am006_arcade_cbdde717:
-
-    # am "It's gotta be you.{w} When I do this alone, I always score way higher."
-    am "It's gotta be you.{w} When I do this alone, I always score way higher."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:355
-translate french sm1cs_am006_arcade_ee626115:
-
-    # mc "That might be it.{w} Or it's because you're not really letting yourself relax."
-    mc "That might be it.{w} Or it's because you're not really letting yourself relax."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:364
-translate french sm1cs_am006_arcade_52b129bf:
-
-    # mc "I studied your movements, April.{w} Your body was so stiff and tense."
-    mc "I studied your movements, April.{w} Your body was so stiff and tense."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:371
-translate french sm1cs_am006_arcade_f9779a86:
-
-    # mc "Yeah, sounds like you're {b}totally{/b} relaxed."
-    mc "Yeah, sounds like you're {b}totally{/b} relaxed."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:380
-translate french sm1cs_am006_arcade_cfd32586:
-
-    # mc "Once is lucky.{w} Twice is just plain {b}good{/b}."
-    mc "Once is lucky.{w} Twice is just plain {b}good{/b}."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:402
-translate french sm1cs_am006_arcade_999e1d2f:
-
-    # am "No way.{w} Best two out of three."
-    am "No way.{w} Best two out of three."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:439
-translate french sm1cs_am006_arcade_585579e4:
-
-    # am "Yes!{w} Wooh. She shoots, she scores!"
-    am "Yes!{w} Wooh. She shoots, she scores!"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:448
-translate french sm1cs_am006_arcade_39c7e4cc:
-
-    # am "In your face!{w} In your stupid handsome face!"
-    am "In your face!{w} In your stupid handsome face!"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:457
-translate french sm1cs_am006_arcade_97275737:
-
-    # am "Oh yeah.{w} Forget I said anything."
-    am "Oh yeah.{w} Forget I said anything."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:491
-translate french sm1cs_am006_arcade_140a6992:
-
-    # mc "So spill it.{w} When was the last time you let your shields down?"
-    mc "So spill it.{w} When was the last time you let your shields down?"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:511
-translate french sm1cs_am006_arcade_288b6525:
-
-    # mc "Okay, liar."
-    mc "Okay, liar."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:514
-translate french sm1cs_am006_arcade_e0d555f5:
-
-    # am "I'm not lying.{w} I... I really mean it, [mcname]."
-    am "I'm not lying.{w} I... I really mean it, [mcname]."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:515
-translate french sm1cs_am006_arcade_14e32ccd:
-
-    # am "It's probably been years..."
-    am "It's probably been years..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:518
-translate french sm1cs_am006_arcade_b70189dd:
-
-    # am "Around middle school is when I realized how good I was with computers..."
-    am "Around middle school is when I realized how good I was with computers..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:519
-translate french sm1cs_am006_arcade_49acd481:
-
-    # am "When I started getting really good, a lot of guys {i}changed{/i} how they acted toward me."
-    am "When I started getting really good, a lot of guys {i}changed{/i} how they acted toward me."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:520
-translate french sm1cs_am006_arcade_d1126a46:
-
-    # am "Sometimes it was small changes.{w} Other times..."
-    am "Sometimes it was small changes.{w} Other times..."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:521
-translate french sm1cs_am006_arcade_ffa0b403:
-
-    # am "I lost friends.{w} People I knew for years turned into super assholes."
-    am "I lost friends.{w} People I knew for years turned into super assholes."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:524
-translate french sm1cs_am006_arcade_53a463b4:
-
-    # mct "I can't imagine that was easy."
-    mct "I can't imagine that was easy."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:542
-translate french sm1cs_am006_arcade_2be93e70:
-
-    # am "I had to break them with my words.{w} Or at least get them to leave me the hell alone."
-    am "I had to break them with my words.{w} Or at least get them to leave me the hell alone."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:545
-translate french sm1cs_am006_arcade_1579fa81:
-
-    # mc "Is that why you treat Anna like you do?{w} Because she got the promotion and is now above you?"
-    mc "Is that why you treat Anna like you do?{w} Because she got the promotion and is now above you?"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:558
-translate french sm1cs_am006_arcade_1106ff6e:
-
-    # mc "Maybe because I'm the first non-asshole who saw the {i}real{/i} you?{w} Underneath the barbs."
-    mc "Maybe because I'm the first non-asshole who saw the {i}real{/i} you?{w} Underneath the barbs."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:562
-translate french sm1cs_am006_arcade_d4cb5c7b:
-
-    # am "Hmmph.{w} Maybe you're onto something."
-    am "Hmmph.{w} Maybe you're onto something."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:563
-translate french sm1cs_am006_arcade_33057f39:
-
-    # am "But more realistically, it's probably because I have a crush on you."
-    am "But more realistically, it's probably because I have a crush on you."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:564
-translate french sm1cs_am006_arcade_ed63b19c:
-
-    # am "And one day, it will wear off."
-    am "And one day, it will wear off."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:576
-translate french sm1cs_am006_arcade_536b2a6a:
-
-    # mc "I do.{w} Maybe we can test things out again."
-    mc "I do.{w} Maybe we can test things out again."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:588
-translate french sm1cs_am006_arcade_db3fe2b0:
-
-    # mc "*softly* The basics."
-    mc "*softly* The basics."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:623
-translate french sm1cs_am006_arcade_811460c5:
-
-    # mc "Okay, okay.{w} We don't have to-"
-    mc "Okay, okay.{w} We don't have to-"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:646
-translate french sm1cs_am006_arcade_8441b9e9:
-
-    # mct "Woah.{w} She's... she's really into this."
-    mct "Woah.{w} She's... she's really into this."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:665
-translate french sm1cs_am006_arcade_07a645a2:
-
-    # am "What?{w} No. Of course I didn't.{w} Shut up!"
-    am "What?{w} No. Of course I didn't.{w} Shut up!"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:675
-translate french sm1cs_am006_arcade_9eebb2e3:
-
-    # am "I know.{w} I don't know what's gotten into me."
-    am "I know.{w} I don't know what's gotten into me."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:679
-translate french sm1cs_am006_arcade_5446535a:
-
-    # am "I {b}hate{/b} that thought more."
-    am "I {b}hate{/b} that thought more."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:683
-translate french sm1cs_am006_arcade_157700e7:
-
-    # mc "So what happens now?"
-    mc "So what happens now?"
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:688
-translate french sm1cs_am006_arcade_f98c4280:
-
-    # am "You {i}were{/i} right, this was a good idea."
-    am "You {i}were{/i} right, this was a good idea."
-
-# game/code/scenes/it_office/am/sm1cs-am006.rpy:689
-translate french sm1cs_am006_arcade_bb8e3797:
-
-    # am "I just.{w} For now, I still need time."
-    am "I just.{w} For now, I still need time."
-
-translate french strings:
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
+    old "I hope it doesn't."
+    new "J’espère que non."
+
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
+    old "Maybe."
+    new "Peut-être."
+
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
+    old "Kiss April again."
+    new "Embrasse April encore."
+
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:696
+    old "Don't kiss April."
+    new "N’embrasse pas April."
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
     old "That really sucks"
-    new "That really sucks"
+    new "Ça craint vraiment"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
     old "You look great"
-    new "You look great"
+    new "Tu es superbe"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:565
     old "I hope it doesn't"
-    new "I hope it doesn't"
+    new "J’espère que non"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
     old "Kiss April again"
-    new "Kiss April again"
+    new "Embrasser April encore"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
     old "Don't kiss April"
-    new "Don't kiss April"
+    new "Ne pas embrasser April"
 
+#Translate by BlackViper_

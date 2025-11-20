@@ -178,22 +178,10 @@ translate french q_inter_nr_18_636f1bcd:
     # nr "Don't ask how it's made. Just eat it."
     nr "Ne demande pas comment c’est fait. Mange, c’est tout."
 
-#Translate by BlackViper_
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:80
 translate french q_inter_nr_8_7ef23e41:
 
     # nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
-    nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
+    nr "*sniffe* Mmm. Ouais, il faut encore un peu d'aneth avant que ce soit prêt."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:52
-translate french q_inter_nr_4_9ff4a03c:
-
-    # nr "Pull my wiener. Heh heh."
-    nr "Pull my wiener. Heh heh."
-
-# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:93
-translate french q_inter_nr_10_6f8406ed:
-
-    # nr "Let it rip, kid! Get out there and show those wieners who's boss."
-    nr "Let it rip, kid! Get out there and show those wieners who's boss."
-
+#Translate by BlackViper_

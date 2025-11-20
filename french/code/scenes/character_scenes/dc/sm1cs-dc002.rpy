@@ -26,7 +26,7 @@ translate french sm1cs_dc002_789351f4:
 translate french sm1cs_dc002_87a02ad2:
 
     # mct "That's the creep! It has to be. Who else wears a trench coat to a park?"
-    mct "C’est le mec louche ! Ça doit être lui. Qui d’autre porte un trench-coat dans un parc ?"
+    mct "C’est le mec louche ! Ça doit être lui. Qui d’autre porte un trench-coat (veste longue) dans un parc ?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:31
 translate french sm1cs_dc002_a618d466:
@@ -50,7 +50,7 @@ translate french sm1cs_dc002_1e573032:
 translate french sm1cs_dc002_6351a2c6:
 
     # mct "Okay, do I sneak up on him? Do I charge? Maybe like a full on bull rush-"
-    mct "Ok, est-ce que je me faufile ? Est-ce que je fonce ? Peut-être comme une vraie charge de taureau—"
+    mct "Ok, est-ce que je me faufile ? Est-ce que je fonce ? Peut-être comme une vraie charge de taureau..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:41
 translate french sm1cs_dc002_14d1bad1:
@@ -68,7 +68,7 @@ translate french sm1cs_dc002_82ff8fce:
 translate french sm1cs_dc002_a12f03fe:
 
     # mct "Please, don't tell me I have a purty mouth. Please don't tell me-"
-    mct "Pitié, ne me dis pas que j’ai une jolie bouche. Pitié, ne me dis pas ça—"
+    mct "Pitié, ne me dis pas que j’ai une jolie bouche. Pitié, ne me dis pas ça..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:51
 translate french sm1cs_dc002_459c1e14:
@@ -92,7 +92,7 @@ translate french sm1cs_dc002_b17311b5:
 translate french sm1cs_dc002_2e8074a5:
 
     # mc "Well you said to keep an eye out for anything suspicious, so I thought I'd come and look and-"
-    mc "Ben t’as dit de rester attentif à tout ce qui est suspect, alors je me suis dit que je pouvais venir voir et—"
+    mc "Ben t’as dit de rester attentif à tout ce qui est suspect, alors je me suis dit que je pouvais venir voir et..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:63
 translate french sm1cs_dc002_ad933a13:
@@ -266,7 +266,7 @@ translate french sm1cs_dc002_7a06a51d:
 translate french sm1cs_dc002_ccafa12b:
 
     # dc "You are under-"
-    dc "Tu es en éta—"
+    dc "Tu es en éta..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:157
 translate french sm1cs_dc002_fcecd43d:
@@ -521,10 +521,4 @@ translate french strings:
     new "Regarder le joggeur nu"
 
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:230
-translate french sm1cs_dc002_9cef6b0f:
-
-    # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
-    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
 

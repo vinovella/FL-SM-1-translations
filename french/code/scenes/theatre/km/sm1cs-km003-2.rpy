@@ -104,7 +104,7 @@ translate french sm1cs_km003_2_7cba5850_1:
 translate french sm1cs_km003_2_09122abd:
 
     # mc "Read leather, yell-"
-    mc "Lire le cuir, crie—"
+    mc "Lire le cuir, crie..."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:66
 translate french sm1cs_km003_2_f7baf8b4:
@@ -554,7 +554,7 @@ translate french sm1cs_km003_2_after_montage_7518d114:
 translate french sm1cs_km003_2_after_montage_988e7c52:
 
     # mc "Have you tried talking to Veronica about this? If she knew, I bet she could, I don't know, go for smaller roles and leave space for you."
-    mc "As‑tu essayé d’en parler à Veronica ? Si elle savait, je parie qu’elle pourrait, je ne sais pas, prendre des rôles plus petits et te laisser de la place."
+    mc "As-tu essayé d’en parler à Veronica ? Si elle savait, je parie qu’elle pourrait, je ne sais pas, prendre des rôles plus petits et te laisser de la place."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:318
 translate french sm1cs_km003_2_after_montage_c364599e:
@@ -626,7 +626,7 @@ translate french sm1cs_km003_2_after_montage_ae286793:
 translate french sm1cs_km003_2_after_montage_41eb8c99:
 
     # mct "Then again, if I'm in on Kellie's plans, maybe I can figure out some sort of middle ground for this issue."
-    mct "Mais si je participe aux plans de Kellie, je pourrais peut‑être trouver un compromis."
+    mct "Mais si je participe aux plans de Kellie, je pourrais peut-être trouver un compromis."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:349
 translate french sm1cs_km003_2_after_montage_f91394db:
@@ -651,12 +651,14 @@ translate french strings:
     # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30
     old "Practicing kisses?"
     new "Vous vous entraînez à embrasser ?"
-
-#Translate by BlackViper_
-
-translate french strings:
-
+    
+    # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30
+    old "There must be a special form."
+    new "Il doit y avoir une formule spéciale."
+    
     # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30
     old "There must be a special form"
-    new "There must be a special form"
+    new "Il doit bien exister un formulaire spécial"
+
+#Translate by BlackViper_
 

@@ -1,6 +1,10 @@
 ﻿translate french strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
+    old "Main Story"
+    new "Histoire principale"
+
+    # game/code/data/quests/line_list_quests.rpy:5
     old "Unlock more jobs"
     new "Débloquer plus de boulots"
 
@@ -73,6 +77,10 @@
     new "L'histoire de Denise"
 
     # game/code/data/quests/line_list_quests.rpy:5
+    old "Kelly's story"
+    new "L'histoire de Kelly"
+
+    # game/code/data/quests/line_list_quests.rpy:5
     old "Taisia's story"
     new "L'histoire de Taisia"
 
@@ -80,22 +88,20 @@
     old "Veronica's story"
     new "L'histoire de Veronica"
 
-#Translate by BlackViper_
-translate french strings:
-
     # game/code/data/quests/line_list_quests.rpy:5
     old "Main story"
-    new "Main story"
+    new "Histoire principale"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Second movie"
-    new "Second movie"
+    new "Deuxième film"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Kellie's story"
-    new "Kellie's story"
+    new "Histoire de Kellie"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Pirates movie"
-    new "Pirates movie"
+    new "Film de pirates"
 
+#Translate by BlackViper_

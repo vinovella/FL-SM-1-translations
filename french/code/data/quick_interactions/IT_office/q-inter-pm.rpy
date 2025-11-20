@@ -106,10 +106,10 @@ translate french q_inter_pm_5_414611e9:
     # pm "Well, if she's any good at stocks, definitely get your tips from her. Not me."
     pm "Eh ben, si elle est douée en bourse, prends tes conseils chez elle. Pas chez moi."
 
-#Translate by BlackViper_
 # game/code/data/quick_interactions/IT_office/q-inter-pm.rpy:37
 translate french q_inter_pm_3_98e57bf0:
 
     # pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
-    pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
+    pm "Hé ! [mcname], c’est qui qui met du rock beaucoup trop fort là-bas ?"
 
+#Translate by BlackViper_

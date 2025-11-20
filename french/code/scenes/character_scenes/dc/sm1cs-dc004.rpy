@@ -44,7 +44,7 @@ translate french sm1cs_dc004_6ce4cbe3:
 translate french sm1cs_dc004_4005297e:
 
     # dc "No, I-"
-    dc "Non, je—"
+    dc "Non, je..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:34
 translate french sm1cs_dc004_d007732d:
@@ -76,9 +76,4 @@ translate french sm1cs_dc004_404eabfc:
     # mct "I guess all I can do is try and talk to her later..."
     mct "Je suppose que tout ce que je peux faire, c’est essayer de lui reparler plus tard..."
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:25
-translate french sm1cs_dc004_1172721c:
-
-    # mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-    mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-
+#Translate by BlackViper_

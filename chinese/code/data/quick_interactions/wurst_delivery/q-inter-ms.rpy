@@ -842,11 +842,11 @@ translate chinese q_inter_ms_45_678c5fed:
 translate chinese q_inter_ms_5_8a5a6bb5:
 
     # ms "Never thought I'd be buried in debt and putting wieners in bags."
-    ms "Never thought I'd be buried in debt and putting wieners in bags."
+    ms "从没想过我会负债累累，还要把香肠装进袋子里。"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
 translate chinese q_inter_ms_19_6c302b48:
 
     # ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
-    ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
+    ms "看到你只是提醒我很快就得回去工作处理香肠了。"
 

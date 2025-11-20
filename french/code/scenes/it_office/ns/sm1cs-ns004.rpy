@@ -134,7 +134,7 @@ translate french sm1cs_ns004_943936d0:
 translate french sm1cs_ns004_4710af37:
 
     # ns "I'm just looking to expand my portfolio. Like right now, I'm considering Crypto, very interesting, very \"now\", but perhaps it's better to go in at a less volatile time."
-    ns "Je cherche juste à élargir mon portefeuille. Genre là je pense à la crypto, très intéressant, très « tendance », mais c’est peut-être mieux d’y aller quand ce sera moins instable."
+    ns "Je cherche juste à élargir mon portefeuille. Genre là je pense à la crypto, très intéressant, très \"tendance\", mais c’est peut-être mieux d’y aller quand ce sera moins instable."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:64
 translate french sm1cs_ns004_563a72d5:
@@ -314,7 +314,7 @@ translate french sm1cs_ns004_work_end_8af25cdb:
 translate french sm1cs_ns004_work_end_b9769178:
 
     # mct "State housing requirements for non-citizens with work visas-"
-    mct "Exigences d’État sur le logement des non-citoyens avec visas de travail—"
+    mct "Exigences d’État sur le logement des non-citoyens avec visas de travail..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:157
 translate french sm1cs_ns004_work_end_f3389b88:
@@ -674,7 +674,7 @@ translate french sm1cs_ns004_at_park_4b1c73c4:
 translate french sm1cs_ns004_at_park_fc46abff:
 
     # ns "Here is the bathroom. You can just use my mouth. She said that! Like it was totally normal. For a man to take out his penis and pee in a girl's mouth."
-    ns "« Voici la salle de bain. Tu peux juste utiliser ma bouche. » Elle a dit ça ! Comme si c’était totalement normal qu’un homme sorte sa bite et pisse dans la bouche d’une fille."
+    ns "Voici la salle de bain. Tu peux juste utiliser ma bouche. Elle a dit ça ! Comme si c’était totalement normal qu’un homme sorte sa bite et pisse dans la bouche d’une fille."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:323
 translate french sm1cs_ns004_at_park_7288e57d:
@@ -686,7 +686,7 @@ translate french sm1cs_ns004_at_park_7288e57d:
 translate french sm1cs_ns004_at_park_965ba4fa:
 
     # ns "Yes, \"Wow\" is right. I couldn't believe it. At first, it sounded so gross, but the way she said it, the way she offered herself, her mouth, she must have really wanted to do it."
-    ns "Oui, « wow » c’est le mot. J’y croyais pas. Au début ça paraissait crade, mais la façon dont elle l’a dit, la manière dont elle s’est offerte, sa bouche… elle devait vraiment en avoir envie."
+    ns "Oui, \"wow\" c’est le mot. J’y croyais pas. Au début ça paraissait crade, mais la façon dont elle l’a dit, la manière dont elle s’est offerte, sa bouche… elle devait vraiment en avoir envie."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:327
 translate french sm1cs_ns004_at_park_6f8fcfd6:
@@ -698,7 +698,7 @@ translate french sm1cs_ns004_at_park_6f8fcfd6:
 translate french sm1cs_ns004_at_park_c3be7fb9:
 
     # ns "And before he could do anything, she takes out his cock and gives him a blowjob and then-"
-    ns "Et avant qu’il puisse réagir, elle sort sa bite et lui fait une pipe et puis—"
+    ns "Et avant qu’il puisse réagir, elle sort sa bite et lui fait une pipe et puis..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:335
 translate french sm1cs_ns004_at_park_5cdc964b:
@@ -824,7 +824,7 @@ translate french sm1cs_ns004_end_talk_51485136:
 translate french sm1cs_ns004_end_talk_0dcb550d:
 
     # mct "Well, I guess now is as good a time as ever to ask her out on a \"real\" date. Probably should have asked her out after she saw my dick, haha."
-    mct "Bon, je suppose que c’est le bon moment pour l’inviter à un « vrai » rencard. J’aurais sans doute dû le faire après qu’elle ait vu ma bite, haha."
+    mct "Bon, je suppose que c’est le bon moment pour l’inviter à un \"vrai\" rencard. J’aurais sans doute dû le faire après qu’elle ait vu ma bite, haha."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:406
 translate french sm1cs_ns004_end_talk_920c9e64:
@@ -836,13 +836,13 @@ translate french sm1cs_ns004_end_talk_920c9e64:
 translate french sm1cs_ns004_end_talk_ce5fa1a1:
 
     # mc "Nari, what would you say if I-"
-    mc "Nari, qu’est-ce que tu dirais si je—"
+    mc "Nari, qu’est-ce que tu dirais si je..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:412
 translate french sm1cs_ns004_end_talk_0967f6e1:
 
     # ns "Oh-"
-    ns "Oh—"
+    ns "Oh..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:413
 translate french sm1cs_ns004_end_talk_b1a7b596:
@@ -872,7 +872,7 @@ translate french sm1cs_ns004_end_talk_ab302ec2:
 translate french sm1cs_ns004_end_talk_453966d9:
 
     # ns "Please, I don't think that is necessary. No, there is no reason to-"
-    ns "S’il vous plaît, je ne pense pas que ce soit nécessaire. Non, il n’y a aucune raison de—"
+    ns "S’il vous plaît, je ne pense pas que ce soit nécessaire. Non, il n’y a aucune raison de..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:423
 translate french sm1cs_ns004_end_talk_bf64d622:
@@ -963,16 +963,4 @@ translate french strings:
     new "C’est pas trop mon délire"
 
 #Translate by BlackViper_
-
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:86
-translate french sm1cs_ns004_fc4dfef5:
-
-    # ns "I would consider that outcome as very high risk, low chance."
-    ns "I would consider that outcome as very high risk, low chance."
-
-# game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
-translate french sm1cs_ns004_end_talk_36d68c75:
-
-    # mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
-    mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
 

@@ -280,49 +280,47 @@ translate french q_inter_my_10_ccd0c639:
     # my "I'm looking forward to going again."
     my "J’ai hâte de remettre ça."
 
-#Translate by BlackViper_
-
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:58
 translate french q_inter_my_4_1b9be8cf:
 
     # my "He wants 4 walls in the gallery... and then the other artists want-"
-    my "He wants 4 walls in the gallery... and then the other artists want-"
+    my "Il veut 4 murs dans la galerie... et puis les autres artistes veulent-"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:187
 translate french q_inter_my_11_8bc223c4:
 
     # my "Hey, [mcname]!"
-    my "Hey, [mcname]!"
+    my "Salut, [mcname] !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:189
 translate french q_inter_my_11_35fedb77:
 
     # mc "Hey, Mom!"
-    mc "Hey, Mom!"
+    mc "Salut, Maman !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:191
 translate french q_inter_my_11_f67d45c0:
 
     # mc "Hey, Melony!"
-    mc "Hey, Melony!"
+    mc "Salut, Melony !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:192
 translate french q_inter_my_11_4b782f43:
 
     # mc "You know, that last date-"
-    mc "You know, that last date-"
+    mc "Tu sais, ce dernier rendez-vous-"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:196
 translate french q_inter_my_11_1b49c09c:
 
     # my "Shhhh! Not i front of your sister!"
-    my "Shhhh! Not i front of your sister!"
+    my "Chut ! Pas devant ta sœur !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:198
 translate french q_inter_my_11_64ff3bc5:
 
     # my "Shhh! Not in front of Stacy!"
-    my "Shhh! Not in front of Stacy!"
+    my "Chut ! Pas devant Stacy !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:201
 translate french q_inter_my_11_fc645303:
@@ -334,95 +332,97 @@ translate french q_inter_my_11_fc645303:
 translate french q_inter_my_11_f4e6139e:
 
     # my "But yes it was."
-    my "But yes it was."
+    my "Mais oui, c’était le cas."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:207
 translate french q_inter_my_12_77034b1f:
 
     # my "You know, [mcname], you've set the bar pretty high for yourself."
-    my "You know, [mcname], you've set the bar pretty high for yourself."
+    my "Tu sais, [mcname], tu as mis la barre assez haut pour toi-même."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:208
 translate french q_inter_my_12_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "Oh ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:211
 translate french q_inter_my_12_6da6d153:
 
     # my "Mmmhmmmm. What's our next date going to be?"
-    my "Mmmhmmmm. What's our next date going to be?"
+    my "Mmmhmmmm. Ça va être quoi notre prochain rendez-vous ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:212
 translate french q_inter_my_12_c753e752:
 
     # mc "OH, uh..."
-    mc "OH, uh..."
+    mc "OH, euh..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:215
 translate french q_inter_my_12_e5fdbbec:
 
     # my "Hehehehehehehe!"
-    my "Hehehehehehehe!"
+    my "Hehehehehehehe !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:221
 translate french q_inter_my_13_993d0554:
 
     # mc "So, Mom, you know how you're an artist?"
-    mc "So, Mom, you know how you're an artist?"
+    mc "Alors, Maman, tu sais que tu es une artiste ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:223
 translate french q_inter_my_13_69636506:
 
     # mc "So, Melony, you know how you're an artist?"
-    mc "So, Melony, you know how you're an artist?"
+    mc "Alors, Melony, tu sais que tu es une artiste ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:226
 translate french q_inter_my_13_2128d416:
 
     # my "Mmhmmmm?"
-    my "Mmhmmmm?"
+    my "Mmhmmmm ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:227
 translate french q_inter_my_13_cf0364b3:
 
     # mc "Do you think that maybe you'd be able to help us out with some of our art in the movies?"
-    mc "Do you think that maybe you'd be able to help us out with some of our art in the movies?"
+    mc "Tu penses que tu pourrais peut-être nous aider avec certaines des créations artistiques dans les films ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:230
 translate french q_inter_my_13_92e887d1:
 
     # my "Hmmm... I don't know, [mcname]..."
-    my "Hmmm... I don't know, [mcname]..."
+    my "Hmmm... Je ne sais pas, [mcname]..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:231
 translate french q_inter_my_13_2aea2240:
 
     # my "I might have accepted that you're doing this, but I'm not sure I'm ready to commit to the movies yet..."
-    my "I might have accepted that you're doing this, but I'm not sure I'm ready to commit to the movies yet..."
+    my "J'ai peut-être accepté que tu fasses ça, mais je ne suis pas encore sûre d'être prête à m'engager dans les films..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:237
 translate french q_inter_my_14_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Hein ?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:240
 translate french q_inter_my_14_aee1c600:
 
     # my "Oh, erm, nothing! Nothing at all!"
-    my "Oh, erm, nothing! Nothing at all!"
+    my "Oh, euh, rien ! Rien du tout !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:241
 translate french q_inter_my_14_b1517650:
 
     # my "Just thinking about something else!"
-    my "Just thinking about something else!"
+    my "Je pensais juste à autre chose !"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:236
 translate french q_inter_my_14_ec8245fb:
 
     # my "{size=*0.7}Oh, [mcname]...{/size}"
     my "{size=*0.7}Oh, [mcname]...{/size}"
+
+#Translate by BlackViper_
 

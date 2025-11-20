@@ -691,7 +691,7 @@ translate french sm1cs_ns012_part_2_d0bd03a0:
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:442
 translate french sm1cs_ns012_part_2_1d0518ba:
 
-    # ns "*heavy breathing*"
+    # ns "*respiration lourde*"
     ns "*respiration haletante*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:448
@@ -1864,6 +1864,12 @@ translate french sm1cs_ns012_cum_mouth_eb746b8a_1:
     # ns "I love when you make me all messy and sticky, [mcname]."
     ns "J’adore quand tu me rends toute sale et collante, [mcname]."
 
+# game/code/scenes/it_office/ns/sm1cs-ns012.rpy:981
+translate french sm1cs_ns012_after_shower_9bc32cdb:
+
+    # ns "Mhwaaah. Nothing like a hot shower after being fucked so good."
+    ns "Mhwaaah. Rien de tel qu’une douche chaude après s’être fait baiser aussi bien."
+
 translate french strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:88
@@ -1947,10 +1953,4 @@ translate french strings:
     new "Je veux jouir dans sa bouche"
 
 #Translate by BlackViper_
-
-# game/code/scenes/it_office/ns/sm1cs-ns012.rpy:981
-translate french sm1cs_ns012_after_shower_9bc32cdb:
-
-    # ns "Mhwaaah. Nothing like a hot shower after being fucked so good."
-    ns "Mhwaaah. Nothing like a hot shower after being fucked so good."
 

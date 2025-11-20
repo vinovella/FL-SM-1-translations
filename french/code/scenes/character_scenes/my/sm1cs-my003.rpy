@@ -116,7 +116,7 @@ translate french sm1cs_my003_836666b1:
 translate french sm1cs_my003_2eff6851:
 
     # mc "To go to the gym? I don't-"
-    mc "Aller en salle ? Je sais pas—"
+    mc "Aller en salle ? Je sais pas..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:90
 translate french sm1cs_my003_e10fdfdf:
@@ -128,7 +128,7 @@ translate french sm1cs_my003_e10fdfdf:
 translate french sm1cs_my003_8fc79e73:
 
     # mc "Stacy-"
-    mc "Stacy—"
+    mc "Stacy..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:96
 translate french sm1cs_my003_0f63dab1:
@@ -140,7 +140,7 @@ translate french sm1cs_my003_0f63dab1:
 translate french sm1cs_my003_ab29b7b2:
 
     # mc "I was going to help Stacy out with errands-"
-    mc "J’allais aider Stacy avec ses courses—"
+    mc "J’allais aider Stacy avec ses courses..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:101
 translate french sm1cs_my003_73547803:
@@ -458,7 +458,7 @@ translate french sm1cs_my003_at_gym_5a280294:
 translate french sm1cs_my003_at_gym_61d35e29:
 
     # mct "Uh oh-"
-    mct "Oh merde—"
+    mct "Oh merde..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:261
 translate french sm1cs_my003_at_gym_fc8a5374:
@@ -488,7 +488,7 @@ translate french sm1cs_my003_at_gym_a124ca26:
 translate french sm1cs_my003_at_gym_98cb135c:
 
     # mc "Erm- yeah, totally good. I just lost my balance."
-    mc "Euh— ouais, tout va bien. J’ai juste perdu l’équilibre."
+    mc "Euh... ouais, tout va bien. J’ai juste perdu l’équilibre."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:276
 translate french sm1cs_my003_at_gym_dfcd7d97:
@@ -560,7 +560,7 @@ translate french sm1cs_my003_at_gym_de4324bb:
 translate french sm1cs_my003_at_gym_d4bf09e0:
 
     # mc "Rub - erm - yeah, I can."
-    mc "Masser— euh— ouais, je peux."
+    mc "Masser... euh... ouais, je peux."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:309
 translate french sm1cs_my003_at_gym_f6a6698a:
@@ -602,7 +602,7 @@ translate french sm1cs_my003_at_gym_cba8b146:
 translate french sm1cs_my003_at_gym_a13ca133:
 
     # mct "God, she sounds so fucking hot right now-"
-    mct "Putain, elle sonne tellement bandante là—"
+    mct "Putain, elle sonne tellement bandante là..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:326
 translate french sm1cs_my003_at_gym_0d6b1d04:
@@ -674,13 +674,13 @@ translate french sm1cs_my003_at_gym_104f1870:
 translate french sm1cs_my003_at_gym_5609bf79:
 
     # mct "Jesus H. - oh she sounds so-"
-    mct "Nom de Dieu... oh elle sonne tellement—"
+    mct "Nom de Dieu... oh elle sonne tellement..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:359
 translate french sm1cs_my003_at_gym_8a81fc31:
 
     # mct "Fuck, fuck, fuck - erm, puppies, bitcoin, stock market, uhhhh cows?"
-    mct "Putain, putain, putain— euh, chiots, bitcoin, bourse, euhhh vaches ?"
+    mct "Putain, putain, putain... euh, chiots, bitcoin, bourse, euhhh vaches ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:360
 translate french sm1cs_my003_at_gym_49a7cb64:
@@ -704,7 +704,7 @@ translate french sm1cs_my003_at_gym_276a969c:
 translate french sm1cs_my003_at_gym_8a471dff:
 
     # mc "What po-"
-    mc "Quelle po—"
+    mc "Quelle po..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:375
 translate french sm1cs_my003_at_gym_df1cd57b:
@@ -764,7 +764,7 @@ translate french sm1cs_my003_at_gym_63db58eb:
 translate french sm1cs_my003_at_gym_c37550e9:
 
     # mct "There's no way-"
-    mct "C’est pas possible—"
+    mct "C’est pas possible..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:399
 translate french sm1cs_my003_at_gym_e5684d92:
@@ -944,7 +944,7 @@ translate french sm1cs_my003_at_gym_b5d06c4c:
 translate french sm1cs_my003_at_gym_a3726a70:
 
     # mct "But I didn't realize her butt would-"
-    mct "Mais j’avais pas prévu que son cul serait—"
+    mct "Mais j’avais pas prévu que son cul serait..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:475
 translate french sm1cs_my003_at_gym_63a48bf2:
@@ -1388,13 +1388,13 @@ translate french sm1cs_my003_continue_0204286d:
 translate french sm1cs_my003_continue_5e0e2d02:
 
     # my "Let your Mom show you-"
-    my "Laisse ta maman te montrer—"
+    my "Laisse ta maman te montrer..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:697
 translate french sm1cs_my003_continue_e8bed92a:
 
     # my "Let me show you-"
-    my "Laisse-moi te montrer—"
+    my "Laisse-moi te montrer..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:701
 translate french sm1cs_my003_continue_0e31ed30:
@@ -1406,13 +1406,13 @@ translate french sm1cs_my003_continue_0e31ed30:
 translate french sm1cs_my003_continue_13958af6:
 
     # mc "Oh shi-!"
-    mc "Oh me—!"
+    mc "Oh me...!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:709
 translate french sm1cs_my003_continue_db7ffff6:
 
     # my "Wait, [mcname]-"
-    my "Attends, [mcname]—"
+    my "Attends, [mcname]..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:711
 translate french sm1cs_my003_continue_37154a2a:
@@ -1472,7 +1472,7 @@ translate french sm1cs_my003_continue_49378d9a:
 translate french sm1cs_my003_continue_8c7d63ba:
 
     # mct "Her big, wonderful-"
-    mct "Ses gros, magnifiques—"
+    mct "Ses gros, magnifiques..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:742
 translate french sm1cs_my003_continue_a9449e93:
@@ -1514,7 +1514,7 @@ translate french sm1cs_my003_continue_1bc1929b:
 translate french sm1cs_my003_continue_3cb3b1dd:
 
     # my "Are you sure? Concussions are serious-"
-    my "T’es sûr ? Les commotions, c’est sérieux—"
+    my "T’es sûr ? Les commotions, c’est sérieux..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:760
 translate french sm1cs_my003_continue_2e14611e:
@@ -1635,10 +1635,4 @@ translate french strings:
     new "On dirait que celle de droite est à portée !"
 
 #Translate by BlackViper_
-
-# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:461
-translate french sm1cs_my003_at_gym_b2b93b59:
-
-    # my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
-    my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
 

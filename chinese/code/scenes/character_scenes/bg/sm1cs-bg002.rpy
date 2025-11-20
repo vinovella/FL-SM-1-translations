@@ -1566,17 +1566,17 @@ translate chinese strings:
 translate chinese sm1cs_bg002_white_screen_12b3e2b8:
 
     # kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
-    kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
+    kv "你们俩真是绝配，知道吗？虽然可能有点磕磕绊绊，但你们在镜头前的化学反应非常好。"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:382
 translate chinese sm1cs_bg002_white_screen_cf9bf6a9:
 
     # kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
-    kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
+    kv "突然在你脑子里冒出一些想法了，[mcname]？"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:667
 translate chinese sm1cs_bg002_continue_shoot_75643fbc:
 
     # mc "I'm cummmming!"
-    mc "I'm cummmming!"
+    mc "我要射了！"
 

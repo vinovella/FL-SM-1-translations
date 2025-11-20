@@ -2,7 +2,7 @@
 translate french sm1ms027_5d79a831:
 
     # sy "[mcname]!{w} Wakeup!"
-    sy "[mcname] !{w} Réveille-toi !"
+    sy "[mcname]!{w} Réveille-toi !"
 
 # game/code/scenes/main_story/sm1ms027.rpy:14
 translate french sm1ms027_ccd084af:
@@ -20,19 +20,19 @@ translate french sm1ms027_1122a788:
 translate french sm1ms027_8f370dad:
 
     # mc "Stacy what is wrong? Is the studio on fire?"
-    mc "Stacy, qu’est-ce qui se passe ? Le studio est en feu ?"
+    mc "Stacy, qu’est-ce qu’il y a ? Le studio est en feu ?"
 
 # game/code/scenes/main_story/sm1ms027.rpy:21
 translate french sm1ms027_3897e05c:
 
     # sy "No! Better! I just finished it!"
-    sy "Non ! Mieux encore ! Je viens de le finir !"
+    sy "Non ! Mieux encore ! Je viens de le terminer !"
 
 # game/code/scenes/main_story/sm1ms027.rpy:25
 translate french sm1ms027_2a1dd802:
 
     # mc "Finished what...?"
-    mc "Fini quoi... ?"
+    mc "Terminé quoi... ?"
 
 # game/code/scenes/main_story/sm1ms027.rpy:28
 translate french sm1ms027_6d32d816:
@@ -68,7 +68,7 @@ translate french sm1ms027_27ce9a7d:
 translate french sm1ms027_9932a5e1:
 
     # mc "So our porn website is live?"
-    mc "Alors notre site porno est en ligne ?"
+    mc "Donc notre site porno est en ligne ?"
 
 # game/code/scenes/main_story/sm1ms027.rpy:43
 translate french sm1ms027_427be165:
@@ -86,7 +86,7 @@ translate french sm1ms027_53fd5caa:
 translate french sm1ms027_7abf7341:
 
     # mc "You're so sweet to wait for me."
-    mc "T’es trop mignonne d’avoir attendu."
+    mc "C’est trop mignon d’avoir attendu."
 
 # game/code/scenes/main_story/sm1ms027.rpy:51
 translate french sm1ms027_d09ab122:
@@ -98,13 +98,13 @@ translate french sm1ms027_d09ab122:
 translate french sm1ms027_91ec06d1:
 
     # mc "Okay okay. Let's see what we got."
-    mc "Ok ok. Voyons un peu ce qu’on a."
+    mc "Ok ok. Voyons ce qu’on a."
 
 # game/code/scenes/main_story/sm1ms027.rpy:61
 translate french sm1ms027_92300c8e:
 
     # mc "Looks good."
-    mc "Ça a l’air top."
+    mc "Ça a l’air parfait."
 
 # game/code/scenes/main_story/sm1ms027.rpy:64
 translate french sm1ms027_1f56feb7:
@@ -146,7 +146,7 @@ translate french sm1ms027_b19d44e8:
 translate french sm1ms027_ae6ef3fb:
 
     # sy "It's amazing. Our first Feature Film is out, on our own personal porn website."
-    sy "C’est dingue. Notre premier film est sorti, sur notre propre site porno."
+    sy "C’est fou. Notre premier long-métrage est en ligne, sur notre propre site porno."
 
 # game/code/scenes/main_story/sm1ms027.rpy:90
 translate french sm1ms027_96d08a74:
@@ -170,13 +170,13 @@ translate french sm1ms027_d69c27ed:
 translate french sm1ms027_0741c7c8:
 
     # mct "I'm not sure I've ever loved her as much as I do right now."
-    mct "Je crois que je ne l’ai jamais autant aimée qu’en ce moment."
+    mct "Je ne suis pas sûr de l’avoir déjà autant aimée qu’en ce moment."
 
 # game/code/scenes/main_story/sm1ms027.rpy:100
 translate french sm1ms027_510c69e3:
 
     # mc "Come here, you ridiculous genius."
-    mc "Viens là, petit génie ridicule."
+    mc "Viens ici, petit génie."
 
 # game/code/scenes/main_story/sm1ms027.rpy:105
 translate french sm1ms027_995f18f0:
@@ -193,14 +193,14 @@ translate french sm1ms027_733aa482:
 # game/code/scenes/main_story/sm1ms027.rpy:109
 translate french sm1ms027_5e740579:
 
-    # sy "Hey—just so you know, if you ever wanna rewatch it or show it to someone, you can use this laptop. Just open the site, it's right there."
-    sy "Hé — juste pour que tu saches, si jamais tu veux le revoir ou le montrer à quelqu’un, tu peux utiliser cet ordi portable. Il suffit d’ouvrir le site, c’est juste là."
+    # sy "Hey...just so you know, if you ever wanna rewatch it or show it to someone, you can use this laptop. Just open the site, it's right there."
+    sy "Hé ... juste pour que tu saches : si tu veux le revoir ou le montrer à quelqu’un, tu peux utiliser cet ordi portable. Il suffit d’ouvrir le site, il est juste là."
 
 # game/code/scenes/main_story/sm1ms027.rpy:113
 translate french sm1ms027_93a6aeb0:
 
     # mc "Awesome. It will be cool reviewing what we've done so far as we work on future stuff."
-    mc "Génial. Ce sera cool de revoir ce qu’on a déjà fait pendant qu’on bosse sur les prochains projets."
+    mc "Génial. Ce sera cool de revoir ce qu’on a fait tout en bossant sur la suite."
 
 # game/code/scenes/main_story/sm1ms027.rpy:114
 translate french sm1ms027_a99ebed7:
@@ -223,14 +223,14 @@ translate french sm1ms027_0f887ede:
 # game/code/scenes/main_story/sm1ms027.rpy:131
 translate french sm1ms027_2635429b:
 
-    # sy "OH MY GOD—"
-    sy "OH MON DIEU—"
+    # sy "OH MY GOD..."
+    sy "OH MON DIEU..."
 
 # game/code/scenes/main_story/sm1ms027.rpy:134
 translate french sm1ms027_76f06518:
 
-    # mc "Wha—what!?"
-    mc "Quoi—quoi !?"
+    # mc "Wha...what!?"
+    mc "Quoi...quoi !?"
 
 # game/code/scenes/main_story/sm1ms027.rpy:137
 translate french sm1ms027_17d271c5:
@@ -295,8 +295,8 @@ translate french sm1ms027_9139af9f:
 # game/code/scenes/main_story/sm1ms027.rpy:174
 translate french sm1ms027_822736c1:
 
-    # sy "[mcname]! The launch! It went amazing! We've got traffic! People are watching it! Commenting! Sharing! I can't— I can't even sit still!"
-    sy "[mcname] ! Le lancement ! C’est un succès de ouf ! On a du trafic ! Les gens regardent ! Ils commentent ! Ils partagent ! Je— je tiens même plus en place !"
+    # sy "[mcname]! The launch! It went amazing! We've got traffic! People are watching it! Commenting! Sharing! I can't... I can't even sit still!"
+    sy "[mcname] ! Le lancement ! C’est un succès de ouf ! On a du trafic ! Les gens regardent ! Ils commentent ! Ils partagent ! Je... je tiens même plus en place !"
 
 # game/code/scenes/main_story/sm1ms027.rpy:177
 translate french sm1ms027_65bfbd05:
@@ -370,11 +370,11 @@ translate french sm1ms027_ff345ae0:
     # mc "Hard to get back to sleep after that."
     mc "Difficile de se rendormir après tout ça."
 
-#Translate by BlackViper_
-
 # game/code/scenes/main_story/sm1ms027.rpy:195
 translate french sm1ms027_82b68733:
 
     # sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled!"
-    sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled!"
+    sy "Les gens ont vraiment aimé le design de Nari en alien. Et ils ont trouvé que les décors et le costume déchiraient !"
+
+#Translate by BlackViper_
 

@@ -532,48 +532,47 @@ translate french q_inter_tl_21_c1dff962:
     # mc "Oh..."
     mc "Oh..."
 
-#Translate by BlackViper_
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:79
 translate french q_inter_tl_5_2a8059e7:
 
     # tl "If I get 8 hours at the other job... And I save, what, half of that paycheck..."
-    tl "If I get 8 hours at the other job... And I save, what, half of that paycheck..."
+    tl "Si je fais 8 heures à l'autre boulot... Et que j'économise, quoi, la moitié du salaire..."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:154
 translate french q_inter_tl_11_687943e7:
 
     # tl "Don't know. But I'm not surprised."
-    tl "Don't know. But I'm not surprised."
+    tl "Je ne sais pas. Mais ça ne m'étonne pas."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:248
 translate french q_inter_tl_17_543cc186:
 
     # mc "Huh, I never thought about it like that."
-    mc "Huh, I never thought about it like that."
+    mc "Hmm, je n'y avais jamais pensé comme ça."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:300
 translate french q_inter_tl_22_b8de97c5:
 
     # tl "I've lived in a lot of different places in my life."
-    tl "I've lived in a lot of different places in my life."
+    tl "J’ai vécu dans pas mal d’endroits différents dans ma vie."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:301
 translate french q_inter_tl_22_9779ebe5:
 
     # mc "Where does this rank?"
-    mc "Where does this rank?"
+    mc "Et celui-ci, il se place où dans ta liste ?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:304
 translate french q_inter_tl_22_2a6567e4:
 
     # tl "Definitely top ten. I once stayed in a cartel leader's mansion."
-    tl "Definitely top ten. I once stayed in a cartel leader's mansion."
+    tl "Clairement dans mon top dix. Un jour j’ai vécu dans le manoir d’un chef de cartel."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:305
 translate french q_inter_tl_22_318299da:
 
     # tl "Great food and maid service."
-    tl "Great food and maid service."
+    tl "Bouffe incroyable et service de ménage impeccable."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:311
 translate french q_inter_tl_23_7cadc6a5:
@@ -585,55 +584,55 @@ translate french q_inter_tl_23_7cadc6a5:
 translate french q_inter_tl_23_3ee32121:
 
     # mc "You good?"
-    mc "You good?"
+    mc "Ça va ?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:313
 translate french q_inter_tl_23_1d988ea3:
 
     # tl "Yeah. Just caught the perfect draft."
-    tl "Yeah. Just caught the perfect draft."
+    tl "Ouais. Je viens juste de prendre un courant d’air parfait."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:314
 translate french q_inter_tl_23_cdd14d57:
 
     # tl "Made my nipples buzz. Haha."
-    tl "Made my nipples buzz. Haha."
+    tl "Ça m’a fait vibrer les tétons. Haha."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:319
 translate french q_inter_tl_24_e256e6d7:
 
     # tl "I'm glad you're not some square or suit working for the Man, [mcname]."
-    tl "I'm glad you're not some square or suit working for the Man, [mcname]."
+    tl "Je suis contente que tu sois pas un petit cadre coincé qui bosse pour le système, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:320
 translate french q_inter_tl_24_f4b470ca:
 
     # mc "Thanks?"
-    mc "Thanks?"
+    mc "Euh... merci ?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:321
 translate french q_inter_tl_24_316e0f01:
 
     # tl "It takes big balls to stay independent these days."
-    tl "It takes big balls to stay independent these days."
+    tl "Faut du cran pour rester indépendant aujourd’hui."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:327
 translate french q_inter_tl_25_06b9e6a6:
 
     # tl "Who was that guy at the Studio party?"
-    tl "Who was that guy at the Studio party?"
+    tl "C’était qui ce mec à la soirée du studio ?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:328
 translate french q_inter_tl_25_91c18cf9:
 
     # mc "Just some asshole?"
-    mc "Just some asshole?"
+    mc "Juste un connard ?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:329
 translate french q_inter_tl_25_3304e74e:
 
     # tl "Want me to fuck up his car with a butterfly knife?"
-    tl "Want me to fuck up his car with a butterfly knife?"
+    tl "Tu veux que je défonce sa caisse avec un couteau papillon ?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:330
 translate french q_inter_tl_25_2b35b6fe:
@@ -645,55 +644,55 @@ translate french q_inter_tl_25_2b35b6fe:
 translate french q_inter_tl_25_fca52711:
 
     # mc "No."
-    mc "No."
+    mc "Non."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:332
 translate french q_inter_tl_25_7c1576dc:
 
     # tl "No as in like 'No'?"
-    tl "No as in like 'No'?"
+    tl "Non genre 'non' non ?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:333
 translate french q_inter_tl_25_b6a99958:
 
     # mc "No as in N. O. Taisia."
-    mc "No as in N. O. Taisia."
+    mc "Non, comme N. O. Taisia."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:336
 translate french q_inter_tl_25_4e239b13:
 
     # tl "Fine fine."
-    tl "Fine fine."
+    tl "D’accord, ça va."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:341
 translate french q_inter_tl_26_ee162e8e:
 
     # tl "You're in now, [mcname]."
-    tl "You're in now, [mcname]."
+    tl "T’es des nôtres maintenant, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:342
 translate french q_inter_tl_26_af44dddb:
 
     # tl "Try not to blow it."
-    tl "Try not to blow it."
+    tl "Essaie juste de tout foirer."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:347
 translate french q_inter_tl_27_f8a8af5a:
 
     # tl "I'll admit, I bet Kai twenty bucks that you wouldn't make it to be a full actor here."
-    tl "I'll admit, I bet Kai twenty bucks that you wouldn't make it to be a full actor here."
+    tl "Je t’avoue, j’ai parié vingt dollars avec Kai que t’arriverais pas à devenir acteur ici."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:348
 translate french q_inter_tl_27_88816c0b:
 
     # mc "You're the one who brought me in."
-    mc "You're the one who brought me in."
+    mc "C’est toi qui m’as fait entrer."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:351
 translate french q_inter_tl_27_586c405a:
 
     # tl "Were you listening? I'm out twenty bucks because of you."
-    tl "Were you listening? I'm out twenty bucks because of you."
+    tl "Tu m’écoutes ? J’ai perdu vingt dollars à cause de toi."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:352
 translate french q_inter_tl_27_eadd5e5f:
@@ -701,3 +700,4 @@ translate french q_inter_tl_27_eadd5e5f:
     # tl "Haha."
     tl "Haha."
 
+#Translate by BlackViper_

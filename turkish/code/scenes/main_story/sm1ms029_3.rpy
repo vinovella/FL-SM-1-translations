@@ -1677,3 +1677,4 @@ translate turkish sm1ms029_party_arj_bf4e8bed:
 
     # arj "Of course. I love feeling all of your power as you hammer into me."
     arj "Tabii ki. İçime girerken tüm gücünü hissetmeyi seviyorum."
+

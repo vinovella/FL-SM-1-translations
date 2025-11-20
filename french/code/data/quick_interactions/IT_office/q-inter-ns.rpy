@@ -940,150 +940,149 @@ translate french q_inter_ns_37_0bc7a040:
     # ns "*giggles* Yeah."
     ns "*rires* Ouais."
 
-#Translate by BlackViper_
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:131
 translate french q_inter_ns_7_525df220:
 
     # ns "Oh hey there. How's it going, [mcname]?"
-    ns "Oh hey there. How's it going, [mcname]?"
+    ns "Oh salut. Comment ça va, [mcname] ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:148
 translate french q_inter_ns_8_0c2db63d:
 
     # ns "Well... you know. *giggles*"
-    ns "Well... you know. *giggles*"
+    ns "Eh bien... tu vois. *ricane*"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:327
 translate french q_inter_ns_22_af94e231:
 
     # ns "Hehehe. Never mind. I just wanted you to look at me."
-    ns "Hehehe. Never mind. I just wanted you to look at me."
+    ns "Héhéhé. Laisse tomber. Je voulais juste que tu me regardes."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:397
 translate french q_inter_ns_26_0f469b9f:
 
     # ns "And NASA found that a single plant can effectively purify 30 square feet of a space."
-    ns "And NASA found that a single plant can effectively purify 30 square feet of a space."
+    ns "Et la NASA a découvert qu’une seule plante peut purifier efficacement environ 3 mètres carrés d’espace."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:407
 translate french q_inter_ns_26_0a0ffbc8:
 
     # ns "Some of these studies focus on specific plants, and each plant..."
-    ns "Some of these studies focus on specific plants, and each plant..."
+    ns "Certaines de ces études se concentrent sur des plantes précises, et chaque plante..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:461
 translate french q_inter_ns_29_28d64cc9:
 
     # mct "Crowning has a Korean barbecue place?"
-    mct "Crowning has a Korean barbecue place?"
+    mct "Crowning a un resto de barbecue coréen ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:545
 translate french q_inter_ns_37_18abae82:
 
     # ns "With all these advances in AI script modules, I wonder if I would have used them in classes."
-    ns "With all these advances in AI script modules, I wonder if I would have used them in classes."
+    ns "Avec tous ces progrès des modules IA, je me demande si je les aurais utilisés en cours."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:559
 translate french q_inter_ns_38_17166f24:
 
     # ns "That was so fun, hooking up with you and Stacy."
-    ns "That was so fun, hooking up with you and Stacy."
+    ns "C’était tellement amusant de m’amuser avec toi et Stacy."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:560
 translate french q_inter_ns_38_d6a36a7a:
 
     # mc "First time?"
-    mc "First time?"
+    mc "Première fois ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:561
 translate french q_inter_ns_38_bf64d622:
 
     # ns "Yes."
-    ns "Yes."
+    ns "Oui."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:564
 translate french q_inter_ns_38_a018b071:
 
     # ns "Wait? Was I that bad?"
-    ns "Wait? Was I that bad?"
+    ns "Attends... j’étais si nulle que ça ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:567
 translate french q_inter_ns_38_d1330e66:
 
     # mc "Not at all Nari."
-    mc "Not at all Nari."
+    mc "Pas du tout, Nari."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:573
 translate french q_inter_ns_39_217556ef:
 
     # ns "I wonder if Stacy will want to fuck me and you at the same time again."
-    ns "I wonder if Stacy will want to fuck me and you at the same time again."
+    ns "Je me demande si Stacy voudra encore nous baiser tous les deux en même temps."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:574
 translate french q_inter_ns_39_3bffd0c2:
 
     # mc "Oh I think you can safely assume that will happen again."
-    mc "Oh I think you can safely assume that will happen again."
+    mc "Oh tu peux clairement t’attendre à ce que ça arrive encore."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:575
 translate french q_inter_ns_39_93037fdf:
 
     # mc "Stacy likes sex in all its forms."
-    mc "Stacy likes sex in all its forms."
+    mc "Stacy aime le sexe sous toutes ses formes."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:578
 translate french q_inter_ns_39_a6593017:
 
     # ns "Ooooh. Sounds like we'll get along nicely."
-    ns "Ooooh. Sounds like we'll get along nicely."
+    ns "Ooooh. On va très bien s’entendre alors."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:585
 translate french q_inter_ns_40_25048c2a:
 
     # ns "I can't believe I'm going to make porn with you."
-    ns "I can't believe I'm going to make porn with you."
+    ns "J’arrive pas à croire que je vais tourner du porno avec toi."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:590
 translate french q_inter_ns_41_0ffd1d15:
 
     # ns "I have to figure out some kind of pornstar name."
-    ns "I have to figure out some kind of pornstar name."
+    ns "Je dois me trouver un nom de pornstar."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:591
 translate french q_inter_ns_41_52a24206:
 
     # ns "Nari Stardust. Nari Always-Wet."
-    ns "Nari Stardust. Nari Always-Wet."
+    ns "Nari Stardust. Nari Toujours-Mouille."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:592
 translate french q_inter_ns_41_8dd527a3:
 
     # mc "I don't think pornstar names usually use their first name."
-    mc "I don't think pornstar names usually use their first name."
+    mc "Je crois que les noms de porno utilisent rarement le vrai prénom."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:595
 translate french q_inter_ns_41_61edbb0d:
 
     # ns "This is going to be harder than I thought."
-    ns "This is going to be harder than I thought."
+    ns "Ça va être plus dur que prévu."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:600
 translate french q_inter_ns_42_0443c849:
 
     # ns "Hello roomie."
-    ns "Hello roomie."
+    ns "Coucou coloc’."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:605
 translate french q_inter_ns_43_9c9704f2:
 
     # ns "I really love my room, [mcname]."
-    ns "I really love my room, [mcname]."
+    ns "J’adore ma chambre, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:610
 translate french q_inter_ns_44_869134b1:
 
     # ns "The bathroom at home is so big."
-    ns "The bathroom at home is so big."
+    ns "La salle de bain à la maison est tellement grande."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:615
 translate french q_inter_ns_45_eef0c656:
@@ -1095,143 +1094,144 @@ translate french q_inter_ns_45_eef0c656:
 translate french q_inter_ns_45_9fbc0f46:
 
     # mc "Nari?"
-    mc "Nari?"
+    mc "Nari ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:617
 translate french q_inter_ns_45_8963cfad:
 
     # ns "Hehe. Just thinking about the next time we have some down-time."
-    ns "Hehe. Just thinking about the next time we have some down-time."
+    ns "Héhé. Je pensais juste à la prochaine fois qu’on aura un moment tranquille."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:623
 translate french q_inter_ns_46_fbccf30c:
 
     # ns "This place is amazing. I found the garage yesterday."
-    ns "This place is amazing. I found the garage yesterday."
+    ns "Cet endroit est génial. J’ai trouvé le garage hier."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:624
 translate french q_inter_ns_46_88799376:
 
     # ns "Maybe one day I'll have a car to put in there."
-    ns "Maybe one day I'll have a car to put in there."
+    ns "Peut-être qu’un jour j’aurai une voiture à y mettre."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:625
 translate french q_inter_ns_46_2034c056:
 
     # mc "Maybe."
-    mc "Maybe."
+    mc "Peut-être."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:631
 translate french q_inter_ns_47_073558da:
 
     # ns "Mmmm. What is that look, [mcname]."
-    ns "Mmmm. What is that look, [mcname]."
+    ns "Mmmm. C’est quoi ce regard, [mcname] ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:632
 translate french q_inter_ns_47_6f09aad8:
 
     # ns "Are you thinking of doing something naughty with me?"
-    ns "Are you thinking of doing something naughty with me?"
+    ns "Tu penses à faire quelque chose de coquin avec moi ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:638
 translate french q_inter_ns_48_c7779512:
 
     # ns "Hey, [mcname]."
-    ns "Hey, [mcname]."
+    ns "Salut, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:639
 translate french q_inter_ns_48_1fc48270:
 
     # ns "Did you hear that Bitcoin is up again?"
-    ns "Did you hear that Bitcoin is up again?"
+    ns "Tu as entendu que le Bitcoin est remonté ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:640
 translate french q_inter_ns_48_8104a080:
 
     # ns "I need to save some money next paycheck to buy some."
-    ns "I need to save some money next paycheck to buy some."
+    ns "Je dois mettre un peu d’argent de côté avec ma prochaine paie pour en acheter."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:646
 translate french q_inter_ns_49_3ff77964:
 
     # ns "Hi, [mcname]."
-    ns "Hi, [mcname]."
+    ns "Coucou, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:647
 translate french q_inter_ns_49_6154ad10:
 
     # mc "What's wrong, Nari?"
-    mc "What's wrong, Nari?"
+    mc "Qu’est-ce qui ne va pas, Nari ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:650
 translate french q_inter_ns_49_807319e0:
 
     # ns "Bitcoin went down again yesterday."
-    ns "Bitcoin went down again yesterday."
+    ns "Le Bitcoin est redescendu hier."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:651
 translate french q_inter_ns_49_9dec280d:
 
     # ns "Right after I bought some."
-    ns "Right after I bought some."
+    ns "Juste après que j’en ai acheté."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:652
 translate french q_inter_ns_49_f196c3da:
 
     # mc "Win some, lose some."
-    mc "Win some, lose some."
+    mc "Parfois on gagne, parfois on perd."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:655
 translate french q_inter_ns_49_b93e4541:
 
     # ns "Yes..."
-    ns "Yes..."
+    ns "Oui..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:660
 translate french q_inter_ns_50_2c274d13:
 
     # mc "Oh hey Nari! Going for a walk?"
-    mc "Oh hey Nari! Going for a walk?"
+    mc "Oh salut Nari ! Tu fais une petite balade ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:661
 translate french q_inter_ns_50_f6afdaa7:
 
     # ns "Mmhmmm! I just think Crowning is so beautiful."
-    ns "Mmhmmm! I just think Crowning is so beautiful."
+    ns "Mmhmmm ! Je trouve Crowning tellement jolie."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:662
 translate french q_inter_ns_50_fd8f367f:
 
     # mc "I do too!"
-    mc "I do too!"
+    mc "Moi aussi !"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:667
 translate french q_inter_ns_51_8522c77b:
 
     # ns "[mcname]!"
-    ns "[mcname]!"
+    ns "[mcname] !"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:668
 translate french q_inter_ns_51_03d1e965:
 
     # mc "Yes, Nari?"
-    mc "Yes, Nari?"
+    mc "Oui, Nari ?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:671
 translate french q_inter_ns_51_7683dcea:
 
     # ns "One day we should come out here and fool around in the bushes!"
-    ns "One day we should come out here and fool around in the bushes!"
+    ns "Un jour, on devrait venir ici et s’amuser dans les buissons !"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:672
 translate french q_inter_ns_51_b365e603:
 
     # mc "That sounds like a plan!"
-    mc "That sounds like a plan!"
+    mc "Ça me va !"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:673
 translate french q_inter_ns_51_640f754e:
 
     # mct "I always forget Nari is a little freaky."
-    mct "I always forget Nari is a little freaky."
+    mct "J’oublie toujours que Nari est un peu spéciale."
 
+#Translate by BlackViper_
