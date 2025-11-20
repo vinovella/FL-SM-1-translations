@@ -242,29 +242,29 @@ translate deutsch strings:
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Mask party"
-    new "Mask party"
+    new "Maskenparty"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Convincing AmRose"
-    new "Convincing AmRose"
+    new "AmRose überzeugen"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Date with Debbie"
-    new "Date with Debbie"
+    new "Date mit Debbie"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Settling score with Maya"
-    new "Settling score with Maya"
+    new "Abrechnung mit Maya"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Helping Min relief stress"
-    new "Helping Min relief stress"
+    new "Min helfen, Stress abzubauen"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Date with April"
-    new "Date with April"
+    new "Date mit April"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Practicing with Denise"
-    new "Practicing with Denise"
+    new "Üben mit Denise"
 
