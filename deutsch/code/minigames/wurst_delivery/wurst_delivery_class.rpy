@@ -8,5 +8,5 @@ translate deutsch strings:
 
     # game/code/minigames/wurst_delivery/wurst_delivery_class.rpy:100
     old "Wurst delivery"
-    new "Wurst delivery"
+    new "Wurstlieferung"
 
