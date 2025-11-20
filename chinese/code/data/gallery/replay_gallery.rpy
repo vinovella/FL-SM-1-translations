@@ -252,3 +252,31 @@
     old "Star Voyage VI: Babe-lyon 9"
     new "星际航程VI：宝贝伦9号"
 
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Mask party"
+    new "面具派对"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Convincing AmRose"
+    new "说服爱洛丝"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Date with Debbie"
+    new "与黛比的约会"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Settling score with Maya"
+    new "与玛雅的清算"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Helping Min relief stress"
+    new "帮助敏缓解压力"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Date with April"
+    new "与艾普丽尔的约会"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Practicing with Denise"
+    new "与丹尼斯的练习"
+

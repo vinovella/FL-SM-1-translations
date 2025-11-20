@@ -710,3 +710,89 @@ translate italian strings:
     old "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
     new "Progredisci le storyline di Denise, Kellie, Taisia e Veronica"
 
+translate italian strings:
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk big business"
+    new "Talk big business"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress AmRose's story"
+    new "Progress AmRose's story"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Throw a party"
+    new "Throw a party"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Start making the second movie"
+    new "Start making the second movie"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Text AmRose for a meetup"
+    new "Text AmRose for a meetup"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Answer AmRose's message"
+    new "Answer AmRose's message"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Reminisce with AmRose"
+    new "Reminisce with AmRose"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk with Amore"
+    new "Talk with Amore"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Date with Debbie at the shooting range"
+    new "Date with Debbie at the shooting range"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Movie date with Debbie"
+    new "Movie date with Debbie"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Working it with Maya"
+    new "Working it with Maya"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Some fun with Min"
+    new "Some fun with Min"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Contest with Melony and Stacy"
+    new "Contest with Melony and Stacy"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "A night in Melony"
+    new "A night in Melony"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Answer April's message"
+    new "Answer April's message"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Dinner with April"
+    new "Dinner with April"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Perform a hungry show"
+    new "Perform a hungry show"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk about the play"
+    new "Talk about the play"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Text Taisia"
+    new "Text Taisia"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Taisia wants to make breakfast"
+    new "Taisia wants to make breakfast"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Nari is hungry in the morning"
+    new "Nari is hungry in the morning"
+

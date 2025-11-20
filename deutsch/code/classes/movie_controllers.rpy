@@ -80,3 +80,7 @@
     old "Spend [amount] Energy in [energy_name!t]"
     new "Gib [amount] Energie für [energy_name!t] aus"
 
+    # game/code/classes/movie_controllers.rpy:115
+    old "Pirate movie"
+    new "Piratenfilm"
+

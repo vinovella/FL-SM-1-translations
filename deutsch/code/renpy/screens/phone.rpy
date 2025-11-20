@@ -44,3 +44,9 @@ translate deutsch strings:
     old "Day: [gt.get_day_number()]"
     new "Tag: [gt.get_day_number()]"
 
+translate deutsch strings:
+
+    # game/code/renpy/screens/phone.rpy:77
+    old "Save for Season 2"
+    new "Save for Season 2"
+

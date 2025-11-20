@@ -462,3 +462,13 @@ translate turkish strings:
     old "Get [var]/9 Relationship Points with Maya"
     new "Maya ile [var]/9 İlişki Puanı kazan"
 
+translate turkish strings:
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Debbie about your next date in the park"
+    new "Talk to Debbie about your next date in the park"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Invite Debbie to the next date"
+    new "Invite Debbie to the next date"
+

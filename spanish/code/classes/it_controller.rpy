@@ -10,3 +10,9 @@ translate spanish strings:
     old "Orbix Salary ([days] days)"
     new "Orbix Salary ([days] days)"
 
+translate spanish strings:
+
+    # game/code/classes/it_controller.rpy:55
+    old "Orbix salary ([days] days)"
+    new "Orbix salary ([days] days)"
+

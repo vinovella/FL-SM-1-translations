@@ -52,3 +52,9 @@ translate italian strings:
     old "Would you like to enable this data collection?"
     new "Vuoi abilitare questa raccolta dati?"
 
+translate italian strings:
+
+    # game/code/renpy/screens/others.rpy:165
+    old "How do you want to name your Season 2 save?"
+    new "How do you want to name your Season 2 save?"
+

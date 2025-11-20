@@ -240,3 +240,33 @@
     old "Star Voyage VI: Babe-lyon 9"
     new "Star Voyage VI: Babe-lyon 9"
 
+translate french strings:
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Mask party"
+    new "Mask party"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Convincing AmRose"
+    new "Convincing AmRose"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Date with Debbie"
+    new "Date with Debbie"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Settling score with Maya"
+    new "Settling score with Maya"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Helping Min relief stress"
+    new "Helping Min relief stress"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Date with April"
+    new "Date with April"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Practicing with Denise"
+    new "Practicing with Denise"
+

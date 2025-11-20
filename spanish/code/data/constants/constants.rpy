@@ -194,3 +194,17 @@ translate spanish strings:
     old "Sun"
     new "Sun"
 
+translate spanish strings:
+
+    # game/code/data/constants/constants.rpy:388
+    old "Book"
+    new "Book"
+
+    # game/code/data/constants/constants.rpy:389
+    old "Magazine"
+    new "Magazine"
+
+    # game/code/data/constants/constants.rpy:398
+    old "Energy drink"
+    new "Energy drink"
+

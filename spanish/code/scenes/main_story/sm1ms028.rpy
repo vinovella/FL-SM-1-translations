@@ -1002,3 +1002,9 @@ translate spanish sm1ms028_dress_change_d5624f26:
     # mc "Never mind, we dont have time to change."
     mc "Never mind, we dont have time to change."
 
+translate spanish strings:
+
+    # game/code/scenes/main_story/sm1ms028.rpy:372
+    old "You got $500 as your signup bonus from Porn Cave"
+    new "You got $500 as your signup bonus from Porn Cave"
+

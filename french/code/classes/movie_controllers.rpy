@@ -81,3 +81,9 @@
 
 #Translate by BlackViper_
 
+translate french strings:
+
+    # game/code/classes/movie_controllers.rpy:115
+    old "Pirate movie"
+    new "Pirate movie"
+

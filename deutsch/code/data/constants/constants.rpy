@@ -164,8 +164,6 @@ translate deutsch strings:
     old "Sunday"
     new "Sonntag"
 
-translate deutsch strings:
-
     # game/code/data/constants/constants.rpy:168
     old "Mon"
     new "Mon"
@@ -193,4 +191,16 @@ translate deutsch strings:
     # game/code/data/constants/constants.rpy:174
     old "Sun"
     new "Son"
+
+    # game/code/data/constants/constants.rpy:388
+    old "Book"
+    new "Buch"
+
+    # game/code/data/constants/constants.rpy:389
+    old "Magazine"
+    new "Magazin"
+
+    # game/code/data/constants/constants.rpy:398
+    old "Energy drink"
+    new "Energydrink"
 

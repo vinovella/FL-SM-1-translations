@@ -54,3 +54,9 @@ translate french strings:
     old "Would you like to enable this data collection?"
     new "Would you like to enable this data collection?"
 
+translate french strings:
+
+    # game/code/renpy/screens/others.rpy:165
+    old "How do you want to name your Season 2 save?"
+    new "How do you want to name your Season 2 save?"
+

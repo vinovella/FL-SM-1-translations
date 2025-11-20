@@ -194,3 +194,17 @@ translate turkish strings:
     old "Sun"
     new "Paz"
 
+translate turkish strings:
+
+    # game/code/data/constants/constants.rpy:388
+    old "Book"
+    new "Book"
+
+    # game/code/data/constants/constants.rpy:389
+    old "Magazine"
+    new "Magazine"
+
+    # game/code/data/constants/constants.rpy:398
+    old "Energy drink"
+    new "Energy drink"
+

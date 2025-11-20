@@ -88,3 +88,9 @@
     old "Spend [amount] Energy in [energy_name!t]"
     new "[energy_name!t] için [amount] Enerji harca"
 
+translate turkish strings:
+
+    # game/code/classes/movie_controllers.rpy:115
+    old "Pirate movie"
+    new "Pirate movie"
+

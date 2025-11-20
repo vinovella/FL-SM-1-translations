@@ -476,3 +476,11 @@
     old "Ask Debbie to the movies"
     new "邀请黛比去看电影"
 
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Have some fun in the toilet"
+    new "在厕所里玩得开心"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Good morning!"
+    new "早上好！"
+

@@ -472,3 +472,17 @@
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
     new "Menü ikonları @colebemis tarafından yapılan ve {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT Lisansı{/a} altında lisanslanan güzel bir ikon koleksiyonu olan {a=https://feathericons.com/}Feather{/a}'dan türetilmiştir."
 
+translate turkish strings:
+
+    # game/code/renpy/screens/screens.rpy:444
+    old "Saves For Season 2"
+    new "Saves For Season 2"
+
+    # game/code/renpy/screens/screens.rpy:1107
+    old "MUSIC LISENCES & SOURCES"
+    new "MUSIC LISENCES & SOURCES"
+
+    # game/code/renpy/screens/screens.rpy:1140
+    old "FRENCH TRANSLATION"
+    new "FRENCH TRANSLATION"
+

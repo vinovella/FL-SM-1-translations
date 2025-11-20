@@ -238,3 +238,33 @@ translate deutsch strings:
     old "Filming of Sci-Fi Movie"
     new "Dreharbeiten zu einem Science-Fiction-Film"
 
+translate deutsch strings:
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Mask party"
+    new "Mask party"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Convincing AmRose"
+    new "Convincing AmRose"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Date with Debbie"
+    new "Date with Debbie"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Settling score with Maya"
+    new "Settling score with Maya"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Helping Min relief stress"
+    new "Helping Min relief stress"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Date with April"
+    new "Date with April"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Practicing with Denise"
+    new "Practicing with Denise"
+

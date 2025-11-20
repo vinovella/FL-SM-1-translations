@@ -44,3 +44,9 @@ translate turkish strings:
     old "Day: [gt.get_day_number()]"
     new "Gün: [gt.get_day_number()]"
 
+translate turkish strings:
+
+    # game/code/renpy/screens/phone.rpy:77
+    old "Save for Season 2"
+    new "Save for Season 2"
+

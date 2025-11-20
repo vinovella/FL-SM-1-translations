@@ -4,9 +4,7 @@
     old "You already learned everything from this magazine"
     new "Du hast bereits alles aus diesem Magazin gelernt"
 
-translate deutsch strings:
-
-    # game/code/classes/it_controller.rpy:43
-    old "Orbix Salary ([days] days)"
-    new "Orbix Gehalt ([days] Tage)"
+    # game/code/classes/it_controller.rpy:55
+    old "Orbix salary ([days] days)"
+    new "Orbix gehalt ([days] Tage)"
 

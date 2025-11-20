@@ -476,3 +476,17 @@ translate italian strings:
     old "Purchase An Actor Prepares for $60"
     new "Acquista Un attore si prepara per $60"
 
+translate italian strings:
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ask Debbie to the movies"
+    new "Ask Debbie to the movies"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Have some fun in the toilet"
+    new "Have some fun in the toilet"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Good morning!"
+    new "Good morning!"
+

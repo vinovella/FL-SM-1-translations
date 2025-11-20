@@ -6872,3 +6872,15 @@ translate portuguese sm1ms029_confrontation_3670d210:
     # mc "He thinks he can come in and try to scare us?"
     mc "Ele acha que pode vir aqui assustar a gente?"
 
+# game/code/scenes/main_story/sm1ms029.rpy:620
+translate portuguese sm1ms029_party_mes_d6798e52:
+
+    # mes "I see you two were paying attention!"
+    mes "I see you two were paying attention!"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1367
+translate portuguese sm1ms029_talk_kv_hr_arj_c8a218be:
+
+    # mc "She's a worry wort."
+    mc "She's a worry wort."
+
