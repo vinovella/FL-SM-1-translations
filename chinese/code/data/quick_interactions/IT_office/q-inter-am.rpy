@@ -776,47 +776,47 @@ translate chinese q_inter_am_28_1c1031d5:
 translate chinese q_inter_am_29_6b516b0a:
 
     # mc "Can I get you a drink, April?"
-    mc "Can I get you a drink, April?"
+    mc "我能给你买杯酒吗，艾普尔？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:428
 translate chinese q_inter_am_29_e256ee28:
 
     # am "Nah, I'm just going to have this one and head home."
-    am "Nah, I'm just going to have this one and head home."
+    am "不用，我就喝这一杯然后回家。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:429
 translate chinese q_inter_am_29_d5ae2301:
 
     # mc "Fair enough."
-    mc "Fair enough."
+    mc "有道理。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:432
 translate chinese q_inter_am_29_a98164a3:
 
     # am "But maybe some other time?"
-    am "But maybe some other time?"
+    am "但也许下次？"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:433
 translate chinese q_inter_am_29_74c498aa:
 
     # mc "Sounds good to me."
-    mc "Sounds good to me."
+    mc "听起来不错。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:438
 translate chinese q_inter_am_30_fc8a648f:
 
     # am "You know... that was a pretty nice hotel we were at."
-    am "You know... that was a pretty nice hotel we were at."
+    am "你知道...我们去的那家酒店很不错。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:439
 translate chinese q_inter_am_30_6e031e75:
 
     # mc "Yeah it was."
-    mc "Yeah it was."
+    mc "是的，确实不错。"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:442
 translate chinese q_inter_am_30_83e13801:
 
     # am "We'll have to go back sometime for round 2."
-    am "We'll have to go back sometime for round 2."
+    am "我们得找个时间再去一次，来个第二轮。"
 
