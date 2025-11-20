@@ -188,7 +188,7 @@ translate chinese q_inter_dc_12_757c5cb4:
 translate chinese q_inter_dc_12_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "嗯？"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:138
 translate chinese q_inter_dc_12_b7912968:

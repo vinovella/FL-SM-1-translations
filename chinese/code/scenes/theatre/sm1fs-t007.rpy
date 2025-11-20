@@ -314,7 +314,7 @@ translate chinese sm1fs_t007_594b975b:
 translate chinese sm1fs_t007_7f411395:
 
     # "*crackles*"
-    "*crackles*"
+    "*噼啪声*"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:155
 translate chinese sm1fs_t007_d8247e33:
@@ -422,13 +422,13 @@ translate chinese sm1fs_t007_23a8eeb2:
 translate chinese sm1fs_t007_37a25edc:
 
     # "*gunshot*"
-    "*gunshot*"
+    "*枪声*"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:267
 translate chinese sm1fs_t007_c581a927:
 
     # sj "*death cry*"
-    sj "*death cry*"
+    sj "*死亡呐喊*"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:274
 translate chinese sm1fs_t007_b65ccefc:
@@ -698,7 +698,7 @@ translate chinese sm1fs_t007_end_of_play_2058214b:
 translate chinese sm1fs_t007_end_of_play_7b4ec7bd:
 
     # "*audience clapping*"
-    "*audience clapping*"
+    "*观众鼓掌*"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:424
 translate chinese sm1fs_t007_end_of_play_abddac53:

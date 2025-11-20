@@ -242,7 +242,7 @@ translate chinese sm1cs_dvh002_f901039b:
 translate chinese sm1cs_dvh002_613fd08e:
 
     # dvh "Hmph."
-    dvh "Hmph."
+    dvh "哼。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:146
 translate chinese sm1cs_dvh002_11455b53:
@@ -506,7 +506,7 @@ translate chinese sm1cs_dvh002_64bfeb56:
 translate chinese sm1cs_dvh002_613fd08e_1:
 
     # dvh "Hmph."
-    dvh "Hmph."
+    dvh "哼。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:310
 translate chinese sm1cs_dvh002_ef93df8a:
@@ -530,7 +530,7 @@ translate chinese sm1cs_dvh002_07b5e81b:
 translate chinese sm1cs_dvh002_82dc34ec:
 
     # dvh "Mmhmmm."
-    dvh "Mmhmmm."
+    dvh "嗯嗯。"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:321
 translate chinese sm1cs_dvh002_d1d0b768:

@@ -1574,7 +1574,7 @@ translate chinese sm1ms029_talk_mes_ns_277797c1:
 translate chinese sm1ms029_talk_mes_ns_9de3e2e4:
 
     # ns "Mmmmm!"
-    ns "Mmmmm!"
+    ns "嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:742
 translate chinese sm1ms029_talk_mes_ns_4124673d:

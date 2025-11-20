@@ -26,7 +26,7 @@ translate chinese sm1cs_dc009i_a8eae260:
 translate chinese sm1cs_dc009i_8d314c9a:
 
     # dc "Hahahaha!"
-    dc "Hahahaha!"
+    dc "哈哈哈哈！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009i.rpy:15
 translate chinese sm1cs_dc009i_2d13558d:

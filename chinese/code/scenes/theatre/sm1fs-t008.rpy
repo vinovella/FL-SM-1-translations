@@ -518,7 +518,7 @@ translate chinese sm1fs_t008_later_7cd76da7:
 translate chinese sm1fs_t008_later_ac49ab0c:
 
     # "*clap clap clap*"
-    "*clap clap clap*"
+    "*鼓掌 鼓掌 鼓掌*"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:279
 translate chinese sm1fs_t008_later_86176f2b:

@@ -1970,7 +1970,7 @@ translate chinese sm1cs_my006_next_morning_e4816e00:
 translate chinese sm1cs_my006_next_morning_2915b9a8:
 
     # "*GULP*"
-    "*GULP*"
+    "*咕噜*"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:825
 translate chinese sm1cs_my006_next_morning_4d74386e:
@@ -2012,7 +2012,7 @@ translate chinese sm1cs_my006_next_morning_0446d281:
 translate chinese sm1cs_my006_next_morning_2915b9a8_1:
 
     # "*GULP*"
-    "*GULP*"
+    "*咕噜*"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:842
 translate chinese sm1cs_my006_next_morning_8288a39e:

@@ -2648,7 +2648,7 @@ translate chinese sm1cs_am008_sex_7fac1ac6:
 translate chinese sm1cs_am008_sex_45d4b8ac:
 
     # "Click"
-    "Click"
+    "咔嚓"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1462
 translate chinese sm1cs_am008_sex_1218b4ff:

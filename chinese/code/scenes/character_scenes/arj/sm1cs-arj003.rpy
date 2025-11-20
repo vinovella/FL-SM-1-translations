@@ -26,7 +26,7 @@ translate chinese sm1cs_arj003_331597ac:
 translate chinese sm1cs_arj003_42b5928b:
 
     # mc "Mmmmm."
-    mc "Mmmmm."
+    mc "嗯嗯~"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:20
 translate chinese sm1cs_arj003_0885b926:
@@ -866,13 +866,13 @@ translate chinese sm1cs_arj003_2184e23a:
 translate chinese sm1cs_arj003_254336d8:
 
     # arj "Mmmm."
-    arj "Mmmm."
+    arj "嗯嗯~"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:341
 translate chinese sm1cs_arj003_77975f23:
 
     # mc "Mmmm."
-    mc "Mmmm."
+    mc "嗯嗯~"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:343
 translate chinese sm1cs_arj003_1df6c0db:

@@ -56,7 +56,7 @@ translate chinese sm1cs_bg005_590002d9:
 translate chinese sm1cs_bg005_8e9aad0e:
 
     # "*click*"
-    "*click*"
+    "*咔嚓*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:37
 translate chinese sm1cs_bg005_3fc67c04:

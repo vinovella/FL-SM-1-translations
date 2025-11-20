@@ -26,7 +26,7 @@ translate chinese sm1ms029_party_arj_bf4e8bed:
 translate chinese sm1ms029_party_arj_7b7c1b0e:
 
     # arj "Ooouh-huaaa...."
-    arj "Ooouh-huaaa...."
+    arj "噢-啊..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1917
 translate chinese sm1ms029_party_arj_dca6def0:
@@ -56,7 +56,7 @@ translate chinese sm1ms029_party_arj_3d28a85a:
 translate chinese sm1ms029_party_arj_c270851f:
 
     # arj "Hhuaa-houaaah..."
-    arj "Hhuaa-houaaah..."
+    arj "啊-啊..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1924
 translate chinese sm1ms029_party_arj_d7b32b44:
@@ -110,7 +110,7 @@ translate chinese sm1ms029_party_arj_59051cfd:
 translate chinese sm1ms029_party_arj_d67db856:
 
     # arj "Ohuaa-huraah..."
-    arj "Ohuaa-huraah..."
+    arj "噢啊-啊..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1937
 translate chinese sm1ms029_party_arj_4e7f0a0b:
@@ -146,7 +146,7 @@ translate chinese sm1ms029_party_arj_3f19b7c7:
 translate chinese sm1ms029_party_arj_a281a7be:
 
     # arj "Bauha-houah... yes..."
-    arj "Bauha-houah... yes..."
+    arj "啊-啊...是..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1944
 translate chinese sm1ms029_party_arj_230a1b61:
@@ -200,13 +200,13 @@ translate chinese sm1ms029_party_arj_03bd3623:
 translate chinese sm1ms029_party_arj_85171502:
 
     # arj "Mrrrm..."
-    arj "Mrrrm..."
+    arj "嗯嗯..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1962
 translate chinese sm1ms029_party_arj_37602784:
 
     # arj "Af-ahuaaa-oouahaa!"
-    arj "Af-ahuaaa-oouahaa!"
+    arj "啊-啊-噢啊！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1964
 translate chinese sm1ms029_party_arj_26a1568e:
@@ -218,7 +218,7 @@ translate chinese sm1ms029_party_arj_26a1568e:
 translate chinese sm1ms029_party_arj_32617025:
 
     # arj "Bahua-oouhaah..."
-    arj "Bahua-oouhaah..."
+    arj "啊-噢啊..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1967
 translate chinese sm1ms029_party_arj_0467b794:
@@ -278,7 +278,7 @@ translate chinese sm1ms029_party_arj_d5cb18e5:
 translate chinese sm1ms029_party_arj_ca4b6706:
 
     # arj "Ohou-aahaah!"
-    arj "Ohou-aahaah!"
+    arj "噢-啊！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1984
 translate chinese sm1ms029_party_arj_4f9d2674:
@@ -350,7 +350,7 @@ translate chinese sm1ms029_party_arj_0b785211:
 translate chinese sm1ms029_party_arj_9b3e2cce:
 
     # arj "Hhuaa-oouhaaha!"
-    arj "Hhuaa-oouhaaha!"
+    arj "啊-噢啊！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2002
 translate chinese sm1ms029_party_arj_0242b70f:
@@ -428,7 +428,7 @@ translate chinese sm1ms029_party_arj_a887bdb3:
 translate chinese sm1ms029_party_arj_6be0145b:
 
     # arj "Mrrrmmmmm."
-    arj "Mrrrmmmmm."
+    arj "嗯嗯~"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2021
 translate chinese sm1ms029_party_arj_2754e49d:
@@ -446,7 +446,7 @@ translate chinese sm1ms029_party_arj_101a5723:
 translate chinese sm1ms029_party_arj_900ccfdf:
 
     # arj "Oh my godd-huaaaa-ayieeehaaah!"
-    arj "Oh my godd-huaaaa-ayieeehaaah!"
+    arj "我的天-啊-啊啊！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2029
 translate chinese sm1ms029_party_arj_a995df6f:
@@ -464,7 +464,7 @@ translate chinese sm1ms029_party_arj_be832965:
 translate chinese sm1ms029_party_arj_dd4a8689:
 
     # arj "F-huaaah.... yes...."
-    arj "F-huaaah.... yes...."
+    arj "啊-啊...是的..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2036
 translate chinese sm1ms029_party_arj_adf45718:
