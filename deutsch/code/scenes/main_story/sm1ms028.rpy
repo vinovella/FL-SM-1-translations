@@ -50,7 +50,7 @@ translate deutsch sm1ms028_f41d326d:
 translate deutsch sm1ms028_c580ee60:
 
     # mc "Oh yeah. I've perused. What's on your mind, Mr. Dickles."
-    mc "Oh ja. Ich habe schon mal was von euch gehört. Was beschäftigt dich, Mr. Dickles?"
+    mc "Oh ja. Ich habe schon mal was von euch gehört. Worum geht es, Mr. Dickles?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:30
 translate deutsch sm1ms028_a9d4c108:
@@ -74,7 +74,7 @@ translate deutsch sm1ms028_bd3181f0:
 translate deutsch sm1ms028_6daf9390:
 
     # mct "No way!"
-    mct "Auf keinen Fall!"
+    mct "Unmöglich!"
 
 # game/code/scenes/main_story/sm1ms028.rpy:38
 translate deutsch sm1ms028_c5c905eb:
@@ -596,7 +596,7 @@ translate deutsch sm1ms028_location_change_918a0233:
 translate deutsch sm1ms028_location_change_19203f1f:
 
     # sy "Done!"
-    sy "Fertig!"
+    sy "Abgemacht!"
 
 # game/code/scenes/main_story/sm1ms028.rpy:269
 translate deutsch sm1ms028_location_change_5bd23baa:
