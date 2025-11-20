@@ -404,7 +404,7 @@ translate chinese q_inter_my_13_2aea2240:
 translate chinese q_inter_my_14_ec8245fb:
 
     # my "{size=*0.7}Oh, [mcname]...{/size}"
-    my "{size=*0.7}Oh, [mcname]...{/size}"
+    my "{size=*0.7}哦，[mcname]...{/size}"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:237
 translate chinese q_inter_my_14_05500ff6:

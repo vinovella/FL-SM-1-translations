@@ -674,5 +674,5 @@ translate chinese sm1xc_ns_tl_001_73b4fefc:
 translate chinese sm1xc_ns_tl_001_4da1f062:
 
     # "[mcname] and Taisia" "Hahaha."
-    "[mcname] and Taisia" "Hahaha."
+    "[mcname]和泰西娅" "哈哈哈。"
 

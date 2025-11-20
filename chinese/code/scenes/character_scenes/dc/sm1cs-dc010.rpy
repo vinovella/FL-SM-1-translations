@@ -1412,7 +1412,7 @@ translate chinese sm1cs_dc010_later_4915dab3:
 translate chinese sm1cs_dc010_dc_hj_16b05ad9:
 
     # mc "Debbie?"
-    mc "Debbie?"
+    mc "黛比？"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:612
 translate chinese sm1cs_dc010_dc_hj_e53a613d:
@@ -2382,7 +2382,7 @@ translate chinese sm1cs_dc010_later_f90d492d:
 translate chinese sm1cs_dc010_later_c8344b37:
 
     # doc "Shit!"
-    doc "Shit!"
+    doc "该死！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:265
 translate chinese sm1cs_dc010_later_082113f0:
