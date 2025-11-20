@@ -14,7 +14,7 @@ translate chinese sm1ms029_part_1_my_appear_adc86885:
 translate chinese sm1ms029_part_1_my_appear_898d5296:
 
     # sy "Mmmmmmm!"
-    sy "Mmmmmmm!"
+    sy "嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1422
 translate chinese sm1ms029_part_1_my_appear_0d0364cd:
@@ -38,7 +38,7 @@ translate chinese sm1ms029_part_1_my_appear_39dcb748:
 translate chinese sm1ms029_part_1_my_appear_2bc4e327:
 
     # sy "Mmmmm - mmmmmmm!"
-    sy "Mmmmm - mmmmmmm!"
+    sy "嗯嗯 - 嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1428
 translate chinese sm1ms029_part_1_my_appear_674e7749:
@@ -50,7 +50,7 @@ translate chinese sm1ms029_part_1_my_appear_674e7749:
 translate chinese sm1ms029_part_1_my_appear_7f748666:
 
     # sy "Mmmmrmmmmm!"
-    sy "Mmmmrmmmmm!"
+    sy "嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1430
 translate chinese sm1ms029_part_1_my_appear_4be528b3:
@@ -92,7 +92,7 @@ translate chinese sm1ms029_part_1_my_appear_5d49a728:
 translate chinese sm1ms029_part_1_my_appear_39df4a78:
 
     # "*KNOCK, KNOCK*"
-    "*KNOCK, KNOCK*"
+    "*敲门、敲门*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1442
 translate chinese sm1ms029_part_1_my_appear_0c33f972:
@@ -140,7 +140,7 @@ translate chinese sm1ms029_part_1_my_appear_2e5b5be3:
 translate chinese sm1ms029_part_1_my_appear_6b797ad1:
 
     # sy "Mmmrrmmmgggg!"
-    sy "Mmmrrmmmgggg!"
+    sy "嗯嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1458
 translate chinese sm1ms029_part_1_my_appear_90de4ca8:
@@ -236,7 +236,7 @@ translate chinese sm1ms029_part_1_my_appear_891beefa:
 translate chinese sm1ms029_part_1_my_appear_962072ec:
 
     # sy "Mmmrmmmmmm!"
-    sy "Mmmrmmmmmm!"
+    sy "嗯嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1487
 translate chinese sm1ms029_part_1_my_appear_86fb9353:
@@ -296,7 +296,7 @@ translate chinese sm1ms029_part_1_my_appear_b3ae8984:
 translate chinese sm1ms029_part_1_my_appear_745995e3:
 
     # sy "Mmm - mmmm - mmmmm!"
-    sy "Mmm - mmmm - mmmmm!"
+    sy "嗯 - 嗯嗯 - 嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1503
 translate chinese sm1ms029_part_1_my_appear_048e4496:
@@ -308,7 +308,7 @@ translate chinese sm1ms029_part_1_my_appear_048e4496:
 translate chinese sm1ms029_part_1_my_appear_188e4a88:
 
     # sy "Mmmrmmmgggg!"
-    sy "Mmmrmmmgggg!"
+    sy "嗯嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1505
 translate chinese sm1ms029_part_1_my_appear_b9a3840b:
@@ -320,7 +320,7 @@ translate chinese sm1ms029_part_1_my_appear_b9a3840b:
 translate chinese sm1ms029_part_1_my_appear_e94224cf:
 
     # sy "Mmmrrmmmpppphh!"
-    sy "Mmmrrmmmpppphh!"
+    sy "嗯嗯呜呜！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1508
 translate chinese sm1ms029_part_1_my_appear_663c9143:
@@ -1118,7 +1118,7 @@ translate chinese sm1ms029_party_sy_34fcbf63:
 translate chinese sm1ms029_rival_enters_4caeea85:
 
     # "*KNOCK, KNOCK, KNOCK*"
-    "*KNOCK, KNOCK, KNOCK*"
+    "*敲门、敲门、敲门*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1722
 translate chinese sm1ms029_rival_enters_72ebe0a5:

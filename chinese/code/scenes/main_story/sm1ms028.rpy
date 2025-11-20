@@ -2,7 +2,7 @@
 translate chinese sm1ms028_449e1cf6:
 
     # "BUZZ BUZZ"
-    "BUZZ BUZZ"
+    "嗡嗡"
 
 # game/code/scenes/main_story/sm1ms028.rpy:10
 translate chinese sm1ms028_4e85cb4d:
@@ -146,7 +146,7 @@ translate chinese sm1ms028_7cd5626f:
 translate chinese sm1ms028_8e9aad0e:
 
     # "*click*"
-    "*click*"
+    "*咔嚓*"
 
 # game/code/scenes/main_story/sm1ms028.rpy:63
 translate chinese sm1ms028_c836d506:

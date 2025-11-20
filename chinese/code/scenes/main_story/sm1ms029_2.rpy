@@ -32,7 +32,7 @@ translate chinese sm1ms029_party_part_1_db350b76:
 translate chinese sm1ms029_party_part_1_2d18139d:
 
     # sy "Nggghhhhh-!"
-    sy "Nggghhhhh-!"
+    sy "嗯啊啊-！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1537
 translate chinese sm1ms029_party_part_1_9691e0ae:
@@ -140,7 +140,7 @@ translate chinese sm1ms029_party_part_1_57c12417:
 translate chinese sm1ms029_party_part_1_07ebb28c:
 
     # sy "Mmmmm..."
-    sy "Mmmmm..."
+    sy "嗯嗯..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1587
 translate chinese sm1ms029_party_part_1_8815b8e9:
@@ -464,7 +464,7 @@ translate chinese sm1ms029_ns_nipple_clamps_9ef2bf3d:
 translate chinese sm1ms029_ns_nipple_clamps_2500beb2:
 
     # sy "Mmmmmm!"
-    sy "Mmmmmm!"
+    sy "嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1734
 translate chinese sm1ms029_ns_nipple_clamps_375621c9:
@@ -524,7 +524,7 @@ translate chinese sm1ms029_ns_nipple_clamps_fca0b820:
 translate chinese sm1ms029_ns_nipple_clamps_a85f91b3:
 
     # sy "Nnnnggghhhhh!"
-    sy "Nnnnggghhhhh!"
+    sy "嗯啊啊啊！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1756
 translate chinese sm1ms029_ns_nipple_clamps_902cc0a1:
@@ -620,7 +620,7 @@ translate chinese sm1ms029_tl_nipple_clamps_dbb70fd4:
 translate chinese sm1ms029_tl_nipple_clamps_2500beb2:
 
     # sy "Mmmmmm!"
-    sy "Mmmmmm!"
+    sy "嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1803
 translate chinese sm1ms029_tl_nipple_clamps_97073d08:
@@ -632,7 +632,7 @@ translate chinese sm1ms029_tl_nipple_clamps_97073d08:
 translate chinese sm1ms029_tl_nipple_clamps_efda7d72:
 
     # sy "Ooooo!"
-    sy "Ooooo!"
+    sy "噢噢！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1808
 translate chinese sm1ms029_tl_nipple_clamps_b86b856a:
@@ -662,7 +662,7 @@ translate chinese sm1ms029_tl_nipple_clamps_8165a683:
 translate chinese sm1ms029_tl_nipple_clamps_efda7d72_1:
 
     # sy "Ooooo!"
-    sy "Ooooo!"
+    sy "噢噢！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1822
 translate chinese sm1ms029_tl_nipple_clamps_ab9f7cbc:
@@ -680,7 +680,7 @@ translate chinese sm1ms029_tl_nipple_clamps_bbac6b7b:
 translate chinese sm1ms029_tl_nipple_clamps_82d9874c:
 
     # tl "Mmmmmm..."
-    tl "Mmmmmm..."
+    tl "嗯嗯..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1831
 translate chinese sm1ms029_tl_nipple_clamps_a548952e:
@@ -692,7 +692,7 @@ translate chinese sm1ms029_tl_nipple_clamps_a548952e:
 translate chinese sm1ms029_tl_nipple_clamps_2500beb2_1:
 
     # sy "Mmmmmm!"
-    sy "Mmmmmm!"
+    sy "嗯嗯嗯！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1835
 translate chinese sm1ms029_tl_nipple_clamps_2f3de30d:
@@ -788,7 +788,7 @@ translate chinese sm1ms029_part_1_my_appear_c8c40a7f:
 translate chinese sm1ms029_part_1_my_appear_d71c9391:
 
     # sy "Gggllllllgggg!"
-    sy "Gggllllllgggg!"
+    sy "咕噜噜噜！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1893
 translate chinese sm1ms029_part_1_my_appear_01708eab:
@@ -806,7 +806,7 @@ translate chinese sm1ms029_part_1_my_appear_f3e7df3a:
 translate chinese sm1ms029_part_1_my_appear_ff7688ba:
 
     # sy "Gllccckkrggrggrgg!"
-    sy "Gllccckkrggrggrgg!"
+    sy "咕呃呃呃！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1901
 translate chinese sm1ms029_part_1_my_appear_01508a13:
@@ -824,13 +824,13 @@ translate chinese sm1ms029_part_1_my_appear_99f830bd:
 translate chinese sm1ms029_part_1_my_appear_89d5eb9c:
 
     # sy "Glllrrggggcccckkk!"
-    sy "Glllrrggggcccckkk!"
+    sy "咕呃呃呃呃！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1906
 translate chinese sm1ms029_part_1_my_appear_e286018d:
 
     # arj "Mmmmmm..."
-    arj "Mmmmmm..."
+    arj "嗯嗯..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1910
 translate chinese sm1ms029_part_1_my_appear_bc6ecfa5:
@@ -860,7 +860,7 @@ translate chinese sm1ms029_part_1_my_appear_c6498bc1:
 translate chinese sm1ms029_part_1_my_appear_8c3faf33:
 
     # sy "Mmmppphhh!"
-    sy "Mmmppphhh!"
+    sy "嗯呜呜！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1923
 translate chinese sm1ms029_part_1_my_appear_59bcf8c9:
@@ -872,5 +872,5 @@ translate chinese sm1ms029_part_1_my_appear_59bcf8c9:
 translate chinese sm1ms029_part_1_my_appear_7575f82b:
 
     # sy "Mmmm-mmmphhh!"
-    sy "Mmmm-mmmphhh!"
+    sy "嗯嗯-嗯呜！"
 

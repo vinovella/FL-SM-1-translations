@@ -938,7 +938,7 @@ translate chinese sm1cs_dc009_c49b1fb9:
 translate chinese sm1cs_dc009_a792ebb9:
 
     # "*BANG*"
-    "*BANG*"
+    "*砰*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:348
 translate chinese sm1cs_dc009_250425f4:
@@ -1304,19 +1304,19 @@ translate chinese sm1cs_dc009_5f06960e:
 translate chinese sm1cs_dc009_a792ebb9_1:
 
     # "*BANG*"
-    "*BANG*"
+    "*砰*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:513
 translate chinese sm1cs_dc009_a792ebb9_2:
 
     # "*BANG*"
-    "*BANG*"
+    "*砰*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:517
 translate chinese sm1cs_dc009_a792ebb9_3:
 
     # "*BANG*"
-    "*BANG*"
+    "*砰*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:520
 translate chinese sm1cs_dc009_14f93858:
@@ -1328,19 +1328,19 @@ translate chinese sm1cs_dc009_14f93858:
 translate chinese sm1cs_dc009_a792ebb9_4:
 
     # "*BANG*"
-    "*BANG*"
+    "*砰*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:538
 translate chinese sm1cs_dc009_a792ebb9_5:
 
     # "*BANG*"
-    "*BANG*"
+    "*砰*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:542
 translate chinese sm1cs_dc009_a792ebb9_6:
 
     # "*BANG*"
-    "*BANG*"
+    "*砰*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:546
 translate chinese sm1cs_dc009_3d57c23c:
@@ -1688,7 +1688,7 @@ translate chinese sm1cs_dc009_21183386:
 translate chinese sm1cs_dc009_6f1555e8:
 
     # doc "Hahahahahaha!"
-    doc "Hahahahahaha!"
+    doc "哈哈哈哈哈哈！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:559
 translate chinese sm1cs_dc009_8359aaa6:

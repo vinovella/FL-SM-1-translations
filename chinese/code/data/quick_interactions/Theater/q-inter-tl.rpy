@@ -578,7 +578,7 @@ translate chinese q_inter_tl_22_318299da:
 translate chinese q_inter_tl_23_7cadc6a5:
 
     # tl "Ooouh."
-    tl "Ooouh."
+    tl "噢~"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:312
 translate chinese q_inter_tl_23_3ee32121:

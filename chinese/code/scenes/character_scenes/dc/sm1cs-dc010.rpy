@@ -2234,7 +2234,7 @@ translate chinese sm1cs_dc010_end_6e031d5b:
 translate chinese sm1cs_dc010_end_813238be:
 
     # sy "Hehehehe."
-    sy "Hehehehe."
+    sy "嘿嘿嘿嘿。"
 
 translate chinese strings:
 
@@ -2328,7 +2328,7 @@ translate chinese sm1cs_dc010_later_937b5553:
 translate chinese sm1cs_dc010_later_731e535c:
 
     # doc "Hahahahaha!"
-    doc "Hahahahaha!"
+    doc "哈哈哈哈哈！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:217
 translate chinese sm1cs_dc010_later_b23ba0d2:
@@ -2364,7 +2364,7 @@ translate chinese sm1cs_dc010_later_738b9475:
 translate chinese sm1cs_dc010_later_731e535c_1:
 
     # doc "Hahahahaha!"
-    doc "Hahahahaha!"
+    doc "哈哈哈哈哈！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:241
 translate chinese sm1cs_dc010_later_1e1f5708:
@@ -2436,7 +2436,7 @@ translate chinese sm1cs_dc010_later_9de368a5:
 translate chinese sm1cs_dc010_later_0f8ee3ae:
 
     # dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
-    dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+    dc "啧啧啧！啧啧、啧啧啧！"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:658
 translate chinese sm1cs_dc010_dc_hj_0d04a1d3:

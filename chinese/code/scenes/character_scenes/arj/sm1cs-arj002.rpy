@@ -38,7 +38,7 @@ translate chinese sm1cs_arj002_018fecc5:
 translate chinese sm1cs_arj002_254336d8:
 
     # arj "Mmmm."
-    arj "Mmmm."
+    arj "嗯嗯~"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:33
 translate chinese sm1cs_arj002_1534437d:
@@ -686,7 +686,7 @@ translate chinese sm1cs_arj002_a477ae37:
 translate chinese sm1cs_arj002_254336d8_1:
 
     # arj "Mmmm."
-    arj "Mmmm."
+    arj "嗯嗯~"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:397
 translate chinese sm1cs_arj002_5db77737:
@@ -800,7 +800,7 @@ translate chinese sm1cs_arj002_5d86d391:
 translate chinese sm1cs_arj002_e079d727:
 
     # arj "Mmm."
-    arj "Mmm."
+    arj "嗯~"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:453
 translate chinese sm1cs_arj002_6b011f89:
