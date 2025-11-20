@@ -644,7 +644,7 @@ translate chinese q_inter_tl_25_2b35b6fe:
 translate chinese q_inter_tl_25_fca52711:
 
     # mc "No."
-    mc "No."
+    mc "不。"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:332
 translate chinese q_inter_tl_25_7c1576dc:

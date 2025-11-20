@@ -1634,7 +1634,7 @@ translate chinese sm1cs_my006_hotel_room_0ed82697:
 translate chinese sm1cs_my006_hotel_room_f49fff8f_1:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "嗯？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:665
 translate chinese sm1cs_my006_hotel_room_ee22b21d:
@@ -2060,7 +2060,7 @@ translate chinese sm1cs_my006_next_morning_a9449e93:
 translate chinese sm1cs_my006_next_morning_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "嗯？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:859
 translate chinese sm1cs_my006_next_morning_12add9ac:
