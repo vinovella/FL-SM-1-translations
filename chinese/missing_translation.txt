@@ -1,66 +1,109 @@
-chinese/code/scenes/character_scenes/arj/sm1cs-arj002.rpy [8 words]
+chinese/code/scenes/character_scenes/dc/sm1cs-dc009.rpy [198 words]
 
-1367: arj "*giggles*"
-1997: arj "*giggles*"
+941: "*BANG*"
+1307: "*BANG*"
+1313: "*BANG*"
+1319: "*BANG*"
+1331: "*BANG*"
+1337: "*BANG*"
+1343: "*BANG*"
+1607: mct "I can't help but think of a different wiener I'd love for her to be putting-"
+1613: mc "No, everything is great.{w} But, I do have a confession to make..."
+1619: dc "And I'd like to do that with you, [mcname]!"
+1625: dc "That is the most important rule about any and every gun."
+1631: dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
+1637: doc "Well hi there, little miss police officer!"
+1643: doc "Oh, that's not a surprise!"
+1649: doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
+1655: doc "What's you just call me?"
+1661: doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
+1667: doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
+1673: doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
+1679: doc "Ohhh, my tits, ohhhhh!"
+1685: doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
+1691: doc "Hahahahahaha!"
+1697: doc "Bullshit! No way!"
+1703: doc "Shit... three 9s..."
+1709: dc "I mean...{w} you want me as your girlfriend?"
 
-chinese/code/scenes/character_scenes/arj/sm1cs-arj003.rpy [15 words]
+chinese/code/scenes/character_scenes/dc/sm1cs-dc009i.rpy (Entire file untranslated) [108 words]
 
-1055: arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
+chinese/code/scenes/character_scenes/dc/sm1cs-dc010.rpy [194 words]
 
-chinese/code/scenes/character_scenes/bg/sm1cs-bg001.rpy [52 words]
+2253: dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+2259: jc "Well, what do we have here!"
+2265: doc "Oh, loitering? Maybe something a bit more nefarious?"
+2271: jc "\"Evening, officers\", pfft."
+2277: doc "Hmmm... let's see."
+2283: doc "Oh, that's right!"
+2289: doc "That's for using that bitch to embarrass us the other day!"
+2295: jc "Woah, man."
+2301: doc "What?"
+2307: jc "She's not entirely a bitch. Because, you now."
+2313: doc "Oh yeah."
+2319: doc "Because she has a dick!"
+2325: jc "Yeah! So, whatever she is! Fuck her!"
+2337: jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
+2343: jc "Shut up!"
+2349: jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+2355: doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+2361: jc "Oh, my balls are shaking! Hahahahaha!"
+2373: jc "Oh, fuck you!"
+2379: doc "What the fuck!?"
+2391: doc "My ass."
+2397: jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+2403: doc "Yeah. Get your ass kicked off the force."
+2409: jc "Errrgghhhh..."
+2415: doc "Mother fucker..."
+2421: jc "Come on."
+2427: jc "Fuck you."
+2433: dc "I have been looking forward to this for a while.{w} I'm very excited."
+2439: dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+2445: mc "Great enough that it deserves its own pleasure."
+2451: dc "Infinitely better than my fantasy."
+2457: dc "No, not really. Just some paperwork to do."
 
-1107: "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
-1113: bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
+chinese/code/scenes/character_scenes/dc/sm1cs-dc010i.rpy (Entire file untranslated) [91 words]
 
-chinese/code/scenes/character_scenes/bg/sm1cs-bg002.rpy [36 words]
+chinese/code/scenes/character_scenes/kv/sm1cs-kv003.rpy [23 words]
 
-1569: kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
-1575: kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
-1581: mc "I'm cummmming!"
+989: kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
+995: kv "I-I-I- think I'm going to cum!"
 
-chinese/code/scenes/character_scenes/bg/sm1cs-bg003.rpy [15 words]
+chinese/code/scenes/character_scenes/kv/sm1cs-kv004.rpy [50 words]
 
-1947: mc "Is it looking good?"
-1953: mc "Is it looking good?"
-1959: mc "As long as you're comfortable with this."
+1187: kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+1193: kv "Let's get rid of these pesky things..."
+1199: mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+1205: mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
 
-chinese/code/scenes/character_scenes/bg/sm1cs-bg004.rpy [10 words]
+chinese/code/scenes/character_scenes/mas/sm1cs-mas004i.rpy [15 words]
 
-1571: bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
+17: ms "Nelson wants to talk to us. Something about a doctor's appointment."
+23: mc "That sounds ominous."
+29: ms "*shrugs*"
 
-chinese/code/scenes/character_scenes/bg/sm1cs-bg005.rpy [1 words]
+chinese/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy [3 words]
 
-59: "*click*"
+1259: mc "*groaning* Fuck yes..."
 
-chinese/code/scenes/character_scenes/bg/sm1cs-bg005i.rpy (Entire file untranslated) [46 words]
+chinese/code/scenes/character_scenes/mes/sm1cs-mes-r1i.rpy [10 words]
 
-chinese/code/scenes/character_scenes/cs/sm1cs-cs001.rpy [10 words]
+5: mc "Hey Min ready for some fun?"
+11: mes "Hell yeah I am!"
 
-203: mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+chinese/code/scenes/character_scenes/mh/sm1cs-mh008.rpy [22 words]
 
-chinese/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy [35 words]
+2349: mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
 
-605: mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
-611: mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
+chinese/code/scenes/character_scenes/mh/sm1cs-mh009.rpy [30 words]
 
-chinese/code/scenes/character_scenes/dc/sm1cs-dc002.rpy [18 words]
+2427: mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
 
-527: mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+chinese/code/scenes/character_scenes/mh/sm1cs-mh010.rpy [15 words]
 
-chinese/code/scenes/character_scenes/dc/sm1cs-dc004.rpy [29 words]
+711: mh "Once or twice, but a girl likes to hear it every once in a while."
 
-83: mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+chinese/code/scenes/character_scenes/my/sm1cs-my003.rpy [24 words]
 
-chinese/code/scenes/character_scenes/dc/sm1cs-dc006.rpy [46 words]
-
-947: dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
-953: dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
-
-chinese/code/scenes/character_scenes/dc/sm1cs-dc007.rpy [31 words]
-
-801: dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
-807: dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
-
-chinese/code/scenes/character_scenes/dc/sm1cs-dc008.rpy [7 words]
-
-1037: dc "Thanks, [mcname]. I like your outfit too."
+1641: my "Yeah, i
