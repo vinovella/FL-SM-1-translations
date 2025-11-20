@@ -1706,7 +1706,7 @@ translate chinese sm1cs_my006_hotel_room_5e6635e9:
 translate chinese sm1cs_my006_hotel_room_11455b53_1:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:696
 translate chinese sm1cs_my006_hotel_room_0715cf3b:
@@ -2354,21 +2354,21 @@ translate chinese strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:776
     old "Next morning"
-    new "Next morning"
+    new "第二天早上"
 
     # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:905
     old "Back at the studio"
-    new "Back at the studio"
+    new "回到工作室"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:545
 translate chinese sm1cs_my006_hotel_room_edc09e20:
 
     # mct "Melony's ass is amazing... and her pussy, fucking wow."
-    mct "Melony's ass is amazing... and her pussy, fucking wow."
+    mct "梅洛妮的屁股真棒...还有她的小穴，我操，太美了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:811
 translate chinese sm1cs_my006_next_morning_02f10a8a:
 
     # my "It's fine, it's not like you have anyone who's going to miss you in bed."
-    my "It's fine, it's not like you have anyone who's going to miss you in bed."
+    my "没关系，反正也没有人会在床上想念你。"
 

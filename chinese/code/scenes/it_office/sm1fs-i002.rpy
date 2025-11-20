@@ -642,5 +642,5 @@ translate chinese strings:
 translate chinese sm1fs_i002_46800ea7:
 
     # mc "After I had it for a while I... Realized it could be made better."
-    mc "After I had it for a while I... Realized it could be made better."
+    mc "在我用了一段时间后，我...意识到它可以做得更好。"
 

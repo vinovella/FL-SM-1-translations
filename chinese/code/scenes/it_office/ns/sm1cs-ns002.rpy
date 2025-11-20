@@ -810,11 +810,11 @@ translate chinese strings:
 translate chinese sm1cs_ns002_bc4ba015:
 
     # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
-    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "我们先冷静一下。我会帮你度过这个难关的。我们都...在奇怪的地方有过冲动。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
 translate chinese sm1cs_ns002_94a1cd6a:
 
     # mct "No one is close. I hope."
-    mct "No one is close. I hope."
+    mct "没有人在附近。但愿如此。"
 

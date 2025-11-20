@@ -1354,5 +1354,5 @@ translate chinese strings:
 translate chinese sm1cs_ns009_f37a2921:
 
     # mc "And... I totally wasn't scared."
-    mc "And... I totally wasn't scared."
+    mc "而且...我完全没有害怕。"
 

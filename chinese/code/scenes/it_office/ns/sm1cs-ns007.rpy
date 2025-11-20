@@ -1974,47 +1974,47 @@ translate chinese sm1cs_ns007_walkaway_e0cd2531:
 translate chinese sm1cs_ns007_resturant_0eecd966:
 
     # ns "I disagree. I've told you many things I like."
-    ns "I disagree. I've told you many things I like."
+    ns "我不同意。我已经告诉过你很多我喜欢的事情。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:595
 translate chinese sm1cs_ns007_light_house_eb237d93:
 
     # ns "I feel... comfortable... with you."
-    ns "I feel... comfortable... with you."
+    ns "我感觉...舒服...和你在一起。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:694
 translate chinese sm1cs_ns007_light_house_0c97487e:
 
     # ns "*excited but stifled moaning*"
-    ns "*excited but stifled moaning*"
+    ns "*兴奋但克制的呻吟*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:806
 translate chinese sm1cs_ns007_light_house_5d826925:
 
     # ns "*moaning. I love... hearing that... ooouhah...*"
-    ns "*moaning. I love... hearing that... ooouhah...*"
+    ns "*呻吟着。我喜欢...听到那个...哦哦哈...*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:882
 translate chinese sm1cs_ns007_light_house_81160ea0:
 
     # ns "*whispers* It's just like the hentai."
-    ns "*whispers* It's just like the hentai."
+    ns "*低声说* 就像本子里一样。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:910
 translate chinese sm1cs_ns007_light_house_4e72d60e:
 
     # ns "Yes. Thank you, [mcname]."
-    ns "Yes. Thank you, [mcname]."
+    ns "是的。谢谢你，[mcname]。"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1001
 translate chinese sm1cs_ns007_walkaway_9dae56c9:
 
     # ns "Hmm... considering the food, conversation, company and the amount of times I came..."
-    ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+    ns "嗯...考虑到食物、谈话、陪伴和我高潮的次数..."
 
 translate chinese strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:439
     old "The people close to me are happy about it"
-    new "The people close to me are happy about it"
+    new "我身边的人对此感到高兴"
 
