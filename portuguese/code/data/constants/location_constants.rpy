@@ -50,179 +50,179 @@ translate portuguese strings:
 
     # game/code/data/constants/location_constants.rpy:5
     old "Overview"
-    new "Overview"
+    new "Visão Geral"
 
     # game/code/data/constants/location_constants.rpy:6
     old "Kitchen"
-    new "Kitchen"
+    new "Cozinha"
 
     # game/code/data/constants/location_constants.rpy:8
     old "Outside"
-    new "Outside"
+    new "Fachada"
 
     # game/code/data/constants/location_constants.rpy:9
     old "Bathroom"
-    new "Bathroom"
+    new "Banheiro"
 
     # game/code/data/constants/location_constants.rpy:10
     old "Entrance"
-    new "Entrance"
+    new "Entrada"
 
     # game/code/data/constants/location_constants.rpy:11
     old "Corridor"
-    new "Corridor"
+    new "Corredor"
 
     # game/code/data/constants/location_constants.rpy:12
     old "Couch Area"
-    new "Couch Area"
+    new "Área do Sofá"
 
     # game/code/data/constants/location_constants.rpy:13
     old "Counter"
-    new "Counter"
+    new "Balcão"
 
     # game/code/data/constants/location_constants.rpy:21
     old "Mattress Area"
-    new "Mattress Area"
+    new "Área do Colchão"
 
     # game/code/data/constants/location_constants.rpy:22
     old "Corner Couch"
-    new "Corner Couch"
+    new "Sofá de Canto"
 
     # game/code/data/constants/location_constants.rpy:24
     old "Bathroom Door"
-    new "Bathroom Door"
+    new "Porta do Banheiro"
 
     # game/code/data/constants/location_constants.rpy:26
     old "TV Area"
-    new "TV Area"
+    new "Área da TV"
 
     # game/code/data/constants/location_constants.rpy:28
     old "Stairs"
-    new "Stairs"
+    new "Escada"
 
     # game/code/data/constants/location_constants.rpy:36
     old "Upstairs Bed"
-    new "Upstairs Bed"
+    new "Cama de Cima"
 
     # game/code/data/constants/location_constants.rpy:41
     old "Nari's Room"
-    new "Nari's Room"
+    new "Quarto da Nari"
 
     # game/code/data/constants/location_constants.rpy:43
     old "Taisia's Room"
-    new "Taisia's Room"
+    new "Quarto da Taisia"
 
     # game/code/data/constants/location_constants.rpy:45
     old "Min's Room"
-    new "Min's Room"
+    new "Quarto da Min"
 
     # game/code/data/constants/location_constants.rpy:54
     old "Waiting Area"
-    new "Waiting Area"
+    new "Área de Espera"
 
     # game/code/data/constants/location_constants.rpy:68
     old "Claire's desk"
-    new "Claire's desk"
+    new "Mesa da Claire"
 
     # game/code/data/constants/location_constants.rpy:70
     old "Work Desks"
-    new "Work Desks"
+    new "Mesas de Trabalho"
 
     # game/code/data/constants/location_constants.rpy:72
     old "Your desk"
-    new "Your desk"
+    new "Sua Mesa"
 
     # game/code/data/constants/location_constants.rpy:74
     old "Beanbag Area"
-    new "Beanbag Area"
+    new "Área de Puff"
 
     # game/code/data/constants/location_constants.rpy:77
     old "Meeting room"
-    new "Meeting room"
+    new "Sala de Reuniões"
 
     # game/code/data/constants/location_constants.rpy:90
     old "Fountain Area"
-    new "Fountain Area"
+    new "Área do Chafariz"
 
     # game/code/data/constants/location_constants.rpy:92
     old "Hotdog stall"
-    new "Hotdog stall"
+    new "Barraca de Cahorro-Quente"
 
     # game/code/data/constants/location_constants.rpy:94
     old "Park Center"
-    new "Park Center"
+    new "Centro do Parque"
 
     # game/code/data/constants/location_constants.rpy:96
     old "Park Fork"
-    new "Park Fork"
+    new "Bifurcação do Parque"
 
     # game/code/data/constants/location_constants.rpy:98
     old "Toilets"
-    new "Toilets"
+    new "Banheiros"
 
     # game/code/data/constants/location_constants.rpy:100
     old "Park Exit"
-    new "Park Exit"
+    new "Saída do Parque"
 
     # game/code/data/constants/location_constants.rpy:107
     old "Fridges"
-    new "Fridges"
+    new "Geladeiras"
 
     # game/code/data/constants/location_constants.rpy:117
     old "Shooting Area"
-    new "Shooting Area"
+    new "Estande de Tiros"
 
     # game/code/data/constants/location_constants.rpy:134
     old "Corridor Entrance"
-    new "Corridor Entrance"
+    new "Entrada do Corredor"
 
     # game/code/data/constants/location_constants.rpy:139
     old "Backstage"
-    new "Backstage"
+    new "Bastidores"
 
     # game/code/data/constants/location_constants.rpy:143
     old "Stage Entrance"
-    new "Stage Entrance"
+    new "Entrada do Palco"
 
     # game/code/data/constants/location_constants.rpy:145
     old "Stage Front"
-    new "Stage Front"
+    new "Frente do Palco"
 
     # game/code/data/constants/location_constants.rpy:147
     old "Stage Seats"
-    new "Stage Seats"
+    new "Assentos do Palco"
 
     # game/code/data/constants/location_constants.rpy:149
     old "Dressing Room 1"
-    new "Dressing Room 1"
+    new "Camarim 1"
 
     # game/code/data/constants/location_constants.rpy:151
     old "Dressing Room 2"
-    new "Dressing Room 2"
+    new "Camarim 2"
 
     # game/code/data/constants/location_constants.rpy:153
     old "Director's Office"
-    new "Director's Office"
+    new "Escritório da Diretora"
 
     # game/code/data/constants/location_constants.rpy:155
     old "Storage Entrance"
-    new "Storage Entrance"
+    new "Área de Depósito"
 
     # game/code/data/constants/location_constants.rpy:161
     old "Showers Entrance"
-    new "Showers Entrance"
+    new "Entrada das Duchas"
 
     # game/code/data/constants/location_constants.rpy:165
     old "Locker Room"
-    new "Locker Room"
+    new "Vestiário"
 
     # game/code/data/constants/location_constants.rpy:173
     old "Seating Area"
-    new "Seating Area"
+    new "Área de Assentos"
 
     # game/code/data/constants/location_constants.rpy:176
     old "Toilet"
-    new "Toilet"
+    new "Banheiro"
 
     # game/code/data/constants/location_constants.rpy:188
     old "Guns n' Rosette"
@@ -230,7 +230,7 @@ translate portuguese strings:
 
     # game/code/data/constants/location_constants.rpy:192
     old "Billiard Area"
-    new "Billiard Area"
+    new "Área de Sinuca"
 
     # game/code/data/constants/location_constants.rpy:195
     old "Bar"
@@ -238,15 +238,15 @@ translate portuguese strings:
 
     # game/code/data/constants/location_constants.rpy:197
     old "Stage Area"
-    new "Stage Area"
+    new "Área do Palco"
 
 translate portuguese strings:
 
     # game/code/data/constants/location_constants.rpy:155
     old "Storage Room"
-    new "Storage Room"
+    new "Depósito"
 
     # game/code/data/constants/location_constants.rpy:161
     old "Showers"
-    new "Showers"
+    new "Duchas"
 
