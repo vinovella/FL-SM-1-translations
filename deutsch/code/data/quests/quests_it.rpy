@@ -126,7 +126,7 @@ translate deutsch strings:
 
     # game/code/data/quests/quests_it.rpy:3
     old "Go to the IT job interview"
-    new "Zum IT-Vorstellungsgespräch gehen"
+    new "Zum IT-Vorstellungs-gespräch gehen"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Enter Orbix for the interview"
@@ -275,4 +275,3 @@ translate deutsch strings:
     # game/code/data/quests/quests_it.rpy:3
     old "Work the IT job [var]/35 times"
     new "IT-Job [var]/35 Mal ausüben"
-

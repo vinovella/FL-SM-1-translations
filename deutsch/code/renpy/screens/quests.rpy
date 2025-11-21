@@ -2,7 +2,7 @@
 
     # game/code/renpy/screens/quests.rpy:11
     old "STORYLINES"
-    new "HANDLUNGSSTRÄNGE"
+    new "STORYLINES"
 
     # game/code/renpy/screens/quests.rpy:12
     old "QUESTS"
@@ -23,4 +23,3 @@
     # game/code/renpy/screens/quests.rpy:76
     old "Go to character page"
     new "Zur Charakter Seite gehen"
-

@@ -203,7 +203,7 @@ translate portuguese sm1cs_tl008_sex_98c8ec2d:
     tl "Aham, é bom mesmo, porra."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:188
-translate portuguese sm1cs-tl008_sex_e143444d:
+translate portuguese sm1cs_tl008_sex_e143444d:
 
     # tl "But this promises to be just as fun for me."
     tl "Mas isso promete ser tão divertido pra mim quanto pra você."

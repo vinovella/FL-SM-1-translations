@@ -6,7 +6,7 @@
 
     # game/code/renpy/screens/game_menus.rpy:151
     old "History"
-    new "Geschichte"
+    new "Historie"
 
     # game/code/renpy/screens/game_menus.rpy:154
     old "Save"
@@ -14,7 +14,7 @@
 
     # game/code/renpy/screens/game_menus.rpy:160
     old "Open phone"
-    new "Telefon öffnen"
+    new "Handy öffnen"
 
 translate deutsch strings:
 
@@ -36,13 +36,12 @@ translate deutsch strings:
 
     # game/code/renpy/screens/game_menus.rpy:165
     old "Q.SAVE"
-    new "SCHNELLSPEICHERN"
+    new "S. SPEICHERN"
 
     # game/code/renpy/screens/game_menus.rpy:167
     old "Q.LOAD"
-    new "SCHNELLLADEN"
+    new "S. LADEN"
 
     # game/code/renpy/screens/game_menus.rpy:169
     old "SETTINGS"
     new "EINSTELLUNGEN"
-

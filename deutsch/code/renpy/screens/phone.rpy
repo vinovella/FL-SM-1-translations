@@ -14,11 +14,11 @@
 
     # game/code/renpy/screens/phone.rpy:69
     old "Quick Save"
-    new "Schnellspeichern"
+    new "S.Speichern"
 
     # game/code/renpy/screens/phone.rpy:72
     old "Quick Load"
-    new "Schnellladen"
+    new "S.Laden"
 
     # game/code/renpy/screens/phone.rpy:81
     old "Load"
@@ -26,7 +26,7 @@
 
     # game/code/renpy/screens/phone.rpy:84
     old "Settings"
-    new "Einstellungen"
+    new "Einst."
 
 translate deutsch strings:
 
@@ -49,4 +49,3 @@ translate deutsch strings:
     # game/code/renpy/screens/phone.rpy:77
     old "Save for Season 2"
     new "Für Season 2 speichern"
-
