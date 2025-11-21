@@ -1,48 +1,48 @@
-﻿translate portuguese strings:
+translate portuguese strings:
 
     # game/code/renpy/screens/save.rpy:12
     old "Save for S&M Studio Chapter 2"
-    new "Save for S&M Studio Chapter 2"
+    new "Save para o S&M Studio Capítulo 2"
 
     # game/code/renpy/screens/save.rpy:81
     old "No saves found!"
-    new "No saves found!"
+    new "Nenhum save encontrado!"
 
     # game/code/renpy/screens/save.rpy:51
     old "Saves For Chapter [chapter]"
-    new "Saves For Chapter [chapter]"
+    new "Saves Para Capítulo [chapter]"
 
     # game/code/renpy/screens/save.rpy:51
     old "Saves From Chapter [chapter]"
-    new "Saves From Chapter [chapter]"
+    new "Saves Do Capítulo [chapter]"
 
     # game/code/renpy/screens/save.rpy:20
     old "Congratulations! You completed all storylines!"
-    new "Congratulations! You completed all storylines!"
+    new "Parabéns! Você completou todas as histórias!"
 
     # game/code/renpy/screens/save.rpy:22
     old "Here is your progress so far!"
-    new "Here is your progress so far!"
+    new "Aqui vai o seu progresso até então!"
 
     # game/code/renpy/screens/save.rpy:24
     old "Congratulations! You completed the main story!"
-    new "Congratulations! You completed the main story!"
+    new "Parabéns! Você completou a história principal!"
 
     # game/code/renpy/screens/save.rpy:122
     old "Save your progress for S&M Studio Season 2!"
-    new "Save your progress for S&M Studio Season 2!"
+    new "Salve seu progresso para S&M Studio Segunda Temporada!"
 
     # game/code/renpy/screens/save.rpy:131
     old "Skip"
-    new "Skip"
+    new "Pular"
 
     # game/code/renpy/screens/save.rpy:184
     old "Saves For Season [season]"
-    new "Saves For Season [season]"
+    new "Saves Para Temmporada [season]"
 
     # game/code/renpy/screens/save.rpy:184
     old "Saves From Season [season]"
-    new "Saves From Season [season]"
+    new "Saves Da Temporada [season]"
 
     # game/code/renpy/screens/save.rpy:113
     old "You completed 100% of the game!"
