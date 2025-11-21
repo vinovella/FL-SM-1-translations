@@ -1,56 +1,56 @@
-﻿translate portuguese strings:
+translate portuguese strings:
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Interact"
-    new "Interact"
+    new "Interagir"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Photography-101"
-    new "Read Photography-101"
+    new "Ler Introdução à Fotografia"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read An Actor Prepares"
-    new "Read An Actor Prepares"
+    new "Ler Um Ator Se Prepara"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Stars Weekly"
-    new "Read Stars Weekly"
+    new "Ler Estrelas Da Semana"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Buy Energy Drink - $25"
-    new "Buy Energy Drink - $25"
+    new "Comprar Energético - $25"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Fashion Magazine"
-    new "Read Fashion Magazine"
+    new "Ler Revista de Moda"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Tech Magazine"
-    new "Read Tech Magazine"
+    new "Ler Revista de Tecnologia"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Animal Magazine"
-    new "Read Animal Magazine"
+    new "Ler Revista de Animais"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Start working"
-    new "Start working"
+    new "Começar a trabalhar"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Take panties"
-    new "Take panties"
+    new "Pegar calcinha"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Pee in the toilet"
-    new "Pee in the toilet"
+    new "Urinar no vaso"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Take a shower"
-    new "Take a shower"
+    new "Tomar banho"
 
 translate portuguese strings:
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Check Laptop"
-    new "Check Laptop"
+    new "Checar NoteBook"
 
