@@ -1566,17 +1566,17 @@ translate portuguese strings:
 translate portuguese sm1cs_bg002_white_screen_12b3e2b8:
 
     # kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
-    kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
+    kv "Vocês dois formam um belo par, sabia? Pode ser um pouco turbulento, mas vocês têm uma química de câmera excelente."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:382
 translate portuguese sm1cs_bg002_white_screen_cf9bf6a9:
 
     # kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
-    kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
+    kv "De repente pintou alguma ideia aí nessa sua cabeça, [mcname]?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:667
 translate portuguese sm1cs_bg002_continue_shoot_75643fbc:
 
     # mc "I'm cummmming!"
-    mc "I'm cummmming!"
+    mc "Tô gozaaando!"
 

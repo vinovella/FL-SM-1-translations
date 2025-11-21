@@ -878,11 +878,11 @@ translate portuguese sm1ms016_7c52fcb9:
 translate portuguese sm1ms016_1cdacc1d:
 
     # mc "Bye Mom."
-    mc "Bye Mom."
+    mc "Tchau, Mãe."
 
 # game/code/scenes/main_story/sm1ms016.rpy:415
 translate portuguese sm1ms016_f63e17b6:
 
     # sy "Bye Mom."
-    sy "Bye Mom."
+    sy "Tchau, Mãe."
 

@@ -806,17 +806,17 @@ translate portuguese strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:139
     old "I don't need to know"
-    new "I don't need to know"
+    new "Eu não preciso saber"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
 translate portuguese sm1cs_ns002_bc4ba015:
 
     # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
-    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Calma um pouco. Eu vou te ajudar com isso. Todo mundo já... teve vontades em lugares estranhos."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
 translate portuguese sm1cs_ns002_94a1cd6a:
 
     # mct "No one is close. I hope."
-    mct "No one is close. I hope."
+    mct "Não tem ninguém perto. Espero."
 

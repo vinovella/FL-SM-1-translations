@@ -466,5 +466,5 @@ translate portuguese strings:
 translate portuguese sm1cs_km002_complement_km_5e3be15b:
 
     # km "[mcname], are you still interested in learning to be a better actor?"
-    km "[mcname], are you still interested in learning to be a better actor?"
+    km "[mcname], ainda interessado em aprender a ser um ator melhor?"
 

@@ -584,17 +584,17 @@ translate portuguese sm1ms004_fcf11b81:
 translate portuguese sm1ms004_6ca11396:
 
     # arj "Never mind. It doesn't matter."
-    arj "Never mind. It doesn't matter."
+    arj "Deixa. Não importa."
 
 # game/code/scenes/main_story/sm1ms004.rpy:171
 translate portuguese sm1ms004_b80a46ec:
 
     # mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-    mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+    mc "Acho que você vai querer dar uma aliviada se for contar pra Stacy. Ela tá bem otimista com tudo, não quero que perca isso."
 
 # game/code/scenes/main_story/sm1ms004.rpy:266
 translate portuguese sm1ms004_738d94cc:
 
     # mct "Maybe this isn't completely fucked after all."
-    mct "Maybe this isn't completely fucked after all."
+    mct "Talvez essa situação ainda não esteja completamente sem esperança."
 

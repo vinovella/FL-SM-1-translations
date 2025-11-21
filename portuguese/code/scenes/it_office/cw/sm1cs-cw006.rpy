@@ -1766,41 +1766,41 @@ translate portuguese strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:476
     old "Your lips?"
-    new "Your lips?"
+    new "Seus lábios?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:238
 translate portuguese sm1cs_cw006_8854937c:
 
     # cw "If I didn't need your help in the first place..."
-    cw "If I didn't need your help in the first place..."
+    cw "Se eu não precisasse da sua ajuda para início de conversa..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:253
 translate portuguese sm1cs_cw006_8fc13b58:
 
     # mc "I can only control my body so much, Claire."
-    mc "I can only control my body so much, Claire."
+    mc "Eu só consigo controlar meu corpo até certo ponto, Claire."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:353
 translate portuguese cw006_choice1_b19ad390:
 
     # mc "Of course, Ms. Watts."
-    mc "Of course, Ms. Watts."
+    mc "Claro, Sra. Watts."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:400
 translate portuguese sm1cs_cw006_onramp_1a_e8dd973e:
 
     # cw "I think a little further analysis would be good.{w} Necessary even."
-    cw "I think a little further analysis would be good.{w} Necessary even."
+    cw "Acho que uma análise mais a fundo seria boa.{w} Na verdade, necessária."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:421
 translate portuguese sm1cs_cw006_onramp_1a_141a8791:
 
     # cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
-    cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
+    cw "E ao me ajudar, quero dizer que eu precisaria da sua ajuda com atividades vagamente parecidas com as que nós {i}completamos{/i} no iate."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:860
 translate portuguese sm1cs_cw006_onramp_2_d125b649:
 
     # mc "I wanted to talk to you about that special assignment you mentioned?"
-    mc "I wanted to talk to you about that special assignment you mentioned?"
+    mc "Eu queria falar com você sobre aquela tarefa especial que você mencionou?"
 

@@ -1186,17 +1186,17 @@ translate portuguese strings:
 
     # game/code/scenes/main_story/sm1ms010.rpy:106
     old "Yeah, me too"
-    new "Yeah, me too"
+    new "É, eu também"
 
     # game/code/scenes/main_story/sm1ms010.rpy:189
     old "She's doing fine"
-    new "She's doing fine"
+    new "Ela está bem"
 
     # game/code/scenes/main_story/sm1ms010.rpy:338
     old "Kiss her again and continue"
-    new "Kiss her again and continue"
+    new "Beijar novamente e continuar"
 
     # game/code/scenes/main_story/sm1ms010.rpy:338
     old "Stop things from going further"
-    new "Stop things from going further"
+    new "Impedir que isso continue"
 

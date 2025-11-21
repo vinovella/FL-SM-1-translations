@@ -22,7 +22,7 @@ translate deutsch strings:
 
     # game/code/renpy/screens/save.rpy:20
     old "Congratulations! You completed all storylines!"
-    new "Herzlichen Glückwunsch! Du hast alle Handlungsstränge abgeschlossen!"
+    new "Glückwunsch! Du hast alle Handlungsstränge abgeschlossen!"
 
     # game/code/renpy/screens/save.rpy:22
     old "Here is your progress so far!"
@@ -30,7 +30,7 @@ translate deutsch strings:
 
     # game/code/renpy/screens/save.rpy:24
     old "Congratulations! You completed the main story!"
-    new "Herzlichen Glückwunsch! Du hast die hauptgeschichte abgeschlossen!"
+    new "Glückwunsch! Du hast die Hauptgeschichte abgeschlossen!"
 
     # game/code/renpy/screens/save.rpy:122
     old "Save your progress for S&M Studio Season 2!"
@@ -47,4 +47,3 @@ translate deutsch strings:
     # game/code/renpy/screens/save.rpy:184
     old "Saves From Season [season]"
     new "Speicherstände von Season [season]"
-

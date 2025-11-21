@@ -744,143 +744,143 @@ translate portuguese strings:
 translate portuguese sm1cs_am003_71f06d2b:
 
     # mc "Hey, April."
-    mc "Hey, April."
+    mc "E aí, April."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:42
 translate portuguese sm1cs_am003_9f59f0f4:
 
     # am "Humans. We have created all this technology.{w} It can do incredible things."
-    am "Humans. We have created all this technology.{w} It can do incredible things."
+    am "Humanos. A gente criou toda essa tecnologia.{w} Ela faz coisas incríveis."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:99
 translate portuguese sm1cs_am003_1fd7d62e:
 
     # am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
-    am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
+    am "Hmmph.{w} Parece que você desperdiçou a tarde. Tô bem."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:111
 translate portuguese sm1cs_am003_bcf016f9:
 
     # am "It's bullying to say someone {b}sucks{/b} at their job?"
-    am "It's bullying to say someone {b}sucks{/b} at their job?"
+    am "É bullying dizer que alguém {b}é péssimo{/b} no que faz?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:120
 translate portuguese sm1cs_am003_aee5974a:
 
     # mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
-    mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+    mct "Essa garota...{w} Como a Anna disse. Se ela não fosse tão boa, já tinham chutado ela da Orbix."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:127
 translate portuguese sm1cs_am003_b4faa8fc:
 
     # mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
-    mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
+    mc "Você tava certa. Não vim ver como você tá.{w} Preciso de ajuda com um problema do trabalho e é aqui que você tá agora. Simples assim."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:134
 translate portuguese sm1cs_am003_ae4dcaad:
 
     # am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
-    am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
+    am "Depois daquela sessão de trabalho, eu... achei que você ia desistir ou fazer só o mínimo nas tarefas."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:135
 translate portuguese sm1cs_am003_67284458:
 
     # am "But here you are..."
-    am "But here you are..."
+    am "Mas aqui está você..."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:144
 translate portuguese sm1cs_am003_8a8d91f6:
 
     # mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
-    mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
+    mc "Tava. Eu posso ser um desastre, mas também posso ralar muito pra conseguir o que quero.{w} Às vezes eu tropeço, mas não fico caído por muito tempo."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:145
 translate portuguese sm1cs_am003_b4235cd6:
 
     # mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
-    mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
+    mc "Nunca estudei TI na faculdade, mas sempre aprendi rápido.{w} Me ensina, tô pronto pra aprender com você, April."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:155
 translate portuguese sm1cs_am003_e9ac1b53:
 
     # am "Against my better judgment, I'll try to give you some pointers here and there."
-    am "Against my better judgment, I'll try to give you some pointers here and there."
+    am "Contra meu bom senso, eu vou tentar te dar umas dicas."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:176
 translate portuguese sm1cs_am003_d5d84aa0:
 
     # am "I am not your teacher, [mcname]. That's not my job."
-    am "I am not your teacher, [mcname]. That's not my job."
+    am "Não sou sua professora, [mcname]. Não é meu trabalho."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:186
 translate portuguese sm1cs_am003_d6fb5843:
 
     # am "Okay.{w} Show me what problems you're having with the website."
-    am "Okay.{w} Show me what problems you're having with the website."
+    am "Tá.{w} Me mostra quais problemas você tem com o site."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:290
 translate portuguese sm1cs_am003_ef447ff8:
 
     # mc "One dark roast coffee for the girl who roasts me every day."
-    mc "One dark roast coffee for the girl who roasts me every day."
+    mc "Um café torrado escuro pra garota que me torra todo dia."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:303
 translate portuguese sm1cs_am003_97c62095:
 
     # mct "Ah. That hit the spot."
-    mct "Ah. That hit the spot."
+    mct "Ah. Era disso que eu precisava."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:365
 translate portuguese sm1cs_am003_9403deba:
 
     # am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
-    am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
+    am "Sim. Tem muita coisa rolando. Decisões que eu... que a gente precisa tomar.{w} Decisões difíceis."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:382
 translate portuguese sm1cs_am003_2aa81bf8:
 
     # mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
-    mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
+    mc "Acho que a gente confundiu os sinais.{w} Se eu quisesse te chamar pra sair, eu chamava."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:385
 translate portuguese sm1cs_am003_1168ac9b:
 
     # am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
-    am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
+    am "Total.{w} E você não me chamaria pra sair porque sabe que tô fora do seu alcance."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:407
 translate portuguese sm1cs_am003_d5031920:
 
     # am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
-    am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
+    am "Trabalhei com muito babaca, e achei que você ia ser igual.{w} Mas você não fica só parado. Você—"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:410
 translate portuguese sm1cs_am003_80afa197:
 
     # mc "Trying to not {b}suck{/b} all the time?"
-    mc "Trying to not {b}suck{/b} all the time?"
+    mc "Tentando não {b}ser um lixo{/b} o tempo todo?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:436
 translate portuguese sm1cs_am003_5bb6b0ec:
 
     # mc "So I'm an elite-code-monkey now, right?"
-    mc "So I'm an elite-code-monkey now, right?"
+    mc "Então eu sou programador de elite agora, né?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:439
 translate portuguese sm1cs_am003_d906822a:
 
     # am "Oh yeah... A future Wozniak."
-    am "Oh yeah... A future Wozniak."
+    am "Ah, claro... Um futuro Wozniak."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:484
 translate portuguese sm1cs_am003_45ccaa21:
 
     # am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
-    am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
+    am "Massa.{w} É uma banda de rock pagão, então se prepara. Você pode me ver... meio doida.{w} E talvez eu esteja com pintura de guerra no rosto."
 
 translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am003.rpy:77
     old "I had to come here for work"
-    new "I had to come here for work"
+    new "Eu tive que vir aqui por causa do trabalho"
 

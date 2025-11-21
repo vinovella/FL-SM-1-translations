@@ -524,5 +524,5 @@ translate portuguese strings:
 translate portuguese sm1cs_dc002_9cef6b0f:
 
     # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
-    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+    mct "Tô falhando na Regra Número Um agora: cardio! Deus, talvez a gente devesse comprar uma esteira pro estúdio..."
 

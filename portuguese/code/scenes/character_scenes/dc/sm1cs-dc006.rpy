@@ -946,11 +946,11 @@ translate portuguese sm1cs_dc006_at_park_fb7dfd2e:
 translate portuguese sm1cs_dc006_993ec2ac:
 
     # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+    dc "Eu estaria mentindo se dissesse que não estou um pouco interessada no que aconteceu. Se os policiais não querem falar sobre isso... deve ser algo bem interessante."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
 translate portuguese sm1cs_dc006_a541102c:
 
     # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
-    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
+    dc "Eles são bem bons. É espresso com leite e uma mistura de chocolate. Digo, o seu é com mistura de chocolate branco, e..."
 

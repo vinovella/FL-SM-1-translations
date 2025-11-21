@@ -506,91 +506,91 @@ translate portuguese strings:
 translate portuguese sm1cs_am002_e86d99ac:
 
     # mc "Uh... Earth to April."
-    mc "Uh... Earth to April."
+    mc "Ahm... Terra pra April."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:78
 translate portuguese sm1cs_am002_39bb3e71:
 
     # mc "Totally fine.{w} Gave my heart a workout."
-    mc "Totally fine.{w} Gave my heart a workout."
+    mc "De boa.{w} Meu coração deu uns pulos."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:81
 translate portuguese sm1cs_am002_9222011b:
 
     # ag "Did she say anything?{w} Did you hear her talking on her phone?"
-    ag "Did she say anything?{w} Did you hear her talking on her phone?"
+    ag "Ela disse alguma coisa?{w} Você ouviu ela falando no telefone?"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:96
 translate portuguese sm1cs_am002_72c66862:
 
     # ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
-    ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
+    ag "Ah, não. Só, ahm...{w} Quero garantir que a April não esteja escondida no banheiro fazendo ligação pessoal no horário da empresa."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:99
 translate portuguese sm1cs_am002_d06f9e7a:
 
     # mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
-    mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
+    mc "Tá... Talvez ela tava recebendo mensagens?{w} Parecia bem vidrada no celular."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:106
 translate portuguese sm1cs_am002_e2dd0671:
 
     # mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
-    mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
+    mc "Ah, bem tranquilo. E depois de várias tentativas, acho que descobri o melhor jeito de pedir ajuda sem ela gritar comigo."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:167
 translate portuguese sm1cs_am002_9bab7d01:
 
     # ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
-    ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
+    ag "Amanhã?{w} Não. Era pra você ter feito essas mudanças no middleware hoje."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:185
 translate portuguese sm1cs_am002_38cb486e:
 
     # am "Look, it's like I said earlier.{w} It will be ready tomorrow."
-    am "Look, it's like I said earlier.{w} It will be ready tomorrow."
+    am "Olha, é como eu falei antes.{w} Vai ficar pronto amanhã."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:189
 translate portuguese sm1cs_am002_f059d2ec:
 
     # ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
-    ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
+    ag "*suspiro* April, só fala comigo.{w} Você não é assim. Quero dizer, é , mas... mesmo com suas farpas e insultos, você nunca fica tão atrasada assim."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:201
 translate portuguese sm1cs_am002_371de864:
 
     # am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
-    am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
+    am "Você sabe como middleware é temperamental.{w} E toda essa tagarelice sua me tira do foco e me atrasa mais ainda."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:311
 translate portuguese sm1cs_am002_cb355b8b:
 
     # ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
-    ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
+    ag "Hahaha, jamais.{w} Ela disse que era o jeito mais rápido de chamar a atenção dele e não achou que ia fazer ele desmaiar."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:312
 translate portuguese sm1cs_am002_a8caa986:
 
     # ag "That was quite the day..."
-    ag "That was quite the day..."
+    ag "Aquele dia foi intenso..."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:323
 translate portuguese sm1cs_am002_cff053f3:
 
     # ag "Thanks, [mcname]."
-    ag "Thanks, [mcname]."
+    ag "Obrigada, [mcname]."
 
 translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
     old "You should watch where you're going"
-    new "You should watch where you're going"
+    new "Você devia prestar atenção por onde anda"
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
     old "She's a fucking menace"
-    new "She's a fucking menace"
+    new "Ela é um perigo do caralho"
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
     old "She seems stressed"
-    new "She seems stressed"
+    new "Ela parece estressada"
 

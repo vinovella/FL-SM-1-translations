@@ -182,7 +182,7 @@ translate italian sm1cs_dc003_592bd442:
 translate italian sm1cs_dc003_a1a351d1:
 
     # mc "Partner."
-    mc "Partner."
+    mc "Compagna."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:120
 translate italian sm1cs_dc003_62520e0a:

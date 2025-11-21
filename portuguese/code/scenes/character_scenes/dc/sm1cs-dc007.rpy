@@ -798,11 +798,11 @@ translate portuguese strings:
 translate portuguese sm1cs_dc007_continue_2557068b:
 
     # dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
-    dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+    dc "Bom, você sabe, eu fico curiosa... o que você faz da vida que te dá tanto tempo livre pra atrapalhar meus suspeitos?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
 translate portuguese sm1cs_dc007_continue_6a0c526c:
 
     # dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
-    dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
+    dc "Mmmmm, talvez quando a sua jogada não for \"Bloqueio Humano\"."
 

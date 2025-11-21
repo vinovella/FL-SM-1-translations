@@ -698,49 +698,49 @@ translate portuguese strings:
 translate portuguese sm1fs_i004_bfc49473:
 
     # am "Sorry, {i}Aubergine Anna{/i}."
-    am "Sorry, {i}Aubergine Anna{/i}."
+    am "Foi mal, {i}Aubergine Anna{/i}."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:124
 translate portuguese sm1fs_i004_e997d712:
 
     # ns "Yes, Aubergine Anna?"
-    ns "Yes, Aubergine Anna?"
+    ns "Sim, Aubergine Anna?"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:160
 translate portuguese sm1fs_i004_037241da:
 
     # cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a news website."
-    cw "We've had our teams here at Orbix do a market analysis. They came up with some solutions for a news website."
+    cw "Nossas equipes aqui na Orbix fizeram uma análise de mercado. Elas criaram algumas soluções para um site de notícias."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:196
 translate portuguese sm1fs_i004_d0ed86ec:
 
     # cw "Of course. We're excited to be in business with you, Angela. As soon as we have a progress update, I'll get in touch."
-    cw "Of course. We're excited to be in business with you, Angela. As soon as we have a progress update, I'll get in touch."
+    cw "Claro. Estamos animados por trabalhar com você, Angela. Assim que tivermos novidades do progresso, eu entro em contato."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:298
 translate portuguese sm1fs_i004_e556069d:
 
     # cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're asleep."
-    cw "That's why you've got four weeks instead of three. Guess you'll just have to do it while you're asleep."
+    cw "Por isso você tem quatro semanas em vez de três. Acho que vai ter que fazer isso até dormindo."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:356
 translate portuguese sm1fs_i004_058155eb:
 
     # am "You are... You're..."
-    am "You are... You're..."
+    am "Você é... Você tá..."
 
 translate portuguese strings:
 
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "I do, I love Kikini Bill"
-    new "I do, I love Kikini Bill"
+    new "Sim, eu adoro Kikini Bill"
 
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "Uh, yep! Totally"
-    new "Uh, yep! Totally"
+    new "Ah, sim! Totalmente"
 
     # game/code/scenes/it_office/sm1fs-i004.rpy:390
     old "I don't mind some... Punk rock"
-    new "I don't mind some... Punk rock"
+    new "Eu curto um pouco de... punk rock"
 

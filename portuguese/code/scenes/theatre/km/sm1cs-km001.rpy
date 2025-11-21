@@ -526,27 +526,27 @@ translate portuguese strings:
 translate portuguese sm1cs_km001_b55f6d50:
 
     # mct "Why is she snooping?"
-    mct "Why is she snooping?"
+    mct "Por que ela está espiando?"
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:116
 translate portuguese sm1cs_km001_7262d936:
 
     # km "Unless you're afraid to lose to a girl."
-    km "Unless you're afraid to lose to a girl."
+    km "A não ser que esteja com medo de perder pra uma garota."
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:240
 translate portuguese sm1cs_km001_7ca99b3a:
 
     # km "Hmmm. Not bad for an amateur."
-    km "Hmmm. Not bad for an amateur."
+    km "Hmmm. Nada mal pra amador."
 
 translate portuguese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
     old "I'll go easy on you"
-    new "I'll go easy on you"
+    new "Vou pegar leve com você"
 
     # game/code/scenes/theatre/km/sm1cs-km001.rpy:118
     old "Let's dance, Kellie"
-    new "Let's dance, Kellie"
+    new "Vamos dançar, Kellie"
 

@@ -296,11 +296,11 @@ translate portuguese sm1ms011_02i_e0d93906:
 translate portuguese sm1ms011_02i_135ba797:
 
     # mc "Hahah. We'll see."
-    mc "Hahah. We'll see."
+    mc "Hahah. Veremos."
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:112
 translate portuguese sm1ms011_02i_d8e756d5:
 
     # sy "But I'm sure if you want to get one of these actresses to join us, you'll have to get on stage yourself."
-    sy "But I'm sure if you want to get one of these actresses to join us, you'll have to get on stage yourself."
+    sy "Mas acho que pra gente conseguir uma dessas atrizes, você vai ter que subir no palco."
 

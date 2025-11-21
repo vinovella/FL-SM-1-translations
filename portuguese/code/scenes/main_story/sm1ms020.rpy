@@ -1300,11 +1300,11 @@ translate portuguese strings:
 translate portuguese sm1ms020_fd52713d:
 
     # mc "Well... why did you used to live in Crowning?"
-    mc "Well... why did you used to live in Crowning?"
+    mc "Bom... por que você morava em Crowning?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:175
 translate portuguese sm1ms020_0046f9d0:
 
     # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
-    my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+    my "Eu cuido das conexões entre investidores e a galeria, procuro talento para novos artistas para mostrar..."
 

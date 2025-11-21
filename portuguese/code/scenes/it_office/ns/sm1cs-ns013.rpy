@@ -2408,29 +2408,29 @@ translate portuguese strings:
 translate portuguese ns013_labels_section_0887f6cc:
 
     # ns "I am a very bad [nspetlabel]."
-    ns "I am a very bad [nspetlabel]."
+    ns "Eu sou uma [nspetlabel] muito levada."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:569
 translate portuguese ns013_labels_section_3688c4d9:
 
     # ns "A little. I'm actually still-"
-    ns "A little. I'm actually still-"
+    ns "Um pouco. Ainda estou-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:627
 translate portuguese ns013_labels_section_713f1049:
 
     # ns "You're always so kind to me, [nsmcpetlabel]."
-    ns "You're always so kind to me, [nsmcpetlabel]."
+    ns "Você é sempre tão legal comigo, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:651
 translate portuguese ns013_labels_section_791ab451:
 
     # mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
-    mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+    mc "Adoro como a sua boceta me aperta. Que [nspetlabel] boa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:662
 translate portuguese ns013_labels_section_ab353c83:
 
     # ns "I can go... Mrrmmm... at just the right speed."
-    ns "I can go... Mrrmmm... at just the right speed."
+    ns "Eu consigo... Mrrmmm... ir na velocidade certa."
 

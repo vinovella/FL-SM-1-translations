@@ -200,5 +200,5 @@ translate portuguese sm1cs_cs001_24cdc073:
 translate portuguese sm1cs_cs001_0b11eff4:
 
     # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
-    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+    mc "Tá, tá. Vou querer um café torrado escuro e um..."
 

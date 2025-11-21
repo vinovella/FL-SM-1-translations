@@ -624,23 +624,23 @@ translate portuguese strings:
 translate portuguese sm1fs_i002_bf4b8ddd:
 
     # cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
-    cw "It's fine, let's just try to keep it... Less personal than that. Continue on."
+    cw "Tudo bem, vamos só tentar manter isso... menos pessoal. Pode continuar."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:280
 translate portuguese sm1fs_i002_59b9bf49:
 
     # cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
-    cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
+    cw "Depois que eu tomar minha decisão, [gt.next_day_name!t] até as 8:00 da manhã eu te ligo."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:287
 translate portuguese sm1fs_i002_334c54a0:
 
     # mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
-    mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
+    mc "Vou ficar no aguardo da sua ligação [gt.next_day_name!t] às 8:00 da manhã!"
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:205
 translate portuguese sm1fs_i002_46800ea7:
 
     # mc "After I had it for a while I... Realized it could be made better."
-    mc "After I had it for a while I... Realized it could be made better."
+    mc "Depois de usar por um tempo, eu... percebi que dava pra melhorar."
 

@@ -1968,53 +1968,53 @@ translate portuguese strings:
 translate portuguese sm1cs_ns007_walkaway_e0cd2531:
 
     # ns "I will award you...{w}an Eight out of Ten."
-    ns "I will award you...{w}an Eight out of Ten."
+    ns "Eu te dou...{w}um Oito de Dez."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:234
 translate portuguese sm1cs_ns007_resturant_0eecd966:
 
     # ns "I disagree. I've told you many things I like."
-    ns "I disagree. I've told you many things I like."
+    ns "Discordo. Eu já te falei várias coisas de que eu gosto."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:595
 translate portuguese sm1cs_ns007_light_house_eb237d93:
 
     # ns "I feel... comfortable... with you."
-    ns "I feel... comfortable... with you."
+    ns "Eu me sinto... confortável... com você."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:694
 translate portuguese sm1cs_ns007_light_house_0c97487e:
 
     # ns "*excited but stifled moaning*"
-    ns "*excited but stifled moaning*"
+    ns "*gemidos contidos, mas animados*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:806
 translate portuguese sm1cs_ns007_light_house_5d826925:
 
     # ns "*moaning. I love... hearing that... ooouhah...*"
-    ns "*moaning. I love... hearing that... ooouhah...*"
+    ns "*gemendo* Eu adoro... ouvir isso... ooouhah..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:882
 translate portuguese sm1cs_ns007_light_house_81160ea0:
 
     # ns "*whispers* It's just like the hentai."
-    ns "*whispers* It's just like the hentai."
+    ns "*sussurra* É igualzinho ao hentai."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:910
 translate portuguese sm1cs_ns007_light_house_4e72d60e:
 
     # ns "Yes. Thank you, [mcname]."
-    ns "Yes. Thank you, [mcname]."
+    ns "Sim. Obrigada, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1001
 translate portuguese sm1cs_ns007_walkaway_9dae56c9:
 
     # ns "Hmm... considering the food, conversation, company and the amount of times I came..."
-    ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+    ns "Hmm... considerando a comida, a conversa, a companhia e quantas vezes eu gozei..."
 
 translate portuguese strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:439
     old "The people close to me are happy about it"
-    new "The people close to me are happy about it"
+    new "As pessoas próximas a mim estão felizes com isso"
 

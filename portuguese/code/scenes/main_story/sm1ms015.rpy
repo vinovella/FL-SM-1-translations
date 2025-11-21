@@ -326,7 +326,7 @@ translate portuguese sm1ms015_c978a465:
 translate portuguese sm1ms015_05ee9ede:
 
     # mc "Thank you, Miss Watts."
-    mc "Obrigada, Srta. Watts."
+    mc "Obrigado, Srta. Watts."
 
 # game/code/scenes/main_story/sm1ms015.rpy:163
 translate portuguese sm1ms015_07c3d6f6:
@@ -878,29 +878,29 @@ translate portuguese sm1ms015_894728ea:
 translate portuguese sm1ms015_23dee611:
 
     # mc "Their main focus is developing IT solutions and infrastructure."
-    mc "Their main focus is developing IT solutions and infrastructure."
+    mc "O foco principal é desenvolver soluções e infraestrutura de TI."
 
 # game/code/scenes/main_story/sm1ms015.rpy:47
 translate portuguese sm1ms015_4211e622:
 
     # mc "Everything okay, Mom?"
-    mc "Everything okay, Mom?"
+    mc "Tudo bem, Mãe?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:157
 translate portuguese sm1ms015_d989617b:
 
     # cw "Never mind."
-    cw "Never mind."
+    cw "Esquece."
 
 # game/code/scenes/main_story/sm1ms015.rpy:246
 translate portuguese sm1ms015_fdab53eb:
 
     # ns "And I'm delighted to meet you too, Ms. Melony."
-    ns "And I'm delighted to meet you too, Ms. Melony."
+    ns "E também é um prazer te conhecer, Sra. Melony."
 
 # game/code/scenes/main_story/sm1ms015.rpy:381
 translate portuguese sm1ms015_23fb47ba:
 
     # sy "Haha. He's got you there, Mom."
-    sy "Haha. He's got you there, Mom."
+    sy "Haha. Te pegou, Mãe."
 
