@@ -77,3 +77,4 @@ translate french strings:
     new "Laisser tomber"
 
 #Translate by BlackViper_
+

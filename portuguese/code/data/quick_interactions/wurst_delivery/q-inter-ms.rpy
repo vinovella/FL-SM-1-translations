@@ -844,3 +844,9 @@ translate portuguese q_inter_ms_19_6c302b48:
     # ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
     ms "Te ver só me lembra que daqui a pouco vou estar de volta pegando em salsicha no trabalho."
 
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:331
+translate portuguese q_inter_ms_31_c231c7c3:
+
+    # mc "How are you doing today?"
+    mc "How are you doing today?"
+

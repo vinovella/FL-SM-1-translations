@@ -395,3 +395,4 @@ translate french sm1cs_mh002_4165b5fc:
     mh "On dirait que dès que vous avez pris de la vitesse, vous avez pu percer le voile du mystère assez rapidement pour comprendre ce que Lydia faisait."
 
 #Translate by BlackViper_
+

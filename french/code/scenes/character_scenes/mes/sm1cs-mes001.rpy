@@ -1049,3 +1049,4 @@ translate french sm1cs_mes001_229c1cea:
     mc "Hé, on fait ça aussi, mais on peut être sérieux quand il faut."
 
 #Translate by BlackViper_
+

@@ -1185,3 +1185,4 @@ translate french strings:
     new "Immédiatement"
 
 #Translate by BlackViper_
+

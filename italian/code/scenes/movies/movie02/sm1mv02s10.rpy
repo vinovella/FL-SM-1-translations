@@ -1064,7 +1064,7 @@ translate italian sm1mv02s10_sex_7189ffd0:
 translate italian sm1mv02s10_sex_0b917359:
 
     # ns "Nua-hhuah... Keep going... and we'll see."
-    ns "Nua-hhuah... Keep going... and we'll see."
+    ns "Nua-hhuah... Continua... e vedremo."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:731
 translate italian sm1mv02s10_sex_faa03e1a:
@@ -1160,7 +1160,7 @@ translate italian sm1mv02s10_sex_e2a8802b:
 translate italian sm1mv02s10_sex_147173f6:
 
     # mes "Awhua-fuck... You're hitting that perfect spot, [mcname]!"
-    mes "Awhua-fuck... You're hitting that perfect spot, [mcname]!"
+    mes "Awhua-cazzo... Stai colpendo quel punto perfetto, [mcname]!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:800
 translate italian sm1mv02s10_sex_173fde24:
@@ -1214,7 +1214,7 @@ translate italian sm1mv02s10_sex_e2395518:
 translate italian sm1mv02s10_sex_e7c1a958:
 
     # mh "Muaha-huaah... flatterer. Don't you like solo adventures?"
-    mh "Muaha-huaah... flatterer. Don't you like solo adventures?"
+    mh "Muaha-huaah... adulatore. Non ti piacciono le avventure in solitaria?"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:855
 translate italian sm1mv02s10_sex_95838639:

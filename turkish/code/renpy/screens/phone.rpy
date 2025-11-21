@@ -28,8 +28,6 @@
     old "Settings"
     new "Ayarlar"
 
-translate turkish strings:
-
     # game/code/renpy/screens/phone.rpy:69
     old "Laptop"
     new "Dizüstü"
@@ -38,15 +36,15 @@ translate turkish strings:
     old "Studio Laptop"
     new "Stüdyo Dizüstü"
 
-translate turkish strings:
-
     # game/code/renpy/screens/phone.rpy:115
     old "Day: [gt.get_day_number()]"
     new "Gün: [gt.get_day_number()]"
 
-translate turkish strings:
-
     # game/code/renpy/screens/phone.rpy:77
     old "Save for Season 2"
-    new "Save for Season 2"
+    new "Sezon 2 için Kaydet"
+
+    # game/code/renpy/screens/phone.rpy:88
+    old "Settings{#phone_button}"
+    new "Ayarlar{#phone_button}"
 

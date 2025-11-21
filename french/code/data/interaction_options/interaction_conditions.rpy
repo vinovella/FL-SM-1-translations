@@ -9,3 +9,4 @@
     new "Tu dois d'abord avancer dans l'histoire de Kanya"
 
 #Translate by BlackViper_
+

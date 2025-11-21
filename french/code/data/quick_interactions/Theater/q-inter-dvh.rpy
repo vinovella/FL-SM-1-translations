@@ -113,3 +113,4 @@ translate french q_inter_dvh_7_c4c0ebea:
     mc "Tu ne le regretteras pas."
 
 #Translate by BlackViper_
+

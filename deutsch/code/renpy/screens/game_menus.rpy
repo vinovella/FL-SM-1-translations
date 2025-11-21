@@ -45,3 +45,4 @@ translate deutsch strings:
     # game/code/renpy/screens/game_menus.rpy:169
     old "SETTINGS"
     new "EINSTELLUNGEN"
+

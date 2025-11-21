@@ -95,3 +95,4 @@ translate french sm1cs_sy001i_rent_penalty_f800bed0:
     mc "Oui."
 
 #Translate by BlackViper_
+
