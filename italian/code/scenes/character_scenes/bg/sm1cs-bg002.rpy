@@ -301,8 +301,8 @@ translate italian sm1cs_bg002_white_screen_97bc398d:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:184
 translate italian sm1cs_bg002_white_screen_8e479415:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:186
 translate italian sm1cs_bg002_white_screen_bce2378a:
@@ -313,8 +313,8 @@ translate italian sm1cs_bg002_white_screen_bce2378a:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:189
 translate italian sm1cs_bg002_white_screen_8e479415_1:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:191
 translate italian sm1cs_bg002_white_screen_a4af40b3:
@@ -337,8 +337,8 @@ translate italian sm1cs_bg002_white_screen_997c7f35:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:200
 translate italian sm1cs_bg002_white_screen_8e479415_2:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:203
 translate italian sm1cs_bg002_white_screen_4fff6bc0:
@@ -373,8 +373,8 @@ translate italian sm1cs_bg002_white_screen_e2a3843c:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:218
 translate italian sm1cs_bg002_white_screen_8e479415_3:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:221
 translate italian sm1cs_bg002_white_screen_7d1c2f49:
@@ -391,8 +391,8 @@ translate italian sm1cs_bg002_white_screen_ab361ec2:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:226
 translate italian sm1cs_bg002_white_screen_8e479415_4:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:228
 translate italian sm1cs_bg002_white_screen_4ce8ebce:
@@ -409,8 +409,8 @@ translate italian sm1cs_bg002_white_screen_2fdaa9cd:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:232
 translate italian sm1cs_bg002_white_screen_8e479415_5:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:235
 translate italian sm1cs_bg002_white_screen_cc7ad900:
@@ -481,14 +481,14 @@ translate italian sm1cs_bg002_white_screen_32e8f3be:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:263
 translate italian sm1cs_bg002_white_screen_8e479415_6:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:266
 translate italian sm1cs_bg002_white_screen_8e479415_7:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:268
 translate italian sm1cs_bg002_white_screen_99e70c51:
@@ -511,8 +511,8 @@ translate italian sm1cs_bg002_white_screen_efc4a4fe:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:276
 translate italian sm1cs_bg002_white_screen_8e479415_8:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:278
 translate italian sm1cs_bg002_white_screen_a1d73434:
@@ -523,14 +523,14 @@ translate italian sm1cs_bg002_white_screen_a1d73434:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:281
 translate italian sm1cs_bg002_white_screen_8e479415_9:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:284
 translate italian sm1cs_bg002_white_screen_8e479415_10:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:287
 translate italian sm1cs_bg002_white_screen_7fcf8259:
@@ -559,8 +559,8 @@ translate italian sm1cs_bg002_white_screen_cbd2a58c:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:297
 translate italian sm1cs_bg002_white_screen_8e479415_11:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:300
 translate italian sm1cs_bg002_white_screen_1619743a:
@@ -589,8 +589,8 @@ translate italian sm1cs_bg002_white_screen_6901f9fd:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:310
 translate italian sm1cs_bg002_white_screen_8e479415_12:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:312
 translate italian sm1cs_bg002_white_screen_e4ea2075:
@@ -613,8 +613,8 @@ translate italian sm1cs_bg002_white_screen_cd7b4ec8:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:318
 translate italian sm1cs_bg002_white_screen_8e479415_13:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:321
 translate italian sm1cs_bg002_white_screen_81f36e03:
@@ -667,8 +667,8 @@ translate italian sm1cs_bg002_white_screen_3ad35199:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:343
 translate italian sm1cs_bg002_white_screen_8e479415_14:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:348
 translate italian sm1cs_bg002_white_screen_a31340dd:
@@ -709,14 +709,14 @@ translate italian sm1cs_bg002_white_screen_818e5faf:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:363
 translate italian sm1cs_bg002_white_screen_8e479415_15:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:367
 translate italian sm1cs_bg002_white_screen_8e479415_16:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:370
 translate italian sm1cs_bg002_white_screen_7e51bb71:
@@ -757,8 +757,8 @@ translate italian sm1cs_bg002_white_screen_cc761816:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:386
 translate italian sm1cs_bg002_white_screen_8e479415_17:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:388
 translate italian sm1cs_bg002_white_screen_eba4471b:
@@ -913,8 +913,8 @@ translate italian sm1cs_bg002_continue_shoot_eeffb9b3:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:464
 translate italian sm1cs_bg002_continue_shoot_8e479415:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:465
 translate italian sm1cs_bg002_continue_shoot_dca36c2e:
@@ -961,8 +961,8 @@ translate italian sm1cs_bg002_continue_shoot_c7ab7bc9:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:494
 translate italian sm1cs_bg002_continue_shoot_8e479415_1:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:497
 translate italian sm1cs_bg002_continue_shoot_3d1d69eb:
@@ -1345,8 +1345,8 @@ translate italian sm1cs_bg002_continue_shoot_50053e49:
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:687
 translate italian sm1cs_bg002_continue_shoot_8e479415_2:
 
-    # "*CAMERA STROBE SOUND*"
-    "*CAMERA STROBE SOUND*"
+    # "*SUONO FLASH FOTOCAMERA*"
+    "*SUONO FLASH FOTOCAMERA*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:693
 translate italian sm1cs_bg002_continue_shoot_a77ac555:
