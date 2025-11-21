@@ -506,7 +506,7 @@ translate portuguese strings:
 
     # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:148
     old "Tell Denise why you're different"
-    new "Falar para Denise como você é diferente"
+    new "Falar para Denise como é diferente"
 
     # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:148
     old "Tell Denise that you're only interested in acting"
@@ -516,11 +516,11 @@ translate portuguese strings:
 translate portuguese sm1cs_dvh001_5264a337:
 
     # dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
-    dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
+    dvh "Já já eu volto ao palco. Só preciso de um tempo para respirar fundo."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:213
 translate portuguese sm1cs_dvh001_169f969d:
 
     # dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
-    dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
+    dvh "Eu vejo potencial em você. Mas até eu ver que não é outro Bram, não vou desperdiçar mais tempo com você."
 
